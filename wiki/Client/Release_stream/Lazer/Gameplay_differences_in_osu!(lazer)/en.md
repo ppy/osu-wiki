@@ -41,7 +41,7 @@ This is mostly due to changes to the judgement system. For example, Geki and Kat
 
 ### All game modes except osu!catch use the same grading system
 
-In stable, the accuracy (and judgement) requirements for each [grade](/wiki/Gameplay/Grade) are as follows:  
+In stable, the accuracy (and judgement) requirements for each [grade](/wiki/Gameplay/Grade) are as follows:
 
 | Grade | osu! / osu!taiko | osu!catch | osu!mania |
 | :-: | :-- | :-- | :-- |
@@ -138,7 +138,7 @@ Until lazer, sliders have only required the accuracy of a 50/MEH judgement to re
 
 Missing a slider head (either by not hitting it or hitting it during its miss window) would previously break combo but not cause a MISS judgement, and a judgement could still be received for the missed slider by completing the rest of it. This allowed players to get scores with low max combo while technically having no misses.
 
-In lazer, not hitting the slider head will give a MISS judgement for the whole slider. After missing a slider head, combo, score, and accuracy can still be gained from slider ticks and repeats, while only score and accuracy can still be gained from the slider end.
+In lazer, not hitting the slider head will give a MISS judgement for the whole slider. After missing a slider head, combo, score, and accuracy can still be gained from slider ticks, repeats, and ends.
 
 |  |  |
 | :-- | :-: |
@@ -160,9 +160,17 @@ In stable, slider ends would play their hitsounds even if they were missed, as l
 
 ### The spinner spin speed cap of 477 RPM has been removed
 
-Instead of a speed cap, spinners now have a score cap determined by the total amount of rotations that can be achieved by spinning the entire spinner at 477 RPM.
+Instead of a speed cap, spinners now have a score cap determined by the total amount of rotations that can be achieved by spinning the entire spinner at a certain RPM depending on OD.
 
 This means that the maximum score can be obtained early by spinning faster, with no more points awarded afterwards for the rest of the spinner duration.
+
+The RPM required to get the maximum score is as follows:
+
+| OD | RPM |
+| --: | --: |
+| 0 | 250 |
+| 5 | 380 |
+| 10 | 430 |
 
 |  |  |
 | :-- | :-: |
