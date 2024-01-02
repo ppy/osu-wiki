@@ -6,7 +6,7 @@ date: 2024-01-01 10:00:00 +0000
 
 Grab yourself a hot cup of cocoa, sit by the fireplace and pick your favourite skins of 2023.
 
-![](/wiki/shared/news/2023-02-09-Skin-of-the-Year-2022/SOTY-2022-banner.jpg)
+![](/wiki/shared/news/2024-01-01-skin-of-the-year-2023/banner.jpg)
 
 With the new year barely getting started, now is the perfect chance to look back at 2023 and choose the highlights of the year, regardless of the topic. Looking back at skinning in 2023, there were lots of interesting things that happened in 2023 within the skinning community. There was a [new skinning contest themed around icons of an era](/wiki/Contests/Skinning_Contest/4), 2 new skinning GMT's were elected (congrats to [Roan](https://osu.ppy.sh/users/8214639) and [Redo_](https://osu.ppy.sh/users/7122165)!) and skinning changes were made to both the osu!(stable) and osu!(lazer) client.
 
