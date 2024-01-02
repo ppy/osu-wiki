@@ -1,4 +1,6 @@
 ---
+outdated_since: 6d51ac66205d0c4dc0251cd7cc40b07e3f1bb3ae
+outdated_translation: true
 tags:
   - osu! staff
   - osu!staff
@@ -28,11 +30,11 @@ Die unten aufgeführten Personen bilden den Kern des **osu!-Teams** und sind hau
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Organisator und Verwalter des [World Cups](/wiki/Tournaments#offizielle-world-cups) |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | [Featured Artist](/wiki/People/Featured_Artists) Kontaktaufnahme, Sekretär beim [World Cup](/wiki/Tournaments#offizielle-world-cups) |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | osu!-Entwickler, technische Unterstützung |
-| ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883) |  osu!web Entwickler |
+| ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883) | osu!web Entwickler |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Allgemeiner Hausmeister, Moderationsberater |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Berater für die Modding- und Mapping-Szene |
-| ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) |  osu!web Entwickler, [Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
-| ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) |  osu!web Entwickler |
+| ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | osu!web Entwickler, [Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
+| ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web Entwickler |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [Moderator](/wiki/People/Global_Moderation_Team), Berater für die Modding- und Mapping-Szene |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Moderator des [osu! YouTube-Kanals](https://www.youtube.com/@osugame), [Mappers' Guild](/wiki/Community/Mappers_Guild) Organisator, [Featured Artist](/wiki/People/Featured_Artists) Kontaktaufnahme |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Leiter des [NATs](/wiki/People/Nomination_Assessment_Team) |

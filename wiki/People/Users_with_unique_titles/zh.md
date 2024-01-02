@@ -6,34 +6,34 @@
 
 每年，[官方世界杯](/wiki/Tournaments#官方世界杯)的获胜者都会被授予 **osu!/osu!taiko/osu!catch/osu!mania Champion** 头衔。这个头衔的有效时间将会持续到来年同名世界杯举办。
 
-拥有 **osu! Champion** 头衔的 [OWC 2022](/wiki/Tournaments/OWC/2022) 冠军：
+拥有 **osu! Champion** 头衔的 [OWC 2023](/wiki/Tournaments/OWC/2023) 冠军：
 
 - ::{ flag=US }:: [BoshyMan741](https://osu.ppy.sh/users/4830687)
-- ::{ flag=US }:: [Decaten](https://osu.ppy.sh/users/5645231)
-- ::{ flag=US }:: [im a fancy lad](https://osu.ppy.sh/users/4908650)
-- ::{ flag=US }:: [Monko2k](https://osu.ppy.sh/users/4852013)
+- ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958)
+- ::{ flag=US }:: [Kama](https://osu.ppy.sh/users/13380270)
 - ::{ flag=US }:: [Rektygon](https://osu.ppy.sh/users/7813296)
-- ::{ flag=US }:: [Sawada](https://osu.ppy.sh/users/8198848)
-- ::{ flag=US }:: [Tekkito](https://osu.ppy.sh/users/7075211)
-- ::{ flag=US }:: [Utami](https://osu.ppy.sh/users/7512553)
+- ::{ flag=US }:: [tekkito](https://osu.ppy.sh/users/7075211)
+- ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150)
+- ::{ flag=US }:: [WindowLife](https://osu.ppy.sh/users/4108547)
+- ::{ flag=US }:: [wudci](https://osu.ppy.sh/users/2590257)
 
-拥有 **osu!taiko Champion** 头衔的 [OWC 2022](/wiki/Tournaments/TWC/2022) 冠军：
+拥有 **osu!taiko Champion** 头衔的 [TWC 2023](/wiki/Tournaments/TWC/2023) 冠军：
 
 - ::{ flag=JP }:: [ekumea1123](https://osu.ppy.sh/users/9119501)
 - ::{ flag=JP }:: [Grape\_Tea](https://osu.ppy.sh/users/9540073)
-- ::{ flag=JP }:: [nameless\_ll](https://osu.ppy.sh/users/11199742)
+- ::{ flag=JP }:: [kanten\_07](https://osu.ppy.sh/users/11680357)
+- ::{ flag=JP }:: [kotohira\_06](https://osu.ppy.sh/users/22444525)
+- ::{ flag=JP }:: [Nanas3](https://osu.ppy.sh/users/17015562)
 - ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950)
-- ::{ flag=JP }:: [syaron105](https://osu.ppy.sh/users/8741695)
-- ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719)
 
-拥有 **osu!catch Champion** 头衔的 [CWC 2022](/wiki/Tournaments/CWC/2022) 冠军：
+拥有 **osu!catch Champion** 头衔的 [CWC 2023](/wiki/Tournaments/CWC/2023) 冠军：
 
-- ::{ flag=KR }:: [Byeol](https://osu.ppy.sh/users/2754651)
-- ::{ flag=KR }:: [CTB Rushia1](https://osu.ppy.sh/users/4158549)
 - ::{ flag=KR }:: [DreStar](https://osu.ppy.sh/users/1808057)
 - ::{ flag=KR }:: [JISAN](https://osu.ppy.sh/users/3657951)
+- ::{ flag=KR }:: [OYG](https://osu.ppy.sh/users/7547506)
 - ::{ flag=KR }:: [Rells](https://osu.ppy.sh/users/7937519)
-- ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276)
+- ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520)
+- ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549)
 
 拥有 **osu!mania 4K Champion** 头衔的 [MWC 4K 2023](/wiki/Tournaments/MWC/2023_4K) 冠军：
 
@@ -70,12 +70,13 @@
 | [OWC 2018](/wiki/Tournaments/OWC/2018) | Former osu! Champion: 2018 | *N/A* |
 | [OWC 2019](/wiki/Tournaments/OWC/2019) | Former osu! Champion: 2019 | ::{ flag=US }:: [idke](https://osu.ppy.sh/users/4650315), ::{ flag=US }:: [t\[-\_-t\]](https://osu.ppy.sh/users/2644828), ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) |
 | [OWC 2020](/wiki/Tournaments/OWC/2020) | Former osu! Champion: 2020 | ::{ flag=US }:: [Apraxia](https://osu.ppy.sh/users/4194445), ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691), ::{ flag=US }:: [kablaze](https://osu.ppy.sh/users/3043603), ::{ flag=US }:: [Rektygon](https://osu.ppy.sh/users/7813296), ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150) |
-| [OWC 2021](/wiki/Tournaments/OWC/2020) | Former osu! Champion: 2021 | ::{ flag=US }:: [Aireu](https://osu.ppy.sh/users/1650010), ::{ flag=US }:: [Aricin](https://osu.ppy.sh/users/1419095), ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207), ::{ flag=US }:: [Exarch](https://osu.ppy.sh/users/5370153), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |
+| [OWC 2021](/wiki/Tournaments/OWC/2021) | Former osu! Champion: 2021 | ::{ flag=US }:: [Aireu](https://osu.ppy.sh/users/1650010), ::{ flag=US }:: [Aricin](https://osu.ppy.sh/users/1419095), ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207), ::{ flag=US }:: [Exarch](https://osu.ppy.sh/users/5370153), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |
+| [OWC 2022](/wiki/Tournaments/OWC/2022) | Former osu! Champion: 2022 | ::{ flag=US }:: [decaten](https://osu.ppy.sh/users/5645231), ::{ flag=US }:: [im a fancy lad](https://osu.ppy.sh/users/4908650), ::{ flag=US }:: [Monko2k](https://osu.ppy.sh/users/4852013), ::{ flag=US }:: [Sawada](https://osu.ppy.sh/users/8198848), ::{ flag=US }:: [Utami](https://osu.ppy.sh/users/7512553) |
 
 拥有 **Former osu!taiko Champion** 头衔，在之前 osu!taiko 世界杯获胜的冠军：
 
 | 锦标赛 | 头衔 | 头衔获得者 |
-| :-:| :-- | :-- |
+| :-: | :-- | :-- |
 | [TWC 2011](/wiki/Tournaments/TWC/2011) | Former osu!taiko Champion: #1 | ::{ flag=TW }:: [Numbers 596108](https://osu.ppy.sh/users/194653), ::{ flag=TW }:: [TW-KUMA01](https://osu.ppy.sh/users/244499) |
 | [TWC 2012](/wiki/Tournaments/TWC/2012) | Former osu!taiko Champion: #2 | ::{ flag=JP }:: [-Asuke-](https://osu.ppy.sh/users/863073), ::{ flag=JP }:: [pota-row](https://osu.ppy.sh/users/858415), ::{ flag=JP }:: [TTTL](https://osu.ppy.sh/users/164583) |
 | [TWC #3](/wiki/Tournaments/TWC/3) | Former osu!taiko Champion: #3 | ::{ flag=TW }:: [-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910), ::{ flag=TW }:: [oiu850714](https://osu.ppy.sh/users/437607), ::{ flag=TW }:: [yikao](https://osu.ppy.sh/users/352674), ::{ flag=TW }:: [zx\_baka\_0502442](https://osu.ppy.sh/users/457766) |
@@ -87,11 +88,12 @@
 | [TWC 2019](/wiki/Tournaments/TWC/2019) | Former osu!taiko Champion: 2019 | ::{ flag=JP }:: [isobe](https://osu.ppy.sh/users/8047347), ::{ flag=JP }:: [v2fax](https://osu.ppy.sh/users/7739269) |
 | [TWC 2020](/wiki/Tournaments/TWC/2020) | Former osu!taiko Champion: 2020 | ::{ flag=JP }:: [iceOC](https://osu.ppy.sh/users/5482401), ::{ flag=JP }:: [kiyozi11](https://osu.ppy.sh/users/9551196) |
 | [TWC 2021](/wiki/Tournaments/TWC/2021) | Former osu!taiko Champion: 2021 | *N/A* |
+| [TWC 2022](/wiki/Tournaments/TWC/2022) | Former osu!taiko Champion: 2022 | ::{ flag=JP }:: [nameless\_ll](https://osu.ppy.sh/users/11199742), ::{ flag=JP }:: [syaron105](https://osu.ppy.sh/users/8741695), ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719) |
 
 拥有 **Former osu!catch Champion** 头衔，在之前 osu!catch 世界杯获胜的冠军：
 
 | 锦标赛 | 头衔 | 头衔获得者 |
-| :-:| :-- | :-- |
+| :-: | :-- | :-- |
 | [CWC](/wiki/Tournaments/CWC/1) | Former osu!catch Champion: #1 | ::{ flag=HK }:: [HineX](https://osu.ppy.sh/users/13854), ::{ flag=CN }:: [hy1hy1hy](https://osu.ppy.sh/users/243877), ::{ flag=CN }:: [joynama](https://osu.ppy.sh/users/169128) |
 | [CWC 2013](/wiki/Tournaments/CWC/2013) | Former osu!catch Champion: 2013 | ::{ flag=CL }:: [eldnl](https://osu.ppy.sh/users/285756), ::{ flag=CL }:: [Dark Diego](https://osu.ppy.sh/users/723787), ::{ flag=CL }:: [DaxMasterix](https://osu.ppy.sh/users/264914), ::{ flag=CL }:: [lineqtxz](https://osu.ppy.sh/users/989542) |
 | [CWC 2014](/wiki/Tournaments/CWC/2014) | Former osu!catch Champion: 2014 | ::{ flag=KR }:: [Kuzino](https://osu.ppy.sh/users/158552), ::{ flag=KR }:: [Last Bubble](https://osu.ppy.sh/users/1302259), ::{ flag=KR }:: [snail\_player](https://osu.ppy.sh/users/563262) |
@@ -100,13 +102,14 @@
 | [CWC 2017](/wiki/Tournaments/CWC/2017) | Former osu!catch Champion: 2017 | ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187), ::{ flag=KR }:: [mjj741](https://osu.ppy.sh/users/1459769) |
 | [CWC 2018](/wiki/Tournaments/CWC/2018) | Former osu!catch Champion: 2018 | ::{ flag=CN }:: [- N a g i -](https://osu.ppy.sh/users/2956936), ::{ flag=CN }:: [Crystal](https://osu.ppy.sh/users/1646397), ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210), ::{ flag=CN }:: [KagamineRin02](https://osu.ppy.sh/users/518503), ::{ flag=CN }:: [Kasumi](https://osu.ppy.sh/users/2331531), ::{ flag=CN }:: [Sakurano  Kurimu](https://osu.ppy.sh/users/1338103) |
 | [CWC 2019](/wiki/Tournaments/CWC/2019) | Former osu!catch Champion: 2019 | *N/A* |
-| [CWC 2020](/wiki/Tournaments/CWC/2020) | Former osu!catch Champion: 2020 | ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520) |
-| [CWC 2021](/wiki/Tournaments/CWC/2021) | Former osu!catch Champion: 2021 | ::{ flag=KR }:: [Abstract-](https://osu.ppy.sh/users/3097304), ::{ flag=KR }:: [qwhj1027](https://osu.ppy.sh/users/7547506) |
+| [CWC 2020](/wiki/Tournaments/CWC/2020) | Former osu!catch Champion: 2020 | ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) |
+| [CWC 2021](/wiki/Tournaments/CWC/2021) | Former osu!catch Champion: 2021 | ::{ flag=KR }:: [Abstract-](https://osu.ppy.sh/users/3097304) |
+| [CWC 2022](/wiki/Tournaments/CWC/2022) | Former osu!catch Champion: 2022 | ::{ flag=KR }:: [Byeol](https://osu.ppy.sh/users/2754651), ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) |
 
 拥有 **Former osu!mania Champion** 头衔，在之前 osu!mania 世界杯获胜的冠军：
 
 | 锦标赛 | 头衔 | 头衔获得者 |
-| :-:| :-- | :-- |
+| :-: | :-- | :-- |
 | [MWC 2014 (4K)](/wiki/Tournaments/MWC/2014) | Former osu!mania 4K Champion: 2014 | ::{ flag=KR }:: [Abcdullah](https://osu.ppy.sh/users/4140104), ::{ flag=KR }:: [jhlee1033](https://osu.ppy.sh/users/140148) |
 | [MWC 2014 (7K)](/wiki/Tournaments/MWC/2014) | Former osu!mania 7K Champion: 2014 | ::{ flag=KR }:: [jhlee0133](https://osu.ppy.sh/users/140148) |
 | [MWC 4K 2015](/wiki/Tournaments/MWC/2015) | Former osu!mania 4K Champion: 2015 | ::{ flag=US }:: [Chrubble](https://osu.ppy.sh/users/2594280), ::{ flag=US }:: [EtienneXC](https://osu.ppy.sh/users/5610085), ::{ flag=US }:: [Halogen-](https://osu.ppy.sh/users/169992), ::{ flag=US }:: [Shadow\_SM](https://osu.ppy.sh/users/4552987), ::{ flag=US }:: [Solara](https://osu.ppy.sh/users/4830970), ::{ flag=US }:: [Zyph](https://osu.ppy.sh/users/1600432) |
@@ -274,7 +277,7 @@ osu! 团队为想要改动设计或重新设计游戏某些吉祥物的社区成
 | ::{ flag=US }:: [EEEEEEEEEEEEEEE](https://osu.ppy.sh/users/2927048) | osu!completionist | 截至 2023 年 3 月 15 日，游玩了 osu! 全部上架谱面。 |
 | ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator | 截至 2019 年 11 月 3 日，FC 了全部 8841 张 osu!taiko 上架谱面。 |
 | ::{ flag=PL }:: [Przegrany](https://osu.ppy.sh/users/7635621) | osu!completionist | 截至 2021 年 8 月 11 日，游玩了 osu! 全部上架谱面。 |
-| ::{ flag=NL }:: [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | 在 2008 年末，他在一周之内达到了 #104 名次，头衔由 ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) 颁发。请参见：[*美妙世界*](https://mzh.moegirl.org.cn/%E7%BE%8E%E5%A6%99%E4%B8%96%E7%95%8C) <!-- source: https://osu.ppy.sh/community/forums/posts/60664 (Shirotora_old's forum signature) --> |
+| ::{ flag=NL }:: [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | 在 2008 年末，他在一周之内达到了 #104 名次，头衔由 ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) 颁发。请参见：[*美妙世界*](https://mzh.moegirl.org.cn/%E7%BE%8E%E5%A6%99%E4%B8%96%E7%95%8C) |
 | ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | 截至 2019 年 4 月 27 日，游玩了 osu! 全部上架谱面。 |
 | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | [第一个解锁 *The Girl in the Forest* 奖章的玩家](https://osu.ppy.sh/community/forums/topics/662279) |
 | ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) | Medal Hunter | [第一个解锁 *Internment* 奖章的玩家](https://twitter.com/osugame/status/1696007320663359800) |
@@ -289,19 +292,20 @@ osu! 团队为想要改动设计或重新设计游戏某些吉祥物的社区成
 | 玩家 | 头衔 |
 | :-- | :-- |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) | World Cup Organiser |
-| ::{ flag=CN }:: [Ballance](https://osu.ppy.sh/users/165946) | osu!painter<!-- achievements and some other graphics --> |
+| ::{ flag=CN }:: [Ballance](https://osu.ppy.sh/users/165946) | osu!painter |
 | ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) | osu! Paragon |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | World Cup Organiser |
-| ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) | osu!painter<!-- maria and yuzu and a bunch of artwork for old site --> |
+| ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) | osu!painter |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | osu!taiko Paragon |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch Paragon |
-| ::{ flag=DE }:: [LastExceed](https://osu.ppy.sh/users/6232245) | Master of the Fade<!-- implemented fade in and hidden mod in osu!(lazer) and notable Fade In player --> |
+| ::{ flag=DE }:: [LastExceed](https://osu.ppy.sh/users/6232245) | Master of the Fade |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | World Cup Organiser |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Resident Skinner |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | Pro Tester |
 | ::{ flag=US }:: [nuudles](https://osu.ppy.sh/users/21312) | iPhone Dev |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | osu!taiko Paragon |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | osu! Paragon |
-| ::{ flag=SE }:: [PuffBuck](https://osu.ppy.sh/users/4234525) | Always Watching<!-- osulive moderator, hype train conductor and osu! world cup contributor --> |
+| ::{ flag=SE }:: [PuffBuck](https://osu.ppy.sh/users/4234525) | Always Watching |
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter |
 | ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707) | osu!mania Paragon |
 | ::{ flag=NL }:: [statementreply](https://osu.ppy.sh/users/126198) | Pro Tester |
@@ -313,15 +317,16 @@ osu! 团队为想要改动设计或重新设计游戏某些吉祥物的社区成
 | 玩家 | 头衔 |
 | :-- | :-- |
 | ::{ flag=SH }:: [BanchoBot](https://osu.ppy.sh/users/3) | w00t p00t |
-| ::{ flag=US }:: [Derekku](https://osu.ppy.sh/users/91341) | COOL DUDE<!-- old forum meme --> |
-| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Popcorn Fairy<!-- movie threater pictures in staff chats, or something --> |
+| ::{ flag=US }:: [Derekku](https://osu.ppy.sh/users/91341) | COOL DUDE |
+| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Inland Empire |
+| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Popcorn Fairy |
 | ::{ flag=AU }:: [phill_old](https://osu.ppy.sh/users/53) | ¿ |
 | ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Former osu! Champion: 2019 / Grilled Dodongo |
 | ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) | Boats |
 
 ## 备注
 
-[^mao-note]: ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) 成功地通过两种不同的方式获得 **Elite Mapper** 头衔从而被授予 **Elite Mapper II** 头衔：在 [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) 大赛中获胜，以及在新的[作图月赛 (MBC)](/wiki/Contests/Monthly_Beatmapping_Contest) 系统中获得了 6 分以上。 
+[^mao-note]: ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) 成功地通过两种不同的方式获得 **Elite Mapper** 头衔从而被授予 **Elite Mapper II** 头衔：在 [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) 大赛中获胜，以及在新的[作图月赛 (MBC)](/wiki/Contests/Monthly_Beatmapping_Contest) 系统中获得了 6 分以上。
 [^elite-note]: ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) 和 ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) 因为连续两年获得了优秀提名者，所以头衔变更为**Elite Nominator II**。
 [^charles445-note]: ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) 因为在[作图月赛 (MBC) #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) 和[作图月赛 (MBC): Aspire (2014)](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results)中两次获胜，从而获得了 **Elite Mapper II: Aspirant** 头衔。
 [^billiummoto-note]: ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) 因为在 [osu!remix 竞赛 #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) 和 [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) 竞赛中两次获胜，从而获得了**osu!mixer II** 头衔。

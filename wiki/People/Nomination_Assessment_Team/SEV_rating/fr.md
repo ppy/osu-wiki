@@ -4,7 +4,7 @@ Le SEV est un système de mesure utilisé par la [Nomination Assessment Team](/w
 
 ## Évidence et gravité
 
-*Note : Une réinitialisation effectuée pour corriger des choses qui seraient considérées comme correctes si elles n'étaient pas corrigées est toujours notée 0/0. Ceci afin de ne pas décourager les moddeurs et l'application d'améliorations sur les [beatmaps qualifiées](/wiki/Beatmap/Category#qualifiée).*
+*Note : Une réinitialisation effectuée pour corriger des choses qui seraient considérées comme correctes si elles n'étaient pas corrigées est toujours notée 0/0. Ceci afin de ne pas décourager les moddeurs et l'application d'améliorations sur les [beatmaps qualifiées](/wiki/Beatmap/Category#qualified).*
 
 **L'évidence** concerne la facilité avec laquelle on peut repérer le problème.
 
