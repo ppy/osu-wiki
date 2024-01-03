@@ -8,7 +8,7 @@ Grab yourself a hot cup of cocoa, sit by the fireplace and pick your favourite s
 
 ![](/wiki/shared/news/2024-01-01-skin-of-the-year-2023/banner.jpg)
 
-With the new year barely getting started, now is the perfect chance to look back at 2023 and choose the highlights of the year, regardless of the topic. Looking back at skinning in 2023, there were lots of interesting things that happened in 2023 within the skinning community. There was a [new skinning contest themed around icons of an era](/wiki/Contests/Skinning_Contest/4), 2 new skinning GMT's were elected (congrats to [Roan](https://osu.ppy.sh/users/8214639) and [Redo_](https://osu.ppy.sh/users/7122165)!) and skinning changes were made to both the osu!(stable) and osu!(lazer) client.
+With the new year barely getting started, now is the perfect chance to look back at 2023 and choose the highlights of the year. Let's briefly put our focus on the skinning community and look back at skinning in 2023 — there were lots of interesting things that happened, such as the ["Icons of an Era" skinning contest](/wiki/Contests/Skinning_Contest/4), 2 new skinning GMT's being elected (congrats to [Roan](https://osu.ppy.sh/users/8214639) and [Redo_](https://osu.ppy.sh/users/7122165)!) and skinning changes were made to both osu!(stable) and osu!(lazer).
 
 Namely, [an osu!(stable) update](https://osu.ppy.sh/home/changelog/stable40/20231021.2) in late October added skinning support for some song select components, which are now being implemented in both new and older skins released during the year. Furthermore, osu!(lazer) received various new dynamic skinning elements throughout the year, a recent example being a [dynamic player name element](https://osu.ppy.sh/home/changelog/lazer/2023.1114.0) that changes depending on whether you are playing, spectating someone or watching a replay.
 
@@ -26,6 +26,6 @@ This year we had **TBD** skins that have been submitted to the [skinning forums]
 
 The voting will remain open for **14 days** after this post goes up, closing officially on the **TBD**. Hopefully, that should be enough time to go through the catalogue and pick your favourites.
 
-Thanks to everyone who submitted their hard work to the compendium, and good luck!
+Thanks to everyone who contributed to the compendium in 2023, and good luck!
 
 —skinship
