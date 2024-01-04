@@ -45,7 +45,7 @@ The osu!mania 7K World Cup 2024 is run by the osu! team and various community me
 | Manager | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
 | Mappool selector | ::{ flag=US }:: **[\-NoName\-](https://osu.ppy.sh/users/10400730)**, ::{ flag=PL }:: [\_underjoy](https://osu.ppy.sh/users/2235750), ::{ flag=BR }:: [Makiba](https://osu.ppy.sh/users/7539957), ::{ flag=KR }:: [Remuring](https://osu.ppy.sh/users/6522146) |
 | Referee | ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387), ::{ flag=FR }:: [Aidown](https://osu.ppy.sh/users/1522146), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=IN }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
-| Mappool playtester | ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713), ::{ flag=PL }:: [\_underjoy](https://osu.ppy.sh/users/2235750), ::{ flag=US }:: [\-NoName\-](https://osu.ppy.sh/users/10400730), ::{ flag=US }:: [Blocko](https://osu.ppy.sh/users/4075092), ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090), ::{ flag=KR }:: [DellyK](https://osu.ppy.sh/users/19791211), ::{ flag=SG }:: [Evening](https://osu.ppy.sh/users/2193881), ::{ flag=US }:: [Jinjin](https://osu.ppy.sh/users/3360737), ::{ flag=JP }:: [LuluM](https://osu.ppy.sh/users/13151924), ::{ flag=BR }:: [Makiba](https://osu.ppy.sh/users/7539957), ::{ flag=PH }:: [MapleSyrup\-](https://osu.ppy.sh/users/1192936), ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063), ::{ flag=KR }:: [Remuring](https://osu.ppy.sh/users/6522146), ::{ flag=US }:: [RhymesWithMash](https://osu.ppy.sh/users/18834550), ::{ flag=BR }:: [roko100789](https://osu.ppy.sh/users/3224958), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
+| Mappool playtester | ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713), ::{ flag=PL }:: [\_underjoy](https://osu.ppy.sh/users/2235750), ::{ flag=US }:: [\-NoName\-](https://osu.ppy.sh/users/10400730), ::{ flag=US }:: [Blocko](https://osu.ppy.sh/users/4075092), ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090), ::{ flag=KR }:: [DellyK](https://osu.ppy.sh/users/19791211), ::{ flag=SG }:: [Evening](https://osu.ppy.sh/users/2193881), ::{ flag=US }:: [Jinjin](https://osu.ppy.sh/users/3360737), ::{ flag=JP }:: [LuluM](https://osu.ppy.sh/users/13151924), ::{ flag=BR }:: [Makiba](https://osu.ppy.sh/users/7539957), ::{ flag=PH }:: [MapleSyrup\-](https://osu.ppy.sh/users/1192936), ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063), ::{ flag=KR }:: [Remuring](https://osu.ppy.sh/users/6522146), ::{ flag=US }:: [RhymesWithMash](https://osu.ppy.sh/users/18834550), ::{ flag=BR }:: [roko100789](https://osu.ppy.sh/users/3224958), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=US }:: [Terni](https://osu.ppy.sh/users/3279570) |
 | Mapper | *TBA* |
 | Commentator | *TBA* |
 | Statistician | **::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)**, ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
@@ -61,11 +61,11 @@ The osu!mania 7K World Cup 2024 is run by the osu! team and various community me
 | :-: | :-: | :-- |
 | ::{ flag=AR }:: | **Argentina** | **[lxLucasxl](https://osu.ppy.sh/users/3632846)**, [ottenst](https://osu.ppy.sh/users/13488325), [Greedom](https://osu.ppy.sh/users/10696707), [clonedroid](https://osu.ppy.sh/users/21114236) |
 | ::{ flag=AU }:: | **Australia** | **[ruka](https://osu.ppy.sh/users/6117525)**, [oct4](https://osu.ppy.sh/users/10303887), [my angel zhla](https://osu.ppy.sh/users/6378800), [Bounter](https://osu.ppy.sh/users/11149878) |
-| ::{ flag=BR }:: | **Brazil** | **[tartbtw](https://osu.ppy.sh/users/8748747)** |
+| ::{ flag=BR }:: | **Brazil** | **[tartbtw](https://osu.ppy.sh/users/8748747)**, [SillyFangirl](https://osu.ppy.sh/users/2288363), [LothusFangirl](https://osu.ppy.sh/users/4685756), [cassioFanGirl](https://osu.ppy.sh/users/12017594) |
 | ::{ flag=CA }:: | **Canada** | **[UmmmMrMoo](https://osu.ppy.sh/users/15314355)** |
 | ::{ flag=CL }:: | **Chile** | **[Skalim](https://osu.ppy.sh/users/2225008)**, [ItzBenja616](https://osu.ppy.sh/users/8538906), [Sebaex](https://osu.ppy.sh/users/4686036) |
 | ::{ flag=CN }:: | **China** | **[tyrcs](https://osu.ppy.sh/users/13026904)**, [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), [QingJiDing](https://osu.ppy.sh/users/10569738), [VanWilder](https://osu.ppy.sh/users/89545) |
-| ::{ flag=CO }:: | **Colombia** | **[xNett](https://osu.ppy.sh/users/4998501)** |
+| ::{ flag=CO }:: | **Colombia** | **[xNett](https://osu.ppy.sh/users/4998501)**, [xSoiFan](https://osu.ppy.sh/users/13896159), [ag0](https://osu.ppy.sh/users/17989209) |
 | ::{ flag=CZ }:: | **Czechia** | **[Tiputo](https://osu.ppy.sh/users/12399822)** |
 | ::{ flag=DK }:: | **Denmark** | **[Fritte](https://osu.ppy.sh/users/5001658)**, [Jole](https://osu.ppy.sh/users/2883132), [-Melon](https://osu.ppy.sh/users/7266339), [Stoom](https://osu.ppy.sh/users/13572493) |
 | ::{ flag=EC }:: | **Ecuador** | **[TWulfZ](https://osu.ppy.sh/users/23249551)** |
@@ -102,7 +102,7 @@ The osu!mania 7K World Cup 2024 is run by the osu! team and various community me
 | ::{ flag=US }:: | **United States** | **[mashu](https://osu.ppy.sh/users/12028216)** |
 | ::{ flag=VN }:: | **Vietnam** | **[\_Moni\_](https://osu.ppy.sh/users/9710653)**, [Fish Cake](https://osu.ppy.sh/users/21692733), [Seiren Shikino](https://osu.ppy.sh/users/8291500), [\_Hitori\_](https://osu.ppy.sh/users/16297375) |
 
-Captains are listed in **bold**. Individual team compositions subject to change until **Friday, 5 January 2024**. This list was last updated on **3 January 2024**. 
+Captains are listed in **bold**. Individual team compositions subject to change until **Friday, 5 January 2024**. This list was last updated on **4 January 2024**. 
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2fdbd125eedb7bf268bd382dab1c05#file-mwc-7k-2024-player-list-csv).
 
