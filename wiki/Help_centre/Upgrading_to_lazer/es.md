@@ -171,7 +171,7 @@ Sí, usa un sistema de puntuación basado en ScoreV2 con algunos ajustes. Las pu
 
 #### Si establezco una puntuación en lazer, ¿permanecerá por siempre?
 
-Mientras que intentamos preservar la mayor cantidad de puntuaciones posibles, **no ofrecemos garantía de que las puntuaciones permaneceran indefinidamente**. En cualquier momento podemos optar por borrar un subconjunto o todas las puntuaciones para preservar el balance del juego.
+Mientras que intentamos preservar la mayor cantidad de puntuaciones posibles, **no ofrecemos garantía de que las puntuaciones permanecerán indefinidamente**. En cualquier momento podemos optar por borrar un subconjunto o todas las puntuaciones para preservar el balance del juego.
 
 #### ¿Las puntuaciones establecidas en stable se mostrarán en lazer eventualmente?
 
