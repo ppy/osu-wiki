@@ -105,4 +105,4 @@ The [Featured Artist group page](https://osu.ppy.sh/groups/35) lists all such ac
 
 ## Notes
 
-[^originals-2023]: 5 artist listings from 2023 were created to categorise songs produced for [official world cups](/wiki/en/Tournaments#official-world-cups)
+[^originals-2023]: 5 artist listings from 2023 were created to categorise [osu! originals](/wiki/osu!_originals) produced for [official world cups](/wiki/Tournaments#official-world-cups)
