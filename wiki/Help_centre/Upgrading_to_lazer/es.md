@@ -21,7 +21,7 @@ La siguiente es una lista detallada del **estado actual** de lazer en comparaci�
 | Windows 8.0 e inferior | ![Sí][true] | ![No][false] |
 | macOS / Linux | ![Parcial][partial][^wine] | ![Sí][true] |
 | DirectX / Metal | ![Parcial][partial][^compatibility-mode] | ![Sí][true] |
-| Soporte móvil | ![No][false] | ![Sí][true] |
+| Soporte para moviles | ![No][false] | ![Sí][true] |
 | Arquitectura multiproceso | ![No][false] | ![Sí][true] |
 | Aceleración de vídeo por hardware | ![No][false] | ![Sí][true] |
 | Escalado de IU | ![No][false] | ![Sí][true] |
@@ -34,7 +34,7 @@ La siguiente es una lista detallada del **estado actual** de lazer en comparaci�
 
 | Característica | stable | lazer |
 | :-- | :-- | :-- |
-| Soporte de skins | ![Sí][true] | ![Parcial][partial][^gameplay-only] |
+| Soporte para skins | ![Sí][true] | ![Parcial][partial][^gameplay-only] |
 | Modos de agrupación en el selector de canciones | ![Sí][true] | ![No][false] |
 | Edición de skins / disposición de la IU integrada en el juego | ![No][false] | ![Sí][true] |
 | Componentes de skinning dinámicos y personalizables | ![No][false] | ![Sí][true] |
@@ -61,7 +61,7 @@ La siguiente es una lista detallada del **estado actual** de lazer en comparaci�
 | Normalización de colores de combo[^normalisation] | ![No][false] | ![Sí][true] |
 | Mantener presionado para ver el HUD | ![No][false] | ![Sí][true][^hold-for-hud] |
 | Calibración de compensación por beatmap | ![Parcial][partial][^offset-calibration-stable] | ![Sí][true][^offset-calibration-lazer] |
-| «Serpenteado» de sliders al arrastrar | ![No][false] | ![Sí][true][^can-disable] |
+| «Serpenteo» de sliders al arrastrar | ![No][false] | ![Sí][true][^can-disable] |
 | «Note lock» amigable con el jugador | ![No][false] | ![Sí][true][^note-lock] |
 | Coloreo de notas en osu!mania y osu! basado en el ritmo | ![No][false] | ![Sí][true] |
 | Búsqueda en las repeticiones | ![No][false] | ![Sí][true] |
@@ -123,23 +123,23 @@ Stable continuará recibiendo mantenimiento mientras los usuarios lo usen. Como 
 
 #### ¿Puedo importar todos mis datos de stable a lazer?
 
-Actualmente, beatmaps, skins, puntuaciones, repeticiones y colecciones pueden ser importadas a lazer. Como nota, **las configuraciones no se pueden importar todavía** así que tendrás que establecerlas desde cero.
+Actualmente, beatmaps, skins, puntuaciones, repeticiones y colecciones pueden ser importadas a lazer. Como nota, **las configuraciones todavía no se pueden importar** así que tendrás que establecerlas desde cero.
 
 #### Si importo mis beatmaps a lazer, ¿usará el doble de espacio en disco?
 
-Si tienes tanto lazer como stable en el mismo disco, los [enlaces duros](/wiki/Client/Release_stream/Lazer/File_storage#a-través-de-enlaces-duros) son usados para evitar ocupar espacio extra en disco.
+Si tienes tanto lazer como stable en el mismo disco, se usarán [enlaces duros](/wiki/Client/Release_stream/Lazer/File_storage#a-través-de-enlaces-duros) para evitar ocupar espacio extra en disco.
 
 En cualquier otro caso, importar beatmaps usará el doble de espacio en disco.
 
-#### ¿Si borro lazer se dañará mi instalación de stable?
+#### Si borro lazer, ¿se dañará mi instalación de stable?
 
 No.
 
-#### ¿Si borro stable se dañará el contenido en lazer que fue importado desde stable?
+#### Si borro stable, ¿se dañará el contenido en lazer que fue importado desde stable?
 
 No.
 
-#### ¿Si instalo lazer seré capaz de volver a stable?
+#### Si instalo lazer, ¿seré capaz de volver a stable?
 
 Sí, lazer siempre se instala junto a stable. A menos que elijas eliminar uno u otro, ambos serán accesibles. 
 
@@ -183,7 +183,7 @@ Por ahora, las puntuaciones con todas las combinaciones de mods aparecen en las 
 
 #### No me gustan las nuevas mecánicas de juego. ¿Puedo restaurar las antiguas mecánicas como eran en stable?
 
-Por favor, intenta aplicar el mod «Classic», el cual restaura mucho del viejo comportamiento al que estás acostumbrado. También asegúrate de comprobar las configuraciones ofrecidas por el mod Classic, ya que te permitirá personalizar tu experiencia más allá y también te permitirá entender qué cambios están siendo aplicados (ya que están listados ahí).
+Por favor, intenta aplicar el mod «Classic», el cual restaura mucho del viejo comportamiento al que estás acostumbrado. También asegúrate de comprobar las configuraciones ofrecidas por el mod Classic, ya que te permitirá personalizar tu experiencia más allá y también te permitirá entender qué cambios están siendo aplicados (ya que están enumerados ahí).
 
 ### Skinning e IU
 
@@ -237,7 +237,7 @@ Por favor, ten en cuenta que ya estamos rastreando más de 1000 problemas de div
 
 Mientras que osu! puede parecer un juego simple, hay centenares de características y sistemas con los cuales los usuarios cuentan. Dependiendo de a quién le preguntes, lazer puede haber estado en un estado completamente jugable por años, o puede que carezca de innumerables características.
 
-Otra área que ha requerido un gran esfuerzo es la conservación histórica; asegurándose de que los beatmaps se comporten exactamente igual a como deberían, incluyendo casos extremos que no fueron planeados originalmente. osu! es un ecosistema vibrante y los usuarios se han tomado la libertad de extender el juego más allá de su alcance planeado y estamos dando lo mejor para abarcar y soportar esto a medida que avanzamos.
+Otra área que ha requerido un gran esfuerzo es la conservación histórica; asegurándonos de que los beatmaps se comporten exactamente igual a cómo deberían, incluyendo casos extremos que no fueron planeados originalmente. osu! es un ecosistema vibrante y los usuarios se han tomado la libertad de extender el juego más allá de su alcance planeado y estamos dando lo mejor para abarcar y soportar esto a medida que avanzamos.
 
 Finalmente, a diferencia de la última iteración, estamos dedicando tiempo y diligencia para asegurar que el código base nos servirá bien en el futuro. Hemos hecho el trabajo de preparación para facilitar la conexión de nuevas características a velocidad vertiginosa mientras se avanza. ¡Esto incluirá nuevos componentes de IU, nuevas maneras de personalizar la apariencia del juego, nuevos sistemas multijugador y no olvidemos la capacidad de cargar y jugar todos tus beatmaps existentes en modos de juego completamente nuevos (también conocidos como rulesets)! 
 
@@ -247,7 +247,7 @@ Tenemos una enorme reserva de características y mejoras solicitadas por usuario
 
 #### ¿Cómo accedo a mi carpeta de canciones?
 
-¡No hay carpeta de canciones en lazer! Esto nos permite hacer cosas geniales como no requerir de presionar `F5` en la pantalla del selector de canciones para actualizar los beatmaps (porque los beatmaps siempre están en buen estado) y reduce el espacio en disco usado por beatmaps en un 20 y 40 %. Puedes leer más sobre [la manera en la que lazer almacena archivos](/wiki/Client/Release_stream/Lazer/File_storage).
+¡No hay carpeta de canciones en lazer! Esto nos permite hacer cosas geniales como no requerir de presionar `F5` en la pantalla del selector de canciones para actualizar los beatmaps (porque los beatmaps siempre están en buen estado) y reduce el espacio en disco usado por beatmaps en un 20-40 %. Puedes leer más sobre [la manera en la que lazer almacena archivos](/wiki/Client/Release_stream/Lazer/File_storage).
 
 Si necesitas hacer cambios a un beatmap, por favor, usa el editor. A medida que avancemos introduciremos un modo en el editor que vuelva temporalmente accesible la carpeta de un beatmap para edición externa. Esto te permitirá usar herramientas externas en un beatmap durante el proceso de creación.
 
@@ -260,9 +260,9 @@ Ya hay hay algunos beneficios adicionales también:
 - Los supporters pueden crear listas de juego que duran más.
 - Los supporters pueden activar la reproducción de storyboards en el menú principal.
 
-Pretendemos buscar nuevos beneficios en el futuro, pero nuestro enfoque está actualmente en la paridad de características con stable así que por favor, usa la compra de tu etiqueta de supporter como una manera de... ¡apoyar el desarrollo del juego!
+Pretendemos buscar nuevos beneficios en el futuro, pero nuestro enfoque está actualmente en la paridad de características con stable así que, por favor, usa la compra de tu etiqueta de supporter como una manera de... ¡apoyar el desarrollo del juego!
 
-#### ¿Si hago trampa en lazer me banearán?
+#### Si hago trampa en lazer, ¿me banearán?
 
 Sí.
 
@@ -286,14 +286,14 @@ Probablemente estés pensando en otro juego.
 [^hold-for-hud]: Mantén presionado `Ctrl` para ver el HUD momentáneamente cuando esté oculto.
 [^offset-calibration-stable]: Ajustable manualmente mediante las teclas asignadas.
 [^offset-calibration-lazer]: Al reintentar un beatmap, puedes calibrar la compensación basándote en tu última jugada.
-[^can-disable]: Puede ser desactivado
+[^can-disable]: Se puede desactivar.
 [^note-lock]: Todavía existe, pero no interferirá.
 [^score-reset-balance]: Las puntuaciones serán restablecidas para garantizar balance. 
 [^score-reset-isolated]: Las puntuaciones serán restablecidas, actualmente se encuentran aisladas de las puntuaciones de stable.
 [^online-content]: Acceso nativo a la mayor parte del contenido en línea.
 [^direct-supporter]: Mediante osu!direct, solo osu!supporter.
 [^supporter]: Solo osu!supporter.
-[^soft-deletion]: Restaura beatmaps y otros datos desde las configuraciones. Las eliminaciones solo se vuelven permanentes al reiniciar.
+[^soft-deletion]: Restaura beatmaps y otros datos desde la configuración. Las eliminaciones solo se vuelven permanentes al reiniciar.
 [^multi-room-max]: 16 jugadores máximo.
 [^map-only]: Solo el mapa.
 [^all-files]: Todos los archivos.
@@ -303,7 +303,7 @@ Probablemente estés pensando en otro juego.
 [^countdown-timers-stable]: Establece una cuenta regresiva usando un comando, sin inicio automático.
 [^countdown-timers-lazer]: Establece una cuenta regresiva desde la IU del juego para comenzar la partida automáticamente.
 [^queue-modes]: Actívalos para permitir a cualquiera en la sala solicitar nuevos beatmaps, también conocido como «rotación del anfitrión».
-[^difficulty-adjust]: Cambia el CS/AR/OD/HP de un beatmap directamente desde la pantalla del selector de canciones mediante el mod Difficulty Adjust.
+[^difficulty-adjust]: Cambia el CS/AR/OD/HP de un beatmap directamente en el selector de canciones mediante el mod Difficulty Adjust.
 [^filo]: «Filo» es una de las traducciones de [cutting edge](/wiki/Client/Release_stream).
 
 [true]: /wiki/shared/true.png
