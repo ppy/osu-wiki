@@ -86,7 +86,6 @@ The osu!mania 7K World Cup 2024 is run by the osu! team and various community me
 | ::{ flag=NL }:: | **Netherlands** | **[Freek](https://osu.ppy.sh/users/9630674)**, [Tyronix](https://osu.ppy.sh/users/11290311), [Outlasted](https://osu.ppy.sh/users/10944966) |
 | ::{ flag=NZ }:: | **New Zealand** | **[kit-](https://osu.ppy.sh/users/10981171)**, [Robeats](https://osu.ppy.sh/users/19446399), [do you fart](https://osu.ppy.sh/users/15690480) |
 | ::{ flag=NO }:: | **Norway** | **[\[RS\] F4st](https://osu.ppy.sh/users/7676585)**, [masaya](https://osu.ppy.sh/users/5818319), [Endroma](https://osu.ppy.sh/users/10340462), [Firdibirdy](https://osu.ppy.sh/users/20803806) |
-| ::{ flag=PE }:: | **Peru** | **[ERA Xuste](https://osu.ppy.sh/users/17989444)**, [Gatuno8384](https://osu.ppy.sh/users/24465399) |
 | ::{ flag=PH }:: | **Philippines** | **[arcwinolivirus](https://osu.ppy.sh/users/2039089)**, [Arona](https://osu.ppy.sh/users/8748664), [Sanni](https://osu.ppy.sh/users/3036686), [- Kura -](https://osu.ppy.sh/users/11420405) |
 | ::{ flag=PL }:: | **Poland** | **[DaDarkDragon](https://osu.ppy.sh/users/8902097)**, [bagjettka](https://osu.ppy.sh/users/18338179), [-Beajek-](https://osu.ppy.sh/users/12696546) |
 | ::{ flag=PT }:: | **Portugal** | **[Rodrig0v](https://osu.ppy.sh/users/138866)**, [SUNec4\_](https://osu.ppy.sh/users/26228192), [Dioxidan](https://osu.ppy.sh/users/15458376) |
