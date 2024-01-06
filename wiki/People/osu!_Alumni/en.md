@@ -223,7 +223,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | NAT |
 | ::{ flag=HU }:: [Spkz](https://osu.ppy.sh/users/2964029) | GMT |
 | ::{ flag=BE }:: [Stack](https://osu.ppy.sh/users/6122935) | QAT, NAT |
-| ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) | NAT |  
+| ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) | NAT |
 | ::{ flag=US }:: [Starrodkirby86](https://osu.ppy.sh/users/410) | BAT |
 | ::{ flag=GB }:: [Starry-](https://osu.ppy.sh/users/2166199) | QAT |
 | ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | GMT |
