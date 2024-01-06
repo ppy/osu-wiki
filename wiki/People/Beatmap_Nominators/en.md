@@ -226,7 +226,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=US }:: [Bloxi](https://osu.ppy.sh/users/9022451) |  |
 | ::{ flag=BR }:: [HowRengar](https://osu.ppy.sh/users/6064571) | Portuguese |
 | ::{ flag=CA }:: [JoshywaBoo](https://osu.ppy.sh/users/19656568) |  |
-| ::{ flag=CA }:: [Local Hero](https://osu.ppy.sh/users/16134122) |  |
+| ::{ flag=US }:: [Local Hero](https://osu.ppy.sh/users/16134122) |  |
 | ::{ flag=TW }:: [MianYa](https://osu.ppy.sh/users/1844862) | Chinese |
 | ::{ flag=CH }:: [momoyo](https://osu.ppy.sh/users/12469536) |  |
 | ::{ flag=EE }:: [riot1133](https://osu.ppy.sh/users/11877992) | Estonian |
