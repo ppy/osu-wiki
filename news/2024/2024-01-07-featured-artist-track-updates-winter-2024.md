@@ -172,7 +172,7 @@ One of osu!'s first Featured Artists makes a return, this time with just *one* n
 
 [![](https://assets.ppy.sh/artists/273/header.jpg)](https://osu.ppy.sh/beatmaps/artists/273)
 
-osu! has been investing in [osu! originals](/wiki/osu!_originals) for the past few years, but that doesn't only cover world cups — community tournaments have taken up the mantle of commissioning original songs too, including this one by [**SAMString**](https://osu.ppy.sh/beatmaps/artists/273)for the *osu!mania 4K Chinese National Cup 2023*!
+osu! has been investing in [osu! originals](/wiki/osu!_originals) for the past few years, but that doesn't only cover world cups — community tournaments have taken up the mantle of commissioning original songs too, including this one by [**SAMString**](https://osu.ppy.sh/beatmaps/artists/273) for the *osu!mania 4K Chinese National Cup 2023*!
 
 ### SAMString - Celestial Solace
 
