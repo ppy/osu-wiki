@@ -136,7 +136,7 @@ Born and raised on osu!, [**cygnus**](https://osu.ppy.sh/beatmaps/artists/359) i
 
 ### cygnus - Silver Mutation
 
-Try out [this osu! marathon](https://osu.ppy.sh/beatmapsets/2067206) hosted by [the man behind the music](https://osu.ppy.sh/beatmapsets/2067206)!
+Try out [this osu! marathon](https://osu.ppy.sh/beatmapsets/2067206) hosted by [the man behind the music](https://osu.ppy.sh/users/5052899)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/359/Omaju/cygnus - Silver Mutation.mp3" type="audio/mpeg">
