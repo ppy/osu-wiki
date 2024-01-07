@@ -90,19 +90,19 @@ Check out [this osu!taiko marathon](https://osu.ppy.sh/beatmapsets/1246314) host
 ### ColBreakz - 100.000
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/384/100.000/ColBreakz - 100.000.mp3" type="audio/mpeg">
 </audio>
 
 ### ColBreakz - Lost Star
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/384/Lost Star/ColBreakz - Lost Star.mp3" type="audio/mpeg">
 </audio>
 
 ### ColBreakz - Geometry Hazard
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/384/Geometry Hazard/ColBreakz - Geometry Hazard.mp3" type="audio/mpeg">
 </audio>
 
 ## [cygnus](https://osu.ppy.sh/beatmaps/artists/359)
