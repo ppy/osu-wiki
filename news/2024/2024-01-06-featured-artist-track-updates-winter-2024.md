@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured Artist Track Updates: Winter 2024"
-date: 2023-01-06 14:00:00 +0000
+date: 2023-01-07 19:00:00 +0000
 ---
 
 Since your New Year's resolution is to start mapping, you might as well get started with one of the **50+** songs that were just added to our Featured Artist library.
@@ -184,13 +184,12 @@ osu! has been investing in [osu! originals](/wiki/osu%21_originals) for the past
 
 [![](https://assets.ppy.sh/artists/185/header.jpg)](https://osu.ppy.sh/beatmaps/artists/185)
 
-[**seatrus**](https://osu.ppy.sh/beatmaps/artists/185) has exploded on osu! ever since their addition to our Featured Artists in 2021. Years have passed since then, and we're pulling **10** more songs by **seatrus** into the osu! library:
+[**seatrus**](https://osu.ppy.sh/beatmaps/artists/185) has exploded on osu! ever since their addition to our Featured Artists in 2021. Years have passed since then, and we're pulling **9** more songs by **seatrus** into the osu! library:
 
 - **seatrus - Abendstern**
 - **seatrus - Diossido di Carbonio**
 - **seatrus - GRAVITY ZONE**
 - **seatrus - Hekikuu no Yakusoku**
-- **seatrus - Hoshifuru Yoru to Ichirin no Hana**
 - **seatrus - Liminalcave**
 - **seatrus - Metamocluster**
 - **seatrus - Oyasmy**
