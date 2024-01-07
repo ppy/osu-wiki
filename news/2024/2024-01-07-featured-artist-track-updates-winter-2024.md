@@ -139,7 +139,7 @@ Born and raised on osu!, [**cygnus**](https://osu.ppy.sh/beatmaps/artists/359) i
 Try out [this osu! marathon](https://osu.ppy.sh/beatmapsets/2067206) hosted by [the man behind the music](https://osu.ppy.sh/beatmapsets/2067206)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/359/Omaju/cygnus - Silver Mutation.mp3" type="audio/mpeg">
 </audio>
 
 ### cygnus - Anvilia
@@ -147,13 +147,13 @@ Try out [this osu! marathon](https://osu.ppy.sh/beatmapsets/2067206) hosted by [
 Or try [this wiggle-stream masterpiece](https://osu.ppy.sh/beatmapsets/2056846) hosted by [LMT](https://osu.ppy.sh/users/7262798)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/359/The Evolution of War/cygnus_-_Anvilia.mp3" type="audio/mpeg">
 </audio>
 
 ### cygnus - Omaju
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/359/Omaju/cygnus - Omaju.mp3" type="audio/mpeg">
 </audio>
 
 ## [HyuN](https://osu.ppy.sh/beatmaps/artists/33)
@@ -165,19 +165,19 @@ One of osu!'s first Featured Artists makes a return, this time with just *one* n
 ### HyuN - iRELLiA
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/33/Songs/HyuN_-_iRELLiA.mp3" type="audio/mpeg">
 </audio>
 
 ## [SAMString](https://osu.ppy.sh/beatmaps/artists/273)
 
 [![](https://assets.ppy.sh/artists/273/header.jpg)](https://osu.ppy.sh/beatmaps/artists/273)
 
-osu! has been investing in [osu! originals](/wiki/osu%21_originals) for the past few years, but that doesn't only cover world cups — community tournaments have taken up the mantle of commissioning original songs too, including this one by [**SAMString**](https://osu.ppy.sh/beatmaps/artists/273)for the *osu!mania 4K Chinese National Cup 2023*!
+osu! has been investing in [osu! originals](/wiki/osu!_originals) for the past few years, but that doesn't only cover world cups — community tournaments have taken up the mantle of commissioning original songs too, including this one by [**SAMString**](https://osu.ppy.sh/beatmaps/artists/273)for the *osu!mania 4K Chinese National Cup 2023*!
 
 ### SAMString - Celestial Solace
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/273/Celestial Solace/SAMString - Celestial Solace.mp3" type="audio/mpeg">
 </audio>
 
 ## [seatrus](https://osu.ppy.sh/beatmaps/artists/185)
@@ -199,19 +199,19 @@ osu! has been investing in [osu! originals](/wiki/osu%21_originals) for the past
 ### seatrus - Diossido di Carbonio
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/185/Songs/seatrus_-_Diossido_di_Carbonio.mp3" type="audio/mpeg">
 </audio>
 
 ### seatrus - The Daybreak Will Never Come Again. (rampagE long vEr.)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/185/E/seatrus - The Daybreak Will Never Come Again. (rampagE long vEr.).mp3" type="audio/mpeg">
 </audio>
 
 ### seatrus - GRAVITY ZONE
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/185/Songs/seatrus_-_GRAVITY_ZONE.mp3" type="audio/mpeg">
 </audio>
 
 ## [Umeboshi Chazuke](https://osu.ppy.sh/beatmaps/artists/98)
@@ -220,22 +220,22 @@ osu! has been investing in [osu! originals](/wiki/osu%21_originals) for the past
 
 Last but definitely not least, bitpop mastermind [**Umeboshi Chazuke**](https://osu.ppy.sh/beatmaps/artists/98) closes out this batch of Featured Artist updates with **3** new tunes:
 
-### Umeboshi Chazuke - Hoshi no Ouji-sama
+### Umeboshi Chazuke - "Hoshi no Ouji-sama"
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/98/Songs/Umeboshi_Chazuke_-_Hoshi_no_Ouji-sama.mp3" type="audio/mpeg">
 </audio>
 
 ### Umeboshi Chazuke - ploof
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/98/Songs/Umeboshi_Chazuke_-_ploof.mp3" type="audio/mpeg">
 </audio>
 
 ### Umeboshi Chazuke - Typhoon
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/98/Songs/Umeboshi_Chazuke_-_Typhoon.mp3" type="audio/mpeg">
 </audio>
 
 ---
