@@ -43,7 +43,7 @@ Renowned producer [**Aiobahn**](https://osu.ppy.sh/beatmaps/artists/166) and exp
 Consume [this osu! map](https://osu.ppy.sh/beatmapsets/1687132) hosted by [Ryuusei Aika](https://osu.ppy.sh/users/7777875) or [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/1794813) hosted by [FLeVI](https://osu.ppy.sh/users/12519616)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/166/Songs/Aiobahn_feat._KOTOKO_-_INTERNET_OVERDOSE.mp3" type="audio/mpeg">
 </audio>
 
 ### Aiobahn feat. KOTOKO - INTERNET YAMERO
@@ -51,7 +51,7 @@ Consume [this osu! map](https://osu.ppy.sh/beatmapsets/1687132) hosted by [Ryuus
 Never stop playing [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1961959) hosted by [Joltzzz](https://osu.ppy.sh/users/15436568) or [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/1962727) also hosted by [FLeVI](https://osu.ppy.sh/users/12519616)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/166/Songs/Aiobahn_feat._KOTOKO_-_INTERNET_YAMERO.mp3" type="audio/mpeg">
 </audio>
 
 ## [Celldweller](https://osu.ppy.sh/beatmaps/artists/56)
@@ -65,7 +65,7 @@ Who said we could only stick to new music? This 4-year-old industrial rock track
 Check out [this osu!taiko marathon](https://osu.ppy.sh/beatmapsets/1246314) hosted by [Arach](https://osu.ppy.sh/users/8512755)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/56/A Matter of Time/Celldweller - A Matter of Time.mp3" type="audio/mpeg">
 </audio>
 
 ## [ColBreakz](https://osu.ppy.sh/beatmaps/artists/384)
