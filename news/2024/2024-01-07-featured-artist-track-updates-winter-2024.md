@@ -30,8 +30,6 @@ Here's how everything works:
 
 Let's get started.
 
----
-
 ## [Aiobahn](https://osu.ppy.sh/beatmaps/artists/166)
 
 [![](https://assets.ppy.sh/artists/166/header.jpg)](https://osu.ppy.sh/beatmaps/artists/166)
