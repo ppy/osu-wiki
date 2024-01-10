@@ -66,7 +66,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=PH }:: [-Aqua](https://osu.ppy.sh/users/7150015) | Filipino |
 | ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548) |  |
 | ::{ flag=US }:: [Aeril](https://osu.ppy.sh/users/4334976) |  |
-| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Russian |
 | ::{ flag=GB }:: [Aistre](https://osu.ppy.sh/users/4879380) |  |
 | ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | Italian |
 | ::{ flag=US }:: [Annabel](https://osu.ppy.sh/users/3388410) | Spanish |
@@ -77,6 +76,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=PL }:: [Embo](https://osu.ppy.sh/users/10045409) | Polish |
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chinese |
+| ::{ flag=TW }:: [Flask](https://osu.ppy.sh/users/959763) | Chinese |
 | ::{ flag=US }:: [Heroine](https://osu.ppy.sh/users/12727076) |  |
 | ::{ flag=US }:: [Hobbes2](https://osu.ppy.sh/users/8157492) |  |
 | ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) | Chinese, some French |
@@ -127,8 +127,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Cantonese, Chinese |
 | ::{ flag=MY }:: [cdh](https://osu.ppy.sh/users/2403621) | Chinese, Malay |
 | ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Urdu |
-| ::{ flag=IE }:: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) |  |
-| ::{ flag=DE }:: [HomieLove](https://osu.ppy.sh/users/8693851) | German |
 | ::{ flag=SE }:: [Invisible O](https://osu.ppy.sh/users/22907037) | Swedish |
 | ::{ flag=HK }:: [iRedi](https://osu.ppy.sh/users/8005579) | Chinese, Cantonese |
 | ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | Cantonese, Chinese |
@@ -155,9 +153,9 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=DE }:: [Du5t](https://osu.ppy.sh/users/6053071) |  |
 | ::{ flag=CA }:: [fuhie](https://osu.ppy.sh/users/7620002) | German |
 | ::{ flag=US }:: [GiGas](https://osu.ppy.sh/users/7300747) | Korean |
+| ::{ flag=FR }:: [kfc nugget](https://osu.ppy.sh/users/8266817) | French |
 | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | Russian |
 | ::{ flag=ID }:: [Mochi -](https://osu.ppy.sh/users/20424806) | Indonesian |
-| ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817) | French |
 | ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466) |  |
 
 #### osu!mania
@@ -218,6 +216,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 | Name | Additional languages |
 | :-- | :-- |
+| ::{ flag=BR }:: [- Ex -](https://osu.ppy.sh/users/3947634) |  |
 | ::{ flag=KZ }:: [-Hitomi](https://osu.ppy.sh/users/15583987) |  |
 | ::{ flag=KR }:: [Affirmation](https://osu.ppy.sh/users/6186628) | Korean |
 | ::{ flag=TR }:: [Aranel](https://osu.ppy.sh/users/9562117) | Turkish |
@@ -235,11 +234,13 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 | Name | Additional languages |
 | :-- | :-- |
+| ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | German, Serbian |
 
 #### osu!catch
 
 | Name | Additional languages |
 | :-- | :-- |
+| ::{ flag=RU }:: [fayew](https://osu.ppy.sh/users/12498861) | Russian |
 | ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) |  |
 | ::{ flag=CO }:: [Juansy-](https://osu.ppy.sh/users/12588215) | Spanish |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) |  |
