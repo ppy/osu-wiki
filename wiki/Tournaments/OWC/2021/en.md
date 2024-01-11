@@ -323,13 +323,13 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Saturday, November 27, 2021
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Germany** ::{ flag=DE }:: | **7** | 6 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/94510355) |
 
 Sunday, November 28, 2021
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **United States** ::{ flag=US }:: | **7** | 5 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/94572116) |
 
@@ -339,14 +339,14 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Saturday, November 20, 2021
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Hong Kong ::{ flag=HK }:: | 2 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/94198225) |
 | **Canada** ::{ flag=CA }:: | **7** | 4 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/94215627) |
 
 Sunday, November 21, 2021
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Canada ::{ flag=CA }:: | 5 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/94237395) |
 | **United States** ::{ flag=US }:: | **7** | 6 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/94267511) |
@@ -357,7 +357,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Saturday, November 13, 2021
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Japan ::{ flag=JP }:: | 2 | **6** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/93876454) |
 | Poland ::{ flag=PL }:: | 3 | **6** | ::{ flag=RO }:: **Romania** | [#1](https://osu.ppy.sh/community/matches/93883809) |
@@ -365,7 +365,7 @@ Saturday, November 13, 2021
 
 Sunday, November 14, 2021
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **United Kingdom** ::{ flag=GB }:: | **6** | 3 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/93882161) |
 | Russian Federation ::{ flag=RU }:: | 4 | **6** | ::{ flag=AU }:: **Australia** | [#1](https://osu.ppy.sh/community/matches/93926187) |
@@ -379,7 +379,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Saturday, November 6, 2021
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Australia** ::{ flag=AU }:: | **6** | 3 | ::{ flag=SG }:: Singapore | [#1](https://osu.ppy.sh/community/matches/93548858) |
 | Indonesia ::{ flag=ID }:: | 5 | **6** | ::{ flag=RO }:: **Romania** | [#1](https://osu.ppy.sh/community/matches/93559497) |
@@ -393,7 +393,7 @@ Saturday, November 6, 2021
 
 Sunday, November 7, 2021
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Canada** ::{ flag=CA }:: | **6** | 1 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/93568294) |
 | China ::{ flag=CN }:: | 3 | **6** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/93601469) |
@@ -409,7 +409,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Saturday, October 30, 2021:
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Argentina ::{ flag=AR }:: | 1 | **5** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/93182775) |
 | Uruguay ::{ flag=UY }:: | 1 | **5** | ::{ flag=PH }:: **Philippines** | [#1](https://osu.ppy.sh/community/matches/93206388) |
@@ -420,7 +420,7 @@ Saturday, October 30, 2021:
 
 Sunday, October 31, 2021:
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Germany** ::{ flag=DE }:: | **5** | 2 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/93197788) |
 | Malaysia ::{ flag=MY }:: | 2 | **5** | ::{ flag=FR }:: **France** | [#1](https://osu.ppy.sh/community/matches/93206469) |
@@ -439,7 +439,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Saturday, October 23, 2021:
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Hong Kong** ::{ flag=HK }:: | **5** | 2 | ::{ flag=TR }:: Turkey | [#1](https://osu.ppy.sh/community/matches/92822602) |
 | **United Kingdom** ::{ flag=GB }:: | **5** | 3 | ::{ flag=SG }:: Singapore | [#1](https://osu.ppy.sh/community/matches/92827398) |
@@ -449,7 +449,7 @@ Saturday, October 23, 2021:
 
 Sunday, October 24, 2021:
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **South Korea** ::{ flag=KR }:: | **5** | 0 | ::{ flag=UA }:: Ukraine | [#1](https://osu.ppy.sh/community/matches/92820657) |
 | **Brazil** ::{ flag=BR }:: | **5** | 1 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/92832289) |

@@ -8,6 +8,8 @@ tags:
   - astuces
   - conseil
   - conseils
+outdated_since: 82d449645b79b94a44e46e5ab2862236a48a80ac
+outdated_translation: true
 ---
 
 <!-- For translators: to translate this page, select the corresponding language in stable and open `Localisation/XX.txt` in your osu! installation folder. Translation keys starting with MenuTip_ and EditorTip_ contain the respective translated tips. The lazer tips aren't localised yet, but it's ok to translate them here while noting that they don't have translations in-game. -->
@@ -21,7 +23,7 @@ Cet article répertorie toutes les différentes astuces qui apparaissent dans le
 Ces astuces apparaissent en bas de l'écran sur le [menu principal](/wiki/Client/Interface#menu-principal).
 
 - Ajoutez des [beatmaps](/wiki/Beatmap) dans osu! en faisant simplement un glisser-déposer du [fichier `.osz`](/wiki/Client/File_formats/osz_(file_format))  nouvellement téléchargé dans la fenêtre du jeu ou en choisissant « Ouvrir » dans votre navigateur au moment de télécharger.
-- Naviguez aisément dans l'écran de [sélection des beatmaps](/wiki/Client/Interface#sélection-des-beatmaps) en maintenant le clic gauche de la souris pour faire défiler la liste ou le clic droit pour un défilement encore plus rapide.
+- Naviguez aisément dans l'écran de [sélection des beatmaps](/wiki/Client/Interface#sélection-de-la-musique) en maintenant le clic gauche de la souris pour faire défiler la liste ou le clic droit pour un défilement encore plus rapide.
 - Appuyez sur `F8`/`F9` partout dans le jeu pour déployer la fenêtre de [chat](/wiki/Client/Interface/Chat_console) !
 - Accédez aux options d'une beatmap en faisant un clic droit dessus ou en cliquant sur `Beatmaps Options` dans l'écran de sélection.
 - Si osu! n'est [pas parfaitement fluide](/wiki/Performance_troubleshooting), testez les différentes options de la rubrique Graphismes du menu des options pour alléger la charge de la carte graphique.
@@ -34,11 +36,11 @@ Ces astuces apparaissent en bas de l'écran sur le [menu principal](/wiki/Client
 - Saviez-vous que vous pouvez importer de nouvelles beatmaps simplement en double-cliquant sur un fichier `.osz` ? Vous pouvez également le glisser-déposer dans la fenêtre du jeu.
 - Exportez un [replay](/wiki/Gameplay/Replay) dans le dossier Replays d'osu!, qu'il ait été réalisé en ligne ou non, en appuyant sur `F2` dans l'[écran de résultat](/wiki/Client/Interface#écran-des-résultats).
 - Si vous trouvez que le son est décalé sur toutes les beatmaps que vous jouez, essayez d'ajuster le `Décalage Audio` dans le menu des `Options`.
-- Le moyen le plus rapide de trouver une beatmap est de taper directement une partie de son titre, du nom de l'artiste ou de son créateur dans l'[écran de sélection des beatmaps](/wiki/Client/Interface#sélection-des-beatmaps).
+- Le moyen le plus rapide de trouver une beatmap est de taper directement une partie de son titre, du nom de l'artiste ou de son créateur dans l'[écran de sélection des beatmaps](/wiki/Client/Interface#sélection-de-la-musique).
 - Le chat peut être configuré de telle sorte qu'il se rétracte automatiquement durant une partie. Repérez le bouton « Auto-Hide » en bas à droite de l'écran quand le chat est ouvert pour activer cette option.
 - Ajustez le volume directement dans le jeu en utilisant la molette de la souris. Cette fonctionnalité peut être désactivée dans le menu des options si besoin.
 - Mettez rapidement une partie en pause en appuyant sur le bouton molette de la souris. Le bouton peut être désactivé dans le menu des options si besoin.
-- Accédez rapidement aux pages web principales d'une beatmap en cliquant sur l'icône en forme de bulle dans l'écran de sélection, juste au-dessus du [classement](/wiki/Client/Interface#classements).
+- Accédez rapidement aux pages web principales d'une beatmap en cliquant sur l'icône en forme de bulle dans l'écran de sélection, juste au-dessus du [classement](/wiki/Client/Interface#classement).
 - Personnalisez osu! avec des [skins](/wiki/Skin) ! Trouvez celui de vos rêves dans la section [Skinning](https://osu.ppy.sh/community/forums/15) du forum.
 - Appuyez sur `F8` pour afficher le chat. Apprenez-en les [commandes indispensables](/wiki/Client/Interface/Chat_console#liste-des-commandes) en tapant `/help` ou `!help`.
 - Faites des pauses régulièrement. osu! est un jeu éprouvant pour les mains et les bras et il serait dommage de se retrouver chez le médecin à cause d'un muscle trop fatigué.
