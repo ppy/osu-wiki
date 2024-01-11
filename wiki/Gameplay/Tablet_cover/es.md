@@ -18,21 +18,21 @@ Una **cubierta para la tableta** es una lámina de material protector especial q
 
 Las cubiertas para tabletas suelen tener una forma casi idéntica a la de los protectores de pantalla de los teléfonos inteligentes, excepto por el hecho de que el lado que se pega solo usa una tira de material adhesivo a lo largo de los bordes exteriores del material protector. Esto es para evitar daños con el material de la superficie real de la tableta y permite el uso de la sensibilidad a presión y otras funciones para el dibujo digital.
 
-## Casera vs. fabricada
+## Caseras vs. fabricadas
 
 Muchas publicaciones en los foros que preguntan dónde comprar o fabricar cubiertas para tabletas a menudo mencionan lo fácil que es crear una. Las cubiertas caseras comunes para tabletas usan una variedad de materiales que se pueden encontrar en casa o en las tiendas a un precio relativamente económico. Mientras que las cubiertas para tabletas fabricadas suelen usar materiales especializados para reducir el desgaste de las puntas y durar más.
 
-### Casera
+### Caseras
 
-Muchos jugadores a menudo afirman que las cubiertas para tabletas hechas por uno mismo «hacen el trabajo» y, por lo tanto, son favorables debido a su bajo costo y accesibilidad. Las cubiertas caseras para tabletas suelen usar materiales que se pueden encontrar en la mayoría de los hogares y, a menudo, se sujetan con cinta adhesiva o algún objeto pesado.
+Muchos jugadores a menudo afirman que las cubiertas caseras para tabletas «hacen el trabajo» y, por lo tanto, son favorables debido a su bajo costo y accesibilidad. Las cubiertas caseras para tabletas suelen usar materiales que se pueden encontrar en la mayoría de los hogares y, a menudo, se sujetan con cinta adhesiva o algún objeto pesado.
 
-Los materiales comunes para las cubiertas caseras de las tabletas suelen usar uno o más de los siguientes materiales:
+Los materiales comunes de las cubiertas caseras para tabletas suelen usar uno o más de los siguientes materiales:
 
 - Libros
 - Papel laminado
 - Tiras de papel
 - Protectores de pantalla de cristal
 
-### Fabricada
+### Fabricadas
 
 Las cubiertas para tabletas fabricadas o compradas en tiendas suelen estar hechas de materiales más especializados que no se pueden encontrar ni crear o moldear fácilmente en la mayoría de los hogares. Las tiendas y distribuidores en línea son distribuidores populares de este tipo de cubiertas. A menudo tendrán una textura brillante, mate o similar a la de los protectores de pantalla de los teléfonos inteligentes.
