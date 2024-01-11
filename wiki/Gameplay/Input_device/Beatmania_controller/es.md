@@ -12,4 +12,4 @@ Debido a su naturaleza, los mandos de Beatmania se usan con mayor frecuencia com
 
 ## Métodos de entrada
 
-Los jugadores que tengan un mando de *Beatmania* de Playstation 2 (PS2), pueden usar un adaptador para conectar el mando a su computadora mediante USB y asignar las teclas en las opciones. Sin embargo, los jugadores que tienen un mando *DJ DAO IIDX*, pueden simplemente conectar el mando a su computadora mediante USB y asignar las teclas.
+Los jugadores que tengan un mando de *Beatmania* de Playstation 2 (PS2), pueden usar un adaptador para conectar el mando a su ordenador mediante USB y asignar las teclas en las opciones. Sin embargo, los jugadores que tienen un mando *DJ DAO IIDX*, pueden simplemente conectar el mando a su ordenador mediante USB y asignar las teclas.

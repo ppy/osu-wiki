@@ -4,7 +4,7 @@ stub: true
 
 # Ratón
 
-El **ratón** es una forma muy popular de jugar osu!. Puedes utilizar el ratón para apuntar y hacer clic. El botón central del ratón está configurado para pausar el juego (se puede desactivar en las opciones) y la rueda de desplazamiento se puede usar para cambiar el volumen.
+El **ratón** es una forma muy popular de jugar osu!. Puedes usar el ratón para apuntar y hacer clic. El botón central del ratón está configurado para pausar el juego (se puede desactivar en las opciones) y la rueda de desplazamiento se puede usar para cambiar el volumen.
 
 ## Opciones relacionadas con el ratón
 
