@@ -20,7 +20,7 @@ All skins that have been released during 2023 and have been added to [the compen
 
 The top 3 entries will all receive a unique profile badge based on their entry along with 4, 3 and 2 months of osu!supporter respectively. Entries #4–10 will all receive a month of osu!supporter each.
 
-This year we had **TBD** skins that have been submitted to the [skinning forums](https://osu.ppy.sh/community/forums/15), **TBD** of them being added to the compendium. We highly suggest you get to some light browsing and check out the submitted skins, and you might find a new skin you will be able to call your "main".
+This year we had **269** skins that have been submitted to the [skinning forums](https://osu.ppy.sh/community/forums/15), **124** of them being added to the compendium. We highly suggest you get to some light browsing and check out the submitted skins, and you might find a new skin you will be able to call your "main".
 
 [**Click here to get involved and vote for 2023's Skin of the Year!**](https://osu.ppy.sh/community/contests/170)
 
