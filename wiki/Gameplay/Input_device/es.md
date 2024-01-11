@@ -4,7 +4,7 @@ stub: true
 
 # Dispositivo de entrada
 
-Un **dispositivo de entrada** es un dispositivo que se usa para controlar la entrada en una computadora o un software específico. En la osu! wiki, este término se refiere específicamente a dispositivos que pueden usarse en osu!.
+Un **dispositivo de entrada** es un dispositivo que se usa para controlar la entrada en un ordenador o un software específico. En la osu! wiki, este término se refiere específicamente a dispositivos que pueden usarse en osu!.
 
 La siguiente es una lista de los dispositivos de entrada más comunes usados para osu!:
 
