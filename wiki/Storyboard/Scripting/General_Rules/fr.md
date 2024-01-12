@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Règles générales pour le storyboarding
 
 ![Un exemple de script dans .osb.](img/SBS_Base.jpg "Un exemple de script dans .osb.")

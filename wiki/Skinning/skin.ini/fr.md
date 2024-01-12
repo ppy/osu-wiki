@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # skin.ini
 
 *Voir également : [skin.ini/Vierge](/wiki/Skinning/skin.ini/Blank)*
