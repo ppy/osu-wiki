@@ -58,7 +58,7 @@ Lista de mai jos conține o listă cuprinzătoare din **starea actuală** a laze
 | Presetări de moduri | ![Nu][false] | ![Da][true] |
 | Setări per-mod | ![Nu][false] | ![Da][true] |
 | Mod-uri noi „interesante” | ![Nu][false] | ![Da][true] |
-| Normalizarea[^normalisation] culorii comboului| ![Nu][false] | ![Da][true] |
+| Normalizarea[^normalisation] culorii comboului | ![Nu][false] | ![Da][true] |
 | Ține apăsat pentru HUD | ![Nu][false] | ![Da][true][^hold-for-hud] |
 | Calibrarea offsetului per beatmap | ![Parțial][partial][^offset-calibration-stable] | ![Da][true][^offset-calibration-lazer] |
 | Slidere osu! „șarpe” în timp ce sunt apăsate | ![Nu][false] | ![Da][true][^can-disable] |
