@@ -115,7 +115,7 @@ Sau đây là bảng so sánh **trạng thái hiện tại** của lazer so vớ
 
 Vậy bạn đã quyết định thử lazer? Tuyệt!
 
-Bạn có thể tải nó ở [đây](https://github.com/ppy/osu#running-osu). Trong tương lai gần, bạn sẽ có thể chuyển sang lazer từ bản ổn định (trong phần cài đặt `Phiên bản`) và tìm link tải về trên trang web osu!.
+Bạn có thể tải nó ở [đây](https://osu.ppy.sh/home/download). Trong tương lai gần, bạn sẽ có thể chuyển sang lazer từ bản ổn định (trong phần cài đặt `Phiên bản`).
 
 ## FAQ
 
@@ -280,7 +280,7 @@ Y như cách mà bạn vẫn hay làm thôi.
 
 Có vẻ như bạn đang nghĩ về một trò chơi khác.
 
-### Ghi chú
+## Ghi chú
 
 [^wine]: Sử dụng Wine.
 [^compatibility-mode]: DirectX thông qua chế độ tương thích.
