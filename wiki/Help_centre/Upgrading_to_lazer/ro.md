@@ -22,7 +22,7 @@ Lista de mai jos conține o listă cuprinzătoare din **starea actuală** a laze
 | macOS / Linux | ![Parțial][partial][^wine] | ![Da][true] |
 | DirectX / Metal | ![Parțial][partial][^compatibility-mode] | ![Da][true] |
 | Suport pentru telefon | ![Nu][false] | ![Da][true] |
-| Arhitectură multithread  | ![Nu][false] | ![Da][true] |
+| Arhitectură multithread | ![Nu][false] | ![Da][true] |
 | Video accelerare hardware | ![Nu][false] | ![Da][true] |
 | Scalare UI | ![Nu][false] | ![Da][true] |
 | Reguli personalizate (moduri de joc) | ![Nu][false] | ![Parțial][partial][^dll] |
@@ -64,8 +64,8 @@ Lista de mai jos conține o listă cuprinzătoare din **starea actuală** a laze
 | Slidere osu! „șarpe” în timp ce sunt apăsate | ![Nu][false] | ![Da][true][^can-disable] |
 | „note-lock” evitabil de jucător | ![Nu][false] | ![Da][true][^note-lock] |
 | Culoarea notelor bazată pe sincronizare în osu!mania și osu! | ![Nu][false] | ![Da][true] |
-| Redare înainte/înapoi a reluorilor| ![Nu][false] | ![Da][true] |
-| Redare comentarii în genul [Niconico](https://en.wikipedia.org/wiki/Niconico)| ![Da][true] | ![Nu][false] |
+| Redare înainte/înapoi a reluorilor | ![Nu][false] | ![Da][true] |
+| Redare comentarii în genul [Niconico](https://en.wikipedia.org/wiki/Niconico) | ![Da][true] | ![Nu][false] |
 
 ### Sisteme online
 
@@ -82,7 +82,7 @@ Lista de mai jos conține o listă cuprinzătoare din **starea actuală** a laze
 | Listări de beatmap | ![Parțial][partial][^direct-supporter] | ![Da][true] |
 | Spațiu de jucători nelimitat în multiplayer | ![Nu][false][^multi-room-max] | ![Da][true] |
 | Spectator multiplayer | ![Nu][false] | ![Da][true] |
-| Cronometru cu numărătoare inversă  | ![Parțial][partial][^countdown-timers-stable] | ![Da][true][^countdown-timers-lazer] |
+| Cronometru cu numărătoare inversă | ![Parțial][partial][^countdown-timers-stable] | ![Da][true][^countdown-timers-lazer] |
 | Moduri în coadă | ![Nu][false] | ![Da][true][^queue-modes] |
 | Comenzi multiplayer | ![Da][true] | ![Nu][false] |
 | Tag co-op | ![Da][true] | ![Nu][false] |
