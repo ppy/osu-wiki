@@ -331,7 +331,7 @@ Saturday, 8 August 2020:
 Sunday, 9 August 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
-| --:| :-: | :-: | :-- | :-- |
+| --: | :-: | :-: | :-- | :-- |
 | **unko** | **8** | 1 | Fuk | [#1](https://osu.ppy.sh/community/matches/65188947) |
 | unko | 1 | **8** | **Floating up** | [#1](https://osu.ppy.sh/community/matches/65191577) |
 

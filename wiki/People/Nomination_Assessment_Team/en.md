@@ -65,7 +65,7 @@ NAT members are granted the following benefits:
 
 - **[osu!supporter](/wiki/osu!supporter)**: An osu!supporter tag that lasts for the duration of their team membership.
 - **Tenure badge**: A [profile badge](/wiki/Community/Profile_badge) that displays the number of years they have been in the NAT.
-  ![1 year NAT badge](https://assets.ppy.sh/profile-badges/QAT1y.png "1 year NAT badge") ![2 year NAT badge](https://assets.ppy.sh/profile-badges/QAT2y.jpg "2 year NAT badge") ![3 year NAT badge](https://assets.ppy.sh/profile-badges/QAT3y.jpg "3 year NAT badge") ![4 year NAT badge](https://assets.ppy.sh/profile-badges/QAT4y.jpg "4 year NAT badge") ![5 year NAT badge](https://assets.ppy.sh/profile-badges/QAT5y.jpg "5 year NAT badge")
+  ![1 year NAT badge](https://assets.ppy.sh/profile-badges/NAT1y.png "1 year NAT badge") ![2 year NAT badge](https://assets.ppy.sh/profile-badges/NAT2y.png "2 year NAT badge") ![3 year NAT badge](https://assets.ppy.sh/profile-badges/NAT3y.png "3 year NAT badge") ![4 year NAT badge](https://assets.ppy.sh/profile-badges/NAT4y.png "4 year NAT badge") ![5 year NAT badge](https://assets.ppy.sh/profile-badges/NAT5y.png "5 year NAT badge") ![6 year NAT badge](https://assets.ppy.sh/profile-badges/NAT6y.png "6 year NAT badge") ![7 year NAT badge](https://assets.ppy.sh/profile-badges/NAT7y.png "7 year NAT badge") ![8 year NAT badge](https://assets.ppy.sh/profile-badges/NAT8y.png "8 year NAT badge") ![9 year NAT badge](https://assets.ppy.sh/profile-badges/NAT9y.png "9 year NAT badge") ![10 year NAT badge](https://assets.ppy.sh/profile-badges/NAT10y.png "10 year NAT badge")
 - **[Nomination](/wiki/Beatmap_ranking_procedure#nominations) count badge**: A profile badge awarded when reaching certain nomination count milestones.
   ![200 nominations badge](https://assets.ppy.sh/profile-badges/noms200.png?2023 "200 nominations badge") ![400 nominations badge](https://assets.ppy.sh/profile-badges/noms400.png?2023 "400 nominations badge") ![600 nominations badge](https://assets.ppy.sh/profile-badges/noms600.png?2023 "600 nominations badge") ![800 nominations badge](https://assets.ppy.sh/profile-badges/noms800.png?2023 "800 nominations badge") ![1000 nominations badge](https://assets.ppy.sh/profile-badges/noms1000.png?2023 "1000 nominations badge")
 - **[Elite Nominator](/wiki/People/Elite_Nominators) eligibility**: NAT members who exceptionally perform as nominators are eligible to be awarded the yearly Elite Nominator status.
@@ -131,6 +131,7 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 
 | Name | Additional languages |
 | :-- | :-- |
+| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Russian |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonese, Chinese |
 | ::{ flag=GB }:: [ckharv](https://osu.ppy.sh/users/9967026) | Cantonese, Chinese |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portuguese, Spanish |
@@ -143,7 +144,6 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Chinese, Cantonese |
 | ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Chinese |
 | ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | Spanish, French |
-| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Dutch |
 
 #### osu!taiko
 
