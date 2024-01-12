@@ -1,26 +1,25 @@
 ---
-outdated_translation: true
-outdated_since: ff6e1cbd3930b603fb5ba6ee1c81cf6fe725a32a
+no_native_review: true
 ---
 
-# Description d'une beatmap
+# Description de la beatmap
 
-La **description d'une beatmap** est une petite zone sous la page d'une [beatmap](/wiki/Beatmap) qui donne aux joueurs des informations sur la beatmap en utilisant le [BBCode](/wiki/BBCode). Elle met généralement en évidence certains faits concernant la beatmap que son créateur a jugé suffisamment importants, ou est utilisée pour faire la publicité d'autres projets de mapping.
+**La description de la beatmap** est une petite zone sous la page d'une [beatmap](/wiki/Beatmap) qui donne aux joueurs des informations sur la beatmap en utilisant le [BBCode](/wiki/BBCode). Elle met généralement l'accent sur quelques faits concernant la beatmap que son créateur a jugé suffisamment importants, ou est utilisée pour faire de la publicité pour d'autres projets de mapping.
 
 ## Utilisations et informations
 
-Les descriptions des beatmaps [classées](/wiki/Beatmap/Category#ranked) comprennent souvent les éléments suivants :
+Les descriptions populaires des beatmaps [classé](/wiki/Beatmap/Category#ranked) comprennent souvent les éléments suivants :
 
-- Une liste de toutes les [guest difficulties](/wiki/Beatmap/Guest_difficulty) et de leurs créateurs.
-- Des informations permettant au joueur de décider s'il veut ou non télécharger la beatmap.
-- Une liste de modifications, ou un changelog
+- Une liste de toutes les [difficultés des invités](/wiki/Beatmap/Guest_difficulty) et de leurs créateurs.
+- Les informations qui aideraient un joueur à décider s'il souhaite ou non télécharger la beatmap
+- Une liste des modifications, ou changelog
 
 ### Images
 
-De nombreuses descriptions de beatmaps contiennent au moins une image (souvent un [GIF](https://fr.wikipedia.org/wiki/Graphics_Interchange_Format) animé) qui est utilisée pour exprimer et illustrer le créateur, la musique et/ou la beatmap de manière voyante. Elles peuvent également servir de titre ou d'en-tête pour ajouter du style et de la qualité. Pour savoir comment ajouter une image, consultez la [section de l'article BBCode sur les images](/wiki/BBCode#images).
+De nombreuses descriptions de beatmaps contiennent au moins une image (souvent un [GIF](https://fr.wikipedia.org/wiki/Graphics_Interchange_Format) animé) qui est utilisée pour exprimer et illustrer le créateur, la musique et/ou la beatmap de manière tape-à-l'œil. Elles peuvent également servir de titre ou d'en-tête pour ajouter de l'éclat et de la qualité. Pour savoir comment ajouter une image, consultez la section sur les images de l'article [BBCode](/wiki/BBCode#images).
 
-### Sections de difficultés
+### Créditer les mappeurs invités
 
-La *section de difficultés* est une liste de toutes les guest difficulties (souvent accompagnées de leurs icônes respectives) et de leurs créateurs, située dans la description de la beatmap. Elle est surtout utilisée pour créditer les mappeurs invités.
+Les descriptions de beatmap listent généralement toutes les difficultés invitées (souvent à côté de leurs icônes respectives) et leurs créateurs afin de créditer les mappeurs invités.
 
-Les icônes des difficulté se trouvent dans l'article [Difficulté](/wiki/Beatmap/Difficulty).
+Les icônes de difficulté se trouvent dans l'article [difficulté](/wiki/Beatmap/Difficulty).

@@ -25,11 +25,11 @@ jobs:
       - name: detect changed files
         run: |
           changed_files="$(mktemp)"
-          git diff --diff-filter=d --name-only --no-renames master >"$changed_files"
+          git diff --diff-filter=d --name-only --no-renames -z master >"$changed_files"
           printf 'CHANGED_FILES=%s\n' "$changed_files" >>"$GITHUB_ENV"
 
       - name: check file sizes
-        run: xargs -r meta/check-file-sizes.sh <"$CHANGED_FILES"
+        run: xargs -0r meta/check-file-sizes.sh <"$CHANGED_FILES"
 
       - name: set up Node.js
         id: setup-node
@@ -52,8 +52,8 @@ jobs:
       - name: run remark on changed files
         if: ${{ !contains(github.event.pull_request.body, 'SKIP_REMARK') }}
         run: |
-          grep '\.md$' <"$CHANGED_FILES" | \
-          REPORTER=vfile-reporter-github-action xargs -r meta/remark.sh
+          grep -z '\.md$' <"$CHANGED_FILES" | \
+          REPORTER=vfile-reporter-github-action xargs -0r meta/remark.sh
 
       - name: set up Python
         uses: actions/setup-python@v4
