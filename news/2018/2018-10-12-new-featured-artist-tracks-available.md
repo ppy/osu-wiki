@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Featured Artist Tracks Available"
+title: New Featured Artist Tracks Available
 date: 2018-10-12 15:00:00 +0000
 ---
 

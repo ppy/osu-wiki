@@ -1,3 +1,8 @@
+---
+outdated_since: 8e1786f96ff274d96b77be41a62c642197397a80
+outdated_translation: true
+---
+
 # Précision
 
 La précision est une mesure en pourcentage de la capacité d'un joueur à toucher des [hit objects](/wiki/Gameplay/Hit_object) à temps. Il peut y avoir deux types de précision : la précision sur une beatmap (qui dépend des résultats obtenus) et la précision globale du joueur (qui est pondérée pour permettre aux meilleurs scores de ressortir davantage).

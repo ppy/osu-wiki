@@ -8,6 +8,8 @@ tags:
   - astuces
   - conseil
   - conseils
+outdated_since: 82d449645b79b94a44e46e5ab2862236a48a80ac
+outdated_translation: true
 ---
 
 <!-- For translators: to translate this page, select the corresponding language in stable and open `Localisation/XX.txt` in your osu! installation folder. Translation keys starting with MenuTip_ and EditorTip_ contain the respective translated tips. The lazer tips aren't localised yet, but it's ok to translate them here while noting that they don't have translations in-game. -->
@@ -21,7 +23,7 @@ Cet article répertorie toutes les différentes astuces qui apparaissent dans le
 Ces astuces apparaissent en bas de l'écran sur le [menu principal](/wiki/Client/Interface#menu-principal).
 
 - Ajoutez des [beatmaps](/wiki/Beatmap) dans osu! en faisant simplement un glisser-déposer du [fichier `.osz`](/wiki/Client/File_formats/osz_(file_format))  nouvellement téléchargé dans la fenêtre du jeu ou en choisissant « Ouvrir » dans votre navigateur au moment de télécharger.
-- Naviguez aisément dans l'écran de [sélection des beatmaps](/wiki/Client/Interface#sélection-des-beatmaps) en maintenant le clic gauche de la souris pour faire défiler la liste ou le clic droit pour un défilement encore plus rapide.
+- Naviguez aisément dans l'écran de [sélection des beatmaps](/wiki/Client/Interface#sélection-de-la-musique) en maintenant le clic gauche de la souris pour faire défiler la liste ou le clic droit pour un défilement encore plus rapide.
 - Appuyez sur `F8`/`F9` partout dans le jeu pour déployer la fenêtre de [chat](/wiki/Client/Interface/Chat_console) !
 - Accédez aux options d'une beatmap en faisant un clic droit dessus ou en cliquant sur `Beatmaps Options` dans l'écran de sélection.
 - Si osu! n'est [pas parfaitement fluide](/wiki/Performance_troubleshooting), testez les différentes options de la rubrique Graphismes du menu des options pour alléger la charge de la carte graphique.
@@ -34,11 +36,11 @@ Ces astuces apparaissent en bas de l'écran sur le [menu principal](/wiki/Client
 - Saviez-vous que vous pouvez importer de nouvelles beatmaps simplement en double-cliquant sur un fichier `.osz` ? Vous pouvez également le glisser-déposer dans la fenêtre du jeu.
 - Exportez un [replay](/wiki/Gameplay/Replay) dans le dossier Replays d'osu!, qu'il ait été réalisé en ligne ou non, en appuyant sur `F2` dans l'[écran de résultat](/wiki/Client/Interface#écran-des-résultats).
 - Si vous trouvez que le son est décalé sur toutes les beatmaps que vous jouez, essayez d'ajuster le `Décalage Audio` dans le menu des `Options`.
-- Le moyen le plus rapide de trouver une beatmap est de taper directement une partie de son titre, du nom de l'artiste ou de son créateur dans l'[écran de sélection des beatmaps](/wiki/Client/Interface#sélection-des-beatmaps).
+- Le moyen le plus rapide de trouver une beatmap est de taper directement une partie de son titre, du nom de l'artiste ou de son créateur dans l'[écran de sélection des beatmaps](/wiki/Client/Interface#sélection-de-la-musique).
 - Le chat peut être configuré de telle sorte qu'il se rétracte automatiquement durant une partie. Repérez le bouton « Auto-Hide » en bas à droite de l'écran quand le chat est ouvert pour activer cette option.
 - Ajustez le volume directement dans le jeu en utilisant la molette de la souris. Cette fonctionnalité peut être désactivée dans le menu des options si besoin.
 - Mettez rapidement une partie en pause en appuyant sur le bouton molette de la souris. Le bouton peut être désactivé dans le menu des options si besoin.
-- Accédez rapidement aux pages web principales d'une beatmap en cliquant sur l'icône en forme de bulle dans l'écran de sélection, juste au-dessus du [classement](/wiki/Client/Interface#classements).
+- Accédez rapidement aux pages web principales d'une beatmap en cliquant sur l'icône en forme de bulle dans l'écran de sélection, juste au-dessus du [classement](/wiki/Client/Interface#classement).
 - Personnalisez osu! avec des [skins](/wiki/Skin) ! Trouvez celui de vos rêves dans la section [Skinning](https://osu.ppy.sh/community/forums/15) du forum.
 - Appuyez sur `F8` pour afficher le chat. Apprenez-en les [commandes indispensables](/wiki/Client/Interface/Chat_console#liste-des-commandes) en tapant `/help` ou `!help`.
 - Faites des pauses régulièrement. osu! est un jeu éprouvant pour les mains et les bras et il serait dommage de se retrouver chez le médecin à cause d'un muscle trop fatigué.
@@ -85,7 +87,7 @@ Ces astuces apparaissent dans l'[éditeur de beatmap](/wiki/Client/Beatmap_edito
 - Appuyez sur `F5` ou cliquez sur le bouton `Test` dans le bas de l'écran pour tester votre beatmap à partir de la section dans laquelle vous êtes. [Tester vos beatmaps](/wiki/Client/Beatmap_editor/Test_mode) vous permet d'identifier des notes mal placées et une éventuelle baisse trop conséquente de la barre de vie.
 - Zoomez dans la timeline en cliquant sur les boutons `+` / `-` en haut à gauche de l'écran, ou en utilisant la combinaison `Alt` + `molette` de la souris tout en survolant la timeline avec le curseur. Ceci vous aidera à la lire plus facilement dans le cas où elle serait surchargée.
 - N'hésitez pas à ralentir la vitesse pour revérifier le timing et le positionnement des notes. Utilisez les boutons `25%` - `100%` en bas à droite de l'écran, les touches `Haut` et `Bas` de votre clavier ou les combinaisons `Ctrl` + `Haut` et `Ctrl` + `Bas`.
-- Vous avez décidé d'abandonner une beatmap ? Pas de problème, toutes les beatmaps restées inactives pendant un certain temps sont automatiquement envoyées dans le [cimetière](/wiki/Beatmap/Category#cimetière) (`graveyard`). Si vous souhaitez ressusciter une map, cliquez sur `Resurrect` à côté de son nom dans votre profil web.
+- Vous avez décidé d'abandonner une beatmap ? Pas de problème, toutes les beatmaps restées inactives pendant un certain temps sont automatiquement envoyées dans le [cimetière](/wiki/Beatmap/Category#graveyard) (`graveyard`). Si vous souhaitez ressusciter une map, cliquez sur `Resurrect` à côté de son nom dans votre profil web.
 - Une beatmap peut posséder son propre skin intégré, il suffit juste de copier les éléments du skin dans le dossier de la beatmap. Gardez la même convention de nommage que pour les skins ordinaires.
 - Saviez-vous qu'en copiant des notes dans l'éditeur (`Ctrl` + `C` ou menu `Edit`), le presse-papier contiendra leur position temporelle ainsi que le numéro du combo ? C'est très utile pour rédiger des posts dans le forum et faire des mods !
 - Utilisez le live mapping (`Ctrl` + `Tab`) pour placer très rapidement des notes avec les touches que vous utilisez habituellement pour jouer à osu!mania et Taiko.

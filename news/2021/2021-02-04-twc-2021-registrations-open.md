@@ -4,7 +4,7 @@ title: "osu!taiko World Cup 2021: Registrations now open!"
 date: 2021-02-04 15:00:00 +0000
 ---
 
-It's that time once again - the osu!taiko World Cup returns for its eleventh instalment! If you think you've got what it takes and you're a top 5000+ drum smasher, the registration phase is now in progress, so sign up today! 
+It's that time once again - the osu!taiko World Cup returns for its eleventh instalment! If you think you've got what it takes and you're a top 5000+ drum smasher, the registration phase is now in progress, so sign up today!
 
 ![](/wiki/shared/news/banners/TWC_2021.jpg)
 

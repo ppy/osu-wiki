@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Roundtable II"
+title: The Roundtable II
 date: 2023-07-07 12:00:00 +0000
 ---
 

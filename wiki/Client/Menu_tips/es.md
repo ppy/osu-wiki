@@ -21,7 +21,7 @@ Este artículo enumera los diversos consejos que se ven en el juego, que contien
 Estos consejos aparecen en la parte inferior del [menú principal](/wiki/Client/Interface#menú-principal).
 
 - Añade nuevos [beatmaps](/wiki/Beatmap) a osu! arrastrando un [archivo .osz](/wiki/Client/File_formats/osz_(file_format)) a la ventana, haciendo doble clic sobre él, o eligiendo "abrir" cuando lo descargues en tu navegador.
-- Puedes desplazar largas listas de beatmaps en el [listado de selección de canciones](/wiki/Client/Interface#selección-de-canciones) si arrastras la lista manteniendo pulsado el botón izquierdo del ratón, o puedes pulsar el botón derecho para realizar un vistazo rápido.
+- Puedes desplazar largas listas de beatmaps en el [listado de selección de canciones](/wiki/Client/Interface#selector-de-canciones) si arrastras la lista manteniendo pulsado el botón izquierdo del ratón, o puedes pulsar el botón derecho para realizar un vistazo rápido.
 - Pulsa `F8`/`F9` en cualquier momento para unirte al [chat](/wiki/Client/Interface/Chat_console) de osu!.
 - Haciendo clic derecho en un beatmap o haciendo clic en el botón `Beatmap Options` en el listado de selección de canciones se desplegará un menú que te permite gestionar el beatmap.
 - Si [notas ralentizaciones](/wiki/Performance_troubleshooting) al jugar, puedes modificar el `límite de fotogramas por segundo`[^frame-limiter] en el [menú de opciones](/wiki/Client/Options) y activar el modo `Pantalla completa`/`Panorámica con bandas`. Podría ayudar.
@@ -34,7 +34,7 @@ Estos consejos aparecen en la parte inferior del [menú principal](/wiki/Client/
 - ¿Sabías que puedes cargar nuevos beatmaps haciendo doble clic en un archivo `osz` o arrastrándolo a la ventana de osu!?
 - Puedes exportar una [repetición](/wiki/Gameplay/Replay) tanto online como local pulsando `F2` en la [pantalla del ranking](/wiki/Client/Interface#pantalla-de-resultados).
 - Si te parece que el ritmo está descompensado en todos los beatmaps que juegas, intenta ajustar la `compensación global` en las `opciones`.
-- Si quieres buscar un beatmap, la mejor opción es escribir el título, el autor, o el creador en la [pantalla de selección de canciones](/wiki/Client/Interface#selección-de-canciones).
+- Si quieres buscar un beatmap, la mejor opción es escribir el título, el autor, o el creador en la [pantalla de selección de canciones](/wiki/Client/Interface#selector-de-canciones).
 - Puedes hacer que el chat se oculte automáticamente cuando juegas. Busca esta función en la esquina inferior derecha de la pantalla, cuando el chat esté abierto.
 - Puedes ajustar el volumen con la rueda del ratón en cualquier momento. Esta opción puede deshabilitarse desde el menú de configuración.
 - Puedes poner la partida en pausa pulsando el botón central del ratón. Esta opción puede deshabilitarse desde el menú de configuración.
@@ -48,7 +48,7 @@ Estos consejos aparecen en la parte inferior del [menú principal](/wiki/Client/
 - Pulsa `F5` en el menú de selección de canciones para actualizar la lista de beatmaps.
 - Pulsa `Shift` + `F12` para hacer una captura de pantalla y subirla automáticamente a Internet.
 - Puedes configurar las teclas que utilizas para jugar en el menú `Opciones` > `Controles`.
-- Puedes utilizar [expresiones](/wiki/Client/Interface#búsqueda) como `ar>8 od=9` para buscar canciones. Palabras clave existentes: `ar`, `od`, `hp`, `cs`, `bpm`, `length` y `drain` (tiempo en segundos).
+- Puedes utilizar [expresiones](/wiki/Client/Interface#buscar) como `ar>8 od=9` para buscar canciones. Palabras clave existentes: `ar`, `od`, `hp`, `cs`, `bpm`, `length` y `drain` (tiempo en segundos).
 - Reintenta un beatmap pulsando `Ctrl` + `R` durante unos instantes.
 
 ## Editor
@@ -84,7 +84,7 @@ Utiliza el control de velocidad que hay en la esquina inferior derecha de la pan
 - Pulsa `F5` o haz clic en el botón `test` en la parte inferior de la pantalla para probar tu beatmap desde el minuto en el que te encuentres. Esto te ayudará a detectar problemas relacionados con el drenaje de puntos de vitalidad, o con la colocación de algunos elementos. También puedes utilizarlo para practicar una sección determinada de una canción.
 - Puedes aumentar o disminuir el rango de visión en la línea de tiempo pulsando alt + rueda del ratón cuando el puntero esté sobre la línea de tiempo. También puedes hacer esto pulsando los botones `+`/`-` que hay a su izquierda. Esto te ayudará a colocar con mayor precisión los elementos de tu beatmap.
 - Para realizar una comprobación más precisa del ritmo de tu beatmap, prueba a disminuir la velocidad de reproducción al 25% o 50%. Puedes hacer esto desde el menú situado en la parte inferior derecha del editor. Los atajos del teclado para esta función son `flecha arriba`/`abajo` o `Ctrl` + `flecha arriba`/`abajo`.
-- Si decides abandonar un beatmap, no pasa nada. Los beatmaps que son [abandonados](/wiki/Beatmap/Category#abandonados) van al cementerio de beatmaps tras un cierto periodo de inactividad. Si algún día quieres revivir tu beatmap debes ir a tu perfil, buscar tu beatmap y hacer clic en `Resurrect`.
+- Si decides abandonar un beatmap, no pasa nada. Los beatmaps que son [abandonados](/wiki/Beatmap/Category#graveyard) van al cementerio de beatmaps tras un cierto periodo de inactividad. Si algún día quieres revivir tu beatmap debes ir a tu perfil, buscar tu beatmap y hacer clic en `Resurrect`.
 - Puedes personalizar los elementos de un skin para un beatmap específico, simplemente tienes que añadir los archivos a la carpeta de ese beatmap y utilizar los nombres de archivo adecuados.
 - Cuando copies elementos de un beatmap (con `Ctrl` + `C` o desde el menú) se guardarán valores como el tiempo o la localización de esos elementos en tu portapapeles, pueden ser útiles a la hora de publicar mensajes en la sección de moderación de beatmaps.
 - Si activas el modo directo (`Ctrl` + `Tab`) puedes poner elementos en tu beatmap utilizando las teclas que hayas configurado para Taiko u osu!mania.
@@ -92,26 +92,38 @@ Utiliza el control de velocidad que hay en la esquina inferior derecha de la pan
 
 ## osu!(lazer)
 
-<!-- Source: https://github.com/ppy/osu/blob/master/osu.Game/Screens/Menu/Disclaimer.cs -->
+<!-- Source: https://github.com/ppy/osu/blob/master/osu.Game/Screens/Menu/MenuTip.cs -->
 
-Estos consejos aparecen en [osu!(lazer)](/wiki/Client/Release_stream/Lazer) al inicio, antes de la secuencia de introducción.
+Estos consejos aparecen en la parte inferior del menú principal en [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
-- ¡Puedes presionar `Ctrl` + `T` en cualquier parte del juego para alternar la barra de herramientas!
-- ¡Puedes presionar `Ctrl` + `O` en cualquier parte del juego para acceder a las opciones!
-- Todas las configuraciones son dinámicas y tienen efecto en tiempo real. ¡Prueba a pausar y cambiar la skin mientras juegas!
+- ¡Presiona `Ctrl` + `T` en cualquier parte del juego para alternar la barra de herramientas!
+- ¡Presiona `Ctrl` + `O` en cualquier parte del juego para acceder a las opciones!
+- Todas las configuraciones son dinámicas y surten efecto en tiempo real. ¡Prueba a cambiar la skin mientras ves autoplay!
 - Nuevas funciones están disponibles en línea con cada actualización. ¡Asegúrate de mantenerte actualizado!
 - Si encuentras que la interfaz de usuario es demasiado grande o pequeña, intenta ajustar la escala de la interfaz de usuario en la configuración.
 - Intenta ajustar el modo `Escala de pantalla` para cambiar tu juego o el área de la interfaz de usuario, ¡incluso en pantalla completa!
-- Lo que solía ser «[osu!direct](/wiki/osu!supporter#osu!direct)» está disponible para todos los usuarios al igual que en el sitio web. ¡Puedes acceder a él desde cualquier lugar usando `Ctrl` + `D`!
-- ¡Buscar en las repeticiones está disponible arrastrando la barra de dificultad en la parte inferior de la pantalla!
+- Lo que solía ser «[osu!direct](/wiki/osu!supporter#osu!direct)» está disponible para todos los usuarios al igual que en el sitio web. ¡Puedes acceder a él desde cualquier lugar usando `Ctrl` + `B`!
+- ¡Buscar en las repeticiones está disponible arrastrando la barra de progreso en la parte inferior de la pantalla o usando las teclas de flecha izquierda y derecha!
 - ¡La compatibilidad con subprocesos múltiples significa que incluso con «FPS» bajos, sus entradas y juicios serán precisos!
-- ¡Intenta desplazarte hacia abajo en el panel de selección de mods para encontrar un montón de nuevos mods divertidos!
+- ¡Intenta desplazarte hacia la derecha en el selector de mods para encontrar un montón de nuevos mods divertidos!
 - ¡La mayor parte del contenido web (perfiles, clasificaciones, etc.) está disponible de forma nativa en el juego desde los íconos en la barra de herramientas!
 - ¡Obtén más detalles, oculta o elimina un beatmap haciendo clic derecho en tu panel en la selección de canciones!
 - Todas las operaciones de eliminación son temporales hasta que salgas. ¡Restaura el contenido eliminado accidentalmente en la configuración de mantenimiento!
 - Echa un vistazo al sistema de «listas de juego», que permite a los usuarios crear sus propias tablas de clasificación personalizadas y permanentes.
 - ¡Alterna las estadísticas avanzadas de marcos / subprocesos con `Ctrl` + `F11`!
 - ¡Echa un vistazo bajo el capó a los contadores de rendimiento y habilita el registro de rendimiento detallado con `Ctrl` + `F2`!
+- ¡Puedes pausar durante una repetición presionando `Espacio`!
+- La mayoría de las teclas de acceso rápido del juego son configurables y se pueden cambiar a las que quieras. ¡Comprueba el panel de asignaciones en los ajustes de entrada!
+- ¡Cuando tu HUD del juego esté oculto, puedes presionar y mantener presionado `Ctrl` para verlo temporalmente!
+- El HUD del juego se puede personalizar usando el editor de diseño de skins. ¡Ábrelo en cualquier momento con `Ctrl` + `Mayús` + `S`!
+- ¡Arrastra y suelta cualquier imagen en el editor de skins para cargarla rápidamente!
+- ¡Puedes crear ajustes preestablecidos de mods para facilitar el cambio de tus combinaciones favoritas de mods!
+- Muchos mods tienen configuraciones de personalización que cambian drásticamente su funcionamiento. ¡Haz clic en el botón `Personalización de mods` en el selector de mods para ver la configuración!
+- ¡Presiona `Ctrl` + `Mayús` + `R` para cambiar a una skin aleatoria!
+- Presiona `Ctrl` + `Mayús` + `F` para alternar el contador de FPS. ¡Pero asegúrate de no prestarle demasiada atención!
+- ¡Mientras miras una repetición, presiona `Ctrl` + `H` para alternar la configuración de la repetición!
+- ¡Puedes copiar fácilmente los mods de las puntuaciones en una tabla de clasificación haciendo clic derecho sobre ellas!
+- ¡Si presionas `Ctrl` + `Entrar` al seleccionar una canción, se iniciará el beatmap en modo autoplay!
 
 ## Véase también
 

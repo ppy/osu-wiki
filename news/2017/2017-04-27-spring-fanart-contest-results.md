@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring Fanart Contest Results"
+title: Spring Fanart Contest Results
 date: 2017-04-27 18:01:55 +0000
 tumblr_url: http://osunews.tumblr.com/post/160055282693/spring-fanart-contest-results
 ---

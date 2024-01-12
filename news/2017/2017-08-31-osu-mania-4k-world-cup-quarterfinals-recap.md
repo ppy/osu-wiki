@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!mania 4K World Cup - Quarterfinals Recap"
+title: osu!mania 4K World Cup - Quarterfinals Recap
 date: 2017-08-31 14:00:00 +0000
 ---
 
@@ -52,13 +52,13 @@ This week's most popular pick was [yst - The Lost Dedicated](https://osu.ppy.sh/
 
 ### Sunday
 
-**Continuing where we had last left off, [the match between South Korea and Japan also ended with a confident 5 - 0 victory](https://osu.ppy.sh/community/matches/35601021)**. Contrary to the previous match where the matches were fairly one-sided, this encounter started off quite a bit closer, with Japan almost beating South Korea on their first pick [yst - The Lost Dedicated](https://osu.ppy.sh/beatmaps/1302866), missing out by a score difference of *2,965*. However, South Korea's superior consistency really shone through, allowing them to win pick after pick despite Japan's best efforts to keep up.  
+**Continuing where we had last left off, [the match between South Korea and Japan also ended with a confident 5 - 0 victory](https://osu.ppy.sh/community/matches/35601021)**. Contrary to the previous match where the matches were fairly one-sided, this encounter started off quite a bit closer, with Japan almost beating South Korea on their first pick [yst - The Lost Dedicated](https://osu.ppy.sh/beatmaps/1302866), missing out by a score difference of *2,965*. However, South Korea's superior consistency really shone through, allowing them to win pick after pick despite Japan's best efforts to keep up.
 
 ![](/wiki/shared/news/2017-08-31-osu-mania-4k-world-cup-quarterfinals-recap/SouthKoreaJapan_game2.jpg)
 
 **Our second match of the day saw [New Zealand against Poland, resulting in an overwhelming 0 - 5 defeat](https://osu.ppy.sh/community/matches/35602514).** As the mappool difficulty continues to rise, it is only natural that some teams will struggle to keep up. This is exactly the case here, in which the high seeded Poland took full advantage of this fact, going for some of the trickier picks in the pool. Major props to the unseeded New Zealand for making it this far though!
 
-**[Singapore gave China a fair challenge, losing 1 - 5](https://osu.ppy.sh/community/matches/35604433).** Adhering to a common theme this week, Singapore lost the first 2 points despite having the first pick. They were then able to scrape a point back on their second pick [Getty vs. DJ DiA - Fox4-Raize-](https://osu.ppy.sh/beatmapsets/580157#mania/1228388), edging out China by a marginal score difference of *4307*. However, China returned fire and proceeded to win the match without too much difficulty.  
+**[Singapore gave China a fair challenge, losing 1 - 5](https://osu.ppy.sh/community/matches/35604433).** Adhering to a common theme this week, Singapore lost the first 2 points despite having the first pick. They were then able to scrape a point back on their second pick [Getty vs. DJ DiA - Fox4-Raize-](https://osu.ppy.sh/beatmapsets/580157#mania/1228388), edging out China by a marginal score difference of *4307*. However, China returned fire and proceeded to win the match without too much difficulty.
 
 **Regrettably, Hong Kong vs. Sweden ended with a WBD in favour of Sweden.** A "win-by-default" is an uncommon outcome that arises when one team lacks sufficient players to compete. Already a small team in their own right, Hong Kong's **[Opean](https://osu.ppy.sh/users/4544555)** was plagued with connectivity issues along with a myriad of unfortunate circumstances. Unable to compete with a full team, Sweden won the match by default (but not before taking 3 points off them). Below are the final moments before Hong Kong was forced to concede the match.
 
@@ -77,10 +77,10 @@ Good luck to all the remaining teams in this tournament!
 ## Looking Ahead: Semifinals
 
 Three weeks in, and already we've whittled 32 potential teams down to a hardy 12. Next week we'll be treated to another 8 exciting matches, 2 of which will remain undetermined until the matches are fully underway! Let's have a peek at the upcoming matches in the semifinals stage:
-  
+
 ### Winners Bracket
 
-Our first matchup will see Brazil facing off against South Korea. South Korea is definitely a crowd favourite, but Brazil may have a trick or two up their sleeve. The second match will see United States squaring off against Chile. This match is definitely one to look out for, as it will almost certainly be quite a bit closer.  
+Our first matchup will see Brazil facing off against South Korea. South Korea is definitely a crowd favourite, but Brazil may have a trick or two up their sleeve. The second match will see United States squaring off against Chile. This match is definitely one to look out for, as it will almost certainly be quite a bit closer.
 
 ### Losers Bracket
 

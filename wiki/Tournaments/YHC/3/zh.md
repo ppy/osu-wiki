@@ -27,7 +27,7 @@ tags:
 | 名次 | 奖励 |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "第一名") | 队内每个玩家 35 元人民币（大约价值 USD 4.8）、一个非官方的主页奖牌 |
-| ![Silver crown](/wiki/shared/crown-silver.png "第二名") | 队内每个玩家 25 元人民币（大约价值 USD 3.4）                 |
+| ![Silver crown](/wiki/shared/crown-silver.png "第二名") | 队内每个玩家 25 元人民币（大约价值 USD 3.4） |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "第三名") | 队内每个玩家 15 元人民币（大约价值 USD 2） |
 | *整场比赛的 MVP* | 1 个月的 osu! 支持者 |
 | *冠军队伍的教练* | 1 个月的 osu! 支持者 |
@@ -177,7 +177,7 @@ tags:
 
 ### 淘汰赛第三轮
 
-| 队伍 1 | | | 队伍 2 | 比赛链接 |
+| 队伍 1 |  |  | 队伍 2 | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
 | **鲭西何时无缘进路** ::{ flag=CN }:: | **7** | 0 | ::{ flag=CN }:: 天使纷扰 | [#1](https://osu.ppy.sh/community/matches/109736014) |
 | 我倒杯水 ::{ flag=CN }:: | 2 | **7** | ::{ flag=CN }:: **天使纷扰** | [#1](https://osu.ppy.sh/community/matches/109588877) |
@@ -186,7 +186,7 @@ tags:
 
 ### 淘汰赛第二轮
 
-| 队伍 1 | | | 队伍 2 | 比赛链接 |
+| 队伍 1 |  |  | 队伍 2 | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
 | **天使纷扰** ::{ flag=CN }:: | **6** | 3 | ::{ flag=CN }:: 笔不飞 不会打 | [#1](https://osu.ppy.sh/community/matches/109390391) |
 | 遇到HD睡大觉 ::{ flag=CN }:: | 3 | **6** | ::{ flag=CN }:: **孤儿收容所** | [#1](https://osu.ppy.sh/community/matches/109391200) |
@@ -197,7 +197,7 @@ tags:
 
 ### 淘汰赛第一轮
 
-| 队伍 1 | | | 队伍 2 | 比赛链接 |
+| 队伍 1 |  |  | 队伍 2 | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
 | **遇到HD睡大觉** ::{ flag=CN}:: | **5** | 0 | ::{ flag=CN }:: null | [#1](https://osu.ppy.sh/community/matches/109161042) |
 | **我倒杯水** ::{ flag=CN }:: | **5** | 1 | ::{ flag=CN }:: 笔不飞 不会打 | [#1](https://osu.ppy.sh/community/matches/109142623) |

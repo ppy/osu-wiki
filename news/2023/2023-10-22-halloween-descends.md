@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halloween 2023 Descends"
+title: Halloween 2023 Descends
 date: 2023-10-22 19:00:00 +0000
 ---
 
@@ -62,7 +62,7 @@ Behold! **1547** voter bats circled the spooky manor depicted by [**1 zero**](ht
 
 [![](https://assets.ppy.sh/contests/186/banners/RedcXca.jpg)](https://assets.ppy.sh/contests/186/winners/RedcXca.png)
 
-Fanart contest veteran [**RedcXca**](https://osu.ppy.sh/users/14056601) returns as a finalist once again, and can now proudly claim "I maid this", because they put Yuzu in a maid dress, and **1348** voters were astonished by how well it works. Alisa in a bunny suit is also present, as well as a guest cameo from the ever-popular Doraemon for reasons we're not even going to pretend to understand, plus several trollface skull decorations. There's more hidden in this piece to boot, but I've got too many *tasks* to do to list them. 
+Fanart contest veteran [**RedcXca**](https://osu.ppy.sh/users/14056601) returns as a finalist once again, and can now proudly claim "I maid this", because they put Yuzu in a maid dress, and **1348** voters were astonished by how well it works. Alisa in a bunny suit is also present, as well as a guest cameo from the ever-popular Doraemon for reasons we're not even going to pretend to understand, plus several trollface skull decorations. There's more hidden in this piece to boot, but I've got too many *tasks* to do to list them.
 
 Sure is cloudy tonight, isn't it?
 

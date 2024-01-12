@@ -27,6 +27,7 @@
 - [Spectating](/wiki/Gameplay/Spectating)
 - [Spinner trap](/wiki/Gameplay/Spinner_trap)
 - [Tablet cover](/wiki/Gameplay/Tablet_cover)
+- [Unstable rate](Unstable_rate)
 - [Walk](/wiki/Gameplay/Walk)
 
 <!-- TODO: category needs some fleshing out and this index probably shouldn't be empty -->

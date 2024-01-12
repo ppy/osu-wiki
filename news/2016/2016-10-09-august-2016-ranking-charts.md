@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "August 2016 Ranking Charts"
+title: August 2016 Ranking Charts
 date: 2016-10-09 12:28:30 +0000
 tumblr_url: http://osunews.tumblr.com/post/151558446353/august-2016-ranking-charts
 ---
