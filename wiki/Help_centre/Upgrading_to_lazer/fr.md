@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Mise à jour vers lazer
 
 *Remarque : Nous sommes encore en train de réfléchir à l'équilibre et aux mécanismes du jeu. Pour l'instant, **les scores obtenus sur lazer ne doivent pas être considérés comme permanents**.*

@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # L'histoire d'osu! en 2022
 
 ## Janvier
