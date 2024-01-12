@@ -28,7 +28,7 @@ The **GB Cup 2022 Spring** (***GBC 2022 Spring***) was a 3v3 captain draft-based
 ## Prizes
 
 | Placing | Prizes |
-| :-----: | :----- |
+| :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, KanonBot profile badge, ¥250 CNY |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | KanonBot profile badge, ¥200 CNY |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | KanonBot profile badge, ¥150 CNY |
@@ -47,7 +47,7 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 | :-- | :-- |
 | Host | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
 | Staff | ::{ flag=CN }:: [\[GB\]AelSan](https://osu.ppy.sh/users/14095291), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645) |
-| Mappool selector | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14095291), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [\[GB\]AelSan](https://osu.ppy.sh/users/14095291),::{ flag=CN }:: [\[GB\]Thaumiel](https://osu.ppy.sh/users/15017771)  |
+| Mappool selector | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14095291), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [\[GB\]AelSan](https://osu.ppy.sh/users/14095291),::{ flag=CN }:: [\[GB\]Thaumiel](https://osu.ppy.sh/users/15017771) |
 | Mappool tester | ::{ flag=CN }:: [\[GB\]Yuria](https://osu.ppy.sh/users/13092888), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [\[GB\]Akamite](https://osu.ppy.sh/users/13418334), ::{ flag=CN }:: [Blue\_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [FleVI](https://osu.ppy.sh/users/12519616), ::{ flag=CN }:: [\[GB\]Takeru3](https://osu.ppy.sh/users/15188014), ::{ flag=CN }:: [\_Yiiiiii](https://osu.ppy.sh/users/6066359), ::{ flag=CN }:: [rbqq](https://osu.ppy.sh/users/13747488/mania), ::{ flag=CN }:: [Seven\_Nye](https://osu.ppy.sh/users/20886966), ::{ flag=CN }:: [aa219040](https://osu.ppy.sh/users/11653961), ::{ flag=CN }:: [DongDouFu](https://osu.ppy.sh/users/17621613), ::{ flag=CN }:: [sheng\_guang](https://osu.ppy.sh/users/12417981), ::{ flag=CN }:: [sackwoman](https://osu.ppy.sh/users/21573696) |
 | Referee | ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [\[GB\]AelSan](https://osu.ppy.sh/users/14095291), ::{ flag=CN }:: [\[GB\]Ceci1ia](https://osu.ppy.sh/users/28052545), ::{ flag=CN }:: [\[GB\]Akamite](https://osu.ppy.sh/users/13418334), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
 | Commentator | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [\[GB\]AelSan](https://osu.ppy.sh/users/14095291) |
@@ -178,13 +178,13 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 Saturday, May 14, 2022:
 
 | Team A |  |  | Team B | Match link | Note |
-| --:  |--: | :-- | :-- | :-: | :-: |
+| --: | --: | :-- | :-- | :-: | :-: |
 | **金戈铁马的鲜丰水果摊** | **7** | 6 | 太美丽了理塘 | [#1](https://osu.ppy.sh/community/matches/100602282) | Finals |
 
 Sunday, May 15, 2022:
 
 | Team A |  |  | Team B | Match link |  |
-| --:  |--: | :-- | :-- | :-: | :-: |
+| --: | --: | :-- | :-- | :-: | :-: |
 | **GBC最强阵容9个Miyes** | **7** | 3 | 货拉拉拉不拉拉布拉多 | [#1](https://osu.ppy.sh/community/matches/100634289) | Bronze match |
 
 ### Semifinals
@@ -192,13 +192,13 @@ Sunday, May 15, 2022:
 Saturday, May 7, 2022:
 
 | Team A |  |  | Team B | Match link |
-| --:  |--: | :-- | :-- | :-: |
-| 货拉拉拉不拉拉布拉多 |  3 | **7** | **太美丽了理塘** | [#1](https://osu.ppy.sh/community/matches/100411441) |
+| --: | --: | :-- | :-- | :-: |
+| 货拉拉拉不拉拉布拉多 | 3 | **7** | **太美丽了理塘** | [#1](https://osu.ppy.sh/community/matches/100411441) |
 
 Sunday, May 8, 2022:
 
 | Team A |  |  | Team B | Match link |
-| --:  |--: | :-- | :-- | :-: |
+| --: | --: | :-- | :-- | :-: |
 | GBC最强阵容9个Miyes | 3 | **7** | **金戈铁马的鲜丰水果摊** | [#1](https://osu.ppy.sh/community/matches/100444701) |
 
 ### Quarterfinals
@@ -206,14 +206,14 @@ Sunday, May 8, 2022:
 Sunday, May 1, 2022:
 
 | Team A |  |  | Team B | Match link |
-| --:  |--: | :-- | :-- | :-: |
+| --: | --: | :-- | :-- | :-: |
 | 大怨种被迫当队长 | 3 | **6** | **GBC最强阵容9个Miyes** | [#1](https://osu.ppy.sh/community/matches/100250198) |
 | **太美丽了理塘** | **6** | 2 | 可爱的hyahya酱上线啦！！ | [#1](https://osu.ppy.sh/community/matches/100250096) |
 
 Monday, May 2, 2022:
 
 | Team A |  |  | Team B | Match link |
-| --:  |--: | :-- | :-- | :-: |
+| --: | --: | :-- | :-- | :-: |
 | **货拉拉拉不拉拉布拉多** | **6** | 5 | 涩涩不队 | [#1](https://osu.ppy.sh/community/matches/100280784) |
 | **金戈铁马的鲜丰水果摊** | **6** | 4 | 皮蛋蛋吸手手俱乐部 | [#1](https://osu.ppy.sh/community/matches/100281811) |
 
@@ -243,7 +243,7 @@ Monday, May 2, 2022:
 Sunday, April 24, 2022:
 
 | Team A |  |  | Team B | Match link |
-| --:  |--: | :-- | :-- | :-: |
+| --: | --: | :-- | :-- | :-: |
 | 大怨种被迫当队长 | 18 | **71** | **货拉拉拉不拉拉布拉多队** | *dice roll* |
 
 ### Regular stage week 3
@@ -251,13 +251,13 @@ Sunday, April 24, 2022:
 Friday, April 22, 2022:
 
 | Team A |  |  | Team B | Match link |
-| --:  |--: | :-- | :-- | :-: |
+| --: | --: | :-- | :-- | :-: |
 | 大怨种被迫当队长 | 1 | **6** | **太美丽了理塘** | [#1](https://osu.ppy.sh/community/matches/99985568) |
 
 Saturday, April 23, 2022:
 
 | Team A |  |  | Team B | Match link |
-| --:  |--: | :-- | :-- | :-: |
+| --: | --: | :-- | :-- | :-: |
 | 青叶摩卡的百合后花园 | 3 | **6** | **皮蛋蛋吸手手俱乐部** | [#1](https://osu.ppy.sh/community/matches/100017943) |
 | **涩涩不队** | **6** | 0 | bikabika | [#1](https://osu.ppy.sh/community/matches/100018611) |
 | **可爱的hyahya酱上线啦！！** | **6** | 2 | MyAngel Koishi | [#1](https://osu.ppy.sh/community/matches/100018611) |
@@ -265,7 +265,7 @@ Saturday, April 23, 2022:
 Sunday, April 24, 2022:
 
 | Team A |  |  | Team B | Match link |
-| --:  |--: | :-- | :-- | :-: |
+| --: | --: | :-- | :-- | :-: |
 | Yzhhのqlll森林汪酱不会大叠 | -1 | **0** | **啊对对队** | *win by default* |
 | **GBC最强阵容9个Miyes** | **6** | 4 | 头号倒霉蛋 | [#1](https://osu.ppy.sh/community/matches/100054908) |
 | **啊不对不队** | **0** | -1 | 你没对象对不队 | *win by default* |
@@ -276,7 +276,7 @@ Sunday, April 24, 2022:
 Saturday, April 16, 2022:
 
 | Team A |  |  | Team B | Match link |
-| --:  |--: | :-- | :-- | :-: |
+| --: | --: | :-- | :-- | :-: |
 | Yzhhのqlll森林汪酱不会大叠 | 5 | **6** | **bikabika** | [#1](https://osu.ppy.sh/community/matches/99801555) |
 | 啊对对队 | 5 | **6** | **头号倒霉蛋** | [#1](https://osu.ppy.sh/community/matches/99803451) |
 | **金戈铁马的鲜丰水果摊** | **6** | 2 | 可爱的hyahya酱上线啦！！ | [#1](https://osu.ppy.sh/community/matches/99804500) |
@@ -285,7 +285,7 @@ Saturday, April 16, 2022:
 Sunday, April 17, 2022:
 
 | Team A |  |  | Team B | Match link |
-| --:  |--: | :-- | :-- | :-: |
+| --: | --: | :-- | :-- | :-: |
 | **太美丽了理塘** | **6** | 1 | 青叶摩卡的百合后花园 | [#1](https://osu.ppy.sh/community/matches/99835417) |
 | **MyAngel Koishi** | **6** | 1 | 你没对象对不队 | [#1](https://osu.ppy.sh/community/matches/99837265) |
 | **货拉拉拉不拉拉布拉多** | **6** | 3 | 涩涩不队 | [#1](https://osu.ppy.sh/community/matches/99840516) |
@@ -296,7 +296,7 @@ Sunday, April 17, 2022:
 Saturday, April 9, 2022:
 
 | Team A |  |  | Team B | Match link |
-| --:  |--: | :-- | :-- | :-: |
+| --: | --: | :-- | :-- | :-: |
 | bikabika | 1 | **6** | **青叶摩卡的百合后花园** | [#1](https://osu.ppy.sh/community/matches/99564304) |
 | **可爱的hyahya酱上线啦！！** | **6** | 1 | 啊对对队 | [#1](https://osu.ppy.sh/community/matches/99566208) |
 | **金戈铁马的鲜丰水果摊** | **6** | 1 | 头号倒霉蛋 | [#1](https://osu.ppy.sh/community/matches/99567449) |
@@ -305,7 +305,7 @@ Saturday, April 9, 2022:
 Sunday, April 10, 2022:
 
 | Team A |  |  | Team B | Match link |
-| --:  |--: | :-- | :-- | :-: |
+| --: | --: | :-- | :-- | :-: |
 | Team MyAngel Koishi | 3 | **6** | **大怨种被迫当队长** | [#1](https://osu.ppy.sh/community/matches/99603315) |
 | **货拉拉拉不拉拉布拉多队** | **6** | 4 | 啊不对不队 | [#1](https://osu.ppy.sh/community/matches/99606894) |
 | Yzhhのqlll森林汪酱不会大叠 | 1 | **6** | **太美丽了理塘** | [#1](https://osu.ppy.sh/community/matches/99608620), [screenshot](img/GBC2SprW1M7.jpg) |

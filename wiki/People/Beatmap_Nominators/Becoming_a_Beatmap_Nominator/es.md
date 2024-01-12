@@ -35,7 +35,7 @@ Los siguientes son los rasgos de modding que se esperan de los Beatmap Nominator
 ### Cómo se eligen los nuevos potenciales Beatmap Nominators
 
 - Los modders serán evaluados por los miembros del NAT correspondientes al modo de juego que solicitaron, teniendo en cuenta los siguientes criterios:
-  - Actitud general: Tono de entrega de los mods y otras expectativas de comportamiento del [código de conducta](/wiki/Rules/Code_of_conduct_for_modding_and_mapping), así como comportamiento general en chat/foros.
+  - Actitud general: Tono de entrega de los mods y otras expectativas de conducta del [código de conducta](/wiki/Rules/Code_of_conduct_for_modding_and_mapping), así como conducta general en chat/foros.
   - Habilidades de modding: Conocimiento de los criterios generales de clasificación y criterios específicos de cada modo de juego.
 - Después de evaluar a cada modder, se realizará una discusión sobre si el modder se unirá a los Beatmap Nominators.
 
