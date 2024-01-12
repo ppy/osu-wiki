@@ -38,7 +38,7 @@ The **osu! World Cup 2016** (***OWC 2016***) was a country-based osu! tournament
 The osu! World Cup 2016 was run by various community members.
 
 | Position | Member(s) |
-| :-- |:-- |
+| :-- | :-- |
 | Manager | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565), ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366), ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703), ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) |
 | Mappool selector | ::{ flag=JP }:: [Asahina Momoko](https://osu.ppy.sh/users/3650145), ::{ flag=DE }:: [Okorin](https://osu.ppy.sh/users/1623405), ::{ flag=HK }:: [Skystar](https://osu.ppy.sh/users/873961) |
 | Commentator | ::{ flag=AU }:: [Bauxe](https://osu.ppy.sh/users/1881685), ::{ flag=US }:: [Daikyi](https://osu.ppy.sh/users/811832), ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=CA }:: [Evrien](https://osu.ppy.sh/users/791660), ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=AT }:: [Omgforz](https://osu.ppy.sh/users/578943), ::{ flag=GB }:: [Rime](https://osu.ppy.sh/users/1397232), ::{ flag=FR }:: [Slainv](https://osu.ppy.sh/users/4823843), ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) |
@@ -410,7 +410,7 @@ Sunday, 13 November 2016:
 15. If a player disconnects between the beatmaps and the team can not provide an exchange, the match can be delayed 10 minutes at maximum.
 16. All players and referees must to be treated with respect. Instructions of the referees and tournament management is to be followed. Decisions labeled as final are not to be objected.
 17. Disrupting the match by foul play, picking inappropriate warmup maps (see below), insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
-18. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules "Rules"). All chat rules apply to the multiplayer chatrooms, too.
+18. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
     - Breaking the chat rules results in a silence. Silenced players can not participate at multiplayer matches and must be exchanged for the time being.
 19. In Group stage, 'Win by default' will be considered as win by 4:0, +1.0 score difference ratio.
 20. Unexpected incidences are handled by the tournament management. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.

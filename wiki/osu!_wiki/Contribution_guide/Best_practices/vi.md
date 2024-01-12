@@ -1,6 +1,5 @@
 ---
-outdated_since: 92f87c21ee0fa098289944375f38d526278d988e
-outdated_translation: true
+no_native_review: true
 ---
 
 # Các gợi ý để làm công việc của bạn tốt hơn
@@ -34,28 +33,16 @@ Giải pháp này hoạt động được ở hầu hết các trường hợp, 
 Nếu bạn gặp vấn đề gì khi đang sử dụng công cụ GitHub hoặc bạn muốn ghi đè lên nội dung trong branch của bạn, bạn có thể sử dụng workflow (luồng công việc) viết bởi những người đóng góp cho osu! wiki.
 
 1. Mở **fork của bạn** và đi tới thẻ `Actions`.
-
-2. Trong `Workflows`, tìm `Sync from osu! upstream`.
-
+2. Ở thanh bên trái, tìm `Sync with ppy:master`.
 3. Nhấn `Run workflow` và điền vào các thiết lập:
 
-   <!-- when updating this translation, delete img/github-actions-workflow-dialog.png if this translation is the last one to use it. —clayton -->
+![Ảnh chụp màn hình của biểu mẫu trên trang web GitHub được mô tả bên dưới](img/github-actions-workflow-dispatch.png "Menu khởi chạy GitHub Actions workflow")
 
-   ![](img/github-actions-workflow-dialog.png "GitHub Actions Workflow - Chạy Workflow")
+- **Use workflow from**: Branch đích bạn muốn đồng bộ. Mặc định sẽ là `master`.
+- **Create a backup of the selected branch**: Tạo một bản sao của branch đích tại `{branch name}-backup` trên fork của bạn trước khi thử cập nhật nó.
+- **Overwrite all history of the selected branch**: Thay thế branch đích bằng `ppy:master`, loại bỏ tất cả commit khác biệt. Mặc định, `ppy:master` sẽ được merge vào branch đích.
 
-   - **Use workflow from**: tên branch bạn muốn đồng bộ. Mặc định sẽ là `master`.
-   - **Create a backup of your target branch**:
-     - `true`:  tạo một branch có tên `backup-{tên branch của bạn}` để sao lưu trước khi thay đổi.
-     - `false` (mặc định): không tạo sao lưu.
-   - **Overwrite any changes in the target repository**:
-     - `true`: thay thế nội dung trong branch của bạn bằng một bản sao sạch của branch `master` từ `ppy/osu-wiki`.
-     - `false` (mặc định): merge thay đổi của bạn cùng với bản sao sạch từ `ppy/osu-wiki`.
-
-4. Nhấn nút `Run Workflow` và chờ nó hoàn thành. Nếu bạn tò mò xem công cụ này hoạt động ra sao, nhấn lại vào `Sync from osu! upstream`.
-
-   <!-- when updating this translation, delete img/github-actions-workflow-overview.png if this translation is the last one to use it. —clayton -->
-
-   ![](img/github-actions-workflow-overview.png "GitHub Actions Workflow - Quá trình Workflow")
+4. Nhấn nút `Run Workflow` và chờ nó hoàn thành. Nếu bạn tò mò xem công cụ này hoạt động ra sao, nhấn vào `Sync with ppy:master`.
 
 ## Chỉnh sửa
 

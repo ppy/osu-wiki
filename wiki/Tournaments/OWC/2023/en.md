@@ -26,7 +26,7 @@ The **osu! World Cup 2023** (***OWC 2023***) was a country-based osu! tournament
 
 ## Prizes
 
-The osu! World Cup 2023 offered a $5,000 cash prize pool and limited-edition merch.
+The osu! World Cup 2023 offered a $10,000 cash prize pool and limited-edition merch.
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -59,7 +59,6 @@ The osu! World Cup 2023 was run by the [osu! team](/wiki/People/osu!_team) and v
 - [Livestream](https://www.twitch.tv/osulive)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/130) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Challonge bracket](https://challonge.com/OWC_2023)
-- [Support your team](https://osu.ppy.sh/store/products/1219)
 
 ## Participants
 
