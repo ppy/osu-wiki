@@ -127,7 +127,7 @@ Momentan, beatmap-urile, skin-urile, scorurile, reluările și colecțiile de be
 
 #### Dacă îmi transfer beatmap-urile în lazer, o să-mi ia și mai mult spațiu de stocare?
 
-Dacă ai lazer și stable instalat pe același drive, [hard link-uri](/wiki/Client/Release_stream/Lazer/File_storage#via-hard-links) sunt folosite pentru a nu vă încărca spațiul de stocare.
+Dacă ai lazer și stable instalat pe același drive, [hard link-uri](/wiki/Client/Release_stream/Lazer/File_storage#via-hard-links) sunt folosite pentru a nu-ți încărca spațiul de stocare.
 
 În celelalte cazuri, transferarea va rezulta în mai mult spațiu de stocare folosit.
 
