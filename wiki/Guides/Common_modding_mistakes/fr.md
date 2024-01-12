@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Erreurs courantes de modding
 
 *Voir également : [Devenir un Beatmap Nominator § Attentes en matière de modding](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)*
