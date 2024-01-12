@@ -1,75 +1,119 @@
 ---
+no_native_review: true
 tags:
   - Mapper's Guild
   - MG
-outdated_translation: true
-outdated_since: 5d13db18f6598dfcac714de1a6c8e76d6a728980
 ---
 
-# La Mappers' Guild
+# Mappers' Guild
 
 ![](img/mg-logo.png)
 
-La **Mappers' Guild** est un groupe de mappeurs responsables de la création des [beatmaps](/wiki/Beatmap) pour les [Featured Artists](/wiki/People/Featured_Artists) d'osu!. En utilisant un style de guilde MMO, elle permet aux mappeurs de gagner des récompenses en participant au classement des beatmaps des Featured Artists et en coopérant dans des quêtes en lien avec le mapping.
+**La Mappers' Guild** est un groupe de mappeurs chargé de créer des [beatmaps](/wiki/Beatmap) pour les [Featured Artists](/wiki/People/Featured_Artists) d'osu!. Utilisant un format de guilde de type MMO, il permet aux mappeurs de gagner des récompenses en participant au processus de classement des beatmaps des Featured Artist et en coopérant à des quêtes liées au mapping.
 
-L'organisation et les discussions de la guilde peuvent être trouvées dans le salon `#mappers-guild` du [serveur Discord osu!](https://discord.gg/ppy).
+L'organisation de la guilde et les discussions peuvent être trouvées dans le channel `#mappers-guild` du [serveur Discord d'osu!](https://discord.com/invite/ppy). Pour les informations les plus récentes, consultez la page d'accueil du [site web de la Mappers' Guild](https://mappersguild.com/).
 
-## Fonctionnement
+## Système
 
-*Pour obtenir les informations les plus récentes sur le système utilisé par la Mappers' Guild, consultez la [section FAQ de son site web](https://mappersguild.com/faq).*
+Les mappeurs peuvent rejoindre la guilde à tout moment via le [site web de la Mappers' Guild](https://mappersguild.com/) en s'authentifiant à l'aide de leur compte osu!.
 
-Les mappeurs avec 3 beatmaps classées ou plus peuvent rejoindre la guilde à tout moment via le [site web de la Mappers' Guild](https://mappersguild.com/) en authentifiant leur compte osu!. N'importe qui est libre d'observer les activités de mapping et les quêtes sur le site web.
-
-Les mappeurs peuvent obtenir des récompenses en participant au classement des beatmaps des Featured Artists qui sont liés à la Mappers' Guild. Cela se concentre principalement sur la création de beatmaps, mais des récompenses sont aussi fournies aux utilisateurs qui ont contribué au [modding](/wiki/Modding), à la création des [storyboards](/wiki/Storyboard), ou encore en complétant des quêtes dans la guilde.
-
-### Parties
-
-Les **parties** sont des groupes de mappeurs qui s'inscrivent pour compléter une quête ensemble. Les mappeurs peuvent rejoindre autant de parties en même temps qu'il le souhaite.
-
-Les quêtes spéciales requièrent un plus haut rang dans la guilde pour y participer. Pour qu'une partie se qualifie dans un plus haut rang, au-moins la moitié des membres doivent être du rang requit ou d'un plus haut rang.
+Les membres de la Mappers' Guild peuvent obtenir des récompenses en participant à la [procédure de classement](/wiki/Beatmap_ranking_procedure) pour les maps des Featured Artist qui sont connectées à la Mappers' Guild. Ce processus est principalement axé sur la création de beatmaps, mais des récompenses sont également prévues pour les utilisateurs qui contribuent en [modding](/wiki/Modding), en créant des [storyboards](/wiki/Storyboard), en accomplissant des quêtes au sein de la guilde et en participant à des concours de beatmapping liés aux Featured Artists
 
 ### Quêtes
 
-Les **quêtes** récompensent les mappeurs pour avoir suivi certaines exigences pendant la création de leurs beatmaps de Featured Artists. Le plus souvent, les quêtes impliquent qu'un certain nombre de beatmaps pour un Featured Artist soit crée, cependant les quêtes impliquent aussi quelques petits gadgets.
+[Les quêtes](https://mappersguild.com/quests) récompensent les mappeurs qui remplissent certaines conditions lors de la création de leurs maps Featured Artist. La plupart des quêtes impliquent la création et le classement d'un certain nombre de beatmaps pour un artiste spécifique.
 
-Chaque quête a ses propres spécifications en termes de taille de groupe et de rang, de prix d'acceptation et de date limite. Tous les membres d'une partie doivent payer le prix indiqué pour accepter la quête. Les prix sont souvent assez élevés pour les quêtes fantaisistes ou en solo.
+Chaque quête a ses propres spécifications[^parti] de taille/rang de groupe, de prix[^prix] à accepter et de date limite. Tous les membres d'un groupe doivent payer le prix indiqué pour accepter la quête. Les prix sont généralement plus élevés pour les quêtes qui ne nécessitent qu'une seule beatmap.
 
-Les quêtes expirent automatiquement après 3 mois d'inactivité. N'importe quel utilisateur peut rouvrir une quête en dépensant sa réserve disponible de points de la Mappers' Guild.
+Les quêtes expirent automatiquement après 3 mois d'inactivité. Tout utilisateur peut rouvrir des quêtes en dépensant les points de la Mappers' Guild dont il dispose.
 
-La participation aux quêtes n'est pas requise pour les membres de la Mappers' Guild. Si un utilisateur le souhaite, il peut créer une beatmap seul pour obtenir des récompenses.
+La participation aux quêtes n'est pas obligatoire pour les membres de la Mappers' Guild. Si un utilisateur le souhaite, il peut créer des beatmaps seuls pour obtenir des récompenses autres que des quêtes.
+
+### Quêtes prioritaires
+
+[Les quêtes prioritaires](https://mappersguild.com/missions) sont un type de quête introduit en juillet 2023 et dont les exigences sont plus complexes.
+
+Contrairement aux quêtes normales, les quêtes prioritaires n'ont pas besoin d'être réclamées à l'avance. Tout utilisateur peut lier une map à une quête jusqu'à ce que la date limite soit respectée ou qu'un gagnant soit sélectionné, à condition qu'il remplisse les conditions de la quête. Dans certains cas, plusieurs gagnants peuvent être sélectionnés pour les quêtes prioritaires en fonction de la condition de victoire.
+
+Les quêtes prioritaires sont classées en fonction de leur difficulté. Le niveau 1 est le plus facile et le plus courant, tandis que le niveau 4 est le plus difficile et le moins courant.
 
 ### Récompenses
 
-![](img/mg-badges.png "Les quatre niveaux du badge de profil de la Mappers' Guild")
+![Badges de profil de la Mappers' Guild](img/mg-badges.png "Les quatre niveaux de l'insigne de profil de la Mappers' Guild")
 
-Les **récompenses** sont distribuées au travers d'un système de points. Quand un utilisateur atteint un seuil de points spécifié, il peut gagner un rang différent signifié par un badge de profil. Il y a quatres niveaux de badges de profil : 100, 250, 500, et 1000 points respectivement.
+Les récompenses sont distribuées par le biais d'un système de points. Lorsqu'un utilisateur atteint un seuil de points[^points] spécifié, il obtient un rang différent matérialisé par un badge de profil. Il existe quatre niveaux de badges de profil, à savoir 100, 250, 500 et 1 000 points respectivement. Si un utilisateur atteint 2 500 points, un cinquième niveau peut être ajouté.
 
-Les récompenses sont basées sur le total de points d'un utilisateur. Les points disponibles d'un utilisateur sont une sous-section de son total de points en suivant le même principe que les [kudosu](/wiki/Modding/Kudosu) "reçus au total" et "disponibles" d'osu!
+Des points sont gagnés pour différentes tâches de la Mappers' Guild. Les gains varient d'une tâche à l'autre, bien qu'ils soient généralement pondérés en fonction du temps requis. Par exemple, le mapping d'une difficulté Hard prend plus de temps que le mapping d'une difficulté Easy, donc le premier récompense plus de points que le second.
 
-Les points sont gagnés pour différentes tâches liées au mapping. Les gains varient entre les tâches, bien qu'ils soient généralement pondérés en fonction du temps requis. Par exemple, mapper une difficulté `Hard` prend plus de temps que de mapper une difficulté `Easy`, la première rapportera donc plus de points que la deuxième.
+#### Répartition des points
 
-Les tâches de création d'une difficulté rapportent plus de points à un utilisateur si la beatmap est associée à une quête. Finir une quête avant la date limite rapportera des points bonus pour chaque difficulté mappée et un bonus plat pour chaque utilisateur participant à la quête. Ce bonus fixe est perdue une fois la date limite dépassée. Néanmoins, les bonus de difficultés sont gardé avec une certaine décroissance après des incréments de 0, 20 et 40 jours au-delà de la date limite.
+| Tâche | Points |
+| --: | :-- |
+| Mapper une difficulté Facile | 5[^map][^bonus] |
+| Mapper une difficulté Normal | 6[^map][^bonus] |
+| Mapper une difficulté Hard | 7[^map][^bonus] |
+| Mapper une difficulté Insane | 8[^map][^bonus] |
+| Mapper une difficulté Expert | 8[^map][^bonus] |
+| Réaliser le hitsounding d'une beatmap | 2 |
+| Hoster une beatmap | 5 |
+| Modder d'un beatmap | 1[^mod] |
+| Créer un storyboard | 2–10[^storyboard] |
+| Terminer une quête prioritaire | 7–20[^quête-priorité] |
+| Terminer une quête | 7[^quête] |
+| Organiser un concours | 5[^concours] |
+| Participer à un concours | 3[^concours] |
+| Participer à la sélection d'un concours | 1[^concours] |
+| Juger un concours | 1[^concours] |
 
-### Vitrine des beatmaps des Featured Artists
+#### Récompenses supplémentaires
 
-*Article principale : [Vitrine des beatmaps des Featured Artists](/wiki/People/Featured_Artists/Featured_Artist_showcase_beatmaps)*
+En plus des points généraux de la Guilde des cartographes, les [quêtes prioritaires](#quêtes-prioritaires) ont des récompenses spéciales :
 
-Les membres de la Mappers' Guild peuvent également participer à la création de beatmaps de présentation pour les annonces futures des Featured Artists. Dès l'annonce de l'artiste correspondant, ces beatmaps sont mis en évidence dans le [newspost](https://osu.ppy.sh/home/news) et sont souvent promus sur le [@osugame Twitter](https://twitter.com/osugame) également.
+1. **Porte-clé personnalisé pour chaque beatmap gagnant.** Ceci est basé sur un pattern dans la beatmap gagnante.
 
-### Concours de Beatmapping
+![](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/keychain.jpg "Exemple de récompense physique")
 
-La Mappers' Guild gère également des concours de beatmapping. Depuis janvier 2020, toutes les itérations du [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) ont été hébergées, screenées et jugées en utilisant les systèmes fournis par la Mappers' Guild. Tous les utilisateurs peuvent héberger des concours au travers de la Mappers' Guild pour améliorer l’accessibilité de la communauté de mapping d'osu!.
+2. **Badge de profil de quête prioritaire.** Cette récompense est attribuée à tout utilisateur ayant accompli au moins 3 quêtes prioritaires.
+
+![](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/questbadge.png "Badge de profil de quête prioritaire")
+
+### Showcase beatmap
+
+*Article principal : [Beatmaps showcase des Featured Artists](/wiki/People/Featured_Artists/Featured_Artist_showcase_beatmaps)*
+
+Les membres de la Mappers' Guild peuvent également participer à la création de beatmaps de présentation pour les futures annonces des Featured Artist. Dès l'annonce du Featured Artist correspondant, ces beatmaps sont mis en avant dans les [posts de news](https://osu.ppy.sh/home/news) et sont souvent promus sur le [Twitter @osugame](https://twitter.com/osugame) également.
+
+Les beatmaps des [playlists Featured Artist](/wiki/People/Featured_Artists/Featured_Artist_playlists) sont également coordonnés par la Mappers' Guild, et se chevauchent souvent avec les showcase beatmaps.
+
+### Concours de beatmapping
+
+La Mappers' Guild est également utilisée pour gérer les concours de beatmapping. Depuis janvier 2020, toutes les itérations du [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) ont été hébergées, présélectionnées et jugées à l'aide de systèmes fournis par la Mappers' Guild.
+
+À partir de juillet 2022, tout utilisateur pourra organiser des concours par l'intermédiaire de la GMappers' Guild pour une meilleure accessibilité à la communauté des mappeurs d'osu! et aux outils de concours.
 
 ## Histoire
 
-La Mappers' Guild a été lancée avec un groupe de moins de 10 joueurs vers fin 2017. Compte tenu des informations qui leur ont été fournis sur un nouveau Featured Artist, [MOtOLOiD](https://osu.ppy.sh/beatmaps/artists/19), ils étaient chargés de créer six beatmaps pour accompagner [la publication](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid) sur l'artiste.
+La Mappers' Guild a été lancée avec un groupe de moins de 10 mappeurs à la fin de l'année 2017. Ayant reçu des informations sur un Featured Artist à venir à l'époque, [MOtOLOiD](https://osu.ppy.sh/beatmaps/artists/19), ils ont été chargés de créer six beatmaps pour accompagner [l'annonce de post de news](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid) de l'artiste.
 
-Pour promouvoir d'anciens Featured Artists, le groupe recrutait de nouveaux membres et classa 8 beatmaps de différents artistes. Ces beatmaps furent publier dans un [post](https://osu.ppy.sh/home/news/2018-03-17-new-mappers-guild-pack-release) accompagné d'un pack de [beatmaps téléchargeable](/wiki/Beatmap/Packs).
+Pour promouvoir les anciens Featured Artists, le groupe a augmenté le nombre de ses membres et a classé 8 beatmaps de différents artistes. Ces beatmaps ont été publiés dans un [post de news](https://osu.ppy.sh/home/news/2018-03-17-new-mappers-guild-pack-release) ainsi que dans un [beatmap pack](/wiki/Beatmap/Packs) téléchargeable.
 
-Dans la continuité de ces deux packs de beatmaps, la Mappers' Guild a continuellement agrandi son nombre de membres tout en publiant des packs pour les nouvelles annonces de Featured Artists, comme [High Tea Music](https://osu.ppy.sh/home/news/2018-08-13-new-featured-artist-high-tea-music), [Culprate](https://osu.ppy.sh/home/news/2018-11-21-new-featured-artist-culprate), ou encore [HyuN](https://osu.ppy.sh/beatmaps/artists/33), accompagné d'autres packs pour les musiques d'anciens Featured Artists.
+Suivant les traces de ces deux packs de beatmaps, la Mappers' Guild a continuellement augmenté le nombre de ses membres en publiant des packs pour les nouvelles annonces des Featured Artist, telles que [High Tea Music](https://osu.ppy.sh/home/news/2018-08-13-new-featured-artist-high-tea-music), [Culprate](https://osu.ppy.sh/home/news/2018-11-21-new-featured-artist-culprate), et [HyuN](https://osu.ppy.sh/beatmaps/artists/33), accompagnés d'autres packs pour les anciennes musiques Featured Artist.
 
 ### Automatisation
 
-Alors que le plan initial de la Mappers' Guild était d'avoir des éléments MMO tels que des quêtes, cela s'est avéré peu pratique à gérer tout en gérant manuellement les date limites pour le nombre limité de participants à la guilde. ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) et ::{ flag=CL }:: [Milan-](https://osu.ppy.sh/users/1052994) commencèrent donc le développement d'un site web pour automatiser la Mappers' Guild vers la fin de l'année 2018, permettant une gestion plus adéquate des récompenses et du système de quête/groupes.
+Alors que le plan initial de la Mappers' Guild avait toujours été d'avoir des éléments MMO comme des quêtes, il s'est avéré que cela n'était pas pratique à gérer tout en gérant manuellement les délais pour le nombre limité de participants à la guilde. ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) et ::{ flag=CL }:: [Milan-](https://osu.ppy.sh/users/1052994) ont commencé à développer un site web pour automatiser la Mappers' Guild à la fin de l'année 2018, permettant une distribution plus adéquate des récompenses et la gestion des systèmes de quêtes/parties.
 
-Le [site web de la Mappers' Guild](https://mappersguild.com/) fut lancer le 1er Mars 2019 et c'est ici que tout ce qui concerne la Mappers' Guild est actuellement contrôlé. Depuis son ouverture au public, la guilde a atteint un nombre de membres supérieur à 500 et a publié des [articles de mise à jour](https://osu.ppy.sh/home/news/2019-11-29-featured-artist-beatmap-updates-from-the-mappers-guild) pour garder le reste de la communauté d'osu! à jour sur le contenu de mapping des Featured Artists.
+Le [site web de la Mappers' Guild](https://mappersguild.com/) a été lancé le 1er mars 2019, et c'est là que tout ce qui concerne la Mappers' Guild est actuellement contrôlé. Depuis son ouverture au public, la guilde a atteint un nombre de membres supérieur à 500 et publie des [posts de news des mises à jour](https://osu.ppy.sh/home/news/2019-11-29-featured-artist-beatmap-updates-from-the-mappers-guild) pour tenir le reste de la communauté d'osu! au courant du contenu de mapping des Featured Artist.
+
+### Notes
+
+[^parti]: Un groupe de mappeurs qui collaborent ensemble à une quête.
+[^prix]: Nombre de points requis pour accepter la quête. Ces points sont tirés de la réserve de "points disponibles" de l'utilisateur, et non de son total de points gagnés.
+[^points]: Les récompenses sont basées sur le nombre total de points d'un utilisateur. Les points disponibles d'un utilisateur sont une sous-section de son total de points, suivant le même modèle que les pools "total gagné" et "disponible" des [kudosu](/wiki/Modding/Kudosu) d'osu!
+[^map]: Les points pour la création des beatmaps sont calculés en fonction de la longueur de la map, ce qui signifie qu'une map plus longue rapporte plus de points qu'une map plus courte. Les difficultés collaboratives divisent les points de manière égale entre tous les mappeurs. Les points ne sont attribués qu'aux beatmaps classées.
+[^bonus]: Les beatmaps assignées aux [quêtes](#quêtes), les beatmaps gagnantes des [quêtes-prioritaires](#quêtes-prioritaires), et les [beatmaps showcase](/wiki/People/Featured_Artists/Featured_Artist_showcase_beatmaps) gagnent +2 points de bonus par difficultés. Si un mapping est classé après la date limite de la quête, ce bonus sera réduit à 1,5 point pour un retard de 0 à 20 jours, 1 point pour un retard de 21 à 40 jours, ou 0,5 point pour un retard de 40 jours et plus. Chacun de ces bonus est proportionnel à la longueur de la map.
+[^mod]: Points de modding pour les [Beatmap Nominators](/wiki/People/Beatmap_Nominators) qui nomment une échelle de beatmap pertinente avec une longueur en supposant qu'ils moddent toutes les difficultés.
+[^storyboard]: Les points de storyboard sont attribués en fonction du contenu du storyboard. Les storyboards minimalistes (généralement des paroles de base) rapportent 2 points, tandis que les storyboards détaillés rapportent 10 points.
+[^quête-priorité]: Priority quest points are based on the quest's tier. Tier 1 (easiest and most common) provides 7, tier 2 provides 10, tier 3 provides 13, and tier 4 provides 20 (hardest and least common).
+[^quête]: Cela ne s'applique pas si la quête a dépassé sa date limite, mais les bonus de quête liés à la difficulté sont toujours appliqués.
+[^concours]: Cela ne s'applique qu'aux concours de beatmapping qui utilisent exclusivement du contenu Featured Artist.s
