@@ -113,7 +113,7 @@ Si votre dossier de skin ne contient pas de fichier `skin.ini`, il prendra par d
 
 ### Utilisateur
 
-Il ne s'agit pas d'une version, mais d'un dossier spécial de skin qui est créé lorsque le skin par défaut est modifié, par exemple en glissant un arrière-plan de menu personnalisé dans la fenêtre de jeu (avec [osu!supporter](/wiki/osu!supporter#extra-skinnable-elements)) ou en essayant de modifier les raccourcis clavier de osu!mania pour le skin par défaut à partir des options.
+Il ne s'agit pas d'une version, mais d'un dossier spécial de skin qui est créé lorsque le skin par défaut est modifié, par exemple en glissant un arrière-plan de menu personnalisé dans la fenêtre de jeu (avec [osu!supporter](/wiki/osu!supporter#éléments-supplémentaires-à-skinner)) ou en essayant de modifier les raccourcis clavier de osu!mania pour le skin par défaut à partir des options.
 
 Un skin dans un dossier nommé `User` utilisera toujours la dernière version du skin, indépendamment de toute spécification dans `skin.ini` ou autre.
 
