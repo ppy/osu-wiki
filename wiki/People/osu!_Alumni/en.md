@@ -16,7 +16,6 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | NAT |
 | ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) | NAT |
 | ::{ flag=US }:: [Agnes](https://osu.ppy.sh/users/136982) | GMT |
-| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | NAT |
 | ::{ flag=JP }:: [alacat](https://osu.ppy.sh/users/869782) | QAT |
 | ::{ flag=TW }:: [Alace](https://osu.ppy.sh/users/25993) | BAT |
 | ::{ flag=RU }:: [Aleks719](https://osu.ppy.sh/users/360176) | QAT |
@@ -135,6 +134,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ::{ flag=RU }:: [La Cataline](https://osu.ppy.sh/users/301279) | Chat Moderator |
 | ::{ flag=CA }:: [Lanturn](https://osu.ppy.sh/users/1446665) | QAT |
 | ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | QAT, NAT |
+| ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) | GMT |
 | ::{ flag=IT }:: [Leader](https://osu.ppy.sh/users/631530) | GMT |
 | ::{ flag=NL }:: [Leniane](https://osu.ppy.sh/users/7138602) | NAT |
 | ::{ flag=DO }:: [Lissette](https://osu.ppy.sh/users/19835) | BAT |
@@ -261,6 +261,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ::{ flag=CN }:: [xierbaliti](https://osu.ppy.sh/users/34044) | BAT |
 | ::{ flag=FR }:: [XPJ38](https://osu.ppy.sh/users/273531) | Support Team |
 | ::{ flag=SE }:: [Xytox](https://osu.ppy.sh/users/2229274) | GMT |
+| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | NAT |
 | ::{ flag=FR }:: [yaya](https://osu.ppy.sh/users/50163) | BAT |
 | ::{ flag=US }:: [yeahyeahyeahhh](https://osu.ppy.sh/users/58042) | MAT |
 | ::{ flag=AU }:: [YGOkid8](https://osu.ppy.sh/users/69114) | BAT |
