@@ -50,7 +50,7 @@
 
 ## 谱面
 
-*注意：在本节中，[osu!mania](/wiki/Game_mode/osu!mania) 中每个[键位数](osu!mania#common-terms)和[玩法](osu!mania#common-terms)都被视为是互相独立的游戏模式。*
+*注意：在本节中，[osu!mania](/wiki/Game_mode/osu!mania) 中每个[键位模式](osu!mania#常用术语)和[游玩方法](osu!mania#常用术语)都被视为是互相独立的游戏模式。*
 
 ### 规定
 
