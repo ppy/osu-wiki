@@ -111,7 +111,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 
 So you've decided you want to give lazer a shot? Great!
 
-You can find it for download [here](https://github.com/ppy/osu#running-osu). In the near future, you will be able to switch to lazer from stable (from the `Release stream` setting) and find the download link on the osu! website.
+You can find it for download [here](https://osu.ppy.sh/home/download). In the near future, you will be able to switch to lazer from stable (from the `Release stream` setting).
 
 ## FAQ
 
@@ -276,7 +276,7 @@ The same way you usually would.
 
 You're likely thinking of another game.
 
-### Notes
+## Notes
 
 [^wine]: Using Wine.
 [^compatibility-mode]: DirectX via compatibility mode.
