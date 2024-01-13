@@ -6,6 +6,8 @@ tags:
   - FO
   - mod
   - game modifier
+  - modificador de juego
+  - modificador del juego
 ---
 
 # Fade Out (mod)

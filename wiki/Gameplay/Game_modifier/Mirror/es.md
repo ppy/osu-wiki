@@ -4,6 +4,8 @@ tags:
   - mod
   - MR
   - game modifier
+  - modificador de juego
+  - modificador del juego
 ---
 
 # Mirror (mod)

@@ -13,6 +13,8 @@ tags:
   - 9K
   - mod
   - game modifier
+  - modificador de juego
+  - modificador del juego
 ---
 
 # xK (mod)

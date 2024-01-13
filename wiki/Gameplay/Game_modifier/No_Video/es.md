@@ -5,6 +5,8 @@ tags:
   - NV
   - mod
   - game modifier
+  - modificador de juego
+  - modificador del juego
 ---
 
 # No Video (mod)

@@ -5,6 +5,8 @@ tags:
   - SV2
   - mod
   - game modifier
+  - modificador de juego
+  - modificador del juego
 ---
 
 # ScoreV2 (mod)

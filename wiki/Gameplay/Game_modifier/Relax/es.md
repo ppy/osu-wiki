@@ -6,6 +6,8 @@ tags:
   - RX
   - mod
   - game modifier
+  - modificador de juego
+  - modificador del juego
 ---
 
 # Relax (mod)

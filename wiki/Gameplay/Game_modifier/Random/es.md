@@ -3,6 +3,10 @@ stub: true
 tags:
   - random
   - RD
+  - mod
+  - game modifier
+  - modificador de juego
+  - modificador del juego
 ---
 
 # Random (mod)

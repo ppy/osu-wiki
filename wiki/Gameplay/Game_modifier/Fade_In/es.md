@@ -6,6 +6,8 @@ tags:
   - FI
   - mod
   - game modifier
+  - modificador de juego
+  - modificador del juego
 ---
 
 # Fade In (mod)

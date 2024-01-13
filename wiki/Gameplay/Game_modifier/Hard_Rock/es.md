@@ -5,6 +5,8 @@ tags:
   - mod
   - game modifier
   - HR
+  - modificador de juego
+  - modificador del juego
 ---
 
 # Hard Rock (mod)

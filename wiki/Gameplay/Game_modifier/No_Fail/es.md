@@ -5,6 +5,8 @@ tags:
   - NF
   - mod
   - game modifier
+  - modificador de juego
+  - modificador del juego
 ---
 
 # No Fail (mod)

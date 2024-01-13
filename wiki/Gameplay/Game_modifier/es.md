@@ -8,10 +8,11 @@ tags:
   - No Mod
   - FreeMod
   - Free Mod
+  - modificador de juego
   - modificador del juego
   - visión general
   - lista de mods
-  - Mods libres
+  - mods libres
 ---
 
 # Modificador de juego
