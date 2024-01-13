@@ -147,7 +147,7 @@ En lazer, no golpear el slider head dará un juicio de fallo para el slider comp
 | Cambiado intencionalmente | Sí |
 | Necesita más consideración | No |
 
-### Los slider ends no ocasionan un hitsound al no recibir un golpe.
+### Los slider ends no ocasionan un hitsound al no recibir un golpe
 
 En stable, los slider ends reproducirían su respectivo hitsound aunque fueran omitidos, siempre y cuando cualquier parte de este fuera golpeada. Esto ha sido cambiado de tal manera que los hitsounds coinciden con las interacciones 1:1.
 
@@ -158,7 +158,7 @@ En stable, los slider ends reproducirían su respectivo hitsound aunque fueran o
 | Cambiado intencionalmente | Sí |
 | Necesita más consideración | No |
 
-### El límite de velocidad de 477 RPM en los giros del spinner ha sido removido.
+### El límite de velocidad de 477 RPM en los giros del spinner ha sido removido
 
 En lugar de un límite de velocidad, los spinners ahora tienen un límite de puntuación determinado por la cantidad total de rotaciones que pueden ser logradas al girar el spinner a ciertas RPM dependiendo del OD.
 
@@ -167,7 +167,7 @@ Esto significa que la puntuación máxima puede ser obtenida antes al girar más
 La cantidad de RPM requerida para obtener la máxima puntuación se muestra a continuación:
 
 | OD | RPM |
-| :-- | :--|
+| --: | --:|
 | 0 | 250 |
 | 5 | 380 |
 | 10 | 430 |
@@ -179,7 +179,7 @@ La cantidad de RPM requerida para obtener la máxima puntuación se muestra a co
 | Cambiado intencionalmente | Sí |
 | Necesita más consideración | Sí |
 
-### Los sliders glitcheados al estilo Aspire no son soportados.
+### Los sliders glitcheados al estilo Aspire no son soportados
 
 ![](img/aspire-slider.gif)
 
@@ -231,7 +231,7 @@ En stable, el centro del mod Flashlight está ligeramente desalineado hacia abaj
 
 ## osu!catch
 
-### La aparición del hyperdash puede ser diferente en algunos casos.
+### La aparición del hyperdash puede ser diferente en algunos casos
 
 Esto puede ocasionar juicios imprecisos en las repeticiones y un aumento en la dificultad.
 
