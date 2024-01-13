@@ -40,13 +40,6 @@ Each mode has its own required minimum for monthly activity.
 | osu!catch, osu!mania[^multi-key-mode] | 2 nominations |
 | Hybrid | 3 nominations, with at least 1 per proficient game mode |
 
-Probationary Beatmap Nominators are expected to meet different activity requirements in order to better showcase their capabilities to the NAT, and if they fail to do so in their first month of probation, their probation will automatically be extended by another month in order to allow them to meet said requirements.
-
-| Game mode | Requirement |
-| :-- | :-- |
-| osu, osu!taiko | 6 nominations |
-| osu!catch, osu!mania[^multi-key-mode] | 4 nominations |
-
 ## Nomination
 
 - **Do not nominate beatmaps with unrankable issues.** The [General Ranking Criteria](/wiki/Ranking_criteria) and additionally all mode-specific Ranking Criteria apply to all sets with mode-specific difficulties.

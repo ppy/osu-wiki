@@ -11,12 +11,12 @@ no_native_review: true
 | Mod | 名稱 (縮寫) | 加成 | 註解 |
 | :-- | :-- | :-- | :-- |
 | ![Easy](/wiki/shared/mods/EZ.png) | Easy (EZ) | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 0.50x | • ![][o!s]: `降低整體難度 - 打擊圓圈變大、掉血速度變慢、判定較為寬鬆。` • ![][o!t]: `降低整體難度 - 音符移動速度變慢, 判定較為寬鬆。` • ![][o!c]: `降低整體難度 - 水果變大、扣血程度減少、判定較為寬鬆。` • ![][o!m]: `降低整體難度 - 扣血程度減少、判定較為寬鬆。` |
-| ![No Fail](/wiki/shared/mods/NF.png) | No Fail (NF) | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 0.50x  | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: `不論如何，你都不會失敗。` |
+| ![No Fail](/wiki/shared/mods/NF.png) | No Fail (NF) | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 0.50x | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: `不論如何，你都不會失敗。` |
 | ![Half Time](/wiki/shared/mods/HT.png) | Half Time (HT) | • ![][o!s] ![][o!t] ![][o!c]: 0.30x • ![][o!m]: 0.50x | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: `減速...` |
 | ![Hard Rock](/wiki/shared/mods/HR.png) | Hard Rock (HR) | • ![][o!s]: 1.12x ![][o!t]: 1.06x • ![][o!c]: 1.12x • ![][o!m]: 1.00x | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: `一切都變得更難了...` |
-| ![Sudden Death](/wiki/shared/mods/SD.png) | Sudden Death (SD) | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 1.00x | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: `Miss 就失敗。`  |
+| ![Sudden Death](/wiki/shared/mods/SD.png) | Sudden Death (SD) | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 1.00x | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: `Miss 就失敗。` |
 | ![Perfect](/wiki/shared/mods/PF.png) | Perfect (PF) | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 1.00x | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: `一失足成千古恨。` |
-| ![Double Time](/wiki/shared/mods/DT.png) | Double Time (DT) | • ![][o!s]: 1.06x • ![][o!t]: 1.12x ![][o!c]: 1.06x • ![][o!m]: 1.00x | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: `加~~~~速`  |
+| ![Double Time](/wiki/shared/mods/DT.png) | Double Time (DT) | • ![][o!s]: 1.06x • ![][o!t]: 1.12x ![][o!c]: 1.06x • ![][o!m]: 1.00x | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: `加~~~~速` |
 | ![Nightcore](/wiki/shared/mods/NC.png) | Nightcore (NC) | • ![][o!s]: 1.06x • ![][o!t]: 1.12x ![][o!c]: 1.06x • ![][o!m]: 1.00x | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: `嗨起來！` |
 | ![Hidden](/wiki/shared/mods/HD.png) | Hidden (HD) | • ![][o!s] ![][o!t] ![][o!c]: 1.06x • ![][o!m]: 1.00x | • ![][o!s]: `沒有縮小圓圈、且圓圈會逐漸隱形。提供分數加成。` • ![][o!t]: `物件將漸漸隱形。` • ![][o!c] `水果將逐漸隱形。提供分數加成。` • ![][o!m]: `物件將漸漸隱形。` |
 | ![Fade In](/wiki/shared/mods/FI.png) | Fade In (FI) | • ![][o!m]: 1.00x |  |
