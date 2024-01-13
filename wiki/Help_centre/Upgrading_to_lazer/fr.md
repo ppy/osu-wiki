@@ -1,256 +1,272 @@
 ---
-tags:
-  - game client
-  - client du jeu
-outdated_translation: true
-outdated_since: 5962c747c6ae6bbebaf310c152dc7c73d4183f0a
+no_native_review: true
 ---
 
 # Mise à jour vers lazer
 
-*Note : Nous sommes encore en train d'étudier l'équilibre et les mécanismes du jeu. Pour l'instant, **les scores obtenus avec lazer ne doivent pas être considérés comme permanents**.*
+*Remarque : Nous sommes encore en train de réfléchir à l'équilibre et aux mécanismes du jeu. Pour l'instant, **les scores obtenus sur lazer ne doivent pas être considérés comme permanents**.*
 
 osu!(lazer) est la prochaine mise à jour majeure du jeu. C'est l'aboutissement de plusieurs années de travail en coulisses pour réimplémenter minutieusement le jeu.
 
-L'objectif final est que cette version soit publiée comme une mise à jour qui remplacera complètement la version stable existante du jeu, mais il y a encore du travail à faire avant que cela ne soit réalisable. En fin de compte, **les joueurs** décideront du moment où cela se produira et nous continuerons à prendre en charge la version précédente jusqu'à ce que tous les utilisateurs aient migré.
+L'objectif final est que cette version soit publiée comme une mise à jour qui remplacera complètement la version stable existante du jeu, mais il y a encore du travail à faire avant que cela ne soit réalisable. En fin de compte, **les joueurs** dicteront le moment où cela se produira et nous continuerons à supporter la version précédente jusqu'à ce que les utilisateurs aient migré.
 
-"lazer" est un nom de code et sera éventuellement abandonné lorsqu'il deviendra la version principale du jeu. Dans le reste de ce document, osu!(lazer) sera appelé "lazer" et osu!(stable) sera appelé "stable" pour plus de simplicité.
+"lazer" est un nom de code qui sera abandonné au fur et à mesure qu'il deviendra la version principale du jeu. Dans le reste de ce document, osu!(lazer) sera appelé "lazer" et osu!(stable) sera appelé "stable" pour plus de simplicité.
 
-## Comparaison des fonctionnalités
+## Comparaison des caractéristiques
 
-Ce qui suit est une liste complète de l'**état actuel** de lazer par rapport à stable. Notez qu'il n'est pas définitif — l'objectif final est d'implémenter toutes les fonctionnalités qui intéressent les joueurs au fil du temps.
+*Pour une liste des différences concernant les mécanismes de jeu, voir [Différences de gameplay dans osu!(lazer)](/wiki/Client/Release_stream/Lazer/Gameplay_differences_in_osu!(lazer)).*
+
+Ce qui suit est une liste complète de **l'état actuel** de lazer par rapport à stable. Notez qu'il s'agit d'une cible mouvante - l'objectif final est d'implémenter toutes les fonctionnalités qui intéressent les joueurs au fil du temps.
 
 ### Compatibilité et performance
 
 | Fonctionnalité | stable | lazer |
 | :-- | :-- | :-- |
-| Windows 8.0 et moins | ![Oui][true] | ![Non][false] |
-| macOS / Linux | ![Partiellement][partial][^wine] | ![Oui][true] |
-| DirectX / Vulkan | ![Partiellement][partial][^compatibility-mode] | ![Non][false][^coming-soon] |
-| Support mobile | ![Non][false] | ![Oui][true] |
-| Architecture multithread | ![Non][false] | ![Oui][true] |
-| Accélération matérielle sur les vidéos | ![Non][false] | ![Oui][true] |
-| Mise à l'échelle de l'UI | ![Non][false] | ![Oui][true] |
-| Règles personnalisées (modes de jeu) | ![Non][false] | ![Partiellement][partial][^dll] |
-| Stockage des fichiers déduits | ![Non][false] | ![Oui][true][^share-files] |
-| Ajustement de la surface de la tablette | ![Non][false] | ![Oui][true] |
+| Windows 8.0 et versions inférieures | ![Oui][vrai] | ![Non][faux] |
+| macOS / Linux | ![Partiellement][partiel][^wine] | ![Oui][vrai] |
+| DirectX / Metal | ![Partiellement][partiel][^mode-de-compatibilité] | ![Oui][vrai] |
+| Support mobile | ![Non][faux] | ![Oui][vrai] |
+| Architecture multithread | ![Non][faux] | ![Oui][vrai] |
+| Vidéo accélérée par le matériel | ![Non][faux] | ![Oui][vrai] |
+| Mise à l'échelle de l'interface utilisateur | ![Non][faux] | ![Oui][vrai] |
+| Règles personnalisées (modes de jeu) | ![Non][faux] | ![Partiellement][partiel][^dll] |
+| Stockage de fichiers dédupliqués | ![Non][faux] | ![Oui][vrai][^partage-fichiers] |
+| Réglage de la surface de la tablette | ![Non][faux] | ![Oui][vrai] |
+| Prise en charge de nombreux formats d'image | ![Non][faux] | ![Oui][vrai] |
 
-### UI et skinning
-
-| Fonctionnalité | stable | lazer |
-| :-- | :-- | :-- |
-| Support de skin | ![Oui][true] | ![Partiellement][partial][^gameplay-only] |
-| Modes de regroupement par musique | ![Oui][true] | ![Non][false] |
-| Skin en jeu / Modification de la mise en page de l'UI | ![Non][false] | ![Oui][true] |
-
-### Gameplay et skinning
+### Interface utilisateur et skin
 
 | Fonctionnalité | stable | lazer |
 | :-- | :-- | :-- |
-| Affichage précis des points de performance | ![Partiellement][partial][^online] | ![Oui][true] |
-| Ajustement de la difficulté des mods | ![Non][false] | ![Oui][true][^difficulty-adjust] |
-| Préréglages de mods | ![Non][false] | ![Oui][true] |
-| Paramètres par mod | ![Non][false] | ![Oui][true] |
-| Nouveaux mods "amusants" | ![Non][false] | ![Oui][true] |
-| Normalisation des combo colors[^normalisation] | ![Non][false] | ![Oui][true] |
-| Maintenir pour le HUD | ![Non][false] | ![Oui][true][^hold-for-hud] |
-| Calibrage de l'offset | ![Partiellement][partial][^offset-calibration-stable] | ![Oui][true][^offset-calibration-lazer] |
-| Faire "serpenter" les sliders osu! en les maintenant | ![Non][false] | ![Oui][true][^can-disable] |
-| "Note lock" osu! favorable aux joueurs | ![Non][false] | ![Oui][true][^note-lock] |
-| Colorisation des notes en fonction du timing sur osu!mania | ![Non][false] | ![Oui][true] |
+| Support du skin | ![Oui][vrai] | ![Partiellement][partiel][^gameplay-uniquement] |
+| Modes de regroupement de la sélection de musiques | ![Oui][vrai] | ![Non][faux] |
+| Edition du skin /de l'interface utilisateur en jeu | ![Non][faux] | ![Oui][vrai] |
+| Composants du skin dynamiques et personnalisables | ![Non][faux] | ![Oui][vrai] |
+
+### Interface
+
+| Fonctionnalité | stable | lazer |
+| :-- | :-- | :-- |
+| Storyboards dans le menu principal | ![Non][faux] | ![Oui][vrai][^supporter] |
+| Cacher les difficultés | ![Non][faux] | ![Oui][vrai] |
+| Assistant de configuration à la première exécution | ![Non][faux] | ![Oui][vrai] |
+| Suppression progressive | ![Non][faux] | ![Oui][vrai][^suppression-progressive] |
+| Changements de paramètres immédiats pendant le jeu | ![Non][faux] | ![Oui][vrai] |
+
+### Gameplay
+
+| Fonctionnalité | stable | lazer |
+| :-- | :-- | :-- |
+| Affichage précis des points de performance | ![Partiellement][partiel][^en-ligne] | ![Oui][vrai] |
+| Ajustement des difficultés | ![Non][faux] | ![Oui][vrai][^ajustement-difficulté] |
+| Présélections des mods | ![Non][faux] | ![Oui][vrai] |
+| Paramètres par mods | ![Non][faux] | ![Oui][vrai] |
+| Nouveaux mods fun | ![Non][faux] | ![Oui][vrai] |
+| Normalisation des couleurs de combo[^normalisation] | ![Non][faux] | ![Oui][vrai] |
+| Hold pour l'HUD | ![Non][faux] | ![Oui][vrai][^hold-pour-hud] |
+| Calibrage du décalage par beatmap | ![Partiellement][partiel][^calibration-décalage-stable] | ![Oui][vrai][^calibration-décalage-lazer] |
+| les sliders d'osu! "serpentent" lorsqu'on les fait glisser | ![Non][faux] | ![Oui][vrai][^désactivation-possible] |
+| "note lock" d'osu! favorable aux joueurs | ![Non][faux] | ![Oui][vrai][^note-lock] |
+| osu!mania et osu! couleur de notes basé sur le timing | ![Non][faux] | ![Oui][vrai] |
+| Recherche de replays | ![Non][faux] | ![Oui][vrai] |
+| Style de défilement [Niconico](https://fr.wikipedia.org/wiki/Niconico) des commentaires des replays | ![Oui][vrai] | ![Non][faux] |
 
 ### Systèmes en ligne
 
 | Fonctionnalité | stable | lazer |
 | :-- | :-- | :-- |
-| Soumission des scores | ![Oui][true] | ![Partiellement][partial][^score-reset-balance] |
-| Tableaux de classement de beatmap | ![Oui][true] | ![Partiellement][partial][^score-reset-isolated] |
-| Statistiques du profil | ![Oui][true] | ![Oui][true] |
-| Médailles | ![Oui][true] | ![Non][false] |
-| Points de performance | ![Oui][true] | ![Partiellement][partial][^score-reset-isolated] |
-| Tchat en temps réel | ![Partiellement][partial][^stable-chat] | ![Oui][true] |
-| Wiki / News / Changelog / Classements | ![Non][false] | ![Oui][true][^online-content] |
-| Profils des utilisateurs | ![Non][false] | ![Oui][true] |
-| Liste de beatmaps | ![Partiellement][partial][^direct-supporter] | ![Oui][true] |
-| Taille illimitée des salles multijoueurs | ![Non][false][^multi-room-max] | ![Oui][true] |
-| Mode spectateur en multijoueur | ![Non][false] | ![Oui][true] |
-| Comptes à rebours | ![Partiellement][partial][^countdown-timers-stable] | ![Oui][true][^countdown-timers-lazer] |
-| File d'attente par modes | ![Non][false] | ![Oui][true][^queue-modes] |
-| Commandes multijoueurs | ![Oui][true] | ![Non][false] |
-| Tag co-op | ![Oui][true] | ![Non][false] |
-| Playlists (classements établis par les utilisateurs) | ![Non][false] | ![Oui][true] |
-| Mise à jour des beatmaps avec les changements en ligne | ![Partiellement][partial][^map-only] | ![Oui][true][^all-files] |
+| Soumission du score | ![Oui][vrai] | ![Partiellement][partiel][^score-reset-balance] |
+| Classements des beatmap | ![Oui][vrai] | ![Partiellement][partiel][^score-reset-isolé] |
+| Statistiques du profil | ![Oui][vrai] | ![Oui][vrai] |
+| Médailles | ![Oui][vrai] | ![Non][faux] |
+| Points de performance | ![Oui][vrai] | ![Partiellement][partiel][^score-reset-isolé] |
+| Tchat en temps réel | ![Partiellement][partiel][^tchat-stable] | ![Oui][vrai] |
+| Wiki/news/changelog/classements | ![Non][faux] | ![Oui][vrai][^contenu-en-ligne] |
+| Profils d'utilisateurs | ![Non][faux] | ![Oui][vrai] |
+| Liste des beatmap | ![Partiellement][partiel][^direct-supporter] | ![Oui][vrai] |
+| Taille illimitée des salons multijoueurs | ![Non][faux][^multi-salle-max] | ![Oui][vrai] |
+| Spectateurs en multijoueur | ![Non][faux] | ![Oui][vrai] |
+| Comptes à rebours | ![Partiellement][partiel][^compte-à-rebours-stable] | ![Oui][vrai][^compte-à-rebours-lazer] |
+| Modes de file d'attente | ![Non][faux] | ![Oui][vrai][^modes-fille-attente] |
+| Commandes multijoueurs | ![Oui][vrai] | ![Non][faux] |
+| Tag co-op | ![Oui][vrai] | ![Non][faux] |
+| Playlists (classements établis par l'utilisateur) | ![Non][faux] | ![Oui][vrai] |
+| Mise à jour des beatmaps avec les modifications en ligne | ![Partiellement][partiel][^maps-uniquement] | ![Oui][vrai][^tous-les-fichiers] |
 
 ### Éditeur
 
 | Fonctionnalité | stable | lazer |
 | :-- | :-- | :-- |
-| Éditeur osu!taiko | ![Non][false] | ![Oui][true] |
-| Éditeur osu!catch | ![Non][false] | ![Oui][true] |
-| Éditeur osu!mania | ![Oui][true] | ![Oui][true] |
-| Difficulté ouverte comme référence | ![Oui][true] | ![Non][false] |
-| SV / volume par objet | ![Non][false] | ![Oui][true] |
-| Rotation de pattern | ![Oui][true] | ![Partiellement][partial][^editor-precise-rotation] |
-| Redimensionnement de pattern | ![Non][false] | ![Oui][true] |
-| Soumission de beatmap | ![Oui][true] | ![Non][false] |
-| Éditeur de storyboard | ![Oui][true] | ![Non][false] |
-| Compatibilité avec les autres clients | ![Oui][true] | ![Partiellement][partial][^incompatibilities] |
+| Éditeur osu! | ![Oui][vrai] | ![Oui][vrai] |
+| Éditeur osu!taiko | ![Non][faux] | ![Oui][vrai] |
+| Éditeur osu!catch | ![Non][faux] | ![Oui][vrai] |
+| Éditeur osu!mania | ![Oui][vrai] | ![Oui][vrai] |
+| Ouvrir les difficultés comme référence | ![Oui][vrai] | ![Non][faux] |
+| SV par objet/volume | ![Non][faux] | ![Oui][vrai] |
+| Types de courbes sliders par segment | ![Non][faux] | ![Oui][vrai] |
+| Séparation et fusion des sliders | ![Non][faux] | ![Oui][vrai] |
+| Rotation du pattern | ![Oui][vrai] | ![Partiellement][partiel][^éditeur-rotation-précise] |
+| Redimensionnement du pattern | ![Non][faux] | ![Oui][vrai] |
+| Soumission des beatmaps | ![Oui][vrai] | ![Non][faux] |
+| Éditeur de storyboard | ![Oui][vrai] | ![Non][faux] |
+| Compatibilité croisée | ![Oui][vrai] | ![Partiellement][partiel][^incompatibilités] |
 
-## Changer pour lazer
+## Passage à lazer
 
-Vous avez donc décidé d'essayer lazer ? Super !
+Vous avez décidé d'essayer lazer ? Superbe !
 
-Vous pouvez le trouver en téléchargement [ici](https://github.com/ppy/osu#running-osu). Dans un futur proche, vous pourrez passer à lazer depuis stable (depuis le paramètre `Canal de mise à jour`) et trouver le lien de téléchargement sur le site d'osu!.
+Vous pouvez le télécharger [ici](https://osu.ppy.sh/home/download). Dans un futur proche, vous pourrez passer à lazer à partir de stable (dans le paramètre `Release stream`).
 
 ## FAQ
 
 ### Migration
 
-#### Stable va-t-il disparaître ? Vais-je être obligé de changer ?
+#### Le système stable est-il en train de disparaître ? Vais-je être contraint de changer ?
 
-Stable continuera d'être maintenu tant que les joueurs l'utiliseront. Il sera au minimum maintenu pendant plusieurs années.
+Stable continuera d'être maintenu tant que les utilisateurs l'utiliseront. Au minimum, il sera maintenu pendant plusieurs années.
 
 #### Puis-je importer toutes mes données de stable à lazer ?
 
-Actuellement, les beatmaps, skins, scores, replays et collections peuvent être importés dans lazer. A noter que les **réglages ne sont pas encore importés**, vous devrez donc les configurer en repartant de zéro.
+Actuellement, les beatmaps, les skins, les scores, les replays et les collections peuvent être importés dans lazer. A noter que **les paramètres ne sont pas encore importés**, vous devrez donc les configurer à partir de zéro.
 
-#### Si j'importe mes beatmaps dans lazer, cela utilisera-t-il deux fois plus d'espace disque ?
+#### Si j'importe mes beatmaps dans lazer, l'espace disque sera-t-il doublé ?
 
 Si vous avez lazer et stable sur le même disque, les [hard links](/wiki/Client/Release_stream/Lazer/File_storage#par-des-liens-physiques) sont utilisés pour éviter d'utiliser de l'espace disque supplémentaire.
 
-Dans tous les autres cas, l'importation de beatmaps utilisera deux fois plus d'espace disque.
+Dans tous les autres cas, l'importation de beatmaps utilisera le double de l'espace disque.
 
-#### Si je supprime lazer, cela va-t-il casser mon installation stable ?
-
-Non.
-
-#### Si je supprime stable, cela va-t-il casser le contenu de lazer qui a été importé de stable ?
+#### Si je supprime lazer, cela va-t-il perturber mon installation stable ?
 
 Non.
 
-#### Si j'installe lazer, est-ce que je pourrai revenir à stable ?
+#### Si je supprime stable, le contenu importé de stable dans lazer sera-t-il supprimé ?
 
-Oui, lazer s'installe toujours à côté de stable. À moins que vous ne choisissiez de supprimer l'un ou l'autre, les deux seront accessibles.
+Non.
+
+#### Si j'installe lazer, pourrai-je revenir à stable ?
+
+Oui, lazer s'installe toujours en même temps que stable. À moins que vous ne choisissiez de supprimer l'un ou l'autre, les deux seront accessibles.
 
 #### Puis-je importer des données de lazer vers stable ?
 
-Non. Cela ne sera pas pris en charge.
+Non. Cette mesure ne sera pas soutenue.
 
-Cela dit, les scores individuels et les beatmaps peuvent être exportés de lazer et importés manuellement dans stable pour le moment.
+Cela dit, les scores individuels et les beatmaps peuvent être exportés de lazer et importés manuellement dans stable pour l'instant.
 
-### Gameplay et scoring
+### Gameplay et score
 
-#### Si je réalise un score sur lazer, apparaîtra-t-il sur mon profil ?
+#### Si j'établis un score sur lazer, celui-ci apparaîtra-t-il sur mon profil ?
 
-Les scores apparaîtront sous la section "récemment joué" mais pas encore dans vos "meilleures performances".
+Les scores apparaîtront dans la rubrique "récemment joués" mais pas encore dans la rubrique "meilleures performances".
 
-#### Si je réalise un score sur lazer, cela donnera-t-il des points de performance ?
+#### Si je définis un score sur lazer, cela donnera-t-il des points de performance ?
 
-Les points de performance seront déjà calculés (vous pouvez le voir dans la section "récemment joué" de votre profil), mais ils ne contribueront pas encore à la valeur totale.
+La section "récemment joué" des pages de profil montre les scores définis dans lazer avec les points de performance calculés, et le montant total peut être vu en survolant le total des points de performance réguliers.
 
-#### Est-ce que lazer utilise ScoreV2 ?
+En outre, [lazer.ppy.sh](https://lazer.ppy.sh/home), une instance expérimentale du site web d'osu!, affiche tous les totaux et les classements avec les scores de lazer pris en compte.
 
-Lazer utilise actuellement une nouvelle implémentation expérimentale du score qui est similaire à ScoreV2, mais pas la même. Elle est encore en cours de développement et nous cherchons à obtenir des retours sur la façon dont elle est perçue dans différents contextes (jeu solo, classements, tournois, etc.)
+#### Lazer utilise-t-il ScoreV2 ?
 
-<!-- lint ignore no-heading-punctuation -->
+Oui, il utilise un système de notation basé sur celui-ci avec quelques ajustements. Les scores ScoreV1 seront convertis dans un futur proche.
 
-#### Je préfère l'affichage classique des scores, lorsqu'ils deviennent très grands.
+#### Je préfère l'affichage classique des scores, où les scores deviennent vraiment importants
 
 Vous pouvez en fait changer le paramètre `Mode d'affichage des scores` en `Classique` pour retrouver le style explosif des scores dans tout le jeu ! Ce ne sera pas une correspondance parfaite, mais cela vous donnera la même sensation de score classique et sera appliqué partout où vous l'attendez.
 
-#### Si je réalise un score sur lazer, est-ce qu'il restera à jamais ?
+#### Si je fixe un score sur lazer, restera-t-il pour toujours ?
 
-Bien que nous essayions de préserver autant de scores que possible, nous **ne garantissons pas que les scores seront conservés indéfiniment**. À tout moment, nous pouvons décider d'effacer un sous-ensemble ou tous les scores afin de préserver l'équilibre du jeu.
+Bien que nous essayions de préserver le plus grand nombre de scores possible, nous **ne garantissons pas que les scores resteront indéfiniment**. À tout moment, nous pouvons décider d'effacer un sous-ensemble ou tous les scores afin de préserver l'équilibre du jeu.
 
-#### Les scores réalisés sur stable apparaîtront-ils éventuellement dans lazer ?
+#### Les scores définis sur stable seront-ils éventuellement affichés dans lazer ?
 
 Oui. Une fois que nous aurons fini d'équilibrer la combinaison des scores lazer et stable, les deux seront visibles.
 
 #### Tous les mods seront-ils classés ?
 
-Pour l'instant, les scores de toutes les combinaisons de mods apparaissent sur les classements. La question de savoir si les scores donneront des points de performance avec tous les mods (et si oui, s'il y aura un bonus ou une pénalité) est encore en discussion.
+Pour l'instant, les scores de toutes les combinaisons de mods apparaissent dans les classements. La question de savoir si les scores donneront des points de performance avec tous les mods (et si c'est le cas, si un bonus ou un malus sera appliqué) est encore en discussion.
 
-#### Je n'aime pas les nouveaux mécanismes de jeu. Puis-je rétablir les anciens mécanismes de jeu comme sur la version stable ?
+#### Je n'aime pas les nouveaux mécanismes de jeu. Est-ce que je peux restaurer les anciens mécanismes de jeu comme sur stable ?
 
-Essayez d'appliquer le mod "classic", qui rétablira une grande partie de l'ancien comportement auquel vous êtes habitué. N'oubliez pas non plus de consulter les paramètres proposés par le mod "classic", car ils vous permettront de personnaliser davantage votre expérience et de comprendre quels changements sont appliqués (car ils y sont tous répertoriés).
+Essayez d'appliquer le mod "Classic", qui rétablira une grande partie du comportement auquel vous êtes habitué. Veillez également à vérifier les paramètres proposés par le mod "Classic", car ils vous permettront de personnaliser davantage votre expérience et de comprendre quels changements sont appliqués (car ils sont tous répertoriés à cet endroit).
 
 ### Skinning et UI
 
-#### Quelque chose se comporte différemment de stable et je n'aime pas ça !
+#### Quelque chose se comporte différemment par rapport à stable et je n'aime pas ça !
 
-Exécutez l'assistant de configuration en haut des paramètres et passez en revue les paramètres sur l'écran de `Comportement`. Un grand nombre de paramètres courants dont les valeurs par défaut ont été modifiées sont répertoriés ici. Il y a aussi un bouton unique sur lequel vous pouvez appuyer pour appliquer les anciens comportements comme point de départ de votre voyage sur lazer.
+Veuillez lancer l'assistant d'installation en haut de la page des réglages et parcourir les réglages de l'écran `Comportement`. Un grand nombre de paramètres courants dont les valeurs par défaut ont été modifiées sont listés ici. Il y a également un bouton unique sur lequel vous pouvez appuyer pour appliquer les anciens comportements comme point de départ de votre voyage dans lazer.
 
-#### Les anciens skins vont-ils finir par fonctionner dans les écrans de sélection des beatmaps et des résultats ?
+#### Les anciens skins fonctionneront-ils éventuellement dans les écrans de sélection des musiques et de résultats ?
 
-Nous ferons de notre mieux pour ramener autant de choses que possible sans bloquer les nouvelles fonctionnalités. Cela viendra plus tard.
+Nous ferons de notre mieux pour rétablir autant de choses que possible sans bloquer les nouvelles fonctionnalités. Cela viendra plus tard.
 
-#### Puis-je utiliser le curseur de mon skin dans les menus également ?
+#### Puis-je utiliser mon skin de curseur  dans les menus également ?
 
-Nous allons probablement rétablir cette fonctionnalité à l'avenir en raison de la demande populaire.
+Il est probable que nous rétablissions ce support à l'avenir en raison de la demande populaire.
 
 ### Performance
 
-#### Pourquoi ne puis-je pas jouer avec un nombre illimité de FPS ?
+#### Pourquoi ne puis-je pas utiliser un nombre illimité d'images par seconde ?
 
-Au-delà d'un certain seuil, il n'y a aucune raison de fonctionner à des fréquences d'images plus élevées. Lazer utilise diverses nouvelles technologies pour s'assurer que la latence la plus faible possible soit atteinte sans nécessiter des fréquences d'images élevées. Cela continuera à s'améliorer à l'avenir, car il nous reste encore quelques améliorations à mettre en œuvre.
+Au-delà d'un certain seuil, il n'y a aucune raison d'utiliser des fréquences d'images plus élevées. Lazer utilise plusieurs nouvelles technologies pour s'assurer que la latence la plus faible est réalisable sans nécessiter des fréquences d'images élevées. Cela continuera à s'améliorer à l'avenir, car il nous reste encore quelques améliorations à mettre en œuvre.
 
-Lazer prend en compte l'entrée à 1 000 Hz indépendamment du limiteur de FPS, c'est pourquoi le réglage maximal du limiteur s'arrêtera également à 1 000 FPS.
+Lazer demande une entrée à 1 000 Hz indépendamment du limiteur de FPS, c'est pourquoi le réglage maximum du limiteur sera également limité à 1 000 FPS.
 
-Si vous êtes curieux de savoir comment cela affecte la latence d'entrée et de tester votre propre perception, veuillez exécuter le "certificateur de latence" intégré en bas des paramètres.
+Si vous êtes curieux de savoir comment cela affecte la latence d'entrée et de tester votre propre perception, lancez le "latency certifier" intégré au bas des paramètres.
 
-Vous pouvez également [lire ce document technique](https://github.com/ppy/osu/wiki/Latency-and-unlimited-frame-rates) qui explique la voie que nous empruntons et le raisonnement qu'elle implique.
+Vous pouvez également [lire ce document technique](https://github.com/ppy/osu/wiki/Latency-and-unlimited-frame-rates) qui explique la voie que nous suivons et les raisons qui la justifient.
 
-#### Si l'entrée n'est prise en compte qu'à 1000 Hz, qu'en est-il de ma souris gaming à 8000 Hz ?
+#### Si l'entrée n'est sollicitée qu'à 1 000 Hz, qu'en est-il de ma souris de jeu à 8 000 Hz ?
 
-Le système d'exploitation continuera à prendre en compte à un taux plus élevé, bien que les avantages s'avèrent être négligeables. Le rafraîchissement à des taux aussi élevés peut avoir des surcharges imprévues, et nous recommandons de limiter les périphériques à 1 000 Hz pour la stabilité du système.
+Le système d'exploitation continuera à interroger à la fréquence la plus élevée, bien que les avantages se soient avérés négligeables. L'interrogation à des fréquences aussi élevées peut avoir des conséquences imprévues, et nous recommandons de limiter les périphériques à 1 000 Hz pour assurer la stabilité du système.
 
-#### Lazer se comporte moins bien que stable pour moi. Que se passe-t-il ?
+#### Pour moi, Lazer est moins performant que stable. Qu'est-ce qui se passe ?
 
-Bien que lazer soit plus performant que stable sur la plupart des matériels modernes, il existe toujours des cas particuliers lorsque chaque utilisateur a une configuration matérielle différente. Dans notre feuille de route à court terme, nous cherchons à prendre en charge DirectX (alias "mode de compatibilité" sur stable) et Vulkan, qui ont tous deux un meilleur support des pilotes qu'OpenGL sur tout le matériel. Une fois que cela sera mis en œuvre, les performances sur du matériel comme les chipsets intégrés d'Intel seront grandement améliorées.
+Alors que sur la plupart des matériels modernes, nous voyons lazer surpasser stable, il y a toujours des cas limites lorsque chaque utilisateur a une configuration matérielle différente. Dans notre feuille de route à court terme, nous cherchons à prendre en charge DirectX (alias "mode de compatibilité" sur stable) et Vulkan, qui ont tous deux un meilleur support de pilote qu'OpenGL sur tout le matériel. Une fois que cela sera mis en œuvre, les performances sur le matériel comme les chipsets intégrés Intel s'amélioreront considérablement.
 
-### Faire un retour
+### Fournir un feedback
 
-#### Une fonctionnalité dont je dépends a disparu ! / Quelque chose a changé et je n'aime pas ça. / J'ai trouvé un bug, quelle est la meilleure façon de le signaler ?
+#### Une fonctionnalité dont je suis tributaire a disparu ! / Quelque chose a changé et je ne l'aime pas. / J'ai trouvé un bug, quelle est la meilleure façon de le signaler ?
 
-Il y a de fortes chances que nous soyons déjà au courant de ce problème et que nous le suivions pour une implémentation future ! Veuillez effectuer une recherche dans le [gestionnaire de problèmes](https://github.com/ppy/osu/issues) et la [page de discussions](https://github.com/ppy/osu/discussions). Si vous ne trouvez aucun fil de discussion correspondant, n'hésitez pas à [ouvrir une discussion](https://github.com/ppy/osu/discussions/new).
+Il y a de fortes chances que nous soyons déjà au courant de ce problème et que nous le suivions en vue d'une future mise en œuvre ! Veuillez consulter le [suivi des problèmes](https://github.com/ppy/osu/issues) et la [page des discussions](https://github.com/ppy/osu/discussions). Si vous ne trouvez aucun fil de discussion correspondant, n'hésitez pas à [ouvrir une discussion](https://github.com/ppy/osu/discussions/new).
 
-Notez que nous suivons déjà plus de 1 000 problèmes de priorités diverses, et qu'il peut nous falloir un certain temps pour résoudre les problèmes qui n'affectent qu'un petit nombre d'utilisateurs.
+Veuillez noter que nous suivons déjà plus de 1 000 problèmes de priorités diverses, et qu'il nous faudra peut-être un certain temps pour résoudre les problèmes qui n'affectent qu'un petit nombre d'utilisateurs.
 
-### Autre
+### Autres
 
 #### Pourquoi l'appelle-t-on "lazer" ?
 
-Qu'est-ce qui est plus tranchant qu'un bord coupant ? Un laser ! Il s'agit d'un jeu de mots avec la version expérimentale du client stable qui s'appelle cutting-edge (bord coupant).
+Qu'y a-t-il de plus pointu que cutting-edge ?
 
-#### Pourquoi prend-il autant de temps pour devenir la version "principale" ?
+#### Pourquoi cela prend-il tant de temps pour devenir la version "principale" ?
 
-Bien qu'osu! puisse sembler être un jeu simple, il existe des centaines et des centaines de fonctionnalités et de systèmes que les utilisateurs ont appris à connaître. Selon la personne à qui vous demandez, lazer peut être dans un état entièrement jouable depuis des années maintenant, ou il peut manquer d'innombrables fonctionnalités.
+Bien qu'osu! puisse sembler être un jeu simple, il y a des centaines et des centaines de fonctionnalités et de systèmes sur lesquels les utilisateurs se sont appuyés. Selon la personne à qui l'on s'adresse, lazer peut être entièrement jouable depuis des années, ou bien il peut lui manquer d'innombrables fonctionnalités.
 
-Un autre domaine qui a demandé beaucoup d'efforts est la préservation de l'histoire — s'assurer que les beatmaps se comportent exactement comme elles le devraient, y compris les cas particuliers qui n'étaient pas prévus à l'origine. osu! est un écosystème dynamique et les utilisateurs ont pris la liberté d'étendre le jeu bien au-delà de ce qui était prévu, et nous essayons de faire de notre mieux pour accueillir et soutenir cela à l'avenir.
+Un autre domaine qui a demandé énormément d'efforts est la préservation historique - s'assurer que les beatmaps se comportent exactement comme elles le devraient, y compris les cas de figure qui n'étaient pas prévus à l'origine. osu! est un écosystème dynamique et les utilisateurs ont pris la liberté d'étendre le jeu bien au-delà de ce qui était prévu, et nous essayons de faire de notre mieux pour embrasser et soutenir cela à l'avenir.
 
-Enfin, contrairement à la dernière itération, nous consacrons du temps et de la diligence pour nous assurer que la base de code nous servira à l'avenir. Nous avons fait le travail de base pour permettre aux nouvelles fonctionnalités d'être mises en ligne à une vitesse fulgurante à l'avenir. Il s'agira notamment de nouveaux composants d'UI, de nouvelles façons de personnaliser le jeu, de nouveaux systèmes multijoueurs, sans oublier la possibilité de charger et de jouer toutes vos beatmaps existantes dans des modes de jeu entièrement nouveaux (a.k.a. les rulesets) !
+Enfin, contrairement à la dernière itération, nous consacrons le temps et la diligence nécessaires pour nous assurer que la base de code nous servira bien à l'avenir. Nous avons préparé le terrain pour que les nouvelles fonctionnalités puissent être mises en ligne à une vitesse fulgurante. Cela inclura de nouveaux composants d'interface, de nouvelles façons d'habiller le jeu, de nouveaux systèmes multijoueurs et n'oublions pas la possibilité de charger et de jouer toutes vos beatmaps existantes sur des modes de jeu complètement nouveaux (alias "rulesets") !
 
 #### Quelle est la prochaine étape ?
 
-Nous avons un énorme arriéré de fonctionnalités et d'améliorations demandées par les utilisateurs, que nous allons continuer à mettre en place à la vitesse de la lumière. Pour ceux qui nous ont rejoints récemment et qui n'ont pas connu l'élan du développement d'osu!, préparez-vous à être surpris.
+Nous avons un grand nombre de fonctionnalités et d'améliorations demandées par les utilisateurs que nous allons continuer à développer à la vitesse de la lumière. Pour ceux qui nous ont rejoints récemment et qui n'ont pas connu l'élan du développement d'osu!, préparez-vous à être surpris.
 
-#### Comment accéder à mon dossier Songs ?
+#### Comment accéder à mon dossier de musiques ?
 
-Il n'y a pas de dossier Songs dans lazer ! Cela nous permet de faire des choses sympas comme ne pas avoir à presser `F5` lors de la sélection des beatmaps pour les rafraîchir (parce que les beatmaps sont toujours dans un bon état) et réduire l'espace disque utilisé par les beatmaps de 20-40%. Vous pouvez en savoir plus sur [la façon dont lazer stocke les fichiers](/wiki/Client/Release_stream/Lazer/File_storage).
+Il n'y a pas de dossier musique dans lazer ! Cela nous permet de faire des choses sympas comme ne pas avoir besoin d'appuyer sur `F5` à la sélection de la musique pour rafraîchir les beatmaps (parce que les beatmaps sont toujours dans un bon état) et réduire l'espace disque utilisé par les beatmaps de 20-40%. Vous pouvez en savoir plus sur [la façon dont lazer stocke les fichiers](/wiki/Client/Release_stream/Lazer/File_storage).
 
-Si vous devez apporter des modifications à une beatmap, veuillez utiliser l'éditeur. À l'avenir, nous introduirons un mode dans l'éditeur qui rendra le dossier d'une beatmap temporairement accessible pour une édition externe. Cela vous permettra d'utiliser des outils externes sur une beatmap pendant le processus de création.
+Si vous avez besoin d'apporter des modifications à une beatmap, veuillez utiliser l'éditeur. A l'avenir, nous introduirons un mode dans l'éditeur qui rendra le dossier d'une beatmap temporairement accessible pour l'édition externe. Cela vous permettra d'utiliser des outils externes sur une beatmap pendant le processus de création.
 
-#### Maintenant que "osu!direct" est disponible pour tous les joueurs, les supporters auront-ils de nouveaux avantages ?
+#### Maintenant que "osu!direct" est accessible à tous les joueurs, les supporters bénéficieront-ils de nouveaux avantages ?
 
-Certains filtres dans la liste des beatmaps sont toujours réservés aux supporters.
+Certains filtres de la liste des beatmaps sont encore réservés aux supporters.
 
-Il y a aussi déjà quelques avantages supplémentaires :
+Il existe également des avantages supplémentaires :
 
-- Les supporters peuvent créer des playlists qui durent plus longtemps
+- Les supporters peuvent créer des playlists qui durent plus longtemps.
+- Les supporters peuvent activer la lecture des storyboards dans le menu principal.
 
-Nous avons l'intention d'envisager de nouveaux avantages à l'avenir, mais nous nous concentrons actuellement sur la parité des fonctionnalités avec la version stable. Veuillez donc utiliser votre achat de badge de supporter comme un moyen de... soutenir le développement du jeu !
+Nous avons l'intention d'envisager de nouveaux avantages à l'avenir, mais nous nous concentrons actuellement sur la parité des fonctionnalités avec stable. Nous vous invitons donc à utiliser l'achat de votre tag de supporter comme un moyen de... soutenir le développement du jeu !
 
-#### Si je triche sur lazer, est-ce que je serai banni ?
+#### Si je triche sur lazer, serai-je banni ?
 
 Oui.
 
@@ -258,40 +274,41 @@ Oui.
 
 De la même manière que d'habitude.
 
-#### Où sont les micro-transactions ?
+#### Où sont les microtransactions ?
 
 Vous pensez probablement à un autre jeu.
 
-### Notes
+## Notes
 
-[^wine]: En utilisant Wine.
-[^compatibility-mode]: DirectX via le mode de compatibilité.
-[^coming-soon]: À venir prochainement.
+[^wine]: Utilisation de Wine.
+[^mode-de-compatibilité]: DirectX via le mode de compatibilité.
 [^dll]: Manuellement via les fichiers `.dll`.
-[^share-files]: Les beatmaps et les skins partageront les fichiers et économiseront de l'espace disque.
-[^gameplay-only]: Gameplay uniquement.
-[^online]: Par le biais d'une recherche en ligne.
-[^normalisation]: Cela permet d'amener les combo colours personnalisées de beatmap au même niveau de luminosité.
-[^hold-for-hud]: Maintenez `Ctrl` pour voir le HUD momentanément pendant qu'il est caché.
-[^offset-calibration-stable]: Réglable manuellement par la configuration des touches.
-[^offset-calibration-lazer]: Lorsque vous réessayez une beatmap, vous pouvez calibrer le décalage audio en fonction de votre dernière partie.
-[^can-disable]: Peut être désactivé.
-[^note-lock]: Existe toujours, mais ne devrait pas interférer.
+[^partage-fichiers]: Les beatmaps et les skins partageront les fichiers et économiseront de l'espace disque.
+[^gameplay-uniquement]: Gameplay uniquement.
+[^en-ligne]: Par le biais d'une recherche en ligne.
+[^normalisation]: Cela permet de mettre les couleurs combinées personnalisées d'une beatmap au même niveau de luminosité.
+[^hold-pour-hud]: Maintenez la touche `Ctrl` enfoncée pour afficher le HUD momentanément lorsqu'il est caché.
+[^calibration-décalage-stable]: Réglable manuellement à l'aide des touches.
+[^calibration-décalage-lazer]: Lorsque vous réessayez une beatmap, vous pouvez calibrer le décalage en fonction de votre dernière lecture.
+[^désactivation-possible]: Peut être désactivé.
+[^note-lock]: Elle existe toujours, mais ne devrait pas interférer.
 [^score-reset-balance]: Les scores seront remis à zéro pour assurer l'équilibre.
-[^score-reset-isolated]: Les scores seront réinitialisés, actuellement isolés des scores stables.
-[^online-content]: Accès natif à la plupart des contenus en ligne.
-[^direct-supporter]: Uniquement via osu!direct, réservé aux osu!supporters.
-[^multi-room-max]: 16 joueurs max.
-[^map-only]: Map seulement.
-[^all-files]: Tous les fichiers.
-[^editor-precise-rotation]: Il manque une rotation précise des angles.
-[^incompatibilities]: Certaines fonctionnalités de l'éditeur provoquent une lecture incorrecte des beatmaps dans la version stable — sera corrigé bientôt.
-[^stable-chat]: Les messages peuvent prendre jusqu'à 15 secondes pour arriver.
-[^countdown-timers-stable]: Définir un compte à rebours à l'aide d'une commande, pas de démarrage automatique.
-[^countdown-timers-lazer]: Définissez un compte à rebours depuis l'UI du jeu pour lancer automatiquement le match.
-[^queue-modes]: Activez cette option pour permettre à n'importe qui dans un lobby de mettre en file d'attente de nouvelles beatmaps, alias "rotation de l'hôte".
-[^difficulty-adjust]: Changez le CS/AR/OD/HP d'une beatmap directement depuis la sélection des beatmaps.
+[^score-reset-isolé]: Les scores seront réinitialisés, actuellement isolés des scores stables.
+[^contenu-en-ligne]: Accès natif à la plupart des contenus en ligne.
+[^direct-supporter]: Via osu!direct, osu!supporter uniquement.
+[^supporter]: osu!supporter uniquement.
+[^suppression-progressive]: Restaure les beatmaps et autres données supprimées des paramètres. Les suppressions ne deviennent permanentes qu'au redémarrage.
+[^multi-salle-max]: 16 joueurs au maximum.
+[^maps-uniquement]: Maps uniquement.
+[^tous-les-fichiers]: Tous les fichiers.
+[^éditeur-rotation-précise]: Manque de précision dans la rotation des angles.
+[^incompatibilités]: Certaines fonctionnalités de l'éditeur entraînent une lecture incorrecte des beatmaps dans la version stable - ce problème sera bientôt résolu.
+[^tchat-stable]: Les messages peuvent prendre jusqu'à 15 secondes pour arriver.
+[^compte-à-rebours-stable]: Définir un compte à rebours à l'aide d'une commande, pas de démarrage automatique.
+[^compte-à-rebours-lazer]: Définir un compte à rebours à partir de l'interface utilisateur du jeu pour lancer automatiquement le match.
+[^modes-fille-attente]: Activez cette option pour permettre à n'importe quel membre d'un lobby de mettre en file d'attente de nouvelles beatmaps, alias "host rotate".
+[^ajustement-difficulté]: Modifier CS/AR/OD/HP d'une beatmap directement à partir de la sélection de la musique via le mod Difficulty Adjust.
 
-[true]: /wiki/shared/true.png
-[false]: /wiki/shared/false.png
-[partial]: /wiki/shared/partial.png
+[vrai]: /wiki/shared/true.png
+[faux]: /wiki/shared/false.png
+[partiel]: /wiki/shared/partial.png

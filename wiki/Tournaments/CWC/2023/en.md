@@ -155,7 +155,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
   2. [Tanchiky - TouchDown (autofanboy) \[KickOff\]](https://osu.ppy.sh/beatmapsets/2007950#fruits/4176785)
   3. [seatrus - ILLEGAL LEGACY (Deif) \[SAN\]](https://osu.ppy.sh/beatmapsets/2007954#fruits/4176793)
 - Hard Rock
-  1. [LV.4 - Chemical Diving (Rocma) \[Rocma & Dust's Acid Burst\]](https://osu.ppy.sh/beatmapsets/2007952#fruits/4176787)
+  1. [LV.4 - Chemical Diving (Rocma) \[Rocma & Dust's Acid Burst\]](https://osu.ppy.sh/beatmapsets/2026273#fruits/4221920)
   2. [Sobrem x Silentroom - Random (autofanboy) \[Yoshi x AFB's F2\]](https://osu.ppy.sh/beatmapsets/2007958#fruits/4176797)
   3. [LeaF - Ka (Natsuko) \[???????\u005F\u0030\u00D7????????\]](https://osu.ppy.sh/beatmapsets/2007973#fruits/4176821)
 - Double Time
