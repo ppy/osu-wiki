@@ -167,7 +167,7 @@ Esto significa que la puntuación máxima puede ser obtenida antes al girar más
 La cantidad de RPM requerida para obtener la máxima puntuación se muestra a continuación:
 
 | OD | RPM |
-| --: | --:|
+| --: | --: |
 | 0 | 250 |
 | 5 | 380 |
 | 10 | 430 |
