@@ -12,7 +12,7 @@ Fusing trance, hardcore, and hardstyle in their own one-of-a-kind way, [**anubas
 
 Pick your favourite of **7** outstanding songs from [**anubasu-anubasu**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/397) (or choose all 7 if your mapping urges are insatiable!).
  
-As you've heard a billion times by now, osu!(lazer) supports performance points now. If you haven't started playing on the new client yet, here's a taste of what you're missing out on:
+As you've heard a billion times by now, osu!(lazer) is in the final stages of preparing to support performance points. If you haven't started playing on the new client yet, here's a taste of what you're missing out on:
 
 <div align="center">
     <video width="95%" controls>
