@@ -8,7 +8,7 @@ Send your warm welcomes to our first Featured Artist of the year: **anubasu-anub
 
 ![](https://assets.ppy.sh/artists/397/header.jpg)
 
-Fusing trance, hardcore, and hardstyle in their own one-of-a-kind way, [**anubasu-anubasu**](https://osu.ppy.sh/beatmaps/artists/395) made a name for themselves in osu! through iconic maps like [Materialize Anything](https://osu.ppy.sh/beatmapsets/1847997) and [Mercury Prayer](https://osu.ppy.sh/beatmapsets/603755). And as of today, that name is officially part of our game forever!
+Fusing trance, hardcore, and hardstyle in their own one-of-a-kind way, [**anubasu-anubasu**](https://osu.ppy.sh/beatmaps/artists/397) made a name for themselves in osu! through iconic maps like [Materialize Anything](https://osu.ppy.sh/beatmapsets/1847997) and [Mercury Prayer](https://osu.ppy.sh/beatmapsets/603755). And as of today, that name is officially part of our game forever!
 
 Pick your favourite of **7** outstanding songs from [**anubasu-anubasu**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/397) (or choose all 7 if your mapping urges are insatiable!).
  
