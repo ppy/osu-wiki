@@ -25,7 +25,7 @@ As you've heard a billion times by now, osu!(lazer) supports performance points 
 Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/603755) hosted by [\_MiaoFUuU\_](https://osu.ppy.sh/users/4299356)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/397/Songs/anubasu-anubasu%20-%20Mercury%20Prayer.mp3">
 </audio>
 
 ### anubasu-anubasu - Nemesis (pi/3's Remix)
@@ -33,7 +33,7 @@ Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/603755) 
 Experience [this Loved remix of a Nizikawa track](https://osu.ppy.sh/beatmapsets/159581), hosted by [Sp3ct3r_2k11](https://osu.ppy.sh/users/760838)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/397/Songs/anubasu-anubasu%20-%20Nemesis%20(pi3s%20Remix).mp3">
 </audio>
 
 ### anubasu-anubasu - Materialize Anything
@@ -44,7 +44,7 @@ If piano smashing is your favourite pastime, we've got you covered:
 - Or try [this 7K osu!mania map](https://osu.ppy.sh/beatmapsets/1847997) hosted by [-NoName-](https://osu.ppy.sh/users/10400730)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/397/Songs/anubasu-anubasu%20-%20Materialize%20Anything.osz">
 </audio>
 
 ---
