@@ -8,7 +8,7 @@ Esta página documenta diferencias que afectan la jugabilidad en osu!(lazer).
 
 ### La reproducción de sonido acelera y desacelera al pausar y despausar
 
-Esto hace más difícil retomar desde una pausa en medio de una partida, evitando abusar de la pausa en cierta medida.
+Esto hace que sea más difícil continuar desde una pausa en medio de un juego activo, evitando hasta cierto punto el abuso de las pausas.
 
 |  |  |
 | :-- | :-: |
@@ -19,7 +19,7 @@ Esto hace más difícil retomar desde una pausa en medio de una partida, evitand
 
 ### El mod Easy ya no pausa la partida al recuperarse de fallar
 
-En vez de pausar la partida automáticamente mientras se llena la barra de salud, esta se restaura inmediatamente.
+En lugar de detener el juego mientras se llena la barra de salud, la salud se recupera inmediatamente.
 
 |  |  |
 | :-- | :-: |
@@ -68,9 +68,9 @@ Mientras tanto, osu!(lazer) ahora tiene los siguientes requisitos:
 | Cambiado intencionalmente | Sí |
 | Necesita más consideración | Sí |
 
-### Los cálculos de golpe en los límites de la ventana de tiempo no coinciden con stable
+### Los cálculos de los límites de las ventanas de tiempo no coinciden con stable
 
-Cuando se asesta un golpe justo en el límite de la ventana de golpe, se puede recibir un juicio diferente dependiendo de la versión del cliente.
+Cuando se asesta un golpe justo en el límite de la ventana de tiempo, se puede recibir un juicio diferente dependiendo de la versión del cliente.
 
 | Modo de juego | Comparación (stable) | Comparación (lazer) | Comparación (repetición en lazer) |
 | :-- | :-- | :-- | :-- |
@@ -100,7 +100,7 @@ También hay algunas diferencias en cuanto a la puntuación de cada objeto y jui
 | Cambiado intencionalmente | Sí |
 | Necesita más consideración | Sí |
 
-### Los activadores no están implementados en los storyboards
+### Los elementos no están implementados en los storyboards
 
 Algunos storyboards implementan elementos que reaccionan a la salud o las interacciones del jugador.
 
@@ -108,11 +108,11 @@ Algunos storyboards implementan elementos que reaccionan a la salud o las intera
 
 ## osu!
 
-### El bloqueo de nota ha sido ajustado para ser más permisivo
+### El notelock ha sido ajustado para ser más permisivo
 
 ![](img/notelock.gif)
 
-Recuperarse de un fallo en patrones densos se hizo más sencillo.
+Recuperarse de un fallo en patrones densos ahora es más fácil.
 
 |  |  |
 | :-- | :-: |
@@ -121,11 +121,11 @@ Recuperarse de un fallo en patrones densos se hizo más sencillo.
 | Cambiado intencionalmente | Sí |
 | Necesita más consideración | No |
 
-### Los círculos en el slider head requieren precisión al golpear
+### Los slider head requieren precisión al golpear
 
 ![](img/slideracc.gif)
 
-Hasta la llegada de lazer, los sliders requerían como mínimo la precisión de un juicio 50/MEH para otorgar una puntuación perfecta. Esto fue hecho por razones históricas, pero no se siente adecuado para un juego rítmico. De ahora en adelante, los sliders requeriran precisión en el golpe inicial.
+Hasta la llegada de lazer, los sliders requerían como mínimo la precisión de un juicio 50/MEH para otorgar una puntuación perfecta. Esto se hizo por razones históricas, pero no se siente adecuado para un juego de ritmo. De ahora en adelante, los sliders requerirán precisión en el golpe inicial.
 
 |  |  |
 | :-- | :-: |
@@ -136,9 +136,9 @@ Hasta la llegada de lazer, los sliders requerían como mínimo la precisión de 
 
 ### Fallar un slider head ocasiona un fallo
 
-Fallar un slider head (ya sea por no golpearlo o por golpearlo durante su ventana de error) previamente rompería el combo pero sin causar un juicio de fallo y un juicio todavía podría ser obtenido de el slider omitido por completar lo que quedara de él. Esto permitía a los jugadores obtener un menor combo máximo mientras que técnicamente no tenían fallos.
+Fallar un slider head (ya sea por no golpearlo o por golpearlo durante su ventana de fallo) previamente rompería el combo pero sin causar un juicio de MISS, y un juicio todavía podría ser obtenido del slider fallado por completar lo que quedara de él. Esto permitía a los jugadores obtener un menor combo máximo mientras que técnicamente no tenían fallos.
 
-En lazer, no golpear el slider head dará un juicio de fallo para el slider completo. Luego de fallar un slider head; combo, puntuación y precisión todavía pueden ser obtenidos de los slider ticks, repeticiones y slider ends.
+En lazer, no golpear un slider head dará un juicio de MISS para el slider completo. Luego de fallar un slider head; combo, puntuación y precisión todavía pueden ser obtenidos de las marcas de los sliders, sliders repetidos y slider ends.
 
 |  |  |
 | :-- | :-: |
@@ -147,9 +147,9 @@ En lazer, no golpear el slider head dará un juicio de fallo para el slider comp
 | Cambiado intencionalmente | Sí |
 | Necesita más consideración | No |
 
-### Los slider ends no ocasionan un hitsound al no recibir un golpe
+### Los slider ends no ocasionan un hitsound cuando no se golpean
 
-En stable, los slider ends reproducirían su respectivo hitsound aunque fueran omitidos, siempre y cuando cualquier parte de este fuera golpeada. Esto ha sido cambiado de tal manera que los hitsounds coinciden con las interacciones 1:1.
+En stable, los slider ends reproducían su respectivo hitsound aunque se fallaran, siempre y cuando cualquier parte de este fuera golpeada. Esto ha sido cambiado de tal manera que los hitsounds coinciden con las interacciones 1:1.
 
 |  |  |
 | :-- | :-: |
@@ -158,11 +158,11 @@ En stable, los slider ends reproducirían su respectivo hitsound aunque fueran o
 | Cambiado intencionalmente | Sí |
 | Necesita más consideración | No |
 
-### El límite de velocidad de 477 RPM en los giros del spinner ha sido removido
+### Se ha eliminado el límite de velocidad de 477 RPM en los giros de los spinners
 
 En lugar de un límite de velocidad, los spinners ahora tienen un límite de puntuación determinado por la cantidad total de rotaciones que pueden ser logradas al girar el spinner a ciertas RPM dependiendo del OD.
 
-Esto significa que la puntuación máxima puede ser obtenida antes al girar más rápido, sin recibir más puntos por lo que quede del spinner.
+Esto significa que la puntuación máxima puede ser obtenida antes al girar más rápido, sin recibir más puntos en lo que quede del spinner.
 
 La cantidad de RPM requerida para obtener la máxima puntuación se muestra a continuación:
 
@@ -179,13 +179,13 @@ La cantidad de RPM requerida para obtener la máxima puntuación se muestra a co
 | Cambiado intencionalmente | Sí |
 | Necesita más consideración | Sí |
 
-### Los sliders glitcheados al estilo Aspire no son soportados
+### Los sliders de estilo Aspire no son soportados
 
 ![](img/aspire-slider.gif)
 
-Algunos beatmaps temerarios se aprovechan de glitches en el cliente estable que permitían mecánicas de sliders muy extrañas. Estos abarcan desde sliders de nula longitud actuando como círculos invisibles, hasta sliders estirados y aplastados a través de toda la pantalla.
+Algunos beatmaps se aprovechan de lo fallos del cliente stable que permitían mecánicas de los sliders muy extrañas. Estos abarcan desde sliders de nula longitud actuando como círculos invisibles, hasta sliders estirados y aplastados a través de toda la pantalla.
 
-Se requiere de más discusión y consideración sobre cuántos beatmaps Aspire serán compatibles en el futuro. Por ejemplo, más adelante se podrían implementar círculos invisibles como una característica adecuadamente soportada.
+Se necesitará de más discusión y consideración sobre cuántos beatmaps Aspire serán compatibles en el futuro. Por ejemplo, más adelante se podrían implementar círculos invisibles como una característica adecuadamente soportada.
 
 |  |  |
 | :-- | :-: |
@@ -242,7 +242,7 @@ Esto puede ocasionar juicios imprecisos en las repeticiones y un aumento en la d
 | Cambiado intencionalmente | No |
 | Necesita más consideración | Sí |
 
-### La aparición de la corriente de jugo puede diferir en algunos casos
+### La aparición de la corriente de jugo puede ser diferente en algunos casos
 
 Esto puede ocasionar juicios imprecisos en las repeticiones.
 
@@ -266,11 +266,11 @@ Esto funciona de manera similar a ScoreV2 en stable.
 | Cambiado intencionalmente | Sí |
 | Necesita más consideración | No |
 
-### Los ticks de las notas largas dan puntos y ocasionan roturas de combo
+### Las marcas de las notas largas dan puntos y ocasionan roturas de combo
 
-En stable, soltar el botón en medio del cuerpo de una nota larga rompería combo inmediatamente, pero ahora solo rompe combo al omitir el tick de una nota larga.
+En stable, soltar el botón en medio del cuerpo de una nota larga rompería el combo inmediatamente, pero ahora solo se rompe el combo al fallar la marca de una nota larga.
 
-Esto permite hacer trampa (o «manipular») al permitir levantar la muñeca cuando levantar un dedo mientras se presionaba con otro hubiera sido necesario en su lugar.
+Esto permite hacer trampa (o «manipular») al permitir el «wrist-jacking» cuando, de otro modo, sería necesario un «finger-jacking» con otro dedo sujetado.
 
 |  |  |
 | :-- | :-: |
@@ -281,7 +281,7 @@ Esto permite hacer trampa (o «manipular») al permitir levantar la muñeca cuan
 
 ### Las velocidades de desplazamiento extremas están limitadas
 
-Algunos beatmaps con velocidades de slider trucadas como teletransportaciones o detenimientos no se ven como deberían, pero son jugables.
+Algunos beatmaps con trucos de SV, como teletransportes o detenimientos, no tienen el aspecto deseado, pero son jugables.
 
 |  |  |
 | :-- | :-: |
@@ -290,7 +290,7 @@ Algunos beatmaps con velocidades de slider trucadas como teletransportaciones o 
 | Cambiado intencionalmente | Sí |
 | Necesita más consideración | Sí |
 
-### La ventana de tiempo para juicios PERFECTOS escala con el OD
+### La ventana de tiempo para los juicios PERFECT escala con el OD
 
 Esto solía resultar en ±16 ms constantes independientemente de la dificultad general.
 
@@ -303,7 +303,7 @@ Esto solía resultar en ±16 ms constantes independientemente de la dificultad g
 
 ### Los beatmaps convertidos ya no tienen una ventana de tiempo diferente
 
-En stable, beatmaps convertidos desde el modo de juego osu! en osu!mania tenían una [ventana de tiempo diferente](/wiki/Gameplay/Judgement/osu!mania).
+En stable, los beatmaps convertidos desde el modo de juego osu! a osu!mania tenían una [ventana de tiempo diferente](/wiki/Gameplay/Judgement/osu!mania).
 
 |  |  |
 | :-- | :-: |
