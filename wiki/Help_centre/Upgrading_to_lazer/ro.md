@@ -1,12 +1,12 @@
-# Mutarea la lazer
+# Actualizarea la lazer 
 
 *Atenție: Încă încercăm să ne dăm seama cum să balansăm jocul și mecanicile. Momentan, **scorurile realizate pe lazer nu trebuie să fie considerate finale**.*
 
-osu!(lazer) este următoare actualizare semnificativă a jocului. Este munca realizată pe parcursul a mai multor ani în spatele cortinei pentru a reimplementa cu migală jocul.
+osu!(lazer) este următoarea actualizare semnificativă a jocului. Este munca realizată pe parcursul a mai multor ani în spatele cortinei pentru a reimplementa cu migală jocul.
 
 Eventualul obiectiv este ca versiunea aceasta să fie lansată ca o actualizare care va înlocui versiunea existentă stable a jocului, dar încă mai este de lucrat până va fi realizabil. La urma urmei, **jucătorii** vor hotărî când se va întâmpla și vom continua să menținem versiunea anterioară până când utilizatorii au migrat.
 
-„lazer” este un nume de scenă care va fi înlocuit și va devenii versiunea principală a jocului. Restul acestui document va numii osu!(lazer) ca „lazer” și osu!(stable) ca „stable” pentru simplitate.
+„lazer” este un nume de scenă care va fi înlocuit și va devenii versiunea principală a jocului. Restul acestui document va denumii osu!(lazer) ca „lazer” și osu!(stable) ca „stable” pentru simplitate.
 
 ## Comparație între funcții
 
@@ -23,10 +23,10 @@ Lista de mai jos conține o listă cuprinzătoare din **starea actuală** a laze
 | DirectX / Metal | ![Parțial][partial][^compatibility-mode] | ![Da][true] |
 | Suport pentru telefon | ![Nu][false] | ![Da][true] |
 | Arhitectură multithread | ![Nu][false] | ![Da][true] |
-| Video accelerare hardware | ![Nu][false] | ![Da][true] |
+| Video cu accelerare hardware | ![Nu][false] | ![Da][true] |
 | Scalare UI | ![Nu][false] | ![Da][true] |
 | Reguli personalizate (moduri de joc) | ![Nu][false] | ![Parțial][partial][^dll] |
-| Stocare de fişiere de-duplicate | ![Nu][false] | ![Da][true][^share-files] |
+| Stocare de fişiere deduplicate | ![Nu][false] | ![Da][true][^share-files] |
 | Ajustare zonă tabletă | ![Nu][false] | ![Da][true] |
 | Suport pentru mai multe rapoarte de aspect | ![Nu][false] | ![Da][true] |
 
@@ -53,7 +53,7 @@ Lista de mai jos conține o listă cuprinzătoare din **starea actuală** a laze
 
 | Funcție | stable | lazer |
 | :-- | :-- | :-- |
-| Afișare precisă a punctelor de performanță | ![Parțial][partial][^online] | ![Da][true] |
+| Afișarea precisă a punctelor de performanță | ![Parțial][partial][^online] | ![Da][true] |
 | Ajustare dificultate | ![Nu][false] | ![Da][true][^difficulty-adjust] |
 | Presetări de moduri | ![Nu][false] | ![Da][true] |
 | Setări per-mod | ![Nu][false] | ![Da][true] |
@@ -65,7 +65,7 @@ Lista de mai jos conține o listă cuprinzătoare din **starea actuală** a laze
 | „note-lock” evitabil de jucător | ![Nu][false] | ![Da][true][^note-lock] |
 | Culoarea notelor bazată pe sincronizare în osu!mania și osu! | ![Nu][false] | ![Da][true] |
 | Redare înainte/înapoi a reluorilor | ![Nu][false] | ![Da][true] |
-| Redare comentarii în genul [Niconico](https://en.wikipedia.org/wiki/Niconico) | ![Da][true] | ![Nu][false] |
+| Redare comentarii în stilul [Niconico](https://en.wikipedia.org/wiki/Niconico) | ![Da][true] | ![Nu][false] |
 
 ### Sisteme online
 
@@ -79,11 +79,11 @@ Lista de mai jos conține o listă cuprinzătoare din **starea actuală** a laze
 | Chat în timp real | ![Parțial][partial][^stable-chat] | ![Da][true] |
 | Wiki / noutăți / actualizări / clasamente | ![Nu][false] | ![Da][true][^online-content] |
 | Profiluri de utilizator | ![Nu][false] | ![Da][true] |
-| Listări de beatmap | ![Parțial][partial][^direct-supporter] | ![Da][true] |
+| Listă cu beatmap-uri | ![Parțial][partial][^direct-supporter] | ![Da][true] |
 | Spațiu de jucători nelimitat în multiplayer | ![Nu][false][^multi-room-max] | ![Da][true] |
 | Spectator multiplayer | ![Nu][false] | ![Da][true] |
 | Cronometru cu numărătoare inversă | ![Parțial][partial][^countdown-timers-stable] | ![Da][true][^countdown-timers-lazer] |
-| Moduri în coadă | ![Nu][false] | ![Da][true][^queue-modes] |
+| Moduri în listă de așteptare | ![Nu][false] | ![Da][true][^queue-modes] |
 | Comenzi multiplayer | ![Da][true] | ![Nu][false] |
 | Tag co-op | ![Da][true] | ![Nu][false] |
 | Playlists (clasamente selectate de jucători) | ![Nu][false] | ![Da][true] |
@@ -98,8 +98,8 @@ Lista de mai jos conține o listă cuprinzătoare din **starea actuală** a laze
 | Editor osu!catch | ![Nu][false] | ![Da][true] |
 | Editor osu!mania | ![Da][true] | ![Da][true] |
 | Vizualizare dificultate ca punct de referință | ![Da][true] | ![Nu][false] |
-| Volum / SV per obiect | ![Nu][false] | ![Da][true] |
-| Tipuri de curbe pentru slidere per-segment | ![Nu][false] | ![Da][true] |
+| Volum / SV per-obiect | ![Nu][false] | ![Da][true] |
+| Tipuri de curbe de slidere per-segment | ![Nu][false] | ![Da][true] |
 | Tăiere și legare slidere | ![Nu][false] | ![Da][true] |
 | Rotație pattern | ![Da][true] | ![Parțial][partial][^editor-precise-rotation] |
 | Redimensionare pattern | ![Nu][false] | ![Da][true] |
@@ -111,7 +111,7 @@ Lista de mai jos conține o listă cuprinzătoare din **starea actuală** a laze
 
 Deci ai decis că vrei să încerci lazer? Super!
 
-Îl poți descărca [de aici](https://osu.ppy.sh/home/download). În viitor, poți să te muți pe lazer direct din versiunea stable (din setarea `Release stream`).
+Îl poți descărca [de aici](https://osu.ppy.sh/home/download). În viitor, poți să te muți pe lazer direct din versiunea stable (din setarea `Linia de release-uri`).
 
 ## FAQ
 
@@ -179,9 +179,9 @@ Noi facem tot posibilul ca scorurile să rămână așa cum sunt, dar **nu putem
 
 Da. Imediat cum terminăm balansarea scorurilor combinate din lazer și stable, ambele vor fi vizibile.
 
-#### Toate modurile vor fi ranked?
+#### Toate mod-urile vor fi ranked?
 
-Pentru moment, scorurile realizate cu orice combinație de moduri vor fi vizibile pe tabela de scor. Acuma dacă scorurile vor da puncte de performanță cu toate modurile (și dacă da, dacă va exista un bonus sau o penalitate) este încă în discuție.
+Pentru moment, scorurile realizate cu orice combinație de moduri vor fi vizibile pe tabela de scor. Acuma dacă scorurile vor da puncte de performanță cu toate mod-urile (și dacă da, dacă va exista un bonus sau o penalitate) este încă în discuție.
 
 #### Nu-mi place noile mecanici de joc. Pot să folosesc vechile mecanici de joc precum în stable?
 
@@ -213,13 +213,13 @@ Dacă ești curios despre cum afectează asta latența de input și pentru a tes
 
 Poți să și [citești acest document detaliat](https://github.com/ppy/osu/wiki/Latency-and-unlimited-frame-rates) care explică ce cale vom lua cu raționament.
 
-#### Dacă inputul este limitat la 1.000 Hz, ce se întâmplă cu mouse-ul sau tastatura mea de gaming cu 8.000 Hz?
+#### Dacă inputul este polled la doar 1.000 Hz, ce se va întâmpla cu mouse-ul meu de gaming cu 8.000 Hz?
 
-Sistemul de operare va folosi acele sume, chiar dacă beneficile au fost dovedite a fi nesemnificative. Folosirea acestor sume mari de Hz poate avea probleme pe parcurs, și îți recomandăm să îți limitezi perifericele la 1.000 Hz pentru compatibilitate.
+Sistemul de operare va continua să permită ratele acestea mai mari, dar beneficile au fost dovedite a fi neglijabile. Asemenea rate mari de polling poate avea supracosturi neprevăzute, și îți recomandăm să îți limitezi perifericele la o rată de 1.000 Hz pentru stabilitatea sistemului. 
 
-#### Lazer rulează mai greu decat stable pentru mine. De ce?
+#### Lazer rulează mai greu decât stable pentru mine. De ce?
 
-Chiar dacă pe componente mai noi lazer rulează mult mai bine decat stable, vor fi mereu excepții când utilizatorii au configurații diferite. Pe viitor, ne vom interesa să adăugăm DirectX (adică „modul de compatibilitate” din lazer) și Vulkan, ambele având drivere întrețiune mult mai bine decat OpenGL pe toate componentele. Când va fi implementat, performanță pe componente precum chipseturile integrate Intel va fi îmbunătățită semnificativ.
+Chiar dacă pe componente mai noi lazer rulează mult mai bine decât stable, vor fi mereu excepții când utilizatorii au configurații hardware diferite. În planul nostru pe termen scurt, ne vom interesa să susținem DirectX (adică „modul de compatibilitate” din stable) și Vulkan, ambele având suport de drivere mult mai bune decât OpenGL pe toate componentele. Când va fi implementat, performanță pe componente precum chipset-urile integrate Intel va fi îmbunătățită semnificativ.
 
 ### Despre feedback
 
@@ -233,7 +233,7 @@ Totuși, să iei în considerare că ne înfruntăm cu peste 1.000 de probleme c
 
 #### De ce numele „lazer”?
 
-Ce este mai de vârf decât ceva nou?
+Ce este mai nou decât ceva de vârf?
 
 #### De ce durează atât de mult să devină lazer versiunea „main”?
 
@@ -245,24 +245,24 @@ Chiar dacă osu! poate să pară un joc simplu, sunt sute și sute de funcții �
 
 #### Ce urmează?
 
-Avem în spatele nostru un teanc de funcții cerute de utilizatori pe care le vom implementa în curând. Pentru cei care au venit mai târziu, și nu știu cum facem noi treaba pe aici la osu!, fi pregătit să fi lăsat mască.
+Avem un teanc de funcții cerute de utilizatori pe care le vom implementa în curând. Pentru cei care au venit mai târziu, și nu știu cum facem noi treaba pe aici la osu!, fi pregătit să fi lăsat mască.
 
 #### Cum pot să ajung la dosarul meu de melodii?
 
 Nu există un dosar de melodii în lazer! Asta ne oferă posibilitatea să eliminăm funcția de reîmprospătare a beatmap-urilor cu `F5` și să reducem spațiul de stocare folosit de melodii cu 20-40%. Poți să citești mai mult despre [cum lazer stochează fișierele](/wiki/Client/Release_stream/Lazer/File_storage).
 
-Dacă trebuie să modifici ceva la un beatmap, te rugăm să folosești editorul. În viitor vom adăuga o funcție în editor pentru a putea vedea temporar dosarul cu beatmap-uri pentru a putea fi modificat. Asta îți va permite să folosește programe pe un beatmap.
+Dacă trebuie să modifici ceva la un beatmap, te rugăm să folosești editorul. În viitor vom adăuga o funcție în editor pentru a putea vedea temporar dosarul cu beatmap-uri pentru a putea fi modificat. Asta îți va permite să folosești programe externe pe un beatmap.
 
-#### Acuma că „osu!direct” este valabil pentru toți jucătorii, ce se întâmplă cu suporterii? Vor primii beneficii noi?
+#### Acuma că „osu!direct” este disponibil pentru toți jucătorii, ce se întâmplă cu cei care au supporter? Vor primii beneficii noi?
 
-Niște filtre în osu!direct sunt disponibile doar pentru suporteri.
+Niște filtre în osu!direct sunt disponibile doar pentru supporteri.
 
 Pe lângă asta, suporterii mai au niște funcții deja implementate.
 
-- Suporterii pot crea playlist-uri care durează mai mult.
-- Suporterii pot activa storyboard în meniul principal.
+- Supporterii pot crea playlist-uri care durează mai mult.
+- Supporterii pot activa storyboard în meniul principal.
 
-Suntem interesați să adăugăm mai multe beneficii în viitor, dar momentan lucrăm să aducem mai multe funcții din stable în lazer, așa că te rugăm să iei în considerare cumpărarea tag-ului de suporter.... ca un semn de susținere a jocului!
+Suntem interesați să adăugăm mai multe beneficii în viitor, dar momentan lucrăm să aducem mai multe funcții din stable în lazer, așa că te rugăm să iei în considerare cumpărarea tag-ului de supporter.... ca un semn de susținere a jocului!
 
 #### Dacă folosesc coduri / cheaturi, voi primii ban?
 
@@ -272,7 +272,7 @@ Dap.
 
 La fel cum făceai și înainte.
 
-#### Unde sunt microtranzacțiile??
+#### Unde sunt microtranzacțiile?
 
 Cred că ai greșit jocul.
 
@@ -281,26 +281,26 @@ Cred că ai greșit jocul.
 [^wine]: Folosind Wine.
 [^compatibility-mode]: DirectX cu modul de compatibilitate.
 [^dll]: Manual folosind fișiere `.dll`
-[^share-files]: Beatmap-urile și skin-urile vor impărții fișierele și va salva din spațiul de stocare.
+[^share-files]: Beatmap-urile și skin-urile vor impărții fișierele, și va salva din spațiul de stocare.
 [^gameplay-only]: Doar gameplay.
 [^online]: Prin vizualizare online.
-[^normalisation]: Aduce luminozitatea culorilor personalizate de combo la același nivel.
+[^normalisation]: Aduce culorile personalizate combo din beatmap la același nivel de luminozitate.
 [^hold-for-hud]: Ține apăsat `Ctrl` pentru a vedea HUD-ul momentan atunci când este ascuns.
 [^offset-calibration-stable]: Ajustabil manual prin taste.
 [^offset-calibration-lazer]: Când reîncerci un beatmap, poți calibra offsetul bazat pe ultima ta încercare.
 [^can-disable]: Poate fi dezactivat.
 [^note-lock]: Încă există, dar n-ar trebuii să încurce.
 [^score-reset-balance]: Scorurile vor fi resetate pentru a balansa jocul.
-[^score-reset-isolated]: Scorurile vor fi resetate, momentan izolate față de scorurile de pe stable.
+[^score-reset-isolated]: Scorurile vor fi resetate, momentan izolate de scorurile stable.
 [^online-content]: Acces direct la majoritatea informațiilor online.
-[^direct-supporter]: Prin osu!direct,doar osu!supporter.
-[^supporter]: doar osu!supporter.
+[^direct-supporter]: Prin osu!direct, doar osu!supporter.
+[^supporter]: Doar osu!supporter.
 [^soft-deletion]: Restabilește beatmap-uri șterse și alte date din setări. Ștergerile realizate vor fi definitiv atunci când ieși din joc.
 [^multi-room-max]: Maxim 16 jucători.
-[^map-only]: Doar harta.
+[^map-only]: Doar beatmap-ul.
 [^all-files]: Toate fișierele.
-[^editor-precise-rotation]: Lipsă funcției precise de rotație.
-[^incompatibilities]: Niște funcții în editor vor cauza beatmap-urile să ruleze greșit în stable - va fi rezolvat încurând.
+[^editor-precise-rotation]: Lipsa funcției precise de rotație.
+[^incompatibilities]: Niște funcții în editor vor cauza beatmap-urile să ruleze greșit în stable - va fi rezolvat în curând.
 [^stable-chat]: Mesajele trimise pot dura până la 15 secunde să apară.
 [^countdown-timers-stable]: Setează un cronometru cu numărătoare inversă printr-o comandă, fără să înceapă automat.
 [^countdown-timers-lazer]: Setează un cronometru cu numărătoare inversă direct din UI pentru a începe meciul.
