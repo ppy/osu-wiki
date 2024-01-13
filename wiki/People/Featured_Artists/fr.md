@@ -2,6 +2,8 @@
 no_native_review: true
 tags:
   - FA
+outdated_translation: true
+outdated_since: c073839d9413a47aca6bbe8f0b4bcaf1167a272c
 ---
 
 # Featured Artists
