@@ -22,9 +22,9 @@ The top 3 entries will all receive a unique profile badge based on their entry a
 
 This year we had **269** skins that have been submitted to the [skinning forums](https://osu.ppy.sh/community/forums/15), **123** of them being added to the compendium. We highly suggest you get to some light browsing and check out the submitted skins, and you might find a new skin you will be able to call your "main".
 
-[**Click here to get involved and vote for 2023's Skin of the Year!**](https://osu.ppy.sh/community/contests/170)
+[**Click here to get involved and vote for 2023's Skin of the Year!**](https://osu.ppy.sh/community/contests/194)
 
-The voting will remain open for **14 days** after this post goes up, closing on the **TBD**. Hopefully, that should be enough time to go through the catalogue and pick your favourites.
+The voting will remain open for **14 days** after this post goes up, closing on the **28th**. Hopefully, that should be enough time to go through the catalogue and pick your favourites.
 
 Thanks to everyone who contributed to the compendium in 2023, and good luck!
 
