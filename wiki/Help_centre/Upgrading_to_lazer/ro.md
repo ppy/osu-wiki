@@ -1,4 +1,4 @@
-# Actualizarea la lazer 
+# Actualizarea la lazer
 
 *Atenție: Încă încercăm să ne dăm seama cum să balansăm jocul și mecanicile. Momentan, **scorurile realizate pe lazer nu trebuie să fie considerate finale**.*
 
