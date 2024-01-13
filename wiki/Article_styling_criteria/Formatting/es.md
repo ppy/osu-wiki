@@ -542,9 +542,9 @@ Lo siguiente es un ejemplo de ambos estilos en línea:
 Lo siguiente es un ejemplo del estilo de referencia:
 
 ```markdown
-[Modificador de juego][enlace a modificadores de juego]
+[Modificador de juego][game mods link]
 
-[enlace a modificadores de juego]: /wiki/Game_modifier
+[game mods link]: /wiki/Game_modifier
 ```
 
 ---

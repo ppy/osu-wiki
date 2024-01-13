@@ -71,7 +71,7 @@ This competition has come to an end and resulted in the following podium:
 | Placing | Player |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=RO }:: [Rohulk](https://osu.ppy.sh/users/3219026)  |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=RO }:: [Rohulk](https://osu.ppy.sh/users/3219026) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808) |
 
 ## Mappools
@@ -211,7 +211,7 @@ This competition has come to an end and resulted in the following podium:
 
 Sunday, 30 April 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Rohulk ::{ flag=RO }:: | 0 | **5** | ::{ flag=GB }:: **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/32853256) |
 
@@ -219,7 +219,7 @@ Sunday, 30 April 2017:
 
 Sunday, 30 April 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Karthy** ::{ flag=GB }:: | **4** | 1 | ::{ flag=US }:: zelda101 | [#1](https://osu.ppy.sh/community/matches/32845044) |
 
@@ -227,13 +227,13 @@ Sunday, 30 April 2017:
 
 Saturday, 22 April 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Rohulk** ::{ flag=RO }:: | **4** | 1 | ::{ flag=GB }:: Karthy | [#1](https://osu.ppy.sh/community/matches/32661485) |
 
 Sunday, 23 April 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Zelda101 ::{ flag=US }:: | 0 | **4** | ::{ flag=GB }:: **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/32692678) |
 
@@ -241,7 +241,7 @@ Sunday, 23 April 2017:
 
 Saturday, 15 April 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Karthy** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: helix | [#1](https://osu.ppy.sh/community/matches/32497887) |
 | **Bubbleman** ::{ flag=GB }:: | **4** | 3 | ::{ flag=GB }:: OPJames | [#1](https://osu.ppy.sh/community/matches/32499532) |
@@ -249,7 +249,7 @@ Saturday, 15 April 2017:
 
 Sunday, 16 April 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Zelda101** ::{ flag=US }:: | **4** | 2 | ::{ flag=GB }:: dong | [#1](https://osu.ppy.sh/community/matches/32528498) |
 
@@ -257,20 +257,20 @@ Sunday, 16 April 2017:
 
 Thursday, 6 April 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **helix** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Electovoid | *forfeit* |
 
 Saturday, 8 April 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Bubbleman** ::{ flag=GB }:: | **4** | 3 | ::{ flag=LV }:: Waywern2012 | [#1](https://osu.ppy.sh/community/matches/32332671) |
 | gilmat ::{ flag=NO }:: | 1 | **4** | ::{ flag=RO }:: **Rohulk** | [#1](https://osu.ppy.sh/community/matches/32334510) |
 
 Sunday, 9 April 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **OPJames** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: djsettle | [#1](https://osu.ppy.sh/community/matches/32361168) |
 | **zelda101** ::{ flag=US }:: | **4** | 2 | ::{ flag=GB }:: Bae- | [#1](https://osu.ppy.sh/community/matches/32362669) |
@@ -279,7 +279,7 @@ Sunday, 9 April 2017:
 
 Friday, 14 April 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **dong** ::{ flag=GB }:: | **4** | 3 | ::{ flag=GB }:: SteffoST | [#1](https://osu.ppy.sh/community/matches/32476476) |
 
@@ -287,7 +287,7 @@ Friday, 14 April 2017:
 
 Saturday, 1 April 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Bubbleman** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: mmi- | [#1](https://osu.ppy.sh/community/matches/32168490) |
 | **Jerome** ::{ flag=GB }:: | **4** | 1 | ::{ flag=CZ }:: NyarkoO | [#1](https://osu.ppy.sh/community/matches/32172074) |
@@ -298,7 +298,7 @@ Saturday, 1 April 2017:
 
 Sunday, 2 April 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | MicMck101 ::{ flag=US }:: | 0 | **4** | ::{ flag=RO }:: **Rohulk** | [#1](https://osu.ppy.sh/community/matches/32205890) |
 | **SteffoST**  ::{ flag=GB }:: | **4** | 0 | ::{ flag=NO }:: k3v5t3r | [#1](https://osu.ppy.sh/community/matches/32205642) |
@@ -312,7 +312,7 @@ Sunday, 2 April 2017:
 
 Monday, 3 April 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Bae-** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: minorman4 | [#1](https://osu.ppy.sh/community/matches/32228191) |
 

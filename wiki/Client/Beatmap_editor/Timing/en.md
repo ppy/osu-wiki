@@ -70,7 +70,7 @@ The timing tab can be opened by pressing `F3` and provides quick access to the f
 To quickly make larger or smaller changes, use the below modifiers:
 
 |  | Tempo | Offset | Slider velocity |
-| :-- | :--: | :--: | :--: |
+| :-- | :-: | :-: | :-: |
 | `Ctrl` + click | 0.25 BPM | 1 ms | 1 [osu! pixel](/wiki/Client/Beatmap_editor/osu!_pixel) |
 | Default | 1 BPM | 2 ms | 10 osu! pixels |
 | `Shift` + click | 5 BPM | 10 ms | - |

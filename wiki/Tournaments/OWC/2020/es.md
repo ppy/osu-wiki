@@ -473,7 +473,7 @@ Las estadísticas de los Clasificatorios se pueden encontrar en [esta hoja de c�
 13. Se supone que todos los jugadores deben hacer que el partido se desarrolle con fluidez y sin demoras. Se pueden aplicar sanciones a los jugadores si causan retrasos excesivos en las partidas.
 14. Si un jugador se desconecta entre los mapas y el equipo no puede proporcionar un reemplazo, el partido puede retrasarse 10 minutos como máximo.
 15. Todos los jugadores y árbitros deben ser tratados con respeto. Se deben seguir las instrucciones de los árbitros y del Gerente del torneo. Las decisiones etiquetadas como finales no deben ser objetadas.
-16. Está estrictamente prohibido interrumpir el partido con juego sucio, insultar y provocar a otros jugadores o árbitros, retrasar el partido u otro comportamiento inapropiado deliberado.
+16. Está estrictamente prohibido interrumpir el partido con juego sucio, insultar y provocar a otros jugadores o árbitros, retrasar el partido u otra conducta inapropiada deliberada.
 17. Las salas de chat multijugador subyacen a las [reglas de la comunidad de osu!](/wiki/Rules).
     - Romper las reglas del chat da como resultado un silencio. Los jugadores silenciados no pueden participar en partidas multijugador y deben ser intercambiados por el momento.
 18. **El método de clasificación se revelará después de que todos los equipos hayan jugado sus rondas clasificatorias.**
