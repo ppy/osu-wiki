@@ -11,7 +11,7 @@ tags:
 
 ![Ikon mod RD](/wiki/shared/mods/RD.png "Mod ikon Random (RD)")
 
-*Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game Modifier](/wiki/Gameplay/Game_modifier)*
+*Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game modifier](/wiki/Gameplay/Game_modifier)*
 
 ## Tentang
 
