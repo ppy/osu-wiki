@@ -13,7 +13,7 @@ tags:
 
 ![Icono del mod FL](/wiki/shared/mods/FL.png "Icono del mod Flashlight (FL)")
 
-*Para una lista completa de mods, véase: [Modificador de juego](/wiki/Gameplay/Game_modifier)*\
+*Para una lista completa de mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*\
 *No debe confundirse con [Hidden (mod)](/wiki/Gameplay/Game_modifier/Hidden).*
 
 ## Acerca de
@@ -29,7 +29,7 @@ tags:
 
 ## Descripción
 
-El mod **Flashlight** es un [modificador de juego](/wiki/Gameplay/Game_modifier) que tiene como objetivo aumentar artificialmente la dificultad de un [beatmap](/wiki/Beatmap) al limitar el área visible de la pantalla.
+El mod **Flashlight** es un [modificador del juego](/wiki/Gameplay/Game_modifier) que tiene como objetivo aumentar artificialmente la dificultad de un [beatmap](/wiki/Beatmap) al limitar el área visible de la pantalla.
 
 ### osu!
 

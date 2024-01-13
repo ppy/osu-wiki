@@ -13,7 +13,7 @@ tags:
 
 ![Icono del mod SV2](/wiki/shared/mods/SV2.png "Icono del mod ScoreV2 (SV2)")
 
-*Para una lista completa de mods, véase: [Modificador de juego](/wiki/Gameplay/Game_modifier)*\
+*Para una lista completa de mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*\
 *No debe confundirse con [Puntuación](/wiki/Gameplay/Score) o [ScoreV1](/wiki/Gameplay/Score/ScoreV1).*
 
 ## Acerca de
