@@ -10,7 +10,7 @@ BN 申请程序于 [BN 官网](http://bn.mappersguild.com/bnapps)进行。
 
 BN 申请者必须达到以下标准：
 
-- 作为 [osu!](/wiki/Game_mode/osu!) 模式的摸图员，至少获取 200 个 [kudosu](/wiki/Modding/Kudosu)；作为 [osu!taiko](/wiki/Game_mode/osu!taiko)/[osu!catch](/wiki/Game_mode/osu!catch)/[osu!mania](/wiki/Game_mode/osu!mania) 的摸图员，至少获取 150 个 [kudosu](/wiki/Modding/Kudosu)。
+- 至少获取 150 个 [kudosu](/wiki/Modding/Kudosu)。
 - 提交 3 个让评审员觉得申请者有资格成为 BN 的摸（俗称上狗摸）。
   - 前 BN/NAT 成员在申请时，只需要至少提交 2 个摸。
 
@@ -74,7 +74,7 @@ BN 申请者必须达到以下标准：
 
 然后，评估员将会根据讨论结果和评论，通过[审核评估团队 (NAT) 机器人](https://osu.ppy.sh/users/6616586)给申请者以[公告消息](/wiki/Announcement_messages)的方式发送反馈意见。随后评估结果将存档供未来使用。如果申请者成功通过，将在反馈结果发送后立即添加为见习 BN。
 
-如果申请者的[申请失败](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator#申请失败)，NAT 还将确定申请者可再次发出申请之前的[冷却期](#申请失败)。如果申请者的冷却期被缩短，NAT 将会在反馈意见中指出。
+如果申请者[申请失败](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator#申请失败)，NAT 还将确定申请者可再次发出申请之前的[冷却期](#申请失败)。如果申请者的冷却期被缩短，NAT 将会在反馈意见中指出。
 
 ## 冷却期
 
@@ -82,30 +82,27 @@ BN 申请者必须达到以下标准：
 
 ### 申请失败
 
-申请者在申请 BN 失败后，再次提交申请前需满足以下要求：
+如果你申请 BN 失败，在你再次提交申请前，需要经过一段冷静期：
 
-| 种类 | 冷却期 |
-| :-- | :-- |
-| 常规 (Standard) | 90 天 |
-| 缩短 (Reduced) | 45-60 天 |
-| 未通过 [BN 考试](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) | 30 天 |
-
-如果申请者申请失败，但是申请者几乎快达到了通过条件时，冷却期限可能会根据情况缩短。
-
-### 在离开 BN 团队后重新加入
-
-对于离开 BN 团队后重新加入玩家，和第一次加入的玩家的要求不太一样。如果玩家在离开团队之前表现良好，他们在重回团队时的要求可能会适当放宽，甚至可以无要求直接加入。NAT 会提示那些能够快速返回 BN 团队的玩家。
-
-如果申请者曾任 BN，适用下表的这些要求。但是如果申请者在曾任 BN 后还未通过 BN 考试，则不适用下表的要求。
-
-| 种类 | 冷却期 | 活跃度要求 |
+| 种类 | 冷却期 | 用途 |
 | :-- | :-- | :-- |
-| 常规 (Standard) | 60 天 | *无* |
-| 活跃度不足 (Activity) | 30 天 | 在 60 天内提交 8 条摸 |
-| 良好 (Good) | 30 天 | *无* |
+| 缩短 (Reduced) | 30 天 | 申请还有一点小问题，或是未通过 [BN 考试](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) |
+| 常规 (Standard) | 60 天 | 常规 |
+| 延长 (Extended) | 120 天 | 申请者有严重的行为问题 |
 
-任何游戏模式下，因活跃度不足而撤职的 BN，想要重回团队时，都需要完成 8 条摸的要求。
+### 在离开 BN 团队后回归
 
-对于在过去 6 个月内正常辞职的前 BN，可以在申请受理后，立即升为正式 BN。无需参加 [BN 考试](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test)和提交用于评估的摸。
+对于离开 BN 团队后回归的玩家，和第一次加入团队的玩家的要求不太一样。如果玩家在离开团队之前表现良好，那么他们在回归团队时，甚至可以无需满足某些要求，直接加入。NAT 会提醒那些符合快速回归 BN 团队条件的玩家。
 
-对于在过去一年内正常辞职的前 BN，想要重回团队时，依旧需要提交申请。但是只要申请通过，他们将立即升为正式 BN。
+如果申请者曾任 BN，适用下表的这些要求。但是如果申请者在曾任 BN 后还未通过 BN 考试，则不适用下表的要求：
+
+| 种类 | 冷却期 | 申请流程 |
+| :-- | :-- | :-- |
+| 良好 (Good) | *无* | *无*[^good-terms] |
+| 常规 (Standard) | 60 天 | 常规 |
+| 活跃度不足 (Activity) | *无* | 常规[^activity-terms] |
+
+## 备注
+
+[^good-terms]: 即使离开 BN 团队的玩家在此之前表现良好，在一年之后也需要遵守标准的流程重新申请。
+[^activity-terms]: 申请者需要在申请中提交 3 个摸，而不是标准要求的 2 个。

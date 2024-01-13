@@ -29,8 +29,8 @@ Vous devez contacter cette équipe pour toute question relative à votre compte 
   - la suppression de vos beatmaps;
   - la suppression des messages et des commentaires sur les forums.
 - Les cas de mauvaise conduite que vous [souhaitez admettre](/wiki/Reporting_bad_behaviour/Handling_foul_play#que-puis-je-faire-si-j'ai-enfreint-les-règles-?).
-- La [perte d'accès à votre email](/wiki/Help_centre/Account#sign-in) lié à votre compte osu!, ou le vol de votre compte.
-- [Modifications mineures ou corrections orthographiques de votre nom d'utilisateurs](/wiki/Help_centre/Account#name-changes).
+- La [perte d'accès à votre email](/wiki/Help_centre/Account#s'inscrire) lié à votre compte osu!, ou le vol de votre compte.
+- [Modifications mineures ou corrections orthographiques de votre nom d'utilisateurs](/wiki/Help_centre/Account#changement-nom-d'utilisateur).
 - [Inscription au programme de comptes robots](/wiki/Bot_account).
 - Demandes d'accès à la [fonctionnalité des messages d'annonce](/wiki/Announcement_messages).
 
