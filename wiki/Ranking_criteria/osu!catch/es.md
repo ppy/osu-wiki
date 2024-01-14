@@ -1,6 +1,6 @@
 # Criterios de clasificación de osu!catch
 
-***Aviso: Este artículo es una extensión de los [criterios generales de clasificación](/wiki/Ranking_criteria).***
+***Aviso: Este artículo es una extensión de los [criterios de clasificación generales](/wiki/Ranking_criteria).***
 
 Este conjunto de **criterios de clasificación de osu!catch** establece [reglas y pautas](/wiki/Ranking_criteria#términos-generales) que los [beatmaps](/wiki/Beatmap) específicos de [osu!catch](/wiki/Game_mode/osu!catch) deben seguir para avanzar en el [procedimiento de clasificación de beatmaps](/wiki/Beatmap_ranking_procedure).
 
@@ -24,7 +24,7 @@ Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!catch.
 #### Pautas
 
 - **Todos los círculos e inicios de sliders deben representar un sonido existente en la música.** Esto suele ser un sonido distintivo, pero también puede representar un sonido continuo con un inicio o final indistinguible.
-- **Los finales de slider de sliders extendidos deben sincronizarse según la estructura rítmica de la canción.** Si la canción utiliza un ritmo básico/cuaternario, se deben usar 1/4, 1/8 y 1/16. Si la canción utiliza un ritmo swing/ternario, se deben usar 1/6 o 1/12. Si la canción tiene un sonido en un snap diferente al recomendado, ajustándolo a uno de los snaps del ritmo usado siempre tiene prioridad.
+- **Los finales de sliders extendidos deben sincronizarse según la estructura rítmica de la canción.** Si la canción usa un ritmo básico/cuaternario, se deben usar 1/4, 1/8 y 1/16. Si la canción usa un ritmo swing/ternario, se deben usar 1/6 o 1/12. Si la canción tiene un sonido en un ajuste diferente al recomendado, el ajuste a un ritmo adecuado siempre tiene prioridad.
 - **No se deben usar [dashes](/wiki/Gameplay/Dash) e [hyperdashes](/wiki/Gameplay/Hyperdash) cuando el destino del dash o hyperdash esté cerca del borde izquierdo o derecho del campo de juego.** Esto crea un movimiento incómodo, ya que el catcher se detiene bruscamente al alcanzar el borde del campo de juego (x:16 a la izquierda y x:496 a la derecha).
 - **Asegúrate de que los [combos](/wiki/Beatmapping/Combo) no sean extremadamente largos.** Las [frutas](/wiki/Gameplay/Hit_object/Fruit) capturadas se apilarán en el plato y pueden obstruir la vista del jugador. Ten en cuenta que los finales de slider, repeticiones de slider y [plátanos](/wiki/Gameplay/Hit_object/Banana) de [spinner](/wiki/Gameplay/Hit_object/Spinner) también cuentan como "frutas". Los combos nuevos deben ser puestos regularmente para vaciar el plato y evitar esto.
 - **Intenta incluir al menos un [spinner](/wiki/Gameplay/Hit_object/Spinner) en cada dificultad para crear variedad en el beatmap y fluctuación entre las puntuaciones obtenidas.** Sin embargo, si un spinner no encaja en ninguna parte de la canción, no es necesario forzar su uso.
@@ -120,7 +120,7 @@ Las reglas y pautas para las dificultades específicas solo aplican al nivel que
 #### Reglas
 
 - **Los [hyperdashes](/wiki/Gameplay/Hyperdash) deben tener al menos un espacio de 125 ms entre sus dos objetos.**
-- **Los [hyperdashes](/wiki/Gameplay/Hyperdash) no pueden usarse en [gotas](/wiki/Gameplay/Hit_object/Juice_stream#drop) individuales y/o repeticiones de sliders.** La precisión y control requeridos son poco razonables en este nivel y pueden crear una situación donde el jugador potencialmente no pueda leer la trayectoria del slider.
+- **Los [hyperdashes](/wiki/Gameplay/Hyperdash) no pueden usarse en [gotas](/wiki/Gameplay/Hit_object/Juice_stream#gota) individuales y/o repeticiones de sliders.** La precisión y control requeridos son poco razonables en este nivel y pueden crear una situación donde el jugador potencialmente no pueda leer la trayectoria del slider.
 - **No se pueden usar [hyperdashes](/wiki/Gameplay/Hyperdash) de un ritmo diferente entre [frutas](/wiki/Gameplay/Hit_object/Fruit) consecutivas.** Por ejemplo, un hyperdash de 1/2 seguido de un hyperdash de 1/4.
 - **Los [hyperdashes](/wiki/Gameplay/Hyperdash) de [snap básico](/wiki/Gameplay/Dash_snapping#basic-snapped) no deben usarse más de dos veces entre [frutas](/wiki/Gameplay/Hit_object/Fruit) consecutivas.**
 - **Los [hyperdashes](/wiki/Gameplay/Hyperdash) de [snap alto](/wiki/Gameplay/Dash_snapping#higher-snapped) no deben usarse junto con ningún otro [dash](/wiki/Gameplay/Dash) o hyperdash.**
@@ -183,7 +183,7 @@ Las reglas y pautas para las dificultades específicas solo aplican al nivel que
 
 #### Pautas
 
-- **Los [hyperdashes](/wiki/Gameplay/Hyperdash) solo deben usarse en [gotas](/wiki/Gameplay/Hit_object/Juice_stream#drop) y/o repeticiones de sliders cuando la trayectoria del slider sea simple y fácil de seguir.** Esto es para evitar movimientos caóticos o irrazonablemente difíciles de hacer un dash, ya que la transición hacia y desde de formas de slider complejas con hyperdash suele ser incómoda de jugar y conlleva una penalización significativa en precisión por poco beneficio.
+- **Los [hyperdashes](/wiki/Gameplay/Hyperdash) solo deben usarse en [gotas](/wiki/Gameplay/Hit_object/Juice_stream#gota) y/o repeticiones de sliders cuando la trayectoria del slider sea simple y fácil de seguir.** Esto es para evitar movimientos caóticos o irrazonablemente difíciles de hacer un dash, ya que la transición dentro y fuera de formas complejas de sliders con hyperdash suele ser incómoda para jugar, y conlleva a una penalización significativa en la precisión por poco beneficio.
 - **Los [hyperdashes](/wiki/Gameplay/Hyperdash) de 1/8 y superiores no deben usarse entre pares de objetos consecutivos.**
 - **Los [edge dashes](/wiki/Gameplay/Edge_dash) pueden usarse con precaución para un máximo de tres objetos consecutivos y no deben usarse después de [hyperdashes](/wiki/Gameplay/Hyperdash).**
 - **Los [combos](/wiki/Beatmapping/Combo) no deben exceder los 16 objetos, incluyendo los finales y repeticiones de los sliders.** Los [spinners](/wiki/Gameplay/Hit_object/Spinner) son una excepción.
@@ -191,6 +191,6 @@ Las reglas y pautas para las dificultades específicas solo aplican al nivel que
 
 #### Pautas para la configuración de la dificultad
 
-- La Velocidad de Aproximación ([Approach Rate](/wiki/Beatmap/Approach_rate)) / Dificultad General ([Overall Difficulty](/wiki/Beatmap/Overall_difficulty)) deberían ser entre 8 y 10.
+- La [velocidad de aproximación](/wiki/Beatmap/Approach_rate) / [dificultad general](/wiki/Beatmap/Overall_difficulty) deberían ser entre 8 y 10.
 - La [tasa de drenaje de HP](/wiki/Beatmap/HP_drain_rate) debería ser entre 5 y 7.
 - El [tamaño del círculo](/wiki/Beatmap/Circle_size) debería ser entre 3 y 6.
