@@ -5,7 +5,7 @@ tags:
 
 # Nomination Assessment Team
 
-*See also: [Beatmap Nominator evaluations](Evaluations), [SEV rating](SEV_rating)*
+*See also: [Beatmap Nominator evaluations](Evaluations)*
 
 The **Nomination Assessment Team** (***NAT***) is a team that moderates the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*) and ensures the beatmapping side of osu! stays functional.
 
@@ -39,7 +39,7 @@ NAT members assigned to the structural category are not responsible for any spec
 - **Miscellaneous maintenance**: Included but not limited to:
   - Handling [vetoes](/wiki/People/Beatmap_Nominators/Beatmap_Veto).
   - Maintaining the [RC Test](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test).
-  - Judging nomination reset [severity](SEV_rating).
+  - Judging impact of nomination resets.[^impact-rating]
 
 NAT members who are primarily handling this category make sure that BNs and other members of the mapping/modding community remain informed and feel heard, in addition to maintaining the components required to keep everything running in the mapping/modding scene. Users belonging to this category are made up of experienced evaluators that prefer to focus on managerial matters regarding the mapping/modding scene.
 
@@ -65,7 +65,7 @@ NAT members are granted the following benefits:
 
 - **[osu!supporter](/wiki/osu!supporter)**: An osu!supporter tag that lasts for the duration of their team membership.
 - **Tenure badge**: A [profile badge](/wiki/Community/Profile_badge) that displays the number of years they have been in the NAT.
-  ![1 year NAT badge](https://assets.ppy.sh/profile-badges/QAT1y.png "1 year NAT badge") ![2 year NAT badge](https://assets.ppy.sh/profile-badges/QAT2y.jpg "2 year NAT badge") ![3 year NAT badge](https://assets.ppy.sh/profile-badges/QAT3y.jpg "3 year NAT badge") ![4 year NAT badge](https://assets.ppy.sh/profile-badges/QAT4y.jpg "4 year NAT badge") ![5 year NAT badge](https://assets.ppy.sh/profile-badges/QAT5y.jpg "5 year NAT badge")
+  ![1 year NAT badge](https://assets.ppy.sh/profile-badges/NAT1y.png "1 year NAT badge") ![2 year NAT badge](https://assets.ppy.sh/profile-badges/NAT2y.png "2 year NAT badge") ![3 year NAT badge](https://assets.ppy.sh/profile-badges/NAT3y.png "3 year NAT badge") ![4 year NAT badge](https://assets.ppy.sh/profile-badges/NAT4y.png "4 year NAT badge") ![5 year NAT badge](https://assets.ppy.sh/profile-badges/NAT5y.png "5 year NAT badge") ![6 year NAT badge](https://assets.ppy.sh/profile-badges/NAT6y.png "6 year NAT badge") ![7 year NAT badge](https://assets.ppy.sh/profile-badges/NAT7y.png "7 year NAT badge") ![8 year NAT badge](https://assets.ppy.sh/profile-badges/NAT8y.png "8 year NAT badge") ![9 year NAT badge](https://assets.ppy.sh/profile-badges/NAT9y.png "9 year NAT badge") ![10 year NAT badge](https://assets.ppy.sh/profile-badges/NAT10y.png "10 year NAT badge")
 - **[Nomination](/wiki/Beatmap_ranking_procedure#nominations) count badge**: A profile badge awarded when reaching certain nomination count milestones.
   ![200 nominations badge](https://assets.ppy.sh/profile-badges/noms200.png?2023 "200 nominations badge") ![400 nominations badge](https://assets.ppy.sh/profile-badges/noms400.png?2023 "400 nominations badge") ![600 nominations badge](https://assets.ppy.sh/profile-badges/noms600.png?2023 "600 nominations badge") ![800 nominations badge](https://assets.ppy.sh/profile-badges/noms800.png?2023 "800 nominations badge") ![1000 nominations badge](https://assets.ppy.sh/profile-badges/noms1000.png?2023 "1000 nominations badge")
 - **[Elite Nominator](/wiki/People/Elite_Nominators) eligibility**: NAT members who exceptionally perform as nominators are eligible to be awarded the yearly Elite Nominator status.
@@ -131,26 +131,27 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 
 | Name | Additional languages |
 | :-- | :-- |
+| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Russian |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonese, Chinese |
-| ::{ flag=GB }:: [ckharv](https://osu.ppy.sh/users/9967026) |  |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portuguese |
+| ::{ flag=GB }:: [ckharv](https://osu.ppy.sh/users/9967026) | Cantonese, Chinese |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portuguese, Spanish |
 | ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Dutch |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | German |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Chinese |
 | ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581) | Korean |
 | ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Cantonese, Chinese |
+| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Chinese, Cantonese |
 | ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Chinese |
-| ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  |
 | ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | Spanish, French |
-| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Dutch |
 
 #### osu!taiko
 
 | Name | Additional languages |
 | :-- | :-- |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Arabic, French, some Italian |
+| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  |
+| ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | Chinese |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Arabic, French |
 | ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Portuguese |
 | ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | German, some French |
 
@@ -170,7 +171,7 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamese |
 | ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | Chinese |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesian |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Spanish, Catalan |
+| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Catalan, Spanish |
 | ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | Danish |
 
 ### Structural
@@ -189,16 +190,18 @@ The following NAT members are primarily evaluators, but also contribute to struc
 | User | Task |
 | :-- | :-- |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | BN Mentorship organisation |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Handling user reports and osu! [SEV ratings](/wiki/People/Nomination_Assessment_Team/SEV_rating) |
+| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Handling user reports |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Handling content reports |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | [Nomination Planner](https://bnplanner.greaper.net/beatmaps) and [osu!catch MV plugin](https://github.com/Darius-Wattimena/MapsetChecksCatch) development |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | NAT Leadership, [BN Management website](https://bn.mappersguild.com) and [osu!taiko MV plugin](https://github.com/Hiviexd/MVTaikoChecks) development |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | BN events organisation |
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | [osu!mania MV plugin](https://github.com/MChecaH/ManiaCheck) development |
-| ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) | [Ranking criteria test](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) maintenance |
 | ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | [osu!mania MV plugin](https://github.com/MChecaH/ManiaCheck) development |
-| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Handling user reports |
 
 ---
 
 In addition, the [Nomination Assessment Team bot](https://osu.ppy.sh/users/6616586) acts as a proxy for the NAT to collectively deliver messages under one user account without directly attributing them to anyone. It may be used for evaluation responses, mock evaluations, mediations, reports, and content reviews, along any other miscellaneous purposes.
+
+## Notes
+
+[^impact-rating]: This process involves checking each nomination reset and assigning it a "minor" or "notable" label for future reference in evaluations.

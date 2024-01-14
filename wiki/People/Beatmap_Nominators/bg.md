@@ -60,7 +60,7 @@ tags:
 | ::{ flag=GB }:: [Aistre](https://osu.ppy.sh/users/4879380) |  |
 | ::{ flag=NZ }:: [Akito](https://osu.ppy.sh/users/5716327) | японски |
 | ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | Италиански |
-| ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) | |
+| ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) |  |
 | ::{ flag=KR }:: [Beomsan](https://osu.ppy.sh/users/3626063) | корейски |
 | ::{ flag=TW }:: [bossandy](https://osu.ppy.sh/users/360437) | Китайски |
 | ::{ flag=CL }:: [Cris-](https://osu.ppy.sh/users/6175280) | испански |
@@ -119,7 +119,7 @@ tags:
 | ::{ flag=FI }:: [TheKingHenry](https://osu.ppy.sh/users/5128277) | финландски |
 | ::{ flag=TH }:: [timemon](https://osu.ppy.sh/users/2072005) | тайландски |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) |  |
-| ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) | |
+| ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) |  |
 | ::{ flag=FR }:: [Xahlt](https://osu.ppy.sh/users/13466351) | Френски |
 | ::{ flag=US }:: [Yahuri](https://osu.ppy.sh/users/4682629) |  |
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  |

@@ -35,7 +35,7 @@ En caso de duda, trata de adaptarte a los valores colectivos compartidos por la 
 - **contenido erótico o muestras gráficas de sexualidad**
 - **ejemplos de uso, preparación o identificación con la subcultura de las drogas ilícitas**[^drug-nature]
 - **representaciones de contenido político, cultural, religioso o social deliberadamente incendiario**
-- **imágenes que representen comportamientos suicidas o autolesivos, incluida la preparación o intentos inminentes**
+- **imágenes que representen conductas suicidas o autolesivas, incluida la preparación o intentos inminentes**
 
 Además, las imágenes o los elementos visuales que puedan considerarse razonablemente de mala calidad (ya sea en cuanto a la calidad objetiva de la imagen o a la composición/creación subjetiva) también podrían no permitirse en un beatmap en los casos en que no estén directamente relacionados con ningún tema relevante.
 
