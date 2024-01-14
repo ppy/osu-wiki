@@ -25,10 +25,10 @@ Lista de mai jos conține o înșiruire cuprinzătoare asupra **stării actuale*
 | Arhitectură multithread | ![Nu][false] | ![Da][true] |
 | Video cu accelerare hardware | ![Nu][false] | ![Da][true] |
 | Scalare UI | ![Nu][false] | ![Da][true] |
-| Reguli personalizate (moduri de joc) | ![Nu][false] | ![Parțial][partial][^dll] |
+| Reguli personalizate (mod-uri de joc) | ![Nu][false] | ![Parțial][partial][^dll] |
 | Stocare de fişiere deduplicate | ![Nu][false] | ![Da][true][^share-files] |
 | Ajustare zonă tabletă | ![Nu][false] | ![Da][true] |
-| Suport pentru mai multe rapoarte de aspect | ![Nu][false] | ![Da][true] |
+| Suport pentru mai multe proporții | ![Nu][false] | ![Da][true] |
 
 ### UI și skinning
 
@@ -60,10 +60,10 @@ Lista de mai jos conține o înșiruire cuprinzătoare asupra **stării actuale*
 | Mod-uri noi „interesante” | ![Nu][false] | ![Da][true] |
 | Normalizarea[^normalisation] culorii combo-ului | ![Nu][false] | ![Da][true] |
 | Tastă pentru a afișa temporar HUD-ul | ![Nu][false] | ![Da][true][^hold-for-hud] |
-| Calibrarea offset-ului per beatmap | ![Parțial][partial][^offset-calibration-stable] | ![Da][true][^offset-calibration-lazer] |
-| Slidere osu! „șarpe” în timp ce sunt apăsate | ![Nu][false] | ![Da][true][^can-disable] |
+| Calibrarea offset-ului per-beatmap | ![Parțial][partial][^offset-calibration-stable] | ![Da][true][^offset-calibration-lazer] |
+| Extinderea graduală a slider-elor în timp ce sunt apăsate | ![Nu][false] | ![Da][true][^can-disable] |
 | „notelock” evitabil de jucător | ![Nu][false] | ![Da][true][^note-lock] |
-| Culoarea notelor bazată pe sincronizare în osu!mania și osu! | ![Nu][false] | ![Da][true] |
+| Culoarea notelor după măsură în osu!mania și osu! | ![Nu][false] | ![Da][true] |
 | Redare înainte/înapoi a reluărilor | ![Nu][false] | ![Da][true] |
 | Redare comentarii în stilul [Niconico](https://en.wikipedia.org/wiki/Niconico) | ![Da][true] | ![Nu][false] |
 
@@ -83,7 +83,7 @@ Lista de mai jos conține o înșiruire cuprinzătoare asupra **stării actuale*
 | Număr nelimitat de jucători în multiplayer | ![Nu][false][^multi-room-max] | ![Da][true] |
 | Spectator multiplayer | ![Nu][false] | ![Da][true] |
 | Cronometru cu numărătoare inversă | ![Parțial][partial][^countdown-timers-stable] | ![Da][true][^countdown-timers-lazer] |
-| Moduri diferite pentru cozi | ![Nu][false] | ![Da][true][^queue-modes] |
+| Mod-uri diferite pentru cozi | ![Nu][false] | ![Da][true][^queue-modes] |
 | Comenzi multiplayer | ![Da][true] | ![Nu][false] |
 | Tag co-op | ![Da][true] | ![Nu][false] |
 | Playlist-uri (clasamente selectate de jucători) | ![Nu][false] | ![Da][true] |
@@ -181,7 +181,7 @@ Da. Imediat cum terminăm balansarea scorurilor combinate din lazer și stable, 
 
 #### Toate mod-urile vor fi clasate?
 
-Pentru moment, scorurile realizate cu orice combinație de moduri vor fi vizibile în clasamente. Aspectul dacă scorurile vor da puncte de performanță cu toate mod-urile (și dacă da, dacă va exista un bonus sau o penalizare) este încă în discuție.
+Pentru moment, scorurile realizate cu orice combinație de mod-uri vor fi vizibile în clasamente. Aspectul dacă scorurile vor da puncte de performanță cu toate mod-urile (și dacă da, dacă va exista un bonus sau o penalizare) este încă în discuție.
 
 #### Nu-mi plac noile mecanici de joc. Pot să folosesc vechile mecanici de joc precum în stable?
 
@@ -241,7 +241,7 @@ Chiar dacă osu! poate să pară un joc simplu, sunt zeci și sute de funcții �
 
 Un alt aspect care ne-a luat foarte mult din timp este prezervarea istorică - trebuie să ne asigurăm ca beatmap-urile se comportă și rulează exact așa cum ar trebui, incluzând cazuri care nu au fost plănuite inițial. osu! este un ecosistem vibrant iar utilizatorii au dus capacitățile jocului mai departe decât credeam și suntem în continuare dispuși să încurajăm asta.
 
-În final, spre deosebire de iterația anterioară, ne asigurăm că baza codului este prezervată cu atenție și menținută cumsecade pentru viitor. Am pus bazele acestea pentru a putea implementa funcții noi mai repede, precum componente UI, modalități diferite de skinning, mai multe sisteme multiplayer și nu în cele din urmă posibilitatea să joci beatmap-urile tale favorite pe diferite moduri de joc!
+În final, spre deosebire de iterația anterioară, ne asigurăm că baza codului este prezervată cu atenție și menținută cumsecade pentru viitor. Am pus bazele acestea pentru a putea implementa funcții noi mai repede, precum componente UI, modalități diferite de skinning, mai multe sisteme multiplayer și nu în cele din urmă posibilitatea să joci beatmap-urile tale favorite pe diferite mod-uri de joc!
 
 #### Ce urmează?
 
@@ -253,16 +253,16 @@ Nu există un dosar de melodii în lazer! Asta ne oferă posibilitatea să elimi
 
 Dacă trebuie să modifici ceva la un beatmap, te rugăm să folosești editorul. În viitor vom adăuga o funcție în editor pentru a putea vedea temporar dosarul cu beatmap-uri pentru a putea fi modificat. Asta îți va permite să folosești programe externe pe un beatmap.
 
-#### Acum că „osu!direct” este disponibil pentru toți jucătorii, ce se întâmplă cu cei care au supporter? Vor primii beneficii noi?
+#### Acum că „osu!direct” este disponibil pentru toți jucătorii, ce se întâmplă cu cei care au suporter? Vor primii beneficii noi?
 
-Niște filtre în osu!direct sunt disponibile doar pentru supporteri.
+Niște filtre în osu!direct sunt disponibile doar pentru suporteri.
 
 Pe lângă asta, suporterii mai au niște funcții deja implementate.
 
 - Suporterii pot crea playlist-uri care durează mai mult.
 - Suporterii pot activa storyboard-uri în meniul principal.
 
-Suntem interesați să adăugăm mai multe beneficii în viitor, dar momentan lucrăm să aducem mai multe funcții din stable în lazer, așa că te rugăm să iei în considerare cumpărarea tag-ului de supporter.... ca un semn de susținere a jocului!
+Suntem interesați să adăugăm mai multe beneficii în viitor, dar momentan lucrăm să aducem mai multe funcții din stable în lazer, așa că te rugăm să iei în considerare cumpărarea tag-ului de suporter.... ca un semn de susținere a jocului!
 
 #### Dacă trișez în lazer voi lua ban?
 
