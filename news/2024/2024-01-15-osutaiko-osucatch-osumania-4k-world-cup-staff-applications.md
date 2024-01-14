@@ -18,7 +18,7 @@ Please note that if you are accepted into either team, you will not be eligible 
 
 ## osu!taiko World Cup 2024
 
-The osu!taiko World Cup mappooling team headed by [Nurend](https://osu.ppy.sh/users/9905079) and [Raphalge](https://osu.ppy.sh/users/3918650) is looking for **mappers** and **playtesters**. To sign up, follow [this link](https://forms.gle/Z3nR1W8tcY4rCakf8). Player registrations for TWC 2024 are slated to open February 15. 
+The osu!taiko World Cup mappooling team headed by [Nurend](https://osu.ppy.sh/users/9905079) and [Raphalge](https://osu.ppy.sh/users/3918650) is looking for **mappers** and **playtesters**. To sign up, follow [this link](https://forms.gle/Z3nR1W8tcY4rCakf8). Player registrations for TWC 2024 are slated to open February 15.
 
 ## osu!catch World Cup 2024
 
@@ -26,6 +26,7 @@ The osu!catch World Cup mappooling team headed by [wwwww](https://osu.ppy.sh/use
 
 ---
 
-Think you got what it takes to staff for some of the most prestigious tournament series of the game? Then don't waste a second, and submit a form to your preferred World Cup. The osu! World Cup team will forever be grateful for your help with furthering the tournament scene's growth! 
+Think you got what it takes to staff for some of the most prestigious tournament series of the game? Then don't waste a second, and submit a form to your preferred World Cup. The osu! World Cup team will forever be grateful for your help with furthering the tournament scene's growth!
 
 —LeoFLT
+
