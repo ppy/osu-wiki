@@ -26,6 +26,6 @@ The osu!catch World Cup mappooling team headed by [wwwww](https://osu.ppy.sh/use
 
 ---
 
-Think you got what it takes to staff for some of the most prestigious tournament series of the game? Then don't waste a second, and submit a form to your preferred World Cup. The osu! World Cups team will be forever grateful for your help with furthering the tournament scene's growth! 
+Think you got what it takes to staff for some of the most prestigious tournament series of the game? Then don't waste a second, and submit a form to your preferred World Cup. The osu! World Cup team will forever be grateful for your help with furthering the tournament scene's growth! 
 
 —LeoFLT
