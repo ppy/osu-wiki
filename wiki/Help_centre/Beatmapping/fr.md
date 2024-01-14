@@ -42,7 +42,7 @@ Si vous avez encore des problèmes ou si vous voulez plus d'informations à ce s
 
 ## Je suis un osu!supporter mais je n'ai pas 20 places en attente ! {id=téléchargement-slots}
 
-**Le nombre d'emplacements disponibles dépend du nombre de maps classées dont vous disposez. Pour plus de détails, voir [osu!supporter § Augmentation des limites](/wiki/osu!supporter#increased-limits).**
+**Le nombre d'emplacements disponibles dépend du nombre de maps classées dont vous disposez. Pour plus de détails, voir [osu!supporter § Augmentation des limites](/wiki/osu!supporter#augmentation-des-limites).**
 
 ## Ma beatmap/contenu a été téléchargé par un autre utilisateur sans mon consentement, et je veux que la copie illicite soit retirée ! {id=rapport-contenu-dmca}
 
