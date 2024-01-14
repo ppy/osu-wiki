@@ -8,10 +8,10 @@ Sería favorable hacer cursos intensivos de todos los comandos utilizando imáge
 
 ## Para empezar
 
-1. Coloca todos los elementos/imágenes de tu storyboard en la carpeta de canciones de tu mapa y crea una subcarpeta llamada "SB" para ellos.
-2. Accede a tu mapa a través del editor y ve a la pantalla "Design".
-3. Encuentra la marca correcta en la línea de tiempo arriba donde quieres que aparezca el elemento del storyboard, luego haz clic en "Sprite Library" y selecciona tu imagen. Asegúrate de que tu elemento no supere los 800x600 px. Ese es el umbral máximo.
-4. Ahora, selecciona el comando de lo que desea que haga su elemento (Mover, Tamaño, Desvanecer, Girar o Colores) y presiona "+" en "Fotogramas" para colocar un punto para el comando en el momento actual en el que se encuentra. "-" en "Fotogramas" elimina el punto nuevamente y los botones de flechas te permiten saltar entre más puntos en el mismo comando para el mismo elemento SB.
+1. Coloca todos los elementos/imágenes de tu storyboard en la carpeta de canciones de tu mapa y crea una subcarpeta llamada «SB» para ellos.
+2. Accede a tu mapa a través del editor y ve a la pantalla «Design».
+3. Encuentra la marca correcta en la línea de tiempo arriba donde quieres que aparezca el elemento del storyboard, luego haz clic en «Sprite Library» y selecciona tu imagen. Asegúrate de que tu elemento no supere los 800x600 px. Ese es el umbral máximo.
+4. Ahora, selecciona el comando de lo que desea que haga tu elemento (Mover, Tamaño, Desvanecer, Girar o Colores) y presiona «+» en «Fotogramas» para colocar un punto para el comando en el momento actual en el que se encuentra. «-» en «Fotogramas» elimina el punto nuevamente y los botones de flechas te permiten saltar entre más puntos en el mismo comando para el mismo elemento SB.
 5. Ahora busca el punto de tiempo en el que deseas que finalice el comando (más adelante), de modo que tendrás 2 puntos y la línea de color correspondiente entre esos puntos. Verde para Mover, rojo para Tamaño, rosa para Desvanecer, amarillo para Girar y rosa claro para Colores.
 6. En los puntos de comando puedes cambiar los factores de la función manteniendo presionado el botón izquierdo del ratón y moviendo el cursor hacia arriba (factor creciente) o hacia abajo (factor decreciente)
 7. Repite los pasos 3-6 para otros elementos. Para eliminar, usa `Suprimir` o Editar -> Eliminar en el menú superior.
@@ -61,7 +61,7 @@ Para las lecturas, **x/y** son las *propias* coordenadas de tu ratón en el beat
 
 ![Mostrar/Ocultar capas](img/SE_LT_B-ES.png "Mostrar/Ocultar capas")
 
-Estos **deshabilitarán/habilitarán la visualización de capas.** Si no deseas ver la escena de paso (que siempre está encima de la escena de fallo en el editor), desactiva "Pasando" y disfruta de la escena de fallo. Esto es útil cuando desea ver comandos para diferentes objetos pero hay algo en el camino.
+Estos **deshabilitarán/habilitarán la visualización de capas.** Si no deseas ver la escena de paso (que siempre está encima de la escena de fallo en el editor), desactiva «Pasando» y disfruta de la escena de fallo. Esto es útil cuando desea ver comandos para diferentes objetos pero hay algo en el camino.
 
 Todos los interruptores se muestran a continuación:-
 
@@ -72,7 +72,7 @@ Todos los interruptores se muestran a continuación:-
 - Overlay
 - Objetos (desactivado automáticamente)
 
-**Nota:** Objetos > Primer plano > Pasando/Fallando > Fondo, donde ">" bloquea esa capa. Además, cualquier objeto nuevo (que no sea de "Compose") introducido se establece en "Primer plano" de forma predeterminada. Para transferir, arrastra y suelta en la pestaña de la capa deseada.
+**Nota:** Objetos > Primer plano > Pasando/Fallando > Fondo, donde «>» bloquea esa capa. Además, cualquier objeto nuevo (que no sea de «Compose») introducido se establece en «Primer plano» de forma predeterminada. Para transferir, arrastra y suelta en la pestaña de la capa deseada.
 
 #### Transformación (basada en el tiempo)
 
@@ -84,7 +84,7 @@ Para usarlos:-
 
 1. Haz clic en el elemento storyboard
 2. Selecciona tu transformación (MTDGC)
-3. Establece una línea de tiempo para la transformación (usa el "+" del control de fotogramas)
+3. Establece una línea de tiempo para la transformación (usa el «+» del control de fotogramas)
 4. Establece el uso del efecto (mueve el ratón hacia arriba o hacia abajo para activarlo)
 5. Aclara y repite.
 
@@ -97,8 +97,8 @@ Para usarlos:-
 | Mover | Traslación de a \[dónde ir (por ejemplo, arriba)\]. |
 | Tamaño | Ampliación proporcional (un cuadrado sigue siendo un cuadrado). |
 | Desvanecer | Desvanecido de entrada/salida. (oscuro vs. brillante) |
-| Girar | Gira una cierta cantidad de "radianes" (no grados). |
-| Colores | Fuerza a la coloración del sprite. Puede cambiar de color gradualmente utilizando un color diferente como punto final. "Efecto permanente". Explicación básica. |
+| Girar | Gira una cierta cantidad de «radianes» (no grados). |
+| Colores | Fuerza a la coloración del sprite. Puede cambiar de color gradualmente utilizando un color diferente como punto final. «Efecto permanente». Explicación básica. |
 
 ##### Efectos adicionales (pasa el cursor sobre la barra izquierda)
 
@@ -115,13 +115,13 @@ Para usarlos:-
 | :-- | :-- |
 | Interpolación | Tienes dos fotogramas clave (es decir, inicio/fin). ¿Quieres animar entre ellos? Si es así, activa Interpolación. Si no, apágalo. |
 | Facilidad Dentro/Fuera | Comienza lento/rápido y luego rápido/lento cerca del punto final. Útil con desvanecido de entrada. |
-| Origen | Punto de origen. Esquina "superior izquierda" o "centro" de la imagen |
+| Origen | Punto de origen. Esquina «superior izquierda» o «centro» de la imagen |
 | Específico de la dificultad | Guarda todos los SB en el archivo `.osu` de esta dificultad en lugar del archivo `.osb`. (Consulta la nota a continuación) |
 
 **Nota:**
 
-- Color: "Efecto permanente", el color que establezcas seguirá vigente incluso después de que finalice su línea de tiempo. Esto es bastante útil para imágenes transparentes.
-- `.osb`: Base de "diseño" (BG, Vídeo, SB) para cada dificultad del beatmap a seguir.
+- Color: «Efecto permanente», el color que establezcas seguirá vigente incluso después de que finalice su línea de tiempo. Esto es bastante útil para imágenes transparentes.
+- `.osb`: Base de «diseño» (BG, Vídeo, SB) para cada dificultad del beatmap a seguir.
 - `.osu`: Archivo de dificultad específica. Contiene *mucha* información.
 
 ### Centro (storyboard del beatmap)
@@ -132,15 +132,15 @@ Esta es la **representación visual del storyboard y los cambios basados ​​e
 
 ![Lista de objetos SB utilizados en el beatmap en diferentes capas condicionales](img/SE_OBJ.jpg "Lista de objetos SB utilizados en el beatmap en diferentes capas condicionales")
 
-**Lista de objetos SB en sus respectivas capas**. Para agregar los objetos SB, haga clic en "Sprite Library". Para asignar el nuevo sprite (objeto SB), simplemente arrastra y suelta en la capa respectiva. Los nuevos sprites están en la capa "Primer plano" de forma predeterminada. Al hacer clic en el nombre del objeto, se mostrará y se reenviará a la ubicación y el período de tiempo del objeto. Los duplicados usan el mismo nombre que el sprite original. Para eliminar, usa `Suprimir` o Editar -> Eliminar en el menú superior.
+**Lista de objetos SB en sus respectivas capas**. Para agregar los objetos SB, haga clic en «Sprite Library». Para asignar el nuevo sprite (objeto SB), simplemente arrastra y suelta en la capa respectiva. Los nuevos sprites están en la capa «Primer plano» de forma predeterminada. Al hacer clic en el nombre del objeto, se mostrará y se reenviará a la ubicación y el período de tiempo del objeto. Los duplicados usan el mismo nombre que el sprite original. Para eliminar, usa `Suprimir` o Editar -> Eliminar en el menú superior.
 
-**Nota:** Objetos > Primer plano > Pasando/Fallando > Fondo, donde ">" bloquea esa capa.
+**Nota:** Objetos > Primer plano > Pasando/Fallando > Fondo, donde «>» bloquea esa capa.
 
 #### Librería de sprites
 
 ![Representación visual del sprite utilizado.](img/SE_SL-ES.png "Representación visual del sprite utilizado.")
 
-Haz clic en el botón "Browse..." para buscar el objeto que deseas usar. Puedes duplicar el objeto haciendo clic en su miniatura en la ventana de la librería de sprites.
+Haz clic en el botón «Browse...» para buscar el objeto que deseas usar. Puedes duplicar el objeto haciendo clic en su miniatura en la ventana de la librería de sprites.
 
 ### Abajo (línea de tiempo de reproducción)
 
