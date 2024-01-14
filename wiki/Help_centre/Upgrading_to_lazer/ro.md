@@ -253,7 +253,7 @@ Nu există un dosar de melodii în lazer! Asta ne oferă posibilitatea să elimi
 
 Dacă trebuie să modifici ceva la un beatmap, te rugăm să folosești editorul. În viitor vom adăuga o funcție în editor pentru a putea vedea temporar dosarul cu beatmap-uri pentru a putea fi modificat. Asta îți va permite să folosești programe externe pe un beatmap.
 
-#### Acum că „osu!direct” este disponibil pentru toți jucătorii, ce se întâmplă cu cei care au suporter? Vor primii beneficii noi?
+#### Acum că „osu!direct” este disponibil pentru toți jucătorii, ce se întâmplă cu cei care au suporter? Vor primi beneficii noi?
 
 Niște filtre în osu!direct sunt disponibile doar pentru suporteri.
 
