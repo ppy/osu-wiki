@@ -77,7 +77,6 @@ The osu!mania 7K World Cup 2024 is run by the osu! team and various community me
 | ::{ flag=FR }:: | **France** | **[Milla\[Monkey\]](https://osu.ppy.sh/users/6264519)**, [Jerem\[Monkey\]](https://osu.ppy.sh/users/13431947), [Elementaires](https://osu.ppy.sh/users/2284328), [Mokett](https://osu.ppy.sh/users/14535598) |
 | ::{ flag=DE }:: | **Germany** | **[TsukiyaWhiskers](https://osu.ppy.sh/users/12598261)**, [sinkip](https://osu.ppy.sh/users/4373641), [susher](https://osu.ppy.sh/users/8884753), [Vincus](https://osu.ppy.sh/users/16124906) |
 | ::{ flag=GT }:: | **Guatemala** | **[Votchis](https://osu.ppy.sh/users/14862011)**, [ChichanN](https://osu.ppy.sh/users/29436746), [KuranteFanBoy](https://osu.ppy.sh/users/28764122) |
-| ::{ flag=HK }:: | **Hong Kong** | **[\[-ACG-Gamer-\]](https://osu.ppy.sh/users/8936568)**, [zec](https://osu.ppy.sh/users/20809032) |
 | ::{ flag=ID }:: | **Indonesia** | **[Onta\_Bekasi](https://osu.ppy.sh/users/8677684)**, [Dominance-](https://osu.ppy.sh/users/4702061), [\[LynX\]](https://osu.ppy.sh/users/13408635), [Vylence](https://osu.ppy.sh/users/13450592) |
 | ::{ flag=IQ }:: | **Iraq** | **[CIRNO ET](https://osu.ppy.sh/users/26329578)**, [The\_SMasher\_sni](https://osu.ppy.sh/users/29613861) |
 | ::{ flag=IT }:: | **Italy** | **[\[WtO1\]kaeleb](https://osu.ppy.sh/users/13043194)**, [Lorak\_80](https://osu.ppy.sh/users/20028293) |
