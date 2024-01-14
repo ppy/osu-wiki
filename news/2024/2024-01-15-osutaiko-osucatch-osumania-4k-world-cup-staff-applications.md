@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!taiko and osu!catch World Cup 2024 Staff Applications"
+title: osu!taiko and osu!catch World Cup 2024 Staff Applications
 date: 2024-01-15 12:00:00 +0000
 ---
 
