@@ -14,7 +14,7 @@ Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!catch.
 
 - **Tu beatmap debe ser teóricamente posible de obtener una SS.** Esto significa que debe ser posible capturar absolutamente todas las [frutas](/wiki/Gameplay/Hit_object/Fruit), [gotas](/wiki/Gameplay/Hit_object/Juice_stream#drop) y [gotitas](/wiki/Gameplay/Hit_object/Juice_stream#droplet).
 - **Cada beatmap debe utilizar al menos dos [colores de combo](/wiki/Beatmapping/Combo_colour) diferentes, a menos que se fuerce el uso del skin por defecto.** Los colores de combo no deben mezclarse con el fondo, storyboard o video del beatmap en ningún caso. Esto garantiza que los objetos sean siempre visibles para el jugador y que los colores de combo del skin personalizado no se mezclen accidentalmente con el fondo.
-- **No utilices keysounds sin el soporte de hitnormal.** Si los sonidos se mezclan perfectamente con la canción, el feedback recibido por capturar notas es mínimo.
+- **No utilices keysounds sin el soporte de sonidos hitnormal.** Si los sonidos se mezclan perfectamente con la canción, el feedback recibido por capturar notas es mínimo.
 - **Si el [tiempo de drenaje](/wiki/Beatmap/Drain_time) de cada dificultad es...**
   - **...menos de 2:30**, la dificultad más baja no puede ser más difícil que una Salad.
   - **...entre 2:30 y 3:15**, la dificultad más baja no puede ser más difícil que una Platter.
