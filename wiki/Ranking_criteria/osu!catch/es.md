@@ -86,7 +86,7 @@ Las reglas y pautas para las dificultades específicas solo aplican al nivel que
 #### Pautas para la configuración de la dificultad
 
 - La Velocidad de Aproximación ([Approach Rate](/wiki/Beatmap/Approach_rate)) / Dificultad General ([Overall Difficulty](/wiki/Beatmap/Overall_difficulty)) deberían ser entre 4 y 6.
-- La Tasa de drenaje de HP ([HP Drain Rate](/wiki/Beatmap/HP_drain_rate)) debería ser entre 2 y 3.
+- La Tasa de Drenaje de HP ([HP Drain Rate](/wiki/Beatmap/HP_drain_rate)) debería ser entre 2 y 3.
 - El Tamaño del círculo ([Circle Size](/wiki/Beatmap/Circle_size)) debería ser entre 2 y 3.
 
 ### ![](/wiki/shared/diff/normal-c.png?20211215) Salad
@@ -112,8 +112,8 @@ Las reglas y pautas para las dificultades específicas solo aplican al nivel que
 #### Pautas para la configuración de la dificultad
 
 - La Velocidad de Aproximación ([Approach Rate](/wiki/Beatmap/Approach_rate)) / Dificultad General ([Overall Difficulty](/wiki/Beatmap/Overall_difficulty)) deberían ser entre 6 y 7.
-- La Tasa de drenaje de HP ([HP Drain Rate](/wiki/Beatmap/HP_drain_rate)) debería ser entre 3 y 4.
-- El Tamaño del círculo ([Circle Size](/wiki/Beatmap/Circle_size)) debería ser entre 2.5 y 3.5.
+- La Tasa de Drenaje de HP ([HP Drain Rate](/wiki/Beatmap/HP_drain_rate)) debería ser entre 3 y 4.
+- El Tamaño del Círculo ([Circle Size](/wiki/Beatmap/Circle_size)) debería ser entre 2.5 y 3.5.
 
 ### ![](/wiki/shared/diff/hard-c.png?20211215) Platter
 
@@ -143,7 +143,7 @@ Las reglas y pautas para las dificultades específicas solo aplican al nivel que
 #### Pautas para la configuración de la dificultad
 
 - La Velocidad de Aproximación ([Approach Rate](/wiki/Beatmap/Approach_rate)) / Dificultad General ([Overall Difficulty](/wiki/Beatmap/Overall_difficulty)) deberían ser entre 7 y 8.2.
-- La Tasa de drenaje de HP ([HP Drain Rate](/wiki/Beatmap/HP_drain_rate)) debería ser entre 4 y 5.
+- La Tasa de Drenaje de HP ([HP Drain Rate](/wiki/Beatmap/HP_drain_rate)) debería ser entre 4 y 5.
 - El Tamaño del círculo ([Circle Size](/wiki/Beatmap/Circle_size)) debería ser entre 3 y 4.
 
 ### ![](/wiki/shared/diff/insane-c.png?20211215) Rain
@@ -171,7 +171,7 @@ Las reglas y pautas para las dificultades específicas solo aplican al nivel que
 #### Pautas para la configuración de la dificultad
 
 - La Velocidad de Aproximación ([Approach Rate](/wiki/Beatmap/Approach_rate)) / Dificultad General ([Overall Difficulty](/wiki/Beatmap/Overall_difficulty)) deberían ser entre 7 y 9.
-- La Tasa de drenaje de HP ([HP Drain Rate](/wiki/Beatmap/HP_drain_rate)) debería ser entre 5 y 6.
+- La Tasa de Drenaje de HP ([HP Drain Rate](/wiki/Beatmap/HP_drain_rate)) debería ser entre 5 y 6.
 - El Tamaño del círculo ([Circle Size](/wiki/Beatmap/Circle_size)) debería ser entre 3.5 y 4.5.
 
 ### ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
@@ -192,5 +192,5 @@ Las reglas y pautas para las dificultades específicas solo aplican al nivel que
 #### Pautas para la configuración de la dificultad
 
 - La Velocidad de Aproximación ([Approach Rate](/wiki/Beatmap/Approach_rate)) / Dificultad General ([Overall Difficulty](/wiki/Beatmap/Overall_difficulty)) deberían ser entre 8 y 10.
-- La Tasa de drenaje de HP ([HP Drain Rate](/wiki/Beatmap/HP_drain_rate)) debería ser entre 5 y 7.
+- La Tasa de Drenaje de HP ([HP Drain Rate](/wiki/Beatmap/HP_drain_rate)) debería ser entre 5 y 7.
 - El Tamaño del círculo ([Circle Size](/wiki/Beatmap/Circle_size)) debería ser entre 3 y 6.
