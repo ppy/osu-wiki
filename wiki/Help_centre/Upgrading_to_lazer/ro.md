@@ -104,7 +104,7 @@ Lista de mai jos conține o înșiruire cuprinzătoare asupra **stării actuale*
 | Rotire pattern-uri | ![Da][true] | ![Parțial][partial][^editor-precise-rotation] |
 | Redimensionare pattern-uri | ![Nu][false] | ![Da][true] |
 | Încărcare beatmap-uri | ![Da][true] | ![Nu][false] |
-| Editor storyboard| ![Da][true] | ![Nu][false] |
+| Editor storyboard | ![Da][true] | ![Nu][false] |
 | Compatibilitate cu mai multe dispozitive | ![Da][true] | ![Parțial][partial][^incompatibilities] |
 
 ## Mutarea spre lazer
