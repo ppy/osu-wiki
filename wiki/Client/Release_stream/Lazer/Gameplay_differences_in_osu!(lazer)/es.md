@@ -160,11 +160,11 @@ En stable, los slider ends reproducían su respectivo hitsound aunque se fallara
 
 ### Se ha eliminado el límite de velocidad de 477 RPM en los giros de los spinners
 
-En lugar de un límite de velocidad, los spinners ahora tienen un límite de puntuación determinado por la cantidad total de rotaciones que pueden ser logradas al girar el spinner a ciertas RPM dependiendo del OD.
+En lugar de un límite de velocidad, los spinners ahora tienen un límite de puntuación determinado por la cantidad total de rotaciones que se pueden conseguir haciendo girar todo el spinner a una cantidad determinada de RPM dependiendo del OD.
 
 Esto significa que la puntuación máxima puede ser obtenida antes al girar más rápido, sin recibir más puntos en lo que quede del spinner.
 
-La cantidad de RPM requerida para obtener la máxima puntuación se muestra a continuación:
+La cantidad requerida de RPM para obtener la máxima puntuación se muestra a continuación:
 
 | OD | RPM |
 | --: | --: |
