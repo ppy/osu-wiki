@@ -44,7 +44,7 @@ Dacă un membru din echipa de asistență ți-a cerut aceste jurnale, uite cum p
 3. Scrie `release` în bara de căutare rapidă. Asta te va duce la linia de release curentă folosită de client-ul tău.
 4. Asigură-te că este setată pe `Experimental`.
 5. Apasă pe butonul de restart care apare în capătul ecranului dacă ai făcut modificări la linia de release pentru a le aplica.
-6. Du-te din nou în meniul de `Opțiuni` și apasă pe `Deschide folderul osu!`
+6. Du-te din nou în meniul de `Opțiuni` și apasă pe `Deschide directorul osu!`
 7. Găsește directorul `Logs` în fereastra care se deschide.
 8. Selectează fișierul de jurnal necesar (reprezenantul de asistență îți va spune care este) și atașează-l la tichetul de asistență sau la postarea de pe forum.
 
