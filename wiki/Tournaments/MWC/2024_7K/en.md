@@ -207,7 +207,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 | #36 | ::{ flag=LT }:: Lithuania | 289 | 1,395,870 |
 | #37 | ::{ flag=GT }:: Guatemala | 290 | 1,390,298 |
 | #38 | ::{ flag=IQ }:: Iraq | 304 | 1,207,922 |
-| #39 | ::{ flag=CL }:: Chile | DNP | DNP |
+| #39 | ::{ flag=CL }:: Chile | *DNP* | *DNP* |
 
 ## Ruleset
 
