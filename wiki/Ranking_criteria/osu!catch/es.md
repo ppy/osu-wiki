@@ -49,7 +49,7 @@ Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!catch.
 
 ## Dificultades específicas
 
-Las reglas y pautas para las dificultades específicas solo aplican al nivel que está estipulado y por ende, *no aplican a **todas** las dificultades de osu!catch*. Reglas y pautas relacionadas al ritmo aplican para beatmaps de aproximadamente 180 BPM. Si tu canción es drásticamente más rápida o lenta, algunas variables pueden ser diferentes, como se detalla en [Escalado de BPM en los criterios de clasificación](/wiki/Ranking_criteria/Scaling_BPM).
+Las reglas y pautas para las dificultades específicas solo se aplican al nivel de dificultad que se indica y, por lo tanto, *no se aplican a **todas** las dificultades de osu!catch*. Reglas y pautas relacionadas al ritmo aplican para beatmaps de aproximadamente 180 BPM. Si tu canción es drásticamente más rápida o lenta, algunas variables pueden ser diferentes, como se detalla en [Escalado de BPM en los criterios de clasificación](/wiki/Ranking_criteria/Scaling_BPM).
 
 ### Nombre de las dificultades
 
@@ -103,7 +103,7 @@ Las reglas y pautas para las dificultades específicas solo aplican al nivel que
 #### Pautas
 
 - **Todas las distancias deben dejar claro si requieren que el jugador haga un [walk](/wiki/Gameplay/Walk) o un [dash](/wiki/Gameplay/Dash).** Esto es para asegurar que los jugadores puedan reconocer fácilmente patrones que requieran hacer un dash.
-- **Los [dashes](/wiki/Gameplay/Dash) de [snap básico](/wiki/Gameplay/Dash_snapping#basic-snapped) no deben usarse consecutivamente cuando se utilizan ritmos diferentes.** Por ejemplo, un dash de 1/1 seguido de un dash de 1/2.
+- **Los [dashes](/wiki/Gameplay/Dash) de [snap básico](/wiki/Gameplay/Dash_snapping#basic-snapped) no deben usarse consecutivamente cuando se usan ritmos diferentes.** Por ejemplo, un dash de 1/1 seguido de un dash de 1/2.
 - **Los [dashes](/wiki/Gameplay/Dash) de [snap alto](/wiki/Gameplay/Dash_snapping#higher-snapped) no deben ir seguidos de patrones [antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow).**
 - **No se deben usar [spinner traps](/wiki/Gameplay/Spinner_trap).**
 - **Los [combos](/wiki/Beatmapping/Combo) no deben exceder los 10 objetos, incluyendo los finales y repeticiones de los sliders.** Los [spinners](/wiki/Gameplay/Hit_object/Spinner) son una excepción.
