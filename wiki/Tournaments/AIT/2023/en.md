@@ -247,7 +247,7 @@ This competition has come to an end and resulted in the following podium:
 ### General rules
 
 1. Beatmap scoring is based on **[ScoreV2](/wiki/Gameplay/Score#scorev2).**
-2. All matches will be played over a single day in an undisclosed location following the double-elimination system.
+2. All matches will be played over a single day in a location disclosed only to participants and staff, following the double-elimination system.
    - The bracket for the tournament will be randomly generated using [random.org](https://random.org) during the technical meeting.
 3. All matches will be played using the setup provided by the tournament management on the spot.
    - Players are allowed to bring in certain equipments (e.g. keyboard and graphics tablet) and their own device settings should they wish to.
