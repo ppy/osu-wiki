@@ -21,19 +21,19 @@ Alege secțiunea care se potrivește cel mai bine cu problema ta pentru a găsi 
 | :-- | :-- |
 | [Cont](/wiki/Help_centre/Account) | suporter osu!, autentificare și accesare recuperare, modificări nume, date profil |
 | [Restricții cont](/wiki/Help_centre/Account_restrictions) | Totul despre restricții, prezentare generală, proceduri de apel, motive comune și cooldown |
-| [Beatmapping și Editor](/wiki/Help_centre/Beatmapping) | Păstrarea beatmap-urilor tale, proprietatea unui beatmap, slot-uri beatmap |
+| [Beatmapping și Editor](/wiki/Help_centre/Beatmapping) | Păstrarea beatmap-urilor tale, proprietatea unui beatmap, sloturi beatmap |
 | [Client](/wiki/Help_centre/Client) | Bug-uri și crash-uri, gameplay, conexiune, performanță |
 | [Instalare și înregistrare](/wiki/Help_centre/Installation_and_registration) | Descărcarea jocului, crearea unui cont |
 | [Magazin](/wiki/Help_centre/Store) | Produse, osu!go, osu!keyboard, osu!tablet |
 | [Interdicții turnee](/wiki/Help_centre/Tournament_bans) | Totul despre interdicții turnee, prezentare generală, motive comune și cooldown-uri |
 | [Actualizarea la lazer](/wiki/Help_centre/Upgrading_to_lazer) | Migrarea la [următoarea versiune semnificativă](/wiki/Client/Release_stream/Lazer) osu! |
-| [Site](/wiki/Help_centre/Website) | Blocharea utilizatorilor, contactarea suportului, aparența site-ului |
+| [Site](/wiki/Help_centre/Website) | Blocarea utilizatorilor, contactarea suportului, aparența site-ului |
 
 ## Ajută-ne să te ajutăm {id=diagnostics}
 
 ### Fișiere jurnal {id=log-files}
 
-**Fișierele jurnal sunt înregistrări detaliate despre ce face client-ul jocului în orice moment dat. Le putem folosi pentru a determina cauza problemei tale.**
+**Fișierele jurnal sunt înregistrări detaliate despre ce face clientul jocului în orice moment dat. Le putem folosi pentru a determina cauza problemei tale.**
 
 Aceste fișiere sunt extrem de utile și pot face rezolvarea chiar și a problemelor foarte complicate să fie trivială.
 
@@ -41,16 +41,16 @@ Dacă un membru din echipa de asistență ți-a cerut aceste jurnale, uite cum p
 
 1. Deschide osu!.
 2. Apasă pe butonul `Opțiuni` în meniul principal sau apasă `Ctrl` + `O`.
-3. Scrie `release` în bara de căutare rapidă. Asta te va duce la linia de release curentă folosită de client-ul tău.
+3. Scrie `release` în bara de căutare rapidă. Asta te va duce la linia de release curentă folosită de clientul tău.
 4. Asigură-te că este setată pe `Experimental`.
 5. Apasă pe butonul de restart care apare în capătul ecranului dacă ai făcut modificări la linia de release pentru a le aplica.
 6. Du-te din nou în meniul de `Opțiuni` și apasă pe `Deschide folderul osu!`
 7. Găsește directorul `Logs` în fereastra care se deschide.
-8. Selectează fișierul de jurnal necesar (reprezenantul de asistență îți va spune care este) și atașează-l la tichetul de asistență sau la postarea de pe forum.
+8. Selectează fișierul de jurnal necesar (reprezentantul de asistență îți va spune care este) și atașează-l la tichetul de asistență sau la postarea de pe forum.
 
 ### Vizualizator evenimente {id=event-viewer}
 
-**Vizualizatorul de evenimente (Event Viewer) este un instrument incorporat în Windows care poate fi utilizat pentru a găsi jurnalele cu crash-uri când osu! nu ți le poate oferi. Aceste jurnale cu crash-uri pot fi folosite pentru a determina ce cauzează problema ta.**
+**Vizualizatorul de evenimente (Event Viewer) este un instrument încorporat în Windows care poate fi utilizat pentru a găsi jurnalele cu crash-uri când osu! nu ți le poate oferi. Aceste jurnale cu crash-uri pot fi folosite pentru a determina ce cauzează problema ta.**
 
 Atunci când sunt probleme cu osu! crash, dacă osu! nu vă oferă un fișier jurnal cu crash-ul, singurul loc unde poți găsi unul este prin vizualizatorul de evenimente.
 
@@ -67,7 +67,7 @@ Dacă un membru din echipa de asistență ți-a cerut să cauți un fișier jurn
 
 ### Grafic de timp-cadre {id=frame-time-graph}
 
-**Graficul de timp al cadrelor este o funcție osu! care ne ajută să adunăm mai multe informați utile despre problemele de performanță pe care le-ai putea întâmpina.**
+**Graficul de timp al cadrelor este o funcție osu! care ne ajută să adunăm mai multe informații utile despre problemele de performanță pe care le-ai putea întâmpina.**
 
 Când ne confruntăm cu probleme complicate de performanță în osu!, graficul de timp al cadrelor este un instrument bun pentru a ne ajuta să diagnosticăm problema în cauză și pentru a te ajuta să găsești o soluție pentru problema ta.
 
