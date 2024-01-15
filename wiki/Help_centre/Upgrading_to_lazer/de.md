@@ -115,7 +115,7 @@ Im Folgenden findest du eine umfassende Liste des **aktuellen Status** von lazer
 
 Du hast dich also dazu entschieden, lazer auszuprobieren? Super!
 
-Du kannst es [hier](https://github.com/ppy/osu#running-osu) herunterladen. Bald wirst du die Möglichkeit haben, von stable aus zu lazer zu wechseln (über die Einstellung `Updatequelle`). Demnächst ist auch ein Link zum Herunterladen auf der osu!-Webseite zu finden.
+Du kannst es [hier](https://osu.ppy.sh/home/download) herunterladen. Bald wirst du die Möglichkeit haben, von stable aus zu lazer zu wechseln (über die Einstellung `Updatequelle`).
 
 ## Häufig gestellte Fragen
 
@@ -280,7 +280,7 @@ Auf die gleiche Weise, wie du es sonst machen würdest.
 
 Du denkst wahrscheinlich an ein anderes Spiel.
 
-### Anmerkungen
+## Anmerkungen
 
 [^wine]: Mit Wine.
 [^compatibility-mode]: DirectX über den Kompatibilitätsmodus.
