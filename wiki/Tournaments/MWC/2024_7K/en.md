@@ -109,7 +109,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
 
 ### Round of 24
 
-**[Download the mappack here (52 MB)](https://packs.ppy.sh/P233%20-%20osu!mania%207K%20World%20Cup%202024%3A%20Round%20of%2024.zip)**
+**[Download the mappack here (50 MB)](https://packs.ppy.sh/P233%20-%20osu!mania%207K%20World%20Cup%202024%3A%20Round%20of%2024.zip)**
 
 - Rice
   1. [Lime - Luminaria (pwhk) \[Another\]](https://osu.ppy.sh/beatmapsets/1751814#mania/3584159)
