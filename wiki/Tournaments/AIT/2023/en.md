@@ -12,21 +12,21 @@ The **Ascaveth Invitational Tournament 2023** was a double-elimination 1v1 invit
 
 ## Tournament schedule
 
-| Event | Timestamp |
+| Event | Timestamp (UTC+07) |
 | --: | :-- |
 | Technical meeting | 2023-12-02 |
-| Opening | 2023-12-09 (08:00 UTC +7) |
-| Match 1 + Match 2 | 2023-12-09 (09:00 UTC +7) |
-| Match 3 + Match 4 | 2023-12-09 (10:30 UTC +7) |
-| *Break* | 2023-12-09 (11:30 UTC +7) |
-| Match 5U + Match 6U | 2023-12-09 (13:00 UTC +7) |
-| Match 7L + Match 8L | 2023-12-09 (14:15 UTC +7) |
-| Match 9L + Match 10L | 2023-12-09 (15:30 UTC +7) |
-| Match 11L + Match 12U | 2023-12-09 (16:45 UTC +7) |
-| *Break* | 2023-12-09 (18:00 UTC +7) |
-| Match 13L | 2023-12-09 (19:00 UTC +7) |
-| Match 14 (Grand Final) | 2023-12-09 (20:30 UTC +7) |
-| Awarding and Closing | 2023-12-09 (22:00 UTC +7) |
+| Opening | 2023-12-09 (08:00) |
+| Match 1 + match 2 | 2023-12-09 (09:00) |
+| Match 3 + match 4 | 2023-12-09 (10:30) |
+| *Break* | 2023-12-09 (11:30) |
+| Match 5U + match 6U | 2023-12-09 (13:00) |
+| Match 7L + match 8L | 2023-12-09 (14:15) |
+| Match 9L + match 10L | 2023-12-09 (15:30) |
+| Match 11L + match 12U | 2023-12-09 (16:45) |
+| *Break* | 2023-12-09 (18:00) |
+| Match 13L | 2023-12-09 (19:00) |
+| Match 14 (Grand Final) | 2023-12-09 (20:30) |
+| Awarding and closing | 2023-12-09 (22:00) |
 
 For a visual representation of the structure of the matches, refer to [this chart](https://cdn.discordapp.com/attachments/548378597476532236/1186188416887558184/image.png?ex=6592570c&is=657fe20c&hm=35c8f49f33416d7097f54ec783e5bccdd8726b400c74049b388350de6884fee3&),
 
@@ -40,9 +40,9 @@ The Ascaveth Invitational Tournament 2023 offered a prize pool that was built up
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 20% of the accumulated prize pool, physical trophy (courtesy of [Wellen Print](https://wellenprint.com/)), commemorative medal, exclusive players-only merch set |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 15% of the accumulated prize pool, physical trophy (courtesy of [Wellen Print](https://wellenprint.com/)), commemorative medal, exclusive players-only merch set |
 | *4th place* | 10% of the accumulated prize pool, exclusive players-only merch set |
-| *5th-8th place* | 5% of the accumulated prize pool, exclusive players-only merch set |
+| *5th–8th place* | 5% of the accumulated prize pool, exclusive players-only merch set |
 
-As with other osu! tournaments in general, the Ascaveth Invitational Tournament 2023 was not  marked for profit, with all donations and proceeds going directly into the prize pool.
+As with other osu! tournaments in general, the Ascaveth Invitational Tournament 2023 was not marked for profit, with all donations and proceeds going directly into the prize pool.
 
 ## Organisation
 
@@ -210,51 +210,51 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-| Bracket/Match code | Player 1 |  |  | Player 2 | Match link |
+| Bracket/match code | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower/Match 13L | [lifeline](https://osu.ppy.sh/users/11367222) ::{ flag=ID }:: | 1 | **7** | ::{ flag=ID }:: **[DEETO](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/111641719) |
-| Grand Final/Match 14 | **[rHO](https://osu.ppy.sh/users/1629553)** ::{ flag=ID }:: | **7** | 6 | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) | [#1](https://osu.ppy.sh/community/matches/111642879) |
+| Lower/match 13L | [lifeline](https://osu.ppy.sh/users/11367222) ::{ flag=ID }:: | 1 | **7** | ::{ flag=ID }:: **[DEETO](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/111641719) |
+| Grand Final/match 14 | **[rHO](https://osu.ppy.sh/users/1629553)** ::{ flag=ID }:: | **7** | 6 | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) | [#1](https://osu.ppy.sh/community/matches/111642879) |
 
 ### Finals
 
-| Bracket/Match code | Player 1 |  |  | Player 2 | Match link |
+| Bracket/match code | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower/Match 9L | **[DEETO](https://osu.ppy.sh/users/10069909)** ::{ flag=ID }:: | **6** | 1 | ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) | [#1](https://osu.ppy.sh/community/matches/111639091) |
-| Lower/Match 10L | [Fuma](https://osu.ppy.sh/users/1501956) ::{ flag=ID }:: | 4 | **6** | ::{ flag=ID }:: **[Hakui Koyori](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/111639131) |
-| Lower/Match 11L | **[DEETO](https://osu.ppy.sh/users/10069909)** ::{ flag=ID }:: | **6** | 5 | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) | [#1](https://osu.ppy.sh/community/matches/111639900) |
-| Upper/Match 12U | [lifeline](https://osu.ppy.sh/users/11367222) ::{ flag=ID }:: | 3 | **6** | ::{ flag=ID }:: **[rHO](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/111639683) |
+| Lower/match 9L | **[DEETO](https://osu.ppy.sh/users/10069909)** ::{ flag=ID }:: | **6** | 1 | ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) | [#1](https://osu.ppy.sh/community/matches/111639091) |
+| Lower/match 10L | [Fuma](https://osu.ppy.sh/users/1501956) ::{ flag=ID }:: | 4 | **6** | ::{ flag=ID }:: **[Hakui Koyori](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/111639131) |
+| Lower/match 11L | **[DEETO](https://osu.ppy.sh/users/10069909)** ::{ flag=ID }:: | **6** | 5 | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) | [#1](https://osu.ppy.sh/community/matches/111639900) |
+| Upper/match 12U | [lifeline](https://osu.ppy.sh/users/11367222) ::{ flag=ID }:: | 3 | **6** | ::{ flag=ID }:: **[rHO](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/111639683) |
 
 ### Semifinals
 
-| Bracket/Match code | Player 1 |  |  | Player 2 | Match link |
+| Bracket/match code | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper/Match 5U | **[lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | [#1](https://osu.ppy.sh/community/matches/111638406) |
-| Upper/Match 6U | [DEETO](https://osu.ppy.sh/users/10069909) ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **[rHO](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/111638367) |
-| Lower/Match 7L | [Skydiver](https://osu.ppy.sh/users/10069909) ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **[NazunaAmemiya](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/111637354) |
-| Lower/Match 8L | [ThatNOOBGuy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 2 | **5** | ::{ flag=ID }:: **[Hakui Koyori](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/111637200) |
+| Upper/match 5U | **[lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | [#1](https://osu.ppy.sh/community/matches/111638406) |
+| Upper/match6U | [DEETO](https://osu.ppy.sh/users/10069909) ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **[rHO](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/111638367) |
+| Lower/match 7L | [Skydiver](https://osu.ppy.sh/users/10069909) ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **[NazunaAmemiya](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/111637354) |
+| Lower/match 8L | [ThatNOOBGuy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 2 | **5** | ::{ flag=ID }:: **[Hakui Koyori](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/111637200) |
 
 ### Quarterfinals
 
-| Bracket/Match code | Player 1 |  |  | Player 2 | Match link |
+| Bracket/match code | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper/Match 1 | **[lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | [#1](https://osu.ppy.sh/community/matches/111636056) |
-| Upper/Match 2 | [NazunaAmemiya](https://osu.ppy.sh/users/12159899) ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **[Fuma](https://osu.ppy.sh/users/1501956)** | [#1](https://osu.ppy.sh/community/matches/111636028) |
-| Upper/Match 3 | [ThatNOOBGuy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **[DEETO](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/111636056) |
-| Upper/Match 4 | [Hakui Koyori](https://osu.ppy.sh/users/10717635) ::{ flag=ID }:: | 0 | **5** | ::{ flag=ID }:: **[rHO](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/111636056) |
+| Upper/match 1 | **[lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | [#1](https://osu.ppy.sh/community/matches/111636056) |
+| Upper/match 2 | [NazunaAmemiya](https://osu.ppy.sh/users/12159899) ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **[Fuma](https://osu.ppy.sh/users/1501956)** | [#1](https://osu.ppy.sh/community/matches/111636028) |
+| Upper/match 3 | [ThatNOOBGuy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **[DEETO](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/111636056) |
+| Upper/match 4 | [Hakui Koyori](https://osu.ppy.sh/users/10717635) ::{ flag=ID }:: | 0 | **5** | ::{ flag=ID }:: **[rHO](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/111636056) |
 
 ## Ruleset
 
 ### General rules
 
 1. Beatmap scoring is based on **[ScoreV2](/wiki/Gameplay/Score#scorev2).**
-2. All matches will be played over a single day in an undisclosed location following the Double Elimination system.
-   - The bracket for the tournament will be randomly generated using [random.org](https://random.org) during the Technical Meeting.
+2. All matches will be played over a single day in an undisclosed location following the double-elimination system.
+   - The bracket for the tournament will be randomly generated using [random.org](https://random.org) during the technical meeting.
 3. All matches will be played using the setup provided by the tournament management on the spot.
    - Players are allowed to bring in certain equipments (e.g. keyboard and graphics tablet) and their own device settings should they wish to.
 4. With the exception of the Grand Final tiebreaker, the maps and mappools for the tournament will be announced by the tournament management in advance before the event takes place.
 5. Match schedules will be predetermined by the tournament management.
 6. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
-7. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the beatmap regardless of their remaining health at the end.
+7. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are awarded more fairly towards players who perform better in general during the course of the beatmap regardless of their remaining health at the end.
 8. If a player disconnects, the referee will note the score the player had achieved at the end of the beatmap directly from their PC and adjust the outcome of the pick accordingly.
 9. Lag is not a valid reason to nullify a beatmap.
 10. If any problems during the match occur, the tournament management will make a decision based on the referee's report.
@@ -264,7 +264,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Tournament registration
 
-As the tournament was an invitational, there were no open registrations held for the main event. However, as always, testplayers, referees, and mappool selectors may not participate as players in the tournament.
+As the tournament is an invitational, there are no open registrations held for the main event. However, as always, testplayers, referees, and mappool selectors may not participate as players in the tournament.
 
 ### Match instructions
 
@@ -272,14 +272,14 @@ As the tournament was an invitational, there were no open registrations held for
    - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
-2. Each player has to ban **one beatmap** (on the Quarterfinals and the Semifinals) or **two beatmaps** (on the Finals onwards) from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match.
+2. Each player has to ban **one beatmap** (on the Quarterfinals and the Semifinals) or **two beatmaps** (from the Finals onwards) from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match.
    - Barring the tiebreaker, there are no restrictions as to which maps may and may not be banned in a match.
 3. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players who are looking up to warm themselves up before the match are expected to do so by their own during the grace period before the match commences.
 4. **There will be no FreeMod pick in the mappool.** However, in the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled which allows players to play the tiebreaker map with EZ, HR, HD, or any possible combinations of the three mods should they wish to.
    - Playing the tiebreaker map with a mod is *not* mandatory.
 5. Players who can compete in the next round are determined by:
-   - In the Quarterfinals and the Semifinals, each player needs to win 5 points in order to win a match. (Best-of-9)
-   - In the Finals, each player needs to win 6 points in order to win a match. (Best-of-11)
+   - In the Quarterfinals and the Semifinals, each player needs to win 5 points in order to win a match. (Best of 9)
+   - In the Finals, each player needs to win 6 points in order to win a match. (Best of 11)
    - In the Grand Finals weeks, each player needs to win 7 points in order to win a match. (Best of 13)
    - Whether there are players who are declared to win the match by default.
    - Whether there are players who are disqualified from the tournament.
