@@ -8,7 +8,7 @@ Calling all 5 Digits! After a long wait, 5WC is back with higher stakes than eve
 
 ![](/wiki/Tournaments/5WC/2024/img/5wc2024-banner.png)
 
-The 5 Digit World Cup is the annual grand event for players ranked #10,000-99,999 in osu!Standard and features some of the strongest competition osu!'s intermediate tournament scene has to offer. Last year, we received a staggering 2,740 registrations from 69 different countries. Against all odds, Team France (#4) managed to narrowly squeeze out a miracle: **Two** back to back grand finals tiebreaker victories against Team Russia (#2) in a monumental >4 hour match. This came after having defeated an incredibly strong Team Netherlands (#1) in the prior losers bracket grand final. This year, we can't wait to feature both old and new players from around the world and watch them battle it out for the grand prize - the illustrious 5WC 2024 badge, among other rewards!
+The 5 Digit World Cup is the annual grand event for players ranked #10,000-99,999 in osu! and features some of the strongest competition osu!'s intermediate tournament scene has to offer. Last year, we received a staggering 2,740 registrations from 69 different countries. Against all odds, Team France (#4) managed to narrowly squeeze out a miracle: **Two** back to back grand finals tiebreaker victories against Team Russia (#2) in a monumental >4 hour match. This came after having defeated an incredibly strong Team Netherlands (#1) in the prior losers bracket grand final. This year, we can't wait to feature both old and new players from around the world and watch them battle it out for the grand prize - the illustrious 5WC 2024 badge, among other rewards!
 
 ## Changes From 2023
 
