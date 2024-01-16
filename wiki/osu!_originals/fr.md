@@ -1,5 +1,6 @@
 ---
 outdated_translation: true
+outdated_since: 3b9e64ad495e795aeadb828f40bbb3407f4a10fe
 ---
 
 # osu! originals
