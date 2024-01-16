@@ -225,8 +225,8 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 
 ### ![][osu!catch] osu!catch World Cup
 
-| Country | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 |
-| :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Country | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 |
+| :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | ::{ flag=DZ }:: Algeria | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] |
 | ::{ flag=AR }:: Argentina | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=AU }:: Australia | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
@@ -283,8 +283,8 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 
 ### ![][osu!mania] osu!mania World Cup
 
-| Country | 2014 4K | 2014 7K | 2015 4K | 2016 7K | 2016 4K | 2017 7K | 2017 4K | 2018 7K | 2018 4K | 2019 7K | 2019 4K | 2020 4K | 2021 4K | 2022 7K | 2023 7K | 2023 4K | 2024 7K |
-| :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Country | 2014 4K | 2014 7K | 2015 4K | 2016 7K | 2016 4K | 2017 7K | 2017 4K | 2018 7K | 2018 4K | 2019 7K | 2019 4K | 2020 4K | 2021 4K | 2022 7K | 2023 7K | 2023 4K |
+| :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | ::{ flag=AR }:: Argentina | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=AU }:: Australia | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=AT }:: Austria | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
