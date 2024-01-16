@@ -12,7 +12,7 @@ For those out of the loop, the [**Mappers' Guild**](/wiki/Community/Mappers_Guil
 
 Mappers can [earn rewards](/wiki/Community/Mappers_Guild#rewards) for completing mapping-related tasks, like ranking maps, participating in contests, and collaborating on [quests](/wiki/Community/Mappers_Guild#quests) (which is what this article is about!).
 
-The Mappers' Guild is open to mappers of any skill level, including those without ranked maps! See [the system's website](https://mappersguild.com/) or the [osu! Discord server](https://discord.com/invite/ppy)'s `#mappers-guild` channel for details!
+The Mappers' Guild is open to mappers of any skill level, including those without Ranked maps! See [the system's website](https://mappersguild.com/) or the [osu! Discord server](https://discord.com/invite/ppy)'s `#mappers-guild` channel for details!
 
 ## What are priority quests?
 
@@ -45,7 +45,7 @@ Here's a quick overview of each quest:
 
 ### [Underappreciated Artists v2](https://mappersguild.com/missions?id=65a3451cf3b11461108e6fa7)
 
-Some of osu!'s Featured Artists haven't seen much love recently. Create and rank a map from any artist who hasn't received a ranked map since their announcement on osu!. (Relevant artists are listed on [the quest page](https://mappersguild.com/missions?id=65a3451cf3b11461108e6fa7)!)
+Some of osu!'s Featured Artists haven't seen much love recently. Create and rank a map from any artist who hasn't received a Ranked map since their announcement on osu!. (Relevant artists are listed on [the quest page](https://mappersguild.com/missions?id=65a3451cf3b11461108e6fa7)!)
 
 ### [Speedrank Specialist](https://mappersguild.com/missions?id=65a34492f3b11461108e6fa3)
 
@@ -63,7 +63,7 @@ Your goal is to rank any beatmap that was submitted over 2 years ago!
 
 The Mappers' Guild is built on collaboration. With this quest, you and a friend will be proof of that.
 
-Pair up with another mapper to create a spread of at least **5 difficulties**, each of which is half-mapped by you and half-mapped by that other mapper! For extra clarity, this means there must only be **2 mappers** involved in this mapset — and one is you.
+Pair up with another mapper to create a spread of at least **5 difficulties**, each of which is half mapped by you and half mapped by that other mapper! For extra clarity, this means there must only be **2 mappers** involved in this mapset — and one is you.
 
 The first 5 maps to be ranked will win. Both mappers per map will receive quest rewards in this case!
 
