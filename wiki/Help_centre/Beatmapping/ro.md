@@ -55,4 +55,4 @@ Te rugăm să **nu** depui o reclamare folosind fie [comanda din joc `!report`](
 
 Poți să îți ștergi singur beatmap-urile așteptând ca acestea să devină inactive, ceea ce se va întâmpla după o lună (28 de zile) fără actualizări.
 
-După ce beatmap-ul tău devine inactiv, poți să îl ștergi singur accesând [Pagina de discuții](/wiki/Beatmap_discussion) a beatmap-ului tău și făcând clic pe butonul `Ștergere` care apare în partea dreaptă a ecranului după ce ai derulat în jos.
+După ce beatmap-ul tău devine inactiv, poți să îl ștergi singur accesând [Pagina de discuții](/wiki/Beatmap_discussion) a beatmap-ului tău și făcând clic pe butonul `Șterge` care apare în partea dreaptă a ecranului după ce ai derulat în jos.
