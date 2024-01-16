@@ -279,7 +279,7 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 | ::{ flag=UY }:: Uruguay | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
 | ::{ flag=VE }:: Venezuela | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][true] |
 | ::{ flag=VN }:: Vietnam | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| **Total** | 23 | 32 | 32 | 32 | 32 | 32 | 32 | 32 | 32 | 37 |
+| **Total** | 23 | 32 | 32 | 32 | 32 | 32 | 32 | 32 | 32 | 37 | 38 | ? |
 
 ### ![][osu!mania] osu!mania World Cup
 
