@@ -13,7 +13,7 @@ tags:
 
 # Beatmapping și Editor
 
-*Pagina principală: [Centru ajutor](/wiki/Help_centre)
+*Pagina principală: [Centru ajutor](/wiki/Help_centre)*
 
 Această secțiune este dedicată problemelor cu Beatmap Editor și beatmapping în general.
 
