@@ -3,21 +3,19 @@ tags:
   - FA
   - 精选艺术家
   - 艺术家
-outdated_translation: true
-outdated_since: c073839d9413a47aca6bbe8f0b4bcaf1167a272c
 ---
 
 # 精选艺术家
 
 **精选艺术家**（简称 ***FA*** ）是同 osu! 合作的音乐制作人，他们授权的音乐可以用在[谱面](/wiki/Beatmap)和 [osu! 世界杯](/wiki/Tournaments#osu!-世界杯)直播的背景音乐中。
 
-官网的[精选艺术家列表](https://osu.ppy.sh/beatmaps/artists)列出了所有参与合作的艺术家。每位艺术家的主页都包含其音乐的大致信息，以及经授权可在 osu! 中使用的音乐。音乐封装在已测好时间轴的 `.osz` 文件里，用于制谱使用。
+官网的[精选艺术家列表](https://osu.ppy.sh/beatmaps/artists)列出了所有参与合作的艺术家。每位艺术家的主页都包含其音乐的大致信息，以及经授权可在 osu! 中使用的音乐。音乐封装在已测好时间轴的 `.osz` 文件里，用于作图使用。
 
 [osu! 团队](/wiki/People/osu!_team)有时会和艺术家们专门为 osu! 制作音乐，这类音乐叫做 [osu! originals](/wiki/osu!_originals)，对应艺术家的曲目列表中也有标签。
 
 ## 入选
 
-除了 osu! 社区间接选择的精选艺术家之外，如果有谱师用一位艺术家的音乐制作的谱面成功上架了，osu! 团队可能会与那位艺术家取得联系并讨论精选艺术家的事宜。偶尔还会有一些艺术家因为其他因素而入选，比如有听众呼吁他们加入。
+除了 osu! 社区间接选择的精选艺术家之外，如果有谱师用某位艺术家的音乐制作了成功上架的谱面，osu! 团队可能会与那位艺术家取得联系并讨论精选艺术家的事宜。偶尔，还会有一些艺术家因为其他因素而入选，比如有听众呼吁他们。
 
 精选艺术家里的所有歌曲都不是 osu! 独占的。对该项目感兴趣的艺术家，可参阅[音乐版权](/wiki/Legal/Music_licensing)了解更多详情。
 
@@ -32,19 +30,20 @@ outdated_since: c073839d9413a47aca6bbe8f0b4bcaf1167a272c
 - **2020:** 65
 - **2021:** 101
 - **2022:** 104
-- **2023:** *待定*
+- **2023:** 64
+- **2024:** *待定*
 
-osu! 的[新闻推送](https://osu.ppy.sh/home/news)每周都会公布新的精选艺术家，公告文章里大多都会列出艺术家授权的音乐和主页链接，有时这些文章也会和[谱师工会](/wiki/Community/Mappers_Guild)做的谱面或制谱竞赛的文章一同发布。
+每周，osu! 的[新闻推送](https://osu.ppy.sh/home/news)都会公布新的精选艺术家，公告文章里大多都会列出艺术家授权的音乐和主页链接，有时这些文章也会和[谱师工会](/wiki/Community/Mappers_Guild)做的谱面或作图竞赛的文章一同发布。
 
 ## 社区用法
 
-社区鼓励大家使用精选艺术家提供的音乐来制谱，已测好[时间轴](/wiki/Client/Beatmap_editor/Timing)的音轨也方便谱师迅速投入到创作中。使用精选艺术家制作的谱面，[osu!lazer](/wiki/Client/Release_stream/Lazer) 会在搜索页和谱面详情页标记出来。
+社区鼓励大家使用精选艺术家提供的音乐来作图，并提供已经测好[时间轴](/wiki/Client/Beatmap_editor/Timing)的谱面模板，以方便谱师迅速投入到创作中。[osu!lazer](/wiki/Client/Release_stream/Lazer) 会在搜索页和谱面详情页标记出使用精选艺术家制作的谱面。
 
-所有公开发布的[制谱竞赛](https://osu.ppy.sh/community/contests)，比如[月度制谱竞赛](/wiki/Contests/Monthly_Beatmapping_Contest)、[奥林谱克](/wiki/Contests/Mapping_Olympiad)，都会要求参赛者使用精选艺术家的歌曲来制谱。有些社区自发的竞赛也会使用这一规定。
+所有公开发布的[作图竞赛](https://osu.ppy.sh/community/contests)，比如[月度作图竞赛 (MBC)](/wiki/Contests/Monthly_Beatmapping_Contest)、[奥林谱克 (Mapping Olympiad)](/wiki/Contests/Mapping_Olympiad)，都会要求参赛者使用精选艺术家的歌曲来作图。有些社区自发的竞赛也会使用这一规定。
 
-为了促进更多人使用精选艺术家提供的内容，社区成立了谱师工会，以 MMO 风格的任务体系让谱师同他人合作制谱。上架的谱面能获得奖项，包括有三个等级的资料勋章 <!--计划：个人资料勋章--> 。对谱师工会感兴趣的，可访问[谱师工会的官网](https://mappersguild.com/)了解详情。从[2023年4月](https://osu.ppy.sh/home/news/2023-04-09-new-featured-artist-chon)起，谱师们能在 [osu! Discord 服务器](/wiki/Community/osu!_Discord_server) 的 `#featured-artists` 频道讨论所有精选艺术家制谱相关的话题。 
+为了促进更多人使用精选艺术家提供的内容，社区成立了谱师工会 (Mappers' Guild)，以 MMO 风格的任务体系让谱师同他人合作作图。上架的谱面能获得奖项，包括有三个等级的资料勋章 <!--计划：个人资料勋章--> 。对谱师工会感兴趣的，可访问[谱师工会的官网](https://mappersguild.com/)了解详情。从[2023年4月](https://osu.ppy.sh/home/news/2023-04-09-new-featured-artist-chon)起，谱师们能在 [osu! Discord 服务器](/wiki/Community/osu!_Discord_server) 的 `#featured-artists` 频道讨论所有精选艺术家作图相关的话题。 
 
-如果精选艺术家里提供的 `.osz` 文件有任何问题，可在[这个论坛帖](https://osu.ppy.sh/community/forums/topics/783985)中提交反馈。
+如果精选艺术家里提供的 `.osz` 文件有任何问题，可以在[这个论坛帖](https://osu.ppy.sh/community/forums/topics/783985)中提交反馈。
 
 ## 有 osu! 账号的精选艺术家
 
