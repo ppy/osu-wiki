@@ -46,22 +46,23 @@ The osu!mania 7K World Cup 2024 is run by the osu! team and various community me
 | Mappool selector | ::{ flag=US }:: **[\-NoName\-](https://osu.ppy.sh/users/10400730)**, ::{ flag=PL }:: [\_underjoy](https://osu.ppy.sh/users/2235750), ::{ flag=BR }:: [Makiba](https://osu.ppy.sh/users/7539957), ::{ flag=KR }:: [Remuring](https://osu.ppy.sh/users/6522146) |
 | Referee | ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387), ::{ flag=FR }:: [Aidown](https://osu.ppy.sh/users/1522146), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=IN }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Mappool playtester | ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713), ::{ flag=PL }:: [\_underjoy](https://osu.ppy.sh/users/2235750), ::{ flag=US }:: [\-NoName\-](https://osu.ppy.sh/users/10400730), ::{ flag=US }:: [Blocko](https://osu.ppy.sh/users/4075092), ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090), ::{ flag=KR }:: [DellyK](https://osu.ppy.sh/users/19791211), ::{ flag=SG }:: [Evening](https://osu.ppy.sh/users/2193881), ::{ flag=US }:: [Jinjin](https://osu.ppy.sh/users/3360737), ::{ flag=JP }:: [LuluM](https://osu.ppy.sh/users/13151924), ::{ flag=BR }:: [Makiba](https://osu.ppy.sh/users/7539957), ::{ flag=PH }:: [MapleSyrup\-](https://osu.ppy.sh/users/1192936), ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063), ::{ flag=KR }:: [Remuring](https://osu.ppy.sh/users/6522146), ::{ flag=US }:: [RhymesWithMash](https://osu.ppy.sh/users/18834550), ::{ flag=BR }:: [roko100789](https://osu.ppy.sh/users/3224958), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=US }:: [Terni](https://osu.ppy.sh/users/3279570) |
-| Mapper | ::{ flag=US }:: [\-NoName\-](https://osu.ppy.sh/users/10400730), ::{ flag=MY }:: [Critical\_Star](https://osu.ppy.sh/users/3793196), ::{ flag=DE }:: [Leeju](https://osu.ppy.sh/users/18219603), ::{ flag=BR }:: [Makiba](https://osu.ppy.sh/users/7539957), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785), ::{ flag=PH }:: [paulkappa](https://osu.ppy.sh/users/7115625), ::{ flag=KR }:: [Remuring](https://osu.ppy.sh/users/6522146), ::{ flag=KR }:: [Wonki](https://osu.ppy.sh/users/7898495) |
+| Mapper | ::{ flag=CN }:: [\_Yiiiii](https://osu.ppy.sh/users/6066359), ::{ flag=US }:: [\-NoName\-](https://osu.ppy.sh/users/10400730), ::{ flag=MY }:: [Critical\_Star](https://osu.ppy.sh/users/3793196), ::{ flag=US }:: [Jinjin](https://osu.ppy.sh/users/3360737), ::{ flag=KR }:: [JuHaa](https://osu.ppy.sh/users/15526127), ::{ flag=DE }:: [Leeju](https://osu.ppy.sh/users/18219603), ::{ flag=BR }:: [Makiba](https://osu.ppy.sh/users/7539957), ::{ flag=PH }:: [MapleSyrup\-](https://osu.ppy.sh/users/1192936), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785), ::{ flag=PH }:: [paulkappa](https://osu.ppy.sh/users/7115625), ::{ flag=HK }:: [pwhk](https://osu.ppy.sh/users/4887865), ::{ flag=KR }:: [Remuring](https://osu.ppy.sh/users/6522146), ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666), ::{ flag=KR }:: [Wonki](https://osu.ppy.sh/users/7898495) |
 | Commentator | *TBA* |
 | Statistician | **::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)**, ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
 
 ## Links
 
 - [Information spreadsheet](https://docs.google.com/spreadsheets/d/12jbXS5vYvRd1QthkaYYKdhm82aSUpZIz9JO_gacdjpY)
+- [Weekly statistics spreadsheets](https://drive.google.com/drive/folders/1dlVzTCkqAJfijm2fIytUoTkFWvccxaoS)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1857033)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/135) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Challonge bracket](https://challonge.com/MWC7K_2024)
 
 ## Participants
 
 |  | Country | Members |
 | :-: | :-: | :-- |
-| ::{ flag=AR }:: | **Argentina** | **[lxLucasxl](https://osu.ppy.sh/users/3632846)**, [ottenst](https://osu.ppy.sh/users/13488325), [Greedom](https://osu.ppy.sh/users/10696707), [clonedroid](https://osu.ppy.sh/users/21114236) |
 | ::{ flag=AU }:: | **Australia** | **[ruka](https://osu.ppy.sh/users/6117525)**, [oct4](https://osu.ppy.sh/users/10303887), [my angel zhla](https://osu.ppy.sh/users/6378800), [Bounter](https://osu.ppy.sh/users/11149878) |
 | ::{ flag=BR }:: | **Brazil** | **[tartbtw](https://osu.ppy.sh/users/8748747)**, [SillyFangirl](https://osu.ppy.sh/users/2288363), [LothusFangirl](https://osu.ppy.sh/users/4685756), [cassioFanGirl](https://osu.ppy.sh/users/12017594) |
 | ::{ flag=CA }:: | **Canada** | **[UmmmMrMoo](https://osu.ppy.sh/users/15314355)**, [Harambe](https://osu.ppy.sh/users/13622614), [Dale940](https://osu.ppy.sh/users/13847951), [NunotabaShinobu](https://osu.ppy.sh/users/10809497) |
@@ -76,7 +77,6 @@ The osu!mania 7K World Cup 2024 is run by the osu! team and various community me
 | ::{ flag=FR }:: | **France** | **[Milla\[Monkey\]](https://osu.ppy.sh/users/6264519)**, [Jerem\[Monkey\]](https://osu.ppy.sh/users/13431947), [Elementaires](https://osu.ppy.sh/users/2284328), [Mokett](https://osu.ppy.sh/users/14535598) |
 | ::{ flag=DE }:: | **Germany** | **[TsukiyaWhiskers](https://osu.ppy.sh/users/12598261)**, [sinkip](https://osu.ppy.sh/users/4373641), [susher](https://osu.ppy.sh/users/8884753), [Vincus](https://osu.ppy.sh/users/16124906) |
 | ::{ flag=GT }:: | **Guatemala** | **[Votchis](https://osu.ppy.sh/users/14862011)**, [ChichanN](https://osu.ppy.sh/users/29436746), [KuranteFanBoy](https://osu.ppy.sh/users/28764122) |
-| ::{ flag=HK }:: | **Hong Kong** | **[\[-ACG-Gamer-\]](https://osu.ppy.sh/users/8936568)**, [zec](https://osu.ppy.sh/users/20809032) |
 | ::{ flag=ID }:: | **Indonesia** | **[Onta\_Bekasi](https://osu.ppy.sh/users/8677684)**, [Dominance-](https://osu.ppy.sh/users/4702061), [\[LynX\]](https://osu.ppy.sh/users/13408635), [Vylence](https://osu.ppy.sh/users/13450592) |
 | ::{ flag=IQ }:: | **Iraq** | **[CIRNO ET](https://osu.ppy.sh/users/26329578)**, [The\_SMasher\_sni](https://osu.ppy.sh/users/29613861) |
 | ::{ flag=IT }:: | **Italy** | **[\[WtO1\]kaeleb](https://osu.ppy.sh/users/13043194)**, [Lorak\_80](https://osu.ppy.sh/users/20028293) |
@@ -107,6 +107,27 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
 
 ## Mappools
 
+### Round of 24
+
+**[Download the mappack here (50 MB)](https://packs.ppy.sh/P233%20-%20osu!mania%207K%20World%20Cup%202024%3A%20Round%20of%2024.zip)**
+
+- Rice
+  1. [Lime - Luminaria (pwhk) \[Another\]](https://osu.ppy.sh/beatmapsets/1751814#mania/3584159)
+  2. [seatrus - Raindrop (Tailsdk) \[MWC Ro24 Chordstream\]](https://osu.ppy.sh/beatmapsets/2119535#mania/4452365)
+  3. [litmus\* - Flashdance (Jinjin) \[Jive\]](https://osu.ppy.sh/beatmapsets/2119632#mania/4452673)
+  4. [MANY THANKS! feat. Setsu minami - Banka (pwhk) \[Midnight\]](https://osu.ppy.sh/beatmapsets/2119604#mania/4452563)
+  5. [MYUKKE. - Unknown Amnasia (Maxus) \[Pandora's Box\]](https://osu.ppy.sh/beatmapsets/2119541#mania/4452375)
+- Long Note
+  1. [Mitsukiyo - Theme\_37 (MapleSyrup-) \[I love you sensei\]](https://osu.ppy.sh/beatmapsets/2119592#mania/4452483)
+  2. [DJ Totoriott - Chronoxia (-NoName-) \[Leeju's 7K Breezy Plains\]](https://osu.ppy.sh/beatmapsets/2119552#mania/4452390)
+  3. [shadow\_bling - Crush Alcohol (Makiba) \[Martini\]](https://osu.ppy.sh/beatmapsets/2062870#mania/4452380)
+- Hybrid
+  1. [Ym1024 - Cosmoscape (-NoName-) \[Stargazer\]](https://osu.ppy.sh/beatmapsets/2119553#mania/4452391)
+  2. [Camellia - PURE SILVER (JuHaa) \[WaterFlow\]](https://osu.ppy.sh/beatmapsets/1371480#mania/2835613)
+  3. [Y.W - Freshness Vacation (Makiba) \[Resort!\]](https://osu.ppy.sh/beatmapsets/2119550#mania/4452388)
+- Tiebreaker
+  1. **[Massive New Krew - Majestic 12 (\_Yiiiii) \[Unidentified Tie-breaking Beatmap\]](https://osu.ppy.sh/beatmapsets/2119554#mania/4452392)**
+
 ### Qualifiers
 
 **[Download the mappack here (33 MB)](https://packs.ppy.sh/P232%20-%20osu!mania%207K%20World%20Cup%202024%3A%20Qualifiers.zip?1704640372)**
@@ -119,6 +140,74 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
 6. [Lime - Aurora (-NoName-) \[Stage 6: Brilliance\]](https://osu.ppy.sh/beatmapsets/2115955#mania/4443580)
 7. [Powerless - Frey's Philosophy (Maxus) \[Stage 7: Philosopher's Stone\]](https://osu.ppy.sh/beatmapsets/2115952#mania/4443575)
 8. [Raimukun - Cthulhu (Leeju) \[Stage 8: Abyss\]](https://osu.ppy.sh/beatmapsets/2115980#mania/4443612)
+
+## Match schedule: Round of 24
+
+### Saturday, 20 January 2024
+
+| Team A | Team B | Match time | Twitch stream |
+| --: | :-- | :-- | :-: |
+| Netherlands ::{ flag=NL }:: | ::{ flag=TW }:: Taiwan | [Jan 20 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240120T140000&p1=1440&p2=16&p3=241) | [osulive](https://twitch.tv/osulive) |
+| Vietnam ::{ flag=VN }:: | ::{ flag=SE }:: Sweden | [Jan 20 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240120T150000&p1=1440&p2=95&p3=239) | [osulive](https://twitch.tv/osulive) |
+| Poland ::{ flag=PL }:: | ::{ flag=EE }:: Estonia | [Jan 20 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240120T160000&p1=1440&p2=262) | [osulive](https://twitch.tv/osulive) |
+| Brazil ::{ flag=BR }:: | ::{ flag=PT }:: Portugal | [Jan 20 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240120T170000&p1=1440&p2=45&p3=133) | [osulive](https://twitch.tv/osulive) |
+
+### Sunday, 21 January 2024
+
+| Team A | Team B | Match time | Twitch stream |
+| --: | :-- | :-- | :-: |
+| Indonesia ::{ flag=ID }:: | ::{ flag=FR }:: France | [Jan 21 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240121T140000&p1=1440&p2=108&p3=195) | [osulive](https://twitch.tv/osulive) |
+| Russian Federation ::{ flag=RU }:: | ::{ flag=DK }:: Denmark | [Jan 21 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240121T150000&p1=1440&p2=166&p3=69) | [osulive](https://twitch.tv/osulive) |
+| United Kingdom ::{ flag=GB }:: | ::{ flag=DE }:: Germany | [Jan 21 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240121T160000&p1=1440&p2=136&p3=37) | [osulive](https://twitch.tv/osulive) |
+| United States ::{ flag=US }:: | ::{ flag=ES }:: Spain | [Jan 21 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240121T170000&p1=1440&p2=263&p3=141) | [osulive](https://twitch.tv/osulive) |
+
+## Match results
+
+### Qualifiers
+
+The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1APCeEFVMGbgxkIhne5ChMBnoNh1dfQwVqZFk37F57A0?rm=minimal).
+
+| Seed | Country | %rank sum[^qualifiers-seeding] | avg. score[^qualifiers-tiebreaker] |
+| :-: | :-- | --: | --: |
+| #1 | ::{ flag=KR }:: South Korea | 10 | 1,983,181 |
+| #2 | ::{ flag=CN }:: China | 25 | 1,969,845 |
+| #3 | ::{ flag=MY }:: Malaysia | 38 | 1,962,491 |
+| #4 | ::{ flag=PH }:: Philippines | 42 | 1,958,799 |
+| #5 | ::{ flag=JP }:: Japan | 47 | 1,948,783 |
+| #6 | ::{ flag=TH }:: Thailand | 54 | 1,946,705 |
+| #7 | ::{ flag=CA }:: Canada | 57 | 1,949,679 |
+| #8 | ::{ flag=AU }:: Australia | 58 | 1,948,175 |
+| #9 | ::{ flag=BR }:: Brazil | 71 | 1,927,869 |
+| #10 | ::{ flag=US }:: United States | 80 | 1,933,715 |
+| #11 | ::{ flag=RU }:: Russian Federation | 96 | 1,918,105 |
+| #12 | ::{ flag=PL }:: Poland | 103 | 1,909,520 |
+| #13 | ::{ flag=VN }:: Vietnam | 105 | 1,918,116 |
+| #14 | ::{ flag=ID }:: Indonesia | 109 | 1,914,311 |
+| #15 | ::{ flag=GB }:: United Kingdom | 121 | 1,889,101 |
+| #16 | ::{ flag=NL }:: Netherlands | 125 | 1,902,763 |
+| #17 | ::{ flag=TW }:: Taiwan | 128 | 1,895,751 |
+| #18 | ::{ flag=DE }:: Germany | 132 | 1,891,864 |
+| #19 | ::{ flag=FR }:: France | 147 | 1,883,740 |
+| #20 | ::{ flag=SE }:: Sweden | 150 | 1,874,871 |
+| #21 | ::{ flag=EE }:: Estonia | 175 | 1,848,478 |
+| #22 | ::{ flag=DK }:: Denmark | 175 | 1,847,802 |
+| #23 | ::{ flag=ES }:: Spain | 182 | 1,828,969 |
+| #24 | ::{ flag=PT }:: Portugal | 188 | 1,826,384 |
+| #25 | ::{ flag=MO }:: Macau | 197 | 1,818,852 |
+| #26 | ::{ flag=CZ }:: Czechia | 205 | 1,810,351 |
+| #27 | ::{ flag=NZ }:: New Zealand | 221 | 1,755,495 |
+| #28 | ::{ flag=CO }:: Colombia | 223 | 1,755,003 |
+| #29 | ::{ flag=NO }:: Norway | 229 | 1,757,056 |
+| #30 | ::{ flag=MX }:: Mexico | 240 | 1,693,108 |
+| #31 | ::{ flag=CH }:: Switzerland | 253 | 1,662,059 |
+| #32 | ::{ flag=EC }:: Ecuador | 253 | 1,658,141 |
+| #33 | ::{ flag=SG }:: Singapore | 261 | 1,630,124 |
+| #34 | ::{ flag=FI }:: Finland | 265 | 1,614,428 |
+| #35 | ::{ flag=IT }:: Italy | 280 | 1,485,380 |
+| #36 | ::{ flag=LT }:: Lithuania | 289 | 1,395,870 |
+| #37 | ::{ flag=GT }:: Guatemala | 290 | 1,390,298 |
+| #38 | ::{ flag=IQ }:: Iraq | 304 | 1,207,922 |
+| #39 | ::{ flag=CL }:: Chile | *DNP* | *DNP* |
 
 ## Ruleset
 
@@ -261,3 +350,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
    - **Do not ask for a reschedule unless it is absolutely needed. The tournament managers reserve the right to deny any rescheduling request.**
    - Late reschedule requests will not be accepted under any circumstances.
 6. Captains are responsible for their team's availability.
+
+### Notes
+
+[^qualifiers-seeding]: Used as the main seeding method
+[^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same average rank
