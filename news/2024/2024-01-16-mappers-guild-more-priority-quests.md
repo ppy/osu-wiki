@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mappers' Guild - More Priority Quests"
+title: Mappers' Guild - More Priority Quests
 date: 2024-01-16 21:30:00 +0000
 ---
 
