@@ -107,11 +107,11 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 | ::{ flag=AR }:: Argentina | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=AU }:: Australia | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=AT }:: Austria | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ::{ flag=BY }:: Belarus | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true]
+| ::{ flag=BY }:: Belarus | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] |
 | ::{ flag=BE }:: Belgium | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=BR }:: Brazil | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=BG }:: Bulgaria | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] |
-| ::{ flag=KH }:: Cambodia | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true]
+| ::{ flag=KH }:: Cambodia | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] |
 | ::{ flag=CA }:: Canada | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=CL }:: Chile | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=CN }:: China | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
@@ -182,7 +182,7 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 | ::{ flag=CL }:: Chile | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=CN }:: China | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=CO }:: Colombia | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ::{ flag=CR }:: Costa Rica | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] |![][false]
+| ::{ flag=CR }:: Costa Rica | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][false] |
 | ::{ flag=CZ }:: Czechia | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] |
 | ::{ flag=DK }:: Denmark | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] |
 | ::{ flag=EE }:: Estonia | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
@@ -287,7 +287,7 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | ::{ flag=AR }:: Argentina | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=AU }:: Australia | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ::{ flag=AT }:: Austria |  ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
+| ::{ flag=AT }:: Austria | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
 | ::{ flag=BE }:: Belgium | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][false] |
 | ::{ flag=BR }:: Brazil | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=CA }:: Canada | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
@@ -309,7 +309,7 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 | ::{ flag=ID }:: Indonesia | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=IL }:: Israel | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
 | ::{ flag=IT }:: Italy | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][false] | ![][true] |
-| ::{ flag=IQ }:: Iraq |  ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] |
+| ::{ flag=IQ }:: Iraq | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] |
 | ::{ flag=JP }:: Japan | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=LV }:: Latvia | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] |
 | ::{ flag=LT }:: Lithuania | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
