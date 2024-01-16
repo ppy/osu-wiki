@@ -58,7 +58,7 @@ At the time of writing, the community has donated over 500USD to our prize pool 
 
 ![](/wiki/Tournaments/5WC/2024/img/5wc2024-prizes.png)
 
-We heavily encourage all eligible players with an interest in playing to tryout for your country. All are more than welcome to spectate and/or get involved with our community via our [Discord server](https://discord.gg/WxX2UkdSMq). If you want to pickup a [BlueBunny](https://bluebunny.store/) tablet cover or [Momokai](https://www.momokai.com/) device of your own at a discount, use code 5WC at checkout for 10% off both of their stores.
+We heavily encourage all eligible players with an interest in playing to tryout for your country. All are more than welcome to spectate and/or get involved with our community via our [Discord server](https://discord.gg/WxX2UkdSMq).
 
 May the best 5 digits win!
 
