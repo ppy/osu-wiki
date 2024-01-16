@@ -7,7 +7,7 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 
 ## Rankings
 
-<!-- last update: CWC 2022 (Registration phase)-->
+<!-- last update: osu!mania 7K World Cup 2024 (Qualifier stage)-->
 
 ### General ranking
 
