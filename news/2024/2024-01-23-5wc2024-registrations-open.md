@@ -50,9 +50,7 @@ Most countries require their players to tryout in order to be considered for the
 
 ## Prizes
 At the time of writing, the community has donated over 500USD to our prize pool which will be distributed among the podium. Each player will receive an equal share of the prize pool allotted to the team.
-- **1st place:** Profile badge, animated banner, 40% of the prize pool, custom [BlueBunny](https://bluebunny.store/) tablet cover, and a unique [Momokai](https://www.momokai.com/) Tap Trio device with engraving.
-- **2nd place:** Animated profile banner, 35% of the prize pool.
-- **3rd place:** Animated profile banner, 25% of the prize pool.
+
 
 ![](/wiki/Tournaments/5WC/2024/img/5wc2024-prizes.png)
 
