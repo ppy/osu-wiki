@@ -10,7 +10,7 @@ Calling all 5 Digits! After a long wait, 5WC is back - and it's better than ever
 
 The 5 Digit World Cup is an annual community tournament for players ranked #10,000-99,999 in osu! and features some of the strongest competition for the rank range. Each year, organizers from around the world seek out the best 5 digits from their country in hopes of winning the title of 5WC champion. This year is no different, and the prizes are even more grand than before.
 
-Last year, we received a staggering 2,740 registrations from 69 different countries. Against all odds, Team France (#4) managed to narrowly squeeze out a miracle: **two** back to back grand finals tiebreaker victories against Team Russia (#2) in a monumental 4-hour match. This came after having defeated an incredibly strong Team Netherlands (#1) in the prior losers bracket grand final.
+Last year, we received a staggering 2,740 registrations from 69 different countries. Against all odds, Team France (#4) managed to narrowly squeeze out a miracle **two** back to back grand finals tiebreaker victories against Team Russia (#2) in an exhausting 4-hour match. This came after having defeated an incredibly strong Team Netherlands (#1) in the prior losers bracket grand final.
 
 ## Changes From 2023
 
@@ -31,7 +31,7 @@ Additionally, we found the notoriously-harsh BWS to be too restrictive. Player f
 Players and organizers will need to login **[here](https://5wc.stagec.xyz/)** to register and/or manage their teams. Organizers have a new, private web interface they can use to manage their teams. Players who are selected will not know until told directly by their organizer.
 
 Additionally, prospective players must:
-- Not be restricted or hold an active tournament ban by the end of registrations
+- Not be restricted or hold an active tournament ban by the end of registrations.
 - Must not violate the 5WC 2024 community rules in a way which warrants disqualification.
 - Be within the rank range of #10,000-99,999 after the [BWS formula](https://osu.ppy.sh/wiki/en/Tournaments/Badge-weighted_seeding) is applied with badges earned on or after 01-01-2021.
 - Join our [Discord server](https://discord.gg/WxX2UkdSMq).
