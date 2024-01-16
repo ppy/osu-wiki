@@ -4,15 +4,19 @@ title: "5 Digit World Cup 2024: Registrations Now Open!"
 date: 2024-01-23 12:00:00 +0000
 ---
 
-Calling all 5 Digits! After a long wait, 5WC is back with higher stakes than ever before!
+Calling all 5 Digits! After a long wait, 5WC is back - and it's better than ever.
 
 ![](/wiki/Tournaments/5WC/2024/img/5wc2024-banner.png)
 
-The 5 Digit World Cup is the annual grand event for players ranked #10,000-99,999 in osu! and features some of the strongest competition osu!'s intermediate tournament scene has to offer. Last year, we received a staggering 2,740 registrations from 69 different countries. Against all odds, Team France (#4) managed to narrowly squeeze out a miracle: **Two** back to back grand finals tiebreaker victories against Team Russia (#2) in a monumental >4 hour match. This came after having defeated an incredibly strong Team Netherlands (#1) in the prior losers bracket grand final. This year, we can't wait to feature both old and new players from around the world and watch them battle it out for the grand prize - the illustrious 5WC 2024 badge, among other rewards!
+The 5 Digit World Cup is an annual community tournament for players ranked #10,000-99,999 in osu! and features some of the strongest competition for the rank range. Each year, organizers from around the world seek out the best 5 digits from their country in hopes of winning the title of 5WC champion. This year is no different, and the prizes are even more grand than before.
+
+Last year, we received a staggering 2,740 registrations from 69 different countries. Against all odds, Team France (#4) managed to narrowly squeeze out a miracle: **two** back to back grand finals tiebreaker victories against Team Russia (#2) in a monumental 4-hour match. This came after having defeated an incredibly strong Team Netherlands (#1) in the prior losers bracket grand final.
 
 ## Changes From 2023
 
-[5WC 2023](https://osu.ppy.sh/community/forums/topics/1699537?n=1) featured lots of improvements from previous iterations, but every rose has its thorns. This year we took a moment to reflect on how to further reduce points of discomfort/awkwardness that still exist in the series. For starters, last year's freemod rules proved to be too confusing for our liking. Additionally, we found the notoriously-harsh BWS to be too restrictive. Feedback also noted that our qualifier procedure felt awkward, so we revamped the qualifiers stage to be more comfortable and thorough.
+[5WC 2023](https://osu.ppy.sh/community/forums/topics/1699537?n=1) featured lots of improvements from previous iterations, but every rose has its thorns. This year we took a moment to reflect on how to further reduce points of discomfort/awkwardness that still exist in the series. For starters, last year's freemod rules proved to be too confusing for our liking.
+
+Additionally, we found the notoriously-harsh BWS to be too restrictive. Player feedback noted that our qualifier procedure felt awkward by including a freemod map, so we revamped the qualifiers stage to be more comfortable and thorough.
 
 ### Key Changes
 
