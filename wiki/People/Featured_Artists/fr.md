@@ -2,8 +2,6 @@
 no_native_review: true
 tags:
   - FA
-outdated_translation: true
-outdated_since: c073839d9413a47aca6bbe8f0b4bcaf1167a272c
 ---
 
 # Featured Artists
@@ -31,7 +29,8 @@ Nouvelles publications d'artistes vedettes par an :
 - **2020 :** 65
 - **2021 :** 101
 - **2022 :** 104
-- **2023 :** *à déterminer*
+- **2023 :** 64
+- **2024:** *à déterminer*
 
 Les nouveaux Featured Artists sont annoncés chaque semaine [dans les news](https://osu.ppy.sh/home/news) d'osu!. La plupart des annonces comprennent une liste des musiques sous licence de l'artiste et un lien vers sa page Featured Artist, bien que certaines annonces soient associées à des concours de mapping ou à des beatmaps créés par la [Mappers' Guild](/wiki/Community/Mappers_Guild).
 
@@ -103,4 +102,4 @@ La [page du groupe des Featured Artist](https://osu.ppy.sh/groups/35) répertori
 | ::{ flag=US }:: [Will Stetson](https://osu.ppy.sh/users/4909088) | [Will Stetson](https://osu.ppy.sh/beatmaps/artists/385) |
 | ::{ flag=JP }:: [xorsizer](https://osu.ppy.sh/users/20466752) | (membre de) [Symholic](https://osu.ppy.sh/beatmaps/artists/130) |
 | ::{ flag=TH }:: [YuugenP](https://osu.ppy.sh/users/2014016) | [rN](https://osu.ppy.sh/beatmaps/artists/190) |
-| ::{ flag=US }:: [Zenpakuwu](https://osu.ppy.sh/users/13226945) | [Zenpaku](https://osu.ppy.sh/beatmaps/artists/190) |
+| ::{ flag=US }:: [Zenpakuwu](https://osu.ppy.sh/users/13226945) | [Zenpaku](https://osu.ppy.sh/beatmaps/artists/316) |
