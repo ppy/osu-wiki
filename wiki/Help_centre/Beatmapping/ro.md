@@ -24,7 +24,7 @@ Această secțiune este dedicată problemelor legate de Beatmap Editor și beatm
 
 Pentru a îți încărca beatmap-ul, du-te în editor și apasă pe `Fișier` > `Uploadează Beatmap`.
 
-Asta îți va face beatmap-ul disponibil pentru a putea fi descărcat de alții pe site. Actualizarea unui beatmap are același proces pentru un beatmap deja încărcat.
+Asta îți va face beatmap-ul disponibil pentru a putea fi descărcat de alții de pe site. Actualizarea unui beatmap are același proces pentru un beatmap deja încărcat.
 
 Fiecare utilizator are un număr limitat de beatmap-uri pe care le poate încărca simultan. Lăsarea unui beatmap inactiv timp de o lună (28 de zile), prin neactualizarea ei, o va trimite în [Beatmap-uri inactive](/wiki/Beatmap/Category#graveyard). Pentru a readuce un beatmap din inactivitate înapoi în statusul de În așteptare sau În lucru, actualizeaz-o.
 
