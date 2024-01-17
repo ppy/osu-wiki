@@ -19,7 +19,8 @@ Officially supported tournaments have access to:
 
 - A dedicated [screening process](#tournament-screening) to prevent users with serious integrity infringements (cheating, multi-accounting, tournament bans) from playing.
 - [Profile badge prizes](#profile-badges) for first-place winners.
-- Potential consideration for a [main-menu banner advertisement](#requesting-in-game-banner-and-news-post-support) during major matches
+- Potential consideration for a [main-menu banner advertisement](#requesting-in-game-banner-and-news-post-support) during major matches.
+- Potential consideration for [news coverage](#requesting-in-game-banner-and-news-post-support), one post advertising registrations and one summarising final results.
 
 ## Eligibility
 
