@@ -9,7 +9,7 @@ tags:
   - warning
   - încărcare
   - ștergere
-  - avertizare
+  - avertisment
 ---
 
 # Beatmapping și Editor
