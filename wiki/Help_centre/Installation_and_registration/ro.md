@@ -24,7 +24,7 @@ Această secțiune este dedicată problemelor de instalare osu! și de crearea p
 
 ### Cum descarc osu!? {id=download}
 
-**Pur și simplu fă clic pe `Descarcă osu!` găsit în centrul [paginii de start oficiale osu!](https://osu.ppy.sh/home). Poți găsi și link-ul prin secțiunea derulantă `acasă` pe care o poți găsi în bara de navigație pe orice pagină.**
+**Pur și simplu fă clic pe `Descarcă osu!` găsit în centrul [paginii de start oficiale osu!](https://osu.ppy.sh/home). Poți găsi link-ul și în secțiunea derulantă `acasă` pe care o poți găsi în bara de navigație pe orice pagină.**
 
 De asemenea, [fă clic aici](https://osu.ppy.sh/home/download) aici pentru un link direct către pagina de descărcare.
 
