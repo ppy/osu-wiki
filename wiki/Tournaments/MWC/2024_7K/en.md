@@ -58,7 +58,7 @@ The osu!mania 7K World Cup 2024 is run by the osu! team and various community me
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1857033)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/135) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Challonge bracket](https://challonge.com/MWC7K_2024)
-- [Support you team](https://osu.ppy.sh/store/products/1251)
+- [Support your team](https://osu.ppy.sh/store/products/1251)
 
 ## Participants
 
