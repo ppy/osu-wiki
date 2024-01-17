@@ -106,6 +106,26 @@ The osu!mania 7K World Cup 2024 is run by the osu! team and various community me
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2fdbd125eedb7bf268bd382dab1c05#file-mwc-7k-2024-player-list-csv).
 
+## Match schedule: Round of 24
+
+### Saturday, 20 January 2024
+
+| Team A | Team B | Match time | Twitch stream |
+| --: | :-- | :-- | :-: |
+| Vietnam ::{ flag=VN }:: | ::{ flag=SE }:: Sweden | [Jan 20 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240120T150000&p1=1440&p2=95&p3=239) | [osulive](https://twitch.tv/osulive) |
+| Brazil ::{ flag=BR }:: | ::{ flag=PT }:: Portugal | [Jan 20 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240120T170000&p1=1440&p2=45&p3=133) | [osulive](https://twitch.tv/osulive) |
+
+### Sunday, 21 January 2024
+
+| Team A | Team B | Match time | Twitch stream |
+| --: | :-- | :-- | :-: |
+| Netherlands ::{ flag=NL }:: | ::{ flag=TW }:: Taiwan | [Jan 21 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240121T133000&p1=1440&p2=16&p3=241) | [osulive](https://twitch.tv/osulive) |
+| Indonesia ::{ flag=ID }:: | ::{ flag=FR }:: France | [Jan 21 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240121T140000&p1=1440&p2=108&p3=195) | [osulive](https://twitch.tv/osulive) |
+| Russian Federation ::{ flag=RU }:: | ::{ flag=DK }:: Denmark | [Jan 21 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240121T150000&p1=1440&p2=166&p3=69) | [osulive](https://twitch.tv/osulive) |
+| United Kingdom ::{ flag=GB }:: | ::{ flag=DE }:: Germany | [Jan 21 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240121T160000&p1=1440&p2=136&p3=37) | [osulive](https://twitch.tv/osulive) |
+| Poland ::{ flag=PL }:: | ::{ flag=EE }:: Estonia | [Jan 21 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240121T170000&p1=1440&p2=262) | [osulive](https://twitch.tv/osulive) |
+| United States ::{ flag=US }:: | ::{ flag=ES }:: Spain | [Jan 21 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240121T180000&p1=1440&p2=263&p3=141) | [osulive](https://twitch.tv/osulive) |
+
 ## Mappools
 
 ### Round of 24
@@ -141,26 +161,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
 6. [Lime - Aurora (-NoName-) \[Stage 6: Brilliance\]](https://osu.ppy.sh/beatmapsets/2115955#mania/4443580)
 7. [Powerless - Frey's Philosophy (Maxus) \[Stage 7: Philosopher's Stone\]](https://osu.ppy.sh/beatmapsets/2115952#mania/4443575)
 8. [Raimukun - Cthulhu (Leeju) \[Stage 8: Abyss\]](https://osu.ppy.sh/beatmapsets/2115980#mania/4443612)
-
-## Match schedule: Round of 24
-
-### Saturday, 20 January 2024
-
-| Team A | Team B | Match time | Twitch stream |
-| --: | :-- | :-- | :-: |
-| Netherlands ::{ flag=NL }:: | ::{ flag=TW }:: Taiwan | [Jan 20 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240120T140000&p1=1440&p2=16&p3=241) | [osulive](https://twitch.tv/osulive) |
-| Vietnam ::{ flag=VN }:: | ::{ flag=SE }:: Sweden | [Jan 20 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240120T150000&p1=1440&p2=95&p3=239) | [osulive](https://twitch.tv/osulive) |
-| Poland ::{ flag=PL }:: | ::{ flag=EE }:: Estonia | [Jan 20 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240120T160000&p1=1440&p2=262) | [osulive](https://twitch.tv/osulive) |
-| Brazil ::{ flag=BR }:: | ::{ flag=PT }:: Portugal | [Jan 20 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240120T170000&p1=1440&p2=45&p3=133) | [osulive](https://twitch.tv/osulive) |
-
-### Sunday, 21 January 2024
-
-| Team A | Team B | Match time | Twitch stream |
-| --: | :-- | :-- | :-: |
-| Indonesia ::{ flag=ID }:: | ::{ flag=FR }:: France | [Jan 21 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240121T140000&p1=1440&p2=108&p3=195) | [osulive](https://twitch.tv/osulive) |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=DK }:: Denmark | [Jan 21 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240121T150000&p1=1440&p2=166&p3=69) | [osulive](https://twitch.tv/osulive) |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=DE }:: Germany | [Jan 21 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240121T160000&p1=1440&p2=136&p3=37) | [osulive](https://twitch.tv/osulive) |
-| United States ::{ flag=US }:: | ::{ flag=ES }:: Spain | [Jan 21 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240121T170000&p1=1440&p2=263&p3=141) | [osulive](https://twitch.tv/osulive) |
 
 ## Match results
 
