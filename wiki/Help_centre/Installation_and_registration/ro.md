@@ -36,4 +36,4 @@ De asemenea, [fă clic aici](https://osu.ppy.sh/home/download) aici pentru un li
 
 **Descarcă osu! de [aici](https://osu.ppy.sh/home/download), și rulează-l. Jocul îți va solicita o secțiune unde îți poți crea un cont nou.**
 
-Fi sigur că oferi o adresă de e-mail pe care o deții. Aceasta va fi folosită pentru a îți reseta parola și pentru a îți trimite e-mailuri de verificare când este necesar. Nu folosi un e-mail de unică folosință.
+Asigură-te că oferi o adresă de e-mail pe care o deții. Aceasta va fi folosită pentru a îți reseta parola și pentru a îți trimite e-mailuri de verificare când este necesar. Nu folosi un e-mail de unică folosință.
