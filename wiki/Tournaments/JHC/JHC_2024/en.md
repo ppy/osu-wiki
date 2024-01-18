@@ -31,7 +31,7 @@ The **JHC 2024** (***Jack House Cup 2024***) is a team–based osu!mania 4K tour
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place")  | profile badge, *TBA* |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place")  | *TBA*, profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | *TBA*  |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | *TBA*  |
 
@@ -74,7 +74,7 @@ The **JHC 2024** (***Jack House Cup 2024***) is a team–based osu!mania 4K tour
 
 ### Tournament rules
 
-1. The Jack House Cup 2024 is a team-based 1 versus 1 double-elimination team tournament, played on the osu!mania game mode (4K variant).
+1. The Jack House Cup 2024 is a team–based 1 versus 1 double-elimination team tournament, played on the osu!mania game mode (4K variant).
 2. Beatmap scoring is based on ScoreV2.
 3. The size for a team is 1 ~ 2 players.
 4. The mappool for each round will be announced by the mappool selectors on the main stage, in 1 week before the matches take place.
@@ -83,13 +83,14 @@ The **JHC 2024** (***Jack House Cup 2024***) is a team–based osu!mania 4K tour
    - Custom skin elements must not be used to alter core gameplay elements or mechanics in unintended ways.
 7. If no player are present at match time, the match can be postponed for up to 10 minutes. If after this period there are still no player for either team, a *win by default* will be declared for the side with member present; if after this period there are still no player for both teams, a *win by default* will be declared for the red team.
    - The minimum amount of required players is the amount of players needed to play a beatmap without any vacant spots in the lobby (i.e. at least 1 participant from each team must be present for the match to begin).
-8. Exchanging players between games is allowed without limitations.
-9. If a game ends in a draw, it will be nullified and the beatmap will be replayed.
-10. Teams may ask for a rematch if a team member encounters technical issues while playing within 30 seconds or 25% of the beatmap drain length (whichever happens first) of the game's start. Referees may, at their discretion, veto this request.
+8. No warm up stage in the match.
+9. Exchanging players between games is allowed without limitations.
+10. If a game ends in a draw, it will be nullified and the beatmap will be replayed.
+11. Teams may ask for a rematch if a team member encounters technical issues while playing within 30 seconds or 25% of the beatmap drain length (whichever happens first) of the game's start. Referees may, at their discretion, veto this request.
     - "Lag spikes" are not considered a valid reason to rematch a beatmap.
     - The roster for each team during a rematch must remain the same as the original run. If that is not possible, e.g. by virtue of a technical issue that prevents a player from entering the lobby, both teams will be allowed to swap rosters.
     - This rule is not to be abused. Referees may veto a rematch request if they find that this is the case.
-11. If a player disconnects mid-game, their scores will not be counted towards their team's total, unless adequate proof of said score is provided. The following are considered as acceptable proof:
+12. If a player disconnects mid-game, their scores will not be counted towards their team's total, unless adequate proof of said score is provided. The following are considered as acceptable proof:
     - Player point-of-view live stream snippets (commonly referred to as "clips" or "VODs"). The entirety of the play, along with the results screen must be clearly visible along with the affected player's score.
     - Replay files of the play, taken directly from the "Local scores" tab on the affected player's client (the timestamps must exactly match the time at which the game took place, as seen on the multiplayer lobby link).
     - Screenshots from other players taken directly in-game that show the affected player's score.
@@ -97,24 +98,24 @@ The **JHC 2024** (***Jack House Cup 2024***) is a team–based osu!mania 4K tour
       - Screenshots taken in-game at the time of disconnection may be accepted. Note that this method does not provide a one-to-one representation of that player's score. Using this method is not encouraged and it may be denied at the referee's discretion if the information provided is not sufficient to identify the player/score.
       - All screenshots **MUST** be taken using the game itself (using `Shift` + `F12`), that is, they must be hosted on the `https://osu.ppy.sh/` domain. Any other form of screenshot will be denied.
     - Player scores may be derived from the official stream as a last resort, in cases where the match is streamed.
-12. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied by the tournament managers. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match, and other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
-13. Any attempts to manipulate bracket outcomes or future matchups may result in the immediate disqualification of the player or team from the competition. Examples of manipulative behavior include, but are not limited to:
+13. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied by the tournament managers. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match, and other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
+14. Any attempts to manipulate bracket outcomes or future matchups may result in the immediate disqualification of the player or team from the competition. Examples of manipulative behavior include, but are not limited to:
     - Colluding with other players or teams to force a desired matchup.
     - Deliberately playing poorly to lose a game or match.
     - Forfeiting bracket matches without providing an adequate reasoning, or with the intention of getting a more favourable matchup.
-14. All players and staff must be treated with respect. Instructions from the referees and the tournament managers are to be followed. Decisions labelled as final are not to be objected.
-15. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms where the matches will take place.
+15. All players and staff must be treated with respect. Instructions from the referees and the tournament managers are to be followed. Decisions labelled as final are not to be objected.
+16. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms where the matches will take place.
     - Breaking the chat rules may result in a silence. Silenced players cannot participate in multiplayer matches and must be exchanged for the duration of the punishment.
-16. Penalties for violating the tournament rules include, but are not limited to:
+17. Penalties for violating the tournament rules include, but are not limited to:
     - Exclusion of specific players for one beatmap.
     - Exclusion of specific players for an entire match.
     - Declaring the match as forfeited, or as a win by default for the other team.
     - Disqualification from the entire tournament.
     - Disqualification from the current and future official tournaments, until appealed.
-17. Referees may allow, at their discretion, lower or higher tolerances for `timers`.
-18. The tournament managers may request liveplays or recordings of individual players or teams at any point in the tournament without prior warning.
-19. Any tournament-related complaints shall be sent to osu! official report form.
-20. The tournament managers reserve the right to modify these rules at any moment. Any such changes will be announced in advance.
+18. Referees may allow, at their discretion, lower or higher tolerances for `timers`.
+19. The tournament managers may request liveplays or recordings of individual players or teams at any point in the tournament without prior warning.
+20. Any tournament-related complaints shall be sent to osu! official report form.
+21. The tournament managers reserve the right to modify these rules at any moment. Any such changes will be announced in advance.
 
 ### Tournament registration
 
@@ -169,7 +170,6 @@ The **JHC 2024** (***Jack House Cup 2024***) is a team–based osu!mania 4K tour
      - Repeat offenders may receive further sanctions from the staffs.
 6. Each team will receive one "tactical timeout" of 2 minutes, to be used as extra time to ban, protect, pick, or ready for a beatmap. *The tactical timeout is optional.*
    - The tactical timeout may be called on a tiebreaker, provided that both teams agree to it.
-7. No warm up stage in the match.
 
 ### Mappool instructions
 
