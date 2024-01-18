@@ -239,7 +239,7 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
-| [Kurorak - BREACH PROTOCOL](https://kurorak.bandcamp.com/track/breach-protocol)[^breach-protocol-note] | [#1](https://osu.ppy.sh/beatmapsets/1050571) | Finals FM8 |
+| [Kurorak - BREACH PROTOCOL](https://kurorak.bandcamp.com/track/breach-protocol) | [#1](https://osu.ppy.sh/beatmapsets/1050571) | Finals FM8 |
 
 #### ![](/wiki/shared/mode/mania.png) [osu!mania 4K World Cup 2021](/wiki/Tournaments/MWC/2021_4K)
 
@@ -996,4 +996,3 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 [^fa]: This song is made by a Featured Artist, but is not part of the Featured Artist catalogue.
 [^fa-feature]: This song features a Featured Artist, but is not part of the Featured Artist catalogue.
 [^fa-catalogue]: This song is part of the Featured Artist catalogue.
-[^breach-protocol-note]: Unlike other World Cup originals, this song is commissioned by a third-party for a purpose unrelated to osu!. However, it ended up debuting in the osu!mania 4K World Cup 2019 due to circumstances at the time.
