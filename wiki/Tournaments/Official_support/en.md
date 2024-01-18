@@ -53,7 +53,7 @@ If your tournament satisfies the [eligibility criteria](#eligibility), you can m
     - For regional tournaments, the thread may be created in the appropriate language subforum.
   - Public Discord servers or any other off-site chatrooms used for the event.
   - Previous iterations of the same tournament series (only where applicable).
-- A separate list of the users who have registered to participate in the tournament (see [tournament screening](#tournament-screening)).
+- A list of the users who have registered to participate in the tournament (see [tournament screening](#tournament-screening)), as a separate attachment.
 
 Once we receive your request, the account support team will return a list of users who are ineligible to participate in tournaments. Please allow ample time for a response. We will try our best to handle all requests within a week, but we occasionally have large spikes in workload that can make this impossible.
 
