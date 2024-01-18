@@ -45,21 +45,21 @@ En stable, los requisitos de precisión (y juicio) para cada [grado](/wiki/Gamep
 
 | Grado | osu! / osu!taiko | osu!catch | osu!mania |
 | :-: | :-- | :-- | :-- |
-| SS | 100% | 100% | 100% |
-| S | ≥90% (≤1% MEHs/50s, sin fallos) | ≥98% | ≥95% |
-| A | ≥80% (sin fallos) o ≥90% | ≥94% | ≥90% |
-| B | ≥70% (sin fallos) o ≥80% | ≥90% | ≥80% |
-| C | ≥60% | ≥85% | ≥70% |
+| SS | 100 % | 100 % | 100 % |
+| S | ≥90 % (≤1% MEH/50, sin fallos) | ≥98 % | ≥95 % |
+| A | ≥80 % (sin fallos) o ≥90 % | ≥94 % | ≥90 % |
+| B | ≥70 % (sin fallos) o ≥80 % | ≥90 % | ≥80 % |
+| C | ≥60 % | ≥85 % | ≥70 % |
 
 Mientras tanto, osu!(lazer) ahora tiene los siguientes requisitos:
 
 | Grado | osu! / osu!taiko / osu!mania | osu!catch |
 | :-: | :-- | :-- |
-| SS | 100% | 100% |
-| S | ≥95% | ≥98% |
-| A | ≥90% | ≥94% |
-| B | ≥80% | ≥90% |
-| C | ≥70% | ≥85% |
+| SS | 100 % | 100 % |
+| S | ≥95 % | ≥98 % |
+| A | ≥90 % | ≥94 % |
+| B | ≥80 % | ≥90 % |
+| C | ≥70 % | ≥85 % |
 
 |  |  |
 | :-- | :-: |
