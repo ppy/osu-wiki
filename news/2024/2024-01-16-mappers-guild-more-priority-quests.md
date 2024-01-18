@@ -71,7 +71,7 @@ The first 5 maps to be ranked will win. Both mappers per map will receive quest 
 
 It's time to show off your mapping endurance:
 
-Create a map with a song that is **between 1 and 2 minutes** with **at least 10 difficulties**, or create a map with a song that is **over 5 minutes** with **at least 2 difficulties**.
+Create a map with a song that is **over 1 minute** with **at least 10 difficulties**, or create a map with a song that is **over 5 minutes** with **at least 2 difficulties**.
 
 ### [The Hurdle v2](https://mappersguild.com/missions?id=65a6e6a3fa448adc05ab6bc5)
 
