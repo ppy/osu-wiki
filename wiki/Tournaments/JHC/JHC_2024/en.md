@@ -63,12 +63,12 @@ The **JHC 2024** (***Jack House Cup 2024***) is a team–based osu!mania 4K tour
 
 [Download the mappack here (27 MB)](https://drive.google.com/file/d/1CRqEYk2C21Ju4C7_ijL8Ol-m9tF5JWVF/view?usp=sharing)
 
-1. DS: [M2U \& Este - Obelisque (Ycloki) \[Stage 1: Objective\]](https://osu.ppy.sh/b/4405224)
-2. MD: [Banshi - cHeefully (Dreamemory) \[Stage 2: Upcoming Spring\]](https://osu.ppy.sh/b/4448638)
-3. LT: [F-777 - Sonic Blaster (Glorionoly) \[Stage 3: Sonication\]](https://osu.ppy.sh/b/4448682)
-4. RM: [Zekk - Foresight (Blue_Potion) \[Stage 4: Beyond the Horizon\]](https://osu.ppy.sh/b/4448669)
-5. HV: [Taishi feat. IA - Diaphanser (ieFaH) \[Stage 5: Invisible Beauty\]](https://osu.ppy.sh/b/4448637)
-6. SP: [Hommarju - Crazy Jackpot (\[GB\]V1do) \[Stage 6: JACKpot\]](https://osu.ppy.sh/b/4448636)
+1. DS: [M2U \& Este - Obelisque (Ycloki) \[Stage 1: Objective\]](/beatmapsets/2099900#mania/4405224)
+2. MD: [Banshi - cHeefully (Dreamemory) \[Stage 2: Upcoming Spring\]](/beatmapsets/2118128#mania/4448638)
+3. LT: [F-777 - Sonic Blaster (Glorionoly) \[Stage 3: Sonication\]](/beatmapsets/2118150#mania/4448682)
+4. RM: [Zekk - Foresight (Blue_Potion) \[Stage 4: Beyond the Horizon\]](/beatmapsets/2118140#mania/4448669)
+5. HV: [Taishi feat. IA - Diaphanser (ieFaH) \[Stage 5: Invisible Beauty\]](/beatmapsets/2118127#mania/4448637)
+6. SP: [Hommarju - Crazy Jackpot (\[GB\]V1do) \[Stage 6: JACKpot\]](/beatmapsets/2118126#mania/4448636)
 
 ## Ruleset
 
