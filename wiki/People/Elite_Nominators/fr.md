@@ -20,8 +20,7 @@ Les Elite Nominators sont sélectionnés par la Nomination Assessment Team sur l
 
 - Le [titre d'utilisateur](/wiki/Community/User_title) Elite Nominator, qui dure 1 an jusqu'à la prochaine vague de Elite Nominator ou lorsque l'utilisateur quitte les Beatmap Nominators. Si un utilisateur obtient à nouveau le titre pour des années consécutives, le titre augmente de 1 ("Elite Nominator II", etc.).
 - Un [badge de profil](/wiki/Community/Profile_badge) Elite Nominator, qui est permanent.
-
-![](https://assets.ppy.sh/profile-badges/elite-nominator.png "Badge Elite Nominator") ![](https://assets.ppy.sh/profile-badges/elite-nominator-2.png "Badge Elite Nominator II")
+  ![](https://assets.ppy.sh/profile-badges/elite-nominator.png?2024 "Badge Elite Nominator") ![](https://assets.ppy.sh/profile-badges/elite-nominator-2.png "Badge Elite Nominator II")
 
 ## Liste des Elite Nominators
 

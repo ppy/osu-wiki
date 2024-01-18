@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 2ab6cac1bf924094c3e08a95644667b9789c6026
 tags:
   - badge
   - badges
