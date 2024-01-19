@@ -86,7 +86,7 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 
 ## Files
 
-- **Don't use inappropriate songs or backgrounds.** See [song content rules](/wiki/en/Rules/Song_content_rules) and [visual content considerations](/wiki/Rules/Visual_content_considerations).
+- **Don't use inappropriate songs or backgrounds.** See [song content rules](/wiki/Rules/Song_content_rules) and [visual content considerations](/wiki/Rules/Visual_content_considerations).
 - **Don't include unused files in the map folder.**
 
 ### Song
@@ -128,7 +128,7 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 
 ## Mode-specific
 
-*For full [game mode](/wiki/Game_mode)-specific ranking criteria, see: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), and [osu!mania](osu!mania)*
+*For full [game mode](/wiki/Game_mode)-specific ranking criteria, see: [osu!](../osu!), [osu!taiko](../osu!taiko), [osu!catch](../osu!catch), and [osu!mania](../osu!mania)*
 
 ### osu!
 
