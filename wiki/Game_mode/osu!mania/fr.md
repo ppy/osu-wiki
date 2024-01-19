@@ -229,7 +229,7 @@ Activer le bouton `Co-op mode` pour forcer le modificateur de jeu *Co-Op* lorsqu
   - Respectivement, pour une beatmap de 5K, l'utilisation du modificateur 5K n'entraînera pas non plus de réduction de score.
   - L'utilisation du modificateur xK ou Co-Op sur la beatmap spécifique à osu!mania n'entraînera pas non plus de réduction de score.
 - Les mascottes d'osu!mania sont [Mani & Mari](/wiki/Mascots#mani-&-mari).
-- Lorsque le jeu est joué par [Auto] (/wiki/Gameplay/Game_modifier/Auto), le nom du joueur sera *osu!topus*.
+- Lorsque le jeu est joué par [Auto](/wiki/Gameplay/Game_modifier/Auto), le nom du joueur sera *osu!topus*.
 
 ### Histoire
 

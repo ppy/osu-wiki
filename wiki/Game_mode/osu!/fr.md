@@ -78,7 +78,7 @@ Si le modificateur de jeu [Auto Pilot](/wiki/Gameplay/Game_modifier/Autopilot) a
 
 ## Score
 
-Le [score dans osu!] (/wiki/Gameplay/Score/ScoreV1/osu!) est une somme pondérée de plusieurs composantes du gameplay. Il dépend des éléments suivants :
+Le [score dans osu!](/wiki/Gameplay/Score/ScoreV1/osu!) est une somme pondérée de plusieurs composantes du gameplay. Il dépend des éléments suivants :
 
 - Le [jugement](/wiki/Gameplay/Judgement/osu!) détermine la valeur de base du score d'un objet (300, 100, 50, ou 0 en cas de miss). Pour les [cercles de frappe](/wiki/Gameplay/Hit_object/Hit_circle), les pressions de touches au bon moment sont plus valorisées, à la fois en termes de score et de précision. Les [sliders](/wiki/Gameplay/Hit_object/Slider) et les [spinners](/wiki/Gameplay/Hit_object/Spinner) n'ont pas de fenêtre hit, mais briseront le combo s'ils sont manqués ou mal clear. Obtenir un jugement plus élevé permet également d'augmenter la [santé](/wiki/Gameplay/Health).
 - La [précision](/wiki/Gameplay/Accuracy#osu!) dépend du jugement et indique la précision des coups. Les appuis tardifs ou précoces sur les touches, ainsi que les miss, diminuent la précision globale.
@@ -119,7 +119,7 @@ Les cercles sont visibles sur l'écran du bas, et l'histoire sur l'écran du hau
 - Le fait de ne pas spinner autour du noyau central du spinner ne sera **pas** considéré comme un spin valide.
 - La fumée dure plus longtemps que la trace du curseur par défaut dans le jeu. Appliquez les effets de fumée de manière éparse pour éviter que les anciens effets de fumée ne disparaissent trop rapidement.
 - La mascotte d'osu! est [pippi](/wiki/Mascots#pippi).
-- Lorsque le jeu est joué par [Auto] (/wiki/Gameplay/Game_modifier/Auto), le nom du joueur est osu!
+- Lorsque le jeu est joué par [Auto](/wiki/Gameplay/Game_modifier/Auto), le nom du joueur est osu!
 
 ### Histoire
 
