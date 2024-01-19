@@ -82,11 +82,11 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 
 ### Source
 
-- **Use the Source field if the song is from another media source, like a game or a movie.**
+- **Use the Source field if the song is from another media source, like a game, movie, or event.**
 
 ## Files
 
-- **Don't use inappropriate songs or backgrounds.** See [song content rules](/wiki/Rules/Song_content_rules) and [visual content considerations](/wiki/Rules/Visual_content_considerations).
+- **Don't use inappropriate content.** See [song content rules](/wiki/Rules/Song_content_rules) and [visual content considerations](/wiki/Rules/Visual_content_considerations).
 - **Don't include unused files in the map folder.**
 
 ### Song
