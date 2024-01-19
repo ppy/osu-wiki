@@ -78,7 +78,7 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
   - **Replace short version markers with `(Short Ver.)`.**
   - **Use `(Cut Ver.)` to indicate an unofficial song cut.**
   - **Use `(Extended Edit)` to indicate an unofficial song extension.**
-  - **Use `(Sped Up Ver.)` to indicate an unofficial song temp increase.** For some genres, `(Nightcore Mix)` is an okay alternative.
+  - **Use `(Sped Up Ver.)` to indicate an unofficial song tempo increase.** For some genres, `(Nightcore Mix)` is an okay alternative.
 
 ### Source
 
@@ -145,7 +145,7 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 - **Adjust the background's vertical offset to fit the playfield.**
 - **Use `Omit first bar line` to remove any unfitting bar lines.**
 - **Avoid kiai flashes.**
-- **Only use big notes at the end of rhythms that are 1/4 or faster.**
+- **On rhythms that are 1/4 or faster, use big notes only at the end of patterns.**
 - **Each difficulty should follow its respective break length guidelines:**
 
 | Difficulty | Break | Chain length |
