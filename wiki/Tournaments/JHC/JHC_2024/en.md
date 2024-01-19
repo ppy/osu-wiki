@@ -139,7 +139,7 @@ The **JHC 2024** (***Jack House Cup 2024***) is a team–based osu!mania 4K tour
 2. To ensure valid registrations, every participant will be sent to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening).
    - Players must not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 3. A list of all successfully registered players will be published after the registration.
-4. [Tournament staff members](/wiki/Tournaments/Official_support#what-is-considered-staff) must not participate as players in the tournament.
+4. [Tournament staff members](/wiki/en/Tournaments/Official_support#staff) must not participate as players in the tournament.
 
 ### Qualifier instructions
 
