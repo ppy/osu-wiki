@@ -142,10 +142,13 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 
 ### osu!taiko
 
-- **Adjust the background's vertical offset to properly fit the playfield.**
-- **Use the `Omit first bar line` function to remove any unfitting or unnecessary bar lines.**
+- **Adjust the background's vertical offset to fit the playfield.**
+- **Use `Omit first bar line` to remove any unfitting bar lines.**
 - **Avoid kiai flashes.**
-- **Each difficulty should adhere to its respective break length guidelines.**
+- **Only use big notes at the end of rhythms that are 1/4 or faster.**
+- **Each difficulty should follow its respective break length guidelines:**
+
+<!-- table coming soon -->
 
 ### osu!catch
 
