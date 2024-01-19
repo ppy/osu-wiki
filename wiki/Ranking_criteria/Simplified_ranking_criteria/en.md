@@ -73,7 +73,7 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 
 ### Title
 
-  - **Songs shortened for TV use must have `(TV Size)`.**
+  - **Songs used for TV must have `(TV Size)`.**
   - **Replace game version markers with `(Game Ver.)`.**
   - **Replace short version markers with `(Short Ver.)`.**
   - **Use `(Cut Ver.)` to indicate an unofficial song cut.**
