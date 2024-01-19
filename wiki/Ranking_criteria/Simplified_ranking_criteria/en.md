@@ -28,7 +28,7 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 - **A [guest mapper](/wiki/Beatmap/Guest_difficulty) can't create more difficulties than the [host](/wiki/Beatmap/Beatmap_host).**
 - **Minimum requirement for lowest difficulty by mode and length:**
 
-|  | osu! | osu!taiko
+|  | osu! | osu!taiko |
 | --: | :-: | :-: |
 | **0:30 to 3:30** | Normal | Futsuu |
 | **3:30 to 4:15** | Hard | Muzukashii |
