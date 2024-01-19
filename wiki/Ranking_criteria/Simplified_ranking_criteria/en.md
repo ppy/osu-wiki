@@ -66,7 +66,7 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 
 ### Tags
 
-  - **Add usernames of anyone who contributes to the map.**
+  - **Add usernames of anyone who contributes to the map.** This doesn't include modders.
   - **Add the song's [genre and language](/wiki/Beatmap/Genre_and_language).**
   - **Add `featured artist` if the song is in the [Featured Artist catalogue](https://osu.ppy.sh/beatmaps/artists).**
   - **Other tags must be relevant to the song/map.**
