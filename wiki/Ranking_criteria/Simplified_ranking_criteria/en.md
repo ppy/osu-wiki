@@ -163,7 +163,7 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 ### osu!mania
 
 - Beatmaps can only use 4–10, 12, 14, 16, or 18 keys.
-    - Key modes over 10 keys must use certain [playstyles](/wiki/Beatmapping/osu!mania_10K_plus_playstyles).
+  - Key modes over 10 keys must use certain [playstyles](/wiki/Beatmapping/osu!mania_10K_plus_playstyles).
 - No column can be left empty.
 - No more than 6 notes can be pressed at the same time in Insane or lower difficulties.
 - Difficulties using an [N+1 playstyle](/wiki/Ranking_criteria/osu!mania#common-terms) must enable the `Use special style (N+1 style) for mania`
