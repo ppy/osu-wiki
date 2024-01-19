@@ -146,6 +146,8 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 - **Use `Omit first bar line` to remove any unfitting bar lines.**
 - **Avoid kiai flashes.**
 - **On rhythms that are 1/4 or faster, use big notes only at the end of patterns.**
+- **Avoid slider velocity changes on lower difficulties.**
+- **Keep the base slider velocity at 1.4.**
 - **Each difficulty should follow its respective break length guidelines:**
 
 | Difficulty | Break | Chain length |
