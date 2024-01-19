@@ -148,7 +148,13 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 - **Only use big notes at the end of rhythms that are 1/4 or faster.**
 - **Each difficulty should follow its respective break length guidelines:**
 
-<!-- table coming soon -->
+| Difficulty | Break | Chain length |
+| --: | :-: | :-: |
+| **Kantan** | ![3/1](./img/taiko/kantan.png "3/1") | Break needed every 32-36 beats |
+| **Futsuu** | ![2/1](./img/taiko/futsuu.png "2/1") | Break needed every 32-36 beats |
+| **Muzukashii** (option 1) | ![3/2](./img/taiko/muzu1.png "3/2") | Break needed every 16-20 beats |
+| **Muzukashii** (option 2) | ![3 consecutive 1/1](./img/taiko/muzu2.png "3 consecutive 1/1") | Break needed every 16-20 beats |
+| **Oni** | ![1/1](./img/taiko/oni.png "1/1") | Break needed every 16-20 beats |
 
 ### osu!catch
 
