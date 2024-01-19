@@ -32,11 +32,8 @@ Players and organizers will need to login **[here](https://5wc.stagec.xyz/)** to
 
 Additionally, prospective players must:
 - Not be restricted or hold an active tournament ban by the end of registrations.
-
 - Must not violate the 5WC 2024 community rules in a way which warrants disqualification.
-
 - Be within the rank range of #10,000-99,999 after the [BWS formula](/wiki/en/Tournaments/Badge-weighted_seeding) is applied with badges earned on or after 01-01-2021.
-
 - Join our [Discord server](https://discord.gg/WxX2UkdSMq).
 
 ### Tryouts
