@@ -4,13 +4,13 @@ title: "5 Digit World Cup 2024: Registrations Now Open!"
 date: 2024-01-23 12:00:00 +0000
 ---
 
-Calling all 5 Digits! After a long wait, 5WC is back - and it's better than ever.
+Calling all 5 digit osu! players! After a long wait, the 5 Digit World Cup is back - and it's better than ever.
 
 ![](/wiki/Tournaments/5WC/2024/img/5wc2024-banner.png)
 
-The 5 Digit World Cup is an annual community tournament for players ranked #10,000-99,999 in osu! and features some of the strongest competition for the rank range. Each year, organizers from around the world seek out the best 5 digits from their country in hopes of winning the title of 5WC champion. This year is no different, and the prizes are even more grand than before.
+The 5 Digit World Cup is an annual world-cup-style community tournament for any osu! player with a 5 digit rank. Each year, organizers from around the world seek out the best 5 digits to represent their country in hopes of winning the title of 5WC champion. In a few weeks, 32 qualifying countries will battle it out across 6 weeks of intense bracket stage competition - we invite all to participate and spectate each weekend!
 
-Last year, we received a staggering 2,740 registrations from 69 different countries. Against all odds, Team France (#4) managed to narrowly squeeze out a miracle **two** back to back grand finals tiebreaker victories against Team Russia (#2) in an exhausting 4-hour match. This came after having defeated an incredibly strong Team Netherlands (#1) in the prior losers bracket grand final.
+Last year, we received a staggering 2,740 registrations from 69 different countries. Against all odds, Team France (#4) managed to narrowly claim **two** back to back grand finals tiebreaker victories against Team Russia (#2) in an exhausting 4-hour match. This came after defeating an incredibly strong Team Netherlands (#1) in the prior losers bracket grand finals match, sending them home with third place.
 
 ## Changes From 2023
 
@@ -38,7 +38,7 @@ Additionally, prospective players must:
 
 ### Tryouts
 
-Most countries require their players to tryout in order to be considered for the team. To check who your tryouts organizer is, check out [this spreadsheet](https://docs.google.com/spreadsheets/d/1AnmOB2qatI0wFF_yj0NLoAevHSRUI2AEA0Q-Csn268Y/edit#gid=0). You'll need to get in touch with the tryouts community for your country in order to participate. If you don't see your country on this list, join our [Discord server](https://discord.gg/WxX2UkdSMq) and reach out to the Admin team by opening a ticket in our #tickets channel, we'll be happy to help.
+Most countries require their players to tryout in order to be considered for the team. To check who your country's tryouts organizer is, check out [this spreadsheet](https://docs.google.com/spreadsheets/d/1AnmOB2qatI0wFF_yj0NLoAevHSRUI2AEA0Q-Csn268Y/edit#gid=0). You'll need to get in touch with the tryouts community for your country in order to participate. If you don't see your country on this list, join our [Discord server](https://discord.gg/WxX2UkdSMq) and reach out to the Admin team by opening a ticket in our #tickets channel, we'll be happy to help.
 
 ## Schedule
 
@@ -64,6 +64,6 @@ At the time of writing, the community has donated over 500USD to our prize pool 
 
 We heavily encourage all eligible players with an interest in playing to tryout for your country. All are more than welcome to spectate and/or get involved with our community via our [Discord server](https://discord.gg/WxX2UkdSMq).
 
-May the best 5 digits win!
+GLHF!
 
 —Stage
