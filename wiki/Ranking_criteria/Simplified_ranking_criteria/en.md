@@ -15,8 +15,8 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 ![](./img/percent.png "Song progress percentage")
 :::
 
-- **No maps shorter than 30 seconds.**
-- **End your map after the [80% mark](./img/percent.png).** If you want to end it earlier, cut the song.
+- **Maps must be 30 seconds long.**
+- **Maps must end after the [80% mark](./img/percent.png).** If you want to end the map earlier, cut the song.
 
 ### Spread
 
@@ -25,7 +25,7 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
   - Logical naming schemes like Seed -> Sprout -> Tree are okay too.
   - **Exception:** The hardest difficulty can use a custom name, like Normal -> Hard -> *Melancholy*
 - **Don't skip difficulties.** For example, if you have Normal and Insane difficulties, you need a Hard too.
-- **A [guest mapper](/wiki/Beatmap/Guest_difficulty) cannot create more difficulties than the [host](/wiki/Beatmap/Beatmap_host).**
+- **A [guest mapper](/wiki/Beatmap/Guest_difficulty) can't create more difficulties than the [host](/wiki/Beatmap/Beatmap_host).**
 - **Minimum requirement for lowest difficulty by mode and length:**
 
 |  | osu! | osu!taiko
@@ -51,10 +51,11 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 ![](./img/2b.png "Two objects on the same tick")
 :::
 
-- **Your map must be correctly timed.** This includes BPM and time signature changes.
+- **Maps must be correctly timed.** This includes BPM and time signatures.
+- **All difficulties must use the same timing.**
 - **Do not change timing to adjust slider velocity.**
 - **Objects must be snapped to timeline ticks.**
-- **Only one object per tick,** excluding osu!mania maps.
+- **Only one object is allowed per tick,** excluding osu!mania maps.
 
 ## Metadata
 
@@ -66,8 +67,8 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 ### Tags
 
   - **Add usernames of anyone who contributes to the map.**
-  - **Add your song's [genre and language](/wiki/Beatmap/Genre_and_language).**
-  - **Add `featured artist` if your song is in the [Featured Artist catalogue](https://osu.ppy.sh/beatmaps/artists).**
+  - **Add the song's [genre and language](/wiki/Beatmap/Genre_and_language).**
+  - **Add `featured artist` if the song is in the [Featured Artist catalogue](https://osu.ppy.sh/beatmaps/artists).**
   - **Other tags must be relevant to the song/map.**
 
 ### Title
@@ -81,12 +82,12 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 
 ### Source
 
-- **Use the Source field if your song is from another media source, like a game or a movie.**
+- **Use the Source field if the song is from another media source, like a game or a movie.**
 
 ## Files
 
-- **No inappropriate songs or backgrounds.** See [song content rules](/wiki/en/Rules/Song_content_rules) and [visual content considerations](/wiki/Rules/Visual_content_considerations).
-- **No unused files in the map folder.**
+- **Don't use inappropriate songs or backgrounds.** See [song content rules](/wiki/en/Rules/Song_content_rules) and [visual content considerations](/wiki/Rules/Visual_content_considerations).
+- **Don't include unused files in the map folder.**
 
 ### Song
 
@@ -116,14 +117,14 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
   - **Maximum width:** 2560px
   - **Maximum height:** 1440px
   - **Maximum file size:** 2.5MB
-- **Link the source of your map's background in the description.**
+- **Link the source of the map's background in the description.**
 
 ### Video
 
 - **Video must adhere to the following:**
   - **Maximum video resolution:** 1280x720
   - **Video encoding:** H.264
-- **Audio track must be removed from video.**
+- **Audio track must be removed from video files.**
 
 ## Mode-specific
 
