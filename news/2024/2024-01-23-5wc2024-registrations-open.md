@@ -31,6 +31,7 @@ Additionally, we found the notoriously-harsh BWS to be too restrictive. Player f
 Players and organizers will need to login **[here](https://5wc.stagec.xyz/)** to register and/or manage their teams. Organizers have a new, private web interface they can use to manage their teams. Players who are selected will not know until told directly by their organizer.
 
 Additionally, prospective players must:
+
 - Not be restricted or hold an active tournament ban by the end of registrations.
 - Must not violate the 5WC 2024 community rules in a way which warrants disqualification.
 - Be within the rank range of #10,000-99,999 after the [BWS formula](/wiki/en/Tournaments/Badge-weighted_seeding) is applied with badges earned on or after 01-01-2021.
