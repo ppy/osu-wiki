@@ -26,7 +26,7 @@ tags:
 
 *Notice: Enabling the Target Practice mod will result in an unranked play.*
 
-The **Target Practice** mod is an experimental [game modifier](/wiki/Gameplay/Game_modifier) for [osu!](/wiki/Game_mode/osu!), which removes all the mapped [hit objects](/wiki/Gameplay/Hit_object) and replaces them with a simplified and consistent set of "targets". Due to this mod's nature, The mod is used mostly for fun, but can also be helpful to players that want to improve themselves, for they can use it to practice maintaining a consistent tempo and improving hit accuracy.
+The **Target Practice** mod is an experimental [game modifier](/wiki/Gameplay/Game_modifier) for [osu!](/wiki/Game_mode/osu!), which removes all the mapped [hit objects](/wiki/Gameplay/Hit_object) and replaces them with a simplified set of "targets". Due to this mod's nature, The mod is used mostly for fun, but can also be helpful to players that want to improve themselves, for they can use it to practice maintaining a consistent tempo and improving hit accuracy.
 
 During a play with the Target Practice mod enabled, the health bar and accuracy will not be shown. The player will be presented with a set of "targets" that slowly increase in size and brightness. The player is then expected to tap or click the targets at the right time. A consistent metronome will be played in the background to indicate to players when they should tap the target.
 
