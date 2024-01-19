@@ -11,7 +11,7 @@ tags:
 
 ![JHC 2024 banner](img/JHC-2024-banner.jpg)
 
-**JHC 2024** (***叠屋杯 2024***) 是由 [Blue_Potion](https://osu.ppy.sh/users/13094831) 和 [\[GB\]GanyuAngel](https://osu.ppy.sh/users/27233308) 主办的 1v1 队伍制 osu!mania 4K 项目赛事。本届比赛是 JHC 系列赛事的首届正式比赛。
+**JHC 2024** (***叠屋杯 2024***) 是由 ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831) 和 ::{ flag=CN }:: [\[GB\]GanyuAngel](https://osu.ppy.sh/users/27233308) 主办的 1v1 队伍制 osu!mania 4K 项目赛事。本届比赛是 JHC 系列赛事的首届正式比赛。
 
 ## 比赛日程
 
@@ -50,8 +50,7 @@ tags:
 ## 链接
 
 - [论坛讨论帖](https://osu.ppy.sh/community/forums/topics/1827578)
-- 直播间
-  - [直播舞台](https://live.bilibili.com/10100307) (::{ flag=CN }:: [\[GB\]Tyris](https://osu.ppy.sh/users/10497659))
+- [直播舞台](https://live.bilibili.com/10100307)
 - [淘汰赛赛程](https://challonge.com/ehi7s3y0)
 - [比赛 QQ 群](https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=pRNiqDnTUmLKQgy8iy2LnLx3uTYIL0dG)
 - [比赛 Discord 服务器](https://discord.gg/DqPuRU8Bhc)
@@ -63,12 +62,28 @@ tags:
 
 [点击此处下载图包（27 MB）](https://drive.google.com/file/d/1CRqEYk2C21Ju4C7_ijL8Ol-m9tF5JWVF/view?usp=sharing)
 
-1. DS: [M2U \& Este - Obelisque (Ycloki) \[Stage 1: Objective\]](https://osu.ppy.sh/beatmapsets/2099900#mania/4405224)
-2. MD: [Banshi - cHeefully (Dreamemory) \[Stage 2: Upcoming Spring\]](https://osu.ppy.sh/beatmapsets/2118128#mania/4448638)
-3. LT: [F-777 - Sonic Blaster (Glorionoly) \[Stage 3: Sonication\]](https://osu.ppy.sh/beatmapsets/2118150#mania/4448682)
-4. RM: [Zekk - Foresight (Blue_Potion) \[Stage 4: Beyond the Horizon\]](https://osu.ppy.sh/beatmapsets/2118140#mania/4448669)
-5. HV: [Taishi feat. IA - Diaphanser (ieFaH) \[Stage 5: Invisible Beauty\]](https://osu.ppy.sh/beatmapsets/2118127#mania/4448637)
-6. SP: [Hommarju - Crazy Jackpot (\[GB\]V1do) \[Stage 6: JACKpot\]](https://osu.ppy.sh/beatmapsets/2118126#mania/4448636)
+- Dense Chordjack
+
+  1. [M2U \& Este - Obelisque (Ycloki) \[Stage 1: Objective\]](https://osu.ppy.sh/beatmapsets/2099900#mania/4405224)
+
+- Middle Chordjack
+
+  1. [Banshi - cHeefully (Dreamemory) \[Stage 2: Upcoming Spring\]](https://osu.ppy.sh/beatmapsets/2118128#mania/4448638)
+
+- Light Chordjack
+  1. [F-777 - Sonic Blaster (Glorionoly) \[Stage 3: Sonication\]](https://osu.ppy.sh/beatmapsets/2118150#mania/4448682)
+
+- Rhythm Jack
+
+  1. [Zekk - Foresight (Blue_Potion) \[Stage 4: Beyond the Horizon\]](https://osu.ppy.sh/beatmapsets/2118140#mania/4448669)
+
+- Heavy Jack
+
+  1. [Taishi feat. IA - Diaphanser (ieFaH) \[Stage 5: Invisible Beauty\]](https://osu.ppy.sh/beatmapsets/2118127#mania/4448637)
+
+- Speed Jack
+
+  1. [Hommarju - Crazy Jackpot (\[GB\]V1do) \[Stage 6: JACKpot\]](https://osu.ppy.sh/beatmapsets/2118126#mania/4448636)
 
 ## 规则
 
@@ -111,7 +126,6 @@ tags:
     - 禁止选手在整场比赛上场；
     - 整队判负；
     - 本届比赛取消比赛资格；
-    - 系列赛取消比赛资格；
     - 系列赛和 osu! 官方社区比赛禁赛，直至申诉通过。
 18. 裁判可以根据情况调整 `timers` 的长度。
 19. 主办方可以在没有事先警告的情况下，要求选手开直播或录像。
@@ -140,7 +154,7 @@ tags:
 3. 选手需要在指定时间，在房间内连续打完整个图池，最多可以打两次，最后的成绩为所有单曲最高分的和。
 4. 图池需要按如下顺序进行游玩: DS, MD, LT, RM, HV, SP。此顺序不可更改。
    - 任何队伍打第二轮的时候可以跳过任意谱面。
-5. 每一张谱面，每队必须 **只上场 1 人** 打。可以在每张图结束后换人。
+5. 每一张谱面，每队必须 **仅上场 1 人** 游玩。可以在每张图结束后换人。
 6. 在第一轮游玩和第二轮游玩图池的中间，队伍可以选择休息 5 分钟。
 7. 所有选手会在其单独的资格赛房间进行游戏。
    - 主办方不建议选手直播资格赛，以防止露分控分导致操纵资格赛排名。

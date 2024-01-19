@@ -11,7 +11,7 @@ tags:
 
 ![JHC 2024 banner](img/JHC-2024-banner.jpg)
 
-The **JHC 2024** (***Jack House Cup 2024***) is a team–based osu!mania 4K tournament hosted by [Blue_Potion](https://osu.ppy.sh/users/13094831) and [\[GB\]GanyuAngel](https://osu.ppy.sh/users/27233308). It was the first instalment of the Jack House Cup.
+The **JHC 2024** (***Jack House Cup 2024***) is a team–based osu!mania 4K tournament hosted by ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831) and ::{ flag=CN }:: [\[GB\]GanyuAngel](https://osu.ppy.sh/users/27233308). It was the first instalment of the Jack House Cup.
 
 ## Tournament schedule
 
@@ -50,11 +50,10 @@ The **JHC 2024** (***Jack House Cup 2024***) is a team–based osu!mania 4K tour
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1827578)
-- 直播间
-  - [Stream](https://live.bilibili.com/10100307) (::{ flag=CN }:: [\[GB\]Tyris](https://osu.ppy.sh/users/10497659))
+- [Livestream](https://live.bilibili.com/10100307)
 - [Challonge bracket](https://challonge.com/ehi7s3y0)
 - [QQ Group](https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=pRNiqDnTUmLKQgy8iy2LnLx3uTYIL0dG)
-- [Discord Server](https://discord.gg/DqPuRU8Bhc)
+- [Discord server](https://discord.gg/DqPuRU8Bhc)
 - [Information spreadsheet](https://docs.google.com/spreadsheets/d/1Qm2BfIc2LFbf59-2RBkqnOde95y2WgoyO_XRNSrvNa4/)
 
 ## Mappools
@@ -63,12 +62,28 @@ The **JHC 2024** (***Jack House Cup 2024***) is a team–based osu!mania 4K tour
 
 [Download the mappack here (27 MB)](https://drive.google.com/file/d/1CRqEYk2C21Ju4C7_ijL8Ol-m9tF5JWVF/view?usp=sharing)
 
-1. DS: [M2U \& Este - Obelisque (Ycloki) \[Stage 1: Objective\]](https://osu.ppy.sh/beatmapsets/2099900#mania/4405224)
-2. MD: [Banshi - cHeefully (Dreamemory) \[Stage 2: Upcoming Spring\]](https://osu.ppy.sh/beatmapsets/2118128#mania/4448638)
-3. LT: [F-777 - Sonic Blaster (Glorionoly) \[Stage 3: Sonication\]](https://osu.ppy.sh/beatmapsets/2118150#mania/4448682)
-4. RM: [Zekk - Foresight (Blue_Potion) \[Stage 4: Beyond the Horizon\]](https://osu.ppy.sh/beatmapsets/2118140#mania/4448669)
-5. HV: [Taishi feat. IA - Diaphanser (ieFaH) \[Stage 5: Invisible Beauty\]](https://osu.ppy.sh/beatmapsets/2118127#mania/4448637)
-6. SP: [Hommarju - Crazy Jackpot (\[GB\]V1do) \[Stage 6: JACKpot\]](https://osu.ppy.sh/beatmapsets/2118126#mania/4448636)
+- Dense Chordjack
+
+  1. [M2U \& Este - Obelisque (Ycloki) \[Stage 1: Objective\]](https://osu.ppy.sh/beatmapsets/2099900#mania/4405224)
+
+- Middle Chordjack
+
+  1. [Banshi - cHeefully (Dreamemory) \[Stage 2: Upcoming Spring\]](https://osu.ppy.sh/beatmapsets/2118128#mania/4448638)
+
+- Light Chordjack
+  1. [F-777 - Sonic Blaster (Glorionoly) \[Stage 3: Sonication\]](https://osu.ppy.sh/beatmapsets/2118150#mania/4448682)
+
+- Rhythm Jack
+
+  1. [Zekk - Foresight (Blue_Potion) \[Stage 4: Beyond the Horizon\]](https://osu.ppy.sh/beatmapsets/2118140#mania/4448669)
+
+- Heavy Jack
+
+  1. [Taishi feat. IA - Diaphanser (ieFaH) \[Stage 5: Invisible Beauty\]](https://osu.ppy.sh/beatmapsets/2118127#mania/4448637)
+
+- Speed Jack
+
+  1. [Hommarju - Crazy Jackpot (\[GB\]V1do) \[Stage 6: JACKpot\]](https://osu.ppy.sh/beatmapsets/2118126#mania/4448636)
 
 ## Ruleset
 
@@ -81,7 +96,7 @@ The **JHC 2024** (***Jack House Cup 2024***) is a team–based osu!mania 4K tour
 5. The match schedules for each round will be announced by the tournament managers on this page, as well as the information sheet, in 1 week before the matches take place.
 6. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins is allowed.
    - Custom skin elements must not be used to alter core gameplay elements or mechanics in unintended ways.
-7. If no player are present at match time, the match can be postponed for up to 10 minutes. If after this period there are still no player for either team, a *win by default* will be declared for the side with member present; if after this period there are still no player for both teams, a *win by default* will be declared for the red team.
+7. If no players are present at the match time, the match can be postponed for up to 10 minutes. If after this period there are still no players for either team, a *win by default* will be declared for the side with a member present; if after this period there are still no players for both teams, a *win by default* will be declared for the red team.
    - The minimum amount of required players is the amount of players needed to play a beatmap without any vacant spots in the lobby (i.e. at least 1 participant from each team must be present for the match to begin).
 8. No warm up stage in the match.
 9. Exchanging players between games is allowed without limitations.
@@ -139,7 +154,7 @@ The **JHC 2024** (***Jack House Cup 2024***) is a team–based osu!mania 4K tour
 3. Players will play the mappool at least once (and up to twice) at a designated time. Their best combined score will be the final result.
 4. The mappool will be played in the following order: DS, MD, LT, RM, HV, SP. Players may not ask to play the pool in any other order.
    - Teams may skip playing any beatmap on their second run.
-5. Each team must have **only 1 member** play each map. They may be exchanged freely after a map is concluded.
+5. For each map, each team must have **only 1 member** to play. They may be exchanged freely after a map is concluded.
 6. An optional 5-minute break will be offered between the first and second playthrough of the mappool.
 7. All teams will play their qualifiers in separate rooms.
    - It is *suggested* that teams do not broadcast or share their results publicly to avoid seed manipulation.
