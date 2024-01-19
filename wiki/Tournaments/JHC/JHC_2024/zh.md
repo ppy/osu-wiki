@@ -136,10 +136,10 @@ tags:
 
 1. 请填写 [谷歌表格](https://forms.gle/guwZqn8513SuFAYe8) 或 [腾讯表格](https://docs.qq.com/form/page/DUFlBd2NzYXVqTGxO) 来进行报名。
    - 报名后的选手 **必须** 加入此 [Discord 服务器](https://discord.gg/DqPuRU8Bhc) 或此 [QQ 群](https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=pRNiqDnTUmLKQgy8iy2LnLx3uTYIL0dG)。
-2. 为了保证报名有效，所有参赛选手将递交至 [锦标赛筛查](/wiki/en/Tournaments/Official_support#tournament-screening)。
+2. 为了保证报名有效，所有参赛选手将递交至 [锦标赛筛查](/wiki/Tournaments/Official_support#tournament-screening)。
    - 选手不得在 12 个月内有违反 [osu! 社区规则](/wiki/Rules) 的记录。
 3. 报名结束后，主办方会公布所有成功报名玩家的名单。
-4. [比赛工作人员](/wiki/en/Tournaments/Official_support#staff)不能作为选手参加本次比赛。
+4. [比赛工作人员](/wiki/Tournaments/Official_support#staff)不能作为选手参加本次比赛。
 
 ### 资格赛介绍
 
