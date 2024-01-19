@@ -55,7 +55,7 @@ Si votre tournoi répond aux [critères d'éligibilité](#éligibilité), vous p
     - Pour les tournois régionaux, le fil de discussion peut être créé dans le sous-forum de la langue appropriée.
   - Les serveurs publics Discord ou tout autre espace de discussion hors site utilisé pour l'événement.
   - Les itérations précédentes de la même série de tournois (uniquement si applicable).
-- Une liste des utilisateurs qui se sont inscrits pour participer au tournoi (voir  [contrôle du tournoi](#contrôle-du-tournoi)), en tant que pièce jointe séparée.
+- Une liste des utilisateurs qui se sont inscrits pour participer au tournoi (voir [contrôle du tournoi](#contrôle-du-tournoi)), en tant que pièce jointe séparée.
 
 Une fois que nous aurons reçu votre demande, l'équipe d'assistance aux comptes vous renverra une liste des utilisateurs qui ne sont pas autorisés à participer aux tournois. Veuillez prévoir suffisamment de temps pour une réponse. Nous ferons de notre mieux pour traiter toutes les demandes dans un délai d'une semaine, mais il nous arrive parfois d'avoir une charge de travail importante qui rend la chose impossible.
 
