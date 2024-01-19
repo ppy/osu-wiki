@@ -16,7 +16,7 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 :::
 
 - **Maps must be 30 seconds long.**
-- **Maps must end after the [80% mark](./img/percent.png).** If you want to end the map earlier, cut the song.
+- **Maps should end around the [80% mark](./img/percent.png).** If you want to end the map earlier, try cutting the song.
 
 ### Spread
 
