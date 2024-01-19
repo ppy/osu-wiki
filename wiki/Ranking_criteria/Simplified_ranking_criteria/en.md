@@ -15,7 +15,7 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 ![](./img/percent.png "Song progress percentage")
 :::
 
-- **Maps must be 30 seconds long.**
+- **Maps must be at least 30 seconds long.**
 - **Maps should end around the [80% mark](./img/percent.png).** If you want to end the map earlier, try cutting the song.
 
 ### Spread
@@ -142,7 +142,10 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 
 ### osu!taiko
 
-- something
+- **Adjust the background's vertical offset to properly fit the playfield.**
+- **Use the `Omit first bar line` function to remove any unfitting or unnecessary bar lines.**
+- **Avoid kiai flashes.**
+- **Each difficulty should adhere to its respective break length guidelines.**
 
 ### osu!catch
 
