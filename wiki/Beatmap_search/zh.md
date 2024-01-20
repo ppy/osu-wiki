@@ -11,9 +11,9 @@ tags:
 
 # 谱面搜索
 
-*另见：[谱面 § 下载谱面](/wiki/Beatmap#downloading-beatmaps)*
+*另见：[谱面 § 下载谱面](/wiki/Beatmap#下载谱面)*
 
-通常情况，输入到 [选曲界面](/wiki/Client/Interface#song-select) 或官网的搜索栏里的文本会匹配谱面的作曲家、曲名、难度的作者及名称、来源和标签。输入一串数字会搜索具有对应 [标识符](/wiki/Beatmap#identification) 的谱面和难度。所有搜索内容都不区分大小写。
+通常情况，输入到 [选歌界面](/wiki/Client/Interface#选歌界面) 或官网的搜索栏里的文本会匹配谱面的作曲家、曲名、难度的作者及名称、来源和标签。输入一串数字会搜索具有对应 [标识符](/wiki/Beatmap#标识符) 的谱面和难度。所有搜索内容都不区分大小写。
 
 使用以下符号来比较谱面元数据的特定数值，使筛选结果更精确：
 
@@ -28,7 +28,7 @@ tags:
 
 ## 客户端
 
-*注意：筛选功能仅在选曲界面有效，osu!direct 只支持常规的全文搜索。*
+*注意：筛选功能仅在选歌界面有效，osu!direct 只支持常规的全文搜索。*
 
 | 筛选项 | 描述 |
 | :-: | :-- |
@@ -49,7 +49,7 @@ tags:
 | `status` | 谱面状态；值为 `ranked`、 `approved`、 `pending`、 `notsubmitted`、 `unknown`、 `loved` 其一, 或者简写为 `r`/`a`/`p`/`n`/`u`/`l` 。 |
 | `played` | 距上次游玩的天数 |
 | `unplayed` | 只显示未游玩过的谱面；该项的值必须留空才能生效（ `unplayed=` ），比较符不影响效果（例如， `unplayed=` 、 `unplayed>` 和 `unplayed!=` 是等效的。 |
-| `speed` | 保存的 osu!mania 下落速度； 未游玩的谱面或者 [`记住每张地图的osu!mania下落速度`](/wiki/Client/Options#gameplay) 选项关闭时，该值为0。 |
+| `speed` | 保存的 osu!mania 下落速度； 未游玩的谱面或者 [`记住每张地图的osu!mania下落速度`](/wiki/Client/Options#游戏) 选项关闭时，该值为0。 |
 
 ## 官网[^website-filters]
 
