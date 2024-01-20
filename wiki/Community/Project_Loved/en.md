@@ -37,7 +37,7 @@ Contributors to Project Loved often suggest technical changes to maps before the
 
 ### osu!-specific criteria
 
-Beatmaps of the osu! game mode considered for Loved follow these categories as well as the rules and guidelines below, which are similar to the [ranking criteria](/wiki/Ranking_criteria), but adapted for the more lenient process Project Loved is known for.
+Beatmaps of the osu! game mode considered for Loved follow the following categories as well as the rules and guidelines below, which are similar to the [ranking criteria](/wiki/Ranking_criteria), but adapted for the more lenient process Project Loved is known for.
 
 #### Categorisation
 
@@ -64,7 +64,7 @@ For any questions regarding what goes in each category, contact the [osu! Loved 
 **All rules are exactly that: rules.** They are not guidelines and may not be broken under any circumstance.
 
 - **The beatmap must be submitted at least 1 year before Loved nomination, except for beatmaps that break ranking criteria due to their concept.** Submitting a beatmap solely for Loved is discouraged when Ranked might be a better option. Exceptions include sliderator usage, Aspire maps, storyboard gameplay gimmicks, etc.
-- **The beatmap must have at least 30 favourites.** This is a minimum threshold to indicate a positive and existing community reaction to the beatmap. Brigading for favourites is discouraged, although captains cannot verify whether that happens.
+- **The beatmap must have at least 30 favourites.** This is a minimum threshold to indicate a positive and existing community reaction to the beatmap. Brigading for favourites is discouraged, although captains cannot verify whether that happens in most cases.
 - **A beatmap must have at least some form of mapping contribution from the person submitting it.** This specifically avoids "beatmap compilations" which, even with the original mappers' permissions, do not represent the kind of original work showcased in Loved.
 - **Beatmap timing must not negatively impact gameplay.** Unlike the ranking criteria, which requires near-millisecond-accurate timing for all beatmaps, there is some leeway for complex songs. If unsure whether the timing for a beatmap is appropriate, contact one of the osu! Loved captains.
 - **Beatmaps with concepts relying on storyboards must not be easily abusable by players through file editing.** This judged on a case-by-case basis to ensure fair competition for people who play the beatmap as intended. Issues may be mitigated by using approach rate 0, making invisible notes' timing windows more natural, and utilising difficulty-specific storyboarding via the `.osu` file instead of the `.osb` file.
