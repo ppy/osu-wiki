@@ -33,7 +33,11 @@ There are some very minimal criteria that need to be met for beatmaps to be nomi
 
 Although many [Work in Progress and Pending](/wiki/Beatmap/Category#wip-and-pending) beatmaps meet these criteria, few are voted into the Loved category due to the selective nature of the captains' picks, and the high community approval requirement by voting.
 
-Contributors to Project Loved often suggest technical changes to maps before they are Loved, such as improvements to audio quality, [timing](/wiki/Beatmapping/Timing) accuracy, or [metadata standardisation as suggested by the ranking criteria](/wiki/Ranking_criteria#metadata). The mapper is strongly encouraged to apply these changes, but they are not required to.
+### Updates prior to Loved
+
+In some cases, beatmaps may be nominated despite breaking some of the criteria, as long as the mapper can update it to abide by the criteria prior to Loved. For example, a beatmap with an inappropriate background may be nominated as long as the background is later removed or replaced. An active contributor to Project Loved will usually post on the beatmap's [discussion](/wiki/Beatmap_discussion) if any changes are required.
+
+Additionally, contributors to Project Loved often make technical suggestions, such as improvements to audio quality, [timing](/wiki/Beatmapping/Timing) accuracy, or [metadata standardisation as suggested by the ranking criteria](/wiki/Ranking_criteria#metadata). The mapper is strongly encouraged to apply these suggestions, but they are not required to.
 
 ### osu!-specific criteria
 
