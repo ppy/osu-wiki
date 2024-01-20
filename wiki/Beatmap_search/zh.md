@@ -6,6 +6,8 @@ tags:
   - client search
   - website search
   - 搜索谱面
+  - 客户端搜索
+  - 网页搜索
   - 筛选谱面
 ---
 
@@ -103,13 +105,13 @@ stars>=7 stars<8 od<8
 unplayed= status=r christmas
 ```
 
-（客户端、网站）搜 ::{ flag=FR }:: [galvenize](https://osu.ppy.sh/users/381444) 制作的 [DJ Fresh - Gold Dust](https://osu.ppy.sh/beatmapsets/28107) 的谱面：
+（客户端、网站）搜 ::{ flag=FR }:: [galvenize](https://osu.ppy.sh/users/381444) 制作的 [DJ Fresh - Gold Dust](https://osu.ppy.sh/beatmapsets/28107) 的谱面难度：
 
 ```
 28107
 ```
 
-（网站）搜2010年8月至10月之间 ::{ flag=GB }:: [Natteke](https://osu.ppy.sh/users/157177) 的已上架难度：
+（网站）搜 ::{ flag=GB }:: [Natteke](https://osu.ppy.sh/users/157177) 在2010年8月至10月之间上架的难度：
 
 ```
 ranked>=2010-08 ranked<2010-11 creator=Natteke
@@ -117,5 +119,5 @@ ranked>=2010-08 ranked<2010-11 creator=Natteke
 
 ## 参考
 
-[^website-filters]: [osu!web source code](https://github.com/ppy/osu-web/blob/a61a75f016eb1cac61e3c4da5e472a31e9ed57b0/app/Libraries/Search/BeatmapsetQueryParser.php)
-[^lazer-filters]: [osu!(lazer) source code](https://github.com/ppy/osu/blob/270c03235d280ccca3aecea776fb9517635ed695/osu.Game/Screens/Select/FilterQueryParser.cs)
+[^website-filters]: [osu!web 源代码](https://github.com/ppy/osu-web/blob/a61a75f016eb1cac61e3c4da5e472a31e9ed57b0/app/Libraries/Search/BeatmapsetQueryParser.php)
+[^lazer-filters]: [osu!(lazer) 源代码](https://github.com/ppy/osu/blob/270c03235d280ccca3aecea776fb9517635ed695/osu.Game/Screens/Select/FilterQueryParser.cs)
