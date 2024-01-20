@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: Sparxe"
-date: 2024-01-20 17:00:00 +0000
+date: 2024-01-20 19:00:00 +0000
 ---
 
 Homegrown musician **Sparxe** makes their way from osu!'s leaderboards to osu!'s Featured Artist listing!
@@ -16,7 +16,7 @@ Homegrown musician **Sparxe** makes their way from osu!'s leaderboards to osu!'s
 
 <div align="center">
     <video width="85%" controls>
-        <source src="https://assets.ppy.sh/artists/398/release_showcase.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/artists/398/release_showcase.mp4?1" type="video/mp4" preload="none">
     </video>
 </div>
 
