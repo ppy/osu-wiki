@@ -8,7 +8,7 @@ Homegrown musician **Sparxe** makes their way from osu!'s leaderboards to osu!'s
 
 ![](https://assets.ppy.sh/artists/398/header.jpg)
 
-**Sparxe**'s music has been at the forefront of the competitive side of osu!taiko for years. From [the highest osu!taiko pp score](https://osu.ppy.sh/scores/taiko/173764399) to 17 [osu! originals](/wiki/osu!_originals) (11 of which were for various tournaments), practically everyone invested in osu!taiko knows **Sparxe**.
+**Sparxe**'s music has been at the forefront of the competitive side of osu!taiko for years. From [the highest osu!taiko pp score](https://osu.ppy.sh/scores/taiko/173764399) to 17 [osu! originals](/wiki/osu!_originals) (most of which were for various tournaments), practically everyone invested in osu!taiko knows **Sparxe**.
 
 **6** of those tunes are at your fingertips (assuming you touch your screen after heading to [**Sparxe**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/398)).
  
