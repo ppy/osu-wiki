@@ -41,7 +41,7 @@ Or try [the map that led to a broken pp record](https://osu.ppy.sh/beatmapsets/1
 
 ### Sparxe - Dream Elevator
 
-Experience [this map from EGTS 2022](https://osu.ppy.sh/beatmapsets/1837865) hosted by [Cynplytholowazy](https://osu.ppy.sh/users/3901754)!
+Experience [this map](https://osu.ppy.sh/beatmapsets/1837865) from [EGTS 2022](/wiki/Tournaments/GTS/EGTS_2022) hosted by [Cynplytholowazy](https://osu.ppy.sh/users/3901754)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/398/Songs/Sparxe - Dream Elevator.mp3">
