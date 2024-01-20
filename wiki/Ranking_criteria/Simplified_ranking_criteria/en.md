@@ -12,11 +12,11 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 ## Beatmap
 
 ::: Infobox
-![](./img/percent.png "Song progress percentage")
+![](img/percent.png "Song progress percentage")
 :::
 
 - **Maps must be at least 30 seconds long.**
-- **Maps should end around the [80% mark](./img/percent.png).** If you want to end the map earlier, try cutting the song.
+- **Maps should end around the [80% mark](img/percent.png).** If you want to end the map earlier, try cutting the song.
 
 ### Spread
 
@@ -48,7 +48,7 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 ### Timing
 
 ::: Infobox
-![](./img/2b.png "Two objects on the same tick")
+![](img/2b.png "Two objects on the same tick")
 :::
 
 - **Maps must be correctly timed.** This includes BPM and time signatures.
@@ -73,7 +73,7 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 
 ### Title
 
-  - **Songs used for TV must have `(TV Size)`.**
+  - **Songs shortened for TV must have `(TV Size)`.**
   - **Replace game version markers with `(Game Ver.)`.**
   - **Replace short version markers with `(Short Ver.)`.**
   - **Use `(Cut Ver.)` to indicate an unofficial song cut.**
@@ -101,13 +101,13 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 ### Hitsounds
 
 ::: Infobox
-![](./img/delay.png "Hitsound file with delay")
+![](img/delay.png "Hitsound file with delay")
 :::
 
 - **Hitsound files must be 25ms long and use `.wav` or `.ogg` file formats.**
   - Do not use `.mp3`.
   - **Exception:** Use [this file](https://up.ppy.sh/files/blank.wav) for silent hitsounds.
-- **Hitsounds must not be [delayed](./img/delay.png).**
+- **Hitsounds must not be [delayed](img/delay.png).**
 
 ### Background
 
@@ -133,7 +133,7 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 ### osu!
 
 ::: Infobox
-![](./img/offscreen.png "Slightly offscreen slider in 1280x960")
+![](img/offscreen.png "Slightly offscreen slider in 1280x960")
 :::
 
 - **No off-screen objects in 4:3 aspect ratios.**
@@ -152,11 +152,11 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 
 | Difficulty | Break | Chain length |
 | --: | :-: | :-: |
-| **Kantan** | ![3/1](./img/taiko/kantan.png "3/1") | Break needed every 32-36 beats |
-| **Futsuu** | ![2/1](./img/taiko/futsuu.png "2/1") | Break needed every 32-36 beats |
-| **Muzukashii** (option 1) | ![3/2](./img/taiko/muzu1.png "3/2") | Break needed every 16-20 beats |
-| **Muzukashii** (option 2) | ![3 consecutive 1/1](./img/taiko/muzu2.png "3 consecutive 1/1") | Break needed every 16-20 beats |
-| **Oni** | ![1/1](./img/taiko/oni.png "1/1") | Break needed every 16-20 beats |
+| **Kantan** | ![3/1](img/taiko/kantan.png "3/1") | Break needed every 32-36 beats |
+| **Futsuu** | ![2/1](img/taiko/futsuu.png "2/1") | Break needed every 32-36 beats |
+| **Muzukashii** (option 1) | ![3/2](img/taiko/muzu1.png "3/2") | Break needed every 16-20 beats |
+| **Muzukashii** (option 2) | ![3 consecutive 1/1](img/taiko/muzu2.png "3 consecutive 1/1") | Break needed every 16-20 beats |
+| **Oni** | ![1/1](img/taiko/oni.png "1/1") | Break needed every 16-20 beats |
 
 ### osu!catch
 
