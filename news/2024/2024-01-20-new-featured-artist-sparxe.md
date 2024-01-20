@@ -15,7 +15,7 @@ Homegrown musician **Sparxe** makes their way from osu!'s leaderboards to osu!'s
 **Sparxe** specializes in an interpretive mix of ZUN's Touhou themes and Camellia's... Camellia-ness. Hear what that sounds like for yourself through this video of *Zinnober* and the rest of these previews:
 
 <div align="center">
-    <video width="95%" controls>
+    <video width="85%" controls>
         <source src="https://assets.ppy.sh/artists/398/release_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
@@ -28,7 +28,7 @@ Check out these maps from the video above:
 - [osu! map](https://osu.ppy.sh/beatmapsets/1904860) hosted by [Nozuchi](https://osu.ppy.sh/users/5858447)
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/398/Songs/Sparxe - Zinnober.mp3">
 </audio>
 
 ### Sparxe - Comma, ~ Imi to Kouzou no Bunri
@@ -36,7 +36,7 @@ Check out these maps from the video above:
 Or try [the map that led to a broken pp record](https://osu.ppy.sh/beatmapsets/1785711) hosted by [HomieLove](https://osu.ppy.sh/users/8693851)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/398/Songs/Sparxe - Comma, ~ Imi to Kouzou no Bunri.mp3">
 </audio>
 
 ### Sparxe - Dream Elevator
@@ -44,7 +44,7 @@ Or try [the map that led to a broken pp record](https://osu.ppy.sh/beatmapsets/1
 Experience [this map from EGTS 2022](https://osu.ppy.sh/beatmapsets/1837865) hosted by [Cynplytholowazy](https://osu.ppy.sh/users/3901754)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/398/Songs/Sparxe - Dream Elevator.mp3">
 </audio>
 
 ---
