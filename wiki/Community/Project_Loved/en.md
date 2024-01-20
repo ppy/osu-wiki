@@ -31,7 +31,7 @@ There are some very minimal criteria that need to be met for beatmaps to be nomi
 - At least one difficulty can be passed
 - Every nominated difficulty has a [drain time](/wiki/Beatmap/Drain_time) of at least 20 seconds
 
-Although many [Work in Progress and Pending](/wiki/Beatmap/Category#wip-and-pending) beatmaps meet these criteria, few are voted into the Loved category due to the selective nature of the captains' picks, and the high community approval requirement by voting.
+Although many unranked beatmaps meet these criteria, few are voted into the Loved category due to the selective nature of the captains' picks, and the high community approval requirement by voting.
 
 ### Updates prior to Loved
 
