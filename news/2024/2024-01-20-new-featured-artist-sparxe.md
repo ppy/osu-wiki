@@ -12,7 +12,7 @@ Homegrown musician **Sparxe** makes their way from osu!'s leaderboards to osu!'s
 
 **6** of those tunes are at your fingertips (assuming you touch your screen after heading to [**Sparxe**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/398)).
  
-**Sparxe** specialises in an interpretive mix of ZUN's [i]Touhou[/i] themes and Camellia's... Camellia-ness. Hear what that sounds like for yourself through this video of *Zinnober* and the rest of these previews:
+**Sparxe** specialises in an interpretive mix of ZUN's *Touhou* themes and Camellia's... Camellia-ness. Hear what that sounds like for yourself through this video of *Zinnober* and the rest of these previews:
 
 <div align="center">
     <video width="85%" controls>
