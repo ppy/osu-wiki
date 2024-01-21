@@ -30,7 +30,7 @@ Nouvelles publications d'artistes vedettes par an :
 - **2021 :** 101
 - **2022 :** 104
 - **2023 :** 64
-- **2024:** *à déterminer*
+- **2024 :** *à déterminer*
 
 Les nouveaux Featured Artists sont annoncés chaque semaine [dans les news](https://osu.ppy.sh/home/news) d'osu!. La plupart des annonces comprennent une liste des musiques sous licence de l'artiste et un lien vers sa page Featured Artist, bien que certaines annonces soient associées à des concours de mapping ou à des beatmaps créés par la [Mappers' Guild](/wiki/Community/Mappers_Guild).
 
