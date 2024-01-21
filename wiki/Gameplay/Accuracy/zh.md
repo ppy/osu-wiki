@@ -80,7 +80,7 @@
 
 `不稳定度` (*UR*) 显示了打击偏差的[标准差](https://zh.wikipedia.org/wiki/%E6%A8%99%E6%BA%96%E5%B7%AE)，单位是 0.1 毫秒。UR 越低，玩家越稳定。
 
-注意稳定度和准确度并不是一回事。即使极度精确的游玩结果通常伴随着低 UR，但是玩家也能在获得很低准确度的同时，保持低 UR。比如，玩家可以在击打每个[物件](/wiki/Gameplay/Hit_object)的时候，故意延后一段时间，以至于持续获得 [50](/wiki/Gameplay/Judgement/osu!) 判定。
+注意稳定度和准确度并不是一回事。高准确度通常都会获得低 UR，不过玩家也能在获得低准确度的同时保持低 UR。例如，玩家可以故意延后击打每个 [物件](/wiki/Gameplay/Hit_object) ，以稳定的打击误差获得 [50](/wiki/Gameplay/Judgement/osu!) 判定。
 
 ### 转盘信息（Spin）
 
