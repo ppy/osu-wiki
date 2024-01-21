@@ -22,7 +22,7 @@ The **JHC 2024** (***Jack House Cup 2024***) is a team–based osu!mania 4K tour
 | Qualifier stage | 2024-01-20/2024-01-21 |
 | Round of 32 | 2024-01-27/2024-02-04 |
 | Round of 16 | 2024-01-10/2024-02-11 |
-| Quarterfinals | 2024-02-17/2024-01-18 |
+| Quarterfinals | 2024-02-17/2024-02-18 |
 | Semifinals | 2024-02-24/2024-02-25 |
 | Finals | 2024-03-02/2024-03-03 |
 | Grand Finals | 2024-03-09/2024-03-10 |
