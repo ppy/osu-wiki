@@ -6,7 +6,7 @@ date: 2024-01-23 12:00:00 +0000
 
 Calling all 5 digit osu! players! After a long wait, the 5 Digit World Cup is back - and it's better than ever.
 
-![](/wiki/Tournaments/5WC/2024/img/5wc2024-banner.png)
+![](/wiki/shared/news/2024-01-23-5-digit-world-cup-2024-registrations-now-open/5wc2024-banner.png)
 
 The 5 Digit World Cup is an annual world-cup-style community tournament for any osu! player with a 5 digit rank. Each year, organizers from around the world seek out the best 5 digits to represent their country in hopes of winning the title of 5WC champion. In a few weeks, 32 qualifying countries will battle it out across 6 weeks of intense bracket stage competition - we invite all to participate and spectate each weekend!
 
@@ -61,7 +61,7 @@ Most countries require their players to tryout in order to be considered for the
 
 At the time of writing, the community has donated over 500USD to our prize pool which will be distributed among the podium. Each player will receive an equal share of the prize pool allotted to the team.
 
-![](/wiki/Tournaments/5WC/2024/img/5wc2024-prizes.png)
+![](/wiki/shared/news/2024-01-23-5-digit-world-cup-2024-registrations-now-open/5wc2024-prizes.png)
 
 We heavily encourage all eligible players with an interest in playing to tryout for your country. All are more than welcome to spectate and/or get involved with our community via our [Discord server](https://discord.gg/WxX2UkdSMq).
 
