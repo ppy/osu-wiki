@@ -212,7 +212,7 @@ Sunday, 21 January 2024:
 
 The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1APCeEFVMGbgxkIhne5ChMBnoNh1dfQwVqZFk37F57A0?rm=minimal).
 
-| Seed | Country | %rank sum[^qualifiers-seeding] | avg. score[^qualifiers-tiebreaker] |
+| Seed | Country | rank sum[^qualifiers-seeding] | avg. score[^qualifiers-tiebreaker] |
 | :-: | :-- | --: | --: |
 | #1 | ::{ flag=KR }:: South Korea | 10 | 1,983,181 |
 | #2 | ::{ flag=CN }:: China | 25 | 1,969,845 |
