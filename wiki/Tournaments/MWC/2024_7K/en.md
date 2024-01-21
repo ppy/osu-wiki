@@ -204,7 +204,7 @@ Sunday, 21 January 2024:
 | Netherlands ::{ flag=NL }:: | 4 | **5** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/112308440) | [#1](https://www.twitch.tv/videos/2039351530) |
 | **Indonesia** ::{ flag=ID }:: | **5** | 0 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/112308966) |  |
 | **Russian Federation** ::{ flag=RU }:: | **5** | 4 | ::{ flag=DK }:: Denmark | [#1](https://osu.ppy.sh/community/matches/112309921) | [#1](https://www.twitch.tv/videos/2039423606) |
-| United Kingdom ::{ flag=GB }:: | 0 | 0 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/112310876) | [#1](https://www.twitch.tv/videos/2039449910) |
+| United Kingdom ::{ flag=GB }:: | 0 | **5** | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/112310876) | [#1](https://www.twitch.tv/videos/2039449910) |
 | **Poland** ::{ flag=PL }:: | **5** | 0 | ::{ flag=EE }:: Estonia | [#1](https://osu.ppy.sh/community/matches/112311940) | [#1](https://www.twitch.tv/videos/2039498579) |
 | **United States** ::{ flag=US }:: | **5** | 0 | ::{ flag=ES }:: Spain | [#1](https://osu.ppy.sh/community/matches/112312820) | [#1](https://www.twitch.tv/videos/2039582666) |
 
