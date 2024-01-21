@@ -63,26 +63,16 @@ tags:
 [点击此处下载图包（27 MB）](https://drive.google.com/file/d/1CRqEYk2C21Ju4C7_ijL8Ol-m9tF5JWVF/view?usp=sharing)
 
 - Dense Chordjack
-
   1. [M2U \& Este - Obelisque (Ycloki) \[Stage 1: Objective\]](https://osu.ppy.sh/beatmapsets/2099900#mania/4405224)
-
 - Middle Chordjack
-
   1. [Banshi - cHeefully (Dreamemory) \[Stage 2: Upcoming Spring\]](https://osu.ppy.sh/beatmapsets/2118128#mania/4448638)
-
 - Light Chordjack
   1. [F-777 - Sonic Blaster (Glorionoly) \[Stage 3: Sonication\]](https://osu.ppy.sh/beatmapsets/2118150#mania/4448682)
-
 - Rhythm Jack
-
   1. [Zekk - Foresight (Blue_Potion) \[Stage 4: Beyond the Horizon\]](https://osu.ppy.sh/beatmapsets/2118140#mania/4448669)
-
 - Heavy Jack
-
   1. [Taishi feat. IA - Diaphanser (ieFaH) \[Stage 5: Invisible Beauty\]](https://osu.ppy.sh/beatmapsets/2118127#mania/4448637)
-
 - Speed Jack
-
   1. [Hommarju - Crazy Jackpot (\[GB\]V1do) \[Stage 6: JACKpot\]](https://osu.ppy.sh/beatmapsets/2118126#mania/4448636)
 
 ## 规则
@@ -91,7 +81,7 @@ tags:
 
 1. 叠屋杯 2024 是队式 1 vs 1 双败制比赛，使用的是 osu!mania 4K 模式。
 2. 谱面计分方式采用 ScoreV2。
-3. 一支队伍由 1 ~ 2 名玩家组成。
+3. 一支队伍由 1–2 名玩家组成。
 4. 比赛开始前一周内将于主舞台发布图池。
 5. 比赛开始前一周内将预设好每轮的比赛的日程。
 6. 允许使用皮肤或者修改显示设定禁用叙事板及打击音效。
@@ -125,16 +115,16 @@ tags:
     - 禁止选手在某张图上场；
     - 禁止选手在整场比赛上场；
     - 整队判负；
-    - 本届比赛取消比赛资格；
-    - 系列赛和 osu! 官方社区比赛禁赛，直至申诉通过。
-18. 裁判可以根据情况调整 `timers` 的长度。
+    - 取消本届比赛资格；
+    - 取消本届和未来叠屋杯系列赛的比赛资格，直至提出上诉。
+18. 裁判可以根据情况调整 timers 的长度。
 19. 主办方可以在没有事先警告的情况下，要求选手开直播或录像。
-20. 任何与赛事相关的投诉应发送至 osu! 官方举报表单。
+20. 任何与赛事相关的投诉应发送至 [osu! 官方举报表单](https://pif.ephemeral.ink/tournament-reports)。
 21. 主办方保留修改规则的权利，任何修改将会提前宣布。
 
 ### 比赛报名
 
-1. 请填写 [谷歌表格](https://forms.gle/guwZqn8513SuFAYe8) 或 [腾讯表格](https://docs.qq.com/form/page/DUFlBd2NzYXVqTGxO) 来进行报名。
+1. 请填写该 [谷歌表格](https://forms.gle/guwZqn8513SuFAYe8) 或该 [腾讯表格](https://docs.qq.com/form/page/DUFlBd2NzYXVqTGxO) 来进行报名。
    - 报名后的选手 **必须** 加入此 [Discord 服务器](https://discord.gg/DqPuRU8Bhc) 或此 [QQ 群](https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=pRNiqDnTUmLKQgy8iy2LnLx3uTYIL0dG)。
 2. 为了保证报名有效，所有参赛选手将递交至 [锦标赛筛查](/wiki/Tournaments/Official_support#tournament-screening)。
    - 选手不得在 12 个月内有违反 [osu! 社区规则](/wiki/Rules) 的记录。
@@ -145,12 +135,12 @@ tags:
 
 1. 资格赛阶段中，每个选手需要游玩 6 张由图池管理员定制的谱面组成的图池。
 2. 资格赛图池包含 6 张谱面，均应用 [Free Mod](/wiki/Gameplay/Game_modifier#自由选择模组-(freemod)) 规则。谱面类型分别为:
-   - DS | Dense Chordjack（大型大叠）
-   - MD | Middle Chordjack（中型大叠）
-   - LT | Light Chordjack（轻型大叠）
-   - RM | Rhythm Jack（节奏型叠）
-   - HV | Heavy Jack (Anchor Jack & Full Jack)（重型叠键，纵式叠 & 满叠）
-   - SP | Speed Jack (Quadstream & Minijack)（高速叠键，四押切换 & 小叠）
+   - DS: Dense Chordjack（大型大叠）
+   - MD: Middle Chordjack（中型大叠）
+   - LT: Light Chordjack（轻型大叠）
+   - RM: Rhythm Jack（节奏型叠）
+   - HV: Heavy Jack (Anchor Jack & Full Jack)（重型叠键，纵式叠 & 满叠）
+   - SP: Speed Jack (Quadstream & Minijack)（高速叠键，四押切换 & 小叠）
 3. 选手需要在指定时间，在房间内连续打完整个图池，最多可以打两次，最后的成绩为所有单曲最高分的和。
 4. 图池需要按如下顺序进行游玩: DS, MD, LT, RM, HV, SP。此顺序不可更改。
    - 任何队伍打第二轮的时候可以跳过任意谱面。
@@ -158,7 +148,7 @@ tags:
 6. 在第一轮游玩和第二轮游玩图池的中间，队伍可以选择休息 5 分钟。
 7. 所有选手会在其单独的资格赛房间进行游戏。
    - 主办方不建议选手直播资格赛，以防止露分控分导致操纵资格赛排名。
-8. 资格赛排名 \#1 ~ \#32 的队伍晋级正赛胜者组，排名 \#33 ~ \#48 的队伍晋级正赛败者组。
+8. 资格赛排名前 32 的队伍进入正赛胜者组，排名 #33 – #48 的队伍进入正赛败者组。
 
 ### 胜利条件
 
@@ -172,8 +162,8 @@ tags:
 1. 比赛开始前 15 分钟，裁判提前建好多人房间，选手必须在此期间进房。
    - 房间设置为：`游戏模式: "osu!mania"`，`分组方式: "Team Vs"` 和 `胜利条件: "ScoreV2"`. 房间名必须命名为：`JHC2024: ({TeamRed}) vs ({TeamBlue})`。
    - 房间名中在前面的队伍是红队，在后面的队伍是蓝队。
-   - 如果队名过长或存在非法字符导致房间无法被创建，可能会考虑缩短 / 修改队名。
-2. 每个队长在房间频道里使用 `!roll` 指令进行掷骰子，点数大的队伍可以选择先选图或者先禁用图，另一方自动选择另一个选项。
+   - 若因为队伍名称过长或含有队伍名称含有非法字符导致无法创建房间，将会考虑缩短或更改队名。
+2. 每个队长在房间频道里使用 `!roll` 指令进行掷骰子，点数大的一方可以选择先选图或者先禁用图，另一方自动选择另一个选项。
 3. 每个队伍可以从图池中禁用 **一张** 谱面，在接下来整场比赛期间此谱面不可被选择。
 4. 每个队伍轮流从图池中选择一张谱面并进行比赛。
 5. 每个队伍有 2 分钟的时间选图，接下来有 2 分钟的时间准备就绪。如果一个队伍超时了，那么过程如下:
@@ -183,9 +173,9 @@ tags:
      - 如果在 ban 图，那么此次 ban 图作废。
      - 如果在选图，裁判使用 roll 点指令从图池可用谱面中随机选择一张谱面进行游玩。
      - 如果在准备期间，裁判会直接使用 `!mp start 10` 指令开始游戏倒计时，不管房间内人数是否够。每队多余的选手会被 `!mp kick` 踢出。
-   - 持续违反此项规则可能会受到主办方进一步的惩罚。
-6. 每个队伍每场比赛有一次可选的 **2 分钟** 的技术暂停机会。可以用在选图 ban 图流程上。
-   - 可以在 TB 决胜局叫暂停，但是需要两队都同意才可以。
+   - 持续违反此项规则可能会受到工作人员进一步的惩罚。
+6. 每个队伍每场比赛有一次可选的 **2 分钟** 的技术暂停机会，作为 ban 图、选图及准备地图的额外时间。
+   - 可以在 TB 决胜局叫暂停，但是需要比赛双方均同意。
 
 ### 图池结构
 
@@ -193,12 +183,12 @@ tags:
 2. 每轮图池的所有谱面都是在 [FreeMod](/wiki/Gameplay/Game_modifier#自由选择模组-(freemod)) 条件下游玩。
 3. 每轮图池的数量如下:
    - 资格赛：6 张
-   - 32 强赛 / 16 强赛：12 张
-   - 四分之一决赛 / 半决赛 / 决赛：14 张
+   - 32 强赛和 16 强赛：12 张
+   - 四分之一决赛、半决赛和决赛：14 张
    - 总决赛：15 张
 4. 除资格赛图池之外，每个图池包含一张 TB 决胜局谱面，也将在 FreeMod 条件下游玩。
-5. Freemod 允许的 mod 包括 `NoFail`, `Hidden`, `FadeIn`, `Flashlight`, 和 `Mirror`。
-6. 决胜图将会在 Freemod 条件下进行。
+5. Free Mod 所允许的模组包括 `No Fail`, `Hidden`, `FadeIn`, `Flashlight` 和 `Mirror`。
+6. 决胜图将会在 Free Ｍod 条件下进行。
 
 ### 日程信息
 
