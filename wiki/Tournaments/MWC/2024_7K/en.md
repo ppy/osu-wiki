@@ -131,7 +131,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
 
 ### Round of 16
 
-**[Download the mappack here (62 MB, *temporary link*)](https://leoflt.com/s/JRWS)**
+**[Download the mappack here (47 MB)](https://packs.ppy.sh/P234%20-%20osu%21mania%207K%20World%20Cup%202024%3A%20Round%20of%2016.zip)**
 
 - Rice
   1. [goreshit - toromi hearts 2 (Sped Up Ver.) (Tailsdk) \[MWC RO16 Speed (Cut ver.)\]](https://osu.ppy.sh/beatmapsets/2123251#mania/4461979)
@@ -144,11 +144,11 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
   2. [Y&Co. - POODLE (MapleSyrup-) \[So lovely and sweet pretty poodle\]](https://osu.ppy.sh/beatmapsets/2123243#mania/4461965)
   3. [DAZBEE - Adios (Remuring) \[Fall in Love\]](https://osu.ppy.sh/beatmapsets/2123264#mania/4462004)
 - Hybrid
-  1. [Juggernaut. - Invoke (\_Stan) \[Summoning\] *(temporary link)*](https://leoflt.com/s/s3zX)
+  1. [Juggernaut. - Invoke (\_Stan) \[Summoning\]](https://osu.ppy.sh/beatmapsets/2123292#mania/4462083)
   2. [Yamajet x Mentalstock - Sequential Emotions (Makiba) \[Sequentia motus\]](https://osu.ppy.sh/beatmapsets/2123268#mania/4462014)
   3. [ZxNX - Fana (Wonki) \[Extra\]](https://osu.ppy.sh/beatmapsets/2123269#mania/4462015)
 - Tiebreaker
-  1. **[Kou! - subzerO (\_Stan) \[iceoveR\] *(temporary link)*](https://leoflt.com/s/kN4N)**
+  1. **[Juggernaut. - Invoke (\_Stan) \[Summoning\]](https://osu.ppy.sh/beatmapsets/2123292#mania/4462083)**
 
 ### Round of 24
 
