@@ -131,7 +131,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
 
 ### Round of 16
 
-**[Download the mappack here (47 MB)](https://packs.ppy.sh/P234%20-%20osu%21mania%207K%20World%20Cup%202024%3A%20Round%20of%2016.zip)**
+**[Download the mappack here (59 MB)](https://packs.ppy.sh/P234%20-%20osu%21mania%207K%20World%20Cup%202024%3A%20Round%20of%2016.zip)**
 
 - Rice
   1. [goreshit - toromi hearts 2 (Sped Up Ver.) (Tailsdk) \[MWC RO16 Speed (Cut ver.)\]](https://osu.ppy.sh/beatmapsets/2123251#mania/4461979)
@@ -148,7 +148,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
   2. [Yamajet x Mentalstock - Sequential Emotions (Makiba) \[Sequentia motus\]](https://osu.ppy.sh/beatmapsets/2123268#mania/4462014)
   3. [ZxNX - Fana (Wonki) \[Extra\]](https://osu.ppy.sh/beatmapsets/2123269#mania/4462015)
 - Tiebreaker
-  1. **[Juggernaut. - Invoke (\_Stan) \[Summoning\]](https://osu.ppy.sh/beatmapsets/2123292#mania/4462083)**
+  1. **[Kou! - sub/zerO (\_Stan) \[ice/oveR\]](https://osu.ppy.sh/beatmapsets/2123291#mania/4462082)**
 
 ### Round of 24
 
