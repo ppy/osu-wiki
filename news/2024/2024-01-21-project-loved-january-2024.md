@@ -27,9 +27,9 @@ As for Project Loved itself, we have some updates for you this month:
 - The osu! Loved captains are once again running applications! If you are interested, please click on the banner below. It will take you to the application form.
 - The metadata reviewers are also running applications. These are the people who check each pick for metadata issues before the picks are moved into the Loved category. Click on the respective banner to access the application.
 
-[![osu! Project Loved captain applications](/wiki/images/shared/news/banners/project-loved/apply-osu.png)](https://forms.gle/eX91DHK7v4LGzG4h9)
+[![osu! Project Loved captain applications](/wiki/shared/news/banners/project-loved/apply-osu.png)](https://forms.gle/eX91DHK7v4LGzG4h9)
 
-[![https://forms.gle/49p7BMd5q6fqhgM29](https://i.ppy.sh/125e88d54a7dcc4276535030b5ac0c3fcfde5fca/68747470733a2f2f6c617a65722e7070792e73682f77696b692f696d616765732f7368617265642f6e6577732f62616e6e6572732f70726f6a6563742d6c6f7665642f6170706c792d6d6574612e706e67)](https://forms.gle/49p7BMd5q6fqhgM29)
+[![https://forms.gle/49p7BMd5q6fqhgM29](/wiki/shared/news/banners/project-loved/apply-meta.png)](https://forms.gle/49p7BMd5q6fqhgM29)
 
 That is all we have for this month. If you are interested in participating in Project Loved discussions for a specific game mode, you can join one of the Project Loved Discord servers linked below:
 
