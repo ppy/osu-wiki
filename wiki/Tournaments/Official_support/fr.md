@@ -19,10 +19,10 @@ Cet article a été mis à jour pour la dernière fois le 18 janvier 2024. Pour 
 
 Les tournois bénéficiant d'un support officielle ont accès à :
 
-- Un [processus de filtration](#contrôle-du-tournoi) pour empêcher les utilisateurs ayant commis de graves infractions (tricherie, multicomptes, interdictions de tournoi) de jouer.
-- [Des récompenses sous forme de badges de profil](#badges-de-profil) pour les gagnants de la première place.
-- La prise en compte potentielle d'une [bannière publicitaire dans le menu principal](#demande-de-soutien-pour-les-bannières-en-jeu-et-les-messages-d'information) lors des grands matchs.
-- Possibilité d'envisager un [post de news](#demande-de-soutien-pour-les-bannières-en-jeu-et-les-messages-d'information), un message annonçant les inscriptions et un autre résumant les résultats finaux.
+- Un [processus de screening](#contrôle-du-tournoi) pour empêcher les utilisateurs ayant commis de graves infractions (tricherie, multicomptes, bannissements de tournoi) de jouer.
+- [Des récompenses sous forme de badges de profil](#badges-de-profil) pour les vainqueurs du tournoi.
+- La possibilité d'envisager une [bannière publicitaire dans le menu principal](#demande-de-soutien-pour-les-bannières-en-jeu-et-les-messages-d'information) lors des grands matchs.
+- Possibilité d'envisager un [article de news](#demande-de-soutien-pour-les-bannières-en-jeu-et-les-messages-d'information), un message annonçant les inscriptions et un autre résumant les résultats finaux.
 
 ## Éligibilité
 
@@ -117,7 +117,7 @@ Les utilisateurs faisant l'objet d'une interdiction de tournoi active sont tenus
 
 À la discrétion de l'équipe d'assistance, les membres du personnel dont le comportement a directement entraîné la perte du soutien officiel d'un tournoi ne peuvent pas jouer le même rôle dans un autre tournoi avec un badge en récompense, ni en être l'hôte ou l'administrateur, pendant au moins 4 mois. Si ce délai est appliqué à un utilisateur, celui-ci en sera informé directement par l'intermédiaire de [l'équipe du tournoi](mailto:tournaments@ppy.sh).
 
-Une liste de tous les membres du personnel du tournoi doit être publiquement visible dans un endroit facilement accessible. Cette liste peut être contenue dans un message du forum, sur le site web ou dans une feuille de calcul.
+Une liste de tous les membres du staff du tournoi doit être publiquement visible dans un endroit facilement accessible. Cette liste peut être contenue dans un message du forum, sur le site web ou dans une feuille de calcul.
 
 ### Joueurs
 
