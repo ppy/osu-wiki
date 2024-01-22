@@ -12,7 +12,7 @@ With a new year comes another year of Project Loved picks made for you.
 
 For those of you who are new to what we do, Project Loved hosts community voting polls each month to determine which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). All of the beatmaps are chosen by the [Loved captains](https://loved.sh/contributors) of their respective game modes. You can click on the banners below for each pick to vote on the poll for that map, and there is a description underneath each banner written by a Loved captain. There is also a [Project Loved forum](https://osu.ppy.sh/community/forums/120) as well if you want to view the polls directly. The voting stage lasts for 10 days, so don't forget to vote!
 
-The process for picking maps may differ between each game mode. For more information, please visit the [wiki page](https://osu.ppy.sh/wiki/en/Community/Project_Loved) and [website](https://loved.sh/submissions/mania).
+The process for picking maps may differ between each game mode. For more information, please visit the [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/submissions/mania).
 
 As is par for the course, we would like to thank everyone who participated in last month's voting. If you would like to view results from December 2023, please visit the links below:
 
