@@ -86,7 +86,9 @@ Get ready to see Elvis and Reiji's recognizable and fun style clash perfectly wi
 
 This month's Small Spectacles pick is certainly an alternative one. [SwagRoxas](https://osu.ppy.sh/users/11962943), previously known as dreamteamrox115, has always been a mapper of songs outside the mainstream, and this is no exception.
 
-[Car Seat Headrest - Beach Life-In-Death](https://osu.ppy.sh/beatmapsets/1352473#osu/2799976) — both song and map are quite distinct. Perhaps that's why it hasn't attained a huge playcount over the years, but what it lacks in playcount, it certainly shows in its favorite count. This beatmap is certainly a trip, a thirteen-minute trip to be more exact. Wacky sliders, creative patterns, and a sense of flow like no other. You can definitely describe this map in a lot of ways, and that's because of how much content it has. Don't let the length of the song and the difficulty stop you — this is certainly a trip worth packing your bags for. The effort put into this certainly shows, and it has been one of the prime examples of the artistic mapping style pioneered by mappers like [squirrelpascals](https://osu.ppy.sh/users/6151332).
+[Car Seat Headrest - Beach Life-In-Death](https://osu.ppy.sh/beatmapsets/1352473#osu/2799976) — both song and map are quite distinct. Perhaps that's why it hasn't attained a huge playcount over the years, but what it lacks in playcount, it certainly shows in its favorite count. This beatmap is certainly a trip, a thirteen-minute trip to be more exact. Wacky sliders, creative patterns, and a sense of flow like no other.
+
+You can definitely describe this map in a lot of ways, and that's because of how much content it has. Don't let the length of the song and the difficulty stop you — this is certainly a trip worth packing your bags for. The effort put into this certainly shows, and it has been one of the prime examples of the artistic mapping style pioneered by mappers like [squirrelpascals](https://osu.ppy.sh/users/6151332).
 
 Are you eager to see more good songs with unique maps being showcased here? Then don't forget to vote on this — every vote counts!
 
@@ -342,7 +344,9 @@ Do you really think you're one of the best SV players in the tournament scene? M
 
 Longstanding charter [0DZ0](https://osu.ppy.sh/users/28156707), better known as [DarkZtar](https://www.flashflashrevolution.com/profile/DarkZtar/) within the FFR community, makes their long-awaited appearance to the Loved section with their chart of [Naruto's Ninja Way](https://osu.ppy.sh/beatmapsets/1671839#mania)!
 
-Now, before you say anything, yes. I do realize how out there of a song choice this is. Albeit a bit silly, you really shouldn't let it stray from the fact that this file is just... really solid. While it's existed on the servers for just about two years now, rates were added later down the line when the tournament [Speed of Light 3](https://osu.ppy.sh/community/forums/topics/1686361?n=1) used it on 1.2x for their Quarterfinals mappool. Of course, this chart was used for a good reason with an extremely solid use of 1/8 bursts for dubstep representation, and 1/6 jacks alongside other similar burst-y patterns for vocal representation. The added longjacks that persist throughout the harder parts also lead to something that feels a lot more responsive when it comes to song representation, which is a change in direction for the people who struggle with high-BPM minijacks. (I'm always watching, "minijack-world-cup" people.)
+Now, before you say anything, yes. I do realize how out there of a song choice this is. Albeit a bit silly, you really shouldn't let it stray from the fact that this file is just... really solid. While it's existed on the servers for just about two years now, rates were added later down the line when the tournament [Speed of Light 3](https://osu.ppy.sh/community/forums/topics/1686361?n=1) used it on 1.2x for their Quarterfinals mappool.
+
+Of course, this chart was used for a good reason with an extremely solid use of 1/8 bursts for dubstep representation, and 1/6 jacks alongside other similar burst-y patterns for vocal representation. The added longjacks that persist throughout the harder parts also lead to something that feels a lot more responsive when it comes to song representation, which is a change in direction for the people who struggle with high-BPM minijacks. (I'm always watching, "minijack-world-cup" people.)
 
 I implore anyone who hasn't tried this to give it a play. You WILL enjoy it. In all seriousness though, go give it your vote and help spread the early days of adding lyrics over remixes of popular media.
 
@@ -398,7 +402,9 @@ Do you want to discover more about the realms of technicality that this pack off
 
 With the improvement of LN players worldwide, many have sought to push the limits of LN density to another level. As a result, [TheFunk](https://osu.ppy.sh/users/13981991) is here to fulfill the desire that LN lunatics have with [Lunatic Eyes \~ Invisible Full Moon](https://osu.ppy.sh/beatmapsets/1888601#mania/3889550).
 
-Featured in a wide variety of tournaments, this map has tested the reading capabilities of many high-end players. Even though the patterning itself is a bit more straightforward than many other maps, this doesn't necessarily make the map easy in any way. We see 2 minutes of constant density at 200 BPM and many sections where you have to hold down one finger while the density continually ramps up around it. On top of all the already mentioned details, players will be able to prove themselves with the uprates of the map, which go all the way up to 1.35. At this point, the map's difficulty increases tenfold; instead of 200 BPM, you will be playing 270 inverse handstream.
+Featured in a wide variety of tournaments, this map has tested the reading capabilities of many high-end players. Even though the patterning itself is a bit more straightforward than many other maps, this doesn't necessarily make the map easy in any way. We see 2 minutes of constant density at 200 BPM and many sections where you have to hold down one finger while the density continually ramps up around it.
+
+On top of all the already mentioned details, players will be able to prove themselves with the uprates of the map, which go all the way up to 1.35. At this point, the map's difficulty increases tenfold; instead of 200 BPM, you will be playing 270 inverse handstream.
 
 If you enjoy seeing these types of charts going into Loved, don't let your opinion be invisible, and vote "yes" below!!
 
