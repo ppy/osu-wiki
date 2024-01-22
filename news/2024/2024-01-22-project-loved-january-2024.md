@@ -29,7 +29,7 @@ As for Project Loved itself, we have some updates for you this month:
 
 [![osu! Project Loved captain applications](/wiki/shared/news/banners/project-loved/apply-osu.png)](https://forms.gle/eX91DHK7v4LGzG4h9)
 
-[![https://forms.gle/49p7BMd5q6fqhgM29](https://i.ppy.sh/125e88d54a7dcc4276535030b5ac0c3fcfde5fca/68747470733a2f2f6c617a65722e7070792e73682f77696b692f696d616765732f7368617265642f6e6577732f62616e6e6572732f70726f6a6563742d6c6f7665642f6170706c792d6d6574612e706e67)](https://forms.gle/49p7BMd5q6fqhgM29)
+[![Project Loved metadata application banner](/wiki/shared/news/banners/project-loved/apply-meta.png)](https://forms.gle/49p7BMd5q6fqhgM29)
 
 That is all we have for this month. If you are interested in participating in Project Loved discussions for a specific game mode, you can join one of the Project Loved Discord servers linked below:
 
@@ -43,10 +43,10 @@ That is all we have for this month. If you are interested in participating in Pr
 
 ### Navigation
 
-- [osu!](#osu!)
-- [osu!taiko](#osu!taiko)
-- [osu!catch](#osu!catch)
-- [osu!mania](#osu!mania)
+- [osu!](#osu)
+- [osu!taiko](#osutaiko)
+- [osu!catch](#osucatch)
+- [osu!mania](#osumania)
 
 ## osu!
 
@@ -194,9 +194,9 @@ Assuming this map hasn't already scared you from losing it in a tournament match
 144 BPM, 3:08 | 4.41★\
 *description written by [rHO](https://osu.ppy.sh/users/1629553)*
 
-We're off to a good start this year — because this January's Second Shots pick is \[Girls' Generation - Oh!](https://osu.ppy.sh/beatmapsets/107834#osu) mapped by [cRyo[iceeicee\]](https://osu.ppy.sh/users/835998)!
+We're off to a good start this year — because this January's Second Shots pick is [Girls' Generation - Oh!](https://osu.ppy.sh/beatmapsets/107834#osu) mapped by [cRyo\[iceeicee\]](https://osu.ppy.sh/users/835998)!
 
-\[Ending with a rough Loved voting result of 65.40% 6 years ago](https://osu.ppy.sh/community/forums/topics/684558?n=1), I believe this is one of the maps that really needs a second chance. Taking what Toy said, cRyo delivered a 4★ K-Pop map that is absolutely delicious for players of all skill levels. It's very simple yet so good; a combo that is frequent in cRyo's maps. And come on — you can't really go wrong with a cRyo[iceeicee\] map, can you?
+[Ending with a rough Loved voting result of 65.40% 6 years ago](https://osu.ppy.sh/community/forums/topics/684558?n=1), I believe this is one of the maps that really needs a second chance. Taking what Toy said, cRyo delivered a 4★ K-Pop map that is absolutely delicious for players of all skill levels. It's very simple yet so good; a combo that is frequent in cRyo's maps. And come on — you can't really go wrong with a cRyo\[iceeicee\] map, can you?
 
 [![](/wiki/shared/news/2024-01-22-project-loved-january-2024/469679.jpg)](https://osu.ppy.sh/community/forums/topics/1874105)
 
