@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: bb31e1800d9c5048f5553e5d27eff27788a2fd3f
+---
+
 # Personas
 
 Página de índice para artículos sobre personas o grupos.

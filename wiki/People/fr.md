@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: bb31e1800d9c5048f5553e5d27eff27788a2fd3f
 ---
 
 # Personnes
