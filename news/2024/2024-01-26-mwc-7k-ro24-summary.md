@@ -14,7 +14,37 @@ Before getting into the highlight matches, let's quickly reflect (or familiarise
 
 ### Mappool showcase
 
-Text.
+[**View the VOD here!**](https://www.twitch.tv/videos/2032775000)
+
+[**Download the pool here! (59 MB)**](https://packs.ppy.sh/P234%20-%20osu%21mania%207K%20World%20Cup%202024%3A%20Round%20of%2016.zip)
+
+With a new tournament comes a suite of new custom beatmaps for everyone to enjoy! This time around, the mapping team is making active efforts to ensure some of these picks are available to be Ranked after the tournament ends. Stay tuned for all [osu! originals](/wiki/osu!_originals) that are up to come — you may see them Ranked earlier than you think so!
+
+#### Rice
+
+1. [goreshit - toromi hearts 2 (Sped Up Ver.) (Tailsdk) \[MWC RO16 Speed (Cut ver.)\]](https://osu.ppy.sh/beatmapsets/2123251#mania/4461979)
+2. [skymuted & Evin a`k - Memory at Angels Landing (Level 51) \[Golden Age\]](https://osu.ppy.sh/beatmapsets/2123235#mania/4461947)
+3. [Frums - Wavetapper (-NoName-) \[Sound Cubes\]](https://osu.ppy.sh/beatmapsets/2123274#mania/4462022)
+4. [The Flashbulb - Ninedump (Maxus) \[Night Wonder\]](https://osu.ppy.sh/beatmapsets/2123256#mania/4461987)
+5. [saaa + kei\_iwata + stuv + wakadori - New York Back Raise (pwhk) \[Full House\]](https://osu.ppy.sh/beatmapsets/2123108#mania/4461721)
+
+#### Long Note
+
+1. [KNOWER - More Than Just Another Try (-NoName-) \[Fugue\]](https://osu.ppy.sh/beatmapsets/2123273#mania/4462021)
+2. [Y&Co. - POODLE (MapleSyrup-) \[So lovely and sweet pretty poodle\]](https://osu.ppy.sh/beatmapsets/2123243#mania/4461965)
+3. [DAZBEE - Adios (Remuring) \[Fall in Love\]](https://osu.ppy.sh/beatmapsets/2123264#mania/4462004)
+
+#### Hybrid
+
+1. [Juggernaut. - Invoke (\_Stan) \[Summoning\]](https://osu.ppy.sh/beatmapsets/2123292#mania/4462083)
+2. [Yamajet x Mentalstock - Sequential Emotions (Makiba) \[Sequentia motus\]](https://osu.ppy.sh/beatmapsets/2123268#mania/4462014)
+3. [ZxNX - Fana (Wonki) \[Extra\]](https://osu.ppy.sh/beatmapsets/2123269#mania/4462015)
+
+#### Tiebreaker
+
+1. **[Kou! - sub/zerO (\_Stan) \[ice/oveR\]](https://osu.ppy.sh/beatmapsets/2123291#mania/4462082)**
+
+### Match highlights
 
 ### ::{ flag=BR }:: Brazil vs. ::{ flag=PT }:: Portugal
 
