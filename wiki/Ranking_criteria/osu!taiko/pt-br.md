@@ -160,7 +160,7 @@ Se uma dificuldade Futsuu for necessária e usada como a *menor dificuldade* de 
 
 - **Notas finisher não devem ser usadas em nenhuma pattern de 1/6 ou mais rápido nessa dificuldade.** O uso de finishers nessas patterns é muito complicado para o público-alvo desse nível.
 - **Notas finisher para patterns de 1/4 nessa dificuldade devem ser usadas somente no final da pattern e ter a cor oposta à da nota antecedente.** Posicionamentos diferentes dessas podem atrapalhar a legibilidade para o público-alvo desse nível.
--  **As notas devem estar separadas por pelo menos 1/8 de uma batida.** Algo mais rápido é muito complexo para o público-alvo desse nível de dificuldade.
+- **As notas devem estar separadas por pelo menos 1/8 de uma batida.** Algo mais rápido é muito complexo para o público-alvo desse nível de dificuldade.
 
 #### Diretrizes
 
