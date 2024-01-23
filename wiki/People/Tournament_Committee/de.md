@@ -1,3 +1,8 @@
+---
+tags:
+  - TC
+---
+
 # Turnierkomitee
 
 Das **Turnierkomitee** ist ein Gremium an erfahrenen sowie etablierten Organisatoren und Helfern in der Turnierszene.

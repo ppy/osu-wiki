@@ -1,4 +1,11 @@
+---
+tags:
+  - TC
+---
+
 # Tournament Committee
+
+*For beatmapping contests, see: [Contest Committee](/wiki/People/Tournament_Committee).*
 
 The **Tournament Committee** is a panel of skilled and established organisers and helpers in the tournament scene.
 
