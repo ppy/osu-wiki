@@ -38,7 +38,7 @@ Este conjunto de **ranking criteria do osu!taiko** (critérios de rank do osu!ta
 
 ## Em geral
 
-Em geral as regras e diretrizes se aplicam a qualquer tipo de dificuldade de osu!taiko. Regras e diretrizes relacionadas a ritmo se aplicam a beatmaps de aproximadamente 180 BPM com um compasso de 4/4. Se a sua música for drasticamente mais rápido ou lento, algumas variáveis podem diferir, com mais detalhes em [Dimensionando o BPM na Ranking Criteria](/wiki/Ranking_criteria/Scaling_BPM).
+Em geral as regras e diretrizes se aplicam a qualquer tipo de dificuldade de osu!taiko. Regras e diretrizes relacionadas a ritmo se aplicam a beatmaps de aproximadamente 180 BPM com um compasso de 4/4. Se a sua música for drasticamente mais rápida ou lenta, algumas variáveis podem diferir, com mais detalhes em [Dimensionando o BPM na Ranking Criteria](/wiki/Ranking_criteria/Scaling_BPM).
 
 ### Geral
 
@@ -79,7 +79,7 @@ Diretrizes podem ser ignoradas em circunstâncias **excepcionais**. Essas circun
 
 ## Específico de dificuldades
 
-As regras e diretrizes específicas de dificuldades se aplicam apenas ao nível de dificuldade para o qual estão listadas e, portanto, *não se aplicam a **todas** as dificuldades do osu!taiko*. Regras e diretrizes relacionadas a ritmo se aplicam a beatmaps de aproximadamente 180 BPM com um compasso de 4/4. Se a sua música for drasticamente mais rápido ou lento, algumas variáveis podem diferir, com mais detalhes em [Dimensionando o BPM na Ranking Criteria](/wiki/Ranking_criteria/Scaling_BPM).
+As regras e diretrizes específicas de dificuldades se aplicam apenas ao nível de dificuldade para o qual estão listadas e, portanto, *não se aplicam a **todas** as dificuldades do osu!taiko*. Regras e diretrizes relacionadas a ritmo se aplicam a beatmaps de aproximadamente 180 BPM com um compasso de 4/4. Se a sua música for drasticamente mais rápida ou lenta, algumas variáveis podem diferir, com mais detalhes em [Dimensionando o BPM na Ranking Criteria](/wiki/Ranking_criteria/Scaling_BPM).
 
 ### ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 
