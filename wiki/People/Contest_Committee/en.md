@@ -13,7 +13,7 @@ Their responsibilities include:
 
 You can help the contest committee by continuing to run excellent beatmapping contests!
 
-Those who are interested in joining the tournament committee may express their interest by sending an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh), where requests are forwarded to the committee. Successful candidates are expected to have a significant breadth of experience in mapping and modding.
+Those who are interested in joining the contest committee may express their interest by sending an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh), where requests are forwarded to the committee. Successful candidates are expected to have a significant breadth of experience in mapping and modding.
 
 ## Members
 
