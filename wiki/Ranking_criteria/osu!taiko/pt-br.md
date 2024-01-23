@@ -1,4 +1,4 @@
-# ranking criteria do osu!taiko
+# Ranking criteria do osu!taiko
 
 ***Aviso: Este documento é uma extensão da [ranking  criteria geral](/wiki/Ranking_criteria).***
 
