@@ -8,7 +8,13 @@ The osu!mania 7k World Cup begins! Stay updated as participants start revving up
 
 ![](/wiki/Tournaments/MWC/2024_7K/img/mwc7k2024-banner.jpg)
 
-Intro (0x84f)
+The osu!mania 7K World Cup is officially underway! Continuing on from the osu! World Cup recaps, you can once more expect a summary of the latest and greatest of MWC, made possible by community members just like you! This year, **for the first time ever**, the tournament kicked off with a Round of 24! Due to increased interest from various countries that have both applied and qualified, we have been blessed with an extra round and exciting matches straight away!
+
+Before getting into the highlight matches, let's quickly reflect (or familiarise) ourselves with the Round of 24 mappool.
+
+### Mappool showcase
+
+Text.
 
 ### ::{ flag=BR }:: Brazil vs. ::{ flag=PT }:: Portugal
 
@@ -16,11 +22,11 @@ Intro (0x84f)
 
 Brazil vs. Portugal was a match that went as one would have expected on paper, but there is one thing during this match that we would like to highlight.
 
-Almost every single 7K tournament player in the recent years have that one annoying skillset to deal with. Usually, early-stage LN Coordination charts (The "Oh boy, 2* in the pool!" trap) faces the fate of being the most banned chart in a mappool. In this match, however, the stars aligned in such a way that LN Coordination was left as an open option.
+Almost every single 7K tournament player in the recent years have that one annoying skill set to deal with. Usually, early-stage LN Coordination charts (The "Oh boy, 2* in the pool!" trap) faces the fate of being the most banned chart in a mappool. In this match, however, the stars aligned in such a way that LN Coordination was left as an open option.
 
 Portugal was down 4-0 coming into their third pick of the match, with only a limited amount of options left to turn the match around. ::{ flag=PT }:: [Rodrig0v](https://osu.ppy.sh/users/138866), their team captain, made the decision to exhaust the LN pool and selected the notorious LN1 chart, [Mitsukiyo - Theme_37](https://osu.ppy.sh/beatmapsets/2119592#mania/4452483). Clocking in at 69 BPM, and with only 313 long notes, absolutely no one can afford any misses. The chart started and everyone's combos and accuracies started dropping like flies except for one person holding on (literally!). It was Rodrig0v who is doing more than enough to give Portugal that sweet, sweet advantage. While Brazil will eventually have an S-rank score coming from ::{ flag= BR }:: [LothusFangirl](https://osu.ppy.sh/users/4685756), it wasn't enough to cover for the heroics made by Portugal's captain.
 
-The match eventually ended in Brazil's favor 5-1, but this moment will always be in our hearts.
+The match eventually ended in Brazil's favour 5-1, but this moment will always be in our hearts.
 
 ### ::{ flag=NL }:: Netherlands vs. ::{ flag=TW }:: Taiwan
 
@@ -28,7 +34,7 @@ The match eventually ended in Brazil's favor 5-1, but this moment will always be
 
 Text.
 
-### ::{ flag=RU }:: Russian Federation vs. ::{ flag=DK }:: Portugal
+### ::{ flag=RU }:: Russian Federation vs. ::{ flag=DK }:: Denmark
 
 [**View the VOD here!**](https://www.twitch.tv/videos/2039423606)
 
