@@ -46,7 +46,7 @@ Unfortunately for them, they lost the advantage when Russia tied the match up 2-
 
 The Danes had the chance to pull off the biggest upset of the weekend through the tiebreaker, but in the end, the Russians flexed their muscles and ended the match 5-4.
 
-### ::{ flag=GB }:: United Kingdom vs. ::{ flag=GE }:: Germany
+### ::{ flag=GB }:: United Kingdom vs. ::{ flag=DE }:: Germany
 
 [**View the VOD here!**](https://www.twitch.tv/videos/2039449910)
 
