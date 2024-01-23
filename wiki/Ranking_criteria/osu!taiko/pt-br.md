@@ -146,7 +146,6 @@ Se uma dificuldade Futsuu for necessária e usada como a *menor dificuldade* de 
 - **Deve haver pelo menos 1/2 de distância entre um spinner e sua nota antecedente.** Isso serve para garantir que eles não se sobreponham significativamente e para assegurar a legibilidade.
 - **Pelo menos 1 momento de descanso que é de 3/2 ou maior deve ser inserido após 16/1 a 20/1 de mapping contínuo.** Usar pelo menos três momentos de descanso consecutivos que sejam 1/1 é um substituto aceitável se ou o ritmo da música tornar os momentos de descanso contra-intuitivos ou se a parte mapeada continuamente for, de modo geral, mais complacente para o jogador.
 - **Manipular slider velocity é permitido**, mas o slider velocity só deve ser alterado em seções de ritmos diferentes e não deve variar drasticamente.
-
 - **Patterns de 1/4 com uma ou mais alterações de cor devem ser usados com moderação.** Elas devem ser evitadas em conjunto com outras patterns dessa natureza porque o público-alvo desse nível de dificuldade não está acostumado a patterns dessa complexidade.
 - **Patterns de 1/4 com mais de três notas devem consistir numa única mudança de cor no máximo, que deve ocorrer no início ou no final da pattern.** Patterns mais complexas que essas seriam muito exigentes para jogadores intermediários. Essas pattern devem ser seguidas de um momento de descanso.
 
