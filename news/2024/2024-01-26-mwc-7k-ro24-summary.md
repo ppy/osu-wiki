@@ -46,6 +46,8 @@ With a new tournament comes a suite of new custom beatmaps for everyone to enjoy
 
 ### Match highlights
 
+We may just be getting started, but we already had a few matches that are worth highlighting take place.
+
 ### ::{ flag=BR }:: Brazil vs. ::{ flag=PT }:: Portugal
 
 [**View the VOD here!**](https://www.twitch.tv/videos/2038389122)
