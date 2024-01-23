@@ -10,6 +10,7 @@ Index page for articles about people or groups.
 - [Centurions](Centurions)
 - [Community Contributors](Community_Contributors)
 - [Completionists](Completionists)
+- [Contest Committee](Contest_Committee)
 - [Developers](Developers)
 - [Elite Nominators](Elite_Nominators)
 - [Featured Artists](Featured_Artists)
