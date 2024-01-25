@@ -41,8 +41,6 @@ Le menu principal a été mis à jour avec un nouveau look, et beaucoup de fonct
 
 Le gameplay a été amélioré avec les débuts du [combo fire](/wiki/Gameplay/Combo_fire), de la barre de [vie](/wiki/Gameplay/Health), de la trainée du curseur, et des sliders plus beaux. À ce stade, osu! possède une humble collection d'environ 10 beatmaps, créées par l'équipe de test composée d'environ 5 personnes.
 
-![](img/2007-08_03.jpg "Menu de sélection de musiques pour l'éditeur")
-
 ![](img/2007-08_04.jpg "Gameplay")
 
 ## Septembre

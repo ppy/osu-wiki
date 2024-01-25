@@ -41,8 +41,6 @@ Menu utama telah diperbarui dengan tampilan baru, dan editor menerima banyak fun
 
 Peningkatan gameplay lebih baik dengan hadirnya combo fire, bar HP, cursor trail, dan tampilan slider yang terlihat lebih baik. Pada saat ini, osu! memiliki koleksi sederhana sekitar 10 beatmap yang dibuat oleh tim penguji yang beranggotakan 5 orang.
 
-![](img/2007-08_03.jpg "Pemilihan Lagu untuk Mode Edit")
-
 ![](img/2007-08_04.jpg "Gameplay")
 
 ## September
