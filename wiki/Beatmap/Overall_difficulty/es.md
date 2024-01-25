@@ -36,7 +36,7 @@ Las ventanas de golpeo para los juicios se pueden ver al pasar el cursor sobre l
 | 100 | `140 - 8 * OD` |
 | 50 | `200 - 10 * OD` |
 
-![](/wiki/shared/ODTable.png "Comparación de las ventanas de golpeo para diferentes combinaciones de OD y modificadores de juego. Para las combinaciones de Half Time y Double Time, los valores de OD mostrados solo son válidos para las ventanas de golpeo de 300 y serían diferentes para las de 100 y 50.")
+![](/wiki/shared/ODTable.png "Comparación de las ventanas de golpeo para diferentes combinaciones de OD y modificadores del juego. Para las combinaciones de Half Time y Double Time, los valores de OD mostrados solo son válidos para las ventanas de golpeo de 300 y serían diferentes para las de 100 y 50.")
 
 ### osu!taiko
 

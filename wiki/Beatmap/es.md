@@ -85,7 +85,7 @@ Los beatmaps que se clasificaron el mismo mes, o que comparten el mismo tema (po
 Los jugadores de osu! de todos los modos de juego usan beatmaps para [subir de rango globalmente](/wiki/Performance_points) y [competir entre sí](/wiki/Ranking). osu! tiene diferentes tipos de marcadores específicos de beatmaps, todos los cuales, excepto el primero, solo están disponibles para [osu!supporters](/wiki/osu!supporter):
 
 - Clasificación global, que funciona en toda la base de jugadores activa;
-- Clasificación global para cada combinación de [modificadores de juego](/wiki/Gameplay/Game_modifier);
+- Clasificación global para cada combinación de [modificadores del juego](/wiki/Gameplay/Game_modifier);
 - Clasificación específica del país hecha de jugadores que llevan la misma bandera;
 - Clasificación de amigos que muestra la posición de un jugador en el mapa en comparación con sus amigos.
 
