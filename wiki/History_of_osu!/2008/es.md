@@ -66,7 +66,7 @@ Debido a que las personas con una gran cantidad de beatmaps se quejaron del tiem
 
 ## Diciembre
 
-El último mes de 2008 tuvo mucho reservado para el desarrollo de osu!. Para la segunda Navidad de osu!, se implementó la primera versión del editor de storyboards, lo que hizo que los storyboards fueran mucho más accesibles para los usuarios. Se agregó un segundo modo multijugador: «Tag Play». Era un modo cooperativo en el que los jugadores se turnaban para jugar un beatmap. Otra adición al modo multijugador fue «La precisión como condición de victoria». Se integraron los estados de MSN y Yahoo, y los usuarios podían personalizar completamente las combinaciones de teclas y resaltar las palabras desencadenantes del chat.
+El último mes de 2008 tuvo mucho reservado para el desarrollo de osu!. Para la segunda Navidad de osu!, se implementó la primera versión del editor de storyboards, lo que hizo que los storyboards fueran mucho más accesibles para los usuarios. Se agregó un segundo modo multijugador: «Tag Play». Era un modo cooperativo en el que los jugadores se turnaban para jugar un beatmap. Otra adición al modo multijugador fue «la precisión como condición de victoria». Se integraron los estados de MSN y Yahoo, y los usuarios podían personalizar completamente las combinaciones de teclas y resaltar las palabras desencadenantes del chat.
 
 Se agregaron vistas previas en miniaturas y audibles a la lista de beatmaps en línea, lo que hace que buscar un beatmap que te gustaría jugar sea una tarea mucho más fácil.
 
