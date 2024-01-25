@@ -71,7 +71,7 @@ Los modificadores del juego deben tener la palabra `mod` después del nombre del
 
 ---
 
-Estos modificadores de juego ya no están siendo utilizados por osu!; sin embargo, si es necesario, deben escribirse como se muestra a continuación (las mayúsculas y minúsculas y el espaciado deben coincidir):
+Estos modificadores del juego ya no están siendo utilizados por osu!; sin embargo, si es necesario, deben escribirse como se muestra a continuación (las mayúsculas y minúsculas y el espaciado deben coincidir):
 
 - `Fade Out`
 - `No Video`
