@@ -23,13 +23,13 @@ Este conjunto de **ranking criteria do osu!taiko** (critérios de rank do osu!ta
 - **Big don / Nota vermelha grande / Nota finisher:** Uma batida forte que pode ser tocada com as duas teclas do Centro do Tambor ao mesmo tempo para obter pontuação extra.
 - **Big kat / Nota azul grande / Nota finisher:** Uma batida forte que pode ser tocada com as duas teclas da Borda do Tambor ao mesmo tempo para obter pontuação extra.
 - **BPM:** Um acrônimo para "batidas por minuto" usado para determinar o andamento de uma música.
-- **Slider/Drumroll:** Uma barra amarela com 'ticks' (marcações) dentro dela que são tocadas com qualquer uma das teclas atribuídas. Esses ticks geralmente são ajustados para 1/4, correspondendo ao BPM da música. Se o BPM for inferior a 125, o ajuste será alterado para 1/8. Se o BPM for maior que 250, ele mudará para 1/2. Se a taxa de tick do slider for definida como 3, os ticks do slider serão ajustados para 1/3.
+- **Slider/Drumroll:** Uma barra amarela com tiques dentro dela que são tocadas com qualquer uma das teclas atribuídas. Esses tiques geralmente são ajustados para 1/4, correspondendo ao BPM da música. Se o BPM for inferior a 125, o ajuste será alterado para 1/8. Se o BPM for maior que 250, ele mudará para 1/2. Se a taxa de tique do slider for definida como 3, os tiques do slider serão ajustados para 1/3.
 - **Spinner:** Um elemento redondo que exige que o jogador alterne entre acertar Don/Kat por um determinado número de vezes, que é mostrado no centro do spinner. Esse número depende da 'Overall Difficulty' (dificuldade geral) do mapa, bem como do comprimento do spinner.
 - **Bar line:** Uma linha que aparece no campo do jogo e determina o início de um compasso.
 - **Overlap (sobreposição):** Uma nota que cobre parcial ou totalmente outra(s) nota(s) no campo do jogo.
 - **Rest moment (momento de descanso):** Um período de tempo sem notas usado especificamente para permitir que o jogador descanse suas mãos e se prepare para as próximas patterns.
 - **Stream:** Círculos consecutivamente agrupados. Normalmente com snap em batidas de 1/4.
-- **Snapping:** Tick da timeline onde um objeto é colocado.
+- **Snapping:** Tique da timeline onde um objeto é colocado.
 - **Snapping variável:** Uma combinação de várias maneiras diferentes de snappar notas em um curto espaço de tempo devido à natureza inconstante da música naquele momento.
 - **Slider velocity:** Velocidade na qual as notas/drumrolls/spinners/bar lines se movem horizontalmente da direita para a esquerda no campo do jogo. O Slider velocity base pode ser controlado no painel de timing e alterações adicionais podem ser feitas por meio de inherited timing points (pontos verdes).
 - **Mudança suave de slider velocity:** Um mecanismo que permite a transição gradual de slider velocity de mais baixa para mais alta / de mais alta para mais baixa. Notas de transição com Slider Velocities variáveis são usadas para obter este efeito.
@@ -50,7 +50,7 @@ Todas as regras são exatamente o que são: **regras**. Elas **não** são diret
 - **Cada nota deve ser claramente atribuível a uma [camada musical](/wiki/Music_theory/Layer) ou unidade que ela tenta representar, seja para aprimorar uma camada fornecida pela música ou uma camada adicional improvisada pelo mapper.** Não improvise de forma a mudar o ritmo, contradizer o movimento geral da música ou interpretar erroneamente a intensidade atual da música. A improvisação ou deve aprimorar uma camada atual da música ou adicionar uma nova. Caso contrário, a relação com a música é abandonada e isso contradiz o objetivo principal de um jogo de ritmo.
 - **A função `Omit first bar line` (omitir a primeira linha de compasso) de um 'uninherited timing point' deve ser usado quando uma mudança de BPM/reinicialização de metrônomo prejudicar esteticamente a experiência de jogo ao adicionar linhas de compasso desnecessárias.**
 - **Taiko template backgrounds não devem ser usados.** Devido à várias resoluções de tela serem comuns, eles não funcionam como deveriam originalmente.
-- **Slider tails não devem ser snappadas incorretamente para corrigir slider ticks ausentes.** Esse comportamento não é intencional e será corrigido no futuro.
+- **Slider tails não devem ser snappadas incorretamente para corrigir tiques de slider ausentes.** Esse comportamento não é intencional e será corrigido no futuro.
 - **Se o [drain time](/wiki/Beatmap/Drain_time) de cada dificuldade for...**
   - **...menor que 3:30**, a dificuldade mais baixa não pode ser mais difícil do que um Futsuu.
   - **...entre 3:30 e 4:15**, a dificuldade mais baixa não pode ser mais difícil do que um Muzukashii.
@@ -70,7 +70,7 @@ Diretrizes podem ser ignoradas em circunstâncias **excepcionais**. Essas circun
 - **Evite ritmos que não sejam nada previsíveis.** O ritmo pode se tornar intuitivo por meio do uso de intervalos consistentes na timeline entre os diferentes snappings ou por meio de rest times.
 - **Kiai time deve ser usado apenas no refrão ou nas partes mais enfatizadas de uma música.** Kiai flashes/kiais curtos são desaconselhados por vários motivos: eles atrapalham a experiência de jogo, especialmente para usuários de PCs de entrada, e podem causar problemas para usuários epiléticos.
 - **A Velocidade do Slider base deve ser de 1.40 em todas as dificuldades de um beatmap.** Isso é para garantir a quantidade ideal de notas no campo de jogo, bem como a distância ideal de separação entre as diferentes notas.
-- **A Taxa de tick do slider deve ser definida de acordo com a música.** Na maioria dos casos, ela deve ser definida como 1. Se a música usar 1/3 como seu snapping principal, use a taxa de tick 3 para fazer o snap dos ticks de drumrolls em 1/3.
+- **A Taxa de Tique do slider deve ser definida de acordo com a música.** Na maioria dos casos, ela deve ser definida como 1. Se a música usar 1/3 como seu snapping principal, use a taxa de tique 3 para fazer o snap dos tiques de drumrolls em 1/3.
 - **Evite seguir várias [camadas](/wiki/Music_theory/Layer) da música se não estiver claro qual ritmo está sendo priorizado.** Os jogadores devem ser capazes de discernir qual parte da música está sendo seguida.
 - **Utilize spinners de volume baixo ou sem som somente quando for adequado para uma seção de baixo volume da música.** Na maioria dos outros casos, é altamente recomendável ter um feedback sonoro audível dos hitsound nos spinners.
 - **Músicas com BPM variável podem ter mudanças de slider velocity constantes para manter a velocidade na qual as notas se movem aproximadamente constante.** Isso fará com que os intervalos da linha do tempo entre as notas sejam facilmente previsíveis e aprimorará a experiência de jogo, evitando sobreposições devido a mudanças de BPM.
@@ -86,11 +86,11 @@ As regras e diretrizes específicas de dificuldades se aplicam apenas ao nível 
 #### Regras
 
 - **Se uma pattern de 1/2 é usada, as patterns devem permanecer simples e ser seguidas de um momento de descanso.** Mudanças de cor ou notas finisher não devem ser usadas em patterns como tais. Para músicas que seguem uma batida de swing, o limite vira 1/3.
-- **As notas devem estar separadas por pelo menos 1/2 de uma batida.** Algo mais rápido é muito complexo para jogadores café com leite. Para músicas que seguem uma batida de swing, o limite vira 1/3.
+- **As notas devem estar separadas por pelo menos 1/2 de uma batida.** Algo mais rápido é muito complexo para jogadores iniciantes. Para músicas que seguem uma batida de swing, o limite vira 1/3.
 
 #### Diretrizes
 
-- **Patterns de 1/1 não devem passar de sete notas.** Algo mais longo é muito cansativo para jogadores café com leite. Patterns como essas devem vir seguidas de um momento de descanso.
+- **Patterns de 1/1 não devem passar de sete notas.** Algo mais longo é muito cansativo para jogadores iniciantes. Patterns como essas devem vir seguidas de um momento de descanso.
 - **O snapping principal deve consistir majoritariamente de ritmos de 2/1, 4/1, ou mais lentos.** O uso ocasional de ritmos de 1/1 é aceitável.
 - **Deve haver pelo menos 1/2 de distância entre um spinner e sua nota antecedente.** Isso serve para garantir que eles não se sobreponham significativamente e para assegurar a legibilidade.
 - **Pelo menos 1 momento de descanso que é de 3/1 ou maior deve ser inserido após 32/1 a 36/1 de mapping contínuo.** O uso de momentos de descanso com menos frequência é aceitável se o ritmo da música tornar os momentos de descanso contra-intuitivos ou se a parte mapeada continuamente for, de modo geral, mais complacente para o jogador.
@@ -106,16 +106,16 @@ As regras e diretrizes específicas de dificuldades se aplicam apenas ao nível 
 #### Regras
 
 - **Se uma pattern de 1/3 é usada, as patterns devem permanecer simples.** Mudanças de cor ou notas finisher não devem ser usadas em patterns como tais.
-- **As notas devem estar separadas por pelo menos 1/3 de uma batida.** Algo mais rápido é muito complexo para jogadores café com leite.
+- **As notas devem estar separadas por pelo menos 1/3 de uma batida.** Algo mais rápido é muito complexo para jogadores iniciantes.
 
 Se uma dificuldade Futsuu for necessária e usada como a *menor dificuldade* de um beatmap, ela também deverá obedecer a essas regras:
 
-- **Se uma pattern de 1/2 é usada, as patterns devem permanecer simples e ser seguidas de um momento de descanso.** Algo mais rápido é muito complexo para jogadores café com leite. Para músicas que seguem uma batida de swing, o limite vira 1/3.
+- **Se uma pattern de 1/2 é usada, as patterns devem permanecer simples e ser seguidas de um momento de descanso.** Algo mais rápido é muito complexo para jogadores iniciantes. Para músicas que seguem uma batida de swing, o limite vira 1/3.
 
 #### Diretrizes
 
-- **Patterns de 1/3 não devem passar de três notas.** Algo mais longo é muito situacional e geralmente muito cansativo para jogadores café com leite. Essas patterns devem ser seguidas de um momento de descanso dentro de 2/1, e patterns que sejam 1/2 ou mais rápidos devem ser evitados durante esse período.
-- **Patterns de 1/2 não devem passar de sete notas.** Algo mais longo é muito cansativo para jogadores café com leite.
+- **Patterns de 1/3 não devem passar de três notas.** Algo mais longo é muito situacional e geralmente muito cansativo para jogadores iniciantes. Essas patterns devem ser seguidas de um momento de descanso dentro de 2/1, e patterns que sejam 1/2 ou mais rápidos devem ser evitados durante esse período.
+- **Patterns de 1/2 não devem passar de sete notas.** Algo mais longo é muito cansativo para jogadores iniciantes.
 - **O snapping principal deve consistir majoritariamente de ritmos de 1/1, 2/1, ou mais lentos.** O uso ocasional de ritmos de 1/2 é aceitável.
 - **Deve haver pelo menos 1/2 de distância entre um spinner e sua nota antecedente.** Isso serve para garantir que eles não se sobreponham significativamente e para assegurar a legibilidade.
 - **Pelo menos 1 momento de descanso que é de 2/1 ou maior deve ser inserido após 32/1 a 36/1 de mapping contínuo.** O uso de momentos de descanso com menos frequência é aceitável se o ritmo da música tornar os momentos de descanso contra-intuitivos ou se a parte mapeada continuamente for, de modo geral, mais complacente para o jogador.
