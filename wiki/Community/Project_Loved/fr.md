@@ -1,5 +1,7 @@
 ---
 no_native_review_since: 5539d9e8c943605a7be186dc3f5ab10569275b05 Doryan
+outdated_since: 5da0b97c91041623a03886001e26fae4d030765e
+outdated_translation: true
 ---
 
 # Project Loved
