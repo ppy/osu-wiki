@@ -112,20 +112,20 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
 
 | Team A | Team B | Match time | Twitch stream |
 | --: | :-- | :-- | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=TW }:: Taiwan | [Jan 27 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240127T110000&p1=1440&p2=235&p3=241) | [osulive](https://twitch.tv/osulive) |
 | Japan ::{ flag=JP }:: | ::{ flag=PL }:: Poland | [Jan 27 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240127T120000&p1=1440&p2=248&p3=262) | [osulive](https://twitch.tv/osulive) |
 | Philippines ::{ flag=PH }:: | ::{ flag=VN }:: Vietnam | [Jan 27 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240127T130000&p1=1440&p2=145&p3=95) | [osulive](https://twitch.tv/osulive) |
-| Australia ::{ flag=AU }:: | ::{ flag=BR }:: Brazil | [Jan 27 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240127T140000&p1=1440&p2=57&p3=45) | [osulive](https://twitch.tv/osulive) |
 | Thailand ::{ flag=TH }:: | ::{ flag=RU }:: Russian Federation | [Jan 27 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240127T140000&p1=1440&p2=28&p3=166) | [osulive](https://twitch.tv/osulive) |
-| Canada ::{ flag=CA }:: | ::{ flag=US }:: United States | [Jan 27 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240127T180000&p1=1440&p2=188&p3=263) | [osulive](https://twitch.tv/osulive) |
+| Malaysia ::{ flag=MY }:: | ::{ flag=ID }:: Indonesia | [Jan 27 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240127T160000&p1=1440&p2=122&p3=108) | [osulive](https://twitch.tv/osulive) |
 
 ### Sunday, 28 January 2024
 
 | Team A | Team B | Match time | Twitch stream |
 | --: | :-- | :-- | :-: |
-| China ::{ flag=CN }:: | ::{ flag=DE }:: Germany | [Jan 28 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240128T120000&p1=1440&p2=33&p3=37) | [osulive](https://twitch.tv/osulive) |
-| Malaysia ::{ flag=MY }:: | ::{ flag=ID }:: Indonesia | [Jan 28 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240128T130000&p1=1440&p2=122&p3=108) | [osulive](https://twitch.tv/osulive) |
-| Quarterfinals | mappool showcase | [Jan 28 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240128T140000&p1=1440) | [osulive](https://twitch.tv/osulive) |
+| Australia ::{ flag=AU }:: | ::{ flag=BR }:: Brazil | [Jan 28 (Sun) 01:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240128T010000&p1=1440&p2=57&p3=45) | [osulive](https://twitch.tv/osulive) |
+| Canada ::{ flag=CA }:: | ::{ flag=US }:: United States | [Jan 28 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240128T020000&p1=1440&p2=188&p3=263) | [osulive](https://twitch.tv/osulive) |
+| South Korea ::{ flag=KR }:: | ::{ flag=TW }:: Taiwan | [Jan 28 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240128T110000&p1=1440&p2=235&p3=241) | [osulive](https://twitch.tv/osulive) |
+| China ::{ flag=CN }:: | ::{ flag=DE }:: Germany | [Jan 28 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240128T140000&p1=1440&p2=33&p3=37) | [osulive](https://twitch.tv/osulive) |
+| Quarterfinals | mappool showcase | [Jan 28 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240128T150000&p1=1440) | [osulive](https://twitch.tv/osulive) |
 
 ## Mappools
 
