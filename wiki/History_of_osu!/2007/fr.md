@@ -25,7 +25,7 @@ osu! a débuté en tant que preuve de concept nommée "ouentest".[^ouentest] La 
 
 ![](img/2007-07_05.jpg "L'éditeur")
 
-![](img/2007-07_06.jpg "Sélection de musiques pour le mode d'édition")
+![](img/2007-07_06.jpg "Sélection de musiques")
 
 ![](img/2007-07_07.jpg "Création de sliders dans l'éditeur")
 

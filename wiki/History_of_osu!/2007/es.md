@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 27ab7c703108c7b0b5f066700718dcce34d68524
----
-
 # Historia de osu! 2007
 
 Lo mostrado a continuación es parte de la historia de osu! desde su comienzo. Agradecimientos especiales a [Sinistro](https://osu.ppy.sh/users/5530) por ayudar a reunir el contenido de 2007/2008.
@@ -25,7 +20,7 @@ A finales de julio, el sistema de menú fue cambiado para añadir un poco de est
 
 ![](img/2007-07_05.jpg "El editor")
 
-![](img/2007-07_06.jpg "Selección de canciones para el modo editor")
+![](img/2007-07_06.jpg "Selección de canciones")
 
 ![](img/2007-07_07.jpg "Creación de sliders en el editor")
 
