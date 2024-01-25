@@ -46,13 +46,13 @@ Text.
 
 [**View the VOD here!**](https://www.twitch.tv/videos/2039423606)
 
-Russia and Denmark looked to be a one-sided match, but it was far from it.
+Russia went into this match as a favourite to win on paper, given their roster and their qualifier performance, and Denmark carries some very respectable players like ::{ flag=DK }:: [Fritte](https://osu.ppy.sh/users/5001658) and ::{ flag=DK }:: [Jole](https://osu.ppy.sh/users/2883132), with other players that can keep up.
 
-Russia opened the proceedings with a very straightforward run on [MYUKKE. - Unknown Amnasia](https://osu.ppy.sh/beatmapsets/2119541#mania/4452375) (RC5) drawing first blood. The Danes, immediately replied with a very close win on [Camellia - PURE SILVER](https://osu.ppy.sh/beatmapsets/1371480#mania/2835613) (HB2). Action became a bit more tense when both teams managed to trade break points. Russia's unfortunate mishaps on [litmus* - Flashdance](https://osu.ppy.sh/beatmapsets/2119632#mania/4452673) (RC3) became Denmark's gain.
+While the seeding implies that this will be a very one-sided match, it was anything but. Both teams won their first picks, and the next two picks were a trade of break points. Russia had some unfortunate mishaps on [litmus\* - Flashdance](https://osu.ppy.sh/beatmapsets/2119632#mania/4452673), while Denmark gave away LN2 pick — [DJ Totoriott - Chronoxia](https://osu.ppy.sh/beatmapsets/2119552#mania/4452390) — with ::{ flag=RU }:: [Meiju's](https://osu.ppy.sh/users/5527957) score making all the difference between tying up the score versus letting Denmark get away with a lead.
 
-Unfortunately for them, they lost the advantage when Russia tied the match up 2-2 through the help of ::{ flag=RU }:: [Meiju](https://osu.ppy.sh/users/5527957)'s clean FC on [DJ Totoriott - Chronoxia](https://osu.ppy.sh/beatmapsets/2119552#mania/4452390) (LN2). ::{ flag=DK }:: [Jole](https://osu.ppy.sh/users/2883132) replied with the third best score on RC2 [seatrus - Raindrop](https://osu.ppy.sh/beatmapsets/2119535#mania/4452365) (RC2) to help the Danes tie up the match yet again. A late LN break from ::{ flag=DK }:: [-Melon](https://osu.ppy.sh/users/7266339) on [Ym1024 - Cosmoscape](https://osu.ppy.sh/beatmapsets/2119553#mania/4452391) (HB1) put Russia to match point. They did manage to redeem themselves on [MANY THANKS! feat. Setsu minami - Banka](https://osu.ppy.sh/beatmapsets/2119604#mania/4452563) (RC4) to force the tiebreaker. Not to mention, ::{ flag=DK }:: [Fritte](https://osu.ppy.sh/users/5001658)'s run it turned out to be the best of all RC4 scores over the weekend.
+Russia had an obvious getaway pick with [shadow\_bling - Crush Alcohol](https://osu.ppy.sh/beatmapsets/2062870#mania/4452380) — but misses from both sides kept this close until the Russians barely pulled away in the end of the chart. Denmark went for [seatrus - Raindrop](https://osu.ppy.sh/beatmapsets/2119535#mania/4452365) as a counter, with Jole coming into this chart as one of the formidable chordstream players in this round. They definitely showed up with a 5x 200 score on Raindrop tying up the scoreline yet again.
 
-The Danes had the chance to pull off the biggest upset of the weekend through the tiebreaker, but in the end, the Russians flexed their muscles and ended the match 5-4.
+Both teams were put in a very difficult position given the remaining charts in the pool, ending up in a tiebreaker scenario on [Massive New Krew - Majestic 12](https://osu.ppy.sh/beatmapsets/2119554#mania/4452392), that resulted in the Russians winning the match 5—4.
 
 ### ::{ flag=GB }:: United Kingdom vs. ::{ flag=DE }:: Germany
 
@@ -70,7 +70,7 @@ Shoutouts to ::{ flag = GE }:: [sinkip](https://osu.ppy.sh/users/4373641) for pl
 
 ---
 
-Outro (0x84f)
+Things are already heating up in this year's rendition of the MWC7K! The North American clash from OWC's Quarterfinals between the USA and Canada is continuing on in MWC7K, so that should be fun to watch. Australia also has some returning players that will surely have an impact on their match versus Brazil, so be sure to check that match out as well!
 
 Make sure to read the [wiki article](/wiki/Tournaments/MWC/2024_7K) for more information, and check out the [osulive Twitch channel](https://www.twitch.tv/osulive) to stay tuned with the up-and-coming matches!
 
