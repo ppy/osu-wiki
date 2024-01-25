@@ -23,9 +23,9 @@ Cet ensemble de **critères de classement d'osu!mania** définit les [règles et
 ### Termes courants
 
 - **BPM** : Le tempo d'une musique mesuré en battements par minute.
-- **Colonne** : Couloirs verticaux du [terrain de jeu](/wiki/Game_mode/osu!mania#playfield) où les notes sont placées. Notez que les [timestamps de l'éditeur](/wiki/Modding/Timestamp) se réfèrent aux colonnes par leur position à l'index zéro en partant de la gauche.
+- **Colonne** : Couloirs verticaux de [l'écran de jeu](/wiki/Game_mode/osu!mania#écran-de-jeu) où les notes sont placées. Notez que les [timestamps de l'éditeur](/wiki/Modding/Timestamp) se réfèrent aux colonnes par leur position à l'index zéro en partant de la gauche.
 - **Key mode** : Le nombre de colonnes présentes dans une difficulté.
-- **Style de jeu** : Style prévu par un mappeur pour les [raccourcis clavier](/wiki/Game_mode/osu!mania#controls) ou les positions des mains utilisées pour jouer une difficulté.
+- **Style de jeu** : Style prévu par un mappeur pour les [raccourcis clavier](/wiki/Game_mode/osu!mania#contrôles) ou les positions des mains utilisées pour jouer une difficulté.
 - **Style de jeu standard**: Le style de jeu le plus courant pour les nombres de touches inférieurs ou égaux à 10, où aucune colonne n'a d'importance particulière et où le joueur est censé contrôler chaque touche avec un doigt unique.
  - Exemples de styles de jeu standard : 4K, 7K, 10K
  - Exemples de styles de jeu non standard : 7K+1, 10K2S, 14K DP
