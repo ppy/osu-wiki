@@ -40,7 +40,13 @@ The match eventually ended in Brazil's favour 5-1, but this moment will always b
 
 [**View the VOD here!**](https://www.twitch.tv/videos/2039351530)
 
-Text.
+The Netherlands vs. Taiwan match was one of the two closest matches we've seen this round! Suffice to say, with their seeds being #16 and #17 respectively, we knew we were in for a close match — but not this close!
+
+Interestingly enough, this match was played without the team's protects. Despite that, neither one of the teams backed down and readjusted their strategies despite their comfort picks potentially being banned! The match ended up evolving into a constant back and forth, highlighted by ::{ flag = NL }:: [Tyronix](https://osu.ppy.sh/users/11290311)'s overall performance and nerves of steel, ::{ flag = NL }:: [Freek](https://osu.ppy.sh/users/9630674)'s amazing LN scores, and Taiwan's extraordinary consistency all throughout the match!
+
+But the final star of the show was the Tiebreaker, [Massive New Krew - Majestic 12](https://osu.ppy.sh/beatmapsets/2119554#mania/4452392). While both teams were at their wit's ends, this didn't stop them from pushing themselves to the limit with quite a tight lead all things considered. Unfortunately for the Netherlands, Taiwan's consistency and control by the hands of ::{ flag=DK }:: [hero_jeff](https://osu.ppy.sh/users/3375226) and ::{ flag = TW }:: [[EGEJ]Egg_Tart](https://osu.ppy.sh/users/9666710) ended up giving them the edge.
+
+Congratulations to both teams, as nobody could've predicted who would be taking the lead in such a close match!
 
 ### ::{ flag=RU }:: Russian Federation vs. ::{ flag=DK }:: Denmark
 
