@@ -44,7 +44,7 @@ If piano smashing is your favourite pastime, we've got you covered:
 - Or try [this 7K osu!mania map](https://osu.ppy.sh/beatmapsets/1847997) hosted by [-NoName-](https://osu.ppy.sh/users/10400730)!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/397/Songs/anubasu-anubasu%20-%20Materialize%20Anything.osz">
+    <source src="https://assets.ppy.sh/artists/397/Songs/anubasu-anubasu%20-%20Materialize%20Anything.mp3">
 </audio>
 
 ---

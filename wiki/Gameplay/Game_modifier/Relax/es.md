@@ -6,13 +6,15 @@ tags:
   - RX
   - mod
   - game modifier
+  - modificador de juego
+  - modificador del juego
 ---
 
 # Relax (mod)
 
 ![Icono del mod RL](/wiki/shared/mods/RL.png "Icono del mod Relax (RL)")
 
-*Para una lista completa de mods, véase: [Modificador de juego](/wiki/Gameplay/Game_modifier)*
+*Para una lista completa de mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*
 
 ## Acerca de
 
@@ -30,7 +32,7 @@ tags:
 
 *Aviso: Activar el mod Relax hará que la partida no se clasifique y no se guardará en las tablas de clasificación locales.*
 
-El mod **Relax** es un [modificador de juego](/wiki/Gameplay/Game_modifier) que tiene como objetivo permitir una experiencia relajante a los jugadores. Debido a su naturaleza, el mod se utiliza normalmente para analizar/practicar [patrones](/wiki/Beatmap/Pattern) difíciles en [beatmaps](/wiki/Beatmap), o para cuando los jugadores quieren dar un descanso a sus manos tocando.
+El mod **Relax** es un [modificador del juego](/wiki/Gameplay/Game_modifier) que tiene como objetivo permitir una experiencia relajante a los jugadores. Debido a su naturaleza, el mod se utiliza normalmente para analizar/practicar [patrones](/wiki/Beatmap/Pattern) difíciles en [beatmaps](/wiki/Beatmap), o para cuando los jugadores quieren dar un descanso a sus manos tocando.
 
 ### osu!
 
