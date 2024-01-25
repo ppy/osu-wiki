@@ -4,7 +4,7 @@ title: "osu!mania 7K World Cup 2024: Round of 24 Recap"
 date: 2024-01-26 15:00:00 +0000
 ---
 
-The osu!mania 7k World Cup begins! Stay updated as participants start revving up their engines to maintain their momentum along the remainder of the tournament.
+The osu!mania 7K World Cup begins! Stay updated as participants start revving up their engines to maintain their momentum along the remainder of the tournament.
 
 ![](/wiki/Tournaments/MWC/2024_7K/img/mwc7k2024-banner.jpg)
 
@@ -66,13 +66,13 @@ Both teams were put in a very difficult position given the remaining charts in t
 
 The United Kingdom versus Germany match was a sight to behold! With similarly placed seeds, everyone expected everyone to fight tooth and nail in order to gain an advantage over their rivals.
 
-From the very beginning, the teams didn't fear to show their preferred skillsets. While the United Kingdom banned a Long Note pick and picked a Rice one subsequently, Germany did the exact opposite. These biases were shown all throughout the match, as these teams stuck to their strong suits.
+From the very beginning, the teams didn't fear to show their preferred skill sets. While the United Kingdom banned a Long Note pick and picked a Rice one subsequently, Germany did the exact opposite. These biases were shown all throughout the match, as these teams stuck to their strong suits.
 
 The match then began with [seatrus - Raindrop](https://osu.ppy.sh/beatmapsets/2119535#mania/4452365) where Germany managed to squeeze their first point thanks to their consistency despite the early miss. Little did they know this aforementioned consistency was going to be what would uplift their lead for the rest of the match! The advantage Germany gained thanks to their LN picks and ::{ flag = GE }:: [TsukiyaWhiskers](https://osu.ppy.sh/users/12598261)' amazing performance throughout the match would unfortunately seal the deal as the United Kingdom was not able to maintain their leads.
 
 Alas, this was no stomp by any stretch of the imagination. The United Kingdoms's performance was admirable. And while they weren't able to secure a point, they managed to put Germany on check more than a few times. And [Y.W - Freshness Vacation](https://osu.ppy.sh/beatmapsets/2119550#mania/4452388) was a testament to that.
 
-Shoutouts to ::{ flag = GE }:: [sinkip](https://osu.ppy.sh/users/4373641) for playing the entire match [with a BMS controller](https://www.twitch.tv/videos/2039250337?t=04h05m49s)!
+Shout outs to ::{ flag = GE }:: [sinkip](https://osu.ppy.sh/users/4373641) for playing the entire match [with a BMS controller](https://www.twitch.tv/videos/2039250337?t=04h05m49s)!
 
 ---
 
