@@ -1,7 +1,4 @@
 ---
-outdated_since: 90681ed55cd6b445404dda6ac60d196e1a3549ba
-outdated_translation: true
-no_native_review: true
 tags:
   - find beatmaps
   - filter beatmaps
@@ -54,7 +51,7 @@ Les champs de métadonnées des beatmap peuvent être comparés à des valeurs s
 | `mode` | Mode de jeu. Il peut s'agir de `osu`, `taiko`, `catch`, ou `mania`, ou `o`/`t`/`c`/`m` en abrégé. |
 | `status` | Statut de la beatmap. La valeur peut être `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, ou `loved`, ou `r`/`a`/`p`/`n`/`u`/`l` en abrégé. |
 | `played` | Temps écoulé depuis le dernier jeu en jours |
-| `unplayed` | N'affiche que les maps non jouées. Une comparaison sans valeur définie doit être utilisée (par exemple `unplayed=`). La comparaison elle-même est ignorée. |
+| `unplayed` | N'affiche que les maps non jouées. Ce filtre doit avoir une valeur nulle pour prendre effet (`unplayed=`). A noter que le paramètre de comparaison lui-même peut être libre (par exemple, `unplayed=`, `unplayed>` et `unplayed!=` font la même chose). |
 | `speed` | Sauvegarde de la vitesse de défilement d'osu!mania. La vitesse de défilement est toujours 0 pour les maps non jouées, ou si l'option [`Se souvenir des vitesses de défilement sur chaque map osu!mania`](/wiki/Client/Options#gameplay) est désactivée. |
 
 ## Site web[^filtres-sites-web]
