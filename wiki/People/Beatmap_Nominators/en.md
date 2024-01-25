@@ -151,11 +151,11 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136) | German |
 | ::{ flag=ID }:: [Dapulezatos](https://osu.ppy.sh/users/8140944) | Indonesian |
 | ::{ flag=DE }:: [Du5t](https://osu.ppy.sh/users/6053071) |  |
-| ::{ flag=CA }:: [fuhie](https://osu.ppy.sh/users/7620002) | German |
 | ::{ flag=US }:: [GiGas](https://osu.ppy.sh/users/7300747) | Korean |
 | ::{ flag=FR }:: [kfc nugget](https://osu.ppy.sh/users/8266817) | French |
 | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | Russian |
 | ::{ flag=ID }:: [Mochi -](https://osu.ppy.sh/users/20424806) | Indonesian |
+| ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) | Korean |
 | ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466) |  |
 
 #### osu!mania
@@ -186,7 +186,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=IT }:: [Harbyter](https://osu.ppy.sh/users/1147679) |  |
 | ::{ flag=CN }:: [Hidden is fun](https://osu.ppy.sh/users/10449071) | Chinese |
 | ::{ flag=US }:: [Hugged](https://osu.ppy.sh/users/12589220) | Turkish |
-| ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176) |  |
 | ::{ flag=PH }:: [Hytex](https://osu.ppy.sh/users/8536263) | Filipino |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Indonesian, Malay, Japanese |
 | ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | Cantonese, Chinese |
@@ -225,6 +224,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=US }:: [Bloxi](https://osu.ppy.sh/users/9022451) |  |
 | ::{ flag=BR }:: [HowRengar](https://osu.ppy.sh/users/6064571) | Portuguese |
 | ::{ flag=CA }:: [JoshywaBoo](https://osu.ppy.sh/users/19656568) |  |
+| ::{ flag=US }:: [KoldNoodl](https://osu.ppy.sh/users/12572294) |  |
 | ::{ flag=US }:: [Local Hero](https://osu.ppy.sh/users/16134122) |  |
 | ::{ flag=TW }:: [MianYa](https://osu.ppy.sh/users/1844862) | Chinese |
 | ::{ flag=CH }:: [momoyo](https://osu.ppy.sh/users/12469536) |  |
