@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 27ab7c703108c7b0b5f066700718dcce34d68524
+---
+
 # Historia de osu! 2007
 
 Lo mostrado a continuación es parte de la historia de osu! desde su comienzo. Agradecimientos especiales a [Sinistro](https://osu.ppy.sh/users/5530) por ayudar a reunir el contenido de 2007/2008.
