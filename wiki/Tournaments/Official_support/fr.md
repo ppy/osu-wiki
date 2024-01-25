@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 tags:
   - badge
   - badges
@@ -13,15 +12,16 @@ tags:
 
 [L'équipe d'osu!](/wiki/People/osu!_team) gère un programme dans le cadre duquel elle peut choisir de fournir un support supplémentaire aux tournois organisés par la communauté qui respectent un certain nombre de critères et d'attentes, à sa discrétion.
 
-Cet article a été mis à jour pour la dernière fois le 13 septembre 2023. Pour toute question ou clarification, veuillez consulter le salon `#tournaments` sur le [serveur Discord d'osu!](https://discord.com/invite/ppy) ou envoyer un courriel à [l'équipe d'assistance aux comptes](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+Cet article a été mis à jour pour la dernière fois le 18 janvier 2024. Pour toute question ou clarification, veuillez consulter le salon `#tournaments` sur le [serveur Discord d'osu!](https://discord.com/invite/ppy) ou envoyer un courriel à [l'équipe d'assistance aux comptes](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Avantages
 
 Les tournois bénéficiant d'un support officielle ont accès à :
 
-- Un [processus de filtration](#contrôle-du-tournoi) pour empêcher les utilisateurs ayant commis de graves infractions (tricherie, multicomptes, interdictions de tournoi) de jouer.
-- [Des récompenses sous forme de badges de profil](#badges-de-profil) pour les gagnants de la première place.
-- La prise en compte potentielle d'une [bannière publicitaire dans le menu principal](#demande-de-soutien-pour-les-bannières-en-jeu-et-les-messages-d'information) lors des grands matchs.
+- Un [processus de screening](#contrôle-du-tournoi) pour empêcher les utilisateurs ayant commis de graves infractions (tricherie, multicomptes, bannissements de tournoi) de jouer.
+- [Des récompenses sous forme de badges de profil](#badges-de-profil) pour les vainqueurs du tournoi.
+- La possibilité d'envisager une [bannière publicitaire dans le menu principal](#demande-de-soutien-pour-les-bannières-en-jeu-et-les-messages-d'information) lors des grands matchs.
+- Possibilité d'envisager un [article de news](#demande-de-soutien-pour-les-bannières-en-jeu-et-les-messages-d'information), un message annonçant les inscriptions et un autre résumant les résultats finaux.
 
 ## Éligibilité
 
@@ -54,9 +54,7 @@ Si votre tournoi répond aux [critères d'éligibilité](#éligibilité), vous p
     - Pour les tournois régionaux, le fil de discussion peut être créé dans le sous-forum de la langue appropriée.
   - Les serveurs publics Discord ou tout autre espace de discussion hors site utilisé pour l'événement.
   - Les itérations précédentes de la même série de tournois (uniquement si applicable).
-- Une listes séparées pour :
-  - Le personnel impliqué dans l'organisation du tournoi.
-  - Les utilisateurs qui se sont inscrits pour participer au tournoi (voir [contrôle du tournoi](#contrôle-du-tournoi)).
+- Une liste des utilisateurs qui se sont inscrits pour participer au tournoi (voir [contrôle du tournoi](#contrôle-du-tournoi)), en tant que pièce jointe séparée.
 
 Une fois que nous aurons reçu votre demande, l'équipe d'assistance aux comptes vous renverra une liste des utilisateurs qui ne sont pas autorisés à participer aux tournois. Veuillez prévoir suffisamment de temps pour une réponse. Nous ferons de notre mieux pour traiter toutes les demandes dans un délai d'une semaine, mais il nous arrive parfois d'avoir une charge de travail importante qui rend la chose impossible.
 
@@ -117,6 +115,8 @@ En ce qui concerne les rôles du personnel, les règles suivantes s'appliquent :
 Les utilisateurs faisant l'objet d'une interdiction de tournoi active sont tenus de révéler leur statut d'interdiction à tout tournoi officiellement soutenu auquel ils ont l'intention d'apporter leur aide. Ils peuvent être enrôlés comme streamers, commentateurs ou graphistes à la discrétion de l'hôte, mais nous encourageons un examen attentif de ces choix car ces personnes ont déjà enfreint les règles une fois (ou plus). Ils ne peuvent jouer aucun autre rôle au sein de l'équipe, À MOINS que l'hôte ne demande une dérogation pour eux lors de leur demande initiale de support. L'équipe d'assistance aux comptes évaluera alors ces demandes au cas par cas, en tenant compte des antécédents de l'utilisateur.
 
 À la discrétion de l'équipe d'assistance, les membres du personnel dont le comportement a directement entraîné la perte du soutien officiel d'un tournoi ne peuvent pas jouer le même rôle dans un autre tournoi avec un badge en récompense, ni en être l'hôte ou l'administrateur, pendant au moins 4 mois. Si ce délai est appliqué à un utilisateur, celui-ci en sera informé directement par l'intermédiaire de [l'équipe du tournoi](mailto:tournaments@ppy.sh).
+
+Une liste de tous les membres du staff du tournoi doit être publiquement visible dans un endroit facilement accessible. Cette liste peut être contenue dans un message du forum, sur le site web ou dans une feuille de calcul.
 
 ### Joueurs
 
