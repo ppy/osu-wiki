@@ -557,4 +557,4 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 
 [^qual-note-1]: Average score across all eight Qualifier beatmaps: CTB RAIMON 1,903,488, DreStarkari 1,892,753.
 [^qual-note-2]: Average score across all eight Qualifier beatmaps: Signal Graph 1,613,901, Ban Mods 1,608,756.
-[^qual-note-3]: Average score across all eight Qualifier beatmaps: Rhodes Island 1,516,625, Ban Mods 1,506,365.
+[^qual-note-3]: Average score across all eight Qualifier beatmaps: Rhodes Island 1,516,625, Ad Matai Bad 1,506,365.
