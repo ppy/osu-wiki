@@ -1,7 +1,4 @@
 ---
-outdated_since: 90681ed55cd6b445404dda6ac60d196e1a3549ba
-outdated_translation: true
-no_native_review: true
 tags:
   - find beatmaps
   - filter beatmaps
