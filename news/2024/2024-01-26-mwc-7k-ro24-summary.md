@@ -15,7 +15,7 @@ Before getting into the highlight matches, let's quickly reflect (or familiarise
 ## Mappool showcase
 
 <div align="center">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.twitch.tv/videos/2032775000" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2032775000&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
 [**Download the pool here! (50 MB)**](https://osu.ppy.sh/beatmaps/packs/P233)
@@ -29,7 +29,7 @@ We may just be getting started, but we already had a few matches that are worth 
 ### ::{ flag=BR }:: Brazil vs. ::{ flag=PT }:: Portugal
 
 <div align="center">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.twitch.tv/videos/2038389122" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2038389122&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
 Brazil vs. Portugal was a match that went as one would have expected on paper, but one moment shone through in particular.
@@ -45,7 +45,7 @@ The match eventually ended in Brazil's favour 5–1, but this moment will always
 ### ::{ flag=NL }:: Netherlands vs. ::{ flag=TW }:: Taiwan
 
 <div align="center">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.twitch.tv/videos/2039351530" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2039351530&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
 The Netherlands vs. Taiwan match was one of the two closest matches we've seen this round! Suffice to say, with their seeds being #16 and #17 respectively, we knew we were in for a close match — but not this close!
@@ -59,7 +59,7 @@ Congratulations to both teams, as nobody could've predicted who would be taking 
 ### ::{ flag=RU }:: Russian Federation vs. ::{ flag=DK }:: Denmark
 
 <div align="center">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.twitch.tv/videos/2039423606" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2039423606&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
 Russia went into this match as a crowd favourite, given their roster and their qualifier performance. Meanwhile, Denmark carried some very respectable players like ::{ flag=DK }:: [Fritte](https://osu.ppy.sh/users/5001658) and ::{ flag=DK }:: [Jole](https://osu.ppy.sh/users/2883132), but not without amazing teammates to keep up the pace!
@@ -73,7 +73,7 @@ Both teams were put in a very difficult position given the remaining charts in t
 ### ::{ flag=GB }:: United Kingdom vs. ::{ flag=DE }:: Germany
 
 <div align="center">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.twitch.tv/videos/2039449910" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2039449910&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
 The United Kingdom vs. Germany match was a sight to behold! With similarly placed seeds, everyone expected both teams to fight tooth and nail in order to gain an advantage over their rival.
