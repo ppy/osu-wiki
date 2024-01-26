@@ -78,7 +78,7 @@ osu!direct es el motor de búsqueda y descarga de beatmaps disponible para suppo
 
 Los supporters tienen acceso a varias [tablas de clasificación](/wiki/Beatmap#tablas-de-clasificación) específicas por beatmap disponibles en el juego y en el sitio web:
 
-- Clasificación mundial para cada combinación de [modificadores de juego](/wiki/Gameplay/Game_modifier)
+- Clasificación mundial para cada combinación de [modificadores del juego](/wiki/Gameplay/Game_modifier)
 - Clasificación nacional para jugadores que comparten la misma bandera
 - Clasificación entre amigos que muestra la posición del jugador en cualquier mapa comparado con sus amigos
 
