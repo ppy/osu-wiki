@@ -14,11 +14,11 @@ Before getting into the highlight matches, let's quickly reflect (or familiarise
 
 ## Mappool showcase
 
-<div align="center">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2032775000&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
-</div>
-
 [**Download the pool here! (50 MB)**](https://osu.ppy.sh/beatmaps/packs/P233)
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2032775000&parent=osu.ppy.sh&autoplay=false&t=0h36m41s" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+</div>
 
 With a new tournament comes a suite of new custom beatmaps for everyone to enjoy! This time around, the mapping team is making active efforts to ensure some of these picks are available to be ranked after the tournament ends. Stay tuned for all [osu! originals](/wiki/osu!_originals) that are up to come — soon right in your beatmap collection!
 
@@ -28,7 +28,7 @@ We may just be getting started, but we already had a few matches that are worth 
 
 ### ::{ flag=BR }:: Brazil vs. ::{ flag=PT }:: Portugal
 
-<div align="center">
+<div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2038389122&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
@@ -44,7 +44,7 @@ The match eventually ended in Brazil's favour 5–1, but this moment will always
 
 ### ::{ flag=NL }:: Netherlands vs. ::{ flag=TW }:: Taiwan
 
-<div align="center">
+<div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2039351530&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
@@ -58,7 +58,7 @@ Congratulations to both teams, as nobody could've predicted who would be taking 
 
 ### ::{ flag=RU }:: Russian Federation vs. ::{ flag=DK }:: Denmark
 
-<div align="center">
+<div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2039423606&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
@@ -72,7 +72,7 @@ Both teams were put in a very difficult position given the remaining charts in t
 
 ### ::{ flag=GB }:: United Kingdom vs. ::{ flag=DE }:: Germany
 
-<div align="center">
+<div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2039449910&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
