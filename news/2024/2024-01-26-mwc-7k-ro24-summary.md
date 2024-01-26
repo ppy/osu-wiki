@@ -18,7 +18,7 @@ Before getting into the highlight matches, let's quickly reflect (or familiarise
 
 [**Download the pool here! (50 MB)**](https://packs.ppy.sh/P233%20-%20osu!mania%207K%20World%20Cup%202024%3A%20Round%20of%2024.zip)
 
-With a new tournament comes a suite of new custom beatmaps for everyone to enjoy! This time around, the mapping team is making active efforts to ensure some of these picks are available to be Ranked after the tournament ends. Stay tuned for all [osu! originals](/wiki/osu!_originals) that are up to come — you may see them Ranked earlier than you think so!
+With a new tournament comes a suite of new custom beatmaps for everyone to enjoy! This time around, the mapping team is making active efforts to ensure some of these picks are available to be Ranked after the tournament ends. Stay tuned for all [osu! originals](/wiki/osu!_originals) that are up to come — you may see them Ranked earlier than you'd think so!
 
 ### Match highlights
 
