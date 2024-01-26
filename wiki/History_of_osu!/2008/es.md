@@ -44,7 +44,7 @@ Continuando con la tendencia establecida en julio, sería difícil encontrar un 
 
 Las mejores puntuaciones personales en línea se agregaron a la selección de canciones, cumpliendo con una solicitud de mucho tiempo, que requería una optimización de la base de datos bastante considerable. Se realizaron mejoras gráficas en la pantalla de clasificación y varios elementos de la skin predeterminada con el objetivo de que se sintieran aún más limpios y nítidos que antes. Se implementó la visualización de sprites de puntuación de las marcas de los sliders (10/30). Se observaron mejoras en la configuración de las partidas multijugador, lo que permitió transferir el control del anfitrión. Se agregaron muchos [comandos de chat](/wiki/Client/Interface/Chat_console#lista-de-comandos) nuevos para la comodidad del usuario.
 
-Se agregó un nuevo estado de clasificación «![](img/fire.gif) [aprobado](/wiki/Beatmap/Category#aprobados)» para los mapas que eran de gran calidad pero excedían la longitud de la clasificación, la dificultad u otros límites en algunos forma. Los mapas en este estado no se suman a los puntajes del jugador, pero tienen tablas de puntuación y actúan como un mapa ![](img/heart.gif) [clasificado](/wiki/Beatmap/Category#clasificados).
+Se agregó un nuevo estado de clasificación «![](img/fire.gif) [aprobado](/wiki/Beatmap/Category#approved)» para los mapas que eran de gran calidad pero excedían la longitud de la clasificación, la dificultad u otros límites en algunos forma. Los mapas en este estado no se suman a los puntajes del jugador, pero tienen tablas de puntuación y actúan como un mapa ![](img/heart.gif) [clasificado](/wiki/Beatmap/Category#ranked).
 
 ## Septiembre
 
