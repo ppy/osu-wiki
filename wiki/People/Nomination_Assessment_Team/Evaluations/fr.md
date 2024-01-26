@@ -4,7 +4,7 @@ no_native_review: true
 
 # Évaluations des Beatmap Nominator
 
-*Voir également : [Devenir un Beatmap Nominator § Processus de candidature](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator#application-process)*
+*Voir également : [Devenir un Beatmap Nominator § Processus de candidature](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator#processus-de-candidature)*
 
 L'évaluation des candidats au poste de [Beatmap Nominator](/wiki/People/Beatmap_Nominators) (*BN*) et des Beatmap Nominator actuels est effectuée par les membres de la [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*). Ces évaluations suivent un format défini afin de garantir que chaque candidature et chaque nominateur soient examinés régulièrement. Toutes les évaluations ont lieu sur le [site web des BN](https://bn.mappersguild.com/).
 
@@ -20,7 +20,7 @@ Les références à Discord dans cet article concernent le serveur BN Discord, d
 
 Chaque BN est examiné régulièrement par les membres de la NAT.
 
-Pour les Nominators en [probation](/wiki/People/Beatmap_Nominators#probationary-beatmap-nominators), ou qui ont reçu un avertissement [d'activité](/wiki/People/Beatmap_Nominators/Rules#activité), leur prochaine évaluation sera programmée environ 1 mois après avoir été mis en probation ou avoir reçu leur avertissement.
+Pour les Nominators en [probation](/wiki/People/Beatmap_Nominators#beatmap-nominators-probatoire), ou qui ont reçu un avertissement [d'activité](/wiki/People/Beatmap_Nominators/Rules#activité), leur prochaine évaluation sera programmée environ 1 mois après avoir été mis en probation ou avoir reçu leur avertissement.
 
 Pour les Beatmap Nominators titulaire qui n'ont pas reçu d'avertissement récent, l'évaluation est programmée tous les trois mois.
 

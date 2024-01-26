@@ -265,7 +265,7 @@ Los sistemas de mapping y modding están mejorando constantemente. La **cronolog
 
 - **5/8/2016:** Se creó el [blog del Quality Assurance Team](/wiki/People/Quality_Assurance_Team/Quality_Assurance_Team_Blog).
   - El QAT estaba recibiendo críticas por estar demasiado aislado del resto de la comunidad de mapping, por lo que este blog se creó para aumentar la transparencia en la toma de decisiones y la actividad de la comunidad del QAT.
-- **26/8/2016:** El [código de conducta](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) se implementó para establecer las expectativas del comportamiento en modding.
+- **26/8/2016:** El [código de conducta](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) se implementó para establecer las expectativas de conducta en el modding.
   - Estas reglas y pautas fueron tratadas como sentido común hasta este punto. Al documentarlos, la moderación podría hacerse más consistente.
 
 ### Septiembre
@@ -288,7 +288,7 @@ Los sistemas de mapping y modding están mejorando constantemente. La **cronolog
   - Para permitir el tiempo adecuado para el veto, las nominaciones consecutivas no se pueden establecer dentro de las 24 horas de diferencia.
   - Los vetos no concluyentes fueron mediados por el QAT poco después de la implementación de este sistema.
 - **2/11/2016:** Los archivos de Beatmap Nominators se crearon para controlar a todos los miembros individuales de BN.
-  - Estos archivos incluían actividad de modding/nominación, descalificaciones y problemas de comportamiento.
+  - Estos archivos incluían actividad de modding/nominación, descalificaciones y problemas de conducta.
   - Los miembros de los BN con 3 o más «strikes» registrados en estos archivos serían eliminados del grupo.
 
 **1720 beatmaps** se clasificaron en 2016.
@@ -418,10 +418,10 @@ Los sistemas de mapping y modding están mejorando constantemente. La **cronolog
 - **5/5/2019:** Se finalizó la reestructuración de BN/QAT.
   - El Quality Assurance Team pasó a llamarse [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team).
   - Los Beatmap Nominators se hicieron responsables de las descalificaciones y la mediación de vetos. La mediación de vetos se manejó a través de un voto ciego en lugar de una discusión.
-  - El [sitio web de los Beatmap Nominator](https://bn.mappersguild.com/) se publicó para automatizar muchas tareas de BN/NAT.
+  - El [sitio web de los Beatmap Nominators](https://bn.mappersguild.com/) se publicó para automatizar muchas tareas de BN/NAT.
     - A través del sitio web, los usuarios podían postularse para BN en cualquier momento, a diferencia del anterior sistema de postulación basado en ciclos. Esto dio como resultado que se añadieran Beatmap Nominators en momentos irregulares en lugar de en grandes oleadas.
-    - Los informes de beatmaps inapropiados y mala conducta de BN/NAT se trasladaron de un formulario de Google al sitio web de BN.
-    - Las estadísticas y evaluaciones para la actividad y competencia de modding/nominación de los BN pasaron de las hojas de cálculo de Google dolorosamente ineficientes al sitio web de BN, lo que aumentó enormemente la productividad para la administración de los Beatmap Nominators.
+    - Los informes de beatmaps inapropiados y mala conducta de BN/NAT se trasladaron de un formulario de Google al sitio web de los BN.
+    - Las estadísticas y evaluaciones para la actividad y competencia de modding/nominación de los BN pasaron de las hojas de cálculo de Google dolorosamente ineficientes al sitio web de los BN, lo que aumentó enormemente la productividad para la administración de los Beatmap Nominators.
 
 ### Agosto
 
@@ -445,7 +445,7 @@ Los sistemas de mapping y modding están mejorando constantemente. La **cronolog
   - Estas se planearon originalmente en el QAT Upheaval dos años antes.
 - **21/2/2020:** El liderazgo del NAT como concepto se suspendió cuando ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) renunció como líder del NAT.
   - Las tareas específicas de los líderes del NAT se delegaron a todo el equipo.
-- **24/2/2020:** El sistema del [Quality Assurance Helper](/wiki/People/Beatmap_Nominators/General_Information#quality-assurance) se transfirió de Trello al [sitio web de los Beatmap Nominator](https://bn.mappersguild.com/).
+- **24/2/2020:** El sistema del [Quality Assurance Helper](/wiki/People/Beatmap_Nominators/General_Information#quality-assurance) se transfirió de Trello al [sitio web de los Beatmap Nominators](https://bn.mappersguild.com/).
   - Este cambio se realizó para tener en cuenta la actividad del control de calidad en las evaluaciones para Beatmap Nominator.
 
 ### Abril
@@ -458,7 +458,7 @@ Los sistemas de mapping y modding están mejorando constantemente. La **cronolog
 
 ### Octubre
 
-- **2/10/2020:** Las [expectativas para los Beatmap Nominators](/wiki/People/Beatmap_Nominators/Expectations) se establecieron para combatir las preocupaciones de comportamiento dentro del grupo.
+- **2/10/2020:** Las [expectativas de los Beatmap Nominators](/wiki/People/Beatmap_Nominators/Expectations) se establecieron para combatir las preocupaciones de conducta dentro del grupo.
   - Las preocupaciones incluían poca accesibilidad, acciones incívicas en entornos comunitarios, y estándares de calidad de clasificación cuestionables.
   - Esto resultó en la eliminación inmediata de 5 Beatmap Nominators.
 - **29/10/2020:** El dominio del modo de juego del Beatmap Nominator se hizo visible en la web de osu!.
@@ -470,7 +470,7 @@ Los sistemas de mapping y modding están mejorando constantemente. La **cronolog
 
 ### Diciembre
 
-- **17/12/2020:** La evaluación y el envío de revisiones de contenido inapropiado pasaron de las discusiones en Discord a las votaciones a ciegas a través del [sitio web de Beatmap Nominator](https://bn.mappersguild.com/).
+- **17/12/2020:** La evaluación y el envío de revisiones de contenido inapropiado pasaron de las discusiones en Discord a las votaciones a ciegas a través del [sitio web de los Beatmap Nominators](https://bn.mappersguild.com/).
 
 **3580 beatmaps** se clasificaron en 2020.
 

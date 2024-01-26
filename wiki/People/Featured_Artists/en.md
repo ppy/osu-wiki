@@ -28,7 +28,8 @@ New Featured Artist releases per year:
 - **2020:** 65
 - **2021:** 101
 - **2022:** 104
-- **2023:** *to be determined*
+- **2023:** 64
+- **2024:** *to be determined*
 
 New Featured Artists are announced weekly on osu!'s [news feed](https://osu.ppy.sh/home/news). Most announcements include a list of the artist's licensed songs and a link to their Featured Artist page, though some announcements are paired with mapping contests or beatmaps created by the [Mappers' Guild](/wiki/Community/Mappers_Guild).
 
@@ -92,6 +93,7 @@ The [Featured Artist group page](https://osu.ppy.sh/groups/35) lists all such ac
 | ::{ flag=RU }:: [Shadren](https://osu.ppy.sh/users/745494) | [Shadren](https://osu.ppy.sh/beatmaps/artists/362) |
 | ::{ flag=US }:: [skymuted](https://osu.ppy.sh/users/7734050) | [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15) |
 | ::{ flag=ES }:: [sotuiofficial](https://osu.ppy.sh/users/14779258) | [Rising Sun Traxx](https://osu.ppy.sh/beatmaps/artists/41) (founder) |
+| ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235) | [Sparxe](https://osu.ppy.sh/beatmaps/artists/398) |
 | ::{ flag=US }:: [synthion](https://osu.ppy.sh/users/2872433) | [Synthion](https://osu.ppy.sh/beatmaps/artists/357) |
 | ::{ flag=US }:: [tephe](https://osu.ppy.sh/users/32666295) | [tephe](https://osu.ppy.sh/beatmaps/artists/361) |
 | ::{ flag=KR }:: [thenewlimee](https://osu.ppy.sh/users/7802935) | [Raimukun](https://osu.ppy.sh/beatmaps/artists/247) |
@@ -100,4 +102,4 @@ The [Featured Artist group page](https://osu.ppy.sh/groups/35) lists all such ac
 | ::{ flag=US }:: [Will Stetson](https://osu.ppy.sh/users/4909088) | [Will Stetson](https://osu.ppy.sh/beatmaps/artists/385) |
 | ::{ flag=JP }:: [xorsizer](https://osu.ppy.sh/users/20466752) | [Symholic](https://osu.ppy.sh/beatmaps/artists/130) (member of) |
 | ::{ flag=TH }:: [YuugenP](https://osu.ppy.sh/users/2014016) | [rN](https://osu.ppy.sh/beatmaps/artists/190) |
-| ::{ flag=US }:: [Zenpakuwu](https://osu.ppy.sh/users/13226945) | [Zenpaku](https://osu.ppy.sh/beatmaps/artists/190) |
+| ::{ flag=US }:: [Zenpakuwu](https://osu.ppy.sh/users/13226945) | [Zenpaku](https://osu.ppy.sh/beatmaps/artists/316) |
