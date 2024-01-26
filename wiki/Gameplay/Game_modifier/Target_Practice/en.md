@@ -24,25 +24,23 @@ tags:
 
 ## Description
 
-*Notice: Enabling the Target Practice mod will result in an unranked play.*
+*Notice: Enabling Target Practice will result in an unranked play.*
 
-The **Target Practice** mod is an experimental [game modifier](/wiki/Gameplay/Game_modifier) for [osu!](/wiki/Game_mode/osu!), which removes all the mapped [hit objects](/wiki/Gameplay/Hit_object) and replaces them with a simplified set of "targets". Due to this mod's nature, The mod is used mostly for fun, but can also be helpful to players that want to improve themselves, for they can use it to practice maintaining a consistent tempo and improving hit accuracy.
+The **Target Practice** mod is an experimental [game modifier](/wiki/Gameplay/Game_modifier) for [osu!](/wiki/Game_mode/osu!), which removes all the mapped [hit objects](/wiki/Gameplay/Hit_object) and replaces them with a simplified set of "targets". It is used mostly for fun, but can also be helpful for practicing a consistent tempo and improving hit accuracy.
 
-During a play with the Target Practice mod enabled, the health bar and accuracy will not be shown. The player will be presented with a set of "targets" that slowly increase in size and brightness. The player is then expected to tap or click the targets at the right time. A consistent metronome will be played in the background to indicate to players when they should tap the target.
+When Target Practice is activated, osu! hides the health bar and accuracy meter. The player has to hit the targets gradually appearing across the [playfield](/wiki/Client/Playfield), with the intention of hitting their centers. To maintain stable rhythm, players can follow the metronome playing in the background.
 
-The gameplay will automatically come to an end upon getting a MISS. The accuracy will be given basing on previous hits, along with a grade. The meaning of different grades is similar to that in [osu!mania](/wiki/Gameplay/Grade#osu!mania).
+The game continues until the first [MISS](/wiki/Gameplay/Judgement/osu!), which takes the player to the [results screen](/wiki/Client/Interface#results-screen). The meaning of different grades is similar to that in [osu!mania](/wiki/Gameplay/Grade#osu!mania).
 
 ## Targets
 
-The targets can be considered as a special type of [hit circles](/wiki/Gameplay/Hit_object/Hit_circle), which don't have numbers on top of them. The score and the total accuracy are affected by the position and timing of a hit. Generally, the closer the hit position is to the centre of the target and the more accurate the timing is, the more score can get from a hit, vice versa. The highest score obtained from a "target" is 250 points, which needs the player to tap the target at the centre and the exactly correct time.
-
-Based on the beatmap's timing settings, the "targets" are divided into groups per two [full beats](/wiki/Music_theory/Beat), and the distance between targets in a group is identical, which is gradually increased compared to the previous group. The process of distance increase is consistent throughout all beatmaps.
+A target can be considered a special type of [hit circle](/wiki/Gameplay/Hit_object/Hit_circle) without a [combo number](/wiki/Beatmapping/Combo). Hit score and accuracy depend on the hit position and timing: the more accurate and precise these are, the more points are given, with an ideal hit being worth 250 points. At the playfield, targets are placed in groups, with a new group starting every two [full beats](/wiki/Music_theory/Beat). The spacing within a group remains constant and increases slightly with every new group.
 
 ![TP Gameplay](img/TP-gameplay.jpg "osu! gameplay with the Target Practice mod enabled")
 
 ## Trivia
 
-- The Target Practice Mod will use the [combo colours](/wiki/Beatmapping/Combo_colour) that are marked in the player's current [skin.ini](/wiki/Skinning/skin.ini) folder.
-- Upon failing a play with the Target Practice mod enabled, the player will be brought to the Ranking Screen, instead of a fail screen.
+- The Target Practice Mod uses [combo colours](/wiki/Beatmapping/Combo_colour) from [skin.ini](/wiki/Skinning/skin.ini) of the active skin.
+- Failing a play with Target Practice takes the player to the results screen instead of the fail screen.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
