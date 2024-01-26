@@ -39,7 +39,7 @@ Esto se debe principalmente a los cambios realizados al sistema de juicio. Por e
 | Cambiado intencionalmente | Sí |
 | Necesita más consideración | Sí |
 
-### Todos los modos de juego a excepción de osu!catch usan el mismo sistema de grados
+### Todos los modos de juego, a excepción de osu!catch, usan el mismo sistema de grados
 
 En stable, los requisitos de precisión (y juicio) para cada [grado](/wiki/Gameplay/Grade) son los siguientes:
 
@@ -70,7 +70,7 @@ Mientras tanto, osu!(lazer) ahora tiene los siguientes requisitos:
 
 ### Los cálculos de los límites de las ventanas de tiempo no coinciden con stable
 
-Cuando se asesta un golpe justo en el límite de la ventana de tiempo, se puede recibir un juicio diferente dependiendo de la versión del cliente.
+Cuando un golpe aterriza justo en el límite de la ventana de tiempo, se puede recibir un juicio diferente dependiendo de la versión del cliente.
 
 | Modo de juego | Comparación (stable) | Comparación (lazer) | Comparación (repetición en lazer) |
 | :-- | :-- | :-- | :-- |
@@ -89,7 +89,7 @@ Cuando se asesta un golpe justo en el límite de la ventana de tiempo, se puede 
 
 La puntuación en lazer usará un sistema similar a ScoreV2 y todas las puntuaciones de ScoreV1 serán convertidas al nuevo sistema.
 
-Hay dos modos de visualización para las puntuaciones: *estandarizado* y *clásico*. El sistema estandarizado limita la puntuación a un máximo de 1000000 de puntos + bonificación y multiplicadores de puntuación (similar a ScoreV2), mientras que el sistema clásico es lo mismo que el estandarizado, pero escalado cuadráticamente con la cantidad de objetos en un beatmap (similar a ScoreV1). Estos pueden ser seleccionados desde las configuraciones, todos los lugares en el juego donde se muestra puntuación cambian correspondientemente.
+Hay dos modos de visualización para las puntuaciones: *estandarizado* y *clásico*. El sistema estandarizado limita la puntuación a un máximo de 1 000 000 de puntos + bonificación y multiplicadores de puntuación (similar a ScoreV2), mientras que el sistema clásico es lo mismo que el estandarizado, pero escalado cuadráticamente con la cantidad de objetos en un beatmap (similar a ScoreV1). Estos pueden ser seleccionados desde las configuraciones, todos los lugares en el juego donde se muestra puntuación cambian correspondientemente.
 
 También hay algunas diferencias en cuanto a la puntuación de cada objeto y juicio en relación con los demás.
 
@@ -138,7 +138,7 @@ Hasta la llegada de lazer, los sliders requerían como mínimo la precisión de 
 
 Fallar un slider head (ya sea por no golpearlo o por golpearlo durante su ventana de fallo) previamente rompería el combo pero sin causar un juicio de MISS, y un juicio todavía podría ser obtenido del slider fallado por completar lo que quedara de él. Esto permitía a los jugadores obtener un menor combo máximo mientras que técnicamente no tenían fallos.
 
-En lazer, no golpear un slider head dará un juicio de MISS para el slider completo. Luego de fallar un slider head; combo, puntuación y precisión todavía pueden ser obtenidos de las marcas de los sliders, sliders repetidos y slider ends.
+En lazer, no golpear un slider head dará un juicio de MISS para el slider completo. Luego de fallar un slider head; el combo, la puntuación y la precisión todavía pueden ser obtenidos de las marcas de los sliders, sliders inversos y slider ends.
 
 |  |  |
 | :-- | :-: |
