@@ -138,7 +138,7 @@ Hasta la llegada de lazer, los sliders requerían como mínimo la precisión de 
 
 Fallar un slider head (ya sea por no golpearlo o por golpearlo durante su ventana de fallo) previamente rompería el combo pero sin causar un juicio de MISS, y un juicio todavía podría ser obtenido del slider fallado por completar lo que quedara de él. Esto permitía a los jugadores obtener un menor combo máximo mientras que técnicamente no tenían fallos.
 
-En lazer, no golpear un slider head dará un juicio de MISS para el slider completo. Luego de fallar un slider head; el combo, la puntuación y la precisión todavía pueden ser obtenidos de las marcas de los sliders, sliders inversos y slider ends.
+En lazer, no golpear un slider head dará un juicio de MISS para el slider completo. Después de fallar un slider head, todavía se puede obtener combo, puntuación y precisión de las marcas de los sliders, sliders inversos y slider ends.
 
 |  |  |
 | :-- | :-: |
