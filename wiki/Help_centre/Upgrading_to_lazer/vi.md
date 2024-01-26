@@ -1,7 +1,3 @@
----
-no_native_review_since: 08b5cd869b6e404b0861dc7747b72bd232909352 AutumnVN
----
-
 # Nâng cấp lên lazer
 
 *Lưu ý: Chúng tôi vẫn đang tìm cách giải quyết vấn đề cân bằng các yếu tố và các cơ chế trong trò chơi. Còn bây giờ, **những điểm số được ghi trên lazer sẽ chỉ tồn tại tạm thời**.*
