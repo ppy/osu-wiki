@@ -7,8 +7,7 @@
 *"Nota: Alterações nas Configurações Visuais, são salvas por "beatmap", porém algumas delas podem se perder, após fechar o osu!. Para deixar as alterações permanentemente, use [opções](/wiki/Client/Options) da barra lateral."*
 
 De outra forma, é possível acessar as configurações visuais, pausando o jogo. De qualquer forma, esse método, não funciona no [Multi](/wiki/Client/Interface/Multiplayer) já que não existe a opção de pausar no modo multiplayer, será entendido que você está tentando sair da partida e da sala.
-## Settings
-
+## Configurações
 | Nome | Efeito | Notas |
 | :-- | :-- | :-- |
 | `Escurecer Fundo` | Escurece o background da música, incluindo storyboards e ou vídeos de fundo. | Durante pausas, a intensidade, é diminuida por 30%(com um máximo de 0%), pode ser desabilitado nas configurações. *Nota: Mudanças de escurecimento de fundo, são salvas por mapas(beatmaps) e são perdidas ao fechar o osu.* |
