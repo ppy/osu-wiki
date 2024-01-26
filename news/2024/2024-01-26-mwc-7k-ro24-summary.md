@@ -12,15 +12,15 @@ Continuing on from the [osu! World Cup recaps](https://osu.ppy.sh/home/news/2023
 
 Before getting into the highlight matches, let's quickly reflect (or familiarise) ourselves with the Round of 24 mappool.
 
-### Mappool showcase
+## Mappool showcase
 
 [**View the VOD here!**](https://www.twitch.tv/videos/2032775000)
 
 [**Download the pool here! (50 MB)**](https://osu.ppy.sh/beatmaps/packs/P233)
 
-With a new tournament comes a suite of new custom beatmaps for everyone to enjoy! This time around, the mapping team is making active efforts to ensure some of these picks are available to be Ranked after the tournament ends. Stay tuned for all [osu! originals](/wiki/osu!_originals) that are up to come — you may see them Ranked earlier than you'd think so!
+With a new tournament comes a suite of new custom beatmaps for everyone to enjoy! This time around, the mapping team is making active efforts to ensure some of these picks are available to be ranked after the tournament ends. Stay tuned for all [osu! originals](/wiki/osu!_originals) that are up to come — soon right in your beatmap collection!
 
-### Match highlights
+## Match highlights
 
 We may just be getting started, but we already had a few matches that are worth highlighting take place.
 
@@ -30,7 +30,7 @@ We may just be getting started, but we already had a few matches that are worth 
 
 Brazil vs. Portugal was a match that went as one would have expected on paper, but one moment shone through in particular.
 
-Almost every single 7K tournament player in the recent years have that one annoying skill set to deal with. Usually, early-stage LN coordination charts (The "Oh boy, 2* in the pool!" trap) faces the fate of being the most banned chart in a mappool. In this match, however, the stars aligned in such a way that LN coordination was left as an open option.
+Almost every single 7K tournament player in recent years has that one annoying skill set to deal with. Usually, early-stage LN coordination charts (The "Oh boy, 2* in the pool!" trap) faces the fate of being the most banned chart in a mappool. In this match, however, the stars aligned in such a way that LN coordination was left as an open option.
 
 Portugal was down 4–0 coming into their third pick of the match, with only a limited amount of options left to turn it around. ::{ flag=PT }:: [Rodrig0v](https://osu.ppy.sh/users/138866), their team captain, made the decision to exhaust the LN pool and selected the notorious LN1 chart [Mitsukiyo - Theme_37](https://osu.ppy.sh/beatmapsets/2119592#mania/4452483). Clocking in at 69 BPM, and with only 313 long notes, absolutely no one could afford any misses.
 
