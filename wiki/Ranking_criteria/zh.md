@@ -2,8 +2,6 @@
 
 *若想查阅特定[游戏模式](/wiki/Game_mode)的谱面上架标准，请参阅 [osu!](osu!)、[osu!taiko](osu!taiko)、[osu!catch](osu!catch)、[osu!mania](osu!mania)。*
 
-*若想查阅简版上架标准，请参阅：[简版上架标准](Simplified_ranking_criteria)。*
-
 **谱面上架标准 (Ranking Criteria)** 列出了[谱面](/wiki/Beatmap)在通过[谱面上架程序](/wiki/Beatmap_ranking_procedure)时必须遵守的[规定和准则](#一般术语)。
 
 若想修改本文中的条目，请参照 *[建议：如何提出谱面上架标准的修改案](https://osu.ppy.sh/community/forums/topics/720532)* 这篇文章，并在[谱面上架标准论坛](https://osu.ppy.sh/community/forums/87)中提出和讨论修改案。注意，若仅仅修改文中的用词、语法、组句，而不改变条目原意，则无需发帖至论坛。
