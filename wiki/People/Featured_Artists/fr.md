@@ -1,27 +1,26 @@
 ---
+no_native_review: true
 tags:
   - FA
-outdated_translation: true
-outdated_since: 228b9e5a795e41fa9435967cfd407b88216d956c
 ---
 
 # Featured Artists
 
-Les **Featured Artists** sont des artistes musicaux qui ont collaboré avec osu! pour mettre à disposition une sélection de leurs titres afin qu'ils puissent être utilisés dans les [beatmaps](/wiki/Beatmap) et comme musique de fond lors des retransmissions en direct de la [osu! World Cup](/wiki/Tournaments#osu!-world-cup) live.
+**Les Featured Artists** (***FA***) sont des artistes musicaux qui ont travaillé avec osu! pour rendre une sélection de leurs musiques disponibles pour une utilisation dans les [beatmaps](/wiki/Beatmap) et la musique de fond dans les stream de la [osu! World Cup](/wiki/Tournaments#osu!-world-cup).
 
-La [liste des Featured Artists](https://osu.ppy.sh/beatmaps/artists) du site présente chaque artiste impliqué. La page de chaque artiste contient des informations générales sur sa musique et une liste de ses morceaux sous licence pour osu!, accompagnés de fichiers `.osz` préprogrammés pour le beatmapping.
+La [liste des Featured Artist](https://osu.ppy.sh/beatmaps/artists) du site web présente chaque artiste impliqué. La page de chaque artiste contient des informations générales sur leur musique et une liste de leurs musiques autorisés à être utilisés dans osu!, accompagnés de fichiers `.osz` préprogrammés pour le beatmapping.
+
+[L'équipe d'osu!](/wiki/People/osu!_team) collabore parfois avec des artistes pour créer de nouvelles musiques à utiliser dans osu!, appelées [osu! originals](/wiki/osu!_originals). Ceux-ci sont étiquetés comme tels dans le catalogue Featured Artist.
 
 ## Sélection
 
-Les ajouts récents à la bibliothèque des Featured Artists sont sélectionnés indirectement par la communauté d'osu!. Si des mappeurs créent et classent des beatmaps pour un artiste, l'[équipe d'osu!](/wiki/People/osu!_team) contacte l'artiste pour discuter du programme des Featured Artists. Cependant, certains artistes sont parfois invités à devenir des Featured Artists en fonction d'autres facteurs, tels que l'intérêt qu'ils devraient présenter pour le public du beatmapping d'osu!
+Les ajouts à la bibliothèque Featured Artist sont sélectionnés indirectement par la communauté d'osu!. Si des mappeurs créent et classent des beatmaps pour un artiste, l'équipe d'osu! peut contacter l'artiste pour discuter du programme Featured Artist. Cependant, certains artistes sont occasionnellement invités à devenir des Featured Artists sur la base d'autres facteurs, tels que leur attrait attendu pour l'audience de mapping d'osu!.
 
-La plupart des musiques figurant dans le programme des Featured Artists font l'objet d'une licence non exclusive pour osu!. Dans de rares cas, un artiste créera des morceaux exclusivement pour osu!, qui seront étiquetés *osu! exclusive* sur leur liste de Featured Artist.
+Toutes les musiques du programme Featured Artist font l'objet d'une licence non exclusive pour une utilisation dans osu!. Les musiciens qui souhaitent rejoindre le programme Featured Artists trouveront des informations détaillées dans l'article [Licence musicale d'osu!](/wiki/Legal/Music_licensing).
 
-Les détails concernant l'intégration d'un musicien aux Featured Artists peuvent être trouvés dans l'article [music licensing](/wiki/Legal/Music_licensing).
+## Publications
 
-## Publication
-
-Les nouvelles sorties de Featured Artists par an :
+Nouvelles publications d'artistes vedettes par an :
 
 - **2016 :** 8
 - **2017 :** 11
@@ -30,23 +29,26 @@ Les nouvelles sorties de Featured Artists par an :
 - **2020 :** 65
 - **2021 :** 101
 - **2022 :** 104
-- **2023 :** *à déterminer*
+- **2023 :** 64
+- **2024 :** *à déterminer*
 
-Les nouveaux Featured Artists sont annoncés chaque semaine sur le [fil d'actualités](https://osu.ppy.sh/home/news) d'osu!. La plupart des annonces comprennent une liste des musiques sous licence de l'artiste et un lien vers sa page de Featured Artist, mais certaines annonces sont associées à des concours de mapping ou à des beatmaps créés par la [Mappers' Guild](/wiki/Community/Mappers_Guild).
+Les nouveaux Featured Artists sont annoncés chaque semaine [dans les news](https://osu.ppy.sh/home/news) d'osu!. La plupart des annonces comprennent une liste des musiques sous licence de l'artiste et un lien vers sa page Featured Artist, bien que certaines annonces soient associées à des concours de mapping ou à des beatmaps créés par la [Mappers' Guild](/wiki/Community/Mappers_Guild).
 
-## Utilisation par la communauté
+## Utilisation communautaire
 
-Les mappeurs sont encouragés à créer des beatmaps pour les musiques des Featured Artists. Ces morceaux sont fournis avec des données de [timing](/wiki/Client/Beatmap_editor/Timing) et sont déjà autorisés à être utilisés sur osu!, ce qui permet aux utilisateurs de se lancer immédiatement dans la création de beatmap sans crainte. La version en cours de développement d'osu!, appelée [osu!(lazer)](/wiki/Client/Release_stream/Lazer), mettra ces beatmaps en évidence dans le jeu.
+Les beatmappeurs sont encouragés à créer des maps pour les musiques des Featured Artist. Ces musiques sont fournies avec les données [timing](/wiki/Client/Beatmap_editor/Timing) et sont déjà autorisées à être utilisées dans osu!, ce qui permet aux utilisateurs de se lancer immédiatement dans le mapping. La version en cours de développement d'osu!, appelée [osu!(lazer)](/wiki/Client/Release_stream/Lazer), marquera ces maps de manière visible dans le jeu.
 
-Tous les concours de mapping publiés sur la [liste des concours communautaires](https://osu.ppy.sh/community/contests), tels que le [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) et le [Mapping Olympiad](/wiki/Contests/Mapping_Olympiad), exigent des participants qu'ils mappent les musiques des Featured Artists. Certains concours organisés par la communauté utilisent également ces musiques.
+Tous les concours de mapping publiés sur la [liste des concours communautaires](https://osu.ppy.sh/community/contests), tels que le [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) et les [Mapping Olympiad](/wiki/Contests/Mapping_Olympiad), requièrent des participants qu'ils mappent les musiques des Featured Artist. Certains concours organisés par la communauté utilisent également ces musiques.
 
-Pour promouvoir le mapping du contenu des artistes, les membres de la communauté ont créé la [Mappers' Guild](/wiki/Community/Mappers_Guild), qui offre aux mappeurs un système de quêtes de type MMO auquel ils peuvent participer avec d'autres mappeurs. Des prix sont décernés pour la création et le classement de beatmaps, y compris trois niveaux de badges de profil. Les mappeurs peuvent rejoindre la guilde en visitant le [site Web de la Mappers' Guild](https://mappersguild.com/).
+Pour promouvoir le mapping du contenu Featured Artist, les membres de la communauté ont créé la [Mappers' Guild](/wiki/Community/Mappers_Guild), offrant aux mappeurs un système de quêtes de type MMO auquel ils peuvent participer avec d'autres mappeurs. Des prix sont attribués pour la création et le classement des beatmaps, notamment trois niveaux de badges de profil. Les mappeurs peuvent rejoindre la guilde en visitant le [site Web de la Mappers' Guild](https://mappersguild.com/). À partir [d'avril 2023](https://osu.ppy.sh/home/news/2023-04-09-new-featured-artist-chon), les mappeurs peuvent également discuter de tout ce qui concerne la création de beatmaps d'artistes vedettes sur le canal `#featured-artists` du [serveur Discord d'osu!](/wiki/Community/osu!_Discord_server).
 
-Si un `.osz` pré-timé de la liste des Featured Artists comporte des erreurs de quelque nature que ce soit, elles peuvent être signalées sur [ce fil de discussion du forum](https://osu.ppy.sh/community/forums/topics/783985). À partir d'[avril 2023](https://osu.ppy.sh/home/news/2023-04-09-new-featured-artist-chon), les mappeurs peuvent également discuter de tout ce qui concerne la création de beatmaps de Featured Artists dans le salon `#featured-artists` du [serveur Discord d'osu!](/wiki/Community/osu!_Discord_server).
+Si un `.osz` préprogrammé provenant de la liste des Featured Artist comporte des erreurs de quelque nature que ce soit, celles-ci peuvent être signalées sur [ce post de discussion du forum](https://osu.ppy.sh/community/forums/topics/783985).
 
-## Featured Artists avec un compte osu!
+## Artistes ayant un compte osu!
 
-Les Featured Artists ayant un compte osu! se voient attribuer le [titre](/wiki/Community/User_title) ainsi que le [groupe d'utilisateurs](/wiki/People/User_group) **Featured Artist** pour montrer leur implication. La [page du groupe des Featured Artists](https://osu.ppy.sh/groups/35) répertorie tous ces comptes, tandis que la [liste des Featured Artist](https://osu.ppy.sh/beatmaps/artists) répertorie tous les Featured Artists.
+Les artistes en vedette ayant un compte osu! peuvent être identifiés par un [titre d'utilisateur](/wiki/Community/User_title) "Featured Artist" cyan et un [badge utilisateur](/wiki/People/User_group) avec la mention `FA` pour montrer leur implication.
+
+La [page du groupe des Featured Artist](https://osu.ppy.sh/groups/35) répertorie tous ces comptes, tandis que la [liste des Featured Artist](https://osu.ppy.sh/beatmaps/artists) répertorie tous les Featured Artist.
 
 | Utilisateur | Artiste |
 | :-- | :-- |
@@ -56,7 +58,7 @@ Les Featured Artists ayant un compte osu! se voient attribuer le [titre](/wiki/C
 | ::{ flag=US }:: [antiPLUR](https://osu.ppy.sh/users/7318723) | [antiPLUR / Internet Death Machine](https://osu.ppy.sh/beatmaps/artists/24) |
 | ::{ flag=AU }:: [aquellex](https://osu.ppy.sh/users/3137790) | [Aquellex](https://osu.ppy.sh/beatmaps/artists/380) |
 | ::{ flag=HK }:: [Ardolf](https://osu.ppy.sh/users/12359061) | [Ardolf](https://osu.ppy.sh/beatmaps/artists/263) |
-| ::{ flag=US }:: [BigMoist10](https://osu.ppy.sh/users/20787676) | [The Gentle Men](https://osu.ppy.sh/beatmaps/artists/142) (membre de) |
+| ::{ flag=US }:: [BigMoist10](https://osu.ppy.sh/users/20787676) | (membre de) [The Gentle Men](https://osu.ppy.sh/beatmaps/artists/142) |
 | ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) | [BilliumMoto](https://osu.ppy.sh/beatmaps/artists/38) |
 | ::{ flag=AT }:: [creosu](https://osu.ppy.sh/users/13958834) | [Creo](https://osu.ppy.sh/beatmaps/artists/36) |
 | ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | [cYsmix](https://osu.ppy.sh/beatmaps/artists/2) |
@@ -66,7 +68,7 @@ Les Featured Artists ayant un compte osu! se voient attribuer le [titre](/wiki/C
 | ::{ flag=US }:: [erikmcclure](https://osu.ppy.sh/users/19898921) | [Erik McClure](https://osu.ppy.sh/beatmaps/artists/125) |
 | ::{ flag=GR }:: [Geoxor](https://osu.ppy.sh/users/8112146) | [Geoxor](https://osu.ppy.sh/beatmaps/artists/133) |
 | ::{ flag=NL }:: [happy30](https://osu.ppy.sh/users/27767) | [happy30](https://osu.ppy.sh/beatmaps/artists/317) |
-| ::{ flag=SE }:: [Helblinde](https://osu.ppy.sh/users/48053) | [Helblinde](https://osu.ppy.sh/beatmaps/artists/5), [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15) (membre de) |
+| ::{ flag=SE }:: [Helblinde](https://osu.ppy.sh/users/48053) | [Helblinde](https://osu.ppy.sh/beatmaps/artists/5), (membre de) [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15) |
 | ::{ flag=JP }:: [II-L](https://osu.ppy.sh/users/15223576) | [II-L](https://osu.ppy.sh/beatmaps/artists/172) |
 | ::{ flag=JP }:: [kanki2](https://osu.ppy.sh/users/9595391) | [Lime / Kankitsu](https://osu.ppy.sh/beatmaps/artists/116) |
 | ::{ flag=DE }:: [KIRA\_old\_1](https://osu.ppy.sh/users/2138310) | [KIRA](https://osu.ppy.sh/beatmaps/artists/27) |
@@ -91,13 +93,14 @@ Les Featured Artists ayant un compte osu! se voient attribuer le [titre](/wiki/C
 | ::{ flag=GB }:: [SAMString](https://osu.ppy.sh/users/7273976) | [SAMString](https://osu.ppy.sh/beatmaps/artists/273) |
 | ::{ flag=RU }:: [Shadren](https://osu.ppy.sh/users/745494) | [Shadren](https://osu.ppy.sh/beatmaps/artists/362) |
 | ::{ flag=US }:: [skymuted](https://osu.ppy.sh/users/7734050) | [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15) |
-| ::{ flag=ES }:: [sotuiofficial](https://osu.ppy.sh/users/14779258) | [Rising Sun Traxx](https://osu.ppy.sh/beatmaps/artists/41) (fondateur) |
+| ::{ flag=ES }:: [sotuiofficial](https://osu.ppy.sh/users/14779258) | (fondateur de) [Rising Sun Traxx](https://osu.ppy.sh/beatmaps/artists/41) |
+| ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235) | [Sparxe](https://osu.ppy.sh/beatmaps/artists/398) |
 | ::{ flag=US }:: [synthion](https://osu.ppy.sh/users/2872433) | [Synthion](https://osu.ppy.sh/beatmaps/artists/357) |
 | ::{ flag=US }:: [tephe](https://osu.ppy.sh/users/32666295) | [tephe](https://osu.ppy.sh/beatmaps/artists/361) |
 | ::{ flag=KR }:: [thenewlimee](https://osu.ppy.sh/users/7802935) | [Raimukun](https://osu.ppy.sh/beatmaps/artists/247) |
 | ::{ flag=RU }:: [tieff](https://osu.ppy.sh/users/89619) | [tieff](https://osu.ppy.sh/beatmaps/artists/34) |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) |
 | ::{ flag=US }:: [Will Stetson](https://osu.ppy.sh/users/4909088) | [Will Stetson](https://osu.ppy.sh/beatmaps/artists/385) |
-| ::{ flag=JP }:: [xorsizer](https://osu.ppy.sh/users/20466752) | [Symholic](https://osu.ppy.sh/beatmaps/artists/130) (membre de) |
+| ::{ flag=JP }:: [xorsizer](https://osu.ppy.sh/users/20466752) | (membre de) [Symholic](https://osu.ppy.sh/beatmaps/artists/130) |
 | ::{ flag=TH }:: [YuugenP](https://osu.ppy.sh/users/2014016) | [rN](https://osu.ppy.sh/beatmaps/artists/190) |
-| ::{ flag=US }:: [Zenpakuwu](https://osu.ppy.sh/users/13226945) | [Zenpaku](https://osu.ppy.sh/beatmaps/artists/190) |
+| ::{ flag=US }:: [Zenpakuwu](https://osu.ppy.sh/users/13226945) | [Zenpaku](https://osu.ppy.sh/beatmaps/artists/316) |

@@ -190,13 +190,13 @@ Saturday, 11 January 2014
 
 #### Grand Final
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **Doomsday** ::{ flag=GB }:: | **5** | 4 | ::{ flag=GB }:: R a h a r u |
 
 #### 3rd Place
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | Deathosaurus ::{ flag=GB }:: | 1 | **5** | ::{ flag=GB }:: **ILikeMudkipz** |
 
@@ -204,59 +204,59 @@ Saturday, 11 January 2014
 
 Saturday, 4 January 2014
 
-| Player 1 | | | Player 2 | Notes |
+| Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **Doomsday** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: Deathosaurus | |
+| **Doomsday** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: Deathosaurus |  |
 | ILikeMudkipz ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **R a h a r u** | *forfeit* |
 
 ### Quaterfinals
 
 Saturday, 21 December 2013
 
-| Player 1 | | | Player 2 | Notes |
+| Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **Doomsday** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: vidya | |
+| **Doomsday** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: vidya |  |
 | **Deathosaurus** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Starry- | *forfeit (physical problems)* |
-| **ILikeMudkipz** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: Viremon | |
-| **R a h a r u** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: PortalLife | |
+| **ILikeMudkipz** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: Viremon |  |
+| **R a h a r u** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: PortalLife |  |
 
 ### Round of 16
 
 Saturday, 14 December 2013
 
-| Player 1 | | | Player 2 | Notes |
+| Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **Doomsday** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Raiku | |
-| destructor966 ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **vidya** | |
+| **Doomsday** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Raiku |  |
+| destructor966 ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **vidya** |  |
 | jesus1412 ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **Deathosaurus** | *forfeit* |
-| **Starry-** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: \[Transcendence\] | |
+| **Starry-** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: \[Transcendence\] |  |
 | **ILikeMudkipz** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Slvin | *forfeit* |
-| Cozzzy ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **Viremon** | |
+| Cozzzy ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **Viremon** |  |
 | **R a h a r u** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Nyaristoru | *forfeit* |
-| Navi ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **PortalLife** | |
+| Navi ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **PortalLife** |  |
 
 ### Round of 32
 
 Saturday, 7 December 2013
 
-| Player 1 | | | Player 2 | Notes |
+| Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **Doomsday** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Zarfots | |
-| **Raiku** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Mahiro Yasaka | |
+| **Doomsday** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Zarfots |  |
+| **Raiku** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Mahiro Yasaka |  |
 | Charleyzard ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **destructor966** | *forfeit* |
-| **vidya** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Just miku | |
-| **jesus1412** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: EzLyn | |
-| **Deathosaurus** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Aaruen | |
+| **vidya** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Just miku |  |
+| **jesus1412** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: EzLyn |  |
+| **Deathosaurus** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Aaruen |  |
 | **Starry-** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: 3lliot | *forfeit* |
-| **\[Transcendence\]** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: scouttt | |
+| **\[Transcendence\]** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: scouttt |  |
 | **ILikeMudkipz** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: ItzDom | *forfeit* |
-| **Slvin** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: Snookie | |
-| **Cozzzy** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Yoishi | |
+| **Slvin** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: Snookie |  |
+| **Cozzzy** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Yoishi |  |
 | bubby963 ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **Viremon** | *forfeit* |
-| **R a h a r u** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Tekklorn | |
-| Kardet ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **Nyaristoru** | |
-| **Navi** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Riari | |
-| **PortalLife** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Lusory | |
+| **R a h a r u** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Tekklorn |  |
+| Kardet ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **Nyaristoru** |  |
+| **Navi** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Riari |  |
+| **PortalLife** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Lusory |  |
 
 ## Ruleset
 

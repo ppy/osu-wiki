@@ -83,6 +83,7 @@ Offizielle Turniere, die vom osu!-Team organisiert werden.
 | [osu!mania 4K World Cup 2022](MWC/2022_4K) | 07.07.2022 | 18.09.2022 | ::{ flag=KR }:: Südkorea | ::{ flag=BR }:: Brasilien | ::{ flag=US }:: Vereinigte Staaten |
 | [osu!mania 7K World Cup 2023](MWC/2023_7K) | 15.12.2022 | 18.02.2023 | ::{ flag=PH }:: Philippinen | ::{ flag=KR }:: Südkorea | ::{ flag=MY }:: Malaysia |
 | [osu!mania 4K World Cup 2023](MWC/2023_4K) | 13.07.2023 | 24.09.2023 | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=KR }:: Südkorea | ::{ flag=ID }:: Indonesien |
+| [osu!mania 7K World Cup 2024](MWC/2024_7K) | 15.12.2023 | 25.02.2024 | *TBD* | *TBD* | *TBD* |
 
 ## Community
 
@@ -124,6 +125,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Ascaveth Invitational Tournament 2022](AIT/2022) | 03.09.2022 | 03.09.2022 | ::{ flag=ID }:: [Vinno](https://osu.ppy.sh/users/10717635) | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) |
+| [Ascaveth Invitational Tournament 2023](AIT/2023) | 09.12.2023 | 09.12.2023 | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) |
 
 #### Aus/NZ osu!standard Tournament
 
