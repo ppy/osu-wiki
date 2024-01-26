@@ -42,7 +42,7 @@ Try out [this beatmap](https://osu.ppy.sh/beatmapsets/903055) hosted by [Niva](h
     <source src="https://assets.ppy.sh/artists/208/Waveline/Lexurus%20-%20Magnify%20(feat.%20Rhode).mp3" type="audio/mpeg">
 </audio>
 
-### Out Of Love (feat. Leah Rye) 
+### Out Of Love (feat. Leah Rye)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/208/Out%20Of%20Love/Lexurus%20-%20Out%20Of%20Love%20(feat.%20Leah%20Rye).mp3" type="audio/mpeg">

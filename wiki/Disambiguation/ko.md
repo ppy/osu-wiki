@@ -6,7 +6,7 @@ no_native_review: true
 
 [osu!wiki](/wiki/Main_page)에 있는 다양한 **동음이의어**를 다루는 문서입니다.
 
-일반적인 문서에서 제목이 유사한 경우, 반드시 ["다르게도 사용할 수 있습니다" 햇노트](/wiki/Article_styling_criteria/Formatting#다르게도-사용할-수-있습니다)에 동음이의어 페이지 링크를 첨부해야 합니다.
+일반적인 문서에서 제목이 유사한 경우, 반드시 ["다른 의미를 찾으려면" 햇노트](/wiki/Article_styling_criteria/Formatting#다른-의미를-찾으려면)에 동음이의어 페이지 링크를 첨부해야 합니다.
 
 ## 동음이의어 문서
 

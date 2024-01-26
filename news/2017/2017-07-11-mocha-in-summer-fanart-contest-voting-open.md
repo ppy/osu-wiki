@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mocha in Summer Fanart Contest Voting Open"
+title: Mocha in Summer Fanart Contest Voting Open
 date: 2017-07-10 15:50:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/162823962248/mocha-in-summer-fanart-contest-voting-open
 ---

@@ -56,7 +56,7 @@ Pour rentrer dans une salle, cliquez sur l'une d'entre elles.
 
 ### Options générales
 
-Les trois boutons au-dessus de la [console de tchat](/wiki/Client/Interface/Chat_console) fournissent les principales options de navigation de cet écran : 
+Les trois boutons au-dessus de la [console de tchat](/wiki/Client/Interface/Chat_console) fournissent les principales options de navigation de cet écran :
 
 | Titre | Description |
 | :-: | :-- |
@@ -87,7 +87,7 @@ Appuyer sur le bouton `1. Start Game` va créer la salle avec la musique se joua
 
 Après avoir rejoint ou créé une salle, la configuration sera affichée. Les sections suivantes vont mettre en avant les différentes parties de l'écran commençant du haut vers le bas et allant de la gauche vers la droite.
 
-Bien qu'il n'y ait pas de bouton permettant d'y accéder directement, le [menu des options](/wiki/Client/Options) peut être accédé en appuyant sur `Ctrl` + `O` en étant dans le lobby de la salle. 
+Bien qu'il n'y ait pas de bouton permettant d'y accéder directement, le [menu des options](/wiki/Client/Options) peut être accédé en appuyant sur `Ctrl` + `O` en étant dans le lobby de la salle.
 
 ### Section supérieure
 
@@ -211,7 +211,7 @@ Il y a 4 façons différentes de décider du gagnant de la partie :
 
 Il y a deux grands boutons orange et bleu au dessus de la [console de tchat](/wiki/Client/Interface/Chat_console). Le bouton orange `Quitter la salle` sur la gauche est auto-explicatif.
 
-Le bouton bleu est utilisé pour contrôler l'état du joueur (prêt/pas prêt) et pour commencer la partie. 
+Le bouton bleu est utilisé pour contrôler l'état du joueur (prêt/pas prêt) et pour commencer la partie.
 
 | Titre | Description |
 | :-: | :-- |
@@ -240,7 +240,7 @@ Il n'y a aucune façon de mettre en pause une partie multijoueur. Appuyer sur `�
 
 #### Paramètres visuels
 
-Lorsque que la partie est en train de démarrer, déplacer le curseur vers le bas de l'écran ouvrira le menu de paramètres visuels. Voir la page du [menu de paramètres visuels](/wiki/Client/Interface/Visual_settings) pour plus d'informations. 
+Lorsque que la partie est en train de démarrer, déplacer le curseur vers le bas de l'écran ouvrira le menu de paramètres visuels. Voir la page du [menu de paramètres visuels](/wiki/Client/Interface/Visual_settings) pour plus d'informations.
 
 #### Santé
 

@@ -1,6 +1,6 @@
 # Beitragsleitfaden des osu!-Wikis
 
-Danke für dein Interesse, das osu!-Wiki besser zu machen! Dieser Artikel beschäftigt sich Schritt für Schritt mit dem Beteiligungsprozess. Solltest du mit GitHub vertraut sein, folge gerne dem üblichen Feature-Branch-Workflow, um Änderungen vorzuschlagen und springe zum Abschnitt [Selbstüberprüfung](#selbstüberprüfung).
+Danke für dein Interesse, das osu!-Wiki besser zu machen! Dieser Artikel beschäftigt sich Schritt für Schritt mit dem Beteiligungsprozess. Solltest du mit GitHub vertraut sein, folge gerne dem üblichen Feature-Branch-Workflow, um Änderungen vorzuschlagen und springe zum Abschnitt [Selbstüberprüfung](#self-check).
 
 Von neuen Mitwirkenden wird nicht erwartet, dass sie sich mit GitHub oder [git](https://git-scm.com/) auskennen, da diese Werkzeuge hauptsächlich für Entwickler gedacht sind. Mache dir keine Sorgen, wenn du es beim ersten Mal nicht hinbekommst — ein [Wiki-Betreuer](/wiki/People/osu!_wiki_maintainers) wird dich entweder in die richtige Richtung weisen oder es für dich beheben.
 
@@ -18,15 +18,12 @@ Die Artikel des osu!-Wikis werden auf [GitHub][osu_wiki] gespeichert. Um etwas b
 
 0. [Erstelle](https://github.com/signup) einen Account auf GitHub.
 1. Öffne das Repository [`ppy/osu-wiki`][osu_wiki] und klicke auf `Fork` in der rechten oberen Ecke, um eine isolierte Kopie des Wikis anzulegen. Um zur Verzweigung (Fork) zurückzugelangen, gehe auf [`ppy/osu-wiki`][osu_wiki] und drücke erneut auf `Fork`.
-
-  - Wenn du eine Verzweigung vor einiger Zeit erstellt hast, synchronisiere sie gemäß [Bewährte Methoden § Die Verzweigung synchronisieren](/wiki/osu!_wiki/Contribution_guide/Best_practices#die-verzweigung-synchronisieren).
-
+   - Wenn du eine Verzweigung vor einiger Zeit erstellt hast, synchronisiere sie gemäß [Bewährte Methoden § Die Verzweigung synchronisieren](/wiki/osu!_wiki/Contribution_guide/Best_practices#die-verzweigung-synchronisieren).
 2. Lies [Bewährte Methoden § Änderungen vornehmen](/wiki/osu!_wiki/Contribution_guide/Best_practices#änderungen-vornehmen) und führe benötigte Änderungen durch. Du bist zwar frei in der Wahl einer Anwendung, aber das osu!-Wiki hat detaillierte Anleitungen für zwei Arbeitsweisen:
+   - [GitHubs webbasierter Editor](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) (online, keine Installation erforderlich).
+   - [GitHub-Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) (offline, bietet mehr Kontrolle).
 
-  - [GitHubs webbasierter Editor](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) (online, keine Installation erforderlich).
-  - [GitHub-Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) (offline, bietet mehr Kontrolle).
-
-## Selbstüberprüfung
+## Selbstüberprüfung {id=self-check}
 
 Nachdem du mit der Bearbeitung fertig bist, nehme dir genug Zeit, deine Arbeit Korrektur zu lesen. Gehe über die folgende Checkliste:
 
@@ -46,7 +43,7 @@ Nachdem die Änderungen doppelt überprüft, in die Versionshistorie aufgenommen
 2. Klicke auf den Button `Contribute↓` und wähle `Open pull request`.
 3. Fülle die Details laut [Bewährte Methoden § Eine Änderungsanfrage erstellen](/wiki/osu!_wiki/Contribution_guide/Best_practices#eine-änderungsanfrage-erstellen) aus und klicke auf `Create pull request`.
 
-## Überprüfung
+## Überprüfung {id=review}
 
 Alle Änderungen des osu!-Wikis werden moderiert. Während dieser Phase weisen andere Mitwirkende auf mögliche Fehler und Möglichkeiten, diese zu beheben, hin. Das geschieht entweder über Freiform oder indem sie direkt Bearbeitungen an der Änderungsanfrage vorschlagen. Wie auch mit anderen Begutachtungen musst du dich mit den Kommentaren auseinandersetzen, indem du die [Vorschläge anwendest](/wiki/osu!_wiki/Contribution_guide/Best_practices#vorschläge-anwenden) oder indem du erklärst, warum du die Dinge lieber so lässt, wie sie sind.
 

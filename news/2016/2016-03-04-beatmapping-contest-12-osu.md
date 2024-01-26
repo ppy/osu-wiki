@@ -6,7 +6,7 @@ tumblr_url: http://osunews.tumblr.com/post/140452368663/beatmapping-contest-12-o
 ---
 
 Greetings and welcome to the osu! beatmapping contest \#12
-We just opened the submissions for the 12th Beatmapping Contest! This will be a osu! mode mapping contest, with an awesome song from IAHN   
+We just opened the submissions for the 12th Beatmapping Contest! This will be a osu! mode mapping contest, with an awesome song from IAHN
 
 For the previous contest we had a energetic mix from the freedom planet games, this time we will be going for something new! From the artist IAHN  we have the track Candy Luv. You can listen to the contest song **[here](https://puu.sh/nailM/8ba731bc68.mp3)**
 

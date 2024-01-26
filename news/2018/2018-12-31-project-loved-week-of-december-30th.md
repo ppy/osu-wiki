@@ -31,49 +31,49 @@ osu! Loved candidates were chosen by [BeasttrollMC](https://osu.ppy.sh/users/317
 
 [![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/osu/insight.jpg)](https://osu.ppy.sh/community/forums/topics/849036)
 
-[Haywyre - Insight](https://osu.ppy.sh/beatmapsets/848400#osu) by [Twiggykun](https://osu.ppy.sh/users/9126943)  
+[Haywyre - Insight](https://osu.ppy.sh/beatmapsets/848400#osu) by [Twiggykun](https://osu.ppy.sh/users/9126943)\
 *written by [waywern2012](https://osu.ppy.sh/users/5870453)*
 
 Starting with a long awaited map to be Loved, Twiggykun's map of the song Insight by Haywyre will test your alternating skill as well as aim control on 140 BPM non-stop jumps. The song is calm most of the time, but the middle part truly becomes alive with the combination of beats and jumps. The HP drain is 3, but don't let that fool you, as the OD is punishing for missing only a few notes! The melody of the song is adventurous, and by adding some techy-themed sounds it fits in well with the map.
 
 [![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/osu/wrong-muzzy-remix.jpg)](https://osu.ppy.sh/community/forums/topics/849037)
 
-[Kings Of The City - Wrong (Muzzy Remix)](https://osu.ppy.sh/beatmapsets/414582#osu) by [Hikaru Rose](https://osu.ppy.sh/users/4811275)  
+[Kings Of The City - Wrong (Muzzy Remix)](https://osu.ppy.sh/beatmapsets/414582#osu) by [Hikaru Rose](https://osu.ppy.sh/users/4811275)\
 *written by [waywern2012](https://osu.ppy.sh/users/5870453)*
 
 You can only go right with this one. The map from Hikaru Rose is a truly great and satisfying experience. The comfortable jumps and tricky short streams alongside Muzzy's remix of "Kings Of The City - Wrong" makes you homed in on the map. The storyboard by Cheesecake fits perfectly for this beatmap as it is subtle and keeps cool while you play. Just sit back and enjoy the close blend of the map and the song.
 
 [![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/osu/kyoumei-no-true-force.jpg)](https://osu.ppy.sh/community/forums/topics/849038)
 
-[Harada Hitomi - Kyoumei no True Force](https://osu.ppy.sh/beatmapsets/315159#osu) by [Asphyxia](https://osu.ppy.sh/users/1715720)  
+[Harada Hitomi - Kyoumei no True Force](https://osu.ppy.sh/beatmapsets/315159#osu) by [Asphyxia](https://osu.ppy.sh/users/1715720)\
 *written by [Bubbleman](https://osu.ppy.sh/users/5182050)*
 
 A true classic, Asphyxia's Kyoumei No True Force has weathered the storm and continues to this day to be a clean yet testing map that nearly everyone has seen or played before. Being mostly aim focused, its star rating is deceiving, and with the difficulty creeping up as the map plays out you might find yourself pushing the limits of your abilities as you near the marathon's end. With 70 favourites, I'm sure you'll enjoy it too, regardless of whether you're playing it for the first or even the tenth time.
 
 [![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/osu/mikusabbath.jpg)](https://osu.ppy.sh/community/forums/topics/849039)
 
-[Utsu-P - MiKUSABBATH](https://osu.ppy.sh/beatmapsets/264483#osu) by [Kuron-kun](https://osu.ppy.sh/users/2697284) and [Tarrasky](https://osu.ppy.sh/users/4098393)  
+[Utsu-P - MiKUSABBATH](https://osu.ppy.sh/beatmapsets/264483#osu) by [Kuron-kun](https://osu.ppy.sh/users/2697284) and [Tarrasky](https://osu.ppy.sh/users/4098393)\
 *written by [Bubbleman](https://osu.ppy.sh/users/5182050)*
 
 A tribute to older styles of maps, MiKUSABBATH's style is clean, yet it's easy to find patterns inspired by older creations. Squares are scattered throughout, and with few streams this is another aim test yet with a different feel and flow. A lower difficulty by Tarrasky is included with an even older style yet still producing the same nostalgic feeling, and when combined with this banger of a song, the set produces a feeling best appreciated by experiencing it yourself. What are you waiting for? Give it a go!
 
 [![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/osu/all-i-need-are-things-i-like.jpg)](https://osu.ppy.sh/community/forums/topics/849040)
 
-[PinocchioP - All I Need are Things I Like](https://osu.ppy.sh/beatmapsets/537768#osu) by [Nattu](https://osu.ppy.sh/users/1886722)  
+[PinocchioP - All I Need are Things I Like](https://osu.ppy.sh/beatmapsets/537768#osu) by [Nattu](https://osu.ppy.sh/users/1886722)\
 *written by [BeasttrollMC](https://osu.ppy.sh/users/3171691)*
 
 Those who follow Project Loved will recognize this title from a previous map covered by "nameless" that was Loved back in November. This time we have the original by PinocchioP. Dating back to 2016, this map by Nattu was the first to gain the song popularity throughout the community with help from being featured in HappyStick's Summer Tour map pool. With over 120 favorites, it made a name for itself as a challenging alternating styled map for players to practice on while listening to some good tunes.
 
 [![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/osu/sousei-no-aquarion.jpg)](https://osu.ppy.sh/community/forums/topics/849041)
 
-[chum - Sousei no Aquarion](https://osu.ppy.sh/beatmapsets/637097#osu) by [Musty](https://osu.ppy.sh/users/251683)  
+[chum - Sousei no Aquarion](https://osu.ppy.sh/beatmapsets/637097#osu) by [Musty](https://osu.ppy.sh/users/251683)\
 *written by [BeasttrollMC](https://osu.ppy.sh/users/3171691)*
 
 Although this map remains unfinished months after its submission, it's gained massive popularity after many top players such as Toy, Mathi, and NerO were seen making FCs on the map over the past year. Today, it is seen as a quick way to practice and test player's technical streaming abilities as the map contains many patterns that require players to snap while maintaining full control of their cursor. With over 110 favorites, check out the map and vote for its place in Project Loved!
 
 [![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/osu/getsurei-11-3-no-candle-magic.jpg)](https://osu.ppy.sh/community/forums/topics/849042)
 
-[Shibayan feat. 3L - Getsurei 11.3 no Candle Magic](https://osu.ppy.sh/beatmapsets/122390#osu) by [11t](https://osu.ppy.sh/users/2112092), [10nya](https://osu.ppy.sh/users/678794) and [OnosakiHito](https://osu.ppy.sh/users/290128)  
+[Shibayan feat. 3L - Getsurei 11.3 no Candle Magic](https://osu.ppy.sh/beatmapsets/122390#osu) by [11t](https://osu.ppy.sh/users/2112092), [10nya](https://osu.ppy.sh/users/678794) and [OnosakiHito](https://osu.ppy.sh/users/290128)\
 *written by [fartownik](https://osu.ppy.sh/users/56917)*
 
 If it was up to me, this set would've been ranked a long time ago. Sadly, there's no way of that happening ever as 11t is no longer with us, and thus I feel like it's in my duty as a community member and a Loved captain to use my power so maps like this don't go unnoticed and fall into the pit of forgetfulness forever.
@@ -84,7 +84,7 @@ The storyboard for the map is one of the first of this genre. It may not be as i
 
 [![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/osu/tom-and-jerry-in-the-hollywood-bowl.jpg)](https://osu.ppy.sh/community/forums/topics/849043)
 
-[Scott Bradley - Tom and Jerry In The Hollywood Bowl](https://osu.ppy.sh/beatmapsets/490101#osu) by [IwanWenChoong](https://osu.ppy.sh/users/5814341)  
+[Scott Bradley - Tom and Jerry In The Hollywood Bowl](https://osu.ppy.sh/beatmapsets/490101#osu) by [IwanWenChoong](https://osu.ppy.sh/users/5814341)\
 *written by [fartownik](https://osu.ppy.sh/users/56917)*
 
 Ever wanted to enjoy some great orchestral music while simultaneously watching a classic Tom & Jerry segment while simultaneously clicking circles to the beat? Look no further fam, we've got you. This map by IwanWenChoong is an experience unlike any other. The amount of work put by this man solely to time this piece can be counted in hours (contains 500+ unique timing sections with varying BPMs), not to mention mapping the entire 7-minute thing!
@@ -93,14 +93,14 @@ The map itself may not be the most technically correct, but you can clearly see 
 
 [![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/osu/marolio-le-da-sabor-a-tu-vida.jpg)](https://osu.ppy.sh/community/forums/topics/849044)
 
-[Andrea Baez - Marolio, le da sabor a tu vida](https://osu.ppy.sh/beatmapsets/654246#osu) by [MaestroSplinter](https://osu.ppy.sh/users/6707918) et al.  
+[Andrea Baez - Marolio, le da sabor a tu vida](https://osu.ppy.sh/beatmapsets/654246#osu) by [MaestroSplinter](https://osu.ppy.sh/users/6707918) et al.\
 *written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
 
 Hey, Argentinian osu! community! Here's a gift for you. Hosted by MaestroSplinter, this mapset has various guest difficulties for the iconic song in the Marolio commercial. The map itself hovers right around the 40 second mark—short and sweet. The star difficulty range for all difficulties is notably low, so the mapset can be played and enjoyed by players of all skill ranges. Give flavor to the Loved category by dropping a vote on this classic jingle!
 
 [![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/osu/stargazer-feat-yuc-e-psyqui-remix.jpg)](https://osu.ppy.sh/community/forums/topics/849045)
 
-[DJ Noriken - Stargazer feat. YUC'e (PSYQUI Remix)](https://osu.ppy.sh/beatmapsets/718960#osu) by [Hishiro Chizuru](https://osu.ppy.sh/users/8402897), [Ambrew](https://osu.ppy.sh/users/7803396) and [Rhonen](https://osu.ppy.sh/users/8422432)  
+[DJ Noriken - Stargazer feat. YUC'e (PSYQUI Remix)](https://osu.ppy.sh/beatmapsets/718960#osu) by [Hishiro Chizuru](https://osu.ppy.sh/users/8402897), [Ambrew](https://osu.ppy.sh/users/7803396) and [Rhonen](https://osu.ppy.sh/users/8422432)\
 *written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
 
 Did anyone miss seeing 2B maps in the Loved voting? Here, I'll fix that. The mapper "Hishiro Chizuru", inspired by various other mappers, has made an energetic beatmap to go along with an equally energetic remix of the song "Stargazer". This 3-minute beatmap is mixed with modern technical sections, innovative 2B patterns, and various slider velocity changes. Topped off with a storyboard by Rhonen and hitsounding by Ambrew, the map has seen a heavy amount of support from you guys, the community. With the map having over 150 favorites, it's time for you to cast your vote and help bring this map into the Loved category!
@@ -113,21 +113,21 @@ osu!taiko Loved candidates were chosen by [-[ ix Ishida xi ]-](https://osu.ppy.s
 
 [![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/taiko/good-bye-mr-jack.jpg)](https://osu.ppy.sh/community/forums/topics/849025)
 
-[sasakure.UK - Good Bye, Mr. Jack](https://osu.ppy.sh/beatmapsets/659426#taiko) by [tkdLolly](https://osu.ppy.sh/users/9035344)  
+[sasakure.UK - Good Bye, Mr. Jack](https://osu.ppy.sh/beatmapsets/659426#taiko) by [tkdLolly](https://osu.ppy.sh/users/9035344)\
 *written by [-Kazu-](https://osu.ppy.sh/users/920861)*
 
 Good Bye, Mr. Jack is our first pick for the week, featured in the osu!taiko World Cup 2018 as the tiebreaker for Group Stages, and for good reason! This jazzy song really gives you that "boss fight" feeling, and tkdLolly really emphasizes this perfectly, by using slider velocities to make clear different instruments, counterpoints and intensities, making this truly enjoyable to play. Beware though, as it also does a great job at packing quite a punch and being really tough, with long 1/6 bursts and varying slider velocities that will challenge your reading skills. Don't trip on the 1/16 grace notes!
 
 [![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/taiko/shinbatsu-o-tadori-kyoukotsu-ni-itaru.jpg)](https://osu.ppy.sh/community/forums/topics/849026)
 
-[Imperial Circus Dead Decadence - Shinbatsu o Tadori Kyoukotsu ni Itaru](https://osu.ppy.sh/beatmapsets/497912#taiko) by [shinchikuhome](https://osu.ppy.sh/users/3174184)  
+[Imperial Circus Dead Decadence - Shinbatsu o Tadori Kyoukotsu ni Itaru](https://osu.ppy.sh/beatmapsets/497912#taiko) by [shinchikuhome](https://osu.ppy.sh/users/3174184)\
 *written by [-Kazu-](https://osu.ppy.sh/users/920861)*
 
 Secondly, we brought Shinbatsu o Tadori KyouKotsu ni Itaru, as we were really hyped by the possible addition of Imperial Circus Dead Decadence to the Featured Artists. shinchikuhome's map is a solid proof that a great player can make a great map, and what a way to do it: this streamy 250 BPM map can look very innocent, sure, we have a lot of streamy maps with even higher BPM, how much damage could a 250 BPM song do?... well, a lot. Between its solid patterns and the song length, this really is a stamina drainer like no other, so be adviced and make sure to warm up before tackling this one down.
 
 [![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/taiko/walk-this-way.jpg)](https://osu.ppy.sh/community/forums/topics/849027)
 
-[Kano - Walk This Way!](https://osu.ppy.sh/beatmapsets/423600#taiko) by [Y O U T A](https://osu.ppy.sh/users/4909860)  
+[Kano - Walk This Way!](https://osu.ppy.sh/beatmapsets/423600#taiko) by [Y O U T A](https://osu.ppy.sh/users/4909860)\
 *written by [nyanmi-1828](https://osu.ppy.sh/users/6866480) and loosely translated by [-Kazu-](https://osu.ppy.sh/users/920861)*
 
 恐らく、日本でマルチを多くやる人でこの曲を知らない人はいないほど有名である。ようたさんの叩きやすさを求めたマッピングスタイルによる配置は、高BPMでも難なく叩けるので、速いテンポが好きなプレイヤーは必ずと言っていいほどこの譜面が好きだろう。知名度もクオリティも申し分なく最高である。
@@ -136,14 +136,14 @@ It's very likely that a lot of people from Japan that used to play multiplayer l
 
 [![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/taiko/prepared-improvisation.jpg)](https://osu.ppy.sh/community/forums/topics/849028)
 
-[kamome sano - Prepared Improvisation](https://osu.ppy.sh/beatmapsets/556358#taiko) by [tasuke912](https://osu.ppy.sh/users/2774767)  
+[kamome sano - Prepared Improvisation](https://osu.ppy.sh/beatmapsets/556358#taiko) by [tasuke912](https://osu.ppy.sh/users/2774767)\
 *written by [-Kazu-](https://osu.ppy.sh/users/920861)*
 
 We all know tasuke912 as one of the best mappers last year, and here he makes his appearance with Prepared Improvisation, a techy map that has that particularity that most tasuke maps have: the more you play them, the more you fall in love with them!. With a chaotic-sounding jazz song he made a truly beautiful map, which may seem frustrating at first due to its constant 1/8 triplets, the rather repetitive song (mostly because of the base drumroll) and such, but believe me, it can get really satisfying to play once you get the hang of it.
 
 [![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/taiko/heisei-memehunters.jpg)](https://osu.ppy.sh/community/forums/topics/849029)
 
-[katagiri - Heisei Memehunters](https://osu.ppy.sh/beatmapsets/792971#taiko) by [hoku](https://osu.ppy.sh/users/9503098) and [KitajimaYN](https://osu.ppy.sh/users/2250574)  
+[katagiri - Heisei Memehunters](https://osu.ppy.sh/beatmapsets/792971#taiko) by [hoku](https://osu.ppy.sh/users/9503098) and [KitajimaYN](https://osu.ppy.sh/users/2250574)\
 *written by [-Kazu-](https://osu.ppy.sh/users/920861)*
 
 Between the vast mapping experience of KitajimaYN and the great understanding of the game mode hoku shows in their Heisei Memehunters, you can already start to expect a well designed and fun map. This map shows an excellent control over density and where exactly to go ham on it, as well as a impeccable flow-based mapping style, being KitajimaYN's trademark. The streams of this map truly meet all expectations and are so carefully placed that the map as a whole makes a lot of sense: I think it'd truly be a great addition to the Loved section!
@@ -156,14 +156,14 @@ osu!catch Loved candidates were chosen by [Ascendance](https://osu.ppy.sh/users/
 
 [![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/catch/anti-the-infinite-holic.jpg)](https://osu.ppy.sh/community/forums/topics/849022)
 
-[cosMo@BousouP - ANTI THE Infinite HOLIC](https://osu.ppy.sh/beatmapsets/700321#fruits) by [Memoriola](https://osu.ppy.sh/users/6856387)  
+[cosMo@BousouP - ANTI THE Infinite HOLIC](https://osu.ppy.sh/beatmapsets/700321#fruits) by [Memoriola](https://osu.ppy.sh/users/6856387)\
 *written by [Tenshichan](https://osu.ppy.sh/users/1101600)*
 
 This aspire-like map by Memoriola (also known by their previous name OneLoveOneLife) is particularly interesting because of the sheer amount of creativity. You will encounter a lot of patterns which are very uncommon for osu!catch, but on the other hand make this map as interesting as it is. The craziness of the mapping fits well to the craziness of the song. It's certainly a unique experience—but it is definitely not easy to play. It challenges your speed and platter control and paired with the higher AR it also becomes a reading test. Good luck; you'll need it!
 
 [![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/catch/magus-night-hyuji-remix.jpg)](https://osu.ppy.sh/community/forums/topics/849023)
 
-[Hyuji - Magus Night (Hyuji Remix)](https://osu.ppy.sh/beatmapsets/659926#fruits) by [\[\_-Kukkai-\_\]](https://osu.ppy.sh/users/7811952)  
+[Hyuji - Magus Night (Hyuji Remix)](https://osu.ppy.sh/beatmapsets/659926#fruits) by [\[\_-Kukkai-\_\]](https://osu.ppy.sh/users/7811952)\
 *written by [Sartan](https://osu.ppy.sh/users/4100941)*
 
 Entering the Loved section for the first time is \[\_-Kukkai-\_\]! With an arsenal of underappreciated maps in his graveyard, Magus Night remix is one of his most favourited maps and showcases the tough but fun to play mapping style of \[\_-Kukkai-\_\] the best. With a variety of streams and jumps this map feels very adequate in terms of difficulty, without any kind of overly difficult patterns that don't make sense music-wise.

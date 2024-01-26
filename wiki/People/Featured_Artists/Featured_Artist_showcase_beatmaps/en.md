@@ -390,7 +390,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[technoplanet](https://osu.ppy.sh/home/news/2021-08-25-new-featured-artist-technoplanet)** (2021-08-25)
   - (![][osu!]) [technoplanet feat. chamo - Tepic Tepoch](https://osu.ppy.sh/beatmapsets/1551369) hosted by ::{ flag=TR }:: [Entry](https://osu.ppy.sh/users/10213311)
   - (![][osu!taiko]) [technoplanet - Megastructure \[Extended Mix\]](https://osu.ppy.sh/beatmapsets/1499443) hosted by ::{ flag=FI }:: [duski](https://osu.ppy.sh/users/6506484)
-  - (![][osu!catch]) [technoplanet - Intuition](https://osu.ppy.sh/beatmapsets/1553878) hosted by ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134)     
+  - (![][osu!catch]) [technoplanet - Intuition](https://osu.ppy.sh/beatmapsets/1553878) hosted by ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134)
 - **[Release Hallucination](https://osu.ppy.sh/home/news/2021-08-28-new-featured-artist-release-hallucination)** (2021-08-28)
   - (![][osu!]) [Release Hallucination - Ariadne](https://osu.ppy.sh/beatmapsets/1550194) hosted by ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955)
 

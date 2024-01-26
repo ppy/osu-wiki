@@ -25,7 +25,7 @@ Tournois officiels organisés par l'équipe d'osu!.
 | [osu! World Cup 2020](OWC/2020) | 24/10/2020 | 06/12/2020 | ::{ flag=US }:: États-Unis | ::{ flag=DE }:: Allemagne | ::{ flag=CA }:: Canada |
 | [osu! World Cup 2021](OWC/2021) | 09/10/2021 | 28/11/2021 | ::{ flag=US }:: États-Unis | ::{ flag=DE }:: Allemagne | ::{ flag=KR }:: Corée du Sud |
 | [osu! World Cup 2022](OWC/2022) | 15/10/2022 | 27/11/2022 | ::{ flag=US }:: États-Unis | ::{ flag=KR }:: Corée du Sud | ::{ flag=DE }:: Allemagne |
-| [osu! World Cup 2023](OWC/2023) | 21/10/2023 | 03/12/2023 | *À déterminer* | *À déterminer* | *À déterminer* |
+| [osu! World Cup 2023](OWC/2023) | 21/10/2023 | 03/12/2023 | ::{ flag=US }:: États-Unis | ::{ flag=KR }:: Corée du Sud | ::{ flag=AU }:: Australien |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko World Cup
 
@@ -83,6 +83,7 @@ Tournois officiels organisés par l'équipe d'osu!.
 | [osu!mania 4K World Cup 2022](MWC/2022_4K) | 07/07/2022 | 18/09/2022 | ::{ flag=KR }:: Corée du Sud | ::{ flag=BR }:: Brésil | ::{ flag=US }:: États-Unis |
 | [osu!mania 7K World Cup 2023](MWC/2023_7K) | 15/12/2022 | 18/02/2023 | ::{ flag=PH }:: Philippines | ::{ flag=KR }:: Corée du Sud | ::{ flag=MY }:: Malaisie |
 | [osu!mania 4K World Cup 2023](MWC/2023_4K) | 13/07/2023 | 24/09/2023 | ::{ flag=US }:: États-Unis | ::{ flag=KR }:: Corée du Sud | ::{ flag=ID }:: Indonésie |
+| [osu!mania 7K World Cup 2024](MWC/2024_7K) | 15/12/2023 | 25/02/2024 | *À déterminer* | *À déterminer* | *À déterminer* |
 
 ## Tournois communautaires
 
@@ -124,6 +125,7 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Ascaveth Invitational Tournament 2022](AIT/2022) | 03/09/2022 | 03/09/2022 | ::{ flag=ID }:: [Vinno](https://osu.ppy.sh/users/10717635) | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) |
+| [Ascaveth Invitational Tournament 2023](AIT/2023) | 09/12/2023 | 09/12/2023 | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) |
 
 #### Aus/NZ osu!standard Tournament
 
@@ -136,6 +138,12 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | [Aus/NZ osu!standard Tournament 5 - Summer](ANZT/2018_Summer) | 26/01/2018 | 13/03/2017 | ::{ flag=AU }:: [Lunirs](https://osu.ppy.sh/users/2118945) | ::{ flag=AU }:: [Blobby3000](https://osu.ppy.sh/users/6916774) | ::{ flag=AU }:: [TheOmyNomy](https://osu.ppy.sh/users/4241054) |
 | [Aus/NZ osu!standard Tournament 5 - Winter](ANZT/2018_Winter) | 17/08/2018 | 30/09/2018 | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) | ::{ flag=AU }:: [-Machine-](https://osu.ppy.sh/users/5459981) | ::{ flag=AU }:: [Blobby3000](https://osu.ppy.sh/users/6916774) |
 | [Aus/NZ osu!standard Tournament 6 - Summer](ANZT/2019_Summer) | 11/01/2019 | 10/03/2019 | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) | ::{ flag=AU }:: [Jordan The Bear](https://osu.ppy.sh/users/7477458) | ::{ flag=AU }:: [nickerdead3](https://osu.ppy.sh/users/4999984) |
+
+#### BubblyQT
+
+| Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [BubblyQT 6](BQT/6) | 30/09/2023 | 12/11/2023 | 5 Tonatious' on Bonk | dilf cup 2 | abbeychan fanclub |
 
 #### CES League osu! Tournament
 

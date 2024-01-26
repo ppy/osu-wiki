@@ -71,7 +71,7 @@ Los modificadores del juego deben tener la palabra `mod` después del nombre del
 
 ---
 
-Estos modificadores de juego ya no están siendo utilizados por osu!; sin embargo, si es necesario, deben escribirse como se muestra a continuación (las mayúsculas y minúsculas y el espaciado deben coincidir):
+Estos modificadores del juego ya no están siendo utilizados por osu!; sin embargo, si es necesario, deben escribirse como se muestra a continuación (las mayúsculas y minúsculas y el espaciado deben coincidir):
 
 - `Fade Out`
 - `No Video`
@@ -304,7 +304,7 @@ Del «Diccionario panhispánico de dudas»:
 
 > El texto que va dentro de las comillas tiene una puntuación independiente y lleva sus propios signos ortográficos. Por eso, si el enunciado entre comillas es interrogativo o exclamativo, los signos de interrogación y exclamación se escriben dentro de las comillas.
 
-Por extensión, el [énfasis](/wiki/Article_styling_criteria/Formatting#enfatizando), los [enlaces](/wiki/Article_styling_criteria/Formatting#enlaces) y los paréntesis deben seguir las mismas reglas con respecto a la puntuación (es decir, si encierran una oración completa o solo parte de una).
+Por extensión, el [énfasis](/wiki/Article_styling_criteria/Formatting#enfatizado), los [enlaces](/wiki/Article_styling_criteria/Formatting#enlaces) y los paréntesis deben seguir las mismas reglas con respecto a la puntuación (es decir, si encierran una oración completa o solo parte de una).
 
 ### Cita en bloque
 

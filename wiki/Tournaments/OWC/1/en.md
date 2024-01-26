@@ -1,6 +1,6 @@
 ---
 tags:
-  - OWC #1
+  - "OWC #1"
   - OWC 1
   - OWC#1
   - OWC1
@@ -75,7 +75,7 @@ The osu! World Cup #1 was run by various community members.
 | ::{ flag=NZ }:: | **New Zealand** | **[NumoT123](https://osu.ppy.sh/users/282930)**, [Acidsky-](https://osu.ppy.sh/users/116608), [deadbeat](https://osu.ppy.sh/users/128370), [jiantz](https://osu.ppy.sh/users/330252), [SkyE-](https://osu.ppy.sh/users/114796), [toejamms](https://osu.ppy.sh/users/231111) |
 | ::{ flag=PH }:: | **Philippines** | **[dayun10](https://osu.ppy.sh/users/570310)**, [bakaloidsky](https://osu.ppy.sh/users/504885), [blacksymbian](https://osu.ppy.sh/users/53956), [jockeytiyan](https://osu.ppy.sh/users/133618), [nachopiggy](https://osu.ppy.sh/users/95637), [WyndII](https://osu.ppy.sh/users/46538) |
 | ::{ flag=PL }:: | **Poland** | **[ShaggoN](https://osu.ppy.sh/users/39129)**, [fartownik](https://osu.ppy.sh/users/56917), [kuburaczek](https://osu.ppy.sh/users/29130), [Niko-](https://osu.ppy.sh/users/175141), [rEdo](https://osu.ppy.sh/users/49329), [White Wolf](https://osu.ppy.sh/users/39828) |
-| ::{ flag=PT }:: | **Portugal** | **[JonnyThatJonny](https://osu.ppy.sh/users/201290)**, [creativ](https://osu.ppy.sh/users/280158), [makkura](https://osu.ppy.sh/users/344086), [sttailruby12](https://osu.ppy.sh/users/213335) |
+| ::{ flag=PT }:: | **Portugal** | **[JonnyThatJonny](https://osu.ppy.sh/users/201290)**, [creativ](https://osu.ppy.sh/users/280158), [makkura](https://osu.ppy.sh/users/344086), [Pereira006](https://osu.ppy.sh/users/537344), [sttailruby12](https://osu.ppy.sh/users/213335) |
 | ::{ flag=RU }:: | **Russian Federation** | **[GaShiK](https://osu.ppy.sh/users/227643)**, [Akai-](https://osu.ppy.sh/users/649471), [CracK](https://osu.ppy.sh/users/119933), [Kotya](https://osu.ppy.sh/users/297551), [larch](https://osu.ppy.sh/users/296787), [TKiller](https://osu.ppy.sh/users/113027) |
 | ::{ flag=KR }:: | **South Korea** | **[KRZY](https://osu.ppy.sh/users/114017)**, [Binjip](https://osu.ppy.sh/users/261694), [Cookiezi](https://osu.ppy.sh/users/124493), [ehRh](https://osu.ppy.sh/users/272117), [M A I D](https://osu.ppy.sh/users/216472), [Reisen Udongein](https://osu.ppy.sh/users/232942) |
 | ::{ flag=ES }:: | **Spain** | **[X\_Ray](https://osu.ppy.sh/users/160937)**, [choche](https://osu.ppy.sh/users/239850), [hyperluigi](https://osu.ppy.sh/users/43921), [Lionheart69](https://osu.ppy.sh/users/88152), [migul](https://osu.ppy.sh/users/423217), [Skullboss](https://osu.ppy.sh/users/48527) |
@@ -111,7 +111,7 @@ This competition has come to an end and resulted in the following podium:
   5. [07th Expansion - rog-limitation (AngelHoney) \[Insane\]](https://osu.ppy.sh/beatmapsets/14994#osu/54581)
   6. [Amuro vs Killer - Mei (v2b) \[Another\]](https://osu.ppy.sh/beatmapsets/8965#osu/36290)
   7. [m-flo loves CHEMISTRY - Astrosexy (mtmcl) \[Sexy\]](https://osu.ppy.sh/beatmapsets/13244#osu/49101)
-  8. [Renard - Banned Forever (Blue Dragon) \[Lesjuh\]](https://osu.ppy.sh/beatmapsets/16349#osu/64266)    
+  8. [Renard - Banned Forever (Blue Dragon) \[Lesjuh\]](https://osu.ppy.sh/beatmapsets/16349#osu/64266)
 - Tiebreaker
   1. **[IOSYS - Usatei (Card N'FoRcE) \[RUN!!\]](https://osu.ppy.sh/beatmapsets/3959#osu/22993)**
 

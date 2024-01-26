@@ -29,70 +29,70 @@ osu! Loved candidates were chosen by [-Roxas](https://osu.ppy.sh/users/1986262),
 
 [![](/wiki/shared/news/2019-02-26-project-loved-week-of-february-24th/osu/doki-doki.jpg)](https://osu.ppy.sh/community/forums/topics/873736)
 
-[Thaehan - Doki-Doki](https://osu.ppy.sh/beatmapsets/638414#osu) by [Piggey](https://osu.ppy.sh/users/4163860)  
+[Thaehan - Doki-Doki](https://osu.ppy.sh/beatmapsets/638414#osu) by [Piggey](https://osu.ppy.sh/users/4163860)\
 *written by [BeasttrollMC](https://osu.ppy.sh/users/3171691)*
 
 Those following Project Loved for a while now will easily recognize this song from a previous Loved map by BarkingMadDog. Although similar in song, this map by Piggy offers a much greater challenge to those willing to face it. Popularized by amazing scores from Mystia, Rafis, and many others, this is a spaced streaming test for those looking to prove themselves among the best, or a challenge to those looking to become one.
 
 [![](/wiki/shared/news/2019-02-26-project-loved-week-of-february-24th/osu/youka-to-yumeutsutsu.jpg)](https://osu.ppy.sh/community/forums/topics/873735)
 
-[Shimotsuki Haruka - Youka to Yumeutsutsu](https://osu.ppy.sh/beatmapsets/549468#osu) by [Yusomi](https://osu.ppy.sh/users/4174940) and [elchxyrlia](https://osu.ppy.sh/users/1722835)  
+[Shimotsuki Haruka - Youka to Yumeutsutsu](https://osu.ppy.sh/beatmapsets/549468#osu) by [Yusomi](https://osu.ppy.sh/users/4174940) and [elchxyrlia](https://osu.ppy.sh/users/1722835)\
 *written by [BeasttrollMC](https://osu.ppy.sh/users/3171691)*
 
 Yusomi is no new face to Project Loved since she's had multiple maps featured in votings over the months. But what makes this mapset crazy is her collaboration with elchxyrlia, more commonly known as the creator for various "Arles" difficulties that have been massively popular amongst Project Loved. For this mapset, they've come together to each present their take on Shimotsuki Haruka's "Youka to Yumeutsutsu" to create a gameplay experience that is bound to push your limits. Good luck!
 
 [![](/wiki/shared/news/2019-02-26-project-loved-week-of-february-24th/osu/spider-dance-dual-mix.jpg)](https://osu.ppy.sh/community/forums/topics/873734)
 
-[toby fox - Spider Dance (Dual Mix)](https://osu.ppy.sh/beatmapsets/391989#osu) by [ChronoNig](https://osu.ppy.sh/users/3545323) et al.  
+[toby fox - Spider Dance (Dual Mix)](https://osu.ppy.sh/beatmapsets/391989#osu) by [ChronoNig](https://osu.ppy.sh/users/3545323) et al.\
 *written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
 
 Do you like to dance? Dance your cursor to this full spread mapset of "Toby Fox - Spider Dance (Dual Mix)" hosted by ChronoNig. With various difficulties, this mapset was truly designed for enjoyment across all skill levels. If you're one for speedy aim maps, get a load of this!
 
 [![](/wiki/shared/news/2019-02-26-project-loved-week-of-february-24th/osu/data-corruption-symphony.jpg)](https://osu.ppy.sh/community/forums/topics/873733)
 
-[sakuraburst - data corruption symphony](https://osu.ppy.sh/beatmapsets/714671#osu) by [sammish](https://osu.ppy.sh/users/4415076)  
+[sakuraburst - data corruption symphony](https://osu.ppy.sh/beatmapsets/714671#osu) by [sammish](https://osu.ppy.sh/users/4415076)\
 *written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
 
 A fatal error has occurred. Attempting to reboot system. Please do not power off or unplug your machine... Thankfully, you won't have to worry about seeing that error when playing this map! What you can expect from this map, however, is an incredibly energetic technical map to fit with an incredibly energetic sakuraburst song, spiced up with creative 2B patterns for that uniquely immersive gameplay experience. Have you been looking for a new map to push your gimmicky combo-holding skills to their limits? Well, it's time for you to finally put those skills to the test. Give it your all!
 
 [![](/wiki/shared/news/2019-02-26-project-loved-week-of-february-24th/osu/daybreak-frontline-rap-arrange.jpg)](https://osu.ppy.sh/community/forums/topics/873732)
 
-[LowFat x Onnyu - DAYBREAK FRONTLINE (Rap Arrange)](https://osu.ppy.sh/beatmapsets/545417#osu) by [Anmiy](https://osu.ppy.sh/users/1014222)  
+[LowFat x Onnyu - DAYBREAK FRONTLINE (Rap Arrange)](https://osu.ppy.sh/beatmapsets/545417#osu) by [Anmiy](https://osu.ppy.sh/users/1014222)\
 *written by [-Roxas](https://osu.ppy.sh/users/1986262)*
 
 A pretty popular map with over 100 favorites, "DAYBREAK FRONTLINE" is a fast paced song and it's complemented by a fast paced map hitting 272 BPM if you are wanting to singletap it. With aim heavy patterns throughout the map, it is enjoyable no matter your play style if that's your type of map. The map does peak at 6.69 stars, making it not the easiest map to play, although if you are up to the challenge then of course go ahead!
 
 [![](/wiki/shared/news/2019-02-26-project-loved-week-of-february-24th/osu/lost-time-memory.jpg)](https://osu.ppy.sh/community/forums/topics/873731)
 
-[Jin ft. Matsuyama Kouta (BYEE the ROUND) - Lost Time Memory](https://osu.ppy.sh/beatmapsets/185491#osu) by [captin1](https://osu.ppy.sh/users/689997), [KantoKun](https://osu.ppy.sh/users/1280801) and [AnreFM](https://osu.ppy.sh/users/1895678)  
+[Jin ft. Matsuyama Kouta (BYEE the ROUND) - Lost Time Memory](https://osu.ppy.sh/beatmapsets/185491#osu) by [captin1](https://osu.ppy.sh/users/689997), [KantoKun](https://osu.ppy.sh/users/1280801) and [AnreFM](https://osu.ppy.sh/users/1895678)\
 *written by [-Roxas](https://osu.ppy.sh/users/1986262)*
 
 A map by captin1, "Lost Time Memory" is a blast from the past considering the map was from 2014, so its patterns maybe a little bit different from what the newer players are used to. You'll be glad to hear though that this mapset doesn't get crazy hard and it's suitable for anyone that plays the game, with the easiest difficulty being just 2 stars and ranging up to mid-5. Give it a shot!
 
 [![](/wiki/shared/news/2019-02-26-project-loved-week-of-february-24th/osu/nexta.jpg)](https://osu.ppy.sh/community/forums/topics/873730)
 
-[lapix - Nexta](https://osu.ppy.sh/beatmapsets/716079#osu) by [DTM9 Nowa](https://osu.ppy.sh/users/5428909), [downpour](https://osu.ppy.sh/users/4543414) and [Nite](https://osu.ppy.sh/users/7401033)  
+[lapix - Nexta](https://osu.ppy.sh/beatmapsets/716079#osu) by [DTM9 Nowa](https://osu.ppy.sh/users/5428909), [downpour](https://osu.ppy.sh/users/4543414) and [Nite](https://osu.ppy.sh/users/7401033)\
 *written by [waywern2012](https://osu.ppy.sh/users/5870453)*
 
 Next up we have a map from DTM9 Nowa. This 160 BPM map "Nexta" from Lapix is truly a challenging one. With many difficulties to choose from, they all have a different approach on the map. The theme of the map overall is simple: technical. With a wide variety of spaced jumpstreams, back-and-forth jumps and difficult patterns, especially on downpour's difficulty, it challenges every player that will play this map! Will you take it on? Come prove your technical abilities; it won't be easy!
 
 [![](/wiki/shared/news/2019-02-26-project-loved-week-of-february-24th/osu/chinurareta-shuren-ni-fukeru-houmura.jpg)](https://osu.ppy.sh/community/forums/topics/873729)
 
-[Imperial Circus Dead Decadence - Chinurareta Shuren ni Fukeru Houmura](https://osu.ppy.sh/beatmapsets/508884#osu) by [alkotras42](https://osu.ppy.sh/users/4749499)  
+[Imperial Circus Dead Decadence - Chinurareta Shuren ni Fukeru Houmura](https://osu.ppy.sh/beatmapsets/508884#osu) by [alkotras42](https://osu.ppy.sh/users/4749499)\
 *written by [waywern2012](https://osu.ppy.sh/users/5870453)*
 
 This is one of the lower-difficulty Imperial Circus Dead Decadence maps that are mapped, but don't let that fool you! This map is a well-made by alkotras42 and still packs in 6.33 stars with quite a bit of streams. The map is simple overall, but it is quite long, making it harder to pass with a full combo without missing a few notes here and there. Coming in at over 150 favourites, this map is truly loved by the community. Give it a go!
 
 [![](/wiki/shared/news/2019-02-26-project-loved-week-of-february-24th/osu/elemental-creation.jpg)](https://osu.ppy.sh/community/forums/topics/873728)
 
-[dj TAKA meets DJ YOSHITAKA - Elemental Creation](https://osu.ppy.sh/beatmapsets/193856#osu) by [DoKito](https://osu.ppy.sh/users/537084)  
+[dj TAKA meets DJ YOSHITAKA - Elemental Creation](https://osu.ppy.sh/beatmapsets/193856#osu) by [DoKito](https://osu.ppy.sh/users/537084)\
 *written by [Bubbleman](https://osu.ppy.sh/users/5182050)*
 
 One of DoKito's infamous maps, Elemental Creation is an older style of map involving many of the winding streams that DoKo is known for, as well as some harsh jump patterns to break up the constant bombardment of flow aim. With two difficulties, one AR9 and one 10, you can pick whether you just want a challenge to mechanics or whether you want to push your reading to the limit, since the song is a pacy 212 BPM. Can you handle the streams? Try your luck!
 
 [![](/wiki/shared/news/2019-02-26-project-loved-week-of-february-24th/osu/fairy-dancing-in-lake.jpg)](https://osu.ppy.sh/community/forums/topics/873727)
 
-[uno (IOSYS) - #Fairy\_dancing\_in\_lake](https://osu.ppy.sh/beatmapsets/317737#osu) by [Necroluttah](https://osu.ppy.sh/users/2917471)  
+[uno (IOSYS) - #Fairy\_dancing\_in\_lake](https://osu.ppy.sh/beatmapsets/317737#osu) by [Necroluttah](https://osu.ppy.sh/users/2917471)\
 *written by [Bubbleman](https://osu.ppy.sh/users/5182050)*
 
 Dance your cursor around the screen on Necroluttah's take on #Fairy\_dancing\_in\_lake, a 142 BPM map involving many different rhythms and patterns designed to seriously test your technical ability. Rhythm changes, harsh and smooth angles and a challenge to your reading if you decide to attempt the AR9 difficulty, this map will push even the highest calibre of players. If you think you can follow the spritely fairy's movements, why not give it a go?
@@ -105,28 +105,28 @@ osu!taiko Loved candidates were chosen by [-[ ix Ishida xi ]-](https://osu.ppy.s
 
 [![](/wiki/shared/news/2019-02-26-project-loved-week-of-february-24th/taiko/endymion.jpg)](https://osu.ppy.sh/community/forums/topics/873726)
 
-[fallen Shepherd ft. RabbiTon Strings - ENDYMION](https://osu.ppy.sh/beatmapsets/714729#taiko) by [[\_Chichinya\_]](https://osu.ppy.sh/users/2140739) et al.  
+[fallen Shepherd ft. RabbiTon Strings - ENDYMION](https://osu.ppy.sh/beatmapsets/714729#taiko) by [[\_Chichinya\_]](https://osu.ppy.sh/users/2140739) et al.\
 *written by [-Kazu-](https://osu.ppy.sh/users/920861)*
 
 Chichinya comes back again with another mapset featuring multiple difficulties across various game modes, this time for ENDYMION, one of the most signature DDR songs lately. With a classical feeling to it, constantly changing rhythms and holding high intensity sections, this has been one of the most gimmick-heavy sets out there, even despite not being really all about extreme SV usage or snap-tech, so if you're one of those Inner Oni-level players that are looking for new shinies into your collection, make sure to give this a try!
 
 [![](/wiki/shared/news/2019-02-26-project-loved-week-of-february-24th/taiko/natu-iro-present-wo-bpm180-ni-shitemita.jpg)](https://osu.ppy.sh/community/forums/topics/873725)
 
-[Sara - Natu iro Present Wo BPM180 Ni Shitemita](https://osu.ppy.sh/beatmapsets/374328#taiko) by [KitajimaYN](https://osu.ppy.sh/users/2250574) et al.  
+[Sara - Natu iro Present Wo BPM180 Ni Shitemita](https://osu.ppy.sh/beatmapsets/374328#taiko) by [KitajimaYN](https://osu.ppy.sh/users/2250574) et al.\
 *written by [jyake](https://osu.ppy.sh/users/9099822)*
 
 This set comes with a few difficulties mapped with many different musical interpretations. Styles range from more basic like the two Oni difficulties, to more technical like the YOUTA GD. The patterns vary from streams to more unique ones; the set has all you could ask for!
 
 [![](/wiki/shared/news/2019-02-26-project-loved-week-of-february-24th/taiko/panic-popn-picnic.jpg)](https://osu.ppy.sh/community/forums/topics/873724)
 
-[Umeboshi Chazuke - Panic Popn Picnic](https://osu.ppy.sh/beatmapsets/541163#taiko) by [asuasu\_yura](https://osu.ppy.sh/users/2875968) and [KitajimaYN](https://osu.ppy.sh/users/2250574)  
+[Umeboshi Chazuke - Panic Popn Picnic](https://osu.ppy.sh/beatmapsets/541163#taiko) by [asuasu\_yura](https://osu.ppy.sh/users/2875968) and [KitajimaYN](https://osu.ppy.sh/users/2250574)\
 *written by [iceOC](https://osu.ppy.sh/users/5482401)*
 
 In this happy pop song by Umeboshi Chazuke, there are two difficulties, both there to give players a challenge with 1/6 patterns. Even though they have high star ratings, they match the song splendidly and make it very fun to play.
 
 [![](/wiki/shared/news/2019-02-26-project-loved-week-of-february-24th/taiko/towa-naru-kizuna-to-omoi-no-kiseki.jpg)](https://osu.ppy.sh/community/forums/topics/873723)
 
-[nao - Towa naru Kizuna to Omoi no Kiseki](https://osu.ppy.sh/beatmapsets/179204#taiko) by [ll-oscar](https://osu.ppy.sh/users/1488736)  
+[nao - Towa naru Kizuna to Omoi no Kiseki](https://osu.ppy.sh/beatmapsets/179204#taiko) by [ll-oscar](https://osu.ppy.sh/users/1488736)\
 *written by [nyanmi-1828](https://osu.ppy.sh/users/6866480)*
 
 I bet may players have played this in multiplayer. Known for its difficulty and quality, The ll-taiko series joins this week's pick! The patterns may be simple, but the speed is what will challenge players. I'm sure many, including myself, once made it a goal to pass this. Now, we can do it!

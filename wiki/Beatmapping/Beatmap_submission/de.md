@@ -6,7 +6,7 @@
 
 Beim Anwählen von `Beatmap hochladen ...` aus dem Dropdown `Datei` im Editor (Kürzel: `Strg` + `Shift` + `U`) öffnet sich das Fenster für das **Beatmap-Einreichungssystem** (auch **Beatmap Submission System** oder ***BSS*** genannt). Hier werden zu Anfang Informationsquellen aufgelistet, um Nutzern zu helfen, Fragen im Bezug auf Mapping zu stellen, [Feedback](/wiki/Modding) für ihre Beatmaps zu finden und sicherzustellen, dass ihre Beatmaps für das Ranking geeignet sind. Solltest du Probleme mit dem BSS haben, dann siehe den Ratgeber über [Probleme mit dem BSS](/wiki/Guides/BSS_issues).
 
-Wenn die Beatmap, die ein Nutzer hochlädt, nicht bereits auf der osu!-Webseite ist, dann wird das BSS-Fenster anzeigen, wie viele Neuveröffentlichungen einem Nutzer noch zustehen. Sofern die Beatmap nominiert ist, warnt das Fenster davor, dass die Nominierung durch das Aktualisieren der Beatmap zurückgesetzt wird. Wenn die Beatmap sich auf dem [Friedhof](/wiki/Beatmap/Category#friedhof) befindet, dann weist das Fenster darauf hin, dass die Beatmap in die Kategorie "Ausstehend" verschoben wird.
+Wenn die Beatmap, die ein Nutzer hochlädt, nicht bereits auf der osu!-Webseite ist, dann wird das BSS-Fenster anzeigen, wie viele Neuveröffentlichungen einem Nutzer noch zustehen. Sofern die Beatmap nominiert ist, warnt das Fenster davor, dass die Nominierung durch das Aktualisieren der Beatmap zurückgesetzt wird. Wenn die Beatmap sich auf dem [Friedhof](/wiki/Beatmap/Category#graveyard) befindet, dann weist das Fenster darauf hin, dass die Beatmap in die Kategorie "Ausstehend" verschoben wird.
 
 ## Einreichungsoptionen
 

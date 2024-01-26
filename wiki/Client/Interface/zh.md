@@ -88,7 +88,7 @@ outdated_since: 40eddbc753d880c04eecb00550eb1ee7e6d9e018
 
 ![](img/metadata-comparison-ZH.jpg)
 
-这里显示**你所选的谱面难度信息**。默认会选中音乐播放器正在播放的歌。左上角图标显示[谱面分类](/wiki/Beatmap/Category)，上图中的谱面处于[上架 (ranked)](/wiki/Beatmap/Category#上架-(ranked)) 状态。
+这里显示**你所选的谱面难度信息**。默认会选中音乐播放器正在播放的歌。左上角图标显示[谱面分类](/wiki/Beatmap/Category)，上图中的谱面处于[上架 (ranked)](/wiki/Beatmap/Category#ranked) 状态。
 
 正常情况下会显示罗马化标题（如下图），但是如果在[设置](/wiki/Client/Options)中选择了`以原语言显示歌曲信息`时，则会显示 Unicode 标题（如上图）。谱面难度名显示在方括号（`[]`）中。制图者显示在标题下方，再下面则列出了更多信息。从左到右如下：
 
@@ -302,7 +302,7 @@ outdated_since: 40eddbc753d880c04eecb00550eb1ee7e6d9e018
 - \[2\] `存储回放到回放文件夹`：你稍后可以在本地排行榜中观看回放，也可以在 `Replays` 文件夹中双击打开。
 - \[3\] `设置为线上最爱`：添加谱面到线上收藏夹，它位于你 osu! 个人资料界面的`谱面`部分下方。
 - \[4\] 本地排行榜：你所有的分数都会保存在电脑上。要查看他们，转到[选歌界面](#选歌界面)，然后在排行榜上方的下拉菜单中点击`本地排行`。
-- \[5\] `谱面排名 (Beatmap Ranking)` 部分。仅当谱面拥有在线排行榜（处于[过审 (Qualified)](/wiki/Beatmap/Category#过审-(qualified))、[上架 (Ranked)](/wiki/Beatmap/Category#上架-(ranked)) 或者[社区喜爱 (Loved)](/wiki/Beatmap/Category#社区喜爱-(loved)) 状态）时可用。你也需要在处于在线状态时查看，详情见下。
+- \[5\] `谱面排名 (Beatmap Ranking)` 部分。仅当谱面拥有在线排行榜（处于[过审 (Qualified)](/wiki/Beatmap/Category#qualified)、[上架 (Ranked)](/wiki/Beatmap/Category#ranked) 或者[社区喜爱 (Loved)](/wiki/Beatmap/Category#loved) 状态）时可用。你也需要在处于在线状态时查看，详情见下。
 - \[6\] `整体排名 (Overall Ranking)` 部分。仅当谱面拥有在线排行榜时可用。你也需要在处于在线状态时查看，详情见下。
 - \[7\] 谱面的总游玩数和通过率。
 - \[8\] 谱面评分。按你是否喜欢谱面进行评价。如果你不能决定，最好不要管它。

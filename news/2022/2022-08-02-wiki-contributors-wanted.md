@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wiki contributors wanted!"
+title: Wiki contributors wanted!
 date: 2022-08-02 19:00:00 +0000
 ---
 
