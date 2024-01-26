@@ -8,7 +8,7 @@ The osu!mania 7K World Cup begins! Stay updated as participants start revving up
 
 ![](/wiki/Tournaments/MWC/2024_7K/img/mwc7k2024-banner.jpg)
 
-Continuing on from the osu! World Cup recaps, you can once more expect a summary of the latest and greatest of MWC, made possible by community members just like you! This year, **for the first time ever**, the tournament kicked off with a Round of 24! Due to increased interest from various countries that have both applied and qualified, we have been blessed with an extra round and exciting matches straight away!
+Continuing on from the osu! World Cup [recaps](https://osu.ppy.sh/home/news/2023-11-28-osu-world-cup-2023-finals-recap), you can once more expect a summary of the latest and greatest of MWC, made possible by community members just like you! This year, **for the first time ever**, the tournament kicked off with a Round of 24! Due to increased interest from various countries that have both applied and qualified, we have been blessed with an extra round and exciting matches straight away!
 
 Before getting into the highlight matches, let's quickly reflect (or familiarise) ourselves with the Round of 24 mappool.
 
