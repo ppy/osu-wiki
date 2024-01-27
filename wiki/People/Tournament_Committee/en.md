@@ -15,7 +15,7 @@ Their responsibilities include:
 
 The panel was first announced to the public on July 22, 2021 through the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) in response to the rapidly growing community tournament scene in osu!.
 
-# Contest Committee
+## Contest Committee
 
 The **Contest Committee** is a subgroup directly associated with the **Tournament Committee** which is specifically dedicated to evaluating beatmapping contests.
 
