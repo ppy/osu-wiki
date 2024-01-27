@@ -6,7 +6,7 @@ tags:
 
 # Vocaloid Mapping Contest 2
 
-![VMC banner](/wiki/Contests/VMC/2/img/bannervmc.jpg)
+![VMC banner](img/banner.jpg)
 
 The **Vocaloid Mapping Contest** (***VMC***) is a beatmapping contest hosted by the Vocaloid Appreciation Team, and is all about promoting VOCALOID, UTAU, and other vocal synth songs and artists that have fallen through the cracks. Mappers were tasked with creating the best beatmap possible, and then having them judged by some of the most prominent VOCALOID mappers in the community.
 
@@ -28,7 +28,7 @@ The results are streamed live on the [*Vocaloid Appreciation Team* Twitch accoun
 
 | Placing | Prize(s) |  |
 | :-: | :-- | :-- |
-| 1st place | Custom *VMC 2 Winner* VOCALOID plushie[^plushie] (made by [Noffy](https://osu.ppy.sh/users/1541323)), 6 months of osu!supporter, [*Elite Mapper* contest points](/wiki/Contests/Contest_points), *VMC 2 Winner* profile badge | ![](/wiki/Contests/VMC/2/img/vmcwinnerbadge.png) |
+| 1st place | Custom *VMC 2 Winner* VOCALOID plushie[^plushie] (made by [Noffy](https://osu.ppy.sh/users/1541323)), 6 months of osu!supporter, [*Elite Mapper* contest points](/wiki/Contests/Contest_points), *VMC 2 Winner* profile badge | ![](img/vmcwinnerbadge.png) |
 | 2nd place | 2 months of osu!supporter, [*Elite Mapper* contest points](/wiki/Contests/Contest_points) |  |
 | 3rd place | 1 month of osu!supporter, [*Elite Mapper* contest points](/wiki/Contests/Contest_points) |  |
 
