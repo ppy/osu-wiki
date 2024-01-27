@@ -95,7 +95,7 @@ Below we have selected 5 of iroha(sakaki)'s incredible works to you to pick from
 [Download the beatmap template here!](LINK)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/399/Songs/iroha(sasaki)%20-%20The%20Cuckoo%20Bird_s%20Beautiful%20Youth.mp3" type="audio/mpeg">
 </audio>
 
 #### iroha(sasaki) - Shirley!! (4:59 / ??? BPM)
@@ -107,7 +107,7 @@ Below we have selected 5 of iroha(sakaki)'s incredible works to you to pick from
 [Download the beatmap template here!](LINK)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/399/Songs/iroha(sasaki)%20-%20Shirley!!.mp3" type="audio/mpeg">
 </audio>
 
 #### iroha(sasaki) - Devolution (4:26 / ??? BPM)
@@ -119,7 +119,7 @@ Below we have selected 5 of iroha(sakaki)'s incredible works to you to pick from
 [Download the beatmap template here!](LINK)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/399/Songs/iroha(sasaki)%20-%20Devolution.mp3" type="audio/mpeg">
 </audio>
 
 #### iroha(sasaki) - 14 (Miku ver.) (4:55 / ??? BPM)
@@ -131,7 +131,7 @@ Below we have selected 5 of iroha(sakaki)'s incredible works to you to pick from
 [Download the beatmap template here!](LINK)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/399/Songs/iroha(sasaki)%20-%2014.mp3" type="audio/mpeg">
 </audio>
 
 #### iroha(sasaki) - sigh (4:08 / ??? BPM)
@@ -143,7 +143,7 @@ Below we have selected 5 of iroha(sakaki)'s incredible works to you to pick from
 [Download the beatmap template here!](LINK)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/399/Songs/iroha(sasaki)%20-%20sigh.mp3" type="audio/mpeg">
 </audio>
 
 ### Rules
