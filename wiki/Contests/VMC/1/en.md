@@ -84,7 +84,7 @@ Five (5) songs were selected from the Featured Artist library. These songs were 
 ## Results
 
 | Rank | Mapper | Anonymised map name | Raw score (600) | Standardised score |
-| :-: | :-: | :-: | :-: | :-: |
+| :-: | :-- | :-- | :-- | :-- |
 | #1 | [Meijiro McQueen](https://osu.ppy.sh/users/11555612) | grew forth | 478 | **6.7** |
 | #2 | [Pho](https://osu.ppy.sh/users/3624692) | near student | 476 | **6.1** |
 | #3 | [Rorupan L9](https://osu.ppy.sh/users/9471638) | heading save | 458 | **5.2** |
