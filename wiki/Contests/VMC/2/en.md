@@ -18,23 +18,19 @@ This second iteration of the VMC featured a new VOCALOID Featured Artist, suppor
 | --: | :-- |
 | Announcement | 2024-01-28 |
 | Submission | 2024-01-28 to 2024-03-01 |
-| Screening\* | 2024-03-01 to 2024-03-08 |
+| Screening[^screening] | 2024-03-01 to 2024-03-08 |
 | Judging | 2024-03-08 to 2024-03-29 |
 | Results livestream | 2024-03-31 @ 18:00 UTC (tentative) |
 
 The results are streamed live on the [*Vocaloid Appreciation Team* Twitch account](https://www.twitch.tv/vocaloidappreciationteam) with commentary. Further details regarding the stream will be provided in this article, the news post, and in the Discord server.
 
-\**Screening only occured in modes with a large number of entries.*
-
 ## Prizes
 
 | Placing | Prize(s) |  |
 | :-: | :-- | :-- |
-| 1st place | Custom *VMC 2 Winner* VOCALOID plushie\* (made by [Noffy](https://osu.ppy.sh/users/1541323)), 6 months of osu!supporter, [*Elite Mapper* contest points](/wiki/Contests/Contest_points), *VMC 2 Winner* profile badge | ![](/wiki/Contests/VMC/2/img/vmcwinnerbadge.png) |
+| 1st place | Custom *VMC 2 Winner* VOCALOID plushie[^plushie] (made by [Noffy](https://osu.ppy.sh/users/1541323)), 6 months of osu!supporter, [*Elite Mapper* contest points](/wiki/Contests/Contest_points), *VMC 2 Winner* profile badge | ![](/wiki/Contests/VMC/2/img/vmcwinnerbadge.png) |
 | 2nd place | 2 months of osu!supporter, [*Elite Mapper* contest points](/wiki/Contests/Contest_points) |  |
 | 3rd place | 1 month of osu!supporter, [*Elite Mapper* contest points](/wiki/Contests/Contest_points) |  |
-
-\**Prize only for participants of the osu! game mode, due to its one-of-a-kind nature.*
 
 All participating mappers receive constructive feedback from experienced mappers in the community.
 
@@ -88,3 +84,8 @@ Please be sure to support iroha(sasaki).
  Devolution | Kagamine Rin | kuma(alfred) | 4:26 | ??? | [.osz](LINK) |
 | 14 (Miku ver.) | Hatsune Miku | π | 4:55 | ??? | [.osz](LINK) |
 | sigh | Kagamine Rin  | iroha(sasaki) | 4:08 | ??? | [.osz](LINK) |
+
+## Notes
+
+[^screening]: Screening will only occur in modes with a large number of entries.
+[^plushie]: Prize only for participants of the osu! game mode, due to its one-of-a-kind nature.
