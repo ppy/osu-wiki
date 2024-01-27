@@ -76,7 +76,7 @@ All participating mappers receive constructive feedback from experienced mappers
 
 ## Songs
 
-Five (5) songs were selected by the staff from those provided by iroha(sasaki) for the purpose of this mapping contest. These songs were selected based on several factors, such as whether they have been ranked in the past, their suitability for the purposes of contest mapping, and other factors.
+5 songs were selected by the staff from those provided by [iroha(sasaki)](https://osu.ppy.sh/beatmaps/artists/399) for the purpose of this mapping contest. These songs were selected based on several factors, such as whether they have been ranked in the past, their suitability for the purposes of contest mapping, and other factors.
 
 Please be sure to support iroha(sasaki).
 
