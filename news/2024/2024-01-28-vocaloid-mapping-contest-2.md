@@ -14,7 +14,7 @@ Yep, you heard right. **iroha(sasaki)**, the artist behind the legendary VOCALOI
 
 Regardless of how popular *Meltdown* may be, it's far from **iroha(sasaki)**'s only song — we're happy to announce that **11** songs are part of [**iroha(sasaki)**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/399)!
 
-<div align="center">
+<div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
         <source src="https://assets.ppy.sh/artists/399/release_showcase.mp4" type="video/mp4" preload="none">
     </video>
