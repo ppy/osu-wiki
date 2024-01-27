@@ -1,3 +1,10 @@
+---
+outdated_translation: true
+outdated_since: 9162ca37df646799d93a296e59d8afe9394a323b
+---
+
+<!--This needs a thorough review besides the changes from the wiki status page. There are several grammar and styling issues present (e.g. formal form).-->
+
 # Storyboard Scripting - allgemeine Regeln
 
 ![Ein Bespiel eines Skriptes im .osb.](img/SBS_Base.jpg "Ein Bespiel eines Skriptes im .osb.")

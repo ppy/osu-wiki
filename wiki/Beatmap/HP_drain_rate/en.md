@@ -8,7 +8,7 @@ tags:
 # HP drain rate
 
 *For health as a gameplay mechanic, see: [Health](/wiki/Gameplay/Health)*\
-*For regulations surrounding HP drain rate, see: [Ranking criteria](/wiki/Ranking_Criteria)*
+*For regulations surrounding HP drain rate, see: [Ranking criteria](/wiki/Ranking_criteria)*
 
 **HP drain rate** (***HP***) is a [beatmap](/wiki/Beatmap) difficulty setting that controls how much [health](/wiki/Gameplay/Health) is passively lost to [health drain](/wiki/Gameplay/Health). It also affects how heavily a player is penalised for missing notes and how much health is gained back by accurately hitting [hit objects](/wiki/Gameplay/Hit_object).
 

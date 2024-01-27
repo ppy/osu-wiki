@@ -4,7 +4,7 @@
 
 ![](img/2012-09_01.jpg "osu!'s main menu at the time")
 
-osu! and its community celebrated osu!'s 5th birthday on the 2012-09-17. During this time, all players were granted [osu!supporter](/wiki/osu!supporter) status for 24 hours, beginning at 2012-09-17T02:00+08:00, which was osu!'s original release time in 2007. peppy had intended to distribute an early version of osu! in some form or another for the celebration, so players could experience osu! from an earlier time, where the roots of the program were. However, because of differing `.dll` file versions, peppy was unable to get it working. He has said he will get it working someday.
+osu! and its community celebrated osu!'s 5th birthday on the 2012-09-17. During this time, all players were granted [osu!supporter](/wiki/osu!supporter) status for 24 hours, beginning at 2012-09-16 (18:00 UTC), which was osu!'s original release time in 2007. peppy had intended to distribute an early version of osu! in some form or another for the celebration, so players could experience osu! from an earlier time, where the roots of the program were. However, because of differing `.dll` file versions, peppy was unable to get it working. He has said he will get it working someday.
 
 Links:
 

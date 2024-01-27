@@ -2,7 +2,7 @@
 
 O **osu! wiki** é uma base de dados de código aberto escrita e mantida por [colaboradores voluntários](https://github.com/ppy/osu-wiki/graphs/contributors). Ela contém uma vasta gama de informação em tópicos relacionados ao osu!, sua comunidade, e atividades e conceitos relacionados. O wiki serve como uma fonte oficial de conhecimento e é considerada como uma documentação da história do osu!.
 
-Todas as discussões que abrangem o wiki em geral, seu desenvolvimento, e mudanças dos artigos, acontece no canal `#osu-wiki` do [servidor oficial do osu!dev no Discord](/wiki/Community/osu!dev_Discord_server). Para aprender como você pode ajudar o osu! wiki, consulte os seguinte artigos:
+Todas as discussões que abrangem o wiki em geral, seu desenvolvimento, e mudanças dos artigos, acontece no canal `#osu-wiki` do [servidor oficial do osu! no Discord](/wiki/Community/osu!_Discord_server). Para aprender como você pode ajudar o osu! wiki, consulte os seguinte artigos:
 
 - [Guia de Contribuição](/wiki/osu!_wiki/Contribution_guide)
 - [Maintenance](/wiki/osu!_wiki/Maintenance)
@@ -15,7 +15,7 @@ As [primeiras tentativas](https://osu.ppy.sh/community/forums/posts/1175876) de 
 
 ## Estrutura
 
-A porta de entrada para o osu! wiki é a [página principal](/wiki/Main_Page), que é dividida em várias categorias de alto nível, cada uma com descrições gerais incluindo uma lista de artigos importantes. Os artigos não listados na página principal, que são tipicamente mais específicos, podem ser obtidos a partir de outras páginas usando links em linha ou através da função pesquisa do website.
+A porta de entrada para o osu! wiki é a [página principal](/wiki/Main_page), que é dividida em várias categorias de alto nível, cada uma com descrições gerais incluindo uma lista de artigos importantes. Os artigos não listados na página principal, que são tipicamente mais específicos, podem ser obtidos a partir de outras páginas usando links em linha ou através da função pesquisa do website.
 
 Um artigo individual descreve um único termo ou conceito que dá uma uma visão geral em tópicos adjacentes. Para melhor ilustrar o assunto, está dividido em subseções que cobrem partes diferentes para o termo. Também pode incluir capturas de tela relevantes ou outras explicações visuais, ou links a outros artigos sobre o tema.<!-- TODO: via the use of infoboxes. uncomment this when they are ready (https://github.com/ppy/osu-wiki/issues/5440) -->
 

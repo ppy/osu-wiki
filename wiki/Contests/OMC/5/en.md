@@ -39,7 +39,7 @@ You can download the .osz file for the provided songs at [here](https://drive.go
 - Contestants must only submit one difficulty. Additional difficulties won't be considered as your entry.
 - The difficulty shouldn't be easier than Insane, otherwise the difficulty won't be considered as an entry.
 - Storyboard and Video will not be considered for judging.
-- Contestants must follow the [Ranking Criteria](/wiki/Ranking_Criteria).
+- Contestants must follow the [Ranking Criteria](/wiki/Ranking_criteria).
 - You may be disqualified from the contest if:
   - You revealed your entry to others before results were announced.
   - You collaborated with another mapper on your entry.

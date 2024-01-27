@@ -498,7 +498,7 @@ Sunday, 3 September 2022:
 | **Megafan** ::{ flag=AR }:: | **6** | 3 | ::{ flag=CA }:: Shing\_ | [#1](https://osu.ppy.sh/community/matches/103554627) |
 | **Blujae** ::{ flag=NZ }:: | **6** | 0 | ::{ flag=MX }:: -Devo | [#1](https://osu.ppy.sh/community/matches/103555380) |
 | **CrabCow** ::{ flag=MY }:: | **6** | 3 | ::{ flag=NZ }:: idk123456 | [#1](https://osu.ppy.sh/community/matches/103557001) |
-| **Grape\_Tea** ::{ flag=JP }:: | **6** | 0 | ::{ flag=SG } :: Prehistoria | [#1](https://osu.ppy.sh/community/matches/103558532) |
+| **Grape\_Tea** ::{ flag=JP }:: | **6** | 0 | ::{ flag=SG }:: Prehistoria | [#1](https://osu.ppy.sh/community/matches/103558532) |
 | **Minekuchi** ::{ flag=DE }:: | **6** | 0 | ::{ flag=JP }:: mizkifanboy | [#1](https://osu.ppy.sh/community/matches/103558534) |
 | **BG\_SubMessy** ::{ flag=JP }:: | **0** | -1 | ::{ flag=IT }:: KITEMMUORT322 | *win by default* |
 | MEGAMELA ::{ flag=FI }:: | 4 | **6** | ::{ flag=JP }:: **akumufangirl** | [#1](https://osu.ppy.sh/community/matches/103559311) |

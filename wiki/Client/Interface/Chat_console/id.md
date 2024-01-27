@@ -1,3 +1,9 @@
+---
+needs_cleanup: true
+---
+
+<!-- "or" isn't translated in the tables -->
+
 # Konsol Chat
 
 Di dalam osu! kamu dapat menekan tombol `Show Chat` di pojok kanan bawah layar atau dengan menekan tombol `F8` pada keyboard untuk membuka konsol chat.
@@ -78,14 +84,13 @@ Tekan tombol angka atau menekan salah satu bar untuk:-
 | `/delfriend [pengguna]` | Menghapus `[pengguna]` dari daftar teman. | `/delfriend Amigo` | You are no longer friends with Amigo. |
 | `/away [pesan]` | Memasang sebuah pesan away (dikirim ke pengguna yang mengirimkanmu pesan pribadi ketika kamu sedang afk). Kosongkan `[pesan]` untuk membatalkan. | `/away I am John Smith.` | You have been marked as being away: I am John Smith. Ketika Amigo /msg John Dimana kamu~? BanchoBot: I am John Smith. |
 | `/bb` | Mengirim sebuah pesan ke bancho untuk rank `[nomor]` | `/bb rank 1` | \[15/11/12\] Stats for Uan: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
-| `/chat [pengguna]` | Membuka sebuah tab obrolan baru dengan pengguna yang telah dispesifikasikan. | `/chat Amigo` | (Tab amigo akan terbuka) |
+| `/chat [pengguna]` or `/msg [pengguna]` or `/query [pengguna]` | Membuka sebuah tab obrolan baru dengan pengguna yang telah dispesifikasikan. | `/chat Amigo` | (Tab amigo akan terbuka) |
 | `/clear` | Menghapus obrolan yang telah dimuat. (Hanya terhapus pada layarmu saja) | `/clear` | (Menghapus segalanya pada tab yang sedang kamu buka) |
 | `/ignore [pengguna][@chp]` | Mengabaikan segala pesan dari pengguna yang telah dispesifikasikan pada sesi ini. Dengan menambahkan sebuah @ diikuti oleh huruf, c,h, dan/atau p, kamu mengabaikannya di obrolan, [highlight](Highlight), atau pesan pribadi secara berurut. | /ignore Amigo@chp | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (Konsol chat kamu disetel untuk: mengabaikan teks apapun yang Amigo tulis \[c\], teks yang mungkin menghighlightmu dari Amigo \[h\] Pesan pribadi yang dikirim Amigo kepadamu \[p\]) |
 | `/j [channel]` or `/join [channel]` | Bergabung ke spesifik kanal | `/join #lobby` | (Tab #lobby akan terbuka) |
 | `/p` or `/part` | Meninggalkan kanal yang sedang kamu masuki. | `/part` | n/a |
-| `/unignore [user]` | Berhenti mengabaikan pengguna ini pada sesi sekarang. | `/unignore Amigo` | You may now hear Amigo. (Konsol chat kamu akan memperbolehkan komentar apapun yang dibuat oleh Amigo muncul di konsol chat kamu) |
+| `/unignore [pengguna]` | Berhenti mengabaikan pengguna ini pada sesi sekarang. | `/unignore Amigo` | You may now hear Amigo. (Konsol chat kamu akan memperbolehkan komentar apapun yang dibuat oleh Amigo muncul di konsol chat kamu) |
 | `/me [aksi]` | Melakukan sebuah aksi orang ketiga. | `/me sedang berguling` | Nekonyan sedang berguling |
-| `/msg [pengguna] [pesan]` | Mengirimkan sebuah pesan pribadi kepada `[pengguna]`. | `/msg Amigo` Saya sedang sakit. | (Di tab Amigo) John: Saya sedang sakit. |
 | `/np` | Menampilkan lagu yang sedang kamu dengarkan atau yang kamu mainkan pada obrolan | `/np` | (If playing) * John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/beatmapsets/22538) |
 | `/reply` or `/r` | Membalas ke pesan pribadi yang diterima terakhir kali. | `/r Kamu kenal dokter yang bagus?` | (Di tab Amigo) \[Komentar sebelumnya\] John: Saya sedang sakit. Amigo: Ah masa? John: Kamu kenal dokter yang bagus? |
 | `/savelog` | Menyimpan tab obrolan yang sedang dibuka menjadi sebuah berkas teks. | `/savelog` | (Sebuah folder bernama "Chat" akan dibuat di direktori) |

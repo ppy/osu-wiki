@@ -10,8 +10,8 @@ Bir [Beatmap Aday Gösterici](/wiki/People/Beatmap_Nominators) *(BN)* misiniz, y
 ## Önemli bağlantılar
 
 - [Beatmap Aday Gösterici Kuralları](/wiki/People/Beatmap_Nominators/Rules): Çeşitli eylemlerin nasıl ele alındığının, aynı zamanda nelerin yapılmaması gerektiğinin altını çizer - bunları çiğnemekten kaçınmak isteyebilirsiniz, bu yüzden dikkatlice okuyun! Eğer emin olmadığınız bir şeyler varsa her daim bir [Aday Gösterme Denetleme Takımı](/wiki/People/Nomination_Assessment_Team) *(NAT)* üyesine sorabilirsiniz, size seve seve yardımcı olacaklardır.
-- [Mapleme ve Modlama Etik Davranış Kuralları](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping): Bir BN olarak, sizden diğerlerinin örnek aldığı ve saygı gösterdiği topluluğun örnek bir figürü olmanız beklenir, dolayısıyla yetkilerinizi kötüye kullanmanız uyarılmanıza veya hatta atılmanıza neden olabilir.
-- [Derecelendirme Kriterleri](/wiki/Ranking_Criteria): Eğer zaten bir BN'seniz, bu size tanıdık gelecektir. Esasen, ne tür maplerin Dereceli bölümünde izin verilip verilmediğini açıklar, ve aynı zamanda kişilerin çoğu durumuda uyması gereken birtakım yönergeleri de içerir.
+- [Mapleme ve Modlama Etik Davranış Kuralları](/wiki/Rules/Code_of_conduct_for_modding_and_mapping): Bir BN olarak, sizden diğerlerinin örnek aldığı ve saygı gösterdiği topluluğun örnek bir figürü olmanız beklenir, dolayısıyla yetkilerinizi kötüye kullanmanız uyarılmanıza veya hatta atılmanıza neden olabilir.
+- [Derecelendirme Kriterleri](/wiki/Ranking_criteria): Eğer zaten bir BN'seniz, bu size tanıdık gelecektir. Esasen, ne tür maplerin Dereceli bölümünde izin verilip verilmediğini açıklar, ve aynı zamanda kişilerin çoğu durumuda uyması gereken birtakım yönergeleri de içerir.
 - [Beatmap Vetoları Hakkında Bilgilendirme](/wiki/People/Beatmap_Nominators/Beatmap_Veto): Derecelendirme Kriterlerinin kurallarını ve yönergelerini çiğnemese de kalitesinden öznel bir endişe duyulan, ancak bunun ilgili beatmapi Dereceli bölümü için uygunsuzluk oluşturacağını hissettiğiniz beatmapler için beatmap vetosu sizin beatmapi Niteliklendirilmeden alıkoymanızı sağlar.
 - [Mapset Verifier](https://osu.ppy.sh/community/forums/topics/943895): NAT üyesi [Naxess](https://osu.ppy.sh/users/8129817) tarafından oluşturulan bir araç. Bu araç geniş bir derecelendirilemez sorunlar yelpazesini kontrol eder, aynı zamanda yeniden kontrol ederken kolaylık sağlaması için mapleri kolayca karşılaştırmak amacıyla bir anlık görüntü özelliği barındırır. **Bu, sizin beatmapi kendinizin kontrol etmesinin yerini almamalı**, bunun yerine hiçbir şeyin gözden kaçıp kaçmadığını iki kez kontrol etmeye yardımcı olan bir araç olarak kullanılmalıdır.
 
@@ -54,7 +54,7 @@ Asil BN'ler arzu ettikleri zaman nitelikli beatmaplerdeki sorunları kontrol ede
 
 ### İçerik Denetimi
 
-Her BN şarkıların ve resimlerin moderasyonuna denetim için bir içerik göndererek veya denetimdeki bir içeriği oylayarak katkıda bulunabilir. Oylama sürecinin tamamı ve oylamaların nasıl sayıldığı [içerik oylama süreci makalesinde](/wiki/Rules/Content_Voting_Process) mevcuttur.
+Her BN şarkıların ve resimlerin moderasyonuna denetim için bir içerik göndererek veya denetimdeki bir içeriği oylayarak katkıda bulunabilir. Oylama sürecinin tamamı ve oylamaların nasıl sayıldığı [içerik oylama süreci makalesinde](/wiki/Rules/Content_voting_process) mevcuttur.
 
 ### Yapmacık Değerlendirmeler
 

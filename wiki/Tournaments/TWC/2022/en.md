@@ -43,6 +43,7 @@ The osu!taiko World Cup 2022 was run by various community members.
 | :-- | :-- |
 | Manager | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) |
 | Mappool selector | ::{ flag=FR }:: [Arrival](https://osu.ppy.sh/users/1694000), ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110), ::{ flag=US }:: [Lumenite-](https://osu.ppy.sh/users/6256027), ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910) |
+| Mapper | ::{ flag=HK }:: [\_mtk](https://osu.ppy.sh/users/9468283), ::{ flag=JP }:: [4sbet1](https://osu.ppy.sh/users/11563671), ::{ flag=HK }:: [aabc271](https://osu.ppy.sh/users/155707), ::{ flag=FR }:: [Arrival](https://osu.ppy.sh/users/1694000), ::{ flag=JP }:: [GNKait](https://osu.ppy.sh/users/9109047), ::{ flag=GB }:: [Grimbow](https://osu.ppy.sh/users/1387762), ::{ flag=FR }:: [Heaxys](https://osu.ppy.sh/users/5671417), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976), ::{ flag=JP }:: [iceOC](https://osu.ppy.sh/users/5482401), ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649), ::{ flag=JP }:: [KawaiiBass](https://osu.ppy.sh/users/11992585), ::{ flag=JP }:: [kei821](https://osu.ppy.sh/users/5846289), ::{ flag=JP }:: [KTYN](https://osu.ppy.sh/users/2250574), ::{ flag=US }:: [Lumenite\-](https://osu.ppy.sh/users/6256027), ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718), ::{ flag=AR }:: [Megafan](https://osu.ppy.sh/users/6632605), ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763), ::{ flag=HK }:: [Nardoxyribonucleic](https://osu.ppy.sh/users/876419), ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097), ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097), ::{ flag=FR }:: [Nofool](https://osu.ppy.sh/users/672430), ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766), ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099), ::{ flag=ES }:: [Raiden](https://osu.ppy.sh/users/2239480), ::{ flag=CA }:: [rubies87](https://osu.ppy.sh/users/4949934), ::{ flag=US }:: [Wadsy](https://osu.ppy.sh/users/2598555), ::{ flag=TW }:: [X a v y](https://osu.ppy.sh/users/3738344), ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) |
 | Commentator | ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=US }:: [driodx](https://osu.ppy.sh/users/9709548) ::{ flag=US }:: [Ethaaaan](https://osu.ppy.sh/users/9536977), ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352), ::{ flag=US }:: [Lumenite-](https://osu.ppy.sh/users/6256027), ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766), ::{ flag=GB }:: [Teezel](https://osu.ppy.sh/users/7528639), ::{ flag=AR }:: [Vaf](https://osu.ppy.sh/users/12589048) |
 | Referee | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=CH }:: [Icerite](https://osu.ppy.sh/users/7226287), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=IN }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
@@ -373,7 +374,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Saturday, March 26, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **New Zealand** ::{ flag=NZ }:: | **5** | 2 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/99114582) |
 | Portugal ::{ flag=PT }:: | 4 | **5** | ::{ flag=SG }:: **Singapore** | [#1](https://osu.ppy.sh/community/matches/99117585) |
@@ -385,7 +386,7 @@ Saturday, March 26, 2022
 
 Sunday, March 27, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | United States ::{ flag=US }:: | 4 | **5** | ::{ flag=AU }:: **Australia** | [#1](https://osu.ppy.sh/community/matches/99144573) |
 | **Hong Kong** ::{ flag=HK }:: | **5** | 1 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/99155883) |
@@ -403,7 +404,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Saturday, March 19, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Chile** ::{ flag=CL }:: | **5** | 2 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/98886392) |
 | **Malaysia** ::{ flag=MY }:: | **5** | 1 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/98889890) |
@@ -412,7 +413,7 @@ Saturday, March 19, 2022
 
 Sunday, March 20, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Brazil** ::{ flag=BR }:: | **5** | 0 | ::{ flag=NZ }:: New Zealand | [#1](https://osu.ppy.sh/community/matches/98911287) |
 | **South Korea** ::{ flag=KR }:: | **5** | 0 | ::{ flag=MX }:: Mexico | [#1](https://osu.ppy.sh/community/matches/98916980) |
@@ -434,7 +435,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 Qualifier results:
 
 | Seed | Country | Rank Sum |
-| :-: | :-- | :-: | 
+| :-: | :-- | :-: |
 | #1 | ::{ flag=JP }:: Japan | 16 |
 | #2 | ::{ flag=KR }:: South Korea | 36 |
 | #3 | ::{ flag=DE }:: Germany | 38 |

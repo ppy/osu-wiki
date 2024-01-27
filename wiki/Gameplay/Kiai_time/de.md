@@ -7,7 +7,7 @@ tags:
 
 # Kiai-Zeit
 
-*Für Regelungen zur Kiai-Zeit, siehe: [Ranking-Kriterien](/wiki/Ranking_Criteria)*
+*Für Regelungen zur Kiai-Zeit, siehe: [Ranking-Kriterien](/wiki/Ranking_criteria)*
 
 ::: Infobox
 ![](img/kiai-time-osu-gameplay.png "Fontänen am Anfang des Kiai-Abschnitts einer osu!-Beatmap")
@@ -27,7 +27,7 @@ Während die Kiai-Zeit keinen Einfluss auf die Spielmechanik von osu!, osu!catch
 ![](img/kiai-time-editor.png "Kiai-Anzeige im Beatmap-Editor. Der Kiai-Abschnitt hat eine orange Farbe auf der unteren Zeitleiste")
 :::
 
-Kiai-Zeit wird häufig für den intensivsten Teil eines Songs verwendet, der normalerweise der Refrain ist. Da Kiai-Sektionen der ausdrucksstärkste Teil eines Songs sind, sind sie meistens etwas anspruchsvoller im Spielen als der Rest der Beatmap. Kiai-Zeit kann für bestimmte [Timing-Sektionen](/wiki/Beatmapping/Timing_section) von einem Mapper im Tab `Style` des Panels `Timing and Control Points` eingeschaltet werden und kann nicht vom Spieler deaktiviert werden.
+Kiai-Zeit wird häufig für den intensivsten Teil eines Songs verwendet, der normalerweise der Refrain ist. Da Kiai-Sektionen der ausdrucksstärkste Teil eines Songs sind, sind sie meistens etwas anspruchsvoller im Spielen als der Rest der Beatmap. Kiai-Zeit kann für bestimmte [Timing-Sektionen](/wiki/Client/Beatmap_editor/Timing) von einem Mapper im Tab `Style` des Panels `Timing and Control Points` eingeschaltet werden und kann nicht vom Spieler deaktiviert werden.
 
 ## Referenzen
 

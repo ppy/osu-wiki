@@ -15,15 +15,15 @@ La **osu! World Cup 2019** (***OWC 2019***) fue un torneo por países organizado
 
 | Evento | Marca de tiempo |
 | --: | :-- |
-| Fase de registración | 2019-10-16/2019-10-27 |
-| Exhibición de la fase de clasificación | 2019-11-02 (14:00 UTC) |
-| Fase de clasificación | 2019-11-09/2019-11-10 |
-| Dieciseisavos de final | 2019-11-16/2019-11-17 |
-| Octavos de final | 2019-11-23/2019-11-24 |
-| Cuartos de final | 2019-11-30/2019-12-01 |
-| Semifinales | 2019-12-07/2019-12-08 |
-| Finales semana 1 | 2019-12-14/2019-12-15 |
-| Finales semana 2 | 2019-12-21/2019-12-22 |
+| Fase de registración | 16/10/2019 - 27/10/2019 |
+| Exhibición de la fase de clasificación | 2/11/2019 (14:00 UTC) |
+| Fase de clasificación | 9/11/2019 - 10/11/2019 |
+| Dieciseisavos de final | 16/11/2019 - 17/11/2019 |
+| Octavos de final | 23/11/2019 - 24/11/2019 |
+| Cuartos de final | 30/11/2019 - 1/12/2019 |
+| Semifinales | 7/12/2019 - 8/12/2019 |
+| Finales semana 1 | 14/12/2019 - 15/12/2019 |
+| Finales semana 2 | 21/12/2019 - 22/12/2019 |
 
 ## Premios
 
@@ -449,7 +449,7 @@ Domingo, 17 de noviembre de 2019:
 13. Se supone que todos los jugadores deben hacer que el partido se desarrolle con fluidez y sin demoras. Se pueden aplicar sanciones a los jugadores si causan retrasos excesivos en las partidas.
 14. Si un jugador se desconecta entre los mapas y el equipo no puede proporcionar un reemplazo, el partido puede retrasarse 10 minutos como máximo.
 15. Todos los jugadores y árbitros deben ser tratados con respeto. Se deben seguir las instrucciones de los árbitros y del Gerente del torneo. Las decisiones etiquetadas como finales no deben ser objetadas.
-16. Está estrictamente prohibido interrumpir el partido con juego sucio, elegir mapas de calentamiento inapropiados (ver más abajo), insultar y provocar a otros jugadores o árbitros, retrasar el partido u otro comportamiento inapropiado deliberado.
+16. Está estrictamente prohibido interrumpir el partido con juego sucio, elegir mapas de calentamiento inapropiados (ver más abajo), insultar y provocar a otros jugadores o árbitros, retrasar el partido u otra conducta inapropiada deliberada.
 17. Las salas de chat multijugador subyacen a las [reglas de la comunidad de osu!](/wiki/Rules).
     - Romper las reglas del chat da como resultado un silencio. Los jugadores silenciados no pueden participar en partidas multijugador y deben ser intercambiados por el momento.
 18. **El método de clasificación se revelará después de que todos los equipos hayan jugado sus rondas clasificatorias.**

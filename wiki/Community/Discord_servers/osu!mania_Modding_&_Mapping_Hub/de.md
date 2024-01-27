@@ -10,7 +10,7 @@
 
 |  |  |
 | :-- | :-- |
-| Einladungslink | <https://discord.gg/FqbDdYN> |
+| Einladungslink | <https://discord.gg/xX9r5GTQAp> |
 
 :::
 
@@ -28,8 +28,8 @@ Der Server besteht hauptsächlich aus:
 
 | Rolle | Benutzer (Discord-ID) |
 | :-- | :-- |
-| Server-Eigentümer | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) (FAMoss#8805) |
-| Server-Moderatoren | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) (FAMoss#8805), ::{ flag=DE }:: [Feerum](https://osu.ppy.sh/users/4815717) (Feerum#4291), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) (Maxus#9040), ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341) (Pope Gadget#7080), ::{ flag=CN }:: [Shima Rin](https://osu.ppy.sh/users/6089608) (Shima Rin#7859) |
+| Server-Eigentümer | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) (@maxus_) |
+| Server-Moderatoren | ::{ flag=GB }:: [epic man 2](https://osu.ppy.sh/users/14566000) (@epicman2), ::{ flag=KR }:: [Furryswan](https://osu.ppy.sh/users/9555243) (@furryswan), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) (@maxus_), ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) (@protastic101), ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) (@marticheca), ::{ flag=CA }:: [Shad0wStar](https://osu.ppy.sh/users/16866460) (@shad0wstar), ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) (@tailsdk), ::{ flag=AU }:: [zyletinee](https://osu.ppy.sh/users/18971387) (@zyletinee) |
 
 ## Verifizierung
 

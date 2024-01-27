@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: ee4fd04f1b790646825513549a59fc30a1970afa
+---
+
 # Personen
 
 Indexseite für Artikel über Personen oder Gruppen.
@@ -19,7 +24,6 @@ Indexseite für Artikel über Personen oder Gruppen.
 - [osu! Alumni](osu!_Alumni)
 - [osu!-Team](osu!_team)
 - [Betreuer des osu!-Wikis](osu!_wiki_maintainers)
-- [osu!monthly-Team](osu!monthly_team)
 
 ## Ehemalig
 

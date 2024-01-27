@@ -19,9 +19,9 @@ tags:
 | Lobby temporaire : Playlist B | 16 octobre - 23 octobre 2020 |
 | Lobby temporaire : Playlist C | 23 octobre - 30 octobre 2020 |
 | Lobby temporaire : Playlist D | 30 octobre - 6 novembre 2020 |
-| Interruption  | 6 novembre - 13 novembre 2020 |
+| Interruption | 6 novembre - 13 novembre 2020 |
 | Lobby temporaire : Playlist A | 13 novembre - 20 novembre 2020 |
-| Interruption  | 20 novembre - 27 novembre 2020 |
+| Interruption | 20 novembre - 27 novembre 2020 |
 | Lobby temporaire : Playlist B | 27 novembre - 4 décembre 2020 |
 | Lobby temporaire : Playlist C | 4 décembre - 11 décembre 2020 |
 | Lobby temporaire : Playlist D | 11 décembre - 29 décembre 2020 |
@@ -32,7 +32,7 @@ tags:
 Pour l'instant, les participants doivent télécharger et installer [osu!(lazer)](/wiki/Client/Release_stream/Lazer) pour rejoindre les lobbies multijoueurs hebdomadaires.
 
 1. Les lobbies seront ouverts toute la semaine.
-2. La playlist comprendra désormais des mods
+2. La playlist comprendra désormais des mods.
    - Les beatmaps avec mods sont des copies de l'original et leur but est de donner du fil à retordre aux joueurs expérimentés.
    - Aucun mod ne sera disponible pour le mode osu!taiko en raison des limitations d'osu!(lazer) dans cette saison.
 

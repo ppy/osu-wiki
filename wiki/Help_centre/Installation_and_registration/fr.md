@@ -19,21 +19,21 @@ tags:
 
 Cette section est consacrée aux problèmes liés à l'installation d'osu! et à la création de votre propre compte.
 
-## Installation {#installation}
+## Installation {id=installation}
 
 *Page principale : [Installation](/wiki/Client/Installation)*
 
-### Comment télécharger osu! ? {#download}
+### Comment télécharger osu! ? {id=download}
 
 **Il vous suffit de cliquer sur le lien `Téléchargement` situé sur la [page d'accueil du site officiel d'osu!](https://osu.ppy.sh/home). Vous pouvez également trouver le lien dans la section `Accueil` de la barre de navigation de n'importe quelle page.**
 
 Vous pouvez également [cliquer ici](https://osu.ppy.sh/home/download) pour un lien direct vers la page de téléchargement.
 
-## Inscription {#registration}
+## Inscription {id=registration}
 
 *Page principale : [Inscription](/wiki/Registration)*
 
-### Où puis-je m'inscrire sur osu! ? {#how-to-register}
+### Où puis-je m'inscrire sur osu! ? {id=how-to-register}
 
 **Téléchargez osu! [ici](https://osu.ppy.sh/home/download), puis lancez-le. Le jeu vous proposera une section où vous pourrez créer un compte.**
 

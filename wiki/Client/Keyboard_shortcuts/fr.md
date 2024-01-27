@@ -173,7 +173,7 @@ Ces raccourcis fonctionnent partout dans l'éditeur de beatmaps :
 | `F1` | Passe en mode [compose](/wiki/Client/Beatmap_editor/Compose). |
 | `F2` | Passe en mode [design](/wiki/Client/Beatmap_editor/Design). |
 | `F3` | Passe en mode [timing](/wiki/Client/Beatmap_editor/Timing). |
-| `F4` | Ouvre la boîte de dialogue [song setup](/wiki/Client/Beatmap_editor/Song_Setup). |
+| `F4` | Ouvre la boîte de dialogue [song setup](/wiki/Client/Beatmap_editor/Song_setup). |
 | `F5` | Entre en mode test. |
 | `F6` | Ouvre la boîte de dialogue des points de contrôle et de synchronisation. |
 | `Ctrl` + `P` | Ajoute un point de timing non hérité à l'horodatage actuel. Si vous n'êtes pas en mode timing, cela ouvrira également le dialogue de timing et de points de contrôle. |
@@ -266,7 +266,7 @@ Ces raccourcis fonctionnent partout dans l'éditeur de beatmaps :
 
 | Raccourci | Action |
 | :-- | :-- |
-| `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8`, or `9`) | Définit le [diviseur de mesure](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) à 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 et 1/9 respectivement. |
+| `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8`, or `9`) | Définit le [diviseur de mesure](/wiki/Client/Beatmap_editor/Beat_snap_divisor) à 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 et 1/9 respectivement. |
 | `Shift` (tout en glissant dans la timeline) | Ignore le snapping du diviseur de mesure. |
 | `J` | Recule la sélection d'un diviseur. |
 | `K` | Avance la sélection d'un diviseur. |

@@ -37,7 +37,8 @@ The Yuyuko's Hidden Cup Season 2 was run by various community members.
 | :-- | :-- |
 | Manager | ::{ flag=CN }:: [SIyuyuko](https://osu.ppy.sh/users/9794030) |
 | Mappool selector | ::{ flag=CN }:: [SIyuyuko](https://osu.ppy.sh/users/9794030), ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
-| Mappool playtester | ::{ flag=CN }:: [Hakumo Shiro](https://osu.ppy.sh/users/5179557), ::{ flag=CN }:: [Hakumo Ai](https://osu.ppy.sh/users/5179557), ::{ flag=CN }:: [VialVistas](https://osu.ppy.sh/users/9697708), ::{ flag=CN }:: [Crystal](https://osu.ppy.sh/users/1646397) ::{ flag=CN }:: [Sayori\_yui](https://osu.ppy.sh/users/7183040) ::{ flag=CN }:: [Senbe1](https://osu.ppy.sh/users/6911753) |
+| Mappool playtester | ::{ flag=CN }:: [SIyuyuko](https://osu.ppy.sh/users/9794030), ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
+| Showcaser | ::{ flag=CN }:: [Hakumo Shiro](https://osu.ppy.sh/users/5179557), ::{ flag=CN }:: [Hakumo Ai](https://osu.ppy.sh/users/694480), ::{ flag=CN }:: [VialVistas](https://osu.ppy.sh/users/9697708), ::{ flag=CN }:: [Crystal](https://osu.ppy.sh/users/1646397), ::{ flag=CN }:: [Sayori\_yui](https://osu.ppy.sh/users/7183040), ::{ flag=CN }:: [Senbe1](https://osu.ppy.sh/users/6911753), ::{ flag=CN }:: [carrywind](https://osu.ppy.sh/users/12228018) |
 | Streamer | ::{ flag=CN }:: [SIyuyuko](https://osu.ppy.sh/users/9794030), ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
 | Commentator | ::{ flag=CN }:: [SIyuyuko](https://osu.ppy.sh/users/9794030), ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
 | Designer | ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
@@ -56,7 +57,7 @@ The Yuyuko's Hidden Cup Season 2 was run by various community members.
 | Team code | Team name | Members |
 | :-: | :-: | :-- |
 | **A** | **老年娱乐** | [**Spell**](https://osu.ppy.sh/users/13003552), [\_Yukinoshita](https://osu.ppy.sh/users/15343685), [HUYI520](https://osu.ppy.sh/users/15337997), [mike233333](https://osu.ppy.sh/users/15436106), [lizhanyiawa](https://osu.ppy.sh/users/13928307) |
-| **B** | **无所谓 帕老师会出手** | [**QianLi1611**](https://osu.ppy.sh/users/36367809), [The Origin](https://osu.ppy.sh/users/10225377), [USAIKO](https://osu.ppy.sh/users/30018494), [AliceMana](https://osu.ppy.sh/users/11531025), [LimeSeptum](https://osu.ppy.sh/users/13256419) |
+| **B** | **无所谓 帕老师会出手** | [**QianLi1611**](https://osu.ppy.sh/users/30367809), [The Origin](https://osu.ppy.sh/users/10225377), [USAIKO](https://osu.ppy.sh/users/30018494), [AliceMana](https://osu.ppy.sh/users/11531025), [LimeSeptum](https://osu.ppy.sh/users/13256419) |
 | **C** | **已经结束啦** | [**Ayaaaachi**](https://osu.ppy.sh/users/16022736), [innnnovation](https://osu.ppy.sh/users/18443135), [dawnstar](https://osu.ppy.sh/users/17426219), [eric1388](https://osu.ppy.sh/users/20384257), [Lzq12345](https://osu.ppy.sh/users/15012640) |
 | **D** | **懒人三项** | [**RoyMaster**](https://osu.ppy.sh/users/28365836), [Sakura Luna](https://osu.ppy.sh/users/1608105), [cirnosaikyo](https://osu.ppy.sh/users/19971407), [small_pineapple](https://osu.ppy.sh/users/20989945), [\_Eilphy](https://osu.ppy.sh/users/15175276) |
 | **E** | **主播教我HD刷170** | [**Neutron torpedo**](https://osu.ppy.sh/users/24657559), [SugersakiE](https://osu.ppy.sh/users/15091523), [Kevin0036](https://osu.ppy.sh/users/24004891), [qimengxunkong](https://osu.ppy.sh/users/16849347), [dongguadongde](https://osu.ppy.sh/users/28494479) |
@@ -104,7 +105,7 @@ This competition has come to an end and resulted in the following podium:
 - DoubleTime
   1. [Ylvis - The Fox (W h i t e) [Fox]](https://osu.ppy.sh/beatmapsets/119980#osu/307804)
   2. [kozato - Tsuki -Yue- (Gust) [kanor's Hard]](https://osu.ppy.sh/beatmapsets/1401651#osu/2896899)
-  3. [Lana Del Rey - Summertime Sadness (piroshki) [A Sweet Kiss]](https://osu.ppy.sh/beatmapsets/1401651#osu/2896899)
+  3. [Lana Del Rey - Summertime Sadness (piroshki) [A Sweet Kiss]](https://osu.ppy.sh/beatmapsets/1113209#osu/2325564)
 - FreeMod
   1. [Charli XCX - Boom Clap (schoolboy) [Expert]](https://osu.ppy.sh/beatmapsets/730792#osu/1542345)
   2. [Soleily feat. SUNRaiSE - Rise Above (Nytrocide\_) [-Sylvari's Insane]](https://osu.ppy.sh/beatmapsets/1767895#osu/3661739)
@@ -210,7 +211,7 @@ This competition has come to an end and resulted in the following podium:
 6. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins are allowed.
    - Custom skin elements must not be used to alter core gameplay elements or mechanics in unintended ways.
 7. If less than the minimum amount of required players are present at match time, the match can be postponed for up to 10 minutes. If after this period there are still not enough players for either team, a win by default will be declared for the side with the most members present.
-   - The minimum amount of required players is the amount of players needed to play a beatmap without any vacant spots in the lobby (i.e. 3 participants must be present for the match to begin). 
+   - The minimum amount of required players is the amount of players needed to play a beatmap without any vacant spots in the lobby (i.e. 3 participants must be present for the match to begin).
 8. Exchanging players between games is allowed without limitations.
 9. If a game ends in a draw, it will be nullified and the beatmap will be replayed.
 10. Teams may ask for a rematch if a team member encounters technical issues while playing within 30 seconds or 25% of the beatmap drain length (whichever happens first) of the game's start. Referees may, at their discretion, veto this request.
@@ -266,7 +267,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Win condition
 
-1. No team will be eliminated in the group stage, the result of the group stage will only affect the ranking of the team in the eliminating stage. 
+1. No team will be eliminated in the group stage, the result of the group stage will only affect the ranking of the team in the eliminating stage.
 2. In the Group Stage (Round 1), teams need to win 5 maps to win a match (best of 9).
 3. In the Elimination Stage 1 (Round 2), teams need to win 6 maps to win a match (best of 11).
 4. In the Elimination Stage 2 (Round 3), teams need to win 7 maps to win a match (best of 13).

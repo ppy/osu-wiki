@@ -1,0 +1,838 @@
+# 自定义音效
+
+音效的可用格式有 `.wav`、`.mp3` 和/或 `.ogg`。
+
+## 界面
+
+### 主菜单
+
+`heartbeat.wav`
+
+备注：
+
+- 光标放在主菜单的 osu! 粉饼上时播放。
+
+---
+
+`seeya.wav`
+
+- 需要 [osu! 支持者](/wiki/osu!supporter)标签来修改。
+- 关闭 osu! 客户端时播放。
+- 可以在[设置](/wiki/Client/Options)中禁用。
+
+---
+
+`welcome.wav`
+
+- 需要 [osu! 支持者](/wiki/osu!supporter)标签来修改。
+- 启动 osu! 客户端时播放。
+- 可以在[设置](/wiki/Client/Options)中禁用。
+
+### 按键
+
+`key-confirm.wav`
+
+备注：
+
+- 在聊天面板中发送消息时播放。
+
+---
+
+`key-delete.wav`
+
+备注：
+
+- 在聊天面板中删除文本时播放。
+
+---
+
+`key-movement.wav`
+
+备注：
+
+- 改变文本光标位置时播放。
+
+---
+
+`key-press-1.wav`
+
+备注：
+
+- 在聊天、搜索、编辑等界面按键时播放。
+
+---
+
+`key-press-2.wav`
+
+备注：
+
+- 在聊天、搜索、编辑等界面按键时播放。
+
+---
+
+`key-press-3.wav`
+
+备注：
+
+- 在聊天、搜索、编辑等界面按键时播放。
+
+---
+
+`key-press-4.wav`
+
+备注：
+
+- 在聊天、搜索、编辑等界面按键时播放。
+
+### 点击
+
+`back-button-click.wav`
+
+备注：
+
+- 按下返回按钮时播放。
+
+---
+
+`check-on.wav`
+
+备注：
+
+- 勾选复选框或启用模组时播放。
+
+---
+
+`check-off.wav`
+
+备注：
+
+- 取消勾选复选框或禁用模组时播放。
+
+---
+
+`click-close.wav`
+
+备注：
+
+- 关闭聊天标签页时播放。
+
+---
+
+`click-short-confirm.wav`
+
+备注：
+
+- 点击确认按钮或下拉菜单选项、打开及关闭聊天面板、切换聊天标签页或组别时播放。
+
+---
+
+`menuback.wav`
+
+备注：
+
+- 点击 `menu-back` 或返回上一界面时播放。
+
+---
+
+`menuhit.wav`
+
+备注：
+
+- 确认切换界面的选项时播放。
+
+---
+
+`menu-back-click.wav`
+
+备注：
+
+- 点击主菜单中的`返回 (Back)` 按钮时播放。
+
+---
+
+`menu-direct-click.wav`
+
+备注：
+
+- 点击主菜单中的 `osu!direct` 按钮时播放。
+
+---
+
+`menu-edit-click.wav`
+
+备注：
+
+- 点击主菜单中的`编辑 (Edit)` 按钮时播放。
+
+---
+
+`menu-exit-click.wav`
+
+备注：
+
+- 点击主菜单中的`退出 (Exit)` 按钮时播放。
+
+---
+
+`menu-freeplay-click.wav`
+
+备注：
+
+- 点击主菜单中的`单人游戏 (Solo)` 按钮时播放。
+
+---
+
+`menu-multiplayer-click.wav`
+
+备注：
+
+- 点击主菜单中的 `Multiplayer` 按钮时播放。
+
+---
+
+`menu-options-click.wav`
+
+备注：
+
+- 点击主菜单中的`设置 (Options)` 按钮时播放。
+
+---
+
+`menu-play-click.wav`
+
+备注：
+
+- 点击主菜单中的`游玩 (Play)` 按钮时播放。
+
+---
+
+`pause-back-click.wav`
+
+备注：
+
+- 点击暂停菜单中的`返回菜单 (Back to Menu)` 按钮时播放。
+
+---
+
+`pause-continue-click.wav`
+
+备注：
+
+- 点击暂停菜单中的`继续 (Continue)` 按钮时播放。
+
+---
+
+`pause-retry-click.wav`
+
+备注：
+
+- 点击暂停菜单中的`重试 (Retry)` 按钮时播放。
+
+---
+
+`select-expand.wav`
+
+备注：
+
+- 切换到选歌界面、选中谱面、打开下拉菜单及聊天标签页时播放。
+
+---
+
+`select-difficulty.wav`
+
+备注：
+
+- 选中谱面难度时播放。
+
+---
+
+`shutter.wav`
+
+备注：
+
+- 截图时播放。
+
+### 悬停
+
+`back-button-hover.wav`
+
+备注：
+
+- 光标悬停在返回按钮上时播放。
+
+---
+
+`click-short.wav`
+
+备注：
+
+- 光标悬停在除谱面、主界面按钮外所有可选择的框上时播放。
+
+---
+
+`menuclick.wav`
+
+备注：
+
+- 光标悬停在难度上时播放。
+
+---
+
+`menu-back-hover.wav`
+
+备注：
+
+- 光标悬停在主菜单中的返回 (Back) 按钮上时播放。
+
+---
+
+`menu-direct-hover.wav`
+
+备注：
+
+- 光标悬停在主菜单中的 Direct 按钮上时播放。
+
+---
+
+`menu-edit-hover.wav`
+
+备注：
+
+- 光标悬停在主菜单中的编辑 (Edit) 按钮上时播放。
+
+---
+
+`menu-exit-hover.wav`
+
+备注：
+
+- 光标悬停在主菜单中的退出 (Exit) 按钮上时播放。
+
+---
+
+`menu-freeplay-hover.wav`
+
+备注：
+
+- 光标悬停在主菜单中的单人游戏 (Solo) 按钮上时播放。
+
+---
+
+`menu-multiplayer-hover.wav`
+
+备注：
+
+- 光标悬停在主菜单中的多人游戏 (Multiplayer) 按钮上时播放。
+
+---
+
+`menu-options-hover.wav`
+
+备注：
+
+- 光标悬停在主菜单中的设置 (Options) 按钮上时播放。
+
+---
+
+`menu-play-hover.wav`
+
+备注：
+
+- 光标悬停在主菜单中的游玩 (Play) 按钮上时播放。
+
+---
+
+`pause-hover.wav`
+
+---
+
+`pause-back-hover.wav`
+
+备注：
+
+- 光标悬停在暂停菜单中的返回 (Back) 按钮上时播放。
+
+---
+
+`pause-continue-hover.wav`
+
+备注：
+
+- 光标悬停在暂停菜单中的继续 (Continue) 按钮上时播放。
+
+---
+
+`pause-retry-hover.wav`
+
+备注：
+
+- 光标悬停在暂停菜单中的重试 (Retry) 按钮上时播放。
+
+### 拖动
+
+`sliderbar.wav`
+
+备注：
+
+- 使用滑块改变设置时播放。
+
+---
+
+`whoosh.wav`
+
+备注：
+
+- 到目前为止，此音效已被禁用。
+
+### 多人游戏
+
+`match-confirm.wav`
+
+备注：
+
+- 所有玩家都准备好时播放。
+
+---
+
+`match-join.wav`
+
+备注：
+
+- 玩家进入房间时播放。
+
+---
+
+`match-leave.wav`
+
+备注：
+
+- 玩家退出房间时播放。
+
+---
+
+`match-notready.wav`
+
+备注：
+
+- 玩家撤销准备信号时播放。
+
+---
+
+`match-ready.wav`
+
+备注：
+
+- 玩家准备好时播放。
+
+---
+
+`match-start.wav`
+
+备注：
+
+- 比赛开始时播放。
+- 也是[聊天中的提及](/wiki/Client/Interface/Chat_console/Highlight)音效。
+
+### 节拍器
+
+`metronomelow.wav`
+
+备注：
+
+- 在谱面编辑器中，会为白色弱拍播放此音效；但编辑器只会使用默认音效。
+- 尽管上述情况存在，此音效也可以用来自定义偏移量调节向导和 osu!catch 中香蕉的音效（每接到一个香蕉，音调都会上升）。
+
+## 游玩
+
+下列游戏声音都可以在谱面皮肤中自定义。
+
+### 倒计时
+
+`count.wav`
+
+备注：
+
+- 这会替换 `count{n}s` 音效（如果需要单个音效）。
+- 这也是 target practice 模组的节拍器音效。
+
+---
+
+`count1s.wav`
+
+---
+
+`count2s.wav`
+
+---
+
+`count3s.wav`
+
+---
+
+`gos.wav`
+
+---
+
+`readys.wav`
+
+### 游玩界面
+
+`comboburst.wav`
+
+备注：
+
+- 对于多个声音，请使用 `comboburst-{n}.wav`。
+- 在 [skin.ini](/wiki/Skinning/skin.ini) 中，如果将 `CustomComboBurstSounds` 设置为 `1`，则必须使用 `comboburst-{n}.wav`。
+
+---
+
+`combobreak.wav`
+
+备注：
+
+- 玩家断掉 20 及以上的连击时播放。
+
+---
+
+`failsound.wav`
+
+备注：
+
+- 任何时候游玩谱面失败时播放。
+- 持续时间不应超过失败动画时长（约 5 秒）。
+- 由于每次游玩谱面时都会加载此音效，尽管你不失败，音效长度过长也会影响客户端性能。其大小不应超过几 KB。
+
+---
+
+`sectionpass.wav`
+
+备注：
+
+- 休息时段中途剩余血量较高时使用。
+
+---
+
+`sectionfail.wav`
+
+备注：
+
+- 休息时段中途剩余血量较低时使用。
+
+### 游戏界面
+
+`applause.wav`
+
+备注：
+
+- 在完成谱面后的结算屏幕中会播放此音效。
+- 对于旨在上架的谱面，此音效格式应为 `.mp3` 或 `.ogg`。
+- 音效长度过长会影响客户端性能。其大小不应超过几 KB。
+
+---
+
+`pause-loop.wav`
+
+备注：
+
+- 游戏暂停时播放。
+- 此音效循环播放。
+- 客户端失去焦点时，此音效会渐隐。
+- 音效长度过长会影响客户端性能。其大小不应超过几 KB。
+
+### 打击音效
+
+除非出于特殊目的，否则音效延迟不得大于 5 毫秒。
+
+#### Drum 组
+
+`drum-hitnormal.wav`
+
+备注：
+
+- 在谱面皮肤中被编为 `D:C1`。
+
+---
+
+`drum-hitclap.wav`
+
+备注：
+
+- 在谱面皮肤中被编为 `D:C1`。
+
+---
+
+`drum-hitfinish.wav`
+
+备注：
+
+- 在谱面皮肤中被编为 `D:C1`。
+
+---
+
+`drum-hitwhistle.wav`
+
+备注：
+
+- 在谱面皮肤中被编为 `D:C1`。
+
+---
+
+`drum-slidertick.wav`
+
+备注：
+
+- 在谱面皮肤中被编为 `D:C1`。
+
+---
+
+`drum-sliderslide.wav`
+
+备注：
+
+- 在谱面皮肤中被编为 `D:C1`。
+- 此音效循环播放。
+
+---
+
+`drum-sliderwhistle.wav`
+
+备注：
+
+- 在谱面皮肤中被编为 `D:C1`。
+- 此音效循环播放。
+
+#### Normal 组
+
+`normal-hitnormal.wav`
+
+备注：
+
+- 在谱面皮肤中被编为 `N:C1`。
+
+---
+
+`normal-hitclap.wav`
+
+备注：
+
+- 在谱面皮肤中被编为 `N:C1`。
+
+---
+
+`normal-hitfinish.wav`
+
+备注：
+
+- 在谱面皮肤中被编为 `N:C1`。
+
+---
+
+`normal-hitwhistle.wav`
+
+备注：
+
+- 在谱面皮肤中被编为 `N:C1`。
+
+---
+
+`normal-slidertick.wav`
+
+备注：
+
+- 在谱面皮肤中被编为 `N:C1`。
+
+---
+
+`normal-sliderslide.wav`
+
+备注：
+
+- 在谱面皮肤中被编为 `N:C1`。
+- 此音效循环播放。
+
+---
+
+`normal-sliderwhistle.wav`
+
+备注：
+
+- 在谱面皮肤中被编为 `N:C1`。
+- 此音效循环播放。
+
+#### Soft 组
+
+`soft-hitnormal.wav`
+
+备注：
+
+- 在谱面皮肤中被编为 `S:C1`。
+
+---
+
+`soft-hitclap.wav`
+
+备注：
+
+在谱面皮肤中被编为 `S:C1`。
+
+---
+
+`soft-hitfinish.wav`
+
+备注：
+
+在谱面皮肤中被编为 `S:C1`。
+
+---
+
+`soft-hitwhistle.wav`
+
+备注：
+
+在谱面皮肤中被编为 `S:C1`。
+
+---
+
+`soft-slidertick.wav`
+
+备注：
+
+在谱面皮肤中被编为 `S:C1`。
+
+---
+
+`soft-sliderslide.wav`
+
+备注：
+
+- 在谱面皮肤中被编为 `S:C1`。
+- 此音效循环播放。
+
+---
+
+`soft-sliderwhistle.wav`
+
+备注：
+
+- 在谱面皮肤中被编为 `S:C1`。
+- 此音效循环播放。
+
+#### 转盘组
+
+`spinnerspin.wav`
+
+备注：
+
+- 此音效循环播放。
+- 此音效音调会在 ~500 hz 到 80000 hz 间变化。
+  - 将 `SpinnerFrequencyModulate` 设置为 `0` 来禁用。
+
+---
+
+`spinnerbonus.wav`
+
+备注：
+
+- 每从转盘得到 1000 分时播放。
+
+#### osu!taiko 特定
+
+##### Normal 组
+
+`taiko-normal-hitnormal.wav`
+
+备注：
+
+- 在谱面皮肤中被编为 `N:C1`。
+
+---
+
+`taiko-normal-hitclap.wav`
+
+备注：
+
+- 在谱面皮肤中被编为 `N:C1`。
+
+---
+
+`taiko-normal-hitfinish.wav`
+
+备注：
+
+- 在谱面皮肤中被编为 `N:C1`。
+
+---
+
+`taiko-normal-hitwhistle.wav`
+
+备注：
+
+- 在谱面皮肤中被编为 `N:C1`。
+
+##### Soft 组
+
+`taiko-soft-hitnormal.wav`
+
+备注：
+
+- 在谱面皮肤中被编为 `S:C1`。
+
+---
+
+`taiko-soft-hitclap.wav`
+
+备注：
+
+- 在谱面皮肤中被编为 `S:C1`。
+
+---
+
+`taiko-soft-hitfinish.wav`
+
+备注：
+
+- 在谱面皮肤中被编为 `S:C1`。
+
+---
+
+`taiko-soft-hitwhistle.wav`
+
+备注：
+
+- 在谱面皮肤中被编为 `S:C1`。
+
+##### Drum 组
+
+`taiko-drum-hitnormal.wav`
+
+备注：
+
+- 在谱面皮肤中被编为 `D:C1`。
+- 仅在此音效被编入谱面并已导入时播放。
+
+---
+
+`taiko-drum-hitclap.wav`
+
+备注：
+
+- 在谱面皮肤中被编为 `D:C1`。
+- 仅在此音效被编入谱面并已导入时播放。
+
+---
+
+`taiko-drum-hitfinish.wav`
+
+备注：
+
+- 在谱面皮肤中被编为 `D:C1`。
+- 仅在此音效被编入谱面并已导入时播放。
+
+---
+
+`taiko-drum-hitwhistle.wav`
+
+备注：
+
+- 在谱面皮肤中被编为 `D:C1`。
+- 仅在此音效被编入谱面并已导入时播放。

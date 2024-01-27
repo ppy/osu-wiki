@@ -8,7 +8,7 @@ Skinning är en av de viktigaste funktionerna i osu!. Det gör det möjligt för
 
 ## Skinning sets
 
-*Huvudsida: [Skin Set List](/wiki/Ranking_Criteria/Skin_Set_List)*
+*Huvudsida: [Skin Set List](/wiki/Ranking_criteria/Skin_set_list)*
 
 **Endast för beatmaps,** ifall ditt beatmap-skin innehåller ett enda element från de listade uppsättningarna i rankingkriterierna måste det innehålla alla de andra elementen i nämnda uppsättning. Detta gäller endast beatmap-skin, men andra skinnare kan också ta hänsyn till dessa listor.
 

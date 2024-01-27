@@ -30,7 +30,7 @@ Wenn du Windows 7 64-Bit benutzt, kann es zu Problemen bei der Installation komm
 **Wenn das Installationsprogramm Fehler während der Installierung ausgibt, dann kannst du Folgendes probieren:**
 
 - Versuche die neueste Version des .NET-Frameworks zu reinstallieren. [Du findest es hier](https://dotnet.microsoft.com/download).
-- Räume deinen Computer auf - scanne mit Hilfe eines Antivirenprogramms, oder säubere die Registrierungsdatenbank (Registry). Ein gutes Programm, um den Computer oberflächlich zu reinigen, ist CCleaner. Durchsuche damit sowohl deine Dateien als auch die Registry. Das Installationsprogramm scheitert oft, wenn noch Registry-Einträge von alten Versionen von osu! auf deinem System vorhanden sind.
+- Räume deinen Computer auf! Scanne mit Hilfe eines Antivirenprogramms oder säubere die Registrierungsdatenbank (Registry). Ein gutes Programm, um den Computer oberflächlich zu reinigen, ist CCleaner. Durchsuche damit sowohl deine Dateien als auch die Registry. Das Installationsprogramm scheitert oft, wenn noch Registry-Einträge von alten Versionen von osu! auf deinem System vorhanden sind.
 
 ## Beatmaps hinzufügen
 
@@ -44,7 +44,7 @@ Es gibt zwei Arten, Beatmaps zu installieren: Über die Webseite oder durch osu!
 2. Such' dir ein Lied aus, das du gerne spielen würdest.
 3. Klicke auf das "Herunterladen"-Icon, um die Beatmap auf deinem Computer zu speichern.
 4. Finde und öffne die Datei (die Dateiendung ist `.osz`).
-   - Alternativ kannst du die Datei auch im `Songs`-Verzeichnis deiner osu!-Installation ablegen.
+   - Alternativ kannst du die Datei auch im Verzeichnis `Songs` deiner osu!-Installation ablegen.
 5. Den Rest wird osu! automatisch für dich erledigen.
    - Falls du die neue Beatmap aus irgendeinem Grund nicht sehen kannst, drücke `F5` im Einzelspielermodus, um alle Beatmaps erneut zu verarbeiten.
 
@@ -71,7 +71,7 @@ Es gibt zwei Arten, Beatmaps zu installieren: Über die Webseite oder durch osu!
      2. osu! wird den Rest von alleine erledigen.
    - Wenn der Skin komprimiert ist (z.B. `.7z`, `.rar`, `.zip`):
      1. Entpacke das Archiv.
-     2. Verschiebe den entpackten Ordner in das `Skins`-Verzeichnis deiner osu!-Installation.
+     2. Verschiebe den entpackten Ordner in das Verzeichnis `Skins` deiner osu!-Installation.
      3. Wenn osu! geöffnet ist, wird der Skin nach dem Drücken von `Strg` + `Alt` + `Shift` + `S` erscheinen.
      4. Begib dich in osu! in die [Optionen](/wiki/Client/Options) und suche nach `Skin`.
      5. Scrolle runter zur Option `Skin auswählen` und wähle deinen neuen Skin aus.

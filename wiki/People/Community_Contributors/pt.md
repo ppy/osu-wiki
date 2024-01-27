@@ -4,7 +4,13 @@ outdated_translation: true
 
 # Contribuidores da Comunidade
 
-![Emblema de Contribuidor](/wiki/shared/contributor.jpg "Emblema de Contribuidor")
+::: Infobox
+![Old era contributor badge](/wiki/shared/contributor-old-era.png "Old era contributor badge")
+:::
+
+::: Infobox
+![New era contributor badge](/wiki/shared/contributor-new-era.png "New era contributor badge")
+:::
 
 Os **Contribuidores da Comunidade** são as pessoas que deram tudo se si para o bem da comunidade do osu! - criando ferramentas e funcionalidades que usamos com frequência hoje. Essas pessoas ganharam um emblema que indica que eles fizeram algo notável pela comunidade.
 

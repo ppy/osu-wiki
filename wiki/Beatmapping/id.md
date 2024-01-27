@@ -19,7 +19,7 @@ Klik musik, kemudian otomatis akan terbuka [beatmap editor](/wiki/Client/Beatmap
 
 ### Song Setup
 
-*Lihat juga: [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup)*
+*Lihat juga: [Song Setup](/wiki/Client/Beatmap_editor/Song_setup)*
 
 Ketika akan membuat [mapset](/wiki/Beatmap) baru, Kamu akan melihat dialog ini sebelum menemukan bagian lain yang terdapat di beatmap editor.
 

@@ -611,7 +611,7 @@ Notes :
 
 ## Assistant de décalage
 
-*Page principale : [Assistant de décalage](/wiki/Guides/How_to_Use_the_Offset_Wizard)*
+*Page principale : [Assistant de décalage](/wiki/Guides/How_to_use_the_Offset_Wizard)*
 
 ---
 
@@ -718,7 +718,7 @@ Notes :
 Notes :
 
 - Utilisé lors de l'utilisation de storyboards 4:3 sur écran large.
-- Pendant le beatmapping, désactivez le `support écran large` dans [song setup](/wiki/Client/Beatmap_editor/Song_Setup) pour que cela apparaisse.
+- Pendant le beatmapping, désactivez le `support écran large` dans [song setup](/wiki/Client/Beatmap_editor/Song_setup) pour que cela apparaisse.
 - Cet élément est étiré pour s'adapter à la surface nécessaire.
 - Le pilier droit est retourné à l'horizontale.
 

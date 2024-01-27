@@ -16,7 +16,7 @@ Om een nieuwe beatmap te maken moet je naar de edit mode gaan en een audiobestan
 
 ### Song Setup
 
-*Hoofdpagina: [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup)*
+*Hoofdpagina: [Song Setup](/wiki/Client/Beatmap_editor/Song_setup)*
 
 Tijdens het maken van een nieuwe [beatmap](/wiki/Beatmap) zul je altijd dit dialoogvenster als eerste zien voordat je verder kan.
 
@@ -28,7 +28,7 @@ Je kunt gelijk de instellingen in de andere tabbladen aanpassen als je wilt, maa
 
 *Hoofdpagina: [Timing](/wiki/Client/Beatmap_editor/Timing)*
 
-**Timing is essentieel!** 
+**Timing is essentieel!**
 Incorrect getimede mappen kunnen niet geranked worden. Zorg er dus goed voor dat je timing perfect is voordat je [hitobjecten](/wiki/Gameplay/Hit_object) toevoegt.
 
 Als je twijfelt over timing, vraag dan eerst een mod om hulp of dien je nummer bij de [Beatmap Help forum](https://osu.ppy.sh/community/forums/10) in. Dit bespaart jou (en de modding community) een hoop tijd later in het proces.

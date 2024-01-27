@@ -18,21 +18,21 @@ tags:
 
 Laman ini akan membahas berbagai permasalahan dan pertanyaan yang sering diutarakan seputar instalasi dan pendaftaran akun osu! secara garis besar.
 
-## Instalasi {#installation}
+## Instalasi {id=installation}
 
 *Laman utama: [Instalasi](/wiki/Client/Installation)*
 
-### Di mana saya dapat mengunduh osu!? {#download}
+### Di mana saya dapat mengunduh osu!? {id=download}
 
 **Kamu dapat mengunduh osu! melalui tombol `Unduh sekarang` yang ada pada [laman utama (*homepage*) osu!](https://osu.ppy.sh/home), atau dengan mengarahkan kursor kamu pada menu `beranda` yang ada pada bagian atas layar dan memilih `unduh` pada daftar pilihan yang muncul setelahnya.**
 
 Apabila kamu tidak ingin repot, [klik tautan ini](https://osu.ppy.sh/home/download).
 
-## Pendaftaran {#registration}
+## Pendaftaran {id=registration}
 
 *Laman utama: [Pendaftaran](/wiki/Registration)*
 
-### Bagaimana caranya bagi saya untuk dapat membuat akun osu!?  {#how-to-register}
+### Bagaimana caranya bagi saya untuk dapat membuat akun osu!? {id=how-to-register}
 
 **[Unduh osu! terlebih dahulu](https://osu.ppy.sh/home/download), lalu instal dan jalankan. Apabila sudah, ikuti instruksi-instruksi yang tertera pada layar untuk dapat membuat akun baru.**
 

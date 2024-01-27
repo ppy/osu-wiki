@@ -1,6 +1,6 @@
 # Willst du wirklich peppy fragen?
 
-Hallo. peppy versteht deinen Drang ihn persönlich zu kontaktieren, aber er bittet dich zuerst zu verstehen, dass das **nicht** der Ort ist, an dem du ihn um Hilfe oder Unterstützung fragen solltest. Er hält Support für osu! und persönliche Nachrichten voneinander getrennt und findet auch, dass das Antworten auf private Forum-Nachrichten ziemlich schwer zu stemmen ist. Er bittet dich daher eine der folgenden Möglichkeiten zu wählen:
+Hallo. peppy versteht deinen Drang ihn persönlich zu kontaktieren, aber er bittet dich zuerst zu verstehen, dass das **nicht** der Ort ist, an dem du ihn um Hilfe oder Unterstützung fragen solltest. Er hält Support für osu! und persönliche Nachrichten voneinander getrennt und findet auch, dass das Antworten auf private Direktnachrichten ziemlich schwer zu stemmen ist. Er bittet dich daher eine der folgenden Möglichkeiten zu wählen:
 
 ## Technischer Support
 

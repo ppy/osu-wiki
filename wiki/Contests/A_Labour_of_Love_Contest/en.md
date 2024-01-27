@@ -5,7 +5,7 @@ A multi-layered contest launched in November 2020 celebrating the classic osu! b
 Submissions to this contest include the following elements:
 
 - Remix of the song *Kuba Oms - My Love* ([download stems here](https://assets.ppy.sh/contests/files/115/a_labour_of_love_stems.zip))
-- Beatmap spread following the [ranking criteria](/wiki/Ranking_Criteria) (osu! only)
+- Beatmap spread following the [ranking criteria](/wiki/Ranking_criteria) (osu! only)
 - Storyboard or custom video
 
 ## Links
@@ -46,11 +46,11 @@ Contest judging will be handled by a panel of mappers (including storyboarders) 
 
 - **Community vote**
   - Prizes
-    - **Runner-up:** 3 months of osu!supporter 
+    - **Runner-up:** 3 months of osu!supporter
     - **Winner:**  6 months of osu!supporter + *Community Pick* profile badge
 - **Mapper panel** (focusing on mapping quality)
   - Prizes
-    - **Runner-up:** 3 months of osu!supporter 
+    - **Runner-up:** 3 months of osu!supporter
     - **Winner:**  6 months of osu!supporter + *Mappers' Pick* profile badge
   - Panelists:
     - ::{ flag=DE }:: [Celektus](https://osu.ppy.sh/users/4294993)
@@ -69,7 +69,7 @@ Contest judging will be handled by a panel of mappers (including storyboarders) 
     - ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955)
 - **Musician panel** (focusing on remix quality)
   - Prizes
-    - **Runner-up:** 3 months of osu!supporter 
+    - **Runner-up:** 3 months of osu!supporter
     - **Winner:**  6 months of osu!supporter + *Musicians' Pick* profile badge
   - Panelists:
     - ::{ flag=CA }:: Kuba Oms
@@ -92,11 +92,11 @@ If a team wins in multiple of the above categories, they will be rewarded a prof
 
 - **Submission must be a "full beatmap experience" including the following:**
   - Remix of the song **Kuba Oms - My Love**
-  - Beatmap spread following the [ranking criteria](/wiki/Ranking_Criteria)
+  - Beatmap spread following the [ranking criteria](/wiki/Ranking_criteria)
   - Storyboard or custom video
 - **Submission must be in `.osz` format.**
 - **Beatmap must be in *osu!* game mode only.** Comparing beatmaps of different modes in a judging scenario is unfortunately not realistic.
-- **Beatmaps should abide by the [ranking criteria](/wiki/Ranking_Criteria).** While we can be forgiving for mistakes, submissions that could not be ranked without major changes will be questioned.
+- **Beatmaps should abide by the [ranking criteria](/wiki/Ranking_criteria).** While we can be forgiving for mistakes, submissions that could not be ranked without major changes will be questioned.
 - **Team name and members must be confirmed through [this form](https://docs.google.com/forms/d/e/1FAIpQLScjtVsUWIArvf--pKA0RLiCdXuO1_wO2Va2ICjenEcz9ZqI5Q/viewform).** If your country does not support Google forms, [send pishifat a message](https://osu.ppy.sh/community/chat?sendto=3178418). Teams are limited to 5 members.
 - **Submissions must not be Qualified before the community vote ends.**
 

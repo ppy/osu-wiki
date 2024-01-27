@@ -1,6 +1,6 @@
 # 谱面编辑器
 
-![编辑器中 Donor Song 谱面（pishifat 作图）的 `compose` 标签页截图](Compose/img/Compose.jpg)
+![编辑器中 Donor Song 谱面（pishifat 作图）的 `compose` 标签页截图](img/compose.jpg)
 
 *对于谱面编辑器的快捷键，参见： [参考快捷键 § 谱面编辑器](/wiki/Client/Keyboard_shortcuts#谱面编辑器)*
 
@@ -15,7 +15,7 @@
 
 ## 作曲 (Compose)
 
-[作曲 (Compose)](/wiki/Client/Beatmap_editor/Compose) 是编辑器中放置[打击物件](/wiki/Hit_object)与其他游戏相关元素的部分。谱师因此会在这里花最多时间。
+[作曲 (Compose)](/wiki/Client/Beatmap_editor/Compose) 是编辑器中放置[打击物件](/wiki/Gameplay/Hit_object)与其他游戏相关元素的部分。谱师因此会在这里花最多时间。
 
 ## 设计 (Design)
 
@@ -27,16 +27,16 @@
 
 ## 歌曲设定 (Song setup)
 
-[歌曲设定 (Song setup)](/wiki/Client/Beatmap_editor/Song_Setup) 设置谱面的[元数据](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-metadata)，以及对谱面普遍存在的其他东西。这包括歌曲名、艺术家、难度名、连击颜色等等。
+[歌曲设定 (Song setup)](/wiki/Client/Beatmap_editor/Song_setup) 设置谱面的[元数据](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-metadata)，以及对谱面普遍存在的其他东西。这包括歌曲名、艺术家、难度名、连击颜色等等。
 
 ## 其他
 
 谱面编辑器的其他组件包括：
 
 - [AiMod](AiMod)：报告谱面问题的自动化系统
-- [音符时值](Beat_Snap_Divisor)：决定物件与时间线对齐的方式
+- [音符时值](Beat_snap_divisor)：决定物件与时间线对齐的方式
 - [间距锁定](Distance_snap)：影响物件间距离的系数
 - [Kiai 时间](/wiki/Gameplay/Kiai_time)：谱面的特殊时间轴区间，有助于强调谱面的一部分
 - [菜单](Menu)：帮助你在谱面编辑器中导航
-- [故事板负载](SB_Load)：体现故事板需求的数值
+- [故事板负载](SB_load)：体现故事板需求的数值
 - [时间线](Timelines)：显示已放置物件、休息时段等等

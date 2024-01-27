@@ -8,9 +8,6 @@ tags:
   - modificateur de jeu
 ---
 
-<!-- TODO:
-- add score multiplier, caption, and shortucut key values -->
-
 # Le mod No Video
 
 ![Icône du mod NV](/wiki/shared/mods/NV.png "Icône du mod No Video (NV)")

@@ -1,6 +1,6 @@
 # Blog Quality Assurance Team
 
-**[Blog Quality Assurance Team](http://osuqat.tumblr.com)**, atau yang umum disebut sebagai *Blog QAT* atau *QAT Blog*, merupakan sebuah *blog* yang ditulis oleh para anggota [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) secara semi-reguler. Dirintis pada bulan Agustus 2016, *blog* ini berisikan berbagai artikel yang tidak hanya menyangkut aktivitas para anggota QAT namun juga berbagai topik lainnya mulai dari permainan, mapping, modding, hingga dinamika komunitas osu! secara luas.
+**[Blog Quality Assurance Team](https://osuqat.tumblr.com/)**, atau yang umum disebut sebagai *Blog QAT* atau *QAT Blog*, merupakan sebuah *blog* yang ditulis oleh para anggota [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) secara semi-reguler. Dirintis pada bulan Agustus 2016, *blog* ini berisikan berbagai artikel yang tidak hanya menyangkut aktivitas para anggota QAT namun juga berbagai topik lainnya mulai dari permainan, mapping, modding, hingga dinamika komunitas osu! secara luas.
 
 Pada bulan September 2017, Blog QAT diberhentikan dan diganti oleh seri *QAT Gazette* yang dipublikasikan pada [laman berita](https://osu.ppy.sh/home/news). Seluruh artikel yang ada di Blog QAT pun kemudian turut dipindahkan ke laman berita.
 

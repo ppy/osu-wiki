@@ -52,7 +52,7 @@ Perkembangan sebuah beatmap dalam prosedur ranking ditampilkan melalui post yang
 - ![](/wiki/shared/icon/bubble-pop.gif) **[Bubble pop](/wiki/Modding/Bubble#bubble-pop)**: beatmap memiliki masalah yang membuat beatmap tersebut tidak dapat di-ranked setelah menerima sebuah bubble.
 - ![](img/icon/osu.gif) ![](img/icon/taiko.gif) ![](img/icon/ctb.gif) ![](img/icon/mania.gif) **Ikon mode permainan**: semua tingkat kesulitan [mode permainan](/wiki/Game_mode) dari beatmap telah dicek dan disetujui oleh seorang BN.
 - ![](/wiki/shared/icon/heart.gif) **[Heart](/wiki/Beatmap/Category#ranked)** or ![](/wiki/shared/icon/flame.gif) **[flame](/wiki/Beatmap/Category#approved)**: beatmap telah mendapatkan status qualified, ranked, atau approved.
-- ![](/wiki/shared/icon/broken-heart.gif) **Broken heart**: beatmap telah didiskualifikasi atau unranked karena beberapa masalah atau tidak mengikuti [ranking criteria](/wiki/Ranking_Criteria).
+- ![](/wiki/shared/icon/broken-heart.gif) **Broken heart**: beatmap telah didiskualifikasi atau unranked karena beberapa masalah atau tidak mengikuti [ranking criteria](/wiki/Ranking_criteria).
 - ![](/wiki/shared/icon/nuke.gif) **[Nuke](/wiki/Modding/Nuke)**: beatmap tidak dapat di-rank dengan kondisinya saat itu.
 
 ## Komunikasi
@@ -101,7 +101,7 @@ Dalam praktiknya, sistem modding berbasis forum cenderung rawan terhadap berbaga
 
 Perubahan-perubahan dibutuhkan untuk menyelesaikan masalah-masalah umum dimulai pada [26 April 2013](https://osu.ppy.sh/community/forums/topics/129625), saat [peppy](/wiki/People/peppy) mempresentasikan ide mengenai [sistem modding baru](/wiki/Beatmap_discussion) (yang nanti dikenal sebagai *Modding v2*). Pada [21 Agustus 2014](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat), kategori beatmap [Qualified](/wiki/Beatmap/Category#qualified) ditambahkan. Qualified menjadi penyangga antara beatmap pending dan ranked untuk membuat proses unrank menjadi lebih halus. Sebagai tambahan, tim [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) (*QAT*) dibentuk untuk mengecek beatmap yang qualified dan mengontrol proses ranking.
 
-Setelah itu, sistem diskusi beatmap dan [kode etik dalam modding dan mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping#membuat-postingan-mod) dikembangkan dan dirilis untuk merestrukturisasi modding dan menjadikan modding lebih menyenangkan untuk semua yang terlibat:
+Setelah itu, sistem diskusi beatmap dan [kode etik dalam modding dan mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping#membuat-postingan-mod) dikembangkan dan dirilis untuk merestrukturisasi modding dan menjadikan modding lebih menyenangkan untuk semua yang terlibat:
 
 - [11 April 2016](https://osu.ppy.sh/community/forums/topics/442285): Diskusi beatmap diaktifkan untuk dua beatmap dan tersedia untuk dites oleh publik.
 - [1 Februari 2017](https://osu.ppy.sh/community/forums/topics/552250): Setelah beberapa pengembangan berdasarkan umpan balik yang diterima, versi lanjutan sistem diskusi beatmap tersedia untuk publik dan lebih banyak beatmap.

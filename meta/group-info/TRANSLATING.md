@@ -1,6 +1,6 @@
 # Translating group member lists
 
-*Ask [clayton](https://osu.ppy.sh/users/3666350) (`clayton#1349` on Discord) for more info or help with anything mentioned here.*
+*Ask [clayton](https://osu.ppy.sh/users/3666350) (`@gp_clayton` on Discord) for more info or help with anything mentioned here.*
 
 Member lists in group article translations are updated via tools that automate most of the process, because otherwise it's very tedious and time-consuming. The relevant program for now is the `translate-groups` command of [osu-wiki-bin](https://github.com/cl8n/osu-wiki-bin).
 
@@ -14,7 +14,7 @@ Creating or updating translations of group articles involves editing [the articl
 - Global Moderation Team
 - Nomination Assessment Team
 - osu! Alumni
-- Support Team
+- Technical Support Team
 
 Member lists in table bodies (i.e. everything except the first 2 lines of tables) are automatically handled by the program.
 
@@ -23,7 +23,7 @@ Member lists in table bodies (i.e. everything except the first 2 lines of tables
 When adding a new translation of a group article, translate member table headers as you normally would, but don't write any rows in the table bodies. For example, here's how a table in Nomination Assessment Team might look:
 
 ```markdown
-| Name | Additional languages | Primary responsibilities |
+| Name | Additional languages | Assigned category |
 | :-- | :-- | :-- |
 ```
 

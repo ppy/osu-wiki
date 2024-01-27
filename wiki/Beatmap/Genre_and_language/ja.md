@@ -3,13 +3,17 @@ tags:
   - genres
   - languages
   - metadata
+outdated_translation: true
+outdated_since: 26dcaa7c6a1a7d47d0c5cb61dd01f45263a970bb
 ---
+
+<!--The citation in the rock genre was changed from unsyncopated to syncopated. When updating this article, please make sure if this needs to be adjusted here.-->
 
 # ジャンルと言語
 
 ![ビートマップページに掲載されているジャンルと言語](img/beatmap-info.png "ビートマップページに掲載されているジャンルと言語")
 
-サイト上に投稿された[ビートマップ](/wiki/Beatmap)には分類をしやすくするため**ジャンル**と**言語**の欄がある。これはビートマップの[メタデータ](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-metadata)の一つとして考えられる。
+サイト上に投稿された[ビートマップ](/wiki/Beatmap)には分類をしやすくするため**ジャンル**と**言語**の欄がある。これはビートマップの[メタデータ](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-metadata)の一つとして考えられる。
 
 ゲーム上に変化はないが[osu!(lazer)](/wiki/Client/Release_stream/Lazer)ではそれによってジャンル分けができる。
 
@@ -21,9 +25,9 @@ tags:
 
 ## ビートマップのジャンルと言語の変更方法
 
-ジャンルと言語はビートマップが掲載されているページの鉛筆ボタンを押すことにより変更できる。これができるのはそのビートマップの[役割](/wiki/People/osu!_team#user-groups)とビートマップの[カテゴリー](/wiki/Beatmap/Category#present-categories)で異なる:
+ジャンルと言語はビートマップが掲載されているページの鉛筆ボタンを押すことにより変更できる。これができるのはそのビートマップの[役割](/wiki/People/User_group)とビートマップの[カテゴリー](/wiki/Beatmap/Category#present-categories)で異なる:
 
-- マップセット所有者はビートマップが[WIP](/wiki/Beatmap/Category#work-in-progress-and-pending)、[Pending](/wiki/Beatmap/Category#work-in-progress-and-pending)または[Graveyard](/wiki/Beatmap/Category#graveyard)で[ノミネーション](/wiki/Beatmap_ranking_procedure#nominations)が一つもないとき変更できる。
+- マップセット所有者はビートマップが[WIP](/wiki/Beatmap/Category#wip-and-pending)、[Pending](/wiki/Beatmap/Category#wip-and-pending)または[Graveyard](/wiki/Beatmap/Category#graveyard)で[ノミネーション](/wiki/Beatmap_ranking_procedure#nominations)が一つもないとき変更できる。
 - [ビートマップノミネーター](/wiki/People/Beatmap_Nominators)はビートマップが[Qualified](/wiki/Beatmap/Category#qualified)、WIPまたはPendingのとき変更できる。
 - [Project Loved Team](/wiki/People/Project_Loved_Team)のメンバーは[Loved](/wiki/Beatmap/Category#loved)のとき変更できる。
 - [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team)のメンバーと[Global Moderation Team](/wiki/People/Global_Moderation_Team)のメンバーはすべてのカテゴリーのとき変更できる。

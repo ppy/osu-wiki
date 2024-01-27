@@ -15,9 +15,9 @@ tags:
 
 *No debe confundirse con [Mapa](/wiki/Beatmap).*
 
-La **dificultad** de un mapa es un nivel de juego, que se almacena como un archivo de texto con [la extensión `.osu`](/wiki/Client/File_formats/Osu_(file_format)). Consiste en [objetos](/wiki/Gameplay/Hit_object) de un cierto [modo de juego](/wiki/Game_mode), que se configuran de acuerdo con el [tiempo](/wiki/Beatmapping/Timing_section) adaptado a un canción específica. Las dificultades tienen diferentes aspectos, que afectan directamente a la experiencia del usuario.  El nombre de la dificultad y la [clasificación por estrellas](/wiki/Beatmap/Star_rating) generalmente brindan suficiente información para saber qué tan desafiante es.
+La **dificultad** de un mapa es un nivel de juego, que se almacena como un archivo de texto con [la extensión `.osu`](/wiki/Client/File_formats/osu_(file_format)). Consiste en [objetos](/wiki/Gameplay/Hit_object) de un cierto [modo de juego](/wiki/Game_mode), que se configuran de acuerdo con el [tiempo](/wiki/Client/Beatmap_editor/Timing) adaptado a un canción específica. Las dificultades tienen diferentes aspectos, que afectan directamente a la experiencia del usuario.  El nombre de la dificultad y la [clasificación por estrellas](/wiki/Beatmap/Star_rating) generalmente brindan suficiente información para saber qué tan desafiante es.
 
-Los objetos de una dificultad componen [patrones](/wiki/Beatmap/Pattern), que también varían según el modo de juego y establecen el tono para la apariencia general de cómo se debe jugar una dificultad. La jugabilidad de las dificultades del mapa también se puede modificar mediante varias [configuraciones de dificultad](/wiki/Client/Beatmap_editor/Song_Setup#difficulty) establecidas por el autor del mapa o alternadas por [modificadores del juego](/wiki/Gameplay/Game_modifier).
+Los objetos de una dificultad componen [patrones](/wiki/Beatmap/Pattern), que también varían según el modo de juego y establecen el tono para la apariencia general de cómo se debe jugar una dificultad. La jugabilidad de las dificultades del mapa también se puede modificar mediante varias [configuraciones de dificultad](/wiki/Client/Beatmap_editor/Song_setup#difficulty) establecidas por el autor del mapa o alternadas por [modificadores del juego](/wiki/Gameplay/Game_modifier).
 
 Desde la perspectiva auditiva, una dificultad puede aumentar la canción proporcionando uno o varios conjuntos de muestras de audio o [hitsounds](/wiki/Beatmapping/Hitsound), que sirven como una capa adicional de comentarios.
 
@@ -25,9 +25,9 @@ Los [componentes visuales](/wiki/Beatmap) de una dificultad, contrario a sus pat
 
 ## Niveles de dificultad
 
-*Véase también: [Nombramiento de dificultad](/wiki/Ranking_Criteria/Difficulty_naming)*
+*Véase también: [Nombramiento de dificultad](/wiki/Ranking_criteria/Difficulty_naming)*
 
-Estos son los niveles típicos de dificultad en los que puede caer un mapa. Las definiciones específicas y los requisitos de cada uno se pueden encontrar en sus [criterios de clasificación](/wiki/Ranking_Criteria) de los respectivos modos.
+Estos son los niveles típicos de dificultad en los que puede caer un mapa. Las definiciones específicas y los requisitos de cada uno se pueden encontrar en sus [criterios de clasificación](/wiki/Ranking_criteria) de los respectivos modos.
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
@@ -36,7 +36,6 @@ Estos son los niveles típicos de dificultad en los que puede caer un mapa. Las 
 - ![](/wiki/shared/diff/hard-o.png?20211215) Hard
 - ![](/wiki/shared/diff/insane-o.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert
-- ![](/wiki/shared/diff/expertplus-o.png?20211215) Expert+
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
@@ -44,8 +43,7 @@ Estos son los niveles típicos de dificultad en los que puede caer un mapa. Las 
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
 - ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png?20211215) Oni
-- ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni
-- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni / Ura Oni
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
@@ -54,7 +52,6 @@ Estos son los niveles típicos de dificultad en los que puede caer un mapa. Las 
 - ![](/wiki/shared/diff/hard-c.png?20211215) Platter
 - ![](/wiki/shared/diff/insane-c.png?20211215) Rain
 - ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
-- ![](/wiki/shared/diff/expertplus-c.png?20211215) Overdose+
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
@@ -63,7 +60,6 @@ Estos son los niveles típicos de dificultad en los que puede caer un mapa. Las 
 - ![](/wiki/shared/diff/hard-m.png?20211215) Hard
 - ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-m.png?20211215) Expert
-- ![](/wiki/shared/diff/expertplus-m.png?20211215) Expert+
 
 ## Dificultad y clasificación por estrellas
 
@@ -80,4 +76,4 @@ En algunos casos, como [AIMod](/wiki/Client/Beatmap_editor/AiMod), la dificultad
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert: 5.3★–6.49★
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) Expert+: 6.5★ y superior
 
-Tenga en cuenta que, si bien los niveles de dificultad previstos de la mayoría de los mapas coinciden con los colores o rangos de niveles que se les otorgan, algunos pueden desviarse significativamente debido a ciertos factores. Esta es la razón por la que los [criterios de clasificación](/wiki/Ranking_Criteria) ofrecen reglas básicas más decisivas para determinar el nivel de dificultad real de un mapa y la distribución, independientemente de su calificación por estrellas.
+Tenga en cuenta que, si bien los niveles de dificultad previstos de la mayoría de los mapas coinciden con los colores o rangos de niveles que se les otorgan, algunos pueden desviarse significativamente debido a ciertos factores. Esta es la razón por la que los [criterios de clasificación](/wiki/Ranking_criteria) ofrecen reglas básicas más decisivas para determinar el nivel de dificultad real de un mapa y la distribución, independientemente de su calificación por estrellas.

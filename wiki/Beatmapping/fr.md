@@ -24,7 +24,7 @@ Cliquez sur la musique, cela ouvrira la fenêtre de l'[éditeur de beatmap](/wik
 
 ### Configuration de la musique
 
-*Main page: [Configuration de la musique](/wiki/Client/Beatmap_editor/Song_Setup)*
+*Main page: [Configuration de la musique](/wiki/Client/Beatmap_editor/Song_setup)*
 
 En faisant une nouvelle [beatmap](/wiki/Beatmap), vous verrez toujours cette boîte de dialogue avant toute autre partie de l'éditeur de beatmap.
 

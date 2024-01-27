@@ -23,9 +23,9 @@ Hay algunos casos en los que se permite que el contenido difiera:
 
 Hay dos registros de lenguaje en la wiki: neutral e informal.
 
-El registro neutral es el predeterminado en el wiki.
+El registro neutral es el predeterminado en la wiki.
 
-El registro informal es especial y se da a un pequeño puñado de artículos. Algunos ejemplos con este registro incluyen [FAQ](/wiki/FAQ) y [Centro de Ayuda](/wiki/Help_centre).
+El registro informal es especial y se da a un pequeño puñado de artículos. Algunos ejemplos con este registro son [preguntas frecuentes](/wiki/FAQ) y [centro de ayuda](/wiki/Help_centre).
 
 Para ambos registros, se deben seguir todas las reglas de esta parte del criterio para el estilo de los artículos. Las excepciones para cualquiera de los dos registros serán anotadas.
 
@@ -71,7 +71,7 @@ Los modificadores del juego deben tener la palabra `mod` después del nombre del
 
 ---
 
-Estos modificadores de juego ya no están siendo utilizados por osu!; sin embargo, si es necesario, deben escribirse como se muestra a continuación (las mayúsculas y minúsculas y el espaciado deben coincidir):
+Estos modificadores del juego ya no están siendo utilizados por osu!; sin embargo, si es necesario, deben escribirse como se muestra a continuación (las mayúsculas y minúsculas y el espaciado deben coincidir):
 
 - `Fade Out`
 - `No Video`
@@ -136,7 +136,7 @@ Ejemplo:
 17 de septiembre de 2007
 ```
 
-El formato de fecha `DD/MM/AAAA` solo debe usarse en tablas.
+El formato de fecha `D/M/AAAA` solo debe usarse en tablas.
 
 ### Formato de hora
 
@@ -304,7 +304,7 @@ Del «Diccionario panhispánico de dudas»:
 
 > El texto que va dentro de las comillas tiene una puntuación independiente y lleva sus propios signos ortográficos. Por eso, si el enunciado entre comillas es interrogativo o exclamativo, los signos de interrogación y exclamación se escriben dentro de las comillas.
 
-Por extensión, el [énfasis](/wiki/Article_styling_criteria/Formatting#enfatizando), los [enlaces](/wiki/Article_styling_criteria/Formatting#enlaces) y los paréntesis deben seguir las mismas reglas con respecto a la puntuación (es decir, si encierran una oración completa o solo parte de una).
+Por extensión, el [énfasis](/wiki/Article_styling_criteria/Formatting#enfatizado), los [enlaces](/wiki/Article_styling_criteria/Formatting#enlaces) y los paréntesis deben seguir las mismas reglas con respecto a la puntuación (es decir, si encierran una oración completa o solo parte de una).
 
 ### Cita en bloque
 

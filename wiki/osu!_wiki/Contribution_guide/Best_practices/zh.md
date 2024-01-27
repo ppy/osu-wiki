@@ -1,100 +1,112 @@
 ---
+outdated_since: 92f87c21ee0fa098289944375f38d526278d988e
 outdated_translation: true
-outdated_since: 1963510e21506f90b21ad201b0eb9ca98fe7ecb5
 ---
 
-# 常见问题
+# 最好方法
 
-*主页面：[osu! wiki 贡献指南](/wiki/osu!_wiki/Contribution_guide).*
+这篇文章介绍了您在贡献时可能遇到的一些任务。文章中提到的方法可供您简化流程，并可在 GitHub 或在类似的平台上托管的其他项目中应用。
 
-## 什么叫做有意义的提交信息（commit messages）？
+## 介绍
 
-这个问题也被表述为：“我的所有提交都是 `Update en.md` ”，或者相似的内容。
+*有关 Git 和 GitHub 的更多信息，参见：[GitHub 文档](https://docs.github.com/zh)*
 
-如果有人告诉你要使用有意义的提交信息，或者你的所有提交信息都是一样的，这意味着你当你在 Github 网页上移动，编辑或者删除文件时，没有使用有意义的提交信息。
+**Git** 是一个有助于管理文件更改的版本控制系统。osu! wiki 的数据和更改历史记录都存储在 Git 仓库中。**GitHub** 是一个开发平台，为 Git 仓库提供了一个网页界面，并为项目管理提供了一套工具。
 
-一个有意义的提交信息可以使别人直观地理解你的所有修改，而不需要看 GitHub diff。提交信息有 72 个字符的限制，所以你需要尽量简洁的描述。如果你在精简信息时需要困难，你需要分割所修改的内容，进行多次提交。**请记住，`Update en.md` 或者相似的句子没有实际价值，因为别人不知道你具体做出了哪些修改，或者修改了哪篇文章。**
+## 同步分支 (fork)
 
----
+如果要贡献并修改 GitHub 上的仓库，你需要创建一个受自己控制的副本，也就是*分支 (fork)*。当你创建分支时，即复制了一份此时的仓库并作为快照。要做出有意义的贡献，你需要在修改仓库内容前**始终保证你的分支与主仓库同步**——这可以直接在 GitHub 上完成：
 
-为了解决这个问题（同时适用于桌面客户端和 Github 网页）:
+1. 进入你分出 (fork) 的 `osu-wiki` 仓库。
 
-1. 打开你的 `osu-wiki` 仓库主页。
-2. 创建一个新的分支并为它命名。
-3. 开一个 Pull Request。
-4. 如果 `base fork` 和 `head fork` 下拉菜单没有出现，点击 `compare across forks` 链接。
-5. 将 `head fork` 修改为你的仓库。
-6. 将 `compare` 修改为你的问题分支。
-7. 将 `base fork` 修改为你的仓库。
-8. 将 `base` 修改为你的新分支。
-9. 点击 `Create pull request`。
-10. 标题和描述留空，再次点击 `Create pull request`。
-11. 滚动到时间线的底部，点击 `Merge pull request` 按钮旁的下拉菜单。
-12. 点击 `Squash and merge`。
-13. Click `Squash and merge`。
-14. 修改标题（这样成为提交信息，请确认你的提交信息有意义）。
-15. 修改描述（这将成为提交描述，可以留空，请确认你是否修改它）。
-16. 点击 `Confirm squash and merge`。
-17. 转到 [`ppy/osu-wiki` 仓库](https://github.com/ppy/osu-wiki)。
-18. 关闭你之前的有问题的那个 Pull Request。
-19. 使用新的分支再开一个新的 Pull Request。
-20. 你可以从旧的 Pull Request 中复制描述信息到新的 Pull Request 中。最好在新的 Pull Request 中提到（引用）你关闭的分支。
-21. 点击 `Create pull request`。你现在已经修复了你的提交。如果你已经完成旧的 Pull Request 中的 reviews，确认这个 Pull Request 可以合并的话，请求别人合并它。
+2. 在下拉菜单中选择  `master` 分支。
 
-从技术上说，最好的方式是在分支上 squash（压缩）提交，可以不受 GitHub 网页上折叠提交历史的许多限制。另外，GitHub 桌面客户端上也无法 squash 提交。
+3. 点击 `同步上游仓库 (Fetch upstream)`，然后选择  `获取并合并 (Fetch and merge)`。
 
-## 我的分支过期了！
+   ![](img/update-branch.png "更新过时的分支")
 
-*注意： `master` 是你fork仓库的主分支。它应该是一份纯粹的 `osu-wiki` 仓库中 `master` 分支的复刻，不包含其他任何编辑内容*
-
-你从 `osu-wiki` 仓库创建你自己的仓库，相当于保存了一份那个时刻的快照。问题在于，你的仓库不会自动与原始的仓库同步，GitHub 上也没有为你做这件事的银弹。（注：“银弹”指的是任何情况下都管用的方法，相当于中文常说的“万能药”，这句话的原文意思是：没有一个完美的方法可以让两个仓库时刻保持同步。）
-
-1. 前往你 fork 的 `osu-wiki` 仓库。
-2. 从分支管理的下拉列表中选择要更新的分支。
-3. 点击 `Fetch upstream`，然后点击 `Fetch and merge`。
-
-![](img/update-branch.png "更新过时分支")
-
-现在你的 master 分支已经与 `ppy:master` 分支同步！
+现在，你的分支仓库已经获取到原仓库的所有更新。
 
 ---
 
-尽管该功能本身的功能有限，但该解决方案在大多数情况下都能正常工作。例如，它不允许你覆盖分支上的任何不需要的更改，因为它只合并上游 `master` 分支。
+即使这种方法功能有限，比如不允许你覆盖分支上任何不需要的更改（因为这种方法只能合并上游仓库的 `master` 分支），但它在大多数情况下都能很好工作。
 
-如果你在使用 GitHub 工具时遇到任何问题，或者您想覆写你分支的内容，您可以使用 osu!wiki 共享人员编写的工作流程。
+如果你在使用 GitHub 工具时遇到任何问题，或者你想覆盖你的分支内容，可以使用 osu! wiki 贡献者编写的一套工作流（自动化脚本，workflow）。
 
-1. 打开**你的 fork 仓库** 然后前往 `Actions` 栏。
-2. 在 `Workflows` 中找到 `Sync from osu! upstream`。
-3. 点击 `Run workflow` 并填写选项:
+1. 进入**你的分支仓库**，点击 `操作 (Actions)` 标签。
 
-![GitHub Actions 工作流程 - 运行工作流程](img/github-actions-workflow-dialog.png "GitHub Actions 工作流程 - 运行工作流程")
+2. 进入 `工作流 (Workflows)`，找到 `同步 osu! 上游仓库 (Sync from osu! upstream)`。
 
-- **Use workflow from**：你想要同步的分支，默认被设置为 `master` 。
-- **Overwrite any changes in the target repository**：
-  - `true`：将覆盖你分支所有的更改并替换为 `ppy/osu-wiki` 的 `master` 分支内容。
-  - `false`（默认）：将你的更改与 `ppy/osu-wiki` 合并。
-- **Create a backup of your target branch**：
-  - `true`：创建一个名为 `backup-{你的分支名}` 的分支并在这个分支对你的分支进行备份
-  - `false`（默认）：不创建备份。
+3. 点击 `运行工作流 (Run workflow)`，并且勾选以下选项：
 
-4. 点击 `Run Workflow` 按钮并等待 workflow 完成。如果你想知道这个工具如何工作，你可以在 workflow task 中点击 `Sync from osu! upstream`。
+   <!-- when updating this translation, delete img/github-actions-workflow-dialog.png if this translation is the last one to use it. —clayton -->
 
-![GitHub Actions 工作流程 - 工作流程 总览](img/github-actions-workflow-overview.png "GitHub Actions 工作流程 - 工作流程 总览")
+   ![](img/github-actions-workflow-dialog.png "GitHub 操作 工作流 - 运行工作流")
 
-## 我的 Pull Request 有冲突！
+   - **你想要工作流操作的分支 (Use workflow from)**：你想要与上游仓库同步的分支名称。默认为 `master`。
+   - **是否覆盖目标仓库里的任何更改 (Overwrite any changes in the target repository)**：
+     - `true`：覆盖你的分支内的所有内容，还你一个纯净的  `ppy/osu-wiki` 的 `master` 分支。
+     - `false`（默认）：将你的更改与 `ppy/osu-wiki` 的更改合并。
+   - **是否创建目标分支的副本 (Create a backup of your target branch)**：
+     - `true`：在以上操作进行之前，创建一个名为 `backup-{目标分支名称}` 的分支作为副本。
+     - `false`（默认）：不创建任何副本。
 
-这个问题的发生一般有两个原因：
+4. 点击 `运行工作流 (Run workflow)` 按钮，并等待工作流完成。如果你好奇这个工具是怎么工作的，点击 `同步 osu! 上游仓库 (Sync from osu! upstream)` 工作流任务 (task)。
+
+   <!-- when updating this translation, delete img/github-actions-workflow-overview.png if this translation is the last one to use it. —clayton -->
+
+   ![](img/github-actions-workflow-overview.png "GitHub 操作 工作流 - 工作流概览")
+
+## 做出改动
+
+*参见：[分支工作流程 | Atlassian Git 教程](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)*
+
+在你的 osu! wiki 分支里，你可以自由修改并保存文件。**提交 (Commits)** 是仓库的独立“存档点”。**分支 (Branches)** 是能让你在仓库的多个版本之间切换的工作区。为了确保你的工作流程简单，保持 wiki 的历史记录整洁，请遵守以下准则：
+
+- [先同步 `master` 分支](#同步分支-(fork))。
+- 请养成在开始编辑前，根据 `master` 分支创建一个新分支，并且只在此分支内编辑的好习惯。给这个分支取个有意义的名字，比如 `update-staff-log`。<!-- https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow is the explanation, but it doesn't really fit in here -->
+- 当你做出了合适大小的修改，就可以提交 (Commit) 了。与其提交 10 次小的修改，不如直接提交一篇完整的文章。
+- **简短概要地写出提交 (Commit) 消息**。因为这能让其他人知道修改了什么。类似于 `重写了跳排列段落` 的内容比  `Update en.md` 信息量更多。
+
+## 提出拉取请求 (Pull Request)
+
+拉取请求 (PR) 会向其他人展示你的编辑会影响什么文件。在你的请求中附带一些信息，便于解释你的意图：
+
+- `标题`：一个非常简短的概述标题，用英语描述你做出的修改，以及这些文章的名称。如果是翻译文章，还需要在开头使用英文半角中括号添加你翻译的语言代码。示例：
+  - ``[ZH] Add `BBCode` ``
+  - ``Update `Beatmapping` and `Beatmap/Difficulty` ``
+- `描述`：你想提示维护者或者审核者的任何信息。示例：
+  - 对于你做出更改的简短总结，特别是你一次性在一个请求中修改了多篇文章时
+  - 拉取请求是否做完，以及与之相关的想法
+  - [这个拉取请求能解决的相关问题 (issue)](https://docs.github.com/zh/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
+- 确保勾选`允许维护者编辑 (Allow edits from maintainers)`，在必要时，这能让 wiki 维护者帮助你改进拉取请求
+
+## 应用审核中提到的修改
+
+审核 (Reviews) 最好直接在 GitHub 的网页上操作。在`更改的文件 (Files changed)` 选项卡中使用`将建议添加到一批中 (Add suggestion to batch)` 按钮，可以在一次审核中提出多个建议。
+
+![应用一批建议](img/applying-batch-review.gif)
+
+你也可以使用`提交建议 (Commit suggestion)` 按钮来单独应用一个修改建议，但前提是你只需要少量地[提供有用的信息](#做出改动)。
+
+![应用一条建议](img/applying-single-review.gif)
+
+这个系统能自动将建议标记为已解决。手动应用建议时（比如审核员没有直接给出建议时），在提交更改后，*记得将对应的建议标记为已解决*，来避免漏掉任何建议。因为 GitHub 能自动标记并避免错误应用更改和手动复制错误，所以还是建议使用 GitHub 自动应用修改。
+
+## 解决编辑冲突
+
+在编辑冲突发生时，可能有两个原因：
 
 - 在你的分支过期的情况下，修改了文件。
 - 你和别人没有及时沟通，你们两个人修改了同一篇文章，但是别人的修改在你之前被合并。（从技术上说，这会造成你的修改成为过期状态）。
 
-你有两种方法解决它，取决于冲突的严重程度。
+取决于冲突的严重程度，你有两种方法解决它：
 
-1. 如果你的 Pull Request 有 `Resolve conflicts` 按钮，点击它。这会打开一个文本修改对比的网页编辑器。
+1. 如果你的拉取请求 (PR) 有`解决冲突 (Resolve conflicts)` 按钮，点击它。这会打开一个用于文本修改和对比的网页编辑器。
    1. GitHub 会高亮有冲突的区域。找到它们。
    2. 所有在 `<<<<<<<` 和 `=======` 之间的内容是你所做的修改。所有在 `=======` 和 `>>>>>>> master` 之间的内容是 `ppy/master` 分支上的内容。
-   3. 在这里，可以手动修改这些冲突的内容，最后删除 `<<<<<<<`，`=======`和`>>>>>>> master`标记。
-   4. 重复这个工作直至解决了所有冲突。
-   5. 当你完成后，点击 `Mark as resolved`。（只有这个文件中的所有冲突都被解决了才能点击。）
-2. 如果 `Resolve conflicts` 按钮无法点击（由于冲突比较复杂，难以在 GitHub 上解决），很不幸，你只能 [更新你的分支](#我的分支过期了！)，重新做一次修改。
-   - *注意：仅仅使用 GitHub 网页，无法解决这样的冲突。* 但是，仍然有其他方式修复，在这篇文章中不会介绍这些方法，大部分时候没有必要这么麻烦，因为你需要覆盖和回退有冲突的修改。
+   3. 在这里，可以手动修改这些冲突的内容并删除 `<<<<<<<`、`=======`、`>>>>>>> master`标记。
+   4. 重复以上操作，直至解决所有冲突。
+   5. 当你完成后，点击`标记为已解决 (Mark as resolved)`。（只有这个文件中的所有冲突都被解决了才能点击。）
+2. 如果冲突比较复杂，难以在 GitHub 上解决，即无法点击`标记为已解决 (Resolve conflicts)` 这个按钮，很不幸，你只能[更新分支](#同步分支-(fork))，重新修改。
+   - *注意：仅仅在 GitHub 网页上操作，无法解决这样的冲突。* 但仍然有其他解决方法，在这篇文章中不会介绍。因为，你仍旧需要覆盖和回退有冲突的修改，而大部分时候没有必要解决得这么麻烦。

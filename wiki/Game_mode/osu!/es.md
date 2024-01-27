@@ -95,9 +95,9 @@ Los controles predeterminados para osu! son:
 
 Los objetos golpeables en osu! aceptarán cualquier entrada del dispositivo de entrada, siempre que cada objeto golpeable se toque a tiempo.
 
-Si se usó el modificador de juego [Relax](/wiki/Gameplay/Game_modifier/Relax), solo funcionará el cursor en el juego. Usa el cursor en el juego para seguir los objetos golpeables con un toque automático. Las ruletas aún deben completarse.
+Si se usó el modificador del juego [Relax](/wiki/Gameplay/Game_modifier/Relax), solo funcionará el cursor en el juego. Usa el cursor en el juego para seguir los objetos golpeables con un toque automático. Las ruletas aún deben completarse.
 
-Si se usó el modificador de juego [Auto Pilot](/wiki/Gameplay/Game_modifier/Autopilot), solo funcionará la entrada del dispositivo de entrada. Mide el tiempo sobre los objetos golpeables con movimiento automático del cursor. Las ruletas seguirán la velocidad del mod [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out).
+Si se usó el modificador del juego [Auto Pilot](/wiki/Gameplay/Game_modifier/Autopilot), solo funcionará la entrada del dispositivo de entrada. Mide el tiempo sobre los objetos golpeables con movimiento automático del cursor. Las ruletas seguirán la velocidad del mod [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out).
 
 ## Puntuación
 
@@ -157,7 +157,7 @@ Bonificación adicional de 1,000 puntos dados por cada giro de una ruleta despu�
 
 #### Cómo calcular el multiplicador de dificultad
 
-[Tamaño de circulos (CS)](/wiki/Client/Beatmap_editor/Song_Setup), [Drenaje de vida (HP)](/wiki/Client/Beatmap_editor/Song_Setup) and [Dificultad general (OD)](/wiki/Client/Beatmap_editor/Song_Setup) cada uno da un punto en los *puntos de dificultad*.
+[Tamaño de circulos (CS)](/wiki/Client/Beatmap_editor/Song_setup), [Drenaje de vida (HP)](/wiki/Client/Beatmap_editor/Song_setup) and [Dificultad general (OD)](/wiki/Client/Beatmap_editor/Song_setup) cada uno da un punto en los *puntos de dificultad*.
 
 Los *puntos de dificultad* acumulados afectan el **multiplicador de dificultad** como tal:
 
@@ -173,7 +173,7 @@ El límite más alto es de 27 puntos de dificultad con CS7, OD10 y HP10. El lím
 
 El CS normalmente no puede ir por debajo de 2 o por encima de 7 (requiere una modificación directa del archivo `.osu`).
 
-Ten en cuenta que los modificadores de juego (como Hard Rock/Easy) no cambiarán el **Multiplicador de dificultad**. Sólo se dará cuenta los valores originales.
+Ten en cuenta que los modificadores del juego (como Hard Rock/Easy) no cambiarán el **Multiplicador de dificultad**. Solo se dará cuenta los valores originales.
 
 ### Juicio de los circulos de golpeo
 

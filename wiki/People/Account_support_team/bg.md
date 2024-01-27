@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
 ---
 
 # Екип за поддръжка на профили
@@ -38,7 +40,7 @@ no_native_review: true
 *Бележка: За докладване на екстремни случаи с лошо поведение или сексуален тормоз от потребител, включително модератор, виж [докладване за нередност](/wiki/Reporting_bad_behaviour/Abuse).*
 
 - Притеснения относно лошо поведение на модератор.
-- Притеснения относно нарушаване на [Правила за поведение на сътрудници](/wiki/Rules/Contributor_Code_of_Conduct) от страна на модератор.
+- Притеснения относно нарушаване на [Правила за поведение на сътрудници](/wiki/Rules/Contributor_code_of_conduct) от страна на модератор.
 - [Платежни затруднения](/wiki/Help_centre/Account#supporter) при пазаруване от [osu!store](https://osu.ppy.sh/store/listing).
 - Технически затруднения които не могат да бъдат разрешени в [помощния форум](https://osu.ppy.sh/community/forums/5), като [проблеми със свързване](/wiki/Help_centre/Client#online-features).
 

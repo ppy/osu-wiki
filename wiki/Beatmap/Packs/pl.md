@@ -1,5 +1,7 @@
 ---
 outdated: true
+outdated_translation: true
+outdated_since: 3422f4bb3427b6a5da832bde15788db17eb7b17e
 ---
 
 # Paczki

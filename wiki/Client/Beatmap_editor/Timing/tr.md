@@ -5,7 +5,7 @@ outdated_since: d132f80edb22c7fe2d1e47046d9ca448b161ea5e
 
 # Zamanlama sekmesi
 
-*Ayrıca bakınız: [Şarkılar nasıl zamanlanır](/wiki/Guides/How_to_Time_Songs)*
+*Ayrıca bakınız: [Şarkılar nasıl zamanlanır](/wiki/Guides/How_to_time_songs)*
 
 ![Editördeki zamanlama penceresinin ekran görüntüsü](/wiki/shared/timing/Timing_base.jpg)
 

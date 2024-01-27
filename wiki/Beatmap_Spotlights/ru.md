@@ -1,6 +1,6 @@
 ---
+outdated_since: 6d51ac66205d0c4dc0251cd7cc40b07e3f1bb3ae
 outdated_translation: true
-outdated_since: b106a25301b2f5ba259ce6232afb2f615f64fe72
 tags:
   - charts
   - Ranking Charts
@@ -18,7 +18,7 @@ tags:
 
 **Beatmap Spotlights** (*Spotlights*, жарг. *спотлайт*, в прошлом — ранкинг-чарты) — проект, участники которого регулярно выпускают подборки интересных или значимых [карт](/wiki/Beatmap), выделяющихся своим содержанием или оформлением. После выхода очередной подборки открывается [сезонная лига](#сезоны), где игроки могут соревноваться за право получения [значков для профиля](#призы).
 
-Текущий сезон — зима 2023.
+Текущий сезон — осень 2023.
 
 На странице группы [кураторов Beatmap Spotlight](https://osu.ppy.sh/groups/48) приведён полный список её участников. Чтобы узнать об их обязанностях, см. [соответствующую статью](/wiki/People/Beatmap_Spotlight_Curators).
 
@@ -57,7 +57,7 @@ tags:
    - Если участник перепроходит плейлист в другую неделю, то **будет сохранён только лучший результат прохождения**.
 3. Таблица рекордов обновляется после закрытия очередного плейлиста.
    - Участники не знают своё точное положение или результат, только категорию.
-   - Таблица рекордов публикуется в [дискорд-сервере сообщества osu!](https://discord.gg/0Vxo9AsejDkGlk3H) в канале `#osu-spotlights`, а также в чате комнаты, посвящённой следующему плейлисту.
+   - Таблица рекордов публикуется в [дискорд-сервере сообщества osu!](https://discord.com/invite/0Vxo9AsejDkGlk3H) в канале `#osu-spotlights`, а также в чате комнаты, посвящённой следующему плейлисту.
 
 ### Призы
 
@@ -71,14 +71,14 @@ tags:
 
 | Значок | Категория | Положение участников |
 | :-: | :-- | :-- |
-| ![](img/badges/winter_2023/osu/ri_1.png) ![](img/badges/winter_2023/osu/ri_2.png) | Rhythm Incarnate | Лучший из лучших |
-| ![](img/badges/winter_2023/osu/diamond_1.png) ![](img/badges/winter_2023/osu/diamond_2.png) | Diamond | Топ 3% |
-| ![](img/badges/winter_2023/osu/platinum_1.png) ![](img/badges/winter_2023/osu/platinum_2.png) | Platinum | 3% – 10% |
-| ![](img/badges/winter_2023/osu/gold_1.png) ![](img/badges/winter_2023/osu/gold_2.png) | Gold | 10% – 25% |
-| ![](img/badges/winter_2023/osu/silver_1.png) ![](img/badges/winter_2023/osu/silver_2.png) | Silver | 25% – 50% |
-| ![](img/badges/winter_2023/osu/bronze_1.png) ![](img/badges/winter_2023/osu/bronze_2.png) | Bronze | 50% – 70% |
-| ![](img/badges/winter_2023/osu/copper_1.png) ![](img/badges/winter_2023/osu/copper_2.png) | Copper | 70% – 95% |
-| ![](img/badges/winter_2023/osu/iron_1.png) ![](img/badges/winter_2023/osu/iron_2.png) | Iron | 95% – 100% |
+| ![](img/badges/spring_2023/osu/ri_1.png) ![](img/badges/spring_2023/osu/ri_2.png) | Rhythm Incarnate | Лучший из лучших |
+| ![](img/badges/spring_2023/osu/diamond_1.png) ![](img/badges/spring_2023/osu/diamond_2.png) | Diamond | Топ 3% |
+| ![](img/badges/spring_2023/osu/platinum_1.png) ![](img/badges/spring_2023/osu/platinum_2.png) | Platinum | 3% – 10% |
+| ![](img/badges/spring_2023/osu/gold_1.png) ![](img/badges/spring_2023/osu/gold_2.png) | Gold | 10% – 25% |
+| ![](img/badges/spring_2023/osu/silver_1.png) ![](img/badges/spring_2023/osu/silver_2.png) | Silver | 25% – 50% |
+| ![](img/badges/spring_2023/osu/bronze_1.png) ![](img/badges/spring_2023/osu/bronze_2.png) | Bronze | 50% – 70% |
+| ![](img/badges/spring_2023/osu/copper_1.png) ![](img/badges/spring_2023/osu/copper_2.png) | Copper | 70% – 95% |
+| ![](img/badges/spring_2023/osu/iron_1.png) ![](img/badges/spring_2023/osu/iron_2.png) | Iron | 95% – 100% |
 
 Размер категории Rhythm Incarnate высчитывается вручную в зависимости от общего числа участников и их распределения по остальным категориям. В большинстве случаев он варьируется от 2 до 50 человек.
 
@@ -114,8 +114,8 @@ tags:
 Beatmap Spotlights — экспериментальный проект, открытый для предложений и идей от игроков. Авторам проекта хотелось бы собрать как можно отзывов и критических мнений, чтобы иметь возможность улучшать и развивать его. Если вам есть, о чём сказать, пишите сюда:
 
 - [Тема на форуме, посвящённая проекту](https://osu.ppy.sh/community/forums/topics/1189626)
-- Канал `#beatmap-spotlights` в [дискорд-сервере сообщества osu!](https://discord.gg/0Vxo9AsejDkGlk3H)
-- Канал `#osu-spotlights` в [дискорд-сервере osu!dev](https://discord.gg/ppy)
+- Канал `#beatmap-spotlights` в [дискорд-сервере сообщества osu!](https://discord.com/invite/0Vxo9AsejDkGlk3H)
+- Канал `#osu-spotlights` в [дискорд-сервере osu!](https://discord.com/invite/ppy)
 
 ## История
 

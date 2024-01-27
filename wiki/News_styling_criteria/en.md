@@ -1,32 +1,28 @@
-<!-- TODO: hasn't been updated or reviewed in a long time. "Writing standards" have changed a bit and there are comments by Ephemeral and peppy scattered around that suggest what should be written here instead -->
-
 # News styling criteria
 
-*For wiki articles, see: [Article Styling Criteria](/wiki/Article_styling_criteria)*
+*For wiki articles, see: [Article styling criteria](/wiki/Article_styling_criteria)*
 
-News articles exist on a slightly different system to the main osu! wiki, but follow similar principles. Writing them involves careful attention to a few key features and formats as outlined below.
+**News posts**, or **news articles**, exist on a slightly different system to the main osu! wiki, but follow similar principles. Writing them involves careful attention to a few key features and formats as outlined below.
 
-As always, all news articles should aim to have proper spelling and grammar at a bare minimum, as well as having correct and up-to-date information.
+Like wiki articles, all news posts should aim to have proper spelling and grammar at a bare minimum, as well as having correct and up-to-date information.
 
-## Repository directory
+Anyone interested in contributing to or writing news posts, reach out in the `#osu-news` channel of the [osu! Discord server](https://discord.com/invite/ppy). Alternatively contact ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) or any active [wiki or news maintainer](/wiki/People/osu!_wiki_maintainers).
 
-The following standards apply only to articles written for the news, and saved in the `news` directory.
+## Locales
 
-### Locales
+The news system does not support locales. All articles must be in English (preferably British English), with a consistent register.
 
-The news system does not support locales at this time. All articles must be in English (preferably British English), with a consistent register.
-
-What this register entails depends on the focus and tone of your article, but it must be consistent. Articles that sound professional must always sound professional. Articles that are conversational must be always conversational.
+What this register entails depends on the focus and tone of the article, but it must be consistent. Articles that sound professional must always sound professional. Articles that are conversational must always be conversational.
 
 ## Writing standards
 
-All news articles must be written with a few key concepts in mind — conciseness, audience, and presentation.
+All news posts must be written with a few key concepts in mind: conciseness, audience, and presentation.
 
 ### Conciseness
 
-News articles should be short and sweet, with appropriate information condensed as much as possible without being overly dense.
+News posts should be short and sweet, with appropriate information condensed as much as possible without being overly dense.
 
-Provide links to in-depth resources instead of referencing them directly in-text. Use visual displays wherever possible to convey large amounts of information at a glance.
+Provide links to in-depth resources instead of referencing them directly in text. Use visual displays wherever possible to convey large amounts of information at a glance.
 
 ### Audience
 
@@ -36,114 +32,93 @@ Consider well what you write within your article and whether it would interest t
 
 ### Presentation
 
-News articles must aim to be as pleasingly neutral as possible in terms of presentation.
+News posts must aim to be as pleasingly neutral as possible in terms of presentation.
 
 Pleasingly neutral, however vague, refers to an article that is both light and robust, saying what it needs to say without giant blocks of text. It must be consistent in formatting, style and register. Large quantities of information should be supported or supplanted with visual aids.
 
 ## Formatting
 
-### Article filenames
+### File names
 
-News articles are markdown files (``.md``) are named under the following format:
-
-``yyyy-mm-dd-<article title>.md``
-
-Where ``yyyy`` is year as 4 digits, ``mm`` is month as 2 digits, and ``dd`` is the date as 2 digits.
-
-Article title strings for file names are the title of the article itself with all spaces replaced with hyphens (`-`), and all additional characters such as periods (`.`), exclamation marks (`!`), question marks (`?`), commas (`,`), apostrophes (`'`), quotation marks (`"`), less than (`<`), more than (`>`), colons (`:`), forward slash (`/`), backwards slash (`\`), vertical slash (`|`), and asterisks (`*`) removed with no replacement.
-
-### File headers
-
-All news article files must include a basic header which includes information about the article's title and published date. This must follow the format below:
+News posts are markdown files (`.md`) placed in the [`news/` directory](https://github.com/ppy/osu-wiki/tree/master/news) of the [`osu-wiki` GitHub repository](https://github.com/ppy/osu-wiki), under the following format:
 
 ```
+news/yyyy/yyyy-mm-dd-news-post-title.md
+```
+
+The file name must contain the whole title, with all spaces replaced with hyphens (`-`) and all additional characters (such as punctuation marks) removed with no replacement.
+
+### Structure
+
+All news article files need to be structured in the following manner:
+
+```markdown
 ---
 layout: post
-title: "Aspire 2017 Stage Two: osu!taiko Concludes"
+title: News Post Title
 date: 2017-08-17 03:00:00 +0000
 ---
+
+Short preview paragraph
+
+![](/wiki/shared/news/2017-08-17-news-post-title/banner.jpg)
+
+Content
+
+—Author
 ```
 
-``layout`` must always be set to ``post``.
-
-``title`` must represent the article's full title and name, complete with any appropriate formatting. Markdown formatting is disallowed in this string.
-
-``date`` must represent a combined string displaying a calendar date in ISO 8601 format (2017-08-17), followed by a 24 hour time string (03:00:00), followed by a time offset from UTC (+0000). This date is used to determine the "xx minutes/hours/days ago" display on the website when referring to the publish dates of visible news articles.
+- `layout` must always be set to `post`.
+- `title` must represent the article's full title. Markdown formatting is disallowed in this string. News post titles, unlike wiki article titles and other headings, should be in title case. Note that surrounding quotes (`"`) may be necessary if the title contains colons (`:`) or number signs (`#`).
+- `date` must represent a combined string displaying a calendar date in ISO 8601 format (`2017-08-17`), followed by a 24-hour time string (`03:00:00`), followed by a time offset from UTC (`+0000`). This is the publication date used to determine when the news post becomes visible on the website.
+- The preview paragraph is what will be shown on the front page, news archive, and the osu!(lazer) in-game news listing, in addition to being the first paragraph of the news post.
 
 ### Markdown
 
-The osu! wiki uses a partial implementation of GFM (GitHub Flavored Markdown) with the following exceptions:
+Markdown usage is covered by the [article styling criteria](/wiki/Article_styling_criteria), but the following points concern news articles specifically:
 
-#### Titles
+- Heading level 1 (`#`), corresponding to a title, must not be used, because the title is provided by the front matter at the top of the article.
+- [Infoboxes](/wiki/Article_styling_criteria/Formatting#infoboxes) and [footnotes](/wiki/Article_styling_criteria/Formatting#footnotes) are not supported.
+- The [banner image](#banners) must not contain any alt text, i.e. text inside the square brackets of a markdown image link (`![alt text](image.png)`).
 
-News articles do not use traditional Markdown titles in any capacity whatsoever.
+#### Images
 
-#### Headers
+*For image format and quality standards, see: [Article styling criteria § Formats and quality](/wiki/Article_styling_criteria/Formatting#formats-and-quality)*
 
-Header levels 1 (``#``), 2 (``##``), and 3 (``###``) can be used. They have unique identifiers and can be linked directly to. Never use headers to style or format text.
+Images linked in news articles must either be hosted on osu! servers (i.e. `assets.ppy.sh`) or be placed in the `osu-wiki` GitHub repository.
 
-#### Bold
+News articles that use images have their own folder within the [`wiki/shared/news/` directory](https://github.com/ppy/osu-wiki/tree/master/wiki/shared/news), with the same name as the news post file name. Example: `wiki/shared/news/2017-08-17-news-post-title/banner.jpg`.
 
-Bolding is reserved for highlighting objects or phrases of importance, be them players, scoring, or whatever else is contextually considered a focus of the article in question.
+### Banners
 
-#### Italics
+News posts must have an image after the preview paragraph for use as a **banner** (also called *cover*). The first image in an article will be used as its banner on the front page, news listing, and news article view.
 
-Italics is used uncommonly to accent phrases or statements of interest within the conversational register. It may also be used to designate names of other creative works, such as the *osu! Coffee Hour* or the *Aspire Beatmapping Contests*.
+These banners appear in many different aspect ratios in different places of the website and on different devices, and should therefore be designed with any cropping due to this in mind.
 
-#### Horizontal bar
+![News post banner aspect ratio reference](img/banner-sizes.png "News post banner aspect ratio reference. Note that mobile devices may fall anywhere within or even slightly outside the common ranges specified here.")
 
-Horizontal bars must be used sparingly and only in situations where content needs to be cleanly and definitively separated from the rest of the article.
-
-#### Tables
-
-Markdown tables can be used, but is not recommended for displaying data in news articles. Visualising the data using an image is likely to be more pleasing and more accessible to most users.
-
-### Images
-
-All images linked to news articles must either be hosted on osu! servers (i.e. `assets.ppy.sh`) or placed within and referenced from the `osu-wiki` shared image repository.
-
-News articles that use images have their own folder within ``/wiki/shared/news/`` using the same naming format as their filename, with the exception of the ``.md`` suffix.
-
-Example:
-
-``/wiki/shared/news/2017-08-17-news-article-standards/banner.jpg``
-
-#### Covers
-
-News articles should have a [block image](/wiki/Article_styling_criteria/Formatting#display) after the preview paragraph for use as a **cover** (sometimes called *banner*). The game client and website automatically use the first image in an article as a cover on the front page, news listing, and news article view.
-
-Cover images should have a minimum width of 900 and minimum height of 200 for their base size. An `@2x` version with each dimension doubled should be provided if the source image is large enough to support it.<!-- TODO: there should be a more general place to explain how and why @2x images can be used, this isn't enough info and it's not only for cover images. -->
-
-Cover images appearing in multiple news articles are commonly put in the `/wiki/shared/news/banners` directory.
-
-#### Formats and quality
-
-Images used in news articles must be in JPG format at quality 9 (90) to quality 10 (100). PNG use is acceptable in instances where the file size is small, or quality cannot afford to be compromised.
-
-#### File size
-
-Images must be under 1 megabyte or they will fail to load.
-
-All images must be optimised as much as possible. Use [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive) to compress JPEG images. For consistency, use the following command for jpeg-archive:
-
-```
-jpeg-recompress -am smallfry <input> <output>
-```
-
-Where `<input>` is the file name to be compressed and `<output>` is the compressed file name.
-
-#### Captions
-
-Images are not soft-captioned using Markdown except in stylistic circumstances. They may be hard-captioned where contextually appropriate.
-
-#### Alt text
-
-Alt text is not to be used in banners.
+Banners should have a minimum 1000x200 px base size. A version with each dimension doubled should be provided if the source image is large enough to support it (resulting in `banner.jpg` and `banner@2x.jpg`). Banner images appearing in multiple news articles should be put in the [`wiki/shared/news/banners/` directory](https://github.com/ppy/osu-wiki/tree/master/wiki/shared/news/banners).
 
 ### HTML and embedded content
 
-Limited HTML use for the purposes of embedding off-site content such as YouTube videos, Twitch VODs or other applets designed to showcase osu! or osu! related content is allowed.
+Limited use of HTML is allowed for the purposes of embedding off-site content such as YouTube videos, Twitch VODs, or other applets designed to showcase osu! or osu!-related content.
 
-``<center>`` tag use (or any equivalent styling such as ``<p align='center'>``) is disallowed due to the news system styling automatically centring non-text elements.
+The width of all embedded content frames must be set to 95% with the exception of tall aspect ratios. To be included in articles in general, embedded content must support display at full-width styling without breaking or looking awful.
 
-The width of all embedded content frames must be set to ``width: 100%``. To be included in articles in general, embedded content must support display at full-width styling without breaking or looking awful.
+Video embed hosted on `assets.ppy.sh`:
+
+```html
+<div align="center">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/artists/172/release_showcase.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
+```
+
+Video embed hosted on YouTube:
+
+```html
+<div align="center">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/cXkiX7u4a9g" frameborder="0" allowfullscreen></iframe>
+</div>
+```

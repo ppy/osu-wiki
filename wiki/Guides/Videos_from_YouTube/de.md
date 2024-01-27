@@ -28,7 +28,7 @@ Dieses Tutorial ist gedacht für alle, die **keine** Videos außerhalb von YouTu
 2. Tippe den Befehl unten ein und drücke `Enter`
 
 ```cmd
-youtube-dl -f bestvideo <Video-Link>
+youtube-dl -f bestvideo <Videolink>
 ```
 
 ![YouTube-Videos mit youtube-dl herunterladen](img/example.jpg "YouTube-Videos mit youtube-dl herunterladen")
@@ -37,4 +37,4 @@ youtube-dl -f bestvideo <Video-Link>
 
 *Hauptseite: [Dateien komprimieren](/wiki/Guides/Compressing_files)*
 
-Nachdem du das Video heruntergeladen hast, kannst du es in die Beatmap importieren, so wie du es normalerweise über den [Design-Tab](/wiki/Client/Beatmap_editor/Design) im [Beatmap-Editor](/wiki/Client/Beatmap_editor) machen würdest. Jedoch wird das Video zusätzlich Audiospuren enthalten, die nur unnütz Speicherplatz verbrauchen. Außerdem verbieten die [Beatmap-Ranking-Kriterien](/wiki/Ranking_Criteria#video-and-background) Videos mit Audiospuren, da diese nicht verwendet werden. Mehr Informationen zum Entfernen der Audiospuren in einem Video findest du unter [Dateien komprimieren](/wiki/Guides/Compressing_files).
+Nachdem du das Video heruntergeladen hast, kannst du es in die Beatmap importieren, so wie du es normalerweise über den [Design-Tab](/wiki/Client/Beatmap_editor/Design) im [Beatmap-Editor](/wiki/Client/Beatmap_editor) machen würdest. Jedoch wird das Video zusätzlich Audiospuren enthalten, die nur unnütz Speicherplatz verbrauchen. Außerdem verbieten die [Beatmap-Ranking-Kriterien](/wiki/Ranking_criteria#video-and-background) Videos mit Audiospuren, da diese nicht verwendet werden. Mehr Informationen zum Entfernen der Audiospuren in einem Video findest du unter [Dateien komprimieren](/wiki/Guides/Compressing_files).

@@ -11,7 +11,7 @@ tags:
 # 掉血速度 (HP)
 
 *關於遊戲機制中的血量，請見：[血量](/wiki/Gameplay/Health)*\
-*關於掉血速度 (HP) 的規範，請見：[審核標準](/wiki/Ranking_Criteria)*
+*關於掉血速度 (HP) 的規範，請見：[審核標準](/wiki/Ranking_criteria)*
 
 **掉血速度** (***HP***) 是 [圖譜](/wiki/Beatmap) 的難度設定。控制了[掉血](/wiki/Gameplay/Health)對[血量](/wiki/Gameplay/Health)的影響。同時也影響玩家失誤的扣血量和準確按下[打擊物件](/wiki/Gameplay/Hit_object)的回血量。
 

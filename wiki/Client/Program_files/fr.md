@@ -83,7 +83,7 @@ Fichiers de données d'osu!. Contient une partie du cache d'osu!, comme le cache
 
 *Attention : Faites attention avec ces fichiers, vous pourriez casser osu! si vous ne faites pas attention.*
 
-## Fichiers de base de données (.db)
+### Fichiers de base de données (.db)
 
 Les fichiers de base de données sont des bases de données dont osu! a besoin pour fonctionner correctement. Les fichiers contiennent des informations vitales dont osu! a besoin, telles que les scores enregistrés et la liste en cache des beatmaps enregistrées sur l'appareil du joueur.
 
@@ -92,7 +92,7 @@ Les fichiers de base de données sont des bases de données dont osu! a besoin p
 - `presence.db` : Stocke un cache des joueurs osu! connectés dans la console de tchat.
 - `scores.db` : Stocke les classements locaux.
 
-## .cfg (Fichiers de configuration)
+### .cfg (Fichiers de configuration)
 
 Les fichiers de configuration configurent les paramètres initiaux pour que osu! fonctionne. Les fichiers peuvent être ouverts avec un éditeur de texte.
 
@@ -105,6 +105,6 @@ Le composant principal. Cliquez dessus pour le démarrer (uniquement pour Window
 
 osu!.exe (Démarrer osu!)
 
-#### .dll (extension de l'application)
+### .dll (extension de l'application)
 
 Ces fichiers .dll sont les composants et les dépendances d'osu!.

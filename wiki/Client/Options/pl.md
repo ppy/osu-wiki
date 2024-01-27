@@ -246,7 +246,7 @@ Głośność w kliencie gry możesz zmienić również poprzez naciśnięcie `Al
 | `Kalibrator opóźnienia` | Uruchamia kalibrator opóźnienia. | Przycisk |  |
 
 - Po więcej informacji nt. kalibratora opóźnienia, sprawdź [ten artykuł](/wiki/Client/Options/Offset_Wizard).
-- Po więcej informacji nt. korzystania z kalibratora opóźnienia, sprawdź [ten poradnik](/wiki/Guides/How_to_Use_the_Offset_Wizard).
+- Po więcej informacji nt. korzystania z kalibratora opóźnienia, sprawdź [ten poradnik](/wiki/Guides/How_to_use_the_Offset_Wizard).
 
 ## Skórka
 

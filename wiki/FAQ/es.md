@@ -18,7 +18,7 @@ Pudes ver los círculos en la pantalla inferior, y en la pantalla superior tiene
 
 *Explicación completa: [osu! Standard](/wiki/Game_mode/osu!)*
 
-Aunque la mayoría de los usuarios de PC no tiene una pantalla táctil a su disposición, este juego fue hecho para ser jugable con un ratón normal, así como cualquier número de dispositivos de entrada que puedas imaginar. Los diferentes estilos de juego pueden ser encontrados en [ésta](/wiki/Gameplay/Play_style) página. Existen algunas canciones que prolongan los límites del ratón normal (y de ti), pero todos los beatmaps ([rankeados](/wiki/Beatmap/Category#beatmaps-rankeados) y aprobados) han sido probados y (la mayoría) son posibles de pasar solo con un ratón.
+Aunque la mayoría de los usuarios de PC no tiene una pantalla táctil a su disposición, este juego fue hecho para ser jugable con un ratón normal, así como cualquier número de dispositivos de entrada que puedas imaginar. Los diferentes estilos de juego pueden ser encontrados en [ésta](/wiki/Gameplay/Play_style) página. Existen algunas canciones que prolongan los límites del ratón normal (y de ti), pero todos los beatmaps ([rankeados](/wiki/Beatmap/Category#ranked) y aprobados) han sido probados y (la mayoría) son posibles de pasar solo con un ratón.
 
 #### Lo Básico del Juego
 
@@ -247,7 +247,7 @@ Puedes encontrarlos en la página principal bajo el nombre de "[Beatmaps](https:
 
 ### ¿Puedo desactivar el "Kiai Time"?
 
-No, porque a diferencia del video, estos son integrados en el juego (como parte de los objetos), por lo tanto no puede ser desactivado.
+No, porque a diferencia del vídeo, estos son integrados en el juego (como parte de los objetos), por lo tanto no puede ser desactivado.
 
 ### ¡Los beatmaps son muy difíciles! ¿Dónde puedo encontrar algunos beatmaps más fáciles?
 

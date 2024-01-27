@@ -36,7 +36,6 @@ Berikut adalah daftar berbagai panduan yang telah dibuat oleh anggota-anggota ko
 
 ## Permainan
 
-- [Cara mencari dan mengunduh beatmap](Searching_and_Downloading_Beatmaps)
 - [Cara menggunakan offset wizard](How_to_Use_the_Offset_Wizard)
 - [Panduan untuk membeli tablet](Tablet_Purchase)
 - [Panduan untuk pemula](Beginner's_Tutorial)

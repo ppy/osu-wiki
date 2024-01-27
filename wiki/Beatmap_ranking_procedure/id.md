@@ -8,7 +8,7 @@ outdated_since: eba261b5bbbc70e338a61e8658c8040470402d3b
 
 *Lihat juga: [Rank (disambiguasi)](/wiki/Disambiguation/Rank)*
 
-Suatu [beatmap](/wiki/Beatmap) dapat memperoleh status [Ranked](/wiki/Beatmap/Category#ranked) dan diperkenalkan kepada khalayak luas dengan mengikuti prosedur ranking beatmap yang berlaku. 
+Suatu [beatmap](/wiki/Beatmap) dapat memperoleh status [Ranked](/wiki/Beatmap/Category#ranked) dan diperkenalkan kepada khalayak luas dengan mengikuti prosedur ranking beatmap yang berlaku.
 
 ## Modding
 
@@ -20,7 +20,7 @@ Apabila kamu merupakan seorang mapper pemula, kamu disarankan untuk benar-benar 
 
 ## Nominasi
 
-Beatmap-beatmap yang telah memenuhi standar kualitas dan telah sepenuhnya patuh pada [Ranking Criteria](/wiki/Ranking_Criteria) dapat kemudian dinominasikan oleh para anggota [Beatmap Nominator](/wiki/People/Beatmap_Nominators) (*BN*). Beatmap Nominator sendiri merupakan gugus pengguna (*usergroup*) yang tugas utamanya adalah menominasikan beatmap-beatmap yang dirasa telah siap untuk di-*rank*.
+Beatmap-beatmap yang telah memenuhi standar kualitas dan telah sepenuhnya patuh pada [Ranking Criteria](/wiki/Ranking_criteria) dapat kemudian dinominasikan oleh para anggota [Beatmap Nominator](/wiki/People/Beatmap_Nominators) (*BN*). Beatmap Nominator sendiri merupakan gugus pengguna (*usergroup*) yang tugas utamanya adalah menominasikan beatmap-beatmap yang dirasa telah siap untuk di-*rank*.
 
 Suatu beatmap juga dapat dinominasikan oleh para anggota [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*), walaupun para anggota NAT pada umumnya tidak seproaktif para anggota BN dalam memberikan nominasi mengingat tugas utama NAT bukanlah untuk menominasikan beatmap.
 

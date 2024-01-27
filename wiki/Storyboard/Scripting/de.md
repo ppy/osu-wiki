@@ -1,22 +1,27 @@
----
-outdated_translation: true
-outdated_since: 029eb57bd83c4d5d74fb54d65723f05b44411250
----
+# Storyboard-Scripting
 
-# Storyboard Scripting
+![Screenshot eines Storyboard-Skripts, geöffnet in "Code - OSS"](img/osb-example.png "Beispiel eines Storyboard-Skripts (.osb)")
 
-![Ein Bespiel eines Skriptes im .osb.](img/osb-example.png "Ein Bespiel eines Skriptes im .osb.")
+**Storyboard-Scripting** ist der Bearbeitungsprozess von [osu!-Storyboards](/wiki/Storyboard) über ihre [`.osb`](/wiki/Client/File_formats/osb_(file_format)) und [`.osu`](/wiki/Client/File_formats/osu_(file_format)) Dateien. Diese Dateien definieren Bilder und Effekte, die der [Spiel-Client](/wiki/Client) in Hintergrundanimationen während dem Spiel anzeigt.
 
-Als Zusatz zur Benutzung des [Storyboard Editors](/wiki/Client/Beatmap_editor/Design), um [Storyboards](/wiki/Storyboard) für Maps zu erstellen, können Sie auch ein Textdokument (oder den [Notepad++](http://www.notepad-plus-plus.org/)) dazu verwenden. Dies wird als ***Storyboarding durchs Skripten*** (SBS) bezeichnet und erlaubt es Ihnen präziser (in Pixeln und Millisekunden) mit Sprites/Objekten arbeiten zu lassen. |
+Scripting ist eine gängige Alternative zum [Storyboard-Editor](/wiki/Client/Beatmap_editor/Design) des Spiel-Clients, sobald es um Präzision oder Komplexität geht. Mit einem Text-Editor wie beispielsweise [Notepad](https://de.wikipedia.org/wiki/Microsoft_Editor "\"Microsoft Editor\" auf Wikipedia"), [Notepad++](https://www.notepad-plus-plus.org/) oder [Visual Studio Code](https://code.visualstudio.com/) können Storyboarder die exakten Werte von [Objekten](Objects) und [Befehlen](Commands) verändern, anstatt die Bildschirmsteuerung zu verwenden. Viele Storyboarder nutzen auch die [Programmierung](https://de.wikipedia.org/wiki/Programmierung), um Storyboard-Dateien zu erstellen, die manuell nur schwer anzufertigen wären.
 
-## Anleitung für Neueinsteiger
+*Warnung: Vermeide die Bearbeitung von Storyboard-Skripten einer [Beatmap](/wiki/Beatmap), die aktuell im [Beatmap-Editor](/wiki/Client/Beatmap_editor) geöffnet ist. Deine Arbeit könnte beim Speichern der Beatmap überschrieben werden.*
 
-[Doomsday hat ein Tutorial für Neueinsteiger erstellt, indem er euch das Konzept vom SBS erklärt (12:22, auf Englisch).](http://www.youtube.com/watch?v=UJ1YLDs-bZg)
+## Konzepte und Dateiformate
 
-## Vollständige Beschreibung
+Siehe die folgenden Artikel:
 
-Es basiert grundsätzlich auf [die offizielen Spezifikationen](https://osu.ppy.sh/community/forums/topics/1869) und Erfahrungen, bei der Erstellung von langen Storyboards. Dies hier ist **kein Schritt-für-Schritt Anleitung**, jedoch sind einfache Beispiele vorhanden. Dies dient dazu osu! genau zu beschreiben, wie der SBS in Aktionen übersetzt werden soll.
+- [Allgemeine Regeln für Storyboarding](General_Rules)
+- [Objekte](Objects)
+- [Befehle](Commands)
+- [Zusammengesetzte Befehle](Compound_Commands)
+- [Audio-Samples](Audio)
+- [Storyboard-Einstellungen in .osu-Dateien](osu!_File_Toggles)
+- [Variablen](Variables)
+- [Kurzschrift](Shorthand)
+- [Spickzettel](Cheat_Sheet)
 
-[Lies dir bitte erst die Regeln durch, bevor du mit dem SBS anfängst.](/wiki/Storyboard/Scripting/General_Rules) Klicke [hier](/wiki/Storyboard/Scripting/Objects) für Sprite/Objekt spezifische Elemente und [hier](/wiki/Storyboard/Scripting/Commands) für Befehle, um deren Bewegungabläufe festlegen zu können.
+## Community-Tools
 
-Hinweis: **Speichere es zuerst in der Beatmap als .osb-Datei ab**, bevor du es im Textdokument abspeicherst. Der Editor ist dazu auch noch sehr sensibel, daher solltest du **sehr oft** abspeichern, um mögliche Abstürze vorzubeugen.
+Diverse Tools wurden von der Community erstellt, um Storyboard-Scripting zu abstrahieren und zu erweitern, wie zum Beispiel [storybrew](https://github.com/Damnae/storybrew "GitHub-Repository") von ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377).

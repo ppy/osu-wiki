@@ -40,7 +40,7 @@ While the examples shown imply an [osu!](/wiki/Game_mode/osu!)-specific mapping 
 00:02:000 - I don't think this rhythm is rankable.
 ```
 
-**Avoid saying or suggesting that something is unrankable unless the [ranking criteria](/wiki/Ranking_Criteria) explicitly says that it is.** This may cause serious confusion for newer mappers. If something is unrankable, it means it cannot progress further through the [ranking process](/wiki/Beatmap_ranking_procedure), without exception, so use this phrase with care.
+**Avoid saying or suggesting that something is unrankable unless the [ranking criteria](/wiki/Ranking_criteria) explicitly says that it is.** This may cause serious confusion for newer mappers. If something is unrankable, it means it cannot progress further through the [ranking process](/wiki/Beatmap_ranking_procedure), without exception, so use this phrase with care.
 
 ---
 
@@ -165,7 +165,7 @@ learn how to map first and then I can mod this properly
 this map would look great in the trash can
 ```
 
-**Refrain from making rude or sarcastic remarks when modding.** This sort of behaviour is what would eventually get you [silenced](/wiki/Silence), and not something others would end up liking you for. Be sure to always follow the [Code of Conduct](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping#making-a-mod-post) when modding for a better modding environment for everyone.
+**Refrain from making rude or sarcastic remarks when modding.** This sort of behaviour is what would eventually get you [silenced](/wiki/Silence), and not something others would end up liking you for. Be sure to always follow the [Code of Conduct](/wiki/Rules/Code_of_conduct_for_modding_and_mapping#making-a-mod-post) when modding for a better modding environment for everyone.
 
 ---
 

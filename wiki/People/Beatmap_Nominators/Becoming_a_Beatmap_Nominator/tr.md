@@ -6,7 +6,7 @@ outdated_translation: true
 
 [Beatmap Aday Göstericilere](/wiki/People/Beatmap_Nominators) katılmak isteyen kullanıcıların [Aday Gösterme Denetleme Takımı](/wiki/People/Nomination_Assessment_Team) (NAT) tarafından yönetilen bir başvuru sürecinden geçmesi gerekir. Başvurular [BN websitesi](http://bn.mappersguild.com/) üzerinden yürütülür.
 
-Bir kullanıcının başvurmak için belirli bir modlama aktivite gereksinimini karşılaması, yakın tarihte modladığı iki tane mapi göndermesi, ve [Derecelendirme Kriterleri](/wiki/Ranking_Criteria) ile ilgili bir testi tamamması gerekir. Bir başvuru gönderildiğinde yeni bir başvuru göndermeden önce 90 günlük bir bekleme süresi bulunur. Bir karara varıldığında NAT tarafından bir mesaj gönderilecektir. Başvurularla ilgili daha fazla bilgiye bu websiteden ulaşılabilir.
+Bir kullanıcının başvurmak için belirli bir modlama aktivite gereksinimini karşılaması, yakın tarihte modladığı iki tane mapi göndermesi, ve [Derecelendirme Kriterleri](/wiki/Ranking_criteria) ile ilgili bir testi tamamması gerekir. Bir başvuru gönderildiğinde yeni bir başvuru göndermeden önce 90 günlük bir bekleme süresi bulunur. Bir karara varıldığında NAT tarafından bir mesaj gönderilecektir. Başvurularla ilgili daha fazla bilgiye bu websiteden ulaşılabilir.
 
 ## Basit kriterler
 
@@ -55,6 +55,6 @@ Aşağıdakiler Beatmap Aday Göstericilerden beklenen modlama özellikleridir. 
 
 - Her başvuranın `Mod Skoru`'nun `Gerekli Asgari Skoru` karşıladığına emin olunacaktır.
 - Yeterli skora sahip modderlar başvurdukları oyun moduna karşılık gelen NAT üyeleri tarafından, aşağıdaki kriterler göz önünde bulundurularak değerlendirilecektir:
-  - Genel davranış: Modların uygulanış tarzı ve [Etik Davranış Kurallarında](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping) belirtilen diğer davranış beklentileri, aynı zamanda sohbette/forumlarda gösterilen genel davranış.
-  - Modlama kabiliyetleri: Genel [Derecelendirme Kriterleri](/wiki/Ranking_Criteria) ve her oyun modunun kendine özel kriterleri hakkında sahip olunan bilgi. Metaveri, Zamanlama gibi ek kabiliyetler de göz önüne alınacaktır.
+  - Genel davranış: Modların uygulanış tarzı ve [Etik Davranış Kurallarında](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) belirtilen diğer davranış beklentileri, aynı zamanda sohbette/forumlarda gösterilen genel davranış.
+  - Modlama kabiliyetleri: Genel [Derecelendirme Kriterleri](/wiki/Ranking_criteria) ve her oyun modunun kendine özel kriterleri hakkında sahip olunan bilgi. Metaveri, Zamanlama gibi ek kabiliyetler de göz önüne alınacaktır.
 - Her bir modderın değerlendirilmesinden sonra, modderın Beatmap Aday Göstericilere katılıp katılmayacağı üzerine tartışılır.

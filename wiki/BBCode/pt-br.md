@@ -35,7 +35,7 @@ As tags de BBCode, que são suportadas pelo site do osu!, estão listadas e desc
 [b]texto[/b]
 ```
 
-A tag `[b]` é usada para enfatizar um texto através do negrito. O negrito do BBCode não afeta o tamanho da fonte. 
+A tag `[b]` é usada para enfatizar um texto através do negrito. O negrito do BBCode não afeta o tamanho da fonte.
 
 Botão na barra de formatação: ![Negrito](img/bold.png "Negrito")
 
@@ -72,12 +72,12 @@ Botão na barra de formatação: ![Tachado](img/strike.png "Tachado")
 ### Cores
 
 ```
-[color=HEXCODE]texto[/color]
+[color=#HEXCODE]texto[/color]
 ```
 
 *Para uma lista com todas as cores, veja [Nomes de cores no X11](https://pt.wikipedia.org/wiki/Nomes_de_cores_no_X11#Tabelas_de_nome_de_cores)*
 
-A tag `[color]` é usada para estilizar um texto através de colorações de letras. A tag usa o formato de [código HEX](https://en.wikipedia.org/wiki/Web_colors#Hex_triplet) para especificar a cor, embora também possam ser especificadas através de nomes de cor em HTML como "red" ou "green". Para utilizar, substitua o argumento `HEXCODE` com a cor correspondente em código HEX ou por seu nome em HTML.
+A tag `[color]` é usada para estilizar um texto através de colorações de letras. A tag usa o formato de [código HEX](https://en.wikipedia.org/wiki/Web_colors#Hex_triplet) para especificar a cor, embora também possam ser especificadas através de nomes de cor em HTML como "red" ou "green". Para utilizar, substitua o argumento `#HEXCODE` com a cor correspondente em código HEX ou por seu nome em HTML.
 
 O argumento mencionado anteriormente não aceita aspas (`"`) e não possui uma cor padrão. Se o argumento não for especificado ou se aspas forem utilizadas, a tag não será processada como uma tag de BBCode.
 
@@ -117,7 +117,7 @@ texto
 
 A tag `[box]` é usada para esconder texto e imagens dentro de um link. Ao clicar no link, o conteúdo contido nele será revelado de maneira similar a um menu de seleção.
 
-O nome customizado do link é denotado pelo argumento `NAME`. Especificando esse argumento irá criar um cabeçalho dentro da caixa e será automaticamente ajustado ao tamanho da caixa. Se o argumento não for especificado, a tag `[box]` irá criar uma caixa sem cabeçalho por padrão (o que tornará impossível de clicar). O argumento não aceita aspas (`"`), e irá exibir espaços em branco. 
+O nome customizado do link é denotado pelo argumento `NAME`. Especificando esse argumento irá criar um cabeçalho dentro da caixa e será automaticamente ajustado ao tamanho da caixa. Se o argumento não for especificado, a tag `[box]` irá criar uma caixa sem cabeçalho por padrão (o que tornará impossível de clicar). O argumento não aceita aspas (`"`), e irá exibir espaços em branco.
 
 A tag é comumente usada para esconder grandes textos ou imagens que podem poluir uma postagem no fórum por exemplo. É usado em FAQ ou postagens de lançamento de [skins](/wiki/Skinning)
 
@@ -177,7 +177,7 @@ A tag `[centre]` é usada para centralizar um texto. Ela é usada geralmente par
 
 A tag `[url]` é usada para transformar textos comuns em links.
 
-*Nota: Essa tag não é necessária para aqueles que nõa desejam dar nomes customizados aos seus links, já que o editor de fórum processa automaticamente as URLs como links.* 
+*Nota: Essa tag não é necessária para aqueles que nõa desejam dar nomes customizados aos seus links, já que o editor de fórum processa automaticamente as URLs como links.*
 
 Para criar links com a tag `[url]`, usuários precisam especificar dois argumentos: o texto que será exibido no lugar do link, e a URL específica do site para ser utilizada. O texto customizado deve ser informado entre as tags de abertura e de fechado e a URL deve ser informada no argumento `LINK`, sem as aspas (`"`). Se nenhum texto customizado for informado, o URL será exibido como padrão.
 

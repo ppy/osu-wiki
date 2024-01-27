@@ -76,7 +76,7 @@ This contest has come to an end and resulted in the following podium:
 - **Entries must be in `.osz` format.**
 - **Contestants must submit ONE difficulty of any song they choose from the [Featured Artist library](https://osu.ppy.sh/beatmaps/artists).**
 - **Entries must not exceed the drain time of 7 minutes.** There will a bit of leeway in cases where the drain time is really close to the 7 minute mark.
-- **Entries should abide by the [Ranking Criteria](/wiki/Ranking_Criteria).** Mistakes happen and points will be deducted for them, but submissions that cannot be ranked without major changes will be disqualified. The following categories of the Ranking Criteria may be ignored for the sake of this contest:
+- **Entries should abide by the [Ranking Criteria](/wiki/Ranking_criteria).** Mistakes happen and points will be deducted for them, but submissions that cannot be ranked without major changes will be disqualified. The following categories of the Ranking Criteria may be ignored for the sake of this contest:
   - Audio
   - Metadata
   - Skinning

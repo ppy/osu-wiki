@@ -73,7 +73,7 @@ On 26 September 2015, [cYsmix](http://cysmix.com/) became one of the first offic
 
 ![](img/cysmix-album-cover-1.jpg "The album cover for cYsmix's first release of official osu! songs")
 
-Each track had its own pre-timed [`.osz`](/wiki/Client/File_formats/Osz_(file_format)) file included with it and were released on [cYsmix's SoundCloud](https://soundcloud.com/olemlanglie) on 28 September 2015.
+Each track had its own pre-timed [`.osz`](/wiki/Client/File_formats/osz_(file_format)) file included with it and were released on [cYsmix's SoundCloud](https://soundcloud.com/olemlanglie) on 28 September 2015.
 
 In addition to this, an "open bounty" named "Mapping With Rewards" was created for this event, that allowed anyone to map one of the aforementioned tracks, get it into a rankable state, and if it was impressive enough, that person would receive a bounty for it. The bounty reward offered at the time was as follows: one song bundled with client (for a limited period of time), $50 osu!store credit, 6 months supporter tag, and a unique profile badge. This open bounty was reportedly created due to a need to reward players for quality beatmaps and to celebrate the new tracks without having to go through the hassle that comes with running traditional mapping contests.[^ppy-blog-sep-mwr]
 

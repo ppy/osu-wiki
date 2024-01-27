@@ -15,15 +15,15 @@ El **Spanish Showdown 2022** (***SS 2022***) fue un torneo español de doble eli
 
 | Eventos | Fechas |
 | --: | :-- |
-| Fase de registros | 2022-03-04/2022-03-17 |
-| Clasificatorios | 2022-03-18/2022-03-20 |
-| Fase de grupos | 2022-03-26/2022-03-29 |
-| Ronda de 32 | 2022-04-01/2022-04-05 |
-| Octavos de final | 2022-04-08/2022-04-12 |
-| Cuartos de final | 2022-04-15/2022-04-20 |
-| Semifinales | 2022-04-23/2022-04-26 |
-| Finales | 2022-04-30/2022-05-05 |
-| Gran Final | 2022-05-13/2022-05-15 |
+| Fase de registros | 4/3/2022 - 17/3/2022 |
+| Clasificatorios | 18/3/2022 - 20/3/2022 |
+| Fase de grupos | 26/3/2022 - 29/3/2022 |
+| Ronda de 32 | 1/4/2022 - 5/4/2022 |
+| Octavos de final | 8/4/2022 - 12/4/2022 |
+| Cuartos de final | 15/4/2022 - 20/4/2022 |
+| Semifinales | 23/4/2022 - 26/4/2022 |
+| Finales | 30/4/2022 - 5/5/2022 |
+| Gran Final | 13/5/2022 - 15/5/2022 |
 
 ## Premios
 

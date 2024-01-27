@@ -58,7 +58,7 @@ Advanced Global Taiko Showdown 2019 był prowadzony przez różnych członków s
 - [Serwer Discord AGTS](https://discord.gg/zbHVzvF)
 - [Livestream](https://www.twitch.tv/gtsosu)
 - [Challonge brackets](https://challonge.com/AGTS2019)
-- **[Arkusz Statystyk](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit?usp=sharing)**
+- **[Arkusz Statystyk](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit)**
 
 ## Uczestnicy
 
@@ -380,9 +380,9 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 
 ### Ogólne Zasady
 
-1. Ten turniej to **turniej drużynowy 2v2** z drużynami po **maksymalne 5 graczy.**
-2. Drużyny najpierw zagrają w f**azie grupowej** a następnie w **drabince podwójnej eliminacji.**
-3. Systemem Punktacji będzie **Score V2.**
+1. Ten turniej to **turniej drużynowy 2v2** z drużynami po **maksymalne 5 graczy**.
+2. Drużyny najpierw zagrają w f**azie grupowej** a następnie w **drabince podwójnej eliminacji**.
+3. Systemem Punktacji będzie **Score V2**.
 4. Każdy gracz, który spełnia wymagania określone w części dotyczącej ograniczeń rankingu, może zagrać. Ponieważ ten turniej będzie miał na celu zdobycie odznaki profilu, niektórzy gracze mogą zostać odrzuceni przez personel osu.
 5. Każdy członek personelu oprócz **Organizatorów, Mappoolerów oraz Sędziów** może wziąć udział w turnieju.
 6. Zawodnicy i członkowie personelu muszą całkowicie przeczytać ten zestaw reguł (i założymy, że zrobiłeś to podczas całego turnieju).
@@ -391,8 +391,8 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 
 ### Ograniczenia Rangi
 
-1. Musisz być w rankingu od #500 do #3,500 podczas rejestracji. Oznacza to, że musisz być w tym przedziale rankingowym **aż do końca rejestracji.**
-2. Nie możesz przekroczyć rangi **#400 podczas turnieju.** Jeśli przekroczysz ten limit, zostaniesz zdyskwalifikowany.
+1. Musisz być w rankingu od #500 do #3,500 podczas rejestracji. Oznacza to, że musisz być w tym przedziale rankingowym **aż do końca rejestracji**.
+2. Nie możesz przekroczyć rangi **#400 podczas turnieju**. Jeśli przekroczysz ten limit, zostaniesz zdyskwalifikowany.
 3. Musisz zarejestrować się za pomocą flagi kraju swojego profilu.
 4. YMusisz dołącyć do Serwera Discord turnieju.
 
@@ -404,7 +404,7 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 4. Personel może odmówić graczowi, jeśli uzna, że umiejętności gracza nie pasują do turnieju.
 5. W tym roku zezwalamy na 2 drużyny dla danego kraju pod pewnymi warunkami:
    - Jeżeli jest **6 lub więcej graczy** zarejestrowanych dla kraju.
-   - Każda drużyna musi posiadać **conajmniej 3 graczy.**
+   - Każda drużyna musi posiadać **conajmniej 3 graczy**.
 6. Kapitan wybrany przez personel turnieju jest odpowiedzialny za wybór składu drużyny, chyba, że:
    1. Jeśli w danym kraju zarejestrowanych jest 5 graczy lub mniej, ci gracze utworzą zespół reprezentujący ich kraj. W innych przypadkach to on zdecyduje, jak to się stanie, np.
    2. W przypadku, gdy w danym kraju zapisanych jest więcej niż 6 graczy, skład musi być rozdzielony, aby utworzyć 2 drużyny. Zaleca się jak najszybsze znalezienie porozumienia, a następnie zacząć wybranie kapitana aby szybciej zaplanować i przygotować mecze.
@@ -417,7 +417,7 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 2. Drużyna zostanie rozstawiona ze średnią swoich rang na każdej mapie podczas rundy kwalifikacji.
 3. W przypadku, gdy zarejestrowanych jest więcej niż 32 zespoły, tylko 32 najlepsze drużyny przejdą dalej.
 4. Drużyny zostaną rozlosowane w **6 grupach po 4** zespoły podczas Drawing Show, który odbędzie się w niedzielę 11 sierpnia.
-5. W Fazie Grupowej wszystkie drużyny z każdej grupy staną naprzeciw siebie. **Najlepsze 2 zespoły wychodzą z grupy.**
+5. W Fazie Grupowej wszystkie drużyny z każdej grupy staną naprzeciw siebie. **Najlepsze 2 zespoły wychodzą z grupy**.
 6. Rankingi każdej grupy są określane przez sortowanie wyników wyników każdej drużyny w następującym priorytecie:
    1. Najwięcej meczy wygranych.
    2. Najwyższy (liczba wygranych map - liczba przegranych map) wynik.
@@ -438,17 +438,17 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 5. Każdy pula map będzie się składać z 20 map.
 6. Ilość map Hidden, Hard Rock i Double Time będzie wynosić 2 i 3 dla map FreeMod we wszystkich Fazach.
 7. Mapy EX będą grane bez modów i są trudniejszą wersją NoMod. Zawierają mapy, które zawierają specjalne techniki mapowania, zmiany prędkości itp.
-8. Mapy FreeMod będą grane z użyciem FreeModa. Każdy gracz może wybrać **Hidden, HardRock albo oba. Przynajmniej jeden gracz z każdej drużyny musi grać z conajmniej jednym modem.**
+8. Mapy FreeMod będą grane z użyciem FreeModa. Każdy gracz może wybrać **Hidden, HardRock albo oba. Przynajmniej jeden gracz z każdej drużyny musi grać z conajmniej jednym modem**.
 9. Tiebreaker jest rozgrywany w warunkach FreeMod, ale nie jest wymagane aby ktokolwiek grał z modem.
 10. Mappool dla każdego Fazy zostanie zaprezentowany tydzień wcześniej.
 
 ### Instrukcje Planowania
 
-1. Każda Faza odbywa się **podczas weekendu.** (Dozwolone jest jednak zaplanowanie meczu na inny dzień, jeśli w weekend nie będzie czasu)
+1. Każda Faza odbywa się **podczas weekendu**. (Dozwolone jest jednak zaplanowanie meczu na inny dzień, jeśli w weekend nie będzie czasu)
 2. Mecze mogą się nakładać, jeśli sędziowie są dostępni.
 3. Postaramy się zaplanować mecze jak najlepiej, aby pasowały do stref czasowych. Harmonogram zostanie wydany w weekend przed każdą Fazą.
 4. Przełożenia będą rozpatrywane tylko wtedy, gdy obie drużyny zgodzą się na ustalony czas, należy to zrobić i powiadomić o tym personel turnieju przed **Piątkiem o 01:59 UTC+2** w tym konkretnym tygodniu, gdy mecz się odbędzie.
-5. O zmiany harmonogramu może prosić tylko **kapitan drużyny.**
+5. O zmiany harmonogramu może prosić tylko **kapitan drużyny**.
 
 ### Regulamin Meczu
 
@@ -460,7 +460,7 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 6. Każda drużyna ma jedną mapę rozgrzewkę, ale musi być poniżej 4 minut. Każdy z graczy może wejść do pokoju podczas rozgrzewki.
 7. Każdy kapitam musi zbanować **jedną mapę** podczas każdego meczu (oprócz Tiebreakera). Te mapy nie będą mogły zostać wybrane przez żadną z drużyn podczas całego meczu.
 8. Kapitan każdej drużyny musi użyć komendy `!roll` na czacie.
-9. Drużyna z **wyższym rollem banuje druga i wybiera pierwsza mapę.** Drużyna z **niższym rollem banuje pierwsza i wybiera druga mapę.**
+9. Drużyna z **wyższym rollem banuje druga i wybiera pierwsza mapę**. Drużyna z **niższym rollem banuje pierwsza i wybiera druga mapę**.
 10. Wybór mapy będzie następował na przemian przez kapitanów drużyny.
 11. Kapitan może wybrać dowolną mapę z aktualnego mappoola.
 12. Wymiana graczy podczas meczu jest dozwolona bez limitu.

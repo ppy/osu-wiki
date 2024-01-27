@@ -220,7 +220,7 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
   3. [Nanahoshi Kangengakudan - MAKE A LOSER (inst) (Keqing) \[Ayamateurre's Insane\]](https://osu.ppy.sh/beatmapsets/1504828#osu/3169833)
   4. [Street vs. Sin:cK - Adamantite (Acylica) \[vikala's Another\]](https://osu.ppy.sh/beatmapsets/1265628#osu/2630256)
 - Hidden
-  1. [Sound Souler - Bubble Flower (Sylas) \[\_Epreus' Extra\]](https://osu.ppy.sh/beatmapsets/1152182#osu/2438031) 
+  1. [Sound Souler - Bubble Flower (Sylas) \[\_Epreus' Extra\]](https://osu.ppy.sh/beatmapsets/1152182#osu/2438031)
   2. [Rin'ca - Darling-go-round (Bellicose) \[Promise\]](https://osu.ppy.sh/beatmapsets/1501758#osu/3077032)
 - HardRock
   1. [Nero's Day At Disneyland - No Money Down, Low Monthly Payments (grumd) \[Insane\]](https://osu.ppy.sh/beatmapsets/111825#osu/290733)
@@ -379,7 +379,6 @@ Sunday, 19 February 2023:
 
 1. Beatmap scoring is based on **[ScoreV2](/wiki/Gameplay/Score#scorev2).**
 2. The mappools for each round will be announced by the tournament management in advance before the actual matches take place.
-   - All beatmaps in the tournament will feature songs that are related to video games in one way or another.
 3. Match schedules will be predetermined by the tournament management. If there are any players who are unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule at the `#scheduling` channel in the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
 5. If a player does not show up within **10 minutes** of the start time, their opponent wins by default.
@@ -410,7 +409,7 @@ Sunday, 19 February 2023:
 3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Players **are not allowed** to join (or register for) more than one Qualifier lobby.
 5. Based on their performance in the Qualifier, players will be ranked based on their Z-Sum value (which is the total amount of Z-Score across all eleven Qualifier beatmaps). A brief explanation on the concept of Z-Sum and Z-Score can be found [here](http://www.statisticshowto.com/probability-and-statistics/z-score/).
-6. 16 players with the **highest Z-Sum value** will advance to the knock-out stages. 
+6. 16 players with the **highest Z-Sum value** will advance to the knock-out stages.
    - If there are two (or more) players who share the same Z-Sum value, the player that holds the higher total score combined from all ten Qualifier beatmaps will be placed in the higher seed.
 7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 

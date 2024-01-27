@@ -993,7 +993,7 @@ Sunday, 24 February 2019:
 
 ### General rules
 
-1. osu! European Tournament uses double-elimination elimination system and it is a 2v2 osu! gamemode tournament.
+1. osu! European Tournament uses double-elimination elimination system and it is a 2v2 osu! game mode tournament.
 2. osu! European Tournament features three (3) brackets:
    - Top Bracket, in which will play teams composed of players **within** the rank **1** to **5,000** range.
    - Mid Bracket, in which will play teams composed of players **within** the rank **5,000** to **15,000** range.

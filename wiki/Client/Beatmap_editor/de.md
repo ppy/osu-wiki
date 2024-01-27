@@ -27,16 +27,16 @@ Der Tab [Design](/wiki/Client/Beatmap_editor/Design) bietet eine Möglichkeit zu
 
 ## Song-Setup
 
-Mit [Song-Setup](/wiki/Client/Beatmap_editor/Song_Setup) lassen sich die [Metadaten](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-metadata) einer [Beatmap](/wiki/Beatmap) und andere Dinge, die für eine Beatmap einzigartig sind, eintragen. Das beinhaltet den Titel eines Songs, den Künstler, den Namen des Schwierigkeitsgrads, Combo-Farben, etc.
+Mit [Song-Setup](/wiki/Client/Beatmap_editor/Song_setup) lassen sich die [Metadaten](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-metadata) einer [Beatmap](/wiki/Beatmap) und andere Dinge, die für eine Beatmap einzigartig sind, eintragen. Das beinhaltet den Titel eines Songs, den Künstler, den Namen des Schwierigkeitsgrads, Combo-Farben, etc.
 
 ## Anderes
 
 Andere Komponenten des Beatmap-Editors beinhalten:
 
 - [AiMod](AiMod): Ein automatisiertes System, welches Probleme in einer Beatmap meldet
-- [Taktteiler](Beat_Snap_Divisor): Bestimmt, wie Objekte auf der Zeitleiste einrasten
+- [Taktteiler](Beat_snap_divisor): Bestimmt, wie Objekte auf der Zeitleiste einrasten
 - [Distance-Snap](Distance_snap): Der Multiplikator, der beeinflusst, wie nah oder weit Hit-Objekte voneinander entfernt sind
 - [Kiai-Zeit](/wiki/Gameplay/Kiai_time): Spezielle Timing-Sektionen, die helfen, Teile einer Beatmap hervorzuheben
 - [Menü](Menu): Hilft dir bei der Orientierung im Beatmap-Editor
-- [SB-Belastung](SB_Load): Eine Zahl, die angibt, wie anspruchsvoll ein Storyboard ist
+- [SB-Belastung](SB_load): Eine Zahl, die angibt, wie anspruchsvoll ein Storyboard ist
 - [Zeitleisten](Timelines): Zeigt die platzierten Hit-Objekte, Pausen und mehr an

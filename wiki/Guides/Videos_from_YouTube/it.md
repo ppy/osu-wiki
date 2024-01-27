@@ -34,4 +34,4 @@ youtube-dl -f bestvideo <video link>
 
 *Pagina principale: [Comprimere File](/wiki/Guides/Compressing_files)*
 
-Dopo aver scaricato il video, puoi caricarlo come faresti normalmente attraverso la [scheda design](/wiki/Client/Beatmap_editor/Design) nell'[editor beatmap](/wiki/Client/Beatmap_editor). Tuttavia, non soltanto il video conterrà una traccia audio che non verrà usata e che occuperrà spazio extra, i [Criteri per il Rank](/wiki/Ranking_Criteria#video-and-background) vietano video con traccie audio in quanto non verranno usate. Vedi [Comprimere File](/wiki/Guides/Compressing_files) per sapere modi di rimuovere audio dal video.
+Dopo aver scaricato il video, puoi caricarlo come faresti normalmente attraverso la [scheda design](/wiki/Client/Beatmap_editor/Design) nell'[editor beatmap](/wiki/Client/Beatmap_editor). Tuttavia, non soltanto il video conterrà una traccia audio che non verrà usata e che occuperrà spazio extra, i [Criteri per il Rank](/wiki/Ranking_criteria#video-and-background) vietano video con traccie audio in quanto non verranno usate. Vedi [Comprimere File](/wiki/Guides/Compressing_files) per sapere modi di rimuovere audio dal video.

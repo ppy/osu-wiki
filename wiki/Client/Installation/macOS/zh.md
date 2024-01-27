@@ -1,7 +1,3 @@
----
-no_native_review: true
----
-
 # 在 macOS 上安装
 
 这个页面会为你在 macOS 设备上安装 osu! 提供有限的帮助。
@@ -16,7 +12,7 @@ macOS 版本的 osu! 可能会出现轻微的显示问题，且游玩性能相�
 
 1. 访问[非官方的 Wineskin 下载页面](https://osu.ppy.sh/community/forums/topics/1106057)，下载最新版本的 Wineskin 并解压缩。
 2. 下载[非官方的 osu!macOS Agent tool](https://osu.ppy.sh/community/forums/topics/1036678) 并使用它来修复 `osu!.app` 文件。你也可以：
-   1. 将 `osu!.app` 移动到桌面
+   1. 将 `osu!.app` 移动到桌面。
    2. 打开终端，粘贴这条指令：`xattr -c 'Desktop/osu!.app'`，然后按下 `Return`。
 3. 双击打开 `osu!.app`。
 4. 安装程序会自动开始运行。安装路径会位于 `osu!.app` 内，无法改变。移动 `osu!.app` 会同时移动所有游戏文件，包括任何[谱面](/wiki/Beatmap)和[皮肤](/wiki/Skin)。你可以右键点击它，然后点击`显示包内容`来浏览游戏文件夹下的所有文件。
@@ -37,7 +33,7 @@ macOS 版本的 osu! 可能会出现轻微的显示问题，且游玩性能相�
 
 ## osu!(lazer)
 
-[osu!(lazer)](/wiki/Client/Release_stream/Lazer) 是目前尚在开发中的下一代 osu! 游戏客户端。如果你不在乎[成绩分](/wiki/Performance_points)的话，那么推荐你试试它。若要安装它，请参照如下步骤：
+[osu!(lazer)](/wiki/Client/Release_stream/Lazer) 是目前尚在开发中的下一代 osu! 游戏客户端。如果你不在乎[表现分](/wiki/Performance_points)的话，那么推荐你试试它。若要安装它，请参照如下步骤：
 
 1. 访问[osu!(lazer) 下载页面](https://github.com/ppy/osu/releases/latest)，下载 `osu!.app.zip`，然后解压它。
 2. 双击 osu!，然后点击`打开`来打开它。

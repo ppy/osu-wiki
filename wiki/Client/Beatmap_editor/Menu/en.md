@@ -4,147 +4,73 @@
 
 ![File menu](img/M_File.jpg "File menu")
 
-**Basic File commands.**
-
-### File commands
-
 | Name | Description |
 | :-- | :-- |
-| Clear All Notes (`Ctrl` + `N`) | Purge the current difficulty's hitnotes. |
-| Open Difficulty... | **For Editing:** Quickly switch between difficulties. **For Reference:** (osu!mania Only) Overlay the selected difficulty over the (currently) opened one. |
-| Save (`Ctrl` + `S`) | Save current changes (both `.osu` and `.osb`) |
-| Create a new Difficulty... | Save the current changes on this difficulty as a new difficulty. The old difficulty is preserved to its last saved state when reloaded. |
-
-### Revert commands
-
-| Name | Description |
-| :-- | :-- |
-| Revert to Saved (`Ctrl` + `L`) | Cancel current changes and return to the last saved state. For general mishaps (hitnotes). |
-| Revert to Saved (Full) (`Ctrl` + `Shift` + `L`) | Cancel current changes and return to the last saved state. For complicated mishaps (timing, storyboard). |
-
-### Troubleshoot commands
-
-| Name | Description |
-| :-- | :-- |
-| Test Beatmap (F5) | Test the Beatmap. Current changes will be saved in order to test. |
-| Open AiMod (`Ctrl` + `Shift` + `A`) | Open AiMod. |
-
-### Beatmap Packaging commands
-
-| Name | Description |
-| :-- | :-- |
-| Upload Beatmap... (`Ctrl` + `Shift` + `U`) | Upload the beatmap to the [WIP section](https://osu.ppy.sh/community/forums/10). Requires osu!account signed in to the website to view "Beatmaps" forum. |
-| Export Package... | Export the beatmap as `.osz`. The file will be sent to "Exports" folder and you will be directed to osu!/Exports from the Beatmap Editor. |
-| Extract Map Package | ? |
-| Import from... | **bms/bme:** (osu!mania only) Open .bms/.bme file to be imported as osu!mania difficulty. |
-
-### Programmer's commands
-
-| Name | Description |
-| :-- | :-- |
-| Open Song Folder | Open the song folder location inside osu!/Songs. |
-| Open `.osu` in Notepad | Open beatmap's difficulty file in MS Notepad. |
-| Open `.osb` in Notepad | Open base file (storyboard) in MS Notepad. |
-
-### Emergency Exit command
-
-| Name | Description |
-| :-- | :-- |
-| Exit... (`Esc`) | Exit Beatmap Editor. May prompt you to save recent changes. Sometimes *ignores* Design tab changes. |
+| Clear All Notes (`Ctrl` + `N`) | Remove all hit objects of the difficulty. |
+| Open Difficulty... | **For Editing:** Quickly switch between difficulties. **For Reference:** ([osu!mania](/wiki/Game_mode/osu!mania) only) Overlay the selected difficulty over the currently opened one. |
+| Save (`Ctrl` + `S`) | Save current changes (both [`.osu`](/wiki/Client/File_formats/osu_(file_format)) and [`.osb`](/wiki/Client/File_formats/osb_(file_format))) |
+| Create a new Difficulty... | Save the current changes as a new difficulty. The old difficulty is preserved to its last saved state when reloaded. |
+| Revert to Saved (`Ctrl` + `L`) | Return to the last saved state of the difficulty and storyboard. |
+| Revert to Saved (Full) (`Ctrl` + `Shift` + `L`) | Return to the last saved state of the difficulty and storyboard, and reload all files (sprites, sound samples, etc.). |
+| Test Beatmap (`F5`) | [Test](/wiki/Client/Beatmap_editor/Test_mode) the difficulty, offering to save changes beforehand. |
+| Open AiMod (`Ctrl` + `Shift` + `A`) | Open [AiMod](/wiki/Client/Beatmap_editor/AiMod). |
+| Upload Beatmap... (`Ctrl` + `Shift` + `U`) | [Upload](/wiki/Beatmapping/Beatmap_submission) the beatmap to the [Works In Progress](https://osu.ppy.sh/community/forums/10) forum. |
+| Export Package... | Export the beatmap as an [`.osz`](/wiki/Client/File_formats/osz_(file_format)) archive for self-distribution, and open the `Exports` folder that contains it. |
+| Extract Map Package | Extract an `.osz2`<!-- TODO(TicClick: add a link when the article is up)--> beatmap into a temporary folder to override its files during modding.[^osz2-note] |
+| Import from... | **bms/bme:** Open a `.bms`/`.bme` file to be imported as an osu!mania difficulty. |
+| Open Song Folder | Open the beatmap's folder, which contains relevant game files. |
+| Open `.osu` in Notepad | Open the file for the currently selected difficulty in MS Notepad. |
+| Open `.osb` in Notepad | Open the beatmap's [storyboard](/wiki/Storyboard) file in MS Notepad. |
+| Exit... (`Esc`) | Exit the beatmap editor, suggesting to save recent changes beforehand.[^exit-note] |
 
 ## Edit
 
 ![Edit menu](img/M_Edit.jpg "Edit menu")
 
-Edit commands. Same as default MS shortcuts.
-
-### Redo/Undo commands
-
-Do note that these commands can be disabled at [Options](/wiki/Client/Options) sidebar to prevent crash when editing marathon songs.
-
 | Name | Description |
 | :-- | :-- |
-| Undo (`Ctrl` + `Z`) | Undo one step. |
-| Redo (`Ctrl` + `Y`) | Redo one step. |
-
-### Edit commands (Select a note before use)
-
-| Name | Description |
-| :-- | :-- |
-| Cut (`Ctrl` + `X`) | Cut the note(s). |
-| Copy (`Ctrl` + `C`) | Copy the note(s) |
-| Paste (`Ctrl` + `V`) | Paste the note(s) |
-| Delete (`Delete`) | Delete the note(s) |
-
-### Special commands
-
-| Name | Description |
-| :-- | :-- |
-| Select All (`Ctrl` + `A`) | Select every single notes. |
-| Clone (`Ctrl` + `D`) | Copy + Paste. |
-
-### Rotation commands
-
-| Name | Description |
-| :-- | :-- |
-| Reverse selection (`Ctrl` + `G`) | **Slider:** Reverse the numbering placement. **Select All + this:** Your beatmap design goes the other way around. Example: A hit circle at 10 seconds will be moved to the last 10 seconds of the song and vice versa. |
-| Flip Horizontally (`Ctrl` + `H`) | Flip the note(s) from left to right (with respect to y-axis line of Playfield origin) and vice versa. |
-| Flip Vertically (`Ctrl` + `J`) | Flip the note(s) from up to down (with respect to x-axis line of Playfield origin) and vice versa. |
-| Rotate 90° Clockwise (`Ctrl` + `>`) | Rotate the note(s) 90° right |
-| Rotate 90° Anticlockwise (`Ctrl` + `<`) | Rotate the note(s) 90° left |
-| Rotate by... (`Ctrl` + `Shift` + `R`) | Set your rotation angle (+/- 180°) for the poor note(s). You can adjust the rotation Direction \[(Anti-)Clockwise\] and Origin \[(Playfield/Selection) Centre\]. |
-| Scale by... (`Ctrl` + `Shift` + `S`) | Set your enlargement size (0.500x - 1.200x) for the poor note(s). You can adjust the Origin \[(Playfield/Selection) Centre\] and "Apply to" (the enlargement scale to) either or both x-axis and/or y-axis. |
-
-### Reset Buttons
-
-| Name | Description |
-| :-- | :-- |
-| Reset selected objects' samples | Remove hitsound of currently selected note. |
-| Reset all samples | Remove all hitsounds from all the notes in this difficulty. |
-| Reset all combo colour | Cancel all combo colourings on the notes. |
-| Reset breaks | Cancel break times. Does not work on automated break times that prevent excessive HP drain. |
-
-### Nudge commands
-
-| Name | Description |
-| :-- | :-- |
-| Nudge Backward (`J`) | Move the note(s) one beat backward based on Beat Snap Divisor. |
-| Nudge Forward (`K`) | Move the note(s) one beat forward based on Beat Snap Divisor. |
+| Undo (`Ctrl` + `Z`) | Undo the last edit. |
+| Redo (`Ctrl` + `Y`) | Repeat the last edit. |
+| Cut (`Ctrl` + `X`) | Cut selected objects. |
+| Copy (`Ctrl` + `C`) | Copy selected objects. |
+| Paste (`Ctrl` + `V`) | Paste selected objects. |
+| Delete (`Delete`) | Delete selected objects. |
+| Select All (`Ctrl` + `A`) | Select all hit objects. |
+| Clone (`Ctrl` + `D`) | Copy selected objects and paste them one [beat](/wiki/Music_theory/Beat) after the selection. |
+| Reverse Selection (`Ctrl` + `G`) | Reverses the direction of the sliders and reorders hit objects in time, making the last one the first and so on. |
+| Flip Horizontally (`Ctrl` + `H`) | Mirror the selection across the Y axis of the playfield (left and right). |
+| Flip Vertically (`Ctrl` + `J`) | Mirror the selection across the X axis of the playfield (up and down). |
+| Rotate 90° Clockwise (`Ctrl` + `>`) | Rotate the selection 90° to the right around the playfield centre. |
+| Rotate 90° Anticlockwise (`Ctrl` + `<`) | Rotate the selection 90° to the left around the playfield centre. |
+| Rotate by... (`Ctrl` + `Shift` + `R`) | Rotate the selection by a custom angle around the playfield or the selection centre. |
+| Scale by... (`Ctrl` + `Shift` + `S`) | Scale the selection by moving its objects further from the playfield or the selection centre, across one or more axes. |
+| Reset selected objects' samples | Remove [hitsound additions](/wiki/Beatmapping/Hitsound) from the selection. |
+| Reset all samples | Remove hitsound additions from all hit objects of the difficulty. |
+| Reset combo colours | Remove all [combo colour overrides](/wiki/Beatmapping/Colourhaxing) from all hit objects of the current difficulty. |
+| Reset breaks | Reset custom start/end times of all [breaks](/wiki/Beatmap/Break), placing them next to surrounding hit objects. |
+| Nudge Backward (`J`) | Move the selection one tick backwards, based on the active [beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor). |
+| Nudge Forward (`K`) | Move the selection one tick forwards, based on the active beat snap divisor. |
 
 ## View
 
 ![View menu](img/M_View.jpg "View menu")
 
-Places of interest.
-
-### Tabbing commands
-
 | Name | Description |
 | :-- | :-- |
-| Compose (`F1`) | Direct to Compose tab. |
-| Design (`F2`) | Direct to Design tab. |
-| Timing (`F3`) | Direct to Timing tab. |
-
-### Setup commands
-
-| Name | Description |
-| :-- | :-- |
-| Song Setup... (`F4`) | Direct to Song Setup window. |
-| Timing Setup... (`F6`) | Direct to Timing Setup window. |
-
-### Special commands
-
-| Name | Description |
-| :-- | :-- |
-| Volume | Adjust two volumes (Music / Sample). |
-| Grid Level | Size of grid square. 1(most sparse)/2/3/4 (most precise) which is Large/Medium/Small/Tiny each named respectively. |
-| Show Video | Show Video. Usually disabled because it's distracting. |
-| Show Sample Name | Show keysound attached to the notes. Very useful in osu!mania. |
-| Snaking sliders | Animate the sliders as if playing in-game. |
-| Hit animations | Animate the hit circles as if being clicked (when the timestamp passes the hit circle) in-game. |
-| Follow points | Display (and animate) the follow points as if in-game. |
-| Stacking | Stack the overlaid hit circles as if in-game (dependent on difficulty settings) |
-| Disable Undo States | Give up the ability to *undo* for osu! to be faster during editing (this comes in handy for long marathon maps) |
+| Compose (`F1`) | Change active tab to [`Compose`](/wiki/Client/Beatmap_editor/Compose). |
+| Design (`F2`) | Change active tab to [`Design`](/wiki/Client/Beatmap_editor/Design). |
+| Timing (`F3`) | Change active tab to [`Timing`](/wiki/Client/Beatmap_editor/Timing). |
+| Song Setup... (`F4`) | Open the [`Song Setup`](/wiki/Client/Beatmap_editor/Song_setup) window. |
+| Timing Setup... (`F6`) | Open the [`Timing and Control Points`](/wiki/Client/Beatmap_editor/Timing) window. |
+| Volume | Adjust the volume level of music or hitsounds. |
+| Grid Level (`G`) | Adjust the coarseness of the playfield [grid](/wiki/Beatmapping/Grid_snapping) used for object [snapping](/wiki/Beatmapping/Snapping). |
+| Show Video/Storyboard | Toggle visibility of the background video and storyboard. |
+| Dim Background | Dim the background in [test mode](/wiki/Client/Beatmap_editor/Test_mode), making hit objects more visible. |
+| Show Sample Name | For osu!mania difficulties, show [keysound samples' names](/wiki/Beatmapping/Hitsound#keysound) attached to the notes. |
+| Snaking sliders | Sliders gradually snake out from their starting point. |
+| Hit animations | Animate hit objects as if being clicked during gameplay. |
+| Follow points | Display and animate follow points as if during gameplay. |
+| Stacking | Stack overlaid hit circles as if during gameplay.[^stacking-note] |
 
 ## Compose
 
@@ -152,22 +78,15 @@ Places of interest.
 
 ![Compose menu](img/M_Compose.jpg "Compose menu")
 
-### Rulers commands
-
 | Name | Description |
 | :-- | :-- |
-| Snap Divisor | [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) |
-| Audio Rate | Same as Playback Rate. |
-| Grid Snapping (T) | Allow snapping of the notes with respect to current grid line. |
-
-### Special commands
-
-| Name | Description |
-| :-- | :-- |
-| Create Polygon Circles (`Ctrl` + `Shift` + `D`) | Create a circular flow of hit circles. You can adjust the Distance Snap (0.1x - 2.0x) {Spacing between notes}, Offset angle (0° - 180°) {Rotation angle}, Repeat and Points (3 - 14/282) {Number of hit circle}. |
-| Convert slider to stream... | (Select a slider) Change the slider to streams of hit circles. You can select between two options: By object count or By distance snap. **By object count:** Adjust the slider flow with the given amount of hit circles (1 - 17/100). **By distance snap:** Adjust the slider flow with a set distance between two notes (0.10x - 5.00x). Can result in absurd amount of hit circles, since it relies on Beat Snap Divisor (one beat = one note). **Beat Snap Divisor:** Note timing adjuster. |
-| Enable live mapping mode (`Ctrl` + Tab) | osu!/osu!catch/osu!taiko maps: use osu!taiko keys to input hit circles, fruits, or taiko hit objects, while playing the song in editor. Placed via cursor location. Different hitsounds based on what osu!taiko key you pressed. osu!mania maps: use osu!mania keys to input hit objects, while playing song in editor. Placed via the key you pressed. Does not work for sliders/holds. |
-| Sample import | [Keysound and Sound Sampling.](/wiki/Client/Beatmap_editor/Compose) |
+| Snap Divisor | Change the granularity of the [beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor), displaying more or fewer ticks on the [timeline](/wiki/Client/Beatmap_editor/Timelines). |
+| Audio Rate | Change the playback rate of the audio. |
+| Grid Snapping (T) | Toggle [snapping](/wiki/Beatmapping/Grid_snapping) of the hit objects to the playfield grid. |
+| Create Polygon Circles... (`Ctrl` + `Shift` + `D`) | Create a regular polygon consisting of several hit circles, using the active beat snap divisor for circle placement. |
+| Convert slider to stream... | Replace the [body](/wiki/Gameplay/Hit_object/Slider/Sliderbody) of a selected slider with a [stream](/wiki/Beatmap/Pattern/osu!/Stream) of hit circles. **By object count:** use a specified amount of hit circles. **By distance snap:** use the exact [distance snap](/wiki/Client/Beatmap_editor/Distance_snap) between hit circles. |
+| Enable live mapping mode (`Ctrl` + `Tab`) | Place osu!/osu!taiko [hit circles](/wiki/Gameplay/Hit_object/Hit_circle), osu!catch [fruits](/wiki/Gameplay/Hit_object/Fruit), or osu!mania notes with gameplay keybinds while the song is playing.[^live-mapping-note] |
+| Sample import | Open the [`Sample import`](/wiki/Client/Beatmap_editor/Compose#sample-import) window for osu!mania difficulties. |
 
 ## Design
 
@@ -177,7 +96,7 @@ Places of interest.
 
 | Name | Description |
 | :-- | :-- |
-| Move all elements on time... | Move *everything* by #ms value. Useful if you changed the .mp3 or offset. |
+| Move all elements in time... | Move *all* storyboard [commands](/wiki/Storyboard/Scripting/Commands) by a given amount of milliseconds. |
 
 ## Timing
 
@@ -185,55 +104,30 @@ Places of interest.
 
 ![Timing menu](img/M_Timing.jpg "Timing menu")
 
-### Metronome commands
-
 | Name | Description |
 | :-- | :-- |
-| Time Signature | Waltz (3/4) or Standard (4/4) timing. For exotic timing, use Timing Setup. |
-| Metronome Clicks | Allow/Deny the signature metronome's "tic, tic , (tic) , toc" sound. |
-
-### Markers commands
-
-| Name | Description |
-| :-- | :-- |
-| Add Timing Section (`Ctrl` + `P`) | Add red offset (New BPM) |
-| Add Inheriting Section (`Ctrl` + `Shift` + `P`) | Add green offset (New adjuster) |
-| Reset Current Section | ? |
-| Delete Timing Section (`Ctrl` + `I`) | Delete the red/green offset (delete one before the double line) |
-| Resnap Current Section | Resnap the current section with new current timing. |
-
-### Timing Setup
-
-| Name | Description |
-| :-- | :-- |
-| Timing Setup... (F6) | [Timing Setup.](/wiki/Client/Beatmap_editor/Timing) |
-
-### Special commands
-
-| Name | Description |
-| :-- | :-- |
-| Resnap All Notes | Resnap all the notes to their respective sections |
-| Move all notes in time.. | Move all the notes by #ms |
-| Recalculate Slider Lengths | Let osu! recalculate the length of sliders. (Best to use if bpm/slider velocity/slider velocity multiplier had changed.) **Caution:** Doing so can shorten none to all slider lengths! Check your map after use! |
-| Delete All Timing Sections | Purge timing. |
-
-### Preview command
-
-| Name | Description |
-| :-- | :-- |
-| Set Current Position as Preview Point | Set this timestamp as yellow mark (demo excerpt for Song Selection). |
+| Time Signature | Select the [time signature](/wiki/Music_theory/Time_signature) for the current timing point, between 4/4 (common) or 3/4 (waltz). For other time signatures, use the [`Timing Setup`](/wiki/Client/Beatmap_editor/Timing) window. |
+| Metronome Clicks | Toggle ticking sounds of the [metronome](/wiki/Client/Beatmap_editor/Timing#metronome) on the `Timing` tab. |
+| Add Timing Section (`Ctrl` + `P`) | Add a new [uninherited (red) timing section](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point). |
+| Add Inheriting Section (`Ctrl` + `Shift` + `P`) | Add a new [inherited (green) timing section](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point). |
+| Reset Current Section | Reset the [BPM](/wiki/Music_theory/Tempo) and [offset](/wiki/Offset) of the current uninherited timing section for [retiming](/wiki/Beatmapping/Timing). Saving the difficulty will delete these sections if unmodified. |
+| Delete Timing Section (`Ctrl` + `I`) | Delete the current timing section (both inherited and uninherited). |
+| Resnap Current Section | [Resnap](/wiki/Beatmapping/Snapping) all hit objects in the current section according to the active beat snap divisor. |
+| Timing Setup... (`F6`) | Open the [`Timing and Control Points`](/wiki/Client/Beatmap_editor/Timing) window. |
+| Resnap All Notes | Resnap all hit objects of the difficulty according to the active beat snap divisor. |
+| Move all notes in time.. | Move all hit objects by a given amount of milliseconds. |
+| Recalculate Slider Lengths | Automatically resnap[^recalculate-lengths-note] all [slider ends](/wiki/Gameplay/Hit_object/Slider/Slidertail) to the nearest timeline tick, **potentially shortening them** and requiring manual rechecking. |
+| Delete All Timing Sections | Remove all uninherited and inherited timing sections of the current difficulty. |
+| Set Current Position as Preview Point | Use the current timestamp as the preview point for the website and [song select](/wiki/Client/Interface#song-select) screen. |
 
 ## Web
 
 ![Web menu](img/M_Web.jpg "Web menu")
 
-Opens your browser. Mainly send you to the beatmap's thread (requires sign-in to the website.)
-
 | Name | Description |
 | :-- | :-- |
-| This Beatmap's Information Page | Go to this beatmap's information page. Link is `https://osu.ppy.sh/beatmaps/###` where "###" is the beatmap's ID. |
-| This Beatmap's Thread | Go to this beatmap thread. |
-| Quick Reply | Post a reply to the beatmap thread. |
+| This Beatmap's Information Page | Open the beatmap info page<!-- TODO(TicClick): link after https://github.com/ppy/osu-wiki/issues/3122 is completed --> on the osu! website. |
+| This Beatmap's Thread | Open the beatmap's forum thread. |
 
 ## Help
 
@@ -241,5 +135,14 @@ Opens your browser. Mainly send you to the beatmap's thread (requires sign-in to
 
 | Name | Description |
 | :-- | :-- |
-| Show in-game help (H) | Opens the in-game help reference. |
-| View FAQ | Links to [Beatmapping](/wiki/Beatmapping). |
+| Show in-game help | Show the help overlay with key bindings and short explanations.[^help-note] |
+| View FAQ... | Open the [Beatmapping](/wiki/Beatmapping) wiki article. |
+
+## Notes
+
+[^osz2-note]: This action is disabled for regular `osz` beatmaps.
+[^exit-note]: This action sometimes *ignores* changes made in the `Design` tab.
+[^stacking-note]: The stacking behaviour is controlled by the [stack leniency](/wiki/Beatmap/Stack_leniency) setting of the difficulty.
+[^live-mapping-note]: osu!, osu!taiko, and osu!catch use the osu!taiko key bindings.
+[^recalculate-lengths-note]: Useful if the BPM or [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) has been changed.
+[^help-note]: This action does not work anymore.

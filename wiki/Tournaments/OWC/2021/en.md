@@ -45,6 +45,7 @@ The osu! World Cup 2021 was run by the osu! team and various community members.
 | Manager | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
 | Mappool selector | ::{ flag=PL }:: [Bartek22830](https://osu.ppy.sh/users/6404027), ::{ flag=US }:: [Conyoh](https://osu.ppy.sh/users/4844496), ::{ flag=LT }:: [Mazzerin](https://osu.ppy.sh/users/2942381), ::{ flag=AT }:: [Omgforz](https://osu.ppy.sh/users/578943) |
 | Mappool quality assurance | ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083), ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334), ::{ flag=AU }:: [Kano](https://osu.ppy.sh/users/3036203), ::{ flag=DE }:: [Mordred](https://osu.ppy.sh/users/7265097), ::{ flag=FR }:: [Realazy](https://osu.ppy.sh/users/918297) |
+| Mapper | ::{ flag=TW }:: [\_Fast](https://osu.ppy.sh/users/959763), ::{ flag=GB }:: [\-Mo\-](https://osu.ppy.sh/users/2202163), ::{ flag=KR }:: [Acylica](https://osu.ppy.sh/users/1943309), ::{ flag=CA }:: [alden](https://osu.ppy.sh/users/3545323), ::{ flag=GB }:: [Altai](https://osu.ppy.sh/users/5745865), ::{ flag=US }:: [Astronic](https://osu.ppy.sh/users/9320502), ::{ flag=FR }:: [Atalanta](https://osu.ppy.sh/users/7543834), ::{ flag=NO }:: [BarkingMadDog](https://osu.ppy.sh/users/3475189), ::{ flag=GB }:: [CallieCube](https://osu.ppy.sh/users/7535045), ::{ flag=US }:: [Camo](https://osu.ppy.sh/users/5194391), ::{ flag=US }:: [captin1](https://osu.ppy.sh/users/689997), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=CA }:: [Deca](https://osu.ppy.sh/users/9088487), ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334), ::{ flag=KR }:: [Down](https://osu.ppy.sh/users/4694602), ::{ flag=US }:: [Elcheer](https://osu.ppy.sh/users/4420014), ::{ flag=PL }:: [fartownik](https://osu.ppy.sh/users/56917), ::{ flag=RU }:: [fergas](https://osu.ppy.sh/users/3144542), ::{ flag=US }:: [Flezlin](https://osu.ppy.sh/users/3696423), ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899), ::{ flag=FR }:: [Halgoh](https://osu.ppy.sh/users/4109923), ::{ flag=DE }:: [Icekalt](https://osu.ppy.sh/users/5410645), ::{ flag=FR }:: [IsomirDiAngelo](https://osu.ppy.sh/users/7715620), ::{ flag=US }:: [ItsWinter](https://osu.ppy.sh/users/6381153), ::{ flag=CA }:: [J1\_](https://osu.ppy.sh/users/5918561), ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377), ::{ flag=PH }:: [Keqing](https://osu.ppy.sh/users/15583534), ::{ flag=US }:: [kisata](https://osu.ppy.sh/users/1929729), ::{ flag=CA }:: [KKipalt](https://osu.ppy.sh/users/6889573), ::{ flag=JP }:: [Kloyd](https://osu.ppy.sh/users/1574070), ::{ flag=TW }:: [knowledgeking](https://osu.ppy.sh/users/8022517), ::{ flag=BR }:: [kowari](https://osu.ppy.sh/users/5404892), ::{ flag=CA }:: [ktgster](https://osu.ppy.sh/users/53378), ::{ flag=US }:: [Kurashina Asuka](https://osu.ppy.sh/users/7476493), ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613), ::{ flag=VN }:: [LMT](https://osu.ppy.sh/users/7262798), ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581), ::{ flag=LT }:: [Mazzerin](https://osu.ppy.sh/users/2942381), ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812), ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009), ::{ flag=NZ }:: [moph](https://osu.ppy.sh/users/2233878), ::{ flag=DE }:: [Mordred](https://osu.ppy.sh/users/7265097), ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763), ::{ flag=US }:: [Nathan](https://osu.ppy.sh/users/4785223), ::{ flag=IT }:: [Nemis](https://osu.ppy.sh/users/1635091), ::{ flag=US }:: [olc](https://osu.ppy.sh/users/7081160), ::{ flag=FR }:: [Realazy](https://osu.ppy.sh/users/918297), ::{ flag=CA }:: [Resona](https://osu.ppy.sh/users/3124248), ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875), ::{ flag=US }:: [SkyFlame](https://osu.ppy.sh/users/3552948), ::{ flag=KR }:: [Toumei Dragon](https://osu.ppy.sh/users/6673830), ::{ flag=US }:: [toybot](https://osu.ppy.sh/users/2848604), ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117), ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117), ::{ flag=DK }:: [waefwerf](https://osu.ppy.sh/users/3868653), ::{ flag=US }:: [wakaba](https://osu.ppy.sh/users/4657414), ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926), ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717), ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) |
 | Commentator | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=GB }:: [Damarsh](https://osu.ppy.sh/users/7465147), ::{ flag=US }:: [Dohland](https://osu.ppy.sh/users/5220511), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=AU }:: [Kano](https://osu.ppy.sh/users/3036203), ::{ flag=AU }:: [Monk The Don](https://osu.ppy.sh/users/4012086), ::{ flag=AT }:: [Omgforz](https://osu.ppy.sh/users/578943), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189), ::{ flag=US }:: [Will Stetson](https://osu.ppy.sh/users/4909088) |
 | Referee | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=CH }:: [Icerite](https://osu.ppy.sh/users/7226287), ::{ flag=US }:: [JDrago14](https://osu.ppy.sh/users/7690078), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703), ::{ flag=IN }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
@@ -322,13 +323,13 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Saturday, November 27, 2021
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Germany** ::{ flag=DE }:: | **7** | 6 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/94510355) |
 
 Sunday, November 28, 2021
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **United States** ::{ flag=US }:: | **7** | 5 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/94572116) |
 
@@ -338,14 +339,14 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Saturday, November 20, 2021
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Hong Kong ::{ flag=HK }:: | 2 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/94198225) |
 | **Canada** ::{ flag=CA }:: | **7** | 4 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/94215627) |
 
 Sunday, November 21, 2021
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Canada ::{ flag=CA }:: | 5 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/94237395) |
 | **United States** ::{ flag=US }:: | **7** | 6 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/94267511) |
@@ -356,7 +357,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Saturday, November 13, 2021
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Japan ::{ flag=JP }:: | 2 | **6** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/93876454) |
 | Poland ::{ flag=PL }:: | 3 | **6** | ::{ flag=RO }:: **Romania** | [#1](https://osu.ppy.sh/community/matches/93883809) |
@@ -364,7 +365,7 @@ Saturday, November 13, 2021
 
 Sunday, November 14, 2021
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **United Kingdom** ::{ flag=GB }:: | **6** | 3 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/93882161) |
 | Russian Federation ::{ flag=RU }:: | 4 | **6** | ::{ flag=AU }:: **Australia** | [#1](https://osu.ppy.sh/community/matches/93926187) |
@@ -378,7 +379,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Saturday, November 6, 2021
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Australia** ::{ flag=AU }:: | **6** | 3 | ::{ flag=SG }:: Singapore | [#1](https://osu.ppy.sh/community/matches/93548858) |
 | Indonesia ::{ flag=ID }:: | 5 | **6** | ::{ flag=RO }:: **Romania** | [#1](https://osu.ppy.sh/community/matches/93559497) |
@@ -392,7 +393,7 @@ Saturday, November 6, 2021
 
 Sunday, November 7, 2021
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Canada** ::{ flag=CA }:: | **6** | 1 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/93568294) |
 | China ::{ flag=CN }:: | 3 | **6** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/93601469) |
@@ -408,7 +409,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Saturday, October 30, 2021:
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Argentina ::{ flag=AR }:: | 1 | **5** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/93182775) |
 | Uruguay ::{ flag=UY }:: | 1 | **5** | ::{ flag=PH }:: **Philippines** | [#1](https://osu.ppy.sh/community/matches/93206388) |
@@ -419,7 +420,7 @@ Saturday, October 30, 2021:
 
 Sunday, October 31, 2021:
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Germany** ::{ flag=DE }:: | **5** | 2 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/93197788) |
 | Malaysia ::{ flag=MY }:: | 2 | **5** | ::{ flag=FR }:: **France** | [#1](https://osu.ppy.sh/community/matches/93206469) |
@@ -438,7 +439,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Saturday, October 23, 2021:
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Hong Kong** ::{ flag=HK }:: | **5** | 2 | ::{ flag=TR }:: Turkey | [#1](https://osu.ppy.sh/community/matches/92822602) |
 | **United Kingdom** ::{ flag=GB }:: | **5** | 3 | ::{ flag=SG }:: Singapore | [#1](https://osu.ppy.sh/community/matches/92827398) |
@@ -448,7 +449,7 @@ Saturday, October 23, 2021:
 
 Sunday, October 24, 2021:
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **South Korea** ::{ flag=KR }:: | **5** | 0 | ::{ flag=UA }:: Ukraine | [#1](https://osu.ppy.sh/community/matches/92820657) |
 | **Brazil** ::{ flag=BR }:: | **5** | 1 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/92832289) |

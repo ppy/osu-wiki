@@ -24,7 +24,7 @@ Hizmetimizi kullanarak, [Hizmet Koşullarını](/wiki/Legal/Terms) ve bu gizlili
 
 ### Hesap oluştururken
 
-Bir hesap olmaksızın da sınırlı işlevsellikten zevk alınabilse de, kullanıcıların birtakım hizmetleri tecrübe edebilmek için hesap oluşturması sıklıkla gereklidir. Hesap oluşturma sırasında topladığımız bilgiler aşağıdaki gibidir: 
+Bir hesap olmaksızın da sınırlı işlevsellikten zevk alınabilse de, kullanıcıların birtakım hizmetleri tecrübe edebilmek için hesap oluşturması sıklıkla gereklidir. Hesap oluşturma sırasında topladığımız bilgiler aşağıdaki gibidir:
 
 - Kullanıcı adınız
 - E-posta adresiniz
@@ -118,7 +118,7 @@ osu! hizmetleri 13 yaşından küçük çocuklar için uygun değildir. Eğer 13
 
 ## Veri Sorumlusu
 
-Selam, ben Dean (sıklıkla peppy olarak tanınırım) ve ben sizin veri sorumlunuzum. Eğer gizlilik endişeleriniz veya yasal haklarınızı kullanma talebiniz varsa, benimle aşağıdaki adres üzerinden iletişime geçmekten çekinmeyin. 
+Selam, ben Dean (sıklıkla peppy olarak tanınırım) ve ben sizin veri sorumlunuzum. Eğer gizlilik endişeleriniz veya yasal haklarınızı kullanma talebiniz varsa, benimle aşağıdaki adres üzerinden iletişime geçmekten çekinmeyin.
 
 **E-posta**: [privacy@ppy.sh](mailto:privacy@ppy.sh) (24 saat içinde yanıt garantili)
 

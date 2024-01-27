@@ -10,7 +10,7 @@ Le skinning est un simple mécanisme de changement d'images qu'osu! chargera lor
 
 ### Quelqu'un peut-il faire ce skin à partir de cette série/ce jeu ?
 
-Si vous avez parcouru l'ensemble des forums de skinning et que vous êtes certain de ne pas trouver *ce* skin, alors félicitations, osu! ne l'a pas encore. En gardant cela à l'esprit, vous pouvez prendre cette initiative pour créer le skin dont vous rêvez et en faire quelque chose que tout le monde peut vouloir ! 
+Si vous avez parcouru l'ensemble des forums de skinning et que vous êtes certain de ne pas trouver *ce* skin, alors félicitations, osu! ne l'a pas encore. En gardant cela à l'esprit, vous pouvez prendre cette initiative pour créer le skin dont vous rêvez et en faire quelque chose que tout le monde peut vouloir !
 
 **Néanmoins, ne demandez jamais de skin sur les forums**. Le non-respect de cette règle entraînera le déplacement de votre fil de discussion vers les wastelands.
 
@@ -40,7 +40,7 @@ Vous pouvez également quitter et rouvrir osu! ou lancer l'updater pour recharge
 
 ### Que sont les skinning sets ?
 
-*Page principale : [Ranking Criteria/Skin Set List](/wiki/Ranking_Criteria/Skin_Set_List)*
+*Page principale : [Ranking Criteria/Skin Set List](/wiki/Ranking_criteria/Skin_set_list)*
 
 Dans osu!, il y a plus de 200 éléments qui peuvent être skinnés (sans compter les images animées individuelles). Cependant, vous n'êtes pas obligé de tous les skinner. Vous pouvez simplement les supprimer car osu! utilisera les images par défaut pour ceux que vous n'avez pas inclus.
 

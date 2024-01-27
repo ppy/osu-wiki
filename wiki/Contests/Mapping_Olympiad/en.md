@@ -2,7 +2,7 @@
 
 ![](https://osu.ppy.sh/wiki/shared/news/banners/osu_mapping_olympiad.jpg)
 
-**osu! Mapping Olympiad** is an all-gamemode official contest line-up that was originally designed as a project aiming to revive the official beatmapping contests in 2018. Its particularity is to explore different concepts, going from traditional mapping to speedmapping or aspire, to mention just a few. 
+**osu! Mapping Olympiad** is an all-game-mode official contest line-up that was originally designed as a project aiming to revive the official beatmapping contests in 2018. Its particularity is to explore different concepts, going from traditional mapping to speedmapping or aspire, to mention just a few.
 
 ## Contest hosts
 
@@ -17,7 +17,7 @@
 
 *Note: Keep in mind that the ruleset may be subject to change depending on editions' restrictions.*
 
-- Each entry must follow the [Ranking Criteria](/wiki/Ranking_Criteria). Entries violating the Ranking Criteria will be subject to penalties, ranging from point deductions to disqualification based on severity.
+- Each entry must follow the [Ranking Criteria](/wiki/Ranking_criteria). Entries violating the Ranking Criteria will be subject to penalties, ranging from point deductions to disqualification based on severity.
 - Beatmap submissions must not exceed 15MB.
 - Storyboards will not be considered in the judging process.
 - Usage of custom [hitsounds](/wiki/Beatmapping/Hitsound) is allowed.

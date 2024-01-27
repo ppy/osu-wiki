@@ -36,7 +36,7 @@ Diese Regeln bilden die Grundlage, mit der wir dafür sorgen, dass die osu!-Comm
 
 ## Regeln für die Beatmap-Veröffentlichung
 
-*Diese Regeln beziehen sich auf eingereichte Beatmaps und nicht nur gerankte Beatmaps. Für mehr Details bezüglich Regeln für gerankte Beatmaps, siehe [Ranking-Kriterien](/wiki/Ranking_Criteria)*
+*Diese Regeln beziehen sich auf eingereichte Beatmaps und nicht nur gerankte Beatmaps. Für mehr Details bezüglich Regeln für gerankte Beatmaps, siehe [Ranking-Kriterien](/wiki/Ranking_criteria)*
 
 Diese Regeln beziehen sich ausschließlich auf Beatmaps, die über das [Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission) hochgeladen werden. Die Threads werden mithilfe des osu!-Clients erstellt, wenn du eine Beatmap mit dem [Editor](/wiki/Client/Beatmap_editor) hochlädst.
 

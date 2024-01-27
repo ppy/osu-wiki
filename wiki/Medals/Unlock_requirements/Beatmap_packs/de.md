@@ -53,6 +53,15 @@
 | Sound Souler | Schließe alle Beatmaps ab, die im Beatmap-Paket [Sound Souler Pack](https://osu.ppy.sh/beatmaps/packs/2038) enthalten sind. |
 | Teminite | Schließe alle Beatmaps ab, die im Beatmap-Paket [Teminite Pack](https://osu.ppy.sh/beatmaps/packs/2042) enthalten sind. |
 | VINXIS | Schließe alle Beatmaps ab, die im Beatmap-Paket [VINXIS Pack](https://osu.ppy.sh/beatmaps/packs/2041) enthalten sind. |
+| Touhou Pack | Schließe alle Beatmaps ab, die im Beatmap-Paket [Touhou Pack](https://osu.ppy.sh/beatmaps/packs/T106) enthalten sind. |
+| ginkiha Pack | Schließe alle Beatmaps ab, die im Beatmap-Paket [ginkiha Pack](https://osu.ppy.sh/beatmaps/packs/A75) enthalten sind. |
+| Vocaloid Pack | Schließe alle Beatmaps ab, die im Beatmap-Paket [Vocaloid Pack](https://osu.ppy.sh/beatmaps/packs/T107) enthalten sind. |
+| Maduk Pack | Schließe alle Beatmaps ab, die im Beatmap-Paket [Maduk Pack](https://osu.ppy.sh/beatmaps/packs/A77) enthalten sind. |
+| Aitsuki Nakuru Pack | Schließe alle Beatmaps ab, die im Beatmap-Paket [Aitsuki Nakuru Pack](https://osu.ppy.sh/beatmaps/packs/A78) enthalten sind. |
+| Omoi Pack | Schließe alle Beatmaps ab, die im Beatmap-Paket [Omoi Pack](https://osu.ppy.sh/beatmaps/packs/A82) enthalten sind. |
+| Chill Pack | Schließe alle Beatmaps ab, die im Beatmap-Paket [Chill Pack](https://osu.ppy.sh/beatmaps/packs/T108) enthalten sind. |
+| Rohi Pack | Schließe alle Beatmaps ab, die im Beatmap-Paket [Rohi Pack](https://osu.ppy.sh/beatmaps/packs/F2) enthalten sind. |
+| Drum & Bass Pack | Schließe alle Beatmaps ab, die im Beatmap-Paket [Drum & Bass Pack](https://osu.ppy.sh/beatmaps/packs/T113) enthalten sind. |
 | Mappers' Guild Pack I | Schließe alle Beatmaps ab, die im Beatmap-Paket [Mappers' Guild Pack I](https://osu.ppy.sh/beatmaps/packs/1365) enthalten sind. |
 | Mappers' Guild Pack II | Schließe alle Beatmaps ab, die im Beatmap-Paket [Mappers' Guild Pack II](https://osu.ppy.sh/beatmaps/packs/1450) enthalten sind. |
 | Mappers' Guild Pack III | Schließe alle Beatmaps ab, die im Beatmap-Paket [Mappers' Guild Pack III](https://osu.ppy.sh/beatmaps/packs/1689) enthalten sind. |

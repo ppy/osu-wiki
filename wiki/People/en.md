@@ -7,19 +7,21 @@ Index page for articles about people or groups.
 - [Account support team](Account_support_team)
 - [Beatmap Nominators](Beatmap_Nominators)
 - [Beatmap Spotlight Curators](Beatmap_Spotlight_Curators)
+- [Centurions](Centurions)
 - [Community Contributors](Community_Contributors)
+- [Completionists](Completionists)
 - [Developers](Developers)
+- [Elite Nominators](Elite_Nominators)
 - [Featured Artists](Featured_Artists)
 - [Global Moderation Team](Global_Moderation_Team)
 - [Nomination Assessment Team](Nomination_Assessment_Team)
 - [Performance Points Committee](Performance_Points_Committee)
 - [Project Loved Team](Project_Loved_Team)
-- [Support Team](Support_Team)
+- [Technical Support Team](Technical_Support_Team)
 - [Tournament Committee](Tournament_Committee)
 - [osu! Alumni](osu!_Alumni)
 - [osu! team](osu!_team)
 - [osu! wiki maintainers](osu!_wiki_maintainers)
-- [osu!monthly team](osu!monthly_team)
 
 ## Former
 

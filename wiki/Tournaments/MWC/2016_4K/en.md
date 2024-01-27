@@ -45,6 +45,7 @@ The osu!mania 4K World Cup 2016 was run by various community members.
 | :-- | :-- |
 | Manager | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565), ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366), ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703), ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) |
 | Mappool selector | ::{ flag=PL }:: [-Kamikaze-](https://osu.ppy.sh/users/2124783), ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707) |
+| Mapper | ::{ flag=SG }:: [Evening](https://osu.ppy.sh/users/2193881) |
 | Commentator | ::{ flag=US }:: [Daikyi](https://osu.ppy.sh/users/811832), ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370), ::{ flag=US }:: [Halogen-](https://osu.ppy.sh/users/169992), ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=GB }:: [-Konner-](https://osu.ppy.sh/users/6108644), ::{ flag=FR }:: [Slainv](https://osu.ppy.sh/users/4823843), ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707), ::{ flag=CA }:: [Tasha](https://osu.ppy.sh/users/1031958), ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) |
 | Statistician | ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370), ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766) |
 

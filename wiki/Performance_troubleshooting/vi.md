@@ -1,13 +1,16 @@
----
-outdated_translation: true
-outdated_since: 7a800e4ec3986ff1f135020a46e7c208287d0b2a
----
-
 # Khắc phục sự cố hiệu năng trong osu!
 
 osu! luôn cố gắng chạy với thiết lập mặc định và sẽ cảnh báo bạn nếu bạn đang làm/chạy gì đó có thể gây ảnh hưởng tới hiệu năng của trò chơi.
 
 Không may là với phạm vi các phần cứng được sử dụng để chơi osu! là quá lớn, sẽ rất khó để đảm bảo hiệu năng tối ưu cho mọi người chơi. Trang này ngoài việc giúp bạn tự phát hiện vấn đề hiệu năng mình gặp phải, mà còn cung cấp một vài thuật ngữ bạn có thể học (và có thể thực hiện kiểm tra) để giúp chúng tôi giúp được bạn khi bạn cần hỗ trợ.
+
+## Những việc nên thử
+
+- Bạn có sử dụng skin tuỳ chỉnh không? Nếu có, thử đổi về skin mặc định và xem có sự tiến bộ không. Mốt số skin được làm ra theo một cách mà có thể gây ra vấn đề về hiệu năng trên một số hoặc tất cả hệ thống.
+- Có phải giới hạn khung hình của bạn được để ở `Unlimited` không? Hãy thử chỉnh thành `Optimal` xem nó có giúp đỡ không. Xem [unlimited](#unlimited-(không-giới-hạn)) để lý giải vì sao `Unlimited` thường không phải là lựa chọn tốt nhất.
+- Bạn có để chế độ cửa sổ không? Hãy chuyển sang toàn màn hình.
+- Bạn đã cập nhật drivers (đặc biệt nhất là GPU) chưa? Hãy thử và xem có sự tiến bộ không. Ngược lại, nếu bạn vừa mới cập nhật chúng, hãy thử hạ xuống phiên bản cũ.
+- Máy tính của bạn có sử dụng NVIDIA Optimus hoặc các hệ thống gồm hai card đồ hoạ trở lên (hybrid graphics setup) tương tự không? Nếu có, hãy thử để trò chơi chạy trên một trong hai GPU để so sánh hiệu năng. GPU tích hợp sẵn thường cung cấp hiệu năng ổn định hơn cho một số game như osu!. Tìm “Graphics settings” trong Windows và để osu! trong “Power Saving” hoặc “High Performance” để thử nghiệm.
 
 ## Các kiểu "lag"
 
@@ -18,7 +21,7 @@ Rất khó để hỗ trợ bạn khi mọi vấn đề bạn gặp được g�
 Nhạc của beatmap thi thoảng bị tua ngược, hoặc cảm thấy giật. Về cơ bản thì khi game lag, bạn có thể cảm nhận thấy nó qua âm thanh nghe được. Trước khi tiến hành chẩn đoán hoặc báo cáo, bạn hãy thử:
 
 - Kiểm tra xem liệu hiện tượng tương tự có xảy ra với các thiết bị âm thanh khác (loa, tai nghe, ...). Nếu bạn dùng tai nghe có chân cắm USB, bạn hãy thử kết nối qua analog output của PC.
-- Thử xem việc bật "Audio compatibility mode" trong Cài đặt có giúp ích gì không.
+- Thử xem việc bật `Audio compatibility mode` trong Cài đặt có giúp ích gì không.
 
 ### Bị đứng hình
 
@@ -44,7 +47,7 @@ Có độ trễ đáng kể giữa việc bấm phím trên bàn phím và di ch
 
 Khi đang chơi, một hoặc nhiều thiết bị đầu vào ngừng phản hồi. Mọi thứ trên màn hình vẫn di chuyển đúng như thường, nhưng bạn không thể chơi cho đến khi bạn có thể điều khiển lại. Khi chẩn đoán hoặc báo cáo, bạn hãy thử:
 
-- Bấm Ctrl+F11 để xem biểu đồ biểu thị thời gian khung hình. Kiểm tra xem liệu có xuất hiện nhiều đốm/vạch trắng trên biểu đồ khi việc này xảy ra hay không (nó có nghĩa là một ứng dụng khác, hoặc driver trên hệ thống của bạn đang dùng quá nhiều CPU time, làm trễ tín hiệu vào).
+- Bấm `Ctrl` + `F11` để xem biểu đồ biểu thị thời gian khung hình. Kiểm tra xem liệu có xuất hiện nhiều đốm/vạch trắng trên biểu đồ khi việc này xảy ra hay không (nó có nghĩa là một ứng dụng khác, hoặc driver trên hệ thống của bạn đang dùng quá nhiều CPU time, làm trễ tín hiệu vào).
 
 ### FPS thấp
 
@@ -78,7 +81,7 @@ Khuyến nghị cho máy tính cổ hoặc laptop cần tiết kiệm pin.
 
 Mức giới hạn này giữ tần suất khung hình bằng 8 lần tần số quét màn hình, tối đa là 960 FPS. Đây là mức giới hạn được khuyến nghị cho người dùng không muốn đốt CPU/GPU quá mức, nhưng vẫn đảm bảo hiệu năng đủ cao dẫn đến độ trễ tín hiệu vào thấp.
 
-Thường được ưa chuộng hơn Unlimited để làm giảm số khung hình được xuẩt ra, đồng thời làm giảm khả năng dẫn đến [garbage collection](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)) overhead (thứ dẫn đến khung hình bị đứng).
+Thường được ưa chuộng hơn `Unlimited` để làm giảm số khung hình được xuẩt ra, đồng thời làm giảm khả năng dẫn đến [garbage collection](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)) overhead (thứ dẫn đến khung hình bị đứng).
 
 ### Unlimited (Không giới hạn)
 
@@ -90,7 +93,7 @@ Nghe thì có vẻ là lựa chọn tốt nhất (và đúng là như vậy, n�
 - Bằng việc đẩy CPU và GPU đến cực hạn, có khả năng chúng sẽ nghẽn, dẫn đến giảm hiệu năng tổng thể.
 - GPU vốn dĩ không dùng để xuất hơn 1000 khung hình trên giây, nên nhiều hành vi bất thường có thể xảy ra, bao gồm giảm hiệu năng và tăng độ trễ thay vì giảm đi theo lý thuyết.
 
-Tuy nhiên, nếu sự sinh nhiệt và nguy cơ làm phần cứng của bạn quá tải không phải là vấn đề đáng quan tâm, Unlimited có thể là lựa chọn đem lại FPS ổn định nhất.
+Tuy nhiên, nếu sự sinh nhiệt và nguy cơ làm phần cứng của bạn quá tải không phải là vấn đề đáng quan tâm, `Unlimited` có thể là lựa chọn đem lại FPS ổn định nhất.
 
 ### Custom (Tuỳ chỉnh)
 

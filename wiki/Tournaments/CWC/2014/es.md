@@ -14,13 +14,13 @@ La **osu! Catch the Beat World Cup 2014** (***CWC 2014*** ) fue un torneo por pa
 
 | Evento | Fecha y Hora |
 | --: | :-- |
-| Inscripciones | 11-20 Abr 2014 |
-| Sorteos | 3 May 2014 (14:00 UTC) |
-| Fase de grupos | 17 May 2014 |
-| Octavos de final | 24 May 2014 |
-| Cuartos de final | 1 Jun 2014 |
-| Semifinales | 8 Jun 2014 |
-| Final | 15 Jun 2014 |
+| Inscripciones | 11/4/2014 - 20/4/2014 |
+| Sorteos | 3/5/2014 (14:00 UTC) |
+| Fase de grupos | 17/5/2014 |
+| Octavos de final | 24/5/2014 |
+| Cuartos de final | 1/6/2014 |
+| Semifinales | 8/6/2014 |
+| Final | 15/6/2014 |
 
 ## Premios
 
@@ -91,7 +91,7 @@ La **osu! Catch the Beat World Cup 2014** estuvo a cargo de varios miembros de l
 
 | Grupo A | Grupo B | Grupo C | Grupo D | Grupo E | Grupo F | Grupo G | Grupo H |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| ::{ flag=PH }:: Filipinas  | ::{ flag=HK }:: Hong Kong | ::{ flag=TW }:: Taiwán | ::{ flag=AT }:: Austria | ::{ flag=MX }:: México | ::{ flag=ES }:: España | ::{ flag=KR }:: Corea del Sur | ::{ flag=AR }:: Argentina |
+| ::{ flag=PH }:: Filipinas | ::{ flag=HK }:: Hong Kong | ::{ flag=TW }:: Taiwán | ::{ flag=AT }:: Austria | ::{ flag=MX }:: México | ::{ flag=ES }:: España | ::{ flag=KR }:: Corea del Sur | ::{ flag=AR }:: Argentina |
 | ::{ flag=GB }:: Reino Unido | ::{ flag=PL }:: Polonia | ::{ flag=NL }:: Países Bajos | ::{ flag=FR }:: Francia | ::{ flag=DK }:: Dinamarca | ::{ flag=PE }:: Perú | ::{ flag=DE }:: Alemania | ::{ flag=CN }:: China |
 | ::{ flag=TH }:: Tailandia | ::{ flag=CL }:: Chile | ::{ flag=SG }:: Singapur | ::{ flag=MY }:: Malasia | ::{ flag=NZ }:: Nueva Zelanda | ::{ flag=FI }:: Finlandia | ::{ flag=CA }:: Canadá | ::{ flag=UY }:: Uruguay |
 | ::{ flag=US }:: Estados Unidos | ::{ flag=EE }:: Estonia | ::{ flag=NO }:: Noruega | ::{ flag=JP }:: Japón | ::{ flag=SE }:: Suecia | ::{ flag=HR }:: Croacia | ::{ flag=BO }:: Bolivia | ::{ flag=ID }:: Indonesia |

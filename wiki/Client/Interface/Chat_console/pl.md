@@ -1,6 +1,9 @@
 ---
 outdated_translation: true
+needs_cleanup: true
 ---
+
+<!-- "or" isn't translated in the tables -->
 
 # Czat
 
@@ -80,14 +83,13 @@ Aby aktywować daną opcję, naciśnij odpowiadający jej numer lub naciśnij je
 | `/addfriend [użytkownik]` | Dodaje `[użytkownika]` do znajomych. | `/addfriend Amigo` | You are now friends with Amigo. |
 | `/delfriend [użytkownik]` | Usuwa `[użytkownika]` ze znajomych. | `/delfriend Amigo` | You are no longer friends with Amigo. |
 | `/away [wiadomość]` | Ustawia automatyczną wiadomość wysyłaną przy braku aktywności do osób piszących do ciebie w prywatnej wiadomości. Pozostaw puste, aby usunąć. | `/away Nazywam się John Smith.` | You have been marked as being away: Nazywam się John Smith. Kiedy Amigo napisze /msg John Gdzie jesteś~? BanchoBot: Nazywam się John Smith. |
-| `/chat [user]` | Otwiera czat z danym użytkownikiem. | `/chat Amigo` | (czat z Amigo zostanie otwarty) |
+| `/chat [użytkownik]` or `/msg [użytkownik]` or `/query [użytkownik]` | Otwiera czat z danym użytkownikiem. | `/chat Amigo` | (czat z Amigo zostanie otwarty) |
 | `/clear` | Czyści wszystkie wiadomości z czatu. | `/clear` | (czyści praktycznie wszystko, co znajduje się na obecnie wybranej zakładce) |
 | `/ignore [użytkownik][@chp]` | Ignoruje wszystkie wiadomości danego użytkownika podczas tej sesji. Jeżeli po nazwie użytkownika wprowadzisz litery `c`, `h` czy `p` poprzedzone znakiem `@`, możesz ignorować użytkownika odpowiednio na czacie, we wzmiankach lub w prywatnej wiadomości. | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} |
 | `/j [channel]` or `/join [channel]` | Dołącza do danego kanału. | `/join #lobby` | (zakładka z kanałem #lobby zostanie otwarta) |
 | `/p` or `/part` | Wychodzi z obecnie wybranego kanału. | `/part` | - |
-| `/unignore [user]` | Przestaje ignorować danego użytkownika podczas tej sesji. | `/unignore Amigo` | Będziesz już widzieć wiadomości od użytkownika Amigo. |
+| `/unignore [użytkownik]` | Przestaje ignorować danego użytkownika podczas tej sesji. | `/unignore Amigo` | Będziesz już widzieć wiadomości od użytkownika Amigo. |
 | `/me [action]` | Mówienie o sobie w trzeciej osobie. | `/me uderza w stół` | * John uderza w stół |
-| `/msg [użytkownik] [wiadomość]` | Wysyła prywatną wiadomość do `[użytkownika]`. | `/msg Amigo Zachorowałem.` | (na czacie z Amigo) John: Zachorowałem. |
 | `/np` | Wysyła na czat wiadomość z obecnie odtwarzaną lub graną piosenką. | `/np` | * John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/beatmapsets/3756#osu/22538) [Game Modes](/wiki/FAQ#inne-tryby-gry) \~[Relax/Autopilot](/wiki/Gameplay/Game_modifier#special)\~ +[Modyfikatory utrudniające](/wiki/Gameplay/Game_modifier#difficulty-increase) -[Modyfikatory ułatwiające](/wiki/Gameplay/Game_modifier#difficulty-reduction)/[SpunOut](/wiki/Gameplay/Game_modifier/Spun_Out) [xK](/wiki/Gameplay/Game_modifier/xK) |
 | `/reply` or `/r` | Odpowiada użytkownikowi, który wysłał ostatnią prywatną wiadomość. | `/r Znasz może jakiegoś dobrego lekarza?` | (na czacie z Amigo) \[Poprzednie wiadomości\] John: Zachorowałem. Amigo: Naprawdę? John: Znasz może jakiegoś dobrego lekarza? |
 | `/savelog` | Zapisuje wiadomości z obecnie wybranego kanału w pliku tekstowym. | `/savelog` | (W katalogu z osu! zostanie utworzony folder `Chat`, w którym będą znajdować się wszystkie zapisy wiadomości z czatu) |

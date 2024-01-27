@@ -1,5 +1,7 @@
 ---
 outdated: true
+outdated_translation: true
+outdated_since: 1ef63c7a78e0aed007a64cef508872abf9c5c123
 ---
 
 # L'histoire d'osu!

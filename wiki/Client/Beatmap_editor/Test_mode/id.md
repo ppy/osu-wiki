@@ -18,7 +18,7 @@ tags:
 Permainan di test mode memiliki beberapa perbedaan dengan permainan normal pada umumnya. Permainan di test mode tidak memiliki papan peringkat, tidak terhubung dengan sistem submisi skor yang ada, tidak memungkinkan pemain untuk gagal, dan selalu akan menampilkan informasi-informasi berikut pada bagian kiri layar:
 
 - [Timestamp](/wiki/Modding/Timestamp) beatmap sekarang.
-- [Muatan SB](/wiki/Client/Beatmap_editor/SB_Load).
+- [Muatan SB](/wiki/Client/Beatmap_editor/SB_load).
 - Total jumlah 300, 100, 50, dan miss yang didapatkan.
 - Persentase dari *hit error*.
 - Simpangan waktu rata-rata (dalam hitungan milidetik) dari *hit error* yang diperoleh.

@@ -18,7 +18,7 @@ Bir ritim oyunu olarak, osu!'nun kullanıcı taraflı oluşturulan her bir seviy
 
 Kullanıcılar [beatmap kataloğu](https://osu.ppy.sh/beatmapsets) üzerinden herhangi bir şarkının sanatçısını, başlığını, veya ilgili bir bilgiyi girerek seviyeleri arayabilir ve indirebilirler. Seviye indirmelerinin çoğu bir şarkıyı, kullanıcı tarafından oluşturulan seviyelere ait veriyi, bir arkaplan resmini, ve oyun-içi ses efektlerini içerir.
 
-Seviyeleri gönderirken, oluşturucular [İçerik Kullanım Yönergeleri](/wiki/Rules/Content_Usage_Guidelines) uyarınca tüm unsurların telif hakkı sahiplerinden izin almaya teşvik edilirler.
+Seviyeleri gönderirken, oluşturucular [İçerik Kullanım Yönergeleri](/wiki/Rules/Content_usage_guidelines) uyarınca tüm unsurların telif hakkı sahiplerinden izin almaya teşvik edilirler.
 
 ## Featured Artist lisanslama şartları
 

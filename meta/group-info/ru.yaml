@@ -1,6 +1,3 @@
-outdated_since: 0522bc4c323f9a2b0c89a6b9582109a0608c6287
-outdated_translation: true
-
 separator: ", "
 alumni:
   roles:
@@ -24,11 +21,12 @@ gmt:
     tournaments: организация турниров
     wiki: администрирование вики
     mapping: модерация маппинг-сообщества
+    skinning: модерация скиннинг-сообщества
+    leadership: лидерство
 nat:
-  areas:
-    communication: обратная связь
-    evaluation: аттестация номинаторов
-    moderation: модерация
-    structural: организация
+  subgroups:
+    structural: организационные вопросы
+    evaluation: оценка
+    leadership: лидерство
 languages:
   partial: частично <language>

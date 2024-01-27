@@ -11,7 +11,8 @@ tags:
 
 # Lazer release stream
 
-*For an exhaustive list of new features and other differences compared to osu!(stable), see: [osu!(lazer) feature comparison](/wiki/Client/Release_stream/Lazer/Feature_comparison).*
+*For a list of features in lazer and common questions regarding the new client, see: [Help centre/Upgrading to lazer](/wiki/Help_centre/Upgrading_to_lazer)*\
+*For a list of changes to game mechanics, see: [Gameplay differences in osu!(lazer)](/wiki/Client/Release_stream/Lazer/Gameplay_differences_in_osu!(lazer))*
 
 ::: Infobox
 
@@ -25,8 +26,6 @@ tags:
 | Open source | Yes |
 
 :::
-
-*For common questions regarding updating to lazer, and the new client itself, see: [Help Centre/Upgrading to lazer](/wiki/Help_centre/Upgrading_to_lazer)*
 
 "Lazer" is the code name for the next major update to osu!. While the other release streams are feature-locked, lazer will continue to receive updates and eventually become the new "stable" client, with other versions renamed accordingly.
 

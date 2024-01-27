@@ -5,7 +5,7 @@ outdated_since: d132f80edb22c7fe2d1e47046d9ca448b161ea5e
 
 # タイミングタブ
 
-*[曲の長さを計るには](/wiki/Guides/How_to_Time_Songs)を参照してください。*
+*[曲の長さを計るには](/wiki/Guides/How_to_time_songs)を参照してください。*
 
 ![エディターのタイミングタブ](/wiki/shared/timing/Timing_base.jpg)
 

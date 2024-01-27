@@ -1,4 +1,6 @@
-<!-- TODO: check grammar/style, probably rewrite the intro to be more relevant to osu!mania right away -->
+---
+needs_cleanup: true  # https://github.com/ppy/osu-wiki/issues/9918, also, check grammar/style, probably rewrite the intro to be more relevant to osu!mania right away
+---
 
 # osu!mania
 
@@ -83,6 +85,8 @@ Health bar regeneration occurs slowly while holding the hold note(s). Depending 
 ## Play Styles
 
 *Refer to [Play Styles page under osu!mania](/wiki/Gameplay/Play_style#osu!mania).*
+
+*See also: [osu!mania 10K+ playstyles](/wiki/Beatmapping/osu!mania_10K_plus_playstyles)*
 
 ## Controls
 

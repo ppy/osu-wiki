@@ -41,7 +41,7 @@ Ważne:
 
 ### Konkurs Aspire
 
-Konkursy Aspire to konkursy dot. tworzenia beatmap, w których nie obowiązują [kryteria rankingowe](/wiki/Ranking_Criteria).
+Konkursy Aspire to konkursy dot. tworzenia beatmap, w których nie obowiązują [kryteria rankingowe](/wiki/Ranking_criteria).
 
 Ważne:
 

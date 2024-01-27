@@ -13,7 +13,7 @@ outdated_since: e41f859079680fcfa5a56db92d53ecad540fad4b
 
 ## Timing points
 
-BPM dan offset digunakan untuk menentukan [Timing points](/wiki/Beatmapping/Timing_section) yang selanjutnya akan dipakai untuk snapping [hit objects](/wiki/Gameplay/Hit_object) ke dalam timeline ketika membuat [beatmaps](/wiki/Beatmap). Timeline snapping digunakan untuk memastikan agar ketukan lagu sesuai dengan ketukan saat bermain.
+BPM dan offset digunakan untuk menentukan [Timing points](/wiki/Client/Beatmap_editor/Timing) yang selanjutnya akan dipakai untuk snapping [hit objects](/wiki/Gameplay/Hit_object) ke dalam timeline ketika membuat [beatmaps](/wiki/Beatmap). Timeline snapping digunakan untuk memastikan agar ketukan lagu sesuai dengan ketukan saat bermain.
 
 Di dalam [Timing tab](/wiki/Client/Beatmap_editor/Timing) pada [beatmap editor](/wiki/Client/Beatmap_editor), Terdapat alat untuk memperkirakan BPM. Cara kerjanya, BPM dan offset dihitung berdasarkan tapping yang dilakukan oleh pemain dalam keadaan musik sedang diputar. Alat ini sangat berguna untuk memperkirakan nilai BPM, tetapi membutuhkan penyesuaian di akhir penggunaannya agar dapat tersinkronisasi dengan musik.
 

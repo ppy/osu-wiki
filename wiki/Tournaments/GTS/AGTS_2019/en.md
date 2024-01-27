@@ -57,7 +57,7 @@ The Advanced Global Taiko Showdown 2019 was run by various community members.
 - [GTS Discord server](https://discord.gg/3mGC3HB)
 - [Livestream](https://www.twitch.tv/gtsosu)
 - [Challonge brackets](https://challonge.com/AGTS2019)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit?usp=sharing)**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit)**
 
 ## Participants
 
@@ -397,9 +397,9 @@ Sunday, 18 August 2019:
 
 ### General rules
 
-1. Advanced Global Taiko Showdown is a **2v2 team tournament** with teams of **maximum 5 players.**
-2. The teams will first play in a **group stage** and then play in a **double-elimination bracket.**
-3. The scoring system that will be used is **Score V2.**
+1. Advanced Global Taiko Showdown is a **2v2 team tournament** with teams of **maximum 5 players**.
+2. The teams will first play in a **group stage** and then play in a **double-elimination bracket**.
+3. The scoring system that will be used is **Score V2**.
 4. Any player who meets the requirements stated in the rank restrictions part is allowed to play. Since the tournament is aiming to get badged, some players might be declined by osu! staff.
 5. Any members of staff apart from **Management, Mappool Selectors, and Referees** are allowed to play.
 6. Players and staff members must have read this ruleset entirely. (and we will assume you did so throughout the tournament)
@@ -408,14 +408,14 @@ Sunday, 18 August 2019:
 
 ### Rank restrictions
 
-1. You must be within ranks #500 - #3,500 during registrations. This means that you have to be in this rank range **until the end of registrations.**
-2. You are not allowed to rank up further than **#400 during the tournament.** If you pass this limit you will be disqualified.
+1. You must be within ranks #500 - #3,500 during registrations. This means that you have to be in this rank range **until the end of registrations**.
+2. You are not allowed to rank up further than **#400 during the tournament**. If you pass this limit you will be disqualified.
 3. You must sign up with the country flag of your profile.
 4. You must join the Discord server of the tournament.
 
 ### Tournament registration and teams creation
 
-1. In order to participate you need to meet the criteria stated in the **[rank restriction](#rank-restrictions) part.**
+1. In order to participate you need to meet the criteria stated in the **[rank restriction](#rank-restrictions) part**.
 2. Players sign up individually. When their registration is accepted, they will get a country role in the Discord server.
 3. The first captain of the team will be chosen by the tournament's staff, and will be sent the roster of every player in the country by osu! forum PM.
 4. The staff can refuse a player if they deem that the player skill is not fit with the tournament.
@@ -455,17 +455,17 @@ Sunday, 18 August 2019:
 5. Every mappool will consist of 20 maps.
 6. The size of the Hidden, HardRock, DoubleTime, and FreeMod brackets will be 3 in all stages.
 7. The EX bracket will be played with no mods activated and is the harder version of NoMod, it contains maps with tricky mapping technique, speed changes, etc.
-8. The FreeMod pool is played with FreeMod activated. Every individual player can pick **Hidden, HardRock or both. At least one player of each team must have at least one mod activated.**
+8. The FreeMod pool is played with FreeMod activated. Every individual player can pick **Hidden, HardRock or both. At least one player of each team must have at least one mod activated**.
 9. The Tiebreaker is played under FreeMod conditions but it is not necessary that at least one player has at least one mode activated.
 10. The mappool for each stage will be showcased a week before.
 
 ### Scheduling instructions
 
-1. Every stage will be held **during the weekend.** (it is however allowed to schedule on another day if no good time is found during the weekend).
+1. Every stage will be held **during the weekend**. (it is however allowed to schedule on another day if no good time is found during the weekend).
 2. Matches are allowed to overlap if referees are available.
 3. We will try to schedule as best as possible to fit with the timezones. The schedule will be released the previous weekend of each stage.
 4. Reschedules will only be considered if both teams agree to a time, this needs to be done and notified to the tournament staff before **Thursday at 23:59 UTC+0** in that particular week when your match takes place.
-5. Reschedules may only be requested by **the team captain.**
+5. Reschedules may only be requested by **the team captain**.
 
 ### Match regulations
 
@@ -477,7 +477,7 @@ Sunday, 18 August 2019:
 6. Each team is allowed one warm-up but it must be below 4 minutes. Everyone is allowed in the room during warm ups.
 7. Each captain has to ban **one beatmap** to be selected from the pool (apart from Tiebreaker). These beatmaps are not allowed to be picked by any team in the entire match.
 8. The captain of each team will roll with the command `!roll` in the chat.
-9. The team with the **highest roll bans second and picks first.** The team with **the lowest roll bans first and picks second.**
+9. The team with the **highest roll bans second and picks first**. The team with **the lowest roll bans first and picks second**.
 10. Beatmap selection will then alternate between each captain selecting a beatmap out of the map pool.
 11. Captains may pick freely from any bracket.
 12. Exchanging players during a match is allowed without limitations.

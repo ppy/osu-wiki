@@ -10,8 +10,6 @@
 
 ### ![](/wiki/shared/mode/osu.png) osu! 世界杯
 
-osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。这是一年一度的世界级的赛事，同时也是社区成员间合作的成果，它给社区带来更多的活力。
-
 | 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu! 世界杯 #1](OWC/1) | 2011-01-31 | 2011-04-08 | ::{ flag=TW }:: 台湾 | ::{ flag=NL }:: 荷兰 | ::{ flag=KR }:: 韩国 |
@@ -27,6 +25,7 @@ osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。�
 | [osu! 世界杯 2020](OWC/2020) | 2020-10-24 | 2020-12-06 | ::{ flag=US }:: 美国 | ::{ flag=DE }:: 德国 | ::{ flag=CA }:: 加拿大 |
 | [osu! 世界杯 2021](OWC/2021) | 2021-10-09 | 2021-11-28 | ::{ flag=US }:: 美国 | ::{ flag=DE }:: 德国 | ::{ flag=KR }:: 韩国 |
 | [osu! 世界杯 2022](OWC/2022) | 2022-10-15 | 2022-11-27 | ::{ flag=US }:: 美国 | ::{ flag=KR }:: 韩国 | ::{ flag=DE }:: 德国 |
+| [osu! 世界杯 2023](OWC/2023) | 2023-10-21 | 2023-12-03 | ::{ flag=US }:: 美国 | ::{ flag=KR }:: 韩国 | ::{ flag=AU }:: 澳洲 |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko 世界杯
 
@@ -61,7 +60,7 @@ osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。�
 | [osu!catch 世界杯 2020](CWC/2020) | 2020-05-09 | 2020-06-14 | ::{ flag=KR }:: 韩国 | ::{ flag=CN }:: 中国 | ::{ flag=US }:: 美国 |
 | [osu!catch 世界杯 2021](CWC/2021) | 2021-05-01 | 2021-06-06 | ::{ flag=KR }:: 韩国 | ::{ flag=HK }:: 香港 | ::{ flag=US }:: 美国 |
 | [osu!catch 世界杯 2022](CWC/2022) | 2022-05-21 | 2022-07-03 | ::{ flag=KR }:: 韩国 | ::{ flag=US }:: 美国 | ::{ flag=CN }:: 中国 |
-| [osu!catch 世界杯 2023](CWC/2023) | 2023-05-13 | 2023-06-25 | *TBD* | *TBD* | *TBD* |
+| [osu!catch 世界杯 2023](CWC/2023) | 2023-05-13 | 2023-06-25 | ::{ flag=KR }:: 韩国 | ::{ flag=US }:: 美国 | ::{ flag=IT }:: 意大利 |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania 世界杯
 
@@ -83,12 +82,14 @@ osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。�
 | [osu!mania 7K 世界杯 2022](MWC/2022_7K) | 2021-12-16 | 2022-02-20 | ::{ flag=KR }:: 韩国 | ::{ flag=CN }:: 中国 | ::{ flag=MY }:: 马来西亚 |
 | [osu!mania 4K 世界杯 2022](MWC/2022_4K) | 2022-07-07 | 2022-09-18 | ::{ flag=KR }:: 韩国 | ::{ flag=BR }:: 巴西 | ::{ flag=US }:: 美国 |
 | [osu!mania 7K 世界杯 2023](MWC/2023_7K) | 2022-12-15 | 2023-02-18 | ::{ flag=PH }:: 菲律宾 | ::{ flag=KR }:: 韩国 | ::{ flag=MY }:: 马来西亚 |
+| [osu!mania 4K 世界杯 2023](MWC/2023_4K) | 2023-07-13 | 2023-09-24 | ::{ flag=US }:: 美国 | ::{ flag=KR }:: 韩国 | ::{ flag=ID }:: 印度尼西亚 |
+| [osu!mania 7K 世界杯 2024](MWC/2024_7K) | 2023-12-15 | 2024-02-25 | *TBD* | *TBD* | *TBD* |
 
 ## 社区锦标赛
 
 非官方的锦标赛由社区成员自发举办。
 
-### ![][IconOsu] osu!
+### ![](/wiki/shared/mode/osu.png) osu!
 
 #### 112's Tournaments
 
@@ -108,6 +109,8 @@ osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。�
 | 3 Digit World Cup | 2019-03-15 | 2019-05-26 | ::{ flag=KR }:: 韩国 | ::{ flag=RU }:: 俄罗斯 | ::{ flag=US }:: 美国 |
 | 3 Digit World Cup 2020 | 2020-03-16 | 2020-05-31 | ::{ flag=US }:: 美国 | ::{ flag=BR }:: 巴西 | ::{ flag=TW }:: 台湾 |
 | [3 Digit World Cup 2021](3WC/2021) | 2021-02-24 | 2021-05-09 | ::{ flag=TW }:: 台湾 | ::{ flag=PL }:: 波兰 | ::{ flag=US }:: 美国 |
+| 3 Digit World Cup 2022 | 2022-02-20 | 2022-05-08 | ::{ flag=HK }:: 香港 | ::{ flag=CN }:: 中国 | ::{ flag=ID }:: 印度尼西亚 |
+| 3 Digit World Cup 2023 | 2023-02-17 | 2023-04-30 | ::{ flag=KR }:: 韩国 | ::{ flag=HK }:: 香港 | ::{ flag=US }:: 美国 |
 
 #### Aetherian's Summer Singles
 
@@ -115,12 +118,14 @@ osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。�
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Aetherian's Summer Singles 1](AESS/1) | 2021-04-30 | 2021-7-13 | ::{ flag=CA }:: [Flatpaper](https://osu.ppy.sh/users/11255340) | ::{ flag=CA }:: [FaintGun](https://osu.ppy.sh/users/10500541) | ::{ flag=PH }:: [NathanSS](https://osu.ppy.sh/users/8500628) |
 | [Aetherian's Summer Singles 2](AESS/2) | 2022-05-06 | 2022-07-23 | ::{ flag=PL }:: [maliszewski](https://osu.ppy.sh/users/12408961) | ::{ flag=KR }:: [[Karcher]](https://osu.ppy.sh/users/11443437) | ::{ flag=HK }:: [mcy4](https://osu.ppy.sh/users/2165650) |
+| [Aetherian's Summer Singles 3](AESS/3) | 2023-05-01 | 2023-07-09 | ::{ flag=PL }:: [maliszewski](https://osu.ppy.sh/users/12408961) | ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970) | ::{ flag=KR }:: [mx10001](https://osu.ppy.sh/users/11443437) |
 
 #### Ascaveth Invitational Tournament
 
 | 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Ascaveth Invitational Tournament 2022 | 2022-09-03 | 2022-09-03 | ::{ flag=ID }:: [Vinno](https://osu.ppy.sh/users/10717635) | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) |
+| [Ascaveth Invitational Tournament 2022](AIT/2022) | 2022-09-03 | 2022-09-03 | ::{ flag=ID }:: [Vinno](https://osu.ppy.sh/users/10717635) | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) |
+| [Ascaveth Invitational Tournament 2023](AIT/2023) | 2023-12-09 | 2023-12-09 | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) |
 
 #### Aus/NZ osu!standard Tournament
 
@@ -133,6 +138,12 @@ osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。�
 | [Aus/NZ osu!standard Tournament 5 - Summer](ANZT/2018_Summer) | 2018-01-26 | 2018-03-17 | ::{ flag=AU }:: [Lunirs](https://osu.ppy.sh/users/2118945) | ::{ flag=AU }:: [Blobby3000](https://osu.ppy.sh/users/6916774) | ::{ flag=AU }:: [TheOmyNomy](https://osu.ppy.sh/users/4241054) |
 | [Aus/NZ osu!standard Tournament 5 - Winter](ANZT/2018_Winter) | 2018-08-17 | 2018-09-30 | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) | ::{ flag=AU }:: [-Machine-](https://osu.ppy.sh/users/5459981) | ::{ flag=AU }:: [Blobby3000](https://osu.ppy.sh/users/6916774) |
 | [Aus/NZ osu!standard Tournament 6 - Summer](ANZT/2019_Summer) | 2019-01-11 | 2019-03-10 | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) | ::{ flag=AU }:: [Jordan The Bear](https://osu.ppy.sh/users/7477458) | ::{ flag=AU }:: [nickerdead3](https://osu.ppy.sh/users/4999984) |
+
+#### BubblyQT
+
+| 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [BubblyQT 6](BQT/6) | 2023-09-30 | 2023-11-12 | 5 Tonatious' on Bonk | dilf cup 2 | abbeychan fanclub |
 
 #### CES League osu! Tournament
 
@@ -153,7 +164,7 @@ osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。�
 
 | 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Corgi Cup: June 2016](CC/1) | 2016-06-02 | 2016-06-19 | ::{ flag=GB }:: [rafalbrew](https://osu.ppy.sh/users/3872602) | ::{ flag=GB }:: [Pelzio](https://osu.ppy.sh/users/4775226) | ::{ flag=US }::  [zelda101](https://osu.ppy.sh/users/4502238) |
+| [Corgi Cup: June 2016](CC/1) | 2016-06-02 | 2016-06-19 | ::{ flag=GB }:: [rafalbrew](https://osu.ppy.sh/users/3872602) | ::{ flag=GB }:: [Pelzio](https://osu.ppy.sh/users/4775226) | ::{ flag=US }:: [zelda101](https://osu.ppy.sh/users/4502238) |
 | [Corgi Cup: September 2016](CC/2) | 2016-08-05 | 2016-09-11 | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) | ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808) | ::{ flag=RO }:: [Rohulk](https://osu.ppy.sh/users/3219026) |
 | [Corgi Cup III: April 2017](CC/3) | 2017-03-03 | 2017-04-30 | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) | ::{ flag=RO }:: [Rohulk](https://osu.ppy.sh/users/3219026) | ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808) |
 | [Corgi Cup IV: September 2017](CC/4) | 2017-08-18 | 2017-10-29 | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) | ::{ flag=RO }:: [Rohulk](https://osu.ppy.sh/users/3219026) | ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808) |
@@ -249,8 +260,9 @@ osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。�
 | 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu! Indonesia Tournament #10 (2020)](OIT/2020) | 2020-02-03 | 2020-04-12 | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | ::{ flag=ID }:: [Rexeez](https://osu.ppy.sh/users/1987591) |
-| [osu! Indonesia Tournament #11 (2021)](OIT/2021) | 2021-01-04 | 2021-03-28 | ::{ flag=ID }:: [rho](https://osu.ppy.sh/users/1629553) | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) |
-| [osu! Indonesia Tournament #12 (2022)](OIT/2022) | 2022-02-15 | 2022-04-03 | ::{ flag=ID }:: [Lifeline](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [deeto](https://osu.ppy.sh/users/10069909) | ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594) |
+| [osu! Indonesia Tournament #11 (2021)](OIT/2021) | 2021-01-04 | 2021-03-28 | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) |
+| [osu! Indonesia Tournament #12 (2022)](OIT/2022) | 2022-02-15 | 2022-04-03 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [deeto](https://osu.ppy.sh/users/10069909) | ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594) |
+| [osu! Indonesia Tournament #13 (2023)](OIT/2023) | 2023-06-19 | 2023-07-30 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) |
 
 #### osu! Romania Tournament
 
@@ -260,12 +272,22 @@ osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。�
 | osu! Romania Tournament 2018 (Low Bracket) | 2018-04-17 | 2018-08-18 | ::{ flag=RO }:: [FDunderlineGod](https://osu.ppy.sh/users/4854275) | ::{ flag=RO }:: [CataDesigns](https://osu.ppy.sh/users/10569381) | ::{ flag=RO }:: [Robi](https://osu.ppy.sh/users/9907606) |
 | osu! Romania Tournament 2019 | 2019-05-24 | 2019-09-14 | ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890/) | ::{ flag=RO }:: [eternum](https://osu.ppy.sh/users/4581069) | ::{ flag=RO }:: [\_AfterWind](https://osu.ppy.sh/users/2086138) |
 | [osu! Romania Summer Tournament 2021](o!RT/2021) | 2021-05-24 | 2021-09-12 | ::{ flag=RO }:: [eternum](https://osu.ppy.sh/users/4581069) | ::{ flag=RO }:: [L9 ELOVATOR](https://osu.ppy.sh/users/9578404) | ::{ flag=RO }:: [\_AfterWind](https://osu.ppy.sh/users/2086138) |
+| [Romanian osu! Cup 2022](o!RT/2022) | 2022-06-03 | 2022-09-04 | ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890/) | ::{ flag=RO }:: [SatonoDiamond](https://osu.ppy.sh/users/12366071) | ::{ flag=RO }:: [eternum](https://osu.ppy.sh/users/4581069) |
+| [osu! Romania Summer Tournament 2023](o!RT/2023) | 2023-06-01 | 2023-08-27 | ::{ flag=RO }:: [etn](https://osu.ppy.sh/users/4581069) | ::{ flag=RO }:: [Lucrise](https://osu.ppy.sh/users/9719351) | ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890) |
 
 #### osu! Singapore-Indonesia-Malaysia Tournament
 
 | 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu! Singapore-Indonesia-Malaysia Tournament](OSIM/1) | 2020-03-21 | 2020-05-17 | somaymalaycapcay | adventure timers | we will 操你妈 |
+
+#### osu!mania Malaysia Tournament
+
+| 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| osu!mania Malaysia Tournament | 2021-05-14 | 2021-06-27 | ::{ flag=MY }:: [Neokje](https://osu.ppy.sh/users/7727987) | ::{ flag=MY }:: [\[MY\]xRay](https://osu.ppy.sh/users/8287005) | ::{ flag=MY }:: [\[MY\]Kibitz](https://osu.ppy.sh/users/7418493) |
+| osu!mania Malaysia Tournament 2 | 2022-05-27 | 2022-07-10 | ::{ flag=MY }:: [\[MY\]Sol](https://osu.ppy.sh/users/12054898) | ::{ flag=MY }:: [Neokje](https://osu.ppy.sh/users/7727987) | ::{ flag=MY }:: [Kibitz](https://osu.ppy.sh/users/7418493) |
+| [osu!mania Malaysia Tournament 3](OMMT/3) | 2023-07-01 | 2023-08-13 | ::{ flag=MY }:: [xxxxxx2800](https://osu.ppy.sh/users/4084853) | ::{ flag=MY }:: [JayLye](https://osu.ppy.sh/users/14892447) | ::{ flag=MY }:: [Tosai\_](https://osu.ppy.sh/users/3760209) |
 
 #### osu! South East Asia Tournament
 
@@ -354,6 +376,12 @@ osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。�
 | [Royal Danish osu!Cup 2019](RDOC/2019) | 2020-02-22 | 2020-04-05 | ::{ flag=DK }:: [Spork Lover](https://osu.ppy.sh/users/3417469) | ::{ flag=DK }:: [Vandabe](https://osu.ppy.sh/users/7050754) | ::{ flag=DK }:: [Tikzyy](https://osu.ppy.sh/users/11380904) |
 | [Royal Danish osu!Cup 2020](RDOC/2020) | 2020-07-01 | 2020-09-27 | ::{ flag=DK }:: [iamVill](https://osu.ppy.sh/users/6295380) | ::{ flag=DK }:: [Pablohh](https://osu.ppy.sh/users/10092099) | ::{ flag=DK }:: [Vandabe](https://osu.ppy.sh/users/7050754) |
 
+#### SEA Summer Suiji Showdown
+
+| 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [SEA Summer Suiji Showdown 3](SSSS/3) | 2023-06-05 | 2023-07-31 | Schale | Tingyun Motor | maimai |
+
 #### Spanish Showdown
 
 | 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
@@ -430,7 +458,15 @@ osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。�
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Yuri Cup](YC/1) | 2020-02-22 | 2020-04-05 | Corim's Bad Dream | a la verga | Rtzero x Rtzer0 |
 
-### ![][IconTaiko] osu!taiko
+#### Yuyuko's Hidden Cup
+
+| 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Yuyuko's Hidden Cup Season 1 | 2022-05-17 | 2022-07-04 | 都怪幽神 | HD怎么打 | 队名叫有新意的名字 / 请在此处填写队名 |
+| [Yuyuko's Hidden Cup Season 2](YHC/2) | 2022-11-26 | 2023-02-05 | 懒人三项 | 老年娱乐 | 已经结束啦 |
+| [Yuyuko's Hidden Cup Season 3](YHC/3) | 2023-06-01 | 2023-07-29 | 鲭西何时无缘进路 | 天使纷扰 | 我倒杯水 |
+
+### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
 #### 3 Digit Taiko World Cup
 
@@ -495,6 +531,8 @@ osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。�
 | [Intermediate Global Taiko Showdown 2022](GTS/IGTS_2022) | 2022-03-26 | 2022-05-08 | ::{ flag=JP }:: 日本 A | ::{ flag=HK }:: 香港 | ::{ flag=US }:: 美国 B |
 | [Advanced Global Taiko Showdown 2022](GTS/AGTS_2022) | 2022-05-28 | 2022-07-10 | ::{ flag=MY }:: 马来西亚 | ::{ flag=CN }:: 中国 A | ::{ flag=KR }:: 韩国 |
 | [Expert Global Taiko Showdown 2022](GTS/EGTS_2022) | 2022-08-11 | 2022-10-09 | ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950) | ::{ flag=JP }:: [Grape\_Tea](https://osu.ppy.sh/users/9540073) | ::{ flag=DE }:: [Minekuchi](https://osu.ppy.sh/users/9584873) |
+| [Rising Global Taiko Showdown 2022](GTS/RGTS_2022) | 2022-10-10 | 2022-12-18 | ::{ flag=JP }:: 日本 | ::{ flag=CN }:: 中国 | ::{ flag=DE }:: 德国 A |
+| [cavoe's osu! event's Global Taiko Showdown](GTS/COEGTS_2023) | 2023-08-01 | 2023-08-02 | ::{ flag=US }:: [AuroraPhasmata](https://osu.ppy.sh/users/13664116) | ::{ flag=IT }:: [D3kuu](https://osu.ppy.sh/users/7807444) | ::{ flag=FI }:: [Mazzuli500](https://osu.ppy.sh/users/10648818) |
 
 #### North & South American Taiko Tournament
 
@@ -545,7 +583,7 @@ osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。�
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Vaf's Autumn Fiesta](VAF/1) | 2021-05-15 | 2021-07-11 | ::{ flag=JP }:: [yu-k1\_](https://osu.ppy.sh/users/16347853) | ::{ flag=HK }:: [J a c k y](https://osu.ppy.sh/users/8011704) | ::{ flag=CA }:: [janitore](https://osu.ppy.sh/users/3307897) |
 
-### ![][IconCatch] osu!catch
+### ![](/wiki/shared/mode/catch.png) osu!catch
 
 #### 4 Digit Catch World Cup
 
@@ -618,7 +656,7 @@ osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。�
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu!catch Convert Cup](o!cCC/1) | 2019-09-21 | 2019-11-03 | ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210) | ::{ flag=IT }:: [Karym](https://osu.ppy.sh/users/5220794) | ::{ flag=CL }:: [NachoL](https://osu.ppy.sh/users/1250096) |
 
-### ![][IconMania] osu!mania
+### ![](/wiki/shared/mode/mania.png) osu!mania
 
 #### 4 Digit osu!mania World Cup
 
@@ -660,6 +698,12 @@ osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。�
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Chinese osu!mania 4K Tournament 2017](CMT_4K/2017) | 2017-06-24 | 2017-08-06 | ::{ flag=TW }:: [- Choma -](https://osu.ppy.sh/users/4469570) | ::{ flag=CN }:: [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131) | ::{ flag=CN }:: [\[Crz\]ScSolAr](https://osu.ppy.sh/users/1591215) |
 | [Chinese osu!mania 4K Tournament 2018](CMT_4K/2018) | 2018-09-10 | 2018-11-25 | ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497) | ::{ flag=HK }:: [\[Crz\]Murasame](https://osu.ppy.sh/users/11563203) | ::{ flag=SG }:: [ByeForNow](https://osu.ppy.sh/users/7199159) |
+
+#### DACH 4K Championship
+
+| 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [DACH 4K Championship 2023](DACH4K/2023) | 2023-07-03 | 2023-08-13 | ::{ flag=DE }:: [ERA Leo](https://osu.ppy.sh/users/15440118) | ::{ flag=DE }:: [TsukiyaWhiskers](https://osu.ppy.sh/users/12598261) | ::{ flag=DE }:: [sorgenfresser](https://osu.ppy.sh/users/12039847) |
 
 #### GB Cup
 
@@ -773,7 +817,7 @@ osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。�
 
 ### 多模式
 
-#### ![][IconOsu] ![][IconTaiko] ![][IconMania] DeltaMax's Tournaments
+#### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/taiko.png) ![](/wiki/shared/mode/mania.png) DeltaMax's Tournaments
 
 | 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -781,32 +825,32 @@ osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。�
 | [DeltaMax's Taiko Oni Overlord](DMX/2) | 2018-07-14 | 2018-08-25 | ::{ flag=BR }:: [Foxerus](https://osu.ppy.sh/users/7479684) | ::{ flag=MY }:: [cdhsausageboy](https://osu.ppy.sh/users/2403621) | ::{ flag=MX }:: [Ammy](https://osu.ppy.sh/users/4183406) |
 | [DeltaMax's Mania Key Smasher](DMX/3) | 2018-11-03 | 2019-01-12 | ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497) | ::{ flag=GB }:: [xSnaggles](https://osu.ppy.sh/users/3799946) | ::{ flag=PL }:: [SitekX](https://osu.ppy.sh/users/3840946) |
 
-#### ![][IconOsu] ![][IconMania] Most Amazing LAN Ever
+#### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) Most Amazing LAN Ever
 
 | 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Most Amazing LAN Ever](osu!_Riverside/MALE) | 2019-01-27 | 2019-01-27 | ::{ flag=US }:: [Mathyu](https://osu.ppy.sh/users/6303313) (osu!), ::{ flag=US }:: [Zushen](https://osu.ppy.sh/users/2106316) (osu!mania) | ::{ flag=US }:: [Darin on osu](https://osu.ppy.sh/users/4839876) (osu!), ::{ flag=US }:: [Ecal](https://osu.ppy.sh/users/8384260) (osu!mania) | ::{ flag=US }:: [Kenny](https://osu.ppy.sh/users/1225459) (osu!), ::{ flag=US }:: [Ouchiee](https://osu.ppy.sh/users/6310052) (osu!mania) |
 
-#### ![][IconOsu] ![][IconTaiko] ![][IconCatch] ![][IconMania] osu! Multi Mode French Fiesta
+#### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/taiko.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu! Multi Mode French Fiesta
 
 | 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu! Multi Mode French Fiesta](oMMFF/1) | 2018-12-15 | 2019-02-23 | ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) (osu!), ::{ flag=FR }:: [TimmyAkmed](https://osu.ppy.sh/users/1799973) (osu!taiko), ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) (osu!catch), ::{ flag=FR }:: [Azubeur](https://osu.ppy.sh/users/1594604) (osu!mania) | ::{ flag=FR }:: [NerO](https://osu.ppy.sh/users/1545031) (osu!), ::{ flag=FR }:: [Romainnoda](https://osu.ppy.sh/users/8814218) (osu!taiko), ::{ flag=FR }:: [Boros](https://osu.ppy.sh/users/5490623) (osu!catch), ::{ flag=FR }:: [PatouZ](https://osu.ppy.sh/users/7306522) (osu!mania) | ::{ flag=FR }:: [Flaven](https://osu.ppy.sh/users/3213239) (osu!), ::{ flag=FR }:: [Yona la loutre](https://osu.ppy.sh/users/7930622) (osu!taiko), ::{ flag=FR }:: [Noulayfe](https://osu.ppy.sh/users/4316542) (osu!catch), ::{ flag=FR }:: [DemonWaves](https://osu.ppy.sh/users/3909293) (osu!mania) |
 
-#### ![][IconOsu] ![][IconMania] osu! UCI
+#### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) osu! UCI
 
 | 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
 | :-- | :-- | :-- | :-- | :-- |
 | [The iDOL@NSTER: Irvine Spring Stage](osu!_UCI/iDOL@NSTER) | 2019-05-19 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) (osu!), ::{ flag=US }:: [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) (osu!mania) | ::{ flag=US }:: [Mathyu](https://osu.ppy.sh/users/6303313) (osu!), ::{ flag=US }:: [Trainer-](https://osu.ppy.sh/users/9331760) (osu!mania) | ::{ flag=US }:: [death grips](https://osu.ppy.sh/users/4829231) (osu!), ::{ flag=US }:: [Ouchiee](https://osu.ppy.sh/users/6310052) (osu!mania) |
 | [Night Fall LAN](osu!_UCI/NFL) | 2020-01-18 | ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150) (osu!), ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) (osu!mania) | ::{ flag=US }:: [Monko2k](https://osu.ppy.sh/users/4852013) (osu!), ::{ flag=US }:: [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) (osu!mania) | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) (osu!), ::{ flag=CA }:: [Dark lord bob](https://osu.ppy.sh/users/4588299) (osu!mania) |
 
-#### ![][IconOsu] ![][IconTaiko] ![][IconCatch] ![][IconMania] osu!Philippines Holiday Friendlies 2018
+#### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/taiko.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu!Philippines Holiday Friendlies 2018
 
 | 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu!Philippines Holiday Friendlies 2018](oPHF/2018) | 2018-11-03 | 2018-12-16 | ::{ flag=KR }:: [Stereo](https://osu.ppy.sh/users/1499137) (osu!), ::{ flag=PH }:: [Pochacco](https://osu.ppy.sh/users/2927742) (osu!taiko), ::{ flag=PH }:: [- Kielzu -](https://osu.ppy.sh/users/6221114) (osu!catch), ::{ flag=PH }:: [arge-](https://osu.ppy.sh/users/9919550) (osu!mania 4K), ::{ flag=PH }:: [Nikana](https://osu.ppy.sh/users/4345491) (osu!mania 7K) | ::{ flag=PH }:: [TyrantsEye2014](https://osu.ppy.sh/users/4530738) (osu!), ::{ flag=PH }:: [Rimazii](https://osu.ppy.sh/users/3831514) (osu!taiko), ::{ flag=PH }:: [KaganimeRin](https://osu.ppy.sh/users/1626093) (osu!catch), ::{ flag=PH }:: [Baltz](https://osu.ppy.sh/users/6083463) (osu!mania 4K), ::{ flag=PH }:: [fer789](https://osu.ppy.sh/users/8901267) (osu!mania 7K) | ::{ flag=PH }:: [ededed028](https://osu.ppy.sh/users/3932796) (osu!), ::{ flag=PH }:: [zonelouise](https://osu.ppy.sh/users/1492995) (osu!), ::{ flag=PH }:: [yuki\_momoiro722](https://osu.ppy.sh/users/7186791) (osu!taiko), ::{ flag=PH }:: [Crowley](https://osu.ppy.sh/users/6341006) (osu!catch), ::{ flag=PH }:: [Shiyui-](https://osu.ppy.sh/users/9374607) (osu!mania 4K), ::{ flag=PH }:: [Cielo Day](https://osu.ppy.sh/users/2722489) (osu!mania 7K) |
 
-#### ![][IconOsu] ![][IconCatch] ![][IconMania] osu!Philippines Summer Tournament
+#### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu!Philippines Summer Tournament
 
 | 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -822,7 +866,3 @@ osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。�
 [GCrown]: /wiki/shared/crown-gold.png "冠军"
 [SCrown]: /wiki/shared/crown-silver.png "亚军"
 [BCrown]: /wiki/shared/crown-bronze.png "季军"
-[IconOsu]: /wiki/shared/mode/osu.png
-[IconTaiko]: /wiki/shared/mode/taiko.png
-[IconCatch]: /wiki/shared/mode/catch.png
-[IconMania]: /wiki/shared/mode/mania.png

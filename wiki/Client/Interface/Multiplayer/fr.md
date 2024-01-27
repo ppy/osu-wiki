@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: aaa180d2f96e68bb61094382214237cf8bc22555
+---
+
 # Multijoueur
 
 Le **multijoueur** (souvent abrégé en *Multi*) est un mode de jeu dans lequel jusqu'à 16 joueurs peuvent s'affronter entre eux ou en équipe sur une beatmap choisie par l'hôte.
@@ -51,7 +56,7 @@ Pour rentrer dans une salle, cliquez sur l'une d'entre elles.
 
 ### Options générales
 
-Les trois boutons au-dessus de la [console de tchat](/wiki/Client/Interface/Chat_console) fournissent les principales options de navigation de cet écran : 
+Les trois boutons au-dessus de la [console de tchat](/wiki/Client/Interface/Chat_console) fournissent les principales options de navigation de cet écran :
 
 | Titre | Description |
 | :-: | :-- |
@@ -82,7 +87,7 @@ Appuyer sur le bouton `1. Start Game` va créer la salle avec la musique se joua
 
 Après avoir rejoint ou créé une salle, la configuration sera affichée. Les sections suivantes vont mettre en avant les différentes parties de l'écran commençant du haut vers le bas et allant de la gauche vers la droite.
 
-Bien qu'il n'y ait pas de bouton permettant d'y accéder directement, le [menu des options](/wiki/Client/Options) peut être accédé en appuyant sur `Ctrl` + `O` en étant dans le lobby de la salle. 
+Bien qu'il n'y ait pas de bouton permettant d'y accéder directement, le [menu des options](/wiki/Client/Options) peut être accédé en appuyant sur `Ctrl` + `O` en étant dans le lobby de la salle.
 
 ### Section supérieure
 
@@ -170,7 +175,7 @@ Cette section affichera les [modes de jeu](/wiki/Gameplay/Game_modifier) utilis�
 
 L'hôte peut activer les `Mods Libres` pour permettre aux joueurs de choisir librement toute combinaison de mods, exceptés ceux qui changent la vitesse de gameplay tel que ([Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore) et [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time)).
 
-#### Mode par équipe {#team-mode-match-setup}
+#### Mode par équipe {id=team-mode-match-setup}
 
 *Pour plus d'information sur les modes par équipe, voir la [section gameplay sur les modes par équipe](#team-mode-gameplay).*
 
@@ -206,7 +211,7 @@ Il y a 4 façons différentes de décider du gagnant de la partie :
 
 Il y a deux grands boutons orange et bleu au dessus de la [console de tchat](/wiki/Client/Interface/Chat_console). Le bouton orange `Quitter la salle` sur la gauche est auto-explicatif.
 
-Le bouton bleu est utilisé pour contrôler l'état du joueur (prêt/pas prêt) et pour commencer la partie. 
+Le bouton bleu est utilisé pour contrôler l'état du joueur (prêt/pas prêt) et pour commencer la partie.
 
 | Titre | Description |
 | :-: | :-- |
@@ -235,7 +240,7 @@ Il n'y a aucune façon de mettre en pause une partie multijoueur. Appuyer sur `�
 
 #### Paramètres visuels
 
-Lorsque que la partie est en train de démarrer, déplacer le curseur vers le bas de l'écran ouvrira le menu de paramètres visuels. Voir la page du [menu de paramètres visuels](/wiki/Client/Interface/Visual_settings) pour plus d'informations. 
+Lorsque que la partie est en train de démarrer, déplacer le curseur vers le bas de l'écran ouvrira le menu de paramètres visuels. Voir la page du [menu de paramètres visuels](/wiki/Client/Interface/Visual_settings) pour plus d'informations.
 
 #### Santé
 
@@ -265,6 +270,8 @@ Pour des parties en `Head-to-head` et en `Team VS` :
 
 Pour `Tag co-op` et `Tag-team VS`:
 
+| Condition de victoire | Statistiques affichées |
+| :-- | :-- |
 | `Score` / `Score v2` | Score d'équipe, score individuel, jugements |
 | `Accuracy` | Moyenne de précision d'équipe, score individuel, jugements |
 | `Combo` | Combo actuel, score individuel, jugements |
@@ -286,7 +293,7 @@ La couleur de chaque joueur sur le classement en jeu indique le statut du joueur
 | ![](img/Playerbox/Multi_PB_SKIP.jpg "Skipped") | Skipped | La requête d'un joueur pour passer l'introduction d'une beatmap s'il y en a une. L'introduction sera passée une fois que tous les joueurs ont souhaité la passer. |
 | ![](img/Playerbox/Multi_PB_QUIT.jpg "Quit") | Quit | Le joueur a quitté la partie, soit en appuyant sur `Échap` deux fois, soit en ayant été déconnecté de [Bancho](/wiki/Bancho_(server)). La couleur du texte passera de blanche à rouge avec `[Quit]` rajouté à la fin. La couleur de la boîte indique le statut du joueur avant de quitter la partie. |
 
-### Type de partie {#team-mode-gameplay}
+### Type de partie {id=team-mode-gameplay}
 
 #### Head-to-head
 
@@ -324,7 +331,7 @@ L'équipe bleue est sur la gauche, et l'équipe rouge est sur la droite. Une cou
 
 Changer d'équipe est possible tant que les joueurs se trouvent sur le lobby. Il n'y a pas de handicap pour une équipe avec moins de membres, et il est possible de commencer une partie avec uniquement une seule équipe.
 
-##### Résultats {#écran-de-résultats-team-vs}
+##### Résultats {id=écran-de-résultats-team-vs}
 
 ::: Infobox
 ![](img/multi-teamvs-results.jpg "Écran de résultats Team VS")

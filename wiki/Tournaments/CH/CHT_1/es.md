@@ -14,12 +14,12 @@ La **Coffee Hispanic Tournament** (***CHT***) fue un torneo de osu! de single-el
 
 | Evento | Fechas |
 | --: | :-- |
-| Fase de registro | 2019-12-22/2020-01-04 |
-| Eliminatorias | 2020-01-17/2020-01-20 |
-| Octavos de Final | 2020-01-25/2020-01-27 |
-| Cuartos de Final | 2020-01-31/2020-02-03 |
-| Semifinales | 2020-02-07/2020-02-09 |
-| Finales | 2020-02-15/2020-02-17 |
+| Fase de registro | 22/12/2019 - 4/1/2020 |
+| Eliminatorias | 17/1/2020 - 20/1/2020 |
+| Octavos de Final | 25/1/2020 - 27/1/2020 |
+| Cuartos de Final | 31/1/2020 - 3/2/2020 |
+| Semifinales | 7/2/2020 - 9/2/2020 |
+| Finales | 15/2/2020 - 17/2/2020 |
 
 ## Premios
 
@@ -432,7 +432,7 @@ Lunes, 27 Enero 2020:
 3. Todos los equipos tienen permitido reprogramar. Sin embargo, tiene que ser por lo menos una hora antes del horario inicial, y en caso de no presentarse al partido se contará como un no show.
 4. Si se presenta más tarde en el vestíbulo de las eliminatorias (siempre y cuando no haya pasado el límite de tiempo de 10 minutos) podrá jugar los mapas que no pudo jugar preguntándole al árbitro cuando todos los mapas lleguen a su fin.
 5. El ganador de la tirada `!roll` puede elegir entre prohibir primero y elegir segundo o prohibir segundo y elegir primero.
-6. Sólo habrá **una prohibición** por equipo en los octavos de final. Sin embargo, desde los cuartos de final y en adelante, cada equipo tendrá **2 prohibiciones**.
+6. Solo habrá **una prohibición** por equipo en los octavos de final. Sin embargo, desde los cuartos de final y en adelante, cada equipo tendrá **2 prohibiciones**.
 7. Cuando se juega a FreeMod, es necesario que al menos 1 jugador tenga que usar un mod in de cada equipo. Se permite usar más de 1 mod.
 8. El tiempo disponible para prohibir/elegir mapas es de **2 minutos**.
 9. Todos los mapas de calentamiento deben estar por debajo de las **4:00**.

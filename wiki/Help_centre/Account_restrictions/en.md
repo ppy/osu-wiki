@@ -18,7 +18,7 @@ The following features are disabled for restricted accounts:
 - updating profile details
 - store purchases
 
-## My account has been restricted! What do I do? {#what}
+## My account has been restricted! What do I do? {id=what}
 
 If your account has been restricted, do not panic. Please follow these steps:
 
@@ -32,7 +32,7 @@ If your original account is not restricted, you may log into it and continue pla
 
 If you have recently been granted an appeal and your account becomes restricted again after playing, do not panic! Automated systems may have falsely flagged your account, but you will be unrestricted again within 24 hours if this is found to be the case. Feel free to send us an email or a tweet to catch our attention and be unrestricted faster!
 
-## Why am I restricted? {#why}
+## Why am I restricted? {id=why}
 
 There are several reasons why an account might be restricted.
 
@@ -43,7 +43,7 @@ There are several reasons why an account might be restricted.
 
 If an account has been found to be rightfully restricted, we will ask that the user waits for some time before sending their appeal. This is referred to as a *cooldown*, and its duration varies depending on the offences that have taken place.
 
-## What do I do while on cooldown before appealing? {#while-on-cooldown}
+## What do I do while on cooldown before appealing? {id=while-on-cooldown}
 
 - **Keep enjoying the game!** While your account is restricted and you are on cooldown, you are more than welcome to continue playing the game (as long as you play on your original account!). The scores you achieve while restricted will be submitted, and unless your account is rolled back, they will remain after you become unrestricted.
 - **Maintain good behaviour.** We understand that being restricted can be frustrating, but think of it as a chance to take some time off, away from the community. Try to avoid interacting with the community for at least a few days (whether it be via Discord, social media, or other forms of contact) to cool down and reflect on the actions that may have contributed to your account being restricted.
@@ -51,7 +51,7 @@ If an account has been found to be rightfully restricted, we will ask that the u
 - **Follow the support team's instructions.** The cooldown period is a chance to take time off and reflect on your actions. If you attempt submitting an appeal before the cooldown period is over, your emails will be ignored. If you are unsure when your cooldown expires, when you will be allowed to appeal, or which of your accounts you should be playing on (and appealing from), you are welcome to send us an email to ask.
 - **Do not hesitate to contact us if you have any questions.** As long as you are not trying to circumvent punishment, we will happily answer any questions you have about your account's restriction!
 
-## My cooldown has passed. How do I appeal? {#appeal}
+## My cooldown has passed. How do I appeal? {id=appeal}
 
 You can appeal by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) including the username of your account. Make sure you are sending the appeal from the email address associated with your account. After you send your appeal, expect a reply within one week. If you have not received one by then, please contact us on twitter or by email — there is a chance we may not have received it.
 
@@ -62,7 +62,7 @@ When appealing, we expect the following points to be covered:
 - **How you obtained the means to do so.** This applies mostly to cheating — we want to know where you obtained the tool you used, how you came across it, and whether or not it is still present on your computer.
 - **Why we should allow you back.** Most of the time, this ties into the second point. We just want to ensure that you will not be breaking the rules again! Please understand that the more rule violations in your account's history, the more we will expect in this section of the appeal.
 
-## What if my appeal is granted? {#appeal-granted}
+## What if my appeal is granted? {id=appeal-granted}
 
 If we decide to let you return, we will require that you agree to some terms before unrestricting your account.
 
@@ -79,7 +79,7 @@ Some players may become restricted again once they start playing after having th
 
 Some offences will lead to your account being rolled back upon unrestriction. They are meant to delete illegitimate scores that were submitted on your account **across all modes**, as well as unlocked medals and profile badges. **Playcount and playtime will not be modified.**
 
-## My appeal has been denied! {#appeal-denied}
+## My appeal has been denied! {id=appeal-denied}
 
 There are several reasons why an appeal might be denied.
 
@@ -89,7 +89,7 @@ There are several reasons why an appeal might be denied.
 - **You continued offending while restricted.** There is no reason to unrestrict someone who continues to break the rules even after having been restricted. If you do continue offending, the cooldown for your account will be reset to your last offence. In the case of extreme or continuous offences, your appeal might be permanently denied.
 - **Your history is too severe.** In cases of extreme offenders, or players who get restricted again after they have already been unrestricted on a successful appeal, we might simply state that your history is too severe to rejoin the game at the current time. Should this apply to you, we recommend waiting **a long time** before appealing again, and making sure you do not break any further rules in that time.
 
-## What happens if this isn't my first time appealing? {#subsequent-appeal}
+## What happens if this isn't my first time appealing? {id=subsequent-appeal}
 
 In most cases, each restriction on your account doubles the length of the next restriction and the cooldown associated with it.
 
@@ -97,7 +97,7 @@ For example, if you are restricted for cheating, return on appeal, then cheat ag
 
 As an additional note, it becomes progressively harder to return on any kind of appeal after your first offense, as we must consider your past actions and whether unrestricting you at all is worth the time and risk involved. Very few (if any) players successfully return to the community after their third restriction.
 
-## My emails are being ignored / I don't think my appeal was handled fairly {#appeal-review}
+## My emails are being ignored / I don't think my appeal was handled fairly {id=appeal-review}
 
 In the event that you feel your emails are not being read or addressed properly by our support team, please send us a full email at [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh) containing the following information:
 
@@ -112,7 +112,7 @@ Please understand that sending an email to this address only guarantees a second
 
 **We will only respond to requests for appeal review/investigation via emails sent to [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh).** Please don't try to contact the support team members (or members of the volunteer teams) via Twitter, Discord, or any other platform in order to circumvent this policy — they cannot help you.
 
-## Common restriction reasons and cooldowns {#reasons}
+## Common restriction reasons and cooldowns {id=reasons}
 
 | Restriction reason | Cooldown duration | Appeal notes |
 | :-- | :-- | :-- |

@@ -53,6 +53,15 @@
 | Sound Souler | Clear all beatmaps bundled in the [Sound Souler Pack](https://osu.ppy.sh/beatmaps/packs/2038) beatmap pack. |
 | Teminite | Clear all beatmaps bundled in the [Teminite Pack](https://osu.ppy.sh/beatmaps/packs/2042) beatmap pack. |
 | VINXIS | Clear all beatmaps bundled in the [VINXIS Pack](https://osu.ppy.sh/beatmaps/packs/2041) beatmap pack. |
+| Touhou Pack | Clear all beatmaps bundled in the [Touhou Pack](https://osu.ppy.sh/beatmaps/packs/T106) beatmap pack. |
+| ginkiha Pack | Clear all beatmaps bundled in the [ginkiha Pack](https://osu.ppy.sh/beatmaps/packs/A75) beatmap pack. |
+| Vocaloid Pack | Clear all beatmaps bundled in the [Vocaloid Pack](https://osu.ppy.sh/beatmaps/packs/T107) beatmap pack. |
+| Maduk Pack | Clear all beatmaps bundled in the [Maduk Pack](https://osu.ppy.sh/beatmaps/packs/A77) beatmap pack. |
+| Aitsuki Nakuru Pack | Clear all beatmaps bundled in the [Aitsuki Nakuru Pack](https://osu.ppy.sh/beatmaps/packs/A78) beatmap pack. |
+| Omoi Pack | Clear all beatmaps bundled in the [Omoi Pack](https://osu.ppy.sh/beatmaps/packs/A82) beatmap pack. |
+| Chill Pack | Clear all beatmaps bundled in the [Chill Pack](https://osu.ppy.sh/beatmaps/packs/T108) beatmap pack. |
+| Rohi Pack | Clear all beatmaps bundled in the [Rohi Pack](https://osu.ppy.sh/beatmaps/packs/F2) beatmap pack. |
+| Drum & Bass Pack | Clear all beatmaps bundled in the [Drum & Bass Pack](https://osu.ppy.sh/beatmaps/packs/T113) beatmap pack. |
 | Mappers' Guild Pack I | Clear all beatmaps bundled in the [Mappers' Guild Pack I](https://osu.ppy.sh/beatmaps/packs/1365) beatmap pack. |
 | Mappers' Guild Pack II | Clear all beatmaps bundled in the [Mappers' Guild Pack II](https://osu.ppy.sh/beatmaps/packs/1450) beatmap pack. |
 | Mappers' Guild Pack III | Clear all beatmaps bundled in the [Mappers' Guild Pack III](https://osu.ppy.sh/beatmaps/packs/1689) beatmap pack. |

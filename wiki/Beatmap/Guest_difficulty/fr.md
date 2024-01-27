@@ -8,7 +8,7 @@ tags:
 
 # Guest difficulties
 
-*Pour les règlements concernant les guest difficulties, voir : [Critères de classement](/wiki/Ranking_Criteria)*
+*Pour les règlements concernant les guest difficulties, voir : [Critères de classement](/wiki/Ranking_criteria)*
 
 Les **guest difficulties**, abrégé en *GD*, sont des [difficultés](/wiki/Beatmap/Difficulty) d'une [beatmap](/wiki/Beatmap) qui ne sont pas créée par l'[hôte de la beatmap](/wiki/Beatmap/Beatmap_host). Elles peuvent généralement être identifiées par leur nom de difficulté contenant le nom d'utilisateur du créateur invité.
 
@@ -24,4 +24,4 @@ Les guest difficulties ne doivent pas être confondues avec les difficultés qui
 
 Sur la page de [discussion d'une beatmap](/wiki/Beatmap_discussion), l'hôte de la beatmap peut transférer la propriété des guest difficulties à leurs mappeurs respectifs par le biais du bouton `Difficulty Owner`. Cela permet aux propriétaires des guest difficulties de résoudre eux-mêmes les problèmes en suspens dans leurs difficultés.
 
-Le propriétaire d'une guest difficulty ne peut pas être modifié si la beatmap est [qualifiée](/wiki/Beatmap/Category#qualifiée), [classée](/wiki/Beatmap/Category#classée), ou [loved](/wiki/Beatmap/Category#loved).
+Le propriétaire d'une guest difficulty ne peut pas être modifié si la beatmap est [qualifiée](/wiki/Beatmap/Category#qualified), [classée](/wiki/Beatmap/Category#ranked), ou [loved](/wiki/Beatmap/Category#loved).

@@ -6,7 +6,7 @@ tags:
 
 # Kiai time
 
-*For regulations surrounding kiai time, see: [Ranking criteria](/wiki/Ranking_Criteria)*
+*For regulations surrounding kiai time, see: [Ranking criteria](/wiki/Ranking_criteria)*
 
 ::: Infobox
 ![](img/kiai-time-osu-gameplay.png "Fountains at the start of a kiai section of an osu! beatmap")
@@ -26,7 +26,7 @@ While kiai time doesn't affect gameplay mechanics in osu!, osu!catch, or osu!man
 ![](img/kiai-time-editor.png "Kiai time indicator in the beatmap editor. The kiai section has orange colour on the bottom timeline")
 :::
 
-Kiai time is most commonly used for the strongest part of a song, which is usually the chorus; such sections are typically more challenging than the rest of the beatmap. Kiai time may be enabled for certain [timing sections](/wiki/Beatmapping/Timing_section) by a mapper from the `Style` tab of the `Timing and Control Points` panel, and cannot be deactivated by the player.
+Kiai time is most commonly used for the strongest part of a song, which is usually the chorus; such sections are typically more challenging than the rest of the beatmap. Kiai time may be enabled for certain [timing sections](/wiki/Client/Beatmap_editor/Timing) by a mapper from the `Style` tab of the `Timing and Control Points` panel, and cannot be deactivated by the player.
 
 ## References
 

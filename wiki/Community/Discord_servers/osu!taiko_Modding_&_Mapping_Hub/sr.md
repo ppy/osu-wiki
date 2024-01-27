@@ -10,7 +10,8 @@
 
 |  |  |
 | :-- | :-- |
-| Линк позивнице | <https://discord.gg/8RJBXe8> |
+| Линк позивнице | <https://discord.gg/osutaiko> |
+| Алтернативни линк позивнице | <https://discord.gg/8RJBXe8> |
 
 :::
 
@@ -28,11 +29,11 @@
 
 | Role | Корисник (Discord ID) |
 | :-- | :-- |
-| Власник Сервера | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) (radar#0001) |
-| Модератори Сервера | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) (Capu#4171), ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) (Dusk#8170), ::{ flag=IE }:: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) (solar#5193), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) (Hivie#0859), ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) (radar#0001), ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) (Yasuho#1512) |
+| Власник Сервера | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) (@hivie) |
+| Модератори Сервера | ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) (@arcsine), ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) (@underscoredusk), ::{ flag=IE }:: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) (@hvnlymoon), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) (@hivie), ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) (@meiqth), ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) (@yasuho) |
 
 ## Верификација
 
 Да би добили приступ каналима, корисници морају да верификују свој идентитет са својим osu! налогом користећи [Axerbot](https://osu.ppy.sh/community/forums/topics/1604925)-а.
 
-![Порука за верификацију од AxerBot-а](img/auth.jpg "Када се придружите серверу, AxerBot ће затражити од корисника да потврди свој идентитет са својим osu! профилом користећи OAuth2.")
+![Порука за верификацију од AxerBot-а](img/auth.png "Када се придружите серверу, AxerBot ће затражити од корисника да потврди свој идентитет са својим osu! профилом користећи OAuth2.")

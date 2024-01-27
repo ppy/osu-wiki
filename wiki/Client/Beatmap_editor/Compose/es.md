@@ -1,8 +1,13 @@
+---
+outdated_since: 5a3f6fe8caada3a78eff1bd3c26168a031475e88
+outdated_translation: true
+---
+
 # Componer
 
-![Editor de composición para osu! en modo ventana](img/Compose.jpg "Editor de composición para osu! en modo ventana")
+![Editor de composición para osu! en modo ventana](img/compose.jpg "Editor de composición para osu! en modo ventana")
 
-![Componer para osu!mania usando la captura de pantalla de osu! (Solo el menú superior externo no se muestra)](img/ComposeMania.jpg "Componer para osu!mania usando la captura de pantalla de osu! (Solo el menú superior externo no se muestra)")
+![Componer para osu!mania usando la captura de pantalla de osu! (Solo el menú superior externo no se muestra)](img/compose-mania.jpg "Componer para osu!mania usando la captura de pantalla de osu! (Solo el menú superior externo no se muestra)")
 
 **Componer** es el lugar donde un [mapper](/wiki/Beatmapping) pasa la mayor parte del tiempo mapeando su diseño con respecto a la línea de tiempo después de configurar las Secciones de BPM y Sincronización. Este es también el lugar donde los jugadores pueden practicar una dificultad clasificada e inspeccionar su diseño similar al modo de entrenamiento de DDR.
 
@@ -12,13 +17,11 @@ Debido a las diferentes necesidades en el estilo de mapeo (osu! Es muy flexible,
 
 Para una guía de novatos: [Beatmapping](/wiki/Beatmapping).
 
-Comenzando desde izquierda a derecha y de arriba hacia abajo)
+(Comenzando desde izquierda a derecha y de arriba hacia abajo)
 
 ### Esquina superior izquierda (Linea de Tiempo de los Objetos golpeables)
 
-<!-- TODO find the article that links to this and possibly redirect to here instead (why is this shared?) -->
-
-![Linea de Tiempo de los Objetos golpeables](/wiki/shared/BE_NTL.jpg "Linea de Tiempo de los Objetos golpeables")
+![Linea de Tiempo de los Objetos golpeables](img/objects-timeline.jpg "Linea de Tiempo de los Objetos golpeables")
 
 **Muestra la línea de tiempo para los objetos golpeables con respecto al Divisor de ritmo y la marca de tiempo.**
 
@@ -32,63 +35,17 @@ Comenzando desde izquierda a derecha y de arriba hacia abajo)
 
 ### Esquina superior derecha (Divisor de ritmo)
 
-![Divisor de ritmo](img/BE_BSD.jpg "Divisor de ritmo")
+![Divisor de ritmo](img/beat-snap-divisor.jpg "Divisor de ritmo")
 
 **En términos sencillos, ajusta la longitud dada de un hilo de coser de color (sección de temporización) para un espacio de diseño de bordado (medidas, divididas por el divisor para llamarlas beats) en la tela (canción).**
 
 Mant `Alt` para activar el Divisor de ritmo. El valor puede variar de x0.1 a x2.0.
 
-### Divisor 1/1
-
-![Divisor 1/1](/wiki/shared/BSD_1_1b.jpg "Divisor 1/1")
-
-- Beats enteros
-- Solo marcas blancas
-- Mejor utilizado para la dificultad fácil
-
-### Divisor 1/2
-
-![Divisor 1/2](/wiki/shared/BSD_1_2.jpg "Divisor 1/2")
-
-- Medios Beats
-- Agrega marcas rojas
-
-### Divisor 1/3
-
-![Divisor 1/3](/wiki/shared/BSD_1_3.jpg "Divisor 1/3")
-
-- Tresillo*
-- Tiene dos marcas de color púrpura entre cada marca blanca
-- Tiempo compuesto
-
-### Divisor 1/4
-
-![Divisor 1/4](/wiki/shared/BSD_1_4.jpg "Divisor 1/4")
-
-- Cuatro beats
-- Agrega marcas azules, además de las marcas rojas
-- Útil para el mapeo general
-
-### Divisor 1/6
-
-![Divisor 1/6](/wiki/shared/BSD_1_6.jpg "Divisor 1/6")
-
-- Tresillo doble*
-- Tiene dos marcas de color púrpura entre cada marca roja
-- Tiempo compuesto
-
-### Divisor 1/8
-
-![Divisor 1/8](/wiki/shared/BSD_1_8.jpg "Divisor 1/8")
-
-- Ocho beats
-- Agrega marcas amarillas, además de las rojas y azules
-
 El botón de **Insertar descanso** iniciará / detendrá el "descanso" en la marca de tiempo actual y **x / y** es la coordenada actual del mouse.
 
 ### Centro izquierda (Selector)
 
-![Hit Selector de notas](img/BE_HO.jpg "Hit Selector de notas")
+![Hit Selector de notas](img/tools.jpg "Hit Selector de notas")
 
 **Su kit de herramientas de construcción, hecho para DIY ("Do it yourself": hágalo usted mismo).**
 
@@ -115,7 +72,7 @@ El botón de **Insertar descanso** iniciará / detendrá el "descanso" en la mar
 
 **Lista de herramientas complementarias al kit de herramientas original de DIY disponibles.**
 
-![Sonidos de golpeo y herramientas de ayuda](img/BE_HSAT.jpg "Sonidos de golpeo y herramientas de ayuda")
+![Sonidos de golpeo y herramientas de ayuda](img/subtools.jpg "Sonidos de golpeo y herramientas de ayuda")
 
 | Boton (Atajo de teclado) | Uso | Descripción |
 | :-- | :-- | :-- |
@@ -139,7 +96,7 @@ El botón de **Insertar descanso** iniciará / detendrá el "descanso" en la mar
 
 ### Parte inferior (Linea de tiempo de la Canción)
 
-![Linea de tiempo de la Canción](img/BE_HSAT.jpg "Linea de tiempo de la Canción")
+![Linea de tiempo de la Canción](img/song-timeline.jpg "Linea de tiempo de la Canción")
 
 **Abajo a la izquierda**, está la **marca de tiempo** en milisegundos (ms) y **la duración de la canción** en porcentaje. El porcentaje puede cambiarse a "introducción" o "outro" si hay un guion gráfico antes o después de la música.
 
@@ -180,9 +137,9 @@ En la zona **central inferior**, hay una **línea de tiempo** con marcas y los b
 
 ### Esquina superior derecha (Divisor de ritmo)
 
-![Divisor de ritmo (osu!mania ver.)](img/BEM_BSD.jpg "Divisor de ritmo (osu!mania ver.)")
+![Divisor de ritmo (osu!mania ver.)](img/beat-snap-divisor-mania.jpg "Divisor de ritmo (osu!mania ver.)")
 
-*Articulo principal: [Divisor de ritmo](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor)*
+*Articulo principal: [Divisor de ritmo](/wiki/Client/Beatmap_editor/Beat_snap_divisor)*
 
 **En terminos simples, ajustar la longitud dada de un hilo de color (sección de tiempo) para un espacio de diseño de bordado (medidas, dividido por los divisores que se llamaran beats) en la tela (canción).** Ya que osu!mania prioriza mucho cada sincronización de las notas, **Signatura de compás** (MM:B) desde la sección de Tiempo se agrega (15:3 = 15a medida 3ra pulsación) al lado de la barra de ajuste para facilitar la referencia del mapper. Puede ir a un valor negativo (-8:-3 por ejemplo) si la primera sección de tiempo está a *unos segundos de distancia* del inicio del archivo de la canción del Beatmap.
 
@@ -196,7 +153,7 @@ El botón de **Insertar Descanso** pondrá/detendrá el "Descanso" en la marca d
 
 - Al agregar aplausos en las notas, solo se reproducirá el sonido `hitclap` en lugar de `hitclap` + `hitnormal` al golpear mientras está en osu!mania :
 
-![Selector de notas de golpeo (osu!mania ver.)](img/BEM_HO.jpg "Selector de notas de golpeo (osu!mania ver.)")
+![Selector de notas de golpeo (osu!mania ver.)](img/tools-mania.jpg "Selector de notas de golpeo (osu!mania ver.)")
 
 #### Selector
 
@@ -210,7 +167,7 @@ El botón de **Insertar Descanso** pondrá/detendrá el "Descanso" en la marca d
 
 ### Centro (Area de juego)
 
-![Area de juego de osu!mania](/wiki/shared/BEM_PF.jpg "Area de juego osu!mania")
+![Area de juego de osu!mania](img/playfield-mania.jpg "Area de juego osu!mania")
 
 **Representación visual del mappeo basada en la marca de tiempo actual.**
 
@@ -219,7 +176,7 @@ El botón de **Insertar Descanso** pondrá/detendrá el "Descanso" en la marca d
 | Nombre | Descripción |
 | :-- | :-- |
 | Cuadro izquierdo | Intensidad de las notas (línea de tiempo). |
-| Centro | Area de juego verdadera ([Divisor de ritmo](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor)). |
+| Centro | Area de juego verdadera ([Divisor de ritmo](/wiki/Client/Beatmap_editor/Beat_snap_divisor)). |
 
 #### Colour notes
 
@@ -231,40 +188,9 @@ El botón de **Insertar Descanso** pondrá/detendrá el "Descanso" en la marca d
 | Color Azul | Nota seleccionada actualmente |
 | Color Blanco/Rosa/Amarillo | Color de notas normales |
 
-#### Divisor 1/1
-
-![Divisor 1/1](/wiki/shared/1_1_m.jpg "Divisor 1/1")
-
-- Beats enteros
-- Solo marcas blancas
-- Mejor utilizado para la dificultad fácil
-
-#### Divisor 1/2
-
-![Divisor 1/2](/wiki/shared/1_2_m.jpg "Divisor 1/2")
-
-- Medios Beats
-- Agrega marcas rojas
-
-#### Divisor 1/3
-
-![Divisor 1/3](/wiki/shared/1_3_m.jpg "Divisor 1/3")
-
-- Tresillo*
-- Tiene dos marcas de color púrpura entre cada marca blanca
-- Tiempo compuesto
-
-#### Divisor 1/4
-
-![Divisor 1/4](/wiki/shared/1_4_m.jpg "Divisor 1/4")
-
-- Cuatro beats
-- Agrega marcas azules, además de las marcas rojas
-- Útil para el mapeo general
-
 ### Centro derecha (Sonidos de Golpeo y Herramientas de Ayuda)
 
-![Sonidos de Golpeo y Herramientas de Ayuda](img/BE_HSAT.jpg "Sonidos de Golpeo y Herramientas de Ayuda")
+![Sonidos de Golpeo y Herramientas de Ayuda](img/subtools.jpg "Sonidos de Golpeo y Herramientas de Ayuda")
 
 **La lista de subherramientas disponibles que complementan al kit de herramientas.**
 
@@ -292,7 +218,7 @@ Para **Sonidos de teclas** (Agregando SE en Notas de Golpeo), selecciona la nota
 
 ### Parte Inferior (Linea de Tiempo de la Canción)
 
-![Linea de Tiempo de la Canción](/wiki/shared/BE_STL.jpg "Linea de Tiempo de la Canción")
+![Linea de Tiempo de la Canción](img/song-timeline.jpg "Linea de Tiempo de la Canción")
 
 **Abajo a la izquierda** se muestra la **marca de tiempo en milisegundos (ms)** y la **duración de la canción%**.
 **Abajo en el centro** se muestra la **línea de tiempo con marcas y los botones obligatorios del reproductor de música.** Para el botón "Prueba", su Beatmap se guardará para probarse comenzando en la marca de tiempo actual.
@@ -310,7 +236,7 @@ Para **Sonidos de teclas** (Agregando SE en Notas de Golpeo), selecciona la nota
 
 ### Muestreo
 
-![Ventana emergente del Muestreo (Windows 8's ver.)](img/Sample_omc.jpg "Ventana emergente del Muestreo (Windows 8's ver.)")
+![Ventana emergente del Muestreo](img/sample-import.jpg "Ventana emergente del Muestreo")
 
 El **Muestreo** es el proceso de **agregar sonido a la nota.** Para comenzar, selecciona la nota y presiona **`Alt` + Clic Izquierdo** sobre la nota seleccionada (Se mostrará una ventana emergente con muestras de sonido dentro de su carpeta del beatmap).
 

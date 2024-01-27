@@ -15,7 +15,7 @@ tags:
 
 # Timing tab
 
-*For a timing setup guide, see: [How to time songs](/wiki/Guides/How_to_Time_Songs)*\
+*For a timing setup guide, see: [How to time songs](/wiki/Guides/How_to_time_songs)*\
 *See also: [Beatmapping/Timing](/wiki/Beatmapping/Timing)*
 
 **Timing** is the [beatmap editor](/wiki/Client/Beatmap_editor)'s tab for changing and setting up the timing of a [beatmap](/wiki/Beatmap), which is essential for correct song representation. It contains timing-related settings and tools, and also a [dedicated window](#timing-setup-panel) for working with multiple [timing points](#timing-points), both for musical structure representation and beatmap design purposes.
@@ -70,7 +70,7 @@ The timing tab can be opened by pressing `F3` and provides quick access to the f
 To quickly make larger or smaller changes, use the below modifiers:
 
 |  | Tempo | Offset | Slider velocity |
-| :-- | :--: | :--: | :--: |
+| :-- | :-: | :-: | :-: |
 | `Ctrl` + click | 0.25 BPM | 1 ms | 1 [osu! pixel](/wiki/Client/Beatmap_editor/osu!_pixel) |
 | Default | 1 BPM | 2 ms | 10 osu! pixels |
 | `Shift` + click | 5 BPM | 10 ms | - |

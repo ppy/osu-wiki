@@ -19,7 +19,7 @@ tags:
 | Скам или фишинг в личных сообщениях | Отправьте обычную жалобу |
 | Прочие оскорбительные или неприемлемые личные сообщения | **Ничего**: пользователя нужно [отправить в игнор](/wiki/Client/Interface/Chat_console#список-команд). Для постоянного эффекта используйте игнор-лист в [игровых настройках](/wiki/Client/Options) или заблокируйте пользователя, нажав на соответствующую кнопку в его профиле на сайте |
 | Плохое поведение [номинатора](/wiki/People/Beatmap_Nominators) | Свяжитесь с командой [NAT](/wiki/People/Nomination_Assessment_Team) через [сайт для NAT/BN](https://bn.mappersguild.com/reports) |
-| Плохое поведение члена [NAT](/wiki/People/Nomination_Assessment_Team) или [модератора](/wiki/People/Global_Moderation_Team) | Напишите письмо в [службу поддержки аккаунтов](/wiki/People/Account_support_team) по адресу [support@ppy.sh](mailto:support@ppy.sh) |
+| Плохое поведение члена [NAT](/wiki/People/Nomination_Assessment_Team) или [модератора](/wiki/People/Global_Moderation_Team) | Напишите письмо в [службу поддержки](/wiki/People/Account_support_team) по адресу [support@ppy.sh](mailto:support@ppy.sh) |
 | Домогательство, приставания, крайне неприемлемое поведение | См. [Жалобы на приставания](/wiki/Reporting_bad_behaviour/Abuse) |
 
 Во всех прочих случаях см. далее.

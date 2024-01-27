@@ -8,7 +8,7 @@ tags:
 # HP drain rate
 
 *Untuk health sebagai mekanisme dalam gameplay, silakan lihat: [Health](/wiki/Gameplay/Health)*\
-*Untuk peraturan sekitar penggunaan HP drain rate, silakan lihat: [Ranking criteria](/wiki/Ranking_Criteria)*
+*Untuk peraturan sekitar penggunaan HP drain rate, silakan lihat: [Ranking criteria](/wiki/Ranking_criteria)*
 
 **HP drain rate** (***HP***) adalah pengaturan kesulitan [beatmap](/wiki/Beatmap) yang mengontrol seberapa banyak [health](/wiki/Gameplay/Health) yang berkurang secara pasif terhadap [health drain](/wiki/Gameplay/Health). Itu juga memberikan efek seberapa berat seorang pemain dihukum ketika kehilangan not dan seberapa banyak health yang didapatkan kembali ketika mengenai [hit objects](/wiki/Gameplay/Hit_object) dengan tepat sasaran.
 

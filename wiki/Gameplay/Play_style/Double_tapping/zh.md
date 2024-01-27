@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 tags:
   - keyboard
   - tap
@@ -17,7 +16,7 @@ tags:
 
 *请勿与[切指](/wiki/Gameplay/Play_style/Alternating)混淆。*
 
-**双按 (Double tapping)** 是在 [osu!](/wiki/Game_mode/osu!) 模式中打击物件的方法。在这种指法中，玩家通过同时按下两个键（默认是 `Z` 和 `X`）来点击圆圈，拖动滑条和旋转转盘。对于一些速度超级快的 [堆叠（Stacks）](/wiki/Beatmapping/Mapping_techniques/Stack) 或者 [连打（Streams）](/wiki/Beatmap/Pattern/osu!/Stream)物件，如果其它打法都太过困难，玩家可以使用双键指法作为一个替代之选。当然，使用这种指法的准确率也是所有指法中最低的。
+**双按 (Double tapping)** 是在 [osu!](/wiki/Game_mode/osu!) 模式中打击物件的方法。在这种指法中，玩家通过同时按下两个键（默认是 `Z` 和 `X`）来点击圆圈，拖动滑条和旋转转盘。对于一些速度超级快的 [堆叠 (Stacks)](/wiki/Beatmapping/Mapping_techniques/Stack) 或者 [连打 (Streams)](/wiki/Beatmap/Pattern/osu!/Stream) 物件，如果其它打法都太过困难，玩家可以使用双键指法作为一个替代之选。当然，使用这种指法的准确率也是所有指法中最低的。
 
 ## 用法
 

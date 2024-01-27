@@ -10,7 +10,7 @@ Il template mostrato è composto da:
 Acronimo_in_tournament.cfg: (Nome squadra 1) vs (Nome squadra 2)
 ```
 
-`Acronimo_in_tournament.cfg` viene interamente sostituito con il valore di `acronym` nel file `tournament.cfg` della [guida di Setup](/wiki/osu!tourney/Setup).
+`Acronimo_in_tournament.cfg` viene interamente sostituito con il valore di `acronym` nel file `tournament.cfg` della [guida di Setup](/wiki/osu!_tournament_client/osu!tourney/Setup).
 Se il valore è definito come `Test Torneo`, il template apparirà come `Test Torneo: (Nome squadra 1) vs (Nome squadra 2)`.
 
 I nomi delle squadre (`Nome squadra 1` e `Nome squadra 2`) possono essere sostituiti con qualsiasi nome, **mantenendo però le parentesi `()` intorno ad essi**.
@@ -19,11 +19,11 @@ I nomi delle squadre (`Nome squadra 1` e `Nome squadra 2`) possono essere sostit
 
 ### Comandi per la gestione dei tornei
 
-*Pagina principale: [Comandi per la gestione dei tornei](/wiki/osu!tourney/Tournament_management_commands)*
+*Pagina principale: [Comandi per la gestione dei tornei](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)*
 
 Assicuratevi di assegnare gli slot corretti ai giocatori che entrano nella stanza usando i comandi `!mp move` e `!mp team`.
 
-Come spiegato nella [guida uso spettatore](/wiki/osu!tourney/Spectator_usage), ogni finestra del client è assegnata a uno slot nella lobby multigiocatore. Dopo aver impostato correttamente il valore di `TeamSize` nel file `tournament.cfg`, la squadra blu occuperà il primo numero di slot `TeamSize` e la squadra rossa occuperà il numero di slot `TeamSize` sotto ad essi.
+Come spiegato nella [guida uso spettatore](/wiki/osu!_tournament_client/osu!tourney/Spectator_usage), ogni finestra del client è assegnata a uno slot nella lobby multigiocatore. Dopo aver impostato correttamente il valore di `TeamSize` nel file `tournament.cfg`, la squadra blu occuperà il primo numero di slot `TeamSize` e la squadra rossa occuperà il numero di slot `TeamSize` sotto ad essi.
 
 Ad esempio, con `TeamSize = 4`, il 1°, il 2°, il 3° e il 4° slot apparterranno alla squadra blu, mentre il 5°, il 6°, il 7° e l'8° slot apparterranno alla squadra rossa. Con `TeamSize = 3`, il 1°, il 2° e il 3° slot apparterranno alla squadra blu e il 4°, il 5° e il 6° slot alla squadra rossa.
 

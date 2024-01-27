@@ -9,7 +9,7 @@ outdated_since: d45afabf155d19c4b9d8bd0f7b68e73bc1f4af16
 
 # Approach rate
 
-*Untuk nilai AR yang disarankan, silakan lihat: [Ranking criteria](/wiki/Ranking_Criteria)*
+*Untuk nilai AR yang disarankan, silakan lihat: [Ranking criteria](/wiki/Ranking_criteria)*
 
 **Approach rate** (***AR***) pengaturan kesulitan [beatmap](/wiki/Beatmap) yang ditentukan ketika [hit objects](/wiki/Gameplay/Hit_object) mulai memudar sehubungan dengan kapan mereka harus ditekan atau diklik. Pengaturan ini hanya ada di jenis permainan [osu!](/wiki/Game_mode/osu!) dan [osu!catch](/wiki/Game_mode/osu!catch).
 
@@ -34,7 +34,7 @@ Hit object mulai memudar pada `X - preempt` dengan:
 - AR = 5: `preempt = 1200ms`
 - AR > 5: `preempt = 1200ms - 750ms * (AR - 5) / 5`
 
-Total waktu yang dibutuhkan untuk hit object hingga benar-benar memudar juga bergantung pada approach rate yang digunakan: 
+Total waktu yang dibutuhkan untuk hit object hingga benar-benar memudar juga bergantung pada approach rate yang digunakan:
 
 - AR < 5: `fade_in = 800ms + 400ms * (5 - AR) / 5`
 - AR = 5: `fade_in = 800ms`

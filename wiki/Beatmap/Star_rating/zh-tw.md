@@ -27,4 +27,4 @@ outdated_since: dff3096e7c50f26bc922a1c6c3ebfb744725c292
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert (達人): 5.3★–6.49★
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) Expert+ (達達人+): 6.5★ 以上
 
-大部分圖譜的難度都與被給予的圖示相符，但某些圖譜卻大相逕庭。所以[審核標準](/wiki/Ranking_Criteria)在決定難度和評估圖譜上變得更加嚴格。
+大部分圖譜的難度都與被給予的圖示相符，但某些圖譜卻大相逕庭。所以[審核標準](/wiki/Ranking_criteria)在決定難度和評估圖譜上變得更加嚴格。

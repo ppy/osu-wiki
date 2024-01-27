@@ -9,7 +9,7 @@ Bu rehberde özel [vuruş seslerini](/wiki/Beatmapping/Hitsound), [beatmaplerini
 
 ## Özel vuruş seslerini elde etmek
 
-Beatmapinizde özel vuruş sesleri kullanmak için, öncelikle birkaçına ihtiyacınız olacak! [Özel vuruş sesi kütüphanesi](/wiki/Guides/Custom_Hitsound_Library) ses örneklerini elde etmek için harika bir kaynak; ziller, davullar, çanlar, ıslıklar, ve hatta daha fazlasu burada mevcut. Alternatif olarak, eğer aradığınızı bulamıyorsanız, kendi örneklerinizi yapabilirsiniz!
+Beatmapinizde özel vuruş sesleri kullanmak için, öncelikle birkaçına ihtiyacınız olacak! [Özel vuruş sesi kütüphanesi](/wiki/Guides/Custom_hitsound_library) ses örneklerini elde etmek için harika bir kaynak; ziller, davullar, çanlar, ıslıklar, ve hatta daha fazlasu burada mevcut. Alternatif olarak, eğer aradığınızı bulamıyorsanız, kendi örneklerinizi yapabilirsiniz!
 
 Vuruş sesleri, yeniden oynatırken gecikme olmadığı ve düzgünce arka arkaya çaldığı için, `.wav` veya `.ogg` formatında olmalıdır. `.mp3` formatındaki ses dosyaları hafif gecikmelere sahip olabilir ve vuruş seslerini ayarlamaya çalıştığınız şarkıyla tam olarak uyuşmayabilir. Ancak, yine de alkış veya ortam sesleri gibi `.wav` veya `.ogg` dosyalarının boyutlarının fazlasıyla büyük olacağı birtakım ses efektleri için kullanılabilir.
 

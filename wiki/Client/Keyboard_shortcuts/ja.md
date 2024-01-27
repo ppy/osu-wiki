@@ -171,7 +171,7 @@ osu!にはたくさんのショートカットキーがあります。ゲーム�
 | `F1` | [compose](/wiki/Client/Beatmap_editor/Compose)タブに切り替えます。 |
 | `F2` | [design](/wiki/Client/Beatmap_editor/Design)タブに切り替えます。 |
 | `F3` | [timing](/wiki/Client/Beatmap_editor/Timing)タブに切り替えます。 |
-| `F4` | [song setup](/wiki/Client/Beatmap_editor/Song_Setup)メニューを表示します。 |
+| `F4` | [song setup](/wiki/Client/Beatmap_editor/Song_setup)メニューを表示します。 |
 | `F5` | テストモードに入ります。 |
 | `F6` | タイミングとコントロールポイントのメニューを開きます。 |
 | `Ctrl` + `P` | 継承されていないタイミングポイントを現在の場所に追加します。タイミングとコントロールポイントのメニューも開きます。 |
@@ -264,7 +264,7 @@ osu!にはたくさんのショートカットキーがあります。ゲーム�
 
 | キー | 動作 |
 | :-- | :-- |
-| `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8`, `9`) | [ビートスナップ除数](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor)をそれぞれ1/1、1/2、1/3、1/4、1/5、1/6、1/7、1/8、1/9に設定します。 |
+| `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8`, `9`) | [ビートスナップ除数](/wiki/Client/Beatmap_editor/Beat_snap_divisor)をそれぞれ1/1、1/2、1/3、1/4、1/5、1/6、1/7、1/8、1/9に設定します。 |
 | `Shift` (タイムラインをドラッグしながら) | ビートスナップ除数のスナップを無視します。 |
 | `J` | 選択範囲を1/4前に移動します。 |
 | `K` | 選択範囲を1/4後ろに移動します。 |

@@ -173,7 +173,7 @@ osu! 中有许多快捷键可以在游戏中或闲置时使用。下面列出了
 | `F1` | 切换到 [作曲](/wiki/Client/Beatmap_editor/Compose) 界面。 |
 | `F2` | 切换到 [设计](/wiki/Client/Beatmap_editor/Design) 界面。 |
 | `F3` | 切换到 [Timing](/wiki/Client/Beatmap_editor/Timing) 界面。 |
-| `F4` | 打开 [歌曲设置](/wiki/Client/Beatmap_editor/Song_Setup) 对话框。 |
+| `F4` | 打开 [歌曲设置](/wiki/Client/Beatmap_editor/Song_setup) 对话框。 |
 | `F5` | 进入测试模式。 |
 | `F6` | 打开 Timing 点控制对话框。 |
 | `Ctrl` + `P` | 在当前位置添加一条红线（Timing 点），如果当前不在 Timing 页面中，则会打开 Timing 点控制对话框。 |
@@ -266,7 +266,7 @@ osu! 中有许多快捷键可以在游戏中或闲置时使用。下面列出了
 
 | 快捷键 | 功能 |
 | :-- | :-- |
-| `Shift` + (`1`，`2`，`3`，`4`，`6`，`7`，`8` 或 `9`) | 将[节拍细分](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor)在 1/1，1/2，1/3，1/4，1/6，1/7，1/8 或 1/9 之间来回切换。 |
+| `Shift` + (`1`，`2`，`3`，`4`，`6`，`7`，`8` 或 `9`) | 将[节拍细分](/wiki/Client/Beatmap_editor/Beat_snap_divisor)在 1/1，1/2，1/3，1/4，1/6，1/7，1/8 或 1/9 之间来回切换。 |
 | `Shift`（拖动时间轴时） | 忽略节拍细分。 |
 | `J` | 将选择的物件向前移动一拍。 |
 | `K` | 将选择的物件向后移动一拍。 |

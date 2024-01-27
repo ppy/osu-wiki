@@ -7,13 +7,17 @@ tags:
   - языки
   - метадата
   - метаданные
+outdated_translation: true
+outdated_since: 26dcaa7c6a1a7d47d0c5cb61dd01f45263a970bb
 ---
+
+<!--The citation in the rock genre was changed from unsyncopated to syncopated. When updating this article, please make sure if this needs to be adjusted here.-->
 
 # Жанр и язык
 
 ![Жанр, язык и теги на странице карты](img/beatmap-info.png "Жанр и язык песни указаны на странице с картой")
 
-**Жанр** и **язык** песни — поля с [метаданными](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-meta-data), которые можно заполнить после публикации [карты](/wiki/Beatmap). Искать по ним можно через веб-сайт и в [osu!(lazer)](/wiki/Client/Release_stream/Lazer) (но не в стабильной версии osu!).
+**Жанр** и **язык** песни — поля с [метаданными](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-meta-data), которые можно заполнить после публикации [карты](/wiki/Beatmap). Искать по ним можно через веб-сайт и в [osu!(lazer)](/wiki/Client/Release_stream/Lazer) (но не в стабильной версии osu!).
 
 ## Поиск карт
 
@@ -23,9 +27,9 @@ tags:
 
 ## Выбор жанра и языка
 
-Чтобы поменять у карты жанр или язык, откройте её страницу и наведите курсор на область со словами `Genre` и `Language`. При наличии прав доступа там появится иконка карандаша, на которую нужно нажать. Возможность редактирования зависит от [групп](/wiki/People/osu!_team#группы-пользователей), в которых вы состоите, и от [категории](/wiki/Beatmap/Category#существующие-категории) карты:
+Чтобы поменять у карты жанр или язык, откройте её страницу и наведите курсор на область со словами `Genre` и `Language`. При наличии прав доступа там появится иконка карандаша, на которую нужно нажать. Возможность редактирования зависит от [групп](/wiki/People/User_group), в которых вы состоите, и от [категории](/wiki/Beatmap/Category#существующие-категории) карты:
 
-- Владелец карты может редактировать её поля, если карта находится в категориях [WIP](/wiki/Beatmap/Category#work-in-progress-и-pending), [Pending](/wiki/Beatmap/Category#work-in-progress-и-pending), [Graveyard](/wiki/Beatmap/Category#graveyard), и не имеет [номинаций](/wiki/Beatmap_ranking_procedure#номинация).
+- Владелец карты может редактировать её поля, если карта находится в категориях [WIP](/wiki/Beatmap/Category#wip-and-pending), [Pending](/wiki/Beatmap/Category#wip-and-pending), [Graveyard](/wiki/Beatmap/Category#graveyard), и не имеет [номинаций](/wiki/Beatmap_ranking_procedure#номинация).
 - [Номинаторы](/wiki/People/Beatmap_Nominators) могут редактировать поля карт в категориях [Qualified](/wiki/Beatmap/Category#qualified), WIP и Pending.
 - Члены [команды Project Loved](/wiki/People/Project_Loved_Team) могут редактировать поля карт в категории [Loved](/wiki/Beatmap/Category#loved).
 - Члены [команды оценки номинаций](/wiki/People/Nomination_Assessment_Team) и [глобальные модераторы](/wiki/People/Global_Moderation_Team) могут редактировать поля любых карт.

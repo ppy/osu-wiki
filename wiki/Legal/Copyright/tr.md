@@ -15,7 +15,7 @@ osu!'nun Hak İddia Edilen İhlal Bildirimini Alacak Atanmış Temsilcisi ("Atan
 osu!'nun politikaları şunlardır:
 
 1. üçüncü şahısların telif haklarını ihlal edebilecek materyallerin barındığı düşünülen içeriklere olan erişimi derhal engelleme veya içeriği kaldırma; ve
-2. mükerrer suçlular için hizmeti sonlandırma. 
+2. mükerrer suçlular için hizmeti sonlandırma.
 
 ## Telif hakkı ihlallerini bildirme
 

@@ -8,7 +8,7 @@ tags:
 
 # Guest difficulty
 
-*For regulations surrounding guest difficulties, see: [Ranking Criteria](/wiki/Ranking_Criteria)*
+*For regulations surrounding guest difficulties, see: [Ranking Criteria](/wiki/Ranking_criteria)*
 
 A **guest difficulty**, or *GD* for short, is a [difficulty](/wiki/Beatmap/Difficulty) of a [beatmap](/wiki/Beatmap) that is not created by the [beatmap host](/wiki/Beatmap/Beatmap_host). It can usually be identified by its difficulty name containing the guest mapper's username.
 

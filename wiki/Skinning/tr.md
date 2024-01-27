@@ -4,7 +4,7 @@ Tema yapımı osu!'nun olmazsa olmaz özelliklerinden biridir. Bu, oyuncuların 
 
 ## Tema yapma setleri
 
-*Ana sayfa: [Tema Seti Listesi](/wiki/Ranking_Criteria/Skin_Set_List)*
+*Ana sayfa: [Tema Seti Listesi](/wiki/Ranking_criteria/Skin_set_list)*
 
 **Yalnızca beatmaplerde,** eğer beatmap teması Derecelendirme Kriterlerinde listelenen setlerden herhangi bir element içeriyorsa, o tema setinin diğer tüm elementlerini de içermek zorundadır. Bu yalnızca beatmap temaları için geçerlidir, ancak diğer temacılar da bu listelerden faydalanmak isteyebilirler.
 

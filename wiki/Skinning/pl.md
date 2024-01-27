@@ -4,7 +4,7 @@ Tworzenie skórek to jedna z najważniejszych funkcji w osu!, która umożliwia 
 
 ## Zestawy elementów skórek
 
-*Główna strona: [Zestawy elementów skórek](/wiki/Ranking_Criteria/Skin_Set_List)*
+*Główna strona: [Zestawy elementów skórek](/wiki/Ranking_criteria/Skin_set_list)*
 
 **Ta sekcja odnosi się tylko do beatmap.** Jeżeli twoja beatmapa zawiera pojedynczy element z danego zestawu elementów, to musi zawierać każdy element z tego zestawu. Mimo że te zestawy są przyznaczone tylko dla beatmap, to twórcy skórek mogą również czerpać z nich korzyści.
 
@@ -19,7 +19,7 @@ Elementy skórek są podzielone na następujące kategorie:
 - [osu!mania](/wiki/Skinning/osu!mania)
 - [Dźwięki](/wiki/Skinning/Sounds)
 
-## Zobacz 
+## Zobacz
 
 - [skin.ini](/wiki/Skinning/skin.ini)
 - [Dawne elementy skórek](/wiki/Skinning/History) - lista starych, nieużywanych elementów skórek

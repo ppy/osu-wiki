@@ -1,11 +1,11 @@
 ---
+outdated_since: befb4e6b64f5c1f1616b60a93cb5883df9234324
 outdated_translation: true
-outdated_since: f714d893c0500d01629c73bb90c0f16bee32843e
 ---
 
 # Медали
 
-**Медали**, ранее известные как *достижения*, — значки в игровом профиле, показывающие, что игрок достиг определённой цели. В данный момент в osu! существует **280** медалей, разделенных на 8 групп: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights) и [Beatmap Challenge Packs](#beatmap-challenge-packs).
+**Медали**, ранее известные как *достижения*, — значки в игровом профиле, показывающие, что игрок достиг определённой цели. В данный момент в osu! существует **314** медалей, разделенных на 8 групп: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights) и [Beatmap Challenge Packs](#beatmap-challenge-packs).
 
 ## Beatmap Packs
 
@@ -21,7 +21,7 @@ outdated_since: f714d893c0500d01629c73bb90c0f16bee32843e
 
 ## Dedication
 
-Медали группы **Dedication** выдаются за достижение определённого количества игр в отдельных режимах.
+Медали группы **Dedication** выдаются за достижение определённого количества игр в режиме osu!, либо за совершение определённого числа нажатий в osu!taiko, osu!catch и osu!mania.
 
 ## Mod Introduction
 

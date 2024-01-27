@@ -39,7 +39,7 @@ Vous pouvez télécharger le fichier .osz pour les musiques fournies à l'adress
 - Les concurrents ne doivent présenter qu'une seule difficulté. Les difficultés supplémentaires ne seront pas prises en compte dans votre participation.
 - La difficulté ne doit pas être plus facile qu'Insane, sinon elle ne sera pas considérée comme une entrée.
 - Le storyboard et la vidéo ne seront pas pris en compte pour le jugement.
-- Les participants doivent respecter les [critères de classement](/wiki/Ranking_Criteria).
+- Les participants doivent respecter les [critères de classement](/wiki/Ranking_criteria).
 - Vous pouvez être disqualifié du concours si :
   - Vous avez révélé votre participation aux autres avant l'annonce des résultats.
   - Vous avez collaboré avec un autre mappeur pour votre entrée.

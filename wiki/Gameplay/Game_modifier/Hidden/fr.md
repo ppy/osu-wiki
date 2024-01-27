@@ -23,7 +23,7 @@ tags:
   - ![][osu!] ![][osu!taiko] ![][osu!catch]: 1.06x
   - ![][osu!mania]: 1.00x
 - Touche de raccourci par défaut : `F`
-  - Touche de raccourci par défaut ([osu!mania](/wiki/Game_mode/osu!mania)) : `F` `F` ou `Shift`+`F`
+  - Touche de raccourci par défaut ([osu!mania](/wiki/Game_mode/osu!mania)) : `F` `F` ou `Shift` + `F`
 - Légende :
   - ![][osu!]: `Jouez sans cercles d'approche et avec des notes qui s'estompent progressivement.`
   - ![][osu!taiko]: `Les notes s'estompent progressivement.`
@@ -72,7 +72,7 @@ Dans le mode [osu!mania](/wiki/Game_mode/osu!mania), le mod Hidden fonctionne co
 
 - Le mod Hidden est apparu pour la première fois dans Ouendan 2, qui était le deuxième jeu DS japonais de la série [Osu! Tatakae! Ouendan](https://fr.wikipedia.org/wiki/Osu!_Tatakae!_%C5%8Cendan) (la série dont osu! s'inspire).
 - Si une beatmap est passée avec un grade S ou SS avec le mod Hidden activé, la beatmap attribuera la variante argentée du grade à la place.
-- Par défaut, dans [osu!](/wiki/Game_mode/osu!) le [approach circle](/wiki/Gameplay/Hit_object/Approach_circle) du premier [objet](/wiki/Gameplay/Hit_object) sera temporairement visible au début d'une beatmap afin d'aider les joueurs à mieux évaluer le moment où ils doivent toucher l'objet en question. Ceci peut être désactivé dans les options sous `Gameplay`.
+- Par défaut, dans [osu!](/wiki/Game_mode/osu!) le [approach circle](/wiki/Gameplay/Hit_object/Approach_circle) du premier [objet](/wiki/Gameplay/Hit_object) sera temporairement visible au début d'une beatmap afin d'aider les joueurs à mieux évaluer le moment où ils doivent toucher l'objet en question. Ceci peut être désactivé dans les [options](/wiki/Client/Options) sous `Gameplay`.
 - Dans le mode osu!mania, le mod Hidden est une variante du mod [Fade In](/wiki/Gameplay/Game_modifier/Fade_In).
 - La version actuelle du mod Hidden dans osu!mania était auparavant un mod séparé appelé [Fade Out](/wiki/Gameplay/Game_modifier/Fade_Out).
 

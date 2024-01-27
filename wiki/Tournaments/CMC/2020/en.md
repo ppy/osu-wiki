@@ -118,15 +118,15 @@ This competition has come to an end and resulted in the following podium:
   3. [K/DA ft. Madison Beer, (G)I-DLE, Jaira Burns - POP/STARS (Benzopirene) \[MP4K3 Edit\]](https://osu.ppy.sh/beatmapsets/1003344#mania/2099939)
   4. [kemu feat.GUMI - Life Reset Button (Kamikaze) \[New Game Plus /w Raveille (MP4K4 Edit)\]](https://osu.ppy.sh/beatmapsets/1320027#mania/27343959)
   5. [Mayumi Morinaga - dreamin' feat. Ryu\* (+VOX Mix) (\_underjoy) \[UJCHAN!!\]](https://osu.ppy.sh/beatmapsets/885179#mania/1850115)
-  6. [naotyu- - Her Majesty (Elementaires) \[Another\]](https://osu.ppy.sh/beatmapsets/607365#mania/1282858)    
+  6. [naotyu- - Her Majesty (Elementaires) \[Another\]](https://osu.ppy.sh/beatmapsets/607365#mania/1282858)
   7. [Omoi - Teo (Luin) \[d x1.1\]](https://osu.ppy.sh/beatmapsets/762268#mania/1602726)
-  8. [xi - Freedom Dive (tpz Overcute Remix) (Shoegazer) \[Ayumu\]](https://osu.ppy.sh/beatmapsets/370816#mania/812585)   
+  8. [xi - Freedom Dive (tpz Overcute Remix) (Shoegazer) \[Ayumu\]](https://osu.ppy.sh/beatmapsets/370816#mania/812585)
   9. [Omoi - Snow Drive (frollica) \[Felicity \[11\]\]](https://osu.ppy.sh/beatmapsets/480013#mania/1024856)
-  10. [Fightstar - Floods (\[Crz\]Crysarlene) \[Uprising\]](https://osu.ppy.sh/beatmapsets/1130088#mania/2360664)     
+  10. [Fightstar - Floods (\[Crz\]Crysarlene) \[Uprising\]](https://osu.ppy.sh/beatmapsets/1130088#mania/2360664)
   11. [YZYX - Dysnomia (Chrubble) \[Aphasia\]](https://osu.ppy.sh/beatmapsets/867111#mania/2595611)
-  12. [Xanopticon - Psicicite (Shoegazer) \[Extra\]](https://osu.ppy.sh/beatmapsets/659977#mania/13975841)     
-  13. [Rotten Blood - that schoolgirl (Abraxos) \[the worst\]](https://osu.ppy.sh/beatmapsets/707565#mania/2183960)    
-  14. [t+pazolite - Chrome Vox (Raveille) \[SHADE EXPRESSIONZ!\]](https://osu.ppy.sh/beatmapsets/727328#mania/1535571)   
+  12. [Xanopticon - Psicicite (Shoegazer) \[Extra\]](https://osu.ppy.sh/beatmapsets/659977#mania/13975841)
+  13. [Rotten Blood - that schoolgirl (Abraxos) \[the worst\]](https://osu.ppy.sh/beatmapsets/707565#mania/2183960)
+  14. [t+pazolite - Chrome Vox (Raveille) \[SHADE EXPRESSIONZ!\]](https://osu.ppy.sh/beatmapsets/727328#mania/1535571)
   15. [Camellia - This Future (we didn't expect) (Evening) \[btoa\]](https://osu.ppy.sh/beatmapsets/1086076#mania/2271109)
   16. [Chroma - I (Guilhermeziat) \[You\]](https://osu.ppy.sh/beatmapsets/756806#mania/1592359)
 - Tiebreaker
@@ -142,17 +142,17 @@ This competition has come to an end and resulted in the following podium:
   3. [Freezer feat. Kiichigo - Chocolate Planet (Syadow-) \[LNfried's HEAVENLY\]](https://osu.ppy.sh/beatmapsets/734969#mania/1579836)
   4. [Nauts - Second Run (Core Mix) (Zyph) \[4K LN\]](https://osu.ppy.sh/beatmapsets/594821#mania/1258021)
   5. [P\*Light feat. mow\*2 - OVERDRIVERS (inteliser) \[OVERFLOW \[LN\]\]](https://osu.ppy.sh/beatmapsets/578558#mania/1224999)
-  6. [DJ Okawari - Flower Dance (hievery2) \[Inflorescence\]](https://osu.ppy.sh/beatmapsets/813270#mania/1705690)    
+  6. [DJ Okawari - Flower Dance (hievery2) \[Inflorescence\]](https://osu.ppy.sh/beatmapsets/813270#mania/1705690)
   7. [Sharkey & Arkitech - Quadraphinix (Xay) \[Challenge\]](https://osu.ppy.sh/beatmapsets/828129#mania/1735169)
-  8. [DJ Sharpnel - Gate Openerz (Night Bunny 7) \[IcyWorld's Lv.15\]](https://osu.ppy.sh/beatmapsets/686692#mania/1453300)   
+  8. [DJ Sharpnel - Gate Openerz (Night Bunny 7) \[IcyWorld's Lv.15\]](https://osu.ppy.sh/beatmapsets/686692#mania/1453300)
   9. [Lon - Yuru Fuwa Jukai Girl (Wh1teh) \[k\]](https://osu.ppy.sh/beatmapsets/478782#mania/1022471)
-  10. [Stellabee - Overflowing love and music (Swan) \[Yes\]](https://osu.ppy.sh/beatmapsets/858728#mania/1794632)     
+  10. [Stellabee - Overflowing love and music (Swan) \[Yes\]](https://osu.ppy.sh/beatmapsets/858728#mania/1794632)
   11. [Chito (CV: Minase Inori), Yuuri (CV: Kubo Yurika) - More One Night (Assertive Hardcore Bootleg) \[long ver.\] (Gekido-) \[\o\ DAB /o/\]](https://osu.ppy.sh/beatmapsets/942612#mania/1968373)
-  12. [Terminal 11 - Counter Clockwise Chant Pattern (Phil) \[Xaywise\]](https://osu.ppy.sh/beatmapsets/659039#mania/1395854)     
-  13. [YUC'e - Night Club Junkie (gemboyong) \[Junk\]](https://osu.ppy.sh/beatmapsets/736941#mania/1555269)    
-  14. [Camellia - Lunatic Rough Party!! (Long Ver.) (Ichigaki) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/286262#mania/646319)   
+  12. [Terminal 11 - Counter Clockwise Chant Pattern (Phil) \[Xaywise\]](https://osu.ppy.sh/beatmapsets/659039#mania/1395854)
+  13. [YUC'e - Night Club Junkie (gemboyong) \[Junk\]](https://osu.ppy.sh/beatmapsets/736941#mania/1555269)
+  14. [Camellia - Lunatic Rough Party!! (Long Ver.) (Ichigaki) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/286262#mania/646319)
   15. [Camellia - Bring Our Ignition Back (Evening) \[light\]](https://osu.ppy.sh/beatmapsets/1188926#mania/2477443)
-  16. [penoreri - Sailing Force (Chrubble) \[Voyage\]](https://osu.ppy.sh/beatmapsets/947636#mania/1979200) 
+  16. [penoreri - Sailing Force (Chrubble) \[Voyage\]](https://osu.ppy.sh/beatmapsets/947636#mania/1979200)
 - Tiebreaker
   1. **[EDM Jumpers ({E+H}DM Reboot) (Gekido-) \[{L+E}MON Reboot\]](https://osu.ppy.sh/beatmapsets/805341#mania/1690577)**
 
@@ -166,17 +166,17 @@ This competition has come to an end and resulted in the following podium:
   3. [HHHxMMxST - Follow Tomorrow (STARLiGHT Mix) (\_underjoy) \[UJCHAN!!\]](https://osu.ppy.sh/beatmapsets/873621#mania/1826057)
   4. [Kita Khyber - Acerbic Relationship (riunosk) \[Noodle Love\]](https://osu.ppy.sh/beatmapsets/992301#mania/2075185)
   5. [Zekk - Libertas (Kamuy) \[manumissio vindicta\]](https://osu.ppy.sh/beatmapsets/1089211#mania/2277328)
-  6. [Lime - Stargazer (Kamikaze) \[Astral \[1,1x Rate\]\]](https://osu.ppy.sh/beatmapsets/946116#mania/1975564)    
+  6. [Lime - Stargazer (Kamikaze) \[Astral \[1,1x Rate\]\]](https://osu.ppy.sh/beatmapsets/946116#mania/1975564)
   7. [Helblinde - Grief & Malice (Fullerene-) \[Kriemhild // 4K\]](https://osu.ppy.sh/beatmapsets/239943#mania/554655)
-  8. [LV.4 - Spriggan (LovelySerenade) \[Valkyrie Dimension\]](https://osu.ppy.sh/beatmapsets/796372#mania/1672289)   
+  8. [LV.4 - Spriggan (LovelySerenade) \[Valkyrie Dimension\]](https://osu.ppy.sh/beatmapsets/796372#mania/1672289)
   9. [ITO KASHITARO - Yuudachi no Ribbon (Abraxos) \[sleet\]](https://osu.ppy.sh/beatmapsets/729005#mania/1538938)
-  10. [N.M.S.T - Snowflakes (-Rem-) \[memory (183.75bpm)\]](https://osu.ppy.sh/beatmapsets/998597#mania/2088657)     
+  10. [N.M.S.T - Snowflakes (-Rem-) \[memory (183.75bpm)\]](https://osu.ppy.sh/beatmapsets/998597#mania/2088657)
   11. [Frums - 24eev0-$ (\[Crz\]Crysarlene) \[Bliss\]](https://osu.ppy.sh/beatmapsets/1120940#mania/2342177)
   12. [BEMANI Sound Team "Nekomata Master" - Life is beautiful (-MysticEyes) \[LeiN-'s MASTER\]](https://osu.ppy.sh/beatmapsets/860089#mania/1948492)
-  13. [Tenkitsune & Trifect - Fallen World (feat. Jasper In The Company Of Others) (Kamuy) \[surge (edit)\]](https://osu.ppy.sh/beatmapsets/922984#mania/2343060)     
-  14. [Camellia - KillerBeast (RuleBlazing) \[Beast Warriors\]](https://osu.ppy.sh/beatmapsets/1048494#mania/2191557)  
+  13. [Tenkitsune & Trifect - Fallen World (feat. Jasper In The Company Of Others) (Kamuy) \[surge (edit)\]](https://osu.ppy.sh/beatmapsets/922984#mania/2343060)
+  14. [Camellia - KillerBeast (RuleBlazing) \[Beast Warriors\]](https://osu.ppy.sh/beatmapsets/1048494#mania/2191557)
 - Tiebreaker
-  1. **[Dempagumi.inc - Chururi Chururira (JztCallMeRon) \[Ikuzo!\]](https://osu.ppy.sh/beatmapsets/688773#mania/1457922)**  
+  1. **[Dempagumi.inc - Chururi Chururira (JztCallMeRon) \[Ikuzo!\]](https://osu.ppy.sh/beatmapsets/688773#mania/1457922)**
 
 ### Quarterfinals
 
@@ -188,15 +188,15 @@ This competition has come to an end and resulted in the following podium:
   3. [M2U - H.O.W.Ling (Toaph Daddy) \[Insane\]](https://osu.ppy.sh/beatmapsets/972698#mania/2096223)
   4. [senya - Kimi to Dareka no Yasashisa ni (Virtue-) \[Stage 3 : Great Harmony\]](https://osu.ppy.sh/beatmapsets/981019#mania/2053009)
   5. [Dormir - Une mage blanche (cjunh4972) \[Priere de guerison\]](https://osu.ppy.sh/beatmapsets/856084#mania/1788654)
-  6. [An - artcore JINJA (Abraxos) \[Quiescence\_Lv.21\]](https://osu.ppy.sh/beatmapsets/409503#mania/888942)    
+  6. [An - artcore JINJA (Abraxos) \[Quiescence\_Lv.21\]](https://osu.ppy.sh/beatmapsets/409503#mania/888942)
   7. [The Black Dahlia Murder - Deathmask Divine (Valedict) \[Necromance\]](https://osu.ppy.sh/beatmapsets/563020#mania/1190604)
-  8. [AAAA - Hoshizora no Kanransha (Len) \[LeiN-'s 4K Insane\]](https://osu.ppy.sh/beatmapsets/877047#mania/1837281)   
+  8. [AAAA - Hoshizora no Kanransha (Len) \[LeiN-'s 4K Insane\]](https://osu.ppy.sh/beatmapsets/877047#mania/1837281)
   9. [Frequent - Lucid (feat. Jan Amit) (Elekton) \[lull\]](https://osu.ppy.sh/beatmapsets/901710#mania/1882727)
   10. [Shawn Wasabi - Marble Soda (-mint-) \[Ramune\]](https://osu.ppy.sh/beatmapsets/946991#mania/1977877)
   11. [Veil of Maya - Mikasa (Shoegazer) \[Salvation\]](https://osu.ppy.sh/beatmapsets/828101#mania/1735096)
   12. [seafoxy - Hisame (FelixSpade) \[New Season\]](https://osu.ppy.sh/beatmapsets/1091518#mania/2281898)
 - Tiebreaker
-  1. **[Magnetude - Broken (SaltyMermaid) \[Shattered\]](https://osu.ppy.sh/beatmapsets/842099#mania/1762138)** 
+  1. **[Magnetude - Broken (SaltyMermaid) \[Shattered\]](https://osu.ppy.sh/beatmapsets/842099#mania/1762138)**
 
 ### Group stage
 
@@ -208,7 +208,7 @@ This competition has come to an end and resulted in the following podium:
   3. [Jakub Zytecki - Letters (Cokiiplay) \[Voyage\]](https://osu.ppy.sh/beatmapsets/1282382#mania/2663564)
   4. [LV.4 - Angel dust (Fontes) \[4k leqek's Hard\]](https://osu.ppy.sh/beatmapsets/970810#mania/2039046)
   5. [Ben Briggs - Fearless Living (RuleBlazing) \[Coward\]](https://osu.ppy.sh/beatmapsets/1283930#mania/2666220)
-  6. [Thaehan - Final Boss (Theresa May) \[Stage 4 : Credits\]](https://osu.ppy.sh/beatmapsets/980090#mania/2051097)   
+  6. [Thaehan - Final Boss (Theresa May) \[Stage 4 : Credits\]](https://osu.ppy.sh/beatmapsets/980090#mania/2051097)
 
 ### Qualifiers
 
@@ -219,7 +219,7 @@ This competition has come to an end and resulted in the following podium:
   2. [Yuzuki - Dear You (Vocal Version) (RemFangirl) \[Distant\]](https://osu.ppy.sh/beatmapsets/763326#mania/1605032)
   3. [USAO - Knight Rider (Spy) \[Mashiro's NORMAL\]](https://osu.ppy.sh/beatmapsets/1007938#mania/2138728)
   4. [xi - Titania (Murumoo) \[Lirai's EXPERT\]](https://osu.ppy.sh/beatmapsets/1174746#mania/2487983)
-  5. [DETRO - volcanic (\[Crz\]Crysarlene) \[wrong one\]](https://osu.ppy.sh/beatmapsets/984123#mania/2059102)  
+  5. [DETRO - volcanic (\[Crz\]Crysarlene) \[wrong one\]](https://osu.ppy.sh/beatmapsets/984123#mania/2059102)
 
 ## Match results
 
@@ -355,7 +355,7 @@ Sunday, 29 November 2020:
    - All players will have to consecutively play all of the six Group Stage maps in the order that it is being written on the [main spreadsheet](https://docs.google.com/spreadsheets/d/1VttS6M8GdWINmMBuHws6AcND0yh3mNGzUiVQwleLP4Q/edit#gid=1467418977).
    - After the conclusion of each map, the two players who finish 2nd and 3rd will receive +2 points and the other two players who finish 1st and 4th will receive +1 point following the "[middle winner](http://imgur.com/a/GydWooA)" scoring system.
 3. Players **are not allowed** to ban any maps in the Group Stage.
-4. Players will subsequently be ranked in their respective groups based from the amount of points they accumulate in the room. 
+4. Players will subsequently be ranked in their respective groups based from the amount of points they accumulate in the room.
    - In case of a points tie, all affected players will be ordered by their Group Stage seed.
 
 ### Knock-out stage rules
@@ -369,7 +369,7 @@ Sunday, 29 November 2020:
 4. Teams who can compete in the next round are determined by the following criteria:
    - In the Quarterfinals, each team needs to win 5 points in order to win a match. (Best-of-9)
    - In the Semifinals, each team needs to win 6 points in order to win a match. (Best-of-11)
-   - In both of the Finals weeks, each team needs to win 7 points in order to win a match. (Best-of-13)   
+   - In both of the Finals weeks, each team needs to win 7 points in order to win a match. (Best-of-13)
    - Team(s) who Win By Default.
    - Whether there are team(s) who got disqualified during the match.
 

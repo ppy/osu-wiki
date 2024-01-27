@@ -15,14 +15,14 @@ La **osu! World Cup 2018** (***OWC 2018***) fue un torneo por países organizado
 
 | Evento | Marca de tiempo |
 | --: | :-- |
-| Fase de registración | 2018-10-13/2018-10-26 |
-| Sorteos | 2018-11-04 (14:00 UTC) |
-| Fase de grupos | 2018-11-10/2018-11-11 |
-| Octavos de final | 2018-11-17/2018-11-18 |
-| Cuartos de final | 2018-11-24/2018-11-25 |
-| Semifinales | 2018-12-01/2018-12-02 |
-| Finales semana 1 | 2018-12-08/2018-12-09 |
-| Finales semana 2 | 2018-12-15/2018-12-16 |
+| Fase de registración | 13/10/2018 - 26/10/2018 |
+| Sorteos | 4/11/2018 (14:00 UTC) |
+| Fase de grupos | 10/11/2018 - 11/11/2018 |
+| Octavos de final | 17/11/2018 - 18/11/2018 |
+| Cuartos de final | 24/11/2018 - 25/11/2018 |
+| Semifinales | 1/12/2018 - 2/12/2018 |
+| Finales semana 1 | 8/12/2018 - 9/12/2018 |
+| Finales semana 2 | 15/12/2018 - 16/12/2018 |
 
 ## Premios
 
@@ -443,7 +443,7 @@ Domingo, 11 de noviembre de 2018:
 14. Se supone que todos los jugadores deben mantener el juego fluido y sin demoras. Los retrasos excesivos en las partidas provenientes del lado del jugador pueden ser sancionados con penalizaciones.
 15. Si un jugador se desconecta entre los mapas y el equipo no puede proporcionar un intercambio, el partido puede retrasarse 10 minutos como máximo.
 16. Todos los jugadores y árbitros deben ser tratados con respeto. Se deben seguir las instrucciones de los árbitros y del Gerente del torneo. Las decisiones etiquetadas como finales no deben ser objetadas.
-17. Está estrictamente prohibido interrumpir el partido con juego sucio, elegir mapas de calentamiento inapropiados (ver más abajo), insultar y provocar a otros jugadores o árbitros, retrasar el partido u otro comportamiento inapropiado deliberado.
+17. Está estrictamente prohibido interrumpir el partido con juego sucio, elegir mapas de calentamiento inapropiados (ver más abajo), insultar y provocar a otros jugadores o árbitros, retrasar el partido u otra conducta inapropiada deliberada.
 18. Las salas de chat multijugador subyacen a las [reglas de la comunidad de osu!](/wiki/Rules). Todas las reglas del chat también se aplican a las salas de chat multijugador.
     - Romper las reglas del chat da como resultado un silencio. Los jugadores silenciados no pueden participar en partidas multijugador y deben ser intercambiados por el momento.
 19. En la Fase de Grupos, 'Ganar por default' será considerado como ganar por 5:0, +1.0 diferencia de puntajes.

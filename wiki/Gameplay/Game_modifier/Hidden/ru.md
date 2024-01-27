@@ -26,7 +26,7 @@ tags:
   - ![][osu!] ![][osu!taiko] ![][osu!catch]: 1.06x
   - ![][osu!mania]: 1.00x
 - Горячая клавиша по умолчанию: `F`
-  - В [osu!mania](/wiki/Game_mode/osu!mania): `F` `F` или `Shift`+`F`
+  - В [osu!mania](/wiki/Game_mode/osu!mania): `F` `F` или `Shift` + `F`
 - Описание:
   - ![][osu!]: `Нот не существует, Нео.`
   - ![][osu!taiko]: `Ноты исчезают прямо перед ударом.`
@@ -75,7 +75,7 @@ tags:
 
 - Hidden впервые появился в Ouendan 2, второй части цикла японских ритм-игр [Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) (на которых основана osu!).
 - За прохождение карты на ранг S или SS со включённым Hidden выдаётся серебряная версия S/SS.
-- По умолчанию в [osu!](/wiki/Game_mode/osu!) вокруг самого первого [объекта](/wiki/Gameplay/Hit_object) на карте видна [вспомогательная окружность](/wiki/Gameplay/Hit_object/Approach_circle), помогающая игроку войти в ритм. Её можно скрыть в настройках игры в разделе `Gameplay`.
+- По умолчанию в [osu!](/wiki/Game_mode/osu!) вокруг самого первого [объекта](/wiki/Gameplay/Hit_object) на карте видна [вспомогательная окружность](/wiki/Gameplay/Hit_object/Approach_circle), помогающая игроку войти в ритм. Её можно скрыть в [настройках](/wiki/Client/Options) игры в разделе `Gameplay`.
 - В osu!mania Hidden является противоположностью мода [Fade In](/wiki/Gameplay/Game_modifier/Fade_In).
 - Текущая версия Hidden в osu!mania раньше была отдельным модом под названием [Fade Out](/wiki/Gameplay/Game_modifier/Fade_Out).
 

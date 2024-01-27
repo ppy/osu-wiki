@@ -1,8 +1,8 @@
 # Do you really want to ask peppy?
 
-Hi there! peppy understands your urge to want to contact him personally, but he asks that you first understand that this is **not** the place you want to ask him for help or support. He keeps osu! support separate from personal messages and also finds that answering forum PMs is quite hard to keep up with. He therefore asks that you do one of the following options:
+Hi there! peppy understands your urge to want to contact him personally, but he asks that you first understand that this is **not** the place you want to ask him for help or support. He keeps osu! support separate from personal messages and also finds that answering PMs is quite hard to keep up with. He therefore asks that you do one of the following options:
 
-## Technical Support
+## Technical support
 
 Most technical issues can be resolved by searching or posting in the [Help forum](https://osu.ppy.sh/community/forums/5). There are lots of others there to help you with your issues, so you will find a solution faster than contacting him.
 

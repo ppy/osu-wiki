@@ -18,9 +18,9 @@ A **difficulty** de um beatmap descreve o nível de habilidade requirido para co
 
 ## Níveis de dificuldade
 
-*Veja também: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_naming)*
+*Veja também: [Difficulty naming](/wiki/Ranking_criteria/Difficulty_naming)*
 
-Esses são os típicos níveis de dificuldade que um beatmap pode ser categorizado. Definições específicas e requerimentos de cada podem ser respectivamente encontrados em sua [ranking criteria](/wiki/Ranking_Criteria) de cada modo.
+Esses são os típicos níveis de dificuldade que um beatmap pode ser categorizado. Definições específicas e requerimentos de cada podem ser respectivamente encontrados em sua [ranking criteria](/wiki/Ranking_criteria) de cada modo.
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
@@ -29,7 +29,6 @@ Esses são os típicos níveis de dificuldade que um beatmap pode ser categoriza
 - ![](/wiki/shared/diff/hard-o.png?20211215) Hard
 - ![](/wiki/shared/diff/insane-o.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert
-- ![](/wiki/shared/diff/expertplus-o.png?20211215) Expert+
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
@@ -37,8 +36,7 @@ Esses são os típicos níveis de dificuldade que um beatmap pode ser categoriza
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
 - ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png?20211215) Oni
-- ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni
-- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni / Ura Oni
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
@@ -47,7 +45,6 @@ Esses são os típicos níveis de dificuldade que um beatmap pode ser categoriza
 - ![](/wiki/shared/diff/hard-c.png?20211215) Platter
 - ![](/wiki/shared/diff/insane-c.png?20211215) Rain
 - ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
-- ![](/wiki/shared/diff/expertplus-c.png?20211215) Overdose+
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
@@ -56,7 +53,6 @@ Esses são os típicos níveis de dificuldade que um beatmap pode ser categoriza
 - ![](/wiki/shared/diff/hard-m.png?20211215) Hard
 - ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-m.png?20211215) Expert
-- ![](/wiki/shared/diff/expertplus-m.png?20211215) Expert+
 
 ## Star rating
 
@@ -71,4 +67,4 @@ No site, beatmaps são automaticamente dados um ícone de dificuldade baseado na
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert: 5.3★–6.49★
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) Expert+: 6.5★ e acima disso
 
-A maioria dos mapas tem seu respectivo nível de ícone categorizados de forma correta, mas alguns podem sair dessa curva e variar bastante. E é esse o motivo que a [ranking criteria](/wiki/Ranking_Criteria) define regras mais precisas para a determinação da dificuldade de um beatmap e a variação de dificuldade entre as dificuldades de um beatmapset.
+A maioria dos mapas tem seu respectivo nível de ícone categorizados de forma correta, mas alguns podem sair dessa curva e variar bastante. E é esse o motivo que a [ranking criteria](/wiki/Ranking_criteria) define regras mais precisas para a determinação da dificuldade de um beatmap e a variação de dificuldade entre as dificuldades de um beatmapset.

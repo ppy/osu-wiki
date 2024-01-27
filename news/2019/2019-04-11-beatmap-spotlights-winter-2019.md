@@ -32,7 +32,7 @@ First of all, congratulations to the winners of the Seasonal Spotlights: Autumn 
 
 [![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/osu/nice-for-what.jpg)](https://osu.ppy.sh/beatmapsets/873829)
 
-Despite hip-hop being a relatively rare genre in osu!, [UndeadCapulet](https://osu.ppy.sh/users/2523533) set out to map Drake’s “Nice For What” in his unique style. The map uses lots of careful object placements and repetition to isolate unique changes in the song. From the quiet beginning to the intense chorus, UndeadCapulet has the player's cursor at their fingertips and the song in their grasp. 
+Despite hip-hop being a relatively rare genre in osu!, [UndeadCapulet](https://osu.ppy.sh/users/2523533) set out to map Drake’s “Nice For What” in his unique style. The map uses lots of careful object placements and repetition to isolate unique changes in the song. From the quiet beginning to the intense chorus, UndeadCapulet has the player's cursor at their fingertips and the song in their grasp.
 
 UndeadCapulet's perseverance, despite all the backlash they received, proves to everyone what their style is nice for. The other half of the set by [Aeril](https://osu.ppy.sh/users/4334976) also adds a similar flavour to the song with their style. These mappers unified to make this song nice for people at every skill level.
 
@@ -56,13 +56,13 @@ Don't stay up late while playing this mapset, or you might experience some sleep
 
 [![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/osu/saisaki.jpg)](https://osu.ppy.sh/beatmapsets/858075)
 
-Not afraid to accentuate even the tiniest of changes in the song, [cRyo\[iceeicee\]](https://osu.ppy.sh/users/835998) & co. delivers a bombastic take on Reol's song Saisaki. The shift between technical styled mapping for the EDM aspects of the song to the careful arrangements in the melody focused instrumentals and passionately delivered vocals this whole set will not fail to deliver an exhilarating experience. 
+Not afraid to accentuate even the tiniest of changes in the song, [cRyo\[iceeicee\]](https://osu.ppy.sh/users/835998) & co. delivers a bombastic take on Reol's song Saisaki. The shift between technical styled mapping for the EDM aspects of the song to the careful arrangements in the melody focused instrumentals and passionately delivered vocals this whole set will not fail to deliver an exhilarating experience.
 
 Each map is in itself tied together gracefully enriching the song taking it to greater heights, and with a generous spread of difficulty the set is giving every player a change to to enjoy this masterpiece!
 
 [![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/osu/kyoumen.jpg)](https://osu.ppy.sh/beatmapsets/764481)
 
-[Smokeman](https://osu.ppy.sh/users/2140676) has always been a master of capturing the beauty in the songs he maps. His rendition of "Kyoumen no Nami \[Orchestra Ver.\] is no different. The map perfectly matches the very serene parts of the song with low density and low slider velocity. Then explodes with a quicker slider velocity and more difficult movements in the chorus which truly make the map shine. 
+[Smokeman](https://osu.ppy.sh/users/2140676) has always been a master of capturing the beauty in the songs he maps. His rendition of "Kyoumen no Nami \[Orchestra Ver.\] is no different. The map perfectly matches the very serene parts of the song with low density and low slider velocity. Then explodes with a quicker slider velocity and more difficult movements in the chorus which truly make the map shine.
 
 Don't forget to look at the wondrous storyboard made by [LowAccuracySS](https://osu.ppy.sh/users/7306763) & [Darky1](https://osu.ppy.sh/users/3372928)!
 
@@ -72,7 +72,7 @@ This collab between [Icekalt](https://osu.ppy.sh/users/5410645) and [Mao](https:
 
 [![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/osu/lemon.jpg)](https://osu.ppy.sh/beatmapsets/861466)
 
-[Loneight](https://osu.ppy.sh/users/663131) is back in spotlights! This time they brought their map of Yonezu Kenshi's "Lemon". Loneight uses a unique combination of spacing and slider velocity that displays a lot of control and makes the map feel exactly how it looks. Loneight takes you through this swing-beat song on an emotional journey: meticulous through the calmer sections; open and expressive on the choruses. 
+[Loneight](https://osu.ppy.sh/users/663131) is back in spotlights! This time they brought their map of Yonezu Kenshi's "Lemon". Loneight uses a unique combination of spacing and slider velocity that displays a lot of control and makes the map feel exactly how it looks. Loneight takes you through this swing-beat song on an emotional journey: meticulous through the calmer sections; open and expressive on the choruses.
 
 And if you are introducing any friends to the game, this Normal diff is able to take the same emotion from the top diff and apply it for newer players. This set is for everyone!
 
@@ -86,7 +86,7 @@ It is not often that we see a lot of artcore mapsets, especially ones that boast
 
 [![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/osu/gin.jpg)](https://osu.ppy.sh/beatmapsets/902948)
 
-[rrtyui](https://osu.ppy.sh/users/352328) brings us a new test of skill on "Gin no Kaze" by wa. remixed celas, sparking a new life into the ideas of Fear's version. As the song slowly reveals itself, the map follows suit to prepare the player for its climax. There, the small circle size is pushed to its limits with an incessant series of unusually precise slider motions. 
+[rrtyui](https://osu.ppy.sh/users/352328) brings us a new test of skill on "Gin no Kaze" by wa. remixed celas, sparking a new life into the ideas of Fear's version. As the song slowly reveals itself, the map follows suit to prepare the player for its climax. There, the small circle size is pushed to its limits with an incessant series of unusually precise slider motions.
 
 Even though hard, this map is also subtle. Combining clever mapping decisions worthy of an essay, rrtyui shows that they have a deep understanding of all layers in mapping. Those who need to improve a bit more to take on the highest difficulty can definitely find a similar challenge in [Uberzolik](https://osu.ppy.sh/users/1314547)'s another.
 
@@ -98,7 +98,7 @@ The map itself follows its own journey, beginning with highly grid-oriented patt
 
 [![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/osu/suki-no-skill.jpg)](https://osu.ppy.sh/beatmapsets/740351)
 
-Not only is [Loneight](https://osu.ppy.sh/users/663131) back into Spotlights once but even twice! With their latest set in the ranked section "Suki no Skill" by Wake UP, Girls!, they were again able to create another great game-play experience. This time they collaborated most of the set with [ArThasCD](https://osu.ppy.sh/users/365331), also known as assassincread. Both show their ability to use movement in a very smooth but also challenging way which is especially hard to do on low-bpm. 
+Not only is [Loneight](https://osu.ppy.sh/users/663131) back into Spotlights once but even twice! With their latest set in the ranked section "Suki no Skill" by Wake UP, Girls!, they were again able to create another great game-play experience. This time they collaborated most of the set with [ArThasCD](https://osu.ppy.sh/users/365331), also known as assassincread. Both show their ability to use movement in a very smooth but also challenging way which is especially hard to do on low-bpm.
 
 Another highlight of the set is definitely the high effort hitsounding which adds a great hit-feedback for an even better game-play experience. If you can not play the top difficulty, the insane gives out an equal smooth atmosphere so its worth on checking them both out.
 
@@ -116,7 +116,7 @@ HYPERDRIVE, [hypercyte](https://osu.ppy.sh/users/9155377)'s first spotlighted ma
 
 [![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/osu/stealth.jpg)](https://osu.ppy.sh/beatmapsets/908451)
 
-[Realazy](https://osu.ppy.sh/users/918297) sneaks into the listing with his rendition of Camellia's "Stealth Dash". Keeping up the tradition of Camellia mapping, this map offers a heap of different challenges for the player to overcome. You're not allowed to drop your guard as the map rapidly switches between slider velocities, stream designs, 1/4 spacings, rhythms and snappings to fit every layer of the song. 
+[Realazy](https://osu.ppy.sh/users/918297) sneaks into the listing with his rendition of Camellia's "Stealth Dash". Keeping up the tradition of Camellia mapping, this map offers a heap of different challenges for the player to overcome. You're not allowed to drop your guard as the map rapidly switches between slider velocities, stream designs, 1/4 spacings, rhythms and snappings to fit every layer of the song.
 
 Don't be fooled into thinking that [Mir](https://osu.ppy.sh/users/8688812)'s difficulty is any easier, they return from the metaphorical shadows to show that they can still keep the best of the best players on their toes.
 
@@ -205,7 +205,7 @@ Saying any more about this map could be considered an spoiler, so how about you 
 
 [![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/taiko/epimerization.jpg)](https://osu.ppy.sh/beatmapsets/754062)
 
-This beatmap by [Alchyr](https://osu.ppy.sh/users/4993032) is completed as a single story. It begins with the first silent scene following the quiet melody. after that, the story changes dramatically, just like a powerful storm of finishers and spinners. The visual difficulty of finishers further enhances it. Then the storm turns into something like 1/6 arrows, and we can easily experience how difficult handswaping is. 
+This beatmap by [Alchyr](https://osu.ppy.sh/users/4993032) is completed as a single story. It begins with the first silent scene following the quiet melody. after that, the story changes dramatically, just like a powerful storm of finishers and spinners. The visual difficulty of finishers further enhances it. Then the storm turns into something like 1/6 arrows, and we can easily experience how difficult handswaping is.
 
 After a long break, you can see a very impressive part making use of tremendous density changes. In the end, the story finally finishes with the perfect part summarizing all its concepts. The great attractive thing about this story is that it is not boring but inversely enjoyable despite repeating the same pattern, of course because of the perfection of mapping.
 
@@ -225,7 +225,7 @@ In addition, [Ascendance](https://osu.ppy.sh/users/2931883)’s difficulty is a 
 
 [![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/catch/brionac.jpg)](https://osu.ppy.sh/beatmapsets/734296)
 
-As one of the top players in osu!catch, [Rocma](https://osu.ppy.sh/users/566276) has been trying to map technical maps for top players for long time. Although Brionac is his first ranked map, the quality of the map proves that he is also a good mapper with the ability to create a whole set. The top diff may have a lower star rating comparing to other maps, but the anti-flow 1/4 streams are still pretty hard to deal with even if you are a top player. 
+As one of the top players in osu!catch, [Rocma](https://osu.ppy.sh/users/566276) has been trying to map technical maps for top players for long time. Although Brionac is his first ranked map, the quality of the map proves that he is also a good mapper with the ability to create a whole set. The top diff may have a lower star rating comparing to other maps, but the anti-flow 1/4 streams are still pretty hard to deal with even if you are a top player.
 
 Besides the patterns, Rocma also showcases his outstanding hitsounding skills by using several hitsounding sets. The map is for all players from catch newbies to masters, try to find out your ability while enjoying the set!
 
@@ -239,7 +239,7 @@ Egoism 440 showcases a variety of patterns different mappers use hosted by [Asce
 
 [\_Kobii](https://osu.ppy.sh/users/6209713) strikes again with another long note-based kamome sano mapset! The top difficulty, Sweet Drop, utilizes an interesting concept where intensity of the musical instruments assigned to the long notes is mirrored with the gaps between the long notes, as can be seen multiple times. The difficulty is balanced throughout in terms of density while also representing the music in a very consistent and straightforward yet unique fashion. Not only that, but this difficulty does not have very much strain and discomfort in the long note-heavy sections, and has very sparing use of minijacks, which makes it very player-friendly.
 
-The top difficulty is accompanied with a nice spread catering to players that fall under a wide range of skill. Guest mappers [KeppSado](https://osu.ppy.sh/users/11085809), [VianK](https://osu.ppy.sh/users/6889055), and [Unpredictable](https://osu.ppy.sh/users/7560872) all demonstrate their own approach to the song, with all three of the difficulties somewhat challenging the norms of ranked difficulties in their respective star ratings. 
+The top difficulty is accompanied with a nice spread catering to players that fall under a wide range of skill. Guest mappers [KeppSado](https://osu.ppy.sh/users/11085809), [VianK](https://osu.ppy.sh/users/6889055), and [Unpredictable](https://osu.ppy.sh/users/7560872) all demonstrate their own approach to the song, with all three of the difficulties somewhat challenging the norms of ranked difficulties in their respective star ratings.
 
 With that said, however, the set remains quite accessible to beginner players and up, and helps to be another set in ranked that encourages lower level players to delve more into long note maps!
 
@@ -271,7 +271,7 @@ The lower difficulties do not disappoint, either. Like the top difficulty, they 
 
 [![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/mania/sore-wa.jpg)](https://osu.ppy.sh/beatmapsets/878429)
 
-A well-known mapper in multiple rhythm game communities, [LeiN-](https://osu.ppy.sh/users/2162939) reappears in the ranked section with a fun, stamina-filled map that is able to capture the intensity of the entire song with consistent longjacks and anchors, known to be some of the most challenging patterns to play well. Like many of his other maps, LeiN- demonstrates here that the usage of repetitive cycles, when musically justified, is acceptable and should be encouraged more in the ranked section. 
+A well-known mapper in multiple rhythm game communities, [LeiN-](https://osu.ppy.sh/users/2162939) reappears in the ranked section with a fun, stamina-filled map that is able to capture the intensity of the entire song with consistent longjacks and anchors, known to be some of the most challenging patterns to play well. Like many of his other maps, LeiN- demonstrates here that the usage of repetitive cycles, when musically justified, is acceptable and should be encouraged more in the ranked section.
 
 Though both difficulties appear to be very close in star rating, this is very misleading; the higher difficulty has a significantly more intense usage of longjacks. Overall, this set is very well done, clean, and honestly a work of art.
 
@@ -285,7 +285,7 @@ All in all the map provides an unorthodox approach to jumpstreams that will hope
 
 [![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/mania/destination.jpg)](https://osu.ppy.sh/beatmapsets/843723)
 
-His first mapset in the ranked section, [Dergo](https://osu.ppy.sh/users/7439226) throws a giant surprise with some of the most unique qualities in a mapset you could see in ranked. Though succducc is somewhat well known in standard, this particular track is not very well known. The choices that were taken into mapping are unusually spectacular - the first half of the song being one large buildup is represented well through pattern complexity, and the kiai's usage of jacks, bursts, and trills is not something normally seen in ranked. 
+His first mapset in the ranked section, [Dergo](https://osu.ppy.sh/users/7439226) throws a giant surprise with some of the most unique qualities in a mapset you could see in ranked. Though succducc is somewhat well known in standard, this particular track is not very well known. The choices that were taken into mapping are unusually spectacular - the first half of the song being one large buildup is represented well through pattern complexity, and the kiai's usage of jacks, bursts, and trills is not something normally seen in ranked.
 
 The balance in this map between serenity and chaos perfectly represents the music it accompanies. For this reason, the mapset has a clearly well-deserved spot in the spotlights, and we will definitely expect more from Dergo in the future.
 

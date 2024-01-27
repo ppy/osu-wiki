@@ -33,13 +33,13 @@ Ada beberapa kriteria yang sangat minimal yang harus dipenuhi untuk beatmap yang
 - Setidaknya memiliki 30 favorit (hanya berlaku untuk map osu!)
 - Setiap tingkat kesulitan yang dinominasikan memiliki [*drain time*](/wiki/Beatmap/Drain_time) yang sekurang-kurangnya 30 detik
 
-Namun, meskipun hampir semua map dalam status [Pending dan Work-in-progress](/wiki/Beatmap/Category#work-in-progress-dan-pending) memenuhi kriteria ini, hanya sedikit yang masuk ke dalam kategori Loved karena persyaratan nominasi dan pemilihan yang lebih selektif.
+Namun, meskipun hampir semua map dalam status [Pending dan Work-in-progress](/wiki/Beatmap/Category#wip-and-pending) memenuhi kriteria ini, hanya sedikit yang masuk ke dalam kategori Loved karena persyaratan nominasi dan pemilihan yang lebih selektif.
 
 Beatmap yang masuk ke kategori Loved diperlukan untuk mengikuti beberapa aturan tambahan:
 
-- [Bagian Metadata dari Kriteria Ranking](/wiki/Ranking_Criteria#metadata)
-- [Peraturan Konten Musik](/wiki/Rules/Song_Content_Rules)
-- [Pertimbangan Konten Visual](/wiki/Rules/Visual_Content_Considerations)
+- [Bagian Metadata dari Kriteria Ranking](/wiki/Ranking_criteria#metadata)
+- [Peraturan Konten Musik](/wiki/Rules/Song_content_rules)
+- [Pertimbangan Konten Visual](/wiki/Rules/Visual_content_considerations)
 
 Sebagai catatan, agar mutu lagu-lagu yang ada dapat tetap terjaga, setiap beatmap harus mengandung berkas lagu yang memiliki kualitas audio/*bit rate* yang baik namun tidak lebih dari 192kbps.
 

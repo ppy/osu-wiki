@@ -8,9 +8,9 @@ Lista de guías e hilos importantes, creados por la comunidad.
 
 ## Guías
 
-- [Recorte con fondos complejos](/wiki/Guides/Cropping_with_Complex_Backgrounds)
-- [Recorte con fondos sencillos](/wiki/Guides/Cropping_with_Simple_Backgrounds)
-- [Cómo hacer Spiners correctamente centrados](/wiki/Guides/Making_Properly_Centred_Spinners)
+- [Recorte con fondos complejos](/wiki/Guides/Cropping_with_complex_backgrounds)
+- [Recorte con fondos sencillos](/wiki/Guides/Cropping_with_simple_backgrounds)
+- [Cómo hacer Spiners correctamente centrados](/wiki/Guides/Making_properly_centred_spinners)
 - [Cómo modificar el archivo skin.ini](https://osu.ppy.sh/community/forums/topics/575880) por [Lyawi](https://osu.ppy.sh/users/5851253)
 - [Nuevo tutorial de skinning](https://tutorial.skinship.xyz/tutorial/introduction) por [RockRoller](https://osu.ppy.sh/users/8388854)
 - [Guías de skinning por skinship (en inglés)](https://tutorial.skinship.xyz/guides) por [RockRoller](https://osu.ppy.sh/users/8388854)

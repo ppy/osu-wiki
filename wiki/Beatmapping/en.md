@@ -21,7 +21,7 @@ Click on the song, this will open the [beatmap editor](/wiki/Client/Beatmap_edit
 
 ### Song Setup
 
-*Main page: [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup)*
+*Main page: [Song Setup](/wiki/Client/Beatmap_editor/Song_setup)*
 
 When making a new [beatmap](/wiki/Beatmap), you will always see this dialog before any other parts of the beatmap editor.
 

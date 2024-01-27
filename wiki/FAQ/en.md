@@ -18,7 +18,7 @@ needs_cleanup: true
 
 ![Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS](/wiki/shared/Ouendan.jpg "Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS")
 
-The gameplay circles can be seen on the bottom screen, and the story on the top screen. Each stage is basically a self-contained story about a person in trouble. That is where the *Ouendan* (Cheer squad) comes in. Through the magical power of male cheerleading, the player have to help the people in trouble.
+The gameplay circles can be seen on the bottom screen, and the story on the top screen. Each stage is basically a self-contained story about a person in trouble. That is where the *Ouendan* (Cheer squad) comes in. Through the magical power of male cheerleading, the player has to help the people in trouble.
 
 ### How to play?
 

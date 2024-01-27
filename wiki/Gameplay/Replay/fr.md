@@ -86,7 +86,7 @@ La touche de raccourci est la touche `Esc`.
 
 ## Types de replays
 
-*Toute la documentation concernant le format `.osr` : [.osr (format de fichier)](/wiki/Client/File_formats/Osr_(file_format))*
+*Toute la documentation concernant le format `.osr` : [.osr (format de fichier)](/wiki/Client/File_formats/osr_(file_format))*
 
 Pour exporter un replay, appuyez sur `F2` sur l'écran de résultat.
 Le replay exporté aura une extension de fichier `.osr` avec un format de nom de fichier propre comme indiqué ci-dessous :

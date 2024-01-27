@@ -78,14 +78,13 @@ osu!にログインしている各ユーザーは、拡張チャットにユー�
 | `/delfriend [user]` | フレンドリストから`[user]`を削除します。 | `/delfriend Amigo` | You are no longer friends with Amigo. |
 | `/away [message]` | アウェイメッセージを設定します(自分にPMを送っているユーザーに送信されます)。キャンセルする場合は、メッセージを空白にします。 | `/away I am John Smith.` | You have been marked as being away: I am John Smith. When Amigo /msg John Where are you~? BanchoBot: I am John Smith. |
 | `/bb` | Banchoにメッセージを送り、`!stats [user]`のようなコマンドを実行させる。 | `/bb !stats Uan` | \[15/11/12\] Stats for [Uan](https://osu.ppy.sh/users/147623): Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
-| `/chat [user]` | 指定したユーザーとの新しいチャットタブを開く。 | `/chat Amigo` | (Amigo tab is opened) |
+| `/chat [user]`、`/msg [user]`もしくは`/query [user]` | 指定したユーザーとの新しいチャットタブを開く。 | `/chat Amigo` | (Amigo tab is opened) |
 | `/clear` | 現在のチャットバッファを消去します。 | `/clear` | (Clears basically everything on the current tab) |
 | `/ignore [user][@chp]` | このセッションで指定したユーザーからのメッセージをすべて無視します。@の後にc、h、pの文字をつけることで、それぞれチャット、[ハイライト](Highlight)、PMで無視することができます。 | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (Your chat console is set to: ignore any text written by Amigo \[c\], any possible text highlighting you by Amigo \[h\] any Private Message sent to you by Amigo \[p\]) |
 | `/j [channel]`もしくは`/join [channel]` | 指定されたチャンネルに参加する。 | `/join #lobby` | (#lobby tab is opened) |
 | `/p`もしくは`/part` | 現在のチャンネルに別れを告げたり、去ったりします。 | `/part` | n/a |
 | `/unignore [user]` | このセッションでこのユーザーを無視するのを止めます。 | `/unignore Amigo` | You may now hear Amigo. (Your chat console will allow any comment made by Amigo available to your chat console) |
 | `/me [action]` | 三人称のアクションを実行する。 | `/me is at home` | * John is at home |
-| `/msg [user] [msg]` | プライベートメッセージを`[user]`に送る。 | `/msg Amigo I am sick at home.` | (At Amigo tab) John: I am sick at home. |
 | `/np` | 現在聴いている、または再生している曲をチャットで表示する。 | `/np` | (If playing) * John is playing [Peter Lambert - osu! tutorial \[Gameplay Basics\]](https://osu.ppy.sh/beatmapsets/3756#osu/22538) |
 | `/reply`もしくは`/r` | 最後に受信したプライベートメッセージに返信する。 | `/r Do you know any good doctor?` | (At Amigo tab) \[Previous comments\] John: I am sick at home. Amigo: Really? John: Do you know any good doctor? |
 | `/savelog` | 現在のチャットタブをテキストファイルに保存します。 | `/savelog` | (A folder called "Chat" will be created at the osu! directory which will contain all the future chat tab saves) |

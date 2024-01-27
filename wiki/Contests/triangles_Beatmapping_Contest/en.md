@@ -8,7 +8,7 @@ Submissions to this contest include:
 
 - A triangle-themed beatmap spread...
   - of the song *[cYsmix](https://osu.ppy.sh/beatmaps/artists/2) - triangles*
-  - following the [ranking criteria](/wiki/Ranking_Criteria) 
+  - following the [ranking criteria](/wiki/Ranking_criteria)
   - with 5 difficulties total: Easy, Normal, Hard, Insane, and Expert
 - A triangle-themed storyboard with a `.osb` file under 1 MB.
 - A team of 2-5 participants.
@@ -85,9 +85,9 @@ Contest judging will be handled by two panels of mappers and storyboarders. Beca
 
 - Focused on mapping content
 - Prizes
-  - **Runner-up:** 3 months of osu!supporter 
+  - **Runner-up:** 3 months of osu!supporter
   - **Winner:**  6 months of osu!supporter + *Mappers' Pick* profile badge
-- Panelists: 
+- Panelists:
   - ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163)
   - ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549)
   - ::{ flag=CN }:: [Elayue](https://osu.ppy.sh/users/6400861)
@@ -104,7 +104,7 @@ Contest judging will be handled by two panels of mappers and storyboarders. Beca
 
 - Focused on storyboard content
 - Prizes
-  - **Runner-up:** 3 months of osu!supporter 
+  - **Runner-up:** 3 months of osu!supporter
   - **Winner:**  6 months of osu!supporter + *Storyboarders' Pick* profile badge
 - Panelists:
   - ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163)
@@ -149,7 +149,7 @@ Players are also eligible for prizes if they participate in the lazer playlists:
 - **Submission must be no greater than 10 MB.** While not required, we recommend designs that use simple shapes, keep resources to a minimum, and align with lazer's approach to UI design.
 - **Submission must be in `.osz` format.**
 - **Beatmaps must be in *osu!* game mode only.** Comparing beatmaps of different modes in a judging scenario is unfortunately not realistic.
-- **Beatmaps should abide by the [ranking criteria](/wiki/Ranking_Criteria).** While we can be forgiving for mistakes, submissions that could not be ranked without major changes will be disqualified.
+- **Beatmaps should abide by the [ranking criteria](/wiki/Ranking_criteria).** While we can be forgiving for mistakes, submissions that could not be ranked without major changes will be disqualified.
 - **Team name and members must be confirmed through [this form](https://docs.google.com/forms/d/e/1FAIpQLSeExd07kLYqp-Mx-lM7Wwxii_qidSUasAlMi3HUHUsdfVSUyg/viewform?usp=sf_link).**
   - If your country does not support Google Forms, [send pishifat a message](https://osu.ppy.sh/community/chat?sendto=3178418).
   - Teams must have 2-5 members.

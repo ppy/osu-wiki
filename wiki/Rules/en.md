@@ -36,7 +36,7 @@ These rules are the basis from which we help keep the osu! community a fun and w
 
 ## Beatmap submission rules
 
-*Note: These rules apply to **all submitted maps**, not just Ranked ones. For more specific rules regarding Ranked beatmaps, see the [Ranking Criteria](/wiki/Ranking_Criteria).*
+*Note: These rules apply to **all submitted maps**, not just Ranked ones. For more specific rules regarding Ranked beatmaps, see the [Ranking Criteria](/wiki/Ranking_criteria).*
 
 These rules apply strictly to beatmaps submitted via the in-game [Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission). These threads/discussions are created via the osu! client when a beatmap is submitted through the [editor](/wiki/Client/Beatmap_editor).
 

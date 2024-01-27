@@ -35,7 +35,7 @@ tags:
 
 *Catatan: Penggunaan dari semua mod xK akan diabaikan pada beatmap khusus untuk osu!mania. Menggunakan mod 1K, 2K, atau 3K akan menyebabkan sebuah unranked play.*
 
-xK adalah sebuah [game modifier](/wiki/Gameplay/Game_modifier) yang akan mengakibatkan semua [beatmap](/wiki/Beatmap) *converted* pada [osu!mania](/wiki/Game_mode/osu!mania) untuk menggunakan pengaturan K (key) yang dipilih. Mod ini akan mengabaikan jumlah key awal yang ditetapkan pada sebuah beatmap. Sebagai gantinya, mengurangi pengali skor tergantung dari perbedaan K tersebut. 
+xK adalah sebuah [game modifier](/wiki/Gameplay/Game_modifier) yang akan mengakibatkan semua [beatmap](/wiki/Beatmap) *converted* pada [osu!mania](/wiki/Game_mode/osu!mania) untuk menggunakan pengaturan K (key) yang dipilih. Mod ini akan mengabaikan jumlah key awal yang ditetapkan pada sebuah beatmap. Sebagai gantinya, mengurangi pengali skor tergantung dari perbedaan K tersebut.
 
 Daftar di bawah menjelaskan bagaimana pengali skor akan ditetapkan pada semua mod xK:
 

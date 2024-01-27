@@ -7,7 +7,7 @@ tags:
 
 # Approach rate
 
-*For suggested AR values, see: [Ranking criteria](/wiki/Ranking_Criteria)*
+*For suggested AR values, see: [Ranking criteria](/wiki/Ranking_criteria)*
 
 **Approach rate** (***AR***) is a [beatmap](/wiki/Beatmap) difficulty setting that defines when [hit objects](/wiki/Gameplay/Hit_object) start to fade in relative to when they should be hit or collected. It exists only in [osu!](/wiki/Game_mode/osu!) and [osu!catch](/wiki/Game_mode/osu!catch).
 

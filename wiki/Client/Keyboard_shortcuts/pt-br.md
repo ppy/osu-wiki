@@ -174,7 +174,7 @@ Esses atalhos funcionam em qualquer lugar do editor:
 | `F1` | Muda para o modo de [compose](/wiki/Client/Beatmap_editor/Compose). |
 | `F2` | Muda para o modo de [design](/wiki/Client/Beatmap_editor/Design). |
 | `F3` | Muda para o modo de [timing](/wiki/Client/Beatmap_editor/Timing). |
-| `F4` | Abre o diálogo de [song setup](/wiki/Client/Beatmap_editor/Song_Setup). |
+| `F4` | Abre o diálogo de [song setup](/wiki/Client/Beatmap_editor/Song_setup). |
 | `F5` | Entra o modo de teste. |
 | `F6` | Abre o diálogo de timing e control points. |
 | `Ctrl` + `P` | Adiciona um ponto de timing não-herdado no tempo atual. Se não estiver no modo de timing, isso também irá abrir o diálogo de timing e control points. |
@@ -265,7 +265,7 @@ Esses atalhos funcionam em qualquer lugar do editor:
 
 | Atalho | Ação |
 | :-- | :-- |
-| `Shift` + (`1`, `2`, `3`, `4`, `6`, or `8`) | Muda o [divisor de snap de beat](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) para 1/1, 1/2, 1/3, 1/4, 1/6, e 1/8 respectivamente. |
+| `Shift` + (`1`, `2`, `3`, `4`, `6`, or `8`) | Muda o [divisor de snap de beat](/wiki/Client/Beatmap_editor/Beat_snap_divisor) para 1/1, 1/2, 1/3, 1/4, 1/6, e 1/8 respectivamente. |
 | `Shift` (enquanto arrastando na timeline) | Ignora o snapping do divisor de snap de beat. |
 | `J` | Move a seleção para trás por 1 divisor. |
 | `K` | Move a seleção para frente por 1 divisor. |

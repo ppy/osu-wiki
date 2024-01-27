@@ -19,7 +19,7 @@ Sendo um jogo de ritmo, cada nível publicado por usuários em osu! é sincroniz
 
 Usuários podem pesquisar por e fazer download de níveis na [listagem de beatmaps](https://osu.ppy.sh/beatmapsets) inserindo o artista, título ou outras informações relevantes da música. A maior parte dos níveis baixados incluem a música, dados do nível criados pelo usuário, uma imagem de fundo, e efeitos sonoros de jogabilidade.
 
-Quando enviando níveis, os criadores são incentivados a receber permissão de uso para todos os ativos de detentores de direitos autorais relevantes de acordo com nossas [Diretrizes de Uso de Conteúdo](/wiki/Rules/Content_Usage_Guidelines).
+Quando enviando níveis, os criadores são incentivados a receber permissão de uso para todos os ativos de detentores de direitos autorais relevantes de acordo com nossas [Diretrizes de Uso de Conteúdo](/wiki/Rules/Content_usage_guidelines).
 
 ## Termo de licenciamento de Artistas em Destaque
 

@@ -10,7 +10,8 @@
 
 |  |  |
 | :-- | :-- |
-| Lien d'invitation | <https://discord.gg/8RJBXe8> |
+| Lien d'invitation | <https://discord.gg/osutaiko> |
+| Lien d'invitation alternatif | <https://discord.gg/8RJBXe8> |
 
 :::
 
@@ -28,12 +29,11 @@ Ce serveur est principalement composé de :
 
 | Rôle | Utilisateur (Identifiant Discord) |
 | :-- | :-- |
-| Propriétaire du serveur | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) (radar#0001) |
-| Mainteneur structurel | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) (Hivie#0859) |
-| Modérateurs du serveur | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) (Capu#4171), ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) (Dusk#8170), ::{ flag=IE }:: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) (solar#5193), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) (Hivie#0859), ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) (radar#0001), ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) (Yasuho#1512) |
+| Propriétaire du serveur | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) (@hivie) |
+| Modérateurs du serveur | ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) (@arcsine), ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) (@underscoredusk), ::{ flag=IE }:: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) (@hvnlymoon), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) (@hivie), ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) (@meiqth), ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) (@yasuho) |
 
 ## Vérification
 
 Afin d'accéder aux salons du serveur, les utilisateurs doivent confirmer leur identité avec leur compte osu! en utilisant [AxerBot](https://osu.ppy.sh/community/forums/topics/1604925).
 
-![Message d'authentification d'AxerBot](img/auth.jpg "En rejoignant le serveur, AxerBot invitera l'utilisateur à confirmer son identité avec son profil osu! en utilisant OAuth2.")
+![Message d'authentification d'AxerBot](img/auth.png "En rejoignant le serveur, AxerBot invitera l'utilisateur à confirmer son identité avec son profil osu! en utilisant OAuth2.")

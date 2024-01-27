@@ -1,0 +1,33 @@
+# For help translating this file, see https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-info.
+separator: ", "
+alumni:
+  roles:
+    academy: fondatore della osu!academy
+    admin: amministrazione
+    chat: Moderatore della Chat
+    dev: osu!dev
+    media: creazione di osu!media
+    support: Team di Supporto
+    tournaments: organizzazione tornei
+gmt:
+  all_mods: tutti i moderatori
+  areas:
+    beatmap: moderazione delle beatmap
+    chat: moderazione della chat
+    forum: moderazione del forum
+    team: presenza ufficiale del team
+    dev: sviluppo di osu!
+    player: supporto dei player
+    support: supporto tecnico
+    tournaments: organizzazione tornei
+    wiki: amministrazione della wiki
+    mapping: moderazione della community del mapping/modding
+    skinning: moderazione della community delle skin
+    leadership: dirigenza del team
+nat:
+  subgroups:
+    structural: strutturale
+    evaluation: valutazione
+    leadership: dirigenza
+languages:
+  partial: un po' di <language>

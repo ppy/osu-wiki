@@ -91,7 +91,7 @@ The **Korean Charting Contest 2021** (***KCC2021***) is an osu!mania mapping con
 - Submission must be finished by the contestant alone. No collaboration is allowed.
 - Submission must not be uploaded to the osu! website through the Beatmap Submission System (BSS). All contest submissions are anonymous during the judging phases to avoid bias.
 - Only one beatmap difficulty is allowed. If multiple difficulties are submitted, then the one with the highest star rating will be accepted.
-- Only Insane or higher difficulties are allowed. Please check the [difficulty-specific rules in the ranking criteria](/wiki/Ranking_Criteria/osu!mania#difficulty-specific).
+- Only Insane or higher difficulties are allowed. Please check the [difficulty-specific rules in the ranking criteria](/wiki/Ranking_criteria/osu!mania#difficulty-specific).
 - If you submit several maps, the last one will be your final entry.
 - Submitting entries means understanding and agreement to the ruleset above.
 

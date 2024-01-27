@@ -2,11 +2,13 @@
 tags:
   - development
   - osu!dev
+outdated_translation: true
+outdated_since: 9c41b7602528088d6eb4f88f37cef15d676e7827
 ---
 
 # osu! 디스코드 서버
 
-**osu!dev**로 알려져 있었던 **osu!** 디스코드 서버는 osu!의 개발 관련 작업을 위한 공식 [디스코드](https://discordapp.com) 서버입니다. 이 서버는 osu!의 오픈소스 및 커뮤니티 프로젝트를 토론하고 작업할 수 있는 허브 역할을 합니다. 또한 osu! 개발에 기여하고 [osu! 팀](/wiki/People/osu!_team)에게 연락할 수 있는 주요 장소입니다.
+**osu!dev**로 알려져 있었던 **osu!** 디스코드 서버는 osu!의 개발 관련 작업을 위한 공식 [디스코드](https://discord.com/) 서버입니다. 이 서버는 osu!의 오픈소스 및 커뮤니티 프로젝트를 토론하고 작업할 수 있는 허브 역할을 합니다. 또한 osu! 개발에 기여하고 [osu! 팀](/wiki/People/osu!_team)에게 연락할 수 있는 주요 장소입니다.
 
 서버의 공식 초대 링크는 <https://discord.gg/ppy>입니다.
 
@@ -21,7 +23,7 @@ osu! 디스코드 서버는 여러 채널이 있으며, 대부분 특정 프로�
 | 채널 | 설명 |
 | :-- | :-- |
 | `#welcome` | 서버 정보 |
-| `#introduction` | 자기소개 |
+| `#introductions` | 자기소개 |
 | `#general` | osu!와 관련된 일반적인 토론 및 문제 해결 |
 
 ### 클라이언트 / 웹

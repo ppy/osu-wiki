@@ -18,7 +18,7 @@ Perilaku bertentangan yang berkelanjutan dengan ekspektasi ini akan menjadi alas
 ## Etika
 
 - **Jangan mengikuti aturan atau amandemen yang belum selesai.**
-- **Patuhi [Aturan Komunitas osu!](/wiki/Rules) dan [Kode Etik Modding dan Mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping) setiap saat.** Sebagai seorang Beatmap Nominator, perilaku Anda harus menjadi contoh positif bagi anggota lainnya di komunitas. Melanggar Kode Etik dapat mengakibatkan Anda ditempatkan dalam masa percobaan sementara, atau kasus yang lebih parah, yaitu dikeluarkan dari Beatmap Nominator.
+- **Patuhi [Aturan Komunitas osu!](/wiki/Rules) dan [Kode Etik Modding dan Mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) setiap saat.** Sebagai seorang Beatmap Nominator, perilaku Anda harus menjadi contoh positif bagi anggota lainnya di komunitas. Melanggar Kode Etik dapat mengakibatkan Anda ditempatkan dalam masa percobaan sementara, atau kasus yang lebih parah, yaitu dikeluarkan dari Beatmap Nominator.
 - **Jangan ambil bagian atau berpartisipasi dalam komisi modding, ranking ATAU beatmapping berbayar.** Tidak boleh ada pertanyaan tentang legitimasi atau motif dari anggota "resmi" tim osu! (BN, NAT atau lainnya) yang terlibat dalam proses ranking.
 
 ## Aktivitas

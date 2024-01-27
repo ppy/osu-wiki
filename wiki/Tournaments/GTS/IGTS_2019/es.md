@@ -16,15 +16,15 @@ outdated_translation: true
 
 | Evento | Fechas |
 | --: | :-- |
-| Fase de Registro | 2019-05-11/2019-05-25 |
-| Stream de Apertura | 2019-06-02 (14:00 UTC) |
-| Fase de Grupos | 2019-06-08/2019-06-09 |
-| Octavos de Final | 2019-06-15/2019-06-22 |
-| Cuartos de Final | 2019-06-22/2019-06-23 |
-| Semifinales | 2019-06-29/2019-06-30 |
-| Finales | 2019-07-06/2019-07-07 |
-| Gran Finales | 2019-07-13/2019-07-14 |
-| All-Stars | 2019-07-13/2019-07-14 |
+| Fase de Registro | 11/5/2019 - 25/5/2019 |
+| Stream de Apertura | 2/6/2019 (14:00 UTC) |
+| Fase de Grupos | 8/6/2019 - 9/6/2019 |
+| Octavos de Final | 15/6/2019 - 22/6/2019 |
+| Cuartos de Final | 22/6/2019 - 23/6/2019 |
+| Semifinales | 29/6/2019 - 30/6/2019 |
+| Finales | 6/7/2019 - 7/7/2019 |
+| Gran Finales | 13/7/2019 - 14/7/2019 |
+| All-Stars | 13/7/2019 - 14/7/2019 |
 
 ## Premios
 
@@ -508,7 +508,7 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 
 1. Hay 6 etapas en este torneo: Fase de Grupos, Octavos de Final, Cuartos de final, Semifinales, Finales y Gran Finales.
 2. Los equipos serán separados por seeds. Las seeds son nivelaciones de equipos que, en este caso, dependiendo del promedio de ranking de los 2 jugadores con más rank del cada equipo, se asignan las siguientes seeds: Top seed, High Seed, Low seed y Unseeded (de mayor a menor).
-3. En caso de que hayan más de 32 equipos, los equipos con sólo 2 jugadores or los equipos secundarios de un país (low seeds), serán considerados primeros por eliminar. Aquellos cuyo promedio de rank entre los 2 jugadores top del equipo sean los menores no lograrán entrar en este caso.
+3. En caso de que hayan más de 32 equipos, los equipos con solo 2 jugadores or los equipos secundarios de un país (low seeds), serán considerados primeros por eliminar. Aquellos cuyo promedio de rank entre los 2 jugadores top del equipo sean los menores no lograrán entrar en este caso.
 4. Los equipos serán asignados en **8 grupos de 4 equipos** cada uno durante un livestream (comentado en inglés) que sucederá el Domingo 2 de junio.
 5. En la fase de grupos todos los equipos se enfrentarán a cada uno. Los **mejores 2 equipos del grupo** avanzarán a la siguiente etapa.
 6. Los rankings de cada grupo serán determinados por los resultados del rendimiento de cada equipo de la siguiente forma:
@@ -539,7 +539,7 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 2. Las partidas podrán suceder al mismo tiempo si hay un árbitro disponible.
 3. Trataremos de hacer los mejores horarios que estén de acuerdo con las zonas horarias. Estos saldrán una semana antes del comienzo de la etapa.
 4. Los cambios de horario serán considerados únicamente si ambos equipos están de acuerdo con ello. Todo cambio tendrá que ser notificado al staff del torneo antes de las **00:00 UTC de cada Jueves** durante la semana que tu partida se dará a cabo.
-5. Cambios de horario sólo deberán ser solicitados por el **capitán del equipo.**
+5. Cambios de horario solo deberán ser solicitados por el **capitán del equipo.**
 
 ### Regulaciones de partida
 
@@ -557,7 +557,7 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 12. El cambio de jugadores durante la partida está permitido sin ningún tipo de restricción y/o límite.
 13. Si un jugador se desconecta durante la partida y equipo no posee otro jugador para reemplazarlo, el máximo tiempo de espera es de 10 minutos.
 14. Si un jugador se desconecta durante un mapa, será considerado como si hubiese fallado el mismo.
-15. Las deconexiones que se den antes de pasar 30 segundos del mapa pueden ser re-jugadas. Esto sólo está permitido una vez por equipo.
+15. Las deconexiones que se den antes de pasar 30 segundos del mapa pueden ser re-jugadas. Esto solo está permitido una vez por equipo.
 16. Los puntajes fallidos no serán añadidos al puntaje de equipo.
 17. Si un mapa termina en empate, el juego será anulado y el mapa se volverá a jugar.
 18. En caso de empate (por ejemplo, ambos equipos llevan 4 mapas ganados en una partida de mejor de 9), el Tiebreaker será jugado.

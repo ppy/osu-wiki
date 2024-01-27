@@ -27,7 +27,7 @@ Many osu! elements base their timings around the current song's tempo:
 
 ## Beatmapping
 
-[Timing points](/wiki/Beatmapping/Timing_section) use a BPM and offset to allow [snapping](/wiki/Beatmapping/Snapping) [hit objects](/wiki/Gameplay/Hit_object) to the [timeline](/wiki/Client/Beatmap_editor/Timelines) when creating beatmaps. Timeline snapping ensures gameplay aligns with the beat.
+[Timing points](/wiki/Client/Beatmap_editor/Timing) use a BPM and offset to allow [snapping](/wiki/Beatmapping/Snapping) [hit objects](/wiki/Gameplay/Hit_object) to the [timeline](/wiki/Client/Beatmap_editor/Timelines) when creating beatmaps. Timeline snapping ensures gameplay aligns with the beat.
 
 The [timing tab](/wiki/Client/Beatmap_editor/Timing) of the [beatmap editor](/wiki/Client/Beatmap_editor) contains a BPM estimation tool, which calculates beatmap timing by tapping along with the song. The results obtained, however, usually require additional adjustment to be accurate.
 

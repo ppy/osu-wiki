@@ -41,7 +41,7 @@ Deze regels zijn de basis waarmee we ervoor zorgen dat de osu! community een leu
 
 ## Beatmap inzend regels
 
-*Opmerking: Deze regels zijn van toepassing op **alle ingezonden maps**, niet alleen ranked maps. Voor meer gedetailleerde regels bij het maken van een beatmap, bekijk de [Rang Criteria](/wiki/Ranking_Criteria).*
+*Opmerking: Deze regels zijn van toepassing op **alle ingezonden maps**, niet alleen ranked maps. Voor meer gedetailleerde regels bij het maken van een beatmap, bekijk de [Rang Criteria](/wiki/Ranking_criteria).*
 
 Deze regels zijn strikt van toepassing op beatmaps ingezonden via het in-game [Beatmap Inzend Systeem](/wiki/Beatmapping/Beatmap_submission). Deze threads/discussies worden gemaakt via het osu! programma wanneer een beatmap wordt ingezonden via de [editor](/wiki/Client/Beatmap_editor).
 

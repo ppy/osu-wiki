@@ -10,8 +10,8 @@ Apakah kamu seorang [Beatmap Nominator](/wiki/People/Beatmap_Nominators) *(BN)*,
 ## Tautan penting
 
 - [Peraturan Beatmap Nominator](/wiki/People/Beatmap_Nominators/Rules): Garis besar cara untuk melakukan berbagai tindakan, serta bagaimana cara untuk tidak melakukan sesuatu yang dapat melanggar ketentuan-ketentuan yang telah diberikan dalam situasi apa pun, jadi pastikan untuk membacanya dengan cermat! Kamu selalu dapat bertanya kepada seorang anggota dari [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) *(NAT)* jika kamu tidak yakin tentang sesuatu, dan mereka akan membantu kamu dengan senang hati.
-- [Kode Etik untuk Mapping dan Modding](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping): Sebagai seorang BN, kamu diharapkan dapat menjadi sosok yang patut dicontoh di dalam komunitas, menjadi seorang yang orang lain kagumi dan hormati, jadi perbuatan yang melanggar pengaturan dapat membuat kamu ditegur atau bahkan dikeluarkan.
-- [Ranking Criteria](/wiki/Ranking_Criteria): Jika kamu sudah menjadi seorang BN, kamu seharusnya sudah terbiasa dengan ini. Pada dasarnya, hal ini berfungsi untuk menjelaskan aspek mapping yang diperbolehkan dan tidak diperbolehkan di bagian Ranked, serta beberapa pedoman umum yang harus diikuti dalam kebanyakan kasus.
+- [Kode Etik untuk Mapping dan Modding](/wiki/Rules/Code_of_conduct_for_modding_and_mapping): Sebagai seorang BN, kamu diharapkan dapat menjadi sosok yang patut dicontoh di dalam komunitas, menjadi seorang yang orang lain kagumi dan hormati, jadi perbuatan yang melanggar pengaturan dapat membuat kamu ditegur atau bahkan dikeluarkan.
+- [Ranking Criteria](/wiki/Ranking_criteria): Jika kamu sudah menjadi seorang BN, kamu seharusnya sudah terbiasa dengan ini. Pada dasarnya, hal ini berfungsi untuk menjelaskan aspek mapping yang diperbolehkan dan tidak diperbolehkan di bagian Ranked, serta beberapa pedoman umum yang harus diikuti dalam kebanyakan kasus.
 - [Informasi Beatmap Veto](/wiki/People/Beatmap_Nominators/Beatmap_Veto): Untuk beatmap dengan masalah kualitas secara objektif yang sebetulnya tidak melanggar aturan dan pedoman dari Ranking Criteria, tetapi yang menurut kamu membuat beatmap tersebut tidak sesuai untuk bagian Ranked, beatmap veto memungkinkan kamu untuk menahan beatmap dari bagian Qualification.
 - [Mapset Verifier](https://osu.ppy.sh/community/forums/topics/943895): Sebuah alat yang dibuat oleh anggota NAT yaitu [Naxess](https://osu.ppy.sh/users/8129817). Alat ini memeriksa berbagai masalah unrankable, serta memiliki fitur snapshot agar lebih mudah dalam membandingkan versi map yang dapat bermanfaat saat pengecekan ulang. **Alat ini tidak boleh menggantikan kamu dalam pemeriksaan beatmap**, tetapi dapat digunakan sebagai alat untuk membantu memeriksa ulang sehingga tidak ada yang terlewat.
 
@@ -54,7 +54,7 @@ Full BN dapat melakukan Quality Assurance dengan mengecek masalah pada beatmap-b
 
 ### Peninjauan Konten
 
-Semua BN dapat berkontribusi ke dalam moderasi lagu dan gambar dengan mengirimkan konten untuk ditinjau atau diberikan suara pada konten tersebut. Proses pemungutan suara secara utuh dan bagaimana suara-suara tersebut dihitung dapat dibaca di [artikel proses pengkajian konten](/wiki/Rules/Content_Voting_Process).
+Semua BN dapat berkontribusi ke dalam moderasi lagu dan gambar dengan mengirimkan konten untuk ditinjau atau diberikan suara pada konten tersebut. Proses pemungutan suara secara utuh dan bagaimana suara-suara tersebut dihitung dapat dibaca di [artikel proses pengkajian konten](/wiki/Rules/Content_voting_process).
 
 ### Evaluasi Tiruan
 

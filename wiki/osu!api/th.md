@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 3e76c5b4ca5b874024d6234212525224fe5a8508
+---
+
 # osu!api
 
 osu! มี [API](https://en.wikipedia.org/wiki/API) สาธารณะให้ใช้สำหรับบริการ Third Party ต่างๆเพื่อที่จะขยายและสนับสนุน osu! เมื่อก่อนมันจะเป็น API ส่วนตัว ซึ่งสามารถใช้ได้เมื่อขอเท่านั้น แต่ตอนนี้ใครก็ได้สามารถใช้ได้ถ้าพวกเขามีบัญชี osu!

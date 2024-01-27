@@ -109,13 +109,9 @@ If your skin folder does not contain a `skin.ini` file, it will default to this 
 
 ### User
 
-**Not a version, but always force [latest](#latest)**
+This is not a version, but a special skin folder that is created when the default skin is modified, e.g. by dragging in a custom menu background into the game window (with [osu!supporter](/wiki/osu!supporter#extra-skinnable-elements)) or when attempting to modify osu!mania keybinds for the default skin from the options.
 
-- **Never** use this method when distribute skins!
-- The skin folder **must** be named `User`.
-- Use this method if you only want to change a few things (e.g. cursor or numbers, etc).
-- Does not require the `skin.ini` file.
-- This folder will always force `Version: latest`
+A skin in a folder named `User` will always use the latest skin version, regardless of any speification in `skin.ini` or otherwise.
 
 ## Notes
 
@@ -546,10 +542,9 @@ Keys: 5
   - Notes:
     - This is the hint for when the keys should be pressed.
 - `LightFramePerSecond:`
-  - Question: *unknown*
-  - Value: *unknown*
-  - Notes:
-    - May be obsolete.
+  - Question: How many frames should be displayed by the `StageLight` animation in one second?
+  - Value: *integer*
+  - Default: *unknown*
 - `SpecialStyle:`
   - Question: What SpecialStyle is used for this keycount if available?
   - Value: `0`, `1`, or `2`
@@ -576,12 +571,12 @@ Keys: 5
   - Notes:
     - This value is forced, if defined.
     - `0` = no splitting / forced SP
-    - Each keycount higher than 1 can be splitted (or merged, if count is higher than 9).
+    - Each keycount higher than 1 can be split (or merged, if count is higher than 9).
 - `StageSeparation:`
-  - Question: What distance should the 2 stages have when splitted?
+  - Question: What distance apart should the 2 stages be when split?
   - Value: *number*
   - Default: `40`
-  - Notes: The distance of the two stages, if split.
+  - Notes: The distance between the two stages, if split.
 - `SeparateScore:`
   - Question: Should the hitburst only be shown on the stage it was scored on?
   - Value: `0` or `1`

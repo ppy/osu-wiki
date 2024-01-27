@@ -7,7 +7,7 @@
 ![](img/fruit-catcher-idle.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 2.3+ | ![Ya][true] | ![Ya][true] | Normal | Atas | Lebar minimal: 302px |
 
 Catatan:
@@ -25,7 +25,7 @@ Catatan:
 ![](img/fruit-catcher-fail.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 2.3+ | ![Ya][true] | ![Ya][true] | Normal | Tengah | - |
 
 Catatan:
@@ -42,7 +42,7 @@ Catatan:
 ![](img/fruit-catcher-kiai.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 2.3+ | ![Ya][true] | ![Ya][true] | Normal | Tengah | - |
 
 Catatan:
@@ -59,7 +59,7 @@ Catatan:
 ![](img/fruit-ryuuta.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 2.2- | ![Ya][true] | ![Ya][true] (lihat catatan) | Normal | Tengah | - |
 
 Catatan:
@@ -75,7 +75,7 @@ Catatan:
 ![](img/comboburst-fruits.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 2.3+ | ![Tidak][false] (lihat catatan) | ![Ya][true] | Normal | Pojok kiri bawah | Tinggi maksimal:: 768px |
 
 Catatan:
@@ -94,7 +94,7 @@ Catatan:
 ![](img/lighting.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Tidak][false] | ![Ya][true] | Additive | Tengah | 100x100 |
 
 Catatan:
@@ -111,7 +111,7 @@ Catatan:
 ![](img/fruit-pear.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Tidak][false] | ![Ya][true] | Multiplicative | Tengah | 128x128 |
 
 Catatan:
@@ -127,7 +127,7 @@ Catatan:
 ![](img/fruit-pear-overlay.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Tidak][false] | ![Ya][true] | Normal | Tengah | 128x128 |
 
 Catatan:
@@ -141,7 +141,7 @@ Catatan:
 ![](img/fruit-grapes.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Tidak][false] | ![Ya][true] | Multiplicative | Tengah | 128x128 |
 
 Catatan:
@@ -157,7 +157,7 @@ Catatan:
 ![](img/fruit-grapes-overlay.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Tidak][false] | ![Ya][true] | Normal | Tengah | 128x128 |
 
 Catatan:
@@ -171,7 +171,7 @@ Catatan:
 ![](img/fruit-apple.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Tidak][false] | ![Ya][true] | Multiplicative | Tengah | 128x128 |
 
 Catatan:
@@ -187,7 +187,7 @@ Catatan:
 ![](img/fruit-apple-overlay.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Tidak][false] | ![Ya][true] | Normal | Tengah | 128x128 |
 
 Catatan:
@@ -201,7 +201,7 @@ Catatan:
 ![](img/fruit-orange.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Tidak][false] (see notes) | ![Ya][true] | Multiplicative | Tengah | 128x128 |
 
 Catatan:
@@ -222,7 +222,7 @@ Catatan:
 ![](img/fruit-orange-overlay.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Tidak][false] (see notes) | ![Ya][true] | Normal | Tengah | 128x128 |
 
 Catatan:
@@ -238,7 +238,7 @@ Catatan:
 ![](img/fruit-bananas.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Tidak][false] | ![Ya][true] | Multiplicative | Tengah | 128x128 |
 
 Catatan:
@@ -254,7 +254,7 @@ Catatan:
 ![](img/fruit-bananas-overlay.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Tidak][false] | ![Ya][true] | Normal | Tengah | 128x128 |
 
 Catatan:
@@ -268,7 +268,7 @@ Catatan:
 ![](img/fruit-drop.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Tidak][false] (see notes) | ![Ya][true] | Multiplicative | Tengah | 128x128 |
 
 Catatan:
@@ -283,7 +283,7 @@ Catatan:
 `fruit-drop-overlay.png`
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Tidak][false] | ![Ya][true] | Normal | Tengah | 128x128 |
 
 Catatan:

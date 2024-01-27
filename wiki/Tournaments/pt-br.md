@@ -12,8 +12,6 @@ Tornamentos oficiais sediados pela [Gerência de Torneios](https://osu.ppy.sh/gr
 
 ### ![](/wiki/shared/mode/osu.png) osu! World Cup
 
-osu! World Cup é um torneio de times (países) 4v4 VS seguindo a regra do mata-mata. É um evento internacional, normalmente feito de ano em ano, com participação das comunidades do osu! ao redor do mundo trabalhando juntas para criar um torneio de natureza competitiva.
-
 | Nome | Início | Fim | ![Gold Crown](/wiki/shared/crown-gold.png "1º Lugar") | ![Silver Crown](/wiki/shared/crown-silver.png "2º Lugar") | ![Bronze Crown](/wiki/shared/crown-bronze.png "3º Lugar") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu! World Cup #1](/wiki/Tournaments/OWC/1) | 31/01/2011 | 08/04/2011 | ::{ flag=TW }:: Taiwan | ::{ flag=NL }:: Holanda | ::{ flag=KR }:: Coréia do Sul |

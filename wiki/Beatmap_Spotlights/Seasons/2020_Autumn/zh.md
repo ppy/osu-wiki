@@ -31,8 +31,8 @@ tags:
 
 目前，加入每周多人游戏大厅需要使用 [osu!(lazer)](/wiki/Client/Release_stream/Lazer)。
 
-1. 每个大厅将持续开放一周
-2. 课题现已包含 Mod
+1. 每个大厅将持续开放一周。
+2. 课题现已包含 Mod。
    - 带 Mod 的谱面与无 Mod 的谱面相同，目的是为了给更有经验的玩家带来挑战性。
    - 由于 osu!(lazer) 的限制，osu!taiko 在本赛季为 NoMod。
 

@@ -20,7 +20,7 @@ no_native_review: true
 - 축약형: CM
 - 종류: 특별 모드
 - 점수 배수: 1.00x
-- 기본 단축키: `V` `V` 또는 `Shift`+`V` (또는 [비트맵](/wiki/Beatmap)을 선택할 때 `Ctrl`키를 누른 채로 `Shift`키를 누르기)
+- 기본 단축키: `V` `V` 또는 `Shift` + `V` (또는 [비트맵](/wiki/Beatmap)을 선택할 때 `Ctrl`키를 누른 채로 `Shift`키를 누르기)
 - CM을 사용할 수 있는 osu!의 장르: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ## 상세 설명

@@ -9,7 +9,7 @@ Para pengguna yang tertarik untuk bergabung dengan [Beatmap Nominator](/wiki/Peo
 
 Lamaran dilakukan di [situs NAT](http://bn.mappersguild.com/).
 
-Pelamar diwajibkan memenuhi persyaratan aktivitas modding, setidaknya mengirimkan dua map yang baru saja mereka mod, dan menyelesaikan [Tes Beatmap Nominator](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) tentang [Ranking Criteria](/wiki/Ranking_Criteria) untuk mengirimkan lamaran mereka. Pesan dari NAT akan dikirim apabila keputusan telah ditentukan. Informasi lebih lanjut tentang melamar dapat ditemukan di situs web.
+Pelamar diwajibkan memenuhi persyaratan aktivitas modding, setidaknya mengirimkan dua map yang baru saja mereka mod, dan menyelesaikan [Tes Beatmap Nominator](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) tentang [Ranking Criteria](/wiki/Ranking_criteria) untuk mengirimkan lamaran mereka. Pesan dari NAT akan dikirim apabila keputusan telah ditentukan. Informasi lebih lanjut tentang melamar dapat ditemukan di situs web.
 
 ## Kriteria dasar
 
@@ -58,8 +58,8 @@ Berikut ini adalah ciri-ciri modding yang diharapkan dari Beatmap Nominator. Keg
 
 - `Skor Mod` dari semua pelamar akan diperiksa kembali untuk mengonfirmasi apakah mereka sudah mencapai skor minimum yang dibutuhkan.
 - Modder yang memperoleh skor yang cukup akan dievaluasi oleh anggota NAT yang sesuai dengan mode permainan yang mereka ajukan, dengan mempertimbangkan kriteria berikut:
-  - Sikap secara umum: Pola dalam penyampaian mod dan ekspektasi perilaku lainnya berdasarkan [Kode Etik](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping), termasuk perilaku secara umum dalam obrolan/forum.
-  - Kemampuan modding: Pengetahuan tentang [Ranking Criteria](/wiki/Ranking_Criteria) secara umum dan secara spesifik dari setiap mode permainan. Kemampuan tambahan seperti Metadata, Timing, dan lain-lain juga akan dipertimbangkan.
+  - Sikap secara umum: Pola dalam penyampaian mod dan ekspektasi perilaku lainnya berdasarkan [Kode Etik](/wiki/Rules/Code_of_conduct_for_modding_and_mapping), termasuk perilaku secara umum dalam obrolan/forum.
+  - Kemampuan modding: Pengetahuan tentang [Ranking Criteria](/wiki/Ranking_criteria) secara umum dan secara spesifik dari setiap mode permainan. Kemampuan tambahan seperti Metadata, Timing, dan lain-lain juga akan dipertimbangkan.
 - Setelah mengevaluasi setiap modder, sebuah diskusi akan dilakukan untuk mengetahui apakah modder tersebut akan bergabung dengan Nominator Beatmap.
 
 ## Cooldown

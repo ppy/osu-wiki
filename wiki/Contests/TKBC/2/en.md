@@ -59,7 +59,7 @@ This competition has come to an end and resulted in the following podium:
 - You should choose a song which matches the theme.
 - The drain time should be higher than 80 and lower than 150.
 - The difficulty should be Oni or higher.
-- You must follow the [Ranking Criteria](/wiki/Ranking_Criteria).
+- You must follow the [Ranking Criteria](/wiki/Ranking_criteria).
 - If you submit several beatmaps, the last one will be your entry.
 - You should not reveal your map before the results announcement.
 - You can't submit a beatmap you have already uploaded.

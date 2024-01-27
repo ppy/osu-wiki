@@ -19,7 +19,7 @@
 
 ### 歌曲设置 (Song Setup)
 
-*主页面：[歌曲设置 (Song Setup)](/wiki/Client/Beatmap_editor/Song_Setup)*
+*主页面：[歌曲设置 (Song Setup)](/wiki/Client/Beatmap_editor/Song_setup)*
 
 当制作一张新[谱面](/wiki/Beatmap)时，你最先看到的就是这个对话框。
 

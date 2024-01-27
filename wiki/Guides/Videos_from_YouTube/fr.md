@@ -27,7 +27,7 @@ Ce tutoriel est destiné à ceux qui **ne peuvent pas** trouver la vidéo ailleu
 
 ```cmd
 youtube-dl -f bestvideo <video link>
-``` 
+```
 
 ![Télécharger des vidéos YouTube avec youtube-dl](img/example.jpg "Télécharger des vidéos YouTube avec youtube-dl")
 
@@ -35,4 +35,4 @@ youtube-dl -f bestvideo <video link>
 
 *Page principale : [Compression des fichiers](/wiki/Guides/Compressing_files)*
 
-Après avoir téléchargé la vidéo, vous pouvez la charger dans la beatmap comme vous le feriez normalement via l'[onglet design](/wiki/Client/Beatmap_editor/Design) dans l'[éditeur de beatmap](/wiki/Client/Beatmap_editor). Cependant, non seulement la vidéo contiendra des fichiers audio qui ne seront pas utilisées et prendront de la place supplémentaire, mais les [critères de classement](/wiki/Ranking_Criteria#vidéo-et-arrière-plan) de la beatmap interdisent les vidéos avec des fichiers audio car elles ne sont pas utilisées. Voir [compression des fichiers](/wiki/Guides/Compressing_files) pour savoir comment supprimer l'audio de la vidéo.
+Après avoir téléchargé la vidéo, vous pouvez la charger dans la beatmap comme vous le feriez normalement via l'[onglet design](/wiki/Client/Beatmap_editor/Design) dans l'[éditeur de beatmap](/wiki/Client/Beatmap_editor). Cependant, non seulement la vidéo contiendra des fichiers audio qui ne seront pas utilisées et prendront de la place supplémentaire, mais les [critères de classement](/wiki/Ranking_criteria#vidéo-et-arrière-plan) de la beatmap interdisent les vidéos avec des fichiers audio car elles ne sont pas utilisées. Voir [compression des fichiers](/wiki/Guides/Compressing_files) pour savoir comment supprimer l'audio de la vidéo.

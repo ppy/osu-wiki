@@ -45,6 +45,7 @@ The osu!mania 7K World Cup 2016 was run by various community members.
 | :-- | :-- |
 | Manager | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565), ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366), ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703), ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) |
 | Mappool selector | ::{ flag=PL }:: [-Kamikaze-](https://osu.ppy.sh/users/2124783), ::{ flag=GB }:: [Starry-](https://osu.ppy.sh/users/2166199) |
+| Mapper | ::{ flag=SG }:: [Evening](https://osu.ppy.sh/users/2193881) |
 | Streamer | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366), ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) |
 | Commentator | ::{ flag=US }:: [Azlynn](https://osu.ppy.sh/users/7016667), ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370), ::{ flag=SG }:: [DJNightmare](https://osu.ppy.sh/users/70909), ::{ flag=US }:: [Halogen-](https://osu.ppy.sh/users/169992), ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=US }:: [Zak](https://osu.ppy.sh/users/1375955), ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) |
 | Statistician | ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) |
@@ -204,7 +205,7 @@ The osu!mania 7K World Cup 2016 was run by various community members.
   4. [Kenji Ito - Re:Birth II - Last Battle (pporse) \[Hard\]](https://osu.ppy.sh/beatmapsets/274541#mania/627779)
   5. [Memme - China Dress (Tear) \[7K Expert\]](https://osu.ppy.sh/beatmapsets/137665#mania/344013)
   6. [Gotou Mai - Funwari Fuwari (shionelove) \[yoshilove's Uryu\~\]](https://osu.ppy.sh/beatmapsets/333217#mania/737488)
-  7. [Yooh - FIRE FIRE -DARK BLAZE REMIX- (Shinzo-) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/333217#mania/737488)
+  7. [Yooh - FIRE FIRE -DARK BLAZE REMIX- (Shinzo-) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/242368#mania/569712)
   8. [Igorrr - Unpleasant Sonata (Sieg) \[\[Shi-Ra\]'s Hell \[SC\]\]](https://osu.ppy.sh/beatmapsets/90385#mania/285394)
   9. [DJ'TEKINA//SOMETHING - Tou Chi Chen Secret Kakuranger TEKINA Remix (-Kamikaze-) \[Zenx's 7K Hard\]](https://osu.ppy.sh/beatmapsets/378669#mania/829079)
   10. [RAMM - Wonder Nanda? Kataomoi (Reikosaka) \[Maximum\]](https://osu.ppy.sh/beatmapsets/135599#mania/339653)
