@@ -8,7 +8,7 @@ VOCALOID lovers rejoice! The Vocaloid Mapping Contest returns bigger and better 
 
 ![](/wiki/Contests/VMC/2/img/banner.jpg)
 
-Yep, you heard right. **iroha(sasaki)**, the artist behind the legendary VOCALOID classic *Meltdown* featured in *many* classic osu! maps, is now a Featured Artist!
+Yep, you heard right. **iroha(sasaki)**, the artist behind the legendary VOCALOID classic *Meltdown* featured in *many* classic osu! maps, is now a Featured Artist (and the 400th one, no less)!
 
 *Meltdown* has already earned its place in osu!'s history with several popular Ranked maps, including [Diasios](https://osu.ppy.sh/users/25999)'s [early map of *Meltdown*](https://osu.ppy.sh/beatmapsets/9070#osu/36814) from 2009, [ertyukjh010](https://osu.ppy.sh/users/220939)'s [map and unique storyboard](https://osu.ppy.sh/beatmapsets/45672#osu/142590) from 2012, and even more recently [ohm002](https://osu.ppy.sh/users/4468239)'s [modern marathon](https://osu.ppy.sh/beatmapsets/1743736#osu/3564761) from 2022!
 
