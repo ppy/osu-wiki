@@ -136,7 +136,7 @@ Below we have selected 5 of iroha(sakaki)'s incredible works to you to pick from
 
 #### iroha(sasaki) - sigh (4:08 / ??? BPM)
 
-**Vocaloid Featured**: Kagamine Rin 
+**Vocaloid Featured**: Kagamine Rin
 
 **Lyricist**: iroha(sasaki)
 
