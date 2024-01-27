@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vocaloid Mapping Contest 2 & New Featured Artist: iroha(sasaki)"
-date: 2024-01-27 12:00:00 +0000
+date: 2024-01-28 12:00:00 +0000
 ---
 
 VOCALOID lovers rejoice! The Vocaloid Mapping Contest returns bigger and better than ever, featuring support for every game mode, an improved format, a bit of necromancy, and incredible music from our brand-new Featured Artist: **iroha(sasaki)**!
@@ -54,8 +54,8 @@ We're also revamping the format to ensure that each entry receives high-quality 
 
 | Event | Timestamp |
 | --: | :-- |
-| Announcement | 2024-01-27 |
-| Submission | 2024-01-27 to 2024-03-01 |
+| Announcement | 2024-01-28 |
+| Submission | 2024-01-28 to 2024-03-01 |
 | Screening\* | 2024-03-01 to 2024-03-08 |
 | Judging | 2024-03-08 to 2024-03-29 |
 | Results livestream | 2024-03-31 @ 18:00 UTC (tentative) |
