@@ -8,7 +8,7 @@ tags:
 
 ![VMC banner](/wiki/Contests/VMC/2/img/bannervmc.jpg)
 
-The **Vocaloid Mapping Contest** (***VMC***) is a beatmapping contest hosted by the Vocaloid Appreciation Team, and is all about promoting VOCALOID, UTAU, and other vocal synth songs and artists that have fallen through the cracks. Mappers were tasked with creating the best beatmap possible, and then having them judged by some of the most prominent VOCALOID mappers in the community. 
+The **Vocaloid Mapping Contest** (***VMC***) is a beatmapping contest hosted by the Vocaloid Appreciation Team, and is all about promoting VOCALOID, UTAU, and other vocal synth songs and artists that have fallen through the cracks. Mappers were tasked with creating the best beatmap possible, and then having them judged by some of the most prominent VOCALOID mappers in the community.
 
 This second iteration of the VMC featured a new VOCALOID Featured Artist, support for every game mode, and the return of a legendary VOCALOID mapper as a guest judge.
 
@@ -16,8 +16,8 @@ This second iteration of the VMC featured a new VOCALOID Featured Artist, suppor
 
 | Event | Timestamp |
 | --: | :-- |
-| Announcement | 2024-01-27 |
-| Submission | 2024-01-27 to 2024-03-01 |
+| Announcement | 2024-01-28 |
+| Submission | 2024-01-28 to 2024-03-01 |
 | Screening\* | 2024-03-01 to 2024-03-08 |
 | Judging | 2024-03-08 to 2024-03-29 |
 | Results livestream | 2024-03-31 @ 18:00 UTC (tentative) |
@@ -56,18 +56,19 @@ All participating mappers receive constructive feedback from experienced mappers
 - **Your submission must not have any edits to the `.osu` file that would not be possible through the editor.** This is not Aspire. You are permitted to change any difficulty settings, backgrounds, green lines, SV, hitsounds, etc.
 - **Your submission must have only one difficulty.**
 
-## Judges 
+## Judges
+
 | Game mode | Judge Names |
 | :-: | :-- |
 | osu! | ::{ flag=CN }:: [NatsumeRin](https://osu.ppy.sh/users/151679), ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323), ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909), ::{ flag=SV }:: [Natsu](https://osu.ppy.sh/users/1953876), ::{ flag=CA }:: [Shanipika](https://osu.ppy.sh/users/6336729), ::{ flag=NL }:: [Nyxa](https://osu.ppy.sh/users/3408126) |
-| osu!catch | ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134), ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776), ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114), ::{ flag=NL }:: [Chatie](https://osu.ppy.sh/users/6524765) | 
+| osu!catch | ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134), ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776), ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114), ::{ flag=NL }:: [Chatie](https://osu.ppy.sh/users/6524765) |
 | osu!taiko | ::{ flag=US }:: [Alchyr](https://osu.ppy.sh/users/4993032), ::{ flag=UK }:: [aceticke](https://osu.ppy.sh/users/8838763), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976), ::{ flag=US }:: [Lumenite-](https://osu.ppy.sh/users/6256027), ::{ flag=US }:: [Jonarwhal-](https://osu.ppy.sh/users/3653035) |
 | osu!mania | ::{ flag=AU }:: [Decku](https://osu.ppy.sh/users/13360768), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785), ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604), ::{ flag=DE }:: [BadDragon](https://osu.ppy.sh/users/6051688) |
 
 ## Judging criteria
 
 | Position | Points | Description |
-| :-: | :-: | :-: |
+| :-: | :-: | :-- |
 | Relevance | 30 |  How well does the map fit the song? Do the elements of the map match the elements of the song, and is the map fundamentally inseparable from the song it is paired with? |
 | Creativity | 25 | How unique and outstanding is the map and the elements within it compared to the current mapping meta? How well does it stand out from the crowd? Does it evoke a feeling of "wow!", "that's cool!", or "that's super interesting!"? Generic mapping that copies the current mapping meta or concepts from other famous maps is discouraged. |
 | Expertise | 20 | This refers to how well the map executes the elements it presents, encompassing the technical skills of the mapper, as well as the map's consistency, structure, and style. Judges will score this entry considering the overarching picture of the map, and will avoid nitpicking small details. |
@@ -81,9 +82,9 @@ Five (5) songs were selected by the staff from those provided by iroha(sasaki) f
 Please be sure to support iroha(sasaki).
 
 | Song | VOCALOID | Lyricist | Length | BPM | Template |
-| --: | :-: | :-: | :-: | :-: | :-: |
-| The Cuckoo Bird's Beautiful Youth | VY1 & Kagamine Rin | π | 5:18 | ??? | [.osz]() |
-| Shirley!! | Kagamine Rin | π  | 4:59 | ??? | [.osz]() |
-| Devolution | Kagamine Rin | kuma(alfred) | 4:26 | ??? | [.osz]() |
-| 14 (Miku ver.) | Hatsune Miku | π | 4:55 | ??? | [.osz]() |
-| sigh | Kagamine Rin  | iroha(sasaki) | 4:08 | ??? | [.osz]() |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| The Cuckoo Bird's Beautiful Youth | VY1 & Kagamine Rin | π | 5:18 | ??? | [.osz](LINK) |
+| Shirley!! | Kagamine Rin | π  | 4:59 | ??? | [.osz](LINK) |
+ Devolution | Kagamine Rin | kuma(alfred) | 4:26 | ??? | [.osz](LINK) |
+| 14 (Miku ver.) | Hatsune Miku | π | 4:55 | ??? | [.osz](LINK) |
+| sigh | Kagamine Rin  | iroha(sasaki) | 4:08 | ??? | [.osz](LINK) |
