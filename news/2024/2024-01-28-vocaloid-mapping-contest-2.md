@@ -46,6 +46,11 @@ We greatly appreciated the feedback we received regarding the last contest.
 
 We're happy to announce that this contest is open to all **osu!**, **osu!taiko**, **osu!catch**, and **osu!mania** mappers! Our dedicated judging panels for each game mode are looking forward to seeing your work.
 
+- [osu! contest listing](https://osu.ppy.sh/community/contests/199)
+- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/200)
+- [osu!catch contest listing](https://osu.ppy.sh/community/contests/201)
+- [osu!mania contest listing](https://osu.ppy.sh/community/contests/202)
+
 We're also revamping the format to ensure that each entry receives high-quality feedback that meets our standards. Instead of having our judging panel give scores and feedback for every entry, the **judging panel will only judge the top 10 entries**. A team of equally qualified mappers will serve as [screeners](/wiki/Contests/Monthly_Beatmapping_Contest#screening), and will filter submissions down to the 10 best maps.
 
 **Any entries eliminated by the team of screeners will still receive feedback**, but from the screening team instead of the judging panel. This way we can give everyone, from newer mappers to experienced mappers, tailored and valuable feedback and advice they can benefit from.
@@ -160,7 +165,12 @@ Below we have selected 5 of iroha(sakaki)'s incredible works to you to pick from
 
 ### Submission
 
-Once your beatmap is ready, head to the [**contest listing**](https://osu.ppy.sh/community/contests/???) to submit your map!
+Once your beatmap is ready, head to the relevant contest listing to submit your map:
+
+- [osu! contest listing](https://osu.ppy.sh/community/contests/199)
+- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/200)
+- [osu!catch contest listing](https://osu.ppy.sh/community/contests/201)
+- [osu!mania contest listing](https://osu.ppy.sh/community/contests/202)
 
 After the submission period closes, judging will begin. Find out more details about the judges and the judging criteria on the [contest's wiki page](/wiki/Contests/VMC/2).
 

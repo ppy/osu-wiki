@@ -37,12 +37,15 @@ All participating mappers receive constructive feedback from experienced mappers
 ## Links
 
 - [Announcement news post](https://osu.ppy.sh/home/news/)
-- [Contest listing](https://osu.ppy.sh/community/contests/)
+- [osu! contest listing](https://osu.ppy.sh/community/contests/199)
+- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/200)
+- [osu!catch contest listing](https://osu.ppy.sh/community/contests/201)
+- [osu!mania contest listing](https://osu.ppy.sh/community/contests/202)
 - [Discord server](https://discord.gg/EruvDHaReY)
 
 ## Ruleset
 
-- **Submissions must use one of the [selected songs](#songs).**
+- **Submissions must use one of the [selected songs](#songs).** Cut versions of the songs are not allowed.
 - **Submissions must be in `.osz` format.**
 - **Beatmaps should abide by the [ranking criteria](/wiki/Ranking_Criteria).** While we can be forgiving for mistakes (such as an accidental off-screen object), submissions that contain intentional unrankables (not due to simple error, such as sliderator) will be disqualified. Mappers will be notified if this occurs.
 - **Submissions must not be publicly revealed until after the results are announced.**
