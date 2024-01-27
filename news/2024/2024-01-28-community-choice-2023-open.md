@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Community Choice 2023: Voting Open"
-date: 2023-01-28 00:00:00 +0000
+date: 2024-01-28 00:00:00 +0000
 ---
 
 A new year dawns upon us, but let's take one last step back to crown the ten most-liked maps of 2023 today!
