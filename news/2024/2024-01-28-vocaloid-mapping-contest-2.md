@@ -76,7 +76,7 @@ What would VOCALOID be without its mascots? For a contest featuring **iroha(sasa
 | 2nd place | 2 months of osu!supporter, [*Elite Mapper* contest points](/wiki/Contests/Contest_points) |  |
 | 3rd place | 1 month of osu!supporter, [*Elite Mapper* contest points](/wiki/Contests/Contest_points) |  |
 
-\**Prize only for participants of the osu! game mode, due to it's one-of-a-kind nature.*
+\**Prize only for participants of the osu! game mode, due to its one-of-a-kind nature.*
 
 This contest is created by and for vocal synth fans to promote music, artists, and mappers. **All mappers who participate will receive constructive feedback from experienced mappers in the community.** That's arguably a more valuable prize in its own right!
 
