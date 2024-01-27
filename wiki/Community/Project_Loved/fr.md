@@ -27,7 +27,7 @@ Les créateurs de ces beatmaps peuvent également demander à ce qu'ils soient r
 
 Il y a quelques critères très minimes qui doivent être remplis pour que les beatmaps soient nominés pour la catégorie Loved. Chaque mode de jeu a ses propres critères pour la nomination et la priorité des beatmaps Loved, mais tous les modes suivent ces règles :
 
-- Il respecte les [règles de soumission de la beatmap](/wiki/Rules#beatmap-submission-rules)
+- Il respecte les [règles de mise en ligne des beatmaps](/wiki/Rules#règles-de-mise-en-ligne-des-beatmaps)
 - Il ne fait pas partie des catégories [Classé](/wiki/Beatmap/Category#ranked), [Approuvé](/wiki/Beatmap/Category#approved), ou [Qualifié](/wiki/Beatmap/Category#qualified)
 - Son créateur ne désapprouve pas le fait que sa beatmap soit dans la catégorie Loved.
   - Si l'un des contributeurs invités désapprouve le fait que sa partie soit Loved, sa partie sera exclue de Loved par des moyens appropriés. Dans certains cas, comme les [beatmaps collaboratives](/wiki/Beatmap/Beatmap_collaborations), cela peut rendre la beatmap entière inéligible pour Loved.
