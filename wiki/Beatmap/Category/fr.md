@@ -6,9 +6,9 @@ Les [beatmaps](/wiki/Beatmap) soumises en ligne sont réparties en catégories e
 
 ### Cimetière {id=graveyard}
 
-Le cimetière est un endroit où résident les beatmaps abandonnées par leurs [hôtes](/wiki/Beatmap/Beatmap_host). Ces beatmaps n'ont pas de classement, mais elles peuvent toujours être téléchargées et jouées, et elles continuent à [contribuer aux statistiques de jeu](#statistiques-des-beatmaps-non-classées). Elles utilisent l'icône de point d'interrogation (![](/wiki/shared/status/graveyard.png)) dans l'[écran de sélection des beatmaps](/wiki/Client/Interface#sélection-des-beatmaps).
+Le cimetière est un endroit où résident les beatmaps abandonnées par leurs [hôtes](/wiki/Beatmap/Beatmap_host). Ces beatmaps n'ont pas de classement, mais elles peuvent toujours être téléchargées et jouées, et elles continuent à [contribuer aux statistiques de jeu](#statistiques-des-beatmaps-non-classées). Elles utilisent l'icône de point d'interrogation (![](/wiki/shared/status/graveyard.png)) dans l'[écran de sélection des beatmaps](/wiki/Client/Interface#sélection-de-la-musique).
 
-Une beatmap est automatiquement déplacée au cimetière depuis les catégories [Work In Progress et En attente](#wip-and-pending) lorsqu'elle n'a pas été mise à jour depuis 4 semaines. L'auteur peut faire revivre la beatmap (c'est-à-dire la ramener dans la catégorie [en attente](#wip-and-pending)) en la mettant à jour via le [système de soumission des beatmaps](/wiki/Beatmapping/Beatmap_submission). Une beatmap au cimetière ne compte pas dans la [limite totale de publications](/wiki/osu!supporter#limites-plus-souples) d'un mappeur, mais la faire revivre nécessite un emplacement libre.
+Une beatmap est automatiquement déplacée au cimetière depuis les catégories [Work In Progress et En attente](#wip-and-pending) lorsqu'elle n'a pas été mise à jour depuis 4 semaines. L'auteur peut faire revivre la beatmap (c'est-à-dire la ramener dans la catégorie [en attente](#wip-and-pending)) en la mettant à jour via le [système de soumission des beatmaps](/wiki/Beatmapping/Beatmap_submission). Une beatmap au cimetière ne compte pas dans la [limite totale de publications](/wiki/osu!supporter#augmentation-des-limites) d'un mappeur, mais la faire revivre nécessite un emplacement libre.
 
 ### Work In Progress et En attente {id=wip-and-pending}
 

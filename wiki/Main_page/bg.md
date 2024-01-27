@@ -1,12 +1,12 @@
 ---
-outdated_translation: true
-outdated_since: 9b7428d718587f9fea31c773261ec4b724b52ac2
 layout: main_page
 no_native_review: true
 ---
 
+<!-- Do not add any empty lines inside this div. -->
+
 <div class="wiki-main-page__blurb">
-Добре дошли в уикипедията на osu!, проектът с отворен код който обхваща всичко свързано с играта osu! (следвай ритъма за да спечелиш).
+Добре дошли в уикипедията на osu!, библиотеката от познания с отворен код която обхваща всичко свързано с играта osu!, безплатна ритъм игра.
 </div>
 
 <div class="wiki-main-page__panels">
@@ -25,7 +25,7 @@ no_native_review: true
 
 # Клиент за игра
 
-Като ръководство в света на ритъм, такт и комбо, osu! има какво да представи. Разберете играта по-добре с опознаване на нейните настройки, възможности за персонализиране, технически детайли и файлов формат.
+Като ръководител в света на ритъм, такт и комбо, osu! има какво да представи. Разберете играта по-добре с опознаване на нейните настройки, възможности за персонализиране, технически детайли и файлов формат.
 
 [Интерфейс](/wiki/Client/Interface) • [Опции](/wiki/Client/Options) • [Визуални настройки](/wiki/Client/Interface/Visual_settings) • [Клавишни комбинации](/wiki/Client/Keyboard_shortcuts) • [Конфигурационен файл](/wiki/Client/Program_files/User_configuration_file) • [Програмни файлове](/wiki/Client/Program_files)
 
@@ -60,7 +60,7 @@ no_native_review: true
 
 # Изпращане на бийтмап и класиране
 
-Класирането е процес за получаване на потребителска класация, която повишава популярността на бийтмап и го прави отличим. Разкрийте какво е да се върви по стъпките на този процес, как се увеличават шансовете за успешно преминатo ревю, контрол на качеството и процес по класиране.
+Класирането е процес за получаване на потребителска класация, която повишава популярността на бийтмап и го прави отличим. Разкрийте какво е да се върви по стъпките на този процес, как се увеличават шансовете за успешно преминато ревю, контрол на качеството и процес по класиране.
 
 [Изпращане](/wiki/Beatmapping/Beatmap_submission) • [Редактиране](/wiki/Modding) • [Процедура за класиране](/wiki/Beatmap_ranking_procedure) • [Съюз на създателите](/wiki/Community/Mappers_Guild) • [Проект обичани](/wiki/Community/Project_Loved)
 
@@ -75,7 +75,7 @@ no_native_review: true
 
 [Правила](/wiki/Rules) • [Правила на поведение за сътрудници](/wiki/Rules/Contributor_code_of_conduct) • [Правила на поведение при създаване и редактиране](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
-Медийни регламенти: [Указания за употреба на медия](/wiki/Rules/Content_usage_guidelines) • [Explicit съдържание](/wiki/Rules/Explicit_content) • [Правила за музикално съдържание](/wiki/Rules/Song_content_rules) • [Съображения за визуално съдържание](/wiki/Rules/Visual_content_considerations)
+Медийни регламенти: [Указания за употреба на съдържание](/wiki/Rules/Content_usage_guidelines) • [Процес за одобряване на съдържание](/wiki/Rules/Content_voting_process) • [Explicit съдържание](/wiki/Rules/Explicit_content) • [Правила за музикално съдържание](/wiki/Rules/Song_content_rules) • [Съображения за визуално съдържание](/wiki/Rules/Visual_content_considerations)
 
 [Страници с условия](/wiki/Legal): [Условия за ползване](/wiki/Legal/Terms) • [Поверителност](/wiki/Legal/Privacy) • [Авторско право (DMCA)](/wiki/Legal/Copyright) • [Лицензирана музика](/wiki/Legal/Music_licensing)
 
@@ -99,9 +99,11 @@ no_native_review: true
 
 Социалните отношения са едно от основните неща, които запалват всички osu! играчи по света. Открийте активности и състезания, свържете се с останалите или помогнете за организиране на следващото голямо събитие.
 
+Общности: [Форум](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat) • [Дискорд сървъри](/wiki/Community/Discord_servers)
+
 [Турнири](/wiki/Tournaments) • [Бийтмап под прожекторите](/wiki/Beatmap_Spotlights) • [Състезания](/wiki/Contests) • [Възпитателна програма](/wiki/Community/Community_Mentorship_Program)
 
-[Проекти](/wiki/Community/Projects): [Представени автори](/wiki/People/Featured_Artists) • [osu! community meetings](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
+[Проекти](/wiki/Community/Projects) • [Съюз на създателите](/wiki/Community/Mappers_Guild) • [Проект обичани](/wiki/Community/Project_Loved) • [osu! обществени срещи](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
 Организатори: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -112,16 +114,16 @@ no_native_review: true
 
 osu! нямаше да съществува без всички потребители помагащи с разработка, поддръжка и управление на общност: техните усилия, време и решения поддържащи играта жива и просперираща.
 
-[Екип](/wiki/People/osu!_team): [Разработчици](/wiki/People/Developers) • [Глобален модераторси екип](/wiki/People/Global_Moderation_Team) • [Екип поддръжка](/wiki/People/Support_Team) • [Екип оценяващ номинатори](/wiki/People/Nomination_Assessment_Team) • [Бийтмап номинатори](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Екип на проект обичани](/wiki/People/Project_Loved_Team)
+[osu! екип](/wiki/People/osu!_team): [Разработчици](/wiki/People/Developers) • [Представени автори](/wiki/People/Featured_Artists) • [Глобален модераторски екип](/wiki/People/Global_Moderation_Team) • [Екип техническа поддръжка](/wiki/People/Technical_Support_Team) • [Екип оценяващ номинатори](/wiki/People/Nomination_Assessment_Team) • [Бийтмап номинатори](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Екип на проект обичани](/wiki/People/Project_Loved_Team) • [Водещи на бийтмап под прожекторите](/wiki/People/Beatmap_Spotlight_Curators)
 
-[Сътрудници на общност](/wiki/People/Community_Contributors) • [Потребители със специални титли](/wiki/People/Users_with_unique_titles)
+[Сътрудници на общност](/wiki/People/Community_Contributors) • [Елитни номинатори](/wiki/People/Elite_Nominators) • [Потребителска група](/wiki/People/User_group) • [Потребители със специални титли](/wiki/People/Users_with_unique_titles) • [Центуриони](/wiki/People/Centurions) • [Завършили](/wiki/People/Completionists) • [Турнирен комитет](/wiki/People/Tournament_Committee) • [Комитет на точки за представяне](/wiki/People/Performance_Points_Committee) • [osu! wiki поддръжка](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">
 
 # За разработчици
 
-Взаимодействай с osu! чрез други приложения и медии или помогнете за бъдещия растеж.
+Взаимодействайте с osu! чрез други приложения и медии или помогнете за бъдещия растеж.
 
 [API](/wiki/osu!api) • [Бот профил](/wiki/Bot_account) • [Указания за идентичност](/wiki/Brand_identity_guidelines) • [osu! дискорд сървър](/wiki/Community/osu!_Discord_server)
 
@@ -130,9 +132,9 @@ osu! нямаше да съществува без всички потребит
 
 # Уики и страници с метаданни
 
-Както почти всичко тук, уикипедията на osu! се пише и поддържа от доброволци. Предложете подобрение, докладвайте грешка, дори напишете своя собствена страница в [osu-wiki GitHub repository](https://github.com/ppy/osu-wiki "osu! Уики в GitHub").
+Както почти всичко тук, уикипедията на osu! се пише и поддържа от доброволци. Предложете подобрение, докладвайте грешка, дори напишете свой собствен артикул в [osu-wiki GitHub repository](https://github.com/ppy/osu-wiki).
 
-[История на osu!](/wiki/History_of_osu!) • [История на osu! уики](/wiki/History_of_osu!/osu!_wiki) • [Бийтмап създаване/редактиране - история](/wiki/History_of_osu!/Mapping_and_modding_timeline) • [Априлски шеги](/wiki/History_of_osu!/April_Fools)
+[История на osu!](/wiki/History_of_osu!) • [История на онлайн класиране](/wiki/History_of_osu!/Online_rankings) • [История на osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Бийтмап създаване/редактиране - история](/wiki/History_of_osu!/Mapping_and_modding_timeline) • [Априлски шеги](/wiki/History_of_osu!/April_Fools)
 
 [Карта на сайт](/wiki/Sitemap) • [Указания за принос](/wiki/osu!_wiki/Contribution_guide) • [Критерии за оформяне на страница](/wiki/Article_styling_criteria) • [Критерии за оформяне на новини](/wiki/News_styling_criteria)
 

@@ -2,15 +2,13 @@
 tags:
   - OWC
   - OWC2023
-outdated_translation: true
-outdated_since: bd8a6d1ee68acf4d0042096f211c2aad8386943d
 ---
 
 # osu! World Cup 2023
 
 ![OWC 2023 배너](img/owc2023-banner.jpg)
 
-**osu! 월드컵 2023** (***OWC 2023***)는 [osu! 팀](/wiki/People/osu!_team)이 주최하는 국가 기반 토너먼트입니다. 이것은 14번째 osu! 월드컵이기도 합니다.
+**osu! 월드컵 2023** (***OWC 2023***)는 [osu! 팀](/wiki/People/osu!_team)이 주최한 국가 기반 토너먼트입니다. 이것은 14번째 osu! 월드컵이기도 합니다.
 
 ## 토너먼트 일정
 
@@ -28,17 +26,19 @@ outdated_since: bd8a6d1ee68acf4d0042096f211c2aad8386943d
 
 ## 상품
 
-osu! 월드컵 2023은 최소 $5000의 상금과 한정판 굿즈가 제공됩니다.
+osu! 월드컵 2023은 총 $10000의 상금과 한정판 상품이 제공되었습니다.
 
 | 순위 | 상품 |
 | :-: | :-- |
-| ![금 왕관](/wiki/shared/crown-gold.png "1위") | 총상금의 48%, 단독적으로 제작되는 굿즈, 프로필 배지, 1년간의 **osu! Champion** 유저 타이틀을 제공합니다 |
-| ![은 왕관](/wiki/shared/crown-silver.png "2위") | 총상금의 32%, 단독적으로 제작되는 굿즈, 프로필 배지를 제공합니다 |
-| ![동 왕관](/wiki/shared/crown-bronze.png "3위") | 총상금의 20%, 단독적으로 제작되는 굿즈, 프로필 배지를 제공합니다 |
+| ![금 왕관](/wiki/shared/crown-gold.png "1위") | 총상금의 48%, 단독적으로 제작되는 상품, 프로필 배지, 1년간의 **osu! Champion** 유저 타이틀을 제공합니다 |
+| ![은 왕관](/wiki/shared/crown-silver.png "2위") | 총상금의 32%, 단독적으로 제작되는 상품, 프로필 배지를 제공합니다 |
+| ![동 왕관](/wiki/shared/crown-bronze.png "3위") | 총상금의 20%, 단독적으로 제작되는 상품, 프로필 배지를 제공합니다 |
+
+![](img/badge-1st.png "OWC 2023 우승 배지") ![](img/badge-2nd.png "OWC 2023 준우승 배지") ![](img/badge-3rd.png "OWC 2023 3위 배지")
 
 ## 조직
 
-osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커뮤니티 멤버들로 운영됩니다.
+osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커뮤니티 멤버들로 운영되었습니다.
 
 | 직책 | 멤버 |
 | :-- | :-- |
@@ -57,9 +57,8 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 - [주간 통계 스프레드시트](https://drive.google.com/drive/folders/1zsYCBrFdX1KU2YaCVBBSVrtoJp39306U)
 - [논의 스레드](https://osu.ppy.sh/community/forums/topics/1823846)
 - [실시간 방송](https://www.twitch.tv/osulive)
-- [Pick'em 승부예측 페이지](https://pickem.hwc.hr/tournaments/130) ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)가 운영합니다.
+- ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)가 운영한 [Pick'em 승부예측 페이지](https://pickem.hwc.hr/tournaments/130)
 - [Challonge 대진표](https://challonge.com/OWC_2023)
-- [팀 지원하기](https://osu.ppy.sh/store/products/1219)
 
 ## 참가자
 
@@ -127,20 +126,9 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 
 전체 플레이어 목록은 [여기서](https://gist.github.com/LeoFLT/82ef0eafde713e954f68a54e2fc161aa#file-owc-2023-player-list-csv) 볼 수 있습니다.
 
-## 매치 일정 : 그랜드 파이널
+## 시상대
 
-### 2023년 12월 2일 토요일
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| 오스트레일리아 ::{ flag=AU }:: | ::{ flag=US }:: 미국 | [Dec 2 (Sat) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231202T030000&p1=1440&p2=57&p3=263) | [osulive](https://twitch.tv/osulive) | [^lb-gf-match] |
-
-### 2023년 12월 3일 일요일
-
-| Team A | Team B | 매치 시간 | 트위치 생방송 |  |
-| --: | :-- | :-- | :-: | :-: |
-| 대한민국 ::{ flag=KR }:: | ::{ flag=US }:: 미국 | [Dec 3 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231203T040000&p1=1440&p2=235&p3=263) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
-| 대한민국 ::{ flag=KR }:: | ::{ flag=AU }:: 오스트레일리아 | [Dec 3 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231203T100000&p1=1440&p2=235&p3=57) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
+![](img/podium.jpg "OWC 2023 시상대")
 
 ## 맵풀 목록
 
@@ -342,19 +330,36 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 
 ## 경기 결과
 
+### 그랜드 파이널
+
+자세한 통계는 [여기](https://docs.google.com/spreadsheets/d/1Ri_80xlG-NsRDevg7wrYwUM6dgMnTqQR82xBd62NDwg?rm=minimal)에서 확인할 수 있습니다.
+
+2023년 12월 2일 토요일:
+
+| Team A |  |  | Team B | 경기 링크 | VOD 링크 |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| 오스트레일리아 ::{ flag=AU }:: | 1 | **7** | ::{ flag=US }:: **미국** | [#1](https://osu.ppy.sh/community/matches/111534249) | [#1](https://www.twitch.tv/videos/1992820454) |
+
+2023년 12월 3일 일요일:
+
+| Team A |  |  | Team B | 경기 링크 | VOD 링크 |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| 대한민국 ::{ flag=KR }:: | 5 | **7** | ::{ flag=US }:: **미국** | [#1](https://osu.ppy.sh/community/matches/111554331) | [#1](https://www.twitch.tv/videos/1993918275) |
+| **미국** ::{ flag=US }:: | **7** | 6 | ::{ flag=KR }:: 대한민국 | [#1](https://osu.ppy.sh/community/matches/111555364) | [#1](https://www.twitch.tv/videos/1993918275?t=01h34m44s) |
+
 ### 파이널
 
 자세한 통계는 [여기](https://docs.google.com/spreadsheets/d/1RAGg6zrInGE1ek8o2JLfHvSSqeI4Ad2-SfQ_nD32MH0?rm=minimal)에서 확인할 수 있습니다.
 
 2023년 11월 25일 토요일:
 
-| Team A |  |  | Team B | Match link | VOD link |
+| Team A |  |  | Team B | 경기 링크 | VOD 링크 |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | 캐나다 ::{ flag=CA }:: | 1 | **7** | ::{ flag=DE }:: **독일** | [#1](https://osu.ppy.sh/community/matches/111451190) | [#1](https://www.twitch.tv/videos/1987233069) |
 
 2023년 11월 26일 일요일:
 
-| Team A |  |  | Team B | Match link | VOD link |
+| Team A |  |  | Team B | 경기 링크 | VOD 링크 |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | 필리핀 ::{ flag=PH }:: | 3 | **7** | ::{ flag=US }:: **미국** | [#1](https://osu.ppy.sh/community/matches/111457054) | [#1](https://www.twitch.tv/videos/1987522035) |
 | **대한민국** ::{ flag=KR }:: | **7** | 3 | ::{ flag=AU }:: 오스트레일리아 | [#1](https://osu.ppy.sh/community/matches/111460173) | [#1](https://www.twitch.tv/videos/1987813835) |
@@ -695,7 +700,5 @@ osu! 월드컵 2023은 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 
 ## 노트
 
-[^lb-gf-match]: 그랜드 파이널 패자조 경기
-[^gf-match]: 패자조 경기 결과에 따라 달라지는 그랜드 파이널 경기입니다
-[^qualifiers-seeding]: 주된 시드 배정 방법으로 사용합니다
-[^qualifiers-tiebreaker]: 두 팀의 SUM 값이 동일할 경우 타이브레이커로 사용합니다
+[^qualifiers-seeding]: 주된 시드 배정 방법으로 사용합니다.
+[^qualifiers-tiebreaker]: 두 팀의 SUM 값이 동일할 경우 타이브레이커로 사용합니다.

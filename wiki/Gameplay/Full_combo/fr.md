@@ -2,16 +2,15 @@
 stub: true
 tags:
   - FC
-outdated_translation: true
-outdated_since: a60c43d582052f143b0e97e1494041cc3b8bd5b7
+no_native_review: true
 ---
 
-# Full combo
+# Combo complet
 
-Le **full combo** (abrégé en *FC*) est un terme utilisé pour décrire un joueur obtenant le maximum de [combo](/wiki/Beatmapping/Combo) possible sur une [beatmap](/wiki/Beatmap). Un joueur obtient un *FC* si celui-ci complète une beatmap sans aucun miss, [sliderbreak](/wiki/Gameplay/Judgement/Slider_break), ni [slider-end](/wiki/Gameplay/Hit_object/Slider/Slidertail) raté.
+Le **combo complet** (ou *FC* en abrégé) est un terme utilisé pour décrire un joueur obtenant le maximum possible de [combo](/wiki/Beatmapping/Combo) sur une [beatmap](/wiki/Beatmap). Les combos complets sont obtenus en passant une beatmap sans aucun miss, [sliderbreaks](/wiki/Gameplay/Judgement/Slider_break), ou [slider ends](/wiki/Gameplay/Hit_object/Slider/Slidertail).
 
-La communauté considère généralement les scores où le joueur n'a pas obtenu de *full combo* suite à un slider-end raté comme un *full combo* malgré tout. Cependant, sur le client ainsi que sur le site web du jeu, le score ne sera pas affiché comme tel.
+Les scores qui ont perdu le combo uniquement via les fins de slider tombées sont largement considérés par la communauté comme des combos complets. Cela diffère de l'affichage du client et du site web.
 
-![Capture d'écran des scores de full combo et de combo brisé](img/combo-comparison.png "Le score du dessus est un full combo, et le score du dessous est un combo cassé.")
+![Capture d'écran des scores des combos complets et des combos rompus](img/combo-comparison.png "Le score le plus élevé correspond à un combo complet, et le score le plus bas à un combo rompu.")
 
-Grâce à l'[effet multiplicateur de combo](/wiki/Gameplay/Combo_multiplier_effect), les full combos rapportent le plus de [score](/wiki/Gameplay/Score) dans les [modes de jeu](/wiki/Game_mode) [osu!standard](/wiki/Game_mode/osu!), [osu!taiko](/wiki/Game_mode/osu!taiko), et [osu!catch](/wiki/Game_mode/osu!catch).
+Comme le [score](/wiki/Gameplay/Score) d'un objet individuel dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/Game_mode/osu!catch) dépend fortement du multiplicateur de combo et n'est pratiquement pas limité, les combos complets rapportent généralement le plus de points dans ces modes de jeu.

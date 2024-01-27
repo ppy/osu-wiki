@@ -1,8 +1,3 @@
----
-outdated_since: a4d5824d480a899dd65696033cb740e6ccf47bf5
-outdated_translation: true
----
-
 # Juego
 
 - [Precisión](/wiki/Gameplay/Accuracy)
@@ -29,7 +24,8 @@ outdated_translation: true
 - [Repetición](/wiki/Gameplay/Replay)
 - [Puntuación](/wiki/Gameplay/Score)
 - [Slider break](/wiki/Gameplay/Judgement/Slider_break)
-- [Espectar](/wiki/Gameplay/Spectating)
+- [Observar](/wiki/Gameplay/Spectating)
 - [Spinner trap](/wiki/Gameplay/Spinner_trap)
 - [Cubierta de tableta](/wiki/Gameplay/Tablet_cover)
+- [Tasa inestable](Unstable_rate)
 - [Walk](/wiki/Gameplay/Walk)

@@ -23,8 +23,13 @@ Cet ensemble de **critères de classement d'osu!mania** définit les [règles et
 ### Termes courants
 
 - **BPM** : Le tempo d'une musique mesuré en battements par minute.
-- **Colonne** : Lignes verticales sur le terrain de jeu où les notes sont placées. L'éditeur utilise `0|1|2|3|4|5|6|7|8|9` pour les étiquettes d'horodatage.
+- **Colonne** : Couloirs verticaux de [l'écran de jeu](/wiki/Game_mode/osu!mania#écran-de-jeu) où les notes sont placées. Notez que les [timestamps de l'éditeur](/wiki/Modding/Timestamp) se réfèrent aux colonnes par leur position à l'index zéro en partant de la gauche.
 - **Key mode** : Le nombre de colonnes présentes dans une difficulté.
+- **Style de jeu** : Style prévu par un mappeur pour les [raccourcis clavier](/wiki/Game_mode/osu!mania#contrôles) ou les positions des mains utilisées pour jouer une difficulté.
+- **Style de jeu standard**: Le style de jeu le plus courant pour les nombres de touches inférieurs ou égaux à 10, où aucune colonne n'a d'importance particulière et où le joueur est censé contrôler chaque touche avec un doigt unique.
+ - Exemples de styles de jeu standard : 4K, 7K, 10K
+ - Exemples de styles de jeu non standard : 7K+1, 10K2S, 14K DP
+- **Style de jeu N+1** : Un type spécifique de style de jeu dans lequel la colonne la plus à gauche est mappée indépendamment du reste des colonnes, qui forment autrement un style de jeu standard.
 - **Keysounding** : Hitsounding utilisant des échantillons extrêmement similaires ou directement issus de la musique à leurs places respectives. Cette méthode de hitsounding offre généralement un faible retour d'information au joueur.
 - **Vitesse du slider** : La vitesse à laquelle les lignes de notes/barres se déplacent sur le terrain de jeu. La vitesse de base du slider (1,0x) est basée sur la vitesse de défilement de l'utilisateur, et des modifications supplémentaires peuvent être apportées par le biais des points de timing hérités (verts).
 - **Long-term slider velocity** : Un changement de vitesse du slider durant plus de 4 mesures.
@@ -62,13 +67,15 @@ Les règles et directives générales s'appliquent à toutes les difficultés d'
 - **Il n'est pas possible de placer deux notes dans une même colonne au même moment.**
 - **Aucune colonne ne doit rester vide.** Si vous souhaitez utiliser moins de touches, modifiez le nombre de touches dans l'onglet Song Setup.
 - **Il ne doit pas y avoir plus de 6 notes frappées à un moment donné dans les difficultés Insane ou inférieures.** L'utilisation de plus de 6 notes doit également suivre un spread raisonnable jusqu'à la difficulté inférieure suivante. Cette règle ne s'applique pas aux fins de notes longues, car elles sont relâchées et non frappées.
-- **Les beatmaps ne peuvent utiliser que 4 à 10 touches.** Tout autre élément n'est pas pris en charge par la section Classée.
-- **Si plusieurs key modes sont présents dans une seule beatmap, le key mode doit être indiqué dans tous les noms de difficultés. Dans le cas contraire, il doit pas être indiqué.**
-- **Les beatmaps utilisant le style spécial de mapping N+1 doivent être identifiés comme tels dans l'onglet `Avancée` de l'onglet song setup dans l'éditeur et "N+1" doit être ajouté aux tags. Pour les beatmaps contenant plusieurs key modes, les difficultés utilisant ce style doivent être indiquées en utilisant la notation N+1 (par exemple en utilisant 7K+1 au lieu de 8K sur les noms de difficultés).**
-- **Si le [drain time](/wiki/Beatmap/Drain_time) de chaque difficulté est...**
-  - **...inférieur à 2:30**, la difficulté la plus basse de chaque key mode inclus ne peut pas être plus difficile qu'un Normal, **OU** chaque key mode doit fournir un spread correcte[^spread-approprié] contenant au moins 4 difficultés au total.
-  - **...entre 2:30 et 3:15**, la difficulté la plus basse de chaque key mode inclus ne peut pas être plus difficile qu'un Hard, **OU** chaque key mode doit fournir un spread correcte[^spread-approprié] contenant au moins 3 difficultés au total.
-  - **...entre 3:15 et 4:00**, la difficulté la plus basse de chaque key mode inclus ne peut pas être plus difficile qu'un Insane, **OU** chaque key mode doit fournir un spread correcte[^spread-approprié] contenant au moins 2 difficultés au total.
+- **Les beatmaps ne peuvent utiliser que 4 à 10, 12, 14, 16 ou 18 touches.**
+  - **Pour les nombres de touches supérieurs à 10, le [style de jeu](#termes-courants) doit être [10K2S](/wiki/Beatmapping/osu!mania_10K_plus_playstyles#10K2S), [DP](/wiki/Beatmapping/osu!mania_10K_plus_playstyles#DP), [EZ2AC](/wiki/Beatmapping/osu!mania_10K_plus_playstyles#EZ2AC), [10K8K](/wiki/Beatmapping/osu!mania_10K_plus_playstyles#10K8K), ou [9K9K](/wiki/Beatmapping/osu!mania_10K_plus_playstyles#9K9K).**
+- **Si la beatmap comprend un nombre de touches supérieur à 10, ou plusieurs [key modes](#termes-courants) ou [style de jeu](#termes-courants), le nom de chaque difficulté doit indiquer son keymode ou son style de jeu. Dans le cas contraire, tous les noms de difficultés ne doivent pas indiquer de key mode ou de style de jeu.**
+- **Chaque style de jeu non [standard](#termes-courants) présent dans une beatmap doit être indiqué dans les tags de la beatmap.**
+- **Les difficultés utilisant un [style de jeu N+1](#termes-courants) doivent activer l'option `Use special style (N+1 style) for mania` sous la section `Advanced` de l'onglet `Song Setup`. La beatmap doit également inclure le tag "N+1".** Aux fins de la présente règle, seuls les styles de jeu dont le nombre de touches est inférieur à 10 peuvent être considérés comme "N+1".[^n-plus-1]
+- **Si le [drain time](/wiki/Beatmap/Drain_time) d'une difficulté est...**
+  - **...inférieur à 2:30**, chaque [key mode](#termes-courants) et [style de jeu](#termes-courants) doit soit inclure une difficulté Normal ou inférieur, soit fournir une répartition correcte[^répartition-correcte] contenant au moins 4 difficultés.
+  - **...entre 2:30 et 3:15**, chaque [key mode](#termes-courants) et [style de jeu](#termes-courants) doit soit inclure une difficulté Hard ou inférieur, soit fournir une répartition correcte[^répartition-correcte] contenant au moins 3 difficultés.
+  - **...entre 3:15 et 4:00**, chaque [key mode](#termes-courants) et [style de jeu](#termes-courants) doit soit inclure une difficulté Insane ou inférieur, soit fournir une répartition correcte[^répartition-correcte] contenant au moins 2 difficultés.
 
 ### Directives
 
@@ -90,7 +97,7 @@ Les règles et directives générales s'appliquent à toutes les difficultés d'
 
 Les règles et directives spécifiques aux difficultés ne s'appliquent qu'au niveau de difficulté pour lequel elles sont listées et donc *ne s'appliquent pas à **toutes** les difficultés d'osu!mania*. Les règles et directives relatives au rythme s'appliquent à des beatmaps d'environ 180 BPM. Si votre musique est beaucoup plus rapide ou lente, certaines variables peuvent être différentes, comme indiqué dans l'article [mise à l'échelle du BPM sur les critères de classement](/wiki/Ranking_criteria/Scaling_BPM).
 
-*Les directrices spécifiques aux key modes sont élaborées sur la base des key modes sont classés les plus courants (4 keys et 7 keys). Tous les autres modes doivent appliquer ces directrices lorsqu'elles sont applicables.*
+*Les directrices spécifiques aux [keys modes](#termes-courants) sont élaborées sur la base des key modes sont classés les plus courants (4 keys et 7 keys). Tous les autres modes ou [styles de jeux](#termes-courants) doivent appliquer ces directrices lorsqu'elles sont applicables.*
 
 ### ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 
@@ -209,4 +216,5 @@ Directives supplémentaires pour les difficultés *7 keys Insane* :
 
 ## Notes
 
-[^spread-approprié]: Une répartition "correcte" *pour les difficultés Insane et plus difficile* est définie comme une répartition avec des écarts de difficultés similaires à ceux entre les [niveaux de difficulté](/wiki/Beatmap/Difficulty#niveaux-de-difficulté) inférieurs, comme spécifié dans les [critères spécifiques à la difficulté](#spécifique-à-une-difficulté).
+[^n-plus-1]: Le paramètre "N+1" n'a actuellement aucune fonction et n'est réglementé dans les critères de classement que pour les cas d'utilisation futurs. On ne sait pas encore comment le nombre de touches 10 ou plus sera traité par ce paramètre ; pour l'instant, il ne doit donc pas être activé dans ces cas.
+[^répartition-correcte]: Une répartition "correcte" *pour les difficultés Insane et plus difficile* est définie comme une répartition avec des écarts de difficultés similaires à ceux entre les [niveaux de difficulté](/wiki/Beatmap/Difficulty#niveaux-de-difficulté) inférieurs, comme spécifié dans les [critères spécifiques à la difficulté](#spécifique-à-une-difficulté).

@@ -1,49 +1,53 @@
 ---
-outdated_translation: true
-outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
+no_native_review: true
 ---
 
 # Équipe de support aux comptes
 
-*Pour l'équipe qui modère certains sous-forums, voir : [Équipe du support](/wiki/People/Support_Team)*
+*Pour une équipe qui modère certains sous-forums, voir : [Équipe de support technique](/wiki/People/Technical_Support_Team)*
 
-L'**équipe de support aux comptes** est un groupe d'utilisateurs administrant les comptes utilisateurs et les demandes concernant les silences et les restrictions.
+**L'équipe de support aux comptes** est un groupe de personnes qui administre les comptes d'utilisateurs, et qui accepte les appels de silence et de restriction.
 
-## Contacter l'équipe
+## Points de contact
 
-Le **seul** moyen de contacter cette équipe est d'envoyer un mail à [support@ppy.sh](mailto:support@ppy.sh), [accounts@ppy.sh](mailto:accounts@ppy.sh), ou [privacy@ppy.sh](mailto:privacy@ppy.sh). L'identité des membres de cette équipe est gardée secrète afin de leur éviter une attention indésirable.
+L'équipe peut **uniquement** être contactée en envoyant un courrier à [accounts@ppy.sh](mailto:accounts@ppy.sh), [support@ppy.sh](mailto:support@ppy.sh), [privacy@ppy.sh](mailto:privacy@ppy.sh), ou [tournaments@ppy.sh](mailto:tournaments@ppy.sh). L'identité de ses membres est gardée secrète afin de les protéger de toute influence indésirable.
 
-Cela prend habituellement quelques jours avant que l'équipe prête attention à votre mail. Si vous ne recevez pas de réponse en moins d'une semaine, vous pouvez renvoyer un message sous le premier.
+Il faut généralement quelques jours pour que le service de support réponde à votre courriel. Si vous n'obtenez pas de réponse dans la semaine qui suit, cela vaut la peine d'envoyer un message de relance à ce sujet.
 
-## Rôle et tâches
+## Rôle et missions
 
-*Page principale : [Centre d'aide](/wiki/Help_centre)*\
-*Voir également : [Restriction de comptes](/wiki/Help_centre/Account_restrictions)*
+*Article principal : [Centre d'aide](/wiki/Help_centre)*\
+*Voir également : [Restrictions relatives aux comptes](/wiki/Help_centre/Account_restrictions)*
 
-Vous devriez contacter cette équipe pour les sujets concernant votre compte qui sont hors de votre contrôle. Veuillez fournir le plus de détails possible sur votre problème et envoyer un mail à l'adresse associée à votre problème.
+Vous devez contacter cette équipe pour toute question relative à votre compte et indépendante de votre volonté. N'oubliez pas de fournir le plus de détails possible sur votre problème et d'envoyer un courriel à partir de l'adresse associée à votre compte osu!.
 
 ### [accounts@ppy.sh](mailto:accounts@ppy.sh)
 
-- [Appel concernant les restrictions placées sur votre compte](/wiki/Help_centre/Account_restrictions), incluant :
-  - Les silences;
-  - Les suppressions de contenu du profil;
-  - Les suppressions de beatmaps;
-  - Les suppressions de posts sur le forum et commentaires.
-- De la mauvaise conduite que vous [souhaitez avouer](/wiki/Reporting_bad_behaviour/Handling_foul_play#que-puis-je-faire-si-j'ai-enfreint-les-règles-?).
-- [Perte d'accès à l'email](/wiki/Help_centre/Account#sign-in) attaché à votre compte osu!, ou lorsque votre compte a été volé.
-- [Rétablissement d'anciens pseudos et corrections de fautes mineures dans votre pseudo](/wiki/Help_centre/Account#name-changes).
-- [Inscriptions de comptes bot](/wiki/Bot_account).
+- [Appel des restrictions imposées à votre compte](/wiki/Help_centre/Account_restrictions), notamment :
+  - les silences;
+  - la suppression du contenu de votre profil;
+  - la suppression de vos beatmaps;
+  - la suppression des messages et des commentaires sur les forums.
+- Les cas de mauvaise conduite que vous [souhaitez admettre](/wiki/Reporting_bad_behaviour/Handling_foul_play#que-puis-je-faire-si-j'ai-enfreint-les-règles-?).
+- La [perte d'accès à votre email](/wiki/Help_centre/Account#s'inscrire) lié à votre compte osu!, ou le vol de votre compte.
+- [Modifications mineures ou corrections orthographiques de votre nom d'utilisateurs](/wiki/Help_centre/Account#changement-nom-d'utilisateur).
+- [Inscription au programme de comptes robots](/wiki/Bot_account).
+- Demandes d'accès à la [fonctionnalité des messages d'annonce](/wiki/Announcement_messages).
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 
-*Remarque : Pour signaler un cas extrême de mauvaise conduite ou d'abus sexuel de n'importe quel utilisateur (modérateur inclus), voir : [Signaler un abus](/wiki/Reporting_bad_behaviour/Abuse).*
+*Note : Pour signaler un cas extrême de mauvais comportement ou d'abus sexuel de la part d'un utilisateur, y compris un modérateur, voir : [signaler un abus](/wiki/Reporting_bad_behaviour/Abuse).*
 
-- Préoccupations concernant la mauvaise conduite d'un modérateur.
-- Préoccupations concernant un modérateur brisant [le Code de conduite du contributeur](/wiki/Rules/Contributor_code_of_conduct).
-- [Problèmes de paiement](/wiki/Help_centre/Account#supporter) pour les commandes concernant l'[osu!store](https://osu.ppy.sh/store/listing).
-- Problèmes techniques n'ayant pas pu être résolus dans le [forum d'aide](https://osu.ppy.sh/community/forums/5), tels que les [problèmes de connectivité](/wiki/Help_centre/Client#online-features).
+- Préoccupations concernant le mauvais comportement d'un modérateur.
+- Préoccupations concernant un modérateur qui enfreint [le code de conduite des contributeurs](/wiki/Rules/Contributor_code_of_conduct).
+- [Problèmes de paiement](/wiki/Help_centre/Account#supporter) pour les commandes sur [l'osu!store](https://osu.ppy.sh/store/listing).
+- Les problèmes techniques qui n'ont pas pu ou n'ont pas été résolus dans [le forum Help](https://osu.ppy.sh/community/forums/5), tels que [les problèmes de connexion](/wiki/Help_centre/Client#online-features).
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
-- [Demandes de données](/wiki/Legal/Privacy#contrôleur-des-données) et problèmes de confidentialité.
-- [Requêtes de suppression de compte](/wiki/Legal/Privacy#vos-droits-et-votre-contrôle) **permanente**.
+- [Les demandes de données](/wiki/Legal/Privacy#contrôleur-des-données) et les préoccupations en matière de protection de la vie privée.
+- [les demandes de suppression de compte](/wiki/Legal/Privacy#vos-droits-et-votre-contrôle). **Permanent** 
+
+### [tournaments@ppy.sh](mailto:tournaments@ppy.sh)
+
+- Les demandes de [support officiel aux tournois](/wiki/Tournaments/Official_support) et les questions générales sur les tournois en consultation avec le [comité des tournois](/wiki/People/Tournament_Committee).
