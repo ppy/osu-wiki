@@ -36,7 +36,7 @@ All participating mappers receive constructive feedback from experienced mappers
 
 ## Links
 
-- [Announcement news post](https://osu.ppy.sh/home/news/)
+- [Announcement news post](https://osu.ppy.sh/home/news/2024-01-28-vocaloid-mapping-contest-2)
 - [osu! contest listing](https://osu.ppy.sh/community/contests/199)
 - [osu!taiko contest listing](https://osu.ppy.sh/community/contests/200)
 - [osu!catch contest listing](https://osu.ppy.sh/community/contests/201)
