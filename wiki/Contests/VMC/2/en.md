@@ -54,7 +54,7 @@ All participating mappers receive constructive feedback from experienced mappers
 
 ## Judges
 
-| Game mode | Judge Names |
+| Game mode | Judges |
 | :-: | :-- |
 | osu! | ::{ flag=CN }:: [NatsumeRin](https://osu.ppy.sh/users/151679), ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323), ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909), ::{ flag=SV }:: [Natsu](https://osu.ppy.sh/users/1953876), ::{ flag=CA }:: [Shanipika](https://osu.ppy.sh/users/6336729), ::{ flag=NL }:: [Nyxa](https://osu.ppy.sh/users/3408126) |
 | osu!catch | ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134), ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776), ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114), ::{ flag=NL }:: [Chatie](https://osu.ppy.sh/users/6524765) |
