@@ -81,7 +81,7 @@ Please be sure to support iroha(sasaki).
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | The Cuckoo Bird's Beautiful Youth | VY1 & Kagamine Rin | π | 5:18 | ??? | [.osz](LINK) |
 | Shirley!! | Kagamine Rin | π | 4:59 | ??? | [.osz](LINK) |
- Devolution | Kagamine Rin | kuma(alfred) | 4:26 | ??? | [.osz](LINK) |
+| Devolution | Kagamine Rin | kuma(alfred) | 4:26 | ??? | [.osz](LINK) |
 | 14 (Miku ver.) | Hatsune Miku | π | 4:55 | ??? | [.osz](LINK) |
 | sigh | Kagamine Rin | iroha(sasaki) | 4:08 | ??? | [.osz](LINK) |
 

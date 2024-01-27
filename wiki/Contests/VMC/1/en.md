@@ -83,12 +83,11 @@ Five (5) songs were selected from the Featured Artist library. These songs were 
 
 ## Results
 
-
 | Rank | Mapper | Anonymized Map Name | Raw Score (600) | Standardized Scores |
 | :-: | :-: | :-: | :-: | :-: |
-| \#1 | [Meijiro McQueen](https://osu.ppy.sh/users/11555612) | grew forth | 478 | **6.7** |
-| \#2 | [Pho](https://osu.ppy.sh/users/3624692) | near student | 476 | **6.1** |
-| \#3 | [Rorupan L9](https://osu.ppy.sh/users/9471638) | heading save | 458 | **5.2** |
+| #1 | [Meijiro McQueen](https://osu.ppy.sh/users/11555612) | grew forth | 478 | **6.7** |
+| #2 | [Pho](https://osu.ppy.sh/users/3624692) | near student | 476 | **6.1** |
+| #3 | [Rorupan L9](https://osu.ppy.sh/users/9471638) | heading save | 458 | **5.2** |
 | Honorable Mention | [AndAda](https://osu.ppy.sh/users/10574844) | old hang | 458 | **4.7** |
 
 Get the maps and see detailed scores and judge comments for all the entries [here](https://mappersguild.com/contests/results?contest=647aee2825010a34c8badd15).
