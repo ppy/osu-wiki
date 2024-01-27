@@ -89,7 +89,7 @@ This contest is created by and for vocal synth fans to promote music, artists, a
 
 As proven by this contest, great things can happen when we promote and support the artists who make osu! great.
 
-Below we have selected 5 of iroha(sakaki)'s incredible works to you to pick from that were appropriate for contest mapping, and we're confident that something will inspire you!
+Below we have selected 5 of **iroha(sakaki)**'s incredible works to you to pick from that were appropriate for contest mapping, and we're confident that something will inspire you!
 
 #### iroha(sasaki) - The Cuckoo Bird's Beautiful Youth (5:18 / 160 BPM)
 
