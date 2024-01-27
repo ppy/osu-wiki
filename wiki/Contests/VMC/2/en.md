@@ -8,7 +8,7 @@ tags:
 
 ![VMC banner](/wiki/Contests/VMC/2/img/bannervmc.jpg)
 
-The **Vocaloid Mapping Contest** (***VMC***) is a beatmapping contest hosted by [Vocaloid Appreciation Team (VAT)](https://discord.gg/EruvDHaReY), and is all about promoting VOCALOID, UTAU, and other vocal synth songs and artists that have fallen through the cracks. Mappers were tasked with creating the best beatmap possible, and then having them judged by some of the most prominent VOCALOID mappers in the community. 
+The **Vocaloid Mapping Contest** (***VMC***) is a beatmapping contest hosted by the Vocaloid Appreciation Team, and is all about promoting VOCALOID, UTAU, and other vocal synth songs and artists that have fallen through the cracks. Mappers were tasked with creating the best beatmap possible, and then having them judged by some of the most prominent VOCALOID mappers in the community. 
 
 This second iteration of the VMC featured a new VOCALOID Featured Artist, support for every game mode, and the return of a legendary VOCALOID mapper as a guest judge.
 
@@ -22,7 +22,7 @@ This second iteration of the VMC featured a new VOCALOID Featured Artist, suppor
 | Judging | 2024-03-08 to 2024-03-29 |
 | Results livestream | 2024-03-31 @ 18:00 UTC (tentative) |
 
-The results are streamed live on the [*Vocaloid Appreciation Team* Twitch account](https://www.twitch.tv/vocaloidappreciationteam) with commentary. Details regarding the stream were provided in the newspost and on the Discord channel.
+The results are streamed live on the [*Vocaloid Appreciation Team* Twitch account](https://www.twitch.tv/vocaloidappreciationteam) with commentary. Further details regarding the stream will be provided in this article, the news post, and in the Discord server.
 
 \**Screening only occured in modes with a large number of entries.*
 
@@ -53,12 +53,12 @@ All participating mappers receive constructive feedback from experienced mappers
 - **Excluding metadata, submissions must not include anything that could reveal your identity.** Metadata will be anonymised before submissions are relayed to judges and screeners.
 - **Collaborations are not allowed.** This is a solo contest.
 - **Submissions must not include storyboards or videos.**
-- **Your submission must not have any edits to the `.osu` file that would not be possible through the editor.** This isn't Aspire. You are permitted to change any difficulty settings, backgrounds, green lines, SV, hitsounds, etc.
+- **Your submission must not have any edits to the `.osu` file that would not be possible through the editor.** This is not Aspire. You are permitted to change any difficulty settings, backgrounds, green lines, SV, hitsounds, etc.
 - **Your submission must have only one difficulty.**
 
 ## Judges 
-| Gamemode | Judge Names |
-| :-: | :-: |
+| Game mode | Judge Names |
+| :-: | :-- |
 | osu! | ::{ flag=CN }:: [NatsumeRin](https://osu.ppy.sh/users/151679), ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323), ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909), ::{ flag=SV }:: [Natsu](https://osu.ppy.sh/users/1953876), ::{ flag=CA }:: [Shanipika](https://osu.ppy.sh/users/6336729), ::{ flag=NL }:: [Nyxa](https://osu.ppy.sh/users/3408126) |
 | osu!catch | ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134), ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776), ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114), ::{ flag=NL }:: [Chatie](https://osu.ppy.sh/users/6524765) | 
 | osu!taiko | ::{ flag=US }:: [Alchyr](https://osu.ppy.sh/users/4993032), ::{ flag=UK }:: [aceticke](https://osu.ppy.sh/users/8838763), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976), ::{ flag=US }:: [Lumenite-](https://osu.ppy.sh/users/6256027), ::{ flag=US }:: [Jonarwhal-](https://osu.ppy.sh/users/3653035) |
@@ -76,7 +76,7 @@ All participating mappers receive constructive feedback from experienced mappers
 
 ## Songs
 
-Five (5) songs were selected by the staff from those provided by iroha(sasaki) for the purpose of this mapping contest.  These songs were selected based on several factors, such as whether they have been ranked in the past, their suitability for the purposes of contest mapping, and other factors.
+Five (5) songs were selected by the staff from those provided by iroha(sasaki) for the purpose of this mapping contest. These songs were selected based on several factors, such as whether they have been ranked in the past, their suitability for the purposes of contest mapping, and other factors.
 
 Please be sure to support iroha(sasaki).
 
