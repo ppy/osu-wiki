@@ -79,11 +79,11 @@ Please be sure to support iroha(sasaki).
 
 | Song | VOCALOID | Lyricist | Length | BPM | Template |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| The Cuckoo Bird's Beautiful Youth | VY1 & Kagamine Rin | π | 5:18 | ??? | [.osz](LINK) |
-| Shirley!! | Kagamine Rin | π | 4:59 | ??? | [.osz](LINK) |
-| Devolution | Kagamine Rin | kuma(alfred) | 4:26 | ??? | [.osz](LINK) |
-| 14 (Miku ver.) | Hatsune Miku | π | 4:55 | ??? | [.osz](LINK) |
-| sigh | Kagamine Rin | iroha(sasaki) | 4:08 | ??? | [.osz](LINK) |
+| The Cuckoo Bird's Beautiful Youth | VY1 & Kagamine Rin | π | 5:18 | 160 | [.osz](https://assets.ppy.sh/artists/399/Songs/iroha(sasaki)%20-%20The%20Cuckoo%20Bird_s%20Beautiful%20Youth.osz) |
+| Shirley!! | Kagamine Rin | π | 4:59 | 165 | [.osz](https://assets.ppy.sh/artists/399/Songs/iroha(sasaki)%20-%20Shirley!!.osz) |
+| Devolution | Kagamine Rin | kuma(alfred) | 4:26 | 190 | [.osz](https://assets.ppy.sh/artists/399/Songs/iroha(sasaki)%20-%20Devolution.osz) |
+| 14 (Miku ver.) | Hatsune Miku | π | 4:55 | 128 | [.osz](https://assets.ppy.sh/artists/399/Songs/iroha(sasaki)%20-%2014.osz) |
+| sigh | Kagamine Rin | iroha(sasaki) | 4:08 | 148 | [.osz](https://assets.ppy.sh/artists/399/Songs/iroha(sasaki)%20-%20sigh.osz) |
 
 ## Notes
 
