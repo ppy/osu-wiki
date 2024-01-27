@@ -1,6 +1,8 @@
 ---
 tags:
   - TC
+  - Contest Committee
+  - CC
 ---
 
 # Tournament Committee
