@@ -22,7 +22,7 @@ The **Contest Committee** is a subgroup directly associated with the **Tournamen
 Their responsibilities include:
 
 - Observing the general contest scene and advising the [account support team](/wiki/People/Account_support_team) on a case-by-case basis
-- Regularly reviewing the [Official tournament support](/wiki/en/Contests/Official_support) page for revisions when necessary
+- Regularly reviewing the [Official tournament support](/wiki/Contests/Official_support) page for revisions when necessary
 
 The panel was first announced to the public on January 27, 2024 through the `Mapping Discussion` forum.
 
