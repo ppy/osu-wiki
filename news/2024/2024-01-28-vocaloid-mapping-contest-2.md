@@ -6,7 +6,7 @@ date: 2024-01-28 12:00:00 +0000
 
 VOCALOID lovers rejoice! The Vocaloid Mapping Contest returns bigger and better than ever, featuring support for every game mode, an improved format, a bit of necromancy, and incredible music from our brand-new Featured Artist: **iroha(sasaki)**!
 
-![](/wiki/Contests/VMC/2/img/bannervmc.jpg)
+![](/wiki/Contests/VMC/2/img/banner.jpg)
 
 Yep, you heard right. **iroha(sasaki)**, the artist behind the legendary VOCALOID classic *Meltdown* featured in *many* classic osu! maps, is now a Featured Artist!
 
