@@ -8,7 +8,7 @@ needs_cleanup: true
 
 **Le multijoueur** (parfois abrégé en *Multi*) est un mode dans lequel jusqu'à 16 joueurs peuvent s'affronter individuellement ou en équipe, ou jouer ensemble en coopération, sur des maps décidées par l'hôte.
 
-[L'osu!academy](/wiki/Community/Video_series/osu!academy) couvre cette partie du client en format vidéo dans [L'Episode 6](https://www.youtube.com/watch?v=QPTLyG7O8ak), ainsi que le [panneau des utilisateurs en ligne](/wiki/Client/Interface/Chat_console#extended-chat-console).
+[L'osu!academy](/wiki/Community/Video_series/osu!academy) couvre cette partie du client en format vidéo dans [L'Episode 6](https://www.youtube.com/watch?v=QPTLyG7O8ak), ainsi que le [panneau des utilisateurs en ligne](/wiki/Client/Interface/Chat_console#la-console-de-tchat-étendue).
 
 ## Comment jouer
 
@@ -65,7 +65,7 @@ Les trois boutons situés au-dessus de la [console de tchat](/wiki/Client/Interf
 | :-: | :-- |
 | `Retour au menu` | Quittez le lobby et revenez au menu principal. |
 | `Créer une salle` | Créer un nouveau match. Voir ci-dessous pour plus de détails. |
-| `Salle au hasard` | Rejoindre un match disponible *aléatoirement* en fonction du [classement des points de performance](/wiki/Ranking#performance-points-ranking) du joueur. |
+| `Salle au hasard` | Rejoindre un match disponible *aléatoirement* en fonction du [classement des points de performance](/wiki/Ranking#classement-des-points-de-performance) du joueur. |
 
 ## Créer un nouveau match
 
@@ -97,7 +97,7 @@ Bien qu'il n'y ait pas de bouton direct pour cela, le [menu des options](/wiki/C
 
 ![](img/multi-match-header-fr.jpg "Exemple d'en-tête")
 
-Le texte en haut à gauche indique si le joueur est l'hôte du match ou un joueur normal. Au milieu, une boîte de joueur contient des informations sur les [points de performance](/wiki/Performance_points/Total_performance_points), la [précision globale](/wiki/Gameplay/Accuracy), le [niveau](/wiki/Gameplay/Score/Total_score#niveau), le [rang](/wiki/Ranking#performance-points-ranking) et le [mode de jeu](/wiki/Game_mode) sélectionné. À droite, un bouton permet de mettre en pause la musique en cours d'écoute.
+Le texte en haut à gauche indique si le joueur est l'hôte du match ou un joueur normal. Au milieu, une boîte de joueur contient des informations sur les [points de performance](/wiki/Performance_points/Total_performance_points), la [précision globale](/wiki/Gameplay/Accuracy), le [niveau](/wiki/Gameplay/Score/Total_score#niveau), le [rang](/wiki/Ranking#classement-des-points-de-performance) et le [mode de jeu](/wiki/Game_mode) sélectionné. À droite, un bouton permet de mettre en pause la musique en cours d'écoute.
 
 ### Liste des joueurs actuels
 
@@ -163,7 +163,7 @@ Si le joueur ne dispose pas de la beatmap, l'un de ces statuts sera affiché :
 
 | Statut de la beatmap | Description |
 | :-: | :-- |
-| `Ranked` / `Approved` / `Pending` / `Graveyard` | La [catégorie de la beatmap](/wiki/Beatmap/Category). En cliquant sur la carte de la beatmap, vous ouvrirez la page de la beatmap sur le site web, où elle pourra être [téléchargée](/wiki/Beatmap#downloading-beatmaps). |
+| `Ranked` / `Approved` / `Pending` / `Graveyard` | La [catégorie de la beatmap](/wiki/Beatmap/Category). En cliquant sur la carte de la beatmap, vous ouvrirez la page de la beatmap sur le site web, où elle pourra être [téléchargée](/wiki/Beatmap#télécharger-les-beatmaps). |
 | `Not uploaded or not up-to-date` | La beatmap n'est pas disponible au téléchargement. L'hôte devrait trouver le lien (dans la [liste de beatmap](https://osu.ppy.sh/beatmapsets)) pour le joueur si le problème persiste. |
 | `Cannot update the beatmap` | L'host joue une version modifiée de la beatmap. |
 
@@ -254,7 +254,7 @@ Dans les matchs Team VS, le fait d'être en état d'échec à la fin du match fa
 
 #### Résultats
 
-Bien qu'il n'y ait pas [d'écran des résultats étendu](/wiki/Client/Interface#extended-results-screen) sous l'écran de résultats comme lorsque vous jouez en solo, les scores établis pendant les matchs multijoueurs (à l'exception des matchs `Tag co-op` et `Tag-team VS`) apparaîtront toujours dans les classements en ligne s'ils sont suffisamment bons. Le résultat n'apparaîtra pas dans le classement local.
+Bien qu'il n'y ait pas [d'écran des résultats étendu](/wiki/Client/Interface#écran-de-résultats-étendu) sous l'écran de résultats comme lorsque vous jouez en solo, les scores établis pendant les matchs multijoueurs (à l'exception des matchs `Tag co-op` et `Tag-team VS`) apparaîtront toujours dans les classements en ligne s'ils sont suffisamment bons. Le résultat n'apparaîtra pas dans le classement local.
 
 #### Sauvegarde du replay
 
@@ -373,7 +373,7 @@ Si un joueur abandonne pendant le match, le jeu jouera son rôle à sa place.
 
 Tous les joueurs partagent la même barre de santé. Si celle-ci se vide complètement, le match se termine. Tag-team VS, chaque équipe dispose de sa propre barre de santé, et la perte de celle-ci entraîne la défaite de l'équipe.
 
-Les joueurs qui utilisent le modificateur [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death) mettront fin à tout le match s'ils échouent à cause de ce modificateur, même en Tag-team VS. Si [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy) est utilisé, les joueurs peuvent toujours obtenir deux vies supplémentaires. Cependant, en Tag-team VS, lorsque la santé d'une équipe tombe à zéro, même si la [barre de santé](/wiki/Client/Interface/Barre_de_santé) est remplie à nouveau, le match sera considéré comme *échec* et se terminera immédiatement.
+Les joueurs qui utilisent le modificateur [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death) mettront fin à tout le match s'ils échouent à cause de ce modificateur, même en Tag-team VS. Si [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy) est utilisé, les joueurs peuvent toujours obtenir deux vies supplémentaires. Cependant, en Tag-team VS, lorsque la santé d'une équipe tombe à zéro, même si la [barre de santé](/wiki/Client/Interface/Health_bar) est remplie à nouveau, le match sera considéré comme *échec* et se terminera immédiatement.
 
 ##### Résultats
 
