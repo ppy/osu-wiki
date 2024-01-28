@@ -108,21 +108,10 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
 
 ## Match schedule: Round of 16
 
-### Saturday, 27 January 2024
-
-| Team A | Team B | Match time | Twitch stream |
-| --: | :-- | :-- | :-: |
-| Japan ::{ flag=JP }:: | ::{ flag=PL }:: Poland | [Jan 27 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240127T120000&p1=1440&p2=248&p3=262) | [osulive](https://twitch.tv/osulive) |
-| Philippines ::{ flag=PH }:: | ::{ flag=VN }:: Vietnam | [Jan 27 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240127T130000&p1=1440&p2=145&p3=95) | [osulive](https://twitch.tv/osulive) |
-| Thailand ::{ flag=TH }:: | ::{ flag=RU }:: Russian Federation | [Jan 27 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240127T140000&p1=1440&p2=28&p3=166) | [osulive](https://twitch.tv/osulive) |
-| Malaysia ::{ flag=MY }:: | ::{ flag=ID }:: Indonesia | [Jan 27 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240127T160000&p1=1440&p2=122&p3=108) | [osulive](https://twitch.tv/osulive) |
-
 ### Sunday, 28 January 2024
 
 | Team A | Team B | Match time | Twitch stream |
 | --: | :-- | :-- | :-: |
-| Australia ::{ flag=AU }:: | ::{ flag=BR }:: Brazil | [Jan 28 (Sun) 01:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240128T010000&p1=1440&p2=57&p3=45) | [osulive](https://twitch.tv/osulive) |
-| Canada ::{ flag=CA }:: | ::{ flag=US }:: United States | [Jan 28 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240128T020000&p1=1440&p2=188&p3=263) | [osulive](https://twitch.tv/osulive) |
 | South Korea ::{ flag=KR }:: | ::{ flag=TW }:: Taiwan | [Jan 28 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240128T110000&p1=1440&p2=235&p3=241) | [osulive](https://twitch.tv/osulive) |
 | China ::{ flag=CN }:: | ::{ flag=DE }:: Germany | [Jan 28 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240128T140000&p1=1440&p2=33&p3=37) | [osulive](https://twitch.tv/osulive) |
 | Quarterfinals | mappool showcase | [Jan 28 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240128T150000&p1=1440) | [osulive](https://twitch.tv/osulive) |
@@ -185,6 +174,24 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
 8. [Raimukun - Cthulhu (Leeju) \[Stage 8: Abyss\]](https://osu.ppy.sh/beatmapsets/2115980#mania/4443612)
 
 ## Match results
+
+### Round of 16
+
+Saturday, 27 January 2024:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Japan** ::{ flag=JP }:: | **5** | 2 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/112395972) | [#1](https://www.twitch.tv/videos/2045221189) |
+| **Philippines** ::{ flag=PH }:: | **5** | 0 | ::{ flag=VN }:: Vietnam | [#1](https://osu.ppy.sh/community/matches/112396751) | [#1](https://www.twitch.tv/videos/2045221187) |
+| **Thailand** ::{ flag=TH }:: | **5** | 1 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/112397701) | [#1](https://www.twitch.tv/videos/2045221186) |
+| **Malaysia** ::{ flag=MY }:: | **5** | 0 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/112399723) | [#1](https://www.twitch.tv/videos/2045269720) |
+
+Sunday, 28 January 2024:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Australia** ::{ flag=AU }:: | **5** | 4 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/112408332) | [#1](https://www.twitch.tv/videos/2045785716) |
+| **Canada** ::{ flag=CA }:: | **5** | 1 | ::{ flag=US }:: United States | [#1](https://osu.ppy.sh/community/matches/112408966) | [#1](https://www.twitch.tv/videos/2045818568) |
 
 ### Round of 24
 
