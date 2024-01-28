@@ -45,7 +45,7 @@ All participating mappers receive constructive feedback from experienced mappers
 
 ## Ruleset
 
-- **Submissions must use one of the [selected songs](#songs).** Cut versions of the songs are not allowed.
+- **Submissions must use one of the [songs from the selection below](#songs).** Cut versions are not allowed.
 - **Submissions must be in `.osz` format.**
 - **Beatmaps should abide by the [ranking criteria](/wiki/Ranking_Criteria).** While we can be forgiving for mistakes (such as an accidental off-screen object), submissions that contain intentional unrankables (not due to simple error, such as sliderator) will be disqualified. Mappers will be notified if this occurs.
 - **Submissions must not be publicly revealed until after the results are announced.**
