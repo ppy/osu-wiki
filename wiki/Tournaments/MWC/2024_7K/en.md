@@ -147,7 +147,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
 | Sweden ::{ flag=SE }:: | ::{ flag=EE }:: Estonia | [Feb 4 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240204T170000&p1=1440&p2=239) | *TBD* | [^potential-match] |
 | Semifinals | mappool showcase | [Feb 4 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240204T180000&p1=1440) | [osulive](https://twitch.tv/osulive) |  |
 
-
 ## Mappools
 
 ### Quarterfinals
