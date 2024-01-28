@@ -92,4 +92,4 @@ Please be sure to support [iroha(sasaki)](https://osu.ppy.sh/beatmaps/artists/39
 
 [^screening]: Screening will only occur in modes with a large number of entries.
 [^plushie]: Prize only for participants of the osu! game mode, due to its one-of-a-kind nature.
-[^hitsounds]: Hitsounding only required for osu! and osu!catch.
+[^hitsounds]: Hitsounding category is only applicable to osu! and osu!catch.
