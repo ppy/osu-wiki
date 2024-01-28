@@ -91,60 +91,65 @@ As proven by this contest, great things can happen when we promote and support t
 
 Below we have selected 5 of **iroha(sakaki)**'s incredible works to you to pick from that were appropriate for contest mapping, and we're confident that something will inspire you!
 
-|  |  |
+| Song | iroha(sasaki) - The Cuckoo Bird's Beautiful Youth |
 | :-- | :-- |
-| **Song** | iroha(sasaki) - The Cuckoo Bird's Beautiful Youth |
 | **Vocaloid** | VY1 & Kagamine Rin |
 | **Lyricist** | π |
 | **Download** | [Beatmap template (5:18 / 160 BPM)](https://assets.ppy.sh/artists/399/Songs/iroha(sasaki)%20-%20The%20Cuckoo%20Bird_s%20Beautiful%20Youth.osz) |
 
-<audio controls>
-    <source src="https://assets.ppy.sh/artists/399/Songs/iroha(sasaki)%20-%20The%20Cuckoo%20Bird_s%20Beautiful%20Youth.mp3" type="audio/mpeg">
-</audio>
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/artists/399/Songs/iroha(sasaki)%20-%20The%20Cuckoo%20Bird_s%20Beautiful%20Youth.mp3" type="audio/mpeg">
+    </audio>
+</div>
 
-|  |  |
+| Song | iroha(sasaki) - Shirley!! |
 | :-- | :-- |
-| **Song** | iroha(sasaki) - Shirley!! |
 | **Vocaloid** | Kagamine Rin |
 | **Lyricist** | π |
 | **Download** | [Beatmap template (4:59 / 165 BPM)](https://assets.ppy.sh/artists/399/Songs/iroha(sasaki)%20-%20Shirley!!.osz) |
 
-<audio controls>
-    <source src="https://assets.ppy.sh/artists/399/Songs/iroha(sasaki)%20-%20Shirley!!.mp3" type="audio/mpeg">
-</audio>
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/artists/399/Songs/iroha(sasaki)%20-%20Shirley!!.mp3" type="audio/mpeg">
+    </audio>
+</div>
 
-|  |  |
+| Song | iroha(sasaki) - Devolution |
 | :-- | :-- |
-| **Song** | iroha(sasaki) - Devolution |
 | **Vocaloid** | Kagamine Rin |
 | **Lyricist** | kuma(alfred) |
 | **Download** | [Beatmap template (4:26 / 190 BPM)](https://assets.ppy.sh/artists/399/Songs/iroha(sasaki)%20-%20Devolution.osz) |
 
-<audio controls>
-    <source src="https://assets.ppy.sh/artists/399/Songs/iroha(sasaki)%20-%20Devolution.mp3" type="audio/mpeg">
-</audio>
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/artists/399/Songs/iroha(sasaki)%20-%20Devolution.mp3" type="audio/mpeg">
+    </audio>
+</div>
 
-|  |  |
+| Song | iroha(sasaki) - 14 (Miku ver.) |
 | :-- | :-- |
-| **Song** | iroha(sasaki) - 14 (Miku ver.) |
 | **Vocaloid** | Hatsune Miku |
 | **Lyricist** | π |
 | **Download** | [Beatmap template (4:55 / 128 BPM)](https://assets.ppy.sh/artists/399/Songs/iroha(sasaki)%20-%2014.osz) |
 
-<audio controls>
-    <source src="https://assets.ppy.sh/artists/399/Songs/iroha(sasaki)%20-%2014.mp3" type="audio/mpeg">
-</audio>
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/artists/399/Songs/iroha(sasaki)%20-%2014.mp3" type="audio/mpeg">
+    </audio>
+</div>
 
-|  |  |
+| Song | iroha(sasaki) - sigh |
 | :-- | :-- |
-| **Song** | iroha(sasaki) - sigh |
 | **Vocaloid** | Kagamine Rin |
 | **Lyricist** | iroha(sasaki) |
 | **Download** | [Beatmap template (4:08 / 148 BPM)](https://assets.ppy.sh/artists/399/Songs/iroha(sasaki)%20-%20sigh.osz) |
 
-<audio controls>
-    <source src="https://assets.ppy.sh/artists/399/Songs/iroha(sasaki)%20-%20sigh.mp3" type="audio/mpeg">
-</audio>
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/artists/399/Songs/iroha(sasaki)%20-%20sigh.mp3" type="audio/mpeg">
+    </audio>
+</div>
 
 ### Rules
 
