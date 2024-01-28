@@ -72,7 +72,7 @@ All participating mappers receive constructive feedback from experienced mappers
 | Creativity | 25 | How unique and outstanding is the map and the elements within it compared to the current mapping meta? How well does it stand out from the crowd? Does it evoke a feeling of "wow!", "that's cool!", or "that's super interesting!"? Generic mapping that copies the current mapping meta or concepts from other famous maps is discouraged. |
 | Expertise | 20 | This refers to how well the map executes the elements it presents, encompassing the technical skills of the mapper, as well as the map's consistency, structure, and style. Judges will score this entry considering the overarching picture of the map, and will avoid nitpicking small details. |
 | Overall Impression | 20 | The VOCALOID mappers participating as judges for this contest will all have personal biases with regard to how these songs are mapped. The judges will provide comments regarding the score they give. |
-| Hitsounding | 5 | Rankable hitsounds can give up to 2 points, but hitsounds that fundamentally add to the experience and complement the map in a unique way can give the full 5 points. |
+| Hitsounding[^hitsounds] | 5 | Rankable hitsounds can give up to 2 points, but hitsounds that fundamentally add to the experience and complement the map in a unique way can give the full 5 points. |
 
 ## Songs
 
@@ -92,3 +92,4 @@ Please be sure to support [iroha(sasaki)](https://osu.ppy.sh/beatmaps/artists/39
 
 [^screening]: Screening will only occur in modes with a large number of entries.
 [^plushie]: Prize only for participants of the osu! game mode, due to its one-of-a-kind nature.
+[^hitsounds]: Hitsounding only required for osu! and osu!catch.
