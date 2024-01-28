@@ -61,7 +61,7 @@ All participating mappers receive constructive feedback from experienced mappers
 | :-: | :-- |
 | osu! | ::{ flag=CN }:: [NatsumeRin](https://osu.ppy.sh/users/151679), ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323), ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909), ::{ flag=SV }:: [Natsu](https://osu.ppy.sh/users/1953876), ::{ flag=CA }:: [Shanipika](https://osu.ppy.sh/users/6336729), ::{ flag=NL }:: [Nyxa](https://osu.ppy.sh/users/3408126) |
 | osu!catch | ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134), ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776), ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114), ::{ flag=NL }:: [Chatie](https://osu.ppy.sh/users/6524765) |
-| osu!taiko | ::{ flag=US }:: [Alchyr](https://osu.ppy.sh/users/4993032), ::{ flag=UK }:: [aceticke](https://osu.ppy.sh/users/8838763), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976), ::{ flag=US }:: [Lumenite-](https://osu.ppy.sh/users/6256027), ::{ flag=US }:: [Jonarwhal-](https://osu.ppy.sh/users/3653035) |
+| osu!taiko | ::{ flag=US }:: [Alchyr](https://osu.ppy.sh/users/4993032), ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976), ::{ flag=US }:: [Lumenite-](https://osu.ppy.sh/users/6256027), ::{ flag=US }:: [Jonarwhal-](https://osu.ppy.sh/users/3653035) |
 | osu!mania | ::{ flag=AU }:: [Decku](https://osu.ppy.sh/users/13360768), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785), ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604), ::{ flag=DE }:: [BadDragon](https://osu.ppy.sh/users/6051688) |
 
 ## Judging criteria
