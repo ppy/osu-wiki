@@ -1,8 +1,3 @@
----
-outdated_since: 8e1786f96ff274d96b77be41a62c642197397a80
-outdated_translation: true
----
-
 # 准确率
 
 准确率（也称准确度）用于刻画玩家打击[物件](/wiki/Gameplay/Hit_object)的时间与标准时间有多接近，亦即打得多准。玩家有三种准确度：谱面的准确度，取决于谱面的物件得分；总准确度，它是为让更好的得分更加突出而权衡的；[表现分（pp）](/wiki/Performance_points)准确度，取决于提交的得分的准确度。
@@ -81,7 +76,11 @@ outdated_translation: true
 
 #### 不稳定度（Unstable rate）
 
-`不稳定度` 简称为 UR，即打击时间的不稳定程度，越低越好（顶尖玩家往往保持在 100 以下）。该值衡量的是打击时间的稳定性，因此总是提前 15 毫秒击打，和总是准时击打相比，其不稳定度是一样的。按公式算出来的结果基本上就是击打误差（单位：毫秒）乘 10。[这段代码](https://gist.github.com/peppy/3a11cb58c856b6af7c1916422f668899)展示了 osu! 稳定版是如何计算不稳定度的，可以作为参考。
+*主文章：[不稳定度](/wiki/Gameplay/Unstable_rate)*
+
+`不稳定度` (*UR*) 显示了打击偏差的[标准差](https://zh.wikipedia.org/wiki/%E6%A8%99%E6%BA%96%E5%B7%AE)，单位是 0.1 毫秒。UR 越低，玩家越稳定。
+
+注意稳定度和准确度并不是一回事。高准确度通常都会获得低 UR，不过玩家也能在获得低准确度的同时保持低 UR。例如，玩家可以故意延后击打每个 [物件](/wiki/Gameplay/Hit_object) ，以稳定的打击误差获得 [50](/wiki/Gameplay/Judgement/osu!) 判定。
 
 ### 转盘信息（Spin）
 
