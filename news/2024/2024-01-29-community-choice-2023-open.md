@@ -18,11 +18,11 @@ As per usual, we'll also be running the **Mappers' Favourite** award for each ga
 
 Before we proceed, let's go through a few mapping trends from the past year:
 
-- A total of **17,342** difficulties were ranked across **4,665** mapsets in all game modes, seeing roughly a **13%** drop from last year.
+- A total of **17,342** difficulties were ranked across **4,665** mapsets in all game modes, seeing roughly a **13%** drop from the year before.
 - **8,917** osu! difficulties were blessed with nominations from 2 Beatmap Nominators, with a **20%** decrease from 2022.
-- **3,345** osu!taiko difficulties successfully made it through their ranking journey, returning a recline of **23%** from last year.
+- **3,345** osu!taiko difficulties successfully made it through their ranking journey, returning a recline of **23%** from the bygone year.
 - **1,050** osu!catch difficulties were deemed worthy to receive permanent leaderboards, matched with a **26%** drop from 2022.
-- **4,030** osu!mania difficulties got recognised as enough high quality to have an everlasting place in the Ranked section, with an astonishing increase of **34%** from last year to continue the upward trend!
+- **4,030** osu!mania difficulties got recognised as enough high quality to have an everlasting place in the Ranked section, with an astonishing increase of **34%** to continue the upward trend!
 
 The astute among you may observe a discrepancy between these numbers and [last year](https://osu.ppy.sh/home/news/2023-01-24-community-choice-2022-open)'s, but worry not, because we've simply excluded deleted maps from calculations this time.
 
