@@ -8,7 +8,7 @@ After 2 weeks of furious battle, the winners of this year's Skin of the Year con
 
 ![](/wiki/shared/news/2024-02-05-skin-of-the-year-2023-results/banner.jpg)
 
-The 2nd annual Skin of the Year contest has been concluded, with a total of **5480** users casting their votes, totalling up to **37,426** votes. Once again there was a very close battle between the top 2 skins, with the 3rd place being down by **400 votes** compared to 2nd place! Regardless of the actual voting count, every skin highlighted below deserves their spot and will hopefully make its way into many more skin collections.
+The 2nd annual Skin of the Year contest has been concluded, with a total of **5480** users casting their votes, totalling up to **37,426** votes. Once again there was a very close battle between the top 2 skins, but regardless of the actual voting count, every skin highlighted below deserves their spot and will hopefully make its way into many more skin collections.
 
 Now that the voting has been concluded and the votes have been tallied up, let's take a look at the top 10.
 
@@ -28,7 +28,7 @@ Another "Icons of an Era" skinning contest entry grazes the top 10! [Ghost Rule]
 
 ![](/wiki/shared/news/2024-02-05-skin-of-the-year-2023-results/placeholder.jpg)
 
-[Touhou Project ~ Paper Touhou](https://osu.ppy.sh/community/forums/topics/1746993) is a unique blend of the Touhou Project and the "paper" art-style that's been made popular by Nintendo ever since 2000. [CloudKeyz](https://osu.ppy.sh/users/15194624) used the original Paper Mario for the N64 as an inspiration and combined many of the more well known Touhou characters in order to craft a skin that has no right being as cute as it is, and for that community awarded them **782** votes.
+[Touhou Project ~ Paper Touhou](https://osu.ppy.sh/community/forums/topics/1746993) is a unique blend of the Touhou Project and the "paper" art-style that's been made popular by Nintendo ever since the year 2000. [CloudKeyz](https://osu.ppy.sh/users/15194624) used the original Paper Mario for the N64 as an inspiration and combined many of the more well known Touhou characters in order to craft a skin that has no right being as cute as it is, and for that community awarded them **782** votes.
 
 ![](/wiki/shared/news/2024-02-05-skin-of-the-year-2023-results/placeholder.jpg)
 
@@ -41,7 +41,7 @@ Their 2nd winning entry, [IT'S SHOWTIME! feat. Hatsune Miku](https://osu.ppy.sh/
 
 ![](/wiki/shared/news/2024-02-05-skin-of-the-year-2023-results/placeholder.jpg)
 
-Yup, it's thetasigma again. They have truly reached the endgame for osu! skinning, with **3** different entries of theirs making it to the top 10! With **1026** votes, [GAME OVER](https://osu.ppy.sh/community/forums/topics/1801331) has captivated the community with the 8bit-like aesthetic, along with just a perfect amount of anime girl on top. The skin prominently features [Silver Wolf](https://honkai-star-rail.fandom.com/wiki/Silver_Wolf), a character from the popular gacha game "[Honkai: Star Rail](https://en.wikipedia.org/wiki/Honkai:_Star_Rail)". Unfortunately for thetasigma, they were unable to hack themselves into more entries on this list, so it's *game over* for them.
+Yup, it's thetasigma again. They have truly reached the endgame for osu! skinning, with **3** different entries of theirs making it to the top 10! With **1026** votes, [GAME OVER](https://osu.ppy.sh/community/forums/topics/1801331) has captivated the community with an 8 bit-like aesthetic, along with just a perfect amount of anime girl on top. The skin prominently features [Silver Wolf](https://honkai-star-rail.fandom.com/wiki/Silver_Wolf), a character from the popular gacha game "[Honkai: Star Rail](https://en.wikipedia.org/wiki/Honkai:_Star_Rail)". Unfortunately for thetasigma, they were unable to hack themselves into more entries on this list, so it's *game over* for them.
 
 ![](/wiki/shared/news/2024-02-05-skin-of-the-year-2023-results/placeholder.jpg)
 
@@ -49,11 +49,11 @@ The winner of "Icons of an Era", [Spoo](https://osu.ppy.sh/users/11805037), clai
 
 ![](/wiki/shared/news/2024-02-05-skin-of-the-year-2023-results/placeholder.jpg)
 
-An unexpected issue has occurred, causing this top 10 list to crash. Error code: N05T@LG1A_0V3RL0AD. [Miorine](https://osu.ppy.sh/users/12630408) harnessed the full power of the holy trinity — early 2000s nostalgia, an extremely popular Windows operating system, and creativity. With those three combined, [Windosu XP](https://osu.ppy.sh/community/forums/topics/1790353) was crafted, and it caught the attention of the community right off the bat. Regardless of the fact that this is only the 2nd skin ever published by Miorine, they perfectly captured the nostalgia of many players which netted them a whopping **1511** votes, almost 400 more than 3rd place!
+An unexpected issue has occurred, causing this top 10 list to crash. Error code: N05T@LG1@_0V3RL0@D. [Miorine](https://osu.ppy.sh/users/12630408) harnessed the full power of the holy trinity — early 2000s nostalgia, an extremely popular Windows operating system, and creativity. With those three combined, [Windosu XP](https://osu.ppy.sh/community/forums/topics/1790353) was crafted, and it caught the attention of the community right off the bat. Regardless of the fact that this is only the 2nd skin ever published by Miorine, they perfectly captured the nostalgia of many players which netted them a whopping **1511** votes, almost 400 more than 3rd place!
 
 ![](/wiki/shared/news/2024-02-05-skin-of-the-year-2023-results/placeholder.jpg)
 
-Everyone thought they were real funny commenting "rafis 2018-03-26 HDDT", or something along those lines. Well as it turns out, a skin with a similar amount of value, both historical and meme-wise, won this competition... Yup, [cyperdark](https://osu.ppy.sh/users/9893708)'s [WhiteCat 3.0](https://osu.ppy.sh/community/forums/topics/1864774) has been elected as **the** Skin of the Year, with **1574** votes! There isn't too much to say about the skin itself, it's centred around the top player [WhiteCat](https://osu.ppy.sh/users/4504101), it's clean, and it comes in a billion different variations to suit the needs of as many players as possible.
+Everyone thought they were real funny commenting "rafis 2018-03-26 HDDT", or something along those lines. Well as it turns out, a skin with a similar amount of value, both historical and meme-wise, won this competition... Yup, [cyperdark](https://osu.ppy.sh/users/9893708)'s [WhiteCat 3.0](https://osu.ppy.sh/community/forums/topics/1864774) has been elected as **the** Skin of the Year, with **1574** votes! There isn't too much to say about the skin itself — it's centred around the top player [WhiteCat](https://osu.ppy.sh/users/4504101), it's clean, and it comes in a billion different variations to suit the needs of as many players as possible.
 
 ---
 
@@ -61,6 +61,6 @@ The top 3 entries will all receive a unique profile badge based on their entry a
 
 If you are curious about the full results for all entries, or just want to see where your favourite skins placed, you can find them over on the [contest listing](https://osu.ppy.sh/community/contests/194).
 
-The skinning community might be underrated, but it's one of those communities that are right in the centre of this game's heart. Making sure all players have a skin that perfectly suits them, presenting stunning visual themes along with smooth gameplay, and just going above and beyond every time with their creativity, thank you to all skinning community members! Congratulations to all the winners, and *see you next time*!
+The skinning community might be underrated, but it's one of those communities that are right in the centre of this game's heart. Making sure all players have a skin that perfectly suits them, presenting stunning visual themes along with smooth gameplay, and just going above and beyond every time with their creativity. Thank you to all skinning community members, congratulations to all the winners, and just like the default skin's seeya.wav says, "*see you next time*"!
 
 —skinship
