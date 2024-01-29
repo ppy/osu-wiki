@@ -25,7 +25,7 @@
 | [osu! 世界杯 2020](OWC/2020) | 2020-10-24 | 2020-12-06 | ::{ flag=US }:: 美国 | ::{ flag=DE }:: 德国 | ::{ flag=CA }:: 加拿大 |
 | [osu! 世界杯 2021](OWC/2021) | 2021-10-09 | 2021-11-28 | ::{ flag=US }:: 美国 | ::{ flag=DE }:: 德国 | ::{ flag=KR }:: 韩国 |
 | [osu! 世界杯 2022](OWC/2022) | 2022-10-15 | 2022-11-27 | ::{ flag=US }:: 美国 | ::{ flag=KR }:: 韩国 | ::{ flag=DE }:: 德国 |
-| [osu! 世界杯 2023](OWC/2023) | 2023-10-21 | 2022-12-03 | ::{ flag=US }:: 美国 | ::{ flag=KR }:: 韩国 | ::{ flag=AU }:: 澳洲 |
+| [osu! 世界杯 2023](OWC/2023) | 2023-10-21 | 2023-12-03 | ::{ flag=US }:: 美国 | ::{ flag=KR }:: 韩国 | ::{ flag=AU }:: 澳洲 |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko 世界杯
 
@@ -83,6 +83,7 @@
 | [osu!mania 4K 世界杯 2022](MWC/2022_4K) | 2022-07-07 | 2022-09-18 | ::{ flag=KR }:: 韩国 | ::{ flag=BR }:: 巴西 | ::{ flag=US }:: 美国 |
 | [osu!mania 7K 世界杯 2023](MWC/2023_7K) | 2022-12-15 | 2023-02-18 | ::{ flag=PH }:: 菲律宾 | ::{ flag=KR }:: 韩国 | ::{ flag=MY }:: 马来西亚 |
 | [osu!mania 4K 世界杯 2023](MWC/2023_4K) | 2023-07-13 | 2023-09-24 | ::{ flag=US }:: 美国 | ::{ flag=KR }:: 韩国 | ::{ flag=ID }:: 印度尼西亚 |
+| [osu!mania 7K 世界杯 2024](MWC/2024_7K) | 2023-12-15 | 2024-02-25 | *TBD* | *TBD* | *TBD* |
 
 ## 社区锦标赛
 
@@ -123,7 +124,8 @@
 
 | 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Ascaveth Invitational Tournament 2022 | 2022-09-03 | 2022-09-03 | ::{ flag=ID }:: [Vinno](https://osu.ppy.sh/users/10717635) | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) |
+| [Ascaveth Invitational Tournament 2022](AIT/2022) | 2022-09-03 | 2022-09-03 | ::{ flag=ID }:: [Vinno](https://osu.ppy.sh/users/10717635) | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) |
+| [Ascaveth Invitational Tournament 2023](AIT/2023) | 2023-12-09 | 2023-12-09 | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) |
 
 #### Aus/NZ osu!standard Tournament
 
@@ -270,6 +272,8 @@
 | osu! Romania Tournament 2018 (Low Bracket) | 2018-04-17 | 2018-08-18 | ::{ flag=RO }:: [FDunderlineGod](https://osu.ppy.sh/users/4854275) | ::{ flag=RO }:: [CataDesigns](https://osu.ppy.sh/users/10569381) | ::{ flag=RO }:: [Robi](https://osu.ppy.sh/users/9907606) |
 | osu! Romania Tournament 2019 | 2019-05-24 | 2019-09-14 | ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890/) | ::{ flag=RO }:: [eternum](https://osu.ppy.sh/users/4581069) | ::{ flag=RO }:: [\_AfterWind](https://osu.ppy.sh/users/2086138) |
 | [osu! Romania Summer Tournament 2021](o!RT/2021) | 2021-05-24 | 2021-09-12 | ::{ flag=RO }:: [eternum](https://osu.ppy.sh/users/4581069) | ::{ flag=RO }:: [L9 ELOVATOR](https://osu.ppy.sh/users/9578404) | ::{ flag=RO }:: [\_AfterWind](https://osu.ppy.sh/users/2086138) |
+| [Romanian osu! Cup 2022](o!RT/2022) | 2022-06-03 | 2022-09-04 | ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890/) | ::{ flag=RO }:: [SatonoDiamond](https://osu.ppy.sh/users/12366071) | ::{ flag=RO }:: [eternum](https://osu.ppy.sh/users/4581069) |
+| [osu! Romania Summer Tournament 2023](o!RT/2023) | 2023-06-01 | 2023-08-27 | ::{ flag=RO }:: [etn](https://osu.ppy.sh/users/4581069) | ::{ flag=RO }:: [Lucrise](https://osu.ppy.sh/users/9719351) | ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890) |
 
 #### osu! Singapore-Indonesia-Malaysia Tournament
 

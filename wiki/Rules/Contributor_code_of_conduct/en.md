@@ -41,7 +41,6 @@ Instances of abusive, harassing, or otherwise unacceptable behaviour by any volu
 The community leaders who have access to this inbox are named as:
 
 - [peppy](https://osu.ppy.sh/users/2) ([pe@ppy.sh](mailto:pe@ppy.sh))
-- [Ephemeral](https://osu.ppy.sh/users/102335) ([ephemeral@ppy.sh](mailto:ephemeral@ppy.sh))
 
 All complaints will be reviewed and investigated promptly and fairly.
 

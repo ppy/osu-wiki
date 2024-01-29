@@ -51,7 +51,7 @@ The Touhou Project Mania Cup 2nd was run by the TMC team and various community m
 | Streamer | ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645), ::{ flag=PH }:: [\[KN\]Tenshi](https://osu.ppy.sh/users/18520056), ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617), ::{ flag=PL }:: [Bexi](https://osu.ppy.sh/users/11548612), ::{ flag=CN }:: [cdwcgt](https://osu.ppy.sh/users/14721101), ::{ flag=US }:: [Doelon](https://osu.ppy.sh/users/17422924), ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622) |
 | Commentator | ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645), ::{ flag=US }:: [-Sparky-](https://osu.ppy.sh/users/3187959), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=PH }:: [\[KN\]Tenshi](https://osu.ppy.sh/users/18520056), ::{ flag=KR }:: [\[LS\] Rollpan](https://osu.ppy.sh/users/19584910),  ::{ flag=US }:: [Dynascape](https://osu.ppy.sh/users/8784587), ::{ flag=GB }:: [H1Pur](https://osu.ppy.sh/users/15756120), ::{ flag=SG }:: [Kings](https://osu.ppy.sh/users/1016926), ::{ flag=VN }:: [MashedPotato](https://osu.ppy.sh/users/10494860), ::{ flag=US }:: [PorkIsGreat](https://osu.ppy.sh/users/10756322)，::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622), ::{ flag=GB }:: [TingMomentum](https://osu.ppy.sh/users/12489832), ::{ flag=BH }:: [Unitori-](https://osu.ppy.sh/users/15772814) |
 | Statistician | ::{ flag=VN }:: [MashedPotato](https://osu.ppy.sh/users/10494860) |
-| Banner designer | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552)  |
+| Banner designer | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) |
 | Storyboarder | ::{ flag=CN }:: [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617) |
 | Community contributor | ::{ flag=CN }:: [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CA }:: [Nezu-](https://osu.ppy.sh/users/21963245) |
 | Wiki editor | ::{ flag=CN }:: [cdwcgt](https://osu.ppy.sh/users/14721101), ::{ flag=CN }:: [Rush\_FTK](https://osu.ppy.sh/users/3046856) |
@@ -267,28 +267,28 @@ This competition has come to an end and resulted in the following podium:
 
 Saturday, March 12, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | sllab amogus | 3 | **7** | **Ordirehv** | [#1](https://osu.ppy.sh/community/matches/98657070) |
 | **rice quadruplets** | **7** | 1 | offbrand mwc | [#1](https://osu.ppy.sh/community/matches/98648075) |
 
 Sunday, March 13, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Hourai Elixir | 0 | **7** | **Black Stick Rot** | [#1](https://osu.ppy.sh/community/matches/98873851) |
 | Ordirehv | 1 | **7** | **rice quadruplets** | [#1](https://osu.ppy.sh/community/matches/98690929) |
 
 Saturday, March 19, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Hourai Elixir | 1 | **7** | **rice quadruplets** | [#1](https://osu.ppy.sh/community/matches/98873851) |
 | **Black Stick Rot** | **7** | 2 | rice quadruplets | [#1](https://osu.ppy.sh/community/matches/99123840) |
 
 Sunday, March 26, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 |  |  |  |  |  |
 
@@ -296,7 +296,7 @@ Sunday, March 26, 2022
 
 Saturday, March 5, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Knation | 4 | **7** | **Team Pixula** | [#1](https://osu.ppy.sh/community/matches/98412630) |
 | Fumo | 0 | **7** | **Ordirehv** | [#1](https://osu.ppy.sh/community/matches/98426262) |
@@ -305,7 +305,7 @@ Saturday, March 5, 2022
 
 Sunday, March 6, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | rice quadruplets | 5 | **7** | **Hourai Elixir** | [#1](https://osu.ppy.sh/community/matches/98456131), [#2](https://osu.ppy.sh/community/matches/98458144) |
 | sllab amogus | 4 | **7** | **Black Stick Rot** | [#1](https://osu.ppy.sh/community/matches/98465507) |
@@ -316,7 +316,7 @@ Sunday, March 6, 2022
 
 Saturday, February 26, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | badplayers49 | 0 | **6** | **Team Pixula** | [#1](https://osu.ppy.sh/community/matches/98185056) |
 | ICHIGAY!!! | -1 | **0** | **TheAnswerIsPorn** | *win by default* |
@@ -329,7 +329,7 @@ Saturday, February 26, 2022
 
 Sunday, February 27, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Appendicitis | 3 | **6** | **rice quadruplets** | [#1](https://osu.ppy.sh/community/matches/98223017) |
 | **Hourai Elixir** | **6** | 1 | Fumo | [#1](https://osu.ppy.sh/community/matches/98228674) |
@@ -344,7 +344,7 @@ Sunday, February 27, 2022
 
 Saturday, February 19, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Knation** | **6** | 2 | Ordirehv | [#1](https://osu.ppy.sh/community/matches/97945770) |
 | Black Stick Rot | **6** | 0 | ICHIGAY!!! | [#1](https://osu.ppy.sh/community/matches/97949454) |
@@ -354,7 +354,7 @@ Saturday, February 19, 2022
 
 Sunday, February 20, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Sierra Leone | 0 | **6** | **TheAnswerIsPorn** | [#1](https://osu.ppy.sh/community/matches/98014533) |
 | YEP | -1 | **0** | **TouWhou?** | *win by default* |
@@ -372,9 +372,9 @@ Sunday, February 20, 2022
 
 Saturday, January 12, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Appendicitis**  | **5** | 1 | YEP | [#1](https://osu.ppy.sh/community/matches/97677061) |
+| **Appendicitis** | **5** | 1 | YEP | [#1](https://osu.ppy.sh/community/matches/97677061) |
 | **Hourai  Elixir** | **5** | 0 | oh10 | [#1](https://osu.ppy.sh/community/matches/97677026) |
 | **Ordirehv** | **5** | 0 | Ricemakers | [#1](https://osu.ppy.sh/community/matches/97689810) |
 | **Knation** | **5** | 0 | FNF Club  Germany | [#1](https://osu.ppy.sh/community/matches/97691432) |
@@ -386,7 +386,7 @@ Saturday, January 12, 2022
 
 Sunday, January 13, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | TouWhou? | 4 | **5** | **offbrand  mwc** | [#1](https://osu.ppy.sh/community/matches/97718307) |
 | TheAnswerIsPorn | 1 | **5** | **rice  quadruplets** | [#1](https://osu.ppy.sh/community/matches/97723198) |
