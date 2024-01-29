@@ -166,7 +166,7 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 
 ### osu!mania
 
-- **[Spread](#spread) rules apply to each key mode separately.** For example, if you have 4K and 7K difficulties, you need two difficulty spreads.
+- **[Spread](#spread) rules apply to each key mode or [playstyle](/wiki/Ranking_criteria/osu!mania#common-terms) separately.** For example, if you have 4K and 7K difficulties, you need two difficulty spreads.
 - **Beatmaps can only use 4–10, 12, 14, 16, or 18 keys.** Key modes over 10 keys must use [certain playstyles](/wiki/Beatmapping/osu!mania_10K_plus_playstyles).
 - **No column can be left empty.**
 - **No more than 6 notes can be pressed at the same time in Insane or lower difficulties.**
