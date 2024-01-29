@@ -160,7 +160,9 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 
 ### osu!catch
 
-- something
+- **Auto must be able to SS your map.**
+- **Avoid [dashes](/wiki/Gameplay/Dash) and [hyperdashes](/wiki/Gameplay/Hyperdash) that lead to the edges of the screen.** Placements between x:16 and x:496 are okay.
+- **[Overall Difficulty](/wiki/Beatmap/Overall_difficulty) should match [Approach Rate](/wiki/Beatmap/Approach_rate).**
 
 ### osu!mania
 
