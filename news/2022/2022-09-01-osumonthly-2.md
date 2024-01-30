@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!monthly, August 2022"
+title: osu!monthly, August 2022
 date: 2022-09-01 10:00:00 +0000
 ---
 
@@ -55,7 +55,7 @@ COE 2022 took place at the Brabanthallen from August 1st to August 7th, organise
 
 Featuring over 30 hours of live stage events, COE 2022 was certainly ambitious in both range and scale. The immensely popular COE 1v1 tournament made its return, with [okinamo](https://osu.ppy.sh/users/3765989) crowned champion. In addition, COE 2022 continued to feature a large variety of Q&A panels, including [an incredibly technical dev talk](https://www.youtube.com/watch?v=HVBVqvpFVL4) hosted by [ThePooN](https://osu.ppy.sh/users/718454) and [peppy](https://osu.ppy.sh/users/2). Group activities such as Efteling and all-you-can-eat sushi were returning favourites, alongside newer entries such as Survivor and [Sotarks](https://osu.ppy.sh/users/4452992)' Blind Music Quiz.
 
-Of course, COE 2022 would not be complete without the collaborations of its supporting partners. Make Some Noise's (MSN) home arcade setup and [wooz](https://osu.ppy.sh/users/6888206)'s arcade (WoozPC) added an impressive catalogue of rhythm games available to experience at the venue. [Senzeeh](https://osu.ppy.sh/users/2489813)'s Yuki Aim also made an appearance, offering players a chance to win unique merchandise by completing difficult aim-based challenges. 
+Of course, COE 2022 would not be complete without the collaborations of its supporting partners. Make Some Noise's (MSN) home arcade setup and [wooz](https://osu.ppy.sh/users/6888206)'s arcade (WoozPC) added an impressive catalogue of rhythm games available to experience at the venue. [Senzeeh](https://osu.ppy.sh/users/2489813)'s Yuki Aim also made an appearance, offering players a chance to win unique merchandise by completing difficult aim-based challenges.
 
 A huge thank you to Meyer for taking charge of organisation this year, alongside all other contributors who helped make this event a success.
 
@@ -93,7 +93,7 @@ Not only is the map a marathon of no easy measure, but Kalanluu also decided to 
 
 ## Did you see that? No?
 
-As is the classic meme of osu!taiko top performance, this 4-mod insane play baffles anyone that stumbles upon such a feat. 
+As is the classic meme of osu!taiko top performance, this 4-mod insane play baffles anyone that stumbles upon such a feat.
 
 [Grape_Tea](https://osu.ppy.sh/users/9540073) does not disappoint with a mind-blowing, complete memorisation 4-mod play on [Sparxe - Comma, ~ Imi to Kouzou no Bunri [Horiiizon's Encore]](https://osu.ppy.sh/beatmapsets/1785711#taiko/3658314), which is not only impressive in and of itself, but also sets the new performance points record for osu!taiko.
 
@@ -103,7 +103,7 @@ If you've never seen someone magically FC a map with +HDHRDTFL and colours seemi
 
 ## Brrrzzt! Whoosh! Brzzzt!
 
-Don't think that osu!taiko and osu! can steal the show that easily! The osu!catch showcase for this month comes with a multitude of dashes, hypers, and plays that shouldn't be humanly possible. 
+Don't think that osu!taiko and osu! can steal the show that easily! The osu!catch showcase for this month comes with a multitude of dashes, hypers, and plays that shouldn't be humanly possible.
 
 [ArMa79](https://osu.ppy.sh/users/4982799) appears to do the impossible on [Various Artist - Dan ~ CTB ~ 3rd Pack [~ Shin ~ (Marathon)]](https://osu.ppy.sh/beatmapsets/884597#fruits/1872971), nearly tripling the previous leader's combo, halving the miss count, (and for those who LOVE score) doubling the final score.
 
@@ -137,7 +137,7 @@ The map might seem pretty generic at first, but it ramps up in difficulty not in
 
 osu! did not support any keyboard inputs when it was released, it was only after a [suggestion was made on the forums](https://osu.ppy.sh/community/forums/topics/431?n=8) that it was added!
 
-Another cool fact: originally you could only press circles with the space bar until a suggestion was made to have "Z" and "X" as the default bindings.  
+Another cool fact: originally you could only press circles with the space bar until a suggestion was made to have "Z" and "X" as the default bindings.
 
 ## Monthly community quiz
 

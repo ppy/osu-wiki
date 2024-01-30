@@ -1,23 +1,23 @@
 ---
 tags:
- - mod
- - game modifier
- - overview
- - list of mods
- - NoMod
- - No Mod
- - FreeMod
- - Free Mod
- - мод
- - моды
- - игровой мод
- - игровой модификатор
- - список модов
- - номод
- - ноумод
- - без модов
- - фримод
- - фри мод
+  - mod
+  - game modifier
+  - overview
+  - list of mods
+  - NoMod
+  - No Mod
+  - FreeMod
+  - Free Mod
+  - мод
+  - моды
+  - игровой мод
+  - игровой модификатор
+  - список модов
+  - номод
+  - ноумод
+  - без модов
+  - фримод
+  - фри мод
 ---
 
 # Игровой модификатор

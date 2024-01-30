@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 3ed5f88691b52de8c58e362fa8671ee6903d6ecc
+---
+
 # Критерии ранкинга osu!catch
 
 ***Примечание: эта статья — продолжение [общих критериев ранкинга](/wiki/Ranking_criteria).***

@@ -42,4 +42,4 @@ tags:
 :::
 
 - 最初的两块主页奖牌在 2009年9月6日 被颁发给 ::{ flag=PL }:: [niedzwiedz1124](https://osu.ppy.sh/users/9610) 和 ::{ flag=PL }:: [White Wolf](https://osu.ppy.sh/users/39828)，作为他们在 [*Tag Tournament* （团队接力锦标赛）获胜](https://osu.ppy.sh/community/forums/topics/17169)的奖励。
-- 奖牌可以链接到其他网页以获取更多信息，但目前没有奖牌用到这个功能。
+- 奖牌可以链接到其他网页以获取更多信息，比如锦标赛的论坛贴或相应的 wiki 页面。

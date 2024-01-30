@@ -22,7 +22,7 @@ Test questions are pulled from a large pool of questions sorted by category. The
 - [Storyboarding RC](/wiki/Ranking_criteria#storyboarding)
 - Mode-specific RC: 4 questions specific to the game mode applied to (osu!, osu!taiko, osu!catch, osu!mania)
 
-There is no threshold for passing or failing the BN test, however it's generally accepted that a score above 15 is good, a score between 12.5 and 15 is mediocre, and any scores lower are concerning.
+For osu! applications, a score below 12.5 will result in a failed application. For other game modes, there is no threshold for passing or failing the BN test, however it's generally accepted that a score above 15 is good, a score between 12.5 and 15 is mediocre, and any scores lower are concerning.
 
 The test has no time limit and it's expected that applicants read relevant wiki pages while taking the test. (It's not cheating!)
 

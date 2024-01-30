@@ -22,4 +22,4 @@ Jika offset lokal telah ditentukan, osu! akan menampilkan offset lokal pada anta
 
 osu! juga akan memberi tahu Kamu tentang perubahan offset lokal sebelum memulai permainan.
 
-![Pemberitahuan offset lokal](img/local-offset-notice.png "Pemberitahuan offset lokal")
+![Pemberitahuan offset lokal](img/local-offset-notice.jpg "Pemberitahuan offset lokal")
