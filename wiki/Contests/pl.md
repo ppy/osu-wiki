@@ -15,7 +15,7 @@ Poniżej przedstawiono konkursy dot. tworzenia beatmap, które są organizowane 
 
 Ważne:
 
-- Zwycięzcy tego konkursu otrzymąją tytuł „Elite Mapper" na forum.
+- Zwycięzcy tego konkursu otrzymąją tytuł „Elite Mapper” na forum.
 - Zwycięskie zestawy beatmap z pierwszych 12 edycji konkursu (oprócz 6. edycji) zostały bądź zostaną dołączone do [instalatora osu!](https://osu.ppy.sh/home/download) (wraz z [samouczkiem](https://osu.ppy.sh/beatmapsets/3756)).
 - Zwycięskie zestawy beatmap od 13. edycji zostały bądź zostaną wyróżnione przez zespół osu!.
 
@@ -46,8 +46,8 @@ Konkursy Aspire to konkursy dot. tworzenia beatmap, w których nie obowiązują 
 
 Ważne:
 
-- Zwycięzcy tego konkursu otrzymują tytuł „Elite Mapper: Aspirant" na forum oraz unikalną odznakę profilową Aspire.
-- 6\. edycja konkursu „Monthly Beatmapping Contest" działała na takich samych zasadach jak Aspire, ale nie jest w żaden sposób związana z „Aspire 2016".
+- Zwycięzcy tego konkursu otrzymują tytuł „Elite Mapper: Aspirant” na forum oraz unikalną odznakę profilową Aspire.
+- 6\. edycja konkursu „Monthly Beatmapping Contest” działała na takich samych zasadach jak Aspire, ale nie jest w żaden sposób związana z „Aspire 2016".
 
 | Edycja | Beatmapa | Tryb | Twórca | Wyniki | Ranking |
 | :-: | :-- | :-: | :-- | :-- | :-- |
