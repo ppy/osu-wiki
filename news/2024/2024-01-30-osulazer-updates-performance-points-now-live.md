@@ -13,7 +13,7 @@ This is it. Today is the day when you can start farming performance points in la
 Hear all about how we got here since the last update in December and what exactly this "lazer release" means:
 
 <div align="center">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/xTRwM3zhhj0" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/D7SZk8mU7Ww" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ### Smaller changes
