@@ -72,7 +72,7 @@ osu!taiko 与 osu!mania 不受缩圈速度改变的影响——两个模式都�
 
 ![音效 (Audio) 标签页的两张截图。它们基于定义的打击音效与音量设置而不同。](img/SS_Audio.jpg "音效 (Audio) 页面。如果谱面的音量设置上包含自定义计时设置，就会显示右图。")
 
-当谱面没有自定义[打击音效](/wiki/Beatmapping/Hitsound)时，可以在 `音效 (Audio)` 标签页下为整张谱面一次配置音效。作图者常常想更细致地控制音效；因此他们不使用此标签页，转而使用多个[计时区间](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point)，按谱面小节自定义音效。在这种情况下，无法改变标签页上部分的设置，点击 `重置设置 (Reset Settings)` 按钮会删除所有自定义计时区间的音量设置。
+当谱面没有自定义[打击音效](/wiki/Beatmapping/Hitsound)时，可以在 `音效 (Audio)` 标签页下为整张谱面一次配置音效。作图者常常想更细致地控制音效；因此他们不使用此标签页，转而使用多个[计时区间](/wiki/Client/Beatmap_editor/Timing#继承时间点（绿线）)，按谱面小节自定义音效。在这种情况下，无法改变标签页上部分的设置，点击 `重置设置 (Reset Settings)` 按钮会删除所有自定义计时区间的音量设置。
 
 | 设置项 | 作用 |
 | :-- | :-- |
