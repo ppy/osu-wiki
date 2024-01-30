@@ -95,7 +95,13 @@ The grade requirements in osu!(lazer) are now as follows:
 
 Federal regulations require us to warn you that this next osu! update... is looking *pretty good*.
 
-A whole lot of the menu has been tweaked:
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/media/news/menu-2024.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
+
+There's a lot to unpack in that one video.
 
 - The top toolbar design has been tweaked to use more rounded shapes and different colours.
 - The settings panel layout now always shows the section text (previously on hover).
@@ -112,7 +118,7 @@ And some things that were still missing compared to osu!(stable)'s main menu hav
 - Tips on the main menu, instead of the now removed disclaimer screen. (There are also more tips now.)
 - A message thanking [supporters](/wiki/osu!supporter).
 
-If text doesn't convey the *freshness* of the new osu! well enough, simply open the game. [It's right here.](https://osu.ppy.sh/home/download)
+If text and video don't convey the *freshness* of the new osu! well enough, simply open the game. [It's right here.](https://osu.ppy.sh/home/download)
 
 ## The pp release
 
@@ -146,7 +152,7 @@ You will find a new button in the website's profile dropdown called **lazer mode
 - With the checkbox off, nothing changes and everything will be as it ever was.
 - With **lazer mode** on, beatmap leaderboards will show both stable and lazer scores, all using lazer scoring.
 
-Regardless of this mode, the rank on your profile and in global leaderboards will include both lazer and stable scores.<!-- todo: confirm -->
+Regardless of this mode, the rank on your profile and in global leaderboards will include both lazer and stable scores.
 
 ### Scores may be reset
 
