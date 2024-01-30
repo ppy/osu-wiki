@@ -158,7 +158,7 @@ Regardless of this mode, the rank on your profile and in global leaderboards wil
 
 The lazer client includes changes to gameplay mechanics that not everyone may be comfortable with, even when performance point leaderboards are live. Whether the majority will accept the new client and move to it is still up in the air.
 
-If it turns out, based on feedback from the wider playerbase, that game mechanics or game balance need changing in such a way that scores need to be removed, that will be prioritised over keeping scores.
+If it turns out, based on feedback from the wider player base, that game mechanics or game balance need changing in such a way that scores need to be removed, that will be prioritised over keeping scores.
 
 For some of you, not having guaranteed permanent scores may be a dealbreaker. If that describes you, you'll be waiting a while longer.
 
