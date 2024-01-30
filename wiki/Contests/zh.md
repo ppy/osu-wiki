@@ -1,6 +1,5 @@
 ---
 outdated_translation: true
-outdated_since: a42201322492187cb7c0a98979ec774abefb0826
 ---
 
 # 竞赛
