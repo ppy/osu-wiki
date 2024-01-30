@@ -12,10 +12,10 @@ Esto hace que sea más difícil continuar desde una pausa en medio de un juego a
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | No |
-| Soporte para revertirlo con el mod Classic | No |
-| Cambiado intencionalmente | Sí |
-| Necesita más consideración | Sí |
+| Daña la retrocompatibilidad | ![No][false] |
+| Soporte para revertirlo con el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![Sí][true] |
+| Necesita más consideración | ![Sí][true] |
 
 ### El mod Easy ya no pausa la partida al recuperarse de fallar
 
@@ -23,10 +23,10 @@ En lugar de detener el juego mientras se llena la barra de salud, la salud se re
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | No |
-| Soporte para revertirlo con el mod Classic | No |
-| Cambiado intencionalmente | No |
-| Necesita más consideración | Sí |
+| Daña la retrocompatibilidad | ![No][false] |
+| Soporte para revertirlo con el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![No][false] |
+| Necesita más consideración | ![Sí][true] |
 
 ### El sistema de salud es diferente
 
@@ -34,10 +34,10 @@ Esto se debe principalmente a los cambios realizados al sistema de juicio. Por e
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | Sí |
-| Soporte para revertirlo con el mod Classic | Sí |
-| Cambiado intencionalmente | Sí |
-| Necesita más consideración | Sí |
+| Daña la retrocompatibilidad | ![Sí][true] |
+| Soporte para revertirlo con el mod Classic | ![Sí][true] |
+| Cambiado intencionalmente | ![Sí][true] |
+| Necesita más consideración | ![Sí][true] |
 
 ### Todos los modos de juego, a excepción de osu!catch, usan el mismo sistema de grados
 
@@ -63,10 +63,10 @@ Mientras tanto, osu!(lazer) ahora tiene los siguientes requisitos:
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | Sí |
-| Soporte para revertirlo con el mod Classic | No |
-| Cambiado intencionalmente | Sí |
-| Necesita más consideración | Sí |
+| Daña la retrocompatibilidad | ![Sí][true] |
+| Soporte para revertirlo con el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![Sí][true] |
+| Necesita más consideración | ![Sí][true] |
 
 ### Los cálculos de los límites de las ventanas de tiempo no coinciden con stable
 
@@ -80,10 +80,10 @@ Cuando un golpe aterriza justo en el límite de la ventana de tiempo, se puede r
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | Sí |
-| Soporte para revertirlo con el mod Classic | No |
-| Cambiado intencionalmente | Sí |
-| Necesita más consideración | Sí |
+| Daña la retrocompatibilidad | ![Sí][true] |
+| Soporte para revertirlo con el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![Sí][true] |
+| Necesita más consideración | ![Sí][true] |
 
 ### Diferencias en el sistema de puntuación
 
@@ -95,10 +95,10 @@ También hay algunas diferencias en cuanto a la puntuación de cada objeto y jui
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | Sí |
-| Soporte para revertirlo con el mod Classic | No |
-| Cambiado intencionalmente | Sí |
-| Necesita más consideración | Sí |
+| Daña la retrocompatibilidad | ![Sí][true] |
+| Soporte para revertirlo con el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![Sí][true] |
+| Necesita más consideración | ![Sí][true] |
 
 ### Los elementos no están implementados en los storyboards
 
@@ -116,10 +116,10 @@ Recuperarse de un fallo en patrones densos ahora es más fácil.
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | Sí |
-| Soporte para revertirlo con el mod Classic | Sí |
-| Cambiado intencionalmente | Sí |
-| Necesita más consideración | No |
+| Daña la retrocompatibilidad | ![Sí][true] |
+| Soporte para revertirlo con el mod Classic | ![Sí][true] |
+| Cambiado intencionalmente | ![Sí][true] |
+| Necesita más consideración | ![No][false] |
 
 ### Los slider head requieren precisión al golpear
 
@@ -129,10 +129,10 @@ Hasta la llegada de lazer, los sliders requerían como mínimo la precisión de 
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | Sí |
-| Soporte para revertirlo con el mod Classic | Sí |
-| Cambiado intencionalmente | Sí |
-| Necesita más consideración | No |
+| Daña la retrocompatibilidad | ![Sí][true] |
+| Soporte para revertirlo con el mod Classic | ![Sí][true] |
+| Cambiado intencionalmente | ![Sí][true] |
+| Necesita más consideración | ![No][false] |
 
 ### Fallar un slider head ocasiona un fallo
 
@@ -142,10 +142,10 @@ En lazer, no golpear un slider head dará un juicio de MISS para el slider compl
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | Sí |
-| Soporte para revertirlo con el mod Classic | No |
-| Cambiado intencionalmente | Sí |
-| Necesita más consideración | No |
+| Daña la retrocompatibilidad | ![Sí][true] |
+| Soporte para revertirlo con el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![Sí][true] |
+| Necesita más consideración | ![No][false] |
 
 ### Los slider ends no ocasionan un hitsound cuando no se golpean
 
@@ -153,10 +153,10 @@ En stable, los slider ends reproducían su respectivo hitsound aunque se fallara
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | No |
-| Soporte para revertirlo con el mod Classic | Sí |
-| Cambiado intencionalmente | Sí |
-| Necesita más consideración | No |
+| Daña la retrocompatibilidad | ![No][false] |
+| Soporte para revertirlo con el mod Classic | ![Sí][true] |
+| Cambiado intencionalmente | ![Sí][true] |
+| Necesita más consideración | ![No][false] |
 
 ### Se ha eliminado el límite de velocidad de 477 RPM en los giros de los spinners
 
@@ -174,10 +174,10 @@ La cantidad requerida de RPM para obtener la máxima puntuación se muestra a co
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | Sí |
-| Soporte para revertirlo con el mod Classic | No |
-| Cambiado intencionalmente | Sí |
-| Necesita más consideración | Sí |
+| Daña la retrocompatibilidad | ![Sí][true] |
+| Soporte para revertirlo con el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![Sí][true] |
+| Necesita más consideración | ![Sí][true] |
 
 ### Los sliders de estilo Aspire no son soportados
 
@@ -189,10 +189,10 @@ Se necesitará de más discusión y consideración sobre cuántos beatmaps Aspir
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | Sí |
-| Soporte para revertirlo con el mod Classic | No |
-| Cambiado intencionalmente | No |
-| Necesita más consideración | Sí |
+| Daña la retrocompatibilidad | ![Sí][true] |
+| Soporte para revertirlo con el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![No][false] |
+| Necesita más consideración | ![Sí][true] |
 
 ## osu!taiko
 
@@ -202,10 +202,10 @@ Algunos mapas con trucos hacen uso de notas que se superponen.
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | Sí |
-| Soporte para revertirlo con el mod Classic | No |
-| Cambiado intencionalmente | No |
-| Necesita más consideración | No |
+| Daña la retrocompatibilidad | ![Sí][true] |
+| Soporte para revertirlo con el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![No][false] |
+| Necesita más consideración | ![No][false] |
 
 ### Los tambores no evitan el machacado
 
@@ -213,10 +213,10 @@ En stable, los tambores no podrían ser golpeados muy rápida o lentamente. Esta
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | Sí |
-| Soporte para revertirlo con el mod Classic | No |
-| Cambiado intencionalmente | Sí |
-| Necesita más consideración | Sí |
+| Daña la retrocompatibilidad | ![Sí][true] |
+| Soporte para revertirlo con el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![Sí][true] |
+| Necesita más consideración | ![Sí][true] |
 
 ### El centro del mod Flashlight está alineado con el receptor de golpe
 
@@ -224,10 +224,10 @@ En stable, el centro del mod Flashlight está ligeramente desalineado hacia abaj
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | No |
-| Soporte para revertirlo con el mod Classic | No |
-| Cambiado intencionalmente | No |
-| Necesita más consideración | Sí |
+| Daña la retrocompatibilidad | ![No][false] |
+| Soporte para revertirlo con el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![No][false] |
+| Necesita más consideración | ![Sí][true] |
 
 ## osu!catch
 
@@ -237,10 +237,10 @@ Esto puede ocasionar juicios imprecisos en las repeticiones y un aumento en la d
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | Sí |
-| Soporte para revertirlo con el mod Classic | No |
-| Cambiado intencionalmente | No |
-| Necesita más consideración | Sí |
+| Daña la retrocompatibilidad | ![Sí][true] |
+| Soporte para revertirlo con el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![No][false] |
+| Necesita más consideración | ![Sí][true] |
 
 ### La aparición de la corriente de jugo puede ser diferente en algunos casos
 
@@ -248,10 +248,10 @@ Esto puede ocasionar juicios imprecisos en las repeticiones.
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | Sí |
-| Soporte para revertirlo con el mod Classic | No |
-| Cambiado intencionalmente | No |
-| Necesita más consideración | Sí |
+| Daña la retrocompatibilidad | ![Sí][true] |
+| Soporte para revertirlo con el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![No][false] |
+| Necesita más consideración | ![Sí][true] |
 
 ## osu!mania
 
@@ -261,10 +261,10 @@ Esto funciona de manera similar a ScoreV2 en stable.
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | Sí |
-| Soporte para revertirlo con el mod Classic | No |
-| Cambiado intencionalmente | Sí |
-| Necesita más consideración | No |
+| Daña la retrocompatibilidad | ![Sí][true] |
+| Soporte para revertirlo con el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![Sí][true] |
+| Necesita más consideración | ![No][false] |
 
 ### Las marcas de las notas largas dan puntos y ocasionan roturas de combo
 
@@ -274,10 +274,10 @@ Esto permite hacer trampa (o «manipular») al permitir el «wrist-jacking» cua
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | Sí |
-| Soporte para revertirlo con el mod Classic | No |
-| Cambiado intencionalmente | Sí |
-| Necesita más consideración | Sí |
+| Daña la retrocompatibilidad | ![Sí][true] |
+| Soporte para revertirlo con el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![Sí][true] |
+| Necesita más consideración | ![Sí][true] |
 
 ### Las velocidades de desplazamiento extremas están limitadas
 
@@ -285,10 +285,10 @@ Algunos beatmaps con trucos de SV, como teletransportes o detenimientos, no tien
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | No |
-| Soporte para revertirlo con el mod Classic | No |
-| Cambiado intencionalmente | Sí |
-| Necesita más consideración | Sí |
+| Daña la retrocompatibilidad | ![No][false] |
+| Soporte para revertirlo con el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![Sí][true] |
+| Necesita más consideración | ![Sí][true] |
 
 ### La ventana de tiempo para los juicios PERFECT escala con el OD
 
@@ -296,10 +296,10 @@ Esto solía resultar en ±16 ms constantes independientemente de la dificultad g
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | Sí |
-| Soporte para revertirlo con el mod Classic | No |
-| Cambiado intencionalmente | Sí |
-| Necesita más consideración | ¿No? |
+| Daña la retrocompatibilidad | ![Sí][true] |
+| Soporte para revertirlo con el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![Sí][true] |
+| Necesita más consideración | ![No][false] |
 
 ### Los beatmaps convertidos ya no tienen una ventana de tiempo diferente
 
@@ -307,10 +307,10 @@ En stable, los beatmaps convertidos desde el modo de juego osu! a osu!mania ten�
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | Sí |
-| Soporte para revertirlo con el mod Classic | No |
-| Cambiado intencionalmente | Sí |
-| Necesita más consideración | ¿No? |
+| Daña la retrocompatibilidad | ![Sí][true] |
+| Soporte para revertirlo con el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![Sí][true] |
+| Necesita más consideración | ![No][false] |
 
 ### El mod Flashlight no tiene degradado
 
@@ -318,7 +318,10 @@ En stable, los beatmaps convertidos desde el modo de juego osu! a osu!mania ten�
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | No |
-| Soporte para revertirlo con el mod Classic | No |
-| Cambiado intencionalmente | No |
-| Necesita más consideración | Sí |
+| Daña la retrocompatibilidad | ![No][false] |
+| Soporte para revertirlo con el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![No][false] |
+| Necesita más consideración | ![Sí][true] |
+
+[true]: /wiki/shared/true.png
+[false]: /wiki/shared/false.png
