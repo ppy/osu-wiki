@@ -90,7 +90,7 @@ Listed below are the players who were admitted into the Group stage along with t
   1. [KikuoHana - Desert Theater (Keqing) \[Mirage (\#1)\]](https://osu.ppy.sh/beatmapsets/1382362#fruits/2856086)
   2. [Katakiri Rekka - Answer (ShirohaMyMommy) \[GlazeE's Extra\]](https://osu.ppy.sh/beatmapsets/1062653#fruits/2237075)
   3. [Falcom Sound Team jdk - Seductive Shudder (jonathanlfj) \[Bewitching OWC\]](https://osu.ppy.sh/beatmapsets/1306626#fruits/2709094)
-  4. [L.E.D. - CHRONO DIVER -NORNIR- (yf\_bmp) \[Gust's Another\]](https://osu.ppy.sh/beatmapsets/1363479#fruits/2831889)  
+  4. [L.E.D. - CHRONO DIVER -NORNIR- (yf\_bmp) \[Gust's Another\]](https://osu.ppy.sh/beatmapsets/1363479#fruits/2831889)
 - HardRock
   1. [Yonekura Chihiro - DEAR MY WAKER (Skystar) \[Overdrive\]](https://osu.ppy.sh/beatmapsets/1579180#fruits/3224533)
   2. [UNDEAD CORPORATION - Flowering Night Fever (Alheak) \[Flowering\]](https://osu.ppy.sh/beatmapsets/393663#fruits/856743)
@@ -118,7 +118,7 @@ Listed below are the players who were admitted into the Group stage along with t
   1. [REOL - VIP KID (Sparhten) \[Isolophobia\]](https://osu.ppy.sh/beatmapsets/1164168#fruits/2609556)
   2. [Ricky Montgomery - Line Without a Hook (Cheri) \[Expert\]](https://osu.ppy.sh/beatmapsets/1172523#fruits/2445615)
   3. [koushirou - Amata no Mai -Dance of many- (IOException) \[Expert\]](https://osu.ppy.sh/beatmapsets/1228557#fruits/2554582)
-  4. [TOTAL OBJECTION - Higurashi Moratorium (rollpan) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/702512#fruits/1486534)  
+  4. [TOTAL OBJECTION - Higurashi Moratorium (rollpan) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/702512#fruits/1486534)
 - HardRock
   1. [Falcom Sound Team jdk - Desert After Tears (Deca) \[lfj's Nightmare\]](https://osu.ppy.sh/beatmapsets/1150262#fruits/2524307)
   2. [S.F.A - Dienos Advento (Nathan) \[Luscent's Extra\]](https://osu.ppy.sh/beatmapsets/1085630#fruits/2367232)
@@ -382,7 +382,7 @@ Sunday, 12 September 2021:
    - Whether there are players who are disqualified from the tournament.
 6. Two players who placed on top of their respective groups' rankings based on the criteria listed above will advance to the Knock-out stage.
 
-### Knock-out stage rules 
+### Knock-out stage rules
 
 1. The eight Group stage winners will be matched to the eight Group stage runners-up at random; that is, instead of following a predetermined match-up format (A1 vs H2, B1 vs G2, and so on), all the match-ups will be based on the result of a livestreamed [random.org](http://www.random.org/lists/) draw.
 2. Players will compete against each other using the Double Elimination system.

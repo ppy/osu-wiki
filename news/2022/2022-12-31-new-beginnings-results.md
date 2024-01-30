@@ -34,7 +34,7 @@ The traditional media feel on this one is a rare treat!
 
 [![](https://assets.ppy.sh/contests/160/banners/Novarece.jpg)](https://assets.ppy.sh/contests/160/winners/Novarece.png)
 
-**1944** voters cheered on [**Novarece**](https://osu.ppy.sh/users/18728833)'s take on pippi, Mocha and Maria (in her old costume) enjoying some cake on a lake to welcome in the new year. That's all that's going on in this picture. 
+**1944** voters cheered on [**Novarece**](https://osu.ppy.sh/users/18728833)'s take on pippi, Mocha and Maria (in her old costume) enjoying some cake on a lake to welcome in the new year. That's all that's going on in this picture.
 
 Do not look at the walls of the boat. Do not look under the table.
 
@@ -118,7 +118,7 @@ You'll find that all the entries listed above are available in your favorite rel
 
 The top 3 finalists have received their fancy bespoke profile badges to celebrate their win, and all the finalists will find themselves starting 2023 with 3 months of osu! supporter for their superb efforts.
 
-The full voting results are available over at the [New Beginnings contest listing](https://osu.ppy.sh/community/contests/160), so make sure to check that out if you're wondering where your favorite entry ended up if it didn't make it into the finalists. 
+The full voting results are available over at the [New Beginnings contest listing](https://osu.ppy.sh/community/contests/160), so make sure to check that out if you're wondering where your favorite entry ended up if it didn't make it into the finalists.
 
 If you like any of the pieces that aren't available in the archive above, make sure to check the artist's profile for any socials or maybe send them a DM asking them for a link to the piece! Nothing warms the heckles more than having people express how much they like your stuff.
 

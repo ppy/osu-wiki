@@ -12,7 +12,7 @@ Es ist jedoch erwähnenswert, dass sich der Inhalt aller Video Game Packs, Anime
 
 ## Skill
 
-**Skill Medaillen** sind Medaillen, die bei verschiedenen fähigkeitsbasierten Errungenschaften vergeben werden, z. B. das Erreichen eines bestimmten [Combo](/wiki/Beatmapping/Combo)-Meilensteins, das Erklimmen eines bestimmten Rangs in den [globalen Performance-Punkte-Ranglisten](https://osu.ppy.sh/rankings/osu/performance) oder das Erzielen einer [vollständigen Combo](/wiki/Gameplay/Full_combo) auf einer beliebigen Beatmap, die [qualified](/wiki/Beatmap/Category#qualifiziert), [ranked](/wiki/Beatmap/Category#ranked) oder [approved](/wiki/Beatmap/Category#approved) ist, innerhalb eines bestimmten Bereichs für die [Sternebewertung](/wiki/Beatmap/Star_rating).
+**Skill Medaillen** sind Medaillen, die bei verschiedenen fähigkeitsbasierten Errungenschaften vergeben werden, z. B. das Erreichen eines bestimmten [Combo](/wiki/Beatmapping/Combo)-Meilensteins, das Erklimmen eines bestimmten Rangs in den [globalen Performance-Punkte-Ranglisten](https://osu.ppy.sh/rankings/osu/performance) oder das Erzielen einer [vollständigen Combo](/wiki/Gameplay/Full_combo) auf einer beliebigen Beatmap, die [qualified](/wiki/Beatmap/Category#qualified), [ranked](/wiki/Beatmap/Category#ranked) oder [approved](/wiki/Beatmap/Category#approved) ist, innerhalb eines bestimmten Bereichs für die [Sternebewertung](/wiki/Beatmap/Star_rating).
 
 ## Dedication
 
@@ -22,7 +22,7 @@ Es ist jedoch erwähnenswert, dass sich der Inhalt aller Video Game Packs, Anime
 
 *Siehe auch: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*
 
-**Mod Introduction Medaillen** (zu Dt. Mod-Vorstellung) sind Medaillen, die beim Abschließen von [qualified](/wiki/Beatmap/Category#qualifiziert), [ranked](/wiki/Beatmap/Category#ranked) oder [approved](/wiki/Beatmap/Category#approved) Beatmaps mit der entsprechenden [Spielmodifikation (Mod)](/wiki/Gameplay/Game_modifier) überreicht werden. Diese Medaillen sollen neue Spieler dazu ermutigen, jede Mod auszuprobieren und zu entdecken, was das Spiel zu bieten hat. Bedenke jedoch, dass wenn Spieler mit mehreren Spielmodifikationen zur gleichen Zeit spielen, der Spieler **nicht** berechtigt ist, *irgendeine* der Medaillen für die Spielmodifikationen für dieses Spiel zu gewinnen.
+**Mod Introduction Medaillen** (zu Dt. Mod-Vorstellung) sind Medaillen, die beim Abschließen von [qualified](/wiki/Beatmap/Category#qualified), [ranked](/wiki/Beatmap/Category#ranked) oder [approved](/wiki/Beatmap/Category#approved) Beatmaps mit der entsprechenden [Spielmodifikation (Mod)](/wiki/Gameplay/Game_modifier) überreicht werden. Diese Medaillen sollen neue Spieler dazu ermutigen, jede Mod auszuprobieren und zu entdecken, was das Spiel zu bieten hat. Bedenke jedoch, dass wenn Spieler mit mehreren Spielmodifikationen zur gleichen Zeit spielen, der Spieler **nicht** berechtigt ist, *irgendeine* der Medaillen für die Spielmodifikationen für dieses Spiel zu gewinnen.
 
 Alle Mod Introduction Medaillen können in jedem [Spielmodus](/wiki/Game_mode) freigeschaltet werden, sofern nicht anders angegeben.
 
@@ -35,6 +35,8 @@ Alle Mod Introduction Medaillen können in jedem [Spielmodus](/wiki/Game_mode) f
 - Die *Flair-Texte*<!-- https://twitter.com/ephemeralis/status/1068054191602638850 --> der Medaillen (sofern vorhanden), sichtbar beim Fahren der Maus über die entsprechenden Karten.
 
 Da die Hush-Hush Medaillen eine Art geheime Errungenschaft sein sollen, sind die Freischaltungsanforderungen nicht direkt spezifiziert, jedoch sind Spieler [dazu eingeladen, zusammenzuarbeiten, um gemeinsam herauszufinden, wie alle Hush-Hush Medaillen da draußen erlangt werden können](https://osu.ppy.sh/home/news/2016-08-17-new-hush-hush-medals).
+
+Es gibt auch eine Unterkategorie namens "Hush-Hush (Expert)". Der Unterschied ist, dass für die dortigen Medaillen keine [speziellen](/wiki/Gameplay/Game_modifier#sonstige) Mods oder Mods, die die [Schwierigkeit reduzieren](/wiki/Gameplay/Game_modifier#einfacher), aktiviert sein dürfen.
 
 ## Beatmap Spotlights
 

@@ -1,10 +1,6 @@
----
-no_native_review: true
----
-
 # Editor de beatmaps
 
-![Una captura de pantalla de la pestaña compose del editor que muestra el beatmap Donor Song de pishifat](img/compose.jpg)
+![Una captura de pantalla de la pestaña compose del editor que muestra el beatmap Donor Song de pishifat](img/compose-ES.jpg)
 
 *Para atajos de teclado del editor de beatmaps, véase: [Referencia de atajos de teclado § Editor de beatmaps](/wiki/Client/Keyboard_shortcuts#beatmap-editor)*
 
@@ -23,7 +19,7 @@ El editor de beatmaps está dividido en cuatro secciones principales que se pued
 
 ## Design
 
-[Design](/wiki/Client/Beatmap_editor/Design) ofrece una forma de hacer [storyboards](/wiki/Storyboard), los efectos visuales que acompañan a los beatmaps. Debido a que los storyboards a menudo tienen efectos complejos que justifican el uso de muchos comandos de storyboards, los mappers también usan [secuencias de comandos de storyboards](/wiki/Storyboard/Scripting) directamente sin ingresar a la pestaña design.
+[Design](/wiki/Client/Beatmap_editor/Design) ofrece una forma de hacer [storyboards](/wiki/Storyboard), los efectos visuales que acompañan a los beatmaps. Debido a que los storyboards a menudo tienen efectos complejos que justifican el uso de muchos comandos de storyboards, los mappers también usan [secuencias de comandos](/wiki/Storyboard/Scripting) directamente sin ingresar a la pestaña design.
 
 ## Timing
 
@@ -38,9 +34,9 @@ El editor de beatmaps está dividido en cuatro secciones principales que se pued
 Otros componentes del editor de beatmaps incluyen:
 
 - [AiMod](AiMod): Un sistema automatizado que informa problemas en un beatmap
-- [Divisor de ritmo](Beat_Snap_Divisor): Determina cómo los objetos se ajustan a la línea de tiempo
+- [Divisor de ritmo](Beat_snap_divisor): Determina cómo los objetos se ajustan a la línea de tiempo
 - [Distance snap](Distance_snap): El multiplicador que afecta qué tan cerca o lejos se colocan los objetos entre sí
-- [Kiai time](/wiki/Gameplay/Kiai_time): Secciones de temporización especiales que ayudan a enfatizar una parte de un beatmap
+- [Kiai time](/wiki/Gameplay/Kiai_time): Secciones de tiempo especiales que ayudan a enfatizar una parte de un beatmap
 - [Menú](Menu): Te ayuda a navegar por el editor de beatmaps
-- [Carga del SB](SB_Load): Un número que se usa para indicar qué tan exigente es un storyboard
+- [Carga del SB](SB_load): Un número que se usa para indicar qué tan exigente es un storyboard
 - [Líneas de tiempo](Timelines): Muestra objetos colocados, descansos y más

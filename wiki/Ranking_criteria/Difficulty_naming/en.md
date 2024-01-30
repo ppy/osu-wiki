@@ -8,7 +8,7 @@ These difficulty names are the most commonly used for each game mode.
 
 *Note: The special difficulty name **Marathon** historically allowed mappers to submit maps of longer songs, and thus became popular for single-difficulty mapsets. Today, the name has no special meaning and is typically only used for very long songs or song compilations.*
 
-### osu!
+### ![](/wiki/shared/mode/osu.png) osu!
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-o.png?20211215) Normal
@@ -16,15 +16,15 @@ These difficulty names are the most commonly used for each game mode.
 - ![](/wiki/shared/diff/insane-o.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert
 
-### osu!taiko
+### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
 - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
 - ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png?20211215) Oni
-- ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni / Ura Oni
 
-### osu!catch
+### ![](/wiki/shared/mode/catch.png) osu!catch
 
 - ![](/wiki/shared/diff/easy-c.png?20211215) Cup
 - ![](/wiki/shared/diff/normal-c.png?20211215) Salad
@@ -32,13 +32,24 @@ These difficulty names are the most commonly used for each game mode.
 - ![](/wiki/shared/diff/insane-c.png?20211215) Rain
 - ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
 
-### osu!mania
+### ![](/wiki/shared/mode/mania.png) osu!mania
 
 - ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-m.png?20211215) Normal
 - ![](/wiki/shared/diff/hard-m.png?20211215) Hard
 - ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-m.png?20211215) Expert
+
+### Widely accepted alternatives
+
+- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner: Below Easy
+- ![](/wiki/shared/diff/easy-t.png?20211215) Shokyuu: Below Kantan
+- ![](/wiki/shared/diff/normal-o.png?20211215) Advanced: Between Normal and Hard
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper: Between Hard and Insane
+- ![](/wiki/shared/diff/expert-o.png?20211215) Extra: Alternative to Expert
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme: Above Expert
+- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni: Above Inner Oni / Ura Oni
+- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge: Above Overdose
 
 ## Difficulty naming schemes from other games
 
@@ -185,16 +196,3 @@ Mapsets of songs that originated from other rhythm games often borrow that game'
 - ![](/wiki/shared/diff/hard-o.png?20211215) Hard
 - ![](/wiki/shared/diff/insane-o.png?20211215) Lunatic
 - ![](/wiki/shared/diff/expert-o.png?20211215) Extra / Extra Stage / Phantasm
-
-## Widely accepted alternatives
-
-The following difficulty names are common alternatives and additions to the default difficulty names:
-
-- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner: in a default Easy-Normal-Hard-Insane-Expert spread, it refers to the lowest level of difficulty, even below Easy.
-- ![](/wiki/shared/diff/easy-t.png?20211215) Shokyuu: in a default Kantan-Futsuu-Muzukashii-Oni-Inner Oni spread, it refers to the lowest level of difficulty that's below Kantan.
-- ![](/wiki/shared/diff/normal-o.png?20211215) Advanced: in a default Easy-Normal-Hard-Insane-Expert spread, it's a difficulty between Normal and Hard.
-- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper: in a default Easy-Normal-Hard-Insane-Expert spread, a difficulty between Hard and Insane.
-- ![](/wiki/shared/diff/expert-o.png?20211215) Extra: it can be used as a substitute for Expert.
-- ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme: it can be used to represent a more difficult Expert.
-- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni: it can be used to represent a more difficult Inner Oni.
-- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge: it can be used to represent a more difficult Overdose.

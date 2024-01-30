@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!(lazer) Updates & The Path to Ranked Play"
+title: osu!(lazer) Updates & The Path to Ranked Play
 date: 2023-09-08 12:00:00 +0000
 ---
 

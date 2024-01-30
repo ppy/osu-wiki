@@ -249,7 +249,7 @@ The people who provided beatmaps to this set are well-known within the 6K mappin
 
 *Future Cider* is a mapset that has been there for quite a long time, and it has even been showcased in the Finals Mappool of [osu!mania 7K World Cup 2018](/wiki/Tournaments/MWC/2018_7K). Since then it has certainly become a crowd favourite, gaining significant traction.
 
-A very accessible mapset with a multitude of difficulties, the main selling point of *Future Cider* is its energetic nature expressed in a clean and fun manner. Lower difficulties are a great introduction to light chordstreaming with additional bursts and some simple long notes. As the difficulty progresses, more and more complex patterns appear, accompanied with streamy LNs with increasing density. 
+A very accessible mapset with a multitude of difficulties, the main selling point of *Future Cider* is its energetic nature expressed in a clean and fun manner. Lower difficulties are a great introduction to light chordstreaming with additional bursts and some simple long notes. As the difficulty progresses, more and more complex patterns appear, accompanied with streamy LNs with increasing density.
 
 The top 3 difficulties, including Jakads' and Bpple's collab Blue Another and two iterations of Future Candy feature a whole new level of challenge with stutter and bump SVs that are present during virtually the whole chart. Futuristic Candy is the top difficulty, and it builds on Future Candy with LN choruses being even more difficult. Even though the harder charts deliver lots of diverse patterns to process, they aren't overdone and greatly emphasize the song.
 
@@ -263,7 +263,7 @@ This set has waited way too long in the darkness and we're glad to finally bring
 
 Cuppp and gemboyong are here to bring their notorious maps of *Penguin* to Loved. Neither mapper should need much of an introduction as both Cuppp and gemboyong have had entries in Loved for a long time now, but I'll at least provide a bit of history to these two maps for any who are unaware, starting with Cuppp's 7K diff.
 
-This map is already near 6 years old but still a hilarious demonstration of just how far you can take the O2Jam-styled patterning for a song like this. The intro to the chart is pretty tame, but once it's over, you're quickly thrown into what I can only describe as "LN Art". Full LN double stairs moving from left to right, uncomfortable anchored LN holds and gaps, and on top of that, almost all of this is charted to 1/8. For the map being just over a minute thirty, Cuppp managed to pack in more pain and suffering than you'll see in most maps of this vein more than triple its length. 
+This map is already near 6 years old but still a hilarious demonstration of just how far you can take the O2Jam-styled patterning for a song like this. The intro to the chart is pretty tame, but once it's over, you're quickly thrown into what I can only describe as "LN Art". Full LN double stairs moving from left to right, uncomfortable anchored LN holds and gaps, and on top of that, almost all of this is charted to 1/8. For the map being just over a minute thirty, Cuppp managed to pack in more pain and suffering than you'll see in most maps of this vein more than triple its length.
 
 Now onto gemboyong's 4K difficulty, they used Cuppp's map as the blueprint and manually converted any of the patterns that could comfortably fit with the lesser note count to 4K. Many 4K players should be aware of this diff specifically since it's featured in their popular [Gems pack 13](https://osu.ppy.sh/beatmapsets/555819) that was uploaded in 2017.
 
@@ -276,7 +276,7 @@ Anyways, I'm glad we were able to get gemboyong's difficulty included, and the L
 The \[Davvy's Dreaming Descent\] difficulty is *not* being nominated for Loved.\
 *description written by [\_underjoy](https://osu.ppy.sh/users/2235750)*
 
-\_underjoy's 4K difficulty of *I Am S/H(im)e\[r\]* is a solid technical hybrid map with difficulty predominantly located in the beginning and ending of the song. The marathon starts with a high-speed jumpstream section, which is repeated throughout the chart. Then, long note parts with tricky releases and some more some irregular rhythms are introduced, posing a significant accuracy challenge. 
+\_underjoy's 4K difficulty of *I Am S/H(im)e\[r\]* is a solid technical hybrid map with difficulty predominantly located in the beginning and ending of the song. The marathon starts with a high-speed jumpstream section, which is repeated throughout the chart. Then, long note parts with tricky releases and some more some irregular rhythms are introduced, posing a significant accuracy challenge.
 
 The intensity is abruptly stopped and the player can rest while fully immersing themselves in the calm nature of the song. Long notes and chords are patterned in a very recurrent manner that emphasizes constant repetition and overall theme of the chart. A long break introduces the player to the last part, which is a slightly modified version of the first one.
 

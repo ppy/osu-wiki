@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Sound Design of osu!(lazer)"
+title: The Sound Design of osu!(lazer)
 date: 2022-08-14 08:00:00 +0000
 ---
 
@@ -12,7 +12,7 @@ Sound design relates to how any particular sound can make its listener *feel*. T
 
 osu!'s new client intends to answer that question with lots of brand-new changes, including additional sound effects to suit the new design. If you are wondering where they come from or how they are made, keep reading along for an interview with [nekodex](https://osu.ppy.sh/users/102), the person behind the sound design of osu!(lazer).
 
-nekodex is a full-stack engineer born in Australia who joined the osu! team as a web developer in 2015 after peppy asked if he was interested in helping rebuild the osu! website. nekodex has been with the team ever since, working on various features such as the review system for beatmap modding, the chat system and much more, but today he describes himself as a hybrid audio designer/developer and isn't too involved in the web side of things anymore. 
+nekodex is a full-stack engineer born in Australia who joined the osu! team as a web developer in 2015 after peppy asked if he was interested in helping rebuild the osu! website. nekodex has been with the team ever since, working on various features such as the review system for beatmap modding, the chat system and much more, but today he describes himself as a hybrid audio designer/developer and isn't too involved in the web side of things anymore.
 
 His first involvement with osu! as a music producer would come in 2011 as peppy was preparing osu!stream (a spinoff of osu! for iOS) and needed original music for the game. Since peppy and nekodex are friends in real life and peppy was already familiar with his music, he ended up creating the [main menu theme](https://soundcloud.com/nekodex/osu-stream-theme) and a track ([Liquid Future](https://soundcloud.com/nekodex/liquid-future)) for the release of osu!stream, later going on to create several official songs for osu! throughout the years that we all know and love, such as [welcome to osu!](https://soundcloud.com/nekodex/welcome-to-osu), [circles!](https://soundcloud.com/nekodex/circles) and [aureole](https://soundcloud.com/nekodex/aureole).
 
@@ -77,7 +77,7 @@ Regrettably, it may have been a mistake to not showcase more of these sound effe
 
 ---
 
-How familiar are you with the sound of osu!(lazer)? If you haven't tried it yet, go give osu!(lazer) a try, which you can do by downloading it from [its GitHub releases page](https://github.com/ppy/osu/releases). 
+How familiar are you with the sound of osu!(lazer)? If you haven't tried it yet, go give osu!(lazer) a try, which you can do by downloading it from [its GitHub releases page](https://github.com/ppy/osu/releases).
 
 osu!(lazer) is an ongoing open source project, worked on full-time by peppy and many other skilled contributors from the community. If you'd like to help out with the future of osu!, check out the [osu!dev Discord server](https://discord.gg/ppy) for more details.
 

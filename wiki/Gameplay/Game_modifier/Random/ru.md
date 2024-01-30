@@ -3,9 +3,9 @@ stub: true
 tags:
   - random
   - RD
-  - рандом
   - mod
   - game modifier
+  - рандом
   - мод
   - игровой модификатор
 ---

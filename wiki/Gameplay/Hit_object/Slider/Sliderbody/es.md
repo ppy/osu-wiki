@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 stub: true
 tags:
   - slider path
@@ -11,4 +10,4 @@ tags:
 
 # Sliderbody
 
-Un *sliderbody* forma el camino entre una [sliderhead](/wiki/Gameplay/Hit_object/Slider/Sliderhead) y una [slidertail](/wiki/Gameplay/Hit_object/Slider/Slidertail) en los [beatmaps](/wiki/Beatmap) de [osu!](/wiki/Game_mode/osu!). El jugador tiene que seguir el sliderbody a lo largo de su camino una vez que se ha hecho clic en la sliderhead hasta llegar a el slidertail. El sliderbody es la parte más versátil de los sliders, ya que se puede manipular con [anclas del slider](/wiki/Gameplay/Hit_object/Slider/Slider_anchor) y cambios de [velocidad del slider](/wiki/Gameplay/Hit_object/Slider/Slider_velocity). El color de los sliderbody está determinado por los [colores del combo](/wiki/Beatmapping/Combo_colour) utilizados por los mapeadores de un beatmap.
+El *sliderbody* forma el camino entre un [sliderhead](/wiki/Gameplay/Hit_object/Slider/Sliderhead) y una [slidertail](/wiki/Gameplay/Hit_object/Slider/Slidertail) en los [beatmaps](/wiki/Beatmap) de [osu!](/wiki/Game_mode/osu!). El jugador tiene que seguir el sliderbody a lo largo de su camino una vez que se ha hecho clic en la cabeza hasta llegar a la cola. El cuerpo es la parte más versátil de los sliders, ya que se pueden manipular con [anclas](/wiki/Gameplay/Hit_object/Slider/Slider_anchor) y cambios en la [velocidad del slider](/wiki/Gameplay/Hit_object/Slider/Slider_velocity). El color de los sliderbody están determinados por los [colores del combo](/wiki/Beatmapping/Combo_colour) usados por los mappers de un beatmap.

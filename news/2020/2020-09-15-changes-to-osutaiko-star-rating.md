@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Changes to osu!taiko Star Rating"
+title: Changes to osu!taiko Star Rating
 date: 2020-09-16 08:00:00 +0000
 ---
 
@@ -8,7 +8,7 @@ Exemplars among the osu!taiko community have come together to push forward a bra
 
 ![](/wiki/shared/news/2020-05-14-osucatch-scoring-updates/generic_equations.jpg)
 
-Over the past many months, some astute osu!taiko fanatics have come together in the [osu!dev #difficulty-taiko Discord channel](https://discord.com/invite/ppy) in order to fix some long-standing issues with how Star Rating is calculated as the mapping scene has developed. 
+Over the past many months, some astute osu!taiko fanatics have come together in the [osu!dev #difficulty-taiko Discord channel](https://discord.com/invite/ppy) in order to fix some long-standing issues with how Star Rating is calculated as the mapping scene has developed.
 
 Foremost among them, [morth1](https://osu.ppy.sh/users/7246874) has led the charge with a full-scale implementation of what can only be described as sweeping changes across multiple aspects of play. We'll be covering a simplified version of the changes in this article - if you're after the nitty gritty technical details (and math!), consult [this Google document](https://docs.google.com/document/d/1JjHSh6Gzigja0thJDiHwW4E1oH3fxcS0Pze5HJXLErk/edit#heading=h.ybas4q9w8ba1) written by morth1 himself.
 
