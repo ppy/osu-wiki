@@ -107,7 +107,7 @@ There's a lot to unpack in that one video.
 - The settings panel layout now always shows the section text (previously on hover).
 - Icons game-wide have been swapped to new ones.
 - The game version text has been removed from the main menu. (It can still be seen at the bottom of settings.)
-- Popup dialogues (such as when saving in the editor or closing the game) have been adjusted.
+- Pop-up dialogues (such as when saving in the editor or closing the game) have been adjusted.
 - The disclaimer screen at startup has been removed entirely.
 - Default backgrounds have been swapped out to new ones.
 - The logo has been redesigned.
