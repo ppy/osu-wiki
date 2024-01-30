@@ -2,6 +2,8 @@
 outdated_since: a42201322492187cb7c0a98979ec774abefb0826
 outdated_translation: true
 no_native_review: true
+outdated_translation: true
+outdated_since: a42201322492187cb7c0a98979ec774abefb0826
 ---
 
 # Concours
