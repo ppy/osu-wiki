@@ -5,7 +5,7 @@ stub: true
 # Bit rate
 
 *Para regulamentações a cerca de bit rate, veja: [Critérios de classificação](/wiki/Ranking_criteria)*\
-*Para ajuda em recodificação de audio para um bit rate diferente, veja: [Guia de edição de audio](/wiki/Guides/Audio_editing).*
+*Para ajuda em recodificação de áudio para um bit rate diferente, veja: [Guia de edição de audio](/wiki/Guides/Audio_editing).*
 
 **Bit rate** ou taxa de bits, é uma medida do fluxo de dados para um arquivo de mídia em unidades de bits ao longo do tempo. No osu!, isso é relevante quando falamos sobre a qualidade de arquivos de áudio: áudio de maior qualidade geralmente requer uma taxa de bits maior, enquanto áudio de menor qualidade pode usar uma taxa de bits mais baixa.
 
