@@ -8,9 +8,9 @@ The next client is ready for worldwide competition. Read on and decide whether y
 
 ![](/wiki/shared/news/2024-01-30-osulazer-updates-performance-points-now-live/banner.jpg)
 
-This is it. Today is the day when you can start farming performance points in lazer (with some caveats ).
+This is it. Today is the day when you can start farming performance points in lazer (with some caveats).
 
-Hear all about how we got here since the last update in December and what this "lazer release" exactly means:
+Hear all about how we got here since the last update in December and what exactly this "lazer release" means:
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/xTRwM3zhhj0" frameborder="0" allowfullscreen></iframe>
@@ -41,12 +41,15 @@ Thanks to [EVAST](https://osu.ppy.sh/users/8195163), a new mod called "Depth" ta
 
 ### Easier offset editing
 
-![](/wiki/shared/news/2024-01-30-osulazer-updates-performance-points-now-live/offset-editing.jpg)
-
 There have been two separate changes relating to audio offsets that have been introduced recently:
 
-- The `+` and `-` keys can be used during gameplay to change the offset during any point in the map.
-- The game will automatically suggest a global offset based on your recent plays.
+The `+` and `-` keys can be used during gameplay to change the offset during any point in the map.
+
+![](/wiki/shared/news/2024-01-30-osulazer-updates-performance-points-now-live/offset-panel.jpg)
+
+The game will automatically suggest a global offset based on your recent plays.
+
+![](/wiki/shared/news/2024-01-30-osulazer-updates-performance-points-now-live/offset-suggestion.jpg)
 
 ### Visible slider ticks/slider end judgements
 
@@ -60,9 +63,13 @@ Judgements for slider ticks and slider end misses are now visible, which should 
 
 ### Frame-by-frame replay playback controls
 
-![](/wiki/shared/news/2024-01-30-osulazer-updates-performance-points-now-live/replay-controls.jpg)
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/media/news/replay-controls.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
 
-Use the on-screen buttons or press `,` and `.` to advance frame-by-frame! Replay seeking is also a lot faster in general (as fast as your computer can go).
+Use the on-screen buttons or press `,` and `.` to see exactly why you missed. In addition, replay seeking is a lot faster in general (as fast as your computer can go).
 
 ### S grades now require 0 misses (in osu! and osu!taiko)
 
@@ -72,11 +79,19 @@ Use the on-screen buttons or press `,` and `.` to advance frame-by-frame! Replay
     </video>
 </div>
 
-Only requiring 95% accuracy for S was a contentious mechanic in osu!(lazer), which has now been rectified.
+Only requiring 95% accuracy for S was a contentious mechanic for these two game modes, which has now been rectified.
+
+The grade requirements in osu!(lazer) are now as follows:
+
+| Grade | osu! / osu!taiko | osu!mania | osu!catch |
+| :-: | :-- | :-- | :-- |
+| SS | 100% | 100% | 100% |
+| S | ≥95% (no misses) | ≥95% | ≥98% |
+| A | ≥90% | ≥90% | ≥94% |
+| B | ≥80% | ≥80% | ≥90% |
+| C | ≥70% | ≥70% | ≥85% |
 
 ### Menu changes
-
-<!-- video -->
 
 Federal regulations require us to warn you that this next osu! update... is looking *pretty good*.
 
@@ -95,17 +110,19 @@ And some things that were still missing compared to osu!(stable)'s main menu hav
 
 - Menu banners (which display ongoing events and tournaments).
 - Tips on the main menu, instead of the now removed disclaimer screen. (There are also more tips now.)
-- A message thanking [supporters](/wiki/osu!supporter)
+- A message thanking [supporters](/wiki/osu!supporter).
 
 If text doesn't convey the *freshness* of the new osu! well enough, simply open the game. [It's right here.](https://osu.ppy.sh/home/download)
 
 ## The pp release
 
-You can now earn performance points on your main profile while playing in the lazer client. Let's go over what you can expect and the caveats (as briefly as possible):
+You can now earn performance points on your main profile while playing in the lazer client. Let's go over the essential information of what you can expect and the caveats:
 
 ### Only some mods are eligible for performance points
 
 ![](/wiki/shared/news/2024-01-30-osulazer-updates-performance-points-now-live/mods-that-give-pp.png)
+
+More mods may be added to this list in the future.
 
 ### Algorithm differences
 
@@ -115,10 +132,10 @@ The plan is to have stable scores be handled by the new pp processor built for l
 
 ### Client display
 
+Scores aren't entirely synchronised between client versions:
+
 - Scores set in stable will show in lazer.
 - Scores set in lazer will *not* show in stable.
-
-(That's it.)
 
 ### Website "lazer mode"
 
