@@ -33,7 +33,7 @@ Hear all about how we got here since the last update in December and what exactl
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/media/news/mod-depth.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/depth.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -55,7 +55,7 @@ The game will automatically suggest a global offset based on your recent plays.
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/media/news/slider-tick.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/tick-indicators.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
