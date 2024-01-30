@@ -166,4 +166,4 @@ For some of you, not having guaranteed permanent scores may be a dealbreaker. If
 
 For everyone else... [there's only one thing to do, right?](https://osu.ppy.sh/home/download)
 
-—Walavouchey
+—Walavouchey & 0x84f
