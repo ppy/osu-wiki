@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: b97e403372d884f9c7a8e84f8983fc436bfe1496
 ---
 
 # Skinning des sons
