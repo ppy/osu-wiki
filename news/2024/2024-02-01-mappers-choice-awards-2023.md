@@ -18,11 +18,11 @@ In addition, A Year In Mapping is what one would call the *Spotify Wrapped* for 
 
 If you ranked any beatmap, guest difficulty, or storyboard in 2023, you're eligible to help the mapping community pick the most standout maps of the year!
 
-Just like the previous editions of MCA, there are three stages: nomination, voting, and results. See below to know when the deadlines for nomination and voting are, and when to expect the final results!
+Just like the previous editions of MCA, there are three stages: nomination, voting, and results. [See below](#schedule) to know when the deadlines for nomination and voting are, and when to expect the final results!
 
 - **Nomination:** Eligible users can submit any beatmaps, storyboards, or users from 2023 which they feel are deserving of recognition in their respective categories.
 - **Voting:** Eligible users can vote on the pool of submitted nominations.
-- **Results:** Will be based off of the results of voting and feature a livestream announcing each podium of every category.
+- **Results:** These will be based on the voting tallies and feature a livestream announcing the podium of each category.
 
 Check out the [Mapper's Choice Awards 2023 website](https://mca.corsace.io/2023/) to get started if you're eligible!
 
