@@ -2,7 +2,7 @@
 
 *For the full ranking criteria, see: [Ranking criteria](/wiki/Ranking_criteria)*
 
-The [ranking criteria](/wiki/Ranking_criteria) is complicated. It explains every rule and guideline required to create a [beatmap](/wiki/Beatmap) worthy of being [Ranked](/wiki/Beatmap_ranking_procedure#ranked), including *a lot* of niche situations that the majority of mappers never encounter.
+The full list of [ranking criteria](/wiki/Ranking_criteria) is complicated. It explains every rule and guideline required to create a [beatmap](/wiki/Beatmap) worthy of being [Ranked](/wiki/Beatmap_ranking_procedure#ranked), including *a lot* of niche situations that the majority of mappers never encounter.
 
 The **simplified ranking criteria** aims to give mappers a clearer perspective on what's required to create a rankable map through the following:
 
@@ -23,7 +23,7 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 - **Difficulty names must have progression.** 
   - Easy -> Normal -> Hard -> Insane -> Expert is default.
   - Logical naming schemes like Seed -> Sprout -> Tree are okay too.
-  - **Exception:** The hardest difficulty can use a custom name, like Normal -> Hard -> *Melancholy*
+  - **Exception:** The hardest difficulty can use a custom name, like Normal -> Hard -> *Melancholy*.
 - **Don't skip difficulties.** For example, if you have Normal and Insane difficulties, you need a Hard too.
 - **A [guest mapper](/wiki/Beatmap/Guest_difficulty) can't create more difficulties than the [host](/wiki/Beatmap/Beatmap_host).**
 - **Minimum requirement for lowest difficulty by mode and length:**
@@ -66,19 +66,19 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 
 ### Tags
 
-  - **Add usernames of anyone who contributes to the map.** This doesn't include modders.
-  - **Add the song's [genre and language](/wiki/Beatmap/Genre_and_language).**
-  - **Add `featured artist` if the song is in the [Featured Artist catalogue](https://osu.ppy.sh/beatmaps/artists).**
-  - **Other tags must be relevant to the song/map.**
+- **Add usernames of anyone who contributes to the map.** This doesn't include modders.
+- **Add the song's [genre and language](/wiki/Beatmap/Genre_and_language).**
+- **Add `featured artist` if the song is in the [Featured Artist catalogue](https://osu.ppy.sh/beatmaps/artists).**
+- **Other tags must be relevant to the song/map.**
 
 ### Title
 
-  - **Songs shortened for TV must have `(TV Size)`.**
-  - **Replace game version markers with `(Game Ver.)`.**
-  - **Replace short version markers with `(Short Ver.)`.**
-  - **Use `(Cut Ver.)` to indicate an unofficial song cut.**
-  - **Use `(Extended Edit)` to indicate an unofficial song extension.**
-  - **Use `(Sped Up Ver.)` to indicate an unofficial song tempo increase.** For some genres, `(Nightcore Mix)` is an okay alternative.
+- **Songs shortened for TV must have `(TV Size)`.**
+- **Replace game version markers with `(Game Ver.)`.**
+- **Replace short version markers with `(Short Ver.)`.**
+- **Use `(Cut Ver.)` to indicate an unofficial song cut.**
+- **Use `(Extended Edit)` to indicate an unofficial song extension.**
+- **Use `(Sped Up Ver.)` to indicate an unofficial song tempo increase.** For some genres, `(Nightcore Mix)` is an okay alternative.
 
 ### Source
 
@@ -104,7 +104,7 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 ![](img/delay.png "Hitsound file with delay")
 :::
 
-- **Hitsound files must be 25ms long and use `.wav` or `.ogg` file formats.**
+- **Hitsound files must be 25 ms long and use `.wav` or `.ogg` file formats.**
   - Do not use `.mp3`.
   - **Exception:** Use [this file](https://up.ppy.sh/files/blank.wav) for silent hitsounds.
 - **Hitsounds must not be [delayed](img/delay.png).**
@@ -112,23 +112,23 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 ### Background
 
 - **Every difficulty must have a background adhering to the following:**
-  - **Minimum width:** 160px
-  - **Minimum height:** 120px
-  - **Maximum width:** 2560px
-  - **Maximum height:** 1440px
-  - **Maximum file size:** 2.5MB
+  - **Minimum width:** 160 px
+  - **Minimum height:** 120 px
+  - **Maximum width:** 2560 px
+  - **Maximum height:** 1440 px
+  - **Maximum file size:** 2.5 MB
 - **Link the source of the map's background in the description.**
 
 ### Video
 
-- **Video must adhere to the following:**
+- **Videos must adhere to the following:**
   - **Maximum video resolution:** 1280x720
   - **Video encoding:** H.264
-- **Audio track must be removed from video files.**
+- **The audio track must be removed from video files.**
 
 ## Mode-specific
 
-*For full [game mode](/wiki/Game_mode)-specific ranking criteria, see: [osu!](../osu!), [osu!taiko](../osu!taiko), [osu!catch](../osu!catch), and [osu!mania](../osu!mania)*
+*For full [game mode](/wiki/Game_mode)–specific ranking criteria, see: [osu!](../osu!), [osu!taiko](../osu!taiko), [osu!catch](../osu!catch), and [osu!mania](../osu!mania)*
 
 ### osu!
 
@@ -136,7 +136,7 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 ![](img/offscreen.png "Slightly offscreen slider in 1280x960")
 :::
 
-- **No off-screen objects in 4:3 aspect ratios.**
+- **No offscreen objects in 4:3 aspect ratios.**
 - **Auto must achieve bonus score on spinners.** They're too short otherwise.
 - **Use at least two combo colors.**
 
