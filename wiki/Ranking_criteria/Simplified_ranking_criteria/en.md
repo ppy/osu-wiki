@@ -137,30 +137,30 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 :::
 
 - **No offscreen objects in 4:3 aspect ratios.**
-- **Auto must achieve bonus score on spinners.** They're too short otherwise.
+- **[The Auto mod](/wiki/Gameplay/Game_modifier/Auto) must achieve bonus score on spinners.** They're too short otherwise.
 - **Use at least two combo colors.**
 
 ### osu!taiko
 
 - **Adjust the background's vertical offset to fit the playfield.**
-- **Avoid rapid kiai toggles.**
+- **Avoid rapid [kiai](/wiki/Gameplay/Kiai_time) toggles.**
 - **On rhythms that are 1/4 or faster, use big notes only at the end of patterns.**
 - **Avoid slider velocity changes on lower difficulties.**
 - **Each difficulty should follow its respective break length guidelines:**
 
 | Difficulty | Break | Chain length |
 | --: | :-: | :-: |
-| **Kantan** | ![3/1](img/taiko/kantan.png "3/1") | Break needed every 32-36 beats |
-| **Futsuu** | ![2/1](img/taiko/futsuu.png "2/1") | Break needed every 32-36 beats |
-| **Muzukashii** (option 1) | ![3/2](img/taiko/muzu1.png "3/2") | Break needed every 16-20 beats |
-| **Muzukashii** (option 2) | ![3 consecutive 1/1](img/taiko/muzu2.png "3 consecutive 1/1") | Break needed every 16-20 beats |
-| **Oni** | ![1/1](img/taiko/oni.png "1/1") | Break needed every 16-20 beats |
+| **Kantan** | ![3/1](img/taiko/kantan.png "3/1") | Break needed every 32–36 beats |
+| **Futsuu** | ![2/1](img/taiko/futsuu.png "2/1") | Break needed every 32–36 beats |
+| **Muzukashii** (option 1) | ![3/2](img/taiko/muzu1.png "3/2") | Break needed every 16–20 beats |
+| **Muzukashii** (option 2) | ![3 consecutive 1/1](img/taiko/muzu2.png "3 consecutive 1/1") | Break needed every 16–20 beats |
+| **Oni** | ![1/1](img/taiko/oni.png "1/1") | Break needed every 16–20 beats |
 
 ### osu!catch
 
-- **Auto must be able to SS your map.**
-- **Avoid [dashes](/wiki/Gameplay/Dash) and [hyperdashes](/wiki/Gameplay/Hyperdash) that lead to the edges of the screen.** Placements between x:16 and x:496 are okay.
-- **[Overall Difficulty](/wiki/Beatmap/Overall_difficulty) should match [Approach Rate](/wiki/Beatmap/Approach_rate).**
+- **[The Auto mod](/wiki/Gameplay/Game_modifier/Auto) must be able to SS your map.**
+- **Avoid [dashes](/wiki/Gameplay/Dash) and [hyperdashes](/wiki/Gameplay/Hyperdash) that lead to the edges of the screen.** Placements between x = 16 and x = 496 are okay.
+- **[Overall difficulty](/wiki/Beatmap/Overall_difficulty) should match [approach rate](/wiki/Beatmap/Approach_rate).**
 
 ### osu!mania
 
@@ -168,7 +168,7 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 - **Beatmaps can only use 4–10, 12, 14, 16, or 18 keys.** Key modes over 10 keys must use [certain playstyles](/wiki/Beatmapping/osu!mania_10K_plus_playstyles).
 - **No column can be left empty.**
 - **No more than 6 notes can be pressed at the same time in Insane or lower difficulties.**
-- **Difficulties using an [N+1 playstyle](/wiki/Ranking_criteria/osu!mania#common-terms) must enable the `Use special style (N+1 style) for mania`.**
+- **Difficulties using an [N+1 playstyle](/wiki/Ranking_criteria/osu!mania#common-terms) must enable the `Use special style (N+1 style) for mania` toggle.**
 
 ## Song interpretation
 
@@ -193,7 +193,7 @@ While it's impossible to explain exactly how to interpret a song, these pointers
 - **Be consistent (within reason).**
   - When a song repeats itself, it makes sense to repeat your map too.
   - Copying and pasting part of your map can be pretty boring though, so when a song repeats, vary your map in ways that don't drastically change how you previously interpreted the song.
-- **Ask how your objects fit into the *"Every element of a map should represent the song"* principle.**
-  - **Example 1:** "how does this object represent the sound it aligns with?"
-  - **Example 2:** "how does this section of objects follow the general mood of this section of the song?"
+- **Ask how your objects fit into the *"every element of a map should represent the song"* principle.**
+  - **Example 1:** "How does this object represent the sound it aligns with?"
+  - **Example 2:** "How does this section of objects follow the general mood of this section of the song?"
 - **Consider how other people will interpret your map.** If your way of interpreting the song isn't clear, it'll feel like your map doesn't follow the song!
