@@ -20,6 +20,21 @@ intro
 
 Maybe something to be said about the pool?
 
+## Round of 16 results
+
+Before proceeding to the highlighted matches, let's quickly remind ourselves of what the final scores were for Round of 16:
+
+| Team A |  |  | Team B |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Japan** ::{ flag=JP }:: | **5** | 2 | ::{ flag=PL }:: Poland |
+| **Philippines** ::{ flag=PH }:: | **5** | 0 | ::{ flag=VN }:: Vietnam |
+| **Thailand** ::{ flag=TH }:: | **5** | 1 | ::{ flag=RU }:: Russian Federation |
+| **Malaysia** ::{ flag=MY }:: | **5** | 0 | ::{ flag=ID }:: Indonesia |
+| **Australia** ::{ flag=AU }:: | **5** | 4 | ::{ flag=BR }:: Brazil |
+| **Canada** ::{ flag=CA }:: | **5** | 1 | ::{ flag=US }:: United States |
+| **South Korea** ::{ flag=KR }:: | **5** | 0 | ::{ flag=TW }:: Taiwan |
+| **China** ::{ flag=CN }:: | **5** | 0 | ::{ flag=DE }:: Germany |
+
 ## Match highlights
 
 ### ::{ flag=AU }:: Australia vs. ::{ flag=BR }:: Brazil
