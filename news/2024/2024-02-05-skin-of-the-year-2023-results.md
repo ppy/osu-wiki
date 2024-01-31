@@ -32,7 +32,7 @@ Another "Icons of an Era" skinning contest entry grazes the top 10! [Ghost Rule]
 
 ![](/wiki/shared/news/2024-02-05-skin-of-the-year-2023-results/placeholder.jpg)
 
-Despite the fact they have only published 3 skins so far, [Chromasia](https://osu.ppy.sh/users/7306251) has only released highly polished, quality works of art. So it is no wonder that their entry for "Icons of an Era" has also been received **799** votes for this year's Skin of the Year contest. Focusing on art used behind [Seni's iteration of *Chronostasis*](https://osu.ppy.sh/beatmapsets/1392153#osu/2874408) by FA [Release Hallucination](https://osu.ppy.sh/beatmaps/artists/194), they capture the essence very well, and expand upon the theme set up by the background. Definitely be on the lookout for their future releases!
+Despite the fact they have only published 3 skins so far, [Chromasia](https://osu.ppy.sh/users/7306251) has only released highly polished, quality works of art. So it is no wonder that their entry for "Icons of an Era" has also been received **799** votes for this year's Skin of the Year contest. [Everlasting Moment](https://osu.ppy.sh/community/forums/topics/1792308) focuses on art used behind [Seni's iteration of *Chronostasis*](https://osu.ppy.sh/beatmapsets/1392153#osu/2874408) by FA [Release Hallucination](https://osu.ppy.sh/beatmaps/artists/194), captures the essence very well, and expands upon the theme set up by the background. Definitely be on the lookout for their future releases!
 
 ![](/wiki/shared/news/2024-02-05-skin-of-the-year-2023-results/placeholder.jpg)
 
