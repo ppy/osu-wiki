@@ -139,13 +139,11 @@ Another play that excells at showing just how far this game can be pushed is [ap
 
 ### Notable osu!catch plays of the month
 
-[rostld](https://osu.ppy.sh/users/4365562)'s [SS](https://osu.ppy.sh/scores/fruits/211566395) on [Reol - Asymmetry](https://osu.ppy.sh/beatmapsets/310499#fruits/698249) was a long time coming, as this map has seen some serious competition since it was first ranked in 2015. Even after so many tries by so many different players, an FC never happened. However, recently, a €50 bounty was set for the first person to obtain a full combo, and that's exactly what rostld did, finally laying this legendary map to rest.
+[rostld](https://osu.ppy.sh/users/4365562)'s [SS](https://osu.ppy.sh/scores/fruits/211566395) on [Reol - Asymmetry](https://osu.ppy.sh/beatmapsets/310499#fruits/698249) was a long time coming, as this map has seen some serious competition since it was first ranked in 2015. Even after so many tries by so many different players, an FC never happened. However, recently, a &euro;50 bounty was set for the first person to obtain a full combo, and that's exactly what rostld did, finally laying this legendary map to rest.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/N--0yzx0wbw" frameborder="0" allowfullscreen></iframe>
 
-Most of the greatest scores in the game happen in singleplayer, where a player can restart and retry as many times as they desire. However, that is not what happened this time. Top player [roido](https://osu.ppy.sh/users/6829103) set the first ever HD SS on [Crim Nanakusa - dialnote](https://osu.ppy.sh/beatmapsets/1935722#fruits/4000779) during an [AxS 8](https://osu.ppy.sh/community/forums/topics/1689014) tournament match. The nerve control required to set a score as good as this in an environment as competitive as this is truly unbelievable. If you are curious about how the match went down, check out the [match history](https://osu.ppy.sh/community/matches/106811263) or the VOD below.
-
-<iframe height="378" width="100%" src="https://player.twitch.tv/?autoplay=false&video=1736191743&t=00h29m02s&parent=osu.ppy.sh" frameborder="0" allowfullscreen="true"></iframe>
+Most of the greatest scores in the game happen in singleplayer, where a player can restart and retry as many times as they desire. However, that is not what happened this time. Top player [roido](https://osu.ppy.sh/users/6829103) set the first ever HD SS on [Crim Nanakusa - dialnote](https://osu.ppy.sh/beatmapsets/1935722#fruits/4000779) during an [AxS 8](https://osu.ppy.sh/community/forums/topics/1689014) tournament match. The nerve control required to set a score as good as this in an environment as competitive as this is truly unbelievable. If you are curious about how the match went down, check out the [match history](https://osu.ppy.sh/community/matches/106811263).
 
 ### Notable osu!mania plays of the month
 
@@ -243,7 +241,7 @@ Now, on to this month's question:
 
 **What would the aristocracy have to do with osu!(lazer)?**
 
-chromb incorporated™ wishes everyone the best of luck in finding the answer to this THRILLING question and remember — there's a month of osu! supporter up for grabs for the first person to guess the correct answer!
+chromb incorporated&trade; wishes everyone the best of luck in finding the answer to this THRILLING question and remember — there's a month of osu! supporter up for grabs for the first person to guess the correct answer!
 
 ## Things to look out for in March
 
