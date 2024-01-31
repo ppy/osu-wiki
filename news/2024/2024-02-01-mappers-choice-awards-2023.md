@@ -56,6 +56,6 @@ Per usual, A Year in Mapping features all the coolest statistics of the year all
 
 Now that you're all caught up on the schedule and the events, it's time to get to the important part: nominating and voting! Head on over to the [website](https://mca.corsace.io/2023/) to get started!
 
-For a more straightforward and community-wide voting for last year's best maps, make sure to also check out the ongoing [Community Choice 2023](https://osu.ppy.sh/home/news/2024-01-29-community-choice-2023-open) event!
+For a more straightforward and community-wide voting on last year's best maps, make sure to also check out the ongoing [Community Choice 2023](https://osu.ppy.sh/home/news/2024-01-29-community-choice-2023-open) event!
 
 —Hivie
