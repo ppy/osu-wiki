@@ -1,6 +1,6 @@
 # Simplified ranking criteria
 
-*For full ranking criteria, see: [ranking criteria](/wiki/Ranking_criteria)*
+*For the full ranking criteria, see: [Ranking criteria](/wiki/Ranking_criteria)*
 
 The [ranking criteria](/wiki/Ranking_criteria) is complicated. It explains every rule and guideline required to create a [beatmap](/wiki/Beatmap) worthy of being [Ranked](/wiki/Beatmap_ranking_procedure#ranked), including *a lot* of niche situations that the majority of mappers never encounter.
 
