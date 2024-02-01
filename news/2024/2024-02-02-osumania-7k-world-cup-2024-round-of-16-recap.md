@@ -4,11 +4,11 @@ title: "osu!mania 7K World Cup 2024: Round of 16 Recap"
 date: 2024-02-02 12:00:00 +0000
 ---
 
-teaser text
+The cogs of competition keep on turning! Who's going to be able to keep that momentum running in rounds to come?
 
 ![](/wiki/Tournaments/MWC/2024_7K/img/mwc7k2024-banner.jpg)
 
-intro
+The stakes for all teams start becoming higher as more rounds go by. As the mappools grow ever so slightly more difficult and the looming peril of dropping to the loser's bracket stalks players, so did the performance of our contestants!
 
 ## Mappool showcase
 
@@ -18,7 +18,7 @@ intro
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.twitch.tv/videos/2039649748&parent=osu.ppy.sh&autoplay=false&t=0h36m41s" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-Maybe something to be said about the pool?
+While the overall difficulty of the pool hasn't increased by a considerable margin, it hasn't stopped players from dropping their guard. It's precisely in earlier rounds where consistency reigns supreme and every little slip-up counts. But don't be fooled, as future rounds will not be so forgiving!
 
 ## Round of 16 results
 
@@ -70,8 +70,8 @@ Let's try this out with bullet points, I just copied what noname wrote but needs
 
 ---
 
-outro
+We hope everyone's been enjoying the show thus far. The only thing we're certain of is that it can only go up from here! As players grit their teeth and push onwards, we wish the best of luck to all teams for giving their all insofar. Who knows what surprises await us in rounds to come.
 
-plug the stream and wiki
+As always, we strongly suggest checking out the matches [live on stream](https://www.twitch.tv/osulive) and keeping track of the [wiki](/wiki//Tournaments/MWC/2024_7K) for more information. Quarterfinals are starting soon, so keep an eye out for those!
 
 —0x84f, RandomeLoL, SurfChu85
