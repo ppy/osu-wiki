@@ -16,7 +16,8 @@ tags:
 - profil
 - dispărut
 ---
-# Website
+
+# Site web
 
 *Pagina principală: [Centru ajutor](/wiki/Help_centre)*
 
