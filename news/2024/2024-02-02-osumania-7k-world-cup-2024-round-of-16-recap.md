@@ -8,7 +8,7 @@ The cogs of competition keep on turning! Who's going to be able to keep that mom
 
 ![](/wiki/Tournaments/MWC/2024_7K/img/mwc7k2024-banner.jpg)
 
-The stakes for all teams start becoming higher as more rounds go by. As the mappools grow ever so slightly more difficult and the looming peril of dropping to the loser's bracket stalks players, so did the performance of our contestants!
+The stakes for all teams start becoming higher as more rounds go by. As the mappools grow ever so slightly more difficult and the looming peril of dropping to the losers' bracket stalks players, our contestants' wits are only getting stronger!
 
 ## Mappool showcase
 
