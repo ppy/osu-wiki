@@ -15,7 +15,7 @@ The stakes for all teams start becoming higher as more rounds go by. As the mapp
 [**Download the pool here! (50 MB)**](https://osu.ppy.sh/beatmaps/packs/P234)
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.twitch.tv/videos/2039649748&parent=osu.ppy.sh&autoplay=false&t=0h36m41s" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=v2039649748&parent=osu.ppy.sh&autoplay=false&t=0h36m41s" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
 While the overall difficulty of the pool hasn't increased by a considerable margin, it hasn't stopped players from dropping their guard. It's precisely in earlier rounds where consistency reigns supreme and every little slip-up counts. But don't be fooled, as future rounds will not be so forgiving!
@@ -40,7 +40,7 @@ Before proceeding to the highlighted matches, let's quickly remind ourselves of 
 ### ::{ flag=PL }:: Poland vs. ::{ flag=JP }:: Japan
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.twitch.tv/videos/2045221189&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=v2045221189&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
 Japan is a rice team. With this year's incorporation of the BMS legend ::{ flag=JP }:: [butanic](https://osu.ppy.sh/users/1433586) (current global #6 and someone that has been a BMS top player [since before osu!mania existed](https://www.youtube.com/watch?v=yRugloVbRV8)), him and ::{ flag=JP }:: [rainlily](https://osu.ppy.sh/users/485007) form a practically unbeatable duo in rice charts. In qualifiers, they were 1st overall in 2/4 rice-focused charts, and 2nd in the other two. They are capable of extraordinary accuracy up to an astounding physical level. However... this isn't BMS. This is mania. Here, there are Long Notes. And Poland *knew that*.
@@ -54,7 +54,7 @@ More blows were traded afterwards, with Poland picking up a second point on the 
 ### ::{ flag=AU }:: Australia vs. ::{ flag=BR }:: Brazil
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.twitch.tv/videos/2045785716&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=v2045785716&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
 The second day of action opened with a match-up touted to be the closest of the entire weekend, and not just because of their seeds (8th and 9th). Australia barged in to the tournament after missing out on the action last year. Brazil, on the other hand, wants to maintain the momentum they built up last weekend.
@@ -67,7 +67,7 @@ The tiebreaker, while titled "[sub/zerO](https://osu.ppy.sh/beatmapsets/2123291#
 
 During this week's round there were a couple of amazing plays that happened during matches that did not get highlighted, but still deserve a shout-out:
 
-- ::{ flag=PH }:: [- Kura -](https://osu.ppy.sh/users/11420405)'s [unique play](https://www.twitch.tv/videos/2045221187?t=00h24m54s) on [Juggernaut. - Invoke](https://osu.ppy.sh/beatmapsets/2123292#mania/4462083) caught everyone's attention. Who knew such a score could be achieved with this low of a scroll speed!
+- ::{ flag=PH }:: [- Kura -](https://osu.ppy.sh/users/11420405)'s [unique play](https://www.twitch.tv/videos/2045221187?t=00h25m25s) on [Juggernaut. - Invoke](https://osu.ppy.sh/beatmapsets/2123292#mania/4462083) caught everyone's attention. Who knew such a score could be achieved with this low of a scroll speed!
 - ::{ flag=JP }:: [butanic](https://osu.ppy.sh/users/1433586) has been around the VSRG community for a long while. While people know they're a beast, this was their tournament debut. And what a way to start things off getting [996K](https://www.twitch.tv/videos/2045221189) on [The Flashbulb - Ninedump](https://osu.ppy.sh/beatmapsets/2123256#mania/4461987).
 - The rice scores don't stop there though, as Japan and Korea managed to get a surprisingly close team score in [Frums - Wavetapper](https://osu.ppy.sh/beatmapsets/2123274#mania/4462022), both getting 53 and 56 GREAT respectively.
 - The highlights on [Frums - Wavetapper](https://osu.ppy.sh/beatmapsets/2123274#mania/4462022) don't stop, as ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406) managed to upscore ::{ flag=JP }:: [butanic](https://osu.ppy.sh/users/1433586) by a single GREAT!
