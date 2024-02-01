@@ -37,14 +37,6 @@ Before proceeding to the highlighted matches, let's quickly remind ourselves of 
 
 ## Match highlights
 
-### ::{ flag=AU }:: Australia vs. ::{ flag=BR }:: Brazil
-
-<div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.twitch.tv/videos/2045785716&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
-</div>
-
-Something something someone won yay!!!
-
 ### ::{ flag=PL }:: Poland vs. ::{ flag=JP }:: Japan
 
 <div align="center" class="osu-md__paragraph">
@@ -59,9 +51,21 @@ And just after that, one of the most extraordinary exhibits of consistency we've
 
 More blows were traded afterwards, with Poland picking up a second point on the Hard Hybrid [Fana](https://osu.ppy.sh/beatmapsets/2123269#mania/4462015), before finally ending the match 5-2 in favour of Japan. Don't forget about Poland though, as they are sure to be a fierce competitor in the lower bracket.
 
+### ::{ flag=AU }:: Australia vs. ::{ flag=BR }:: Brazil
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.twitch.tv/videos/2045785716&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+</div>
+
+The second day of action opened with a match-up touted to be the closest of the entire weekend, and not just because of their seeds (8th and 9th). Australia barged in to the tournament after missing out on the action last year. Brazil, on the other hand, wants to maintain the momentum they built up last weekend.
+
+As mentioned earlier in this recap, the "rice vs noodles" strategy is once again in play here. Australia opted to open their campaign with HB1, [Juggernaut - Invoke](https://osu.ppy.sh/beatmapsets/2123292#mania/4462083) — and grabbed their first point. Brazil replied with a point coming off RC1 [(goreshit - toromi hearts 2 (Sped Up Ver.))](https://osu.ppy.sh/beatmapsets/2123251#mania/4461979), and a very nutty 994k Score v1 SS from ::{ flag=BR }:: [SillyFangirl](https://osu.ppy.sh/users/2288363). Both teams traded points off their favoured skill sets for the next 3 charts. Australia managed to grab the first break point of the match with RC1, [Frums - Wavetapper](https://osu.ppy.sh/beatmapsets/2123274#mania/4462022). Shout-outs to ::{ flag=AU }:: [my angel zhla](https://osu.ppy.sh/users/6378800) for grabbing a 997k score on it. This run also secured match point for the land down under — however, their South American counterparts had other plans. Brazil scored on the next two charts coming off two phenomenal plays from SillyFangirl, forcing the tiebreaker.
+
+The tiebreaker, while titled "[sub/zerO](https://osu.ppy.sh/beatmapsets/2123291#mania/4462082)", was anything but. The two teams, truly toe to toe, stayed in each other's tow, until we saw the players crack under the pressure. Australia held on the longer between the two teams and pulled away to end this thrilling match, 5-4.
+
 ### Individual score highlights
 
-Let's try this out with bullet points, I just copied what noname wrote but needs to be cleaned up:
+During this week's round there were a couple of amazing plays that happened during matches that did not get highlighted, but still deserve a shout-out:
 
 - Kura's very low scroll speed against Vietnam on HB1 last pick of the match
 - butanic 996K on RC4
