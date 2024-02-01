@@ -78,4 +78,4 @@ We hope everyone's been enjoying the show thus far. The only thing we're certain
 
 As always, we strongly suggest checking out the matches [live on stream](https://www.twitch.tv/osulive) and keeping track of the [wiki](/wiki//Tournaments/MWC/2024_7K) for more information. Quarterfinals are starting soon, so keep an eye out for those!
 
-—0x84f, RandomeLoL, SurfChu85
+—0x84f, kadoen, RandomeLoL, SurfChu85
