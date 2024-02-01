@@ -51,7 +51,7 @@ The winner of "Icons of an Era", [Spoo](https://osu.ppy.sh/users/11805037), clai
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="" frameborder="0" allowfullscreen></iframe>
 </div>
 
-![](https://assets.ppy.sh/profile-badges/SOTY2022-2nd@2x.png)
+![](https://assets.ppy.sh/profile-badges/SOTY2023-Fool-Moon-Night@2x.jpg)
 
 ![](/wiki/shared/news/2024-02-05-skin-of-the-year-2023-results/Windosu.jpg)
 
@@ -61,7 +61,7 @@ An unexpected issue has occurred, causing this top 10 list to crash. Error code:
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="" frameborder="0" allowfullscreen></iframe>
 </div>
 
-![](https://assets.ppy.sh/profile-badges/SOTY2022-2nd@2x.png)
+![](https://assets.ppy.sh/profile-badges/SOTY2023-Windosu-XP@2x.jpg)
 
 ![](/wiki/shared/news/2024-02-05-skin-of-the-year-2023-results/Whitecat.jpg)
 
@@ -71,7 +71,7 @@ Everyone thought they were real funny commenting "rafis 2018-03-26 HDDT", or som
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="" frameborder="0" allowfullscreen></iframe>
 </div>
 
-![](https://assets.ppy.sh/profile-badges/SOTY2022-2nd@2x.png)
+![](https://assets.ppy.sh/profile-badges/SOTY2023-WhiteCat@2x.jpg)
 
 ---
 
