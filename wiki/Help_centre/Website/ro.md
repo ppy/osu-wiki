@@ -1,20 +1,20 @@
 ---
 tags:
-- site
-- block
-- forum
-- ticket
-- appearance
-- message
-- page
-- profile
-- missing
-- stats
-- aparență
-- mesaj
-- pagină
-- profil
-- dispărut
+  - site
+  - block
+  - forum
+  - ticket
+  - appearance
+  - message
+  - page
+  - profile
+  - missing
+  - stats
+  - aparență
+  - mesaj
+  - pagină
+  - profil
+  - dispărut
 ---
 
 # Site web
@@ -43,7 +43,7 @@ Poți să trimiți oricând un singur răspuns tichetului tău deschis de asiste
 
 **Pentru a bloca un utilizator de a îți mai trimite mesaje în joc, pur și simplu adaugă-i pe lista persoanelor blocate.**
 
-1. Fă clic pe butonul de `Options`  din joc.
+1. Fă clic pe butonul de `Options` din joc.
 2. Scrie `ignore` pentru a filtra opțiunea în secțiunea `Lista persoanelor blocate pe chat(separate prin spațiu)`.
 3. Adaugă numele de utilizator respectiv pe listă, separând fiecare utilizator nou cu un spațiu și înlocuind orice spațiu în numele lor cu underscore (Un utilizator numit *The Gatekeeper* devine *The\_Gatekeeper*, de exemplu).
 
@@ -55,7 +55,7 @@ Dacă dorești să ignori mesaje evidențiate, mesaje private sau mesaje publice
 
 Dacă dorești să împiedici persoanele care nu se află pe lista ta de prieteni să îți trimită mesaje private, urmează următorii pași. **Ține cont: moderatorii nu sunt afectați de această funcționalitate și pot oricând să îți trimită mesaje private. Dacă crezi că un moderator te agresează în ciuda acestui lucru, trebuie să contactezi [echipa noastră de asistență](mailto:support@ppy.sh).**
 
-1. Fă clic pe butonul de `Options`  în meniul principal sau apasă  `Ctrl` +  `O`.
+1. Fă clic pe butonul de `Options` în meniul principal sau apasă `Ctrl` + `O`.
 2. Scrie `block` pentru a filtra opțiunea în secțiunea de `Mesaje în cadrul jocului`.
 3. Fă clic pe setarea care apare pentru a o activa.
 
