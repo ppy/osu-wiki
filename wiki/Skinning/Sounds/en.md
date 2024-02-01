@@ -1,4 +1,4 @@
-# Sounds skinning
+# Skinnable sounds
 
 `.wav`, `.mp3`, and/or `.ogg` are valid formats for sounds.
 
@@ -8,9 +8,9 @@
 
 | Filename | Usage |
 | :-- | :-- |
-| `heartbeat.wav` | When the cursor hovers over the osu!cookie in the main menu |
-| `seeya.wav` | Closing the osu!client |
-| `welcome.wav` | Starting the osu!client |
+| `heartbeat.wav` | When the cursor hovers over the osu! cookie in the main menu |
+| `seeya.wav` | Closing the osu! client |
+| `welcome.wav` | Starting the osu! client |
 
 Notes:
 
@@ -136,7 +136,7 @@ Notes:
 
 ### Game screens
 
-These sounds aren't supposed to be bigger than a few kilobytes, as using a long audio track will impact the game client’s performance.
+These sounds are not supposed to be bigger than a few kilobytes, as using a long audio track will impact the game client’s performance.
 
 `applause.wav`:
 
