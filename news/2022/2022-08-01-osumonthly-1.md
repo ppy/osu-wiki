@@ -62,6 +62,10 @@ Not content to allow osu! to vacuum up all the glory, the members of the osu!tai
 
 Showcasing some of the best drum bashers the community has to offer, EGTS has a storied history of being one of the most competitively and visually impressive contests around, sporting enough dons and kats to even make the Taikonator blush.
 
+The GTS team's insanely talented designer [OsuMe65](https://osu.ppy.sh/users/852867), has also made a trailer for the tournament. Check it out and leave your thoughts down below!
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/9RtCEP0e9H8" frameborder="0" allowfullscreen></iframe>
+
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
 #### osu!catch World Cup 2022 concludes

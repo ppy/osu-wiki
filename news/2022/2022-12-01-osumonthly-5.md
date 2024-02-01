@@ -89,7 +89,7 @@ If you are interested in watching the match yourself, you can find the [Twitch V
 
 ### JPK314's Slider Picturator
 
-If you are at all interested in mapping on osu! you have probably already heard of [OliBomby](https://osu.ppy.sh/users/6573093) and his [Mapping Tools](https://mappingtools.github.io/) program that makes life easier for hundreds of mappers. But have you seen the latest update, or the [tweet](https://twitter.com/OliBomby/status/1592941194291863553?t=TEB1KmJ9pLdquaoVT9kv-g&s=19) from OliBomby on Twitter, revealing the Slider Picturator&trade;?
+If you are at all interested in mapping on osu! you have probably already heard of [OliBomby](https://osu.ppy.sh/users/6573093) and his [Mapping Tools](https://mappingtools.github.io/) program that makes life easier for hundreds of mappers. But have you seen the latest update, or the [tweet](https://twitter.com/OliBomby/status/1592941194291863553?t=TEB1KmJ9pLdquaoVT9kv-g&s=19) from OliBomby on Twitter, revealing the Slider Picturator™?
 
 [JPK314](https://osu.ppy.sh/users/10067391) has developed this new utility with the help of OliBomby and a few others, which has since been added to Mapping Tools! It allows you to transform your slider into any image. That's right, any image can now be embedded as a slider in a map. You don't have to be a genius to understand all the possibilities this can offer, and many mappers have already started to experiment with it. With each new update to Mapping Tools, OliBomby seems to push the limits of the editor. How far can we go from here? Only the future will tell.
 
@@ -106,6 +106,8 @@ This tech is very experimental and may not work correctly on some resolutions an
 Word on the street is that there will be more Hush-Hush medals coming soon, so if you feel like joining the hunt when they come out, go check out the [Medal Hunters Discord server](https://discord.com/invite/8qpNTs6). Of course, if you feel like solving any of the Hush-Hush medals on your own — not just these new ones — they're all waiting for you.
 
 ### SillyFanGirl's BR eSports nomination
+
+![](/wiki/shared/news/2022-12-01-osumonthly-5/BResports-banner.jpg)
 
 It is already a very hard feat to be recognised as one of the best, most versatile players 4K osu!mania has ever seen. [SillyFanGirl](https://osu.ppy.sh/users/2288363) has not only been able to achieve this, but is also an active [content creator](https://www.youtube.com/@SillyFangirlosu), an active tournament player, and overall an incredible community member to interact with!
 
