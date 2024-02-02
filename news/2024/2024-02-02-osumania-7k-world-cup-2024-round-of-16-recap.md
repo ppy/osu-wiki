@@ -43,13 +43,13 @@ Before proceeding to the highlighted matches, let's quickly remind ourselves of 
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=v2045221189&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-Japan is a rice team. With this year's incorporation of the BMS legend ::{ flag=JP }:: [butanic](https://osu.ppy.sh/users/1433586) (current global #6 and someone that has been a BMS top player [since before osu!mania existed](https://www.youtube.com/watch?v=yRugloVbRV8)), him and ::{ flag=JP }:: [rainlily](https://osu.ppy.sh/users/485007) form a practically unbeatable duo in rice charts. In qualifiers, they were 1st overall in 2/4 rice-focused charts, and 2nd in the other two. They are capable of extraordinary accuracy up to an astounding physical level. However... this isn't BMS. This is mania. Here, there are Long Notes. And Poland *knew that*.
+Japan is a rice team. With this year's incorporation of the BMS legend ::{ flag=JP }:: [butanic](https://osu.ppy.sh/users/1433586) (current global #6 and someone who has been a top BMS player [since before osu!mania existed](https://www.youtube.com/watch?v=yRugloVbRV8)), he and ::{ flag=JP }:: [rainlily](https://osu.ppy.sh/users/485007) form a practically unbeatable duo in rice charts. In Qualifiers, they were 1st overall in 2/4 rice-focused charts, and 2nd in the other two. They are capable of extraordinary accuracy up to an astounding physical level. However... this isn't BMS. This is osu!mania. Here, there are Long Notes. And Poland *knew that*.
 
 So, coming into the match, the strategy was clear. The eternal "rice vs. noodles" clash, which has happened and will surely happen again many times in this very tournament. The tone was set immediately with butanic's 997.8k SS on [skymuted & Evin a`k - Memory at Angels Landing](https://osu.ppy.sh/beatmapsets/2123235#mania/4461947), the chordstream pick. But Poland responded, with the veteran player ::{ flag=PL }:: [DaDarkDragon](https://osu.ppy.sh/users/8902097) leading the way to take the next point with [Y&Co. - POODLE](https://osu.ppy.sh/beatmapsets/2123243#mania/4461965), the LN density pick.
 
-And just after that, one of the most extraordinary exhibits of consistency we've seen so far, Japan's BMS duo getting a double 999k on the Jack pick [Frums - Wavetapper](https://osu.ppy.sh/beatmapsets/2123274#mania/4462022), with the players getting 24 and 30 perfects respectively.
+And just after that, one of the most extraordinary exhibits of consistency we've seen so far, Japan's BMS duo getting a double 999k on the Jack pick [Frums - Wavetapper](https://osu.ppy.sh/beatmapsets/2123274#mania/4462022), with the players getting 24 and 30 GREATs (300s) respectively.
 
-More blows were traded afterwards, with Poland picking up a second point on the Hard Hybrid [ZxNX - Fana](https://osu.ppy.sh/beatmapsets/2123269#mania/4462015), before finally ending the match 5-2 in favour of Japan. Don't forget about Poland though, as they are sure to be a fierce competitor in the lower bracket.
+More blows were traded afterwards, with Poland picking up a second point on the Hard Hybrid [ZxNX - Fana](https://osu.ppy.sh/beatmapsets/2123269#mania/4462015), before finally ending the match 5–2 in favour of Japan. Don't forget about Poland though, as they are sure to become a fierce competitor in the lower bracket.
 
 ### ::{ flag=AU }:: Australia vs. ::{ flag=BR }:: Brazil
 
@@ -57,25 +57,27 @@ More blows were traded afterwards, with Poland picking up a second point on the 
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=v2045785716&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-The second day of action opened with a match-up touted to be the closest of the entire weekend, and not just because of their seeds (8th and 9th). Australia barged in to the tournament after missing out on the action last year. Brazil, on the other hand, wants to maintain the momentum they built up last weekend.
+The second day of action opened with a matchup touted to be the closest of the entire weekend, and not just because of their seeds (8th and 9th). Australia barged into the tournament after missing out on the action last year. Brazil, on the other hand, wants to maintain the momentum they built up last weekend.
 
-As mentioned earlier in this recap, the "rice vs noodles" strategy is once again in play here. Australia opted to open their campaign with HB1, [Juggernaut - Invoke](https://osu.ppy.sh/beatmapsets/2123292#mania/4462083) — and grabbed their first point. Brazil replied with a point coming off RC1 [(goreshit - toromi hearts 2 (Sped Up Ver.))](https://osu.ppy.sh/beatmapsets/2123251#mania/4461979), and a very nutty 994k Score v1 SS from ::{ flag=BR }:: [SillyFangirl](https://osu.ppy.sh/users/2288363). Both teams traded points off their favoured skill sets for the next 3 charts. Australia managed to grab the first break point of the match with RC1, [Frums - Wavetapper](https://osu.ppy.sh/beatmapsets/2123274#mania/4462022). Shout-outs to ::{ flag=AU }:: [my angel zhla](https://osu.ppy.sh/users/6378800) for grabbing a 997k score on it. This run also secured match point for the land down under — however, their South American counterparts had other plans. Brazil scored on the next two charts coming off two phenomenal plays from SillyFangirl, forcing the tiebreaker.
+As mentioned, the "rice vs noodles" strategy is once again at play here. Australia opted to open their campaign with HB1, [Juggernaut - Invoke](https://osu.ppy.sh/beatmapsets/2123292#mania/4462083), and grabbed their first point. Brazil replied with a point coming off RC1 [(goreshit - toromi hearts 2 (Sped Up Ver.))](https://osu.ppy.sh/beatmapsets/2123251#mania/4461979), and a very nutty 994k ScoreV1 SS from ::{ flag=BR }:: [SillyFangirl](https://osu.ppy.sh/users/2288363).
 
-The tiebreaker, while titled "[sub/zerO](https://osu.ppy.sh/beatmapsets/2123291#mania/4462082)", was anything but. The two teams, truly toe to toe, stayed in each other's tow, until we saw the players crack under the pressure. Australia held on the longer between the two teams and pulled away to end this thrilling match, 5-4.
+Both teams traded points on their favoured skill sets for the next 3 charts. Australia managed to grab the first break point of the match on RC1, [Frums - Wavetapper](https://osu.ppy.sh/beatmapsets/2123274#mania/4462022), with shout-outs to ::{ flag=AU }:: [my angel zhla](https://osu.ppy.sh/users/6378800) for grabbing a 997k score on it. This run also secured match point for the land down under — however, their South American counterparts had other plans. Brazil scored on the next two charts coming off two phenomenal plays from SillyFangirl, forcing the tiebreaker.
+
+The tiebreaker, while titled "[sub/zerO](https://osu.ppy.sh/beatmapsets/2123291#mania/4462082)", was anything but. The two teams, truly toe to toe, stayed in each other's tow, until we saw the players crack under the pressure. Australia held on the longer between the two teams and pulled away to end this thrilling match, 5–4.
 
 ### Individual score highlights
 
 During this week's round there were a couple of amazing plays that happened during matches that did not get highlighted, but still deserve a shout-out:
 
 - ::{ flag=PH }:: [- Kura -](https://osu.ppy.sh/users/11420405)'s [unique play](https://www.twitch.tv/videos/2045221187?t=00h25m25s) on [Juggernaut. - Invoke](https://osu.ppy.sh/beatmapsets/2123292#mania/4462083) caught everyone's attention. Who knew such a score could be achieved with this low of a scroll speed!
-- ::{ flag=JP }:: [butanic](https://osu.ppy.sh/users/1433586) has been around the VSRG community for a long while. While people know they're a beast, this was their tournament debut. And what a way to start things off getting [996K](https://www.twitch.tv/videos/2045221189) on [The Flashbulb - Ninedump](https://osu.ppy.sh/beatmapsets/2123256#mania/4461987).
-- The rice scores don't stop there though, as Japan and Korea managed to get a surprisingly close team score in [Frums - Wavetapper](https://osu.ppy.sh/beatmapsets/2123274#mania/4462022), both getting 53 and 56 GREAT respectively.
+- ::{ flag=JP }:: [butanic](https://osu.ppy.sh/users/1433586) has been around the VSRG community for a long while. While people know they're a beast, this was their tournament debut. And what a way to start things off getting [996k](https://www.twitch.tv/videos/2045221189) on [The Flashbulb - Ninedump](https://osu.ppy.sh/beatmapsets/2123256#mania/4461987).
+- The rice scores don't stop there though, as Japan and Korea managed to get a surprisingly close team score in [Frums - Wavetapper](https://osu.ppy.sh/beatmapsets/2123274#mania/4462022), both getting 53 and 56 GREATs respectively.
 - The highlights on [Frums - Wavetapper](https://osu.ppy.sh/beatmapsets/2123274#mania/4462022) don't stop, as ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406) managed to upscore ::{ flag=JP }:: [butanic](https://osu.ppy.sh/users/1433586) by a single GREAT!
 
 ---
 
-We hope everyone's been enjoying the show thus far. The only thing we're certain of is that it can only go up from here! As players grit their teeth and push onwards, we wish the best of luck to all teams for giving their all insofar. Who knows what surprises await us in rounds to come.
+We hope everyone's been enjoying the show thus far. The only thing we're certain of is that it can only go up from here! As players grit their teeth and push onwards, we wish the best of luck to all teams for giving their all so far. Who knows what surprises await us in rounds to come.
 
-As always, we strongly suggest checking out the matches [live on stream](https://www.twitch.tv/osulive) and keeping track of the [wiki](/wiki//Tournaments/MWC/2024_7K) for more information. Quarterfinals are starting soon, so keep an eye out for those!
+As always, we strongly suggest checking out the matches [live on stream](https://www.twitch.tv/osulive) and keeping track of the [wiki article](/wiki//Tournaments/MWC/2024_7K) for schedules and more information. Quarterfinals are starting tomorrow, so keep an eye out for those!
 
 —0x84f, kadoen, RandomeLoL, SurfChu85
