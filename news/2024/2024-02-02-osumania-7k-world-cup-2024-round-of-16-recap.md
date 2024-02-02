@@ -69,7 +69,7 @@ The tiebreaker, while titled "[sub/zerO](https://osu.ppy.sh/beatmapsets/2123291#
 
 During this week's round there were a couple of amazing plays that happened during matches that did not get highlighted, but still deserve a shout-out:
 
-- ::{ flag=PH }:: [- Kura -](https://osu.ppy.sh/users/11420405)'s [unique play](https://www.twitch.tv/videos/2045221187?t=00h25m25s) on [Juggernaut. - Invoke](https://osu.ppy.sh/beatmapsets/2123292#mania/4462083) caught everyone's attention. Who knew such a score could be achieved with this low of a scroll speed!
+- ::{ flag=PH }:: [- Kura -](https://osu.ppy.sh/users/11420405)'s [unique play](https://www.twitch.tv/videos/2045221187?t=00h25m25s) on [Juggernaut. - Invoke](https://osu.ppy.sh/beatmapsets/2123292#mania/4462083) caught everyone's attention. Who knew scroll speed 1 could be viable for tournament play. Wait... ***SCROLL SPEED 1***???
 - ::{ flag=JP }:: [butanic](https://osu.ppy.sh/users/1433586) has been around the VSRG community for a long while. While people know they're a beast, this was their tournament debut. And what a way to start things off getting [996k](https://www.twitch.tv/videos/2045221189) on [The Flashbulb - Ninedump](https://osu.ppy.sh/beatmapsets/2123256#mania/4461987).
 - The rice scores don't stop there though, as Japan and Korea managed to get a surprisingly close team score in [Frums - Wavetapper](https://osu.ppy.sh/beatmapsets/2123274#mania/4462022), both getting 53 and 56 GREATs respectively.
 - The highlights on [Frums - Wavetapper](https://osu.ppy.sh/beatmapsets/2123274#mania/4462022) don't stop, as ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406) managed to upscore ::{ flag=JP }:: [butanic](https://osu.ppy.sh/users/1433586) by a single GREAT!
