@@ -37,7 +37,7 @@ Before proceeding to the highlighted matches, let's quickly remind ourselves of 
 
 ## Match highlights
 
-### ::{ flag=PL }:: Poland vs. ::{ flag=JP }:: Japan
+### ::{ flag=JP }:: Japan vs. ::{ flag=PL }:: Poland
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=v2045221189&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
