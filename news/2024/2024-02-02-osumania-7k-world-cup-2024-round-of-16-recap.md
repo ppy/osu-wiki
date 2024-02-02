@@ -4,11 +4,11 @@ title: "osu!mania 7K World Cup 2024: Round of 16 Recap"
 date: 2024-02-02 12:00:00 +0000
 ---
 
-The cogs of competition keep on turning! Who's going to be able to keep that momentum running in rounds to come?
+No one has been eliminated yet, but consistency is the name of the game as teams decide who will keep fighting among the winners and who will be cast down to the losers' bracket!
 
 ![](/wiki/Tournaments/MWC/2024_7K/img/mwc7k2024-banner.jpg)
 
-The stakes for all teams start becoming higher as more rounds go by. As the mappools grow ever so slightly more difficult and the looming peril of dropping to the losers' bracket stalks players, our contestants' wits are only getting stronger!
+The stakes for all teams will only start to increase from here and everyone is keeping their wits about them as the mappools grow ever so slightly more difficult. That doesn't stop our contestants from setting some *seriously impressive* plays, however, even this early on into the tournament.
 
 ## Mappool showcase
 
