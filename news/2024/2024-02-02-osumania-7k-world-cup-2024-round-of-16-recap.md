@@ -77,6 +77,6 @@ During this week's round there were a couple of amazing plays that happened duri
 
 We hope everyone's been enjoying the show thus far. The only thing we're certain of is that it can only go up from here! As players grit their teeth and push onwards, we wish the best of luck to all teams for giving their all so far. Who knows what surprises await us in rounds to come.
 
-As always, we strongly suggest checking out the matches [live on stream](https://www.twitch.tv/osulive) and keeping track of the [wiki article](/wiki//Tournaments/MWC/2024_7K) for schedules and more information. Quarterfinals are starting tomorrow, so keep an eye out for those!
+As always, we strongly suggest checking out the matches [live on stream](https://www.twitch.tv/osulive) and keeping track of the [wiki article](/wiki/Tournaments/MWC/2024_7K) for schedules and more information. Quarterfinals are starting tomorrow, so keep an eye out for those!
 
 —0x84f, kadoen, RandomeLoL, SurfChu85
