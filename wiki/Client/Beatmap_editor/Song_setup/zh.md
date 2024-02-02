@@ -88,7 +88,7 @@ osu!taiko 与 osu!mania 不受缩圈速度改变的影响——两个模式都�
 
 可以在 `颜色 (Colours)` 下配置[连击颜色](/wiki/Beatmapping/Combo_colour)。在之前的游戏版本中，也可以在这里调节游玩区域的背景色，但这项功能已经没有意义了。
 
-在游玩期间，打击物件的颜色默认会按指定顺序循环，每一组[新的连击](/wiki/Beatmapping/New_combo)时改变颜色。因此，不仅要使连击与歌曲同步，选择与背景相衬、并能提高物件可读性的连击颜色也是至关重要的。也可以在作图过程中手动定义颜色顺序，这被称作 [colourhaxing](/wiki/Beatmapping/Colourhaxing)。
+在游玩期间，打击物件的颜色默认会按指定顺序循环，每一组[新的连击](/wiki/Beatmapping/New_combo)时改变颜色。因此，不仅要使连击与歌曲同步，选择与背景相衬、并能提高物件可读性的连击颜色也是至关重要的。也可以在作图过程中手动定义颜色顺序，这个操作也叫作[跳过连击色 (colourhaxing)](/wiki/Beatmapping/Colourhaxing)。
 
 连击颜色仅会在 osu! 与 osu!catch 中生效。
 
@@ -140,5 +140,5 @@ osu!taiko 与 osu!mania 不受缩圈速度改变的影响——两个模式都�
 
 ## 冷知识
 
-- `设计 (Design)` 标签页先前被称作 `Storyboarding`。
+- `设计 (Design)` 标签页先前被称作`制作故事板` (Storyboarding)。
 - 在 `难度 (Difficulty)` 标签页中，曾出现 `星数评价 (Approximate Difficulty Rating)` 栏目，用于总结页面上所有难度设置。星星数越多，指示谱面越难。然而这并不是谱面的最终难度，只是基于目前难度设置得出的近似值。这后来被替换成一个标签，解释按住 `Shift` 键能够以 0.1 为精度精确调节各项数值。
