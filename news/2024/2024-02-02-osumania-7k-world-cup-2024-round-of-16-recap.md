@@ -18,7 +18,7 @@ The stakes for all teams will only start to increase from here and everyone is k
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=v2039649748&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-While the overall difficulty of the pool hasn't increased by a considerable margin, it hasn't stopped players from dropping their guard. It's precisely in earlier rounds where consistency reigns supreme and every little slip-up counts. But don't be fooled, as future rounds will not be so forgiving!
+While the overall difficulty of the pool hasn't increased by a considerable margin, it hasn't stopped players from dropping their guard. It's precisely in earlier rounds where consistency reigns supreme and every little slip-up counts.
 
 ## Round of 16 results
 
