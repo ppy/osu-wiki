@@ -15,7 +15,7 @@ The stakes for all teams start becoming higher as more rounds go by. As the mapp
 [**Download the pool here! (50 MB)**](https://osu.ppy.sh/beatmaps/packs/P234)
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=v2039649748&parent=osu.ppy.sh&autoplay=false&t=0h36m41s" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=v2039649748&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
 While the overall difficulty of the pool hasn't increased by a considerable margin, it hasn't stopped players from dropping their guard. It's precisely in earlier rounds where consistency reigns supreme and every little slip-up counts. But don't be fooled, as future rounds will not be so forgiving!
