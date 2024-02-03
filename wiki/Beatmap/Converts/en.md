@@ -18,7 +18,7 @@ As it stands, osu! supports conversions of beatmaps from the [osu! game mode](/w
 
 *See also: [osu!taiko mapping/osu! conversion notes](/wiki/Game_mode/osu!taiko#osu!-conversion-notes)*
 
-Converts between osu! and osu!taiko are generated according to the rhythms, hitsounds, and slider velocity changes in the beatmap. Depending on how the [hit objects](/wiki/Gameplay/Hit_object) are being hitsounded, the conversion between the two game modes generally goes as follows:
+Converts between osu! and osu!taiko are generated according to the rhythm, hitsound, and slider velocity changes in the beatmap. Depending on how the [hit objects](/wiki/Gameplay/Hit_object) are being hitsounded, the conversion between the two game modes generally goes as follows:
 
 - Circles, slider heads, slider tails, and slider repeats that bear no additive hitsounds (e.g. no whistle, clap, or finish) are converted into *red notes* (Don).
 - Circles, slider heads, slider tails, and slider repeats that are hitsounded with a whistle, a clap, or both are converted as *blue notes* (Katu).
