@@ -39,7 +39,7 @@ Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/2069690)
 ### Rocket Start - Supersoda MAX EVOLUTION
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/400/Songs/Rocket%20Start%20-%20Supersoda%20MAX%20EVOLUTION.osz">
+    <source src="https://assets.ppy.sh/artists/400/Songs/Rocket%20Start%20-%20Supersoda%20MAX%20EVOLUTION.mp3">
 </audio>
 
 ---
