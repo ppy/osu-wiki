@@ -8,7 +8,7 @@ tags:
 
 ![The \"Show converted\" toggle in osu!(lazer)](img/show-converted-button.png "The \"Show converted\" toggle in osu!(lazer)")
 
-In osu! gameplay, **converts** (or *converted beatmaps*) are [beatmaps](/wiki/Beatmap) from a specific [game mode](/wiki/Game_mode) that are "converted" by the game engine in order to be playable in another game mode they were not originally created for. All converts are automatically generated based on certain parameters present in the base beatmap.
+In osu! gameplay, **converts** (or *converted beatmaps*) are [beatmaps](/wiki/Beatmap) of a specific [game mode](/wiki/Game_mode) that have been "converted" by the osu! client in-game in order to be playable in another game mode they were not originally created for. All converts are automatically generated based on certain parameters present in the base beatmap.
 
 As it stands, osu! supports conversions of beatmaps from the [osu! game mode](/wiki/Game_mode/osu!) into [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch), and [osu!mania](/wiki/Game_mode/osu!mania).
 
