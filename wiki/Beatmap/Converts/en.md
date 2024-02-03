@@ -45,4 +45,4 @@ Converts between osu! and osu!mania are generated mostly according to the rhythm
 - Circles and shorter sliders (e.g. [1/4 sliders](/wiki/Client/Beatmap_editor/Beat_snap_divisor)) are converted into *regular notes*.
 - Spinners and longer sliders are converted into *long notes*.
 
-In addition to the above, osu!mania converts are unique in a sense that the resulting convert can either be [4K, 5K, or 7K](wiki/Gameplay/Game_modifier/xK) depending on the difficulty of the base beatmap.
+In addition to the above, osu!mania converts are unique in a sense that the resulting convert can either be [4K, 5K, or 7K](/wiki/Gameplay/Game_modifier/xK) depending on the difficulty of the base beatmap.
