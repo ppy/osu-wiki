@@ -272,6 +272,8 @@ Unofficial tournaments/competitions hosted by the communities.
 | osu! Romania Tournament 2018 (Low Bracket) | 2018-04-17 | 2018-08-18 | ::{ flag=RO }:: [FDunderlineGod](https://osu.ppy.sh/users/4854275) | ::{ flag=RO }:: [CataDesigns](https://osu.ppy.sh/users/10569381) | ::{ flag=RO }:: [Robi](https://osu.ppy.sh/users/9907606) |
 | osu! Romania Tournament 2019 | 2019-05-24 | 2019-09-14 | ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890/) | ::{ flag=RO }:: [eternum](https://osu.ppy.sh/users/4581069) | ::{ flag=RO }:: [\_AfterWind](https://osu.ppy.sh/users/2086138) |
 | [osu! Romania Summer Tournament 2021](o!RT/2021) | 2021-05-24 | 2021-09-12 | ::{ flag=RO }:: [eternum](https://osu.ppy.sh/users/4581069) | ::{ flag=RO }:: [L9 ELOVATOR](https://osu.ppy.sh/users/9578404) | ::{ flag=RO }:: [\_AfterWind](https://osu.ppy.sh/users/2086138) |
+| [Romanian osu! Cup 2022](o!RT/2022) | 2022-06-03 | 2022-09-04 | ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890/) | ::{ flag=RO }:: [SatonoDiamond](https://osu.ppy.sh/users/12366071) | ::{ flag=RO }:: [eternum](https://osu.ppy.sh/users/4581069) |
+| [osu! Romania Summer Tournament 2023](o!RT/2023) | 2023-06-01 | 2023-08-28 | ::{ flag=RO }:: [etn](https://osu.ppy.sh/users/4581069) | ::{ flag=RO }:: [Lucrise](https://osu.ppy.sh/users/9719351) | ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890) |
 
 #### osu! Singapore-Indonesia-Malaysia Tournament
 
@@ -646,6 +648,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu!catch Convert Cup](o!cCC/1) | 2019-09-21 | 2019-11-03 | ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210) | ::{ flag=IT }:: [Karym](https://osu.ppy.sh/users/5220794) | ::{ flag=CL }:: [NachoL](https://osu.ppy.sh/users/1250096) |
+
+#### osu!catch Convert Cup Open
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu!catch Convert Cup Open 2023](o!cCO/2023) | 2023-11-20 | 2024-01-22 | Korean PC (::{ flag=US }:: [Dahcreeper](https://osu.ppy.sh/users/6926006), ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626), ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520)) | converts ec (::{ flag=IT }:: [ArMa79](https://osu.ppy.sh/users/4982799), ::{ flag=CN }:: [- N a g i -](https://osu.ppy.sh/users/2956936), ::{ flag=PH }:: [Roido](https://osu.ppy.sh/users/6829103)) | CTB RAIMON (::{ flag=CA }:: [Katsuragi](https://osu.ppy.sh/users/3616480), ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877), ::{ flag=CL }:: [Aryssiel](https://osu.ppy.sh/users/2389481)) |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
