@@ -142,7 +142,7 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 
 ### osu!taiko
 
-- **Avoid covering essential parts of the background with the taiko playfield.** You can edit the vertical offset of of the background in the `.osu` file.
+- **Avoid covering essential parts of the background with the taiko playfield.** You can edit the vertical offset of the background in the `.osu` file.
 - **Avoid rapid [kiai](/wiki/Gameplay/Kiai_time) toggles.**
 - **On rhythms that are 1/4 or faster, use big notes only at the end of patterns.**
 - **Avoid slider velocity changes on lower difficulties.**
