@@ -8,9 +8,9 @@ There's a pun here about **Rocket Start** launching their career in our Featured
 
 ![](https://assets.ppy.sh/artists/400/header.jpg)
 
-Anyone who grew up with Nintendo will find something recognizable in **Rocket Start**'s sound. Inspired by video game soundtracks and a bunch EDM artists like [Tokyo Machine](https://osu.ppy.sh/beatmaps/artists/276), [Nitro Fun](https://osu.ppy.sh/beatmaps/artists/299), and [S3RL](https://osu.ppy.sh/beatmaps/artists/9), **Rocket Start** is the mind behind a slurry of top-tier tracks.
+Anyone who grew up with Nintendo will find something recognisable in **Rocket Start**'s sound. Inspired by video game soundtracks and a bunch of EDM artists like [Tokyo Machine](https://osu.ppy.sh/beatmaps/artists/276), [Nitro Fun](https://osu.ppy.sh/beatmaps/artists/299), and [S3RL](https://osu.ppy.sh/beatmaps/artists/9), **Rocket Start** is the mind behind a slurry of top-tier tracks.
 
-As of today, those tracks is officially part of osu!. 
+As of today, those tracks are officially part of osu!. 
 
 **5** happy hardcore/electro house/upbeat bass tunes can be found on [**Rocket Start**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/400), all of which are pre-timed and *not* pre-mapped (that's your job).
 
