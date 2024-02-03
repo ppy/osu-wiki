@@ -2,7 +2,7 @@
 
 *对于完整版谱面上架标准 (RC)，请参见： [谱面上架标准](/wiki/Ranking_criteria)*
 
-完整版的[谱面上架标准 (RC)](/wiki/Ranking_criteria) 很复杂。它包含[谱面](/wiki/Beatmap)从创建到[上架](/wiki/Beatmap_ranking_procedure#ranked)所需要遵守的所有规定和准则，以及大多数谱师从未遇到过的*许多*罕见情况。
+完整版的[谱面上架标准 (RC)](/wiki/Ranking_criteria) 很复杂。它包含[谱面](/wiki/Beatmap)从创建到[上架](/wiki/Beatmap_ranking_procedure#上架)所需要遵守的所有规定和准则，以及大多数谱师从未遇到过的*许多*罕见情况。
 
 **简版上架标准**这篇文章是为了让谱师更清楚地了解制作符合上架标准的谱面所需要遵守和参考的：
 
@@ -164,11 +164,11 @@
 
 ### osu!mania
 
-- **[难度梯度 (Spread)](#难度梯度) 规则应在每一个键位模式或[游玩方式](/wiki/Ranking_criteria/osu!mania#common-terms)上得以体现。** 比如，你的谱面内含有 4K 和 7K 的难度，那么你需要两套难度分布。
+- **[难度梯度 (Spread)](#难度梯度) 规则应在每一个键位模式或[游玩方式](/wiki/Ranking_criteria/osu!mania#常用术语)上得以体现。** 比如，你的谱面内含有 4K 和 7K 的难度，那么你需要两套难度分布。
 - **只能上架 4-10、12、14、16、18 键的谱面。** 大于等于 10 键的谱面需要符合[特定游玩方式](/wiki/Beatmapping/osu!mania_10K_plus_playstyles)。
 - **不能出现空轨道。**
 - **不允许在 Insane 或更低的难度中，出现同时按下 6 个键的情况。**
-- **使用 [N+1 游玩方式](/wiki/Ranking_criteria/osu!mania#common-terms)的难度必须启用 Song Setup 标签页下的 Advanced 标签中的 `Use special style (N+1 style) for mania` 选项。**
+- **使用 [N+1 游玩方式](/wiki/Ranking_criteria/osu!mania#常用术语)的难度必须启用 Song Setup 标签页下的 Advanced 标签中的 `Use special style (N+1 style) for mania` 选项。**
 
 ## 表现歌曲
 
