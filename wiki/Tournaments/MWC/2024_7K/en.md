@@ -113,9 +113,9 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
 | Philippines ::{ flag=PH }:: | ::{ flag=JP }:: Japan | [Feb 4 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240204T110000&p1=1440&p2=145&p3=248) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Brazil ::{ flag=BR }:: | ::{ flag=TW }:: Taiwan | [Feb 4 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240204T140000&p1=1440&p2=45&p3=241) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=ID }:: Indonesia | [Feb 4 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240204T140000&p1=1440&p2=166&p3=108) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
-| Poland ::{ flag=PL }:: | ::{ flag=VN }:: Vietnam | [Feb 4 (Sun) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240204T153000&p1=1440&p2=262&p3=95) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Brazil ::{ flag=BR }:: | ::{ flag=TW }:: Taiwan | [Feb 4 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240204T140000&p1=1440&p2=45&p3=241) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Russian Federation ::{ flag=RU }:: | ::{ flag=ID }:: Indonesia | [Feb 4 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240204T140000&p1=1440&p2=166&p3=108) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
+| Poland ::{ flag=PL }:: | ::{ flag=VN }:: Vietnam | [Feb 4 (Sun) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240204T153000&p1=1440&p2=262&p3=95) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Semifinals | mappool showcase | [Feb 4 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240204T170000&p1=1440) | [osulive](https://twitch.tv/osulive) |  |
 
 ## Mappools
@@ -457,4 +457,4 @@ The final standings for the Qualifier stage can be found in the following [sprea
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same average rank
 [^winners-bracket]: Winners bracket match
-[^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
+[^losers-bracket]: Losers bracket match
