@@ -153,7 +153,7 @@
 | **Kantan** | ![3/1](./img/taiko/kantan.png "3/1") | 每 32-36 拍需要一个休息段 |
 | **Futsuu** | ![2/1](./img/taiko/futsuu.png "2/1") | 每 32-36 拍需要一个休息段 |
 | **Muzukashii** (选项 1) | ![3/2](./img/taiko/muzu1.png "3/2") | 每 16-20 拍需要一个休息段 |
-| **Muzukashii** (选项 2) | ![3 consecutive 1/1](./img/taiko/muzu2.png "3 个连续的 1/1") | 每 16-20 拍需要一个休息段 |
+| **Muzukashii** (选项 2) | ![3 个连续的 1/1](./img/taiko/muzu2.png "3 个连续的 1/1") | 每 16-20 拍需要一个休息段 |
 | **Oni** | ![1/1](./img/taiko/oni.png "1/1") | 每 16-20 拍需要一个休息段 |
 
 ### osu!catch
