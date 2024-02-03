@@ -108,44 +108,15 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
 
 ## Match schedule: Quarterfinals
 
-### Saturday, 3 February 2024
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| China ::{ flag=CN }:: | ::{ flag=CA }:: Canada | [Feb 3 (Sat) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240203T030000&p1=1440&p2=33&p3=188) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| South Korea ::{ flag=KR }:: | ::{ flag=AU }:: Australia | [Feb 3 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240203T100000&p1=1440&p2=235&p3=57) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Taiwan ::{ flag=TW }:: | ::{ flag=DK }:: Denmark | [Feb 3 (Sat) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240203T123000&p1=1440&p2=241&p3=69) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Germany ::{ flag=DE }:: | ::{ flag=EE }:: Estonia | [Feb 3 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240203T140000&p1=1440&p2=37) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Indonesia ::{ flag=ID }:: | ::{ flag=PT }:: Portugal | [Feb 3 (Sat) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240203T143000&p1=1440&p2=108&p3=133) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
-| Vietnam ::{ flag=VN }:: | ::{ flag=ES }:: Spain | [Feb 3 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240203T150000&p1=1440&p2=95&p3=141) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Brazil ::{ flag=BR }:: | ::{ flag=FR }:: France | [Feb 3 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240203T160000&p1=1440&p2=45&p3=195) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
-| Malaysia ::{ flag=MY }:: | ::{ flag=TH }:: Thailand | [Feb 3 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240203T160000&p1=1440&p2=122&p3=28) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=NL }:: Netherlands | [Feb 3 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240203T170000&p1=1440&p2=166&p3=16) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Poland ::{ flag=PL }:: | ::{ flag=GB }:: United Kingdom | [Feb 3 (Sat) 18:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240203T183000&p1=1440&p2=262&p3=136) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
-| United States ::{ flag=US }:: | ::{ flag=SE }:: Sweden | [Feb 3 (Sat) 18:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240203T183000&p1=1440&p2=263&p3=239) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| United States ::{ flag=US }:: | ::{ flag=DE }:: Germany | [Feb 3 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240203T200000&p1=1440&p2=263&p3=37) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| United States ::{ flag=US }:: | ::{ flag=EE }:: Estonia | [Feb 3 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240203T200000&p1=1440&p2=263) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-
 ### Sunday, 4 February 2024
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
 | Philippines ::{ flag=PH }:: | ::{ flag=JP }:: Japan | [Feb 4 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240204T110000&p1=1440&p2=145&p3=248) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=PT }:: Portugal | [Feb 4 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240204T120000&p1=1440&p2=166&p3=133) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
-| Netherlands ::{ flag=NL }:: | ::{ flag=PT }:: Portugal | [Feb 4 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240204T120000&p1=1440&p2=16&p3=133) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
-| Brazil ::{ flag=BR }:: | ::{ flag=TW }:: Taiwan | [Feb 4 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240204T140000&p1=1440&p2=45&p3=241) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Brazil ::{ flag=BR }:: | ::{ flag=DK }:: Denmark | [Feb 4 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240204T140000&p1=1440&p2=45&p3=69) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| France ::{ flag=FR }:: | ::{ flag=TW }:: Taiwan | [Feb 4 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240204T140000&p1=1440&p2=195&p3=241) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| France ::{ flag=FR }:: | ::{ flag=DK }:: Denmark | [Feb 4 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240204T140000&p1=1440&p2=195&p3=69) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=ID }:: Indonesia | [Feb 4 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240204T140000&p1=1440&p2=166&p3=108) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
-| Netherlands ::{ flag=NL }:: | ::{ flag=ID }:: Indonesia | [Feb 4 (Sun) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240204T143000&p1=1440&p2=16&p3=108) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
-| Poland ::{ flag=PL }:: | ::{ flag=VN }:: Vietnam | [Feb 4 (Sun) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240204T153000&p1=1440&p2=262&p3=95) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Poland ::{ flag=PL }:: | ::{ flag=ES }:: Spain | [Feb 4 (Sun) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240204T153000&p1=1440&p2=262&p3=141) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=VN }:: Vietnam | [Feb 4 (Sun) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240204T153000&p1=1440&p2=136&p3=95) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=ES }:: Spain | [Feb 4 (Sun) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240204T153000&p1=1440&p2=136&p3=141) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Sweden ::{ flag=SE }:: | ::{ flag=DE }:: Germany | [Feb 4 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240204T170000&p1=1440&p2=239&p3=37) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Sweden ::{ flag=SE }:: | ::{ flag=EE }:: Estonia | [Feb 4 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240204T170000&p1=1440&p2=239) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Semifinals | mappool showcase | [Feb 4 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240204T180000&p1=1440) | [osulive](https://twitch.tv/osulive) |  |
+| Brazil ::{ flag=BR }:: | ::{ flag=TW }:: Taiwan | [Feb 4 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240204T140000&p1=1440&p2=45&p3=241) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Russian Federation ::{ flag=RU }:: | ::{ flag=ID }:: Indonesia | [Feb 4 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240204T140000&p1=1440&p2=166&p3=108) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
+| Poland ::{ flag=PL }:: | ::{ flag=VN }:: Vietnam | [Feb 4 (Sun) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240204T153000&p1=1440&p2=262&p3=95) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Semifinals | mappool showcase | [Feb 4 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240204T170000&p1=1440) | [osulive](https://twitch.tv/osulive) |  |
 
 ## Mappools
 
@@ -228,6 +199,25 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
 8. [Raimukun - Cthulhu (Leeju) \[Stage 8: Abyss\]](https://osu.ppy.sh/beatmapsets/2115980#mania/4443612)
 
 ## Match results
+
+### Quarterfinals
+
+Saturday, 3 February 2024:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **China** ::{ flag=CN }:: | **6** | 5 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/112495293) | [#1](https://www.twitch.tv/videos/2051648293) |
+| **South Korea** ::{ flag=KR }:: | **6** | 0 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/112499047) | [#1](https://www.twitch.tv/videos/2051896225) |
+| **Taiwan** ::{ flag=TW }:: | **6** | 0 | ::{ flag=DK }:: Denmark | [#1](https://osu.ppy.sh/community/matches/112500632) | [#1](https://www.twitch.tv/videos/2051916659) |
+| **Germany** ::{ flag=DE }:: | **6** | 0 | ::{ flag=EE }:: Estonia | [#1](https://osu.ppy.sh/community/matches/112501969) | [#1](https://www.twitch.tv/videos/2052020824) |
+| **Indonesia** ::{ flag=ID }:: | **6** | 0 | ::{ flag=PT }:: Portugal | [#1](https://osu.ppy.sh/community/matches/112502578) | [#1](https://www.twitch.tv/videos/2052016021) |
+| **Vietnam** ::{ flag=VN }:: | **6** | 0 | ::{ flag=ES }:: Spain | [#1](https://osu.ppy.sh/community/matches/112503032) | [#1](https://www.twitch.tv/videos/2052022296) |
+| **Brazil** ::{ flag=BR }:: | **6** | 1 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/112504145) | [#1](https://www.twitch.tv/videos/2052081556) |
+| **Malaysia** ::{ flag=MY }:: | **6** | 1 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/112504137) | [#1](https://www.twitch.tv/videos/2052079191) |
+| **Russian Federation** ::{ flag=RU }:: | **6** | 1 | ::{ flag=NL }:: Netherlands | [#1](https://osu.ppy.sh/community/matches/112505219) | [#1](https://www.twitch.tv/videos/2052135585) |
+| **Poland** ::{ flag=PL }:: | **6** | 0 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/112506764) | [#1](https://www.twitch.tv/videos/2052209257) |
+| **United States** ::{ flag=US }:: | **6** | 0 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/112506769) | [#1](https://www.twitch.tv/videos/2052219543) |
+| **United States** ::{ flag=US }:: | **6** | 2 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/112508349) | [#1](https://www.twitch.tv/videos/2052310752) |
 
 ### Round of 16
 
@@ -468,4 +458,3 @@ The final standings for the Qualifier stage can be found in the following [sprea
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same average rank
 [^winners-bracket]: Winners bracket match
 [^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
