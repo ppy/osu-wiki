@@ -14,7 +14,7 @@ As of today, those tracks is officially part of osu!.
 
 **5** happy hardcore/electro house/upbeat bass tunes can be found on [**Rocket Start**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/400), all of which are pre-timed and *not* pre-mapped (that's your job).
 
-*Elite Storyboarder* [Shmiklak](https://osu.ppy.sh/users/5504231) gathered some mappers to create a map of [Sushi Blast](https://osu.ppy.sh/beatmapsets/2069690) for this announcement. Take a peek at that and everything else below:
+*Elite Storyboarder* [Shmiklak](https://osu.ppy.sh/users/5504231) gathered some mappers to create a map of [Sushi Blast](https://osu.ppy.sh/beatmapsets/2069690) for this announcement. Take a peek at that and everything else:
 
 <div align="center">
     <video width="95%" controls>
@@ -24,20 +24,22 @@ As of today, those tracks is officially part of osu!.
 
 ### Rocket Start - Sushi Blast
 
+Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/2069690) hosted by [Shmiklak](https://osu.ppy.sh/users/5504231)!
+
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/400/Sushi%20Blast/Rocket%20Start%20-%20Sushi%20Blast.mp3">
 </audio>
 
 ### Rocket Start - Jolly Roger
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/400/Jolly%20Roger/Rocket%20Start%20-%20Jolly%20Roger.mp3">
 </audio>
 
 ### Rocket Start - Supersoda MAX EVOLUTION
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/400/Songs/Rocket%20Start%20-%20Supersoda%20MAX%20EVOLUTION.osz">
 </audio>
 
 ---
