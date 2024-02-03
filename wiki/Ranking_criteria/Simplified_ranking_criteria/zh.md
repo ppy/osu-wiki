@@ -28,13 +28,13 @@
 - **[谱面主（谱面拥有者）](/wiki/Beatmap/Beatmap_host) 制作的难度数量必须大于等于[客串谱师](/wiki/Beatmap/Guest_difficulty)制作的数量。**
 - **根据游戏模式和歌曲长度，谱面所需的最低难度必须大于等于：**
 
-|  | osu! | osu!taiko |
+| [掉血时间](/wiki/Beatmap/Drain_time) | osu! | osu!taiko |
 | --: | :-: | :-: |
 | **0:30 到 3:30** | Normal | Futsuu |
 | **3:30 到 4:15** | Hard | Muzukashii |
 | **4:15 到 5:00** | Insane | Oni |
 
-|  | osu!catch | osu!mania |
+| [掉血时间](/wiki/Beatmap/Drain_time) | osu!catch | osu!mania |
 | --: | :-: | :-: |
 | **0:30 到 2:30** | Salad | Normal |
 | **2:30 到 3:15** | Platter | Hard |
