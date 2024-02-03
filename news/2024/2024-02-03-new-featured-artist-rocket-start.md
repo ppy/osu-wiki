@@ -4,7 +4,7 @@ title: "New Featured Artist: Rocket Start"
 date: 2024-02-03 18:00:00 +0000
 ---
 
-Send only your warmest welcomes to our latest Featured Artist: **Rocket Start**!
+There's a pun here about **Rocket Start** launching their career in our Featured Artists, but we'll let you work out the details.
 
 ![](https://assets.ppy.sh/artists/400/header.jpg)
 
