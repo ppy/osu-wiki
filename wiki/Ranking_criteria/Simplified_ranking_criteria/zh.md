@@ -128,7 +128,7 @@
 
 ## 游戏模式特有
 
-**若想查阅[游戏模式](/wiki/Game_mode)特有的谱面上架标准，请参阅：[osu!](../osu!)、[osu!taiko](../osu!taiko)、[osu!catch](../osu!catch)、[osu!mania](../osu!mania)。*
+*若想查阅[游戏模式](/wiki/Game_mode)特有的谱面上架标准，请参阅：[osu!](../osu!)、[osu!taiko](../osu!taiko)、[osu!catch](../osu!catch)、[osu!mania](../osu!mania)。*
 
 ### osu!
 
