@@ -7,6 +7,7 @@ tags:
   - beatmap de invitado
   - dificultades de invitado
   - mapa de invitado
+outdated_translation: true
 ---
 
 # Dificultad de invitado

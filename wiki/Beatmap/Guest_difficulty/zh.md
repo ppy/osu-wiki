@@ -8,6 +8,7 @@ tags:
   - 客串谱面
   - 客串难度
   - 客串图
+outdated_translation: true  
 ---
 
 # 客串难度

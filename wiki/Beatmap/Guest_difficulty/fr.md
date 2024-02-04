@@ -4,6 +4,7 @@ tags:
   - guest beatmap
   - guest difficulties
   - guest map
+outdated_translation: true  
 ---
 
 # Guest difficulties
