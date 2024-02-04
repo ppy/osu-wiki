@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Configurações Visuais
 
 ![](img/visual-settings-PT-BR.jpg "Exemplo de Configurações Visuais")
