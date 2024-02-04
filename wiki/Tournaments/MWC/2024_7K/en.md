@@ -266,7 +266,7 @@ Sunday, 4 February 2024:
 | **Philippines** ::{ flag=PH }:: | **6** | 5 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/112518394) | [#1](https://www.twitch.tv/videos/2052935687) |
 | **Brazil** ::{ flag=BR }:: | **6** | 0 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/112520824) | [#1](https://www.twitch.tv/videos/2053031163) |
 | **Russian Federation** ::{ flag=RU }:: | **6** | 2 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/112520830) | [#1](https://www.twitch.tv/videos/2053063481) |
-| **Poland** ::{ flag=PL }:: | **6** | 1 | ::{ flag=VN }:: Vietnam | [#1](https://osu.ppy.sh/community/matches/112522185) | [#1](https://www.twitch.tv/videos/2053211035) |
+| **Poland** ::{ flag=PL }:: | **6** | 1 | ::{ flag=VN }:: Vietnam | [#1](https://osu.ppy.sh/community/matches/112522185) | [#1](https://www.twitch.tv/videos/2053290391) |
 | Semifinals |  |  | mappool showcase |  | [#1](https://www.twitch.tv/videos/2053211033) |
 
 ### Round of 16
