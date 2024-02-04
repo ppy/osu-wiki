@@ -80,7 +80,7 @@ Asigură-te că incluzi orice jurnal cu mesaje sau alte dovezi în e-mail, iar e
 
 Jucătorii cu statusul de [suporter](https://osu.ppy.sh/home/support) au privilegiul de a-și modifica propria lor pagină pentru a fi afișată pe profilul lor pentru a fi văzută de toată lumea. Paginile „eu!” pot conține orice vrei, atâta timp cât respectă [regulile comunității](/wiki/Rules)!
 
-Chiar dacă se întâmplă ca [suporterul](https://osu.ppy.sh/home/support) tău să se termine, pagina ta Eu! va **rămâne vizibilă** și vei putea în continuare să îi modifici conținutul.
+Chiar dacă se întâmplă ca [suporterul](https://osu.ppy.sh/home/support) tău să expire, pagina ta Eu! va **rămâne vizibilă** și vei putea în continuare să îi modifici conținutul.
 
 ### Conținutul paginii mele „eu!” a dispărut! {id=userpage-removed}
 
