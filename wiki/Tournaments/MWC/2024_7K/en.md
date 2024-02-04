@@ -145,7 +145,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
   3. [SP-# - tinnitus (taba2) \[Other (MWC.)\]](https://osu.ppy.sh/beatmapsets/2130608#mania/4480894)
   4. [Sydosys - Voyage (-NoName-) \[Expedition\]](https://osu.ppy.sh/beatmapsets/2130624#mania/4480927)
   5. [RykSeb - RETINAE (Blocko) \[GAZE\]](https://osu.ppy.sh/beatmapsets/2130601#mania/4480882)
-  6. [Junk - Kagaribi (\_underjoy) \[Sparks\] *(temporary link)*](https://leoflt.com/s/nwxP)
+  6. [Junk - Kagaribi (\_underjoy) \[Sparks\]](https://osu.ppy.sh/beatmapsets/2130665#mania/4481018)
 - Long Note
   1. [ARForest - The Last Page (SurfChu85) \[Epilogue\]](https://osu.ppy.sh/beatmapsets/2130622#mania/4480923)
   2. [Mili - Vulnerability (Maxus) \[Fragility\]](https://osu.ppy.sh/beatmapsets/2130611#mania/4480897)
