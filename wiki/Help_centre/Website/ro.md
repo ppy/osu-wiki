@@ -24,7 +24,7 @@ tags:
 
 Această secțiune este dedicată problemelor cu site-ul osu!
 
-## Probleme comune {id=common-issues}
+## Probleme uzuale {id=common-issues}
 
 ### Nu am primit niciun răspuns la tichetul meu de asistență și au trecut 2 săptămâni! {id=support-no-reply}
 
