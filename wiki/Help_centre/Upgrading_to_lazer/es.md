@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 4390338dba70d8ad149f01408d623120cdc6aa96
+---
+
 # Actualizar a lazer
 
 *Aviso: Aún estamos ajustando el balance y mecánicas de juego. Por ahora, **las puntuaciones establecidas en lazer no deberían ser consideradas como permanentes**.*
