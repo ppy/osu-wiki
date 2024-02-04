@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 4390338dba70d8ad149f01408d623120cdc6aa96
+---
+
 # Nâng cấp lên lazer
 
 *Lưu ý: Chúng tôi vẫn đang tìm cách giải quyết vấn đề cân bằng các yếu tố và các cơ chế trong trò chơi. Còn bây giờ, **những điểm số được ghi trên lazer sẽ chỉ tồn tại tạm thời**.*
