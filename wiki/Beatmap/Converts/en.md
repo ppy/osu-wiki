@@ -18,20 +18,20 @@ As it stands, osu! supports conversions of beatmaps from the [osu! game mode](/w
 
 *See also: [osu!taiko mapping/osu! conversion notes](/wiki/Game_mode/osu!taiko#osu!-conversion-notes)*
 
-Converts between osu! and osu!taiko are generated according to the rhythm, hitsound, and slider velocity changes in the beatmap. Depending on how the [hit objects](/wiki/Gameplay/Hit_object) are being hitsounded, the conversion between the two game modes generally goes as follows:
+osu!taiko converts are generated according to the placement of hitsounds, rhythm, and slider velocity changes in a beatmap. Depending on the type of the [hit objects](/wiki/Gameplay/Hit_object) and how they are hitsounded, the conversion generally goes as follows:
 
 - Circles, slider heads, slider tails, and slider repeats that bear no additive hitsounds (e.g. no whistle, clap, or finish) are converted into *red notes* (Don).
 - Circles, slider heads, slider tails, and slider repeats that are hitsounded with a whistle, a clap, or both are converted as *blue notes* (Katu).
 - Circles, slider heads, slider tails, and slider repeats that are hitsounded with a finish are converted into *large red notes*.
 - Circles, slider heads, slider tails, and slider repeats that are hitsounded with a finish AND a whistle, a clap, or both are converted into *large blue notes*.
 - Sliders with significant lengths are converted into *drumrolls*.
-- Spinners are converted into *osu!taiko spinners* (dendens/shakers).
+- Spinners are converted into *dendens* (shakers).
 
 ### osu! to osu!catch conversion
 
 *See also: [osu!catch mapping/osu! conversion notes](/wiki/Game_mode/osu!catch#osu!-conversion-notes)*
 
-Converts between osu! and osu!catch are generated according to the rhythm and the *horizontal placement* (e.g. the x-axis coordinate) of the [hit objects](/wiki/Gameplay/Hit_object) in the beatmap. The conversion between the two game modes goes as follows:
+osu!catch converts are generated according to the rhythm and *horizontal placement* (e.g. the x-axis coordinate) of the [hit objects](/wiki/Gameplay/Hit_object) in a beatmap as follows:
 
 - Circles, slider heads, slider tails, and slider repeats are converted into *fruits*.
 - Slider ticks are converted into *juice drops*.
@@ -40,9 +40,9 @@ Converts between osu! and osu!catch are generated according to the rhythm and th
 
 ### osu! to osu!mania conversion
 
-Converts between osu! and osu!mania are generated mostly according to the rhythm of the beatmap, and are supposedly much more random than the other converts in its algorithm. While there are no consensus as to how osu! to osu!mania conversion works precisely, it generally goes as follows:
+osu!mania converts are generated mostly according to the rhythm of the beatmap, and are supposedly much more random than converts in other game modes. While there is no consensus as to how osu! to osu!mania conversion works precisely, it generally goes as follows:
 
 - Circles and shorter sliders (e.g. [1/4 sliders](/wiki/Client/Beatmap_editor/Beat_snap_divisor)) are converted into *regular notes*.
 - Spinners and longer sliders are converted into *long notes*.
 
-In addition to the above, osu!mania converts are unique in a sense that the resulting convert can either be [4K, 5K, or 7K](/wiki/Gameplay/Game_modifier/xK) depending on the difficulty of the base beatmap.
+In addition to the above, osu!mania converts are unique in a sense that the resulting convert can either be [4K, 5K, or 7K](/wiki/Gameplay/Game_modifier/xK) depending on the difficulty of the original beatmap.
