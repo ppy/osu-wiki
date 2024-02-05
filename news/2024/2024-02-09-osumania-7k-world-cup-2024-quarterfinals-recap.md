@@ -4,11 +4,11 @@ title: "osu!mania 7K World Cup 2024: Quarterfinals Recap"
 date: 2024-02-09 17:00:00 +0000
 ---
 
-Teaser
+The stakes are getting higher and higher as the 1st elimination phase of the tournament concludes! Tune in to see whether your favourite team made the cut!
 
 ![](/wiki/Tournaments/MWC/2024_7K/img/mwc7k2024-banner.jpg)
 
-intro
+The Quarterfinals have concluded, and due to the unusual way the brackets have been set up this year, the first eliminations only took place last weekend! As the mappool keeps getting harder and harder, some teams unfortunately are not able to keep up, causing most of the matches last weekend to be blow-outs. Of course, there were some exceptional matches that got everyone excited — and subsequently got highlighted below, but as the top seeds assert dominance within the brackets and start fighting for the championship title, we should see more intense, closer match-ups going forward.
 
 ## Mappool showcase
 
