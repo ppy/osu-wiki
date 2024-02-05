@@ -38,7 +38,7 @@ osu!mania 7키 월드컵은 2024 최소 $1,200 상금과 한정판 상품을 제
 
 ## 조직
 
-osu!mania 7키 월드컵 2024은 osu! 팀과 여러명의 커뮤니티 멤버들로 운영됩니다.
+osu!mania 7키 월드컵 2024는 osu! 팀과 여러명의 커뮤니티 멤버들로 운영됩니다.
 
 | 직책 | 멤버 |
 | :-- | :-- |
@@ -106,19 +106,57 @@ osu!mania 7키 월드컵 2024은 osu! 팀과 여러명의 커뮤니티 멤버들
 
 전체 플레이어 목록은 [여기서](https://gist.github.com/LeoFLT/fd2fdbd125eedb7bf268bd382dab1c05#file-mwc-7k-2024-player-list-csv) 볼 수 있습니다.
 
-## 매치 일정 : 쿼터파이널
+## 매치 일정 : 세미파이널
 
-### 2024년 2월 4일 일요일
+### 2024년 2월 10일 토요일
 
-| Team A | Team B | 매치 시간 | 트위치 방송 |  |
+| Team A | Team B | 경기 시간 | 트위치 방송 |  |
 | --: | :-- | :-- | :-: | :-: |
-| 필리핀 ::{ flag=PH }:: | ::{ flag=JP }:: 일본 | [Feb 4 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240204T110000&p1=1440&p2=145&p3=248) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 브라질 ::{ flag=BR }:: | ::{ flag=TW }:: 대만 | [Feb 4 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240204T140000&p1=1440&p2=45&p3=241) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 러시아 ::{ flag=RU }:: | ::{ flag=ID }:: 인도네시아 | [Feb 4 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240204T140000&p1=1440&p2=166&p3=108) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
-| 폴란드 ::{ flag=PL }:: | ::{ flag=VN }:: 베트남 | [Feb 4 (Sun) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240204T153000&p1=1440&p2=262&p3=95) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 세미파이널 | 맵풀 쇼케이스 | [Feb 4 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240204T170000&p1=1440) | [osulive](https://twitch.tv/osulive) |  |
+| 오스트레일리아 ::{ flag=AU }:: | ::{ flag=US }:: 미국 | [Feb 10 (Sat) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240210T020000&p1=1440&p2=57&p3=263) | *TBD* | [^losers-bracket] |
+| 일본 ::{ flag=JP }:: | ::{ flag=RU }:: 러시아 | [Feb 10 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240210T110000&p1=1440&p2=248&p3=166) | *TBD* | [^losers-bracket] |
+| 태국 ::{ flag=TH }:: | ::{ flag=PL }:: 폴란드 | [Feb 10 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240210T130000&p1=1440&p2=28&p3=262) | *TBD* | [^losers-bracket] |
+| 캐나다 ::{ flag=CA }:: | ::{ flag=BR }:: 브라질 | [Feb 10 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240210T180000&p1=1440&p2=188&p3=45) | *TBD* | [^losers-bracket] |
+
+### 2024년 2월 11일 일요일
+
+| Team A | Team B | Match time | Twitch stream |  |
+| --: | :-- | :-- | :-: | :-: |
+| South Korea ::{ flag=KR }:: | ::{ flag=PH }:: Philippines | [Feb 11 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T100000&p1=1440&p2=235&p3=145) | *TBD* | [^winners-bracket] |
+| 일본 ::{ flag=JP }:: | ::{ flag=AU }:: 오스트레일리아 | [Feb 11 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T120000&p1=1440&p2=248&p3=57) | *TBD* | [^potential-match] |
+| 러시아 ::{ flag=RU }:: | ::{ flag=AU }:: 오스트레일리아 | [Feb 11 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T120000&p1=1440&p2=166&p3=57) | *TBD* | [^potential-match] |
+| China ::{ flag=CN }:: | ::{ flag=MY }:: Malaysia | [Feb 11 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T130000&p1=1440&p2=33&p3=122) | *TBD* | [^winners-bracket] |
+| 일본 ::{ flag=JP }:: | ::{ flag=US }:: 미국 | [Feb 11 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T150000&p1=1440&p2=248&p3=263) | *TBD* | [^potential-match] |
+| 러시아 ::{ flag=RU }:: | ::{ flag=US }:: 미국 | [Feb 11 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T150000&p1=1440&p2=166&p3=263) | *TBD* | [^potential-match] |
+| 태국 ::{ flag=TH }:: | ::{ flag=CA }:: 캐나다 | [Feb 11 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T160000&p1=1440&p2=28&p3=188) | *TBD* | [^potential-match] |
+| 태국 ::{ flag=TH }:: | ::{ flag=BR }:: 브라질 | [Feb 11 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T160000&p1=1440&p2=28&p3=45) | *TBD* | [^potential-match] |
+| 폴란드 ::{ flag=PL }:: | ::{ flag=CA }:: 캐나다 | [Feb 11 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T160000&p1=1440&p2=262&p3=188) | *TBD* | [^potential-match] |
+| 폴란드 ::{ flag=PL }:: | ::{ flag=BR }:: 브라질 | [Feb 11 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T160000&p1=1440&p2=262&p3=45) | *TBD* | [^potential-match] |
+| 파이널 | 맵풀 쇼케이스 | [Feb 11 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T170000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## 맵풀 목록
+
+### 세미파이널
+
+**[맵팩은 여기서 다운로드가 가능합니다 (119 MB)](https://packs.ppy.sh/P236%20-%20osu!mania%207K%20World%20Cup%202024%3A%20Semifinals.zip)**
+
+- Rice
+  1. [rejection - The Way of Adventure (feat. Kusaka Akira) (osu! edit) (Jinjin) \[Delayed Journey\]](https://osu.ppy.sh/beatmapsets/2130606#mania/4480890)
+  2. [Trina Lydia - Zik -ST.- (pwhk) \[-.RAIGHT-\]](https://osu.ppy.sh/beatmapsets/2130551#mania/4480744)
+  3. [SP-# - tinnitus (taba2) \[Other (MWC.)\]](https://osu.ppy.sh/beatmapsets/2130608#mania/4480894)
+  4. [Sydosys - Voyage (-NoName-) \[Expedition\]](https://osu.ppy.sh/beatmapsets/2130624#mania/4480927)
+  5. [RykSeb - RETINAE (Blocko) \[GAZE\]](https://osu.ppy.sh/beatmapsets/2130601#mania/4480882)
+  6. [Junk - Kagaribi (\_underjoy) \[Sparks\]](https://osu.ppy.sh/beatmapsets/2130665#mania/4481018)
+- Long Note
+  1. [ARForest - The Last Page (SurfChu85) \[Epilogue\]](https://osu.ppy.sh/beatmapsets/2130622#mania/4480923)
+  2. [Mili - Vulnerability (Maxus) \[Fragility\]](https://osu.ppy.sh/beatmapsets/2130611#mania/4480897)
+  3. [Hoshimachi Suisei - GHOST (Cut ver.) (paulkappa) \[CONTOURS OF MYSELF\]](https://osu.ppy.sh/beatmapsets/2130609#mania/4480895)
+  4. [Getty - Revolt (Remuring) \[Remuring & Evening's Rebellion\]](https://osu.ppy.sh/beatmapsets/2130612#mania/4480900)
+- Hybrid
+  1. [orangentle / Yu\_Asahina - OEFHEBEN (Wonki) \[Aufheben\]](https://osu.ppy.sh/beatmapsets/2130617#mania/4480914)
+  2. [Frums - 24eeev0-$ (Jinjin) \[ev0lution\_42\]](https://osu.ppy.sh/beatmapsets/2130620#mania/4480921)
+  3. [tn-shi - Synthesis. (Critical\_Star) \[Synthwave Rift\]](https://osu.ppy.sh/beatmapsets/2130789#mania/4481282)
+- Tiebreaker
+  1. **[Akiri - Symphony Of The Lost Souls (-NoName-) \[Drifting Astray\]](https://osu.ppy.sh/beatmapsets/2130621#mania/4480922)**
 
 ### 쿼터파이널
 
@@ -202,6 +240,8 @@ osu!mania 7키 월드컵 2024은 osu! 팀과 여러명의 커뮤니티 멤버들
 
 ### 쿼터파이널
 
+자세한 통계는 [여기](https://docs.google.com/spreadsheets/d/1fArMvRWJkHqcV7FsbmdxDZgAUC1Dq7M0vXuNHSUh0Fg?rm=minimal)에서 확인할 수 있습니다.
+
 2024년 2월 3일 토요일:
 
 | Team A |  |  | Team B | 경기 링크 | VOD 링크 |
@@ -218,6 +258,16 @@ osu!mania 7키 월드컵 2024은 osu! 팀과 여러명의 커뮤니티 멤버들
 | **폴란드** ::{ flag=PL }:: | **6** | 0 | ::{ flag=GB }:: 영국 | [#1](https://osu.ppy.sh/community/matches/112506764) | [#1](https://www.twitch.tv/videos/2052209257) |
 | **미국** ::{ flag=US }:: | **6** | 0 | ::{ flag=SE }:: 스웨덴 | [#1](https://osu.ppy.sh/community/matches/112506769) | [#1](https://www.twitch.tv/videos/2052219543) |
 | **미국** ::{ flag=US }:: | **6** | 2 | ::{ flag=DE }:: 독일 | [#1](https://osu.ppy.sh/community/matches/112508349) | [#1](https://www.twitch.tv/videos/2052310752) |
+
+2024년 2월 4일 일요일:
+
+| Team A |  |  | Team B | 경기 링크 | VOD 링크 |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **필리핀** ::{ flag=PH }:: | **6** | 5 | ::{ flag=JP }:: 일본 | [#1](https://osu.ppy.sh/community/matches/112518394) | [#1](https://www.twitch.tv/videos/2052935687) |
+| **브라질** ::{ flag=BR }:: | **6** | 0 | ::{ flag=TW }:: 대만 | [#1](https://osu.ppy.sh/community/matches/112520824) | [#1](https://www.twitch.tv/videos/2053031163) |
+| **러시아** ::{ flag=RU }:: | **6** | 2 | ::{ flag=ID }:: 인도네시아 | [#1](https://osu.ppy.sh/community/matches/112520830) | [#1](https://www.twitch.tv/videos/2053063481) |
+| **폴란드** ::{ flag=PL }:: | **6** | 1 | ::{ flag=VN }:: 베트남 | [#1](https://osu.ppy.sh/community/matches/112522185) | [#1](https://www.twitch.tv/videos/2053290391) |
+| 세미파이널 |  |  | 맵풀 쇼케이스 |  | [#1](https://www.twitch.tv/videos/2053211033) |
 
 ### 16강
 
@@ -240,6 +290,7 @@ osu!mania 7키 월드컵 2024은 osu! 팀과 여러명의 커뮤니티 멤버들
 | **캐나다** ::{ flag=CA }:: | **5** | 1 | ::{ flag=US }:: 미국 | [#1](https://osu.ppy.sh/community/matches/112408966) | [#1](https://www.twitch.tv/videos/2045818568) |
 | **대한민국** ::{ flag=KR }:: | **5** | 0 | ::{ flag=TW }:: 대만 | [#1](https://osu.ppy.sh/community/matches/112413896) | [#1](https://www.twitch.tv/videos/2046114858) |
 | **중국** ::{ flag=CN }:: | **5** | 0 | ::{ flag=DE }:: 독일 | [#1](https://osu.ppy.sh/community/matches/112416380) | [#1](https://www.twitch.tv/videos/2046225945) |
+| 쿼터파이널 |  |  | 맵풀 쇼케이스 |  | [#1](https://www.twitch.tv/videos/2046293749) |
 
 ### 24강
 
@@ -251,6 +302,7 @@ osu!mania 7키 월드컵 2024은 osu! 팀과 여러명의 커뮤니티 멤버들
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **베트남** ::{ flag=VN }:: | **5** | 0 | ::{ flag=SE }:: 스웨덴 | [#1](https://osu.ppy.sh/community/matches/112290919) | [#1](https://www.twitch.tv/videos/2038334661) |
 | **브라질** ::{ flag=BR }:: | **5** | 1 | ::{ flag=PT }:: 포르투갈 | [#1](https://osu.ppy.sh/community/matches/112292934) | [#1](https://www.twitch.tv/videos/2038432046) |
+| 16강 |  |  | 맵풀 쇼케이스 |  | [#1](https://www.twitch.tv/videos/2039649748) |
 
 2024년 1월 21일 일요일:
 
@@ -372,7 +424,7 @@ osu!mania 7키 월드컵 2024은 osu! 팀과 여러명의 커뮤니티 멤버들
    - 퀄리파이어에 참여 할 기회를 얻기 위해선 한팀에 최소 2명의 플레이어가 등록되어야 합니다.
 5. 해설과 스트리머를 제외한 토너먼트 스태프는 토너먼트에 플레이할 수 **없습니다.**
 
-### Qualifier instructions
+### 퀄리파이어 규칙
 
 1. 퀄리파이어 스테이지에선 모든 팀이 맵풀 셀렉터가 설계한 특정 맵풀에서 플레이하게 됩니다.
 2. 퀄리파이어에는 8개의 맵이 포함되어 있으며, 모두 Freemod로 진행하게 됩니다. 단, 타이브레이커는 없습니다.
@@ -385,7 +437,7 @@ osu!mania 7키 월드컵 2024은 osu! 팀과 여러명의 커뮤니티 멤버들
    - 경기 시간에 심판이 충분하지 않은 경우, 팀은 하나의 로비로 그룹화될 수 있습니다.
 8. 시드를 받은 24개 팀만이 24강에 진출하게 됩니다.
 
-### Stage instructions
+### 스테이지 구조
 
 1. 퀄리파이어 이후에, 더블 엘리미네이션 브라켓을 진행하게 됩니다. 승자조에 속한 팀은 승리할 경우 계속 승자조에 남게 되고, 패배한 팀은 패자조로 이동하게 됩니다. 패자조에서 패배할 경우 해당팀은 탈락하게 됩니다.
 2. 패자조에 있는 팀은 쿼터파이널부터 매주 주말마다 최대 2개의 경기를 치러야 합니다.
@@ -454,7 +506,9 @@ osu!mania 7키 월드컵 2024은 osu! 팀과 여러명의 커뮤니티 멤버들
 
 ### 노트
 
-[^qualifiers-seeding]: 주된 시드 배정 방법으로 사용합니다.
-[^qualifiers-tiebreaker]: 두 팀의 average rank 값이 동일할 경우 타이브레이커로 사용합니다.
 [^winners-bracket]: 승자조 경기
 [^losers-bracket]: 패자조 경기
+[^potential-match]: 이전 패자조 경기 결과에 따라 달라지는 잠재적인 매치입니다
+[^mappool-showcase]: 이전 경기 결과에 따라 사전 예고없이 일정이 변경될 수 있는 맵풀 쇼케이스입니다
+[^qualifiers-seeding]: 주된 시드 배정 방법으로 사용합니다
+[^qualifiers-tiebreaker]: 두 팀의 average rank 값이 동일할 경우 타이브레이커로 사용합니다
