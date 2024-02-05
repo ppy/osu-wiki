@@ -5,7 +5,7 @@ tags:
   - 멀티플레이어
   - 협동
 outdated_translation: true
-outdated_since: 32109b7c23b5cfab19cab8597e7e22ba39d009f9  
+outdated_since: 32109b7c23b5cfab19cab8597e7e22ba39d009f9
 ---
 
 # TAG
