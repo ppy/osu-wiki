@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Skin of the Year 2023: Results"
-date: 2024-02-05 21:00:00 +0000
+date: 2024-02-05 20:00:00 +0000
 ---
 
 After 2 weeks of furious battle, the winners of this year's Skin of the Year contest have been chosen!
