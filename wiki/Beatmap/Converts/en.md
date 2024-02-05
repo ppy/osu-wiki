@@ -8,7 +8,7 @@ tags:
 
 ![The \"Show converted\" toggle in osu!(lazer)](img/show-converted-button.png "The \"Show converted\" toggle in osu!(lazer)")
 
-In osu! gameplay, **converts** (or *converted beatmaps*) are [beatmaps](/wiki/Beatmap) of a specific [game mode](/wiki/Game_mode) that have been "converted" by the osu! client in-game in order to be playable in another game mode they were not originally created for. All converts are automatically generated based on certain parameters present in the base beatmap.
+**Converts** (or *converted beatmaps*) are [beatmaps](/wiki/Beatmap) of a specific [game mode](/wiki/Game_mode) that have been "converted" by the osu! client in-game in order to be playable in another game mode they were not originally created for. All converts are automatically generated based on certain parameters present in the base beatmap.
 
 As it stands, osu! supports conversions of beatmaps from the [osu! game mode](/wiki/Game_mode/osu!) into [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch), and [osu!mania](/wiki/Game_mode/osu!mania).
 
@@ -18,7 +18,7 @@ As it stands, osu! supports conversions of beatmaps from the [osu! game mode](/w
 
 *See also: [osu!taiko mapping/osu! conversion notes](/wiki/Game_mode/osu!taiko#osu!-conversion-notes)*
 
-osu!taiko converts are generated according to the placement of hitsounds, rhythm, and slider velocity changes in a beatmap. Depending on the type of the [hit objects](/wiki/Gameplay/Hit_object) and how they are hitsounded, the conversion generally goes as follows:
+osu!taiko converts are generated according to the placement of [hitsounds](/wiki/Beatmapping/Hitsound), rhythm, and slider velocity changes in a beatmap. Depending on the type of the [hit objects](/wiki/Gameplay/Hit_object) and their corresponding hitsounds, the conversion generally goes as follows:
 
 - Circles, slider heads, slider tails, and slider repeats that bear no additive hitsounds (e.g. no whistle, clap, or finish) are converted into *red notes* (Don).
 - Circles, slider heads, slider tails, and slider repeats that are hitsounded with a whistle, a clap, or both are converted as *blue notes* (Katu).
@@ -33,10 +33,10 @@ osu!taiko converts are generated according to the placement of hitsounds, rhythm
 
 osu!catch converts are generated according to the rhythm and *horizontal placement* (e.g. the x-axis coordinate) of the [hit objects](/wiki/Gameplay/Hit_object) in a beatmap as follows:
 
-- Circles, slider heads, slider tails, and slider repeats are converted into *fruits*.
-- Slider ticks are converted into *juice drops*.
-- Slider paths are converted into *droplets*.
-- Spinners are converted into *bananas*.
+- Circles, slider heads, slider tails, and slider repeats are converted into *[fruits](/wiki/Gameplay/Hit_object/Fruit)*.
+- Slider ticks are converted into *[juice drops](/wiki/Gameplay/Hit_object/Juice_stream#drop)*.
+- Slider paths are converted into *[droplets](/wiki/Gameplay/Hit_object/Juice_stream#droplet)*.
+- Spinners are converted into *[bananas](/wiki/Gameplay/Hit_object/Banana)*.
 
 ### osu! to osu!mania conversion
 
