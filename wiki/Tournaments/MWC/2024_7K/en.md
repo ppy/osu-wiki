@@ -137,7 +137,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
 
 ### Semifinals
 
-**[Download the mappack here (124 MB, *temporary link*)](https://leoflt.com/s/nwxP)**
+**[Download the mappack here (119 MB)](https://packs.ppy.sh/P236%20-%20osu!mania%207K%20World%20Cup%202024%3A%20Semifinals.zip)**
 
 - Rice
   1. [rejection - The Way of Adventure (feat. Kusaka Akira) (osu! edit) (Jinjin) \[Delayed Journey\]](https://osu.ppy.sh/beatmapsets/2130606#mania/4480890)
@@ -154,7 +154,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
 - Hybrid
   1. [orangentle / Yu\_Asahina - OEFHEBEN (Wonki) \[Aufheben\]](https://osu.ppy.sh/beatmapsets/2130617#mania/4480914)
   2. [Frums - 24eeev0-$ (Jinjin) \[ev0lution\_42\]](https://osu.ppy.sh/beatmapsets/2130620#mania/4480921)
-  3. [tn-shi - Synthesis. (Critical\_Star) \[Synthwave Rift\] *(temporary link)*](https://leoflt.com/s/RW1U)
+  3. [tn-shi - Synthesis. (Critical\_Star) \[Synthwave Rift\]](https://osu.ppy.sh/beatmapsets/2130789#mania/4481282)
 - Tiebreaker
   1. **[Akiri - Symphony Of The Lost Souls (-NoName-) \[Drifting Astray\]](https://osu.ppy.sh/beatmapsets/2130621#mania/4480922)**
 
