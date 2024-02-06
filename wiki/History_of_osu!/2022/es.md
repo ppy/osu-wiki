@@ -2,9 +2,9 @@
 
 ## Enero
 
-Más artistas se unieron al programa de los [artistas destacados](/wiki/People/Featured_Artists) a principios de año, siendo estos: [NIWASHI](https://osu.ppy.sh/beatmaps/artists/228), [DGK](https://osu.ppy.sh/beatmaps/artists/229), [Haywyre](https://osu.ppy.sh/beatmaps/artists/230), [satella](https://osu.ppy.sh/beatmaps/artists/231), [Vansire](https://osu.ppy.sh/beatmaps/artists/232), [Boom Kitty](https://osu.ppy.sh/beatmaps/artists/233), [Annabel](https://osu.ppy.sh/beatmaps/artists/234), y [Maduk](https://osu.ppy.sh/beatmaps/artists/235).
+Más artistas se unieron al programa de los [artistas destacados](/wiki/People/Featured_Artists) a principios de año, siendo estos: [NIWASHI](https://osu.ppy.sh/beatmaps/artists/228), [DGK](https://osu.ppy.sh/beatmaps/artists/229), [Haywyre](https://osu.ppy.sh/beatmaps/artists/230), [satella](https://osu.ppy.sh/beatmaps/artists/231), [Vansire](https://osu.ppy.sh/beatmaps/artists/232), [Boom Kitty](https://osu.ppy.sh/beatmaps/artists/233), [Annabel](https://osu.ppy.sh/beatmaps/artists/234) y [Maduk](https://osu.ppy.sh/beatmaps/artists/235).
 
-El 9 de enero, el [osu! team](/wiki/People/osu!_team) realizó una [reunión comunitaria](/wiki/Community/osu!_community_meetings), en la que se abordaron las mecánicas de HP y otras cuestiones generales con miembros de la comunidad.[^community-meeting-hp] En particular, muchos jugadores de osu!mania comentaron que querían que el drenaje de HP de osu!(lazer) fuera menos severo, ya que osu!mania en osu!(stable) no tenía drenaje pasivo, al contrario que osu!(lazer) en aquel momento. [peppy](https://osu.ppy.sh/users/2) mencionó que le gustaría estandarizar el drenaje de HP entre todos los modos de juego para simplificar la experiencia para los recién llegados a lazer. Dos semanas después, el 22 de enero, se realizó otra reunión con el osu! team detallando el continuo desarrollo y contestando a varias preguntas de la comunidad.[^community-meeting-dev]
+El 9 de enero, el [osu! team](/wiki/People/osu!_team) realizó una [reunión con la comunidad](/wiki/Community/osu!_community_meetings), en la que se abordaron las mecánicas de HP y otras cuestiones generales con miembros de la comunidad.[^community-meeting-hp] En particular, muchos jugadores de osu!mania comentaron que querían que el drenaje de HP de osu!(lazer) fuera menos severo, ya que osu!mania en osu!(stable) no tenía drenaje pasivo, al contrario que osu!(lazer) en aquel momento. [peppy](https://osu.ppy.sh/users/2) mencionó que le gustaría estandarizar el drenaje de HP entre todos los modos de juego para simplificar la experiencia para los recién llegados a lazer. Dos semanas después, el 22 de enero, se realizó otra reunión con el osu! team detallando el continuo desarrollo y contestando a varias preguntas de la comunidad.[^community-meeting-dev]
 
 Se añadió una nueva función al editor de osu!(lazer) que le permite a los mappers rotar contenido seleccionado mediante un botón.[^editor-rotate] Mientras tanto, se implementó en el cliente un nuevo sistema de base de datos llamado [Realm](https://realm.io/), que proporciona mayor eficacia y fiabilidad. Se agregó una barra de progreso al comienzo del juego mientras se realizaba la migración, ya que podría llevar un tiempo si había grandes cantidades de beatmaps y otros datos.[^realm]
 
@@ -16,7 +16,7 @@ En la página, los usuarios son ahora capaces de anclar cualquiera de sus puntua
 
 En enero, el osu! team abrió una [encuesta para osu!taiko y osu!mania](https://osu.ppy.sh/home/news/2022-01-14-taiko-mania-pp-sr-survey) para determinar qué es lo que la comunidad espera de los puntos de rendimiento y el sistema de calificación por estrellas. Los resultados de la encuesta, visibles [aquí para osu!taiko](https://assets.ppy.sh/surveys/2022-pp-taiko/viewer.htm?v=9) y [aquí para osu!mania](https://assets.ppy.sh/surveys/2022-pp-mania/viewer.htm?v=2),[^pp-survey] impulsaron la formación de un panel para osu!mania y osu!taiko en el [comité de puntos de rendimiento](/wiki/People/Performance_Points_Committee) más tarde ese mismo año.
 
-El 6 de febrero se realizó la tercera reunión comunitaria del año, dedicada a diversas preguntas de la comunidad.[^community-meeting-questions] El 20 de febrero, se llevó a cabo otra reunión comunitaria sobre los multiplicadores y la puntuación de los mods, debido a que osu!(lazer) permite ajustes de tasa variable para algunos mods. Por ejemplo, Double Time puede ser ajustado para dar una velocidad de 1,01x, en lugar de solo 1,5x como en stable. Esto le daría a los jugadores una ventaja injusta en las tablas de clasificación, ya que los jugadores aún recibirían el multiplicador de puntuación fijo de 1,12x. Como consecuencia, los multiplicadores de los mods se desactivaron temporalmente. El  osu! team quiere trabajar en una solución más sólida en el futuro.[^community-meeting-mod]
+El 6 de febrero se realizó la tercera reunión con la comunidad del año, dedicada a diversas preguntas de la comunidad.[^community-meeting-questions] El 20 de febrero, se llevó a cabo otra reunión con la comunidad sobre los multiplicadores y la puntuación de los mods, debido a que osu!(lazer) permite ajustes de tasa variable para algunos mods. Por ejemplo, Double Time puede ser ajustado para dar una velocidad de 1,01x, en lugar de solo 1,5x como en stable. Esto le daría a los jugadores una ventaja injusta en las tablas de clasificación, ya que los jugadores aún recibirían el multiplicador de puntuación fijo de 1,12x. Como consecuencia, los multiplicadores de los mods se desactivaron temporalmente. El  osu! team quiere trabajar en una solución más sólida en el futuro.[^community-meeting-mod]
 
 osu!(lazer) recibió el mod Aim Assist como una nueva característica que atrae los objetos hacia el cursor, lo que esencialmente requiere menos movimiento del cursor por parte del jugador.[^aim-assist] El mod pasó a llamarse Magnetised un mes después de la implementación inicial.[^aim-assist-rename] Además, también se agregó el mod Alternate, que requiere que el jugador *alterne* entre dos teclas al presionar los círculos.[^alternate] El modo de juego osu!mania en osu!(lazer) obtuvo un nuevo mod, Hold Off, donde las notas largas se convierten en dos notas normales.[^hold-off]
 
@@ -26,7 +26,7 @@ Después de la primera iteración en mayo del año pasado, hubo otro concurso de
 
 En este mes, [Yunosuke](https://osu.ppy.sh/beatmaps/artists/244), [City Girl](https://osu.ppy.sh/beatmaps/artists/245), [EmoCosine](https://osu.ppy.sh/beatmaps/artists/246), [Raimukun](https://osu.ppy.sh/beatmaps/artists/247), [USAO](https://osu.ppy.sh/beatmaps/artists/248), [Plum](https://osu.ppy.sh/beatmaps/artists/249), [luvlxckdown](https://osu.ppy.sh/beatmaps/artists/250), [Never Say Die Records](https://osu.ppy.sh/beatmaps/artists/251) y [my sound life](https://osu.ppy.sh/beatmaps/artists/252) se unieron a osu! como artistas destacados.
 
-El 6 de marzo se llevó a cabo otra reunión comunitaria para determinar cómo se gestionarían las tablas de clasificación y la visualización de puntuaciones. La solución implementada fue mostrar puntuaciones de stable en lazer con el mod Classic aplicado. Sin embargo, no se resolvió la posibilidad de mostrar puntuaciones de lazer en stable, ya que los nuevos mods de lazer definitivamente no se implementarían en stable y, por lo tanto, mostrar dichas puntuaciones en stable solo sería posible con ciertas restricciones. Para integrar a la comunidad en este proceso, se realizó una [encuesta sobre marcadores en lazer](https://docs.google.com/forms/d/1jAWlFkjECDftXJ7iZFgipH1sJuwYDvPtF0CuaciFiW8/viewanalytics).  Si bien preservar la historia era y sigue siendo una prioridad, la cuestión de dividir o fusionar las tablas de clasificación antiguas y nuevas se dejó en manos de la comunidad.[^community-meeting-leaderboard] El 20 de marzo se organizó otra reunión comunitaria para dar a conocer el desarrollo en curso.[^community-meeting-dev-2]
+El 6 de marzo se llevó a cabo otra reunión con la comunidad para determinar cómo se gestionarían las tablas de clasificación y la visualización de puntuaciones. La solución implementada fue mostrar puntuaciones de stable en lazer con el mod Classic aplicado. Sin embargo, no se resolvió la posibilidad de mostrar puntuaciones de lazer en stable, ya que los nuevos mods de lazer definitivamente no se implementarían en stable y, por lo tanto, mostrar dichas puntuaciones en stable solo sería posible con ciertas restricciones. Para integrar a la comunidad en este proceso, se realizó una [encuesta sobre marcadores en lazer](https://docs.google.com/forms/d/1jAWlFkjECDftXJ7iZFgipH1sJuwYDvPtF0CuaciFiW8/viewanalytics).  Si bien preservar la historia era y sigue siendo una prioridad, la cuestión de dividir o fusionar las tablas de clasificación antiguas y nuevas se dejó en manos de la comunidad.[^community-meeting-leaderboard] El 20 de marzo se organizó otra reunión con la comunidad para dar a conocer el desarrollo en curso.[^community-meeting-dev-2]
 
 [BTMC](https://osu.ppy.sh/users/3171691) entrevistó a peppy sobre los planes para osu!(lazer). La mayoría de las preguntas fueron enviadas por la comunidad, con algunas preguntas personales mezcladas entre ellas.[^btmc-peppy-interview] Un tema importante fue el estado del sistema de clasificación, pero también hubo preguntas más generales sobre el ecosistema de osu! y su futuro.
 
@@ -36,7 +36,7 @@ Se implementaron dos mods en osu!(lazer): Adaptive Speed y Strict Tracking. Adap
 
 9 nuevos artistas formaron parte del programa de los artistas destacados: [A.SAKA](https://osu.ppy.sh/beatmaps/artists/253), [Stonebank](https://osu.ppy.sh/beatmaps/artists/254), [Archspire](https://osu.ppy.sh/beatmaps/artists/256), [in love with a ghost](https://osu.ppy.sh/beatmaps/artists/257), [Mage](https://osu.ppy.sh/beatmaps/artists/258), [Aethral](https://osu.ppy.sh/beatmaps/artists/259), [Nile](https://osu.ppy.sh/beatmaps/artists/260), [MUZZ](https://osu.ppy.sh/beatmaps/artists/261), y [Mitsuki / RINYA](https://osu.ppy.sh/beatmaps/artists/262). Además, la discográfica [Monstercat](https://osu.ppy.sh/beatmaps/artists/255) también se unió a osu!, aportando muchos artistas nuevos a la comunidad.[^monstercat]
 
-La encuesta que comenzó en marzo sobre los marcadores de lazer se completó y se discutió en una reunión comunitaria. Los [resultados](https://docs.google.com/forms/d/1jAWlFkjECDftXJ7iZFgipH1sJuwYDvPtF0CuaciFiW8/viewanalytics) mostraron que los usuarios votaron por la visualización de puntuaciones en las tablas de clasificación de los beatmaps, los puntos de rendimiento otorgados y el rendimiento de lazer como las principales prioridades.[^community-meeting-survey-1][^community-meeting-survey-2]
+La encuesta que comenzó en marzo sobre los marcadores de lazer se completó y se discutió en una reunión con la comunidad. Los [resultados](https://docs.google.com/forms/d/1jAWlFkjECDftXJ7iZFgipH1sJuwYDvPtF0CuaciFiW8/viewanalytics) mostraron que los usuarios votaron por la visualización de puntuaciones en las tablas de clasificación de los beatmaps, los puntos de rendimiento otorgados y el rendimiento de lazer como las principales prioridades.[^community-meeting-survey-1][^community-meeting-survey-2]
 
 Después de 5 años, [Reddit](https://www.reddit.com/) organizó por segunda vez el evento r/place por el día de los Inocentes. Desde el 1 de abril hasta el 4 de abril, los usuarios podían colocar píxeles de colores en cualquier lugar de un lienzo. La comunidad de osu! tuvo éxito al dibujar y mantener varias obras de arte, ya que las ilustraciones siempre estaban en peligro de ser tapadas por otros usuarios. Entre estas obras de arte se encontraban el logo de osu! que contenía los 4 [modos de juego](/wiki/Game_mode) y un retrato de peppy.[^place-canvas]
 
@@ -134,70 +134,70 @@ En el último concurso de arte del año, [New Beginnings](https://osu.ppy.sh/hom
 
 ## Referencias
 
-[^editor-rotate]: [Pull request de bdach (2022-01-08) «Add tooltip with relative rotation in degrees to rotation handles»](https://github.com/ppy/osu/pull/16371)
-[^realm]: [Pull request de peppy (2022-01-12) «Migrate scores and beatmaps to realm»](https://github.com/ppy/osu/pull/16428)
-[^community-meeting-hp]: [Notas de la reunión comunitaria de osu! #8 (2022-01-09) en Google Docs](https://docs.google.com/document/d/1wJtJ7Agnsci3Ujxk52-ajeXfSJEKO-RCXDZCSUHcQYY/edit)
-[^community-meeting-dev]: [Notas de la reunión comunitaria de osu! #9 (2022-01-22) en Google Docs](https://docs.google.com/document/d/1W_97ttbAo1mHjUgTeU_IB5SQVeQztT-pRrwiyTfjTu4/edit)
-[^score-pin]: [Pull request de nanaya (2021-12-14) «Add pinning scores»](https://github.com/ppy/osu-web/pull/8442)
-[^score-pin-reorder]: [Pull request de nanaya (2021-12-24) «Agregar soporte para reorganizar puntuaciones fijadas»](https://github.com/ppy/osu-web/pull/8468)
+[^editor-rotate]: [Solicitud de cambios por bdach (1/8/2022) «Add tooltip with relative rotation in degrees to rotation handles»](https://github.com/ppy/osu/pull/16371)
+[^realm]: [Solicitud de cambios por peppy (12/1/2022) «Migrate scores and beatmaps to realm»](https://github.com/ppy/osu/pull/16428)
+[^community-meeting-hp]: [Notas de la reunión con la comunidad de osu! #8 (9/1/2022) en Google Docs](https://docs.google.com/document/d/1wJtJ7Agnsci3Ujxk52-ajeXfSJEKO-RCXDZCSUHcQYY/edit)
+[^community-meeting-dev]: [Notas de la reunión con la comunidad de osu! #9 (22/1/2022) en Google Docs](https://docs.google.com/document/d/1W_97ttbAo1mHjUgTeU_IB5SQVeQztT-pRrwiyTfjTu4/edit)
+[^score-pin]: [Solicitud de cambios por nanaya (14/12/2021) «Add pinning scores»](https://github.com/ppy/osu-web/pull/8442)
+[^score-pin-reorder]: [Solicitud de cambios por nanaya (24/12/2021) «Add support to rearrange pinned scores»](https://github.com/ppy/osu-web/pull/8468)
 
-[^pp-survey]: [Publicación de noticias del osu! team (2022-02-07) «Results - osu!taiko & osu!mania Performance Points & Star Rating Surveys»](https://osu.ppy.sh/home/news/2022-02-07-taiko-mania-survey-results)
-[^community-meeting-questions]: [reunión comunitaria #10 (2022-02-06) en Google Docs](https://docs.google.com/document/d/1IM8LlHTrU9aIBkS-WTfbpLrMMrq2eRgRl7EAo_chDYE/edit)
-[^community-meeting-mod]: [Publicación de noticias del osu! team (2022-03-07) «Community Meetings Recap & Scoring Survey»](https://osu.ppy.sh/home/news/2022-03-07-community-meetings-recap)
-[^aim-assist]: [Pull request de MaxOhn (2019-08-20) «Add "Aim Assist" mod»](https://github.com/ppy/osu/pull/5774)
-[^aim-assist-rename]: [Pull request de peppy (2022-04-01) «Rename "Aim Assist" to "Magnetised" to better suit the mod's behaviour»](https://github.com/ppy/osu/pull/17588)
-[^alternate]: [Pull request de LeNitrous (2022-01-29) «Add "Alternate" mod for osu! ruleset»](https://github.com/ppy/osu/pull/16701)
-[^hold-off]: [Pull request de Spooghetti420 (2022-01-27) «Add "Hold Off" mod (no long notes)»](https://github.com/ppy/osu/pull/16658)
-[^tides-of-winter]: [Publicación de noticias de RockRoller (2022-02-25) «Concurso de skinning: Tides of Winter - Resultados»](https://osu.ppy.sh/home/news/2022-02-25-skinning-contest-tides-of-winter-results)
+[^pp-survey]: [Publicación de noticia del osu! team (7/2/2022) «Results - osu!taiko & osu!mania Performance Points & Star Rating Surveys»](https://osu.ppy.sh/home/news/2022-02-07-taiko-mania-survey-results)
+[^community-meeting-questions]: [reunión con la comunidad #10 (6/2/2022) en Google Docs](https://docs.google.com/document/d/1IM8LlHTrU9aIBkS-WTfbpLrMMrq2eRgRl7EAo_chDYE/edit)
+[^community-meeting-mod]: [Publicación de noticia del osu! team (7/3/2022) «Community Meetings Recap & Scoring Survey»](https://osu.ppy.sh/home/news/2022-03-07-community-meetings-recap)
+[^aim-assist]: [Solicitud de cambios por MaxOhn (20/8/2019) «Add "Aim Assist" mod»](https://github.com/ppy/osu/pull/5774)
+[^aim-assist-rename]: [Solicitud de cambios por peppy (1/4/2022) «Rename "Aim Assist" to "Magnetised" to better suit the mod's behaviour»](https://github.com/ppy/osu/pull/17588)
+[^alternate]: [Solicitud de cambios por LeNitrous (29/1/2022) «Add "Alternate" mod for osu! ruleset»](https://github.com/ppy/osu/pull/16701)
+[^hold-off]: [Solicitud de cambios por Spooghetti420 (27/1/2022) «Add "Hold Off" mod (no long notes)»](https://github.com/ppy/osu/pull/16658)
+[^tides-of-winter]: [Publicación de noticia de RockRoller (25/2/2022) «Skinning Contest: Tides of Winter - Results»](https://osu.ppy.sh/home/news/2022-02-25-skinning-contest-tides-of-winter-results)
 
-[^community-meeting-leaderboard]: [Publicación de noticias del osu! team (2022-03-07) «Community Meetings Recap & Scoring Survey»](https://osu.ppy.sh/home/news/2022-03-07-community-meetings-recap)
-[^community-meeting-dev-2]: [Notas de la reunión comunitaria de osu! (2022-03-20) en Google Docs](https://docs.google.com/document/d/1X6ak_3CXxTYQLz71yhSTsKkl7cm74iaCQ7wecDkE6uQ/edit)
-[^btmc-peppy-interview]: [Video de YouTube de BTMC (2022-03-01) «INTERVIEW WITH PEPPY: THE DIRECTION OF OSU!LAZER»](https://www.youtube.com/watch?v=3sVvC1FCTzs)
-[^adaptive-speed]: [Pull request de hlysine (2022-03-02) «Implement Adaptive Speed mod»](https://github.com/ppy/osu/pull/17054)
-[^strict-tracking]: [Pull request de apollo-dw (2022-03-20) «Implement "Strict Tracking" mod in osu!»](https://github.com/ppy/osu/pull/17356)
+[^community-meeting-leaderboard]: [Publicación de noticia del osu! team (7/3/2022) «Community Meetings Recap & Scoring Survey»](https://osu.ppy.sh/home/news/2022-03-07-community-meetings-recap)
+[^community-meeting-dev-2]: [Notas de la reunión con la comunidad de osu! (20/3/2022) en Google Docs](https://docs.google.com/document/d/1X6ak_3CXxTYQLz71yhSTsKkl7cm74iaCQ7wecDkE6uQ/edit)
+[^btmc-peppy-interview]: [Vídeo de YouTube por BTMC (1/3/2022) «INTERVIEW WITH PEPPY: THE DIRECTION OF OSU!LAZER»](https://www.youtube.com/watch?v=3sVvC1FCTzs)
+[^adaptive-speed]: [Solicitud de cambios por hlysine (2/3/2022) «Implement Adaptive Speed mod»](https://github.com/ppy/osu/pull/17054)
+[^strict-tracking]: [Solicitud de cambios por apollo-dw (20/3/2022) «Implement "Strict Tracking" mod in osu!»](https://github.com/ppy/osu/pull/17356)
 
-[^monstercat]: [Publicación de noticias de pishifat (2022-04-06) «New Featured Artist: Stonebank»](https://osu.ppy.sh/home/news/2022-04-06-new-featured-artist-stonebank)
-[^community-meeting-survey-1]: [«Notas de la reunión comunitaria de osu! 2022-04-03» en Google Docs](https://docs.google.com/document/d/1LzKpXwIKxcpYgEAK4zdEIVuMNJckoo9SWN-UoAvOto8/edit)
-[^community-meeting-survey-2]: [Publicación de noticias del osu! team (2022-04-17) «Scoring Survey Results»](https://osu.ppy.sh/home/news/2022-04-17-scoring-survey-results)
-[^place-canvas]: [Publicación de Reddit de u/Vavik (2022-04-05) «Actual Final Image of Place 2022 (High Res)»](https://www.reddit.com/r/place/comments/twkdw7/actual_final_image_of_place_2022_high_res/)
+[^monstercat]: [Publicación de noticia de pishifat (6/4/2022) «New Featured Artist: Stonebank»](https://osu.ppy.sh/home/news/2022-04-06-new-featured-artist-stonebank)
+[^community-meeting-survey-1]: [«Notas de la reunión con la comunidad de osu! (3/4/2022)» en Google Docs](https://docs.google.com/document/d/1LzKpXwIKxcpYgEAK4zdEIVuMNJckoo9SWN-UoAvOto8/edit)
+[^community-meeting-survey-2]: [Publicación de noticia del osu! team (17/4/2022) «Scoring Survey Results»](https://osu.ppy.sh/home/news/2022-04-17-scoring-survey-results)
+[^place-canvas]: [Publicación de Reddit de u/Vavik (5/4/2022) «Actual Final Image of Place 2022 (High Res)»](https://www.reddit.com/r/place/comments/twkdw7/actual_final_image_of_place_2022_high_res/)
 
-[^aptb-results]: [Publicación de noticias de Ephemeral (2022-05-08) «Resultados del concurso de fanart A Place To Belong»](https://osu.ppy.sh/home/news/2022-05-08-aptb-fanart-results)
-[^lazer-chat]: [Pull request de jai-x (2022-05-23) «Integrate new chat into game»](https://github.com/ppy/osu/pull/18377)
-[^lazer-mod-select]: [Pull request de bdach (2022-05-05) «Replace old mod overlay with new design»](https://github.com/ppy/osu/pull/18111)
+[^aptb-results]: [Publicación de noticia de Ephemeral (8/5/2022) «A Place To Belong Fanart Contest Results»](https://osu.ppy.sh/home/news/2022-05-08-aptb-fanart-results)
+[^lazer-chat]: [Solicitud de cambios por jai-x (23/5/2022) «Integrate new chat into game»](https://github.com/ppy/osu/pull/18377)
+[^lazer-mod-select]: [Solicitud de cambios por bdach (5/5/2022) «Replace old mod overlay with new design»](https://github.com/ppy/osu/pull/18111)
 
-[^repel]: [Pull request de ggliv (2022-06-07) «Add repel mod to the osu ruleset»](https://github.com/ppy/osu/pull/18607)
-[^community-contributor]: [Publicación de noticias del osu! team (2022-06-30) «Community Contributors: 2021»](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021)
+[^repel]: [Solicitud de cambios por ggliv (7/6/2022) «Add repel mod to the osu ruleset»](https://github.com/ppy/osu/pull/18607)
+[^community-contributor]: [Publicación de noticia del osu! team (30/6/2022) «Community Contributors: 2021»](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021)
 
-[^osu-weekly]: [Publicación de noticias de Nyquill (2017-06-07) «osu!weekly #106»](https://osu.ppy.sh/home/news/2017-06-07-osu-weekly-106)
-[^monthly-quiz]: [Publicación de noticias de Soetch, Blushing, Wowcake, 0x84f y Hubz (2022-08-01) «osu!monthly regresa, julio de 2022»](https://osu.ppy.sh/home/news/2022-08-01-osumonthly-1#monthly-community-quiz)
-[^roundtable-winners]: [Publicación de noticias de Soetch, Blushing, Wowcake, 0x84f y Hubz (2022-08-01) «osu!monthly regresa, julio de 2022»](https://osu.ppy.sh/home/news/2022-08-01-osumonthly-1#what's-new-in-osu!?)
-[^single-tap]: [Pull request de tsunyoku (2022-07-13) «Add "Single Tap" mod for osu! ruleset, abstract Alternate & Single Tap into InputBlockingMod»](https://github.com/ppy/osu/pull/19089)
+[^osu-weekly]: [Publicación de noticia de Nyquill (7/6/2017) «osu!weekly #106»](https://osu.ppy.sh/home/news/2017-06-07-osu-weekly-106)
+[^monthly-quiz]: [Publicación de noticia de Soetch, Blushing, Wowcake, 0x84f y Hubz (1/8/2022) «osu!monthly returns, July 2022»](https://osu.ppy.sh/home/news/2022-08-01-osumonthly-1#monthly-community-quiz)
+[^roundtable-winners]: [Publicación de noticia de Soetch, Blushing, Wowcake, 0x84f y Hubz (1/8/2022) «osu!monthly returns, July 2022»](https://osu.ppy.sh/home/news/2022-08-01-osumonthly-1#what's-new-in-osu!?)
+[^single-tap]: [Solicitud de cambios por tsunyoku (13/7/2022) «Add "Single Tap" mod for osu! ruleset, abstract Alternate & Single Tap into InputBlockingMod»](https://github.com/ppy/osu/pull/19089)
 
-[^coe-osu-infra]: [Video de YouTube de peppy (2022-08-07) «"osu! infrastructure" dev talk at #COE2022"»](https://www.youtube.com/watch?v=HVBVqvpFVL4)
-[^presets]: [Pull request de bdach (2022-08-07) «Add mod preset column to solo mod select overlay»](https://github.com/ppy/osu/pull/19622)
+[^coe-osu-infra]: [Vídeo de YouTube por peppy (7/8/2022) «"osu! infrastructure" dev talk at #COE2022"»](https://www.youtube.com/watch?v=HVBVqvpFVL4)
+[^presets]: [Solicitud de cambios por bdach (7/8/2022) «Add mod preset column to solo mod select overlay»](https://github.com/ppy/osu/pull/19622)
 
-[^15-anniversary-results]: [Publicación de noticias de Ephemeral (2022-09-15) «Resultados del concurso de arte del 15 aniversario»](https://osu.ppy.sh/home/news/2022-09-15-anniversary-art-contest-results)
-[^15-celebration]: [Video de YouTube de 2th - osu! Archive (2022-09-18) «[Live] ppy | celebrating 15 years of osu! {09-17-2022}»](https://www.youtube.com/watch?v=xEfXbNbkIvw)
-[^argon]: [Pull request de peppy (2022-09-19) «Add new default "argon" skin»](https://github.com/ppy/osu/pull/20377)
-[^osu-sr-pp]: [Publicación de noticias del comité de pp de osu! (2022-09-30) «Cambios en la calificación estelar y los puntos de rendimiento de osu!»](https://osu.ppy.sh/home/news/2022-09-30-changes-to-osu-sr-and-pp)
-[^osu-taiko-sr-pp]: [Publicación de noticias del comité de pp de osu!taiko (2022-09-28) «Cambios en la calificación estelar y los puntos de rendimiento de osu!taiko»](https://osu.ppy.sh/home/news/2022-09-28-changes-to-osu-taiko-sr-and-pp)
-[^medals-september]: [Publicación de noticias de 0x84f, Pisapou y RandomeLoL (2022-10-02) «osu!monthly, septiembre de 2022»](https://osu.ppy.sh/home/news/2022-10-02-osumonthly-3)
+[^15-anniversary-results]: [Publicación de noticia de Ephemeral (15/9/2022) «15th Anniversary Art Contest Results»](https://osu.ppy.sh/home/news/2022-09-15-anniversary-art-contest-results)
+[^15-celebration]: [Vídeo de YouTube por 2th - osu! Archive (18/9/2022) «[Live] ppy | celebrating 15 years of osu! {17-09-2022}»](https://www.youtube.com/watch?v=xEfXbNbkIvw)
+[^argon]: [Solicitud de cambios por peppy (19/9/2022) «Add new default "argon" skin»](https://github.com/ppy/osu/pull/20377)
+[^osu-sr-pp]: [Publicación de noticia del comité de pp de osu! (30/9/2022) «Changes to osu! Star Rating & Performance Points»](https://osu.ppy.sh/home/news/2022-09-30-changes-to-osu-sr-and-pp)
+[^osu-taiko-sr-pp]: [Publicación de noticia del comité de pp de osu!taiko (28/9/2022) «Changes to osu!taiko Star Rating & Performance Points»](https://osu.ppy.sh/home/news/2022-09-28-changes-to-osu-taiko-sr-and-pp)
+[^medals-september]: [Publicación de noticia de 0x84f, Pisapou y RandomeLoL (2/10/2022) «osu!monthly, September 2022»](https://osu.ppy.sh/home/news/2022-10-02-osumonthly-3)
 
-[^triangles-results]: [Publicación de noticias de pishifat (2022-10-06) «Resultados - triangles»](https://osu.ppy.sh/home/news/2022-10-06-results-triangles)
-[^osu-mania-sr-pp]: [Publicación de noticias del comité de pp de osu!mania (2022-10-09) «Cambios en la calificación estelar y los puntos de rendimiento de osu!mania»](https://osu.ppy.sh/home/news/2022-10-09-changes-to-osu-mania-sr-and-pp)
-[^score-limit]: [Video de YouTube de Willy (2022-10-17) «osu! has run out of scores»](https://www.youtube.com/watch?v=EKaVzjD3ckg)
-[^osu-death]: [«OSU DEATH!!!!» (2022-09-11) en Wayback Machine](https://web.archive.org/web/20220911154100/https://nyahh.net/osudeath/)
-[^score-submission]: [Documento de GitHub de peppy (2022-02-01) «Score infrastructure migration plan»](https://github.com/ppy/osu-infrastructure/blob/e68ac5395452ea15cca6f5232da9f1117de944bc/score-submission.md#goals--timeline)
-[^chromatic-alt-results]: [Publicación de noticias de RockRoller (2022-10-20) «Skinning Contest: Chromatic Alteration - Results»](https://osu.ppy.sh/home/news/2022-10-20-skinning-contest-chromatic-alteration-results)
-[^freeze-frame]: [Pull request de mk56-spn (2022-09-16) «Add "Freeze Frame" mod»](https://github.com/ppy/osu/pull/20345)
-[^highest-rank]: [Pull request de cl8n (2022-10-18) «Show highest achieved rank on user profile»](https://github.com/ppy/osu-web/pull/9388)
-[^halloween]: [Publicación de noticias de Ephemeral (2022-10-29) «Resultados del concurso de fanart de Halloween 2022»](https://osu.ppy.sh/home/news/2022-10-29-halloween-fanart-results)
-[^grin-reddit]: [Comentario de Reddit de u/pepppppy en r/osugame (2022-10-30) en la publicación «osu seriously booted another submission as “too scary” again»](https://www.reddit.com/r/osugame/comments/yhh6hd/comment/iuh6ii2/)
-[^grin-twitter]: [Tuit de xx_aether (2022-10-29)](https://twitter.com/xx_aether/status/1586438659292569600)
+[^triangles-results]: [Publicación de noticia de pishifat (6/10/2022) «Results - triangles»](https://osu.ppy.sh/home/news/2022-10-06-results-triangles)
+[^osu-mania-sr-pp]: [Publicación de noticia del comité de pp de osu!mania (9/10/2022) «Changes to osu!mania Star Rating & Performance Points»](https://osu.ppy.sh/home/news/2022-10-09-changes-to-osu-mania-sr-and-pp)
+[^score-limit]: [Vídeo de YouTube por Willy (17/10/2022) «osu! has run out of scores»](https://www.youtube.com/watch?v=EKaVzjD3ckg)
+[^osu-death]: [«OSU DEATH!!!!» (11/9/2022) en Wayback Machine](https://web.archive.org/web/20220911154100/https://nyahh.net/osudeath/)
+[^score-submission]: [Documento de GitHub de peppy (1/2/2022) «Score infrastructure migration plan»](https://github.com/ppy/osu-infrastructure/blob/e68ac5395452ea15cca6f5232da9f1117de944bc/score-submission.md#goals--timeline)
+[^chromatic-alt-results]: [Publicación de noticia de RockRoller (20/10/2022) «Skinning Contest: Chromatic Alteration - Results»](https://osu.ppy.sh/home/news/2022-10-20-skinning-contest-chromatic-alteration-results)
+[^freeze-frame]: [Solicitud de cambios por mk56-spn (16/9/2022) «Add "Freeze Frame" mod»](https://github.com/ppy/osu/pull/20345)
+[^highest-rank]: [Solicitud de cambios por cl8n (18/10/2022) «Show highest achieved rank on user profile»](https://github.com/ppy/osu-web/pull/9388)
+[^halloween]: [Publicación de noticia de Ephemeral (29/10/2022) «Halloween 2022 Fanart Contest Results»](https://osu.ppy.sh/home/news/2022-10-29-halloween-fanart-results)
+[^grin-reddit]: [Comentario de Reddit de u/pepppppy en r/osugame (30/10/2022) en la publicación «osu seriously booted another submission as “too scary” again»](https://www.reddit.com/r/osugame/comments/yhh6hd/comment/iuh6ii2/)
+[^grin-twitter]: [Tuit de xx_aether (29/10/2022)](https://twitter.com/xx_aether/status/1586438659292569600)
 [^grin-badge]: [Perfil de osu! de Roro-san](https://osu.ppy.sh/users/11084479)
 
-[^medals-november]: [Publicación de noticias de 0x84f, Junihuhn, Pisapou y RandomeLoL (2022-12-01) «osu!monthly, noviembre de 2022»](https://osu.ppy.sh/home/news/2022-12-01-osumonthly-5#new-medals)
+[^medals-november]: [Publicación de noticia de 0x84f, Junihuhn, Pisapou y RandomeLoL (1/12/2022) «osu!monthly, November 2022»](https://osu.ppy.sh/home/news/2022-12-01-osumonthly-5#new-medals)
 
-[^new-beginnings]: [Publicación de noticias de Ephemeral (2022-12-31) «Concurso de arte New Beginnings: Resultados»](https://osu.ppy.sh/home/news/2022-12-31-new-beginnings-results)
-[^makeship]: [Publicación de noticias del osu! team (2022-12-10) «Makeship x osu!: Peluches de edición limitada»](https://osu.ppy.sh/home/news/2022-12-10-makeship-x-osu-plushies)
-[^argon-pro]: [Pull request de nekodex (2022-12-20) «Add argon "pro" skin»](https://github.com/ppy/osu/pull/21735)
+[^new-beginnings]: [Publicación de noticia de Ephemeral (31/12/2022) «New Beginnings Art Contest: Results»](https://osu.ppy.sh/home/news/2022-12-31-new-beginnings-results)
+[^makeship]: [Publicación de noticia del osu! team (10/12/2022) «Makeship x osu!: Limited Edition Plushies»](https://osu.ppy.sh/home/news/2022-12-10-makeship-x-osu-plushies)
+[^argon-pro]: [Solicitud de cambios por nekodex (20/12/2022) «Add argon "pro" skin»](https://github.com/ppy/osu/pull/21735)
