@@ -19,7 +19,7 @@ La bannière ci-dessus représente la contribution de [Kleinne Lui](https://osu.
 | --: | :-- |
 | Annonce | 10/05/2023 |
 | Phase de soumission | 10/05/2023/14/07/2023 |
-| Phase de vote |  21/07/2023/04/08/2023 |
+| Phase de vote | 21/07/2023/04/08/2023 |
 | Résultats | 10/08/2023 |
 
 ## Prix
@@ -122,4 +122,4 @@ Chaque projet doit avoir un thème prédominant dont l'inspiration est immédiat
 - skin centrée sur une beatmap en arrière-plan
 - skin centrée sur un groupe de fonds de beatmaps
 - skin axée sur une mascotte ou un groupe de mascottes spécifiques
-- toute combinaison des éléments ci-dessus (par exemple, pippi chantant dans le microphone de [The Big Black] (https://osu.ppy.sh/beatmapsets/41823#osu/131891)).
+- toute combinaison des éléments ci-dessus (par exemple, pippi chantant dans le microphone de [The Big Black](https://osu.ppy.sh/beatmapsets/41823#osu/131891)).
