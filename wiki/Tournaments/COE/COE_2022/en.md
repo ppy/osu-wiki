@@ -6,7 +6,7 @@ tags:
 
 # COE 1v1 Tournament 2022
 
-![COE 1v1 2022 banner](img/coe1v1_2022_banner.png)
+![COE 1v1 2022 banner](img/banner.png)
 
 The **COE 1v1 Tournament 2022** (***COE1v12022***) was an international open-rank 1v1 tournament hosted by ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251). It was the second instalment of the COE 1v1 Tournament.
 
@@ -31,7 +31,7 @@ The COE 1v1 Tournament 2022 offered a 1,000 € cash prize pool, including a con
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 700 €, exclusive COE merchandise |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 300 €, exclusive COE merchandise |
 
-![](img/coe-1v1-2022.png "COE 1v1 Tournament 2022 winner badge")
+![](img/badge-1st@2x.png "COE 1v1 Tournament 2022 winner badge")
 
 ## Organisation
 
@@ -75,23 +75,6 @@ The COE 1v1 Tournament 2022 was run by various community members.
 
 ## Mappools
 
-### Qualifiers
-
-- No Mod
-  1. [Tomita Miyu, Onishi Saori, Ohzora Naomi, Hanazawa Kana - Hallelujah*Essaim (jordanlr7) \[DILF\]](https://osu.ppy.sh/beatmapsets/1197074#osu/2526166)
-  2. [DragonForce - My Heart Will Go On (Nao Tomori) \[Tatsujin\]](https://osu.ppy.sh/beatmapsets/1569545#osu/3205101)
-  3. [Yousei Teikoku - Autoscopy (moph) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1633220#osu/3333699)
-  4. [Camellia - #1f1e33 (Realazy) \[Pino's EX FTR\]](https://osu.ppy.sh/beatmapsets/1192060#osu/2708971)
-- Hidden
-  1. [SEPHID - The Public Parallel (Camo) \[Master\]](https://osu.ppy.sh/beatmapsets/1627418#osu/3322445)
-  2. [Yousei Teikoku - Hades: The Rise (_Suyong) \[Rise\]](https://osu.ppy.sh/beatmapsets/1555417#osu/3177690)
-- Hard Rock
-  1. [Aice5 - Be with you (Settia) \[Leaf's Promiss\]](https://osu.ppy.sh/beatmapsets/502090#osu/1961029)
-  2. [lapix - Debug Dance (Zekk Remix) (dong2729) \[Bunny Hop\]](https://osu.ppy.sh/beatmapsets/1207234#osu/2514021)
-- Double Time
-  1. [Jun Maeda x yanaginagi - Killer Song (Yohanes) \[Edge\]](https://osu.ppy.sh/beatmapsets/454725#osu/974854)
-  2. [RIP SLYME - Super Shooter (galvenize) \[Super Solo\]](https://osu.ppy.sh/beatmapsets/27238#osu/91476)
-
 ### LAN Tournament
 
 - No Mod
@@ -116,6 +99,23 @@ The COE 1v1 Tournament 2022 was run by various community members.
   4. [Dog Blood - BREAK LAW (melwoine) \[FROGE.\]](https://osu.ppy.sh/beatmapsets/1813938#osu/3721329)
 - Tiebreaker
   1. **[Kurokotei - Galaxy Collapse (CallieCube) \[Cube Collapse\]](https://osu.ppy.sh/beatmapsets/1813909#osu/3721236)**
+
+### Qualifiers
+
+- No Mod
+  1. [Tomita Miyu, Onishi Saori, Ohzora Naomi, Hanazawa Kana - Hallelujah*Essaim (jordanlr7) \[DILF\]](https://osu.ppy.sh/beatmapsets/1197074#osu/2526166)
+  2. [DragonForce - My Heart Will Go On (Nao Tomori) \[Tatsujin\]](https://osu.ppy.sh/beatmapsets/1569545#osu/3205101)
+  3. [Yousei Teikoku - Autoscopy (moph) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1633220#osu/3333699)
+  4. [Camellia - #1f1e33 (Realazy) \[Pino's EX FTR\]](https://osu.ppy.sh/beatmapsets/1192060#osu/2708971)
+- Hidden
+  1. [SEPHID - The Public Parallel (Camo) \[Master\]](https://osu.ppy.sh/beatmapsets/1627418#osu/3322445)
+  2. [Yousei Teikoku - Hades: The Rise (_Suyong) \[Rise\]](https://osu.ppy.sh/beatmapsets/1555417#osu/3177690)
+- Hard Rock
+  1. [Aice5 - Be with you (Settia) \[Leaf's Promiss\]](https://osu.ppy.sh/beatmapsets/502090#osu/1961029)
+  2. [lapix - Debug Dance (Zekk Remix) (dong2729) \[Bunny Hop\]](https://osu.ppy.sh/beatmapsets/1207234#osu/2514021)
+- Double Time
+  1. [Jun Maeda x yanaginagi - Killer Song (Yohanes) \[Edge\]](https://osu.ppy.sh/beatmapsets/454725#osu/974854)
+  2. [RIP SLYME - Super Shooter (galvenize) \[Super Solo\]](https://osu.ppy.sh/beatmapsets/27238#osu/91476)
 
 ## Match results
 
