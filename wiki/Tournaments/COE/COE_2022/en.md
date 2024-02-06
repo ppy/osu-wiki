@@ -2,6 +2,8 @@
 tags:
   - COE1v12022
   - COE2022
+outdated_since: 9e7171bcffbb05be58c6444cf46ea6ba11e1a59c
+outdated_translation: true
 ---
 
 # COE 1v1 Tournament 2022
