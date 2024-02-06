@@ -75,7 +75,7 @@ The COE 1v1 Tournament 2022 was run by various community members.
 
 ## Mappools
 
-### LAN Tournament
+### LAN tournament
 
 - No Mod
   1. [suzumu - Shinzou Connect (CallieCube) \[The Cube\]](https://osu.ppy.sh/beatmapsets/1805751#osu/3721131)
@@ -183,7 +183,7 @@ Friday, 5 August 2022:
 7. Please be aware that even though this tournament is open-rank, the mappools are designed around a high level of skill for competition. Please ensure you are able to at least pass 6.5* maps, otherwise you may not be able to play the qualifier mappool.
 8. The bracket stage of the tournament will take place during the final weekend of the event. Please ensure that you have a ticket for at least the weekend days in order to participate.
 9. The bracket stage mappool will consist of: **6 NM, 3 HD, 3 HR, 4 DT, 1 TB**. There will be no Free Mod maps.
-10. All matches on LAN will be played as a **Best of 9**.
+10. All matches on LAN will be played as a **best of 9**.
 
 ### Tournament rules
 
