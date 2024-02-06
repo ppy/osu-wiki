@@ -1,4 +1,6 @@
 ---
+outdated_since: 978fec75b84f424db647a1105bf8e26b9aec028c
+outdated_translation: true
 tags:
   - edit link
   - timestamps

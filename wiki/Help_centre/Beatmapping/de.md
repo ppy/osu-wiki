@@ -10,8 +10,6 @@ tags:
   - hochladen
   - Warnung
   - löschen
-outdated_translation: true
-outdated_since: 8c67d7c7c1262ef3610f033799e7bc73113618d3
 ---
 
 # Mapping und Editor
@@ -28,7 +26,7 @@ Gehe in den Editor und klicke auf `Datei` > `Beatmap hochladen`, um deine Beatma
 
 Dadurch wird deine Beatmap auf der Webseite für andere verfügbar zum Herunterladen. Das Aktualisieren einer Beatmap ist derselbe Prozess für eine Beatmap, die bereits hochgeladen wurde.
 
-Jeder Nutzer hat eine begrenzte Anzahl an Beatmaps, die er gleichzeitig hochladen kann. Wenn eine Beatmap für einen Monat (28 Tage) lang inaktiv gelassen wird, indem sie nicht aktualisiert wird, wird sie auf den [Beatmap-Friedhof](/wiki/Beatmap/Category#friedhof) verschoben. Aktualisiere die Beatmap, um sie aus dem Beatmap-Friedhof zurück in den Status "Pending" oder "WIP" zu setzen.
+Jeder Nutzer hat eine begrenzte Anzahl an Beatmaps, die er gleichzeitig hochladen kann. Wenn eine Beatmap für einen Monat (28 Tage) lang inaktiv gelassen wird, indem sie nicht aktualisiert wird, wird sie auf den [Beatmap-Friedhof](/wiki/Beatmap/Category#graveyard) verschoben. Aktualisiere die Beatmap, um sie aus dem Beatmap-Friedhof zurück in den Status "Pending" oder "WIP" zu setzen.
 
 ## Der Editor sagt mir "Du bist nicht der Besitzer der Beatmap, die du gerade hochladen möchtest!" {id=wrong-author}
 
@@ -43,6 +41,14 @@ Solltest du immer noch Probleme haben oder nach mehr Informationen suchen, lies 
 ## Ich bin ein osu!supporter, aber ich habe keine 20 ausstehenden Slots! {id=upload-slots}
 
 **Die Zahl der verfügbaren Slots hängt von der Zahl der gerankten Beatmaps ab, die du hast. Für mehr Details, siehe [osu!supporter § Erhöhte Grenzwerte](/wiki/osu!supporter#erhöhte-grenzwerte).**
+
+## Meine Beatmap/Inhalte wurden von einem anderen Nutzer ohne meine Zustimmung erneut hochgeladen und ich möchte, dass die unrechtmäßige Kopie entfernt wird! {id=report-content-dmca}
+
+**Bitte sende wie in der [osu!-Urheberrechtsrichtlinie](/wiki/Legal/Copyright) beschrieben einen DMCA-Antrag an [copyright@ppy.sh](mailto:copyright@ppy.sh).**
+
+Jede Art von Inhalt, der ohne Genehmigung hochgeladen wird, kann als Urheberrechtsverletzung behandelt werden, wenn der ursprüngliche Eigentümer dies wünscht. Der Antrag auf Entfernung erfordert ein rechtliches Verfahren, um eine faire Vorgehensweise zu gewährleisten.
+
+Bitte reiche Meldungen **weder** über [den Befehl `!report` im Spiel](/wiki/Reporting_bad_behaviour#chat-im-spiel) **noch** [die osu!-Webseite](/wiki/Reporting_bad_behaviour#webseite) ein, da Mitglieder des [NATs](/wiki/People/Nomination_Assessment_Team) und des [GMTs](/wiki/People/Global_Moderation_Team), die diese Mitteilungen verwalten, nicht in der Lage dazu sind, Rechtsfragen zu bearbeiten.
 
 ## Wie kann ich meine Beatmap löschen? {id=delete-beatmap}
 

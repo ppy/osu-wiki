@@ -44,13 +44,13 @@ While they didn't win, some other finalists also deserve shoutouts!
 
 In March, hypercyte's entry of [Sound Souler - Bubble Flower](https://osu.ppy.sh/beatmapsets/1152177#osu/2404822) was both the runner-up and the screening crew's favorite. In April, his entry of [LeaF - Mopemope](https://osu.ppy.sh/beatmapsets/1174616#osu/2450028) was the overall community vote winner. And in May, he took yet another step forward!
 
-hypercyte's entry of [Creo - Gravitate](https://osu.ppy.sh/beatmapsets/1196564#osu/2492702) reached the peak of the community vote with **44** votes and was acclaimed among the screening crew with top 5 placements from **8** of the 11 screeners. 
+hypercyte's entry of [Creo - Gravitate](https://osu.ppy.sh/beatmapsets/1196564#osu/2492702) reached the peak of the community vote with **44** votes and was acclaimed among the screening crew with top 5 placements from **8** of the 11 screeners.
 
-With consistent praise from both the playing and mapping communites through the MBC, it's safe to say that hypercyte is a mapper well-deserving of his new *Elite Mapper* forum title! 🎉🎉🎉🎉 
+With consistent praise from both the playing and mapping communites through the MBC, it's safe to say that hypercyte is a mapper well-deserving of his new *Elite Mapper* forum title! 🎉🎉🎉🎉
 
 ### Community vote runner-up
 
-Hard work has also paid off for [Acylica](https://osu.ppy.sh/users/1943309) with his entry of [Creo - Gravitate](https://osu.ppy.sh/beatmapsets/1196772#osu/2493041). After reaching the MBC finalists 4 times, winning the screening crew's favorite pick in April, and winning of the community vote runner-up this month, Acylica has earned the first tier MBC prize! 
+Hard work has also paid off for [Acylica](https://osu.ppy.sh/users/1943309) with his entry of [Creo - Gravitate](https://osu.ppy.sh/beatmapsets/1196772#osu/2493041). After reaching the MBC finalists 4 times, winning the screening crew's favorite pick in April, and winning of the community vote runner-up this month, Acylica has earned the first tier MBC prize!
 
 Despite his win in this category, we're sure that he (and many other mappers) are happy that the MBC will no longer be using the community vote system. Concerns with voting manipulation and lowering voter turnout led to this outcome, however sticking with standard judging would make the MBC a little too stale, so look out for new evaluation methods in the future!
 

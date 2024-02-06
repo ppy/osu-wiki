@@ -2,6 +2,8 @@
 tags:
   - development
   - osu!dev
+outdated_translation: true
+outdated_since: 9c41b7602528088d6eb4f88f37cef15d676e7827
 ---
 
 # Server Discord di osu!
@@ -21,7 +23,7 @@ Il server Discord di osu! presenta diversi canali, molti dei quali sono incentra
 | Canale | Descrizione |
 | :-- | :-- |
 | `#welcome` | Informazioni sul server |
-| `#introduction` | Presentazioni |
+| `#introductions` | Presentazioni |
 | `#general` | Discussione generale e risoluzione dei problemi relativi ad osu! |
 
 ### Client / Web

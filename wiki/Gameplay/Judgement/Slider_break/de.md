@@ -7,12 +7,14 @@ tags:
   - combobreak
   - combo-break
   - SB
-outdated_translation: true
-outdated_since: 932c9f3453cde49a1d311d8409e6a5e2bfafae7d
 ---
 
 # Sliderbreak
 
-**Sliderbreak** (manchmal abgekürzt als *SB*) ist ein Begriff, der verwendet wird, um das Unterbrechen einer Combo durch einen teilweise vollendeten [Slider](/wiki/Gameplay/Hit_object/Slider) zu beschreiben. Sliderbreaks können auf drei verschiedene Arten auftreten: den Kopf eines Sliders zu verfehlen, während der Körper noch ganz oder teilweise fertiggestellt ist, einen Slider zu irgendeinem Zeitpunkt seiner Dauer loszulassen oder nicht alle Ticks des Sliders zu sammeln. Alle drei Arten werden zusammen als "Sliderbreak" bezeichnet und beenden die Combo des Spielers. Ein Sliderbreak während eines Durchlaufs führt zu einem "100er" und unterbricht die Combo, zählt aber nicht als Miss.
+**Sliderbreak** (manchmal abgekürzt als *SB*) ist ein Begriff, der verwendet wird, um das Unterbrechen einer [Combo](/wiki/Gameplay/Combo_(score_multiplier)) durch einen unvollendeten [Slider](/wiki/Gameplay/Hit_object/Slider) zu beschreiben. Die Unterbrechung tritt auf, wenn entweder der [Anfang](/wiki/Gameplay/Hit_object/Slider/Sliderhead) oder eines der [Ticks](/wiki/Gameplay/Hit_object/Slider/Slider_tick) des Sliders verfehlt werden.
 
-*Hinweis: Ein Durchlauf, der keine Misses, aber einen oder mehrere Sliderbreaks enthält, führt zu einer S-Note (oder Silber S), vorausgesetzt, dass alle [Genauigkeits](/wiki/Gameplay/Accuracy)-Anforderungen erfüllt wurden, um eine S-Note zu erhalten.*
+Ein Sliderbreak erscheint nicht, wenn das [Ende](/wiki/Gameplay/Hit_object/Slider/Slidertail) eines Sliders übersprungen wird oder die aktive Taste über einem Teil des [Sliderkörpers](/wiki/Gameplay/Hit_object/Slider/Sliderbody) losgelassen wird, in dem sich keine Ticks befinden. Letztere Eigenschaft dieser Toleranz wird in 2B-Beatmaps ausgenutzt, die aufeinanderliegende Slider und [Circles](/wiki/Gameplay/Hit_object/Hit_circle) enthalten.
+
+## Gameplay
+
+Sliderbreaks unterbrechen ihrer Definition nach die Combo, aber anstatt eines Miss erhält der Spieler ein [GOOD](/wiki/Gameplay/Judgement/osu!). Infolgedessen ist es trotzdem noch möglich, die [Note](/wiki/Gameplay/Grade) S oder Silver S für einen Durchlauf zu bekommen, vorausgesetzt, dass alle anderen [Genauigkeitsanforderungen](/wiki/Gameplay/Accuracy) erfüllt wurden.

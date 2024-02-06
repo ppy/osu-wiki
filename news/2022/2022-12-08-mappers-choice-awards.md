@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Results - Mappers' Choice Awards 2021"
+title: Results - Mappers' Choice Awards 2021
 date: 2022-12-08 10:00:00 +0000
 ---
 

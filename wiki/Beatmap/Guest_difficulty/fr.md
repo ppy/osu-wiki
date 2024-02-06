@@ -4,6 +4,8 @@ tags:
   - guest beatmap
   - guest difficulties
   - guest map
+outdated_translation: true
+outdated_since: 027b9fddf66f3afb730270124a3771ae09ad8f77
 ---
 
 # Guest difficulties
@@ -24,4 +26,4 @@ Les guest difficulties ne doivent pas être confondues avec les difficultés qui
 
 Sur la page de [discussion d'une beatmap](/wiki/Beatmap_discussion), l'hôte de la beatmap peut transférer la propriété des guest difficulties à leurs mappeurs respectifs par le biais du bouton `Difficulty Owner`. Cela permet aux propriétaires des guest difficulties de résoudre eux-mêmes les problèmes en suspens dans leurs difficultés.
 
-Le propriétaire d'une guest difficulty ne peut pas être modifié si la beatmap est [qualifiée](/wiki/Beatmap/Category#qualifiée), [classée](/wiki/Beatmap/Category#classée), ou [loved](/wiki/Beatmap/Category#loved).
+Le propriétaire d'une guest difficulty ne peut pas être modifié si la beatmap est [qualifiée](/wiki/Beatmap/Category#qualified), [classée](/wiki/Beatmap/Category#ranked), ou [loved](/wiki/Beatmap/Category#loved).

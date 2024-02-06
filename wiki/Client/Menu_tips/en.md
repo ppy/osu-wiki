@@ -72,7 +72,7 @@ These tips appear in the [beatmap editor](/wiki/Client/Beatmap_editor) below the
 - Read the [ranking criteria](/wiki/Ranking_criteria) on the wiki if you're aiming to [rank](/wiki/Beatmap_ranking_procedure) your beatmap!
 - Converting a slider to a [stream](/wiki/Beatmap/Pattern/osu!/Stream) (`Ctrl` + `Shift` + `F`) is a convenient way to design smooth stream shapes.
 - If you place an object after a spinner, try to leave enough time between them for players to readjust their aim.
-- Geometric object arrangements can be made with the "[Create Polygon Circles](/wiki/Client/Beatmap_editor/Menu#special-commands.2)" tool (`Ctrl` + `Shift` + `D`).
+- Geometric object arrangements can be made with the "[Create Polygon Circles](/wiki/Client/Beatmap_editor/Menu#compose)" tool (`Ctrl` + `Shift` + `D`).
 - Beats placed on top of each other will be [stacked](/wiki/Beatmapping/Mapping_techniques/Stack) in play mode. To see how stacks look during the play, select `Stacking` from the `View` dropdown menu.
 - Using [AiMod](/wiki/Client/Beatmap_editor/AiMod) (`Ctrl` + `Shift` + `A`) is a fantastic way to identify potential issues with your map long before the first [modder](/wiki/Modding/Modder) ever checks it out.
 - Navigate the timeline by scrolling or using the left/right arrow keys. Hold `Shift` to navigate 4x faster.
@@ -81,33 +81,45 @@ These tips appear in the [beatmap editor](/wiki/Client/Beatmap_editor) below the
 - Check out the [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) if you're looking for new pre-timed songs to map!
 - Spice your beatmap up by using Whistle, Finish and Clap hitsounds to punctuate certain points! Different sound samples can be used by checking out the Audio tab in the `Timing Setup` window (`F6`).
 - Zoom in on the timeline by hovering your mouse over it, holding `Alt`, and scrolling with the mouse wheel. You can also press the `+`/`-` buttons to the left of the timeline.
-- If you adjust timing after starting a map, don't forget to resnap objects through the [`Resnap All Notes`](/wiki/Client/Beatmap_editor/Menu#special-commands.3) option in the `Timing` dropdown menu. Watch out for unsnapped [inherited timing sections](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) though — they won't resnap!
-- Any [pending](/wiki/Beatmap/Category#work-in-progress-and-pending) beatmaps will be considered [abandoned](/wiki/Beatmap/Category#graveyard) after 30 days without updates. Abandoned beatmaps can be moved back to the pending beatmap listing through your userpage.
+- If you adjust timing after starting a map, don't forget to resnap objects through the [`Resnap All Notes`](/wiki/Client/Beatmap_editor/Menu#timing) option in the `Timing` dropdown menu. Watch out for unsnapped [inherited timing sections](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) though — they won't resnap!
+- Any [pending](/wiki/Beatmap/Category#wip-and-pending) beatmaps will be considered [abandoned](/wiki/Beatmap/Category#graveyard) after 30 days without updates. Abandoned beatmaps can be moved back to the pending beatmap listing through your userpage.
 - When copying objects (`Ctrl` + `C`), the clipboard will contain the current time location and combo numbers of selected objects. This is especially useful for writing [map feedback](/wiki/Modding)!
 - Clicking and dragging a slider's end position in the timeline creates [slider repeat arrows](/wiki/Gameplay/Hit_object/Slider/Reverse_slider).
 
 ## osu!(lazer)
 
-<!-- Source: https://github.com/ppy/osu/blob/master/osu.Game/Screens/Menu/Disclaimer.cs -->
+<!-- Source: https://github.com/ppy/osu/blob/master/osu.Game/Screens/Menu/MenuTip.cs -->
 
-These tips appear in [osu!(lazer)](/wiki/Client/Release_stream/Lazer) upon startup, before the intro sequence.
+These tips appear at the bottom of the main menu in [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
-- You can press `Ctrl` + `T` anywhere in the game to toggle the toolbar!
-- You can press `Ctrl` + `O` anywhere in the game to access options!
-- All settings are dynamic and take effect in real-time. Try pausing and changing the skin while playing!
-- New features are coming online every update. Make sure to stay up to date!
+- Press `Ctrl` + `T` anywhere in the game to toggle the toolbar!
+- Press `Ctrl` + `O` anywhere in the game to access options!
+- All settings are dynamic and take effect in real-time. Try changing the skin while watching autoplay!
+- New features are coming online every update. Make sure to stay up-to-date!
 - If you find the UI too large or small, try adjusting UI scale in settings!
 - Try adjusting the `Screen Scaling` mode to change your gameplay or UI area, even in fullscreen!
-- What used to be "[osu!direct](/wiki/osu!supporter#osu!direct)" is available to all users just like on the website. You can access it anywhere using `Ctrl` + `D`!
-- Seeking in replays is available by dragging on the difficulty bar at the bottom of the screen!
+- What used to be "[osu!direct](/wiki/osu!supporter#osu!direct)" is available to all users just like on the website. You can access it anywhere using `Ctrl` + `B`!
+- Seeking in replays is available by dragging on the progress bar at the bottom of the screen or by using the left and right arrow keys!
 - Multithreading support means that even with low "FPS" your input and judgements will be accurate!
-- Try scrolling down in the mod select panel to find a bunch of new fun mods!
+- Try scrolling right in mod select to find a bunch of new fun mods!
 - Most of the web content (profiles, rankings, etc.) are available natively in-game from the icons on the toolbar!
 - Get more details, hide or delete a beatmap by right-clicking on its panel at song select!
 - All delete operations are temporary until exiting. Restore accidentally deleted content from the maintenance settings!
 - Check out the "playlists" system, which lets users create their own custom and permanent leaderboards!
 - Toggle advanced frame / thread statistics with `Ctrl` + `F11`!
 - Take a look under the hood at performance counters and enable verbose performance logging with `Ctrl` + `F2`!
+- You can pause during a replay by pressing `Space`!
+- Most of the hotkeys in the game are configurable and can be changed to anything you want. Check the bindings panel under input settings!
+- When your gameplay HUD is hidden, you can press and hold `Ctrl` to view it temporarily!
+- Your gameplay HUD can be customized by using the skin layout editor. Open it at any time via `Ctrl` + `Shift` + `S`!
+- Drag and drop any image into the skin editor to load it in quickly!
+- You can create mod presets to make toggling your favorite mod combinations easier!
+- Many mods have customisation settings that drastically change how they function. Click the `Mod Customisation` button in mod select to view settings!
+- Press `Ctrl` + `Shift` + `R` to switch to a random skin!
+- Press `Ctrl` + `Shift` + `F` to toggle the FPS Counter. But make sure not to pay too much attention to it!
+- While watching a replay, press `Ctrl` + `H` to toggle replay settings!
+- You can easily copy the mods from scores on a leaderboard by right-clicking on them!
+- `Ctrl` + `Enter` at song select will start a beatmap in autoplay mode!
 
 ## See also
 

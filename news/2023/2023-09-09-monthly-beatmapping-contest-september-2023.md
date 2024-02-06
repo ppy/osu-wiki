@@ -103,6 +103,7 @@ Ready to map? Good. Here's what you need to keep in mind:
 - **Submissions must be in `.osz` format.**
 - **Submissions must NOT be uploaded to the osu! website until after the contest's results are finalised.**
 - **Submissions must abide by the [ranking criteria](/wiki/Ranking_criteria).**
+- **Your submission must be solely made by you.** Collaborations are not allowed for this contest!
 
 Note that all submissions will be anonymised before they're reviewed by screeners/judges to avoid bias. During this process, storyboards and backgrounds may be removed.
 

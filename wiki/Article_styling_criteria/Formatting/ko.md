@@ -1,3 +1,8 @@
+---
+outdated_since: 16a9623dd2a25dc38ae8879ad2c924f8b7c74a3e
+outdated_translation: true
+---
+
 # 서식
 
 *작성 표준에 대한 내용은 [Article style criteria/Writing](../Writing)를 참조하세요.*\
@@ -33,7 +38,7 @@
 | `no.md` | 노르웨이어 | Norsk |
 | `pl.md` | 폴란드어 | Polski |
 | `pt.md` | 포르투갈어 | Português |
-| `pt-br.md` | 포르투갈어(브라질) | Português(Brasil) |
+| `pt-br.md` | 포르투갈어 (브라질) | Português (Brasil) |
 | `ro.md` | 루마니아어 | Română |
 | `ru.md` | 러시아어 | Русский |
 | `sk.md` | 슬로바키아어 | Slovenčina |
@@ -44,8 +49,8 @@
 | `tr.md` | 터키어 | Türkçe |
 | `uk.md` | 우크라이나어 | Українська мова |
 | `vi.md` | 베트남어 | Tiếng Việt |
-| `zh.md` | 중국어(간체) | 简体中文 |
-| `zh-tw.md` | 중국어(번체, 대만) | 繁體中文（台灣） |
+| `zh.md` | 중국어 간체 | 简体中文 |
+| `zh-tw.md` | 중국어 번체 (대만) | 繁體中文（台灣） |
 
 *참고: 웹사이트는 유저가 선택한 언어의 문서를 표시합니다. 표시하지 못할 경우에는 영어 문서로 표시됩니다.*
 
@@ -669,7 +674,7 @@ https://osu.ppy.sh/beatmapsets/{비트맵셋ID}
 
 이미지는 인라인 스타일의 링크로 사용해야 합니다. 참조 링크에 대한 정의는 문서 하단에 배치해야 합니다.
 
-페이지의 모든 블록 이미지(같은 줄에 다른 것이 없는 이미지)는 화면 양쪽에 화살표 아이콘이나 키보드 단축키 또는 모바일 장치의 화면 스와이프를 사용하여 탐색할 수 있는 단일 갤러리로 통합됩니다<!-- https://github.com/ppy/osu-web/pull/8126 -->.
+페이지의 모든 블록 이미지(같은 줄에 다른 것이 없는 이미지)는 화면 양쪽에 화살표 아이콘이나 키보드 단축키 또는 화면 스와이프를 사용하여 탐색할 수 있는 단일 갤러리로 통합됩니다.
 
 ### 대체 및 제목 텍스트
 
@@ -773,7 +778,7 @@ jpeg-recompress -am smallfry <input> <output>
 ::{ flag=XX }::
 ```
 
-`XX`에는 국기에 대한 [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) 2글자 국가 코드를 입력해 주세요.
+`XX`에는 국기에 대한 [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) 2글자 국가 코드를 입력해 주세요.
 
 ## 표
 
@@ -824,7 +829,7 @@ Infobox는 문서의 오른쪽에 정렬되는 고정폭 블록입니다. 주변
 - 짧은 섹션의 경우: 다음 섹션의 헤더가 Infobox 아래에 표시되며, 텍스트 뒤쪽으로 큰 간격이 남게 됩니다.
 - 한번에 여러 이미지가 있는 경우: 더 나은 디자인을 위해 각각의 이미지에 Infobox를 사용하세요.
 
-Infobox 안에서는 4, 5단계의 헤더만 허용됩니다. 이 항목은 목차에는 나타나지 않으며, 이보다 낮은 단계의 헤더는 너무 큽니다. 이로 인해 모든 [CI 검사 에러](/wiki/osu!_wiki/Maintenance#ci-checks)를 무시해야 할 수 있습니다. 
+Infobox 안에서는 4, 5단계의 헤더만 허용됩니다. 이 항목은 목차에는 나타나지 않으며, 이보다 낮은 단계의 헤더는 너무 큽니다. 이로 인해 모든 [CI 검사 에러](/wiki/osu!_wiki/Maintenance#ci-checks)를 무시해야 할 수 있습니다.
 
 ## 각주
 

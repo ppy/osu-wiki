@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: d9f9d3a504cf88a88685b9a8008a91c83aa1b79b
 tags:
   - GMT
   - moderator
@@ -50,6 +48,21 @@ In generale, il team osserverà le persone per diverse settimane o mesi per assi
 2. Non segnalare ogni piccola cosa nella chat. È importante saper distinguere ciò che vale la pena segnalare da ciò che non lo è.
 3. Non rispondere alle domande degli altri senza essere sicuro che la risposta sia corretta, soprattutto sui forum. Le proposte sono ben accette, ma fornire informazioni sbagliate non è utile a nessuno. Se non conosci la soluzione a un problema, lascia che qualcun altro risponda e impara da loro.
 4. Non esagerare. Il team cerca un contributo costante, non un sovraccarico di lavoro. Questo può portare le persone a esaurirsi, perdere pazienza e impegno. Prendila con calma!
+
+## Benefici
+
+Ai Moderatori Globali sono concessi i seguenti benefici:
+
+- **[osu!supporter](/wiki/osu!supporter)**: Un tag osu!supporter valido per l'intera durata della permanenza nel team.
+- **Badge di permanenza**: Un [badge del profilo](/wiki/Community/Profile_badge) che mostra per quanti anni l'utente ha fatto parte del GMT, a partire da 3.
+  ![Badge dei 3 anni nel GMT](https://assets.ppy.sh/profile-badges/GMT3y.png "Badge dei 3 anni nel GMT") ![Badge dei 4 anni nel GMT](https://assets.ppy.sh/profile-badges/GMT4y.png "Badge dei 4 anni nel GMT") ![Badge dei 5 anni nel GMT](https://assets.ppy.sh/profile-badges/GMT5y.png "Badge dei 5 anni nel GMT")
+
+## Uscita dal team
+
+Una volta che un Moderatore Globale sceglie di lasciare il team, gli possono essere concessi i seguenti premi a seconda delle circostanze:
+
+- **Titolo utente [osu! Alumni](/wiki/People/osu!_Alumni)**: Questo è concesso ai membri che hanno fatto parte del team per almeno 1 anno o che hanno apportato contributi significativi all'interno del team durante un periodo più breve.
+- **osu!supporter**: Ai membri viene assegnato un tag osu!supporter che dura il doppio del tempo trascorso nel GMT, alle stesse condizioni del titolo osu! Alumni.
 
 ## Membri del Team
 
@@ -161,7 +174,7 @@ La [pagina del gruppo del Team di Moderazione Globale](https://osu.ppy.sh/groups
 | `#korean` | [한국어](https://osu.ppy.sh/community/forums/58) | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236) |
 | `#malaysian` | [Malaysian](https://osu.ppy.sh/community/forums/94) | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419), ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) |
 | `#polish` | [Polski](https://osu.ppy.sh/community/forums/26) | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570), ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631), ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) |
-| `#portuguese` | [Português](https://osu.ppy.sh/community/forums/74) | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109), ::{ flag=BR }:: [Nukrid](https://osu.ppy.sh/users/2307484)  |
+| `#portuguese` | [Português](https://osu.ppy.sh/community/forums/74) | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109), ::{ flag=BR }:: [Nukrid](https://osu.ppy.sh/users/2307484) |
 | `#romanian` |  |  |
 | `#russian` | [Русский](https://osu.ppy.sh/community/forums/35) | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467), ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533), ::{ flag=RU }:: [Kudou Chitose](https://osu.ppy.sh/users/9936528), ::{ flag=RU }:: [Kyubey](https://osu.ppy.sh/users/2195646), ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) |
 | `#skandinavian` | [Skandinavien](https://osu.ppy.sh/community/forums/77) | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) |

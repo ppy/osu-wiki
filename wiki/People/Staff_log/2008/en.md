@@ -41,7 +41,7 @@
 - Added [mattyu007](https://osu.ppy.sh/users/4934) to Beatmap Approval Team (2008-08-28) <!-- https://osu.ppy.sh/community/forums/posts/45650 -->
 - Added [Dakeryus](https://osu.ppy.sh/users/10441) to Beatmap Approval Team (2008-08-31) <!-- https://osu.ppy.sh/community/forums/posts/46651 -->
 
-## September 
+## September
 
 - Added [Mogsworth](https://osu.ppy.sh/users/4018) to Beatmap Approval Team (2008-09-01) <!-- https://osu.ppy.sh/community/forums/posts/46904 -->
 - Added [kingcobra52](https://osu.ppy.sh/users/9934) to Beatmap Approval Team (2008-09-01)

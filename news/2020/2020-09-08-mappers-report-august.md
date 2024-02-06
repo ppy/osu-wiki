@@ -29,7 +29,7 @@ As every month, we're here to show you the latest changes to the Ranking Criteri
 
 - **[Remove "clear dashes" guideline on Platter difficulties](https://osu.ppy.sh/community/forums/topics/1118458)**: This guideline aims to remove some pattern restrictions in Platter difficulties.
 
-## Open Ranking Criteria Proposals 
+## Open Ranking Criteria Proposals
 
 As there weren't many Ranking Criteria changes this month, we would like to list some open Ranking Criteria proposals which are waiting for more contributions. Feel free to head over and state your thoughts in the proposal threads!
 
@@ -65,7 +65,7 @@ As there weren't many Ranking Criteria changes this month, we would like to list
 - **osu!catch:** [Rocma](https://osu.ppy.sh/users/566276), [JierYagtama](https://osu.ppy.sh/users/7483452) & [autofanboy](https://osu.ppy.sh/users/636114)
 - **osu!mania:** [Murumoo](https://osu.ppy.sh/users/8001433), [RiP46](https://osu.ppy.sh/users/5222596) & [Stelar](https://osu.ppy.sh/users/15205070)
 
-Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator! The applications are always open. 
+Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator! The applications are always open.
 
 Head over to the [Beatmap Nominator website](https://bn.mappersguild.com) and apply today!
 
@@ -77,14 +77,14 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com) and ap
 
 ## Mappers' Showcase
 
-It's time again for the Mappers' Showcase! Similar to other months, we would like to present you some lesser-known mappers which are doing great content! 
+It's time again for the Mappers' Showcase! Similar to other months, we would like to present you some lesser-known mappers which are doing great content!
 As we have now finished the first cycle with all modes and the Storyboarder showcase, we're going back to the beginning, starting again with the osu! game mode.
 
 Thanks to [Pachiru](https://osu.ppy.sh/users/2850983) and [hypercyte](https://osu.ppy.sh/users/9155377) for the selections of this month.
 
 ### Scyhei
 
-Hidden in the shadow, [Scyhei](https://osu.ppy.sh/users/10772337) has been in the mapping scene for a few years already and has been constantly improving and innovating their mapping over this time. Despite having a lot of unfinished or unpublished sets, their mapping mastery in the wide panel of song-style and mapping style is what gives them a lot of potential to stand out in the mapping scene. 
+Hidden in the shadow, [Scyhei](https://osu.ppy.sh/users/10772337) has been in the mapping scene for a few years already and has been constantly improving and innovating their mapping over this time. Despite having a lot of unfinished or unpublished sets, their mapping mastery in the wide panel of song-style and mapping style is what gives them a lot of potential to stand out in the mapping scene.
 
 They proved their ability to map without high-slider velocities or high difficulties, and juggle between voice and background beats with their maps of [School Food Punishment - in bloom](https://osu.ppy.sh/beatmapsets/1248994) or [Sonoko Inoue - Kotonoha no Omoi](https://osu.ppy.sh/beatmapsets/993109) that remains fun and consistent during the entire map. Their expertise doesn't stop here, they also handle rhythm exploitation at high BPM perfectly with their [Suzuki Konomi 'n Kiba of Akiba - Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui](https://osu.ppy.sh/beatmapsets/1249388) or [MEMAI SIREN - image \_\_\_\_\_](https://osu.ppy.sh/beatmapsets/1174170).
 
@@ -112,7 +112,7 @@ View the latest information regarding MBC in the [wiki article](/wiki/Contests/M
 
 ### Aspire V
 
-One of osu!'s biggest mapping contests around has come to an epic close, with not just one but **two** winners earning grand prizes! 
+One of osu!'s biggest mapping contests around has come to an epic close, with not just one but **two** winners earning grand prizes!
 
 Winning the **Community Pick Grand Award**, [Mr HeliX](https://osu.ppy.sh/users/2330619) stunned the community with their excellent use of time travelling shenanigans in their beatmap of [KNOWER - Time Traveler](https://osu.ppy.sh/beatmapsets/1236988#osu/2573493). It's essential to play this one with the storyboard enabled to get the full experience!
 
@@ -150,31 +150,31 @@ We're back with the "Around the Community" section, this time with an interestin
 
 The Modding Mentorship is a group of Beatmap Nominators, former Nominators and experienced modders from all modes which are looking toward creating a nurturing environment for new and upcoming modders and to teach them how to become better at modding!
 
-The project is quite simple. Teach those that are new or in need of guidance that the team of mentors pick from. This is done in a similar fashion to the [Mapping Mentorship Project](https://osu.ppy.sh/home/news/2020-07-10-community-mentorship-program-summer-2020-signups-now-open) that some of you may be familiar with, but with the main distinction being that there are no cycles. Applications towards becoming a mentor or mentee will be open for the most part. 
+The project is quite simple. Teach those that are new or in need of guidance that the team of mentors pick from. This is done in a similar fashion to the [Mapping Mentorship Project](https://osu.ppy.sh/home/news/2020-07-10-community-mentorship-program-summer-2020-signups-now-open) that some of you may be familiar with, but with the main distinction being that there are no cycles. Applications towards becoming a mentor or mentee will be open for the most part.
 
 The goal of this project is to improve upon the community for all modes and to create more clarity, coherence and understanding towards mapping and modding in general. As a small addition, we hope to pave the way toward more potential Beatmap Nominators as well.
 
 The programs timeframe is going to be as following:
 
-- Initial list of mentors will be announced on the **7th September**. 
-- Mentee signups will begin on the **14th September**, staying open for one week and close on the **21st September**. 
-- The program will officially begin on the **4th October**. 
+- Initial list of mentors will be announced on the **7th September**.
+- Mentee signups will begin on the **14th September**, staying open for one week and close on the **21st September**.
+- The program will officially begin on the **4th October**.
 
 Important to mention is that mentor signups will always be open and we will be releasing full lists of mentors in the program periodically.
 
 Additionally here are some words from the captains of every game mode:
 
 - **For osu! by [Cheri](https://osu.ppy.sh/users/5226970)**:
-We see fellow osu! modders across the globe struggling whether to figure out what to say on a mod post or is feeling rather unconfident if anything they say will be meaningful, etc. 
+We see fellow osu! modders across the globe struggling whether to figure out what to say on a mod post or is feeling rather unconfident if anything they say will be meaningful, etc.
 Regardless of reasoning, this program will help guide you to dedicated mentors that will help train you to become a great modder one day!
 We are hoping to make the modding discussion a more welcoming place for new upcomers as well as train those that are still unfamiliar with the ropes with whatever they desire to improve on.
 - **For osu!taiko by [radar](https://osu.ppy.sh/users/7131099)**:
 From the osu!taiko side of things you can expect dedicated mentors whose main goal is to help you become the best taiko modder you can be! With the mode on the rise for some time now, there has been a greater need for new modders than ever. We aim to take aspiring modders/bns and bring them into tip-top shape so they can achieve whatever goals they set out for!
 - **For osu!catch by [Baron](https://osu.ppy.sh/users/10286499)**:
 The osu!catch team is looking for some new and existing modders to break out of their shell and dive deeper into the intricacies of modding. With well known experienced modders and BN's you can be guaranteed the best learning experience and take your modding to the next level.
-- **For osu!mania by [Davvy](https://osu.ppy.sh/users/10047413)**: 
-osu!mania has recently been seeing a steady increase in new modders, mappers and Beatmap Nominators alike, and it is time to take that to the next level. With the start of this project we're looking forward towards helping osu!mania mappers become proficient modders in any key mode of their wishes. Our mentor team will be able to handle every aspect of modding such as SV, layering, patterning, spread, timing and whatever else is relevant. 
-With that being said, we hope to create a new series of great modders helping out to raise the overall quality of maps out there. osu!mania definitely needs it, especially for the unpopular key modes. 
+- **For osu!mania by [Davvy](https://osu.ppy.sh/users/10047413)**:
+osu!mania has recently been seeing a steady increase in new modders, mappers and Beatmap Nominators alike, and it is time to take that to the next level. With the start of this project we're looking forward towards helping osu!mania mappers become proficient modders in any key mode of their wishes. Our mentor team will be able to handle every aspect of modding such as SV, layering, patterning, spread, timing and whatever else is relevant.
+With that being said, we hope to create a new series of great modders helping out to raise the overall quality of maps out there. osu!mania definitely needs it, especially for the unpopular key modes.
 
 Have we got your interest? Or do you have more questions regarding the project? Then please do not hesitate to join us at the [Modding Mentorship Discord server](https://discord.gg/TyvrMvR).
 
@@ -186,7 +186,7 @@ Mentioned previously in the Mappers' Report, the **osu! Map Cast** has recently 
 
 ---
 
-And with that, we conclude the Mappers' Report for this month. Again a bit of a read but we're happy you made it until here. 
+And with that, we conclude the Mappers' Report for this month. Again a bit of a read but we're happy you made it until here.
 
 As always, if you have anything noteworthy we could include in the next issue of the Mappers' Report, please do not hesitate to tell [Feerum](https://osu.ppy.sh/users/4815717) or [Noffy](https://osu.ppy.sh/users/1541323). You can as well join us in the `#mappers-report` channel on the [osu! Community Discord Server](https://discord.gg/0Vxo9AsejDkGlk3H).
 

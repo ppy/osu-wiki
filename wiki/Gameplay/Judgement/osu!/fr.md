@@ -1,62 +1,90 @@
----
-outdated_translation: true
-outdated_since: 1d2e724ee8a7cb4f313653a07c28af43c8443ea4
----
-
 # Système de jugement d'osu!
 
-## Valeurs de hit
+## Jugements
 
-| Image | Nom | Effet |
-| :-: | :-: | :-- |
-| ![](/wiki/shared/judgement/osu!/hit300.png "300") | 300 | Le meilleur résultat possible pour un objet touché. Si vous ne faites que des 300 dans une beatmap, vous obtiendrez la [note](/wiki/Gameplay/Grade) SS ou SSH. Généralement indiqué par une couleur bleue. |
-| ![](/wiki/shared/judgement/osu!/hit300g.png "Geki") | 300 (激) Geki | Une variante du 300. Originaire de [Osu! Tatakae! Ouendan!](https://fr.wikipedia.org/wiki/Osu!_Tatakae!_Ōendan), appelées Elite Beat! dans [Elite Beat Agents](https://fr.wikipedia.org/wiki/Elite_Beat_Agents). Accordé lorsque vous obtenez un 300 sur le dernier élément d'un combo dans lequel le joueur n'a obtenu que des 300. Obtenir un Geki accordera un bonus de vie considérable en plus de l'augmentation de vie standard pour un 300. |
-| ![](/wiki/shared/judgement/osu!/hit300k.png "300 Katu") | 300 (喝) Katu ou Katsu | Une variante du 300. Originaire de [Osu! Tatakae! Ouendan!](https://fr.wikipedia.org/wiki/Osu!_Tatakae!_Ōendan), appelées Beat! dans [Elite Beat Agents](https://fr.wikipedia.org/wiki/Elite_Beat_Agents). Accordé lorsque vous obtenez un 300 sur le dernier élément d'un combo dans lequel le joueur a obtenu au moins un 100, mais pas de 50 ou de miss. Obtenir un Katu donnera un petit bonus de vie en plus de l'augmentation de vie standard pour un 300. |
-| ![](/wiki/shared/judgement/osu!/hit100.png "100") | 100 | Le deuxième meilleur résultat possible pour un objet. Il est généralement indiqué par une couleur verte. |
-| ![](/wiki/shared/judgement/osu!/hit100k.png "100 Katu") | 100 (喝) Katu ou Katsu | Une variante du 100. Originaire de [Osu! Tatakae! Ouendan!](https://fr.wikipedia.org/wiki/Osu!_Tatakae!_Ōendan), appelées Beat! dans [Elite Beat Agents](https://fr.wikipedia.org/wiki/Elite_Beat_Agents). Accordé lorsque vous obtenez un 100 sur le dernier élément d'un combo dans lequel le joueur a obtenu au moins un 100, mais pas de 50 ou un miss. Obtenir un Katu donnera un petit bonus de vie en plus de l'augmentation de vie standard pour un 100. |
-| ![](/wiki/shared/judgement/osu!/hit50.png "50") | 50 | Le troisième meilleur résultat possible pour un objet, le dernier avant un miss. Il est généralement indiqué par une couleur orange. Un score de 50 empêche l'apparition d'un Katu ou d'un Geki à la fin du combo. |
-| ![](/wiki/shared/judgement/osu!/hit0.png "Miss") | Miss | Le pire résultat possible pour un objet. Un miss remet le combo en cours à 0 et empêche l'apparition d'un Katu ou d'un Geki à la fin du combo. |
+Un **jugement**, ou **résultat de hit** (hit result), est le résultat de l'interaction avec un [objet](/wiki/Gameplay/Hit_object) pendant sa fenêtre de hit. Le score et la précision sont calculés en fonction des jugements reçus.
 
-## Mécaniques du jugement
+Ils sont généralement désignés par la valeur de leur score (sauf pour les miss), c'est-à-dire qu'un GREAT est généralement appelé un "300" et ainsi de suite.
 
-### Cercles
+| Image | Nom | [Valeur de hit](/wiki/Gameplay/Score/ScoreV1/osu!) | [Précision](/wiki/Gameplay/Accuracy#osu!) | Erreur de hit maximum (ms) |
+| :-: | :-: | --: | --: | :-- |
+| ![](/wiki/shared/judgement/osu!/hit300.png) | GREAT | 300 | 100% | `80 - 6 × OD` |
+| ![](/wiki/shared/judgement/osu!/hit100.png) | OK | 100 | 33.33% | `140 - 8 × OD` |
+| ![](/wiki/shared/judgement/osu!/hit50.png) | MEH | 50 | 16.67% | `200 - 10 × OD` |
+| ![](/wiki/shared/judgement/osu!/hit0.png) | MISS | 0 | 0% | `400` |
 
-- Un cercle peut prendre les valeurs 300, 100, ou 50 selon la précision du timing du joueur lorsqu'il clique dessus. Les intervalles de temps utilisés pour déterminer le résultat concret d'un cercle sont appelés *hit windows*, et sont influencés par [l'overall difficulty](/wiki/Beatmap/Overall_difficulty#osu!) de la beatmap.
-- Un cercle est considéré comme miss quand :
-  - Le cercle est touché avant le début de la hit window du 50 et ne déclenche pas un [notelock](/wiki/Gameplay/Judgement/Notelock).
-  - Le cercle n'est pas touché et la hit window du 50 est passée.
+La fenêtre de hit dépend de [l'overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty) de la beatmap. Un hit est considéré comme étant à l'intérieur d'une fenêtre de hit si `erreur de hit < erreur de hit maximale`, ce qui signifie que la valeur indiquée est égale à la moitié de la largeur de la fenêtre de hit.
+
+L'erreur de hit est arrondie et les valeurs de l'erreur de hit maximale sont tronquées à l'entier le plus proche, ce qui signifie que les fenêtres peuvent être jusqu'à 1,5 ms plus courtes de part et d'autre par rapport à ce que les formules suggèrent.
+
+### Geki et Katu
+
+Le dernier objet dans un [combo](/wiki/Beatmapping/Combo) peut donner une variante des jugements normaux en fonction de ceux qui ont été obtenus dans le combo. Ils donnent un peu plus de [santé](/wiki/Gameplay/Health) que les jugements normaux.
+
+| Image | Nom | Variante | Conditions requises |
+| :-: | :-: | :-: | :-- |
+| ![](/wiki/shared/judgement/osu!/hit300g.png) | [Geki](/wiki/Gameplay/Judgement/Geki) (激) | GREAT | Un GREAT sur tous les objets dans un combo |
+| ![](/wiki/shared/judgement/osu!/hit300k.png) | [Katu](/wiki/Gameplay/Judgement/Katu) ou Katsu (喝) | GREAT | Au moins un OK pour tous les objets dans un combo et GREAT pour le dernier. |
+| ![](/wiki/shared/judgement/osu!/hit100k.png) | [Katu](/wiki/Gameplay/Judgement/Katu) ou Katsu (喝) | OK | Au moins un OK sur tous les objets dans un combo |
+
+Ce mécanisme fait référence à [Osu! Tatakae! Ouendan](https://fr.wikipedia.org/wiki/Osu!_Tatakae!_%C5%8Cendan) et [Elite Beat Agents](https://fr.wikipedia.org/wiki/Elite_Beat_Agents), ce dernier utilisant les termes Elite Beat! et Beat! au lieu de Geki et Katsu.
+
+## Mécaniques de jugement
+
+### Hit circle
+
+Un [hit circle](/wiki/Gameplay/Hit_object/Hit_circle) est jugé avec une mention GREAT, OK, MEH, ou MISS en fonction de la précision du hit. Hit un hit circle avant la fenêtre MISS n'a pas d'effet (autre que de causer un [notelock](/wiki/Gameplay/Judgement/Notelock)), et ne pas hit un hit circle causera un MISS après que la fenêtre MEH soit passée.
 
 ### Sliders
 
-Les sliders sont composés de plusieurs parties : la début du slider, la fin du slider, les ticks du slider et les répétitions du slider. Le slider dans son ensemble est jugé en fonction du nombre de ses parties que le joueur a touché, comme indiqué ci-dessous :
+Les [sliders](/wiki/Gameplay/Hit_object/Slider) sont constitués de plusieurs parties : le [slider head](/wiki/Gameplay/Hit_object/Slider/Sliderhead), le [slider tail](/wiki/Gameplay/Hit_object/Slider/Slidertail), les [sliders ticks](/wiki/Gameplay/Hit_object/Slider/Slider_tick), et les [sliders repeats](/wiki/Gameplay/Hit_object/Slider/Reverse_slider). Le slider dans son ensemble est jugé en fonction du nombre de parties que le joueur a hit, comme indiqué ci-dessous :
 
-- 300 : Le joueur a réussi à toucher toutes les parties du slider.
-- 100 : Le joueur a au moins touché la moitié des parties du slider.
-- 50 : Le joueur a réussi à toucher au moins une des parties du slider.
-- Miss : Le joueur n'a touché aucune des parties du slider.
-- Si le [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) est actif, la précision avec laquelle le joueur touche le début du slider est également prise en compte dans le jugement de l'ensemble du slider :
-  - Obtenir un 300 sur un slider nécessite d'obtenir un jugement de 300 sur le début du slider.
-  - Obtenir un 100 sur un slider nécessite d'obtenir un jugement de 100 ou mieux sur le début de slider.
+| Jugement | Pourcentage de réussite du slider |
+| :-: | :-- |
+| GREAT | 100% |
+| OK | 50% |
+| MEH | Au moins un élément du slider |
+| MISS | 0% |
 
-Les parties du slider ont également une influence supplémentaire sur le [combo](/wiki/Gameplay/Combo_(score_multiplier)) actuel :
+Il suffit que le slider head soit touché dans la fenêtre de hit de la MEH pour que le hit soit réussi. Cependant, si [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) est actif, la précision du slider head est également prise en compte, le jugement reçu pour l'ensemble du slider étant limité au maximum à celui reçu pour le slider head.
 
-- Toucher le début du slider trop tôt n'entraîne pas un miss, mais remet le combo à 0.
-- Rater un tick du slider ou une répétition n'entraîne pas un miss, mais remet le combo à 0.
-- Rater la fin du slider n'entraîne pas un miss, mais n'incrémentera pas le combo.
+Il existe d'autres particularités concernant l'influence des sliders dans les [combos](/wiki/Gameplay/Combo_(score_multiplier)) :
+
+- Hit le slider head trop tôt (avant la fenêtre MEH), miss un slider tick, ou un repeat n'entraîne pas un MISS, mais causera un [combo break](/wiki/Gameplay/Judgement/Combobreak). Les autres parties du slider peuvent toujours être hit si une touche est maintenue enfoncée. C'est ce qu'on appelle familièrement un [slider break](/wiki/Gameplay/Judgement/Slider_break).
+- Miss le slider end n'entraîne pas un MISS, mais n'incrémentera pas le combo.
 
 ### Spinners
 
-Chaque spinner a un nombre déterminé de tours nécessaires pour le compléter. Ce nombre dépend de [l'overall difficulty](/wiki/Beatmap/Overall_difficulty#sliders-et-spinners) de la beatmap. Les critères de jugement pour un spinner dans son ensemble sont les suivants :
+Chaque [spinner](/wiki/Gameplay/Hit_object/Spinner) a un nombre défini de spins nécessaires pour le compléter. Ce nombre dépend de la [difficulté globale](/wiki/Beatmap/Overall_difficulty#sliders-et-spinners) de la beatmap. La vitesse de rotation du spinner est calculée en fonction du cursor velocity et ne correspond pas nécessairement au nombre de fois où le spinner a spin.
 
-- 300 : Le joueur a réussi à effectuer le nombre de tours requis pour la complétion, ou plus.
-- 100 : Le joueur a effectué un tour de moins que le nombre requis.
-- 50 : Le joueur a effectué au moins 25% des tours requis.
-- Miss : Le joueur n'a pas atteint le minimum de 25% de tours requis.
+| Jugement | Spins requis[^demi-spins] |
+| :-: | :-- |
+| GREAT[^spinner-clear] | 100% |
+| OK | 1 spin de moins que le nombre requis |
+| MEH | 25% |
+| MISS | 0% |
 
-Pour certains spinners très courts, le nombre de rotations nécessaires est en fait calculé comme étant égal à 0, le spinner se termine donc toujours automatiquement par un 300.
+Les exigences en matière de spin peuvent être définies à l'aide des formules suivantes :
+
+|  |  |
+| :-- | :-- |
+| Nombre minimum de spins par seconde[^spin-minimum] | `1.5 + 0.2 × OD` si OD < 5, `1.25 + 0.25 × OD` si OD ≥ 5 |
+| Nombre minimum de spins requis | Durée du spinner en secondes × nombre minimum de spins par seconde + 0,5 |
+
+Si un spinner est très court, le nombre de spins requis peut être calculé comme étant égal à 0, et le spinner se terminera donc toujours par un GREAT.
 
 ## Histoire
 
-L'algorithme de jugement du spinner a été modifié de manière significative dans le build [20190510.2 Cutting Edge release](https://osu.ppy.sh/home/changelog/cuttingedge/20190510.2). Avant ce changement, il était beaucoup plus difficile d'obtenir des jugements sans erreur, car la différence entre un 50 et un 100, ainsi qu'entre un 100 et un 300, était égale à la moitié d'un tour. Certaines beatmaps comportaient même des spinners qui ne pouvaient jamais être jugés avec un 300, car ils étaient trop courts pour être complétés entièrement.
+L'algorithme de jugement du spinner a été considérablement modifié dans la [mise à jour Stable 20190513.2](https://osu.ppy.sh/home/changelog/stable40/20190513.2). Les différences sont les suivantes :
 
-Les replays effectuées avant le 10 mai 2019 utiliseront cette ancienne méthode de notation des spinners plutôt que celle actuellement utilisé.
+- La différence entre OK et MEH, ainsi qu'entre MEH et GREAT, était égale à un demi spin, ce qui rendait les jugements non-MISS beaucoup plus difficiles à réaliser.
+- Le fait que les spinners soient trop courts a pu les empêcher d'être complètement clear.
+- Tous les spinners ont eu besoin d'un demi-spin de plus pour terminer.
+
+Les replays effectuées avant le 10 mai 2019 (date à laquelle le changement a été [introduit dans la version Cutting Edge](https://osu.ppy.sh/home/changelog/cuttingedge/20190510.1)) utilisent cet ancien algorithme plutôt que celui qui est actuellement en vigueur.
+
+## Notes
+
+[^demi-spins]: Les spins sont calculés en interne en termes de demi-spins. Les formules présentées dans cette page sont ajustées pour être en termes de spins complets pour plus de simplicité, cette valeur est donc arrondie à la moitié inférieure la plus proche.
+[^spinner-clear]: Par mégarde, le texte ["Clear"](/wiki/Skinning/osu!#spinner) (`spinner-clear.png`) apparaît un demi-spin avant le nombre de spins requis pour obtenir un jugement GREAT.
+[^spin-minimum]: En raison de la constante +0,5 dans la formule pour le nombre minimum de spins requis, la moyenne minimum réelle est de `0,5 / longueur du spinner en secondes` spins par seconde plus rapide.

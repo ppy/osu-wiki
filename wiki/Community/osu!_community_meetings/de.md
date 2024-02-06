@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 98e085885360c812e7f3bc94e34a902261886d7e
----
-
 # osu! Community Meetings
 
 Die **osu! Community Meetings** sind Diskussionsrunden, die vom [osu!-Team](/wiki/People/osu!_team) veranstaltet werden. Das Hauptziel dieser Treffen ist es, jedem die Möglichkeit zu geben, direkt mit den Entwicklern und den für die Verwaltung der Community verantwortlichen Personen zu sprechen, um Probleme zur Diskussion zu stellen oder weitere Überlegungen einzubringen.
@@ -52,6 +47,7 @@ Das erste osu! Community Meeting fand am 19. September 2021 statt. Alle Treffen 
 | 14 | [3. April 2022](https://youtu.be/UWT18LaoeKw) | [Sitzungsnotizen](https://docs.google.com/document/d/1LzKpXwIKxcpYgEAK4zdEIVuMNJckoo9SWN-UoAvOto8) | Auswertung der Scoring-Umfrageergebnisse, diverse Fragen aus der Community |
 | 15 | [12. Februar 2023](https://youtu.be/idmI03A8jR8) | [Sitzungsnotizen](https://docs.google.com/document/d/13cMCrQN4vvaQFA59BmFHk6D7PH9fwT2ANmhkm5cmzxE) | Spielmechanik und Balance in osu!(lazer) |
 | 16 | [7. Juli 2023](https://youtu.be/bocgaVISSfg) | [Zusammenfassender Newsbeitrag](https://osu.ppy.sh/home/news/2023-07-11-community-meeting-recap) | Finalisierung des Punktesystems in osu!(lazer) |
+| 17 | [21. August 2023](https://youtu.be/O2j00E6AVW8) | [Zusammenfassendes Video](https://youtu.be/crkT0aaowKQ) | Verlagerung des Entwicklungsschwerpunkts auf die Fertigstellung von Ranglistenspielen |
 
 ## Weiterführende Links
 
