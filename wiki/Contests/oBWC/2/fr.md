@@ -9,7 +9,7 @@ tags:
 
 ![Bannière de l'o!BWC2020](img/banner.jpg)
 
-**L'osu! Beatmapping World Championship 2020** (***o!BWC 2020***) est un concours de mapping osu! par pays organisé par ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870), ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837), ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909), ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) et ::{ flag=FR }:: [Pachiru](https://osu.ppy.sh/users/2850983). Anciennement appelé *osu! Mapping World Cup*, le concours a été renommé afin de ne pas être confondu avec la série *[osu!mania World Cup](/wiki/Tournois/MWC)* en raison de leur similitude d'abréviation.
+**L'osu! Beatmapping World Championship 2020** (***o!BWC 2020***) est un concours de mapping osu! par pays organisé par ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870), ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837), ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909), ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) et ::{ flag=FR }:: [Pachiru](https://osu.ppy.sh/users/2850983). Anciennement appelé *osu! Mapping World Cup*, le concours a été renommé afin de ne pas être confondu avec la série *[osu!mania World Cup](/wiki/Tournaments/MWC)* en raison de leur similitude d'abréviation.
 
 ## Calendrier du concours
 

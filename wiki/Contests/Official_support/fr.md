@@ -17,7 +17,7 @@ Pour les autres concours, envoyez-nous un e-mail à [tournaments@ppy.sh](mailto:
 
 Les concours bénéficiant d'un soutien officiel ont accès à certains avantages :
 
-- **Des badges de profil seront remis aux gagnants de la première place.** Voir les critères de conception des badges de profil sur [l'article officiel de soutien aux tournois](/wiki/Tournaments/Official_support#profile-badges).
+- **Des badges de profil seront remis aux gagnants de la première place.** Voir les critères de conception des badges de profil sur [l'article officiel de soutien aux tournois](/wiki/Tournaments/Official_support#badges-de-profil).
 - **Progression vers le titre d'utilisateur *Elite Mapper*.** Voir [points de concours](/wiki/Contests/Contest_points) pour plus de détails.
 
 ## Éligibilité
@@ -65,6 +65,6 @@ L'équipe d'osu! peut choisir de refuser le soutien officiel à tout concours r�
 En cas d'approbation, vous devrez soumettre les documents suivants :
 
 - Une liste des bénéficiaires de badges (c'est-à-dire les gagnants de votre concours).
-- Un badge correctement conçu (voir les critères de conception du badge de profil sur [l'article de support officiel aux tournois](/wiki/Tournaments/Official_support#profile-badges)).
+- Un badge correctement conçu (voir les critères de conception du badge de profil sur [l'article de support officiel aux tournois](/wiki/Tournaments/Official_support#badges-de-profil)).
 
 Dans des cas exceptionnellement rares, un concours peut se voir accorder le privilège d'attribuer des badges à ses trois premiers finalistes. Un concours qui reçoit cette distinction est reconnu pour avoir atteint le plus haut niveau de qualité de production et d'organisation possible - ce privilège est accordé exclusivement à la discrétion de l'équipe d'osu!. Les organisateurs seront contactés directement le cas échéant.
