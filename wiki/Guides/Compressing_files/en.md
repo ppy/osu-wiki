@@ -31,7 +31,7 @@ In case re-encoding is necessary, it is suggested to use the highest-quality sou
 
 To begin, download and install [Handbrake](https://handbrake.fr/), then follow these steps:
 
-1. Open Handbrake, then import your video file by either: 
+1. Open Handbrake, then import your video file by either:
    - Drag-and-dropping the file into Handbrake, or
    - Clicking the `File` option, then selecting the file to import.
 
@@ -49,7 +49,6 @@ To begin, download and install [Handbrake](https://handbrake.fr/), then follow t
    - `Video Encoder` set to `H.264 (x264)` to encode in the H.264 format using the x264 encoder
    - `Framerate (FPS)` set to `Same as source` with `Constant Framerate` selected
    - `Constant Quality` set to a value between 20 to 25. Smaller value will result in larger, higher quality files
-   
 5. Depending on how long you are willing to spend time encoding, change the `Encoder Preset` under `Encoder Options` (`Veryslow` is recommended). Slower presets result in better video quality and may also reduce video file size.
    - Do not use the `Placebo` preset, as it takes much longer to encode than `Veryslow` for very little improvement in quality or file size.
 
@@ -115,7 +114,7 @@ To begin, download and install [Audacity](https://www.audacityteam.org/), then f
 
 5. Once done entering metadata, which can be left blank if desired, click `OK` to start re-encoding.
 
-**NOTE:** Clicking `Cancel` in the metadata dialog will abort the re-encoding process.
+*Note: Clicking `Cancel` in the metadata dialog will abort the re-encoding process.*
 
 ### Using FFmpeg
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!monthly, January 2023"
+title: osu!monthly, January 2023
 date: 2023-02-10 19:00:00 +0000
 ---
 
@@ -12,7 +12,7 @@ Welcome to the 7th edition of osu!monthly! It is hard to believe that it has bee
 
 This one came out a little later than usual due to unexpected delays, so thank you for being patient.
 
-The osu!monthly [forum post](https://osu.ppy.sh/community/forums/topics/1614314?n=1) has somewhat been disbanded after a lengthy discussion in how to reduce bloat and improve readability of the newsletter. Instead, it has now been transformed into a permanent [osu! wiki page](/wiki/People/osu!monthly_team) listing the "osu!monthly team" that'll be used to sign the newsletter.
+The osu!monthly [forum post](https://osu.ppy.sh/community/forums/topics/1614314?n=1) has somewhat been disbanded after a lengthy discussion in how to reduce bloat and improve readability of the newsletter. Instead, it has now been transformed into a permanent [osu! wiki page](/wiki/Community/osu!monthly#contributors) listing the "osu!monthly team" that'll be used to sign the newsletter.
 
 If you'd like to look at the previous editions of osu!monthly then make sure to check out the [wiki page](/wiki/Community/osu!monthly) that lists not only this revival, but all other editions of the infamous project.
 
@@ -89,7 +89,7 @@ For anyone interested on contributing to or reading their periodic articles, you
 
 ![](/wiki/shared/news/2023-02-10-osumonthly-7/bosphorus-banner.jpg)
 
-Hosted by [Zeus-](https://osu.ppy.sh/users/5464437) with the help and support of the [Boğaziçi University Gaming Club (BUOK)](https://buok.boun.edu.tr/), and sponsored by [Estanbul Esports and Gaming Center](https://www.estanbulgaming.com/?lang=en), [**Bosphorus Invitational**](https://osu.ppy.sh/community/forums/topics/1696844) is a 1v1 invite-only LAN tournament organised at Boğaziçi University South Campus, located right next to the Bosphorus Strait where the event derives its name from. 
+Hosted by [Zeus-](https://osu.ppy.sh/users/5464437) with the help and support of the [Boğaziçi University Gaming Club (BUOK)](https://buok.boun.edu.tr/), and sponsored by [Estanbul Esports and Gaming Center](https://www.estanbulgaming.com/?lang=en), [**Bosphorus Invitational**](https://osu.ppy.sh/community/forums/topics/1696844) is a 1v1 invite-only LAN tournament organised at Boğaziçi University South Campus, located right next to the Bosphorus Strait where the event derives its name from.
 
 The tournament featured some of the best osu! players among Turkish rankings, who were invited to participate in a friendly 1v1 showdown throughout the day. Having taken place on 29th of January, the event featured approximately 70 attendees, all of whom hyped up to cheer for their favourite participant in the tournament and enjoy the engaging atmosphere.
 
@@ -138,7 +138,7 @@ Experience a unique project brought to you by [clxxiii](https://osu.ppy.sh/users
 
 ### Notable osu! plays of the month
 
-2023 started off with a bang, with [lifeline](https://osu.ppy.sh/users/11367222) being the first person to [HDDT FC](https://osu.ppy.sh/scores/osu/4356860873) the top difficulty of [Reol - No title](https://osu.ppy.sh/beatmapsets/320118#osu/714001), one of the most played maps ever. Next to that we have [mrekk](https://osu.ppy.sh/users/7562902)'s [2nd 3 mod FC](https://osu.ppy.sh/scores/osu/4357810044) on [KOTOKO - Wing my Way](https://osu.ppy.sh/beatmapsets/12035#osu/46827), which was previously FC'd only by Adamqs (one of the greatest 3-mod players of all time). 
+2023 started off with a bang, with [lifeline](https://osu.ppy.sh/users/11367222) being the first person to [HDDT FC](https://osu.ppy.sh/scores/osu/4356860873) the top difficulty of [Reol - No title](https://osu.ppy.sh/beatmapsets/320118#osu/714001), one of the most played maps ever. Next to that we have [mrekk](https://osu.ppy.sh/users/7562902)'s [2nd 3 mod FC](https://osu.ppy.sh/scores/osu/4357810044) on [KOTOKO - Wing my Way](https://osu.ppy.sh/beatmapsets/12035#osu/46827), which was previously FC'd only by Adamqs (one of the greatest 3-mod players of all time).
 
 Alongside these two, we have a couple of more cool plays such as [MineFrostID](https://osu.ppy.sh/users/12159899/)'s [2nd HR FC](https://osu.ppy.sh/scores/osu/4368139903) on [Ekoro](https://osu.ppy.sh/users/284905)'s map of [UNDEAD CORPORATION - Everything will freeze](https://osu.ppy.sh/beatmapsets/158023#osu/555797), [xootynator](https://osu.ppy.sh/users/3717598)'s first [HDHR FC](https://osu.ppy.sh/scores/osu/4363537357) on [DragonForce - Inside the Winter Storm](https://osu.ppy.sh/beatmapsets/613814#osu/1294935) and [chocomint](https://osu.ppy.sh/users/124493)'s first [HDHR FC](https://osu.ppy.sh/scores/osu/4367683519) on [Roselia - Ringing Bloom](https://osu.ppy.sh/beatmapsets/1066605#osu/2233275).
 
@@ -150,7 +150,7 @@ Check out lifeline's play on *Reol - No title* below:
 
 [shinchikuhome](https://osu.ppy.sh/users/3174184) strikes again! This time, being the first FC on a map considered by many to be one of the hardest maps currently Ranked. This map is Nepuri's set of [Kobaryo - New Game Plus](https://osu.ppy.sh/beatmapsets/797710#taiko/1675265), a 9* map that remained un-FC'd for nearly 4.5 years, until this month. Known for its near-impossible 400 BPM dense speed sections, it was recently FC'd by shinchikuhome with a solid 97.46% accuracy, earning them #1 on the map. If you haven't seen this play before, or want to rewatch it again, please check it out below!
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/AI1OZBOkxMM" frameborder="0" allowfullscreen></iframe> 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/AI1OZBOkxMM" frameborder="0" allowfullscreen></iframe>
 
 Another notable play worthy of mention this month is [Majimanjiwwwww](https://osu.ppy.sh/users/12337864/taiko)'s HDNC 1218 pp play on [Null Specification - Aletheia (fake lover, fake summer)](https://osu.ppy.sh/beatmapsets/1895850#taiko/3907074), earning themselves the pp record and #1 on the map! This map is notable for its 300 BPM streams, only made harder with Hidden and Nightcore, making it well deserving of the record. Feel free to check it out below!
 
@@ -158,9 +158,9 @@ Another notable play worthy of mention this month is [Majimanjiwwwww](https://os
 
 ### Notable osu!catch plays of the month
 
-You might be surprised to see [Imperial Circus Dead Decadence - Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo](https://osu.ppy.sh/beatmapsets/461744#fruits/1031991) in the osu!catch section, but believe it or not, this map has enjoyed great competition over the years, culminating on the play [ArMa79](https://osu.ppy.sh/users/4982799) set this January, marking the first-ever FC on this more than legendary map that's jam-packed with insane tech and precision patterns. 
+You might be surprised to see [Imperial Circus Dead Decadence - Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo](https://osu.ppy.sh/beatmapsets/461744#fruits/1031991) in the osu!catch section, but believe it or not, this map has enjoyed great competition over the years, culminating on the play [ArMa79](https://osu.ppy.sh/users/4982799) set this January, marking the first-ever FC on this more than legendary map that's jam-packed with insane tech and precision patterns.
 
-The incredible effort put out by ArMa79 to defeat one of the hardest convert maps in the game is truly admirable. However, this is not the only convert map this month, as we've seen a new DT PP record for this category of play. We are of course talking about [Aryssiel](https://osu.ppy.sh/users/2389481/fruits)'s 1-miss play on [AKB48 - Heavy Rotation](https://osu.ppy.sh/beatmapsets/1524839#fruits/3119805) with DT, tragically choking an even more impressive 860 pp play. 
+The incredible effort put out by ArMa79 to defeat one of the hardest convert maps in the game is truly admirable. However, this is not the only convert map this month, as we've seen a new DT PP record for this category of play. We are of course talking about [Aryssiel](https://osu.ppy.sh/users/2389481/fruits)'s 1-miss play on [AKB48 - Heavy Rotation](https://osu.ppy.sh/beatmapsets/1524839#fruits/3119805) with DT, tragically choking an even more impressive 860 pp play.
 
 To put this into context, the [previous record](https://osu.ppy.sh/scores/fruits/207475584) held by [b-a-d-s123](https://osu.ppy.sh/users/3656717) on [Bliitzit - Team Magma & Aqua Leader Battle Theme (Unofficial)](https://osu.ppy.sh/beatmapsets/1002271#fruits/2097898) is only 724pp, we wish the best for Aryssiel if he ever tries to fix this choke.
 
@@ -262,7 +262,7 @@ We admit that the last month's question (*What class must mappers experience to 
 
 The correct answer was "05Z2", referring to the presence of a "perfect curve" slider type in the osu!(lazer) editor, along with this banner that was at the bottom of some (very) early builds.
 
-![](/wiki/shared/news/2023-02-10-osumonthly-7/jan23-quiz.jpg)
+![](/wiki/shared/news/2023-02-10-osumonthly-7/jan23-quiz.png)
 
 By the way, "05Z2" itself is a reference to the `.osz2` file format, which is used internally in the game servers and osu!stream.
 

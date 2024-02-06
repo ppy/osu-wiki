@@ -7,7 +7,7 @@ tags:
 
 # 全收集者
 
-**全收集者** 即在特定[游戏模式](/wiki/Game_mode)内，游玩过所有[上架](/wiki/Beatmap/Category#上架-(ranked))[谱面](/wiki/Beatmap)的玩家。由于上架谱面的数量在日渐增长，这个成就也越来越难以完成。
+**全收集者** 即在特定[游戏模式](/wiki/Game_mode)内，游玩过所有[上架](/wiki/Beatmap/Category#ranked)[谱面](/wiki/Beatmap)的玩家。由于上架谱面的数量在日渐增长，这个成就也越来越难以完成。
 
 截至 2023 年 9 月，这个成就是 [osu! 团队](/wiki/People/osu!_team)自行决定，并通过发放的[主页奖牌](/wiki/Community/Profile_badge)来表彰：
 

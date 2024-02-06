@@ -18,7 +18,7 @@ If you're not sure where to start, don't worry, we've prepared showcase videos o
 
 <iframe src="https://www.youtube-nocookie.com/embed/videoseries?list=PLA2Nwtxa4WMoUg8VxlV6sVD2WPN587GEk" allow="autoplay; encrypted-media" allowfullscreen="" width="100%" height="400" frameborder="0"></iframe>
 
-If you have your mind made up, head over to the [contest page](https://osu.ppy.sh/community/contests/137) and place the **3 stars** granted to you onto the submissions that gave you the most chills. But you have to be quick, because they may melt away in **2 weeks time**!  
+If you have your mind made up, head over to the [contest page](https://osu.ppy.sh/community/contests/137) and place the **3 stars** granted to you onto the submissions that gave you the most chills. But you have to be quick, because they may melt away in **2 weeks time**!
 
 For more information about the contest, check out our [wiki article](/wiki/Contests/Skinning_Contest/2) and [forum thread](https://osu.ppy.sh/community/forums/topics/1472845). If you wish to meet the contest staff or show your appreciation to our contestants, you are always welcome to join our [Discord server](https://discord.skinship.xyz)!
 

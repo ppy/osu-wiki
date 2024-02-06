@@ -19,9 +19,9 @@ tags:
 | Lobby temporaire : Playlist B | 16 octobre - 23 octobre 2020 |
 | Lobby temporaire : Playlist C | 23 octobre - 30 octobre 2020 |
 | Lobby temporaire : Playlist D | 30 octobre - 6 novembre 2020 |
-| Interruption  | 6 novembre - 13 novembre 2020 |
+| Interruption | 6 novembre - 13 novembre 2020 |
 | Lobby temporaire : Playlist A | 13 novembre - 20 novembre 2020 |
-| Interruption  | 20 novembre - 27 novembre 2020 |
+| Interruption | 20 novembre - 27 novembre 2020 |
 | Lobby temporaire : Playlist B | 27 novembre - 4 décembre 2020 |
 | Lobby temporaire : Playlist C | 4 décembre - 11 décembre 2020 |
 | Lobby temporaire : Playlist D | 11 décembre - 29 décembre 2020 |
