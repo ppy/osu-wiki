@@ -4,6 +4,6 @@
 
 - [osu! 獎章獵人](osu!_Medal_Hunters)
 - [osu! 大學](osu!_University)
-- [osu!taiko 模組 & 地圖製作中心](osu!taiko_Modding_&_Mapping_Hub)
-- [osu!catch 模組 & 地圖製作中心](osu!catch_Modding_&_Mapping_Hub)
-- [osu!mania 模組 & 地圖製作中心](osu!mania_Modding_&_Mapping_Hub)
+- [osu!taiko 審圖 & 圖譜製作中心](osu!taiko_Modding_&_Mapping_Hub)
+- [osu!catch 審圖 & 圖譜製作中心](osu!catch_Modding_&_Mapping_Hub)
+- [osu!mania 審圖 & 圖譜製作中心](osu!mania_Modding_&_Mapping_Hub)
