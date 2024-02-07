@@ -13,7 +13,7 @@ Selamat datang di osu! wiki, basis pengetahuan open-source yang mengandung berba
 
 # Pendahuluan
 
-Berikut merupakan berbagai artikel dan panduan penting yang akan membantu kamu untuk memulai permainanmu. Apabila kamu menemui masalah tertentu atau merasa ragu akan suatu hal, jangan sungkan untuk mengunjungi [sub-forum Help](https://osu.ppy.sh/forum/5).
+Berikut merupakan berbagai artikel dan panduan penting yang akan membantu kamu untuk memulai permainanmu. Apabila kamu menemui suatu masalah atau merasa ragu akan hal tertentu, jangan sungkan untuk datang berkunjung ke [forum Help](https://osu.ppy.sh/forum/5).
 
 [Peraturan](/wiki/Rules) • [Instalasi](/wiki/Client/Installation) • [Pendaftaran](/wiki/Registration) • [Pusat Bantuan](/wiki/Help_centre)
 
@@ -70,7 +70,7 @@ Agar suatu beatmap dapat memiliki papan peringkatnya tersendiri, beatmap tersebu
 
 # Aturan dan hukum
 
-Kenali berbagai prosedur dan ketentuan yang menjaga agar osu! dan komunitasnya tetap aman, mulai dari proses lisensi musik, pedoman penggunaan media, hingga etika penggunaan layanan forum dan *chat* yang osu! sediakan.
+Kenali berbagai prosedur dan ketentuan yang menjaga osu! dan komunitasnya tetap aman, mulai dari proses lisensi musik, pedoman penggunaan media, hingga etika penggunaan layanan forum dan *chat* yang osu! sediakan.
 
 [Peraturan](/wiki/Rules) • [Kode etik kontributor](/wiki/Rules/Contributor_code_of_conduct) • [Kode etik modding dan mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
@@ -131,7 +131,7 @@ Ketahui cara untuk berinteraksi dengan osu! melalui aplikasi dan media eksternal
 
 # Wiki dan halaman meta
 
-Sama seperti berbagai hal lainnya yang terdapat di osu!, osu! wiki juga ditulis dan dikelola oleh para sukarelawan. Apabila kamu memiliki saran, kritikan, atau bahkan ide seputar artikel baru untuk ditambahkan ke wiki ini, silakan kunjungi [repositori osu-wiki di GitHub](https://github.com/ppy/osu-wiki).
+Sama seperti hampir segala sesuatunya yang ada di osu!, osu! wiki juga ditulis dan dikelola oleh para sukarelawan. Apabila kamu memiliki saran, kritikan, atau bahkan ide seputar artikel baru untuk ditambahkan ke wiki ini, silakan kunjungi [repositori osu-wiki di GitHub](https://github.com/ppy/osu-wiki).
 
 [Sejarah osu!](/wiki/History_of_osu!) • [Sejarah peringkat online](/wiki/History_of_osu!/Online_rankings) • [Sejarah osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Sejarah mapping dan modding](/wiki/History_of_osu!/Mapping_and_modding_timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
 
