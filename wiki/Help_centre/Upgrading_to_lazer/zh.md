@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 4390338dba70d8ad149f01408d623120cdc6aa96
+---
+
 # 升级到 lazer
 
 *注意：我们仍在调整游戏平衡，开发游戏新机制。目前，**在 lazer 上取得的分数不会永久保存**。*

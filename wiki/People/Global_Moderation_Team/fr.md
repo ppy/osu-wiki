@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 918808cb4826bd1b2d3f8eb4f61b5262ae09c741
 no_native_review: true
 tags:
   - GMT

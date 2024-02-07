@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 4390338dba70d8ad149f01408d623120cdc6aa96
+---
+
 # Actualizarea la lazer
 
 *Atenție: Încă încercăm să ne dăm seama cum să balansăm jocul și mecanicile lui. Momentan, **scorurile realizate pe lazer trebuie să nu fie considerate finale**.*
