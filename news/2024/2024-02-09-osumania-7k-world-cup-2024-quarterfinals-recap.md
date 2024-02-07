@@ -8,7 +8,7 @@ The stakes are getting higher and higher as the 1st elimination phase of the tou
 
 ![](/wiki/Tournaments/MWC/2024_7K/img/mwc7k2024-banner.jpg)
 
-The Quarterfinals have concluded, and due to the unusual way the brackets have been set up this year, the first eliminations only took place last weekend! As the mappool keeps getting harder and harder, some teams unfortunately are not able to keep up, causing most of the matches last weekend to be blow-outs. Of course, there were some exceptional matches that got everyone excited — and subsequently got highlighted below, but as the top seeds assert dominance within the brackets and start fighting for the championship title, we should see more intense, closer match-ups going forward.
+The Quarterfinals have concluded, and due to the unusual way the brackets have been set up this year, the first eliminations only took place last weekend! As the mappool keeps getting harder, we are seeing the top seeds starting to assert dominance within the brackets, and prepare themselves for a shot at the championship title. As is customary by now, let's take a look at the mappool and the full Quarterfinals results before moving to the highlight matches of last week.
 
 ## Mappool showcase
 
