@@ -168,8 +168,8 @@ Profile badge images must adhere to the following standards:
 - It must be cleanly designed and of reasonable visual quality.
 - It must not include any sort of sponsorship or promote anything besides the tournament.
 - It must not include any characters or logos which were not specifically made for the tournament and adheres to the [Content usage guidelines](/wiki/Rules/Content_usage_permissions).
-    - This does not include assets which are open-source or public-use (i.e. fonts, icons, etc).
-    - If assets that do not fall into the above category are used in a design, explicit approval from the original artist must be provided before approval.
+  - This does not include assets which are open-source or public-use (i.e. fonts, icons, etc).
+  - If assets that do not fall into the above category are used in a design, explicit approval from the original artist must be provided before approval.
 
 Please consult the following examples of approved badge designs:
 
