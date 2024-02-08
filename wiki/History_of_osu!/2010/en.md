@@ -1,10 +1,16 @@
+---
+stub: true
+---
+
 # History of osu! 2010
 
 ## January
 
-On the [Wai-con](https://en.wikipedia.org/wiki/Wai-Con) anime convention in Perth, osu! had an arcade booth which featured a fully self-contained arcade machine running a touch-based version of osu! on it called osu!arcade. Although playing too much on it could lead to sore fingers as some people had criticised, the prototype containing custom-made hardware and a built-in touchscreen was well-received by the community.[^wai-con]
+The [Wai-con](https://en.wikipedia.org/wiki/Wai-Con) anime convention in Perth had osu!arcade, a fully self-contained arcade machine running a touch-based version of osu!. Although playing too much on it could lead to sore fingers as some people had criticised, the prototype containing custom-made hardware and a built-in touchscreen was well-received by the community.[^wai-con]
 
+::: Infobox
 ![A touchscreen displaying osu!'s main menu](img/osu!arcade.jpg "The osu!arcade machine at 2010's Wai-con")
+:::
 
 ## February
 
@@ -12,33 +18,37 @@ A new osu! update made small improvements in the overall user interface and adde
 
 ## March
 
-Through February and March, [peppy](https://osu.ppy.sh/users/2) organised an art competition about drawing banners for in-game challenges. After a [community voting](https://osu.ppy.sh/community/forums/topics/27112?n=1) concluded, the osu! team picked the final selection. The winner's art being officially used as well as one year of [osu!supporter](/wiki/osu!supporter) or physical goods being awarded were in prospect for the competition's finalist.[^art-challenge]
+Through February to March, [peppy](https://osu.ppy.sh/users/2) organised an art competition dedicated to banners for in-game challenges, with the prize being the art's official recognition and a year of [osu!supporter](/wiki/osu!supporter) or physical goods. After a [community voting](https://osu.ppy.sh/community/forums/topics/27112?n=1) round, the osu! team made the final choice.[^art-challenge]
 
 On March 8, an osu! update brought mainly performance and audio improvements to the game.[^stable-b1485]
 
 ## April
 
-Due to infrastructure changes, the [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) was moved to the address `irc.ppy.sh`.[^irc]
+Due to infrastructure changes, the [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) server was moved to the address `irc.ppy.sh`.[^irc]
 
 This month, peppy introduced a new star rating difficulty algorithm in an osu! update.[^stable-b1596]
 
 ## August
 
-Since August 2, users became able to change their username once. To change their name, they had to have received an osu!supporter tag at least once beforehand, either through purchase or as a gift.[^name-change]
+On August 2, all users were granted a single username change. To change username, they had to have received an osu!supporter tag at least once, either through purchase or as a gift.[^name-change]
 
-[Bancho](/wiki/BanchoBot) received the [`!report`](/wiki/BanchoBot#report) command, allowing people to notify chat moderators of users that showed unsolicited behaviour (e.g. spamming in chat).[^bancho-report]
+The [`!report`](/wiki/BanchoBot#report) chat command was added to [Bancho](/wiki/BanchoBot), which allowed people to notify chat moderators about users misbehaving in the chat.[^bancho-report]
 
 [nardii](https://osu.ppy.sh/users/1017) gave peppy access to their [Twitter](https://twitter.com) account [@osugame](https://twitter.com/osugame) which was used for general osu! news from then on.[^twitter-osugame]
 
 ## September
 
-On September 2, osu! received several mapping updates. Among those were a display for showing how efficiently storyboard and background elements are drawn on the screen, known as [SB load](/wiki/Client/Beatmap_editor/SB_load). Additionally, users became able to set the speed of [approach circles](/wiki/Gameplay/Hit_object/Approach_circle) regardless of [overall difficulty](/wiki/Beatmap/Overall_difficulty). Slider speeds between 2x and 1/2x became able to be adjusted to custom values.[^stable-b1650]
+On September 2, osu! received several mapping updates, including:[^stable-b1650]
+
+- The [SB load](/wiki/Client/Beatmap_editor/SB_load) indicator, reflecting drawing efficiency of storyboard and background elements.
+- The introduction of [Approach Rate](/wiki/Beatmap/Approach_rate) for configuring the speed of [approach circles](/wiki/Gameplay/Hit_object/Approach_circle) independently of [Overall Difficulty](/wiki/Beatmap/Overall_difficulty).
+- Custom [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) multipliers ranging from 0.5x to 2x.
 
 60 [difficulties](/wiki/Beatmap/Difficulty) were affected by a Taiko bug causing drum-rolls to be incorrectly displayed and thus, all scores on them were deleted.[^taiko-reset]
 
 ## October
 
-Members of the [Mapping Assistance Team](/wiki/People/Mapping_Assistance_Team) (MAT) became able to [bubble](/wiki/Modding/Bubble) beatmaps to indicate that they are of good quality.[^mat-bubble]
+Members of the [Mapping Assistance Team](/wiki/People/Mapping_Assistance_Team) (MAT) gained the ability to [bubble](/wiki/Modding/Bubble) beatmaps deemed to be of good quality.[^mat-bubble]
 
 ## November
 
