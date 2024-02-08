@@ -22,13 +22,13 @@
 - [來自 Youtube 上的影片](Videos_from_YouTube)
 - [定軸 #/8 拍的歌曲](Timing_songs_with_8-signatures)
 
-## 審圖
+## 摸圖
 
-*主頁面: [審圖](/wiki/Modding)*
+*主頁面: [摸圖](/wiki/Modding)*
 
-- [常見的審圖錯誤](Common_modding_mistakes)
+- [常見的摸圖錯誤](Common_modding_mistakes)
 - [如何讓你的圖譜被審核](Getting_your_map_modded)
-- [osu!mania 審圖指南](osu!mania_modding_guide)
+- [osu!mania 摸圖指南](osu!mania_modding_guide)
 
 ## 遊玩
 
