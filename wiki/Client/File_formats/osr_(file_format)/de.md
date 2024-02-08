@@ -11,7 +11,7 @@
 | Integer | 4 | Ein 4-Byte-Wert im Little-Endian-Format. |
 | Long | 8 | Ein 8-Byte-Wert im Little-Endian-Format. |
 | ULEB128 | Variabel | Eine Ganzzahl mit variabler Länge. Siehe [ULEB128](https://en.wikipedia.org/wiki/LEB128). |
-| String | Variabel | Besteht aus drei Teilen. Ein einzelnes Byte, das entweder 0x0b (11 im Dezimalsystem) oder 0x00 ist, abhängig davon, ob die nächsten zwei Teile vorhanden sind oder nicht. Bei einem Wert von 0x0b bestehen die nächsten zwei Teile aus einem ULEB128, der die Länge in Byte des folgenden Strings definiert, und der String selbst, kodiert in UTF-8. Siehe [UTF-8](https://de.wikipedia.org/wiki/UTF-8). |
+| String | Variabel | Besteht aus drei Teilen. Ein einzelnes Byte, das entweder 0x0b (11 im Dezimalsystem) oder 0x00 ist. Bei einem Wert von 0x00 sind die anderen zwei Teile nicht vorhanden. Bei einem Wert von 0x0b sind die nächsten zwei Teile ein ULEB128, der die Länge des Strings in Bytes definiert, und der String selbst, kodiert in UTF-8. Siehe [UTF-8](https://de.wikipedia.org/wiki/UTF-8). |
 
 ## Format
 
@@ -34,7 +34,7 @@ Byte-Offsets sind in dieser Tabelle nicht enthalten, da die Werte unterschiedlic
 | Short | Höchste Combo (wird auf der Ergebnisanzeige dargestellt) |
 | Byte | Perfect/Full Combo (1 = keine Misses und keine Sliderbreaks sowie keine zu früh beendeten Slider) |
 | Integer | Verwendete Mods. Siehe unten für eine Liste der Modwerte. |
-| String | Lebensleiste: Komma-separierte Paare u/v, wobei u die Zeit in Millisekunden nach Beginn des Songs ist und v eine Gleitkommazahl zwischen 0 und 1 ist, die die Menge an übriggebliebenem Leben zu diesem Zeitpunkt darstellt (0 = Lebensleiste ist leer, 1 = Lebensleiste ist gefüllt) |
+| String | Lebensleiste: Komma-separierte Paare u/v, wobei u die Zeit in Millisekunden nach Beginn des Songs ist und v eine Gleitkommazahl zwischen 0 und 1 ist, die die Menge an übriggebliebenem Leben zu diesem Zeitpunkt darstellt (0 = Lebensleiste ist leer, 1 = Lebensleiste ist voll) |
 | Long | Zeitstempel ([Windows Ticks](https://learn.microsoft.com/en-us/dotnet/api/system.datetime.ticks)) |
 | Integer | Länge in Bytes der komprimierten Replay-Daten |
 | Byte Array | Komprimierte Replay-Daten |
@@ -51,12 +51,12 @@ Die restlichen Daten enthalten Informationen über die Mausbewegung und die gedr
 
 In der dekomprimierten Form sind die Daten mit Kommas getrennt. Jeder Teil kennzeichnet eine Aktion, die von 4 Zahlen in der Form `w | x | y | z` repräsentiert werden:
 
-| Buchstabe | Datentyp | Beschreibung |
+| Teil | Datentyp | Beschreibung |
 | :-- | :-- | :-- |
 | w | Long | Zeit in Millisekunden seit der letzten Aktion |
 | x | Float | X-Koordinate des Cursors von 0 bis 512 |
 | y | Float | Y-Koordinate des Cursors von 0 bis 384 |
-| z | Integer | Bitweise Kombination der gedrückten Tasten auf der Tastatur oder der Maus (M1 = 1, M2 = 2, K1 = 4, K2 = 8, Smoke = 16) |
+| z | Integer | Die gedrückten Tasten auf der Tastatur und Maus als [Bitfeld](https://de.wikipedia.org/wiki/Bitfeld) (M1 = 1, M2 = 2, K1 = 4, K2 = 8, Smoke = 16) |
 
 Bei Replays, die in der Version `20130319` oder einer späteren erstellt wurden, wird für den Score eine zufällig generierte 32-Bit-Ganzzahl in einen zusätzlichen Replay-Frame am Ende des LZMA-Streams im Format `-12345|0|0|Seed` hinzugefügt.
 
@@ -64,7 +64,7 @@ Bei Replays, die in der Version `20130319` oder einer späteren erstellt wurden,
 
 Dies wird auch in der Dokumentation der [osu!-API](https://github.com/ppy/osu-api/wiki#mods) beschrieben.
 
-| Mod | Wert (Bit-Offset) | Comment |
+| Mod | Wert (Bit-Offset) | Anmerkung |
 | :-- | :-- | :-- |
 | None | 0 |  |
 | NoFail | 1 (0) |  |
