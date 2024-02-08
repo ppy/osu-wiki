@@ -201,6 +201,15 @@ These sounds are mapped as `S:C1` on beatmap skins:
 
 - Plays everytime you get 1000 bonus points from spinning.
 
+#### Nightcore Mod specific
+
+These sounds are used in gameplays with the [Nightcore game modifier](/wiki/Gameplay/Game_modifier/Nightcore) enabled. For example in 4/4 time:
+
+- `nightcore-kick.wav`: played on [beats](/wiki/Music_theory/Beat) 1 and 3
+- `nightcore-hat.wav`
+- `nightcore-clap.wav`: played on beats 2 and 4
+- `nightcore-finish.wav`: played on the first beat every 4 [measures](/wiki/Music_theory/Measure)
+
 #### osu!taiko specific
 
 ##### Normal set
