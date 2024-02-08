@@ -35,11 +35,12 @@ Die unten aufgeführten Personen bilden den Kern des **osu!-Teams** und sind hau
 | ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web Entwickler |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [Moderator](/wiki/People/Global_Moderation_Team), Berater für die Modding- und Mapping-Szene |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Moderator des [osu! YouTube-Kanals](https://www.youtube.com/@osugame), [Mappers' Guild](/wiki/Community/Mappers_Guild) Organisator, [Featured Artist](/wiki/People/Featured_Artists) Kontaktaufnahme |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Leiter des [NATs](/wiki/People/Nomination_Assessment_Team) |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Berater für die Modding- und Mapping-Szene |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [Moderator](/wiki/People/Global_Moderation_Team), [Wiki-Betreuer](/wiki/People/osu!_wiki_maintainers) |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Allgemeiner Hausmeister |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | osu!-Entwickler, osu!mania-Liebhaber, Fehlerbeseitiger |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | osu!-Entwickler |
+| ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | Designer |
 | ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) | osu!-Entwickler für die Infrastruktur |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Allgemeiner Hausmeister, Turnierassistent |
 | ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | Allgemeiner Hausmeister, Besenfeger |
