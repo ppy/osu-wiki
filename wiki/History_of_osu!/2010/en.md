@@ -20,7 +20,7 @@ A new osu! update made small improvements in the overall user interface and adde
 
 Through February to March, [peppy](https://osu.ppy.sh/users/2) organised an art competition dedicated to banners for in-game challenges, with the prize being the art's official recognition and a year of [osu!supporter](/wiki/osu!supporter) or physical goods. After a [community voting](https://osu.ppy.sh/community/forums/topics/27112?n=1) round, the osu! team made the final choice.[^art-challenge]
 
-On March 8, an osu! update brought mainly performance and audio improvements to the game.[^stable-b1485]
+On March 8, an osu! update brought considerable performance and audio improvements to the game.[^stable-b1485]
 
 ## April
 
