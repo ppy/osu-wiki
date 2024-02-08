@@ -7,8 +7,6 @@ tags:
   - beatmap de invitado
   - dificultades de invitado
   - mapa de invitado
-outdated_translation: true
-outdated_since: 027b9fddf66f3afb730270124a3771ae09ad8f77
 ---
 
 # Dificultad de invitado
@@ -29,4 +27,4 @@ Las dificultades de invitados no deben confundirse con las dificultades que pres
 
 En la [página de discusión del beatmap](/wiki/Beatmap_discussion), el anfitrión del beatmap puede transferir la propiedad de las dificultades de invitados a sus respectivos mappers a través del botón «Dueño de la dificultad». Esto permite que los propietarios de las dificultades de invitados resuelvan los problemas pendientes en sus dificultades por su cuenta.
 
-La propiedad de una dificultad de invitado no se puede cambiar si el beatmap está [calificado](/wiki/Beatmap/Category#qualified), [clasificado](/wiki/Beatmap/Category#ranked) o [amado](/wiki/Beatmap/Category#loved).
+Cuando un beatmap está [calificado](/wiki/Beatmap/Category#qualified), [clasificado](/wiki/Beatmap/Category#ranked) o [amado](/wiki/Beatmap/Category#loved), la propiedad de una dificultad de invitado no se podrá cambiar, excepto por miembros del [GMT](/wiki/People/Global_Moderation_Team) o del [NAT](/wiki/People/Nomination_Assessment_Team).
