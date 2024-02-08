@@ -116,7 +116,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
 | Japan ::{ flag=JP }:: | ::{ flag=RU }:: Russian Federation | [Feb 10 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240210T110000&p1=1440&p2=248&p3=166) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Thailand ::{ flag=TH }:: | ::{ flag=PL }:: Poland | [Feb 10 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240210T130000&p1=1440&p2=28&p3=262) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | China ::{ flag=CN }:: | ::{ flag=MY }:: Malaysia | [Feb 10 (Sat) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240210T153000&p1=1440&p2=33&p3=122) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| showmatch red | showmatch blue | []() |  | [^showmatch] |
 
 ### Sunday, 11 February 2024
 
