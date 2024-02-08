@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 7b4493e78ed64476dfbceea2330c8892b58ad8c8
 tags:
   - osu! staff
   - osu!staff
