@@ -167,10 +167,13 @@ Profile badge images must adhere to the following standards:
 - It must clearly display the logo, motif, or name of your tournament.
 - It must be cleanly designed and of reasonable visual quality.
 - It must not include any sort of sponsorship or promote anything besides the tournament.
+- Any assets must be specifically made for the tournament and adhere to the [content usage guidelines](/wiki/Rules/Content_usage_permissions).
+  - This does not include assets that are open-source or public-use (i.e. fonts, icons, etc).
+  - If assets that do not fall into the above category are used in a design, explicit approval from the original artist must be provided before approval.
 
 Please consult the following examples of approved badge designs:
 
-![](https://assets.ppy.sh/profile-badges/ysc4-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/perennial-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/timeskip-2021@2x.png)
+![](https://assets.ppy.sh/profile-badges/ysc4-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/perennial-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/TATHC2023@2x.png)
 
 Badge images that do not meet these standards will be refused with given reasoning, and you may be asked to completely redesign your badge in some cases. This is fairly uncommon, but should be accounted for.
 
