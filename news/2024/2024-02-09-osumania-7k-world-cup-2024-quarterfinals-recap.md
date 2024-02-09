@@ -55,7 +55,7 @@ Canada had a stronger edge on long note picks, whereas China was able to maintai
 
 The match ended up being decided by the tiebreaker, [Kobaryo - Radical Jinja](https://osu.ppy.sh/beatmapsets/2126942#mania/4471250). Despite both teams fighting fiercely for the victory, China was able to maintain a better pacing on a beatmap as physically and technically demanding as the tiebreaker was.
 
-And while China may've gotten the victory, the fact Canada—the Underdog of the match—was able to keep up with one of this year's favorites is a feat to be proud of!
+And while China may have got the victory, the fact Canada — the underdog of the match — was able to keep up with one of this year's favourites is a feat to be proud of!
 
 ### Philippines ::{ flag=PH }:: vs. ::{ flag=JP }:: Japan
 
@@ -63,17 +63,17 @@ And while China may've gotten the victory, the fact Canada—the Underdog of the
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=v2052935687&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-Philippines versus Japan is probably THE most awaited match of the Quarterfinals weekend. The Philippines, who are the defending champions, are hungry to continue their momentum; And Japan, a team with a lot of crowd favorites, wants to push for a tournament run of a lifetime.
+Philippines versus Japan is probably **the** most awaited match of the Quarterfinals weekend. The Philippines, who are the defending champions, are hungry to continue their momentum — and Japan, a team with a lot of crowd favourites, wants to push for a tournament run of a lifetime.
 
-The eternal "Rice vs Noodles" strategy is well in play for this match. Team PH opens the match with LN1, Oceanic Museum, and cruised to their first point, with Arona's FC on the chart. Team JP opts with RC4, Total Eclipse of the Sun, taking advantage of their players' accuracy. The rainlily and butanic duo eclipsed their opponents with an insane team score. The latter's score once again tops the chordjack leaderboards with only 37 regular 300s.
+The eternal "Rice vs Noodles" strategy is well in play for this match. Team PH opens the match with LN1, [Oceanic Museum](https://osu.ppy.sh/beatmapsets/2126926#mania/4471216), and cruised to their first point, with ::{ flag=PH }:: [Arona](https://osu.ppy.sh/users/8748664)'s FC on the chart. Team JP opts with RC4, [Total Eclipse of the Sun](https://osu.ppy.sh/beatmapsets/2126920#mania/4471208), taking advantage of their players' accuracy. The ::{ flag=JP }:: [rainlily](https://osu.ppy.sh/users/485007) and ::{ flag=JP }:: [butanic](https://osu.ppy.sh/users/1433586) duo eclipsed their opponents with an insane team score. The latter's score once again tops the chordjack leaderboards with only 37 regular 300s.
 
 The two teams continued their exchange, with no one conceding a break point on their picks. Some notable moments we'd like to highlight are:
 
-- Ojisan-'s (formerly - Kura -) clean 988k FC on LN4, Fansa
-- Team Japan's insane run on RC1, Zygorous Distribution. Both players only getting 5x200 each.
-- The entirety of HB1, Target for Love.
+- ::{ flag=PH }:: [Ojisan-](https://osu.ppy.sh/users/11420405)'s (formerly - Kura -) clean 988k FC on LN4, [Fansa](https://osu.ppy.sh/beatmapsets/2126931#mania/4471229)
+- Team Japan's insane run on RC1, [Zygorous Distribution](https://osu.ppy.sh/beatmapsets/2126913#mania/4471195). Both players only getting 5x200 each.
+- The entirety of HB1, [Target for Love](https://osu.ppy.sh/beatmapsets/2126930#mania/4471228).
 
-And this match wasn't crazy enough, it just had to end on a Tiebreaker. Japan kept it close for a good while on the chart, but the pair of Sanni and Ojisan- started to pull away when the difficulty increased. The Filipinos kept on their pace and ended this thrilling match, 6-5. This also sealed a rematch of the 2023 Grand Finals against South Korea.
+And this match wasn't crazy enough, it just had to end on a Tiebreaker. Japan kept it close for a good while on the chart, but the pair of ::{ flag=PH }:: [Sanni](https://osu.ppy.sh/users/3036686) and Ojisan- started to pull away when the difficulty increased. The Filipinos kept on their pace and ended this thrilling match, 6—5. This also sealed a rematch of the 2023 Grand Finals against South Korea.
 
 ---
 
