@@ -8,6 +8,8 @@ This article serves as guide to help you do minor edits to your audio files for 
 
 ## Audacity
 
+*Note: This article uses Audacity 3.4.2.*
+
 [Audacity](https://www.audacityteam.org/download) is a free, open-source audio editing and recording software. It uses the [LAME](https://lame.sourceforge.io) encoding library to be able to export audio in the MP3 audio format and is built into Audacity on Windows and macOS.
 
 Linux users should refer to the [Audacity Reference Manual](https://manual.audacityteam.org/man/installing_and_updating_audacity_on_linux.html#linlame) for more information, as certain Linux distributions may not provide LAME when installing Audacity, but most do provide it.
@@ -19,15 +21,16 @@ Linux users should refer to the [Audacity Reference Manual](https://manual.audac
 Install and open Audacity, then follow these steps:
 
 1. Open the `.mp3` file that you want to lower the bit rate on.
-2. Press `Ctrl` + `Shift` + `E`, then in `Save as type:` select `MP3 Files`, or:
-   1. Click `File`, then `Export`, then `Export as MP3`.
-3. In the `Format Options`, change the following settings: 
+2. Press `Ctrl` + `Shift` + `E`, or click `File` -> `Export Audio...`.
+3. In `Format:` select `MP3 Files`.
+4. In the `Audio options`, change the following settings:
    1. `Bit Rate Mode`: `Preset`
    2. `Quality`: `Medium, 145-185 kbps`
-4. Navigate to the location you want to save the file as.
-   - You could rename the file too.
-5. Click `Save` and a dialog will appear to enter metadata.
-6. Click `OK` once done entering metadata.
+5. Edit `File Name:` and `Folder:` to determine the location and name you want to save the file as.
+   - You could also use the `Browse...` button to navigate.
+6. If you would like to edit the metadata of the file, click `Edit Metadata...`.
+7. Click `OK` once done editing metadata.
+8. Click `Export` to export the audio file.
 
 ### Looping
 
@@ -37,25 +40,13 @@ Install and open Audacity then follow these steps:
 2. Click and drag to highlight the parts you want to loop.
    - Rarely, it would be the start to the end of the music.
    - Sometimes the chorus or refrain is where looping is done best.
-3. Press `Ctrl` + `C`, or
-   1. Click `Edit`
-   2. Click `Copy`
+3. Press `Ctrl` + `C`, or click `Edit` -> `Copy`.
 4. Find a location for where you can loop the part you have copied.
    - This could be the end of the part you had highlighted.
-5. Press `Ctrl` + `V`, or
-   1. Click `Edit`
-   2. Click `Paste`
+5. Press `Ctrl` + `V`, or click `Edit` -> `Paste`.
 6. Play through the entire music and make sure that the loop sounds good.
 7. Repeat as needed.
-8. Press `Ctrl` + `Shift` + `E`, then in `Save as type:` select `MP3 Files`, or:
-   1. Click `File`, then `Export`, then `Export as MP3`.
-9. In the `Format Options`, change the following settings: 
-   1. `Bit Rate Mode`: `Preset`
-   2. `Quality`: `Medium, 145-185 kbps`
-10. Navigate to the location you want to save the file as.
-    - You could rename the file too.
-11. Click `Save` and a dialog will appear to enter metadata.
-12. Click `OK` once done entering metadata.
+8. [Export](#lowering-bit-rate) the audio file.
 
 ### Cropping
 
@@ -64,19 +55,10 @@ Install and open Audacity, then follow these steps:
 1. Open the `.mp3` file that you want to crop.
 2. Click and drag to highlight the parts you want to crop.
    - This should be the long outro that you don't want to map.
-3. Press `Delete`.
+3. Press `Delete` or `Ctrl` + `K`, or click `Edit` -> `Delete`.
 4. Click and drag the last 3 to 5 seconds towards the end.
-5. Click `Effect`.
-6. Click `Fade Out`.
-7. Press `Ctrl` + `Shift` + `E`, then in `Save as type:` select `MP3 Files`, or:
-   1. Click `File`, then `Export`, then `Export as MP3`.
-8. In the `Format Options`, change the following settings: 
-   1. `Bit Rate Mode`: `Preset`
-   2. `Quality`: `Medium, 145-185 kbps`
-9. Navigate to the location you want to save the file as.
-   - You could rename the file too.
-10. Click `Save` and a dialog will appear to enter metadata.
-11. Click `OK` once done entering metadata.
+5. Click `Effect` -> `Fading` -> `Fade Out`.
+6. [Export](#lowering-bit-rate) the audio file.
 
 ## mp3DirectCut
 
@@ -90,14 +72,10 @@ Install and open mp3DirectCut, then follow these steps:
 2. Click and drag to highlight the parts you want to loop.
    - Rarely, it would be the start to the end of the music.
    - Sometimes the chorus or refrain is where looping is done best.
-3. Press `Ctrl` + `C`, or
-   1. Click `Edit`
-   2. Click `Copy`
+3. Press `Ctrl` + `C`, or click `Edit` -> `Copy`.
 4. Find a location for where you can loop the part you have copied.
    - This could be the end of the part you had highlighted.
-5. Press `Ctrl` + `V`, or
-   1. Click `Edit`
-   2. Click `Paste`
+5. Press `Ctrl` + `V`, or click `Edit` -> `Paste`.
 6. Play through the entire music and make sure that the loop sounds good.
 7. Repeat as needed.
 8. Press `Ctrl` + `W`, or
@@ -118,7 +96,7 @@ Install and open mp3DirectCut, then follow these steps:
 4. Click and drag the last 3 to 5 seconds towards the end.
 5. Press `Ctrl` + `F`, or
    1. Click `Edit`.
-   2. Click `Simple fade to/from position`.
+   2. Click `Simple fade`.
 6. Press `Ctrl` + `W`, or
    1. Click `File`.
    2. Click `Save complete audio...`.
@@ -134,7 +112,7 @@ Install and open mp3DirectCut, then follow these steps:
 2. Press `Ctrl` + `A` to select all.
 3. Press `Ctrl` + `G`, or
    1. Click `Edit`
-   2. Click `Gain...`
+   2. Click `Level...`
 4. Check the `Lock Sliders` checkbox.
 5. Take the left slider and lower it.
    - The dB (decibels) you set it to will vary, just try various volumes until you get it right.
