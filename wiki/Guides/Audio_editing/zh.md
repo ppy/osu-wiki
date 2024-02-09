@@ -14,7 +14,7 @@
 
 ### 降低比特率
 
-*对于压缩相关的一般信息，参见：[压缩文件](/wiki/Guides/Com按下ing_files)*
+*对于压缩相关的一般信息，参见：[压缩文件](/wiki/Guides/Compressing_files)*
 
 安装并打开 Audacity，按如下步骤操作：
 
