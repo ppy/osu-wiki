@@ -20,7 +20,7 @@ The Quarterfinals have concluded, and due to the unusual way the brackets have b
 
 ## Quarterfinals results
 
-Quarterfinals tend to be the transitional round between the early game and late game of a tournament. It's the phase where being able to keep up physically whilst maintaining a good accuracy tends to prove a challenge. Only the teams who were able to balance both of these two aspects would be able to move into the next round!
+Quarterfinals tend to be the transitional round between the early game and late game of a tournament. It's the phase where being able to keep up physically whilst maintaining good accuracy tends to prove a challenge. Only the teams who were able to balance both of these two aspects would be able to move into the next round!
 
 | Team A |  |  | Team B |
 | --: | :-: | :-: | :-- | :-- | :-- |
@@ -49,13 +49,13 @@ Quarterfinals tend to be the transitional round between the early game and late 
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=v2051648293&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-China was by far one of this year's runner-ups for a podium placement, and their #2 seed placement should be enough proof of that. Despite that, nobody was going to expect a match as frenetic as this. Canada went hammer and tongs in their match and posed quite a challenge!
+China was by far one of biggest contenders for the podium, and their #2 seed placement should be enough proof of that. Despite that, nobody was going to expect a match as frenetic as this. Canada went hammer and tongs in their match and posed quite a challenge!
 
-Canada had a stronger edge on long note picks, whereas China was able to maintain their back and forth thanks to the rice and hybrid picks. Despite that, China was able to gain a small advantage in [Lime - 8bit Adventure](https://osu.ppy.sh/beatmapsets/2126941#mania/4471249) by stealing Canada's pick. And right when China reached their match point going 5—3 against the Canadians, ::{ flag=CA }:: [Dale940](https://osu.ppy.sh/users/13847951) and ::{ flag=CA }:: [UmmmMrMoo](https://osu.ppy.sh/users/15314355) were able to control their nerves and get the match back to a tie!
+Canada had a stronger edge on long note picks, whereas China was able to maintain an even scoreline thanks to the rice and hybrid picks. Despite that, China was able to gain a small advantage in [Lime - 8bit Adventure](https://osu.ppy.sh/beatmapsets/2126941#mania/4471249) by stealing Canada's pick. And right when China reached their match point going 5–3 against the Canadians, ::{ flag=CA }:: [Dale940](https://osu.ppy.sh/users/13847951) and ::{ flag=CA }:: [UmmmMrMoo](https://osu.ppy.sh/users/15314355) were able to control their nerves and get the match back to a tie!
 
-The match ended up being decided by the tiebreaker, [Kobaryo - Radical Jinja](https://osu.ppy.sh/beatmapsets/2126942#mania/4471250). Despite both teams fighting fiercely for the victory, China was able to maintain a better pacing on a beatmap as physically and technically demanding as the tiebreaker was.
+The match ended up being decided by [Kobaryo - Radical Jinja](https://osu.ppy.sh/beatmapsets/2126942#mania/4471250). Despite both teams fighting fiercely for the victory, China was able to better keep up with the physically and technically demanding tiebreaker.
 
-And while China may have got the victory, the fact Canada — the underdog of the match — was able to keep up with one of this year's favourites is a feat to be proud of!
+And while China may have got the victory, the fact that Canada — the underdog of the match — was able to keep up with one of this year's favourites is a feat to be proud of!
 
 ### Philippines ::{ flag=PH }:: vs. ::{ flag=JP }:: Japan
 
@@ -63,20 +63,20 @@ And while China may have got the victory, the fact Canada — the underdog of th
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=v2052935687&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-Philippines versus Japan is probably **the** most awaited match of the Quarterfinals weekend. The Philippines, who are the defending champions, are hungry to continue their momentum — and Japan, a team with a lot of crowd favourites, wants to push for a tournament run of a lifetime.
+Philippines versus Japan is probably **the** most awaited match of the Quarterfinals weekend. The Philippines, the defending champions, are hungry to continue their momentum, while Japan, a team often favoured among the crowd, wants to push for a tournament run of a lifetime.
 
-The eternal "rice vs noodles" strategy is well in play for this match. Team PH opens the match with LN1, [Oceanic Museum](https://osu.ppy.sh/beatmapsets/2126926#mania/4471216), and cruised to their first point, with ::{ flag=PH }:: [Arona](https://osu.ppy.sh/users/8748664)'s FC on the chart. Team JP opts with RC4, [Total Eclipse of the Sun](https://osu.ppy.sh/beatmapsets/2126920#mania/4471208), taking advantage of their players' accuracy. The ::{ flag=JP }:: [rainlily](https://osu.ppy.sh/users/485007) and ::{ flag=JP }:: [butanic](https://osu.ppy.sh/users/1433586) duo eclipsed their opponents with an insane team score. The latter's score once again tops the chordjack leaderboards with only 37 regular 300s.
+The eternal "rice vs. noodles" strategy is well in play for this match. Team Philippines opens the match with LN1, [Oceanic Museum](https://osu.ppy.sh/beatmapsets/2126926#mania/4471216), and cruised to their first point, with ::{ flag=PH }:: [Arona](https://osu.ppy.sh/users/8748664)'s FC on the chart. Team Japan opts with RC4, [Total Eclipse of the Sun](https://osu.ppy.sh/beatmapsets/2126920#mania/4471208), taking advantage of their players' accuracy. The ::{ flag=JP }:: [rainlily](https://osu.ppy.sh/users/485007) and ::{ flag=JP }:: [butanic](https://osu.ppy.sh/users/1433586) duo eclipsed their opponents with an insane team score, with butanic once again topping the chordjack leaderboards with only 37 regular 300s.
 
 The two teams continued their exchange, with no one conceding a break point on their picks. Some notable moments we'd like to highlight are:
 
-- ::{ flag=PH }:: [Ojisan-](https://osu.ppy.sh/users/11420405)'s (formerly - Kura -) clean 988k FC on LN4, [Fansa](https://osu.ppy.sh/beatmapsets/2126931#mania/4471229)
-- Team Japan's insane run on RC1, [Zygorous Distribution](https://osu.ppy.sh/beatmapsets/2126913#mania/4471195). Both players only getting 5x200 each.
-- The entirety of HB1, [Target for Love](https://osu.ppy.sh/beatmapsets/2126930#mania/4471228).
+- ::{ flag=PH }:: [Ojisan-](https://osu.ppy.sh/users/11420405)'s (formerly - Kura -) clean 988k FC on LN4, [GOSEGU - Fansa](https://osu.ppy.sh/beatmapsets/2126931#mania/4471229)
+- Team Japan's insane run on RC1, [Aquellex - Zygorous Distribution](https://osu.ppy.sh/beatmapsets/2126913#mania/4471195). Both players only getting 5x200 each.
+- The entirety of HB1, [Mitsukiyo & Lee Jin Ah - Target for Love](https://osu.ppy.sh/beatmapsets/2126930#mania/4471228).
 
-And this match wasn't crazy enough, it just had to end on a Tiebreaker. Japan kept it close for a good while on the chart, but the pair of ::{ flag=PH }:: [Sanni](https://osu.ppy.sh/users/3036686) and Ojisan- started to pull away when the difficulty increased. The Filipinos kept on their pace and ended this thrilling match, 6—5. This also sealed a rematch of the 2023 Grand Finals against South Korea.
+As if this match wasn't crazy enough, it just had to end on a tiebreaker. Japan kept it close for a good while on the chart, but the pair of ::{ flag=PH }:: [Sanni](https://osu.ppy.sh/users/3036686) and Ojisan- started to pull away when the difficulty increased. The Filipinos kept their pace and ended this thrilling match at 6–5. This also sealed a rematch of the 2023 Grand Finals against South Korea, coming right up this Sunday!
 
 ---
 
-As always, we hope everyone's been liking the tournament thus far. We sure have! To keep up with the streams coming up please check the [osu!live Twitch channel](https://www.twitch.tv/osulive) and the [wiki article](/wiki/Tournaments/MWC/2024_7K) for more information and updated results, mappools, and schedules.
+As always, we hope everyone's been liking the tournament thus far. We sure have! To keep up with the streams coming up please check the [osulive Twitch channel](https://www.twitch.tv/osulive) and the [wiki article](/wiki/Tournaments/MWC/2024_7K) for more information and updated results, mappools, and schedules.
 
 —0x84f, kadoen, RandomeLoL, SurfChu85
