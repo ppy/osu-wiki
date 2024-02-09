@@ -2,7 +2,7 @@
 
 *[Full Submission with Title/Artist Change -- Mistakes，作者 NoHitter（已由 peppy 控制）](https://osu.ppy.sh/community/forums/topics/24443)*
 
-修改谱面的 **标题或艺术家** 时可能会出现问题，在不创建重复谱面的情况下无法提交谱面。
+修改谱面的 **艺术家或标题** 时可能会出现问题，在不创建重复谱面的情况下无法提交谱面。
 
 **如果编辑器的“网络相关”菜单被禁用了，就不要提交谱面。你的谱面会重复的。**
 
