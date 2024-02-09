@@ -1,4 +1,5 @@
 ---
+no_native_review: true
 stub: true
 tags:
   - perfect
@@ -6,8 +7,6 @@ tags:
   - game modifier
   - PF
   - modificateur de jeu
-outdated_translation: true
-outdated_since: d8754759b3d191925fe04a3fd90689e2c5245566
 ---
 
 # Le mod Perfect
@@ -15,9 +14,9 @@ outdated_since: d8754759b3d191925fe04a3fd90689e2c5245566
 ![Icône du mod PF](/wiki/shared/mods/PF.png "Icône du mod Perfect (PF)")
 
 *Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Gameplay/Game_modifier)*\
-*Voir aussi : [Sudden Death (mod)](/wiki/Gameplay/Game_modifier/Sudden_Death)*
+*Voir également : [Sudden Death (mod)](/wiki/Gameplay/Game_modifier/Sudden_Death)*
 
-## À propos
+## Informations
 
 - Abréviation : PF
 - Type : Augmentation de la difficulté
@@ -29,28 +28,27 @@ outdated_since: d8754759b3d191925fe04a3fd90689e2c5245566
 
 ## Description
 
-Le mod **Perfect** est un [modificateur de jeu](/wiki/Gameplay/Game_modifier) qui vise à aider les joueurs qui cherchent à obtenir une note SS en échouant automatiquement et en réessayant les [beatmaps](/wiki/Beatmap) lorsqu'ils manquent une note ou obtiennent un score sur un [objet](/wiki/Gameplay/Hit_object) autre que 300 ou plus.
+Le mod **Perfect** est un [modificateur de jeu](/wiki/Gameplay/Game_modifier) qui a pour but d'aider les joueurs qui visent une note SS en échouant automatiquement et en réessayant les [beatmaps](/wiki/Beatmap) si le joueur rate une note ou obtient un jugement sur un [objet](/wiki/Gameplay/Hit_object) autre que GREAT.
 
 L'une des actions suivantes **entraînera** le redémarrage de la beatmap par le mod Perfect :
 
 - Manquer une note
-- Obtenir un `100` ou un `50`
-- Échec d'un spinner
-- Sliderbreaking
+- L'obtention d'un OK ou d'un MEH
+- Rater un spinner
+- Rater la [tail](/wiki/Gameplay/Hit_object/Slider/Slidertail) d'un slider ou faire un [slider break](/wiki/Gameplay/Judgement/Slider_break).
 
 L'une des actions suivantes **ne fera pas** redémarrer la beatmap par le mod Perfect :
 
-- Obtention d'un `300`
+- Obtenir un GREAT
 - Compléter un spinner
-- Obtention d'un score Rainbow 300/MAX dans le mode ([osu!mania](/wiki/Game_mode/osu!mania))
-- Obtention d'un score de 300 (dans le mode osu!mania)
+- Obtenir un PERFECT ([osu!mania](/wiki/Game_mode/osu!mania))
+- Obtenir un MEH/OK/GOOD sur la head/tail d'une note longue dans [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) ([osu!mania](/wiki/Game_mode/osu!mania))
 
 Ce mod a le même effet sur tous les [modes de jeu](/wiki/Game_mode).
 
 ## Le saviez-vous ?
 
-- S'il y a un prologue à sauter, le mod Perfect ne le sautera pas automatiquement parce qu'il utilise la fonctionnalité de redémarrage par opposition à la répétition rapide.
-- Le mod Perfect est une variante du mod [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_Death).
+- Si un prologue peut être ignoré, le mod Perfect ne le fera pas automatiquement, car il utilise la fonctionnalité de restart, par opposition à un retry rapide.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

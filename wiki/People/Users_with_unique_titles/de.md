@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 09238489fa03b6decf831f6781f0cddff25b853d
+---
+
 # Benutzer mit einzigartigen Titeln
 
 Nutzertitel sind in der Regel mit [Benutzergruppen](/wiki/People/User_group) verbunden, aber die unten aufgelisteten Benutzer haben ihre Titel aus anderen Gründen erhalten. Die meisten Titel waren Auszeichnungen für Beiträge oder Errungenschaften, wobei die übrigen Titel Symbole der kultigen oder lustigen osu!-Geschichte sind.
@@ -35,14 +40,14 @@ Gewinner des [CWC 2022](/wiki/Tournaments/CWC/2022) mit dem Nutzertitel **osu!ca
 - ::{ flag=KR }:: [Rells](https://osu.ppy.sh/users/7937519)
 - ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276)
 
-Gewinner des [MWC 4K 2022](/wiki/Tournaments/MWC/2022_4K) mit dem Nutzertitel **osu!mania 4K Champion**:
+Gewinner des [MWC 4K 2023](/wiki/Tournaments/MWC/2023_4K) mit dem Nutzertitel **osu!mania 4K Champion**:
 
-- ::{ flag=KR }:: [Flying Samira](https://osu.ppy.sh/users/10329095)
-- ::{ flag=KR }:: [gaesol](https://osu.ppy.sh/users/12452131)
-- ::{ flag=KR }:: [lianic](https://osu.ppy.sh/users/13975661)
-- ::{ flag=KR }:: [Poca](https://osu.ppy.sh/users/8581031)
-- ::{ flag=KR }:: [SuddenDeath](https://osu.ppy.sh/users/6699923)
-- ::{ flag=KR }:: [SnowScent](https://osu.ppy.sh/users/7945868)
+- ::{ flag=US }:: [\[LS\]Dev](https://osu.ppy.sh/users/16407268)
+- ::{ flag=US }:: [cafesito](https://osu.ppy.sh/users/7794488)
+- ::{ flag=US }:: [Hello\_Son](https://osu.ppy.sh/users/17308009)
+- ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610)
+- ::{ flag=US }:: [PeachMarrow](https://osu.ppy.sh/users/15926730)
+- ::{ flag=US }:: [TristanJacob11](https://osu.ppy.sh/users/11817838)
 
 Gewinner des [MWC 7K 2023](/wiki/Tournaments/MWC/2023_7K) mit dem Nutzertitel **osu!mania 7K Champion**:
 
@@ -122,6 +127,7 @@ Gewinner der vorherigen osu!mania World Cups mit dem Nutzertitel **Former osu!ma
 | [MWC 4K 2020](/wiki/Tournaments/MWC/2020_4K) | Former osu!mania 4K Champion: 2020 | ::{ flag=BR }:: [Guilhermeziat](https://osu.ppy.sh/users/3661387), ::{ flag=BR }:: [Kyut](https://osu.ppy.sh/users/9328824), ::{ flag=BR }:: [Punnies](https://osu.ppy.sh/users/8700468) |
 | [MWC 4K 2021](/wiki/Tournaments/MWC/2021_4K) | Former osu!mania 4K Champion: 2021 | ::{ flag=BR }:: [Amerom](https://osu.ppy.sh/users/5691061), ::{ flag=BR }:: [Lenn](https://osu.ppy.sh/users/11236829), ::{ flag=BR }:: [LeMarcinho](https://osu.ppy.sh/users/13347579), ::{ flag=BR }:: [Lothus](https://osu.ppy.sh/users/9530019), ::{ flag=BR }:: [Orost](https://osu.ppy.sh/users/13601876), ::{ flag=BR }:: [SillyFangirl](https://osu.ppy.sh/users/2288363) |
 | [MWC 7K 2022](/wiki/Tournaments/MWC/2022_7K) | Former osu!mania 7K Champion: 2022 | ::{ flag=KR }:: [0133](https://osu.ppy.sh/users/12346181), ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406), ::{ flag=KR }:: [Estonians](https://osu.ppy.sh/users/7014697), ::{ flag=KR }:: [yz1155](https://osu.ppy.sh/users/2071008) |
+| [MWC 4K 2022](/wiki/Tournaments/MWC/2022_4K) | Former osu!mania 4K Champion: 2022 | ::{ flag=KR }:: [Flying Samira](https://osu.ppy.sh/users/10329095), ::{ flag=KR }:: [gaesol](https://osu.ppy.sh/users/12452131), ::{ flag=KR }:: [lianic](https://osu.ppy.sh/users/13975661), ::{ flag=KR }:: [Poca](https://osu.ppy.sh/users/8581031), ::{ flag=KR }:: [SuddenDeath](https://osu.ppy.sh/users/6699923), ::{ flag=KR }:: [SnowScent](https://osu.ppy.sh/users/7945868) |
 
 ## Gewinner von offiziellen Mapping-Wettbewerben
 
@@ -174,7 +180,7 @@ Die meisten offiziellen Mapping-Wettbewerbe bieten den Titel **Elite Mapper** al
 
 ## Elite Nominators
 
-*Startseite: [Elite Nominators](/wiki/People/Elite_Nominators)*
+*Hauptseite: [Elite Nominators](/wiki/People/Elite_Nominators)*
 
 Seit 2020 werden Mitglieder der [Beatmap-Nominators](/wiki/People/Beatmap_Nominators) und des [Nomination-Assessment-Teams](/wiki/People/Nomination_Assessment_Team) mit einer außergewöhnlichen Leistung zur Unterstützung des Ranglistensystems in einem bestimmten Jahr mit dem Titel **Elite Nominator** ausgezeichnet. Dieser Titel wird zu Beginn jedes Jahres für Beiträge vergeben, die während dem vergangen Jahr gemacht wurden, und halten etwa ein Jahr lang oder bis der Benutzer das Team verlässt.
 
@@ -291,6 +297,7 @@ Diese Nutzer erhielten ihre entsprechenden Titel dafür, dass sie einen wesentli
 | ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) | osu! Paragon |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | World Cup Organiser |
 | ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) | osu!painter |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | osu!taiko Paragon |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch Paragon |
 | ::{ flag=DE }:: [LastExceed](https://osu.ppy.sh/users/6232245) | Master of the Fade |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | World Cup Organiser |
@@ -312,6 +319,7 @@ Diese Nutzer bekamen ihre entsprechenden Titel aus verschiedenen Gründen.
 | :-- | :-- |
 | ::{ flag=SH }:: [BanchoBot](https://osu.ppy.sh/users/3) | w00t p00t |
 | ::{ flag=US }:: [Derekku](https://osu.ppy.sh/users/91341) | COOL DUDE |
+| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Inland Empire |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Popcorn Fairy |
 | ::{ flag=AU }:: [phill_old](https://osu.ppy.sh/users/53) | ¿ |
 | ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Former osu! Champion: 2019 / Grilled Dodongo |

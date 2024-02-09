@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The osu! YouTube legacy of ReeseWasHere"
+title: The osu! YouTube legacy of ReeseWasHere
 date: 2023-06-02 22:00:00 +0000
 ---
 
@@ -22,7 +22,7 @@ Emboldened by the hype from the community and finding himself in college with a 
 
 Many iconic plays forever engraved into osu! history were captured during this period, such as the [1st-ever FC on *IMAGE -MATERIAL-*](https://www.youtube.com/watch?v=Vm-zilvu8F0), the [1st-ever FC on *Everything will freeze*](https://www.youtube.com/watch?v=5d432cQoT-c) and the [1st-ever 700 pp score on *Blue Zenith*](https://www.youtube.com/watch?v=UYNpkDrCWtA), from which the "727" meme was born only to refuse to die to this day ([thanks Aireu](https://www.youtube.com/watch?v=AaAF51Gwbxo&t=72s)).
 
-Unknown to him in the moment, Reese's YouTube channel was starting to turn into a time capsule of a simpler era, what some commentators today consider to be the "golden age of osu!". At the time, the combination of the hype towards fierce competition for the #1 spot, a legendary player returning and the mapping meta shifting to "pp mapping" (allowing for *big* pp numbers) was spurring the community into a score-craving frenzy. 
+Unknown to him in the moment, Reese's YouTube channel was starting to turn into a time capsule of a simpler era, what some commentators today consider to be the "golden age of osu!". At the time, the combination of the hype towards fierce competition for the #1 spot, a legendary player returning and the mapping meta shifting to "pp mapping" (allowing for *big* pp numbers) was spurring the community into a score-craving frenzy.
 
 High-achieving players such as [Rafis](https://osu.ppy.sh/users/2558286), [Angelsim](https://osu.ppy.sh/users/1777162) and Cookiezi would all log on to a sea of viewers and spectators. Foundations were laid for practices like "replay recording", paving the way for YouTube channels such as [Circle People](https://www.youtube.com/@CirclePeople) to do just that later in 2016, beginning a period of fierce competition between channels fighting to be the first to snatch the latest big play.
 

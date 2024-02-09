@@ -32,7 +32,7 @@ Excited? You should be! Now, go vote:
 - [osu!catch](https://osu.ppy.sh/community/contests/140)
 - [osu!mania](https://osu.ppy.sh/community/contests/141)
 
-The voting will remain open for **14 days** from the date of this post, so make sure to get involved quick! 
+The voting will remain open for **14 days** from the date of this post, so make sure to get involved quick!
 
 If you don't, you'll risk having to fume at having no say in who ends up as the Community Favourites. In all honesty, even if you do, some of you are going to fume anyway. At least if you vote, you can pretend you're some kind of anime protagonist raging against the tyranny of an unfair world, so go vote, Kirito!
 

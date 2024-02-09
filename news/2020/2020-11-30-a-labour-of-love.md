@@ -42,20 +42,20 @@ Once all of these are completed, the winners will be announced!
 
 No such thing as a contest without prizes! Unlike most contests however, there's a few different ways to earn prizes this time around.
 
-Two groups will handle judging: **mappers (including storyboarders!)** and **musicians**. They'll be expected to evaluate the full package — the remixed song + beatmap + storyboard/video combo. 
+Two groups will handle judging: **mappers (including storyboarders!)** and **musicians**. They'll be expected to evaluate the full package — the remixed song + beatmap + storyboard/video combo.
 
 Each group has its own specialty of course, so we'll be rewarding prizes to the all members of the highest scoring team from each panel.
 
 ### Mapper panel
 
-- **Runner-up:** 3 months of osu!supporter 
+- **Runner-up:** 3 months of osu!supporter
 - **Winner:**  6 months of osu!supporter + *Mappers' Pick* profile badge
 
 ![Mappers' Pick profile badge](/wiki/shared/news/2020-11-30-a-labour-of-love/alol_mapperspick.png)
 
 ### Musician panel
 
-- **Runner-up:** 3 months of osu!supporter 
+- **Runner-up:** 3 months of osu!supporter
 - **Winner:**  6 months of osu!supporter + *Musicians' Pick* profile badge
 
 ![Musicians' Pick profile badge](/wiki/shared/news/2020-11-30-a-labour-of-love/alol_musicianspick.png)

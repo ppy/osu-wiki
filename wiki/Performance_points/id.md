@@ -97,11 +97,11 @@ Pertimbangkan tip-tip berikut ini:
 - Berusahalah untuk meningkatkan akurasimu. Bahkan 1% saja sudah membuat perbedaan yang sangat besar.
 - Berusahalah untuk mencapai kombo yang lebih banyak. Full Combo (FC) atau skor [SS](/wiki/Gameplay/Grade) dapat memberikan jumlah skor yang sangat banyak.
 
-### Kenapa saya tidak mendapatkan seluruh jumlah pp dari map yang saya telah mainkan? 
+### Kenapa saya tidak mendapatkan seluruh jumlah pp dari map yang saya telah mainkan?
 
 Performance points menggunakan sistem pemboboton, yang berarti skor paling tinggimu memberikan 100% jumlah pp-nya, dan setiap skor yang kamu dapatkan setelahnya memberikan lebih sedikit secara bertahap.
 
-Kamu bisa mempelajari lebih lanjut tentang sistem pemboboton [di atas](#sistem-pembobotan). 
+Kamu bisa mempelajari lebih lanjut tentang sistem pemboboton [di atas](#sistem-pembobotan).
 
 ### Berapa banyak pp bonus yang diberikan untuk mendapatkan skor dalam banyak beatmap Ranked?
 

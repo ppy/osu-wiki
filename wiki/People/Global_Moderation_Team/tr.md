@@ -12,7 +12,7 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 
 *Ayrıca bakınız: [Mod (anlam ayrımı)](/wiki/Disambiguation/Mod).*
 
-**Küresel Moderasyon Takımı** *(Global Moderation Team)* (eski ismiyle Global Mod Takımı, Adminler, ya da GreenBAT), yaygın adıyla **GMT**, temel olarak oyuncu moderasyonu ve takım ile topluluğun bütününü etkileyen konular ile ilgilenen topluluk üyeleridir. Onlar, oyun içinde kırmızı ve forumlarda limon yeşili olan kullanıcı ünvanları ve isim renkleriyle ayırt edilirler.  
+**Küresel Moderasyon Takımı** *(Global Moderation Team)* (eski ismiyle Global Mod Takımı, Adminler, ya da GreenBAT), yaygın adıyla **GMT**, temel olarak oyuncu moderasyonu ve takım ile topluluğun bütününü etkileyen konular ile ilgilenen topluluk üyeleridir. Onlar, oyun içinde kırmızı ve forumlarda limon yeşili olan kullanıcı ünvanları ve isim renkleriyle ayırt edilirler.
 
 **Tüm Küresel Moderatörler, normal [Topluluk Kurallarının](/wiki/Rules) yanısıra, [İştirakçi Etik Davranış Kurallarına](/wiki/Rules/Contributor_code_of_conduct) uyacaklarına dair ant içmişlerdir.**
 
@@ -36,10 +36,10 @@ Küresel Moderasyon Takımı üyesi olmak dikkate değer bir miktar katkıda bul
 
 Tavır ve davranışlar, aktiflik durumu, [kurallara](/wiki/Rules) uyum, ve sabırlı olmak adaylık için en önemli faktörlerdendir:
 
-1. Diğer kullanıcılara karşı kibar ve saygılı davranarak olumlu tutumunuzu gösterebilirsiniz. Hesabınızı ciddi susturulma cezalarından veya problemlerden uzak tutmak çok önemlidir. 
-2. Oyun içerisindeki aktifliğinizi sohbet veya forum içerisindeki tartışmalara, muhabbetlere katılarak gösterin. Uygunsuz davranışları ve sorunları [rapor sistemiyle rapor edin](/wiki/Reporting_bad_behaviour). Soruları cevaplayın, diğerlerinin sorunlarında onlara yardımcı olun. 
+1. Diğer kullanıcılara karşı kibar ve saygılı davranarak olumlu tutumunuzu gösterebilirsiniz. Hesabınızı ciddi susturulma cezalarından veya problemlerden uzak tutmak çok önemlidir.
+2. Oyun içerisindeki aktifliğinizi sohbet veya forum içerisindeki tartışmalara, muhabbetlere katılarak gösterin. Uygunsuz davranışları ve sorunları [rapor sistemiyle rapor edin](/wiki/Reporting_bad_behaviour). Soruları cevaplayın, diğerlerinin sorunlarında onlara yardımcı olun.
 3. [Kurallar](/wiki/Rules) ve nasıl uygulandığı hakkında doğru bir anlayışınız olsun. osu! içerisinde neyin kabul edilebilir neyin edilemez konusunda bilginizin olması önemlidir.
-4. Sabırlı olun. GMT sadece birkaç gün boyunca yardım eden kullanıcıları rastgele takıma almaz. GMT’nin kullanıcıları değerlendirmesi – onların kişiliği, hangi konuda yardımcı olabilirler, ne kadar aktifler vs. - biraz zaman alan bir süreçtir. 
+4. Sabırlı olun. GMT sadece birkaç gün boyunca yardım eden kullanıcıları rastgele takıma almaz. GMT’nin kullanıcıları değerlendirmesi – onların kişiliği, hangi konuda yardımcı olabilirler, ne kadar aktifler vs. - biraz zaman alan bir süreçtir.
 
 Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adına adaylar takım üyeleri tarafından birkaç hafta veya ay gözlemlenir. Lütfen sabırlı olun ve aşırıya kaçmayın. Kurallar, kullanıcı raporlama, gibi her türlü sorunlarınızı GMT içerisindeki herhangi birisine sormaktan çekinmeyin.
 
@@ -158,7 +158,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | `#korean` | [한국어](https://osu.ppy.sh/community/forums/58) | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236) |
 | `#malaysian` | [Malaysian](https://osu.ppy.sh/community/forums/94) | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419), ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) |
 | `#polish` | [Polski](https://osu.ppy.sh/community/forums/26) | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570), ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631), ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) |
-| `#portuguese` | [Português](https://osu.ppy.sh/community/forums/74) | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109), ::{ flag=BR }:: [Nukrid](https://osu.ppy.sh/users/2307484)  |
+| `#portuguese` | [Português](https://osu.ppy.sh/community/forums/74) | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109), ::{ flag=BR }:: [Nukrid](https://osu.ppy.sh/users/2307484) |
 | `#romanian` |  |  |
 | `#russian` | [Русский](https://osu.ppy.sh/community/forums/35) | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467), ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533), ::{ flag=RU }:: [Kudou Chitose](https://osu.ppy.sh/users/9936528), ::{ flag=RU }:: [Kyubey](https://osu.ppy.sh/users/2195646), ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) |
 | `#skandinavian` | [Skandinavien](https://osu.ppy.sh/community/forums/77) | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) |

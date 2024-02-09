@@ -44,7 +44,7 @@ The release marks a cardinal juncture in the band's musical development whose mo
 
 No Featured Artist news post would be complete without its premier reminder that all of the above tracks and more are available NOW over on [**River of Nihil**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/63). Download your pre-timed beatmap template for free while supplies last!
 
-Like we've done for the last few releases, make sure to check the [@osugame Twitter](https://twitter.com/osugame) for a mid-week hint at who will be gracing your eardrums next week! Who knows, maybe you'll get a shoutout if you can correctly decipher our riddles. 
+Like we've done for the last few releases, make sure to check the [@osugame Twitter](https://twitter.com/osugame) for a mid-week hint at who will be gracing your eardrums next week! Who knows, maybe you'll get a shoutout if you can correctly decipher our riddles.
 
 Speaking of shoutouts, congratulations to [SILENCE PLAYER](https://osu.ppy.sh/users/6381153) who correctly called it. This one was probably our hardest one yet as far as hints go. Check back in the middle of the week for another one and test your wits (or luck).
 

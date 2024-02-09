@@ -20,7 +20,7 @@ This month's issue of the Mappers' Report contains following topics:
 
 ## Ranking Criteria Changes
 
-The Ranking Criteria. For some a blessing, for others a curse. On top of that, it’s changing all the time. This month we didn’t have many changes in the Ranking Criteria, that’s why we had a great idea. From now on we will also list ongoing discussions in the Mappers’ Report to give them a bit more of attention. The Ranking Criteria affects *all* mappers, and everyone should be aware of what is going on or what is going to happen. So let’s start right away with this month's Ranking Criteria changes. 
+The Ranking Criteria. For some a blessing, for others a curse. On top of that, it’s changing all the time. This month we didn’t have many changes in the Ranking Criteria, that’s why we had a great idea. From now on we will also list ongoing discussions in the Mappers’ Report to give them a bit more of attention. The Ranking Criteria affects *all* mappers, and everyone should be aware of what is going on or what is going to happen. So let’s start right away with this month's Ranking Criteria changes.
 
 ### All modes
 
@@ -28,11 +28,11 @@ The Ranking Criteria. For some a blessing, for others a curse. On top of that, i
 - **[Generalised Mode-Specific Guidelines about Custom Hitsounds](/wiki/Ranking_Criteria#guidelines.4):** Previously found in the osu! and osu!catch Ranking Criterias, this guideline has now been modified and moved to the general Ranking Criteria. The hit finish in soft and normal sample sets should not be replaced with frequently used hitsounds because these can sound obnoxious for anyone disabling beatmap hitsounds. osu!taiko beatmaps are exempt from this Guideline because the mode has its own mode-specific hitsound sample guideline.
 - **[Storyboarding Conflicting Commands Guideline](/wiki/Ranking_Criteria#guidelines.6):** The existing guideline **Avoid illogical, conflicting and obsolete commands** has had its description improved to clarify that commands of the same type with overlapping intervals should be fixed to no longer overlap.
 
-### osu!taiko 
+### osu!taiko
 
-- **[1/3 Patterns in Futsuu](/wiki/Ranking_Criteria/osu!taiko#futsuu):** The osu!taiko Futsuu difficulty Rule and Guideline regarding 1/3 pattern has been modified. The clause about rest moments was moved from the Rule to the Guideline. 
+- **[1/3 Patterns in Futsuu](/wiki/Ranking_Criteria/osu!taiko#futsuu):** The osu!taiko Futsuu difficulty Rule and Guideline regarding 1/3 pattern has been modified. The clause about rest moments was moved from the Rule to the Guideline.
 
-## Open Ranking Criteria Proposals 
+## Open Ranking Criteria Proposals
 
 As said previously, the Ranking Criteria is a never ending process. Everyone can suggest changes to it and there are currently a lot of proposals which need more input from the community! Every proposal can be found in the [Ranking Criteria Forum](https://osu.ppy.sh/community/forums/87). Here a small list of the most important and longest open proposals:
 
@@ -55,7 +55,7 @@ These and many others are currently discussed and need more input. So head right
 
 As mentioned in the past issue of the Mappers’ Report we were holding regular meetings, and the past several weeks were no exception. With these two meetings we also managed to go through all pending discussion points we had, meaning meetings will be less frequent going forward.
 
-If you have any topics which should be discussed in future meetings, please do not hesitate to contact any NAT members about it For smaller things you can reach out to them right away. If it’s about something bigger, please consider making a proposal first to present to a NAT member. 
+If you have any topics which should be discussed in future meetings, please do not hesitate to contact any NAT members about it For smaller things you can reach out to them right away. If it’s about something bigger, please consider making a proposal first to present to a NAT member.
 
 Once enough topics are gathered, future NAT meeting dates will be announced in further Mappers’ Report issues, in #modding on the [osu!dev Discord server](https://discord.gg/ppy) and in the forum!
 
@@ -65,7 +65,7 @@ In the Cultivating BNs meeting, we discussed the State of BN subdivisions, Mento
 
 ### [Mar 22nd, 2020 - State of QAH + misc](https://osu.ppy.sh/community/forums/topics/1040456)
 
-This meeting discussed the current state of the Quality Assurance Helpers (QAH) and Ranking Criteria subforum engagement as its main topics. 
+This meeting discussed the current state of the Quality Assurance Helpers (QAH) and Ranking Criteria subforum engagement as its main topics.
 
 For the QAH topic, we revisited the current state of the QAH and focused on evaluating the new changes made since the previous meeting about this topic in early December.  The meeting helped to gather information about what features the BN website is currently missing that could help make QAH work better. Additionally, the NAT has decided that QAH activity will count as 1/4th of a nomination for BN activity, although this number may be adjusted in the future.
 
@@ -77,7 +77,7 @@ This meeting will be held on **Saturday April 11th, 18:00-20:00 UTC**. This meet
 
 ## Within the Beatmap Nominators and NAT
 
-Just as last month, the BNG never rests. We always have new additions and retirements. This month is no exception! 
+Just as last month, the BNG never rests. We always have new additions and retirements. This month is no exception!
 
 ### BN Additions
 
@@ -95,7 +95,7 @@ Just as last month, the BNG never rests. We always have new additions and retire
 
 Good news everyone! We have a new person in the team. For osu!taiko, **[Tyistiana](https://osu.ppy.sh/users/1421452)** joined the NAT! After over one year of work as a Beatmap Nominator, and recently receiving the title of Elite Nominator, Tyistiana will now support Nepuri and Faputa with the osu!taiko Beatmap Nominator evaluations. Once again, welcome to the team!
 
-### NAT Retirement 
+### NAT Retirement
 
 Just as we had a new addition with **[Tyistiana](https://osu.ppy.sh/users/1421452)**,  we had to say farewell to **[Ascendance](https://osu.ppy.sh/users/2931883)**. After one year of duty as a NAT he decided to take his leave. Ascendance served well in osu!catch and helped bring back life into the osu!taiko BNG with his care package. Thank you Ascendance for all your work and we wish you all the best in the future!
 
@@ -111,7 +111,7 @@ A hidden gem of a mapper gone particularly unnoticed, **[Striderin](https://osu.
 
 An inspiration to many new mappers should be **[KnightC0re](https://osu.ppy.sh/users/7894340)**. He is the shining example that hard work and dedication to one's craft will bear fruits. From expert hitsounding, to developing his style to fit songs of all difficulties and genres, KnightC0re can do it all. Just last year he showed up with a couple incredible ranked maps among others - one of which being his map of [Matsumoto Sara's Suika](https://osu.ppy.sh/beatmapsets/950929#osu/1985881), where he demonstrated his mastery of movement and hitsounding to form a poignant take on a beloved song. Another such example would be his Insane difficulty on [sokoninaru's Tenohira de odoru](https://osu.ppy.sh/beatmapsets/902587#osu/2096993) where he showcased his ability to map a whole spectrum of music - from serene instrumental to crazy math rock pieces in any difficulty he likes. We are eager to see KnightC0re's next projects take shape, and so should you.
 
-Even though the Mappers' Showcase starts off with osu!standard, each month will showcase a different gamemode. That means next month will be feataturing osu!taiko. So stay tuned! 
+Even though the Mappers' Showcase starts off with osu!standard, each month will showcase a different gamemode. That means next month will be feataturing osu!taiko. So stay tuned!
 
 ## Mapping Contests
 
@@ -119,13 +119,13 @@ In addition to summarizing upcoming contests, we will also use this space to hig
 
 ### King of Catch Mapping Contest
 
-The [King of Catch Mapping Contest](https://osu.ppy.sh/community/forums/topics/1004441) is a currently ongoing osu!catch event organized by [MBomb](https://osu.ppy.sh/users/3071175) that is entering the 3rd of its challenges. The contest uses a quite interesting elimination system featuring a gauntlet of mapping challenges, where the lowest placing participant of a given round is removed from the contest while the others continue, until only 1 mapper is left. 
+The [King of Catch Mapping Contest](https://osu.ppy.sh/community/forums/topics/1004441) is a currently ongoing osu!catch event organized by [MBomb](https://osu.ppy.sh/users/3071175) that is entering the 3rd of its challenges. The contest uses a quite interesting elimination system featuring a gauntlet of mapping challenges, where the lowest placing participant of a given round is removed from the contest while the others continue, until only 1 mapper is left.
 
 So far in the contest, [Jemzuu](https://osu.ppy.sh/users/7890134) has found himself at the top of the podium during the first 2 rounds, quite impressive! Good luck to those participating in the approaching rounds and we hope to see more novel well organized contests like this in the future.
 
 ### Monthly Beatmapping Contest: February 2020 Results
 
-We’d like to congratulate [Aphestra](https://osu.ppy.sh/users/11949191) on their win in the 2nd Monthly Beatmapping Contest, earning them a profile badge! Good job as well to [UndeadCapulet](https://osu.ppy.sh/users/2523533) and [Mao](https://osu.ppy.sh/users/2204515) who were the community vote runner-up and screening crew favourite respectively. Both of them find themselves halfway to a beautiful profile badge thanks to their placements. Full results for the contest can be found [here!](https://osu.ppy.sh/home/news/2020-03-21-monthly-beatmapping-contest-2-results) 
+We’d like to congratulate [Aphestra](https://osu.ppy.sh/users/11949191) on their win in the 2nd Monthly Beatmapping Contest, earning them a profile badge! Good job as well to [UndeadCapulet](https://osu.ppy.sh/users/2523533) and [Mao](https://osu.ppy.sh/users/2204515) who were the community vote runner-up and screening crew favourite respectively. Both of them find themselves halfway to a beautiful profile badge thanks to their placements. Full results for the contest can be found [here!](https://osu.ppy.sh/home/news/2020-03-21-monthly-beatmapping-contest-2-results)
 
 ### Monthly Beatmapping Contest: April 2020
 
@@ -133,7 +133,7 @@ Another month, another monthly beatmapping contest! Head over to the [news post]
 
 ## Around the Community
 
-Another new section this month! All around the community. Whenever something interesting happens in the community which does not fit into any category above we will include that here. Should you have/know about something interesting that’s happening within the mapping community, do not hesitate to let [Feerum](https://osu.ppy.sh/users/4815717) or [Noffy](https://osu.ppy.sh/users/1541323) know about it! 
+Another new section this month! All around the community. Whenever something interesting happens in the community which does not fit into any category above we will include that here. Should you have/know about something interesting that’s happening within the mapping community, do not hesitate to let [Feerum](https://osu.ppy.sh/users/4815717) or [Noffy](https://osu.ppy.sh/users/1541323) know about it!
 
 ### The osu! Map Cast
 

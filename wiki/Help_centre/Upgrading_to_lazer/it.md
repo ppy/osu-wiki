@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 4390338dba70d8ad149f01408d623120cdc6aa96
+---
+
 # Aggiornare a lazer
 
 *Avviso: Stiamo ancora cercando di bilanciare e di sistemare le meccaniche di gioco. Per ora, **i punteggi che sono stati effettuati su lazer non devono essere considerati permanenti**.*
@@ -111,7 +116,7 @@ Di seguito verrà rappresentata una lista dello **stato attuale** di lazer in co
 
 Quindi hai deciso di dare una chance a Lazer? Bene!
 
-Puoi trovare il download [qui](https://github.com/ppy/osu#running-osu). Prossimamente, sarai in grado di passare a lazer direttamente da stable (dall'impostazione `Release stream`) è trovare il link di download nel sito di osu!.
+Puoi trovare il download [qui](https://osu.ppy.sh/home/download). Prossimamente, sarai in grado di passare a lazer direttamente da stable (dall'impostazione `Release stream`).
 
 ## FAQ
 
@@ -276,7 +281,7 @@ Nello stesso modo in cui lo faresti di solito.
 
 Probabilmente stai pensando ad un altro gioco.
 
-### Notes
+## Notes
 
 [^wine]: Usando Wine.
 [^compatibility-mode]: DirectX in modalità compatibilità.

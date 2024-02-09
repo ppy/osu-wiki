@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Các gợi ý để làm công việc của bạn tốt hơn
 
 Bài viết này sẽ nói về một số khó khăn có thể bạn đối mặt khi đang đóng góp. Các phương pháp được đề cập ở đây là làm cho công việc dễ hơn và có thể được áp dụng cho các dự án khác được quản lý trên GitHub hoặc các phương tiện tương tự.
@@ -13,10 +17,12 @@ Bài viết này sẽ nói về một số khó khăn có thể bạn đối m�
 Để tạo sự thay đổi trong một repo ở GitHub, một người đóng góp tiềm năng phải có được bản sao(quản lý bởi mình) của repo, và nó được gọi là một "fork". Khi bạn tạo ra fork của repo `osu-wiki` cho riêng mình, bạn đang nắm trong tay hết tất cả nội dung của nó tại thời điểm này. Để làm sự phát triển thực sự có ý nghĩa, **luôn luôn đồng bộ fork** trước khi chỉnh sửa thêm — nó có thể được làm trực tiếp qua GitHub:
 
 1. Đi tới fork repo `osu-wiki` của bạn.
+
 2. Chọn `master` từ nhánh.
+
 3. Bấm `Fetch upstream`, và chọn `Fetch and merge`.
 
-![](img/update-branch.png "Cập nhật branch cũ")
+   ![](img/update-branch.png "Cập nhật branch cũ")
 
 Bây giờ các tài liệu trong branch đang giống repo gốc.
 
@@ -27,22 +33,16 @@ Giải pháp này hoạt động được ở hầu hết các trường hợp, 
 Nếu bạn gặp vấn đề gì khi đang sử dụng công cụ GitHub hoặc bạn muốn ghi đè lên nội dung trong branch của bạn, bạn có thể sử dụng workflow (luồng công việc) viết bởi những người đóng góp cho osu! wiki.
 
 1. Mở **fork của bạn** và đi tới thẻ `Actions`.
-2. Trong `Workflows`, tìm `Sync from osu! upstream`.
+2. Ở thanh bên trái, tìm `Sync with ppy:master`.
 3. Nhấn `Run workflow` và điền vào các thiết lập:
 
-![](img/github-actions-workflow-dialog.png "GitHub Actions Workflow - Chạy Workflow")
+![Ảnh chụp màn hình của biểu mẫu trên trang web GitHub được mô tả bên dưới](img/github-actions-workflow-dispatch.png "Menu khởi chạy GitHub Actions workflow")
 
-- **Use workflow from**: tên branch bạn muốn đồng bộ. Mặc định sẽ là `master`.
-- **Create a backup of your target branch**:
-  - `true`:  tạo một branch có tên `backup-{tên branch của bạn}` để sao lưu trước khi thay đổi.
-  - `false` (mặc định): không tạo sao lưu.
-- **Overwrite any changes in the target repository**:
-  - `true`: thay thế nội dung trong branch của bạn bằng một bản sao sạch của branch `master` từ `ppy/osu-wiki`.
-  - `false` (mặc định): merge thay đổi của bạn cùng với bản sao sạch từ `ppy/osu-wiki`.
+- **Use workflow from**: Branch đích bạn muốn đồng bộ. Mặc định sẽ là `master`.
+- **Create a backup of the selected branch**: Tạo một bản sao của branch đích tại `{branch name}-backup` trên fork của bạn trước khi thử cập nhật nó.
+- **Overwrite all history of the selected branch**: Thay thế branch đích bằng `ppy:master`, loại bỏ tất cả commit khác biệt. Mặc định, `ppy:master` sẽ được merge vào branch đích.
 
-4. Nhấn nút `Run Workflow` và chờ nó hoàn thành. Nếu bạn tò mò xem công cụ này hoạt động ra sao, nhấn lại vào `Sync from osu! upstream`.
-
-![](img/github-actions-workflow-overview.png "GitHub Actions Workflow - Quá trình Workflow")
+4. Nhấn nút `Run Workflow` và chờ nó hoàn thành. Nếu bạn tò mò xem công cụ này hoạt động ra sao, nhấn vào `Sync with ppy:master`.
 
 ## Chỉnh sửa
 
@@ -60,7 +60,7 @@ Trong phạm vi bản fork của bạn, bạn có thể tuỳ ý chỉnh sửa v
 Một pull request sẽ làm cho người khác biết chỉnh sửa của bạn có kết quả tới dữ liệu như thế nào. Thêm một số thông tin cho pull request để giải thích mục đích của bạn:
 
 - `Title`: một câu ngắn gọn có thể mô tả sự thay đổi của bạn bằng tiếng Anh, với tên của bài viết. Trong trường hợp dịch thuật, bắt đầu với tên viết tắt của ngôn ngữ bạn dịch trong dấu ngoặc. Ví dụ:
-- ``[FR] Add `BBCode` ``
+  - ``[VI] Add `BBCode` ``
   - ``Update `Beatmapping` and `Beatmap/Difficulty` ``
 - `Description`: mọi thứ bạn muốn truyền tải đến người quản lý và các giám khảo tiềm năng. Ví dụ:
   - Tóm tắt nhanh sự thay đổi, đặc biệt nếu nó ảnh hưởng đến nhiều bài viết

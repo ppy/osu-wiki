@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu! originals - osu!mania 7K World Cup 2023"
+title: osu! originals - osu!mania 7K World Cup 2023
 date: 2023-02-15 11:00:00 +0000
 ---
 
