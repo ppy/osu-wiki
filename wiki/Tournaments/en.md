@@ -152,6 +152,13 @@ Unofficial tournaments/competitions hosted by the communities.
 | CES League osu! Tournament | 2019-12-02 | 2020-01-19 | ;w; | kirundy | TeamNameIn1v1Xd |
 | [CES League osu! Tournament 2](CES/CES2) | 2020-05-01 | 2020-08-16 | Woopak | MissClick324 | Thymue |
 
+#### COE 1v1 Tournament
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [COE 1v1 Tournament 2022](COE/COE_2022) | 2022-01-17 | 2022-02-17 | ::{ flag=DE }:: okinamo | ::{ flag=GB }:: Malteser | ::{ flag=DK }:: cat burger |
+| [COE 1v1 Tournament 2023](COE/COE_2023) | 2023-07-14 | 2023-08-05 | ::{ flag=DE }:: criller | ::{ flag=KR }:: FlyingTuna | ::{ flag=DK }:: cat burger |
+
 #### Coffee Hispanic
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
@@ -622,6 +629,8 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Catch the Beat Indonesia Cup 2019](CIC/2019) | 2019-08-18 | 2019-10-13 | ::{ flag=ID }:: [Deceitful](https://osu.ppy.sh/users/1396447) | ::{ flag=ID }:: [Galaxi](https://osu.ppy.sh/users/2552435) | ::{ flag=ID }:: [Nana Hiragi](https://osu.ppy.sh/users/13377985) |
 | [Catch the Beat Indonesia Cup 2020](CIC/2020) | 2020-07-10 | 2020-09-06 | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361) | ::{ flag=ID }:: [dika312](https://osu.ppy.sh/users/741613) | ::{ flag=ID }:: [Galaxi](https://osu.ppy.sh/users/2552435) |
 | [Catch the Beat Indonesia Cup 2021](CIC/2021) | 2021-06-01 | 2021-08-01 | ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613) | ::{ flag=ID }:: [CamXDanna](https://osu.ppy.sh/users/3243148) | ::{ flag=ID }:: [Nekuro](https://osu.ppy.sh/users/3222638) |
+| [Catch the Beat Indonesia Cup 2022](CIC/2022) | 2022-03-04 | 2022-04-10 | ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613) | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361) | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) |
+| [Catch the Beat Indonesia Cup 2023](CIC/2023) | 2023-07-15 | 2023-08-27 | ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580) | ::{ flag=TH }:: [EzyS](https://osu.ppy.sh/users/EzyS) | ::{ flag=ID }:: [Keita](https://osu.ppy.sh/users/3355617) |
 
 #### Indonesia Convert Cup
 
@@ -648,6 +657,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu!catch Convert Cup](o!cCC/1) | 2019-09-21 | 2019-11-03 | ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210) | ::{ flag=IT }:: [Karym](https://osu.ppy.sh/users/5220794) | ::{ flag=CL }:: [NachoL](https://osu.ppy.sh/users/1250096) |
+
+#### osu!catch Convert Cup Open
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu!catch Convert Cup Open 2023](o!cCO/2023) | 2023-11-20 | 2024-01-22 | Korean PC (::{ flag=US }:: [Dahcreeper](https://osu.ppy.sh/users/6926006), ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626), ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520)) | converts ec (::{ flag=IT }:: [ArMa79](https://osu.ppy.sh/users/4982799), ::{ flag=CN }:: [- N a g i -](https://osu.ppy.sh/users/2956936), ::{ flag=PH }:: [Roido](https://osu.ppy.sh/users/6829103)) | CTB RAIMON (::{ flag=CA }:: [Katsuragi](https://osu.ppy.sh/users/3616480), ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877), ::{ flag=CL }:: [Aryssiel](https://osu.ppy.sh/users/2389481)) |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 

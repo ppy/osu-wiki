@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_since: b1d13687699cece19256b432e301df908d640497
+outdated_translation: true
 ---
 
 # Critères de classement
