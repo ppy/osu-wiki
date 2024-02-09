@@ -8,9 +8,7 @@ stub: true
 
 The [Wai-con](https://en.wikipedia.org/wiki/Wai-Con) anime convention in Perth had osu!arcade, a fully self-contained arcade machine running a touch-based version of osu!. Although playing too much on it could lead to sore fingers as some people had criticised, the prototype containing custom-made hardware and a built-in touchscreen was well-received by the community.[^wai-con]
 
-::: Infobox
 ![A touchscreen displaying osu!'s main menu](img/osu!arcade.jpg "The osu!arcade machine at 2010's Wai-con")
-:::
 
 ## February
 
