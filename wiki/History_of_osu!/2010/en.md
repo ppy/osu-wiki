@@ -10,10 +10,6 @@ The [Wai-con](https://en.wikipedia.org/wiki/Wai-Con) anime convention in Perth h
 
 ![A touchscreen displaying osu!'s main menu](img/osu!arcade.jpg "The osu!arcade machine at 2010's Wai-con")
 
-## February
-
-A new osu! update made small improvements in the overall user interface and added the ability to move all storyboard events by an arbitrary time value, allowing for more fine-tuned storyboard animations. In addition to this, usernames became clickable in chat logs.[^stable-b1460]
-
 ## March
 
 Through February to March, [peppy](https://osu.ppy.sh/users/2) organised an art competition dedicated to banners for in-game challenges, with the prize being the art's official recognition and a year of [osu!supporter](/wiki/osu!supporter) or physical goods. After a [community voting](https://osu.ppy.sh/community/forums/topics/27112?n=1) round, the osu! team made the final choice.[^art-challenge]
@@ -57,7 +53,6 @@ An osu! update added new sprites for the Taiko mode.[^stable-b1696]
 [^wai-con]: [Forum thread by peppy (2010-01-27) "osu!arcade at Wai-con 2010"](https://osu.ppy.sh/community/forums/topics/23392?n=1)
 
 [^art-challenge]: [Forum thread by peppy (2010-02-12) "Competition: Designing challenge artwork!"](https://osu.ppy.sh/community/forums/topics/24356?n=1)
-[^stable-b1460]: [Forum thread by peppy (2010-02-23) "osu! Public Release b1460"](https://osu.ppy.sh/community/forums/topics/25142?n=1)
 
 [^stable-b1485]: [Forum thread by peppy (2010-03-08) "osu! Public Release b1485"](https://osu.ppy.sh/community/forums/topics/25978?n=1)
 
