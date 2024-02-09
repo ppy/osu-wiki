@@ -101,7 +101,7 @@ Los antiguos miembros del NAT que actualmente tienen acceso interno son:
 
 ## Liderazgo del NAT
 
-A partir de marzo de 2023, el NAT decidió volver a adoptar el concepto de liderazgo, que [se usaba anteriormente](/wiki/People/Quality_Assurance_Team/QAT_Leaders) en el [QAT](/wiki/People/Quality_Assurance_Team). El líder del NAT tiene la responsabilidad combinada de las categorías de evaluación y estructura para que puedan vigilar y mantenerse involucrados en todos los aspectos del NAT.
+A partir de marzo de 2023, el NAT decidió volver a adoptar el concepto de liderazgo, que [se usaba anteriormente](/wiki/People/Quality_Assurance_Team/QAT_Leaders) en el [QAT](/wiki/People/Quality_Assurance_Team). El líder del NAT tiene la responsabilidad de ambas categorías, la de evaluación y la de estructural, por lo que puede supervisar y participar en todos los aspectos del NAT.
 
 El líder del NAT actual es:
 
