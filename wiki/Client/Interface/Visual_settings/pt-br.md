@@ -1,20 +1,30 @@
 ---
-outdated_translation: true
+no_native_review: true
 ---
 
 # Configurações Visuais
 
 ![](img/visual-settings-PT-BR.jpg "Exemplo de Configurações Visuais")
 
-- Configurações Visuais fica na parte de baixo da tela durante alguns segundos **antes** do início do beatmap. Deixar o painel aberto atrasa o começo do beatmap até que o seu ponteiro saia dele.
-  - Você pode pausar o jogo para abrir as Configurações Visuais (embora isso não funcione no [Multi](/wiki/Client/Interface/Multiplayer)).
+-**Configurações Visuais** é uma configuração escondida, que fica na parte inferior da tela, ao selecionar uma música. Pode ser utilizada quando o mapa estiver carregando, ou quando pausar o mapa. Quando a sobreposição das configurações for mostrada, o mapa será adiado até o cursor do mouse sair das configurações visuais.
 
-## Opções Disponíveis
+*"Nota: Alterações nas Configurações Visuais, são salvas por "beatmap", porém algumas delas podem se perder, após fechar o osu!. Para deixar as alterações permanentemente, use [opções](/wiki/Client/Options) da barra lateral."*
 
-| Nome | Efeito | Descrições |
+De outra forma, é possível acessar as configurações visuais, pausando o jogo. De qualquer forma, esse método, não funciona no [Multi](/wiki/Client/Interface/Multiplayer) já que não existe a opção de pausar no modo multiplayer, será entendido que você está tentando sair da partida e da sala.
+
+## Configurações
+
+| Nome | Efeito | Notas |
+
 | :-- | :-- | :-- |
-| Escuridão do plano de fundo | Escurece o campo de jogo. | Durante uma pausa, a escuridão é reduzida em 30% do valor ou fica em 0%. Efeitos especiais e elementos do storyboard não aparecem com 100% de escuridão. |
-| Desabilitar storyboard | Remove todos os elementos do storyboard. Não afeta [Kiai Time](/wiki/Gameplay/Kiai_time) ou vídeo de fundo. | É recomendado para jogadores epilépticos em mapas com aviso de epilepsia. Essa opção é descartada se não existir storyboard. |
-| Ignorar a skin do beatmap | Caso exista uma skin específica para o beatmap, não a use. A skin escolhida pelo jogador (ativa) será usada no seu lugar. | Requer o reinício da tentativa para ter efeito. |
-| Ignorar os hitsounds do beatmap | Caso existam hitsounds específicos para o beatmap, não os use. Os hitsounds da skin escolhida pelo usuário (ativa) serão usados em seu lugar. | Requer o reinício da tentativa para ter efeito. |
-| Desativar o vídeo | Não reproduz o vídeo. Esta opção não remove o storyboard. | Requer um reinício da tentativa se for ativada após o início da música. Esta opção é descartada se não existir vídeo para reproduzir. |
+
+| `Escurecer Fundo` | Escurece o background da música, incluindo storyboards e ou vídeos de fundo. | Durante pausas, a intensidade, é diminuida por 30%(com um máximo de 0%), pode ser desabilitado nas configurações. *Nota: 
+Mudanças de escurecimento de fundo, são salvas por mapas(beatmaps) e são perdidas ao fechar o osu.* |
+
+| `Desativar storyboard` | Remove todos os efeitos de storyboard. Isto não afeta o [Kiai Time](/wiki/Gameplay/Kiai_time) e o vídeo de fundo, caso tenha. | Isto é recomendado para jogadores com epilepsia, problemas quando o beatmap mostra um aviso de epilepsia. Esta opção é desabilitada caso não tenha nenhum storyboard para reproduzir. |
+
+| `Ignorar beatmap skin` | Usa a skin selecionada pelo jogador, invés da skin incluída pelo beatmap. | Isso requer uma reinicialização do beatmap para ter efeito. |
+
+| `Ignorar beatmap hitsounds` | Usa os hitsounds da skin seleciodada do jogador, invés da incluída pelo beatmap, caso tenha. | Isso requer uma reinicialização do beatmap para ter efeito. |
+
+| `Desativar video` | Não reproduz o vídeo de fundo. Isto não remove o storyboard. | Isso requer uma reinicialização de beatmap se ativada depois que o beatmap começou. Esta opção é desativada automáticamente se não tiver nenhum vídeo de fundo para reproduzir. |
