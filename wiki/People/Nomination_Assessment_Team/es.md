@@ -194,7 +194,6 @@ Los siguientes miembros del NAT son principalmente evaluadores, pero también co
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | Organización de eventos para BN |
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Desarrollo del [plugin de MV de osu!mania](https://github.com/MChecaH/ManiaCheck) |
 | ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | Desarrollo del [plugin de MV de osu!mania](https://github.com/MChecaH/ManiaCheck) |
-| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Manejo de reportes de usuarios |
 
 ---
 
