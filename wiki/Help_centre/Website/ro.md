@@ -26,7 +26,7 @@ Această secțiune este dedicată problemelor cu site-ul osu!
 
 ## Probleme uzuale {id=common-issues}
 
-### Nu am primit niciun răspuns la tichetul meu de asistență și au trecut 2 săptămâni! {id=support-no-reply}
+### Nu am primit nici un răspuns la tichetul meu de asistență și au trecut 2 săptămâni! {id=support-no-reply}
 
 **De obicei, acest lucru se datorează numărului mare de tichete de asistență care intră în sistemul nostru în același timp.**
 
