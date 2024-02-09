@@ -46,7 +46,7 @@ Beatmap metadata fields can be compared against specific values for more granula
 | `mode` | Game mode. This can be one of `osu`, `taiko`, `catch`, or `mania`, or `o`/`t`/`c`/`m` for short. |
 | `status` | Beatmap status. Value can be `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, or `loved`, or `r`/`a`/`p`/`n`/`u`/`l` for short. |
 | `played` | Time since last played in days |
-| `unplayed` | Show only unplayed maps. A comparison with no set value must be used (e.g. `unplayed=`). The comparison itself is ignored. |
+| `unplayed` | Show only unplayed maps. This filter must be set no value to take effect (`unplayed=`). The comparison operator itself can be whatever (e.g. `unplayed=`, `unplayed>` and `unplayed!=` do the same thing). |
 | `speed` | Saved osu!mania scroll speed. The scroll speed is always 0 for unplayed maps, or if the [`Remember osu!mania scroll speed per beatmap`](/wiki/Client/Options#gameplay) option is off. |
 
 ## Website[^website-filters]
@@ -67,6 +67,7 @@ Beatmap metadata fields can be compared against specific values for more granula
 | `key`, `keys` | Number of keys (osu!mania and converted beatmaps only) |
 | `status` | Beatmap status. Value can be `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, or `loved`, or `r`/`a`/`p`/`n`/`u`/`l` for short. |
 | `created` | Beatmap creation date |
+| `updated` | Beatmap last update date |
 | `ranked` | Beatmap ranking/approval date |
 
 ## Client (lazer)[^lazer-filters]
@@ -114,5 +115,5 @@ ranked>=2010-08 ranked<2010-11 creator=Natteke
 
 ## References
 
-[^website-filters]: [osu!web source code](https://github.com/ppy/osu-web/blob/67c59d69fcdbd07d44984707058bc1193535898f/app/Libraries/Search/BeatmapsetQueryParser.php)
+[^website-filters]: [osu!web source code](https://github.com/ppy/osu-web/blob/a61a75f016eb1cac61e3c4da5e472a31e9ed57b0/app/Libraries/Search/BeatmapsetQueryParser.php)
 [^lazer-filters]: [osu!(lazer) source code](https://github.com/ppy/osu/blob/270c03235d280ccca3aecea776fb9517635ed695/osu.Game/Screens/Select/FilterQueryParser.cs)

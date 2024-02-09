@@ -45,7 +45,7 @@ osu! 有一个全天候监控着论坛和在线聊天的管理团队，他们致
 osu! 有专注于检查新提交[谱面](/wiki/Beatmap)是否能够 Rank 并被所有人游玩的团队，[谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators)。但这不意味着你不能在这一领域发光发热：
 
 - 找一找，或者在 [Pending 谱面列表](https://osu.ppy.sh/beatmapsets?s=pending)当中搜索你喜欢或愿意贡献的歌曲。
-- 玩一玩 [*Pending* 或 *Work-in-progress*](/wiki/Beatmap/Category#制作中和待定-(work-in-progress-and-pending)) 的谱面，并且在讨论页面给出你的反馈。
+- 玩一玩 [*Pending* 或 *Work-in-progress*](/wiki/Beatmap/Category#wip-and-pending) 的谱面，并且在讨论页面给出你的反馈。
 - 阅读一下[摸图指南](/wiki/Modding)和[谱面上架标准 (RC)](/wiki/Ranking_criteria) 来了解摸图的技术基础和 Ranked 谱面的必备要素。
 - 加入游戏聊天中的 `#mapping` 和 `#modreqs` 频道，参与进讨论当中，或者看看别人在说什么。
 - 如果你有足够的时间和心力，你还可以提供一个[摸图列表](https://osu.ppy.sh/community/forums/60)，让谱师们请求你进行摸图的地方。

@@ -488,7 +488,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Tournament rules
 
-1. The osu!mania World Cup is a country-based 2v2 team tournament, separated in a 7-keys bracket and a 4-keys bracket
+1. The osu!mania World Cup is a country-based 2v2 team tournament, separated in a 7-keys bracket and a 4-keys bracket.
 2. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
    - One map will be given as tiebreaker map. This map will only be played in case of a tie.
 3. Match schedule will be settled by Tournament Management (see below).
@@ -512,11 +512,11 @@ This competition has come to an end and resulted in the following podium:
 1. Your team needs **at least 2 players** to participate.
    - The maximum team size is 4.
    - You must specify a captain who will represent the team.
-   - You can sign-up your team for both brackets, if you want. You need to run through the registration process twice then
+   - You can sign up your team for both brackets, if you want. You need to run through the registration process twice then.
      - When signing up for both brackets, both rosters do not need to be identical.
-     - If your country signs up for the 4K Bracket, it does not need to form a 7K bracket and vica versa.
+     - If your country signs up for the 4K Bracket, it does not need to form a 7K bracket and vice versa.
 2. Each team represents a nation. You must form a team with players from the same country and therefore with the same flags on the user profiles.
-3. For team sign ups, [fill out this form](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled “MWC Registration”
+3. For team sign-ups, [fill out this form](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled "MWC Registration".
    - Captains may change their setup by [notifying the management](https://osu.ppy.sh/home/messages/users/71366).
    - You get a confirmation reply in case your registration successfully arrived. Your registration is in pending then.
 4. To ensure valid and serious registrations, any registration and change will be checked by the Tournament Management.
@@ -537,7 +537,7 @@ This competition has come to an end and resulted in the following podium:
    - Have higher `∑{(total score difference) / (maximum score)}`.
    - Winner of the rematch.
 4. The top 4 teams of each group will move on to the Knock-Out Stages.
-5. Following stages are Knock-Out Stages. This means that the winner moves to the next stage and the losing team gets kicked out of the tournament.
+5. The following stages are Knock-Out Stages. This means that the winner moves to the next stage and the losing team gets kicked out of the tournament.
 6. The **Winning conditions** for each stage will be:
    - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
    - In the Round of 16 and the Quarterfinals, you need to win 5 maps to win a match. (Best-of-9)
@@ -547,10 +547,10 @@ This competition has come to an end and resulted in the following podium:
 
 1. A referee will create a multiplayer room 20 minutes in advance. Players must gather during this period.
    - The room will be locked. The password and multiplayer invite will be sent to the two captains as soon as possible.
-   - Room settings are osu!mania, Team-Vs., Win Condition: 'Score'. Room name must be "MWC 2014: TeamBlue vs TeamRed"
+   - Room settings are osu!mania, Team-Vs., Win Condition: 'Score'. Room name must be "MWC 2014: TeamBlue vs TeamRed".
    - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
 2. Players are free to select up to two warm-up maps.
-3. Map selection will alternate between each captain selecting a map out of the map pool. Each captain must use `!roll` once in `#multiplayer` to determine which team selects first.
+3. Map selection will alternate between each captain selecting a map out of the mappool. Each captain must use `!roll` once in `#multiplayer` to determine which team selects first.
    - The captains may select maps out of the FreeMod bracket freely.
    - In case of a tie, the tiebreaker map must be played.
 4. Results will be published on the wiki and via the Statistics website.
@@ -559,15 +559,15 @@ This competition has come to an end and resulted in the following podium:
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals for each bracket.
 2. The mappools for the 4-keys and 7-keys bracket are separated.
-3. Each mappool consists of 1 bracket: FreeMod
-4. Each mappool consists of 10-14 maps in total.
-5. Each mappool has one tiebreaker
+3. Each mappool consists of 1 bracket: FreeMod.
+4. Each mappool consists of 10–14 maps in total.
+5. Each mappool has one tiebreaker.
 6. The FreeMod bracket will have FreeMod activated. Every individual player can pick [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [FadeIn](/wiki/Gameplay/Game_modifier/Fade_In) and [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) or no mode at all.
 7. The tiebreaker will be played under FreeMod conditions.
 8. The size of the FreeMod bracket will be:
-   - 9 in Group Stage
-   - 11 in Round of 16 & Quarterfinals
-   - 13 in Semifinals & Finals
+   - 9 in Group Stage.
+   - 11 in Round of 16 & Quarterfinals.
+   - 13 in Semifinals & Finals.
 
 ### Scheduling instructions
 
@@ -575,5 +575,5 @@ This competition has come to an end and resulted in the following podium:
 2. Matches in Group Stage may overlap.
 3. The 7K and 4K bracket will be scheduled separately.
 4. All Knock-Out Stages will be held on either Saturday or Sunday per bracket (refer to Tournament Schedule).
-5. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage.(e.g. on the 3rd Aug for Group Stage (4K)). Tournament Management will try to create the schedule to respect the participant's time zone.
-6. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least two players for each match. If teams can not provide two players for a match, the match will be considered forfeited.
+5. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage (e.g. on the 3rd Aug for Group Stage (4K)). Tournament Management will try to create the schedule to respect the participant's time zone.
+6. Captains are responsible for their team's availability. The greater team size exists to ensure every team can provide at least two players for each match. If teams can not provide two players for a match, the match will be considered forfeited.

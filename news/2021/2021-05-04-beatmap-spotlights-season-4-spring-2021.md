@@ -53,7 +53,7 @@ The Spring Season 2021 leaderboard will be available over at the [Beatmap Spotli
 ## Rewards
 
 | Badges | Bracket Tier | Placement |
-| :--: | :--: | :--: |
+| :-: | :-: | :-: |
 | ![](/wiki/Beatmap_Spotlights/img/badges/spring_2021/osu/ri_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/spring_2021/osu/ri_2.png) | Rhythm Incarnate | The best of the best |
 | ![](/wiki/Beatmap_Spotlights/img/badges/spring_2021/osu/diamond_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/spring_2021/osu/diamond_2.png) | Diamond | 3% |
 | ![](/wiki/Beatmap_Spotlights/img/badges/spring_2021/osu/platinum_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/spring_2021/osu/platinum_2.png) | Platinum | 3% - 10% |
@@ -117,7 +117,7 @@ The new Beatmap Spotlights is still a project on its early development stage and
 
 What do you want for the next season? What needs to be fixed? What are your opinions on the current system? You can voice out all your opinions [here](https://osu.ppy.sh/community/forums/topics/1310022) and we will keep note of every suggestion, so please let us know how you feel about things.
 
-We do hope you have enjoyed the Winter Season 2021 Spotlights, and, of course, we do hope that you enjoy the Spring Season even more. 
+We do hope you have enjoyed the Winter Season 2021 Spotlights, and, of course, we do hope that you enjoy the Spring Season even more.
 
 See you in the upcoming timeshift lobbies!
 

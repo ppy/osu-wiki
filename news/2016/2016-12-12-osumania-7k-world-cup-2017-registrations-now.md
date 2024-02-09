@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!mania 7K World Cup 2017 - Registrations now open!"
+title: osu!mania 7K World Cup 2017 - Registrations now open!
 date: 2016-12-12 13:30:44 +0000
 tumblr_url: http://osunews.tumblr.com/post/154375559588/osumania-7k-world-cup-2017-registrations-now
 ---
