@@ -13,7 +13,7 @@ Instead of pausing gameplay while filling up the health bar, health is restored 
 |  |  |
 | :-- | :-: |
 | Breaks backwards compatibility | ![No][false] |
-| Classic mod revert support | ![No][false] |
+| Revertable using the Classic mod | ![No][false] |
 | Intentionally changed | ![No][false] |
 | Needs further consideration | ![Yes][true] |
 
@@ -42,7 +42,7 @@ Meanwhile, osu!(lazer) has these accuracy cutoffs now:
 |  |  |
 | :-- | :-: |
 | Breaks backwards compatibility | ![Yes][true] |
-| Classic mod revert support | ![No][false] |
+| Revertable using the Classic mod | ![No][false] |
 | Intentionally changed | ![Yes][true] |
 | Needs further consideration | ![No][false] |
 
@@ -59,7 +59,7 @@ When a hit lands right at the edge of the hit window, a different judgement may 
 |  |  |
 | :-- | :-: |
 | Breaks backwards compatibility | ![Yes][true] |
-| Classic mod revert support | ![No][false] |
+| Revertable using the Classic mod | ![No][false] |
 | Intentionally changed | ![Yes][true] |
 | Needs further consideration | ![Yes][true] |
 
@@ -74,7 +74,7 @@ There are also some differences in how much score each hit object and each judge
 |  |  |
 | :-- | :-: |
 | Breaks backwards compatibility | ![Yes][true] |
-| Classic mod revert support | ![No][false] |
+| Revertable using the Classic mod | ![No][false] |
 | Intentionally changed | ![Yes][true] |
 | Needs further consideration | ![Yes][true] |
 
@@ -95,7 +95,7 @@ Recovering from a miss in dense patterns has been made easier.
 |  |  |
 | :-- | :-: |
 | Breaks backwards compatibility | ![Yes][true] |
-| Classic mod revert support | ![Yes][true] |
+| Revertable using the Classic mod | ![Yes][true] |
 | Intentionally changed | ![Yes][true] |
 | Needs further consideration | ![No][false] |
 
@@ -108,7 +108,7 @@ Until lazer, sliders have only required the accuracy of a 50/MEH judgement to re
 |  |  |
 | :-- | :-: |
 | Breaks backwards compatibility | ![Yes][true] |
-| Classic mod revert support | ![Yes][true] |
+| Revertable using the Classic mod | ![Yes][true] |
 | Intentionally changed | ![Yes][true] |
 | Needs further consideration | ![No][false] |
 
@@ -127,7 +127,7 @@ See [this YouTube video](https://www.youtube.com/watch?v=xTRwM3zhhj0&t=243s) for
 |  |  |
 | :-- | :-: |
 | Breaks backwards compatibility | ![Yes][true] |
-| Classic mod revert support | ![No][false] |
+| Revertable using the Classic mod | ![No][false] |
 | Intentionally changed | ![Yes][true] |
 | Needs further consideration | ![No][false] |
 
@@ -140,7 +140,7 @@ See [this YouTube video](https://www.youtube.com/watch?v=SlWKKA-ltZY) for a deta
 |  |  |
 | :-- | :-: |
 | Breaks backwards compatibility | ![Yes][true] |
-| Classic mod revert support | ![No][false] |
+| Revertable using the Classic mod | ![No][false] |
 | Intentionally changed | ![Yes][true] |
 | Needs further consideration | ![No][false] |
 
@@ -153,7 +153,7 @@ In lazer, not hitting the slider head will give a MISS judgement for the whole s
 |  |  |
 | :-- | :-: |
 | Breaks backwards compatibility | ![Yes][true] |
-| Classic mod revert support | ![No][false] |
+| Revertable using the Classic mod | ![No][false] |
 | Intentionally changed | ![Yes][true] |
 | Needs further consideration | ![No][false] |
 
@@ -164,7 +164,7 @@ In stable, slider ends would play their hitsounds even if they were missed, as l
 |  |  |
 | :-- | :-: |
 | Breaks backwards compatibility | ![No][false] |
-| Classic mod revert support | ![Yes][true] |
+| Revertable using the Classic mod | ![Yes][true] |
 | Intentionally changed | ![Yes][true] |
 | Needs further consideration | ![No][false] |
 
@@ -185,7 +185,7 @@ The RPM required to get the maximum score is as follows:
 |  |  |
 | :-- | :-: |
 | Breaks backwards compatibility | ![Yes][true] |
-| Classic mod revert support | ![No][false] |
+| Revertable using the Classic mod | ![No][false] |
 | Intentionally changed | ![Yes][true] |
 | Needs further consideration | ![Yes][true] |
 
@@ -200,7 +200,7 @@ More discussion and consideration will be needed for how much of Aspire beatmaps
 |  |  |
 | :-- | :-: |
 | Breaks backwards compatibility | ![Yes][true] |
-| Classic mod revert support | ![No][false] |
+| Revertable using the Classic mod | ![No][false] |
 | Intentionally changed | ![No][false] |
 | Needs further consideration | ![Yes][true] |
 
@@ -213,7 +213,7 @@ Some gimmick maps make use of notes that overlap swells.
 |  |  |
 | :-- | :-: |
 | Breaks backwards compatibility | ![Yes][true] |
-| Classic mod revert support | ![No][false] |
+| Revertable using the Classic mod | ![No][false] |
 | Intentionally changed | ![No][false] |
 | Needs further consideration | ![Yes][true] |
 
@@ -224,7 +224,7 @@ In stable, drumrolls could not be hit too quickly or too slowly. This restrictio
 |  |  |
 | :-- | :-: |
 | Breaks backwards compatibility | ![Yes][true] |
-| Classic mod revert support | ![No][false] |
+| Revertable using the Classic mod | ![No][false] |
 | Intentionally changed | ![Yes][true] |
 | Needs further consideration | ![Yes][true] |
 
@@ -237,7 +237,7 @@ In stable, the Flashlight centre is offset a bit down and to the right, making m
 |  |  |
 | :-- | :-: |
 | Breaks backwards compatibility | ![No][false] |
-| Classic mod revert support | ![No][false] |
+| Revertable using the Classic mod | ![No][false] |
 | Intentionally changed | ![No][false] |
 | Needs further consideration | ![Yes][true] |
 
@@ -250,7 +250,7 @@ This may lead to inaccurate judgements in replays and increased difficulty.
 |  |  |
 | :-- | :-: |
 | Breaks backwards compatibility | ![Yes][true] |
-| Classic mod revert support | ![No][false] |
+| Revertable using the Classic mod | ![No][false] |
 | Intentionally changed | ![No][false] |
 | Needs further consideration | ![Yes][true] |
 
@@ -261,7 +261,7 @@ This may lead to inaccurate judgements in replays.
 |  |  |
 | :-- | :-: |
 | Breaks backwards compatibility | ![Yes][true] |
-| Classic mod revert support | ![No][false] |
+| Revertable using the Classic mod | ![No][false] |
 | Intentionally changed | ![No][false] |
 | Needs further consideration | ![Yes][true] |
 
@@ -274,7 +274,7 @@ This functions similarly to ScoreV2 in stable.
 |  |  |
 | :-- | :-: |
 | Breaks backwards compatibility | ![Yes][true] |
-| Classic mod revert support | ![No][false] |
+| Revertable using the Classic mod | ![No][false] |
 | Intentionally changed | ![Yes][true] |
 | Needs further consideration | ![No][false] |
 
@@ -287,7 +287,7 @@ None of those exist in lazer, meaning hold notes only give combo for the start a
 |  |  |
 | :-- | :-: |
 | Breaks backwards compatibility | ![Yes][true] |
-| Classic mod revert support | ![No][false] |
+| Revertable using the Classic mod | ![No][false] |
 | Intentionally changed | ![Yes][true] |
 | Needs further consideration | ![No][false] |
 
@@ -300,7 +300,7 @@ Some beatmaps with SV gimmicks like teleports or stops do not look as intended, 
 |  |  |
 | :-- | :-: |
 | Breaks backwards compatibility | ![No][false] |
-| Classic mod revert support | ![No][false] |
+| Revertable using the Classic mod | ![No][false] |
 | Intentionally changed | ![Yes][true] |
 | Needs further consideration | ![Yes][true] |
 
@@ -311,7 +311,7 @@ This used to be a constant ±16 ms regardless of overall difficulty.
 |  |  |
 | :-- | :-: |
 | Breaks backwards compatibility | ![Yes][true] |
-| Classic mod revert support | ![No][false] |
+| Revertable using the Classic mod | ![No][false] |
 | Intentionally changed | ![Yes][true] |
 | Needs further consideration | ![No][false] |
 
@@ -322,7 +322,7 @@ In stable, beatmaps converted from the osu! game mode into osu!mania had [differ
 |  |  |
 | :-- | :-: |
 | Breaks backwards compatibility | ![Yes][true] |
-| Classic mod revert support | ![No][false] |
+| Revertable using the Classic mod | ![No][false] |
 | Intentionally changed | ![Yes][true] |
 | Needs further consideration | ![No][false] |
 
@@ -333,7 +333,7 @@ In stable, beatmaps converted from the osu! game mode into osu!mania had [differ
 |  |  |
 | :-- | :-: |
 | Breaks backwards compatibility | ![No][false] |
-| Classic mod revert support | ![No][false] |
+| Revertable using the Classic mod | ![No][false] |
 | Intentionally changed | ![No][false] |
 | Needs further consideration | ![Yes][true] |
 
