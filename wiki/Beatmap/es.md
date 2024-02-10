@@ -44,14 +44,14 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}
 
 Un beatmap enviado pertenece a una de las siguientes categorías, que pueden cambiar con el tiempo:
 
-- [Abandonados](Category#abandonados)
-- [Trabajo en progreso / Pendientes](Category#trabajo-en-progreso-y-pendientes)
-- [Calificados](Category#calificados)
-- [Clasificados](Category#clasificados)
-- [Aprobados](Category#aprobados)
-- [Amados](Category#amados)
+- [Abandonados](Category#graveyard)
+- [Trabajo en progreso / Pendientes](Category#wip-and-pending)
+- [Calificados](Category#qualified)
+- [Clasificados](Category#ranked)
+- [Aprobados](Category#approved)
+- [Amados](Category#loved)
 
-Algunas categorías tienen [criterios de envío](/wiki/Ranking_criteria) y permiten que los beatmaps tengan [tablas de clasificación](#tablas-de-clasificación) transitorias o permanentes. La forma más popular de lograrlo es el [procedimiento de clasificación de beatmaps](/wiki/Beatmap_ranking_procedure), mientras que la segunda opción es hacer que el beatmap sea [amado](Category#amados).
+Algunas categorías tienen [criterios de envío](/wiki/Ranking_criteria) y permiten que los beatmaps tengan [tablas de clasificación](#tablas-de-clasificación) transitorias o permanentes. La forma más popular de lograrlo es el [procedimiento de clasificación de beatmaps](/wiki/Beatmap_ranking_procedure), mientras que la segunda opción es hacer que el beatmap sea [amado](Category#loved).
 
 ## Descargar beatmaps
 
@@ -85,7 +85,7 @@ Los beatmaps que se clasificaron el mismo mes, o que comparten el mismo tema (po
 Los jugadores de osu! de todos los modos de juego usan beatmaps para [subir de rango globalmente](/wiki/Performance_points) y [competir entre sí](/wiki/Ranking). osu! tiene diferentes tipos de marcadores específicos de beatmaps, todos los cuales, excepto el primero, solo están disponibles para [osu!supporters](/wiki/osu!supporter):
 
 - Clasificación global, que funciona en toda la base de jugadores activa;
-- Clasificación global para cada combinación de [modificadores de juego](/wiki/Gameplay/Game_modifier);
+- Clasificación global para cada combinación de [modificadores del juego](/wiki/Gameplay/Game_modifier);
 - Clasificación específica del país hecha de jugadores que llevan la misma bandera;
 - Clasificación de amigos que muestra la posición de un jugador en el mapa en comparación con sus amigos.
 

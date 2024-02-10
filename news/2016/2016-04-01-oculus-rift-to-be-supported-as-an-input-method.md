@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oculus Rift to be Supported as an Input Method (April Fools!)"
+title: Oculus Rift to be Supported as an Input Method (April Fools!)
 date: 2016-04-01 05:48:59 +0000
 tumblr_url: http://osunews.tumblr.com/post/142055271658/oculus-rift-to-be-supported-as-an-input-method
 ---

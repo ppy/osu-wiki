@@ -12,7 +12,7 @@ The following content is separated into sections, indicated by section titles in
 | :-- | :-- | :-- |
 | `[General]` | General information about the beatmap | `key: value` pairs |
 | `[Editor]` | Saved settings for the beatmap editor | `key: value` pairs |
-| `[Metadata]` | [Information](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-metadata) used to identify the beatmap | `key:value` pairs |
+| `[Metadata]` | [Information](/wiki/Client/Beatmap_editor/Song_setup#general) used to identify the beatmap | `key:value` pairs |
 | `[Difficulty]` | [Difficulty settings](/wiki/Client/Beatmap_editor/Song_setup#difficulty) | `key:value` pairs |
 | `[Events]` | Beatmap and storyboard graphic events | Comma-separated lists |
 | `[TimingPoints]` | Timing and control points | Comma-separated lists |
@@ -51,11 +51,11 @@ These options are only relevant when opening maps in the [beatmap editor](/wiki/
 
 | Option | Value type | Description |
 | :-- | :-- | :-- |
-| `Bookmarks` | Comma-separated list of integers | Time in milliseconds of [bookmarks](/wiki/Client/Beatmap_editor/Compose#bottom-(song's-timeline)) |
+| `Bookmarks` | Comma-separated list of integers | Time in milliseconds of [bookmarks](/wiki/Client/Beatmap_editor/Compose#song-timeline) |
 | `DistanceSpacing` | Decimal | [Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) multiplier |
 | `BeatDivisor` | Integer | [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
 | `GridSize` | Integer | [Grid size](/wiki/Beatmapping/Grid_snapping) |
-| `TimelineZoom` | Decimal | Scale factor for the [object timeline](/wiki/Client/Beatmap_editor/Compose#top-left-(hit-objects-timeline)) |
+| `TimelineZoom` | Decimal | Scale factor for the [object timeline](/wiki/Client/Beatmap_editor/Compose#hit-object-timeline) |
 
 ## Metadata
 
@@ -196,7 +196,7 @@ The hit object's type parameter is an 8-bit integer where each bit is a flag wit
 | 0 | Marks the object as a hit circle |
 | 1 | Marks the object as a slider |
 | 2 | Marks the start of a new combo |
-| 3 | Marks the object as a spinner  |
+| 3 | Marks the object as a spinner |
 | 4, 5, 6 | A 3-bit integer specifying how many combo colours to skip, a practice referred to as "colour hax". Only relevant if the object starts a new combo. |
 | 7 | Marks the object as an osu!mania hold note. |
 

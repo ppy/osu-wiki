@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Revival"
+title: The Revival
 date: 2013-07-31 04:39:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/56943222761/the-revival
 ---

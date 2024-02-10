@@ -42,7 +42,7 @@ Si bien la ramificación es técnicamente opcional, es [muy recomendable por un 
 
 1. En la carpeta en la que clonó el repositorio, navegue hasta el archivo que desea editar. Los artículos están organizados por los nombres de las carpetas que son los nombres de los artículos y los archivos `.md` que son las traducciones.
 2. Una vez que encuentre el archivo correcto, ábralo con su editor de texto favorito.
-3. Ahora puede hacer sus cambios. Tómese un momento para pasar también por la [autocomprobación](/wiki/osu!_wiki/Contribution_guide#autocomprobación).
+3. Ahora puede hacer sus cambios. Tómese un momento para pasar también por la [autocomprobación](/wiki/osu!_wiki/Contribution_guide#self-check).
 4. Continua a [Creación de commits y envío](#creación-de-commits-y-envío).
 
 ### Mover archivos existentes
@@ -66,25 +66,28 @@ Si bien la ramificación es técnicamente opcional, es [muy recomendable por un 
 
 1. Vuelva a GitHub Desktop. Debería verse algo similar a esto:
 
-  ![](img/github-desktop-changes.jpg "El número de archivos puede variar.")
+   ![](img/github-desktop-changes.jpg "El número de archivos puede variar.")
 
 2. De manera predeterminada, GitHub Desktop seleccionará automáticamente todos sus cambios.
+
 3. Es mejor separar cada acción «grande» como un solo commit.
 
-Por ejemplo, como se muestra arriba, [pippi](/wiki/Mascots#pippi) agregó una imagen, modificó el archivo `en.md` para agregar un título y un enlace a la imagen, y marcó las traducciones como obsoletas. A partir de esto, podemos tener dos commits, una para los cambios que afectaron el archivo `en.md` y otra para marcar las traducciones como obsoletas.
+   Por ejemplo, como se muestra arriba, [pippi](/wiki/Mascots#pippi) agregó una imagen, modificó el archivo `en.md` para agregar un título y un enlace a la imagen, y marcó las traducciones como obsoletas. A partir de esto, podemos tener dos commits, una para los cambios que afectaron el archivo `en.md` y otra para marcar las traducciones como obsoletas.
 
 4. Seleccione los archivos que se van a añadir al commit.
+
 5. Escriba un resumen para el commit. Esto tiene un límite de 72 caracteres y **debe estar en inglés**.
+
 6. Escriba una descripción. Esto es opcional, no tiene límite de caracteres y puede estar en cualquier idioma.
 
-  ![](img/github-desktop-first-commit.jpg "Primer commit")
+   ![](img/github-desktop-first-commit.jpg "Primer commit")
 
 7. Haga clic en el botón azul `Commit to` y, si corresponde, reinicie desde el paso 4 para realizar los otros commits que desea realizar.
 
-  ![](img/github-desktop-second-commit.jpg "Segundo commit")
+   ![](img/github-desktop-second-commit.jpg "Segundo commit")
 
 8. Una vez que haya terminado de hacer sus commits, haga clic en el botón `Publish branch` en la parte superior.
 
-  ![](img/github-desktop-push.jpg)
+   ![](img/github-desktop-push.jpg)
 
-9. Continue a [Revisión](/wiki/osu!_wiki/Contribution_guide#revisión) para obtener la última información sobre su solicitud de cambios y cambios.
+9. Continue a [Revisión](/wiki/osu!_wiki/Contribution_guide#review) para obtener la última información sobre su solicitud de cambios y cambios.

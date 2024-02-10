@@ -34,7 +34,7 @@ Cada uma dessas seções atualmente tem 4 volumes.
 
 #### Observações
 
-- Depois de conseguir a conquista, você pode optar por excluir as músicas do tema. Sua conquista, pontuação e precisão permanecerão. Caso deseje melhorar a sua pontuação e precisão de um certo beatmap, você deverá jogá-lo novamente.  
+- Depois de conseguir a conquista, você pode optar por excluir as músicas do tema. Sua conquista, pontuação e precisão permanecerão. Caso deseje melhorar a sua pontuação e precisão de um certo beatmap, você deverá jogá-lo novamente.
 - Caso esteja se perguntando por que não recebeu a insígnia e sente que perdeu uma música, verifique a [listagem do pacote](https://osu.ppy.sh/p/packlist?t=t). Musicas concluídas estão marcadas como **CLEARED** em negrito.
 - A insígnia é concedida após a conclusão de todas as músicas do tema em questão.
   - Seja paciente e certifique-se de que sua pontuação foi enviada e classificada corretamente. Você não vai querer repetir a música do beatmap novamente, especialmente se for muito difícil para você, não é?

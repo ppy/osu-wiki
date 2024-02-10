@@ -55,7 +55,7 @@ Links:
 
 Las actualizaciones de este mes se componían principalmente de parchear la actualización principal anterior, ¡pero eso no significa que ese fuera el final! Primero, fue la implementación inicial del soporte de "Colecciones" que reemplazará a los "Favoritos A/B" de larga data, lo que simplificará que el jugador coloque sus mapas favoritos en "Colecciones" y pueda compartirlo con otros por transferir las "Colecciones" en lugar de "Favoritos A/B".
 
-Los modos de juego ahora se pueden cambiar fácilmente en la selección de canciones usando `Ctrl` + `1`, `2`, `3` o `4`. Se agregó un nuevo modificador de juego especialmente para osu!mania, [Random](/wiki/Gameplay/Game_modifier/Random). Se han realizado algunos ajustes en el comportamiento del botón "Partida aleatoria" de Multijugador para dirigirlo a una sala con respecto a su pp promedio frente a la desviación del pp de la sala.
+Los modos de juego ahora se pueden cambiar fácilmente en la selección de canciones usando `Ctrl` + `1`, `2`, `3` o `4`. Se agregó un nuevo modificador del juego especialmente para osu!mania, [Random](/wiki/Gameplay/Game_modifier/Random). Se han realizado algunos ajustes en el comportamiento del botón "Partida aleatoria" de Multijugador para dirigirlo a una sala con respecto a su pp promedio frente a la desviación del pp de la sala.
 
 Para las repeticiones de mapas, los comentarios obsoletos se cambiaron a [estilo nico](https://en.wikipedia.org/wiki/Nico_Nico_Douga) en movimiento. El estilo y el color de los comentarios ahora se pueden personalizar (solo para osu!supporters).
 

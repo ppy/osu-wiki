@@ -78,7 +78,7 @@ osu!direct es el motor de búsqueda y descarga de beatmaps disponible para suppo
 
 Los supporters tienen acceso a varias [tablas de clasificación](/wiki/Beatmap#tablas-de-clasificación) específicas por beatmap disponibles en el juego y en el sitio web:
 
-- Clasificación mundial para cada combinación de [modificadores de juego](/wiki/Gameplay/Game_modifier)
+- Clasificación mundial para cada combinación de [modificadores del juego](/wiki/Gameplay/Game_modifier)
 - Clasificación nacional para jugadores que comparten la misma bandera
 - Clasificación entre amigos que muestra la posición del jugador en cualquier mapa comparado con sus amigos
 
@@ -88,7 +88,7 @@ osu! ofrece a los supporters límites incrementados en varias funciones en líne
 
 | Valor | Limite regular | Limite de osu!supporter |
 | :-- | :-: | :-: |
-| [Beatmaps pendientes](/wiki/Beatmap/Category#trabajo-en-progreso-y-pendientes) | `4 + min(beatmaps clasificados, 4)`, hasta **8**[^pending-beatmaps-ref] | `8 + min(beatmaps clasificados, 12)`, hasta **20**[^pending-beatmaps-ref] |
+| [Beatmaps pendientes](/wiki/Beatmap/Category#wip-and-pending) | `4 + min(beatmaps clasificados, 4)`, hasta **8**[^pending-beatmaps-ref] | `8 + min(beatmaps clasificados, 12)`, hasta **20**[^pending-beatmaps-ref] |
 | Beatmaps favoritos | 100 | 1000 |
 | Amigos | 500 | 1000 |
 

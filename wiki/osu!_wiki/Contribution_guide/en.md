@@ -18,13 +18,10 @@ The osu! wiki articles are stored on [GitHub][osu_wiki]. To contribute, do the f
 
 0. [Create](https://github.com/signup) a GitHub account.
 1. Open the [`ppy/osu-wiki`][osu_wiki] repository and click `Fork` in the top-right corner to make a controlled copy of the wiki. To return to your fork, go to [`ppy/osu-wiki`][osu_wiki] and press `Fork` again.
-
-  - If you've made a fork some time ago, sync it according to [Best practices § Syncing the fork](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork).
-
+   - If you've made a fork some time ago, sync it according to [Best practices § Syncing the fork](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork).
 2. Read [Best practices § Making changes](/wiki/osu!_wiki/Contribution_guide/Best_practices#making-edits) and perform necessary edits. While you are free to use any application of your choice, the osu! wiki has detailed instructions on two workflows:
-
-  - [GitHub web-based editor](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) (online, no installation required).
-  - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) (offline, offers more control).
+   - [GitHub web-based editor](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) (online, no installation required).
+   - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) (offline, offers more control).
 
 ## Self-check {id=self-check}
 

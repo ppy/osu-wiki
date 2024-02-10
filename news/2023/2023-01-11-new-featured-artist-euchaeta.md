@@ -13,7 +13,7 @@ Japanese-style instrumentation, folk-inspired vocals, and VOCALOID are some main
 **9** tracks unlike anything you've ever heard are available at your digital fingertips via [**Euchaeta**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/333). Grab them while supplies last (a.k.a. until the internet stops existing).
 
 If you haven't heard **Euchaeta**'s sound yet, that's about to change. Witness [Regou](https://osu.ppy.sh/users/419954) play through [A Songwriter's Cosmos](https://osu.ppy.sh/beatmapsets/1858201) with mouse only, then follow your gut by clicking on every other preview:
- 
+
 <div align="center">
     <video width="100%" controls>
         <source src="https://assets.ppy.sh/artists/333/release_showcase.mp4" type="video/mp4" preload="none">

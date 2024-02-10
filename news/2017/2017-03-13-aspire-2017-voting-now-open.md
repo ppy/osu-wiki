@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aspire 2017 - Voting Now Open!"
+title: Aspire 2017 - Voting Now Open!
 date: 2017-03-13 09:56:05 +0000
 tumblr_url: http://osunews.tumblr.com/post/158347604853/aspire-2017-voting-now-open
 ---

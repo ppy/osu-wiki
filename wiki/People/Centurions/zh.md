@@ -1,6 +1,6 @@
 # 百夫长
 
-百夫长即已经达成了里程碑——创作了一百张（或更多）[已上架](/wiki/Beatmap/Category#上架-(ranked))[谱面](/wiki/Beatmap)的玩家。从 [2023 年 7 月](https://osu.ppy.sh/home/news/2023-07-11-introducing-new-beatmap-pack-categories)开始，他们通过制作谱面，帮助 osu! 变得更加出色多彩的杰出奉献精神已被认可；并获得了以下奖励：
+百夫长即已经达成了里程碑——创作了一百张（或更多）[已上架](/wiki/Beatmap/Category#ranked)[谱面](/wiki/Beatmap)的玩家。从 [2023 年 7 月](https://osu.ppy.sh/home/news/2023-07-11-introducing-new-beatmap-pack-categories)开始，他们通过制作谱面，帮助 osu! 变得更加出色多彩的杰出奉献精神已被认可；并获得了以下奖励：
 
 - 百夫长[谱面包](/wiki/Beatmap/Packs)：对于玩家上架的每 100 张谱面，谱师可以选择其中 10 张谱面放入谱面包中。这个谱面包可以在[谱面包列表](https://osu.ppy.sh/beatmaps/packs)的[主题分类](https://osu.ppy.sh/beatmaps/packs?type=theme)中找到并下载。
 - 一个特殊的百夫长徽章。
@@ -19,6 +19,7 @@
 | ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | [2017-10-23](https://osu.ppy.sh/beatmapsets/659371) | [2022-07-09](https://osu.ppy.sh/beatmapsets/1738133) |  |
 | ::{ flag=GR }:: [Genjuro](https://osu.ppy.sh/users/3196091) | [2019-04-10](https://osu.ppy.sh/beatmapsets/921130) | [2022-08-27](https://osu.ppy.sh/beatmapsets/1797642) | [#1](https://osu.ppy.sh/beatmaps/packs/TM1) |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [2020-03-09](https://osu.ppy.sh/beatmapsets/1112834) | [2023-08-28](https://osu.ppy.sh/beatmapsets/2031892) | [#1](https://osu.ppy.sh/beatmaps/packs/TM16) |
+| ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | [2013-06-13](https://osu.ppy.sh/beatmapsets/64564) | [2024-02-08](https://osu.ppy.sh/beatmapsets/2105591#osu/4418008) |  |
 | ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | [2015-11-12](https://osu.ppy.sh/beatmapsets/335145) | [2019-04-29](https://osu.ppy.sh/beatmapsets/956716) | [#1](https://osu.ppy.sh/beatmaps/packs/TM11)、[#2](https://osu.ppy.sh/beatmaps/packs/TM12) |
 | ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812) | [2017-04-14](https://osu.ppy.sh/beatmapsets/540867) | [2023-08-23](https://osu.ppy.sh/beatmapsets/1852680) | [#1](https://osu.ppy.sh/beatmaps/packs/TM17) |
 | ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763) | [2017-03-13](https://osu.ppy.sh/beatmapsets/542755) | [2019-08-31](https://osu.ppy.sh/beatmapsets/894701) | [#1](https://osu.ppy.sh/beatmaps/packs/TM13) |
