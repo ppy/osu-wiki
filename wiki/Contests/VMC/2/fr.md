@@ -76,9 +76,9 @@ Tous les mappeurs participants reçoivent un retour constructif de la part de ma
 
 ## Musiques
 
-5 musiques ont été sélectionnées par l'équipe parmi celles fournies par [iroha(sasaki)] (https://osu.ppy.sh/beatmaps/artists/399) dans le cadre de ce concours de mapping. Ces musiques ont été sélectionnées sur la base de plusieurs facteurs, tels que le fait qu'elles aient été classées dans le passé, leur adéquation avec les objectifs du concours de mapping, et d'autres facteurs.
+5 musiques ont été sélectionnées par l'équipe parmi celles fournies par [iroha(sasaki)](https://osu.ppy.sh/beatmaps/artists/399) dans le cadre de ce concours de mapping. Ces musiques ont été sélectionnées sur la base de plusieurs facteurs, tels que le fait qu'elles aient été classées dans le passé, leur adéquation avec les objectifs du concours de mapping, et d'autres facteurs.
 
-Veillez à soutenir [iroha(sasaki)] (https://osu.ppy.sh/beatmaps/artists/399).
+Veillez à soutenir [iroha(sasaki)](https://osu.ppy.sh/beatmaps/artists/399).
 
 | Musique | VOCALOID | Parolier | Longueur | BPM | Modèle |
 | :-- | :-- | :-- | :-- | :-- | :-- |
