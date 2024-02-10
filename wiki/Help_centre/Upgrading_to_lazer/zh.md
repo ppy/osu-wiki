@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 4390338dba70d8ad149f01408d623120cdc6aa96
+---
+
 # 升级到 lazer
 
 *注意：我们仍在调整游戏平衡，开发游戏新机制。目前，**在 lazer 上取得的分数不会永久保存**。*
@@ -111,7 +116,7 @@ osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕�
 
 所以你决定稍微体验一下 lazer？太棒了！
 
-你能在[这里](https://github.com/ppy/osu#running-osu)下载到该版本。在不久的将来，你能从稳定版切换到 lazer（在`更新通道 (更新版本)` 设置里切换），并在 osu! 官网上找到下载链接！
+你能在[这里](https://osu.ppy.sh/home/download)下载到该版本。在不久的将来，你能从稳定版切换到 lazer（在`更新通道 (更新版本)` 设置里切换）。
 
 ## 常见问题
 
@@ -276,7 +281,7 @@ lazer 没有歌曲文件夹！这能让我们做一些很酷的事情，比如�
 
 你可能把它当成其他游戏了。
 
-### 备注
+## 备注
 
 [^wine]: 需要使用 Wine。
 [^compatibility-mode]: DirectX，又称作兼容模式。

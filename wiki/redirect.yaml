@@ -32,7 +32,8 @@ song_setup:                       Client/Beatmap_editor/Song_setup
 key_count:                        Client/Beatmap_editor/Song_setup#key-count-osumania-only
 timelines:                        Client/Beatmap_editor/Timelines
 timeline:                         Client/Beatmap_editor/Timelines
-timing:                           Client/Beatmap_editor/Timing
+timing:                           Disambiguation/Timing
+beatmap_timing:                   Beatmapping/Timing
 
 mapping:                     Beatmapping
 

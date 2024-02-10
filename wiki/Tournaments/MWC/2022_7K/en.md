@@ -59,7 +59,7 @@ The osu!mania 7K 2022 was run by the osu! team and various community members.
 
 ## Participants
 
-| | Country | Members |
+|  | Country | Members |
 | :-: | :-: | :-- |
 | ::{ flag=AR }:: | **Argentina** | **[lxLucasxl](https://osu.ppy.sh/users/3632846)**, [DUELODER](https://osu.ppy.sh/users/8224116), [Greedom](https://osu.ppy.sh/users/10696707), [LeongKat](https://osu.ppy.sh/users/11429144) |
 | ::{ flag=AU }:: | **Australia** | **[sankansuki](https://osu.ppy.sh/users/2877926)**, [ruka](https://osu.ppy.sh/users/6117525), [Nerd Guy](https://osu.ppy.sh/users/11247298), [Bounter](https://osu.ppy.sh/users/11149878) |
@@ -246,13 +246,13 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Saturday, February 19, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Malaysia ::{ flag=MY }:: | 1 | **7** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/97947404) |
 
 Sunday, February 20, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **South Korea** ::{ flag=KR }:: | **7** | 1 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/97990489) |
 
@@ -262,14 +262,14 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Saturday, February 12, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Philippines** ::{ flag=PH }:: | **7** | 2 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/97687067) |
 | **China** ::{ flag=CN }:: | **7** | 3 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/97689158) |
 
 Sunday, February 13, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **China** ::{ flag=CN }:: | **7** | 4 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/97731670) |
 | **South Korea** ::{ flag=KR }:: | **7** | 2 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/97736266) |
@@ -280,7 +280,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Saturday, February 5, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Indonesia** ::{ flag=ID }:: | **7** | 2 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/97417859) |
 | China ::{ flag=CN }:: | 2 | **7** | ::{ flag=MY }:: **Malaysia** | [#1](https://osu.ppy.sh/community/matches/97417959) |
@@ -290,7 +290,7 @@ Saturday, February 5, 2022
 
 Sunday, February 6, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **South Korea** ::{ flag=KR }:: | **7** | 6 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/97459939) |
 | **Thailand** ::{ flag=TH }:: | **7** | 0 | ::{ flag=ES }:: Spain | [#1](https://osu.ppy.sh/community/matches/97462885) |
@@ -302,7 +302,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Saturday, January 29, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | United States ::{ flag=US }:: | 0 | **6** | ::{ flag=ES }:: **Spain** | [#1](https://osu.ppy.sh/community/matches/97134166) |
 | Taiwan ::{ flag=TW }:: | 3 | **6** | ::{ flag=CL }:: **Chile** | [#1](https://osu.ppy.sh/community/matches/97137500) |
@@ -311,7 +311,7 @@ Saturday, January 29, 2022
 
 Sunday, January 30, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **South Korea** ::{ flag=KR }:: | **6** | 0 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/97170691) |
 | **China** ::{ flag=CN }:: | **6** | 5 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/97177094) |
@@ -324,7 +324,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Saturday, January 22, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Indonesia** ::{ flag=ID }:: | **6** | 0 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/96833931) |
 | Spain ::{ flag=ES }:: | 4 | **6** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/96836932) |
@@ -332,7 +332,7 @@ Saturday, January 22, 2022
 
 Sunday, January 23, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Canada** ::{ flag=CA }:: | **6** | 3 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/96871014) |
 | **China** ::{ flag=CN }:: | **6** | 0 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/96879069) |

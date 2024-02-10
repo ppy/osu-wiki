@@ -40,7 +40,7 @@ By default, many IRC clients inform you when a user joins or leaves a channel. F
 
 | IRC client | Description |
 | :-- | :-- |
-| [HexChat](https://hexchat.github.io/) | Check "Hide join and part messages" under `Settings` -> `Preferences` -> `Chatting` -> `General` (Advanced pre-2.9.6)  |
+| [HexChat](https://hexchat.github.io/) | Check "Hide join and part messages" under `Settings` -> `Preferences` -> `Chatting` -> `General` (Advanced pre-2.9.6) |
 | [ircII](http://www.eterna.com.au/ircii/) | Type `IGNORE * CRAP` |
 | [Irssi](https://irssi.org) | Type `/ignore * JOINS PARTS QUITS` |
 | [Weechat](https://weechat.org/) | Type `/filter add joinquit * irc_join,irc_part,irc_quit *` |

@@ -12,10 +12,10 @@ This makes it harder to continue from a pause in the middle of active gameplay, 
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | No |
-| Classic mod revert support | No |
-| Intentionally changed | Yes |
-| Needs further consideration | Yes |
+| Breaks backwards compatibility | ![No][false] |
+| Classic mod revert support | ![No][false] |
+| Intentionally changed | ![Yes][true] |
+| Needs further consideration | ![Yes][true] |
 
 ### The Easy mod no longer pauses gameplay when recovering from failure
 
@@ -23,10 +23,10 @@ Instead of pausing gameplay while filling up the health bar, health is restored 
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | No |
-| Classic mod revert support | No |
-| Intentionally changed | No |
-| Needs further consideration | Yes |
+| Breaks backwards compatibility | ![No][false] |
+| Classic mod revert support | ![No][false] |
+| Intentionally changed | ![No][false] |
+| Needs further consideration | ![Yes][true] |
 
 ### The health system is different
 
@@ -34,30 +34,39 @@ This is mostly due to changes to the judgement system. For example, Geki and Kat
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
-| Intentionally changed | Yes |
-| Needs further consideration | Yes |
+| Breaks backwards compatibility | ![Yes][true] |
+| Classic mod revert support | ![Yes][true] |
+| Intentionally changed | ![Yes][true] |
+| Needs further consideration | ![Yes][true] |
 
-### All game modes use the same grading system
+### All game modes except osu!catch use the same grading system
 
-All game modes use a grading system similar to the one in osu!mania on stable (c.f. [Grade](/wiki/Gameplay/Grade)).
+In stable, the accuracy (and judgement) requirements for each [grade](/wiki/Gameplay/Grade) are as follows:
 
-| Grade | Condition |
-| :-: | :-- |
-| SS | 100% accuracy |
-| S | At least 95% accuracy |
-| A | At least 90% accuracy |
-| B | At least 80% accuracy |
-| C | At least 70% accuracy |
-| D | Anything else |
+| Grade | osu! / osu!taiko | osu!catch | osu!mania |
+| :-: | :-- | :-- | :-- |
+| SS | 100% | 100% | 100% |
+| S | ≥90% (≤1% MEHs/50s, no misses) | ≥98% | ≥95% |
+| A | ≥80% (no misses) or ≥90% | ≥94% | ≥90% |
+| B | ≥70% (no misses) or ≥80% | ≥90% | ≥80% |
+| C | ≥60% | ≥85% | ≥70% |
+
+Meanwhile, osu!(lazer) has these accuracy cutoffs now:
+
+| Grade | osu! / osu!taiko / osu!mania | osu!catch |
+| :-: | :-- | :-- |
+| SS | 100% | 100% |
+| S | ≥95% | ≥98% |
+| A | ≥90% | ≥94% |
+| B | ≥80% | ≥90% |
+| C | ≥70% | ≥85% |
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
-| Intentionally changed | Yes |
-| Needs further consideration | Yes |
+| Breaks backwards compatibility | ![Yes][true] |
+| Classic mod revert support | ![No][false] |
+| Intentionally changed | ![Yes][true] |
+| Needs further consideration | ![Yes][true] |
 
 ### Hit window edge calculations do not match stable
 
@@ -71,10 +80,10 @@ When a hit lands right at the edge of the hit window, a different judgement may 
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
-| Intentionally changed | Yes |
-| Needs further consideration | Yes |
+| Breaks backwards compatibility | ![Yes][true] |
+| Classic mod revert support | ![No][false] |
+| Intentionally changed | ![Yes][true] |
+| Needs further consideration | ![Yes][true] |
 
 ### Differences in scoring
 
@@ -86,10 +95,10 @@ There are also some differences in how much score each hit object and each judge
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
-| Intentionally changed | Yes |
-| Needs further consideration | Yes |
+| Breaks backwards compatibility | ![Yes][true] |
+| Classic mod revert support | ![No][false] |
+| Intentionally changed | ![Yes][true] |
+| Needs further consideration | ![Yes][true] |
 
 ### Storyboard triggers are not implemented
 
@@ -107,10 +116,10 @@ Recovering from a miss in dense patterns has been made easier.
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | Yes |
-| Intentionally changed | Yes |
-| Needs further consideration | No |
+| Breaks backwards compatibility | ![Yes][true] |
+| Classic mod revert support | ![Yes][true] |
+| Intentionally changed | ![Yes][true] |
+| Needs further consideration | ![No][false] |
 
 ### Slider head circles require accuracy when hitting
 
@@ -120,36 +129,23 @@ Until lazer, sliders have only required the accuracy of a 50/MEH judgement to re
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | Yes |
-| Intentionally changed | Yes |
-| Needs further consideration | No |
-
-### Slider ends do not contribute to combo nor cause misses
-
-Slider ends used to have the quirk of not breaking combo (and not causing a MISS judgement) if missed. This meant that an S play, which among other things requires zero MISS judgements, would look like a full combo even if some slider ends were missed. Various debates over whether such a play should be called an FC ensued.
-
-From now on slider ends will only affect score and accuracy, but have no effect on combo. This means that a no-miss score always signifies a full combo.
-
-|  |  |
-| :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | Yes |
-| Intentionally changed | Yes |
-| Needs further consideration | Yes |
+| Breaks backwards compatibility | ![Yes][true] |
+| Classic mod revert support | ![Yes][true] |
+| Intentionally changed | ![Yes][true] |
+| Needs further consideration | ![No][false] |
 
 ### Missing a slider head causes a miss
 
 Missing a slider head (either by not hitting it or hitting it during its miss window) would previously break combo but not cause a MISS judgement, and a judgement could still be received for the missed slider by completing the rest of it. This allowed players to get scores with low max combo while technically having no misses.
 
-In lazer, not hitting the slider head will give a MISS judgement for the whole slider. After missing a slider head, combo, score, and accuracy can still be gained from slider ticks and repeats, while only score and accuracy can still be gained from the slider end.
+In lazer, not hitting the slider head will give a MISS judgement for the whole slider. After missing a slider head, combo, score, and accuracy can still be gained from slider ticks, repeats, and ends.
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
-| Intentionally changed | Yes |
-| Needs further consideration | No |
+| Breaks backwards compatibility | ![Yes][true] |
+| Classic mod revert support | ![No][false] |
+| Intentionally changed | ![Yes][true] |
+| Needs further consideration | ![No][false] |
 
 ### Slider ends do not cause hitsounds when not hit
 
@@ -157,23 +153,31 @@ In stable, slider ends would play their hitsounds even if they were missed, as l
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | No |
-| Classic mod revert support | Yes |
-| Intentionally changed | Yes |
-| Needs further consideration | No |
+| Breaks backwards compatibility | ![No][false] |
+| Classic mod revert support | ![Yes][true] |
+| Intentionally changed | ![Yes][true] |
+| Needs further consideration | ![No][false] |
 
 ### The spinner spin speed cap of 477 RPM has been removed
 
-Instead of a speed cap, spinners now have a score cap determined by the total amount of rotations that can be achieved by spinning the entire spinner at 477 RPM.
+Instead of a speed cap, spinners now have a score cap determined by the total amount of rotations that can be achieved by spinning the entire spinner at a certain RPM depending on OD.
 
 This means that the maximum score can be obtained early by spinning faster, with no more points awarded afterwards for the rest of the spinner duration.
 
+The RPM required to get the maximum score is as follows:
+
+| OD | RPM |
+| --: | --: |
+| 0 | 250 |
+| 5 | 380 |
+| 10 | 430 |
+
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
-| Intentionally changed | Yes |
-| Needs further consideration | Yes |
+| Breaks backwards compatibility | ![Yes][true] |
+| Classic mod revert support | ![No][false] |
+| Intentionally changed | ![Yes][true] |
+| Needs further consideration | ![Yes][true] |
 
 ### Aspire-like glitched sliders are not supported
 
@@ -185,10 +189,10 @@ More discussion and consideration will be needed for how much of Aspire beatmaps
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
-| Intentionally changed | No |
-| Needs further consideration | Yes |
+| Breaks backwards compatibility | ![Yes][true] |
+| Classic mod revert support | ![No][false] |
+| Intentionally changed | ![No][false] |
+| Needs further consideration | ![Yes][true] |
 
 ## osu!taiko
 
@@ -198,10 +202,10 @@ Some gimmick maps make use of notes that overlap swells.
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
-| Intentionally changed | No |
-| Needs further consideration | Yes |
+| Breaks backwards compatibility | ![Yes][true] |
+| Classic mod revert support | ![No][false] |
+| Intentionally changed | ![No][false] |
+| Needs further consideration | ![Yes][true] |
 
 ### Drumrolls do not prevent mashing
 
@@ -209,10 +213,10 @@ In stable, drumrolls could not be hit too quickly or too slowly. This restrictio
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
-| Intentionally changed | Yes |
-| Needs further consideration | Yes |
+| Breaks backwards compatibility | ![Yes][true] |
+| Classic mod revert support | ![No][false] |
+| Intentionally changed | ![Yes][true] |
+| Needs further consideration | ![Yes][true] |
 
 ### The Flashlight centre is aligned with the hit receptor
 
@@ -222,10 +226,10 @@ In stable, the Flashlight centre is offset a bit down and to the right, making m
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | No |
-| Classic mod revert support | No |
-| Intentionally changed | No |
-| Needs further consideration | Yes |
+| Breaks backwards compatibility | ![No][false] |
+| Classic mod revert support | ![No][false] |
+| Intentionally changed | ![No][false] |
+| Needs further consideration | ![Yes][true] |
 
 ## osu!catch
 
@@ -235,10 +239,10 @@ This may lead to inaccurate judgements in replays and increased difficulty.
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
-| Intentionally changed | No |
-| Needs further consideration | Yes |
+| Breaks backwards compatibility | ![Yes][true] |
+| Classic mod revert support | ![No][false] |
+| Intentionally changed | ![No][false] |
+| Needs further consideration | ![Yes][true] |
 
 ### Juice stream generation can be different in some cases
 
@@ -246,10 +250,10 @@ This may lead to inaccurate judgements in replays.
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
-| Intentionally changed | No |
-| Needs further consideration | Yes |
+| Breaks backwards compatibility | ![Yes][true] |
+| Classic mod revert support | ![No][false] |
+| Intentionally changed | ![No][false] |
+| Needs further consideration | ![Yes][true] |
 
 ## osu!mania
 
@@ -259,10 +263,10 @@ This functions similarly to ScoreV2 in stable.
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
-| Intentionally changed | Yes |
-| Needs further consideration | No |
+| Breaks backwards compatibility | ![Yes][true] |
+| Classic mod revert support | ![No][false] |
+| Intentionally changed | ![Yes][true] |
+| Needs further consideration | ![No][false] |
 
 ### Hold note ticks give score and are responsible for combo breaks
 
@@ -272,10 +276,10 @@ This does allow for cheesing (a.k.a. "manipulating") by allowing wrist-jacking w
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
-| Intentionally changed | Yes |
-| Needs further consideration | Yes |
+| Breaks backwards compatibility | ![Yes][true] |
+| Classic mod revert support | ![No][false] |
+| Intentionally changed | ![Yes][true] |
+| Needs further consideration | ![Yes][true] |
 
 ### Extreme scroll speeds are limited
 
@@ -285,10 +289,10 @@ Some beatmaps with SV gimmicks like teleports or stops do not look as intended, 
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | No |
-| Classic mod revert support | No |
-| Intentionally changed | Yes |
-| Needs further consideration | Yes |
+| Breaks backwards compatibility | ![No][false] |
+| Classic mod revert support | ![No][false] |
+| Intentionally changed | ![Yes][true] |
+| Needs further consideration | ![Yes][true] |
 
 ### The PERFECT judgement hit window scales with OD
 
@@ -296,10 +300,10 @@ This used to be a constant ±16 ms regardless of overall difficulty.
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
-| Intentionally changed | Yes |
-| Needs further consideration | No? |
+| Breaks backwards compatibility | ![Yes][true] |
+| Classic mod revert support | ![No][false] |
+| Intentionally changed | ![Yes][true] |
+| Needs further consideration | ![No][false] |
 
 ### Converts no longer have different hit windows
 
@@ -307,10 +311,10 @@ In stable, beatmaps converted from the osu! game mode into osu!mania had [differ
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
-| Intentionally changed | Yes |
-| Needs further consideration | No? |
+| Breaks backwards compatibility | ![Yes][true] |
+| Classic mod revert support | ![No][false] |
+| Intentionally changed | ![Yes][true] |
+| Needs further consideration | ![No][false] |
 
 ### The Flashlight mod does not have a gradient
 
@@ -318,7 +322,10 @@ In stable, beatmaps converted from the osu! game mode into osu!mania had [differ
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | No |
-| Classic mod revert support | No |
-| Intentionally changed | No |
-| Needs further consideration | Yes |
+| Breaks backwards compatibility | ![No][false] |
+| Classic mod revert support | ![No][false] |
+| Intentionally changed | ![No][false] |
+| Needs further consideration | ![Yes][true] |
+
+[true]: /wiki/shared/true.png
+[false]: /wiki/shared/false.png
