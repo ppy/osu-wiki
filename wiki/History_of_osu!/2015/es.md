@@ -47,13 +47,13 @@ El teclado osu! (también conocido como el «teclado osu! 'nono'») se agregó a
 
 ## Junio
 
-La implementación del sistema de cambio de nombre de usuario en la osu!store se puso en marcha el 16 de junio de 2015, aunque la funcionalidad completa del sistema no estuvo disponible hasta el 18 de junio de 2015. Los cambios hicieron que los jugadores tuvieran que pagar $4 USD por su primer cambio de nombre, después de lo cual el precio se duplicaría con cada compra posterior con un límite de $100 USD; sin embargo, si un usuario compró un [tag de osu!supporter](https://osu.ppy.sh/home/support), su primer cambio sería gratuito. [^ppy-blog-june-04][^ppy-blog-june-16][^ppy-blog-june-17][^ppy-blog-june-18]
+La implementación del sistema de cambio de nombre de usuario en la osu!store se puso en marcha el 16 de junio de 2015, aunque la funcionalidad completa del sistema no estuvo disponible hasta el 18 de junio de 2015. Los cambios hicieron que los jugadores tuvieran que pagar 4 $ por su primer cambio de nombre, después de lo cual el precio se duplicaría con cada compra posterior con un límite de 100 $; sin embargo, si un usuario compró un [tag de osu!supporter](https://osu.ppy.sh/home/support), su primer cambio sería gratuito. [^ppy-blog-june-04][^ppy-blog-june-16][^ppy-blog-june-17][^ppy-blog-june-18]
 
 La capacidad de ver cómo se vería una repetición sin [mods](/wiki/Gameplay/Game_modifier) se agregó el 23 de junio de 2015 según una [solicitud de función](https://osu.ppy.sh/community/forums/topics/97560), aunque el cambio solo hizo que los mods [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), [Half Time](/wiki/Gameplay/Game_modifier/Half_Time) y [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) sean conmutables.[^ppy-blog-june-23]
 
 ## Julio
 
-El 15 de julio de 2015, se anunció que se creó un nuevo equipo público de [Slack](https://slack.com/) con el fin de mejorar la comunicación con los contribuyentes públicos. [peppy](https://osu.ppy.sh/users/2) inicialmente hizo el anuncio en su blog y explicó que cualquiera que estuviera dispuesto a ayudar a probar funciones de cutting-edge, contribuir con recursos gráficos/de sonido u obtener ayuda trabajando con osu! podrían venir y unirse al equipo y hablar con la gente de diferentes [equipos de osu!](/wiki/People/osu!_team) directamente.[^ppy-blog-july-15]
+El 15 de julio de 2015, se anunció que se creó un nuevo equipo público de [Slack](https://slack.com/) con el fin de mejorar la comunicación con los contribuyentes públicos. [peppy](https://osu.ppy.sh/users/2) inicialmente hizo el anuncio en su blog y explicó que cualquiera que estuviera dispuesto a ayudar a probar funciones de cutting-edge, contribuir con recursos gráficos/de sonido u obtener ayuda trabajando con osu! podrían venir y unirse al equipo y hablar con la gente de diferentes [osu! teams](/wiki/People/osu!_team) directamente.[^ppy-blog-july-15]
 
 *Nota: También existía un equipo privado de Slack que el osu! team usó para comunicaciones internas, que no era accesible o visible para usuarios externos; estos dos equipos eran independientes entre sí.*
 
