@@ -36,10 +36,11 @@
           - wiki/Tournaments/**
 
 "area:translations":
-  - changed-files:
-      - all-globs-to-any-file:
-          - wiki/**/*.md
-          - "!wiki/**/en.md"
-      - all-globs-to-any-file:
-          - meta/group-info/*.yml
-          - "!meta/group-info/en.yml"
+  - all:
+      - changed-files:
+          - any-glob-to-any-file:
+              - wiki/**/*.md
+              - meta/group-info/*.yml
+          - all-globs-to-all-files:
+              - "!wiki/**/en.md"
+              - "!meta/group-info/en.yml"
