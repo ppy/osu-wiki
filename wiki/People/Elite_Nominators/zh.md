@@ -18,8 +18,7 @@
   - 头衔会持续到下一批次优秀提名者的选举。如果玩家卸任提名者，将取消头衔
   - 如果玩家连续被评为优秀提名者，则头衔等级会逐年递增 1
 - 一个特别的优秀提名者[主页奖牌](/wiki/Community/Profile_badge)
-
-![](https://assets.ppy.sh/profile-badges/elite-nominator.png "优秀提名者奖牌")
+  ![](https://assets.ppy.sh/profile-badges/elite-nominator.png?2024 "优秀提名者奖牌") ![](https://assets.ppy.sh/profile-badges/elite-nominator-2.png "优秀提名者 II 奖牌")
 
 ## 2019
 

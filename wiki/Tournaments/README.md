@@ -1,3 +1,5 @@
+<!-- lint disable wiki-links -->
+
 # Tournaments
 
 This is where wiki articles for tournaments live, both official and community-run. You are welcome to add new tournaments here, but you should have approval from the tournaments' host(s) before doing so.

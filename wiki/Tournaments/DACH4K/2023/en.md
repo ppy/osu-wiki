@@ -32,7 +32,7 @@ The **DACH 4k Championship 2023** (***DACH4K 2023***) was an osu!mania 4K tourna
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter |
 
-![DACH4K 2023 winner badge](img/DACH4K-2023-badge.png "DACH4K 2023 winner badge") 
+![DACH4K 2023 winner badge](img/DACH4K-2023-badge.png "DACH4K 2023 winner badge")
 
 ## Organisation
 
@@ -45,7 +45,7 @@ The DACH 4k Championship 2023 was run by various community members.
 | Mappooler / mapper | ::{ flag=DE }:: [ERA Sirbeyy](https://osu.ppy.sh/users/12917829) , ::{ flag=DE }:: [EimitMaggi999](https://osu.ppy.sh/users/10922297) ,  ::{ flag=DE }:: [Maxim-Miau](https://osu.ppy.sh/users/12660835) , ::{ flag=US }:: [ERA Imperial](https://osu.ppy.sh/users/5066305) , ::{ flag=US }:: [\[GS\]Rose](https://osu.ppy.sh/users/9481266),  ::{ flag=NL }:: [DannyPX](https://osu.ppy.sh/users/11253722) , ::{ flag=DE }:: [AL-E](https://osu.ppy.sh/users/18096415) |
 | Playtester / replay maker | ::{ flag=PE }:: [ERA Xuste](https://osu.ppy.sh/users/17989444) , ::{ flag=SG }:: [AdamAckerville](https://osu.ppy.sh/users/12297375) , ::{ flag=MX }:: [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763) , ::{ flag=DE }:: [cakeboss05](https://osu.ppy.sh/users/12586864) , ::{ flag=MY }:: [ERA Nanachi](https://osu.ppy.sh/users/25604245) , ::{ flag=ES }:: [ERA Minikrimi](https://osu.ppy.sh/users/15186865) , ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622) |
 | Referee | ::{ flag=PE }:: [ERA Xuste](https://osu.ppy.sh/users/17989444) , ::{ flag=CN }:: [\[GB\]Rush_FTK](https://osu.ppy.sh/users/3046856) , ::{ flag=US }:: [\[GS\]Rose](https://osu.ppy.sh/users/9481266) , ::{ flag=AE }:: [dragiee](https://osu.ppy.sh/users/17959501) , ::{ flag=DE }:: [cakeboss05](https://osu.ppy.sh/users/12586864) , ::{ flag=DE }:: [EimitMaggi999](https://osu.ppy.sh/users/10922297) |
-| Streamer | ::{ flag=DE }:: [Vincus](https://osu.ppy.sh/users/16124906) , ::{ flag=DE }:: [cakeboss05](https://osu.ppy.sh/users/12586864) , ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622)  |
+| Streamer | ::{ flag=DE }:: [Vincus](https://osu.ppy.sh/users/16124906) , ::{ flag=DE }:: [cakeboss05](https://osu.ppy.sh/users/12586864) , ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622) |
 | Commentator | ::{ flag=DE }::  [araciumhd](https://osu.ppy.sh/users/15882740) , ::{ flag=DE }:: [datnonameboi](https://osu.ppy.sh/users/14217761) , ::{ flag=DE }:: [Vincus](https://osu.ppy.sh/users/16124906) , ::{ flag=DE }:: [AL-E](https://osu.ppy.sh/users/18096415) , ::{ flag=AE }:: [dragiee](https://osu.ppy.sh/users/17959501) , ::{ flag=DE }:: [cakeboss05](https://osu.ppy.sh/users/12586864) ,  ::{ flag=DE }:: [EimitMaggi999](https://osu.ppy.sh/users/10922297) ,  ::{ flag=DE }:: [Maxim-Miau](https://osu.ppy.sh/users/12660835) ,  ::{ flag=DE }:: [Blacku1](https://osu.ppy.sh/users/14160917) |
 | Graphic designer | ::{ flag=DE }:: [araciumhd](https://osu.ppy.sh/users/15882740) , ::{ flag=DK }:: [ERA Urrk](https://osu.ppy.sh/users/11539225) |
 | Sheeter | ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052) |
@@ -357,7 +357,7 @@ Monday, 17 July 2023:
 #### Qualifier
 
 1. Each player may sign up into a Qualifier lobby in advance.
-   - If none of the default lobbies are suitable, players can request a custom lobby before Monday 00:00 (UTC+2) on the week of the Qualifiers. 
+   - If none of the default lobbies are suitable, players can request a custom lobby before Monday 00:00 (UTC+2) on the week of the Qualifiers.
 2. 15 minutes before the Qualifier starts, players will be made aware of the Qualifier via the referee. 5 minutes before the start, players will be invited to the lobby.
 3. In the lobby, all Qualifier maps will be played 2 times in a row, with an optional 5-minute break between each run.
 4. Maps in the Qualifiers stage will be:

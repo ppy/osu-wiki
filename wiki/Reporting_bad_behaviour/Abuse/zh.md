@@ -1,19 +1,16 @@
 # 举报滥用
 
-## 我不知道我应不应该举报
+## 我不知道我是否应该举报
 
 请举报吧。
 
-如果你已经不舒服到找到这篇文章，请通过 [abuse@ppy.sh](mailto:abuse@ppy.sh) 联系我们，并且尽可能详细地描述你的问题。
+如果你已经感觉很不舒服，甚至找到了这篇文章，请通过 [abuse@ppy.sh](mailto:abuse@ppy.sh) 联系我们，并且尽可能详细地描述你的问题。
 
 我们对这个社区中任何未经同意的性暗示或更进一步的行为都是零容忍的。
 
-这个举报邮箱只有两个人可以看到：
+这个举报邮箱只有 [peppy](https://osu.ppy.sh/users/2)（游戏创始人）可以看到。
 
-- [peppy](https://osu.ppy.sh/users/2)（游戏作者）
-- [Ephemeral](https://osu.ppy.sh/users/102335)（社区管理员）
-
-你发送给 [abuse@ppy.sh](mailto:abuse@ppy.sh) 的一切材料，只有上述两人可以看到，并且永远不会分享给任何人。
+你发送给 [abuse@ppy.sh](mailto:abuse@ppy.sh) 的一切材料，只有他可以看到，并且永远不会分享给任何人。
 
 ## 有人性挑逗或用言语骚扰我！
 

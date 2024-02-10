@@ -5,6 +5,9 @@ RUN apt-get update
 # Install git
 RUN DEBIAN_FRONTEND=noninteractive apt-get install -y git
 
+# Install gosu
+RUN DEBIAN_FRONTEND=noninteractive apt-get install -y gosu
+
 # Install Node.js <https://github.com/nodesource/distributions#nodejs>
 RUN DEBIAN_FRONTEND=noninteractive apt-get install -y ca-certificates curl gnupg && \
     mkdir -p /etc/apt/keyrings && \
@@ -14,12 +17,14 @@ RUN DEBIAN_FRONTEND=noninteractive apt-get install -y ca-certificates curl gnupg
     DEBIAN_FRONTEND=noninteractive apt-get install -y nodejs
 
 WORKDIR /osu-wiki
-COPY package.json package-lock.json scripts/requirements.txt /osu-wiki/
 
 # Install osu-wiki tool dependencies
+COPY package.json package-lock.json requirements.txt ./
 RUN npm install && npm install -g osu-wiki && pip3 install -r requirements.txt
 
-# Prevent git from refusing to work in a repository with "dubious ownership".
-# The repository, mounted with --volume ...:/osu-wiki, is owned by a host user, and the container user is root.
-# See run-checks.sh for more CI workarounds.
-RUN git config --global --add safe.directory /osu-wiki
+# Run the container with UID and GID of the host
+COPY meta/docker-entrypoint.sh /
+ENTRYPOINT ["/docker-entrypoint.sh"]
+
+# By default, run all checks when the container is started
+CMD ["meta/check-all.sh"]

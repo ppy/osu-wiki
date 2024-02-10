@@ -19,7 +19,7 @@ This month's issue of the Mappers' Report contains the following topics:
 
 ## Ranking Criteria Changes
 
-As always, we start with this month's ranking criteria changes. Let's hop right in and see what happened this month. 
+As always, we start with this month's ranking criteria changes. Let's hop right in and see what happened this month.
 
 ### All Modes
 
@@ -29,7 +29,7 @@ As always, we start with this month's ranking criteria changes. Let's hop right 
 
 - **[Allow ranking 10-Key beatmaps](https://osu.ppy.sh/community/forums/topics/1285594)**: This long-awaited change for the osu!mania community finally brings 10-key maps into the limelight, making them rankable for the first time ever.
 
-## Open Ranking Criteria Proposals 
+## Open Ranking Criteria Proposals
 
 ### All Modes
 
@@ -106,7 +106,7 @@ While he still has a long way to reach his full potential, it will be quite fasc
 
 ### X a v y
 
-A mapper whose popularity has been on the rise among high-level players, [X a v y](https://osu.ppy.sh/users/3738344) burst into the ranked section for the first time in early 2021 with [Houshou Marine - Ahoy!! Warera Houshou Kaizokudan\*](https://osu.ppy.sh/beatmapsets/1282787), a marathon version of a pirate v-tuber's debut song. 
+A mapper whose popularity has been on the rise among high-level players, [X a v y](https://osu.ppy.sh/users/3738344) burst into the ranked section for the first time in early 2021 with [Houshou Marine - Ahoy!! Warera Houshou Kaizokudan\*](https://osu.ppy.sh/beatmapsets/1282787), a marathon version of a pirate v-tuber's debut song.
 
 Though this might've been his first foray into ranked, X a v y's beatmap graveyard is all but crammed full of a massive catalogue of challenging maps, so make sure to give it a look if you fancy yourself up to the occasion!
 
@@ -140,7 +140,7 @@ Last but certainly not least, here's a rundown of all the other mapping and modd
 
 The Mentorship program is back with another cycle! Are you interested in mapping but have no idea where to start? Or, are you looking for people to convey your ingenious mapping techniques? The [Community Mentorship Program](https://osu.ppy.sh/community/forums/topics/1273766) is exactly what you are looking for.
 
-In this program, experienced mappers are allocated groups of people to tutor on both basic and advanced beatmapping concepts. Whether it is osu!, osu!taiko, osu!catch or osu!mania, the program has mapping mentors from every game mode, and many of the more recently popular mappers have been participants in the program in the past. 
+In this program, experienced mappers are allocated groups of people to tutor on both basic and advanced beatmapping concepts. Whether it is osu!, osu!taiko, osu!catch or osu!mania, the program has mapping mentors from every game mode, and many of the more recently popular mappers have been participants in the program in the past.
 
 While the mentor signups have already been closed, the mentee signups will open on **April 19th** and will remain up until **April 25th**. Take a look at the project and save the date, it could be your big break into the scene!
 
@@ -148,9 +148,9 @@ If you have ever wanted to learn how to map, do not waste this chance and sign u
 
 ### Advanced beatmap search is here!
 
-As a bit of extra news, we're excited to highlight a recent change to the [beatmap listing page](https://osu.ppy.sh/beatmapsets), which now finally supports advanced searching functions similar to what you can use in-game. 
+As a bit of extra news, we're excited to highlight a recent change to the [beatmap listing page](https://osu.ppy.sh/beatmapsets), which now finally supports advanced searching functions similar to what you can use in-game.
 
-You can now search for beatmaps ranked in a specific year using special shorthand syntax by using things like `ranked=2010`. You may also search for specific keys for osu!mania beatmaps, via `keys=7`. 
+You can now search for beatmaps ranked in a specific year using special shorthand syntax by using things like `ranked=2010`. You may also search for specific keys for osu!mania beatmaps, via `keys=7`.
 
 A complete list of possible search options can be found on the [Interface wiki page](/wiki/Client/Interface#search).
 
@@ -168,9 +168,9 @@ Here's a vod of the stream that compiles all aspects of mapping in 9 hours:
 
 ---
 
-And that's it for the March issue of the Mappers' Report! 
+And that's it for the March issue of the Mappers' Report!
 
-Should you know anything mapping or modding related, be it guides, podcasts or videos, let us know. We would love to touch upon them in the next issue of Mappers' Report! 
+Should you know anything mapping or modding related, be it guides, podcasts or videos, let us know. We would love to touch upon them in the next issue of Mappers' Report!
 
 You can either directly contact [Feerum](https://osu.ppy.sh/users/4815717) or drop by in the `#mappers-report` channel on the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H).
 

@@ -46,7 +46,7 @@ Beatmap metadata fields can be compared against specific values for more granula
 | `mode` | Game mode. This can be one of `osu`, `taiko`, `catch`, or `mania`, or `o`/`t`/`c`/`m` for short. |
 | `status` | Beatmap status. Value can be `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, or `loved`, or `r`/`a`/`p`/`n`/`u`/`l` for short. |
 | `played` | Time since last played in days |
-| `unplayed` | Show only unplayed maps. A comparison with no set value must be used (e.g. `unplayed=`). The comparison itself is ignored. |
+| `unplayed` | Show only unplayed maps. This filter must be set no value to take effect (`unplayed=`). The comparison operator itself can be whatever (e.g. `unplayed=`, `unplayed>` and `unplayed!=` do the same thing). |
 | `speed` | Saved osu!mania scroll speed. The scroll speed is always 0 for unplayed maps, or if the [`Remember osu!mania scroll speed per beatmap`](/wiki/Client/Options#gameplay) option is off. |
 
 ## Website[^website-filters]

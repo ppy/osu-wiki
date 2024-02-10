@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Winter Sports 2020 Fanart Contest Voting Open!"
+title: Winter Sports 2020 Fanart Contest Voting Open!
 date: 2020-11-24 10:00:00 +0000
 ---
 
@@ -22,7 +22,7 @@ Check out the video below for a quick preview of what's up for voting, all set t
 
 Like what you see? Don't post timestamps in the comments, DO head on over to the [**Winter Sports 2020 Fanart Contest** listing](https://osu.ppy.sh/community/contests/114) and cast your votes for your favorites today!
 
-As usual, the voting will remain open for only **7 days**, so make sure you get in early before you get snowed in. 
+As usual, the voting will remain open for only **7 days**, so make sure you get in early before you get snowed in.
 
 A selection of the top-voted entries will make it to the main menu as Winter's seasonal backgrounds to cap off 2020 (at long, long last).
 
