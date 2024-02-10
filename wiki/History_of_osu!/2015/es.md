@@ -39,9 +39,9 @@ La antigua clasificación de Beatmap Nominator (BN) quedó totalmente obsoleta e
 
 Entre los cambios y anuncios realizados en torno a la clasificación de beatmaps, [se realizó un cambio en el proceso de clasificación](https://osu.ppy.sh/community/forums/topics/325973) el 5 de mayo de 2015 que permitió a los jugadores disputar las descalificaciones realizadas por el Quality Assurance Team (QAT), debido a la falta de cualquier forma de disputar los problemas que pueda plantear el QAT. El nuevo cambio hizo posible enviar un formulario si hubiera una disputa, donde se podría tomar una decisión final con respecto a un beatmap y si está listo para ser clasificado.[^osu-weekly-9]
 
-El [canal de YouTube de osu!news](https://www.youtube.com/channel/UCZKQIqv9O2tddMNUMAxWaqQ) subió su [primer vídeo](https://www.youtube.com/watch?v=KQbudVxEjr8) al público el 8 de mayo de 2015. El canal estaba a cargo de varios miembros de la comunidad y tenía como objetivo crear vídeos sobre exhibiciones de skins, torneos, mapping, concursos y otras noticias de la comunidad.[^osu-weekly-9][^osu-news-welcome]
+El [canal de YouTube osu!news](https://www.youtube.com/channel/UCZKQIqv9O2tddMNUMAxWaqQ) subió su [primer vídeo](https://www.youtube.com/watch?v=KQbudVxEjr8) al público el 8 de mayo de 2015. El canal estaba a cargo de varios miembros de la comunidad y tenía como objetivo crear vídeos sobre exhibiciones de skins, torneos, mapping, concursos y otras noticias de la comunidad.[^osu-weekly-9][^osu-news-welcome]
 
-El teclado osu! (también conocido como el «teclado osu! 'nono'») se agregó a la osu!store el 30 de mayo de 2015, con un precio de venta minorista de alrededor de $40 en el lanzamiento. Anunciado inicialmente en un [tuit de peppy](https://twitter.com/ppy/status/603797988742336512) el 28 de mayo de 2015, solo había 100 teclados disponibles en el lanzamiento y se parecían más a un keypad que a un teclado de tamaño completo.[^osu-weekly-12][^ppy-tweet-osu-keyboards]
+El teclado osu! (también conocido como el «teclado osu! 'nono'») se agregó a la osu!store el 30 de mayo de 2015, con un precio de venta minorista de alrededor de 40 $ en el lanzamiento. Anunciado inicialmente en un [tuit de peppy](https://twitter.com/ppy/status/603797988742336512) el 28 de mayo de 2015, solo había 100 teclados disponibles en el lanzamiento y se parecían más a un keypad que a un teclado de tamaño completo.[^osu-weekly-12][^ppy-tweet-osu-keyboards]
 
 ![](img/osu-keyboard.jpg "El teclado de osu! objeto de burla en un tuit de peppy")
 
@@ -55,9 +55,9 @@ La capacidad de ver cómo se vería una repetición sin [mods](/wiki/Gameplay/Ga
 
 El 15 de julio de 2015, se anunció que se creó un nuevo equipo público de [Slack](https://slack.com/) con el fin de mejorar la comunicación con los contribuyentes públicos. [peppy](https://osu.ppy.sh/users/2) inicialmente hizo el anuncio en su blog y explicó que cualquiera que estuviera dispuesto a ayudar a probar funciones de cutting-edge, contribuir con recursos gráficos/de sonido u obtener ayuda trabajando con osu! podrían venir y unirse al equipo y hablar con la gente de diferentes [equipos de osu!](/wiki/People/osu!_team) directamente.[^ppy-blog-july-15]
 
-*Nota: También existía un equipo privado de Slack que el osu! team utilizó para comunicaciones internas, que no era accesible o visible para usuarios externos; estos dos equipos eran independientes entre sí.*
+*Nota: También existía un equipo privado de Slack que el osu! team usó para comunicaciones internas, que no era accesible o visible para usuarios externos; estos dos equipos eran independientes entre sí.*
 
-No obstante, el nuevo equipo era completamente público y estaba disponible para que cualquiera se uniera, lo que provocó que muchos usuarios no deseados inundaran los canales. Esto obligó a peppy a «bloquear» el nuevo equipo al día siguiente. A pesar de esto, peppy siguió haciendo uso del equipo durante el resto del año y, a menudo, invitaba a los usuarios a venir y unirse cuando estaban probando nuevas funciones o implementaciones.[^ppy-blog-july-16][^ppy-blog-july-20]
+No obstante, el nuevo equipo era completamente público y estaba disponible para que cualquiera se uniera, lo que provocó que muchos usuarios no deseados inundaran los canales. Esto obligó a peppy a «bloquear» el nuevo equipo hasta el día siguiente. A pesar de esto, peppy siguió haciendo uso del equipo durante el resto del año y, a menudo, invitaba a los usuarios a venir y unirse cuando estaban probando nuevas funciones o implementaciones.[^ppy-blog-july-16][^ppy-blog-july-20]
 
 ## Agosto
 
@@ -65,7 +65,7 @@ Los moderadores de chat se fusionaron oficialmente con el Global Moderation Team
 
 ## Septiembre
 
-El antiguo contador de FPS fue reemplazado por una nueva «pantalla de actualización y latencia» el 2 de septiembre de 2015. Esta nueva pantalla aún mostraría los FPS actuales (fotogramas por segundo), pero el nuevo cambio hizo que se ocultara de la vista si superaba los 500 FPS. Además, se agregó un nuevo contador debajo del contador de FPS que mostraría exactamente cuánta latencia se estaba introduciendo durante la representación de cuadros (medida en milisegundos). Los fotogramas «tartamudeados» o «caídos» se mostrarían como rectángulos de colores a la izquierda del contador para visualizar mejor exactamente cuánta latencia de procesamiento de fotogramas estaba experimentando un usuario.[^ppy-blog-sep-mwr][^osu-weekly-29]
+El antiguo contador de FPS fue reemplazado por una nueva «pantalla de actualización y latencia» el 2 de septiembre de 2015. Esta nueva pantalla aún mostraría los FPS (fotogramas por segundo) actuales, pero el nuevo cambio hizo que se ocultara de la vista si superaba los 500 FPS. Además, se agregó un nuevo contador debajo del contador de FPS que mostraría exactamente cuánta latencia se estaba introduciendo durante la representación de cuadros (medida en milisegundos). Los fotogramas «tartamudeados» o «caídos» se mostrarían como rectángulos de colores a la izquierda del contador para visualizar mejor exactamente cuánta latencia de procesamiento de fotogramas estaba experimentando un usuario.[^ppy-blog-sep-mwr][^osu-weekly-29]
 
 El 26 de septiembre de 2015, [cYsmix](http://cysmix.com/) se convirtió en uno de los primeros artistas oficiales de osu!. Esta asociación implicó la creación de tres pistas hechas específicamente para osu!, junto con la creación de un concurso de mapping usando esas pistas. Las tres pistas antes mencionadas fueron las siguientes:
 
@@ -73,23 +73,23 @@ El 26 de septiembre de 2015, [cYsmix](http://cysmix.com/) se convirtió en uno d
 - [«House with Legs»](https://soundcloud.com/olemlanglie/cysmix-house-with-legs-osu)
 - [«Dovregubben's Hall (New Ver.)»](https://soundcloud.com/olemlanglie/cysmix-dovregubbens-hall-new-ver-osu)
 
-![](img/cysmix-album-cover-1.jpg "La portada del álbum para el primer lanzamiento de canciones oficiales de osu! de cYsmix")
+![](img/cysmix-album-cover-1.jpg "La portada del álbum para el primer lanzamiento de canciones oficiales de osu! por cYsmix")
 
 Cada pista tenía su propio archivo [`.osz`](/wiki/Client/File_formats/osz_(file_format)) preprogramado incluido y se lanzó en el [SoundCloud de cYsmix](https://soundcloud.com/olemlanglie) el 28 de septiembre de 2015.
 
-Además de esto, se creó una «recompensa abierta» llamada «Mapping With Rewards» para este evento, que permitía a cualquiera mapear una de las pistas antes mencionadas, ponerla en un estado clasificable y, si era lo suficientemente impresionante, esa persona podría recibir una recompensa por ello. La recompensa ofrecida en ese momento era la siguiente: una canción incluida con el cliente (por un período de tiempo limitado), crédito de $50 en la osu!store, 6 meses de supporter y una insignia de perfil única. Según los informes, esta recompensa abierta se creó debido a la necesidad de recompensar a los jugadores por beatmaps de calidad y para celebrar las nuevas pistas sin tener que pasar por la molestia que conlleva la ejecución de concursos de mapping tradicionales.[^ppy-blog-sep-mwr]
+Además de esto, se creó una «recompensa abierta» llamada «Mapping With Rewards» para este evento, que permitía a cualquiera mapear una de las pistas antes mencionadas, ponerla en un estado clasificable y, si era lo suficientemente impresionante, esa persona podría recibir una recompensa por ello. La recompensa ofrecida en ese momento era la siguiente: una canción incluida con el cliente (por un período de tiempo limitado), crédito de 50 $ en la osu!store, 6 meses de supporter y una insignia de perfil única. Según los informes, esta recompensa abierta se creó debido a la necesidad de recompensar a los jugadores por beatmaps de calidad y para celebrar las nuevas pistas sin tener que pasar por la molestia que conlleva la ejecución de concursos de mapping tradicionales.[^ppy-blog-sep-mwr]
 
-Sin embargo, a pesar de [las promesas de peppy en su blog](https://blog.ppy.sh/post/132009865043/mapping-with-rewards-oct-2015), los resultados del Mapping With Rewards no se publicaron al final del año.
+Sin embargo, a pesar de [las promesas de peppy en su blog](https://blog.ppy.sh/post/132009865043/mapping-with-rewards-oct-2015), los resultados de Mapping With Rewards no se publicaron al final del año.
 
 ## Octubre
 
-Después de meses de trabajo, se completó la migración de [DirectX](https://es.wikipedia.org/wiki/DirectX) a [OpenGL](https://es.wikipedia.org/wiki/OpenGL) y se envió a todos los usuarios en el flujo de lanzamiento Stable el 16 de octubre de 2015. Sin embargo, los usuarios que no pudieron ejecutar la nueva actualización debido a problemas de compatibilidad cambiaron a una nueva secuencia de lanzamiento llamada «Stable (Fallback)», que usaba el antiguo renderizado de gráficos de DirectX. Estaba destinado a ser compatible continuamente junto con el lanzamiento de Stable hasta que el osu! team confiara lo suficiente en la compatibilidad del renderizado OpenGL para todos los usuarios.[^ppy-blog-june-11][^ppy-blog-july-31][^ppy-blog-august-12][^ppy-blog-september-04][^ppy-blog-october-16]
+Después de meses de trabajo, se completó la migración de [DirectX](https://es.wikipedia.org/wiki/DirectX) a [OpenGL](https://es.wikipedia.org/wiki/OpenGL) y se envió a todos los usuarios en el flujo de lanzamiento Stable el 16 de octubre de 2015. Sin embargo, los usuarios que no pudieron ejecutar la nueva actualización debido a problemas de compatibilidad cambiaron a un nuevo canal de lanzamiento llamado «Stable (Fallback)», que usaba el antiguo renderizado de gráficos de DirectX. Estaba destinado a ser compatible continuamente junto con el lanzamiento de Stable hasta que el osu! team confiara lo suficiente en la compatibilidad del renderizado OpenGL para todos los usuarios.[^ppy-blog-june-11][^ppy-blog-july-31][^ppy-blog-august-12][^ppy-blog-september-04][^ppy-blog-october-16]
 
-Otro lote de canciones oficiales de osu! fueron lanzadas por cYsmix el 27 de octubre de 2015, y también se abrió un concurso similar de «estilo de recompensa abierta». Las tres canciones fueron [«Fright March»](https://soundcloud.com/olemlanglie/cysmix-fright-march-osu), [«Moonlight Sonata»](https://soundcloud.com/olemlanglie/cysmix-moonlight-sonata-osu), y [«Classic Pursuit»](https://soundcloud.com/olemlanglie/cysmix-classic-pursuit-osu).[^ppy-blog-oct-mwr][^osu-weekly-34]
+Otro lote de canciones oficiales de osu! fueron lanzadas por cYsmix el 27 de octubre de 2015, y también se abrió un concurso similar al del «estilo de recompensa abierta». Las tres canciones fueron [«Fright March»](https://soundcloud.com/olemlanglie/cysmix-fright-march-osu), [«Moonlight Sonata»](https://soundcloud.com/olemlanglie/cysmix-moonlight-sonata-osu) y [«Classic Pursuit»](https://soundcloud.com/olemlanglie/cysmix-classic-pursuit-osu).[^ppy-blog-oct-mwr][^osu-weekly-34]
 
-![](img/cysmix-album-cover-2.jpg "La portada del álbum para el segundo lanzamiento de canciones oficiales de osu! de cYsmix")
+![](img/cysmix-album-cover-2.jpg "La portada del álbum para el segundo lanzamiento de canciones oficiales de osu! por cYsmix")
 
-Al igual que el [concurso de Mapping With Rewards del mes anterior](#septiembre), los resultados no se publicaron antes de fin de año.
+Al igual que el [concurso Mapping With Rewards del mes anterior](#septiembre), los resultados no se publicaron antes de fin de año.
 
 La URL del subdominio de prueba de los nuevos foros de osu! (jizz.ppy.sh) se reemplazó con new.ppy.sh el 26 de octubre de 2015 debido a las connotaciones explícitas que la antigua URL puede haber implicado.[^osu-weekly-34][^new-design-post]
 
@@ -103,12 +103,12 @@ Los banners de perfil de la [OWC](/wiki/Tournaments#osu!-world-cup) se agregaron
 
 La verificación de correo electrónico requerida para ciertas acciones de la cuenta comenzó a implementarse el 16 de noviembre de 2015 en respuesta a eventos recientes en ese momento que involucraron el compromiso de numerosas cuentas de osu! de streamers.[^ppy-blog-november-17][^ppy-blog-november-19][^osu-weekly-36] Al día siguiente, [peppy publicó en su blog](https://blog.ppy.sh/post/133395614668/20151117), donde inicialmente anunció el cambio en la seguridad de la cuenta:
 
-> Me ha llamado la atención que en los últimos días una gran cantidad de streamers de osu! han sido hackeados. El vínculo común parece ser que todos tenían cuentas xsplit activas (que fue hackeado en 2013, filtrando todas las contraseñas). Esto significa que dichos usuarios estaban usando la misma contraseña en twitch, twitter, osu! y más. En primer lugar, si estás haciendo algo como esto, SAL AHORA MISMO Y CAMBIA TUS CONTRASEÑAS. ¡Obtén un administrador de contraseñas y configura una contraseña por servicio!
+> Me ha llamado la atención que en los últimos días una gran cantidad de streamers de osu! han sido hackeados. El vínculo común parece ser que todos tenían cuentas de xsplit activas (que fue hackeado en 2013, filtrando todas las contraseñas). Esto significa que dichos usuarios estaban usando la misma contraseña en twitch, twitter, osu! y más. En primer lugar, si estás haciendo algo como esto, SAL AHORA MISMO Y CAMBIA TUS CONTRASEÑAS. ¡Obtén un administrador de contraseñas y configura una contraseña por servicio!
 > Aunque estoy seguro de que osu! no estuvo involucrado en la filtración de ningún detalle, me aseguro de que más intentos de este tipo no resulten en cuentas de osu! comprometidas. A partir de ayer comencé a implementar la verificación de correo electrónico para ciertas acciones de la cuenta. En el futuro, también agregaremos verificación de correo electrónico al cliente del juego, pero esto requerirá un poco más de implementación. Espéralo en un futuro cercano.
 
 — peppy, «20151117»[^osu-weekly-36]
 
-Unos días después (19 de noviembre de 2015), peppy actualizó a los usuarios sobre la situación en [otra publicación de blog](https://blog.ppy.sh/post/133524244723/20151119), en la que explicó la situación y mantuvo su postura igual:
+Unos días después (19 de noviembre de 2015), peppy actualizó a los usuarios sobre la situación en [otra publicación en su blog](https://blog.ppy.sh/post/133524244723/20151119), en la que explicó la situación y mantuvo su postura igual:
 
 > Algunas actualizaciones sobre la seguridad de la cuenta:
 
