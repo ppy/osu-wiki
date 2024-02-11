@@ -117,7 +117,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
 | Thailand ::{ flag=TH }:: | ::{ flag=CA }:: Canada | [Feb 11 (Sun) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T143000&p1=1440&p2=28&p3=188) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Finals | mappool showcase | [Feb 11 (Sun) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T153000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
-
 ## Mappools
 
 ### Semifinals
