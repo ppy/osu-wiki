@@ -108,36 +108,20 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
 
 ## Match schedule: Semifinals
 
-### Saturday, 10 February 2024
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| Australia ::{ flag=AU }:: | ::{ flag=US }:: United States | [Feb 10 (Sat) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240210T020000&p1=1440&p2=57&p3=263) | *TBD* | [^losers-bracket] |
-| Japan ::{ flag=JP }:: | ::{ flag=RU }:: Russian Federation | [Feb 10 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240210T110000&p1=1440&p2=248&p3=166) | *TBD* | [^losers-bracket] |
-| Thailand ::{ flag=TH }:: | ::{ flag=PL }:: Poland | [Feb 10 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240210T130000&p1=1440&p2=28&p3=262) | *TBD* | [^losers-bracket] |
-| Canada ::{ flag=CA }:: | ::{ flag=BR }:: Brazil | [Feb 10 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240210T180000&p1=1440&p2=188&p3=45) | *TBD* | [^losers-bracket] |
-
 ### Sunday, 11 February 2024
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=PH }:: Philippines | [Feb 11 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T100000&p1=1440&p2=235&p3=145) | *TBD* | [^winners-bracket] |
-| Japan ::{ flag=JP }:: | ::{ flag=AU }:: Australia | [Feb 11 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T120000&p1=1440&p2=248&p3=57) | *TBD* | [^potential-match] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=AU }:: Australia | [Feb 11 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T120000&p1=1440&p2=166&p3=57) | *TBD* | [^potential-match] |
-| China ::{ flag=CN }:: | ::{ flag=MY }:: Malaysia | [Feb 11 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T130000&p1=1440&p2=33&p3=122) | *TBD* | [^winners-bracket] |
-| Japan ::{ flag=JP }:: | ::{ flag=US }:: United States | [Feb 11 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T150000&p1=1440&p2=248&p3=263) | *TBD* | [^potential-match] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=US }:: United States | [Feb 11 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T150000&p1=1440&p2=166&p3=263) | *TBD* | [^potential-match] |
-| Thailand ::{ flag=TH }:: | ::{ flag=CA }:: Canada | [Feb 11 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T160000&p1=1440&p2=28&p3=188) | *TBD* | [^potential-match] |
-| Thailand ::{ flag=TH }:: | ::{ flag=BR }:: Brazil | [Feb 11 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T160000&p1=1440&p2=28&p3=45) | *TBD* | [^potential-match] |
-| Poland ::{ flag=PL }:: | ::{ flag=CA }:: Canada | [Feb 11 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T160000&p1=1440&p2=262&p3=188) | *TBD* | [^potential-match] |
-| Poland ::{ flag=PL }:: | ::{ flag=BR }:: Brazil | [Feb 11 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T160000&p1=1440&p2=262&p3=45) | *TBD* | [^potential-match] |
-| Finals | mappool showcase | [Feb 11 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T170000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| Japan ::{ flag=JP }:: | ::{ flag=AU }:: Australia | [Feb 11 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T090000&p1=1440&p2=248&p3=57) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| South Korea ::{ flag=KR }:: | ::{ flag=PH }:: Philippines | [Feb 11 (Sun) 10:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T103000&p1=1440&p2=235&p3=145) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| Thailand ::{ flag=TH }:: | ::{ flag=CA }:: Canada | [Feb 11 (Sun) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T143000&p1=1440&p2=28&p3=188) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Finals | mappool showcase | [Feb 11 (Sun) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T153000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Mappools
 
 ### Semifinals
 
-**[Download the mappack here (124 MB, *temporary link*)](https://leoflt.com/s/nwxP)**
+**[Download the mappack here (119 MB)](https://packs.ppy.sh/P236%20-%20osu!mania%207K%20World%20Cup%202024%3A%20Semifinals.zip)**
 
 - Rice
   1. [rejection - The Way of Adventure (feat. Kusaka Akira) (osu! edit) (Jinjin) \[Delayed Journey\]](https://osu.ppy.sh/beatmapsets/2130606#mania/4480890)
@@ -154,7 +138,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
 - Hybrid
   1. [orangentle / Yu\_Asahina - OEFHEBEN (Wonki) \[Aufheben\]](https://osu.ppy.sh/beatmapsets/2130617#mania/4480914)
   2. [Frums - 24eeev0-$ (Jinjin) \[ev0lution\_42\]](https://osu.ppy.sh/beatmapsets/2130620#mania/4480921)
-  3. [tn-shi - Synthesis. (Critical\_Star) \[Synthwave Rift\] *(temporary link)*](https://leoflt.com/s/RW1U)
+  3. [tn-shi - Synthesis. (Critical\_Star) \[Synthwave Rift\]](https://osu.ppy.sh/beatmapsets/2130789#mania/4481282)
 - Tiebreaker
   1. **[Akiri - Symphony Of The Lost Souls (-NoName-) \[Drifting Astray\]](https://osu.ppy.sh/beatmapsets/2130621#mania/4480922)**
 
@@ -237,6 +221,23 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
 8. [Raimukun - Cthulhu (Leeju) \[Stage 8: Abyss\]](https://osu.ppy.sh/beatmapsets/2115980#mania/4443612)
 
 ## Match results
+
+### Semifinals
+
+Saturday, 10 February 2024:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Australia** ::{ flag=AU }:: | **6** | 1 | ::{ flag=US }:: United States | [#1](https://osu.ppy.sh/community/matches/112599980) | [#1](https://www.twitch.tv/videos/2058617517) |
+| **Japan** ::{ flag=JP }:: | **6** | 1 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/112601240) | [#1](https://www.twitch.tv/videos/2058679149) |
+| **Thailand** ::{ flag=TH }:: | **6** | 0 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/112602618) | [#1](https://www.twitch.tv/videos/2058745265) |
+| China ::{ flag=CN }:: | 4 | **6** | ::{ flag=MY }:: **Malaysia** | [#1](https://osu.ppy.sh/community/matches/112604848) | [#1](https://www.twitch.tv/videos/2058868470) |
+
+Sunday, 11 February 2024:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Canada** ::{ flag=CA }:: | **6** | 1 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/112613268) | [#1](https://www.twitch.tv/videos/2059320023) |
 
 ### Quarterfinals
 
@@ -508,7 +509,6 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 [^winners-bracket]: Winners bracket match
 [^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
 [^mappool-showcase]: Mappool showcase — schedule subject to rescheduling without prior notice, depending on preceding matches
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same average rank
