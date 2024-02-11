@@ -5,6 +5,8 @@ tags:
   - CM
   - mod
   - game modifier
+  - 模组
+  - 游戏模组
 ---
 
 # Cinema（模组）
@@ -26,11 +28,11 @@ tags:
 
 *注意：启用此模组会导致成绩不计入排名。*
 
-**Cinema** [游戏模组](/wiki/Gameplay/Game_modifier) that aims to allow players to simply relax and watch the video or storyboards from a beatmap without the appearance of any [hit objects](/wiki/Gameplay/Hit_object). This will result in a play using the [Auto](/wiki/Gameplay/Game_modifier/Auto) mod, but with **only the background and storyboard being displayed**.
+**Cinema** [游戏模组](/wiki/Gameplay/Game_modifier)会隐藏所有[打击物件](/wiki/Gameplay/Hit_object)，意在让玩家放松下来，观看谱面的视频或故事板。也就是使用 [Auto](/wiki/Gameplay/Game_modifier/Auto) 模组进行游玩，但 **只显示背景与故事板**。
 
-Due to the Cinema mod being a variation of the Auto mod, the hitsounds caused by hit objects will still be heard. Although the replay elements and result screen will be disabled along with the background dim being set to 0%.
+由于 Cinema 模组是 Auto 模组的变体，玩家仍然会听到打击物件发出的声音。但回放元素与结算屏幕会被禁用，且背景暗化数值设置为 0%。
 
-![Auto vs. Cinema gameplay](img/CM-comparison.jpg "Comparison of the Auto mod (left) vs the Cinema mod (right)")
+![Auto 与 Cinema 模组游玩对比](img/CM-comparison.jpg "Auto 模组（左图）与 Cinema 模组（右图）的比较")
 
 此模组对所有游戏模式效果相同。
 
