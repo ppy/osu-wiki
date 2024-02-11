@@ -1,7 +1,5 @@
 ---
 no_native_review: true
-outdated_translation: true
-outdated_since: 4390338dba70d8ad149f01408d623120cdc6aa96
 ---
 
 # Mise à jour vers lazer
@@ -77,11 +75,11 @@ Ce qui suit est une liste complète de **l'état actuel** de lazer par rapport �
 
 | Fonctionnalité | stable | lazer |
 | :-- | :-- | :-- |
-| Soumission du score | ![Oui][vrai] | ![Partiellement][partiel][^score-reset-balance] |
-| Classements des beatmap | ![Oui][vrai] | ![Partiellement][partiel][^score-reset-isolé] |
+| Soumission du score | ![Oui][vrai] | ![Partiellement][partiel][^score-reset] |
+| Classements des beatmap | ![Oui][vrai] | ![Partiellement][partiel][^score-reset] |
 | Statistiques du profil | ![Oui][vrai] | ![Oui][vrai] |
 | Médailles | ![Oui][vrai] | ![Non][faux] |
-| Points de performance | ![Oui][vrai] | ![Partiellement][partiel][^score-reset-isolé] |
+| Points de performance | ![Oui][vrai] | ![Partiellement][partiel][^score-reset] |
 | Tchat en temps réel | ![Partiellement][partiel][^tchat-stable] | ![Oui][vrai] |
 | Wiki/news/changelog/classements | ![Non][faux] | ![Oui][vrai][^contenu-en-ligne] |
 | Profils d'utilisateurs | ![Non][faux] | ![Oui][vrai] |
@@ -107,7 +105,7 @@ Ce qui suit est une liste complète de **l'état actuel** de lazer par rapport �
 | SV par objet/volume | ![Non][faux] | ![Oui][vrai] |
 | Types de courbes sliders par segment | ![Non][faux] | ![Oui][vrai] |
 | Séparation et fusion des sliders | ![Non][faux] | ![Oui][vrai] |
-| Rotation du pattern | ![Oui][vrai] | ![Partiellement][partiel][^éditeur-rotation-précise] |
+| Rotation du pattern | ![Oui][vrai] | ![Oui][vrai] |
 | Redimensionnement du pattern | ![Non][faux] | ![Oui][vrai] |
 | Soumission des beatmaps | ![Oui][vrai] | ![Non][faux] |
 | Éditeur de storyboard | ![Oui][vrai] | ![Non][faux] |
@@ -159,33 +157,69 @@ Cela dit, les scores individuels et les beatmaps peuvent être exportés de laze
 
 #### Si j'établis un score sur lazer, celui-ci apparaîtra-t-il sur mon profil ?
 
-Les scores apparaîtront dans la rubrique "récemment joués" mais pas encore dans la rubrique "meilleures performances".
+Oui, mais il ne s'affichera pas dans les "meilleures performances" si le "mode lazer" est désactivé sur le site web.
+
+En outre, il n'apparaît pas dans les "rangs de la première place" pour l'instant.
 
 #### Si je définis un score sur lazer, cela donnera-t-il des points de performance ?
 
-La section "récemment joué" des pages de profil montre les scores définis dans lazer avec les points de performance calculés, et le montant total peut être vu en survolant le total des points de performance réguliers.
-
-En outre, [lazer.ppy.sh](https://lazer.ppy.sh/home), une instance expérimentale du site web d'osu!, affiche tous les totaux et les classements avec les scores de lazer pris en compte.
+Oui, à condition que les scores puissent être supprimés à l'avenir.
 
 #### Lazer utilise-t-il ScoreV2 ?
 
-Oui, il utilise un système de notation basé sur celui-ci avec quelques ajustements. Les scores ScoreV1 seront convertis dans un futur proche.
+Il utilise un système de notation basé sur celui-ci avec quelques ajustements.
 
 #### Je préfère l'affichage classique des scores, où les scores deviennent vraiment importants
 
 Vous pouvez en fait changer le paramètre `Mode d'affichage des scores` en `Classique` pour retrouver le style explosif des scores dans tout le jeu ! Ce ne sera pas une correspondance parfaite, mais cela vous donnera la même sensation de score classique et sera appliqué partout où vous l'attendez.
 
+Les classements mondiaux utiliseront également les scores classiques.
+
 #### Si je fixe un score sur lazer, restera-t-il pour toujours ?
 
 Bien que nous essayions de préserver le plus grand nombre de scores possible, nous **ne garantissons pas que les scores resteront indéfiniment**. À tout moment, nous pouvons décider d'effacer un sous-ensemble ou tous les scores afin de préserver l'équilibre du jeu.
 
-#### Les scores définis sur stable seront-ils éventuellement affichés dans lazer ?
+#### Les scores définis sur stable seront-ils affichés dans lazer ?
 
-Oui. Une fois que nous aurons fini d'équilibrer la combinaison des scores lazer et stable, les deux seront visibles.
+Oui.
+
+#### Les scores établis dans lazer apparaîtront-ils dans stable ?
+
+Pas pour le moment.
 
 #### Tous les mods seront-ils classés ?
 
-Pour l'instant, les scores de toutes les combinaisons de mods apparaissent dans les classements. La question de savoir si les scores donneront des points de performance avec tous les mods (et si c'est le cas, si un bonus ou un malus sera appliqué) est encore en discussion.
+Les scores de toutes les combinaisons de mods apparaissent dans les classements.
+
+Cependant, pour l'instant, seuls les mods suivants attribuent des points de performance :
+
+- Réduction de la difficulté
+  - Easy
+  - No Fail
+  - Half Time (uniquement 0.75x)
+  - Daycore (uniquement 0.75x)
+- Augmentation de la difficulté
+  - Hard Rock (pas pour osu!mania)
+  - Sudden Death
+  - Perfect
+  - Hidden
+  - Nightcore (uniquement 1.5x)
+  - Double Time (uniquement 1.5x)
+  - Flashlight
+- Conversion (osu!mania uniquement)
+  - Mirror
+  - Four Keys
+  - Five Keys
+  - Six Keys
+  - Seven Keys
+  - Eight Keys
+  - Nine Keys
+- Fun
+  - Muted
+- Automatisation (osu! uniquement)
+  - Spun out
+- Système
+  - Touch Device
 
 #### Je n'aime pas les nouveaux mécanismes de jeu. Est-ce que je peux restaurer les anciens mécanismes de jeu comme sur stable ?
 
@@ -294,8 +328,7 @@ Vous pensez probablement à un autre jeu.
 [^calibration-décalage-lazer]: Lorsque vous réessayez une beatmap, vous pouvez calibrer le décalage en fonction de votre dernière lecture.
 [^désactivation-possible]: Peut être désactivé.
 [^note-lock]: Elle existe toujours, mais ne devrait pas interférer.
-[^score-reset-balance]: Les scores seront remis à zéro pour assurer l'équilibre.
-[^score-reset-isolé]: Les scores seront réinitialisés, actuellement isolés des scores stables.
+[^score-reset]: Les scores peuvent être réinitialisés.
 [^contenu-en-ligne]: Accès natif à la plupart des contenus en ligne.
 [^direct-supporter]: Via osu!direct, osu!supporter uniquement.
 [^supporter]: osu!supporter uniquement.
@@ -303,7 +336,6 @@ Vous pensez probablement à un autre jeu.
 [^multi-salle-max]: 16 joueurs au maximum.
 [^maps-uniquement]: Maps uniquement.
 [^tous-les-fichiers]: Tous les fichiers.
-[^éditeur-rotation-précise]: Manque de précision dans la rotation des angles.
 [^incompatibilités]: Certaines fonctionnalités de l'éditeur entraînent une lecture incorrecte des beatmaps dans la version stable - ce problème sera bientôt résolu.
 [^tchat-stable]: Les messages peuvent prendre jusqu'à 15 secondes pour arriver.
 [^compte-à-rebours-stable]: Définir un compte à rebours à l'aide d'une commande, pas de démarrage automatique.
