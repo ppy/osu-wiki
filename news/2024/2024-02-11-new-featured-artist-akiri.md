@@ -52,7 +52,7 @@ Last but absolutely not least, [start mapping **Akiri**'s opus](https://assets.p
 
 ---
 
-[**Akiri**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/401) has pre-timed beatmap templates for every other song your could possibly desire. If you haven't started mapping yet, you might have a supernatural amount of self control, and we recommend seeking help.
+[**Akiri**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/401) has pre-timed beatmap templates for every other song your heart could possibly desire. If you haven't started mapping yet, you might have a supernatural amount of self control, and we recommend seeking help.
 
 As soon as you're done devoting yourself to mapping **Akiri**'s music, look forward to the another artist announcement coming next weekend!
 
