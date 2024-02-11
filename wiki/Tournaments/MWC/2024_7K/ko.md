@@ -4,6 +4,8 @@ tags:
   - MWC 2024
   - MWC7K 2024
   - MWC 7K 2024
+outdated_translation: true
+outdated_since: ac5ee28a1e544458b90bde0876ba739912787487
 ---
 
 # osu!mania 7키 월드컵 2024
