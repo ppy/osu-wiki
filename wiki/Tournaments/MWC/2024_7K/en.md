@@ -112,12 +112,11 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Canada ::{ flag=CA }:: | ::{ flag=BR }:: Brazil | [Feb 11 (Sun) 00:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T000000&p1=1440&p2=188&p3=45) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Japan ::{ flag=JP }:: | ::{ flag=AU }:: Australia | [Feb 11 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T090000&p1=1440&p2=248&p3=57) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Japan ::{ flag=JP }:: | ::{ flag=AU }:: Australia | [Feb 11 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T090000&p1=1440&p2=248&p3=57) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | South Korea ::{ flag=KR }:: | ::{ flag=PH }:: Philippines | [Feb 11 (Sun) 10:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T103000&p1=1440&p2=235&p3=145) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Thailand ::{ flag=TH }:: | ::{ flag=CA }:: Canada | [Feb 11 (Sun) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T143000&p1=1440&p2=28&p3=188) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Thailand ::{ flag=TH }:: | ::{ flag=BR }:: Brazil | [Feb 11 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T160000&p1=1440&p2=28&p3=45) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Finals | mappool showcase | [Feb 11 (Sun) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T153000&p1=1440) or [Feb 11 (Sun) 17:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T173000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| Thailand ::{ flag=TH }:: | ::{ flag=CA }:: Canada | [Feb 11 (Sun) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T143000&p1=1440&p2=28&p3=188) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Finals | mappool showcase | [Feb 11 (Sun) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T153000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+
 
 ## Mappools
 
@@ -234,6 +233,12 @@ Saturday, 10 February 2024:
 | **Japan** ::{ flag=JP }:: | **6** | 1 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/112601240) | [#1](https://www.twitch.tv/videos/2058679149) |
 | **Thailand** ::{ flag=TH }:: | **6** | 0 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/112602618) | [#1](https://www.twitch.tv/videos/2058745265) |
 | China ::{ flag=CN }:: | 4 | **6** | ::{ flag=MY }:: **Malaysia** | [#1](https://osu.ppy.sh/community/matches/112604848) | [#1](https://www.twitch.tv/videos/2058868470) |
+
+Sunday, 11 February 2024:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Canada** ::{ flag=CA }:: | **6** | 1 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/112613268) | [#1](https://www.twitch.tv/videos/2059320023) |
 
 ### Quarterfinals
 
@@ -505,7 +510,6 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 [^winners-bracket]: Winners bracket match
 [^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
 [^mappool-showcase]: Mappool showcase — schedule subject to rescheduling without prior notice, depending on preceding matches
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same average rank
