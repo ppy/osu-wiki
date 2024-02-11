@@ -108,30 +108,14 @@ osu!mania 7키 월드컵 2024는 osu! 팀과 여러명의 커뮤니티 멤버들
 
 ## 매치 일정 : 세미파이널
 
-### 2024년 2월 10일 토요일
+### 2024년 2월 11일 일요일
 
 | Team A | Team B | 경기 시간 | 트위치 방송 |  |
 | --: | :-- | :-- | :-: | :-: |
-| 오스트레일리아 ::{ flag=AU }:: | ::{ flag=US }:: 미국 | [Feb 10 (Sat) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240210T020000&p1=1440&p2=57&p3=263) | *TBD* | [^losers-bracket] |
-| 일본 ::{ flag=JP }:: | ::{ flag=RU }:: 러시아 | [Feb 10 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240210T110000&p1=1440&p2=248&p3=166) | *TBD* | [^losers-bracket] |
-| 태국 ::{ flag=TH }:: | ::{ flag=PL }:: 폴란드 | [Feb 10 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240210T130000&p1=1440&p2=28&p3=262) | *TBD* | [^losers-bracket] |
-| 캐나다 ::{ flag=CA }:: | ::{ flag=BR }:: 브라질 | [Feb 10 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240210T180000&p1=1440&p2=188&p3=45) | *TBD* | [^losers-bracket] |
-
-### 2024년 2월 11일 일요일
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=PH }:: Philippines | [Feb 11 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T100000&p1=1440&p2=235&p3=145) | *TBD* | [^winners-bracket] |
-| 일본 ::{ flag=JP }:: | ::{ flag=AU }:: 오스트레일리아 | [Feb 11 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T120000&p1=1440&p2=248&p3=57) | *TBD* | [^potential-match] |
-| 러시아 ::{ flag=RU }:: | ::{ flag=AU }:: 오스트레일리아 | [Feb 11 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T120000&p1=1440&p2=166&p3=57) | *TBD* | [^potential-match] |
-| China ::{ flag=CN }:: | ::{ flag=MY }:: Malaysia | [Feb 11 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T130000&p1=1440&p2=33&p3=122) | *TBD* | [^winners-bracket] |
-| 일본 ::{ flag=JP }:: | ::{ flag=US }:: 미국 | [Feb 11 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T150000&p1=1440&p2=248&p3=263) | *TBD* | [^potential-match] |
-| 러시아 ::{ flag=RU }:: | ::{ flag=US }:: 미국 | [Feb 11 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T150000&p1=1440&p2=166&p3=263) | *TBD* | [^potential-match] |
-| 태국 ::{ flag=TH }:: | ::{ flag=CA }:: 캐나다 | [Feb 11 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T160000&p1=1440&p2=28&p3=188) | *TBD* | [^potential-match] |
-| 태국 ::{ flag=TH }:: | ::{ flag=BR }:: 브라질 | [Feb 11 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T160000&p1=1440&p2=28&p3=45) | *TBD* | [^potential-match] |
-| 폴란드 ::{ flag=PL }:: | ::{ flag=CA }:: 캐나다 | [Feb 11 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T160000&p1=1440&p2=262&p3=188) | *TBD* | [^potential-match] |
-| 폴란드 ::{ flag=PL }:: | ::{ flag=BR }:: 브라질 | [Feb 11 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T160000&p1=1440&p2=262&p3=45) | *TBD* | [^potential-match] |
-| 파이널 | 맵풀 쇼케이스 | [Feb 11 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T170000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| 일본 ::{ flag=JP }:: | ::{ flag=AU }:: 오스트레일리아 | [Feb 11 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T090000&p1=1440&p2=248&p3=57) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 대한민국 ::{ flag=KR }:: | ::{ flag=PH }:: 필리핀 | [Feb 11 (Sun) 10:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T103000&p1=1440&p2=235&p3=145) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| 태국 ::{ flag=TH }:: | ::{ flag=CA }:: 캐나다 | [Feb 11 (Sun) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T143000&p1=1440&p2=28&p3=188) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 파이널 | 맵풀 쇼케이스 | [Feb 11 (Sun) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240211T153000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## 맵풀 목록
 
@@ -237,6 +221,23 @@ osu!mania 7키 월드컵 2024는 osu! 팀과 여러명의 커뮤니티 멤버들
 8. [Raimukun - Cthulhu (Leeju) \[Stage 8: Abyss\]](https://osu.ppy.sh/beatmapsets/2115980#mania/4443612)
 
 ## 경기 결과
+
+### 세미파이널
+
+2024년 2월 10일 토요일:
+
+| Team A |  |  | Team B | 경기 링크 | VOD 링크 |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **오스트레일리아** ::{ flag=AU }:: | **6** | 1 | ::{ flag=US }:: 미국 | [#1](https://osu.ppy.sh/community/matches/112599980) | [#1](https://www.twitch.tv/videos/2058617517) |
+| **일본** ::{ flag=JP }:: | **6** | 1 | ::{ flag=RU }:: 러시아 | [#1](https://osu.ppy.sh/community/matches/112601240) | [#1](https://www.twitch.tv/videos/2058679149) |
+| **태국** ::{ flag=TH }:: | **6** | 0 | ::{ flag=PL }:: 폴란드 | [#1](https://osu.ppy.sh/community/matches/112602618) | [#1](https://www.twitch.tv/videos/2058745265) |
+| 중국 ::{ flag=CN }:: | 4 | **6** | ::{ flag=MY }:: **말레이시아** | [#1](https://osu.ppy.sh/community/matches/112604848) | [#1](https://www.twitch.tv/videos/2058868470) |
+
+2024년 2월 11일 일요일:
+
+| Team A |  |  | Team B | 경기 링크 | VOD 링크 |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **캐나다** ::{ flag=CA }:: | **6** | 1 | ::{ flag=BR }:: 브라질 | [#1](https://osu.ppy.sh/community/matches/112613268) | [#1](https://www.twitch.tv/videos/2059320023) |
 
 ### 쿼터파이널
 
@@ -508,7 +509,6 @@ osu!mania 7키 월드컵 2024는 osu! 팀과 여러명의 커뮤니티 멤버들
 
 [^winners-bracket]: 승자조 경기
 [^losers-bracket]: 패자조 경기
-[^potential-match]: 이전 패자조 경기 결과에 따라 달라지는 잠재적인 매치입니다
 [^mappool-showcase]: 이전 경기 결과에 따라 사전 예고없이 일정이 변경될 수 있는 맵풀 쇼케이스입니다
 [^qualifiers-seeding]: 주된 시드 배정 방법으로 사용합니다
 [^qualifiers-tiebreaker]: 두 팀의 average rank 값이 동일할 경우 타이브레이커로 사용합니다
