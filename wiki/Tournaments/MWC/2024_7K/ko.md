@@ -130,7 +130,7 @@ osu!mania 7키 월드컵 2024는 osu! 팀과 여러명의 커뮤니티 멤버들
 
 ### 파이널
 
-**[맵팩은 여기서 다운로드가 가능합니다 (115 MB, *temporary link*)](https://leoflt.com/s/vqFS)**
+**[맵팩은 여기서 다운로드가 가능합니다 (111 MB)](https://packs.ppy.sh/P237%20-%20osu!mania%207K%20World%20Cup%202024%3A%20Finals.zip)**
 
 - Rice
   1. [Shiraishi - Moon-gate (Delay ver.) (Tailsdk) \[MWC Finals Speed\]](https://osu.ppy.sh/beatmapsets/2134113#mania/4489957)
@@ -142,7 +142,7 @@ osu!mania 7키 월드컵 2024는 osu! 팀과 여러명의 커뮤니티 멤버들
   7. [Laur - Chimi Moryo -Bakko- (Leeju) \[Leeju's 7K What the Haruka doing?\]](https://osu.ppy.sh/beatmapsets/2134141#mania/4490010)
 - Long Note
   1. [kanone - The Sea of Memory (\_Yiiiii) \[Released\]](https://osu.ppy.sh/beatmapsets/2134123#mania/4489977)
-  2. [FantasticYouth - Hi Genjitsu Tohi (zenonia5) \[CyberFunk\] *(temporary link)*](https://leoflt.com/s/5jNj)
+  2. [FantasticYouth - Hi Genjitsu Tohi (zenonia5) \[CyberFunk\]](https://osu.ppy.sh/beatmapsets/1885701#mania/4490678)
   3. [Aoi a.k.a. ALFOU - Fluctuate (\_Kobii) \[Alternation (MWC edit)\]](https://osu.ppy.sh/beatmapsets/2134132#mania/4489993)
   4. [Nego\_tiator x Jinguu kaname x Avtorica - Inori ame no ayame (pwhk) \[Witch's Tear\]](https://osu.ppy.sh/beatmapsets/2072438#mania/4337110)
   5. [Camellia feat. Nanahira - Animal Land (MapleSyrup-) \[Nya Nya\]](https://osu.ppy.sh/beatmapsets/2134133#mania/4489995)
