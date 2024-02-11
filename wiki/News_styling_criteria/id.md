@@ -83,7 +83,7 @@ Penggunaan markdown tercakup dalam [kriteria gaya artikel](/wiki/Article_styling
 
 #### Gambar
 
-*Untuk format gambar dan standar kualitas, lihat: [Kriteria gaya artikel § Format dan kualitas ](/wiki/Article_styling_criteria/Formatting#formats-and-quality)*
+*Untuk format gambar dan standar kualitas, lihat: [Kriteria gaya artikel § Format dan kualitas](/wiki/Article_styling_criteria/Formatting#formats-and-quality)*
 
 Gambar yang ditautkan dalam artikel berita harus dihosting di osu! server (misalnya `assets.ppy.sh`) atau ditempatkan di `osu-wiki` repositori GitHub.
 
