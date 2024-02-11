@@ -79,7 +79,7 @@ Penggunaan markdown tercakup dalam [kriteria gaya artikel](/wiki/Article_styling
 
 - Judul tingkat 1 (`#`), yang berkaitan dengan suatu judul, tidak boleh digunakan, karena judul terdapat pada bagian depan di bagian atas artikel.
 - [Kotak info](/wiki/Article_styling_criteria/Formatting#infoboxes) dan [catatan kaki](/wiki/Article_styling_criteria/Formatting#footnotes) tidak didukung.
-- Gambar [spanduk](#banners) tidak boleh berisi teks alternatif apa pun, yaitu teks di dalam tanda kurung siku pada tautan gambar di markdown (`![alt text](image.png)`).
+- Gambar [spanduk](#spanduk) tidak boleh berisi teks alternatif apa pun, yaitu teks di dalam tanda kurung siku pada tautan gambar di markdown (`![alt text](image.png)`).
 
 #### Gambar
 
