@@ -2,7 +2,7 @@
 
 *Pour les critères de classement complets, voir : [Critères de classement](/wiki/Ranking_criteria)*
 
-La liste complète des [critères de classement](/wiki/Ranking_criteria) est complexe. Elle explique toutes les règles et directives nécessaires pour créer une [beatmap](/wiki/Beatmap) digne d'être [classée](/wiki/Beatmap_ranking_procedure#ranked), y compris *beaucoup* de situations de niche que la majorité des mappeurs ne rencontrent jamais.
+La liste complète des [critères de classement](/wiki/Ranking_criteria) est complexe. Elle explique toutes les règles et directives nécessaires pour créer une [beatmap](/wiki/Beatmap) digne d'être [classée](/wiki/Beatmap_ranking_procedure#classée), y compris *beaucoup* de situations de niche que la majorité des mappeurs ne rencontrent jamais.
 
 Les **critères de classement simplifiés** visent à donner aux mappeurs une perspective plus claire de ce qui est nécessaire pour créer une map classable grâce à ce qui suit :
 
