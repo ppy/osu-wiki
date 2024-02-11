@@ -130,7 +130,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
 
 ### Finals
 
-**[Download the mappack here (115 MB, *temporary link*)](https://leoflt.com/s/vqFS)**
+**[Download the mappack here (115 MB, *temporary link*)](https://leoflt.com/s/vqFS)**\
+[View the showcase VOD here](https://www.twitch.tv/videos/2059913783)
 
 - Rice
   1. [Shiraishi - Moon-gate (Delay ver.) (Tailsdk) \[MWC Finals Speed\]](https://osu.ppy.sh/beatmapsets/2134113#mania/4489957)
@@ -155,7 +156,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
 
 ### Semifinals
 
-**[Download the mappack here (119 MB)](https://packs.ppy.sh/P236%20-%20osu!mania%207K%20World%20Cup%202024%3A%20Semifinals.zip)**
+**[Download the mappack here (119 MB)](https://packs.ppy.sh/P236%20-%20osu!mania%207K%20World%20Cup%202024%3A%20Semifinals.zip)**\
+[View the showcase VOD here](https://www.twitch.tv/videos/2053211033)
 
 - Rice
   1. [rejection - The Way of Adventure (feat. Kusaka Akira) (osu! edit) (Jinjin) \[Delayed Journey\]](https://osu.ppy.sh/beatmapsets/2130606#mania/4480890)
@@ -178,7 +180,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
 
 ### Quarterfinals
 
-**[Download the mappack here (92 MB)](https://packs.ppy.sh/P235%20-%20osu!mania%207K%20World%20Cup%202024%3A%20Quarterfinals.zip)**
+**[Download the mappack here (92 MB)](https://packs.ppy.sh/P235%20-%20osu!mania%207K%20World%20Cup%202024%3A%20Quarterfinals.zip)**\
+[View the showcase VOD here](https://www.twitch.tv/videos/2046293749)
 
 - Rice
   1. [Aquellex - Zygourous Distribution (pwhk) \[Black Another\]](https://osu.ppy.sh/beatmapsets/2126913#mania/4471195)
@@ -201,7 +204,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
 
 ### Round of 16
 
-**[Download the mappack here (59 MB)](https://packs.ppy.sh/P234%20-%20osu%21mania%207K%20World%20Cup%202024%3A%20Round%20of%2016.zip)**
+**[Download the mappack here (59 MB)](https://packs.ppy.sh/P234%20-%20osu%21mania%207K%20World%20Cup%202024%3A%20Round%20of%2016.zip)**\
+[View the showcase VOD here](https://www.twitch.tv/videos/2039649748)
 
 - Rice
   1. [goreshit - toromi hearts 2 (Sped Up Ver.) (Tailsdk) \[MWC RO16 Speed (Cut ver.)\]](https://osu.ppy.sh/beatmapsets/2123251#mania/4461979)
@@ -222,7 +226,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
 
 ### Round of 24
 
-**[Download the mappack here (50 MB)](https://packs.ppy.sh/P233%20-%20osu!mania%207K%20World%20Cup%202024%3A%20Round%20of%2024.zip)**
+**[Download the mappack here (50 MB)](https://packs.ppy.sh/P233%20-%20osu!mania%207K%20World%20Cup%202024%3A%20Round%20of%2024.zip)**\
+[View the showcase VOD here](https://www.twitch.tv/videos/2032775000)
 
 - Rice
   1. [Lime - Luminaria (pwhk) \[Another\]](https://osu.ppy.sh/beatmapsets/1751814#mania/3584159)
@@ -275,7 +280,6 @@ Sunday, 11 February 2024:
 | **Japan** ::{ flag=JP }:: | **6** | 4 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/112617868) | [#1](https://www.twitch.tv/videos/2059665757) |
 | **South Korea** ::{ flag=KR }:: | **6** | 0 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/112618591) | [#1](https://www.twitch.tv/videos/2059720126) |
 | **Thailand** ::{ flag=TH }:: | **6** | 2 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/112621549) | [#1](https://www.twitch.tv/videos/2059851586) |
-| Finals |  |  | mappool showcase |  | [#1](https://www.twitch.tv/videos/2059913783) |
 
 ### Quarterfinals
 
@@ -306,7 +310,6 @@ Sunday, 4 February 2024:
 | **Brazil** ::{ flag=BR }:: | **6** | 0 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/112520824) | [#1](https://www.twitch.tv/videos/2053031163) |
 | **Russian Federation** ::{ flag=RU }:: | **6** | 2 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/112520830) | [#1](https://www.twitch.tv/videos/2053063481) |
 | **Poland** ::{ flag=PL }:: | **6** | 1 | ::{ flag=VN }:: Vietnam | [#1](https://osu.ppy.sh/community/matches/112522185) | [#1](https://www.twitch.tv/videos/2053290391) |
-| Semifinals |  |  | mappool showcase |  | [#1](https://www.twitch.tv/videos/2053211033) |
 
 ### Round of 16
 
@@ -329,7 +332,6 @@ Sunday, 28 January 2024:
 | **Canada** ::{ flag=CA }:: | **5** | 1 | ::{ flag=US }:: United States | [#1](https://osu.ppy.sh/community/matches/112408966) | [#1](https://www.twitch.tv/videos/2045818568) |
 | **South Korea** ::{ flag=KR }:: | **5** | 0 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/112413896) | [#1](https://www.twitch.tv/videos/2046114858) |
 | **China** ::{ flag=CN }:: | **5** | 0 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/112416380) | [#1](https://www.twitch.tv/videos/2046225945) |
-| Quarterfinals |  |  | mappool showcase |  | [#1](https://www.twitch.tv/videos/2046293749) |
 
 ### Round of 24
 
@@ -341,7 +343,6 @@ Saturday, 20 January 2024:
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **Vietnam** ::{ flag=VN }:: | **5** | 0 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/112290919) | [#1](https://www.twitch.tv/videos/2038334661) |
 | **Brazil** ::{ flag=BR }:: | **5** | 1 | ::{ flag=PT }:: Portugal | [#1](https://osu.ppy.sh/community/matches/112292934) | [#1](https://www.twitch.tv/videos/2038432046) |
-| Round of 16 |  |  | mappool showcase |  | [#1](https://www.twitch.tv/videos/2039649748) |
 
 Sunday, 21 January 2024:
 
@@ -356,7 +357,7 @@ Sunday, 21 January 2024:
 
 ### Qualifiers
 
-The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1APCeEFVMGbgxkIhne5ChMBnoNh1dfQwVqZFk37F57A0?rm=minimal). A VOD for the Qualifiers results/Round of 24 Mappool showcase can be found [here](https://www.twitch.tv/videos/2032775000).
+The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1APCeEFVMGbgxkIhne5ChMBnoNh1dfQwVqZFk37F57A0?rm=minimal).
 
 | Seed | Country | rank sum[^qualifiers-seeding] | avg. score[^qualifiers-tiebreaker] |
 | :-: | :-- | --: | --: |
