@@ -53,7 +53,7 @@ osu!mania 7키 월드컵 2024는 osu! 팀과 여러명의 커뮤니티 멤버들
 ## 링크
 
 - [정보 스프레드시트](https://docs.google.com/spreadsheets/d/12jbXS5vYvRd1QthkaYYKdhm82aSUpZIz9JO_gacdjpY)
-- [주간 통계 스프레드시트s](https://drive.google.com/drive/folders/1dlVzTCkqAJfijm2fIytUoTkFWvccxaoS)
+- [주간 통계 스프레드시트](https://drive.google.com/drive/folders/1dlVzTCkqAJfijm2fIytUoTkFWvccxaoS)
 - [실시간 방송](https://www.twitch.tv/osulive)
 - [논의 스레드](https://osu.ppy.sh/community/forums/topics/1857033)
 - ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)가 운영하는 [Pick'em 승부예측 페이지](https://pickem.hwc.hr/tournaments/135)
