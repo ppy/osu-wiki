@@ -258,6 +258,8 @@ osu!mania 7키 월드컵 2024는 osu! 팀과 여러명의 커뮤니티 멤버들
 
 ### 세미파이널
 
+자세한 통계는 [여기](https://docs.google.com/spreadsheets/d/1KuqmvaGAQrtMm-tjal9Bb2EqH3Kpup7zamLdKE7bxXU?rm=minimal)에서 확인할 수 있습니다.
+
 2024년 2월 10일 토요일:
 
 | Team A |  |  | Team B | 경기 링크 | VOD 링크 |

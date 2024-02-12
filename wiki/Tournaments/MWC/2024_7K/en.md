@@ -258,6 +258,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
 
 ### Semifinals
 
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1KuqmvaGAQrtMm-tjal9Bb2EqH3Kpup7zamLdKE7bxXU?rm=minimal).
+
 Saturday, 10 February 2024:
 
 | Team A |  |  | Team B | Match link | VOD link |
