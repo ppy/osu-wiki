@@ -20,6 +20,8 @@ intro
 
 ## Semifinals results
 
+text here
+
 | Team A |  |  | Team B |
 | --: | :-: | :-: | :-- |
 | **Australia** ::{ flag=AU }:: | **6** | 1 | ::{ flag=US }:: United States |
