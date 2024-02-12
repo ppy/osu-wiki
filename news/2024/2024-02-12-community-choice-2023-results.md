@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Community Choice 2023: Results"
-date: 2024-02-12 09:00:00 +0000
+date: 2024-02-12 13:00:00 +0000
 ---
 
 The people have spoken! Let's go through what has the community crowned as 2023's Community Choice and Mapper's Favourite for each mode!
