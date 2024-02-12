@@ -67,7 +67,7 @@ Enlaces:
 
 ## Mayo
 
-El nombre de los modificadores del juego en los resultados se ha acortado (por ejemplo, «Hard Rock» a «HR») para eliminar el uso limitado del espacio. *La mayoría* de las repeticiones rotas en el pasado se han arreglado. Un nuevo sistema de observación en el que puedes seguir al objetivo del observador si estuviera viendo a otra persona. El sistema de actualización se ha rediseñado, en particular, ya no forzará reinicios a menos que sea necesario.
+El nombre de los modificadores del juego en los resultados se ha acortado (por ejemplo, «Hard Rock» a «HR») para eliminar el uso limitado del espacio. *La mayoría* de las repeticiones rotas en el pasado se han arreglado. Un nuevo sistema de observación en el que puedes seguir al objetivo del espectador si estuviera viendo a otra persona. El sistema de actualización se ha rediseñado, en particular, ya no forzará reinicios a menos que sea necesario.
 
 Durante las repeticiones, se ha agregado la repetición a la mitad de la velocidad (después de presionar `2x` Speed, se mostrará `0.5x` Speed). El campo de juego no mostrará el fondo al 100 % de atenuación. [Catch the Beat](/wiki/Game_mode/osu!catch) recibió compatibilidad con joystick (arriba/abajo: cambiar de canción, derecha: seleccionar, izquierda: salir).
 
