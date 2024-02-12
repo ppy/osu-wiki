@@ -28,7 +28,7 @@ Brought to life by [Luscent](https://osu.ppy.sh/users/2688581) for the [osu! Wor
 
 For the most authentic experience, we highly recommend playing this map on osu!(lazer) ([which you can download here](https://osu.ppy.sh/home/download)) with the *Barrel Roll* mod on! To better elaborate, here's a video of seasoned player [Ekoro](https://osu.ppy.sh/users/284905) demonstrating exactly what we mean:
 
-<div align="center">
+<div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Io7oA2ahAGg" frameborder="0" allowfullscreen></iframe>
 </div>
 
