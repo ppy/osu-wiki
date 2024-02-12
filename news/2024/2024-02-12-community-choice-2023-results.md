@@ -24,7 +24,7 @@ Without further delay, let's get straight into the results!
 
 Spinning its way to the top, [**IOSYS - Hinarin no Yakui Kankei (Edit ver.)**](https://osu.ppy.sh/beatmapsets/2088431) has taken the breath of voters with its eccentric, yet amusing gameplay.
 
-Brought to life by [Luscent](https://osu.ppy.sh/users/2688581) for the [osu! World Cup 2023 semifinals](/wiki/Tournaments/OWC/2023#semifinals) with the help of guest mappers [Amateurre](https://osu.ppy.sh/users/7326908), [allein](https://osu.ppy.sh/users/6221637), and [Down](https://osu.ppy.sh/users/4694602), this banger of a map will surely resonate endlessly in your head alongside its catchy chorus.
+Brought to life by [Luscent](https://osu.ppy.sh/users/2688581) for the [osu! World Cup 2023 Semifinals](/wiki/Tournaments/OWC/2023#semifinals) with the help of guest mappers [Amateurre](https://osu.ppy.sh/users/7326908), [allein](https://osu.ppy.sh/users/6221637), and [Down](https://osu.ppy.sh/users/4694602), this banger of a map will surely resonate endlessly in your head with its catchy chorus.
 
 For the most authentic experience, we highly recommend playing this map on osu!(lazer) ([which you can download here](https://osu.ppy.sh/home/download)) with the *Barrel Roll* mod on! To better elaborate, here's a video of seasoned player [Ekoro](https://osu.ppy.sh/users/284905) demonstrating exactly what we mean:
 
@@ -72,7 +72,7 @@ Finalists:
 
 [**Cascada - Everytime We Touch \[Fvrwvrd's 700 BPM Speedcore Edit\]**](https://osu.ppy.sh/beatmapsets/1869818) by [Genjuro](https://osu.ppy.sh/users/3196091) rizzes its way to become osu!taiko's *Community Favourite* of 2023!
 
-Having the top difficulty's main focus on extreme difficulty in 350 BPM juiciness, alongside featuring a wide range of guest difficulties from [KyeX](https://osu.ppy.sh/users/15118934), [ler1211](https://osu.ppy.sh/users/19901680), [The Law](https://osu.ppy.sh/users/11357694), [Boaz](https://osu.ppy.sh/users/13302996), [Hivie](https://osu.ppy.sh/users/14102976), [CallMeLyra](https://osu.ppy.sh/users/15272997), [Ulqui](https://osu.ppy.sh/users/1263669), and [HomieLove](https://osu.ppy.sh/users/8693851), there's certainly something to enjoy for any skill caliber out there!
+With a top difficulty going hard with 350 BPM juiciness, alongside a wide range of guest difficulties from [KyeX](https://osu.ppy.sh/users/15118934), [ler1211](https://osu.ppy.sh/users/19901680), [The Law](https://osu.ppy.sh/users/11357694), [Boaz](https://osu.ppy.sh/users/13302996), [Hivie](https://osu.ppy.sh/users/14102976), [CallMeLyra](https://osu.ppy.sh/users/15272997), [Ulqui](https://osu.ppy.sh/users/1263669), and [HomieLove](https://osu.ppy.sh/users/8693851), there's certainly something to enjoy for any skill calibre out there!
 
 Finalists:
 
@@ -93,7 +93,7 @@ Finalists:
 
 The osu!taiko mapping community has decided to crown [**BilliumMoto & Dictate - 1KARUGA**](https://osu.ppy.sh/beatmapsets/1976834) as their favourite set of 2023! 
 
-Created by the joint prowess of 2 mapping titans [HiroK](https://osu.ppy.sh/users/4050738) and [uone](https://osu.ppy.sh/users/5321719) for the [osu!taiko World Cup 2023 Finals Tiebreaker](/wiki/Tournaments/TWC/2023#finals), it sets some high expectations to live up to, and to the surprise of no one, it *exceeds* them. Featuring all kinds of intricate and obscure snaps (some of which don't even exist in the current snap divisor), HiroK and uone perfectly capture the incredibly chaotic essence of the song in a way that's both fun and challenging to play.
+Created by the joint prowess of 2 mapping titans [HiroK](https://osu.ppy.sh/users/4050738) and [uone](https://osu.ppy.sh/users/5321719) for the [osu!taiko World Cup 2023 Finals tiebreaker](/wiki/Tournaments/TWC/2023#finals), it sets some high expectations to live up to, and to the surprise of no one, it *exceeds* them. Featuring all kinds of intricate and obscure snaps (some of which don't even exist in the current set of snap divisors), HiroK and uone perfectly capture the incredibly chaotic essence of the song in a way that's both fun and challenging to play.
 
 Finalists:
 
@@ -116,7 +116,7 @@ Finalists:
 
 [Rocma](https://osu.ppy.sh/users/566276)'s [**Jea - snows ~Soshite Kiseki~**](https://osu.ppy.sh/beatmapsets/1960673) takes the spotlight of osu!catch's *Community Choice*!
 
-The beatmap is basically 1 very long stream, but the real magic is happing with the way it's executing its patterning. Utilizing concepts such as symmetry, repetitions, and other convert-styled conventions, it provides a very unique experience that's equally fun to play.
+The beatmap is basically 1 very long stream, but the real magic is in the execution of its patterning. Utilising concepts such as symmetry, repetitions, and other convert-styled conventions, it provides a very unique experience that's equally fun to play.
 
 Finalists:
 
@@ -156,7 +156,7 @@ Finalists:
 
 [![](/wiki/shared/news/2024-02-12-community-choice-2023-results/2062263.jpg)](https://osu.ppy.sh/beatmapsets/2062263)
 
-[**Camellia - Parallel Universe Shifter**](https://osu.ppy.sh/beatmapsets/2062263) is not just a beatmap, it's a rich love letter to the osu!mania game mode and a celebration of the osu!mania 4K World Cup's 10th anniversary.
+[**Camellia - Parallel Universe Shifter**](https://osu.ppy.sh/beatmapsets/2062263) is not just a beatmap. It's a rich love letter to the osu!mania game mode and a celebration of the osu!mania 4K World Cup's 10th anniversary.
 
 It's a fully custom-made sterling experience created for the [2023 iteration of the osu!mania 4K World Cup's Grand Finals](/wiki/Tournaments/MWC/2023_4K#grand-finals) by the grand collaborative effort of mappers [-mint-](https://osu.ppy.sh/users/8976576), [Toaph Daddy](https://osu.ppy.sh/users/7616811), [elexire](https://osu.ppy.sh/users/9206093), [guden](https://osu.ppy.sh/users/11626065), [MyZterioN-](https://osu.ppy.sh/users/8521723), [lemonguy](https://osu.ppy.sh/users/4693052), [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), [Abraxos](https://osu.ppy.sh/users/5025064), [aquellex](https://osu.ppy.sh/users/3137790), [0DZ0](https://osu.ppy.sh/users/28156707), and [BilliumMoto](https://osu.ppy.sh/users/3862471), featuring a storyboard by [Noffy](https://osu.ppy.sh/users/1541323), all to encapsulate the energy of [Camellia](https://osu.ppy.sh/beatmaps/artists/31)'s tunes specifically created for the tournament.
 
