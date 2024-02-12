@@ -114,13 +114,13 @@ Finalists:
 
 [![](/wiki/shared/news/2024-02-12-community-choice-2023-results/1960673.jpg)](https://osu.ppy.sh/beatmapsets/1960673)
 
-[Rocma](https://osu.ppy.sh/users/566276)'s [**Jea - snows ~Soshite Kiseki~**](https://osu.ppy.sh/beatmapsets/1960673) takes the spotlight of osu!catch's *Community Choice*!
+[Rocma](https://osu.ppy.sh/users/566276)'s [**Jea - snows \~Soshite Kiseki\~**](https://osu.ppy.sh/beatmapsets/1960673) takes the spotlight of osu!catch's *Community Choice*!
 
 The beatmap is basically 1 very long stream, but the real magic is in the execution of its patterning. Utilising concepts such as symmetry, repetitions, and other convert-styled conventions, it provides a very unique experience that's equally fun to play.
 
 Finalists:
 
-- [**Jea - snows ~Soshite Kiseki~**](https://osu.ppy.sh/beatmapsets/1960673) by [**Rocma**](https://osu.ppy.sh/users/566276) with **58** votes.
+- [**Jea - snows \~Soshite Kiseki\~**](https://osu.ppy.sh/beatmapsets/1960673) by [**Rocma**](https://osu.ppy.sh/users/566276) with **58** votes.
 - [**CustomiZ - COOLEST (TV Size)**](https://osu.ppy.sh/beatmapsets/2054394) by [**Ascendance**](https://osu.ppy.sh/users/2931883) with **54** votes.
 - [**KimurawaiP - Chouon Chuu Haikatsuryou Test**](https://osu.ppy.sh/beatmapsets/1668029) by [**Xinnoh**](https://osu.ppy.sh/users/4236057) with **48** votes.
 - [**Lime - BEYOND**](https://osu.ppy.sh/beatmapsets/1938940) by [**GiGas**](https://osu.ppy.sh/users/7300747) with **48** votes.
@@ -135,11 +135,11 @@ Finalists:
 
 [![](/wiki/shared/news/2024-02-12-community-choice-2023-results/1960673.jpg)](https://osu.ppy.sh/beatmapsets/1960673)
 
-Who knew that 1 single stream can steal so many hearts? [**Jea - snows ~Soshite Kiseki~**](https://osu.ppy.sh/beatmapsets/1960673) has managed to do just that by also scoring a win on the *Mapper's Favourite* vote!
+Who knew that 1 single stream can steal so many hearts? [**Jea - snows \~Soshite Kiseki\~**](https://osu.ppy.sh/beatmapsets/1960673) has managed to do just that by also scoring a win on the *Mapper's Favourite* vote!
 
 Finalists:
 
-- [**Jea - snows ~Soshite Kiseki~**](https://osu.ppy.sh/beatmapsets/1960673) by [**Rocma**](https://osu.ppy.sh/users/566276) with **9** votes.
+- [**Jea - snows \~Soshite Kiseki\~**](https://osu.ppy.sh/beatmapsets/1960673) by [**Rocma**](https://osu.ppy.sh/users/566276) with **9** votes.
 - [**Frums - Pictured as Perfect and Plus**](https://osu.ppy.sh/beatmapsets/1897431) by [**Unlucky_w**](https://osu.ppy.sh/users/4820793) with **7** votes.
 - [**xi - Mjolnir**](https://osu.ppy.sh/beatmapsets/1550933) by [**Jemzuu**](https://osu.ppy.sh/users/7890134) with **7** votes.
 - [**kanemiko - comet casting capsule ("catching celestial clusters" Long Version)**](https://osu.ppy.sh/beatmapsets/2055747) by [**Kimitakari**](https://osu.ppy.sh/users/4741164) with **7** votes.
@@ -195,6 +195,8 @@ Finalists:
 ---
 
 This should be it for Community Choice 2023. Many thanks to everyone who participated in the voting, and massive congratulations to all the winners! If you're insterested in checking out the top 50 results of each mode, the [contest listing](https://osu.ppy.sh/community/contests/195) is your friend.
+
+If you're looking to find the full voting results for all eligible beatmaps, head over to the [Community Choice 2023 results spreadsheet](https://docs.google.com/spreadsheets/d/1Y_Qa-lb1TH0YQUTSnHnyB3RY9EqEl6gc9Sw2Fu0ieLs/edit?usp=sharing)!
 
 See you next time!
 
