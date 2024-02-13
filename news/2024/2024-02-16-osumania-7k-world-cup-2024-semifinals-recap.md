@@ -4,11 +4,13 @@ title: "osu!mania 7K World Cup 2024: Semifinals Recap"
 date: 2024-02-16 20:00:00 +0000
 ---
 
-teaser text
+Catch up with the latest MWC7K happenings, and join us in preparations for the upcoming Finals weekend!
 
 ![](/wiki/Tournaments/MWC/2024_7K/img/mwc7k2024-banner.jpg)
 
-intro
+The Asian countries have once again shown complete and utter dominance when it comes to 7K mania, once again not allowing any other region to make it past the Semifinals (unlike last year) — and oh boy do next weeks' match-ups look exciting!
+
+However, before looking forward we shall look back once more at the previous week, and everything brought forward by it!
 
 ## Mappool showcase
 
@@ -59,7 +61,7 @@ text here
 
 ---
 
-outro
+The tournament is slowly coming to a close, with 2 more weeks left ahead of us. It would be a real shame if you made it this far without checking out any of the matches live, so be sure to visit the [osulive Twitch channel](https://www.twitch.tv/osulive) this weekend for some high intensity mania action! If you are interested in more details regarding the tournament, such as the Finals pool or the full bracket — the [wiki article](/wiki/Tournaments/MWC/2024_7K) has everything you need!
 
 <!--- Make sure that the writers mark includes people who worked on this edition --->
 —0x84f, kadoen, RandomeLoL, SurfChu85
