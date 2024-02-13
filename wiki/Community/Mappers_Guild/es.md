@@ -23,7 +23,7 @@ Los miembros del Mappers' Guild pueden ganar recompensas al participar en el [pr
 
 Las [misiones](https://mappersguild.com/quests) recompensan a los mappers por seguir ciertos requisitos al crear sus mapas de artistas destacados. La mayoría de las misiones implican crear y clasificar una cierta cantidad de beatmaps para un artista destacado específico.
 
-Cada misión tiene sus propias especificaciones de tamaño/rango de la banda[^grupo], precio[^precio] a aceptar y fecha límite. Todos los miembros de una banda deben pagar el precio indicado para aceptar la misión. Los precios suelen ser más altos para las misiones que solo requieren un beatmap.
+Cada misión tiene sus propias especificaciones de tamaño/rango de la banda[^party], precio[^price] a aceptar y fecha límite. Todos los miembros de una banda deben pagar el precio indicado para aceptar la misión. Los precios suelen ser más altos para las misiones que solo requieren un beatmap.
 
 Las misiones caducan automáticamente después de 3 meses de inactividad. Cualquier usuario puede reabrir misiones gastando su reserva disponible de puntos del Mappers' Guild.
 
