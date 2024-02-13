@@ -341,7 +341,7 @@ Esta competición ha llegado a su fin y ha dado lugar al siguiente podio:
 
 ### Gran final
 
-Sábado 13 de julio de 2019:
+Sábado, 13 de julio de 2019:
 
 | Equipo 1 |  |  | Equipo 2 | Enlace al partido |
 | --: | :-: | :-: | :-- | :-- |
@@ -350,7 +350,7 @@ Sábado 13 de julio de 2019:
 
 ### Finales
 
-Sábado 6 de julio de 2019:
+Sábado, 6 de julio de 2019:
 
 | Equipo 1 |  |  | Equipo 2 | Enlace al partido |
 | --: | :-: | :-: | :-- | :-- |
@@ -365,7 +365,7 @@ Sunday, 7 July 2019:
 
 ### Semifinales
 
-Sábado 29 de junio de 2019:
+Sábado, 29 de junio de 2019:
 
 | Equipo 1 |  |  | Equipo 2 | Enlace al partido |
 | --: | :-: | :-: | :-- | :-- |
@@ -373,7 +373,7 @@ Sábado 29 de junio de 2019:
 | **Chile** ::{ flag=CL }:: | **7** | 5 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/52987753) |
 | **Hong Kong** ::{ flag=HK }:: | **7** | 1 | ::{ flag=AR }:: Argentina | [#1](https://osu.ppy.sh/community/matches/52987594) |
 
-Domingo 30 de junio de 2019:
+Domingo, 30 de junio de 2019:
 
 | Equipo 1 |  |  | Equipo 2 | Enlace al partido |
 | --: | :-: | :-: | :-- | :-- |
@@ -383,7 +383,7 @@ Domingo 30 de junio de 2019:
 
 ### Cuartos de Final
 
-Sábado 22 de junio de 2019:
+Sábado, 22 de junio de 2019:
 
 | Equipo 1 |  |  | Equipo 2 | Enlace al partido |
 | --: | :-: | :-: | :-- | :-- |
@@ -393,7 +393,7 @@ Sábado 22 de junio de 2019:
 | **Chile** ::{ flag=CL }:: | **6** | 1 | ::{ flag=SG }:: Singapur | [#1](https://osu.ppy.sh/community/matches/52820880) |
 | Taiwán ::{ flag=TW }:: | 0 | **6** | ::{ flag=HK }:: **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/52820731) |
 
-Domingo 23 de junio de 2019:
+Domingo, 23 de junio de 2019:
 
 | Equipo 1 |  |  | Equipo 2 | Enlace al partido |
 | --: | :-: | :-: | :-- | :-- |
@@ -403,7 +403,7 @@ Domingo 23 de junio de 2019:
 
 ### Octavos de Final
 
-Sábado 15 de junio de 2019:
+Sábado, 15 de junio de 2019:
 
 | Equipo 1 |  |  | Equipo 2 | Enlace al partido |
 | --: | :-: | :-: | :-- | :-- |
@@ -416,7 +416,7 @@ Sábado 15 de junio de 2019:
 | Polonia A ::{ flag=PL }:: | 0 | **6** | ::{ flag=CL }:: **Chile** | [#1](https://osu.ppy.sh/community/matches/52647239) |
 | **Estados Unidos A** ::{ flag=US }:: | **6** | 0 | ::{ flag=EC }:: Ecuador | [#1](https://www.twitch.tv/videos/439630298) |
 
-Domingo 16 de junio de 2019:
+Domingo, 16 de junio de 2019:
 
 | Equipo 1 |  |  | Equipo 2 | Enlace al partido |
 | --: | :-: | :-: | :-- | :-- |
@@ -425,7 +425,7 @@ Domingo 16 de junio de 2019:
 | Polonia A ::{ flag=PL }:: | 1 | **6** | ::{ flag=MX }:: **México** | [#1](https://osu.ppy.sh/community/matches/52673843) |
 | **Argentina** ::{ flag=AR }:: | **6** | 4 | ::{ flag=BR }:: Brasil | [#1](https://osu.ppy.sh/community/matches/52676942) |
 
-Sábado 22 de junio de 2019:
+Sábado, 22 de junio de 2019:
 
 | Equipo 1 |  |  | Equipo 2 | Enlace al partido |
 | --: | :-: | :-: | :-- | :-- |
@@ -434,7 +434,7 @@ Sábado 22 de junio de 2019:
 
 ### Fase de Grupos
 
-Sábado 8 de junio de 2019:
+Sábado, 8 de junio de 2019:
 
 | Grupo | Equipo 1 |  |  | Equipo 2 | Enlace al partido |
 | :-: | --: | :-: | :-: | :-- | :-- |
@@ -463,7 +463,7 @@ Sábado 8 de junio de 2019:
 | E3 | Estados Unidos B ::{ flag=US }:: | 2 | **5** | ::{ flag=MX }:: **México** | [#1](https://osu.ppy.sh/community/matches/52460665) |
 | E6 | **Argentina** ::{ flag=AR }:: | **5** | 1 | ::{ flag=US }:: Estados Unidos B | [#1](https://osu.ppy.sh/community/matches/52498726) |
 
-Domingo 9 de junio de 2019:
+Domingo, 9 de junio de 2019:
 
 | Grupo | Equipo 1 |  |  | Equipo 2 | Enlace al partido |
 | :-: | --: | :-: | :-: | :-- | :-- |
