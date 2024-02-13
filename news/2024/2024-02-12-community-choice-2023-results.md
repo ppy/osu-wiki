@@ -85,7 +85,7 @@ Finalists:
 - [**Slax - Lunaticon**](https://osu.ppy.sh/beatmapsets/2042964) by [**Hivie**](https://osu.ppy.sh/users/14102976) with **37** votes.
 - [**Babuchan - 13 stairs**](https://osu.ppy.sh/beatmapsets/1093671) by [**Alchyr**](https://osu.ppy.sh/users/4993032) with **37** votes.
 - [**DJ SHARPNEL - FUWANITY**](https://osu.ppy.sh/beatmapsets/1904848) by [**Eriha**](https://osu.ppy.sh/users/16320311) with **37** votes.
-- [**GTS Sound Team - \<\<wr/d.:maker\>\> ~Harmony in Reset~**](https://osu.ppy.sh/beatmapsets/2036571) by [**Cynplytholowazy**](https://osu.ppy.sh/users/3901754) with **35** votes.
+- [**GTS Sound Team - \<\<wr/d.:maker\>\> \~Harmony in Reset\~**](https://osu.ppy.sh/beatmapsets/2036571) by [**Cynplytholowazy**](https://osu.ppy.sh/users/3901754) with **35** votes.
 
 ### Mapper's Favourite
 
