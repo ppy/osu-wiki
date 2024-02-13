@@ -357,7 +357,7 @@ Sábado, 6 de julio de 2019:
 | **Hong Kong** ::{ flag=HK }:: | **7** | 2 | ::{ flag=FR }:: Francia A | [#1](https://osu.ppy.sh/community/matches/53143747) |
 | **Estados Unidos A** ::{ flag=US }:: | **7** | 3 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/53159685) |
 
-Sunday, 7 July 2019:
+Domingo, 7 de julio de 2019:
 
 | Equipo 1 |  |  | Equipo 2 | Enlace al partido |
 | --: | :-: | :-: | :-- | :-- |
