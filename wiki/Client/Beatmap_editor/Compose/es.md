@@ -131,7 +131,7 @@ En osu!mania, el área del divisor de ritmo también muestra el nombre y el nive
 
 | Botón (atajo de teclado) | Uso |
 | :-- | :-- |
-| `Sampleset` | Reemplaza el [conjunto de muestras](/wiki/Beatmapping/Sampleset) de los objetos seleccionados (incluidos sus hitnormals). Al elegir `Auto`, se restablece el conjunto de muestras al del [punto de tiempo](/wiki/Client/Beatmap_editor/Timing#timing-points) activo. |
+| `Sampleset` | Reemplaza el [conjunto de muestras](/wiki/Beatmapping/Sampleset) de los objetos seleccionados (incluidos sus hitnormals). Al elegir `Auto`, se restablece el conjunto de muestras al del [punto de tiempo](/wiki/Client/Beatmap_editor/Timing#puntos-de-tiempo) activo. |
 | `Additions` | Reemplaza el conjunto de muestra de los objetos seleccionados, afectando solo sus hitsounds adicionales (whistle, finish y clap). Al elegir `Auto`, se restablece el conjunto de muestras al del punto de tiempo activo. |
 | `Select` (`1`) | `Clic izquierdo` o `Arrastrar hacia la izquierda`: Mueve la marca de tiempo y ubicación de la nota. `Clic derecho`: Elimina la nota. `Ctrl` + `Clic izquierdo`: Selecciona varios objetos. |
 | `Circle` (`2`) | `Clic izquierdo`: Coloca una nota. |
