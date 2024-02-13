@@ -112,7 +112,7 @@ Hasta la llegada de lazer, los sliders requerían como mínimo la precisión de 
 | Cambiado intencionalmente | ![Yes][true] |
 | Necesita más consideración | ![No][false] |
 
-###  Los slider head son más permisivos
+### Los slider head son más permisivos
 
 Al hacer clic en un slider antes de tiempo, el círculo de seguimiento ahora comenzará inmediatamente en un estado de seguimiento incluso si el cursor abandona la bola del slider antes de que comience el slider.
 
