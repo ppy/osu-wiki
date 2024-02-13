@@ -3,6 +3,7 @@ tags:
   - GMT
   - moderator
   - moderators
+  - chat mod
   - mod del chat
   - moderador
   - moderadores
