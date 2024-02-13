@@ -35,7 +35,7 @@ La rocola tiene los siguientes botones:
 | ![](img/jukebox/view-song-info.jpg "Ver información de la canción") | Alterna entre mostrar permanentemente la información de la canción actual o que desaparezca después de un rato. |
 | ![](img/jukebox/jump-to-window.jpg "Saltar a la ventana") | Saltar a una canción específica. Puedes buscar canciones o filtrar por colección. |
 
-La rocola también se puede controlar mediante [atajos de teclado](/wiki/Client/Keyboard_shortcuts#jukebox).
+La rocola también se puede controlar mediante [atajos de teclado](/wiki/Client/Keyboard_shortcuts#gramola).
 
 ## Opciones de usuario
 
