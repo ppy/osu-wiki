@@ -1,7 +1,3 @@
----
-no_native_review: true
----
-
 # Nội quy
 
 Những nội quy dưới đây là nền móng trong việc gìn giữ cộng đồng osu! luôn là một nơi vui vẻ và chào đón mọi người.

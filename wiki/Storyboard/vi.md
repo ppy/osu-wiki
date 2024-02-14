@@ -1,7 +1,3 @@
----
-no_native_review: true
----
-
 # Storyboard
 
 ![](img/Sbpassing.png "Cảnh này xuất hiện khi đang chơi Walkie Talkie Man nhưng chỉ xuất hiện khi bạn có một Elite Beat 300")

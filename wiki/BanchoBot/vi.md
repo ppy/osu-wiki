@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 tags:
   - bancho
   - server bot
