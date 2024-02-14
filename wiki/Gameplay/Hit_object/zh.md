@@ -6,7 +6,7 @@ tags:
 
 # 打击物件
 
-*打击物件 (hit objects)* 是游玩[谱面](/wiki/Beatmap)期间，玩家可以互动的元素。每个[游戏模式](/wiki/Game_mode)都拥有一组能够改变游戏体验的独特打击物件。对于每个游戏模式打击物件的概览，详见下表：
+*打击物件 (hit objects)* 是玩家游玩[谱面](/wiki/Beatmap)时，可以互动的元素。每个[游戏模式](/wiki/Game_mode)都拥有一组能够改变游戏体验的独特打击物件。对于各个模式打击物件的概览，详见下表：
 
 | [osu!](/wiki/Game_mode/osu!) | [osu!taiko](/wiki/Game_mode/osu!taiko) | [osu!catch](/wiki/Game_mode/osu!catch) | [osu!mania](/wiki/Game_mode/osu!mania) |
 | :-: | :-: | :-: | :-: |
