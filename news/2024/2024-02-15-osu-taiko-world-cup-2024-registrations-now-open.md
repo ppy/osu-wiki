@@ -8,7 +8,7 @@ Attention all drum smashers, the osu!taiko World Cup is back for its 14th instal
 
 ![](/wiki/Tournaments/TWC/2024/img/twc2024-banner.jpg)
 
-Hot on the heels of MWC 7K's Semifinals, we are back with the osu!taiko World Cup 2024. For this iteration, there are no major changes to the tournament's overall structure, besides some minor adjustments to one mappool slot, as we removed of the usual stream FreeMod map in favor of another NoMod instead.
+Hot on the heels of [MWC 7K's](/wiki/Tournaments/MWC/2024_7K) Semifinals, we are back with the osu!taiko World Cup 2024. For this iteration, there are no major changes to the tournament's overall structure, besides some minor adjustments to one mappool slot, as we removed of the usual stream FreeMod map in favor of another NoMod instead.
 
 Refer to the **[osu!taiko World Cup 2024 wiki article](/wiki/Tournaments/TWC/2024)** for more details regarding everything TWC 2024, as usual. You can also discuss this event in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/1884428)** or the public **[community server](https://discord.gg/0Vxo9AsejDkGlk3H)**.
 
