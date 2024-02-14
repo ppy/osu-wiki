@@ -17,7 +17,7 @@ As per usual, we would like to thank everyone for your participation in the Janu
 - [Results for osu!catch](https://osu.ppy.sh/community/forums/topics/1874117)
 - [Results for osu!mania](https://osu.ppy.sh/community/forums/topics/1874116)
 
-Before we move on to the picks, review a few changes within the Loved team:
+Before we move on to the picks, feel free to take a moment to review a few changes within the Loved team:
 
 - The osu! Loved captain applications are now concluded, and we'd like to give a warm welcome to [chiv](https://osu.ppy.sh/users/6701656) and [vyper](https://osu.ppy.sh/users/9948665)! They'll now be one of the main forces that conjure up awesome picks for you to enjoy on a monthly basis.
 - As the *Theory of Equivalent Exchange* dictates, we must bid a heartfelt farewell to double dash–enjoyers [-NoName-](https://osu.ppy.sh/users/10400730) and [-Kazu-](https://osu.ppy.sh/users/920861) as they've decided to move on from their positions. We'd like to thank them for playing instrumental roles in their respective fields and wish them the best going forward!
@@ -463,7 +463,7 @@ From [everyone working on Project Loved](https://loved.sh/contributors), we hope
 
 More info about Project Loved can be found on its [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/). Stop by the `#osu-loved` channel of the [osu! Discord server](https://discord.com/invite/ppy) if you have any questions, concerns, or are interested in helping out.
 
-Also, on the topic of love and valentine...
+Also on the topic of love and considering today's special date...
 
 [![](/wiki/shared/news/2024-02-14-project-loved-february-2024/ghostlove.png)](https://osu.ppy.sh/beatmaps/packs/F3)
 
