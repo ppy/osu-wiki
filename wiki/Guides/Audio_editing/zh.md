@@ -4,13 +4,13 @@
 
 本文可充当帮助你出于作图目的，对音频文件进行小幅编辑的指南。进一步扩展的话，你就能帮其他作图者创建适应任何需要的音频文件了。
 
-*绝非你只能使用这些软件，本文只列出了作者添加的。如果你了解其他可用工具，并且能解释如何将它们用于以下小节，也请添加进来。*
+*本文只列出了作者添加的软件，你并不是只能使用这些软件。如果你了解其他可用工具，并且能解释如何将它们用于以下小节，也请添加进来。*
 
 ## Audacity
 
 [Audacity](https://www.audacityteam.org/download) 是一款免费、开源的音频编辑与录制软件。它使用 [LAME](https://lame.sourceforge.io) 编码库导出 MP3 格式的音频文件，此编码库在 Windows 与 macOS 平台的 Audacity 是内置的。
 
-大多数 Linux 发行版在安装 Audacity 时会提供 LAME，但某些可能不会，因此 Linux 用户应当阅读 [Audacity 参考手册](https://manual.audacityteam.org/man/installing_and_updating_audacity_on_linux.html#linlame)获取更多信息。
+大多数 Linux 发行版会提供安装 Audacity 所需的 LAME，但某些版本也可能不会提供。因此 Linux 用户应当阅读 [Audacity 参考手册](https://manual.audacityteam.org/man/installing_and_updating_audacity_on_linux.html#linlame)获取更多信息。
 
 ### 降低比特率
 
