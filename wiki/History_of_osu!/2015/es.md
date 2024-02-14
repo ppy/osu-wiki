@@ -27,7 +27,7 @@ El 31 de marzo de 2015, se agregaron las [osu!coins](/wiki/History_of_osu!/April
 
 El canal `#balkan` se volvió a agregar al juego según una [solicitud de función](https://osu.ppy.sh/community/forums/topics/152009&start=0) el 2 de abril de 2015.[^balkan-channel][^osu-weekly-4]
 
-El [mod Co-op](/wiki/Gameplay/Game_modifier/Co-op) se convirtió en un mod no clasificado el 6 de abril de 2015.[^osu-weekly-5]
+El [mod Co-op](/wiki/Gameplay/Game_modifier/Co-op) se convirtió en un mod no clasificable el 6 de abril de 2015.[^osu-weekly-5]
 
 9K se hizo clasificable después de recibir soporte de uso adecuado en el editor el 30 de abril de 2015.[^osu-weekly-8]
 
