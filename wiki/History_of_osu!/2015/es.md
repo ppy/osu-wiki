@@ -33,7 +33,7 @@ El [mod Co-op](/wiki/Gameplay/Game_modifier/Co-op) se convirtió en un mod no cl
 
 ## Mayo
 
-*Aviso: El [mensaje del foro](https://osu.ppy.sh/community/forums/topics/334994) que anunciaba la noticia del nuevo sistema de clasificación se publicó el 4 de junio de 2015, aunque el antiguo sistema quedó completamente obsoleto el 1 de mayo de 2015, y la implementación completa del nuevo sistema aún no estaba disponible para el público a fines de 2015.*
+*Aviso: El [mensaje del foro](https://osu.ppy.sh/community/forums/topics/334994) que anunciaba el nuevo sistema de clasificación se publicó el 4 de junio de 2015, aunque el antiguo sistema quedó completamente obsoleto el 1 de mayo de 2015, y la implementación completa del nuevo sistema aún no estaba disponible para el público a fines de 2015.*
 
 La antigua clasificación de Beatmap Nominator (BN) quedó totalmente obsoleta el 1 de mayo de 2015, y se reemplazó por una nueva clasificación en tiempo real. Esta nueva clasificación mantuvo el objetivo original de la anterior, aunque se centró en el desafío y la colaboración en lugar del desempeño individual durante un período de tiempo establecido. La recepción del público hacia este nuevo cambio fue mayormente positiva en general, aunque muchos usuarios comentaron que el nuevo sistema era confuso.[^realtime-bn-ranking][^osu-weekly-14]
 
