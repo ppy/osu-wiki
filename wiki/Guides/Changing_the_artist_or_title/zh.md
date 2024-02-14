@@ -1,6 +1,6 @@
 # 如何更改谱面的艺术家或标题
 
-*[Full Submission with Title/Artist Change -- Mistakes，作者 NoHitter（已由 peppy 控制）](https://osu.ppy.sh/community/forums/topics/24443)*
+*[Full Submission with Title/Artist Change -- Mistakes，作者 NoHitter（已被 peppy 接手）](https://osu.ppy.sh/community/forums/topics/24443)*
 
 修改谱面的 **艺术家或标题** 时可能会出现问题，在不创建重复谱面的情况下无法提交谱面。
 
@@ -26,4 +26,4 @@
   7. 用 `文件` > `打开...` 修改其他难度的艺术家或标题信息。
   8. 完整上传谱面。
 
-如果你有谱面重复了，请联系[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 的成员寻求解决方案。
+如果你上传了重复的谱面，请联系[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 的成员解决。
