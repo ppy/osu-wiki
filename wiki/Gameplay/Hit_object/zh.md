@@ -2,6 +2,7 @@
 tags:
   - hit objects
   - 打击物件
+needs_cleanup: true
 ---
 
 # 打击物件
