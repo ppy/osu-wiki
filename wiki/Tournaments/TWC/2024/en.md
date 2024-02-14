@@ -66,7 +66,7 @@ The osu!taiko World Cup 2024 is run by various community members.
 3. The minimum size for a team is 4 players, and the maximum is 6.
 4. The beatmap list for each round will be announced by the mappool selectors on the official stream, on the Sunday before the matches take place.
 5. The match schedules for each round will be announced by the tournament managers on this page, as well as the information sheet, on the Sunday before the matches take place.
-6. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins are allowed.
+6. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins is allowed.
    - Custom skin elements must not be used to alter core gameplay elements or mechanics in unintended ways.
 7. If less than the minimum amount of required players are present at match time, the match can be postponed for up to 10 minutes. If after this period there are still not enough players for either team, a *win by default* will be declared for the side with the most members present.
    - The minimum amount of required players is the amount of players needed to play a beatmap without any vacant spots in the lobby (i.e. at least 2 participants from each team must be present for the match to begin).
@@ -122,8 +122,8 @@ The osu!taiko World Cup 2024 is run by various community members.
 ### Qualifier instructions
 
 1. In the Qualifier stage, all teams will play a specific pool designed by the mappool selectors.
-2. The mappool will contain 5 brackets: [NoMod](/wiki/Gameplay/Game_modifier#nomod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), and [FreeMod](/wiki/Gameplay/Game_modifier#freemod). There will be no tiebreakers for this stage.
-3. The Qualifier pool will consist of 7 maps. There will be 3 maps under the No Mod bracket and 1 map for the Hidden, Hard Rock, Double Time, FreeMod brackets.
+2. The mappool will contain 5 brackets: [No Mod](/wiki/Gameplay/Game_modifier#nomod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), and [Free Mod](/wiki/Gameplay/Game_modifier#freemod). There will be no tiebreakers for this stage.
+3. The Qualifier pool will consist of 7 maps. There will be 3 maps under the No Mod bracket and 1 map for the Hidden, Hard Rock, Double Time, and Free Mod brackets.
 4. Teams will be asked to play the mappool twice at a designated time. The team's best playthrough will be used for seeding.
 5. The mappool is to be played according to the order listed on this page.
    - Teams may skip playing any beatmap on their second run.
@@ -169,29 +169,29 @@ The osu!taiko World Cup 2024 is run by various community members.
 ### Mappool information
 
 1. Every stage will have its own mappool.
-2. Each mappool consists of 5 brackets: [NoMod](/wiki/Gameplay/Game_modifier#nomod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) and [FreeMod](/wiki/Gameplay/Game_modifier#freemod).
+2. Each mappool consists of 5 brackets: [No Mod](/wiki/Gameplay/Game_modifier#nomod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) and [Free Mod](/wiki/Gameplay/Game_modifier#freemod).
 3. The mappool sizes are as follows:
    - Qualifiers: 10 beatmaps
    - Round of 32 and Round of 16: 14 beatmaps
    - Quarterfinals and Semifinals: 15 beatmaps
    - Finals and Grand Finals: 16 beatmaps
 4. Each mappool has one tiebreaker, except for the Qualifiers.
-5. The NoMod bracket will be played with the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod activated.
+5. The No Mod bracket will be played with the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod activated.
 6. The [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) and [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) brackets will be played with the respective mods activated along with the No Fail mod.
-7. The [FreeMod](/wiki/Gameplay/Game_modifier#freemod) bracket will have Free Mods activated. The valid mod combinations for each player are:
-   - [NoMod](/wiki/Gameplay/Game_modifier#nomod) – no mods selected
+7. The [Free Mod](/wiki/Gameplay/Game_modifier#freemod) bracket will have Free Mods activated. The valid mod combinations for each player are:
+   - [No Mod](/wiki/Gameplay/Game_modifier#nomod), i.e. no mods selected
    - Hidden
    - Hard Rock
    - Hidden + Hard Rock
 8. Failed scores will be counted. To that end, the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod will be enforced on every beatmap.
    - Teams that purposefully disregard this instruction and team fail as a result will lose said game.
-9. The tiebreaker will be played under FreeMod conditions, but players will be exempt from the mod requirement.
+9. The tiebreaker will be played under Free Mod conditions, but players will be exempt from the mod requirement.
 
 ### Scheduling instructions
 
 1. Each stage will be held on **a single weekend**.
-2. Matches in Qualifiers will be held during specific time slots proposed by the tournament managers. Each team may to choose a time slot in which they want to play.
-   - **A team that does not pick a time slot by March 14, 2024 (23:59 UTC) will be considered disqualified.**
+2. Matches in Qualifiers will be held during specific time slots proposed by the tournament managers. Each team may choose a time slot in which they want to play.
+   - **Teams that do not pick a time slot by March 14, 2024 (23:59 UTC) will be considered disqualified.**
 3. All bracket stages will be held between Saturday 00:00 and Sunday 19:00 UTC.
 4. Match scheduling will be handled by the tournament managers. Schedules will be released on the Sunday before the first matches of the stage. The tournament managers will try to create the schedule to respect the participants' time zones.
    - In the Quarterfinals and subsequent stages, team captains may inform tournament managers if they expect a specific time slot to be unavailable in the following week.

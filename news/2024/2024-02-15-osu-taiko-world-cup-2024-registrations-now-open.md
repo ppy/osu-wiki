@@ -8,7 +8,7 @@ Attention all drum smashers, the osu!taiko World Cup is back for its 14th instal
 
 ![](/wiki/Tournaments/TWC/2024/img/twc2024-banner.jpg)
 
-Hot on the heels of [MWC 7K's](/wiki/Tournaments/MWC/2024_7K) Semifinals, we are back with the osu!taiko World Cup 2024. For this iteration, there are no major changes to the tournament's overall structure, besides some minor adjustments to one mappool slot, as we removed of the usual stream FreeMod map in favor of another NoMod instead.
+Hot on the heels of [MWC 7K](/wiki/Tournaments/MWC/2024_7K)'s Semifinals, we are back with the osu!taiko World Cup 2024. For this iteration, there are no major changes to the tournament's overall structure, besides some minor adjustments to one mappool slot, as we removed of the usual stream Free Mod map in favour of another No Mod instead.
 
 Refer to the **[osu!taiko World Cup 2024 wiki article](/wiki/Tournaments/TWC/2024)** for more details regarding everything TWC 2024, as usual. You can also discuss this event in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/1884428)** or the public **[community server](https://discord.gg/0Vxo9AsejDkGlk3H)**.
 
@@ -46,6 +46,6 @@ If your registration passes our internal checks, you will be placed on the candi
 
 ***Remember that any registrations submitted after the deadline will not be considered under any circumstances — submit your registration ahead of time to avoid any last-minute headaches. If you run into any issues, send an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh).***
 
-This last point is so important, we've made sure to both bold AND italicize it. No exceptions will be made for late registrations, so make sure to press that shiny pink button as soon as it's available!
+This last point is so important, we've made sure to both bold AND italicise it. No exceptions will be made for late registrations, so make sure to press that shiny pink button as soon as it's available (i.e. RIGHT NOW)!
 
 —LeoFLT
