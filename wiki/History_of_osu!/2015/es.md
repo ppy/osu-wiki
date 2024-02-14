@@ -19,7 +19,7 @@ La primera edición de osu!weekly se publicó el 13 de marzo de 2015. Escrito po
 
 Las primeras pegatinas de los planos de beatmaps de osu! se agregaron a la [osu!store](https://osu.ppy.sh/store/listing) el 20 de marzo de 2015. Las pegatinas venían en dos paquetes de hojas de pegatinas personalizadas de 8,5 x 11 con elementos como círculos, contadores de combo, sliders, y mucho más.[^osu-stickers] Para celebrar el lanzamiento, se llevó a cabo un concurso para ver quién podía hacer el mejor [beatmap](/wiki/Beatmap) usando las pegatinas, con un premio de primer lugar de una osu! tablet y un juego de pegatinas osu! 1 y 2. A pesar de esto, el concurso se canceló debido a la falta de presentaciones, y en ese momento nunca se declaró públicamente ningún seguimiento al respecto.[^osu-stickers][^osu-stickers-submission-count]
 
-Se agregó soporte para el [Wii Remote](https://es.wikipedia.org/wiki/Wii_Remote) para [osu!taiko](/wiki/Game_mode/osu!taiko) el 26 de marzo de 2015.[^osu-weekly-3]
+Se agregó soporte para el [Wii Remote](https://es.wikipedia.org/wiki/Wii_Remote) en [osu!taiko](/wiki/Game_mode/osu!taiko) el 26 de marzo de 2015.[^osu-weekly-3]
 
 El 31 de marzo de 2015, se agregaron las [osu!coins](/wiki/History_of_osu!/April_Fools#osu!coins) como moneda de broma en el juego para osu! como parte de una broma del día de los Inocentes. Las monedas se crearon para parodiar a los juegos móviles [free-to-play](https://es.wikipedia.org/wiki/Videojuego_gratuito) y su uso común de monedas en el juego y [microtransacciones](https://es.wikipedia.org/wiki/Microtransacción). Las osu!coins se retiraron rápidamente al día siguiente.
 
