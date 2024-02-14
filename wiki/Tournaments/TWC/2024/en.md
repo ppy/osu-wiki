@@ -15,7 +15,7 @@ The **osu!taiko World Cup 2024** (***TWC 2024***) is a country-based osu!taiko t
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2024-02-15/2024-02-29 |
+| Registration phase | 2024-02-15 (00:00 UTC)/2024-02-28 (23:59 UTC) |
 | Qualifier showcase | 2024-03-10 (14:00 UTC) |
 | Qualifier stage | 2024-03-16/2024-03-17 |
 | Round of 32 | 2024-03-23/2024-03-24 |
@@ -27,7 +27,7 @@ The **osu!taiko World Cup 2024** (***TWC 2024***) is a country-based osu!taiko t
 
 ## Prizes
 
-The osu!taiko World Cup 2023 offers a $2,000 cash prize pool and limited-edition merch.
+The osu!taiko World Cup 2024 offers a $2,000 cash prize pool and limited-edition merch.
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -191,7 +191,7 @@ The osu!taiko World Cup 2024 is run by various community members.
 
 1. Each stage will be held on **a single weekend**.
 2. Matches in Qualifiers will be held during specific time slots proposed by the tournament managers. Each team may to choose a time slot in which they want to play.
-   - **A team that does not pick a time slot by March 14, 2023 (23:59 UTC) will be considered disqualified.**
+   - **A team that does not pick a time slot by March 14, 2024 (23:59 UTC) will be considered disqualified.**
 3. All bracket stages will be held between Saturday 00:00 and Sunday 19:00 UTC.
 4. Match scheduling will be handled by the tournament managers. Schedules will be released on the Sunday before the first matches of the stage. The tournament managers will try to create the schedule to respect the participants' time zones.
    - In the Quarterfinals and subsequent stages, team captains may inform tournament managers if they expect a specific time slot to be unavailable in the following week.
