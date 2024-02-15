@@ -171,7 +171,7 @@ The osu!taiko World Cup 2024 is run by various community members.
 1. Every stage will have its own mappool.
 2. Each mappool consists of 5 brackets: [No Mod](/wiki/Gameplay/Game_modifier#nomod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) and [Free Mod](/wiki/Gameplay/Game_modifier#freemod).
 3. The mappool sizes are as follows:
-   - Qualifiers: 10 beatmaps
+   - Qualifiers: 7 beatmaps
    - Round of 32 and Round of 16: 14 beatmaps
    - Quarterfinals and Semifinals: 15 beatmaps
    - Finals and Grand Finals: 16 beatmaps
