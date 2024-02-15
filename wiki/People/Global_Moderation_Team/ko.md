@@ -88,7 +88,7 @@ tags:
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | 프랑스어, 스페인어 | 채팅 관리 |
 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | 인도네시아어 | 채팅 관리 |
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | 인도네시아어, 일부 베트남어 | 채팅 관리, 포럼 관리 |
-| ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | 독일어 | 포럼 관리 |
+| ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | 독일어, 세르비아어 | 포럼 관리 |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | 중국어 | 채팅 관리 |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | 핀란드어 | 채팅 관리 |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | 포럼 관리, 채팅 관리 |

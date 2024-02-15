@@ -110,7 +110,7 @@ A [página de grupo da Equipe de Moderação Global](https://osu.ppy.sh/groups/4
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Francês, espanhol | Moderação de chat |
 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | Indonésio | Moderação de chat |
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | Indonésio, um pouco de vietnamita | Moderação de chat, moderação de fórum |
-| ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | Alemão | Moderação de fórum |
+| ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | Alemão, Sérvio | Moderação de fórum |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | Chinês | Moderação de chat |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | Finlandês | Moderação de chat |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | Moderação de fórum, moderação de chat |

@@ -120,7 +120,7 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | フランス語、スペイン語 | チャットモデレーション |
 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | インドネシア語 | チャットモデレーション |
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | インドネシア語、部分的なベトナム語 | チャットモデレーション、フォーラムモデレーション |
-| ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | ドイツ語 | フォーラムモデレーション |
+| ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | ドイツ語、セルビア語 | フォーラムモデレーション |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | 中国語 | チャットモデレーション |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | フィンランド語 | チャットモデレーション |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | フォーラムモデレーション、チャットモデレーション |
