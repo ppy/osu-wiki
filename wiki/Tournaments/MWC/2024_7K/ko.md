@@ -112,19 +112,19 @@ osu!mania 7키 월드컵 2024는 osu! 팀과 여러명의 커뮤니티 멤버들
 
 | Team A | Team B | 경기 시간 | 트위치 방송 |  |
 | --: | :-- | :-- | :-: | :-: |
-| 중국 ::{ flag=CN }:: | ::{ flag=JP }:: 일본 | [Feb 17 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240217T100000&p1=1440&p2=33&p3=248) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 필리핀 ::{ flag=PH }:: | ::{ flag=TH }:: 태국 | [Feb 17 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240217T120000&p1=1440&p2=145&p3=28) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 중국 ::{ flag=CN }:: | ::{ flag=JP }:: 일본 | [Feb 17 (Sat) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240217T133000&p1=1440&p2=33&p3=248) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 
 ### 2024년 2월 18일 일요일
 
 | Team A | Team B | 경기 시간 | 트위치 방송 |  |
 | --: | :-- | :-- | :-: | :-: |
-| 중국 ::{ flag=CN }:: | ::{ flag=PH }:: 필리핀 | [Feb 18 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240218T100000&p1=1440&p2=33&p3=145) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 중국 ::{ flag=CN }:: | ::{ flag=TH }:: 태국 | [Feb 18 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240218T100000&p1=1440&p2=33&p3=28) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 일본 ::{ flag=JP }:: | ::{ flag=PH }:: 필리핀 | [Feb 18 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240218T100000&p1=1440&p2=248&p3=145) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 일본 ::{ flag=JP }:: | ::{ flag=TH }:: 태국 | [Feb 18 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240218T100000&p1=1440&p2=248&p3=28) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 대한민국 ::{ flag=KR }:: | ::{ flag=MY }:: 말레이시아 | [Feb 18 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240218T120000&p1=1440&p2=235&p3=122) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 그랜드 파이널 | 맵풀 쇼케이스 | [Feb 18 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240218T130000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| 중국 ::{ flag=CN }:: | ::{ flag=PH }:: 필리핀 | [Feb 18 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240218T133000&p1=1440&p2=33&p3=145) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 중국 ::{ flag=CN }:: | ::{ flag=TH }:: 태국 | [Feb 18 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240218T133000&p1=1440&p2=33&p3=28) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 그랜드 파이널 | 맵풀 쇼케이스 | [Feb 18 (Sun) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240218T143000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## 맵풀 목록
 
