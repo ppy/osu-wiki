@@ -20,9 +20,37 @@ However, before looking forward we shall look back once more at the previous wee
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=v2059913783&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
+Semifinals not only turned up the difficulty one or two notches, but it was also the first round where the tournament's first [osu! originals](/wiki/osu!_originals) were showcased! Not only that, but we had [Akiri](https://osu.ppy.sh/beatmaps/artists/401)'s big Featured Artist debut as well.
+
+Feel free to check out both the original tracks and mapsets by clicking the banners below. Alternatively, we'd encourage to give the audio previews a shot!
+
+[![](/wiki/shared/news/2024-02-16-osumania-7k-world-cup-2024-semifinals-recap/Kagaribi.jpg)](https://osu.ppy.sh/beatmapsets/2130665#mania/4481018)
+
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="">
+    </audio>
+</div>
+
+[![](/wiki/shared/news/2024-02-16-osumania-7k-world-cup-2024-semifinals-recap/Symphony-Of-The-Lost-Souls.jpg)](https://osu.ppy.sh/beatmapsets/2130621#mania/4480922)
+
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="">
+    </audio>
+</div>
+
+[![](/wiki/shared/news/2024-02-16-osumania-7k-world-cup-2024-semifinals-recap/Voyage.jpg)](https://osu.ppy.sh/beatmapsets/2130624#mania/4480927)
+
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="">
+    </audio>
+</div>
+
 ## Semifinals results
 
-text here
+As the final rounds draw nigh, all the teams are starting to show their true colors as we reach endgame levels of difficulty. As such, those who were able to keep up with the sharp increase in difficulty had an easier time this round. Because of that, some teams that initially did quite well in earlier rounds—despite giving their all—weren't able to make a dent on some of the behemoths they were up against.
 
 | Team A |  |  | Team B |
 | --: | :-: | :-: | :-- |
@@ -61,15 +89,9 @@ Malaysia advanced to the Winner's Bracket Final where they will face perennial c
 
 text here
 
-### Score highlights
-
-- if any
-- put here
-- thanks
-
 ---
 
 The tournament is slowly coming to a close, with 2 more weeks left ahead of us. It would be a real shame if you made it this far without checking out any of the matches live, so be sure to visit the [osulive Twitch channel](https://www.twitch.tv/osulive) this weekend for some high intensity mania action! If you are interested in more details regarding the tournament, such as the Finals pool or the full bracket — the [wiki article](/wiki/Tournaments/MWC/2024_7K) has everything you need!
 
 <!--- Make sure that the writers mark includes people who worked on this edition --->
-—0x84f, kadoen, RandomeLoL, SurfChu85
+—0x84f, RandomeLoL, SurfChu85
