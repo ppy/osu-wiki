@@ -60,7 +60,7 @@ The osu!taiko World Cup 2024 is run by various community members.
 
 ### Tournament rules
 
-1. The osu!taiko World Cup is a country-based team tournament, played on the osu!taiko game mode.
+1. The osu!taiko World Cup is a country-based 3 versus 3 team tournament, played on the osu!taiko game mode.
    - Players from countries or territories (as seen on their profile flag) that are under a protectorate or sovereign state may choose to play for that country **if** the country listed on their profile is unable to field enough players to form a valid team. Refer to [this article](https://wikipedia.org/wiki/Dependent_territory#Lists_of_dependent_territories) for an overview of the criteria adopted. Players that have participated under another country previously may continue to do so.
 2. Beatmap scoring is based on ScoreV2.
 3. The minimum size for a team is 4 players, and the maximum is 6.
