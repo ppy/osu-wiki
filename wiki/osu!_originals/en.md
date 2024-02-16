@@ -280,7 +280,7 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | [Junk - Kagaribi](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Junk&query=%22Kagaribi%22)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2130665) | Semifinals RC6 |
 | Lime - Campanella[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2134145) | Finals RC3 |
 | [Sydosys - Voyage](https://soundcloud.com/sydosys/voyage)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2130624) | Semifinals RC4 |
-| technoplanet - Vomit[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2134140) | Finals HB3 |
+| technoplanet - Vomit | [#1](https://osu.ppy.sh/beatmapsets/2134140) | Finals HB3 |
 
 ### Community-run tournament releases
 
