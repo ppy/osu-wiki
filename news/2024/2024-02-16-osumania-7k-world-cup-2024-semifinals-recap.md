@@ -71,7 +71,7 @@ As the final rounds draw nigh, all the teams are starting to show their true col
 
 ## Match highlights
 
-###  ::{ flag=CN }:: China vs. ::{ flag=MY }:: Malaysia
+### ::{ flag=CN }:: China vs. ::{ flag=MY }:: Malaysia
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=v2058868470&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
@@ -95,13 +95,13 @@ Malaysia advanced to the Winners' Bracket Final where they will face perennial c
 
 Japan vs. Australia was yet another match many people were looking for. There were several reasons for this, such as their similarly seeded placement or the amazing performances they've already shown throughout the tournament. Suffice to say, the anticipation was overwhelming — and it didn't disappoint!
 
-The teams started on good feet by choosing their bans, protects, and first picks wisely. Australia had an edge on long note picks, whereas Japan has been consistently demolishing rice maps on all rounds. That's why on their first pick, they opened up with [Sydosys - Voyage](https://osu.ppy.sh/beatmapsets/2130624#mania/4480927), and ::{ flag=JP }:: [rainlily](https://osu.ppy.sh/users/485007)'s score should've been indicative of Japan's rice prowess right off the bat.
+The teams started on good feet by choosing their bans, protects, and first picks wisely. Australia had an edge on long note picks, whereas Japan has been consistently demolishing rice maps on all rounds. That's why on their first pick, they opened up with RC4, [Sydosys - Voyage](https://osu.ppy.sh/beatmapsets/2130624#mania/4480927), and ::{ flag=JP }:: [rainlily](https://osu.ppy.sh/users/485007)'s score should've been indicative of Japan's rice prowess right off the bat.
 
-The match went on with Australia picking [ARForest - The Last Page](https://osu.ppy.sh/beatmapsets/2130622#mania/4480923), securing their protect and answering to Japan's protect, where ::{ flag=AU }:: [ruka](https://osu.ppy.sh/users/6117525) could show off Australia's strong suit in long note maps.
+The match went on with Australia picking LN1, [ARForest - The Last Page](https://osu.ppy.sh/beatmapsets/2130622#mania/4480923), securing their protect and answering to Japan's protect, where ::{ flag=AU }:: [ruka](https://osu.ppy.sh/users/6117525) could show off Australia's strong suit in long note maps.
 
-The rice vs. long note back-and-forth went on, with Japan picking [Junk - Kagaribi](https://osu.ppy.sh/beatmapsets/2130665#mania/4481018), Australia answering with [Getty - Revolt](https://osu.ppy.sh/beatmapsets/2130612#mania/4480900), then [RykSeb - RETINAE](https://osu.ppy.sh/beatmapsets/2130601#mania/4480882). Australia gambled their chances on [tn-shi - Synthesis](https://osu.ppy.sh/beatmapsets/2130789#mania/4481282) and managed to survive a potential break point on what ended up being the closest pick yet!
+The rice vs. long note back-and-forth went on, with Japan picking RC6, [Junk - Kagaribi](https://osu.ppy.sh/beatmapsets/2130665#mania/4481018), Australia answering with LN4, [Getty - Revolt](https://osu.ppy.sh/beatmapsets/2130612#mania/4480900), then RC5, [RykSeb - RETINAE](https://osu.ppy.sh/beatmapsets/2130601#mania/4480882). Australia gambled their chances on [tn-shi - Synthesis](https://osu.ppy.sh/beatmapsets/2130789#mania/4481282) and managed to survive a potential break point on what ended up being the closest pick yet!
 
-Unfortunately for Australia, despite making a huge effort by keeping up with Japan, when Japan managed to get a match point at 5–4, Australia wasn't able to break through their pick, [Frums - 24eeev0-$](https://osu.ppy.sh/beatmapsets/2130620#mania/4480921), and ended up losing the break point.
+Unfortunately for Australia, despite making a huge effort by keeping up with Japan, when Japan managed to get a match point at 5–4, Australia wasn't able to break through their HB2 pick, [Frums - 24eeev0-$](https://osu.ppy.sh/beatmapsets/2130620#mania/4480921), and ended up losing the break point.
 
 Despite how the match ended, it is safe to assume nobody was sure of who was going to be the winner given both teams' phenomenal performance. A nerve-wracking match through and through.
 
