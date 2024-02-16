@@ -50,7 +50,7 @@ Feel free to check out both the original tracks and mapsets by clicking the bann
 
 ## Semifinals results
 
-As the final rounds draw nigh, all the teams are starting to show their true colors as we reach endgame levels of difficulty. As such, those who were able to keep up with the sharp increase in difficulty had an easier time this round. Because of that, some teams that initially did quite well in earlier rounds—despite giving their all—weren't able to make a dent on some of the behemoths they were up against.
+As the final rounds draw nigh, all the teams are starting to show their true colours as we reach endgame levels of difficulty. As such, those who were able to keep up with the sharp increase in difficulty had an easier time this round. Because of that, some teams that initially did quite well in earlier rounds—despite giving their all — weren't able to make a dent on some of the behemoths they were up against.
 
 | Team A |  |  | Team B |
 | --: | :-: | :-: | :-- |
@@ -87,7 +87,7 @@ Malaysia advanced to the Winner's Bracket Final where they will face perennial c
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=v2059665757&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-Japan vs. Australia was yet another match many people were looking for. There were several reasons for this, such as their similarly seeded placement or the amazing performances they've already shown throughout the tournament. Suffice to say, the anticipation was overwhelming. And it didn't disappoint!
+Japan vs. Australia was yet another match many people were looking for. There were several reasons for this, such as their similarly seeded placement or the amazing performances they've already shown throughout the tournament. Suffice to say, the anticipation was overwhelming — and it didn't disappoint!
 
 The teams started on a good foot by choosing their bans, protects, and first pick wisely. Australia had an edge on long note picks, whereas Japan has been consistently demolishing rice maps on all rounds. That's why on their first pick, they opened up with [Sydosys - Voyage](https://osu.ppy.sh/beatmapsets/2130624#mania/4480927). And ::{ flag=JP }:: [rainlily](https://osu.ppy.sh/users/485007)'s score should've been indicative of Japan's rice prowess right off the bat.
 
@@ -95,7 +95,7 @@ The match went on with Australia picking [ARForest - The Last Page](https://osu.
 
 The rice vs. long note back and forth went on, with Japan picking [Junk - Kagaribi](https://osu.ppy.sh/beatmapsets/2130665#mania/4481018), Australia answering with [Getty - Revolt](https://osu.ppy.sh/beatmapsets/2130612#mania/4480900), then [RykSeb - RETINAE](https://osu.ppy.sh/beatmapsets/2130601#mania/4480882). Australia gambled their chances on [tn-shi - Synthesis](https://osu.ppy.sh/beatmapsets/2130789#mania/4481282) and managed to survive a potential break point on what ended up being the closest pick yet!
 
-Unfortunately for Australia, despite making a huge effort by keeping up with Japan, when Japan managed to get a matchpoint at 5–4, Australia wasn't able to break through their pick, [Frums - 24eeev0-$](https://osu.ppy.sh/beatmapsets/2130620#mania/4480921), and ended up losing the break point.
+Unfortunately for Australia, despite making a huge effort by keeping up with Japan, when Japan managed to get a match point at 5–4, Australia wasn't able to break through their pick, [Frums - 24eeev0-$](https://osu.ppy.sh/beatmapsets/2130620#mania/4480921), and ended up losing the break point.
 
 Despite how the match ended, it is safe to assume nobody was sure of who was going to be the winner given both teams' phenomenal performance. A nerve-wracking match full and through.
 
@@ -103,5 +103,4 @@ Despite how the match ended, it is safe to assume nobody was sure of who was goi
 
 The tournament is slowly coming to a close, with 2 more weeks left ahead of us. It would be a real shame if you made it this far without checking out any of the matches live, so be sure to visit the [osulive Twitch channel](https://www.twitch.tv/osulive) this weekend for some high intensity mania action! If you are interested in more details regarding the tournament, such as the Finals pool or the full bracket — the [wiki article](/wiki/Tournaments/MWC/2024_7K) has everything you need!
 
-<!--- Make sure that the writers mark includes people who worked on this edition --->
 —0x84f, RandomeLoL, SurfChu85
