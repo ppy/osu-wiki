@@ -28,7 +28,7 @@ Feel free to check out both the original tracks and mapsets by clicking the bann
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="">
+        <source src="https://assets.ppy.sh/artists/365/Songs/Junk_-_Kagaribi.mp3">
     </audio>
 </div>
 
@@ -36,7 +36,7 @@ Feel free to check out both the original tracks and mapsets by clicking the bann
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="">
+        <source src="https://assets.ppy.sh/artists/401/The%20Lost%20Symphonies/Akiri%20-%20Symphony%20Of%20The%20Lost%20Souls.mp3">
     </audio>
 </div>
 
@@ -44,7 +44,7 @@ Feel free to check out both the original tracks and mapsets by clicking the bann
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="">
+        <source src="https://assets.ppy.sh/artists/392/Songs/Sydosys_-_Voyage.mp3">
     </audio>
 </div>
 
