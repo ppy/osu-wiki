@@ -99,7 +99,7 @@ The teams started on good feet by choosing their bans, protects, and first picks
 
 The match went on with Australia picking LN1, [ARForest - The Last Page](https://osu.ppy.sh/beatmapsets/2130622#mania/4480923), securing their protect and answering to Japan's protect, where ::{ flag=AU }:: [ruka](https://osu.ppy.sh/users/6117525) could show off Australia's strong suit in long note maps.
 
-The rice vs. long note back-and-forth went on, with Japan picking RC6, [Junk - Kagaribi](https://osu.ppy.sh/beatmapsets/2130665#mania/4481018), Australia answering with LN4, [Getty - Revolt](https://osu.ppy.sh/beatmapsets/2130612#mania/4480900), then RC5, [RykSeb - RETINAE](https://osu.ppy.sh/beatmapsets/2130601#mania/4480882). Australia gambled their chances on [tn-shi - Synthesis](https://osu.ppy.sh/beatmapsets/2130789#mania/4481282) and managed to survive a potential break point on what ended up being the closest pick yet!
+The rice vs. long note back-and-forth went on, with Japan picking RC6, [Junk - Kagaribi](https://osu.ppy.sh/beatmapsets/2130665#mania/4481018), Australia answering with LN4, [Getty - Revolt](https://osu.ppy.sh/beatmapsets/2130612#mania/4480900), then RC5, [RykSeb - RETINAE](https://osu.ppy.sh/beatmapsets/2130601#mania/4480882). Australia gambled their chances on HB3, [tn-shi - Synthesis](https://osu.ppy.sh/beatmapsets/2130789#mania/4481282), and managed to survive a potential break point on what ended up being the closest pick yet!
 
 Unfortunately for Australia, despite making a huge effort by keeping up with Japan, when Japan managed to get a match point at 5–4, Australia wasn't able to break through their HB2 pick, [Frums - 24eeev0-$](https://osu.ppy.sh/beatmapsets/2130620#mania/4480921), and ended up losing the break point.
 
