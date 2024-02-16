@@ -10,7 +10,7 @@
 
 La **pestaña compose** del [editor de beatmaps](/wiki/Client/Beatmap_editor) es el lugar donde los [mappers](/wiki/Beatmapping) pasan la mayor parte de su tiempo trabajando en beatmaps después de ajustar la [temporización](/wiki/Beatmapping/Timing). Los [patrones de los objetos](/wiki/Beatmap/Pattern), [hitsounds](/wiki/Beatmapping/Hitsound) y otros aspectos de diseño del beatmap se pueden inspeccionar en esta pestaña.
 
-El editor comparte las mismas herramientas entre osu!, osu!taiko y osu!catch, mientras que osu!mania tiene un diseño de la pestaña compose específico más adecuado para el modo de juego. Se puede acceder cambiando el [allowed mode](/wiki/Client/Beatmap_editor/Song_setup#advanced) de la dificultad a `osu!mania`.
+El editor comparte las mismas herramientas entre osu!, osu!taiko y osu!catch, mientras que osu!mania tiene un diseño de la pestaña compose específico más adecuado para ese modo de juego. Se puede acceder cambiando el [allowed mode](/wiki/Client/Beatmap_editor/Song_setup#advanced) de la dificultad a `osu!mania`.
 
 ## Características 
 
@@ -20,7 +20,7 @@ El editor comparte las mismas herramientas entre osu!, osu!taiko y osu!catch, mi
 
 ![](img/objects-timeline.jpg "Línea de tiempo de los objetos con respecto al divisor de ritmo y la marca de tiempo")
 
-La línea de tiempo se puede acercar y alejar con los botones `+`/`-` a la izquierda o, alternativamente, desplazándose con la tecla `Alt` mantenida. Las dos líneas blancas en el medio indican la marca de tiempo actual. Además, los objetos en la línea de tiempo se pueden seleccionar y mover con el botón izquierdo del ratón, o eliminarlos haciendo clic con el botón derecho.
+La línea de tiempo se puede acercar y alejar con los botones `+`/`-` de la izquierda o, alternativamente, desplazándose con la tecla `Alt` mantenida. Las dos líneas blancas en el medio indican la marca de tiempo actual. Además, los objetos en la línea de tiempo se pueden seleccionar y mover con el botón izquierdo del ratón, o eliminarlos haciendo clic con el botón derecho.
 
 ### Divisor de ritmo
 
@@ -34,9 +34,9 @@ La línea de tiempo se puede acercar y alejar con los botones `+`/`-` a la izqui
 
 Mantén presionado `Alt` para cambiar el control deslizante al modo de [ajuste de distancia](/wiki/Client/Beatmap_editor/Distance_snap) de las notas. El multiplicador de distancia puede variar entre 0,1x y 6,0x.
 
-### Barra de herramientas izquierda
+### Barra de herramientas de la izquierda
 
-![](img/tools.jpg "Barra de herramientas izquierda")
+![](img/tools.jpg "Barra de herramientas de la izquierda")
 
 | Botón (atajo de teclado) | Descripción |
 | :-- | :-- |
@@ -125,7 +125,7 @@ El editor específico de osu!mania tiene algunas diferencias en comparación con
 
 En osu!mania, el área del divisor de ritmo también muestra el nombre y el nivel de volumen de la muestra de sonido adjunta a una nota seleccionada. Estas muestras por nota llamadas keysounds se aplican mediante el cuadro de diálogo [`Sample import`](#importación-de-muestras).
 
-### Barra de herramientas izquierda
+### Barra de herramientas de la izquierda
 
 ![](img/tools-mania.jpg "Panel de objetos para osu!mania")
 
