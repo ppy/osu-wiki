@@ -10,7 +10,7 @@
 
 La **pestaña compose** del [editor de beatmaps](/wiki/Client/Beatmap_editor) es el lugar donde los [mappers](/wiki/Beatmapping) pasan la mayor parte de su tiempo trabajando en beatmaps después de ajustar la [temporización](/wiki/Beatmapping/Timing). Los [patrones de los objetos](/wiki/Beatmap/Pattern), [hitsounds](/wiki/Beatmapping/Hitsound) y otros aspectos de diseño del beatmap se pueden inspeccionar en esta pestaña.
 
-El editor comparte las mismas herramientas entre osu!, osu!taiko y osu!catch, mientras que osu!mania tiene un diseño de la pestaña compose específico más adecuado para ese modo de juego. Se puede acceder cambiando el [allowed mode](/wiki/Client/Beatmap_editor/Song_setup#advanced) de la dificultad a `osu!mania`.
+El editor comparte las mismas herramientas entre osu!, osu!taiko y osu!catch, mientras que osu!mania tiene un diseño de la pestaña compose específico más adecuado para ese modo de juego. Se puede acceder cambiando el [modo permitido](/wiki/Client/Beatmap_editor/Song_setup#advanced) de la dificultad a `osu!mania`.
 
 ## Características 
 
