@@ -79,4 +79,4 @@ As if this match wasn't crazy enough, it just had to end on a tiebreaker. Japan 
 
 As always, we hope everyone's been liking the tournament thus far. We sure have! To keep up with the streams coming up please check the [osulive Twitch channel](https://www.twitch.tv/osulive) and the [wiki article](/wiki/Tournaments/MWC/2024_7K) for more information and updated results, mappools, and schedules.
 
-—0x84f, kadoen, RandomeLoL, SurfChu85
+—0x84f, RandomeLoL, SurfChu85
