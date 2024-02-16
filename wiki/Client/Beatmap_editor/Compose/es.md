@@ -40,8 +40,8 @@ Mantén presionado `Alt` para cambiar el control deslizante al modo de [ajuste d
 
 | Botón (atajo de teclado) | Descripción |
 | :-- | :-- |
-| `Sampleset` | Reemplaza el [conjunto de muestras](/wiki/Beatmapping/Sampleset) de los objetos seleccionados (incluidos sus hitnormals). Al elegir `Auto`, se restablece el conjunto de muestras al del [punto de tiempo](/wiki/Client/Beatmap_editor/Timing#puntos-de-tiempo) activo. |
-| `Additions` | Reemplaza el conjunto de muestra de los objetos seleccionados, afectando solo sus hitsounds adicionales (whistle, finish y clap). Al elegir `Auto`, se restablece el conjunto de muestras al del punto de tiempo activo. |
+| `Sampleset` | Reemplaza el [conjunto de muestras](/wiki/Beatmapping/Sampleset) de los objetos seleccionados (incluidos sus hitnormals). Elegir `Auto` restablecerá el conjunto de muestras al del [punto de tiempo](/wiki/Client/Beatmap_editor/Timing#puntos-de-tiempo) activo. |
+| `Additions` | Reemplaza el conjunto de muestra de los objetos seleccionados, afectando solo sus hitsounds adicionales (whistle, finish y clap). Elegir `Auto` restablecerá el conjunto de muestras al del punto de tiempo activo. |
 | `Select` (`1`) | `Clic izquierdo` o `Arrastrar hacia la izquierda`: Seleccionar o mover objetos o puntos de control. `Clic derecho`: Eliminar objetos o puntos de control. `Ctrl` + `Clic izquierdo`: Selecciona varios objetos. `Ctrl` + `Clic izquierdo` al seleccionar un slider: Agrega un [punto de control](/wiki/Gameplay/Hit_object/Slider/Slider_anchor). |
 | `Circle` (`2`) | `Clic izquierdo`: Agrega un [círculo](/wiki/Gameplay/Hit_object/Hit_circle) en la marca de tiempo actual. |
 | `Slider` (`3`) | `Clic izquierdo`/`derecho`: Inicia o finaliza un [slider](/wiki/Gameplay/Hit_object/Slider) en la marca de tiempo actual. `Clic izquierdo` al colocar un slider: Agrega un punto de control. |
@@ -63,16 +63,16 @@ Mantén presionado `Alt` para cambiar el control deslizante al modo de [ajuste d
 
 | Botón (atajo de teclado) | Uso |
 | :-- | :-- |
-| `Whistle` (`W`) | `Clic izquierdo`: Aplica un sonido de un whistle a la selección. |
-| `Finish` (`E`) | `Clic izquierdo`: Aplica un sonido de un finish a la selección. |
-| `Clap` (`R`) | `Clic izquierdo`: Aplica un sonido de un clap a la selección. |
+| `Whistle` (`W`) | `Clic izquierdo`: Aplica un sonido de whistle a la selección. |
+| `Finish` (`E`) | `Clic izquierdo`: Aplica un sonido de finish a la selección. |
+| `Clap` (`R`) | `Clic izquierdo`: Aplica un sonido de clap a la selección. |
 
 #### Herramientas de asistencia
 
 | Botón (atajo de teclado) | Uso | Descripción |
 | :-- | :-- | :-- |
-| `Grid Snap` (`T`) | Al mantener pulsado `Mayús`: Alterna temporalmente. | Ajusta objetos [a la cuadrícula](/wiki/Beatmapping/Grid_snapping) mientras se mueven. |
-| `Distance Snap` (`Y`) | Al mantener pulsado `Alt`: Alterna temporalmente, cambiando el divisor de ritmo a ajuste de distancia de las notas. `Alt` + `Rueda del ratón`: Ajusta el multiplicador del ajuste de distancia de las notas. | Calcula la [distancia](/wiki/Client/Beatmap_editor/Distance_snap) entre objetos consecutivos en función de su distancia temporal. Es mejor usarlo mientras la línea de tiempo está en pausa. |
+| `Grid Snap` (`T`) | Mantener pulsado `Mayús`: Alterna temporalmente. | Ajusta objetos [a la cuadrícula](/wiki/Beatmapping/Grid_snapping) mientras se mueven. |
+| `Distance Snap` (`Y`) | Mantener pulsado `Alt`: Alterna temporalmente, cambiando el divisor de ritmo a ajuste de distancia de las notas. `Alt` + `Rueda del ratón`: Ajusta el multiplicador del ajuste de distancia de las notas. | Calcula la [distancia](/wiki/Client/Beatmap_editor/Distance_snap) entre objetos consecutivos en función de su distancia temporal. Es mejor usarlo mientras la línea de tiempo está en pausa. |
 | `Lock Notes` (`L`) | `Clic izquierdo`: alterna. | Bloquea todos los objetos en sus posiciones y marcas de tiempo actuales. |
 
 ### Línea de tiempo de la canción
@@ -131,11 +131,11 @@ En osu!mania, el área del divisor de ritmo también muestra el nombre y el nive
 
 | Botón (atajo de teclado) | Uso |
 | :-- | :-- |
-| `Sampleset` | Reemplaza el [conjunto de muestras](/wiki/Beatmapping/Sampleset) de los objetos seleccionados (incluidos sus hitnormals). Al elegir `Auto`, se restablece el conjunto de muestras al del [punto de tiempo](/wiki/Client/Beatmap_editor/Timing#puntos-de-tiempo) activo. |
-| `Additions` | Reemplaza el conjunto de muestra de los objetos seleccionados, afectando solo sus hitsounds adicionales (whistle, finish y clap). Al elegir `Auto`, se restablece el conjunto de muestras al del punto de tiempo activo. |
+| `Sampleset` | Reemplaza el [conjunto de muestras](/wiki/Beatmapping/Sampleset) de los objetos seleccionados (incluidos sus hitnormals). Elegir `Auto` restablecerá el conjunto de muestras al del [punto de tiempo](/wiki/Client/Beatmap_editor/Timing#puntos-de-tiempo) activo. |
+| `Additions` | Reemplaza el conjunto de muestra de los objetos seleccionados, afectando solo sus hitsounds adicionales (whistle, finish y clap). Elegir `Auto` restablecerá el conjunto de muestras al del punto de tiempo activo. |
 | `Select` (`1`) | `Clic izquierdo` o `Arrastrar hacia la izquierda`: Mueve la marca de tiempo y ubicación de la nota. `Clic derecho`: Elimina la nota. `Ctrl` + `Clic izquierdo`: Selecciona varios objetos. |
 | `Circle` (`2`) | `Clic izquierdo`: Coloca una nota. |
-| `Hold` (`3`) | Al mantener pulsado `Clic izquierdo`: Coloca una nota larga y ajusta su longitud. Suelta el clic para finalizar la nota. |
+| `Hold` (`3`) | Mantener pulsado `Clic izquierdo`: Coloca una nota larga y ajusta su longitud. Suelta el clic para finalizar la nota. |
 
 ### Campo de juego
 
