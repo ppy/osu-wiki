@@ -51,9 +51,9 @@ Mantén presionado `Alt` para cambiar el control deslizante al modo de [ajuste d
 
 ![](img/playfield.jpg "Representación visual de la marca de tiempo actual")
 
-### Barra de herramientas derecha
+### Barra de herramientas de la derecha
 
-![](img/subtools.jpg "Barra de herramientas derecha")
+![](img/subtools.jpg "Barra de herramientas de la derecha")
 
 | Botón (atajo de teclado) | Uso | Descripción |
 | :-- | :-- | :-- |
