@@ -519,7 +519,7 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
-| [Kry.exe - <<SENT://iNEL>>](https://www.youtube.com/watch?v=4WRoaa4LSbM) | [#1](https://osu.ppy.sh/beatmapsets/2023743) | Grand Finals tiebreaker |
+| [Kry.exe - \<\<SENT://iNEL\>\>](https://www.youtube.com/watch?v=4WRoaa4LSbM) | [#1](https://osu.ppy.sh/beatmapsets/2023743) | Grand Finals tiebreaker |
 | [nm-y as "Vanquisher" - Chronodivinity](https://www.youtube.com/watch?v=ufswmOcfWAU) |  | Round of 16 & Quarterfinals tiebreaker |
 | Noah - Unwavering Dignity | [#1](https://osu.ppy.sh/beatmapsets/2023572) | Semifinals tiebreaker |
 | [passchooo - chooo2023\_10](https://soundcloud.com/passchooo/chooo2023_10)[^fa] |  | Livestream BGM |
@@ -740,7 +740,7 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | [celtix - Niflheimr](https://www.youtube.com/watch?v=mset2iLQ3qw) | [#1](https://osu.ppy.sh/beatmapsets/2036540) | Finals HR2 |
 | [dev - last remote](https://www.youtube.com/watch?v=A5h8G9J-GDo) | [#1](https://osu.ppy.sh/beatmapsets/2036549) | Finals DT2 |
 | [Gomadare - Resolver](https://soundcloud.com/gomadare-1/resolver) | [#1](https://osu.ppy.sh/beatmapsets/2023265) | Qualifiers DT1 |
-| [GTS Sound Team - <<wr/d.:maker>> \~Harmony in Reset\~](https://soundcloud.com/blobdash/wrldmaker)[^fa-feature] | [#1](https://osu.ppy.sh/beatmapsets/2036571) | Finals tiebreaker |
+| [GTS Sound Team - \<\<wr/d.:maker\>\> \~Harmony in Reset\~](https://soundcloud.com/blobdash/wrldmaker)[^fa-feature] | [#1](https://osu.ppy.sh/beatmapsets/2036571) | Finals tiebreaker |
 | [HAGISOPH - Trip Coffee](https://soundcloud.com/hagisoph/coegts-qualifiers-nm3trip-coffee) | [#1](https://osu.ppy.sh/beatmapsets/2023383) | Qualifiers NM3 |
 | [ITHAQUA - aoi kokoro](https://soundcloud.com/ithaqua_ss/aoi-kokoro) | [#1](https://osu.ppy.sh/beatmapsets/2036468) | Finals NM5 |
 | [kou - Spectrum](https://soundcloud.com/kou49/spectrum-1) | [#1](https://osu.ppy.sh/beatmapsets/2036533) | Finals HD1 |
@@ -868,7 +868,7 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
 | [HowToPlayLN - remembrance; image of him before departure](https://soundcloud.com/indekkusu/remembrance-image-of-him-before-departure) | [#1](https://osu.ppy.sh/beatmapsets/2028818) | Quarterfinals LN1 |
-| [Polarin - Ambivalence before VIOLET EYES :. <ultima\_resistatio>](https://soundcloud.com/polarin0/ambivalence-before-violet-eyes-ultima_resistatio) | [#1](https://osu.ppy.sh/beatmapsets/2041029) | Grand Finals RC3 |
+| [Polarin - Ambivalence before VIOLET EYES :. \<ultima\_resistatio\>](https://soundcloud.com/polarin0/ambivalence-before-violet-eyes-ultima_resistatio) | [#1](https://osu.ppy.sh/beatmapsets/2041029) | Grand Finals RC3 |
 | [t404:null - Oblitus Requiem \\\\against the forsaken legacy//](https://soundcloud.com/t404null/oblitus-requiem) | [#1](https://osu.ppy.sh/beatmapsets/2041165) | Grand Finals tiebreaker |
 | [The Musical Ghost vs. arc.sys - Re:Define \~beyond the divine ordeal\~](https://soundcloud.com/the-musical-ghost/tmg-vs-arcsys-redefine-beyond-the-divine-ordeal-for-vnmc-finals-tiebreaker-2023) | [#1](https://osu.ppy.sh/beatmapsets/2036991) | Finals tiebreaker |
 
@@ -925,7 +925,7 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
-| osu!mania SQUID GAME Sound Team - SUBTERRANEAN DRIFT <<Sole Survivor>>[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2085172) | Finale tiebreaker |
+| osu!mania SQUID GAME Sound Team - SUBTERRANEAN DRIFT \<\<Sole Survivor\>\>[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2085172) | Finale tiebreaker |
 
 ### Official song remix contest releases
 
