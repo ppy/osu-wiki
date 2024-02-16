@@ -24,6 +24,7 @@
   - changed-files:
       - any-glob-to-any-file:
           - news/**/*.md
+          - wiki/shared/news/**
 
 "area:ranking criteria":
   - changed-files:
