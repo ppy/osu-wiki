@@ -112,25 +112,26 @@ osu!mania 7키 월드컵 2024는 osu! 팀과 여러명의 커뮤니티 멤버들
 
 | Team A | Team B | 경기 시간 | 트위치 방송 |  |
 | --: | :-- | :-- | :-: | :-: |
-| 필리핀 ::{ flag=PH }:: | ::{ flag=TH }:: 태국 | [Feb 17 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240217T120000&p1=1440&p2=145&p3=28) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 중국 ::{ flag=CN }:: | ::{ flag=JP }:: 일본 | [Feb 17 (Sat) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240217T133000&p1=1440&p2=33&p3=248) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 필리핀 ::{ flag=PH }:: | ::{ flag=TH }:: 태국 | [2월 17일 (토요일) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240217T120000&p1=1440&p2=145&p3=28) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 중국 ::{ flag=CN }:: | ::{ flag=JP }:: 일본 | [2월 17일 (토요일) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240217T133000&p1=1440&p2=33&p3=248) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 
 ### 2024년 2월 18일 일요일
 
 | Team A | Team B | 경기 시간 | 트위치 방송 |  |
 | --: | :-- | :-- | :-: | :-: |
-| 일본 ::{ flag=JP }:: | ::{ flag=PH }:: 필리핀 | [Feb 18 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240218T100000&p1=1440&p2=248&p3=145) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 일본 ::{ flag=JP }:: | ::{ flag=TH }:: 태국 | [Feb 18 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240218T100000&p1=1440&p2=248&p3=28) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 대한민국 ::{ flag=KR }:: | ::{ flag=MY }:: 말레이시아 | [Feb 18 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240218T120000&p1=1440&p2=235&p3=122) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 중국 ::{ flag=CN }:: | ::{ flag=PH }:: 필리핀 | [Feb 18 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240218T133000&p1=1440&p2=33&p3=145) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 중국 ::{ flag=CN }:: | ::{ flag=TH }:: 태국 | [Feb 18 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240218T133000&p1=1440&p2=33&p3=28) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 그랜드 파이널 | 맵풀 쇼케이스 | [Feb 18 (Sun) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240218T143000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| 일본 ::{ flag=JP }:: | ::{ flag=PH }:: 필리핀 | [2월 18일 (일요일) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240218T100000&p1=1440&p2=248&p3=145) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 일본 ::{ flag=JP }:: | ::{ flag=TH }:: 태국 | [2월 18일 (일요일) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240218T100000&p1=1440&p2=248&p3=28) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 대한민국 ::{ flag=KR }:: | ::{ flag=MY }:: 말레이시아 | [2월 18일 (일요일) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240218T120000&p1=1440&p2=235&p3=122) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| 중국 ::{ flag=CN }:: | ::{ flag=PH }:: 필리핀 | [2월 18일 (일요일) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240218T133000&p1=1440&p2=33&p3=145) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 중국 ::{ flag=CN }:: | ::{ flag=TH }:: 태국 | [2월 18일 (일요일) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240218T133000&p1=1440&p2=33&p3=28) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 그랜드 파이널 | 맵풀 쇼케이스 | [2월 18일 (일요일) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240218T143000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## 맵풀 목록
 
 ### 파이널
 
-**[맵팩은 여기서 다운로드가 가능합니다 (111 MB)](https://packs.ppy.sh/P237%20-%20osu!mania%207K%20World%20Cup%202024%3A%20Finals.zip)**
+**[맵팩은 여기서 다운로드가 가능합니다 (111 MB)](https://packs.ppy.sh/P237%20-%20osu!mania%207K%20World%20Cup%202024%3A%20Finals.zip)**\
+[쇼케이스 VOD는 여기서 볼 수 있습니다](https://www.twitch.tv/videos/2059913783)
 
 - Rice
   1. [Shiraishi - Moon-gate (Delay ver.) (Tailsdk) \[MWC Finals Speed\]](https://osu.ppy.sh/beatmapsets/2134113#mania/4489957)
@@ -155,7 +156,8 @@ osu!mania 7키 월드컵 2024는 osu! 팀과 여러명의 커뮤니티 멤버들
 
 ### 세미파이널
 
-**[맵팩은 여기서 다운로드가 가능합니다 (119 MB)](https://packs.ppy.sh/P236%20-%20osu!mania%207K%20World%20Cup%202024%3A%20Semifinals.zip)**
+**[맵팩은 여기서 다운로드가 가능합니다 (119 MB)](https://packs.ppy.sh/P236%20-%20osu!mania%207K%20World%20Cup%202024%3A%20Semifinals.zip)**\
+[쇼케이스 VOD는 여기서 볼 수 있습니다](https://www.twitch.tv/videos/2059913783)
 
 - Rice
   1. [rejection - The Way of Adventure (feat. Kusaka Akira) (osu! edit) (Jinjin) \[Delayed Journey\]](https://osu.ppy.sh/beatmapsets/2130606#mania/4480890)
@@ -178,7 +180,8 @@ osu!mania 7키 월드컵 2024는 osu! 팀과 여러명의 커뮤니티 멤버들
 
 ### 쿼터파이널
 
-**[맵팩은 여기서 다운로드가 가능합니다 (92 MB)](https://packs.ppy.sh/P235%20-%20osu!mania%207K%20World%20Cup%202024%3A%20Quarterfinals.zip)**
+**[맵팩은 여기서 다운로드가 가능합니다 (92 MB)](https://packs.ppy.sh/P235%20-%20osu!mania%207K%20World%20Cup%202024%3A%20Quarterfinals.zip)**\
+[쇼케이스 VOD는 여기서 볼 수 있습니다](https://www.twitch.tv/videos/2053211033)
 
 - Rice
   1. [Aquellex - Zygourous Distribution (pwhk) \[Black Another\]](https://osu.ppy.sh/beatmapsets/2126913#mania/4471195)
@@ -201,7 +204,8 @@ osu!mania 7키 월드컵 2024는 osu! 팀과 여러명의 커뮤니티 멤버들
 
 ### 16강
 
-**[맵팩은 여기서 다운로드가 가능합니다 (59 MB)](https://packs.ppy.sh/P234%20-%20osu%21mania%207K%20World%20Cup%202024%3A%20Round%20of%2016.zip)**
+**[맵팩은 여기서 다운로드가 가능합니다 (59 MB)](https://packs.ppy.sh/P234%20-%20osu%21mania%207K%20World%20Cup%202024%3A%20Round%20of%2016.zip)**\
+[쇼케이스 VOD는 여기서 볼 수 있습니다](https://www.twitch.tv/videos/2046293749)
 
 - Rice
   1. [goreshit - toromi hearts 2 (Sped Up Ver.) (Tailsdk) \[MWC RO16 Speed (Cut ver.)\]](https://osu.ppy.sh/beatmapsets/2123251#mania/4461979)
@@ -222,7 +226,8 @@ osu!mania 7키 월드컵 2024는 osu! 팀과 여러명의 커뮤니티 멤버들
 
 ### 24강
 
-**[맵팩은 여기서 다운로드가 가능합니다 (50 MB)](https://packs.ppy.sh/P233%20-%20osu!mania%207K%20World%20Cup%202024%3A%20Round%20of%2024.zip)**
+**[맵팩은 여기서 다운로드가 가능합니다 (50 MB)](https://packs.ppy.sh/P233%20-%20osu!mania%207K%20World%20Cup%202024%3A%20Round%20of%2024.zip)**\
+[쇼케이스 VOD는 여기서 볼 수 있습니다](https://www.twitch.tv/videos/2039649748)
 
 - Rice
   1. [Lime - Luminaria (pwhk) \[Another\]](https://osu.ppy.sh/beatmapsets/1751814#mania/3584159)
@@ -243,7 +248,8 @@ osu!mania 7키 월드컵 2024는 osu! 팀과 여러명의 커뮤니티 멤버들
 
 ### 퀄리파이어
 
-**[맵팩은 여기서 다운로드가 가능합니다 (33 MB)](https://packs.ppy.sh/P232%20-%20osu!mania%207K%20World%20Cup%202024%3A%20Qualifiers.zip?1704640372)**
+**[맵팩은 여기서 다운로드가 가능합니다 (33 MB)](https://packs.ppy.sh/P232%20-%20osu!mania%207K%20World%20Cup%202024%3A%20Qualifiers.zip?1704640372)**\
+[쇼케이스 VOD는 여기서 볼 수 있습니다](https://www.twitch.tv/videos/2025563371)
 
 1. [Ruby My Dear - Mini Short (paulkappa) \[Stage 1: Pantalon\]](https://osu.ppy.sh/beatmapsets/2115944#mania/4443559)
 2. [F-777 - Vortex (Critical\_Star) \[Stage 2: Tempestuous\]](https://osu.ppy.sh/beatmapsets/2115945#mania/4443562)
@@ -277,7 +283,6 @@ osu!mania 7키 월드컵 2024는 osu! 팀과 여러명의 커뮤니티 멤버들
 | **일본** ::{ flag=JP }:: | **6** | 4 | ::{ flag=AU }:: 오스트레일리아 | [#1](https://osu.ppy.sh/community/matches/112617868) | [#1](https://www.twitch.tv/videos/2059665757) |
 | **대한민국** ::{ flag=KR }:: | **6** | 0 | ::{ flag=PH }:: 필리핀 | [#1](https://osu.ppy.sh/community/matches/112618591) | [#1](https://www.twitch.tv/videos/2059720126) |
 | **태국** ::{ flag=TH }:: | **6** | 2 | ::{ flag=CA }:: 캐나다 | [#1](https://osu.ppy.sh/community/matches/112621549) | [#1](https://www.twitch.tv/videos/2059851586) |
-| 파이널 |  |  | 맵풀 쇼케이스 |  | [#1](https://www.twitch.tv/videos/2059913783) |
 
 ### 쿼터파이널
 
@@ -308,7 +313,6 @@ osu!mania 7키 월드컵 2024는 osu! 팀과 여러명의 커뮤니티 멤버들
 | **브라질** ::{ flag=BR }:: | **6** | 0 | ::{ flag=TW }:: 대만 | [#1](https://osu.ppy.sh/community/matches/112520824) | [#1](https://www.twitch.tv/videos/2053031163) |
 | **러시아** ::{ flag=RU }:: | **6** | 2 | ::{ flag=ID }:: 인도네시아 | [#1](https://osu.ppy.sh/community/matches/112520830) | [#1](https://www.twitch.tv/videos/2053063481) |
 | **폴란드** ::{ flag=PL }:: | **6** | 1 | ::{ flag=VN }:: 베트남 | [#1](https://osu.ppy.sh/community/matches/112522185) | [#1](https://www.twitch.tv/videos/2053290391) |
-| 세미파이널 |  |  | 맵풀 쇼케이스 |  | [#1](https://www.twitch.tv/videos/2053211033) |
 
 ### 16강
 
@@ -331,7 +335,6 @@ osu!mania 7키 월드컵 2024는 osu! 팀과 여러명의 커뮤니티 멤버들
 | **캐나다** ::{ flag=CA }:: | **5** | 1 | ::{ flag=US }:: 미국 | [#1](https://osu.ppy.sh/community/matches/112408966) | [#1](https://www.twitch.tv/videos/2045818568) |
 | **대한민국** ::{ flag=KR }:: | **5** | 0 | ::{ flag=TW }:: 대만 | [#1](https://osu.ppy.sh/community/matches/112413896) | [#1](https://www.twitch.tv/videos/2046114858) |
 | **중국** ::{ flag=CN }:: | **5** | 0 | ::{ flag=DE }:: 독일 | [#1](https://osu.ppy.sh/community/matches/112416380) | [#1](https://www.twitch.tv/videos/2046225945) |
-| 쿼터파이널 |  |  | 맵풀 쇼케이스 |  | [#1](https://www.twitch.tv/videos/2046293749) |
 
 ### 24강
 
@@ -343,7 +346,6 @@ osu!mania 7키 월드컵 2024는 osu! 팀과 여러명의 커뮤니티 멤버들
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **베트남** ::{ flag=VN }:: | **5** | 0 | ::{ flag=SE }:: 스웨덴 | [#1](https://osu.ppy.sh/community/matches/112290919) | [#1](https://www.twitch.tv/videos/2038334661) |
 | **브라질** ::{ flag=BR }:: | **5** | 1 | ::{ flag=PT }:: 포르투갈 | [#1](https://osu.ppy.sh/community/matches/112292934) | [#1](https://www.twitch.tv/videos/2038432046) |
-| 16강 |  |  | 맵풀 쇼케이스 |  | [#1](https://www.twitch.tv/videos/2039649748) |
 
 2024년 1월 21일 일요일:
 
