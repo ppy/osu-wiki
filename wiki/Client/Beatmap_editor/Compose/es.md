@@ -104,7 +104,7 @@ En la parte inferior derecha, la velocidad de reproducción se puede configurar 
 
 #### Acciones de un marcador
 
-| Shortcut | Description |
+| Atajo | Descripción |
 | :-- | :-- |
 | `Ctrl` + `B` | Agrega un marcador en la ubicación actual. |
 | `Ctrl` + `Mayús` + `B` | Elimina el marcador más cercano (a menos de 2 segundos de distancia). |
