@@ -15,7 +15,9 @@ Many musicians enjoy seeing their music in osu!, but [**uselet**](https://osu.pp
 In case you're not in the *mapping mood* quite yet, this video of **uselet**'s *circus* should set the tone appropriately. Check that out, plus a few more previews:
 
 <div align="center">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/bEHMtQxhzqM" frameborder="0" allowfullscreen></iframe>
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/artists/402/release_showcase.mp4" type="video/mp4" preload="none">
+    </video>
 </div>
 
 ### uselet - circus
@@ -23,7 +25,7 @@ In case you're not in the *mapping mood* quite yet, this video of **uselet**'s *
 Experience [the map from the video above](https://osu.ppy.sh/beatmapsets/1329329) hosted by [The Law](https://osu.ppy.sh/users/11357694)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/402/Songs/uselet%20-%20circus.osz">
 </audio>
 
 ### uselet - cxvbiopxvcbn
@@ -31,7 +33,7 @@ Experience [the map from the video above](https://osu.ppy.sh/beatmapsets/1329329
 Or bash some drums to [this map](https://osu.ppy.sh/beatmapsets/1742153) by [op45667](https://osu.ppy.sh/users/21973491)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/402/Songs/uselet%20-%20cxvbiopxvcbn.mp3">
 </audio>
 
 ### uselet - n'aie crainte, a present tout est fini
@@ -39,7 +41,7 @@ Or bash some drums to [this map](https://osu.ppy.sh/beatmapsets/1742153) by [op4
 Essayez de jouer [cette 4K beatmap](https://osu.ppy.sh/beatmapsets/1667457) par [Flade](https://osu.ppy.sh/users/11061804)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/402/Songs/uselet%20-%20n_aie%20crainte%2C%20a%20present%20tout%20est%20fini.mp3">
 </audio>
 
 ---
