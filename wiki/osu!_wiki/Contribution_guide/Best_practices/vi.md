@@ -80,7 +80,7 @@ Bạn có thể bấm `Commit suggestion` để sửa từng gợi ý một, mi�
 
 Sử dụng các tính năng sẽ tự động đánh dấu là đã xử lý. Khi sửa theo đánh giá bằng tay (ví dụ khi người đánh giá không thêm một gợi ý trực tiếp), hãy nhớ đánh dấu là đã xử lý *sau khi thực hiện thay đổi* để tránh quên bất cứ thứ gì. Để GitHub tự động sửa theo đánh giá được ưu tiên hơn hơn vì nó bảo đảm các gợi ý được sửa đúng cách và tránh lỗi sao chép bằng tay.
 
-## Giải quyết xung đột (conflict).
+## Giải quyết xung đột (conflict)
 
 Có hai lý do khiến việc này xảy ra:
 
