@@ -25,7 +25,7 @@ In case you're not in the *mapping mood* quite yet, this video of **uselet**'s *
 Experience [the map from the video above](https://osu.ppy.sh/beatmapsets/1329329) hosted by [The Law](https://osu.ppy.sh/users/11357694)!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/402/Songs/uselet%20-%20circus.osz">
+    <source src="https://assets.ppy.sh/artists/402/Songs/uselet%20-%20circus.mp3">
 </audio>
 
 ### uselet - cxvbiopxvcbn
@@ -46,7 +46,7 @@ Essayez de jouer [cette 4K beatmap](https://osu.ppy.sh/beatmapsets/1667457) par 
 
 ---
 
-Fun fact: Any of the 11 beatmap templates you download from [**uselet**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/402) are already pre-timed. Less fun fact: I timed 11 songs yesterday.
+Fun fact: any of the 11 beatmap templates you download from [**uselet**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/402) are already pre-timed. Less fun fact: I timed 11 songs yesterday.
 
 That'll do it for this week. Stay tuned for another artist release in about 168 hours.
 
