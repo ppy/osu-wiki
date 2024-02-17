@@ -133,7 +133,7 @@ Véase [este vídeo de YouTube](https://www.youtube.com/watch?v=xTRwM3zhhj0&t=24
 
 ### La tolerancia de los slider end es ahora más permisiva
 
-En sliders muy rápidos, ahora solo es necesario realizar el seguimiento en algún punto de los últimos 36 ms, en lugar de hacerlo desde los 36 ms antes del final del slider.
+En sliders muy rápidos, ahora solo es necesario realizar el seguimiento en algún punto de los últimos 36 ms, en lugar de hacerlo desde los 36 ms antes del final del slider.
 
 Véase [este vídeo de YouTube](https://www.youtube.com/watch?v=SlWKKA-ltZY) para obtener una explicación detallada.
 
@@ -280,7 +280,7 @@ Esto funciona de manera similar a ScoreV2 en stable.
 
 En stable, las notas largas dan un combo cada 100 ms, mientras que en lazer «las marcas de las notas largas» daban un combo cada intervalo de una marca.
 
-Ninguno de ellos existe en lazer, lo que significa que las notas largas solo dan un combo para el inicio y el final. Sin embargo, al igual que en stable, los combos se rompen inmediatamente al soltar los sliders.
+Nada de eso existe en lazer, lo que significa que las notas largas solo dan combo en el inicio y el final. Sin embargo, al igual que en stable, los combos se rompen inmediatamente al soltar los sliders.
 
 |  |  |
 | :-- | :-: |
