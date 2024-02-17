@@ -108,22 +108,12 @@ osu!mania 7키 월드컵 2024는 osu! 팀과 여러명의 커뮤니티 멤버들
 
 ## 매치 일정 : 파이널
 
-### 2024년 2월 17일 토요일
-
-| Team A | Team B | 경기 시간 | 트위치 방송 |  |
-| --: | :-- | :-- | :-: | :-: |
-| 필리핀 ::{ flag=PH }:: | ::{ flag=TH }:: 태국 | [2월 17일 (토요일) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240217T120000&p1=1440&p2=145&p3=28) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 중국 ::{ flag=CN }:: | ::{ flag=JP }:: 일본 | [2월 17일 (토요일) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240217T133000&p1=1440&p2=33&p3=248) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-
 ### 2024년 2월 18일 일요일
 
 | Team A | Team B | 경기 시간 | 트위치 방송 |  |
 | --: | :-- | :-- | :-: | :-: |
-| 일본 ::{ flag=JP }:: | ::{ flag=PH }:: 필리핀 | [2월 18일 (일요일) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240218T100000&p1=1440&p2=248&p3=145) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 일본 ::{ flag=JP }:: | ::{ flag=TH }:: 태국 | [2월 18일 (일요일) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240218T100000&p1=1440&p2=248&p3=28) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 대한민국 ::{ flag=KR }:: | ::{ flag=MY }:: 말레이시아 | [2월 18일 (일요일) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240218T120000&p1=1440&p2=235&p3=122) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 중국 ::{ flag=CN }:: | ::{ flag=PH }:: 필리핀 | [2월 18일 (일요일) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240218T133000&p1=1440&p2=33&p3=145) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 중국 ::{ flag=CN }:: | ::{ flag=TH }:: 태국 | [2월 18일 (일요일) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240218T133000&p1=1440&p2=33&p3=28) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 중국 ::{ flag=CN }:: | ::{ flag=PH }:: 필리핀 | [2월 18일 (일요일) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240218T133000&p1=1440&p2=33&p3=145) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 그랜드 파이널 | 맵풀 쇼케이스 | [2월 18일 (일요일) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240218T143000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## 맵풀 목록
@@ -261,6 +251,15 @@ osu!mania 7키 월드컵 2024는 osu! 팀과 여러명의 커뮤니티 멤버들
 8. [Raimukun - Cthulhu (Leeju) \[Stage 8: Abyss\]](https://osu.ppy.sh/beatmapsets/2115980#mania/4443612)
 
 ## 경기 결과
+
+### 파이널
+
+2024년 2월 17일 토요일:
+
+| Team A |  |  | Team B | 경기 링크 | VOD 링크 |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **필리핀** ::{ flag=PH }:: | **7** | 1 | ::{ flag=TH }:: 태국 | [#1](https://osu.ppy.sh/community/matches/112703187) | [#1](https://www.twitch.tv/videos/2065373352) |
+| **중국** ::{ flag=CN }:: | **7** | 3 | ::{ flag=JP }:: 일본 | [#1](https://osu.ppy.sh/community/matches/112704301) | [#1](https://www.twitch.tv/videos/2065434778) |
 
 ### 세미파이널
 
@@ -551,7 +550,6 @@ osu!mania 7키 월드컵 2024는 osu! 팀과 여러명의 커뮤니티 멤버들
 
 [^winners-bracket]: 승자조 경기
 [^losers-bracket]: 패자조 경기
-[^potential-match]: 이전 패자조 경기 결과에 따라 달라지는 잠재적인 매치입니다
 [^mappool-showcase]: 이전 경기 결과에 따라 사전 예고없이 일정이 변경될 수 있는 맵풀 쇼케이스입니다
 [^qualifiers-seeding]: 주된 시드 배정 방법으로 사용합니다
 [^qualifiers-tiebreaker]: 두 팀의 average rank 값이 동일할 경우 타이브레이커로 사용합니다

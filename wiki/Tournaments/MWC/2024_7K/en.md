@@ -108,22 +108,12 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
 
 ## Match Schedule: Finals
 
-### Saturday, 17 February 2024
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| Philippines ::{ flag=PH }:: | ::{ flag=TH }:: Thailand | [Feb 17 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240217T120000&p1=1440&p2=145&p3=28) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| China ::{ flag=CN }:: | ::{ flag=JP }:: Japan | [Feb 17 (Sat) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240217T133000&p1=1440&p2=33&p3=248) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-
 ### Sunday, 18 February 2024
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Japan ::{ flag=JP }:: | ::{ flag=PH }:: Philippines | [Feb 18 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240218T100000&p1=1440&p2=248&p3=145) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Japan ::{ flag=JP }:: | ::{ flag=TH }:: Thailand | [Feb 18 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240218T100000&p1=1440&p2=248&p3=28) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | South Korea ::{ flag=KR }:: | ::{ flag=MY }:: Malaysia | [Feb 18 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240218T120000&p1=1440&p2=235&p3=122) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| China ::{ flag=CN }:: | ::{ flag=PH }:: Philippines | [Feb 18 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240218T133000&p1=1440&p2=33&p3=145) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| China ::{ flag=CN }:: | ::{ flag=TH }:: Thailand | [Feb 18 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240218T133000&p1=1440&p2=33&p3=28) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| China ::{ flag=CN }:: | ::{ flag=PH }:: Philippines | [Feb 18 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240218T133000&p1=1440&p2=33&p3=145) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Grand Finals | mappool showcase | [Feb 18 (Sun) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240218T143000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Mappools
@@ -261,6 +251,15 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
 8. [Raimukun - Cthulhu (Leeju) \[Stage 8: Abyss\]](https://osu.ppy.sh/beatmapsets/2115980#mania/4443612)
 
 ## Match results
+
+### Finals
+
+Saturday, 17 February 2024:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Philippines** ::{ flag=PH }:: | **7** | 1 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/112703187) | [#1](https://www.twitch.tv/videos/2065373352) |
+| **China** ::{ flag=CN }:: | **7** | 3 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/112704301) | [#1](https://www.twitch.tv/videos/2065434778) |
 
 ### Semifinals
 
@@ -551,7 +550,6 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 [^winners-bracket]: Winners bracket match
 [^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
 [^mappool-showcase]: Mappool showcase — schedule subject to rescheduling without prior notice, depending on preceding matches
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same average rank
