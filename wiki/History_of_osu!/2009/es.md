@@ -12,7 +12,7 @@ osu! llega al iPhone en forma de port desarrollado por [nuudles](https://osu.ppy
 
 ![](img/2009-01_04.jpg "Opciones")
 
-![](img/2009-01_05.jpg "Selección de canción")
+![](img/2009-01_05.jpg "Selección de canciones")
 
 ![](img/2009-01_06.jpg "Selección de dificultad de canción")
 
@@ -34,7 +34,7 @@ osu! llega al iPhone en forma de port desarrollado por [nuudles](https://osu.ppy
 
 La página de preguntas frecuentes de la web de osu! se convirtió en traducible y contribuidores voluntarios ayudaron a hacer las preguntas frecuentes accesibles en multiples idiomas.[^faq-localisation]
 
-En una gran actualización el 26 de enero, osu! recibió muchas funciones nuevas.[^stable-b593a] Entre esos cambios se incluyen los nuevos modos de multijugador [Tag VS](/wiki/Client/Interface/Multiplayer#team-vs) y [Tag Team VS](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs), además de protección con contraseña para las salas de multijugador. Los objetos en el editor de storyboard se podrían modificar de nuevas maneras mediante las opciones de transfomación de escalado vectorial y volteo. Jugando, efectos de iluminación de golpeo enfatizarían un golpe mediante la salpicadura de colores en el playfield. Además, la barra de progreso de la canción también se hizo visible en forma de gráfico circular. Adicionalmente, un nuevo tipo de clasificación de mapas, «Last Played», fue añadido a la pantalla de [selección de canción](/wiki/Client/Interface#selector-de-canciones).
+En una gran actualización el 26 de enero, osu! recibió muchas funciones nuevas.[^stable-b593a] Entre esos cambios se incluyen los nuevos modos de multijugador [Tag VS](/wiki/Client/Interface/Multiplayer#team-vs) y [Tag Team VS](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs), además de protección con contraseña para las salas de multijugador. Los objetos en el editor de storyboard se podrían modificar de nuevas maneras mediante las opciones de transfomación de escalado vectorial y volteo. Jugando, efectos de iluminación de golpeo enfatizarían un golpe mediante la salpicadura de colores en el playfield. Además, la barra de progreso de la canción también se hizo visible en forma de gráfico circular. Adicionalmente, un nuevo tipo de clasificación de mapas, «Last Played», fue añadido a la pantalla de [selección de canciones](/wiki/Client/Interface#selector-de-canciones).
 
 ## Febrero
 
@@ -84,7 +84,7 @@ osu! recivió un nuevo parámetro, `LoopType`, para iterar sobre objetos del sto
 
 ## Septiembre
 
-Las actualizaciones este mes integraron nuevas funciones, entre las cuales estaban el soporte para pantallas panorámicas en la selección de canción,[^stable-b904a] soporte para amigos en la página web,[^custom-changelog] y la mascota de Taiko [pippidon](/wiki/Mascots#pippi), que ahora se mostraría en la esquina superior izquierda mientras se juega.[^stable-b898]
+Las actualizaciones este mes integraron nuevas funciones, entre las cuales estaban el soporte para pantallas panorámicas en la selección de canciones,[^stable-b904a] soporte para amigos en la página web,[^custom-changelog] y la mascota de Taiko [pippidon](/wiki/Mascots#pippi), que ahora se mostraría en la esquina superior izquierda mientras se juega.[^stable-b898]
 
 El 6 de septiembre, todas las [puntuaciones de Taiko fueron borradas](https://osu.ppy.sh/community/forums/topics/17118?n=1) para permitir la utilización de un mejorado sistema de puntuación.
 
