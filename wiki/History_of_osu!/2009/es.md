@@ -2,7 +2,7 @@
 
 ## Enero
 
-osu! llega al iPhone en forma de port desarollado por [nuudles](https://osu.ppy.sh/users/21312). Al proyecto se le adjudicó su propio [subforo](https://osu.ppy.sh/community/forums/47), ya archivado.[^iphone]
+osu! llega al iPhone en forma de port desarrollado por [nuudles](https://osu.ppy.sh/users/21312). Al proyecto se le adjudicó su propio [subforo](https://osu.ppy.sh/community/forums/47), ya archivado.[^iphone]
 
 ![](img/2009-01_01.jpg "La pantalla de título del osu! de iPhone")
 
@@ -34,7 +34,7 @@ osu! llega al iPhone en forma de port desarollado por [nuudles](https://osu.ppy.
 
 La página de preguntas frecuentes de la web de osu! se convirtió en traducible y contribuidores voluntarios ayudaron a hacer las preguntas frecuentes accesibles en multiples idiomas.[^faq-localisation]
 
-En una gran actualización el 26 de enero, osu! recivió muchas funciones nuevas.[^stable-b593a] Entre esos cambios se incluyen los nuevos modos de multijugador [Tag VS](/wiki/Client/Interface/Multiplayer#team-vs) y [Tag Team VS](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs), además de protección con contraseña para las salas de multijugador. Los objetos en el editor de storyboard se podrían modificar de nuevas maneras mediante las opciones de transfomación de escalado vectorial y volteo. Jugando, efectos de iluminación de golpeo enfatizarían un golpe mediante la salpicadura de colores en el playfield. Además, la barra de progreso de la canción también se hizo visible en forma de gráfico circular. Adicionalmente, un nuevo tipo de clasificación de mapas, «Last Played», fue añadido a la pantalla de [selección de canción](/wiki/Client/Interface#song-select).
+En una gran actualización el 26 de enero, osu! recibió muchas funciones nuevas.[^stable-b593a] Entre esos cambios se incluyen los nuevos modos de multijugador [Tag VS](/wiki/Client/Interface/Multiplayer#team-vs) y [Tag Team VS](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs), además de protección con contraseña para las salas de multijugador. Los objetos en el editor de storyboard se podrían modificar de nuevas maneras mediante las opciones de transfomación de escalado vectorial y volteo. Jugando, efectos de iluminación de golpeo enfatizarían un golpe mediante la salpicadura de colores en el playfield. Además, la barra de progreso de la canción también se hizo visible en forma de gráfico circular. Adicionalmente, un nuevo tipo de clasificación de mapas, «Last Played», fue añadido a la pantalla de [selección de canción](/wiki/Client/Interface#song-select).
 
 ## Febrero
 
@@ -64,7 +64,7 @@ Además de otros cambios, osu! tuvo una actualización este mes añadiendo sopor
 
 Debido a un cambio en el [sistema de subida de beatmaps](/wiki/Beatmapping/Beatmap_submission), los usuarios no serían capaces de hacer ningún cambio a un mapa una vez que fuese modded. Hubieron casos de mapas clasificados por miembros del BAT sin saber que contenían [cambios que infringen las normas](/wiki/Ranking_criteria).[^bss-update]
 
-Hasta este momento, osu! solo estaba disponible en inglés. Con la implementación del nuevo sistema de localización, los usuarios ahora podían traducir el cliente de juego. Podían descargar un archivo conteniendo las líneas de texto del juego, traducirlo a su propio idioma, y después pedir que el archivo fuesde integrado al cliente de juego.[^client-localisation][^stable-b695]
+Hasta este momento, osu! solo estaba disponible en inglés. Con la implementación del nuevo sistema de localización, los usuarios ahora podían traducir el cliente de juego. Podían descargar un archivo conteniendo las líneas de texto del juego, traducirlo a su propio idioma, y después pedir que el archivo fuese integrado al cliente de juego.[^client-localisation][^stable-b695]
 
 ## Julio
 
