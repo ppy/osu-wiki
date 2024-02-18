@@ -12,43 +12,43 @@ osu! llega al iPhone en forma de port desarrollado por [nuudles](https://osu.ppy
 
 ![](img/2009-01_04.jpg "Opciones")
 
-![](img/2009-01_05.jpg "Selección de canciones")
+![](img/2009-01_05.jpg "Selector de canciones")
 
 ![](img/2009-01_06.jpg "Selección de dificultad de canción")
 
-![](img/2009-01_07.jpg "Tablas de clasificación de canciones")
+![](img/2009-01_07.jpg "Tablas de clasificación de las canciones")
 
 ![](img/2009-01_08.jpg "Descargando canciones")
 
 ![](img/2009-01_09.jpg "Lista de nuevos beatmaps")
 
-![](img/2009-01_10.jpg "Pantalla de descarga de beatmap")
+![](img/2009-01_10.jpg "Pantalla de descarga de un beatmap")
 
-![](img/2009-01_11.jpg "Gameplay")
+![](img/2009-01_11.jpg "Jugabilidad")
 
 ![](img/2009-01_12.jpg "Menú de pausa")
 
-![](img/2009-01_13.jpg "Pantalla de ranking")
+![](img/2009-01_13.jpg "Pantalla de resultados")
 
-![](img/2009-01_14.jpg "Récord!")
+![](img/2009-01_14.jpg "¡Récord!")
 
-La página de preguntas frecuentes de la web de osu! se convirtió en traducible y contribuidores voluntarios ayudaron a hacer las preguntas frecuentes accesibles en multiples idiomas.[^faq-localisation]
+Las preguntas frecuentes del sitio web de osu! se han vuelto traducibles y contribuidores voluntarios ayudaron a hacerlas accesibles en varios idiomas.[^faq-localisation]
 
-En una gran actualización el 26 de enero, osu! recibió muchas funciones nuevas.[^stable-b593a] Entre esos cambios se incluyen los nuevos modos de multijugador [Tag VS](/wiki/Client/Interface/Multiplayer#team-vs) y [Tag Team VS](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs), además de protección con contraseña para las salas de multijugador. Los objetos en el editor de storyboard se podrían modificar de nuevas maneras mediante las opciones de transfomación de escalado vectorial y volteo. Jugando, efectos de iluminación de golpeo enfatizarían un golpe mediante la salpicadura de colores en el playfield. Además, la barra de progreso de la canción también se hizo visible en forma de gráfico circular. Adicionalmente, un nuevo tipo de clasificación de mapas, «Last Played», fue añadido a la pantalla de [selección de canciones](/wiki/Client/Interface#selector-de-canciones).
+En una gran actualización el 26 de enero, osu! recibió muchas funciones nuevas.[^stable-b593a] Entre esos cambios se incluyeron los nuevos modos de multijugador [Tag VS](/wiki/Client/Interface/Multiplayer#team-vs) y [Tag Team VS](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs), así como la protección por contraseña de las salas multijugador. Los objetos en el editor de storyboards se podrían modificar de nuevas maneras mediante las opciones de transfomación de escalado vectorial y volteo. Jugando, efectos de iluminación de golpeo enfatizarían un golpe mediante la salpicadura de colores en el campo de juego. Además, la barra de progreso de la canción también se hizo visible en forma de gráfico circular. Adicionalmente, se agregó al [selector de canciones](/wiki/Client/Interface#selector-de-canciones) un nuevo modo de clasificación para los beatmaps, llamado «Last Played».
 
 ## Febrero
 
-El 14 de febrero, se celebró la cuarta iteración de las reuniones con la comunidad de osu! con los temas de cómo debería ser la moderación de beatmaps, una nueva función de adaptación regional en desarrollo y preguntas sobre la posible expansión del osu! team.[^community-meeting-4]
+El 14 de febrero, se llevó a cabo la cuarta iteración de las reuniones con la comunidad de osu!, en la que se trataron temas como la moderación de los beatmaps, una nueva función de localización y preguntas sobre la posible expansión del osu! team.[^community-meeting-4]
 
-El sistema de [kudosu](/wiki/Kudosu) fue implementado para facilitar el [modding](/wiki/Modding) de beatmaps en el [procedimiento de clasificación](/wiki/Beatmap_ranking_procedure). Los mappers podrían ahora recompensar a la gente con puntos kudosu por críticas útiles y constructivas. 3 puntos kudosu se podían intercambiar por 1 estrella kudosu, la cual se podía usar para mejorar la clasificación del beatmap en la lista de prioridad de modding del [Beatmap Appreciation Team](/wiki/People/Beatmap_Appreciation_Team) (BAT).[^kudosu-1]
+El sistema de [kudosu](/wiki/Kudosu) fue implementado para facilitar el [modding](/wiki/Modding) de beatmaps en el [procedimiento de clasificación](/wiki/Beatmap_ranking_procedure). Los mappers podrían ahora recompensar a la gente con puntos kudosu por críticas útiles y constructivas. Se podían intercambiar 3 puntos kudosu por 1 estrella kudosu, la cual se podía usar para mejorar la clasificación del beatmap en la lista de prioridad de modding del [Beatmap Appreciation Team](/wiki/People/Beatmap_Appreciation_Team) (BAT).[^kudosu-1]
 
 ## Marzo
 
-Tres actualizaciones trajeron consigo un montón de cambios a osu! este mes. La primera de ellas incluyó opciones de filtrado para salas de multijugador, además de una opción del chat para filtrar mensajes en caso de la aparición de palabras malsonantes. Siempre que esté activado, cualquier mensaje que contenga palabras malsonantes sería automáticamente reemplazado por términos definidos en una lista preestablecida.[^stable-b622]
+Tres actualizaciones trajeron consigo un montón de cambios a osu! este mes. La primera de ellas incluyó opciones de filtrado para salas de multijugador, además de una opción del chat para filtrar mensajes en caso de la aparición de palabras ofensivas. Siempre que esté activado, cualquier mensaje que contenga palabras ofensivas sería automáticamente reemplazado por términos definidos en una lista preestablecida.[^stable-b622]
 
-En la siguiente actulización publicada el 21 de marzo, el [kiai time](/wiki/Gameplay/Kiai_time) fue añadido, habilitando a los mappers enfatizar secciones destacadas de canciones con fuentes de estrellas.[^stable-b631]
+En la siguiente actulización publicada el 21 de marzo, el [kiai time](/wiki/Gameplay/Kiai_time) fue añadido, permitiendo a los mappers enfatizar las partes más intensas de las canciones con fuentes de estrellas.[^stable-b631]
 
-El 26 de marzo, osu! recivió soporte para el mando tambor TaTaCon Wii Taiko y soporte en el juego y menú para el Wiimote (exclusivamente para Catch The Beat).[^stable-b639][^custom-changelog]
+El 26 de marzo, osu! recibió soporte para el mando tambor TaTaCon Wii Taiko y soporte en el juego y menú para el Wiimote (exclusivamente para Catch The Beat).[^stable-b639][^custom-changelog]
 
 ## Abril
 
@@ -56,61 +56,61 @@ El número de usuarios registrados superó los 100 000.[^user-count]
 
 ## Mayo
 
-Un cambio en el sistema de kudosu permitió a los usuarios regalar estrellas kudosu a cualquier mapa, no exclusivamente a los suyos, como era previamente.[^kudosu-change]
+Un cambio en el sistema de kudosu permitió a los usuarios regalar estrellas kudosu a cualquier beatmap, no exclusivamente a los suyos, como era previamente.[^kudosu-change]
 
-Además de otros cambios, osu! tuvo una actualización este mes añadiendo soporte para pantallas panorámicas y el mod [Autopilot](/wiki/Gameplay/Game_modifier/Autopilot). Habilitar el mod Autopilot se haría cargo del movimiento del cursor y el jugador solo tendría que manejar los toques.[^stable-b674]
+Además de otros cambios, osu! tuvo una actualización este mes, agregando soporte para pantallas anchas y el mod [Autopilot](/wiki/Gameplay/Game_modifier/Autopilot). Habilitar el mod Autopilot se haría cargo del movimiento del cursor y el jugador solo tendría que realizar la pulsación de las teclas.[^stable-b674]
 
 ## Junio
 
-Debido a un cambio en el [sistema de subida de beatmaps](/wiki/Beatmapping/Beatmap_submission), los usuarios no serían capaces de hacer ningún cambio a un mapa una vez que fuese modded. Hubieron casos de mapas clasificados por miembros del BAT sin saber que contenían [cambios que infringen las normas](/wiki/Ranking_criteria).[^bss-update]
+Debido a un cambio en el [sistema de envío de beatmaps](/wiki/Beatmapping/Beatmap_submission), los usuarios no serían capaces de hacer ningún cambio a un beatmap una vez que fuese modeado. Hubo casos de beatmaps clasificados por miembros del BAT sin saber que contenían [cambios que infringen las normas](/wiki/Ranking_criteria).[^bss-update]
 
 Hasta este momento, osu! solo estaba disponible en inglés. Con la implementación del nuevo sistema de localización, los usuarios ahora podían traducir el cliente de juego. Podían descargar un archivo conteniendo las líneas de texto del juego, traducirlo a su propio idioma, y después pedir que el archivo fuese integrado al cliente de juego.[^client-localisation][^stable-b695]
 
 ## Julio
 
-El 14 de julio, osu! news pasó a estar disponible como [feed RSS](https://en.wikipedia.org/wiki/RSS).[^rss-news]
+El 14 de julio, osu! news pasó a estar disponible como [feed RSS](https://es.wikipedia.org/wiki/RSS).[^rss-news]
 
-Dos actualizaciones este mes trajeron una nueva opción de precisión para el ratón para sensibilidades bajas además de nuevos parámetros de comando y atajos para simplificar el [scripting de storyboards](/wiki/Storyboard/Scripting) en osu!.[^stable-b753c][^stable-b709]
+Dos actualizaciones este mes trajeron una nueva opción de precisión para el ratón para sensibilidades bajas, así como nuevos parámetros de comandos y atajos para simplificar la [programación de los storyboards](/wiki/Storyboard/Scripting) en osu!.[^stable-b753c][^stable-b709]
 
-La base de datos del server fue actualizada con un nuevo SSD de 32 GB para permitir más almacenamiento de aquí en adelante.[^server-upgrade]
+La base de datos del servidor se actualizó con un SSD adicional de 32 GB para permitir más almacenamiento en el futuro.[^server-upgrade]
 
-Después de un test inicial en marzo para las clasificaciones en linea para Taiko, las estadísticas de clasificación para cada modo se volvieron visibles en la página web de osu!.[^per-mode-ranking][^stable-b622] Previamente, solo el [modo de juego de osu!](/wiki/Game_mode/osu!) tenía clasficaciones en línea.
+Después de una prueba inicial en marzo para las clasificaciones en línea para Taiko, las estadísticas de clasificación para cada modo se volvieron visibles en el sitio web de osu!.[^per-mode-ranking][^stable-b622] Antes de eso, solo el [modo de juego osu!](/wiki/Game_mode/osu!) tenía clasficaciones en línea.
 
 ## Agosto
 
-La cuenta de Twitter [@osustatus](https://twitter.com/osustatus) fue creada para informar a los jugadores de problemas con [Bancho](/wiki/Bancho_(server)) y la página web.[^osustatus]
+La cuenta de Twitter [@osustatus](https://twitter.com/osustatus) fue creada para informar a los jugadores de problemas con [Bancho](/wiki/Bancho_(server)) y el sitio web.[^osustatus]
 
-osu! recivió un nuevo parámetro, `LoopType`, para iterar sobre objetos del storyboard y el mod [Relax](/wiki/Gameplay/Game_modifier/Relax) para el modo de juego de Taiko, en una actualización el 12 de agosto. Adicionalmente, una versión pre-release de [AiMod](/wiki/Client/Beatmap_editor/AiMod), una herramienta para detectar problemas en beatmaps, fue publicada.[^stable-b825]
+osu! recibió un nuevo parámetro, `LoopType`, para poner en bucle los objetos del storyboard y el mod [Relax](/wiki/Gameplay/Game_modifier/Relax) para el modo de juego Taiko, en una actualización el 12 de agosto. Adicionalmente, se publicó una versión preliminar de [AiMod](/wiki/Client/Beatmap_editor/AiMod), una herramienta para detectar problemas en los beatmaps.[^stable-b825]
 
 ## Septiembre
 
-Las actualizaciones este mes integraron nuevas funciones, entre las cuales estaban el soporte para pantallas panorámicas en la selección de canciones,[^stable-b904a] soporte para amigos en la página web,[^custom-changelog] y la mascota de Taiko [pippidon](/wiki/Mascots#pippi), que ahora se mostraría en la esquina superior izquierda mientras se juega.[^stable-b898]
+Las actualizaciones este mes integraron nuevas funciones, entre las cuales estaban el soporte para pantallas anchas en el selector de canciones,[^stable-b904a] soporte para amigos en el sitio web,[^custom-changelog] y que la mascota de Taiko, [pippidon](/wiki/Mascots#pippi), ahora se mostraría en la esquina superior izquierda mientras se juega.[^stable-b898]
 
-El 6 de septiembre, todas las [puntuaciones de Taiko fueron borradas](https://osu.ppy.sh/community/forums/topics/17118?n=1) para permitir la utilización de un mejorado sistema de puntuación.
+El 6 de septiembre, todas las [puntuaciones de Taiko fueron borradas](https://osu.ppy.sh/community/forums/topics/17118?n=1) para permitir el uso de un algoritmo de puntuación mejorado.
 
 ## Octubre
 
-Se agregó una nueva pantalla de información de clasificación que sentó las bases para el sistema de gráficos de clasificación implementado en un momento posterior.[^stable-b1077][^custom-changelog]
+Se agregó una nueva pantalla de información sobre la clasificación que sentó las bases para el sistema de tablas de clasificación que se implementaría más adelante.[^stable-b1077][^custom-changelog]
 
 El beatmap número 10 000 fue subido, [Imogen Heap - Sweet Religion](https://osu.ppy.sh/beatmapsets/10000#osu/97517) por [Larto](https://osu.ppy.sh/users/12328).[^beatmap-10k]
 
-En adición a osu! news en julio de 2009, el [registro de cambios](/wiki/Changelog) fue habilitado como feed RSS el 25 de octubre también.[^rss-changelog]
+Además de las osu! news de julio de 2009, el 25 de octubre también se publicó el [registro de cambios](/wiki/Changelog) en formato RSS.[^rss-changelog]
 
 ## Noviembre
 
-Gracias a una actualización publicada el 18 de octubre, los usuarios podrían añadir comentarios a las [repeticiones](/wiki/Gameplay/Replay).[^custom-changelog] Además, se hizo posible subir automáticamente una captura de pantalla a los servidores de osu! presionando `Shift` + `F12`.[^stable-b1118]
+Gracias a una actualización publicada el 18 de octubre, los usuarios podrían agregar comentarios a las [repeticiones](/wiki/Gameplay/Replay).[^custom-changelog] Además, se hizo posible subir automáticamente una captura de pantalla a los servidores de osu! presionando `Shift` + `F12`.[^stable-b1118]
 
-Se alcanzaron dos hitos este mes. 50 000 000 puntuaciones clasificadas en total fueron realizadas el 15 de noviembre y, el 20 de noviembre, osu! alcanzó los 200 000 usuarios registrados.[^play-count][^user-count-2]
+Se alcanzaron dos hitos este mes. El 15 de noviembre se alcanzaron 50 000 000 de puntuaciones clasificadas en total y, el 20 de noviembre, osu! tenía 200 000 usuarios registrados.[^play-count][^user-count-2]
 
 ## Diciembre
 
-Este mes, el [Mapping Assistance Team](/wiki/People/Mapping_Assistance_Team) (MAT) fue creado. El MAT fue responsable para seleccionar [beatmaps pendientes](/wiki/Beatmap/Category#wip-and-pending) de calidad aceptable y recomendarlos para ser clasificados en el sistema de [modding del foro](/wiki/Modding/Forum_modding) por el [BAT](/wiki/People/Beatmap_Appreciation_Team).[^mat]
+Este mes, el [Mapping Assistance Team](/wiki/People/Mapping_Assistance_Team) (MAT) fue creado. El MAT fue responsable de seleccionar [beatmaps pendientes](/wiki/Beatmap/Category#wip-and-pending) de calidad aceptable y recomendarlos para ser clasificados en el sistema de [modding del foro](/wiki/Modding/Forum_modding) por el [BAT](/wiki/People/Beatmap_Appreciation_Team).[^mat]
 
-Una actualización a osu! introdujo los [hyperdashes](/wiki/Gameplay/Hyperdash) para saltos imposibles en Catch the Beat, donde los jugadores ganarian velocidad adicional por un pequeño periodo de tiempo tras recolectar una [hyperfruit](/wiki/Gameplay/Hit_object/Hyperfruit). Adicionalmente, una vista previa para el listado de usuarios en linea fuea implementada en la [consola extendida de chat](/wiki/Client/Interface/Chat_console#consola-de-chat-ampliada).[^stable-b1209]
+Una actualización a osu! introdujo los [hyperdashes](/wiki/Gameplay/Hyperdash) para jumps imposibles en Catch the Beat, donde los jugadores ganarían velocidad adicional por un pequeño período de tiempo tras recolectar una [hiperfruta](/wiki/Gameplay/Hit_object/Hyperfruit). Adicionalmente, se implementó una vista previa de un listado de usuarios en línea en la [consola de chat extendida](/wiki/Client/Interface/Chat_console#consola-de-chat-ampliada).[^stable-b1209]
 
-El foro de [Community Voice](https://osu.ppy.sh/community/forums/65) fue añadido con el objetivo de preguntar a la comunidad sobre varios temas donde los usuarios serían capaces de votar en encuestas semanales.[^weekly-polls]
+El foro [Community Voice](https://osu.ppy.sh/community/forums/65) se agregó con el objetivo de hacerle a la comunidad varias preguntas donde los usuarios pudieran votar en encuestas semanales.[^weekly-polls]
 
-## References
+## Referencias
 
 [^iphone]: [Publicación del foro por peppy (21/1/2009) «osu! iPhone port public beta»](https://osu.ppy.sh/community/forums/topics/9193?n=1)
 [^faq-localisation]: [Publicación del foro por peppy (11/1/2009) «Translating the FAQ»](https://osu.ppy.sh/community/forums/topics/8905?n=1)
