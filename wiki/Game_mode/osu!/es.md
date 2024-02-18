@@ -8,7 +8,7 @@ El primer modo de juego, con jugabilidad [basada en la serie Ouendan](#inspiraci
 
 ## ![](/wiki/shared/mode/osu.png) Jugabilidad
 
-*Tutorial: [new beginnings (Incluido con osu!)](https://osu.ppy.sh/beatmapsets/1011011).*
+*Tutorial: [new beginnings (incluido con osu!)](https://osu.ppy.sh/beatmapsets/1011011).*
 
 ### Selector de canciones
 
@@ -22,7 +22,7 @@ Alternativamente, haz clic en el botón `Mode` y selecciona `osu!`.
 
 ![Campo de juego de osu!](/wiki/shared/osu-gameplay.jpg "Campo de juego de osu!")
 
-La barra superior izquierda es la barra de salud, que disminuirá a un ritmo constante (dependiendo de la configuración de dificultad del beatmap), pero puede rellenarse tocando notas en el momento adecuado o girando un spinner. Un golpe perfectamente sincronizado (un 300 o Geki) recuperará la salud más que un golpe mal sincronizado (50). Un fallo total sacará un buen pedazo de salud de la barra de salud.
+La barra de la esquina superior izquierda es la barra de salud, que disminuirá a un ritmo constante (dependiendo de la configuración de dificultad del beatmap), pero puede rellenarse tocando notas en el momento adecuado o girando un spinner. Un golpe perfectamente sincronizado (un 300 o Geki) recuperará la salud más que un golpe mal sincronizado (50). Un fallo total sacará un buen pedazo de salud de la barra de salud.
 
 A la derecha de la barra de salud está la puntuación total. Debajo de eso está la precisión. El círculo junto a la precisión (y debajo de la puntuación) es un temporizador para la duración del beatmap.
 
@@ -42,7 +42,7 @@ Después de golpear un círculo, aparece un número que indica el juicio recibid
 
 Primero, pulsa el círculo al comienzo del slider, llamado [slider head](/wiki/Gameplay/Hit_object/Slider/Sliderhead), en el momento adecuado. Cuando se pulsa, una bola comenzará a moverse por el camino. El círculo exterior naranja, llamado círculo de seguimiento, aparecerá cuando se sostiene la bola del slider, pero desaparecerá cuando el cursor esté fuera del círculo o se suelte el botón. Mantén presionado el botón del ratón/teclado (o mantén el lápiz en la tableta) y sigue la bola dentro del círculo de seguimiento a medida que se mueve.
 
-Aveces, como se muestra en la captura de pantalla anterior, la bola puede invertir su dirección y el jugador debe seguir la bola de regreso al inicio de la ruta o viceversa. La señal visual es una flecha inversa en el círculo final/inicial de la ruta.
+A veces, como se muestra en la captura de pantalla anterior, la bola puede invertir su dirección y el jugador debe seguir la bola de regreso al inicio de la ruta o viceversa. La señal visual es una flecha inversa en el círculo final/inicial de la ruta.
 
 #### Spinners
 
@@ -80,7 +80,7 @@ La [puntuación en osu!](/wiki/Gameplay/Score/ScoreV1/osu!) es una suma ponderad
 - La [precisión](/wiki/Gameplay/Accuracy#osu!) depende del juicio y muestra cuán precisos son los golpes. Las pulsaciones tardías o tempranas de teclas, así como los errores, disminuyen la precisión general.
 - El [combo](/wiki/Gameplay/Combo_(score_multiplier)) es un multiplicador de puntuación: completar un objeto contribuye más a la puntuación total cuando el combo es alto y viceversa. El combo puede [romperse](/wiki/Gameplay/Judgement/Combobreak) por un fallo o un [slider break](/wiki/Gameplay/Judgement/Slider_break).
 
-Cuando se mantiene el combo, la puntuación total crece exponencialmente. Los objetos más cercanos al final del mapa valen órdenes de magnitud más puntos que los del principio, lo que significa que un jugador perderá mucha más puntuación potencial en ellos en caso de golpes inoportunos. Como resultado, es posible y muy común que una puntuación con menor precisión tenga una mayor cantidad de puntos y supere a una puntuación con mayor precisión.
+Cuando se mantiene el combo, la puntuación total crece exponencialmente. Los objetos más cercanos al final del mapa valen órdenes de magnitud más de puntos que los del principio, lo que significa que un jugador perderá mucha más puntuación potencial en ellos en caso de golpes inoportunos. Como resultado, es posible y muy común que una puntuación con menor precisión tenga una mayor cantidad de puntos y supere a una puntuación con mayor precisión.
 
 Después de completar un beatmap, a la puntuación se le asigna una [grado](/wiki/Gameplay/Grade#osu!), una breve evaluación de la precisión en forma de una sola letra. Una SS dorada o plateada denota 100 % de precisión, y todo lo demás, de S a D, depende de la cantidad de 300, 50 y fallos.
 
