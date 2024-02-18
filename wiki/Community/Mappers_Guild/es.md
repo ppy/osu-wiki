@@ -39,9 +39,11 @@ Las misiones prioritarias están etiquetadas por dificultad. El nivel 1 es el m�
 
 ### Recompensas
 
-![Insignias de perfil del Mappers' Guild](img/mg-badges.png "Los cuatro niveles de la insignia de perfil del Mappers' Guild")
+![Insignias de perfil del Mappers' Guild](img/mg-badges.png?2024-02 "Los cinco niveles de la insignia de perfil del Mappers' Guild")
 
-Las recompensas se distribuyen a través de un sistema de puntos. Cuando un usuario alcanza un umbral de puntos específico[^points], obtiene una clasificación diferente indicada por una insignia de perfil. Hay cuatro niveles de insignia de perfil de 100, 250, 500 y 1000 puntos respectivamente. Si un usuario alcanza los 2500 puntos, se puede agregar un quinto nivel.
+Las recompensas se distribuyen a través de un sistema de puntos. Cuando un usuario alcanza un umbral de puntos específico[^points], obtiene una clasificación diferente indicada por una insignia de perfil.
+
+Cuando se creó el Mappers' Guild, había tres niveles de insignia de perfil de 100, 250 y 500 puntos respectivamente. Después de que [Annabel](https://osu.ppy.sh/users/3388410) se convirtiera en el primer usuario en alcanzar los 1000 puntos, se creó un cuarto nivel, y después de que [Hinsvar](https://osu.ppy.sh/users/1249323) se convirtió en el primer usuario en alcanzar 2500 puntos, se creó un quinto nivel. Si un usuario alcanza los 5000 puntos, se puede agregar un sexto nivel.
 
 Se obtienen puntos por diferentes tareas del Mappers' Guild. Las ganancias varían según las tareas, aunque generalmente se ponderan según la cantidad de tiempo requerido. Por ejemplo, mapear una dificultad Hard lleva más tiempo que mapear una dificultad Easy, por lo que la primera recompensa con más puntos que la segunda.
 
