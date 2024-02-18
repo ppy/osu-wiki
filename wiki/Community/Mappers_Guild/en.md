@@ -38,7 +38,7 @@ Priority quests are labelled by difficulty. Tier 1 is the easiest and most commo
 
 ### Rewards
 
-![Mappers' Guild profile badges](img/mg-badges.png "The five tiers of the Mappers' Guild profile badge")
+![Mappers' Guild profile badges](img/mg-badges.png?2024-02 "The five tiers of the Mappers' Guild profile badge")
 
 Rewards are distributed through a point system. When a user reaches a specified point[^points] threshold, they earn a different rank signified by a profile badge.
 
