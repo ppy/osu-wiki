@@ -278,7 +278,7 @@ Esto funciona de manera similar a ScoreV2 en stable.
 
 ### Las marcas de las notas largas se eliminan
 
-En stable, las notas largas dan un combo cada 100 ms, mientras que en lazer «las marcas de las notas largas» daban un combo cada intervalo de una marca.
+En stable, las notas largas dan un combo cada 100 ms, mientras que en lazer «las marcas de las notas largas» daban un combo cada intervalo de una marca.
 
 Nada de eso existe en lazer, lo que significa que las notas largas solo dan combo en el inicio y el final. Sin embargo, al igual que en stable, los combos se rompen inmediatamente al soltar los sliders.
 
