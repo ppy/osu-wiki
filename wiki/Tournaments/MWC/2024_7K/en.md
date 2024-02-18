@@ -137,7 +137,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
   6. [sasakure.UK vs. TJ.hangneil - raputa (Leeju) \[Leeju's 7K Mewing Haruka (MWC edit.)\]](https://osu.ppy.sh/beatmapsets/2137695#mania/4498810)
   7. [celtix - Baryogenesis (\_Kobii) \[Symmetry Break (MWC edit)\]](https://osu.ppy.sh/beatmapsets/2137694#mania/4498803)
 - Long Note
-  1. [Tatsh - Reunion (Hehoooh) \[HehoLNs <Azimuth>\]](https://osu.ppy.sh/beatmapsets/1785469#mania/3657073)
+  1. [Tatsh - Reunion (Hehoooh) \[HehoLNs \<Azimuth\>\]](https://osu.ppy.sh/beatmapsets/1785469#mania/3657073)
   2. [P4koo - Forbidden Light (zenonia5) \[403 Forbidden\] *(temporary link)*](https://leoflt.com/s/syWn)
   3. [xi - Garyou Tensei (Makiba) \[\[L\]ife to \[N\]otes (MWC edit.)\]](https://osu.ppy.sh/beatmapsets/2137702#mania/4498825)
   4. [yaseta - Wommotion (Game Edit) (zenonia5) \[Wow\] *(temporary link)*](https://leoflt.com/s/nDDV)
