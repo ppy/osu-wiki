@@ -507,7 +507,7 @@ Domingo, 9 de junio de 2019:
 
 ### Restricciones de clasificación
 
-1. Necesitas estar entre la clasificación #3500 - #10 000 durante el período de registro. Esto significa que debes mantenerte dentro de este margenn hasta que **el período de registro se acabe.**
+1. Necesitas estar entre la clasificación #3500 - #10 000 durante el período de registro. Esto significa que debes mantenerte dentro de este margen hasta que **el período de registro se acabe.**
 2. No puedes subir de clasificación más allá de **#2500 durante el torneo.** Si superas este límite serás **descalificado.**
 3. Debes registrarte con la bandera del país de tu perfil.
 4. Debes unirte al servidor de Discord del torneo.
