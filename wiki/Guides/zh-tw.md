@@ -1,3 +1,8 @@
+---
+no_native_review: true
+no_native_review_since: 84e7e8be479d7188143e72f8db15ce19981e4a10 LmanTW
+---
+
 # 指南
 
 以下是一個由 osu! 社群中的成員所製作的簡短指南清單，大部分的文章最初都來自 osu! 論壇，後來才被收入進 osu! wiki。
