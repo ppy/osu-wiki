@@ -1,3 +1,8 @@
+---
+no_native_review: true
+no_native_review_since: 6edcfd8a2bd64b200e82689d1802704b10bf485c LmanTW
+---
+
 # Discord 伺服器
 
 包含所有 Discord 社群伺服器的文章清單。
