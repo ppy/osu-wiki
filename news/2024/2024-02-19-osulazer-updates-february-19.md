@@ -11,7 +11,7 @@ There is something else besides love in the air... it's another osu!(lazer) upda
 It might not strictly be Valentine's Day anymore, but we're sure that you will *love* these changes (hopefully)!
 
 <div align="center">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/X9fjikgBIPI" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ### Smaller changes
@@ -40,7 +40,7 @@ Changes to your pp and ranking stats are now visible in real-time on the toolbar
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="https://wala.s-ul.eu/rQoSPV4G.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/ranked-mods-display.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -50,7 +50,7 @@ With the release of ranked play for lazer, many players could not distinguish wh
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="https://wala.s-ul.eu/qvtUNoNN.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/catch-visual-changes.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
