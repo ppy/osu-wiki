@@ -42,11 +42,7 @@ With the release of ranked play for lazer, many players could not distinguish wh
 
 ### Online statistics changes are now visible in the toolbar
 
-<div align="center" class="osu-md__paragraph">
-    <video width="95%" controls>
-        <source src="" type="video/mp4" preload="none">
-    </video>
-</div>
+![](/wiki/shared/news/2024-02-19-osu-lazer-updates-february-19/pp-in-toolbar.gif)
 
 Changes to your pp and ranking stats are now visible in real-time on the toolbar. This was previously only visible in the detailed results screen, which is displayed when you click on your score in the results screen.
 
