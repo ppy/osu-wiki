@@ -118,6 +118,18 @@ unplayed= status=r christmas
 ranked>=2010-08 ranked<2010-11 creator=Natteke
 ```
 
+(Lazer) Find beatmap difficulties that have been played within 2 months and 5 hours ago:
+
+```
+played<2M5h
+```
+
+(Lazer) Find beatmap difficulties that have not been played within the past year:
+
+```
+lastplayed>1y
+```
+
 ## References
 
 [^website-filters]: [osu!web source code](https://github.com/ppy/osu-web/blob/c1a5dc390634accc87c12cb2cead73c45d8e7ad5/app/Libraries/Search/BeatmapsetQueryParser.php)
