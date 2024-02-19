@@ -71,7 +71,6 @@ Beatmap metadata fields can be compared against specific values for more granula
 | `created` | Beatmap creation date |
 | `updated` | Beatmap last update date |
 | `ranked` | Beatmap ranking/approval date |
-| `divisor` | The denominator of the [beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
 
 ## Client (lazer)[^lazer-filters]
 
