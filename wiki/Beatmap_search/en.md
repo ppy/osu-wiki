@@ -55,7 +55,7 @@ Beatmap metadata fields can be compared against specific values for more granula
 | :-: | :-- |
 | `artist` | Name of the artist |
 | `title` | Name of the song |
-| `source` | The source where the song originated or which it is best associated with |
+| `source` | The medium, such as a video game, movie, series, or event. where the song originated from or which it is best associated with |
 | `featured_artist` | Identifier of a [Featured Artist](/wiki/People/Featured_Artists) entry |
 | `creator` | Name of the difficulty creator |
 | `difficulty` | Name of the beatmap difficulty |
