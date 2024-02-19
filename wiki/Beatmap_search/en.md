@@ -17,7 +17,7 @@ Beatmap metadata fields can be compared against specific values for more granula
 
 | Comparison | Description |
 | :-: | :-- |
-| `:` (not in stable), `==` (stable only), or `=` | Equal to |
+| `=` (everywhere), `==` (stable), `:` (lazer and web) | Equal to |
 | `!=` | Not equal to |
 | `<` | Less than |
 | `>` | Greater than |
