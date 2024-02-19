@@ -230,8 +230,8 @@ Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registri
 
 | Benutzer | Beiträge |
 | :-- | :-- |
-| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Außergewöhnliches und unermüdliches Engagement im Community-Management für über ein Jahrzent |
-| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Herausragendes Engagement zur Moderationsszene und den [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
+| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Außergewöhnliches und unermüdliches Engagement im Community-Management für über ein Jahrzehnt |
+| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Herausragendes Engagement in der Moderationsszene und den [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
 | ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | Herausragende Beiträge zu Moderationsangelegenheiten und dem osu!-Wiki (wikifriend) |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Herausragende und wegweisende Beiträge zum osu!taiko-Spielmodus |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Herausragende Führung zu Angelegenheiten im Beatmap-Management |
@@ -245,7 +245,7 @@ Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registri
 | ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | Herausragende Beiträge zum Grafikdesign in unzähligen Community-Projekten |
 | ::{ flag=US }:: [vrnl](https://osu.ppy.sh/users/4799788) | Herausragende Beiträge zur Qualitätssicherung von Beatmaps |
 | ::{ flag=DE }:: [Meyer](https://osu.ppy.sh/users/5452367) | Herausragende Beiträge zu osu! IRL-Events |
-| ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Herausragende Beiträge zur [Mappers' Guild](/wiki/Community/Mappers_Guild) und zu Präsentationsvideos von Featured Artists |
+| ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Herausragende Beiträge zur [Mappers' Guild](/wiki/Community/Mappers_Guild) und zu Vorstellungsvideos von Featured Artists |
 | ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | Herausragende Beiträge zur [Mappers' Guild](/wiki/Community/Mappers_Guild) und zu Präsentationsvideos von Featured Artists |
 | ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) | Herausragende Beiträge zur [Mappers' Guild](/wiki/Community/Mappers_Guild) und zu Präsentationsvideos von Featured Artists |
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Herausragende Beiträge zur [Mappers' Guild](/wiki/Community/Mappers_Guild) und zu Präsentationsvideos von Featured Artists |
