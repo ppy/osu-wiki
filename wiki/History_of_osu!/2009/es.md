@@ -14,7 +14,7 @@ osu! llega al iPhone en forma de port desarrollado por [nuudles](https://osu.ppy
 
 ![](img/2009-01_05.jpg "Selector de canciones")
 
-![](img/2009-01_06.jpg "Selección de dificultad de canción")
+![](img/2009-01_06.jpg "Selección de dificultad de una canción")
 
 ![](img/2009-01_07.jpg "Tablas de clasificación de las canciones")
 
@@ -80,7 +80,7 @@ Después de una prueba inicial en marzo para las clasificaciones en línea para 
 
 La cuenta de Twitter [@osustatus](https://twitter.com/osustatus) fue creada para informar a los jugadores de problemas con [Bancho](/wiki/Bancho_(server)) y el sitio web.[^osustatus]
 
-osu! recibió un nuevo parámetro, `LoopType`, para poner en bucle los objetos del storyboard y el mod [Relax](/wiki/Gameplay/Game_modifier/Relax) para el modo de juego Taiko, en una actualización el 12 de agosto. Adicionalmente, se publicó una versión preliminar de [AiMod](/wiki/Client/Beatmap_editor/AiMod), una herramienta para detectar problemas en los beatmaps.[^stable-b825]
+El 12 de agosto, osu! recibió un nuevo parámetro, llamado `LoopType`, para poner en bucle los objetos del storyboard, y también se agregó el mod [Relax](/wiki/Gameplay/Game_modifier/Relax) para el modo de juego Taiko. Adicionalmente, se publicó una versión preliminar de [AiMod](/wiki/Client/Beatmap_editor/AiMod), una herramienta para detectar problemas en los beatmaps.[^stable-b825]
 
 ## Septiembre
 
