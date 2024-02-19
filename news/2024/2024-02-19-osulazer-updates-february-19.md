@@ -40,7 +40,7 @@ Changes to your pp and ranking stats are now visible in real-time on the toolbar
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="" type="video/mp4" preload="none">
+        <source src="https://wala.s-ul.eu/rQoSPV4G.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -50,7 +50,7 @@ With the release of ranked play for lazer, many players could not distinguish wh
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="" type="video/mp4" preload="none">
+        <source src="https://wala.s-ul.eu/qvtUNoNN.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
