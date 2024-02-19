@@ -30,6 +30,12 @@ It might not strictly be Valentine's Day anymore, but we're sure that you will *
 
 The community has asked for more mods and mod settings to be eligible for pp, and while variable DT rates are still not eligible, you can still have fun competing with even more mods.
 
+### Online statistics changes are now visible in the toolbar
+
+![](/wiki/shared/news/2024-02-19-osu-lazer-updates-february-19/pp-in-toolbar.gif)
+
+Changes to your pp and ranking stats are now visible in real-time on the toolbar. This was previously only visible in the detailed results screen, which is displayed when you click on your score on the results screen.
+
 ### In-game display for which mods grant performance points
 
 <div align="center" class="osu-md__paragraph">
@@ -39,12 +45,6 @@ The community has asked for more mods and mod settings to be eligible for pp, an
 </div>
 
 With the release of ranked play for lazer, many players could not distinguish what mod combinations gave pp, and which didn't. With this change in both song select and mod select screens, whether the selected mods will give pp is now clearly displayed.
-
-### Online statistics changes are now visible in the toolbar
-
-![](/wiki/shared/news/2024-02-19-osu-lazer-updates-february-19/pp-in-toolbar.gif)
-
-Changes to your pp and ranking stats are now visible in real-time on the toolbar. This was previously only visible in the detailed results screen, which is displayed when you click on your score on the results screen.
 
 ### Visual fixes in osu!catch
 
