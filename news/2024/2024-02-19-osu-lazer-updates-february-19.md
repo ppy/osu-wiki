@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!lazer Updates: February 19th, 2024"
+title: "osu!lazer Updates: February 19, 2024"
 date: 2024-02-19 19:00:00 +0000
 ---
 
@@ -26,7 +26,7 @@ This update unfortunately came a bit too late for Valentine's Day, but we are su
 
 ### More mods and mod settings grant PP
 
-![]()
+![](/wiki/shared/news/2024-02-19-osu-lazer-updates-february-19/new-ranked-mod-combinations-2024-02.png)
 
 The community has asked for more mods and mod settings to be eligible for PP, and while variable DT rates are still not eligible, the additions are interesting.
 
