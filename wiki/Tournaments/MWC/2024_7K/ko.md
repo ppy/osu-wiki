@@ -125,7 +125,7 @@ osu!mania 7키 월드컵 2024는 osu! 팀과 여러명의 커뮤니티 멤버들
 
 ### 그랜드 파이널
 
-**[맵팩은 여기서 다운로드가 가능합니다 (99 MB, temporary link)](https://leoflt.com/s/CWBd)**\
+**[맵팩은 여기서 다운로드가 가능합니다 (95 MB)](https://packs.ppy.sh/P238%20-%20osu!mania%207K%20World%20Cup%202024%3A%20Grand%20Finals.zip)**\
 [쇼케이스 VOD는 여기서 볼 수 있습니다](https://www.twitch.tv/videos/2066553662)
 
 - Rice
@@ -138,9 +138,9 @@ osu!mania 7키 월드컵 2024는 osu! 팀과 여러명의 커뮤니티 멤버들
   7. [celtix - Baryogenesis (\_Kobii) \[Symmetry Break (MWC edit)\]](https://osu.ppy.sh/beatmapsets/2137694#mania/4498803)
 - Long Note
   1. [Tatsh - Reunion (Hehoooh) \[HehoLNs \<Azimuth\>\]](https://osu.ppy.sh/beatmapsets/1785469#mania/3657073)
-  2. [P4koo - Forbidden Light (zenonia5) \[403 Forbidden\] *(temporary link)*](https://leoflt.com/s/syWn)
+  2. [P4koo - Forbidden Light (zenonia5) \[403 Forbidden\]](https://osu.ppy.sh/beatmapsets/2137963#mania/4499451)
   3. [xi - Garyou Tensei (Makiba) \[\[L\]ife to \[N\]otes (MWC edit.)\]](https://osu.ppy.sh/beatmapsets/2137702#mania/4498825)
-  4. [yaseta - Wommotion (Game Edit) (zenonia5) \[Wow\] *(temporary link)*](https://leoflt.com/s/nDDV)
+  4. [yaseta - Wommotion (Game Edit) (zenonia5) \[Wow\]](https://osu.ppy.sh/beatmapsets/2137953#mania/4499439)
   5. [wotoha - O108ROCKET feat. Neko Hacker (MapleSyrup-) \[Terni in Space\]](https://osu.ppy.sh/beatmapsets/2137706#mania/4498837)
 - Hybrid
   1. [Juggernaut. vs Gram - Seraphim (paulkappa) \[Divine Authority (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/2137710#mania/4498842)

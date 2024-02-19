@@ -125,7 +125,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
 
 ### Grand Finals
 
-**[Download the mappack here (99 MB)](https://leoflt.com/s/CWBd)**\
+**[Download the mappack here (95 MB)](https://packs.ppy.sh/P238%20-%20osu!mania%207K%20World%20Cup%202024%3A%20Grand%20Finals.zip)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2066553662)
 
 - Rice
@@ -138,9 +138,9 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
   7. [celtix - Baryogenesis (\_Kobii) \[Symmetry Break (MWC edit)\]](https://osu.ppy.sh/beatmapsets/2137694#mania/4498803)
 - Long Note
   1. [Tatsh - Reunion (Hehoooh) \[HehoLNs \<Azimuth\>\]](https://osu.ppy.sh/beatmapsets/1785469#mania/3657073)
-  2. [P4koo - Forbidden Light (zenonia5) \[403 Forbidden\] *(temporary link)*](https://leoflt.com/s/syWn)
+  2. [P4koo - Forbidden Light (zenonia5) \[403 Forbidden\]](https://osu.ppy.sh/beatmapsets/2137963#mania/4499451)
   3. [xi - Garyou Tensei (Makiba) \[\[L\]ife to \[N\]otes (MWC edit.)\]](https://osu.ppy.sh/beatmapsets/2137702#mania/4498825)
-  4. [yaseta - Wommotion (Game Edit) (zenonia5) \[Wow\] *(temporary link)*](https://leoflt.com/s/nDDV)
+  4. [yaseta - Wommotion (Game Edit) (zenonia5) \[Wow\]](https://osu.ppy.sh/beatmapsets/2137953#mania/4499439)
   5. [wotoha - O108ROCKET feat. Neko Hacker (MapleSyrup-) \[Terni in Space\]](https://osu.ppy.sh/beatmapsets/2137706#mania/4498837)
 - Hybrid
   1. [Juggernaut. vs Gram - Seraphim (paulkappa) \[Divine Authority (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/2137710#mania/4498842)
