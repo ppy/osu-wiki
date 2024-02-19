@@ -1,6 +1,9 @@
-# Actualizar a lazer
+---
+outdated_translation: true
+outdated_since: 2b3e721dd5f2e2bda0bc389129010d07a929e176
+---
 
-*Aviso: Aún estamos ajustando el balance y mecánicas de juego. Por ahora, **las puntuaciones establecidas en lazer no deberían ser consideradas como permanentes**.*
+# Actualizar a lazer
 
 osu!(lazer) es la próxima gran actualización del juego. Es la culminación de varios años de trabajo detrás de escena para relanzar laboriosamente el juego.
 
@@ -141,7 +144,7 @@ No.
 
 #### Si instalo lazer, ¿seré capaz de volver a stable?
 
-Sí, lazer siempre se instala junto a stable. A menos que elijas eliminar uno u otro, ambos serán accesibles. 
+Sí, lazer siempre se instala junto a stable. A menos que elijas eliminar uno u otro, ambos serán accesibles.
 
 #### ¿Puedo importar datos desde lazer a stable?
 
@@ -159,7 +162,7 @@ Además, por ahora ninguna puntuación aparecerá en la sección «primeros luga
 
 #### Si establezco una puntuación en lazer, ¿dará puntos de rendimiento?
 
-Sí, con la posibilidad de que se puedan eliminar las puntuaciones en el futuro.
+Sí.
 
 #### ¿Lazer usa ScoreV2?
 
@@ -202,6 +205,8 @@ Sin embargo, por ahora solo los siguientes mods concederán puntos de rendimient
   - Nightcore (solo 1,5x)
   - Double Time (solo 1,5x)
   - Flashlight
+  - Blinds
+  - Accuracy Challenge
 - Conversión (solo osu!mania)
   - Mirror
   - Four Keys
@@ -212,6 +217,7 @@ Sin embargo, por ahora solo los siguientes mods concederán puntos de rendimient
   - Nine Keys
 - De diversión
   - Muted
+  - No Scope
 - Automatización (solo osu!)
   - Spun out
 - Sistema
@@ -275,7 +281,7 @@ Mientras que osu! puede parecer un juego simple, hay centenares de característi
 
 Otra área que ha requerido un gran esfuerzo es la conservación histórica; asegurándonos de que los beatmaps se comporten exactamente igual a cómo deberían, incluyendo casos extremos que no fueron planeados originalmente. osu! es un ecosistema vibrante y los usuarios se han tomado la libertad de extender el juego más allá de su alcance planeado y estamos dando lo mejor para abarcar y soportar esto a medida que avanzamos.
 
-Finalmente, a diferencia de la última iteración, estamos dedicando tiempo y diligencia para asegurar que el código base nos servirá bien en el futuro. Hemos hecho el trabajo de preparación para facilitar la conexión de nuevas características a velocidad vertiginosa mientras se avanza. ¡Esto incluirá nuevos componentes de IU, nuevas maneras de personalizar la apariencia del juego, nuevos sistemas multijugador y no olvidemos la capacidad de cargar y jugar todos tus beatmaps existentes en modos de juego completamente nuevos (también conocidos como rulesets)! 
+Finalmente, a diferencia de la última iteración, estamos dedicando tiempo y diligencia para asegurar que el código base nos servirá bien en el futuro. Hemos hecho el trabajo de preparación para facilitar la conexión de nuevas características a velocidad vertiginosa mientras se avanza. ¡Esto incluirá nuevos componentes de IU, nuevas maneras de personalizar la apariencia del juego, nuevos sistemas multijugador y no olvidemos la capacidad de cargar y jugar todos tus beatmaps existentes en modos de juego completamente nuevos (también conocidos como rulesets)!
 
 #### ¿Qué sigue?
 
@@ -324,7 +330,7 @@ Probablemente estés pensando en otro juego.
 [^offset-calibration-lazer]: Al reintentar un beatmap, puedes calibrar la compensación basándote en tu última jugada.
 [^can-disable]: Se puede desactivar.
 [^note-lock]: Todavía existe, pero no interferirá.
-[^score-reset]: Las puntuaciones pueden restablecerse. 
+[^score-reset]: Las puntuaciones pueden restablecerse.
 [^online-content]: Acceso nativo a la mayor parte del contenido en línea.
 [^direct-supporter]: Mediante osu!direct, solo osu!supporter.
 [^supporter]: Solo osu!supporter.
