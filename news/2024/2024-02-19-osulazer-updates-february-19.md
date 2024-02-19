@@ -6,7 +6,7 @@ date: 2024-02-19 16:30:00 +0000
 
 There is something else besides love in the air... it's another osu!(lazer) update!
 
-![](/wiki/shared/news/2024-02-19-osulazer-updates-february-19/banner.jpg)
+![](/wiki/shared/news/2024-02-19-osulazer-updates-february-19/banner.jpg?1)
 
 It might not strictly be Valentine's Day anymore, but we're sure that you will *love* these changes (hopefully)!
 
