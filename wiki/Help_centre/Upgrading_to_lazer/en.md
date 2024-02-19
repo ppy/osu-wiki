@@ -1,7 +1,5 @@
 # Upgrading to lazer
 
-*Notice: We are still figuring out game balance and mechanics. For now, **scores set on lazer should not be considered permanent**.*
-
 osu!(lazer) is the next major update to the game. It is the culmination of several years of work behind the scenes to painstakingly reimplement the game.
 
 The eventual goal is that this version will be released as an update which will completely supersede the existing stable version of the game, but there's still some work to be done before that is feasible. At the end of the day, **the players** will dictate when this happens and we will continue to support the previous release until users have migrated across.
@@ -159,7 +157,7 @@ It additionally not show in "first place ranks" regardless for now.
 
 #### If I set a score on lazer, will it give performance points?
 
-Yes, with the caveat that scores may be deleted in the future.
+Yes.
 
 #### Does lazer use ScoreV2?
 
@@ -175,7 +173,7 @@ Global score leaderboards will also use classic scoring.
 
 #### If I set a score on lazer, will it remain forever?
 
-While we will try to preserve as many scores as possible, we **offer no guarantee that scores will remain indefinitely**. At any point we may choose to wipe a subset or all scores in order to preserve game balance.
+While we will try to preserve as many scores as possible, we **offer no guarantee that scores will remain indefinitely**. At any point we may choose to wipe a subset of scores in order to preserve game balance, such as when exploits or foul play are discovered.
 
 #### Will scores set on stable show in lazer?
 
@@ -194,16 +192,18 @@ However, only the following mods will award performance points for now:
 - Difficulty reduction
   - Easy
   - No Fail
-  - Half Time (only 0.75x)
+  - Half Time (only 0.75x, configuring `Adjust pitch` is allowed)
   - Daycore (only 0.75x)
 - Difficulty Increase
   - Hard Rock (not for osu!mania)
-  - Sudden Death
-  - Perfect
+  - Sudden Death (Configuring `Restart on fail` is allowed)
+  - Perfect (Configuring `Restart on fail` is allowed)
   - Hidden
   - Nightcore (only 1.5x)
-  - Double Time (only 1.5x)
+  - Double Time (only 1.5x, configuring `Adjust pitch` is allowed)
   - Flashlight
+  - Blinds
+  - Accuracy Challenge
 - Conversion (osu!mania only)
   - Mirror
   - Four Keys
@@ -214,10 +214,13 @@ However, only the following mods will award performance points for now:
   - Nine Keys
 - Fun
   - Muted
+  - No Scope
 - Automation (osu! only)
   - Spun out
 - System
   - Touch Device
+
+Only the default configuration of customisation options is eligible for performance points, unless otherwise noted above.
 
 #### I don't like the new gameplay mechanics. Can I restore the old gameplay mechanics like on stable?
 
