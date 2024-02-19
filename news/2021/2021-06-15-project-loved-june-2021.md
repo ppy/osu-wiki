@@ -101,7 +101,7 @@ Konpaku Sariel's *1/6 Practice Pack 1* is a package of 20 beatmaps containing va
 250 BPM, 2:10 | 6.47★, 6.54★\
 *description written by [-Kazu-](https://osu.ppy.sh/users/920861)*
 
-All things considered, Teo is already such a good song so having katagiri remixing it in *Never to Fade Away*... mmm, delicious. 
+All things considered, Teo is already such a good song so having katagiri remixing it in *Never to Fade Away*... mmm, delicious.
 
 In Dark Sky makes sure the map's polish keeps pace with the song, all while remaining satisfying to play and easy to read - really quite the rare delicacy nowadays! Take a chance to experience such a flowy, streamy map and maybe with your help, it can stick around in Loved too. Enjoy!
 
@@ -173,7 +173,7 @@ Well-known for his crazy accomplishments on a few specific maps, Enjuxx is enter
 202 BPM, 2:25 | 5.37★\
 *description written by [Tenshichan](https://osu.ppy.sh/users/1101600)*
 
-I think there is hardly anyone actively playing this game that has never heard of Spectator before - a true master in mapping with all the experience you could ever ask for. 
+I think there is hardly anyone actively playing this game that has never heard of Spectator before - a true master in mapping with all the experience you could ever ask for.
 
 *Oni Kanojo* however, is a map that is quite hard to pinpoint. It does certainly feel like an older map (which makes sense as it was submitted in 2016) but at the same time it is missing features which other old maps have. On one hand, most of the map is pretty straight-forward and you don't have to suffer through a variety of brutal edge dashes. On the other hand, it has a lot of patterns that you almost never see nowadays.
 
@@ -207,7 +207,7 @@ osu!mania Loved candidates were chosen by [-mint-](https://osu.ppy.sh/users/8976
 
 Being a decade old at this point, *We Luv Lama* has given players of all ranges a run for their money in terms of a pure test of stamina and physical abilities over the years. The 29 here is an absolute splittrill hell-fest that has truly stood the test of time as being a benchmark to look at for just how skillful a player is.
 
-One big thing worth mentioning is that the last 45 seconds or so of this chart has taken so many runs over the years and absolutely crushed them into dust. The final 10 seconds specifically introduces heavy hand patterns, which on rates especially can deliver the final blow to your stamina and accuracy after enduring everything that it proceeds. 
+One big thing worth mentioning is that the last 45 seconds or so of this chart has taken so many runs over the years and absolutely crushed them into dust. The final 10 seconds specifically introduces heavy hand patterns, which on rates especially can deliver the final blow to your stamina and accuracy after enduring everything that it proceeds.
 
 Besides this though, IcyWorld has also provided here his take on a 16, which cuts back a lot of the heavy-handedness from the 29 and opts to incorporate a lot more jumps and single streams. It's more tame in comparison, but whether you play it with or without rates it still poses its own unique challenges along with maintaining being a strong assessment of a players stamina.
 
@@ -219,7 +219,7 @@ There isn't a lot more that I can say here, but just know that this chart is an 
 187 BPM, 2:19 | 4.58★, 4.96★, 5.33★, 5.71★, 6.08★\
 *description written by [-mint-](https://osu.ppy.sh/users/8976576)*
 
-A popular mapper in the Ranked section, Monheim appears with *Falling On Deaf Ears*, a bite-sized rock chart centered around jumpstreams and quick bursts. 
+A popular mapper in the Ranked section, Monheim appears with *Falling On Deaf Ears*, a bite-sized rock chart centered around jumpstreams and quick bursts.
 
 With the base difficulty having a drain time of a mere 2:18, and only about half of that time being of significant difficulty, the map provides a very speedy and enjoyable experience for players, making it a really nice scoring file. That's not all the map has however, sporting a variety of patterns including bursts, jacks, and hand-streams in a clearly formulaic and satisfying structure. There's more to this chart than meets the eye, so please check it out and give it a vote for this month's edition of Project Loved!
 
@@ -242,9 +242,9 @@ Onto this set itself though, Rinzler took a pretty safe and comfortable approach
 208 BPM, 1:58 | 4.94★, 5.47★, 5.99★\
 *description written by [Penguinosity](https://osu.ppy.sh/users/10235296)*
 
-IT'S JUST ONE OF THOSE WAVES, where the Loved team decides to get a bunch of absolute hood classics out for the players. 
+IT'S JUST ONE OF THOSE WAVES, where the Loved team decides to get a bunch of absolute hood classics out for the players.
 
-*Break* over here needs no introduction as we're sure everybody is more than familiar with it, and really the bottom line is that this chart, \*ahem\*, "gives absolutely no fucks" much like the song it's representing. There's a reason why the map is so infamous, as this is a constant onslaught of 130 BPM heavy chordjacks with a lot of quads mixed in. 
+*Break* over here needs no introduction as we're sure everybody is more than familiar with it, and really the bottom line is that this chart, \*ahem\*, "gives absolutely no fucks" much like the song it's representing. There's a reason why the map is so infamous, as this is a constant onslaught of 130 BPM heavy chordjacks with a lot of quads mixed in.
 
 Also, there are a number of funny gluts and graces to be found whether in or outside of these dense jack sections too which can be pretty tricky to manage. The cherry on top however, is the fact that the rates provided span from 0.8x speed, all the way to 1.3x. Some may argue the morality of uprating patterns like these up to 169 BPM, but I can at least say that I don't think beary was trying to kill people with this. They at least made sure that there were a few... *break* sections throughout the map. Alright, that's probably enough out of me, go ahead and vote please.
 
@@ -254,9 +254,9 @@ Also, there are a number of funny gluts and graces to be found whether in or out
 140 BPM, 3:20 | 6.91★\
 *description written by [Kawawa](https://osu.ppy.sh/users/4647754)*
 
-*floating point (Drumcorps Remix)* is a technical 7K chart made by \_underjoy, and Shoegazer has provided their popular 4K guest difficulty here as well which is equally as technical in its own way. Both difficulties here are loaded with brutal longjacks, which can be incredibly difficult to handle especially on higher rates. Luckily, there's some breathing room for players who tire out on the jacks alone. 
+*floating point (Drumcorps Remix)* is a technical 7K chart made by \_underjoy, and Shoegazer has provided their popular 4K guest difficulty here as well which is equally as technical in its own way. Both difficulties here are loaded with brutal longjacks, which can be incredibly difficult to handle especially on higher rates. Luckily, there's some breathing room for players who tire out on the jacks alone.
 
-Focusing on the charts individually,  \_underjoy's Approximation difficulty includes some tricky SV,  relatively awkward LN coordination, and the aforementioned longjacks which ultimately leads to a ridiculously hard chart to approach. Now onto Shoegazer's difficulty, which quite a few 4K players should be familiar with, the prime focus here is really on your ability to handle some truly unfriendly jack patterns. Longjack sections aside, there's a lot more going on here just with the anchoring alone that leads to patterns being deceptively hard. They also manage to work in some tricky flams and roll sections especially in the ladder half of the map.  
+Focusing on the charts individually,  \_underjoy's Approximation difficulty includes some tricky SV,  relatively awkward LN coordination, and the aforementioned longjacks which ultimately leads to a ridiculously hard chart to approach. Now onto Shoegazer's difficulty, which quite a few 4K players should be familiar with, the prime focus here is really on your ability to handle some truly unfriendly jack patterns. Longjack sections aside, there's a lot more going on here just with the anchoring alone that leads to patterns being deceptively hard. They also manage to work in some tricky flams and roll sections especially in the ladder half of the map.
 
 If you're up for the challenge, show your support to these two insane charts by giving them your vote.
 
@@ -275,7 +275,7 @@ Here is a quality chart for anyone who wants to challenge their skill! Nananana 
 The \[(Marathon)\], \[Penoreri - Lancelot - Flame of the Rebellion -\] and \[Camellia - Abyss of Frobenoid\] difficulties are *not* being nominated for Loved.\
 *description written by [Alter-](https://osu.ppy.sh/users/4980256)*
 
-Nakano Yuko is prominent osu!mania mapper bringing forth many expressive charts for 7K. Uploading majority of his maps under the alias -Melon, searching would reward you with a wide range of difficult technically challenging charts paired with various artists most popular songs being used such as songs from Camellia's "Blackmagik Blazing" Album, along with Memme, xi, Lapix and more! 
+Nakano Yuko is prominent osu!mania mapper bringing forth many expressive charts for 7K. Uploading majority of his maps under the alias -Melon, searching would reward you with a wide range of difficult technically challenging charts paired with various artists most popular songs being used such as songs from Camellia's "Blackmagik Blazing" Album, along with Memme, xi, Lapix and more!
 
 Alongside that in this 7K collection compiled of Nakano Yuko's most famous charts, you'll find very straightforward and fun BMS charting styles in the lower spectrum and eventually gaining more technicality in speed and stamina.
 

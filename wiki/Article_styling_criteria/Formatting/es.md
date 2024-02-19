@@ -109,10 +109,16 @@ tags:
 
 *Nota: Los mantenedores de la wiki determinarán y aplicarán esta etiqueta antes de la fusión.*
 
-A veces, las traducciones se agregan a la wiki sin la revisión de otros hablantes nativos del idioma. En este caso, se agrega la etiqueta `no_native_review` la cual indica a futuros traductores que es posible que deba verificarse nuevamente. Esta etiqueta debe escribirse como se muestra a continuación:
+A veces, las traducciones se agregan a la wiki sin la revisión de otros hablantes nativos del idioma. En este caso, se agrega la etiqueta `no_native_review` la cual indica a futuros traductores que es posible que deba verificarse nuevamente:
 
 ```yaml
 no_native_review: true
+```
+
+Alternativamente, la etiqueta `no_native_review_since` se puede usar para indicar el commit donde se introdujo la primera edición no revisada, así como quién editó la traducción desde entonces:
+
+```yaml
+no_native_review_since: 5539d9e8c943605a7be186dc3f5ab10569275b05 Doryan
 ```
 
 ## Denominar artículos
@@ -528,7 +534,7 @@ Hay dos tipos de enlaces: en línea y de referencia. En línea tiene dos estilos
 Lo siguiente es un ejemplo de ambos estilos en línea:
 
 ```markdown
-[Modificador de juego](/wiki/Gameplay/Game_modifier)
+[Modificador del juego](/wiki/Gameplay/Game_modifier)
 
 <https://osu.ppy.sh/home>
 ```
@@ -536,9 +542,9 @@ Lo siguiente es un ejemplo de ambos estilos en línea:
 Lo siguiente es un ejemplo del estilo de referencia:
 
 ```markdown
-[Modificador de juego][enlace a modificadores de juego]
+[Modificador del juego][game mods link]
 
-[enlace a modificadores de juego]: /wiki/Game_modifier
+[game mods link]: /wiki/Game_modifier
 ```
 
 ---
@@ -774,7 +780,7 @@ Los íconos de la bandera usan el código de dos letras (en mayúsculas) para co
 ::{ flag=XX }::
 ```
 
-Donde `XX` es el código del país de dos letras de la [ISO 3166-2](https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2) para la bandera.
+Donde `XX` es el código del país de dos letras de la [ISO 3166-1 alpha-2](https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2) para la bandera.
 
 ## Tablas
 
@@ -823,7 +829,7 @@ Las cajas de información deben usarse con precaución en los siguientes casos:
 - Secciones cortas: el encabezamiento de la siguiente sección aparece debajo de las fichas, dejando un gran espacio después del texto.
 - Varias imágenes a la vez: en su lugar, use fichas individuales para un mejor diseño.
 
-Solo se permiten niveles de encabezamiento 4 y 5 dentro de una caja de información. Estos no aparecen en la tabla de contenidos y cualquier valor inferior es demasiado grande. Es posible que sea necesario omitir cualquier [error de comprobación de IC](/wiki/osu!_wiki/Maintenance#comprobaciones-de-ic) debido a esto.
+Solo se permiten niveles de encabezamiento 4 y 5 dentro de una caja de información. Estos no aparecen en la tabla de contenidos y cualquier valor inferior es demasiado grande. Es posible que sea necesario omitir cualquier [error de comprobación de IC](/wiki/osu!_wiki/Maintenance#ci-checks) debido a esto.
 
 ## Notas al pie
 

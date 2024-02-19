@@ -1,59 +1,62 @@
 ---
-outdated_since: 23ff06b9061d913c0419e154b759c85b176dfece
-outdated_translation: true
+no_native_review: true
 ---
 
 # Bannissement des tournois
 
 *Page principale : [Centre d'aide](/wiki/Help_centre)*
 
-Un bannissement des tournois empêche un joueur de s'impliquer dans les tournois officiels, à tous les niveaux. Cela inclut le jeu et la modération/gestion, ou tout autre type d'assistance.
+Un bannissement des tournois empêche un joueur d'être impliqué dans des tournois officiellement soutenus, à quelque titre que ce soit. Cela comprend le fait de jouer et de fournir du personnel ou toute autre forme d'assistance.
 
-Un bannissement des tournois est très rarement prononcé en tant que tel, mais en général, les joueurs qui sont revenus suite à un appel pour une [restriction de compte](/wiki/Help_centre/Account_restrictions) sont soumis à un bannissement d'une durée d'au moins 1 an.
+Les bannissements des tournois sont très rarement prononcés seuls, mais en général, presque tous les joueurs qui reviennent dans le cadre d'un appel standard pour une [restriction de compte](/wiki/Help_centre/Account_restrictions) sont soumis à une restriction d'au moins un an.
 
-En raison de l'importance des enjeux d'un tournoi, les bannissements des tournois sont traités avec le plus grand sérieux, il n'y a donc pas d'indulgence comme pour les restrictions de compte.
+En raison des enjeux élevés des tournois, les bannissements des tournois sont traités très sérieusement et ne font pas l'objet de la même indulgence qu'une restriction de compte.
 
-## Quelles sont les causes d'un bannissement temporaire d'un tournoi ? {id=why-temporary}
+## Quelles sont les causes du bannissement temporaire des tournois ? {id=pourquoi-temporaire}
 
-Toute violation sévère des [règles de la communauté](/wiki/Rules) qui a lieu lors d'un [tournoi officiellement supporté](/wiki/Tournaments/Official_support) est souvent la cause d'un bannissement d'un tournoi, même si cela n'aurait eu pour conséquence qu'une infraction en dehors du cadre de la compétition.
+Toute violation grave des [règles de la communauté](/wiki/Rules) qui a lieu pendant un [tournoi officiellement soutenu](/wiki/Tournaments/Official_support) est susceptible d'entraîner un bannissement du tournoi, même si elle n'aurait normalement donné lieu qu'à une infraction en dehors du cadre de la compétition.
 
-Comme exemple, un tel comportement inclurait le dessin ou l'écriture de symboles haineux/insultants (croix gammée par exemple) en utilisant la fumée du curseur dans les matchs diffusés.
+Dans le monde réel, un tel comportement consisterait à dessiner ou à écrire des symboles ou des insultes haineuses (croix gammée, etc.) en utilisant la fumée du curseur dans les matchs diffusés en continu.
 
-Tous les utilisateurs retournant dans le jeu après une procédure de restriction dans le cadre des conditions d'appel standard sont également soumis à un [bannissement temporaire des tournois d'une durée d'un an](/wiki/Help_centre/Account_restrictions#reasons), qui peut-être prolongé à la discrétion de [l'Équipe de support aux comptes](/wiki/People/Account_support_team).
+Tous les utilisateurs qui reviennent dans le jeu après une restriction dans le cadre des conditions d'appel standard sont également soumis à une [interdiction temporaire de tournoi d'un an minimum](/wiki/Help_centre/Account_restrictions#reasons), qui peut être prolongée à la discrétion de [l'équipe de support aux comptes](/wiki/People/The_Team/Account_support_team).
 
-## Quelles sont les causes d'un bannissement permanent des tournois ? {id=why-permanent}
+## Quelles sont les causes du bannissement pour une durée indéterminée ? {id=pourquoi-permanent}
 
-Toute utilisation d'un logiciel tiers de triche ou toute autre méthode pour obtenir un avantage déloyal vis a vis des autres participants dans un tournoi officiellement supporté résultera en un bannissement permanent des tournois. Dans certaines situations, des cas d'abus particulièrement excessifs peuvent également donner lieu à une telle sanction.
+Toute utilisation d'outils de triche tiers ou d'autres méthodes visant à obtenir un avantage déloyal sur les autres participants à un tournoi officiellement soutenu se traduira par une interdiction de participer à un tournoi pour une durée indéterminée. Dans certaines situations, des cas d'abus particulièrement excessifs peuvent également entraîner une telle sanction, à la discrétion de l'équipe d'assistance.
 
-Cela inclut des situations comme :
+Il s'agit notamment de situations telles que :
 
-- Comme évoqué, toute utilisation d'un logiciel tiers de triche ou d'un utilitaire pour gagner un avantage
-- L'utilisation de plusieurs comptes pour entrer dans un tournoi
-- La tentative de contourner un silence ou toute autre sanction en utilisant un autre compte
-- Le partage de compte lors d'un tournoi officiellement supporté
-- La conspiration pour obtenir ou utiliser des informations privés pour gagner ou obtenir un avantage (par exemple, accéder au mappool, obtenir des informations des autres équipes, etc...)
-- D'abuser de la confiance d'autrui pour gagner ou obtenir un avantage (par exemple, manipuler le déroulement du tournoi, de défavoriser les équipes en changeant leurs compositions, ou disqualifier les participants sans raisons valables)
-- Organiser des campagnes ciblées d'insultes envers les participants ou des organisateurs bien en dehors de la limite de la critique
+- Comme ci-dessus, toute utilisation d'outils ou d'utilitaires de tricherie de tiers pour obtenir un avantage
+- Utiliser plusieurs comptes pour participer à un tournoi
+- Tenter de se soustraire à un silence ou à une infraction en utilisant un autre compte
+- Partager son compte dans le cadre d'un tournoi officiellement soutenu ou au cours de celui-ci
+- Conspirer en vue d'obtenir ou d'utiliser des informations privées pour obtenir ou conférer un avantage (par exemple, accéder à des informations du mappool avant d'autres équipes, etc.)
+- Abuser de sa position de confiance pour obtenir ou conférer un avantage (manipuler les horaires, modifier injustement la composition des équipes ou disqualifier des participants sans motif ou sans raison).
+- Organiser des campagnes d'abus ciblées à l'encontre de participants ou d'organisateurs bien au-delà du domaine de la critique.
 
-## Est-il possible de faire appel pour un bannissement des tournois ? {id=appeal}
+## Puis-je faire appel du bannissement des tournois ? {id=appel}
 
-Qu'il soit temporaire ou permanent, **il n'est pas possible de faire appel concernant un bannissement des tournois**.
+Les bannissements temporaires des tournois appliqués par le biais des conditions d'appel standard ou par d'autres moyens ne peuvent pas faire l'objet d'un appel.
 
-Dans des cas particuliers, [l'Équipe de support aux comptes](/wiki/People/Account_support_team) peut étudier des cas individuels à leur discrétion et retirer ou réappliquer des sanctions appropriées pour être sûr que cela reste cohérent avec les situations passées.
+Les bannissements des tournois indéfinis peuvent faire l'objet d'un appel après qu'au moins **deux ans** (24 mois) se soient écoulés depuis leur première application. Les utilisateurs qui contestent une interdiction indéfinie de participer à un tournoi devront avoir fait preuve d'une implication positive dans la communauté d'osu! au sens large, dans des tournois ou autres, et avoir un comportement irréprochable au cours de cette période. En cas d'échec d'un appel, un utilisateur doit attendre au moins **un an** (12 mois) à partir de la date de son dernier appel avant de faire appel à nouveau.
 
-## Que puis-je faire en cas de bannissement des tournois ? {id=while-banned}
+Bien qu'il soit possible de faire appel d'un bannissement des tournois pour une durée indéterminée comme indiqué ci-dessus, il convient de souligner qu'il faut s'attendre à un effort considérable de la part de l'ensemble de la communauté en dehors de la rédaction d'un appel pour avoir une chance sérieuse d'aboutir.
 
-Vous pouvez continuer à jouer dans les tournois communautaires qui n'ont pas de support officiel ou de screening à la discrétion des organisateurs de ce genre d'événements.
+Dans de rares cas, [l'équipe de support aux comptes](/wiki/People/Account_support_team) peut examiner des cas individuels à sa discrétion et supprimer ou réappliquer les punitions appropriées afin de s'assurer qu'elles restent cohérentes avec des cas similaires dans le passé.
 
-Les informations concernant votre statut de bannissement des tournois peuvent être communiquées aux organisateurs des tournois sur demande, que le tournoi soit officiel ou non.
+## Que puis-je faire lorsque je suis banni des tournois ? {id=pendant le bannissement}
 
-## Raisons communes de bannissement des tournois et durées {id=reasons}
+Vous pouvez continuer à participer à des tournois communautaires qui ne demandent pas de soutien officiel ou qui ne nécessitent pas de filtrage, à la discrétion des personnes qui organisent ces événements.
 
-| Raison du bannissement des tournois | Durée | Commentaire |
+Les informations relatives à votre statut de bannissement des tournois peuvent être fournies aux organisateurs des tournois qui en font la demande, qu'ils bénéficient ou non d'un soutien officiel.
+
+## Raisons et durées des bannissements des tournois les plus courants {id=raisons}
+
+| Raison du bannissement des tournois | Durée | Notes |
 | :-- | :-- | :-- |
-| Mauvaise conduite d'un joueur lors d'un tournoi officiellement supporté | 1 ou 2 ans |  |
-| Retour dans les conditions standards d'appel | 1 ou 2 ans | Peut-être prolongé à la discrétion de l'Équipe de support aux comptes |
-| Utilisation de plusieurs comptes ou partage de compte lors d'un tournoi officiellement supporté | Permanent | Engendre également une restriction |
-| Utilisation d'un logiciel tiers ou de tout utilitaire de triche lors d'un tournoi officiellement supporté | Permanent | Engendre également une restriction |
-| Utilisation d'informations de tournois privées/confidentielles pour gagner ou conférer un avantage déloyal | Permanent | Peut également causer une restriction |
-| Abus sévère ou harcèlement envers des organisateurs/staff/participants du tournoi | Permanent | Peut également causer une restriction |
+| Mauvaise conduite d'un joueur lors d'un tournoi officiel | 1-2 ans |  |
+| Retour dans le cadre des conditions d'appel normales | 1-2 ans | La durée peut être plus longue à la discrétion de l'équipe de support aux comptes. |
+| Multi-compte ou partage de compte lors d'un tournoi officiellement soutenu | Indéfinie | Cela entraînera également une restriction |
+| Utilisation d'utilitaires tiers ou d'autres outils de tricherie lors d'un tournoi officiel. | Indéfinie | Cela entraînera également une restriction |
+| Utilisation d'informations privées/confidentielles sur le tournoi pour obtenir ou conférer un avantage déloyal | Indéfinie | Peut également entraîner une restriction |
+| Abus sévère ou harcèlement des organisateurs, du personnel et des participants du tournoi. | Indéfinie | Peut également entraîner une restriction |

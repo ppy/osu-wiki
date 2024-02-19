@@ -1,12 +1,35 @@
 extends: default
 
-ignore: node_modules/
+ignore-from-file: .gitignore
+
 rules:
-  colons: disable
-  comments: disable
-  document-start: disable
+  braces:
+    forbid: non-empty
+  brackets:
+    forbid: non-empty
+  comments:
+    level: error
+    min-spaces-from-content: 1
+  comments-indentation:
+    level: error
+  document-end:
+    ignore: "*.md"
+    present: false
+  document-start:
+    ignore: "*.md"
+    level: error
+    present: false
+  empty-lines:
+    max: 1
+  empty-values: enable
+  indentation:
+    spaces: 2
   line-length: disable
+  octal-values: enable
+  quoted-strings:
+    allow-quoted-quotes: true
+    quote-type: double
+    required: only-when-needed
   truthy:
-    # no: Norway language code in meta/group-info
-    # on: list of Github Actions triggers
     check-keys: false
+    level: error

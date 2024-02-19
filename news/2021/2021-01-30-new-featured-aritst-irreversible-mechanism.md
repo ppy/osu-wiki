@@ -8,7 +8,7 @@ date: 2021-01-30 09:30:00 +0000
 
 ![](https://assets.ppy.sh/artists/135/header.jpg)
 
-Holding true to their name, progressive death metal titan **Irreversible Mechanism** has been unstoppable ever since its inception. Immediately following an independent release of their first album featuring heavy instrumentation and a touch of neo classical sounds, the band was signed by the metal label *Blood Music*, through which they've since released their second album to even further success. 
+Holding true to their name, progressive death metal titan **Irreversible Mechanism** has been unstoppable ever since its inception. Immediately following an independent release of their first album featuring heavy instrumentation and a touch of neo classical sounds, the band was signed by the metal label *Blood Music*, through which they've since released their second album to even further success.
 
 We've secured **14** songs from both of the band's records, mappers are free to venture and immerse themselves in the world created by **Irreversible Mechanism**.
 

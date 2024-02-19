@@ -36,9 +36,9 @@
 ビートマップエディタのその他の構成要素は以下の通りです:
 
 - [AiMod](AiMod): ビートマップの問題点を報告する自動システム
-- [Beat snap divisor](Beat_Snap_Divisor): オブジェクトのタイムラインへのスナップを決定する
+- [Beat snap divisor](Beat_snap_divisor): オブジェクトのタイムラインへのスナップを決定する
 - [Distance snap](Distance_snap): ヒットしたオブジェクトの近さや遠さに影響を与える乗数
 - [気合いタイム](/wiki/Gameplay/Kiai_time): ビートマップの一部分を強調するための特別なタイミングセクション
 - [メニュー](Menu): ビートマップエディターの操作をサポート
-- [SB load](SB_Load): ストーリーボードの負荷の大きさを示す数値
+- [SB load](SB_load): ストーリーボードの負荷の大きさを示す数値
 - [タイムライン](Timelines): 配置されたヒットオブジェクトやブレイクなどを表示

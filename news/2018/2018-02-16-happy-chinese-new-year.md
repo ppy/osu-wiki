@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Happy Chinese New Year!"
+title: Happy Chinese New Year!
 date: 2018-02-16 05:00:00 +0000
 ---
 

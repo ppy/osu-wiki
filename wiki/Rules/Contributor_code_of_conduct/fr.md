@@ -45,7 +45,6 @@ Les cas de comportements abusifs, harcelants ou tout autre comportement inaccept
 Les responsables communautaires qui ont accès à cette boîte de réception sont les suivants :
 
 - [peppy](https://osu.ppy.sh/users/2) ([pe@ppy.sh](mailto:pe@ppy.sh))
-- [Ephemeral](https://osu.ppy.sh/users/102335) ([ephemeral@ppy.sh](mailto:ephemeral@ppy.sh))
 
 Toutes les plaintes seront examinées et feront l'objet d'une enquête rapide et équitable.
 
@@ -65,7 +64,7 @@ Les dirigeant·e·s de communauté suivront ces directives d'application sur l'i
 
 **Impact communautaire** : un non-respect par un seul incident ou une série d'actions.
 
-**Conséquence** : un avertissement avec des conséquences dû à la poursuite du comportement. Aucune interaction avec les personnes concernées, y compris l'interaction non sollicitée avec celles et ceux qui sont chargé·e·s de l'application de ce code de conduite, pendant une période déterminée. 
+**Conséquence** : un avertissement avec des conséquences dû à la poursuite du comportement. Aucune interaction avec les personnes concernées, y compris l'interaction non sollicitée avec celles et ceux qui sont chargé·e·s de l'application de ce code de conduite, pendant une période déterminée.
 Cela comprend le fait d'éviter les interactions dans les espaces communautaires ainsi que sur les canaux externes comme les médias sociaux. Le non-respect de ces conditions peut entraîner un bannissement temporaire ou permanent.
 
 ### 3. Bannissement temporaire
