@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!(lazer) Updates: February 19, 2024"
-date: 2024-02-19 19:00:00 +0000
+date: 2024-02-19 16:30:00 +0000
 ---
 
 There is something else besides love in the air... it's another osu!(lazer) update!
@@ -23,6 +23,12 @@ It might not strictly be Valentine's Day anymore, but we're sure that you will *
 - **Deselecting sliders will no longer add control points.** Previously, if you were to select multiple objects including a slider, deselecting the slider would create a new control point instead of deselecting it.
 - **Legacy Relax replays now work properly.** As stable does not record key presses in replays with Relax, watching them back in lazer made them look like Relax was not even enabled.
 - **Performance improvements, bug and visual fixes.** The team has continued their work on optimising the game and improving the performance, so let us know whether the game runs well for you!
+
+### Scores won't be reset
+
+Developers are now confident that full leaderboard resets won't happen. See the [video above](https://www.youtube.com/watch?v=X9fjikgBIPI) where peppy and pishifat explain what exactly this means.
+
+(In short, you can earn permanent pp on lazer.)
 
 ### More mods and mod settings grant performance points
 
