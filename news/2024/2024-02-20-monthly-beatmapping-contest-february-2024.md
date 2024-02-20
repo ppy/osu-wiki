@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest: February 2024"
-date: 2023-02-15 06:00:00 +0000
+date: 2023-02-20 19:00:00 +0000
 ---
 
 You already know you're the world's #1 mapper, but this contest can make everyone else realize it too.
@@ -29,8 +29,8 @@ This contest's **24** submissions were narrowed down to the **top 8** by our [sc
 
 | Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| 1st + Screener's pick | [bIG data](https://osu.ppy.sh/users/17744610) | [yaseta - Dreamy Goat](LINK) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +3 (3 total) |
-| 2nd | [fowwo](https://osu.ppy.sh/users/4547551) | [siqlo - Me & U](LINK) | - | +1 (1 total) |
+| 1st + Screener's pick | [bIG data](https://osu.ppy.sh/users/17744610) | [yaseta - Dreamy Goat](https://osu.ppy.sh/beatmapsets/2135463) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +3 (3 total) |
+| 2nd | [fowwo](https://osu.ppy.sh/users/4547551) | [siqlo - Me & U](https://osu.ppy.sh/beatmapsets/2135872) | - | +1 (1 total) |
 | 3rd | [Sing](https://osu.ppy.sh/users/3795679) | [ALEPH - IMPULSE](https://osu.ppy.sh/beatmapsets/2135262) | - | - |
 
 #### Top 10
@@ -51,9 +51,9 @@ Following the same line of thought as **osu!**'s contest, **osu!mania**'s submis
 
 | Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| 1st | [tyrcs](https://osu.ppy.sh/users/13026904) | [Frums - HALL](LINK) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (4 total) |
-| 2nd + Screener's pick | [oct4](https://osu.ppy.sh/users/10303887) | [SONG](LINK) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (2 total) |
-| 3rd | [Kokistarr](https://osu.ppy.sh/users/25027073) | [SONG](LINK) | - | - |
+| 1st | [tyrcs](https://osu.ppy.sh/users/13026904) | [Frums - HALL](https://osu.ppy.sh/beatmapsets/2135386) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (4 total) |
+| 2nd + Screener's pick | [oct4](https://osu.ppy.sh/users/10303887) | [katagiri - Angel's Salad](https://osu.ppy.sh/beatmapsets/2135273) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (2 total) |
+| 3rd | [Kokistarr](https://osu.ppy.sh/users/25027073) | [D-D-Dice vs. siromaru - Catch the Glory](https://osu.ppy.sh/beatmapsets/2135278) | - | - |
 
 #### Top 10
 
@@ -71,10 +71,10 @@ Now's your chance to be on the pedestal. See if you have what it takes for this 
 
 This month's contest is open to **osu!** and **osu!mania** mappers.
 
-- [osu! contest listing](LINK)
-- [osu!mania contest listing](LINK)
+- [osu! contest listing](https://osu.ppy.sh/community/contests/203)
+- [osu!mania contest listing](https://osu.ppy.sh/community/contests/204)
 
-If you'd rather map for another mode, next month is your time to shine.
+If you'd rather map for another mode, next month is your chance to shine.
 
 ## Timeline
 
@@ -85,11 +85,11 @@ If you'd rather map for another mode, next month is your time to shine.
 
 ## Beatmapping
 
-### Limitation
+### Limitation/theme
 
 Since this contest happens "monthly", we like to keep mappers on their toes. 
 
-For example, some limitations in previous contests were "no sliders", "circle size must be 0", and "star rating must be below 4.0".
+For example, some limitations/themes in previous contests were "no sliders", "circle size must be 0", and "star rating must be below 4.0".
 
 If you're confused about how these work, feel free to ask for clarification in the comments, or send a message to [pishifat](https://osu.ppy.sh/community/chat?sendto=3178418) (for osu!) or [RandomeLoL](https://osu.ppy.sh/community/chat?sendto=7080063) (for osu!mania).
 
@@ -107,52 +107,62 @@ If you're somehow *still* confused, here's [an example map that follows this lim
 
 #### osu!mania
 
-info goes here
+Lots of mappers aim to create well-balanced maps, but none aim to be as quite balanced as this contest's theme requires.
+
+osu!mania's theme: **Each column should have the same amount of objects.**
+
+We don't expect you to manually count this of course. A mapping tool you likely already have — [Mapset Verifier](https://osu.ppy.sh/community/forums/topics/943895) — shows note counts per column in the `Overview` tab.
+
+![](/wiki/shared/news/2024-02-20-monthly-beatmapping-contest-february-2024/count.png)
+
+Alternatively, you can count notes per column by pasting your `.osu` file [here](LINK).
+
+Similar to [November's theme](https://osu.ppy.sh/home/news/2023-11-14-monthly-beatmapping-contest-november-2023#osu!mania), the closer your map is to equal note counts in each column, the better you'll score in the *theme* category!
 
 ### Songs
 
 We've received some feedback that allowing *any song* for this contest can make comparing maps a bit difficult. As an experiment, we'll be narrowing the songs list a bit this time around.
 
-For this contest, we're highlighting 5 songs from one genre: **GENRE**.
+For this contest, we're highlighting 5 songs with no shortage of bed spring squeaks: **Future Bass**.
 
-#### SONG (xxx BPM)
+#### Redside - beachballs! (150 BPM)
 
-Beatmap template download: [Full version](LINK) (x:xx) / [Short version](LINK) (x:xx)
+Beatmap template download: [Full version](https://assets.ppy.sh/artists/184/Songs/Redside%20-%20beachballs!.osz) (2:26)
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/184/Songs/Redside%20-%20beachballs!.mp3">
 </audio>
 
-#### SONG (xxx BPM)
+#### Akiri - Symphony Of The Heavenly Relic (150 BPM)
 
-Beatmap template download: [Full version](LINK) (x:xx) / [Short version](LINK) (x:xx)
+Beatmap template download: [Full version](https://assets.ppy.sh/artists/401/The%20Lost%20Symphonies/Akiri%20-%20Symphony%20Of%20The%20Heavenly%20Relic.osz) (2:50)
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/401/The%20Lost%20Symphonies/Akiri%20-%20Symphony%20Of%20The%20Heavenly%20Relic.mp3">
 </audio>
 
-#### SONG (xxx BPM)
+#### Sobrem feat. Sound piercer - HoneyButterBass (158 BPM)
 
-Beatmap template download: [Full version](LINK) (x:xx) / [Short version](LINK) (x:xx)
+Beatmap template download: [Full version](https://assets.ppy.sh/artists/338/HoneyButterBass/Sobrem%20feat.%20Sound%20piercer%20-%20HoneyButterBass.osz) (1:57)
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/338/HoneyButterBass/Sobrem%20feat.%20Sound%20piercer%20-%20HoneyButterBass.mp3">
 </audio>
 
-#### SONG (xxx BPM)
+#### Nor - Fantasy (160 BPM)
 
-Beatmap template download: [Full version](LINK) (x:xx) / [Short version](LINK) (x:xx)
+Beatmap template download: [Full version](https://assets.ppy.sh/artists/360/FUTURE%20DRIVER/Nor%20-%20Fantasy.osz) (3:41) / [Short version](https://assets.ppy.sh/artists/360/FUTURE%20DRIVER/Nor_-_Fantasy_Cut_Ver..osz) (2:04)
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/360/FUTURE%20DRIVER/Nor%20-%20Fantasy.mp3">
 </audio>
 
-#### SONG (xxx BPM)
+#### Snail's House - Ma Chouchoute (174 BPM)
 
-Beatmap template download: [Full version](LINK) (x:xx) / [Short version](LINK) (x:xx)
+Beatmap template download: [Full version](https://assets.ppy.sh/artists/221/Songs/Snail%27s%20House%20-%20Ma%20Chouchoute.osz) (3:09) / [Short version](https://assets.ppy.sh/artists/221/Songs/Snails_House_-_Ma_Chouchoute_Cut_Ver..osz) (2:24)
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/221/Songs/Snail%27s%20House%20-%20Ma%20Chouchoute.mp3">
 </audio>
 
 ## Rewards
@@ -176,7 +186,8 @@ Additionally, a [**Mappers' Guild keychain**](/wiki/shared/news/2023-08-29-chang
 
 - **Submissions must follow the month's beatmapping [limitation/theme](#limitation/theme):**
   - **osu!:** only use 3 slider velocity multipliers (0.50x, 1.00x, and 2.00x)
-  - **osu!mania:** ???????????????
+  - **osu!mania:** Each column should have the same amount of objects.
+- **osu!mania submissions must be either 4K or 7K.**
 - **Submissions must be a single difficulty from one of the month's [selected songs](#songs).**
 - **Submissions must be in `.osz` format.**
 - **Submissions must NOT be uploaded to the osu! website until after the contest's results are finalised.**
@@ -191,9 +202,9 @@ The editor awaits.
 
 Once you're done mapping, plop your `.osz` into one of these:
 
-- [osu! contest listing](LINK)
-- [osu!mania contest listing](LINK)
+- [osu! contest listing](https://osu.ppy.sh/community/contests/203)
+- [osu!mania contest listing](https://osu.ppy.sh/community/contests/204)
 
-You have until **March 4th** to submit your entry!
+You have until **March 12th** to submit your entry!
 
 —pishifat, RandomeLoL
