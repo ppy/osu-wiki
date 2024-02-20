@@ -85,11 +85,11 @@ If you'd rather map for another mode, next month is your chance to shine.
 
 ## Beatmapping
 
-### Limitation/theme
+### Limitation
 
 Since this contest happens "monthly", we like to keep mappers on their toes. 
 
-For example, some limitations/themes in previous contests were "no sliders", "circle size must be 0", and "star rating must be below 4.0".
+For example, some limitations in previous contests were "no sliders", "circle size must be 0", and "star rating must be below 4.0".
 
 If you're confused about how these work, feel free to ask for clarification in the comments, or send a message to [pishifat](https://osu.ppy.sh/community/chat?sendto=3178418) (for osu!) or [RandomeLoL](https://osu.ppy.sh/community/chat?sendto=7080063) (for osu!mania).
 
@@ -107,17 +107,11 @@ If you're somehow *still* confused, here's [an example map that follows this lim
 
 #### osu!mania
 
-Lots of mappers aim to create well-balanced maps, but none aim to be as quite balanced as this contest's theme requires.
+Many mappers aim to create well-balanced maps, but none aim to be as quite balanced as this contest's limitation requires:
 
-osu!mania's theme: **Each column should have the same amount of objects.**
+**Each column must have the same number of objects.**
 
-We don't expect you to manually count this of course. A mapping tool you likely already have — [Mapset Verifier](https://osu.ppy.sh/community/forums/topics/943895) — shows note counts per column in the `Overview` tab.
-
-![](/wiki/shared/news/2024-02-20-monthly-beatmapping-contest-february-2024/count.png)
-
-Alternatively, you can count notes per column by pasting your `.osu` file [here](LINK).
-
-Similar to [November's theme](https://osu.ppy.sh/home/news/2023-11-14-monthly-beatmapping-contest-november-2023#osu!mania), the closer your map is to equal note counts in each column, the better you'll score in the *theme* category!
+We don't expect you to manually count this of course. [Use this to automatically count notes per column](https://mappersguild.com/contests/mbc).
 
 ### Songs
 
@@ -184,9 +178,9 @@ Additionally, a [**Mappers' Guild keychain**](/wiki/shared/news/2023-08-29-chang
 
 ## Rules
 
-- **Submissions must follow the month's beatmapping [limitation/theme](#limitation/theme):**
+- **Submissions must follow the month's beatmapping [limitation](#limitation):**
   - **osu!:** only use 3 slider velocity multipliers (0.50x, 1.00x, and 2.00x)
-  - **osu!mania:** Each column should have the same amount of objects.
+  - **osu!mania:** Each column must have the same number of objects.
 - **osu!mania submissions must be either 4K or 7K.**
 - **Submissions must be a single difficulty from one of the month's [selected songs](#songs).**
 - **Submissions must be in `.osz` format.**
