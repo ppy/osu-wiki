@@ -8,7 +8,7 @@ The Grand Finals are happening this weekend, and you have no idea what happened 
 
 ![](/wiki/Tournaments/MWC/2024_7K/img/mwc7k2024-banner.jpg)
 
-It looks like the MWC7K community has fallen down a wormhole, and is doomed to watch the same teams battle it out in the Grand Finals of the World Cup every year! While no one knows if the top 4 teams will manage to break out of the time loop and place differently this year, taking a look back at the previous weekend might give us a better idea.
+It looks like the MWC7K community has fallen down a wormhole, and is doomed to watch the same teams battle it out in the Grand Finals of the World Cup every year! While no one knows if any of the top 4 teams will manage to break out of the time loop and place differently this year, taking a look back at the previous weekend might give us a better idea.
 
 ## Mappool showcase
 
@@ -69,7 +69,15 @@ text
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=v2066497602&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-text
+A match-up with a very deep history is at hand. China and the Philippines, the two teams that have won MWC7K other than South Korea, are facing each other once again in a do-or-die situation. If this match ends up anything like their previous encounters over the years, we're going to be up for an excellent match.
+
+With both teams being very proficient at practically any skill set, the strategy at the beginning is not as straightforward. Two LN picks were banned, and the protects ended up being the first picks of each team as well. The Philippines opened up with HB1, [Akiri Feat. InabaYap - Tonight We Fly](https://osu.ppy.sh/beatmapsets/2134137#mania/4490001), which they won. Similarly, China won their opening pick, RC1, [Shiraishi - Moon-gate (Delay ver.)](https://osu.ppy.sh/beatmapsets/2134113#mania/4489957). China also ended up winning their next two picks by a decent margin. The Philippines cut off a possible streak for their opponents by barely winning LN5, [Camellia feat. Nanahira - Animal Land](https://osu.ppy.sh/beatmapsets/2134133#mania/4489995), but from this point onwards China started to flex a bit more of their muscle, winning the next three picks — and reaching match point.
+
+The defending champions were not yet down and out, though. The Philippines with for HB1, [69 de 74 - Overdrive Power](https://osu.ppy.sh/beatmapsets/2134143#mania/4490020), and managed to extend the match by at least one more chart. China, who wanted to close out this match, went for RC2, [itaojirou - Tze-Chiang Hao](https://osu.ppy.sh/beatmapsets/2134115#mania/4489959), but heroics from both ::{ flag=PH }:: [Ojisan-](https://osu.ppy.sh/users/11420405) (formerly - Kura -) and ::{ flag=PH }:: [Sanni](https://osu.ppy.sh/users/3036686) resulted in a break point. With the ball in their court, the Philippines immediately went for RC4, [FAKE TYPE. - Volstead Bar](https://osu.ppy.sh/beatmapsets/2134122#mania/4489976) — a decision that baffled practically everyone since China had practically won every single rice-based chart except for the previous pick. It worked out in the end though, since the Philippines yet again won a vital point. China quickly went for LN3, [Aoi a.k.a. ALFOU - Fluctuate](https://osu.ppy.sh/beatmapsets/2134132#mania/4489993), with a full team substitution as well. ::{ flag=CN }:: [\[Crz\]Satori](https://osu.ppy.sh/users/7082178) and ::{ flag=CN }:: [VanWilder](https://osu.ppy.sh/users/89545) held the lead in this chart, but an unfortunate drop from them assured an ending that everyone wanted in this match — a tiebreaker.
+
+The tiebreaker chart, [jizue - rosso](https://osu.ppy.sh/beatmapsets/2134144#mania/4490021), is possibly [Evening](https://osu.ppy.sh/users/2193881)'s magnum opus, and is the stage for what is possibly the craziest sequence ever in the history of the osu!mania 7K World Cup. China grabbed the early advantage in the chart, with their opponents well within striking distance. Misses from Ojisan- and Sanni going into the second quarter of the chart had the lead stretch for a bit. The duo of ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904) and ::{ flag=CN }:: [QingJiDing](https://osu.ppy.sh/users/10569738) maintained their momentum for a while until the chart started to pick up its pace. Multiple trades of misses from both sides started to make the score gap tighter by the second. The final 30 seconds of the chart were just pure pandemonium. The score gap was practically non-existent at this point and everyone was just waiting for the first player to blink. At around the very last measure of this piece, a big drop from China happened, and the Philippines finished this match on top by the skin of their teeth.
+
+The defending champions once again reach the podium of MWC7K, and will be fighting for all the marbles in the coming weekend. Massive, massive props to China though, for giving us a match of a lifetime as well.
 
 ## Score highlights
 
