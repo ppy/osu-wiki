@@ -23,7 +23,7 @@ Los cambios en el registro de cambios se pueden ver [en el repositorio `ppy/osu-
 ## Historia
 
 ::: Infobox
-![](img/changelog-web-2007.png "El registro de cambios en la web en 2007")
+![](img/changelog-web-2007.png "El registro de cambios web en 2007")
 :::
 
 El registro de cambios fue iniciado por [peppy](/wiki/People/peppy) el 11 de septiembre de 2007 en un hilo del foro dedicado titulado «[Official Development Changelog](https://osu.ppy.sh/community/forums/topics/15)», donde enumeraba cambios notables y correcciones de errores y, a veces, compartía información sobre próximos planes.
