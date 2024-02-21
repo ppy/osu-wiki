@@ -24,7 +24,7 @@ It looks like the MWC7K community has fallen down a wormhole, and is doomed to w
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=v2059913783&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-With the introduction of a new round came a suite of new custom charts — and [osu! originals](/wiki/osu!_originals) — for contestants and spectators to enjoy during one of the last week's of the tournament. As the final week draws close, the difficulty of the tournament starts showing its true colours. And only those able to keep up with it will be able to stand a chance! To say the pool got harder would be an understatement.
+With the introduction of a new round came a suite of new custom charts (and [osu! originals](/wiki/osu!_originals)) for contestants and spectators to enjoy during one of the last weeks of the tournament. As the final week draws close, the difficulty of the tournament starts showing its true colours, and only those able to keep up with it will be able to stand a chance! To say the pool got harder would be an understatement.
 
 As per usual, please feel free to check out the original tracks and beatmaps by clicking the banners below! Alternatively, you can find the tracks with pretimed templates in the [featured artists' listing](https://osu.ppy.sh/beatmaps/artists) if you'd like to give mapping a shot.
 
