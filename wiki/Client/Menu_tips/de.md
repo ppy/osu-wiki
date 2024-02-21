@@ -94,7 +94,7 @@ Diese Tipps erscheinen unten im Hauptmenü von [osu!(lazer)](/wiki/Client/Releas
 
 - Du kannst überall `Strg` + `T` drücken, um die Symbolleiste zu aktivieren oder zu deaktivieren!
 - Du kannst überall `Strg` + `O` drücken, um auf die Optionen zuzugreifen!
-- Alle Einstellungen sind dynamisch und werden in Echtzeit wirksam. Probiere, den Skin zu ändern während die Mod `Autoplay` aktiv ist!
+- Alle Einstellungen sind dynamisch und werden in Echtzeit wirksam. Probiere, den Skin zu ändern während die Mod [Autoplay](/wiki/Gameplay/Game_modifier/Auto) aktiv ist!
 - Mit jedem Update kommen neue Features hinzu. Bleibe immer auf dem Laufenden!
 - Wenn dir die Bedienelemente zu groß oder zu klein sind, versuche, die UI-Skalierung in den Einstellungen anzupassen!
 - Versuche, die `Bildschirmskalierung` anzupassen, um den Bereich der Benutzeroberfläche oder des Gameplays zu ändern, sogar im Vollbildmodus!
