@@ -276,7 +276,7 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | Links | Song | Beatmap | Notes |
 | --: | :-- | :-: | :-- |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=bEHMtQxhzqM "YouTube") [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Akiri&query=%22Symphony%20Of%20The%20Lost%20Souls%22 "Featured Artist listing") | Akiri - Symphony Of The Lost Souls | [#1](https://osu.ppy.sh/beatmapsets/2130621) | Semifinals tiebreaker |
-|  | Akiri Feat. InabaYap - Tonight We Fly[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2134137) | Finals HB2 |
+| [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Akiri&query=%22Tonight%20We%20Fly%22 "Featured Artist listing") | Akiri Feat. InabaYap - Tonight We Fly | [#1](https://osu.ppy.sh/beatmapsets/2134137) | Finals HB2 |
 | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Junk&query=%22Kagaribi%22 "Featured Artist listing") | Junk - Kagaribi | [#1](https://osu.ppy.sh/beatmapsets/2130665) | Semifinals RC6 |
 | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Lime%20%2F%20Kankitsu&query=%22Campanella%22 "Featured Artist listing") | Lime - Campanella | [#1](https://osu.ppy.sh/beatmapsets/2134145) | Finals RC3 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/seatrus_frontier/from-mwc-2024-grandfinals-tiebreaker-seatrus-disanimate "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=HN_E0OteuCA "YouTube") [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=seatrus&query=%22DiSANiMATE%22 "Featured Artist listing") | seatrus - DiSANiMATE | [#1](https://osu.ppy.sh/beatmapsets/2137728) | Grand Finals tiebreaker |
@@ -830,7 +830,7 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 
 | Links | Song | Beatmap | Notes |
 | --: | :-- | :-: | :-- |
-| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=Mwx6CjyZ_n4 "YouTube") | Akiri - Beyond Wood[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2134266) | Finals HB3 |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=Mwx6CjyZ_n4 "YouTube") [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Akiri&query=%22Beyond%20Wood%22 "Featured Artist listing") | Akiri - Beyond Wood | [#1](https://osu.ppy.sh/beatmapsets/2134266) | Finals HB3 |
 |  | BrayanKitsn vs. burger ate pizza - plana stella achernar | [#1](https://osu.ppy.sh/beatmapsets/2119559) | Round of 32 tiebreaker |
 
 #### ![](/wiki/shared/mode/mania.png) [4 Digit osu!mania World Cup 4](/wiki/Tournaments/4DM/4)
