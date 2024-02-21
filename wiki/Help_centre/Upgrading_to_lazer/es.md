@@ -74,11 +74,11 @@ La siguiente es una lista detallada del **estado actual** de lazer en comparaci�
 
 | Característica | stable | lazer |
 | :-- | :-- | :-- |
-| Envío de puntuaciones | ![Sí][true] | ![Parcial][partial][^score-reset] |
-| Tablas de clasificación de beatmaps | ![Sí][true] | ![Parcial][partial][^score-reset] |
+| Envío de puntuaciones | ![Sí][true] | ![Sí][true] |
+| Tablas de clasificación de beatmaps | ![Sí][true] | ![Sí][true] |
 | Estadísticas de perfil | ![Sí][true] | ![Sí][true] |
 | Medallas | ![Sí][true] | ![No][false] |
-| Puntos de rendimiento | ![Sí][true] | ![Parcial][partial][^score-reset] |
+| Puntos de rendimiento | ![Sí][true] | ![Sí][true] |
 | Chat en tiempo real | ![Parcial][partial][^stable-chat] | ![Sí][true] |
 | Wiki / noticias / registro de cambios / clasificaciones | ![No][false] | ![Sí][true][^online-content] |
 | Perfiles de usuario | ![No][false] | ![Sí][true] |
@@ -330,7 +330,6 @@ Probablemente estés pensando en otro juego.
 [^offset-calibration-lazer]: Al reintentar un beatmap, puedes calibrar la compensación basándote en tu última jugada.
 [^can-disable]: Se puede desactivar.
 [^note-lock]: Todavía existe, pero no interferirá.
-[^score-reset]: Las puntuaciones pueden restablecerse.
 [^online-content]: Acceso nativo a la mayor parte del contenido en línea.
 [^direct-supporter]: Mediante osu!direct, solo osu!supporter.
 [^supporter]: Solo osu!supporter.
