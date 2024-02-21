@@ -99,7 +99,7 @@ Diese Tipps erscheinen unten im Hauptmenü von [osu!(lazer)](/wiki/Client/Releas
 - Wenn dir die Bedienelemente zu groß oder zu klein sind, versuche, die UI-Skalierung in den Einstellungen anzupassen!
 - Versuche, die `Bildschirmskalierung` anzupassen, um den Bereich der Benutzeroberfläche oder des Gameplays zu ändern, sogar im Vollbildmodus!
 - Was früher "[osu!direct](/wiki/osu!supporter#osu!direct)" war, ist nun wie auf der Webseite für alle Nutzer verfügbar. Du kannst es überall mit `Strg` + `B` aufrufen!
-- In Replays kann durch das Ziehen des Cursors oder durch die linke und rechte Pfeiltaste auf der Fortschrittsleiste am unteren Rand des Bildschirms gesprungen werden!
+- Du kannst durch Replays springen, indem du die linke oder rechte Pfeiltaste drückst oder den Cursor über die Fortschrittsleiste am unteren Bildschirmrand ziehst!
 - Unterstützung für Multithreading bedeutet, dass selbst bei geringen "FPS" deine Eingaben und Beurteilungen präzise sein werden!
 - Probiere, in der Modauswahl nach rechts zu scrollen, um einen Haufen neuer spaßiger Mods zu entdecken!
 - Die meisten Webinhalte (Profile, Ranglisten etc.) sind über die Symbole in der Symbolleiste direkt im Spiel verfügbar!
