@@ -217,7 +217,7 @@ Sin embargo, por ahora solo los siguientes mods concederán puntos de rendimient
   - Spun out
 - Sistema
   - Touch Device
- 
+
 Solo la configuración predeterminada de las opciones de personalización es elegible para obtener puntos de rendimiento, a menos que se indique lo contrario anteriormente.
 
 #### No me gustan las nuevas mecánicas de juego. ¿Puedo restaurar las antiguas mecánicas como eran en stable?
