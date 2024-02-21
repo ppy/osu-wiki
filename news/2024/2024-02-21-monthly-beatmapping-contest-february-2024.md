@@ -4,7 +4,7 @@ title: "Monthly Beatmapping Contest: February 2024"
 date: 2024-02-21 19:00:00 +0000
 ---
 
-You already know you're the world's #1 mapper, but this contest can make everyone else realize it too.
+You already know you're the world's #1 mapper, but this contest can make everyone else realise it too.
 
 ![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
 
@@ -12,7 +12,7 @@ The [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (*
 
 This month is all about **osu!** and **osu!mania**. Skip to whichever section you're interested in:
 
-- Results for [the previous osu!+osu!mania MBC](https://osu.ppy.sh/home/news/2023-11-14-monthly-beatmapping-contest-november-2023)
+- Results for [the previous osu! + osu!mania MBC](https://osu.ppy.sh/home/news/2023-11-14-monthly-beatmapping-contest-november-2023)
   - [osu! results](#osu!-results)
   - [osu!mania results](#osu!mania-results)
 - [Criteria for this month's MBC](#game-modes)
@@ -35,7 +35,7 @@ This contest's **24** submissions were narrowed down to the **top 8** by our [sc
 
 #### Top 10
 
-<div align="center">
+<div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/sWwGnOa0WxI" frameborder="0" allowfullscreen></iframe>
 </div>
 
@@ -57,7 +57,7 @@ Following the same line of thought as **osu!**'s contest, **osu!mania**'s submis
 
 #### Top 10
 
-<div align="center">
+<div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/JlQpeQRN75A" frameborder="0" allowfullscreen></iframe>
 </div>
 
@@ -111,7 +111,7 @@ Many mappers aim to create well-balanced maps, but none aim to be as quite balan
 
 **Each column must have the same number of objects.**
 
-We don't expect you to manually count this of course. [Use this to automatically count notes per column](https://mappersguild.com/contests/mbc).
+We don't expect you to manually count this of course. [Use this to automatically count notes per column.](https://mappersguild.com/contests/mbc)
 
 ### Songs
 
