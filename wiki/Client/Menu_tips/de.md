@@ -109,16 +109,16 @@ Diese Tipps erscheinen unten im Hauptmenü von [osu!(lazer)](/wiki/Client/Releas
 - Mit `Strg` + `F11` kannst du Statistiken über Frames und Threads erhalten!
 - Werfe einen Blick unter die Haube der Leistungsindikatoren und aktiviere die ausführliche Leistungsprotokollierung mit `Strg` + `F2`!
 - Während eines Replays kannst du mit `Leertaste` pausieren!
-- Die meisten der Tastaturkürzel im Spiel sind konfigurierbar und auf die eigenen Bedürfnisse anpassbar. Schlage die Tastenbelegungen in den Eingabeeinstellungen nach!
+- Die meisten der Tastenkürzel im Spiel sind konfigurierbar und auf die eigenen Bedürfnisse anpassbar. Schlage die Tastenbelegungen in den Eingabeeinstellungen nach!
 - Wenn das HUD im Spiel verborgen ist, kannst du `Strg` halten, um es vorübergehend zu sehen!
-- Das HUD im Spiel kann mit dem Skin-Editor angepasst werden. Öffne ihn jederzeit mit `Strg` + `Shift` + `S`!
+- Das Gameplay-HUD kann mit dem Skin-Editor angepasst werden. Öffne ihn jederzeit mit `Strg` + `Shift` + `S`!
 - Ziehe Bilder in den Skin-Editor, um sie schnell zu laden!
 - Durch Mod-Voreinstellungen gelangst du einfacher zu deinen bevorzugten Mod-Kombinationen!
 - Viele Mods haben Konfigurationseinstellungen, die ihre Funktionsweise drastisch ändern. Klicke in der Modauswahl auf den Button `Mod Customisation`, um die Einstellungen zu sehen!
 - Drücke `Strg` + `Shift` + `R`, um einen zufälligen Skin auszuwählen!
 - Drücke `Strg` + `Shift` + `F` für die FPS-Anzeige. Aber lass dich nicht davon ablenken!
-- Drücke während des Ansehens eines Replays `Strg` + `H` für die Replay-Einstellungen!
-- Klicke mit der rechten Maustaste auf einen Score in der Rangliste, um dessen Mods zu kopieren!
+- Drücke beim Ansehen eines Replays `Strg` + `H` für die Replay-Einstellungen!
+- Klicke mit der rechten Maustaste auf einen Score in der Rangliste, um dieselben Mods zu aktivieren!
 - `Strg` + `Eingabe` in der Songauswahl startet eine Beatmap im automatischen Modus!
 
 ## Siehe auch
