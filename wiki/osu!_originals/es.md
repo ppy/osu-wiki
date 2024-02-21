@@ -1016,9 +1016,9 @@ Estas canciones son parte del [EP osu! James Landino Collection](https://fanlink
 | :-: | :-: |
 | [SAMString - Akarui Taiyo](https://soundcloud.com/samstring/akarui-taiyo)[^fa-catalogue] |  |
 
-### Standalone beatmap releases
+### Lanzamientos independientes de beatmaps
 
-*Natteke ft. tieff - Endless Tower* and *Natteke ft. tieff - The Dream* were later featured in [osu!stream](/wiki/osu!stream).
+*Natteke ft. tieff - Endless Tower* y *Natteke ft. tieff - The Dream* se presentaron más tarde en [osu!stream](/wiki/osu!stream).
 
 | Canción | Beatmap |
 | :-: | :-: |
