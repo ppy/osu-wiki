@@ -24,13 +24,15 @@ It looks like the MWC7K community has fallen down a wormhole, and is doomed to w
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=v2059913783&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-text
+With the introduction of a new round came a suite of new custom charts — and [osu! originals](/wiki/osu!_originals) — for contestants and spectators to enjoy during one of the last week's of the tournament. As the final week draws close, the difficulty of the tournament starts showing its true colours. And only those able to keep up with it will be able to stand a chance! To say the pool got harder would be an understatement.
+
+As per usual, please feel free to check out the original tracks and beatmaps by clicking the banners below! Alternatively, you can find the tracks with pretimed templates in the [featured artists' listing](https://osu.ppy.sh/beatmaps/artists) if you'd like to give mapping a shot.
 
 [![](/wiki/shared/news/2024-02-22-osu-mania-7k-world-cup-2024-finals-recap/Campanella.jpg)](https://osu.ppy.sh/beatmapsets/2134145#mania/4490032)
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="">
+        <source src="https://assets.ppy.sh/artists/116/Songs/Lime_-_Campanella.mp3">
     </audio>
 </div>
 
@@ -38,7 +40,7 @@ text
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="">
+        <source src="https://assets.ppy.sh/artists/401/Songs/Akiri%20feat.%20InabaYap%20-%20Tonight%20We%20Fly.mp3">
     </audio>
 </div>
 
@@ -46,13 +48,13 @@ text
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="">
+        <source src="https://assets.ppy.sh/artists/193/Songs/technoplanet_-_Vomit.mp3">
     </audio>
 </div>
 
 ## Finals results
 
-text
+While most people had a vague idea of which teams would be competing on the final showdown of the tournament, not many could've predicted how close China was to steal a spot into the big leagues! Regardless, what's most important is that no team disappointed. Everyone performed in top condition, on a pool that was not going to hold back any punches.
 
 | Team A |  |  | Team B |
 | --: | :-: | :-: | :-- |
@@ -78,13 +80,6 @@ The defending champions were not yet down and out, though. The Philippines with 
 The tiebreaker chart, [jizue - rosso](https://osu.ppy.sh/beatmapsets/2134144#mania/4490021), is possibly [Evening](https://osu.ppy.sh/users/2193881)'s magnum opus, and is the stage for what is possibly the craziest sequence ever in the history of the osu!mania 7K World Cup. China grabbed the early advantage in the chart, with their opponents well within striking distance. Misses from Ojisan- and Sanni going into the second quarter of the chart had the lead stretch for a bit. The duo of ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904) and ::{ flag=CN }:: [QingJiDing](https://osu.ppy.sh/users/10569738) maintained their momentum for a while until the chart started to pick up its pace. Multiple trades of misses from both sides started to make the score gap tighter by the second. The final 30 seconds of the chart were just pure pandemonium. The score gap was practically non-existent at this point and everyone was just waiting for the first player to blink. At around the very last measure of this piece, a big drop from China happened, and the Philippines finished this match on top by the skin of their teeth.
 
 The defending champions once again reach the podium of MWC7K, and will be fighting for all the marbles in the coming weekend. Massive, massive props to China though, for giving us a match of a lifetime as well.
-
-## Score highlights
-
-- y
-- e
-- a
-- h
 
 ---
 
