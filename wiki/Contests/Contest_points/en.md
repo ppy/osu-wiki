@@ -82,11 +82,12 @@ For team contests, elite mapper points will be evaluated on a case-by-case basis
 
 | User | Points |
 | :-- | :-- |
+| ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904) | 4 |
 | ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222) | 3 |
 | ::{ flag=KR }:: [hemoo](https://osu.ppy.sh/users/4420703) | 3 |
-| ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904) | 2 |
 | ::{ flag=CN }:: [richardfeder](https://osu.ppy.sh/users/2446000) | 2 |
 | ::{ flag=KR }:: [Kawawa](https://osu.ppy.sh/users/4647754) | 2 |
+| ::{ flag=AU }:: [oct4](https://osu.ppy.sh/users/10303887) | 2 |
 | ::{ flag=US }:: [lemonguy](https://osu.ppy.sh/users/4693052) | 1 |
 | ::{ flag=BR }:: [AutotelicBrown](https://osu.ppy.sh/users/4238941) | 1 |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | 1 |
