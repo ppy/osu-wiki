@@ -1,3 +1,8 @@
+---
+outdated_since: 855f8f81de9fe361368ccb8cf93f4f8b93022bff
+outdated_translation: true
+---
+
 # osu!taiko
 
 ![osu!taiko 游玩](/wiki/shared/taiko-gameplay.jpg "osu!taiko 的界面")
