@@ -83,6 +83,12 @@ The defending champions once again reach the podium of MWC7K, and will be fighti
 
 ---
 
+If you want to properly hype yourself up for the highly anticipated Grand Finals this weekend, be sure to check out the amazing Grand Finals tiebreaker video that was premiered during the mappool showcase:
+
+<div align="center">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/8qM53VOw6L4" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Even though the same teams as last year are competing for places on the podium, we can guarantee that you will witness some of the best 7K osu!mania has to offer! Be sure to join us in spectating this spectacle that will go down this weekend on the [osulive Twitch channel](https://www.twitch.tv/osulive)!
 
 Of course, you wouldn't want to come unprepared, so be sure to check up on the [wiki page](/wiki/Tournaments/MWC/2024_7K), which contains the full bracket, the mappool, and everything else one would need to be equipped for the Grand Finals.
