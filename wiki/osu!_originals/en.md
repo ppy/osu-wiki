@@ -124,7 +124,7 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 
 | Links | Song | Beatmap | Notes |
 | --: | :-- | :-: | :-- |
-| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=lc4nTM6M9KY "YouTube") [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Camellia&query=%22OOPARTS%22 "Featured Artist listing") | Camellia - OOPARTS | [#1](https://osu.ppy.sh/beatmapsets/1312143) | Grand Finals tiebreaker |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=lc4nTM6M9KY "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://cametek.bandcamp.com/track/parts "Bandcamp") [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Camellia&query=%22OOPARTS%22 "Featured Artist listing") | Camellia - OOPARTS | [#1](https://osu.ppy.sh/beatmapsets/1312143) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/osu.png) [osu! World Cup 2021](/wiki/Tournaments/OWC/2021)
 
@@ -278,10 +278,10 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=bEHMtQxhzqM "YouTube") [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Akiri&query=%22Symphony%20Of%20The%20Lost%20Souls%22 "Featured Artist listing") | Akiri - Symphony Of The Lost Souls | [#1](https://osu.ppy.sh/beatmapsets/2130621) | Semifinals tiebreaker |
 |  | Akiri Feat. InabaYap - Tonight We Fly[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2134137) | Finals HB2 |
 | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Junk&query=%22Kagaribi%22 "Featured Artist listing") | Junk - Kagaribi | [#1](https://osu.ppy.sh/beatmapsets/2130665) | Semifinals RC6 |
-|  | Lime - Campanella[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2134145) | Finals RC3 |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/seatrus_frontier/from-mwc-2024-grandfinals-tiebreaker-seatrus-disanimate "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=HN_E0OteuCA "YouTube") | seatrus - DiSANiMATE[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2137728) | Grand Finals tiebreaker |
+| [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Lime%20%2F%20Kankitsu&query=%22Campanella%22 "Featured Artist listing") | Lime - Campanella | [#1](https://osu.ppy.sh/beatmapsets/2134145) | Finals RC3 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/seatrus_frontier/from-mwc-2024-grandfinals-tiebreaker-seatrus-disanimate "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=HN_E0OteuCA "YouTube") [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=seatrus&query=%22DiSANiMATE%22 "Featured Artist listing") | seatrus - DiSANiMATE | [#1](https://osu.ppy.sh/beatmapsets/2137728) | Grand Finals tiebreaker |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sydosys/voyage "SoundCloud") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://sydosys.bandcamp.com/track/voyage "Bandcamp") [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Sydosys&query=%22Voyage%22 "Featured Artist listing") | Sydosys - Voyage | [#1](https://osu.ppy.sh/beatmapsets/2130624) | Semifinals RC4 |
-|  | technoplanet - Vomit | [#1](https://osu.ppy.sh/beatmapsets/2134140) | Finals HB3 |
+| [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=technoplanet&query=%22Vomit%22 "Featured Artist listing") | technoplanet - Vomit | [#1](https://osu.ppy.sh/beatmapsets/2134140) | Finals HB3 |
 
 ### Community-run tournament releases
 
