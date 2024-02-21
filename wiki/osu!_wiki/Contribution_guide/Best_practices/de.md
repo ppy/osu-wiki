@@ -34,7 +34,7 @@ Wenn du während der Verwendung des GitHub-Tools auf irgendwelche Probleme stö�
 
 3. Klicke auf `Run workflow` und fülle die Optionen aus:
 
-   ![Screenshot des Formulars auf der GitHub-Webseite, das unten beschrieben wird](img/github-actions-workflow-dispatch.png "Bestätigungsmenü des Workflows im Tab GitHub Actions")
+   ![Screenshot des Formulars auf der GitHub-Webseite, das unten beschrieben wird](img/github-actions-workflow-dispatch.png "Workflowmenü der GitHub-Action")
 
    - **Use workflow from**: Name des Branches, der synchronisiert werden soll. Standardmäßig ist das auf `master` eingestellt.
    - **Create a backup of the selected branch**: Erstellt eine Kopie deines Branches namens `{Name des Branches}-backup`, bevor der ursprüngliche Branch verändert wird.
