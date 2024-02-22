@@ -112,14 +112,14 @@ osu!mania 7키 월드컵 2024는 osu! 팀과 여러명의 커뮤니티 멤버들
 
 | Team A | Team B | 경기 시간 | 트위치 방송 |  |
 | --: | :-- | :-- | :-: | :-: |
-| 말레이시아 ::{ flag=MY }:: | ::{ flag=PH }:: 필리핀 | [2월 24일 (토요일) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240224T120000&p1=1440&p2=122&p3=145) | [osulive](https://twitch.tv/osulive) | [^lb-gf-match] |
+| 말레이시아 ::{ flag=MY }:: | ::{ flag=PH }:: 필리핀 | [2월 24일 (토요일) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240224T153000&p1=1440&p2=122&p3=145) | [osulive](https://twitch.tv/osulive) | [^lb-gf-match] |
 
 ### 2024년 2월 25일 일요일
 
 | Team A | Team B | 경기 시간 | 트위치 방송 |  |
 | --: | :-- | :-- | :-: | :-: |
-| 대한민국 ::{ flag=KR }:: | ::{ flag=MY }:: 말레이시아 | [2월 25일 (일요일) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240225T120000&p1=1440&p2=235&p3=122) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
-| 대한민국 ::{ flag=KR }:: | ::{ flag=PH }:: 필리핀 | [2월 25일 (일요일) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240225T120000&p1=1440&p2=235&p3=145) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
+| 대한민국 ::{ flag=KR }:: | ::{ flag=MY }:: 말레이시아 | [2월 25일 (일요일) 11:45 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240225T114500&p1=1440&p2=235&p3=122) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
+| 대한민국 ::{ flag=KR }:: | ::{ flag=PH }:: 필리핀 | [2월 25일 (일요일) 11:45 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240225T114500&p1=1440&p2=235&p3=145) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
 
 ## 맵풀 목록
 

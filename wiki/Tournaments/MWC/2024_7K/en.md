@@ -112,14 +112,14 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Malaysia ::{ flag=MY }:: | ::{ flag=PH }:: Philippines | [Feb 24 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240224T120000&p1=1440&p2=122&p3=145) | [osulive](https://twitch.tv/osulive) | [^lb-gf-match] |
+| Malaysia ::{ flag=MY }:: | ::{ flag=PH }:: Philippines | [Feb 24 (Sat) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240224T153000&p1=1440&p2=122&p3=145) | [osulive](https://twitch.tv/osulive) | [^lb-gf-match] |
 
 ### Sunday, 25 February 2024
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=MY }:: Malaysia | [Feb 25 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240225T120000&p1=1440&p2=235&p3=122) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
-| South Korea ::{ flag=KR }:: | ::{ flag=PH }:: Philippines | [Feb 25 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240225T120000&p1=1440&p2=235&p3=145) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
+| South Korea ::{ flag=KR }:: | ::{ flag=MY }:: Malaysia | [Feb 25 (Sun) 11:45 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240225T114500&p1=1440&p2=235&p3=122) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
+| South Korea ::{ flag=KR }:: | ::{ flag=PH }:: Philippines | [Feb 25 (Sun) 11:45 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240225T114500&p1=1440&p2=235&p3=145) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
 
 ## Mappools
 
