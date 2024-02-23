@@ -185,7 +185,7 @@ The 4 Digit osu!mania World Cup 2024 is run by various community members.
    4. The roll **winner bans** one Free Mod map.
    5. The roll **winner picks** one Free Mod map.
 5. Once a team reaches half the required points to win the match (rounded up), the opposing team must ban another map from the pool.
-6. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than alloted for either action, the procedures adopted will be as follows:
+6. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than allotted for either action, the procedures adopted will be as follows:
    - For the first occurrence:
      - The team will receive a verbal warning from the referee; in addition, the referee may opt to forcefully use the team's tactical timeout to allow for the team to pick.
    - On subsequent occurrences:
