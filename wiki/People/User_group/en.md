@@ -5,7 +5,7 @@ tags:
 
 # User group
 
-*Note: The Chat Bots and Announce user group listings are not public.*
+*Note: The Chat Bots, Tournament Staff, and Announce user group listings are not public.*
 
 ![User group badge example](img/user-group-badge.png "User group badge on a user's profile page")
 
