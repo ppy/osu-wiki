@@ -6,7 +6,7 @@ tags:
 
 # Hard Rock Showdown 2024
 
-![HRS 2024 banner](img/hrs24banner.png)
+![HRS 2024 banner](img/banner.png)
 
 **Hard Rock Showdown 2024** (***HRS 2024***) is an international 1v1 osu! tournament hosted by [ChillierPear](https://osu.ppy.sh/users/9501251). It is the first instalment of Hard Rock Showdown.
 
@@ -14,36 +14,34 @@ tags:
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2024-02-18/2024-03-02 (23:59 UTC) |
-| Qualifier showcase | 2024-03-03 (16:00 UTC) |
-| Qualifier stage | 2024-03-09/2024-03-10 |
-| Round of 32 | 2024-03-16/2024-10-17 |
-| Round of 16 | 2024-03-23/2024-11-24 |
-| Quarterfinals | 2024-03-30/2024-03-31 |
-| Semifinals | 2024-04-06/2024-04-07 |
-| Finals | 2024-04-13/2024-04-14 |
-| Grand Finals | 2024-04-20/2024-04-21 |
+| Registration phase | 2024-02-23/2024-03-08 (23:59 UTC) |
+| Qualifier showcase | 2024-03-10 (16:00 UTC) |
+| Qualifier stage | 2024-03-15/2024-03-17 |
+| Round of 32 | 2024-03-22/2024-03-24 |
+| Round of 16 | 2024-03-29/2024-03-31 |
+| Quarterfinals | 2024-04-05/2024-04-07 |
+| Semifinals | 2024-04-12/2024-04-14 |
+| Finals | 2024-04-19/2024-04-21 |
+| Grand Finals | 2024-04-26/2024-04-28 |
 
 ## Prizes
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, osu! supporter for 1 year |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | osu! supporter for 6 months |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | osu! supporter for 2 months |
-
-![](img/badge-1st.png "HRS 2024 winner badge")
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge (pending), Wooting UwU keypad |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Foxbox tablet cover (HRS Themed) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | osu! supporter for 6 months |
 
 ## Organisation
 
-Hard Rock Showdown was run by various community members.
+Hard Rock Showdown is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) |
 | Mappool selector | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=GB }:: [lystia](https://osu.ppy.sh/users/11042418) |
-| Mappool playtester | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) |
-| Mapper |  |
+| Mappool playtester | ::{ flag=CA }:: [alden](https://osu.ppy.sh/users/3545323), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=CA }:: [nanawo](https://osu.ppy.sh/users/5426640), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351) |
+| Mapper | *TBD* |
 | Commentator | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189) |
 | Referee | ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
 | Technical | ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
@@ -51,163 +49,10 @@ Hard Rock Showdown was run by various community members.
 
 ## Links
 
-- [Information spreadsheet]()
-- [Weekly statistics spreadsheets]()
-- [Forum thread]()
+- [Register Here](https://forms.gle/vuTvUuE1PBZ1uFot7)
+- [Forum thread](https://osu.ppy.sh/community/forums/topics/1887917?n=1)
 - [Livestream](https://www.twitch.tv/ChillierPear)
-- [Pick'ems page](https://pickem.hwc.hr/tournaments/) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Challonge bracket](https://challonge.com/HRS2024)
-
-## Participants
-
-|  | Seed | Participant |
-| :-: | :-- |
-| #1 | ::{ flag= }:: []() |
-| #2 | ::{ flag= }:: []() |
-| #3 | ::{ flag= }:: []() |
-| #4 | ::{ flag= }:: []() |
-| #5 | ::{ flag= }:: []() |
-| #6 | ::{ flag= }:: []() |
-| #7 | ::{ flag= }:: []() |
-| #8 | ::{ flag= }:: []() |
-| #9 | ::{ flag= }:: []() |
-| #10 | ::{ flag= }:: []() |
-| #11 | ::{ flag= }:: []() |
-| #12 | ::{ flag= }:: []() |
-| #13 | ::{ flag= }:: []() |
-| #14 | ::{ flag= }:: []() |
-| #15 | ::{ flag= }:: []() |
-| #16 | ::{ flag= }:: []() |
-| #17 | ::{ flag= }:: []() |
-| #18 | ::{ flag= }:: []() |
-| #19 | ::{ flag= }:: []() |
-| #20 | ::{ flag= }:: []() |
-| #21 | ::{ flag= }:: []() |
-| #22 | ::{ flag= }:: []() |
-| #23 | ::{ flag= }:: []() |
-| #24 | ::{ flag= }:: []() |
-| #25 | ::{ flag= }:: []() |
-| #26 | ::{ flag= }:: []() |
-| #27 | ::{ flag= }:: []() |
-| #28 | ::{ flag= }:: []() |
-| #29 | ::{ flag= }:: []() |
-| #30 | ::{ flag= }:: []() |
-| #31 | ::{ flag= }:: []() |
-| #32 | ::{ flag= }:: []() |
-
-The complete sign-up list can be found [here]().
-
-## Podium
-
-![](img/podium.jpg "HRS 2024 podium")
-
-## Mappools
-
-### Qualifiers
-
-**[Download the mappack here ( MB)]()**
-
-- Hard Rock
-  1. [ARTIST-SONGNAME (MAPPER) \[DIFFNAME\]]()
-  2. [ARTIST-SONGNAME (MAPPER) \[DIFFNAME\]]()
-  3. [ARTIST-SONGNAME (MAPPER) \[DIFFNAME\]]()
-  4. [ARTIST-SONGNAME (MAPPER) \[DIFFNAME\]]()
-  5. [ARTIST-SONGNAME (MAPPER) \[DIFFNAME\]]()
-- Precision
-  1. [ARTIST-SONGNAME (MAPPER) \[DIFFNAME\]]()
-  2. [ARTIST-SONGNAME (MAPPER) \[DIFFNAME\]]()
-  3. [ARTIST-SONGNAME (MAPPER) \[DIFFNAME\]]()
-  4. [ARTIST-SONGNAME (MAPPER) \[DIFFNAME\]]()
-  5. [ARTIST-SONGNAME (MAPPER) \[DIFFNAME\]]()
-
-## Match results
-
-### Round of 32
-
-Detailed statistics for this round can be found [here]().
-
-Saturday, 16 March 2024:
-
-| Player A |  |  | Player B | Match link | VOD link |
-| --: | :-: | :-: | :-- | :-- | :-- |
-| ::{ flag= }:: []() |  |  | ::{ flag= }:: []() | [#1]() | [#1]() |
-| ::{ flag= }:: []() |  |  | ::{ flag= }:: []() | [#1]() | [#1]() |
-| ::{ flag= }:: []() |  |  | ::{ flag= }:: []() | [#1]() | [#1]() |
-| ::{ flag= }:: []() |  |  | ::{ flag= }:: []() | [#1]() | [#1]() |
-| ::{ flag= }:: []() |  |  | ::{ flag= }:: []() | [#1]() | [#1]() |
-| ::{ flag= }:: []() |  |  | ::{ flag= }:: []() | [#1]() | [#1]() |
-| ::{ flag= }:: []() |  |  | ::{ flag= }:: []() | [#1]() | [#1]() |
-| ::{ flag= }:: []() |  |  | ::{ flag= }:: []() | [#1]() | [#1]() |
-
-Sunday, 17 March 2024:
-
-| Player A |  |  | Player B | Match link | VOD link |
-| --: | :-: | :-: | :-- | :-- | :-- |
-| ::{ flag= }:: []() |  |  | ::{ flag= }:: []() | [#1]() | [#1]() |
-| ::{ flag= }:: []() |  |  | ::{ flag= }:: []() | [#1]() | [#1]() |
-| ::{ flag= }:: []() |  |  | ::{ flag= }:: []() | [#1]() | [#1]() |
-| ::{ flag= }:: []() |  |  | ::{ flag= }:: []() | [#1]() | [#1]() |
-| ::{ flag= }:: []() |  |  | ::{ flag= }:: []() | [#1]() | [#1]() |
-| ::{ flag= }:: []() |  |  | ::{ flag= }:: []() | [#1]() | [#1]() |
-| ::{ flag= }:: []() |  |  | ::{ flag= }:: []() | [#1]() | [#1]() |
-| ::{ flag= }:: []() |  |  | ::{ flag= }:: []() | [#1]() | [#1]() |
-
-### Qualifiers
-
-The final standings for the Qualifier stage can be found in the following [spreadsheet]().
-
-| Seed | Player | %MAX sum[^qualifiers-seeding] | avg. score[^qualifiers-tiebreaker] |
-| :-: | :-- | --: | --: |
-| #1 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #2 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #3 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #4 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #5 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #6 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #7 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #8 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #9 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #10 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #11 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #12 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #13 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #14 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #15 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #16 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #17 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #18 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #19 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #20 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #21 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #22 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #23 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #24 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #25 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #26 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #27 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #28 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #29 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #30 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #31 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #32 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #33 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #34 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #35 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #36 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #37 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #38 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #39 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #40 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #41 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #42 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #43 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #44 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #45 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #46 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #47 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #48 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #49 | ::{ flag= }:: []() | 99.999 | 999,999 |
-| #50 | ::{ flag= }:: []() | 99.999 | 999,999 |
 
 ## Ruleset
 
@@ -323,12 +168,12 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 1. Each stage will be held on **a single weekend**.
 2. Matches in the Qualifiers will be held during specific time slots proposed by the tournament managers. Each player may choose a time slot in which they want to play.
-   - **Players that do not pick a time slot by Saturday, 9 March 2024 (23:59 UTC) will be disqualified from the competition.**
+   - **Players that do not pick a time slot by Sunday, 17 March 2024 (23:59 UTC) will be disqualified from the competition.**
    - If none of the available time slots are satisfactory for a player they may, under extenating circumstances, request a *custom time.* These times will only be approved at the discretion of tournament management.
 3. All bracket stages will be held between Saturday 00:00 and Sunday 20:00 UTC.
 4. Match scheduling will be handled by the tournament managers. Schedules will be released on the Sunday before the first matches of the stage. The tournament managers will try to create the schedule to respect the participants' time zones.
    - In the Quarterfinals and subsequent stages, players may inform tournament managers if they expect a specific time slot to be unavailable in the following week.
-5. **Reschedules will only be considered if both players agree to a time and communicate it to the tournament managers, before Thursday 23:59 UTC of the week when the match is to take place.**
+5. **Reschedules will only be considered if both players agree to a time and communicate it to the tournament managers, before Friday 16:00 UTC of the week when the match is to take place.**
    - Matches may not be scheduled to any time beyond **Sunday, 20:00 UTC** of the week they are to be played at.
    - **Do not ask for a reschedule unless it is absolutely necessary. The tournament managers reserve the right to deny any rescheduling request.**
    - Late reschedule requests will not be accepted under any circumstances.
