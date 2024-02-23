@@ -8,7 +8,7 @@ Guess who's back? Back again. BN Mentorship's back. Tell a friend.
 
 ![](/wiki/shared/news/banners/bn-mentorship/banner.jpg)
 
-Putting aside the over two decade-old pop culture reference, cycle 2 of the BN Mentorship Program is starting its sign-up period as of the time of this article being posted! This is a mentorship course designed and operated by members of the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) for the formation of new [Beatmap Nominators](/wiki/People/Beatmap_Nominators), with an added bonus of going straight to a stint in [probation](/wiki/People/Beatmap_Nominators/#probationary-beatmap-nominators) if you're deemed ready by the end of the cycle.
+Putting aside the over two decade-old pop culture reference, cycle 2 of the BN Mentorship Program is starting its sign-up period as of the time of this article being posted! This is a mentorship course designed and operated by members of the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) for the formation of new [Beatmap Nominators](/wiki/People/Beatmap_Nominators), with an added bonus of going straight to a stint in [probation](/wiki/People/Beatmap_Nominators#probationary-beatmap-nominators) if you're deemed ready by the end of the cycle.
 
 This cycle will have mentors for all the previously supported game modes (osu!, osu!taiko and osu!mania) with a welcome surprise: for all the fruit lovers out there, this cycle includes an osu!catch course as well — with classes by our own elderly statesman [Greaper](https://osu.ppy.sh/users/2369776) and Brazilian mainstay [zerokt](https://osu.ppy.sh/users/13776127)!
 
