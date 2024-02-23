@@ -100,7 +100,7 @@ Hard Rock Showdown is run by various community members.
 
 1. Every user interested in participating signs up individually.
 2. To ensure valid registrations, every prospective participant will be manually checked by the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) process that is offered to community tournaments.
-   - To be successfully accepted on the list, players are required to be placed #15000 or higher on the osu! global ranking including [BWS][/wiki/Tournaments/Badge-weighted_seeding], and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
+   - To be successfully accepted on the list, players are required to be placed #15000 or higher on the osu! global ranking including [BWS](/wiki/Tournaments/Badge-weighted_seeding), and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 3. Tournament staff members are **not** allowed to play in the tournament, with the exception of commentators, statisticians, and streamers.
    - The tournament managers must ensure that such staff members do not have access to any priviledged data, e.g. Qualifiers score information, or mappool information before the mappool showcase.
 
@@ -162,7 +162,7 @@ Hard Rock Showdown is run by various community members.
 4. The bracket will be played with the [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) mod enabled for all players.
    - Players may optionally take [Hidden](/wiki/Gameplay/Game_modifier/Hidden) on all picks, however the 1.06x score multiplier will be removed after map completion.
 5. Failed scores will be counted. To that end, the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod will be enforced on every beatmap.
-7. The tiebreaker will be played under normal bracket conditions.
+6. The tiebreaker will be played under normal bracket conditions.
 
 ### Scheduling information
 
@@ -178,8 +178,3 @@ Hard Rock Showdown is run by various community members.
    - **Do not ask for a reschedule unless it is absolutely necessary. The tournament managers reserve the right to deny any rescheduling request.**
    - Late reschedule requests will not be accepted under any circumstances.
 6. Players are responsible for their own availability.
-
-## Notes
-
-[^qualifiers-seeding]: Used as the main seeding method
-[^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rating sum
