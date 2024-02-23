@@ -49,7 +49,7 @@ Hard Rock Showdown is run by various community members.
 
 ## Links
 
-- [Register Here](https://forms.gle/vuTvUuE1PBZ1uFot7)
+- [**Register here**](https://forms.gle/vuTvUuE1PBZ1uFot7)
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1887917?n=1)
 - [Livestream](https://www.twitch.tv/ChillierPear)
 - [Challonge bracket](https://challonge.com/HRS2024)
