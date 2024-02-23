@@ -112,14 +112,14 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Malaysia ::{ flag=MY }:: | ::{ flag=PH }:: Philippines | [Feb 24 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240224T120000&p1=1440&p2=122&p3=145) | [osulive](https://twitch.tv/osulive) | [^lb-gf-match] |
+| Malaysia ::{ flag=MY }:: | ::{ flag=PH }:: Philippines | [Feb 24 (Sat) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240224T153000&p1=1440&p2=122&p3=145) | [osulive](https://twitch.tv/osulive) | [^lb-gf-match] |
 
 ### Sunday, 25 February 2024
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=MY }:: Malaysia | [Feb 25 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240225T120000&p1=1440&p2=235&p3=122) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
-| South Korea ::{ flag=KR }:: | ::{ flag=PH }:: Philippines | [Feb 25 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240225T120000&p1=1440&p2=235&p3=145) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
+| South Korea ::{ flag=KR }:: | ::{ flag=MY }:: Malaysia | [Feb 25 (Sun) 11:45 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240225T114500&p1=1440&p2=235&p3=122) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
+| South Korea ::{ flag=KR }:: | ::{ flag=PH }:: Philippines | [Feb 25 (Sun) 11:45 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240225T114500&p1=1440&p2=235&p3=145) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
 
 ## Mappools
 
@@ -545,7 +545,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
    2. The loser of the `!roll` starts banning one beatmap, followed by the winner of the `!roll` to ban a beatmap.
    3. The winner of the `!roll` starts picking the first beatmap of the match.
 3. After bans are decided, both teams will take turns in picking a beatmap from the mappool.
-4. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than alloted for either action, the procedures adopted will be as follows:
+4. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than allotted for either action, the procedures adopted will be as follows:
    - For the first occurrence:
      - The team will receive a verbal warning from the referee; in addition, the referee may opt to forcefully use the team's tactical timeout to allow for the team to pick.
      - If the team does not pick a map within 15 seconds from when the timer expires, the referee will apply the procedure for subsequent occurrences listed below, i.e. a random pick will be used for a pick timer, and the match will be forcefully started for a ready timer.
