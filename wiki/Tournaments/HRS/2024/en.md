@@ -63,10 +63,10 @@ Hard Rock Showdown is run by various community members.
 3. The mappool for each round will be announced by the mappool selectors on the official stream, on the Sunday before the matches take place.
 4. The match schedules for each round will be announced by the tournament managers on this page, as well as the information spreadsheet, on the Sunday before the matches take place.
 5. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins is allowed.
-   - Custom skin elements must not be used to alter core gameplay elements or mechanics in unintended ways.
+  - Custom skin elements must not be used to alter core gameplay elements or mechanics in unintended ways.
 6. If either player is not present at match time, the match can be postponed for up to 10 minutes. If after this period there are still players missing, a *win by default* will be declared for the side who was present.
-   - The minimum amount of required players is the amount of players needed to play a beatmap without any vacant spots in the lobby (i.e. the participant must be present for the match to begin).
-   - If neither side is present, both players will be eliminated from the tournament.
+  - The minimum amount of required players is the amount of players needed to play a beatmap without any vacant spots in the lobby (i.e. the participant must be present for the match to begin).
+  - If neither side is present, both players will be eliminated from the tournament.
 7. If a point ends in a draw, it will be nullified and the beatmap will be replayed.
 8. Players may ask for a rematch if they encounter technical issues while playing within 30 seconds or 25% of the beatmap drain length (whichever happens first) of the game's start. Referees may, at their discretion, veto this request.
   - "Lag spikes" are not considered a valid reason to rematch a beatmap.
