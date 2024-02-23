@@ -18,7 +18,7 @@ The full list of mentors is as follows:
 | :-- | :-- | :-- | :-- |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) |
 | ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763) | ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) | ::{ flag=BR }:: [zerokt](https://osu.ppy.sh/users/13776127) | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) |
-| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) / ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) (joint class) | ::{ flag=AU }:: [Yasuho](https://osu.ppy.sh/users/8458835) |  |  |
+| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) / ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) (joint class) | ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) |  |  |
 | ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) |  |  |  |
 
 [![Application link](/wiki/shared/news/banners/bn-mentorship/apply.png)](https://forms.gle/Bfx1AK34naWPMs2U6)
