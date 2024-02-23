@@ -112,7 +112,7 @@ Hard Rock Showdown is run by various community members.
 3. The Qualifier pool will feature 10 beatmaps, organised as such:
    - Hard Rock: 5 beatmaps
    - Precision: 5 beatmaps
-4. Players will be asked to play the mappool twice at a designated time. The players's best playthrough will be used for seeding.
+4. Players will be asked to play the mappool twice at a designated time. Each players's best playthrough will be used for seeding.
 5. The mappool is to be played according to the order listed on this page.
    - Players may skip playing any beatmap on their second run.
 6. An optional 3-minute break will be offered between the first and second playthrough of the mappool.
@@ -141,14 +141,14 @@ Hard Rock Showdown is run by various community members.
    - The winner of the `!roll` may decide either the **pick** or **ban** order.
    - The loser of the `!roll` decides the remaining order.
    - **From Quarterfinals onwards, the first player will ban one beatmap, followed by two bans from second player, finishing with one ban from the first player.**
-4. After bans are decided, both player will take turns in picking a beatmap from the mappool.
-5. player will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a player takes more time than alloted for either action, the procedures adopted will be as follows:
+4. After bans are decided, both players will take turns in picking a beatmap from the mappool.
+5. Players will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a player takes more time than allotted for either action, the procedures adopted will be as follows:
    - For the first occurrence:
      - The player will receive a verbal warning from the referee.
      - If the player does not pick a map within 15 seconds from when the timer expires, the referee will apply the procedure for subsequent occurrences listed below, i.e. a random pick will be used for a pick timer, and the match will be forcefully started for a ready timer.
    - On subsequent occurrences:
      - For a pick timer: a random map will be chosen from the mappool using `!roll X`, where X is the number of beatmaps that were neither picked nor banned, excluding the tiebreaker.
-     - For a ready timer: the referee will issue the `!mp start 10` command, regardless of if both players are present in the lobby. The results for such games are to be taken as is.
+     - For a ready timer: the referee will issue the `!mp start 10` command, regardless of whether both players are present in the lobby. The results for such games are to be taken as is.
      - Repeat offenders may receive further sanctions from the tournament managers.
 
 ### Mappool information
@@ -160,7 +160,7 @@ Hard Rock Showdown is run by various community members.
    - Round of 32 and Round of 16: 15 beatmaps
    - Quarterfinals, Semifinals, Finals, and Grand Finals: 20 beatmaps
 4. The bracket will be played with the [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) mod enabled for all players.
-   - Players may optionally take [Hidden](/wiki/Gameplay/Game_modifier/Hidden) on all picks, however the 1.06x score multiplier will be removed after map completion.
+   - Players may optionally take [Hidden](/wiki/Gameplay/Game_modifier/Hidden) on all picks, but the 1.06x score multiplier will be removed after map completion.
 5. Failed scores will be counted. To that end, the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod will be enforced on every beatmap.
 6. The tiebreaker will be played under normal bracket conditions.
 
@@ -169,7 +169,7 @@ Hard Rock Showdown is run by various community members.
 1. Each stage will be held on **a single weekend**.
 2. Matches in the Qualifiers will be held during specific time slots proposed by the tournament managers. Each player may choose a time slot in which they want to play.
    - **Players that do not pick a time slot by Sunday, 17 March 2024 (23:59 UTC) will be disqualified from the competition.**
-   - If none of the available time slots are satisfactory for a player they may, under extenating circumstances, request a *custom time.* These times will only be approved at the discretion of tournament management.
+   - If none of the available time slots are satisfactory for a player they may, under extenuating circumstances, request a *custom time*. These times will only be approved at the discretion of tournament management.
 3. All bracket stages will be held between Saturday 00:00 and Sunday 20:00 UTC.
 4. Match scheduling will be handled by the tournament managers. Schedules will be released on the Sunday before the first matches of the stage. The tournament managers will try to create the schedule to respect the participants' time zones.
    - In the Quarterfinals and subsequent stages, players may inform tournament managers if they expect a specific time slot to be unavailable in the following week.
