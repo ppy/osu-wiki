@@ -9,6 +9,8 @@ tags:
   - 客户端搜索
   - 网页搜索
   - 筛选谱面
+outdated_translation: true
+outdated_since: 732ca28d8f8718a1bd62e52d3552d5bb7241803d
 ---
 
 # 谱面搜索
