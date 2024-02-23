@@ -8,7 +8,7 @@ tags:
 
 ![HRS 2024 banner](img/banner.png)
 
-**Hard Rock Showdown 2024** (***HRS 2024***) is an international 1v1 osu! tournament hosted by [ChillierPear](https://osu.ppy.sh/users/9501251). It is the first instalment of Hard Rock Showdown.
+**Hard Rock Showdown 2024** (***HRS 2024***) is an international 1v1 osu! tournament hosted by ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251). It is the first instalment of Hard Rock Showdown.
 
 ## Tournament schedule
 
