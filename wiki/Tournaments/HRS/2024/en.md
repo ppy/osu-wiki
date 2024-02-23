@@ -30,7 +30,7 @@ tags:
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge (pending), Wooting UwU keypad |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Foxbox tablet cover (HRS-themed) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | osu! supporter for 6 months |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 6 months of osu!supporter |
 
 ## Organisation
 
