@@ -69,28 +69,28 @@ Hard Rock Showdown is run by various community members.
    - If neither side is present, both players will be eliminated from the tournament.
 7. If a point ends in a draw, it will be nullified and the beatmap will be replayed.
 8. Players may ask for a rematch if they encounter technical issues while playing within 30 seconds or 25% of the beatmap drain length (whichever happens first) of the game's start. Referees may, at their discretion, veto this request.
-    - "Lag spikes" are not considered a valid reason to rematch a beatmap.
-    - This rule is not to be abused. Referees may veto a rematch request if they find that this is the case.
+  - "Lag spikes" are not considered a valid reason to rematch a beatmap.
+  - This rule is not to be abused. Referees may veto a rematch request if they find that this is the case.
 9. If a player disconnects mid-game, their scores will not be counted, unless adequate proof of said score is provided. The following are considered as acceptable proof:
-    - Player point-of-view live stream snippets (commonly referred to as "clips" or "VODs"). The entirety of the play, along with the results screen must be clearly visible along with the affected player's score.
-    - Replay files of the play, taken directly from the "Local scores" tab on the affected player's client (the timestamps must exactly match the time at which the game took place, as seen on the multiplayer lobby link).
-    - Screenshots from other players taken directly in-game that show the affected player's score.
-      - Screenshots from the results screen must clearly show the affected player's score. This is the preferred method.
-      - Screenshots taken in-game at the time of disconnection may be accepted. Note that this method does not provide a one-to-one representation of that player's score. Using this method is not encouraged and it may be denied at the referee's discretion if the information provided is not sufficient to identify the player/score.
-      - All screenshots **MUST** be taken using the game itself (using `Shift` + `F12`), that is, they must be hosted on the `https://osu.ppy.sh/` domain. Any other form of screenshot will be denied.
-    - Player scores may be derived from the official stream as a last resort, in cases where the match is streamed.
+  - Player point-of-view live stream snippets (commonly referred to as "clips" or "VODs"). The entirety of the play, along with the results screen must be clearly visible along with the affected player's score.
+  - Replay files of the play, taken directly from the "Local scores" tab on the affected player's client (the timestamps must exactly match the time at which the game took place, as seen on the multiplayer lobby link).
+  - Screenshots from other players taken directly in-game that show the affected player's score.
+    - Screenshots from the results screen must clearly show the affected player's score. This is the preferred method.
+    - Screenshots taken in-game at the time of disconnection may be accepted. Note that this method does not provide a one-to-one representation of that player's score. Using this method is not encouraged and it may be denied at the referee's discretion if the information provided is not sufficient to identify the player/score.
+    - All screenshots **MUST** be taken using the game itself (using `Shift` + `F12`), that is, they must be hosted on the `https://osu.ppy.sh/` domain. Any other form of screenshot will be denied.
+  - Player scores may be derived from the official stream as a last resort, in cases where the match is streamed.
 10. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied by the tournament managers. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match, and other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
 11. Any attempts to manipulate bracket outcomes or future matchups may result in the immediate disqualification of the player from the competition. Examples of manipulative behavior include, but are not limited to:
-    - Colluding with other players to force a desired matchup.
-    - Deliberately playing poorly to lose a game or match.
-    - Forfeiting bracket matches without providing an adequate reasoning, or with the intention of getting a more favourable matchup.
+  - Colluding with other players to force a desired matchup.
+  - Deliberately playing poorly to lose a game or match.
+  - Forfeiting bracket matches without providing an adequate reasoning, or with the intention of getting a more favourable matchup.
 12. All players and staff must be treated with respect. Instructions from the referees and the tournament managers are to be followed. Decisions labelled as final are not to be objected.
 13. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms where the matches will take place.
 14. Penalties for violating the tournament rules include, but are not limited to:
-    - Declaring a point as a win by default for the other player.
-    - Declaring the match as forfeited, or as a win by default for the other player.
-    - Disqualification from the entire tournament.
-    - Disqualification from the current and future official tournaments, until appealed.
+  - Declaring a point as a win by default for the other player.
+  - Declaring the match as forfeited, or as a win by default for the other player.
+  - Disqualification from the entire tournament.
+  - Disqualification from the current and future official tournaments, until appealed.
 15. Referees may allow, at their discretion, lower or higher tolerances for timers.
 16. The tournament managers may request liveplays or recordings of individual players or teams at any point in the tournament without prior warning.
 17. The tournament managers will be responsible for receiving and investigating any tournament-related complaints.
@@ -100,21 +100,21 @@ Hard Rock Showdown is run by various community members.
 
 1. Every user interested in participating signs up individually.
 2. To ensure valid registrations, every prospective participant will be manually checked by the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) process that is offered to community tournaments.
-   - To be successfully accepted on the list, players are required to be placed #15000 or higher on the osu! global ranking including [BWS](/wiki/Tournaments/Badge-weighted_seeding), and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
+  - To be successfully accepted on the list, players are required to be placed #15000 or higher on the osu! global ranking including [BWS](/wiki/Tournaments/Badge-weighted_seeding), and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 3. Tournament staff members are **not** allowed to play in the tournament, with the exception of commentators, statisticians, and streamers.
-   - The tournament managers must ensure that such staff members do not have access to any priviledged data, e.g. Qualifiers score information, or mappool information before the mappool showcase.
+  - The tournament managers must ensure that such staff members do not have access to any priviledged data, e.g. Qualifiers score information, or mappool information before the mappool showcase.
 
 ### Qualifier instructions
 
 1. In the Qualifier stage, all players will play a specific pool designed by the mappool selectors.
 2. The mappool will contain 2 brackets: [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), and Precision. There will be no Free Mods or tiebreakers for this stage.
-   - "Precision" is a mod-pool specific to HRS which includes only maps with a CS rating >=6.5 after adding [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock).
+  - "Precision" is a mod-pool specific to HRS which includes only maps with a CS rating >=6.5 after adding [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock).
 3. The Qualifier pool will feature 10 beatmaps, organised as such:
-   - Hard Rock: 5 beatmaps
-   - Precision: 5 beatmaps
+  - Hard Rock: 5 beatmaps
+  - Precision: 5 beatmaps
 4. Players will be asked to play the mappool twice at a designated time. The players's best playthrough will be used for seeding.
 5. The mappool is to be played according to the order listed on this page.
-   - Players may skip playing any beatmap on their second run.
+  - Players may skip playing any beatmap on their second run.
 6. An optional 3-minute break will be offered between the first and second playthrough of the mappool.
 7. All players will play their qualifiers in rooms of up to 16 players. It is *suggested* that players do not broadcast or share their results publicly to avoid seed manipulation.
 8. Only the top 32 seeded players will advance to the Round of 32.
@@ -135,32 +135,32 @@ Hard Rock Showdown is run by various community members.
 ### Match procedures
 
 1. A referee will create a multiplayer room 10 minutes before the scheduled match time. Players must join the lobby in that period.
-   - The room settings are `Game mode: "osu!"`, `Team mode: "Head-to-head"` and `Score mode: "ScoreV2"`. The room name must follow the pattern of `HRS2024: ({Player 1}) VS ({Player 2})`.
+  - The room settings are `Game mode: "osu!"`, `Team mode: "Head-to-head"` and `Score mode: "ScoreV2"`. The room name must follow the pattern of `HRS2024: ({Player 1}) VS ({Player 2})`.
 2. Each player may ban **one beatmap** to be selected from the pool in the Round of 32 and Round of 16, increased to **two beatmaps** from Quarterfinals onwards. These beatmaps may not be picked by any player for the entire duration of the match.
 3. Each player must use `!roll` once in the match's chatroom. After the rolls are set, the pick and ban phase will have the following steps:
-   - The winner of the `!roll` may decide either the **pick** or **ban** order.
-   - The loser of the `!roll` decides the remaining order.
-   - **From Quarterfinals onwards, the first player will ban one beatmap, followed by two bans from second player, finishing with one ban from the first player.**
+  - The winner of the `!roll` may decide either the **pick** or **ban** order.
+  - The loser of the `!roll` decides the remaining order.
+  - **From Quarterfinals onwards, the first player will ban one beatmap, followed by two bans from second player, finishing with one ban from the first player.**
 4. After bans are decided, both player will take turns in picking a beatmap from the mappool.
 5. player will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a player takes more time than alloted for either action, the procedures adopted will be as follows:
-   - For the first occurrence:
-     - The player will receive a verbal warning from the referee.
-     - If the player does not pick a map within 15 seconds from when the timer expires, the referee will apply the procedure for subsequent occurrences listed below, i.e. a random pick will be used for a pick timer, and the match will be forcefully started for a ready timer.
-   - On subsequent occurrences:
-     - For a pick timer: a random map will be chosen from the mappool using `!roll X`, where X is the number of beatmaps that were neither picked nor banned, excluding the tiebreaker.
-     - For a ready timer: the referee will issue the `!mp start 10` command, regardless of if both players are present in the lobby. The results for such games are to be taken as is.
-     - Repeat offenders may receive further sanctions from the tournament managers.
+  - For the first occurrence:
+    - The player will receive a verbal warning from the referee.
+    - If the player does not pick a map within 15 seconds from when the timer expires, the referee will apply the procedure for subsequent occurrences listed below, i.e. a random pick will be used for a pick timer, and the match will be forcefully started for a ready timer.
+  - On subsequent occurrences:
+    - For a pick timer: a random map will be chosen from the mappool using `!roll X`, where X is the number of beatmaps that were neither picked nor banned, excluding the tiebreaker.
+    - For a ready timer: the referee will issue the `!mp start 10` command, regardless of if both players are present in the lobby. The results for such games are to be taken as is.
+    - Repeat offenders may receive further sanctions from the tournament managers.
 
 ### Mappool information
 
 1. Every stage will have its own mappool.
 2. Each mappool will consist of only 1 bracket: [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock).
 3. The mappool sizes are as follows:
-   - Qualifiers: 10 beatmaps
-   - Round of 32 and Round of 16: 15 beatmaps
-   - Quarterfinals, Semifinals, Finals, and Grand Finals: 20 beatmaps
+  - Qualifiers: 10 beatmaps
+  - Round of 32 and Round of 16: 15 beatmaps
+  - Quarterfinals, Semifinals, Finals, and Grand Finals: 20 beatmaps
 4. The bracket will be played with the [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) mod enabled for all players.
-   - Players may optionally take [Hidden](/wiki/Gameplay/Game_modifier/Hidden) on all picks, however the 1.06x score multiplier will be removed after map completion.
+  - Players may optionally take [Hidden](/wiki/Gameplay/Game_modifier/Hidden) on all picks, however the 1.06x score multiplier will be removed after map completion.
 5. Failed scores will be counted. To that end, the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod will be enforced on every beatmap.
 6. The tiebreaker will be played under normal bracket conditions.
 
@@ -168,13 +168,13 @@ Hard Rock Showdown is run by various community members.
 
 1. Each stage will be held on **a single weekend**.
 2. Matches in the Qualifiers will be held during specific time slots proposed by the tournament managers. Each player may choose a time slot in which they want to play.
-   - **Players that do not pick a time slot by Sunday, 17 March 2024 (23:59 UTC) will be disqualified from the competition.**
-   - If none of the available time slots are satisfactory for a player they may, under extenating circumstances, request a *custom time.* These times will only be approved at the discretion of tournament management.
+  - **Players that do not pick a time slot by Sunday, 17 March 2024 (23:59 UTC) will be disqualified from the competition.**
+  - If none of the available time slots are satisfactory for a player they may, under extenating circumstances, request a *custom time.* These times will only be approved at the discretion of tournament management.
 3. All bracket stages will be held between Saturday 00:00 and Sunday 20:00 UTC.
 4. Match scheduling will be handled by the tournament managers. Schedules will be released on the Sunday before the first matches of the stage. The tournament managers will try to create the schedule to respect the participants' time zones.
-   - In the Quarterfinals and subsequent stages, players may inform tournament managers if they expect a specific time slot to be unavailable in the following week.
+  - In the Quarterfinals and subsequent stages, players may inform tournament managers if they expect a specific time slot to be unavailable in the following week.
 5. **Reschedules will only be considered if both players agree to a time and communicate it to the tournament managers, before Friday 16:00 UTC of the week when the match is to take place.**
-   - Matches may not be scheduled to any time beyond **Sunday, 20:00 UTC** of the week they are to be played at.
-   - **Do not ask for a reschedule unless it is absolutely necessary. The tournament managers reserve the right to deny any rescheduling request.**
-   - Late reschedule requests will not be accepted under any circumstances.
+  - Matches may not be scheduled to any time beyond **Sunday, 20:00 UTC** of the week they are to be played at.
+  - **Do not ask for a reschedule unless it is absolutely necessary. The tournament managers reserve the right to deny any rescheduling request.**
+  - Late reschedule requests will not be accepted under any circumstances.
 6. Players are responsible for their own availability.
