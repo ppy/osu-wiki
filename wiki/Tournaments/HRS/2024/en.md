@@ -40,7 +40,7 @@ Hard Rock Showdown is run by various community members.
 | :-- | :-- |
 | Manager | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) |
 | Mappool selector | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=GB }:: [lystia](https://osu.ppy.sh/users/11042418) |
-| Mappool playtester | ::{ flag=CA }:: [alden](https://osu.ppy.sh/users/3545323), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=CA }:: [nanawo](https://osu.ppy.sh/users/5426640), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351) |
+| Mappool playtester | ::{ flag=CA }:: [alden](https://osu.ppy.sh/users/3545323), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=CA }:: [nanawo](https://osu.ppy.sh/users/5426640) |
 | Mapper | *TBD* |
 | Commentator | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189) |
 | Referee | ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
@@ -50,6 +50,7 @@ Hard Rock Showdown is run by various community members.
 ## Links
 
 - [**Register here**](https://forms.gle/vuTvUuE1PBZ1uFot7)
+- [Discord server](https://discord.gg/aEkWWEeaaq)
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1887917?n=1)
 - [Livestream](https://www.twitch.tv/ChillierPear)
 - [Challonge bracket](https://challonge.com/HRS2024)
