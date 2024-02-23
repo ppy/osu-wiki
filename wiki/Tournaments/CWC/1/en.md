@@ -73,7 +73,7 @@ The Catch the Beat World Cup was run by various osu!catch community members.
 ## Groups
 
 | Group | Seed 1 | Seed 2 | Seed 3 | Seed 4 | Seed 5 |
-| :--  | :--  | :-- | :-- | :-- | :-- |
+| :-- | :-- | :-- | :-- | :-- | :-- |
 | A | The Hidden Ones | Viciados em Crack | Champion The Beat | Indonesia | Lone wolfs |
 | B | State(s) of the Art | CFC | Hungary CTB | #filipino | Old School |
 | C | Team Nub | half manual player team | Red Fury | German Hentai's | Indonesia II |
