@@ -108,7 +108,7 @@ Hard Rock Showdown is run by various community members.
 
 1. In the Qualifier stage, all players will play a specific pool designed by the mappool selectors.
 2. The mappool will contain 2 brackets: [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), and Precision. There will be no Free Mods or tiebreakers for this stage.
-   - "Precision" is a mod-pool specific to HRS which includes only maps with a CS rating >=6.5 after adding [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock).
+   - "Precision" is a mod pool specific to HRS which includes only maps with a CS rating >=6.5 after adding [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock).
 3. The Qualifier pool will feature 10 beatmaps, organised as such:
    - Hard Rock: 5 beatmaps
    - Precision: 5 beatmaps
