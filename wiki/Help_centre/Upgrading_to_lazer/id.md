@@ -64,11 +64,11 @@ Berikut merupakan daftar berbagai hal yang membedakan versi lazer **saat ini** d
 
 | Fitur | stable | lazer |
 | :-- | :-- | :-- |
-| Submisi skor | ![Ya][true] | ![Parsial][partial][^score-reset-balance] |
-| Papan peringkat beatmap | ![Ya][true] | ![Parsial][partial][^score-reset-isolated] |
+| Submisi skor | ![Ya][true] | ![Ya][true] |
+| Papan peringkat beatmap | ![Ya][true] | ![Ya][true] |
 | Statistik profil | ![Ya][true] | ![Ya][true] |
 | Medali | ![Ya][true] | ![Tidak][false] |
-| Performance point | ![Ya][true] | ![Parsial][partial][^score-reset-isolated] |
+| Performance point | ![Ya][true] | ![Ya][true] |
 | Percakapan yang berlangsung secara real-time | ![Parsial][partial][^stable-chat] | ![Ya][true] |
 | Akses kilat ke laman wiki / berita / riwayat pembaruan / peringkat | ![Tidak][false] | ![Ya][true][^online-content] |
 | Akses kilat ke laman profil pengguna | ![Tidak][false] | ![Ya][true] |
@@ -278,8 +278,6 @@ osu! tidak menganut sistem mikrotransaksi. Kamu mungkin sedang berpikir tentang 
 [^offset-calibration-lazer]: Pada saat memulai ulang beatmap, kamu dapat menyesuaikan offset berdasarkan permainan terakhirmu.
 [^can-disable]: Dapat dinonaktifkan.
 [^note-lock]: Note lock masih ada di lazer, namun tidak lagi merugikan pemain seperti pada stable.
-[^score-reset-balance]: Seluruh skor ke depannya akan diatur ulang untuk menyeimbangkan permainan.
-[^score-reset-isolated]: Seluruh skor saat ini ditempatkan pada papan peringkat terpisah yang ke depannya juga akan diatur ulang.
 [^online-content]: Hampir seluruh konten online yang ada dapat diakses dari dalam permainan.
 [^direct-supporter]: Khusus pemilik osu!supporter melalui fitur osu!direct.
 [^multi-room-max]: Terbatas hanya pada 16 pemain.
