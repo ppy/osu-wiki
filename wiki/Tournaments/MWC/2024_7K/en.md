@@ -58,7 +58,6 @@ The osu!mania 7K World Cup 2024 is run by the osu! team and various community me
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1857033)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/135) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Challonge bracket](https://challonge.com/MWC7K_2024)
-- [Support your team](https://osu.ppy.sh/store/products/1251)
 
 ## Participants
 
@@ -108,18 +107,11 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
 
 ## Match Schedule: Grand Finals
 
-### Saturday, 24 February 2024
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| Malaysia ::{ flag=MY }:: | ::{ flag=PH }:: Philippines | [Feb 24 (Sat) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240224T153000&p1=1440&p2=122&p3=145) | [osulive](https://twitch.tv/osulive) | [^lb-gf-match] |
-
 ### Sunday, 25 February 2024
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
 | South Korea ::{ flag=KR }:: | ::{ flag=MY }:: Malaysia | [Feb 25 (Sun) 11:45 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240225T114500&p1=1440&p2=235&p3=122) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
-| South Korea ::{ flag=KR }:: | ::{ flag=PH }:: Philippines | [Feb 25 (Sun) 11:45 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240225T114500&p1=1440&p2=235&p3=145) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
 
 ## Mappools
 
@@ -282,6 +274,14 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2
 8. [Raimukun - Cthulhu (Leeju) \[Stage 8: Abyss\]](https://osu.ppy.sh/beatmapsets/2115980#mania/4443612)
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 24 February 2024:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Malaysia** ::{ flag=MY }:: | **7** | 6 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/112808432) | [#1](https://www.twitch.tv/videos/2072439938) |
 
 ### Finals
 
@@ -588,7 +588,6 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ## Notes
 
-[^lb-gf-match]: Losers bracket Grand Finals match
 [^gf-match]: Grand Finals match — matchup depends on the results of the preceding losers bracket Grand Finals match
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same average rank
