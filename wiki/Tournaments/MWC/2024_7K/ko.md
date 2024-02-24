@@ -58,7 +58,6 @@ osu!mania 7키 월드컵 2024는 osu! 팀과 여러명의 커뮤니티 멤버들
 - [논의 스레드](https://osu.ppy.sh/community/forums/topics/1857033)
 - ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)가 운영하는 [Pick'em 승부예측 페이지](https://pickem.hwc.hr/tournaments/135)
 - [Challonge 대진표](https://challonge.com/MWC7K_2024)
-- [팀 지원하기](https://osu.ppy.sh/store/products/1251)
 
 ## 참가자
 
@@ -589,7 +588,6 @@ osu!mania 7키 월드컵 2024는 osu! 팀과 여러명의 커뮤니티 멤버들
 
 ### 노트
 
-[^lb-gf-match]: 그랜드 파이널 패자조 경기
 [^gf-match]: 패자조 경기 결과에 따라 달라지는 그랜드 파이널 경기입니다
 [^qualifiers-seeding]: 주된 시드 배정 방법으로 사용합니다
 [^qualifiers-tiebreaker]: 두 팀의 average rank 값이 동일할 경우 타이브레이커로 사용합니다
