@@ -194,6 +194,12 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | [Great Singapore Tournament](GST/1) | 18/06/2019 | 04/08/2019 | Tom and Jerry | Broken Family | Ranked Score |
 | [Great Singapore Tournament 2](GST/2) | 29/11/2019 | 19/01/2020 | tamade | Mahathir bin Moh | Tom and Jerry |
 
+#### Hard Rock Showdown
+
+| Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne de bronze][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Hard Rock Showdown](HRS) | 23/02/2024 | 28/04/2024 | *À déterminer* | *À déterminer* | *À déterminer* |
+
 #### Hidden Only Tournament
 
 | Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne de bronze][BCrown] |
