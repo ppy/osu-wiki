@@ -17,7 +17,7 @@ Beatmap metadata fields can be compared against specific values for more granula
 
 | Comparison | Description |
 | :-: | :-- |
-| `=` or `==` | Equal to |
+| `=` (everywhere), `==` (stable), `:` (lazer and web) | Equal to |
 | `!=` | Not equal to |
 | `<` | Less than |
 | `>` | Greater than |
@@ -26,7 +26,7 @@ Beatmap metadata fields can be compared against specific values for more granula
 
 ## Client
 
-*Note: the filters only work at the song selection screen, while osu!direct supports regular full-text search instead.*
+*Note: The filters only work at the song selection screen, while [osu!direct](/wiki/osu!supporter#osu!direct) only supports regular full-text search.*
 
 | Filter | Description |
 | :-: | :-- |
@@ -54,6 +54,8 @@ Beatmap metadata fields can be compared against specific values for more granula
 | Filter | Description |
 | :-: | :-- |
 | `artist` | Name of the artist |
+| `title` | Name of the song |
+| `source` | The medium, such as a video game, movie, series, or event, where the song originated from or which it is best associated with |
 | `featured_artist` | Identifier of a [Featured Artist](/wiki/People/Featured_Artists) entry |
 | `creator` | Name of the difficulty creator |
 | `difficulty` | Name of the beatmap difficulty |
@@ -77,6 +79,7 @@ Beatmap metadata fields can be compared against specific values for more granula
 | `artist` | Name of the artist |
 | `title` | Name of the song |
 | `creator` | Name of the difficulty creator |
+| `diff` | Name of the beatmap difficulty |
 | `ar` | [Approach rate](/wiki/Beatmap/Approach_rate) |
 | `cs` | [Circle size](/wiki/Beatmap/Circle_size) |
 | `od` | [Overall difficulty](/wiki/Beatmap/Overall_difficulty) |
@@ -86,6 +89,8 @@ Beatmap metadata fields can be compared against specific values for more granula
 | `length` | [Play time](/wiki/Beatmap/Play_time) in seconds |
 | `key`, `keys` | Number of keys (osu!mania and converted beatmaps only) |
 | `status` | Beatmap status. Value can be `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, or `loved`, or `r`/`a`/`p`/`n`/`u`/`l` for short. |
+| `played`, `lastplayed` | Time since last played. Accepts a format of `#y#M#d#h#m#s`, for years, months, days, hours, minutes, and seconds respectively. For example,`2d5s` means "2 days and 5 seconds". |
+| `divisor` | The denominator of the [beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
 
 ## Example queries
 
@@ -113,7 +118,19 @@ unplayed= status=r christmas
 ranked>=2010-08 ranked<2010-11 creator=Natteke
 ```
 
+(Lazer) Find beatmap difficulties that have been played within 2 months and 5 hours ago:
+
+```
+played<2M5h
+```
+
+(Lazer) Find beatmap difficulties that have not been played within the past year:
+
+```
+lastplayed>1y
+```
+
 ## References
 
-[^website-filters]: [osu!web source code](https://github.com/ppy/osu-web/blob/a61a75f016eb1cac61e3c4da5e472a31e9ed57b0/app/Libraries/Search/BeatmapsetQueryParser.php)
-[^lazer-filters]: [osu!(lazer) source code](https://github.com/ppy/osu/blob/270c03235d280ccca3aecea776fb9517635ed695/osu.Game/Screens/Select/FilterQueryParser.cs)
+[^website-filters]: [osu!web source code](https://github.com/ppy/osu-web/blob/c1a5dc390634accc87c12cb2cead73c45d8e7ad5/app/Libraries/Search/BeatmapsetQueryParser.php)
+[^lazer-filters]: [osu!(lazer) source code](https://github.com/ppy/osu/blob/ae9a2661ace43a96a4fbf26072ed3efd0dc0ba54/osu.Game/Screens/Select/FilterQueryParser.cs)

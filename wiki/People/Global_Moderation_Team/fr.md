@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: 918808cb4826bd1b2d3f8eb4f61b5262ae09c741
 no_native_review: true
 tags:
   - GMT
@@ -60,8 +58,8 @@ En général, l'équipe observe les personnes pendant plusieurs semaines ou plus
 Les Global Moderators bénéficient des avantages suivants :
 
 - **Tag [osu!supporter](/wiki/osu!supporter)** : Un tag de osu!supporter qui dure toute la durée de l'adhésion à l'équipe.
-- **Insigne de titulaire** : Un [badge de profil](/wiki/Community/Profile_badge) qui affiche le nombre d'années de participation à la GMT, à partir de 3.
-  ![Badge GMT 3 ans](https://assets.ppy.sh/profile-badges/GMT3y.png "Badge GMT 3 ans") ![Badge GMT 4 ans](https://assets.ppy.sh/profile-badges/GMT4y.png "Badge GMT 4 ans") ![Badge GMT 5 ans](https://assets.ppy.sh/profile-badges/GMT5y.png "Badge GMT 5 ans")
+- **Insigne de titulaire** : Un [badge de profil](/wiki/Community/Profile_badge) qui affiche le nombre d'années de participation à la GMT, allant de 1 à 10.
+  ![Badge GMT 1 an](https://assets.ppy.sh/profile-badges/GMT1y.png "Badge GMT 1 an") ![Badge GMT 2 ans](https://assets.ppy.sh/profile-badges/GMT2y.png "Badge GMT 2 ans") ![Badge GMT 3 ans](https://assets.ppy.sh/profile-badges/GMT3y.png?2024 "Badge GMT 3 ans") ![Badge GMT 4 ans](https://assets.ppy.sh/profile-badges/GMT4y.png?2024 "Badge GMT 4 ans") ![Badge GMT 5 ans](https://assets.ppy.sh/profile-badges/GMT5y.png?2024 "Badge GMT 5 ans") ![Badge GMT 6 ans](https://assets.ppy.sh/profile-badges/GMT6y.png "Badge GMT 6 ans") ![Badge GMT 7 ans](https://assets.ppy.sh/profile-badges/GMT7y.png "Badge GMT 7 ans") ![Badge GMT 8 ans](https://assets.ppy.sh/profile-badges/GMT8y.png "Badge GMT 8 ans") ![Badge GMT 9 ans](https://assets.ppy.sh/profile-badges/GMT9y.png "Badge GMT 9 ans") ![Badge GMT 10 ans](https://assets.ppy.sh/profile-badges/GMT10y.png "Badge GMT 10 ans")
 
 ## Départ de l'équipe
 

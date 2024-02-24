@@ -279,6 +279,7 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | Akiri Feat. InabaYap - Tonight We Fly[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2134137) | Finals HB2 |
 | [Junk - Kagaribi](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Junk&query=%22Kagaribi%22)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2130665) | Semifinals RC6 |
 | Lime - Campanella[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2134145) | Finals RC3 |
+| [seatrus - DiSANiMATE](https://soundcloud.com/seatrus_frontier/from-mwc-2024-grandfinals-tiebreaker-seatrus-disanimate)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2137728) | Grand Finals tiebreaker |
 | [Sydosys - Voyage](https://soundcloud.com/sydosys/voyage)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2130624) | Semifinals RC4 |
 | technoplanet - Vomit | [#1](https://osu.ppy.sh/beatmapsets/2134140) | Finals HB3 |
 

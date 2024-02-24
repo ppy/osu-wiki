@@ -326,7 +326,7 @@ The final standings for the Qualifier stage can be found at the following [sprea
 4. Each player must use `!roll` once in `#multiplayer`.
    - The winner of the `!roll` starts picking the first beatmap of the match.
    - The loser of the `!roll` starts banning one beatmap, followed by the winner of the `!roll` to ban a beatmap.
-5. Players will have 2 minutes to pick a beatmap and 2 minutes to get ready. If a player takes more time than alloted more than once, a random map will be chosen from the mappool using `!roll` with the number of maps that were neither picked nor banned, excluding the tiebreaker. Repeat offenders may receive further sanctions from the Tournament Management.
+5. Players will have 2 minutes to pick a beatmap and 2 minutes to get ready. If a player takes more time than allotted more than once, a random map will be chosen from the mappool using `!roll` with the number of maps that were neither picked nor banned, excluding the tiebreaker. Repeat offenders may receive further sanctions from the Tournament Management.
 6. Players will be given at most a 3-minute timeout for solving unexpected situations.
 7. Qualifier results will be published via a statistics sheet.
 

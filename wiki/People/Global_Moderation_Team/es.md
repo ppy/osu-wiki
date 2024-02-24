@@ -88,7 +88,7 @@ La [página del grupo Global Moderation Team](https://osu.ppy.sh/groups/4) enume
 | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  | Moderación del chat |
 | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | Coreano, japonés | Moderación del chat |
 | ::{ flag=FR }:: [Corne2Plum3](https://osu.ppy.sh/users/15646039) | Francés | Moderación del foro |
-| ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619) | Algo de español |  |
+| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | Algo de español |  |
 | ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | Español | Moderación del chat |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | Moderación del foro, soporte técnico |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Soporte técnico |
