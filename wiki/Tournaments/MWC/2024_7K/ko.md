@@ -108,18 +108,11 @@ osu!mania 7키 월드컵 2024는 osu! 팀과 여러명의 커뮤니티 멤버들
 
 ## 매치 일정 : 그랜드 파이널
 
-### 2024년 2월 24일 토요일
-
-| Team A | Team B | 경기 시간 | 트위치 방송 |  |
-| --: | :-- | :-- | :-: | :-: |
-| 말레이시아 ::{ flag=MY }:: | ::{ flag=PH }:: 필리핀 | [2월 24일 (토요일) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240224T153000&p1=1440&p2=122&p3=145) | [osulive](https://twitch.tv/osulive) | [^lb-gf-match] |
-
 ### 2024년 2월 25일 일요일
 
 | Team A | Team B | 경기 시간 | 트위치 방송 |  |
 | --: | :-- | :-- | :-: | :-: |
 | 대한민국 ::{ flag=KR }:: | ::{ flag=MY }:: 말레이시아 | [2월 25일 (일요일) 11:45 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240225T114500&p1=1440&p2=235&p3=122) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
-| 대한민국 ::{ flag=KR }:: | ::{ flag=PH }:: 필리핀 | [2월 25일 (일요일) 11:45 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240225T114500&p1=1440&p2=235&p3=145) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
 
 ## 맵풀 목록
 
@@ -282,6 +275,14 @@ osu!mania 7키 월드컵 2024는 osu! 팀과 여러명의 커뮤니티 멤버들
 8. [Raimukun - Cthulhu (Leeju) \[Stage 8: Abyss\]](https://osu.ppy.sh/beatmapsets/2115980#mania/4443612)
 
 ## 경기 결과
+
+### 그랜드 파이널
+
+2024년 2월 24일 토요일:
+
+| Team A |  |  | Team B | 경기 링크 | VOD 링크 |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **말레이시아** ::{ flag=MY }:: | **7** | 6 | ::{ flag=PH }:: 필리핀 | [#1](https://osu.ppy.sh/community/matches/112808432) | [#1](https://www.twitch.tv/videos/2072439938) |
 
 ### 파이널
 
