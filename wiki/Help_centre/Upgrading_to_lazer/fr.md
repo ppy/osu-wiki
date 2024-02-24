@@ -4,8 +4,6 @@ no_native_review: true
 
 # Mise à jour vers lazer
 
-*Remarque : Nous sommes encore en train de réfléchir à l'équilibre et aux mécanismes du jeu. Pour l'instant, **les scores obtenus sur lazer ne doivent pas être considérés comme permanents**.*
-
 osu!(lazer) est la prochaine mise à jour majeure du jeu. C'est l'aboutissement de plusieurs années de travail en coulisses pour réimplémenter minutieusement le jeu.
 
 L'objectif final est que cette version soit publiée comme une mise à jour qui remplacera complètement la version stable existante du jeu, mais il y a encore du travail à faire avant que cela ne soit réalisable. En fin de compte, **les joueurs** dicteront le moment où cela se produira et nous continuerons à supporter la version précédente jusqu'à ce que les utilisateurs aient migré.
@@ -163,7 +161,7 @@ En outre, il n'apparaît pas dans les "rangs de la première place" pour l'insta
 
 #### Si je définis un score sur lazer, cela donnera-t-il des points de performance ?
 
-Oui, à condition que les scores puissent être supprimés à l'avenir.
+Oui.
 
 #### Lazer utilise-t-il ScoreV2 ?
 
@@ -177,7 +175,7 @@ Les classements mondiaux utiliseront également les scores classiques.
 
 #### Si je fixe un score sur lazer, restera-t-il pour toujours ?
 
-Bien que nous essayions de préserver le plus grand nombre de scores possible, nous **ne garantissons pas que les scores resteront indéfiniment**. À tout moment, nous pouvons décider d'effacer un sous-ensemble ou tous les scores afin de préserver l'équilibre du jeu.
+Bien que nous essayions de préserver le plus grand nombre de scores possible, nous **ne garantissons pas que les scores resteront indéfiniment**. À tout moment, nous pouvons décider d'effacer un sous-ensemble ou tous les scores afin de préserver l'équilibre du jeu, par exemple en cas de découverte d'exploits ou d'actes frauduleux.
 
 #### Les scores définis sur stable seront-ils affichés dans lazer ?
 
@@ -196,16 +194,18 @@ Cependant, pour l'instant, seuls les mods suivants attribuent des points de perf
 - Réduction de la difficulté
   - Easy
   - No Fail
-  - Half Time (uniquement 0.75x)
+  - Half Time (uniquement 0.75x, la configuration de `Adjust pitch` est autorisée)
   - Daycore (uniquement 0.75x)
 - Augmentation de la difficulté
   - Hard Rock (pas pour osu!mania)
-  - Sudden Death
-  - Perfect
+  - Sudden Death (La configuration de `Restart on fail` est autorisée)
+  - Perfect (La configuration de `Restart on fail` est autorisée)
   - Hidden
   - Nightcore (uniquement 1.5x)
-  - Double Time (uniquement 1.5x)
+  - Double Time (uniquement 1.5x, la configuration de `Adjust pitch` est autorisée))
   - Flashlight
+  - Blinds
+  - Accuracy Challenge
 - Conversion (osu!mania uniquement)
   - Mirror
   - Four Keys
@@ -216,10 +216,13 @@ Cependant, pour l'instant, seuls les mods suivants attribuent des points de perf
   - Nine Keys
 - Fun
   - Muted
+  - No Scope
 - Automatisation (osu! uniquement)
   - Spun out
 - Système
   - Touch Device
+
+Seule la configuration par défaut des options de personnalisation donne droit à des points de performance, sauf indication contraire ci-dessus.
 
 #### Je n'aime pas les nouveaux mécanismes de jeu. Est-ce que je peux restaurer les anciens mécanismes de jeu comme sur stable ?
 
