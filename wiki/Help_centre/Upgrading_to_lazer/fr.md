@@ -75,11 +75,11 @@ Ce qui suit est une liste complète de **l'état actuel** de lazer par rapport �
 
 | Fonctionnalité | stable | lazer |
 | :-- | :-- | :-- |
-| Soumission du score | ![Oui][vrai] | ![Partiellement][partiel][^score-reset] |
-| Classements des beatmap | ![Oui][vrai] | ![Partiellement][partiel][^score-reset] |
+| Soumission du score | ![Oui][vrai] | ![Oui][vrai] |
+| Classements des beatmap | ![Oui][vrai] | ![Oui][vrai] |
 | Statistiques du profil | ![Oui][vrai] | ![Oui][vrai] |
 | Médailles | ![Oui][vrai] | ![Non][faux] |
-| Points de performance | ![Oui][vrai] | ![Partiellement][partiel][^score-reset] |
+| Points de performance | ![Oui][vrai] | ![Oui][vrai] |
 | Tchat en temps réel | ![Partiellement][partiel][^tchat-stable] | ![Oui][vrai] |
 | Wiki/news/changelog/classements | ![Non][faux] | ![Oui][vrai][^contenu-en-ligne] |
 | Profils d'utilisateurs | ![Non][faux] | ![Oui][vrai] |
@@ -328,7 +328,6 @@ Vous pensez probablement à un autre jeu.
 [^calibration-décalage-lazer]: Lorsque vous réessayez une beatmap, vous pouvez calibrer le décalage en fonction de votre dernière lecture.
 [^désactivation-possible]: Peut être désactivé.
 [^note-lock]: Elle existe toujours, mais ne devrait pas interférer.
-[^score-reset]: Les scores peuvent être réinitialisés.
 [^contenu-en-ligne]: Accès natif à la plupart des contenus en ligne.
 [^direct-supporter]: Via osu!direct, osu!supporter uniquement.
 [^supporter]: osu!supporter uniquement.
