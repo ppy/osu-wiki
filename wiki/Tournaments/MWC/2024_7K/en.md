@@ -10,7 +10,7 @@ tags:
 
 ![MWC 7K 2024 banner](img/mwc7k2024-banner.jpg)
 
-The **osu!mania 7K World Cup 2024** (***MWC 7K 2024***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the eighth instalment of the osu!mania 7K World Cup.
+The **osu!mania 7K World Cup 2024** (***MWC 7K 2024***) was a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the eighth instalment of the osu!mania 7K World Cup.
 
 ## Tournament schedule
 
@@ -28,7 +28,7 @@ The **osu!mania 7K World Cup 2024** (***MWC 7K 2024***) is a country-based osu!m
 
 ## Prizes
 
-The osu!mania 7K World Cup 2024 offers a minimum $1,200 cash prize pool and limited-edition merch.
+The osu!mania 7K World Cup 2024 offered a $1,200 cash prize pool and limited-edition merch.
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -36,9 +36,11 @@ The osu!mania 7K World Cup 2024 offers a minimum $1,200 cash prize pool and limi
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool, single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
+![](img/badge-1st.png "MWC 7K 2024 winner badge") ![](img/badge-2nd.png "MWC 7K 2024 2nd-place badge") ![](img/badge-3rd.png "MWC 7K 2024 3rd-place badge")
+
 ## Organisation
 
-The osu!mania 7K World Cup 2024 is run by the osu! team and various community members.
+The osu!mania 7K World Cup 2024 was run by the [osu! team](/wiki/People/osu!_team) and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -52,7 +54,7 @@ The osu!mania 7K World Cup 2024 is run by the osu! team and various community me
 
 ## Links
 
-- [Information spreadsheet](https://docs.google.com/spreadsheets/d/12jbXS5vYvRd1QthkaYYKdhm82aSUpZIz9JO_gacdjpY)
+- [Information spreadsheet](https://docs.google.com/spreadsheets/d/12jbXS5vYvRd1QthkaYYKdhm82aSUpZIz9JO_gacdjpY?rm=minimal)
 - [Weekly statistics spreadsheets](https://drive.google.com/drive/folders/1dlVzTCkqAJfijm2fIytUoTkFWvccxaoS)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1857033)
@@ -105,13 +107,9 @@ The osu!mania 7K World Cup 2024 is run by the osu! team and various community me
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/fd2fdbd125eedb7bf268bd382dab1c05#file-mwc-7k-2024-player-list-csv).
 
-## Match Schedule: Grand Finals
+## Podium
 
-### Sunday, 25 February 2024
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=MY }:: Malaysia | [Feb 25 (Sun) 11:45 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240225T114500&p1=1440&p2=235&p3=122) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
+![](img/podium.jpg "MWC7K 2024 podium")
 
 ## Mappools
 
@@ -282,6 +280,12 @@ Saturday, 24 February 2024:
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **Malaysia** ::{ flag=MY }:: | **7** | 6 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/112808432) | [#1](https://www.twitch.tv/videos/2072439938) |
+
+Sunday, 25 February 2024:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **South Korea** ::{ flag=KR }:: | **7** | 2 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/112822505) | [#1](https://www.twitch.tv/videos/2073302798) |
 
 ### Finals
 
@@ -588,6 +592,5 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ## Notes
 
-[^gf-match]: Grand Finals match — matchup depends on the results of the preceding losers bracket Grand Finals match
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same average rank

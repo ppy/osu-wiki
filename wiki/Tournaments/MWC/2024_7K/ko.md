@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 9c688bc7354ccd48e907554ce34f2307d3e973d9
 tags:
   - MWC2024
   - MWC 2024
