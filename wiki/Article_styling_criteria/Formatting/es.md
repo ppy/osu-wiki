@@ -534,7 +534,7 @@ Hay dos tipos de enlaces: en línea y de referencia. En línea tiene dos estilos
 Lo siguiente es un ejemplo de ambos estilos en línea:
 
 ```markdown
-[Modificador de juego](/wiki/Gameplay/Game_modifier)
+[Modificador del juego](/wiki/Gameplay/Game_modifier)
 
 <https://osu.ppy.sh/home>
 ```
@@ -542,7 +542,7 @@ Lo siguiente es un ejemplo de ambos estilos en línea:
 Lo siguiente es un ejemplo del estilo de referencia:
 
 ```markdown
-[Modificador de juego][game mods link]
+[Modificador del juego][game mods link]
 
 [game mods link]: /wiki/Game_modifier
 ```

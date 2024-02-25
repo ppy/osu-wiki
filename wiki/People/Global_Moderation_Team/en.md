@@ -54,8 +54,8 @@ Generally, the team will observe people for several weeks or months to make sure
 Global Moderators are granted the following benefits:
 
 - **[osu!supporter](/wiki/osu!supporter)**: An osu!supporter tag that lasts for the duration of their team membership.
-- **Tenure badge**: A [profile badge](/wiki/Community/Profile_badge) that displays the number of years they have been in the GMT, starting from 3.
-  ![3 year GMT badge](https://assets.ppy.sh/profile-badges/GMT3y.png "3 year GMT badge") ![4 year GMT badge](https://assets.ppy.sh/profile-badges/GMT4y.png "4 year GMT badge") ![5 year GMT badge](https://assets.ppy.sh/profile-badges/GMT5y.png "5 year GMT badge")
+- **Tenure badge**: A [profile badge](/wiki/Community/Profile_badge) that displays the number of years they have been in the GMT, ranging from 1 to 10.
+  ![1 year GMT badge](https://assets.ppy.sh/profile-badges/GMT1y.png "1 year GMT badge") ![2 year GMT badge](https://assets.ppy.sh/profile-badges/GMT2y.png "2 year GMT badge") ![3 year GMT badge](https://assets.ppy.sh/profile-badges/GMT3y.png?2024 "3 year GMT badge") ![4 year GMT badge](https://assets.ppy.sh/profile-badges/GMT4y.png?2024 "4 year GMT badge") ![5 year GMT badge](https://assets.ppy.sh/profile-badges/GMT5y.png?2024 "5 year GMT badge") ![6 year GMT badge](https://assets.ppy.sh/profile-badges/GMT6y.png "6 year GMT badge") ![7 year GMT badge](https://assets.ppy.sh/profile-badges/GMT7y.png "7 year GMT badge") ![8 year GMT badge](https://assets.ppy.sh/profile-badges/GMT8y.png "8 year GMT badge") ![9 year GMT badge](https://assets.ppy.sh/profile-badges/GMT9y.png "9 year GMT badge") ![10 year GMT badge](https://assets.ppy.sh/profile-badges/GMT10y.png "10 year GMT badge")
 
 ## Departure from the team
 
@@ -87,7 +87,7 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  | Chat moderation |
 | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | Korean, Japanese | Chat moderation |
 | ::{ flag=FR }:: [Corne2Plum3](https://osu.ppy.sh/users/15646039) | French | Forum moderation |
-| ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619) | Some Spanish |  |
+| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | Some Spanish |  |
 | ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | Spanish | Chat moderation |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | Forum moderation, technical support |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Technical support |
@@ -109,7 +109,7 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ::{ flag=RU }:: [Kyubey](https://osu.ppy.sh/users/2195646) | Russian | Chat moderation |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Portuguese, Spanish | Chat moderation, tournament management |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | German | Mapping/modding community moderation |
-| ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | German | Chat moderation |
+| ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | German | Chat moderation, forum moderation |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Cantonese, Chinese | [^task-mangomizer] |
 | ::{ flag=BR }:: [maot](https://osu.ppy.sh/users/3914271) | Portuguese | Mapping/modding community moderation |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu! development |
@@ -135,6 +135,7 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | French, Spanish | Chat moderation |
 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | Indonesian | Chat moderation |
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | Indonesian, some Vietnamese | Chat moderation, forum moderation |
+| ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | German, Serbian | Forum moderation |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | Chinese | Chat moderation |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | Finnish | Chat moderation |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | Forum moderation, chat moderation |

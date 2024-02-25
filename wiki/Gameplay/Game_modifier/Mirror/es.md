@@ -4,13 +4,15 @@ tags:
   - mod
   - MR
   - game modifier
+  - modificador de juego
+  - modificador del juego
 ---
 
 # Mirror (mod)
 
 ![Icono del mod MR](/wiki/shared/mods/MR.png "Icono del mod Mirror (MR)")
 
-*Para una lista completa de mods, véase: [Modificador de juego](/wiki/Gameplay/Game_modifier)*
+*Para una lista completa de mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*
 
 ## Acerca de
 
@@ -21,7 +23,7 @@ tags:
 
 ## Descripción
 
-El mod **Mirror** es un [modificador de juego](/wiki/Gameplay/Game_modifier) para [osu!mania](/wiki/Game_mode/osu!mania) que intenta ayudar a los jugadores zurdos a jugar [beatmaps](/wiki/Beatmap) que fueron mapeados originalmente con patrones para diestros en mente. El mod logra esto al reflejar las notas a través del eje *y* que corre por la mitad del teclado de osu!mania, es decir, «refleja» las notas. Específicamente, la duplicación de notas es la siguiente:
+El mod **Mirror** es un [modificador del juego](/wiki/Gameplay/Game_modifier) para [osu!mania](/wiki/Game_mode/osu!mania) que intenta ayudar a los jugadores zurdos a jugar [beatmaps](/wiki/Beatmap) que fueron mapeados originalmente con patrones para diestros en mente. El mod logra esto al reflejar las notas a través del eje *y* que corre por la mitad del teclado de osu!mania, es decir, «refleja» las notas. Específicamente, la duplicación de notas es la siguiente:
 
 ![Jugabilidad de MR](/wiki/Gameplay/Game_modifier/Mirror/img/MR-comparison-mania.jpg "Comparación entre una partida normal (izquierda) y una partida con el mod Mirror activado (derecha) en osu!mania")
 

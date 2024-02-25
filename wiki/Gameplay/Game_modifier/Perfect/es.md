@@ -5,13 +5,15 @@ tags:
   - mod
   - game modifier
   - PF
+  - modificador de juego
+  - modificador del juego
 ---
 
 # Perfect (mod)
 
 ![Icono del mod PF](/wiki/shared/mods/PF.png "Icono del mod Perfect (PF)")
 
-*Para una lista completa de mods, véase: [Modificador de juego](/wiki/Gameplay/Game_modifier)*\
+*Para una lista completa de mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*\
 *Ver también: [Sudden Death (mod)](/wiki/Gameplay/Game_modifier/Sudden_Death)*
 
 ## Acerca de
@@ -26,7 +28,7 @@ tags:
 
 ## Descripción
 
-El mod **Perfect** es un [modificador de juego](/wiki/Gameplay/Game_modifier) que tiene como objetivo ayudar a los jugadores que buscan obtener un grado SS, reiniciando automáticamente los [beatmaps](/wiki/Beatmap) si el jugador falla una nota o recibe cualquier juicio en un [objeto](/wiki/Gameplay/Hit_object) distinto a GREAT.
+El mod **Perfect** es un [modificador del juego](/wiki/Gameplay/Game_modifier) que tiene como objetivo ayudar a los jugadores que buscan obtener un grado SS, reiniciando automáticamente los [beatmaps](/wiki/Beatmap) si el jugador falla una nota o recibe cualquier juicio en un [objeto](/wiki/Gameplay/Hit_object) distinto a GREAT.
 
 Cualquiera de las siguientes acciones **provocará** que el mod Perfect reinicie el beatmap:
 

@@ -72,7 +72,7 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 [规章制度](/wiki/Rules) • [贡献者公约](/wiki/Rules/Contributor_code_of_conduct) • [行为准则：摸图和作图](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
-媒体内容规范：[内容使用规范](/wiki/Rules/Content_usage_guidelines) • [内容投票流程](/wiki/Rules/Content_voting_process) • [少儿不宜内容](/wiki/Rules/Explicit_content) • [歌曲内容规范](/wiki/Rules/Song_content_rules) • [视觉内容注意事项](/wiki/Rules/Visual_content_considerations)
+媒体内容规范：[内容使用规范](/wiki/Rules/Content_usage_guidelines) • [内容投票流程](/wiki/Rules/Content_voting_process) • [不良内容](/wiki/Rules/Explicit_content) • [歌曲内容规范](/wiki/Rules/Song_content_rules) • [视觉内容注意事项](/wiki/Rules/Visual_content_considerations)
 
 [法律页面](/wiki/Legal): [服务条款](/wiki/Legal/Terms) • [隐私政策](/wiki/Legal/Privacy) • [版权政策 (DMCA)](/wiki/Legal/Copyright) • [歌曲许可](/wiki/Legal/Music_licensing)
 

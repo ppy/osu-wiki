@@ -1,7 +1,5 @@
 # Upgrading to lazer
 
-*Notice: We are still figuring out game balance and mechanics. For now, **scores set on lazer should not be considered permanent**.*
-
 osu!(lazer) is the next major update to the game. It is the culmination of several years of work behind the scenes to painstakingly reimplement the game.
 
 The eventual goal is that this version will be released as an update which will completely supersede the existing stable version of the game, but there's still some work to be done before that is feasible. At the end of the day, **the players** will dictate when this happens and we will continue to support the previous release until users have migrated across.
@@ -71,11 +69,11 @@ The following is a comprehensive list of the **current state** of lazer in compa
 
 | Feature | stable | lazer |
 | :-- | :-- | :-- |
-| Score submission | ![Yes][true] | ![Partial][partial][^score-reset-balance] |
-| Beatmap leaderboards | ![Yes][true] | ![Partial][partial][^score-reset-isolated] |
+| Score submission | ![Yes][true] | ![Yes][true] |
+| Beatmap leaderboards | ![Yes][true] | ![Yes][true] |
 | Profile statistics | ![Yes][true] | ![Yes][true] |
 | Medals | ![Yes][true] | ![No][false] |
-| Performance points | ![Yes][true] | ![Partial][partial][^score-reset-isolated] |
+| Performance points | ![Yes][true] | ![Yes][true] |
 | Real-time chat | ![Partial][partial][^stable-chat] | ![Yes][true] |
 | Wiki / news / changelog / rankings | ![No][false] | ![Yes][true][^online-content] |
 | User profiles | ![No][false] | ![Yes][true] |
@@ -101,7 +99,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | Per-object SV / volume | ![No][false] | ![Yes][true] |
 | Per-segment slider curve types | ![No][false] | ![Yes][true] |
 | Slider splitting and merging | ![No][false] | ![Yes][true] |
-| Pattern rotation | ![Yes][true] | ![Partial][partial][^editor-precise-rotation] |
+| Pattern rotation | ![Yes][true] | ![Yes][true] |
 | Pattern resizing | ![No][false] | ![Yes][true] |
 | Beatmap submission | ![Yes][true] | ![No][false] |
 | Storyboard editor | ![Yes][true] | ![No][false] |
@@ -153,17 +151,17 @@ That said, individual scores and beatmaps can be exported from lazer and manuall
 
 #### If I set a score on lazer, will it show on my profile?
 
-Scores will show under "recently played" but not in "best performance" yet.
+Yes, but it won't show in "best performance" with "lazer mode" turned off on the website.
+
+It additionally not show in "first place ranks" regardless for now.
 
 #### If I set a score on lazer, will it give performance points?
 
-The "recently played" section of profile pages shows scores set in lazer with performance points calculated, and the total amount can be seen when hovering over the regular performance point total.
-
-Additionally, [lazer.ppy.sh](https://lazer.ppy.sh/home), an experimental instance of the osu! website, shows all totals and rankings with lazer scores accounted for.
+Yes.
 
 #### Does lazer use ScoreV2?
 
-Yes, it uses a scoring system based on it with some adjustments. ScoreV1 scores will be converted in the near future.
+It uses a scoring system based on it with some adjustments.
 
 <!-- lint ignore no-heading-punctuation -->
 
@@ -171,17 +169,58 @@ Yes, it uses a scoring system based on it with some adjustments. ScoreV1 scores 
 
 You can actually change the `Score display mode` setting to `Classic` to get back the explosive style of scoring game-wide! It won't be a perfect match, but will give you the same feel of classic scoring and be applied everywhere you'd expect it to be.
 
+Global score leaderboards will also use classic scoring.
+
 #### If I set a score on lazer, will it remain forever?
 
-While we will try to preserve as many scores as possible, we **offer no guarantee that scores will remain indefinitely**. At any point we may choose to wipe a subset or all scores in order to preserve game balance.
+While we will try to preserve as many scores as possible, we **offer no guarantee that scores will remain indefinitely**. At any point we may choose to wipe a subset of scores in order to preserve game balance, such as when exploits or foul play are discovered.
 
-#### Will scores set on stable eventually show in lazer?
+#### Will scores set on stable show in lazer?
 
-Yes. Once we finish balancing the combination of lazer and stable scores, both will be visible.
+Yes.
+
+#### Will scores set in lazer show in stable?
+
+Not at the moment.
 
 #### Will all mods be ranked?
 
-For now, scores of all mod combinations appear on leaderboards. Whether scores will give performance points with all mods (and if they do, whether there will be a bonus or penalty applied) is still in discussion.
+Scores of all mod combinations appear on leaderboards.
+
+However, only the following mods will award performance points for now:
+
+- Difficulty reduction
+  - Easy
+  - No Fail
+  - Half Time (only 0.75x, configuring `Adjust pitch` is allowed)
+  - Daycore (only 0.75x)
+- Difficulty Increase
+  - Hard Rock (not for osu!mania)
+  - Sudden Death (Configuring `Restart on fail` is allowed)
+  - Perfect (Configuring `Restart on fail` is allowed)
+  - Hidden
+  - Nightcore (only 1.5x)
+  - Double Time (only 1.5x, configuring `Adjust pitch` is allowed)
+  - Flashlight
+  - Blinds
+  - Accuracy Challenge
+- Conversion (osu!mania only)
+  - Mirror
+  - Four Keys
+  - Five Keys
+  - Six Keys
+  - Seven Keys
+  - Eight Keys
+  - Nine Keys
+- Fun
+  - Muted
+  - No Scope
+- Automation (osu! only)
+  - Spun out
+- System
+  - Touch Device
+
+Only the default configuration of customisation options is eligible for performance points, unless otherwise noted above.
 
 #### I don't like the new gameplay mechanics. Can I restore the old gameplay mechanics like on stable?
 
@@ -290,8 +329,6 @@ You're likely thinking of another game.
 [^offset-calibration-lazer]: When retrying a beatmap, you can calibrate the offset based on your last play.
 [^can-disable]: Can be disabled.
 [^note-lock]: Still exists, but should not interfere.
-[^score-reset-balance]: Scores will be reset to ensure balance.
-[^score-reset-isolated]: Scores will be reset, currently isolated from stable scores.
 [^online-content]: Native access to most online content.
 [^direct-supporter]: Via osu!direct, osu!supporter-only.
 [^supporter]: osu!supporter-only.
@@ -299,7 +336,6 @@ You're likely thinking of another game.
 [^multi-room-max]: 16 players max.
 [^map-only]: Map only.
 [^all-files]: All files.
-[^editor-precise-rotation]: Missing precise angle rotation.
 [^incompatibilities]: Some editor features will cause beatmaps to play incorrectly in stable — will be fixed soon.
 [^stable-chat]: Messages can take up to 15 seconds to arrive.
 [^countdown-timers-stable]: Set a countdown using a command, no automatic start.

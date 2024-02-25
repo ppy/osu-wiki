@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 3ed5f88691b52de8c58e362fa8671ee6903d6ecc
----
-
 # osu!catch 上架标准
 
 ***注意: 此页面是[通用上架标准 (RC)](/wiki/Ranking_criteria)的扩展。***
@@ -158,7 +153,7 @@ outdated_since: 3ed5f88691b52de8c58e362fa8671ee6903d6ecc
 - **[跳](/wiki/Gameplay/Dash)前后的两个物件相隔时间必须长于 62 毫秒（在 240 BPM 的歌曲内约为 1/4）。** 在作图时一般会限制为 180 BPM 下的 1/4。
 - **[基础](/wiki/Gameplay/Dash_snapping#basic-snapped)[红果跳](/wiki/Gameplay/Hyperdash)不能连续使用超过 4 次。**
 - **当使用滑条头尾作为[基础](/wiki/Gameplay/Dash_snapping#basic-snapped)[红果跳](/wiki/Gameplay/Hyperdash)时，则不能连续使用超过 2 次。** 滑条路径必须简单且易于跟随。
-- **[短时](/wiki/Gameplay/Dash_snapping#higher-snapped)[红果跳](/wiki/Gameplay/Hyperdash)不能与[短时](/wiki/Gameplay/Dash_snapping#higher-snapped)[白果跳](/wiki/Gameplay/Dash)和任何形式的[红果跳](/wiki/Gameplay/Hyperdash)相连。** 短时红果跳只能与走路或基础白果跳相连。
+- **[短时](/wiki/Gameplay/Dash_snapping#higher-snapped)[红果跳](/wiki/Gameplay/Hyperdash)不能与任何形式的[红果跳](/wiki/Gameplay/Hyperdash)相连。** 短时红果跳只能与走路或白果跳相连。
 - **不能使用滑条头尾作为[短时](/wiki/Gameplay/Dash_snapping#higher-snapped)[红果跳](/wiki/Gameplay/Hyperdash)。**
 - **物件与转盘前后之间必须至少间隔 125 毫秒（在 240 BPM 的歌曲内约为 1/2）。** 这保证玩家能顺利读图。
 
@@ -166,7 +161,8 @@ outdated_since: 3ed5f88691b52de8c58e362fa8671ee6903d6ecc
 
 - **不应在[中果](/wiki/Gameplay/Hit_object/Juice_stream#中果)和滑条折返上使用任何[红果跳](/wiki/Gameplay/Hyperdash)。**
 - **不同节奏类型的[基础红果跳](/wiki/Gameplay/Hyperdash)不应相连。** 如：1/1 红果跳与 1/2 红果跳直接相连。
-- **若在[短时](/wiki/Gameplay/Dash_snapping#higher-snapped)[红果跳](/wiki/Gameplay/Hyperdash)后使用[反向](/wiki/Beatmapping/Mapping_techniques/Antiflow)[跳](/wiki/Gameplay/Dash)，则反向跳应长于 250 毫秒（在 240 BPM 的歌曲内约为 1/1）。
+- **[短时](/wiki/Gameplay/Dash_snapping#higher-snapped)[红果跳](/wiki/Gameplay/Hyperdash)不能与任何形式的短时[跳](/wiki/Gameplay/Dash)相连。** 若使用，则它们之间不能使用[反向](/wiki/Beatmapping/Mapping_techniques/Antiflow)梗，并且白果跳只能放在红果跳之前。
+- **若在[短时](/wiki/Gameplay/Dash_snapping#higher-snapped)[红果跳](/wiki/Gameplay/Hyperdash)后使用[反向](/wiki/Beatmapping/Mapping_techniques/Antiflow)[跳](/wiki/Gameplay/Dash)，则反向跳应长于 250 毫秒。**（在 240 BPM 的歌曲内约为 1/1）。
 - **[边缘/极限跳](/wiki/Gameplay/Edge_dash)只能独立使用（与其他任何[跳](/wiki/Gameplay/Dash)都不相连）。**
 - **不应使用[转盘陷阱](/wiki/Gameplay/Spinner_trap)。**
 - **包括滑条尾和滑条折返，[连击](/wiki/Beatmapping/Combo)不应该超过 16 个物件。** [转盘](/wiki/Gameplay/Hit_object/Spinner)除外。
@@ -176,7 +172,7 @@ outdated_since: 3ed5f88691b52de8c58e362fa8671ee6903d6ecc
 
 - [下落速度 (AR)](/wiki/Beatmap/Approach_rate)、[分数因子 (OD)](/wiki/Beatmap/Overall_difficulty) 应在 7-9 之间。
 - [扣血速度 (HP)](/wiki/Beatmap/HP_drain_rate) 应在 5-6 之间。
-- [物件大小 (CS)](/wiki/Beatmap/Circle_size) 应在 3-5 之间。
+- [物件大小 (CS)](/wiki/Beatmap/Circle_size) 应在 3.5-4.5 之间。
 
 ### ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
 
@@ -187,7 +183,7 @@ outdated_since: 3ed5f88691b52de8c58e362fa8671ee6903d6ecc
 
 #### 准则
 
-- **只应在滑条路径必须简单且易于跟随时，在[中果](/wiki/Gameplay/Hit_object/Juice_stream#中果)和滑条折返上使用[红果跳](/wiki/Gameplay/Hyperdash)。** 这避免了谱面不会出现过于混乱复杂的滑条排列。过于混乱复杂的滑条形状所产生的中果、折返红果跳的游玩体验通常不佳，而且很毁准确率，收益极低。
+- **只有在滑条路径简单且易于跟随时，才能在[中果](/wiki/Gameplay/Hit_object/Juice_stream#中果)和滑条折返上使用[红果跳](/wiki/Gameplay/Hyperdash)。** 这避免了谱面不会出现过于混乱复杂的滑条排列。过于混乱复杂的滑条形状所产生的中果、折返红果跳的游玩体验通常不佳，而且很毁准确率，收益极低。
 - **不应连续使用比 1/8 更密的[红果跳](/wiki/Gameplay/Hyperdash)。**
 - **[边缘/极限跳](/wiki/Gameplay/Edge_dash)不能连续使用超过 3 个物件（2 次），也不应在[红果跳](/wiki/Gameplay/Hyperdash)之后使用。**
 - **包括滑条尾和滑条折返，[连击](/wiki/Beatmapping/Combo)不应该超过 16 个物件。** [转盘](/wiki/Gameplay/Hit_object/Spinner)除外。
@@ -196,5 +192,5 @@ outdated_since: 3ed5f88691b52de8c58e362fa8671ee6903d6ecc
 #### 难度设定准则
 
 - [下落速度 (AR)](/wiki/Beatmap/Approach_rate)、[分数因子 (OD)](/wiki/Beatmap/Overall_difficulty) 应在 8-10 之间。
-- [扣血速度 (HP)](/wiki/Beatmap/HP_drain_rate) 应在 6-7 之间。
+- [扣血速度 (HP)](/wiki/Beatmap/HP_drain_rate) 应在 5-7 之间。
 - [物件大小 (CS)](/wiki/Beatmap/Circle_size) 应在 3-6 之间。

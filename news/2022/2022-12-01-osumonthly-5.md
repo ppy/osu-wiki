@@ -107,7 +107,7 @@ Word on the street is that there will be more Hush-Hush medals coming soon, so i
 
 ### SillyFanGirl's BR eSports nomination
 
-![https://twitter.com/premioesportsbr/status/1593590309631295488?s=20&t=1thfKY6-BpTCFDsbtltDdw](https://pbs.twimg.com/profile_banners/983759809156669440/1663599648/1500x500)
+![](/wiki/shared/news/2022-12-01-osumonthly-5/BResports-banner.jpg)
 
 It is already a very hard feat to be recognised as one of the best, most versatile players 4K osu!mania has ever seen. [SillyFanGirl](https://osu.ppy.sh/users/2288363) has not only been able to achieve this, but is also an active [content creator](https://www.youtube.com/@SillyFangirlosu), an active tournament player, and overall an incredible community member to interact with!
 

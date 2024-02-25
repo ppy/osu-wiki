@@ -1,6 +1,4 @@
 ---
-outdated_since: 16a9623dd2a25dc38ae8879ad2c924f8b7c74a3e
-outdated_translation: true
 tags:
   - 格式
   - 格式化
@@ -120,10 +118,16 @@ tags:
 
 *注意：wiki 维护员将在合并拉取请求之前，根据情况判断并使用这个标签。*
 
-有时，翻译文章会在未经过其他熟练使用该语言的人审查的情况下，直接添加进 wiki 中。此时文章需要添加 `no_native_review` 标记。它能提示将来的翻译员可能需要再次检查这篇文章。这个标签必须按以下格式添加：
+有时，翻译文章会在未经过其他熟练使用该语言的人审查的情况下，直接添加进 wiki 中。此时文章需要添加 `no_native_review` 标签。它能提示将来的翻译员可能需要再次检查这篇文章。
 
 ```yaml
 no_native_review: true
+```
+
+另外，`no_native_review_since` 标签可用于指示第一次未审核编辑的提交位置，以及此后谁编辑了翻译：
+
+```yaml
+no_native_review_since: 5539d9e8c943605a7be186dc3f5ab10569275b05 Doryan
 ```
 
 ## 文章命名

@@ -17,7 +17,7 @@ tags:
 
 ::: Infobox
 
-![](img/lazer.png "Das Client-Logo von osu!(lazer), eine stylisierte Version des osu!-Cookies")
+![](img/lazer.png?2024-01-30 "Das Client-Logo von osu!(lazer).")
 
 [Herunterladen](https://osu.ppy.sh/home/download) • [Issue-Tracker](https://github.com/ppy/osu/issues) • [Diskussionen](https://github.com/ppy/osu/discussions)
 

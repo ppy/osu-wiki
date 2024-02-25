@@ -62,11 +62,11 @@ A seguir segue uma lista completa do **estado atual** de lazer em comparação c
 
 | Funcionalidade | estável | lazer |
 | :-- | :-- | :-- |
-| Envio de pontuações | ![Yes][true] | ![Partial][partial][^score-reset-balance] |
-| Placar de Beatmap | ![Yes][true] | ![Partial][partial][^score-reset-isolated] |
+| Envio de pontuações | ![Yes][true] | ![Yes][true] |
+| Placar de Beatmap | ![Yes][true] | ![Yes][true] |
 | Estatísticas de perfil | ![Yes][true] | ![Yes][true] |
 | Medalhas | ![Yes][true] | ![No][false] |
-| Performance points | ![Yes][true] | ![Partial][partial][^score-reset-isolated] |
+| Performance points | ![Yes][true] | ![Yes][true] |
 | Chat em tempo real | ![Partial][partial][^stable-chat] | ![Yes][true] |
 | Wiki / Notícias / Changelog / Colocações | ![No][false] | ![Yes][true][^online-content] |
 | Perfis de usuários | ![No][false] | ![Yes][true] |
@@ -276,8 +276,6 @@ Você provavelmente está pensando em outro jogo.
 [^offset-calibration-lazer]: Quando tentar novamente um beatmap, você pode calibrar o offset baseado na sua última tentativa.
 [^can-disable]: Pode ser desabilitado.
 [^note-lock]: Ainda existe, mas não deve interferir.
-[^score-reset-balance]: Pontuações vão ser resetadas para garantir balanço.
-[^score-reset-isolated]: Pontuações vão ser resetadas, atualmente isoladas das pontuações do estável.
 [^online-content]: Acesso nativo para a maioria dos conteúdos online.
 [^direct-supporter]: osu!direct, exclusivo do osu!supporter.
 [^multi-room-max]: máximo de 16 players.

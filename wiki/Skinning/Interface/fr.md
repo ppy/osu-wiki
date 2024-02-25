@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 8248154e7cfd86e0e8444b5841aa04afdc149f08
+---
+
 # Skinning de l'interface
 
 *Voir également : [Interface](/wiki/Client/Interface)*

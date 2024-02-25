@@ -38,9 +38,11 @@ Priority quests are labelled by difficulty. Tier 1 is the easiest and most commo
 
 ### Rewards
 
-![Mappers' Guild profile badges](img/mg-badges.png "The four tiers of the Mappers' Guild profile badge")
+![Mappers' Guild profile badges](img/mg-badges.png?2024-02 "The five tiers of the Mappers' Guild profile badge")
 
-Rewards are distributed through a point system. When a user reaches a specified point[^points] threshold, they earn a different rank signified by a profile badge. There are four profile badge tiers at 100, 250, 500, and 1,000 points respectively. If a user reaches 2,500 points, a fifth tier may be added.
+Rewards are distributed through a point system. When a user reaches a specified point[^points] threshold, they earn a different rank signified by a profile badge.
+
+When the Mappers' Guild began, there were three profile badge tiers at 100, 250, and 500 points respectively. After [Annabel](https://osu.ppy.sh/users/3388410) became the first user to reach 1000 points, a fourth tier was created, and after [Hinsvar](https://osu.ppy.sh/users/1249323) became the first user to reach 2500 points, a fifth tier was created. If a user reaches 5000 points, a sixth tier may be added.
 
 Points are earned for different Mappers' Guild tasks. Earnings vary between tasks, though they are generally weighted according to the amount of time required. For example, mapping a Hard difficulty takes more time than mapping an Easy difficulty, so the former rewards more points than the latter.
 

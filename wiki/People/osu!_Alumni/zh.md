@@ -43,6 +43,7 @@ tags:
 | ::{ flag=TW }:: [bossandy](https://osu.ppy.sh/users/360437) | BAT |
 | ::{ flag=CN }:: [Breeze](https://osu.ppy.sh/users/77537) | BAT |
 | ::{ flag=US }:: [captin1](https://osu.ppy.sh/users/689997) | GMT |
+| ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | NAT |
 | ::{ flag=IT }:: [Card N'FoRcE](https://osu.ppy.sh/users/3936) | BAT |
 | ::{ flag=US }:: [Cecilthemos](https://osu.ppy.sh/users/2233) | BAT |
 | ::{ flag=AU }:: [chan](https://osu.ppy.sh/users/94) | BAT |
@@ -60,7 +61,6 @@ tags:
 | ::{ flag=MX }:: [DakeDekaane](https://osu.ppy.sh/users/1425253) | BAT，QAT |
 | ::{ flag=CA }:: [Dakeyrus](https://osu.ppy.sh/users/10441) | GMT |
 | ::{ flag=DE }:: [Dangaard](https://osu.ppy.sh/users/19488) | BAT |
-| ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | GMT |
 | ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) | osu! 开发团队 |
 | ::{ flag=SE }:: [Davvy](https://osu.ppy.sh/users/10047413) | GMT |
 | ::{ flag=US }:: [DawnII](https://osu.ppy.sh/users/8399) | BAT |
@@ -77,6 +77,7 @@ tags:
 | ::{ flag=AU }:: [Duoprism](https://osu.ppy.sh/users/7186) | BAT |
 | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | osu! 开发团队 |
 | ::{ flag=US }:: [EiJi](https://osu.ppy.sh/users/2024) | BAT |
+| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) | NAT |
 | ::{ flag=CO }:: [ErunamoJAZZ](https://osu.ppy.sh/users/1869764) | 聊天管理员，GMT |
 | ::{ flag=FI }:: [ethox](https://osu.ppy.sh/users/441380) | 聊天管理员 |
 | ::{ flag=MY }:: [ExPew](https://osu.ppy.sh/users/665612) | QAT |
@@ -87,10 +88,10 @@ tags:
 | ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | QAT，NAT |
 | ::{ flag=SG }:: [Faust](https://osu.ppy.sh/users/65152) | BAT |
 | ::{ flag=DE }:: [Feerum](https://osu.ppy.sh/users/4815717) | QAT，NAT |
+| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | GMT，NAT |
 | ::{ flag=US }:: [foulcoon](https://osu.ppy.sh/users/19883) | BAT |
 | ::{ flag=FI }:: [Fraeon](https://osu.ppy.sh/users/2271) | BAT |
 | ::{ flag=TH }:: [Frostmourne](https://osu.ppy.sh/users/199669) | GMT，QAT |
-| ::{ flag=CN }:: [Fycho](https://osu.ppy.sh/users/1876867) | BAT，聊天管理员，GMT，QAT |
 | ::{ flag=JP }:: [Gamu](https://osu.ppy.sh/users/611174) | QAT |
 | ::{ flag=US }:: [Garven](https://osu.ppy.sh/users/244216) | QAT |
 | ::{ flag=FI }:: [Gemi](https://osu.ppy.sh/users/7365) | BAT |
@@ -138,6 +139,7 @@ tags:
 | ::{ flag=RU }:: [La Cataline](https://osu.ppy.sh/users/301279) | 聊天管理员 |
 | ::{ flag=CA }:: [Lanturn](https://osu.ppy.sh/users/1446665) | QAT |
 | ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | QAT，NAT |
+| ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) | GMT |
 | ::{ flag=IT }:: [Leader](https://osu.ppy.sh/users/631530) | GMT |
 | ::{ flag=NL }:: [Leniane](https://osu.ppy.sh/users/7138602) | NAT |
 | ::{ flag=DO }:: [Lissette](https://osu.ppy.sh/users/19835) | BAT |
@@ -188,6 +190,7 @@ tags:
 | ::{ flag=AU }:: [Oinari-sama](https://osu.ppy.sh/users/405508) | 聊天管理员，支持团队 |
 | ::{ flag=TH }:: [orioncomet](https://osu.ppy.sh/users/104827) | BAT |
 | ::{ flag=FI }:: [Orkel](https://osu.ppy.sh/users/39385) | 聊天管理员 |
+| ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | GMT |
 | ::{ flag=FR }:: [Pachiru](https://osu.ppy.sh/users/2850983) | GMT |
 | ::{ flag=SG }:: [Pasonia](https://osu.ppy.sh/users/43345) | BAT |
 | ::{ flag=CA }:: [Pawsu](https://osu.ppy.sh/users/2371454) | GMT，支持团队 |
@@ -201,6 +204,7 @@ tags:
 | ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) | QAT，GMT |
 | ::{ flag=SE }:: [PuffBuck](https://osu.ppy.sh/users/4234525) | 锦标赛管理员 |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | NAT |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | NAT |
 | ::{ flag=ES }:: [Raiden](https://osu.ppy.sh/users/2239480) | GMT，QAT |
 | ::{ flag=GB }:: [RandomJibberish](https://osu.ppy.sh/users/157879) | BAT |
 | ::{ flag=US }:: [RemmyX25](https://osu.ppy.sh/users/612) | BAT |
@@ -227,9 +231,9 @@ tags:
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | NAT |
 | ::{ flag=HU }:: [Spkz](https://osu.ppy.sh/users/2964029) | GMT |
 | ::{ flag=BE }:: [Stack](https://osu.ppy.sh/users/6122935) | QAT，NAT |
+| ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) | NAT |
 | ::{ flag=US }:: [Starrodkirby86](https://osu.ppy.sh/users/410) | BAT |
 | ::{ flag=GB }:: [Starry-](https://osu.ppy.sh/users/2166199) | QAT |
-| ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | GMT |
 | ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | NAT |
 | ::{ flag=CN }:: [Strawberry](https://osu.ppy.sh/users/519978) | BAT |
 | ::{ flag=RU }:: [stymlice](https://osu.ppy.sh/users/5122436) | GMT |
@@ -249,7 +253,6 @@ tags:
 | ::{ flag=AU }:: [tsububu](https://osu.ppy.sh/users/61) | BAT |
 | ::{ flag=TH }:: [Tyistiana](https://osu.ppy.sh/users/1421452) | NAT |
 | ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) | NAT |
-| ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | NAT |
 | ::{ flag=PL }:: [Ukami](https://osu.ppy.sh/users/820865) | 聊天管理员，GMT |
 | ::{ flag=TR }:: [UnderminE](https://osu.ppy.sh/users/444223) | 聊天管理员 |
 | ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) | NAT |
@@ -264,10 +267,12 @@ tags:
 | ::{ flag=CN }:: [xierbaliti](https://osu.ppy.sh/users/34044) | BAT |
 | ::{ flag=FR }:: [XPJ38](https://osu.ppy.sh/users/273531) | 支持团队 |
 | ::{ flag=SE }:: [Xytox](https://osu.ppy.sh/users/2229274) | GMT |
+| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | NAT |
 | ::{ flag=FR }:: [yaya](https://osu.ppy.sh/users/50163) | BAT |
 | ::{ flag=US }:: [yeahyeahyeahhh](https://osu.ppy.sh/users/58042) | MAT |
 | ::{ flag=AU }:: [YGOkid8](https://osu.ppy.sh/users/69114) | BAT |
 | ::{ flag=CA }:: [YTYuyu](https://osu.ppy.sh/users/660484) | BAT |
+| ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | NAT |
 | ::{ flag=CN }:: [Zero__wind](https://osu.ppy.sh/users/1822830) | BAT，GMT |
 | ::{ flag=CA }:: [Zerostarry](https://osu.ppy.sh/users/3480) | BAT |
 | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | GMT |

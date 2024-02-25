@@ -55,11 +55,11 @@ Consulta la [guía de mapping de osu!mania](/wiki/Guides/osu!mania_mapping_guide
 
 ## General
 
-Reglas y pautas generales se aplican a todos los tipos de dificultades de osu!mania. Las reglas y pautas relacionadas con el ritmo se aplican a beatmaps de aproximadamente 180 BPM con compases de 4/4. Si tu canción es drásticamente más rápida o más lenta, algunas variables pueden ser diferentes, como se detalla en [Escalado de BPM en los criterios de clasificación](/wiki/Ranking_criteria/Scaling_BPM)
+Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!mania. Las reglas y pautas relacionadas con el ritmo se aplican a beatmaps de aproximadamente 180 BPM con compases de 4/4. Si tu canción es drásticamente más rápida o más lenta, algunas variables pueden ser diferentes, como se detalla en [Escalado de BPM en los criterios de clasificación](/wiki/Ranking_criteria/Scaling_BPM).
 
 ### Reglas
 
-- **El mod `Auto` debe ser capaz de alcanzar la puntuación máxima (1 000 000) en todas las dificultades.**
+- **El mod `Auto` debe ser capaz de alcanzar la puntuación máxima (1 000 000) en todas las dificultades.**
 - **No pueden colocarse dos notas en una misma columna con la misma marca de tiempo.**
 - **Ninguna columna puede quedar vacía.** Si quieres usar menos teclas, cambia el número de teclas en Song Setup.
 - **No puede haber más de 6 notas pulsadas en un momento dado en dificultades Insane o inferiores.** El uso de más de 6 notas también debe seguir un intervalo razonable hasta la siguiente dificultad inferior. Esta regla no se aplica a los finales de las notas largas, ya que se sueltan, no se pulsan.
@@ -83,9 +83,9 @@ Reglas y pautas generales se aplican a todos los tipos de dificultades de osu!ma
 - **Evita usar hitsounds muestreados en el storyboard con un volumen similar al de los hitsounds en las notas.** Dado que los hitsounds en el storyboard pueden sobrecargar y distorsionar la retroalimentación de audio de los objetos en el beatmap, debe darse prioridad a la colocación de los hitsounds en una nota. Sin embargo, las muestras en el storyboard pueden usarse cuando los keysounds se extraen directamente de una canción y cuando las dificultades bajas tienen muy pocas notas para soportar los hitsounds necesarios.
 - **No uses keysounds sin el soporte de un hitnormal.** Si los hitsounds se mezclan perfectamente con la canción, la retroalimentación al golpear las notas es mínima. Sin embargo, cuando se usan keysounds extraídos directamente de una canción para sustituir el audio de la misma, no necesitan soporte de un hitnormal.
 - **Evita usar el mismo hitsound para múltiples notas en un chord.** Esto provoca que la retroalimentación sea más fuerte de lo necesario. Esto también se aplica a los hitsounds activos y a los hitsounds del storyboard usados en la misma marca de tiempo.
-- **Los cambios de tiempo deben tener una velocidad de desplazamiento unificada ajustando la velocidad del slider.** Esto se hace normalizando la velocidad de desplazamiento de todas las secciones de tiempo a la más usada en el beatmap. El número se muestra entre paréntesis después del rango de BPM en la selección de canción, p. ej. `BPM: 60-160 (130)`. Ten en cuenta que esta pauta no afecta a la posibilidad de añadir cambios de velocidad de los sliders, que se usan para crear efectos de SV.
+- **Los cambios de tiempo deben tener una velocidad de desplazamiento unificada ajustando la velocidad del slider.** Esto se hace normalizando la velocidad de desplazamiento de todas las secciones de tiempo a la más usada en el beatmap. El número se muestra entre paréntesis después del rango de BPM en la selección de canción, p. ej. `BPM: 60-160 (130)`. Ten en cuenta que esta pauta no afecta a la posibilidad de añadir cambios de velocidad de los sliders, que se usan para crear efectos de SV.
 - **Los cambios de velocidad del slider deben seguir la intensidad general de la canción.**
-- **Los cambios de velocidad del slider deben ajustarse a la estructura de compás de la canción.** Si la estructura de la canción usa una métrica derecha, se debe usar 1/4, 1/8, 1/16. Si la canción usa la métrica de swing, se debe usar 1/6 o 1/12. Si la canción tiene un pulso en una posición diferente a la recomendada, el ajuste a un pulso real siempre tiene prioridad.
+- **Los cambios de velocidad del slider deben ajustarse a la estructura de compás de la canción.** Si la canción usa un compás cuaternario, se debe usar 1/4, 1/8, 1/16. Si la canción usa un compás ternario, se debe usar 1/6 o 1/12. Si la canción tiene un pulso en una posición diferente a la recomendada, el ajuste a un ritmo adecuado siempre tendrá prioridad.
 - **Evita el spam de segmentos cortos de tiempo kiai.** Hacerlo puede distraer y afectar negativamente a la jugabilidad.
 - **Las pausas solo deben usarse cuando una sección de la música es extremadamente tranquila o silenciosa.** En las dificultades más bajas, especialmente en las canciones con un BPM más alto, se pueden usar pausas para evitar partes de la canción que no sean razonables para los nuevos jugadores.
 

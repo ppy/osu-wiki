@@ -5,13 +5,15 @@ tags:
   - NF
   - mod
   - game modifier
+  - modificador de juego
+  - modificador del juego
 ---
 
 # No Fail (mod)
 
 ![Icono del mod NF](/wiki/shared/mods/NF.png "Icono del mod No Fail (NF)")
 
-*Para una lista completa de mods, véase: [Modificador de juego](/wiki/Gameplay/Game_modifier)*
+*Para una lista completa de mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*
 
 ## Acerca de
 

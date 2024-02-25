@@ -5,13 +5,15 @@ tags:
   - mod
   - game modifier
   - HR
+  - modificador de juego
+  - modificador del juego
 ---
 
 # Hard Rock (mod)
 
 ![Icono del mod HR](/wiki/shared/mods/HR.png "Icono del mod Hard Rock (HR)")
 
-*Para una lista completa de mods, véase: [Modificador de juego](/wiki/Gameplay/Game_modifier)*
+*Para una lista completa de mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*
 
 ## Acerca de
 
@@ -27,7 +29,7 @@ tags:
 
 ## Descripción
 
-El mod **Hard Rock** es un [modificador de juego](/wiki/Gameplay/Game_modifier) que tiene como objetivo aumentar la dificultad en la mayoría de los aspectos de un [beatmap](/wiki/Beatmap). Generalmente, logra este objetivo aumentando el [tamaño del círculo (CS)](/wiki/Beatmap/Circle_size) en un 30 %, la [tasa de aproximación (AR)](/wiki/Beatmap/Approach_rate) en un 40 %, el [drenaje de HP (HP)](/wiki/Beatmap/HP_drain_rate) en un 40 % y la [dificultad general (OD)](/wiki/Beatmap/Overall_difficulty) en un 40 %, aunque los detalles varían según cada modo de juego.
+El mod **Hard Rock** es un [modificador del juego](/wiki/Gameplay/Game_modifier) que tiene como objetivo aumentar la dificultad en la mayoría de los aspectos de un [beatmap](/wiki/Beatmap). Generalmente, logra este objetivo aumentando el [tamaño del círculo (CS)](/wiki/Beatmap/Circle_size) en un 30 %, la [tasa de aproximación (AR)](/wiki/Beatmap/Approach_rate) en un 40 %, el [drenaje de HP (HP)](/wiki/Beatmap/HP_drain_rate) en un 40 % y la [dificultad general (OD)](/wiki/Beatmap/Overall_difficulty) en un 40 %, aunque los detalles varían según cada modo de juego.
 
 ### osu!
 

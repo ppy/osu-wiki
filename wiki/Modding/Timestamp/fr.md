@@ -20,7 +20,7 @@ Syntaxe des liens : `osu://edit/<timestamp>`
 
 `minutes` et `secondes` sont complétés par des zéros jusqu'à 2 chiffres, et `millisecondes` est complété par 3 chiffres. [`numéro de combo`](/wiki/Beatmapping/Combo) est optionnel et séparé par des virgules.
 
-Les objets de [osu!mania](/wiki/Game_mode/osu!mania) dans les horodatages utilisent un format `<millisecondes>|<colonne>` au lieu d'un numéro de combo. `colonne` se réfère à la position indexée zéro de la colonne à partir de la gauche du [terrain de jeu](/wiki/Game_mode/osu!mania#terrain-de-jeu).
+Les objets de [osu!mania](/wiki/Game_mode/osu!mania) dans les horodatages utilisent un format `<millisecondes>|<colonne>` au lieu d'un numéro de combo. `colonne` se réfère à la position indexée zéro de la colonne à partir de la gauche du [terrain de jeu](/wiki/Game_mode/osu!mania#écran-de-jeu).
 
 ### Exemples
 

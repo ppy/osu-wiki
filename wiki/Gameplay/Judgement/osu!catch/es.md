@@ -4,7 +4,7 @@
 
 ![](/wiki/shared/Catch_trails.jpg "Rastro de frutas en osu!catch")
 
-Un **juicio** o **resultado de golpeo** es el resultado de interactuar con un [objeto](/wiki/Gameplay/Hit_object) durante su ventana de golpeo. osu!catch se diferencia de los otros modos de juego en que no existe el concepto de tiempo o ventana de golpeo, lo que significa que todo se juzga como acertado o fallido.
+Un **juicio** o **resultado de golpeo** es el resultado de interactuar con un [objeto](/wiki/Gameplay/Hit_object) durante su ventana de tiempo. osu!catch se diferencia de los otros modos de juego en que no existe el concepto de tiempo o ventana de tiempo, lo que significa que todo se juzga como acertado o fallido.
 
 | Imagen | Nombre | [Valor de golpeo](/wiki/Gameplay/Score/ScoreV1/osu!catch) |
 | :-: | :-: | --: |

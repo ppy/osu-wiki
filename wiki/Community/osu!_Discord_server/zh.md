@@ -3,8 +3,6 @@ tags:
   - development
   - osu!dev
   - 开发
-outdated_translation: true
-outdated_since: 9c41b7602528088d6eb4f88f37cef15d676e7827
 ---
 
 # osu! Discord 服务器
@@ -24,6 +22,7 @@ osu! Discord 服务器有许多频道，多数频道都围绕着一两个特定�
 | 频道 | 描述 |
 | :-- | :-- |
 | `#welcome` | 服务器信息 |
+| `#announcements` | 服务器公告 |
 | `#introductions` | 自我介绍 |
 | `#general` | 与 osu! 相关的常规讨论和排障 |
 

@@ -23,32 +23,29 @@ Creators of said beatmaps are also able to request them to be removed from the L
 
 There are some very minimal criteria that need to be met for beatmaps to be nominated for Loved. Each game mode has its own specific criteria for Loved beatmap nomination and priority, but all modes follow these rules:
 
-- It is not in the Qualified, Ranked, or Approved categories
+- It abides by the [beatmap submission rules](/wiki/Rules#beatmap-submission-rules)
+- It is not in the [Ranked](/wiki/Beatmap/Category#ranked), [Approved](/wiki/Beatmap/Category#approved), or [Qualified](/wiki/Beatmap/Category#qualified) categories
 - Its creator does not disapprove of it being Loved
-- Its creator is not restricted
+  - If any guest contributors disapprove of their part being Loved, their part will be excluded from Loved by appropriate means. In some cases, such as [collabs](/wiki/Beatmap/Beatmap_collaborations), this may make the entire beatmap ineligible for Loved.
+- Its creator is not [restricted](/wiki/Help_centre/Account_restrictions)
 - At least one difficulty can be passed
+- Every nominated difficulty has a [drain time](/wiki/Beatmap/Drain_time) of at least 20 seconds
 
-Although many Pending and Work-in-progress beatmaps meet these criteria, few are voted into the Loved category due to the more selective nomination and voting requirements.
+Although many unranked beatmaps meet these criteria, few are voted into the Loved category due to the selective nature of the captains' picks, and the high community approval requirement by voting.
 
-Beatmaps entering the Loved category are required to follow some additional rulesets:
+### Updates prior to Loved
 
-- [Some points from the Metadata section of the ranking criteria](/wiki/Ranking_criteria#metadata):
-  - Song title, artist, and source should be correct in all cases.
-  - Beatmap tags should properly list all contributors (guest difficulty creators, storyboarders, etc.).
-- [Song Content Rules](/wiki/Rules/Song_content_rules)
-- [Visual Content Considerations](/wiki/Rules/Visual_content_considerations)
+In some cases, beatmaps may be nominated despite breaking some of the criteria, as long as the mapper can update it to abide by the criteria prior to Loved. For example, a beatmap with an inappropriate background may be nominated as long as the background is later removed or replaced. An active contributor to Project Loved will usually post on the beatmap's [discussion](/wiki/Beatmap_discussion) if any changes are required.
 
-Additionally, in order to keep the audio quality of the song at a reasonable level, beatmap audio files should have an average bitrate of at least 128 kbps.
-
-Any problems with these rules are usually sorted out while the beatmap is up for voting.
+Additionally, contributors to Project Loved often make technical suggestions, such as improvements to audio quality, [timing](/wiki/Beatmapping/Timing) accuracy, or [metadata standardisation as recommended by the ranking criteria](/wiki/Ranking_criteria#metadata). The mapper is strongly encouraged to apply these suggestions, but they are not required to.
 
 ### osu!-specific criteria
 
-Starting from February 2023, beatmaps of the osu! game mode considered for Loved will follow these new categories as well as the rules and guidelines below, which are similar to the ranking criteria, but adapted for the more lenient process Project Loved is known for.
+Beatmaps of the osu! game mode considered for Loved follow the following categories as well as the rules and guidelines below, which are similar to the [ranking criteria](/wiki/Ranking_criteria), but adapted for the more lenient process Project Loved is known for.
 
 #### Categorisation
 
-Every month, beatmaps are chosen according to 9 categories, with the goal of ensuring variety for every selection of beatmaps by the captains.
+Every month, beatmaps are chosen according to 9 categories, with the goal of ensuring variety for every selection of beatmaps by the captains. This category system was implemented during the round of February 2023.
 
 | Category | Explanation |
 | :-: | :-- |
@@ -64,20 +61,14 @@ Every month, beatmaps are chosen according to 9 categories, with the goal of ens
 
 Additionally, up to three *wildcard* beatmaps may be chosen from any category, adding to a total of twelve beatmaps per month.
 
-For any questions regarding what goes in each category, contact the osu! Loved captains.
+For any questions regarding what goes in each category, contact the [osu! Loved captains](https://osu.ppy.sh/groups/31?mode=osu).
 
 #### Rules
 
 **All rules are exactly that: rules.** They are not guidelines and may not be broken under any circumstance.
 
-- **The beatmap must abide by the [beatmap submission rules](/wiki/Rules#beatmap-submission-rules).**
-- **The beatmap must not be currently in the Qualified, Ranked or Approved categories.** Ideally, a map should not be going for Ranked and Loved at the same time, as they are mutually exclusive.
 - **The beatmap must be submitted at least 1 year before Loved nomination, except for beatmaps that break ranking criteria due to their concept.** Submitting a beatmap solely for Loved is discouraged when Ranked might be a better option. Exceptions include sliderator usage, Aspire maps, storyboard gameplay gimmicks, etc.
-- **The beatmap must have at least 30 favourites.** This is a minimum threshold to indicate a positive and existing community reaction to the beatmap. Brigading for favourites is discouraged, although captains cannot verify whether that happens.
-- **Every person involved in the beatmap must not disapprove of it being Loved.** This includes guest difficulty creators, hitsounders, skinners, and storyboarders. If any user involved in the beatmap explicitly disagrees with their contribution being Loved, then it is to be removed from the beatmap after its nomination.
-- **The beatmap host cannot be restricted.** Guest difficulties from restricted users will be judged on a case-by-case basis once the map is considered for nomination by a Loved captain.
-- **At least one difficulty of the beatmap relevant to the Loved submission process must not auto-fail.** Leaderboards are pointless for beatmaps with broken score submission. For the same reason, this also forbids beatmaps that are relevant solely because of an unpassable difficulty, even if they have other difficulties. If the beatmap has a difficulty that auto-fails, a new difficulty with the problematic hit objects removed needs to be also included, preferably removing the original.
-- **Every difficulty of a beatmap must have a minimum drain time of 20 seconds.** This is lower than the 30-second minimum of the ranking criteria for the sake of being less limiting.
+- **The beatmap must have at least 30 favourites.** This is a minimum threshold to indicate a positive and existing community reaction to the beatmap. Brigading for favourites is discouraged, although captains cannot verify whether that happens in most cases.
 - **A beatmap must have at least some form of mapping contribution from the person submitting it.** This specifically avoids "beatmap compilations" which, even with the original mappers' permissions, do not represent the kind of original work showcased in Loved.
 - **Beatmap timing must not negatively impact gameplay.** Unlike the ranking criteria, which requires near-millisecond-accurate timing for all beatmaps, there is some leeway for complex songs. If unsure whether the timing for a beatmap is appropriate, contact one of the osu! Loved captains.
 - **Beatmaps with concepts relying on storyboards must not be easily abusable by players through file editing.** This judged on a case-by-case basis to ensure fair competition for people who play the beatmap as intended. Issues may be mitigated by using approach rate 0, making invisible notes' timing windows more natural, and utilising difficulty-specific storyboarding via the `.osu` file instead of the `.osb` file.
@@ -97,7 +88,7 @@ There are no strict rules governing which maps a captain must nominate for Loved
 
 ## Further information
 
-All of the organisation and planning for Project Loved is done in the `#osu-loved` channel of the [osu! Discord server](https://discord.gg/ppy). There is also a `#project-loved` channel in the [osu! Community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H). Any questions, concerns, or suggestions may be directed there.
+Most of the organisation and planning for Project Loved is done in the `#osu-loved` channel of the [osu! Discord server](https://discord.gg/ppy). Any questions, concerns, or suggestions may be directed there.
 
 In addition to the discussion channels mentioned above, there are dedicated hubs for each game mode:
 

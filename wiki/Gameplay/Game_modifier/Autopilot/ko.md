@@ -7,7 +7,7 @@ tags:
   - autopilot
   - AP
   - mod
-  - game modifiers
+  - game modifier
 ---
 
 # 오토 파일럿 (모드)

@@ -3,6 +3,8 @@ stub: true
 tags:
   - random
   - RD
+  - mod
+  - game modifier
   - Spielmodifikation
 no_native_review: true
 ---

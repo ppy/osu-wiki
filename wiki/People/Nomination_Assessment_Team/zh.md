@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 71d4473ed163c665c152ac81b945f3980be98ff4
 tags:
   - NAT
   - 审核评估

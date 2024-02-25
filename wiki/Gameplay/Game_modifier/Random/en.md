@@ -3,13 +3,15 @@ stub: true
 tags:
   - random
   - RD
+  - mod
+  - game modifier
 ---
 
 # Random (mod)
 
 ![RD mod icon](/wiki/shared/mods/RD.png "Random (RD) mod icon")
 
-*For the full list of all mods, see: [Game Modifier](/wiki/Gameplay/Game_modifier)*
+*For the full list of all mods, see: [Game modifier](/wiki/Gameplay/Game_modifier)*
 
 ## About
 

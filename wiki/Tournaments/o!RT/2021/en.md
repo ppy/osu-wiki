@@ -284,7 +284,7 @@ Saturday, 4 September 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **eternum**  ::{ flag=RO }:: | **7** | 4 | ::{ flag=RO }:: \_AfterWind | [#1](https://osu.ppy.sh/community/matches/90384246) |
+| **eternum** ::{ flag=RO }:: | **7** | 4 | ::{ flag=RO }:: \_AfterWind | [#1](https://osu.ppy.sh/community/matches/90384246) |
 | cristi2708 ::{ flag=RO }:: | 1 | **7** | ::{ flag=RO }:: **L9 ELOVATOR** | [#1](https://osu.ppy.sh/community/matches/90391055) |
 
 Sunday, 5 September 2021:
