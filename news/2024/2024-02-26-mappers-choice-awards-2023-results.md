@@ -8,9 +8,9 @@ The mappers have chosen! Let's comb through the results of this year's iteration
 
 ![](/wiki/shared/news/2024-02-01-mappers-choice-awards-2023/banner.jpg)
 
-In case you aren't up to date with the happenings of the mapping scene, the Mappers' Choice Awards (or *MCA*, as it is most known) is a community-hosted event where mappers nominate and vote on maps and mappers for various categories in order to celebrate mapping excellence in all shapes and forms. And at last, we get to commemorate the best of this year in each game mode (including storyboarding)!
+In case you aren't up to date with the happenings of the mapping scene, the Mappers' Choice Awards (or *MCA*, as it is most known) is a community-hosted event where mappers nominate and vote on maps and mappers for various categories in order to celebrate mapping excellence in all shapes and forms. And at last, we get to commemorate the best of this year in categories of each game mode (plus storyboarding)!
 
-While we'll only be covering the Grand Award podiums in this post, all category rankings can be found [in the MCA website](https://mca.corsace.io/2023/results), so make sure to not miss out on the full results there!
+While we'll only be covering the Grand Award podiums in this post, [all category rankings can be found in the MCA website](https://mca.corsace.io/2023/results), so make sure to not miss out on the full results there!
 
 ## Rewards
 
@@ -23,6 +23,14 @@ Before we dive into the results, here's a quick refresher on what awards we're o
   - Winners of the Grand categories will be awarded special badges each.
   - 2nd and 3rd place of the Grand categories will be awarded a top 3 badge.
   - The winner of each regular category will be awarded a generic badge.
+
+## Navigation
+
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
+- [Storyboarding](#storyboarding)
 
 ## osu!
 
@@ -86,7 +94,7 @@ Before we dive into the results, here's a quick refresher on what awards we're o
 
 ---
 
-Special thanks to [kaetwo](https://osu.ppy.sh/users/1997719) for the amazing design work per usual! Again, make sure to check out the full results [in the MCA website](https://mca.corsace.io/2023/results).
+Special thanks to [kaetwo](https://osu.ppy.sh/users/1997719) for the amazing design work per usual! Again, make sure to check out the [full results in the MCA website](https://mca.corsace.io/2023/results).
 
 To all who've participated in this year's iteration, we dearly thank you for your time. We hope you've enjoyed the event, and see you again in the next MCA!
 
