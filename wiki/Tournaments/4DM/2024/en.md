@@ -60,8 +60,6 @@ The 4 Digit osu!mania World Cup 2024 is run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1848473)
 - [4DM Discord server](https://discord.gg/W2MQ647)
 - [4DM YouTube channel](https://www.youtube.com/channel/UC9mLxo8frxAJCf1vrASEFDg)
-- [Player registrations](http://4dm-registrations.dannypx.com/)
-- [Staff applications](https://forms.gle/ob5i22KF3GjDMnai6)
 - [Livestream](https://www.twitch.tv/4digitmwc)
 - [Pick'em predictions website](https://pickem.hwc.hr/tournaments/134)
 - [Tournament bracket](https://challonge.com/4DM2024)
