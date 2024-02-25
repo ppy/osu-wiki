@@ -414,6 +414,7 @@ Saturday, 20 January 2024:
 | **Canada** ::{ flag=CA }:: | **5** | 0 | ::{ flag=AR }:: Argentina | [#1](https://osu.ppy.sh/community/matches/112299286) |
 
 Sunday, 21 January 2024:
+
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **China** ::{ flag=CN }:: | **5** | 2 | ::{ flag=CO }:: Colombia | [#1](https://osu.ppy.sh/community/matches/112302612) |
