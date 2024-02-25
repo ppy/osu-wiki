@@ -10,7 +10,7 @@ tags:
 
 ![MWC 7K 2024 banner](img/mwc7k2024-banner.jpg)
 
-The **osu!mania 7K World Cup 2024** (***MWC 7K 2024***) was a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the eighth instalment of the osu!mania 7K World Cup.
+The **osu!mania 7K World Cup 2024** (***MWC 7K 2024***) was a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the eighth instalment of the osu!mania 7K World Cup.
 
 ## Tournament schedule
 
