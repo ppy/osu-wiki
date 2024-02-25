@@ -228,7 +228,7 @@ This competition has come to an end and resulted in the following podium:
 - SV
   1. [Frums - sing sing red indigo (AlexDunk) \[mundane loops;\]](https://osu.ppy.sh/beatmapsets/2127152#mania/4471723)
   2. [Haraguchi Sasuke - Hito Mania (\[GB\]Mafufu) \[osu!mania \[Mods: \[HR\]\]\]](https://osu.ppy.sh/beatmapsets/2127065#mania/4471537)
-- TB
+- Tiebreaker
   1. **[Frums - UMBRA, RADIOLOGOS. (Lott) \[\[ENTRY NUMBER SEVENTEEN :: DARKNESS PREVAILS\]\]](https://osu.ppy.sh/beatmapsets/2127200#mania/4471794)**
 
 ### Round of 16
@@ -432,7 +432,7 @@ Sunday, 21 January 2024:
 
 ### Qualifiers
 
-- More detailed qualifier results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1Ro0kH2LwUZRBBbknN-xXaHD1gP0LbK558EE2gJLTWPo)
+- More detailed Qualifier results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1Ro0kH2LwUZRBBbknN-xXaHD1gP0LbK558EE2gJLTWPo)
 - Average rank was determined by `Σ(position earned when playing the Qualifiers mappool) / amount of maps played in the mappool`
 - Ties in average rank were broken by total scores
 - Only the top 32 teams proceeded to the brackets
