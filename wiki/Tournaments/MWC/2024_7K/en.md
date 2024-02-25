@@ -36,7 +36,7 @@ The osu!mania 7K World Cup 2024 offered a $1,200 cash prize pool and limited-edi
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool, single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
-![](img/badge-1st.png "MWC 7K 2024 winner badge") ![](img/badge-2nd.png "MWC 7K 2024 2nd place badge") ![](img/badge-3rd.png "MWC 7K 2024 3rd place badge")
+![](img/badge-1st.png "MWC 7K 2024 winner badge") ![](img/badge-2nd.png "MWC 7K 2024 2nd-place badge") ![](img/badge-3rd.png "MWC 7K 2024 3rd-place badge")
 
 ## Organisation
 
