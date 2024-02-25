@@ -64,7 +64,7 @@ La dificultad general también afecta a los [spinners](/wiki/Gameplay/Hit_object
 
 - OD < 5: `5 - 2 × (5 - OD) / 5`
 - OD = 5: `5`
-- OD > 5: `5 + 2,5 × (OD - 5) / 5`
+- OD > 5: `5 + 2.5 × (OD - 5) / 5`
 
 ## Efectos de mods
 
