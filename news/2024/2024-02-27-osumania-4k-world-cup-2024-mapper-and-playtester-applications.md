@@ -37,6 +37,6 @@ If you are considering applying but do not feel like you have the necessary expe
 
 ---
 
-Did either position catch your interest? Make sure to fill the application form available **[here](https://forms.gle/3JK3BFb7ZQNWK8qP8)**. The World Cup team will forever be grateful for your future contributions to the project!
+Did either position catch your interest? **[Make sure to fill the application form available here](https://forms.gle/3JK3BFb7ZQNWK8qP8)**. The World Cup team will forever be grateful for your future contributions to the project!
 
 —LeoFLT
