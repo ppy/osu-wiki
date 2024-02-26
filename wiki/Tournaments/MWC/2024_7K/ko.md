@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 9c688bc7354ccd48e907554ce34f2307d3e973d9
 tags:
   - MWC2024
   - MWC 2024
@@ -58,7 +60,6 @@ osu!mania 7키 월드컵 2024는 osu! 팀과 여러명의 커뮤니티 멤버들
 - [논의 스레드](https://osu.ppy.sh/community/forums/topics/1857033)
 - ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)가 운영하는 [Pick'em 승부예측 페이지](https://pickem.hwc.hr/tournaments/135)
 - [Challonge 대진표](https://challonge.com/MWC7K_2024)
-- [팀 지원하기](https://osu.ppy.sh/store/products/1251)
 
 ## 참가자
 
@@ -108,18 +109,11 @@ osu!mania 7키 월드컵 2024는 osu! 팀과 여러명의 커뮤니티 멤버들
 
 ## 매치 일정 : 그랜드 파이널
 
-### 2024년 2월 24일 토요일
-
-| Team A | Team B | 경기 시간 | 트위치 방송 |  |
-| --: | :-- | :-- | :-: | :-: |
-| 말레이시아 ::{ flag=MY }:: | ::{ flag=PH }:: 필리핀 | [2월 24일 (토요일) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240224T120000&p1=1440&p2=122&p3=145) | [osulive](https://twitch.tv/osulive) | [^lb-gf-match] |
-
 ### 2024년 2월 25일 일요일
 
 | Team A | Team B | 경기 시간 | 트위치 방송 |  |
 | --: | :-- | :-- | :-: | :-: |
-| 대한민국 ::{ flag=KR }:: | ::{ flag=MY }:: 말레이시아 | [2월 25일 (일요일) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240225T120000&p1=1440&p2=235&p3=122) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
-| 대한민국 ::{ flag=KR }:: | ::{ flag=PH }:: 필리핀 | [2월 25일 (일요일) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240225T120000&p1=1440&p2=235&p3=145) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
+| 대한민국 ::{ flag=KR }:: | ::{ flag=MY }:: 말레이시아 | [2월 25일 (일요일) 11:45 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240225T114500&p1=1440&p2=235&p3=122) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
 
 ## 맵풀 목록
 
@@ -282,6 +276,14 @@ osu!mania 7키 월드컵 2024는 osu! 팀과 여러명의 커뮤니티 멤버들
 8. [Raimukun - Cthulhu (Leeju) \[Stage 8: Abyss\]](https://osu.ppy.sh/beatmapsets/2115980#mania/4443612)
 
 ## 경기 결과
+
+### 그랜드 파이널
+
+2024년 2월 24일 토요일:
+
+| Team A |  |  | Team B | 경기 링크 | VOD 링크 |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **말레이시아** ::{ flag=MY }:: | **7** | 6 | ::{ flag=PH }:: 필리핀 | [#1](https://osu.ppy.sh/community/matches/112808432) | [#1](https://www.twitch.tv/videos/2072439938) |
 
 ### 파이널
 
@@ -588,7 +590,6 @@ osu!mania 7키 월드컵 2024는 osu! 팀과 여러명의 커뮤니티 멤버들
 
 ### 노트
 
-[^lb-gf-match]: 그랜드 파이널 패자조 경기
 [^gf-match]: 패자조 경기 결과에 따라 달라지는 그랜드 파이널 경기입니다
 [^qualifiers-seeding]: 주된 시드 배정 방법으로 사용합니다
 [^qualifiers-tiebreaker]: 두 팀의 average rank 값이 동일할 경우 타이브레이커로 사용합니다
