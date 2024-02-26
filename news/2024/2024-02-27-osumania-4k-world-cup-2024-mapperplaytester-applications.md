@@ -25,6 +25,7 @@ Please note that if you are accepted into either team, you will not be eligible 
 All prospective helpers will have to answer the first with form, which contains questions aimed at gauging whether or not they're a good fit for the current team.
 
 Participants that clear the first stage will have to answer another form, this time with even more specific questions meant to gauge their experience, skill, and methodology on various aspects of mapping and/or playtesting. After this stage, one of four things may happen:
+
   - The candidate is invited to staff for MWC 4K
   - The candidate is invited to an individual interview before proceeding
   - The candidate is invited to staff for RAFT
