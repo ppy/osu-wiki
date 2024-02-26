@@ -8,7 +8,7 @@ As the last keys are unpressed, the grand winner is revealed... Come and take a 
 
 ![](/wiki/Tournaments/MWC/2024_7K/img/mwc7k2024-banner.jpg)
 
-This has been an amazing year so far for the mania 7K community. For the **first time ever** there has been a stage above Round of 16 in the official 7K World Cup, and it is so good to see so many new teams apply, qualify, and have their go at the most prestigious 7K tournament of the year.
+This has been an amazing year so far for the mania 7K community. For the **first time ever** there has been a stage above Round of 16 in the official 7K World Cup, and it is so good to see so many new teams apply, qualify, and compete in the most prestigious 7K tournament of the year.
 
 ## Summary
 
@@ -106,7 +106,7 @@ Who would be better placed to educate us on the thoughts and attention put into 
 
 [![](/wiki/shared/news/2024-02-29-osu-mania-7k-world-cup-2024-concludes/butanic.png)](https://osu.ppy.sh/users/1433586)
 
-Even though it's their first time participating, **butanic** is a Japanese legend and veteran when it comes to anything VSRG related. With such accolades to their name, they shred through any and all RC picks this year, and provided an anchor for the team when they needed it the most.
+Even though it's their first time participating, **butanic** is a Japanese legend and veteran when it comes to anything VSRG related. With such accolades to their name, they shredded through every RC pick this year, and provided an anchor for the team when they needed it the most.
 
 [**You can find the Japanese version of the interview here.**](https://gist.github.com/0x84f/daed4ff36f81e64a5d2f68a234b1e10a)
 
@@ -116,7 +116,7 @@ Even though it's their first time participating, **butanic** is a Japanese legen
 
 > Yes, the name came from pork.
 
-*I know you started playing a long time ago, how did it start, and what makes you come back to the game and still play on such a high level for so long?*
+*I know you started playing a long time ago. How did it start, and what makes you come back to the game and still play on such a high level for so long?*
 
 > DJMAX Online was the first rhythm game I played, followed by o2jam and BMS. There was a time when I left BMS for a while, but I started playing BMS again when the Stella difficulty chart appeared, and I started playing osu!mania about a year ago when I found out that the osu!mania 7K Discord server in Japan had been created.
 > 
@@ -140,7 +140,7 @@ Born and raised on osu!mania, **yz1155** has climbed through the ranks and is no
 
 ---
 
-*I know you started playing a long time ago, how it started, and what makes you come back to the game and still play on such a high level for so long?*
+*I know you started playing a long time ago. How did it start, and what makes you come back to the game and still play on such a high level for so long?*
 
 > I forgot what made me start VSRGs, but I remember why I stopped playing the game. It was because I didn't have enough time.
 > 
@@ -152,7 +152,7 @@ Born and raised on osu!mania, **yz1155** has climbed through the ranks and is no
 
 *Were there any aspirations or goals that you've set for yourself for the World Cup that you are able to look back upon?*
 
-> Tournaments like MWC7K, SOL, and ETT are kind of a fan signing events with huge star players for me. I don't mind the result of the tournament, because I always enjoy everything. As a VSRG fan, meeting superstars in tournaments is already a huge level of enjoyment. So, my goal is to always have some fun and do my best.
+> Tournaments like MWC7K, SOL, and ETT are kind of fan signing events with huge star players for me. I don't mind the result of the tournament, because I always enjoy everything. As a VSRG fan, meeting superstars in tournaments is already a huge level of enjoyment. So, my goal is to always have some fun and do my best.
 
 *Do you have anything you want to let the readers know?*
 
@@ -188,9 +188,9 @@ Born and raised on osu!mania, **yz1155** has climbed through the ranks and is no
 
 **SurfChu85** is another staff member who took it upon themselves to fill gaps in the team and provide unique commentary from the eyes of not only an experienced player, but also one of the people who were in charge of crafting the same mappool the players are competing on.
 
-*For this year's edition, what match got you the fired up the most while commentating?*
+*For this year's edition, what match got you fired up the most while commentating?*
 
-> There's quite a few matches that I was looking forward to casting, but the one that really became a highlight was China vs Philippines. Not only the match-up was historic, it also had a big effect on how the tournament will end. I remember being so happy getting the match just because of it.
+> There's quite a few matches that I was looking forward to casting, but the one that really became a highlight was China vs Philippines. The match-up was not only historic, but it also had a big effect on how the tournament will end. I remember being so happy getting the match just because of it.
 > 
 > While the match did go as expected in its first half, and was on its way to finish early, I held on to the hope that something exciting would happen. Suddenly, you had one player grab that second wind and immediately shined. Not to mention, all the players were pulling off scores that can give anyone goosebumps. And don't get me started on the tiebreaker, oh my goodness.
 > 
@@ -216,7 +216,7 @@ Born and raised on osu!mania, **yz1155** has climbed through the ranks and is no
 
 [![](/wiki/shared/news/2024-02-29-osu-mania-7k-world-cup-2024-concludes/akiri.png)](https://osu.ppy.sh/users/19587411)
 
-**Akiri** is first and foremost one of our own, a community member and mania player. Their debut started with this year's Grand Finals tiebreaker, but their music journey goes [so far beyond that](https://osu.ppy.sh/beatmaps/artists/401).
+**Akiri** is first and foremost one of our own, a community member and mania player. Their debut started with this year's Semifinals tiebreaker, but their music journey goes [so far beyond that](https://osu.ppy.sh/beatmaps/artists/401).
 
 *How did you get into music production?*
 > It was out of spite, my father told me I'd never be capable of creating a name for myself which resulted in me simply doing so to spite him.
