@@ -1,6 +1,6 @@
 ---
 layout: post
-title: osu!mania 4k World Cup 2024 Mapper and Playtester Applications
+title: osu!mania 4K World Cup 2024 Mapper and Playtester Applications
 date: 2024-02-27 00:00:00 +0000
 ---
 
