@@ -108,6 +108,8 @@ Who would be better placed to educate us on the thoughts and attention put into 
 
 Even though it's their first time participating, **butanic** is a Japanese legend and veteran when it comes to anything VSRG related. With such accolades to their name, they shred through any and all RC picks this year, and provided an anchor for the team when they needed it the most.
 
+[**You can find the Japanese version of the interview here.**](https://gist.github.com/0x84f/daed4ff36f81e64a5d2f68a234b1e10a)
+
 ---
 
 *Is "butanic" a pun on "buta niku" (pork)?*
@@ -160,7 +162,7 @@ Born and raised on osu!mania, **yz1155** has climbed through the ranks and is no
 
 [![](/wiki/shared/news/2024-02-29-osu-mania-7k-world-cup-2024-concludes/noname.png)](https://osu.ppy.sh/users/10400730)
 
-**-NoName-** has gone absolutely bonkers this year, not only answering the call of being a mappool selector, but also going above and beyond by having **2** of their own charts (both solo and mapped in collaboration) present in **every stage** of the tournament this year, excluding Qualifiers. Some say they placed 50,000 notes for this year's tournament alone, but we'll let you count them out.
+**-NoName-** has gone absolutely bonkers this year, not only answering the call of being a mappool selector, but also going above and beyond by having **2** of their own charts (both solo and mapped in collaboration) present in **every stage** of the tournament this year, excluding Qualifiers. Some say they placed 50,000 notes over the course of this year's tournament alone, but we'll let you count them out.
 
 *What were your initial thoughts about stepping up as the head pooler for this World Cup? What made you go for it?*
 
@@ -230,7 +232,7 @@ Born and raised on osu!mania, **yz1155** has climbed through the ranks and is no
 
 ---
 
-Thank you to all the contributors who either directly, or indirectly participated in this year's osu!mania World Cup 7K tournament, either by organising, participating, or covering it.
+Thank you to all **71** contributors who helped make this year's osu!mania World Cup 7K tournament what it is, and thank you to **130** tournament participants who came out to show off their skills and have fun!
 
 ![](/wiki/shared/news/2024-02-29-osu-mania-7k-world-cup-2024-concludes/mwc7k2024-credits.png)
 
