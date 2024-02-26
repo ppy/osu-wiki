@@ -20,7 +20,7 @@ Please note that if you are accepted into either team, you will not be eligible 
 
 ### Recruitment process
 
-![](/wiki/shared/news/2024-02-27-osumania-4k-world-cup-2024-mapperplaytester-applications/mwc4k2024-apps-flowchart.png)
+![](/wiki/shared/news/2024-02-27-osumania-4k-world-cup-2024-mapper-and-playtester-applications/mwc4k2024-apps-flowchart.png)
 
 All prospective helpers will have to answer the first form, which contains questions aimed at gauging whether or not they're a good fit for the current team.
 
@@ -31,7 +31,7 @@ Participants that clear the first stage will have to answer another form, this t
 - The candidate is invited to staff for RAFT
 - The candidate is not invited to either team
 
-Please note that not all participants will receive invitations to the second and/or third stages, and may not receive invites even if they go through all steps. 
+Please note that not all participants will receive invitations to the second and/or third stages, and may not receive invites even if they go through all steps.
 
 If you are considering applying but do not feel like you have the necessary experience, we urge you to apply — the 4K MWC mappooling team alongside the [osu!mania Tourney Central Council](https://docs.google.com/spreadsheets/d/1Rmi_eiuZ855LNVSBH81Yv4BVHEpiT-Nll8UVyP6ToOY) has developed a controlled-environment staff mentorship program under the Rapid Fire Tournament Series project (RAFT), which will give mappers and playtesters with less tournament staffing experience but high potential and interest an opportunity to demonstrate their ability before being fully accepted into the 4K MWC mappooling team.
 
