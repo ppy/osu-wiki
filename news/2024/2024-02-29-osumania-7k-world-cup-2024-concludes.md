@@ -232,7 +232,7 @@ Born and raised on osu!mania, **yz1155** has climbed through the ranks and is no
 
 Thank you to all the contributors who either directly, or indirectly participated in this year's osu!mania World Cup 7K tournament, either by organising, participating, or covering it.
 
-![]()
+![](/wiki/shared/news/2024-02-29-osu-mania-7k-world-cup-2024-concludes/mwc7k2024-credits.png)
 
 This year has shown that the interest in 7K mania is slowly growing, and we hope that trend continues. Hopefully this year brings new stars into the scene, ready to fight their way to the top, each with their own rivalries, strengths and weaknesses.
 
