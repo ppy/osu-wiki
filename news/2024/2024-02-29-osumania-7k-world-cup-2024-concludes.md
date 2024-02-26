@@ -118,7 +118,7 @@ Even though it's their first time participating, **butanic** is a Japanese legen
 
 > DJMAX Online was the first rhythm game I played, followed by o2jam and BMS. There was a time when I left BMS for a while, but I started playing BMS again when the Stella difficulty chart appeared, and I started playing osu!mania about a year ago when I found out that the osu!mania 7K Discord server in Japan had been created.
 > 
-I have always been obsessed with getting first place, and even after getting first place, getting an even higher score, so I feel that my desire not to lose has helped me to maintain and improve my skills.
+> I have always been obsessed with getting first place, and even after getting first place, getting an even higher score, so I feel that my desire not to lose has helped me to maintain and improve my skills.
 
 *Were there any aspirations or goals that you've set for yourself for the World Cup that you are able to look back upon?*
 
