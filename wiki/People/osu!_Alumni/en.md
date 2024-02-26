@@ -198,6 +198,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) | QAT, GMT |
 | ::{ flag=SE }:: [PuffBuck](https://osu.ppy.sh/users/4234525) | Tournament Management |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | NAT |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | NAT |
 | ::{ flag=ES }:: [Raiden](https://osu.ppy.sh/users/2239480) | GMT, QAT |
 | ::{ flag=GB }:: [RandomJibberish](https://osu.ppy.sh/users/157879) | BAT |
 | ::{ flag=US }:: [RemmyX25](https://osu.ppy.sh/users/612) | BAT |
@@ -226,7 +227,6 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) | NAT |
 | ::{ flag=US }:: [Starrodkirby86](https://osu.ppy.sh/users/410) | BAT |
 | ::{ flag=GB }:: [Starry-](https://osu.ppy.sh/users/2166199) | QAT |
-| ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | GMT |
 | ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | NAT |
 | ::{ flag=CN }:: [Strawberry](https://osu.ppy.sh/users/519978) | BAT |
 | ::{ flag=RU }:: [stymlice](https://osu.ppy.sh/users/5122436) | GMT |

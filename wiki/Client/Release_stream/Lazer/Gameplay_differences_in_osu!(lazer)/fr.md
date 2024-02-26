@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 6cb79c54c6993c240d1457e7bc09ae43d41f869d
 ---
 
 # Différences de gameplay dans osu!(lazer)
@@ -16,10 +18,10 @@ Il est ainsi plus difficile de reprendre le jeu après une pause au milieu d'une
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Non |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Oui |
-| Nécessite un examen plus approfondi | Oui |
+| Rupture de la rétrocompatibilité | ![Non][false] |
+| Prise en charge de l'inversion des mods classiques | ![Non][false] |
+| Modifié intentionnellement | ![Oui][true] |
+| Nécessite un examen plus approfondi | ![Oui][true] |
 
 ### Le mod Easy n'interrompt plus le gameplay lors de la récupération d'un échec
 
@@ -27,10 +29,10 @@ Au lieu d'interrompre le jeu pendant le remplissage de la barre de santé, la sa
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Non |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Non |
-| Nécessite un examen plus approfondi | Oui |
+| Rupture de la rétrocompatibilité | ![Non][false] |
+| Prise en charge de l'inversion des mods classiques | ![Non][false] |
+| Modifié intentionnellement | ![Non][false] |
+| Nécessite un examen plus approfondi | ![Oui][true] |
 
 ### Le système de santé est différent
 
@@ -38,10 +40,10 @@ Cela est principalement dû aux changements apportés au système de jugement. P
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Oui |
-| Prise en charge de l'inversion des mods classiques | Oui |
-| Modifié intentionnellement | Oui |
-| Nécessite un examen plus approfondi | Oui |
+| Rupture de la rétrocompatibilité | ![Oui][true] |
+| Prise en charge de l'inversion des mods classiques | ![Oui][true] |
+| Modifié intentionnellement | ![Oui][true] |
+| Nécessite un examen plus approfondi | ![Oui][true] |
 
 ### Tous les modes de jeu, à l'exception d'osu!catch, utilisent le même système de notation
 
@@ -67,10 +69,10 @@ Pendant ce temps, osu!(lazer) a maintenant ces seuils de précision :
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Oui |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Oui |
-| Nécessite un examen plus approfondi | Oui |
+| Rupture de la rétrocompatibilité | ![Oui][true] |
+| Prise en charge de l'inversion des mods classiques | ![Non][false] |
+| Modifié intentionnellement | ![Oui][true] |
+| Nécessite un examen plus approfondi | ![Oui][true] |
 
 ### Les calculs des bords de la hit window ne correspondent pas aux calculs de stable
 
@@ -84,10 +86,10 @@ Lorsqu'un hit arrive juste au bord de la hit window, un jugement différent peut
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Oui |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Oui |
-| Nécessite un examen plus approfondi | Oui |
+| Rupture de la rétrocompatibilité | ![Oui][true] |
+| Prise en charge de l'inversion des mods classiques | ![Non][false] |
+| Modifié intentionnellement | ![Oui][true] |
+| Nécessite un examen plus approfondi | ![Oui][true] |
 
 ### Différences de notation
 
@@ -99,10 +101,10 @@ Il y a également des différences dans le score de chaque objet et de chaque ju
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Oui |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Oui |
-| Nécessite un examen plus approfondi | Oui |
+| Rupture de la rétrocompatibilité | ![Oui][true] |
+| Prise en charge de l'inversion des mods classiques | ![Non][false] |
+| Modifié intentionnellement | ![Oui][true] |
+| Nécessite un examen plus approfondi | ![Oui][true] |
 
 ### Les déclencheurs des storyboards ne sont pas mis en œuvre
 
@@ -120,10 +122,10 @@ Il est désormais plus facile de se remettre d'une erreur dans les patterns dens
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Oui |
-| Prise en charge de l'inversion des mods classiques | Oui |
-| Modifié intentionnellement | Oui |
-| Nécessite un examen plus approfondi | Non |
+| Rupture de la rétrocompatibilité | ![Oui][true] |
+| Prise en charge de l'inversion des mods classiques | ![Oui][true] |
+| Modifié intentionnellement | ![Oui][true] |
+| Nécessite un examen plus approfondi | ![Non][false] |
 
 ### Les cercles de la tête du slider exigent de la précision lors de la frappe
 
@@ -133,10 +135,10 @@ Jusqu'à lazer, les sliders ne nécessitaient que la précision d'un jugement 50
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Oui |
-| Prise en charge de l'inversion des mods classiques | Oui |
-| Modifié intentionnellement | Oui |
-| Nécessite un examen plus approfondi | Non |
+| Rupture de la rétrocompatibilité | ![Oui][true] |
+| Prise en charge de l'inversion des mods classiques | ![Oui][true] |
+| Modifié intentionnellement | ![Oui][true] |
+| Nécessite un examen plus approfondi | ![Non][false] |
 
 ### L'absence d'un tête de slider entraîne un miss
 
@@ -146,10 +148,10 @@ Dans lazer, le fait de ne pas toucher la slider head donne un jugement MISS pour
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Oui |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Oui |
-| Nécessite un examen plus approfondi | Non |
+| Rupture de la rétrocompatibilité | ![Oui][true] |
+| Prise en charge de l'inversion des mods classiques | ![Non][false] |
+| Modifié intentionnellement | ![Oui][true] |
+| Nécessite un examen plus approfondi | ![Non][false] |
 
 ### Les sliders ends ne provoquent pas de hitsounds lorsqu'ils ne sont pas frappés
 
@@ -157,10 +159,10 @@ Dans la version stable, les sliders ends jouaient leurs hitsounds même s'ils é
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Non |
-| Prise en charge de l'inversion des mods classiques | Oui |
-| Modifié intentionnellement | Oui |
-| Nécessite un examen plus approfondi | Non |
+| Rupture de la rétrocompatibilité | ![Non][false] |
+| Prise en charge de l'inversion des mods classiques | ![Oui][true] |
+| Modifié intentionnellement | ![Oui][true] |
+| Nécessite un examen plus approfondi | ![Non][false] |
 
 ### La limite de vitesse de rotation des spinners de 477 tours/minute a été supprimée
 
@@ -178,10 +180,10 @@ Le RPM nécessaire pour obtenir le score maximum est le suivant :
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Oui |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Oui |
-| Nécessite un examen plus approfondi | Oui |
+| Rupture de la rétrocompatibilité | ![Oui][true] |
+| Prise en charge de l'inversion des mods classiques | ![Non][false] |
+| Modifié intentionnellement | ![Oui][true] |
+| Nécessite un examen plus approfondi | ![Oui][true] |
 
 ### Les sliders glitchés de type Aspire ne sont pas pris en charge
 
@@ -193,10 +195,10 @@ Une discussion et une réflexion plus approfondies seront nécessaires pour dét
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Oui |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Non |
-| Nécessite un examen plus approfondi | Oui |
+| Rupture de la rétrocompatibilité | ![Oui][true] |
+| Prise en charge de l'inversion des mods classiques | ![Non][false] |
+| Modifié intentionnellement | ![Non][false] |
+| Nécessite un examen plus approfondi | ![Oui][true] |
 
 ## osu!taiko
 
@@ -206,10 +208,10 @@ Certaines maps gimmick utilisent des notes qui se superposent aux swells.
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Oui |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Non |
-| Nécessite un examen plus approfondi | Oui |
+| Rupture de la rétrocompatibilité | ![Oui][true] |
+| Prise en charge de l'inversion des mods classiques | ![Non][false] |
+| Modifié intentionnellement | ![Non][false] |
+| Nécessite un examen plus approfondi | ![Oui][true] |
 
 ### Les drumrolls n'empêchent pas le mashing
 
@@ -217,10 +219,10 @@ Dans la version stable, les drumrolls ne pouvaient pas être frappés trop rapid
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Oui |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Oui |
-| Nécessite un examen plus approfondi | Oui |
+| Rupture de la rétrocompatibilité | ![Oui][true] |
+| Prise en charge de l'inversion des mods classiques | ![Non][false] |
+| Modifié intentionnellement | ![Oui][true] |
+| Nécessite un examen plus approfondi | ![Oui][true] |
 
 ### Le centre de Flashlight est aligné avec le récepteur d'impact
 
@@ -228,10 +230,10 @@ Dans stable, le centre de Flashlight est légèrement décalé vers le bas et ve
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Non |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Non |
-| Nécessite un examen plus approfondi | Oui |
+| Rupture de la rétrocompatibilité | ![Non][false] |
+| Prise en charge de l'inversion des mods classiques | ![Non][false] |
+| Modifié intentionnellement | ![Non][false] |
+| Nécessite un examen plus approfondi | ![Oui][true] |
 
 ## osu!catch
 
@@ -241,10 +243,10 @@ Cela peut conduire à des jugements inexacts lors des replays et à une augmenta
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Oui |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Non |
-| Nécessite un examen plus approfondi | Oui |
+| Rupture de la rétrocompatibilité | ![Oui][true] |
+| Prise en charge de l'inversion des mods classiques | ![Non][false] |
+| Modifié intentionnellement | ![Non][false] |
+| Nécessite un examen plus approfondi | ![Oui][true] |
 
 ### La génération de juice stream peut être différente dans certains cas
 
@@ -252,10 +254,10 @@ Cela peut conduire à des jugements inexacts lors des replays.
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Oui |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Non |
-| Nécessite un examen plus approfondi | Oui |
+| Rupture de la rétrocompatibilité | ![Oui][true] |
+| Prise en charge de l'inversion des mods classiques | ![Non][false] |
+| Modifié intentionnellement | ![Non][false] |
+| Nécessite un examen plus approfondi | ![Oui][true] |
 
 ## osu!mania
 
@@ -265,10 +267,10 @@ Son fonctionnement est similaire à celui de ScoreV2 dans stable.
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Oui |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Oui |
-| Nécessite un examen plus approfondi | Non |
+| Rupture de la rétrocompatibilité | ![Oui][true] |
+| Prise en charge de l'inversion des mods classiques | ![Non][false] |
+| Modifié intentionnellement | ![Oui][true] |
+| Nécessite un examen plus approfondi | ![Non][false] |
 
 ### Les ticks de la hold note donnent le score et sont responsables des ruptures de combo
 
@@ -278,10 +280,10 @@ Cela permet le cheesing (c'est-à-dire la "manipulation") en autorisant le "wris
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Oui |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Oui |
-| Nécessite un examen plus approfondi | Oui |
+| Rupture de la rétrocompatibilité | ![Oui][true] |
+| Prise en charge de l'inversion des mods classiques | ![Non][false] |
+| Modifié intentionnellement | ![Oui][true] |
+| Nécessite un examen plus approfondi | ![Oui][true] |
 
 ### Les vitesses de défilement extrêmes sont limitées
 
@@ -289,10 +291,10 @@ Certaines beatmaps avec des gimmicks de SV comme les téléportations ou les arr
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Non |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Oui |
-| Nécessite un examen plus approfondi | Oui |
+| Rupture de la rétrocompatibilité | ![Non][false] |
+| Prise en charge de l'inversion des mods classiques | ![Non][false] |
+| Modifié intentionnellement | ![Oui][true] |
+| Nécessite un examen plus approfondi | ![Oui][true] |
 
 ### La fenêtre de jugement PERFECT s'échelonne en fonction de l'OD
 
@@ -300,10 +302,10 @@ Il s'agissait auparavant d'une valeur constante de ±16 ms, quelle que soit la d
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Oui |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Oui |
-| Nécessite un examen plus approfondi | Non? |
+| Rupture de la rétrocompatibilité | ![Oui][true] |
+| Prise en charge de l'inversion des mods classiques | ![Non][false] |
+| Modifié intentionnellement | ![Oui][true] |
+| Nécessite un examen plus approfondi | ![Non][false] |
 
 ### Les beatmaps convertis n'ont plus de fenêtres d'impact différentes
 
@@ -311,10 +313,10 @@ Dans stable, les beatmaps converties du mode de jeu osu! en osu!mania avaient [d
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Oui |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Oui |
-| Nécessite un examen plus approfondi | Non? |
+| Rupture de la rétrocompatibilité | ![Oui][true] |
+| Prise en charge de l'inversion des mods classiques | ![Non][false] |
+| Modifié intentionnellement | ![Oui][true] |
+| Nécessite un examen plus approfondi | ![Non][false] |
 
 ### Le mod Flashlight n'a pas de dégradé
 
@@ -322,7 +324,10 @@ Dans stable, les beatmaps converties du mode de jeu osu! en osu!mania avaient [d
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Non |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Non |
-| Nécessite un examen plus approfondi | Oui |
+| Rupture de la rétrocompatibilité | ![Non][false] |
+| Prise en charge de l'inversion des mods classiques | ![Non][false] |
+| Modifié intentionnellement | ![Non][false] |
+| Nécessite un examen plus approfondi | ![Oui][true] |
+
+[true]: /wiki/shared/true.png
+[false]: /wiki/shared/false.png
