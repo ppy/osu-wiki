@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 4390338dba70d8ad149f01408d623120cdc6aa96
+---
+
 # Nâng cấp lên lazer
 
 *Lưu ý: Chúng tôi vẫn đang tìm cách giải quyết vấn đề cân bằng các yếu tố và các cơ chế trong trò chơi. Còn bây giờ, **những điểm số được ghi trên lazer sẽ chỉ tồn tại tạm thời**.*
@@ -71,11 +76,11 @@ Sau đây là bảng so sánh **trạng thái hiện tại** của lazer so vớ
 
 | Tính năng | stable | lazer |
 | :-- | :-- | :-- |
-| Ghi lại điểm số | ![Có][true] | ![Có một phần][partial][^score-reset-balance] |
-| Bảng xếp hạng trên beatmap | ![Có][true] | ![Có một phần][partial][^score-reset-isolated] |
+| Ghi lại điểm số | ![Có][true] | ![Có][true] |
+| Bảng xếp hạng trên beatmap | ![Có][true] | ![Có][true] |
 | Các thống kê trên hồ sơ | ![Có][true] | ![Có][true] |
 | Các huy chương | ![Có][true] | ![Không][false] |
-| Điểm hiệu suất | ![Có][true] | ![Có một phần][partial][^score-reset-isolated] |
+| Điểm hiệu suất | ![Có][true] | ![Có][true] |
 | Trò chuyện thời gian thực | ![Có một phần][partial][^stable-chat] | ![Có][true] |
 | Wiki / tin tức / nhật kí thay đổi / xếp hạng | ![Không][false] | ![Có][true][^online-content] |
 | Hồ sơ người dùng | ![Không][false] | ![Có][true] |
@@ -290,8 +295,6 @@ Có vẻ như bạn đang nghĩ về một trò chơi khác.
 [^offset-calibration-lazer]: Khi chơi lại beatmap, bạn có thể hiệu chỉnh độ lệch nhịp dựa trên lần chơi trước đó của mình.
 [^can-disable]: Có thể bị vô hiệu hóa.
 [^note-lock]: Vẫn tồn tại, nhưng sẽ không quá ảnh hưởng.
-[^score-reset-balance]: Điểm số sẽ được thiết lập lại để đảm bảo tính cân bằng.
-[^score-reset-isolated]: Điểm số sẽ được đặt lại, hiện đang được tách riêng khỏi điểm số từ bản stable.
 [^online-content]: Truy cập vào hầu hết nội dung trực tuyến ngay trong game.
 [^direct-supporter]: osu!direct, dành riêng cho osu!supporter.
 [^supporter]: Dành riêng cho osu!supporter.

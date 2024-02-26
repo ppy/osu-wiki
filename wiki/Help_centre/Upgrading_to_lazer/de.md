@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 4390338dba70d8ad149f01408d623120cdc6aa96
 ---
 
 # Umstellung auf lazer
@@ -75,11 +77,11 @@ Im Folgenden findest du eine umfassende Liste des **aktuellen Status** von lazer
 
 | Feature | stable | lazer |
 | :-- | :-- | :-- |
-| Score-Einreichung | ![Ja][true] | ![Teilweise][partial][^score-reset-balance] |
-| Beatmap-Ranglisten | ![Ja][true] | ![Teilweise][partial][^score-reset-isolated] |
+| Score-Einreichung | ![Ja][true] | ![Ja][true] |
+| Beatmap-Ranglisten | ![Ja][true] | ![Ja][true] |
 | Profil-Statistiken | ![Ja][true] | ![Ja][true] |
 | Medaillen | ![Ja][true] | ![Nein][false] |
-| Performance-Punkte | ![Ja][true] | ![Teilweise][partial][^score-reset-isolated] |
+| Performance-Punkte | ![Ja][true] | ![Ja][true] |
 | Chat in Echtzeit | ![Teilweise][partial][^stable-chat] | ![Ja][true] |
 | Wiki / Neuigkeiten / Änderungsprotokoll / Ranglisten | ![Nein][false] | ![Ja][true][^online-content] |
 | Nutzerprofile | ![Nein][false] | ![Ja][true] |
@@ -294,8 +296,6 @@ Du denkst wahrscheinlich an ein anderes Spiel.
 [^offset-calibration-lazer]: Beim Neustart einer Beatmap kannst du das Offset anhand deines letzten Durchlaufs kalibrieren.
 [^can-disable]: Kann deaktiviert werden.
 [^note-lock]: Existiert noch, sollte aber nicht stören.
-[^score-reset-balance]: Scores werden zurückgesetzt, um Fairness zu gewährleisten.
-[^score-reset-isolated]: Scores werden zurückgesetzt, aktuell sind sie von Scores auf stable isoliert.
 [^online-content]: Eingebauter Zugang zu den meisten Online-Inhalten.
 [^direct-supporter]: Über osu!direct, nur für osu!supporter.
 [^supporter]: nur für osu!supporter.
