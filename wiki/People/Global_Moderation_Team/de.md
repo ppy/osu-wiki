@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 918808cb4826bd1b2d3f8eb4f61b5262ae09c741
 tags:
   - GMT
   - moderator
@@ -11,9 +13,9 @@ tags:
 
 *Siehe auch: [Mod (Begriffsabgrenzung)](/wiki/Disambiguation/Mod).*
 
-**Globales Moderationsteam** (früher auch bekannt als Globales Modteam, Administratoren oder “GreenBAT”), allgemein auch **GMT**, sind Mitglieder der osu!-Belegschaft, die in erster Linie für die Moderation der Spieler sowie einschlägige Probleme im Team und in der gesamten Community zuständig sind. Sie sind anhand ihres zitrusgrünen Nutzertitels, dem zitrusgrünen [Gruppenabzeichen](/wiki/People/User_group) mit der Aufschrift `GMT` sowie ihrem roten Nutzernamen im Spiel zu erkennen.
+Das **globale Moderationsteam** (früher auch bekannt als globales Modteam, Administratoren oder “GreenBAT”), allgemein auch **GMT**, besteht aus Mitgliedern der osu!-Community, die in erster Linie für die Moderation von Spielern sowie einschlägige Probleme im Team und in der gesamten Community zuständig sind. Sie sind anhand ihres zitrusgrünen Nutzertitels, dem zitrusgrünen [Gruppenabzeichen](/wiki/People/User_group) mit der Aufschrift `GMT` sowie ihrem roten Nutzernamen im Spiel zu erkennen.
 
-**Alle globalen Moderatoren müssen sich an den [Verhaltenskodex für Mitwirkende](/wiki/Rules/Contributor_code_of_conduct) zusätzlich zu den normalen [Community-Richtlinien](/wiki/Rules) halten.**
+**Alle globalen Moderatoren müssen sich neben den [Community-Richtlinien](/wiki/Rules) auch an den [Verhaltenskodex für Mitwirkende](/wiki/Rules/Contributor_code_of_conduct) halten.**
 
 ***Anmerkung: Um das Fehlverhalten eines Moderators zu melden, kontaktiere das [Account-Support-Team](/wiki/People/Account_support_team#support@ppy.sh).***
 
@@ -21,55 +23,57 @@ tags:
 
 *Siehe auch: [Melden von schlechtem Verhalten](/wiki/Reporting_bad_behaviour)*
 
-Das globale Moderationsteam ist für das Wohlergehen der Chats/Foren zuständig und kümmern sich um reibungslose Interaktionen innerhalb der Community. Du solltest dich an sie wenden, wenn du Fragen im Bezug auf die Moderationsaspekte des Spiels hast, das würde auch (aber nicht beschränkt auf) miteinbeziehen:
+Das globale Moderationsteam ist für das Wohlergehen des Chats und Forums zuständig und kümmert sich um reibungslose Interaktionen innerhalb der Community. Das GMT kann bei allen Fragen zu Moderationsthemen angesprochen werden. Dazu gehören beispielsweise:
 
 - Probleme im Chat (z. B. Spam oder Belästigung)
 - Fehlverhalten in den Foren (z. B. unangemessene Beiträge)
 - die Beatmap-Diskussionen und Kommentarsektionen
-- Moderation der Benutzerprofile (NSFW oder anderweitig anstößige Inhalte in Avataren, Profilbanner oder -details, ...)
+- die Moderation von Benutzerprofilen (NSFW oder anderweitig anstößige Inhalte in Avataren, Profilbannern oder -details, ...)
 
 ## Ein Moderator werden
 
-Der Weg, um ein Mitglied des **Globales Moderationsteam** zu werden, benötigt eine beachtliche Menge an Beitrag. Potentielle Mitglieder werden oft durch ihr Wille anderen Nutzern zu helfen, die Aktivität in der Community sowie ihr gutes Verhalten beachtet. Die Fähigkeit, eine zweite Sprache zu sprechen wird stark empfohlen. Dabei wird dann noch innerhalb des Teams über das Potenzial eines Kandidaten als Teammitglied diskutiert.
+Um ein Mitglied des **globalen Moderationsteams** zu werden, müssen nennenswerte Beiträge geleistet werden. Kandidaten für eine Stelle im Team fallen oft durch ihre Hilfsbereitschaft, ihre Aktivität in der Community und ihr gutes Verhalten auf. Generell werden Kandidaten bevorzugt, die Englisch und mindestens eine weitere Sprache beherrschen. Das Team diskutiert intern, ob ein möglicher Kandidat Teammitglied werden soll.
 
-### Wie man berücksichtigt wird
+### Wie man als Kandidat in Betracht gezogen wird
 
 Die wichtigsten Faktoren für die Entscheidung sind Verhalten, Aktivität, Verständnis [der Regeln](/wiki/Rules) und Geduld:
 
-1. Demonstriere ein gutes Verhalten durch Höflichkeit und das Respektieren anderer. Dein Account frei von jeglichen Stummschaltungen oder Verstößen zu halten, ist essenziell.
-2. Demonstriere Aktivität im Spiel durch die Teilnahme am Chat und/oder in den Foren. [Melde jedes Fehlverhalten](/wiki/Reporting_bad_behaviour) und Probleme via dem Meldesystem. Beantworte Fragen und helfe anderen mit Problemen.
-3. Habe ein grundlegendes Verständnis [der Regeln](/wiki/Rules) und wie diese angewendet werden. Es ist wichtig zu wissen, was akzeptabel innerhalb von osu! ist und was nicht.
-4. Sei geduldig. Das GMT fügt nicht spontan Mitglieder hinzu, die ein paar Tage geholfen haben. Es braucht Zeit für das GMT, um jemanden zu bewerten - seine Persönlichkeit, mit was er helfen kann, seine Aktivität, usw.
+1. Beweise dein gutes Verhalten durch höflichen und respektvollen Umgang mit anderen Nutzern. Es ist essenziell, deinen Account frei von Stummschaltungen oder Verstößen zu halten.
+2. Demonstriere deine Aktivität durch die Teilnahme am Chat und/oder in den Foren. [Melde Fehlverhalten](/wiki/Reporting_bad_behaviour) und Probleme, beantworte Fragen und hilf anderen mit Problemen.
+3. Habe ein gutes Verständnis [der Regeln](/wiki/Rules) und wie diese angewendet werden. Du solltest wissen, was in osu! akzeptabel ist und was nicht.
+4. Sei geduldig. Das GMT fügt nicht spontan Mitglieder hinzu, die ein paar Tage geholfen haben. Das GMT braucht Zeit, um jemanden zu bewerten – seine Persönlichkeit, womit er helfen kann, seine Aktivität usw.
 
-Generell wird das Team Menschen über mehrere Wochen oder Monate hinweg beobachten, um sicher zu gehen, dass diese gut ins Team passen. Bitte sei geduldig und schieße nicht über das Ziel hinaus. Du darfst gerne jemanden des GMTs über Regeln, das Melden von Spielern und andere Probleme fragen.
+Generell wird das Team Kandidaten über mehrere Wochen oder Monate hinweg beobachten, um sicherzugehen, dass diese gut ins Team passen. Bitte sei geduldig und schieße nicht über das Ziel hinaus. Du darfst den globalen Moderatoren gerne Fragen zu Regeln, dem Melden von Spielern und anderen Problemen stellen.
 
 ### Einige Dinge, die du nicht machen solltest
 
-1. Frage das GMT nicht ständig, ob du als potentieller Kandidat geeignet bist. Das GMT möchte niemanden hinzufügen, der nur als Mittel zum Zweck beiträgt. Ein altruistisches Mindset ist der Schlüssel.
-2. Melde nicht jede Kleinigkeit im Chat. Es ist eine wichtige Fähigkeit, zu wissen, was gemeldet werde sollte und was nicht.
-3. Beantworte nicht Fragen von anderen, ohne dass du weißt, ob deine Antwort korrekt ist oder nicht; insbesondere in den Foren. Vorschläge sind willkommen, aber das Herausgeben von Falschinformationen hilft keinem. Wenn du die Lösung für ein Problem nicht kennst, dann lasse jemand anderes antworten und lerne von ihm.
-4. Mache nicht zu viel. Das Team schaut auf einen konsistenten Beitrag und nicht auf eine überladene Menge. Es ist bekannt, dass das Menschen die Geduld und das Engagement verlieren lässt. Nur keine Hektik!
+1. Frage das GMT nicht ständig, ob du als potenzieller Kandidat geeignet bist. Das GMT möchte niemanden hinzufügen, der nur zum Selbstzweck beiträgt. Deine Herangehensweise sollte nicht eigennützig sein.
+2. Melde nicht jede Kleinigkeit im Chat. Du solltest unterscheiden können, was gemeldet werden sollte und was nicht.
+3. Beantworte keine Fragen, wenn du dir mit der Antwort nicht sicher bist. Das gilt vor allem in den Foren. Vorschläge sind willkommen, aber das Verbreiten von Falschinformationen hilft niemandem. Wenn du die Lösung für ein Problem nicht kennst, dann lasse jemand anderen antworten und lerne von ihm.
+4. Mache nicht zu viel. Das Team sucht nicht nach übermäßig vielen, sondern nach regelmäßigen Beiträgen. Es ist bekannt, dass Kandidaten sonst ihre Geduld und ihr Engagement verlieren. Nur keine Hektik!
 
 ## Vorteile
 
-Globale Moderatoren erhalten die folgenden Vorzüge:
+Globale Moderatoren erhalten die folgenden Vorteile:
 
 - **[osu!supporter](/wiki/osu!supporter)**: Ein osu!supporter-Tag, das für die Dauer der Mitgliedschaft im Team gilt.
-- **Abzeichen für das Engagement**: Ein [Profilabzeichen](/wiki/Community/Profile_badge), das die Anzahl der Jahre anzeigt, die die Person im GMT war (beginnend mit 3).
+- **Abzeichen für das Engagement**: Ein [Profilabzeichen](/wiki/Community/Profile_badge), das die Amtszeit des Nutzers, beginnend mit 3 Jahren, anzeigt.
   ![GMT-Abzeichen für 3 Jahre](https://assets.ppy.sh/profile-badges/GMT3y.png "GMT-Abzeichen für 3 Jahre") ![GMT-Abzeichen für 4 Jahre](https://assets.ppy.sh/profile-badges/GMT4y.png "GMT-Abzeichen für 4 Jahre") ![GMT-Abzeichen für 5 Jahre](https://assets.ppy.sh/profile-badges/GMT5y.png "GMT-Abzeichen für 5 Jahre")
 
 ## Ausscheiden aus dem Team
 
-Sobald ein globaler Moderator sich dazu entscheidet, das Team zu verlassen, kann er je nach Umstand die folgenden Belohnungen erhalten:
+Entscheidet sich ein globaler Moderator dazu, das Team zu verlassen, kann er je nach Umstand die folgenden Belohnungen erhalten:
 
-- **Nutzertitel [osu! Alumni](/wiki/People/osu!_Alumni)**: Dies wird an Mitglieder verliehen, die mindestens 1 Jahr lang Teil des Teams waren oder über einen kürzeren Zeitraum bedeutende Beiträge innerhalb des Teams geleistet haben.
-- **osu!supporter**: Mitglieder bekommen ein osu!supporter-Tag, das doppelt so lange ist wie ihre Zeit im GMT (mit denselben Bedingungen wie bei osu! Alumni).
+- **Nutzertitel [osu! Alumni](/wiki/People/osu!_Alumni)**: Dieser Titel wird an Mitglieder verliehen, die mindestens 1 Jahr lang Teil des Teams waren oder über einen kürzeren Zeitraum bedeutende Beiträge innerhalb des Teams geleistet haben.
+- **osu!supporter**: Mitglieder erhalten ein osu!supporter-Tag, das doppelt so lange gilt wie ihre Zeit im GMT. Dabei gelten dieselben Bedingungen, die für den osu!-Alumni-Titel gelten.
 
 ## Teammitglieder
 
-*Anmerkung: Alle Mitglieder aus dem GMT sprechen Englisch, außer es wurde zusätzlich vermerkt.*
+*Anmerkung: Alle Mitglieder des GMTs sprechen Englisch, außer es wurde zusätzlich vermerkt.*
 
-Die [Seite für das globale Moderationsteam](https://osu.ppy.sh/groups/4) listet alle Teammitglieder auf. Zusätzlich zu den unten genannten Bereichen nehmen alle Mitglieder des GMTs teil an der [Bewertung des visuellen und auditiven Inhalts in Beatmaps](/wiki/Rules/Visual_content_considerations#dein-bild-bewerten-lassen).
+Die [Gruppenseite des GMTs](https://osu.ppy.sh/groups/4) listet alle Teammitglieder auf. Zusätzlich zu den unten genannten Bereichen nehmen alle globalen Moderatoren an der [Bewertung von visuellen und auditiven Inhalten in Beatmaps](/wiki/Rules/Visual_content_considerations#dein-bild-bewerten-lassen) teil.
+
+<!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
 
 | Name | Zusätzliche Sprachen | Schwerpunktgebiet |
 | :-- | :-- | :-- |
@@ -82,7 +86,6 @@ Die [Seite für das globale Moderationsteam](https://osu.ppy.sh/groups/4) listet
 | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | Niederländisch, etwas Deutsch |  |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Verwaltung von Turnieren[^task-Azer] |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | Chinesisch, Malaiisch | Chat-Moderation |
-| ::{ flag=TR }:: [Burak](https://osu.ppy.sh/users/13213075) | Türkisch | Chat-Moderation |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Schwedisch, Spanisch | Chat-Moderation, Verwaltung von Turnieren |
 | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  | Chat-Moderation |
 | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | Koreanisch, Japanisch | Chat-Moderation |
@@ -105,9 +108,9 @@ Die [Seite für das globale Moderationsteam](https://osu.ppy.sh/groups/4) listet
 | ::{ flag=JP }:: [KSHR](https://osu.ppy.sh/users/409957) | Japanisch | Chat-Moderation |
 | ::{ flag=RU }:: [Kudou Chitose](https://osu.ppy.sh/users/9936528) | Russisch | Chat-Moderation |
 | ::{ flag=RU }:: [Kyubey](https://osu.ppy.sh/users/2195646) | Russisch | Chat-Moderation |
-| ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) | Finnisch | Chat-Moderation |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Portugiesisch, Spanisch | Chat-Moderation, Verwaltung von Turnieren |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Deutsch | Moderation der Mapping-/Modding-Community |
+| ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | Deutsch | Chat-Moderation, Forum-Moderation |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Kantonesisch, Chinesisch | [^task-mangomizer] |
 | ::{ flag=BR }:: [Maot](https://osu.ppy.sh/users/3914271) | Portugiesisch | Moderation der Mapping-/Modding-Community |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu!-Entwicklung |
@@ -134,6 +137,7 @@ Die [Seite für das globale Moderationsteam](https://osu.ppy.sh/groups/4) listet
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Französisch, Spanisch | Chat-Moderation |
 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | Indonesisch | Chat-Moderation |
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | Indonesisch, etwas Vietnamesisch | Chat-Moderation, Forum-Moderation |
+| ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | Deutsch, Serbisch | Forum-Moderation |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | Chinesisch | Chat-Moderation |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | Finnisch | Chat-Moderation |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | Forum-Moderation, Chat-Moderation |
@@ -145,6 +149,7 @@ Die [Seite für das globale Moderationsteam](https://osu.ppy.sh/groups/4) listet
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Spanisch | Technischer Support |
 | ::{ flag=NL }:: [Uni](https://osu.ppy.sh/users/617106) | Niederländisch | Chat-Moderation |
 | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Polnisch | Teamleitung, Chat-Moderation, Moderation der Mapping-/Modding-Community |
+| ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) | Indonesisch | Chat-Moderation |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | Polnisch | Chat-Moderation |
 | ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | Chat-Moderation |
 
@@ -161,25 +166,25 @@ Die [Seite für das globale Moderationsteam](https://osu.ppy.sh/groups/4) listet
 | `#dutch` | [Nederlands](https://osu.ppy.sh/community/forums/69) | ::{ flag=NL }:: [Uni](https://osu.ppy.sh/users/617106) |
 | `#english` |  | *Alle Moderatoren* |
 | `#filipino` | [Tagalog](https://osu.ppy.sh/community/forums/76) | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078), ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236), ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) |
-| `#finnish` | [Suomi](https://osu.ppy.sh/community/forums/24) | ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507), ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) |
+| `#finnish` | [Suomi](https://osu.ppy.sh/community/forums/24) | ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) |
 | `#french` | [Français](https://osu.ppy.sh/community/forums/34) | ::{ flag=FR }:: [Ganondorf](https://osu.ppy.sh/users/10660738), ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837), ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981), ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) |
-| `#german` | [Deutsch](https://osu.ppy.sh/community/forums/37) | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985), ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405), ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) |
+| `#german` | [Deutsch](https://osu.ppy.sh/community/forums/37) | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985), ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253), ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405), ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) |
 | `#greek` |  |  |
 | `#hebrew` |  |  |
 | `#hungarian` | [Magyar](https://osu.ppy.sh/community/forums/95) | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) |
-| `#indonesian` | [Indonesian](https://osu.ppy.sh/community/forums/73) | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) |
+| `#indonesian` | [Indonesian](https://osu.ppy.sh/community/forums/73) | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991), ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) |
 | `#italian` | [Italiano](https://osu.ppy.sh/community/forums/36) |  |
 | `#japanese` | [日本語](https://osu.ppy.sh/community/forums/32) | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107), ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109), ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=JP }:: [KSHR](https://osu.ppy.sh/users/409957), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236) |
 | `#korean` | [한국어](https://osu.ppy.sh/community/forums/58) | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236) |
 | `#malaysian` | [Malaysian](https://osu.ppy.sh/community/forums/94) | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419), ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) |
 | `#polish` | [Polski](https://osu.ppy.sh/community/forums/26) | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570), ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631), ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) |
-| `#portuguese` | [Português](https://osu.ppy.sh/community/forums/74) | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109), ::{ flag=BR }:: [Nukrid](https://osu.ppy.sh/users/2307484)  |
+| `#portuguese` | [Português](https://osu.ppy.sh/community/forums/74) | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109), ::{ flag=BR }:: [Nukrid](https://osu.ppy.sh/users/2307484) |
 | `#romanian` |  |  |
 | `#russian` | [Русский](https://osu.ppy.sh/community/forums/35) | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467), ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533), ::{ flag=RU }:: [Kudou Chitose](https://osu.ppy.sh/users/9936528), ::{ flag=RU }:: [Kyubey](https://osu.ppy.sh/users/2195646), ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) |
 | `#skandinavian` | [Skandinavien](https://osu.ppy.sh/community/forums/77) | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) |
 | `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) |
 | `#thai` | [ภาษาไทย](https://osu.ppy.sh/community/forums/54) | ::{ flag=TH }:: [Trigonoculus](https://osu.ppy.sh/users/7627013) |
-| `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) | ::{ flag=TR }:: [Burak](https://osu.ppy.sh/users/13213075) |
+| `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) |  |
 | `#ukrainian` |  | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) |
 | `#vietnamese` |  | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) |
 

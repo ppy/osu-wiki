@@ -239,13 +239,13 @@ Saturday, 19 April 2014 & Sunday, 20 April 2014
 
 #### Grand Final
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **iLikeMudkipz** ::{ flag=GB }:: | **6** | 5 | ::{ flag=GB }:: Doomsday |
 
 #### 3rd Place
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | SoraRoxas ::{ flag=GB }:: | **6** | 4 | ::{ flag=GB }:: jesus1412 |
 
@@ -253,7 +253,7 @@ Saturday, 19 April 2014 & Sunday, 20 April 2014
 
 Saturday, 12 April 2014 & Sunday, 13 April 2014
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | SoraRoxas ::{ flag=GB }:: | 2 | **5** | ::{ flag=GB }:: **iLikeMidkipz** |
 | **Doomsday** ::{ flag=GB }:: | **5** | 2 | ::{ flag=GB }:: jesus1412 |
@@ -262,89 +262,89 @@ Saturday, 12 April 2014 & Sunday, 13 April 2014
 
 Saturday, 5 April 2014
 
-| Player 1 | | | Player 2 | Notes |
+| Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **SoraRoxas** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: PortalLife | |
-| **iLikeMudkipz** ::{ flag=GB }:: | **5** | 2 | ::{ flag=GB }:: Navi | |
-| **Doomsday** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: Cozzy | |
+| **SoraRoxas** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: PortalLife |  |
+| **iLikeMudkipz** ::{ flag=GB }:: | **5** | 2 | ::{ flag=GB }:: Navi |  |
+| **Doomsday** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: Cozzy |  |
 | Could This Be ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **jesus1412** | *forfeit* |
 
 ### Round of 16
 
 Saturday, 29 March 2014
 
-| Player 1 | | | Player 2 | Notes |
+| Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
 | Behaviour ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **SoraRoxas** | *forfeit* |
-| Neroh ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **PortalLife** | |
-| sullyjhf ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **iLikeMudkipz** | |
+| Neroh ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **PortalLife** |  |
+| sullyjhf ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **iLikeMudkipz** |  |
 | **Navi** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Snookie | *forfeit (during match)* |
-| Viremon ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **Doomsday** | |
-| Just Miku ::{ flag=GB }:: | 2 | **4** | ::{ flag=GB }:: **Cozzzy** | |
-| Kardet ::{ flag=GB }:: | 1 | **4** | ::{ flag=GB }:: **Could This Be** | |
-| vidya ::{ flag=GB }:: | 3 | **4** | ::{ flag=GB }:: **jesus1412** | |
+| Viremon ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **Doomsday** |  |
+| Just Miku ::{ flag=GB }:: | 2 | **4** | ::{ flag=GB }:: **Cozzzy** |  |
+| Kardet ::{ flag=GB }:: | 1 | **4** | ::{ flag=GB }:: **Could This Be** |  |
+| vidya ::{ flag=GB }:: | 3 | **4** | ::{ flag=GB }:: **jesus1412** |  |
 
 ### Round of 32
 
 Saturday, 22 March 2014
 
-| Player 1 | | | Player 2 | Notes |
+| Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
 | **Behaviour** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: \[ Thanatos \] | *forfeit* |
-| **SoraRoxas** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Kozuka | |
-| **Neroh** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: Syrus | |
-| **PortalLife** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Charleyzard | |
-| **sullyjhf** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: Uphox | |
-| **iLikeMudkipz** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Blaziken | |
+| **SoraRoxas** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Kozuka |  |
+| **Neroh** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: Syrus |  |
+| **PortalLife** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Charleyzard |  |
+| **sullyjhf** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: Uphox |  |
+| **iLikeMudkipz** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Blaziken |  |
 | **Navi** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: spaminabox | *forfeit* |
-| **Snookie** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: K E I | |
-| **Viremon** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Udon | |
+| **Snookie** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: K E I |  |
+| **Viremon** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Udon |  |
 | Crai ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **Doomsday** | *forfeit* |
-| **Just Miku** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Fluttershy03 | |
-| Grimdeath ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Cozzzy** | |
-| **Kardet** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: the holy beans | |
-| Ommetaphobia ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Could This Be** | |
-| litejason ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **vidya** | |
-| AshleyCarnine ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **jesus1412** | |
+| **Just Miku** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Fluttershy03 |  |
+| Grimdeath ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Cozzzy** |  |
+| **Kardet** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: the holy beans |  |
+| Ommetaphobia ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Could This Be** |  |
+| litejason ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **vidya** |  |
+| AshleyCarnine ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **jesus1412** |  |
 
 ### Round of 64
 
  Satuday, 15 March 2014 & Sunday, 16 March 2014
 
-| Player 1 | | | Player 2 | Notes |
+| Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| regafu ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Behaviour** | |
+| regafu ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Behaviour** |  |
 | **\[ Thanatos \]** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: EatYourMattress | *forfeit* |
-| **SoraRoxas** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Juiceb0x | |
-| YunoWhoItIs ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Kozuka** | |
-| Riari ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Neroh** | |
-| SirCadams ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Syrus** | |
-| Swaayy ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **PortalLife** | |
+| **SoraRoxas** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Juiceb0x |  |
+| YunoWhoItIs ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Kozuka** |  |
+| Riari ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Neroh** |  |
+| SirCadams ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Syrus** |  |
+| Swaayy ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **PortalLife** |  |
 | C3Swamp ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **Charleyzard** | *forfeit* |
-| **sullyjhf** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: samc | |
-| **Uphox** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: -kyou- | |
-| OmegaSin ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **iLikeMudkipz** | |
+| **sullyjhf** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: samc |  |
+| **Uphox** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: -kyou- |  |
+| OmegaSin ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **iLikeMudkipz** |  |
 | **Blaziken** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Raiku | *forfeit* |
-| dreeeaam ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Navi** | |
-| **spaminabox** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Albert Donger | |
+| dreeeaam ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Navi** |  |
+| **spaminabox** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Albert Donger |  |
 | **Snookie** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Chunelle | *forfeit* |
-| **K E I** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: -MoeYandere- | |
-| **Viremon** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Jeromelol | |
-| Kry ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Udon** | |
-| R a h a r u ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Crai** | |
-| destructor966 ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: Doomsday | |
-| **Just Miku** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: ibecolours | |
-| Kakiage ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Fluttershy03** | |
-| **Grimdeath** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: KyleDinny | |
-| Yoishi ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Cozzzy** | |
-| Jameslike ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Kardet** | |
-| **the holy beans** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: Tsuneko-chan | |
-| garchojoker ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Ommetaphobia** | |
-| Gaadrin ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Could This Be** | |
-| casmith789 ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **litejason** | |
-| **vidya** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: bahamete | |
+| **K E I** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: -MoeYandere- |  |
+| **Viremon** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Jeromelol |  |
+| Kry ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Udon** |  |
+| R a h a r u ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Crai** |  |
+| destructor966 ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: Doomsday |  |
+| **Just Miku** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: ibecolours |  |
+| Kakiage ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Fluttershy03** |  |
+| **Grimdeath** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: KyleDinny |  |
+| Yoishi ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Cozzzy** |  |
+| Jameslike ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Kardet** |  |
+| **the holy beans** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: Tsuneko-chan |  |
+| garchojoker ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Ommetaphobia** |  |
+| Gaadrin ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Could This Be** |  |
+| casmith789 ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **litejason** |  |
+| **vidya** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: bahamete |  |
 | EzLyn ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **AshleyCarnine** | *forfeit* |
-| **jesus1412** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: ChicagoTed7172 | |
+| **jesus1412** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: ChicagoTed7172 |  |
 
 ## Ruleset
 

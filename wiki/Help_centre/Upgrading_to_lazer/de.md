@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 4390338dba70d8ad149f01408d623120cdc6aa96
 ---
 
 # Umstellung auf lazer
@@ -14,7 +16,7 @@ Das Ziel ist, dass diese Version als Update veröffentlicht wird, das die besteh
 
 ## Vergleich der Funktionen
 
-*Für eine liste der Unterschiede in den Spielmechaniken, siehe: [Unterschiede im Gameplay in osu!(lazer)](/wiki/Client/Release_stream/Lazer/Gameplay_differences_in_osu!(lazer))*
+*Für eine Liste der Unterschiede in den Spielmechaniken, siehe: [Unterschiede im Gameplay in osu!(lazer)](/wiki/Client/Release_stream/Lazer/Gameplay_differences_in_osu!(lazer))*
 
 Im Folgenden findest du eine umfassende Liste des **aktuellen Status** von lazer im Vergleich zu stable. Beachte, dass sich die Übersicht fortlaufend ändert — im Laufe der Zeit ist das Endziel die Umsetzung aller Features, die den Spielern wichtig sind.
 
@@ -75,11 +77,11 @@ Im Folgenden findest du eine umfassende Liste des **aktuellen Status** von lazer
 
 | Feature | stable | lazer |
 | :-- | :-- | :-- |
-| Score-Einreichung | ![Ja][true] | ![Teilweise][partial][^score-reset-balance] |
-| Beatmap-Ranglisten | ![Ja][true] | ![Teilweise][partial][^score-reset-isolated] |
+| Score-Einreichung | ![Ja][true] | ![Ja][true] |
+| Beatmap-Ranglisten | ![Ja][true] | ![Ja][true] |
 | Profil-Statistiken | ![Ja][true] | ![Ja][true] |
 | Medaillen | ![Ja][true] | ![Nein][false] |
-| Performance-Punkte | ![Ja][true] | ![Teilweise][partial][^score-reset-isolated] |
+| Performance-Punkte | ![Ja][true] | ![Ja][true] |
 | Chat in Echtzeit | ![Teilweise][partial][^stable-chat] | ![Ja][true] |
 | Wiki / Neuigkeiten / Änderungsprotokoll / Ranglisten | ![Nein][false] | ![Ja][true][^online-content] |
 | Nutzerprofile | ![Nein][false] | ![Ja][true] |
@@ -115,7 +117,7 @@ Im Folgenden findest du eine umfassende Liste des **aktuellen Status** von lazer
 
 Du hast dich also dazu entschieden, lazer auszuprobieren? Super!
 
-Du kannst es [hier](https://github.com/ppy/osu#running-osu) herunterladen. Bald wirst du die Möglichkeit haben, von stable aus zu lazer zu wechseln (über die Einstellung `Updatequelle`). Demnächst ist auch ein Link zum Herunterladen auf der osu!-Webseite zu finden.
+Du kannst es [hier](https://osu.ppy.sh/home/download) herunterladen. Bald wirst du die Möglichkeit haben, von stable aus zu lazer zu wechseln (über die Einstellung `Updatequelle`).
 
 ## Häufig gestellte Fragen
 
@@ -280,7 +282,7 @@ Auf die gleiche Weise, wie du es sonst machen würdest.
 
 Du denkst wahrscheinlich an ein anderes Spiel.
 
-### Anmerkungen
+## Anmerkungen
 
 [^wine]: Mit Wine.
 [^compatibility-mode]: DirectX über den Kompatibilitätsmodus.
@@ -294,8 +296,6 @@ Du denkst wahrscheinlich an ein anderes Spiel.
 [^offset-calibration-lazer]: Beim Neustart einer Beatmap kannst du das Offset anhand deines letzten Durchlaufs kalibrieren.
 [^can-disable]: Kann deaktiviert werden.
 [^note-lock]: Existiert noch, sollte aber nicht stören.
-[^score-reset-balance]: Scores werden zurückgesetzt, um Fairness zu gewährleisten.
-[^score-reset-isolated]: Scores werden zurückgesetzt, aktuell sind sie von Scores auf stable isoliert.
 [^online-content]: Eingebauter Zugang zu den meisten Online-Inhalten.
 [^direct-supporter]: Über osu!direct, nur für osu!supporter.
 [^supporter]: nur für osu!supporter.

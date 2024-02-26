@@ -1,6 +1,6 @@
 # Medaglie
 
-Le **medaglie**, precedentemente chiamate *obiettivi*, sono emblemi sulla pagina dell'utente che indicano il raggiungimento di alcuni traguardi che sono stati ottenuti dall'utente. Al momento, ci sono **314** possibili medaglie da sbloccare, suddivise in otto diverse categorie in tutto: [Pacchetti Beatmap](#pacchetti-beatmap), [Abilità](#abilità), [Dedizione](#dedizione), [Introduzione Alle Mod](#introduzione-alle-mod), [Hush-Hush](#hush-hush), [Beatmap Spotlight](#beatmap-spotlight), [Spotlight Stagionali](#spotlight-stagionali), e [Pacchetti Sfida Beatmap](#pacchetti-sfida-beatmap).
+Le **medaglie**, precedentemente chiamate *obiettivi*, sono emblemi sulla pagina dell'utente che indicano il raggiungimento di alcuni traguardi che sono stati ottenuti dall'utente. Al momento, ci sono **324** possibili medaglie da sbloccare, suddivise in otto diverse categorie in tutto: [Pacchetti Beatmap](#pacchetti-beatmap), [Abilità](#abilità), [Dedizione](#dedizione), [Introduzione Alle Mod](#introduzione-alle-mod), [Hush-Hush](#hush-hush), [Beatmap Spotlight](#beatmap-spotlight), [Spotlight Stagionali](#spotlight-stagionali), e [Pacchetti Sfida Beatmap](#pacchetti-sfida-beatmap).
 
 ## Pacchetti Beatmap
 
@@ -12,7 +12,7 @@ Vale la pena menzionare che i contenuti di tutti i Pacchetti Video Game, Anime, 
 
 ## Abilità
 
-Le **medaglie Abilità** sono medaglie assegnate col raggiungimento di svariati traguardi basati sulle proprie abilità, che può essere ottenere un certo numero di [combo](/wiki/Beatmapping/Combo), raggiungere una determinata posizione nella [classifica mondiale per punti performance](https://osu.ppy.sh/rankings/osu/performance), passando o ottenendo una [full combo](/wiki/Gameplay/Full_combo) su una qualsiasi beatmap [Qualificata](/wiki/Beatmap/Category#qualificate), [Classificata](/wiki/Beatmap/Category#classificate) o [Approvata](/wiki/Beatmap/Category#approvate) di una determinata [difficoltà](/wiki/Beatmap/Star_rating).
+Le **medaglie Abilità** sono medaglie assegnate col raggiungimento di svariati traguardi basati sulle proprie abilità, che può essere ottenere un certo numero di [combo](/wiki/Beatmapping/Combo), raggiungere una determinata posizione nella [classifica mondiale per punti performance](https://osu.ppy.sh/rankings/osu/performance), passando o ottenendo una [full combo](/wiki/Gameplay/Full_combo) su una qualsiasi beatmap [Qualificata](/wiki/Beatmap/Category#qualified), [Classificata](/wiki/Beatmap/Category#ranked) o [Approvata](/wiki/Beatmap/Category#approved) di una determinata [difficoltà](/wiki/Beatmap/Star_rating).
 
 ## Dedizione
 
@@ -22,19 +22,21 @@ Le **medaglie Dedizione** sono medaglie conseguite al raggiungimento di un deter
 
 *Vedi anche: [Modificatori Di Gioco](/wiki/Gameplay/Game_modifier)*
 
-Le **medaglie di Introduzione Alle Mod** sono medaglie conseguite una volta passata una qualsiasi beatmap [Qualificata](/wiki/Beatmap/Category#qualificate), [Classificata](/wiki/Beatmap/Category#classificate) o [Approvata](/wiki/Beatmap/Category#approvate) con il suo corrispondente [modificatore di gioco (mod)](/wiki/Gameplay/Game_modifier). Queste medaglie hanno lo scopo di incoraggiare i nuovi giocatori a provare ogni mod ed esplorare cosa il gioco ha da offrire. Ricorda, in ogni caso, che se i giocatori giocano con più mods allo stesso tempo, il giocatore **non** è ammesso a ottenere *alcuna* medaglia legata alle mods per quella partita.
+Le **medaglie di Introduzione Alle Mod** sono medaglie conseguite una volta passata una qualsiasi beatmap [Qualificata](/wiki/Beatmap/Category#qualified), [Classificata](/wiki/Beatmap/Category#ranked) o [Approvata](/wiki/Beatmap/Category#approved) con il suo corrispondente [modificatore di gioco (mod)](/wiki/Gameplay/Game_modifier). Queste medaglie hanno lo scopo di incoraggiare i nuovi giocatori a provare ogni mod ed esplorare cosa il gioco ha da offrire. Ricorda, in ogni caso, che se i giocatori giocano con più mods allo stesso tempo, il giocatore **non** è ammesso a ottenere *alcuna* medaglia legata alle mods per quella partita.
 
 Tutte le Medaglie di Introduzione Alle Mod possono essere sbloccate in qualunque [modalità di gioco](/wiki/Game_mode) a meno che non venga specificato diversamente.
 
 ## Hush-Hush
 
-Le **medaglie Hush-Hush** sono medaglie "segrete" ottenute compiendo azioni molto specifiche, che non vengono esplicitamente dette al giocatore (da qui proviene il nome). Queste azioni possono variare da completare una beatmap in particolari circostanze a stabilire una giocata con una combinazione di mod inusuale. Nonostante la loro natura segreta, ci sono degli indizi nascosti in giro per aiutare tutti i collezionistsi di medaglie curiosi nella loro ricerca come segue: 
+Le **medaglie Hush-Hush** sono medaglie "segrete" ottenute compiendo azioni molto specifiche, che non vengono esplicitamente dette al giocatore (da qui proviene il nome). Queste azioni possono variare da completare una beatmap in particolari circostanze a stabilire una giocata con una combinazione di mod inusuale. Nonostante la loro natura segreta, ci sono degli indizi nascosti in giro per aiutare tutti i collezionistsi di medaglie curiosi nella loro ricerca come segue:
 
 - Il nome della medaglia in sé,
 - Le brevi descrizioni delle medaglie,
 - I loro *testi a comparsa*<!-- https://twitter.com/ephemeralis/status/1068054191602638850 --> (se ci sono), visibili passando sopra l'emblema con il cursore.
 
 Siccome le medaglie Hush-Hush sono fatte per essere obiettivi segreti, i requisiti per sbloccarle non sono vengono direttamente rivelati al pubblico; ad ogni modo, i giocatori possono [collaborare per capire insieme un modo per ottenere tutte le medaglie Hush-Hush qui](https://osu.ppy.sh/home/news/2016-08-17-new-hush-hush-medals).
+
+Esiste anche una sottocategoria chiamata "Hush-Hush (Expert)". La differenza è che le medaglie in essa contenute non consentono l'uso di alcuna mod per la [riduzione della difficoltà](/wiki/Gameplay/Game_modifier#difficulty-reduction) o [speciale](/wiki/Gameplay/Game_modifier#special).
 
 ## Beatmap Spotlight
 

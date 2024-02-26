@@ -2206,6 +2206,20 @@ Notes:
 
 ---
 
+`rank-forum.png`
+
+![](img/rank-forum.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| All | ![No][false] | ![No][false] | Normal | Centre | 25x25 |
+
+Notes:
+
+- Any pixels outside of the 25x25 square will be cut off.
+
+---
+
 `selection-mode.png`
 
 ![](img/selection-mode.png)
@@ -2341,6 +2355,37 @@ Notes:
 Notes:
 
 - Depending on the client's window size, 4 to 5 tabs will be displayed.
+
+---
+
+`songselect-bottom.png`
+
+![](img/songselect-bottom.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| All | ![No][false] | ![No][false] | Normal | Bottom Left | - |
+
+Notes:
+
+- Stretches to 100% of screen width.
+- Making this element too tall will prevent mouse clicks from interacting with elements below it.
+
+---
+
+`songselect-top.png`
+
+![](img/songselect-top.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| All | ![No][false] | ![No][false] | Normal | Top Left | - |
+
+Notes:
+
+- Rightmost few pixels repeat from a certain point
+  - Repetitions are layered below the initial asset
+  - Their starting point varies depending on user's in-game resolution
 
 ---
 

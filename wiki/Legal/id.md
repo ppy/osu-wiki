@@ -6,3 +6,4 @@ Berikut ini merupakan daftar artikel yang membahas seputar hal-hal yang berhubun
 - [Lisensi musik osu!](Music_licensing)
 - [Kebijakan privasi osu!](Privacy)
 - [Ketentuan layanan osu!](Terms)
+- [SCTL](SCTL)
