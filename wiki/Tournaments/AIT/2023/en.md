@@ -36,13 +36,15 @@ The Ascaveth Invitational Tournament 2023 offered a prize pool that was built up
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 35% of the accumulated prize pool, physical trophy (courtesy of [Wellen Print](https://wellenprint.com/)), commemorative medal, exclusive players-only merch set |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 35% of the accumulated prize pool, physical trophy (courtesy of [Wellen Print](https://wellenprint.com/)), commemorative medal, exclusive players-only merch set, unique profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 20% of the accumulated prize pool, physical trophy (courtesy of [Wellen Print](https://wellenprint.com/)), commemorative medal, exclusive players-only merch set |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 15% of the accumulated prize pool, physical trophy (courtesy of [Wellen Print](https://wellenprint.com/)), commemorative medal, exclusive players-only merch set |
 | *4th place* | 10% of the accumulated prize pool, exclusive players-only merch set |
 | *5th–8th place* | 5% of the accumulated prize pool, exclusive players-only merch set |
 
-As with other osu! tournaments in general, the Ascaveth Invitational Tournament 2023 was not marked for profit, with all donations and proceeds going directly into the prize pool.
+![](img/badge.png "AIT 2023 winner badge")
+
+As with other osu! tournaments in general, the Ascaveth Invitational Tournament 2023 was not marked for profit. All earnings made from before and throughout the event were used to contribute towards the prize pool.
 
 ## Organisation
 
@@ -90,17 +92,11 @@ Listed below are the players who were invited into the tournament:
 - ::{ flag=ID }:: [ThatNOOBGuy](https://osu.ppy.sh/users/11091594) *([Ascaveth Invitational Tournament 2023: Last Chance Qualifier](/wiki/Tournaments/AIT/2023_LCQ) winner)*
 - ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) *([Ascaveth Invitational Tournament 2023: Last Chance Qualifier](/wiki/Tournaments/AIT/2023_LCQ) runner-up)*
 
-In addition, the tournament management also included ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) as a reserve player in case someone had to withdraw from the event on short notice.
+In addition, the tournament management also included ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) as a reserve player in case someone had to withdraw on short notice due to unforeseen circumstances.
 
 ## Podium
 
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Player |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) |
+![](img/podium.jpg "AIT 2023 podium")
 
 ## Mappools
 

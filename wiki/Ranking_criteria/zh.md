@@ -1,6 +1,7 @@
 # 谱面上架标准 (RC)
 
-*若想查阅特定[游戏模式](/wiki/Game_mode)的谱面上架标准，请参阅 [osu!](osu!)、[osu!taiko](osu!taiko)、[osu!catch](osu!catch)、[osu!mania](osu!mania)。*
+*若想查阅[游戏模式](/wiki/Game_mode)特有的谱面上架标准，请参阅：[osu!](osu!)、[osu!taiko](osu!taiko)、[osu!catch](osu!catch)、[osu!mania](osu!mania)。*\
+*若想查阅简短版本的谱面上架标准，请参阅：[简版上架标准](Simplified_ranking_criteria)。*
 
 **谱面上架标准 (Ranking Criteria)** 列出了[谱面](/wiki/Beatmap)在通过[谱面上架程序](/wiki/Beatmap_ranking_procedure)时必须遵守的[规定和准则](#一般术语)。
 
