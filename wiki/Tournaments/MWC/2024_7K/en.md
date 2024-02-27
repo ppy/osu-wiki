@@ -564,7 +564,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 ### Mappool information
 
 1. Every stage will have its own mappool.
-2. Each mappool consists of a fixed amount of maps, which will all be played under Free Mod conditions. 
+2. Each mappool consists of a fixed amount of maps, which will all be played under Free Mod conditions.
 3. The mappool sizes are as follows:
    - Qualifiers: 8 beatmaps
    - Round of 24 and Round of 16: 12 beatmaps
