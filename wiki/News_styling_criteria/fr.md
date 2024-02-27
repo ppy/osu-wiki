@@ -1,5 +1,7 @@
 ---
 no_native_review_since: 1bf5b747eb7cc330b7bed4195c7119e904282211 Doryan
+outdated_translation: true
+outdated_since: 0b17e730706bd653e8092be92c75b0e1d83e6a1f
 ---
 
 # Critères de style des news
