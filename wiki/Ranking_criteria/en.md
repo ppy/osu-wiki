@@ -1,6 +1,7 @@
 # Ranking criteria
 
-*For [game mode](/wiki/Game_mode)-specific ranking criteria, see: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), and [osu!mania](osu!mania)*
+*For [game mode](/wiki/Game_mode)-specific ranking criteria, see: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), and [osu!mania](osu!mania)*\
+*For a simplified version of the ranking criteria, see: [Simplified ranking criteria](Simplified_ranking_criteria)*
 
 This set of **ranking criteria** lays out [rules and guidelines](#general-terms) that [beatmaps](/wiki/Beatmap) must follow in order to progress through the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
 
@@ -50,7 +51,7 @@ Important to understand before using:
 
 ## Beatmap
 
-*Note: Each of [osu!mania](/wiki/Game_mode/osu!mania)'s key counts are considered individual game modes throughout this section.*
+*Note: Each [osu!mania](/wiki/Game_mode/osu!mania) [key mode](osu!mania#common-terms) and [playstyle](osu!mania#common-terms) is considered to be a separate game mode throughout this section.*
 
 ### Rules
 

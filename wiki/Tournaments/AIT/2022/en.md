@@ -134,7 +134,7 @@ In addition, ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) was dra
 - DoubleTime
   1. [Sakamoto Maaya - Mameshiba (Keqing) \[Seaside\]](https://osu.ppy.sh/beatmapsets/1650679#osu/3371420)
   2. [Annabel - pedalnote (Agatsu) \[Gibune's Insane\]](https://osu.ppy.sh/beatmapsets/1669381#osu/3409171)
-  3. [zts - lastendconductor (EvilElvis) \[Insane\]](https://osu.ppy.sh/beatmapsets/333965#osu/738959)  
+  3. [zts - lastendconductor (EvilElvis) \[Insane\]](https://osu.ppy.sh/beatmapsets/333965#osu/738959)
 - Tiebreaker
   1. **[Asriel - Sequentia (Deca) \[Damnation\]](https://osu.ppy.sh/beatmapsets/1550720#osu/3168834)**
 
@@ -148,7 +148,7 @@ In addition, ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) was dra
 
 ### 3rd Place Match
 
-| Match code  | Player 1 |  |  | Player 2 | Match link |
+| Match code | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | 3rd Place Match | **[Crezz](https://osu.ppy.sh/users/7108275)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [Lifeline](https://osu.ppy.sh/users/11367222) | [#1](https://osu.ppy.sh/community/matches/103532224) |
 

@@ -6,7 +6,7 @@ tags:
 
 # Hype
 
-Jede [ausstehende](/wiki/Beatmap/Category#work-in-progress-und-ausstehend) [Beatmap](/wiki/Beatmap) hat einen **Hype-Train**, der grob zeigt, wie viele Spieler daran interessiert sind, dass die Beatmap [gerankt](/wiki/Beatmap/Category#ranked) wird. Nutzer können spezielle [Beatmap-Diskussionen](/wiki/Beatmap_discussion) im Tab `Allgemein (Alle Difficulties)` erstellen und die Option `Hype!` verwenden, um zum Hype-Train beizutragen.
+Jede [ausstehende](/wiki/Beatmap/Category#wip-and-pending) [Beatmap](/wiki/Beatmap) hat einen **Hype-Train**, der grob zeigt, wie viele Spieler daran interessiert sind, dass die Beatmap [gerankt](/wiki/Beatmap/Category#ranked) wird. Nutzer können spezielle [Beatmap-Diskussionen](/wiki/Beatmap_discussion) im Tab `Allgemein (Alle Difficulties)` erstellen und die Option `Hype!` verwenden, um zum Hype-Train beizutragen.
 
 ## Ranking-Voraussetzung
 

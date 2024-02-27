@@ -46,11 +46,11 @@ Le concours sera jugé par un panel de mappeurs (comprenant des storyboarders) e
 
 - **Vote communautaire**
   - Prix
-    - **Deuxième place :** 3 mois d'osu!supporter 
+    - **Deuxième place :** 3 mois d'osu!supporter
     - **Gagnant :** 6 mois d'osu!supporter + badge de profil *Community Pick*.
 - **Panel de mappeurs** (qui se concentre sur la qualité du mapping)
   - Prix
-    - **Deuxième place :** 3 mois d'osu!supporter 
+    - **Deuxième place :** 3 mois d'osu!supporter
     - **Gagnant :** 6 mois d'osu!supporter + badge de profil *Mappers' Pick*
     - Panélistes :
       - ::{ flag=DE }:: [Celektus](https://osu.ppy.sh/users/4294993)
@@ -69,7 +69,7 @@ Le concours sera jugé par un panel de mappeurs (comprenant des storyboarders) e
       - ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955)
 - **Panel de musiciens** (qui se concentre sur la qualité des remixes)
   - Prix
-    - **Deuxième place :** 3 mois d'osu!supporter 
+    - **Deuxième place :** 3 mois d'osu!supporter
     - **Gagnant :** 6 mois d'osu!supporter + badge de profil *Musicians' Pick*
     - Panélistes :
       - ::{ flag=CA }:: Kuba Oms

@@ -29,9 +29,9 @@ tags:
 
 | 得分 | 打击窗口 （毫秒） |
 | --: | :-- |
-| 300 | `80 - 6 * OD` |
-| 100 | `140 - 8 * OD` |
-| 50 | `200 - 10 * OD` |
+| 300 | `80 - 6 × OD` |
+| 100 | `140 - 8 × OD` |
+| 50 | `200 - 10 × OD` |
 
 ![](/wiki/shared/ODTable.png "OD 和不同模组组合下的打击窗口比较。对于含 Half Time 和 Double Time 的组合，所示 OD 值只对 300 的打击窗口有效，对 100 和 50 则有所不同。")
 
@@ -43,31 +43,31 @@ the same formula is used in stable -->
 
 | 得分 | 打击窗口 （毫秒） |
 | --: | :-- |
-| Great | `35 - (35 - 50) * (5 - OD) / 5` (OD < 5)，`35 + (20 - 35) * (OD - 5) / 5` (OD > 5)，否则为 `35` |
-| Ok | `80 - (80 - 120) * (5 - OD) / 5` (OD < 5)，`80 + (50 - 80) * (OD - 5) / 5` (OD > 5)，否则为 `80` |
-| Miss | `95 - (95 - 135) * (5 - OD) / 5` (OD < 5)，`95 + (70 - 95) * (OD - 5) / 5` (OD > 5)，否则为 `95` |
+| Great | `50 - 3 × OD` |
+| Ok | 当 OD ≤ 5 时，`120 - 8 × OD`；当 OD ≥ 5 时, `110 - 6 × OD` |
+| Miss | 当 OD ≤ 5 时，`135 - 8 × OD`；当 OD ≥ 5 时，`120 - 5 × OD` |
 
 ### osu!mania
 
 | 得分 | 打击窗口 （毫秒） |
 | --: | :-- |
 | MAX | `16` |
-| 300 | `64 - 3 * OD` |
-| 200 | `97 - 3 * OD` |
-| 100 | `127 - 3 * OD` |
-| 50 | `188 - 3 * OD` |
+| 300 | `64 - 3 × OD` |
+| 200 | `97 - 3 × OD` |
+| 100 | `127 - 3 × OD` |
+| 50 | `188 - 3 × OD` |
 
 如果玩家在 50 的打击窗口外点击物件，会将其记作 miss。由于[物件锁](/wiki/Gameplay/Judgement/Notelock)，如果两个物件的打击窗口有所重叠，在前一个物件消失前，无法点击后一个物件。
 
 ## 滑条和转盘
 
-在 [osu!](/wiki/Game_mode/osu!) 中，只要在 50 的打击窗口内点击，[滑条](/wiki/Gameplay/Hit_object/Slider)就会得到 300 判定。有时将此特性称作滑条宽限，后在 [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) 中被移除。
+在 [osu!](/wiki/Game_mode/osu!) 中，只要在 50 的打击窗口内点击，[滑条](/wiki/Gameplay/Hit_object/Slider)就会得到 300 判定。有时，这种特性也叫做滑条宽限，后在 [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) 中被移除。
 
-判定严度也会影响[转盘](/wiki/Gameplay/Hit_object/Spinner)，需要旋转更多才能及时填满量计。在 [osu!taiko](/wiki/Game_mode/osu!taiko) 中，转盘也会需要更多打击来完成。完成转盘所需的每秒转数由如下公式得出：<!-- TODO: this is probably totally wrong with recent spinner changes -->
+判定严度也会影响[转盘](/wiki/Gameplay/Hit_object/Spinner)，更高的判定严度，也意味着玩家需要旋转更多圈，才能及时填满转盘计量条。在 [osu!taiko](/wiki/Game_mode/osu!taiko) 中，转盘也会需要更多打击来完成。完成转盘所需的每秒转数由如下公式得出：<!-- TODO: this is probably totally wrong with recent spinner changes -->
 
-- OD < 5: `5 - 2 * (5 - OD) / 5`
+- OD < 5: `5 - 2 × (5 - OD) / 5`
 - OD = 5: `5`
-- OD > 5: `5 + 2.5 * (OD - 5) / 5`
+- OD > 5: `5 + 2.5 × (OD - 5) / 5`
 
 ## 模组效果
 

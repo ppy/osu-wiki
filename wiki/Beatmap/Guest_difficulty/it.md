@@ -4,6 +4,8 @@ tags:
   - guest beatmap
   - guest difficulties
   - guest map
+outdated_translation: true
+outdated_since: 027b9fddf66f3afb730270124a3771ae09ad8f77
 ---
 
 # Difficoltà ospite
@@ -24,4 +26,4 @@ Si noti che le difficoltà ospiti non vanno confuse con le difficoltà che prese
 
 Sulla [pagina di discussione beatmap](/wiki/Beatmap_discussion), l'host della beatmap può trasferire il dominio delle difficoltà ospiti ai rispettivi mapper premendo il pulsante `Mapper della difficoltà`. Questo permette ai proprietari delle difficoltà ospiti di risolvere i problemi in attesa nelle proprie difficoltà autonomamente.
 
-Il dominio di una difficoltà ospite non può essere cambiato se la beatmap è [Qualificata](/wiki/Beatmap/Category#qualificate), [Classificata](/wiki/Beatmap/Category#classificate), o [Amata](/wiki/Beatmap/Category#amate).
+Il dominio di una difficoltà ospite non può essere cambiato se la beatmap è [Qualificata](/wiki/Beatmap/Category#qualified), [Classificata](/wiki/Beatmap/Category#ranked), o [Amata](/wiki/Beatmap/Category#loved).

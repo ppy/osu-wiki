@@ -214,7 +214,7 @@ This competition has come to an end and resulted in the following podium:
 6. Use of the Visual Settings panel to alter background dim or disable beatmap elements like storyboards and skins is allowed.
    - Custom skin elements must not be used to alter core gameplay elements or mechanics in unintended ways.
 7. If less than the minimum amount of required players are present at match time, the match can be postponed for up to 10 minutes. If after this period there are still not enough players for either team, a win by default will be declared for the side with the most members present.
-   - The minimum amount of required players is the amount of players needed to play a beatmap without any vacant spots in the lobby (i.e. 4 participants must be present for the match to begin). 
+   - The minimum amount of required players is the amount of players needed to play a beatmap without any vacant spots in the lobby (i.e. 4 participants must be present for the match to begin).
 8. Replacing players between games is allowed without limitations.
 9. If a game ends in a draw, it will be nullified and the beatmap will be replayed.
 10. Teams may ask for a rematch if a team member encounters technical issues while playing within 30 seconds or 25% of the beatmap drain length (whichever happens first) of the game's start. Referees may, at their discretion, veto this request.
@@ -269,7 +269,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Win condition
 
-1. No team will be eliminated in the eliminating stage 1, the result of the group stage will only affect the position of the team in the eliminating stage 2/3. 
+1. No team will be eliminated in the eliminating stage 1, the result of the group stage will only affect the position of the team in the eliminating stage 2/3.
 2. In the Elimination Stage 1, teams need to win 5 maps to win a match (best of 9).
 3. In the Elimination Stage 2, teams need to win 6 maps to win a match (best of 11).
 4. In the Elimination Stage 3, teams need to win 7 maps to win a match (best of 13).
@@ -285,7 +285,7 @@ This competition has come to an end and resulted in the following podium:
    - Teams may "double pick" (i.e. pick two or more maps from the same mod pool in sequence) without limitations.
    - The loser of the `!roll` 's ban/pick depends on the winner of the `!roll`.
 4. After bans are decided, both teams will take turns in picking a beatmap from the mappool.
-5. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than alloted for either action, the procedures adopted will be as follows:
+5. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than allotted for either action, the procedures adopted will be as follows:
    - For the first occurrence:
      - The team will receive a verbal warning from the referee.
    - On subsequent occurrences:

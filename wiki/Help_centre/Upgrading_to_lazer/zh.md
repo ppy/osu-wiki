@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 4390338dba70d8ad149f01408d623120cdc6aa96
+---
+
 # 升级到 lazer
 
 *注意：我们仍在调整游戏平衡，开发游戏新机制。目前，**在 lazer 上取得的分数不会永久保存**。*
@@ -71,11 +76,11 @@ osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕�
 
 | 功能 | stable | lazer |
 | :-- | :-- | :-- |
-| 提交分数 | ![支持][true] | ![部分支持][partial][^score-reset-balance] |
-| 谱面排行榜 | ![支持][true] | ![部分支持][partial][^score-reset-isolated] |
+| 提交分数 | ![支持][true] | ![支持][true] |
+| 谱面排行榜 | ![支持][true] | ![支持][true] |
 | 主页统计数据 | ![支持][true] | ![支持][true] |
 | 奖章 (成就) | ![支持][true] | ![不支持][false] |
-| 表现分 (pp) | ![支持][true] | ![部分支持][partial][^score-reset-isolated] |
+| 表现分 (pp) | ![支持][true] | ![支持][true] |
 | 实时聊天 | ![部分支持][partial][^stable-chat] | ![支持][true] |
 | Wiki / 新闻 / 更新日志 / 排行榜 | ![不支持][false] | ![支持][true][^online-content] |
 | 玩家主页 | ![不支持][false] | ![支持][true] |
@@ -107,11 +112,11 @@ osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕�
 | 故事板编辑器 | ![支持][true] | ![不支持][false] |
 | 交叉兼容性 | ![支持][true] | ![部分支持][partial][^incompatibilities] |
 
-## 切换至 lazer 
+## 切换至 lazer
 
 所以你决定稍微体验一下 lazer？太棒了！
 
-你能在[这里](https://github.com/ppy/osu#running-osu)下载到该版本。在不久的将来，你能从稳定版切换到 lazer（在`更新通道 (更新版本)` 设置里切换），并在 osu! 官网上找到下载链接！
+你能在[这里](https://osu.ppy.sh/home/download)下载到该版本。在不久的将来，你能从稳定版切换到 lazer（在`更新通道 (更新版本)` 设置里切换）。
 
 ## 常见问题
 
@@ -173,7 +178,7 @@ osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕�
 
 #### 如果我在 lazer 上留下了成绩，它会永久保存吗？
 
-尽管我们会尽量多地保留成绩，但我们**不保证能永久保留成绩**。我们随时可能会删除一小部分或是全部分数，来确保游戏平衡。 
+尽管我们会尽量多地保留成绩，但我们**不保证能永久保留成绩**。我们随时可能会删除一小部分或是全部分数，来确保游戏平衡。
 
 #### 在稳定版上显示的成绩也会在 lazer 上显示吗？
 
@@ -276,7 +281,7 @@ lazer 没有歌曲文件夹！这能让我们做一些很酷的事情，比如�
 
 你可能把它当成其他游戏了。
 
-### 备注
+## 备注
 
 [^wine]: 需要使用 Wine。
 [^compatibility-mode]: DirectX，又称作兼容模式。
@@ -290,8 +295,6 @@ lazer 没有歌曲文件夹！这能让我们做一些很酷的事情，比如�
 [^offset-calibration-lazer]: 当重试谱面时，可以根据上一次游玩的成绩来校准偏移值。
 [^can-disable]: 可以关闭。
 [^note-lock]: 仍旧存在，但影响应该会很小。
-[^score-reset-balance]: 为了确保平衡，分数将重置。
-[^score-reset-isolated]: 分数将重置，目前与稳定版的分数隔开。
 [^online-content]: 游戏内访问在线内容。
 [^direct-supporter]: 进入 osu!direct，仅 osu! 支持者可用。
 [^supporter]: 仅 osu! 支持者可用。

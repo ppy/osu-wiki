@@ -21,7 +21,7 @@ Install and open Audacity, then follow these steps:
 1. Open the `.mp3` file that you want to lower the bit rate on.
 2. Press `Ctrl` + `Shift` + `E`, then in `Save as type:` select `MP3 Files`, or:
    1. Click `File`, then `Export`, then `Export as MP3`.
-3. In the `Format Options`, change the following settings: 
+3. In the `Format Options`, change the following settings:
    1. `Bit Rate Mode`: `Preset`
    2. `Quality`: `Medium, 145-185 kbps`
 4. Navigate to the location you want to save the file as.
@@ -49,7 +49,7 @@ Install and open Audacity then follow these steps:
 7. Repeat as needed.
 8. Press `Ctrl` + `Shift` + `E`, then in `Save as type:` select `MP3 Files`, or:
    1. Click `File`, then `Export`, then `Export as MP3`.
-9. In the `Format Options`, change the following settings: 
+9. In the `Format Options`, change the following settings:
    1. `Bit Rate Mode`: `Preset`
    2. `Quality`: `Medium, 145-185 kbps`
 10. Navigate to the location you want to save the file as.
@@ -70,7 +70,7 @@ Install and open Audacity, then follow these steps:
 6. Click `Fade Out`.
 7. Press `Ctrl` + `Shift` + `E`, then in `Save as type:` select `MP3 Files`, or:
    1. Click `File`, then `Export`, then `Export as MP3`.
-8. In the `Format Options`, change the following settings: 
+8. In the `Format Options`, change the following settings:
    1. `Bit Rate Mode`: `Preset`
    2. `Quality`: `Medium, 145-185 kbps`
 9. Navigate to the location you want to save the file as.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!taiko World Cup 2017 Results"
+title: osu!taiko World Cup 2017 Results
 date: 2017-04-22 10:37:19 +0000
 tumblr_url: http://osunews.tumblr.com/post/159858161773/osutaiko-world-cup-2017-results
 ---

@@ -3,13 +3,13 @@ tags:
   - sejarah
   - papan peringkat
   - peringkat 1
-  - peringkat #1
+  - "peringkat #1"
   - peringkat
   - pemain teratas
   - history
   - leaderboard
   - rank 1
-  - rank #1
+  - "rank #1"
   - rankings
   - top player
 ---
@@ -28,19 +28,13 @@ Mulai 19 Juli 2021, di [peringkat *performance* osu!](https://osu.ppy.sh/ranking
 
 ## ![][osu!taiko] osu!taiko
 
-*Halaman utama: [osu!taiko](osu!taiko)*
-
-Mulai 4 Oktober 2022, pada [peringkat *performance* osu!taiko](https://osu.ppy.sh/rankings/taiko/performance) pemain peringkat #1 adalah ::{ flag=JP }:: [shinchikuhome](https://osu.ppy.sh/users/3174184/taiko).
+Mulai 9 Oktober 2023, pada [peringkat *performance* osu!taiko](https://osu.ppy.sh/rankings/taiko/performance) pemain peringkat #1 adalah ::{ flag=JP }:: [Majimanjiwwwww](https://osu.ppy.sh/users/12337864/taiko).
 
 ## ![][osu!catch] osu!catch
-
-*Halaman utama: [osu!catch](osu!catch)*
 
 Mulai 7 Juni 2021, pada [peringkat *performance* osu!taiko](https://osu.ppy.sh/rankings/fruits/performance) pemain peringkat #1 adalah ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549/fruits).
 
 ## ![][osu!mania] osu!mania
-
-*Halaman utama: [osu!mania](osu!mania)*
 
 Mulai 13 April 2023, pada [peringkat *performance* osu!mania](https://osu.ppy.sh/rankings/mania/performance) pemain peringkat #1 adalah ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406/mania).
 

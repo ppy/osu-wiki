@@ -5,7 +5,7 @@ tags:
   - autopilot
   - AP
   - mod
-  - game modifiers
+  - game modifier
   - автопилот
   - мод
   - модификатор

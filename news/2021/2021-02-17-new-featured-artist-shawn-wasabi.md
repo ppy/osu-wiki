@@ -10,7 +10,7 @@ Savor the spice of our latest addition to the Featured Artist lineup, **Shawn Wa
 
 Paving the road between internet culture and pop music, **Shawn Wasabi** is a Los Angeles based producer, engineer and videographer renowned for his eye-catching performances using a Midi Fighter 64. With his [music video for *Marble Soda*](https://www.youtube.com/watch?v=qAeybdD5UoQ) peaking at a million views within 48 hours of publication, his career launched with insane momentum that has carried through the following 5 years up to today.
 
-We've got **10** tracks from his singles collection and the *MANGOTALE* album available for mapping, so if you're wondering what all the hype is about, now's the perfect time to engage with these new-age pop masterpieces. 
+We've got **10** tracks from his singles collection and the *MANGOTALE* album available for mapping, so if you're wondering what all the hype is about, now's the perfect time to engage with these new-age pop masterpieces.
 
 See [**Shawn Wasabi**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/139) for every song in stock, or if you're still on the fence, preview a few tracks below:
 

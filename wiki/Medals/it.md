@@ -1,6 +1,6 @@
 # Medaglie
 
-Le **medaglie**, precedentemente chiamate *obiettivi*, sono emblemi sulla pagina dell'utente che indicano il raggiungimento di alcuni traguardi che sono stati ottenuti dall'utente. Al momento, ci sono **314** possibili medaglie da sbloccare, suddivise in otto diverse categorie in tutto: [Pacchetti Beatmap](#pacchetti-beatmap), [Abilità](#abilità), [Dedizione](#dedizione), [Introduzione Alle Mod](#introduzione-alle-mod), [Hush-Hush](#hush-hush), [Beatmap Spotlight](#beatmap-spotlight), [Spotlight Stagionali](#spotlight-stagionali), e [Pacchetti Sfida Beatmap](#pacchetti-sfida-beatmap).
+Le **medaglie**, precedentemente chiamate *obiettivi*, sono emblemi sulla pagina dell'utente che indicano il raggiungimento di alcuni traguardi che sono stati ottenuti dall'utente. Al momento, ci sono **324** possibili medaglie da sbloccare, suddivise in otto diverse categorie in tutto: [Pacchetti Beatmap](#pacchetti-beatmap), [Abilità](#abilità), [Dedizione](#dedizione), [Introduzione Alle Mod](#introduzione-alle-mod), [Hush-Hush](#hush-hush), [Beatmap Spotlight](#beatmap-spotlight), [Spotlight Stagionali](#spotlight-stagionali), e [Pacchetti Sfida Beatmap](#pacchetti-sfida-beatmap).
 
 ## Pacchetti Beatmap
 
@@ -12,7 +12,7 @@ Vale la pena menzionare che i contenuti di tutti i Pacchetti Video Game, Anime, 
 
 ## Abilità
 
-Le **medaglie Abilità** sono medaglie assegnate col raggiungimento di svariati traguardi basati sulle proprie abilità, che può essere ottenere un certo numero di [combo](/wiki/Beatmapping/Combo), raggiungere una determinata posizione nella [classifica mondiale per punti performance](https://osu.ppy.sh/rankings/osu/performance), passando o ottenendo una [full combo](/wiki/Gameplay/Full_combo) su una qualsiasi beatmap [Qualificata](/wiki/Beatmap/Category#qualificate), [Classificata](/wiki/Beatmap/Category#classificate) o [Approvata](/wiki/Beatmap/Category#approvate) di una determinata [difficoltà](/wiki/Beatmap/Star_rating).
+Le **medaglie Abilità** sono medaglie assegnate col raggiungimento di svariati traguardi basati sulle proprie abilità, che può essere ottenere un certo numero di [combo](/wiki/Beatmapping/Combo), raggiungere una determinata posizione nella [classifica mondiale per punti performance](https://osu.ppy.sh/rankings/osu/performance), passando o ottenendo una [full combo](/wiki/Gameplay/Full_combo) su una qualsiasi beatmap [Qualificata](/wiki/Beatmap/Category#qualified), [Classificata](/wiki/Beatmap/Category#ranked) o [Approvata](/wiki/Beatmap/Category#approved) di una determinata [difficoltà](/wiki/Beatmap/Star_rating).
 
 ## Dedizione
 
@@ -22,7 +22,7 @@ Le **medaglie Dedizione** sono medaglie conseguite al raggiungimento di un deter
 
 *Vedi anche: [Modificatori Di Gioco](/wiki/Gameplay/Game_modifier)*
 
-Le **medaglie di Introduzione Alle Mod** sono medaglie conseguite una volta passata una qualsiasi beatmap [Qualificata](/wiki/Beatmap/Category#qualificate), [Classificata](/wiki/Beatmap/Category#classificate) o [Approvata](/wiki/Beatmap/Category#approvate) con il suo corrispondente [modificatore di gioco (mod)](/wiki/Gameplay/Game_modifier). Queste medaglie hanno lo scopo di incoraggiare i nuovi giocatori a provare ogni mod ed esplorare cosa il gioco ha da offrire. Ricorda, in ogni caso, che se i giocatori giocano con più mods allo stesso tempo, il giocatore **non** è ammesso a ottenere *alcuna* medaglia legata alle mods per quella partita.
+Le **medaglie di Introduzione Alle Mod** sono medaglie conseguite una volta passata una qualsiasi beatmap [Qualificata](/wiki/Beatmap/Category#qualified), [Classificata](/wiki/Beatmap/Category#ranked) o [Approvata](/wiki/Beatmap/Category#approved) con il suo corrispondente [modificatore di gioco (mod)](/wiki/Gameplay/Game_modifier). Queste medaglie hanno lo scopo di incoraggiare i nuovi giocatori a provare ogni mod ed esplorare cosa il gioco ha da offrire. Ricorda, in ogni caso, che se i giocatori giocano con più mods allo stesso tempo, il giocatore **non** è ammesso a ottenere *alcuna* medaglia legata alle mods per quella partita.
 
 Tutte le Medaglie di Introduzione Alle Mod possono essere sbloccate in qualunque [modalità di gioco](/wiki/Game_mode) a meno che non venga specificato diversamente.
 

@@ -64,7 +64,7 @@ Or try [this million-play map](https://osu.ppy.sh/beatmapsets/821050) hosted by 
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/340/Songs/Raise%20Spirit%20-%20Don't%20Let%20Go.mp3" type="audio/mpeg">
-</audio> 
+</audio>
 
 ---
 

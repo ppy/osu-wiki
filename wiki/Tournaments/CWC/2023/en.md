@@ -155,7 +155,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
   2. [Tanchiky - TouchDown (autofanboy) \[KickOff\]](https://osu.ppy.sh/beatmapsets/2007950#fruits/4176785)
   3. [seatrus - ILLEGAL LEGACY (Deif) \[SAN\]](https://osu.ppy.sh/beatmapsets/2007954#fruits/4176793)
 - Hard Rock
-  1. [LV.4 - Chemical Diving (Rocma) \[Rocma & Dust's Acid Burst\]](https://osu.ppy.sh/beatmapsets/2007952#fruits/4176787)
+  1. [LV.4 - Chemical Diving (Rocma) \[Rocma & Dust's Acid Burst\]](https://osu.ppy.sh/beatmapsets/2026273#fruits/4221920)
   2. [Sobrem x Silentroom - Random (autofanboy) \[Yoshi x AFB's F2\]](https://osu.ppy.sh/beatmapsets/2007958#fruits/4176797)
   3. [LeaF - Ka (Natsuko) \[???????\u005F\u0030\u00D7????????\]](https://osu.ppy.sh/beatmapsets/2007973#fruits/4176821)
 - Double Time
@@ -594,7 +594,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
    - The winner of the `!roll` may choose to either pick first and ban second, or pick second and ban first.
    - The loser of the `!roll` will follow the remaining pick order.
 4. After bans are decided, both teams will take turns in picking a beatmap from the mappool.
-5. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than alloted for either action, the procedures adopted will be as follows:
+5. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than allotted for either action, the procedures adopted will be as follows:
    - For the first occurrence:
      - The team will receive a verbal warning from the referee; in addition, the referee may opt to forcefully use the team's tactical timeout to allow for the team to pick.
    - On subsequent occurrences:

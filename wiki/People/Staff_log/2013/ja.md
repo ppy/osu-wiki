@@ -165,7 +165,7 @@
 
 ## 9月
 
-- [Gabe](https://osu.ppy.sh/users/654108)をビートマップアプリーシエイションチームに再追加 (2019-09-02) <!-- https://osu.ppy.sh/community/forums/posts/2563693 -->
+- [Gabe](https://osu.ppy.sh/users/654108)をビートマップアプリーシエイションチームに再追加 (2013-09-02) <!-- https://osu.ppy.sh/community/forums/posts/2563693 -->
 - [YGOkid8](https://osu.ppy.sh/users/69114)をosu! Alumniに追加 (2013-09-05) <!-- https://osu.ppy.sh/community/forums/posts/2555361 -->
 - [Andrea](https://osu.ppy.sh/users/33599)をosu! Alumniからビートマップアプリーシエイションチームへ (2013-09-08) <!-- https://osu.ppy.sh/community/forums/topics/83704 -->
 - [Lissette](https://osu.ppy.sh/users/19835)をosu! Alumni <!-- https://osu.ppy.sh/community/forums/posts/2563693 -->に追加

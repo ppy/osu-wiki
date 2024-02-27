@@ -19,7 +19,6 @@ First of all, congratulations to the winners of the Seasonal Spotlights: Winter 
 - **osu!catch:** [rostld](https://osu.ppy.sh/users/4365562), [RAMPAGE88](https://osu.ppy.sh/users/448547) and [-Nirfu-](https://osu.ppy.sh/users/7332050)
 - **osu!mania:** [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), [Stink God](https://osu.ppy.sh/users/7381289) and [Cryolien](https://osu.ppy.sh/users/1626983)
 
-
 ## Navigation
 
 - [osu!](#osu!)
@@ -33,7 +32,7 @@ First of all, congratulations to the winners of the Seasonal Spotlights: Winter 
 
 [![](/wiki/shared/news/2019-07-07-beatmap-spotlights-spring-2019/osu/kagefumi.jpg)](https://osu.ppy.sh/beatmapsets/910454)
 
-A mapper who is reputable in the community for their unorthodox music taste and style, [squirrelpascals](https://osu.ppy.sh/users/6151332), brings forth a very fitting interpretation of Hyakkei's "kagefumi". 
+A mapper who is reputable in the community for their unorthodox music taste and style, [squirrelpascals](https://osu.ppy.sh/users/6151332), brings forth a very fitting interpretation of Hyakkei's "kagefumi".
 
 This mapping contains unique stream patterns, minimalistic slider velocities, characterized slider shapes, and much more. squirrelpascals underlines the core portions of this chill, tranquil, math rock song with clarity and accentuates their features fantastically through distinctive design choices that align with the song's simplicity.
 
@@ -43,9 +42,9 @@ _written by [faygo](https://osu.ppy.sh/users/5199686)_
 
 [![](/wiki/shared/news/2019-07-07-beatmap-spotlights-spring-2019/osu/uh.jpg)](https://osu.ppy.sh/beatmapsets/948199)
 
-[sammish](https://osu.ppy.sh/users/4415076) manages to make 17 minutes feel like 5 in his map of Tennyson's "Uh Oh! EP". 
+[sammish](https://osu.ppy.sh/users/4415076) manages to make 17 minutes feel like 5 in his map of Tennyson's "Uh Oh! EP".
 
-The hard work he puts into expressing each song's personality shows — and obviously pays off. The map feels smooth to play all the way through and aligns very closely to Tennyson's unique, funky style of music. 
+The hard work he puts into expressing each song's personality shows — and obviously pays off. The map feels smooth to play all the way through and aligns very closely to Tennyson's unique, funky style of music.
 
 This is a phenomenal debut from both sammish and Tennyson in the ranked section and we hope to see more from them in the future!
 
@@ -53,7 +52,7 @@ _written by [squirrelpascals](https://osu.ppy.sh/users/6151332)_
 
 [![](/wiki/shared/news/2019-07-07-beatmap-spotlights-spring-2019/osu/meng.jpg)](https://osu.ppy.sh/beatmapsets/927682)
 
-[AIR](https://osu.ppy.sh/users/2070688) displays their usual prowess in Yin Lin's "Lu Gu Xun Meng", a traditional-sounding Chinese ballad. They skillfully craft dynamic jump patterns through expert use of slider velocity changes, repeating slider shapes, and varied geometric arrangements. 
+[AIR](https://osu.ppy.sh/users/2070688) displays their usual prowess in Yin Lin's "Lu Gu Xun Meng", a traditional-sounding Chinese ballad. They skillfully craft dynamic jump patterns through expert use of slider velocity changes, repeating slider shapes, and varied geometric arrangements.
 
 As always, the map has a lot of contrast, with every separate section of the map feeling a unique and close match to the features of the song. The hitsounding, also done by AIR, follows the same idea, adding to the experience. If the top difficulty is a bit too jumpy, be sure to check out the Insane and Hard which maintain the same concepts as the top difficulty, but at a more manageable level.
 
@@ -61,7 +60,7 @@ _written by [Nao Tomori](https://osu.ppy.sh/users/5364763)_
 
 [![](/wiki/shared/news/2019-07-07-beatmap-spotlights-spring-2019/osu/kyoumen.jpg)](https://osu.ppy.sh/beatmapsets/731108)
 
-Last time we showed you the orchestral arrangement of the song "Kyoumen no Nami" by YURiKA, but this time we have the stunning original full version from [Vell](https://osu.ppy.sh/users/3414541). 
+Last time we showed you the orchestral arrangement of the song "Kyoumen no Nami" by YURiKA, but this time we have the stunning original full version from [Vell](https://osu.ppy.sh/users/3414541).
 
 Not fazed by its characteristic polyrhythms, he captures the song's beauty perfectly with his movement choices and hitsounds which definitely elevate the map, making it something worth checking out. [Darky1](https://osu.ppy.sh/users/3372928)'s storyboard once again adds to the atmosphere for a great gameplay experience as one might be familiar with other Vell maps.
 
@@ -71,9 +70,9 @@ _written by [Icekalt](https://osu.ppy.sh/users/5410645)_
 
 [![](/wiki/shared/news/2019-07-07-beatmap-spotlights-spring-2019/osu/focus.jpg)](https://osu.ppy.sh/beatmapsets/925329)
 
-Capturing the essence of a song can be considered a herculean feat for a mapper, and this map gets the job done. 
+Capturing the essence of a song can be considered a herculean feat for a mapper, and this map gets the job done.
 
-[Vell](https://osu.ppy.sh/users/3414541) once again takes off the brakes and delivers another masterpiece of contemporary mapping with sukekiyo's song "focus". 
+[Vell](https://osu.ppy.sh/users/3414541) once again takes off the brakes and delivers another masterpiece of contemporary mapping with sukekiyo's song "focus".
 
 In tune with the music along [Darky1](https://osu.ppy.sh/users/3372928)'s storyboard, the map follows the baroquian motif of vanitas through which it blooms into a thundering roar of raw emotion to then just as quickly fades away into nothingness. All the while, it showcases pristine mapping along with the natural melodic texture.
 
@@ -83,7 +82,7 @@ _written by [Smokeman](https://osu.ppy.sh/users/2140676)_
 
 [![](/wiki/shared/news/2019-07-07-beatmap-spotlights-spring-2019/osu/line.jpg)](https://osu.ppy.sh/beatmapsets/899381)
 
-A sharp contrast from recent trends of electronic and anime music, [Yuuya_ke](https://osu.ppy.sh/users/6441720) delivers a strikingly simplistic, yet effective mapset of Ricky Montgomery's "Line Without A Hook". 
+A sharp contrast from recent trends of electronic and anime music, [Yuuya_ke](https://osu.ppy.sh/users/6441720) delivers a strikingly simplistic, yet effective mapset of Ricky Montgomery's "Line Without A Hook".
 
 The highly emotive indie track is accented beautifully through a level of flow and rhythm mastery unprecedented from most mappers' first ranked mapsets. Regardless, Line Without A Hook doesn't disappoint in highlighting how even rudimentary patterning can culminate into a moving, well-polished product that'll leave you begging for more.
 
@@ -100,7 +99,6 @@ There are so many things to say about this map, such as ranging from a load of s
 Speaking of which, boy, ohh boy is it hard. Insanely hard. You might expect "pp map" when you look at it's BPM and Star Rating, but let me tell you: this is anything but ordinary. The way 1/6 patterns are arranged will keep your fingers dancing constantly during the intense parts, as do the streams, which also feature a mix of longer 1/6 bursts; up to 13 notes in a row, which is not easy to keep up with at 200 BPM, especially with their rather unusual colouring! Also, the Slider Velocity manipulation will demand your eyes to adjust quickly as it gets increasingly faster along with the song's intensity, befitting it perfectly!
 
 If you're not ready for the challenge this difficulty provides, you should give [komasy](https://osu.ppy.sh/users/1980256)'s Inner Oni a shot! It's still quite challenging and an absolute joy to play through, just like the other difficulties are.
-
 
 A blooming start to this season's spotlights, and an absolutely deserved winner to it!
 
@@ -145,7 +143,7 @@ _written by [Greenshell](https://osu.ppy.sh/users/8693851)_
 
 [![](/wiki/shared/news/2019-07-07-beatmap-spotlights-spring-2019/taiko/flags.jpg)](https://osu.ppy.sh/beatmapsets/950459)
 
-One of [Axer](https://osu.ppy.sh/users/7299864)'s most eccentric maps, "Flags on the Moon" does a really good job at staying true to the song through all these rough time signatures, syncopations and multiple changes of rhythm that make it very difficult to follow through, which ends up being a challenge to time perfectly for these steady beat accuracy players. 
+One of [Axer](https://osu.ppy.sh/users/7299864)'s most eccentric maps, "Flags on the Moon" does a really good job at staying true to the song through all these rough time signatures, syncopations and multiple changes of rhythm that make it very difficult to follow through, which ends up being a challenge to time perfectly for these steady beat accuracy players.
 
 For this reason, Axer has a very well deserved his place on this season's spotlights for his advanced patterning skills and carefully polished gameplay-centred mapping style.
 
@@ -163,10 +161,9 @@ _written by [Kazu](https://osu.ppy.sh/users/920861)_
 
 [![](/wiki/shared/news/2019-07-07-beatmap-spotlights-spring-2019/taiko/shoujo.jpg)](https://osu.ppy.sh/beatmapsets/894891)
 
-While not especially fancy in this month's release, [mintong89](https://osu.ppy.sh/users/966210)'s map remains impressive by its very consistent patterning and temperate use of speed velocity changes. 
+While not especially fancy in this month's release, [mintong89](https://osu.ppy.sh/users/966210)'s map remains impressive by its very consistent patterning and temperate use of speed velocity changes.
 
 This is accented further by clever use of doublet patterning to make the map more variable, and together these things combine to make a map well worthy of the Spring 2019 Spotlights.
-
 
 _written by [qoot8123](https://osu.ppy.sh/users/766371)_
 
@@ -198,7 +195,7 @@ _written by [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)_
 
 [![](/wiki/shared/news/2019-07-07-beatmap-spotlights-spring-2019/taiko/can-fly.jpg)](https://osu.ppy.sh/beatmapsets/951899)
 
-While this song's title may suggest a lucid dream, "I Can Fly In The Universe" is actually a six-minutes long psytrance track by the widely beloved composer Camellia. 
+While this song's title may suggest a lucid dream, "I Can Fly In The Universe" is actually a six-minutes long psytrance track by the widely beloved composer Camellia.
 
 This map by [Genjuro](https://osu.ppy.sh/users/3196091) is a beautiful translation into a pleasantly hit-sounded and engaging map featuring many slider velocity changes and technical patterning. Containing not only 1/6, but also 1/8 snaps mixed into the regular 1/4 patterns, with the aforementioned slider velocity antics blending into it perfectly, resulting in quite the challenge to everyone, while still providing a unique sensation to play.
 
@@ -210,7 +207,7 @@ _written by [Greenshell](https://osu.ppy.sh/users/8693851)_
 
 [![](/wiki/shared/news/2019-07-07-beatmap-spotlights-spring-2019/catch/flash-back.jpg)](https://osu.ppy.sh/beatmapsets/706939)
 
-It's not a surprise that [alienflybot](https://osu.ppy.sh/users/636114) mapped a new outstanding catch map again! This time his song choice is "FLASH BACK" by Reol. With dynamic electronic instruments and vocals, the map is pleasing to enjoy. 
+It's not a surprise that [alienflybot](https://osu.ppy.sh/users/636114) mapped a new outstanding catch map again! This time his song choice is "FLASH BACK" by Reol. With dynamic electronic instruments and vocals, the map is pleasing to enjoy.
 
 The stream patterns in both diffs are carefully built up and have some innovative jumpy patterns. They are absorbing and excellent for play. Don't be tricked by the star ratings, these maps are challenging! However, you'll definitely like this epic work after you give it a try.
 
@@ -218,7 +215,7 @@ _written by [Yumeno Himiko](https://osu.ppy.sh/users/1806962)_
 
 [![](/wiki/shared/news/2019-07-07-beatmap-spotlights-spring-2019/catch/xino.jpg)](https://osu.ppy.sh/beatmapsets/874437)
 
-[Rocma](https://osu.ppy.sh/users/566276) mapped the full spread of "XINOBIKILL" himself, showcasing his mapping expertise despite being a newcomer to the group of ranked catch mappers. 
+[Rocma](https://osu.ppy.sh/users/566276) mapped the full spread of "XINOBIKILL" himself, showcasing his mapping expertise despite being a newcomer to the group of ranked catch mappers.
 
 The map was aesthetically well made, incorporating many antiflow patterns that often does not play well in osu!catch smoothly during highlights. Specifically, the 1/6 curves used in the overdose difficulty displayed his understanding of flow. Overall, I would like to congratulate him on proving himself to be a skilled mapper so early in his mapping career!
 
@@ -226,7 +223,7 @@ _written by [Snowless](https://osu.ppy.sh/users/4316266)_
 
 [![](/wiki/shared/news/2019-07-07-beatmap-spotlights-spring-2019/catch/butterfly.jpg)](https://osu.ppy.sh/beatmapsets/887380)
 
-"Butterfly" by Kors K is your pretty average rhythm game song: complex and interesting rhythms which are easy for an experienced mapper to follow along. 
+"Butterfly" by Kors K is your pretty average rhythm game song: complex and interesting rhythms which are easy for an experienced mapper to follow along.
 
 However, [Minato Yukina](https://osu.ppy.sh/users/531253) took a completely different approach and focused primarily on simple 1/2 and 1/1 rhythms such as the vocals or kicks, and using these limitations to create simple patterns that focus on the precision with dash timing and simple memorization.
 
@@ -236,7 +233,7 @@ _written by [Sinnoh](https://osu.ppy.sh/users/4236057)_
 
 [![](/wiki/shared/news/2019-07-07-beatmap-spotlights-spring-2019/catch/fffff.jpg)](https://osu.ppy.sh/beatmapsets/841569)
 
-"fffff" by [Ascendance](https://osu.ppy.sh/users/2931883) was a pleasure to play for many players, new or experienced. He proved to be a proficient mapper in his top difficulty EX, where he incorporated fast edge-dashes which are often avoided by other mappers. Through this, he successfully created a map that challenges players in a way most other maps have not in the past. 
+"fffff" by [Ascendance](https://osu.ppy.sh/users/2931883) was a pleasure to play for many players, new or experienced. He proved to be a proficient mapper in his top difficulty EX, where he incorporated fast edge-dashes which are often avoided by other mappers. Through this, he successfully created a map that challenges players in a way most other maps have not in the past.
 
 This is not to discount from the lower difficulties, which mapped accordingly to the upbeat feeling of the song and kept the tempo going without going overboard on fast beats.
 
@@ -256,7 +253,7 @@ _written by [-MysticEyes](https://osu.ppy.sh/users/6253266)_
 
 [![](/wiki/shared/news/2019-07-07-beatmap-spotlights-spring-2019/mania/manycolors.jpg)](https://osu.ppy.sh/beatmapsets/829383)
 
-[Vortex-](https://osu.ppy.sh/users/4999669) joins the ranked section with a spectacular chart along with guest difficulties from [Civilization](https://osu.ppy.sh/users/6814203) and [qqqant](https://osu.ppy.sh/users/8976576)! Each difficulty, whether it's the easiest or hardest, captures the uniqueness of "Frums" respectively to their difficulties. 
+[Vortex-](https://osu.ppy.sh/users/4999669) joins the ranked section with a spectacular chart along with guest difficulties from [Civilization](https://osu.ppy.sh/users/6814203) and [qqqant](https://osu.ppy.sh/users/8976576)! Each difficulty, whether it's the easiest or hardest, captures the uniqueness of "Frums" respectively to their difficulties.
 
 The technicality of this set is not something usually seen in ranked and the mapset is challenging to many players while also having a very strong structure.
 
@@ -266,7 +263,7 @@ _written by [Dergo](https://osu.ppy.sh/users/7439226)_
 
 Oh, "ExaVid". What can I even say about ExaVid to bring it justice? Masterfully crafted and structured, this map contains beautiful usage of all sorts of known concepts such as chord allocation, grace notes, and pitch relevance; but on top of that, [Abraxos](https://osu.ppy.sh/users/5025064) weaves into the map a whole bunch of concepts that he defines himself.
 
-Even without knowledge of this structure, it is apparent while playing this map that it clearly reflects the intensity and complexity of the music at every point. The more complex sounding a part of the music sounds, it's guaranteed to have some sort of gimmick, be it an unconventional use of minijacks or intentionally awkward releases; likewise for the most simple parts, represented as lightly as they should be. 
+Even without knowledge of this structure, it is apparent while playing this map that it clearly reflects the intensity and complexity of the music at every point. The more complex sounding a part of the music sounds, it's guaranteed to have some sort of gimmick, be it an unconventional use of minijacks or intentionally awkward releases; likewise for the most simple parts, represented as lightly as they should be.
 
 Even looking at it now, after it has been ranked, I see things about the map that I never noticed before. This map is just decorated with an intricacy that any regular, average mapper usually cannot achieve. Thus, it well deserves its place in the Spring spotlights of 2019. Lastly, I would like to thank Abraxos for teaching me how to clean my room, be sure to purchase his book on his 12 rules for life.
 
@@ -276,7 +273,7 @@ _written by [qqqant](https://osu.ppy.sh/users/8976576)_
 
 "o'er the flood" is definitely one of the most popular and well-exposed 7k sets for this year with its appearance in the 2017 7k MWC while recently bypassing a staggering favourite count of 100.
 
-[Blocko](https://osu.ppy.sh/users/4075092), with the help of a couple of prolific mappers, were able to create this giant mapset of 8 diffs with a most interesting song choice for 7k. With each guest difficulty providing some artistic flair, all of these difficulties come together and encapsulate the general feel of the track. 
+[Blocko](https://osu.ppy.sh/users/4075092), with the help of a couple of prolific mappers, were able to create this giant mapset of 8 diffs with a most interesting song choice for 7k. With each guest difficulty providing some artistic flair, all of these difficulties come together and encapsulate the general feel of the track.
 
 Both fluidity and rigidity are utilized to provide an apparent sense of difficulty progression in each difficulty which accounts for the song duration while highlighting the heavy percussions present in the track. Ranging from the unorthodox patterning for the lower diffs to the aggressive barrage of notes for the higher difficulties, the set slowly but surely progresses into an aptly named "torrent" difficulty which is a great test of skill.
 
@@ -298,7 +295,7 @@ _written by [Lenfried-](https://osu.ppy.sh/users/5314573)_
 
 [![](/wiki/shared/news/2019-07-07-beatmap-spotlights-spring-2019/mania/lfo.jpg)](https://osu.ppy.sh/beatmapsets/882805)
 
-Another fantastic song by aran comes with a fantastic chart from [-MysticEyes](https://osu.ppy.sh/users/6253266)! Each difficulty brings fun and challenging taste to the players. The top two difficulties of the set, Another and Impedance, once again put long notes to the test. 
+Another fantastic song by aran comes with a fantastic chart from [-MysticEyes](https://osu.ppy.sh/users/6253266)! Each difficulty brings fun and challenging taste to the players. The top two difficulties of the set, Another and Impedance, once again put long notes to the test.
 
 The top difficulty brings a creative way of implementing long notes which is not usually seen in ranked! The map sure brings hype and definitely earns a place in the spotlights!
 
