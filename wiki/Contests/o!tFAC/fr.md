@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # osu!taiko Featured Artist Cup
 
 Page d'index pour toutes les séries de la osu!taiko Featured Artist Cup.

@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Monthly Beatmapping Contest
 
 Comme son nom l'indique, le **Monthly Beatmapping Contest** (***MBC***) est un [concours](/wiki/Contests) qui a lieu tous les mois et qui permet aux utilisateurs de rivaliser avec leurs capacités de [beatmapping](/wiki/Beatmapping).

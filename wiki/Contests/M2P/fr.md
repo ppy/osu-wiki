@@ -1,4 +1,5 @@
 ---
+no_native_review: true
 tags:
   - m2p
   - "m2p: taiko"
