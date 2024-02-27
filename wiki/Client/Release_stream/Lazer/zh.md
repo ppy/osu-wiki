@@ -18,7 +18,7 @@ tags:
 
 ::: Infobox
 
-![](img/lazer.png "osu!(lazer) 客户端的标志，仿照了 osu! 粉饼的样式")
+![](img/lazer.png?2024-01-30 "osu!(lazer) 客户端的标志。")
 
 [下载](https://osu.ppy.sh/home/download) • [问题跟踪](https://github.com/ppy/osu/issues) • [讨论](https://github.com/ppy/osu/discussions)
 
