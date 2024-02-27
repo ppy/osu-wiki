@@ -127,7 +127,7 @@ Video embed hosted on YouTube:
 
 ## Design
 
-The following applies to all media in news posts and include common reasons for requested changes or inquiries by the news team:
+The following applies to all media in news posts and includes common reasons for requested changes or inquiries by the news team:
 
 - **Assets created for news posts should be cleared in terms of permissions and licensing.**
 - **Note the [brand identity guidelines](/wiki/Brand_identity_guidelines), especially for the game and game mode names.** Terms like "standard" or "ctb" are not used in official contexts.
