@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Kriteria gaya berita
 
 *Untuk artikel wiki, lihat: [Kriteria penataan gaya artikel](/wiki/Article_styling_criteria)*
