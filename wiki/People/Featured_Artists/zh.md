@@ -57,6 +57,7 @@ tags:
 | ::{ flag=JP }:: [7\_7](https://osu.ppy.sh/users/7491106) | [7\_7](https://osu.ppy.sh/beatmaps/artists/356) |
 | ::{ flag=JP }:: [A\_\_](https://osu.ppy.sh/users/12011880) | [A?](https://osu.ppy.sh/beatmaps/artists/173) |
 | ::{ flag=US }:: [antiPLUR](https://osu.ppy.sh/users/7318723) | [antiPLUR / Internet Death Machine](https://osu.ppy.sh/beatmaps/artists/24) |
+| ::{ flag=US }:: [ERA Akiri](https://osu.ppy.sh/users/19587411) | [Akiri](https://osu.ppy.sh/beatmaps/artists/401) |
 | ::{ flag=AU }:: [aquellex](https://osu.ppy.sh/users/3137790) | [Aquellex](https://osu.ppy.sh/beatmaps/artists/380) |
 | ::{ flag=HK }:: [Ardolf](https://osu.ppy.sh/users/12359061) | [Ardolf](https://osu.ppy.sh/beatmaps/artists/263) |
 | ::{ flag=US }:: [BigMoist10](https://osu.ppy.sh/users/20787676) | [The Gentle Men](https://osu.ppy.sh/beatmaps/artists/142) (member of) |
@@ -88,6 +89,7 @@ tags:
 | ::{ flag=US }:: [onumi](https://osu.ppy.sh/users/11204867) | [onumi](https://osu.ppy.sh/beatmaps/artists/32) |
 | ::{ flag=GB }:: [passchooo](https://osu.ppy.sh/users/6469085) | [passchooo](https://osu.ppy.sh/beatmaps/artists/366) |
 | ::{ flag=CH }:: [pandaeyesosu](https://osu.ppy.sh/users/34609545) | [Panda Eyes](https://osu.ppy.sh/beatmaps/artists/55) |
+| ::{ flag=RU }:: [rebuble uselet](https://osu.ppy.sh/users/5256300) | [uselet](https://osu.ppy.sh/beatmaps/artists/402) |
 | ::{ flag=CA }:: [Redside](https://osu.ppy.sh/users/16039046) | [Redside](https://osu.ppy.sh/beatmaps/artists/184) |
 | ::{ flag=US }:: [Ritorikal](https://osu.ppy.sh/users/8061786) | [Ritorikal](https://osu.ppy.sh/beatmaps/artists/305) |
 | ::{ flag=PH }:: [rtnario](https://osu.ppy.sh/users/16222702) | [LEAF XCEED Music Division](https://osu.ppy.sh/beatmaps/artists/88) |
@@ -97,6 +99,7 @@ tags:
 | ::{ flag=ES }:: [sotuiofficial](https://osu.ppy.sh/users/14779258) | [Rising Sun Traxx](https://osu.ppy.sh/beatmaps/artists/41) （建立者） |
 | ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235) | [Sparxe](https://osu.ppy.sh/beatmaps/artists/398) |
 | ::{ flag=US }:: [synthion](https://osu.ppy.sh/users/2872433) | [Synthion](https://osu.ppy.sh/beatmaps/artists/357) |
+| ::{ flag=US }:: [Sydosys](https://osu.ppy.sh/users/17523947) | [Sydosys](https://osu.ppy.sh/beatmaps/artists/392) |
 | ::{ flag=US }:: [tephe](https://osu.ppy.sh/users/32666295) | [tephe](https://osu.ppy.sh/beatmaps/artists/361) |
 | ::{ flag=KR }:: [thenewlimee](https://osu.ppy.sh/users/7802935) | [Raimukun](https://osu.ppy.sh/beatmaps/artists/247) |
 | ::{ flag=RU }:: [tieff](https://osu.ppy.sh/users/89619) | [tieff](https://osu.ppy.sh/beatmaps/artists/34) |

@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 6cb79c54c6993c240d1457e7bc09ae43d41f869d
+---
+
 # osu!(lazer) 功能变化
 
 *如果想要比较 lazer 和 stable 的功能列表，请参见： [帮助中心/升级到 lazer § 功能对比](/wiki/Help_centre/Upgrading_to_lazer#功能对比)。*
