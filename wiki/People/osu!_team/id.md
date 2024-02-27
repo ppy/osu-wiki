@@ -9,8 +9,7 @@ tags:
   - staf osu!
   - tim osu!
   - staf
-outdated_translation: true
-outdated_since: 6b280c8bceae0f3d6fd6d62fb8e47f060a632106
+no_native_review: true
 ---
 
 # Tim osu!
