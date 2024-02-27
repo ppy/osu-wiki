@@ -1,6 +1,5 @@
 ---
-outdated_translation: true
-outdated_since: 4390338dba70d8ad149f01408d623120cdc6aa96
+no_native_review: true
 ---
 
 # Nâng cấp lên lazer
