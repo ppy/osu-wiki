@@ -16,8 +16,7 @@ A partir del [7 de febrero de 2020](https://osu.ppy.sh/home/news/2020-02-07-comm
 
 - El [título de usuario](/wiki/Community/User_title) «Elite Nominator», que dura 1 año hasta la próxima ola de Elite Nominators o cuando el usuario abandona los Beatmap Nominators. En caso de que a un usuario se le otorgue el título nuevamente por años consecutivos, el título se incrementa en 1 («Elite Nominator II», etc.).
 - Una [insignia de perfil](/wiki/Community/Profile_badge) Elite Nominator, que es permanente.
-
-![](https://assets.ppy.sh/profile-badges/elite-nominator.png "Insignia de Elite Nominator")
+  ![](https://assets.ppy.sh/profile-badges/elite-nominator.png?2024 "Insignia de Elite Nominator") ![](https://assets.ppy.sh/profile-badges/elite-nominator-2.png "Insignia de Elite Nominator II")
 
 ## Lista de Elite Nominators
 

@@ -268,13 +268,13 @@ This competition has come to an end and resulted in the following podium:
 
 Saturday, 11 September 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | \_AfterWind ::{ flag=RO }:: | 4 | **9** | ::{ flag=RO }:: **L9 ELOVATOR** | [#1](https://osu.ppy.sh/community/matches/90747076) |
 
 Sunday, 12 September 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **eternum** ::{ flag=RO }:: | **9** | 7 | ::{ flag=RO }:: L9 ELOVATOR | [#1](https://osu.ppy.sh/community/matches/90805530) |
 
@@ -282,20 +282,20 @@ Sunday, 12 September 2021:
 
 Saturday, 4 September 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **eternum**  ::{ flag=RO }:: | **7** | 4 |  ::{ flag=RO }:: \_AfterWind | [#1](https://osu.ppy.sh/community/matches/90384246) |
+| **eternum** ::{ flag=RO }:: | **7** | 4 | ::{ flag=RO }:: \_AfterWind | [#1](https://osu.ppy.sh/community/matches/90384246) |
 | cristi2708 ::{ flag=RO }:: | 1 | **7** | ::{ flag=RO }:: **L9 ELOVATOR** | [#1](https://osu.ppy.sh/community/matches/90391055) |
 
 Sunday, 5 September 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Lucrise** ::{ flag=RO }:: | **7** | 5 | ::{ flag=RO }:: nanoya | [#1](https://osu.ppy.sh/community/matches/90433586) |
 
 Monday, 6 September 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **L9 ELOVATOR** ::{ flag=RO }:: | **7** | 0 | ::{ flag=RO }:: Lucrise | [#1](https://osu.ppy.sh/community/matches/90482703) |
 
@@ -303,21 +303,21 @@ Monday, 6 September 2021:
 
 Friday, 20 August 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | A-XLE ::{ flag=RO }:: | 1 | **7** | ::{ flag=RO }:: **WhySoInsecure** | [#1](https://osu.ppy.sh/community/matches/89550583) |
 | **Rekkke** ::{ flag=RO }:: | **7** | 2 | ::{ flag=RO }:: Lernaeus | [#1](https://osu.ppy.sh/community/matches/89561775) |
 
 Saturday, 21 August 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **L9 ELOVATOR** ::{ flag=RO }:: | **7** | 0 | ::{ flag=RO }:: entsetzen | [#1](https://osu.ppy.sh/community/matches/89608041) |
 | **nanoya** ::{ flag=RO }:: | **7** | 0 | ::{ flag=RO }:: Gadzzaa | [#1](https://osu.ppy.sh/community/matches/89614613) |
 
 Sunday, 22 August 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | WhySoInsecure ::{ flag=RO }:: | 1 | **7** | ::{ flag=RO }:: **nanoya** | [#1](https://osu.ppy.sh/community/matches/89671577) |
 | **\_AfterWind** ::{ flag=RO }:: | **7** | 2 | ::{ flag=RO }:: cristi2708 | [#1](https://osu.ppy.sh/community/matches/89674010) |
@@ -325,7 +325,7 @@ Sunday, 22 August 2021:
 
 Monday, 23 August 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **eternum** ::{ flag=RO }:: | **7** | 2 | ::{ flag=RO }:: Lucrise | [#1](https://osu.ppy.sh/community/matches/89730724) |
 
@@ -333,13 +333,13 @@ Monday, 23 August 2021:
 
 Friday, 13 August 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | WhySoInsecure ::{ flag=RO }:: | **6** | 1 | ::{ flag=RO }:: RatonGolzache | [#1](https://osu.ppy.sh/community/matches/89178817) |
 
 Saturday, 14 of August 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | RedGameBoy ::{ flag=RO }:: | 5 | **6** | ::{ flag=RO }:: **Lernaeus** | [#1](https://osu.ppy.sh/community/matches/89220441) |
 | VenTryXX ::{ flag=RO }:: | -1 | **0** | ::{ flag=RO }:: **Australia** | win by default |
@@ -353,7 +353,7 @@ Saturday, 14 of August 2021:
 
 Sunday, 15 August 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **entsetzen** ::{ flag=RO }:: | **6** | 2 | ::{ flag=RO }:: Dank Uta | [#1](https://osu.ppy.sh/community/matches/89276378) |
 | A-XLE ::{ flag=RO }:: | 3 | **6** | ::{ flag=RO }:: **cristi2708** | [#1](https://osu.ppy.sh/community/matches/89278010) |
@@ -363,7 +363,7 @@ Sunday, 15 August 2021:
 
 Monday, 16 August 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **eternum** ::{ flag=RO }:: | **6** | 1 | ::{ flag=RO }:: Rekkke | [#1](https://osu.ppy.sh/community/matches/89332314) |
 
@@ -371,20 +371,20 @@ Monday, 16 August 2021:
 
 Tuesday, 3 August 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Dano Osu** ::{ flag=RO }:: | **6** | 2 | ::{ flag=RO }:: hroni | [#1](https://osu.ppy.sh/community/matches/88588591) |
 
 Friday, 6 August 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **\_AfterWind** ::{ flag=RO }:: | **6** | 2 | ::{ flag=RO }:: Lernaeus | [#1](https://osu.ppy.sh/community/matches/88766359) |
 | **L9 ELOVATOR** ::{ flag=RO }:: | **6** | 1 | ::{ flag=RO }:: WhySoInsecure | [#1](https://osu.ppy.sh/community/matches/88773001) |
 
 Saturday, 7 August 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **eternum** ::{ flag=RO }:: | **6** | 0 | ::{ flag=RO }:: GMTrooll | [#1](https://osu.ppy.sh/community/matches/88816565) |
 | MariusBDR ::{ flag=RO }:: | -1 | **0** | ::{ flag=RO }:: **Australia** | win by default |
@@ -398,7 +398,7 @@ Saturday, 7 August 2021:
 
 Sunday, 8 August 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Rekkke** ::{ flag=RO }:: | **6** | 0 | ::{ flag=RO }:: Gadzzaa | [#1](https://osu.ppy.sh/community/matches/88876876) |
 | **cristi2708** ::{ flag=RO }:: | **6** | 0 | ::{ flag=RO }:: entsetzen | [#1](https://osu.ppy.sh/community/matches/88886246) |
@@ -407,13 +407,13 @@ Sunday, 8 August 2021:
 
 Friday, 30 July 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Paato** ::{ flag=RO }:: | **5** | 0 | ::{ flag=RO }:: megalapin | [#1](https://osu.ppy.sh/community/matches/88335123) |
 
 Saturday, 31 July 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Lernaeus** ::{ flag=RO }:: | **5** | 2 | ::{ flag=RO }:: RatonGolzache | [#1](https://osu.ppy.sh/community/matches/88388437) |
 | **GMTrooll** ::{ flag=RO }:: | **5** | 2 | ::{ flag=RO }:: Dank Uta | [#1](https://osu.ppy.sh/community/matches/88390115) |
@@ -425,7 +425,7 @@ Saturday, 31 July 2021:
 
 Sunday, 1 August 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **nanoya** ::{ flag=RO }:: | **0** | -1 | ::{ flag=RO }:: Boticeli | win by default |
 | **RedGameBoy** ::{ flag=RO }:: | **0** | -1 | ::{ flag=RO }:: sarpili | win by default |
@@ -435,7 +435,7 @@ Sunday, 1 August 2021:
 
 Monday, 2 August 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **WhySoInsecure** ::{ flag=RO }:: | **5** | 1 | ::{ flag=RO }:: RareshRSN | [#1](https://osu.ppy.sh/community/matches/88522572) |
 
