@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Twin Trials Contest
 
 ![](https://assets.ppy.sh/contests/166/header.jpg)

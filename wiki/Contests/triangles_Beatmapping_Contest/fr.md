@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # triangles Beatmapping Contest
 
 ![](https://assets.ppy.sh/contests/147/header.jpg)
