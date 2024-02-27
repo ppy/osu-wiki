@@ -34,7 +34,7 @@ osu! llega al iPhone en forma de port desarrollado por [nuudles](https://osu.ppy
 
 Las preguntas frecuentes del sitio web de osu! se han vuelto traducibles y contribuidores voluntarios ayudaron a hacerlas accesibles en varios idiomas.[^faq-localisation]
 
-En una gran actualización el 26 de enero, osu! recibió muchas funciones nuevas.[^stable-b593a] Entre esos cambios se incluyeron los nuevos modos de multijugador [Tag VS](/wiki/Client/Interface/Multiplayer#team-vs) y [Tag Team VS](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs), así como la protección por contraseña de las salas multijugador. Los objetos en el editor de storyboards se podrían modificar de nuevas maneras mediante las opciones de transfomación de escalado vectorial y volteo. Jugando, efectos de iluminación de golpeo enfatizarían un golpe mediante la salpicadura de colores en el campo de juego. Además, la barra de progreso de la canción también se hizo visible en forma de gráfico circular. Adicionalmente, se agregó al [selector de canciones](/wiki/Client/Interface#selector-de-canciones) un nuevo modo de clasificación para los beatmaps, llamado «Last Played».
+En una gran actualización el 26 de enero, osu! recibió muchas funciones nuevas.[^stable-b593a] Entre esos cambios se incluyeron los nuevos modos de multijugador [Tag VS](/wiki/Client/Interface/Multiplayer#team-vs) y [Tag Team VS](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs), así como la protección por contraseña de las salas multijugador. Los objetos en el editor de storyboards se podrían modificar de nuevas maneras mediante las opciones de transfomación de escalado vectorial y volteo. Al jugar, efectos de iluminación de golpeo enfatizarían un golpe mediante la salpicadura de colores en el campo de juego. Además, la barra de progreso de la canción también se hizo visible en forma de gráfico circular. Adicionalmente, se agregó al [selector de canciones](/wiki/Client/Interface#selector-de-canciones) un nuevo modo de clasificación para los beatmaps, llamado «Last Played».
 
 ## Febrero
 
@@ -44,11 +44,11 @@ El sistema de [kudosu](/wiki/Kudosu) fue implementado para facilitar el [modding
 
 ## Marzo
 
-Tres actualizaciones trajeron consigo un montón de cambios a osu! este mes. La primera de ellas incluyó opciones de filtrado para salas de multijugador, además de una opción del chat para filtrar mensajes en caso de la aparición de palabras ofensivas. Siempre que esté activado, cualquier mensaje que contenga palabras ofensivas sería automáticamente reemplazado por términos definidos en una lista preestablecida.[^stable-b622]
+Tres actualizaciones trajeron consigo un montón de cambios a osu! este mes. La primera de ellas incluyó opciones de filtrado para las salas multijugador, además de una opción del chat para filtrar mensajes en caso de la aparición de palabras ofensivas. Siempre que esté activado, cualquier mensaje que contenga palabras ofensivas sería automáticamente reemplazado por términos definidos en una lista preestablecida.[^stable-b622]
 
 En la siguiente actulización publicada el 21 de marzo, el [kiai time](/wiki/Gameplay/Kiai_time) fue añadido, permitiendo a los mappers enfatizar las partes más intensas de las canciones con fuentes de estrellas.[^stable-b631]
 
-El 26 de marzo, osu! recibió soporte para el mando tambor TaTaCon Wii Taiko y soporte en el juego y menú para el Wiimote (exclusivamente para Catch The Beat).[^stable-b639][^custom-changelog]
+El 26 de marzo, osu! recibió soporte para el mando TaTaCon Wii Taiko y soporte en el juego y menú para el Wiimote (exclusivamente para Catch The Beat).[^stable-b639][^custom-changelog]
 
 ## Abril
 
@@ -78,7 +78,7 @@ Después de una prueba inicial en marzo para las clasificaciones en línea para 
 
 ## Agosto
 
-La cuenta de Twitter [@osustatus](https://twitter.com/osustatus) fue creada para informar a los jugadores de problemas con [Bancho](/wiki/Bancho_(server)) y el sitio web.[^osustatus]
+La cuenta de Twitter [@osustatus](https://twitter.com/osustatus) fue creada para informar a los jugadores si había algún problema con [Bancho](/wiki/Bancho_(server)) y el sitio web.[^osustatus]
 
 El 12 de agosto, osu! recibió un nuevo parámetro, llamado `LoopType`, para poner en bucle los objetos del storyboard, y también se agregó el mod [Relax](/wiki/Gameplay/Game_modifier/Relax) para el modo de juego Taiko. Adicionalmente, se publicó una versión preliminar de [AiMod](/wiki/Client/Beatmap_editor/AiMod), una herramienta para detectar problemas en los beatmaps.[^stable-b825]
 
