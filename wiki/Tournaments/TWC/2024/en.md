@@ -60,7 +60,7 @@ The osu!taiko World Cup 2024 is run by various community members.
 
 ### Tournament rules
 
-1. The osu!taiko World Cup is a country-based team tournament, played on the osu!taiko game mode.
+1. The osu!taiko World Cup is a country-based 3 versus 3 team tournament, played on the osu!taiko game mode.
    - Players from countries or territories (as seen on their profile flag) that are under a protectorate or sovereign state may choose to play for that country **if** the country listed on their profile is unable to field enough players to form a valid team. Refer to [this article](https://wikipedia.org/wiki/Dependent_territory#Lists_of_dependent_territories) for an overview of the criteria adopted. Players that have participated under another country previously may continue to do so.
 2. Beatmap scoring is based on ScoreV2.
 3. The minimum size for a team is 4 players, and the maximum is 6.
@@ -69,7 +69,7 @@ The osu!taiko World Cup 2024 is run by various community members.
 6. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins is allowed.
    - Custom skin elements must not be used to alter core gameplay elements or mechanics in unintended ways.
 7. If less than the minimum amount of required players are present at match time, the match can be postponed for up to 10 minutes. If after this period there are still not enough players for either team, a *win by default* will be declared for the side with the most members present.
-   - The minimum amount of required players is the amount of players needed to play a beatmap without any vacant spots in the lobby (i.e. at least 2 participants from each team must be present for the match to begin).
+   - The minimum amount of required players is the amount of players needed to play a beatmap without any vacant spots in the lobby (i.e. at least 3 participants from each team must be present for the match to begin).
 8. Exchanging players between games is allowed without limitations.
 9. If a game ends in a draw, it will be nullified and the beatmap will be replayed.
 10. Teams may ask for a rematch if a team member encounters technical issues while playing within 30 seconds or 25% of the beatmap drain length (whichever happens first) of the game's start. Referees may, at their discretion, veto this request.
@@ -116,7 +116,7 @@ The osu!taiko World Cup 2024 is run by various community members.
    - Every registered user will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, players are required to be placed #5000 or higher on the osu!taiko global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 4. All successfully formed teams will be published after the registration phase on this page.
-   - A team should have at least 2 players registered to have the chance to play the Qualifier stage.
+   - A team should have at least 4 players registered to have the chance to play the Qualifier stage.
 5. Tournament staff members are **not** allowed to play in the tournament, with the exception of commentators and streamers.
 
 ### Qualifier instructions
@@ -154,7 +154,7 @@ The osu!taiko World Cup 2024 is run by various community members.
    1. The loser of the `!roll` starts banning one beatmap, followed by the winner of the `!roll` to ban a beatmap.
    2. The winner of the `!roll` starts picking the first beatmap of the match.
 3. After bans are decided, both teams will take turns in picking a beatmap from the mappool.
-4. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than alloted for either action, the procedures adopted will be as follows:
+4. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than allotted for either action, the procedures adopted will be as follows:
    - For the first occurrence:
      - The team will receive a verbal warning from the referee; in addition, the referee may opt to forcefully use the team's tactical timeout to allow for the team to pick.
      - If the team does not pick a map within 15 seconds from when the timer expires, the referee will apply the procedure for subsequent occurrences listed below, i.e. a random pick will be used for a pick timer, and the match will be forcefully started for a ready timer.
@@ -171,7 +171,7 @@ The osu!taiko World Cup 2024 is run by various community members.
 1. Every stage will have its own mappool.
 2. Each mappool consists of 5 brackets: [No Mod](/wiki/Gameplay/Game_modifier#nomod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) and [Free Mod](/wiki/Gameplay/Game_modifier#freemod).
 3. The mappool sizes are as follows:
-   - Qualifiers: 10 beatmaps
+   - Qualifiers: 7 beatmaps
    - Round of 32 and Round of 16: 14 beatmaps
    - Quarterfinals and Semifinals: 15 beatmaps
    - Finals and Grand Finals: 16 beatmaps

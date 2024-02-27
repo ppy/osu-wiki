@@ -17,7 +17,7 @@ tags:
 
 谱面中的**难度**是一个以[`.osu` 后缀名](/wiki/Client/File_formats/osu_(file_format))文本文件存储的游戏关卡。它包含了为歌曲量身定制、测定好[时间轴](/wiki/Client/Beatmap_editor/Timing)和用于特定[游戏模式](/wiki/Game_mode)的[击打物件](/wiki/Gameplay/Hit_object)。不同难度有不同的定位，对玩家的考验也不同。通常难度名和[谱面星级](/wiki/Beatmap/Star_rating)足以显示难度所具有的挑战性。
 
-据游戏模式、游玩难度、音乐的旋律及给人带来感觉的不同，难度中击打物件所组成的[排列](/wiki/Beatmap/Pattern)不尽相同。谱师可以通过调整多种[谱面难度设定](/wiki/Client/Beatmap_editor/Song_setup#谱面难度设定(difficulty))或者玩家可以开启不同的[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier) 来影响谱面的实际游玩难度。
+据游戏模式、游玩难度、音乐的旋律及给人带来感觉的不同，难度中击打物件所组成的[排列](/wiki/Beatmap/Pattern)不尽相同。谱师可以通过调整多种[谱面难度设定](/wiki/Client/Beatmap_editor/Song_setup#谱面难度设定-(difficulty))或者玩家可以开启不同的[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier) 来影响谱面的实际游玩难度。
 
 难度可以通过提供一组或多组音频样本（或[音效](/wiki/Beatmapping/Hitsound)）来增强歌曲，提供额外的听觉反馈层次。
 
