@@ -1,7 +1,3 @@
----
-no_native_review: true
----
-
 # Các gợi ý để làm công việc của bạn tốt hơn
 
 Bài viết này sẽ nói về một số khó khăn có thể bạn sẽ gặp phải khi đang làm việc. Các phương pháp được đề cập ở đây làm cho công việc dễ dàng hơn và có thể được áp dụng cho các dự án khác được quản lý trên GitHub hoặc các phương tiện tương tự.

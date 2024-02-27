@@ -2,7 +2,6 @@
 tags:
   - bubble pop
   - full bubble
-no_native_review: true
 ---
 
 # Bubble
