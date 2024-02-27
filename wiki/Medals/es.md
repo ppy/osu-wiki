@@ -1,6 +1,6 @@
 # Medallas
 
-Las **medallas**, anteriormente conocidas como *logros*, son insignias en el perfil de un usuario que indican ciertos objetivos que ha alcanzado el usuario. Actualmente, hay **314** medallas disponibles para desbloquear en ocho categorías diferentes en total: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights) y [Beatmap Challenge Packs](#beatmap-challenge-packs).
+Las **medallas**, anteriormente conocidas como *logros*, son insignias en el perfil de un usuario que indican ciertos objetivos que ha alcanzado el usuario. Actualmente, hay **324** medallas disponibles para desbloquear en ocho categorías diferentes en total: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights) y [Beatmap Challenge Packs](#beatmap-challenge-packs).
 
 ## Beatmap Packs
 
