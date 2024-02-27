@@ -26,9 +26,9 @@ tags:
 
 *Notice: Enabling Target Practice will result in an unranked play.*
 
-The **Target Practice** mod is an experimental [game modifier](/wiki/Gameplay/Game_modifier) for [osu!](/wiki/Game_mode/osu!), which removes all the mapped [hit objects](/wiki/Gameplay/Hit_object) and replaces them with a simplified set of "targets". It is used mostly for fun, but can also be helpful for practicing a consistent tempo and improving hit accuracy.
+The **Target Practice** mod is an experimental [game modifier](/wiki/Gameplay/Game_modifier) for [osu!](/wiki/Game_mode/osu!), which removes all the mapped [hit objects](/wiki/Gameplay/Hit_object) and replaces them with a simplified set of "targets". It is used mostly for fun, but can also be helpful for practising a consistent tempo and improving hit accuracy.
 
-When Target Practice is activated, osu! hides the health bar and accuracy meter. The player has to hit the targets gradually appearing across the [playfield](/wiki/Client/Playfield), with the intention of hitting their centers. To maintain stable rhythm, players can follow the metronome playing in the background.
+When Target Practice is activated, osu! hides the health bar and accuracy meter. The player has to hit the targets gradually appearing across the [playfield](/wiki/Client/Playfield), with the intention of hitting their centres. To maintain stable rhythm, players can follow the metronome playing in the background.
 
 The game continues until the first [MISS](/wiki/Gameplay/Judgement/osu!), which takes the player to the [results screen](/wiki/Client/Interface#results-screen). The meaning of different grades is similar to that in [osu!mania](/wiki/Gameplay/Grade#osu!mania).
 
@@ -40,7 +40,7 @@ A target can be considered a special type of [hit circle](/wiki/Gameplay/Hit_obj
 
 ## Trivia
 
-- The Target Practice Mod uses [combo colours](/wiki/Beatmapping/Combo_colour) from [skin.ini](/wiki/Skinning/skin.ini) of the active skin.
+- The Target Practice Mod uses [combo colours](/wiki/Beatmapping/Combo_colour) from the [skin.ini](/wiki/Skinning/skin.ini) of the active skin.
 - Failing a play with Target Practice takes the player to the results screen instead of the fail screen.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
