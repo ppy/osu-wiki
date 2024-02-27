@@ -8,9 +8,6 @@ tags:
   - ventana de golpeo
   - ventana de tiempo
   - dificultad del spinner
-
-outdated_translation: true
-outdated_since: 34021fa99fcd8edba9fd6166370529854c9d1a03
 ---
 
 # Dificultad general
@@ -43,19 +40,19 @@ Las ventanas de tiempo para los juicios se pueden ver al pasar el cursor sobre l
 
 | Puntuación | Ventana de tiempo (ms) |
 | --: | :-- |
-| Great | `35 - (35 - 50) * (5 - OD) / 5` si OD < 5, `35 + (20 - 35) * (OD - 5) / 5` si OD > 5, de lo contrario `35` |
-| Ok | `80 - (80 - 120) * (5 - OD) / 5` si OD < 5, `80 + (50 - 80) * (OD - 5) / 5` si OD > 5, de lo contrario `80` |
-| Miss | `95 - (95 - 135) * (5 - OD) / 5` si OD < 5, `95 + (70 - 95) * (OD - 5) / 5` si OD > 5, de lo contrario `95` |
+| Great | `50 - 3 × OD` |
+| Ok | `120 - 8 × OD` si OD ≤ 5, y `110 - 6 × OD` si OD ≥ 5 |
+| Miss | `135 - 8 × OD` si OD ≤ 5, y `120 - 5 × OD` si OD ≥ 5 |
 
 ### osu!mania
 
 | Puntuación | Ventana de tiempo (ms) |
 | --: | :-- |
 | MAX | `16` |
-| 300 | `64 - 3 * OD` |
-| 200 | `97 - 3 * OD` |
-| 100 | `127 - 3 * OD` |
-| 50 | `188 - 3 * OD` |
+| 300 | `64 - 3 × OD` |
+| 200 | `97 - 3 × OD` |
+| 100 | `127 - 3 × OD` |
+| 50 | `188 - 3 × OD` |
 
 Si el jugador golpea fuera de la ventana de tiempo de 50, contará como un fallo. En caso de que las ventanas de tiempo de dos objetos se solapen, el segundo objeto será inaccesible hasta que el primer objeto desaparezca debido al [notelock](/wiki/Gameplay/Judgement/Notelock).
 
@@ -65,9 +62,9 @@ En [osu!](/wiki/Game_mode/osu!), los [sliders](/wiki/Gameplay/Hit_object/Slider)
 
 La dificultad general también afecta a los [spinners](/wiki/Gameplay/Hit_object/Spinner), en que deben girarse más para llenar el indicador a tiempo. En [osu!taiko](/wiki/Game_mode/osu!taiko), el denden también necesitará más golpes para ser completado. Los giros por segundo necesarios para completar un spinner se definen mediante la siguiente fórmula:
 
-- OD < 5: `5 - 2 * (5 - OD) / 5`
+- OD < 5: `5 - 2 × (5 - OD) / 5`
 - OD = 5: `5`
-- OD > 5: `5 + 2.5 * (OD - 5) / 5`
+- OD > 5: `5 + 2.5 × (OD - 5) / 5`
 
 ## Efectos de mods
 

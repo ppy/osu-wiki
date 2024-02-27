@@ -85,13 +85,13 @@ Finalists:
 - [**Slax - Lunaticon**](https://osu.ppy.sh/beatmapsets/2042964) by [**Hivie**](https://osu.ppy.sh/users/14102976) with **37** votes.
 - [**Babuchan - 13 stairs**](https://osu.ppy.sh/beatmapsets/1093671) by [**Alchyr**](https://osu.ppy.sh/users/4993032) with **37** votes.
 - [**DJ SHARPNEL - FUWANITY**](https://osu.ppy.sh/beatmapsets/1904848) by [**Eriha**](https://osu.ppy.sh/users/16320311) with **37** votes.
-- [**GTS Sound Team - \<\<wr/d.:maker\>\> ~Harmony in Reset~**](https://osu.ppy.sh/beatmapsets/2036571) by [**Cynplytholowazy**](https://osu.ppy.sh/users/3901754) with **35** votes.
+- [**GTS Sound Team - \<\<wr/d.:maker\>\> \~Harmony in Reset\~**](https://osu.ppy.sh/beatmapsets/2036571) by [**Cynplytholowazy**](https://osu.ppy.sh/users/3901754) with **35** votes.
 
 ### Mapper's Favourite
 
 [![](/wiki/shared/news/2024-02-12-community-choice-2023-results/1976834.jpg)](https://osu.ppy.sh/beatmapsets/1976834)
 
-The osu!taiko mapping community has decided to crown [**BilliumMoto & Dictate - 1KARUGA**](https://osu.ppy.sh/beatmapsets/1976834) as their favourite set of 2023! 
+The osu!taiko mapping community has decided to crown [**BilliumMoto & Dictate - 1KARUGA**](https://osu.ppy.sh/beatmapsets/1976834) as their favourite set of 2023!
 
 Created by the joint prowess of 2 mapping titans [HiroK](https://osu.ppy.sh/users/4050738) and [uone](https://osu.ppy.sh/users/5321719) for the [osu!taiko World Cup 2023 Finals tiebreaker](/wiki/Tournaments/TWC/2023#finals), it sets some high expectations to live up to, and to the surprise of no one, it *exceeds* them. Featuring all kinds of intricate and obscure snaps (some of which don't even exist in the current set of snap divisors), HiroK and uone perfectly capture the incredibly chaotic essence of the song in a way that's both fun and challenging to play.
 
