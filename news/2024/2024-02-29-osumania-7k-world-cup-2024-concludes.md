@@ -162,7 +162,7 @@ Born and raised on osu!mania, **yz1155** has climbed through the ranks and is no
 
 [![](/wiki/shared/news/2024-02-29-osu-mania-7k-world-cup-2024-concludes/noname.png)](https://osu.ppy.sh/users/10400730)
 
-**-NoName-** has gone absolutely bonkers this year, not only answering the call of being a mappool selector, but also going above and beyond by having **2** of their own charts (both solo and mapped in collaboration) present in **every stage** of the tournament this year, excluding Qualifiers. Some say they placed 50,000 notes over the course of this year's tournament alone, but we'll let you count them out.
+**-NoName-** has gone absolutely bonkers this year, not only answering the call of being a mappool selector, but also going above and beyond by contribution to **12** of the picks throughout this year's tournament. Some say they placed 50,000 notes over the course of this year's tournament alone, but we'll let you count them out.
 
 *What were your initial thoughts about stepping up as the head pooler for this World Cup? What made you go for it?*
 
@@ -216,7 +216,7 @@ Born and raised on osu!mania, **yz1155** has climbed through the ranks and is no
 
 [![](/wiki/shared/news/2024-02-29-osu-mania-7k-world-cup-2024-concludes/akiri.png)](https://osu.ppy.sh/users/19587411)
 
-**Akiri** is first and foremost one of our own, a community member and mania player. Their debut started with this year's Semifinals tiebreaker, but their music journey goes [so far beyond that](https://osu.ppy.sh/beatmaps/artists/401).
+**Akiri** is first and foremost one of our own, a community member and mania player. They had their World Cup debut with this year's Semifinals tiebreaker, but their music journey goes [so far beyond that](https://osu.ppy.sh/beatmaps/artists/401).
 
 *How did you get into music production?*
 > It was out of spite, my father told me I'd never be capable of creating a name for myself which resulted in me simply doing so to spite him.
