@@ -7,6 +7,8 @@ tags:
   - game modifier
   - cutting edge
   - modificateur de jeu
+outdated_translation: true
+outdated_since: f765631cd44ae8e9acea47ce6c88b9ec510998b3
 ---
 
 # Le mod Target Practice

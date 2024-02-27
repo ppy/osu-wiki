@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 9c688bc7354ccd48e907554ce34f2307d3e973d9
 tags:
   - MWC2024
   - MWC 2024
@@ -125,7 +127,7 @@ osu!mania 7키 월드컵 2024는 osu! 팀과 여러명의 커뮤니티 멤버들
   2. [Raimukun - Myths Orbis (pwhk) \[7K Mythico\]](https://osu.ppy.sh/beatmapsets/2137696#mania/4498818)
   3. [Minstrel - Yotogibanashi no Kamikakushi (\_Yiiiii) \[Wandering (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/2137689#mania/4498794)
   4. [SHIKI - Orfevre (-NoName-) \[Blossom\]](https://osu.ppy.sh/beatmapsets/2137727#mania/4498898)
-  5. [sepiarecorders - \* (paulkappa) \[272 nightmares\]](https://osu.ppy.sh/beatmapsets/2137690#mania/4498796)
+  5. [sepiarecorders - \*\*\*\*\*\* (paulkappa) \[272 nightmares\]](https://osu.ppy.sh/beatmapsets/2137690#mania/4498796)
   6. [sasakure.UK vs. TJ.hangneil - raputa (Leeju) \[Leeju's 7K Mewing Haruka (MWC edit.)\]](https://osu.ppy.sh/beatmapsets/2137695#mania/4498810)
   7. [celtix - Baryogenesis (\_Kobii) \[Symmetry Break (MWC edit)\]](https://osu.ppy.sh/beatmapsets/2137694#mania/4498803)
 - Long Note
@@ -560,7 +562,7 @@ osu!mania 7키 월드컵 2024는 osu! 팀과 여러명의 커뮤니티 멤버들
 ### 맵풀 정보
 
 1. 모든 스테이지에는 고유한 맵풀이 있습니다.
-2. 각 맵풀은 고정된 개수로 구성되며, 모두 FreeMod로 플레이됩니다. 
+2. 각 맵풀은 고정된 개수로 구성되며, 모두 FreeMod로 플레이됩니다.
 3. 맵풀별 비트맵의 개수는 다음과 같습니다::
    - 퀄리파이어: 8개의 비트맵
    - 24강과 16강: 12개의 비트맵
