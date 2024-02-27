@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_since: 0b17e730706bd653e8092be92c75b0e1d83e6a1f
+outdated_translation: true
 ---
 
 # Kriteria gaya berita
