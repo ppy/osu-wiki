@@ -22,6 +22,10 @@ Massive congratulations to the Philippines and Malaysia as well for putting up a
 
 ### ::{ flag=KR }:: South Korea vs. ::{ flag=MY }:: Malaysia
 
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=v2073302798&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+</div>
+
 The Grand Finals match between South Korea and Malaysia may fall into the records as one of the best exhibitions of VSRG skill ever. The ever-dominant South Korea comes into this match with a mission to regain the crown that they lost in 2023. Team Malaysia, on the other hand, hoping to end this Cinderella run of theirs the best way possible.
 
 The Malaysians immediately took the first point on LN3, [Garyou Tensei](https://osu.ppy.sh/beatmapsets/2137702#mania/4498825), repeating the situation during their match in the Finals. ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497)'s performance in particular with 981k score outperformed the Koreans. The statement was clear, as Malaysia would be the only team to ever take points from South Korea in the tournament.
@@ -31,6 +35,14 @@ The Koreans proved too formidable, however, as they would ramp up their onslaugh
 Never to falter completely, the Malaysians grabbed their final point from South Korea right afterwards on LN1, [Reunion](https://osu.ppy.sh/beatmapsets/1785469#mania/3657073), again with heroics coming from cheewee10 with a 969k score. South Korea then managed outstanding performances for the remaining maps, and while there was a glimpse of hope for Malaysia on RC4, [Orfevre](https://osu.ppy.sh/beatmapsets/2137727#mania/4498898), the final scoreline was sealed with extraordinary finish for the Koreans, and yz1155 in particular, on HB1, [Seraphim](https://osu.ppy.sh/beatmapsets/2137710#mania/4498842).
 
 The Koreans regained the championship of MWC7K after losing it to the Philippines last year, and have shown a level of dominance that has been expected of them since the dawn of osu!mania. Massive, massive props to Malaysia's dynamic duo as well, cheewee10 and ::{ flag=MY }:: [Neokje](https://osu.ppy.sh/users/7727987), for taking Malaysia to the silver placement for the first time ever and standing tall among the best.
+
+### ::{ flag=MY }:: Malaysia vs. ::{ flag=PH }:: Philippines
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=v2072439938&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+</div>
+
+text
 
 ## Match highlights
 
