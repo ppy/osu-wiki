@@ -19,6 +19,7 @@ Los centuriones son usuarios que han alcanzado el prestigioso hito de crear **ci
 | ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | [23/10/2017](https://osu.ppy.sh/beatmapsets/659371) | [9/7/2022](https://osu.ppy.sh/beatmapsets/1738133) |  |
 | ::{ flag=GR }:: [Genjuro](https://osu.ppy.sh/users/3196091) | [10/4/2019](https://osu.ppy.sh/beatmapsets/921130) | [27/8/2022](https://osu.ppy.sh/beatmapsets/1797642) | [#1](https://osu.ppy.sh/beatmaps/packs/TM1) |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [9/3/2020](https://osu.ppy.sh/beatmapsets/1112834) | [28/8/2023](https://osu.ppy.sh/beatmapsets/2031892) | [#1](https://osu.ppy.sh/beatmaps/packs/TM16) |
+| ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | [13/6/2013](https://osu.ppy.sh/beatmapsets/64564) | [8/2/2024](https://osu.ppy.sh/beatmapsets/2105591#osu/4418008) | [#1](https://osu.ppy.sh/beatmaps/packs/TM19) |
 | ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | [12/11/2015](https://osu.ppy.sh/beatmapsets/335145) | [29/4/2019](https://osu.ppy.sh/beatmapsets/956716) | [#1](https://osu.ppy.sh/beatmaps/packs/TM11), [#2](https://osu.ppy.sh/beatmaps/packs/TM12) |
 | ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812) | [14/4/2017](https://osu.ppy.sh/beatmapsets/540867) | [23/8/2023](https://osu.ppy.sh/beatmapsets/1852680) | [#1](https://osu.ppy.sh/beatmaps/packs/TM17) |
 | ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763) | [13/3/2017](https://osu.ppy.sh/beatmapsets/542755) | [31/8/2019](https://osu.ppy.sh/beatmapsets/894701) | [#1](https://osu.ppy.sh/beatmaps/packs/TM13) |
@@ -33,4 +34,4 @@ Los centuriones son usuarios que han alcanzado el prestigioso hito de crear **ci
 ## Curiosidades
 
 - El primer usuario en alcanzar los 100 beatmaps clasificados fue ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363), el 4 de agosto de 2010.
-- Entre todos los centuriones, toma aproximadamente **3,6 años**<!-- use "3 años y medio" instead of "3,5 años" --> (alrededor de 1306 días) clasificar 100 beatmaps en promedio.
+- Entre todos los centuriones, toma aproximadamente **3,9 años**<!-- use "3 años y medio" instead of "3,5 años" --> (alrededor de 1442 días) clasificar 100 beatmaps en promedio.

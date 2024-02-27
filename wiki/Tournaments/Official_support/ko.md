@@ -167,10 +167,13 @@ User4,Team2,1234567
 - 토너먼트의 로고, 모티프 또는 이름이 명확하게 표시되어야 합니다.
 - 깔끔하고 합리적인 시각적 품질을 갖추어야 합니다.
 - 토너먼트 외에 다른 후원이나 홍보의 내용이 포함되어서는 안 됩니다.
+- 모든 에셋은 토너먼트를 위해 특별하게 제작되어야 하며 [콘텐츠 사용 권한](/wiki/Rules/Content_usage_permissions)을 준수해야 합니다.
+  - 에셋(예: 폰트나 아이콘)이 오픈 소스나 공용인 경우 여기에 포함되지 않습니다 
+  - 위 카테고리에 속하지 않는 에셋을 디자인에 사용할 경우, 배지의 승인을 받기 전에 원작자의 명시적인 승인이 필요합니다.
 
 승인된 배지 디자인을 참고해주세요:
 
-![](https://assets.ppy.sh/profile-badges/ysc4-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/perennial-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/timeskip-2021@2x.png)
+![](https://assets.ppy.sh/profile-badges/ysc4-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/perennial-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/TATHC2023@2x.png)
 
 이런 기준을 충족하지 않는 배지 이미지의 경우, 주어진 이유에 따라 거부되며 때에 따라서 디자인을 완전히 새롭게 해야 할 수도 있습니다. 드문 상황이지만 고려해야 합니다.
 

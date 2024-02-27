@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 6cb79c54c6993c240d1457e7bc09ae43d41f869d
+---
+
 # Diferencias de jugabilidad en osu!(lazer)
 
 *Para una lista comparativa de características entre lazer y stable, véase [Centro de ayuda/Actualizar a lazer § Comparación de características](/wiki/Help_centre/Upgrading_to_lazer#comparación-de-características)*
