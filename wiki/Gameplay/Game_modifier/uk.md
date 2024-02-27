@@ -8,6 +8,7 @@ tags:
   - No Mod
   - FreeMod
   - Free Mod
+no_native_review: true
 ---
 
 <!-- READ BEFORE EDITING:
