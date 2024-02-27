@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Ομάδα υποστήριξης λογαριασμού
 
 *Για μια ομάδα που εποπτεύει ορισμένα υποφόρουμ, βλέπω: [Technical Support Team](/wiki/People/Technical_Support_Team)*
