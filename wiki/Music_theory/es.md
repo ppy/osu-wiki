@@ -12,7 +12,7 @@ osu!, principalmente, es un juego de música, y los beatmaps suelen ser creados 
 
 El acento es el impulso que ocurre al principio de un compás en la música medida. Su nombre en inglés, «downbeat», se deriva del golpe descendente del bastón del director o del conductor en el primer tiempo de cada compás. Frecuentemente es el tiempo más destacado del ciclo rítmico.
 
-### Contratiempo, tiempo débil o tiempo desplazado.
+### Contratiempo, tiempo débil o tiempo desplazado
 
 Un contratiempo, en inglés «upbeat», es una acentuación sincopada en el pulso desplazado. En un ritmo simple de 4/4, estos son los tiempos 2 y 4... En la música popular actual, generalmente se utiliza el tambor de caja para tocar el patrón de contratiempo. Por eso, poner palmadas en los tiempos 2 y 4 suena bien. La mayoría de la música contemporánea utiliza un contratiempo de caja. Algunas canciones añadirán un bombo al contratiempo moviendo el segundo tiempo hacia arriba medio tiempo (entonces, los tiempos 2 y 3.5).
 
@@ -69,6 +69,7 @@ La mayoría de la música funciona en grupos de 2 o 4. 4 tiempos por compás, 4 
 Es sabido que al tocar la línea de bajo con cualquier instrumento, puedes crear casi cualquier ritmo y tocar cualquier nota siempre y cuando toques el acento en cada compás en la tonalidad adecuada. Así de importante es el downbeat. Obviamente, no siempre es perfecto, pero al menos es aceptable.
 
 Las canciones que solo usan sliders en el acento están destinadas a ser aburridas, así que asegurate de improvisar tus ritmos.
+
 ## Parte 3: Overmapping
 
 Mi definición de [overmapping](/wiki/Beatmapping/Overmapping) es colocar una nota o el final de un slider donde no hay una nota en el fondo. Hay algunas razones para prácticar el overmapping:
