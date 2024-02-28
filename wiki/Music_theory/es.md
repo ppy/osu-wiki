@@ -6,7 +6,7 @@ osu! es, principalmente, un juego de música, y los beatmaps suelen ser creados 
 
 ## Parte 1: Desglose del compás de 4/4 y técnicas
 
-![Teoría musical](img/MusicTheory1-ES.png "Music Theory")
+![Teoría musical](img/MusicTheory1-ES.png "Teoría musical")
 
 ### Acento, tiempo fuerte, tiempo principal
 
@@ -24,25 +24,25 @@ Aquí es donde el downbeat (usualmente) se omite o se «deja caer». Al omitir e
 
 ### Sliders en el acento
 
-![Sliders en el acento](img/On_Beat_Sliders.jpg "On Beat Sliders")
+![Sliders en el acento](img/On_Beat_Sliders.jpg "Sliders en el acento")
 
 Este es el patrón de sliders más común. Se juegan bien, son fáciles de predecir, y, en ocasiones, se sienten demasiado simples. Observa cómo el slider comienza en los tiempos 1 y 3, que son los acentos.
 
 ### Sliders a contratiempo
 
-![Sliders a contratiempo](img/Upbeat_sliders.jpg "Upbeat sliders")
+![Sliders a contratiempo](img/Upbeat_sliders.jpg "Sliders a contratiempo")
 
 Esto es lo que me gusta llamarlos. Los sliders que comienzan en el cuarto tiempo tienen un problema serio asociado a ellos: si es un slider de 1/1, terminará en el acento. Eso deja el acento sin destacar y puede resultar incómodo de jugar, especialmente cuando se repite.
 
-### Sliders offbeat
+### Sliders a destiempo
 
-![Sliders offbeat](img/Offbeat_sliders.jpg "Offbeat sliders")
+![Sliders a destiempo](img/Offbeat_sliders.jpg "Slider a destiempo")
 
 Así llamo a los sliders que empiezan en las marcas rojas. Son especialmente peligrosos porque normalmente te dejan sin un ritmo marcado. Intenta evitar repetirlos, debido a que sufren de las mismas particularidades que los sliders a contratiempo.
 
 ### Sliders inversos de 2 repeticiones o más
 
-![Sliders inversos de 2 repeticiones o más](img/2x+_Repeating_sliders.jpg "2x+ Repeating sliders")
+![Sliders inversos de 2 repeticiones o más](img/2x+_Repeating_sliders.jpg "Sliders inversos de 2 repeticiones o más")
 
 Los sliders inversos pueden ser muy interesantes, pero normalmente se tiende a añadir multiples repeticiones. Considero a los sliders inversos con más de una repetición confusos, porque normalmente la cuarta repetición no se muestra hasta que has golpeado el slider en si mismo. Los sliders cortos y los largos no tienen este problema porque los sliders cortos se pueden predecir con facilidad, y los sliders largos te dan suficiente tiempo para reaccionar. Hay muy pocas instancias donde un slider inverso de 2 repeticiones funciona mejor que 2 sliders normales o 4 circulos.
 
@@ -50,19 +50,19 @@ Una obvia excepción es en los streams largos donde un slider inverso es usado p
 
 ### Patrones de sliders
 
-![Patrones de sliders](img/Slider_patterns.jpg "Slider patterns")
+![Patrones de sliders](img/Slider_patterns.jpg "Patrones de sliders")
 
 Alternar círculo, slider, círculo, slider es una forma ingeniosa para el mapping de ritmos de blancas punteadas (es decir, ritmos de 1 y 1/2), porque pone el énfasis en el slider, que suele ser la nota acentuada. Personalmente, me encantan estos ritmos y los prefiero sobre los sliders inversos de una repetición. También puedes hacer círculo, círculo, slider, círculo, slider, slider, etc. Es tan simple como mezclar un ritmo recto de 1/1 o 1/2 acentuando ciertas notas usando sliders en diferentes lugares. 
 
 ### Sliders cortos vs sliders largos
 
-![Sliders cortos vs sliders largos](img/Short_Sliders_vs_Long_sliders.jpg "Short Sliders vs Long sliders")
+![Sliders cortos vs sliders largos](img/Short_Sliders_vs_Long_sliders.jpg "Sliders cortos vs sliders largos")
 
 Los sliders en osu! se asemejan a una nota sostenida en la música, ya que los spinners rara vez se utilizan y los círculos no tienen duración. En este ejemplo, puedes ver cómo los sliders cortos colocan la nota que el jugador debe golpear en un ritmo de 1/4. Esto no solo es poco intuitivo, ya que no hay nada que golpear entre sliders, sino que si usas sliders largos en su lugar, sonarán igual, golpearán en el tiempo y probablemente seguirán mejor la música. En general, los sliders cortos son una mala idea. Lo contrario ocurre con los sliders muy largos, pero generalmente solo porque terminan pasando por partes importantes de la canción o simplemente son aburridos. Hay muchas excepciones, especialmente si el ritmo se repite y se necesita alguna variación en el beatmap. 
 
 ### La cosa más importante a recordar
 
-![Importante teoría musical](img/Music_Theory_Important.jpg "Music Theory Important")
+![Importante teoría musical](img/Music_Theory_Important.jpg "Importante teoría musical")
 
 La mayoría de la música funciona en grupos de 2 o 4. 4 tiempos por compás, 4 medidas por frase, etc. Mientras coloques un slider al inicio o un círculo en el acento (marca blanca larga) y a veces en medio de la frase, puedes poner cualquier cantidad de sliders a contratiempo o fuera de ritmo con patrones de sliders locos, sliders muy cortos estúpidos y streams ridículos en el mapa, incluso si no encajan con la canción. Es en serio. Obviamente, no se recomienda totalmente, ya que entonces podrías tomar cualquier canción con el mismo BPM y estructura de canción, copiar y pegarla y obtener el mismo mapa de baja calidad. También es importante mapear junto a la música, pero la mayoría de la música simplemente se repite una y otra vez, así que es bueno incluir algo diferente de vez en cuando.
 
