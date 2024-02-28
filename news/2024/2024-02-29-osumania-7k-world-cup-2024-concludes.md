@@ -52,7 +52,7 @@ This is a compilation of all highlighted matches from this year's World Cup, all
 | :-- | :-- | :-- |
 | ::{ flag=BR }:: Brazil vs. ::{ flag=PT }:: Portugal | Round of 24 | [Text summary](https://osu.ppy.sh/home/news/2024-01-26-osumania-7k-world-cup-2024-round-of-24-recap#brazil-vs.--portugal), [VOD](https://www.twitch.tv/videos/2038389122) |
 | ::{ flag=NL }:: Netherlands vs. ::{ flag=TW }:: Taiwan | Round of 24 | [Text summary](https://osu.ppy.sh/home/news/2024-01-26-osumania-7k-world-cup-2024-round-of-24-recap#netherlands-vs.--taiwan), [VOD](https://www.twitch.tv/videos/2039351530) |
-| ::{ flag=RU }:: Russian Federation vs. ::{ flag=DK }:: Denmark | Round of 24 | [Text summary](russian-federation-vs.--denmark), [VOD](https://www.twitch.tv/videos/2039423606) |
+| ::{ flag=RU }:: Russian Federation vs. ::{ flag=DK }:: Denmark | Round of 24 | [Text summary](https://osu.ppy.sh/home/news/2024-01-26-osumania-7k-world-cup-2024-round-of-24-recap#russian-federation-vs.--denmark), [VOD](https://www.twitch.tv/videos/2039423606) |
 | ::{ flag=GB }:: United Kingdom vs. ::{ flag=DE }:: Germany | Round of 24 | [Text summary](https://osu.ppy.sh/home/news/2024-01-26-osumania-7k-world-cup-2024-round-of-24-recap#united-kingdom-vs.--germany), [VOD](https://www.twitch.tv/videos/2039449910) |
 | ::{ flag=JP }:: Japan vs. ::{ flag=PL }:: Poland | Round of 16 | [Text summary](https://osu.ppy.sh/home/news/2024-02-02-osumania-7k-world-cup-2024-round-of-16-recap#japan-vs.-poland), [VOD](https://www.twitch.tv/videos/2045221189) |
 | ::{ flag=AU }:: Australia vs. ::{ flag=BR }:: Brazil | Round of 16 | [Text summary](https://osu.ppy.sh/home/news/2024-02-02-osumania-7k-world-cup-2024-round-of-16-recap#australia-vs.--brazil), [VOD](https://www.twitch.tv/videos/2045785716) |
