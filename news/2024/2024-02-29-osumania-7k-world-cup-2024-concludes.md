@@ -190,7 +190,7 @@ Born and raised in osu!mania, **yz1155** has climbed through the ranks and is no
 
 *Were there any aspirations or goals that you've set for yourself for the World Cup that you are able to look back upon?*
 
-> Tournaments like MWC7K, SOL, and ETT like fan signing events with huge star players for me. I don't mind the result of the tournament, because I always enjoy everything. As a VSRG fan, meeting superstars in tournaments is already a huge level of enjoyment. So, my goal is to always have some fun and do my best.
+> Tournaments like MWC7K, SOL, and ETT are like fan signing events with huge star players for me. I don't mind the result of the tournament, because I always enjoy everything. As a VSRG fan, meeting superstars in tournaments is already a huge level of enjoyment. So, my goal is to always have some fun and do my best.
 
 *Do you have anything you want to let the readers know?*
 
@@ -208,11 +208,11 @@ Born and raised in osu!mania, **yz1155** has climbed through the ranks and is no
 
 *What were your favourite charts in the pool, if there are any? Are there any favourites among the ones you worked on?*
 
-> The most obvious one is [Evening](https://osu.ppy.sh/users/2193881)'s chart of [rosso](https://osu.ppy.sh/beatmapsets/2134144), the tiebreaker for the Finals round. He spent four months working it. It is hardly recognizable now compared to what it was a few months ago. The reception to it was equally crazy as well, and it also produced [one of the best endings to a match](https://www.twitch.tv/videos/2066497602?t=1h5m19s) I've ever seen.
+> The most obvious one is [Evening](https://osu.ppy.sh/users/2193881)'s chart of [rosso](https://osu.ppy.sh/beatmapsets/2134144), the tiebreaker for the Finals round. He spent four months working on it. It is hardly recognizable now compared to what it was a few months ago. The reception to it was equally crazy as well, and it also produced [one of the best endings to a match](https://www.twitch.tv/videos/2066497602?t=1h5m19s) I've ever seen.
 > 
 > I thought [zeno](https://osu.ppy.sh/users/6576888)'s [Hi Genjitsu Tohi](https://osu.ppy.sh/beatmapsets/1885701#mania/4490678) (Finals LN2) was neat as well. It is a lot closer to traditional *O2Jam* patterns than people have previously seen in the tournament. The people asked for shields after 2023, and that is what they got.
 > 
-> [_Yiiiii](https://osu.ppy.sh/users/6066359)'s round of 24 tiebreaker, [Majestic 12](https://osu.ppy.sh/beatmapsets/2119554#mania/4452392), was cool as well. I think it was very well balanced, and the chart is just fun to play. It also introduced me to this banger of a song, so thanks for that! It was interesting seeing people's reactions to various players missing on the seemingly easy breaks in the match, though. A lot of people who don't play 7K osu!mania thought people were missing on easy parts for no reason. If only they knew…
+> [_Yiiiii](https://osu.ppy.sh/users/6066359)'s Round of 24 tiebreaker, [Majestic 12](https://osu.ppy.sh/beatmapsets/2119554#mania/4452392), was cool as well. I think it was very well-balanced, and the chart is just fun to play. It also introduced me to this banger of a song, so thanks for that! It was interesting seeing people's reactions to various players missing on the seemingly easy breaks in the match, though. A lot of people who don't play 7K osu!mania thought people were missing on easy parts for no reason. If only they knew…
 
 *Any messages you want to impart to the team? Or to anyone who wants to become part of any tournament's map selection team?*
 
