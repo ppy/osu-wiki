@@ -196,7 +196,7 @@ Born and raised in osu!mania, **yz1155** has climbed through the ranks and is no
 > 
 > I thought [zeno](https://osu.ppy.sh/users/6576888)'s [Hi Genjitsu Tohi](https://osu.ppy.sh/beatmapsets/1885701#mania/4490678) (Finals LN2) was neat as well. It is a lot closer to traditional *O2Jam* patterns than people have previously seen in the tournament. The people asked for shields after 2023, and that is what they got.
 > 
-> [_Yiiii](https://osu.ppy.sh/users/6066359)'s round of 24 tiebreaker, [Majestic 12](https://osu.ppy.sh/beatmapsets/2119554#mania/4452392), was cool as well. I think it was very well balanced, and the chart is just fun to play. It also introduced me to this banger of a song, so thanks for that! It was interesting seeing people's reactions to various players missing on the seemingly easy breaks in the match, though. A lot of people who don't play 7K osu!mania thought people were missing on easy parts for no reason. If only they knew…
+> [_Yiiiii](https://osu.ppy.sh/users/6066359)'s round of 24 tiebreaker, [Majestic 12](https://osu.ppy.sh/beatmapsets/2119554#mania/4452392), was cool as well. I think it was very well balanced, and the chart is just fun to play. It also introduced me to this banger of a song, so thanks for that! It was interesting seeing people's reactions to various players missing on the seemingly easy breaks in the match, though. A lot of people who don't play 7K osu!mania thought people were missing on easy parts for no reason. If only they knew…
 
 *Any messages you want to impart to the team? Or to anyone who wants to become part of any tournament's map selection team?*
 
