@@ -13,15 +13,16 @@ tags:
 
 [L'équipe d'osu!](/wiki/People/osu!_team) gère un programme dans le cadre duquel elle peut choisir de fournir un support supplémentaire aux tournois organisés par la communauté qui respectent un certain nombre de critères et d'attentes, à sa discrétion.
 
-Cet article a été mis à jour pour la dernière fois le 13 septembre 2023. Pour toute question ou clarification, veuillez consulter le salon `#tournaments` sur le [serveur Discord d'osu!](https://discord.com/invite/ppy) ou envoyer un courriel à [l'équipe d'assistance aux comptes](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+Cet article a été mis à jour pour la dernière fois le 18 janvier 2024. Pour toute question ou clarification, veuillez consulter le salon `#tournaments` sur le [serveur Discord d'osu!](https://discord.com/invite/ppy) ou envoyer un courriel à [l'équipe d'assistance aux comptes](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Avantages
 
 Les tournois bénéficiant d'un support officielle ont accès à :
 
-- Un [processus de filtration](#contrôle-du-tournoi) pour empêcher les utilisateurs ayant commis de graves infractions (tricherie, multicomptes, interdictions de tournoi) de jouer.
-- [Des récompenses sous forme de badges de profil](#badges-de-profil) pour les gagnants de la première place.
-- La prise en compte potentielle d'une [bannière publicitaire dans le menu principal](#demande-de-soutien-pour-les-bannières-en-jeu-et-les-messages-d'information) lors des grands matchs.
+- Un [processus de screening](#contrôle-du-tournoi) pour empêcher les utilisateurs ayant commis de graves infractions (tricherie, multicomptes, bannissements de tournoi) de jouer.
+- [Des récompenses sous forme de badges de profil](#badges-de-profil) pour les vainqueurs du tournoi.
+- La possibilité d'envisager une [bannière publicitaire dans le menu principal](#demande-de-soutien-pour-les-bannières-en-jeu-et-les-messages-d'information) lors des grands matchs.
+- Possibilité d'envisager un [article de news](#demande-de-soutien-pour-les-bannières-en-jeu-et-les-messages-d'information), un message annonçant les inscriptions et un autre résumant les résultats finaux.
 
 ## Éligibilité
 
@@ -54,9 +55,7 @@ Si votre tournoi répond aux [critères d'éligibilité](#éligibilité), vous p
     - Pour les tournois régionaux, le fil de discussion peut être créé dans le sous-forum de la langue appropriée.
   - Les serveurs publics Discord ou tout autre espace de discussion hors site utilisé pour l'événement.
   - Les itérations précédentes de la même série de tournois (uniquement si applicable).
-- Une listes séparées pour :
-  - Le personnel impliqué dans l'organisation du tournoi.
-  - Les utilisateurs qui se sont inscrits pour participer au tournoi (voir [contrôle du tournoi](#contrôle-du-tournoi)).
+- Une liste des utilisateurs qui se sont inscrits pour participer au tournoi (voir [contrôle du tournoi](#contrôle-du-tournoi)), en tant que pièce jointe séparée.
 
 Une fois que nous aurons reçu votre demande, l'équipe d'assistance aux comptes vous renverra une liste des utilisateurs qui ne sont pas autorisés à participer aux tournois. Veuillez prévoir suffisamment de temps pour une réponse. Nous ferons de notre mieux pour traiter toutes les demandes dans un délai d'une semaine, mais il nous arrive parfois d'avoir une charge de travail importante qui rend la chose impossible.
 
@@ -118,6 +117,8 @@ Les utilisateurs faisant l'objet d'une interdiction de tournoi active sont tenus
 
 À la discrétion de l'équipe d'assistance, les membres du personnel dont le comportement a directement entraîné la perte du soutien officiel d'un tournoi ne peuvent pas jouer le même rôle dans un autre tournoi avec un badge en récompense, ni en être l'hôte ou l'administrateur, pendant au moins 4 mois. Si ce délai est appliqué à un utilisateur, celui-ci en sera informé directement par l'intermédiaire de [l'équipe du tournoi](mailto:tournaments@ppy.sh).
 
+Une liste de tous les membres du staff du tournoi doit être publiquement visible dans un endroit facilement accessible. Cette liste peut être contenue dans un message du forum, sur le site web ou dans une feuille de calcul.
+
 ### Joueurs
 
 Les participants aux tournois officiellement soutenus sont tenus de respecter les [règles de la communauté d'osu!](/wiki/Rules) à tout moment, quels que soient leur rang, leurs accomplissements ou autres réalisations. Ils doivent également traiter avec respect tous les bénévoles impliqués dans l'organisation d'un tournoi, et ne pas tenter délibérément de leur faire perdre du temps ou de compliquer excessivement l'organisation d'un tournoi par leurs actions.
@@ -168,10 +169,13 @@ Les images des badges de profil doivent respecter les spécifications suivantes 
 - Le logo, le motif ou le nom de votre tournoi doit y figurer clairement.
 - Il doit être conçu de manière propre et d'une qualité visuelle raisonnable.
 - Il ne doit pas comporter de parrainage ni promouvoir quoi que ce soit d'autre que le tournoi.
+- Tous les éléments doivent être spécifiquement créés pour le tournoi et respecter les [directives d'utilisation du contenu](/wiki/Rules/Content_usage_permissions).
+  - Cela n'inclut pas les éléments à source ouverte ou à usage public (par exemple, les polices de caractères, les icônes, etc.).
+  - Si des éléments qui n'entrent pas dans la catégorie ci-dessus sont utilisés dans un dessin ou modèle, l'approbation explicite de l'artiste original doit être fournie avant l'approbation.
 
 Veuillez consulter les exemples suivants de modèles de badges approuvés :
 
-![](https://assets.ppy.sh/profile-badges/ysc4-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/perennial-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/timeskip-2021@2x.png)
+![](https://assets.ppy.sh/profile-badges/ysc4-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/perennial-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/TATHC2023@2x.png)
 
 Les images de badges qui ne répondent pas à ces normes seront refusées avec une justification donnée et, dans certains cas, il pourra vous être demandé de revoir complètement la conception de votre badge. Cette situation est assez rare, mais il est important d'en tenir compte.
 

@@ -26,7 +26,7 @@ The **osu! World Cup 2023** (***OWC 2023***) was a country-based osu! tournament
 
 ## Prizes
 
-The osu! World Cup 2023 offered a $5,000 cash prize pool and limited-edition merch.
+The osu! World Cup 2023 offered a $10,000 cash prize pool and limited-edition merch.
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -656,7 +656,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
    - The loser of the `!roll` decides which team **bans** first.
    - **From Quarterfinals onwards, the first team will ban one beatmap, followed by two bans from second team, finishing with one ban from the first team.**
 4. After bans are decided, both teams will take turns in picking a beatmap from the mappool.
-5. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than alloted for either action, the procedures adopted will be as follows:
+5. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than allotted for either action, the procedures adopted will be as follows:
    - For the first occurrence:
      - The team will receive a verbal warning from the referee; in addition, the referee may opt to forcefully use the team's tactical timeout to allow for the team to pick.
      - If the team does not pick a map within 15 seconds from when the timer expires, the referee will apply the procedure for subsequent occurrences listed below, i.e. a random pick will be used for a pick timer, and the match will be forcefully started for a ready timer.

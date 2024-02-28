@@ -1,12 +1,11 @@
 ---
 no_native_review: true
-outdated_since: 19979c9243ed12b55105ba13229f63a23e3e0f70
-outdated_translation: true
 ---
 
 # Critères de classement
 
-*Pour les critères de classement spécifiques aux [modes de jeu](/wiki/Game_mode), voir : [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), et [osu!mania](osu!mania).*
+*Pour les critères de classement spécifiques aux [modes de jeu](/wiki/Game_mode), voir : [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), et [osu!mania](osu!mania).*\
+*Pour une version simplifiée des critères de classement, voir : [Critères de classement simplifiés](Simplified_ranking_criteria)*
 
 Cet ensemble de **critères de classement** définit les [règles et directives](#termes-courants) que les [beatmaps](/wiki/Beatmap) doivent suivre pour progresser dans la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure).
 
@@ -56,7 +55,7 @@ Il est important de prendre en compte cela avant d'utiliser ces logiciels :
 
 ## Beatmap
 
-*Remarque : dans cette section, les key counts du mode [osu!mania](/wiki/Game_mode/osu!mania) sont considérés comme des modes de jeu individuels.*
+*Remarque : Chaque [key moode](osu!mania#termes-courants) et [style de jeu](osu!mania#termes-courants) [d'osu!mania](/wiki/Game_mode/osu!mania) est considéré comme un mode de jeu distinct dans cette section.*
 
 ### Règles
 

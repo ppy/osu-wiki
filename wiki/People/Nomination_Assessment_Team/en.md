@@ -59,13 +59,13 @@ The team leaders will confront inactive NAT members, or members who fail to prov
 
 ## Benefits
 
-**See also: [Departure from the NAT](#departure-from-the-nat)**
+*See also: [Departure from the NAT](#departure-from-the-nat)*
 
 NAT members are granted the following benefits:
 
 - **[osu!supporter](/wiki/osu!supporter)**: An osu!supporter tag that lasts for the duration of their team membership.
 - **Tenure badge**: A [profile badge](/wiki/Community/Profile_badge) that displays the number of years they have been in the NAT.
-  ![1 year NAT badge](https://assets.ppy.sh/profile-badges/QAT1y.png "1 year NAT badge") ![2 year NAT badge](https://assets.ppy.sh/profile-badges/QAT2y.jpg "2 year NAT badge") ![3 year NAT badge](https://assets.ppy.sh/profile-badges/QAT3y.jpg "3 year NAT badge") ![4 year NAT badge](https://assets.ppy.sh/profile-badges/QAT4y.jpg "4 year NAT badge") ![5 year NAT badge](https://assets.ppy.sh/profile-badges/QAT5y.jpg "5 year NAT badge")
+  ![1 year NAT badge](https://assets.ppy.sh/profile-badges/NAT1y.png "1 year NAT badge") ![2 year NAT badge](https://assets.ppy.sh/profile-badges/NAT2y.png "2 year NAT badge") ![3 year NAT badge](https://assets.ppy.sh/profile-badges/NAT3y.png "3 year NAT badge") ![4 year NAT badge](https://assets.ppy.sh/profile-badges/NAT4y.png "4 year NAT badge") ![5 year NAT badge](https://assets.ppy.sh/profile-badges/NAT5y.png "5 year NAT badge") ![6 year NAT badge](https://assets.ppy.sh/profile-badges/NAT6y.png "6 year NAT badge") ![7 year NAT badge](https://assets.ppy.sh/profile-badges/NAT7y.png "7 year NAT badge") ![8 year NAT badge](https://assets.ppy.sh/profile-badges/NAT8y.png "8 year NAT badge") ![9 year NAT badge](https://assets.ppy.sh/profile-badges/NAT9y.png "9 year NAT badge") ![10 year NAT badge](https://assets.ppy.sh/profile-badges/NAT10y.png "10 year NAT badge")
 - **[Nomination](/wiki/Beatmap_ranking_procedure#nominations) count badge**: A profile badge awarded when reaching certain nomination count milestones.
   ![200 nominations badge](https://assets.ppy.sh/profile-badges/noms200.png?2023 "200 nominations badge") ![400 nominations badge](https://assets.ppy.sh/profile-badges/noms400.png?2023 "400 nominations badge") ![600 nominations badge](https://assets.ppy.sh/profile-badges/noms600.png?2023 "600 nominations badge") ![800 nominations badge](https://assets.ppy.sh/profile-badges/noms800.png?2023 "800 nominations badge") ![1000 nominations badge](https://assets.ppy.sh/profile-badges/noms1000.png?2023 "1000 nominations badge")
 - **[Elite Nominator](/wiki/People/Elite_Nominators) eligibility**: NAT members who exceptionally perform as nominators are eligible to be awarded the yearly Elite Nominator status.
@@ -96,19 +96,20 @@ Former NAT members who currently have internal access are:
 
 - ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083)
 - ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342)
+- ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
+- ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926)
 
 ## NAT Leadership
 
-As of March 2023, the NAT has decided to re-adopt the concept of leadership, which was [previously used](/wiki/People/Quality_Assurance_Team/QAT_Leaders) in the [QAT](/wiki/People/Quality_Assurance_Team). NAT leaders have the combined responsibility of both evaluation and structural categories so they can watch over and stay involved with every aspect of the NAT.
+As of March 2023, the NAT has decided to re-adopt the concept of leadership, which was [previously used](/wiki/People/Quality_Assurance_Team/QAT_Leaders) in the [QAT](/wiki/People/Quality_Assurance_Team). The NAT leader has the combined responsibility of both evaluation and structural categories so they can watch over and stay involved with every aspect of the NAT.
 
-The current NAT leaders are:
+The current NAT leader is:
 
 - ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
-- ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
 
 ### Responsibilities
 
-NAT leaders aim to cover the following tasks:
+The NAT leader aims to cover the following tasks:
 
 - **Activity management:** Constantly monitoring the activity of other NAT members and handling cases of low activity, either through regular checkups or through exit interviews, in case of activity issues regarding certain members.
 - **Communication:**
@@ -131,25 +132,26 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 
 | Name | Additional languages |
 | :-- | :-- |
+| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Russian |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonese, Chinese |
-| ::{ flag=GB }:: [ckharv](https://osu.ppy.sh/users/9967026) |  |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portuguese |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portuguese, Spanish |
 | ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Dutch |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | German |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Chinese |
 | ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581) | Korean |
 | ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Cantonese, Chinese |
+| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Chinese, Cantonese |
 | ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Chinese |
 | ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | Spanish, French |
-| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Dutch |
 
 #### osu!taiko
 
 | Name | Additional languages |
 | :-- | :-- |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Arabic, French, some Italian |
+| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  |
+| ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | Chinese |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Arabic, French |
 | ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Portuguese |
 | ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | German, some French |
 
@@ -169,7 +171,7 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamese |
 | ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | Chinese |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesian |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Spanish, Catalan |
+| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Catalan, Spanish |
 | ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | Danish |
 
 ### Structural
@@ -181,7 +183,6 @@ The following NAT members are exclusively responsible for structural tasks, and 
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Handling internal discussions, affairs, and documentation |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | [Aiess](https://github.com/Naxesss/Aiess) and [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) maintenance |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [BN Management website](https://bn.mappersguild.com) development |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | NAT leadership |
 
 The following NAT members are primarily evaluators, but also contribute to structural tasks:
 
@@ -195,7 +196,6 @@ The following NAT members are primarily evaluators, but also contribute to struc
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | BN events organisation |
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | [osu!mania MV plugin](https://github.com/MChecaH/ManiaCheck) development |
 | ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | [osu!mania MV plugin](https://github.com/MChecaH/ManiaCheck) development |
-| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Handling user reports |
 
 ---
 

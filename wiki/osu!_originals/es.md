@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: c77da74a8b247bb81d6642c7ecb008b9f06e65c9
+---
+
 # osu! originals
 
 Los **osu! originals** son canciones que se hicieron específicamente para (o estrenadas por primera vez en) osu! u otros eventos relacionados con osu!, como torneos, concursos y anuncios de [artistas destacados](/wiki/People/Featured_Artists). Si bien no todos los osu! originals tienen licencia oficial y están incluidos en la [biblioteca de artistas destacados](https://osu.ppy.sh/beatmaps/artists), las canciones que sí lo tienen se distinguen comúnmente por la etiqueta `ORIGINAL` en las páginas de sus respectivos artistas.
@@ -231,9 +236,15 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | :-: | :-: | :-- |
 | [Halv vs. kuro - Evreka](https://soundcloud.com/halvsan/halv-vs-kuro-evreka)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2011570) | Desempate de la gran final |
 | [kanemiko - Cold Fusion](https://soundcloud.com/kanemiko/cold-fusion)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2011522) | Gran final NM1 |
-| [LV.4 - Chemical diving](https://osu.ppy.sh/beatmaps/artists/tracks?artist=LV.4&query=Chemical%20diving)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2007952) | Final HR1 |
+| [LV.4 - Chemical diving](https://osu.ppy.sh/beatmaps/artists/tracks?artist=LV.4&query=Chemical%20diving)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2026273) | Final HR1 |
 | [MYUKKE. - Anti Safety Zone](https://soundcloud.com/myukke/anti-safety-zone-from-osucatch-world-cup-2023)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2004086) | Semifinales HD3 |
 | [Toromaru - Erinyes](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Toromaru&query=Erinyes) | [#1](https://osu.ppy.sh/beatmapsets/2000438) | Cuartos de final HR3 |
+
+#### ![](/wiki/shared/mode/mania.png) [osu!mania 4K World Cup 2019](/wiki/Tournaments/MWC/2019_4K)
+
+| Canción | Beatmap | Notas |
+| :-: | :-: | :-- |
+| [Kurorak - BREACH PROTOCOL](https://kurorak.bandcamp.com/track/breach-protocol) | [#1](https://osu.ppy.sh/beatmapsets/1050571) | Final FM8 |
 
 #### ![](/wiki/shared/mode/mania.png) [osu!mania 4K World Cup 2021](/wiki/Tournaments/MWC/2021_4K)
 
