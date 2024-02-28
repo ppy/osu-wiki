@@ -199,7 +199,7 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | --: | :-: | :-- | :-: | :-- |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/7_7-nananana/feat-kasane-vavzes-7d "SoundCloud") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=7_7&query=%227D%22 "Featured Artist listing") | 7\_7 feat. kasane vavzed - 7D | [#1](https://osu.ppy.sh/beatmapsets/1980743) | Grand Finals NM3 |
 |  | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=A%3F&query=%22Umami%20Blaze%22 "Featured Artist listing") | Aquestion - Umami Blaze | [#1](https://osu.ppy.sh/beatmapsets/1976814) | Finals NM3 |
-|  | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=DJ%20Genki&query=%22Sigrdrifa%22 "Featured Artist listing") | Gram - Sigrdrifa | [#1](https://osu.ppy.sh/beatmapsets/1981053) | Grand Finals tiebreaker |
+| [YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=5xosUV8z22E "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://tanoc.bandcamp.com/track/sigrdrifa "Bandcamp") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=DJ%20Genki&query=%22Sigrdrifa%22 "Featured Artist listing") | Gram - Sigrdrifa | [#1](https://osu.ppy.sh/beatmapsets/1981053) | Grand Finals tiebreaker |
 |  | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=LV.4&query=%22Vortex%20of%20Sorrow%22 "Featured Artist listing") | LV.4 feat. Mawata Spica - Vortex of Sorrow | [#1](https://osu.ppy.sh/beatmapsets/1980701) | Grand Finals FM3 |
 |  | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Toromaru&query=%22Sleight%20of%20Hand%22 "Featured Artist listing") | Toromaru - Sleight of Hand | [#1](https://osu.ppy.sh/beatmapsets/1972518) | Semifinals NM2 |
 
@@ -314,6 +314,12 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | Links | FA | Song | Beatmap | Notes |
 | --: | :-: | :-- | :-: | :-- |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sydosys/vanish "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=aQVy8q8l3eI "YouTube") |  | Sydosys - VANISH[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2066413) | Grand Finals tiebreaker |
+
+#### ![](/wiki/shared/mode/osu.png) Badgeless Wanderers Showdown
+
+| Links | FA | Song | Beatmap | Notes |
+| --: | :-: | :-- | :-: | :-- |
+|  |  | cygnus - the out of infinity[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2141882) | Grand Finals DT2 |
 
 #### ![](/wiki/shared/mode/osu.png) Badly Wood Cup
 
@@ -540,7 +546,7 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | --: | :-: | :-- | :-: | :-- |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/samstring/numa "SoundCloud") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=SAMString&query=%22NUMA%22 "Featured Artist listing") | SAMString - NUMA | [#1](https://osu.ppy.sh/beatmapsets/1570528) | Grand Finals tiebreaker |
 
-#### ![](/wiki/shared/mode/osu.png) osu! Indonesia Tournament #13 (2023)
+#### ![](/wiki/shared/mode/osu.png) [osu! Indonesia Tournament #13 (2023)](/wiki/Tournaments/OIT/2023)
 
 | Links | FA | Song | Beatmap | Notes |
 | --: | :-: | :-- | :-: | :-- |
