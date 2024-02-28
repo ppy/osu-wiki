@@ -72,7 +72,7 @@ Need more information regarding any of these matches? Check out the [wiki page](
     }
 </style>
 
-The osu! team continues to work and expand the [Featured Artists programme](https://osu.ppy.sh/wiki/en/People/Featured_Artists), and as part of that a lot of music gets to be made specifically for the World Cups, which are referred to as [osu! originals](https://osu.ppy.sh/wiki/en/osu%21_originals). This year's MWC7K boasts **7** new tracks accompanied by original artwork used as beatmap backgrounds.
+The osu! team continues to work and expand the [Featured Artists programme](/wiki/People/Featured_Artists), and as part of that a lot of music gets to be made specifically for the World Cups, which are referred to as [osu! originals](/wiki/osu%21_originals). This year's MWC7K boasts **7** new tracks accompanied by original artwork used as beatmap backgrounds.
 
 If you want to check all of them out, you can do so right down below!
 
