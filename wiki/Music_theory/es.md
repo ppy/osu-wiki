@@ -2,7 +2,7 @@
 
 *[Guía originak por ziin](https://osu.ppy.sh/community/forums/topics/58959)*
 
-osu!, principalmente, es un juego de música, y los beatmaps suelen ser creados con la idea de ajustarse a la música, en lugar de adaptarse a un cierto BPM. En este breve ensayo trataré la teoría musical en cuanto concierne a un beatmap en osu!, además de explicar por qué ciertas cosas suenan mal (al menos para mí). De ninguna manera se deben considerar estos asuntos como «pautas». Más bien, trátalos como teoría. La mayoría de las veces se aplicarán a algunas partes de las canciones, pero hay muchas excepciones. Todo lo que digo aquí es una opinión personal basada en más de 12 años de experiencia en bandas sinfónicas o tomada directamente de Wikipedia. No se puede aplicar a todas las formas de música, especialmente a cosas de vanguardia y a la mayoría de la música de Touhou (¿así que, la mitad de osu?)
+osu! es, principalmente, un juego de música, y los beatmaps suelen ser creados con la idea de ajustarse a la música, en lugar de adaptarse a un cierto BPM. En este breve ensayo trataré la teoría musical en cuanto concierne a un beatmap en osu!, además de explicar por qué ciertas cosas suenan mal (al menos para mí). De ninguna manera se deben considerar estos asuntos como «pautas». Más bien, trátalos como teoría. La mayoría de las veces se aplicarán a algunas partes de las canciones, pero hay muchas excepciones. Todo lo que digo aquí es una opinión personal basada en más de 12 años de experiencia en bandas sinfónicas o tomada directamente de Wikipedia. No se puede aplicar a todas las formas de música, especialmente a cosas de vanguardia y a la mayoría de la música de Touhou (¿así que, la mitad de osu?)
 
 ## Parte 1: Desglose del compás de 4/4 y técnicas
 
@@ -14,11 +14,11 @@ El acento es el impulso que ocurre al principio de un compás en la música medi
 
 ### Contratiempo, tiempo débil o tiempo desplazado
 
-Un contratiempo, en inglés «upbeat», es una acentuación sincopada en el pulso desplazado. En un ritmo simple de 4/4, estos son los tiempos 2 y 4... En la música popular actual, generalmente se utiliza el tambor de caja para tocar el patrón de contratiempo. Por eso, poner palmadas en los tiempos 2 y 4 suena bien. La mayoría de la música contemporánea utiliza un contratiempo de caja. Algunas canciones añadirán un bombo al contratiempo moviendo el segundo tiempo hacia arriba medio tiempo (entonces, los tiempos 2 y 3.5).
+Un contratiempo, en inglés «upbeat», es una acentuación sincopada en el pulso desplazado. En un ritmo simple de 4/4, estos son los tiempos 2 y 4... En la música popular actual, generalmente se usa el tambor de caja para tocar el patrón de contratiempo. Por eso, poner palmadas en los tiempos 2 y 4 suena bien. La mayoría de la música contemporánea usa un contratiempo de caja. Algunas canciones añadirán un bombo al contratiempo moviendo el segundo tiempo hacia arriba medio tiempo (entonces, los tiempos 2 y 3,5).
 
 ### Dejar caer el ritmo
 
-Aquí es donde el downbeat (usualmente) se omite o se "deja caer". Al omitir el downbeat en una canción más rápida, generalmente se crea tensión. A menudo, solo un instrumento en particular dejará caer el ritmo, mientras que los demás tocan normalmente. Dejar caer el ritmo puede ser una forma interesante de crear un ritmo, pero no debería usarse en exceso. Otra forma de simular esto es mediante el uso de sliders en el upbeat o el offbeat.
+Aquí es donde el downbeat (usualmente) se omite o se «deja caer». Al omitir el acento en una canción más rápida, generalmente se crea tensión. A menudo, solo un instrumento en particular dejará caer el ritmo, mientras que los demás tocan normalmente. Dejar caer el ritmo puede ser una forma interesante de crear un ritmo, pero no debería usarse en exceso. Otra forma de simular esto es mediante el uso de sliders en el contratiempo o a destiempo.
 
 ## Parte 2: Sliders
 
