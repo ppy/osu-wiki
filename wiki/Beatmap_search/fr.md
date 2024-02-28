@@ -122,6 +122,7 @@ unplayed= status=r christmas
 ```
 ranked>=2010-08 ranked<2010-11 creator=Natteke
 ```
+
 (Lazer) Trouvez les difficultés d'une beatmap qui ont été jouées il y a moins de 2 mois et 5 heures :
 
 ```
