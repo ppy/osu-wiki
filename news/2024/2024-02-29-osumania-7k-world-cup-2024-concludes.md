@@ -220,38 +220,6 @@ Born and raised in osu!mania, **yz1155** has climbed through the ranks and is no
 > 
 > For anyone who wants to become a part of the team, we look forward to seeing your application sometime in August or September. We especially need help from those who make LN charts, so feel free to apply at that point, and we'll see how we can fit you in if possible. I remember signing up for play testing in 2023, and it was the most fun playing this game I've ever had.
 
-[![](/wiki/shared/news/2024-02-29-osu-mania-7k-world-cup-2024-concludes/surfchu.png)](https://osu.ppy.sh/users/4469895)
-
-**SurfChu85** is another staff member who took it upon themselves to fill gaps in the team and provide unique commentary from the eyes of not only an experienced player, but also as someone in charge of crafting mappools for the players to compete on.
-
----
-
-*For this year's edition, what match got you fired up the most while commentating?*
-
-> There's quite a few matches that I was looking forward to casting, but the one that really became a highlight was China vs. Philippines. The match-up was not only historic, but it also had a big effect on how the tournament would end. I remember being so happy getting the match just because of it.
-> 
-> While the match did go as expected in its first half, and was on its way to finish early, I held on to the hope that something exciting would happen. Suddenly, you had one player grab that second wind and immediately shined. Not to mention, all the players were pulling off scores that can give anyone goosebumps. And don't get me started on the tiebreaker, oh my goodness.
-> 
-> I was already struggling holding my composure, I think [PotassiumF](https://osu.ppy.sh/users/4247722) as well. I just remember repeating "Don't do this to us!" on the background of [PotassiumF](https://osu.ppy.sh/users/4247722)'s storytelling. Yeah, it was worth the heart attack.
-
-*You're the only commentator who's also in the mappooling team. How does it feel, knowing the general reception of the maps from the team, and then commentating over the players' performances? Do you generally know what to expect?*
-
-> I think that the main benefit for me about knowing the pools weeks in advance is that it makes it easier for me to take notes of a certain chart's tendency to be tricky, or whatever adjective you can give it.
-> 
-> It doesn't really say that much about how matches will go with that knowledge as is. Though, I'd say that you can immediately tell what can happen just based on the players involved going into a match. Obviously, with how teams are built, you can immediately tell "Ah, this is a noodle team.", "Oh, they're most likely going to gun for the rice picks.". Even more so if there are players that are highly specialized in a specific skillset (think early-game LN Coordination), then you can immediately point that out even during the mappool showcase prior to the matches.
-> 
-> I'd say that a lot of the surprises really happen early on in the tournament since you have the "non-traditional" teams provide performances on par with the powerhouses. Heck, we even got some powerhouses get a scare. I'd say that with any tournament really — while a match can go a certain way on paper, don't be surprised if we get something special.
-
-*You joined the MWC 7K staff roster during its revival back in 2022. In comparison to previous editions, and throughout these last three years, did you like the shifts and changes happening within the tourney?*
-
-> The reason why I even got into tournaments in the first place was because of seeing and experiencing the hype of MWC 7K back in 2016. I've seen a lot of names come and go, not only from the players side, but also from the people running the show. I can't really say much about the time prior to 2022 mostly because I was an "outsider" at that point, but knowing from my staffing stints on osu!mania's biggest community tournaments at the time, I'm pretty sure that making things happen was never easy. Heck, knowing that I've had some of my own charts featured before I even joined the team was a surprise!
-> 
-> When I volunteered to take part as an early-game playtester for MWC 7K 2022, I knew at that point that the tournament itself is practically a mission — to revive a scene that went into inactivity. The team continued to grow as a unit, and I hope the rest of us do agree that we also made a solid group of friends along the way.
-> 
-> I also got the push to be part of the commentary team with the encouragement from all the selection team members at that point. I got to learn more about how 7K works in ways that just simply playing random charts from time to time would not teach. Not only that, but I think that valued growth was one of the biggest reasons why the 7K community is starting to thrive again. We see some big community-hosted 7K tourneys again. Lots of interest from single–key mode players to touch 7K as well.
-> 
-> I guess to sum up my thoughts, everything that happened over the past editions of MWC7K led to what I think is the key mode's biggest growth period since I started playing osu! ten years ago. I honestly can't wait for the improvements and adjustments that will be made leading up to 2025. Being part of the process is something I feel so honoured for, and I hope to be able to be there again.
-
 [![](/wiki/shared/news/2024-02-29-osu-mania-7k-world-cup-2024-concludes/akiri.png)](https://osu.ppy.sh/users/19587411)
 
 **Akiri** is first and foremost one of our own, a community member and osu!mania player. They had their World Cup debut with this year's Semifinals tiebreaker, but their music journey goes [so far beyond that](https://osu.ppy.sh/beatmaps/artists/401).
