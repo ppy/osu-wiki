@@ -66,6 +66,23 @@ Install and open Audacity, then follow these steps:
 
 [mp3DirectCut](https://mpesch3.de) is a free-to-use audio editing software that can directly edit MP3 files without re-encoding, often preventing loss of quality. It is recommended when needing to raise/lower the volume or crop the audio.
 
+### Lowering Bit Rate
+
+*Note: A 32-bit library file is needed to use this feature.*
+
+1. Open the `.mp3` file that you want to lower the bit rate on.
+2. Click `Settings` -> `Configuration`, or press `F11`.
+3. Go to the `Encoder` tab.
+4. Enable one of available encoding libraries.
+   - `System`: ACM encoding library
+   - `Lame`: The `Lame_enc.dll` file under the installation directory
+5. Change the minimum bitrate to `128 kbit/s`, and the maximum to `192 kbit/s`.
+6. Click `Close`.
+7. Press `Ctrl` + `W`, or click `File` -> `Save complete audio...`.
+8. Navigate to the location you want to save the file as.
+   - You could rename the file too.
+9. Click `Save`.
+
 ### Looping
 
 Install and open mp3DirectCut, then follow these steps:
