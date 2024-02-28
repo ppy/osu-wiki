@@ -10,7 +10,7 @@ osu! es principalmente un juego musical, y los beatmaps suelen crearse con la id
 
 ### Acento, tiempo fuerte, tiempo principal
 
-El acento es el impulso que ocurre al principio de un compás en la música medida. Su nombre en inglés, «downbeat», se deriva del golpe descendente del bastón del director o del conductor en el primer tiempo de cada compás. Frecuentemente es el tiempo más destacado del ciclo rítmico.
+El acento es el impulso que se produce al comienzo de un compás en la música medida. Su nombre en inglés, «downbeat», se deriva del golpe descendente del bastón del director o del conductor en el primer pulso de cada compás. Frecuentemente es el tiempo más destacado del ciclo rítmico.
 
 ### Contratiempo, tiempo débil o tiempo desplazado
 
