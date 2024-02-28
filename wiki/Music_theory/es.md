@@ -18,7 +18,7 @@ Un contratiempo, en inglés «upbeat», es una acentuación sincopada en el puls
 
 ### Dejar caer el ritmo
 
-Aquí es donde el downbeat (usualmente) se omite o se «deja caer». Al omitir el acento en una canción más rápida, generalmente se crea tensión. A menudo, solo un instrumento en particular dejará caer el ritmo, mientras que los demás tocan normalmente. Dejar caer el ritmo puede ser una forma interesante de crear un ritmo, pero no debería usarse en exceso. Otra forma de simular esto es mediante el uso de sliders en el contratiempo o a destiempo.
+Aquí es donde el acento (usualmente) se omite o se «deja caer». Al omitir el acento en una canción más rápida, generalmente se crea tensión. A menudo, solo un instrumento en particular dejará caer el ritmo, mientras que los demás tocan normalmente. Dejar caer el ritmo puede ser una forma interesante de crear un ritmo, pero no debería usarse en exceso. Otra forma de simular esto es mediante el uso de sliders en el contratiempo o a destiempo.
 
 ## Parte 2: Sliders
 
@@ -66,7 +66,7 @@ Los sliders en osu! se asemejan a una nota sostenida en la música, ya que los s
 
 La mayoría de la música funciona en grupos de 2 o 4. 4 tiempos por compás, 4 medidas por frase, etc. Mientras coloques un slider al inicio o un círculo en el acento (marca blanca larga) y a veces en medio de la frase, puedes poner cualquier cantidad de sliders a contratiempo o fuera de ritmo con patrones de sliders locos, sliders muy cortos estúpidos y streams ridículos en el mapa, incluso si no encajan con la canción. Es en serio. Obviamente, no se recomienda totalmente, ya que entonces podrías tomar cualquier canción con el mismo BPM y estructura de canción, copiar y pegarla y obtener el mismo mapa de baja calidad. También es importante mapear junto a la música, pero la mayoría de la música simplemente se repite una y otra vez, así que es bueno incluir algo diferente de vez en cuando.
 
-Es sabido que al tocar la línea de bajo con cualquier instrumento, puedes crear casi cualquier ritmo y tocar cualquier nota siempre y cuando toques el acento en cada compás en la tonalidad adecuada. Así de importante es el downbeat. Obviamente, no siempre es perfecto, pero al menos es aceptable.
+Es sabido que al tocar la línea de bajo con cualquier instrumento, puedes crear casi cualquier ritmo y tocar cualquier nota siempre y cuando toques el acento en cada compás en la tonalidad adecuada. Así de importante es el acento. Obviamente, no siempre es perfecto, pero al menos es aceptable.
 
 Las canciones que solo usan sliders en el acento están destinadas a ser aburridas, así que asegurate de improvisar tus ritmos.
 
