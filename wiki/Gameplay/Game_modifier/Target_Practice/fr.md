@@ -31,7 +31,7 @@ Le mod **Target Practice** est un [modificateur de jeu](/wiki/Gameplay/Game_modi
 
 Lorsque Target Practice est activé, osu! cache la barre de santé et le compteur de précision. Le joueur doit frapper les cibles qui apparaissent progressivement sur le [terrain de jeu](/wiki/Client/Playfield), avec l'intention d'atteindre leur centre. Pour maintenir un rythme stable, les joueurs peuvent suivre le métronome qui joue en arrière-plan.
 
-Le jeu continue jusqu'au premier [MISS](/wiki/Gameplay/Judgement/osu!), qui amène le joueur à [l'écran des résultats](/wiki/Client/Interface#results-screen). La signification des différents grades est similaire à celle de [osu!mania](/wiki/Gameplay/Grade#osu!mania).
+Le jeu continue jusqu'au premier [MISS](/wiki/Gameplay/Judgement/osu!), qui amène le joueur à [l'écran des résultats](/wiki/Client/Interface#écran-des-résultats). La signification des différents grades est similaire à celle de [osu!mania](/wiki/Gameplay/Grade#osu!mania).
 
 ## Cibles
 
