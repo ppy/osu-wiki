@@ -133,11 +133,11 @@ Finishing strong in 2023, AWMRone has set a prime example in the high-level osu!
 
 [![](/wiki/shared/news/2024-02-28-community-contributors-elite-nominators-2023/Furryswan.jpg)](https://osu.ppy.sh/users/9555243)
 
-Delivering to you, one of our longstanding osu!mania BNs, [Furryswan](https://osu.ppy.sh/users/9555243) is one of the few nomintators who have maintained consistent performance throughout their tenures while at the same time staying true to their passion of nominating a lot of technical and uncommon styles of 4K, featuring graces and niche patterning that are rare to see in Ranked nowadays. The breakthrough and novelty to achieve this has consistently been made for years, and it's finally time for him to be recognised for his contribution.
+Delivering to you, one of our longstanding osu!mania BNs, [Furryswan](https://osu.ppy.sh/users/9555243) is one of the few nominators who have maintained consistent performance throughout their tenures while at the same time staying true to their passion of nominating a lot of technical and uncommon styles of 4K, featuring graces and niche patterning that are rare to see in Ranked nowadays. The breakthrough and novelty to achieve this has consistently been made for years, and it's finally time for him to be recognised for his contribution.
 
 He has not only pushed sets that distinctly separate himself from the other BNs, but his modding quality and the amount of detail he puts into all of his mods shows his expertise in handling each map with the highest degree of quality. This doesn't happen often and can only be done through the sheer tenacity of learning and experiencing this unconventional skill for years.
 
-It's inspiring to see him thrive, and we hope that his achievement will also be a source of inspiration for the other BNs, signaling that diligence and perseverance do pay off when working for consistency and aiming to be the best.
+It's inspiring to see him thrive, and we hope that his achievement will also be a source of inspiration for the other BNs, signalling that diligence and perseverance do pay off when working for consistency and aiming to be the best.
 
 [![](/wiki/shared/news/2024-02-28-community-contributors-elite-nominators-2023/Protastic101.jpg)](https://osu.ppy.sh/users/6712747)
 
