@@ -46,7 +46,23 @@ text
 
 ## Match highlights
 
-most memorable matches
+This is a compilation of all highlighted matches from this year's World Cup, all of them guaranteed to keep you on the edge of your seat the entire way through! Whether you are interested in a short text summary, or want to watch the entire match, we've got you covered.
+
+| Match | Stage | Links |
+| :-- | :-- | :-- |
+| ::{ flag=BR }:: Brazil vs. ::{ flag=PT }:: Portugal | Round of 24 | [Text summary](https://osu.ppy.sh/home/news/2024-01-26-osumania-7k-world-cup-2024-round-of-24-recap#brazil-vs.--portugal), [VOD](https://www.twitch.tv/videos/2038389122) |
+| ::{ flag=NL }:: Netherlands vs. ::{ flag=TW }:: Taiwan | Round of 24 | [Text summary](https://osu.ppy.sh/home/news/2024-01-26-osumania-7k-world-cup-2024-round-of-24-recap#netherlands-vs.--taiwan), [VOD](https://www.twitch.tv/videos/2039351530) |
+| ::{ flag=RU }:: Russian Federation vs. ::{ flag=DK }:: Denmark | Round of 24 | [Text summary](russian-federation-vs.--denmark), [VOD](https://www.twitch.tv/videos/2039423606) |
+| ::{ flag=GB }:: United Kingdom vs. ::{ flag=DE }:: Germany | Round of 24 | [Text summary](https://osu.ppy.sh/home/news/2024-01-26-osumania-7k-world-cup-2024-round-of-24-recap#united-kingdom-vs.--germany), [VOD](https://www.twitch.tv/videos/2039449910) |
+| ::{ flag=JP }:: Japan vs. ::{ flag=PL }:: Poland | Round of 16 | [Text summary](https://osu.ppy.sh/home/news/2024-02-02-osumania-7k-world-cup-2024-round-of-16-recap#japan-vs.-poland), [VOD](https://www.twitch.tv/videos/2045221189) |
+| ::{ flag=AU }:: Australia vs. ::{ flag=BR }:: Brazil | Round of 16 | [Text summary](https://osu.ppy.sh/home/news/2024-02-02-osumania-7k-world-cup-2024-round-of-16-recap#australia-vs.--brazil), [VOD](https://www.twitch.tv/videos/2045785716) |
+| ::{ flag=CN }:: China vs. ::{ flag=CA }:: Canada | Quarterfinals | [Text summary](https://osu.ppy.sh/home/news/2024-02-09-osumania-7k-world-cup-2024-quarterfinals-recap#china-vs.--canada), [VOD](https://www.twitch.tv/videos/2051648293) |
+| ::{ flag=PH }:: Philippines vs. ::{ flag=JP }:: Japan | Quarterfinals | [Text summary](https://osu.ppy.sh/home/news/2024-02-09-osumania-7k-world-cup-2024-quarterfinals-recap#philippines-vs.--japan), [VOD](https://www.twitch.tv/videos/2052935687) |
+| ::{ flag=CN }:: China vs. ::{ flag=MY }:: Malaysia | Semifinals | [Text summary](https://osu.ppy.sh/home/news/2024-02-16-osumania-7k-world-cup-2024-semifinals-recap#china-vs.--malaysia), [VOD](https://www.twitch.tv/videos/2058868470) |
+| ::{ flag=JP }:: Japan vs. ::{ flag=AU }:: Australia | Semifinals | [Text summary](https://osu.ppy.sh/home/news/2024-02-16-osumania-7k-world-cup-2024-semifinals-recap#japan-vs.--australia), [VOD](https://www.twitch.tv/videos/2059665757) |
+| ::{ flag=CN }:: China vs. ::{ flag=PH }:: Philippines | Finals | [Text summary](https://osu.ppy.sh/home/news/2024-02-22-osumania-7k-world-cup-2024-finals-recap#china-vs.--philippines), [VOD](https://www.twitch.tv/videos/2066497602) |
+
+Need more information regarding any of these matches? Check out the [wiki page](/wiki/Tournaments/MWC/2024_7K)!
 
 ## osu! originals
 
