@@ -6,6 +6,8 @@ All osu! originals that have been licensed by the game are cleared for use in os
 
 ## List of osu! originals
 
+<!-- FOR TRANSLATORS: this section is automated and is not to be translated manually, even though this automation doesn't handle translations just yet. - Walavouchey -->
+
 ### osu! original soundtrack
 
 | Links | FA | Song | Notes |
