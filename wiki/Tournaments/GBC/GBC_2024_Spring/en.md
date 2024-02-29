@@ -8,18 +8,18 @@ tags:
 
 # GB Cup 2024 Spring
 
-The **GB Cup 2024 Spring** (***GBC 2024 Spring***) was an osu!mania 4K point-based weekly group tournament hosted by Team GB. It was the fifth instalment of the GB Cup.
+The **GB Cup 2024 Spring** (***GBC 2024 Spring***) is an osu!mania 4K point-based weekly group tournament hosted by Team GB. It is the fifth instalment of the GB Cup.
 
 ## Tournament schedule
 
 | Event | Timestamp (UTC+08) |
 | --: | :-- |
-| Registration phase | 2024-03-03/2024-03-17 (23:59 UTC+08) |
+| Registration phase | 2024-03-03/2024-03-17 (23:59) |
 | Regular stage 1 | 2024-03-23/2024-03-31 |
 | Regular stage 2 | 2024-04-06/2024-04-14 |
 | Regular stage 3 | 2024-04-20/2024-04-28 |
 | Regular stage 4 | 2024-05-04/2024-05-12 |
-| Regular match result showcase | 2024-05-13 (20:00 UTC+08) |
+| Regular match results showcase | 2024-05-13 (20:00) |
 | Playoff stage week 1 | 2024-05-18/2024-05-19 |
 | Playoff stage week 2 | 2024-05-25/2024-05-26 |
 | Playoff stage Finals | 2024-06-01/2024-06-02 |
@@ -42,7 +42,7 @@ The **GB Cup 2024 Spring** (***GBC 2024 Spring***) was an osu!mania 4K point-bas
 
 ## Organisation
 
-The GB Cup 2024 Spring was run by the Team GB and various community members.
+The GB Cup 2024 Spring is run by Team GB and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -58,12 +58,13 @@ The GB Cup 2024 Spring was run by the Team GB and various community members.
 
 ## Links
 
+- [Information spreadsheet](https://docs.qq.com/sheet/DTXVYY2RBa1FyTlp2?tab=BB08J2)
 - [Registration form](https://wj.qq.com/s2/14213350/thxh/)
 - Livestream
   - [Bilibili stream](https://live.bilibili.com/22545296) (::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407))
   - [Bilibili stream](https://live.bilibili.com/10183) (::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617))
-- [GBC QQ Group](https://jq.qq.com/?_wv=1027&k=zqBeTqMW)
-- [GBC Discord Server](https://discord.gg/qpJjGuYyC5)
+- [GBC QQ group](https://jq.qq.com/?_wv=1027&k=zqBeTqMW)
+- [GBC Discord server](https://discord.gg/qpJjGuYyC5)
 
 ## Participants
 
@@ -86,7 +87,7 @@ The GB Cup 2024 Spring was run by the Team GB and various community members.
 4. The maps for each round will be announced by the mappool selectors on the official stream, on the Saturday before the actual matches take place.
 5. Players need to schedule their match time before the start of the match every week.
    - Players with special time requirements need to contact the organiser in advance. The organiser does not guarantee that anyone's request will be met, and players need to properly communicate with the referees.
-6. Every week, the referee creates a multiplayer room at the fixed times, and the players who need to play a match could enter the room.
+6. Every week, the referee creates a multiplayer room at fixed times, where players who need to play a match can enter the room.
 7. There is **no warm-up phase** for the match.
 8. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins is allowed.
    - Custom skin elements **must not** be used to alter core gameplay mechanics.
@@ -94,32 +95,32 @@ The GB Cup 2024 Spring was run by the Team GB and various community members.
 ### Registration
 
 1. Please **fill [this form](https://wj.qq.com/s2/14213350/thxh/)** to register.
-   - Player **must** join [this QQ group](https://jq.qq.com/?_wv=1027&k=zqBeTqMW) or [this Discord Server](https://discord.gg/qpJjGuYyC5) after register.
-   - If you cannot use QQ, please use osu! or Discord to contact the organiser and use Discord to communicate.
+   - Player **must** join [this QQ group](https://jq.qq.com/?_wv=1027&k=zqBeTqMW) or [this Discord server](https://discord.gg/qpJjGuYyC5) after registration.
+   - For players who cannot use QQ, please use osu! or Discord to contact the organiser and use Discord to communicate.
 2. To ensure valid and serious registrations, every registered user will be manually checked by the host.
    - **There are no rank limitations for this tournament.**
    - To be successfully registered, a player must not have violated any [osu! community rules](/wiki/Rules) within the last 12 months.
-   - When registering, the organiser will refer to the player's play counts, heavy derankers and smurfs may be forced to upgrade.
+   - When registering, the organiser will refer to the player's play counts. Heavy derankers and smurfs may be forced to upgrade to a higher group (see below table).
 3. A list of all successfully registered players will be published after the registration phase.
 4. All successfully registered players will be grouped as follows:
 
 | Group | Player's 4K pp |
 | :-: | :-- |
-| EX | 9500 and above |
-| S | 7000 – 8999 |
-| A | 4500 – 6999 |
-| B | 0 – 4499 |
+| EX | 9,500 and above |
+| S | 7,000–8,999 |
+| A | 4,500–6,999 |
+| B | 0–4,499 |
 
-5. If the 4K pp of a player is much higher than the upper limitation of his level, he will be forced to promote into next level. The buffer is *100 pp*.
+5. If the 4K pp of a player is much higher than the upper limit of their group, they will be forced to promote into the next group. The buffer is *100 pp*.
 6. [Tournament staff members](/wiki/Tournaments/Official_support#staff) must not participate as players in the tournament.
-7. Organisers may force to promote some players that are considered too strong in their levels.
+7. Organisers may force to promote some players that are considered too strong in their groups.
 8. Organisers reserve the right to decline restricted players from participating in the tournament.
-9. It is allowed for players to request to promote their level. They need to send some result screenshotsof next level to the organiser for getting premission.
+9. It is allowed for players to request to change their level. Such players need to send screenshots of scores from higher-level mappools to the organiser.
 
 ### Win conditions
 
-1. In the Regular stage, players need to get higher placement in higher level for higher points. The points that can be earned are determined by the placement in every round. The placement according to the average rank for all individual beatmaps in a round.
-2. We have a base points that depends on the placement per round, and a multiplier that depends on the level of players. Here is the calculation method of points.
+1. In the Regular stage, players need to get high placements in higher groups in order to get more points. The points that can be earned are determined by the placement in every round, which is determined according to the average rank for all individual beatmaps in a round.
+2. A base amount of points depends on the placement per round, and it is increased by a multiplier that depends on the group of players. The calculation method is as follows:
 
 | Placement | Base points |
 | :-: | --: |
@@ -138,14 +139,14 @@ The GB Cup 2024 Spring was run by the Team GB and various community members.
 | Top 90% | 4 |
 | Top 100% | 2 |
 
-| Level | Multiplier (x is base points) |
+| Group | Multiplier (x is base points) |
 | :-: | --: |
-| Level B | x |
-| Level A | 1.5x + 12 |
-| Level S | 2.3x + 30 |
-| Level EX | 3.4x + 57 |
+| Group B | `x` |
+| Group A | `1.5x + 12` |
+| Group S | `2.3x + 30` |
+| Group EX | `3.4x + 57` |
 
-3. The final qualifier ranking depends on the total amount of points from all 4 rounds. The top 24 players will be able to join the playoff stage.
+3. The final Regular stage ranking depends on the total amount of points from all 4 rounds. The top 24 players will be able to join the playoff stage.
 4. The top 8 will play in the winners' bracket, while the top 9–24 will play in the losers' bracket.
 5. In case of a tie in the rankings, the player with a lower sum of ranks in every round will take the higher rank.
 6. In the playoff stage, players need to win 6 beatmaps in order to win a match during Quarterfinals and Semifinals, and 7 beatmaps in the Finals and Grand Finals.
@@ -153,13 +154,13 @@ The GB Cup 2024 Spring was run by the Team GB and various community members.
 ### Match procedures
 
 1. A referee will create a multiplayer room 5 minutes before the scheduled match time. Players must join the lobby in that period.
-   - The room settings are `Game mode: osu!mania`, `Team mode: Head-to-Head`, and `Score mode: ScoreV2`. The room name must follow the pattern of `GBC 2024 Spr`.
-2. Possible mod choices for the FreeMod bracket are **No Fail**, **Hidden**, **Fade In**, **Flashlight**, and **Mirror**.
-3. The referees will select the beatmaps in order to play the match. If a player encounters a technical problem during a match, players may request a rematch from the referee after all the beatmaps have been selected.
+   - The room settings are `Game mode: osu!mania`, `Team mode: Head-to-Head`, and `Score mode: ScoreV2`. The room name must follow the pattern of the following example: `GBC 2024 Spring: LvEX round1 Sunday10pm`.
+2. Possible mod choices for the Free Mod bracket are **No Fail**, **Hidden**, **Fade In**, **Flashlight**, and **Mirror**.
+3. The referees will select the beatmaps in order to play the match. If a player encounters a technical problem during a match, players may request a rematch from the referee after all the beatmaps have been played.
    - "Lag spikes" will not be considered as a valid reason to rematch a beatmap.
    - The rematch should happen after completing scores for the other beatmaps in the mappool.
-   - For the behavior that quit room and request rematch after the map start, it will only be allowed once per round.
-   - This rule should not to be abused. Referees may veto a rematch request if they find that this is the case.
+   - Quitting the room and requesting a rematch after the map starts will only be allowed once in a match, and may also be vetoed by a referee.
+   - This rule is not to be abused. Referees may veto a rematch request if they find that this is the case.
 4. Unless there are special reasons, the organiser will only record each player's first score of the beatmap in the match room.
 5. The default rest time is **120 seconds**. If all players in the room agree to start early and get ready, the referee may start the match early.
 6. Players are expected to keep the match running fluently and without delays. Excessive delays from the players' side may result in penalties being applied at the referee's discretion. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match, or other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
@@ -173,7 +174,7 @@ The GB Cup 2024 Spring was run by the Team GB and various community members.
 ### Mappool information
 
 1. Each group has four mappools, and each group uses one mappool per round.
-2. Each mappool consists of 7 beatmaps that will all be played under [FreeMod](/wiki/Gameplay/Game_modifier#freemod) conditions. This means that there is a unique FreeMod bracket.
+2. Each mappool consists of 7 beatmaps that will all be played under [Free Mod](/wiki/Gameplay/Game_modifier#freemod) conditions. This means that there is a unique Free Mod bracket.
 3. The type of beatmap included in the mappool is not fixed.
 
 ### Scheduling information
@@ -184,12 +185,12 @@ The GB Cup 2024 Spring was run by the Team GB and various community members.
 3. The organiser will provide alternative tournament slots before the start of matches each week, creating a schedule that is satisfactory to all players.
    - In case a special match time is required, please inform the organiser in advance. The organiser will try to fulfill the requirements of all players, but **cannot** make any guarantees.
 4. Matches may not be scheduled to any time **beyond Sunday, 23:59 (UTC+08)** of the week they are to be played at.
-   - Even if needed, the match must be completed by next Wednesday; later reschedule requests will be rejected.
+   - Even if needed, the match must be completed by the next Wednesday; later reschedule requests will be rejected.
    - **Do not ask for a reschedule unless it is absolutely needed. The host reserves the right to deny any reschedule requests.**
 
 ### Playoff stage
 
-The rules are largely the same as in the regular season.
+The rules are largely the same as in the regular stage.
 
 1. The organiser will invite some players from the EX group to participate in the playoffs.
 2. There will be four separate mappools for each playoff round, with a varying number of beatmaps of different types:
@@ -202,7 +203,7 @@ The rules are largely the same as in the regular season.
 3. Players will have 2 minutes to pick and ban a beatmap, and 2 minutes to get ready. If a player takes more time than allowed, the procedures adopted will be as follows:
    - For map bans, the player forfeits the ban.
    - For map picks, a random map will be chosen from the mappool using `!roll X`, where `X` is the number of maps that were neither picked nor banned, excluding the tiebreaker.
-   - For a ready timer, the referee will use `!mp start 10` command.
+   - For a ready timer, the referee will use the `!mp start 10` command.
 4. Each player will receive one *tactical timeout* of **2 minutes**, to be used as extra time to pick or ban a beatmap. The tactical timeout is optional.
    - The tactical timeout may be called on a tiebreaker, provided that all players agree to it.
 5. A referee will create a multiplayer room 10 minutes before the scheduled match time. Players must join the lobby in that period.
