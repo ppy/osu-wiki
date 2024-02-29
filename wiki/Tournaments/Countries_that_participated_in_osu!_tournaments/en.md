@@ -13,7 +13,7 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 
 | Rank | Country | ![][GCrown] | ![][SCrown] | ![][BCrown] |
 | :-: | :-- | :-: | :-: | :-: |
-| 1 | ::{ flag=KR }:: South Korea | 22 | 9 | 5 |
+| 1 | ::{ flag=KR }:: South Korea | 23 | 9 | 5 |
 | 2 | ::{ flag=JP }:: Japan | 12 | 5 | 2 |
 | 3 | ::{ flag=US }:: United States | 10 | 7 | 4 |
 | 4 | ::{ flag=CN }:: China | 4 | 8 | 4 |
@@ -23,8 +23,8 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 | 8 | ::{ flag=CL }:: Chile | 1 |  | 3 |
 | 9 | ::{ flag=HK }:: Hong Kong |  | 4 | 1 |
 | 10 | ::{ flag=DE }:: Germany |  | 3 | 4 |
-| 11 | ::{ flag=PH }:: Philippines |  | 2 |  |
-| 12 | ::{ flag=MY }:: Malaysia |  | 1 | 6 |
+| 11 | ::{ flag=PH }:: Philippines |  | 2 | 1 |
+| 12 | ::{ flag=MY }:: Malaysia |  | 2 | 6 |
 | 13 | ::{ flag=GB }:: United Kingdom |  | 1 | 4 |
 | 14 | ::{ flag=ID }:: Indonesia |  | 1 | 4 |
 | 15 | ::{ flag=NL }:: Netherlands |  | 1 |  |
