@@ -150,6 +150,8 @@ If you want to check all of them out, you can do so right down below!
 
 Who would be better placed to educate us on the thoughts and attention put into the World Cups than the players, organisers and artists themselves! Let's hear what some of them had to say about their experience this year.
 
+::{#butanic}::
+
 [![](/wiki/shared/news/2024-02-29-osu-mania-7k-world-cup-2024-concludes/butanic.png)](https://osu.ppy.sh/users/1433586)
 
 Even though it's their first time participating, **butanic** is a Japanese legend and veteran when it comes to anything VSRG-related. With such accolades to their name, they've shredded through every RC pick this year, and provided an anchor for the team when they needed it the most.
@@ -180,6 +182,8 @@ Even though it's their first time participating, **butanic** is a Japanese legen
 > 
 > I started playing osu!mania when I was 30 years old, and I have improved a lot in the past year. As long as you have the feeling that rhythm games are fun, you have as many chances as you want to improve! If you are still playing only 4K, please try to play 7K as well, and let's fight in the MWC someday!
 
+::{#yz1155}::
+
 [![](/wiki/shared/news/2024-02-29-osu-mania-7k-world-cup-2024-concludes/yz1155.png)](https://osu.ppy.sh/users/2071008)
 
 Born and raised in osu!mania, **yz1155** has climbed through the ranks and is now standing shoulder to shoulder next to some of the greatest osu!mania players ever on the osu!mania 7K World Cup stage. They have outdone themselves this year by being a core player for the South Korean team, with emphasis on their amazing performance on technical charts.
@@ -204,6 +208,8 @@ Born and raised in osu!mania, **yz1155** has climbed through the ranks and is no
 
 > [dressurf](https://osu.ppy.sh/users/758406), [cheewee](https://osu.ppy.sh/users/4477497) and [Kura](https://osu.ppy.sh/users/11420405) are not earthlings. It's a huge secret, so don't let anyone know.
 
+::{#-noname-}::
+
 [![](/wiki/shared/news/2024-02-29-osu-mania-7k-world-cup-2024-concludes/noname.png)](https://osu.ppy.sh/users/10400730)
 
 **-NoName-** has gone absolutely bonkers this year, not only answering the call of being a mappool selector, but also going above and beyond by contributing to **12** of the picks throughout this year's tournament. Some say they placed 50,000 notes over the course of this year's tournament alone, but we'll leave actually counting them to someone else.
@@ -227,6 +233,8 @@ Born and raised in osu!mania, **yz1155** has climbed through the ranks and is no
 > To the team: none of this would have been possible without you. This was definitely a learning experience for us, and we will be making many adjustments for future iterations.
 > 
 > For anyone who wants to become a part of the team, we look forward to seeing your application sometime in August or September. We especially need help from those who make LN charts, so feel free to apply at that point, and we'll see how we can fit you in if possible. I remember signing up for play testing in 2023, and it was the most fun playing this game I've ever had.
+
+::{#akiri}::
 
 [![](/wiki/shared/news/2024-02-29-osu-mania-7k-world-cup-2024-concludes/akiri.png)](https://osu.ppy.sh/users/19587411)
 
