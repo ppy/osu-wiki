@@ -44,7 +44,7 @@ The Koreans regained the championship of MWC7K after losing it to the Philippine
 
 Malaysia's last hurdle before their final showdown against South Korea was their match against the Philippines, a very strong team who has shown its fangs during the whole tournament. To say the stakes of this match were high would be an understatement.
 
-Malaysia started strong with their emphasis on LN picks throughout the match. Starting with [xi - Garyou tensei](https://osu.ppy.sh/beatmapsets/2137702#mania/4498825) and [Juggernaut. vs Gram - Seraphim](https://osu.ppy.sh/beatmapsets/2137710#mania/4498842), despite ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497)'s impressive scores, the Philippines managed to go 0–2 in the first two maps giving them an edge.
+Malaysia started strong with their emphasis on LN picks throughout the match. Starting with [xi - Garyou Tensei](https://osu.ppy.sh/beatmapsets/2137702#mania/4498825) and [Juggernaut. vs Gram - Seraphim](https://osu.ppy.sh/beatmapsets/2137710#mania/4498842), despite ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497)'s impressive scores, the Philippines managed to go 0–2 in the first two maps giving them an edge.
 
 Even with Malaysia's performance on [wotoha - O108ROCKET (feat. Neko Hacker)](https://osu.ppy.sh/beatmapsets/2137706#mania/4498837), they weren't able to keep up with the Philippines going all the way to 1–6. It was match point for the Philippines, but in a surprising turn of events, Malaysia's resilience kept them going! The Philippines weren't able to take that last point, and team Malaysia was able to tie 6–6 just in the nick of time.
 
