@@ -19,7 +19,7 @@ The **osu!taiko World Cup 2024** (***TWC 2024***) is a country-based osu!taiko t
 | Qualifier showcase | 2024-03-10 (14:00 UTC) |
 | Qualifier stage | 2024-03-16/2024-03-17 |
 | Round of 32 | 2024-03-23/2024-03-24 |
-| Round of 16 | 2024-03-30/2024-04-01 |
+| Round of 16 | 2024-03-30/2024-03-31 |
 | Quarterfinals | 2024-04-06/2024-04-07 |
 | Semifinals | 2024-04-13/2024-04-14 |
 | Finals | 2024-04-20/2024-04-21 |
@@ -52,9 +52,58 @@ The osu!taiko World Cup 2024 is run by various community members.
 
 ## Links
 
-- **[Sign up here](https://osu.ppy.sh/community/tournaments/43)**
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1884428)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Tournament listing](https://osu.ppy.sh/community/tournaments/43)
+
+## Participants
+
+|  | Country | Members |
+| :-: | :-: | :-- |
+| ::{ flag=AR }:: | **Argentina** | **[-GordoN-](https://osu.ppy.sh/users/5040981)** |
+| ::{ flag=AU }:: | **Australia** | **[splyrg](https://osu.ppy.sh/users/11457644)** |
+| ::{ flag=BR }:: | **Brazil** | **[Foxeru](https://osu.ppy.sh/users/7479684)** |
+| ::{ flag=CA }:: | **Canada** | **[Dizzayy](https://osu.ppy.sh/users/12014683)** |
+| ::{ flag=CL }:: | **Chile** | **[Ulqui](https://osu.ppy.sh/users/1263669)** |
+| ::{ flag=CN }:: | **China** | **[superSSS](https://osu.ppy.sh/users/4315477)** |
+| ::{ flag=CO }:: | **Colombia** | **[L1ght](https://osu.ppy.sh/users/9050875)** |
+| ::{ flag=CZ }:: | **Czechia** | **[iTzzMar0](https://osu.ppy.sh/users/13108155)** |
+| ::{ flag=DK }:: | **Denmark** | **[Captain](https://osu.ppy.sh/users/2563435)** |
+| ::{ flag=EE }:: | **Estonia** | **[PaskAcc](https://osu.ppy.sh/users/9040795)** |
+| ::{ flag=FI }:: | **Finland** | **[duski](https://osu.ppy.sh/users/6506484)** |
+| ::{ flag=FR }:: | **France** | **[YaniFR](https://osu.ppy.sh/users/11260982)** |
+| ::{ flag=DE }:: | **Germany** | **[dragonmaxx](https://osu.ppy.sh/users/12160279)** |
+| ::{ flag=HK }:: | **Hong Kong** | **[YonGin](https://osu.ppy.sh/users/7109317)** |
+| ::{ flag=HU }:: | **Hungary** | **[Araxcrow](https://osu.ppy.sh/users/11038892)** |
+| ::{ flag=ID }:: | **Indonesia** | **[ImChro](https://osu.ppy.sh/users/7280717)** |
+| ::{ flag=IT }:: | **Italy** | **[megalovania lol](https://osu.ppy.sh/users/20215461)** |
+| ::{ flag=JP }:: | **Japan** | **[Grape\_Tea](https://osu.ppy.sh/users/9540073)** |
+| ::{ flag=LV }:: | **Latvia** | **[waywern2012](https://osu.ppy.sh/users/5870453)** |
+| ::{ flag=LT }:: | **Lithuania** | **[ramojusd](https://osu.ppy.sh/users/14400817)** |
+| ::{ flag=MY }:: | **Malaysia** | **[CrabCow](https://osu.ppy.sh/users/9755504)** |
+| ::{ flag=MX }:: | **Mexico** | **[Hivan111](https://osu.ppy.sh/users/13525805)** |
+| ::{ flag=NL }:: | **Netherlands** | **[Cookie\_Tree](https://osu.ppy.sh/users/502722)** |
+| ::{ flag=NO }:: | **Norway** | **[Vendelicious](https://osu.ppy.sh/users/8818089)** |
+| ::{ flag=PE }:: | **Peru** | **[alemagno333](https://osu.ppy.sh/users/11411697)** |
+| ::{ flag=PH }:: | **Philippines** | **[JoshEco4](https://osu.ppy.sh/users/18591473)** |
+| ::{ flag=PL }:: | **Poland** | **[Qroissant](https://osu.ppy.sh/users/9511518)** |
+| ::{ flag=PT }:: | **Portugal** | **[BabySnakes](https://osu.ppy.sh/users/4669728)** |
+| ::{ flag=RU }:: | **Russian Federation** | **[fullaltshallah](https://osu.ppy.sh/users/9976154)** |
+| ::{ flag=SK }:: | **Slovakia** | **[Golden](https://osu.ppy.sh/users/12639462)** |
+| ::{ flag=KR }:: | **South Korea** | **[Peaceful](https://osu.ppy.sh/users/165027)** |
+| ::{ flag=ES }:: | **Spain** | **[MantequillAlex](https://osu.ppy.sh/users/11499752)** |
+| ::{ flag=SE }:: | **Sweden** | **[Hana Hayashi](https://osu.ppy.sh/users/4601806)** |
+| ::{ flag=CH }:: | **Switzerland** | **[TaikoWorldCup](https://osu.ppy.sh/users/11296097)** |
+| ::{ flag=TW }:: | **Taiwan** | **[monkeydluffy3u4](https://osu.ppy.sh/users/2277798)** |
+| ::{ flag=TH }:: | **Thailand** | **[banan](https://osu.ppy.sh/users/16011592)** |
+| ::{ flag=TR }:: | **Turkey** | **[frukoyurdakul](https://osu.ppy.sh/users/7612550)** |
+| ::{ flag=GB }:: | **United Kingdom** | **[goheegy](https://osu.ppy.sh/users/8057655)** |
+| ::{ flag=US }:: | **United States** | **[cheese salad](https://osu.ppy.sh/users/6349821)** |
+| ::{ flag=VN }:: | **Vietnam** | **[Creeperbrine303](https://osu.ppy.sh/users/22515524)** |
+
+Captains are listed in **bold**. Individual team compositions subject to change until **Friday, 8 March 2024 23:59 UTC**.
+
+The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253130c40e8486cdfbcdf680bb19988d).
 
 ## Ruleset
 

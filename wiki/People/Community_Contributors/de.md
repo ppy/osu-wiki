@@ -1,8 +1,3 @@
----
-outdated_since: 6c75c97f545c236af6e8253b4296dafa06668a56
-outdated_translation: true
----
-
 # Mitwirkende der Community
 
 ::: Infobox
@@ -13,7 +8,7 @@ outdated_translation: true
 ![Neues Contributor-Abzeichen](/wiki/shared/contributor-new-era.png "Neues Contributor-Abzeichen")
 :::
 
-Die **Community-Mitwirkenden** sind eine handvoll Leute, die aufgrund ihrer besonderen Arbeit - sei es Features, Tools oder Organisatorisches - eine bedeutende Auswirkung auf die Community haben und diese zu der gemacht haben, was sie heute ist. Diese Personen haben dafür ein Abzeichen auf ihrem Profil bekommen, das zeigt, dass sie etwas Bemerkenswertes für die gesamte Community getan haben.
+Die **Community-Mitwirkenden** sind eine handvoll Leute, die aufgrund ihrer besonderen Arbeit — sei es Features, Tools oder Organisatorisches — eine bedeutende Auswirkung auf die Community haben und diese zu der gemacht haben, was sie heute ist. Diese Personen haben dafür ein Abzeichen auf ihrem Profil bekommen, das zeigt, dass sie etwas Bemerkenswertes für die gesamte Community getan haben.
 
 Nicht zu verwechseln mit [osu! Alumni](/wiki/People/osu!_Alumni), die frühere Mitglieder verschiedener osu!-Teams waren und nun zurückgetreten sind. Community-Contributor-Abzeichen werden an freiwillige Helfer vergeben, die sich über ihre Pflicht hinaus für die Verbesserung von osu! und der Community-Umgebung eingesetzt haben.
 
@@ -184,7 +179,7 @@ Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registri
 | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | Herausragende Beiträge zur Community-Moderation |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) | Herausragende, unermüdliche Unterstützung und Hilfe für Spieler |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | Herausragende, unermüdliche Unterstützung und Hilfe für Spieler |
-| ::{ flag=CL }:: [Milan-](https://osu.ppy.sh/users/1052994) | Herausragende Beiträge für die [Mappers' Guild](https://mappersguild.com) und [Beatmap Nominatoren](/wiki/People/Beatmap_Nominators) |
+| ::{ flag=CL }:: [Milan-](https://osu.ppy.sh/users/1052994) | Herausragende Beiträge für die [Mappers' Guild](/wiki/Community/Mappers_Guild) und [Beatmap Nominatoren](/wiki/People/Beatmap_Nominators) |
 | ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835) | Herausragende Beiträge zu Open-Source-Projekten für osu! |
 
 ### 2021
@@ -226,6 +221,35 @@ Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registri
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Herausragende Beiträge zur osu!-Turnierszene und den World Cups |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Herausragende Beiträge zur osu!-Turnierszene und den World Cups |
 | ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815) | Herausragende Beiträge zu osu! IRL-Events und zur Turnierszene |
+
+### 2023
+
+#### November
+
+*Für den Newsbeitrag, siehe: [Community Contributors: 2022 & 2023](https://osu.ppy.sh/home/news/2023-11-19-community-contributors-2022-2023)*
+
+| Benutzer | Beiträge |
+| :-- | :-- |
+| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Außergewöhnliches und unermüdliches Engagement im Community-Management für über ein Jahrzehnt |
+| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Herausragendes Engagement in der Moderationsszene und den [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
+| ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | Herausragende Beiträge zu Moderationsangelegenheiten und dem osu!-Wiki (wikifriend) |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Herausragende und wegweisende Beiträge zum osu!taiko-Spielmodus |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Herausragende Führung zu Angelegenheiten im Beatmap-Management |
+| ::{ flag=US }:: [Cychloryn](https://osu.ppy.sh/users/6921736) | Herausragende Beiträge zur Mappingszene durch die Entwicklung von Tools ([osumod.com](https://osumod.com)) |
+| ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691) | Herausragende Beiträge zu Offline-Turnieren und dem Wachstum der Community allgemein |
+| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | Herausragende Beiträge zur osu!-Turnierszene und den World Cups |
+| ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) | Herausragende Beiträge zur osu!-Turnierszene und den World Cups |
+| ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | Herausragende Beiträge zur osu!taiko-Community und Turnierszene |
+| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Herausragende Beiträge zur Skinning-Community |
+| ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | Herausragende Beiträge zur Community-Moderation |
+| ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | Herausragende Beiträge zum Grafikdesign in unzähligen Community-Projekten |
+| ::{ flag=US }:: [vrnl](https://osu.ppy.sh/users/4799788) | Herausragende Beiträge zur Qualitätssicherung von Beatmaps |
+| ::{ flag=DE }:: [Meyer](https://osu.ppy.sh/users/5452367) | Herausragende Beiträge zu osu! IRL-Events |
+| ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Herausragende Beiträge zur [Mappers' Guild](/wiki/Community/Mappers_Guild) und zu Vorstellungsvideos von Featured Artists |
+| ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | Herausragende Beiträge zur [Mappers' Guild](/wiki/Community/Mappers_Guild) und zu Präsentationsvideos von Featured Artists |
+| ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) | Herausragende Beiträge zur [Mappers' Guild](/wiki/Community/Mappers_Guild) und zu Präsentationsvideos von Featured Artists |
+| ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Herausragende Beiträge zur [Mappers' Guild](/wiki/Community/Mappers_Guild) und zu Präsentationsvideos von Featured Artists |
+| ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837) | Herausragende Beiträge zur [Mappers' Guild](/wiki/Community/Mappers_Guild) und zu Präsentationsvideos von Featured Artists |
 
 ## Geschichte
 

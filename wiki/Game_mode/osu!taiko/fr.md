@@ -1,3 +1,8 @@
+---
+outdated_since: 832959f10a5d38fc57ecb291d6cb2f2a3af89d73
+outdated_translation: true
+---
+
 # osu!taiko (mode de jeu)
 
 ![Gameplay d'osu!taiko](/wiki/shared/taiko-gameplay.jpg "Interface d'osu!taiko")
