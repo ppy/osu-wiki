@@ -34,7 +34,7 @@ The Koreans proved too formidable, however, as they would ramp up their onslaugh
 
 Never to falter completely, the Malaysians grabbed their final point from South Korea right afterwards on LN1, [Tatsh - Reunion](https://osu.ppy.sh/beatmapsets/1785469#mania/3657073), again with heroics coming from cheewee10 with a 969k score. South Korea then managed outstanding performances for the remaining maps, and while there was a glimpse of hope for Malaysia on RC4, [SHIKI - Orfevre](https://osu.ppy.sh/beatmapsets/2137727#mania/4498898), the final scoreline was sealed with extraordinary finish for the Koreans, and yz1155 in particular, on HB1, [Juggernaut. vs Gram - Seraphim](https://osu.ppy.sh/beatmapsets/2137710#mania/4498842).
 
-The Koreans regained the championship of MWC7K after losing it to the Philippines last year, and have shown a level of dominance that has been expected of them since the dawn of osu!mania. Massive, massive props to Malaysia's dynamic duo as well, cheewee10 and ::{ flag=MY }:: [Neokje](https://osu.ppy.sh/users/7727987), for taking Malaysia to the silver placement for the first time ever and standing tall among the best!
+The Koreans regained the championship of MWC7K after losing it to the Philippines last year, and have shown a level of dominance that has been expected of them since the dawn of osu!mania. Massive, massive props to Malaysia's dynamic duo as well, cheewee10 and ::{ flag=MY }:: [Neokje](https://osu.ppy.sh/users/7727987), for taking Malaysia to the silver placement for the second time ever and standing tall among the best!
 
 ### ::{ flag=MY }:: Malaysia vs. ::{ flag=PH }:: Philippines
 
