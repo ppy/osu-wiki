@@ -35,7 +35,7 @@ Les conversions d'osu!taiko sont générées en fonction du placement des [hitso
 
 Les conversions osu!catch sont générées en fonction du rythme et du *placement horizontal* (par exemple, la coordonnée de l'axe x) des [objets](/wiki/Gameplay/Hit_object) dans une beatmap, comme suit :
 
-- Les cercles, slider heads, les slider tails et les slider repeats sont convertis en [fruits] (/wiki/Gameplay/Hit_object/Fruit).
+- Les cercles, slider heads, les slider tails et les slider repeats sont convertis en [fruits](/wiki/Gameplay/Hit_object/Fruit).
 - Les ticks du slider sont convertis en [juice drops](/wiki/Gameplay/Hit_object/Juice_stream#drop).
 - Les slider paths sont converties en [droplets](/wiki/Gameplay/Hit_object/Juice_stream#droplet).
 - Les spinners sont convertis en [bananes](/wiki/Gameplay/Hit_object/Banana).
