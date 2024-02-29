@@ -13,97 +13,102 @@ In diesem Artikel werden Länder aufgelistet, die an offiziellen Turnieren in [o
 
 | Rang | Land | ![][GCrown] | ![][SCrown] | ![][BCrown] |
 | :-: | :-- | :-: | :-: | :-: |
-| 1 | ::{ flag=KR }:: Südkorea | 19 | 5 | 5 |
-| 2 | ::{ flag=JP }:: Japan | 11 | 5 | 2 |
-| 3 | ::{ flag=US }:: Vereinigte Staaten | 7 | 5 | 4 |
-| 4 | ::{ flag=CN }:: China | 3 | 8 | 3 |
-| 5 | ::{ flag=TW }:: Taiwan | 3 | 7 | 1 |
-| 6 | ::{ flag=BR }:: Brasilien | 2 | 2 | 4 |
+| 1 | ::{ flag=KR }:: Südkorea | 23 | 9 | 5 |
+| 2 | ::{ flag=JP }:: Japan | 12 | 5 | 2 |
+| 3 | ::{ flag=US }:: Vereinigte Staaten | 10 | 7 | 4 |
+| 4 | ::{ flag=CN }:: China | 4 | 8 | 4 |
+| 5 | ::{ flag=TW }:: Taiwan | 3 | 9 | 1 |
+| 6 | ::{ flag=BR }:: Brasilien | 2 | 3 | 4 |
 | 7 | ::{ flag=PL }:: Polen | 1 | 1 | 2 |
-| 8 | ::{ flag=CL }:: Chile | 1 |  | 2 |
+| 8 | ::{ flag=CL }:: Chile | 1 |  | 3 |
 | 9 | ::{ flag=HK }:: Hongkong |  | 4 | 1 |
 | 10 | ::{ flag=DE }:: Deutschland |  | 3 | 4 |
-| 11 | ::{ flag=PH }:: Philippinen |  | 2 |  |
+| 11 | ::{ flag=PH }:: Philippinen |  | 2 | 1 |
 | 12 | ::{ flag=MY }:: Malaysia |  | 1 | 5 |
 | 13 | ::{ flag=GB }:: Vereinigtes Königreich |  | 1 | 4 |
-| 14 | ::{ flag=ID }:: Indonesien |  | 1 | 3 |
+| 14 | ::{ flag=ID }:: Indonesien |  | 1 | 4 |
 | 15 | ::{ flag=NL }:: Niederlande |  | 1 |  |
-| 15 | ::{ flag=TH }:: Thailand |  | 1 |  |
-| 16 | ::{ flag=CA }:: Kanada |  |  | 3 |
-| 17 | ::{ flag=FR }:: Frankreich |  |  | 2 |
-| 18 | ::{ flag=SE }:: Schweden |  |  | 1 |
+| 16 | ::{ flag=TH }:: Thailand |  | 1 |  |
+| 17 | ::{ flag=AU }:: Australien |  |  | 1 |
+| 18 | ::{ flag=CA }:: Kanada |  |  | 3 |
+| 19 | ::{ flag=FR }:: Frankreich |  |  | 2 |
+| 20 | ::{ flag=IT }:: Italien |  |  | 1 |
+| 21 | ::{ flag=SE }:: Schweden |  |  | 1 |
 
 ### ![][osu!] osu! Rangliste
 
 | Rang | Land | ![][GCrown] | ![][SCrown] | ![][BCrown] |
 | :-: | :-- | :-: | :-: | :-: |
-| 1 | ::{ flag=US }:: Vereinigte Staaten | 6 | 1 |  |
-| 2 | ::{ flag=KR }:: Südkorea | 3 | 1 | 3 |
+| 1 | ::{ flag=US }:: Vereinigte Staaten | 8 | 1 |  |
+| 2 | ::{ flag=KR }:: Südkorea | 3 | 2 | 3 |
 | 3 | ::{ flag=JP }:: Japan | 1 | 2 |  |
 | 4 | ::{ flag=PL }:: Polen | 1 | 1 | 2 |
 | 5 | ::{ flag=TW }:: Taiwan | 1 | 1 | 1 |
-| 6 | ::{ flag=DE }:: Deutschland |  | 2 | 2 |
+| 6 | ::{ flag=DE }:: Deutschland |  | 2 | 3 |
 | 7 | ::{ flag=CN }:: China |  | 2 |  |
 | 8 | ::{ flag=GB }:: Vereinigtes Königreich |  | 1 | 2 |
 | 9 | ::{ flag=NL }:: Niederlande |  | 1 |  |
-| 10 | ::{ flag=BR }:: Brasilien |  |  | 1 |
-| 10 | ::{ flag=CA }:: Kanada |  |  | 1 |
+| 10 | ::{ flag=AU }:: Australien |  |  | 1 |
+| 11 | ::{ flag=BR }:: Brasilien |  |  | 1 |
+| 12 | ::{ flag=CA }:: Kanada |  |  | 1 |
 
 ### ![][osu!taiko] osu!taiko Rangliste
 
 | Rang | Land | ![][GCrown] | ![][SCrown] | ![][BCrown] |
 | :-: | :-- | :-: | :-: | :-: |
-| 1 | ::{ flag=JP }:: Japan | 10 | 1 | 2 |
-| 2 | ::{ flag=TW }:: Taiwan | 2 | 5 |  |
+| 1 | ::{ flag=JP }:: Japan | 11 | 1 | 2 |
+| 2 | ::{ flag=TW }:: Taiwan | 2 | 6 |  |
 | 3 | ::{ flag=HK }:: Hongkong |  | 3 | 1 |
-| 3 | ::{ flag=KR }:: Südkorea |  | 3 | 1 |
-| 4 | ::{ flag=CA }:: Kanada |  |  | 2 |
-| 4 | ::{ flag=FR }:: Frankreich |  |  | 2 |
-| 5 | ::{ flag=BR }:: Brasilien |  |  | 1 |
-| 5 | ::{ flag=CN }:: China |  |  | 1 |
-| 5 | ::{ flag=ID }:: Indonesien |  |  | 1 |
-| 5 | ::{ flag=GB }:: Vereinigtes Königreich |  |  | 1 |
+| 4 | ::{ flag=KR }:: Südkorea |  | 3 | 1 |
+| 5 | ::{ flag=CA }:: Kanada |  |  | 2 |
+| 6 | ::{ flag=FR }:: Frankreich |  |  | 2 |
+| 7 | ::{ flag=BR }:: Brasilien |  |  | 1 |
+| 8 | ::{ flag=CN }:: China |  |  | 1 |
+| 9 | ::{ flag=ID }:: Indonesien |  |  | 1 |
+| 10 | ::{ flag=DE }:: Deutschland |  |  | 1 |
+| 11 | ::{ flag=GB }:: Vereinigtes Königreich |  |  | 1 |
 
 ### ![][osu!catch] osu!catch Rangliste
 
 | Rang | Land | ![][GCrown] | ![][SCrown] | ![][BCrown] |
 | :-: | :-- | :-: | :-: | :-: |
-| 1 | ::{ flag=KR }:: Südkorea | 6 |  |  |
-| 2 | ::{ flag=CN }:: China | 2 | 4 |  |
+| 1 | ::{ flag=KR }:: Südkorea | 8 |  |  |
+| 2 | ::{ flag=CN }:: China | 2 | 4 | 1 |
 | 3 | ::{ flag=CL }:: Chile | 1 |  | 2 |
 | 4 | ::{ flag=DE }:: Deutschland |  | 1 | 2 |
-| 4 | ::{ flag=US }:: Vereinigte Staaten |  | 1 | 2 |
-| 5 | ::{ flag=ID }:: Indonesien |  | 1 | 1 |
-| 6 | ::{ flag=HK }:: Hongkong |  | 1 |  |
-| 6 | ::{ flag=TW }:: Taiwan |  | 1 |  |
-| 7 | ::{ flag=SE }:: Schweden |  |  | 1 |
+| 5 | ::{ flag=US }:: Vereinigte Staaten |  | 3 | 2 |
+| 6 | ::{ flag=ID }:: Indonesien |  | 1 | 1 |
+| 7 | ::{ flag=HK }:: Hongkong |  | 1 |  |
+| 8 | ::{ flag=TW }:: Taiwan |  | 1 |  |
+| 9 | ::{ flag=IT }:: Italien |  |  | 1 |
+| 10 | ::{ flag=SE }:: Schweden |  |  | 1 |
 
 ### ![][osu!mania] osu!mania Rangliste
 
 | Rang | Land | ![][GCrown] | ![][SCrown] | ![][BCrown] |
 | :-: | :-- | :-: | :-: | :-: |
-| 1 | ::{ flag=KR }:: Südkorea | 10 | 1 | 1 |
-| 2 | ::{ flag=BR }:: Brasilien | 2 | 2 | 2 |
-| 3 | ::{ flag=US }:: Vereinigte Staaten | 1 | 3 | 2 |
+| 1 | ::{ flag=KR }:: Südkorea | 12 | 3 | 1 |
+| 2 | ::{ flag=BR }:: Brasilien | 2 | 3 | 2 |
+| 3 | ::{ flag=US }:: Vereinigte Staaten | 1 | 3 | 3 |
 | 4 | ::{ flag=CN }:: China | 1 | 2 | 2 |
 | 5 | ::{ flag=JP }:: Japan |  | 2 |  |
-| 5 | ::{ flag=PH }:: Philippinen |  | 2 |  |
-| 6 | ::{ flag=MY }:: Malaysia |  | 1 | 5 |
-| 7 | ::{ flag=TH }:: Thailand |  | 1 |  |
-| 8 | ::{ flag=ID }:: Indonesien |  |  | 1 |
-| 8 | ::{ flag=GB }:: Vereinigtes Königreich |  |  | 1 |
+| 6 | ::{ flag=PH }:: Philippinen |  | 2 | 1 |
+| 7 | ::{ flag=MY }:: Malaysia |  | 1 | 6 |
+| 8 | ::{ flag=TH }:: Thailand |  | 1 |  |
+| 9 | ::{ flag=ID }:: Indonesien |  |  | 2 |
+| 10 | ::{ flag=GB }:: Vereinigtes Königreich |  |  | 1 |
 
 ## Teilnahme
 
 ### ![][osu!] osu! World Cup
 
-| Land | 1 | 2 | 3 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 |
-| :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| ::{ flag=AR }:: Argentinien | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ::{ flag=AU }:: Australien | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ::{ flag=AT }:: Österreich | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ::{ flag=BE }:: Belgien | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ::{ flag=BR }:: Brasilien | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| Land | 1 | 2 | 3 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 |
+| :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| ::{ flag=AR }:: Argentinien | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=AU }:: Australien | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=AT }:: Österreich | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] 
+| ::{ flag=BE }:: Belgien | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] |
+| ::{ flag=BR }:: Brasilien | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=BG }:: Bulgarien | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
 | ::{ flag=KH }:: Kambodscha | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
 | ::{ flag=CA }:: Kanada | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
@@ -159,8 +164,8 @@ In diesem Artikel werden Länder aufgelistet, die an offiziellen Turnieren in [o
 
 ### ![][osu!taiko] osu!taiko World Cup
 
-| Land | 2011 | 2012 | 3 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 |
-| :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Land | 2011 | 2012 | 3 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 |
+| :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | ::{ flag=AR }:: Argentinien | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=AU }:: Australien | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=AT }:: Österreich | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] |
@@ -209,8 +214,8 @@ In diesem Artikel werden Länder aufgelistet, die an offiziellen Turnieren in [o
 
 ### ![][osu!catch] osu!catch World Cup
 
-| Land | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 |
-| :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Land | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 |
+| :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | ::{ flag=DZ }:: Algerien | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
 | ::{ flag=AR }:: Argentinien | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=AU }:: Australien | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
@@ -266,8 +271,8 @@ In diesem Artikel werden Länder aufgelistet, die an offiziellen Turnieren in [o
 
 ### ![][osu!mania] osu!mania World Cup
 
-| Land | 2014 4K | 2014 7K | 2015 4K | 2016 7K | 2016 4K | 2017 7K | 2017 4K | 2018 7K | 2018 4K | 2019 7K | 2019 4K | 2020 4K | 2021 4K | 2022 7K |
-| :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Land | 2014 4K | 2014 7K | 2015 4K | 2016 7K | 2016 4K | 2017 7K | 2017 4K | 2018 7K | 2018 4K | 2019 7K | 2019 4K | 2020 4K | 2021 4K | 2022 7K | 2023 7K | 2023 4K | 2024 7K |
+| :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | ::{ flag=AR }:: Argentinien | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=AU }:: Australien | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=BE }:: Belgien | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] |
