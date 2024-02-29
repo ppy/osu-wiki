@@ -42,7 +42,15 @@ The Koreans regained the championship of MWC7K after losing it to the Philippine
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=v2072439938&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-text
+Malaysia's last hurdle before their final showdown against South Korea was their match against the Philippines, a very strong team who has shown its fangs during the whole tournament. To say the stakes of this match were high, would be an understatement!
+
+Malaysia started strong with their emphasis on LN picks throughout the match. Starting with [xi - Garyou tensei](https://osu.ppy.sh/beatmapsets/2137702#mania/4498825) and [Juggernaut. vs Gram - Seraphim](https://osu.ppy.sh/beatmapsets/2137710#mania/4498842), despite ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497)'s impressive scores, the Philippines managed to go 0–2 in the first two maps giving them an edge.
+
+Even with Malaysia's performance on [wotoha - O108ROCKET (feat. Neko Hacker)](https://osu.ppy.sh/beatmapsets/2137706#mania/4498837), they weren't able to keep up with the Philippines going all the way to 1–6. It was match point for the Philippines, but in a surprising turn of events Malaysia's resilience kept them going! The Philippines weren't able to take that last point, and team Malaysia was able to tie 6–6 just in the nick of time!
+
+And so, it's tiebreaker time! They'd be playing [seatrus - DiSANiMATE](https://osu.ppy.sh/beatmapsets/2137728#mania/4498899), a relentless marathon which would take a toll on our already exhausted players. The lead was initially changing back and forth on the earlier segments. However, as the song went on, the lead was growing further favouring team Malaysia. And after the final drop and onslaught, the deal was sealed and team Malaysia got the win they needed to face South Korea! 
+
+Suffice to say, this second-to-last match left everyone on the edge of their seats! It's even more impressive when we account the fact that team Malaysia was comprised of only two players — that's the minimum requirement number of users needed to participate! Congratulations to the Philippines for their podium placement likewise.
 
 ## Match highlights
 
