@@ -31,7 +31,7 @@ Les conversions d'osu!taiko sont générées en fonction du placement des [hitso
 
 ### Conversion osu! > osu!catch
 
-*Voir également : [Notes de conversion sur le mapping osu!catch/osu!](/wiki/Game_mode/osu!catch#osu!-conversion-notes)*
+*Voir également : [Notes de conversion sur le mapping osu!catch/osu!](/wiki/Game_mode/osu!catch#conversion-osu!->-osu!catch)*
 
 Les conversions osu!catch sont générées en fonction du rythme et du *placement horizontal* (par exemple, la coordonnée de l'axe x) des [objets](/wiki/Gameplay/Hit_object) dans une beatmap, comme suit :
 
