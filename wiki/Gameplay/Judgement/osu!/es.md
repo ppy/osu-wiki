@@ -2,7 +2,7 @@
 
 ## Juicios
 
-Un **juicio**, **valoración** o **resultado**, es el resultado de interactuar con un [objeto](/wiki/Gameplay/Hit_object) durante su ventana de golpeo. La puntuación y la precisión se calculan en función de los juicio recibidos.
+Un **juicio**, **valoración** o **resultado**, es el resultado de interactuar con un [objeto](/wiki/Gameplay/Hit_object) durante su ventana de tiempo. La puntuación y la precisión se calculan en función de los juicio recibidos.
 
 Se suele hacer referencia a ellas por su valor de puntuación (excepto en el caso de los fallos), es decir, un GREAT suele llamarse «300» y así sucesivamente.
 
@@ -13,7 +13,7 @@ Se suele hacer referencia a ellas por su valor de puntuación (excepto en el cas
 | ![](/wiki/shared/judgement/osu!/hit50.png) | MEH | 50 | 16,67 % | `200 - 10 × OD` |
 | ![](/wiki/shared/judgement/osu!/hit0.png) | MISS | 0 | 0 % | `400` |
 
-La ventana de golpeo depende de la [dificultad general (OD)](/wiki/Beatmap/Overall_difficulty) del beatmap. Un golpe se considera dentro de una ventana de golpeo si `error de golpeo < error de golpeo máximo`, lo que significa que el valor indicado es la mitad del ancho de la ventana de golpeo.
+La ventana de tiempo depende de la [dificultad general (OD)](/wiki/Beatmap/Overall_difficulty) del beatmap. Un golpe se considera dentro de una ventana de tiempo si `error de golpeo < error de golpeo máximo`, lo que significa que el valor indicado es la mitad del ancho de la ventana de tiempo.
 
 El error de golpeo se redondea y los valores máximos del error de golpeo se truncan al número entero más próximo, lo que significa que las ventanas pueden ser hasta 1,5 ms más cortas a ambos lados de lo que sugieren las fórmulas.
 
@@ -46,11 +46,11 @@ Los [sliders](/wiki/Gameplay/Hit_object/Slider) constan de varias partes: la [ca
 | MEH | Al menos una parte del slider |
 | MISS | 0 % |
 
-La cabeza del slider solo necesita ser golpeada dentro de la ventana de golpeo de MEH para un golpe exitoso. Sin embargo, si [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) está activo, la precisión de la cabeza del slider se tiene en cuenta adicionalmente, y la puntuación recibida para el slider en su conjunto se limita como máximo a la recibida para la cabeza del slider.
+La cabeza del slider solo necesita ser golpeada dentro de la ventana de tiempo de MEH para un golpe exitoso. Sin embargo, si [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) está activo, la precisión de la cabeza del slider se tiene en cuenta adicionalmente, y la puntuación recibida para el slider en su conjunto se limita como máximo a la recibida para la cabeza del slider.
 
 Hay algunas peculiaridades adicionales en la forma en que los sliders influyen en el [combo](/wiki/Gameplay/Combo_(score_multiplier)):
 
-- Tocar la cabeza del slider demasiado pronto (antes de la ventana de golpeo de MEH), saltarse una marca del slider, o saltarse un repetidor no incurre en un MISS, pero causará una [rotura del combo](/wiki/Gameplay/Judgement/Combobreak). Las otras partes del slider pueden seguir siendo golpeadas si se mantiene pulsada una tecla. Esto se conoce coloquialmente como [slider break](/wiki/Gameplay/Judgement/Slider_break).
+- Tocar la cabeza del slider demasiado pronto (antes de la ventana de tiempo de MEH), saltarse una marca del slider, o saltarse un repetidor no incurre en un MISS, pero causará una [rotura del combo](/wiki/Gameplay/Judgement/Combobreak). Las otras partes del slider pueden seguir siendo golpeadas si se mantiene pulsada una tecla. Esto se conoce coloquialmente como [slider break](/wiki/Gameplay/Judgement/Slider_break).
 - Perder el final del slider no incurre en un MISS, pero no incrementará el combo.
 
 ### Spinners

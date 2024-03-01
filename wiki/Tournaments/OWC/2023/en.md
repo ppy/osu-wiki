@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2023 banner](img/owc2023-banner.jpg)
 
-The **osu! World Cup 2023** (***OWC 2023***) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the fourteenth instalment of the osu! World Cup.
+The **osu! World Cup 2023** (***OWC 2023***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the fourteenth instalment of the osu! World Cup.
 
 ## Tournament schedule
 
@@ -26,7 +26,7 @@ The **osu! World Cup 2023** (***OWC 2023***) is a country-based osu! tournament 
 
 ## Prizes
 
-The osu! World Cup 2023 offers a $5,000 cash prize pool and limited-edition merch.
+The osu! World Cup 2023 offered a $10,000 cash prize pool and limited-edition merch.
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -34,9 +34,11 @@ The osu! World Cup 2023 offers a $5,000 cash prize pool and limited-edition merc
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 32% of the prize pool, single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
+![](img/badge-1st.png "OWC 2023 winner badge") ![](img/badge-2nd.png "OWC 2023 2nd place badge") ![](img/badge-3rd.png "OWC 2023 3rd place badge")
+
 ## Organisation
 
-The osu! World Cup 2023 is run by the [osu! team](/wiki/People/osu!_team) and various community members.
+The osu! World Cup 2023 was run by the [osu! team](/wiki/People/osu!_team) and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -57,7 +59,6 @@ The osu! World Cup 2023 is run by the [osu! team](/wiki/People/osu!_team) and va
 - [Livestream](https://www.twitch.tv/osulive)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/130) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Challonge bracket](https://challonge.com/OWC_2023)
-- [Support your team](https://osu.ppy.sh/store/products/1219)
 
 ## Participants
 
@@ -125,20 +126,9 @@ Captains are listed in **bold**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/82ef0eafde713e954f68a54e2fc161aa#file-owc-2023-player-list-csv).
 
-## Match schedule: Grand Finals
+## Podium
 
-### Saturday, 2 December 2023
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| Australia ::{ flag=AU }:: | ::{ flag=US }:: United States | [Dec 2 (Sat) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231202T030000&p1=1440&p2=57&p3=263) | [osulive](https://twitch.tv/osulive) | [^lb-gf-match] |
-
-### Sunday, 3 December 2023
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=US }:: United States | [Dec 3 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231203T040000&p1=1440&p2=235&p3=263) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
-| South Korea ::{ flag=KR }:: | ::{ flag=AU }:: Australia | [Dec 3 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20231203T100000&p1=1440&p2=235&p3=57) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
+![](img/podium.jpg "OWC 2023 podium")
 
 ## Mappools
 
@@ -339,6 +329,23 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/82e
   3. [Sable Hills - Not Falling (squirrelpascals) \[Vid\]](https://osu.ppy.sh/beatmapsets/2075253#osu/4344422)
 
 ## Match results
+
+### Grand Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1Ri_80xlG-NsRDevg7wrYwUM6dgMnTqQR82xBd62NDwg?rm=minimal).
+
+Saturday, 2 December 2023:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| Australia ::{ flag=AU }:: | 1 | **7** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/111534249) | [#1](https://www.twitch.tv/videos/1992820454) |
+
+Sunday, 3 December 2023:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| South Korea ::{ flag=KR }:: | 5 | **7** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/111554331) | [#1](https://www.twitch.tv/videos/1993918275) |
+| **United States** ::{ flag=US }:: | **7** | 6 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/111555364) | [#1](https://www.twitch.tv/videos/1993918275?t=01h34m44s) |
 
 ### Finals
 
@@ -649,7 +656,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
    - The loser of the `!roll` decides which team **bans** first.
    - **From Quarterfinals onwards, the first team will ban one beatmap, followed by two bans from second team, finishing with one ban from the first team.**
 4. After bans are decided, both teams will take turns in picking a beatmap from the mappool.
-5. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than alloted for either action, the procedures adopted will be as follows:
+5. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than allotted for either action, the procedures adopted will be as follows:
    - For the first occurrence:
      - The team will receive a verbal warning from the referee; in addition, the referee may opt to forcefully use the team's tactical timeout to allow for the team to pick.
      - If the team does not pick a map within 15 seconds from when the timer expires, the referee will apply the procedure for subsequent occurrences listed below, i.e. a random pick will be used for a pick timer, and the match will be forcefully started for a ready timer.
@@ -693,7 +700,5 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ## Notes
 
-[^lb-gf-match]: Losers bracket Grand Finals match
-[^gf-match]: Grand Finals match — matchup depends on the results of the preceding losers bracket Grand Finals match
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rating sum

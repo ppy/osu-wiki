@@ -28,7 +28,7 @@ Las personas que se enumeran a continuación son el núcleo del **osu! team** y 
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Responsable del proyecto y de la comunidad, divulgación de [artistas destacados](/wiki/People/Featured_Artists) |
 | ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765) | Líder de diseño, observador residente de Creative Cloud |
 | ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | Desarrollador de osu! |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Líder del [NAT](/wiki/People/Nomination_Assessment_Team), gerente del [Project Loved](/wiki/Community/Project_Loved), gerente de los [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Líder del [NAT](/wiki/People/Nomination_Assessment_Team), gerente del [Project Loved](/wiki/Community/Project_Loved), secretario de Venix |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Organizador y administrador de la [World Cup](/wiki/Tournaments#world-cups-oficiales) |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Divulgación de [artistas destacados](/wiki/People/Featured_Artists), secretario de la [World Cup](/wiki/Tournaments#world-cups-oficiales) |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | Desarrollador de osu!, soporte técnico |
@@ -39,11 +39,12 @@ Las personas que se enumeran a continuación son el núcleo del **osu! team** y 
 | ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | Desarrollador de osu!web |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [Moderador](/wiki/People/Global_Moderation_Team), asesor de la escena de modding y mapping |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Anfitrión del [canal de YouTube osu!](https://www.youtube.com/@osugame), organizador del [Mappers' Guild](/wiki/Community/Mappers_Guild), divulgación de [artistas destacados](/wiki/People/Featured_Artists) |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Líder del [NAT](/wiki/People/Nomination_Assessment_Team) |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Asesor de la escena de modding y mapping |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [Moderador](/wiki/People/Global_Moderation_Team), [mantenedor de la wiki](/wiki/People/osu!_wiki_maintainers) |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Encargado general |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | Desarrollador de osu!, amante de osu!mania, destructor de errores |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Desarrollador de osu! |
+| ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | Diseñador |
 | ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) | Desarrollador de la infraestructura de osu! |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Encargado general, asistente de torneos |
 | ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | Encargado general, barredor de escoba |

@@ -18,13 +18,10 @@ Các bài viết osu! wiki được lưu trữ trên [GitHub][osu_wiki]. Để �
 
 0. [Tạo](https://github.com/signup) một tài khoản GitHub.
 1. Mở [`ppy/osu-wiki`][osu_wiki] repository và bấm `Fork` ở góc phải trên để tạo ra một bản sao được điều khiển của wiki. Để quay lại fork của bạn, đi đến [`ppy/osu-wiki`][osu_wiki] và bấm lại `Fork`.
-
-  - Nếu bạn đã tạo ra một fork trước đó, đồng bộ nó dựa trên [Các gợi ý để làm công việc của bạn tốt hơn § Đồng bộ fork](/wiki/osu!_wiki/Contribution_guide/Best_practices#đồng-bộ-fork).
-
+   - Nếu bạn đã tạo ra một fork trước đó, đồng bộ nó dựa trên [Các gợi ý để làm công việc của bạn tốt hơn § Đồng bộ fork](/wiki/osu!_wiki/Contribution_guide/Best_practices#đồng-bộ-fork).
 2. Đọc [Các gợi ý để làm công việc của bạn tốt hơn § Chỉnh sửa](/wiki/osu!_wiki/Contribution_guide/Best_practices#chỉnh-sửa) và thực hiện những chỉnh sửa cần thiết. Mặc dù bạn có thể sử dụng ứng dụng nào mà bạn muốn, osu! wiki có hai hướng dẫn chi tiết cho 2 phần mềm:
-
-  - [GitHub chỉnh sửa trên web](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) (trực tuyến, không cần cài đặt).
-  - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) (ngoại tuyến, có nhiều tính năng hơn).
+   - [GitHub chỉnh sửa trên web](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) (trực tuyến, không cần cài đặt).
+   - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) (ngoại tuyến, có nhiều tính năng hơn).
 
 ## Tự kiểm tra {id=self-check}
 
@@ -44,11 +41,11 @@ Sau khi sự thay đổi đã được kiểm tra, thực hiện, và đẩy và
 
 1. Trong **fork của bạn** từ osu! wiki, tìm `master↓`, tìm branch có sự thay đổi của bạn.
 2. Bấm `Contribute↓` và bấm `Open pull request`.
-3. Điền thông tin dựa theo [Các gợi ý để làm công việc của bạn tốt hơn § Mở ra một yêu cầu (a pull request)](/wiki/osu!_wiki/Contribution_guide/Best_practices#mở-ra-một-yêu-cầu-(a-pull-request)) và bấm `Create pull request`.
+3. Điền thông tin dựa theo [Các gợi ý để làm công việc của bạn tốt hơn § Mở một pull request](/wiki/osu!_wiki/Contribution_guide/Best_practices#mở-một-pull-request)) và bấm `Create pull request`.
 
 ## Đánh giá {id=review}
 
-Mọi thay đổi osu! wiki đều được quản lý. Trong giai đoạn đó, cộng tác viên sẽ chỉ ra những gì có thể sai và cách để sửa chúng, có thể là sự hướng dẫn, hoặc là sửa thẳng đến pull request. GIống như với mọi ý kiến khác, bạn cần làm theo nó bằng cách [sửa sót theo đánh giá](/wiki/osu!_wiki/Contribution_guide/Best_practices#sửa-sót-theo-đánh-giá), hoặc giải thích vì sao bạn muốn giữ chúng theo cách của bạn.
+Mọi thay đổi osu! wiki đều được quản lý. Trong giai đoạn đó, cộng tác viên sẽ chỉ ra những gì có thể sai và cách để sửa chúng, có thể là sự hướng dẫn, hoặc là sửa thẳng đến pull request. GIống như với mọi ý kiến khác, bạn cần làm theo nó bằng cách [chỉnh sửa theo đánh giá](/wiki/osu!_wiki/Contribution_guide/Best_practices#chỉnh-sửa-theo-đánh-giá), hoặc giải thích vì sao bạn muốn giữ chúng theo cách của bạn.
 
 Nếu không ai quan tâm sau vài ngày, hãy thử:
 

@@ -6,7 +6,7 @@ no_native_review: true
 
 ¡Gracias por su interés en hacer la osu! wiki mejor! Este artículo cubre el proceso de contribución paso a paso. En caso de que esté familiarizado con GitHub, siéntase libre de seguir el flujo de trabajo de rama de función común para proponer cambios y salte a la sección de [autocomprobación](#self-check).
 
-No se espera que los nuevos colaboradores estén familiarizados con GitHub o [git](https://git-scm.com/), ya que son herramientas diseñadas principalmente para desarrolladores. No se preocupe si no hace algo bien la primera vez, un [mantenedor de la wiki](/wiki/People/osu!_wiki_maintainers) lo guiará en la dirección correcta o lo arreglará por usted.
+No se espera que los nuevos contribuidores estén familiarizados con GitHub o [git](https://git-scm.com/), ya que son herramientas diseñadas principalmente para desarrolladores. No se preocupe si no hace algo bien la primera vez, un [mantenedor de la wiki](/wiki/People/osu!_wiki_maintainers) lo guiará en la dirección correcta o lo arreglará por usted.
 
 En caso de necesitar consejos durante alguna etapa, no dudes en preguntar en el canal `#osu-wiki` del [servidor de Discord osu!](/wiki/Community/osu!_Discord_server).
 
@@ -22,13 +22,10 @@ Los artículos de la osu! wiki se almacenan en [GitHub][osu_wiki]. Para contribu
 
 0. [Cree](https://github.com/signup) una cuenta de GitHub.
 1. Abra el repositorio [`ppy/osu-wiki`][osu_wiki] y haga clic en `Fork` en la esquina superior derecha para hacer una copia controlada del wiki. Para volver a tu bifurcación, ve a [`ppy/osu-wiki`][osu_wiki] y presiona `Fork` nuevamente.
-
-  - Si creó una bifurcación hace algún tiempo, sincronícela de acuerdo con [Buenas prácticas § Sincronizar la bifurcación](/wiki/osu!_wiki/Contribution_guide/Best_practices#sincronizar-la-bifurcación).
-
+   - Si creó una bifurcación hace algún tiempo, sincronícela de acuerdo con [Buenas prácticas § Sincronizar la bifurcación](/wiki/osu!_wiki/Contribution_guide/Best_practices#sincronizar-la-bifurcación).
 2. Lea [Buenas prácticas § Realizar cambios](/wiki/osu!_wiki/Contribution_guide/Best_practices#hacer-cambios) y realiza las ediciones necesarias. Si bien es libre de usar cualquier aplicación de su elección, la osu! wiki tiene instrucciones detalladas sobre dos flujos de trabajo:
-
-  - [Editor basado en web de GitHub](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) (en línea, no requiere instalación).
-  - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) (fuera de línea, ofrece más control).
+   - [Editor basado en web de GitHub](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) (en línea, no requiere instalación).
+   - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) (fuera de línea, ofrece más control).
 
 ## Autocomprobación {id=self-check}
 

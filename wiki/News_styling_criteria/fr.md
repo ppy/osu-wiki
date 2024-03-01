@@ -1,5 +1,7 @@
 ---
 no_native_review_since: 1bf5b747eb7cc330b7bed4195c7119e904282211 Doryan
+outdated_translation: true
+outdated_since: 0b17e730706bd653e8092be92c75b0e1d83e6a1f
 ---
 
 # Critères de style des news
@@ -82,12 +84,12 @@ Contenu
 L'utilisation de Markdown est couverte par les [critères de style des articles](/wiki/Article_styling_criteria), mais les points suivants concernent spécifiquement les articles de news :
 
 - Le niveau de rubrique 1 (`#`), correspondant à un titre, ne doit pas être utilisé, car le titre est fourni par la page de garde en tête de l'article.
-- Les [Infoboxes](/wiki/Article_styling_criteria/Formatting#infoboxes) et les [notes de bas de page](/wiki/Article_styling_criteria/Formatting#footnotes) ne sont pas pris en charge.
+- Les [Infoboxes](/wiki/Article_styling_criteria/Formatting#infoboxes) et les [notes de bas de page](/wiki/Article_styling_criteria/Formatting#notes-de-bas-de-page) ne sont pas pris en charge.
 - [L'image de la bannière](#bannières) ne doit pas contenir de texte alternatif, c'est-à-dire du texte à l'intérieur des crochets d'un lien d'image markdown (`![alt text](image.png)`).
 
 #### Images
 
-*Pour les normes de format et de qualité des images, voir : [Critères de style des articles § Formats et qualité](/wiki/Article_styling_criteria/Formatting#formats-and-quality)*
+*Pour les normes de format et de qualité des images, voir : [Critères de style des articles § Formats et qualité](/wiki/Article_styling_criteria/Formatting#formats-et-qualité)*
 
 ILes images associées aux articles doivent être hébergées sur les serveurs d'osu! (par exemple `assets.ppy.sh`) ou être placées dans le dépôt GitHub `osu-wiki`.
 

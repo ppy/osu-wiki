@@ -374,7 +374,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Saturday, March 26, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **New Zealand** ::{ flag=NZ }:: | **5** | 2 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/99114582) |
 | Portugal ::{ flag=PT }:: | 4 | **5** | ::{ flag=SG }:: **Singapore** | [#1](https://osu.ppy.sh/community/matches/99117585) |
@@ -386,7 +386,7 @@ Saturday, March 26, 2022
 
 Sunday, March 27, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | United States ::{ flag=US }:: | 4 | **5** | ::{ flag=AU }:: **Australia** | [#1](https://osu.ppy.sh/community/matches/99144573) |
 | **Hong Kong** ::{ flag=HK }:: | **5** | 1 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/99155883) |
@@ -404,7 +404,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Saturday, March 19, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Chile** ::{ flag=CL }:: | **5** | 2 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/98886392) |
 | **Malaysia** ::{ flag=MY }:: | **5** | 1 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/98889890) |
@@ -413,7 +413,7 @@ Saturday, March 19, 2022
 
 Sunday, March 20, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Brazil** ::{ flag=BR }:: | **5** | 0 | ::{ flag=NZ }:: New Zealand | [#1](https://osu.ppy.sh/community/matches/98911287) |
 | **South Korea** ::{ flag=KR }:: | **5** | 0 | ::{ flag=MX }:: Mexico | [#1](https://osu.ppy.sh/community/matches/98916980) |
