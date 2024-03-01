@@ -107,7 +107,7 @@ The GB Cup 2024 Spring is run by Team GB and various community members.
 | Group | Player's 4K pp |
 | :-: | :-- |
 | EX | 9,500 and above |
-| S | 7,000–8,999 |
+| S | 7,000–9,499 |
 | A | 4,500–6,999 |
 | B | 0–4,499 |
 
