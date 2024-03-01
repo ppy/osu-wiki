@@ -11,7 +11,7 @@ Bemærk at sange med eksplicit indhold er [omfattet af andre regler](/wiki/Rules
 
 ## Hvad klassificeres som "meget politisk" indhold?
 
-I interesserne af, at et spil, der handler om rytme, udelukkende handler om rytme, og i overensstemmelse med [fællesskabsregel](/wiki/Rules#community-rules) #3, er indhold, der er anset for overdrevent politisk af administrationen forbudt.
+I interesserne af, at et spil, der handler om rytme, udelukkende handler om rytme, og i overensstemmelse med [fællesskabsregel](/wiki/Rules#community-rules) #3, er indhold, der anses som overdrevent politisk af administrationen forbudt.
 
 Vi holder os ikke til en bestemt "ende" af et politisk spektrum — osu! er strengt upolitisk, og vi vil have, at folk nyder sig, ikke at de starter fejder eller skænderier om politik.
 
@@ -19,7 +19,7 @@ Vi holder os ikke til en bestemt "ende" af et politisk spektrum — osu! er stre
 
 Hvert map, der indeholder en forbudt sang, bliver fjernet fra hjemmesiden.
 
-Hver gang, en af dine indsendelser bliver fjernet, får du en forklaring af det medlem af [Nomination Assessment Teamet](/wiki/People/Nomination_Assessment_Team) (NAT) eller [Global Moderation Teamet](/wiki/People/Global_Moderation_Team) (GMT), der er ansvarlig for fjernelsen, sammen med en begrundelse for fjernelsen.
+Hver gang en af dine indsendelser bliver fjernet, får du en forklaring af det medlem af [Nomination Assessment Teamet](/wiki/People/Nomination_Assessment_Team) (NAT) eller [Global Moderation Teamet](/wiki/People/Global_Moderation_Team) (GMT), der er ansvarlig for fjernelsen, sammen med en begrundelse for fjernelsen.
 
 Du kan bestride det med dem gennem direkte beskeder hvis du vil, eller spørge andre om deres meninger for at begrunde dit påstand om sangens egnethed. Hvis I stadig ikke kan enes om, hvorvidt sangen er passende, kan dit påstand eskaleres til en afstemning af de nuværende NAT-medlemmer, der kollektivt beslutter hvorvidt sangen er acceptabel eller ej.
 
