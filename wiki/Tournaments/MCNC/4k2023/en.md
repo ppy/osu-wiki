@@ -32,7 +32,7 @@ The **osu!mania 4K Chinese National Cup 2023** (***MCNC 4K 2023***) was a countr
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, Profile Banner, CNY 1，500, 48% of the donated prize pool, 4 months of osu!supporter |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, Profile Banner, CNY 1,500, 48% of the donated prize pool, 4 months of osu!supporter |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Profile Banner, CNY 1,000, 32% of the donated prize pool, 2 months of osu!supporter |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Profile Banner, CNY 600, 20% of the donated prize pool, 1 months of osu!supporter |
 | 4th-32nd | CNY 30 |
@@ -61,7 +61,7 @@ The osu!mania 4K Chinese National Cup 2023 was run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1763748)
 - [Livestream](https://live.bilibili.com/2996250)
 - [Discord Server](https://discord.gg/uBHK5vq)
-- [Challonge bracket](https://challonge.com/MCNC4k2023)
+- [Challonge bracket](https://challonge.com/MCNC4K2023)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSfNzJ-lyqsLIBMQ8hFZyuF1Rjh9IuOG09YcTmEgpZnDbCXD21iPKQpMmDk2M9oyKT5U41fiuKJk0u_/pubhtml)**
 
 ## Participants
@@ -358,7 +358,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-Detailed statistics for this round can be found [here]().
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSORZgII9p6oC-hRNHoAl630Py18_NTxw1hHGHxwYdzlUvaF1l9MP2nJxrFJJ2_hoI1BgNTpZEww6Lq/pubhtml).
 
 Saturday, 19 August 2023:
 
@@ -375,7 +375,7 @@ Friday, 25 August 2023:
 
 ### Finals
 
-Detailed statistics for this round can be found [here]().
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTdrxWq9GidLEVF_kIxRiH1CFnCDzBCPeHR39ynTCna9gaDT4WmSAZTD4xLqOTjG2GBMvDb-rVR7E4H/pubhtml).
 
 Friday, 11 August 2023:
 
@@ -393,7 +393,7 @@ Saturday, 12 August 2023:
 
 ### Semifinals
 
-Detailed statistics for this round can be found [here]().
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSbtbVNysHYphKGFYCoKQfjC_jMn3GIXcrMcjc1e-EMLecO4Z9xkAVvRUUATRnfG7HkGI8UB52j9BQO/pubhtml).
 
 Friday, 4 August 2023
 
@@ -420,7 +420,7 @@ Sunday, 6 August 2023:
 
 ### Quarterfinals
 
-Detailed statistics for this round can be found [here]().
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSteJou857L3zrpf6D1jPp7KSC5RzqmIkmfqSSnNealvI_pCWE0awN-nOBXDWF2Ow0OJTWU7RHsad4K/pubhtml).
 
 Wednesday, 26 July 2023
 
@@ -460,7 +460,7 @@ Sunday, 30 July 2023:
 
 ### Round of 16
 
-Detailed statistics for this round can be found [here]().
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQX_9G2VS-gJEzNgwxXCXPffSP_85ciEfcy_9pHWO1VSK70P024TPMpv-YcvHv9LVdtyy2YltR7Yb1-/pubhtml).
 
 Friday, 21 July 2023:
 
@@ -495,7 +495,7 @@ Sunday, 23 July 2023:
 
 ### Round of 32
 
-Detailed statistics for this round can be found [here]().
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSWUx4C8yxhLyV3FuWKO5vEgqOSfhVSyYBZbgjt9eye8zlCRTq9MrtitK8L2XwWkUi0VKMaR3AH_cCG/pubhtml).
 
 Friday, 14 July 2023:
 
@@ -530,7 +530,7 @@ Friday, 14 July 2023:
 
 ### Play-Off 2
 
-Detailed statistics for this round can be found [here]().
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQim1yM_W1H2T6K4_tWtRl7iHwx5eVdNNk1URKE8P4biZHXbL_pEGyq5tqiTEIvNpee5ia6qAT2KqUd/pubhtml).
 
 Thursday, 6 July 2023:
 
@@ -578,7 +578,7 @@ Sunday, 9 July 2023:
 
 ### Play-Off 1
 
-Detailed statistics for this round can be found [here]().
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vS270o_IjKPAKEnELJAu9V_j3yP0PCi6idPsUJOLu9oqmIj8-kZBqh9eGGK34IGRC9j_QWNLcoIkNpj/pubhtml).
 
 Thursday, 29 June 2023:
 
@@ -625,7 +625,7 @@ Sunday, 2 July 2023:
 
 ### Qualifiers
 
-The final standings for the Qualifiers can be found at the following [spreadsheet](). Detailed statistics for this round can be found [here]().
+The final standings and detailed statistics for the Qualifiers can be found at the following [spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSmiBvTVI2-DisOfhgEniUxL9ceFnAuy8Dmun9Ofo1t3PHmBab8wKEgq5iCMg3-2CJrBem7d9ePyLwv/pubhtml).
 
 ## Ruleset
 
@@ -727,7 +727,7 @@ The final standings for the Qualifiers can be found at the following [spreadshee
 ### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-   - Room settings are `Game mode: osu!mania`, `Team mode: Head-to-head`, `Win Condition: "ScoreV2"`. Room name must be `MCNC7K2023: ({Red}) vs ({Blue})`.
+   - Room settings are `Game mode: osu!mania`, `Team mode: Head-to-head`, `Win Condition: "ScoreV2"`. Room name must be `MCNC4K2023: ({Red}) vs ({Blue})`.
    - The player mentioned first in the room name must be in the red team, and the player mentioned second in the room name must be in the blue team.
 2. Each player can ban one beatmap from the mappool. These beatmaps cannot be picked by any player during the entire match.
 3. Beatmap selection will alternate between each player selecting a beatmap in the mappool.
@@ -758,5 +758,5 @@ The final standings for the Qualifiers can be found at the following [spreadshee
 ### Scheduling instructions
 
 1. Each stage will be held on a single weekend (including Friday). It can be held on weekdays if both players require it, but this is not recommended.
-2. The schedule is decided by the players discussing with each other. All match times must be communicated to the tournament management two days prior to the actual match. If not informed, the tournament management will decide the match time at their own discretion. The daily schedule will be released a day beforehand.
-3. If a player needs to make a change after deciding the match time, rescheduling can only be considered with the consent of both players, and the scheduled time must be set to at least one day after informing the tournament management.
+2. The schedule is decided by the Tournament Management. The daily schedule will be released every Tuesday before.
+3. If player need to make a temporary change after decide the game time. Rescheduling can only be considered with the consent of both players, and the scheduled time must be every Thursday before.
