@@ -13,7 +13,7 @@ Bemærk at sange med eksplicit indhold er [omfattet af andre regler](/wiki/Rules
 
 I interesserne af, at et spil, der handler om rytme, udelukkende handler om rytme, og i overensstemmelse med [fællesskabsregel](/wiki/Rules#community-rules) #3, er indhold, der anses som overdrevent politisk af administrationen forbudt.
 
-Vi holder os ikke til en bestemt "ende" af et politisk spektrum — osu! er strengt upolitisk, og vi vil have, at folk nyder sig, ikke at de starter fejder eller skænderier om politik.
+Vi holder os ikke til en bestemt "ende" af et politisk spektrum — osu! er strengt upolitisk, og vi vil have, at folk nyder sig, ikke at de skal slås og skændes om politik.
 
 ## Hvad sker der, hvis min sang ikke er okay?
 
@@ -21,6 +21,6 @@ Hvert map, der indeholder en forbudt sang, bliver fjernet fra hjemmesiden.
 
 Hver gang en af dine indsendelser bliver fjernet, får du en forklaring af det medlem af [Nomination Assessment Teamet](/wiki/People/Nomination_Assessment_Team) (NAT) eller [Global Moderation Teamet](/wiki/People/Global_Moderation_Team) (GMT), der er ansvarlig for fjernelsen, sammen med en begrundelse for fjernelsen.
 
-Du kan bestride det med dem gennem direkte beskeder hvis du vil, eller spørge andre om deres meninger for at begrunde dit påstand om sangens egnethed. Hvis I stadig ikke kan enes om, hvorvidt sangen er passende, kan dit påstand eskaleres til en afstemning af de nuværende NAT-medlemmer, der kollektivt beslutter hvorvidt sangen er acceptabel eller ej.
+Du kan bestride beslutningen med dem gennem direkte beskeder hvis du vil, eller spørge andre om deres meninger for at begrunde din påstand om sangens egnethed. Hvis I stadig ikke kan enes om, hvorvidt sangen er passende, kan din påstand eskaleres til en afstemning af de nuværende NAT-medlemmer, der kollektivt beslutter hvorvidt sangen er acceptabel eller ej.
 
-Alle brugere får **en indsendelses spillerum** før straffe uddeles, på grund af denne regels iboende usikkerhed, undtaget meget upassende sange. Efter denne tolerance får brugere, der gentagne gange uploader upassende sange, en 42-time lang [mute](/wiki/Silence), sammen med at deres indsendelse bliver fjernet.
+Med mindre indsendelsen er meget upassende, så vil **en brugers første fjernelse ikke forårsage nogen straf** for brugeren, grundet den naturlige usikkerhed der er i beslutningen om fjernelse. Herefter vil en bruger, der gentagne gange uploader upassende sange, en 42-time lang [mute](/wiki/Silence), sammen med at deres indsendelse bliver fjernet.
