@@ -362,13 +362,13 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Saturday, 19 August 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Quotient GD** | **7** | 3 | [Crz]sunnyxxy | [#1](https://osu.ppy.sh/community/matches/110065102) |
 
 Friday, 25 August 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | [GB]nyasun | 5 | **7** | **Quotient GD** | [#1](https://osu.ppy.sh/community/matches/110156725) |
 | **Quotient GD** | **7** | 5 | [GB]nyasun | [#1](https://osu.ppy.sh/community/matches/110157717) |
@@ -379,13 +379,13 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Friday, 11 August 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | [GB]Mafufu | 1 | **7** | **[Crz]Caicium** | [#1](https://osu.ppy.sh/community/matches/109941331) |
 
 Saturday, 12 August 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | tyrcs | 1 | **7** | **[Crz]sunnyxxy** | [#1](https://osu.ppy.sh/community/matches/109956541) |
 | Quotient GD | 4 | **7** | **[GB]nyasun** | [#1](https://osu.ppy.sh/community/matches/109957651) |
@@ -397,26 +397,26 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Friday, 4 August 2023
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [Crz]sunnyxxy | 7 | 4 | [Crz]Xinyi2016 | [#1](https://osu.ppy.sh/community/matches/109833088) |
-| [Crz]Nickname | 4 | 7 | [Crz]Reimu | [#1](https://osu.ppy.sh/community/matches/109833316) |
-| [Crz]Caicium | 0 | FF | Kuiiiiteeee | [#1](https://osu.ppy.sh/community/matches/109833479) |
+| **[Crz]sunnyxxy** | **7** | 4 | [Crz]Xinyi2016 | [#1](https://osu.ppy.sh/community/matches/109833088) |
+| [Crz]Nickname | 4 | **7** | **[Crz]Reimu** | [#1](https://osu.ppy.sh/community/matches/109833316) |
+| **[Crz]Caicium** | **0** | FF | Kuiiiiteeee | [#1](https://osu.ppy.sh/community/matches/109833479) |
 
 Saturday, 5 August 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Croatian songs | 7 | 3 | [GB]mmttyy233 | [#1](https://osu.ppy.sh/community/matches/109846267) |
-| [GB]nyasun | 7 | 5 | tyrcs | [#1](https://osu.ppy.sh/community/matches/109848953) |
-| Quotient GD | 7 | 2 | [GB]Mafufu | [#1](https://osu.ppy.sh/community/matches/109849260) |
+| **Croatian songs** | **7** | 3 | [GB]mmttyy233 | [#1](https://osu.ppy.sh/community/matches/109846267) |
+| **[GB]nyasun** | **7** | 5 | tyrcs | [#1](https://osu.ppy.sh/community/matches/109848953) |
+| **Quotient GD** | **7** | 2 | [GB]Mafufu | [#1](https://osu.ppy.sh/community/matches/109849260) |
 
 Sunday, 6 August 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [Crz]sunnyxxy | 7 | 3 | [Crz]Reimu | [#1](https://osu.ppy.sh/community/matches/109865608) |
-| Croatian songs | 3 | 7 | [Crz]Caicium | [#1](https://osu.ppy.sh/community/matches/109865961) |
+| **[Crz]sunnyxxy** | **7** | 3 | [Crz]Reimu | [#1](https://osu.ppy.sh/community/matches/109865608) |
+| Croatian songs | 3 | **7** | **[Crz]Caicium** | [#1](https://osu.ppy.sh/community/matches/109865961) |
 
 ### Quarterfinals
 
@@ -424,39 +424,39 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Wednesday, 26 July 2023
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Mantozi | 6 | 3 | [GB]yobrevelc | [#1](https://osu.ppy.sh/community/matches/109687098) |
+| **Mantozi** | **6** | 3 | [GB]yobrevelc | [#1](https://osu.ppy.sh/community/matches/109687098) |
 
 Friday, 28 July 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [GB]mmttyy233 | 6 | 0 | ExNeko | [#1](https://osu.ppy.sh/community/matches/109716793) |
-| Kuiiiiteeee | 6 | 3 | [GB]DiGua | [#1](https://osu.ppy.sh/community/matches/109717704) |
-| [GB]Reisen | 4 | 6 | chana | [#1](https://osu.ppy.sh/community/matches/109719599) |
-| [GB]GanyuAngel | FF | 0 | [Paw]FIood | [#1](https://osu.ppy.sh/community/matches/109722540) |
-| [Crz]Reimu | 0 | FF | [Crz]bubu | [#1](https://osu.ppy.sh/community/matches/109719567) |.
+| **[GB]mmttyy233** | **6** | 0 | ExNeko | [#1](https://osu.ppy.sh/community/matches/109716793) |
+| **Kuiiiiteeee** | **6** | 3 | [GB]DiGua | [#1](https://osu.ppy.sh/community/matches/109717704) |
+| [GB]Reisen | 4 | **6** | **chana** | [#1](https://osu.ppy.sh/community/matches/109719599) |
+| [GB]GanyuAngel | FF | **0** | **[Paw]FIood** | [#1](https://osu.ppy.sh/community/matches/109722540) |
+| **[Crz]Reimu** | **0** | FF | [Crz]bubu | [#1](https://osu.ppy.sh/community/matches/109719567) |
 
 Saturday, 29 July 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Mantozi | 4 | 6 | [Crz]Reimu | [#1](https://osu.ppy.sh/community/matches/109732984) |
-| Miyes | 6 | 2 | [GB]Sherweifa | [#1](https://osu.ppy.sh/community/matches/109733531) |
-| [Crz]Xinyi2016 | 6 | 1 | [GB]ParasolTree | [#1](https://osu.ppy.sh/community/matches/109733877) |
-| Kuiiiiteeee | 0 | FF | chana | [#1](https://osu.ppy.sh/community/matches/109735966) |
-| [Paw]FIood | 5 | 6 | [GB]mmttyy233 | [#1](https://osu.ppy.sh/community/matches/109736334) |
-| [Crz]Caicium | 4 | 6 | [GB]nyasun | [#1](https://osu.ppy.sh/community/matches/109736877) |
-| Quotient GD | 6 | 1 | [Crz]Nickname | [#1](https://osu.ppy.sh/community/matches/109737648) |
+| Mantozi | 4 | **6** | **[Crz]Reimu** | [#1](https://osu.ppy.sh/community/matches/109732984) |
+| **Miyes** | **6** | 2 | [GB]Sherweifa | [#1](https://osu.ppy.sh/community/matches/109733531) |
+| **[Crz]Xinyi2016** | **6** | 1 | [GB]ParasolTree | [#1](https://osu.ppy.sh/community/matches/109733877) |
+| **Kuiiiiteeee** | **0** | FF | chana | [#1](https://osu.ppy.sh/community/matches/109735966) |
+| [Paw]FIood | 5 | **6** | **[GB]mmttyy233** | [#1](https://osu.ppy.sh/community/matches/109736334) |
+| [Crz]Caicium | 4 | **6** | **[GB]nyasun** | [#1](https://osu.ppy.sh/community/matches/109736877) |
+| **Quotient GD** | **6** | 1 | [Crz]Nickname | [#1](https://osu.ppy.sh/community/matches/109737648) |
 
 Sunday, 30 July 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [Crz]sunnyxxy | 3 | 6 | [GB]Mafufu | [#1](https://osu.ppy.sh/community/matches/109750924) |
-| [Crz]Xinyi2016 | 6 | 3 | Miyes | [#1](https://osu.ppy.sh/community/matches/109751967) |
-| Croatian songs | 3 | 6 | tyrcs | [#1](https://osu.ppy.sh/community/matches/109754284) |
+| [Crz]sunnyxxy | 3 | **6** | **[GB]Mafufu** | [#1](https://osu.ppy.sh/community/matches/109750924) |
+| **[Crz]Xinyi2016** | **6** | 3 | Miyes | [#1](https://osu.ppy.sh/community/matches/109751967) |
+| Croatian songs | 3 | **6** | **tyrcs** | [#1](https://osu.ppy.sh/community/matches/109754284) |
 
 ### Round of 16
 
@@ -464,34 +464,34 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Friday, 21 July 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Lucky Clover | FF | 0 | [GB]DiGua | [#1](https://osu.ppy.sh/community/matches/109604600) |
-| [GB]Mafufu | 6 | 1 | [GB]GanyuAngel | [#1](https://osu.ppy.sh/community/matches/109605194) |
-| [Crz]bubu | 0 | FF | N3k0ha_5h12uku | [#1](https://osu.ppy.sh/community/matches/109605937) |
+| Lucky Clover | FF | **0** | **[GB]DiGua** | [#1](https://osu.ppy.sh/community/matches/109604600) |
+| **[GB]Mafufu** | **6** | 1 | [GB]GanyuAngel | [#1](https://osu.ppy.sh/community/matches/109605194) |
+| **[Crz]bubu** | **0** | FF | N3k0ha_5h12uku | [#1](https://osu.ppy.sh/community/matches/109605937) |
 
 Saturday, 22 July 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| ExNeko | 6 | 4 | SilentParleHorn | [#1](https://osu.ppy.sh/community/matches/109618491) |
-| tyrcs | 6 | 2 | [Crz]Xinyi2016 | [#1](https://osu.ppy.sh/community/matches/109619010) |
-| [GB]Sherweifa | 6 | 2 | Echo_XF | [#1](https://osu.ppy.sh/community/matches/109621366) |
-| Quotient GD | 6 | 4 | [GB]Reisen | [#1](https://osu.ppy.sh/community/matches/109621349) |
-| Kuiiiiteeee | 4 | 6 | [Crz]Nickname | [#1](https://osu.ppy.sh/community/matches/109622197) |
-| [GB]nyasun | 6 | 3 | Mantozi | [#1](https://osu.ppy.sh/community/matches/109622415) |
-| [GB]yobrevelc | 6 | 1 | 9961 | [#1](https://osu.ppy.sh/community/matches/109623302) |
+| **ExNeko** | **6** | 4 | SilentParleHorn | [#1](https://osu.ppy.sh/community/matches/109618491) |
+| **tyrcs** | **6** | 2 | [Crz]Xinyi2016 | [#1](https://osu.ppy.sh/community/matches/109619010) |
+| **[GB]Sherweifa** | **6** | 2 | Echo_XF | [#1](https://osu.ppy.sh/community/matches/109621366) |
+| **Quotient GD** | **6** | 4 | [GB]Reisen | [#1](https://osu.ppy.sh/community/matches/109621349) |
+| Kuiiiiteeee | 4 | **6** | **[Crz]Nickname** | [#1](https://osu.ppy.sh/community/matches/109622197) |
+| **[GB]nyasun** | **6** | 3 | Mantozi | [#1](https://osu.ppy.sh/community/matches/109622415) |
+| **[GB]yobrevelc** | **6** | 1 | 9961 | [#1](https://osu.ppy.sh/community/matches/109623302) |
 
 Sunday, 23 July 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [GB]Takeru | FF | 0 | chana | [#1](https://osu.ppy.sh/community/matches/109634610) |
-| DC2_727 | 1 | 6 | [GB]ParasolTree | [#1](https://osu.ppy.sh/community/matches/109636577) |
-| Croatian songs | 6 | 0 | Miyes | [#1](https://osu.ppy.sh/community/matches/109637099) |
-| [Paw]FIood | 6 | 1 | [ Classic ] | [#1](https://osu.ppy.sh/community/matches/109637871) |
-| [Crz]sunnyxxy | 6 | 1 | [GB]mmttyy233 | [#1](https://osu.ppy.sh/community/matches/109638687) |
-| [Crz]Caicium | 6 | 5 | [Crz]Reimu | [#1](https://osu.ppy.sh/community/matches/109640407) |
+| [GB]Takeru | FF | **0** | **chana** | [#1](https://osu.ppy.sh/community/matches/109634610) |
+| DC2_727 | 1 | **6** | **[GB]ParasolTree** | [#1](https://osu.ppy.sh/community/matches/109636577) |
+| **Croatian songs** | **6** | 0 | Miyes | [#1](https://osu.ppy.sh/community/matches/109637099) |
+| **[Paw]FIood** | **6** | 1 | [ Classic ] | [#1](https://osu.ppy.sh/community/matches/109637871) |
+| **[Crz]sunnyxxy** | **6** | 1 | [GB]mmttyy233 | [#1](https://osu.ppy.sh/community/matches/109638687) |
+| **[Crz]Caicium** | **6** | 5 | [Crz]Reimu | [#1](https://osu.ppy.sh/community/matches/109640407) |
 
 ### Round of 32
 
@@ -499,34 +499,34 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Friday, 14 July 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [GB]nyasun | 5 | 0 | ExNeko | [#1](https://osu.ppy.sh/community/matches/109488094) |
-| Miyes | 5 | 2 | [GB]DiGua | [#1](https://osu.ppy.sh/community/matches/109487999) |
-| Quotient GD | 5 | 0 | DC2_727 | [#1](https://osu.ppy.sh/community/matches/109488813) |
+| **[GB]nyasun** | **5** | 0 | ExNeko | [#1](https://osu.ppy.sh/community/matches/109488094) |
+| **Miyes** | **5** | 2 | [GB]DiGua | [#1](https://osu.ppy.sh/community/matches/109487999) |
+| **Quotient GD** | **5** | 0 | DC2_727 | [#1](https://osu.ppy.sh/community/matches/109488813) |
 
-Friday, 14 July 2023:
+Saturday, 15 July 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [GB]Mafufu | 5 | 1 | [Crz]bubu | [#1](https://osu.ppy.sh/community/matches/109501970) |
-| Mantozi | 5 | 1 | SilentParleHorn | [#1](https://osu.ppy.sh/community/matches/109502585) |
-| Kuiiiiteeee | 5 | 1 | [GB]Sherweifa | [#1](https://osu.ppy.sh/community/matches/109503032) |
-| [Crz]sunnyxxy | 5 | 1 | [GB]yobrevelc | [#1](https://osu.ppy.sh/community/matches/109503541) |
-| [Crz]Caicium | 5 | 3 | [Paw]FIood | [#1](https://osu.ppy.sh/community/matches/109504615) |
-| [GB]ParasolTree | 3 | 5 | [GB]Reisen | [#1](https://osu.ppy.sh/community/matches/109505751) |
-| [Crz]Nickname | 5 | 0 | Echo_XF | [#1](https://osu.ppy.sh/community/matches/109506279) |
-| [GB]GanyuAngel | 5 | 0 | N3k0ha_5h12uku | [#1](https://osu.ppy.sh/community/matches/109507559) |
+| **[GB]Mafufu** | **5** | 1 | [Crz]bubu | [#1](https://osu.ppy.sh/community/matches/109501970) |
+| **Mantozi** | **5** | 1 | SilentParleHorn | [#1](https://osu.ppy.sh/community/matches/109502585) |
+| **Kuiiiiteeee** | **5** | 1 | [GB]Sherweifa | [#1](https://osu.ppy.sh/community/matches/109503032) |
+| **[Crz]sunnyxxy** | **5** | 1 | [GB]yobrevelc | [#1](https://osu.ppy.sh/community/matches/109503541) |
+| **[Crz]Caicium** | **5** | 3 | [Paw]FIood | [#1](https://osu.ppy.sh/community/matches/109504615) |
+| [GB]ParasolTree | 3 | **5** | **[GB]Reisen** | [#1](https://osu.ppy.sh/community/matches/109505751) |
+| **[Crz]Nickname** | **5** | 0 | Echo_XF | [#1](https://osu.ppy.sh/community/matches/109506279) |
+| **[GB]GanyuAngel** | **5** | 0 | N3k0ha_5h12uku | [#1](https://osu.ppy.sh/community/matches/109507559) |
 
-Friday, 14 July 2023:
+Sunday, 16 July 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| tyrcs | 5 | 0 | [GB]Takeru | [#1](https://osu.ppy.sh/community/matches/109519686) |
-| [GB]mmttyy233 | 5 | 4 | 9961 | [#1](https://osu.ppy.sh/community/matches/109520838) |
-| [Crz]Xinyi2016 | 5 | 0 | chana | [#1](https://osu.ppy.sh/community/matches/109520743) |
-| Croatian songs | 0 | FF | Lucky Clover | [#1](https://osu.ppy.sh/community/matches/109521846) |
-| [ Classic ] | 1 | 5 | [Crz]Reimu | [#1](https://osu.ppy.sh/community/matches/109525661) |
+| **tyrcs** | **5** | 0 | [GB]Takeru | [#1](https://osu.ppy.sh/community/matches/109519686) |
+| **[GB]mmttyy233** | **5** | 4 | 9961 | [#1](https://osu.ppy.sh/community/matches/109520838) |
+| **[Crz]Xinyi2016** | **5** | 0 | chana | [#1](https://osu.ppy.sh/community/matches/109520743) |
+| **Croatian songs** | **0** | FF | Lucky Clover | [#1](https://osu.ppy.sh/community/matches/109521846) |
+| [ Classic ] | 1 | **5** | **[Crz]Reimu** | [#1](https://osu.ppy.sh/community/matches/109525661) |
 
 ### Play-Off 2
 
@@ -534,47 +534,47 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Thursday, 6 July 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| 9961 | 4 | 0 | Mitto | [#1](https://osu.ppy.sh/community/matches/109356786) |
-| [GB]Reisen | 4 | 0 | Lingyu114 | [#1](https://osu.ppy.sh/community/matches/109358439) |
+| **9961** | **4** | 0 | Mitto | [#1](https://osu.ppy.sh/community/matches/109356786) |
+| **[GB]Reisen** | **4** | 0 | Lingyu114 | [#1](https://osu.ppy.sh/community/matches/109358439) |
 
 Friday, 7 July 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [GB]DiGua | 4 | 0 | 2580697339 | [#1](https://osu.ppy.sh/community/matches/109373085) |
-| [GB]V1do | 2 | 4 | [GB]Takeru | [#1](https://osu.ppy.sh/community/matches/109373597) |
-| [Crz]bubu | 4 | 2 | [GB]ChickenGold | [#1](https://osu.ppy.sh/community/matches/109373565) |
-| [ Classic ] | 4 | 1 | [GB]r3uz | [#1](https://osu.ppy.sh/community/matches/109374225) |
-| Yurucawaii | FF | 0 | N3k0ha_5h12uku | [#1](https://osu.ppy.sh/community/matches/109375487) |
-| [Paw]FIood | 4 | 0 | Shenzouz | [#1](https://osu.ppy.sh/community/matches/109375068) |
+| **[GB]DiGua** | **4** | 0 | 2580697339 | [#1](https://osu.ppy.sh/community/matches/109373085) |
+| [GB]V1do | 2 | **4** | **[GB]Takeru** | [#1](https://osu.ppy.sh/community/matches/109373597) |
+| **[Crz]bubu** | **4** | 2 | [GB]ChickenGold | [#1](https://osu.ppy.sh/community/matches/109373565) |
+| **[ Classic ]** | **4** | 1 | [GB]r3uz | [#1](https://osu.ppy.sh/community/matches/109374225) |
+| Yurucawaii | FF | **0** | **N3k0ha_5h12uku** | [#1](https://osu.ppy.sh/community/matches/109375487) |
+| **[Paw]FIood** | **4** | 0 | Shenzouz | [#1](https://osu.ppy.sh/community/matches/109375068) |
 
 Saturday, 8 July 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| chana | 4 | 2 | HxcQ777 | [#1](https://osu.ppy.sh/community/matches/109386888) |
-| SilentParleHorn | 4 | 0 | MidRed | [#1](https://osu.ppy.sh/community/matches/109388101) |
-| [GB]yobrevelc | 4 | 1 | Elicccc | [#1](https://osu.ppy.sh/community/matches/109389136) |
-| Lucky Clover | 4 | 0 | - Xiaoluoli - | [#1](https://osu.ppy.sh/community/matches/109389164) |
-| [Crz]Xinyi2016 | 4 | 0 | Axium0w0 | [#1](https://osu.ppy.sh/community/matches/109389693) |
-| ExNeko | 4 | 1 | Nene Sakura | [#1](https://osu.ppy.sh/community/matches/109389713) |
-| Echo_XF | 4 | 1 | majesticlegend | [#1](https://osu.ppy.sh/community/matches/109390336) |
-| [GB]sherweifa | 4 | 2 | Alptraum | [#1](https://osu.ppy.sh/community/matches/109390353) |
-| Mantozi | 4 | 1 | _Yiiiii | [#1](https://osu.ppy.sh/community/matches/109391118) |
-| [Crz]Nickname | 4 | 3 | CygnusOz | [#1](https://osu.ppy.sh/community/matches/109392973) |
+| **chana** | **4** | 2 | HxcQ777 | [#1](https://osu.ppy.sh/community/matches/109386888) |
+| **SilentParleHorn** | **4** | 0 | MidRed | [#1](https://osu.ppy.sh/community/matches/109388101) |
+| **[GB]yobrevelc** | **4** | 1 | Elicccc | [#1](https://osu.ppy.sh/community/matches/109389136) |
+| **Lucky Clover** | **4** | 0 | - Xiaoluoli - | [#1](https://osu.ppy.sh/community/matches/109389164) |
+| **[Crz]Xinyi2016** | **4** | 0 | Axium0w0 | [#1](https://osu.ppy.sh/community/matches/109389693) |
+| **ExNeko** | **4** | 1 | Nene Sakura | [#1](https://osu.ppy.sh/community/matches/109389713) |
+| **Echo_XF** | **4** | 1 | majesticlegend | [#1](https://osu.ppy.sh/community/matches/109390336) |
+| **[GB]sherweifa** | **4** | 2 | Alptraum | [#1](https://osu.ppy.sh/community/matches/109390353) |
+| **Mantozi** | **4** | 1 | _Yiiiii | [#1](https://osu.ppy.sh/community/matches/109391118) |
+| **[Crz]Nickname** | **4** | 3 | CygnusOz | [#1](https://osu.ppy.sh/community/matches/109392973) |
 
 Sunday, 9 July 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [GB]GanyuAngel | 4 | 0 | quailty | [#1](https://osu.ppy.sh/community/matches/109404768) |
-| [GB]ParasolTree | 0 | FF | oDANg0 | [#1](https://osu.ppy.sh/community/matches/109406345) |
-| vanposen | 1 | 4 | DC2_727 | [#1](https://osu.ppy.sh/community/matches/109406328) |
-| Miyes | 4 | 1 | Molli | [#1](https://osu.ppy.sh/community/matches/109406966) |
-| [GB]mmttyy233 | 4 | 3 | TKYFree | [#1](https://osu.ppy.sh/community/matches/109407599) |
-| [Crz]Reimu | 4 | 1 | [Lily_White] | [#1](https://osu.ppy.sh/community/matches/109410107) |
+| **[GB]GanyuAngel** | **4** | 0 | quailty | [#1](https://osu.ppy.sh/community/matches/109404768) |
+| **[GB]ParasolTree** | **0** | FF | oDANg0 | [#1](https://osu.ppy.sh/community/matches/109406345) |
+| vanposen | 1 | **4** | **DC2_727** | [#1](https://osu.ppy.sh/community/matches/109406328) |
+| **Miyes** | **4** | 1 | Molli | [#1](https://osu.ppy.sh/community/matches/109406966) |
+| **[GB]mmttyy233** | **4** | 3 | TKYFree | [#1](https://osu.ppy.sh/community/matches/109407599) |
+| **[Crz]Reimu** | **4** | 1 | [Lily_White] | [#1](https://osu.ppy.sh/community/matches/109410107) |
 
 ### Play-Off 1
 
@@ -582,46 +582,46 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Thursday, 29 June 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [Lily_White] | 4 | 2 | NdAa1A0 | [#1](https://osu.ppy.sh/community/matches/109246633) |
+| **[Lily_White]** | **4** | 2 | NdAa1A0 | [#1](https://osu.ppy.sh/community/matches/109246633) |
 
 Friday, 30 June 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [GB]ChickenGold | 4 | 1 | qiufeng_xz | [#1](https://osu.ppy.sh/community/matches/109261151) |
-| - Xiaoluoli - | 4 | 1 | -YeLing- | [#1](https://osu.ppy.sh/community/matches/109261875) |
-| N3k0ha_5h12uku | 4 | 0 | AWMRone | [#1](https://osu.ppy.sh/community/matches/109263345) |
-| [GB]r3uz | 4 | 0 | Sakurada Shiro | [#1](https://osu.ppy.sh/community/matches/109263607) |
-| Carrot shreds | 3 | 4 | _Yiiiii | [#1](https://osu.ppy.sh/community/matches/109263477) |
-| Molli | 4 | 2 | beta dust | [#1](https://osu.ppy.sh/community/matches/109264222) |
+| **[GB]ChickenGold** | **4** | 1 | qiufeng_xz | [#1](https://osu.ppy.sh/community/matches/109261151) |
+| **- Xiaoluoli -** | **4** | 1 | -YeLing- | [#1](https://osu.ppy.sh/community/matches/109261875) |
+| **N3k0ha_5h12uku** | **4** | 0 | AWMRone | [#1](https://osu.ppy.sh/community/matches/109263345) |
+| **[GB]r3uz** | **4** | 0 | Sakurada Shiro | [#1](https://osu.ppy.sh/community/matches/109263607) |
+| Carrot shreds | 3 | **4** | **_Yiiiii** | [#1](https://osu.ppy.sh/community/matches/109263477) |
+| **Molli** | **4** | 2 | beta dust | [#1](https://osu.ppy.sh/community/matches/109264222) |
 
 Saturday, 1 July 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| 2580697339 | 4 | 1 | [GB]smhei | [#1](https://osu.ppy.sh/community/matches/109275501) |
-| majesticlegend | 4 | 0 | [GB]Cz | [#1](https://osu.ppy.sh/community/matches/109277051) |
-| Elicccc | 4 | 1 | Arietta- | [#1](https://osu.ppy.sh/community/matches/109277501) |
-| Mitto | 4 | 1 | Starfeather2007 | [#1](https://osu.ppy.sh/community/matches/109277482) |
-| DJ Sharpnel | 0 | 4 | Axium0w0 | [#1](https://osu.ppy.sh/community/matches/109278176) |
-| Alptraum | 4 | 0 | ainesegg | [#1](https://osu.ppy.sh/community/matches/109278752) |
-| Ymir131 | 1 | 4 | CygnusOz | [#1](https://osu.ppy.sh/community/matches/109278749) |
-| MidRed | 4 | 0 | xopezk | [#1](https://osu.ppy.sh/community/matches/109279890) |
-| LPL114514 | 2 | 4 | oDANg0 | [#1](https://osu.ppy.sh/community/matches/109280359) |
+| **2580697339** | **4** | 1 | [GB]smhei | [#1](https://osu.ppy.sh/community/matches/109275501) |
+| **majesticlegend** | **4** | 0 | [GB]Cz | [#1](https://osu.ppy.sh/community/matches/109277051) |
+| **Elicccc** | **4** | 1 | Arietta- | [#1](https://osu.ppy.sh/community/matches/109277501) |
+| **Mitto** | **4** | 1 | Starfeather2007 | [#1](https://osu.ppy.sh/community/matches/109277482) |
+| DJ Sharpnel | 0 | **4** | **Axium0w0** | [#1](https://osu.ppy.sh/community/matches/109278176) |
+| **Alptraum** | **4** | 0 | ainesegg | [#1](https://osu.ppy.sh/community/matches/109278752) |
+| Ymir131 | 1 | **4** | **CygnusOz** | [#1](https://osu.ppy.sh/community/matches/109278749) |
+| **MidRed** | **4** | 0 | xopezk | [#1](https://osu.ppy.sh/community/matches/109279890) |
+| LPL114514 | 2 | **4** | **oDANg0** | [#1](https://osu.ppy.sh/community/matches/109280359) |
 
 Sunday, 2 July 2023:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Shenzouz | 4 | 0 | luluxia | [#1](https://osu.ppy.sh/community/matches/109293002) |
-| [GB]Takeru | 4 | 3 | [GB]Aeracy_nya | [#1](https://osu.ppy.sh/community/matches/109293520) |
-| Kirchhoff123 | FF | 0 | Nene Sakura | [#1](https://osu.ppy.sh/community/matches/109294012) |
-| VanWilder | 2 | 4 | TKYFree | [#1](https://osu.ppy.sh/community/matches/109294030) |
-| [GB]QAQlingjiu | FF | 0 | Lingyu114 | [#1](https://osu.ppy.sh/community/matches/109295401) |
-| xibuniuzai | 1 | 4 | HxcQ777 | [#1](https://osu.ppy.sh/community/matches/109295773) |
-| quailty | 4 | 1 | CatSil | [#1](https://osu.ppy.sh/community/matches/109296593) |
+| **Shenzouz** | **4** | 0 | luluxia | [#1](https://osu.ppy.sh/community/matches/109293002) |
+| **[GB]Takeru** | **4** | 3 | [GB]Aeracy_nya | [#1](https://osu.ppy.sh/community/matches/109293520) |
+| Kirchhoff123 | FF | **0** | **Nene Sakura** | [#1](https://osu.ppy.sh/community/matches/109294012) |
+| VanWilder | 2 | **4** | **TKYFree** | [#1](https://osu.ppy.sh/community/matches/109294030) |
+| [GB]QAQlingjiu | FF | **0** | **Lingyu114** | [#1](https://osu.ppy.sh/community/matches/109295401) |
+| xibuniuzai | 1 | **4** | **HxcQ777** | [#1](https://osu.ppy.sh/community/matches/109295773) |
+| **quailty** | **4** | 1 | CatSil | [#1](https://osu.ppy.sh/community/matches/109296593) |
 
 ### Qualifiers
 
@@ -694,18 +694,18 @@ The final standings and detailed statistics for the Qualifiers can be found at t
 2. The warm-up map duration in the Preseason stage is capped at 3 minutes.
 3. After the Qualifier stage, advancing players will be grouped based on Qualifier stage seeds, and each group will have a different set of match procedures.
    - If 32 players advance:
-      - The preseason stage will be canceled.
+     - The preseason stage will be canceled.
    - If 48 players advance:
-      - Seeds 1-16: Directly advance to the elimination stage without participating in any preseason stage matches.
-      - Seeds 17-48: Players in this group will participate in one preseason stage match, facing opponents corresponding to the group's seeds. The winner will advance to the elimination stage.
+     - Seeds 1-16: Directly advance to the elimination stage without participating in any preseason stage matches.
+     - Seeds 17-48: Players in this group will participate in one preseason stage match, facing opponents corresponding to the group's seeds. The winner will advance to the elimination stage.
    - If 56 players advance:
-      - Seeds 1-8: Directly advance to the elimination stage without participating in any preseason stage matches.
-      - Seeds 9-56: Players in this group will participate in one preseason stage match, facing opponents corresponding to the group's seeds. The winner will advance to the elimination stage.
+     - Seeds 1-8: Directly advance to the elimination stage without participating in any preseason stage matches.
+     - Seeds 9-56: Players in this group will participate in one preseason stage match, facing opponents corresponding to the group's seeds. The winner will advance to the elimination stage.
    - If 64 players advance:
-      - Seeds 1-8: Directly advance to the elimination stage without participating in any preseason stage matches.
-      - Seeds 9-16: Players in this group will participate in one preseason stage match, facing opponents from seeds 49-64. The winner will advance to the elimination stage.
-      - Seeds 17-48: Players in this group will participate in one preseason stage match, facing opponents corresponding to the group's seeds. The winner will advance to the elimination stage.
-      - Seeds 49-64: Players in this group will participate in two preseason stage matches. Their first opponent will be corresponding to the group's seeds. If they win the first match, their second opponent will be from seeds 9-16. The winner will advance to the elimination stage.
+     - Seeds 1-8: Directly advance to the elimination stage without participating in any preseason stage matches.
+     - Seeds 9-16: Players in this group will participate in one preseason stage match, facing opponents from seeds 49-64. The winner will advance to the elimination stage.
+     - Seeds 17-48: Players in this group will participate in one preseason stage match, facing opponents corresponding to the group's seeds. The winner will advance to the elimination stage.
+     - Seeds 49-64: Players in this group will participate in two preseason stage matches. Their first opponent will be corresponding to the group's seeds. If they win the first match, their second opponent will be from seeds 9-16. The winner will advance to the elimination stage.
    - If more than 80 players participate, specific advancement rules will be determined based on the actual number of participants after the qualification results are announced, with a maximum of two matches for all players.
 4. If 48 or more players participate, among the players eliminated in the final round of the preseason stage, the top 16 according to qualification stage rankings will be invited to participate in the secondary league, which follows a format of a 16-player double-elimination. Please note that the secondary league will use the same mappool as the elimination stage but from the previous round, and the secondary league is not part of the complete process of this tournament.
 
