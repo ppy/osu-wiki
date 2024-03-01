@@ -1,0 +1,26 @@
+# Regler for sangindhold
+
+Med mange typer musik tilgængelige vil de fleste sange være egnet til brug på osu!, forudsat de ikke er:
+
+- Meget politiske
+- Fremmende af racistisk spænding eller splittelse
+- Ekstremt og utåleligt højlydte
+- Modificeret til at indeholde hørbar klipning eller forvrængning, der ikke var kunstnerens hensigt
+
+Bemærk at sange med eksplicit indhold er [omfattet af andre regler](/wiki/Rules/Explicit_content).
+
+## Hvad klassificeres som "meget politisk" indhold?
+
+I interesserne af, at et spil, der handler om rytme, udelukkende handler om rytme, og i overensstemmelse med [fællesskabsregel](/wiki/Rules#community-rules) #3, er indhold, der er anset for overdrevent politisk af administrationen forbudt.
+
+Vi holder os ikke til en bestemt "ende" af et politisk spektrum — osu! er strengt upolitisk, og vi vil have, at folk nyder sig, ikke at de starter fejder eller skænderier om politik.
+
+## Hvad sker der, hvis min sang ikke er okay?
+
+Hvert map, der indeholder en forbudt sang, bliver fjernet fra hjemmesiden.
+
+Hver gang, en af dine indsendelser bliver fjernet, får du en forklaring af det medlem af [Nomination Assessment Teamet](/wiki/People/Nomination_Assessment_Team) (NAT) eller [Global Moderation Teamet](/wiki/People/Global_Moderation_Team) (GMT), der er ansvarlig for fjernelsen, sammen med en begrundelse for fjernelsen.
+
+Du kan bestride det med dem gennem direkte beskeder hvis du vil, eller spørge andre om deres meninger for at begrunde dit påstand om sangens egnethed. Hvis I stadig ikke kan enes om, hvorvidt sangen er passende, kan dit påstand eskaleres til en afstemning af de nuværende NAT-medlemmer, der kollektivt beslutter hvorvidt sangen er acceptabel eller ej.
+
+Alle brugere får **en indsendelses spillerum** før straffe uddeles, på grund af denne regels iboende usikkerhed, undtaget meget upassende sange. Efter denne tolerance får brugere, der gentagne gange uploader upassende sange, en 42-time lang [mute](/wiki/Silence), sammen med at deres indsendelse bliver fjernet.
