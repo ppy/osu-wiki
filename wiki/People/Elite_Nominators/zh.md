@@ -18,8 +18,7 @@
   - 头衔会持续到下一批次优秀提名者的选举。如果玩家卸任提名者，将取消头衔
   - 如果玩家连续被评为优秀提名者，则头衔等级会逐年递增 1
 - 一个特别的优秀提名者[主页奖牌](/wiki/Community/Profile_badge)
-
-![](https://assets.ppy.sh/profile-badges/elite-nominator.png "优秀提名者奖牌") ![](https://assets.ppy.sh/profile-badges/elite-nominator-2.png "优秀提名者 II 奖牌")
+  ![](https://assets.ppy.sh/profile-badges/elite-nominator.png?2024 "优秀提名者奖牌") ![](https://assets.ppy.sh/profile-badges/elite-nominator-2.png "优秀提名者 II 奖牌")
 
 ## 2019
 
@@ -102,3 +101,26 @@
 | ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | osu!mania |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | osu!mania |
 | ::{ flag=KR }:: [secXcscX](https://osu.ppy.sh/users/13543418) | osu!mania |
+
+## 2023
+
+*关于新闻帖，请参见： [Community Contributors 2023: Elite Nominators](https://osu.ppy.sh/home/news/2024-02-28-community-contributors-elite-nominators-2023)*
+
+| 名称 | 游戏模式 |
+| :-- | :-- |
+| ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) | osu! |
+| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | osu! |
+| ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581) | osu! |
+| ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) | osu! |
+| ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | osu! |
+| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | osu! |
+| ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) | osu!taiko |
+| ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | osu!taiko |
+| ::{ flag=US }:: [op45667](https://osu.ppy.sh/users/21973491) | osu!taiko |
+| ::{ flag=BR }:: [zerokt](https://osu.ppy.sh/users/13776127) | osu!catch |
+| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | osu!mania |
+| ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | osu!mania |
+| ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604) | osu!mania |
+| ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684) | osu!mania |
+| ::{ flag=KR }:: [Furryswan](https://osu.ppy.sh/users/9555243) | osu!mania |
+| ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) | osu!mania |

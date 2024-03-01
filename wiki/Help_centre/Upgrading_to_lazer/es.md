@@ -1,7 +1,5 @@
 # Actualizar a lazer
 
-*Aviso: Aún estamos ajustando el balance y mecánicas de juego. Por ahora, **las puntuaciones establecidas en lazer no deberían ser consideradas como permanentes**.*
-
 osu!(lazer) es la próxima gran actualización del juego. Es la culminación de varios años de trabajo detrás de escena para relanzar laboriosamente el juego.
 
 La meta eventual es que esta versión sea publicada como una actualización que reemplazará completamente la versión estable existente del juego, pero todavía hay algo de trabajo por hacer antes de que esto sea factible. Al final del día, **los jugadores** determinarán cuándo ocurrirá esto, nosotros seguiremos dando soporte a la versión anterior hasta que los usuarios hayan migrado.
@@ -71,11 +69,11 @@ La siguiente es una lista detallada del **estado actual** de lazer en comparaci�
 
 | Característica | stable | lazer |
 | :-- | :-- | :-- |
-| Envío de puntuaciones | ![Sí][true] | ![Parcial][partial][^score-reset-balance] |
-| Tablas de clasificación de beatmaps | ![Sí][true] | ![Parcial][partial][^score-reset-isolated] |
+| Envío de puntuaciones | ![Sí][true] | ![Sí][true] |
+| Tablas de clasificación de beatmaps | ![Sí][true] | ![Sí][true] |
 | Estadísticas de perfil | ![Sí][true] | ![Sí][true] |
 | Medallas | ![Sí][true] | ![No][false] |
-| Puntos de rendimiento | ![Sí][true] | ![Parcial][partial][^score-reset-isolated] |
+| Puntos de rendimiento | ![Sí][true] | ![Sí][true] |
 | Chat en tiempo real | ![Parcial][partial][^stable-chat] | ![Sí][true] |
 | Wiki / noticias / registro de cambios / clasificaciones | ![No][false] | ![Sí][true][^online-content] |
 | Perfiles de usuario | ![No][false] | ![Sí][true] |
@@ -101,7 +99,7 @@ La siguiente es una lista detallada del **estado actual** de lazer en comparaci�
 | Velocidad del slider / volumen por objeto | ![No][false] | ![Sí][true] |
 | Tipos de curva de sliders por segmento | ![No][false] | ![Sí][true] |
 | División y fusión de sliders | ![No][false] | ![Sí][true] |
-| Rotación de patrón | ![Sí][true] | ![Parcial][partial][^editor-precise-rotation] |
+| Rotación de patrón | ![Sí][true] | ![Sí][true] |
 | Cambio de tamaño de patrón | ![No][false] | ![Sí][true] |
 | Envío de beatmaps | ![Sí][true] | ![No][false] |
 | Editor de storyboards | ![Sí][true] | ![No][false] |
@@ -141,7 +139,7 @@ No.
 
 #### Si instalo lazer, ¿seré capaz de volver a stable?
 
-Sí, lazer siempre se instala junto a stable. A menos que elijas eliminar uno u otro, ambos serán accesibles. 
+Sí, lazer siempre se instala junto a stable. A menos que elijas eliminar uno u otro, ambos serán accesibles.
 
 #### ¿Puedo importar datos desde lazer a stable?
 
@@ -153,33 +151,74 @@ Dicho eso, puntuaciones individuales y beatmaps pueden ser exportados desde laze
 
 #### Si establezco una puntuación en lazer, ¿se mostrará en mi perfil?
 
-Las puntuaciones se mostrarán debajo de «jugadas recientes» pero aún no en «mejor rendimiento». 
+Sí, pero no se mostrará en la sección «mejor rendimiento» con el «modo lazer» desactivado en el sitio web.
+
+Además, por ahora ninguna puntuación aparecerá en la sección «primeros lugares».
 
 #### Si establezco una puntuación en lazer, ¿dará puntos de rendimiento?
 
-La sección de «jugadas recientes» de las páginas de perfil muestra puntuaciones establecidas en lazer con los puntos de rendimiento calculados, y la cantidad total se puede ver al pasar el cursor sobre el total de puntos de rendimiento regular.
-
-Además, [lazer.ppy.sh](https://lazer,ppy.sh/home), una instancia experimental del sitio web de osu!, muestra todas las clasificaciones totales tomando en cuenta las puntuaciones de lazer.
+Sí.
 
 #### ¿Lazer usa ScoreV2?
 
-Sí, usa un sistema de puntuación basado en ScoreV2 con algunos ajustes. Las puntuaciones hechas en ScoreV1 serán convertidas en un futuro cercano.
+Usa un sistema de puntuación basado en él con algunos ajustes.
 
 #### Prefiero el modo de visualización de puntuación clásico, donde las puntuaciones se vuelven realmente grandes
 
 ¡De hecho, puedes cambiar la configuración `Modo de visualización de la puntuación` a `Clásico` para recuperar el explosivo estilo de puntuación en todo el juego! No estará perfectamente igualado, pero te dará la misma sensación de puntuación clásica y se aplicará en todos los lugares que esperarías que esté.
 
+Las tablas de clasificación globales también usarán la puntuación clásica.
+
 #### Si establezco una puntuación en lazer, ¿permanecerá por siempre?
 
-Mientras que intentamos preservar la mayor cantidad de puntuaciones posibles, **no ofrecemos garantía de que las puntuaciones permanecerán indefinidamente**. En cualquier momento podemos optar por borrar un subconjunto o todas las puntuaciones para preservar el balance del juego.
+Mientras que intentamos preservar la mayor cantidad de puntuaciones posibles, **no ofrecemos garantía de que las puntuaciones permanecerán indefinidamente**. En cualquier momento podemos optar por borrar un subconjunto de puntuaciones para preservar el equilibrio del juego, como cuando se descubren fallos o juego sucio.
 
-#### ¿Las puntuaciones establecidas en stable se mostrarán en lazer eventualmente?
+#### ¿Las puntuaciones establecidas en stable se mostrarán en lazer?
 
-Sí. Una vez que terminemos de balancear la combinación de puntuaciones de lazer y stable, ambas serán visibles.
+Sí.
+
+#### ¿Las puntuaciones establecidas en el lazer se mostrarán en stable?
+
+Por el momento, no.
 
 #### ¿Todos los mods estarán clasificados?
 
-Por ahora, las puntuaciones con todas las combinaciones de mods aparecen en las tablas de clasificación. Si las puntuaciones darán puntos de rendimiento con todos los mods (y si lo hacen, si habrá un bonus o penalización aplicado) o no, está todavía en discusión.
+Las puntuaciones de todas las combinaciones de mods aparecen en las tablas de clasificación.
+
+Sin embargo, por ahora solo los siguientes mods concederán puntos de rendimiento:
+
+- Reducción de la dificultad
+  - Easy
+  - No Fail
+  - Half Time (solo 0,75x, se puede usar `Adjust pitch`)
+  - Daycore (solo 0,75x)
+- Aumento de la dificultad
+  - Hard Rock (no para osu!mania)
+  - Sudden Death (Se puede usar `Restart on fail`)
+  - Perfect (Se puede usar `Restart on fail`)
+  - Hidden
+  - Nightcore (solo 1,5x)
+  - Double Time (solo 1,5x, se puede usar `Adjust pitch`)
+  - Flashlight
+  - Blinds
+  - Accuracy Challenge
+- Conversión (solo osu!mania)
+  - Mirror
+  - Four Keys
+  - Five Keys
+  - Six Keys
+  - Seven Keys
+  - Eight Keys
+  - Nine Keys
+- De diversión
+  - Muted
+  - No Scope
+- Automatización (solo osu!)
+  - Spun out
+- Sistema
+  - Touch Device
+
+Solo la configuración predeterminada de las opciones de personalización es elegible para obtener puntos de rendimiento, a menos que se indique lo contrario anteriormente.
 
 #### No me gustan las nuevas mecánicas de juego. ¿Puedo restaurar las antiguas mecánicas como eran en stable?
 
@@ -239,7 +278,7 @@ Mientras que osu! puede parecer un juego simple, hay centenares de característi
 
 Otra área que ha requerido un gran esfuerzo es la conservación histórica; asegurándonos de que los beatmaps se comporten exactamente igual a cómo deberían, incluyendo casos extremos que no fueron planeados originalmente. osu! es un ecosistema vibrante y los usuarios se han tomado la libertad de extender el juego más allá de su alcance planeado y estamos dando lo mejor para abarcar y soportar esto a medida que avanzamos.
 
-Finalmente, a diferencia de la última iteración, estamos dedicando tiempo y diligencia para asegurar que el código base nos servirá bien en el futuro. Hemos hecho el trabajo de preparación para facilitar la conexión de nuevas características a velocidad vertiginosa mientras se avanza. ¡Esto incluirá nuevos componentes de IU, nuevas maneras de personalizar la apariencia del juego, nuevos sistemas multijugador y no olvidemos la capacidad de cargar y jugar todos tus beatmaps existentes en modos de juego completamente nuevos (también conocidos como rulesets)! 
+Finalmente, a diferencia de la última iteración, estamos dedicando tiempo y diligencia para asegurar que el código base nos servirá bien en el futuro. Hemos hecho el trabajo de preparación para facilitar la conexión de nuevas características a velocidad vertiginosa mientras se avanza. ¡Esto incluirá nuevos componentes de IU, nuevas maneras de personalizar la apariencia del juego, nuevos sistemas multijugador y no olvidemos la capacidad de cargar y jugar todos tus beatmaps existentes en modos de juego completamente nuevos (también conocidos como rulesets)!
 
 #### ¿Qué sigue?
 
@@ -288,8 +327,6 @@ Probablemente estés pensando en otro juego.
 [^offset-calibration-lazer]: Al reintentar un beatmap, puedes calibrar la compensación basándote en tu última jugada.
 [^can-disable]: Se puede desactivar.
 [^note-lock]: Todavía existe, pero no interferirá.
-[^score-reset-balance]: Las puntuaciones serán restablecidas para garantizar balance. 
-[^score-reset-isolated]: Las puntuaciones serán restablecidas, actualmente se encuentran aisladas de las puntuaciones de stable.
 [^online-content]: Acceso nativo a la mayor parte del contenido en línea.
 [^direct-supporter]: Mediante osu!direct, solo osu!supporter.
 [^supporter]: Solo osu!supporter.
@@ -297,7 +334,6 @@ Probablemente estés pensando en otro juego.
 [^multi-room-max]: 16 jugadores máximo.
 [^map-only]: Solo el mapa.
 [^all-files]: Todos los archivos.
-[^editor-precise-rotation]: Rotación de ángulo preciso faltante.
 [^incompatibilities]: Algunas características del editor causarán que el beatmap se reproduzca de manera incorrecta en stable; será arreglado pronto.
 [^stable-chat]: Los mensajes pueden tomar hasta 15 segundos en llegar.
 [^countdown-timers-stable]: Establece una cuenta regresiva usando un comando, sin inicio automático.

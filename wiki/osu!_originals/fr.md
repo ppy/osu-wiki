@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: c77da74a8b247bb81d6642c7ecb008b9f06e65c9
+---
+
 # osu! originals
 
 Les **osu! originals** sont des musiques spécifiquement faites pour (ou ont fait leur première apparition sur) osu! ou d'autres événements en rapport avec osu! tels que les tournois, les concours, et les annonces de [Featured Artists](/wiki/People/Featured_Artists). Bien que les osu! originals ne soient pas toutes sous licence officielle et dans la [liste des Featured Artists](https://osu.ppy.sh/beatmaps/artists), les musiques qui le sont sont généralement distinguées par le label `ORIGINAL` sur les pages de leurs artistes respectifs.
@@ -5,6 +10,8 @@ Les **osu! originals** sont des musiques spécifiquement faites pour (ou ont fai
 Toutes les osu! originals sous licence officielle peuvent être utilisées sur osu! à des conditions non exclusives conformément à la [politique de licence musicale d'osu!](/wiki/Legal/Music_licensing). À l'inverse, les osu! originals qui ne sont pas sous licence officielle peuvent nécessiter une autorisation d'utilisation. Voir les [Directives d'utilisation du contenu](/wiki/Rules/Content_usage_guidelines) pour plus d'informations.
 
 ## Liste des osu! originals
+
+<!-- FOR TRANSLATORS: this section is automated and is not to be translated manually, even though this automation doesn't handle translations just yet. - Walavouchey -->
 
 ### Musiques originales d'osu!
 
@@ -234,6 +241,12 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | [LV.4 - Chemical diving](https://osu.ppy.sh/beatmaps/artists/tracks?artist=LV.4&query=Chemical%20diving)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2026273) | HR1 des finales |
 | [MYUKKE. - Anti Safety Zone](https://soundcloud.com/myukke/anti-safety-zone-from-osucatch-world-cup-2023)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2004086) | HD3 des demi-finales |
 | [Toromaru - Erinyes](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Toromaru&query=Erinyes)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/2000438) | HR3 des quarts de finale |
+
+#### ![](/wiki/shared/mode/mania.png) [osu!mania 4K World Cup 2019](/wiki/Tournaments/MWC/2019_4K)
+
+| Musique | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Kurorak - BREACH PROTOCOL](https://kurorak.bandcamp.com/track/breach-protocol) | [#1](https://osu.ppy.sh/beatmapsets/1050571) | FM8 des finales |
 
 #### ![](/wiki/shared/mode/mania.png) [osu!mania 4K World Cup 2021](/wiki/Tournaments/MWC/2021_4K)
 
