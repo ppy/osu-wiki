@@ -4,11 +4,11 @@ title: "New Featured Artist: Takamachi Walk"
 date: 2024-03-02 17:00:00 +0000
 ---
 
-Touhou arrangements are the foundations of niche music scenes. Thanks to **Takamachi Walk**, even more Touhou arrangements are now part of our Featured Artist library!
+Touhou arrangements are the foundation of niche music scenes. Thanks to **Takamachi Walk**, even more Touhou arrangements are now part of our Featured Artist library!
 
 ![](https://assets.ppy.sh/artists/404/header.jpg)
 
-Drawing influence from groups like *Draw the Emotional*, *Foreground Eclipse*, and our very own [UNDEAD CORPORATION](https://osu.ppy.sh/beatmaps/artists/45), **Takamachi Walk** is the circle behind a new wave of metal and post-hardcore Touhou tracks.
+Pulling influence from groups like *Draw the Emotional*, *Foreground Eclipse*, and our very own [UNDEAD CORPORATION](https://osu.ppy.sh/beatmaps/artists/45), **Takamachi Walk** is the circle behind a new wave of metal and post-hardcore Touhou tracks.
 
 More specifically, we have **9** tunes packed into pre-timed beatmap templates, all downloadable from [**Takamachi Walk**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/404)!
 
