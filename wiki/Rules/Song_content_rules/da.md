@@ -13,7 +13,7 @@ Bemærk at sange med eksplicit indhold er [omfattet af andre regler](/wiki/Rules
 
 I interesserne af, at et spil, der handler om rytme, udelukkende handler om rytme, og i overensstemmelse med [fællesskabsregel](/wiki/Rules#community-rules) #3, er indhold, der anses som overdrevent politisk af administrationen forbudt.
 
-Vi holder os ikke til en bestemt "ende" af et politisk spektrum — osu! er strengt upolitisk, og vi vil have, at folk nyder sig, ikke at de skal slås og skændes om politik.
+Vi holder os ikke til en bestemt "ende" af et politisk spektrum — osu! er strengt upolitisk, og vi vil have, at folk hygger sig, ikke at de skal slås og skændes om politik.
 
 ## Hvad sker der, hvis min sang ikke er okay?
 
