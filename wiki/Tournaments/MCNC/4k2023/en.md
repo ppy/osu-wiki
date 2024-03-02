@@ -8,7 +8,7 @@ tags:
 
 # osu!mania 4K Chinese National Cup 2023
 
-![MCNC 2023 logo](img/logo.png)
+![MCNC 2023 logo](img/logo.jpg)
 
 The **osu!mania 4K Chinese National Cup 2023** (***MCNC 4K 2023***) was a country-based osu!mania 4K tournament hosted by the \[Crz\]Team. It was the 5th instalment of the osu!mania 4K Chinese National Cup.
 
@@ -157,8 +157,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=HK }:: [Quotient GD](https://osu.ppy.sh/users/11313227) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CN }:: [\[GB\]nyasun](https://osu.ppy.sh/users/16277321) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=CN }:: [\[Crz\]sunnyxxy](https://osu.ppy.sh/users/10333739) |
-
-![MCNC 4K 2023 podium](img/podium.png)
 
 ## Mappools
 
