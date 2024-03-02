@@ -60,7 +60,7 @@ The osu!mania 4K Chinese National Cup 2023 was run by various community members.
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1763748)
 - [Livestream](https://live.bilibili.com/2996250)
-- [Discord Server](https://discord.gg/uBHK5vq)
+- [Discord server](https://discord.gg/uBHK5vq)
 - [Challonge bracket](https://challonge.com/MCNC4K2023)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSfNzJ-lyqsLIBMQ8hFZyuF1Rjh9IuOG09YcTmEgpZnDbCXD21iPKQpMmDk2M9oyKT5U41fiuKJk0u_/pubhtml)**
 
