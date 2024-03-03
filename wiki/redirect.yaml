@@ -270,6 +270,7 @@ star:                        Disambiguation/Star
 stars:                       Disambiguation/Star
 star_priority:               Modding/Star_priority
 tablet:                      Gameplay/Input_device/Graphics_tablet
+beatmap/tag:                 Beatmap/TAG_beatmaps
 tag:                         Beatmap/TAG_beatmaps
 tag2:                        Beatmap/TAG_beatmaps
 tag3:                        Beatmap/TAG_beatmaps
