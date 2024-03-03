@@ -10,7 +10,7 @@ The 26th cycle of the Community Mentorship program is on its way! Get ready to d
 
 The Community Mentorship program serves as a place for upcoming mappers, modders, and storyboarders to develop their skills under the guidance of more experienced members in the community. If you've ever found yourself wanting to expand your current knowledge, this might just be the opportunity you need.
 
-Over the course of a cycle, you'll have the opportunity to learn from your mentor, participate in various mentorship events (like contests), hang out with fellow mentees, and more! Even guests can take part in the learning process. [Our Discord Server](https://discord.gg/EvHqwvD) has feedback and question channels dedicated to helping newcomers to our community.
+Over the course of a cycle, you'll have the opportunity to learn from your mentor, participate in various mentorship events (like contests), hang out with fellow mentees, and more! Even guests can take part in the learning process. [Our Discord server](https://discord.gg/EvHqwvD) has feedback and question channels dedicated to helping newcomers to our community.
 
 If you're experienced in mapping, modding, or storyboarding, and have a desire to take those who are new under your wing, then consider joining us as a mentor! In the [forum announcement and rule thread](TBA), you'll be able to apply right away. If you're only just getting started and are eager to hone your skills, then signing up as a mentee might be what you need!
 
