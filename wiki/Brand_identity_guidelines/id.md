@@ -57,8 +57,8 @@ Berhubung osu! merupakan permainan yang didorong oleh komunitas, logo osu! cooki
 
 ![](img/restrictions-good-single.png "Berbagai contoh hasil modifikasi logo osu! warna tunggal yang diperkenankan")
 
-- Gambar cookie harus terlihat tajam dalam situasi apapun.
-- Kamu dapat menggunakan warna apapun sebagai warna dasar cookie.
+- Gambar cookie harus terlihat tajam dalam situasi apa pun.
+- Kamu dapat menggunakan warna apa pun sebagai warna dasar cookie.
 - Kamu dapat menambahkan gradasi linier pada cookie. Gradasi radial tidak disarankan karena lingkaran luar dan bagian tengah cookie dapat terlihat seolah-olah tidak menyatu.
 - Kamu dapat menempatkan gambar lain sebagai tekstur pada cookie melalui teknik *masking*. Meskipun demikian, kontras antara cookie dan latar belakang harus tetap terjaga.
 
