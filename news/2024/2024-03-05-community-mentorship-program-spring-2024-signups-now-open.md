@@ -22,7 +22,7 @@ For this following cycle, the timeline is as follows (all opening and closing da
 - Mentee signups will open on **March 19th** and close on **March 26th**.
 - The 2023 Spring cycle will run from **March 26th** to **June 25th**.
 
-Throughout this cycle, the organization team will host various events on the Mentorship Discord server, engaging and offering events for mentees and mentors to participate in. These include feedback lobbies, mapping contests, and more! Some of our previous mapping puzzles can be found here in [this thread](https://osu.ppy.sh/community/forums/topics/565382), and previous discussions can be found [here](https://osu.ppy.sh/community/forums/topics/514122).
+Throughout this cycle, the organisation team will host various events on the Mentorship Discord server, engaging and offering events for mentees and mentors to participate in. These include feedback lobbies, mapping contests, and more! Some of our previous mapping puzzles can be found here in [this thread](https://osu.ppy.sh/community/forums/topics/565382), and previous discussions can be found [here](https://osu.ppy.sh/community/forums/topics/514122).
 
 If you or a friend are curious about the rules and which mentors you can apply for, please go to our [forum announcement and rules thread](https://osu.ppy.sh/community/forums/topics/1892036?n=1) for more information.
 
@@ -30,4 +30,4 @@ Otherwise: [join our Discord server!](https://discord.gg/EvHqwvD)
 
 We're looking forward to the mappers, modders and storyboarders of tomorrow!
 
--Mentorship Organisation Team
+—the Mentorship Organisation Team
