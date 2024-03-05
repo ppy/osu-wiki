@@ -1,4 +1,5 @@
 ---
+no_native_review: true
 tags:
   - badge
   - badges
@@ -168,10 +169,13 @@ Les images des badges de profil doivent respecter les spécifications suivantes 
 - Le logo, le motif ou le nom de votre tournoi doit y figurer clairement.
 - Il doit être conçu de manière propre et d'une qualité visuelle raisonnable.
 - Il ne doit pas comporter de parrainage ni promouvoir quoi que ce soit d'autre que le tournoi.
+- Tous les éléments doivent être spécifiquement créés pour le tournoi et respecter les [directives d'utilisation du contenu](/wiki/Rules/Content_usage_permissions).
+  - Cela n'inclut pas les éléments à source ouverte ou à usage public (par exemple, les polices de caractères, les icônes, etc.).
+  - Si des éléments qui n'entrent pas dans la catégorie ci-dessus sont utilisés dans un dessin ou modèle, l'approbation explicite de l'artiste original doit être fournie avant l'approbation.
 
 Veuillez consulter les exemples suivants de modèles de badges approuvés :
 
-![](https://assets.ppy.sh/profile-badges/ysc4-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/perennial-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/timeskip-2021@2x.png)
+![](https://assets.ppy.sh/profile-badges/ysc4-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/perennial-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/TATHC2023@2x.png)
 
 Les images de badges qui ne répondent pas à ces normes seront refusées avec une justification donnée et, dans certains cas, il pourra vous être demandé de revoir complètement la conception de votre badge. Cette situation est assez rare, mais il est important d'en tenir compte.
 

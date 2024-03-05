@@ -241,6 +241,7 @@ The **Skinning Contest** is a skinning contest where artistic creators from all 
 | Contest No. | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
 | :-: | :-- | :-- | :-- | :-- |
 | [#1 (2022)](https://osu.ppy.sh/home/news/2023-02-09-skin-of-the-year-2022) | [If there was an endpoint.](https://osu.ppy.sh/community/forums/topics/1672096) by ::{ flag=PE }:: [- Koshiin -](https://osu.ppy.sh/users/19135423) | [Moonshine](https://osu.ppy.sh/community/forums/topics/1610388) by ::{ flag=MY }:: [moonstaar](https://osu.ppy.sh/users/27339355) | [Shiroko Swimsuit](https://osu.ppy.sh/community/forums/topics/1641543) by ::{ flag=TR }:: [BatuhanYtho](https://osu.ppy.sh/users/12091015) | [#1](https://osu.ppy.sh/home/news/2023-03-05-skin-of-the-year-2022-results) |
+| [#2 (2023)](https://osu.ppy.sh/home/news/2024-01-14-skin-of-the-year-2023) | [WhiteCat 3.0](https://osu.ppy.sh/community/forums/topics/1864774) by ::{ flag=RU }:: [cyperdark](https://osu.ppy.sh/users/9893708) | [Windosu XP](https://osu.ppy.sh/community/forums/topics/1790353) by ::{ flag=US }:: [Miorine](https://osu.ppy.sh/users/12630408) | [FOOL MOON NIGHT](https://osu.ppy.sh/community/forums/topics/1775136) by ::{ flag=US }:: [Spoo](https://osu.ppy.sh/users/11805037) | [#2](https://osu.ppy.sh/home/news/2024-02-05-skin-of-the-year-2023-results) |
 
 ### [osu!trivium Quiz](osu!trivium_Quiz)
 

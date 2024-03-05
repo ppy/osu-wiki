@@ -2136,3 +2136,6 @@ people/support_team: People/Technical_Support_Team
 # Added "Unstable rate"
 unstable_rate: Gameplay/Unstable_rate
 ur:            Gameplay/Unstable_rate
+
+convert:  Beatmap/Converts
+converts: Beatmap/Converts
