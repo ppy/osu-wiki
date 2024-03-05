@@ -98,6 +98,7 @@ Let's take a look at how their osu! journey started, where it's led so far, and 
 > It's difficult to juggle everything, but I hope to find a balance in the near future, and with many amazing talented people offering their support, I feel that could happen sooner than later.
 
 *Bonus question: is your steak better than mangomizer's?*
+<img style="float: left;" src="weirdchamp.jpg">
 
 > There's only one way to find out
 > 
