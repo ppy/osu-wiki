@@ -89,7 +89,9 @@ Let's take a look at how their osu! journey started, where it's led so far, and 
 
 *What lessons did you take away from the first event that you implemented in the 2nd iteration of the Roundtable?*
 
-> Well the goal of The Roundtable Invitational is to create an experience for its most talented and invested players to look forward to and to create a show that can bring together the community and showcase the best that osu! has to offer. There were many aspects that I feel we improved on such as catering, prize pools, and event variety, but the one I feel the most proud of was our technical team behind The Roundtable Battle Royale overlays. We wanted to make the user experience of viewing the event better, as we hope that some people may get introduced to osu! through the content on The Roundtable. The team, as lead by [Deadrote](https://osu.ppy.sh/users/7943969), was able to create an overlay that was innovative, groundbreaking, and easy for viewers to understand and follow along which I'm extremely proud of.
+> Well the goal of The Roundtable Invitational is to create an experience for its most talented and invested players to look forward to and to create a show that can bring together the community and showcase the best that osu! has to offer.
+> 
+> There were many aspects that I feel we improved on such as catering, prize pools, and event variety, but the one I feel the most proud of was our technical team behind The Roundtable Battle Royale overlays. We wanted to make the user experience of viewing the event better, as we hope that some people may get introduced to osu! through the content on The Roundtable. The team, as lead by [Deadrote](https://osu.ppy.sh/users/7943969), was able to create an overlay that was innovative, groundbreaking, and easy for viewers to understand and follow along which I'm extremely proud of.
 
 *To wrap things up, what does the future hold for BTMC? Do you have any 2024 goals you are willing to share with the community?*
 
