@@ -1,12 +1,14 @@
 # Komunitas
 
+Halaman ini menerakan berbagai cara bagi para pemain osu! di seluruh dunia untuk saling berkomunikasi dengan satu sama lain. Apabila kamu ingin berkontribusi terhadap osu! tapi , but don't know where to start, kunjungi halaman [Bagaimana kamu dapat membantu!](/wiki/Community/How_you_can_help!).
+
 Berikut ini merupakan daftar artikel yang membahas seputar cara komunikasi yang terjadi di komunitas osu!. Jika kamu mencari cara berkontribusi tetapi belum tahu harus mulai dari mana, kamu dapat membaca artikel [Bagaimana kamu dapat membantu!](/wiki/Community/How_you_can_help!) untuk mengetahui cara berkontribusi.
 
 ## Tempat
 
+- [Server Discord komunitas](/wiki/Community/Discord_servers)
 - [Forum](/wiki/Community/Forum)
 - [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat) (IRC)
-- [Server Discord komunitas](/wiki/Community/Discord_servers)
 - [Server Discord osu!](/wiki/Community/osu!_Discord_server)
 - [Organisasi](/wiki/Community/Organisations)
 
@@ -14,7 +16,7 @@ Berikut ini merupakan daftar artikel yang membahas seputar cara komunikasi yang 
 
 *Lihat juga: [Daftar seluruh proyek](/wiki/Community/Projects)*
 
-- [Community mentorship program](/wiki/Community/Community_Mentorship_Program)
+- [Program Community Mentorship](/wiki/Community/Community_Mentorship_Program)
 - [Mappers' Guild](/wiki/Community/Mappers_Guild)
 - [osu! wiki](/wiki/osu!_wiki)
 - [osu!monthly](/wiki/Community/osu!monthly)
@@ -31,5 +33,5 @@ Berikut ini merupakan daftar artikel yang membahas seputar cara komunikasi yang 
 
 ## Lihat juga
 
-- [Kontes](/wiki/Contests)
+- [Komunitas](/wiki/Contests)
 - [Turnamen](/wiki/Tournaments)
