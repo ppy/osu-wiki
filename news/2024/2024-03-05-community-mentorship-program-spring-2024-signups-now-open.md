@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Community Mentorship Program Spring 2023 Signups Now Open
+title: Community Mentorship Program Spring 2024 Signups Now Open
 date: 2024-03-05 10:00:00 +0000
 ---
 
@@ -20,7 +20,7 @@ For this following cycle, the timeline is as follows (all opening and closing da
 
 - Mentor signups will open on **March 5th** and close on **March 12th**.
 - Mentee signups will open on **March 19th** and close on **March 26th**.
-- The 2023 Spring cycle will run from **March 26th** to **June 25th**.
+- The 2024 Spring cycle will run from **March 26th** to **June 25th**.
 
 Throughout this cycle, the organisation team will host various events on the Mentorship Discord server, engaging and offering events for mentees and mentors to participate in. These include feedback lobbies, mapping contests, and more! Some of our previous mapping puzzles can be found here in [this thread](https://osu.ppy.sh/community/forums/topics/565382), and previous discussions can be found [here](https://osu.ppy.sh/community/forums/topics/514122).
 
