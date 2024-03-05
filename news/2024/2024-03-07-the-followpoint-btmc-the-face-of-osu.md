@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Followpoint: BTMC, The Face of osu!"
+title: "The Followpoint: BTMC, the Face of osu!"
 date: 2024-03-07 10:00:00 +0000
 ---
 
@@ -10,7 +10,7 @@ Join us for an interview with BTMC, one of osu!'s most iconic content creators!
 
 [BTMC](https://osu.ppy.sh/users/3171691) is definitely a name in the community that doesn't need any introduction, their influence reaching every corner of osu!'s vast community while still continuously improving and innovating their content, all in the goal of serving the community.
 
-Next to content creation they are also a top osu! player, event organizer, and community contributor with tenures in [Project Loved](/wiki/Community/Project_Loved) and osu! World Cup casting.
+Next to content creation they are also a top osu! player, event organiser, and community contributor with tenures in [Project Loved](/wiki/Community/Project_Loved) and osu! World Cup casting.
 
 Let's take a look at how their osu! journey started, where it's led so far, and what the future holds for them!
 
@@ -64,7 +64,7 @@ Let's take a look at how their osu! journey started, where it's led so far, and 
 
 > The original idea came from Pishi and [Kroytz](https://osu.ppy.sh/users/2339768), and was originally inspired by the events hosted by Beyond the Summit. I was hanging with them, and we realized that technically the only thing we were missing was money, so when I mentioned I'd cover it we got straight to work.
 
-*Hosting such an event is a huge undertaking, both financially and logistically. What were some of the biggest/unexpected obstacles you faced during its organization?*
+*Hosting such an event is a huge undertaking, both financially and logistically. What were some of the biggest/unexpected obstacles you faced during its organisation?*
 
 > The first event was organized in 3-4 weeks and had a relatively small team stationed in my living room. We wanted to scale things up, so we brought in more staff which needed a larger venue and that resulted in many unexpected obstacles that we had to figure out as we went. Examples include:
 >
