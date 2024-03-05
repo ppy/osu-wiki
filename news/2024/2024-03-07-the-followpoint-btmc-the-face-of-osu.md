@@ -67,8 +67,7 @@ Let's take a look at how their osu! journey started, where it's led so far, and 
 *Hosting such an event is a huge undertaking, both financially and logistically. What were some of the biggest/unexpected obstacles you faced during its organization?*
 
 > The first event was organized in 3-4 weeks and had a relatively small team stationed in my living room. We wanted to scale things up, so we brought in more staff which needed a larger venue and that resulted in many unexpected obstacles that we had to figure out as we went. Examples include:
-> 
-> <!-- Should this stay a list or not? -->
+>
 > - Venue Costs
 > - Insurance
 > - Legal & Liability
@@ -82,7 +81,7 @@ Let's take a look at how their osu! journey started, where it's led so far, and 
 > - Setup Logistics
 > - Production Coordination
 > - And so much more
-> 
+>
 > There are some things that we literally can not prepare for unless we have access to the venue and the result was an experience for everyone that I'm not completely satisfied with. There were many lessons learned from the second event that will be improved for the future but despite all the delays and "scuffness", I'm extremely humbled and thankful to see overwhelming support from the community, players, and staff.
 
 *What lessons did you take away from the first event that you implemented in the 2nd iteration of the Roundtable?*
@@ -98,6 +97,7 @@ Let's take a look at how their osu! journey started, where it's led so far, and 
 > It's difficult to juggle everything, but I hope to find a balance in the near future, and with many amazing talented people offering their support, I feel that could happen sooner than later.
 
 *Bonus question: is your steak better than mangomizer's?*
+
 <style>
 blockquote .osu-md__figure-image {
   margin-left: 0px;
