@@ -67,7 +67,7 @@ Let's take a look at how their osu! journey started, where it's led so far, and 
 *Hosting such an event is a huge undertaking, both financially and logistically. What were some of the biggest/unexpected obstacles you faced during its organisation?*
 
 > The first event was organized in 3-4 weeks and had a relatively small team stationed in my living room. We wanted to scale things up, so we brought in more staff which needed a larger venue and that resulted in many unexpected obstacles that we had to figure out as we went. Examples include:
->
+> 
 > - Venue Costs
 > - Insurance
 > - Legal & Liability
