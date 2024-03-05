@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "The Followpoint: BTMC, osu! Content Creator & Community Contributor"
+title: "The Followpoint: BTMC, The Face of osu!"
 date: 2024-03-07 10:00:00 +0000
 ---
 
 Join us for an interview with BTMC, one of osu!'s most iconic content creators!
 
-![](/wiki/shared/news/2024-03-07-the-followpoint-btmc-osu-content-creator/banner.png)
+![](/wiki/shared/news/2024-03-07-the-followpoint-btmc-the-face-of-osu/banner.png)
 
 [BTMC](https://osu.ppy.sh/users/3171691) is definitely a name in the community that doesn't need any introduction, their influence reaching every corner of osu!'s vast community while still continuously improving and innovating their content, all in the goal of serving the community.
 
@@ -29,8 +29,6 @@ Let's take a look at how their osu! journey started, where it's led so far, and 
 *How did your content creation career start, did you ever think you would be making content for a living?*
 
 > My content creation journey began with a rivalry with a former MCPVPer and an unexpected twist. After facing two false DMCA take down notices from a Brazilian Minecraft YouTuber, I made all my videos unlisted, but when I republished them, my osu! content detailing my osu! rivalry with [ChaosRaidz](https://osu.ppy.sh/users/3715823) unintentionally went public. One of which is now infamous in the community: "[And some say he never played osu! again](https://www.youtube.com/watch?v=WKja2Ee7Pys)".
-> 
-> At the time the video lay dormant, and my rivalry continued with ChaosRaidz, until he was falsely accused of cheating and soon after became restricted for two years. To this day, I believe osu! support made a mistake, and the idea of trying to prove you didn't do something seemed like an impossible task, but I figured if I livestream all my osu! sessions and upload all my top scores, I would have evidence to deter such accusations from myself. That decision created a library of osu! content that eventually allowed me to capture the incoming viewership created by the virality of my video on The Big Black.
 > 
 > I never initially envisioned content creation as a career; the concept of earning a living from YouTube and livestreaming was far from mainstream at the time. The term "[Creator Economy](https://en.wikipedia.org/wiki/Creator_economy)" wasn't even coined yet. However, I knew I wanted a path that wasn't confined to a traditional 9-5 job or a single career trajectory. Discovering that livestreaming earned me more in a week than a month at my job scooping popcorn at a movie theater, I fully embraced the uncertainty and dedicated everything to find a way to make it work. Because of that, I'm extremely humbled by all of my viewers, supporters, and fellow creators from all across the industry for making this possible.
 
@@ -103,7 +101,7 @@ Let's take a look at how their osu! journey started, where it's led so far, and 
 
 > There's only one way to find out
 > 
-> ![](/wiki/shared/news/2024-03-07-the-followpoint-btmc-osu-content-creator/weirdchamp.jpg)
+> ![](/wiki/shared/news/2024-03-07-the-followpoint-btmc-the-face-of-osu/weirdchamp.jpg)
 
 ---
 
