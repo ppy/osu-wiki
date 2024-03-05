@@ -81,7 +81,7 @@ Let's take a look at how their osu! journey started, where it's led so far, and 
 > - Setup Logistics
 > - Production Coordination
 > - And so much more
->
+> 
 > There are some things that we literally can not prepare for unless we have access to the venue and the result was an experience for everyone that I'm not completely satisfied with. There were many lessons learned from the second event that will be improved for the future but despite all the delays and "scuffness", I'm extremely humbled and thankful to see overwhelming support from the community, players, and staff.
 
 *What lessons did you take away from the first event that you implemented in the 2nd iteration of the Roundtable?*
