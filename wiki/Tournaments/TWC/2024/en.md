@@ -102,7 +102,7 @@ The osu!taiko World Cup 2024 is run by various community members.
 | ::{ flag=VN }:: | **Vietnam** | **[MashedPotato](https://osu.ppy.sh/users/10494860)**, [Creeperbrine303](https://osu.ppy.sh/users/22515524), [hi\_there\_osu](https://osu.ppy.sh/users/22698999), [nahieu2005](https://osu.ppy.sh/users/22069182), [RandomNameIdk](https://osu.ppy.sh/users/24042710) |
 
 Captains are listed in **bold**. Individual team compositions subject to change until **Friday, 8 March 2024 23:59 UTC**. This list was last updated on **5 March
-2024**. 
+2024**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253130c40e8486cdfbcdf680bb19988d).
 
