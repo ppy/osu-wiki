@@ -86,7 +86,7 @@ Berhubung osu! merupakan permainan yang didorong oleh komunitas, logo osu! cooki
 ![](img/restrictions-bad-full.png "Berbagai contoh hasil modifikasi logo osu! warna penuh yang tidak diperkenankan")
 
 - **Jangan** gunakan cookie versi lama.
-- **Jangan** gunakan warna merah jambu yang berbeda pada cookie.
+- **Jangan** terapkan warna merah jambu yang berbeda pada cookie.
 - **Jangan** tambahkan gradasi apa pun pada cookie.
 - **Jangan** ubah warna cookie menjadi warna lain.
 - **Jangan** tambahkan apa pun ke dalam cookie.
