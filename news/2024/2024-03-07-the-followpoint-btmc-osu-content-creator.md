@@ -12,7 +12,7 @@ Join us for an interview with BTMC, one of osu!'s most iconic content creators!
 
 Next to content creation they are also a top osu! player, event organizer, and community contributor with tenures in [Project Loved](/wiki/Community/Project_Loved) and osu! World Cup casting.
 
-Without further ado, let's jump right into the interview.
+Let's take a look at how their osu! journey started, where it's led so far, and what the future holds for them!
 
 ---
 
@@ -106,5 +106,7 @@ Without further ado, let's jump right into the interview.
 ---
 
 This interview has been a great insight into BTMC, their community and career tenure, and hopefully inspired you to engage with the community yourself in creative ways, such as writing, content creation, making art, organising etc.
+
+Thank you to BTMC so for taking the time to answer these questions — and thank you for reading!
 
 —0x84f
