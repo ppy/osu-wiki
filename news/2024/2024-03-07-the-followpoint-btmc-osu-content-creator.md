@@ -101,7 +101,7 @@ Let's take a look at how their osu! journey started, where it's led so far, and 
 
 *Bonus question: is your steak better than mangomizer's?*
 
-> There's only one way to find out 
+> There's only one way to find out
 > 
 > ![](/wiki/shared/news/2024-03-07-the-followpoint-btmc-osu-content-creator/weirdchamp.jpg)
 
