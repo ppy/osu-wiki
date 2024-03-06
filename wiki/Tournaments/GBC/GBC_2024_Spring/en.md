@@ -8,6 +8,8 @@ tags:
 
 # GB Cup 2024 Spring
 
+![GBC 2024 Spring Banner](img/GBC-2024-Spring-banner.png)
+
 The **GB Cup 2024 Spring** (***GBC 2024 Spring***) is an osu!mania 4K point-based weekly group tournament hosted by Team GB. It is the fifth instalment of the GB Cup.
 
 ## Tournament schedule
@@ -154,7 +156,7 @@ The GB Cup 2024 Spring is run by Team GB and various community members.
 ### Match procedures
 
 1. A referee will create a multiplayer room 5 minutes before the scheduled match time. Players must join the lobby in that period.
-   - The room settings are `Game mode: osu!mania`, `Team mode: Head-to-Head`, and `Score mode: ScoreV2`. The room name must follow the pattern of the following example: `GBC 2024 Spring: LvEX round1 Sunday10pm`.
+   - The room settings are `Game mode: osu!mania`, `Team mode: Head-to-Head`, and `Score mode: ScoreV2`. The room name must follow the pattern of the following example: `GBC 2024 Spring: Lv.EX R1 | Sun 22`.
 2. Possible mod choices for the Free Mod bracket are **No Fail**, **Hidden**, **Fade In**, **Flashlight**, and **Mirror**.
 3. The referees will select the beatmaps in order to play the match. If a player encounters a technical problem during a match, players may request a rematch from the referee after all the beatmaps have been played.
    - "Lag spikes" will not be considered as a valid reason to rematch a beatmap.
@@ -192,7 +194,8 @@ The GB Cup 2024 Spring is run by Team GB and various community members.
 
 The rules are largely the same as in the regular stage.
 
-1. The organiser will invite some players from the EX group to participate in the playoffs.
+1. The organiser will invite the highest ranking players from the regular stage to participate in the playoffs.
+   - If invited players decline for any reason, their slot will pass on to the players in next rank.
 2. There will be four separate mappools for each playoff round, with a varying number of beatmaps of different types:
 
 | Stage | Beatmaps |
@@ -200,8 +203,8 @@ The rules are largely the same as in the regular stage.
 | Quarterfinals & Semifinals | 6 RC, 3 HB, 3 LN, and 1 TB |
 | Finals & Grand Finals | 7 RC, 3 HB, 4 LN, and 1 TB |
 
-3. Players will have 2 minutes to pick and ban a beatmap, and 2 minutes to get ready. If a player takes more time than allowed, the procedures adopted will be as follows:
-   - For map bans, the player forfeits the ban.
+3. Players will have 2 minutes to protect, pick and ban a beatmap, and 2 minutes to get ready. If a player takes more time than allowed, the procedures adopted will be as follows:
+   - For map bans or protects, the player forfeits the ban or protect.
    - For map picks, a random map will be chosen from the mappool using `!roll X`, where `X` is the number of maps that were neither picked nor banned, excluding the tiebreaker.
    - For a ready timer, the referee will use the `!mp start 10` command.
 4. Each player will receive one *tactical timeout* of **2 minutes**, to be used as extra time to pick or ban a beatmap. The tactical timeout is optional.
@@ -209,7 +212,8 @@ The rules are largely the same as in the regular stage.
 5. A referee will create a multiplayer room 10 minutes before the scheduled match time. Players must join the lobby in that period.
    - The room settings are `Game mode: osu!mania`, `Team mode: Team Vs` and `Score mode: ScoreV2`. The room name must follow the pattern of `GBC 2024 Spr: ({Player A}) vs ({Player B})`.
 6. Each player must use `!roll` once in `#multiplayer`.
-   - The winner of the `!roll` chooses whether to pick first or ban first.
+   - The winner of the `!roll` chooses whether to protect first or ban first. The player who protects first will also pick first.
+   - Each player may protect one beatmap from the mappool. These beatmaps cannot be banned by any player in the next phase.
    - Each player may ban one beatmap from the mappool. These beatmaps cannot be picked by any player for the entire duration of the match.
    - Both players will alternate picking a beatmap from the mappool.
 7. In the case of a tie, the beatmap will be rematched, but not more than twice.
