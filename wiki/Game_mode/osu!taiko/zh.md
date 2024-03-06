@@ -2,7 +2,7 @@
 
 ![osu!taiko 游玩](/wiki/shared/taiko-gameplay.jpg "osu!taiko 的界面")
 
-osu!taiko 是 osu! 中的，基于日本节奏游戏[太鼓达人](https://zh.wikipedia.org/wiki/Taiko_no_Tatsujin)系列（在北美的发行名为[Taiko: Drum Master](https://zh.wikipedia.org/wiki/Taiko:_Drum_Master)）的游戏模式。
+osu!taiko 是基于日本节奏游戏[太鼓达人](https://zh.wikipedia.org/wiki/Taiko_no_Tatsujin)系列（在北美的发行名为[Taiko: Drum Master](https://zh.wikipedia.org/wiki/Taiko:_Drum_Master)）的 osu! 游戏模式。
 
 ## ![](/wiki/shared/mode/taiko.png) 游玩
 
