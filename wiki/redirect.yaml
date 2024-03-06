@@ -270,10 +270,11 @@ star:                        Disambiguation/Star
 stars:                       Disambiguation/Star
 star_priority:               Modding/Star_priority
 tablet:                      Gameplay/Input_device/Graphics_tablet
-tag:                         Beatmap/TAG
-tag2:                        Beatmap/TAG
-tag3:                        Beatmap/TAG
-tag4:                        Beatmap/TAG
+beatmap/tag:                 Beatmap/TAG_beatmaps
+tag:                         Beatmap/TAG_beatmaps
+tag2:                        Beatmap/TAG_beatmaps
+tag3:                        Beatmap/TAG_beatmaps
+tag4:                        Beatmap/TAG_beatmaps
 test_mode:                   Client/Beatmap_editor/Test_mode
 timing_section:              Client/Beatmap_editor/Timing
 beatmapping/timing_section:  Client/Beatmap_editor/Timing
