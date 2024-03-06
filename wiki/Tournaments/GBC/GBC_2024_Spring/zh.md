@@ -8,6 +8,8 @@ tags:
 
 # GBC 2024 春季赛
 
+![GBC 2024 Spring Banner](img/GBC-2024-Spring-banner.png)
+
 **GBC 2024 春季周常活动** (***GB 杯 2024 春季周常活动***) 是由 GB 组织主办的 osu!mania 4K 项目周常积分个人制 赛事。本届比赛是 GBC 系列赛事的第五届正式比赛。
 
 ## 比赛日程
