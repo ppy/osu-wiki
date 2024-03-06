@@ -195,7 +195,7 @@ The GB Cup 2024 Spring is run by Team GB and various community members.
 The rules are largely the same as in the regular stage.
 
 1. The organiser will invite the highest ranking players from the regular stage to participate in the playoffs.
-   - For personal reason, invited players could refuse to play in playoff, the slot will pass on to the players in next rank.
+   - If invited players decline for any reason, their slot will pass on to the players in next rank.
 2. There will be four separate mappools for each playoff round, with a varying number of beatmaps of different types:
 
 | Stage | Beatmaps |
@@ -212,7 +212,7 @@ The rules are largely the same as in the regular stage.
 5. A referee will create a multiplayer room 10 minutes before the scheduled match time. Players must join the lobby in that period.
    - The room settings are `Game mode: osu!mania`, `Team mode: Team Vs` and `Score mode: ScoreV2`. The room name must follow the pattern of `GBC 2024 Spr: ({Player A}) vs ({Player B})`.
 6. Each player must use `!roll` once in `#multiplayer`.
-   - The winner of the `!roll` chooses whether to protect first or ban first. Protect first will also pick first.
+   - The winner of the `!roll` chooses whether to protect first or ban first. The player who protects first will also pick first.
    - Each player may protect one beatmap from the mappool. These beatmaps cannot be banned by any player in the next phase.
    - Each player may ban one beatmap from the mappool. These beatmaps cannot be picked by any player for the entire duration of the match.
    - Both players will alternate picking a beatmap from the mappool.
