@@ -8,6 +8,8 @@ tags:
 
 # GB Cup 2024 Spring
 
+![GBC 2023 Spring Banner](img/GBC-2024-Spring-banner.png)
+
 The **GB Cup 2024 Spring** (***GBC 2024 Spring***) is an osu!mania 4K point-based weekly group tournament hosted by Team GB. It is the fifth instalment of the GB Cup.
 
 ## Tournament schedule
