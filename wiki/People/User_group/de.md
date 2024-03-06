@@ -2,13 +2,9 @@
 tags:
   - usergroup
   - Nutzergruppe
-outdated_since: 94336d51ab515397ff412298f90b85070be65d7e
-outdated_translation: true
 ---
 
 # Benutzergruppe
-
-*Anmerkung: Die Auflistungen für die Benutzergruppen Chat-Bots und Ankündigungen sind nicht öffentlich.*
 
 ![Beispiel für ein Gruppenabzeichen](img/user-group-badge.png "Gruppenabzeichen auf der Profilseite eines Nutzers")
 
@@ -23,11 +19,16 @@ Ein Klick auf die Abzeichen führt zu den jeweiligen Gruppenlisten, während die
 | 11 | [![DEV](/wiki/shared/group/DEV.png?20231028)](https://osu.ppy.sh/groups/11) | [Entwickler](/wiki/People/Developers) | Machen das Spiel besser, indem sie neue Inhalte zum Spiel hinzufügen und Fehler beheben |
 | 16 | [![ALM](/wiki/shared/group/ALM.png)](https://osu.ppy.sh/groups/16) | [osu! Alumni](/wiki/People/osu!_Alumni) | Diejenigen, die für ihre Beiträge bekannt sind und inzwischen weitergezogen sind |
 | 22 | [![SPT](/wiki/shared/group/SPT.png)](https://osu.ppy.sh/groups/22) | [Technisches Support-Team](/wiki/People/Technical_Support_Team) | Hilfe und Unterstützung |
+| 26 |  | Turnierpersonal[^private] | Nutzer, die [Befehle für das Turnier-Management](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands) ausführen dürfen |
 | 28 | [![BN](/wiki/shared/group/BN.png)](https://osu.ppy.sh/groups/28) | [Beatmap Nominators](/wiki/People/Beatmap_Nominators) | Sorgen dafür, dass Beatmaps den Status "qualifiziert" erlangen |
-| 29 | ![BOT](/wiki/shared/group/BOT.png) | [Chat-Bots](/wiki/Bot_account) | Spezielle Accounts, die von automatisierten Diensten anstatt von echten Personen verwendet werden |
+| 29 | ![BOT](/wiki/shared/group/BOT.png) | [Chat-Bots](/wiki/Bot_account)[^private] | Spezielle Accounts, die von automatisierten Diensten anstatt von echten Personen verwendet werden |
 | 31 | [![LVD](/wiki/shared/group/LVD.png)](https://osu.ppy.sh/groups/31) | [Project Loved](/wiki/People/Project_Loved_Team) | Anerkennen der Beatmaps, die die Community am meisten liebt |
 | 32 | [![BN](/wiki/shared/group/BN-prob.png)](https://osu.ppy.sh/groups/32) | [Beatmap Nominators (auf Probe)](/wiki/People/Beatmap_Nominators#probationary-beatmap-nominators) | BNs in der Probezeit, die auf eine positive Rückmeldung warten, dass sie als vollwertiges Mitglied im Team aufgenommen werden |
 | 33 | ![PPY](/wiki/shared/group/PPY.png) | ppy | Reserviert für [peppy](/wiki/People/peppy), dem Ersteller von osu! |
 | 35 | [![FA](/wiki/shared/group/FA.png)](https://osu.ppy.sh/groups/35) | [Featured Artist](/wiki/People/Featured_Artists) | Musikschaffende, die sich mit osu! zusammengetan haben |
-| 47 |  | Ankündigungen | Benutzer mit der Berechtigung, [Ankündigungsnachrichten](/wiki/Announcement_messages) senden zu können |
+| 47 |  | Ankündigungen[^private] | Benutzer mit der Berechtigung, [Ankündigungsnachrichten](/wiki/Announcement_messages) senden zu können |
 | 48 | [![BSC](/wiki/shared/group/BSC.png)](https://osu.ppy.sh/groups/48) | [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators) | Verantwortlich für das Auswählen hochqualitativer Beatmaps für die [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
+
+## Anmerkungen
+
+[^private]: Die Auflistung dieser Benutzergruppe ist nicht öffentlich.
