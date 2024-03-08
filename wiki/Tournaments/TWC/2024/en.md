@@ -52,6 +52,7 @@ The osu!taiko World Cup 2024 is run by various community members.
 
 ## Links
 
+- [Information spreadsheet](https://docs.google.com/spreadsheets/d/1qGOprVVOTXTBGw2xwDhvTxjpp92SEA1NkQIBJ1gI9xY?rm=minimal)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1884428)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/43)
