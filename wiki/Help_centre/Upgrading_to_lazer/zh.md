@@ -173,7 +173,7 @@ osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕�
 
 #### 如果我在 lazer 上留下了成绩，它会永久保存吗？
 
-我们会尽量地多保留成绩，但我们**不保证能永久保留成绩**。我们随时可能会删除一小部分分数，为确保游戏平衡，比如发现了滥用或作弊得来的分数。
+我们会尽量地多保留成绩，但我们**不保证能永久保留**。为确保游戏平衡，我们随时可能会删除一小部分成绩，比如发现滥用或作弊得来的成绩时。
 
 #### 稳定版上的成绩也会在 lazer 上显示吗？
 
@@ -189,13 +189,13 @@ osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕�
 
 但是，目前只有以下模组能给予表现分：
 
-- Difficulty reduction
+- 降低难度
   - Easy
   - No Fail
-  - Half Time (仅 0.75 倍速，可以调整 `Adjust pitch `)
+  - Half Time (仅 0.75 倍速，可以调整 `Adjust pitch` )
   - Daycore (仅 0.75 倍速)
-- Difficulty Increase
-  - Hard Rock (不适用osu!mania)
+- 增加难度
+  - Hard Rock (不适用 osu!mania )
   - Sudden Death (可以打开 `Restart on fail` )
   - Perfect (可以打开 `Restart on fail` )
   - Hidden
@@ -212,13 +212,15 @@ osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕�
   - Seven Keys
   - Eight Keys
   - Nine Keys
-- Fun
+- 娱乐
   - Muted
   - No Scope
-- Automation (仅限 osu!)
+- 自动游玩 (仅限 osu!)
   - Spun out
-- System
+- 系统
   - Touch Device
+
+除非特别指出，只有模组的自定义设置为默认值时才能获得表现分。
 
 #### 我不喜欢新游戏机制。我能恢复旧游戏机制吗？
 
