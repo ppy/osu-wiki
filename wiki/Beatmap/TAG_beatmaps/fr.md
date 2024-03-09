@@ -2,16 +2,19 @@
 tags:
   - multiplayer
   - co-op
-outdated_translation: true
-outdated_since: 32109b7c23b5cfab19cab8597e7e22ba39d009f9
+  - multijoueur
 ---
 
-# TAG
+# Beatmaps TAG
 
-Le terme **TAG** est le terme utilisé pour décrire les modes de jeu en mode [multijoueur](/wiki/Client/Interface/Multiplayer) appelés [Tag Coop ou Tag Team Vs](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs) où les joueurs essaient de compléter une [beatmap](/wiki/Beatmap) ensemble. Les beatmaps qui sont spécifiquement conçues pour ces modes sont généralement appelés **TAG beatmaps/difficulties**.
+![Exemple de beatmaps TAG](img/tag-beatmap-example.png "Exemple de beatmaps TAG")
 
-Dans ces modes, chaque joueur est responsable d'un [comboset](/wiki/Beatmapping/Combo), et tout au long du morceau, les joueurs passent d'un comboset à l'autre. Pour cette raison, les beatmaps TAG sont conçues de telle manière que leurs combosets sont placés beaucoup plus loin les uns des autres et plus complexes que d'habitude, ce qui les rend presque impossible a jouer seul.
+*A ne pas confondre avec les tags, qui sont une [partie des métadonnées d'une beatmap](/wiki/Client/Beatmap_editor/Song_setup).*
 
-Les [difficultés](/wiki/Beatmap/Difficulty) TAG sont généralement indiquées par l'utilisation du terme "TAG" dans le nom de la difficulté de la beatmap. Le plus souvent, "TAG" est suivi d'un chiffre, qui indique le nombre de joueurs pour laquelle la beatmap est destinée (par exemple, "TAG2" pour deux joueurs ou "TAG4" pour quatre joueurs).
+**Les Beatmaps TAG** (ou simplement *TAG*) sont des beatmaps spécialement conçus pour le [mode Tag co-op ou Tag-team VS](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs) dans les [lobby multijoueurs](/wiki/Client/Interface/Multiplayer). Ainsi, ces beatmaps nécessitent souvent un jeu coopératif entre deux joueurs ou plus dans le lobby afin d'être terminés.
 
-En raison de leur nature, les difficultés TAG sont soit non classées, soit aimée, car elles sont intentionnellement conçues pour être presque impossibles pour un seul joueur.
+Dans ces modes, chaque joueur est responsable d'une [chaîne de combo](/wiki/Beatmapping/Combo), et tout au long de la musique, les joueurs alternent entre les chaînes de combo. Pour cette raison, les beatmaps TAG sont souvent conçus de manière à ce que les chaînes de combo soient placées très loin les unes des autres, ce qui rend presque impossible le clear de la beatmap par un seul joueur.
+
+Les [difficultés](/wiki/Beatmap/Difficulty) TAG sont le plus souvent désignées par l'utilisation du terme `TAG` dans le nom de la difficulté. Le plus souvent, ce `TAG` sera suivi d'un nombre, qui indique typiquement le nombre de joueurs pour lequel la difficulté est prévue (par exemple, `TAG2` pour deux joueurs, ou `TAG4` pour quatre joueurs).
+
+En raison de leur nature, les difficultés TAG sont le plus souvent non classées, [approuvées](/wiki/Beatmap/Category#approved), ou [loved](/wiki/Beatmap/Category#loved). Cependant, en de rares occasions, les beatmaps TAG qui respectent les [critères de classement](/wiki/Ranking_criteria) et qui sont jugés aptes à être classés par les [Beatmap Nominators](/wiki/People/Beatmap_Nominators) peuvent se retrouver dans la section [Classée](/wiki/Beatmap/Category#ranked).
