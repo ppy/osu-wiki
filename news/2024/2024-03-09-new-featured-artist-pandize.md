@@ -6,7 +6,7 @@ date: 2024-03-09 18:30:00 +0000
 
 Another week, another Featured Artist. Welcome **Pandize** to our collection!
 
-![](https://assets.ppy.sh/artists/405/header.jpg)
+![](https://assets.ppy.sh/artists/405/header.jpg?1)
 
 Not to be confused with [Panda Eyes](https://osu.ppy.sh/
 beatmaps/artists/55), **Pandize** is an American producer who you might've come across for reasons beyond their music. Like all of you (probably), [Pandize is an osu! player](https://osu.ppy.sh/users/5490937) who's taken the next step in rhythm game: producing their own music!
