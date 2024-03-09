@@ -23,7 +23,7 @@ If you are not interested in *just* reading about the latest updates, you can al
 - **Various stable parity tweaks.** Varying from visual to gameplay changes, the devs put in some extra work to make sure osu!(lazer) matches stable.
 - **Various performance improvements.** Most of the performance updates this time around revolve about stutters users faced after last month's release switched to .NET 8, but there are also improvements when it comes to storyboard performance.
 - **New main menu hotkeys.** Similar to stable, you will now be able to use hotkeys to quickly get to your desired destination. One example being `M M M` to quickly open the multiplayer menu.
-- **The official osu! Argon skin has now received its own pp counter.** Go check it out in-game!
+- **The official osu! argon skin has now received its own pp counter.** Go check it out in-game!
 
 ### Achieved medals are now displayed in osu!(lazer)
 
@@ -35,7 +35,7 @@ osu!(lazer) medals when? Right now! Medals are now achievable on lazer, and you 
     </video>
 </div>
 
-### osu! argon now has redesigned hitsounds
+### The osu! argon skin now has redesigned hitsounds
 
 The argon skin now has received brand new hitsounds masterfully crafted by the one and only [nekodex](https://osu.ppy.sh/users/102)! Sit back, put some headphones on, and enjoy the showcase video below.
 
