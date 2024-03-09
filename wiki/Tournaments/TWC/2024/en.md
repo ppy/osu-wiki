@@ -233,7 +233,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253
    - Hidden + Hard Rock
 8. Failed scores will be counted. To that end, the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod will be enforced on every beatmap.
    - Teams that purposefully disregard this instruction and team fail as a result will lose said game.
-9. The tiebreaker will be played under Free Mod conditions, but players will be exempt from the mod requirement.
+9. The tiebreaker will be played under Free Mod conditions.
 
 ### Scheduling instructions
 
