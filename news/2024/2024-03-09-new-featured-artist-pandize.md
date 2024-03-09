@@ -28,19 +28,19 @@ Listen for yourself:
 Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/717623) hosted by [Mun](https://osu.ppy.sh/users/6699165)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/405/Songs/Pandize - Stratos.mp3">
 </audio>
 
 ### Pandize - Calling
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/405/Songs/Pandize - Calling.mp3">
 </audio>
 
 ### Pandize - Elevation
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/405/Songs/Pandize - Elevation.mp3">
 </audio>
 
 ---
