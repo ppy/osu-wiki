@@ -50,11 +50,30 @@ Hard Rock Showdown is run by various community members.
 
 ## Links
 
-- [**Register here**](https://forms.gle/vuTvUuE1PBZ1uFot7)
+- [Information spreadsheet](https://docs.google.com/spreadsheets/d/1cPIjLK9939txj99_fkf34AujWlxC3M0Ra_DPX0iebks/edit#gid=26758724)
 - [Discord server](https://discord.gg/aEkWWEeaaq)
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1887917?n=1)
 - [Livestream](https://www.twitch.tv/ChillierPear)
 - [Challonge bracket](https://challonge.com/HRS2024)
+
+## Mappools
+
+### Qualifiers
+
+**[Download the mappack here (76 MB)](https://drive.google.com/file/d/1IsYP3QBgnp8-XZj2ivR5FaLPxjpxJ_vj/view?usp=drive_link)**
+
+- Hard Rock
+  1. [youman feat. GUMI - Weenywalker \[holy flip dude\]](https://osu.ppy.sh/beatmapsets/2085331#osu/4368596)
+  2. [L.E.D. - INVISIBLE STRIX \[Winged Shadow\]](https://osu.ppy.sh/beatmapsets/1136884#osu/2374190)
+  3. [Yousei Teikoku - Autoscopy \[Extreme\]](https://osu.ppy.sh/beatmapsets/1633220#osu/3333699)
+  4. [cosMo@BousouP feat. Hatsune Miku - Machinegun Poem Doll \[Chaotic Burst of Maniac Rhythm\]](https://osu.ppy.sh/beatmapsets/1606218#osu/3279860)
+  5. [Seiryu - Critical Crystal \[Ultra\]](https://osu.ppy.sh/beatmapsets/199535#osu/473210)
+- Precision
+  1. [KOTOKO - INFINITE SKY \[Beyond the Geostationary Orbit Level\]](https://osu.ppy.sh/beatmapsets/1050152#osu/2194715)
+  2. [MYUKKE. - ARIGA THESIS \[born to cs5 forced to nm6\]](https://osu.ppy.sh/beatmapsets/1829054#osu/3753988)
+  3. [xi feat. Sta - Tiferet \[Another\]](https://osu.ppy.sh/beatmapsets/714225#osu/1509637)
+  4. [Julian Smith - Racist Coffee (Speed Up Ver.) \[All Drinks Are Created Equal\]](https://osu.ppy.sh/beatmapsets/871225#osu/2056505)
+  5. [kanone - The Sea of Memory \[PaRaDogi's Extra\]](https://osu.ppy.sh/beatmapsets/1347768#osu/3137731)
 
 ## Ruleset
 
