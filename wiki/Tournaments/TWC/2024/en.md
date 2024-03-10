@@ -104,6 +104,26 @@ The osu!taiko World Cup 2024 is run by various community members.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253130c40e8486cdfbcdf680bb19988d).
 
+## Mappools
+
+### Qualifiers
+
+**[Download the mappack here (28 MB)](https://packs.ppy.sh/P239%20-%20osu!taiko%20World%20Cup%202024%3A%20Qualifiers.zip)**\
+[View the showcase VOD here](https://www.twitch.tv/videos/2086820936)
+
+- No Mod
+  1. [katagiri - Meshimase!! Nyan-Nyan Nightmare (nananass) \[KTYN's NIGHTMARE\]](https://osu.ppy.sh/beatmapsets/878831#taiko/1842492)
+  2. [Feryquitous - THE SEVENS CODE (sendol) \[Inner Oni (Edit)\]](https://osu.ppy.sh/beatmapsets/1736507#taiko/4525789)
+  3. [Alice Schach and the Magic Orchestra - Doppelgangers (Nozdormu) \[Duality\]](https://osu.ppy.sh/beatmapsets/2148475#taiko/4525808)
+- Hidden
+  1. [L.E.D.-G - Karasu (roufou) \[MURDER\]](https://osu.ppy.sh/beatmapsets/2148481#taiko/4525819)
+- Hard Rock
+  1. [SOUND HOLIC feat. Nana Takahashi - EVANESCENT (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2148488#taiko/4525834)
+- Double Time
+  1. [PSYQUI - Still in my heart feat. Punipuni Denki (Sebola) \[You are still in my heart (TWC Edit)\]](https://osu.ppy.sh/beatmapsets/2148504#taiko/4525866)
+- Free Mod
+  1. [Chroma - To the Milky Way (davidminh0111) \[Supernova\]](https://osu.ppy.sh/beatmapsets/2148483#taiko/4525822)
+
 ## Ruleset
 
 ### Tournament rules
