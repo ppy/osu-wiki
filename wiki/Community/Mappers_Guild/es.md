@@ -41,7 +41,7 @@ Las misiones prioritarias están etiquetadas por dificultad. El nivel 1 es el m�
 
 ![Insignias de perfil del Mappers' Guild](img/mg-badges.png?2024-02 "Los cinco niveles de la insignia de perfil del Mappers' Guild")
 
-Las recompensas se distribuyen a través de un sistema de puntos. Cuando un usuario alcanza un umbral de puntos específico[^points], obtiene una clasificación diferente indicada por una insignia de perfil.
+Las recompensas se distribuyen a través de un sistema de puntos. Cuando un usuario alcanza un umbral de puntos específico[^points], obtiene un rango diferente indicada por una insignia de perfil.
 
 Cuando se creó el Mappers' Guild, había tres niveles de insignia de perfil de 100, 250 y 500 puntos respectivamente. Después de que [Annabel](https://osu.ppy.sh/users/3388410) se convirtiera en el primer usuario en alcanzar los 1000 puntos, se creó un cuarto nivel, y después de que [Hinsvar](https://osu.ppy.sh/users/1249323) se convirtió en el primer usuario en alcanzar 2500 puntos, se creó un quinto nivel. Si un usuario alcanza los 5000 puntos, se puede agregar un sexto nivel.
 
@@ -57,13 +57,13 @@ Se obtienen puntos por diferentes tareas del Mappers' Guild. Las ganancias varí
 | Mapear una dificultad Insane | 8[^map][^bonus] |
 | Mapear una dificultad Expert | 8[^map][^bonus] |
 | Ponerle hitsounds a un beatmap | 2 |
-| Alojamiento de un beatmap | 5 |
+| Alojar un beatmap | 5 |
 | Modear un beatmap | 1[^mod] |
 | Crear un storyboard | 2-10[^storyboard] |
 | Completar una misión prioritaria | 7-20[^priority-quest] |
 | Completar una misión | 7[^quest] |
-| Organización de un concurso | 5[^contest] |
-| Participación en un concurso | 3[^contest] |
+| Organizar un concurso | 5[^contest] |
+| Participar en un concurso | 3[^contest] |
 | Screening en un concurso | 1[^contest] |
 | Jurado en un concurso | 1[^contest] |
 
@@ -85,7 +85,7 @@ Además de los puntos generales del Mappers' Guild mencionados anteriormente, la
 
 Los miembros de Mappers' Guild también pueden participar en la creación de beatmaps de exhibición para futuros anuncios de artistas destacados. Tras el anuncio del artista destacado correspondiente, estos beatmaps se destacan en la [publicación de la noticia](https://osu.ppy.sh/home/news) y, a menudo, también se promocionan en el [Twitter de @osugame](https://twitter.com/osugame).
 
-Los beatmaps para [listas de reproducción de los artistas destacados](/wiki/People/Featured_Artists/Featured_Artist_playlists) también se coordinan a través del Mappers' Guild y, a menudo, se superponen con los beatmaps de exhibición.
+Los beatmaps para [listas de juego de los artistas destacados](/wiki/People/Featured_Artists/Featured_Artist_playlists) también se coordinan a través del Mappers' Guild y, a menudo, se superponen con los beatmaps de exhibición.
 
 ### Concursos de beatmapping
 
@@ -118,4 +118,4 @@ El [sitio web de Mappers' Guild](https://mappersguild.com/) se lanzó el 1 de ma
 [^storyboard]: Los puntos del storyboard se recompensan según el contenido del storyboard. Los storyboards minimalistas (normalmente letras básicas) se recompensan con 2 puntos, mientras que los storyboards detallados obtienen 10 puntos.
 [^priority-quest]: Los puntos de una misión prioritaria se basan en el nivel de la misión. El nivel 1 (el más fácil y el más común) proporciona 7, el nivel 2 proporciona 10, el nivel 3 proporciona 13 y el nivel 4 proporciona 20 (el más difícil y menos común).
 [^quest]: Esto no se aplica si la misión ya pasó su fecha límite, pero las bonificaciones por dificultad se siguen aplicando.
-[^contest]: Esto solo se aplica a los concursos de beatmapping que utilizan exclusivamente contenido de un artista destacado.
+[^contest]: Esto solo se aplica a los concursos de beatmapping que usan exclusivamente contenido de un artista destacado.
