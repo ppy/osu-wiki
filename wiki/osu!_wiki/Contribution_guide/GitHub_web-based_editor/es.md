@@ -7,7 +7,7 @@
 
 ## Navegación
 
-*Nota: Para trabajar con la osu! wiki, **[bifurca el repositorio `ppy/osu-wiki`](/wiki/osu!_wiki/Contribution_guide#editing-the-wiki).***
+*Nota: Para trabajar con la osu! wiki, **[bifurca el repositorio `ppy/osu-wiki`](/wiki/osu!_wiki/Contribution_guide#editar-la-wiki).***
 
 Para abrir la osu! wiki en el editor, reemplaza `github.com` en la URL de tu repositorio bifurcado por `github.dev`. Alternativamente, abre tu bifurcación en GitHub y presiona `.` (punto).
 
