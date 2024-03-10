@@ -5,6 +5,8 @@ tags:
   - 多人
   - 多人游戏
   - 接力
+outdated_translation: true
+outdated_since: 32109b7c23b5cfab19cab8597e7e22ba39d009f9
 ---
 
 # 接力 (TAG)
