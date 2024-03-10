@@ -21,7 +21,7 @@ Los creadores de estos beatmaps pueden enviar una petición para eliminarlos de 
 
 ## Eligibilidad
 
-Existen unos criterios mínimos que deben cumplir los beatmaps que son nominados a Amados. Cada modo de juego tiene sus propios criterios específicos de nominación y prioridad, pero todos los modos de juego siguen las siguientes reglas:
+Existen unos criterios mínimos que deben cumplir los beatmaps que son nominados a amados. Cada modo de juego tiene sus propios criterios específicos de nominación y prioridad, pero todos los modos de juego siguen las siguientes reglas:
 
 - Cumple con las [reglas de envío de beatmaps](/wiki/Rules#reglas-de-envío-de-beatmaps)
 - No está en las categorías [clasificados](/wiki/Beatmap/Category#ranked), [aprobados](/wiki/Beatmap/Category#approved) o [calificados](/wiki/Beatmap/Category#qualified)
