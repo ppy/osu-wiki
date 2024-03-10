@@ -11,6 +11,8 @@ Todos los osu! originals que han sido licenciados por el juego están autorizado
 
 ## Lista de osu! originals
 
+<!-- FOR TRANSLATORS: this section is automated and is not to be translated manually, even though this automation doesn't handle translations just yet. - Walavouchey -->
+
 ### Banda sonora original de osu!
 
 | Canción | Notas |
