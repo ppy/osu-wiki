@@ -50,7 +50,7 @@ Hard Rock Showdown is run by various community members.
 
 ## Links
 
-- [Information spreadsheet](https://chillierpear.xyz/HRSMain)
+- [Information spreadsheet](https://docs.google.com/spreadsheets/d/1cPIjLK9939txj99_fkf34AujWlxC3M0Ra_DPX0iebks/edit#gid=26758724)
 - [Discord server](https://discord.gg/aEkWWEeaaq)
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1887917?n=1)
 - [Livestream](https://www.twitch.tv/ChillierPear)
