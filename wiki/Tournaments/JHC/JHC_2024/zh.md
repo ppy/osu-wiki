@@ -17,35 +17,39 @@ tags:
 
 | 事项 | 时间 |
 | --: | :-- |
-| 报名阶段 | 2023-11-26/2024-01-06 |
+| 报名阶段 | 2023-11-26 / 2024-01-06 |
 | 资格赛图池展示 | 2024-01-13 |
-| 资格赛 | 2024-01-20/2024-01-21 |
-| 三十二强赛 | 2024-01-27/2024-02-04 |
-| 十六强赛 | 2024-01-10/2024-02-11 |
-| 八强赛 | 2024-02-17/2024-02-18 |
-| 半决赛 | 2024-02-24/2024-02-25 |
-| 决赛 | 2024-03-02/2024-03-03 |
-| 总决赛 | 2024-03-09/2024-03-10 |
+| 资格赛 | 2024-01-20 / 2024-01-21 |
+| 32 强赛 | 2024-01-27 / 2024-02-04 |
+| 16 强赛 | 2024-01-10 / 2024-02-11 |
+| 8 强赛 | 2024-02-17 / 2024-02-18 |
+| 半决赛 | 2024-02-24 / 2024-02-25 |
+| 决赛 | 2024-03-02 / 2024-03-03 |
+| 总决赛 | 2024-03-09 / 2024-03-10 |
 
 ## 奖励
 
+*如果以单人队参赛，osu!supporter 奖励时长翻倍。*
+
 | 名次 | 奖励 |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "冠军") | 个人资料徽章，*TBA* |
-| ![Silver crown](/wiki/shared/crown-silver.png "亚军") | *TBA* |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "季军") | *TBA* |
+| ![Gold crown](/wiki/shared/crown-gold.png "冠军") | 个人资料徽章，6 个月 osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "亚军") | 4 个月 osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "季军") | 3 个月 osu!supporter |
+| #4 - #6 | 2 个月 osu!supporter |
+| #7 - #12 | 1 个月 osu!supporter |
 
 ## 组织
 
 | 职务 | 成员 |
-| :-- | :-- |
+| --: | :-- |
 | 主办方 | ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [\[GB\]GanyuAngel](https://osu.ppy.sh/users/27233308) |
-| 图池管理 | ::{ flag=CN }:: [\[GB\]GanyuAngel](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [\[GB\]nyasun](https://osu.ppy.sh/users/16277321), ::{ flag=CN }:: [\[Paw\]doudou0310](https://osu.ppy.sh/users/13478805), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831) |
-| 图池助手 | ::{ flag=CN }:: [\[GB\]sherweifa](https://osu.ppy.sh/users/17457562), ::{ flag=CN }:: [\[GB\]V1do](https://osu.ppy.sh/users/17527968), ::{ flag=CN }:: [crazyrenard](https://osu.ppy.sh/users/30325323), ::{ flag=CN }:: [Glorionoly](https://osu.ppy.sh/users/8957029), ::{ flag=CN }:: [Ycloki](https://osu.ppy.sh/users/10861624) |
-| 裁判 | ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [\[GB\]GanyuAngel](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [\[GB\]ChickenGold](https://osu.ppy.sh/users/16586663), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [\[GB\]sherweifa](https://osu.ppy.sh/users/17457562), ::{ flag=US }:: [Akace100](https://osu.ppy.sh/users/9308128), ::{ flag=CN }:: [cdwcgt](https://osu.ppy.sh/users/14721101), ::{ flag=KR }:: [Oceanus](https://osu.ppy.sh/users/9164100), ::{ flag=CN }:: [TianRS](https://osu.ppy.sh/users/23929228), ::{ flag=CA }:: [walmart5193](https://osu.ppy.sh/users/16468962), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619) |
-| 解说 | ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [\[Crz\]Leaves](https://osu.ppy.sh/users/9644708), ::{ flag=CN }:: [\[GB\]Tyris](https://osu.ppy.sh/users/10497659), ::{ flag=CN }:: [\[GB\]sherweifa](https://osu.ppy.sh/users/17457562), ::{ flag=CN }:: [\[Paw\]doudou0310](https://osu.ppy.sh/users/13478805), ::{ flag=CN }:: [MGU1](https://osu.ppy.sh/users/27192847), ::{ flag=CN }:: [yks1](https://osu.ppy.sh/users/26030234), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CA }:: [walmart5193](https://osu.ppy.sh/users/16468962), |
-| 转播 | ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [\[GB\]ChickenGold](https://osu.ppy.sh/users/16586663), ::{ flag=CN }:: [\[GB\]Rush_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [\[GB\]Tyris](https://osu.ppy.sh/users/10497659), ::{ flag=CN }:: [cdwcgt](https://osu.ppy.sh/users/14721101), ::{ flag=CA }:: [walmart5193](https://osu.ppy.sh/users/16468962) |
-| 数据统计 & wiki编写 | ::{ flag=CN }:: [\[GB\]ChickenGold](https://osu.ppy.sh/users/16586663), ::{ flag=CN }:: [\[GB\]GanyuAngel](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [cdwcgt](https://osu.ppy.sh/users/14721101), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619) |
+| 图池管理 | ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [ieFaH](https://osu.ppy.sh/users/24243177), ::{ flag=CN }:: [yks1](https://osu.ppy.sh/users/26030234) |
+| 图池助手 | ::{ flag=CN }:: [\[Crz\]Leaves\_](https://osu.ppy.sh/users/9644708), ::{ flag=CN }:: [\[GB\]GanyuAngel](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [\[GB\]nyasun](https://osu.ppy.sh/users/16277321), ::{ flag=CN }:: [\[GB\]sherweifa](https://osu.ppy.sh/users/17457562), ::{ flag=CN }:: [\[GB\]Tyris](https://osu.ppy.sh/users/10497659), ::{ flag=CN }:: [\[GB\]V1do](https://osu.ppy.sh/users/17527968), ::{ flag=CN }:: [\[Paw\]doudou0310](https://osu.ppy.sh/users/13478805), ::{ flag=CN }:: [\[Paw\]Komane\_63](https://osu.ppy.sh/users/7143444), ::{ flag=CN }:: [CaptainLan](https://osu.ppy.sh/users/18483399), ::{ flag=CN }:: [CH3OHM](https://osu.ppy.sh/users/14066511), ::{ flag=CN }:: [crazyrenard](https://osu.ppy.sh/users/30325323), ::{ flag=CN }:: [Dreamemory](https://osu.ppy.sh/users/35406589), ::{ flag=CN }:: [Glorionoly](https://osu.ppy.sh/users/8957029), ::{ flag=CN }:: [Idkwto](https://osu.ppy.sh/users/32379983), ::{ flag=CN }:: [Suirent](https://osu.ppy.sh/users/10687430), ::{ flag=CN }:: [To2](https://osu.ppy.sh/users/26683857), ::{ flag=CN }:: [Ycloki](https://osu.ppy.sh/users/10861624), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619) |
+| 裁判 | ::{ flag=CN }:: [\[GB\]ChickenGold](https://osu.ppy.sh/users/16586663), ::{ flag=CN }:: [\[GB\]GanyuAngel](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [\[GB\]R\-Trigger](https://osu.ppy.sh/users/25308131), ::{ flag=CN }:: [\[GB\]Rush_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [\[GB\]sherweifa](https://osu.ppy.sh/users/17457562), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [cdwcgt](https://osu.ppy.sh/users/14721101), ::{ flag=PE }:: [ERA Xuste](https://osu.ppy.sh/users/17989444), ::{ flag=CN }:: [TianRS](https://osu.ppy.sh/users/23929228), ::{ flag=CN }:: [yks1](https://osu.ppy.sh/users/26030234), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619) |
+| 解说 | ::{ flag=CN }:: [\[Crz\]Leaves\_](https://osu.ppy.sh/users/9644708), ::{ flag=CN }:: [\[GB\]ChickenGold](https://osu.ppy.sh/users/16586663), ::{ flag=CN }:: [\[GB\]Rush_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [\[GB\]Tyris](https://osu.ppy.sh/users/10497659), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [cdwcgt](https://osu.ppy.sh/users/14721101), ::{ flag=CN }:: [MGU1](https://osu.ppy.sh/users/27192847), ::{ flag=CN }:: [Ycloki](https://osu.ppy.sh/users/10861624) |
+| 转播 | ::{ flag=CN }:: [\[GB\]ChickenGold](https://osu.ppy.sh/users/16586663), ::{ flag=CN }:: [\[GB\]Rush_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [\[GB\]Tyris](https://osu.ppy.sh/users/10497659), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [cdwcgt](https://osu.ppy.sh/users/14721101), ::{ flag=CA }:: [walmart5193](https://osu.ppy.sh/users/16468962) |
+| 数据统计 & wiki 编写 | ::{ flag=CN }:: [\[GB\]GanyuAngel](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [\[GB\]Rush_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [cdwcgt](https://osu.ppy.sh/users/14721101), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619) |
 
 ## 链接
 
@@ -57,6 +61,170 @@ tags:
 - [赛事信息表格](https://docs.google.com/spreadsheets/d/1Qm2BfIc2LFbf59-2RBkqnOde95y2WgoyO_XRNSrvNa4/)
 
 ## 图池
+
+### 总决赛
+
+[点击此处下载图包（）]()
+
+- Full Jack
+  1. 
+  2. 
+- Dense Chordjack
+  1.
+  2. 
+- Middle Chordjack
+  1.
+  2. 
+- Light Chordjack
+  1.
+  2.
+- Anchor Jack
+  1.
+  2.
+- Difficult Jack
+  1.
+- Quadstream
+  1.
+- Minijack
+  1. 
+- Rhythm Jack
+  1. 
+- Tie Breaker
+  1. 
+
+### 决赛
+
+[点击此处下载图包（）]()
+
+- Full Jack
+  1.
+  2. 
+- Dense Chordjack
+  1.
+  2. 
+- Middle Chordjack
+  1.
+  2. 
+- Light Chordjack
+  1.
+  2.
+- Anchor Jack
+  1.
+  2.
+- Quadstream
+  1.
+- Minijack
+  1. 
+- Rhythm Jack
+  1. 
+- Tie Breaker
+  1. 
+
+### 半决赛
+
+[点击此处下载图包（）]()
+
+- Full Jack
+  1.
+  2. 
+- Dense Chordjack
+  1.
+  2. 
+- Middle Chordjack
+  1.
+  2. 
+- Light Chordjack
+  1.
+  2.
+- Anchor Jack
+  1.
+  2.
+- Quadstream
+  1.
+- Minijack
+  1. 
+- Rhythm Jack
+  1. 
+- Tie Breaker
+  1. 
+
+### 8 强赛
+
+[点击此处下载图包（）]()
+
+- Full Jack
+  1.
+  2. 
+- Dense Chordjack
+  1.
+  2. 
+- Middle Chordjack
+  1.
+  2. 
+- Light Chordjack
+  1.
+  2.
+- Anchor Jack
+  1.
+  2.
+- Quadstream
+  1.
+- Minijack
+  1. 
+- Rhythm Jack
+  1. 
+- Tie Breaker
+  1. 
+
+### 16 强赛
+
+[点击此处下载图包（）]()
+
+- Full Jack
+  1.
+  2. 
+- Dense Chordjack
+  1.
+  2. 
+- Middle Chordjack
+  1.
+  2. 
+- Light Chordjack
+  1.
+  2.
+- Anchor Jack
+  1.
+- Minijack
+  1. 
+- Rhythm Jack
+  1. 
+- Tie Breaker
+  1. 
+
+### 32 强赛
+
+[点击此处下载图包（）]()
+
+- Full Jack
+  1.
+  2. 
+- Dense Chordjack
+  1.
+  2. 
+- Middle Chordjack
+  1.
+  2. 
+- Light Chordjack
+  1.
+  2.
+- Anchor Jack
+  1.
+- Minijack
+  1. 
+- Rhythm Jack
+  1. 
+- Tie Breaker
+  1. 
 
 ### 资格赛
 
@@ -86,7 +254,7 @@ tags:
 5. 比赛开始前一周内将预设好每轮的比赛的日程。
 6. 允许使用皮肤或者修改显示设定禁用叙事板及打击音效。
    - 皮肤不可以修改核心游戏机制。
-7. 如果比赛时一方无人到场，比赛可以被推迟最多 10 分钟。如果 10 分钟后一方还是缺人，那么到场的队伍 *默认判胜*；如果 10 分钟后双方均缺人，那么红队 *默认判胜*。
+7. 如果比赛时一方无人到场，比赛可以被推迟最多 10 分钟。如果 10 分钟后一方还是缺人，那么到场的队伍 *默认判胜*；如果 10 分钟后双方均缺人，那么资格赛排名更高的队伍 *默认判胜*。
    - 最少的比赛人数是使房间没有任何空位的最低人数，因此每队至少需要 1 人到场才能开赛。
 8. 比赛没有热手阶段。
 9. 比赛中可以自由上下选手，除了触发特定规则的情况下。
@@ -154,7 +322,7 @@ tags:
 
 1. 资格赛阶段，排名前 48 的队伍才能晋级双败制比赛阶段。
 2. 在 32 强和 16 强赛，赢下比赛需要赢下 5 张谱面（BO9）。
-3. 在四分之一决赛、半决赛和决赛，赢下比赛需要赢下 6 张谱面（BO11）。
+3. 在 8 强赛、半决赛和决赛，赢下比赛需要赢下 6 张谱面（BO11）。
 4. 在总决赛，赢下比赛需要赢下 7 张谱面（BO13）。
 
 ### 比赛流程
@@ -184,7 +352,7 @@ tags:
 3. 每轮图池的数量如下:
    - 资格赛：6 张
    - 32 强赛和 16 强赛：12 张
-   - 四分之一决赛、半决赛和决赛：14 张
+   - 8 强赛、半决赛和决赛：14 张
    - 总决赛：15 张
 4. 除资格赛图池之外，每个图池包含一张 TB 决胜局谱面，也将在 FreeMod 条件下游玩。
 5. Free Mod 所允许的模组包括 `No Fail`, `Hidden`, `FadeIn`, `Flashlight` 和 `Mirror`。
@@ -197,7 +365,7 @@ tags:
    - **如果队伍在资格赛未选择区间，会被视作弃赛。**
 3. 除特殊情况外，所有的比赛会在周六 0:00 到周日 23:59 之间进行（UTC+8）。
 4. 比赛日程由主办方来进行安排。主办方会在比赛开始前的上个周日提前预设好每轮的比赛的日程，尽量创造一个所有参赛选手都满意的时间安排。
-   - 从四分之一决赛开始，如果队伍想要特定的时间段，他们可以通知主办方。
+   - 从 8 强赛开始，如果队伍想要特定的时间段，他们可以通知主办方。
 5. **只有双方队伍都同意并跟主办方沟通之后才可以在比赛开始 1 天前修改时间。**
    - 时间不会安排到每周 **周日 23:00 之后**，除非这无法避免且双方和主办方都同意。
    - **主办方有权拒绝修改时间的申请，所以请尽量少提交申请除非真的必要。**
