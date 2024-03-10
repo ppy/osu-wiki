@@ -32,7 +32,7 @@ El número en la parte inferior izquierda es el contador del combo/multiplicador
 
 ![Círculos](/wiki/shared/osu_hitcircles.jpg "Un círculo de osu!")
 
-En el campo de juego aparecerán círculos de colores con números encima, llamados círculos de golpeo. Un fino círculo de aproximación de color similar en el exterior del círculo se reducirá con el tiempo. Pulsa los círculos en el punto exacto en que el círculo de aproximación toca sus bordes blancos, en el orden indicado por los números.
+En el campo de juego aparecerán círculos de colores con números encima. Un fino círculo de aproximación de color similar en el exterior del círculo se reducirá con el tiempo. Pulsa los círculos en el punto exacto en que el círculo de aproximación toca sus bordes blancos, en el orden indicado por los números.
 
 Después de golpear un círculo, aparece un número que indica el juicio recibido sobre la precisión al momento del golpe.
 
@@ -50,7 +50,7 @@ A veces, como se muestra en la captura de pantalla anterior, la bola puede inver
 
 Mantén presionado el botón del ratón/teclado (o mantén el lápiz sobre la tableta). Desde allí, usa el ratón (o lápiz) y gira el spinner en movimiento circular (en cualquier dirección) hasta que el spinner crezca completamente hacia afuera. Aparecerá un aviso de *Clear* para indicar que se completó el spinner. Si el spinner se completó antes, puedes continuar girando para obtener una bonificación de puntuación y recuperar un poco de salud.
 
-El círculo blanco exterior muestra cuánto tiempo queda para completar el spinner. Este círculo se volverá rojo para notificar que el tiempo casi se acaba. Las skins más antiguas, que usan una [versión de skin](/wiki/Skinning/skin.ini#versions) 1,0, tendrán un medidor para indicar qué tan cerca está por completarse el spinner.
+El círculo blanco exterior muestra cuánto tiempo queda para completar el spinner. Este círculo se volverá rojo para notificar que el tiempo casi se acaba. Las skins más antiguas, que usan una [versión de skin](/wiki/Skinning/skin.ini#versions) 1.0, tendrán un medidor para indicar qué tan cerca está por completarse el spinner.
 
 El pequeño cuadro debajo del spinner muestra la velocidad de giro actual, medida en giros por minuto.
 
@@ -86,11 +86,11 @@ Después de completar un beatmap, a la puntuación se le asigna una [grado](/wik
 
 ## Skinning
 
-*[Consulta la página de Skinning de osu! para obtener información completa](/wiki/Skinning/osu!).*
+*[Consulta la página Skinning de osu! para obtener información completa](/wiki/Skinning/osu!).*
 
 ## Beatmapping
 
-*[Consulta la página de Beatmapping para obtener información completa](/wiki/Beatmapping).*
+*[Consulta la página Beatmapping para obtener información completa](/wiki/Beatmapping).*
 
 ## Curiosidades
 
