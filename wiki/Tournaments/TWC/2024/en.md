@@ -108,7 +108,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253
 
 ### Qualifiers
 
-**[Download the mappack here (28 MB)](https://packs.ppy.sh/P239%20-%20osu!taiko%20World%20Cup%202024%3A%20Qualifiers.zip)**
+**[Download the mappack here (28 MB)](https://packs.ppy.sh/P239%20-%20osu!taiko%20World%20Cup%202024%3A%20Qualifiers.zip)**\
+[View the showcase VOD here](https://www.twitch.tv/videos/2086820936)
 
 - No Mod
   1. [katagiri - Meshimase!! Nyan-Nyan Nightmare (nananass) \[KTYN's NIGHTMARE\]](https://osu.ppy.sh/beatmapsets/878831#taiko/1842492)
