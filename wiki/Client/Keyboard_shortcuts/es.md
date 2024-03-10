@@ -12,7 +12,7 @@ tags:
 
 # Referencia de las teclas de acceso rápido
 
-Hay muchos atajos en osu! que se puede usar mientras estás en el juego o mientras estás inactivo en cualquier pantalla. Se enumeran con sus funciones a continuación.
+Hay muchos atajos en osu! que se pueden usar mientras el jugador está en el juego o inactivo en cualquier pantalla. Se enumeran con sus funciones a continuación.
 
 *Nota: este artículo enumera los atajos de teclado predeterminados. Puedes cambiar algunos de ellos en las [opciones](/wiki/Client/Options).*
 
@@ -25,12 +25,12 @@ Estos atajos funcionan en cualquier lugar:
 | `Alt` + `F4` | Cierra el cliente de juego (sin avisos). Si estás en el juego, en el editor de beatmaps o en osu!direct, vuelve al selector de canciones o al menú principal (para osu!direct). |
 | `Alt` + `Flecha arriba/abajo` | Ajusta el volumen principal, usa las flechas izquierda y derecha para ajustar los volúmenes de los efectos y de la música. |
 | `Ctrl` + `Alt` + `Mayús` + `S` | Vuelve a cargar la skin actual. Si se presiona durante el juego o en la pantalla de resultados, esto se ejecutará después de regresar a la pantalla del selector de canciones. |
-| `Ctrl` + `F11` | Alterna el gráfico de tiempo de los fotogramas. Al presionar `Ctrl` se pausará. |
-| `F7` | Cambia los limitadores de la velocidad de los fotogramas. |
+| `Ctrl` + `F11` | Alterna el gráfico de tiempo entre fotogramas. Presionar `Ctrl` lo pausará. |
+| `F7` | Cambia los limitadores de tiempo entre fotogramas. |
 | `F8` | Alterna la ventana del chat. |
 | `F9` | Alterna la ventana del chat extendido. |
 | `F10` | Alterna todos los botones del ratón (excepto la rueda del ratón, que siempre está habilitada). |
-| `F12` | Toma una captura de pantalla. Haz clic en el cuadro de diálogo para abrir la carpeta de las capturas de pantalla. |
+| `F12` | Toma una captura de pantalla. Hacer clic en el cuadro de diálogo abrirá la carpeta de las capturas de pantalla. |
 | `Mayús` + `F12` | Toma una captura de pantalla y se sube al servidor para compartirla. La captura de pantalla también se guardará localmente. Esto abrirá la captura de pantalla en tu navegador. |
 | `Insertar` | Esta es la [tecla jefe](https://en.wikipedia.org/wiki/Boss_key). Minimiza el cliente del juego en el área de notificaciones. Esto también silenciará el juego. |
 | `Mayús` + `F1` | Abre [osu!status](https://twitter.com/osustatus) en tu navegador. (Solo cuando aparece un error de conexión). |
@@ -66,7 +66,7 @@ Estos atajos funcionan en cualquier lugar:
 
 ## Selector de canciones
 
-*Nota: No todos funcionan en la pantalla del selector de canciones de multijugador.*
+*Nota: No todos funcionan en la pantalla de selección de canciones de multijugador.*
 
 | Atajo | Acción |
 | :-- | :-- |
@@ -74,15 +74,15 @@ Estos atajos funcionan en cualquier lugar:
 | `F2` | Selecciona aleatoriamente un beatmap. |
 | `Mayús` + `F2` | Vuelve al beatmap previamente seleccionado aleatoriamente. |
 | `F3` | Abre las opciones del beatmap. |
-| `F5` | Vuelve a procesar los beatmaps (esto puede pedirte si quiere continuar). |
+| `F5` | Vuelve a procesar los beatmaps (puede que pida confirmación para continuar). |
 | `Mayús` + `Suprimir` | Abre el cuadro de diálogo para borrar el beatmap. Te preguntará si quieres borrar el beatmap (todas las dificultades), una sola dificultad o todos los beatmaps visibles. |
 | `Ctrl` + `1` | Cambia el modo de juego a [osu!](/wiki/Game_mode/osu!). |
 | `Ctrl` + `2` | Cambia el modo de juego a [osu!taiko](/wiki/Game_mode/osu!taiko). |
 | `Ctrl` + `3` | Cambia el modo de juego a [osu!catch](/wiki/Game_mode/osu!catch). |
 | `Ctrl` + `4` | Cambia el modo de juego a [osu!mania](/wiki/Game_mode/osu!mania). |
-| `Ctrl` + `Entrar` | Juega el beatmap seleccionado con [Auto mod](/wiki/Gameplay/Game_modifier/Auto). |
+| `Ctrl` + `Entrar` | Juega el beatmap seleccionado con el [mod Auto](/wiki/Gameplay/Game_modifier/Auto). |
 | `Ctrl` + `Mayús` + `Entrar` | Juega el beatmap seleccionado con el [mod Cinema](/wiki/Gameplay/Game_modifier/Cinema). |
-| `Ctrl` + `A` | Alterna a Auto mod. |
+| `Ctrl` + `A` | Alterna al mod Auto. |
 | `Ctrl` + `F3` o `Ctrl` + `+` | Aumenta la velocidad de desplazamiento de osu!mania (mientras estás en el modo osu!mania). |
 | `Ctrl` + `F4` o `Ctrl` + `-` | Disminuye la velocidad de desplazamiento de osu!mania (mientras estás en el modo osu!mania). |
 | `Ctrl` + `Retroceso` | Elimina la última palabra en la barra de búsqueda. |
@@ -129,7 +129,7 @@ Estos atajos funcionan en cualquier lugar:
 | `Barra espaciadora` | Saltar al juego. |
 | `Tabulador` | Alterna el marcador. |
 | `Mayús` + `Tabulador` | Alterna la visualización de la interfaz del juego. |
-| `H` | Alterna la visualización del marcador y la interfaz de la repetición (cuando miras una repetición o eres espectador). |
+| `H` | Alterna la visualización del marcador y la interfaz de la repetición (viendo una repetición o siendo espectador). |
 | `F3` o `F4` | Ajusta la velocidad para osu!mania (se puede usar cerca del comienzo del juego). |
 | `Ctrl` + `R` o `` ` `` | Debe mantenerse pulsado brevemente. Reintenta rápidamente el mapa actual (se salta la introducción al reintentar). |
 
@@ -175,11 +175,11 @@ Estos atajos funcionan en cualquier lugar dentro del editor de beatmaps:
 | `F1` | Cambia a la pestaña [compose](/wiki/Client/Beatmap_editor/Compose). |
 | `F2` | Cambia a la pestaña [design](/wiki/Client/Beatmap_editor/Design). |
 | `F3` | Cambia a la pestaña [timing](/wiki/Client/Beatmap_editor/Timing). |
-| `F4` | Abra el cuadro de diálogo [song setup](/wiki/Client/Beatmap_editor/Song_setup). |
+| `F4` | Abre la ventana de [configuración de la canción](/wiki/Client/Beatmap_editor/Song_setup). |
 | `F5` | Entra al modo de prueba. |
-| `F6` | Abre el cuadro de diálogo de los puntos de control y temporización. |
-| `Ctrl` + `P` | Agrega un punto de tiempo no heredado en la marca de tiempo actual. Si no estás en la pestaña timing, esto también abrirá el cuadro de diálogo de los puntos de control y temporización. |
-| `Ctrl` + `Mayús` + `P` | Agrega un punto de tiempo heredado en la marca de tiempo actual. Esto también abrirá el cuadro de diálogo de los puntos de control y temporización. |
+| `F6` | Abre la ventana de puntos de tiempo y control. |
+| `Ctrl` + `P` | Agrega un punto de tiempo no heredado en la marca de tiempo actual. Si no estás en la pestaña timing, esto también abrirá la ventana de puntos de tiempo y control. |
+| `Ctrl` + `Mayús` + `P` | Agrega un punto de tiempo heredado en la marca de tiempo actual. Esto también abrirá la ventana de puntos de tiempo y control. |
 | `Ctrl` + `I` | Elimina la sección actual heredada o no heredada. Esto no funcionará en el primer punto de tiempo no heredado. |
 
 #### Ratón
@@ -189,7 +189,7 @@ Estos atajos funcionan en cualquier lugar dentro del editor de beatmaps:
 | `Rueda del ratón hacia arriba/abajo` | Busca hacia adelante/atrás. |
 | `Mayús` + `Rueda del ratón hacia arriba/abajo` | Busca hacia adelante/atrás a 4x. |
 | `Ctrl` + `Rueda del ratón hacia arriba/abajo` | Ajusta el divisor de ritmo. |
-| `Alt` + `Rueda del ratón hacia arriba/abajo` | Ajusta el multiplicador de distancia de las notas al pasar el cursor sobre el campo de juego. Ajuste el zoom de la línea de tiempo al pasar el cursor sobre la línea de tiempo. |
+| `Alt` + `Rueda del ratón hacia arriba/abajo` | Ajusta el multiplicador de distancia de las notas al pasar el cursor sobre el campo de juego. Ajusta el zoom de la línea de tiempo al pasar el cursor sobre la línea de tiempo. |
 | `Alt` + `Mayús` + `Rueda del ratón hacia arriba/abajo` | Ajusta con mayor precisión el multiplicador de distancia de las notas al pasar el cursor sobre el campo de juego. |
 
 ### Compose
@@ -198,7 +198,7 @@ Estos atajos funcionan en cualquier lugar dentro del editor de beatmaps:
 
 | Atajo | Acción |
 | :-- | :-- |
-| `Alt` + `F4` or `Escape` | Vuelve al selector de canciones. |
+| `Alt` + `F4` o `Escape` | Vuelve al selector de canciones. |
 | `Ctrl` + `Z` | Deshacer. |
 | `Ctrl` + `Y` | Rehacer. |
 | `Ctrl` + `A` | Selecciona todos los objetos. |
@@ -218,7 +218,7 @@ Estos atajos funcionan en cualquier lugar dentro del editor de beatmaps:
 | Atajo | Acción |
 | :-- | :-- |
 | `Doble clic` | En círculos o slider ends para saltar a la posición del objeto en la línea de tiempo desde cualquier punto de la canción. (osu!, osu!taiko, osu!catch) |
-| `Clic derecho` | Alterna nuevos combos (al colocar nuevos objetos) o elimina objetos (al seleccionar). |
+| `Clic derecho` | Alterna los nuevos combos (al colocar nuevos objetos) o elimina objetos (al seleccionar). |
 
 #### Campo de juego
 
@@ -249,9 +249,9 @@ Estos atajos funcionan en cualquier lugar dentro del editor de beatmaps:
 | `Ctrl` + `Mayús` + `S` | Escala los objetos seleccionados en una cantidad especificada (abre un cuadro de diálogo). |
 | `Ctrl` + `Mayús` + `D` | Genera polígonos con un número especificado de puntos (abre un cuadro de diálogo). |
 | `Ctrl` + `Mayús` + `F` | Convierte el slider seleccionado en un stream de círculos (abre un cuadro de diálogo). |
-| `Ctrl` + `Flecha izquierda/derecha/arriba/abajo` | Mueve las notas seleccionadas en la dirección pulsada. (osu!, osu!taiko, osu!catch) |
-| `Ctrl` + `Flecha izquierda/derecha` | Mueve los objetos seleccionados una columna a la izquierda o a la derecha. (osu!mania) |
-| `Ctrl` + `Flecha arriba/abajo` | Mueve los objetos seleccionados 1 divisor hacia arriba o hacia abajo. (osu!mania) |
+| `Ctrl` + `Flecha izquierda/derecha/arriba/abajo` | Mueve las notas seleccionadas en la dirección pulsada. (osu!, osu!taiko, osu!catch). |
+| `Ctrl` + `Flecha izquierda/derecha` | Mueve los objetos seleccionados una columna a la izquierda o a la derecha. (osu!mania). |
+| `Ctrl` + `Flecha arriba/abajo` | Mueve los objetos seleccionados 1 divisor hacia arriba o hacia abajo. (osu!mania). |
 
 #### Hitsounding
 
@@ -290,8 +290,8 @@ Estos atajos funcionan en cualquier lugar dentro del editor de beatmaps:
 
 | Atajo | Acción |
 | :-- | :-- |
-| `T` | Establece el BPM y el offset cuando se pulsa al ritmo de la canción. |
-| `Mayús` mientras ajustas el BPM u offset | Incrementa 5 veces la cantidad normal. |
+| `T` | Establece el BPM y la compensación cuando se pulsa al ritmo de la canción. |
+| `Mayús` mientras ajustas el BPM o la compensación | Incrementa 5 veces la cantidad normal. |
 | `Ctrl` mientras ajustas el BPM | Incrementa en 0,25 |
-| `Ctrl` mientras ajustas el offset | Incrementa en 1. |
+| `Ctrl` mientras ajustas la compensación | Incrementa en 1. |
 | `Ctrl` mientras ajustas la velocicad del slider | Incrementa en 0,1. |
