@@ -8,7 +8,7 @@ La forma de una declaración de una muestra de audio es:
 
 `Sample,<tiempo>,<número de la capa>,"<ruta del archivo>",<volumen>`
 
-dónde:
+en donde:
 
 - `<tiempo>` es la marca de tiempo en la que el sonido debería comenzar a reproducirse.
 - `<número de la capa>` es un *valor numérico* correspondiente a la capa en la que desea que esté el sonido. Los valores válidos se enumeran a continuación.
