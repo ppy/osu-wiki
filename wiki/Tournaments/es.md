@@ -1,5 +1,5 @@
 ---
-outdated_since: 9e7171bcffbb05be58c6444cf46ea6ba11e1a59c
+outdated_since: edef8265df7b8534e60d912986ebae79d3835ae9
 outdated_translation: true
 ---
 
@@ -49,6 +49,7 @@ Torneos oficiales organizados por el osu! team.
 | [osu!taiko World Cup 2021](TWC/2021) | 6/3/2021 | 11/4/2021 | ::{ flag=JP }:: Japón | ::{ flag=KR }:: Corea del Sur | ::{ flag=BR }:: Brasil |
 | [osu!taiko World Cup 2022](TWC/2022) | 12/3/2022 | 24/4/2022 | ::{ flag=JP }:: Japón | ::{ flag=KR }:: Corea del Sur | ::{ flag=ID }:: Indonesia |
 | [osu!taiko World Cup 2023](TWC/2023) | 18/3/2023 | 30/4/2023 | ::{ flag=JP }:: Japón | ::{ flag=TW }:: Taiwán | ::{ flag=DE }:: Alemania |
+| [osu!taiko World Cup 2024](TWC/2024) | 16/3/2024 | 28/4/2024 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch World Cup
 
@@ -88,7 +89,7 @@ Torneos oficiales organizados por el osu! team.
 | [osu!mania 4K World Cup 2022](MWC/2022_4K) | 7/7/2022 | 18/9/2022 | ::{ flag=KR }:: Corea del Sur | ::{ flag=BR }:: Brasil | ::{ flag=US }:: Estados Unidos |
 | [osu!mania 7K World Cup 2023](MWC/2023_7K) | 15/12/2022 | 18/2/2023 | ::{ flag=PH }:: Filipinas | ::{ flag=KR }:: Corea del Sur | ::{ flag=MY }:: Malasia |
 | [osu!mania 4K World Cup 2023](MWC/2023_4K) | 13/7/2023 | 24/9/2023 | ::{ flag=US }:: Estados Unidos | ::{ flag=KR }:: Corea del Sur | ::{ flag=ID }:: Indonesia |
-| [osu!mania 7K World Cup 2024](MWC/2024_7K) | 15/12/2023 | 25/2/2023 | *TBD* | *TBD* | *TBD* |
+| [osu!mania 7K World Cup 2024](MWC/2024_7K) | 15/12/2023 | 25/2/2024 | *TBD* | *TBD* | *TBD* |
 
 ## Comunidad
 
@@ -156,6 +157,13 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | CES League osu! Tournament | 2/12/2019 | 19/1/2020 | ;w; | kirundy | TeamNameIn1v1Xd |
 | [CES League osu! Tournament 2](CES/CES2) | 1/5/2020 | 16/8/2020 | Woopak | MissClick324 | Thymue |
+
+#### COE 1v1 Tournament
+
+| Nombre | Inicio | Final | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [COE 1v1 Tournament 2022](COE/COE_2022) | 17/1/2022 | 17/2/2022 | ::{ flag=DE }:: okinamo | ::{ flag=GB }:: Malteser | ::{ flag=DK }:: cat burger |
+| [COE 1v1 Tournament 2023](COE/COE_2023) | 14/7/2023 | 5/8/2023 | ::{ flag=DE }:: criller | ::{ flag=KR }:: FlyingTuna | ::{ flag=DK }:: cat burger |
 
 #### Coffee Hispanic
 
