@@ -445,7 +445,7 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | Ulat Bulu Cup 2019 | 26/07/2019 | 31/08/2019 | Jidank Hamil | Susu Vanilla Cimory | Budak Cygames |
 | [Ulat Bulu Cup 2020](UCUP/2020) | 02/06/2020 | 12/07/2020 | awan fanclub | Press 3 Fs to pay respects | terserah |
 | [Ulat Cup 2021](UCUP/2021) | 13/09/2021 | 31/10/2021 | Rushia | Surtr S3 | L9 Hamster |
-| [Ulat Cup 2022](UCUP/2022) | 30/09/2022 | 11/12/2022 | ::{ flag=TH }:: [chests](https://osu.ppy.sh/users/14806365) | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | [LouisZpro](https://osu.ppy.sh/users/6231292) |
+| [Ulat Cup 2022](UCUP/2022) | 24/10/2022 | 11/12/2022 | ::{ flag=TH }:: [chests](https://osu.ppy.sh/users/14806365) | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | [LouisZpro](https://osu.ppy.sh/users/6231292) |
 
 #### Vin-Tana Solo Showdown
 
