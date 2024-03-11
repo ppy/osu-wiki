@@ -6,7 +6,7 @@ Los **archivos de audio** (WAV, MP3 y OGG) se pueden reproducir en momentos espe
 
 La forma de una declaración de una muestra de audio es:
 
-`Muestra,<tiempo>,<número de la capa>,"<ruta del archivo>",<volumen>`
+`Sample,<tiempo>,<número de la capa>,"<ruta del archivo>",<volumen>`
 
 dónde:
 
@@ -29,8 +29,8 @@ Los valores válidos para capas son:
 Por ejemplo, para reproducir una pista musical corta (short!) cuando el jugador consigue un buen final en el beatmap (por ejemplo, terminar en el estado Pass), y luego reproducir un efecto de sonido de explosión como parte de la escena:
 
 ```
-Muestra,163520,2,"Audio\Best End.mp3",80
-Muestra,167201,2,"Audio\sfx\EndG-SmallExplosion.wav",100
+Sample,163520,2,"Audio\Best End.mp3",80
+Sample,167201,2,"Audio\sfx\EndG-SmallExplosion.wav",100
 ```
 
 Ten en cuenta que el volumen de la música es más bajo para que destaque el efecto de sonido, y que la capa para ambos es 2 (Pass).
