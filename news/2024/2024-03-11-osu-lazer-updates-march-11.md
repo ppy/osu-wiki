@@ -40,7 +40,7 @@ See how that looks like in the video below:
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/media/news/" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/2024-03-medal-get.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -50,7 +50,7 @@ The argon skin now has received brand-new hitsounds masterfully crafted by the o
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/media/news/" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/2024-03-new-argon-hitsounds.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
