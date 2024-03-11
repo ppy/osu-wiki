@@ -16,6 +16,8 @@ If you are not interested in *just reading* about the latest updates, you can al
 
 ### Smaller changes
 
+- **osu! file associations work now.** You can double click beatmaps, skins, etc. to open them in osu!(lazer).
+- **Beatmap difficulty information when hovering a beatmap in a multiplayer or playlist lobby.** Another feature from osu!(stable) that was missing until now.
 - **The F grade is updated to match website designs.** You can now fail in a more fabulous fashion.
 - **Fixed main menu eating keys if user presses too fast.** osu! can now keep up with your TAS-level menuing skills.
 - **User statistics updates now show on multiplayer and playlist results screen.** Did you know you can earn pp and gain ranks even in multiplayer? It turns out the client didn't, but now it does.
@@ -54,7 +56,7 @@ The argon skin now has received brand-new hitsounds masterfully crafted by the o
 
 ---
 
-As always, the full [changelog](TBD) lists all changes, including the smallest ones.
+As always, the full [changelog](https://osu.ppy.sh/home/changelog/lazer/2024.312.0) lists all changes, including the smallest ones.
 
 If you are the type of person who likes to experience cutting-edge technology, why not go beyond that and [experience osu!(lazer)](https://osu.ppy.sh/home/download)? After all, lasers are sharper than any cutting edge.
 
