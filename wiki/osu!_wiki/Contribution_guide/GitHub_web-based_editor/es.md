@@ -1,7 +1,7 @@
 # Editor web de GitHub
 
 *Nota: este artículo usa combinaciones de teclas de Windows.*\
-*Véase también: [El editor basado en web de github.dev - Documentación de GitHub](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor)*
+*Véase también: [El editor basado en web de github.dev - Documentación de GitHub](https://docs.github.com/es/codespaces/the-githubdev-web-based-editor)*
 
 [github.dev](https://github.dev) es una versión web disponible públicamente y adaptada a GitHub de [Visual Studio Code](https://code.visualstudio.com). En comparación con el propio editor web de GitHub, ofrece mucha más flexibilidad y control sobre el contenido del repositorio. github.dev es una forma recomendada de contribuir a la osu! wiki, especialmente mientras trabajas en varios artículos a la vez.
 
@@ -18,7 +18,7 @@ Para abrir la osu! wiki en el editor, reemplaza `github.com` en la URL de tu rep
 Si bien se puede acceder a todos los menús desde la interfaz del editor, la forma de navegación prevista es mediante la **paleta de comandos**:
 
 - Presiona `F1` e ingresa el nombre de una configuración para abrir o una acción para realizar. Si no aparece nada, explora el menú desplegable (`≡`) en la esquina superior izquierda de la pantalla.
-- Para abrir un archivo, presiona `Ctrl` + `P` e ingresa tu nombre.
+- Para abrir un archivo, presiona `Ctrl` + `P` e ingresa su nombre.
 
 ## Ramificación
 
@@ -64,6 +64,6 @@ Los artículos se almacenan en carpetas con el texto original (`en.md`) y sus tr
 3. Ingresa el mensaje de confirmación en inglés. **Usa un mensaje de confirmación breve y significativo**, ya que permite que los demás sepan lo que hay en el cuadro.
 4. Presiona `Ctrl` + `Entrar` o haz clic en el botón `✓` para confirmar y enviar tus cambios.
 
-## ¿Qué sigue?
+## Próximos pasos
 
 Cuando todo esté listo, usa [Prácticas recomendadas § Autocomprobación](/wiki/osu!_wiki/Contribution_guide#self-check) para revisar tus cambios. Después de eso, envía tus cambios para su revisión [abriendo una solicitud de cambios](/wiki/osu!_wiki/Contribution_guide#solicitudes-de-cambios) al repositorio `ppy/osu-wiki`.
