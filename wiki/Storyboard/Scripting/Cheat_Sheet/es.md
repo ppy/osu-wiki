@@ -79,7 +79,7 @@ Para cada uno de los tipos de eventos siguientes, los valores iniciales de ese e
 | T | Bucle activado por un evento |
 | P | Parámetros |
 
-| Easing | Descripción |
+| Suavizado | Descripción |
 | :-: | :-- |
 | 0 | Ninguno |
 | 1 | Empezar rápido y disminuir la velocidad |
