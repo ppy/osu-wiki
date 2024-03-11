@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "osu!(lazer) Updates: March 11, 2024"
-date: 2024-03-11 16:30:00 +0000
+date: 2024-03-11 19:00:00 +0000
 ---
 
-Strap in and get ready to experience a new batch of osu!(lazer) updates!
+Medals? New hitsounds? Better storyboard performance? Read all about it here!
 
 ![](/wiki/shared/news/2024-03-11-osu-lazer-updates-march-11/banner.jpg)
 
-If you are not interested in *just* reading about the latest updates, you can always find a video digest of the following updates below!
+If you are not interested in *just reading* about the latest updates, you can always find a video digest of the following updates below!
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/X9fjikgBIPI" frameborder="0" allowfullscreen></iframe>
@@ -16,18 +16,25 @@ If you are not interested in *just* reading about the latest updates, you can al
 
 ### Smaller changes
 
-- **Fix mod select overlay settings order not always matching mod panels.** Mods like NC and DT will always remain in the same position in the mod customization menu, regardless of when they were selected.
-- **Update F rank badge colours to match the latest designs.** You can now fail in a more fabulous fashion.
-- **Fix main menu eating keys if user presses too fast.** Regardless of how fast you are at navigating menus, osu!(lazer) can now keep up.
-- **Show user statistics updates on multiplayer and playlists results screens.** Previously upon map completion in multiplayer you were not able to see full play statistics such as pp gained etc.
-- **Various stable parity tweaks.** Varying from visual to gameplay changes, the devs put in some extra work to make sure osu!(lazer) matches stable.
-- **Various performance improvements.** Most of the performance updates this time around revolve about stutters users faced after last month's release switched to .NET 8, but there are also improvements when it comes to storyboard performance.
-- **New main menu hotkeys.** Similar to stable, you will now be able to use hotkeys to quickly get to your desired destination. One example being `M M M` to quickly open the multiplayer menu.
-- **The official osu! argon skin has now received its own pp counter.** Go check it out in-game!
+- **The F grade is updated to match website designs.** You can now fail in a more fabulous fashion.
+- **Fixed main menu eating keys if user presses too fast.** osu! can now keep up with your TAS-level menuing skills.
+- **User statistics updates now show on multiplayer and playlist results screen.** Did you know you can earn pp and gain ranks even in multiplayer? It turns out the client didn't, but now it does.
+- **Various stable parity tweaks.** Varying from visual to gameplay changes, the devs put in some extra work to make sure lazer matches stable to (mostly) pixel- and frame-perfect precision.
+- **Various performance improvements, especially for intense storyboards.** These have been spearheaded by [EVAST](https://osu.ppy.sh/users/8195163), and there are more improvements in the pipeline already!
+- **New main menu navigation hotkeys.** Similar to stable, you will now be able to use hotkeys to quickly get to your desired destination. For example:
+  - `P` (x3) for song select (you could already do this)
+  - `E` (x3) for the beatmap editor
+  - `E` (x2) + `S` for the skin editor
+  - `M` (x3) for multiplayer
+  - `L` (x3) for playlists
+  - `S` (x2) for settings
+- **The "argon" skin now includes a performance point counter by default.** This mirrors the "triangles" skin.
 
 ### Achieved medals are now displayed in osu!(lazer)
 
-osu!(lazer) medals when? Right now! Medals are now achievable on lazer, and you will also get the classic pop-up.
+Medals when? Right now! All medals (except Hush-Hush ones) are now achievable on lazer, complete with all the familiar fanfare.
+
+See how that looks like in the video below:
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -35,9 +42,9 @@ osu!(lazer) medals when? Right now! Medals are now achievable on lazer, and you 
     </video>
 </div>
 
-### The osu! argon skin now has redesigned hitsounds
+### The default argon skin now has redesigned hitsounds
 
-The argon skin now has received brand new hitsounds masterfully crafted by the one and only [nekodex](https://osu.ppy.sh/users/102)! Sit back, put some headphones on, and enjoy the showcase video below.
+The argon skin now has received brand-new hitsounds masterfully crafted by the one and only [nekodex](https://osu.ppy.sh/users/102)! Sit back, put some headphones on, and enjoy the showcase video below.
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -47,7 +54,7 @@ The argon skin now has received brand new hitsounds masterfully crafted by the o
 
 ---
 
-If you are interested in osu!(lazer) updates, you might be interested in an extra piece of commentary found within [peppy's work log thread](https://osu.ppy.sh/community/forums/topics/1878630), or the full [changelog](TBD)!
+As always, the full [changelog](TBD) lists all changes, including the smallest ones.
 
 If you are the type of person who likes to experience cutting-edge technology, why not go beyond that and [experience osu!(lazer)](https://osu.ppy.sh/home/download)? After all, lasers are sharper than any cutting edge.
 
