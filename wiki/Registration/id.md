@@ -9,7 +9,7 @@
 2. Isi seluruh kolom pada formulir yang tertera.
 
    - Pada kolom Username, terdapat batas maksimal 15 karakter yang dapat kamu pergunakan; karakter ini terbatas hanya pada karakter alfanumerik (`a-z`, `A-Z`, `0-9`), garis bawah (`_`), tanda kurung siku (`[` dan `]`), tanda hubung (`-`), dan spasi (` `).
-   - Pada kolom Email Address, tuliskan alamat emailmu. Alamat ini akan digunakan untuk mengatur ulang kata sandimu dan mengirimkan kode verifikasi ketika dibutuhkan, jadi pastikan untuk tidak menggunakan alamat email sementara *(throwaway mail)*.
+   - Pada kolom Email Address, tuliskan alamat emailmu. Alamat ini akan digunakan untuk mengatur ulang kata sandimu dan mengirimkan kode verifikasi ketika dibutuhkan, jadi pastikan untuk tidak menggunakan alamat email yang bersifat sementara (*throwaway mail*).
    - Pada kolom Password, gunakan kata sandi yang panjangnya minimal 8 karakter.
 
 3. Setelah seluruh kolom ini terisi, klik `1. Create my account!`. Kamu akan secara otomatis masuk ke osu! dengan akun yang baru saja kamu buat.
