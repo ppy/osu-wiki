@@ -11,7 +11,7 @@ Medals? New hitsounds? Better storyboard performance? Read all about it here!
 If you are not interested in *just reading* about the latest updates, you can always find a video digest of the following updates below!
 
 <div align="center">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/X9fjikgBIPI" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/baD6u8QGYN8" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ### Smaller changes
