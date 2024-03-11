@@ -44,9 +44,13 @@ On September 2, osu! received several mapping updates, including:[^stable-b1650]
 
 Members of the [Mapping Assistance Team](/wiki/People/Mapping_Assistance_Team) (MAT) gained the ability to [bubble](/wiki/Modding/Bubble) beatmaps deemed to be of good quality.[^mat-bubble]
 
+The [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) mod became unranked for one day until a patch was distributed because players were able to gain an unfair advantage.[^flashlight-1][^flashlight-2]
+
 ## November
 
 An osu! update added new sprites for the Taiko mode.[^stable-b1696]
+
+From 20 November to 28 November, the Flashlight mod became disabled in online rankings once again after being part of a heavy discussion due to players still being able to cheat with the mod.[^flashlight-3][^flashlight-4]
 
 ## References
 
@@ -67,5 +71,9 @@ An osu! update added new sprites for the Taiko mode.[^stable-b1696]
 [^taiko-reset]: [Forum thread by peppy (2010-09-22) "Taiko score reset (60 difficulties)"](https://osu.ppy.sh/community/forums/topics/37672?n=1)
 
 [^mat-bubble]: [Forum thread by peppy (2010-10-04) "MAT members can now bubble beatmaps"](https://osu.ppy.sh/community/forums/topics/38405?n=1)
+[^flashlight-1]: [Forum thread by peppy (2010-10-09) "Flashlight mod temporarily disabled"](https://osu.ppy.sh/community/forums/topics/38692?n=1)
+[^flashlight-2]: [Forum thread by peppy (2010-10-10) "osu! Public Release b1673 (with flashlight)"](https://osu.ppy.sh/community/forums/topics/38760?n=1)
 
 [^stable-b1696]: [Forum thread by peppy (2010-11-25) "osu! Public Release b1696"](https://osu.ppy.sh/community/forums/topics/41318?n=1)
+[^flashlight-3]: [Forum thread by peppy (2010-11-20) "Flashlight mod disabled #2"](https://osu.ppy.sh/community/forums/topics/41039?n=1)
+[^flashlight-4]: [Forum thread by peppy (2010-11-28) "Flashlight is back!"](https://osu.ppy.sh/community/forums/topics/41519?n=1)
