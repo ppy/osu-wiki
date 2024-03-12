@@ -10,7 +10,6 @@ tags:
 
 Berikut merupakan daftar **kelompok pengguna** yang sebagian besarnya tersusun atas para anggota komunitas yang membantu untuk memelihara osu!. Pada umumnya, kelompok pengguna ini dapat dikenali dari warna [forum](/wiki/Community/Forum), warna [*in-game chat*](/wiki/Client/Interface/Chat_console), [gelar pengguna](/wiki/Community/User_title), dan/atau lencana kelompok pengguna mereka.
 
-
 Pada daftar ini, kamu dapat mengeklik lencana kelompok yang tertera untuk melihat daftar anggota tiap-tiap kelompok atau pada nama kelompok untuk membuka halaman wikinya masing-masing.
 
 | ID | Lencana | Nama | Deskripsi |
