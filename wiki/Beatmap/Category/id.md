@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Kategori beatmap
 
 [Beatmap](/wiki/Beatmap) yang diunggah secara *online* terbagi menjadi beberapa kategori berdasarkan aktivitas terkininya, status [nominasinya](/wiki/Beatmap_ranking_procedure#nominasi), dan popularitasnya.
