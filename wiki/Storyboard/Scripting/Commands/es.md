@@ -58,7 +58,7 @@ En algunos casos especiales, se pueden usar varias [abreviaturas](/wiki/Storyboa
 
 Un objeto permanece activo hasta que se realiza su último comando (en términos de tiempo). Después de eso, desaparece. Si simplemente deseas que un objeto permanezca en la pantalla, sin que le pase nada, en su ubicación predeterminada, usa desvanecer (F).
 
-![Configurar un sprite/objeto con sus comandos para realizar (Evento).](img/SBS_Base_C.jpg "Configurar un sprite/objeto con sus comandos para realizar (Evento).")
+![Configurar un sprite/objeto con sus comandos para realizar (Evento).](img/SBS_Base_C-ES.png "Configurar un sprite/objeto con sus comandos para realizar (Evento).")
 
 ## Comandos básicos
 
