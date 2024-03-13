@@ -6,7 +6,7 @@ date: 2024-03-13 15:00:00 +0000
 
 Join us for an interview with BTMC, one of osu!'s most iconic content creators!
 
-![](/wiki/shared/news/2024-03-13-the-followpoint-btmc-the-face-of-osu/banner.jpg)
+![](/wiki/shared/news/2024-03-13-the-followpoint-btmc-the-face-of-osu/banner.jpg?1)
 
 [BTMC](https://osu.ppy.sh/users/3171691) is definitely a name in the community that doesn't need any introduction, their influence reaching every corner of osu!'s vast community while still continuously improving and innovating their content, all in the goal of serving the community.
 
