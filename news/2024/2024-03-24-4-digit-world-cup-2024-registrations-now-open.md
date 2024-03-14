@@ -1,0 +1,53 @@
+---
+layout: post
+title: "4 Digit World Cup 2024: Registrations Now Open!"
+date: 2024-03-24 12:00:00 +0000
+---
+
+Attention all 4 digit osu! standard players! The 4 Digit World Cup is back with its 2024 iteration — and a larger focus on competitiveness and player enjoyment!
+
+![](/wiki/shared/news/2024-03-24-4-digit-world-cup-2024-registrations-now-open/4wc2024-news-banner.png)
+
+The 4 Digit World Cup, or 4WC for short, is an annual osu! standard world-cup-style tournament for players within the 4 digit (#1,000–9,999) rank range, featuring some of the best players the scene battling it out on their biggest stage of the year for a chance to crown their country as the champions!
+
+[Last year](https://osu.ppy.sh/community/forums/topics/1761090) we had a staggering 54 countries competing, with Team United States barely claiming the first place finish on the [first Grand Finals set](https://osu.ppy.sh/community/matches/109632383), beating Team Canada on the tiebreaker after an excitingly close match featuring multiple back-to-back maps with microscopic score differences.
+
+## What's new?
+
+We are bringing in a number of small changes and improvements for this year to further emphasize and take advantage of the evolution of tournament play over the past year. We recommend returning players to read through these to stay up to date on the rules
+
+- The qualifier stage will be featuring a larger (and slightly harder) mappool format: it will now consist of 5 NoMod, 2 Hidden, 2 Hard Rock and 3 Double Time maps, reaching up to 7.1 stars of difficulty
+  - This change should help seed the teams, especially towards the top end, more accurately
+- There will be no more exceptions regarding the country players are playing for
+  - In the past, flag changes had not been possible for a long time, which is why exceptions for certain players and regions existed. But as of [July 28th, 2023](https://osu.ppy.sh/home/news/2023-07-28-enabling-country-flag-changes), flag changes have been reinstated in an accessible way. Due to this change, you will be able to play *only* for the country represented by your osu! profile
+- Teams will now have one 2-minute timeout available per match to use at their discretion
+  - The timeout will be automatically applied by the referee would a team fail to pick, ban, or ready up in time
+- The prizes have been raised up multiple notches, incorporating a community-funded prize pool and various peripherals
+
+## Tournament schedule
+
+| Event | Date (time) |
+| --: | :-- |
+| Registration phase | March 24–April 14 (23:59 UTC) |
+| Team submission phase | April 15–April 21 (23:59 UTC) |
+| Qualifier showcase | April 28 |
+| Qualifier stage | May 4–May 5 |
+| Round of 32 | May 11–May 12 |
+| Round of 16 | May 18–May 19 |
+| Quarterfinals | May 25–May 26 |
+| Semifinals | June 1–June 2 |
+| Finals | June 8–June 9 |
+| Grand Finals | June 15–June 16 |
+
+## How do I register?
+
+To register, simply head over to the **signup page** (*pending link*) to connect your osu! and Discord accounts. Players who sign up via the aforementioned link and meet the following criteria will be eligible to participate:
+
+- **Your osu! global rank must be within #1,000–9,999 at the time of registrations closing** (April 14th, 23:59 UTC+0)
+- **You must not have violated the [osu! community rules](https://osu.ppy.sh/wiki/en/Rules) in the past 12 months**
+
+All countries with at least 5 eligible registrants will have one player designated as the captain by the organisers. The captain is then responsible for selecting and submitting a 5–8 player roster to represent their country in the tournament. Countries with more than 8 candidates are encouraged to host tryouts for their team to aid in selecting the best players.
+
+Joining the official [Discord server](https://discord.gg/uQarcRtB3u) of 4WC is mandatory for all players selected on a team, but we still encourage everyone, even spectators, to join in order to keep up with all important announcements and tournament livestream notifications. We hope to see you all there!
+
+—shdewz & resoa
