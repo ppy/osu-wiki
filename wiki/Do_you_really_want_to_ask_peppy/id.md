@@ -1,10 +1,10 @@
 # Apakah kamu benar-benar ingin bertanya kepada peppy?
 
-Hai! peppy memahami keinginan kamu untuk menghubunginya secara pribadi, namun dia meminta kamu untuk terlebih dahulu memahami bahwa kamu **tidak** disarankan untuk meminta bantuan atau dukungan darinya secara langsung. Dia tidak mencampuradukkan urusan dukungan osu! dengan pesan pribadinya, dan dia juga merasa akan cukup sulit baginya untuk menjawab seluruh pesan pribadi yang masuk. Karena itu, dia memintamu untuk melakukan salah satu hal berikut:
+Hai! peppy memahami keinginan kamu untuk menghubunginya secara pribadi, namun dia meminta kamu untuk terlebih dahulu memahami bahwa kamu **tidak** disarankan untuk meminta bantuan atau dukungan darinya secara langsung. Dia tidak mencampuradukkan urusan dukungan osu! dengan pesan pribadinya, dan dia juga merasa akan cukup sulit baginya untuk menjawab seluruh pesan pribadi yang diterimanya. Karena itu, dia memintamu untuk melakukan salah satu hal berikut:
 
 ## Dukungan teknis
 
-Sebagian besar masalah teknis yang muncul dapat diselesaikan dengan mencari atau menulis postingan baru pada [forum Help](https://osu.ppy.sh/community/forums/5). Terdapat banyak orang pada forum ini yang siap membantu untuk menyelesaikan masalahmu, sehingga kamu akan dapat memperoleh solusimu secara lebih cepat alih-alih menghubungi peppy secara langsung.
+Sebagian besar masalah teknis yang muncul dapat diselesaikan dengan mencari atau menulis postingan baru pada [forum Help](https://osu.ppy.sh/community/forums/5). Terdapat banyak pengguna pada forum ini yang siap membantu untuk menyelesaikan masalahmu, sehingga kamu akan dapat memperoleh solusimu secara lebih cepat alih-alih menghubungi peppy secara langsung.
 
 ## Dukungan umum osu!
 
