@@ -42,6 +42,7 @@ Those who are interested in joining the tournament committee may express their i
 - ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619)
 - ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)
 - ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650)
+- ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)
 - ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227)
 - ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)
 - ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189)
