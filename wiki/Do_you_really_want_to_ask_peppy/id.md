@@ -1,6 +1,6 @@
 # Apakah kamu benar-benar ingin bertanya kepada peppy?
 
-Hai! peppy memahami keinginan kamu untuk menghubunginya secara pribadi, namun dia meminta kamu untuk terlebih dahulu memahami bahwa kamu **tidak** disarankan untuk meminta bantuan atau dukungan darinya secara langsung. Dia tidak mencampuradukkan urusan dukungan osu! dengan pesan pribadinya, dan dia juga merasa akan cukup sulit baginya untuk menjawab seluruh pesan pribadi yang diterimanya. Karena itu, dia memintamu untuk melakukan salah satu hal berikut:
+Hai! peppy memahami keinginan kamu untuk menghubunginya secara pribadi, namun dia meminta kamu untuk terlebih dahulu memahami bahwa kamu **tidak** disarankan untuk meminta bantuan atau dukungan darinya secara langsung. Dia tidak mencampuradukkan urusan dukungan osu! dengan pesan pribadinya, dan dia juga merasa akan cukup sulit baginya untuk menjawab seluruh pesan pribadi yang masuk. Oleh karena itu, dia memintamu untuk melakukan salah satu hal berikut:
 
 ## Dukungan teknis
 
