@@ -6,7 +6,7 @@ outdated: true
 
 Berikut merupakan berbagai rekaman sejarah osu! yang tersedia pada osu! wiki.
 
-| Year | Description |
+| Tahun | Deskripsi |
 | :-: | :-- |
 | [2007](2007) | Versi rilis awal permainan |
 | [2008](2008) | osu!taiko, osu!catch, berbagai mod baru, dan rangkaian perbaikan berskala besar |
