@@ -37,7 +37,7 @@ Kamu disarankan untuk menghubungi tim ini apabila terdapat masalah seputar akun 
 - Pengajuan laporan seputar perilaku yang tidak sepantasnya dari salah seorang moderator.
 - Pengajuan laporan seputar pelanggaran [kode etik kontributor](/wiki/Rules/Contributor_code_of_conduct) yang dilakukan oleh salah seorang moderator.
 - Permintaan dukungan seputar [masalah pembayaran](/wiki/Help_centre/Account#supporter) pada pesanan [osu!store](https://osu.ppy.sh/store/listing).
-- Permintaan dukungan seputar masalah teknis yang tidak dapat atau belum diselesaikan pada [forum Help](https://osu.ppy.sh/community/forums/5), seperti [masalah konektivitas](/wiki/Help_centre/Client#online-features).
+- Permintaan dukungan seputar masalah teknis yang tidak dapat atau belum terselesaikan pada [forum Help](https://osu.ppy.sh/community/forums/5), seperti [masalah konektivitas](/wiki/Help_centre/Client#online-features).
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
