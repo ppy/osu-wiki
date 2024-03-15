@@ -20,7 +20,7 @@ We are bringing in a number of small changes and improvements for this year to f
   - This change should help seed the teams, especially towards the top end, more accurately
 - **Teams will be provided a pre-made mappool for tryouts that they may choose to use**, intended to aid smaller teams in organising their tryouts
 - **There will be no more exceptions regarding the country players are playing for**
-  - In the past, flag changes had not been possible for a long time, which is why exceptions for certain players and regions existed. But as of [July 28, 2023](https://osu.ppy.sh/home/news/2023-07-28-enabling-country-flag-changes), flag changes have been reinstated in an accessible way. Due to this change, you will be able to play *only* for the country represented by your osu! profile
+  - In the past, flag changes had not been possible for a long time leading to exceptions for certain players and regions. As of [July 28, 2023](https://osu.ppy.sh/home/news/2023-07-28-enabling-country-flag-changes), however, flag changes have been reinstated in an accessible way. Due to this change, you will now be able to play *only* for the country represented by your osu! profile
 - **Teams will now have one 2-minute timeout available per match** to use at their discretion. This timeout will be automatically applied by the referee would a team fail to pick, ban, or ready up in time
 - **The prizes have been raised up multiple notches**, incorporating a community-funded prize pool and various peripherals
 
