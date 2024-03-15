@@ -26,7 +26,7 @@ We are bringing in a number of small changes and improvements for this year to f
 
 ## Tournament schedule
 
-| Event | Date (time) |
+| Event | Dates |
 | --: | :-- |
 | Registration phase | March 24–April 14 (23:59 UTC) |
 | Team submission phase | April 15–April 21 (23:59 UTC) |
@@ -41,7 +41,7 @@ We are bringing in a number of small changes and improvements for this year to f
 
 ## How do I register?
 
-To register, simply head over to the **signup page** (*pending link*) to connect your osu! and Discord accounts. Players who sign up via the aforementioned link and meet the following criteria will be eligible to participate:
+To register, simply head over to the **registration page** (*pending link*) to connect your osu! and Discord accounts. Players who sign up via the aforementioned link and meet the following criteria will be eligible to participate:
 
 - **Your osu! global rank must be within #1,000–9,999 at the time of registrations closing** (April 14, 23:59 UTC+0)
 - **You must not have violated the [osu! community rules](https://osu.ppy.sh/wiki/en/Rules) in the past 12 months**
