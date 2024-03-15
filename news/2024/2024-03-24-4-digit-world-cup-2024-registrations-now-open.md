@@ -14,7 +14,7 @@ The **4 Digit World Cup** (*pending forum link*), or 4WC for short, is an annual
 
 ## What's new?
 
-We are bringing in a number of small changes and improvements for this year to further emphasize and take advantage of the evolution of tournament play over the past year. We recommend returning players to read through these to stay up to date on the rules and affairs
+We are bringing in a number of small changes and improvements for this year to further emphasize and take advantage of the evolution of tournament play over the past year. We especially recommend returning players to read through these to stay up to date on what is going on:
 
 - **The qualifier stage will be featuring a larger (and slightly harder) mappool format**: it will now consist of 5 NoMod, 2 Hidden, 2 Hard Rock and 3 Double Time maps, reaching up to 7.1 stars of difficulty
   - This change should help seed the teams, especially towards the top end, more accurately
