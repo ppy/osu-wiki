@@ -8,7 +8,7 @@ Attention all 4 digit osu! players! The 4 Digit World Cup is back with its 2024 
 
 ![](/wiki/shared/news/2024-03-24-4-digit-world-cup-2024-registrations-now-open/banner.png)
 
-The **4 Digit World Cup** (*pending forum link*), or 4WC for short, is an annual osu! world-cup-style tournament for players within the 4 digit (#1,000–9,999) rank range, featuring some of the best players the scene battling it out on their biggest stage of the year for a chance to crown their country as the champions!
+The **4 Digit World Cup** (*pending forum link*), or 4WC for short, is an annual osu! world-cup-style tournament for players within the 4 digit (#1,000–9,999) rank range, featuring some of the best players of the scene battling it out on their biggest stage of the year for a chance to crown their country as the champions!
 
 [Last year](https://osu.ppy.sh/community/forums/topics/1761090) we had a staggering 53 countries competing, with Team United States barely claiming the first place finish on the [first Grand Finals set](https://osu.ppy.sh/community/matches/109632383), beating Team Canada on the tiebreaker after an excitingly close match featuring multiple back-to-back maps with microscopic score differences.
 
