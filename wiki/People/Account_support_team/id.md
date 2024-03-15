@@ -10,7 +10,7 @@ Tim ini **hanya** dapat dihubungi dengan mengirimkan email pada alamat [support@
 
 Pada umumnya, tim dukungan akun akan memerlukan waktu beberapa hari untuk memproses email yang masuk. Apabila emailmu belum dibalas setelah satu minggu, ada baiknya kamu mengirimkan email baru agar laporanmu dapat segera ditindaklanjuti.
 
-## Peran dan tugas
+## Peran dan fungsi
 
 *Halaman utama: [Pusat Bantuan](/wiki/Help_centre)*\
 *Lihat juga: [Restriction](/wiki/Help_centre/Account_restrictions)*
