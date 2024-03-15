@@ -20,7 +20,7 @@ We are bringing in a number of small changes and improvements for this year to f
   - This change should help seed the teams, especially towards the top end, more accurately
 - **Teams will be provided a pre-made mappool for tryouts that they may choose to use**, intended to aid smaller teams in organising their tryouts
 - **There will be no more exceptions regarding the country players are playing for**
-  - In the past, flag changes had not been possible for a long time, which is why exceptions for certain players and regions existed. But as of [July 28th, 2023](https://osu.ppy.sh/home/news/2023-07-28-enabling-country-flag-changes), flag changes have been reinstated in an accessible way. Due to this change, you will be able to play *only* for the country represented by your osu! profile
+  - In the past, flag changes had not been possible for a long time, which is why exceptions for certain players and regions existed. But as of [July 28, 2023](https://osu.ppy.sh/home/news/2023-07-28-enabling-country-flag-changes), flag changes have been reinstated in an accessible way. Due to this change, you will be able to play *only* for the country represented by your osu! profile
 - **Teams will now have one 2-minute timeout available per match** to use at their discretion. This timeout will be automatically applied by the referee would a team fail to pick, ban, or ready up in time
 - **The prizes have been raised up multiple notches**, incorporating a community-funded prize pool and various peripherals
 
@@ -43,7 +43,7 @@ We are bringing in a number of small changes and improvements for this year to f
 
 To register, simply head over to the **signup page** (*pending link*) to connect your osu! and Discord accounts. Players who sign up via the aforementioned link and meet the following criteria will be eligible to participate:
 
-- **Your osu! global rank must be within #1,000–9,999 at the time of registrations closing** (April 14th, 23:59 UTC+0)
+- **Your osu! global rank must be within #1,000–9,999 at the time of registrations closing** (April 14, 23:59 UTC+0)
 - **You must not have violated the [osu! community rules](https://osu.ppy.sh/wiki/en/Rules) in the past 12 months**
 
 All countries with at least 5 eligible registrants will have one player designated as the captain by the organisers. The captain is then responsible for selecting and submitting a 5–8 player roster to represent their country in the tournament. Countries with more than 8 candidates are encouraged to host tryouts for their team to aid in selecting the best players.
