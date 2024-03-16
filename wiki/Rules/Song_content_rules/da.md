@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Regler for sangindhold
 
 Med mange typer musik tilgængelige vil de fleste sange være egnet til brug på osu!, forudsat de ikke er:
