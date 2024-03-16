@@ -16,7 +16,7 @@ Abre el cliente para torneos de osu! y verás esta pantalla de configuración:
 
 - Asegúrate de que `Current IPC source` coincida con la ubicación de la instancia de osu!tourney que usarás.
 - Inicia sesión en osu!(lazer) haciendo clic en `Change Login`.
-- Establece el conjunto de reglas correcto usando el menú desplegable.
+- Establece el ruleset correcto usando el menú desplegable.
 - Cambia la altura para que coincida con el parámetro `Height` establecido en el archivo `tournament.cfg` de osu!tourney.
 
 ## Gestión de torneos
@@ -25,12 +25,12 @@ Las configuraciones de torneos para [osu!(lazer)](/wiki/Client/Release_stream/La
 
 Para crear una nueva configuración para un torneo, crea un nuevo directorio en el directorio `tournaments` con el nombre de tu torneo.
 
-Dentro de la configuración de un torneo, se pueden proporcionar los recursos necesarios para mostrar banderas, vídeos e iconos de mods para la mappool. Cada categoría de los recursos tiene su propia carpeta:
+Dentro de la configuración de un torneo, se pueden proporcionar los recursos necesarios para mostrar banderas, vídeos e iconos de mods para el mappool. Cada categoría de los recursos tiene su propia carpeta:
 
 - tu-torneo
-  - Banderas
+  - Flags
   - Mods
-  - Vídeos
+  - Videos
 
 ## Personalización
 
@@ -40,7 +40,7 @@ El cliente para torneos de osu! puede personalizarse añadiéndole banderas pers
 
 Por defecto, el cliente para torneos de osu! proporciona banderas incorporadas para los países del mundo. Se puede hacer referencia a estos mediante sus [códigos de país ISO 3166 Alpha-2](https://www.iso.org/iso-3166-country-codes.html) en el editor de equipos.
 
-Para banderas personalizadas, se aceptan archivos `.jpg` y `.png`. Las imágenes de las banderas deben tener al menos 140 x 94 y mantener una relación de aspecto cercana a esta especificación para obtener mejores resultados.
+Para banderas personalizadas, se aceptan archivos `.jpg` y `.png`. Las imágenes de las banderas deben tener al menos 140x94 y mantener una relación de aspecto cercana a esta especificación para obtener mejores resultados.
 
 Las banderas deben colocarse en `<tu-torneo>/Flags`. Luego, se puede hacer referencia a las banderas en el editor de equipos por sus nombres de archivo sin la extensión del archivo.
 
@@ -60,7 +60,8 @@ Los archivos deben cumplir con las siguientes especificaciones:
 
 - Relación de aspecto de 16:9, por ejemplo 1280x720 o 1920x1080
 - Extensión de archivo `mp4`, `m4v` o `avi`
-- Códec de vídeo: H.264, Códec de audio: ninguno
+- Códec de vídeo: H.264
+- Códec de audio: ninguno
 
 Los archivos de vídeo deben colocarse en `<tu-torneo>/Videos` y se requieren nombres específicos para la funcionalidad correcta.
 
