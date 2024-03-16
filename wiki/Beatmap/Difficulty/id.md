@@ -25,7 +25,7 @@ Meskipun demikian, tidak seperti pola yang ada, [komponen visual](/wiki/Beatmap)
 
 *Lihat juga: [Penamaan tingkat kesulitan](/wiki/Ranking_criteria/Difficulty_naming)*
 
-Berikut merupakan berbagai nama tingkat kesulitan yang umum digunakan untuk mengklasifikasikan seberapa sulit suatu beatmap. Definisi dan persyaratan khusus untuk setiap tingkat kesulitan dapat dilihat pada halaman [kriteria ranking](/wiki/Ranking_criteria) mode permainannya masing-masing.
+Berikut merupakan berbagai klasifikasi tingkat kesulitan yang umum digunakan untuk menggambarkan seberapa sulit suatu beatmap. Definisi dan persyaratan khusus untuk setiap tingkat kesulitan dapat dilihat pada halaman [kriteria ranking](/wiki/Ranking_criteria) mode permainannya masing-masing.
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
@@ -65,7 +65,7 @@ Per tanggal 27 Juli 2021, situs web osu! secara otomatis menetapkan warna tingka
 
 ![Spektrum warna tingkat kesulitan osu!](/wiki/shared/star-rating/spectrum.png)
 
-Dalam kasus-kasus tertentu, seperti pada menu [*AIMod*](/wiki/Client/Beatmap_editor/AiMod), tingkat kesulitan dikelompokkan ke dalam enam jenjang tingkatan berdasarkan *star rating* yang tertera sebagai berikut:
+Dalam kasus-kasus tertentu, seperti pada jendela [*AIMod*](/wiki/Client/Beatmap_editor/AiMod), tingkat kesulitan dikelompokkan ke dalam enam jenjang tingkatan berdasarkan *star rating* yang tertera sebagai berikut:
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) Easy: 0.0★–1.99★
 - ![](/wiki/shared/diff/normal-o.png?20211215) Normal: 2.0★–2.69★
@@ -74,4 +74,4 @@ Dalam kasus-kasus tertentu, seperti pada menu [*AIMod*](/wiki/Client/Beatmap_edi
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert: 5.3★–6.49★
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) Expert+: 6.5★ atau lebih
 
-Mohon diingat bahwa walaupun sebagian besar beatmap memiliki tingkat kesulitan yang sesuai dengan nama atau warna yang disandangnya, terdapat juga beberapa beatmap yang tingkat kesulitannya jauh menyimpang karena satu dan lain hal. Inilah sebabnya mengapa [kriteria ranking](/wiki/Ranking_criteria) yang berlaku memiliki pedomannya tersendiri untuk menentukan tingkat kesulitan beatmap yang sesungguhnya terlepas dari *star rating* yang ada.
+Mohon diperhatikan bahwa walaupun sebagian besar beatmap memiliki tingkat kesulitan yang sesuai dengan nama atau warna yang disandangnya, beatmap tertentu dapat memiliki tingkat kesulitan yang jauh menyimpang karena satu dan lain hal. Inilah sebabnya mengapa [kriteria ranking](/wiki/Ranking_criteria) yang berlaku memiliki pedomannya tersendiri untuk menentukan tingkat kesulitan beatmap yang sesungguhnya terlepas dari *star rating* yang ada.
