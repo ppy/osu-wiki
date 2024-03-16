@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: YonKaGor"
-date: 2024-03-16 21:30:00 +0000
+date: 2024-03-16 21:00:00 +0000
 ---
 
 Bops, slaps, and jams are the 3 cornerstones of **YonKaGor**'s musical output. By definition, that means they're required to be one of our Featured Artists!
