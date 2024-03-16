@@ -120,11 +120,11 @@ The other tournament hosts interviewed here said basically the same thing, which
 
 > For the production process, the host will set a deadline on the song, as well as some restrictions on the song (e.g. BPM limit, intensity, genres and more) in order to make sure the song will fit nicely to the planned (or not planned) slots. From time to time, we sometimes also send wips of the current state of the song to make sure that the song is going to the correct direction. This will ensures that we dont have to do unnessary changes later on when the full song is done, which can saves us a lot of time.
 > 
-> [...] sometimes when a part in the song needs modifications, the host will give some comments on how to fix the issues on the said part. For example, extending certain instrument length, reducing the volume of certain instruments, reduce the spam kicks and etc.
+> \[...] sometimes when a part in the song needs modifications, the host will give some comments on how to fix the issues on the said part. For example, extending certain instrument length, reducing the volume of certain instruments, reduce the spam kicks and etc.
 
 Having experienced working with around 10 different tournament series, are there any differences?
 
-> I'd say not too different. The only difference I'd say is how the host handles the procedure. [...] What's different is sometimes, the host might add you into the mapping channel, so that when the mapper has any questions for the composer, the composer can help them with it (e.g. "what snappings are in this part?", "what is the time signature for this part?" and so on).
+> I'd say not too different. The only difference I'd say is how the host handles the procedure. \[...] What's different is sometimes, the host might add you into the mapping channel, so that when the mapper has any questions for the composer, the composer can help them with it (e.g. "what snappings are in this part?", "what is the time signature for this part?" and so on).
 > 
 > One of the challenge that I've faced in making songs for osu! tournaments is to do a bit of research on the style the host is going to put me into. As there are many. For example, let's say if the host wants the song to be in DT1 slot for osu!taiko, then I need to do a bit of research on the songs that are usually used in that slot.
 > 
@@ -202,7 +202,7 @@ We'll leave you with what these creators dearly remember.
 
 [![](/wiki/shared/news/2024-03-19-bespoke-music-in-osu/Kasumi-sama.png)](https://osu.ppy.sh/users/6177263)
 
-> [...] I think the story behind [COEGTS](/wiki/Tournaments/GTS/COEGTS_2023)' Main Mappool Showcase and it getting finalized, like, at all, is one of my absolute favorite experiences as the main organizer of GTS.
+> \[...] I think the story behind [COEGTS](/wiki/Tournaments/GTS/COEGTS_2023)' Main Mappool Showcase and it getting finalized, like, at all, is one of my absolute favorite experiences as the main organizer of GTS.
 > 
 > First off, I believe everything related to creating this mappool showcase starts on July 10th 2023, being one day after our Qualifiers Mappool Showcase was released, and three weeks prior to the actual mappool showcase at COE, on July 31st.
 > 
@@ -234,7 +234,7 @@ We'll leave you with what these creators dearly remember.
 
 [![](/wiki/shared/news/2024-03-19-bespoke-music-in-osu/takehirotei.png)](https://osu.ppy.sh/users/11793794)
 
-> [...] I will be sharing one of the memories that has left a lot of impact in my heart. The first one is during the process of making *Essence* with HowToPlayLN. This is my first time collaborating with someone (as in 2 ppl collab) on making a Grand Finals tiebreaker. At first, we are just trying to put in the tiebreaker copypasta into a tiebreaker song, but as time goes by, our ideas become crazier and crazier. At one point we even decide to make a section where the time signature changes every bar.
+> \[...] I will be sharing one of the memories that has left a lot of impact in my heart. The first one is during the process of making *Essence* with HowToPlayLN. This is my first time collaborating with someone (as in 2 ppl collab) on making a Grand Finals tiebreaker. At first, we are just trying to put in the tiebreaker copypasta into a tiebreaker song, but as time goes by, our ideas become crazier and crazier. At one point we even decide to make a section where the time signature changes every bar.
 >
 > After the tiebreaker was made, things got even more crazy as the media team is cooking the lore. At first we only have the tiebreaker, then soon enough, we all decide to make a song for each cutscene that shows before the mappool showcase begins, and also a rearrangement of *Essence* for the credits theme. This is perhaps the most precious memories that I have ever been through at that point as a composer.
 
