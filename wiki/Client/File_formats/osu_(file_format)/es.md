@@ -187,7 +187,7 @@ Todas las opciones en esta sección representan colores. Son tripletes separados
 
 ### Tipo
 
-El parámetro de tipo del objeto es un entero de 8 bits donde cada bit es una bandera con un significado especial.
+El parámetro de tipo del objeto es un entero de 8 bits donde cada bit es un indicador con un significado especial.
 
 | Índice de bits | Significado |
 | :-- | :-- |
