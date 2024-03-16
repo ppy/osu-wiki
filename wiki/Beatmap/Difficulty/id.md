@@ -72,6 +72,6 @@ Dalam kasus-kasus tertentu, seperti pada jendela [*AIMod*](/wiki/Client/Beatmap_
 - ![](/wiki/shared/diff/hard-o.png?20211215) Hard: 2.7★–3.99★
 - ![](/wiki/shared/diff/insane-o.png?20211215) Insane: 4.0★–5.29★
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert: 5.3★–6.49★
-- ![](/wiki/shared/diff/expertplus-o.png?20211215) Expert+: 6.5★ atau lebih
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Expert+: 6.5★ atau lebih tinggi
 
 Mohon diperhatikan bahwa walaupun sebagian besar beatmap memiliki tingkat kesulitan yang sesuai dengan nama atau warna yang disandangnya, beatmap tertentu dapat memiliki tingkat kesulitan yang jauh menyimpang karena satu dan lain hal. Inilah sebabnya mengapa [kriteria ranking](/wiki/Ranking_criteria) yang berlaku memiliki pedomannya tersendiri untuk menentukan tingkat kesulitan beatmap yang sesungguhnya terlepas dari *star rating* yang ada.
