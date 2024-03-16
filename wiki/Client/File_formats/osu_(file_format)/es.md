@@ -10,33 +10,33 @@ El siguiente contenido está separado en secciones, indicadas por títulos de se
 
 | Sección | Descripción | Tipo de contenido |
 | :-- | :-- | :-- |
-| `[General]` | Información general sobre el beatmap | `key: value` pares |
-| `[Editor]` | Configuraciones guardadas para el editor de beatmaps | `key: value` pares |
-| `[Metadata]` | [Información](/wiki/Client/Beatmap_editor/Song_setup#general) usada para identificar el beatmap | `key:value` pares |
-| `[Difficulty]` | [Configuraciones de dificultad](/wiki/Client/Beatmap_editor/Song_setup#dificultad) | `key:value` pares |
+| `[General]` | Información general sobre el beatmap | `Pares key: value` |
+| `[Editor]` | Configuraciones guardadas para el editor de beatmaps | `Pares key: value` |
+| `[Metadata]` | [Información](/wiki/Client/Beatmap_editor/Song_setup#general) usada para identificar el beatmap | `Pares key:value` |
+| `[Difficulty]` | [Configuraciones de dificultad](/wiki/Client/Beatmap_editor/Song_setup#dificultad) | `Pares key:value` |
 | `[Events]` | Beatmap y eventos gráficos del storyboard | Listas separadas por comas |
 | `[TimingPoints]` | Timing y puntos de control | Listas separadas por comas |
-| `[Colours]` | Colores del combo y la skin | `key : value` pares |
+| `[Colours]` | Colores del combo y la skin | `Pares key : value` |
 | `[HitObjects]` | Objetos | Listas separadas por comas |
 
 ## General
 
 | Opción | Tipo de valor | Descripción | Valor por defecto |
 | :-- | :-- | :-- | :-- |
-| `AudioFilename` | String | Ubicación del archivo de audio en relación con la carpeta actual |  |
+| `AudioFilename` | Cadena | Ubicación del archivo de audio en relación con la carpeta actual |  |
 | `AudioLeadIn` | Entero | Milisegundos de silencio antes de que el audio comience a reproducirse | 0 |
-| `AudioHash` | String | *Obsoleto* |  |
+| `AudioHash` | Cadena | *Obsoleto* |  |
 | `PreviewTime` | Entero | Tiempo en milisegundos en que debe comenzar la vista previa de audio | -1 |
 | `Countdown` | Entero | Velocidad de la cuenta regresiva antes del primer objeto (`0` = sin cuenta atras, `1` = normal, `2` = mitad, `3` = doble) | 1 |
-| `SampleSet` | String | Conjunto de muestra que se usará si los puntos de tiempo no lo anulan (`Normal`, `Soft`, `Drum`) | Normal |
+| `SampleSet` | Cadena | Conjunto de muestra que se usará si los puntos de tiempo no lo anulan (`Normal`, `Soft`, `Drum`) | Normal |
 | `StackLeniency` | Decimal | [Multiplicador](/wiki/Beatmap/Stack_leniency) para el umbral en el tiempo en el que los objetos colocados muy juntos se apilan (0–1) | 0.7 |
 | `Mode` | Entero | Modo de juego (`0` = osu!, `1` = osu!taiko, `2` = osu!catch, `3` = osu!mania) | 0 |
 | `LetterboxInBreaks` | 0 o 1 | Si los descansos tienen o no un efecto de pantalla ancha | 0 |
 | `StoryFireInFront` | 0 o 1 | *Obsoleto* | 1 |
 | `UseSkinSprites` | 0 o 1 | Si el storyboard puede usar o no las imágenes de la skin del usuario | 0 |
 | `AlwaysShowPlayfield` | 0 o 1 | *Obsoleto* | 0 |
-| `OverlayPosition` | String | Orden de dibujo de las superposiciones de los círculos en comparación con los números (`NoChange` = usar la configuración de la skin, `Below` = dibujar superposiciones debajo de los números, `Above` = dibujar superposiciones encima de los números) | NoChange |
-| `SkinPreference` | String | Skin preferida para usar durante el juego |  |
+| `OverlayPosition` | Cadena | Orden de dibujo de las superposiciones de los círculos en comparación con los números (`NoChange` = usar la configuración de la skin, `Below` = dibujar superposiciones debajo de los números, `Above` = dibujar superposiciones encima de los números) | NoChange |
+| `SkinPreference` | Cadena | Skin preferida para usar durante el juego |  |
 | `EpilepsyWarning` | 0 o 1 | Si se debe mostrar o no una advertencia sobre colores intermitentes al comienzo del mapa | 0 |
 | `CountdownOffset` | Entero | Tiempo en pulsos que la cuenta regresiva comienza antes del primer objeto | 0 |
 | `SpecialStyle` | 0 o 1 | Si se usa o no el diseño de teclas de estilo «N+1» para osu!mania | 0 |
@@ -59,13 +59,13 @@ Estas opciones solo son relevantes cuando se abren mapas en el [editor de beatma
 
 | Opción | Tipo de valor | Descripción |
 | :-- | :-- | :-- |
-| `Title` | String | Título de la canción romanizada |
-| `TitleUnicode` | String | Título de la canción |
-| `Artist` | String | Artista de la canción romanizada |
-| `ArtistUnicode` | String | Artista de la canción |
-| `Creator` | String | Creador del beatmap |
-| `Version` | String | Nombre de la dificultad |
-| `Source` | String | Medios originales para los que se produjo la canción |
+| `Title` | Cadena | Título de la canción romanizada |
+| `TitleUnicode` | Cadena | Título de la canción |
+| `Artist` | Cadena | Artista de la canción romanizada |
+| `ArtistUnicode` | Cadena | Artista de la canción |
+| `Creator` | Cadena | Creador del beatmap |
+| `Version` | Cadena | Nombre de la dificultad |
+| `Source` | Cadena | Medios originales para los que se produjo la canción |
 | `Tags` | Lista de cadenas separadas por espacios | Términos de búsqueda |
 | `BeatmapID` | Entero | ID de la dificultad |
 | `BeatmapSetID` | Entero | ID del beatmap |
@@ -74,10 +74,10 @@ Estas opciones solo son relevantes cuando se abren mapas en el [editor de beatma
 
 | Opción | Tipo de valor | Descripción |
 | :-- | :-- | :-- |
-| `HPDrainRate` | Decimal | Configuración de HP (0–10) |
-| `CircleSize` | Decimal | Configuración de CS (0–10) |
-| `OverallDifficulty` | Decimal | Configuración de OD (0–10) |
-| `ApproachRate` | Decimal | Configuración de AR (0–10) |
+| `HPDrainRate` | Decimal | Configuración de HP (0-10) |
+| `CircleSize` | Decimal | Configuración de CS (0-10) |
+| `OverallDifficulty` | Decimal | Configuración de OD (0-10) |
+| `ApproachRate` | Decimal | Configuración de AR (0-10) |
 | `SliderMultiplier` | Decimal | Velocidad base del slider en cientos de [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel) por pulso |
 | `SliderTickRate` | Decimal | Cantidad de ticks del slider por pulso |
 
@@ -85,7 +85,7 @@ Estas opciones solo son relevantes cuando se abren mapas en el [editor de beatma
 
 *Sintaxis de eventos:* `eventType,startTime,eventParams`
 
-- **`eventType` (String o Entero):** Tipo de evento. Algunos eventos pueden ser referidos por un nombre o un número.
+- **`eventType` (Cadena o Entero):** Tipo de evento. Algunos eventos pueden ser referidos por un nombre o un número.
 - **`startTime` (Entero):** Hora de inicio del evento, en milisegundos desde el comienzo del audio del beatmap. Para los eventos que no usan una hora de inicio, el valor predeterminado es `0`.
 - **`eventParams` (Lista separada por comas):** Parámetros adicionales específicos del tipo de evento.
 
@@ -93,7 +93,7 @@ Estas opciones solo son relevantes cuando se abren mapas en el [editor de beatma
 
 *Sintaxis del fondo:* `0,0,filename,xOffset,yOffset`
 
-- **`filename` (String):** Ubicación de la imagen de fondo relativa al directorio del beatmap. Las comillas dobles generalmente se incluyen alrededor del nombre del archivo, pero no son obligatorias.
+- **`filename` (Cadena):** Ubicación de la imagen de fondo relativa al directorio del beatmap. Las comillas dobles generalmente se incluyen alrededor del nombre del archivo, pero no son obligatorias.
 - **`xOffset` (Entero)** y **`yOffset` (Entero):** Desplazamiento en [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel) del centro de la pantalla. Por ejemplo, un desplazamiento de `50,100` haría que el fondo mostrara 50 osu! pixels a la derecha y 100 osu! pixels hacia abajo desde el centro de la pantalla. Si el desplazamiento es `0,0`, escribirlo es opcional.
 
 ### Vídeos
@@ -102,7 +102,7 @@ Estas opciones solo son relevantes cuando se abren mapas en el [editor de beatma
 
 `Video` puede reemplazarse por `1`.
 
-- **`filename` (String)**, **`xOffset` (Entero)**, y **`yOffset` (Entero)** se comportan exactamente como en los fondos.
+- **`filename` (Cadena)**, **`xOffset` (Entero)**, y **`yOffset` (Entero)** se comportan exactamente como en los fondos.
 
 ### Descansos
 
@@ -170,11 +170,11 @@ Todas las opciones en esta sección representan colores. Son tripletes separados
 
 | Opción | Descripción |
 | :-- | :-- |
-| `Combo#`, cuando `#` es un entero | Colores combinados aditivos |
-| `SliderTrackOverride` | Color de la pista del deslizador aditivo |
-| `SliderBorder` | Color del borde del deslizador |
+| `Combo#`, cuando `#` es un entero | Colores de combo aditivos |
+| `SliderTrackOverride` | Color de la trayectoria del slider aditiva |
+| `SliderBorder` | Color del borde del slider |
 
-## Objetos de golpeo
+## Objetos
 
 *Sintaxis de los objetos:* `x,y,time,type,hitSound,objectParams,hitSample`
 
@@ -223,7 +223,7 @@ El uso de `hitSample` puede personalizar aún más los sonidos que se reproducen
 - **`additionSet` (Entero):** Conjunto de muestra de los sonidos whistle, finish, y clap.
 - **`index` (Entero):** Índice de la muestra. Si es `0`, en su lugar se usará el índice de muestra del punto de tiempo.
 - **`volume` (Entero):** Volumen de la muestra de 1 a 100. Si es `0`, se usará el volumen del punto de tiempo en su lugar.
-- **`filename` (String):** Nombre de archivo personalizado del sonido adicional.
+- **`filename` (Cadena):** Nombre de archivo personalizado del sonido adicional.
 
 `normalSet` y `additionSet` pueden ser cualquiera de los siguientes:
 
@@ -274,12 +274,12 @@ Hay cuatro tipos de curvas de slider en osu!:
 - **Lineal (L):** Estas curvas forman un camino recto entre todos sus puntos.
 - **Círculo perfecto (P):** Las curvas de círculo perfecto están limitadas a tres puntos (incluida la posición del objeto) que definen el límite de un círculo. El uso de más de tres puntos dará como resultado que el tipo de curva se cambie a bézier.
 
-Si la `lenght` del slider es más larga que la curva definida, el slider se extenderá hasta alcanzar la longitud objetivo:
+Si el valor `lenght` de un slider es más largo que la curva definida, el slider se extenderá hasta alcanzar la longitud objetivo:
 
 - Para curvas bézier, catmull y lineales, continúa en línea recta desde el final de la curva.
 - Para curvas de círculo perfecto, continúa el arco circular.
 
-*Aviso: la `lenght` del slider se puede usar para determinar el tiempo que lleva completar el slider. `length / (SliderMultiplier * 100 * SV) * beatLength` indica cuántos milisegundos se necesitan para completar una diapositiva del slider (donde `SV` es el multiplicador de velocidad del slider dado por el punto de tiempo heredado efectivo, o `1` si no hay ninguno).*
+*Aviso: el valor `lenght` de un slider se puede usar para determinar el tiempo que lleva completar el slider. `length / (SliderMultiplier * 100 * SV) * beatLength` indica cuántos milisegundos se necesitan para completar una diapositiva del slider (donde `SV` es el multiplicador de velocidad del slider dado por el punto de tiempo heredado efectivo, o `1` si no hay ninguno).*
 
 #### Hitsounds del slider
 
