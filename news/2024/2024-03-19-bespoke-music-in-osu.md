@@ -188,7 +188,7 @@ As for how exactly it works, read below how our duo of artists today explained s
 > 
 > We also sometimes planned the whole song out in a Google Sheet first before composing the real thing. For example, in *GTS Orchestra Team - Akatsuki - Tokoyami no Yoru ga Aketa Toki -*, in the beginning, we all decided to go for a "SEGA sound team chunithm boss song" kind of song, then we decide the order of SiLiS doing the front part, HowToPlayLN and rN do the middle part, and I do the final part.
 > 
-> [![](/wiki/shared/news/2024-03-19-bespoke-music-in-osu/akatsuki-parts.png)](/wiki/shared/news/2024-03-19-bespoke-music-in-osu/akatsuki-parts.png)
+> [![Collab parts for Akatsuki](/wiki/shared/news/2024-03-19-bespoke-music-in-osu/akatsuki-parts.png)](/wiki/shared/news/2024-03-19-bespoke-music-in-osu/akatsuki-parts.png)
 > 
 > But of course, the sheet you're seeing now is not what we have planned at the beginning, as more progress are made, we sometimes needed to change the flow a bit in order to "fit the flow", and sometimes there are also times where some composers (including myself) are busy at irl activities, so we sometimes let the other composers do their part first, then only go back to the original composer to connect the previous part and the next part together.
 > 
