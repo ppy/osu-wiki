@@ -21,9 +21,9 @@ Knock-knock! We also have some changes to the team:
 
 - We say a heartfelt farewell to [rHO](https://osu.ppy.sh/users/1629553) for their contributions as an osu! captain. Thank you for your hard work!
 - And for the good news, the metadata reviewer applications have concluded, please give your best welcomes to [Ucitysm](https://osu.ppy.sh/users/14768693) and [Burger King](https://osu.ppy.sh/users/11354436) (a.k.a. Utiba)! They'll be working hard to ensure the accurate song info we all love.
-- The description reviewers are opening applications! These are the people who check and correct descriptions on behalf of the Captains. Click on the respective banner to access the application.
+- The description reviewers are opening applications! These are the people who check and correct descriptions on behalf of the captains. Click on the banner below to access the application.
 
-[![Description Reviewer Application](/wiki/shared/news/banners/project-loved/apply-desc.png)](https://forms.gle/L1rwPwtawUZWbrko9)
+[![Description reviewer application link](/wiki/shared/news/banners/project-loved/apply-desc.png)](https://forms.gle/L1rwPwtawUZWbrko9)
 
 Before we move on, if you are interested in participating in Project Loved discussions for a specific game mode, you can join one of the Project Loved Discord servers linked below:
 
