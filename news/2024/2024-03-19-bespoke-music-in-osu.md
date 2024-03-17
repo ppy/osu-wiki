@@ -30,7 +30,7 @@ It means that osu! originals don't only refer to songs commissioned by the osu! 
 
 ![](/wiki/shared/news/2024-03-19-bespoke-music-in-osu/fa-listing-original-label.png)
 
-You can find a full list of these in the [osu! originals wiki article](/wiki/osu!_originals). If you're an artist or event organiser and don't see your songs in there, please [reach out](https://osu.ppy.sh/users/5773079)!
+You can find a full list of these in the [osu! originals wiki article](/wiki/osu!_originals). If you're an artist or event organiser and don't see your songs in there, please [reach](/wiki/Community/osu!_Discord_server) [out](https://osu.ppy.sh/users/5773079)!
 
 ## osu! World Cups
 
@@ -110,7 +110,7 @@ While mangomizer and pishifat touched on the process of World Cup music producti
 > 
 > We only ask for relatively frequent drafts, in intervals of 30 seconds to 1 minute, so we can check if we first like the general vibe, as one would expect, and if we can map it accordingly to the planned difficulty, of course.
 
-The other tournament hosts interviewed here said basically the same thing, which means there's only one thing to do.
+The other tournament hosts interviewed here said basically the same thing, which means there's only one thing to do. (To ask some artists.)
 
 [![](/wiki/shared/news/2024-03-19-bespoke-music-in-osu/takehirotei.png)](https://osu.ppy.sh/users/11793794)
 
@@ -250,6 +250,6 @@ We'll leave you with what these creators dearly remember.
 
 ---
 
-For the love of rhythm and music, a new scene took form. We're privileged to have so many with the stubborn passion to go above and beyond to make the osu! community something entirely our own.
+There is nothing more awesome than to witness a home-grown scene form out of the love of rhythm and music. We're privileged to have so many with the stubborn passion to go above and beyond to make the osu! community something entirely our own.
 
 —Walavouchey
