@@ -133,7 +133,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253
 | United Kingdom ::{ flag=GB }:: | ::{ flag=IT }:: Italy | [Mar 24 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240324T140000&p1=1440&p2=136&p3=215) | [osulive](https://twitch.tv/osulive) |
 | Brazil ::{ flag=BR }:: | ::{ flag=SK }:: Slovakia | [Mar 24 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240324T170000&p1=1440&p2=45) | [osulive](https://twitch.tv/osulive) |
 | United States ::{ flag=US }:: | ::{ flag=PE }:: Peru | [Mar 24 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240324T180000&p1=1440&p2=263&p3=131) | [osulive](https://twitch.tv/osulive) |
-| Round of 16 | mappool showcase | [Mar 24 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240324T190000&p1=1440) |  |
+| Round of 16 | mappool showcase | [Mar 24 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240324T190000&p1=1440) | [osulive](https://twitch.tv/osulive) |
 
 ## Mappools
 
