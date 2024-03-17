@@ -90,9 +90,11 @@ How did their story start? They were asked similar questions as Kasumi, so let's
 
 > Hello! My name is Jerry (or NZMJerry), and I'm mostly known for my design works in a number of osu! tournaments and original tracks such as the [Global Taiko Showdown](https://gtsosu.com/) (GTS) series, [osu! World Cup 2023](https://osu.ppy.sh/beatmapsets/2095177#taiko/4393066) and [Jaye's One Key Event (JOKE)](https://osu.ppy.sh/community/forums/topics/1829307?n=1). Besides my designing works, I'm also the host of the osu!taiko Malaysian Tournament (OTMT) series as well as several other events ranging from contests to [LANs](https://osu.ppy.sh/home/news/2023-08-22-osu-malaysia-animangaki) for the overall osu! Malaysian community.
 > 
-> After wrapping up the first edition of the osu!taiko Malaysian Tournament (OTMT) series back in 2021, the team didn't want to just do the same thing again for the next year and beyond, so we felt that the most natural progression for the series' growth was to start introducing original songs into the mix. I truly believe that this, along with the introduction of our mascot character, IRIS, helped a lot in weaving a recognizable visual identity for the whole tournament, which significantly enhanced the tournament experience.
+> After wrapping up the first edition of the osu!taiko Malaysian Tournament (OTMT) series back in 2021, the team didn't want to just do the same thing again for the next year and beyond, so we felt that the most natural progression for the series' growth was to start introducing original songs into the mix.
 > 
-> ![osu!taiko Malaysia mascot "IRIS"](/wiki/shared/news/2024-03-19-bespoke-music-in-osu/iris.jpg "IRIS, the mascot of osu!taiko Malaysia")
+> I truly believe that this, along with the introduction of our mascot character, **IRIS**, helped a lot in weaving a recognizable visual identity for the whole tournament, which significantly enhanced the tournament experience.
+> 
+> ![osu!taiko Malaysia mascot "IRIS"](/wiki/shared/news/2024-03-19-bespoke-music-in-osu/iris.jpg)
 
 Visual arts go hand in hand with music commissions and tournament production, which is itself an interesting topic (that we may cover in the near future!).
 
