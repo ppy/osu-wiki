@@ -60,6 +60,83 @@ tags:
 - [比赛 Discord 服务器](https://discord.gg/DqPuRU8Bhc)
 - [赛事信息表格](https://docs.google.com/spreadsheets/d/1Qm2BfIc2LFbf59-2RBkqnOde95y2WgoyO_XRNSrvNa4/)
 
+## 参赛队伍
+
+| 队名 | 队员 |
+| :-: | :-- |
+| 原核生物队 | [Infinityyyyyyyy](https://osu.ppy.sh/users/26233818) |
+| ovo | [Amisher](https://osu.ppy.sh/users/21400407), [ovo\_seshirira](https://osu.ppy.sh/users/32825526) |
+| 我先睡了队 | [WELUVMYUKA](https://osu.ppy.sh/users/29949157), [chana](https://osu.ppy.sh/users/18375016) |
+| AdrianLazer | [AdrianLazer](https://osu.ppy.sh/users/10292643) |
+| OBLIKULIVO | [MiniEgg\_23](https://osu.ppy.sh/users/25914360), [Abyss\ 0](https://osu.ppy.sh/users/24780565) |
+| Jack hater unite | [Datnonameboi](https://osu.ppy.sh/users/14217761) |
+| break is 143bpm | [astal\_](https://osu.ppy.sh/users/32151196), [YoungBurger16](https://osu.ppy.sh/users/33833222) |
+| garfield exterminators if fortnite | [Znow](https://osu.ppy.sh/users/15513303), [\[LS\]Mari](https://osu.ppy.sh/users/15270411) |
+| I don't have teammate \:sob\: | [EliasGoku\_zk](https://osu.ppy.sh/users/24907290) |
+| Techno Music | [neeko the rock](https://osu.ppy.sh/users/13471840) |
+| THE TRUTH OF NOCENT | [ERA Veryi](https://osu.ppy.sh/users/13878539), [\[Crz\]Nickname](https://osu.ppy.sh/users/10817494) |
+| Bert | [Iobyagmi\ ](https://osu.ppy.sh/users/17905269) |
+| Buckbuck Monke | [Halkas](https://osu.ppy.sh/users/29373725) |
+| GangWonDuo | [Selitation](https://osu.ppy.sh/users/25311011), [ggeexx1](https://osu.ppy.sh/users/17494164) |
+| Jack Hunter | [Raon2007](https://osu.ppy.sh/users/25850141), [Reflec](https://osu.ppy.sh/users/19255377) |
+| ANTI YAPPERS | [Maijeraor](https://osu.ppy.sh/users/31003592) |
+| FurryLover | [kissnolook](https://osu.ppy.sh/users/11608591), [loki96k](https://osu.ppy.sh/users/22933961) |
+| AwakeGiant | [Catcay12334](https://osu.ppy.sh/users/27308730), [jjjwiwi](https://osu.ppy.sh/users/30184594) |
+| hsod | [hsod](https://osu.ppy.sh/users/15391485) |
+| 白 | [Lonann](https://osu.ppy.sh/users/14617751) |
+| Antijacker | [\[Crz\]Xinyi2016](https://osu.ppy.sh/users/14213841) |
+| 大天空killers | [\[Crz\]Yurucawaii](https://osu.ppy.sh/users/25682415), [\[Crz\]bubu](https://osu.ppy.sh/users/28251667) |
+| onurun annesi | [Heumrage](https://osu.ppy.sh/users/19664675) |
+| ETA | [ime](https://osu.ppy.sh/users/11649450), [Truzko](https://osu.ppy.sh/users/9921804) |
+| alone jacker | [hel0l](https://osu.ppy.sh/users/28554005) |
+| hop on quaver | [\-\-Dragon\-\-](https://osu.ppy.sh/users/11924624), [Reihynn](https://osu.ppy.sh/users/16630515) |
+| Chika Fujiwara Simp | [trooperr](https://osu.ppy.sh/users/32028459) |
+| choke gang | [Tosai\_](https://osu.ppy.sh/users/3760209), [JayLye](https://osu.ppy.sh/users/14892447) |
+| kiopm | [\[LS\]Nemesis](https://osu.ppy.sh/users/20544648) |
+| 打胶队 | [qiaolilailai](https://osu.ppy.sh/users/13809991), [\-\-achang\-\-](https://osu.ppy.sh/users/31485150) |
+| HTBL achang | [dzq](https://osu.ppy.sh/users/23697335) |
+| lsjx追逐梦想 | [endterminal](https://osu.ppy.sh/users/20992774), [ohhhhhhhhhh](https://osu.ppy.sh/users/29591499) |
+| 帝者战神白武男 | [\_Glass\_](https://osu.ppy.sh/users/21239735) |
+| ♿🍔♿🀄♿ | [\[GB\]Burger king](https://osu.ppy.sh/users/9841162), [MidRed](https://osu.ppy.sh/users/17641994) |
+| choke99 | [yoth99](https://osu.ppy.sh/users/15727775) |
+| wehehe | [Eliminate](https://osu.ppy.sh/users/9169747), [myucchii](https://osu.ppy.sh/users/10072733) |
+| Hop on Lethal Company | [paws at u](https://osu.ppy.sh/users/15608573) |
+| MyonMyon零轮游 | [NaOHshenhuoFzzT](https://osu.ppy.sh/users/27074502) |
+| 绝不认输 | [Styrene](https://osu.ppy.sh/users/16998777) |
+| 不喜欢打叠 | [GinaFujino](https://osu.ppy.sh/users/25864079), [XeOF4](https://osu.ppy.sh/users/22692196) |
+| SESBIAN LEX | [Unitori\-](https://osu.ppy.sh/users/15772814), [Rxizuna](https://osu.ppy.sh/users/16055641) |
+| OsuBadPlayEtterna | [\_jpg](https://osu.ppy.sh/users/17300655) |
+| SV Player | [\[Crz\]yomogi237](https://osu.ppy.sh/users/28571440) |
+| Team White Dress | [lonelyxvi](https://osu.ppy.sh/users/24133264) |
+| THE TROLLERS | [Takedown05](https://osu.ppy.sh/users/18060303), [\[GE\] Arthur](https://osu.ppy.sh/users/24122055) |
+| aomdco | [AomDCO](https://osu.ppy.sh/users/21072569) |
+| 快手极速版 | [Na2He](https://osu.ppy.sh/users/20298842), [Az-Q](https://osu.ppy.sh/users/32613475) |
+| Handstream>Jack | [Lotex09](https://osu.ppy.sh/users/14114899), [antip0is0n](https://osu.ppy.sh/users/8576168) |
+| index.html | [ERA Xuste](https://osu.ppy.sh/users/17989444) |
+| hawk | [Hawkfrost](https://osu.ppy.sh/users/15555328), [\[Paw\]Fish\_wood](https://osu.ppy.sh/users/31185655) |
+| 2007 Toyota Camry | [\-slink\-](https://osu.ppy.sh/users/13155680) |
+| Amogus enjoyers | [CrewposerAlusET](https://osu.ppy.sh/users/14700283), [thuypb2009](https://osu.ppy.sh/users/24291557) |
+| soloist | [Shirobi](https://osu.ppy.sh/users/18804586) |
+| 👍 | [TheOPmeme](https://osu.ppy.sh/users/15763622) |
+| Polygon | [Achino](https://osu.ppy.sh/users/13349388), [yuukituk](https://osu.ppy.sh/users/11998955) |
+| adalah alat tempur mutakhir dari korea | [nyawaa](https://osu.ppy.sh/users/10235085), [Lenny\_cL](https://osu.ppy.sh/users/12793583) |
+| 海陆 | [CaptainLan](https://osu.ppy.sh/users/18483399) |
+| meow :3 | [\[HD\]tapgame](https://osu.ppy.sh/users/20094344) |
+| 1 Man Army | [LegendofLink](https://osu.ppy.sh/users/18423304), [Shinrisha](https://osu.ppy.sh/users/12173637) |
+| Pookie Bears | [\[KC\]CruB](https://osu.ppy.sh/users/22708257), [ComboCatt](https://osu.ppy.sh/users/29968719) |
+| We can't late game | [SHOKO \-](https://osu.ppy.sh/users/10279743), [MatchaLatte\-](https://osu.ppy.sh/users/15944956) |
+| fastest crashers | [Rand0mwastaken](https://osu.ppy.sh/users/24449678), [RyanWong1216](https://osu.ppy.sh/users/19030562) |
+| M | [minhhuyosuer](https://osu.ppy.sh/users/19626270) |
+| I\_Cant\_Jack\_150 | [\ LVkinght](https://osu.ppy.sh/users/25654619) |
+| Idk help i suck | [Gametytnt](https://osu.ppy.sh/users/26646928) |
+| 痛恨叠键 | [sarc6o9](https://osu.ppy.sh/users/23135250) |
+| まひろ隊 | [tianzitanhua](https://osu.ppy.sh/users/32196635) |
+| 憋笑 | [chino3310](https://osu.ppy.sh/users/16626292), [\-Thirteen\-](https://osu.ppy.sh/users/34241263) |
+| 取队伍名称好难 | [\[GB\]Lingyu](https://osu.ppy.sh/users/29743849), [Takoke](https://osu.ppy.sh/users/11628037) |
+| We can't mid game | [\- Rinmoz \-](https://osu.ppy.sh/users/16639144), [Freshky](https://osu.ppy.sh/users/11959687) |
+| Shangus | [lianic](https://osu.ppy.sh/users/13975661) |
+| 影流之主 | [\[GB\]QAQlingjiu](https://osu.ppy.sh/users/27288518) |
+
 ## 图池
 
 ### 总决赛
