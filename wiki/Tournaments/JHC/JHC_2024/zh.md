@@ -64,65 +64,65 @@ tags:
 
 ### 总决赛
 
-[点击此处下载图包（）]()
+[点击此处下载图包（282 MB）](https://drive.google.com/file/d/1ALGhSIzcqcQA-VEQheKu6ww4PMHNrD8p/view?usp=sharing)
 
 - Full Jack
-  1. []()
-  2. []()
+  1. [katagiri - STRONG 280 (\[LS\]chilling) \[\[4K\] Challenge (Isxl)\]](https://osu.ppy.sh/beatmapsets/2004781#mania/4169243)
+  2. [FFFanwen - East Shenzhen (ieFaH) \[\[4K\] Busy City 0.95x\]](https://osu.ppy.sh/beatmapsets/2080087#mania/4510738)
 - Dense Chordjack
-  1. []()
-  2. []()
+  1. [Yooh vs. siromaru - Antagonism (Jhown) \[\[4K\] Obliterate\]](https://osu.ppy.sh/beatmapsets/1722943#mania/3521326)
+  2. [Block B - HER (Ena) \[\[4K\] x_x\]](https://osu.ppy.sh/beatmapsets/1851582#mania/3804409)
 - Middle Chordjack
-  1. []()
-  2. []()
+  1. [ZUN arr. Komso - Eternal Spring Dream (Hylotl) \[\[4K\] 123123123 \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1996575#mania/4149521)
+  2. [Dragonforce - Symphony of the Night (Cut Ver.) (LiMerenDx) \[\[4K\] DragonJack\]](https://osu.ppy.sh/beatmapsets/2143608#mania/4512869)
 - Light Chordjack
-  1. []()
-  2. []()
+  1. [Itaojirou - Tze-Chiang (\[GB\]nyasun) \[\[4K\] \[\#22J\]14\]](https://osu.ppy.sh/beatmapsets/2106870#mania/4421123)
+  2. [ayaponzu\* - Super Nuko Ni Naritai (YuEast 2018) \[\[4K\] Super Jeck Ni Naritai\]](https://osu.ppy.sh/beatmapsets/1774715#mania/3634309)
 - Anchor Jack
-  1. []()
-  2. []()
+  1. [PINOCCHIOP feat. Kagamine Rin & Hatsune Miku - Nee Nee Nee. (LaoXiao-) \[\[4K\] Hey Hey Hey @Jack x1.15\]](https://osu.ppy.sh/beatmapsets/1552231#mania/3171777)
+  2. [Ganeme - See you again... (To2) \[\[4K\] Retrospect x1.05\_P\]](https://osu.ppy.sh/beatmapsets/1884119#mania/3879256)
 - Difficult Jack
-  1. []()
+  1. [Camellia - Looking for Edge of Ground (ieFaH) \[\[4K\] Exploring in the Infinite World\]](https://osu.ppy.sh/beatmapsets/2143204#mania/4511881)
 - Quadstream
-  1. []()
+  1. [fether - Piano Concerto No. 1 "Scorpion Fire" (Nandemo Suikomu Pink Iro no Tameno) (yks1) \[\[4K\] Devour 205\]](https://osu.ppy.sh/beatmapsets/2144954#mania/4517823)
 - Minijack
-  1. []()
+  1. [Camellia - ANOMALY (To2) \[\[4K\] MAL"FUNCT!ON" x1.1\_P\]](https://osu.ppy.sh/beatmapsets/2138131#mania/4499788)
 - Rhythm Jack
-  1. []()
+  1. [Shiron - iNSPiRED (yks1) \[\[4K\] LEiTFADEN\]](https://osu.ppy.sh/beatmapsets/2144953#mania/4517821)
 - Tie Breaker
-  1. []()
+  1. [Yooh - RPG (\[GB\]Tyris) \[\[4K\] -Disguise//Impersonation//Procrypsis-\]](https://osu.ppy.sh/beatmapsets/2144958#mania/4517829)
 
 ### 决赛
 
-[点击此处下载图包（）]()
+[点击此处下载图包（249 MB）](https://drive.google.com/file/d/1-2K0EV7yWMFOEy0VMDUgb-_XMKxZqkY7/view?usp=sharing)
 
 - Full Jack
-  1. []()
-  2. []()
+  1. [Yooh - Maou (Yooh Remix) \[\[4K\] Doomsday x1.05\_P\]](https://osu.ppy.sh/beatmapsets/2141619#mania/4507644)
+  2. [Kyarypamyupamyu - Candy Candy (\[Szy\]MongolCJ) \[\[4K\] ^^ 1.15x\]](https://osu.ppy.sh/beatmapsets/1765697#mania/3614272)
 - Dense Chordjack
-  1. []()
-  2. []()
+  1. [uma feat. Mashiro - take me to the moon (Hylotl) \[\[4K\] Lv.32 \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/2141825#mania/4508096)
+  2. [Housei Satoh - Ultraviolet (yks1) \[\[4K\] MURASAKI (158bpm)\]](https://osu.ppy.sh/beatmapsets/2141316#mania/4507001)
 - Middle Chordjack
-  1. []()
-  2. []()
+  1. [LV.4 - Burning Star (\[GB\]nyasun) \[\[4K\] Combustion\]](https://osu.ppy.sh/beatmapsets/2103169#mania/4412772)
+  2. [Camellia - The Night Is On Fire (To2) \[\[4K\] rughss's NSV flame\]](https://osu.ppy.sh/beatmapsets/2141323#mania/4507029)
 - Light Chordjack
-  1. []()
-  2. []()
+  1. [Camellia - D'endrrah (\[GB\]Tyris) \[\[4K\] Jack Apocalypse (cut)\]](https://osu.ppy.sh/beatmapsets/2129359#mania/4477550)
+  2. [Foreground Eclipse - Last Liar Standing (YuEast 2018) \[\[4K\] Usotsuki x1.15\]](https://osu.ppy.sh/beatmapsets/1544122#mania/3156174)
 - Anchor Jack
-  1. []()
-  2. []()
+  1. [Camellia - GHOST-NOVA \[\[4K\] THE NIGHT MIGHT BE CRAZY x1.15\_P\]](https://osu.ppy.sh/beatmapsets/1904585#mania/3927149)
+  2. [Lee Jung-hyun - Moon ah Moon (Ycloki) \[\[4K\] Lunar Anchor \[150 edit\]\]](https://osu.ppy.sh/beatmapsets/2141353#mania/4507084)
 - Quadstream
-  1. []()
+  1. [ShinRa-Bansho - Shiga Futari omu Subumade (ieFaH) \[\[4K\] Till Death 1.05x\]](https://osu.ppy.sh/beatmapsets/2140566#mania/4505184)
 - Minijack
-  1. []()
+  1. [CHARAN-PO-RANTAN - Anoko no Jinta(TAROLIN Remix) (YuEast 2018) \[\[4K\] x1.05\]](https://osu.ppy.sh/beatmapsets/2141670#mania/4507926)
 - Rhythm Jack
-  1. []()
+  1. [Juggernaut. - Godslain (\[GB\]Tyris) \[\[4K\] Legendary x1.1\]](https://osu.ppy.sh/beatmapsets/2140634#mania/4505399)
 - Tie Breaker
-  1. []()
+  1. [Kobaryo feat. HiTNEX-X - SUPER MEMORIES (Ycloki) \[\[4K\] M3M0RY : R3C0N5TRUCTi0N\]](https://osu.ppy.sh/beatmapsets/2141351#mania/4507082)
 
 ### 半决赛
 
-[点击此处下载图包（）]()
+[点击此处下载图包（201 MB）](https://drive.google.com/file/d/1Ufq57PUXZHx90vjONIBt8hFG6CQu_USV/view?usp=sharing)
 
 - Full Jack
   1. [Coakira - KAMISORI (Hoshimiya\_) \[\[4K\] Jack\]](https://osu.ppy.sh/beatmapsets/2137662#mania/4498741)
