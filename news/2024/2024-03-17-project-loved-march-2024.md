@@ -220,7 +220,7 @@ The osu!taiko Loved candidates were chosen by [aceticke](https://osu.ppy.sh/user
 🎶But not enough stamina🎶\
 🎶Do you have all of these skills for an FC\~?🎶
 
-Some of you may recognize this map from the [SGTS 2023](https://osu.ppy.sh/community/forums/topics/1471608?n=1) Grand Finals pool, and for those who don't, what are you waiting for?!
+Some of you may recognize this map from the [SGTS 2023](https://osu.ppy.sh/community/forums/topics/1703263?n=1) Grand Finals pool, and for those who don't, what are you waiting for?!
 
 If you like high SV, low SV, tech or speed, make sure to give to map a try. I'm sure you will at least enjoy one of the sections if you said yes to any of these!
 
