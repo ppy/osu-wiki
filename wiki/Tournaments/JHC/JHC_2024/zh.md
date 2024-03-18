@@ -322,6 +322,43 @@ tags:
 
 表格形式的结果可见[主表](https://docs.google.com/spreadsheets/d/1Qm2BfIc2LFbf59-2RBkqnOde95y2WgoyO_XRNSrvNa4/)。
 
+### 32 强
+
+| \# | 时间（UTC）| 红队 | | | 蓝队 | 链接 | 组别 |
+| :-: | :-: | --: | :-: | :-: | :-- | :-: | :-: |
+| 16 | Saturday 27 January 08:00 | We can't late game | **5** | 1 | lsjx追逐梦想 | [link](https://osu.ppy.sh/community/matches/112393888) | HIGHER |
+| 1 | Saturday 27 January 12:30 | GangWonDuo | **5** | 0 | hop on quaver | [link](https://osu.ppy.sh/mp/112396290) | HIGHER |
+| 2 | Saturday 27 January 13:00 | 👍 | **5** | 0 | 海陆 | [link](https://osu.ppy.sh/mp/112396823) | HIGHER |
+| 6 | Saturday 27 January 13:00 | hsod | **5** | 2 | Polygon | [link](https://osu.ppy.sh/mp/112396815) | HIGHER |
+| 14 | Saturday 27 January 13:00 | Techno Music | **5** | 2 | Jack Hunter | [link](https://osu.ppy.sh/mp/112396678) | HIGHER |
+| 12 | Saturday 27 January 14:00 | SV Player | **5** | 0 | FurryLover | [link](https://osu.ppy.sh/mp/112397887) | HIGHER |
+| 11 | Saturday 27 January 14:30 | 大天空killers | **5** | 0 | Amogus enjoyers | [link](https://osu.ppy.sh/mp/112398384) | HIGHER |
+| 7 | Saturday 27 January 15:00 | SESBIAN LEX | **5** | 1 | 憋笑 | [link](https://osu.ppy.sh/mp/112398557) | HIGHER |
+| 10 | Saturday 27 January 20:00 | kiopm | 1 | **5** | choke99 | [link](https://osu.ppy.sh/mp/112404110) | HIGHER |
+| 8 | Sunday 28 January 00:00 | garfield exterminators if fortnite | **5** | FF | Hop on Lethal Company | ~link~ | HIGHER |
+| 13 | Sunday 28 January 11:00 | wehehe | **5** | 1 | AwakeGiant | [link](https://osu.ppy.sh/mp/112413909) | HIGHER |
+| 4 | Sunday 28 January 12:00 | OBLIKULIVO | **5** | 0 | 绝不认输 | [link](https://osu.ppy.sh/mp/112414464) | HIGHER |
+| 3 | Sunday 28 January 13:00 | Shangus | **5** | 2 | soloist | [link](https://osu.ppy.sh/mp/112415448) | HIGHER |
+| 5 | Sunday 28 January 13:00 | hawk | **5** | 1 | 原核生物队 | [link](https://osu.ppy.sh/mp/112415382) | HIGHER |
+| 9 | Sunday 28 January 13:00 | ETA | **5** | 0 | We can't mid game | [link](https://osu.ppy.sh/mp/112415472) | HIGHER |
+| 15 | Sunday 28 January 18:00 | THE TRUTH OF NOCENT | **5** | FF | adalah alat tempur mutakhir dari korea | ~link~ | HIGHER |
+| 26 | Friday 2 February 23:00 | kiopm | **5** | 2 | Handstream>Jack | [link](https://osu.ppy.sh/mp/112492856) | LOWER |
+| 25 | Saturday 3 February 09:00 | We can't mid game | 0 | **5** | 快手极速版 | [link](https://osu.ppy.sh/community/matches/112498456) | LOWER |
+| 29 | Saturday 3 February 11:00 | AwakeGiant | **5** | 4 | 取队伍名称好难 | [link](https://osu.ppy.sh/mp/112499586) | LOWER |
+| 20 | Saturday 3 February 12:00 | 绝不认输 | 3 | **5** | HTBL achang | [link](https://osu.ppy.sh/mp/112500235) | LOWER |
+| 28 | Saturday 3 February 13:00 | FurryLover | 1 | **5** | fastest crashers | [link](https://osu.ppy.sh/mp/112500992) | LOWER |
+| 23 | Saturday 3 February 14:00 | 憋笑 | **5** | 4 | alone jacker | [link](https://osu.ppy.sh/mp/112501870) | LOWER |
+| 27 | Sunday 4 February 06:30 | Amogus enjoyers | 4 | **5** | 不喜欢打叠 | [link](https://osu.ppy.sh/mp/112515839) | LOWER |
+| 22 | Sunday 4 February 12:00 | Polygon | 4 | **5** | choke gang | [link](https://osu.ppy.sh/mp/112519095) | LOWER |
+| 32 | Sunday 4 February 12:00 | lsjx追逐梦想 | 2 | **5** | ♿🍔♿🀄♿ | [link](https://osu.ppy.sh/community/matches/112519029) | LOWER |
+| 30 | Sunday 4 February 12:00 | Jack Hunter | 1 | **5** | aomdco | [link](https://osu.ppy.sh/community/matches/112519128) | LOWER |
+| 17 | Sunday 4 February 13:00 | hop on quaver | 3 | **5** | Antijacker | [link](https://osu.ppy.sh/mp/112518542) | LOWER |
+| 21 | Sunday 4 February 13:00 | 原核生物队 | **5** | 0 | 我先睡了 | [link](https://osu.ppy.sh/mp/112520044) | LOWER |
+| 18 | Sunday 4 February 14:00 | 海陆 | **5** | 0 | 打胶队 | [link](https://osu.ppy.sh/community/matches/112520770) | LOWER |
+| 24 | Sunday 4 February 14:00 | Hop on Lethal Company | FF | **5** | 痛恨叠键 | [link](https://osu.ppy.sh/community/matches/112520736) | LOWER |
+| 19 | Sunday 4 February 15:00 | soloist | **5** | FF | Pookie Bears | [link](https://osu.ppy.sh/community/matches/112521613) | LOWER |
+| 31 | Sunday 4 February 15:00 | adalah alat tempur mutakhir dari korea | 3 | **5** | THE TROLLERS | [link](https://osu.ppy.sh/community/matches/112521586) | LOWER |
+
 ### 资格赛
 
 每队具体出分可见[数据表](https://docs.google.com/spreadsheets/d/1q0Hbqt5Rqz78IHnMo2t-WhMl2oyrxNoTHdysYngH3Jc/)。
