@@ -67,164 +67,162 @@ tags:
 [点击此处下载图包（）]()
 
 - Full Jack
-  1. 
-  2. 
+  1. []()
+  2. []()
 - Dense Chordjack
-  1.
-  2. 
+  1. []()
+  2. []()
 - Middle Chordjack
-  1.
-  2. 
+  1. []()
+  2. []()
 - Light Chordjack
-  1.
-  2.
+  1. []()
+  2. []()
 - Anchor Jack
-  1.
-  2.
+  1. []()
+  2. []()
 - Difficult Jack
-  1.
+  1. []()
 - Quadstream
-  1.
+  1. []()
 - Minijack
-  1. 
+  1. []()
 - Rhythm Jack
-  1. 
+  1. []()
 - Tie Breaker
-  1. 
+  1. []()
 
 ### 决赛
 
 [点击此处下载图包（）]()
 
 - Full Jack
-  1.
-  2. 
+  1. []()
+  2. []()
 - Dense Chordjack
-  1.
-  2. 
+  1. []()
+  2. []()
 - Middle Chordjack
-  1.
-  2. 
+  1. []()
+  2. []()
 - Light Chordjack
-  1.
-  2.
+  1. []()
+  2. []()
 - Anchor Jack
-  1.
-  2.
+  1. []()
+  2. []()
 - Quadstream
-  1.
+  1. []()
 - Minijack
-  1. 
+  1. []()
 - Rhythm Jack
-  1. 
+  1. []()
 - Tie Breaker
-  1. 
+  1. []()
 
 ### 半决赛
 
 [点击此处下载图包（）]()
 
 - Full Jack
-  1.
-  2. 
+  1. []()
+  2. []()
 - Dense Chordjack
-  1.
-  2. 
+  1. []()
+  2. []()
 - Middle Chordjack
-  1.
-  2. 
+  1. []()
+  2. []()
 - Light Chordjack
-  1.
-  2.
+  1. []()
+  2. []()
 - Anchor Jack
-  1.
-  2.
+  1. []()
+  2. []()
 - Quadstream
-  1.
+  1. []()
 - Minijack
-  1. 
+  1. []()
 - Rhythm Jack
-  1. 
+  1. []()
 - Tie Breaker
-  1. 
+  1. []()
 
 ### 8 强赛
 
 [点击此处下载图包（）]()
 
 - Full Jack
-  1.
-  2. 
+  1. []()
+  2. []()
 - Dense Chordjack
-  1.
-  2. 
+  1. []()
+  2. []()
 - Middle Chordjack
-  1.
-  2. 
+  1. []()
+  2. []()
 - Light Chordjack
-  1.
-  2.
+  1. []()
+  2. []()
 - Anchor Jack
-  1.
-  2.
+  1. []()
+  2. []()
 - Quadstream
-  1.
+  1. []()
 - Minijack
-  1. 
+  1. []()
 - Rhythm Jack
-  1. 
+  1. []()
 - Tie Breaker
-  1. 
+  1. []()
 
 ### 16 强赛
 
-[点击此处下载图包（）]()
-
 - Full Jack
-  1.
-  2. 
+  1. [DVRST - Close Eyes (ieFaH) \[\[4K\] Blaze 1.2x\]](https://osu.ppy.sh/beatmapsets/2127303#mania/4471993)
+  2. [Kotone - Autonomy (rhdqogh1) \[\[4K\] SMOCMouse\[CHORDJACK\] 1.05x (241bpm) OD8\]](https://osu.ppy.sh/beatmapsets/1686062#mania/3445881)
 - Dense Chordjack
-  1.
-  2. 
+  1. [Nachi - Sezon de cirese (Cut Ver.) (\[Crz\]Leaves\_) \[\[4K\] Sakura\]](https://osu.ppy.sh/beatmapsets/2130375#mania/4479942)
+  2. [siinamota - Shoujo A (\[GB\]nyasun) \[\[4K\] xwx\]](https://osu.ppy.sh/beatmapsets/2100381#mania/4406160)
 - Middle Chordjack
-  1.
-  2. 
+  1. [Tommee Profitt/Jung Youth - Only one king (\[GB\]Tyris) \[\[4K\] JACK\]](https://osu.ppy.sh/beatmapsets/1888563#mania/3889451)
+  2. [SOUND HOLIC - chinmoku ~serukuiyuno shoujo~ (yks1) \[\[4K\] ZUN (Less LN)\]](https://osu.ppy.sh/beatmapsets/2128748#mania/4475821)
 - Light Chordjack
-  1.
-  2.
+  1. [Umeboshi Chazuke - Hoshi no Oujisama (Hoshimiya\_) \[\[4K\] 1.05x\]](https://osu.ppy.sh/beatmapsets/2129760#mania/4478480)
+  2. [Utsu-P - Poster Girl's Prank (YuEast 2018) \[\[4K\] x1.00\]](https://osu.ppy.sh/beatmapsets/2130581#mania/4480823)
 - Anchor Jack
-  1.
+  1. [Such & PSYQUI - Secret Dance Hall (\[GB\]GanyuAngel) \[\[4K\] Collab Dance\]](https://osu.ppy.sh/beatmapsets/2130570#mania/4480792)
 - Minijack
-  1. 
+  1. [Gawr Gura - REFLECT (Assertive Hardcore Bootleg) (Cut Ver.) (\[GB\]V1do) \[\[4K\] Jack Under the Sea\]](https://osu.ppy.sh/beatmapsets/2130329#mania/4479853)
 - Rhythm Jack
-  1. 
+  1. [SharaX - V.I.P. (Blue\_Potion) \[\[4K\] Ridiculous\]](https://osu.ppy.sh/beatmapsets/2130566#mania/4480788)
 - Tie Breaker
-  1. 
+  1. [Camellia - Glitch Nerds (Evening's Extended Mix) (Ycloki) \[\[4K\] DEBUGing...\]](https://osu.ppy.sh/beatmapsets/2130568#mania/4480790)
 
 ### 32 强赛
 
-[点击此处下载图包（）]()
+[点击此处下载图包（181 MB）](https://drive.google.com/file/d/1OvOSp6LxH5AX3p5g1KLecvQsWrLdFBE1/view?usp=sharing)
 
 - Full Jack
-  1.
-  2. 
+  1. [Reol - No title (YuEast 2018) \[\[4K\] 1.1\]](https://osu.ppy.sh/beatmapsets/1313383#mania/2722002)
+  2. [Waterflame - Glorious Morning 2 (crazyrenard) \[\[4K\] Jack is war\]](https://osu.ppy.sh/beatmapsets/2123681#mania/4463126)
 - Dense Chordjack
-  1.
-  2. 
+  1. [Hatsuki Yura - Yoiyami Hanabi (Ycloki) \[\[4K\] loneliness Under the Mask \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/2123676#mania/4463100)
+  2. [Hatsune Miku & Megurine Luka - Magnet (\[Crz\]Rachel) \[\[4K\] 1.0x \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1174224#mania/2449053)
 - Middle Chordjack
-  1.
-  2. 
+  1. [Grand Thaw - Freezing Floweret (\[Paw\]doudou0310) \[\[4K\] dou-jack (Less LN)\]](https://osu.ppy.sh/beatmapsets/2123708#mania/4463184)
+  2. [Nanashi Mumei - A New Start (\[GB\]Sanae) \[\[4K\] Flawless World (132bpm)\]](https://osu.ppy.sh/beatmapsets/1868394#mania/3921220)
 - Light Chordjack
-  1.
-  2.
+  1. [Yuri Yuzriha - At The Distant World of Stars (Suirent) \[\[4K\] Aw.0000\]](https://osu.ppy.sh/beatmapsets/2123671#mania/4463091)
+  2. [HHHxMMxST - Follow Tomorrow (STARLiGHT Mix) (cdwcgt) \[\[4K\] Autumn Memories' Follow the Future 1.0x\]](https://osu.ppy.sh/beatmapsets/2123683#mania/4463132)
 - Anchor Jack
-  1.
+  1. [BRIGHT - Ichinen Nikagetsu Hatsuka (cdwcgt) \[\[4K\] Autumn Memories' Love 1.0x\]](https://osu.ppy.sh/beatmapsets/2123684#mania/4463137)
 - Minijack
-  1. 
+  1. [Getty - Sonic Bass (\[GB\]Tyris) \[\[4K\] Jack Challenge (Less LN) 0.95x\]](https://osu.ppy.sh/beatmapsets/1892972#mania/4462793)
 - Rhythm Jack
-  1. 
+  1. [litmus* - Showdown (Blue_Potion) \[\[4K\] Rhythm Markup\]](https://osu.ppy.sh/beatmapsets/2123677#mania/4463102)
 - Tie Breaker
-  1. 
+  1. [SharaX - Tick Tock (Blue_Potion) \[\[4K\] Pure\]](https://osu.ppy.sh/beatmapsets/2123680#mania/4463124)
 
 ### 资格赛
 
