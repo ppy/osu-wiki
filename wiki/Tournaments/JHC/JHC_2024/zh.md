@@ -125,56 +125,56 @@ tags:
 [点击此处下载图包（）]()
 
 - Full Jack
-  1. []()
-  2. []()
+  1. [Coakira - KAMISORI (Hoshimiya\_) \[\[4K\] Jack\]](https://osu.ppy.sh/beatmapsets/2137662#mania/4498741)
+  2. [KORDHELL - Murder In My Mind (\[Szy\]MongolCJ) \[\[4K\] ^^ 1.15x\]](https://osu.ppy.sh/beatmapsets/1812178#mania/3717286)
 - Dense Chordjack
-  1. []()
-  2. []()
+  1. [Cascada - Bad Boy (Ycloki) \[\[4K\] Rude Chordjack \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/2138111#mania/4499747)
+  2. [sukuramu42 - Final examination (Suirent) \[\[4K\] Chordjack\]](https://osu.ppy.sh/beatmapsets/2102772#mania/4411830)
 - Middle Chordjack
-  1. []()
-  2. []()
+  1. [kanone - CO5M1C R4ILR0AD (Hoshimiya\_) \[\[4K\] 1.05x\]](https://osu.ppy.sh/beatmapsets/2137654#mania/4498707)
+  2. [UNDEAD CORPORATION - Tokoyo Omohikane no Kami (Dreamemory) \[\[4K\] ~ 1.15x\]](https://osu.ppy.sh/beatmapsets/2138068#mania/4499654)
 - Light Chordjack
-  1. []()
-  2. []()
+  1. [DECO*27 - Rabbit Hole (YuEast 2018) \[\[4K\] x1.00\]](https://osu.ppy.sh/beatmapsets/2033969#mania/4240484)
+  2. [Unlucky Morpheus - Danzai wa Amaneku Ningen no Motto ni (YuEast 2018) \[\[4K\] x1.00\]](https://osu.ppy.sh/beatmapsets/2138112#mania/4499749)
 - Anchor Jack
-  1. []()
-  2. []()
+  1. [Zero Hero - Bass Drop (Guilhermeziat) \[\[4K\] Bass Flop 1.05\]](https://osu.ppy.sh/beatmapsets/616168#mania/1780964)
+  2. [GET IN THE RING - Forgotten Paradise (To2) \[\[4K\] cut x1.1\_P\]](https://osu.ppy.sh/beatmapsets/2135186#mania/4492757)
 - Quadstream
-  1. []()
+  1. [ETIA. - Singularity (Ycloki) \[\[4K\] Quadlarity of 185\]](https://osu.ppy.sh/beatmapsets/2138116#mania/4499758)
 - Minijack
-  1. []()
+  1. [Mr. Asyu - Haunted Dance (ieFaH) \[\[4K\] nightmare\]](https://osu.ppy.sh/beatmapsets/2137579#mania/4498542)
 - Rhythm Jack
-  1. []()
+  1. [ilem - Lai Chun Da Ma (\[GB\]sherweifa) \[\[4K\] ga der ga der \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/2138084#mania/4499695)
 - Tie Breaker
-  1. []()
+  1. [nora2r - B.B.K.K.B.K.K. (Hexacube vs Xeudo Code Remix) (Ycloki) \[\[4K\] ? ? JACK JACK ? JACK JACK\]](https://osu.ppy.sh/beatmapsets/2138114#mania/4499751)
 
 ### 8 强赛
 
-[点击此处下载图包（）]()
+[点击此处下载图包（211 MB）](https://drive.google.com/file/d/18T3E85pgWd1DhfT7CTknyDI25HY5N6hH/)
 
 - Full Jack
-  1. []()
-  2. []()
+  1. [Yuk1nA - Ave Mujica (French Kick Edit) (ieFaH) \[\[4K\] full.ver 1.15x\]](https://osu.ppy.sh/beatmapsets/2131509#mania/4483389)
+  2. [Imperial Circus Dead Decadence - Shinbatsu o Tadori Kyo Kotsu ni Itaru \[\[4K\] dou-jack cut\]](https://osu.ppy.sh/beatmapsets/2134609#mania/4491272)
 - Dense Chordjack
-  1. []()
-  2. []()
+  1. [CLIFF EDGE feat. Nakamura Maiko - Angel (Cut ver.) (Hylotl) \[\[4K\] 2024 Edit\]](https://osu.ppy.sh/beatmapsets/2134596#mania/4491253)
+  2. [mitssi feat. SeeU - You (Ycloki) \[\[4K\] pure.melancholy\]](https://osu.ppy.sh/beatmapsets/2134554#mania/4491171)
 - Middle Chordjack
-  1. []()
-  2. []()
+  1. [Junk - Looking for Stella (\[GB\]nyasun) \[\[4K\] Interstellar 1.05x (151bpm) OD8\]](https://osu.ppy.sh/beatmapsets/2097825#mania/4399966)
+  3. [Aly & Fila/Luke Bond/Audrey Gallagher - Million Voices (Radio Edit) (Ycloki) \[\[4K\] 150 decibel\]](https://osu.ppy.sh/beatmapsets/2134560#mania/4491179)
 - Light Chordjack
-  1. []()
-  2. []()
+  1. [Muramasa Qualia - Kurokami Midareshi Shura to Narite (\[GB\]GanyuAngel) \[\[4K\] sukaretto x1.05\]](https://osu.ppy.sh/beatmapsets/2127079#mania/4487868)
+  2. [SHIKI - KLEINE (To2) \[\[4K\] Bara x1.1\_P\]](https://osu.ppy.sh/beatmapsets/1839836#mania/3778777)
 - Anchor Jack
-  1. []()
-  2. []()
+  1. [Riko (CV: Tomita Miyu), Regu (CV: Mariya Ise) - Deep in Abyss (\[GB\]V1do) \[\[4K\] Cut ver. 1.1x (149bpm) OD8\]](https://osu.ppy.sh/beatmapsets/2133824#mania/4489000)
+  2. [Natsume Itsuki - Secret of my heart (ieFaH) \[\[4K\] love 1.05x\]](https://osu.ppy.sh/beatmapsets/2131468#mania/4483273)
 - Quadstream
-  1. []()
+  1. [LV.4 - Spriggan (Ramn) \[\[4K\] Valkyrie(Cut)\]](https://osu.ppy.sh/beatmapsets/2007194#mania/4175001)
 - Minijack
-  1. []()
+  1. [Yooh - Astrum (Blue\_Potion) \[\[4K\] Mindset\]](https://osu.ppy.sh/beatmapsets/2134511#mania/4491068)
 - Rhythm Jack
-  1. []()
+  1. [Creepy Nuts - Bling-Bang-Bang-Born (\[GB\]sherweifa) \[\[4K\] chou flex\]](https://osu.ppy.sh/beatmapsets/2133864#mania/4489182)
 - Tie Breaker
-  1. []()
+  1. [Noma Nadeshiko - Sanzu no Kawa Ninngyou Gekijyou (Blue\_Potion) \[\[4K\] Truth in the Forgotten Memory\]](https://osu.ppy.sh/beatmapsets/2134599#mania/4491258)
 
 ### 16 强赛
 
