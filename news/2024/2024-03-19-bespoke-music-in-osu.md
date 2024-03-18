@@ -118,7 +118,7 @@ The other tournament hosts interviewed here said basically the same thing, which
 
 [![](/wiki/shared/news/2024-03-19-bespoke-music-in-osu/takehirotei.png)](https://osu.ppy.sh/users/11793794)
 
-> Hey there, I'm [takehirotei](https://osu.ppy.sh/users/11793794), just your normal rhythm gamer that composes music as a side job. If you're from osu!, you might have heard of me from some tiebreaker songs from some tourneys such as osu! (and taiko) Malaysia Tournaments, [EGTS](/Tournaments/GTS#expert-global-taiko-showdown), or [4DMWC 2023](/wiki/Tournaments/4DM/2023) and many more, or if you're outside osu!, you might even heard me as the anime song remix guy for remixing some popular titles such as *Idol* (under the Imaginary Reality alias) or *Guitar*, *Loneliness* and *Blue Planet*.
+> Hey there, I'm [takehirotei](https://osu.ppy.sh/users/11793794), just your normal rhythm gamer that composes music as a side job. If you're from osu!, you might have heard of me from some tiebreaker songs from some tourneys such as osu! (and taiko) Malaysia Tournaments, [EGTS](/wiki/Tournaments/GTS#expert-global-taiko-showdown), or [4DMWC 2023](/wiki/Tournaments/4DM/2023) and many more, or if you're outside osu!, you might even heard me as the anime song remix guy for remixing some popular titles such as *Idol* (under the Imaginary Reality alias) or *Guitar*, *Loneliness* and *Blue Planet*.
 
 [**takehirotei**](https://osu.ppy.sh/users/11793794) has produced over 20 songs for various community tournaments, 6 of them being for Global Taiko Showdown. Here's their perspective on how it all goes down:
 
