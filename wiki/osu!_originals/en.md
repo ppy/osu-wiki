@@ -205,6 +205,13 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 |  | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=LV.4&query=%22Vortex%20of%20Sorrow%22 "Featured Artist listing") | LV.4 feat. Mawata Spica - Vortex of Sorrow | [#1](https://osu.ppy.sh/beatmapsets/1980701) | Grand Finals FM3 |
 |  | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Toromaru&query=%22Sleight%20of%20Hand%22 "Featured Artist listing") | Toromaru - Sleight of Hand | [#1](https://osu.ppy.sh/beatmapsets/1972518) | Semifinals NM2 |
 
+#### ![](/wiki/shared/mode/taiko.png) [osu!taiko World Cup 2024](/wiki/Tournaments/TWC/2024)
+
+| Links | FA | Song | Beatmap | Notes |
+| --: | :-: | :-- | :-: | :-- |
+|  |  | Hamu feat. Natsuki Karin - Sunao ni Naritai[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2152060) | Round of 32 HD1 |
+|  |  | Yuuni - Frozen Blood | [#1](https://osu.ppy.sh/beatmapsets/2152052) | Round of 32 tiebreaker |
+
 #### ![](/wiki/shared/mode/catch.png) [osu!catch World Cup 2021](/wiki/Tournaments/CWC/2021)
 
 | Links | FA | Song | Beatmap | Notes |
