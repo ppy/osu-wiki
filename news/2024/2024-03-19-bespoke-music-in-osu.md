@@ -80,17 +80,17 @@ How did their story start? They were asked similar questions as Kasumi, so let's
 
 > Hi, my name is Marvin, known as Its not Marvin in osu. I am mainly known to be the host of osu! Malaysia Tournament from 2020 to 2023.
 > 
-> It all started in 2021 with the previous host of osu! malaysia tournament, Kumaxione, he wanted to do something special for his last year staffing, so he decided on commissioning a custom song with a local composer, takehirotei.
+> It all started in 2021 with the previous host of osu! malaysia tournament, [Kumaxione](https://osu.ppy.sh/users/2582531), he wanted to do something special for his last year staffing, so he decided on commissioning a custom song with a local composer, [takehirotei](https://osu.ppy.sh/users/11793794).
 > 
 > What was challenging in particular, and definitely in 2023, was that the majority of us volunteering in local tourneys in Malaysia are uni students, so when physical classes restarted, the time and availability that felt like an abundance during the pandemic era is suddenly gone. To be able to plan and run the tourney with the limited time that we had, felt like quite the achievement, as it was exhausting and scary at times, wondering if we can finish things before the deadline of not.
 > 
-> I feel like the taiko side definitely has larger budgets, and may have more sophisticated processes when it comes to the custom songs planning and producing process, as they had a custom song for every round of the osu!taiko Malaysian Tournament 2022, unlike std where we have 1-3 custom songs for the entire tournament
+> I feel like the taiko side definitely has larger budgets, and may have more sophisticated processes when it comes to the custom songs planning and producing process, as they had a custom song for every round of the [osu!taiko Malaysian Tournament 2022](/wiki/Tournaments/OTMT/2022), unlike std where we have 1-3 custom songs for the entire tournament
 
 [![](/wiki/shared/news/2024-03-19-bespoke-music-in-osu/Jerry.png)](https://osu.ppy.sh/users/605973)
 
 > Hello! My name is Jerry (or NZMJerry), and I'm mostly known for my design works in a number of osu! tournaments and original tracks such as the [Global Taiko Showdown](https://gtsosu.com/) (GTS) series, [osu! World Cup 2023](https://osu.ppy.sh/beatmapsets/2095177#taiko/4393066) and [Jaye's One Key Event (JOKE)](https://osu.ppy.sh/community/forums/topics/1829307?n=1). Besides my designing works, I'm also the host of the osu!taiko Malaysian Tournament (OTMT) series as well as several other events ranging from contests to [LANs](https://osu.ppy.sh/home/news/2023-08-22-osu-malaysia-animangaki) for the overall osu! Malaysian community.
 > 
-> After wrapping up the first edition of the osu!taiko Malaysian Tournament (OTMT) series back in 2021, the team didn't want to just do the same thing again for the next year and beyond, so we felt that the most natural progression for the series' growth was to start introducing original songs into the mix.
+> After wrapping up the [first edition of the osu!taiko Malaysian Tournament](https://osu.ppy.sh/community/forums/topics/1389964?n=1) (OTMT) series back in 2021, the team didn't want to just do the same thing again for the next year and beyond, so we felt that the most natural progression for the series' growth was to start introducing original songs into the mix.
 > 
 > I truly believe that this, along with the introduction of our mascot character, **IRIS**, helped a lot in weaving a recognizable visual identity for the whole tournament, which significantly enhanced the tournament experience.
 > 
@@ -108,9 +108,9 @@ The Malaysian tournaments collectively have 19 original tracks in total at the m
 
 ## Inside the music pipeline
 
-While mangomizer and pishifat touched on the process of World Cup music production, how does it fare for other tournaments? **Kasumi** had this to say:
+While [mangomizer](https://osu.ppy.sh/users/1893718) and [pishifat](https://osu.ppy.sh/users/3178418) touched on the process of World Cup music production, how does it fare for other tournaments? **Kasumi** had this to say:
 
-> The production process in GTS is very largely hands-off from us as admins. It all depends on the slot we shoot for, but for tiebreakers for example, we usually just give a general rundown of the structure we'd like, as well as a specific atmosphere we're shooting for. At that point, everything like genre, BPM and length, are basically decided by the artist's wish.
+> **Kasumi-sama:** The production process in GTS is very largely hands-off from us as admins. It all depends on the slot we shoot for, but for tiebreakers for example, we usually just give a general rundown of the structure we'd like, as well as a specific atmosphere we're shooting for. At that point, everything like genre, BPM and length, are basically decided by the artist's wish.
 > 
 > We only ask for relatively frequent drafts, in intervals of 30 seconds to 1 minute, so we can check if we first like the general vibe, as one would expect, and if we can map it accordingly to the planned difficulty, of course.
 
@@ -118,7 +118,7 @@ The other tournament hosts interviewed here said basically the same thing, which
 
 [![](/wiki/shared/news/2024-03-19-bespoke-music-in-osu/takehirotei.png)](https://osu.ppy.sh/users/11793794)
 
-> Hey there, I'm [takehirotei](https://osu.ppy.sh/users/11793794), just your normal rhythm gamer that composes music as a side job. If you're from osu!, you might have heard of me from some tiebreaker songs from some tourneys such as osu! (and taiko) Malaysia Tournaments, EGTS, or 4DMWC 2023 and many more, or if you're outside osu!, you might even heard me as the anime song remix guy for remixing some popular titles such as *Idol* (under the Imaginary Reality alias) or *Guitar*, *Loneliness* and *Blue Planet*.
+> Hey there, I'm [takehirotei](https://osu.ppy.sh/users/11793794), just your normal rhythm gamer that composes music as a side job. If you're from osu!, you might have heard of me from some tiebreaker songs from some tourneys such as osu! (and taiko) Malaysia Tournaments, [EGTS](/Tournaments/GTS#expert-global-taiko-showdown), or [4DMWC 2023](/wiki/Tournaments/4DM/2023) and many more, or if you're outside osu!, you might even heard me as the anime song remix guy for remixing some popular titles such as *Idol* (under the Imaginary Reality alias) or *Guitar*, *Loneliness* and *Blue Planet*.
 
 [**takehirotei**](https://osu.ppy.sh/users/11793794) has produced over 20 songs for various community tournaments, 6 of them being for Global Taiko Showdown. Here's their perspective on how it all goes down:
 
@@ -154,7 +154,7 @@ Like takehirotei, [HowToPlayLN](https://osu.ppy.sh/users/10879600) has also comp
 
 > If we're talking on how I started doing music, it would throwback to my first composition which I also mapped it and named it after myself ([HowToPlayLN - HowToPlayLN](https://osu.ppy.sh/beatmapsets/1602222#mania/3271953)). I think at some point some people were also joking with myself about "HowToPlayLN custom song when". Then... it's just that I decided to do one for an achievement that I would basically just be a jack-of-all-trades for a tournament scene in osu!mania or osu! in general.
 > 
-> My first tournament was actually DDS Tournament for which I offered a piano custom song, and then I decided to participate in osu!taiko Malaysia Tournament with my first tiebreaker custom song alongside with takehirotei's custom remix of my song being presented in osu!mania LN Tournament 3 (Normal Distribution Remix), and I decided to develop the lore to go along with it and another custom song (for those who are interested, see [LNCryption](https://osu.ppy.sh/beatmapsets/1893946)) which was the reason I continued to do the custom songs in the tournament scenes.
+> My first tournament was actually [DDS Tournament](https://osu.ppy.sh/community/forums/topics/1418287?n=1) for which I offered a piano custom song, and then I decided to participate in [osu!taiko Malaysia Tournament](/wiki/Tournaments/OTMT) with my first tiebreaker custom song alongside with takehirotei's custom remix of my song being presented in [osu!mania LN Tournament 3](/wiki/Tournaments/o!mLN/3) ([Normal Distribution Remix](https://osu.ppy.sh/beatmapsets/1880819)), and I decided to develop the lore to go along with it and another custom song (for those who are interested, see [LNCryption](https://osu.ppy.sh/beatmapsets/1893946)) which was the reason I continued to do the custom songs in the tournament scenes.
 
 Whether by having such a rooted connection between their musical identity and osu! or otherwise, HowToPlayLN does not lack insight into how the osu! tournament music scene clicks. These are their thoughts and advice on what it's like to compose for osu! tournaments:
 
@@ -208,7 +208,7 @@ We'll leave you with what these creators dearly remember.
 
 > \[...] I think the story behind [COEGTS](/wiki/Tournaments/GTS/COEGTS_2023)' Main Mappool Showcase and it getting finalized, like, at all, is one of my absolute favorite experiences as the main organizer of GTS.
 > 
-> First off, I believe everything related to creating this mappool showcase starts on July 10th 2023, being one day after our Qualifiers Mappool Showcase was released, and three weeks prior to the actual mappool showcase at COE, on July 31st.
+> First off, I believe everything related to creating this mappool showcase starts on July 10th 2023, being one day after our Qualifiers Mappool Showcase was released, and three weeks prior to the actual mappool showcase at [COE](/wiki/Community/cavoe's_osu!_event/2023), on July 31st.
 > 
 > At that point, we had most songs ready to go, except one was not given by the composer yet, and the tiebreaker had just gotten finalized that very day. 7 out of the 16 songs had an artwork for it made at all, and 2 of them had their video ready. Of course, lore was not even remotely created. As you can see, setting ourselves up for success here.
 > 
@@ -230,7 +230,7 @@ We'll leave you with what these creators dearly remember.
 
 [![](/wiki/shared/news/2024-03-19-bespoke-music-in-osu/Jerry.png)](https://osu.ppy.sh/users/605973)
 
-> Kicking off the OTMT series back in 2021 felt like I was thrown into the deep end of a pool, with almost none of my past tournament staffing experiences being applicable. Covering every role with the extremely small group of staff that we had was tough, but in hindsight I think that experience was necessary for us to gain insight into what worked and what didn't, which then helped alot in addressing any issues for the 2022 edition.
+> [Kicking off the OTMT series back in 2021](https://osu.ppy.sh/community/forums/topics/1389964?n=1) felt like I was thrown into the deep end of a pool, with almost none of my past tournament staffing experiences being applicable. Covering every role with the extremely small group of staff that we had was tough, but in hindsight I think that experience was necessary for us to gain insight into what worked and what didn't, which then helped alot in addressing any issues for the [2022 edition](/wiki/Tournaments/OTMT/2022).
 > 
 > Even then, this still did not make OTMT2022 any easier to manage. Production levels were higher, our team grew larger, and expectations were now compounded too with the increased number of eyes on the project (special thanks to [Kasumi-sama](https://osu.ppy.sh/users/6177263)). Nevertheless, I think all the countless sleepless nights of work that we poured into the project was all worth it. Having the opportunity to work with some of the most amazing people I've ever met in music composition, character artworks, graphic designing, and many more for the project is perhaps one of the most rewarding experiences I've ever had.
 > 
@@ -238,9 +238,9 @@ We'll leave you with what these creators dearly remember.
 
 [![](/wiki/shared/news/2024-03-19-bespoke-music-in-osu/takehirotei.png)](https://osu.ppy.sh/users/11793794)
 
-> \[...] I will be sharing one of the memories that has left a lot of impact in my heart. The first one is during the process of making *Essence* with HowToPlayLN. This is my first time collaborating with someone (as in 2 ppl collab) on making a Grand Finals tiebreaker. At first, we are just trying to put in the tiebreaker copypasta into a tiebreaker song, but as time goes by, our ideas become crazier and crazier. At one point we even decide to make a section where the time signature changes every bar.
+> \[...] I will be sharing one of the memories that has left a lot of impact in my heart. The first one is during the process of making [Essence](https://osu.ppy.sh/beatmapsets/1943786) with HowToPlayLN. This is my first time collaborating with someone (as in 2 ppl collab) on making a Grand Finals tiebreaker. At first, we are just trying to put in the tiebreaker copypasta into a tiebreaker song, but as time goes by, our ideas become crazier and crazier. At one point we even decide to make a section where the time signature changes every bar.
 >
-> After the tiebreaker was made, things got even more crazy as the media team is cooking the lore. At first we only have the tiebreaker, then soon enough, we all decide to make a song for each cutscene that shows before the mappool showcase begins, and also a rearrangement of *Essence* for the credits theme. This is perhaps the most precious memories that I have ever been through at that point as a composer.
+> After the tiebreaker was made, things got even more crazy as the media team is cooking the lore. At first we only have the tiebreaker, then soon enough, we all decide to make a song for each cutscene that shows before the mappool showcase begins, and also a [rearrangement of *Essence* for the credits theme](https://www.youtube.com/watch?v=YcTvEi8ZPyA). This is perhaps the most precious memories that I have ever been through at that point as a composer.
 
 [![](/wiki/shared/news/2024-03-19-bespoke-music-in-osu/HowToPlayLN.png)](https://osu.ppy.sh/users/10879600)
 
@@ -248,7 +248,7 @@ We'll leave you with what these creators dearly remember.
 > 
 > The most significant ones would be *Essence*, which I considered one of the significant moments of my life at that time. It was the biggest and the most emotional project we have ever done. I cannot stop going back and watch the reactions of the viewers at that time to the reveal of the tiebreaker song... It was both insane and emotional, and was the conclusion of the most productive session I've done at that time.
 > 
-> The other one which probably less or more related which is osu!mania LN Tournament 3, I also did more than 10 custom maps for that tournament, including the custom song "LNCryption", which was actually the space for the mappers to write and imagine the "hell" they faced somewhere else. It probably is worth to give them a read.
+> The other one which probably less or more related which is [osu!mania LN Tournament 3](https://www.youtube.com/watch?v=YcTvEi8ZPyA), I also did more than 10 custom maps for that tournament, including the custom song "[LNCryption](https://osu.ppy.sh/beatmapsets/1893946)", which was actually the space for the mappers to write and imagine the "hell" they faced somewhere else. It probably is worth to give them a read.
 > 
 > I would also give an honorable mention to [rememberance; image of him before departure](https://osu.ppy.sh/beatmapsets/2028818) from Vietnamese National osu!mania Cup, which I composed in one day, during one of my depressive episodes. It was meant to be something that is lighthearted and healing me up. Quick compositions like this can also help me coping through hard times as well.
 
