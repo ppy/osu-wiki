@@ -46,7 +46,7 @@ tags:
 | 主办方 | ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [\[GB\]GanyuAngel](https://osu.ppy.sh/users/27233308) |
 | 图池管理 | ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [ieFaH](https://osu.ppy.sh/users/24243177), ::{ flag=CN }:: [yks1](https://osu.ppy.sh/users/26030234) |
 | 图池助手 | ::{ flag=CN }:: [\[Crz\]Leaves\_](https://osu.ppy.sh/users/9644708), ::{ flag=CN }:: [\[GB\]GanyuAngel](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [\[GB\]nyasun](https://osu.ppy.sh/users/16277321), ::{ flag=CN }:: [\[GB\]sherweifa](https://osu.ppy.sh/users/17457562), ::{ flag=CN }:: [\[GB\]Tyris](https://osu.ppy.sh/users/10497659), ::{ flag=CN }:: [\[GB\]V1do](https://osu.ppy.sh/users/17527968), ::{ flag=CN }:: [\[Paw\]doudou0310](https://osu.ppy.sh/users/13478805), ::{ flag=CN }:: [\[Paw\]Komane\_63](https://osu.ppy.sh/users/7143444), ::{ flag=CN }:: [CaptainLan](https://osu.ppy.sh/users/18483399), ::{ flag=CN }:: [CH3OHM](https://osu.ppy.sh/users/14066511), ::{ flag=CN }:: [crazyrenard](https://osu.ppy.sh/users/30325323), ::{ flag=CN }:: [Dreamemory](https://osu.ppy.sh/users/35406589), ::{ flag=CN }:: [Glorionoly](https://osu.ppy.sh/users/8957029), ::{ flag=CN }:: [Idkwto](https://osu.ppy.sh/users/32379983), ::{ flag=CN }:: [Suirent](https://osu.ppy.sh/users/10687430), ::{ flag=CN }:: [To2](https://osu.ppy.sh/users/26683857), ::{ flag=CN }:: [Ycloki](https://osu.ppy.sh/users/10861624), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [yzmengx](https://osu.ppy.sh/users/17721427) |
-| 裁判 | ::{ flag=CN }:: [\[GB\]ChickenGold](https://osu.ppy.sh/users/16586663), ::{ flag=CN }:: [\[GB\]GanyuAngel](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [\[GB\]R\-Trigger](https://osu.ppy.sh/users/25308131), ::{ flag=CN }:: [\[GB\]Rush_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [\[GB\]sherweifa](https://osu.ppy.sh/users/17457562), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [cdwcgt](https://osu.ppy.sh/users/14721101), ::{ flag=PE }:: [ERA Xuste](https://osu.ppy.sh/users/17989444), ::{ flag=CN }:: [TianRS](https://osu.ppy.sh/users/23929228), ::{ flag=CN }:: [yks1](https://osu.ppy.sh/users/26030234), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619) |
+| 裁判 | ::{ flag=CN }:: [\[GB\]ChickenGold](https://osu.ppy.sh/users/16586663), ::{ flag=CN }:: [\[GB\]GanyuAngel](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [\[GB\]R\-Trigger](https://osu.ppy.sh/users/25308131), ::{ flag=CN }:: [\[GB\]Rush\_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [\[GB\]sherweifa](https://osu.ppy.sh/users/17457562), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=CN }:: [Blue\_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [cdwcgt](https://osu.ppy.sh/users/14721101), ::{ flag=PE }:: [ERA Xuste](https://osu.ppy.sh/users/17989444), ::{ flag=CN }:: [TianRS](https://osu.ppy.sh/users/23929228), ::{ flag=CN }:: [yks1](https://osu.ppy.sh/users/26030234), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619) |
 | 解说 | ::{ flag=CN }:: [\[Crz\]Leaves\_](https://osu.ppy.sh/users/9644708), ::{ flag=CN }:: [\[GB\]ChickenGold](https://osu.ppy.sh/users/16586663), ::{ flag=CN }:: [\[GB\]Rush_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [\[GB\]Tyris](https://osu.ppy.sh/users/10497659), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [cdwcgt](https://osu.ppy.sh/users/14721101), ::{ flag=CN }:: [MGU1](https://osu.ppy.sh/users/27192847), ::{ flag=CN }:: [Ycloki](https://osu.ppy.sh/users/10861624) |
 | 转播 | ::{ flag=CN }:: [\[GB\]ChickenGold](https://osu.ppy.sh/users/16586663), ::{ flag=CN }:: [\[GB\]Rush_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [\[GB\]Tyris](https://osu.ppy.sh/users/10497659), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [cdwcgt](https://osu.ppy.sh/users/14721101), ::{ flag=CA }:: [walmart5193](https://osu.ppy.sh/users/16468962) |
 | 数据统计 & wiki 编写 | ::{ flag=CN }:: [\[GB\]GanyuAngel](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [\[GB\]Rush_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [cdwcgt](https://osu.ppy.sh/users/14721101), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619) |
@@ -71,7 +71,7 @@ tags:
   2. [FFFanwen - East Shenzhen (ieFaH) \[\[4K\] Busy City 0.95x\]](https://osu.ppy.sh/beatmapsets/2080087#mania/4510738)
 - Dense Chordjack
   1. [Yooh vs. siromaru - Antagonism (Jhown) \[\[4K\] Obliterate\]](https://osu.ppy.sh/beatmapsets/1722943#mania/3521326)
-  2. [Block B - HER (Ena) \[\[4K\] x_x\]](https://osu.ppy.sh/beatmapsets/1851582#mania/3804409)
+  2. [Block B - HER (Ena) \[\[4K\] x\_x\]](https://osu.ppy.sh/beatmapsets/1851582#mania/3804409)
 - Middle Chordjack
   1. [ZUN arr. Komso - Eternal Spring Dream (Hylotl) \[\[4K\] 123123123 \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1996575#mania/4149521)
   2. [Dragonforce - Symphony of the Night (Cut Ver.) (LiMerenDx) \[\[4K\] DragonJack\]](https://osu.ppy.sh/beatmapsets/2143608#mania/4512869)
@@ -79,7 +79,7 @@ tags:
   1. [Itaojirou - Tze-Chiang (\[GB\]nyasun) \[\[4K\] \[\#22J\]14\]](https://osu.ppy.sh/beatmapsets/2106870#mania/4421123)
   2. [ayaponzu\* - Super Nuko Ni Naritai (YuEast 2018) \[\[4K\] Super Jeck Ni Naritai\]](https://osu.ppy.sh/beatmapsets/1774715#mania/3634309)
 - Anchor Jack
-  1. [PINOCCHIOP feat. Kagamine Rin & Hatsune Miku - Nee Nee Nee. (LaoXiao-) \[\[4K\] Hey Hey Hey @Jack x1.15\]](https://osu.ppy.sh/beatmapsets/1552231#mania/3171777)
+  1. [PINOCCHIOP feat. Kagamine Rin \& Hatsune Miku - Nee Nee Nee. (LaoXiao-) \[\[4K\] Hey Hey Hey @Jack x1.15\]](https://osu.ppy.sh/beatmapsets/1552231#mania/3171777)
   2. [Ganeme - See you again... (To2) \[\[4K\] Retrospect x1.05\_P\]](https://osu.ppy.sh/beatmapsets/1884119#mania/3879256)
 - Difficult Jack
   1. [Camellia - Looking for Edge of Ground (ieFaH) \[\[4K\] Exploring in the Infinite World\]](https://osu.ppy.sh/beatmapsets/2143204#mania/4511881)
@@ -98,7 +98,7 @@ tags:
 
 - Full Jack
   1. [Yooh - Maou (Yooh Remix) \[\[4K\] Doomsday x1.05\_P\]](https://osu.ppy.sh/beatmapsets/2141619#mania/4507644)
-  2. [Kyarypamyupamyu - Candy Candy (\[Szy\]MongolCJ) \[\[4K\] ^^ 1.15x\]](https://osu.ppy.sh/beatmapsets/1765697#mania/3614272)
+  2. [Kyarypamyupamyu - Candy Candy (\[Szy\]MongolCJ) \[\[4K\] \^\^ 1.15x\]](https://osu.ppy.sh/beatmapsets/1765697#mania/3614272)
 - Dense Chordjack
   1. [uma feat. Mashiro - take me to the moon (Hylotl) \[\[4K\] Lv.32 \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/2141825#mania/4508096)
   2. [Housei Satoh - Ultraviolet (yks1) \[\[4K\] MURASAKI (158bpm)\]](https://osu.ppy.sh/beatmapsets/2141316#mania/4507001)
@@ -126,7 +126,7 @@ tags:
 
 - Full Jack
   1. [Coakira - KAMISORI (Hoshimiya\_) \[\[4K\] Jack\]](https://osu.ppy.sh/beatmapsets/2137662#mania/4498741)
-  2. [KORDHELL - Murder In My Mind (\[Szy\]MongolCJ) \[\[4K\] ^^ 1.15x\]](https://osu.ppy.sh/beatmapsets/1812178#mania/3717286)
+  2. [KORDHELL - Murder In My Mind (\[Szy\]MongolCJ) \[\[4K\] \^\^ 1.15x\]](https://osu.ppy.sh/beatmapsets/1812178#mania/3717286)
 - Dense Chordjack
   1. [Cascada - Bad Boy (Ycloki) \[\[4K\] Rude Chordjack \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/2138111#mania/4499747)
   2. [sukuramu42 - Final examination (Suirent) \[\[4K\] Chordjack\]](https://osu.ppy.sh/beatmapsets/2102772#mania/4411830)
@@ -186,7 +186,7 @@ tags:
   2. [siinamota - Shoujo A (\[GB\]nyasun) \[\[4K\] xwx\]](https://osu.ppy.sh/beatmapsets/2100381#mania/4406160)
 - Middle Chordjack
   1. [Tommee Profitt/Jung Youth - Only one king (\[GB\]Tyris) \[\[4K\] JACK\]](https://osu.ppy.sh/beatmapsets/1888563#mania/3889451)
-  2. [SOUND HOLIC - chinmoku ~serukuiyuno shoujo~ (yks1) \[\[4K\] ZUN (Less LN)\]](https://osu.ppy.sh/beatmapsets/2128748#mania/4475821)
+  2. [SOUND HOLIC - chinmoku \~serukuiyuno shoujo\~ (yks1) \[\[4K\] ZUN (Less LN)\]](https://osu.ppy.sh/beatmapsets/2128748#mania/4475821)
 - Light Chordjack
   1. [Umeboshi Chazuke - Hoshi no Oujisama (Hoshimiya\_) \[\[4K\] 1.05x\]](https://osu.ppy.sh/beatmapsets/2129760#mania/4478480)
   2. [Utsu-P - Poster Girl's Prank (YuEast 2018) \[\[4K\] x1.00\]](https://osu.ppy.sh/beatmapsets/2130581#mania/4480823)
@@ -354,7 +354,7 @@ tags:
    - 总决赛：15 张
 4. 除资格赛图池之外，每个图池包含一张 TB 决胜局谱面，也将在 FreeMod 条件下游玩。
 5. Free Mod 所允许的模组包括 `No Fail`, `Hidden`, `FadeIn`, `Flashlight` 和 `Mirror`。
-6. 决胜图将会在 Free Ｍod 条件下进行。
+6. 决胜图将会在 Free Mod 条件下进行。
 
 ### 日程信息
 
