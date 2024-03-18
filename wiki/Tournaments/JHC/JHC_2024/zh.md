@@ -68,14 +68,14 @@ tags:
 | ovo | [Amisher](https://osu.ppy.sh/users/21400407), [ovo\_seshirira](https://osu.ppy.sh/users/32825526) |
 | 我先睡了队 | [WELUVMYUKA](https://osu.ppy.sh/users/29949157), [chana](https://osu.ppy.sh/users/18375016) |
 | AdrianLazer | [AdrianLazer](https://osu.ppy.sh/users/10292643) |
-| OBLIKULIVO | [MiniEgg\_23](https://osu.ppy.sh/users/25914360), [Abyss\ 0](https://osu.ppy.sh/users/24780565) |
+| OBLIKULIVO | [MiniEgg\_23](https://osu.ppy.sh/users/25914360), [Abyss 0](https://osu.ppy.sh/users/24780565) |
 | Jack hater unite | [Datnonameboi](https://osu.ppy.sh/users/14217761) |
 | break is 143bpm | [astal\_](https://osu.ppy.sh/users/32151196), [YoungBurger16](https://osu.ppy.sh/users/33833222) |
 | garfield exterminators if fortnite | [Znow](https://osu.ppy.sh/users/15513303), [\[LS\]Mari](https://osu.ppy.sh/users/15270411) |
 | I don't have teammate \:sob\: | [EliasGoku\_zk](https://osu.ppy.sh/users/24907290) |
 | Techno Music | [neeko the rock](https://osu.ppy.sh/users/13471840) |
 | THE TRUTH OF NOCENT | [ERA Veryi](https://osu.ppy.sh/users/13878539), [\[Crz\]Nickname](https://osu.ppy.sh/users/10817494) |
-| Bert | [Iobyagmi\ ](https://osu.ppy.sh/users/17905269) |
+| Bert | [Iobyagmi](https://osu.ppy.sh/users/17905269) |
 | Buckbuck Monke | [Halkas](https://osu.ppy.sh/users/29373725) |
 | GangWonDuo | [Selitation](https://osu.ppy.sh/users/25311011), [ggeexx1](https://osu.ppy.sh/users/17494164) |
 | Jack Hunter | [Raon2007](https://osu.ppy.sh/users/25850141), [Reflec](https://osu.ppy.sh/users/19255377) |
@@ -127,7 +127,7 @@ tags:
 | We can't late game | [SHOKO \-](https://osu.ppy.sh/users/10279743), [MatchaLatte\-](https://osu.ppy.sh/users/15944956) |
 | fastest crashers | [Rand0mwastaken](https://osu.ppy.sh/users/24449678), [RyanWong1216](https://osu.ppy.sh/users/19030562) |
 | M | [minhhuyosuer](https://osu.ppy.sh/users/19626270) |
-| I\_Cant\_Jack\_150 | [\ LVkinght](https://osu.ppy.sh/users/25654619) |
+| I\_Cant\_Jack\_150 | [LVkinght](https://osu.ppy.sh/users/25654619) |
 | Idk help i suck | [Gametytnt](https://osu.ppy.sh/users/26646928) |
 | 痛恨叠键 | [sarc6o9](https://osu.ppy.sh/users/23135250) |
 | まひろ隊 | [tianzitanhua](https://osu.ppy.sh/users/32196635) |
