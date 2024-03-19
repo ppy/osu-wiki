@@ -6,7 +6,7 @@
 
 ## 联系方式
 
-**只能**通过给[accounts@ppy.sh](mailto:accounts@ppy.sh)，[support@ppy.sh](mailto:support@ppy.sh)，[privacy@ppy.sh](mailto:privacy@ppy.sh)或[tournaments@ppy.sh](mailto:tournaments@ppy.sh)发送邮件来联系账号支持团队。为了保护他们不受到太多不需要的关注，团队成员的身份是保密的。
+**只能** 通过给[accounts@ppy.sh](mailto:accounts@ppy.sh)，[support@ppy.sh](mailto:support@ppy.sh)，[privacy@ppy.sh](mailto:privacy@ppy.sh)或[tournaments@ppy.sh](mailto:tournaments@ppy.sh)发送邮件来联系账号支持团队。为了保护他们不受到太多不需要的关注，团队成员的身份是保密的。
 
 支持团队通常需要几天才能对邮件作出答复。如果过了一周你都没有收到回复，那么最好再发一封邮件询问事件的最新进展。
 
@@ -42,7 +42,7 @@
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
 - [数据法定权利的行使](/wiki/Legal/Privacy#数据控制员)和隐私疑虑。
-- **永久性的**[账号删除请求](/wiki/Legal/Privacy#您的权利和控制)。
+- **永久性的** [账号删除请求](/wiki/Legal/Privacy#您的权利和控制)。
 
 ### [tournaments@ppy.sh](mailto:tournaments@ppy.sh)
 
