@@ -21,5 +21,3 @@ In [osu!](/wiki/Game_mode/osu!) hebben alle [combosets](/wiki/Beatmapping/Combo)
 ## osu!catch
 
 In [osu!catch](/wiki/Game_mode/osu!catch), krijgt elk fruit een kleur in de gegeven volgorde. Druppels en fruit aan het einde van sliders zullen altijd dezelfde kleur hebben als het start-fruit. Bananen zullen echter altijd een gele tint hebben.
-
-<!--TODO: Add images and links-->
