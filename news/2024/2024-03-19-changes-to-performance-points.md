@@ -28,6 +28,6 @@ Your rank graph will also no longer flip-flop when you switch between clients. T
 
 ---
 
-Those were the details, but for the brass tax: **most people won't see any rank change, even though you may gain pp.**
+Those were the details, but for the brass tacks: **most people won't see any rank change, even though you may gain pp.**
 
 —Walavouchey
