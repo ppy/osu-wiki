@@ -31,6 +31,7 @@ tags:
 | :-- | :-- | :-- |
 | ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) | 2019-11-03 | 8,841 |
 | ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966) | 2023-08-14 | 22,170 |
+| ::{ flag=US }:: [vrnl](https://osu.ppy.sh/users/4799788) | 2024-03-17 | 24,330 |
 
 ## 冷知识
 
