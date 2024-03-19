@@ -35,6 +35,7 @@ Estas personas han sido verificadas por el osu! team como completacionistas:
 | :-- | :-- | :-- |
 | ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) | 3/11/2019 | 8841 |
 | ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966) | 14/8/2023 | 22 170 |
+| ::{ flag=US }:: [vrnl](https://osu.ppy.sh/users/4799788) | 2024-03-17 | 24 330 |
 
 ## Curiosidades
 
