@@ -16,7 +16,7 @@ Here's a graph if you're a visual person (and here's the [interactive variant](h
 
 ![](/wiki/shared/news/2024-03-19-changes-to-performance-points/performance-bonus-change.png)
 
-In short, you will find yourself having more bonus pp even unless you're one of the select few that have played 10,000+ beatmaps.
+In short, you will find yourself having more bonus pp unless you're one of the select few that have played 10,000+ beatmaps.
 
 Also, since both osu!(lazer) and osu!(stable) are now using the same performance point processor, scores set on osu!(lazer) will always be included in your pp value — even when playing on osu!(stable).
 
