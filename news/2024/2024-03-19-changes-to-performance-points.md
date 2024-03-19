@@ -18,7 +18,7 @@ Here's a graph if you're a visual person (and here's the [interactive variant](h
 
 In short, you will find yourself having more bonus pp even unless you're one of the select few that have played 10,000+ beatmaps.
 
-Also, since both osu!(lazer) and osu!(stable) are now using the same performance point processor, scores set on osu!(lazer) will always be included in your PP value – even when playing on osu!(stable).
+Also, since both osu!(lazer) and osu!(stable) are now using the same performance point processor, scores set on osu!(lazer) will always be included in your pp value — even when playing on osu!(stable).
 
 Your rank graph will also no longer flip-flop when you switch between clients. This means if your graph [looked](https://osu.ppy.sh/users/30070868) [something](https://osu.ppy.sh/users/5773079) [like](https://twitter.com/stompymymood/status/1769833222450405756) [this](https://twitter.com/Vid_osu/status/1770132123141251427)...
 
