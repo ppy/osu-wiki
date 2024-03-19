@@ -19,6 +19,7 @@ We are bringing in a number of small changes and improvements for this year to f
 - **The qualifier stage will be featuring a larger (and slightly harder) mappool format**: it will now consist of 5 No Mod, 2 Hidden, 2 Hard Rock and 3 Double Time maps, reaching up to 7.1 stars of difficulty.
   - This change should help seed the teams, especially towards the top end, more accurately.
 - **Teams will be provided a pre-made mappool for tryouts that they may choose to use**, intended to aid smaller teams in organising their tryouts.
+- **Free Mod rules have been adjusted**, requiring 3 players on a team to enable a mod
 - **There will be no more exceptions regarding the country players are playing for.**
   - In the past, flag changes had not been possible for a long time leading to exceptions for certain players and regions. However, as of [July 28th, 2023](https://osu.ppy.sh/home/news/2023-07-28-enabling-country-flag-changes), flag changes have been reinstated in an accessible way. Due to this change, you will now be able to play *only* for the country represented by your osu! profile.
 - **Teams will now have one 2-minute timeout available per match** to use at their discretion. This timeout will be automatically applied by the referee would a team fail to pick, ban, or ready up in time.
