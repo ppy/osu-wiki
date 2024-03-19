@@ -1,11 +1,8 @@
 ---
-outdated_translation: true
-outdated_since: 4390338dba70d8ad149f01408d623120cdc6aa96
+no_native_review: true
 ---
 
 # Nâng cấp lên lazer
-
-*Lưu ý: Chúng tôi vẫn đang tìm cách giải quyết vấn đề cân bằng các yếu tố và các cơ chế trong trò chơi. Còn bây giờ, **những điểm số được ghi trên lazer sẽ chỉ tồn tại tạm thời**.*
 
 osu!(lazer) là bản cập nhật quan trọng tiếp theo của trò chơi. Đây là kết quả của nhiều năm làm việc bí mật để làm lại trò chơi một cách tỉ mỉ.
 
@@ -158,17 +155,17 @@ Tuy nhiên, bạn có thể xuất điểm số và beatmap riêng lẻ từ laz
 
 #### Nếu tôi ghi điểm trên lazer, nó có hiển thị trên trang cá nhân của tôi không?
 
-Điểm số sẽ hiển thị trong phần "đã chơi gần đây" nhưng chưa hiển thị trong phần "hiệu suất tốt nhất".
+Có, nhưng điểm số sẽ không hiển thị trong phần "hiệu suất tốt nhất" nếu "lazer mode" trên trang web bị tắt.
+
+Hiện tại, những điểm số ấy cũng sẽ không xuất hiện trong mục "đứng hạng nhất" bất kể có "lazer mode" hay không.
 
 #### Nếu tôi ghi điểm trên lazer, nó có cho điểm hiệu suất không?
 
-Phần "đã chơi gần đây" của trang hồ sơ hiển thị điểm số được chơi trên lazer với điểm hiệu suất được tính, và tổng số có thể được nhìn thấy khi di chuột qua tổng điểm hiệu suất thông thường.
-
-Ngoài ra, [lazer.ppy.sh](https://lazer.ppy.sh/home), một phiên bản thử nghiệm của trang web osu!, hiển thị tất cả các tổng số và thứ hạng với điểm được tính từ bản lazer.
+Có.
 
 #### Lazer có sử dụng ScoreV2 không?
 
-Có, nó sử dụng hệ thống tính điểm dựa trên ScoreV2 với một số điều chỉnh. Điểm ScoreV1 sẽ được quy đổi trong thời gian tới.
+Có, nó sử dụng hệ thống tính điểm dựa trên ScoreV2 với một số điều chỉnh nhất định.
 
 <!-- lint ignore no-heading-punctuation -->
 
@@ -176,17 +173,58 @@ Có, nó sử dụng hệ thống tính điểm dựa trên ScoreV2 với một 
 
 Bạn có thể thay đổi cài đặt `Chế độ hiển thị điểm` thành `Cổ điển` để thay đổi cơ chế ghi điểm trong trò chơi! Nó không hoàn hảo, nhưng sẽ mang lại cho bạn cảm giác giống như trước và được áp dụng ở mọi nơi mà bạn muốn.
 
+Bảng xếp hạng điểm toàn cầu cũng sẽ sử dụng chế độ điểm cổ điển.
+
 #### Điểm số trên lazer liệu có tồn tại vĩnh viễn không?
 
-Mặc dù chúng tôi sẽ cố gắng giữ lại càng nhiều điểm số đã được ghi càng tốt, nhưng chúng tôi **không đảm bảo được rằng điểm số sẽ được duy trì vĩnh viễn**. Chúng tôi có thể xoá một tập hợp con hoặc tất cả các điểm số tại một thời điểm bất kì để duy trì sự cân bằng của trò chơi.
+Mặc dù chúng tôi sẽ cố gắng giữ lại càng nhiều điểm số đã được ghi càng tốt, nhưng chúng tôi **không đảm bảo được rằng điểm số sẽ được duy trì vĩnh viễn**. Chúng tôi có thể xoá một tập hợp các điểm số tại một thời điểm bất kì để duy trì sự cân bằng của trò chơi.
 
 #### Điểm số được ghi ở bản stable có hiển thị ở bản lazer không?
 
-Có. Sau khi chúng tôi hoàn tất việc cân bằng sự kết hợp giữa điểm số của lazer và stable, cả hai sẽ được hiển thị.
+Có.
+
+#### Điểm số được ghi ở bản lazer có hiển thị ở bản stable không?
+
+Chưa phải lúc này.
 
 #### Tất cả các mod có được vào bảng xếp hạng vào thời gian tới không?
 
-Hiện tại, điểm số của tất cả các mods đều xuất hiện trên bảng xếp hạng. Việc điểm số có cho điểm hiệu suất với tất cả các mod hay không (và nếu có, liệu sẽ có cơ chế thưởng phạt nào được áp dụng hay không) vẫn còn đang được thảo luận.
+Điểm số của tất cả các mod đều xuất hiện trên bảng xếp hạng. 
+
+Tuy nhiên, hiện tại chỉ những mod sau đây mới cho điểm hiệu suất:
+
+- Các mod giảm độ khó
+  - Easy
+  - No Fail
+  - Half Time (chỉ áp dụng cho tốc độ 0.75x, chế độ `Adjust pitch` không gây ảnh hưởng)
+  - Daycore (chỉ áp dụng cho 0.75x)
+- Các mod tăng độ khó
+  - Hard Rock (trừ osu!mania)
+  - Sudden Death (Chế độ `Restart on fail` không gây ảnh hưởng)
+  - Perfect (Chế độ `Restart on fail` không gây ảnh hưởng)
+  - Hidden
+  - Nightcore (chỉ áp dụng cho 1.5x)
+  - Double Time (chỉ áp dụng cho 1.5x, chế độ `Adjust pitch` không gây ảnh hưởng)
+  - Flashlight
+  - Blinds
+  - Accuracy Challenge
+- Các mod chuyển đổi (dành riêng cho osu!mania)
+  - Mirror
+  - Four Keys
+  - Five Keys
+  - Six Keys
+  - Seven Keys
+  - Eight Keys
+  - Nine Keys
+- Các mod "vui"
+  - Muted
+  - No Scope
+- Các mod tự động (dành riêng cho osu!)
+  - Spun out
+- Mod liên quan đến hệ thống
+  - Touch Device
+
+Trừ những trường hợp đã lưu ý ở trên, chỉ những cài đặt mặc định của những mod trên mới có thể cho điểm hiệu suất.
 
 #### Tôi không thích cơ chế gameplay mới. Tôi có thể khôi phục cơ chế gameplay cũ như ở phiên bản ổn định không?
 

@@ -9,6 +9,8 @@ tags:
   - 模组
   - 游戏模组
   - 测试版
+outdated_translation: true
+outdated_since: f765631cd44ae8e9acea47ce6c88b9ec510998b3
 ---
 
 # Target Practice（模组）

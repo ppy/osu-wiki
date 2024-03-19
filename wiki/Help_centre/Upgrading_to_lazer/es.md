@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 2b3e721dd5f2e2bda0bc389129010d07a929e176
----
-
 # Actualizar a lazer
 
 osu!(lazer) es la próxima gran actualización del juego. Es la culminación de varios años de trabajo detrás de escena para relanzar laboriosamente el juego.
@@ -176,7 +171,7 @@ Las tablas de clasificación globales también usarán la puntuación clásica.
 
 #### Si establezco una puntuación en lazer, ¿permanecerá por siempre?
 
-Mientras que intentamos preservar la mayor cantidad de puntuaciones posibles, **no ofrecemos garantía de que las puntuaciones permanecerán indefinidamente**. En cualquier momento podemos optar por borrar un subconjunto o todas las puntuaciones para preservar el balance del juego.
+Mientras que intentamos preservar la mayor cantidad de puntuaciones posibles, **no ofrecemos garantía de que las puntuaciones permanecerán indefinidamente**. En cualquier momento podemos optar por borrar un subconjunto de puntuaciones para preservar el equilibrio del juego, como cuando se descubren fallos o juego sucio.
 
 #### ¿Las puntuaciones establecidas en stable se mostrarán en lazer?
 
@@ -195,15 +190,15 @@ Sin embargo, por ahora solo los siguientes mods concederán puntos de rendimient
 - Reducción de la dificultad
   - Easy
   - No Fail
-  - Half Time (solo 0,75x)
+  - Half Time (solo 0,75x, se puede usar `Adjust pitch`)
   - Daycore (solo 0,75x)
 - Aumento de la dificultad
   - Hard Rock (no para osu!mania)
-  - Sudden Death
-  - Perfect
+  - Sudden Death (Se puede usar `Restart on fail`)
+  - Perfect (Se puede usar `Restart on fail`)
   - Hidden
   - Nightcore (solo 1,5x)
-  - Double Time (solo 1,5x)
+  - Double Time (solo 1,5x, se puede usar `Adjust pitch`)
   - Flashlight
   - Blinds
   - Accuracy Challenge
@@ -222,6 +217,8 @@ Sin embargo, por ahora solo los siguientes mods concederán puntos de rendimient
   - Spun out
 - Sistema
   - Touch Device
+
+Solo la configuración predeterminada de las opciones de personalización es elegible para obtener puntos de rendimiento, a menos que se indique lo contrario anteriormente.
 
 #### No me gustan las nuevas mecánicas de juego. ¿Puedo restaurar las antiguas mecánicas como eran en stable?
 

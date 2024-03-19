@@ -1,35 +1,65 @@
 ---
+no_native_review: true
 tags:
   - development
-outdated_translation: true
-outdated_since: ab2ef808dac39e172a7f370857bf9a3d8084be44
+  - pengembangan
 ---
 
-# Server Discord osu!dev
+# Server Discord osu!
 
-**osu!dev** merupakan server [Discord](https://discordapp.com) resmi yang digunakan untuk proyek *open source* osu! dan proyek yang dijalankan komunitas osu!. Di sinilah tempat utama yang bisa kamu kunjungi untuk berkontribusi pada pengembangan osu! dan berhubungan langsung dengan [tim inti osu!](/wiki/People/osu!_team).
+Server Discord **osu!**, atau yang sebelumnya dikenal dengan nama **osu!dev**, merupakan server [Discord](https://discord.com/) resmi osu! yang ditujukan untuk berbagai keperluan terkait pengembangan. Server ini berfungsi sebagai sarana bagi orang-orang untuk saling berdiskusi dan berkontribusi terhadap berbagai proyek *open-source* dan komunitas yang osu! miliki. Oleh karenanya, server ini merupakan tempat utama bagi mereka yang ingin turut andil dalam pengembangan osu! serta berkomunikasi dengan [tim osu!](/wiki/People/osu!_team).
 
-Tautan undangan permanen untuk masuk ke dalam server bisa diakses dengan <https://discord.gg/ppy>.
+Tautan undangan permanen untuk server ini adalah <https://discord.gg/ppy>.
 
-Walaupun tidak diwajibkan, para anggota yang baru masuk dapat memperkenalkan dirinya masing-masing pada saluran `#introductions` yang tersedia.
+Walaupun tidak diwajibkan, para anggota yang baru bergabung disarankan untuk memperkenalkan diri mereka masing-masing pada kanal `#introductions`.
 
-## Proyek
+## Daftar kanal
 
-Setiap topik pengembangan yang dibahas telah memiliki *channel* masing - masing:
+Server Discord osu! memiliki sejumlah kanal yang masing-masingnya dikhususkan bagi pengembangan proyek tertentu.
 
-| Proyek | Channel |
+### Umum
+
+| Kanal | Deskripsi |
 | :-- | :-- |
-| [osu!(lazer)](/wiki/Client/Release_stream/Lazer) | `#osu-lazer` |
-| [osu!framework](https://github.com/ppy/osu-framework) | `#osu-framework` |
-| [osu!web](https://github.com/ppy/osu-web) | `#osu-web` |
-| [osu!](/wiki/Game_mode/osu!) [star rating](/wiki/Beatmap/Star_rating) dan [performance points](/wiki/Performance_points) | `#difficulty-osu` |
-| [osu!taiko](/wiki/Game_mode/osu!taiko) star rating dan performance points | `#difficulty-taiko` |
-| [osu!catch](/wiki/Game_mode/osu!catch) star rating dan performance points | `#difficulty-catch` |
-| [osu!mania](/wiki/Game_mode/osu!mania) star rating dan performance points | `#difficulty-mania` |
-| [Beatmap Spotlights](/wiki/Beatmap_Spotlights) | `#osu-spotlights` |
-| [osu! wiki](https://github.com/ppy/osu-wiki) | `#osu-wiki` |
-| [Project Loved](/wiki/Community/Project_Loved) | `#osu-loved` |
-| [Dukungan resmi turnamen](/wiki/Tournaments/Official_support) | `#tournaments` |
-| [Pertemuan komunitas osu!](/wiki/Community/osu!_community_meetings) | `#community-meetings` |
-| Diskusi [Modding](/wiki/Modding) dan [Pertemuan anggota NAT](/wiki/People/Nomination_Assessment_Team/NAT_meetings) | `#modding` |
-| [Mappers' Guild](/wiki/Community/Mappers_Guild) | `#mappers-guild` |
+| `#welcome` | Informasi server |
+| `#announcements` | Pengumuman server |
+| `#introductions` | Pengenalan diri |
+| `#general` | Diskusi umum dan penyelesaian masalah terkait osu! |
+
+### Klien / Web
+
+| Kanal | Deskripsi |
+| :-- | :-- |
+| `#osu` | [osu!(lazer)](/wiki/Client/Release_stream/Lazer) |
+| `#osu-framework` | [osu!framework](https://github.com/ppy/osu-framework) |
+| `#osu-web` | [osu!web](https://github.com/ppy/osu-web) |
+| `#github-feed` | Uraian aktivitas (*event feed*) untuk berbagai [repositori GitHub ppy](https://github.com/ppy) |
+| `Meetings` (Kanal Stage) | [Pertemuan komunitas osu!](/wiki/Community/osu!_community_meetings) dan pertemuan laporan kemajuan pengembang |
+
+### Diffcalc
+
+| Kanal | Deskripsi |
+| :-- | :-- |
+| `#difficulty-osu` | Perhitungan [*star rating*](/wiki/Beatmap/Star_rating) dan [*performance point*](/wiki/Performance_points) [osu!](/wiki/Game_mode/osu!) |
+| `#difficulty-taiko` | Perhitungan *star rating* dan *performance point* [osu!taiko](/wiki/Game_mode/osu!taiko) |
+| `#difficulty-catch` | Perhitungan *star rating* dan *performance point* [osu!catch](/wiki/Game_mode/osu!catch) |
+| `#difficulty-mania` | Perhitungan *star rating* dan *performance point* [osu!mania](/wiki/Game_mode/osu!mania) |
+
+### Komunitas
+
+| Kanal | Deskripsi |
+| :-- | :-- |
+| `#featured-artists` | Pembuatan beatmap, proyek, dan playlist [Featured Artist](/wiki/People/Featured_Artists) |
+| `#mappers-guild` | [Mappers' Guild](/wiki/Community/Mappers_Guild) |
+| `#osu-spotlights` | [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
+| `#osu-wiki` | [osu! wiki](/wiki/osu!_wiki) |
+| `#osu-news` | [osu!monthly](/wiki/Community/osu!monthly) dan liputan berita umum |
+| `#osu-loved` | [Project Loved](/wiki/Community/Project_Loved) |
+| `#tournaments` | [Turnamen](/wiki/Tournaments) dan [dukungan turnamen resmi](/wiki/Tournaments/Official_support) |
+| `#community-meetings` | [Pertemuan komunitas osu!](/wiki/Community/osu!_community_meetings) |
+
+### Arsip
+
+| Kanal | Deskripsi |
+| :-- | :-- |
+| `#modding` | [Modding v2](/wiki/Beatmap_discussion) dan [prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure) |
