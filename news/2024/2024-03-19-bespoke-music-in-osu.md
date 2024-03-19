@@ -84,7 +84,7 @@ How did their story start? They were asked similar questions as Kasumi, so let's
 > 
 > What was challenging in particular, and definitely in 2023, was that the majority of us volunteering in local tourneys in Malaysia are uni students, so when physical classes restarted, the time and availability that felt like an abundance during the pandemic era is suddenly gone. To be able to plan and run the tourney with the limited time that we had, felt like quite the achievement, as it was exhausting and scary at times, wondering if we can finish things before the deadline of not.
 > 
-> I feel like the taiko side definitely has larger budgets, and may have more sophisticated processes when it comes to the custom songs planning and producing process, as they had a custom song for every round of the [osu!taiko Malaysian Tournament 2022](/wiki/Tournaments/OTMT/2022), unlike std where we have 1-3 custom songs for the entire tournament
+> I feel like the taiko side definitely has larger budgets, and may have more sophisticated processes when it comes to the custom songs planning and producing process, as they had a custom song for every round of the [osu!taiko Malaysian Tournament 2022](/wiki/Tournaments/OTMT/2022), unlike std where we have 1-3 custom songs for the entire tournament.
 
 [![](/wiki/shared/news/2024-03-19-bespoke-music-in-osu/Jerry.png)](https://osu.ppy.sh/users/605973)
 
@@ -104,7 +104,7 @@ Visual arts go hand in hand with music commissions and tournament production, wh
 
 ---
 
-The Malaysian tournaments collectively have 19 original tracks in total at the moment, but word is on the street that more is on the way!
+The Malaysian tournaments collectively have 19 original tracks in total at the moment, but the word on the street is that more is on the way!
 
 ## Inside the music pipeline
 
@@ -122,7 +122,7 @@ The other tournament hosts interviewed here said basically the same thing, which
 
 [**takehirotei**](https://osu.ppy.sh/users/11793794) has produced over 20 songs for various community tournaments, 6 of them being for Global Taiko Showdown. Here's their perspective on how it all goes down:
 
-> For the production process, the host will set a deadline on the song, as well as some restrictions on the song (e.g. BPM limit, intensity, genres and more) in order to make sure the song will fit nicely to the planned (or not planned) slots. From time to time, we sometimes also send wips of the current state of the song to make sure that the song is going to the correct direction. This will ensures that we dont have to do unnessary changes later on when the full song is done, which can saves us a lot of time.
+> For the production process, the host will set a deadline on the song, as well as some restrictions on the song (e.g. BPM limit, intensity, genres and more) in order to make sure the song will fit nicely to the planned (or not planned) slots. From time to time, we sometimes also send wips of the current state of the song to make sure that the song is going to the correct direction. This will ensure that we dont have to do unnecessary changes later on when the full song is done, which can saves us a lot of time.
 > 
 > \[...] sometimes when a part in the song needs modifications, the host will give some comments on how to fix the issues on the said part. For example, extending certain instrument length, reducing the volume of certain instruments, reduce the spam kicks and etc.
 
@@ -134,7 +134,7 @@ Having experienced working with around 10 different tournament series, are there
 > 
 > But if I'm lucky, sometimes the host will list down a long list of descriptions on how the song will go (thanks Kasumi), this will really help us composers to work on the correct direction. Another challenge that I'm facing while making songs for tournaments (or rhythm games in general) is that these kinds of songs usually don't have many chill parts, and sometimes it's a little bit challenging to make a song when most of the parts are intense parts.
 
-Regarding organisers giving detailed directions, mangomizer [explained in the video mentioned in the beginning](https://www.youtube.com/watch?v=0B6TyWML0zg&t=906s) that this is something the World Cups did initally, but moved away from due to it resulting in less cohesive songs.
+Regarding organisers giving detailed directions, mangomizer [explained in the video mentioned in the beginning](https://www.youtube.com/watch?v=0B6TyWML0zg&t=906s) that this is something the World Cups did initially, but moved away from due to it resulting in less cohesive songs.
 
 Whether to give more creative freedom to the artist or to prompt them with more detail in order to fit mappooling restrictions is an interesting question. takehirotei expanded on this a bit.
 
@@ -158,7 +158,7 @@ Like takehirotei, [HowToPlayLN](https://osu.ppy.sh/users/10879600) has also comp
 
 Whether by having such a rooted connection between their musical identity and osu! or otherwise, HowToPlayLN does not lack insight into how the osu! tournament music scene clicks. These are their thoughts and advice on what it's like to compose for osu! tournaments:
 
-> For me, it would be between the composer(s) and the mappers to discuss about the base information of how the song should be, like whether snap divisions on this bpm are suitable to map in this difficulty before shaping my own ideas. I would also consider the song name, the background story and sometimes I would actually encourage the mappers to try feedback or mapping the demo to determine whether it is alright for the given difficulty.
+> For me, it would be between the composer(s) and the mappers to discuss about the base information of how the song should be, like whether snap divisions on this bpm are suitable to map in this difficulty before shaping my own ideas. I would also consider the song name, the background story, and sometimes I would actually encourage the mappers to try feedback or mapping the demo to determine whether it is alright for the given difficulty.
 > 
 > The ideas are... randomly come to me. Sometimes it works, sometimes it doesn't, but as long as there's a theme for it everything can continue smoothly. Mostly for the tiebreakers, there are at most 2-4 themes (or what we called "motif") for the song, representing each "mood" or side of the stories, each theme will get developed, and getting each turn to shine in their own part.
 > 
@@ -212,13 +212,13 @@ We'll leave you with what these creators dearly remember.
 > 
 > At that point, we had most songs ready to go, except one was not given by the composer yet, and the tiebreaker had just gotten finalized that very day. 7 out of the 16 songs had an artwork for it made at all, and 2 of them had their video ready. Of course, lore was not even remotely created. As you can see, setting ourselves up for success here.
 > 
-> The design channel then turned into an absolute warzone for the next 21 days, with designers, especially Transendium who has worked on 8 of these songs alone, managing to keep finalizing a few artworks here and there every day, even if some days were empty, due to them also working on other tournaments.
+> The design channel then turned into an absolute war zone for the next 21 days, with designers, especially Transendium who has worked on 8 of these songs alone, managing to keep finalizing a few artworks here and there every day, even if some days were empty, due to them also working on other tournaments.
 > 
 > We had gotten our last song for it to be mapped and make its video finalized on.. July 20th.
 > 
 > Fast forwarding again, we arrive at July 27th, where both of us admins, being myself and [TaikoMom](https://osu.ppy.sh/users/9086438), along with every single designer for GTS, our main voice actress for our female characters being [Ethereal_Winter](https://osu.ppy.sh/users/9780417), and some of our composers who were working on the lore part of things, being [blobdash](https://osu.ppy.sh/users/8337877) (for BGM), and NormalM (as a voice actor), literally stayed in VC for the next 4 days right up to the showcase day, where we kept rotating between everyone passing out at some point, but generally working on finalizing the design and videos for songs, writing the entire lore, recording all voicelines for lore between July 29th to July 30th, where I was forced to stay up until 9am to record voicelines LOL. It was honestly just a very fun experience overall.
 > 
-> Except when we thought we finished the showcase entirely at 4am, when I personally had to go away to take my train for COE too, then we ended up realizing the overall mappool showcase video trolled us, with lore having had to be re-rendered twice, some gameplay being at 30FPS for no understandable reason, and TaikoMom then having to re-render all of that while I was gone, and needing to ensure we would actually have the correct video by uploading it on: MEGA / Google Drive / an USB key / Her Switch's SD card.
+> Except when we thought we finished the showcase entirely at 4am, when I personally had to go away to take my train for COE too, then we ended up realizing the overall mappool showcase video trolled us, with lore having had to be re-rendered twice, some gameplay being at 30FPS for no understandable reason, and TaikoMom then having to re-render all of that while I was gone, and needing to ensure we would actually have the correct video by uploading it on: MEGA / Google Drive / a USB key / Her Switch's SD card.
 > 
 > Absolutely no stress whatsoever in that experience, of course, apparent by the fact that even on the very last Sunday before July 31st, we had no clue if any of this would even be done by the time we had to be at COE, honestly.
 > 
@@ -250,7 +250,7 @@ We'll leave you with what these creators dearly remember.
 > 
 > The other one which probably less or more related which is [osu!mania LN Tournament 3](https://www.youtube.com/watch?v=YcTvEi8ZPyA), I also did more than 10 custom maps for that tournament, including the custom song "[LNCryption](https://osu.ppy.sh/beatmapsets/1893946)", which was actually the space for the mappers to write and imagine the "hell" they faced somewhere else. It probably is worth to give them a read.
 > 
-> I would also give an honorable mention to [rememberance; image of him before departure](https://osu.ppy.sh/beatmapsets/2028818) from Vietnamese National osu!mania Cup, which I composed in one day, during one of my depressive episodes. It was meant to be something that is lighthearted and healing me up. Quick compositions like this can also help me coping through hard times as well.
+> I would also give an honorable mention to [remembrance; image of him before departure](https://osu.ppy.sh/beatmapsets/2028818) from Vietnamese National osu!mania Cup, which I composed in one day, during one of my depressive episodes. It was meant to be something that is lighthearted and healing me up. Quick compositions like this can also help me coping through hard times as well.
 
 ---
 
