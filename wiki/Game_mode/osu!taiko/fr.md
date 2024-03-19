@@ -1,4 +1,5 @@
 ---
+no_native_review: true
 needs_cleanup: true  # https://github.com/ppy/osu-wiki/issues/9918, also, check grammar/style
 ---
 
