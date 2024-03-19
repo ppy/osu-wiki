@@ -24,7 +24,7 @@
   - 个人资料上内容的移除；
   - 谱面的移除；
   - 论坛帖和评论的移除。
-- 你[想要承认](/wiki/Reporting_bad_behaviour/Handling_foul_play#what-can-i-do-if-i've-broken-the-rules?)的不当行为。
+- 你[想要承认](/wiki/Reporting_bad_behaviour/Handling_foul_play#我要是违规了怎么办？)的不当行为。
 - [失去了账号所绑定的邮箱](/wiki/Help_centre/Account#sign-in)，或账号被盗。
 - 用户名[回退和打错字所致的小错误修改](/wiki/Help_centre/Account#name-changes)。
 - [注册机器人 (Bot) 账户](/wiki/Bot_account)。
@@ -41,8 +41,8 @@
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
-- [数据法定权利的行使](/wiki/Legal/Privacy#data-controller)和隐私疑虑。
-- **永久性的**[账号删除请求](/wiki/Legal/Privacy#your-rights-and-control)。
+- [数据法定权利的行使](/wiki/Legal/Privacy#数据控制员)和隐私疑虑。
+- **永久性的**[账号删除请求](/wiki/Legal/Privacy#您的权利和控制)。
 
 ### [tournaments@ppy.sh](mailto:tournaments@ppy.sh)
 
