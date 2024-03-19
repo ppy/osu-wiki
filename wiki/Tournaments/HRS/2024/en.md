@@ -100,23 +100,23 @@ Hard Rock Showdown is run by various community members.
 **[Download the mappack here (121 MB)](https://drive.google.com/file/d/1kwJzQ9g-P6QnRGIpXTmzyJldt91U87wX/view?usp=sharing)**
 
 - Hard Rock
-  1. [Kobaryo - Future Downloader \[Violacea\]](https://osu.ppy.sh/b/3851186)
-  2. [Imperial Circus Dead Decadence - Shinbatsu o Tadori Kyoukotsu ni Itaru \[Extreme\]](https://osu.ppy.sh/b/2039543)
-  3. [Sakin - Denek Hayatim \[bir collab sekiz dokuz.\]](https://osu.ppy.sh/b/4238281)
-  4. [Kuba Oms - My Love (Maemi No Yume's Remix) \[Kalindraz & Sakura Airi Splendid Reality\]](https://osu.ppy.sh/b/2868791)
-  5. [Power Of Nature - Shounen wa Sora o Tadoru \[Gordon's Expert\]](https://osu.ppy.sh/b/3207766)
-  6. [Shaun Martin - Madiba \[Dynamic\]](https://osu.ppy.sh/b/2700108)
-  7. [lapix - Day by day (PSYQUI Remix) \[Edge of Tomorrow\]](https://osu.ppy.sh/b/2731544)
-  8. [paraoka feat. haru*nya - Hokori Yuki \[BabeLisM\]](https://osu.ppy.sh/b/3340750)
-  9. [Kero Kero Bonito - Flamingo (WTN3 Remix) \[Expert\]](https://osu.ppy.sh/b/2643126)
-  10. [KUMOKIRI - Shippuujinrai \[Expert\]](https://osu.ppy.sh/b/3331199)
-  11. [DJ TOTTO feat. 3L - Youkakushi -Ayakashi Kakushi- \[Difficult\]](https://osu.ppy.sh/b/2804225)
-  12. [sakuzyo - AXION \[Another\]](https://osu.ppy.sh/b/297811)
-  13. [onoken - Lisrim \[Extreme\]](https://osu.ppy.sh/b/3020119)
-  14. [dandeless - micro.wav \[USA Tryouts\]](https://osu.ppy.sh/b/3198204)
-  15. [YUI - again \[Rizen's Insane\]](https://osu.ppy.sh/b/1372702)
+  1. [Kobaryo - Future Downloader \[Violacea\]](https://osu.ppy.sh/beatmapsets/1871713#osu/3851186)
+  2. [Imperial Circus Dead Decadence - Shinbatsu o Tadori Kyoukotsu ni Itaru \[Extreme\]](https://osu.ppy.sh/beatmapsets/482382#osu/2039543)
+  3. [Sakin - Denek Hayatim \[bir collab sekiz dokuz.\]](https://osu.ppy.sh/beatmapsets/2033084#osu/4238281)
+  4. [Kuba Oms - My Love (Maemi No Yume's Remix) \[Kalindraz & Sakura Airi Splendid Reality\]](https://osu.ppy.sh/beatmapsets/1389127#osu/2868791)
+  5. [Power Of Nature - Shounen wa Sora o Tadoru \[Gordon's Expert\]](https://osu.ppy.sh/beatmapsets/1373545#osu/3207766)
+  6. [Shaun Martin - Madiba \[Dynamic\]](https://osu.ppy.sh/beatmapsets/1301789#osu/2700108)
+  7. [lapix - Day by day (PSYQUI Remix) \[Edge of Tomorrow\]](https://osu.ppy.sh/beatmapsets/1318545#osu/2731544)
+  8. [paraoka feat. haru*nya - Hokori Yuki \[BabeLisM\]](https://osu.ppy.sh/beatmapsets/1636932#osu/3340750)
+  9. [Kero Kero Bonito - Flamingo (WTN3 Remix) \[Expert\]](https://osu.ppy.sh/beatmapsets/1271938#osu/2643126)
+  10. [KUMOKIRI - Shippuujinrai \[Expert\]](https://osu.ppy.sh/beatmapsets/1631947#osu/3331199)
+  11. [DJ TOTTO feat. 3L - Youkakushi -Ayakashi Kakushi- \[Difficult\]](https://osu.ppy.sh/beatmapsets/1354863#osu/2804225)
+  12. [sakuzyo - AXION \[Another\]](https://osu.ppy.sh/beatmapsets/115193#osu/297811)
+  13. [onoken - Lisrim \[Extreme\]](https://osu.ppy.sh/beatmapsets/1471079#osu/3020119)
+  14. [dandeless - micro.wav \[USA Tryouts\]](https://osu.ppy.sh/beatmapsets/1499766#osu/3198204)
+  15. [YUI - again \[Rizen's Insane\]](https://osu.ppy.sh/beatmapsets/623911#osu/1372702)
   - Tiebreaker
-  1. **[OctagonCollaboration - The Glorious Octagon of Destiny \[Glorious\]](https://osu.ppy.sh/b/2210170)**
+  1. **[OctagonCollaboration - The Glorious Octagon of Destiny \[Glorious\]](https://osu.ppy.sh/beatmapsets/1039769#osu/2210170)**
 
 ### Qualifiers
 
