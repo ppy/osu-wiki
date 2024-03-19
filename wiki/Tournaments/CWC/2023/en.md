@@ -594,7 +594,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
    - The winner of the `!roll` may choose to either pick first and ban second, or pick second and ban first.
    - The loser of the `!roll` will follow the remaining pick order.
 4. After bans are decided, both teams will take turns in picking a beatmap from the mappool.
-5. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than alloted for either action, the procedures adopted will be as follows:
+5. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than allotted for either action, the procedures adopted will be as follows:
    - For the first occurrence:
      - The team will receive a verbal warning from the referee; in addition, the referee may opt to forcefully use the team's tactical timeout to allow for the team to pick.
    - On subsequent occurrences:

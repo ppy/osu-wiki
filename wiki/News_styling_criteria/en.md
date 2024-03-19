@@ -6,7 +6,7 @@
 
 Like wiki articles, all news posts should aim to have proper spelling and grammar at a bare minimum, as well as having correct and up-to-date information.
 
-Anyone interested in contributing to or writing news posts, reach out in the `#osu-news` channel of the [osu! Discord server](https://discord.com/invite/ppy). Alternatively contact ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) or any active [wiki or news maintainer](/wiki/People/osu!_wiki_maintainers).
+Anyone interested in contributing to or writing news posts, reach out in the `#osu-news` channel of the [osu! Discord server](https://discord.com/invite/ppy). Alternatively contact ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079), ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724), or any active [wiki or news maintainer](/wiki/People/osu!_wiki_maintainers).
 
 ## Locales
 
@@ -81,7 +81,7 @@ Markdown usage is covered by the [article styling criteria](/wiki/Article_stylin
 - [Infoboxes](/wiki/Article_styling_criteria/Formatting#infoboxes) and [footnotes](/wiki/Article_styling_criteria/Formatting#footnotes) are not supported.
 - The [banner image](#banners) must not contain any alt text, i.e. text inside the square brackets of a markdown image link (`![alt text](image.png)`).
 
-#### Images
+### Images
 
 *For image format and quality standards, see: [Article styling criteria § Formats and quality](/wiki/Article_styling_criteria/Formatting#formats-and-quality)*
 
@@ -96,6 +96,8 @@ News posts must have an image after the preview paragraph for use as a **banner*
 These banners appear in many different aspect ratios in different places of the website and on different devices, and should therefore be designed with any cropping due to this in mind.
 
 ![News post banner aspect ratio reference](img/banner-sizes.png "News post banner aspect ratio reference. Note that mobile devices may fall anywhere within or even slightly outside the common ranges specified here.")
+
+Use [this banner visualisation tool](https://tanza.me/tools/osu-vis/) to check how the banner will appear in different parts of the website.
 
 Banners should have a minimum 1000x200 px base size. A version with each dimension doubled should be provided if the source image is large enough to support it (resulting in `banner.jpg` and `banner@2x.jpg`). Banner images appearing in multiple news articles should be put in the [`wiki/shared/news/banners/` directory](https://github.com/ppy/osu-wiki/tree/master/wiki/shared/news/banners).
 
@@ -122,3 +124,19 @@ Video embed hosted on YouTube:
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/cXkiX7u4a9g" frameborder="0" allowfullscreen></iframe>
 </div>
 ```
+
+## Design
+
+The following applies to all media in news posts and includes common reasons for requested changes or inquiries by the news team:
+
+- **Assets created for news posts should be cleared in terms of permissions and licensing.**
+- **Note the [brand identity guidelines](/wiki/Brand_identity_guidelines), especially for the game and game mode names.** Terms like "standard" or "ctb" are not used in official contexts.
+  - Preferred: "osu!", "osu!taiko", "osu!catch", "osu!mania" (also note that this is the canonical ordering whenever they're presented in sequence)
+  - Acceptable: "osu!", "taiko", "catch", "mania"
+  - Acceptable: "OSU!", "OSU!TAIKO", "OSU!CATCH", "OSU!MANIA", "TAIKO", "CATCH", "MANIA" (in contexts where text is styled in uppercase)
+  - Not acceptable: "osu!standard", "standard", "osu", "Osu!", "ctb"
+- **The minimum height for text is the height of paragraph text on desktop aspect ratios.** Anything smaller is not legible on mobile devices. View this page on a mobile device or resize the browser window for reference.
+
+![Text size reference](img/text-size.png "Minimum text size reference for images.")
+
+Some community members spare no effort in creating quality graphics or even animated videos for inclusion in news posts. However, please contact the news team early regarding designs and assets if possible, as any required changes may cause unexpected delays or omission from the news post.

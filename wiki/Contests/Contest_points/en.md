@@ -31,6 +31,7 @@ For team contests, elite mapper points will be evaluated on a case-by-case basis
 | ::{ flag=US }:: [phyr](https://osu.ppy.sh/users/13181574) | 4 |
 | ::{ flag=TH }:: [- Frontier -](https://osu.ppy.sh/users/4314710) | 3 |
 | ::{ flag=GB }:: [Aistre](https://osu.ppy.sh/users/4879380) | 3 |
+| ::{ flag=KR }:: [bIG data](https://osu.ppy.sh/users/17744610) | 3 |
 | ::{ flag=DK }:: [melon boy](https://osu.ppy.sh/users/3053382) | 2 |
 | ::{ flag=RU }:: [Aphestra](https://osu.ppy.sh/users/11949191) | 2 |
 | ::{ flag=PL }:: [Kalibe](https://osu.ppy.sh/users/3376777) | 2 |
@@ -46,6 +47,7 @@ For team contests, elite mapper points will be evaluated on a case-by-case basis
 | ::{ flag=PH }:: [flake](https://osu.ppy.sh/users/7627157) | 1 |
 | ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | 1 |
 | ::{ flag=PH }:: [LeCandy](https://osu.ppy.sh/users/6626249) | 1 |
+| ::{ flag=US }:: [fowwo](https://osu.ppy.sh/users/4547551) | 1 |
 
 ### osu!taiko
 
@@ -80,11 +82,12 @@ For team contests, elite mapper points will be evaluated on a case-by-case basis
 
 | User | Points |
 | :-- | :-- |
+| ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904) | 4 |
 | ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222) | 3 |
 | ::{ flag=KR }:: [hemoo](https://osu.ppy.sh/users/4420703) | 3 |
-| ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904) | 2 |
 | ::{ flag=CN }:: [richardfeder](https://osu.ppy.sh/users/2446000) | 2 |
 | ::{ flag=KR }:: [Kawawa](https://osu.ppy.sh/users/4647754) | 2 |
+| ::{ flag=AU }:: [oct4](https://osu.ppy.sh/users/10303887) | 2 |
 | ::{ flag=US }:: [lemonguy](https://osu.ppy.sh/users/4693052) | 1 |
 | ::{ flag=BR }:: [AutotelicBrown](https://osu.ppy.sh/users/4238941) | 1 |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | 1 |
@@ -96,6 +99,8 @@ Contest points have been used in the following contests:
 
 - [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest)
 - [osu!taiko Featured Artist Cup](/wiki/Contests/o!tFAC)
+- [Twin Trials](/wiki/Contests/Twin_Trials_Contest)
+- [Vocaloid Mapping Contest 2](/wiki/Contests/VMC/2)
 
 ## History
 
