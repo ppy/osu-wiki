@@ -114,7 +114,7 @@ While [mangomizer](https://osu.ppy.sh/users/1893718) and [pishifat](https://osu.
 > 
 > We only ask for relatively frequent drafts, in intervals of 30 seconds to 1 minute, so we can check if we first like the general vibe, as one would expect, and if we can map it accordingly to the planned difficulty, of course.
 
-The other tournament hosts interviewed here said basically the same thing, which means there's only one thing to do. (To ask some artists.)
+The other tournament hosts interviewed here said basically the same thing, which means there's only one thing to do.
 
 [![](/wiki/shared/news/2024-03-19-bespoke-music-in-osu/takehirotei.png)](https://osu.ppy.sh/users/11793794)
 
