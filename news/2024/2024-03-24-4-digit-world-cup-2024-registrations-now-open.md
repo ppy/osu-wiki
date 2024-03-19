@@ -8,7 +8,7 @@ Attention all 4 digit osu! players! The 4 Digit World Cup is back with its 2024 
 
 ![](/wiki/shared/news/2024-03-24-4-digit-world-cup-2024-registrations-now-open/banner.png)
 
-The **4 Digit World Cup** (*pending forum link*), or 4WC for short, is an annual osu! world-cup-style tournament for players within the 4 digit (#1,000–9,999) rank range, featuring some of the best players of the scene battling it out on their biggest stage of the year for a chance to crown their country as the champions!
+The **[4 Digit World Cup](https://osu.ppy.sh/community/forums/topics/1898593)**, or 4WC for short, is an annual osu! world-cup-style tournament for players within the 4 digit (#1,000–9,999) rank range, featuring some of the best players of the scene battling it out on their biggest stage of the year for a chance to crown their country as the champions!
 
 [Last year](https://osu.ppy.sh/community/forums/topics/1761090) we had a staggering 53 countries competing, with Team United States barely claiming the first place finish on the [first Grand Finals set](https://osu.ppy.sh/community/matches/109632383), beating Team Canada on the tiebreaker after an excitingly close match of multiple back-to-back microscopically close finishes.
 
@@ -28,8 +28,8 @@ We are bringing in a number of small changes and improvements for this year to f
 
 | Event | Dates |
 | --: | :-- |
-| Registration phase | March 24–April 14 (23:59 UTC) |
-| Team submission phase | April 15–April 21 (23:59 UTC) |
+| Registration phase | March 21–April 13 (23:59 UTC) |
+| Team submission phase | April 14–April 20 (23:59 UTC) |
 | Qualifier showcase | April 28 |
 | Qualifier stage | May 4–May 5 |
 | Round of 32 | May 11–May 12 |
@@ -41,13 +41,13 @@ We are bringing in a number of small changes and improvements for this year to f
 
 ## How do I register?
 
-To register, simply head over to the **registration page** (*pending link*) to connect your osu! and Discord accounts. Players who sign up via the aforementioned link and meet the following criteria will be eligible to participate:
+To register, simply head over to the **[registration page](https://osu.ppy.sh/oauth/authorize?client_id=21966&redirect_uri=https://script.google.com/macros/s/AKfycbzknySoKogThpPyGuOGOsmsr1hdCITHOQqF3UXQc-orw-9b_BuEjM129uVUBHmNGWBMpg/exec&response_type=code&scope=identify&state=%7B%22step%22%3A%22osu%22%7D)** to connect your osu! and Discord accounts. Players who sign up via the aforementioned link and meet the following criteria will be eligible to participate:
 
 - **Your osu! global rank must be within #1,000–9,999 at the time of registrations closing** (April 14, 23:59 UTC)
 - **You must not have violated the [osu! community rules](/wiki/Rules) in the past 12 months**
 
 All countries with at least 5 eligible registrants will have one player designated as the captain by the organisers. The captain is then responsible for selecting and submitting a roster of 5–8 players to represent their country in the tournament. Countries with more than 8 candidates are encouraged to host tryouts for their team to aid in selecting the best players.
 
-Joining the official [Discord server](https://discord.gg/uQarcRtB3u) of 4WC is mandatory for all players selected on a team, but we still encourage everyone, even spectators, to join in order to keep up with all important announcements and tournament livestream notifications. Be sure to also check out the forum thread (*pending link*) for more information and rules. We hope to see you all join in — be it by playing or spectating!
+Joining the official [Discord server](https://discord.gg/uQarcRtB3u) of 4WC is mandatory for all players selected on a team, but we still encourage everyone, even spectators, to join in order to keep up with all important announcements and tournament livestream notifications. Be sure to also check out the [forum thread](https://osu.ppy.sh/community/forums/topics/1898593) for more information and rules. We hope to see you all join in — be it by playing or spectating!
 
 —shdewz & resoa
