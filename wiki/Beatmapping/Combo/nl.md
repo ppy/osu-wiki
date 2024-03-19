@@ -5,6 +5,10 @@ tags:
   - NC
   - new combo
   - comboset
+  - combokleur
+  - combo-kleur
+  - nieuwe combo
+  - combo-set
 ---
 
 # Combo
