@@ -32,6 +32,7 @@ Ces personnes ont été vérifiées par l'équipe osu! comme étant des complét
 | :-- | :-- | :-- |
 | ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) | 03/11/2019 | 8,841 |
 | ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966) | 14/08/2023 | 22,170 |
+| ::{ flag=US }:: [vrnl](https://osu.ppy.sh/users/4799788) | 2024-03-17 | 24,330 |
 
 ## Le saviez-vous ?
 
