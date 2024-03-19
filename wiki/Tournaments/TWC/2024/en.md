@@ -58,6 +58,8 @@ The osu!taiko World Cup 2024 is run by various community members.
 - [Livestream](https://www.twitch.tv/osulive)
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/43)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/140) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Challonge bracket](https://challonge.com/TWC2024)
+- [Support your country with a profile banner](https://osu.ppy.sh/store/products/1275)
 
 ## Participants
 
@@ -108,31 +110,36 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253
 
 ## Match Schedule: Round of 32
 
+### Friday, 22 March 2024
+
+| Team A | Team B | Match time | Twitch stream |
+| --: | :-- | :-- | :-: |
+| Japan ::{ flag=JP }:: | ::{ flag=DK }:: Denmark | [Mar 23 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240323T170000&p1=1440&p2=248&p3=69) | [osulive](https://twitch.tv/osulive) |
+
 ### Saturday, 23 March 2024
 
 | Team A | Team B | Match time | Twitch stream |
 | --: | :-- | :-- | :-: |
-| Australia ::{ flag=AU }:: | ::{ flag=PH }:: Philippines | [Mar 23 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240323T100000&p1=1440&p2=57&p3=145) | [osulive](https://twitch.tv/osulive) |
+| Chile ::{ flag=CL }:: | ::{ flag=CO }:: Colombia | [Mar 23 (Sat) 00:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240323T000000&p1=1440&p2=232&p3=41) | [osulive](https://twitch.tv/osulive) |
 | Japan ::{ flag=JP }:: | ::{ flag=DK }:: Denmark | [Mar 23 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240323T110000&p1=1440&p2=248&p3=69) | [osulive](https://twitch.tv/osulive) |
 | Malaysia ::{ flag=MY }:: | ::{ flag=CH }:: Switzerland | [Mar 23 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240323T120000&p1=1440&p2=122&p3=270) | [osulive](https://twitch.tv/osulive) |
-| Finland ::{ flag=FI }:: | ::{ flag=NO }:: Norway | [Mar 23 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240323T130000&p1=1440&p2=101&p3=187) | [osulive](https://twitch.tv/osulive) |
 | Turkey ::{ flag=TR }:: | ::{ flag=PL }:: Poland | [Mar 23 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240323T140000&p1=1440&p2=19&p3=262) | [osulive](https://twitch.tv/osulive) |
+| Russian Federation ::{ flag=RU }:: | ::{ flag=NL }:: Netherlands | [Mar 23 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240323T150000&p1=1440&p2=166&p3=16) | [osulive_2](https://twitch.tv/osulive_2) |
 | China ::{ flag=CN }:: | ::{ flag=MX }:: Mexico | [Mar 23 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240323T150000&p1=1440&p2=33&p3=155) | [osulive](https://twitch.tv/osulive) |
 | Canada ::{ flag=CA }:: | ::{ flag=ID }:: Indonesia | [Mar 23 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240323T160000&p1=1440&p2=188&p3=108) | [osulive](https://twitch.tv/osulive) |
 | Germany ::{ flag=DE }:: | ::{ flag=AR }:: Argentina | [Mar 23 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240323T170000&p1=1440&p2=37&p3=51) | [osulive](https://twitch.tv/osulive) |
-| Chile ::{ flag=CL }:: | ::{ flag=CO }:: Colombia | [Mar 23 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240323T180000&p1=1440&p2=232&p3=41) | [osulive](https://twitch.tv/osulive) |
+| United States ::{ flag=US }:: | ::{ flag=PE }:: Peru | [Mar 23 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240323T200000&p1=1440&p2=263&p3=131) | [osulive](https://twitch.tv/osulive) |
 
 ### Sunday, 24 March 2024
 
 | Team A | Team B | Match time | Twitch stream |
 | --: | :-- | :-- | :-: |
+| Australia ::{ flag=AU }:: | ::{ flag=PH }:: Philippines | [Mar 24 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240324T020000&p1=1440&p2=57&p3=145) | [osulive](https://twitch.tv/osulive) |
 | Taiwan ::{ flag=TW }:: | ::{ flag=HK }:: Hong Kong | [Mar 24 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240324T100000&p1=1440&p2=241&p3=102) | [osulive](https://twitch.tv/osulive) |
 | South Korea ::{ flag=KR }:: | ::{ flag=CZ }:: Czechia | [Mar 24 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240324T110000&p1=1440&p2=235&p3=204) | [osulive](https://twitch.tv/osulive) |
 | France ::{ flag=FR }:: | ::{ flag=TH }:: Thailand | [Mar 24 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240324T120000&p1=1440&p2=195&p3=28) | [osulive](https://twitch.tv/osulive) |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=NL }:: Netherlands | [Mar 24 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240324T130000&p1=1440&p2=166&p3=16) | [osulive](https://twitch.tv/osulive) |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=IT }:: Italy | [Mar 24 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240324T140000&p1=1440&p2=136&p3=215) | [osulive](https://twitch.tv/osulive) |
+| United Kingdom ::{ flag=GB }:: | ::{ flag=IT }:: Italy | [Mar 24 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240324T150000&p1=1440&p2=136&p3=215) | [osulive](https://twitch.tv/osulive) |
 | Brazil ::{ flag=BR }:: | ::{ flag=SK }:: Slovakia | [Mar 24 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240324T170000&p1=1440&p2=45) | [osulive](https://twitch.tv/osulive) |
-| United States ::{ flag=US }:: | ::{ flag=PE }:: Peru | [Mar 24 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240324T180000&p1=1440&p2=263&p3=131) | [osulive](https://twitch.tv/osulive) |
 | Round of 16 | mappool showcase | [Mar 24 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240324T190000&p1=1440) | [osulive](https://twitch.tv/osulive) |
 
 ## Mappools
