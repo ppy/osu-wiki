@@ -149,7 +149,6 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 | ::{ flag=RU }:: [Ryxliee](https://osu.ppy.sh/users/15823344) | Russe |
 | ::{ flag=CA }:: [SN707](https://osu.ppy.sh/users/31404061) |  |
 
-
 #### osu!catch
 
 | Nom | Langues additionnelles |

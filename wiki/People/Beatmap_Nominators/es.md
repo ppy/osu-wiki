@@ -148,7 +148,6 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 | ::{ flag=RU }:: [Ryxliee](https://osu.ppy.sh/users/15823344) | Ruso |
 | ::{ flag=CA }:: [SN707](https://osu.ppy.sh/users/31404061) |  |
 
-
 #### osu!catch
 
 | Nombre | Idiomas adicionales |

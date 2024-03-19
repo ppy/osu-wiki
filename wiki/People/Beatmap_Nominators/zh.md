@@ -149,7 +149,6 @@ BN 可获得以下特权：
 | ::{ flag=RU }:: [Ryxliee](https://osu.ppy.sh/users/15823344) | 俄语 |
 | ::{ flag=CA }:: [SN707](https://osu.ppy.sh/users/31404061) |  |
 
-
 #### osu!catch
 
 | 名字 | 语言 |
