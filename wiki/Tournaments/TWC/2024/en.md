@@ -156,7 +156,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253
   4. [siqlo - wholeheartedly (Mew) \[haphazardly\]](https://osu.ppy.sh/beatmapsets/2152039#taiko/4534272)
   5. [xi - Garyou Tensei (Xay) \[Happy Little Streams\]](https://osu.ppy.sh/beatmapsets/2152045#taiko/4534285)
 - Hidden
-  1. [Hamu feat. Natsuki Karin - Sunao ni Naritai (Quorum) \[Hidden Answers (osu! Edit Ver.)\]](https://osu.ppy.sh/beatmapsets/2152060#taiko/4534320)
+  1. [Hamu feat. Natsuki Karin - Sunao ni Naritai (osu! Edit Ver.) (Quorum) \[Hidden Answers\]](https://osu.ppy.sh/beatmapsets/2152060#taiko/4534320)
   2. [Power Of Nature - BabeL \~Next Story\~ (uone) \[Oni\]](https://osu.ppy.sh/beatmapsets/699595#taiko/1481393)
 - Hard Rock
   1. [Ponkichi - YOZAKURA Bladerz (TKS) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1707779#taiko/3552174)
