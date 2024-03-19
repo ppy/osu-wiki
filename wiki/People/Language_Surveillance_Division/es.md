@@ -14,13 +14,13 @@ tags:
 
 *Para conocer el equipo moderno de moderadores, véase: [Global Moderation Team](/wiki/People/Global_Moderation_Team).*
 
-La **Language Surveillance Division** (coloquialmente conocida como *LSD*) era un grupo de usuarios responsable de la moderación de comunidades de idiomas específicos dentro de osu!. Cada uno de sus miembros tenía un área de enfoque dedicada: un canal de idioma en el que estaban presentes principalmente y las secciones respectivas del foro que podían administrar (como lugares como [Help](https://osu.ppy.sh/community/forums/5) o [Off-Topic](https://osu.ppy.sh/community/forums/52)).
+La **Language Surveillance Division** (coloquialmente conocida como *LSD*) era un grupo de usuarios responsable de la moderación de comunidades de idiomas específicos dentro de osu!. Cada uno de sus miembros tenía un área de enfoque dedicada: un canal de idioma en el que estaban presentes principalmente y las secciones respectivas del foro que podían administrar (como lugares como [Help](https://osu.ppy.sh/community/forums/5) u [Off-Topic](https://osu.ppy.sh/community/forums/52)).
 
 ## Tareas
 
 Los miembros de la LSD fueron seleccionados personalmente por el osu! team entre la comunidad para actuar como moderadores en comunidades y subforos de menor tráfico. A diferencia de los moderadores globales, no tenían características como apodos de colores o títulos de foros personalizados. En [IRC](/wiki/Community/Internet_Relay_Chat), sin embargo, eran [operadores](/wiki/Community/Internet_Relay_Chat#¿por-qué-algunos-nombres-de-usuario-tienen-prefijos-con-diferentes-signos?) y podían aplicar [silencios](/wiki/Silence).
 
-El LSD también sirvió como un grupo intermediario para miembros prometedores pendientes de admisión en el [Global Moderation Team](/wiki/People/Global_Moderation_Team) en ocasiones, ya que los dos grupos generalmente compartían un objetivo común y conjuntos de habilidades similares.
+La LSD también sirvió como un grupo intermediario para miembros prometedores pendientes de admisión en el [Global Moderation Team](/wiki/People/Global_Moderation_Team) en ocasiones, ya que los dos grupos generalmente compartían un objetivo común y conjuntos de habilidades similares.
 
 ## Reestructuración
 
