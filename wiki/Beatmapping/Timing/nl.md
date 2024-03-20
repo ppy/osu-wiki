@@ -6,7 +6,7 @@ De [beatmap-editor](/wiki/Client/Beatmap_editor) biedt [timingsinstellingen](/wi
 
 Bovendien regelt de timing van een beatmap de volgende functies:
 
-- Hartslag van het [osu!-koekje](/wiki/Client/Interface/Cookie) in het hoofdmenu en [liedselectiescherm](/wiki/Client/Interface#song-select) (evenals andere menu-effecten die het ritme volgen)
+- Hartslag van het [osu! Cookie](/wiki/Client/Interface/Cookie) in het hoofdmenu en [liedselectiescherm](/wiki/Client/Interface#song-select) (evenals andere menu-effecten die het ritme volgen)
 - Pulsatie van hitobjecten tijdens [kiai time](/wiki/Gameplay/Kiai_time)
 - Drumtrack toegevoegd door de [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore) mod
 - Verschijning van maatstrepen in [osu!taiko](/wiki/Game_mode/osu!taiko) en [osu!mania](/wiki/Game_mode/osu!mania)
@@ -30,36 +30,37 @@ Bijna elk lied kan worden verdeeld in secties met verschillende tempo's, en het 
 *Hoofdartikel: [Hoe time je liedjes?](/wiki/Guides/How_to_time_songs)*\
 *Zie ook: [Beatmap-editor/Timing](/wiki/Client/Beatmap_editor/Timing)*
 
-### Single BPM
+### Enkelvoudige BPM
 
-The amount of time between the beginning of the audio file and the first downbeat, also called "offset", is typically the place for the first [uninherited timing point](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point), the starting point used by osu! to calculate positions of other beats. One of these timing points is often enough for songs that are digitally produced or edited seamlessly, having no BPM or time signature changes, or metronome resets<!-- TODO: link -->.
+De hoeveelheid tijd tussen het begin van het audiobestand en de eerste downbeat, ook wel “offset” genoemd, is meestal de plaats voor het eerste [uninherited timingspunt](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point), het startpunt dat door osu! wordt gebruikt om de posities van andere beats te berekenen. Één van deze timingspunten is vaak voldoende voor nummers die digitaal zijn geproduceerd of naadloos zijn bewerkt, zonder BPM- of maatsoortwijzigingen of metronoomresets.
 
-In the [timing tab](/wiki/Client/Beatmap_editor/Timing), tapping the `T` key or clicking the metronome button to the beat of the song will allow osu! to calculate an approximate BPM. The value can then be adjusted manually until it is correct and all timeline ticks line up with the music. There are a few things to note:
+In het [timingstabblad](/wiki/Client/Beatmap_editor/Timing) kun je door op de `T`-toets te tikken of op de metronoomknop te klikken op het ritme van het nummer osu! in staat stellen om een BPM te berekenen. De waarde kan vervolgens handmatig worden aangepast totdat deze correct is en alle tijdbalkmarkeringen overeenkomen met de muziek. Hier zijn een paar dingen om op te letten:
 
-- Almost no songs use a BPM with a decimal value. If the value ends up being overly precise after manual adjustments, it is most likely incorrect.
-- The offset [must be at the first downbeat of a song](/wiki/Guides/Setting_the_offset_on_the_correct_beat), as mandated by the [ranking criteria](/wiki/Ranking_criteria#timing).
+- Bijna geen liedjes gebruiken een BPM met een decimale waarde. Als de waarde na handmatige aanpassingen overdreven nauwkeurig lijkt, is deze waarschijnlijk onjuist.
+De offset [moet op de eerste downbeat zijn van een lied.](/wiki/Guides/Setting_the_offset_on_the_correct_beat), zoals voorgeschreven in de[ranking criteria](/wiki/Ranking_criteria#timing).
 
-### Multiple/variable BPM
+### multi-/variabel-BPM
 
-![](img/complex-timing.png "Example timeline of a beatmap with complex timing, MiddleIsland - Roze mapped by Lan wings. Nearly 300 uninherited timing points (red lines) describe 3 minutes of piano and violin play.")
+![](img/complex-timing.png "Voorbeeld van een tijdlijn van een beatmap met complexe timing, MiddleIsland - Roze gemapt door Lan wings. Bijna 300 uninherited timingspunten (rode lijnen) beschrijven 3 minuten van piano- en vioolspel.")
 
-Some songs feature changing tempo, requiring several offsets in a beatmap. A song that has clear sections with differing BPM values is called a **multi-BPM** song, while a song with gradual tempo changes is called a **variable-BPM** song. The former type needs relatively few timing points, while the latter may require dozens or sometimes hundreds of them.
+Sommige nummers hebben een veranderend tempo, waardoor meerdere offsets in een beatmap nodig zijn. Een nummer met duidelijke secties met verschillende BPM-waarden wordt een **multi-BPM**-nummer genoemd, terwijl een nummer met geleidelijke tempowijzigingen een **variabel-BPM**-nummer wordt genoemd. Het eerste type heeft relatief weinig timingspunten nodig, terwijl het laatste er tientallen of soms honderden kan vereisen.
 
-Music that is performed without a metronome may often contain timing discrepancies, arbitrary tempo changes, and random note drifts, either due to intentional dynamic musical expression, or human error. This needs to be accounted for when timing a beatmap for such a song. However, finding out timing for such songs is a tough feat — it is recommended to avoid them unless you have a lot of experience and patience.
+Muziek die zonder metronoom wordt uitgevoerd, kan vaak timingsverschillen, willekeurige tempowijzigingen en willekeurige nootafwijkingen bevatten, hetzij door opzettelijke dynamische muzikale expressie, of door menselijke fouten. Hiermee moet rekening worden gehouden bij het timen van een beatmap voor zo’n nummer. Het bepalen van de timing voor dergelijke nummers is echter een lastige taak - het wordt aanbevolen om ze te vermijden tenzij je veel ervaring en geduld hebt.
 
-For single- or multi-BPM songs performed with a metronome, small timing errors (e.g. a note played a few milliseconds early or late) may be ignored if the beatmap is still playable with simple timing. Alternatively, the audio file may be edited directly with a program like [Audacity](https://www.audacityteam.org/) to quantise notes and correct timing mistakes.
+Voor nummers met één of meerdere BPM’s die worden uitgevoerd met een metronoom, kunnen kleine timingsfouten (bijvoorbeeld een noot die enkele milliseconden te vroeg of te laat wordt gespeeld) worden genegeerd als de beatmap nog steeds speelbaar is met eenvoudige timing. Als alternatief kan het audiobestand rechtstreeks worden bewerkt met een programma zoals [Audacity](https://www.audacityteam.org/) om noten te kwantiseren en timingsfouten te corrigeren.
 
-Some songs require timing points that have a slightly shifted offset without changing BPM or time signature. These are usually caused by inaccurate quantisation or added/removed beats from a single measure.
+Sommige nummers vereisen timingspunten met een iets verschoven offset zonder dat de BPM of het maatsoort verandert. Dit wordt meestal veroorzaakt door onnauwkeurige kwantisatie of toegevoegde/verwijderde beats uit één maat.
 
-Lastly, a new timing point is required for time signature changes and metronome resets. For example, a regular rhythm may change to a waltz, making the measure not 4, but 3 beats long, or a new measure may start earlier than expected, which necessitates a new timing point to reset the metronome.
+Ten slotte is een nieuw timingspunt nodig voor maatsoortwijzigingen en metronoomresetten. Bijvoorbeeld, een regelmatig ritme kan veranderen in een wals, waardoor de maat niet 4, maar 3 beats lang wordt, of een nieuwe maat kan eerder beginnen dan verwacht, wat een nieuw timingspunt vereist om de metronoom te resetten.
 
-## Community reception
+## Community
 
-Timing is widely regarded as one of the hardest mapping skills to master, since it requires having a lot of patience and a good sense of rhythm. It is not uncommon to ask other mappers and [modders](/wiki/Modding) for help, either personally, or in public [chat](/wiki/Client/Interface/Chat_console) channels and [forums](/wiki/Community/Forum). One of the forum threads dedicated to the issue, "[Unable to find the BPM/offset of your map? Post here](https://osu.ppy.sh/community/forums/topics/13795)", contains more than 5,000 responses collected over 13 years.
+Timing wordt algemeen beschouwd als een van de moeilijkste vaardigheden bij het maken van beatmaps, omdat het veel geduld en een goed gevoel voor ritme vereist. Het is niet ongebruikelijk om andere mappers en [modders](/wiki/Modding) om hulp te vragen, zowel persoonlijk als in openbare [chat](/wiki/Client/Interface/Chat_console)-kanalen en [forums](/wiki/Community/Forum). Één van de forumthreads die aan dit onderwerp zijn gewijd, “[Unable to find the BPM/offset of your map? Post here](https://osu.ppy.sh/community/forums/topics/13795)”, bevat meer dan 5.000 reacties verzameld over een periode van 13 jaar.
 
-[The ranking criteria](/wiki/Ranking_criteria#timing) have a section dedicated to timing, which explains the respective rules for beatmaps [going for Ranked](/wiki/Beatmap_ranking_procedure).
+De [rankingscriteria](/wiki/Ranking_criteria#timing) bevat een sectie gewijd aan timing, waarin de respectieve regels voor beatmaps die [voor Ranked gaan](/wiki/Beatmap_ranking_procedure) worden uitgelegd.
 
-## See also
 
-- *[osu!academy Episode 7-2 - Timing Basics](https://www.youtube.com/watch?v=8nsbrOhLE9w)*, an episode of the [osu!academy](/wiki/Community/Video_series/osu!academy) YouTube series
-- *[osu!mapping: timing](https://www.youtube.com/watch?v=xauZuMPgiQw)*, an episode of the [osu!mapping](/wiki/Community/Video_series/osu!mapping) YouTube series
+## Zie ook
+
+- *[osu!academy Episode 7-2 - Timing Basics](https://www.youtube.com/watch?v=8nsbrOhLE9w)*, een aflevering van de [osu!academy](/wiki/Community/Video_series/osu!academy) YouTube-serie
+- *[osu!mapping: timing](https://www.youtube.com/watch?v=xauZuMPgiQw)*, een aflevering van de [osu!mapping](/wiki/Community/Video_series/osu!mapping) YouTube-series
