@@ -49,6 +49,6 @@ To register, simply head over to the **[registration page](https://osu.ppy.sh/oa
 
 All countries with at least 5 eligible registrants will have one player designated as the captain by the organisers. The captain is then responsible for selecting and submitting a roster of 5–8 players to represent their country in the tournament. Countries with more than 8 candidates are encouraged to host tryouts for their team to aid in selecting the best players.
 
-Joining the official [Discord server](https://discord.gg/uQarcRtB3u) of 4WC is mandatory for all players selected on a team, but we still encourage everyone, even spectators, to join in order to keep up with all important announcements and tournament livestream notifications. Be sure to also check out the [forum thread](https://osu.ppy.sh/community/forums/topics/1898593) for more information and rules. We hope to see you all join in — be it by playing or spectating!
+Joining the official [Discord server](https://discord.com/invite/uQarcRtB3u) of 4WC is mandatory for all players selected on a team, but we still encourage everyone, even spectators, to join in order to keep up with all important announcements and tournament livestream notifications. Be sure to also check out the [forum thread](https://osu.ppy.sh/community/forums/topics/1898593) for more information and rules. We hope to see you all join in — be it by playing or spectating!
 
 —shdewz & resoa
