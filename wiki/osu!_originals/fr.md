@@ -11,6 +11,8 @@ Toutes les osu! originals sous licence officielle peuvent être utilisées sur o
 
 ## Liste des osu! originals
 
+<!-- FOR TRANSLATORS: this section is automated and is not to be translated manually, even though this automation doesn't handle translations just yet. - Walavouchey -->
+
 ### Musiques originales d'osu!
 
 | Musique | Notes |
