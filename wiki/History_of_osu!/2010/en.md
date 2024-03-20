@@ -32,6 +32,8 @@ The [`!report`](/wiki/BanchoBot#report) chat command was added to [Bancho](/wiki
 
 ## September
 
+*Note: At the time, the [osu!taiko](/wiki/Game_mode/osu!taiko) [game mode](/wiki/Game_mode) was called Taiko.*
+
 On September 2, osu! received several mapping updates, including:[^stable-b1650]
 
 - The [SB load](/wiki/Client/Beatmap_editor/SB_load) indicator, reflecting drawing efficiency of storyboard and background elements.
