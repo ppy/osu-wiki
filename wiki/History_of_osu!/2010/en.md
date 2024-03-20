@@ -52,7 +52,7 @@ An osu! update added new sprites for the Taiko[^taiko-name] mode.[^stable-b1696]
 
 From 20 November to 28 November, the Flashlight mod became disabled in online rankings once again after heavy discussion due to players still being able to cheat with the mod.[^flashlight-3][^flashlight-4]
 
-## Notes amd references
+## Notes and references
 
 [^taiko-name]: At the time, the [osu!taiko](/wiki/Game_mode/osu!taiko) [game mode](/wiki/Game_mode) was called Taiko.
 
