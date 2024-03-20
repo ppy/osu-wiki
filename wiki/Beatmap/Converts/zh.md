@@ -38,8 +38,8 @@ osu!taiko 的转谱依据是原谱的[打击音效](/wiki/Beatmapping/Hitsound)�
 osu!catch 的转谱依据是原谱的节奏和打击物件*水平位置*（比如x轴坐标）：
 
 - 圆圈、滑条头、滑条尾和折返滑条转换为[大果](/wiki/Gameplay/Hit_object/Fruit)；
-- 滑条点转换为[中果](/wiki/Gameplay/Hit_object/Juice_stream#drop)；
-- 滑条的主要部分转换为[小果](/wiki/Gameplay/Hit_object/Juice_stream#droplet)；
+- 滑条点转换为[中果](/wiki/Gameplay/Hit_object/Juice_stream#中果)；
+- 滑条的主要部分转换为[小果](/wiki/Gameplay/Hit_object/Juice_stream#小果)；
 - 转盘转换为[香蕉](/wiki/Gameplay/Hit_object/Banana)。
 
 ### osu! 转 osu!mania
