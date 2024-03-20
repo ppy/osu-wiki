@@ -32,15 +32,13 @@ The [`!report`](/wiki/BanchoBot#report) chat command was added to [Bancho](/wiki
 
 ## September
 
-*Note: At the time, the [osu!taiko](/wiki/Game_mode/osu!taiko) [game mode](/wiki/Game_mode) was called Taiko.*
-
 On September 2, osu! received several mapping updates, including:[^stable-b1650]
 
 - The [SB load](/wiki/Client/Beatmap_editor/SB_load) indicator, reflecting drawing efficiency of storyboard and background elements.
 - The introduction of [approach rate](/wiki/Beatmap/Approach_rate) for configuring the speed of [approach circles](/wiki/Gameplay/Hit_object/Approach_circle) independently of [overall difficulty](/wiki/Beatmap/Overall_difficulty).
 - Custom [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) multipliers ranging from 0.5x to 2x.
 
-60 [difficulties](/wiki/Beatmap/Difficulty) were affected by a Taiko bug causing drum rolls to be incorrectly displayed and thus, all scores on them were deleted.[^taiko-reset]
+60 [difficulties](/wiki/Beatmap/Difficulty) were affected by a Taiko[^taiko-name] bug causing drum rolls to be incorrectly displayed and thus, all scores on them were deleted.[^taiko-reset]
 
 ## October
 
@@ -50,11 +48,13 @@ The [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) mod became unranked fo
 
 ## November
 
-An osu! update added new sprites for the Taiko mode.[^stable-b1696]
+An osu! update added new sprites for the Taiko[^taiko-name] mode.[^stable-b1696]
 
 From 20 November to 28 November, the Flashlight mod became disabled in online rankings once again after heavy discussion due to players still being able to cheat with the mod.[^flashlight-3][^flashlight-4]
 
-## References
+## Notes amd references
+
+[^taiko-name]: At the time, the [osu!taiko](/wiki/Game_mode/osu!taiko) [game mode](/wiki/Game_mode) was called Taiko.
 
 [^wai-con]: [Forum thread by peppy (2010-01-27) "osu!arcade at Wai-con 2010"](https://osu.ppy.sh/community/forums/topics/23392?n=1)
 
