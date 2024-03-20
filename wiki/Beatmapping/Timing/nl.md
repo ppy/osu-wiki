@@ -59,7 +59,6 @@ Timing wordt algemeen beschouwd als een van de moeilijkste vaardigheden bij het 
 
 De [rankingscriteria](/wiki/Ranking_criteria#timing) bevat een sectie gewijd aan timing, waarin de respectieve regels voor beatmaps die [voor Ranked gaan](/wiki/Beatmap_ranking_procedure) worden uitgelegd.
 
-
 ## Zie ook
 
 - *[osu!academy Episode 7-2 - Timing Basics](https://www.youtube.com/watch?v=8nsbrOhLE9w)*, een aflevering van de [osu!academy](/wiki/Community/Video_series/osu!academy) YouTube-serie
