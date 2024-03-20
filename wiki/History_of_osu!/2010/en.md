@@ -6,7 +6,7 @@ stub: true
 
 ## January
 
-The [Wai-con](https://en.wikipedia.org/wiki/Wai-Con) anime convention in Perth had osu!arcade, a fully self-contained arcade machine running a touch-based version of osu!. Although playing too much on it could lead to sore fingers as some people had criticised, the prototype containing custom-made hardware and a built-in touchscreen was well-received by the community.[^wai-con]
+The [Wai-con](https://en.wikipedia.org/wiki/Wai-Con) anime convention in Perth had osu!arcade, a fully self-contained arcade machine running a touch-based version of osu!. Although playing too much on it could lead to sore fingers as some people had criticised, the prototype containing custom-made hardware and a built-in touchscreen was well received by the community.[^wai-con]
 
 ![A touchscreen displaying osu!'s main menu](img/osu!arcade.jpg "The osu!arcade machine at 2010's Wai-con")
 
@@ -35,10 +35,10 @@ The [`!report`](/wiki/BanchoBot#report) chat command was added to [Bancho](/wiki
 On September 2, osu! received several mapping updates, including:[^stable-b1650]
 
 - The [SB load](/wiki/Client/Beatmap_editor/SB_load) indicator, reflecting drawing efficiency of storyboard and background elements.
-- The introduction of [Approach Rate](/wiki/Beatmap/Approach_rate) for configuring the speed of [approach circles](/wiki/Gameplay/Hit_object/Approach_circle) independently of [Overall Difficulty](/wiki/Beatmap/Overall_difficulty).
+- The introduction of [approach rate](/wiki/Beatmap/Approach_rate) for configuring the speed of [approach circles](/wiki/Gameplay/Hit_object/Approach_circle) independently of [overall difficulty](/wiki/Beatmap/Overall_difficulty).
 - Custom [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) multipliers ranging from 0.5x to 2x.
 
-60 [difficulties](/wiki/Beatmap/Difficulty) were affected by a Taiko bug causing drum-rolls to be incorrectly displayed and thus, all scores on them were deleted.[^taiko-reset]
+60 [difficulties](/wiki/Beatmap/Difficulty) were affected by a Taiko bug causing drum rolls to be incorrectly displayed and thus, all scores on them were deleted.[^taiko-reset]
 
 ## October
 
@@ -50,7 +50,7 @@ The [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) mod became unranked fo
 
 An osu! update added new sprites for the Taiko mode.[^stable-b1696]
 
-From 20 November to 28 November, the Flashlight mod became disabled in online rankings once again after being part of a heavy discussion due to players still being able to cheat with the mod.[^flashlight-3][^flashlight-4]
+From 20 November to 28 November, the Flashlight mod became disabled in online rankings once again after heavy discussion due to players still being able to cheat with the mod.[^flashlight-3][^flashlight-4]
 
 ## References
 
