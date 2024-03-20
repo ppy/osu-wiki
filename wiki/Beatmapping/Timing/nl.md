@@ -63,4 +63,4 @@ De [rankingscriteria](/wiki/Ranking_criteria#timing) bevat een sectie gewijd aan
 ## Zie ook
 
 - *[osu!academy Episode 7-2 - Timing Basics](https://www.youtube.com/watch?v=8nsbrOhLE9w)*, een aflevering van de [osu!academy](/wiki/Community/Video_series/osu!academy) YouTube-serie
-- *[osu!mapping: timing](https://www.youtube.com/watch?v=xauZuMPgiQw)*, een aflevering van de [osu!mapping](/wiki/Community/Video_series/osu!mapping) YouTube-series
+- *[osu!mapping: timing](https://www.youtube.com/watch?v=xauZuMPgiQw)*, een aflevering van de [osu!mapping](/wiki/Community/Video_series/osu!mapping) YouTube-serie
