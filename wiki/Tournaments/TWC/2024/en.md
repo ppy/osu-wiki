@@ -58,6 +58,7 @@ The osu!taiko World Cup 2024 is run by various community members.
 - [Livestream](https://www.twitch.tv/osulive)
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/43)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/140) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Support your team](https://osu.ppy.sh/store/products/1275)
 
 ## Participants
 
