@@ -10,7 +10,7 @@ tags:
 
 *Voor regels betreffende combo-kleuren bij beatmapping, zie: [Rankingscriteria/osu!](/wiki/Ranking_Criteria/osu!) en [Rankingscriteria/osu!catch](/wiki/Ranking_Criteria/osu!catch).*
 
-**Combo-kleuren** zijn kleuren die helpen om [combo-sets](/wiki/Beatmapping/Combo) van elkaar te onderscheiden. Combo-kleuren worden toegepast op alle [hitobjecten](/wiki/Hit_object) in een [beatmap](/wiki/Beatmap). Wanneer een nieuwe combo wordt gestart, verandert de kleur van [combo's](/wiki/Beatmapping/Combo) naar de volgende gedefinieerde kleur. De `Nieuwe Combo`-knop kan worden gevonden aan de rechterkant van het `Compose` tabblad in de [beatmap-editor](/wiki/Client/Beatmap_editor).
+**Combo-kleuren** zijn kleuren die helpen om [combo-sets](/wiki/Beatmapping/Combo) van elkaar te onderscheiden. Combo-kleuren worden toegepast op alle [hitobjecten](/wiki/Hit_object) in een [beatmap](/wiki/Beatmap). Wanneer een nieuwe combo wordt gestart, verandert de kleur van [combo's](/wiki/Beatmapping/Combo) naar de volgende gedefinieerde kleur. De `Nieuwe Combo`-knop kan worden gevonden aan de rechterkant van het `Compose`-tabblad in de [beatmap-editor](/wiki/Client/Beatmap_editor).
 
 Het combokleuren is een belangrijk aspect van de vormgeving van een beatmap, omdat het een van de weinige manieren is om de visuele aspecten van een beatmap te veranderen naast [storyboarding](/wiki/Storyboard/Scripting) en [skinning](/wiki/Skinning). Combo-kleuren kunnen worden ingesteld in het Lied Setup paneel met een minimum van 2 en een maximum van 8 combo kleuren. Combo-kleuren die gedefinieerd zijn in een skin zullen alleen worden gebruikt wanneer een mapper geen combo kleuren definieert, of wanneer de speler het overschrijft door hun instellingen.
 
