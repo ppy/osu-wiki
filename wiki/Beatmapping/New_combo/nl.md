@@ -9,7 +9,7 @@ tags:
 
 *Voor andere gebruikswijzes, zie [NC (verwijzing)](/wiki/Disambiguation/NC).*
 
-**Nieuwe combo's** (vaker bekend als *NC's*) markeren het begin van een nieuwe [combo](/wiki/Beatmapping/Combo). Hoe nieuwe combo's zich gedragen tijdens gameplay, hangt af van de momenteel geselecteerde [spelmodi](/wiki/Game_mode). Ze kunnen worden geselecteerd tijdens het [beatmappen](/wiki/Beatmapping) in de [beatmap-editor](/wiki/Client/Beatmap_editor) door op de knop `New Combo`` aan de rechterkant van het `Compose`-tablad te klikken, of door de sneltoets `Q` te gebruiken. Nieuwe combo's zijn een integraal onderdeel van [colourhaxing](/wiki/Beatmapping/Colourhaxing)..
+**Nieuwe combo's** (vaker bekend als *NC's*) markeren het begin van een nieuwe [combo](/wiki/Beatmapping/Combo). Hoe nieuwe combo's zich gedragen tijdens gameplay, hangt af van de momenteel geselecteerde [spelmodi](/wiki/Game_mode). Ze kunnen worden geselecteerd tijdens het [beatmappen](/wiki/Beatmapping) in de [beatmap-editor](/wiki/Client/Beatmap_editor) door op de knop `New Combo`` aan de rechterkant van het `Compose`-tabblad te klikken, of door de sneltoets `Q` te gebruiken. Nieuwe combo's zijn een integraal onderdeel van [colourhaxing](/wiki/Beatmapping/Colourhaxing)..
 
 ## osu!
 
