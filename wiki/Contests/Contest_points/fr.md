@@ -59,12 +59,13 @@ Pour les concours par équipe, les points des elite mapper seront évalués au c
 | :-- | :-- |
 | ::{ flag=TH }:: [**Ph0eNiiXZ**](https://osu.ppy.sh/users/9463721) | **6** |
 | ::{ flag=TH }:: [Kusuhara Yui](https://osu.ppy.sh/users/9582525) | 5 |
-| ::{ flag=SG }:: [_gt](https://osu.ppy.sh/users/8301957) | 4 |
+| ::{ flag=SG }:: [_gt](https://osu.ppy.sh/users/8301957) | 5 |
 | ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719) | 3 |
 | ::{ flag=FI }:: [Jaltzu](https://osu.ppy.sh/users/2597417) | 2 |
 | ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | 2 |
 | ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438) | 2 |
 | ::{ flag=JP }:: [IceOC](https://osu.ppy.sh/users/5482401) | 2 |
+| ::{ flag=KR }:: [ZTH](https://osu.ppy.sh/users/5258461) | 2 |
 | ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097) | 1 |
 | ::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157) | 1 |
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) | 1 |
@@ -74,13 +75,14 @@ Pour les concours par équipe, les points des elite mapper seront évalués au c
 
 | Utilisateur | Points |
 | :-- | :-- |
+| ::{ flag=CA }:: [Unlucky_w](https://osu.ppy.sh/users/4820793) | 5 |
 | ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) | 4 |
-| ::{ flag=CA }:: [Unlucky_w](https://osu.ppy.sh/users/4820793) | 3 |
 | ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) | 3 |
 | ::{ flag=PH }:: [-Rusty](https://osu.ppy.sh/users/16355636) | 2 |
 | ::{ flag=TH }:: [rew0825](https://osu.ppy.sh/users/2488026) | 1 |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | 1 |
 | ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466) | 1 |
+| ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613) | 1 |
 
 ### osu!mania
 
