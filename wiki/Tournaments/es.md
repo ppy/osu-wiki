@@ -1,3 +1,8 @@
+---
+outdated_since: edef8265df7b8534e60d912986ebae79d3835ae9
+outdated_translation: true
+---
+
 # Torneos
 
 Sección dedicada para torneos de osu!. Los torneos tienen su foro dedicado que puede encontrarse [a través de este enlace](https://osu.ppy.sh/community/forums/55).
@@ -44,6 +49,7 @@ Torneos oficiales organizados por el osu! team.
 | [osu!taiko World Cup 2021](TWC/2021) | 6/3/2021 | 11/4/2021 | ::{ flag=JP }:: Japón | ::{ flag=KR }:: Corea del Sur | ::{ flag=BR }:: Brasil |
 | [osu!taiko World Cup 2022](TWC/2022) | 12/3/2022 | 24/4/2022 | ::{ flag=JP }:: Japón | ::{ flag=KR }:: Corea del Sur | ::{ flag=ID }:: Indonesia |
 | [osu!taiko World Cup 2023](TWC/2023) | 18/3/2023 | 30/4/2023 | ::{ flag=JP }:: Japón | ::{ flag=TW }:: Taiwán | ::{ flag=DE }:: Alemania |
+| [osu!taiko World Cup 2024](TWC/2024) | 16/3/2024 | 28/4/2024 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch World Cup
 
@@ -83,7 +89,7 @@ Torneos oficiales organizados por el osu! team.
 | [osu!mania 4K World Cup 2022](MWC/2022_4K) | 7/7/2022 | 18/9/2022 | ::{ flag=KR }:: Corea del Sur | ::{ flag=BR }:: Brasil | ::{ flag=US }:: Estados Unidos |
 | [osu!mania 7K World Cup 2023](MWC/2023_7K) | 15/12/2022 | 18/2/2023 | ::{ flag=PH }:: Filipinas | ::{ flag=KR }:: Corea del Sur | ::{ flag=MY }:: Malasia |
 | [osu!mania 4K World Cup 2023](MWC/2023_4K) | 13/7/2023 | 24/9/2023 | ::{ flag=US }:: Estados Unidos | ::{ flag=KR }:: Corea del Sur | ::{ flag=ID }:: Indonesia |
-| [osu!mania 7K World Cup 2024](MWC/2024_7K) | 15/12/2023 | 25/2/2023 | *TBD* | *TBD* | *TBD* |
+| [osu!mania 7K World Cup 2024](MWC/2024_7K) | 15/12/2023 | 25/2/2024 | *TBD* | *TBD* | *TBD* |
 
 ## Comunidad
 
@@ -151,6 +157,13 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | CES League osu! Tournament | 2/12/2019 | 19/1/2020 | ;w; | kirundy | TeamNameIn1v1Xd |
 | [CES League osu! Tournament 2](CES/CES2) | 1/5/2020 | 16/8/2020 | Woopak | MissClick324 | Thymue |
+
+#### COE 1v1 Tournament
+
+| Nombre | Inicio | Final | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [COE 1v1 Tournament 2022](COE/COE_2022) | 17/1/2022 | 17/2/2022 | ::{ flag=DE }:: okinamo | ::{ flag=GB }:: Malteser | ::{ flag=DK }:: cat burger |
+| [COE 1v1 Tournament 2023](COE/COE_2023) | 14/7/2023 | 5/8/2023 | ::{ flag=DE }:: criller | ::{ flag=KR }:: FlyingTuna | ::{ flag=DK }:: cat burger |
 
 #### Coffee Hispanic
 
@@ -622,6 +635,8 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | [Catch the Beat Indonesia Cup 2019](CIC/2019) | 18/8/2019 | 13/10/2019 | ::{ flag=ID }:: [Deceitful](https://osu.ppy.sh/users/1396447) | ::{ flag=ID }:: [Galaxi](https://osu.ppy.sh/users/2552435) | ::{ flag=ID }:: [Nana Hiragi](https://osu.ppy.sh/users/13377985) |
 | [Catch the Beat Indonesia Cup 2020](CIC/2020) | 10/7/2020 | 6/9/2020 | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361) | ::{ flag=ID }:: [dika312](https://osu.ppy.sh/users/741613) | ::{ flag=ID }:: [Galaxi](https://osu.ppy.sh/users/2552435) |
 | [Catch the Beat Indonesia Cup 2021](CIC/2021) | 1/6/2021 | 1/8/2021 | ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613) | ::{ flag=ID }:: [CamXDanna](https://osu.ppy.sh/users/3243148) | ::{ flag=ID }:: [Nekuro](https://osu.ppy.sh/users/3222638) |
+| [Catch the Beat Indonesia Cup 2022](CIC/2022) | 4/3/2022 | 10/4/2022 | ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613) | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361) | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) |
+| [Catch the Beat Indonesia Cup 2023](CIC/2023) | 15/7/2023 | 27/8/2023 | ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580) | ::{ flag=TH }:: [EzyS](https://osu.ppy.sh/users/EzyS) | ::{ flag=ID }:: [Keita](https://osu.ppy.sh/users/3355617) |
 
 #### Indonesia Convert Cup
 
@@ -648,6 +663,12 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | Nombre | Inicio | Final | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu!catch Convert Cup](o!cCC/1) | 21/9/2019 | 3/11/2019 | ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210) | ::{ flag=IT }:: [Karym](https://osu.ppy.sh/users/5220794) | ::{ flag=CL }:: [NachoL](https://osu.ppy.sh/users/1250096) |
+
+#### osu!catch Convert Cup Open
+
+| Nombre | Inicio | Final | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu!catch Convert Cup Open 2023](o!cCO/2023) | 20/11/2023 | 22/01/2024 | Korean PC (::{ flag=US }:: [Dahcreeper](https://osu.ppy.sh/users/6926006), ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626), ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520)) | converts ec (::{ flag=IT }:: [ArMa79](https://osu.ppy.sh/users/4982799), ::{ flag=CN }:: [- N a g i -](https://osu.ppy.sh/users/2956936), ::{ flag=PH }:: [Roido](https://osu.ppy.sh/users/6829103)) | CTB RAIMON (::{ flag=CA }:: [Katsuragi](https://osu.ppy.sh/users/3616480), ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877), ::{ flag=CL }:: [Aryssiel](https://osu.ppy.sh/users/2389481)) |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 

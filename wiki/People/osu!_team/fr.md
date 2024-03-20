@@ -41,11 +41,12 @@ Les personnes listées ci-dessous constituent le cœur de **l'osu! team** et son
 | ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | Développeur de l'osu!web |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [Modérateur](/wiki/People/Global_Moderation_Team), conseiller en modding et mapping de scènes |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Hôte de la [chaîne YouTube osu!](https://www.youtube.com/@osugame), organisateur de la [Mappers' Guild](/wiki/Community/Mappers_Guild), soutien au projet [Featured Artist](/wiki/People/Featured_Artists) |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Leader des [NAT](/wiki/People/Nomination_Assessment_Team) |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Conseiller en modding et mapping de scènes |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [Modérateur](/wiki/People/Global_Moderation_Team), [mainteneur du wiki](/wiki/People/osu!_wiki_maintainers) |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Intendant général |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | Développeur d'osu!, amoureux d'osu!mania, chasseur de bugs |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Développeur d'osu! |
+| ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | Designer |
 | ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) | développeur d'infrastructure d'osu! |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Intendant général, support aux tournois |
 | ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | Intendant général, balai-brosse |

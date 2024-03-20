@@ -1,6 +1,7 @@
 # Criterios de clasificación
 
-*Para los criterios de clasificación específicos de los [modos de juego](/wiki/Game_mode), véase: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch) y [osu!mania](osu!mania)*
+*Para los criterios de clasificación específicos de los [modos de juego](/wiki/Game_mode), véase: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch) y [osu!mania](osu!mania)*\
+*Para una versión simplificada de los criterios de clasificación, véase: [Criterios de clasificación simplificados](Simplified_ranking_criteria)*
 
 Este conjunto de **criterios de clasificación** establece [reglas y pautas](#términos-generales) que los [beatmaps](/wiki/Beatmap) deben seguir para progresar en el [procedimiento de clasificación de beatmaps](/wiki/Beatmap_ranking_procedure).
 

@@ -59,7 +59,7 @@ The team leaders will confront inactive NAT members, or members who fail to prov
 
 ## Benefits
 
-**See also: [Departure from the NAT](#departure-from-the-nat)**
+*See also: [Departure from the NAT](#departure-from-the-nat)*
 
 NAT members are granted the following benefits:
 
@@ -96,19 +96,20 @@ Former NAT members who currently have internal access are:
 
 - ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083)
 - ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342)
+- ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
+- ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926)
 
 ## NAT Leadership
 
-As of March 2023, the NAT has decided to re-adopt the concept of leadership, which was [previously used](/wiki/People/Quality_Assurance_Team/QAT_Leaders) in the [QAT](/wiki/People/Quality_Assurance_Team). NAT leaders have the combined responsibility of both evaluation and structural categories so they can watch over and stay involved with every aspect of the NAT.
+As of March 2023, the NAT has decided to re-adopt the concept of leadership, which was [previously used](/wiki/People/Quality_Assurance_Team/QAT_Leaders) in the [QAT](/wiki/People/Quality_Assurance_Team). The NAT leader has the combined responsibility of both evaluation and structural categories so they can watch over and stay involved with every aspect of the NAT.
 
-The current NAT leaders are:
+The current NAT leader is:
 
 - ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
-- ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
 
 ### Responsibilities
 
-NAT leaders aim to cover the following tasks:
+The NAT leader aims to cover the following tasks:
 
 - **Activity management:** Constantly monitoring the activity of other NAT members and handling cases of low activity, either through regular checkups or through exit interviews, in case of activity issues regarding certain members.
 - **Communication:**
@@ -133,7 +134,6 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | :-- | :-- |
 | ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Russian |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonese, Chinese |
-| ::{ flag=GB }:: [ckharv](https://osu.ppy.sh/users/9967026) | Cantonese, Chinese |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portuguese, Spanish |
 | ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Dutch |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | German |
@@ -183,7 +183,6 @@ The following NAT members are exclusively responsible for structural tasks, and 
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Handling internal discussions, affairs, and documentation |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | [Aiess](https://github.com/Naxesss/Aiess) and [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) maintenance |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [BN Management website](https://bn.mappersguild.com) development |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | NAT leadership |
 
 The following NAT members are primarily evaluators, but also contribute to structural tasks:
 

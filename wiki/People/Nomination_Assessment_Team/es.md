@@ -1,6 +1,7 @@
 ---
 tags:
   - NAT
+  - equipo de evaluación de nominaciones
 ---
 
 # Nomination Assessment Team
@@ -59,7 +60,7 @@ Los líderes del equipo se enfrentarán a los miembros del NAT inactivos o a los
 
 ## Beneficios
 
-**Véase también: [Salida del NAT](#salida-del-nat)**
+*Véase también: [Salida del NAT](#salida-del-nat)*
 
 Los miembros del NAT reciben los siguientes beneficios:
 
@@ -96,19 +97,20 @@ Los antiguos miembros del NAT que actualmente tienen acceso interno son:
 
 - ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083)
 - ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342)
+- ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
+- ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926)
 
 ## Liderazgo del NAT
 
-A partir de marzo de 2023, el NAT decidió volver a adoptar el concepto de liderazgo, que [se usaba anteriormente](/wiki/People/Quality_Assurance_Team/QAT_Leaders) en el [QAT](/wiki/People/Quality_Assurance_Team). Los líderes del NAT tienen la responsabilidad combinada de las categorías de evaluación y estructura para que puedan vigilar y mantenerse involucrados en todos los aspectos del NAT.
+A partir de marzo de 2023, el NAT decidió volver a adoptar el concepto de liderazgo, que [se usaba anteriormente](/wiki/People/Quality_Assurance_Team/QAT_Leaders) en el [QAT](/wiki/People/Quality_Assurance_Team). El líder del NAT tiene la responsabilidad de ambas categorías, la de evaluación y la de estructural, por lo que puede supervisar y participar en todos los aspectos del NAT.
 
-Los líderes del NAT actuales son:
+El líder del NAT actual es:
 
 - ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
-- ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
 
 ### Responsabilidades
 
-Los líderes del NAT tienen como objetivo cubrir las siguientes tareas:
+El líder del NAT tiene como objetivo cubrir las siguientes tareas:
 
 - **Gestión de actividad:** Monitorear constantemente la actividad de otros miembros del NAT y manejar casos de baja actividad, ya sea a través de controles regulares o mediante entrevistas de salida, en caso de problemas de actividad con respecto a ciertos miembros.
 - **Comunicación:**
@@ -129,8 +131,8 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
+| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Ruso |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonés, chino |
-| ::{ flag=GB }:: [ckharv](https://osu.ppy.sh/users/9967026) | Cantonés, chino |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portugués, español |
 | ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Neerlandés |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Alemán |
@@ -140,9 +142,7 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
 | ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Chino, cantonés |
 | ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Chino |
-| ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  |
 | ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | Español, francés |
-| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Neerlandés |
 
 #### osu!taiko
 
@@ -182,7 +182,6 @@ Los siguientes miembros del NAT son exclusivamente responsables de las tareas es
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Manejo de discusiones internas, asuntos y documentación |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Mantenimiento de [Aiess](https://github.com/Naxesss/Aiess) y [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Desarrollo del [sitio web de gestión de los BN](https://bn.mappersguild.com) |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Liderazgo del NAT |
 
 Los siguientes miembros del NAT son principalmente evaluadores, pero también contribuyen a tareas estructurales:
 
@@ -196,7 +195,6 @@ Los siguientes miembros del NAT son principalmente evaluadores, pero también co
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | Organización de eventos para BN |
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Desarrollo del [plugin de MV de osu!mania](https://github.com/MChecaH/ManiaCheck) |
 | ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | Desarrollo del [plugin de MV de osu!mania](https://github.com/MChecaH/ManiaCheck) |
-| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Manejo de reportes de usuarios |
 
 ---
 

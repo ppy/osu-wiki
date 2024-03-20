@@ -6,38 +6,16 @@ Esta página documenta diferencias que afectan la jugabilidad en osu!(lazer).
 
 ## General
 
-### La reproducción de sonido acelera y desacelera al pausar y despausar
-
-Esto hace que sea más difícil continuar desde una pausa en medio de un juego activo, evitando hasta cierto punto el abuso de las pausas.
-
-|  |  |
-| :-- | :-: |
-| Daña la retrocompatibilidad | No |
-| Soporte para revertirlo con el mod Classic | No |
-| Cambiado intencionalmente | Sí |
-| Necesita más consideración | Sí |
-
 ### El mod Easy ya no pausa la partida al recuperarse de fallar
 
 En lugar de detener el juego mientras se llena la barra de salud, la salud se recupera inmediatamente.
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | No |
-| Soporte para revertirlo con el mod Classic | No |
-| Cambiado intencionalmente | No |
-| Necesita más consideración | Sí |
-
-### El sistema de salud es diferente
-
-Esto se debe principalmente a los cambios realizados al sistema de juicio. Por ejemplo, los juicios Geki y Katu no existen en lazer, lo cual afectaba la salud en stable.
-
-|  |  |
-| :-- | :-: |
-| Daña la retrocompatibilidad | Sí |
-| Soporte para revertirlo con el mod Classic | Sí |
-| Cambiado intencionalmente | Sí |
-| Necesita más consideración | Sí |
+| Daña la retrocompatibilidad | ![No][false] |
+| Reversible usando el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![No][false] |
+| Necesita más consideración | ![Sí][true] |
 
 ### Todos los modos de juego, a excepción de osu!catch, usan el mismo sistema de grados
 
@@ -53,20 +31,20 @@ En stable, los requisitos de precisión (y juicio) para cada [grado](/wiki/Gamep
 
 Mientras tanto, osu!(lazer) ahora tiene los siguientes requisitos:
 
-| Grado | osu! / osu!taiko / osu!mania | osu!catch |
-| :-: | :-- | :-- |
-| SS | 100 % | 100 % |
-| S | ≥95 % | ≥98 % |
-| A | ≥90 % | ≥94 % |
-| B | ≥80 % | ≥90 % |
-| C | ≥70 % | ≥85 % |
+| Grado | osu! / osu!taiko | osu!mania | osu!catch |
+| :-: | :-- | :-- | :-- |
+| SS | 100 % | 100 % | 100 % |
+| S | ≥95 % (sin fallos) | ≥95 % | ≥98 % |
+| A | ≥90 % | ≥90 % | ≥94 % |
+| B | ≥80 % | ≥80 % | ≥90 % |
+| C | ≥70 % | ≥70 % | ≥85 % |
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | Sí |
-| Soporte para revertirlo con el mod Classic | No |
-| Cambiado intencionalmente | Sí |
-| Necesita más consideración | Sí |
+| Daña la retrocompatibilidad | ![Sí][true] |
+| Reversible usando el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![Sí][true] |
+| Necesita más consideración | ![No][false] |
 
 ### Los cálculos de los límites de las ventanas de tiempo no coinciden con stable
 
@@ -80,10 +58,10 @@ Cuando un golpe aterriza justo en el límite de la ventana de tiempo, se puede r
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | Sí |
-| Soporte para revertirlo con el mod Classic | No |
-| Cambiado intencionalmente | Sí |
-| Necesita más consideración | Sí |
+| Daña la retrocompatibilidad | ![Sí][true] |
+| Reversible usando el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![Sí][true] |
+| Necesita más consideración | ![Sí][true] |
 
 ### Diferencias en el sistema de puntuación
 
@@ -95,10 +73,10 @@ También hay algunas diferencias en cuanto a la puntuación de cada objeto y jui
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | Sí |
-| Soporte para revertirlo con el mod Classic | No |
-| Cambiado intencionalmente | Sí |
-| Necesita más consideración | Sí |
+| Daña la retrocompatibilidad | ![Sí][true] |
+| Reversible usando el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![Sí][true] |
+| Necesita más consideración | ![Sí][true] |
 
 ### Los elementos no están implementados en los storyboards
 
@@ -116,10 +94,10 @@ Recuperarse de un fallo en patrones densos ahora es más fácil.
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | Sí |
-| Soporte para revertirlo con el mod Classic | Sí |
-| Cambiado intencionalmente | Sí |
-| Necesita más consideración | No |
+| Daña la retrocompatibilidad | ![Sí][true] |
+| Reversible usando el mod Classic | ![Sí][true] |
+| Cambiado intencionalmente | ![Sí][true] |
+| Necesita más consideración | ![No][false] |
 
 ### Los slider head requieren precisión al golpear
 
@@ -129,10 +107,42 @@ Hasta la llegada de lazer, los sliders requerían como mínimo la precisión de 
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | Sí |
-| Soporte para revertirlo con el mod Classic | Sí |
-| Cambiado intencionalmente | Sí |
-| Necesita más consideración | No |
+| Daña la retrocompatibilidad | ![Sí][true] |
+| Reversible usando el mod Classic | ![Sí][true] |
+| Cambiado intencionalmente | ![Yes][true] |
+| Necesita más consideración | ![No][false] |
+
+### Los slider head son más permisivos
+
+Al hacer clic en un slider antes de tiempo, el círculo de seguimiento ahora comenzará inmediatamente en un estado de seguimiento incluso si el cursor abandona la bola del slider antes de que comience el slider.
+
+![](img/slider-early-leniency.gif)
+
+Además, al hacer clic tarde en un slider, cualquier marca o repetidor que ya haya pasado se considerará completado.
+
+![](/wiki/shared/news/2023-12-18-osulazer-updates-preparing-for-ranked-play/slider-late-leniency.jpg)
+
+Véase [este vídeo de YouTube](https://www.youtube.com/watch?v=xTRwM3zhhj0&t=243s) para obtener una explicación detallada.
+
+|  |  |
+| :-- | :-: |
+| Daña la retrocompatibilidad | ![Sí][true] |
+| Reversible usando el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![Sí][true] |
+| Necesita más consideración | ![No][false] |
+
+### La tolerancia de los slider end es ahora más permisiva
+
+En sliders muy rápidos, ahora solo es necesario realizar el seguimiento en algún punto de los últimos 36 ms, en lugar de hacerlo desde los 36 ms antes del final del slider.
+
+Véase [este vídeo de YouTube](https://www.youtube.com/watch?v=SlWKKA-ltZY) para obtener una explicación detallada.
+
+|  |  |
+| :-- | :-: |
+| Daña la retrocompatibilidad | ![Sí][true] |
+| Reversible usando el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![Sí][true] |
+| Necesita más consideración | ![No][false] |
 
 ### Fallar un slider head ocasiona un fallo
 
@@ -142,10 +152,10 @@ En lazer, no golpear un slider head dará un juicio de MISS para el slider compl
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | Sí |
-| Soporte para revertirlo con el mod Classic | No |
-| Cambiado intencionalmente | Sí |
-| Necesita más consideración | No |
+| Daña la retrocompatibilidad | ![Sí][true] |
+| Reversible usando el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![Sí][true] |
+| Necesita más consideración | ![No][false] |
 
 ### Los slider ends no ocasionan un hitsound cuando no se golpean
 
@@ -153,10 +163,10 @@ En stable, los slider ends reproducían su respectivo hitsound aunque se fallara
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | No |
-| Soporte para revertirlo con el mod Classic | Sí |
-| Cambiado intencionalmente | Sí |
-| Necesita más consideración | No |
+| Daña la retrocompatibilidad | ![No][false] |
+| Reversible usando el mod Classic | ![Sí][true] |
+| Cambiado intencionalmente | ![Sí][true] |
+| Necesita más consideración | ![No][false] |
 
 ### Se ha eliminado el límite de velocidad de 477 RPM en los giros de los spinners
 
@@ -174,10 +184,10 @@ La cantidad requerida de RPM para obtener la máxima puntuación se muestra a co
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | Sí |
-| Soporte para revertirlo con el mod Classic | No |
-| Cambiado intencionalmente | Sí |
-| Necesita más consideración | Sí |
+| Daña la retrocompatibilidad | ![Sí][true] |
+| Reversible usando el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![Sí][true] |
+| Necesita más consideración | ![Sí][true] |
 
 ### Los sliders de estilo Aspire no son soportados
 
@@ -189,10 +199,10 @@ Se necesitará de más discusión y consideración sobre cuántos beatmaps Aspir
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | Sí |
-| Soporte para revertirlo con el mod Classic | No |
-| Cambiado intencionalmente | No |
-| Necesita más consideración | Sí |
+| Daña la retrocompatibilidad | ![Sí][true] |
+| Reversible usando el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![No][false] |
+| Necesita más consideración | ![Sí][true] |
 
 ## osu!taiko
 
@@ -202,10 +212,10 @@ Algunos mapas con trucos hacen uso de notas que se superponen.
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | Sí |
-| Soporte para revertirlo con el mod Classic | No |
-| Cambiado intencionalmente | No |
-| Necesita más consideración | No |
+| Daña la retrocompatibilidad | ![Sí][true] |
+| Reversible usando el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![No][false] |
+| Necesita más consideración | ![No][false] |
 
 ### Los tambores no evitan el machacado
 
@@ -213,10 +223,10 @@ En stable, los tambores no podrían ser golpeados muy rápida o lentamente. Esta
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | Sí |
-| Soporte para revertirlo con el mod Classic | No |
-| Cambiado intencionalmente | Sí |
-| Necesita más consideración | Sí |
+| Daña la retrocompatibilidad | ![Sí][true] |
+| Reversible usando el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![Sí][true] |
+| Necesita más consideración | ![Sí][true] |
 
 ### El centro del mod Flashlight está alineado con el receptor de golpe
 
@@ -224,10 +234,10 @@ En stable, el centro del mod Flashlight está ligeramente desalineado hacia abaj
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | No |
-| Soporte para revertirlo con el mod Classic | No |
-| Cambiado intencionalmente | No |
-| Necesita más consideración | Sí |
+| Daña la retrocompatibilidad | ![No][false] |
+| Reversible usando el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![No][false] |
+| Necesita más consideración | ![Sí][true] |
 
 ## osu!catch
 
@@ -237,10 +247,10 @@ Esto puede ocasionar juicios imprecisos en las repeticiones y un aumento en la d
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | Sí |
-| Soporte para revertirlo con el mod Classic | No |
-| Cambiado intencionalmente | No |
-| Necesita más consideración | Sí |
+| Daña la retrocompatibilidad | ![Sí][true] |
+| Reversible usando el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![No][false] |
+| Necesita más consideración | ![Sí][true] |
 
 ### La aparición de la corriente de jugo puede ser diferente en algunos casos
 
@@ -248,10 +258,10 @@ Esto puede ocasionar juicios imprecisos en las repeticiones.
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | Sí |
-| Soporte para revertirlo con el mod Classic | No |
-| Cambiado intencionalmente | No |
-| Necesita más consideración | Sí |
+| Daña la retrocompatibilidad | ![Sí][true] |
+| Reversible usando el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![No][false] |
+| Necesita más consideración | ![Sí][true] |
 
 ## osu!mania
 
@@ -261,23 +271,23 @@ Esto funciona de manera similar a ScoreV2 en stable.
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | Sí |
-| Soporte para revertirlo con el mod Classic | No |
-| Cambiado intencionalmente | Sí |
-| Necesita más consideración | No |
+| Daña la retrocompatibilidad | ![Sí][true] |
+| Reversible usando el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![Sí][true] |
+| Necesita más consideración | ![No][false] |
 
-### Las marcas de las notas largas dan puntos y ocasionan roturas de combo
+### Las marcas de las notas largas se eliminan
 
-En stable, soltar el botón en medio del cuerpo de una nota larga rompería el combo inmediatamente, pero ahora solo se rompe el combo al fallar la marca de una nota larga.
+En stable, las notas largas dan un combo cada 100 ms, mientras que en lazer «las marcas de las notas largas» daban un combo cada intervalo de una marca.
 
-Esto permite hacer trampa (o «manipular») al permitir el «wrist-jacking» cuando, de otro modo, sería necesario un «finger-jacking» con otro dedo sujetado.
+Nada de eso existe en lazer, lo que significa que las notas largas solo dan combo en el inicio y el final. Sin embargo, al igual que en stable, los combos se rompen inmediatamente al soltar los sliders.
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | Sí |
-| Soporte para revertirlo con el mod Classic | No |
-| Cambiado intencionalmente | Sí |
-| Necesita más consideración | Sí |
+| Daña la retrocompatibilidad | ![Sí][true] |
+| Reversible usando el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![Sí][true] |
+| Necesita más consideración | ![No][false] |
 
 ### Las velocidades de desplazamiento extremas están limitadas
 
@@ -285,10 +295,10 @@ Algunos beatmaps con trucos de SV, como teletransportes o detenimientos, no tien
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | No |
-| Soporte para revertirlo con el mod Classic | No |
-| Cambiado intencionalmente | Sí |
-| Necesita más consideración | Sí |
+| Daña la retrocompatibilidad | ![No][false] |
+| Reversible usando el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![Sí][true] |
+| Necesita más consideración | ![Sí][true] |
 
 ### La ventana de tiempo para los juicios PERFECT escala con el OD
 
@@ -296,10 +306,10 @@ Esto solía resultar en ±16 ms constantes independientemente de la dificultad g
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | Sí |
-| Soporte para revertirlo con el mod Classic | No |
-| Cambiado intencionalmente | Sí |
-| Necesita más consideración | ¿No? |
+| Daña la retrocompatibilidad | ![Sí][true] |
+| Reversible usando el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![Sí][true] |
+| Necesita más consideración | ![No][false] |
 
 ### Los beatmaps convertidos ya no tienen una ventana de tiempo diferente
 
@@ -307,10 +317,10 @@ En stable, los beatmaps convertidos desde el modo de juego osu! a osu!mania ten�
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | Sí |
-| Soporte para revertirlo con el mod Classic | No |
-| Cambiado intencionalmente | Sí |
-| Necesita más consideración | ¿No? |
+| Daña la retrocompatibilidad | ![Sí][true] |
+| Reversible usando el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![Sí][true] |
+| Necesita más consideración | ![No][false] |
 
 ### El mod Flashlight no tiene degradado
 
@@ -318,7 +328,10 @@ En stable, los beatmaps convertidos desde el modo de juego osu! a osu!mania ten�
 
 |  |  |
 | :-- | :-: |
-| Daña la retrocompatibilidad | No |
-| Soporte para revertirlo con el mod Classic | No |
-| Cambiado intencionalmente | No |
-| Necesita más consideración | Sí |
+| Daña la retrocompatibilidad | ![No][false] |
+| Reversible usando el mod Classic | ![No][false] |
+| Cambiado intencionalmente | ![No][false] |
+| Necesita más consideración | ![Sí][true] |
+
+[true]: /wiki/shared/true.png
+[false]: /wiki/shared/false.png

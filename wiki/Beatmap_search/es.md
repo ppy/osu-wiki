@@ -1,6 +1,4 @@
 ---
-outdated_since: 90681ed55cd6b445404dda6ac60d196e1a3549ba
-outdated_translation: true
 tags:
   - find beatmaps
   - filter beatmaps
@@ -24,7 +22,7 @@ Los campos de metadatos de beatmaps se pueden comparar con valores específicos 
 
 | Comparación | Descripción |
 | :-: | :-- |
-| `=` o `==` | Igual que |
+| `=` (en todos lados), `==` (en stable), `:` (en lazer y el sitio web) | Igual que |
 | `!=` | No igual que |
 | `<` | Menor que |
 | `>` | Mayor que |
@@ -33,7 +31,7 @@ Los campos de metadatos de beatmaps se pueden comparar con valores específicos 
 
 ## Cliente
 
-*Nota: los filtros solo funcionan en la pantalla de selección de canciones, mientras que osu!direct admite la búsqueda normal de texto completo.*
+*Nota: Los filtros solo funcionan en la pantalla del selector de canciones, mientras que [osu!direct](/wiki/osu!supporter#osu!direct) solo admite la búsqueda normal de texto completo.*
 
 | Filtro | Descripción |
 | :-: | :-- |
@@ -53,7 +51,7 @@ Los campos de metadatos de beatmaps se pueden comparar con valores específicos 
 | `mode` | Modo de juego. El valor puede ser uno de `osu`, `taiko`, `catch` o `mania`, o `o`/`t`/`c`/`m` para abreviar. |
 | `status` | Estado del beatmap. El valor puede ser `ranked`, `approved`, `pending`, `notsubmitted`, `unknown` o `loved`, o `r`/`a`/`p`/`n`/`u`/`l` para abreviar. |
 | `played` | Tiempo desde la última partida en días |
-| `unplayed` | Mostrar solo mapas no jugados. Se debe utilizar una comparación sin valor establecido (p. ej. `unplayed=`). La comparación en sí se ignora. |
+| `unplayed` | Mostrar solo mapas no jugados. Este filtro no debe tener ningún valor para que tenga efecto (`unplayed=`). El operador de comparación en sí puede ser cualquier cosa (p. ej. `unplayed=`, `unplayed>` y `unplayed!=` hacen lo mismo). |
 | `speed` | Velocidad de desplazamiento de osu!mania guardada. La velocidad de desplazamiento siempre es 0 para mapas no jugados o si la opción [`Recordar la velocidad de desplazamiento de cada mapa en osu!mania`](/wiki/Client/Options#juego) está desactivada. |
 
 ## Sitio web[^website-filters]
@@ -61,6 +59,8 @@ Los campos de metadatos de beatmaps se pueden comparar con valores específicos 
 | Filtro | Descripción |
 | :-: | :-- |
 | `artist` | Nombre del artista |
+| `title` | Nombre de la canción |
+| `source` | El medio, como un videojuego, película, serie o evento, en el que se originó la canción o con el que mejor se asocia |
 | `featured_artist` | Identificador de la entrada del [artista destacado](/wiki/People/Featured_Artists) |
 | `creator` | Nombre del creador de la dificultad |
 | `ar` | [Velocidad de aproximación](/wiki/Beatmap/Approach_rate) |
@@ -83,7 +83,7 @@ Los campos de metadatos de beatmaps se pueden comparar con valores específicos 
 | `artist` | Nombre del artista |
 | `title` | Nombre de la canción |
 | `creator` | Nombre del creador de la dificultad |
-| `difficulty` | Nombre de la dificultad del beatmap |
+| `diff` | Nombre de la dificultad del beatmap |
 | `ar` | [Velocidad de aproximación](/wiki/Beatmap/Approach_rate) |
 | `cs` | [Tamaño del círculo](/wiki/Beatmap/Circle_size) |
 | `od` | [Dificultad general](/wiki/Beatmap/Overall_difficulty) |
@@ -93,6 +93,8 @@ Los campos de metadatos de beatmaps se pueden comparar con valores específicos 
 | `length` | [Tiempo de juego](/wiki/Beatmap/Play_time) en segundos |
 | `key`, `keys` | Número de teclas (solo osu!mania y beatmaps convertidos) |
 | `status` | Estado del beatmap. El valor puede ser `ranked`, `approved`, `pending`, `notsubmitted`, `unknown` o `loved`, o `r`/`a`/`p`/`n`/`u`/`l` para abreviar. |
+| `played`, `lastplayed` | Tiempo desde la última vez que jugó un beatmap. Acepta un formato de `#y#M#d#h#m#s`, para años, meses, días, horas, minutos y segundos respectivamente. Por ejemplo, `2d5s` significa «2 días y 5 segundos». |
+| `divisor` | El denominador del [divisor de ritmo](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
 
 ## Búsquedas de ejemplo
 
@@ -120,7 +122,19 @@ unplayed= status=r christmas
 ranked>=2010-08 ranked<2010-11 creator=Natteke
 ```
 
+(Lazer) Encuentra las dificultades de los beatmaps que se han jugado hace menos de 2 meses y 5 horas:
+
+```
+played<2M5h
+```
+
+(Lazer) Encuentra las dificultades de los beatmaps que no se hayan jugado en el último año:
+
+```
+lastplayed>1y
+```
+
 ## Referencias
 
-[^website-filters]: [Código fuente de osu!web](https://github.com/ppy/osu-web/blob/a61a75f016eb1cac61e3c4da5e472a31e9ed57b0/app/Libraries/Search/BeatmapsetQueryParser.php)
-[^lazer-filters]: [Código fuente de osu!(lazer)](https://github.com/ppy/osu/blob/270c03235d280ccca3aecea776fb9517635ed695/osu.Game/Screens/Select/FilterQueryParser.cs)
+[^website-filters]: [Código fuente de osu!web](https://github.com/ppy/osu-web/blob/c1a5dc390634accc87c12cb2cead73c45d8e7ad5/app/Libraries/Search/BeatmapsetQueryParser.php)
+[^lazer-filters]: [Código fuente de osu!(lazer)](https://github.com/ppy/osu/blob/ae9a2661ace43a96a4fbf26072ed3efd0dc0ba54/osu.Game/Screens/Select/FilterQueryParser.cs)
