@@ -40,11 +40,11 @@ Hard Rock Showdown is run by various community members.
 | :-- | :-- |
 | Manager | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) |
 | Mappool selector | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=GB }:: [lystia](https://osu.ppy.sh/users/11042418) |
-| Mappool playtester | ::{ flag=CA }:: [alden](https://osu.ppy.sh/users/3545323), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=CA }:: [nanawo](https://osu.ppy.sh/users/5426640) |
+| Mappool playtester | ::{ flag=CA }:: [alden](https://osu.ppy.sh/users/3545323), ::{ flag=US }:: [Belladonna](https://osu.ppy.sh/users/11758404), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=CA }:: [nanawo](https://osu.ppy.sh/users/5426640), ::{ flag=CA }:: [rayuii](https://osu.ppy.sh/users/6304246), ::{ flag=US }:: [tekkito](https://osu.ppy.sh/users/7075211), ::{ flag=CA }:: [Yip](https://osu.ppy.sh/users/5177569) |
 | Mapper | *TBD* |
 | Commentator | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189), ::{ flag=AU }:: [Vordi](https://osu.ppy.sh/users/6659116) |
 | Streamer | ::{ flag=KR }:: [Fuvell](https://osu.ppy.sh/users/10220343), ::{flag=AR}:: [Keyz](https://osu.ppy.sh/users/10408325), ::{ flag=US }:: [ROB\_](https://osu.ppy.sh/users/12455868) |
-| Referee | ::{ flag=US }:: [AccNome](https://osu.ppy.sh/users/10976433), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=DE }:: [Beuto](https://osu.ppy.sh/users/15115857), ::{ flag=RO }:: [BeZonaurul](https://osu.ppy.sh/users/11068604), ::{ flag=FR }:: [Emezys](https://osu.ppy.sh/users/5054244), ::{ flag=PE }:: [ERA Xuste](https://osu.ppy.sh/users/17989444), ::{ flag=GB }:: [pericrayola](https://osu.ppy.sh/users/31184671), ::{ flag=US }:: [ROB\_](https://osu.ppy.sh/users/12455868), ::{ flag=FR }:: [Sohlayce](https://osu.ppy.sh/users/17649736), ::{ flag=GB }:: [Spunout](https://osu.ppy.sh/users/9620860), ::{ flag=IN }:: [TsukiUwU](https://osu.ppy.sh/users/14926905), ::{ flag=US }:: [vleth](https://osu.ppy.sh/users/18556796), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
+| Referee | ::{ flag=US }:: [AccNome](https://osu.ppy.sh/users/10976433), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=DE }:: [Beuto](https://osu.ppy.sh/users/15115857), ::{ flag=RO }:: [BeZonaurul](https://osu.ppy.sh/users/11068604), ::{ flag=FR }:: [Emezys](https://osu.ppy.sh/users/5054244), ::{ flag=PE }:: [ERA Xuste](https://osu.ppy.sh/users/17989444), ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731), ::{ flag=GB }:: [pericrayola](https://osu.ppy.sh/users/31184671), ::{ flag=US }:: [ROB\_](https://osu.ppy.sh/users/12455868), ::{ flag=FR }:: [Sohlayce](https://osu.ppy.sh/users/17649736), ::{ flag=DE }:: [Spunout](https://osu.ppy.sh/users/9620860), ::{ flag=IN }:: [TsukiUwU](https://osu.ppy.sh/users/14926905), ::{ flag=US }:: [vleth](https://osu.ppy.sh/users/18556796), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
 | Technical | ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
 | Designer | ::{ flag=CA }:: [kaetwo](https://osu.ppy.sh/users/1997719) |
 
@@ -56,11 +56,71 @@ Hard Rock Showdown is run by various community members.
 - [Livestream](https://www.twitch.tv/ChillierPear)
 - [Challonge bracket](https://challonge.com/HRS2024)
 
+## Participants
+
+|  | Seed | Participant |
+| :-: | :-: | :-- |
+| ::{ flag=PL }:: | **1** | **[maliszewski](https://osu.ppy.sh/users/12408961)** |
+| ::{ flag=HK }:: | **2** | **[mcy4](https://osu.ppy.sh/users/2165650)** |
+| ::{ flag=CA }:: | **3** | **[his kitten](https://osu.ppy.sh/users/3717598)** |
+| ::{ flag=KR }:: | **4** | **[Amamya Kokoro](https://osu.ppy.sh/users/2511839)** |
+| ::{ flag=RU }:: | **5** | **[Welter](https://osu.ppy.sh/users/11552867)** |
+| ::{ flag=RU }:: | **6** | **[Chicony](https://osu.ppy.sh/users/5199332)** |
+| ::{ flag=CA }:: | **7** | **[Zylice](https://osu.ppy.sh/users/5033077)** |
+| ::{ flag=RO }:: | **8** | **[Lucrise](https://osu.ppy.sh/users/9719351)** |
+| ::{ flag=CN }:: | **9** | **[Crystal](https://osu.ppy.sh/users/1646397)** |
+| ::{ flag=RU }:: | **10** | **[desuqe](https://osu.ppy.sh/users/9712285)** |
+| ::{ flag=US }:: | **11** | **[fieryrage](https://osu.ppy.sh/users/3533958)** |
+| ::{ flag=JP }:: | **12** | **[Sabakan-](https://osu.ppy.sh/users/12941954)** |
+| ::{ flag=NZ }:: | **13** | **[Saiyku](https://osu.ppy.sh/users/13767572)** |
+| ::{ flag=CN }:: | **14** | **[lolol233](https://osu.ppy.sh/users/11375105)** |
+| ::{ flag=NO }:: | **15** | **[antonyw](https://osu.ppy.sh/users/12959983)** |
+| ::{ flag=HK }:: | **16** | **[Hibiki](https://osu.ppy.sh/users/5413624)** |
+| ::{ flag=RU }:: | **17** | **[Skrowell](https://osu.ppy.sh/users/9694263)** |
+| ::{ flag=UA }:: | **18** | **[RafGPio](https://osu.ppy.sh/users/13705417)** |
+| ::{ flag=SG }:: | **19** | **[GSBlank](https://osu.ppy.sh/users/2312106)** |
+| ::{ flag=CA }:: | **20** | **[GENDER BENDER](https://osu.ppy.sh/users/2758279)** |
+| ::{ flag=IL }:: | **21** | **[PaintedKoala](https://osu.ppy.sh/users/10056419)** |
+| ::{ flag=CA }:: | **22** | **[Saryi](https://osu.ppy.sh/users/10051720)** |
+| ::{ flag=NO }:: | **23** | **[nanolini](https://osu.ppy.sh/users/12353810)** |
+| ::{ flag=TR }:: | **24** | **[Shinkiro](https://osu.ppy.sh/users/6093148)** |
+| ::{ flag=DE }:: | **25** | **[rundyyy](https://osu.ppy.sh/users/10917620)** |
+| ::{ flag=UY }:: | **26** | **[Rebo](https://osu.ppy.sh/users/6942259)** |
+| ::{ flag=IT }:: | **27** | **[ILBOSSDELPOPPIN](https://osu.ppy.sh/users/13925698)** |
+| ::{ flag=RU }:: | **28** | **[Majewski](https://osu.ppy.sh/users/10064064)** |
+| ::{ flag=US }:: | **29** | **[Flameztear](https://osu.ppy.sh/users/13207763)** |
+| ::{ flag=HU }:: | **30** | **[defii](https://osu.ppy.sh/users/8698024)** |
+| ::{ flag=AR }:: | **31** | **[R1cho](https://osu.ppy.sh/users/13065919)** |
+| ::{ flag=LV}:: | **32** | **[hihihaha142](https://osu.ppy.sh/users/21653406)** |
+
 ## Mappools
+
+### Round of 32
+
+**[Download the mappack here (121 MB)](https://drive.google.com/file/d/1kwJzQ9g-P6QnRGIpXTmzyJldt91U87wX/view?usp=sharing)**
+
+- Hard Rock
+  1. [Kobaryo - Future Downloader \[Violacea\]](https://osu.ppy.sh/beatmapsets/1871713#osu/3851186)
+  2. [Imperial Circus Dead Decadence - Shinbatsu o Tadori Kyoukotsu ni Itaru \[Extreme\]](https://osu.ppy.sh/beatmapsets/482382#osu/2039543)
+  3. [Sakin - Denek Hayatim \[bir collab sekiz dokuz.\]](https://osu.ppy.sh/beatmapsets/2033084#osu/4238281)
+  4. [Kuba Oms - My Love (Maemi No Yume's Remix) \[Kalindraz & Sakura Airi Splendid Reality\]](https://osu.ppy.sh/beatmapsets/1389127#osu/2868791)
+  5. [Power Of Nature - Shounen wa Sora o Tadoru \[Gordon's Expert\]](https://osu.ppy.sh/beatmapsets/1373545#osu/3207766)
+  6. [Shaun Martin - Madiba \[Dynamic\]](https://osu.ppy.sh/beatmapsets/1301789#osu/2700108)
+  7. [lapix - Day by day (PSYQUI Remix) \[Edge of Tomorrow\]](https://osu.ppy.sh/beatmapsets/1318545#osu/2731544)
+  8. [paraoka feat. haru*nya - Hokori Yuki \[BabeLisM\]](https://osu.ppy.sh/beatmapsets/1636932#osu/3340750)
+  9. [Kero Kero Bonito - Flamingo (WTN3 Remix) \[Expert\]](https://osu.ppy.sh/beatmapsets/1271938#osu/2643126)
+  10. [KUMOKIRI - Shippuujinrai \[Expert\]](https://osu.ppy.sh/beatmapsets/1631947#osu/3331199)
+  11. [DJ TOTTO feat. 3L - Youkakushi -Ayakashi Kakushi- \[Difficult\]](https://osu.ppy.sh/beatmapsets/1354863#osu/2804225)
+  12. [sakuzyo - AXION \[Another\]](https://osu.ppy.sh/beatmapsets/115193#osu/297811)
+  13. [onoken - Lisrim \[Extreme\]](https://osu.ppy.sh/beatmapsets/1471079#osu/3020119)
+  14. [dandeless - micro.wav \[USA Tryouts\]](https://osu.ppy.sh/beatmapsets/1499766#osu/3198204)
+  15. [YUI - again \[Rizen's Insane\]](https://osu.ppy.sh/beatmapsets/623911#osu/1372702)
+  - Tiebreaker
+  1. **[OctagonCollaboration - The Glorious Octagon of Destiny \[Glorious\]](https://osu.ppy.sh/beatmapsets/1039769#osu/2210170)**
 
 ### Qualifiers
 
-**[Download the mappack here (76 MB)](https://drive.google.com/file/d/1IsYP3QBgnp8-XZj2ivR5FaLPxjpxJ_vj/view?usp=drive_link)**
+**[Download the mappack here (76 MB)](https://drive.google.com/file/d/1IsYP3QBgnp8-XZj2ivR5FaLPxjpxJ_vj/view?usp=sharing)**
 
 - Hard Rock
   1. [youman feat. GUMI - Weenywalker \[holy flip dude\]](https://osu.ppy.sh/beatmapsets/2085331#osu/4368596)
@@ -74,6 +134,153 @@ Hard Rock Showdown is run by various community members.
   3. [xi feat. Sta - Tiferet \[Another\]](https://osu.ppy.sh/beatmapsets/714225#osu/1509637)
   4. [Julian Smith - Racist Coffee (Speed Up Ver.) \[All Drinks Are Created Equal\]](https://osu.ppy.sh/beatmapsets/871225#osu/2056505)
   5. [kanone - The Sea of Memory \[PaRaDogi's Extra\]](https://osu.ppy.sh/beatmapsets/1347768#osu/3137731)
+
+## Qualifiers
+
+The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1cPIjLK9939txj99_fkf34AujWlxC3M0Ra_DPX0iebks/edit#gid=343226199).
+
+| Seed | Participant | %MAX sum[^qualifiers-seeding] | avg. score[^qualifiers-tiebreaker] |
+| :-: | :-- | --: | --: |
+| #1 | ::{ flag=PL }:: **[maliszewski](https://osu.ppy.sh/users/12408961)** | 8.577 | 819,855 |
+| #2 | ::{ flag=HK }:: **[mcy4](https://osu.ppy.sh/users/2165650)** | 7.789 | 740,309 |
+| #3 | ::{ flag=CA }:: **[his kitten](https://osu.ppy.sh/users/3717598)** | 7.673 | 735,020 |
+| #4 | ::{ flag=KR }:: **[Amamya Kokoro](https://osu.ppy.sh/users/2511839)** | 7.653 | 732,703 |
+| #5 | ::{ flag=RU }:: **[Welter](https://osu.ppy.sh/users/11552867)** | 6.832 | 635,846 |
+| #6 | ::{ flag=RU }:: **[Chicony](https://osu.ppy.sh/users/5199332)** | 6.757 | 643,828 |
+| #7 | ::{ flag=CA }:: **[Zylice](https://osu.ppy.sh/users/5033077)** | 6.668 | 631,814 |
+| #8 | ::{ flag=RO }:: **[Lucrise](https://osu.ppy.sh/users/9719351)** | 6.492 | 625,739 |
+| #9 | ::{ flag=CN }:: **[Crystal](https://osu.ppy.sh/users/1646397)** | 6.416 | 610,993 |
+| #10 | ::{ flag=RU }:: **[desuqe](https://osu.ppy.sh/users/9712285)** | 6.142 | 591,963 |
+| #11 | ::{ flag=US }:: **[fieryrage](https://osu.ppy.sh/users/3533958)** | 5.975 | 541,174 |
+| #12 | ::{ flag=JP }:: **[Sabakan-](https://osu.ppy.sh/users/12941954)** | 5.916 | 547,442 |
+| #13 | ::{ flag=NZ }:: **[Saiyku](https://osu.ppy.sh/users/13767572)** | 5.897 | 569,605 |
+| #14 | ::{ flag=CN }:: **[lolol233](https://osu.ppy.sh/users/11375105)** | 5.893 | 566,044 |
+| #15 | ::{ flag=NO }:: **[antonyw](https://osu.ppy.sh/users/12959983)** | 5.756 | 543,608 |
+| #16 | ::{ flag=HK }:: **[Hibiki](https://osu.ppy.sh/users/5413624)** | 5.691 | 547,235 |
+| #17 | ::{ flag=RU }:: **[Skrowell](https://osu.ppy.sh/users/9694263)** | 5.641 | 523,578 |
+| #18 | ::{ flag=UA }:: **[RafGPio](https://osu.ppy.sh/users/13705417)** | 5.582 | 526,130 |
+| #19 | ::{ flag=SG }:: **[GSBlank](https://osu.ppy.sh/users/2312106)** | 5.574 | 544,819 |
+| #20 | ::{ flag=CA }:: **[GENDER BENDER](https://osu.ppy.sh/users/2758279)** | 5.436 | 519,842 |
+| #21 | ::{ flag=IL }:: **[PaintedKoala](https://osu.ppy.sh/users/10056419)** | 5.427 | 519,146 |
+| #22 | ::{ flag=CA }:: **[Saryi](https://osu.ppy.sh/users/10051720)** | 5.406 | 511,492 |
+| #23 | ::{ flag=NO }:: **[nanolini](https://osu.ppy.sh/users/12353810)** | 5.311 | 516,754 |
+| #24 | ::{ flag=TR }:: **[Shinkiro](https://osu.ppy.sh/users/6093148)** | 5.273 | 500,461 |
+| #25 | ::{ flag=DE }:: **[rundyyy](https://osu.ppy.sh/users/10917620)** | 5.078 | 479,218 |
+| #26 | ::{ flag=UY }:: **[Rebo](https://osu.ppy.sh/users/6942259)** | 5.052 | 493,625 |
+| #27 | ::{ flag=IT }:: **[ILBOSSDELPOPPIN](https://osu.ppy.sh/users/13925698)** | 5.024 | 490,448 |
+| #28 | ::{ flag=RU }:: **[Majewski](https://osu.ppy.sh/users/10064064)** | 4.995 | 476,714 |
+| #29 | ::{ flag=US }:: **[Flameztear](https://osu.ppy.sh/users/13207763)** | 4.990 | 482,046 |
+| #30 | ::{ flag=HU }:: **[defii](https://osu.ppy.sh/users/8698024)** | 4.964 | 471,771 |
+| #31 | ::{ flag=AR }:: **[R1cho](https://osu.ppy.sh/users/13065919)** | 4.855 | 473,609 |
+| #32 | ::{ flag=LV}:: **[hihihaha142](https://osu.ppy.sh/users/21653406)** | 4.840 | 468,076 |
+| #33 | ::{ flag=FI }:: [Amasetic](https://osu.ppy.sh/users/11375251) | 4.815 | 467,918 |
+| #34 | ::{ flag=NL }:: [chillington 15](https://osu.ppy.sh/users/6744123) | 4.806 | 451,814 |
+| #35 | ::{ flag=CO }:: [Carlosflow](https://osu.ppy.sh/users/11940767) | 4.728 | 446,859 |
+| #36 | ::{ flag=AU }:: [Arbusion](https://osu.ppy.sh/users/11469447) | 4.702 | 447,358 |
+| #37 | ::{ flag=US }:: [Bazingasdead](https://osu.ppy.sh/users/14139392) | 4.65 | 446,607 |
+| #38 | ::{ flag=SE }:: [Andros](https://osu.ppy.sh/users/9072586) | 4.644 | 449,208 |
+| #39 | ::{ flag=US }:: [BoshyMan741](https://osu.ppy.sh/users/4830687) | 4.63 | 440,318 |
+| #40 | ::{ flag=CL }:: [YukariSmug](https://osu.ppy.sh/users/12211248) | 4.597 | 441,708 |
+| #41 | ::{ flag=PL }:: [kiir0chii](https://osu.ppy.sh/users/9322480) | 4.532 | 439,687 |
+| #42 | ::{ flag=RU }:: [Endura](https://osu.ppy.sh/users/7774197) | 4.531 | 443,878 |
+| #43 | ::{ flag=US }:: [kendrekk lamar](https://osu.ppy.sh/users/11962818) | 4.488 | 433,061 |
+| #44 | ::{ flag=CL }:: [Jyuifty](https://osu.ppy.sh/users/3595282) | 4.482 | 423,448 |
+| #45 | ::{ flag=CA }:: [neuro](https://osu.ppy.sh/users/3737401) | 4.406 | 413,698 |
+| #46 | ::{ flag=US }:: [costco hotdog](https://osu.ppy.sh/users/9507565) | 4.393 | 423,866 |
+| #47 | ::{ flag=US }:: [Rimor](https://osu.ppy.sh/users/14442548) | 4.379 | 426,410 |
+| #48 | ::{ flag=PL }:: [Tartis](https://osu.ppy.sh/users/9513980) | 4.333 | 421,304 |
+| #49 | ::{ flag=US }:: [Jakson](https://osu.ppy.sh/users/8788058) | 4.268 | 413,141 |
+| #50 | ::{ flag=AL }:: [Taldux](https://osu.ppy.sh/users/7249261) | 4.254 | 412,882 |
+| #51 | ::{ flag=CL }:: [NO37](https://osu.ppy.sh/users/4653583) | 4.243 | 402,901 |
+| #52 | ::{ flag=FI }:: [nemq](https://osu.ppy.sh/users/11644972) | 4.215 | 403,395 |
+| #53 | ::{ flag=SE }:: [melwem](https://osu.ppy.sh/users/10349559) | 4.089 | 405,924 |
+| #54 | ::{ flag=US }:: [AlmightyDoor](https://osu.ppy.sh/users/11715109) | 4.06 | 395,457 |
+| #55 | ::{ flag=CA }:: [DarkKarate](https://osu.ppy.sh/users/8666950) | 4.018 | 373,603 |
+| #56 | ::{ flag=US }:: [Raoul](https://osu.ppy.sh/users/9924405) | 4.006 | 377,902 |
+| #57 | ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) | 3.953 | 380,840 |
+| #58 | ::{ flag=US }:: [Daitaku Helios](https://osu.ppy.sh/users/16538717) | 3.876 | 378,949 |
+| #59 | ::{ flag=PE }:: [miss yo](https://osu.ppy.sh/users/12728547) | 3.774 | 367,757 |
+| #60 | ::{ flag=KR }:: [KRZY](https://osu.ppy.sh/users/114017) | 3.706 | 358,379 |
+| #61 | ::{ flag=US }:: [Spoodermane](https://osu.ppy.sh/users/9536345) | 3.698 | 361,072 |
+| #62 | ::{ flag=RO }:: [Kehest](https://osu.ppy.sh/users/6145000) | 3.694 | 353,609 |
+| #63 | ::{ flag=RU }:: [DJ EBAN](https://osu.ppy.sh/users/9053619) | 3.628 | 352,744 |
+| #64 | ::{ flag=KR }:: [Nopekjk](https://osu.ppy.sh/users/4585186) | 3.588 | 332,376 |
+| #65 | ::{ flag=FR }:: [Qumania](https://osu.ppy.sh/users/17467899) | 3.561 | 344,310 |
+| #66 | ::{ flag=CL }:: [Siiphs](https://osu.ppy.sh/users/11786864) | 3.534 | 329,937 |
+| #67 | ::{ flag=JP }:: [stone\_bream](https://osu.ppy.sh/users/14800198) | 3.459 | 322,369 |
+| #68 | ::{ flag=US }:: [mrshmary](https://osu.ppy.sh/users/12476276) | 3.455 | 335,199 |
+| #69 | ::{ flag=DE }:: [Th1](https://osu.ppy.sh/users/15441612) | 3.412 | 319,321 |
+| #70 | ::{ flag=UE }:: [magnatagamer123](https://osu.ppy.sh/users/7587763) | 3.402 | 326,032 |
+| #71 | ::{ flag=RO }:: [\_Silvian](https://osu.ppy.sh/users/8511882) | 3.401 | 318,586 |
+| #72 | ::{ flag=GB }:: [polski1](https://osu.ppy.sh/users/18131614) | 3.366 | 335,023 |
+| #73 | ::{ flag=US }:: [Rykic](https://osu.ppy.sh/users/12667143) | 3.27 | 329,678 |
+| #74 | ::{ flag=EG }:: [Foufo](https://osu.ppy.sh/users/23613892) | 3.253 | 314,465 |
+| #75 | ::{ flag=KR }:: [ch0co](https://osu.ppy.sh/users/9737185) | 3.075 | 290,206 |
+| #76 | ::{ flag=DE }:: [jaaysfa](https://osu.ppy.sh/users/8508931) | 3.035 | 286,007 |
+| #77 | ::{ flag=US }:: [Doggie](https://osu.ppy.sh/users/4930467) | 2.985 | 299,346 |
+| #78 | ::{ flag=DE }:: [Strecka](https://osu.ppy.sh/users/3249839) | 2.949 | 292,079 |
+| #79 | ::{ flag=US }:: [Kiruko](https://osu.ppy.sh/users/30771147) | 2.947 | 291,481 |
+| #80 | ::{ flag=IN }:: [GENDER BLENDER](https://osu.ppy.sh/users/1788022) | 2.926 | 277,607 |
+| #81 | ::{ flag=US }:: [FILIPINO](https://osu.ppy.sh/users/9878349) | 2.918 | 277,492 |
+| #82 | ::{ flag=US }:: [OmegaOrigins](https://osu.ppy.sh/users/12566632) | 2.82 | 272,995 |
+| #83 | ::{ flag=ES }:: [Pagoz](https://osu.ppy.sh/users/12675978) | 2.813 | 277,180 |
+| #84 | ::{ flag=RU }:: [Kyori](https://osu.ppy.sh/users/6660546) | 2.793 | 267,897 |
+| #85 | ::{ flag=CL }:: [Rinyeki](https://osu.ppy.sh/users/13249394) | 2.781 | 263,832 |
+| #86 | ::{ flag=US }:: [Blendra](https://osu.ppy.sh/users/3619583) | 2.776 | 270,478 |
+| #87 | ::{ flag=ES }:: [ESCRUPULILLO](https://osu.ppy.sh/users/18217876) | 2.774 | 269,296 |
+| #88 | ::{ flag=US }:: [daniel\_](https://osu.ppy.sh/users/13139356) | 2.719 | 264,994 |
+| #89 | ::{ flag=TH }:: [\_Arigato](https://osu.ppy.sh/users/9317938) | 2.718 | 267,069 |
+| #90 | ::{ flag=US }:: [leggings](https://osu.ppy.sh/users/5427223) | 2.71 | 256,101 |
+| #91 | ::{ flag=SK }:: [PeteX](https://osu.ppy.sh/users/1285945) | 2.643 | 256,455 |
+| #92 | ::{ flag=KR }:: [Gulbang](https://osu.ppy.sh/users/13783044) | 2.642 | 265,692 |
+| #93 | ::{ flag=US }:: [JoshuaGC](https://osu.ppy.sh/users/17636394) | 2.635 | 249,887 |
+| #94 | ::{ flag=US }:: [Swizzy](https://osu.ppy.sh/users/12967587) | 2.562 | 253,420 |
+| #95 | ::{ flag=RU }:: [Uzer](https://osu.ppy.sh/users/13583469) | 2.535 | 248,326 |
+| #96 | ::{ flag=GR }:: [HR sketos](https://osu.ppy.sh/users/3478000) | 2.459 | 244,565 |
+| #97 | ::{ flag=NO }:: [Kailler](https://osu.ppy.sh/users/14935208) | 2.431 | 240,121 |
+| #98 | ::{ flag=CA }:: [Rimoro](https://osu.ppy.sh/users/15408674) | 2.404 | 231,169 |
+| #99 | ::{ flag=AU }:: [UnwaryTuba77](https://osu.ppy.sh/users/17133127) | 2.389 | 229,939 |
+| #100 | ::{ flag=DE }:: [Katharsis](https://osu.ppy.sh/users/10212942) | 2.311 | 220,595 |
+| #101 | ::{ flag=DE }:: [GrafStolberg](https://osu.ppy.sh/users/7388142) | 2.304 | 222,298 |
+| #102 | ::{ flag=AU }:: [\-cy](https://osu.ppy.sh/users/12263141) | 2.298 | 221,705 |
+| #103 | ::{ flag=RU }:: [kanagava](https://osu.ppy.sh/users/16858397) | 2.261 | 220,497 |
+| #104 | ::{ flag=CN }:: [Aimseky](https://osu.ppy.sh/users/4464845) | 2.213 | 213,462 |
+| #105 | ::{ flag=AU }:: [5ixty](https://osu.ppy.sh/users/18321104) | 2.204 | 216,852 |
+| #106 | ::{ flag=US }:: [zaul](https://osu.ppy.sh/users/14017843) | 2.196 | 226,028 |
+| #107 | ::{ flag=NO }:: [Nairda\_](https://osu.ppy.sh/users/9291448) | 2.136 | 212,091 |
+| #108 | ::{ flag=TW }:: [Summer\_Ouo](https://osu.ppy.sh/users/15184992) | 2.103 | 196,854 |
+| #109 | ::{ flag=AU }:: [zzzbored](https://osu.ppy.sh/users/3222676) | 2.099 | 198,293 |
+| #110 | ::{ flag=SE }:: [SWEDENTRUCKER13](https://osu.ppy.sh/users/14945721) | 2.079 | 20,7073 |
+| #111 | ::{ flag=AU }:: [Dumb-Andy](https://osu.ppy.sh/users/20963631) | 2.059 | 200,457 |
+| #112 | ::{ flag=IT }:: [Chiicco](https://osu.ppy.sh/users/13103667) | 2.026 | 200,449 |
+| #113 | ::{ flag=KR }:: [kailburn](https://osu.ppy.sh/users/9586445) | 2.023 | 196,591 |
+| #114 | ::{ flag=CN }:: [No rank](https://osu.ppy.sh/users/10436444) | 1.999 | 198,874 |
+| #115 | ::{ flag=LT }:: [scarfz](https://osu.ppy.sh/users/10290012) | 1.938 | 192,791 |
+| #116 | ::{ flag=UE }:: [KillomTry](https://osu.ppy.sh/users/14106178) | 1.936 | 194,010 |
+| #117 | ::{ flag=US }:: [FrenZ](https://osu.ppy.sh/users/9531903) | 1.913 | 194,718 |
+| #118 | ::{ flag=US }:: [Kahli](https://osu.ppy.sh/users/8926244) | 1.89 | 187,986 |
+| #119 | ::{ flag=CN }:: [Knd](https://osu.ppy.sh/users/3367476) | 1.818 | 184,085 |
+| #120 | ::{ flag=RU }:: [SpidiMun](https://osu.ppy.sh/users/10414827) | 1.785 | 172,358 |
+| #121 | ::{ flag=CN }:: [970](https://osu.ppy.sh/users/4075655) | 1.768 | 172,494 |
+| #122 | ::{ flag=BO }:: [Voctok](https://osu.ppy.sh/users/13881936) | 1.74 | 172,439 |
+| #123 | ::{ flag=SE }:: [Timpower](https://osu.ppy.sh/users/11533034) | 1.728 | 174,080 |
+| #124 | ::{ flag=RU }:: [uhm\_](https://osu.ppy.sh/users/20636251) | 1.723 | 169,437 |
+| #125 | ::{ flag=US }:: [Relicx](https://osu.ppy.sh/users/19672313) | 1.701 | 163,869 |
+| #126 | ::{ flag=CZ }:: [dad0ja](https://osu.ppy.sh/users/7592805) | 1.675 | 163,292 |
+| #127 | ::{ flag=CN }:: [Michka](https://osu.ppy.sh/users/10636530) | 1.596 | 149,564 |
+| #128 | ::{ flag=CH }:: [xeladir](https://osu.ppy.sh/users/19680480) | 1.574 | 155,516 |
+| #129 | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832) | 1.415 | 136,108 |
+| #130 | ::{ flag=AU }:: [Onmichi](https://osu.ppy.sh/users/19031441) | 1.399 | 142,353 |
+| #131 | ::{ flag=US }:: [SkadiMyMommy](https://osu.ppy.sh/users/14102544) | 1.35 | 127,597 |
+| #132 | ::{ flag=DE }:: [joelcoolyt](https://osu.ppy.sh/users/16006274) | 1.342 | 133,487 |
+| #133 | ::{ flag=MX }:: [\[Andy\]](https://osu.ppy.sh/users/13611061) | 1.19 | 11,270 |
+| #134 | ::{ flag=AU }:: [HR Best Mod](https://osu.ppy.sh/users/25414223) | 1.187 | 116,186 |
+| #135 | ::{ flag=ID }:: [Azasapag](https://osu.ppy.sh/users/18347666) | 1.114 | 110,702 |
+| #136 | ::{ flag=US }:: [coolnuck210](https://osu.ppy.sh/users/11847973) | 0.919 | 94,089 |
+| #137 | ::{ flag=FR }:: [Colgate Enjoyer](https://osu.ppy.sh/users/20198397) | 0.802 | 78,710 |
+| #138 | ::{ flag=RO }:: [AkakiKN](https://osu.ppy.sh/users/12875343) | 0.802 | 80,226 |
+| #139 | ::{ flag=US }:: [Thrylos](https://osu.ppy.sh/users/11579921) | 0.762 | 73,976 |
+| #140 | ::{ flag=FR }:: [MiniQumania](https://osu.ppy.sh/users/22677147) | 0.623 | 63,276 |
 
 ## Ruleset
 
@@ -199,3 +406,8 @@ Hard Rock Showdown is run by various community members.
    - **Do not ask for a reschedule unless it is absolutely necessary. The tournament managers reserve the right to deny any rescheduling request.**
    - Late reschedule requests will not be accepted under any circumstances.
 6. Players are responsible for their own availability.
+
+## Notes
+
+[^qualifiers-seeding]: Used as the main seeding method
+[^qualifiers-tiebreaker]: Used as a tiebreaker when two players have the same rating sum

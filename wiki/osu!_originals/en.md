@@ -205,6 +205,13 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 |  | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=LV.4&query=%22Vortex%20of%20Sorrow%22 "Featured Artist listing") | LV.4 feat. Mawata Spica - Vortex of Sorrow | [#1](https://osu.ppy.sh/beatmapsets/1980701) | Grand Finals FM3 |
 |  | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Toromaru&query=%22Sleight%20of%20Hand%22 "Featured Artist listing") | Toromaru - Sleight of Hand | [#1](https://osu.ppy.sh/beatmapsets/1972518) | Semifinals NM2 |
 
+#### ![](/wiki/shared/mode/taiko.png) [osu!taiko World Cup 2024](/wiki/Tournaments/TWC/2024)
+
+| Links | FA | Song | Beatmap | Notes |
+| --: | :-: | :-- | :-: | :-- |
+|  |  | Hamu feat. Natsuki Karin - Sunao ni Naritai[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2152060) | Round of 32 HD1 |
+|  |  | Yuuni - Frozen Blood | [#1](https://osu.ppy.sh/beatmapsets/2152052) | Round of 32 tiebreaker |
+
 #### ![](/wiki/shared/mode/catch.png) [osu!catch World Cup 2021](/wiki/Tournaments/CWC/2021)
 
 | Links | FA | Song | Beatmap | Notes |
@@ -226,12 +233,6 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 |  | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=LV.4&query=%22Chemical%20Diving%22 "Featured Artist listing") | LV.4 - Chemical Diving | [#1](https://osu.ppy.sh/beatmapsets/2026273) | Finals HR1 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/myukke/anti-safety-zone-from-osucatch-world-cup-2023 "SoundCloud") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/3Nrfda871Tw8XZOiHkNXH1 "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://myukke.bandcamp.com/track/anti-safety-zone "Bandcamp") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=MYUKKE.&query=%22Anti%20Safety%20Zone%22 "Featured Artist listing") | MYUKKE. - Anti Safety Zone | [#1](https://osu.ppy.sh/beatmapsets/2004086) | Semifinals HD3 |
 |  | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Toromaru&query=%22Erinyes%22 "Featured Artist listing") | Toromaru - Erinyes | [#1](https://osu.ppy.sh/beatmapsets/2000438) | Quarterfinals HR3 |
-
-#### ![](/wiki/shared/mode/mania.png) Combro Cup
-
-| Links | FA | Song | Beatmap | Notes |
-| --: | :-: | :-- | :-: | :-- |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/akiwimoosic/break-for-everest-4 "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=7nWeTnRzalg "YouTube") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Akiri&query=%22Break%20For%20Everest%22 "Featured Artist listing") | Akiri - Break For Everest | [#1](https://osu.ppy.sh/beatmapsets/1910964) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/mania.png) [osu!mania 4K World Cup 2019](/wiki/Tournaments/MWC/2019_4K)
 
@@ -879,6 +880,12 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | --: | :-: | :-- | :-: | :-- |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/indekkusu/autumn-dusk-at-the-maple-park "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=SPJA6cfAqH8 "YouTube") |  | HowToPlayLN - autumn dusk at the maple park |  | Ending credits theme |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/raphlesia/resolve-means-to-an-end "SoundCloud") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://raphlesia.bandcamp.com/track/resolve-means-to-an-end "Bandcamp") |  | Raphlesia - ResolvE -means to an end- | [#1](https://osu.ppy.sh/beatmapsets/2095581) | Grand Finals tiebreaker |
+
+#### ![](/wiki/shared/mode/mania.png) Combro Cup
+
+| Links | FA | Song | Beatmap | Notes |
+| --: | :-: | :-- | :-: | :-- |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/akiwimoosic/break-for-everest-4 "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=7nWeTnRzalg "YouTube") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Akiri&query=%22Break%20For%20Everest%22 "Featured Artist listing") | Akiri - Break For Everest | [#1](https://osu.ppy.sh/beatmapsets/1910964) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/mania.png) DDS Tournament
 
