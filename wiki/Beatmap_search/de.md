@@ -57,7 +57,7 @@ Metadaten von Beatmaps können für eine genauere Filterung über die folgenden 
 | :-: | :-- |
 | `artist` | Name des Künstlers |
 | `title` | Name des Songs |
-| `source` | Die Quelle wie beispielsweise ein Videospiel, einen Film, eine Serie oder ein Event, wo das Lied herkommt oder mit dem es am besten assoziiert wird. |
+| `source` | Das Medium, in dem der Song ursprünglich erschienen ist oder mit dem er in Verbindung gebracht wird (zum Beispiel ein Videospiel, ein Film, eine Serie oder ein Ereignis) |
 | `featured_artist` | Kennung eines [Featured Artist](/wiki/People/Featured_Artists) |
 | `creator` | Name des Beatmap-Erstellers |
 | `difficulty` | Name des Schwierigkeitsgrads der Beatmap |
@@ -91,7 +91,7 @@ Metadaten von Beatmaps können für eine genauere Filterung über die folgenden 
 | `length` | [Länge](/wiki/Beatmap/Play_time) in Sekunden |
 | `key`, `keys` | Anzahl der Keys (betrifft nur osu!mania und konvertierte Beatmaps) |
 | `status` | Beatmap-Status. Der Wert kann `ranked`, `approved`, `pending`, `notsubmitted`, `unknown` oder `loved` sein bzw. `r`/`a`/`p`/`n`/`u`/`l` in Kurzform. |
-| `played`, `lastplayed` | Die Zeit, seit wann zuletzt gespielt wurde. Das gültige Format ist `#y#M#d#h#m#s`, entsprechend für Jahre, Monate, Tage, Stunden, Minuten und Sekunden. Zum Beispiel bedeutet `2d5s` "2 Tage und 5 Sekunden". |
+| `played`, `lastplayed` | Die Zeit, seit der Schwierigkeitsgrad zuletzt gespielt wurde. Das gültige Format ist `#y#M#d#h#m#s`, entsprechend für Jahre, Monate, Tage, Stunden, Minuten und Sekunden. Zum Beispiel bedeutet `2d5s` "2 Tage und 5 Sekunden". |
 | `divisor` | Der Nenner des [Taktteilers](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
 
 ## Beispielhafte Suchbegriffe
