@@ -28,6 +28,7 @@ osu!taiko 的转谱依据是原谱的[打击音效](/wiki/Beatmapping/Hitsound)�
   - **既**设置了结束音效，**也**设置了哨声、掌声或两者的，转换成大蓝色音符；
 - 长滑条，转换成长条（drumrolls）；
 - 转盘，转换成拨浪鼓（shakers）。
+
 <!-- TODO: link (https://github.com/ppy/osu-wiki/issues/3152) -->
 
 ### osu! 转 osu!catch
@@ -47,6 +48,7 @@ osu!mania 的转谱基本上取决于原谱的节奏，而且比其他模式更�
 
 - 圆圈和短滑条（例如[1/4时值的滑条](/wiki/Client/Beatmap_editor/Beat_snap_divisor)）转换为普通音符；
 - 转盘和长滑条转换为长按音符。
+
 <!-- TODO: link (https://github.com/ppy/osu-wiki/issues/3152) -->
 
 此外， osu!mania 的转谱还会特别地根据原谱的难度转成[4K，5K或7K](/wiki/Gameplay/Game_modifier/xK)。
