@@ -116,8 +116,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253
 | --: | :-- | :-- | :-: |
 | Finland ::{ flag=FI }:: | ::{ flag=NO }:: Norway | [Mar 22 (Fri) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240322T170000&p1=1440&p2=101&p3=187) | [osulive](https://twitch.tv/osulive) |
 
-## Match Schedule: Round of 32
-
 ### Saturday, 23 March 2024
 
 | Team A | Team B | Match time | Twitch stream |
