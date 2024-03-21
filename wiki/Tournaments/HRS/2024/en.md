@@ -273,7 +273,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 | #130 | ::{ flag=AU }:: [Onmichi](https://osu.ppy.sh/users/19031441) | 1.399 | 142,353 |
 | #131 | ::{ flag=US }:: [SkadiMyMommy](https://osu.ppy.sh/users/14102544) | 1.35 | 127,597 |
 | #132 | ::{ flag=DE }:: [joelcoolyt](https://osu.ppy.sh/users/16006274) | 1.342 | 133,487 |
-| #133 | ::{ flag=MX }:: [\[Andy\]](https://osu.ppy.sh/users/13611061) | 1.19 | 11,270 |
+| #133 | ::{ flag=MX }:: [\[Andy\]](https://osu.ppy.sh/users/13611061) | 1.19 | 118,270 |
 | #134 | ::{ flag=AU }:: [HR Best Mod](https://osu.ppy.sh/users/25414223) | 1.187 | 116,186 |
 | #135 | ::{ flag=ID }:: [Azasapag](https://osu.ppy.sh/users/18347666) | 1.114 | 110,702 |
 | #136 | ::{ flag=US }:: [coolnuck210](https://osu.ppy.sh/users/11847973) | 0.919 | 94,089 |
