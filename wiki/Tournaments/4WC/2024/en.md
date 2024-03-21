@@ -31,7 +31,7 @@ The 4 Digit World Cup 2024 awards winners with a [community-funded prize pool on
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Wooting UwU (non-RGB) keyboard for each player, Bluebunny tablet cover, 40% of the prize pool, profile badge (pending), animated profile banner |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Wooting UwU (non-RGB) keyboard and Bluebunny tablet cover for each player, 40% of the prize pool, profile badge (pending), animated profile banner |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 40% of the prize pool, animated profile banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, animated profile banner |
 
@@ -44,7 +44,7 @@ The 4 Digit World Cup 2024 is run by various community members.
 | Host | ::{ flag=DE }:: [resoa](https://osu.ppy.sh/users/6754508), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
 | Designer and developer | ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
 | Mappool selector | ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656), ::{ flag=DE }:: [resoa](https://osu.ppy.sh/users/6754508) |
-| Mappool playtesters | ::{ flag=RU }:: [_wonderer](https://osu.ppy.sh/users/8215374), ::{ flag=DE }:: [-semi](https://osu.ppy.sh/users/5154946), ::{ flag=PL }:: [cezgru](https://osu.ppy.sh/users/2629617), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=RU }:: [Endura](https://osu.ppy.sh/users/7774197), ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970), ::{ flag=CN }:: [FcEazy](https://osu.ppy.sh/users/7825227), ::{ flag=US }:: [Flameztear](https://osu.ppy.sh/users/13207763), ::{ flag=US }:: [Jakson](https://osu.ppy.sh/users/8788058), ::{ flag=PL }:: [kiir0chii](https://osu.ppy.sh/users/9322480), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=GB }:: [Malteser](https://osu.ppy.sh/users/5218178), ::{ flag=ES }:: [MeiFTW](https://osu.ppy.sh/users/15049805), ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071), ::{ flag=FI }:: [Nev-](https://osu.ppy.sh/users/11836334), ::{ flag=NO }:: [ninerik](https://osu.ppy.sh/users/10549880), ::{ flag=MN }:: [seegii](https://osu.ppy.sh/users/4659319), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=KR }:: [worst hr player](https://osu.ppy.sh/users/14106450), ::{ flag=DE }:: [ZeitFrost](https://osu.ppy.sh/users/11234706) |
+| Mappool playtester | ::{ flag=RU }:: [_wonderer](https://osu.ppy.sh/users/8215374), ::{ flag=DE }:: [-semi](https://osu.ppy.sh/users/5154946), ::{ flag=PL }:: [cezgru](https://osu.ppy.sh/users/2629617), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=RU }:: [Endura](https://osu.ppy.sh/users/7774197), ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970), ::{ flag=CN }:: [FcEazy](https://osu.ppy.sh/users/7825227), ::{ flag=US }:: [Flameztear](https://osu.ppy.sh/users/13207763), ::{ flag=US }:: [Jakson](https://osu.ppy.sh/users/8788058), ::{ flag=PL }:: [kiir0chii](https://osu.ppy.sh/users/9322480), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=GB }:: [Malteser](https://osu.ppy.sh/users/5218178), ::{ flag=ES }:: [MeiFTW](https://osu.ppy.sh/users/15049805), ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071), ::{ flag=FI }:: [Nev-](https://osu.ppy.sh/users/11836334), ::{ flag=NO }:: [ninerik](https://osu.ppy.sh/users/10549880), ::{ flag=MN }:: [seegii](https://osu.ppy.sh/users/4659319), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=KR }:: [worst hr player](https://osu.ppy.sh/users/14106450), ::{ flag=DE }:: [ZeitFrost](https://osu.ppy.sh/users/11234706) |
 | Streamer | ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=VN }:: [Hoaq](https://osu.ppy.sh/users/7696512), ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692), ::{ flag=CA }:: [kymotsujason](https://osu.ppy.sh/users/2541804), ::{ flag=US }:: [ROB_](https://osu.ppy.sh/users/12455868), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=VN }:: [SIay](https://osu.ppy.sh/users/9587896), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189) |
 | Commentator | ::{ flag=DE }:: [-semi](https://osu.ppy.sh/users/5154946), ::{ flag=FI }:: [Amasetic](https://osu.ppy.sh/users/11375251), ::{ flag=US }:: [ampy](https://osu.ppy.sh/users/4458239), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=AT }:: [extrasensory](https://osu.ppy.sh/users/5841333), ::{ flag=CA }:: [I-Flame](https://osu.ppy.sh/users/11257542), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=SE }:: [nautzz](https://osu.ppy.sh/users/2012039), ::{ flag=FI }:: [Nev-](https://osu.ppy.sh/users/11836334), ::{ flag=DE }:: [resoa](https://osu.ppy.sh/users/6754508), ::{ flag=GB }:: [SadShiba](https://osu.ppy.sh/users/10747626), ::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189), ::{ flag=US }:: [Tycani](https://osu.ppy.sh/users/6693266), ::{ flag=AU }:: [Vordi](https://osu.ppy.sh/users/6659116) |
 | Referee | ::{ flag=PH }:: [-PeKoRa-](https://osu.ppy.sh/users/17959882), ::{ flag=US }:: [[K]](https://osu.ppy.sh/users/16551387), ::{ flag=FI }:: [Aetherian](https://osu.ppy.sh/users/6263040), ::{ flag=NZ }:: [cyndrean](https://osu.ppy.sh/users/12872893), ::{ flag=DE }:: [Dragoncurve](https://osu.ppy.sh/users/6675367), ::{ flag=US }:: [freddiiieeee](https://osu.ppy.sh/users/7112839), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=PL }:: [P a t r i c k](https://osu.ppy.sh/users/6814521), ::{ flag=RU }:: [Rainbowtaves](https://osu.ppy.sh/users/10079847), ::{ flag=DE }:: [resoa](https://osu.ppy.sh/users/6754508), ::{ flag=HK }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=IN }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag=GB }:: [SSScotty](https://osu.ppy.sh/users/10319851), ::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
@@ -54,7 +54,7 @@ The 4 Digit World Cup 2024 is run by various community members.
 - **[Registration form](https://osu.ppy.sh/oauth/authorize?client_id=21966&redirect_uri=https://script.google.com/macros/s/AKfycbzknySoKogThpPyGuOGOsmsr1hdCITHOQqF3UXQc-orw-9b_BuEjM129uVUBHmNGWBMpg/exec&response_type=code&scope=identify&state=%7B%22step%22%3A%22osu%22%7D)**
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1898593)
 - [Livestream](https://twitch.tv/4wcb)
-- [Statistics sheet](https://docs.google.com/spreadsheets/d/1gPRSI1lTW8ZMlu_1mnxpVcZyzO2Atbb_2H5nfDt0CXM)
+- [Information spreadsheet](https://docs.google.com/spreadsheets/d/1gPRSI1lTW8ZMlu_1mnxpVcZyzO2Atbb_2H5nfDt0CXM)
 - [Challonge bracket](https://challonge.com/4wc24)
 - [Discord server](https://discord.com/invite/uQarcRtB3u)
 
@@ -63,7 +63,7 @@ The 4 Digit World Cup 2024 is run by various community members.
 ### General
 
 - This is a **country-based**, **world-cup-style** tournament.
-- This is a **4v4**, **osu!** tournament with **teams of 5—8 players**.
+- This is a **4v4**, **osu!** tournament with **teams of 5–8 players**.
 - The rank range is **#1,000–9,999** with **no BWS**.
 - The tournament will be played in **ScoreV2**.
 - Teams will be seeded by Qualifier results.
@@ -81,7 +81,7 @@ The 4 Digit World Cup 2024 is run by various community members.
 
 ### Conduct
 
-- All spaces affiliated with 4WC are subject to the [osu! community rules](/wiki/Rules), as well as the rules of the platform itself.
+- All spaces affiliated with 4WC are subject to the [osu! community rules](/wiki/Rules), as well as the rules of the respective platforms themselves.
 - Players are expected to uphold a competitive and friendly environment, and to treat tournament staff and other players with respect.
   - This includes keeping matches running smoothly and avoiding deliberate delays.
 - Any foul play, including but not limited to cheating, bracket manipulation, and failure to cooperate in match rescheduling, is strictly prohibited.
@@ -108,7 +108,7 @@ The 4 Digit World Cup 2024 is run by various community members.
 | Quarterfinals | Best of 11, 2 bans |
 | Semifinals | Best of 11, 2 bans |
 | Finals | Best of 13, 2 bans |
-| Grand Finals | Best of 132, bans |
+| Grand Finals | Best of 13, 2 bans |
 
 ### Match procedure
 
