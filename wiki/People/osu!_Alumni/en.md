@@ -234,6 +234,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ::{ flag=JP }:: [Suzully](https://osu.ppy.sh/users/431791) | BAT |
 | ::{ flag=KR }:: [Sylphi](https://osu.ppy.sh/users/1399551) | GMT |
 | ::{ flag=US }:: [Sync](https://osu.ppy.sh/users/806921) | BAT |
+| ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | NAT |
 | ::{ flag=US }:: [Takuma](https://osu.ppy.sh/users/43677) | GMT |
 | ::{ flag=US }:: [Tapdancingmetroid](https://osu.ppy.sh/users/1733) | BAT |
 | ::{ flag=US }:: [Tari](https://osu.ppy.sh/users/1779172) | QAT |
