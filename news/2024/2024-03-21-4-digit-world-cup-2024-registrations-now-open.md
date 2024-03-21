@@ -44,7 +44,7 @@ We are bringing in a number of small changes and improvements for this year to f
 
 To register, simply head over to the **[registration page](https://osu.ppy.sh/oauth/authorize?client_id=21966&redirect_uri=https://script.google.com/macros/s/AKfycbzknySoKogThpPyGuOGOsmsr1hdCITHOQqF3UXQc-orw-9b_BuEjM129uVUBHmNGWBMpg/exec&response_type=code&scope=identify&state=%7B%22step%22%3A%22osu%22%7D)** to connect your osu! and Discord accounts. Players who sign up via the aforementioned link and meet the following criteria will be eligible to participate:
 
-- **Your osu! global rank must be within #1,000–9,999 at the time of registrations closing** (April 14, 23:59 UTC)
+- **Your osu! global rank must be within #1,000–9,999 at the time of registrations closing** (April 13, 23:59 UTC)
 - **You must not have violated the [osu! community rules](/wiki/Rules) in the past 12 months**
 
 All countries with at least 5 eligible registrants will have one player designated as the captain by the organisers. The captain is then responsible for selecting and submitting a roster of 5–8 players to represent their country in the tournament. Countries with more than 8 candidates are encouraged to host tryouts for their team to aid in selecting the best players.
