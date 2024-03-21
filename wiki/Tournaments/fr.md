@@ -117,6 +117,12 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | 3 Digit World Cup 2022 | 20/02/2022 | 08/05/2022 | ::{ flag=HK }:: Hong Kong | ::{ flag=CN }:: Chine | ::{ flag=ID }:: Indonésie |
 | 3 Digit World Cup 2023 | 17/02/2023 | 30/04/2023 | ::{ flag=KR }:: Corée du Sud | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: États-Unis |
 
+#### 4 Digit World Cup
+
+| Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne de bronze][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [4 Digit World Cup 2024](4WC/2024) | 04/05/2024 | 16/06/2024 | *À déterminé* | *À déterminé* | *À déterminé* |
+
 #### Aetherian's Summer Singles
 
 | Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne de bronze][BCrown] |
