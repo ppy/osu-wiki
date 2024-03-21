@@ -74,7 +74,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464) | Swedish |
 | ::{ flag=US }:: [Bloxi](https://osu.ppy.sh/users/9022451) |  |
 | ::{ flag=PL }:: [browiec](https://osu.ppy.sh/users/9426712) |  |
-| ::{ flag=UK }:: [ckharv](https://osu.ppy.sh/users/9967026) |  |
+| ::{ flag=GB }:: [ckharv](https://osu.ppy.sh/users/9967026) |  |
 | ::{ flag=CL }:: [Cris-](https://osu.ppy.sh/users/6175280) | Spanish |
 | ::{ flag=KR }:: [Dailycare](https://osu.ppy.sh/users/1634445) | Korean |
 | ::{ flag=PL }:: [Embo](https://osu.ppy.sh/users/10045409) | Polish |
@@ -96,7 +96,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=GB }:: [mnyui](https://osu.ppy.sh/users/14261540) |  |
 | ::{ flag=CA }:: [Mochi-](https://osu.ppy.sh/users/9312734) | Chinese |
 | ::{ flag=CH }:: [momoyo](https://osu.ppy.sh/users/12469536) |  |
-| ::{ flag=TW }:: [MuChin](https://osu.ppy.sh/users/9834516) | Chinese |
+| ::{ flag=TW }:: [Muchin](https://osu.ppy.sh/users/9834516) | Chinese |
 | ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | Romanian |
 | ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Russian |
 | ::{ flag=SG }:: [neonat](https://osu.ppy.sh/users/1561995) | Chinese |
