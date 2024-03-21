@@ -209,7 +209,7 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 
 | Links | FA | Song | Beatmap | Notes |
 | --: | :-: | :-- | :-: | :-- |
-|  |  | Hamu feat. Natsuki Karin - Sunao ni Naritai[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2152060) | Round of 32 HD1 |
+|  |  | Hamu feat. Natsuki Karin - Sunao ni Naritai (osu! Edit Ver.)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2152060) | Round of 32 HD1 |
 |  |  | Yuuni - Frozen Blood | [#1](https://osu.ppy.sh/beatmapsets/2152052) | Round of 32 tiebreaker |
 
 #### ![](/wiki/shared/mode/catch.png) [osu!catch World Cup 2021](/wiki/Tournaments/CWC/2021)
@@ -341,6 +341,15 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | Links | FA | Song | Beatmap | Notes |
 | --: | :-: | :-- | :-: | :-- |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sydosys/ryo-supercell-feat-hatsune-miku-kocchi-muite-baby-sydosys-remix "SoundCloud") |  | ryo (supercell) feat. Hatsune Miku - Kocchi Muite Baby (Sydosys remix)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1968676) | Grand Finals HD3 |
+
+#### ![](/wiki/shared/mode/osu.png) Battle of the Box 2024: Da Frengeon
+
+| Links | FA | Song | Beatmap | Notes |
+| --: | :-: | :-- | :-: | :-- |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/coulmusic/asthewordcollapses "SoundCloud") |  | coul - As the world collapses... (feat. Hatsune Miku) | [#1](https://osu.ppy.sh/beatmapsets/2138053) | Finals & Last Chance Bracket Pool #1 HR3 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/user-598209031/doomsday-luytens-star "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=sblgIglxhvI "YouTube") |  | Doomsday - Luyten's Star | [#1](https://osu.ppy.sh/beatmapsets/2134395) | Quarterfinals & Semifinals tiebreaker |
+|  |  | supercell feat. Hatsune Miku - Black*Rock Shooter (djkirakira remix) | [#1](https://osu.ppy.sh/beatmapsets/2134651) | Quarterfinals & Semifinals HR1 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sydosys/echoes-of-the-past-ft-hatsune "SoundCloud") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://sydosys.bandcamp.com/album/echoes-of-the-past "Bandcamp") |  | Sydosys - Echoes of the Past[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2137990) | Finals & Last Chance Bracket Pool #1 tiebreaker |
 
 #### ![](/wiki/shared/mode/osu.png) Charlie's Perfect Math Class
 
