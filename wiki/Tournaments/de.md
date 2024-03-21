@@ -113,11 +113,17 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | 3 Digit World Cup 2022 | 20.02.2022 | 08.05.2022 | ::{ flag=HK }:: Hong Kong | ::{ flag=CN }:: China | ::{ flag=ID }:: Indonesien |
 | 3 Digit World Cup 2023 | 17.02.2023 | 30.04.2023 | ::{ flag=KR }:: Südkorea | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: Vereinigte Staaten |
 
+#### 4 Digit World Cup
+
+| Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [4 Digit World Cup 2024](4WC/2024) | 04.05.2024 | 16.06.2024 | *TBD* | *TBD* | *TBD* |
+
 #### Aetherian's Summer Singles
 
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Aetherian's Summer Singles 1](AESS/1) | 30.04.2021 | 13.7.2021 | ::{ flag=CA }:: [Flatpaper](https://osu.ppy.sh/users/11255340) | ::{ flag=CA }:: [FaintGun](https://osu.ppy.sh/users/10500541) | ::{ flag=PH }:: [NathanSS](https://osu.ppy.sh/users/8500628) |
+| [Aetherian's Summer Singles 1](AESS/1) | 30.04.2021 | 13.07.2021 | ::{ flag=CA }:: [Flatpaper](https://osu.ppy.sh/users/11255340) | ::{ flag=CA }:: [FaintGun](https://osu.ppy.sh/users/10500541) | ::{ flag=PH }:: [NathanSS](https://osu.ppy.sh/users/8500628) |
 | [Aetherian's Summer Singles 2](AESS/2) | 06.05.2022 | 23.07.2022 | ::{ flag=PL }:: [maliszewski](https://osu.ppy.sh/users/12408961) | ::{ flag=KR }:: [[Karcher]](https://osu.ppy.sh/users/11443437) | ::{ flag=HK }:: [mcy4](https://osu.ppy.sh/users/2165650) |
 | [Aetherian's Summer Singles 3](AESS/3) | 01.05.2023 | 09.07.2023 | ::{ flag=PL }:: [maliszewski](https://osu.ppy.sh/users/12408961) | ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970) | ::{ flag=KR }:: [mx10001](https://osu.ppy.sh/users/11443437) |
 
