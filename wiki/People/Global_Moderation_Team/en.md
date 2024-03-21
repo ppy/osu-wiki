@@ -193,4 +193,4 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 
 [^task-Azer]: While not actually being part of the GMT itself, Azer is in the user group by technicality due to needing GMT-level permissions as a World Cup organiser.
 [^task-mangomizer]: While not actually being part of the GMT itself, mangomizer is in the user group by technicality due to needing GMT-level permissions for access to internal forums.
-[^task-mao]: While not actually being part of the GMT itself, mangomizer is in the user group by technicality due to needing GMT-level permissions for access to internal forums.
+[^task-mao]: While not actually being part of the GMT itself, Mao is in the user group by technicality due to needing GMT-level permissions for access to internal forums.
