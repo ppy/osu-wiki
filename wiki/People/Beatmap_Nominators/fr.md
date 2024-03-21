@@ -73,7 +73,7 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 | ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464) | Suédois |
 | ::{ flag=US }:: [Bloxi](https://osu.ppy.sh/users/9022451) |  |
 | ::{ flag=PL }:: [browiec](https://osu.ppy.sh/users/9426712) |  |
-| ::{ flag=UK }:: [ckharv](https://osu.ppy.sh/users/9967026) |  |
+| ::{ flag=GB }:: [ckharv](https://osu.ppy.sh/users/9967026) |  |
 | ::{ flag=CL }:: [Cris-](https://osu.ppy.sh/users/6175280) | Espagnol |
 | ::{ flag=KR }:: [Dailycare](https://osu.ppy.sh/users/1634445) | Coréen |
 | ::{ flag=PL }:: [Embo](https://osu.ppy.sh/users/10045409) | Polonais |
@@ -95,7 +95,7 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 | ::{ flag=GB }:: [mnyui](https://osu.ppy.sh/users/14261540) |  |
 | ::{ flag=CA }:: [Mochi-](https://osu.ppy.sh/users/9312734) | Chinois |
 | ::{ flag=CH }:: [momoyo](https://osu.ppy.sh/users/12469536) |  |
-| ::{ flag=TW }:: [MuChin](https://osu.ppy.sh/users/9834516) | Chinois |
+| ::{ flag=TW }:: [Muchin](https://osu.ppy.sh/users/9834516) | Chinois |
 | ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | Roumain |
 | ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Russe |
 | ::{ flag=SG }:: [neonat](https://osu.ppy.sh/users/1561995) | Chinois |

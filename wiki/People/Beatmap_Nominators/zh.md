@@ -73,7 +73,7 @@ BN 可获得以下特权：
 | ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464) | 瑞典语 |
 | ::{ flag=US }:: [Bloxi](https://osu.ppy.sh/users/9022451) |  |
 | ::{ flag=PL }:: [browiec](https://osu.ppy.sh/users/9426712) |  |
-| ::{ flag=UK }:: [ckharv](https://osu.ppy.sh/users/9967026) |  |
+| ::{ flag=GB }:: [ckharv](https://osu.ppy.sh/users/9967026) |  |
 | ::{ flag=CL }:: [Cris-](https://osu.ppy.sh/users/6175280) | 西班牙语 |
 | ::{ flag=KR }:: [Dailycare](https://osu.ppy.sh/users/1634445) | 韩语 |
 | ::{ flag=PL }:: [Embo](https://osu.ppy.sh/users/10045409) | 波兰语 |
@@ -95,7 +95,7 @@ BN 可获得以下特权：
 | ::{ flag=GB }:: [mnyui](https://osu.ppy.sh/users/14261540) |  |
 | ::{ flag=CA }:: [Mochi-](https://osu.ppy.sh/users/9312734) | 汉语 |
 | ::{ flag=CH }:: [momoyo](https://osu.ppy.sh/users/12469536) |  |
-| ::{ flag=TW }:: [MuChin](https://osu.ppy.sh/users/9834516) | 汉语 |
+| ::{ flag=TW }:: [Muchin](https://osu.ppy.sh/users/9834516) | 汉语 |
 | ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | 罗马尼亚语 |
 | ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | 俄语 |
 | ::{ flag=SG }:: [neonat](https://osu.ppy.sh/users/1561995) | 汉语 |
