@@ -17,14 +17,16 @@ Standardmäßig wird jeder Text, der in der [Songauswahl](/wiki/Client/Interface
 
 Metadaten von Beatmaps können für eine genauere Filterung über die folgenden Operatoren mit bestimmten Werten verglichen werden:
 
-| Vergleich | Beschreibung |
-| :-: | :-- |
-| `=` (überall), `==` (in stable), `:` (in lazer und auf der Webseite) | Gleich |
-| `!=` | Nicht gleich |
-| `<` | Kleiner als |
-| `>` | Größer als |
-| `<=` | Kleiner als oder gleich |
-| `>=` | Größer als oder gleich |
+| Vergleich | osu!web | osu!(stable) | osu!(lazer) | Beschreibung |
+| :-: | :-- | :-- | :-- | :-- |
+| `=` | ![Ja][true] | ![Ja][true] | ![Ja][true] | Gleich |
+| `==` | ![Nein][false] | ![Ja][true] | ![Nein][false] | Gleich |
+| `:` | ![Ja][true] | ![Nein][false] | ![Ja][true] | Gleich |
+| `!=` | ![Nein][false] | ![Ja][true] | ![Nein][false] | Nicht gleich |
+| `<` | ![Ja][true] | ![Ja][true] | ![Ja][true] | Kleiner als |
+| `>` | ![Ja][true] | ![Ja][true] | ![Ja][true] | Größer als |
+| `<=` | ![Ja][true] | ![Ja][true] | ![Ja][true] | Kleiner als oder gleich |
+| `>=` | ![Ja][true] | ![Ja][true] | ![Ja][true] | Größer als oder gleich |
 
 ## Client
 
@@ -136,3 +138,6 @@ lastplayed>1y
 
 [^website-filters]: [osu!web Quellcode](https://github.com/ppy/osu-web/blob/c1a5dc390634accc87c12cb2cead73c45d8e7ad5/app/Libraries/Search/BeatmapsetQueryParser.php)
 [^lazer-filters]: [osu!(lazer) Quellcode](https://github.com/ppy/osu/blob/ae9a2661ace43a96a4fbf26072ed3efd0dc0ba54/osu.Game/Screens/Select/FilterQueryParser.cs)
+
+[true]: /wiki/shared/true.png
+[false]: /wiki/shared/false.png
