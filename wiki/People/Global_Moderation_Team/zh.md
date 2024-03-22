@@ -59,7 +59,6 @@ tags:
 - **职位奖牌**：从第 1 年到第 10 年内，可获得一个显示任期年份的[主页奖牌](/wiki/Community/Profile_badge)。
   ![1 年 GMT 奖牌](https://assets.ppy.sh/profile-badges/GMT1y.png "1 年 GMT 奖牌") ![2 年 GMT 奖牌](https://assets.ppy.sh/profile-badges/GMT2y.png "2 年 GMT 奖牌") ![3 年 GMT 奖牌](https://assets.ppy.sh/profile-badges/GMT3y.png?2024 "3 年 GMT 奖牌") ![4 年 GMT 奖牌](https://assets.ppy.sh/profile-badges/GMT4y.png?2024 "4 年 GMT 奖牌") ![5 年 GMT 奖牌](https://assets.ppy.sh/profile-badges/GMT5y.png?2024 "5 年 GMT 奖牌") ![6 年 GMT 奖牌](https://assets.ppy.sh/profile-badges/GMT6y.png "6 年 GMT 奖牌") ![7 年 GMT 奖牌](https://assets.ppy.sh/profile-badges/GMT7y.png "7 年 GMT 奖牌") ![8 年 GMT 奖牌](https://assets.ppy.sh/profile-badges/GMT8y.png "8 年 GMT 奖牌") ![9 年 GMT 奖牌](https://assets.ppy.sh/profile-badges/GMT9y.png "9 年 GMT 奖牌") ![10 年 GMT 奖牌](https://assets.ppy.sh/profile-badges/GMT10y.png "10 年 GMT 奖牌")
 
-
 ## 离开全局管理团队 (GMT)
 
 如果全局管理员选择卸任，他们将根据以下情况获得特权：
