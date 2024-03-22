@@ -113,7 +113,7 @@ Die [Gruppenseite des GMTs](https://osu.ppy.sh/groups/4) listet alle Teammitglie
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Deutsch | Moderation der Mapping-/Modding-Community |
 | ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | Deutsch | Chat-Moderation, Forum-Moderation |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Kantonesisch, Chinesisch | [^task-mangomizer] |
-| ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) | Deutsch |  |
+| ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) | Deutsch | [^task-mao] |
 | ::{ flag=BR }:: [maot](https://osu.ppy.sh/users/3914271) | Portugiesisch | Moderation der Mapping-/Modding-Community |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu!-Entwicklung |
 | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597) | Vietnamesisch | Chat-Moderation |
@@ -193,3 +193,4 @@ Die [Gruppenseite des GMTs](https://osu.ppy.sh/groups/4) listet alle Teammitglie
 
 [^task-Azer]: Azer ist zwar nicht Teil des GMTs selbst, gehört aber technisch gesehen zur Benutzergruppe, da er als Organisator des World Cups Berechtigungen auf GMT-Ebene benötigt.
 [^task-mangomizer]: mangomizer ist zwar nicht Teil des GMTs selbst, gehört aber technisch gesehen zur Benutzergruppe, da er für den Zugriff auf interne Foren Berechtigungen auf GMT-Ebene benötigt.
+[^task-mao]: Mao ist zwar nicht Teil des GMTs selbst, gehört aber technisch gesehen zur Benutzergruppe, da er für den Zugriff auf interne Foren Berechtigungen auf GMT-Ebene benötigt.
