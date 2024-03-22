@@ -12,7 +12,7 @@ The delightful scent of spring fills the air as visual appreciators (that's **yo
 
 In order to aid you with this conundrum, we've cooked you a slideshow to showcase all these splendid entries in conjunction with our very own Featured Artist [*Sound Souler*](https://osu.ppy.sh/beatmaps/artists/70)'s appropriately-named tune *Bubble Flower*:
 
-<div align="center">
+<div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
         <source src="https://assets.ppy.sh/contests/205/spring2024-voting.mp4" type="video/mp4" preload="none">
     </video>
