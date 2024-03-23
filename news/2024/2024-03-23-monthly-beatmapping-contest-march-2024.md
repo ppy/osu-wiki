@@ -69,8 +69,8 @@ Think you have what it takes to be showcased like the mappers above? This month'
 
 This month's contest is open to **osu!taiko** and **osu!catch** mappers.
 
-- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/205)
-- [osu!catch contest listing](https://osu.ppy.sh/community/contests/206)
+- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/206)
+- [osu!catch contest listing](https://osu.ppy.sh/community/contests/207)
 
 Hibernate for a month if you're an osu! or osu!mania mapper!
 
@@ -149,8 +149,8 @@ No more reading. Go to the editor and use the mapping side of your brain for a b
 
 Once your mental map turns into a digital map, plop it in one of these:
 
-- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/204)
-- [osu!catch contest listing](https://osu.ppy.sh/community/contests/205)
+- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/206)
+- [osu!catch contest listing](https://osu.ppy.sh/community/contests/207)
 
 You have until **April 14th** to submit your entry!
 
