@@ -182,7 +182,7 @@ The GB Cup 2024 Spring is run by Team GB and various community members.
 ### Scheduling information
 
 1. Each stage of the tournament is played during **2 weeks**.
-   - Group EX will play in the same week as Group S, and Group A in the same week as Group B.
+   - Group EX will play in the same week as Group B, and Group S in the same week as Group A.
 2. All matches will be held between Saturday 08:00, and Sunday 23:59 (UTC+08), save for exceptional circumstances.
 3. The organiser will provide alternative tournament slots before the start of matches each week, creating a schedule that is satisfactory to all players.
    - In case a special match time is required, please inform the organiser in advance. The organiser will try to fulfill the requirements of all players, but **cannot** make any guarantees.
