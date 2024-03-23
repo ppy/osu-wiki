@@ -177,7 +177,7 @@ Friday, 22 March 2024:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| **Chile** ::{ flag=CL }:: | **5** | 0 | ::{ flag=CO }:: Colombia | [#1](https://osu.ppy.sh/community/matches/113185322) | [#1](https://www.twitch.tv/videos/2098964086) |
+| **Finland** ::{ flag=FI }:: | **5** | 0 | ::{ flag=NO }:: Norway | [#1](https://osu.ppy.sh/community/matches/113179374) | [#1](https://www.twitch.tv/videos/2098391563) |
 
 Saturday, 23 March 2024:
 
