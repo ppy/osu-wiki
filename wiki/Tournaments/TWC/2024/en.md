@@ -110,25 +110,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253
 
 ## Match Schedule: Round of 32
 
-### Friday, 22 March 2024
-
-| Team A | Team B | Match time | Twitch stream |
-| --: | :-- | :-- | :-: |
-| Finland ::{ flag=FI }:: | ::{ flag=NO }:: Norway | [Mar 22 (Fri) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240322T170000&p1=1440&p2=101&p3=187) | [osulive](https://twitch.tv/osulive) |
-
-### Saturday, 23 March 2024
-
-| Team A | Team B | Match time | Twitch stream |
-| --: | :-- | :-- | :-: |
-| Chile ::{ flag=CL }:: | ::{ flag=CO }:: Colombia | [Mar 23 (Sat) 00:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240323T000000&p1=1440&p2=232&p3=41) | [osulive](https://twitch.tv/osulive) |
-| Taiwan ::{ flag=TW }:: | ::{ flag=HK }:: Hong Kong | [Mar 23 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240323T100000&p1=1440&p2=241&p3=102) | [osulive](https://twitch.tv/osulive) |
-| Japan ::{ flag=JP }:: | ::{ flag=DK }:: Denmark | [Mar 23 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240323T110000&p1=1440&p2=248&p3=69) | [osulive](https://twitch.tv/osulive) |
-| Malaysia ::{ flag=MY }:: | ::{ flag=CH }:: Switzerland | [Mar 23 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240323T140000&p1=1440&p2=122&p3=270) | [osulive](https://twitch.tv/osulive) |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=NL }:: Netherlands | [Mar 23 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240323T150000&p1=1440&p2=166&p3=16) | [osulive](https://twitch.tv/osulive) |
-| Canada ::{ flag=CA }:: | ::{ flag=ID }:: Indonesia | [Mar 23 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240323T160000&p1=1440&p2=188&p3=108) | [osulive](https://twitch.tv/osulive) |
-| Turkey ::{ flag=TR }:: | ::{ flag=PL }:: Poland | [Mar 23 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240323T180000&p1=1440&p2=19&p3=262) | [osulive](https://twitch.tv/osulive) |
-| United States ::{ flag=US }:: | ::{ flag=PE }:: Peru | [Mar 23 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240323T200000&p1=1440&p2=263&p3=131) | [osulive](https://twitch.tv/osulive) |
-
 ### Sunday, 24 March 2024
 
 | Team A | Team B | Match time | Twitch stream |
@@ -189,6 +170,21 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253
   1. [Chroma - To the Milky Way (davidminh0111) \[Supernova\]](https://osu.ppy.sh/beatmapsets/2148483#taiko/4525822)
 
 ## Match results
+
+### Round of 32
+
+Saturday, 23 March 2024:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Chile** ::{ flag=CL }:: | **5** | 0 | ::{ flag=CO }:: Colombia | [#1](https://osu.ppy.sh/community/matches/113185322) | [#1](https://www.twitch.tv/videos/2098964086) |
+| **Taiwan** ::{ flag=TW }:: | **5** | 0 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/113190279) | [#1](https://www.twitch.tv/videos/2098965925) |
+| **Japan** ::{ flag=JP }:: | **5** | 0 | ::{ flag=DK }:: Denmark | [#1](https://osu.ppy.sh/community/matches/113190789) | [#1](https://www.twitch.tv/videos/2098981785) |
+| **Malaysia** ::{ flag=MY }:: | **5** | 3 | ::{ flag=CH }:: Switzerland | [#1](https://osu.ppy.sh/community/matches/113193076) | [#1](https://www.twitch.tv/videos/2099153913) |
+| Russian Federation ::{ flag=RU }:: | 1 | **5** | ::{ flag=NL }:: **Netherlands** | [#1](https://osu.ppy.sh/community/matches/113194129) | [#1](https://www.twitch.tv/videos/2099154958) |
+| **Canada** ::{ flag=CA }:: | **5** | 1 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/113195029) | [#1](https://www.twitch.tv/videos/2099195311) |
+| **Turkey** ::{ flag=TR }:: | **5** | 4 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/113196968) | [#1](https://www.twitch.tv/videos/2099334355) |
+| **United States** ::{ flag=US }:: | **5** | 0 | ::{ flag=PE }:: Peru | [#1](https://osu.ppy.sh/community/matches/113198976) | [#1](https://www.twitch.tv/videos/2099424977) |
 
 ### Qualifiers
 
