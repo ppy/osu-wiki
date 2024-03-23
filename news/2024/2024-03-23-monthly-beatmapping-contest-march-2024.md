@@ -23,7 +23,7 @@ Navigate to whatever interests you:
 
 ### osu!taiko results
 
-[See the full results here.](https://mappersguild.com/contests/results?contest=6542a644f52b26875acc4a0c)
+[See the full results here.](https://mappersguild.com/contests/results?contest=659883b884cfb911c7ef12a1)
 
 #### Summary
 
@@ -43,7 +43,7 @@ Special thanks to [Yasuho](https://osu.ppy.sh/users/8458835), [arcpotato](https:
 
 ### osu!catch results
 
-[See the full results here.](https://mappersguild.com/contests/results?contest=6542a6b6f52b26875acc4a43)
+[See the full results here.](https://mappersguild.com/contests/results?contest=6598844584cfb911c7ef1335)
 
 #### Summary
 
