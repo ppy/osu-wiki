@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest: March 2024"
-date: 2024-03-23 00:00:00 +0000
+date: 2024-03-23 18:00:00 +0000
 ---
 
 The results are in! If you're an osu!taiko or osu!catch mapper, check out the winners from previous contest, plus the launch of a new contest!
