@@ -554,7 +554,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 ### Qualifier instructions
 
 1. In the Qualifier stage, all teams will play a specific pool designed by the mappool selectors.
-2. The Qualifier pool contains 8 maps, all of which will use [Free Mod](/wiki/Gameplay/Game_modifier#freemod) rules. There will be no tiebreakers for this stage.
+2. The Qualifier pool contains 8 maps, all of which will use [Free Mod](/wiki/Gameplay/Game_modifier#free-mod) rules. There will be no tiebreakers for this stage.
 3. Teams will be asked to play the mappool twice at a designated time. The team's best playthrough will be used for seeding.
 4. The mappool is to be played according to the order listed on this page.
    - Teams may skip playing any beatmap on their second run.
@@ -601,7 +601,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 ### Mappool instructions
 
 1. Every stage will have its own mappool.
-2. Each mappool consists of a fixed amount of maps each stage, all of which will be played under [Free Mod](/wiki/Gameplay/Game_modifier#freemod) conditions.
+2. Each mappool consists of a fixed amount of maps each stage, all of which will be played under [Free Mod](/wiki/Gameplay/Game_modifier#free-mod) conditions.
 3. The mappool sizes are as follows:
    - Qualifiers: 8 beatmaps
    - Round of 32: 13 beatmaps
