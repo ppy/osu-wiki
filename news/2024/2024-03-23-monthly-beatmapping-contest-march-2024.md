@@ -134,7 +134,7 @@ Additionally, a [**Mappers' Guild keychain**](/wiki/shared/news/2023-08-29-chang
 
 - **Submissions must follow the month's beatmapping [limitation](#limitation):**
   - **osu!taiko:** the first note after any slider velocity change must be a Kat.
-  - **osu!catch:** only use sliders (a.k.a. [fruit trails](/wiki/Game_mode/osu!catch#fruit-trails))
+  - **osu!catch:** map must only use sliders (a.k.a. [fruit trails](/wiki/Game_mode/osu!catch#fruit-trails)) and spinners (a.k.a. [bananas](/wiki/Game_mode/osu!catch#bananas))
 - **Submissions must be a single difficulty from one of the month's [selected songs](#songs).**
 - **Submissions must be in `.osz` format.**
 - **Submissions must NOT be uploaded to the osu! website until after the contest's results are finalised.**
