@@ -4,7 +4,7 @@ title: "Monthly Beatmapping Contest: March 2024"
 date: 2024-03-23 18:00:00 +0000
 ---
 
-The results are in! If you're an osu!taiko or osu!catch mapper, check out the winners from previous contest, plus the launch of a new contest!
+The results are in! If you're an osu!taiko or osu!catch mapper, check out the winners from the previous contest, plus the launch of a new contest!
 
 ![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
 
@@ -35,7 +35,7 @@ Navigate to whatever interests you:
 
 #### Top 10
 
-<div align="center">
+<div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/_f_F7jG269o" frameborder="0" allowfullscreen></iframe>
 </div>
 
@@ -55,7 +55,7 @@ Special thanks to [Yasuho](https://osu.ppy.sh/users/8458835), [arcpotato](https:
 
 #### Top 10
 
-<div align="center">
+<div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/YCL_kBJVKL8" frameborder="0" allowfullscreen></iframe>
 </div>
 
