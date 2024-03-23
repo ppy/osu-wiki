@@ -21,14 +21,16 @@ Par défaut, tout texte saisi à [l'écran de sélection des musiques](/wiki/Cli
 
 Les champs de métadonnées des beatmap peuvent être comparés à des valeurs spécifiques pour un filtrage plus précis, à l'aide des opérateurs suivants :
 
-| Comparaison | Description |
-| :-: | :-- |
-| `=` (n'importe ou), `==` (stable), `:` (lazer et site web) | Égale à |
-| `!=` | Pas égal à |
-| `<` | Inférieure à |
-| `>` | Supérieure à |
-| `<=` | Inférieur ou égal à |
-| `>=` | Supérieur ou égal à |
+| Comparaison | osu!web | osu!(stable) | osu!(lazer) | Description |
+| :-: | :-- | :-- | :-- | :-- |
+| `=` | ![Oui][vrai] | ![Oui][vrai] | ![Oui][vrai] | Égale à |
+| `==` | ![Non][faux] | ![Oui][vrai] | ![Non][faux] | Égale à |
+| `:` | ![Oui][vrai] | ![Non][faux] | ![Oui][vrai] | Égale à |
+| `!=` | ![Non][faux] | ![Oui][vrai] | ![Non][faux] | Pas égal à |
+| `<` | ![Oui][vrai] | ![Oui][vrai] | ![Oui][vrai] | Inférieure à |
+| `>` | ![Oui][vrai] | ![Oui][vrai] | ![Oui][vrai] | Supérieure à |
+| `<=` | ![Oui][vrai] | ![Oui][vrai] | ![Oui][vrai] | Inférieur ou égal à |
+| `>=` | ![Oui][vrai] | ![Oui][vrai] | ![Oui][vrai] | Supérieur ou égal à |
 
 ## Client
 
@@ -140,3 +142,6 @@ lastplayed>1y
 
 [^filtres-sites-web]: [Code source osu!web](https://github.com/ppy/osu-web/blob/c1a5dc390634accc87c12cb2cead73c45d8e7ad5/app/Libraries/Search/BeatmapsetQueryParser.php)
 [^filtres-lazer]: [Code source osu!(lazer)](https://github.com/ppy/osu/blob/ae9a2661ace43a96a4fbf26072ed3efd0dc0ba54/osu.Game/Screens/Select/FilterQueryParser.cs)
+
+[vrai]: /wiki/shared/true.png
+[faux]: /wiki/shared/false.png

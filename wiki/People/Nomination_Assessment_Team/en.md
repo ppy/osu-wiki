@@ -170,9 +170,10 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | :-- | :-- |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamese |
 | ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | Chinese |
+| ::{ flag=US }:: [Hugged](https://osu.ppy.sh/users/12589220) | Turkish |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesian |
+| ::{ flag=DZ }:: [Scotty](https://osu.ppy.sh/users/11085809) | Arabic, French |
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Catalan, Spanish |
-| ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | Danish |
 
 ### Structural
 
@@ -195,7 +196,6 @@ The following NAT members are primarily evaluators, but also contribute to struc
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | NAT Leadership, [BN Management website](https://bn.mappersguild.com) and [osu!taiko MV plugin](https://github.com/Hiviexd/MVTaikoChecks) development |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | BN events organisation |
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | [osu!mania MV plugin](https://github.com/MChecaH/ManiaCheck) development |
-| ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | [osu!mania MV plugin](https://github.com/MChecaH/ManiaCheck) development |
 
 ---
 
