@@ -209,7 +209,7 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 
 | Links | FA | Song | Beatmap | Notes |
 | --: | :-: | :-- | :-: | :-- |
-|  |  | Cansol - Train of Thought | [#1](https://osu.ppy.sh/beatmapsets/2155531) | Round of 16 tiebreaker |
+|  | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Cansol&query=%22Train%20of%20Thought%22 "Featured Artist listing") | Cansol - Train of Thought | [#1](https://osu.ppy.sh/beatmapsets/2155531) | Round of 16 tiebreaker |
 |  |  | Hamu feat. Natsuki Karin - Sunao ni Naritai (osu! Edit Ver.)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2152060) | Round of 32 HD1 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/part-lerts/osu-taiko-world-cup-2024-aqua-vitae-feat-kagamine-rin-kagamine-len "SoundCloud") |  | ptar124 - aqua vitae feat. Kagamine Rin & Kagamine Len |  | Round of 16 NM1 |
 |  |  | Tedjimo yomigY - Usuva Kagerow[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2155520) | Round of 16 HR1 |
