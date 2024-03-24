@@ -49,7 +49,7 @@ Special thanks to [Yasuho](https://osu.ppy.sh/users/8458835), [arcpotato](https:
 
 | Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| 1st | [Unlucky_w](https://osu.ppy.sh/users/4820793) | [MOMODEMO - Love Language](https://osu.ppy.sh/beatmapsets/2152480) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | +2 (5 total) |
+| 1st | [Unlucky_w](https://osu.ppy.sh/users/4820793) | [MEMODEMO - Love Language](https://osu.ppy.sh/beatmapsets/2152480) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | +2 (5 total) |
 | 2nd | [Dika312](https://osu.ppy.sh/users/741613) | [Snails & Pegboard Nerds - Deep In The Night](https://osu.ppy.sh/beatmapsets/2152539) | - | +1 (1 total) |
 | 3rd | [Malai](https://osu.ppy.sh/users/4863096) | [DOT96 - MAKE IT FUNKY NOW](https://osu.ppy.sh/beatmapsets/2152487) | - | - |
 
