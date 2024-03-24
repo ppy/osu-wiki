@@ -72,7 +72,7 @@ Tournois officiels organisés par l'équipe d'osu!.
 | Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne de bronze][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu!mania World Cup 2014](MWC/2014) (4K) | 01/07/2014 | 14/09/2014 | ::{ flag=KR }:: Corée du Sud | ::{ flag=PH }:: Philippines | ::{ flag=MY }:: Malaisie |
-| [osu!mania World Cup 2014](MWC/2014) (7K) | 01/07/2014 | 14/09/2014 | ::{ flag=KR }:: Corée du Sud | ::{ flag=TH }:: ThaÏlande | ::{ flag=MY }:: Malaisie |
+| [osu!mania World Cup 2014](MWC/2014) (7K) | 01/07/2014 | 14/09/2014 | ::{ flag=KR }:: Corée du Sud | ::{ flag=TH }:: Thaïlande | ::{ flag=MY }:: Malaisie |
 | [osu!mania 4K World Cup 2015](MWC/2015) | 13/07/2015 | 27/09/2015 | ::{ flag=US }:: États-Unis | ::{ flag=JP }:: Japon | ::{ flag=GB }:: Royaume-Uni |
 | [osu!mania 7K World Cup 2016](MWC/2016_7K) | 01/12/2015 | 14/02/2016 | ::{ flag=CN }:: Chine | ::{ flag=KR }:: Corée du Sud | ::{ flag=MY }:: Malaisie |
 | [osu!mania 4K World Cup 2016](MWC/2016_4K) | 28/06/2016 | 11/09/2016 | ::{ flag=KR }:: Corée du Sud | ::{ flag=BR }:: Brésil | ::{ flag=US }:: États-Unis |
@@ -126,7 +126,7 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | 4 Digit World Cup 2019 | 24/05/2019 | 25/08/2019 | ::{ flag=US }:: États-Unis | ::{ flag=GB }:: Royaume-Uni | ::{ flag=RU }:: Fédération de Russie |
 | 4 Digit World Cup 2020 | 28/06/2020 | 28/09/2020 | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: États-Unis | ::{ flag=RU }:: Fédération de Russie |
 | 4 Digit World Cup 2022 | 05/12/2021 | 06/03/2022 | ::{ flag=CN }:: Chine | ::{ flag=SG }:: Singapore | ::{ flag=CA }:: Canada |
-| 4 Digit World Cup 2023 | 07/05/2023 | 23/07/2023 | ::{ flag=US }:: États-Unis | ::{ flag=CA }:: Canada | ::{ flag=TH }:: ThaÏlande |
+| 4 Digit World Cup 2023 | 07/05/2023 | 23/07/2023 | ::{ flag=US }:: États-Unis | ::{ flag=CA }:: Canada | ::{ flag=TH }:: Thaïlande |
 | [4 Digit World Cup 2024](4WC/2024) | 04/05/2024 | 16/06/2024 | *À déterminé* | *À déterminé* | *À déterminé* |
 
 #### Aetherian's Summer Singles
