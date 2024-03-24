@@ -6,7 +6,7 @@ date: 2024-03-24 21:00:00 +0000
 
 **Cansol** takes the plunge into our Featured Artists!
 
-![](https://assets.ppy.sh/artists/407/header1111111.jpg)
+![](https://assets.ppy.sh/artists/407/header.jpg)
 
 **Cansol**'s main goal is to simply make music that is both creative and fun, incorporating future bass sounds akin to [Zekk](https://osu.ppy.sh/beatmaps/artists/76), [Mameyudoufu](https://osu.ppy.sh/beatmaps/artists/209), and [polysha](https://osu.ppy.sh/beatmaps/artists/146), along with [Street](https://osu.ppy.sh/beatmaps/artists/89)-inspired artcore, plus [Sobrem](https://osu.ppy.sh/beatmaps/artists/338) and [NIWASHI](https://osu.ppy.sh/beatmaps/artists/228)-esque jazz!
 
@@ -16,16 +16,16 @@ After making an impact in games like *A Dance of Fire and Ice*, *KALPA*, *Lanota
 
 <div align="center">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/artists/407/release_showcase111111111.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/artists/407/release_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
 ### Cansol - Train of Thought
 
-Try [the map for this osu! original](LINK) hosted by [USER](LINK)!
+Try [the map for this osu! original](https://osu.ppy.sh/beatmapsets/2155531) hosted by [Nurend](https://osu.ppy.sh/beatmapsets/2155531)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/407/Songs/Cansol - Train of Thought.mp3">
 </audio>
 
 ### Cansol - 1,2,3,4!
@@ -33,13 +33,13 @@ Try [the map for this osu! original](LINK) hosted by [USER](LINK)!
 Experience [the map that introduced **Cansol** to osu!](https://osu.ppy.sh/beatmapsets/1658671) hosted by [uone](https://osu.ppy.sh/users/5321719) or [this 4K osu!mania rendition](https://osu.ppy.sh/beatmapsets/1926697) hosted by [snomi](https://osu.ppy.sh/users/14410101)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/407/Songs/Cansol - 1,2,3,4!.mp3">
 </audio>
 
 ### Cansol - Curtain Call
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/407/Songs/Cansol - Curtain Call.mp3">
 </audio>
 
 ---
