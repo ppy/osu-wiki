@@ -234,9 +234,9 @@ Algunas palabras tienen variantes. Se debe usar su ortografía preferida y es la
 
 Estas palabras deben escribirse de la siguiente manera (los espacios deben coincidir):
 
-- `NoMods`, `NoMod`, o `NM`
-- `FreeMods`, `FreeMod`, o `FM`
-- `Tiebreaker`
+- `No Mod` o `NM`
+- `Free Mod` `FM`
+- `Desempate`
 
 ## Abreviaturas, acrónimos e iniciales
 
