@@ -544,7 +544,7 @@ The final standings for the Qualifier stage can be found at the following [sprea
 ### Qualifier instructions
 
 1. In the Qualifier stage, all teams will play a specific pool designed by the mappool selectors.
-2. The mappool will contain 5 brackets: [NoMod](/wiki/Gameplay/Game_modifier#nomod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), and [FreeMod](/wiki/Gameplay/Game_modifier#freemod). There will be no tiebreakers for this stage.
+2. The mappool will contain 5 brackets: [NoMod](/wiki/Gameplay/Game_modifier#no-mod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), and [FreeMod](/wiki/Gameplay/Game_modifier#free-mod). There will be no tiebreakers for this stage.
 3. The Qualifier pool will consist of 10 maps. There will be 3 maps under the No Mod bracket, 2 maps for the Hidden, Hard Rock, and Double Time brackets, and 1 map for the FreeMod bracket.
 4. Teams will be asked to play the mappool twice at a designated time. The team's best playthrough will be used for seeding.
 5. The mappool is to be played according to the order listed on this page.
@@ -591,7 +591,7 @@ The final standings for the Qualifier stage can be found at the following [sprea
 ### Mappool instructions
 
 1. Every stage will have its own mappool.
-2. Each mappool consists of 5 brackets: [NoMod](/wiki/Gameplay/Game_modifier#nomod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) and [FreeMod](/wiki/Gameplay/Game_modifier#freemod).
+2. Each mappool consists of 5 brackets: [NoMod](/wiki/Gameplay/Game_modifier#no-mod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) and [FreeMod](/wiki/Gameplay/Game_modifier#free-mod).
 3. The mappool sizes are as follows:
    - Qualifiers: 10 beatmaps
    - Round of 32 and Round of 16: 14 beatmaps
@@ -600,8 +600,8 @@ The final standings for the Qualifier stage can be found at the following [sprea
 4. Each mappool has one tiebreaker, except for the Qualifiers.
 5. The NoMod bracket will be played with the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod activated.
 6. The [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) and [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) brackets will be played with the respective mods activated along with the No Fail mod.
-7. The [FreeMod](/wiki/Gameplay/Game_modifier#freemod) bracket will have Free Mods activated. The valid mod combinations for each player are:
-   - [NoMod](/wiki/Gameplay/Game_modifier#nomod) – no mods selected
+7. The [FreeMod](/wiki/Gameplay/Game_modifier#free-mod) bracket will have Free Mods activated. The valid mod combinations for each player are:
+   - [NoMod](/wiki/Gameplay/Game_modifier#no-mod) – no mods selected
    - Hidden
    - Hard Rock
    - Hidden + Hard Rock

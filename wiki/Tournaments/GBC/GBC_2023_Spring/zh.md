@@ -286,7 +286,7 @@ GBC 2023 春季周常活动由 GB 成员和多位社区成员举办。
 ### 图池结构
 
 1. 每组各有四轮图池，每组每轮使用一个图池。
-2. 每个图池由 7 张谱面组成，这些谱面都将在 [FreeMod](/wiki/Gameplay/Game_modifier#自由选择模组-(freemod)) 条件下游玩。
+2. 每个图池由 7 张谱面组成，这些谱面都将在 [FreeMod](/wiki/Gameplay/Game_modifier#自由选择模组-(free-mod)) 条件下游玩。
    - Freemod 允许的 mod 包括 `No Fail`, `Hidden`, `Fade In`, `Flashlight`, and `Mirror`.
 3. 图池中所包含的谱面键型并不固定。
 
