@@ -34,6 +34,8 @@ With the start of the new World Cup comes a batch of top-notch maps made to chal
     </video>
 </div>
 
+Check out the [beatmap of the above cute video here](https://osu.ppy.sh/beatmapsets/2152060#taiko/4534320)!
+
 [![](/wiki/shared/news/2024-03-27-osutaiko-world-cup-2024-round-of-32-recap/Frozen_Blood.jpg)](https://osu.ppy.sh/beatmapsets/2152052#taiko/4534309)
 
 <div class="osu-md__paragraph">
