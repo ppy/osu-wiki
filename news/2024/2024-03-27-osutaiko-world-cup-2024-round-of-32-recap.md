@@ -29,7 +29,7 @@ That's not the only amazing thing that happened last week, but you'll have to re
 With the start of the new World Cup comes a batch of top-notch maps made to challenge players even at the earliest stages of the tournament. The key word describing last week's pool is "volatile", meaning players' skills and nerves were tested, making for very exciting matches. Amongst the maps there are 2 new [osu! originals](/wiki/osu!_originals) meant as a bow-tie on an already good pool, and we've prepared a nice showcase of them right below!
 
 <div align="center" class="osu-md__paragraph">
-    <video width="95%" controls>
+    <video width="100%" controls>
         <source src="https://wala.s-ul.eu/AELGPExQ" type="video/mp4" preload="none">
     </video>
 </div>
