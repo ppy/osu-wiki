@@ -12,7 +12,7 @@ date: 2024-03-24 23:59:00 +0000
 
 After making an impact in games like *A Dance of Fire and Ice*, *KALPA*, *Lanota*, *Rizline*, and *Dynamix*, it's about time **Cansol** stepped up in osu! too.
 
-**5** songs are up for grabs on [**Cansol**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/407), including a brand-new [osu! original](/wiki/osu!_originals#osu!taiko-world-cup-2024) that debuted on [today's TWC livestream](https://www.twitch.tv/videos/2100512474?t=00h01m25s):
+**5** songs are up for grabs on [**Cansol**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/407), including a brand-new [osu! original](/wiki/osu!_originals#osu!taiko-world-cup-2024) that debuted on [today's TWC livestream](https://www.twitch.tv/videos/2100512474?t=00h45m18s):
 
 <div align="center">
     <video width="95%" controls>
