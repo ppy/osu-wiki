@@ -118,6 +118,11 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
+| 4 Digit World Cup | 26.07.2018 | 21.10.2018 | ::{ flag=NL }:: Niederlande | ::{ flag=RU }:: Russische Föderation | ::{ flag=HK }:: Hong Kong |
+| 4 Digit World Cup 2019 | 24.05.2019 | 25.08.2019 | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=GB }:: Vereinigtes Königreich | ::{ flag=RU }:: Russische Föderation |
+| 4 Digit World Cup 2020 | 28.06.2020 | 28.09.2020 | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=RU }:: Russische Föderation |
+| 4 Digit World Cup 2022 | 05.12.2021 | 06.03.2022 | ::{ flag=CN }:: China | ::{ flag=SG }:: Singapur | ::{ flag=CA }:: Kanada |
+| 4 Digit World Cup 2023 | 07.05.2023 | 23.07.2023 | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=CA }:: Kanada | ::{ flag=TH }:: Thailand |
 | [4 Digit World Cup 2024](4WC/2024) | 04.05.2024 | 16.06.2024 | *TBD* | *TBD* | *TBD* |
 
 #### Aetherian's Summer Singles
