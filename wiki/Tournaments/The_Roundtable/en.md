@@ -9,7 +9,7 @@ tags:
 
 ![The Roundtable banner](/wiki/shared/news/2022-07-08-the-roundtable/roundtable_banner.png)
 
-**The Roundtable** is a 16 player in-person invitational event featuring various tournaments throughout its 3 day duration. The event is hosted in Los Angeles by ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691).
+**The Roundtable** was a 16 player in-person invitational event featuring various tournaments throughout its 3 day duration. The event was hosted in Los Angeles by ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691).
 
 ## Tournaments
 
@@ -22,7 +22,7 @@ tags:
 
 ## Organisation
 
-**The Roundtable** is run by various community members.
+**The Roundtable** was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |

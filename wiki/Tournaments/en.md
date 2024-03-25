@@ -107,11 +107,23 @@ Unofficial tournaments/competitions hosted by the communities.
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| 3 Digit World Cup | 2019-03-15 | 2019-05-26 | ::{ flag=KR }:: South Korea | ::{ flag=RU }:: Russian Federation | ::{ flag=US }:: United States |
+| 3 Digit World Cup | 2019-03-15 | 2019-05-26 | ::{ flag=KR }:: South Korea | ::{ flag=US }:: United States | ::{ flag=RU }:: Russian Federation |
 | 3 Digit World Cup 2020 | 2020-03-16 | 2020-05-31 | ::{ flag=US }:: United States | ::{ flag=BR }:: Brazil | ::{ flag=TW }:: Taiwan |
 | [3 Digit World Cup 2021](3WC/2021) | 2021-02-24 | 2021-05-09 | ::{ flag=TW }:: Taiwan | ::{ flag=PL }:: Poland | ::{ flag=US }:: United States |
 | 3 Digit World Cup 2022 | 2022-02-20 | 2022-05-08 | ::{ flag=HK }:: Hong Kong | ::{ flag=CN }:: China | ::{ flag=ID }:: Indonesia |
 | 3 Digit World Cup 2023 | 2023-02-17 | 2023-04-30 | ::{ flag=KR }:: South Korea | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: United States |
+| 3 Digit World Cup 2024 | 2023-12-25 | 2024-03-10 | ::{ flag=KR }:: South Korea | ::{ flag=US }:: United States | ::{ flag=BR }:: Brazil |
+
+#### 4 Digit World Cup
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| 4 Digit World Cup | 2018-07-26 | 2018-10-21 | ::{ flag=NL }:: Netherlands | ::{ flag=RU }:: Russian Federation | ::{ flag=HK }:: Hong Kong |
+| 4 Digit World Cup 2019 | 2019-05-24 | 2019-08-25 | ::{ flag=US }:: United States | ::{ flag=GB }:: United Kingdom | ::{ flag=RU }:: Russian Federation |
+| 4 Digit World Cup 2020 | 2020-06-28 | 2020-09-28 | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: United States | ::{ flag=RU }:: Russian Federation |
+| 4 Digit World Cup 2022 | 2021-12-05 | 2022-03-06 | ::{ flag=CN }:: China | ::{ flag=SG }:: Singapore | ::{ flag=CA }:: Canada |
+| 4 Digit World Cup 2023 | 2023-05-07 | 2023-07-23 | ::{ flag=US }:: United States | ::{ flag=CA }:: Canada | ::{ flag=TH }:: Thailand |
+| [4 Digit World Cup 2024](4WC/2024) | 2024-05-04 | 2024-06-16 | *TBD* | *TBD* | *TBD* |
 
 #### Aetherian's Summer Singles
 
