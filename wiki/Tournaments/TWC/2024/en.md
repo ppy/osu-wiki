@@ -213,7 +213,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253
 
 ### Round of 32
 
-The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1Ik9AOAkdUBKwGi6qYNsAIwhlYG1vVKjP6SXH67in6pk?rm=minimal).
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1Ik9AOAkdUBKwGi6qYNsAIwhlYG1vVKjP6SXH67in6pk?rm=minimal).
 
 Friday, 22 March 2024:
 
