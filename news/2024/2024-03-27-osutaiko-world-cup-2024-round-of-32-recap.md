@@ -8,7 +8,7 @@ Get your Taikonator plushies out and get ready to cheer on your favourite countr
 
 ![](/wiki/Tournaments/TWC/2024/img/twc2024-banner.jpg)
 
-The osu!taiko World Cup is officially underway, and we are once again delivering the freshest recaps of the previous week! Keeping the "world first" streak from the recently-ended MWC7K World Cup alive, the community has had a world first of their own with the **first official Round of 32 tiebreaker in the history of TWC**, and to make their record even more unique, it happened twice!
+The osu!taiko World Cup is officially underway, and we are once again delivering the freshest recaps of the previous week! Keeping the "world first" streak from the recently-ended MWC7K World Cup alive, the osu!taiko community has had a world first of their own with the **first official Round of 32 tiebreaker in the history of TWC**, and to make their record even more unique, it happened twice!
 
 That's not the only amazing thing that happened last week, but you'll have to read on to get the full scoop.
 
@@ -26,7 +26,7 @@ That's not the only amazing thing that happened last week, but you'll have to re
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&time=0h48m54s&video=2093904149" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-With the start of the new World Cup comes a batch of top-notch maps made to challenge players even at the earliest stages of the tournament. The key word describing last week's pool is "volatile", meaning players' skills and nerves were tested, making for very exciting matches. Amongst the maps there are 2 new [osu! originals](/wiki/osu!_originals) meant to tie the bow-tie on an already spicy pool, and we've prepared a nice showcase of them right below!
+With the start of the new World Cup comes a batch of top-notch maps made to challenge players even at the earliest stages of the tournament. The key word describing last week's pool is "volatile", meaning players' skills and nerves were tested, making for very exciting matches. Amongst the maps there are 2 new [osu! originals](/wiki/osu!_originals) meant as a bow-tie on an already good pool, and we've prepared a nice showcase of them right below!
 
 [![](/wiki/shared/news/2024-03-27-osutaiko-world-cup-2024-round-of-32-recap/Sunao_ni_Naritai.jpg)](https://osu.ppy.sh/beatmapsets/2152060#taiko/4534320)
 
@@ -71,7 +71,7 @@ Without further ado, let's get into the highlight matches of the week! Drum roll
 
 ## Match highlights
 
-::{ flag=MY }:: Malaysia vs. ::{ flag=CH }:: Switzerland
+### ::{ flag=MY }:: Malaysia vs. ::{ flag=CH }:: Switzerland
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2099153913&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
@@ -83,7 +83,7 @@ Switzerland decides there's no better opener than [KISIDA KYODAN & THE AKEBOSI R
 
 The teams continue to trade blows throughout the remaining picks, but just as all the viewers collectively scream in excitement for a tiebreaker, Malaysia narrowly avoids it through a win on [REDALiCE feat. Nomiya Ayumi - Colors](https://osu.ppy.sh/beatmapsets/1578929#taiko/3223966) and leave their shadow clones behind as they move on to the Round of 16 Winners' Bracket.
 
-::{ flag=TR }:: Turkey vs. ::{ flag=PL }:: Poland
+### ::{ flag=TR }:: Turkey vs. ::{ flag=PL }:: Poland
 
 Team Turkey, spearheaded by ::{ flag=TR }:: [frukoyurdakul](https://osu.ppy.sh/users/7612550), returns after a 2023 hiatus alongside TWC newcomers ::{ flag=TR }:: [magev](https://osu.ppy.sh/users/13892153), ::{ flag=TR }:: [Zmor0133](https://osu.ppy.sh/users/6419257) and ::{ flag=TR }:: [Ryukishi](https://osu.ppy.sh/users/9045874). Their placements on the Qualifiers leaderboards make a nice V-shape, clearly illustrating that they're not too fond of Hidden. Their opponents, Team Poland, sport their previous roster as well as introducing a new member in the way of ::{ flag=PL }:: [Dynutka](https://osu.ppy.sh/users/5947521). Poland's Qualifiers scores hover closely around Turkey's, even beating them out on the aforementioned Hidden.
 
@@ -93,7 +93,7 @@ Turkey picks up a win with [Namiguru - Zunda Party Night](https://osu.ppy.sh/bea
 
 [Yuuni - Frozen Blood](https://osu.ppy.sh/beatmapsets/2152052#taiko/4534309) fittingly sends chills down both teams' spines, and after a well-deserved timeout they begin their final battle. Turkey using 2 mods, Poland only 1. frukoyurdakul seems to have greatly enjoyed the timeout, as despite the added pressure of mods, he brings it home for his team with a 99.86% Hidden Full Combo.
 
-::{ flag=DE }:: Germany vs. ::{ flag=AR }:: Argentina
+### ::{ flag=DE }:: Germany vs. ::{ flag=AR }:: Argentina
 
 Looking at Germany's roster for TWC 2024, you'd probably let out a wholeheartedly neutral "huh." Having finished 3rd in 2023, the previous German team decided that this was a good time to let the fresh blood shine with an entirely new roster. A roster that has landed them smack-bang in the middle of the seeding at #15, their Qualifiers results showing a clear preference for reading-based maps such as gimmicks and Hard Rock.
 
