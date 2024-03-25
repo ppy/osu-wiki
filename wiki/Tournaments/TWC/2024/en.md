@@ -141,11 +141,11 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253
 
 ### Round of 16
 
-**[Download the mappack here (83 MB, *temporary link*)](https://leoflt.com/s/dJXt)**\
+**[Download the mappack here (83 MB)](https://packs.ppy.sh/P241%20-%20osu!taiko%20World%20Cup%202024%3A%20Round%20of%2016.zip)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2100512474)
 
 - No Mod
-  1. [ptar124 - aqua vitae feat. Kagamine Rin & Kagamine Len (Cynplytholowazy) \[Life-Water\] *(temporary link)*](https://leoflt.com/s/zTGF)
+  1. [ptar124 - aqua vitae feat. Kagamine Rin & Kagamine Len (Cynplytholowazy) \[Life-Water\]](https://osu.ppy.sh/beatmapsets/2155621#taiko/4543646)
   2. [ALEPH - IMPULSE (\_Rise) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1387209#taiko/2865261)
   3. [Nanahoshi Kangengakudan - FREEDMAN (Cut Ver.) (Nwolf) \[Inner Oni (1.15x)\]](https://osu.ppy.sh/beatmapsets/2155512#taiko/4543418)
   4. [Rish feat. Choko - Waaa (Mew) \[:v: :grin: :v:\]](https://osu.ppy.sh/beatmapsets/2155513#taiko/4543420)
@@ -212,6 +212,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253
 ## Match results
 
 ### Round of 32
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1Ik9AOAkdUBKwGi6qYNsAIwhlYG1vVKjP6SXH67in6pk?rm=minimal).
 
 Friday, 22 March 2024:
 
