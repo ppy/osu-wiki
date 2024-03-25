@@ -85,6 +85,10 @@ The teams continue to trade blows throughout the remaining picks, but just as al
 
 ### ::{ flag=TR }:: Turkey vs. ::{ flag=PL }:: Poland
 
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2099334355&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+</div>
+
 Team Turkey, spearheaded by ::{ flag=TR }:: [frukoyurdakul](https://osu.ppy.sh/users/7612550), returns after a 2023 hiatus alongside TWC newcomers ::{ flag=TR }:: [magev](https://osu.ppy.sh/users/13892153), ::{ flag=TR }:: [Zmor0133](https://osu.ppy.sh/users/6419257) and ::{ flag=TR }:: [Ryukishi](https://osu.ppy.sh/users/9045874). Their placements on the Qualifiers leaderboards make a nice V-shape, clearly illustrating that they're not too fond of Hidden. Their opponents, Team Poland, sport their previous roster as well as introducing a new member in the way of ::{ flag=PL }:: [Dynutka](https://osu.ppy.sh/users/5947521). Poland's Qualifiers scores hover closely around Turkey's, even beating them out on the aforementioned Hidden.
 
 Turkey opens by playing it safe, testing the waters with [KISIDA KYODAN & THE AKEBOSI ROCKETS - Shinkuu no Melancholy](https://osu.ppy.sh/beatmapsets/2152054#taiko/4534311). However, things quickly go south, as scattered misses give Poland a lead that they carry all the way to a break point. Poland then immediately move on to [Power Of Nature - BabeL ~Next Story~](https://osu.ppy.sh/beatmapsets/699595#taiko/1481393) and secure another point with a gamble on Turkey's Qualifiers weakness.
@@ -94,6 +98,10 @@ Turkey picks up a win with [Namiguru - Zunda Party Night](https://osu.ppy.sh/bea
 [Yuuni - Frozen Blood](https://osu.ppy.sh/beatmapsets/2152052#taiko/4534309) fittingly sends chills down both teams' spines, and after a well-deserved timeout they begin their final battle. Turkey using 2 mods, Poland only 1. frukoyurdakul seems to have greatly enjoyed the timeout, as despite the added pressure of mods, he brings it home for his team with a 99.86% Hidden Full Combo.
 
 ### ::{ flag=DE }:: Germany vs. ::{ flag=AR }:: Argentina
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2100431997&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+</div>
 
 Looking at Germany's roster for TWC 2024, you'd probably let out a wholeheartedly neutral "huh." Having finished 3rd in 2023, the previous German team decided that this was a good time to let the fresh blood shine with an entirely new roster. A roster that has landed them smack-bang in the middle of the seeding at #15, their Qualifiers results showing a clear preference for reading-based maps such as gimmicks and Hard Rock.
 
