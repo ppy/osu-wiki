@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!taiko World Cup 2024: Round of 24 Recap"
+title: "osu!taiko World Cup 2024: Round of 32 Recap"
 date: 2024-03-27 18:00:00 +0000
 ---
 
