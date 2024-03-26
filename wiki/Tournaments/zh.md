@@ -111,11 +111,12 @@ outdated_translation: true
 
 | 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| 3 Digit World Cup | 2019-03-15 | 2019-05-26 | ::{ flag=KR }:: 韩国 | ::{ flag=RU }:: 俄罗斯 | ::{ flag=US }:: 美国 |
+| 3 Digit World Cup | 2019-03-15 | 2019-05-26 | ::{ flag=KR }:: 韩国 | ::{ flag=US }:: 美国 | ::{ flag=RU }:: 俄罗斯 |
 | 3 Digit World Cup 2020 | 2020-03-16 | 2020-05-31 | ::{ flag=US }:: 美国 | ::{ flag=BR }:: 巴西 | ::{ flag=TW }:: 台湾 |
 | [3 Digit World Cup 2021](3WC/2021) | 2021-02-24 | 2021-05-09 | ::{ flag=TW }:: 台湾 | ::{ flag=PL }:: 波兰 | ::{ flag=US }:: 美国 |
 | 3 Digit World Cup 2022 | 2022-02-20 | 2022-05-08 | ::{ flag=HK }:: 香港 | ::{ flag=CN }:: 中国 | ::{ flag=ID }:: 印度尼西亚 |
 | 3 Digit World Cup 2023 | 2023-02-17 | 2023-04-30 | ::{ flag=KR }:: 韩国 | ::{ flag=HK }:: 香港 | ::{ flag=US }:: 美国 |
+| 3 Digit World Cup 2024 | 2023-12-25 | 2024-03-10 | ::{ flag=KR }:: 韩国 | ::{ flag=US }:: 美国 | ::{ flag=BR }:: 巴西 |
 
 #### Aetherian's Summer Singles
 
