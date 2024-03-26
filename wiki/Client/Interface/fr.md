@@ -232,7 +232,7 @@ Cliquez sur le bouton `Beatmap Options`, appuyez sur `F3` ou cliquez avec le bou
 - Appuyez sur `1` ou cliquez sur le bouton `Gérer les collections...` pour faire apparaître le gestionnaire de collections - ici, vous pouvez gérer les collections préexistantes, ainsi qu'ajouter ou supprimer la beatmap ou le jeu de maps sélectionné d'une collection.
 - Appuyez sur `2` ou cliquez sur `Supprimer...` pour supprimer \[1\] toutes les difficultés actuellement sélectionnée, \[2\] supprimer la difficulté actuellement sélectionner, ou \[3\] supprimer **TOUTES les beatmaps VISIBLES**..
   - Notez que les beatmaps supprimés sont déplacés vers la corbeille.
-- Appuyez sur `3` ou cliquez sur `Marquer la beatlao comme jouée` pour marquer une beatmap non jouée comme jouée (c'est à dire changer la couleur de sa boîte de rose à orange).
+- Appuyez sur `3` ou cliquez sur `Marquer la beatmap comme jouée` pour marquer une beatmap non jouée comme jouée (c'est à dire changer la couleur de sa boîte de rose à orange).
 - Appuyez sur `4` ou cliquez sur `Effacer les scores locaux` pour effacer tous les enregistrements des scores que vous avez réalisés dans cette beatmap.
 - Appuyez sur `5` ou cliquez sur `Éditer` pour ouvrir la beatmap sélectionnée dans l'éditeur d'osu!.
 - Appuyez sur `6` ou `Esc` ou cliquez sur `Annuler` pour revenir à l'écran de sélection des musiques.
