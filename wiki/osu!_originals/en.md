@@ -13,7 +13,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 | Links | FA | Song | Notes |
 | --: | :-: | :-- | :-- |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/olemlanglie/cysmix-triangles-osulazer "SoundCloud") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=cYsmix&query=%22triangles%22 "Featured Artist listing") | cYsmix - triangles | Current osu!(lazer) main theme |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/nekodex/aureole "SoundCloud") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=nekodex&query=%22aureole%22 "Featured Artist listing") | nekodex - aureole | Christmas/Winter 2017 osu! theme |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/nekodex/aureole "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=dJf7qiIdltw "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://nekodex.bandcamp.com/track/aureole-osu-xmas-2017 "Bandcamp") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=nekodex&query=%22aureole%22 "Featured Artist listing") | nekodex - aureole | Christmas/Winter 2017 osu! theme |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/nekodex/carol-of-the-circles "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=Uaz-vy5Rt1s "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/5718w1TMjxcIr7vXmQ75yH "Spotify") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=nekodex&query=%22carol%20of%20the%20circles%22 "Featured Artist listing") | nekodex - carol of the circles | Christmas/Winter 2019 osu! theme |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/nekodex/circles "SoundCloud") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/3aqCYbgsFHjxNRWxvXRhwH "Spotify") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=nekodex&query=%22circles%21%22 "Featured Artist listing") | nekodex - circles\! | 2015 osu! theme |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/nekodex/liquid-future "SoundCloud") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/52pki0fUSF3NszNNdEZJS7 "Spotify") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=nekodex&query=%22Liquid%20Future%22 "Featured Artist listing") | nekodex - Liquid Future | Original composition for [osu!stream](/wiki/osu!stream) |
@@ -205,6 +205,16 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 |  | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=LV.4&query=%22Vortex%20of%20Sorrow%22 "Featured Artist listing") | LV.4 feat. Mawata Spica - Vortex of Sorrow | [#1](https://osu.ppy.sh/beatmapsets/1980701) | Grand Finals FM3 |
 |  | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Toromaru&query=%22Sleight%20of%20Hand%22 "Featured Artist listing") | Toromaru - Sleight of Hand | [#1](https://osu.ppy.sh/beatmapsets/1972518) | Semifinals NM2 |
 
+#### ![](/wiki/shared/mode/taiko.png) [osu!taiko World Cup 2024](/wiki/Tournaments/TWC/2024)
+
+| Links | FA | Song | Beatmap | Notes |
+| --: | :-: | :-- | :-: | :-- |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/cansol/train-of-thought-master "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=F8vn1K5o2Eo "YouTube") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Cansol&query=%22Train%20of%20Thought%22 "Featured Artist listing") | Cansol - Train of Thought | [#1](https://osu.ppy.sh/beatmapsets/2155531) | Round of 16 tiebreaker |
+|  |  | Hamu feat. Natsuki Karin - Sunao ni Naritai (osu! Edit Ver.)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2152060) | Round of 32 HD1 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/part-lerts/osu-taiko-world-cup-2024-aqua-vitae-feat-kagamine-rin-kagamine-len "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=yqt0V-_bkM0 "YouTube") |  | ptar124 - aqua vitae feat. Kagamine Rin & Kagamine Len | [#1](https://osu.ppy.sh/beatmapsets/2155621) | Round of 16 NM1 |
+|  |  | Tedjimo yomigY - Usuva Kagerow[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2155520) | Round of 16 HR1 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/yuunimoosic/frozenblood "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=8EJP0j_Jvs8 "YouTube") |  | Yuuni - Frozen Blood | [#1](https://osu.ppy.sh/beatmapsets/2152052) | Round of 32 tiebreaker |
+
 #### ![](/wiki/shared/mode/catch.png) [osu!catch World Cup 2021](/wiki/Tournaments/CWC/2021)
 
 | Links | FA | Song | Beatmap | Notes |
@@ -226,12 +236,6 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 |  | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=LV.4&query=%22Chemical%20Diving%22 "Featured Artist listing") | LV.4 - Chemical Diving | [#1](https://osu.ppy.sh/beatmapsets/2026273) | Finals HR1 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/myukke/anti-safety-zone-from-osucatch-world-cup-2023 "SoundCloud") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/3Nrfda871Tw8XZOiHkNXH1 "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://myukke.bandcamp.com/track/anti-safety-zone "Bandcamp") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=MYUKKE.&query=%22Anti%20Safety%20Zone%22 "Featured Artist listing") | MYUKKE. - Anti Safety Zone | [#1](https://osu.ppy.sh/beatmapsets/2004086) | Semifinals HD3 |
 |  | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Toromaru&query=%22Erinyes%22 "Featured Artist listing") | Toromaru - Erinyes | [#1](https://osu.ppy.sh/beatmapsets/2000438) | Quarterfinals HR3 |
-
-#### ![](/wiki/shared/mode/mania.png) Combro Cup
-
-| Links | FA | Song | Beatmap | Notes |
-| --: | :-: | :-- | :-: | :-- |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/akiwimoosic/break-for-everest-4 "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=7nWeTnRzalg "YouTube") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Akiri&query=%22Break%20For%20Everest%22 "Featured Artist listing") | Akiri - Break For Everest | [#1](https://osu.ppy.sh/beatmapsets/1910964) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/mania.png) [osu!mania 4K World Cup 2019](/wiki/Tournaments/MWC/2019_4K)
 
@@ -289,7 +293,7 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 |  | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Lime%20%2F%20Kankitsu&query=%22Campanella%22 "Featured Artist listing") | Lime - Campanella | [#1](https://osu.ppy.sh/beatmapsets/2134145) | Finals RC3 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/seatrus_frontier/from-mwc-2024-grandfinals-tiebreaker-seatrus-disanimate "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=HN_E0OteuCA "YouTube") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=seatrus&query=%22DiSANiMATE%22 "Featured Artist listing") | seatrus - DiSANiMATE | [#1](https://osu.ppy.sh/beatmapsets/2137728) | Grand Finals tiebreaker |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sydosys/voyage "SoundCloud") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://sydosys.bandcamp.com/track/voyage "Bandcamp") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Sydosys&query=%22Voyage%22 "Featured Artist listing") | Sydosys - Voyage | [#1](https://osu.ppy.sh/beatmapsets/2130624) | Semifinals RC4 |
-|  | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=technoplanet&query=%22Vomit%22 "Featured Artist listing") | technoplanet - Vomit | [#1](https://osu.ppy.sh/beatmapsets/2134140) | Finals HB3 |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=3uN1uRwtQ1E "YouTube") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=technoplanet&query=%22Vomit%22 "Featured Artist listing") | technoplanet - Vomit | [#1](https://osu.ppy.sh/beatmapsets/2134140) | Finals HB3 |
 
 ### Community-run tournament releases
 
@@ -340,6 +344,15 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | Links | FA | Song | Beatmap | Notes |
 | --: | :-: | :-- | :-: | :-- |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sydosys/ryo-supercell-feat-hatsune-miku-kocchi-muite-baby-sydosys-remix "SoundCloud") |  | ryo (supercell) feat. Hatsune Miku - Kocchi Muite Baby (Sydosys remix)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1968676) | Grand Finals HD3 |
+
+#### ![](/wiki/shared/mode/osu.png) Battle of the Box 2024: Da Frengeon
+
+| Links | FA | Song | Beatmap | Notes |
+| --: | :-: | :-- | :-: | :-- |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/coulmusic/asthewordcollapses "SoundCloud") |  | coul - As the world collapses... (feat. Hatsune Miku) | [#1](https://osu.ppy.sh/beatmapsets/2138053) | Finals & Last Chance Bracket Pool #1 HR3 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/user-598209031/doomsday-luytens-star "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=sblgIglxhvI "YouTube") |  | Doomsday - Luyten's Star | [#1](https://osu.ppy.sh/beatmapsets/2134395) | Quarterfinals & Semifinals tiebreaker |
+|  |  | supercell feat. Hatsune Miku - Black*Rock Shooter (djkirakira remix) | [#1](https://osu.ppy.sh/beatmapsets/2134651) | Quarterfinals & Semifinals HR1 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sydosys/echoes-of-the-past-ft-hatsune "SoundCloud") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://sydosys.bandcamp.com/album/echoes-of-the-past "Bandcamp") |  | Sydosys - Echoes of the Past[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2137990) | Finals & Last Chance Bracket Pool #1 tiebreaker |
 
 #### ![](/wiki/shared/mode/osu.png) Charlie's Perfect Math Class
 
@@ -470,6 +483,12 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/rurinn/harumachi-elevator "SoundCloud") |  | rN - Harumachi Elevator[^fa] |  | Livestream BGM |
 |  |  | VINXIS - Harumachi Clover (VINXIS Dopamine Hit)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1817125) | Semifinals tiebreaker |
 
+#### ![](/wiki/shared/mode/osu.png) Konoha Cup 4
+
+| Links | FA | Song | Beatmap | Notes |
+| --: | :-: | :-- | :-: | :-- |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/coulmusic/suneater "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=eF9fhkJfaQE "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://coul.bandcamp.com/track/sun-eater "Bandcamp") |  | coul - Sun//Eater | [#1](https://osu.ppy.sh/beatmapsets/2051558) | Finals tiebreaker |
+
 #### ![](/wiki/shared/mode/osu.png) Manten's European Bluelock
 
 | Links | FA | Song | Beatmap | Notes |
@@ -487,6 +506,12 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | Links | FA | Song | Beatmap | Notes |
 | --: | :-: | :-- | :-: | :-- |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/samstring/crystalised-euphoria "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=EMsWUqqlwy8 "YouTube") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=SAMString&query=%22Crystalised%20Euphoria%22 "Featured Artist listing") | SAMString - Crystalised Euphoria | [#1](https://osu.ppy.sh/beatmapsets/1819473) | Grand Finals NM7 |
+
+#### ![](/wiki/shared/mode/osu.png) Random Digit Tournament
+
+| Links | FA | Song | Beatmap | Notes |
+| --: | :-: | :-- | :-: | :-- |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/axisakajp/sterope-ii-random-digit-tournament-grand-finals-tie-breaker "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=cJsbWtJA71Q "YouTube") |  | AXiS as "Luinara" (Ft. Eleanor Forte) - Sterope II | [#1](https://osu.ppy.sh/beatmapsets/2145419) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/osu.png) Resurrection Cup
 
@@ -655,7 +680,7 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=eAaJjlP2N_A "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/6q2RcXvX4ptRQ5f4BWzNQR "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://gtsosu.bandcamp.com/track/mam-rozbite-sluchatka-placem "Bandcamp") |  | kyou1110 - Mam rozbite sluchatka placem | [#1](https://osu.ppy.sh/beatmapsets/1846616) | Quarterfinals tiebreaker |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/n1wa5h1/niwashi-silence-is-golden-speech-is-golden "SoundCloud") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/43RtZ0JzkM2AULffycFHIm "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://gtsosu.bandcamp.com/track/silence-is-golden-speech-is-golden "Bandcamp") |  | NIWASHI - Silence is Golden, Speech is Golden[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1833489) | Round of 32 NM1 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/luzeria/breakthrough "SoundCloud") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/3q8LHYe8UagP4EFKFUP85u "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://gtsosu.bandcamp.com/track/--2 "Bandcamp") |  | one fourteen - break through | [#1](https://osu.ppy.sh/beatmapsets/1850900) | Semifinals NM1 |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/rurinn/dichroma "SoundCloud") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/4laRw6CEFFsQBv1UD1EPet "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://gtsosu.bandcamp.com/track/dichroma-ludiosia "Bandcamp") |  | rN vs. [Shanom, ptar124 & Zekai] - dichroma, ludiosia.[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1842219) | Round of 16 tiebreaker |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/rurinn/dichroma "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=OhrQU0DWdH8 "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/4laRw6CEFFsQBv1UD1EPet "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://gtsosu.bandcamp.com/track/dichroma-ludiosia "Bandcamp") |  | rN vs. [Shanom, ptar124 & Zekai] - dichroma, ludiosia.[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1842219) | Round of 16 tiebreaker |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/5kilobyte/ultimate "SoundCloud") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/1aEC2KY6Iz9ZwEYKmT9l2F "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://gtsosu.bandcamp.com/track/ultimate "Bandcamp") |  | Rukadesu & 5KiLOBYTE - ULTIMATE | [#1](https://osu.ppy.sh/beatmapsets/1859283) | Grand Finals FM3 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sadkeyboardguy/reflection-shift "SoundCloud") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/5Xmr1PbQr3YuH3AxuCm7OO "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://gtsosu.bandcamp.com/track/reflection-shift "Bandcamp") |  | Sad Keyboard Guy - Reflection Shift | [#1](https://osu.ppy.sh/beatmapsets/1851049) | Semifinals FM3 |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=2IS9oBstIcY "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://gtsosu.bandcamp.com/track/giri-the-giri "Bandcamp") |  | Slax - Giri the Giri | [#1](https://osu.ppy.sh/beatmapsets/1828739) | Round of 128 HD2 |
@@ -743,6 +768,12 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/silis/gts-orchestra-team-wie-der "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=r_oHmD-iy3M "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/2nJbymPLN98Hwx44DGzX3S "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://gtsosu.bandcamp.com/track/wie-der-bambus-steht-starr-in-der-stille-der-dunkelheit "Bandcamp") |  | GTS Orchestra Team - Wie der Bambus steht, starr in der Stille der Dunkelheit[^fa] |  | Trailer music |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/uchphppii24c/crevasse-hoar "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=r9A5q7dyga0 "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/2xloLqcF9O0vVeagpgMDn8 "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://nullspecification.bandcamp.com/track/crevasse-hoar "Bandcamp") |  | Null Specification - Crevasse Hoar | [#1](https://osu.ppy.sh/beatmapsets/1952276) | Finals tiebreaker |
 
+#### ![](/wiki/shared/mode/taiko.png) Touhou Mania Cup 3rd
+
+| Links | FA | Song | Beatmap | Notes |
+| --: | :-: | :-- | :-: | :-- |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/user-679008856/thmc3-gftb-noma-nadeshiko-sanzu-no-kawa-ninngyou-gekijyou "SoundCloud") |  | Noma Nadeshiko - Sanzu no Kawa Ninngyou Gekijyou | [#1](https://osu.ppy.sh/beatmapsets/2016006) | Grand Finals tiebreaker |
+
 #### ![](/wiki/shared/mode/taiko.png) _gt's Taiko All Rounder Tournament
 
 | Links | FA | Song | Beatmap | Notes |
@@ -817,6 +848,18 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 |  |  | 004 - Monumental Crash | [#1](https://osu.ppy.sh/beatmapsets/2048282) | Semifinals HD1 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/kanemiko/comet-casting-capsule-long-version "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=kv3fhj4bA9g "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/4UQdw2EFnu4YwQYgogMgyC "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://kanemiko.bandcamp.com/track/comet-casting-capsule-catching-celestial-clusters-long-version "Bandcamp") |  | kanemiko - comet casting capsule ("catching celestial clusters" Long Version)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2055747) | Grand Finals tiebreaker |
 
+#### ![](/wiki/shared/mode/catch.png) 4 Digit United States Catch Cup 2024
+
+| Links | FA | Song | Beatmap | Notes |
+| --: | :-: | :-- | :-: | :-- |
+|  |  | pioneer - Undying Star | [#1](https://osu.ppy.sh/beatmapsets/2148731) | Grand Finals NM2 |
+
+#### ![](/wiki/shared/mode/catch.png) Australian Open Tournament 4
+
+| Links | FA | Song | Beatmap | Notes |
+| --: | :-: | :-- | :-: | :-- |
+| [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://phlitphliphlphp.bandcamp.com/track/autonomous-obscure-terrain-type-4 "Bandcamp") |  | Phlit - autonomous obscure terrain (type 4) | [#1](https://osu.ppy.sh/beatmapsets/2145432) | Semifinals tiebreaker |
+
 #### ![](/wiki/shared/mode/catch.png) AxS 7th Edition
 
 | Links | FA | Song | Beatmap | Notes |
@@ -860,12 +903,25 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | --: | :-: | :-- | :-: | :-- |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/billiummoto/cryochemistry "SoundCloud") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/4BzcuXnq9WoEonaE4lIppO "Spotify") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=BilliumMoto&query=%22Cryochemistry%22 "Featured Artist listing") | BilliumMoto x Akiri - Cryochemistry | [#1](https://osu.ppy.sh/beatmapsets/1698378) | Grand Finals tiebreaker |
 
+#### ![](/wiki/shared/mode/mania.png) 4K Korean Mania Tournament 2
+
+| Links | FA | Song | Beatmap | Notes |
+| --: | :-: | :-- | :-: | :-- |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/silis/my-angel-goodbye "SoundCloud") |  | SiLiS - My Angel Goodbye | [#1](https://osu.ppy.sh/beatmapsets/2141241) | Semifinals LN3 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sugosugiii/the-edge-of-bravery "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=X18KZ9iDFtg "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/51x3wlubWAr7wqDRwYB4UK "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://sugosugiii.bandcamp.com/track/the-edge-of-bravery "Bandcamp") |  | sugosugiii - The Edge of Bravery | [#1](https://osu.ppy.sh/beatmapsets/2148426) | Grand Finals tiebreaker |
+
 #### ![](/wiki/shared/mode/mania.png) 6K Autumn Showdown Tournament
 
 | Links | FA | Song | Beatmap | Notes |
 | --: | :-: | :-- | :-: | :-- |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/indekkusu/autumn-dusk-at-the-maple-park "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=SPJA6cfAqH8 "YouTube") |  | HowToPlayLN - autumn dusk at the maple park |  | Ending credits theme |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/raphlesia/resolve-means-to-an-end "SoundCloud") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://raphlesia.bandcamp.com/track/resolve-means-to-an-end "Bandcamp") |  | Raphlesia - ResolvE -means to an end- | [#1](https://osu.ppy.sh/beatmapsets/2095581) | Grand Finals tiebreaker |
+
+#### ![](/wiki/shared/mode/mania.png) Combro Cup
+
+| Links | FA | Song | Beatmap | Notes |
+| --: | :-: | :-- | :-: | :-- |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/akiwimoosic/break-for-everest-4 "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=7nWeTnRzalg "YouTube") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Akiri&query=%22Break%20For%20Everest%22 "Featured Artist listing") | Akiri - Break For Everest | [#1](https://osu.ppy.sh/beatmapsets/1910964) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/mania.png) DDS Tournament
 
@@ -924,9 +980,21 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | Links | FA | Song | Beatmap | Notes |
 | --: | :-: | :-- | :-: | :-- |
 |  |  | dMinor117 & ShirinNeko - d Minor Sonatine (Insomnia) | [#1](https://osu.ppy.sh/beatmapsets/2019496) | Playoff 2 RC5 |
-|  |  | Laxeno57 - Kaleido | [#1](https://osu.ppy.sh/beatmapsets/2043910) | Grand Finals tiebreaker |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=auxym3cNqFA "YouTube") |  | Laxeno57 - Kaleido | [#1](https://osu.ppy.sh/beatmapsets/2043910) | Grand Finals tiebreaker |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/samstring/celestial-solace "SoundCloud") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=SAMString&query=%22Celestial%20Solace%22 "Featured Artist listing") | SAMString - Celestial Solace | [#1](https://osu.ppy.sh/beatmapsets/2031765) | Quarterfinals HB2 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sydosys/she-grand-on-my-finals-till-i-hb3 "SoundCloud") |  | Sydosys - she grand on my finals till i hb3[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2043993) | Grand Finals HB3 |
+
+#### ![](/wiki/shared/mode/mania.png) osu!mania 7K Chinese National Cup 2023
+
+| Links | FA | Song | Beatmap | Notes |
+| --: | :-: | :-- | :-: | :-- |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/user-679008856/mcnc7k2023-cybernetic-mastermind-no7 "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=QB4QF33fX7g "YouTube") |  | Normal1zer vs. Broken Nerdz - Cybernetic Mastermind No.7 | [#1](https://osu.ppy.sh/beatmapsets/1939331) | Grand Finals tiebreaker |
+
+#### ![](/wiki/shared/mode/mania.png) osu!mania 7K Chinese National Cup 2024
+
+| Links | FA | Song | Beatmap | Notes |
+| --: | :-: | :-- | :-: | :-- |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=mFkbG48-KI0 "YouTube") |  | DeformedEutopia (Nirotiy + AiSS) - Chong Xiao - The Multitude of Empyrean - | [#1](https://osu.ppy.sh/beatmapsets/2133204) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/mania.png) [osu!mania LN Tournament 3](/wiki/Tournaments/o!mLN/3)
 
@@ -935,7 +1003,7 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/indekkusu/lncryption "SoundCloud") |  | HowToPlayLN - LNCryption | [#1](https://osu.ppy.sh/beatmapsets/1893946) | Grand Finals wildcard |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/takehirotei/howtoplayln-normal-distribution-takehirotei-t-distribution-remixstatistically-significant "SoundCloud") |  | HowToPlayLN - Normal Distribution (takehirotei "t-distribution" remix) | [#1](https://osu.ppy.sh/beatmapsets/1880819) | Quarterfinals wildcard |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/indekkusu/pallet-rearrangement "SoundCloud") |  | PSYQUI - Pallet (HowToPlayLN's Piano+Cello Rearrangement) |  | Ending credits scene |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/user-679008856/om-ln3-custom-song-supa7onyz-pres-5-let-unsynchronized-rhythms "SoundCloud") |  | Supa7onyz pres. 5-let - Unsynchronized Rhythms | [#1](https://osu.ppy.sh/beatmapsets/1893947) | Grand Finals technical |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/user-679008856/om-ln3-custom-song-supa7onyz-pres-5-let-unsynchronized-rhythms "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=IqZt3mqMIS0 "YouTube") |  | Supa7onyz pres. 5-let - Unsynchronized Rhythms | [#1](https://osu.ppy.sh/beatmapsets/1893947) | Grand Finals technical |
 
 #### ![](/wiki/shared/mode/mania.png) [osu!mania Malaysia Tournament 3](/wiki/Tournaments/OMMT/3)
 
