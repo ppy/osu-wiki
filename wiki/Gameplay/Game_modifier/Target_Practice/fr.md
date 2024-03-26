@@ -1,4 +1,5 @@
 ---
+no_native_review: true
 stub: true
 tags:
   - target practice
@@ -7,8 +8,6 @@ tags:
   - game modifier
   - cutting edge
   - modificateur de jeu
-outdated_translation: true
-outdated_since: f765631cd44ae8e9acea47ce6c88b9ec510998b3
 ---
 
 # Le mod Target Practice
@@ -27,19 +26,23 @@ outdated_since: f765631cd44ae8e9acea47ce6c88b9ec510998b3
 
 ## Description
 
-*Attention : L'activation du mod Target Practice entraînera un jeu non classé*.
+*Remarque : L'activation de Target Practice entraînera un jeu non classé.*
 
-Le mod **Target Practice** est un [modificateur de jeu](/wiki/Gameplay/Game_modifier) expérimental qui supprime tous les [objets](/wiki/Gameplay/Hit_object) mappés et les remplace par un ensemble simplifié et cohérent de "cibles".
+Le mod **Target Practice** est un [modificateur de jeu](/wiki/Gameplay/Game_modifier) expérimental pour [osu!](/wiki/Game_mode/osu!), qui supprime tous les [objets](/wiki/Gameplay/Hit_object) mappés et les remplace par un ensemble simplifié de "cibles". Il est utilisé principalement pour s'amuser, mais peut également être utile pour s'entraîner à un tempo cohérent et améliorer la précision des coups.
 
-Lors d'une partie avec le mod Target Practice activé, les joueurs se voient présenter un ensemble de "cibles" dont la taille et la luminosité augmentent lentement. Le joueur est censé toucher ou cliquer sur les cibles lorsqu'elles ont atteint leur taille et leur luminosité maximales et que le moment est venu. Un métronome constant sera joué en arrière-plan pour indiquer aux joueurs quand ils doivent toucher la cible.
+Lorsque Target Practice est activé, osu! cache la barre de santé et le compteur de précision. Le joueur doit frapper les cibles qui apparaissent progressivement sur le [terrain de jeu](/wiki/Client/Playfield), avec l'intention d'atteindre leur centre. Pour maintenir un rythme stable, les joueurs peuvent suivre le métronome qui joue en arrière-plan.
 
-Ce mod est surtout utilisé pour le plaisir, mais il peut aussi être utilisé pour s'entraîner à maintenir un tempo constant.
+Le jeu continue jusqu'au premier [MISS](/wiki/Gameplay/Judgement/osu!), qui amène le joueur à [l'écran des résultats](/wiki/Client/Interface#écran-des-résultats). La signification des différents grades est similaire à celle de [osu!mania](/wiki/Gameplay/Grade#osu!mania).
+
+## Cibles
+
+Une cible peut être considérée comme un type spécial de [cercle](/wiki/Gameplay/Hit_object/Hit_circle) sans [numéro de combo](/wiki/Beatmapping/Combo). Le score et la précision des coups dépendent de la position et du timing du coup : plus ceux-ci sont précis et justes, plus le nombre de points est élevé, un coup idéal valant 250 points. Sur le terrain de jeu, les cibles sont placées en groupes, un nouveau groupe commençant tous les deux [battements complets](/wiki/Music_theory/Beat). L'espacement au sein d'un groupe reste constant et augmente légèrement à chaque nouveau groupe.
 
 ![Gameplay du mod TP](img/TP-gameplay.jpg "Gameplay d'osu! avec le mod Target Practice activé")
 
 ## Le saviez-vous ?
 
-- Le Target Practice Mod utilisera les [couleurs de combo](/wiki/Beatmapping/Combo_colour) qui sont marquées dans le dossier [skin.ini](/wiki/Skinning/skin.ini) du joueur.
-- En cas d'échec à une partie avec le mod Target Practice activé, le joueur sera amené à l'écran de classement, au lieu d'un écran d'échec.
+- Le mod Target Practice utilise les [couleurs de combo](/wiki/Beatmapping/Combo_colour) du [skin.ini](/wiki/Skinning/skin.ini) du skin actif.
+- Un échec à Target Practice amène le joueur à l'écran des résultats au lieu de l'écran d'échec.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
