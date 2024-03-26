@@ -30,7 +30,7 @@ With the start of the new World Cup comes a batch of top-notch maps made to chal
 
 <div align="center" class="osu-md__paragraph">
     <video width="100%" controls>
-        <source src="https://wala.s-ul.eu/AELGPExQ" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/2024-03-27-sunao-ni-naritai.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
