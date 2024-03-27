@@ -2,6 +2,8 @@
 tags:
   - NAT
 no_native_review: true
+outdated_translation: true
+outdated_since: 6aa2116c3fcbc6bbfba929cf8006aad03ac32997
 ---
 
 # Nomination Assessment Team
