@@ -2,7 +2,7 @@
 
 **Project Loved** es la plataforma de votación que promueve beatmaps a la categoría [amados](/wiki/Beatmap/Category#loved). Es coordinado principalmente por el [Project Loved Team](/wiki/People/Project_Loved_Team).
 
-## Promoviendo un beatmap a Amados
+## Promoviendo un beatmap a amados
 
 Los beatmaps son promovidos a la categoría Amados por un proceso de nominación y votación.
 
