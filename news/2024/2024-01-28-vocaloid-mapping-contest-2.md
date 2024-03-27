@@ -62,8 +62,8 @@ We're also revamping the format to ensure that each entry receives high-quality 
 | Announcement | 2024-01-28 |
 | Submission | 2024-01-28 to 2024-03-01 |
 | Screening\* | 2024-03-01 to 2024-03-08 |
-| Judging | 2024-03-08 to 2024-03-29 |
-| Results livestream | 2024-03-31 @ 18:00 UTC (tentative) |
+| Judging | 2024-03-08 to 2024-04-05 |
+| Results livestream | 2024-04-07 @ 18:00 UTC |
 
 The results will be streamed LIVE on the [*Vocaloid Appreciation Team* Twitch account](https://www.twitch.tv/vocaloidappreciationteam) with commentary.
 
