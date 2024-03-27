@@ -5,7 +5,7 @@ outdated_translation: true
 
 # Медали
 
-**Медали**, ранее известные как *достижения*, — значки в игровом профиле, показывающие, что игрок достиг определённой цели. В данный момент в osu! существует **314** медалей, разделенных на 8 групп: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights) и [Beatmap Challenge Packs](#beatmap-challenge-packs).
+**Медали**, ранее известные как *достижения*, — значки в игровом профиле, показывающие, что игрок достиг определённой цели. В данный момент в osu! существует **324** медалей, разделенных на 8 групп: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights) и [Beatmap Challenge Packs](#beatmap-challenge-packs).
 
 ## Beatmap Packs
 
