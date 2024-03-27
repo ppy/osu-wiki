@@ -19,8 +19,8 @@ This second iteration of the VMC featured a new VOCALOID Featured Artist, suppor
 | Announcement | 2024-01-28 |
 | Submission | 2024-01-28 to 2024-03-01 |
 | Screening[^screening] | 2024-03-01 to 2024-03-08 |
-| Judging | 2024-03-08 to 2024-03-29 |
-| Results livestream | 2024-03-31 @ 18:00 UTC (tentative) |
+| Judging | 2024-03-08 to 2024-04-05 |
+| Results livestream | 2024-04-07 @ 18:00 UTC |
 
 The results are streamed live on the [*Vocaloid Appreciation Team* Twitch account](https://www.twitch.tv/vocaloidappreciationteam) with commentary. Further details regarding the stream will be provided in this article, the news post, and in the Discord server.
 
