@@ -38,7 +38,7 @@ Asegúrate de que la sala tenga el nombre correcto siguiendo atentamente la [gu�
 
 ## ¡Los nombres de los equipos no se muestran!
 
-Véase la respuesta anterior.
+Consulta la respuesta anterior.
 
 ## ¿Cómo transmito mi torneo a servicios de transmisión como Twitch?
 
