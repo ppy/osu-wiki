@@ -253,7 +253,7 @@ Las abreviaturas, acrónimos e iniciales deben escribirse con mayúscula, salvo 
 Las abreviaturas, acrónimos e inicialismos no deben ser pluralizados. Lo siguiente es un ejemplo:
 
 ```markdown
-Evita:  Los BNs pueden nominar tu beatmap.
+Evita:    Los BNs pueden nominar tu beatmap.
 
 Prefiere: Los Beatmap Nominators pueden nominar tu beatmap.
 ```
