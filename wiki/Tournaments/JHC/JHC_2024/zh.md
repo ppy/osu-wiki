@@ -134,7 +134,7 @@ tags:
 ### 资格赛介绍
 
 1. 资格赛阶段中，每个选手需要游玩 6 张由图池管理员定制的谱面组成的图池。
-2. 资格赛图池包含 6 张谱面，均应用 [Free Mod](/wiki/Gameplay/Game_modifier#自由选择模组-(freemod)) 规则。谱面类型分别为:
+2. 资格赛图池包含 6 张谱面，均应用 [Free Mod](/wiki/Gameplay/Game_modifier#自由选择模组-(free-mod)) 规则。谱面类型分别为:
    - DS: Dense Chordjack（大型大叠）
    - MD: Middle Chordjack（中型大叠）
    - LT: Light Chordjack（轻型大叠）
@@ -180,7 +180,7 @@ tags:
 ### 图池结构
 
 1. 各阶段有各自的图池。
-2. 每轮图池的所有谱面都是在 [FreeMod](/wiki/Gameplay/Game_modifier#自由选择模组-(freemod)) 条件下游玩。
+2. 每轮图池的所有谱面都是在 [FreeMod](/wiki/Gameplay/Game_modifier#自由选择模组-(free-mod)) 条件下游玩。
 3. 每轮图池的数量如下:
    - 资格赛：6 张
    - 32 强赛和 16 强赛：12 张
