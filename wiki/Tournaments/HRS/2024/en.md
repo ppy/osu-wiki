@@ -162,7 +162,7 @@ Hard Rock Showdown is run by various community members.
 
 ### Round of 32
 
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1dNZJHwjySXZoxzrM-CekqCZqX9P-K5eHeW-QNl-Vwm0?rm=minimal).
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1x12zpERrE3IO0iqs840YBVJDFuAOOHxU4en4v3bdSbU/edit#gid=795207119).
 
 Saturday, 23 March 2024:
 
