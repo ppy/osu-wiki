@@ -20,8 +20,8 @@ Cette deuxième édition du VMC a accueilli un nouvel Featured Artist de VOCALOI
 | Annonce | 28/01/2024 |
 | Soumission | Du 28/01/2024 au 01/03/2024 |
 | Sélection[^sélection] | Du 01/03/2024 au 08/03/2024 |
-| Jugement | Du 08/03/2024 au 29/03/2024 |
-| Résultats livestream | 31/03/2024 @ 18:00 UTC (tentative) |
+| Jugement | Du 08/03/2024 au 05/04/2024 |
+| Résultats livestream | 07/04/2024 @ 18:00 UTC |
 
 Les résultats sont diffusés en direct sur le [Compte Twitch *Vocaloid Appreciation Team*](https://www.twitch.tv/vocaloidappreciationteam) avec des commentaires. D'autres détails concernant le stream seront fournis dans cet article, dans le post de news, et dans le serveur Discord.
 
