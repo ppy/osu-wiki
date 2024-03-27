@@ -57,7 +57,7 @@ Estos atajos funcionan en cualquier lugar:
 | Atajo | Acción |
 | :-- | :-- |
 | `Z` o `F1` | Reproduce la canción anterior. |
-| `X` o `F2` | Reproduce la cancion. Si se está reproduciendo, la canción vuelve a empezar. |
+| `X` o `F2` | Reproduce la canción. Si se está reproduciendo, la canción vuelve a empezar. |
 | `C` | Alterna entre la pausa y la reproducción. |
 | `F4` | Detiene la reproducción (restablece el tiempo actual). |
 | `V` o `F5` | Reproduce la siguiente canción. |
@@ -294,4 +294,4 @@ Estos atajos funcionan en cualquier lugar dentro del editor de beatmaps:
 | `Mayús` mientras ajustas el BPM o la compensación | Incrementa 5 veces la cantidad normal. |
 | `Ctrl` mientras ajustas el BPM | Incrementa en 0,25 |
 | `Ctrl` mientras ajustas la compensación | Incrementa en 1. |
-| `Ctrl` mientras ajustas la velocicad del slider | Incrementa en 0,1. |
+| `Ctrl` mientras ajustas la velocidad del slider | Incrementa en 0,1. |
