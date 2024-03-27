@@ -262,7 +262,7 @@ Prefiere: Los Beatmap Nominators pueden nominar tu beatmap.
 
 `jugador`, `usuario`, `skinner`, `storyboarder` y `creador` deben usarse cuando se hace referencia al lector u otra persona. `ellos`, `su` y `sus` pueden usarse cuando sea necesario.
 
-Se debe evitar `tú` y `tu`. No se debe usar `yo`. No se debe usar `nosotros`, `él` y `ella` (consulta arriba para otros términos).
+Se debe evitar el uso de `tú` y `tu`. No se debe usar `yo`. No se debe usar `nosotros`, `él` y `ella` (consulta arriba para otros términos).
 
 ---
 
