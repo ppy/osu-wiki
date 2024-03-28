@@ -1,8 +1,3 @@
----
-outdated_since: d2826e9551f51c507052b76f56b366d1db1d03be
-outdated_translation: true
----
-
 # Benennung von Schwierigkeitsgraden
 
 Mit der Benennung von Schwierigkeitsstufen wird Spielern mitgeteilt, wie schwierig eine Beatmap ist. Dieser Artikel listet allgemeine Konventionen sowie andere Alternativen auf, die sich im Laufe der Jahre angesammelt haben. Solange die Namen der Schwierigkeitsstufen jedoch beschreibend sind und die Anforderungen klar angeben, darfst du jede beliebige Art von Schema verwenden.
@@ -44,6 +39,17 @@ Diese Namen für Schwierigkeitsgrade sind die am häufigsten genutzten für jede
 - ![](/wiki/shared/diff/hard-m.png?20211215) Hard
 - ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-m.png?20211215) Expert
+
+### Weithin akzeptierte Alternativen
+
+- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner: Unter Easy
+- ![](/wiki/shared/diff/easy-t.png?20211215) Shokyuu: Unter Kantan
+- ![](/wiki/shared/diff/normal-o.png?20211215) Advanced: Zwischen Normal und Hard
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper: Zwischen Hard und Insane
+- ![](/wiki/shared/diff/expert-o.png?20211215) Extra: Alternative zu Expert
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme: Über Expert
+- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni: Über Inner Oni / Ura Oni
+- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge: Über Overdose
 
 ## Benennung von Schwierigkeitsgraden von anderen Spielen
 
@@ -190,16 +196,3 @@ Beatmapsets von Songs, die von anderen Rhythmusspielen stammen, übernehmen oft 
 - ![](/wiki/shared/diff/hard-o.png?20211215) Hard
 - ![](/wiki/shared/diff/insane-o.png?20211215) Lunatic
 - ![](/wiki/shared/diff/expert-o.png?20211215) Extra / Extra Stage / Phantasm
-
-## Weithin akzeptierte Alternativen
-
-Die folgenden Namen für Schwierigkeitsgrade sind gebräuchlichen Alternativen und Ergänzungen zu den standardmäßigen Namen für Schwierigkeitsgrade:
-
-- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner: Bei einer Standardverteilung "Easy-Normal-Hard-Insane-Expert" bezieht sich dies auf den niedrigsten Schwierigkeitsgrad, noch unter Easy.
-- ![](/wiki/shared/diff/easy-t.png?20211215) Shokyuu: Bei einer Standardverteilung "Kantan-Futsuu-Muzukashii-Oni-Inner Oni" bezieht sich dies auf den niedrigsten Schwierigkeitsgrad unter Kantan.
-- ![](/wiki/shared/diff/normal-o.png?20211215) Advanced: Bei einer Standardverteilung "Easy-Normal-Hard-Insane-Expert" ist dies ein Schwierigkeitsgrad zwischen Normal und Hard.
-- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper: Bei einer Standardverteilung "Easy-Normal-Hard-Insane-Expert" ist dies ein Schwierigkeitsgrad zwischen Hard und Insane.
-- ![](/wiki/shared/diff/expert-o.png?20211215) Extra: Dies kann als Ersatz für Expert verwendet werden.
-- ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme: Dies kann verwendet werden, um einen schwereren Schwierigkeitsgrad Expert zu repräsentieren.
-- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni: Dies kann verwendet werden, um einen schwereren Schwierigkeitsgrad Inner Oni zu repräsentieren.
-- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge: Dies kann verwendet werden, um einen schwereren Schwierigkeitsgrad Overdose zu repräsentieren.
