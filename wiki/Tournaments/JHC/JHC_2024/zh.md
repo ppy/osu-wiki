@@ -322,9 +322,30 @@ tags:
 
 表格形式的结果可见[主表](https://docs.google.com/spreadsheets/d/1Qm2BfIc2LFbf59-2RBkqnOde95y2WgoyO_XRNSrvNa4/)。
 
+### 16 强
+
+| \# | 时间（UTC）| 红队 | | | 蓝队 | 比赛链接 | 组别 |
+| :-: | :-: | --: | :-: | :-: | :-- | :-: | :-: |
+| 46 | Saturday 10 February 11:00 | 大天空killers | 1 | **5** | SV Player | [link](https://osu.ppy.sh/community/matches/112601259) | HIGHER |
+| 42 | Saturday 10 February 15:00 | Shangus | **5** | 4 | OBLIKULIVO | [link](https://osu.ppy.sh/community/matches/112604205) | HIGHER |
+| 45 | Saturday 10 February 15:00 | ETA | **5** | 0 | choke99 | [link](https://osu.ppy.sh/mp/112604359) | HIGHER |
+| 48 | Saturday 10 February 16:00 | THE TRUTH OF NOCENT | **5** | 1 | We can't late game | [link](https://osu.ppy.sh/community/matches/112605433) | HIGHER |
+| 43 | Sunday 11 February 13:00 | hawk | 4 | **5** | hsod | [link](https://osu.ppy.sh/community/matches/112620173) | HIGHER |
+| 47 | Sunday 11 February 13:00 | wehehe | **5** | 0 | Techno Music | [link](https://osu.ppy.sh/community/matches/112620156) | HIGHER |
+| 41 | Sunday 11 February 14:00 | GangWonDuo | **5** | FF | 👍 | [link](https://osu.ppy.sh/community/matches/112621034) | HIGHER |
+| 44 | Sunday 11 February 16:00 | SESBIAN LEX | 4 | **5** | garfield exterminators if fortnite | [link](https://osu.ppy.sh/community/matches/112622765) | HIGHER |
+| 37 | Friday 9 February 11:00 | kiopm | FF | **5** | 快手极速版 | [link](https://osu.ppy.sh/community/matches/112585498) | LOWER |
+| 34 | Friday 9 February 15:00 | HTBL achang | FF | **5** | soloist | [link](https://osu.ppy.sh/community/matches/112587966) | LOWER |
+| 40 | Friday 9 February 15:00 | ♿🍔♿🀄♿ | 4 | **5** | THE TROLLERS | [link](https://osu.ppy.sh/community/matches/112587834) | LOWER |
+| 39 | Saturday 10 February 11:00 | aomdco | 3 | **5** | AwakeGiant | [link](https://osu.ppy.sh/community/matches/112601174) | LOWER |
+| 33 | Saturday 10 February 13:00 | 海陆 | **5** | 3 | Antijacker | [link](https://osu.ppy.sh/community/matches/112602438) | LOWER |
+| 36 | Saturday 10 February 13:00 | 痛恨叠键 | 2 | **5** | 憋笑 | [link](https://osu.ppy.sh/community/matches/112602564) | LOWER |
+| 38 | Sunday 11 February 11:00 | fastest crashers | **5** | FF | 不喜欢打叠 | [link](https://osu.ppy.sh/community/matches/112618828) | LOWER |
+| 35 | Sunday 11 February 12:00 | choke gang | 4 | **5** | 原核生物队 | [link](https://osu.ppy.sh/community/matches/112619475) | LOWER |
+
 ### 32 强
 
-| \# | 时间（UTC）| 红队 | | | 蓝队 | 链接 | 组别 |
+| \# | 时间（UTC）| 红队 | | | 蓝队 | 比赛链接 | 组别 |
 | :-: | :-: | --: | :-: | :-: | :-- | :-: | :-: |
 | 16 | Saturday 27 January 08:00 | We can't late game | **5** | 1 | lsjx追逐梦想 | [link](https://osu.ppy.sh/community/matches/112393888) | HIGHER |
 | 1 | Saturday 27 January 12:30 | GangWonDuo | **5** | 0 | hop on quaver | [link](https://osu.ppy.sh/mp/112396290) | HIGHER |
