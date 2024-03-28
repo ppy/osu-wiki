@@ -36,8 +36,8 @@ tags:
 | ![Gold crown](/wiki/shared/crown-gold.png "冠军") | 个人资料徽章，6 个月 osu!supporter |
 | ![Silver crown](/wiki/shared/crown-silver.png "亚军") | 4 个月 osu!supporter |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "季军") | 3 个月 osu!supporter |
-| #4 - #6 | 2 个月 osu!supporter |
-| #7 - #12 | 1 个月 osu!supporter |
+| \#4 - \#6 | 2 个月 osu!supporter |
+| \#7 - \#12 | 1 个月 osu!supporter |
 
 ## 组织
 
@@ -136,6 +136,23 @@ tags:
 | 70 | 白 | [Lonann](https://osu.ppy.sh/users/14617751) |
 | 71 | 绝不认输 | [Styrene](https://osu.ppy.sh/users/16998777) |
 | 72 | 👍 | [TheOPmeme](https://osu.ppy.sh/users/15763622) |
+
+## 领奖台
+
+| 名次 | 队伍 |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "冠军") | wehehe |
+| ![Silver crown](/wiki/shared/crown-silver.png "亚军") | GangWonDuo |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "季军") | hsod |
+| \#4 | garfield exterminators if fortnite |
+| \#5 ~ \#6 | hawk |
+| \#5 ~ \#6 | SV Player |
+| \#7 ~ \#8 | Shangus |
+| \#7 ~ \#8 | 👍 |
+| \#9 ~ \#12 | ETA |
+| \#9 ~ \#12 | THE TRUTH OF NOCENT |
+| \#9 ~ \#12 | 原核生物队 |
+| \#9 ~ \#12 | 大天空killers |
 
 ## 图池
 
@@ -318,9 +335,9 @@ tags:
 - Speed Jack
   1. [Hommarju - Crazy Jackpot (\[GB\]V1do) \[Stage 6: JACKpot\]](https://osu.ppy.sh/beatmapsets/2118126#mania/4448636)
 
-## 比赛结果
+## 赛果
 
-表格形式的结果可见[主表](https://docs.google.com/spreadsheets/d/1Qm2BfIc2LFbf59-2RBkqnOde95y2WgoyO_XRNSrvNa4/)。
+表格形式的赛果可见[主表](https://docs.google.com/spreadsheets/d/1Qm2BfIc2LFbf59-2RBkqnOde95y2WgoyO_XRNSrvNa4/)。
 
 ### 总决赛
 
