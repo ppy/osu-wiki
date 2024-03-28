@@ -322,6 +322,27 @@ tags:
 
 表格形式的结果可见[主表](https://docs.google.com/spreadsheets/d/1Qm2BfIc2LFbf59-2RBkqnOde95y2WgoyO_XRNSrvNa4/)。
 
+### 8 强
+
+| \# | 时间（UTC）| 红队 | | | 蓝队 | 比赛链接 | 组别 |
+| :-: | :-: | --: | :-: | :-: | :-- | :-: | :-: |
+| 63 | Saturday 17 February 15:00 | ETA | 3 | **6** | SV Player | [link](https://osu.ppy.sh/community/matches/112705493) | HIGHER |
+| 64 | Sunday 18 February 12:00 | wehehe | **6** | FF | THE TRUTH OF NOCENT | [link](https://osu.ppy.sh/community/matches/112720688) | HIGHER |
+| 61 | Sunday 18 February 14:00 | GangWonDuo | **6** | 2 | Shangus | [link](https://osu.ppy.sh/community/matches/112722112) | HIGHER |
+| 62 | Sunday 18 February 18:00 | hsod | 5 | **6** | garfield exterminators if fortnite | [link](https://osu.ppy.sh/community/matches/112725820) | HIGHER |
+| 59 | Saturday 17 February 14:00 | 大天空killers | **6** | 1 | 海陆 | [link](https://osu.ppy.sh/community/matches/112704655) | LOWER |
+| 58 | Sunday 18 February 11:00 | SESBIAN LEX | 1 | **6** | hawk | [link](https://osu.ppy.sh/community/matches/112720123) | LOWER |
+| 57 | Sunday 18 February 13:00 | OBLIKULIVO | 1 | **6** | 👍 | [link](https://osu.ppy.sh/mp/112721402) | LOWER |
+| 60 | Sunday 18 February 13:00 | We can't late game | 0 | **6** | 原核生物队 | [link](https://osu.ppy.sh/community/matches/112721295) | LOWER |
+| 49 | Friday 16 February 11:00 | 👍 | **6** | 3 | 快手极速版 | [link](https://osu.ppy.sh/community/matches/112686492) | LOWER |
+| 54 | Friday 16 February 12:00 | 大天空killers | **6** | FF | soloist | [link](https://osu.ppy.sh/community/matches/112686888) | LOWER |
+| 53 | Friday 16 February 14:00 | choke99 | FF | **6** | 海陆 | [link](https://osu.ppy.sh/community/matches/112688031) | LOWER |
+| 56 | Saturday 17 February 12:00 | We can't late game | **6** | FF | 憋笑 | [link](https://osu.ppy.sh/community/matches/112703049) | LOWER |
+| 51 | Saturday 17 February 13:00 | hawk | **6** | 3 | AwakeGiant | [link](https://osu.ppy.sh/community/matches/112703812) | LOWER |
+| 50 | Saturday 17 February 13:00 | OBLIKULIVO | **6** | 1 | fastest crashers | [link](https://osu.ppy.sh/community/matches/112703895) | LOWER |
+| 52 | Saturday 17 February 14:00 | SESBIAN LEX | **6** | 0 | THE TROLLERS | [link](https://osu.ppy.sh/community/matches/112704579) | LOWER |
+| 55 | Saturday 17 February 14:00 | Techno Music | FF | **6** | 原核生物队 | [link](https://osu.ppy.sh/mp/112704693) | LOWER |
+
 ### 16 强
 
 | \# | 时间（UTC）| 红队 | | | 蓝队 | 比赛链接 | 组别 |
