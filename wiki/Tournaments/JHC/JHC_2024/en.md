@@ -17,15 +17,15 @@ The **JHC 2024** (***Jack House Cup 2024***) is a team–based osu!mania 4K tour
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2023-11-26/2024-01-06 |
+| Registration phase | 2023-11-26 / 2024-01-06 |
 | Qualifier showcase | 2024-01-13 |
-| Qualifier stage | 2024-01-20/2024-01-21 |
-| Round of 32 | 2024-01-27/2024-02-04 |
-| Round of 16 | 2024-01-10/2024-02-11 |
-| Quarterfinals | 2024-02-17/2024-02-18 |
-| Semifinals | 2024-02-24/2024-02-25 |
-| Finals | 2024-03-02/2024-03-03 |
-| Grand Finals | 2024-03-09/2024-03-10 |
+| Qualifier stage | 2024-01-20 / 2024-01-21 |
+| Round of 32 | 2024-01-27 / 2024-02-04 |
+| Round of 16 | 2024-01-10 / 2024-02-11 |
+| Quarterfinals | 2024-02-17 / 2024-02-18 |
+| Semifinals | 2024-02-24 / 2024-02-25 |
+| Finals | 2024-03-02 / 2024-03-03 |
+| Grand Finals | 2024-03-09 / 2024-03-10 |
 
 ## Prizes
 
@@ -62,7 +62,7 @@ If registered as solo team, the prize of osu!supporter will be doubled.
 
 ## Participants
 
-| | Team Name | Member(s) |
+|  | Team Name | Member(s) |
 | :-: | :-: | :-- |
 | 1 | 1 Man Army | [LegendofLink](https://osu.ppy.sh/users/18423304), [Shinrisha](https://osu.ppy.sh/users/12173637) |
 | 2 | 2007 Toyota Camry | [\-slink\-](https://osu.ppy.sh/users/13155680) |
