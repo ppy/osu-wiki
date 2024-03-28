@@ -322,6 +322,35 @@ tags:
 
 表格形式的结果可见[主表](https://docs.google.com/spreadsheets/d/1Qm2BfIc2LFbf59-2RBkqnOde95y2WgoyO_XRNSrvNa4/)。
 
+### 总决赛
+
+| \# | 时间（UTC）| 红队 | | | 蓝队 | 比赛链接 | 组别 |
+| :-: | :-: | --: | :-: | :-: | :-- | :-: | :-: |
+| 78 | Sunday 10 March 14:00 | wehehe | **7** | 0 | GangWonDuo | [link](https://osu.ppy.sh/community/matches/113019292) | HIGHER |
+| 77 | Saturday 9 March 14:00 | GangWonDuo | **7** | 5 | hsod | [link](https://osu.ppy.sh/community/matches/113001768) | LOWER |
+
+### 决赛
+
+| \# | 时间（UTC）| 红队 | | | 蓝队 | 比赛链接 | 组别 |
+| :-: | :-: | --: | :-: | :-: | :-- | :-: | :-: |
+| 76 | Saturday 2 March 13:00 | GangWonDuo | 3 | **6** | wehehe | [link](https://osu.ppy.sh/community/matches/112902144) | HIGHER |
+| 75 | Sunday 3 March 18:00 | garfield exterminators if fortnite | 1 | **6** | hsod | [link](https://osu.ppy.sh/community/matches/112923823) | LOWER |
+| 74 | Saturday 2 March 14:00 | SV Player | 0 | **6** | hsod | [link](https://osu.ppy.sh/community/matches/112902834) | LOWER |
+| 73 | Sunday 3 March 03:30 | garfield exterminators if fortnite | **6** | FF | hawk | [link](https://osu.ppy.sh/community/matches/112914432) | LOWER |
+
+### 半决赛
+
+| \# | 时间（UTC）| 红队 | | | 蓝队 | 比赛链接 | 组别 |
+| :-: | :-: | --: | :-: | :-: | :-- | :-: | :-: |
+| 71 | Saturday 24 February 03:00 | GangWonDuo | **6** | 4 | garfield exterminators if fortnite | [link](https://osu.ppy.sh/community/matches/112800964) | HIGHER |
+| 72 | Sunday 25 February 12:00 | SV Player | 0 | **6** | wehehe | [link](https://osu.ppy.sh/community/matches/112822608) | HIGHER |
+| 70 | Sunday 25 February 13:00 | hawk | **6** | 0 | 👍 | [link](https://osu.ppy.sh/community/matches/112823335) | LOWER |
+| 69 | Monday 26 February 14:00 | Shangus | 1 | **6** | hsod | [link](https://osu.ppy.sh/community/matches/112837674) | LOWER |
+| 66 | Thursday 22 February 15:30 | hsod | **6** | 2 | 大天空killers | [link](https://osu.ppy.sh/community/matches/112777332) | LOWER |
+| 65 | Saturday 24 February 12:00 | Shangus | **6** | 2 | 原核生物队 | [link](https://osu.ppy.sh/community/matches/112805342) | LOWER |
+| 67 | Saturday 24 February 13:00 | ETA | 0 | **6** | hawk | [link](https://osu.ppy.sh/community/matches/112806191) | LOWER |
+| 68 | Saturday 24 February 14:00 | THE TRUTH OF NOCENT | FF | **6** | 👍 | [link](https://osu.ppy.sh/community/matches/112807067) | LOWER |
+
 ### 8 强
 
 | \# | 时间（UTC）| 红队 | | | 蓝队 | 比赛链接 | 组别 |
