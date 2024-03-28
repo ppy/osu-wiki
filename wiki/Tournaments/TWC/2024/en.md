@@ -114,27 +114,27 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253
 
 | Team A | Team B | Match time | Twitch stream |
 | --: | :-- | :-- | :-: |
-| Hong Kong ::{ flag=HK }:: | ::{ flag=TH }:: Thailand | [Mar 30 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240330T100000&p1=1440&p2=102&p3=28) | [osulive](https://twitch.tv/osulive) |
+| Japan ::{ flag=JP }:: | ::{ flag=PH }:: Philippines | [Mar 30 (Sat) 06:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240330T060000&p1=1440&p2=248&p3=145) | [osulive](https://twitch.tv/osulive) |
 | Denmark ::{ flag=DK }:: | ::{ flag=AU }:: Australia | [Mar 30 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240330T110000&p1=1440&p2=69&p3=57) | [osulive](https://twitch.tv/osulive) |
-| Czechia ::{ flag=CZ }:: | ::{ flag=RU }:: Russian Federation | [Mar 30 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240330T120000&p1=1440&p2=204&p3=166) | [osulive](https://twitch.tv/osulive) |
-| Italy ::{ flag=IT }:: | ::{ flag=DE }:: Germany | [Mar 30 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240330T130000&p1=1440&p2=215&p3=37) | [osulive](https://twitch.tv/osulive) |
-| Slovakia ::{ flag=SK }:: | ::{ flag=NO }:: Norway | [Mar 30 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240330T140000&p1=1440&p3=187) | [osulive](https://twitch.tv/osulive) |
-| Colombia ::{ flag=CO }:: | ::{ flag=ID }:: Indonesia | [Mar 30 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240330T160000&p1=1440&p2=41&p3=108) | [osulive](https://twitch.tv/osulive) |
+| Brazil ::{ flag=BR }:: | ::{ flag=FI }:: Finland | [Mar 30 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240330T140000&p1=1440&p2=45&p3=101) | [osulive](https://twitch.tv/osulive) |
+| Hong Kong ::{ flag=HK }:: | ::{ flag=TH }:: Thailand | [Mar 30 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240330T150000&p1=1440&p2=102&p3=28) | [osulive](https://twitch.tv/osulive) |
+| Italy ::{ flag=IT }:: | ::{ flag=DE }:: Germany | [Mar 30 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240330T160000&p1=1440&p2=215&p3=37) | [osulive](https://twitch.tv/osulive) |
 | Peru ::{ flag=PE }:: | ::{ flag=PL }:: Poland | [Mar 30 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240330T170000&p1=1440&p2=131&p3=262) | [osulive](https://twitch.tv/osulive) |
-| Mexico ::{ flag=MX }:: | ::{ flag=CH }:: Switzerland | [Mar 30 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240330T180000&p1=1440&p2=155&p3=270) | [osulive](https://twitch.tv/osulive) |
+| Czechia ::{ flag=CZ }:: | ::{ flag=RU }:: Russian Federation | [Mar 30 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240330T180000&p1=1440&p2=204&p3=166) | [osulive](https://twitch.tv/osulive) |
+| Chile ::{ flag=CL }:: | ::{ flag=CA }:: Canada | [Mar 30 (Sat) 23:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240330T230000&p1=1440&p2=232&p3=188) | [osulive](https://twitch.tv/osulive) |
 
 ### Sunday, 31 March 2024
 
 | Team A | Team B | Match time | Twitch stream |
 | --: | :-- | :-- | :-: |
-| Japan ::{ flag=JP }:: | ::{ flag=PH }:: Philippines | [Mar 31 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240331T100000&p1=1440&p2=248&p3=145) | [osulive](https://twitch.tv/osulive) |
-| China ::{ flag=CN }:: | ::{ flag=MY }:: Malaysia | [Mar 31 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240331T110000&p1=1440&p2=33&p3=122) | [osulive](https://twitch.tv/osulive) |
 | South Korea ::{ flag=KR }:: | ::{ flag=NL }:: Netherlands | [Mar 31 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240331T120000&p1=1440&p2=235&p3=16) | [osulive](https://twitch.tv/osulive) |
+| Slovakia ::{ flag=SK }:: | ::{ flag=NO }:: Norway | [Mar 31 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240331T130000&p1=1440&p3=187) | [osulive](https://twitch.tv/osulive) |
 | Taiwan ::{ flag=TW }:: | ::{ flag=FR }:: France | [Mar 31 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240331T130000&p1=1440&p2=241&p3=195) | [osulive](https://twitch.tv/osulive) |
+| China ::{ flag=CN }:: | ::{ flag=MY }:: Malaysia | [Mar 31 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240331T130000&p1=1440&p2=33&p3=122) | [osulive_2](https://twitch.tv/osulive_2) |
 | United Kingdom ::{ flag=GB }:: | ::{ flag=AR }:: Argentina | [Mar 31 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240331T150000&p1=1440&p2=136&p3=51) | [osulive](https://twitch.tv/osulive) |
-| Brazil ::{ flag=BR }:: | ::{ flag=FI }:: Finland | [Mar 31 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240331T170000&p1=1440&p2=45&p3=101) | [osulive](https://twitch.tv/osulive) |
+| Colombia ::{ flag=CO }:: | ::{ flag=ID }:: Indonesia | [Mar 31 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240331T160000&p1=1440&p2=41&p3=108) | [osulive](https://twitch.tv/osulive) |
 | United States ::{ flag=US }:: | ::{ flag=TR }:: Turkey | [Mar 31 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240331T180000&p1=1440&p2=263&p3=19) | [osulive](https://twitch.tv/osulive) |
-| Chile ::{ flag=CL }:: | ::{ flag=CA }:: Canada | [Mar 31 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240331T190000&p1=1440&p2=232&p3=188) | [osulive](https://twitch.tv/osulive) |
+| Mexico ::{ flag=MX }:: | ::{ flag=CH }:: Switzerland | [Mar 31 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240331T190000&p1=1440&p2=155&p3=270) | [osulive](https://twitch.tv/osulive) |
 | Quarterfinals | mappool showcase | [Mar 31 (Sun) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240331T200000&p1=1440) | [osulive](https://twitch.tv/osulive) |
 
 ## Mappools
