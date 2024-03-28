@@ -62,7 +62,7 @@ tags:
 
 ## 参赛队伍
 
-| | 队名 | 队员 |
+|  | 队名 | 队员 |
 | :-: | :-: | :-- |
 | 1 | 1 Man Army | [LegendofLink](https://osu.ppy.sh/users/18423304), [Shinrisha](https://osu.ppy.sh/users/12173637) |
 | 2 | 2007 Toyota Camry | [\-slink\-](https://osu.ppy.sh/users/13155680) |
@@ -343,13 +343,13 @@ tags:
 
 总决赛：
 
-| \# | 时间（UTC）| 红队 |  |  | 蓝队 | 比赛链接 | 回放 |
+| \# | 时间（UTC） | 红队 |  |  | 蓝队 | 比赛链接 | 回放 |
 | :-: | :-: | --: | :-: | :-: | :-- | :-: | :-: |
 | 78 | Sunday 10 March 14:00 | wehehe | **7** | 0 | GangWonDuo | [link](https://osu.ppy.sh/community/matches/113019292) | [bilibili](https://www.bilibili.com/video/BV1Nr421p76T/) |
 
 败者组总决赛：
 
-| \# | 时间（UTC）| 红队 |  |  | 蓝队 | 比赛链接 | 回放 |
+| \# | 时间（UTC） | 红队 |  |  | 蓝队 | 比赛链接 | 回放 |
 | :-: | :-: | --: | :-: | :-: | :-- | :-: | :-: |
 | 77 | Saturday 9 March 14:00 | GangWonDuo | **7** | 5 | hsod | [link](https://osu.ppy.sh/community/matches/113001768) | [bilibili](https://www.bilibili.com/video/BV12Z42187nP/) |
 
@@ -357,19 +357,19 @@ tags:
 
 胜者组：
 
-| \# | 时间（UTC）| 红队 |  |  | 蓝队 | 比赛链接 | 回放 |
+| \# | 时间（UTC） | 红队 |  |  | 蓝队 | 比赛链接 | 回放 |
 | :-: | :-: | --: | :-: | :-: | :-- | :-: | :-: |
 | 76 | Saturday 2 March 13:00 | GangWonDuo | 3 | **6** | wehehe | [link](https://osu.ppy.sh/community/matches/112902144) | [bilibili](https://www.bilibili.com/video/BV1zj421U7hi/) |
 
 败者组第二轮：
 
-| \# | 时间（UTC）| 红队 |  |  | 蓝队 | 比赛链接 | 回放 |
+| \# | 时间（UTC） | 红队 |  |  | 蓝队 | 比赛链接 | 回放 |
 | :-: | :-: | --: | :-: | :-: | :-- | :-: | :-: |
 | 75 | Sunday 3 March 18:00 | garfield exterminators if fortnite | 1 | **6** | hsod | [link](https://osu.ppy.sh/community/matches/112923823) | [bilibili](https://www.bilibili.com/video/BV1Rx421y7Wd/) |
 
 败者组第一轮：
 
-| \# | 时间（UTC）| 红队 |  |  | 蓝队 | 比赛链接 | 回放 |
+| \# | 时间（UTC） | 红队 |  |  | 蓝队 | 比赛链接 | 回放 |
 | :-: | :-: | --: | :-: | :-: | :-- | :-: | :-: |
 | 74 | Saturday 2 March 14:00 | SV Player | 0 | **6** | hsod | [link](https://osu.ppy.sh/community/matches/112902834) | [bilibili](https://www.bilibili.com/video/BV1WH4y1j76j/) |
 | 73 | Sunday 3 March 03:30 | garfield exterminators if fortnite | **6** | FF | hawk | [link](https://osu.ppy.sh/community/matches/112914432) | [bilibili](https://www.bilibili.com/video/BV1dz421D79L/) |
@@ -378,21 +378,21 @@ tags:
 
 胜者组：
 
-| \# | 时间（UTC）| 红队 |  |  | 蓝队 | 比赛链接 | 回放 |
+| \# | 时间（UTC） | 红队 |  |  | 蓝队 | 比赛链接 | 回放 |
 | :-: | :-: | --: | :-: | :-: | :-- | :-: | :-: |
 | 71 | Saturday 24 February 03:00 | GangWonDuo | **6** | 4 | garfield exterminators if fortnite | [link](https://osu.ppy.sh/community/matches/112800964) | [bilibili](https://www.bilibili.com/video/BV1wt421t7jG/) |
 | 72 | Sunday 25 February 12:00 | SV Player | 0 | **6** | wehehe | [link](https://osu.ppy.sh/community/matches/112822608) | [bilibili](https://www.bilibili.com/video/BV1fr421p7vU/) |
 
 败者组第二轮：
 
-| \# | 时间（UTC）| 红队 |  |  | 蓝队 | 比赛链接 | 回放 |
+| \# | 时间（UTC） | 红队 |  |  | 蓝队 | 比赛链接 | 回放 |
 | :-: | :-: | --: | :-: | :-: | :-- | :-: | :-: |
 | 70 | Sunday 25 February 13:00 | hawk | **6** | 0 | 👍 | [link](https://osu.ppy.sh/community/matches/112823335) | [bilibili](https://www.bilibili.com/video/BV1SW421w77Z/) |
 | 69 | Monday 26 February 14:00 | Shangus | 1 | **6** | hsod | [link](https://osu.ppy.sh/community/matches/112837674) | [bilibili](https://www.bilibili.com/video/BV16w4m1Z7QQ/) |
 
 败者组第一轮：
 
-| \# | 时间（UTC）| 红队 |  |  | 蓝队 | 比赛链接 | 回放 |
+| \# | 时间（UTC） | 红队 |  |  | 蓝队 | 比赛链接 | 回放 |
 | :-: | :-: | --: | :-: | :-: | :-- | :-: | :-: |
 | 66 | Thursday 22 February 15:30 | hsod | **6** | 2 | 大天空killers | [link](https://osu.ppy.sh/community/matches/112777332) | [bilibili](https://www.bilibili.com/video/BV1fi421o7Aa/) |
 | 65 | Saturday 24 February 12:00 | Shangus | **6** | 2 | 原核生物队 | [link](https://osu.ppy.sh/community/matches/112805342) | [bilibili](https://www.bilibili.com/video/BV1B2421K7pd/) |
@@ -403,7 +403,7 @@ tags:
 
 胜者组：
 
-| \# | 时间（UTC）| 红队 |  |  | 蓝队 | 比赛链接 | 回放 |
+| \# | 时间（UTC） | 红队 |  |  | 蓝队 | 比赛链接 | 回放 |
 | :-: | :-: | --: | :-: | :-: | :-- | :-: | :-: |
 | 63 | Saturday 17 February 15:00 | ETA | 3 | **6** | SV Player | [link](https://osu.ppy.sh/community/matches/112705493) | *?bilibili* |
 | 64 | Sunday 18 February 12:00 | wehehe | **6** | FF | THE TRUTH OF NOCENT | [link](https://osu.ppy.sh/community/matches/112720688) | / |
@@ -412,7 +412,7 @@ tags:
 
 败者组第二轮：
 
-| \# | 时间（UTC）| 红队 |  |  | 蓝队 | 比赛链接 | 回放 |
+| \# | 时间（UTC） | 红队 |  |  | 蓝队 | 比赛链接 | 回放 |
 | :-: | :-: | --: | :-: | :-: | :-- | :-: | :-: |
 | 59 | Saturday 17 February 14:00 | 大天空killers | **6** | 1 | 海陆 | [link](https://osu.ppy.sh/community/matches/112704655) | [bilibili]() |
 | 58 | Sunday 18 February 11:00 | SESBIAN LEX | 1 | **6** | hawk | [link](https://osu.ppy.sh/community/matches/112720123) | [bilibili](https://www.bilibili.com/video/BV1n2421F7vq/) |
@@ -421,7 +421,7 @@ tags:
 
 败者组第一轮：
 
-| \# | 时间（UTC）| 红队 |  |  | 蓝队 | 比赛链接 | 回放 |
+| \# | 时间（UTC） | 红队 |  |  | 蓝队 | 比赛链接 | 回放 |
 | :-: | :-: | --: | :-: | :-: | :-- | :-: | :-: |
 | 49 | Friday 16 February 11:00 | 👍 | **6** | 3 | 快手极速版 | [link](https://osu.ppy.sh/community/matches/112686492) | [bilibili](https://www.bilibili.com/video/BV1h2421F7We/) |
 | 54 | Friday 16 February 12:00 | 大天空killers | **6** | FF | soloist | [link](https://osu.ppy.sh/community/matches/112686888) | [bilibili]() |
@@ -436,7 +436,7 @@ tags:
 
 胜者组：
 
-| \# | 时间（UTC）| 红队 |  |  | 蓝队 | 比赛链接 | 回放 |
+| \# | 时间（UTC） | 红队 |  |  | 蓝队 | 比赛链接 | 回放 |
 | :-: | :-: | --: | :-: | :-: | :-- | :-: | :-: |
 | 46 | Saturday 10 February 11:00 | 大天空killers | 1 | **5** | SV Player | [link](https://osu.ppy.sh/community/matches/112601259) | / |
 | 42 | Saturday 10 February 15:00 | Shangus | **5** | 4 | OBLIKULIVO | [link](https://osu.ppy.sh/community/matches/112604205) | [bilibili](https://www.bilibili.com/video/BV18j421X7aY/) |
@@ -449,7 +449,7 @@ tags:
 
 败者组：
 
-| \# | 时间（UTC）| 红队 |  |  | 蓝队 | 比赛链接 | 回放 |
+| \# | 时间（UTC） | 红队 |  |  | 蓝队 | 比赛链接 | 回放 |
 | :-: | :-: | --: | :-: | :-: | :-- | :-: | :-: |
 | 37 | Friday 9 February 11:00 | kiopm | FF | **5** | 快手极速版 | [link](https://osu.ppy.sh/community/matches/112585498) | / |
 | 34 | Friday 9 February 15:00 | HTBL achang | FF | **5** | soloist | [link](https://osu.ppy.sh/community/matches/112587966) | / |
@@ -464,7 +464,7 @@ tags:
 
 胜者组：
 
-| \# | 时间（UTC）| 红队 |  |  | 蓝队 | 比赛链接 | 回放 |
+| \# | 时间（UTC） | 红队 |  |  | 蓝队 | 比赛链接 | 回放 |
 | :-: | :-: | --: | :-: | :-: | :-- | :-: | :-: |
 | 16 | Saturday 27 January 08:00 | We can't late game | **5** | 1 | lsjx追逐梦想 | [link](https://osu.ppy.sh/community/matches/112393888) | [bilibili](https://www.bilibili.com/video/BV1Ri4y1H7px/) |
 | 1 | Saturday 27 January 12:30 | GangWonDuo | **5** | 0 | hop on quaver | [link](https://osu.ppy.sh/community/matches/112396290) | [bilibili](https://www.bilibili.com/video/BV1WC411r7Xq/) |
@@ -485,7 +485,7 @@ tags:
 
 败者组：
 
-| \# | 时间（UTC）| 红队 |  |  | 蓝队 | 比赛链接 | 回放 |
+| \# | 时间（UTC） | 红队 |  |  | 蓝队 | 比赛链接 | 回放 |
 | :-: | :-: | --: | :-: | :-: | :-- | :-: | :-: |
 | 26 | Friday 2 February 23:00 | kiopm | **5** | 2 | Handstream>Jack | [link](https://osu.ppy.sh/community/matches/112492856) | / |
 | 25 | Saturday 3 February 09:00 | We can't mid game | 0 | **5** | 快手极速版 | [link](https://osu.ppy.sh/community/matches/112498456) | [bilibili](https://www.bilibili.com/video/BV1oK421y7ep/) |
