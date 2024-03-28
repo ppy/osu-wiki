@@ -642,7 +642,7 @@ Detailed statistics can be seen through [statistics sheet](https://docs.google.c
 ### Qualifier instructions
 
 1. In the Qualifier stage, all teams will play a specific pool designed by the mappool selectors.
-2. The Qualifier pool contains 6 maps, all of which will use [Free Mod](/wiki/Gameplay/Game_modifier#freemod) rules. The map types are:
+2. The Qualifier pool contains 6 maps, all of which will use [Free Mod](/wiki/Gameplay/Game_modifier#free-mod) rules. The map types are:
    - DS: Dense Chordjack
    - MD: Middle Chordjack
    - LT: Light Chordjack
@@ -687,7 +687,7 @@ Detailed statistics can be seen through [statistics sheet](https://docs.google.c
 ### Mappool instructions
 
 1. Every stage will have its own mappool.
-2. Each mappool consists of a fixed amount of maps for each stage, all of which will be played under [Free Mod](/wiki/Gameplay/Game_modifier#freemod) conditions.
+2. Each mappool consists of a fixed amount of maps for each stage, all of which will be played under [Free Mod](/wiki/Gameplay/Game_modifier#free-mod) conditions.
 3. The mappool sizes are as follows:
    - Qualifiers: 6 beatmaps
    - Round of 32 and Round of 16: 12 beatmaps
