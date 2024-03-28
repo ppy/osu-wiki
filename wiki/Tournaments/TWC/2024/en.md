@@ -129,7 +129,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253
 | --: | :-- | :-- | :-: |
 | South Korea ::{ flag=KR }:: | ::{ flag=NL }:: Netherlands | [Mar 31 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240331T120000&p1=1440&p2=235&p3=16) | [osulive](https://twitch.tv/osulive) |
 | Slovakia ::{ flag=SK }:: | ::{ flag=NO }:: Norway | [Mar 31 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240331T130000&p1=1440&p3=187) | [osulive](https://twitch.tv/osulive) |
-| Taiwan ::{ flag=TW }:: | ::{ flag=FR }:: France | [Mar 31 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240331T130000&p1=1440&p2=241&p3=195) | [osulive](https://twitch.tv/osulive) |
+| Taiwan ::{ flag=TW }:: | ::{ flag=FR }:: France | [Mar 31 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240331T130000&p1=1440&p2=241&p3=195) |  |
 | China ::{ flag=CN }:: | ::{ flag=MY }:: Malaysia | [Mar 31 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240331T130000&p1=1440&p2=33&p3=122) | [osulive_2](https://twitch.tv/osulive_2) |
 | United Kingdom ::{ flag=GB }:: | ::{ flag=AR }:: Argentina | [Mar 31 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240331T150000&p1=1440&p2=136&p3=51) | [osulive](https://twitch.tv/osulive) |
 | Colombia ::{ flag=CO }:: | ::{ flag=ID }:: Indonesia | [Mar 31 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240331T160000&p1=1440&p2=41&p3=108) | [osulive](https://twitch.tv/osulive) |
