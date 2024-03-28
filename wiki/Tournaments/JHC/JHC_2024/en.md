@@ -594,7 +594,7 @@ Detailed statistics can be seen through [statistics sheet](https://docs.google.c
 5. The match schedules for each round will be announced by the tournament managers on this page, as well as the information sheet, in 1 week before the matches take place.
 6. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins is allowed.
    - Custom skin elements must not be used to alter core gameplay elements or mechanics in unintended ways.
-7. If no players are present at the match time, the match can be postponed for up to 10 minutes. If after this period there are still no players for either team, a *win by default* will be declared for the side with a member present; if after this period there are still no players for both teams, a *win by default* will be declared for the red team.
+7. If no players are present at the match time, the match can be postponed for up to 10 minutes. If after this period there are still no players for either team, a *win by default* will be declared for the side with a member present; if after this period there are still no players for both teams, a *win by default* will be declared for the team with higher seed in qualifiers.
    - The minimum amount of required players is the amount of players needed to play a beatmap without any vacant spots in the lobby (i.e. at least 1 participant from each team must be present for the match to begin).
 8. There is no warm-up stage in the match.
 9. Exchanging players between games is allowed without limitations.
