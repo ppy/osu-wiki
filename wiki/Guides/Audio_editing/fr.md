@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 4af8181e2e094d8b52a76f43c3db3535e1186e77
 ---
 
 # Guide d'édition audio
