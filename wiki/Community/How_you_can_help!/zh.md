@@ -1,9 +1,3 @@
-<!-- TODO: tons of things to add here. might be related to Projects article -->
----
-outdated_since: 1c91f39ce0abb31f0af8b8dcd7ac2a67896d61bb
-outdated_translation: true
----
-
 # 如何提供帮助！
 
 osu! 活泼的社区是由来自五湖四海的朋友们组成的。每个人都可以以喜欢的方式参与到社区当中来！
