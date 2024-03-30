@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # osu!api
 
 osu! memiliki [API](https://id.wikipedia.org/wiki/Antarmuka_pemrograman_aplikasi) publik yang dapat digunakan oleh layanan pihak ketiga untuk mendukung dan memperluas jangkauan platform osu!. API ini dahulu bersifat pribadi dan hanya dapat digunakan sesuai permintaan (*per-request basis*), namun kini siapa pun dapat menggunakan API ini selama mereka memiliki akun osu!.
