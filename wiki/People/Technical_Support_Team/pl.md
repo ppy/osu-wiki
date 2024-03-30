@@ -27,9 +27,5 @@ Lista wszystkich członków pomocy technicznej znajduje się na [stronie grupy](
 | :-- | :-- |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |
-| ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Filipiński |
-| ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | Szwedzki, hiszpański |
-| ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) |  |
-| ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Niemiecki |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Hiszpański |
