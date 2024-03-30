@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: 918808cb4826bd1b2d3f8eb4f61b5262ae09c741
 tags:
   - GMT
   - moderator
@@ -58,8 +56,8 @@ tags:
 全局管理员们可以获得以下特权：
 
 - **[osu! 支持者](/wiki/osu!supporter)**：获得一个时长等于任期的 osu! 支持者标签。
-- **职位奖牌**：从第 3 年开始，可获得一个显示任期年份的[主页奖牌](/wiki/Community/Profile_badge)。
-  ![3 年 GMT 奖牌](https://assets.ppy.sh/profile-badges/GMT3y.png "3 年 GMT 奖牌") ![4 年 GMT 奖牌](https://assets.ppy.sh/profile-badges/GMT4y.png "4 年 GMT 奖牌") ![5 年 GMT 奖牌](https://assets.ppy.sh/profile-badges/GMT5y.png "5 年 GMT 奖牌")
+- **职位奖牌**：从第 1 年到第 10 年内，可获得一个显示任期年份的[主页奖牌](/wiki/Community/Profile_badge)。
+  ![1 年 GMT 奖牌](https://assets.ppy.sh/profile-badges/GMT1y.png "1 年 GMT 奖牌") ![2 年 GMT 奖牌](https://assets.ppy.sh/profile-badges/GMT2y.png "2 年 GMT 奖牌") ![3 年 GMT 奖牌](https://assets.ppy.sh/profile-badges/GMT3y.png?2024 "3 年 GMT 奖牌") ![4 年 GMT 奖牌](https://assets.ppy.sh/profile-badges/GMT4y.png?2024 "4 年 GMT 奖牌") ![5 年 GMT 奖牌](https://assets.ppy.sh/profile-badges/GMT5y.png?2024 "5 年 GMT 奖牌") ![6 年 GMT 奖牌](https://assets.ppy.sh/profile-badges/GMT6y.png "6 年 GMT 奖牌") ![7 年 GMT 奖牌](https://assets.ppy.sh/profile-badges/GMT7y.png "7 年 GMT 奖牌") ![8 年 GMT 奖牌](https://assets.ppy.sh/profile-badges/GMT8y.png "8 年 GMT 奖牌") ![9 年 GMT 奖牌](https://assets.ppy.sh/profile-badges/GMT9y.png "9 年 GMT 奖牌") ![10 年 GMT 奖牌](https://assets.ppy.sh/profile-badges/GMT10y.png "10 年 GMT 奖牌")
 
 ## 离开全局管理团队 (GMT)
 
@@ -115,7 +113,7 @@ tags:
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | 德语 | 作图摸图社群管理员 |
 | ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | 德语 | 聊天管理员，论坛管理员 |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | 粤语，汉语 | [^task-mangomizer] |
-| ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) | 德语 |  |
+| ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) | 德语 | [^task-mao] |
 | ::{ flag=BR }:: [maot](https://osu.ppy.sh/users/3914271) | 葡萄牙语 | 作图摸图社群管理员 |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu! 贡献者 |
 | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597) | 越南语 | 聊天管理员 |
@@ -169,7 +167,7 @@ tags:
 | `#dutch` | [Nederlands](https://osu.ppy.sh/community/forums/69) | ::{ flag=NL }:: [Uni](https://osu.ppy.sh/users/617106) |
 | `#english` |  | *全局管理员* |
 | `#filipino` | [Tagalog](https://osu.ppy.sh/community/forums/76) | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236), ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) |
-| `#finnish` | [Suomi](https://osu.ppy.sh/community/forums/24) | ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507),  ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731),  ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) |
+| `#finnish` | [Suomi](https://osu.ppy.sh/community/forums/24) | ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507)，::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731)，::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) |
 | `#french` | [Français](https://osu.ppy.sh/community/forums/34) | ::{ flag=FR }:: [Ganondorf](https://osu.ppy.sh/users/10660738), ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837), ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981), ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) |
 | `#german` | [Deutsch](https://osu.ppy.sh/community/forums/37) | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985), ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253), ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405), ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) |
 | `#greek` |  |  |
@@ -195,3 +193,4 @@ tags:
 
 [^task-Azer]: 虽然 Azer 不属于全局管理团队 (GMT)，但从技术上来说，由于组织世界杯需要 GMT 级别的权限，也将他纳入了团队组。
 [^task-mangomizer]: 虽然 mangomizer 不属于全局管理团队 (GMT)，但从技术上来说，由于访问内部论坛需要 GMT 级别的权限，也将他纳入了团队组。
+[^task-mao]: 虽然 Mao 不属于全局管理团队 (GMT)，但从技术上来说，由于访问内部论坛需要 GMT 级别的权限，也将他纳入了团队组。
