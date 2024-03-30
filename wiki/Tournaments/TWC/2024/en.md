@@ -110,19 +110,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253
 
 ## Match Schedule: Round of 16
 
-### Saturday, 30 March 2024
-
-| Team A | Team B | Match time | Twitch stream |
-| --: | :-- | :-- | :-: |
-| Japan ::{ flag=JP }:: | ::{ flag=PH }:: Philippines | [Mar 30 (Sat) 06:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240330T060000&p1=1440&p2=248&p3=145) | [osulive](https://twitch.tv/osulive) |
-| Denmark ::{ flag=DK }:: | ::{ flag=AU }:: Australia | [Mar 30 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240330T110000&p1=1440&p2=69&p3=57) | [osulive](https://twitch.tv/osulive) |
-| Brazil ::{ flag=BR }:: | ::{ flag=FI }:: Finland | [Mar 30 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240330T140000&p1=1440&p2=45&p3=101) | [osulive](https://twitch.tv/osulive) |
-| Hong Kong ::{ flag=HK }:: | ::{ flag=TH }:: Thailand | [Mar 30 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240330T150000&p1=1440&p2=102&p3=28) | [osulive](https://twitch.tv/osulive) |
-| Italy ::{ flag=IT }:: | ::{ flag=DE }:: Germany | [Mar 30 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240330T160000&p1=1440&p2=215&p3=37) | [osulive](https://twitch.tv/osulive) |
-| Peru ::{ flag=PE }:: | ::{ flag=PL }:: Poland | [Mar 30 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240330T170000&p1=1440&p2=131&p3=262) | [osulive](https://twitch.tv/osulive) |
-| Czechia ::{ flag=CZ }:: | ::{ flag=RU }:: Russian Federation | [Mar 30 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240330T180000&p1=1440&p2=204&p3=166) | [osulive](https://twitch.tv/osulive) |
-| Chile ::{ flag=CL }:: | ::{ flag=CA }:: Canada | [Mar 30 (Sat) 23:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240330T230000&p1=1440&p2=232&p3=188) | [osulive](https://twitch.tv/osulive) |
-
 ### Sunday, 31 March 2024
 
 | Team A | Team B | Match time | Twitch stream |
