@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Timing
 
 **Timing** is het proces waarbij de muzikale structuur van een lied wordt bepaald door de posities van elke [timingsectie](/wiki/Client/Beatmap_editor/Timing) samen met hun [BPM](/wiki/Music_theory/Tempo)-waarden en [maatsoorten](/wiki/Music_theory/Time_signature).
