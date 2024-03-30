@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Tim dukungan akun
 
 *Untuk tim yang memoderasi sub-forum tertentu, kunjungi: [Tim dukungan teknis](/wiki/People/Support_Team)*
