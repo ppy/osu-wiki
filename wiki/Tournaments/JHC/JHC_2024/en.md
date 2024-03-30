@@ -21,7 +21,7 @@ The **JHC 2024** (***Jack House Cup 2024***) was a team–based osu!mania 4K tou
 | Qualifier showcase | 2024-01-13 |
 | Qualifier stage | 2024-01-20/2024-01-21 |
 | Round of 32 | 2024-01-27/2024-02-04 |
-| Round of 16 | 2024-01-10/2024-02-11 |
+| Round of 16 | 2024-02-10/2024-02-11 |
 | Quarterfinals | 2024-02-17/2024-02-18 |
 | Semifinals | 2024-02-24/2024-02-25 |
 | Finals | 2024-03-02/2024-03-03 |
@@ -369,7 +369,7 @@ Sunday, 3 March 2024:
 
 Thursday, 22 February 2024:
 
-| \# | Team Red |  |  | Team Blue | Match link | VOD link |
+| # | Team Red |  |  | Team Blue | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
 | 66 | hsod | **6** | 2 | 大天空killers | [#1](https://osu.ppy.sh/community/matches/112777332) | [#1](https://www.bilibili.com/video/BV1fi421o7Aa/) |
 
