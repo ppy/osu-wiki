@@ -8,6 +8,7 @@
 | :-- | :-- |
 | ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | NAT |
 | ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | BAT, GMT |
+| ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730) | GMT |
 | ::{ flag=ID }:: [-SiN-](https://osu.ppy.sh/users/10560) | Модератор чата |
 | ::{ flag=HK }:: [aabc271](https://osu.ppy.sh/users/155707) | BAT |
 | ::{ flag=CN }:: [abalee](https://osu.ppy.sh/users/13103) | BAT |
@@ -132,7 +133,6 @@
 | ::{ flag=RU }:: [La Cataline](https://osu.ppy.sh/users/301279) | Модератор чата |
 | ::{ flag=CA }:: [Lanturn](https://osu.ppy.sh/users/1446665) | QAT |
 | ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | QAT, NAT |
-| ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) | GMT |
 | ::{ flag=IT }:: [Leader](https://osu.ppy.sh/users/631530) | GMT |
 | ::{ flag=NL }:: [Leniane](https://osu.ppy.sh/users/7138602) | NAT |
 | ::{ flag=DO }:: [Lissette](https://osu.ppy.sh/users/19835) | BAT |
@@ -175,7 +175,6 @@
 | ::{ flag=FR }:: [Neil Watts](https://osu.ppy.sh/users/3048059) | Модератор чата, GMT |
 | ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) | NAT |
 | ::{ flag=TR }:: [Nishiji](https://osu.ppy.sh/users/167629) | GMT |
-| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | QAT, NAT |
 | ::{ flag=PH }:: [NoHitter](https://osu.ppy.sh/users/124455) | BAT |
 | ::{ flag=US }:: [nuudles](https://osu.ppy.sh/users/21312) | Разработчик osu! |
 | ::{ flag=CN }:: [Nymph](https://osu.ppy.sh/users/601990) | BAT |
@@ -208,8 +207,6 @@
 | ::{ flag=CO }:: [Sakura](https://osu.ppy.sh/users/289422) | BAT, GMT |
 | ::{ flag=US }:: [SapphireGhost](https://osu.ppy.sh/users/388602) | BAT |
 | ::{ flag=US }:: [Saturos](https://osu.ppy.sh/users/3781) | BAT |
-| ::{ flag=DZ }:: [Scotty](https://osu.ppy.sh/users/11085809) | NAT |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | NAT |
 | ::{ flag=US }:: [Seibei4211](https://osu.ppy.sh/users/31537) | BAT |
 | ::{ flag=IT }:: [Seijiro](https://osu.ppy.sh/users/2581696) | GMT |
 | ::{ flag=MD }:: [senaya](https://osu.ppy.sh/users/304103) | Модератор чата |
@@ -234,6 +231,7 @@
 | ::{ flag=JP }:: [Suzully](https://osu.ppy.sh/users/431791) | BAT |
 | ::{ flag=KR }:: [Sylphi](https://osu.ppy.sh/users/1399551) | GMT |
 | ::{ flag=US }:: [Sync](https://osu.ppy.sh/users/806921) | BAT |
+| ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | NAT |
 | ::{ flag=US }:: [Takuma](https://osu.ppy.sh/users/43677) | GMT |
 | ::{ flag=US }:: [Tapdancingmetroid](https://osu.ppy.sh/users/1733) | BAT |
 | ::{ flag=US }:: [Tari](https://osu.ppy.sh/users/1779172) | QAT |
@@ -246,6 +244,7 @@
 | ::{ flag=AU }:: [tsububu](https://osu.ppy.sh/users/61) | BAT |
 | ::{ flag=TH }:: [Tyistiana](https://osu.ppy.sh/users/1421452) | NAT |
 | ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) | NAT |
+| ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | NAT |
 | ::{ flag=PL }:: [Ukami](https://osu.ppy.sh/users/820865) | Модератор чата, GMT |
 | ::{ flag=TR }:: [UnderminE](https://osu.ppy.sh/users/444223) | Модератор чата |
 | ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) | NAT |
