@@ -414,7 +414,7 @@ tags:
 
 | \# | 时间（UTC） | 红队 |  |  | 蓝队 | 比赛链接 | 回放 |
 | :-: | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| 59 | Saturday 17 February 14:00 | 大天空killers | **6** | 1 | 海陆 | [link](https://osu.ppy.sh/community/matches/112704655) | [bilibili]() |
+| 59 | Saturday 17 February 14:00 | 大天空killers | **6** | 1 | 海陆 | [link](https://osu.ppy.sh/community/matches/112704655) | [bilibili](https://www.bilibili.com/video/BV1qz421f7hd/) |
 | 58 | Sunday 18 February 11:00 | SESBIAN LEX | 1 | **6** | hawk | [link](https://osu.ppy.sh/community/matches/112720123) | [bilibili](https://www.bilibili.com/video/BV1n2421F7vq/) |
 | 57 | Sunday 18 February 13:00 | OBLIKULIVO | 1 | **6** | 👍 | [link](https://osu.ppy.sh/community/matches/112721402) | [bilibili](https://www.bilibili.com/video/BV1tv421C7b9/) |
 | 60 | Sunday 18 February 13:00 | We can't late game | 0 | **6** | 原核生物队 | [link](https://osu.ppy.sh/community/matches/112721295) | [bilibili](https://www.bilibili.com/video/BV1o2421F7ae/) |
@@ -424,9 +424,9 @@ tags:
 | \# | 时间（UTC） | 红队 |  |  | 蓝队 | 比赛链接 | 回放 |
 | :-: | :-: | --: | :-: | :-: | :-- | :-: | :-: |
 | 49 | Friday 16 February 11:00 | 👍 | **6** | 3 | 快手极速版 | [link](https://osu.ppy.sh/community/matches/112686492) | [bilibili](https://www.bilibili.com/video/BV1h2421F7We/) |
-| 54 | Friday 16 February 12:00 | 大天空killers | **6** | FF | soloist | [link](https://osu.ppy.sh/community/matches/112686888) | [bilibili]() |
-| 53 | Friday 16 February 14:00 | choke99 | FF | **6** | 海陆 | [link](https://osu.ppy.sh/community/matches/112688031) | [bilibili]() |
-| 56 | Saturday 17 February 12:00 | We can't late game | **6** | FF | 憋笑 | [link](https://osu.ppy.sh/community/matches/112703049) | [bilibili]() |
+| 54 | Friday 16 February 12:00 | 大天空killers | **6** | FF | soloist | [link](https://osu.ppy.sh/community/matches/112686888) | / |
+| 53 | Friday 16 February 14:00 | choke99 | FF | **6** | 海陆 | [link](https://osu.ppy.sh/community/matches/112688031) | / |
+| 56 | Saturday 17 February 12:00 | We can't late game | **6** | FF | 憋笑 | [link](https://osu.ppy.sh/community/matches/112703049) | / |
 | 51 | Saturday 17 February 13:00 | hawk | **6** | 3 | AwakeGiant | [link](https://osu.ppy.sh/community/matches/112703812) | [bilibili](https://www.bilibili.com/video/BV1yJ4m1W7nE/) |
 | 50 | Saturday 17 February 13:00 | OBLIKULIVO | **6** | 1 | fastest crashers | [link](https://osu.ppy.sh/community/matches/112703895) | [bilibili](https://www.bilibili.com/video/BV1cm411Q7wf/) |
 | 52 | Saturday 17 February 14:00 | SESBIAN LEX | **6** | 0 | THE TROLLERS | [link](https://osu.ppy.sh/community/matches/112704579) | [bilibili](https://www.bilibili.com/video/BV1Xv421k7WZ/) |
