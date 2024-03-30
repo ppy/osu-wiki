@@ -211,6 +211,21 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253
 
 ## Match results
 
+### Round of 16
+
+Saturday, 30 March 2024:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Japan** ::{ flag=JP }:: | **5** | 0 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/113289025) | [#1](https://www.twitch.tv/videos/2105887871) |
+| Denmark ::{ flag=DK }:: | 0 | **5** | ::{ flag=AU }:: **Australia** | [#1](https://osu.ppy.sh/community/matches/113291144) | [#1](https://www.twitch.tv/videos/2105889387) |
+| **Brazil** ::{ flag=BR }:: | **5** | 0 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/113293395) | [#1](https://www.twitch.tv/videos/2105891423) |
+| Hong Kong ::{ flag=HK }:: | 0 | **5** | ::{ flag=TH }:: **Thailand** | [#1](https://osu.ppy.sh/community/matches/113294179) | [#1](https://www.twitch.tv/videos/2105925815) |
+| Italy ::{ flag=IT }:: | 0 | **5** | ::{ flag=DE }:: **Germany** | [#1](https://osu.ppy.sh/community/matches/113295134) | [#1](https://www.twitch.tv/videos/2105968607) |
+| Peru ::{ flag=PE }:: | 0 | **5** | ::{ flag=PL }:: **Poland** | [#1](https://osu.ppy.sh/community/matches/113296025) | [#1](https://www.twitch.tv/videos/2106021865) |
+| Czechia ::{ flag=CZ }:: | 0 | **5** | ::{ flag=RU }:: **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/113296934) | [#1](https://www.twitch.tv/videos/2106075246) |
+| **Chile** ::{ flag=CL }:: | **5** | 1 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/113301124) | [#1](https://www.twitch.tv/videos/2106335145) |
+
 ### Round of 32
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1Ik9AOAkdUBKwGi6qYNsAIwhlYG1vVKjP6SXH67in6pk?rm=minimal).
