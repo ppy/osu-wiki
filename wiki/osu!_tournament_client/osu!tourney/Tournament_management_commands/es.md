@@ -29,7 +29,7 @@ Los siguientes comandos del chat se proporcionan para la gestión remota de las 
   - Se puede ingresar cualquier cantidad de mods.
   - `mod` - HR, DT, FL, HD, FI, Freemod, None
 - `!mp timer [<tiempo>]` - Comienza un cronómetro de cuenta regresiva.
-  - `time` es 30s por defecto.
+  - `tiempo` es 30s por defecto.
   - Los anuncios de que el temporizador se va a terminar se producen cada minuto, 30s, 10s, 5s con anterioridad.
 - `!mp aborttimer` - Detiene el cronómetro actual (tanto el cronómetro normal como el cronómetro de inicio de la partida)
 - `!mp kick <nombre de usuario>` - Expulsa al jugador de la sala.
@@ -51,7 +51,7 @@ Los elementos encerrados entre corchetes angulares ( `<>` ) definen los «parám
 
 Los comandos se pueden usar tanto desde osu! como a través de un cliente IRC como mIRC, HexChat o HydraIRC.
 
-El anfitrión original de una sala multijugador también puede utilizar estos comandos. Si el anfitrión original se va, el siguiente host no heredará los comandos. El anfitrión original podrá volver a usar los comandos si vuelve a unirse a la sala.
+El anfitrión original de una sala multijugador también puede usar estos comandos. Si el anfitrión original se va, el siguiente host no heredará los comandos. El anfitrión original podrá volver a usar los comandos si vuelve a unirse a la sala.
 
 ## Ejemplos del uso de los comandos
 
