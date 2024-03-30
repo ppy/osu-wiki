@@ -19,7 +19,7 @@ Actuellement, osu! prend en charge les conversions de beatmaps du mode de jeu [o
 
 ### Conversion osu! > osu!taiko
 
-*Voir également : [Notes de conversion sur le mapping osu!taiko/osu!](/wiki/Game_mode/osu!taiko#osu!-conversion-notes)*
+*Voir également : [Notes de conversion sur le mapping osu!taiko/osu!](/wiki/Game_mode/osu!taiko#conversion-des-beatmaps-osu!->-osu!taiko)*
 
 Les conversions d'osu!taiko sont générées en fonction du placement des [hitsounds](/wiki/Beatmapping/Hitsound), du rythme et des changements de vélocité du slider dans une beatmap. En fonction du type [d'objets](/wiki/Gameplay/Hit_object) et des hitsounds correspondants, la conversion se déroule généralement comme suit :
 
