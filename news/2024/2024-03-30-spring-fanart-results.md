@@ -6,7 +6,7 @@ date: 2024-03-30 03:00:00 +0000
 
 March winds and April showers, make way for sweet mayflowers...
 
-[![](https://assets.ppy.sh/contests/205/banners/Tofumang.jpg)](https://assets.ppy.sh/contests/205/winners/Tofumang.png)
+![](/wiki/shared/news/2024-03-30-spring-fanart-results/banner.jpg)
 
 With only **15** votes to distribute over **110** entries, it's no secret that choosing the finalists has been a tough nut to crack. But alas, the community has spoken, and now we have our latest batch of Spring 2024 seasonal backgrounds for all to behold and admire here and in the game's main menu!
 
