@@ -52,7 +52,7 @@ the same formula is used in stable -->
 | 300 | `64 - 3 × OD` |
 | 200 | `97 - 3 × OD` |
 | 100 | `127 - 3 × OD` |
-| 50 | `188 - 3 × OD` |
+| 50 | `151 - 3 × OD` |
 
 Se il giocatore colpisce al di fuori della finestra di colpo dei 50, verrà considerato come un miss. Nel caso in cui le finestre di colpo di due oggetti si sovrappongano, il secondo oggetto sarà inaccessibile finché il primo non scomparirà a causa del [notelock](/wiki/Gameplay/Judgement/Notelock).
 

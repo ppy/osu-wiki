@@ -1,7 +1,6 @@
 ---
+no_native_review: true
 no_native_review_since: 1bf5b747eb7cc330b7bed4195c7119e904282211 Doryan
-outdated_translation: true
-outdated_since: 0b17e730706bd653e8092be92c75b0e1d83e6a1f
 ---
 
 # Critères de style des news
@@ -12,7 +11,7 @@ Les **posts de news**, ou **articles de news**, existent sur un système légèr
 
 À la manière des articles du wiki, tous les articles de news doivent au minimum présenter une orthographe et une grammaire correctes, ainsi que des informations correctes et d'actualité.
 
-Toute personne intéressée par une contribution ou l'écriture d'un article de news peut le faire dans le channel `#osu-news` du [serveur Discord d'osu!](https://discord.com/invite/ppy). Vous pouvez également contacter ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) ou n'importe quel responsable actif du [wiki ou des news](/wiki/People/osu!_wiki_maintainers).
+Toute personne intéressée par une contribution ou l'écriture d'un article de news peut le faire dans le channel `#osu-news` du [serveur Discord d'osu!](https://discord.com/invite/ppy). Vous pouvez également contacter ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079), ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724), ou n'importe quel responsable actif du [wiki ou des news](/wiki/People/osu!_wiki_maintainers).
 
 ## Localisations
 
@@ -87,7 +86,7 @@ L'utilisation de Markdown est couverte par les [critères de style des articles]
 - Les [Infoboxes](/wiki/Article_styling_criteria/Formatting#infoboxes) et les [notes de bas de page](/wiki/Article_styling_criteria/Formatting#notes-de-bas-de-page) ne sont pas pris en charge.
 - [L'image de la bannière](#bannières) ne doit pas contenir de texte alternatif, c'est-à-dire du texte à l'intérieur des crochets d'un lien d'image markdown (`![alt text](image.png)`).
 
-#### Images
+### Images
 
 *Pour les normes de format et de qualité des images, voir : [Critères de style des articles § Formats et qualité](/wiki/Article_styling_criteria/Formatting#formats-et-qualité)*
 
@@ -102,6 +101,8 @@ Les articles doivent comporter une image après le paragraphe de prévisualisati
 Ces bannières apparaissent dans de nombreux rapports d'aspect différents à différents endroits du site web et sur différents appareils, et doivent donc être conçues en tenant compte d'un éventuel ajustement.
 
 ![Référence pour le ratio d'aspect des bannières des articles de news.](img/banner-sizes.png "Référence pour le ratio d'aspect des bannières des articles de news. Notez que les appareils mobiles peuvent se situer n'importe où à l'intérieur ou même légèrement en dehors des intervalles communs spécifiés ici.")
+
+Utilisez [cet outil de visualisation de la bannière](https://tanza.me/tools/osu-vis/) pour vérifier comment la bannière apparaîtra dans les différentes parties du site web.
 
 Les bannières doivent avoir une taille de base minimale de 1000x200px. Une version avec chaque dimension doublée doit être fournie si l'image source est assez grande pour la supporter (ce qui donne `banner.jpg` et `banner@2x.jpg`). Les images de bannières apparaissant dans plusieurs articles doivent être placées dans le répertoire [`wiki/shared/news/banners/`](https://github.com/ppy/osu-wiki/tree/master/wiki/shared/news/banners).
 
@@ -128,3 +129,19 @@ Vidéo intégrée dans YouTube :
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/cXkiX7u4a9g" frameborder="0" allowfullscreen></iframe>
 </div>
 ```
+
+## Design
+
+Ce qui suit s'applique à tous les médias dans les articles de news et comprend les raisons courantes des changements demandés ou des demandes de renseignements de l'équipe de news :
+
+- **Les ressources créées pour les articles de news doivent faire l'objet d'une autorisation et d'une licence.**
+- **Notez les [directives relatives à l'identité de la marque](/wiki/Brand_identity_guidelines), notamment en ce qui concerne les noms des jeux et des modes de jeu.** Des termes comme "standard" ou "ctb" ne sont pas utilisés dans les contextes officiels.
+  - Préférable : "osu!", "osu!taiko", "osu!catch", "osu!mania" (Notez également qu'il s'agit de l'ordre canonique lorsqu'ils sont présentés dans l'ordre.)
+  - Acceptable : "osu!", "taiko", "catch", "mania"
+  - Acceptable : "OSU!", "OSU!TAIKO", "OSU!CATCH", "OSU!MANIA", "TAIKO", "CATCH", "MANIA" (dans les contextes où le texte est stylisé en majuscules)
+  - Non acceptable : "osu!standard", "standard", "osu", "Osu!", "ctb"
+- **La hauteur minimale du texte correspond à la hauteur du texte du paragraphe dans les rapports d'aspect des ordinateurs de bureau.** Toute taille inférieure n'est pas lisible sur les appareils mobiles. Consultez cette page sur un appareil mobile ou redimensionnez la fenêtre du navigateur pour vous y référer.
+
+![Référence à la taille du texte](img/text-size.png "Référence à la taille minimale du texte pour les images.")
+
+Certains membres de la communauté ne ménagent pas leurs efforts pour créer des graphiques de qualité ou même des vidéos d'animation à inclure dans les articles. Dans la mesure du possible, veuillez toutefois contacter l'équipe chargée des news à l'avance au sujet des dessins et des ressources, car les modifications nécessaires peuvent entraîner des retards inattendus ou une absence dans le post de news.
