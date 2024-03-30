@@ -29,15 +29,15 @@ The **JHC 2024** (***Jack House Cup 2024***) is a team–based osu!mania 4K tour
 
 ## Prizes
 
-If registered as solo team, the prize of osu!supporter will be doubled.
+For solo teams, the prize of osu!supporter was doubled.
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months osu!supporter, profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months osu!supporter |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 3 months osu!supporter |
-| \#4 - \#6 | 2 months osu!supporter |
-| \#7 - \#12 | 1 month osu!supporter |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter, profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 3 months of osu!supporter |
+| #4 – #6 | 2 months of osu!supporter |
+| #7 – #12 | 1 month of osu!supporter |
 
 ## Organisation
 
@@ -141,9 +141,9 @@ If registered as solo team, the prize of osu!supporter will be doubled.
 
 | Rank | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "冠军") | wehehe |
-| ![Silver crown](/wiki/shared/crown-silver.png "亚军") | GangWonDuo |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "季军") | hsod |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | wehehe |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | GangWonDuo |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | hsod |
 | \#4 | garfield exterminators if fortnite |
 | \#5 ~ \#6 | hawk |
 | \#5 ~ \#6 | SV Player |
@@ -337,7 +337,7 @@ If registered as solo team, the prize of osu!supporter will be doubled.
 
 ## Match results
 
-Sheet-styled match results can be seen through [master sheet](https://docs.google.com/spreadsheets/d/1Qm2BfIc2LFbf59-2RBkqnOde95y2WgoyO_XRNSrvNa4/).
+The full match results are also available in the [master sheet](https://docs.google.com/spreadsheets/d/1Qm2BfIc2LFbf59-2RBkqnOde95y2WgoyO_XRNSrvNa4/).
 
 ### Grand Finals
 
@@ -506,7 +506,7 @@ Loser round:
 
 ### Qualifiers
 
-Detailed statistics can be seen through [statistics sheet](https://docs.google.com/spreadsheets/d/1q0Hbqt5Rqz78IHnMo2t-WhMl2oyrxNoTHdysYngH3Jc/).
+Detailed statistics can be seen in the [statistics sheet](https://docs.google.com/spreadsheets/d/1q0Hbqt5Rqz78IHnMo2t-WhMl2oyrxNoTHdysYngH3Jc/).
 
 | Seed | Team | Total score |
 | :-: | :-: | :-: |
