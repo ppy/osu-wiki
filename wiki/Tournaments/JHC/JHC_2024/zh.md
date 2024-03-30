@@ -405,7 +405,7 @@ tags:
 
 | \# | 时间（UTC） | 红队 |  |  | 蓝队 | 比赛链接 | 回放 |
 | :-: | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| 63 | Saturday 17 February 15:00 | ETA | 3 | **6** | SV Player | [link](https://osu.ppy.sh/community/matches/112705493) | *?bilibili* |
+| 63 | Saturday 17 February 15:00 | ETA | 3 | **6** | SV Player | [link](https://osu.ppy.sh/community/matches/112705493) | [bilibili](https://www.bilibili.com/video/BV1jq421P7qH/) |
 | 64 | Sunday 18 February 12:00 | wehehe | **6** | FF | THE TRUTH OF NOCENT | [link](https://osu.ppy.sh/community/matches/112720688) | / |
 | 61 | Sunday 18 February 14:00 | GangWonDuo | **6** | 2 | Shangus | [link](https://osu.ppy.sh/community/matches/112722112) | [bilibili](https://www.bilibili.com/video/BV1Lu4m1A7di/) |
 | 62 | Sunday 18 February 18:00 | hsod | 5 | **6** | garfield exterminators if fortnite | [link](https://osu.ppy.sh/community/matches/112725820) | [bilibili](https://www.bilibili.com/video/BV1Ux421Z7pL/) |
@@ -458,7 +458,7 @@ tags:
 | 33 | Saturday 10 February 13:00 | 海陆 | **5** | 3 | Antijacker | [link](https://osu.ppy.sh/community/matches/112602438) | [bilibili](https://www.bilibili.com/video/BV1Zy421b7tn/) |
 | 36 | Saturday 10 February 13:00 | 痛恨叠键 | 2 | **5** | 憋笑 | [link](https://osu.ppy.sh/community/matches/112602564) | [bilibili](https://www.bilibili.com/video/BV16j421X7m2/) |
 | 38 | Sunday 11 February 11:00 | fastest crashers | **5** | FF | 不喜欢打叠 | [link](https://osu.ppy.sh/community/matches/112618828) | / |
-| 35 | Sunday 11 February 12:00 | choke gang | 4 | **5** | 原核生物队 | [link](https://osu.ppy.sh/community/matches/112619475) | *?bilibili* |
+| 35 | Sunday 11 February 12:00 | choke gang | 4 | **5** | 原核生物队 | [link](https://osu.ppy.sh/community/matches/112619475) | [bilibili](https://www.bilibili.com/video/BV1Mp421d78x/) |
 
 ### 32 强
 
@@ -475,13 +475,13 @@ tags:
 | 11 | Saturday 27 January 14:30 | 大天空killers | **5** | 0 | Amogus enjoyers | [link](https://osu.ppy.sh/community/matches/112398384) | [bilibili](https://www.bilibili.com/video/BV1Pw4117729/) |
 | 7 | Saturday 27 January 15:00 | SESBIAN LEX | **5** | 1 | 憋笑 | [link](https://osu.ppy.sh/community/matches/112398557) | [bilibili](https://www.bilibili.com/video/BV1KH4y1v7Wt/) |
 | 10 | Saturday 27 January 20:00 | kiopm | 1 | **5** | choke99 | [link](https://osu.ppy.sh/community/matches/112404110) | / |
-| 8 | Sunday 28 January 00:00 | garfield exterminators if fortnite | **5** | FF | Hop on Lethal Company | ~~link~~ | / |
+| 8 | Sunday 28 January 00:00 | garfield exterminators if fortnite | **5** | FF | Hop on Lethal Company | / | / |
 | 13 | Sunday 28 January 11:00 | wehehe | **5** | 1 | AwakeGiant | [link](https://osu.ppy.sh/community/matches/112413909) | [bilibili](https://www.bilibili.com/video/BV1xv421i72e/) |
 | 4 | Sunday 28 January 12:00 | OBLIKULIVO | **5** | 0 | 绝不认输 | [link](https://osu.ppy.sh/community/matches/112414464) | [bilibili](https://www.bilibili.com/video/BV1zT4y1t7U8/) |
 | 3 | Sunday 28 January 13:00 | Shangus | **5** | 2 | soloist | [link](https://osu.ppy.sh/community/matches/112415448) | [bilibili](https://www.bilibili.com/video/BV1XH4y1a7e6/) |
 | 5 | Sunday 28 January 13:00 | hawk | **5** | 1 | 原核生物队 | [link](https://osu.ppy.sh/community/matches/112415382) | [bilibili](https://www.bilibili.com/video/BV12D4y1f7Wu/) |
 | 9 | Sunday 28 January 13:00 | ETA | **5** | 0 | We can't mid game | [link](https://osu.ppy.sh/community/matches/112415472) | / |
-| 15 | Sunday 28 January 18:00 | THE TRUTH OF NOCENT | **5** | FF | adalah alat tempur mutakhir dari korea | ~~link~~ | / |
+| 15 | Sunday 28 January 18:00 | THE TRUTH OF NOCENT | **5** | FF | adalah alat tempur mutakhir dari korea | / | / |
 
 败者组：
 
