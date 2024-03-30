@@ -405,7 +405,7 @@ Winner round:
 
 | \# | Time (UTC) | Team Red |  |  | Team Blue | Match link | VOD link |
 | :-: | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| 63 | Saturday 17 February 15:00 | ETA | 3 | **6** | SV Player | [link](https://osu.ppy.sh/community/matches/112705493) | *?bilibili* |
+| 63 | Saturday 17 February 15:00 | ETA | 3 | **6** | SV Player | [link](https://osu.ppy.sh/community/matches/112705493) | [bilibili](https://www.bilibili.com/video/BV1jq421P7qH/) |
 | 64 | Sunday 18 February 12:00 | wehehe | **6** | FF | THE TRUTH OF NOCENT | [link](https://osu.ppy.sh/community/matches/112720688) | / |
 | 61 | Sunday 18 February 14:00 | GangWonDuo | **6** | 2 | Shangus | [link](https://osu.ppy.sh/community/matches/112722112) | [bilibili](https://www.bilibili.com/video/BV1Lu4m1A7di/) |
 | 62 | Sunday 18 February 18:00 | hsod | 5 | **6** | garfield exterminators if fortnite | [link](https://osu.ppy.sh/community/matches/112725820) | [bilibili](https://www.bilibili.com/video/BV1Ux421Z7pL/) |
@@ -414,7 +414,7 @@ Loser round (Potential match):
 
 | \# | Time (UTC) | Team Red |  |  | Team Blue | Match link | VOD link |
 | :-: | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| 59 | Saturday 17 February 14:00 | 大天空killers | **6** | 1 | 海陆 | [link](https://osu.ppy.sh/community/matches/112704655) | [bilibili]() |
+| 59 | Saturday 17 February 14:00 | 大天空killers | **6** | 1 | 海陆 | [link](https://osu.ppy.sh/community/matches/112704655) | [bilibili](https://www.bilibili.com/video/BV1qz421f7hd/) |
 | 58 | Sunday 18 February 11:00 | SESBIAN LEX | 1 | **6** | hawk | [link](https://osu.ppy.sh/community/matches/112720123) | [bilibili](https://www.bilibili.com/video/BV1n2421F7vq/) |
 | 57 | Sunday 18 February 13:00 | OBLIKULIVO | 1 | **6** | 👍 | [link](https://osu.ppy.sh/community/matches/112721402) | [bilibili](https://www.bilibili.com/video/BV1tv421C7b9/) |
 | 60 | Sunday 18 February 13:00 | We can't late game | 0 | **6** | 原核生物队 | [link](https://osu.ppy.sh/community/matches/112721295) | [bilibili](https://www.bilibili.com/video/BV1o2421F7ae/) |
@@ -424,9 +424,9 @@ Loser round:
 | \# | Time (UTC) | Team Red |  |  | Team Blue | Match link | VOD link |
 | :-: | :-: | --: | :-: | :-: | :-- | :-: | :-: |
 | 49 | Friday 16 February 11:00 | 👍 | **6** | 3 | 快手极速版 | [link](https://osu.ppy.sh/community/matches/112686492) | [bilibili](https://www.bilibili.com/video/BV1h2421F7We/) |
-| 54 | Friday 16 February 12:00 | 大天空killers | **6** | FF | soloist | [link](https://osu.ppy.sh/community/matches/112686888) | [bilibili]() |
-| 53 | Friday 16 February 14:00 | choke99 | FF | **6** | 海陆 | [link](https://osu.ppy.sh/community/matches/112688031) | [bilibili]() |
-| 56 | Saturday 17 February 12:00 | We can't late game | **6** | FF | 憋笑 | [link](https://osu.ppy.sh/community/matches/112703049) | [bilibili]() |
+| 54 | Friday 16 February 12:00 | 大天空killers | **6** | FF | soloist | [link](https://osu.ppy.sh/community/matches/112686888) | / |
+| 53 | Friday 16 February 14:00 | choke99 | FF | **6** | 海陆 | [link](https://osu.ppy.sh/community/matches/112688031) | / |
+| 56 | Saturday 17 February 12:00 | We can't late game | **6** | FF | 憋笑 | [link](https://osu.ppy.sh/community/matches/112703049) | / |
 | 51 | Saturday 17 February 13:00 | hawk | **6** | 3 | AwakeGiant | [link](https://osu.ppy.sh/community/matches/112703812) | [bilibili](https://www.bilibili.com/video/BV1yJ4m1W7nE/) |
 | 50 | Saturday 17 February 13:00 | OBLIKULIVO | **6** | 1 | fastest crashers | [link](https://osu.ppy.sh/community/matches/112703895) | [bilibili](https://www.bilibili.com/video/BV1cm411Q7wf/) |
 | 52 | Saturday 17 February 14:00 | SESBIAN LEX | **6** | 0 | THE TROLLERS | [link](https://osu.ppy.sh/community/matches/112704579) | [bilibili](https://www.bilibili.com/video/BV1Xv421k7WZ/) |
@@ -458,7 +458,7 @@ Loser round:
 | 33 | Saturday 10 February 13:00 | 海陆 | **5** | 3 | Antijacker | [link](https://osu.ppy.sh/community/matches/112602438) | [bilibili](https://www.bilibili.com/video/BV1Zy421b7tn/) |
 | 36 | Saturday 10 February 13:00 | 痛恨叠键 | 2 | **5** | 憋笑 | [link](https://osu.ppy.sh/community/matches/112602564) | [bilibili](https://www.bilibili.com/video/BV16j421X7m2/) |
 | 38 | Sunday 11 February 11:00 | fastest crashers | **5** | FF | 不喜欢打叠 | [link](https://osu.ppy.sh/community/matches/112618828) | / |
-| 35 | Sunday 11 February 12:00 | choke gang | 4 | **5** | 原核生物队 | [link](https://osu.ppy.sh/community/matches/112619475) | *?bilibili* |
+| 35 | Sunday 11 February 12:00 | choke gang | 4 | **5** | 原核生物队 | [link](https://osu.ppy.sh/community/matches/112619475) | [bilibili](https://www.bilibili.com/video/BV1Mp421d78x/) |
 
 ### Round of 32
 
@@ -475,13 +475,13 @@ Winner round:
 | 11 | Saturday 27 January 14:30 | 大天空killers | **5** | 0 | Amogus enjoyers | [link](https://osu.ppy.sh/community/matches/112398384) | [bilibili](https://www.bilibili.com/video/BV1Pw4117729/) |
 | 7 | Saturday 27 January 15:00 | SESBIAN LEX | **5** | 1 | 憋笑 | [link](https://osu.ppy.sh/community/matches/112398557) | [bilibili](https://www.bilibili.com/video/BV1KH4y1v7Wt/) |
 | 10 | Saturday 27 January 20:00 | kiopm | 1 | **5** | choke99 | [link](https://osu.ppy.sh/community/matches/112404110) | / |
-| 8 | Sunday 28 January 00:00 | garfield exterminators if fortnite | **5** | FF | Hop on Lethal Company | ~~link~~ | / |
+| 8 | Sunday 28 January 00:00 | garfield exterminators if fortnite | **5** | FF | Hop on Lethal Company | / | / |
 | 13 | Sunday 28 January 11:00 | wehehe | **5** | 1 | AwakeGiant | [link](https://osu.ppy.sh/community/matches/112413909) | [bilibili](https://www.bilibili.com/video/BV1xv421i72e/) |
 | 4 | Sunday 28 January 12:00 | OBLIKULIVO | **5** | 0 | 绝不认输 | [link](https://osu.ppy.sh/community/matches/112414464) | [bilibili](https://www.bilibili.com/video/BV1zT4y1t7U8/) |
 | 3 | Sunday 28 January 13:00 | Shangus | **5** | 2 | soloist | [link](https://osu.ppy.sh/community/matches/112415448) | [bilibili](https://www.bilibili.com/video/BV1XH4y1a7e6/) |
 | 5 | Sunday 28 January 13:00 | hawk | **5** | 1 | 原核生物队 | [link](https://osu.ppy.sh/community/matches/112415382) | [bilibili](https://www.bilibili.com/video/BV12D4y1f7Wu/) |
 | 9 | Sunday 28 January 13:00 | ETA | **5** | 0 | We can't mid game | [link](https://osu.ppy.sh/community/matches/112415472) | / |
-| 15 | Sunday 28 January 18:00 | THE TRUTH OF NOCENT | **5** | FF | adalah alat tempur mutakhir dari korea | ~~link~~ | / |
+| 15 | Sunday 28 January 18:00 | THE TRUTH OF NOCENT | **5** | FF | adalah alat tempur mutakhir dari korea | / | / |
 
 Loser round:
 
