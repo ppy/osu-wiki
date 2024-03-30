@@ -3,8 +3,6 @@ no_native_review: true
 tags:
   - Mapper's Guild
   - MG
-outdated_translation: true
-outdated_since: d10ca913709eff86ab8021bbadfe576b17d50d12
 ---
 
 # Mappers' Guild
@@ -41,9 +39,11 @@ Les quêtes prioritaires sont classées en fonction de leur difficulté. Le nive
 
 ### Récompenses
 
-![Badges de profil de la Mappers' Guild](img/mg-badges.png "Les quatre niveaux de l'insigne de profil de la Mappers' Guild")
+![Badges de profil de la Mappers' Guild](img/mg-badges.png?2024-02 "Les cinq niveaux de l'insigne de profil de la Mappers' Guild")
 
-Les récompenses sont distribuées par le biais d'un système de points. Lorsqu'un utilisateur atteint un seuil de points[^points] spécifié, il obtient un rang différent matérialisé par un badge de profil. Il existe quatre niveaux de badges de profil, à savoir 100, 250, 500 et 1 000 points respectivement. Si un utilisateur atteint 2 500 points, un cinquième niveau peut être ajouté.
+Les récompenses sont distribuées par le biais d'un système de points. Lorsqu'un utilisateur atteint un seuil de points[^points] spécifié, il obtient un rang différent matérialisé par un badge de profil.
+
+Dans les débuts de la Mappers' Guild, il y avait trois niveaux d'insignes de profil : 100, 250 et 500 points respectivement. Lorsque [Annabel](https://osu.ppy.sh/users/3388410) est devenue la première utilisatrice à atteindre 1000 points, un quatrième niveau a été créé, et lorsque [Hinsvar](https://osu.ppy.sh/users/1249323) est devenu le premier utilisateur à atteindre 2500 points, un cinquième niveau a été créé. Si un utilisateur atteint 5000 points, un sixième niveau peut être ajouté.
 
 Des points sont gagnés pour différentes tâches de la Mappers' Guild. Les gains varient d'une tâche à l'autre, bien qu'ils soient généralement pondérés en fonction du temps requis. Par exemple, le mapping d'une difficulté Hard prend plus de temps que le mapping d'une difficulté Easy, donc le premier récompense plus de points que le second.
 
