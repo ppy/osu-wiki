@@ -88,7 +88,7 @@ This time, **6** entries have left The Dean in a state of awe, so, we did the on
 
 [**MapleSpe**](https://osu.ppy.sh/users/20991449) has pippi, Chirou and Mocha visit a breathtaking garden lined with trees full of blooming cherry blossoms lit by *INCREDIBLY* bright sunlight.
 
-[![](https://assets.ppy.sh/contests/205/banners/-%20Y%20u%20m%20i%20J%20i-.jpg)](https://assets.ppy.sh/contests/205/winners/-%20Y%20u%20m%20i%20J%20i-.jpg)
+[![](https://assets.ppy.sh/contests/205/banners/-_Y_u_m_i_J_i-.jpg)](https://assets.ppy.sh/contests/205/winners/-%20Y%20u%20m%20i%20J%20i-.jpg)
 
 [**- Y u m i J i-**](https://osu.ppy.sh/users/7656048)’s incredibly unique style permeates a scene of a stylish pippi elegantly glancing at her appropriately pink-coloured backyard from atop a tree branch... Oh dear, be careful up there!
 
