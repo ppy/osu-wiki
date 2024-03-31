@@ -10,7 +10,7 @@ osu!taiko veteran **ptar124** has gone from digital drumming to... well, still d
 
 **ptar124** is a name anyone in the tournament scene should recognise. Their trance/hardcore tunes have been highlighted in tournaments like [GTS](/wiki/Tournaments/GTS), [AxS](https://osu.ppy.sh/community/forums/topics/1474871?n=1), [NTJ](https://osu.ppy.sh/community/forums/topics/1838639?n=1), and most recently our very own [osu!taiko World Cup](/wiki/Tournaments/TWC/2024) with [aqua vitae](https://osu.ppy.sh/beatmapsets/2155621) and [Ad infinitum \~ein sof\~](https://osu.ppy.sh/beatmapsets/2159337)!
 
-A grand total of **9** songs have made their home in [**ptar124**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/409), including the two brand-new [osu! originals](/wiki/osu!_originals#osu!taiko-world-cup-2024) mentioned above!
+A grand total of **8** songs have made their home in [**ptar124**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/409), including the two brand-new [osu! originals](/wiki/osu!_originals#osu!taiko-world-cup-2024) mentioned above!
 
 In case you're looking for some inspiration, here's two instances of **ptar124**'s digital drumming in action, both of which debuted in this year's osu!taiko World Cup:
 
