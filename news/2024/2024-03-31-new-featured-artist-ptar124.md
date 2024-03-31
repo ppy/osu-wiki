@@ -8,7 +8,7 @@ osu!taiko veteran **ptar124** has gone from digital drumming to... well, still d
 
 ![](https://assets.ppy.sh/artists/409/header.jpg)
 
-**ptar124** is a name anyone in the tournament scene should recognize. Their trance/hardcore tunes have been highlighted in tournaments like [GTS](https://osu.ppy.sh/wiki/en/Tournaments/GTS), [AxS](https://osu.ppy.sh/community/forums/topics/1474871?n=1), [NTJ](https://osu.ppy.sh/community/forums/topics/1838639?n=1), and most recently our very own [osu!taiko World Cup](https://osu.ppy.sh/wiki/Tournaments/TWC/2024) with [aqua vitae](https://osu.ppy.sh/beatmapsets/2155621) and [Ad infinitum \~ein sof\~](LINK)!
+**ptar124** is a name anyone in the tournament scene should recognize. Their trance/hardcore tunes have been highlighted in tournaments like [GTS](/wiki/Tournaments/GTS), [AxS](https://osu.ppy.sh/community/forums/topics/1474871?n=1), [NTJ](https://osu.ppy.sh/community/forums/topics/1838639?n=1), and most recently our very own [osu!taiko World Cup](/wiki/Tournaments/TWC/2024) with [aqua vitae](https://osu.ppy.sh/beatmapsets/2155621) and [Ad infinitum \~ein sof\~](https://osu.ppy.sh/beatmapsets/2159337)!
 
 A grand total of **9** songs have made their home in [**ptar124**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/409), including the two brand-new [osu! originals](/wiki/osu!_originals#osu!taiko-world-cup-2024) mentioned above!
 
@@ -22,7 +22,7 @@ In case you're looking for some inspiration, here's two instances of **ptar124**
 
 ### ptar124 & SiLiS - Ad infinitum \~ein sof\~
 
-Check out [the map from the video above](LINK) hosted by [frz](https://osu.ppy.sh/users/6956922)!
+Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/2159337) hosted by [frz](https://osu.ppy.sh/users/6956922)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/409/Songs/Viatores%20Nebulae%20(ptar124%20%26%20SiLiS)%20-%20Ad%20infinitum%20%7Eein%20sof%7E.mp3">
