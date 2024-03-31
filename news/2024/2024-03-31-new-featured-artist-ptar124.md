@@ -8,9 +8,9 @@ osu!taiko veteran **ptar124** has gone from digital drumming to... well, still d
 
 ![](https://assets.ppy.sh/artists/409/header.jpg)
 
-**ptar124** is a name anyone in the tournament scene should recognize. Their trance/hardcore tunes have been highlighted in tournaments like [GTS](/wiki/Tournaments/GTS), [AxS](https://osu.ppy.sh/community/forums/topics/1474871?n=1), [NTJ](https://osu.ppy.sh/community/forums/topics/1838639?n=1), and most recently our very own [osu!taiko World Cup](/wiki/Tournaments/TWC/2024) with [aqua vitae](https://osu.ppy.sh/beatmapsets/2155621) and [Ad infinitum \~ein sof\~](https://osu.ppy.sh/beatmapsets/2159337)!
+**ptar124** is a name anyone in the tournament scene should recognise. Their trance/hardcore tunes have been highlighted in tournaments like [GTS](/wiki/Tournaments/GTS), [AxS](https://osu.ppy.sh/community/forums/topics/1474871?n=1), [NTJ](https://osu.ppy.sh/community/forums/topics/1838639?n=1), and most recently our very own [osu!taiko World Cup](/wiki/Tournaments/TWC/2024) with [aqua vitae](https://osu.ppy.sh/beatmapsets/2155621) and [Ad infinitum \~ein sof\~](https://osu.ppy.sh/beatmapsets/2159337)!
 
-A grand total of **9** songs have made their home in [**ptar124**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/409), including the two brand-new [osu! originals](/wiki/osu!_originals#osu!taiko-world-cup-2024) mentioned above!
+A grand total of **8** songs have made their home in [**ptar124**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/409), including the two brand-new [osu! originals](/wiki/osu!_originals#osu!taiko-world-cup-2024) mentioned above!
 
 In case you're looking for some inspiration, here's two instances of **ptar124**'s digital drumming in action, both of which debuted in this year's osu!taiko World Cup:
 
@@ -30,7 +30,7 @@ Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/2159337)
 
 ### ptar124 - AmbidextrouS \~The Alchemist of The Left x The Sage of The Right\~
 
-Experience [an osu!catch tournament's grand finals tiebreaker](https://osu.ppy.sh/beatmapsets/1698560) hosted by [Deif](https://osu.ppy.sh/users/318565)!
+Experience [an osu!catch tournament's Grand Finals tiebreaker](https://osu.ppy.sh/beatmapsets/1698560) hosted by [Deif](https://osu.ppy.sh/users/318565)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/409/Songs/ptar124%20-%20AmbidextrouS%20%7EThe%20Alchemist%20of%20The%20Left%20x%20The%20Sage%20of%20The%20Right%7E.mp3">
