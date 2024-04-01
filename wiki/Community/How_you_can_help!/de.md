@@ -1,3 +1,8 @@
+---
+outdated_since: 1c91f39ce0abb31f0af8b8dcd7ac2a67896d61bb
+outdated_translation: true
+---
+
 # Wie du helfen kannst!
 
 osu! hat eine sehr lebendige Community, die aus Menschen aus der ganzen Welt besteht. Und jeder kann auf seine eigene Weise ein Teil der Community sein!
