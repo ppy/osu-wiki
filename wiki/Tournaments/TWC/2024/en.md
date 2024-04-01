@@ -153,7 +153,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253
 
 ### Quarterfinals
 
-**[Download the mappack here (78 MB, *temporary link*)](https://leoflt.com/s/NXWM)**\
+**[Download the mappack here (78 MB)](https://packs.ppy.sh/P242%20-%20osu!taiko%20World%20Cup%202024%3A%20Quarterfinals.zip)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2107173187)
 
 - No Mod
@@ -174,7 +174,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253
   2. [PSYQUI - Raise Your Hands feat. Such (D3kuu) \[Inner Mario\]](https://osu.ppy.sh/beatmapsets/2159330#taiko/4552816)
 - Free Mod
   1. [Feryquitous - Ai Nov (MTNTWarz) \[Eliminate\]](https://osu.ppy.sh/beatmapsets/2014150#taiko/4191502)
-  2. [succducc - me & u (Kara Edit) (ler1211) \[you & i (ler1211) \[you & i (should kiss) (twc edit)\] *(temporary link)*](https://leoflt.com/s/2Vr9)
+  2. [succducc - me & u (Kara Edit) (ler1211) \[you & i (should kiss) (twc edit)\]](https://osu.ppy.sh/beatmapsets/2026921#taiko/4223441)
 - Tiebreaker
   1. **[Viatores Nebulae (ptar124 & SiLiS) - Ad infinitum \~ein sof\~ (frz) \[Perpetual Divinity\]](https://osu.ppy.sh/beatmapsets/2159337#taiko/4552827)**
 
