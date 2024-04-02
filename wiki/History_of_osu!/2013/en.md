@@ -1,4 +1,8 @@
-needs_cleanup: true <!-- Fix the poor English in the article -->
+---
+needs_cleanup: true
+---
+
+<!-- Fix grammar and tense (present to past), use neutral form in the article, add styling like backticks where appropriate and fix link formatting -->
 
 # History of osu! 2013
 
