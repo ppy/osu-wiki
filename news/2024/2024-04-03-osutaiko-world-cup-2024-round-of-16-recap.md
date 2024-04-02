@@ -8,7 +8,7 @@ Nothing happened in the osu!taiko World Cup between the 30th and 31st of March 2
 
 ![](/wiki/Tournaments/TWC/2024/img/twc2024-banner.jpg)
 
-In a surprise to no one, the Round of 16 match-ups went as good as any seasoned TWC spectator could have imagined. Not straying from previous years' patterns, the previous week has been full of sweeps, which turned out to be a great week for the lazy pickem voters who put down all of their picks as 5–0 — but fear not, as we still have the mappool showcase along with lovely [osu! originals](/wiki/osu!_originals), so let's jump right into that.
+In a surprise to no one, the Round of 16 match-ups went as good as any seasoned TWC spectator could have imagined. Not straying from previous years' patterns, the previous week has been full of sweeps, which turned out to be a great week for the lazy [pick'em](https://pickem.hwc.hr/tournaments/140) voters who put down all of their picks as 5–0 — but fear not, as we still have the mappool showcase along with lovely [osu! originals](/wiki/osu!_originals), so let's jump right into that.
 
 ## Mappool showcase
 
@@ -24,7 +24,7 @@ In a surprise to no one, the Round of 16 match-ups went as good as any seasoned 
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=v2100512474&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-The Round of 16 pool aimed to level out the playing field when it comes to difficulty while still putting emphasis on consistency, with teams sometimes taking great risks with over modding in order to grab the slight edge in their picks. The pool itself features 3 lovely osu! originals, and we recommend you take a second to get familiar with them if you haven't already.
+The Round of 16 pool aimed to level out the playing field when it comes to difficulty while still putting emphasis on consistency, with teams sometimes taking great risks with overmodding in order to grab the slight edge in their picks. The pool itself features 3 osu! originals, and we recommend you take a second to get familiar with them if you haven't already.
 
 [![](/wiki/shared/news/2024-04-03-osutaiko-world-cup-2024-round-of-16-recap/aqua_vitae.jpg)](https://osu.ppy.sh/beatmapsets/2155621#taiko/4543646)
 
@@ -34,19 +34,19 @@ The Round of 16 pool aimed to level out the playing field when it comes to diffi
     </audio>
 </div>
 
-[![](/wiki/shared/news/2024-04-03-osutaiko-world-cup-2024-round-of-16-recap/Train_of_Thought.jpg)](https://osu.ppy.sh/beatmapsets/2155531#taiko/4543467)
-
-<div class="osu-md__paragraph">
-    <audio controls>
-        <source src="https://assets.ppy.sh/artists/407/Songs/Cansol%20-%20Train%20of%20Thought.mp3">
-    </audio>
-</div>
-
 [![](/wiki/shared/news/2024-04-03-osutaiko-world-cup-2024-round-of-16-recap/Usuva_Kagerow.jpg)](https://osu.ppy.sh/beatmapsets/2155520#taiko/4543446)
 
 <div class="osu-md__paragraph">
     <audio controls>
         <source src="https://assets.ppy.sh/artists/223/Songs/Tedjimo_yomigY_-_Usuva_Kagerow.mp3">
+    </audio>
+</div>
+
+[![](/wiki/shared/news/2024-04-03-osutaiko-world-cup-2024-round-of-16-recap/Train_of_Thought.jpg)](https://osu.ppy.sh/beatmapsets/2155531#taiko/4543467)
+
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/artists/407/Songs/Cansol%20-%20Train%20of%20Thought.mp3">
     </audio>
 </div>
 
@@ -73,11 +73,11 @@ The Round of 16 pool aimed to level out the playing field when it comes to diffi
 
 ## Match highlights
 
-Due to reasons so eloquently noted above, there haven't been any spectacular matches that we can highlight this week for you. As the brackets are slowly being moulded into its final form with the usual suspects showcasing their dominance and cementing their place in the upper bracket, it's only a matter of time until the clash of titans begins, and when the true underdogs start to appear.
+Usually, we highlight matches that have some kind of back-and-forth, that tell some kind of story, that show the struggle of players fighting tooth and nail. Due to reasons so eloquently noted above, there haven't been any spectacular matches that we can highlight this week for you. As the bracket slowly moulds into its final form with the usual suspects showcasing their dominance and cementing their place in the upper bracket, it's only a matter of time until the clash of titans begins, and when the true underdogs start to appear.
 
 ---
 
-"How can I stay up to date with the latest osu!taiko World Cup happenings?", I hear you asking in a totally not scripted fashion. The match schedules along with all other details such as mappools are all available on the [TWC 2024 wiki page](/wiki/Tournaments/TWC/2024), and you can catch next week's matches live on the [osulive Twitch channel](https://www.twitch.tv/osulive)!
+"How can I stay up to date with the latest osu!taiko World Cup happenings?", I hear you asking in a totally unscripted fashion. The match schedules along with all other details such as mappools are all available on the [TWC 2024 wiki page](/wiki/Tournaments/TWC/2024), and you can catch next week's matches live on the [osulive Twitch channel](https://www.twitch.tv/osulive)!
 
 We hope to see you cheer on your favourite teams next week in Twitch chat, because if we don't, we'll send Taikonator to get you.
 
