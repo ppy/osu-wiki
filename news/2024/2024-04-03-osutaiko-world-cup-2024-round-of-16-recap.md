@@ -8,7 +8,7 @@ Nothing happened in the osu!taiko World Cup between the 30th and 31st of March 2
 
 ![](/wiki/Tournaments/TWC/2024/img/twc2024-banner.jpg)
 
-In a surprise to no one the Round of 16 match-ups went as good as any seasoned TWC spectator could have imagined. Not straying from previous years' patterns, the previous week has been full of sweeps, which turned out to be a great week for the lazy pickem voters who put down all of their picks as 5–0. but fear not, as we still have the mappool showcase to showcase along with lovely [osu! originals](/wiki/osu!_originals), so let's jump right into that.
+In a surprise to no one, the Round of 16 match-ups went as good as any seasoned TWC spectator could have imagined. Not straying from previous years' patterns, the previous week has been full of sweeps, which turned out to be a great week for the lazy pickem voters who put down all of their picks as 5–0 — but fear not, as we still have the mappool showcase along with lovely [osu! originals](/wiki/osu!_originals), so let's jump right into that.
 
 ## Mappool showcase
 
@@ -73,11 +73,11 @@ The Round of 16 pool aimed to level out the playing field when it comes to diffi
 
 ## Match highlights
 
-Due to reasons so eloquently noted above, there haven't been any spectacular matches that we can highlight this week for you, but as the brackets are slowly being moulded into its final form with the usual suspects showcasing their dominance above the rest and cementing their place in the upper bracket, it's only a matter of time until the clash of titans begins, and the true underdogs start to appear.
+Due to reasons so eloquently noted above, there haven't been any spectacular matches that we can highlight this week for you. As the brackets are slowly being moulded into its final form with the usual suspects showcasing their dominance and cementing their place in the upper bracket, it's only a matter of time until the clash of titans begins, and when the true underdogs start to appear.
 
 ---
 
-"How can I stay up to date with the latest osu!taiko World Cup happenings?", I hear you asking in a totally not scripted fashion. The match schedules along with all other details such as mappools are all available on the [TWC 2024 wiki page](/wiki/Tournaments/TWC/2024), and you can catch next week's matches live on the [osulive](https://www.twitch.tv/osulive) Twitch channel!
+"How can I stay up to date with the latest osu!taiko World Cup happenings?", I hear you asking in a totally not scripted fashion. The match schedules along with all other details such as mappools are all available on the [TWC 2024 wiki page](/wiki/Tournaments/TWC/2024), and you can catch next week's matches live on the [osulive Twitch channel](https://www.twitch.tv/osulive)!
 
 We hope to see you cheer on your favourite teams next week in Twitch chat, because if we don't, we'll send Taikonator to get you.
 
