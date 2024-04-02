@@ -73,7 +73,9 @@ The Round of 16 pool aimed to level out the playing field when it comes to diffi
 
 ## Match highlights
 
-Usually, we highlight matches that have some kind of back-and-forth, that tell some kind of story, that show the struggle of players fighting tooth and nail. Due to reasons so eloquently noted above, there haven't been any spectacular matches that we can highlight this week for you. As the bracket slowly moulds into its final form with the usual suspects showcasing their dominance and cementing their place in the upper bracket, it's only a matter of time until the clash of titans begins, and when the true underdogs start to appear.
+Usually, we highlight matches that have some kind of back-and-forth, that tell some kind of story, that show the struggle of players fighting tooth and nail. Due to reasons so eloquently noted above, there haven't been any spectacular matches that we can highlight this week for you.
+
+As the bracket slowly moulds into its final form with the usual suspects showcasing their dominance and cementing their place in the upper bracket, it's only a matter of time until the clash of titans begins, and when the true underdogs start to appear.
 
 ---
 
