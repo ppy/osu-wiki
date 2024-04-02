@@ -8,7 +8,7 @@ needs_cleanup: true
 
 ## January
 
-osu! now supports widescreen in all modes (including the editor too)! Database size was reduced by 10%. The ability to reset key bindings to their defaults was added. Hyperdash issues in [Catch the Beat](/wiki/Game_mode/osu!catch) were almost fixed. The main menu's copyright graphic was updated for 2013 without the copyright text. [Results for the annual "Best of" is out. (Best of 2012)](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdDRDSjNMN3o3Y1Z6UzA0QUpFNzdlNUE#gid=0).
+osu! now supports widescreen in all modes (including the editor too)! Database size was reduced by 10%. The ability to reset key bindings to their defaults was added. Hyperdash issues in [Catch the Beat](/wiki/Game_mode/osu!catch) were almost fixed. The main menu's copyright graphic was updated for 2013 without the copyright text. [Results for the annual "Best of" were published. (Best of 2012)](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdDRDSjNMN3o3Y1Z6UzA0QUpFNzdlNUE#gid=0).
 
 Links:
 
@@ -90,9 +90,9 @@ Three brand new Dedication [achievements](/wiki/Medals) for osu!mania have been 
 
 [osu! Beatmapping Contest \#4](https://osu.ppy.sh/community/forums/posts/2324098) has started. As a counter-measure against players creating lots of accounts, clarity of messaging during account registration was improved and an infographic showing that you can't register from phones/tablets has been added to prevent players creating more accounts for personal reasons.
 
-Away with the security measures, users allowed to choose which game mode their profile defaults to (such as [osu!mania](/wiki/Game_mode/osu!mania), [Taiko](/wiki/Game_mode/osu!taiko)) and [last.fm](https://last.fm) support to profiles. User profiles now have country performance rank on their profile and a new pp graph.
+Away with the security measures, users allowed to choose which game mode their profile defaults to (such as [osu!mania](/wiki/Game_mode/osu!mania), [Taiko](/wiki/Game_mode/osu!taiko)) and [last.fm](https://last.fm) support was added to profiles. User profiles now had a country performance rank on their profile and a new pp graph.
 
-In-game wise, the main menu gets a new visualisation, with a blazing flare around the osu! symbol dependent on intensity of currently playing song's BPM. Performance have been optimised in song selection with many (more than ten thousand) maps. Update process robustness and performance have been improved.
+In-game wise, the main menu gets a new visualisation, with a blazing flare around the osu! symbol dependent on intensity of currently playing song's BPM. Performance have been optimised in song selection with many (more than 10,000) maps. Update process robustness and performance have been improved.
 
 Gameplay-wise, lead-in time was automatically added to any beatmaps which start abruptly to allow enough time to adjust [Visual Settings](/wiki/Client/Interface/Visual_settings) and total press counts for each key on the input overlay was added. For online results storages, personal best rank was shown on beatmap info pages besides the \#1 player. Score submission from mania charts was allowed and Top 50 replays was stored rather than the usual Top 40. Quick repeat sliders not reaching their maximum combo has been fixed. Disqus comments were added to beatmap pages. Finally, prototype testing of score meter for all modes was underway for osu!test.
 
@@ -134,7 +134,7 @@ Links:
 
 [peppy was confirmed for Comic Fiesta 2013 in Malaysia at 21st and 22nd of December in Kuala Lumpur City Center](https://osu.ppy.sh/community/forums/topics/163121). For day 1 (2013-12-21), osu! was shown as a stage event, demonstrating the game in four different game modes (osu!, Taiko, Catch the Beat, and osu!mania). For day 2 (2013-12-22), peppy gives an insight of osu! along with his future update plans at the panel room and showcased osu!tablet for the public to try it out.
 
-One of the current hot topics for debate right now was that peppy was making a new game mode and was testing it as a proof-in-concept (testing if it's playable, competitive or flexible enough). Some players speculate it was [Touhosu!](https://osu.ppy.sh/community/forums/topics/19307) (dodging the bullet-hell, that was, inverse of [Catch the Beat](/wiki/Game_mode/osu!catch)). By time of writing, not much information was discovered about the new game mode. [A video clip about the talk was in ppy's blog](https://blog.ppy.sh/post/71405880656/i-have-a-few-posts-waiting-for-some-final-touches)
+One of the current hot topics for debate at the time was that peppy was making a new game mode and was testing it as a proof-in-concept (testing if it's playable, competitive or flexible enough). Some players speculate it was [Touhosu!](https://osu.ppy.sh/community/forums/topics/19307) (dodging the bullet-hell, that was, inverse of [Catch the Beat](/wiki/Game_mode/osu!catch)). By time of writing, not much information was discovered about the new game mode. [A video clip about the talk was in ppy's blog](https://blog.ppy.sh/post/71405880656/i-have-a-few-posts-waiting-for-some-final-touches)
 
 Links:
 
