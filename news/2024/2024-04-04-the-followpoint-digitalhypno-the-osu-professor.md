@@ -8,7 +8,7 @@ Make sure to join us for an interview with DigitalHypno, the famous osu! tutor a
 
 ![](/wiki/shared/news/2024-04-04-the-followpoint-digitalhypno-the-osu-professor/banner.jpg)
 
-Welcome or welcome back to The Followpoint, a "Community Spotlight" series where we interview various players and community figures to get to know them better!
+Welcome or welcome back to The Followpoint, a "community spotlight" series where we interview various players and community figures to get to know them better!
 
 Today we are joined by DigitalHypno (a.k.a. honmi), who is known for their achievements and contributions, such as winning many tournaments, their content about osu!, as well as their contributions to Project Loved, Beatmap Spotlights and osu! tournaments scene.
 
@@ -54,7 +54,7 @@ Let's get right into it!
 >
 > That said, I do think we've reached a point where the bottleneck to a player's performance truly is their actual skill rather than their hardware. I can't imagine any changes in the hardware meta that would change this fact, but we can check back in another 5 years.
 
-*You've got a lot of badges from tournaments, what made you start playing tournaments and do you feel like you have encouraged others to start playing tournaments as well?*
+*You've got a lot of badges from tournaments. What made you start playing tournaments and do you feel like you have encouraged others to start playing tournaments as well?*
 
 > My first tournaments were all ones that my friends invited me to play, and I didn't really know much about how tournaments worked, let alone where to find them. I later learned that tournaments are all posted in the [Tournaments](https://osu.ppy.sh/community/forums/55) forum on the osu! website, and I would definitely recommend anyone to sign up for at least one tournament in their time playing this game.
 >
@@ -70,7 +70,7 @@ Let's get right into it!
 >
 > As I became a competitive player in open-rank tournaments, I definitely became one of the most infamous derankers for many years. Along with the rest of the community, though, I definitely recognized the issue. I think the whole point of rank restricted tournaments is to allow for a more level playing field for players around those ranks, but the problem was that while tournaments were seeded based on solo rank, solo rank isn't based on tournament performance at all.
 >
-> To help solve this problem, I designed a seeding system in 2018 called Badge Weighted Seeding (BWS), a seeding formula that artificially increases your rank based on how many tournament badges you have. Tournament badges come from winning tournaments, so the idea is that the more badges you have, the more likely it is that you shouldn't be playing in rank restricted tournaments anymore. Despite not being a perfect solution, I believe it solves a lot of the problems that used to exist.
+> To help solve this problem, I designed a seeding system in 2018 called [Badge Weighted Seeding (BWS)](/wiki/Tournaments/Badge-weighted_seeding), a seeding formula that artificially increases your rank based on how many tournament badges you have. Tournament badges come from winning tournaments, so the idea is that the more badges you have, the more likely it is that you shouldn't be playing in rank restricted tournaments anymore. Despite not being a perfect solution, I believe it solves a lot of the problems that used to exist.
 >
 > I think the real solution would be an official tournament elo ranking, ideally tied to some "solo queue" system that's built into osu!lazer. It might just be a pipe dream of mine, but I'd love to see that be implemented one day.
 
@@ -84,7 +84,7 @@ Let's get right into it!
 
 *In the future, do you think it's possible for osu! tournaments to become mainstream e-sport events?*
 
-> It's absolutely possible, especially with recent developments such as the [Tournament Committee](/wiki/People/Tournament_Committee), a group of seasoned tournament staff members that work to improve the quality of osu! tournaments, and people like BTMC that are always finding ways to take competitive osu! to the next level.
+> It's absolutely possible, especially with recent developments such as the [Tournament Committee](/wiki/People/Tournament_Committee), a group of seasoned tournament staff members that work to improve the quality of osu! tournaments, and people like [BTMC](https://osu.ppy.sh/users/3171691) that are always finding ways to take competitive osu! to the next level.
 >
 > BTMC is someone I have a lot of respect for, and I commend his dedication to pushing osu! to mainstream frontiers. With him at the steering wheel, I think the future looks bright.
 
@@ -94,15 +94,17 @@ Let's get right into it!
 >
 > The players are all from the osu! community, with a wide mix of personalities and some familiar faces. It'll be at least a few months until it comes out, but I'm sure it'll be worth the wait. Please check it out when it's released!
 >
->I'm sure I'll be back to playing osu! more regularly one day. This community will always feel like home to me, and as with most people who have been around here long enough, I'm forever indebted to this game for all the people I've met and all the experiences I've had. Thank you for the interview!
+> I'm sure I'll be back to playing osu! more regularly one day. This community will always feel like home to me, and as with most people who have been around here long enough, I'm forever indebted to this game for all the people I've met and all the experiences I've had. Thank you for the interview!
 >
 > My final words: Go play [osu!lazer](https://osu.ppy.sh/home/download)! It's much better than you might think.
 
-*Bonus question: Can you cook a steak?*
+*Bonus question: can you cook a steak?*
 
 > The winner of mangomizer vs BTMC can face off against me.
 
 ---
+
+For the three people who are out of the loop regarding who this "BTMC" person mentioned here is, you'll probably want to read [his interview](https://osu.ppy.sh/home/news/2024-03-13-the-followpoint-btmc-the-face-of-osu). More likely though, if you're out of the loop regarding this "steak" business, [this YouTube video](https://www.youtube.com/watch?v=0B6TyWML0zg) (and its comment section) may clarify that.
 
 Thank you to DigitalHypno for joining us and answering these questions — and thank you for reading, I hope you enjoyed this interview!
 
