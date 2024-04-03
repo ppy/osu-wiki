@@ -38,7 +38,7 @@ Let's get right into it!
 >
 > ![](/wiki/shared/news/2024-04-04-the-followpoint-digitalhypno-the-osu-professor/graph.jpg)
 >
-> To make sure I ended the month with the right amount of play count, I just played normally until the last few days of the month, at which point I would gain a lot of play count quickly by retrying maps over and over. osu! has a minimum score requirement for a play to count towards your play count, so it wasn't as simple as just pressing the retry button over and over. I mostly did this "play count farming" in Catch the Beat, since lower star maps in that gamemode don't require as much physical strain or focus as other game modes, which is important when you're trying to gain over 1,000 play count in one sitting.
+> To make sure I ended the month with the right amount of play count, I just played normally until the last few days of the month, at which point I would gain a lot of play count quickly by retrying maps over and over. osu! has a minimum score requirement for a play to count towards your play count, so it wasn't as simple as just spamming the retry button. I mostly did this "play count farming" in Catch the Beat, since lower star maps in that gamemode don't require as much physical strain or focus as other game modes, which is important when you're trying to gain over 1,000 play count in one sitting.
 
 *Before we move onto questions regarding player improvement and tournaments, what made you change your nickname from DigitalHypno to honmi outside osu!?*
 
@@ -108,6 +108,6 @@ Let's get right into it!
 
 For the three people who are out of the loop regarding who this "BTMC" person mentioned here is, you'll probably want to read [his interview](https://osu.ppy.sh/home/news/2024-03-13-the-followpoint-btmc-the-face-of-osu). More likely though, if you're out of the loop regarding this "steak" business, [this YouTube video](https://www.youtube.com/watch?v=0B6TyWML0zg) (and its comment section) may clarify that.
 
-Thank you to DigitalHypno for joining us and answering these questions — and thank you for reading, I hope you enjoyed this interview!
+Thank you to DigitalHypno for joining us and answering these questions — and thank you for reading; I hope you enjoyed this interview!
 
 —MegaMix
