@@ -10,7 +10,7 @@ Make sure to join us for an interview with DigitalHypno, the famous osu! tutor a
 
 Welcome or welcome back to The Followpoint, a "community spotlight" series where we interview various players and community figures to get to know them better!
 
-Today we are joined by DigitalHypno (a.k.a. honmi), who is known for their achievements and contributions, such as winning many tournaments, their content about osu!, as well as their contributions to Project Loved, Beatmap Spotlights and the osu! tournaments scene.
+Today we are joined by [DigitalHypno](https://osu.ppy.sh/users/4384207) (a.k.a. honmi), who is known for their achievements and contributions, such as winning many tournaments, their content about osu!, as well as their contributions to Project Loved, Beatmap Spotlights and the osu! tournaments scene.
 
 Let's get right into it!
 
