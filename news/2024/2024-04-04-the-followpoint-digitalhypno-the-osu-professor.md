@@ -16,7 +16,7 @@ Let's get right into it!
 
 ---
 
-*Let’s start off with an introduction, how would you introduce yourself to people who don’t know you?*
+*Let's start off with an introduction, how would you introduce yourself to people who don't know you?*
 
 > I started playing osu! in 2014 and have since become known as a long-standing tournament player, having played in the osu! World Cup for the United States in 2017, 2018, 2019, and 2021.
 >
@@ -82,13 +82,13 @@ Let's get right into it!
 >
 > There are some other, more polarizing changes in the tournament scene, such as "slot pooling" (mappools where each map covers a very predictable skillset, such as the first No Mod map being aim and the second No Mod map being streams), but overall, I think the tournament scene has really found its footing in the last few years.
 
-*In the future, do you think it’s possible for osu! tournaments to become mainstream e-sport events?*
+*In the future, do you think it's possible for osu! tournaments to become mainstream e-sport events?*
 
 > It's absolutely possible, especially with recent developments such as the [Tournament Committee](https://osu.ppy.sh/wiki/en/People/Tournament_Committee), a group of seasoned tournament staff members that work to improve the quality of osu! tournaments, and people like BTMC that are always finding ways to take competitive osu! to the next level.
 >
 > BTMC is someone I have a lot of respect for, and I commend his dedication to pushing osu! to mainstream frontiers. With him at the steering wheel, I think the future looks bright.
 
-*To finish things off, what does the future hold for you? Do you have any goals for the upcoming years that you’d like to share, or is there anything else you’d like to mention?*
+*To finish things off, what does the future hold for you? Do you have any goals for the upcoming years that you'd like to share, or is there anything else you'd like to mention?*
 
 > I'm currently inactive on osu! as I'm working on a new YouTube game show series called Social Circle. Inspired by [The Genius](https://en.wikipedia.org/wiki/The_Genius_(TV_series)), Social Circle is a last-man-standing strategy game show where 13 players play a series of strategic, social, and psychological games, eliminating one player per episode until only one remains. It's played in Minecraft using proximity voice to simulate a real-world environment, but the strategy games themselves do not involve Minecraft mechanics in any way.
 >
