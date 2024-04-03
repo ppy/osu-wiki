@@ -10,7 +10,7 @@ Make sure to join us for an interview with DigitalHypno, the famous osu! tutor a
 
 Welcome or welcome back to The Followpoint, a "community spotlight" series where we interview various players and community figures to get to know them better!
 
-Today we are joined by DigitalHypno (a.k.a. honmi), who is known for their achievements and contributions, such as winning many tournaments, their content about osu!, as well as their contributions to Project Loved, Beatmap Spotlights and osu! tournaments scene.
+Today we are joined by DigitalHypno (a.k.a. honmi), who is known for their achievements and contributions, such as winning many tournaments, their content about osu!, as well as their contributions to Project Loved, Beatmap Spotlights and the osu! tournaments scene.
 
 Let's get right into it!
 
@@ -66,7 +66,7 @@ Let's get right into it!
 
 > This question is tricky, but the short answer is that I think derankers (players who, for one reason or another, choose to not set new top plays despite having the skill to do so) go against the fundamental idea of rank restricted tournaments. The reason I say it's tricky is because I think the competition in rank restricted tournaments has adapted to the fact that derankers exist, so the fact that there are other derankers for the derankers to compete against likely makes it more enjoyable for them.
 >
-> My story is that when I started playing tournaments, I was around rank 1800. I was invited to play some "4 digit" tournaments (which have a rank restriction of #1000 - #9999) with some friends, and back then, it was common for rank restricted tournaments to remove you from the tournament if your rank was outside of the rank range. This led to people waiting until after the tournament ended to set new top plays. During one of these tournaments was around the time I decided to play as many tournaments as I could, which I realized is actually done by staying just under rank #1000, as this gave me access to both 4 digit tournaments and open-rank tournaments.
+> My story is that when I started playing tournaments, I was around rank #1800. I was invited to play some "4 digit" tournaments (which have a rank restriction of #1000 - #9999) with some friends, and back then, it was common for rank restricted tournaments to remove you from the tournament if your rank was outside of the rank range. This led to people waiting until after the tournament ended to set new top plays. During one of these tournaments was around the time I decided to play as many tournaments as I could, which I realized is actually done by staying just under rank #1000, as this gave me access to both 4 digit tournaments and open-rank tournaments.
 >
 > As I became a competitive player in open-rank tournaments, I definitely became one of the most infamous derankers for many years. Along with the rest of the community, though, I definitely recognized the issue. I think the whole point of rank restricted tournaments is to allow for a more level playing field for players around those ranks, but the problem was that while tournaments were seeded based on solo rank, solo rank isn't based on tournament performance at all.
 >
@@ -78,7 +78,9 @@ Let's get right into it!
 
 > As someone who started playing tournaments in 2016, it's tempting to reminisce on how tournaments used to be, but I can confidently say that the tournament scene has overall evolved in a very positive way.
 >
-> Along with BWS, a big example I can point to is how No Fail used to not be used in tournaments. It's funny to think about now, but back then, the community believed that if you failed the end of a map and didn't recover (read: if you notelocked on the last pattern), then no matter how well you performed on the map, your score should be completely nullified. I credit myself as being one of the first people to truly question that belief. I have memories of talking to the host of every tournament I played and trying to change their minds, including the host of Corsace Open. Even now that No Fail has been standard for many years, the idea of "failed scores not counting" is still something I joke about with friends.
+> Along with BWS, a big example I can point to is how No Fail used to not be used in tournaments. It's funny to think about now, but back then, the community believed that if you failed the end of a map and didn't recover (read: if you notelocked on the last pattern), then no matter how well you performed on the map, your score should be completely nullified. 
+>
+> I credit myself as being one of the first people to truly question that belief. I have memories of talking to the host of every tournament I played and trying to change their minds, including the host of Corsace Open. Even now that No Fail has been standard for many years, the idea of "failed scores not counting" is still something I joke about with friends.
 >
 > There are some other, more polarizing changes in the tournament scene, such as "slot pooling" (mappools where each map covers a very predictable skillset, such as the first No Mod map being aim and the second No Mod map being streams), but overall, I think the tournament scene has really found its footing in the last few years.
 
