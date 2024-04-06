@@ -21,7 +21,7 @@ As per the usual, all skins have to be created from scratch and be aligned with 
 In order to submit your skin you must:
 
 - post your entry on the forums under the [Work In Progress Skins](https://osu.ppy.sh/community/forums/119) subforum
-- post a link to your entry in the [submission thread]() using the format listed in the post
+- post a link to your entry in the [submission thread](https://osu.ppy.sh/community/forums/topics/1906588) using the format listed in the post
 
 The submissions will not be anonymised due to the requirement of posting your finished works of art on the skinning forum, so feel free to show off your work as much as you want!
 
@@ -38,7 +38,7 @@ After the submission phase is completed, the voting phase will be announced via 
 | Voting phase | 2 weeks starting from a separate news post |
 | Results | *TBD* |
 
-You can view a real-time countdown until the next stage of the contest on the [the contest page](https://osu.ppy.sh/community/contests/208).
+You can view a real-time countdown until the next stage of the contest on [the contest page](https://osu.ppy.sh/community/contests/208).
 
 ## Rules
 
@@ -78,6 +78,6 @@ It's time to quickly look at the prizes that the top 3 skinners will receive:
 
 ---
 
-If you have any questions, or don't know where to start, feel free to drop a post under the [discussion thread](https://osu.ppy.sh/community/forums/topics/1762288), check out the [skinning tutorial](https://skinship.xyz/tutorial/introduction) or join the [Discord server](https://discord.skinship.xyz) and ask the community!
+If you have any questions, or don't know where to start, feel free to drop a post under the [discussion thread](https://osu.ppy.sh/community/forums/topics/1906590), check out the [skinning tutorial](https://skinship.xyz/tutorial/introduction) or join the [Discord server](https://discord.skinship.xyz) and ask the community!
 
 —skinship
