@@ -228,8 +228,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253
 
 ### Quarterfinals
 
-### Quarterfinals
-
 Friday, 05 April 2024:
 
 | Team A |  |  | Team B | Match link | VOD link |
