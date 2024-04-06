@@ -20,7 +20,7 @@ Here on osu!, **[Grabbitz](https://osu.ppy.sh/beatmaps/artists/410) - Way Too De
 
 - One side is [this extremely difficult rendition](https://osu.ppy.sh/beatmapsets/383070) created by [UndeadCapulet](https://osu.ppy.sh/users/2523533), whose ideas still feel modern despite being nearly a decade old.
 - On the flip side is [this calmer version](https://osu.ppy.sh/beatmapsets/919243) designed by mapping relics [Mismagius](https://osu.ppy.sh/users/19048) and [\[Luanny\]](https://osu.ppy.sh/users/802909), which is newer but uses a style that *intentionally feels over a decade old*. 
-- [\[Zeth\]](https://osu.ppy.sh/users/9912966)'s [osu!taiko map](https://osu.ppy.sh/beatmapsets/888853) is what you get when the coin lands [like this](/wiki/shared/news/2024-04-06-new-featured-artists-grabbitz-oddeeo-pas-lam-system-and-reaper/coin.png).
+- [\[Zeth\]](https://osu.ppy.sh/users/9912966)'s [osu!taiko map](https://osu.ppy.sh/beatmapsets/888853) is what you get when the coin lands [like this](/wiki/shared/news/2024-04-06-new-featured-artists-grabbitz-oddeeo-pas-lam-system-and-reaper/coin.jpg).
 
 If you're not into any of these maps, [download the beatmap template here](https://assets.ppy.sh/artists/410/Songs/Grabbitz%20-%20Way%20Too%20Deep.osz) and make your own!
 
