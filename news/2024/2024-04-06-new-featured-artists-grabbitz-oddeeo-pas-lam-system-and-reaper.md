@@ -68,7 +68,7 @@ Alternatively, you can relax by [making your own map with this beatmap template]
 
 ---
 
-As fun as it may be to announce 4 artists at once, we'll be jumping back to rea1ty next weekend with just one new Featured Artist!
+As fun as it may be to announce 4 artists at once, we'll be jumping back to reality next weekend with just one new Featured Artist!
 
 Stay tuned.
 
