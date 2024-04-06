@@ -52,9 +52,11 @@ Les Beatmap Nominators bénéficient des avantages suivants :
 
 ## Membres de l'équipe
 
-Les pages du groupe [Beatmap Nominators](https://osu.ppy.sh/groups/28) et [Beatmap Nominators (Probationary)](https://osu.ppy.sh/groups/32) présentent la liste de tous les membres de l'équipe.
+The [Beatmap Nominators](https://osu.ppy.sh/groups/28) and [Beatmap Nominators (Probationary)](https://osu.ppy.sh/groups/32) group pages list all of the team members.
 
-Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatmap Nominator est formellement qualifié pour proposer une nomination. *Remarque : sauf indication contraire, tous les Beatmap Nominators parlent l'anglais en plus des langues indiquées ci-dessous.*
+The tables listed below indicate the game mode(s) in which each Beatmap Nominator is formally qualified to nominate. *Note: All Beatmap Nominators speak English in addition to the language(s) listed below unless noted otherwise.*
+
+<!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
 
 ### Beatmap Nominators titulaire
 
@@ -65,10 +67,12 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 | ::{ flag=KZ }:: [-Hitomi](https://osu.ppy.sh/users/15583987) |  |
 | ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548) |  |
 | ::{ flag=US }:: [Aeril](https://osu.ppy.sh/users/4334976) |  |
+| ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  |
 | ::{ flag=GB }:: [Aistre](https://osu.ppy.sh/users/4879380) |  |
 | ::{ flag=UA }:: [allein](https://osu.ppy.sh/users/6221637) | Ukrainien |
 | ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | Italien |
 | ::{ flag=US }:: [Annabel](https://osu.ppy.sh/users/3388410) | Espagnol |
+| ::{ flag=TR }:: [Aranel](https://osu.ppy.sh/users/9562117) | Turc |
 | ::{ flag=US }:: [Ascended](https://osu.ppy.sh/users/4564285) |  |
 | ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464) | Suédois |
 | ::{ flag=US }:: [Bloxi](https://osu.ppy.sh/users/9022451) |  |
@@ -81,10 +85,10 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chinois |
 | ::{ flag=TW }:: [Flask](https://osu.ppy.sh/users/959763) | Chinois |
 | ::{ flag=PH }:: [Fu Xuan](https://osu.ppy.sh/users/7150015) | Filipino |
-| ::{ flag=US }:: [Heroine](https://osu.ppy.sh/users/12727076) |  |
-| ::{ flag=US }:: [Izzywing](https://osu.ppy.sh/users/8157492) |  |
+| ::{ flag=CA }:: [JoshywaBoo](https://osu.ppy.sh/users/19656568) |  |
 | ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) | Chinois, un peu de français |
 | ::{ flag=DE }:: [KaedeharaKazuha](https://osu.ppy.sh/users/6300910) | Allemand |
+| ::{ flag=HK }:: [KennethBBG](https://osu.ppy.sh/users/13032817) | Chinois |
 | ::{ flag=TW }:: [Kohno Marika](https://osu.ppy.sh/users/7633130) | Chinois |
 | ::{ flag=FR }:: [Kudosu](https://osu.ppy.sh/users/11038155) | Français, allemand, japonais |
 | ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | Allemand |
@@ -92,6 +96,7 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 | ::{ flag=BR }:: [Malphs](https://osu.ppy.sh/users/9234078) | Portugais |
 | ::{ flag=CN }:: [MeAqua tete](https://osu.ppy.sh/users/5645691) | Chinois |
 | ::{ flag=US }:: [Mimari](https://osu.ppy.sh/users/14339830) |  |
+| ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | Russe |
 | ::{ flag=GB }:: [mnyui](https://osu.ppy.sh/users/14261540) |  |
 | ::{ flag=CA }:: [Mochi-](https://osu.ppy.sh/users/9312734) | Chinois |
 | ::{ flag=CH }:: [momoyo](https://osu.ppy.sh/users/12469536) |  |
@@ -103,7 +108,6 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 | ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) |  |
 | ::{ flag=CA }:: [Nijika Ijichi](https://osu.ppy.sh/users/10964252) |  |
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | Français |
-| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Allemand |
 | ::{ flag=US }:: [Ozato Fumika](https://osu.ppy.sh/users/3044645) |  |
 | ::{ flag=PR }:: [Renumi](https://osu.ppy.sh/users/1721120) | Espagnol |
 | ::{ flag=CA }:: [Resona](https://osu.ppy.sh/users/3124248) | Japonais |
@@ -111,7 +115,6 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 | ::{ flag=US }:: [rosario wknd](https://osu.ppy.sh/users/6341518) | Afrikaans |
 | ::{ flag=UZ }:: [Shmiklak](https://osu.ppy.sh/users/5504231) |  |
 | ::{ flag=CA }:: [Sparhten](https://osu.ppy.sh/users/7601720) |  |
-| ::{ flag=CA }:: [superstore](https://osu.ppy.sh/users/16755693) |  |
 | ::{ flag=TH }:: [timemon](https://osu.ppy.sh/users/2072005) | Thaï |
 | ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | Lituanien |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) | Japonais |
@@ -160,10 +163,8 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Cantonais, chinois |
 | ::{ flag=NL }:: [Chatie](https://osu.ppy.sh/users/6524765) | Néerlandais |
 | ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136) | Allemand |
-| ::{ flag=ID }:: [Dapulezatos](https://osu.ppy.sh/users/8140944) | Indonésien |
 | ::{ flag=US }:: [GiGas](https://osu.ppy.sh/users/7300747) | Coréen |
 | ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) |  |
-| ::{ flag=CO }:: [Juansy-](https://osu.ppy.sh/users/12588215) | Espagnol |
 | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | Russe |
 | ::{ flag=RU }:: [Lacrima](https://osu.ppy.sh/users/4915649) | Russe |
 | ::{ flag=ID }:: [Mochi -](https://osu.ppy.sh/users/20424806) | Indonésien |
@@ -181,7 +182,6 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 | ::{ flag=US }:: [-MysticEyes](https://osu.ppy.sh/users/6253266) |  |
 | ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273) | Chinois |
 | ::{ flag=IT }:: [\[GB\]Rick](https://osu.ppy.sh/users/25263357) | Italien |
-| ::{ flag=ID }:: [AchsanLovers](https://osu.ppy.sh/users/6368737) | Indonésien |
 | ::{ flag=ID }:: [Al-Reina](https://osu.ppy.sh/users/7037423) | Indonésien |
 | ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | Espagnol |
 | ::{ flag=GB }:: [Asherz007](https://osu.ppy.sh/users/9014047) |  |

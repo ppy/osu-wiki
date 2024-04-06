@@ -17,7 +17,6 @@ no_native_review: true
 | ::{ flag=ID }:: [-SiN-](https://osu.ppy.sh/users/10560) | 聊天室管理員 |
 | ::{ flag=HK }:: [aabc271](https://osu.ppy.sh/users/155707) | BAT |
 | ::{ flag=CN }:: [abalee](https://osu.ppy.sh/users/13103) | BAT |
-| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | NAT |
 | ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) | NAT |
 | ::{ flag=US }:: [Agnes](https://osu.ppy.sh/users/136982) | GMT |
 | ::{ flag=JP }:: [alacat](https://osu.ppy.sh/users/869782) | QAT |
@@ -113,6 +112,7 @@ no_native_review: true
 | ::{ flag=NL }:: [Intermezzo](https://osu.ppy.sh/users/136842) | osu! 開發者 |
 | ::{ flag=CH }:: [Irreversible](https://osu.ppy.sh/users/1287964) | BAT、QAT |
 | ::{ flag=US }:: [Ivalset](https://osu.ppy.sh/users/827) | BAT |
+| ::{ flag=US }:: [Izzywing](https://osu.ppy.sh/users/8157492) | QAT |
 | ::{ flag=PH }:: [James](https://osu.ppy.sh/users/5728) | BAT |
 | ::{ flag=US }:: [James2250](https://osu.ppy.sh/users/16978) | GMT |
 | ::{ flag=GB }:: [jericho2442](https://osu.ppy.sh/users/88904) | BAT |
@@ -135,6 +135,7 @@ no_native_review: true
 | ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) | QAT |
 | ::{ flag=CL }:: [Kylecito](https://osu.ppy.sh/users/488) | BAT |
 | ::{ flag=CA }:: [Kytoxid](https://osu.ppy.sh/users/98460) | BAT |
+| ::{ flag=RU }:: [Kyubey](https://osu.ppy.sh/users/2195646) | GMT |
 | ::{ flag=RU }:: [La Cataline](https://osu.ppy.sh/users/301279) | 聊天室管理員 |
 | ::{ flag=CA }:: [Lanturn](https://osu.ppy.sh/users/1446665) | QAT |
 | ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | QAT、NAT |
