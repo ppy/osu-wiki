@@ -110,12 +110,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253
 
 ## Match Schedule: Quarterfinals
 
-### Friday, 5 April 2024
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| Netherlands ::{ flag=NL }:: | ::{ flag=ID }:: Indonesia | [Apr 05 (Fri) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240405T160000&p1=1440&p2=16&p3=108) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-
 ### Saturday, 6 April 2024
 
 | Team A | Team B | Match time | Twitch stream |  |
@@ -134,21 +128,19 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253
 | --: | :-- | :-- | :-: | :-: |
 | Japan ::{ flag=JP }:: | ::{ flag=CL }:: Chile | [Apr 07 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240407T030000&p1=1440&p2=248&p3=232) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | Canada ::{ flag=CA }:: | ::{ flag=PH }:: Philippines | [Apr 07 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240407T040000&p1=1440&p2=188&p3=145) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Malaysia ::{ flag=MY }:: | ::{ flag=ID }:: Indonesia | [Apr 07 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240407T080000&p1=1440&p2=122&p3=108) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Australia ::{ flag=AU }:: | ::{ flag=ID }:: Indonesia | [Apr 07 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240407T080000&p1=1440&p2=57&p3=108) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Malaysia ::{ flag=MY }:: | ::{ flag=NL }:: Netherlands | [Apr 07 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240407T100000&p1=1440&p2=122&p3=16) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Australia ::{ flag=AU }:: | ::{ flag=NL }:: Netherlands | [Apr 07 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240407T100000&p1=1440&p2=57&p3=16) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | France ::{ flag=FR }:: | ::{ flag=PL }:: Poland | [Apr 07 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240407T110000&p1=1440&p2=195&p3=262) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Finland ::{ flag=FI }:: | ::{ flag=TH }:: Thailand | [Apr 07 (Sun) 11:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240407T113000&p1=1440&p2=101&p3=28) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
-| Germany ::{ flag=DE }:: | ::{ flag=TH }:: Thailand | [Apr 07 (Sun) 11:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240407T113000&p1=1440&p2=37&p3=28) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
-| France ::{ flag=FR }:: | ::{ flag=SK }:: Slovakia | [Apr 07 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240407T130000&p1=1440&p2=195) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
+| Finland ::{ flag=FI }:: | ::{ flag=TH }:: Thailand | [Apr 07 (Sun) 11:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240407T113000&p1=1440&p2=101&p3=28) | *TBD* | [^potential-match] |
+| Germany ::{ flag=DE }:: | ::{ flag=TH }:: Thailand | [Apr 07 (Sun) 11:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240407T113000&p1=1440&p2=37&p3=28) | *TBD* | [^potential-match] |
+| France ::{ flag=FR }:: | ::{ flag=SK }:: Slovakia | [Apr 07 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240407T130000&p1=1440&p2=195) | *TBD* | [^potential-match] |
 | South Korea ::{ flag=KR }:: | ::{ flag=CN }:: China | [Apr 07 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240407T130000&p1=1440&p2=235&p3=33) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | United Kingdom ::{ flag=GB }:: | ::{ flag=TW }:: Taiwan | [Apr 07 (Sun) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240407T143000&p1=1440&p2=136&p3=241) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=PH }:: Philippines | [Apr 07 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240407T150000&p1=1440&p2=166&p3=145) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=CH }:: Switzerland | [Apr 07 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240407T150000&p1=1440&p2=166&p3=270) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
+| Russian Federation ::{ flag=RU }:: | ::{ flag=PH }:: Philippines | [Apr 07 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240407T150000&p1=1440&p2=166&p3=145) | *TBD* | [^potential-match] |
+| Russian Federation ::{ flag=RU }:: | ::{ flag=CH }:: Switzerland | [Apr 07 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240407T150000&p1=1440&p2=166&p3=270) | *TBD* | [^potential-match] |
 | Canada ::{ flag=CA }:: | ::{ flag=CH }:: Switzerland | [Apr 07 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240407T160000&p1=1440&p2=188&p3=270) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Finland ::{ flag=FI }:: | ::{ flag=TR }:: Turkey | [Apr 07 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240407T170000&p1=1440&p2=101&p3=19) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
-| Germany ::{ flag=DE }:: | ::{ flag=TR }:: Turkey | [Apr 07 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240407T170000&p1=1440&p2=37&p3=19) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
+| Finland ::{ flag=FI }:: | ::{ flag=TR }:: Turkey | [Apr 07 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240407T170000&p1=1440&p2=101&p3=19) | *TBD* | [^potential-match] |
+| Germany ::{ flag=DE }:: | ::{ flag=TR }:: Turkey | [Apr 07 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240407T170000&p1=1440&p2=37&p3=19) | *TBD* | [^potential-match] |
 | France ::{ flag=FR }:: | ::{ flag=AR }:: Argentina | [Apr 07 (Sun) 17:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240407T173000&p1=1440&p2=195&p3=51) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Poland ::{ flag=PL }:: | ::{ flag=AR }:: Argentina | [Apr 07 (Sun) 17:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240407T173000&p1=1440&p2=262&p3=51) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Poland ::{ flag=PL }:: | ::{ flag=SK }:: Slovakia | [Apr 07 (Sun) 17:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240407T173000&p1=1440&p2=262) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
@@ -254,6 +246,14 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253
   1. [Chroma - To the Milky Way (davidminh0111) \[Supernova\]](https://osu.ppy.sh/beatmapsets/2148483#taiko/4525822)
 
 ## Match results
+
+### Quarterfinals
+
+Friday, 05 April 2024:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Netherlands** ::{ flag=NL }:: | **6** | 1 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/113370363) | [#1](https://www.twitch.tv/videos/2111872756) |
 
 ### Round of 16
 
