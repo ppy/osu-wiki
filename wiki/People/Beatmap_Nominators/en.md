@@ -254,8 +254,8 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 #### osu!mania
 
 | Name | Additional languages |
-| ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | Chinese |
 | :-- | :-- |
+| ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | Chinese |
 
 ## History
 

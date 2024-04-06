@@ -189,4 +189,3 @@ Die [Gruppenseite des GMTs](https://osu.ppy.sh/groups/4) listet alle Teammitglie
 
 [^task-Azer]: Azer ist zwar nicht Teil des GMTs selbst, gehört aber technisch gesehen zur Benutzergruppe, da er als Organisator des World Cups Berechtigungen auf GMT-Ebene benötigt.
 [^task-mangomizer]: mangomizer ist zwar nicht Teil des GMTs selbst, gehört aber technisch gesehen zur Benutzergruppe, da er für den Zugriff auf interne Foren Berechtigungen auf GMT-Ebene benötigt.
-[^task-mao]: Mao ist zwar nicht Teil des GMTs selbst, gehört aber technisch gesehen zur Benutzergruppe, da er für den Zugriff auf interne Foren Berechtigungen auf GMT-Ebene benötigt.
