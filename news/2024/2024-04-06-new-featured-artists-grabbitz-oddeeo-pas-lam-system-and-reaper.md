@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artists: Grabbitz, ODDEEO, Pa's Lam System, and REAPER"
-date: 2024-04-06 19:00:00 +0000
+date: 2024-04-06 20:30:00 +0000
 ---
 
 It's not a mistake. We're really announcing **4 artists** at the same time!
