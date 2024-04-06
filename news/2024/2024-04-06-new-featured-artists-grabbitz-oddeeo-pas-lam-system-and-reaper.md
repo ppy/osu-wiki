@@ -30,7 +30,7 @@ If you're not into any of these maps, [download the beatmap template here](https
     </video>
 </div>
 
-### ODDEEO + Karma Wears White Ties - Chinatown Blues [feat. Megpoid Gumi]
+### ODDEEO + Karma Wears White Ties - Chinatown Blues \[feat. Megpoid Gumi\]
 
 *Chinatown Blues*, the one and only retro pop song combining VOCALOID and human vocals by [**ODDEEO**](https://osu.ppy.sh/beatmaps/artists/411) and *Karma Wears White Ties*, made its way to osu! thanks to [Cloudchaser](https://osu.ppy.sh/users/1576498)'s [equally retro-outfitted beatmap](https://osu.ppy.sh/beatmapsets/883669).
 
