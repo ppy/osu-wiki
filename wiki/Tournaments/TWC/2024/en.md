@@ -266,6 +266,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253
 
 ### Quarterfinals
 
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1xXmKaCIfkjcCyq1msEpQUbb_SPG8u3zEe7rcbmljDP8?rm=minimal).
+
 Friday, 05 April 2024:
 
 | Team A |  |  | Team B | Match link | VOD link |
