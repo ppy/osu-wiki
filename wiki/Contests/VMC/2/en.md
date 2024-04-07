@@ -28,7 +28,7 @@ The results were streamed live on the [*Vocaloid Appreciation Team* Twitch accou
 
 | Placing | Prize(s) |  |
 | :-: | :-- | :-- |
-| 1st place | Custom *VMC 2 Winner* VOCALOID plushie[^plushie] (made by [Noffy](https://osu.ppy.sh/users/1541323)), 6 months of osu!supporter, [*Elite Mapper* contest points](/wiki/Contests/Contest_points), *VMC 2 Winner* profile badge | ![](img/vmcwinnerbadge.png) |
+| 1st place | Custom *VMC 2 Winner* VOCALOID plushie[^plushie] (made by [Noffy](https://osu.ppy.sh/users/1541323)), 6 months of osu!supporter, [*Elite Mapper* contest points](/wiki/Contests/Contest_points), *VMC 2 Winner* profile badge | ![](img/winnerbadge.png) |
 | 2nd place | 2 months of osu!supporter, [*Elite Mapper* contest points](/wiki/Contests/Contest_points) |  |
 | 3rd place | 1 month of osu!supporter, [*Elite Mapper* contest points](/wiki/Contests/Contest_points) |  |
 
@@ -96,7 +96,7 @@ Detailed scores, judge comments, and final placements are [available on the Mapp
 
 | Placement | User | Anonymised beatmap | Badge prize |
 | :-: | :-- | :-- | :-- |
-| 1st | [Nuolong](https://osu.ppy.sh/users/4732455) | world language | ![](/wiki/Contests/VMC/2/img/vmcwinnerbadge.png) |
+| 1st | [Nuolong](https://osu.ppy.sh/users/4732455) | world language | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
 | 2nd | [yaspo](https://osu.ppy.sh/users/4945926) | how prove | - |
 | 3rd | [Meijiro McQueen](https://osu.ppy.sh/users/11555612) | having mental | - |
 | 4th | [celerih](https://osu.ppy.sh/users/4696296) | president summer | - |
@@ -108,7 +108,7 @@ Detailed scores, judge comments, and final placements are available [available o
 
 | Placement | User | Anonymised beatmap | Badge prize |
 | :-: | :-- | :-- | :-- |
-| 1st | [uone](https://osu.ppy.sh/users/5321719) | try storm | ![](/wiki/Contests/VMC/2/img/vmcwinnerbadge.png) |
+| 1st | [uone](https://osu.ppy.sh/users/5321719) | try storm | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
 | 2nd | [Nifty](https://osu.ppy.sh/users/4956097) | naturally if | - |
 | 3rd | [-Kazuha](https://osu.ppy.sh/users/29978316) | birthday slight | - |
 
@@ -118,7 +118,7 @@ Detailed scores, judge comments, and final placements are available [available o
 
 | Placement | User | Anonymised beatmap | Badge prize |
 | :-: | :-- | :-- | :-- |
-| 1st | [Dika312](https://osu.ppy.sh/users/741613) | happily under | ![](/wiki/Contests/VMC/2/img/vmcwinnerbadge.png) |
+| 1st | [Dika312](https://osu.ppy.sh/users/741613) | happily under | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
 | 2nd | [Unlucky_w](https://osu.ppy.sh/users/4820793) | curve blue | - |
 | 3rd | [Cipse](https://osu.ppy.sh/users/7928880) | flow late | - |
 
@@ -128,7 +128,7 @@ Detailed scores, judge comments, and final placements are available [available o
 
 | Placement | User | Anonymised beatmap | Badge prize |
 | :-: | :-- | :-- | :-- |
-| 1st | [Micleak](https://osu.ppy.sh/users/16140674) | helpful party | ![](/wiki/Contests/VMC/2/img/vmcwinnerbadge.png) |
+| 1st | [Micleak](https://osu.ppy.sh/users/16140674) | helpful party | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
 | 2nd | [Vincy_02](https://osu.ppy.sh/users/13574613) | aloud day | - |
 | 3rd | [TheMoonLoop](https://osu.ppy.sh/users/15628036) | area cap | - |
 
