@@ -26,13 +26,13 @@ This contest's submissions were immediately sent to the eyes of our discerning [
 
 #### Summary
 
-| Placement | User | Anonymised beatmap | Badge prize |
+| Placement | User | Song (Map Link) | Badge prize |
 | :-: | :-- | :-- | :-- |
-| 1st | [Nuolong](https://osu.ppy.sh/users/4732455) | world language | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
-| 2nd | [yaspo](https://osu.ppy.sh/users/4945926) | how prove | - |
-| 3rd | [Meijiro McQueen](https://osu.ppy.sh/users/11555612) | having mental | - |
-| 4th | [celerih](https://osu.ppy.sh/users/4696296) | president summer | - |
-| 5th | [Nijika Ijichi](https://osu.ppy.sh/users/10964252) | anything practice | - |
+| 1st | [Nuolong](https://osu.ppy.sh/users/4732455) | [14](https://osu.ppy.sh/beatmapsets/2163174#osu/4561966) | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
+| 2nd | [yaspo](https://osu.ppy.sh/users/4945926) | [14](https://osu.ppy.sh/beatmapsets/2163127#osu/4561861) | - |
+| 3rd | [Meijiro McQueen](https://osu.ppy.sh/users/11555612) | [Devolution](https://osu.ppy.sh/beatmapsets/2163129#osu/4561870) | - |
+| 4th | [celerih](https://osu.ppy.sh/users/4696296) | [Devolution](https://osu.ppy.sh/beatmapsets/2163113#osu/4561840) | - |
+| 5th | [Nijika Ijichi](https://osu.ppy.sh/users/10964252) | [The Cuckoo Bird's Beautiful Youth](https://osu.ppy.sh/beatmapsets/2163129#osu/4561870) | - |
 
 #### Commentary
 
@@ -52,11 +52,11 @@ Special thanks to [NatsumeRin](https://osu.ppy.sh/users/151679), [Noffy](https:/
 
 #### Summary
 
-| Placement | User | Anonymised beatmap | Badge prize |
+| Placement | User | Song (Map Link) | Badge prize |
 | :-: | :-- | :-- | :-- |
-| 1st | [uone](https://osu.ppy.sh/users/5321719) | try storm | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
-| 2nd | [Nifty](https://osu.ppy.sh/users/4956097) | naturally if | - |
-| 3rd | [-Kazuha](https://osu.ppy.sh/users/29978316) | birthday slight | - |
+| 1st | [uone](https://osu.ppy.sh/users/5321719) | [Devolution](https://osu.ppy.sh/beatmapsets/2163119#taiko/4561851) | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
+| 2nd | [Nifty](https://osu.ppy.sh/users/4956097) | [Devolution](https://osu.ppy.sh/beatmapsets/2163121#taiko/4561854) | - |
+| 3rd | [-Kazuha](https://osu.ppy.sh/users/29978316) | [Shirley!!](https://osu.ppy.sh/beatmapsets/2163126#taiko/4561860) | - |
 
 #### Commentary
 
@@ -76,11 +76,11 @@ Special thanks to [aceticke](https://osu.ppy.sh/users/8838763), [Hivie](https://
 
 #### Summary
 
-| Placement | User | Anonymised beatmap | Badge prize |
+| Placement | User | Song (Map Link) | Badge prize |
 | :-: | :-- | :-- | :-- |
-| 1st | [Dika312](https://osu.ppy.sh/users/741613) | happily under | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
-| 2nd | [Unlucky_w](https://osu.ppy.sh/users/4820793) | curve blue | - |
-| 3rd | [Cipse](https://osu.ppy.sh/users/7928880) | flow late | - |
+| 1st | [Dika312](https://osu.ppy.sh/users/741613) | [Shirley!!](https://osu.ppy.sh/beatmapsets/2163162#fruits/4561933) | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
+| 2nd | [Unlucky_w](https://osu.ppy.sh/users/4820793) | [Shirley!!](https://drive.google.com/file/d/1QFKSVUhBl48_uURI95ZfgQj8_5qtETDt/view?usp=sharing) | - |
+| 3rd | [Cipse](https://osu.ppy.sh/users/7928880) | [The Cuckoo Bird's Beautiful Youth](https://drive.google.com/file/d/10zF8TYbqrbKRM1X_7K-ZaySIBAFulK2i/view?usp=sharing) | - |
 
 #### Commentary
 
@@ -100,11 +100,11 @@ Special thanks to [Jemzuu](https://osu.ppy.sh/users/7890134), [Greaper](https://
 
 #### Summary
 
-| Placement | User | Anonymised beatmap | Badge prize |
+| Placement | User | Song (Map Link) | Badge prize |
 | :-: | :-- | :-- | :-- |
-| 1st | [Micleak](https://osu.ppy.sh/users/16140674) | helpful party | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
-| 2nd | [Vincy_02](https://osu.ppy.sh/users/13574613) | aloud day | - |
-| 3rd | [TheMoonLoop](https://osu.ppy.sh/users/15628036) | area cap | - |
+| 1st | [Micleak](https://osu.ppy.sh/users/16140674) | [Devolution](https://drive.google.com/file/d/19OKPV4Ahy3J96o66XZxczUw1XrC4x4uX/view?usp=drive_link) | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
+| 2nd | [Vincy_02](https://osu.ppy.sh/users/13574613) | [Devolution](https://drive.google.com/file/d/1b1XBvoA8goqC1g6Xdj-B_7jDEdnTmJDP/view?usp=drive_link) | - |
+| 3rd | [TheMoonLoop](https://osu.ppy.sh/users/15628036) | [Devolution](https://drive.google.com/file/d/1b1XBvoA8goqC1g6Xdj-B_7jDEdnTmJDP/view?usp=drive_link) | - |
 
 #### Commentary
 
