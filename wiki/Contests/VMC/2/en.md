@@ -92,7 +92,7 @@ Please be sure to support [iroha(sasaki)](https://osu.ppy.sh/beatmaps/artists/39
 
 ### osu!
 
-Detailed scores, judge comments, and final placements are available [HERE](https://mappersguild.com/contests/results?contest=65d91885b2923e167f79fd44)!
+Detailed scores, judge comments, and final placements are [available on the Mappers' Guild website](https://mappersguild.com/contests/results?contest=65d91885b2923e167f79fd44).
 
 | Placement | User | Anonymised beatmap | Badge prize |
 | :-: | :-- | :-- | :-- |
@@ -104,7 +104,7 @@ Detailed scores, judge comments, and final placements are available [HERE](https
 
 ### osu!taiko
 
-Detailed scores, judge comments, and final placements are available [HERE](https://mappersguild.com/contests/results?contest=65d91aedb2923e167f79fe92)!
+Detailed scores, judge comments, and final placements are available [available on the Mappers' Guild website](https://mappersguild.com/contests/results?contest=65d91aedb2923e167f79fe92).
 
 | Placement | User | Anonymised beatmap | Badge prize |
 | :-: | :-- | :-- | :-- |
@@ -114,7 +114,7 @@ Detailed scores, judge comments, and final placements are available [HERE](https
 
 ### osu!catch
 
-Detailed scores, judge comments, and final placements are available [HERE](https://mappersguild.com/contests/results?contest=65d91b13b2923e167f79feec)!
+Detailed scores, judge comments, and final placements are available [available on the Mappers' Guild website](https://mappersguild.com/contests/results?contest=65d91b13b2923e167f79feec).
 
 | Placement | User | Anonymised beatmap | Badge prize |
 | :-: | :-- | :-- | :-- |
@@ -124,7 +124,7 @@ Detailed scores, judge comments, and final placements are available [HERE](https
 
 ### osu!mania
 
-Detailed scores, judge comments, and final placements are available [HERE](https://mappersguild.com/contests/results?contest=65d91a82b2923e167f79fe20)!
+Detailed scores, judge comments, and final placements are available [available on the Mappers' Guild website](https://mappersguild.com/contests/results?contest=65d91a82b2923e167f79fe20).
 
 | Placement | User | Anonymised beatmap | Badge prize |
 | :-: | :-- | :-- | :-- |
