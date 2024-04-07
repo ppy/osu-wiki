@@ -210,20 +210,18 @@ Saturday, 30 March 2024:
 | **[maliszewski](https://osu.ppy.sh/users/12408961)** ::{ flag=PL }:: | **5** | 0 | ::{ flag=RU }:: [Skrowell](https://osu.ppy.sh/users/9694263) | [#1](https://osu.ppy.sh/community/matches/113295192) |
 | **[his kitten](https://osu.ppy.sh/users/3717598)** ::{ flag=CA }:: | **5** | 2 | ::{ flag=CN }:: [lolol233](https://osu.ppy.sh/users/11375105) | [#1](https://osu.ppy.sh/community/matches/113295119) |
 
-
 Sunday, 31 March 2024:
 
 | Player A |  |  | Player B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **[Lucrise](https://osu.ppy.sh/users/9719351)** ::{ flag=RO }:: | **5** | 0 | ::{ flag=TR }:: [Shinkiro](https://osu.ppy.sh/users/6093148) | [#1](https://osu.ppy.sh/community/matches/113311054) |
 | **[Rebo](https://osu.ppy.sh/users/6942259)** ::{ flag=UY }:: | **5** | 4 | ::{ flag=NO }:: [nanolini](https://osu.ppy.sh/users/12353810) | [#1](https://osu.ppy.sh/community/matches/113310998) |
-| [ILBOSSDELPOPPIN](https://osu.ppy.sh/users/13925698) ::{ flag=IT }:: | 3 | **5** | ::{ flag=US }:: **[fieryrage](https://osu.ppy.sh/users/3533958)** | [#1](https://osu.ppy.sh/mp/113311788) |
+| [ILBOSSDELPOPPIN](https://osu.ppy.sh/users/13925698) ::{ flag=IT }:: | 3 | **5** | ::{ flag=US }:: **[fieryrage](https://osu.ppy.sh/users/3533958)** | [#1](https://osu.ppy.sh/community/matches/113311788) |
 | [rundyyy](https://osu.ppy.sh/users/10917620) ::{ flag=DE }:: | FF | **0** | ::{ flag=CN }:: **[Crystal](https://osu.ppy.sh/users/1646397)** | [#1] |
 | **[Amamya Kokoro](https://osu.ppy.sh/users/2511839)** ::{ flag=KR }:: | **5** | 2 | ::{ flag=NZ }:: [Saiyku](https://osu.ppy.sh/users/13767572) | [#1](https://osu.ppy.sh/community/matches/113306387) |
 | **[Welter](https://osu.ppy.sh/users/11552867)** ::{ flag=RU }:: | **0** | FF | ::{ flag=IL }:: [PaintedKoala](https://osu.ppy.sh/users/10056419) | [#1] |
 | **[Zylice](https://osu.ppy.sh/users/5033077)** ::{ flag=CA }:: | **5** | 2 | ::{ flag=RU }:: [desuqe](https://osu.ppy.sh/users/9712285) | [#1](https://osu.ppy.sh/community/matches/113308434) |
 | **[Chicony](https://osu.ppy.sh/users/5199332)** ::{ flag=RU }:: | FF | **0** | ::{ flag=CA }:: [Saryi](https://osu.ppy.sh/users/10051720) | [#1] |
-
 
 ### Round of 32
 
