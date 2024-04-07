@@ -138,9 +138,11 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253
 
 ## Mappools
 
+## Mappools
+
 ### Semifinals
 
-**[Download the mappack here (118 MB, *temporary link*)](https://leoflt.com/s/pST5)**\
+**[Download the mappack here (118 MB)](https://packs.ppy.sh/P243%20-%20osu!taiko%20World%20Cup%202024%3A%20Semifinals.zip)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2113703930)
 
 - No Mod
@@ -155,7 +157,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253
   2. [cosMo@bousouP feat. Hatsune Miku - Daijoubu Desu ka? (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2163117#taiko/4561849)
 - Hard Rock
   1. [Street - Aiwv (Grape\_Tea) \[Re:Taiko (Cut Ver.)\]](https://osu.ppy.sh/beatmapsets/2141512#taiko/4507425)
-  2. [MisomyL - Amnehilesie (Shinsekai-) \[Forgotten Oni TWC. Ver\] *(temporary link)*](https://leoflt.com/s/67km)
+  2. [MisomyL - Amnehilesie (Shinsekai-) \[Forgotten Oni TWC. Ver\]](https://osu.ppy.sh/beatmapsets/1712107#taiko/4561908)
 - Double Time
   1. [Masayoshi Iimori - NEWALONE (Extended Mix) (roufou) \[Flagrant\]](https://osu.ppy.sh/beatmapsets/2163092#taiko/4561817)
   2. [Fox Stevenson - Bruises (freestyler) \[flr's Inner Oni\]](https://osu.ppy.sh/beatmapsets/1916575#taiko/4102175)
