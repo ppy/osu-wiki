@@ -4,7 +4,7 @@
 
 ## Promoviendo un beatmap a amados
 
-Los beatmaps son promovidos a la categoría Amados por un proceso de nominación y votación.
+Los beatmaps son promovidos a la categoría amados por un proceso de nominación y votación.
 
 Los miembros del Project Loved Team son llamados **capitanes** y nominan regularmente beatmaps para un modo de juego específico. Estos beatmaps casi siempre son sugeridos por la comunidad.
 
