@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: 918808cb4826bd1b2d3f8eb4f61b5262ae09c741
 tags:
   - GMT
   - moderator
@@ -57,8 +55,8 @@ Generell wird das Team Kandidaten über mehrere Wochen oder Monate hinweg beobac
 Globale Moderatoren erhalten die folgenden Vorteile:
 
 - **[osu!supporter](/wiki/osu!supporter)**: Ein osu!supporter-Tag, das für die Dauer der Mitgliedschaft im Team gilt.
-- **Abzeichen für das Engagement**: Ein [Profilabzeichen](/wiki/Community/Profile_badge), das die Amtszeit des Nutzers, beginnend mit 3 Jahren, anzeigt.
-  ![GMT-Abzeichen für 3 Jahre](https://assets.ppy.sh/profile-badges/GMT3y.png "GMT-Abzeichen für 3 Jahre") ![GMT-Abzeichen für 4 Jahre](https://assets.ppy.sh/profile-badges/GMT4y.png "GMT-Abzeichen für 4 Jahre") ![GMT-Abzeichen für 5 Jahre](https://assets.ppy.sh/profile-badges/GMT5y.png "GMT-Abzeichen für 5 Jahre")
+- **Abzeichen für das Engagement**: Ein [Profilabzeichen](/wiki/Community/Profile_badge), das die Amtszeit des Nutzers, zwischen 1 und 10 Jahren, anzeigt.
+  ![GMT-Abzeichen für 1 Jahr](https://assets.ppy.sh/profile-badges/GMT1y.png "GMT-Abzeichen für 1 Jahr") ![GMT-Abzeichen für 2 Jahre](https://assets.ppy.sh/profile-badges/GMT2y.png "GMT-Abzeichen für 2 Jahre") ![GMT-Abzeichen für 3 Jahre](https://assets.ppy.sh/profile-badges/GMT3y.png?2024 "GMT-Abzeichen für 3 Jahre") ![GMT-Abzeichen für 4 Jahre](https://assets.ppy.sh/profile-badges/GMT4y.png?2024 "GMT-Abzeichen für 4 Jahre") ![GMT-Abzeichen für 5 Jahre](https://assets.ppy.sh/profile-badges/GMT5y.png?2024 "GMT-Abzeichen für 5 Jahre") ![GMT-Abzeichen für 6 Jahre](https://assets.ppy.sh/profile-badges/GMT6y.png "GMT-Abzeichen für 6 Jahre") ![GMT-Abzeichen für 7 Jahre](https://assets.ppy.sh/profile-badges/GMT7y.png "GMT-Abzeichen für 7 Jahre") ![GMT-Abzeichen für 8 Jahre](https://assets.ppy.sh/profile-badges/GMT8y.png "GMT-Abzeichen für 8 Jahre") ![GMT-Abzeichen für 9 Jahre](https://assets.ppy.sh/profile-badges/GMT9y.png "GMT-Abzeichen für 9 Jahre") ![GMT-Abzeichen für 10 Jahre](https://assets.ppy.sh/profile-badges/GMT10y.png "GMT-Abzeichen für 10 Jahre")
 
 ## Ausscheiden aus dem Team
 
@@ -92,6 +90,7 @@ Die [Gruppenseite des GMTs](https://osu.ppy.sh/groups/4) listet alle Teammitglie
 | ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | Etwas Spanisch |  |
 | ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | Spanisch | Chat-Moderation |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | Forum-Moderation, Technischer Support |
+| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | Etwas Spanisch |  |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Technischer Support |
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | Portugiesisch, Japanisch | Chat-Moderation |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | Spieler-Support, Wiki-Administration |
@@ -114,7 +113,7 @@ Die [Gruppenseite des GMTs](https://osu.ppy.sh/groups/4) listet alle Teammitglie
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Deutsch | Moderation der Mapping-/Modding-Community |
 | ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | Deutsch | Chat-Moderation, Forum-Moderation |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Kantonesisch, Chinesisch | [^task-mangomizer] |
-| ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) | Deutsch |  |
+| ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) | Deutsch | [^task-mao] |
 | ::{ flag=BR }:: [maot](https://osu.ppy.sh/users/3914271) | Portugiesisch | Moderation der Mapping-/Modding-Community |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu!-Entwicklung |
 | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597) | Vietnamesisch | Chat-Moderation |
@@ -194,3 +193,4 @@ Die [Gruppenseite des GMTs](https://osu.ppy.sh/groups/4) listet alle Teammitglie
 
 [^task-Azer]: Azer ist zwar nicht Teil des GMTs selbst, gehört aber technisch gesehen zur Benutzergruppe, da er als Organisator des World Cups Berechtigungen auf GMT-Ebene benötigt.
 [^task-mangomizer]: mangomizer ist zwar nicht Teil des GMTs selbst, gehört aber technisch gesehen zur Benutzergruppe, da er für den Zugriff auf interne Foren Berechtigungen auf GMT-Ebene benötigt.
+[^task-mao]: Mao ist zwar nicht Teil des GMTs selbst, gehört aber technisch gesehen zur Benutzergruppe, da er für den Zugriff auf interne Foren Berechtigungen auf GMT-Ebene benötigt.
