@@ -22,7 +22,7 @@ This second iteration of the VMC featured a new VOCALOID Featured Artist, suppor
 | Judging | 2024-03-08 to 2024-04-05 |
 | Results livestream | 2024-04-07 @ 18:00 UTC |
 
-The results are streamed live on the [*Vocaloid Appreciation Team* Twitch account](https://www.twitch.tv/vocaloidappreciationteam) with commentary. Further details regarding the stream will be provided in this article, the news post, and in the Discord server.
+The results were streamed live on the [*Vocaloid Appreciation Team* Twitch account](https://www.twitch.tv/vocaloidappreciationteam) with commentary. You can view the recordings for all of the contests on the [*Vocaloid Appreciation Team* YouTube channel](https://www.youtube.com/@VocaloidAppreciationTeam).
 
 ## Prizes
 
@@ -32,7 +32,7 @@ The results are streamed live on the [*Vocaloid Appreciation Team* Twitch accoun
 | 2nd place | 2 months of osu!supporter, [*Elite Mapper* contest points](/wiki/Contests/Contest_points) |  |
 | 3rd place | 1 month of osu!supporter, [*Elite Mapper* contest points](/wiki/Contests/Contest_points) |  |
 
-All participating mappers receive constructive feedback from experienced mappers in the community.
+All participating mappers receive constructive feedback from experienced mappers in the community. 
 
 ## Links
 
@@ -87,6 +87,50 @@ Please be sure to support [iroha(sasaki)](https://osu.ppy.sh/beatmaps/artists/39
 | Devolution | Kagamine Rin | kuma(alfred) | 4:26 | 190 | [.osz](https://assets.ppy.sh/artists/399/Songs/iroha(sasaki)%20-%20Devolution.osz) |
 | 14 (Miku ver.) | Hatsune Miku | π | 4:55 | 128 | [.osz](https://assets.ppy.sh/artists/399/Songs/iroha(sasaki)%20-%2014.osz) |
 | sigh | Kagamine Rin | iroha(sasaki) | 4:08 | 148 | [.osz](https://assets.ppy.sh/artists/399/Songs/iroha(sasaki)%20-%20sigh.osz) |
+
+## Results 
+
+### osu!
+
+Detailed scores, judge comments, and final placements are available [HERE](https://mappersguild.com/contests/results?contest=65d91885b2923e167f79fd44)!
+
+| Placement | User | Anonymised beatmap | Badge prize |
+| :-: | :-- | :-- | :-- |
+| 1st | [Nuolong](https://osu.ppy.sh/users/4732455) | world language | ![](/wiki/Contests/VMC/2/img/vmcwinnerbadge.png) |
+| 2nd | [yaspo](https://osu.ppy.sh/users/4945926) | how prove | - |
+| 3rd | [Meijiro McQueen](https://osu.ppy.sh/users/11555612) | having mental | - |
+| 4th | [celerih](https://osu.ppy.sh/users/4696296) | president summer | - |
+| 5th | [Nijika Ijichi](https://osu.ppy.sh/users/10964252) | anything practice | - |
+
+### osu!taiko
+
+Detailed scores, judge comments, and final placements are available [HERE](https://mappersguild.com/contests/results?contest=65d91aedb2923e167f79fe92)!
+
+| Placement | User | Anonymised beatmap | Badge prize |
+| :-: | :-- | :-- | :-- |
+| 1st | [uone](https://osu.ppy.sh/users/5321719) | try storm | ![](/wiki/Contests/VMC/2/img/vmcwinnerbadge.png) |
+| 2nd | [Nifty](https://osu.ppy.sh/users/4956097) | naturally if | - |
+| 3rd | [-Kazuha](https://osu.ppy.sh/users/29978316) | birthday slight | - |
+
+### osu!catch
+
+Detailed scores, judge comments, and final placements are available [HERE](https://mappersguild.com/contests/results?contest=65d91b13b2923e167f79feec)!
+
+| Placement | User | Anonymised beatmap | Badge prize |
+| :-: | :-- | :-- | :-- |
+| 1st | [Dika312](https://osu.ppy.sh/users/741613) | happily under | ![](/wiki/Contests/VMC/2/img/vmcwinnerbadge.png) |
+| 2nd | [Unlucky_w](https://osu.ppy.sh/users/4820793) | curve blue | - |
+| 3rd | [Cipse](https://osu.ppy.sh/users/7928880) | flow late | - |
+
+### osu!mania
+
+Detailed scores, judge comments, and final placements are available [HERE](https://mappersguild.com/contests/results?contest=65d91a82b2923e167f79fe20)!
+
+| Placement | User | Anonymised beatmap | Badge prize |
+| :-: | :-- | :-- | :-- |
+| 1st | [Micleak](https://osu.ppy.sh/users/16140674) | helpful party | ![](/wiki/Contests/VMC/2/img/vmcwinnerbadge.png) |
+| 2nd | [Vincy_02](https://osu.ppy.sh/users/13574613) | aloud day | - |
+| 3rd | [TheMoonLoop](https://osu.ppy.sh/users/15628036) | area cap | - |
 
 ## Notes
 
