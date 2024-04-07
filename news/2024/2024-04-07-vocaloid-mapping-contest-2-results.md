@@ -39,7 +39,7 @@ This contest's submissions were immediately sent to the eyes of our discerning [
 See the maps with commentary presented by [Noffy](https://osu.ppy.sh/users/1541323), [-White](https://osu.ppy.sh/users/16276548), and [Halfslashed](https://osu.ppy.sh/users/4598899). Find out which maps were each judge's favourites, receive valuable insight into judge comments, and other interesting bits of information!
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?parent=osu.ppy.sh&time=1h13m11s&video=2113603561" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?parent=osu.ppy.sh&time=1h13m11s&video=2113603561&autoplay=false" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Special thanks to [NatsumeRin](https://osu.ppy.sh/users/151679), [Noffy](https://osu.ppy.sh/users/1541323), [Mafumafu](https://osu.ppy.sh/users/3076909), [Natsu](https://osu.ppy.sh/users/1953876) and [Shanipika](https://osu.ppy.sh/users/6336729) for judging!
@@ -63,7 +63,7 @@ Special thanks to [NatsumeRin](https://osu.ppy.sh/users/151679), [Noffy](https:/
 Take a look at the top 3 maps with [aceticke](https://osu.ppy.sh/users/8838763)!
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?parent=osu.ppy.sh&time=0h47m38s&video=2113603561" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?parent=osu.ppy.sh&time=0h47m38s&video=2113603561&autoplay=false" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Special thanks to [aceticke](https://osu.ppy.sh/users/8838763), [Hivie](https://osu.ppy.sh/users/14102976), [Lumenite-](https://osu.ppy.sh/users/6256027), [Jonarwhal](https://osu.ppy.sh/users/3653035) and [Alchyr](https://osu.ppy.sh/users/4993032) for judging!
@@ -87,7 +87,7 @@ Special thanks to [aceticke](https://osu.ppy.sh/users/8838763), [Hivie](https://
 Gander a peek at the top 3 maps with [Greaper](https://osu.ppy.sh/users/2369776), [GiGas](https://osu.ppy.sh/users/7300747), and [wwwww](https://osu.ppy.sh/users/8434466)!
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?parent=osu.ppy.sh&time=0h25m55s&video=2113603561" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?parent=osu.ppy.sh&time=0h25m55s&video=2113603561&autoplay=false" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Special thanks to [Jemzuu](https://osu.ppy.sh/users/7890134), [Greaper](https://osu.ppy.sh/users/2369776), [autofanboy](https://osu.ppy.sh/users/636114) and [Chatie](https://osu.ppy.sh/users/6524765) for judging!
@@ -111,7 +111,7 @@ Special thanks to [Jemzuu](https://osu.ppy.sh/users/7890134), [Greaper](https://
 Join [BadDragon](https://osu.ppy.sh/users/6051688) and [Decku](https://osu.ppy.sh/users/13360768) in discussing their favourite maps in the contest!
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?parent=osu.ppy.sh&time=0h7m50s&video=2113603561" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?parent=osu.ppy.sh&time=0h7m50s&video=2113603561&autoplay=false" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Special thanks to [Decku](https://osu.ppy.sh/users/13360768), [Monoseul](https://osu.ppy.sh/users/16010604), [Maxus](https://osu.ppy.sh/users/4335785) and [BadDragon](https://osu.ppy.sh/users/6051688) for judging!
