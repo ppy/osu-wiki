@@ -26,7 +26,7 @@ This contest's submissions were immediately sent to the eyes of our discerning [
 
 #### Summary
 
-| Placement | User | Song (Map Link) | Badge prize |
+| Placement | User | Song (map link) | Badge prize |
 | :-: | :-- | :-- | :-- |
 | 1st | [Nuolong](https://osu.ppy.sh/users/4732455) | [14](https://osu.ppy.sh/beatmapsets/2163174#osu/4561966) | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
 | 2nd | [yaspo](https://osu.ppy.sh/users/4945926) | [14](https://osu.ppy.sh/beatmapsets/2163127#osu/4561861) | - |
@@ -52,7 +52,7 @@ Special thanks to [NatsumeRin](https://osu.ppy.sh/users/151679), [Noffy](https:/
 
 #### Summary
 
-| Placement | User | Song (Map Link) | Badge prize |
+| Placement | User | Song (map link) | Badge prize |
 | :-: | :-- | :-- | :-- |
 | 1st | [uone](https://osu.ppy.sh/users/5321719) | [Devolution](https://osu.ppy.sh/beatmapsets/2163119#taiko/4561851) | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
 | 2nd | [Nifty](https://osu.ppy.sh/users/4956097) | [Devolution](https://osu.ppy.sh/beatmapsets/2163121#taiko/4561854) | - |
@@ -76,7 +76,7 @@ Special thanks to [aceticke](https://osu.ppy.sh/users/8838763), [Hivie](https://
 
 #### Summary
 
-| Placement | User | Song (Map Link) | Badge prize |
+| Placement | User | Song (map link) | Badge prize |
 | :-: | :-- | :-- | :-- |
 | 1st | [Dika312](https://osu.ppy.sh/users/741613) | [Shirley!!](https://osu.ppy.sh/beatmapsets/2163162#fruits/4561933) | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
 | 2nd | [Unlucky_w](https://osu.ppy.sh/users/4820793) | [Shirley!!](https://drive.google.com/file/d/1QFKSVUhBl48_uURI95ZfgQj8_5qtETDt/view?usp=sharing) | - |
@@ -100,7 +100,7 @@ Special thanks to [Jemzuu](https://osu.ppy.sh/users/7890134), [Greaper](https://
 
 #### Summary
 
-| Placement | User | Song (Map Link) | Badge prize |
+| Placement | User | Song (map link) | Badge prize |
 | :-: | :-- | :-- | :-- |
 | 1st | [Micleak](https://osu.ppy.sh/users/16140674) | [Devolution](https://drive.google.com/file/d/19OKPV4Ahy3J96o66XZxczUw1XrC4x4uX/view?usp=drive_link) | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
 | 2nd | [Vincy_02](https://osu.ppy.sh/users/13574613) | [Devolution](https://drive.google.com/file/d/1b1XBvoA8goqC1g6Xdj-B_7jDEdnTmJDP/view?usp=drive_link) | - |

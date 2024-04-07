@@ -94,7 +94,7 @@ Please be sure to support [iroha(sasaki)](https://osu.ppy.sh/beatmaps/artists/39
 
 Detailed scores, judge comments, and final placements are [available on the Mappers' Guild website](https://mappersguild.com/contests/results?contest=65d91885b2923e167f79fd44).
 
-| Placement | User | Song (Map Link) | Badge prize |
+| Placement | User | Song (map link) | Badge prize |
 | :-: | :-- | :-- | :-- |
 | 1st | [Nuolong](https://osu.ppy.sh/users/4732455) | [14](https://osu.ppy.sh/beatmapsets/2163174#osu/4561966) | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
 | 2nd | [yaspo](https://osu.ppy.sh/users/4945926) | [14](https://osu.ppy.sh/beatmapsets/2163127#osu/4561861) | - |
@@ -106,7 +106,7 @@ Detailed scores, judge comments, and final placements are [available on the Mapp
 
 Detailed scores, judge comments, and final placements are available [available on the Mappers' Guild website](https://mappersguild.com/contests/results?contest=65d91aedb2923e167f79fe92).
 
-| Placement | User | Song (Map Link) | Badge prize |
+| Placement | User | Song (map link) | Badge prize |
 | :-: | :-- | :-- | :-- |
 | 1st | [uone](https://osu.ppy.sh/users/5321719) | [Devolution](https://osu.ppy.sh/beatmapsets/2163119#taiko/4561851) | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
 | 2nd | [Nifty](https://osu.ppy.sh/users/4956097) | [Devolution](https://osu.ppy.sh/beatmapsets/2163121#taiko/4561854) | - |
@@ -116,7 +116,7 @@ Detailed scores, judge comments, and final placements are available [available o
 
 Detailed scores, judge comments, and final placements are available [available on the Mappers' Guild website](https://mappersguild.com/contests/results?contest=65d91b13b2923e167f79feec).
 
-| Placement | User | Song (Map Link) | Badge prize |
+| Placement | User | Song (map link) | Badge prize |
 | :-: | :-- | :-- | :-- |
 | 1st | [Dika312](https://osu.ppy.sh/users/741613) | [Shirley!!](https://osu.ppy.sh/beatmapsets/2163162#fruits/4561933) | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
 | 2nd | [Unlucky_w](https://osu.ppy.sh/users/4820793) | [Shirley!!](https://drive.google.com/file/d/1QFKSVUhBl48_uURI95ZfgQj8_5qtETDt/view?usp=sharing) | - |
@@ -126,7 +126,7 @@ Detailed scores, judge comments, and final placements are available [available o
 
 Detailed scores, judge comments, and final placements are available [available on the Mappers' Guild website](https://mappersguild.com/contests/results?contest=65d91a82b2923e167f79fe20).
 
-| Placement | User | Song (Map Link) | Badge prize |
+| Placement | User | Song (map link) | Badge prize |
 | :-: | :-- | :-- | :-- |
 | 1st | [Micleak](https://osu.ppy.sh/users/16140674) | [Devolution](https://drive.google.com/file/d/19OKPV4Ahy3J96o66XZxczUw1XrC4x4uX/view?usp=drive_link) | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
 | 2nd | [Vincy_02](https://osu.ppy.sh/users/13574613) | [Devolution](https://drive.google.com/file/d/1b1XBvoA8goqC1g6Xdj-B_7jDEdnTmJDP/view?usp=drive_link) | - |
