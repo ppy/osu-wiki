@@ -1,8 +1,3 @@
----
-outdated_since: 1c91f39ce0abb31f0af8b8dcd7ac2a67896d61bb
-outdated_translation: true
----
-
 # 如何提供帮助！
 
 osu! 活泼的社区是由来自五湖四海的朋友们组成的。每个人都可以以喜欢的方式参与到社区当中来！
@@ -17,7 +12,7 @@ osu! 活泼的社区是由来自五湖四海的朋友们组成的。每个人都
 
 ## 帮助保持社区的友好和安全
 
-osu! 有一个全天候监控着论坛和在线聊天的管理团队，他们致力于保持官方社区的安全。
+osu! 有一个全天候监控着论坛和在线聊天的管理团队——[全局管理团队 (GMT)](/wiki/People/Global_Moderation_Team)——他们致力于保持官方社区的安全。
 
 但好消息是，你仍然能为了 osu! 社区的安全轻松尽下一臂之力。下面是能帮助我们的一小部分方式：
 
@@ -35,7 +30,7 @@ osu! 有一个全天候监控着论坛和在线聊天的管理团队，他们致
 - 选择一个你感兴趣的板块，例如：
   - [帮助](https://osu.ppy.sh/community/forums/5)
   - [谱面讨论](https://osu.ppy.sh/community/forums/56)
-  - [Storyboard 制作](https://osu.ppy.sh/community/forums/20)
+  - [故事板制作](https://osu.ppy.sh/community/forums/20)
   - [皮肤制作](https://osu.ppy.sh/community/forums/15)
   - [游戏与排名](https://osu.ppy.sh/community/forums/13)
 - 阅读板块的置顶帖，来了解到板块相关的规则和其他有用的信息。
@@ -47,8 +42,8 @@ osu! 有一个全天候监控着论坛和在线聊天的管理团队，他们致
 
 osu! 有专注于检查新提交[谱面](/wiki/Beatmap)是否能够 Rank 并被所有人游玩的团队，[谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators)。但这不意味着你不能在这一领域发光发热：
 
-- 找一找，或者在 [Pending 谱面列表](https://osu.ppy.sh/beatmapsets?s=pending)当中搜索你喜欢或愿意贡献的歌曲。
-- 玩一玩 [*Pending* 或 *Work-in-progress*](/wiki/Beatmap/Category#wip-and-pending) 的谱面，并且在讨论页面给出你的反馈。
+- 找一找，或者在[待定谱面列表](https://osu.ppy.sh/beatmapsets?s=pending)当中搜索你喜欢或愿意贡献的歌曲。
+- 玩一玩[*待定* 或 *制作中*](/wiki/Beatmap/Category#wip-and-pending)的谱面，并且在讨论页面给出你的反馈。
 - 阅读一下[摸图指南](/wiki/Modding)和[谱面上架标准 (RC)](/wiki/Ranking_criteria) 来了解摸图的技术基础和 Ranked 谱面的必备要素。
 - 加入游戏聊天中的 `#mapping` 和 `#modreqs` 频道，参与进讨论当中，或者看看别人在说什么。
 - 如果你有足够的时间和心力，你还可以提供一个[摸图列表](https://osu.ppy.sh/community/forums/60)，让谱师们请求你进行摸图的地方。
@@ -63,8 +58,8 @@ osu! 茁壮成长的社区也不乏技术力高超或竞技心火热的人，无
 
 下面是一小部分你可以参与贡献的方式：
 
-- 浏览 [Tournaments](https://osu.ppy.sh/community/forums/55) 板块。比赛需要投入大量时间精力，一丝不苟的准备。有些时候你也可以加入，作为旁观者裁判来提供帮助。
-- 看看 [Development](https://osu.ppy.sh/community/forums/2) 板块的近况，这里是大多数专业认真项目聚集且实现的地方。
+- 浏览[比赛 (Tournaments)](https://osu.ppy.sh/community/forums/55) 板块。比赛需要投入大量时间精力，一丝不苟的准备。有些时候你也可以加入，作为旁观者裁判来提供帮助。
+- 看看[开发 (Development)](https://osu.ppy.sh/community/forums/2) 板块的近况，这里是大多数专业认真项目聚集且实现的地方。
   - 加入 [osu! Discord 服务器](https://discord.gg/ppy)！跟随了解到 osu! 相关近况不失为一个与进度保持同步的好方式。
 - 加入一个[谱面项目](https://osu.ppy.sh/community/forums/53)，享受与他人协作所碰撞出的欢乐火花！
 - 自己开始一个新项目，或者加入其他人的项目！无论是带回来 dancing pippi，亦或是为 osu! 做点很酷的新东西，一切都没有问题！
@@ -85,4 +80,4 @@ osu! 茁壮成长的社区也不乏技术力高超或竞技心火热的人，无
 - [举报你看到的作弊者](/wiki/Reporting_bad_behaviour/Handling_foul_play)，请不要通过其他渠道举报他们，例如使用 `!report <某人> 好像在作弊`举报，处理结果短则需要几分钟，多则可达数个小时。
 - 请给自己一点时间来细细冥想吧，把负能量中的消极不快筛除，只留下有助于事情解决的能量就好！
 
-**这篇文章终究写不进帮助 osu! 社区的全部方式，但仅仅游玩游戏也是在让 osu! 越来越棒！**
+**这篇文章终究无法囊括所有帮助 osu! 社区的方式，但如果您仅仅只专注于在游戏中游玩，也算是在让 osu! 变得越来越好！**
