@@ -138,6 +138,33 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253
 
 ## Mappools
 
+### Semifinals
+
+**[Download the mappack here (118 MB, *temporary link*)](https://leoflt.com/s/pST5)**\
+[View the showcase VOD here](https://www.twitch.tv/videos/2113703930)
+
+- No Mod
+  1. [lemm - Algorithm 54 (tasuke912) \[Oni 54\]](https://osu.ppy.sh/beatmapsets/2163075#taiko/4561785)
+  2. [Tanchiky - Riot (Nwolf) \[stage five\]](https://osu.ppy.sh/beatmapsets/2163103#taiko/4561829)
+  3. [Zips - Heisei Sayonara Bye Bye (Ph0eNiiXZ) \[To Your Demise \[290 BPM\]\]](https://osu.ppy.sh/beatmapsets/1709931#taiko/3941177)
+  4. [Nanodesu - The Show's Over (Mew) \[Curtain Call\]](https://osu.ppy.sh/beatmapsets/2163078#taiko/4561790)
+  5. [UNDEAD CORPORATION - The silent world (sendol) \[Hell Oni (Edit)\]](https://osu.ppy.sh/beatmapsets/1117919#taiko/4561385)
+  6. [katagiri - Higashi (SORA\_T4kAhqSh1) \[TWC edit\]](https://osu.ppy.sh/beatmapsets/2163089#taiko/4561814)
+- Hidden
+  1. [MYUKKE. - Mach Roger (Nwolf) \[bowser\]](https://osu.ppy.sh/beatmapsets/2163105#taiko/4561831)
+  2. [cosMo@bousouP feat. Hatsune Miku - Daijoubu Desu ka? (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2163117#taiko/4561849)
+- Hard Rock
+  1. [Street - Aiwv (Grape\_Tea) \[Re:Taiko (Cut Ver.)\]](https://osu.ppy.sh/beatmapsets/2141512#taiko/4507425)
+  2. [MisomyL - Amnehilesie (Shinsekai-) \[Forgotten Oni TWC. Ver\] *(temporary link)*](https://leoflt.com/s/67km)
+- Double Time
+  1. [Masayoshi Iimori - NEWALONE (Extended Mix) (roufou) \[Flagrant\]](https://osu.ppy.sh/beatmapsets/2163092#taiko/4561817)
+  2. [Fox Stevenson - Bruises (freestyler) \[flr's Inner Oni\]](https://osu.ppy.sh/beatmapsets/1916575#taiko/4102175)
+- Free Mod
+  1. [Sparxe - Switcheroo (OnosakiHito) \[Ura Oni (TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2163116#taiko/4561848)
+  2. [Hoshino Ongaku Koubou - pique (Nepoch) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1384944#taiko/2861112)
+- Tiebreaker
+  1. **[Tektheist - Pomegranate (SolaEclipse) \[Spiral Matai\]](https://osu.ppy.sh/beatmapsets/2163122#taiko/4561855)**
+
 ### Quarterfinals
 
 **[Download the mappack here (78 MB)](https://packs.ppy.sh/P242%20-%20osu!taiko%20World%20Cup%202024%3A%20Quarterfinals.zip)**\
