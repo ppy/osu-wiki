@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vocaloid Mapping Contest 2 Results
-date: 2024-04-07 20:00:00 +0000
+date: 2024-04-07 23:30:00 +0000
 ---
 
 We have all been eagerly awaiting the results of the contest themed around the incredible music of [iroha(sasaki)](https://osu.ppy.sh/beatmaps/artists/399). Well, worry no longer, for they are here!
