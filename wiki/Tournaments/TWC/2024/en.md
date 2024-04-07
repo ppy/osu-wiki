@@ -138,8 +138,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253
 
 ## Mappools
 
-## Mappools
-
 ### Semifinals
 
 **[Download the mappack here (118 MB)](https://packs.ppy.sh/P243%20-%20osu!taiko%20World%20Cup%202024%3A%20Semifinals.zip)**\
