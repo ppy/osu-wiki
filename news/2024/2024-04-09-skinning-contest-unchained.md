@@ -4,11 +4,11 @@ title: "Skinning Contest: Unchained"
 date: 2024-04-09 15:00:00 +0000
 ---
 
-Unshackle your creativity and showcase it to its fullest by participating in the newest skinning contest!
+Showcase your unshackled creativity to its fullest by participating in the newest skinning contest!
 
 ![](/wiki/shared/news/2024-04-09-skinning-contest-unchained/banner.jpg)
 
-The skinship team have thrown all caution to the wind and unlocked the ultimate skinning contest theme.... which is that there isn't one. Yes, you heard that right!
+The skinship team has thrown all caution to the wind and unlocked the ultimate skinning contest theme.... which is that there isn't one. Yes, you heard that right!
 
 With a throwback to the [1st skinning contest](https://osu.ppy.sh/home/news/2021-03-08-skinning-contest-announcement) the skinning community will once again be able to choose from a huge variety of topics and themes, whether it'd be anime girls, video games that heavily involve anime girls, online personalities that are themselves anime girls, or perhaps a skin that doesn't include any anime at all (don't worry, we won't judge you).
 
@@ -20,21 +20,21 @@ As per the usual, all skins have to be created from scratch and be aligned with 
 
 In order to submit your skin you must:
 
-- post your entry on the forums under the [Work In Progress Skins](https://osu.ppy.sh/community/forums/119) subforum
-- post a link to your entry in the [submission thread](https://osu.ppy.sh/community/forums/topics/1906588) using the format listed in the post
+- Post your entry on the forums under the [Work In Progress Skins](https://osu.ppy.sh/community/forums/119) subforum
+- Post a link to your entry in the [submission thread](https://osu.ppy.sh/community/forums/topics/1906588) using the format listed in the post
 
 The submissions will not be anonymised due to the requirement of posting your finished works of art on the skinning forum, so feel free to show off your work as much as you want!
 
 ## Voting
 
-After the submission phase is completed, the voting phase will be announced via a separate news post with more details. The voting will stay open for 14 days, and once the voting closes the full voting results will be visible on the contest page, and the top 3 participants will receive their prizes.
+After the submission phase is completed, the voting phase will be announced via a separate news post with more details. The voting will stay open for 14 days, and once the voting closes, the full voting results will be visible on the contest page, followed by the top 3 participants receiving their prizes.
 
 ## Schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Announcement | 2024-04-07 |
-| Submission phase | 2024-04-07/2024-05-12 |
+| Submission phase | 2024-04-09/2024-05-14 |
 | Voting phase | 2 weeks starting from a separate news post |
 | Results | *TBD* |
 
@@ -72,9 +72,9 @@ It's time to quickly look at the prizes that the top 3 skinners will receive:
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Profile badge themed around their submission, 6 months of osu!supporter |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | Profile badge themed around their submission, 4 months of osu!supporter |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Profile badge themed around their submission, 2 months of osu!supporter |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge themed around their submission, 6 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Profile badge themed around their submission, 4 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Profile badge themed around their submission, 2 months of osu!supporter |
 
 ---
 
