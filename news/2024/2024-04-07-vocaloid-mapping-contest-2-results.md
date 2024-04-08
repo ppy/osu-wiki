@@ -32,7 +32,7 @@ This contest's submissions were immediately sent to the eyes of our discerning [
 | 2nd | [yaspo](https://osu.ppy.sh/users/4945926) | [14](https://osu.ppy.sh/beatmapsets/2163127#osu/4561861) | - |
 | 3rd | [Meijiro McQueen](https://osu.ppy.sh/users/11555612) | [Devolution](https://osu.ppy.sh/beatmapsets/2163129#osu/4561870) | - |
 | 4th | [celerih](https://osu.ppy.sh/users/4696296) | [Devolution](https://osu.ppy.sh/beatmapsets/2163113#osu/4561840) | - |
-| 5th | [Nijika Ijichi](https://osu.ppy.sh/users/10964252) | [The Cuckoo Bird's Beautiful Youth](https://osu.ppy.sh/beatmapsets/2163129#osu/4561870) | - |
+| 5th | [Nijika Ijichi](https://osu.ppy.sh/users/10964252) | [The Cuckoo Bird's Beautiful Youth](https://osu.ppy.sh/beatmapsets/2163241#osu/4562137) | - |
 
 #### Commentary
 
