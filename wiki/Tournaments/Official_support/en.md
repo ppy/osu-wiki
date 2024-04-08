@@ -40,6 +40,8 @@ Community-run tournaments which abide by the following hard criteria are eligibl
   - osu!mania: 40,000
   - This does not apply to open rank tournaments.
 - The tournament must adhere to all [expectations](#expectations) of officially supported tournaments.
+  - Any tournaments held as preliminary events leading into a main competition must adhere to the same [expectations](/wiki/Tournaments/Official_support#expectations) as standalone tournaments.
+  - The forum threads for the preliminary events MUST contain a clearly visible link in a normal-sized font to the [tournament reports form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
 
 ## Requesting support
 
