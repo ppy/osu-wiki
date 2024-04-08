@@ -10,9 +10,13 @@ Showcase your unshackled creativity to its fullest by participating in the newes
 
 The skinship team has thrown all caution to the wind and unlocked the ultimate skinning contest theme.... which is that there isn't one. Yes, you heard that right!
 
-With a throwback to the [1st skinning contest](https://osu.ppy.sh/home/news/2021-03-08-skinning-contest-announcement) the skinning community will once again be able to choose from a huge variety of topics and themes, whether it'd be anime girls, video games that heavily involve anime girls, online personalities that are themselves anime girls, or perhaps a skin that doesn't include any anime at all (don't worry, we won't judge you).
+With a throwback to the [1st skinning contest](https://osu.ppy.sh/home/news/2021-03-08-skinning-contest-announcement) and a new contest schedule that gives us 2 contests each year around spring and fall time, the skinning community will once again be able to unleash their inner artist with complete freedom as **there is no theme restriction for this contest.** That means that you can make a skin centred around anime girls, video games that heavily involve anime girls, online personalities that are themselves anime girls, or perhaps a skin that doesn't include any anime at all (don't worry, we won't judge you).
 
-Regardless of whether you are a seasoned skinning contest veteran or if this is your first time joining us, let's first get familiar with the proper way to submit your beautifully crafted masterpieces, and the rules of the contest!
+Regardless of whether you are a seasoned skinning contest veteran or if this is your first time joining us, let's first get familiar with a rule change that will impact all skinning contests going forward, the proper way to submit your beautifully crafted masterpieces, and the rules of the contest!
+
+## Rule Change
+
+In previous contests all entries containing 3rd party assets of any kind could only be used with explicit permission from the author, which a lot of the time stifled creativity or completely stopped a skinner from realising their ideas. Starting from this contest and going forward, **any art can be used as long as the original artists are clearly credited in your submission post.**
 
 ## Participation
 
@@ -33,7 +37,7 @@ After the submission phase is completed, the voting phase will be announced via 
 
 | Event | Timestamp |
 | --: | :-- |
-| Announcement | 2024-04-07 |
+| Announcement | 2024-04-09 |
 | Submission phase | 2024-04-09/2024-05-14 |
 | Voting phase | 2 weeks starting from a separate news post |
 | Results | *TBD* |
