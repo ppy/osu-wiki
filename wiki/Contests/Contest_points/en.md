@@ -6,7 +6,7 @@ Contest points can also be granted as a benefit of [official beatmapping contest
 
 ## Points key
 
-For solo contests, contest points are based on how many valid submissions are created. These are the general guidelines for point distribution, and exceptions may be granted on a case-by-case basis with the discretion of the [Contest Committee](/wiki/People/Tournament_Committee#contest-committee) when requesting official beatmapping contest support.
+For solo contests, contest points are based on how many valid submissions are created. These are the general guidelines for point distribution, and exceptions may be granted on a case-by-case basis at the discretion of the [Contest Committee](/wiki/People/Tournament_Committee#contest-committee) when requesting official beatmapping contest support.
 
 | # of submissions | 1st-place points | 2nd-place points | 3rd-place points |
 | :-- | :-- | :-- | :-- |
