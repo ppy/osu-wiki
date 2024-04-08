@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Skinning Contest: Unchained"
-date: 2024-04-07 15:00:00 +0000
+date: 2024-04-09 15:00:00 +0000
 ---
 
 Unshackle your creativity and showcase it to its fullest by participating in the newest skinning contest!
 
-![](/wiki/shared/news/2024-04-07-skinning-contest-unchained/banner.jpg)
+![](/wiki/shared/news/2024-04-09-skinning-contest-unchained/banner.jpg)
 
 The skinship team have thrown all caution to the wind and unlocked the ultimate skinning contest theme.... which is that there isn't one. Yes, you heard that right!
 
