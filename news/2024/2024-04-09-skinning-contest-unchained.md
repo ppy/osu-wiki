@@ -10,7 +10,7 @@ Showcase your unshackled creativity to its fullest by participating in the newes
 
 The skinship team has thrown all caution to the wind and unlocked the ultimate skinning contest theme... which is that there isn't one. Yes, you heard that right!
 
-With a throwback to the [1st skinning contest](https://osu.ppy.sh/home/news/2021-03-08-skinning-contest-announcement), the participants will once again be able to unleash their inner artists as **there is no theme restriction for this contest**. This means you can make a skin centred around anime girls, video games that heavily involve anime girls, online personalities that are themselves anime girls, or perhaps a skin that doesn't include any anime at all (don't worry, we won't judge you).
+With a throwback to the [1st skinning contest](/wiki/Contests/Skinning_Contest/1), the participants will once again be able to unleash their inner artists as **there is no theme restriction for this contest**. This means you can make a skin centred around anime girls, video games that heavily involve anime girls, online personalities that are themselves anime girls, or perhaps a skin that doesn't include any anime at all (don't worry, we won't judge you).
 
 Not only is the (lack of) theme reminiscent of the past, but the contest schedule will also return to a former timetable, namely giving us *two contests per year*.
 
