@@ -5,7 +5,7 @@ tags:
   - skins
 ---
 
-# Skinning Contest #5
+# Skinning Contest #5: Unchained
 
 ![Skinning Contest #5 banner](img/banner.jpg)
 

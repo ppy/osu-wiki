@@ -5,7 +5,7 @@ tags:
   - skins
 ---
 
-# Skinning Contest #4
+# Skinning Contest #4: Icons of an Era
 
 ![Skinning Contest #4 banner](img/banner.jpg)
 
