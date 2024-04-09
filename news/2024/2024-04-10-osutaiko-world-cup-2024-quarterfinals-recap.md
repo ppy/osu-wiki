@@ -28,7 +28,7 @@ Before we get into the juicy highlights, we need to first go over the mappool an
 
 The Quarterfinals pool has notably jumped in difficulty compared to RO16, which should now match the difficulty of the qualifiers. A new map slot was also added to the pool with a NM6 slot, intended to contain speedtech picks.
 
-A little birdie told us that players most often banned HD1, but picked HD2 the most, preferring to play faster picks with Hidden rather than slow ones. We also heard through the grapevine that both antimod and normal FM maps were picked equally this time around, it should be interesting to see whether this trend continues.
+A little birdie told us that players most often banned [HD1](https://osu.ppy.sh/beatmapsets/2159328#taiko/4552799), but picked [HD2](https://osu.ppy.sh/beatmapsets/1915414#taiko/3951566) the most, preferring to play faster picks with Hidden rather than slow ones. We also heard through the grapevine that both antimod and normal FM maps were picked equally this time around, it should be interesting to see whether this trend continues.
 
 Of course how could a mappool showcase ever go without showcasing the lovely osu! originals that have been cooked up, so let's dig in!
 
