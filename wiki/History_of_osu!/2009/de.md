@@ -153,6 +153,6 @@ Das Forum [Community Voice](https://osu.ppy.sh/community/forums/65) wurde hinzug
 [^user-count-2]: [Forumsbeitrag von Sinistro (20.11.2009) "osu! unlocked the “200,000 users“ achievement!"](https://osu.ppy.sh/community/forums/topics/20268?n=1)
 [^play-count]: [Forumsbeitrag von awp (15.11.2009) "50 million big ones!"](https://osu.ppy.sh/community/forums/topics/20050?n=1)
 
-[^mat]: [Forum thread by Pasonia (27.12.2009) "Introduction of the Mapping Assistance Team!"](https://osu.ppy.sh/community/forums/topics/21856?n=1)
+[^mat]: [Forumsbeitrag von Pasonia (27.12.2009) "Introduction of the Mapping Assistance Team!"](https://osu.ppy.sh/community/forums/topics/21856?n=1)
 [^stable-b1209]: [Forumsbeitrag von peppy (20.12.2009) "osu! Public Release b1209"](https://osu.ppy.sh/community/forums/topics/21511?n=1)
 [^weekly-polls]: [Forumsbeitrag von peppy (08.12.2009) "Introduction of weekly polls"](https://osu.ppy.sh/community/forums/topics/20976?n=1)
