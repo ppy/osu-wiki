@@ -3,6 +3,8 @@ no_native_review: true
 tags:
   - VMC2
   - VMC
+outdated_translation: true
+outdated_since: adc70356a0227be0dd4b80d704222bc10babd6fb
 ---
 
 # Vocaloid Mapping Contest 2
@@ -29,7 +31,7 @@ Les résultats sont diffusés en direct sur le [Compte Twitch *Vocaloid Apprecia
 
 | Placement | Prix |  |
 | :-: | :-- | :-- |
-| 1ère place | Peluche personnalisée *VMC 2 Winner* VOCALOID[^peluche] (créée par [Noffy](https://osu.ppy.sh/users/1541323)), 6 mois d'osu!supporter, [Points du concours *Elite Mapper*](/wiki/Contests/Contest_points), badge de profil *VMC 2 Winner* | ![](img/vmcwinnerbadge.png) |
+| 1ère place | Peluche personnalisée *VMC 2 Winner* VOCALOID[^peluche] (créée par [Noffy](https://osu.ppy.sh/users/1541323)), 6 mois d'osu!supporter, [Points du concours *Elite Mapper*](/wiki/Contests/Contest_points), badge de profil *VMC 2 Winner* | ![](img/winnerbadge.png) |
 | 2ème place | 2 mois d'osu!supporter, [Points du concours *Elite Mapper*](/wiki/Contests/Contest_points) |  |
 | 3ème place | 1 mois d'osu!supporter, [Points du concours *Elite Mapper*](/wiki/Contests/Contest_points) |  |
 
