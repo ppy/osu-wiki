@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Skinning Contest: Unchained"
-date: 2024-04-09 15:00:00 +0000
+date: 2024-04-09 15:30:00 +0000
 ---
 
 Showcase your unshackled creativity to its fullest by participating in the newest skinning contest!
