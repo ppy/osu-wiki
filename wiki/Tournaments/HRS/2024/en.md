@@ -221,6 +221,7 @@ Hard Rock Showdown is run by various community members.
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1qI8HGXqGLKBCvfxIzZWFb_cxoC_pdNMaLS978e6XhXo/edit#gid=795207119).
 
 Saturday, 6 April 2024:
+
 | Player A |  |  | Player B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | [Skrowell](https://osu.ppy.sh/users/9694263) ::{ flag=RU }:: | 5 | **6** | ::{ flag=US }:: **[fieryrage](https://osu.ppy.sh/users/3533958)** | [#1](https://osu.ppy.sh/community/matches/113387696) |
@@ -233,6 +234,7 @@ Saturday, 6 April 2024:
 | **[his kitten](https://osu.ppy.sh/users/3717598)** ::{ flag=CA }:: | **6** | 1 | ::{ flag=CA }:: [Saryi](https://osu.ppy.sh/users/10051720) | [#1](https://osu.ppy.sh/community/matches/113386841) |
 
 Sunday, 7 April 2024:
+
 | Player A |  |  | Player B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **[Saiyku](https://osu.ppy.sh/users/13767572)** ::{ flag=NZ }:: | **6** | 0 | [Rebo](https://osu.ppy.sh/users/6942259) | [#1](https://osu.ppy.sh/community/matches/113394293) |
