@@ -72,4 +72,4 @@ In exceptionally rare cases, a contest may be granted the privilege of awarding 
 
 ## Notes
 
-- [^exception-note]: Exceptions may be granted on a case-by-case basis at the discretion of the [Contest Committee](/wiki/People/Tournament_Committee#contest-committee).
+[^exception-note]: Exceptions may be granted on a case-by-case basis at the discretion of the [Contest Committee](/wiki/People/Tournament_Committee#contest-committee).
