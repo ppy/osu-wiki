@@ -459,7 +459,7 @@ osu!taiko 월드컵 2024는 osu!팀과 여러명의 커뮤니티 멤버들로 �
 1. 자신의 국가에 참여하는 데 관심이 있는 모든 유저는 개별적으로 등록하게 됩니다.
    - 토너먼트 매니저는 국가 팀에 대하여 잠재적인 후보자 목록을 작성합니다.
    - 토너먼트 매니저는 해당 국가의 캡틴 후보 1명을 선언하게 됩니다.
-   - 임시 캡틴은 osu!에서 비공개 메시지를 받게 되며, "osu!taiko World Cup 2024 - 팀 {국가 이름}" 이라는 제목의 공지와 추가 지침이 있는 웹 사이트가 포함됩니다.
+   - 임시 캡틴은 osu!에서 비공개 메시지를 받게 됩니다. "osu!taiko World Cup 2024 - 팀 {국가 이름}" 이라는 제목의 공지와 추가 지침이 있는 웹 사이트가 포함됩니다.
 2. 임시 캡틴은 해당 국가의 후보 중 선수를 선택하여 팀을 구성하게 됩니다.
    - 캡틴은 가능한 가장 강력한 팀을 구성하기 위해 정직하고 선의를 가지고 팀원을 선택해야 할 의무가 있습니다.
    - 캡틴은 최종 팀 목록을 **마감일 전**까지 제출해야 합니다.
@@ -477,7 +477,7 @@ osu!taiko 월드컵 2024는 osu!팀과 여러명의 커뮤니티 멤버들로 �
 ### 퀄리파이어 규칙
 
 1. 퀄리파이어 스테이지에선 모든 팀이 맵풀 셀렉터가 설계한 특정 맵풀에서 플레이하게 됩니다.
-2. 각 맵풀은 [No Mod](/wiki/Gameplay/Game_modifier#nomod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), [FreeMod](/wiki/Gameplay/Game_modifier#freemod)로 구성되어 있으며, tiebreakers는 없습니다.
+2. 각 맵풀은 [No Mod](/wiki/Gameplay/Game_modifier#nomod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), [Free Mod](/wiki/Gameplay/Game_modifier#freemod)로 구성되어 있으며, 타이브레이커는 없습니다.
 3. 퀄리파이어 맵풀은 7개로 구성되어 있으며, No Mod 3개와 Hidden, Hard Rock, Double Time, FreeMod에는 1개의 맵이 있습니다.
 4. 각 팀은 지정된 시간에 맵풀을 두 번 플레이해야 합니다. 팀의 최고 기록이 시드 배정에 사용됩니다.
 5. 맵풀은 이 페이지에 나열된 순서에 따라 플레이하게 됩니다.
@@ -531,9 +531,9 @@ osu!taiko 월드컵 2024는 osu!팀과 여러명의 커뮤니티 멤버들로 �
    - 쿼터파이널과 세미파이널: 15개의 비트맵
    - 파이널과 그랜드 파이널: 16개의 비트맵
 4. 퀄리파이어를 제외한 각각의 맵풀에는 1개의 타이브레이커가 있습니다.
-5. No mod에서는 [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) 모드를 사용하게 됩니다.
-6. [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time)에서는 해당 모드와 함께 No Fail 모드를 사용합니다.
-7. [Free Mod](/wiki/Gameplay/Game_modifier#freemod)에서는 Free Mod가 활성화됩니다. 각 플레이어의 유효한 모드 조합은 아래와 같습니다:
+5. No Mod에서는 [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) 모드를 사용하게 됩니다.
+6. [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time)맵풀에서는 해당 모드와 함께 No Fail 모드를 사용합니다.
+7. [Free Mod](/wiki/Gameplay/Game_modifier#freemod)에서는 모드를 자유롭게 선택할 수 있습니다. 각 플레이어의 유효한 모드 조합은 아래와 같습니다:
    - [No Mod](/wiki/Gameplay/Game_modifier#nomod) 즉, 모드를 사용하지 않습니다.
    - Hidden
    - Hard Rock
