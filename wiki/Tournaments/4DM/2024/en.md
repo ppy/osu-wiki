@@ -35,7 +35,7 @@ The **4 Digit osu!mania World Cup 2024** (***4DM2024***) was a worldwide double-
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Exclusive banner, 32% of the total prize pool |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Exclusive banner, 20% of the total prize pool |
 
-![](https://assets.ppy.sh/profile-badges/4digitmaniaworldcup2024.png "4DM2024 winner badge")
+![](https://assets.ppy.sh/profile-badges/4digitmaniaworldcup2024@2x.png "4DM2024 winner badge")
 
 ## Organisation
 
