@@ -2,9 +2,11 @@
 
 Contest points are points that are used as a reward in official mapping contests. They are mainly used to determine the eligibility of a user to receive the *Elite Mapper* title, which is awarded to users who have reached **6 points**.
 
+Contest points can also be granted as a benefit of [official beatmapping contest support](/wiki/Contests/Official_support) under [certain circumstances](/wiki/Contests/Official_support#eligibility).
+
 ## Points key
 
-For solo contests, contest points are based on how many valid submissions are created.
+For solo contests, contest points are based on how many valid submissions are created. These are the general guidelines for point distribution, and exceptions may be granted on a case-by-case basis at the discretion of the [Contest Committee](/wiki/People/Tournament_Committee#contest-committee) when requesting official beatmapping contest support.
 
 | # of submissions | 1st-place points | 2nd-place points | 3rd-place points |
 | :-- | :-- | :-- | :-- |
