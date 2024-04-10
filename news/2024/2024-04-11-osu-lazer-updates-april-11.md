@@ -16,11 +16,32 @@ A new month brings yet another round of updates, which you can consume in both t
 
 ### Smaller changes
 
-- **Add delayed resume after pausing has been added for osu!taiko, osu!catch & osu!mania.** This now means you have a couple of seconds to prepare yourself before the map resumes after a pause.
+- **Delayed resume after pausing has been added for osu!taiko, osu!catch & osu!mania.** This now means you have a couple of seconds to prepare yourself before the map resumes after a pause.
 - **You can no longer fail in osu!catch during a banana shower.** The catch community can finally indulge in banana showers in peace.
-- **Map/health disclaimers have been added.** Implementing even more stable features into osu!(lazer), if the map you are about to play contains scenes with flashing lights, is loved or qualified, a pop-up in the top left will show you the relevant disclaimer.
 - **Misses are now displayed on the hit accuracy heatmap.** This means that you can finally confirm once and for all whether the top left side of the playfield really is impossible to hit.
 - **The rotate tool button now works even if only 1 circle is selected.** A small, but welcome change for the mapping community.
+
+### Various visual changes
+
+The disclaimers relating to map status (such as loved or qualified) have been added into osu!(lazer), and also received a couple of design passes along with the already present flashing imagery disclaimer in order to make sure you can't miss it.
+
+![]()
+
+New icons have been added to the hit error meter, with a hare and tortoise replacing the truck and bicycle representing whether hits were being late or early.
+
+![]()
+
+If your play was made on an unranked map, the results screen will have the pp value greyed out, however the values are still visible and accurate for all of those who love putting "pp if ranked" on their Reddit score posts.
+
+![]()
+
+For some odd reason pippidon has been shrunk in osu!(lazer), the devs decided to put an end to this and restore them to their previous full-sized glory.
+
+![]()
+
+Catmull sliders were not getting properly rendered, leading to a phenomenon where the sliders had "bulbs" visible, or perhaps more commonly known in the mapping community as "tumours". We are happy to say that catmull sliders are now cancer-free.
+
+![]()
 
 ### Main menu banner rotation
 
@@ -44,6 +65,6 @@ It's now possible to invite your friends on Discord and have them join your mult
 
 ---
 
-You made it to the end! Well, considering that you have not perished yet, it's safe to say you could handle the latest and greatest that osu!(lazer) has to offer. If you want to test your limits, check out the [full changelog](LINK), and after that you can [download osu!(lazer)](https://osu.ppy.sh/home/download) to make you feel better.
+You made it to the end! Well, considering that you have not perished yet, it's safe to say you could handle the latest and greatest that osu!(lazer) has to offer. If you want to test your limits, check out the [full changelog](LINK), or if you think you got what it takes to play with lasers, [download osu!(lazer)](https://osu.ppy.sh/home/download) and give it a try yourself.
 
 —Walavouchey & 0x84f
