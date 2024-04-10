@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Skor total
 
 *Untuk penggunaan istilah "skor" lainnya, lihat [Skor (disambiguasi)](/wiki/Disambiguation/Score).*
