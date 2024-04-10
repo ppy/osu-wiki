@@ -24,7 +24,7 @@ The main menu sometimes shows a graphic for ongoing events. Support has been add
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" autoplay loop muted playsinline>
-        <source src="https://wala.s-ul.eu/Z5d22ikP.mp4" type="video/mp4" preload="none">
+        <source src="https://wala.s-ul.eu/ocU72WOl.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
