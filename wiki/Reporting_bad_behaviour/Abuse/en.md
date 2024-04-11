@@ -28,7 +28,7 @@ If you feel the remarks/advances were highly inappropriate or you are an underag
 
 ### In a public post on the osu! forums
 
-[Report the post](/wiki/en/Reporting_bad_behaviour#forum) to our [Global Moderation Team](/wiki/People/Global_Moderation_Team) as soon as possible.
+[Report the post](/wiki/Reporting_bad_behaviour#forum) to our [Global Moderation Team](/wiki/People/Global_Moderation_Team) as soon as possible.
 
 To do so, click the `Report post` button in the top right corner of the forum post.
 
