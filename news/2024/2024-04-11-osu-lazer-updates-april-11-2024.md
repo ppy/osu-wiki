@@ -34,7 +34,7 @@ New icons have been added to the hit error meter, with a hare and tortoise repla
 
 ![](/wiki/shared/news/2024-04-11-osulazer-updates-april-11-2024/comparison-hit-error-bar.jpg)
 
-If your play was made on an unranked map or mod combination, the results screen will have the performancd point value greyed out. However, the values are still visible and accurate for all of those who love putting "pp if ranked" on their Reddit score posts.
+If your play was made on an unranked map or mod combination, the results screen will have the performance point value greyed out. However, the values are still visible and accurate for all of those who love putting "pp if ranked" on their Reddit score posts.
 
 ![](/wiki/shared/news/2024-04-11-osulazer-updates-april-11-2024/comparison-unranked-pp.jpg)
 
