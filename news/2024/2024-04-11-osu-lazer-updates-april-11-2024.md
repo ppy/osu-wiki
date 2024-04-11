@@ -62,7 +62,7 @@ It's now possible to invite your friends on Discord and have them join your mult
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="https://wala.s-ul.eu/VY96UrwZ.mp4" type="video/mp4" preload="none">
+        <source src="https://wala.s-ul.eu/n6KBLNbN.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
