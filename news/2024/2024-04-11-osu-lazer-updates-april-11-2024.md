@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "osu!(lazer) Updates: March 11, 2024"
+title: "osu!(lazer) Updates: April 11, 2024"
 date: 2024-04-11 19:00:00 +0000
 ---
 
 WARNING: Opening this news post will expose you to severe levels of laser radiation, which may lead to increased consumption of awesome osu!(lazer) updates.
 
-![](/wiki/shared/news/2024-03-11-osu-lazer-updates-march-11/banner.jpg)
+![](/wiki/shared/news/2024-04-11-osulazer-updates-april-11-2024/banner.jpg)
 
 A new month brings yet another round of updates, which you can consume in both text form by reading on, or watching the video digest!
 
@@ -18,30 +18,33 @@ A new month brings yet another round of updates, which you can consume in both t
 
 - **Delayed resume after pausing has been added for osu!taiko, osu!catch & osu!mania.** This now means you have a couple of seconds to prepare yourself before the map resumes after a pause.
 - **You can no longer fail in osu!catch during a banana shower.** The catch community can finally indulge in banana showers in peace.
-- **Misses are now displayed on the hit accuracy heatmap.** This means that you can finally confirm once and for all whether the top left side of the playfield really is impossible to hit.
 - **The rotate tool button now works even if only 1 circle is selected.** A small, but welcome change for the mapping community.
 
 ### Various visual changes
 
+Misses are now displayed on the hit accuracy heatmap. This means you can finally check whether the aim patterns were too large for you, or whether you should be slowing down a notch...
+
+![](/wiki/shared/news/2024-04-11-osulazer-updates-april-11-2024/comparison-accuracy-heatmap.jpg)
+
 The disclaimers relating to map status (such as loved or qualified) have been added into osu!(lazer), and also received a couple of design passes along with the already present flashing imagery disclaimer in order to make sure you can't miss it.
 
-![]()
+![](/wiki/shared/news/2024-04-11-osulazer-updates-april-11-2024/comparison-beatmap-notices.jpg)
 
-New icons have been added to the hit error meter, with a hare and tortoise replacing the truck and bicycle representing whether hits were being late or early.
+New icons have been added to the hit error meter, with a hare and tortoise replacing the truck and bicycle representing whether hits were being early or late.
 
-![]()
+![](/wiki/shared/news/2024-04-11-osulazer-updates-april-11-2024/comparison-hit-error-bar.jpg)
 
-If your play was made on an unranked map, the results screen will have the pp value greyed out, however the values are still visible and accurate for all of those who love putting "pp if ranked" on their Reddit score posts.
+If your play was made on an unranked map or mod combination, the results screen will have the performancd point value greyed out. However, the values are still visible and accurate for all of those who love putting "pp if ranked" on their Reddit score posts.
 
-![]()
+![](/wiki/shared/news/2024-04-11-osulazer-updates-april-11-2024/comparison-unranked-pp.jpg)
 
-For some odd reason pippidon has been shrunk in osu!(lazer), the devs decided to put an end to this and restore them to their previous full-sized glory.
+For some odd reason pippidon has been shrunk in osu!(lazer), so the devs decided to put an end to this and restore her to her previous full-sized glory.
 
-![]()
+![](/wiki/shared/news/2024-04-11-osulazer-updates-april-11-2024/comparison-pippidon.jpg)
 
-Catmull sliders were not getting properly rendered, leading to a phenomenon where the sliders had "bulbs" visible, or perhaps more commonly known in the mapping community as "tumours". We are happy to say that catmull sliders are now cancer-free.
+Catmull sliders (which appear on very old maps) were not getting properly rendered, leading to a phenomenon where some sliders had "bulbs" visible, perhaps more commonly known in the mapping community as "tumours". We are happy to say that catmull sliders are now cancer-free.
 
-![]()
+![](/wiki/shared/news/2024-04-11-osulazer-updates-april-11-2024/comparison-catmull.jpg)
 
 ### Main menu banner rotation
 
