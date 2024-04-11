@@ -26,21 +26,31 @@ Misses are now displayed on the hit accuracy heatmap. This means you can finally
 
 ![](/wiki/shared/news/2024-04-11-osulazer-updates-april-11-2024/comparison-accuracy-heatmap.jpg)
 
+---
+
 The disclaimers relating to map status (such as loved or qualified) have been added into osu!(lazer), and also received a couple of design passes along with the already present flashing imagery disclaimer in order to make sure you can't miss it.
 
 ![](/wiki/shared/news/2024-04-11-osulazer-updates-april-11-2024/comparison-beatmap-notices.jpg)
+
+---
 
 New icons have been added to the hit error meter, with a hare and tortoise replacing the truck and bicycle representing whether hits were being early or late.
 
 ![](/wiki/shared/news/2024-04-11-osulazer-updates-april-11-2024/comparison-hit-error-bar.jpg)
 
+---
+
 If your play was made on an unranked map or mod combination, the results screen will have the performance point value greyed out. However, the values are still visible and accurate for all of those who love putting "pp if ranked" on their Reddit score posts.
 
 ![](/wiki/shared/news/2024-04-11-osulazer-updates-april-11-2024/comparison-unranked-pp.jpg)
 
+---
+
 For some odd reason pippidon has been shrunk in osu!(lazer), so the devs decided to put an end to this and restore her to her previous full-sized glory.
 
 ![](/wiki/shared/news/2024-04-11-osulazer-updates-april-11-2024/comparison-pippidon.jpg)
+
+---
 
 Catmull sliders (which appear on very old maps) were not getting properly rendered, leading to a phenomenon where some sliders had "bulbs" visible, perhaps more commonly known in the mapping community as "tumours". We are happy to say that catmull sliders are now cancer-free.
 
