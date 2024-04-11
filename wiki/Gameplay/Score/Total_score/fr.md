@@ -1,5 +1,6 @@
 ---
-outdated: true
+outdated_translation: true
+outdated_since: 3ffaca2ec4ce152fd0ec1f4d7f2dd8fdb99a2d8f
 ---
 
 # Score total
