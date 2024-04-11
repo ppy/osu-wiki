@@ -40,7 +40,7 @@ Of course how could a mappool showcase ever go without showcasing the lovely osu
     </audio>
 </div>
 
-[![](/wiki/shared/news/2024-04-10-osutaiko-world-cup-2024-quarterfinals-recap/Viatores_Nebulae.jpg)](https://osu.ppy.sh/beatmapsets/2159337#taiko/4552827)
+[![](/wiki/shared/news/2024-04-10-osutaiko-world-cup-2024-quarterfinals-recap/Viatores_Nebulae.jpg?1)](https://osu.ppy.sh/beatmapsets/2159337#taiko/4552827)
 
 <div class="osu-md__paragraph">
     <audio controls>
