@@ -51,7 +51,7 @@ Catmull sliders (which appear on very old maps) were not getting properly render
 The main menu sometimes shows a graphic for ongoing events. Support has been added to rotate between multiple of these, in case many events are happening simultaneously.
 
 <div align="center" class="osu-md__paragraph">
-    <video width="95%" autoplay loop muted playsinline>
+    <video width="100%" autoplay loop muted playsinline>
         <source src="https://wala.s-ul.eu/ocU72WOl.mp4" type="video/mp4" preload="none">
     </video>
 </div>
