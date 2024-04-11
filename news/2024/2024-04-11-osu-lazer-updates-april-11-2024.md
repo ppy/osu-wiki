@@ -22,7 +22,7 @@ A new month brings yet another round of updates, which you can consume in both t
 
 ### Various visual changes
 
-Misses are now displayed on the hit accuracy heatmap. This means you can finally check whether the aim patterns were too large for you, or whether you should be slowing down a notch...
+Misses are now displayed on the hit accuracy heatmap. This means that you can finally confirm once and for all whether the top-left side of the playfield really is impossible to hit.
 
 ![](/wiki/shared/news/2024-04-11-osulazer-updates-april-11-2024/comparison-accuracy-heatmap.jpg)
 
