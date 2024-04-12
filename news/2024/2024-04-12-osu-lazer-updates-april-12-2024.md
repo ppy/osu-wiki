@@ -19,6 +19,8 @@ A new month brings yet another round of updates, which you can consume in both t
 - **There's now a countdown when unpausing in osu!taiko, osu!catch and osu!mania.** A moment to prepare, instead of throwing you into the fray too quickly.
 - **You can no longer fail in osu!catch during a banana shower.** The catch community can finally indulge in banana showers in peace.
 - **The rotate tool button now works even if only 1 circle is selected.** A small, but welcome change for the mapping community.
+- **Support for searching by multiple beatmap statuses in song select.** This means you can type `status=loved,ranked` to get both Loved and Ranked maps. See [this wiki article](/wiki/Beatmap_search) for a list of all search filters.
+- **Editor performance increases.** Thank you [EVAST](https://osu.ppy.sh/users/8195163)!
 
 ### Various visual changes
 
@@ -58,7 +60,7 @@ Catmull sliders (which appear on very old maps) were not getting properly render
 
 ### Main menu banner rotation
 
-The main menu sometimes shows a graphic for ongoing events. Support has been added to rotate between multiple of these, in case many events are happening simultaneously.
+The main menu sometimes shows a graphic for ongoing events. Support has been added (in both clients) to rotate between multiple of these, in case many events are happening simultaneously.
 
 <div align="center" class="osu-md__paragraph">
     <video width="100%" autoplay loop muted playsinline>
@@ -82,7 +84,7 @@ A few new experimental "deferred" renderers have been added to the game:
 
 ![List of experimental renderers](/wiki/shared/news/2024-04-12-osulazer-updates-april-12-2024/deferred-renderers.png)
 
-If you've been experiencing graphical or performance issues (or even if you haven't), try the new renderers out and see [this GitHub thread](https://github.com/ppy/osu/discussions/27659), where you'll find a few questions in order to find out whether these new renderers fix any issues.
+If you've been experiencing graphical or performance issues (or even if you haven't), try the new renderers out and see [this GitHub thread](https://github.com/ppy/osu/discussions/27659), where you'll find a few questions in order to find out whether they fix any issues.
 
 You probably shouldn't be expecting any FPS gains, but the new renderers may behave more reliably for some people.
 
@@ -94,7 +96,7 @@ In case you like technical details, [smoogipoo](https://osu.ppy.sh/users/1040328
 
 ![](/wiki/shared/news/2024-04-12-osulazer-updates-april-12-2024/new-cookie.png)
 
-Designed by [flyte](https://osu.ppy.sh/users/3103765), this iteration of the logo was intended to refresh and modernise. The main change is the (slightly modified) use of the "Torus" font,which is nowadays used everywhere in osu! designs, instead of osu!(stable)'s "Aller".
+Designed by [flyte](https://osu.ppy.sh/users/3103765), this iteration of the logo was intended to refresh and modernise. The main change is the (slightly modified) use of the "Torus" font, which is nowadays used everywhere in osu! designs, instead of osu!(stable)'s "Aller".
 
 However, after [widespread](https://twitter.com/ppy/status/1762766657855041571) [critique](https://www.youtube.com/watch?v=u-_7pfa_bPw), [the community has spoken](https://osu.ppy.sh/users/3103765):
 
