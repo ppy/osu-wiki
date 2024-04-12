@@ -76,6 +76,51 @@ It's now possible to invite your friends on Discord and have them join your mult
     </video>
 </div>
 
+### New experimental renderers
+
+A few new experimental "deferred" renderers have been added to the game:
+
+![List of experimental renderers](/wiki/shared/news/2024-04-12-osulazer-updates-april-12-2024/deferred-renderers.png)
+
+If you've been experiencing graphical or performance issues (or even if you haven't), try the new renderers out and see [this GitHub thread](https://github.com/ppy/osu/discussions/27659), where you'll find a few questions in order to find out whether these new renderers fix any issues.
+
+You probably shouldn't be expecting any FPS gains, but the new renderers may behave more reliably for some people.
+
+In case you like technical details, [smoogipoo](https://osu.ppy.sh/users/1040328) (the developer who implemented the change) has written an excellent [blog post](https://smgi.me/blog/post/deferred-renderer/) covering everything that went into this and how it all works.
+
+### The osu! cookie: dot or no dot?
+
+[Back in January](https://osu.ppy.sh/home/news/2024-01-30-osulazer-updates-performance-points-now-live), the world saw a redesigned logo for the osu!(lazer) client:
+
+![](/wiki/shared/news/2024-04-12-osulazer-updates-april-12-2024/new-cookie.png)
+
+Designed by [flyte](https://osu.ppy.sh/users/3103765), this iteration of the logo was intended to refresh and modernise. The main change is the (slightly modified) use of the "Torus" font,which is nowadays used everywhere in osu! designs, instead of osu!(stable)'s "Aller".
+
+However, after [widespread](https://twitter.com/ppy/status/1762766657855041571) [critique](https://www.youtube.com/watch?v=u-_7pfa_bPw), [the community has spoken](https://osu.ppy.sh/users/3103765):
+
+![](/wiki/shared/news/2024-04-12-osulazer-updates-april-12-2024/cookie-poll.png)
+
+Any way you look at the numbers, the infamous "dot" will have to go.
+
+(But not in this update.)
+
+((After more design iteration.))
+
+### The next step for osu!(lazer)
+
+After [performance points went live for osu!(lazer)](https://osu.ppy.sh/home/news/2024-01-30-osulazer-updates-performance-points-now-live)... the developers have been busy dealing with the aftermath. However, beyond that, **the future is largely undecided**.
+
+In fact, this is where the devs have decided to **let the community decide what to focus on next**.
+
+This could be any big great idea that will drive more engagement within the osu! community. There's already a [list of future tasks](https://github.com/ppy/osu/issues/27686) written by the devs, but before taking those into polls, the aim is to see if there's something that was missed. Something the community would like to see with burning passion.
+
+Whether that is a more innovative and functional editor, pp for rate adjustment mods, an overhaul to the level system, Elo/MMR matchmaking, or something else entirely, that is up to you.
+
+Here's the plan:
+
+1. Provide ideas in [this update's YouTube video comments](LINK). If you like someone else's idea, simply upvote it.
+2. The developers will take what's most popular and poll the community to decide the next step for osu!(lazer)
+
 ---
 
 You made it to the end! Well, considering that you have not perished yet, it's safe to say you could handle the latest and greatest that osu!(lazer) has to offer. If you want to test your limits, check out the [full changelog](LINK), or if you think you got what it takes to play with lasers, [download osu!(lazer)](https://osu.ppy.sh/home/download) and give it a try yourself.
