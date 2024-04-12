@@ -16,25 +16,25 @@ A new month brings yet another round of updates, which you can consume in both t
 
 ### Smaller changes
 
-- **Delayed resume after pausing has been added for osu!taiko, osu!catch & osu!mania.** This now means you have a couple of seconds to prepare yourself before the map resumes after a pause.
+- **There's now a countdown when unpausing in osu!taiko, osu!catch and osu!mania.** A moment to prepare, instead of throwing you into the fray too quickly.
 - **You can no longer fail in osu!catch during a banana shower.** The catch community can finally indulge in banana showers in peace.
 - **The rotate tool button now works even if only 1 circle is selected.** A small, but welcome change for the mapping community.
 
 ### Various visual changes
 
-Misses are now displayed on the hit accuracy heatmap. This means that you can finally confirm once and for all whether the top-left side of the playfield really is impossible to hit.
+Misses are now displayed on the hit accuracy heatmap. This means that you can finally confirm once and for all whether the top-left corner of the playfield really is impossible to hit.
 
 ![](/wiki/shared/news/2024-04-12-osulazer-updates-april-12-2024/comparison-accuracy-heatmap.jpg)
 
 ---
 
-The disclaimers relating to map status (such as loved or qualified) have been added into osu!(lazer), and also received a couple of design passes along with the already present flashing imagery disclaimer in order to make sure you can't miss it.
+The disclaimers relating to map status (such as Loved or Qualified) have been ported over from osu!(stable). They also received a quick design pass to allow them to be displayed simultaneously with the epilepsy warning, or potentially other types of notices in the future.
 
 ![](/wiki/shared/news/2024-04-12-osulazer-updates-april-12-2024/comparison-beatmap-notices.jpg)
 
 ---
 
-New icons have been added to the hit error meter, with a hare and tortoise replacing the truck and bicycle representing whether hits were being early or late.
+New icons have been added to the hit error metre, with a hare and tortoise replacing the truck and bicycle representing whether hits are early or late.
 
 ![](/wiki/shared/news/2024-04-12-osulazer-updates-april-12-2024/comparison-hit-error-bar.jpg)
 
@@ -52,7 +52,7 @@ For some odd reason pippidon has been shrunk in osu!(lazer), so the devs decided
 
 ---
 
-Catmull sliders (which appear on very old maps) were not getting properly rendered, leading to a phenomenon where some sliders had "bulbs" visible, perhaps more commonly known in the mapping community as "tumours". We are happy to say that catmull sliders are now cancer-free.
+Catmull sliders (which appear on very old maps) were not getting properly rendered. The discrepancy lead to a phenomenon where some sliders had a mild case of showing "bulbs" or, as they're perhaps more commonly known in the mapping community as, "tumours". We are happy to say that catmull sliders are now cancer-free.
 
 ![](/wiki/shared/news/2024-04-12-osulazer-updates-april-12-2024/comparison-catmull.jpg)
 
