@@ -212,8 +212,11 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=RddTW14dQQg "YouTube") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=7_7&query=%22Yakou%22 "Featured Artist listing") | 7\_7 feat. kasane vavzed - Yakou | [#1](https://osu.ppy.sh/beatmapsets/2159335) | Quarterfinals HR2 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/cansol/train-of-thought-master "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=F8vn1K5o2Eo "YouTube") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Cansol&query=%22Train%20of%20Thought%22 "Featured Artist listing") | Cansol - Train of Thought | [#1](https://osu.ppy.sh/beatmapsets/2155531) | Round of 16 tiebreaker |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=lxHRlQN7oOk "YouTube") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Hamu&query=%22Sunao%20ni%20Naritai%20%28osu%21%20Edit%20Ver.%29%22 "Featured Artist listing") | Hamu feat. Natsuki Karin - Sunao ni Naritai (osu! Edit Ver.) | [#1](https://osu.ppy.sh/beatmapsets/2152060) | Round of 32 HD1 |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=oDnzKr31LmM "YouTube") |  | lemm - Algorithm 54 | [#1](https://osu.ppy.sh/beatmapsets/2163075) | Semifinals NM1 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/part-lerts/osu-taiko-world-cup-2024-aqua-vitae-feat-kagamine-rin-kagamine-len "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=yqt0V-_bkM0 "YouTube") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=ptar124&query=%22aqua%20vitae%20feat.%20Kagamine%20Rin%20%26%20Kagamine%20Len%22 "Featured Artist listing") | ptar124 - aqua vitae feat. Kagamine Rin & Kagamine Len | [#1](https://osu.ppy.sh/beatmapsets/2155621) | Round of 16 NM1 |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=rW9wue2WBnc "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://sparxe.bandcamp.com/track/switcheroo "Bandcamp") |  | Sparxe - Switcheroo[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2163116) | Semifinals FM1 |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=wjnAKsAB1fQ "YouTube") |  | Tedjimo yomigY - Usuva Kagerow[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2155520) | Round of 16 HR1 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/tektheism/pomegranate-osu-taiko-world-cup-semifinal-tiebreaker "SoundCloud") |  | Tektheist - Pomegranate | [#1](https://osu.ppy.sh/beatmapsets/2163122) | Semifinals tiebreaker |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=u6IAK7EwUk8 "YouTube") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=ptar124&query=%22Ad%20infinitum%20%7Eein%20sof%7E%22 "Featured Artist listing") | Viatores Nebulae (ptar124 & SiLiS) - Ad infinitum \~ein sof\~ | [#1](https://osu.ppy.sh/beatmapsets/2159337) | Quarterfinals tiebreaker |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/yuunimoosic/frozenblood "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=8EJP0j_Jvs8 "YouTube") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Yuuni&query=%22Frozen%20Blood%22 "Featured Artist listing") | Yuuni - Frozen Blood | [#1](https://osu.ppy.sh/beatmapsets/2152052) | Round of 32 tiebreaker |
 
@@ -304,6 +307,12 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | Links | FA | Song | Beatmap | Notes |
 | --: | :-: | :-- | :-: | :-- |
 |  |  | Sydosys - MALEVOLENT VORTEX[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1968202) | Grand Finals tiebreaker |
+
+#### ![](/wiki/shared/mode/osu.png) 5 Digit World Cup 2024
+
+| Links | FA | Song | Beatmap | Notes |
+| --: | :-: | :-- | :-: | :-- |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/krimek/cybernetic-reverie "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=HFBm5X7Cn3s "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/543k8xT0NZZiRFtHHtlEgp "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://krimek.bandcamp.com/track/cybernetic-reverie "Bandcamp") |  | Krimek - Cybernetic Reverie[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2159836) | Semifinals HD3 |
 
 #### ![](/wiki/shared/mode/osu.png) 6 Digit Italian Cup
 
@@ -856,6 +865,15 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | --: | :-: | :-- | :-: | :-- |
 |  |  | 004 - Monumental Crash | [#1](https://osu.ppy.sh/beatmapsets/2048282) | Semifinals HD1 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/kanemiko/comet-casting-capsule-long-version "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=kv3fhj4bA9g "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/4UQdw2EFnu4YwQYgogMgyC "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://kanemiko.bandcamp.com/track/comet-casting-capsule-catching-celestial-clusters-long-version "Bandcamp") |  | kanemiko - comet casting capsule ("catching celestial clusters" Long Version)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2055747) | Grand Finals tiebreaker |
+
+#### ![](/wiki/shared/mode/catch.png) 4 Digit Player Tournament 6
+
+| Links | FA | Song | Beatmap | Notes |
+| --: | :-: | :-- | :-: | :-- |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/naikou_i_guess/naikou-molecular-gastronomy4dpt-gf-nm2 "SoundCloud") |  | Naikou - Molecular Gastronomy | [#1](https://osu.ppy.sh/beatmapsets/2164002) | Grand Finals NM2 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/toneix/foolish_ambition "SoundCloud") |  | Scutoid x Toneix - Foolish Ambition | [#1](https://osu.ppy.sh/beatmapsets/2164046) | Grand Finals tiebreaker |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/shakersnail/shakersnail-falling-petals-from-4dpt6-final-nm2 "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=SsfaThLOEvs "YouTube") |  | ShakerSnail - Falling Petals | [#1](https://osu.ppy.sh/beatmapsets/2160420) | Finals NM2 |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=1Nsu0FK1uIY "YouTube") |  | THE BEAT WIZARD - Cafe no Game Over | [#1](https://osu.ppy.sh/beatmapsets/2160333) | Finals NM1 |
 
 #### ![](/wiki/shared/mode/catch.png) 4 Digit United States Catch Cup 2024
 
