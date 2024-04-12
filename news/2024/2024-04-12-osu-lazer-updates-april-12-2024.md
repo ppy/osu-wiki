@@ -90,7 +90,7 @@ You probably shouldn't be expecting any FPS gains, but the new renderers may beh
 
 In case you like technical details, [smoogipoo](https://osu.ppy.sh/users/1040328) (the developer who implemented the change) has written an excellent [blog post](https://smgi.me/blog/post/deferred-renderer/) covering everything that went into this and how it all works.
 
-### The osu! cookie: dot or no dot?
+### The cookie question
 
 [Back in January](https://osu.ppy.sh/home/news/2024-01-30-osulazer-updates-performance-points-now-live), the world saw a redesigned logo for the osu!(lazer) client:
 
