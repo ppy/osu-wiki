@@ -111,30 +111,16 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253
 
 ## Match Schedule: Semifinals
 
-### Saturday, 13 April 2024
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| China ::{ flag=CN }:: | ::{ flag=FI }:: Finland | [Apr 13 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240413T120000&p1=1440&p2=33&p3=101) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Japan ::{ flag=JP }:: | ::{ flag=BR }:: Brazil | [Apr 13 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240413T140000&p1=1440&p2=248&p3=45) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Taiwan ::{ flag=TW }:: | ::{ flag=CA }:: Canada | [Apr 13 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240413T150000&p1=1440&p2=241&p3=188) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Chile ::{ flag=CL }:: | ::{ flag=FR }:: France | [Apr 13 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240413T170000&p1=1440&p2=232&p3=195) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-
 ### Sunday, 14 April 2024
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
 | United States ::{ flag=US }:: | ::{ flag=MY }:: Malaysia | [Apr 14 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240414T030000&p1=1440&p2=263&p3=122) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | United Kingdom ::{ flag=GB }:: | ::{ flag=KR }:: South Korea | [Apr 14 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240414T120000&p1=1440&p2=136&p3=235) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| China ::{ flag=CN }:: | ::{ flag=TW }:: Taiwan | [Apr 14 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240414T130000&p1=1440&p2=33&p3=241) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Finland ::{ flag=FI }:: | ::{ flag=TW }:: Taiwan | [Apr 14 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240414T140000&p1=1440&p2=101&p3=241) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| China ::{ flag=CN }:: | ::{ flag=TW }:: Taiwan | [Apr 14 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240414T133000&p1=1440&p2=33&p3=241) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Malaysia ::{ flag=MY }:: | ::{ flag=CL }:: Chile | [Apr 14 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240414T150000&p1=1440&p2=122&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Malaysia ::{ flag=MY }:: | ::{ flag=FR }:: France | [Apr 14 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240414T150000&p1=1440&p2=122&p3=195) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| China ::{ flag=CN }:: | ::{ flag=CA }:: Canada | [Apr 14 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240414T160000&p1=1440&p2=33&p3=188) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Finland ::{ flag=FI }:: | ::{ flag=CA }:: Canada | [Apr 14 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240414T160000&p1=1440&p2=101&p3=188) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | United States ::{ flag=US }:: | ::{ flag=CL }:: Chile | [Apr 14 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240414T180000&p1=1440&p2=263&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| United States ::{ flag=US }:: | ::{ flag=FR }:: France | [Apr 14 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240414T180000&p1=1440&p2=263&p3=195) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Finals | mappool showcase | [Apr 14 (Sun) 19:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20240414T190000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| Finals | mappool showcase | [Apr 14 (Sun) 19:00 UTC ](https://www.timeanddate.com/worldclock/converter.html?iso=20240414T190000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Mappools
 
@@ -263,6 +249,17 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253
   1. [Chroma - To the Milky Way (davidminh0111) \[Supernova\]](https://osu.ppy.sh/beatmapsets/2148483#taiko/4525822)
 
 ## Match results
+
+### Semifinals
+
+Saturday, 13 April 2024:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **China** ::{ flag=CN }:: | **6** | 0 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/113473898) | [#1](https://www.twitch.tv/videos/2118660381) |
+| **Japan** ::{ flag=JP }:: | **6** | 0 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/113475423) | [#1](https://www.twitch.tv/videos/2118756373) |
+| **Taiwan** ::{ flag=TW }:: | **6** | 0 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/113476197) | [#1](https://www.twitch.tv/videos/2118778200) |
+| **Chile** ::{ flag=CL }:: | **6** | 2 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/113478101) | [#1](https://www.twitch.tv/videos/2118876237) |
 
 ### Quarterfinals
 
