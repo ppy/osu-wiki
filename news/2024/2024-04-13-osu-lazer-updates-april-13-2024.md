@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "osu!(lazer) Updates: April 12, 2024"
-date: 2024-04-12 19:00:00 +0000
+title: "osu!(lazer) Updates: April 13, 2024"
+date: 2024-04-13 04:00:00 +0000
 ---
 
 WARNING: Opening this news post will expose you to severe levels of laser radiation, which may lead to increased consumption of awesome osu!(lazer) updates.
 
-![](/wiki/shared/news/2024-04-12-osulazer-updates-april-12-2024/banner.jpg)
+![](/wiki/shared/news/2024-04-13-osulazer-updates-april-13-2024/banner.jpg)
 
 A new month brings yet another round of updates, which you can consume in both text form by reading on, or watching the video digest!
 
@@ -26,37 +26,37 @@ A new month brings yet another round of updates, which you can consume in both t
 
 Misses are now displayed on the hit accuracy heatmap. This means that you can finally confirm once and for all whether the top-left corner of the playfield really is impossible to hit.
 
-![](/wiki/shared/news/2024-04-12-osulazer-updates-april-12-2024/comparison-accuracy-heatmap.jpg)
+![](/wiki/shared/news/2024-04-13-osulazer-updates-april-13-2024/comparison-accuracy-heatmap.jpg)
 
 ---
 
 The disclaimers relating to map status (such as Loved or Qualified) have been ported over from osu!(stable). They also received a quick design pass to allow them to be displayed simultaneously with the epilepsy warning, or potentially other types of notices in the future.
 
-![](/wiki/shared/news/2024-04-12-osulazer-updates-april-12-2024/comparison-beatmap-notices.jpg)
+![](/wiki/shared/news/2024-04-13-osulazer-updates-april-13-2024/comparison-beatmap-notices.jpg)
 
 ---
 
 New icons have been added to the hit error metre, with a hare and tortoise replacing the truck and bicycle representing whether hits are early or late.
 
-![](/wiki/shared/news/2024-04-12-osulazer-updates-april-12-2024/comparison-hit-error-bar.jpg)
+![](/wiki/shared/news/2024-04-13-osulazer-updates-april-13-2024/comparison-hit-error-bar.jpg)
 
 ---
 
 If your play was made on an unranked map or mod combination, the results screen will have the performance point value greyed out. However, the values are still visible and accurate for all of those who love putting "pp if ranked" on their Reddit score posts.
 
-![](/wiki/shared/news/2024-04-12-osulazer-updates-april-12-2024/comparison-unranked-pp.jpg)
+![](/wiki/shared/news/2024-04-13-osulazer-updates-april-13-2024/comparison-unranked-pp.jpg)
 
 ---
 
 For some odd reason pippidon has been shrunk in osu!(lazer), so the devs decided to put an end to this and restore her to her previous full-sized glory.
 
-![](/wiki/shared/news/2024-04-12-osulazer-updates-april-12-2024/comparison-pippidon.jpg)
+![](/wiki/shared/news/2024-04-13-osulazer-updates-april-13-2024/comparison-pippidon.jpg)
 
 ---
 
 Catmull sliders (which appear on very old maps) were not getting properly rendered. The discrepancy lead to a phenomenon where some sliders had a mild case of showing "bulbs" or, as they're perhaps more commonly known in the mapping community as, "tumours". We are happy to say that catmull sliders are now cancer-free.
 
-![](/wiki/shared/news/2024-04-12-osulazer-updates-april-12-2024/comparison-catmull.jpg)
+![](/wiki/shared/news/2024-04-13-osulazer-updates-april-13-2024/comparison-catmull.jpg)
 
 ### Main menu banner rotation
 
@@ -82,7 +82,7 @@ It's now possible to invite your friends on Discord and have them join your mult
 
 A few new experimental "deferred" renderers have been added to the game:
 
-![List of experimental renderers](/wiki/shared/news/2024-04-12-osulazer-updates-april-12-2024/deferred-renderers.png)
+![List of experimental renderers](/wiki/shared/news/2024-04-13-osulazer-updates-april-13-2024/deferred-renderers.png)
 
 If you've been experiencing graphical or performance issues (or even if you haven't), try the new renderers out and see [this GitHub thread](https://github.com/ppy/osu/discussions/27659), where you'll find a few questions in order to find out whether they fix any issues.
 
@@ -94,13 +94,13 @@ In case you like technical details, [smoogipoo](https://osu.ppy.sh/users/1040328
 
 [Back in January](https://osu.ppy.sh/home/news/2024-01-30-osulazer-updates-performance-points-now-live), the world saw a redesigned logo for the osu!(lazer) client:
 
-![](/wiki/shared/news/2024-04-12-osulazer-updates-april-12-2024/new-cookie.png)
+![](/wiki/shared/news/2024-04-13-osulazer-updates-april-13-2024/new-cookie.png)
 
 Designed by [flyte](https://osu.ppy.sh/users/3103765), this iteration of the logo was intended to refresh and modernise. The main change is the (slightly modified) use of the "Torus" font, which is nowadays used everywhere in osu! designs, instead of osu!(stable)'s "Aller".
 
 However, after [widespread](https://twitter.com/ppy/status/1762766657855041571) [critique](https://www.youtube.com/watch?v=u-_7pfa_bPw), [the community has spoken](https://osu.ppy.sh/community/forums/topics/1890232):
 
-![](/wiki/shared/news/2024-04-12-osulazer-updates-april-12-2024/cookie-poll.png)
+![](/wiki/shared/news/2024-04-13-osulazer-updates-april-13-2024/cookie-poll.png)
 
 Any way you look at the numbers, the infamous "dot" will have to go.
 
@@ -125,6 +125,6 @@ Here's the plan:
 
 ---
 
-You made it to the end! Well, considering that you have not perished yet, it's safe to say you could handle the latest and greatest that osu!(lazer) has to offer. If you want to test your limits, check out the [full changelog](LINK), or if you think you got what it takes to play with lasers, [download osu!(lazer)](https://osu.ppy.sh/home/download) and give it a try yourself.
+You made it to the end! Well, considering that you have not perished yet, it's safe to say you could handle the latest and greatest that osu!(lazer) has to offer. If you want to test your limits, check out the [full changelog](https://osu.ppy.sh/home/changelog/lazer/2024.413.0), or if you think you got what it takes to play with lasers, [download osu!(lazer)](https://osu.ppy.sh/home/download) and give it a try yourself.
 
 —Walavouchey & 0x84f
