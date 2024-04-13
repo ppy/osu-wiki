@@ -96,7 +96,7 @@ Up until now, all the regular medals, except performance ones, were implemented 
 
 How do you get them? Well, that's the fun part...
 
-![](/wiki/shared/news/2024-04-12-osulazer-updates-april-12-2024/hush-hush.png)
+![](/wiki/shared/news/2024-04-13-osulazer-updates-april-13-2024/hush-hush.png)
 
 ### The cookie question
 
