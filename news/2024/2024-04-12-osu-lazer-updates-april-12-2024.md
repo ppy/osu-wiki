@@ -98,7 +98,7 @@ In case you like technical details, [smoogipoo](https://osu.ppy.sh/users/1040328
 
 Designed by [flyte](https://osu.ppy.sh/users/3103765), this iteration of the logo was intended to refresh and modernise. The main change is the (slightly modified) use of the "Torus" font, which is nowadays used everywhere in osu! designs, instead of osu!(stable)'s "Aller".
 
-However, after [widespread](https://twitter.com/ppy/status/1762766657855041571) [critique](https://www.youtube.com/watch?v=u-_7pfa_bPw), [the community has spoken](https://osu.ppy.sh/users/3103765):
+However, after [widespread](https://twitter.com/ppy/status/1762766657855041571) [critique](https://www.youtube.com/watch?v=u-_7pfa_bPw), [the community has spoken](https://osu.ppy.sh/community/forums/topics/1890232):
 
 ![](/wiki/shared/news/2024-04-12-osulazer-updates-april-12-2024/cookie-poll.png)
 
