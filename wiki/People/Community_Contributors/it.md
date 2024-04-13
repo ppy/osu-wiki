@@ -238,7 +238,7 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Eccezionale e pionieristico contributo alla modalità di gioco osu!taiko |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Eccezionale leadership nel campo della gestione delle beatmap |
 | ::{ flag=US }:: [Cychloryn](https://osu.ppy.sh/users/6921736) | Eccezionale contributo alla scena del mapping attraverso lo sviluppo dell'utility ([osumod.com](https://osumod.com)) |
-| ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691) | Contributo eccezionale ai tornei offline e alla crescita della community in generale.
+| ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691) | Contributo eccezionale ai tornei offline e alla crescita della community in generale. |
 | ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | Eccezionale contributo alla scena dei tornei di osu! e alle World Cups |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) | Eccezionale contributo alla scena dei tornei di osu! e alle World Cups |
 | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | Eccezionale contributo alla community di osu!taiko e alla scena dei tornei |
