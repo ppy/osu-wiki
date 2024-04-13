@@ -23,9 +23,9 @@ Hay traducciones disponibles en diferentes idiomas para algunos artículos. Los 
 
 ## Modelo
 
-La osu! wiki se basa en el concepto de accesibilidad: se recomiendan las ediciones y traducciones, que cualquier persona capaz y con conocimientos puede realizar. Los datos de los artículos se almacenan en un [repositorio de GitHub](https://github.com/ppy/osu-wiki) y los contribuidores los actualizan mediante el [uso de solicitudes de cambios](/wiki/osu!_wiki/Contribution_guide), que luego son revisados ​​y fusionados por los [mantenedores de la wiki](/wiki/People/osu!_wiki_maintainers).
+La osu! wiki se basa en el concepto de accesibilidad: se recomiendan las ediciones y traducciones, que cualquier persona capaz y con conocimientos puede realizar. Los datos de los artículos se almacenan en un [repositorio de GitHub](https://github.com/ppy/osu-wiki) y los contribuidores los actualizan mediante el [uso de solicitudes de cambios](/wiki/osu!_wiki/Contribution_guide), que luego son revisadas ​​y fusionadas por los [mantenedores de la wiki](/wiki/People/osu!_wiki_maintainers).
 
-Los artículos están formateados usando un [formato Markdown adaptado a GitHub](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/). Además, el motor del sitio web implementa características personalizadas cruciales para la wiki en su conjunto, como redireccionamientos, portada o mejoras de formato.
+Los artículos están formateados usando un [Markdown personalizado por GitHub](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/). Además, el motor del sitio web implementa características personalizadas cruciales para la wiki en su conjunto, como redireccionamientos, portada o mejoras de formato.
 
 Los artículos están compuestos de acuerdo con los [criterios de estilo](/wiki/Article_styling_criteria) de la osu! wiki, lo que significa que están escritos en un lenguaje neutral y siguen reglas comunes de formato y diseño. Algunos artículos informativos sirven como una lista de preguntas frecuentes (FAQ) sobre el tema y usan un lenguaje informal. Las traducciones siguen el principio de paridad de contenido y cumplen con las mismas reglas de formato.
 
@@ -36,6 +36,6 @@ A pesar de tener el sufijo *wiki* en su nombre, la osu! wiki no satisface comple
 
 ## Licencia
 
-La mayor parte del contenido de la wiki osu! está bajo la licencia [CC-BY-NC 4.0](https://github.com/ppy/osu-wiki/blob/master/LICENCE.md). Esto significa que, en general, los materiales de la wiki se pueden utilizar de manera no comercial (consulta el [resumen rápido](https://creativecommons.org/licenses/by-nc/4.0/)). Algunos contenidos pueden estar cubiertos por diferentes licencias de terceros, que luego se citarán localmente y anularán la licencia global.
+La mayor parte del contenido de la wiki osu! está bajo la licencia [CC-BY-NC 4.0](https://github.com/ppy/osu-wiki/blob/master/LICENCE.md). Esto significa que, en general, los materiales de la wiki se pueden usar de manera no comercial (consulta el [resumen rápido](https://creativecommons.org/licenses/by-nc/4.0/)). Algunos contenidos pueden estar cubiertos por diferentes licencias de terceros, que luego se citarán localmente y anularán la licencia global.
 
-Ten en cuenta que esto no cubre el uso de «osu!» o marca «ppy» en cualquier software, recurso, publicidad o promoción, ya que está protegida por la ley de marcas. Si necesitas autorización para el uso de estos términos, [contáctenos](mailto:contact@ppy.sh).
+Ten en cuenta que esto no cubre el uso de «osu!» o marca «ppy» en cualquier software, recurso, publicidad o promoción, ya que está protegida por la ley de marcas. Si necesitas autorización para el uso de estos términos, [contáctanos](mailto:contact@ppy.sh).
