@@ -173,13 +173,13 @@ Anche le classifiche globali useranno il sistema di punteggio classico.
 
 #### Se imposto un punteggio su lazer, rimarrà per sempre?
 
-Anche se cercheremo di preservare il maggior numero possibile di punteggi, **non garantiamo che i punteggi rimarranno a tempo indeterminato**. In qualsiasi momento potremmo decidere di cancellare un sottoinsieme di  punteggi per preservare l'equilibrio del gioco, come quando vengono scoperti exploit o comportamenti scorretti.
+Anche se cercheremo di preservare il maggior numero possibile di punteggi, **non garantiamo che i punteggi rimarranno a tempo indeterminato**. In qualsiasi momento potremmo decidere di cancellare un sottoinsieme di punteggi per preservare l'equilibrio del gioco, come quando vengono scoperti exploit o comportamenti scorretti.
 
 #### I punteggi impostati su stable saranno visualizzati in lazer?
 
 Sì.
 
-#### I punteggi impostati in lazer saranno visualizzati in stable?
+#### I punteggi fatti su lazer sono visibili su stable?
 
 Non al momento.
 
@@ -187,7 +187,7 @@ Non al momento.
 
 I punteggi di tutte le combinazioni di mod verranno mostrate nelle classifiche.
 
-Però, solo le seguenti mod daranno punti performance per ora:
+Però, solo le seguenti mod garantiscono punti performance per ora:
 
 - Riduzione Difficoltà
   - Easy
@@ -204,7 +204,7 @@ Però, solo le seguenti mod daranno punti performance per ora:
   - Flashlight
   - Blinds
   - Accuracy Challenge
-- Conversione (osu!mania only)
+- Conversione (solo osu!mania)
   - Mirror
   - Four Keys
   - Five Keys
@@ -215,7 +215,7 @@ Però, solo le seguenti mod daranno punti performance per ora:
 - Divertimento
   - Muted
   - No Scope
-- Automazione (osu! only)
+- Automazione (solo osu!)
   - Spun out
 - Sistema
   - Touch Device
