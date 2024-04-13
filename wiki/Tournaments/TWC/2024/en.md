@@ -120,7 +120,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253
 | China ::{ flag=CN }:: | ::{ flag=TW }:: Taiwan | [Apr 14 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240414T133000&p1=1440&p2=33&p3=241) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Malaysia ::{ flag=MY }:: | ::{ flag=CL }:: Chile | [Apr 14 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240414T150000&p1=1440&p2=122&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | United States ::{ flag=US }:: | ::{ flag=CL }:: Chile | [Apr 14 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240414T180000&p1=1440&p2=263&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Finals | mappool showcase | [Apr 14 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240414T190000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| Finals | mappool showcase | [Apr 14 (Sun) 19:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20240414T190000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Mappools
 
