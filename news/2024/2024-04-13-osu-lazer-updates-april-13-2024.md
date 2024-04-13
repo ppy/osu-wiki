@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!(lazer) Updates: April 13, 2024"
-date: 2024-04-13 04:00:00 +0000
+date: 2024-04-13 03:00:00 +0000
 ---
 
 WARNING: Opening this news post will expose you to severe levels of laser radiation, which may lead to increased consumption of awesome osu!(lazer) updates.
@@ -11,7 +11,7 @@ WARNING: Opening this news post will expose you to severe levels of laser radiat
 A new month brings yet another round of updates, which you can consume in both text form by reading on, or watching the video digest!
 
 <div align="center">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/baD6u8QGYN8" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/xUSxEjQQ1UI" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ### Smaller changes
@@ -64,7 +64,7 @@ The main menu sometimes shows a graphic for ongoing events. Support has been add
 
 <div align="center" class="osu-md__paragraph">
     <video width="100%" autoplay loop muted playsinline>
-        <source src="https://wala.s-ul.eu/ocU72WOl.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/2024-04-13-menu-banner-rotation.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -74,7 +74,7 @@ It's now possible to invite your friends on Discord and have them join your mult
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="https://wala.s-ul.eu/n6KBLNbN.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/2024-04-13-discord-invites.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -90,6 +90,14 @@ You probably shouldn't be expecting any FPS gains, but the new renderers may beh
 
 In case you like technical details, [smoogipoo](https://osu.ppy.sh/users/1040328) (the developer who implemented the change) has written an excellent [blog post](https://smgi.me/blog/post/deferred-renderer/) covering everything that went into this and how it all works.
 
+### Some Hush-Hush medals are available
+
+Up until now, all the regular medals, except performance ones, were implemented in osu!(lazer). This time, a batch of five existing Hush-Hush medals are now also up for grabs, with more coming soon.
+
+How do you get them? Well, that's the fun part...
+
+![](/wiki/shared/news/2024-04-12-osulazer-updates-april-12-2024/hush-hush.png)
+
 ### The cookie question
 
 [Back in January](https://osu.ppy.sh/home/news/2024-01-30-osulazer-updates-performance-points-now-live), the world saw a redesigned logo for the osu!(lazer) client:
@@ -98,7 +106,7 @@ In case you like technical details, [smoogipoo](https://osu.ppy.sh/users/1040328
 
 Designed by [flyte](https://osu.ppy.sh/users/3103765), this iteration of the logo was intended to refresh and modernise. The main change is the (slightly modified) use of the "Torus" font, which is nowadays used everywhere in osu! designs, instead of osu!(stable)'s "Aller".
 
-However, after [widespread](https://twitter.com/ppy/status/1762766657855041571) [critique](https://www.youtube.com/watch?v=u-_7pfa_bPw), [the community has spoken](https://osu.ppy.sh/community/forums/topics/1890232):
+However, after [widespread](https://twitter.com/ppy/status/1762766657855041571) [critique](https://www.youtube.com/watch?v=xUSxEjQQ1UI), [the community has spoken](https://osu.ppy.sh/community/forums/topics/1890232):
 
 ![](/wiki/shared/news/2024-04-13-osulazer-updates-april-13-2024/cookie-poll.png)
 
@@ -120,11 +128,11 @@ Whether that is a more innovative and functional editor, pp for rate adjustment 
 
 Here's the plan:
 
-1. Provide ideas in [this update's YouTube video comments](LINK). If you like someone else's idea, simply upvote it.
+1. Provide ideas in [this update's YouTube video comments](https://www.youtube.com/watch?v=xUSxEjQQ1UI). If you like someone else's idea, simply upvote it.
 2. The developers will take what's most popular and poll the community to decide the next step for osu!(lazer)
 
 ---
 
-You made it to the end! Well, considering that you have not perished yet, it's safe to say you could handle the latest and greatest that osu!(lazer) has to offer. If you want to test your limits, check out the [full changelog](https://osu.ppy.sh/home/changelog/lazer/2024.413.0), or if you think you got what it takes to play with lasers, [download osu!(lazer)](https://osu.ppy.sh/home/download) and give it a try yourself.
+You made it to the end! Well, considering that you have not perished yet, it's safe to say you could handle the latest and greatest that osu!(lazer) has to offer. If you want to test your limits, check out the [full changelog](https://osu.ppy.sh/home/changelog/lazer/2024.412.0), or if you think you got what it takes to play with lasers, [download osu!(lazer)](https://osu.ppy.sh/home/download) and give it a try yourself.
 
 —Walavouchey & 0x84f
