@@ -20,7 +20,7 @@ A new month brings yet another round of updates, which you can consume in both t
 - **You can no longer fail in osu!catch during a banana shower.** The catch community can finally indulge in banana showers in peace.
 - **The rotate tool button now works even if only 1 circle is selected.** A small, but welcome change for the mapping community.
 - **Support for searching by multiple beatmap statuses in song select.** This means you can type `status=loved,ranked` to get both Loved and Ranked maps. See [this wiki article](/wiki/Beatmap_search) for a list of all search filters.
-- **Editor performance increases.** Thank you [EVAST](https://osu.ppy.sh/users/8195163)!
+- **Editor performance improvements.** Thank you [EVAST](https://osu.ppy.sh/users/8195163)!
 
 ### Various visual changes
 
