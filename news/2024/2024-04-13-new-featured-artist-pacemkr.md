@@ -8,7 +8,7 @@ date: 2024-03-23 21:30:00 +0000
 
 ![](https://assets.ppy.sh/artists/414/header.jpg)
 
-More specifically inspired by horror films they watched growing up, **PaceMKR**'s grimey melodies combined with eardrum-shattering bass leads to a one-of-a-kind sinister style (which is, of course, now part of [osu!'s library](https://osu.ppy.sh/beatmaps/artists)).
+More specifically inspired by horror films they watched growing up, **PaceMKR**'s grimey melodies, combined with eardrum-shattering bass, leads to a one-of-a-kind sinister style (which is, of course, now part of [osu!'s library](https://osu.ppy.sh/beatmaps/artists)).
 
 Take hold of **8** tracks, conveniently pre-timed and available as beatmap templates on [**PaceMKR**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/414)!
 
@@ -42,7 +42,7 @@ Try [the map from the video above](https://osu.ppy.sh/beatmapsets/2051128) hoste
 
 ---
 
-[**PaceMKR**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/414) has more tunes to
+[**PaceMKR**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/414) has more tunes to headbang to (while placing circles).
 
 Another Featured Artist is on pace for being revealed next week — this time with a special osu!taiko touch.
 
