@@ -107,9 +107,9 @@
 | Name | Description |
 | :-- | :-- |
 | Time Signature | Select the [time signature](/wiki/Music_theory/Time_signature) for the current timing point, between 4/4 (common) or 3/4 (waltz). For other time signatures, use the [`Timing Setup`](/wiki/Client/Beatmap_editor/Timing) window. |
-| Metronome Clicks | Toggle ticking sounds of the [metronome](/wiki/Client/Beatmap_editor/Timing#metronome) on the `Timing` tab. |
-| Add Timing Section (`Ctrl` + `P`) | Add a new [uninherited (red) timing section](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point). |
-| Add Inheriting Section (`Ctrl` + `Shift` + `P`) | Add a new [inherited (green) timing section](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point). |
+| Metronome Clicks | Toggle ticking sounds of the [metronome](/wiki/Client/Beatmap_editor/Timing#метроном) on the `Timing` tab. |
+| Add Timing Section (`Ctrl` + `P`) | Add a new [uninherited (red) timing section](/wiki/Client/Beatmap_editor/Timing#красные-тайминг-секции). |
+| Add Inheriting Section (`Ctrl` + `Shift` + `P`) | Add a new [inherited (green) timing section](/wiki/Client/Beatmap_editor/Timing#зелёные-тайминг-секции). |
 | Reset Current Section | Reset the [BPM](/wiki/Music_theory/Tempo) and [offset](/wiki/Offset) of the current uninherited timing section for [retiming](/wiki/Beatmapping/Timing). Saving the difficulty will delete these sections if unmodified. |
 | Delete Timing Section (`Ctrl` + `I`) | Delete the current timing section (both inherited and uninherited). |
 | Resnap Current Section | [Resnap](/wiki/Beatmapping/Snapping) all hit objects in the current section according to the active beat snap divisor. |
