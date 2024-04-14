@@ -133,17 +133,17 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253
 
 ### Finals
 
-**[Download the mappack here (168 MB)](https://leoflt.com/s/awqd)**\
+**[Download the mappack here (168 MB)](https://packs.ppy.sh/P244%20-%20osu!taiko%20World%20Cup%202024%3A%20Finals.zip)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2119951003)
 
 - No Mod
   1. [SatapanP ft. Hatsune Miku - Bagooon!!!!! (Skidooskei) \[NO MISS!!!!! (TWC EDIT!!!!!)\]](https://osu.ppy.sh/beatmapsets/2112567#taiko/4570747)
   2. [Mylta - KEY (Cut Ver.) (ekumea1123) \[Crypto\]](https://osu.ppy.sh/beatmapsets/2078471#taiko/4352127)
   3. [kessoku band - Seishun Complex (Kirairi Bootleg) (Seren58) \[Quartet\]](https://osu.ppy.sh/beatmapsets/1901991#taiko/3921191)
-  4. [Ruby My Dear - Ecureuil (SolaEclipse) \[Don't blink\] *(temporary link)*](http://files.leoflt.com/HLeXTG6K)
+  4. [Ruby My Dear - Ecureuil (SolaEclipse) \[Don't Blink\]](https://osu.ppy.sh/beatmapsets/2166520#taiko/4570829)
   5. [Rivers of Nihil - Reign of Dreams (Xay) \[Perpetuity\]](https://osu.ppy.sh/beatmapsets/2166485#taiko/4570764)
   6. [Sobrem - Carrot Carrot (Nurend) \[Carrot\]](https://osu.ppy.sh/beatmapsets/2166484#taiko/4570763)
-  7. [Sydosys - Serrate (\_Rise) \[Inner Oni\] *(temporary link)*](http://files.leoflt.com/sISFSTtN)
+  7. [Sydosys - Serrate (\_Rise) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2166563#taiko/4570945)
 - Hidden
   1. [flatt - Agitato (miyagishima) \[Inner Oni (TWC Edit)\]](https://osu.ppy.sh/beatmapsets/2024995#taiko/4570745)
   2. [Supire - Nebula (Alchyr) \[Naturalborn Void\]](https://osu.ppy.sh/beatmapsets/2166486#taiko/4570766)
@@ -286,6 +286,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253
 ## Match results
 
 ### Semifinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1kt4_ec0U8pw327B5nHwYo8cwCvIu2mCQUvOh4P0Untg?rm=minimal).
 
 Saturday, 13 April 2024:
 
