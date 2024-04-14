@@ -10,6 +10,8 @@ tags:
   - filtros de beatmaps
   - búsqueda del cliente
   - búsqueda del sitio web
+outdated_translation: true
+outdated_since: b109605a360c0b1751daa1f9fabf8bdbe8c9b6b9
 ---
 
 # Búsqueda de beatmaps
