@@ -95,7 +95,7 @@ Los campos de metadatos de beatmaps se pueden comparar con valores específicos 
 | `length` | [Tiempo de juego](/wiki/Beatmap/Play_time) en segundos |
 | `key`, `keys` | Número de teclas (solo osu!mania y beatmaps convertidos) |
 | `status` | Estado del beatmap. El valor puede ser `ranked`, `approved`, `pending`, `notsubmitted`, `unknown` o `loved`, o `r`/`a`/`p`/`n`/`u`/`l` para abreviar. Permite múltiples valores separados por comas (`,`) |
-| `played`, `lastplayed` | Tiempo desde la última vez que jugó un beatmap. Acepta un formato de `#y#M#d#h#m#s`, para años, meses, días, horas, minutos y segundos respectivamente. Por ejemplo, `2d5s` significa «2 días y 5 segundos». |
+| `played`, `lastplayed` | Tiempo desde la última vez que se jugó un beatmap. Acepta un formato de `#y#M#d#h#m#s`, para años, meses, días, horas, minutos y segundos respectivamente. Por ejemplo, `2d5s` significa «2 días y 5 segundos». |
 | `divisor` | El denominador del [divisor de ritmo](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
 
 ## Búsquedas de ejemplo
