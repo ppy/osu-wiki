@@ -10,8 +10,6 @@ tags:
   - filtros de beatmaps
   - búsqueda del cliente
   - búsqueda del sitio web
-outdated_translation: true
-outdated_since: b109605a360c0b1751daa1f9fabf8bdbe8c9b6b9
 ---
 
 # Búsqueda de beatmaps
@@ -96,7 +94,7 @@ Los campos de metadatos de beatmaps se pueden comparar con valores específicos 
 | `bpm` | [Tempo de la canción](/wiki/Music_theory/Tempo) |
 | `length` | [Tiempo de juego](/wiki/Beatmap/Play_time) en segundos |
 | `key`, `keys` | Número de teclas (solo osu!mania y beatmaps convertidos) |
-| `status` | Estado del beatmap. El valor puede ser `ranked`, `approved`, `pending`, `notsubmitted`, `unknown` o `loved`, o `r`/`a`/`p`/`n`/`u`/`l` para abreviar. |
+| `status` | Estado del beatmap. El valor puede ser `ranked`, `approved`, `pending`, `notsubmitted`, `unknown` o `loved`, o `r`/`a`/`p`/`n`/`u`/`l` para abreviar. Permite múltiples valores separados por comas (`,`) |
 | `played`, `lastplayed` | Tiempo desde la última vez que jugó un beatmap. Acepta un formato de `#y#M#d#h#m#s`, para años, meses, días, horas, minutos y segundos respectivamente. Por ejemplo, `2d5s` significa «2 días y 5 segundos». |
 | `divisor` | El denominador del [divisor de ritmo](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
 
@@ -136,6 +134,12 @@ played<2M5h
 
 ```
 lastplayed>1y
+```
+
+(Lazer) Encuentra beatmaps clasificados y amados
+
+```
+status=r,l
 ```
 
 ## Referencias
