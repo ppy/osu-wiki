@@ -6,139 +6,140 @@
 
 | Название | Описание |
 | :-- | :-- |
-| Удалить все ноты (`Ctrl` + `N`) | Удаление всех игровых объектов с этой сложности. |
-| Открыть... | **Для редактирования:** Быстрое переключение между сложностями. **Для сравнения:** (только для [osu!mania](/wiki/Game_mode/osu!mania)) Наложение выбранной сложности на открытую в данный момент. |
+| Удалить все ноты (`Ctrl` + `N`) | Удалить все игровые объекты с этой сложности. |
+| Открыть... | **Для редактирования:** Быстро переключиться между сложностями. **Для сравнения:** (только для [osu!mania](/wiki/Game_mode/osu!mania)) Наложить выбранную сложность на открытую в данный момент. |
 | Сохранить (`Ctrl` + `S`) | Сохранить текущие изменения (как [`.osu`](/wiki/Client/File_formats/osu_(file_format)), так и [`.osb`](/wiki/Client/File_formats/osb_(file_format))). |
-| Сохранить как новую сложность... | Сохранение текущих изменений как новую сложность. После сохранения старая сложность останется без изменений. |
-| Восстановить сохранённое (`Ctrl` + `L`) | Возращение сложности и сториборда к последнему сохранённому состоянию. |
-| Восстановить и переоткрыть ресурсы (`Ctrl` + `Shift` + `L`) | Возращение сложности и сториборда к последнему сохранённому состоянию и переоткрие всех файлов (спрайтов, сэмплов и т.д.). |
-| Тестировать (`F5`) | [Тестирование](/wiki/Client/Beatmap_editor/Test_mode) сложности с предварительной возможностью сохранения. |
-| Открыть AiMod (`Ctrl` + `Shift` + `A`) | Открытие [AiMod](/wiki/Client/Beatmap_editor/AiMod). |
-| Выгрузить на сервер... (`Ctrl` + `Shift` + `U`) | [Загрузка](/wiki/Beatmapping/Beatmap_submission) карты на форум [Works In Progress](https://osu.ppy.sh/community/forums/10). |
-| Экспортировать в [`.osz`](/wiki/Client/File_formats/osz_(file_format))... | Экспортирование карты в формате [`.osz`](/wiki/Client/File_formats/osz_(file_format)) для самостоятельного распространения, с последующим открытием, содержащей файл, папки Exports. |
-| Распаковать | Извлечение карты в формате `.osz2`<!-- TODO(TicClick: add a link when the article is up)--> во временную папку, для переопределения файлов во время моддинга.[^osz2-note] |
-| Импортировать из... | **bms/bme:** открытие файла `.bms`/`.bme` для импорта сложности в osu!mania. |
-| Открыть папку с песней | Открытие папки с картой, в которой содержуются соответствующие игровые файлы. |
-| Открыть `.osu` в блокноте | Открытие файл выбранной в данный момент сложности в MS Notepad. |
-| Открыть `.osb` в блокноте | Открытие файл [сториборда](/wiki/Storyboard) карты в MS Notepad. |
-| Выйти (`Esc`) | Выход из редактора карты с предварительной возможностью сохранения.[^exit-note] |
+| Сохранить как новую сложность... | Сохранить текущие изменения как новую сложность. Сложность, на основе которой была создана новая, возращается к последнему для неё сохранению. |
+| Восстановить сохранённое (`Ctrl` + `L`) | Восстановить сложности и сториборда к последнему сохранённому состоянию. |
+| Восстановить и переоткрыть ресурсы (`Ctrl` + `Shift` + `L`) | Восстановить сложности и сториборда к последнему сохранённому состоянию и переоткрыть все файлы (спрайты, сэмплы и т.д.). |
+| Тестировать (`F5`) | [Тестировать](/wiki/Client/Beatmap_editor/Test_mode) сложность с предварительной возможностью сохранения. |
+| Открыть AiMod (`Ctrl` + `Shift` + `A`) | Открыть [AiMod](/wiki/Client/Beatmap_editor/AiMod). |
+| Выгрузить на сервер... (`Ctrl` + `Shift` + `U`) | [Выгрузить](/wiki/Beatmapping/Beatmap_submission) карту на форум [Works In Progress](https://osu.ppy.sh/community/forums/10). |
+| Экспортировать в [`.osz`](/wiki/Client/File_formats/osz_(file_format))... | Экспортировать карту в формате [`.osz`](/wiki/Client/File_formats/osz_(file_format)) для самостоятельного распространения, с последующим открытием папки Exports. |
+| Распаковать | Распаковать карту в формате `.osz2`<!-- TODO(TicClick: add a link when the article is up)--> во временную папку, для переопределения файлов во время моддинга.[^osz2-note] |
+| Импортировать из... | **bms/bme:** открыть файл `.bms`/`.bme` для импорта сложности в osu!mania. |
+| Открыть папку с песней | Открыть папку с картой, в которой содержуются соответствующие игровые файлы. |
+| Открыть `.osu` в блокноте | Открыть файл выбранной в данный момент сложности в MS Notepad. |
+| Открыть `.osb` в блокноте | Открыть файл [сториборда](/wiki/Storyboard) выбранной в данный момент сложности в MS Notepad. |
+| Выйти (`Esc`) | Выйти из редактора карты с предварительной возможностью сохранения.[^exit-note] |
 
-## Edit
+## Редактировать
 
-![Edit menu](img/M_Edit-RU.png "Edit menu")
+![Edit menu](img/M_Edit-RU.png "Меню редактирования")
 
-| Name | Description |
+| Название | Описание |
 | :-- | :-- |
-| Undo (`Ctrl` + `Z`) | Undo the last edit. |
-| Redo (`Ctrl` + `Y`) | Repeat the last edit. |
-| Cut (`Ctrl` + `X`) | Cut selected objects. |
-| Copy (`Ctrl` + `C`) | Copy selected objects. |
-| Paste (`Ctrl` + `V`) | Paste selected objects. |
-| Delete (`Delete`) | Delete selected objects. |
-| Select All (`Ctrl` + `A`) | Select all hit objects. |
-| Clone (`Ctrl` + `D`) | Copy selected objects and paste them one [beat](/wiki/Music_theory/Beat) after the selection. |
-| Reverse Selection (`Ctrl` + `G`) | Reverses the direction of the sliders and reorders hit objects in time, making the last one the first and so on. |
-| Flip Horizontally (`Ctrl` + `H`) | Mirror the selection across the Y axis of the playfield (left and right). |
-| Flip Vertically (`Ctrl` + `J`) | Mirror the selection across the X axis of the playfield (up and down). |
-| Rotate 90° Clockwise (`Ctrl` + `>`) | Rotate the selection 90° to the right around the playfield centre. |
-| Rotate 90° Anticlockwise (`Ctrl` + `<`) | Rotate the selection 90° to the left around the playfield centre. |
-| Rotate by... (`Ctrl` + `Shift` + `R`) | Rotate the selection by a custom angle around the playfield or the selection centre. |
-| Scale by... (`Ctrl` + `Shift` + `S`) | Scale the selection by moving its objects further from the playfield or the selection centre, across one or more axes. |
-| Reset selected objects' samples | Remove [hitsound additions](/wiki/Beatmapping/Hitsound) from the selection. |
-| Reset all samples | Remove hitsound additions from all hit objects of the difficulty. |
-| Reset combo colours | Remove all [combo colour overrides](/wiki/Beatmapping/Colourhaxing) from all hit objects of the current difficulty. |
-| Reset breaks | Reset custom start/end times of all [breaks](/wiki/Beatmap/Break), placing them next to surrounding hit objects. |
-| Nudge Backward (`J`) | Move the selection one tick backwards, based on the active [beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor). |
-| Nudge Forward (`K`) | Move the selection one tick forwards, based on the active beat snap divisor. |
+| Отменить (`Ctrl` + `Z`) | Отменить последнее изменение. |
+| Вернуть (`Ctrl` + `Y`) | Вернуть последнее изменение. |
+| Вырезать (`Ctrl` + `X`) | Вырезать выделенные объекты. |
+| Скопировать (`Ctrl` + `C`) | Скопировать выделенные объекты. |
+| Вставить (`Ctrl` + `V`) | Вставить выделенные объекты. |
+| Удалить (`Delete`) | Удалить выделенные объекты. |
+| Выбрать всё (`Ctrl` + `A`) | Выбрать все игровые объекты. |
+| Клонировать (`Ctrl` + `D`) | Копировать выделенные объекты и вставить после последней выделенной на одну [долю](/wiki/Music_theory/Beat) вперёд. |
+| Обратить выделение (`Ctrl` + `G`) | Обратить направление выделенных ползунков на противоположное и поменять порядок игровых объектов, сделав последний из них первым и наоборот. |
+| Отразить по горизонтали (`Ctrl` + `H`) | Отразить выделенные объекты по оси Y на игровом поле (налево и направо). |
+| Отразить по вертикали (`Ctrl` + `J`) | Отразить выделенные объекты по оси X на игровом поле (вверх и вниз). |
+| Повернуть на 90° по часовой стрелке (`Ctrl` + `>`) | Повернуть выделенные объекты вправо на 90° вокруг центра игрового поля. |
+| Повернуть на 90° против часовой стрелки (`Ctrl` + `<`) | Повернуть выделенные объекты влево на 90° вокруг центра игрового поля. |
+| Повернуть на угол... (`Ctrl` + `Shift` + `R`) | Повернуть выделенные объекты на нужный угол вокруг выделенных объектов или центра игрового поля. |
+| Растянуть... (`Ctrl` + `Shift` + `S`) | Растянуть выделенные объекты, перемещая их ближе или дальше по одной или двум осям. |
+| Убрать звуки с выделенных объектов | Удалить [дополнительные хитсаунды](/wiki/Beatmapping/Hitsound) из выделенных объектов. |
+| Убрать все звуки | Удалить дополнительные хитсаунды из всех объектов в этой сложности. |
+| Сбросить комбо-цвета | Сбросить [комбо-цвета](/wiki/Beatmapping/Colourhaxing) со всех объектов в этой сложности. |
+| Сбросить перерывы | Сбросить все пользовательские начала/окончания [перерывов](/wiki/Beatmap/Break), разместив их рядом с ближайшими игровыми объектами. |
+| Сдвинуть назад (`J`) | Свдинуть назад все выделенные объекты на [шаг временной шкалы](/wiki/Client/Beatmap_editor/Beat_snap_divisor) в зависимости от активного [делителя доли](/wiki/Client/Beatmap_editor/Beat). |
+| Сдвинуть вперёд (`K`) | Свдинуть вперёд все выделенные объекты на шаг временной шкалы в зависимости от активного делителя доли. |
 
-## View
+## Вид
 
-![View menu](img/M_View-RU.png "View menu")
+![View menu](img/M_View-RU.png "Меню вида")
 
-| Name | Description |
+| Название | Описание |
 | :-- | :-- |
-| Compose (`F1`) | Change active tab to [`Compose`](/wiki/Client/Beatmap_editor/Compose). |
-| Design (`F2`) | Change active tab to [`Design`](/wiki/Client/Beatmap_editor/Design). |
-| Timing (`F3`) | Change active tab to [`Timing`](/wiki/Client/Beatmap_editor/Timing). |
-| Song Setup... (`F4`) | Open the [`Song Setup`](/wiki/Client/Beatmap_editor/Song_setup) window. |
-| Timing Setup... (`F6`) | Open the [`Timing and Control Points`](/wiki/Client/Beatmap_editor/Timing) window. |
-| Volume | Adjust the volume level of music or hitsounds. |
-| Grid Level (`G`) | Adjust the coarseness of the playfield [grid](/wiki/Beatmapping/Grid_snapping) used for object [snapping](/wiki/Beatmapping/Snapping). |
-| Show Video/Storyboard | Toggle visibility of the background video and storyboard. |
-| Dim Background | Dim the background in [test mode](/wiki/Client/Beatmap_editor/Test_mode), making hit objects more visible. |
-| Show Sample Name | For osu!mania difficulties, show [keysound samples' names](/wiki/Beatmapping/Hitsound#keysound) attached to the notes. |
-| Snaking sliders | Sliders gradually snake out from their starting point. |
-| Hit animations | Animate hit objects as if being clicked during gameplay. |
-| Follow points | Display and animate follow points as if during gameplay. |
-| Stacking | Stack overlaid hit circles as if during gameplay.[^stacking-note] |
+| Редактор (`F1`) | Поменять активную вкладку на  [`Редактор`](/wiki/Client/Beatmap_editor/Compose). |
+| Дизайн (`F2`) | Поменять активную вкладку на [`Дизайн`](/wiki/Client/Beatmap_editor/Design). |
+| Тайминг (`F3`) | Поменять активную вкладку на  [`Тайминг`](/wiki/Client/Beatmap_editor/Timing). |
+| Настройка карты (`F4`) | Открыть окно [`Song Setup`](/wiki/Client/Beatmap_editor/Song_setup). |
+| Настройки тайминга (`F6`) | Открыть окно [`Тайминг-секций`](/wiki/Client/Beatmap_editor/Timing). |
+| Громкость и звук | Отрегулировать уровень громкости музыки или хитсаундов. |
+| Шаг сетки (`G`) | Отрегулировать [шаг сетки](/wiki/Beatmapping/Grid_snapping) игрового поля, использеймый для [привязки нот](/wiki/Beatmapping/Snapping). |
+| Показать видео | Показывать фоновое видео, если доступно. |
+| Dim Background | Затемнить задний фон в [режиме тестирования](/wiki/Client/Beatmap_editor/Test_mode), чтобы сделать объекты более заметными. |
+| Показывать название сэмплов | Для сложностей osu!mania, показывает [название сэмплов кейсаундов](/wiki/Beatmapping/Hitsound#keysound), прикреплённых к нотам. |
+| Ползущие слайдера | Ползунки разворачиваются из своей начальной точки. |
+| Анимация попадания | Объекты будут исчезать так же, как во время игры, не оставляя следов. |
+| Связывающие точки | Показывать точки, соединяющие объекты одного комбо. |
+| Показывать стеки | Как и во время игры, расположенные в одной точке объекты будут объединяться в стек.[^stacking-note] |
 
-## Compose
+## Редактор
 
-*Main page: [Compose](/wiki/Client/Beatmap_editor/Compose)*
+*См. также: [Редактор](/wiki/Client/Beatmap_editor/Compose)*
 
-![Compose menu](img/M_Compose-RU.png "Compose menu")
+![Compose menu](img/M_Compose-RU.png "Меню редактора")
 
-| Name | Description |
+| Название | Описание |
 | :-- | :-- |
-| Snap Divisor | Change the granularity of the [beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor), displaying more or fewer ticks on the [timeline](/wiki/Client/Beatmap_editor/Timelines). |
-| Audio Rate | Change the playback rate of the audio. |
-| Grid Snapping (T) | Toggle [snapping](/wiki/Beatmapping/Grid_snapping) of the hit objects to the playfield grid. |
-| Create Polygon Circles... (`Ctrl` + `Shift` + `D`) | Create a regular polygon consisting of several hit circles, using the active beat snap divisor for circle placement. |
-| Convert slider to stream... | Replace the [body](/wiki/Gameplay/Hit_object/Slider/Sliderbody) of a selected slider with a [stream](/wiki/Beatmap/Pattern/osu!/Stream) of hit circles. **By object count:** use a specified amount of hit circles. **By distance snap:** use the exact [distance snap](/wiki/Client/Beatmap_editor/Distance_snap) between hit circles. |
-| Enable live mapping mode (`Ctrl` + `Tab`) | Place osu!/osu!taiko [hit circles](/wiki/Gameplay/Hit_object/Hit_circle), osu!catch [fruits](/wiki/Gameplay/Hit_object/Fruit), or osu!mania notes with gameplay keybinds while the song is playing.[^live-mapping-note] |
-| Sample import | Open the [`Sample import`](/wiki/Client/Beatmap_editor/Compose#sample-import) window for osu!mania difficulties. |
+| Шаг временной шкалы |Изменить делитель [шага звуковой шкалы](/wiki/Beatmapping/Grid_snapping), для отображения большего или меньшего количества тиков на [временной шкале](/wiki/Client/Beatmap_editor/Timelines). |
+| Скорость аудио | Изменить скорость воспроизведения звука. |
+| Прикреплять ноты к сетке (T) | Прикреплять ноты к [сетке](/wiki/Beatmapping/Grid_snapping) игрового поля. |
+| Создать многоугольник (`Ctrl` + `Shift` + `D`) | Создать многоугольник, состоящий из нот, используя активный делитель [шага звуковой шкалы](/wiki/Beatmapping/Grid_snapping) для размещения объектов. |
+| Преобразовать слайдер в стрим... | Преобразовать [тело](/wiki/Gameplay/Hit_object/Slider/Sliderbody) выбранного слайдера в [стрим](/wiki/Beatmap/Pattern/osu!/Stream) из нот. **By object count:** использовать определённое количество нот. **By distance snap:** Использовать определённый [снаппинг](/wiki/Client/Beatmap_editor/Distance_snap) между нот. |
+| Режим лайв-маппинга (`Ctrl` + `Tab`) | Ставить [ноты](/wiki/Gameplay/Hit_object/Hit_circle) в osu!/osu!taiko/osu!mania или [фрукты](/wiki/Gameplay/Hit_object/Fruit) в osu!catch используя геймплейные клавиши во время воиспроизведения песни.[^live-mapping-note] |
+| Импорт сэмплов | Открыть окно [`Sample import`](/wiki/Client/Beatmap_editor/Compose#sample-import) для сложностей osu!mania. |  
+| Автобаланс звука | ??? |
 
-## Design
+## Дизайн
 
-*Main page: [Design](/wiki/Client/Beatmap_editor/Design)*
+*См. также: [Дизайн](/wiki/Client/Beatmap_editor/Design)*
 
-![Design menu](img/M_Design-RU.png "Design menu")
+![Design menu](img/M_Design-RU.png "Меню дизайна")
 
-| Name | Description |
+| Название | Описание |
 | :-- | :-- |
-| Move all elements in time... | Move *all* storyboard [commands](/wiki/Storyboard/Scripting/Commands) by a given amount of milliseconds. |
+| Сдвинуть все события... | Сдвинуть *все* [команды](/wiki/Storyboard/Scripting/Commands) сториборда на заданное количество миллисекунд. |
 
-## Timing
+## Тайминг
 
-*Main page: [Timing](/wiki/Client/Beatmap_editor/Timing)*
+*См. также: [Тайминг](/wiki/Client/Beatmap_editor/Timing)*
 
-![Timing menu](img/M_Timing-RU.png "Timing menu")
+![Timing menu](img/M_Timing-RU.png "Меню тайминга")
 
-| Name | Description |
+| Название | Описание |
 | :-- | :-- |
-| Time Signature | Select the [time signature](/wiki/Music_theory/Time_signature) for the current timing point, between 4/4 (common) or 3/4 (waltz). For other time signatures, use the [`Timing Setup`](/wiki/Client/Beatmap_editor/Timing) window. |
-| Metronome Clicks | Toggle ticking sounds of the [metronome](/wiki/Client/Beatmap_editor/Timing#метроном) on the `Timing` tab. |
-| Add Timing Section (`Ctrl` + `P`) | Add a new [uninherited (red) timing section](/wiki/Client/Beatmap_editor/Timing#красные-тайминг-секции). |
-| Add Inheriting Section (`Ctrl` + `Shift` + `P`) | Add a new [inherited (green) timing section](/wiki/Client/Beatmap_editor/Timing#зелёные-тайминг-секции). |
-| Reset Current Section | Reset the [BPM](/wiki/Music_theory/Tempo) and [offset](/wiki/Offset) of the current uninherited timing section for [retiming](/wiki/Beatmapping/Timing). Saving the difficulty will delete these sections if unmodified. |
-| Delete Timing Section (`Ctrl` + `I`) | Delete the current timing section (both inherited and uninherited). |
-| Resnap Current Section | [Resnap](/wiki/Beatmapping/Snapping) all hit objects in the current section according to the active beat snap divisor. |
-| Timing Setup... (`F6`) | Open the [`Timing and Control Points`](/wiki/Client/Beatmap_editor/Timing) window. |
-| Resnap All Notes | Resnap all hit objects of the difficulty according to the active beat snap divisor. |
-| Move all notes in time.. | Move all hit objects by a given amount of milliseconds. |
-| Recalculate Slider Lengths | Automatically resnap[^recalculate-lengths-note] all [slider ends](/wiki/Gameplay/Hit_object/Slider/Slidertail) to the nearest timeline tick, **potentially shortening them** and requiring manual rechecking. |
-| Delete All Timing Sections | Remove all uninherited and inherited timing sections of the current difficulty. |
-| Set Current Position as Preview Point | Use the current timestamp as the preview point for the website and [song select](/wiki/Client/Interface#song-select) screen. |
+| Размер такта | Select the [time signature](/wiki/Music_theory/Time_signature) for the current timing point, between 4/4 (common) or 3/4 (waltz). For other time signatures, use the [`Timing Setup`](/wiki/Client/Beatmap_editor/Timing) window. |
+| Звук метронома | Toggle ticking sounds of the [metronome](/wiki/Client/Beatmap_editor/Timing#метроном) on the `Timing` tab. |
+| Добавить тайминг-секцию (`Ctrl` + `P`) | Add a new [uninherited (red) timing section](/wiki/Client/Beatmap_editor/Timing#красные-тайминг-секции). |
+| Добавить обычную секцию (`Ctrl` + `Shift` + `P`) | Add a new [inherited (green) timing section](/wiki/Client/Beatmap_editor/Timing#зелёные-тайминг-секции). |
+| Сбросить текущую секцию | Reset the [BPM](/wiki/Music_theory/Tempo) and [offset](/wiki/Offset) of the current uninherited timing section for [retiming](/wiki/Beatmapping/Timing). Saving the difficulty will delete these sections if unmodified. |
+| Удалить тайминг-секцию (`Ctrl` + `I`) | Delete the current timing section (both inherited and uninherited). |
+| Подогнать ноты текущей секции | [Resnap](/wiki/Beatmapping/Snapping) all hit objects in the current section according to the active beat snap divisor. |
+| Настройка тайминга (`F6`) | Open the [`Timing and Control Points`](/wiki/Client/Beatmap_editor/Timing) window. |
+| Подогнать все ноты | Resnap all hit objects of the difficulty according to the active beat snap divisor. |
+| Сдвинуть все ноты... | Move all hit objects by a given amount of milliseconds. |
+| Пересчитать длины слайдеров | Automatically resnap[^recalculate-lengths-note] all [slider ends](/wiki/Gameplay/Hit_object/Slider/Slidertail) to the nearest timeline tick, **potentially shortening them** and requiring manual rechecking. |
+| Удалить все тайминг-секции | Remove all uninherited and inherited timing sections of the current difficulty. |
+| Использовать текущий момент как превью | Use the current timestamp as the preview point for the website and [song select](/wiki/Client/Interface#song-select) screen. |
 
-## Web
+## Веб
 
-![Web menu](img/M_Web-RU.png "Web menu")
+![Web menu](img/M_Web-RU.png "Веб меню")
 
-| Name | Description |
+| Название | Описание |
 | :-- | :-- |
-| This Beatmap's Information Page | Open the beatmap info page<!-- TODO(TicClick): link after https://github.com/ppy/osu-wiki/issues/3122 is completed --> on the osu! website. |
-| This Beatmap's Thread | Open the beatmap's forum thread. |
+| Страница этой карты | Open the beatmap info page<!-- TODO(TicClick): link after https://github.com/ppy/osu-wiki/issues/3122 is completed --> on the osu! website. |
+| Тема на форуме | Open the beatmap's forum thread. |
 
-## Help
+## Помощь
 
-![Help menu](img/M_Help-RU.png "Help menu")
+![Help menu](img/M_Help-RU.png "Меню помощи")
 
-| Name | Description |
+| Название | Описание |
 | :-- | :-- |
-| Show in-game help | Show the help overlay with key bindings and short explanations.[^help-note] |
-| View FAQ... | Open the [Beatmapping](/wiki/Beatmapping) wiki article. |
+| Показать справку | Show the help overlay with key bindings and short explanations.[^help-note] |
+| Посмотреть FAQ... | Open the [Beatmapping](/wiki/Beatmapping) wiki article. |
 
-## Notes
+## Примечания
 
 [^osz2-note]: This action is disabled for regular `osz` beatmaps.
 [^exit-note]: This action sometimes *ignores* changes made in the `Design` tab.
