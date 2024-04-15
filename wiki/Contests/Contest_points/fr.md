@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_since: bc8e4274a5ffcfa7bc6826484578a797a9c3090d
+outdated_translation: true
 ---
 
 # Points de concours
