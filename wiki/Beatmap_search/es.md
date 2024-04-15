@@ -136,7 +136,7 @@ played<2M5h
 lastplayed>1y
 ```
 
-(Lazer) Encuentra beatmaps clasificados y amados
+(Lazer) Encuentra beatmaps clasificados y amados:
 
 ```
 status=r,l
