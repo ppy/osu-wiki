@@ -80,13 +80,13 @@
 
 | Название | Описание |
 | :-- | :-- |
-| Шаг временной шкалы |Изменить делитель [шага звуковой шкалы](/wiki/Beatmapping/Grid_snapping), для отображения большего или меньшего количества тиков на [временной шкале](/wiki/Client/Beatmap_editor/Timelines). |
+| Шаг временной шкалы | Изменить делитель [шага звуковой шкалы](/wiki/Beatmapping/Grid_snapping), для отображения большего или меньшего количества тиков на [временной шкале](/wiki/Client/Beatmap_editor/Timelines). |
 | Скорость аудио | Изменить скорость воспроизведения звука. |
 | Прикреплять ноты к сетке (T) | Прикреплять ноты к [сетке](/wiki/Beatmapping/Grid_snapping) игрового поля. |
 | Создать многоугольник (`Ctrl` + `Shift` + `D`) | Создать многоугольник, состоящий из нот, используя активный делитель [шага звуковой шкалы](/wiki/Beatmapping/Grid_snapping) для размещения объектов. |
 | Преобразовать слайдер в стрим... | Преобразовать [тело](/wiki/Gameplay/Hit_object/Slider/Sliderbody) выбранного слайдера в [стрим](/wiki/Beatmap/Pattern/osu!/Stream) из нот. **By object count:** использовать определённое количество нот. **By distance snap:** Использовать определённый [снаппинг](/wiki/Client/Beatmap_editor/Distance_snap) между нот. |
 | Режим лайв-маппинга (`Ctrl` + `Tab`) | Ставить [ноты](/wiki/Gameplay/Hit_object/Hit_circle) в osu!/osu!taiko/osu!mania или [фрукты](/wiki/Gameplay/Hit_object/Fruit) в osu!catch используя геймплейные клавиши во время воиспроизведения песни.[^live-mapping-note] |
-| Импорт сэмплов | Открыть окно [`Sample import`](/wiki/Client/Beatmap_editor/Compose#sample-import) для сложностей osu!mania. |  
+| Импорт сэмплов | Открыть окно [`Sample import`](/wiki/Client/Beatmap_editor/Compose#sample-import) для сложностей osu!mania. |
 | Автобаланс звука | ??? |
 
 ## Дизайн
