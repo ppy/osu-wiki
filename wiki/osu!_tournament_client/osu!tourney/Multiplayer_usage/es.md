@@ -27,7 +27,7 @@ Como se explica en la [guía de uso del espectador](/wiki/osu!_tournament_client
 
 Por ejemplo, con `TeamSize = 4`, los espacios 1, 2, 3 y 4 pertenecerán al equipo azul, y los espacios 5, 6, 7 y 8 pertenecerán al equipo rojo. Con `TeamSize = 3`, los espacios 1, 2 y 3 pertenecerán al equipo azul, y los espacios 4, 5 y 6 pertenecerán al equipo rojo.
 
-![La correspondencia de las ventanas en osu!tourney con los respectivos espacios de la sala multijugador](img/Osutourneyassignment-ES.png "Asignación de jugadores en osu!tourney")
+![La correspondencia de las ventanas en osu!tourney con los respectivos espacios de la sala multijugador](img/Osutourneyassignment.png "Asignación de jugadores en osu!tourney")
 
 **osu!tourney ignora los colores del equipo en la asignación de espacios**; solo considera el espacio que ocupan los jugadores en la sala multijugador. A continuación se muestran ejemplos de osu!tourney con diferentes tamaños de equipo. Los números en la pantalla indican el espacio asignado en la sala multijugador. Los números no son visibles durante el funcionamiento normal y están aquí solo con fines descriptivos:
 
