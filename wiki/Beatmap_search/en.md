@@ -132,7 +132,7 @@ played<2M5h
 lastplayed>1y
 ```
 
-(Lazer) Find Ranked and Loved beatmaps
+(Lazer) Find Ranked and Loved beatmaps:
 
 ```
 status=r,l
