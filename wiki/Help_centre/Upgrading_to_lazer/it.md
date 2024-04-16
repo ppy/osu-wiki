@@ -1,11 +1,4 @@
----
-outdated_translation: true
-outdated_since: 4390338dba70d8ad149f01408d623120cdc6aa96
----
-
 # Aggiornare a lazer
-
-*Avviso: Stiamo ancora cercando di bilanciare e di sistemare le meccaniche di gioco. Per ora, **i punteggi che sono stati effettuati su lazer non devono essere considerati permanenti**.*
 
 osu!(lazer) è il prossimo grande aggiornamento al client di osu!. È il frutto di diversi anni di lavoro dietro le quinte per reimplementare osu!.
 
@@ -106,7 +99,7 @@ Di seguito verrà rappresentata una lista dello **stato attuale** di lazer in co
 | SV / volume per oggetto | ![No][false] | ![Sì][true] |
 | Curve degli slider per segmento | ![No][false] | ![Yes][true] |
 | Divisione e fusione degli slider | ![No][false] | ![Yes][true] |
-| Rotazione dei pattern | ![Sì][true] | ![Parziale][partial][^editor-precise-rotation] |
+| Rotazione dei pattern | ![Sì][true] | ![Sì][true] |
 | Ridimensionamento dei pattern | ![No][false] | ![Sì][true] |
 | Caricamento della beatmap | ![Sì][true] | ![No][false] |
 | Storyboard editor | ![Sì][true] | ![No][false] |
@@ -158,17 +151,17 @@ Detto questo, i singoli score e mappe possono essere esportati da lazer e manual
 
 #### Se faccio un punteggio su lazer, verrà visualizzato sul mio profilo?
 
-Gli score verranno mostrati sotto la sezione "Partite Recenti" ma non in "Migliore Performance" per ora.
+Si, ma non verrà mostrato nella sezione "Migliore Performance" con la "Modalità lazer" disabilitata.
+
+Inoltre non verrà mostrata nella sezione "Primi Posti" in qualsiasi caso per ora.
 
 #### Se faccio un punteggio su lazer, darà punti performance?
 
-La sezione "Partite Recenti" della pagina del profilo mostra i punteggi creati su lazer con i punti prestazione calcolati, e l'importo totale può essere visualizzato quando si passa il mouse sul totale dei punti prestazione regolari.
-
-In più, [lazer.ppy.sh](https://lazer.ppy.sh/home), un'istanza sperimentale del sito di osu!, mostra tutti i punteggi, includendo quelli creati su lazer.
+Si.
 
 #### Lazer usa ScoreV2?
 
-Sì, usa un sistema basato su di esso con qualche correzione. Le partite in ScoreV1 verranno convertite in un secondo momento.
+Usa un sistema basato su di esso con qualche correzione.
 
 <!-- lint ignore no-heading-punctuation -->
 
@@ -176,17 +169,58 @@ Sì, usa un sistema basato su di esso con qualche correzione. Le partite in Scor
 
 Puoi effettivamente modificare l'impostazione `Modalità di visualizzazione del punteggio` in `Classico` per ripristinare lo stile esplosivo del punteggio in tutto il gioco! Non sarà lo stesso, ma ti darà la stessa sensazione del punteggio classico e verrà applicato dove ti aspetteresti.
 
+Anche le classifiche globali useranno il sistema di punteggio classico.
+
 #### Se imposto un punteggio su lazer, rimarrà per sempre?
 
-Anche se cercheremo di preservare il maggior numero possibile di punteggi, **non garantiamo che i punteggi rimarranno a tempo indeterminato**. In qualsiasi momento potremmo decidere di cancellare un sottoinsieme o tutti i punteggi per preservare l'equilibrio del gioco.
+Anche se cercheremo di preservare il maggior numero possibile di punteggi, **non garantiamo che i punteggi rimarranno a tempo indeterminato**. In qualsiasi momento potremmo decidere di cancellare un sottoinsieme di punteggi per preservare l'equilibrio del gioco, come quando vengono scoperti exploit o comportamenti scorretti.
 
 #### I punteggi impostati su stable saranno visualizzati in lazer?
 
-Sì. Una volta terminato il bilanciamento della combinazione di punteggi in lazer e in stable, entrambi saranno visibili.
+Sì.
+
+#### I punteggi fatti su lazer sono visibili su stable?
+
+Non al momento.
 
 #### Tutte le mod saranno classificate?
 
-Per ora, i punteggi di tutte le combinazioni di mod appaiono nelle classifiche. Si sta ancora discutendo se i punteggi daranno punti performance con tutte le mod (e se lo faranno, se ci sarà un bonus o una penalità).
+I punteggi di tutte le combinazioni di mod verranno mostrate nelle classifiche.
+
+Però, solo le seguenti mod garantiscono punti performance per ora:
+
+- Riduzione Difficoltà
+  - Easy
+  - No Fail
+  - Half Time (solo 0.75x, configurare `Adjust pitch` è consentito)
+  - Daycore (solo 0.75x)
+- Aumento Difficoltà
+  - Hard Rock (non per osu!mania)
+  - Sudden Death (Configurare `Restart on fail` è consentito)
+  - Perfect (Configurare `Restart on fail` è consentito)
+  - Hidden
+  - Nightcore (solo 1.5x)
+  - Double Time (solo 1.5x, configurare `Adjust pitch` è consentito)
+  - Flashlight
+  - Blinds
+  - Accuracy Challenge
+- Conversione (solo osu!mania)
+  - Mirror
+  - Four Keys
+  - Five Keys
+  - Six Keys
+  - Seven Keys
+  - Eight Keys
+  - Nine Keys
+- Divertimento
+  - Muted
+  - No Scope
+- Automazione (solo osu!)
+  - Spun out
+- Sistema
+  - Touch Device
+
+Solo la configurazione di default è idonea ai punti performance, se non diversamente indicato sopra. 
 
 #### Non mi piacciono le nuove meccaniche di gioco. Posso ripristinare le vecchie meccaniche di gioco come su stable?
 
@@ -302,7 +336,6 @@ Probabilmente stai pensando ad un altro gioco.
 [^multi-room-max]: 16 giocatori al massimo.
 [^map-only]: Solo mappa.
 [^all-files]: Tutti i file.
-[^editor-precise-rotation]: Manca la rotazione angolare precisa.
 [^incompatibilities]: Alcune funzioni dell'editor causano una riproduzione errata delle beatmap nella versione stabile - saranno presto corrette.
 [^stable-chat]: I messaggi possono impiegare fino a 15 secondi per arrivare.
 [^countdown-timers-stable]: Impostare un conto alla rovescia usando un comando, senza avvio automatico.
