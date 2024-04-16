@@ -42,7 +42,7 @@ osu!taiko 월드컵 2024는 osu!팀과 여러명의 커뮤니티 멤버들로 �
 | 직책 | 멤버 |
 | :-- | :-- |
 | 매니저 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
-| Mappool selector | ::{ flag=SE }:: **[Nurend](https://osu.ppy.sh/users/9905079)**, ::{ flag=SE }:: **[Raphalge](https://osu.ppy.sh/users/3918650)**, ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110), ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996), ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142), ::{ flag=CL }:: [Necromancy\-](https://osu.ppy.sh/users/1890084) |
+| 맵풀 셀렉터 | ::{ flag=SE }:: **[Nurend](https://osu.ppy.sh/users/9905079)**, ::{ flag=SE }:: **[Raphalge](https://osu.ppy.sh/users/3918650)**, ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110), ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996), ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142), ::{ flag=CL }:: [Necromancy\-](https://osu.ppy.sh/users/1890084) |
 | 맵풀 퀄리티 보증 | ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976), ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) |
 | 맵풀 플레이테스터 | ::{ flag=JP }:: [4sbet1](https://osu.ppy.sh/users/11563671), ::{ flag=DE }:: [frz](https://osu.ppy.sh/users/6956922), ::{ flag=US }:: [Garpo](https://osu.ppy.sh/users/4097035), ::{ flag=DE }:: [Mew](https://osu.ppy.sh/users/2345156), ::{ flag=IT }:: [ndrrr](https://osu.ppy.sh/users/4609767), ::{ flag=AU }:: [r1chyy](https://osu.ppy.sh/users/11499467), ::{ flag=JP }:: [Sasara](https://osu.ppy.sh/users/7994829), ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235), ::{ flag=DE }:: [Xay](https://osu.ppy.sh/users/961417) |
 | 매퍼 | ::{ flag=JP }:: [\_Rise](https://osu.ppy.sh/users/5217107), ::{ flag=US }:: [\-Kazuha](https://osu.ppy.sh/users/29978316), ::{ flag=JP }:: [4sbet1](https://osu.ppy.sh/users/11563671), ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ::{ flag=IT }:: [D3kuu](https://osu.ppy.sh/users/7807444), ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142), ::{ flag=PH }:: [Eyenine](https://osu.ppy.sh/users/1259391), ::{ flag=DE }:: [HomieLove](https://osu.ppy.sh/users/8693851), ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649), ::{ flag=SE }:: [Invisible O](https://osu.ppy.sh/users/22907037), ::{ flag=US }:: [Izzeee](https://osu.ppy.sh/users/8503743), ::{ flag=MY }:: [ler1211](https://osu.ppy.sh/users/19901680), ::{ flag=AR }:: [Megafan](https://osu.ppy.sh/users/6632605), ::{ flag=DE }:: [Mew](https://osu.ppy.sh/users/2345156), ::{ flag=IT }:: [ndrrr](https://osu.ppy.sh/users/4609767), ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097), ::{ flag=RU }:: [Nozdormu](https://osu.ppy.sh/users/7169208), ::{ flag=SE }:: [Nurend](https://osu.ppy.sh/users/9905079), ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766), ::{ flag=IT }:: [Quorum](https://osu.ppy.sh/users/5200775), ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650), ::{ flag=NO }:: [roufou](https://osu.ppy.sh/users/1109122), ::{ flag=GB }:: [roxorotto](https://osu.ppy.sh/users/17307654), ::{ flag=BR }:: [Sebola](https://osu.ppy.sh/users/15821708), ::{ flag=KR }:: [sendol](https://osu.ppy.sh/users/4433058), ::{ flag=US }:: [SolaEclipse](https://osu.ppy.sh/users/6621158), ::{ flag=JP }:: [tasuke912](https://osu.ppy.sh/users/2774767), ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719), ::{ flag=JP }:: [Waribashi](https://osu.ppy.sh/users/2250574), ::{ flag=DE }:: [Xay](https://osu.ppy.sh/users/961417) |
@@ -102,41 +102,62 @@ osu!taiko 월드컵 2024는 osu!팀과 여러명의 커뮤니티 멤버들로 �
 | ::{ flag=CH }:: | **스위스** | **[TaikoWorldCup](https://osu.ppy.sh/users/11296097)**, [cholarmor](https://osu.ppy.sh/users/21502158), [Oui](https://osu.ppy.sh/users/5538419), [NekoTowel](https://osu.ppy.sh/users/14838605), [Nakarin](https://osu.ppy.sh/users/547957) |
 | ::{ flag=TW }:: | **대만** | **[monkeydluffy3u4](https://osu.ppy.sh/users/2277798)**, [HiGreeks](https://osu.ppy.sh/users/16536516), [Yuemiao](https://osu.ppy.sh/users/4493348), [HarryAda](https://osu.ppy.sh/users/12892087), [Polemo03](https://osu.ppy.sh/users/10726804), [sevgo7](https://osu.ppy.sh/users/23487206) |
 | ::{ flag=TH }:: | **태국** | **[banan](https://osu.ppy.sh/users/16011592)**, [Ponamis](https://osu.ppy.sh/users/7897892), [Raytoly](https://osu.ppy.sh/users/8121109), [ZeroKungz](https://osu.ppy.sh/users/23155757), [HD Enjoyer](https://osu.ppy.sh/users/3968546) |
-| ::{ flag=TR }:: | **Turkey** | **[frukoyurdakul](https://osu.ppy.sh/users/7612550)**, [NeuralG](https://osu.ppy.sh/users/13811400), [skolodojko](https://osu.ppy.sh/users/11716851), [magev](https://osu.ppy.sh/users/13892153), [Zmor0133](https://osu.ppy.sh/users/6419257), [Ryukishi](https://osu.ppy.sh/users/9045874) |
+| ::{ flag=TR }:: | **튀르키예** | **[frukoyurdakul](https://osu.ppy.sh/users/7612550)**, [NeuralG](https://osu.ppy.sh/users/13811400), [skolodojko](https://osu.ppy.sh/users/11716851), [magev](https://osu.ppy.sh/users/13892153), [Zmor0133](https://osu.ppy.sh/users/6419257), [Ryukishi](https://osu.ppy.sh/users/9045874) |
 | ::{ flag=GB }:: | **영국** | **[goheegy](https://osu.ppy.sh/users/8057655)**, [CloggyBobby](https://osu.ppy.sh/users/8484987), [Daniels](https://osu.ppy.sh/users/12439209), [mangomizer](https://osu.ppy.sh/users/1893718), [Horiiizon](https://osu.ppy.sh/users/8071438), [overdahedge2014](https://osu.ppy.sh/users/9864847) |
 | ::{ flag=US }:: | **미국** | **[R J](https://osu.ppy.sh/users/6490509)**, [cheese salad](https://osu.ppy.sh/users/6349821), [AuroraPhasmata](https://osu.ppy.sh/users/13664116), [Miniature Lamp](https://osu.ppy.sh/users/9821194), [SilverTyrant](https://osu.ppy.sh/users/14356353), [Xok](https://osu.ppy.sh/users/12177903) |
 | ::{ flag=VN }:: | **베트남** | **[MashedPotato](https://osu.ppy.sh/users/10494860)**, [Creeperbrine303](https://osu.ppy.sh/users/22515524), [hi\_there\_osu](https://osu.ppy.sh/users/22698999), [nahieu2005](https://osu.ppy.sh/users/22069182), [RandomNameIdk](https://osu.ppy.sh/users/24042710) |
 
 전체 플레이어 목록은 [여기서](https://gist.github.com/LeoFLT/253130c40e8486cdfbcdf680bb19988d) 볼 수 있습니다.
 
-## 매치 일정: 세미파이널
+## 매치 일정: 파이널
 
-### 2024년 4월 13일 토요일
+### 2024년 4월 20일 토요일
 
-| Team A | Team B | 매치 시간 | 트위치 방송 |  |
+| Team A | Team B | 경기 시간 | 트위치 방송 |  |
 | --: | :-- | :-- | :-: | :-: |
-| 대만 ::{ flag=TW }:: | ::{ flag=CA }:: 캐나다 | [Apr 13 (Sat) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240413T040000&p1=1440&p2=241&p3=188) |  | [^losers-bracket] |
-| 중국 ::{ flag=CN }:: | ::{ flag=FI }:: 핀란드 | [Apr 13 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240413T140000&p1=1440&p2=33&p3=101) |  | [^losers-bracket] |
-| 미국 ::{ flag=US }:: | ::{ flag=MY }:: 말레이시아 | [Apr 13 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240413T160000&p1=1440&p2=263&p3=122) |  | [^losers-bracket] |
-| 칠레 ::{ flag=CL }:: | ::{ flag=FR }:: 프랑스 | [Apr 13 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240413T180000&p1=1440&p2=232&p3=195) |  | [^losers-bracket] |
+| 브라질 ::{ flag=BR }:: | ::{ flag=TW }:: 대만 | [Apr 20 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240420T150000&p1=1440&p2=45&p3=241) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 
-### 2024년 4월 14일 일요일
+### 2024년 4월 21일 일요일
 
-| Team A | Team B | 매치 시간 | 트위치 방송 |  |
+| Team A | Team B | 경기 시간 | 트위치 방송 |  |
 | --: | :-- | :-- | :-: | :-: |
-| 중국 ::{ flag=CN }:: | ::{ flag=TW }:: 대만 | [Apr 14 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240414T100000&p1=1440&p2=33&p3=241) |  | [^potential-match] |
-| 핀란드 ::{ flag=FI }:: | ::{ flag=TW }:: 대만 | [Apr 14 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240414T120000&p1=1440&p2=101&p3=241) |  | [^potential-match] |
-| 영국 ::{ flag=GB }:: | ::{ flag=KR }:: 대한민국 | [Apr 14 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240414T120000&p1=1440&p2=136&p3=235) |  | [^winners-bracket] |
-| 일본 ::{ flag=JP }:: | ::{ flag=BR }:: 브라질 | [Apr 14 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240414T140000&p1=1440&p2=248&p3=45) |  | [^winners-bracket] |
-| 말레이시아 ::{ flag=MY }:: | ::{ flag=CL }:: 칠레 | [Apr 14 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240414T150000&p1=1440&p2=122&p3=232) |  | [^potential-match] |
-| 말레이시아 ::{ flag=MY }:: | ::{ flag=FR }:: 프랑스 | [Apr 14 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240414T150000&p1=1440&p2=122&p3=195) |  | [^potential-match] |
-| 중국 ::{ flag=CN }:: | ::{ flag=CA }:: 캐나다 | [Apr 14 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240414T160000&p1=1440&p2=33&p3=188) |  | [^potential-match] |
-| 핀란드 ::{ flag=FI }:: | ::{ flag=CA }:: 캐나다 | [Apr 14 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240414T160000&p1=1440&p2=101&p3=188) |  | [^potential-match] |
-| 미국 ::{ flag=US }:: | ::{ flag=CL }:: 칠레 | [Apr 14 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240414T180000&p1=1440&p2=263&p3=232) |  | [^potential-match] |
-| 미국 ::{ flag=US }:: | ::{ flag=FR }:: 프랑스 | [Apr 14 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240414T180000&p1=1440&p2=263&p3=195) |  | [^potential-match] |
-| Finals | mappool showcase | [Apr 14 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240414T190000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| 대한민국 ::{ flag=KR }:: | ::{ flag=US }:: 미국 | [Apr 21 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240421T030000&p1=1440&p2=235&p3=263) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 대한민국 ::{ flag=KR }:: | ::{ flag=TW }:: 대만 | [Apr 21 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240421T120000&p1=1440&p2=235&p3=241) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 일본 ::{ flag=JP }:: | ::{ flag=GB }:: 영국 | [Apr 21 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240421T140000&p1=1440&p2=248&p3=136) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| 대한민국 ::{ flag=KR }:: | ::{ flag=BR }:: 브라질 | [Apr 21 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240421T150000&p1=1440&p2=235&p3=45) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 미국 ::{ flag=US }:: | ::{ flag=TW }:: 대만 | [Apr 21 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240421T160000&p1=1440&p2=263&p3=241) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 미국 ::{ flag=US }:: | ::{ flag=BR }:: 브라질 | [Apr 21 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240421T180000&p1=1440&p2=263&p3=45) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 그랜드 파이널 | 맵풀 쇼케이스 | [Apr 21 (Sun) 19:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20240421T190000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## 맵풀 목록
+
+### 파이널
+
+**[맵팩은 여기서 다운로드가 가능합니다  (168 MB)](https://packs.ppy.sh/P244%20-%20osu!taiko%20World%20Cup%202024%3A%20Finals.zip)**\
+[쇼케이스 VOD는 여기서 볼 수 있습니다](https://www.twitch.tv/videos/2119951003)
+
+- No Mod
+  1. [SatapanP ft. Hatsune Miku - Bagooon!!!!! (Skidooskei) \[NO MISS!!!!! (TWC EDIT!!!!!)\]](https://osu.ppy.sh/beatmapsets/2112567#taiko/4570747)
+  2. [Mylta - KEY (Cut Ver.) (ekumea1123) \[Crypto\]](https://osu.ppy.sh/beatmapsets/2078471#taiko/4352127)
+  3. [kessoku band - Seishun Complex (Kirairi Bootleg) (Seren58) \[Quartet\]](https://osu.ppy.sh/beatmapsets/1901991#taiko/3921191)
+  4. [Ruby My Dear - Ecureuil (SolaEclipse) \[Don't Blink\]](https://osu.ppy.sh/beatmapsets/2166520#taiko/4570829)
+  5. [Rivers of Nihil - Reign of Dreams (Xay) \[Perpetuity\]](https://osu.ppy.sh/beatmapsets/2166485#taiko/4570764)
+  6. [Sobrem - Carrot Carrot (Nurend) \[Carrot\]](https://osu.ppy.sh/beatmapsets/2166484#taiko/4570763)
+  7. [Sydosys - Serrate (\_Rise) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2166563#taiko/4570945)
+- Hidden
+  1. [flatt - Agitato (miyagishima) \[Inner Oni (TWC Edit)\]](https://osu.ppy.sh/beatmapsets/2024995#taiko/4570745)
+  2. [Supire - Nebula (Alchyr) \[Naturalborn Void\]](https://osu.ppy.sh/beatmapsets/2166486#taiko/4570766)
+- Hard Rock
+  1. [Kayoko - BORN.TO.KiLL (miyagishima) \[Inner Oni (TWC Edit)\]](https://osu.ppy.sh/beatmapsets/2106820#taiko/4421005)
+  2. [Lime - Campanella (Nwolf) \[Skyreach (TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2134225#taiko/4570779)
+- Double Time
+  1. [Houshou Marine x Yunomi - Unison (Megafan) \[Choose Me!\]](https://osu.ppy.sh/beatmapsets/1559449#taiko/3185402)
+  2. [ShinRa-Bansho - Mugen Shitto Gekijou "666" (gaston\_2199) \[Drums Theater "Final Curtain: Inner Oni"\]](https://osu.ppy.sh/beatmapsets/1772154#taiko/4332478)
+- Free Mod
+  1. [MYUKKE. - Friendly Gigant Fire (frz) \[Hell Oni (TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2049240#taiko/4570786)
+  2. [Shogo Nomura - egoist (ZTH) \[Chaos\]](https://osu.ppy.sh/beatmapsets/1915102#taiko/3950909)
+- Tiebreaker
+  1. **[TWC Sound Team "Xurv Stasis Rasufim" - Kaze no Denwa (ikin5050) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/2166504#taiko/4570795)**
 
 ### 세미파이널
 
@@ -264,6 +285,28 @@ osu!taiko 월드컵 2024는 osu!팀과 여러명의 커뮤니티 멤버들로 �
 
 ## 경기 결과
 
+### 세미파이널
+
+자세한 통계는 [여기](https://docs.google.com/spreadsheets/d/1kt4_ec0U8pw327B5nHwYo8cwCvIu2mCQUvOh4P0Untg?rm=minimal)에서 확인할 수 있습니다.
+
+Saturday, 13 April 2024:
+
+| Team A |  |  | Team B | 경기 링크 | VOD 링크 |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **중국** ::{ flag=CN }:: | **6** | 0 | ::{ flag=FI }:: 핀란드 | [#1](https://osu.ppy.sh/community/matches/113473898) | [#1](https://www.twitch.tv/videos/2118660381) |
+| **일본** ::{ flag=JP }:: | **6** | 0 | ::{ flag=BR }:: 브라질 | [#1](https://osu.ppy.sh/community/matches/113475423) | [#1](https://www.twitch.tv/videos/2118756373) |
+| **대만** ::{ flag=TW }:: | **6** | 0 | ::{ flag=CA }:: 캐나다 | [#1](https://osu.ppy.sh/community/matches/113476197) | [#1](https://www.twitch.tv/videos/2118778200) |
+| **칠레** ::{ flag=CL }:: | **6** | 2 | ::{ flag=FR }:: 프랑스 | [#1](https://osu.ppy.sh/community/matches/113478101) | [#1](https://www.twitch.tv/videos/2118876237) |
+
+Sunday, 14 April 2024:
+
+| Team A |  |  | Team B | 경기 링크 | VOD 링크 |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **미국** ::{ flag=US }:: | **6** | 1 | ::{ flag=MY }:: 말레이시아 | [#1](https://osu.ppy.sh/community/matches/113485488) | [#1](https://www.twitch.tv/videos/2119349809) |
+| **영국** ::{ flag=GB }:: | **6** | 5 | ::{ flag=KR }:: 대한민국 | [#1](https://osu.ppy.sh/community/matches/113490219) | [#1](https://www.twitch.tv/videos/2119605829) |
+| 중국 ::{ flag=CN }:: | 3 | **6** | ::{ flag=TW }:: **대만** | [#1](https://osu.ppy.sh/community/matches/113491479) | [#1](https://www.twitch.tv/videos/2119657043) |
+| **미국** ::{ flag=US }:: | **6** | 2 | ::{ flag=CL }:: 칠레 | [#1](https://osu.ppy.sh/community/matches/113495296) | [#1](https://www.twitch.tv/videos/2119880874) |
+
 ### 쿼터파이널
 
 자세한 통계는 [여기](https://docs.google.com/spreadsheets/d/1xXmKaCIfkjcCyq1msEpQUbb_SPG8u3zEe7rcbmljDP8?rm=minimal)에서 확인할 수 있습니다.
@@ -279,7 +322,7 @@ osu!taiko 월드컵 2024는 osu!팀과 여러명의 커뮤니티 멤버들로 �
 | Team A |  |  | Team B | 경기 링크 | VOD 링크 |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **말레이시아** ::{ flag=MY }:: | **6** | 2 | ::{ flag=AU }:: 오스트레일리아 | [#1](https://osu.ppy.sh/community/matches/113381374) | [#1](https://www.twitch.tv/videos/2112449785) |
-| Turkey ::{ flag=TR }:: | 2 | **6** | ::{ flag=TH }:: **태국** | [#1](https://osu.ppy.sh/community/matches/113384092) | [#1](https://www.twitch.tv/videos/2112500383) |
+| 튀르키예 ::{ flag=TR }:: | 2 | **6** | ::{ flag=TH }:: **태국** | [#1](https://osu.ppy.sh/community/matches/113384092) | [#1](https://www.twitch.tv/videos/2112500383) |
 | **핀란드** ::{ flag=FI }:: | **6** | 0 | ::{ flag=DE }:: 독일 | [#1](https://osu.ppy.sh/community/matches/113384467) | [#1](https://www.twitch.tv/videos/2112496638) |
 | **필리핀** ::{ flag=PH }:: | **6** | 0 | ::{ flag=CH }:: 스위스 | [#1](https://osu.ppy.sh/community/matches/113384931) | [#1](https://www.twitch.tv/videos/2112606526) |
 | **캐나다** ::{ flag=CA }:: | **6** | 4 | ::{ flag=RU }:: 러시아 | [#1](https://osu.ppy.sh/community/matches/113385844) | [#1](https://www.twitch.tv/videos/2112606527) |
@@ -326,7 +369,7 @@ osu!taiko 월드컵 2024는 osu!팀과 여러명의 커뮤니티 멤버들로 �
 | **중국** ::{ flag=CN }:: | **5** | 2 | ::{ flag=MY }:: 말레이시아 | [#1](https://osu.ppy.sh/community/matches/113308481) | [#1](https://www.twitch.tv/videos/2106884009) |
 | **영국** ::{ flag=GB }:: | **5** | 1 | ::{ flag=AR }:: 아르헨티나 | [#1](https://osu.ppy.sh/community/matches/113309102) | [#1](https://www.twitch.tv/videos/2106895507) |
 | 콜롬비아 ::{ flag=CO }:: | 2 | **5** | ::{ flag=ID }:: **인도네시아** | [#1](https://osu.ppy.sh/community/matches/113309695) | [#1](https://www.twitch.tv/videos/2106946835) |
-| **미국** ::{ flag=US }:: | **5** | 0 | ::{ flag=TR }:: Turkey | [#1](https://osu.ppy.sh/community/matches/113311014) | [#1](https://www.twitch.tv/videos/2107033952) |
+| **미국** ::{ flag=US }:: | **5** | 0 | ::{ flag=TR }:: 튀르키예 | [#1](https://osu.ppy.sh/community/matches/113311014) | [#1](https://www.twitch.tv/videos/2107033952) |
 | 멕시코 ::{ flag=MX }:: | 2 | **5** | ::{ flag=CH }:: **스위스** | [#1](https://osu.ppy.sh/community/matches/113311814) | [#1](https://www.twitch.tv/videos/2107105344) |
 
 ### 32강
@@ -349,7 +392,7 @@ osu!taiko 월드컵 2024는 osu!팀과 여러명의 커뮤니티 멤버들로 �
 | **말레이시아** ::{ flag=MY }:: | **5** | 3 | ::{ flag=CH }:: 스위스 | [#1](https://osu.ppy.sh/community/matches/113193076) | [#1](https://www.twitch.tv/videos/2099153913) |
 | 러시아 ::{ flag=RU }:: | 1 | **5** | ::{ flag=NL }:: **네덜란드** | [#1](https://osu.ppy.sh/community/matches/113194129) | [#1](https://www.twitch.tv/videos/2099154958) |
 | **캐나다** ::{ flag=CA }:: | **5** | 1 | ::{ flag=ID }:: 인도네시아 | [#1](https://osu.ppy.sh/community/matches/113195029) | [#1](https://www.twitch.tv/videos/2099195311) |
-| **Turkey** ::{ flag=TR }:: | **5** | 4 | ::{ flag=PL }:: 폴란드 | [#1](https://osu.ppy.sh/community/matches/113196968) | [#1](https://www.twitch.tv/videos/2099334355) |
+| **튀르키예** ::{ flag=TR }:: | **5** | 4 | ::{ flag=PL }:: 폴란드 | [#1](https://osu.ppy.sh/community/matches/113196968) | [#1](https://www.twitch.tv/videos/2099334355) |
 | **미국** ::{ flag=US }:: | **5** | 0 | ::{ flag=PE }:: 페루 | [#1](https://osu.ppy.sh/community/matches/113198976) | [#1](https://www.twitch.tv/videos/2099424977) |
 
 2024년 3월 24일 일요일:
@@ -366,7 +409,7 @@ osu!taiko 월드컵 2024는 osu!팀과 여러명의 커뮤니티 멤버들로 �
 
 ### 퀄리파이어
 
-퀄리파이어 최종 순위는 [스프레드시트](https://docs.google.com/spreadsheets/d/1m1W98_yMFveSdoYsPXk1MgIE_JDGpMDVoIpn0EUmroU?rm=minimal에서 확인할 수 있습니다. 퀄리파이어 결과/32강 맵풀 쇼케이스 VOD는 [여기](https://www.twitch.tv/videos/2093904149)에서 볼 수 있습니다.
+퀄리파이어 최종 순위는 [스프레드시트](https://docs.google.com/spreadsheets/d/1m1W98_yMFveSdoYsPXk1MgIE_JDGpMDVoIpn0EUmroU?rm=minimal)에서 확인할 수 있습니다. 퀄리파이어 결과/32강 맵풀 쇼케이스 VOD는 [여기](https://www.twitch.tv/videos/2093904149)에서 볼 수 있습니다.
 
 | 시드 | 국가 | %MAX sum[^qualifiers-seeding] | avg. score[^qualifiers-tiebreaker] |
 | :-: | :-- | --: | --: |
@@ -382,7 +425,7 @@ osu!taiko 월드컵 2024는 osu!팀과 여러명의 커뮤니티 멤버들로 �
 | #10 | ::{ flag=FR }:: 프랑스 | 76 | 3,006,013 |
 | #11 | ::{ flag=MY }:: 말레이시아 | 85 | 2,995,379 |
 | #12 | ::{ flag=FI }:: 핀란드 | 86 | 3,000,794 |
-| #13 | ::{ flag=TR }:: Turkey | 96 | 2,907,873 |
+| #13 | ::{ flag=TR }:: 튀르키예 | 96 | 2,907,873 |
 | #14 | ::{ flag=RU }:: 러시아 | 109 | 2,877,016 |
 | #15 | ::{ flag=DE }:: 독일 | 114 | 2,926,473 |
 | #16 | ::{ flag=AU }:: 오스트레일리아 | 119 | 2,917,797 |
@@ -478,7 +521,7 @@ osu!taiko 월드컵 2024는 osu!팀과 여러명의 커뮤니티 멤버들로 �
 
 1. 퀄리파이어 스테이지에선 모든 팀이 맵풀 셀렉터가 설계한 특정 맵풀에서 플레이하게 됩니다.
 2. 각 맵풀은 [No Mod](/wiki/Gameplay/Game_modifier#nomod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), [Free Mod](/wiki/Gameplay/Game_modifier#freemod)로 구성되어 있으며, 타이브레이커는 없습니다.
-3. 퀄리파이어 맵풀은 7개로 구성되어 있으며, No Mod 3개와 Hidden, Hard Rock, Double Time, FreeMod에는 1개의 맵이 있습니다.
+3. 퀄리파이어 맵풀은 7개로 구성되어 있으며, No Mod 3개와 Hidden, Hard Rock, Double Time, Free Mod에는 1개의 맵이 있습니다.
 4. 각 팀은 지정된 시간에 맵풀을 두 번 플레이해야 합니다. 팀의 최고 기록이 시드 배정에 사용됩니다.
 5. 맵풀은 이 페이지에 나열된 순서에 따라 플레이하게 됩니다.
    - 팀은 두 번째 플레이 때 비트맵 플레이를 건너뛸 수 있습니다.
@@ -524,7 +567,7 @@ osu!taiko 월드컵 2024는 osu!팀과 여러명의 커뮤니티 멤버들로 �
 ### 맵풀 정보
 
 1. 모든 스테이지에는 고유한 맵풀이 있습니다
-2. 각 맵풀은 [No Mod](/wiki/Gameplay/Game_modifier#nomod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), [FreeMod](/wiki/Gameplay/Game_modifier#freemod)로 구성되어 있습니다.
+2. 각 맵풀은 [No Mod](/wiki/Gameplay/Game_modifier#nomod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), [Free Mod](/wiki/Gameplay/Game_modifier#freemod)로 구성되어 있습니다.
 3. 맵풀별 비트맵의 개수는 다음과 같습니다:
    - 퀄리파이어: 7개의 비트맵
    - 32강과 16강: 14개의 비트맵
@@ -540,7 +583,7 @@ osu!taiko 월드컵 2024는 osu!팀과 여러명의 커뮤니티 멤버들로 �
    - Hidden + Hard Rock
 8. 실패한 점수는 계산되며, 이를 위해 [No Fail](/wiki/Gameplay/Game_modifier/No_Fail)모드를 모든 비트맵에 적용하게 됩니다.
    - 의도적으로 이 지침을 무시하고 팀 페일로 이어진 경우, 해당 비트맵에서 패배하게 됩니다.
-9. 타이브레이커는 Freemod 조건에서 진행하지만, 모드를 요구하는 사항은 적용하지 않습니다.
+9. 타이브레이커는 Free Mod 조건에서 진행하지만, 모드를 요구하는 사항은 적용하지 않습니다.
 
 ### 스케줄 정보
 
