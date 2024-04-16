@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 4390338dba70d8ad149f01408d623120cdc6aa96
+---
+
 # Actualizarea la lazer
 
 *Atenție: Încă încercăm să ne dăm seama cum să balansăm jocul și mecanicile lui. Momentan, **scorurile realizate pe lazer trebuie să nu fie considerate finale**.*
@@ -71,11 +76,11 @@ Lista de mai jos conține o înșiruire cuprinzătoare asupra **stării actuale*
 
 | Funcție | stable | lazer |
 | :-- | :-- | :-- |
-| Actualizare scoruri | ![Da][true] | ![Parțial][partial][^score-reset-balance] |
-| Clasament scoruri beatmap | ![Da][true] | ![Parțial][partial][^score-reset-isolated] |
+| Actualizare scoruri | ![Da][true] | ![Da][true] |
+| Clasament scoruri beatmap | ![Da][true] | ![Da][true] |
 | Statistici profil | ![Da][true] | ![Da][true] |
 | Medalii | ![Da][true] | ![Nu][false] |
-| Puncte de performanță | ![Da][true] | ![Parțial][partial][^score-reset-isolated] |
+| Puncte de performanță | ![Da][true] | ![Da][true] |
 | Chat în timp real | ![Parțial][partial][^stable-chat] | ![Da][true] |
 | Wiki / noutăți / actualizări / clasamente | ![Nu][false] | ![Da][true][^online-content] |
 | Profiluri de utilizator | ![Nu][false] | ![Da][true] |
@@ -290,8 +295,6 @@ Cred că ai greșit jocul.
 [^offset-calibration-lazer]: Când reîncerci un beatmap, poți calibra offset-ul bazat pe ultima ta încercare.
 [^can-disable]: Poate fi dezactivat.
 [^note-lock]: Încă există, dar nu ar trebui să încurce.
-[^score-reset-balance]: Scorurile vor fi resetate pentru a balansa jocul.
-[^score-reset-isolated]: Scorurile vor fi resetate, momentan izolate de scorurile stable.
 [^online-content]: Acces în joc la majoritatea informațiilor de pe site.
 [^direct-supporter]: Prin osu!direct, doar ca suporter osu!.
 [^supporter]: Doar ca suporter osu!.

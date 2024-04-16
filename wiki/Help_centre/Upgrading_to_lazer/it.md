@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 4390338dba70d8ad149f01408d623120cdc6aa96
+---
+
 # Aggiornare a lazer
 
 *Avviso: Stiamo ancora cercando di bilanciare e di sistemare le meccaniche di gioco. Per ora, **i punteggi che sono stati effettuati su lazer non devono essere considerati permanenti**.*
@@ -71,11 +76,11 @@ Di seguito verrà rappresentata una lista dello **stato attuale** di lazer in co
 
 | Funzionalità | stable | lazer |
 | :-- | :-- | :-- |
-| Ricezione del punteggio | ![Sì][true] | ![Parziale][partial][^score-reset-balance] |
-| Classifiche per beatmap | ![Sì][true] | ![Parziale][partial][^score-reset-isolated] |
+| Ricezione del punteggio | ![Sì][true] | ![Sì][true] |
+| Classifiche per beatmap | ![Sì][true] | ![Sì][true] |
 | Statistiche del profilo | ![Sì][true] | ![Sì][true] |
 | Medaglie | ![Sì][true] | ![No][false] |
-| Punti performance | ![Sì][true] | ![Parziale][partial][^score-reset-isolated] |
+| Punti performance | ![Sì][true] | ![Sì][true] |
 | Chat in tempo reale | ![Parziale][partial][^stable-chat] | ![Sì][true] |
 | Wiki / news / changelog / classifiche | ![No][false] | ![Sì][true][^online-content] |
 | Profilo Utente | ![No][false] | ![Sì][true] |
@@ -290,8 +295,6 @@ Probabilmente stai pensando ad un altro gioco.
 [^offset-calibration-lazer]: Quando si riprova una beatmap, è possibile calibrare l'offset in base all'ultima esecuzione.
 [^can-disable]: Può essere disabilitato.
 [^note-lock]: Esiste ancora, ma non dovrebbe interferire.
-[^score-reset-balance]: I punteggi saranno azzerati per garantire l'equilibrio.
-[^score-reset-isolated]: I punteggi saranno azzerati, attualmente isolati dai punteggi stabili.
 [^online-content]: Accesso nativo alla maggior parte dei contenuti online.
 [^direct-supporter]: Via osu!direct, solo per osu!supporter.
 [^supporter]: Solo per osu!supporter.

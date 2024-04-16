@@ -8,6 +8,8 @@ tags:
   - ГД
   - гостевая дифка
   - гостевая диффка
+outdated_translation: true
+outdated_since: 027b9fddf66f3afb730270124a3771ae09ad8f77
 ---
 
 # Гостевая сложность
