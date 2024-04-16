@@ -27,7 +27,7 @@
 
 ## 歌曲设定 (Song setup)
 
-[歌曲设定 (Song setup)](/wiki/Client/Beatmap_editor/Song_setup) 设置谱面的[元数据](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-metadata)，以及对谱面普遍存在的其他东西。这包括歌曲名、艺术家、难度名、连击颜色等等。
+[歌曲设定 (Song setup)](/wiki/Client/Beatmap_editor/Song_setup) 设置谱面的[元数据](/wiki/Client/Beatmap_editor/Song_setup#基本设定-(general))，以及对谱面普遍存在的其他东西。这包括歌曲名、艺术家、难度名、连击颜色等等。
 
 ## 其他
 
