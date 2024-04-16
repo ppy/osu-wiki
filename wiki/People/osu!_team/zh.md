@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: 7b4493e78ed64476dfbceea2330c8892b58ad8c8
 tags:
   - osu! staff
   - osu!staff
@@ -41,11 +39,12 @@ tags:
 | ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web 开发者 |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [管理员](/wiki/People/Global_Moderation_Team)，摸图和作图领域顾问 |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [osu! YouTube 频道](https://www.youtube.com/@osugame)主，[谱师工会 (Mappers' Guild)](/wiki/Community/Mappers_Guild) 组织者，精选艺术家募集者 |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | [审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 领导 |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | 摸图和作图领域顾问 |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [管理员](/wiki/People/Global_Moderation_Team)，[wiki 维护员](/wiki/People/osu!_wiki_maintainers) |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | 秩序维护员 |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | osu! 开发者，osu!mania 社区喜爱评估者，bug 杀手（测试工程师） |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | osu! 开发者 |
+| ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | 设计者 |
 | ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) | osu! 底层开发者 |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | 秩序维护员，锦标赛援助 |
 | ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | 秩序维护员，清扫者 |

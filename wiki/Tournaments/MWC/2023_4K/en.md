@@ -554,7 +554,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 ### Qualifier instructions
 
 1. In the Qualifier stage, all teams will play a specific pool designed by the mappool selectors.
-2. The Qualifier pool contains 8 maps, all of which will use [Free Mod](/wiki/Gameplay/Game_modifier#freemod) rules. There will be no tiebreakers for this stage.
+2. The Qualifier pool contains 8 maps, all of which will use [Free Mod](/wiki/Gameplay/Game_modifier#free-mod) rules. There will be no tiebreakers for this stage.
 3. Teams will be asked to play the mappool twice at a designated time. The team's best playthrough will be used for seeding.
 4. The mappool is to be played according to the order listed on this page.
    - Teams may skip playing any beatmap on their second run.
@@ -586,7 +586,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
    2. The loser of the `!roll` starts banning one beatmap, followed by the winner of the `!roll` to ban a beatmap.
    3. The winner of the `!roll` starts picking the first beatmap of the match.
 3. After bans are decided, both teams will take turns in picking a beatmap from the mappool.
-4. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than alloted for either action, the procedures adopted will be as follows:
+4. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than allotted for either action, the procedures adopted will be as follows:
    - For the first occurrence:
      - The team will receive a verbal warning from the referee; in addition, the referee may opt to forcefully use the team's tactical timeout to allow for the team to pick.
      - If the team does not pick a map within 15 seconds from when the timer expires, the referee will apply the procedure for subsequent occurrences listed below, i.e. a random pick will be used for a pick timer, and the match will be forcefully started for a ready timer.
@@ -601,7 +601,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 ### Mappool instructions
 
 1. Every stage will have its own mappool.
-2. Each mappool consists of a fixed amount of maps each stage, all of which will be played under [Free Mod](/wiki/Gameplay/Game_modifier#freemod) conditions.
+2. Each mappool consists of a fixed amount of maps each stage, all of which will be played under [Free Mod](/wiki/Gameplay/Game_modifier#free-mod) conditions.
 3. The mappool sizes are as follows:
    - Qualifiers: 8 beatmaps
    - Round of 32: 13 beatmaps

@@ -1,7 +1,3 @@
----
-no_native_review: true
----
-
 # .osz (định dạng tệp)
 
-**.osz** là một lưu trữ tệp tổng thể, bao gồm những beatmap và các thứ khác như skin hoặc hitsound.
+**.osz** là một nơi lưu trữ tổng thể các tệp, bao gồm những beatmap và những thứ khác như skin hoặc hitsound.

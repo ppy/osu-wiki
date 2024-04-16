@@ -5,7 +5,7 @@ outdated_since: f714d893c0500d01629c73bb90c0f16bee32843e
 
 # Medali
 
-**Medali**, sebelumnya dikenal sebagai *achievement*/pencapaian, adalah lencana-lencana yang diletakkan pada profil pengguna untuk mengindikasikan target tertentu yang telah dicapai oleh pengguna. Saat ini, ada **314** medali yang dapat dibuka dalam delapan kategori yang berbeda secara keseluruhan, yaitu: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights), dan [Beatmap Challenge Packs](#beatmap-challenge-packs).
+**Medali**, sebelumnya dikenal sebagai *achievement*/pencapaian, adalah lencana-lencana yang diletakkan pada profil pengguna untuk mengindikasikan target tertentu yang telah dicapai oleh pengguna. Saat ini, ada **324** medali yang dapat dibuka dalam delapan kategori yang berbeda secara keseluruhan, yaitu: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights), dan [Beatmap Challenge Packs](#beatmap-challenge-packs).
 
 ## Beatmap Packs
 
