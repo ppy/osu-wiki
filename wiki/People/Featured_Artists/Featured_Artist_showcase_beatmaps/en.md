@@ -773,7 +773,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 
 ## 2024
 
-### Febraury
+### February
 
 - **[Rocket Start](https://osu.ppy.sh/home/news/2024-02-03-new-featured-artist-rocket-start)** (2024-02-03)
   - (![][osu!]) [Rocket Start - Sushi Blast](https://osu.ppy.sh/beatmapsets/2069690#osu/4330639) hosted by ::{ flag=UZ }:: [Shmiklak](https://osu.ppy.sh/users/5504231)
