@@ -63,7 +63,7 @@ Give this map a vote, and if it's Loved, you'll get to see how well your streami
 110 – 220 BPM, 1:16 | 2.23★, 2.51★, 2.68★, 3.52★, 5.38★\
 *description written by [Mismagius](https://osu.ppy.sh/users/19048)*
 
-\*It's a piece of cake to bake a pretty cake\~* \[b\](WHAT!)[/b\]
+*It's a piece of cake to bake a pretty cake\~* **(WHAT!)**
 
 For this month's Outstanding Oldies, we've got what could definitely be called a Meme Monstrosity. [GladiOol](https://osu.ppy.sh/users/23326), Remco32, and Lesjuh bring us what could only be described as one of the most genuine 2009 beatmaps out there, and it's no wonder it's a staple pick for many old map tournaments out there. Of course, as with any 2009 beatmap, you'll probably want to check your low-AR reading and wide angle jump skills before attempting this one. But, at the very least, this time we've got a full mapset for any skill level to enjoy! It should be a piece of cake.
 
