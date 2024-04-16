@@ -651,7 +651,7 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!]) [kakichoco - Zan'ei](https://osu.ppy.sh/beatmapsets/1888928) hosted by ::{ flag=RU }:: [PandaHero](https://osu.ppy.sh/users/1233255)
   - (![][osu!]) [kakichoco - Reirou no Hibiki](https://osu.ppy.sh/beatmapsets/1853651) hosted by ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302)
 
-### Febraury
+### February
 
 - **[FRASER EDWARDS](https://osu.ppy.sh/home/news/2023-02-04-new-featured-artist-fraser-edwards)** (2023-02-04)
   - (![][osu!]) [FRASER EDWARDS - Ruination](https://osu.ppy.sh/beatmapsets/1848184) hosted by ::{ flag=GB }:: [Shii](https://osu.ppy.sh/users/9186316)
