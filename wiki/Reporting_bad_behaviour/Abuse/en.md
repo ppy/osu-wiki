@@ -68,7 +68,7 @@ If anything you want to include makes you feel embarrassed, please blank it out.
 
 We'll look into it as soon as we can.
 
-## Someone I know is being abused by a member of the volunteer teams (NAT, GMT), but is too afraid to speak up!
+## Someone I know is being abused by a member of the volunteer teams (NAT, GMT) but is too afraid to speak up!
 
 Send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing everything you know with as much evidence as you can get.
 
