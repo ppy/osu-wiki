@@ -77,7 +77,7 @@ What would VOCALOID be without its mascots? For a contest featuring **iroha(sasa
 
 | Placing | Prize(s) |  |
 | :-: | :-- | :-- |
-| 1st place | Custom *VMC 2 Winner* VOCALOID plushie\*, 6 months of osu!supporter, [*Elite Mapper* contest points](/wiki/Contests/Contest_points), *VMC 2 Winner* profile badge | ![](/wiki/Contests/VMC/2/img/vmcwinnerbadge.png) |
+| 1st place | Custom *VMC 2 Winner* VOCALOID plushie\*, 6 months of osu!supporter, [*Elite Mapper* contest points](/wiki/Contests/Contest_points), *VMC 2 Winner* profile badge | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
 | 2nd place | 2 months of osu!supporter, [*Elite Mapper* contest points](/wiki/Contests/Contest_points) |  |
 | 3rd place | 1 month of osu!supporter, [*Elite Mapper* contest points](/wiki/Contests/Contest_points) |  |
 
