@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Sistema de juicio de osu!mania
 
 ## Juicios
