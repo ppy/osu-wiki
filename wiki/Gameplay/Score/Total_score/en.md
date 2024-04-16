@@ -4,7 +4,7 @@
 
 The **total score** is the total sum of all scores on all beatmaps, including failed attempts.
 
-If a player plays a ranked song for the first time and gets 500k, both ranked and total score increase by 500k. Then, the player plays again and gets 400k, only the total score increases by 400k.
+If a player sets a record on a ranked beatmap for the first time, both their [ranked score](/wiki/Gameplay/Score/Ranked_score) and total score increase by that amount. Afterwards, total score grows with every new result submission, while ranked score only increases if the player has improved their record.
 
 ## Level
 

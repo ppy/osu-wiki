@@ -22,19 +22,21 @@ Immediately block the user by right-clicking their username and selecting `Ignor
 
 You should also report them immediately by clicking the `Report User` button and filling in the prompts.
 
+You can also report the user by typing `!report <person> <problem>`, where  `<person>` is the username of the person causing you problems, and `<problem>` is a short explanation of the problems. If there are spaces in the person's username, please replace them with underscores (`_`).
+
 If you feel the remarks/advances were highly inappropriate or you are an underage user, please send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing as much information as possible.
 
 ### In a public post on the osu! forums
 
-Report the post to any member of our [Global Moderation Team](/wiki/People/Global_Moderation_Team) as soon as possible.
+[Report the post](/wiki/Reporting_bad_behaviour#forum) to our [Global Moderation Team](/wiki/People/Global_Moderation_Team) as soon as possible.
 
-To do so, click the username of any GMT member in the list on that page. This will take you to their profile. If you are unsure of who to click, just use [this link instead](https://osu.ppy.sh/users/102335).
+To do so, click the `Report post` button in the top right corner of the forum post.
+
+Alternatively, click the username of any GMT member in the list on that page. This will take you to their profile. If you are unsure of who to click, just use [this link instead](https://osu.ppy.sh/users/102335).
 
 Click the button with an envelope in it just below the user's country flag. This will take you to the chat screen.
 
 Paste a link to the forum post that contains the problematic content and tell the GMT a little bit about what's going on. They will remove the post for you as soon as they are able.
-
-You can also report the post by opening up your game and typing `!report <person> <problem>`, where  `<person>` is the username of the person causing you problems, and `<problem>` is the link to the post followed by a short explanation. If there are spaces in the person's username, please replace them with underscores (`_`).
 
 If the post still isn't gone within a reasonable timeframe, please send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing as much information as possible.
 
@@ -60,9 +62,9 @@ If the tweet is from an account which is linked to an osu! player's profile via 
 
 ## A member of one of the volunteer teams (NAT, GMT) is approaching/talking/acting towards me inappropriately!
 
-Send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing as much information as possible **immediately**.
+Send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing as much information as possible **immediately**. This includes screenshots, chat logs, basically anything you can attach to an email.
 
-If anything you want to include makes you feel embarrassed, please blank it out. This includes screenshots, chat logs, basically anything you can attach to an email.
+If anything you want to include makes you feel embarrassed, please blank it out. 
 
 We'll look into it as soon as we can.
 
@@ -71,3 +73,9 @@ We'll look into it as soon as we can.
 Send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing everything you know with as much evidence as you can get.
 
 If you don't have any evidence but only stories or rumours that you believe are substantial enough to act on, please send us an email anyway. We take complaints like this very seriously and will look deeply into every report.
+
+## My email has been ignored!
+
+If you haven't received a response to your email after a couple of weeks, please send a follow-up email.
+
+The email was most likely lost somewhere along the way, but we still want to investigate your report.
