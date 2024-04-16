@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Comandos para la gestión de torneos
 
 Los siguientes comandos del chat se proporcionan para la gestión remota de las salas de torneos multijugador:
