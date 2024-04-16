@@ -1,3 +1,5 @@
+no_native_review: true
+
 separator: ", "
 alumni:
   roles:
