@@ -575,7 +575,7 @@ Sunday, 14 April 2024:
    - 파이널과 그랜드 파이널: 16개의 비트맵
 4. 퀄리파이어를 제외한 각각의 맵풀에는 1개의 타이브레이커가 있습니다.
 5. No Mod에서는 [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) 모드를 사용하게 됩니다.
-6. [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time)맵풀에서는 해당 모드와 함께 No Fail 모드를 사용합니다.
+6. [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) 맵풀에서는 해당 모드와 함께 No Fail 모드를 사용합니다.
 7. [Free Mod](/wiki/Gameplay/Game_modifier#freemod)에서는 모드를 자유롭게 선택할 수 있습니다. 각 플레이어의 유효한 모드 조합은 아래와 같습니다:
    - [No Mod](/wiki/Gameplay/Game_modifier#nomod) 즉, 모드를 사용하지 않습니다.
    - Hidden
