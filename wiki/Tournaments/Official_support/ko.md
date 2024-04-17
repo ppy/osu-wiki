@@ -13,7 +13,7 @@ tags:
 
 [osu! 팀](/wiki/People/osu!_team)은 특정 기대치를 준수하여 추가적인 지원을 주는 프로그램을 운영합니다.
 
-이 문서는 2024년 4월 9일에 마지막으로 업데이트되었습니다. 전체적인 변경 사항을 보려면 [tournament support updates 스레드](https://osu.ppy.sh/community/forums/topics/1715676)를 확인하세요. 질문 또는 설명이 필요한 경우 [osu! 디스코드 서버](https://discord.com/invite/ppy)의 #tournaments를 참조하거나 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)를 통해 [계정 지원팀](/wiki/People/Account_support_team)에게 메일을 보내주세요.
+이 문서는 2024년 4월 9일에 마지막으로 업데이트되었습니다. 전체적인 변경 사항을 보려면 [tournament support updates](https://osu.ppy.sh/community/forums/topics/1715676)를 확인하세요. 질문 또는 설명이 필요한 경우 [osu! 디스코드 서버](https://discord.com/invite/ppy)의 #tournaments를 참조하거나 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)를 통해 [계정 지원팀](/wiki/People/Account_support_team)에게 메일을 보내주세요.
 
 ## 혜택
 
@@ -42,6 +42,7 @@ tags:
   - osu!mania: 40,000
   - 오픈 랭크 토너먼트에선 적용되지 않습니다.
 - 공식 지원을 받는 토너먼트는 대회에 관한 모든 [기대치](#기대치)를 준수해야 합니다.
+  - 본선 토너먼트로 이어지는 예선 이벤트의 경우에도 일반적인 토너먼트와 같은 [기대치](#기대치)를 준수해야 합니다.
 
 ## 토너먼트 지원 요청
 
