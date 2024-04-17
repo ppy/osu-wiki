@@ -20,7 +20,7 @@ You know the drill: first we cover the mappool and the new [osu! originals](/wik
     }
 </style>
 
-[**Download the pool here! (78 MB)**](https://osu.ppy.sh/beatmaps/packs/P243)
+[**Download the pool here! (118 MB)**](https://osu.ppy.sh/beatmaps/packs/P243)
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=v2113703930&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
