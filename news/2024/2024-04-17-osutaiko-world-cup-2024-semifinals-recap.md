@@ -79,7 +79,7 @@ Yeah yeah, very funny indeed. Here are the results.
 
 There's South Korea. Former podium-placers. A team with several top 50 players and tournament veterans, well rounded and fit to cover everything the mappools have to offer. Seeding 3rd with balanced placements across the board. Then there's the United Kingdom, former podium-placers. A team with top 50 players and tournament veterans, well rounded and fit to…
 
-Hey… Wait a minute… Aren't they basically the same? Looking at the stats, the only thing separating these guys' seedings is a rank sum difference of *two*. And you're telling me they're up against each other now? In the winners' bracket semifinals?! In a battle to secure the aforementioned podium placement?! (Localized entirely within your kitchen?!)
+Hey… Wait a minute… Aren't they basically the same? Looking at the stats, the only thing separating these guys' seedings is a rank sum difference of *two*. And you're telling me they're up against each other now? In the winners' bracket semifinals?! In a battle to secure the aforementioned podium placement?! (Localised entirely within your kitchen?!)
 
 Well you better strap in, because this was exactly the type of roller coaster match you're imagining.
 
