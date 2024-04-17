@@ -542,7 +542,7 @@ Qualifier results:
 ### Qualifier instructions
 
 1. In the Qualifier stage, all teams will play a specific pool designed by the mappool selectors.
-2. The mappool will contain 5 brackets: [NoMod](/wiki/Gameplay/Game_modifier#nomod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), and [FreeMod](/wiki/Gameplay/Game_modifier#freemod). There will be no tiebreakers for this stage.
+2. The mappool will contain 5 brackets: [NoMod](/wiki/Gameplay/Game_modifier#no-mod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), and [FreeMod](/wiki/Gameplay/Game_modifier#free-mod). There will be no tiebreakers for this stage.
 3. The Qualifier pool will contain 10 maps. There will be 3 maps under the NoMod bracket, 2 maps for the Hidden, Hard Rock, and Double Time brackets, and 1 map for the FreeMod bracket.
 4. Teams will have to play the mappool twice at a designated time.
    - Teams may skip individual maps or the second run altogether if they so desire.
@@ -589,7 +589,7 @@ Qualifier results:
 ### Mappool instructions
 
 1. There will be 1 mappool for every stage of the tournament
-2. Each mappool consists of 5 brackets: [NoMod](/wiki/Gameplay/Game_modifier#nomod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) and [FreeMod](/wiki/Gameplay/Game_modifier#freemod).
+2. Each mappool consists of 5 brackets: [NoMod](/wiki/Gameplay/Game_modifier#no-mod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) and [FreeMod](/wiki/Gameplay/Game_modifier#free-mod).
 3. The Qualifiers Stage mappool will consist of 10 maps, Round of 32 and Round of 16 will consist of 14 maps, Quarterfinals and Semifinals will consist of 15 maps, and the Finals and Grand Finals mappools will consist of 16 maps.
 4. Every mappool, except for the Qualifier stage, will contain a tiebreaker beatmap. It will only be played in case of a tie in the scoreline in the best of system, e.g. the scoreline is 4-4 and the match is best of 9, the tiebreaker shall be played.
 5. The NoMod bracket will be played with the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod activated.
