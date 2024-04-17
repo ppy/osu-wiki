@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!taiko World Cup 2024: Semifinals Recap"
-date: 2024-04-17 22:00:00 +0000
+date: 2024-04-17 21:00:00 +0000
 ---
 
 Catch up on the latest and greatest from the previous week of the osu!taiko World Cup!
