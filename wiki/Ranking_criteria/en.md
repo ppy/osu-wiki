@@ -194,6 +194,7 @@ This category contains explicit allowance statements of concepts and rules that 
 
 ### Rules
 
+- **The song must adhere to [content usage permissions](/wiki/Rules/Content_usage_permissions#artist-permissions)**. For artists or tracks which are listed as disallowed on the page, their songs may only be ranked if explicit permission for the track is given to the mapset host. Proof of permission must be presented in the beatmap description or the discussion page.
 - **The audio file of a beatmap must...**
   - **...use the `.mp3` or `.ogg` file format.**
   - **...have an average bit rate no greater than 192 kbps for `.mp3` files, or 208 kbps for `.ogg` files.**

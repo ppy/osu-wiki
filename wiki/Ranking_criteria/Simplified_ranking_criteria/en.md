@@ -91,6 +91,7 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 
 ### Song
 
+- **Make sure the song adheres to [content usage permissions](/wiki/Rules/Content_usage_permissions#artist-permissions)**
 - **Use `.mp3` or `.ogg` file formats.**
   - At most 192 kbps for `.mp3` files.
   - At most 208 kbps for `.ogg` files.
