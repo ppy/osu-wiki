@@ -10,7 +10,7 @@ Catch up on the latest and greatest from the previous week of the osu!taiko Worl
 
 The brackets are slowly solidifying, and with that we are getting a glimpse of what the final few weeks of the tournament will look like. While there is only 1 match we'd like to showcase this week, it's a banger worth your time, whether you just read the recap, or watch the VOD of the entire match.
 
-You know the drill: first we cover the mappool and the new [osu! originals](/wiki/en/osu!_originals), then the full results, then we jump onto the highlights.
+You know the drill: first we cover the mappool and the new [osu! originals](/wiki/osu!_originals), then the full results, then we jump onto the highlights.
 
 ## Mappool showcase
 
