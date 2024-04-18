@@ -33,6 +33,7 @@ Community-run tournaments which abide by the following hard criteria are eligibl
 - The forum threads associated with the tournament — this includes forum threads for any preliminary events — **MUST** contain a clearly visible link in a normal-sized font to the [tournament reports form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
   - `https://pif.ephemeral.ink/tournament-reports`
   - This report form is overseen by the [Tournament Committee](/wiki/People/Tournament_Committee). We encourage all users — players and staff alike — to make use of this form where necessary. Any breaches of [expectations](#expectations), [other procedures](#other-procedures), or [eligibility](#eligibility) requirements should prompt a report.
+- The tournament must only use beatmaps of songs which abide by the [Content Usage Permissions](/wiki/Rules/Content_usage_permissions#artist-permissions). Any usage of tracks which are explicitly disallowed will revoke a tournament's eligibility for support. See the [Ranking Criteria](/wiki/Ranking_criteria#rules.4) for details regarding exceptions for artists or tracks which are listed as disallowed on the Content Usage Permissions.
 - The tournament only allows players of exceptional skill to participate, disallowing players lower than the following ranks in each game mode:
   - osu!: 100,000
   - osu!taiko: 10,000
