@@ -2,6 +2,7 @@
 tags:
   - OWC 2015
   - OWC2015
+outdated_translation: true
 ---
 
 # osu! World Cup 2015
