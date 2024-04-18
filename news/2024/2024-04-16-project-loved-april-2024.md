@@ -39,7 +39,7 @@ The osu! Loved candidates were chosen by [Aistre](https://osu.ppy.sh/users/48793
 
 <div align="center">
   <video width="95%" controls>
-    <source src="https://assets.ppy.sh/project-loved/2024/apr24-osu.mp4" type="video/mp4" preload="none">
+    <source src="https://assets.ppy.sh/project-loved/2024/apr24-osu.mp4?1" type="video/mp4" preload="none">
   </video>
 </div>
 
@@ -198,7 +198,7 @@ The osu!taiko Loved candidates were chosen by [aceticke](https://osu.ppy.sh/user
 
 <div align="center">
   <video width="95%" controls>
-    <source src="https://assets.ppy.sh/project-loved/2024/apr24-taiko.mp4" type="video/mp4" preload="none">
+    <source src="https://assets.ppy.sh/project-loved/2024/apr24-taiko.mp4?1" type="video/mp4" preload="none">
   </video>
 </div>
 
