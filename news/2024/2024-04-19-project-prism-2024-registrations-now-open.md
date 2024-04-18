@@ -33,7 +33,7 @@ Check out the opening video below for a succinct summary of everything the tourn
 | Finals | June 22–June 23 |
 | Grand Finals | June 29–June 30 |
 
-### Prizes
+## Prizes
 
 - **1st:** Physical trophy, merchandise, profile badge (pending)
 - **2nd:** Physical trophy, merchandise
