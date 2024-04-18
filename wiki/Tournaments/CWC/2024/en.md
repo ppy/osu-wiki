@@ -35,7 +35,6 @@ The osu!catch World Cup 2024 offers a $2,000 cash prize pool and limited-edition
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool, single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
-
 ## Organisation
 
 The osu!catch World Cup 2024 is run by various community members.
