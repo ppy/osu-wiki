@@ -54,7 +54,7 @@ The osu!catch World Cup 2024 is run by various community members.
 ## Links
 
 - **[Sign-up here](https://osu.ppy.sh/community/tournaments/44)**
-- [Discussion thread]({DISC_THREAD})
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1911198)
 - [Livestream](https://www.twitch.tv/osulive)
 
 ## Ruleset

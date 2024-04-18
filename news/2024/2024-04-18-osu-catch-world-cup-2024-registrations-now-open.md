@@ -4,15 +4,13 @@ title: "osu!catch World Cup 2024: Registrations Now Open!"
 date: 2024-04-18 12:00:00 +0000
 ---
 
-Get ready to catch a spot on the latest iteration of the osu!catch World Cup 2024, back for its 13th instalment! 
-
-Attention all drum smashers, the osu!taiko World Cup is back for its 14th instalment!
+Get ready to catch a spot on the latest iteration of the osu!catch World Cup 2024, back for its 13th instalment!
 
 ![](/wiki/Tournaments/CWC/2024/img/cwc2024-banner.jpg)
 
-The osu! World Cup train has exactly 6 stops planned for this year, with the osu! catch World Cup being next on the itinerary. There are no major changes for this year's iteration, the main focus is to polish the existing format.
+The osu! World Cup train has exactly 6 stops planned for this year, with the osu! catch World Cup being next in the itinerary. There are no major changes for this year's iteration, as the main focus is to polish the existing format.
 
-Refer to the **[osu!catch World Cup 2024 wiki article](/wiki/Tournaments/CWC/2024)** for more information regarding the tournament. You can also discuss this event in the **[official discussion thread]({DISC_THREAD})** or the public **[community server](https://discord.gg/0Vxo9AsejDkGlk3H)**.
+Refer to the **[osu!catch World Cup 2024 wiki article](/wiki/Tournaments/CWC/2024)** for more information regarding the tournament. You can also discuss this event in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/1911198)** or the public **[community server](https://discord.gg/0Vxo9AsejDkGlk3H)**.
 
 ## Tournament schedule
 
