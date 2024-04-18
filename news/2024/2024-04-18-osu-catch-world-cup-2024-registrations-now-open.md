@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!catch World Cup 2024: Registrations Now Open!"
-date: 2024-04-18 12:00:00 +0000
+date: 2024-04-18 03:00:00 +0000
 ---
 
 Get ready to catch a spot on the latest iteration of the osu!catch World Cup 2024, back for its 13th instalment!
