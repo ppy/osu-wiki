@@ -76,7 +76,7 @@ Detailed information can be found on the [website](https://prism.osumalaysia.org
 
 1. Registrations must be submitted through the [website](https://prism.osumalaysia.org/registration).
 2. All registered players will undergo an initial screening process by the osu! staff and any players who do not pass the screening will not be eligible to participate in the tournament. Results of the screening will be announced in the Discord server.
-3. Players **must** join the [Discord server](https://discord.com/invite/sJK3rMdfwC) to be eligible for the tournament.
+3. Players **must** join the [Discord server](https://discord.com/invite/osutaikomy) to be eligible for the tournament.
 
 ### Tournament information
 
