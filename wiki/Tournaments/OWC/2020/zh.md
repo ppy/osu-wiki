@@ -39,7 +39,7 @@ osu! 2020 世界杯提供 $5,000 现金奖池和限定周边。
 | ![银冠](/wiki/shared/crown-silver.png "亚军") | 瓜分 36% 现金奖池，独家周边以及个人资料徽章 |
 | ![铜冠](/wiki/shared/crown-bronze.png "季军") | 瓜分 14% 现金奖池，独家周边以及个人资料徽章 |
 
-![](img/badge.png "OWC 2020 冠军个人资料徽章") ![](img/badge2.png "OWC 2020 亚军个人资料徽章") ![](img/badge3.png "OWC 2020 季军个人资料徽章")
+![](https://assets.ppy.sh/profile-badges/badge_owc2020_winner.png "OWC 2020 冠军个人资料徽章") ![](https://assets.ppy.sh/profile-badges/badge_owc2020_2nd.png "OWC 2020 亚军个人资料徽章") ![](https://assets.ppy.sh/profile-badges/badge_owc2020_3rd.png "OWC 2020 季军个人资料徽章")
 
 ## 工作人员
 
