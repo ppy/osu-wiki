@@ -59,7 +59,7 @@ And here's the kicker:
 
 Tournament participation is available for all osu!taiko players, with the exception of those that have **violated the osu! Community rules within the past 12 months.**
 
-Joining the official [osu!taiko Malaysia Discord Server](https://discord.com/invite/sJK3rMdfwC) is mandatory for all tournament participants, but we also highly everyone else to join in as well for frequent updates on the event, including the Raid Battles! Alternatively, [stay up to date with the happenings on Twitter](https://twitter.com/osutaikomy).
+Joining the official [osu!taiko Malaysia Discord Server](https://discord.com/invite/sJK3rMdfwC) is mandatory for all tournament participants, but we also highly everyone else to join in as well for frequent updates on the event, including the Raid Battles! Alternatively, [stay up to date with the happenings on Twitter](https://twitter.com/osutaikomy) or [bookmark the wiki page](/wiki/Tournaments/Project_Prism/2024).
 
 See you at the raid!
 
