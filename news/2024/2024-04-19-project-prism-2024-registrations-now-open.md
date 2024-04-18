@@ -39,7 +39,7 @@ Check out the opening video below for a succinct summary of everything the tourn
 
 Project Prism introduces a *Raid Battle* system, where players cooperate to defeat boss characters by submitting scores on Project Prism's tiebreaker beatmaps!
 
-Each boss character is associated with an original tiebreaker song release each week starting from the Round of 32. An introductory round featuring "I.R.I.S" is available before then.
+Each boss character is associated with an original tiebreaker song release each week starting from the Round of 32. An introductory round is available before then (or in other words *right now*), featuring osu!taiko Malaysia's poster girl IRIS.
 
 ![](/wiki/Tournaments/Project_Prism/2024/img/character-cards.png)
 
