@@ -8,7 +8,7 @@ Welcome to Project Prism, a 1v1 open-ranked osu!taiko tournament with a unique R
 
 ![](/wiki/shared/news/2024-04-19-project-prism-2024-registrations-now-open/banner.jpg)
 
-As the successor to the [osu!taiko Malaysian Tournament (OTMT)](/wiki/Tournaments/OTMT/2022) and [Global Taiko Malaysian Showdown (GTMS)](https://gtsosu.com/gtms/home) series, [Project Prism](https://prism.osumalaysia.org/) bursts through the gates endeavouring to deliever a brand-new osu! tournament experience, featuring a full storyline, **seven** (7) original characters, music releases, artworks, and much more!
+As the successor to the [osu!taiko Malaysian Tournament (OTMT)](/wiki/Tournaments/OTMT/2022) and [Global Taiko Malaysian Showdown (GTMS)](https://gtsosu.com/gtms/home) series, [Project Prism](https://prism.osumalaysia.org/) bursts through the gates endeavouring to deliver a brand-new osu! tournament experience, featuring a full storyline, **seven** (7) original characters, music releases, artworks, and much more!
 
 Not too keen on competing in the tournament side of things? We got you covered. The event also includes a special Raid Battle system, available for everyone to participate in! Read on to find out more.
 
@@ -57,7 +57,7 @@ And here's the kicker:
 
 **[Click here!](https://prism.osumalaysia.org/registration)**
 
-Tournament participation is available for all osu!taiko players, with the exception of those that have **violated the osu! Community rules within the past 12 months.**
+Tournament participation is available for all osu!taiko players, except those that have **violated the osu! Community rules within the past 12 months.**
 
 Joining the official [osu!taiko Malaysia Discord Server](https://discord.com/invite/osutaikomy) is mandatory for all tournament participants, but we also highly everyone else to join in as well for frequent updates on the event, including the Raid Battles!
 
