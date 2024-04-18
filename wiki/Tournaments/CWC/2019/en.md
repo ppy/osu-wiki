@@ -31,7 +31,7 @@ The **osu!catch World Cup 2019** (***CWC 2019***) was a country-based osu!catch 
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, Unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, Unique profile badge |
 
-![](img/badge.jpg "CWC 2019 winner badge") ![](img/badge2.jpg "CWC 2019 2nd place badge") ![](img/badge3.jpg "CWC 2019 3rd place badge")
+![](https://assets.ppy.sh/profile-badges/cwc2019_winner.png "CWC 2019 winner badge") ![](https://assets.ppy.sh/profile-badges/cwc2019_2nd.png "CWC 2019 2nd place badge") ![](https://assets.ppy.sh/profile-badges/cwc2019_3rd.png "CWC 2019 3rd place badge")
 
 ## Organisation
 

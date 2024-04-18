@@ -31,7 +31,7 @@ The **osu!taiko World Cup 2021** (***TWC 2021***) was a country-based osu!taiko 
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, unique profile badge |
 
-![](img/badge1.png "TWC 2021 winner badge") ![](img/badge2.png "TWC 2021 2nd place badge") ![](img/badge3.png "TWC 2021 3rd place badge")
+![](https://assets.ppy.sh/profile-badges/badge_twc2021_winner.png "TWC 2021 winner badge") ![](https://assets.ppy.sh/profile-badges/badge_twc2021_winner-1.png "TWC 2021 2nd place badge") ![](https://assets.ppy.sh/profile-badges/badge_twc2021_winner-3.png "TWC 2021 3rd place badge")
 
 ## Organisation
 

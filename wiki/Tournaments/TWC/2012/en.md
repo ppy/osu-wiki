@@ -33,7 +33,7 @@ The **Taiko World Cup 2012** (***TWC 2012***) was a country-based osu!taiko tour
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 | *Special* | 1 month of osu!supporter |
 
-![](img/badge.jpg "TWC 2012 winner badge")
+![](https://assets.ppy.sh/profile-badges/twc2@2x.png "TWC 2012 winner badge")
 
 ## Organisation
 

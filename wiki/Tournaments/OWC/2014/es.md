@@ -32,7 +32,7 @@ La **osu! World Cup 2014** (***OWC 2014***) fue un torneo por países organizado
 | ![Silver crown](/wiki/shared/crown-silver.png "2do lugar") | 3 meses de osu!support tag, insignia única para el perfil |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3er lugar") | 1 mes de osu!support tag, insignia única para el perfil |
 
-![](img/badge.jpg "Insignia de ganador de la OWC 2014") ![](img/badge2.jpg "Insignia de 2do lugar de la OWC 2014") ![](img/badge3.jpg "Insignia de 3er lugar de la OWC 2014")
+![](https://assets.ppy.sh/profile-badges/owc2014-1st.png "Insignia de ganador de la OWC 2014") ![](https://assets.ppy.sh/profile-badges/owc2014-2nd.png "Insignia de 2do lugar de la OWC 2014") ![](https://assets.ppy.sh/profile-badges/owc2014-3rd.png "Insignia de 3er lugar de la OWC 2014")
 
 ## Organización
 

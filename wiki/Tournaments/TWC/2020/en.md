@@ -31,7 +31,7 @@ The **osu!taiko World Cup 2020** (***TWC 2020***) was a country-based osu!taiko 
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, unique profile badge |
 
-![](img/badge.jpg "TWC 2020 winner badge") ![](img/badge2.jpg "TWC 2020 2nd place badge") ![](img/badge3.jpg "TWC 2020 3rd place badge")
+![](https://assets.ppy.sh/profile-badges/badge_twc2020_winner.png "TWC 2020 winner badge") ![](https://assets.ppy.sh/profile-badges/badge_twc2020_2nd.png "TWC 2020 2nd place badge") ![](https://assets.ppy.sh/profile-badges/badge_twc2020_3rd.png "TWC 2020 3rd place badge")
 
 ## Organisation
 

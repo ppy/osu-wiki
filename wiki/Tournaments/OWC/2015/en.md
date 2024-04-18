@@ -31,7 +31,7 @@ The **osu! World Cup 2015** (***OWC 2015***) was a country-based osu! tournament
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 38% of the raised prize pool, unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 12% of the raised prize pool, unique profile badge |
 
-![](img/badge.jpg "OWC 2015 winner badge") ![](img/badge2.jpg "OWC 2015 2nd place badge") ![](img/badge3.jpg "OWC 2015 3rd place badge")
+![](https://assets.ppy.sh/profile-badges/owc2015-1st.png "OWC 2015 winner badge") ![](https://assets.ppy.sh/profile-badges/owc2015-2nd.png "OWC 2015 2nd place badge") ![](https://assets.ppy.sh/profile-badges/owc2015-3rd.png "OWC 2015 3rd place badge")
 
 ## Organisation
 

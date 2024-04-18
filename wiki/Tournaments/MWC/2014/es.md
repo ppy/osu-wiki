@@ -35,7 +35,7 @@ La **osu!mania World Cup 2014** (***MWC 2014***) fue un torneo por países organ
 | ![Corona de plata](/wiki/shared/crown-silver.png "Segundo lugar") | 3 meses de osu!supporter |
 | ![Corona de bronce](/wiki/shared/crown-bronze.png "Tercer lugar") | 1 mes de osu!supporter |
 
-![](img/badge.jpg "Insignia de ganador de la MWC 2014")
+![](https://assets.ppy.sh/profile-badges/mwc2014@2x.png "Insignia de ganador de la MWC 2014")
 
 ## Organización
 

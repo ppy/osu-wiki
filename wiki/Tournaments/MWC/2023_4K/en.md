@@ -36,7 +36,7 @@ The osu!mania 4K World Cup 2023 offered a $2,000 cash prize pool and limited-edi
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool, single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
-![](img/mwc4k2023-winner.png "MWC 4K 2023 winner badge") ![](img/mwc4k2023-2nd.png "MWC 4K 2023 2nd place badge") ![](img/mwc4k2023-3rd.png "MWC 4K 2023 3rd place badge")
+![](https://assets.ppy.sh/profile-badges/mwc4k2023-winner.png "MWC 4K 2023 winner badge") ![](https://assets.ppy.sh/profile-badges/mwc4k2023-2nd.png "MWC 4K 2023 2nd place badge") ![](https://assets.ppy.sh/profile-badges/mwc4k2023-3rd.png "MWC 4K 2023 3rd place badge")
 
 ## Organisation
 

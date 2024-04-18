@@ -31,7 +31,7 @@ The **osu! Catch the Beat World Cup 2015** (***CWC 2015***) was a country-based 
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter, unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter, unique profile badge |
 
-![](img/badge.jpg "CWC 2015 winner badge") ![](img/badge2.jpg "CWC 2015 2nd place badge") ![](img/badge3.jpg "CWC 2015 3rd place badge")
+![](https://assets.ppy.sh/profile-badges/osu!ctb-badge-winner.png "CWC 2015 winner badge") ![](https://assets.ppy.sh/profile-badges/osu!ctb-badge-2nd.png "CWC 2015 2nd place badge") ![](https://assets.ppy.sh/profile-badges/osu!ctb-badge-3rd.png "CWC 2015 3rd place badge")
 
 ## Organisation
 

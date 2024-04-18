@@ -30,7 +30,7 @@ La **osu! Catch the Beat World Cup 2014** (***CWC 2014*** ) fue un torneo por pa
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3 meses de osu!supporter |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 mes de osu!supporter |
 
-![](img/badge.jpg "CWC 2014 winner badge")
+![](https://assets.ppy.sh/profile-badges/cwc2014@2x.png "CWC 2014 winner badge")
 
 ## Organización
 

@@ -35,7 +35,7 @@ La **osu! World Cup 2021** (***OWC 2021***) fue un torneo por países organizado
 | ![Silver crown](/wiki/shared/crown-silver.png "2do lugar") | 32% del premio acumulado, mercancía exclusiva de una sola tira, insignia para el perfil |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3er lugar") | 20% del premio acumulado, mercancía exclusiva de una sola tira, insignia para el perfil |
 
-![](img/badge1.png "Insignia de ganador de la OWC 2021") ![](img/badge2.png "Insignia de 2do lugar de la OWC 2021") ![](img/badge3.png "Insignia de 3er lugar de la OWC 2021")
+![](https://assets.ppy.sh/profile-badges/badge_owc2021_winner.png "Insignia de ganador de la OWC 2021") ![](https://assets.ppy.sh/profile-badges/badge_owc2021_2nd_place.png "Insignia de 2do lugar de la OWC 2021") ![](https://assets.ppy.sh/profile-badges/badge_owc2021_3rd_place.png "Insignia de 3er lugar de la OWC 2021")
 
 ## Organización
 

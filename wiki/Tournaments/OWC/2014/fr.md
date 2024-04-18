@@ -31,7 +31,7 @@ L'**osu! World Cup 2014** (***OWC 2014***) est un tournoi d'osu! par pays organi
 | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | Statut de supporter pendant 3 mois, un badge de profil unique |
 | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | Statut de supporter pendant 1 mois, un badge de profil unique |
 
-![](img/badge.jpg "Badge des gagnants de l'OWC 2014") ![](img/badge2.jpg "Badge de la 2ème place de l'OWC 2014") ![](img/badge3.jpg "Badge de la 3ème place de l'OWC 2014")
+![](https://assets.ppy.sh/profile-badges/owc2014-1st.png "Badge des gagnants de l'OWC 2014") ![](https://assets.ppy.sh/profile-badges/owc2014-2nd.png "Badge de la 2ème place de l'OWC 2014") ![](https://assets.ppy.sh/profile-badges/owc2014-3rd.png "Badge de la 3ème place de l'OWC 2014")
 
 ## Organisation
 

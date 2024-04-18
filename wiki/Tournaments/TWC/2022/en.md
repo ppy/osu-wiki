@@ -33,7 +33,7 @@ The **osu!taiko World Cup 2022** (***TWC 2022***) was a country-based osu!taiko 
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, unique profile badge |
 
-![](img/twc-2022-badge-1st.jpg "TWC 2022 winner badge") ![](img/twc-2022-badge-2nd.jpg "TWC 2022 2nd place badge") ![](img/twc-2022-badge-3rd.jpg "TWC 2022 3rd place badge")
+![](https://assets.ppy.sh/profile-badges/twc-1st-2022.png "TWC 2022 winner badge") ![](https://assets.ppy.sh/profile-badges/twc-2nd-2022.png "TWC 2022 2nd place badge") ![](https://assets.ppy.sh/profile-badges/twc-3rd-2022.png "TWC 2022 3rd place badge")
 
 ## Organisation
 

@@ -37,7 +37,7 @@ The prize pool was further increased to $2,166.20 from **[community donations](h
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 32% of the prize pool, single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
-![](img/badge-1st.jpg "MWC 4K 2022 winner badge") ![](img/badge-2nd.jpg "MWC 4K 2022 2nd place badge") ![](img/badge-3rd.jpg "MWC 4K 2022 3rd place badge")
+![](https://assets.ppy.sh/profile-badges/mwc4k2022-winner.png "MWC 4K 2022 winner badge") ![](https://assets.ppy.sh/profile-badges/mwc4k2022-2nd.png "MWC 4K 2022 2nd place badge") ![](https://assets.ppy.sh/profile-badges/mwc4k2022-3rd.png "MWC 4K 2022 3rd place badge")
 
 ## Organisation
 

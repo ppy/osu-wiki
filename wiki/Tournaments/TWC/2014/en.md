@@ -31,7 +31,7 @@ The **osu! Taiko World Cup 2014** (***TWC 2014***) was a country-based osu!taiko
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
-![](img/badge.jpg "TWC 2014 winner badge")
+![](https://assets.ppy.sh/profile-badges/twc2014.png "TWC 2014 winner badge")
 
 ## Organisation
 

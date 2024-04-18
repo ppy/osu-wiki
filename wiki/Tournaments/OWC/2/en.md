@@ -34,7 +34,7 @@ The **osu! World Cup #2** (***OWC #2***), also commonly known as **osu! World Cu
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter for each team member |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter for each team member |
 
-![](img/badge.jpg "OWC #2 winner badge")
+![](https://assets.ppy.sh/profile-badges/owc2012@2x.png "OWC #2 winner badge")
 
 ## Organisation
 

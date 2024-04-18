@@ -31,7 +31,7 @@ The **osu! World Cup 2018** (***OWC 2018***) was a country-based osu! tournament
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | US$160 per team member, exclusive single-run merch , unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | US$80 per team member, exclusive single-run merch, unique profile badge |
 
-![](img/badge.jpg "OWC 2018 winner badge") ![](img/badge2.jpg "OWC 2018 2nd place badge") ![](img/badge3.jpg "OWC 2018 3rd place badge")
+![](https://assets.ppy.sh/profile-badges/owc2018_winner.png "OWC 2018 winner badge") ![](https://assets.ppy.sh/profile-badges/owc2018_2nd.png "OWC 2018 2nd place badge") ![](https://assets.ppy.sh/profile-badges/owc2018_3rd.png "OWC 2018 3rd place badge")
 
 ## Organisation
 

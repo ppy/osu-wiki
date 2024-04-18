@@ -31,7 +31,7 @@ The **osu!catch World Cup 2017** (***CWC 2017***) was a country-based osu!catch 
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $160 per team member, exclusive osu! tumbler and pins, unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $80 per team member, exclusive osu! tumbler and pins, unique profile badge |
 
-![](img/badge.jpg "CWC 2017 winner badge") ![](img/badge2.jpg "CWC 2017 2nd place badge") ![](img/badge3.jpg "CWC 2017 3rd place badge")
+![](https://assets.ppy.sh/profile-badges/o_cwc2017_winner.png "CWC 2017 winner badge") ![](https://assets.ppy.sh/profile-badges/o_cwc2017_2nd.png "CWC 2017 2nd place badge") ![](https://assets.ppy.sh/profile-badges/o_cwc2017_3rd.png "CWC 2017 3rd place badge")
 
 ## Organisation
 

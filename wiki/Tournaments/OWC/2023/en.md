@@ -34,7 +34,7 @@ The osu! World Cup 2023 offered a $10,000 cash prize pool and limited-edition me
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 32% of the prize pool, single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
-![](img/badge-1st.png "OWC 2023 winner badge") ![](img/badge-2nd.png "OWC 2023 2nd place badge") ![](img/badge-3rd.png "OWC 2023 3rd place badge")
+![](https://assets.ppy.sh/profile-badges/owc2023-winner.png "OWC 2023 winner badge") ![](https://assets.ppy.sh/profile-badges/owc2023-2nd.png "OWC 2023 2nd place badge") ![](https://assets.ppy.sh/profile-badges/owc2023-3rd.png "OWC 2023 3rd place badge")
 
 ## Organisation
 

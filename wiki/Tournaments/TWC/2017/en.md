@@ -31,7 +31,7 @@ The **osu!taiko World Cup 2017** (***TWC 2017***) was a country-based osu!taiko 
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Unique merchandise, unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Unique merchandise, unique profile badge |
 
-![](img/badge.jpg "TWC 2017 winner badge") ![](img/badge2.jpg "TWC 2017 2nd place badge") ![](img/badge3.jpg "TWC 2017 3rd place badge")
+![](https://assets.ppy.sh/profile-badges/o_twc2017_winner.png "TWC 2017 winner badge") ![](https://assets.ppy.sh/profile-badges/o_twc2017_2nd.png "TWC 2017 2nd place badge") ![](https://assets.ppy.sh/profile-badges/o_twc2017_3rd.png "TWC 2017 3rd place badge")
 
 ## Organisation
 

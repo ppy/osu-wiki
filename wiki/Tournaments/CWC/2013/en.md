@@ -30,7 +30,7 @@ The **osu! Catch the Beat World Cup 2013** (***CWC 2013***) was a country-based 
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
-![](img/badge.jpg "CWC 2013 winner badge")
+![](https://assets.ppy.sh/profile-badges/ctbwc2013@2x.png "CWC 2013 winner badge")
 
 ## Organisation
 

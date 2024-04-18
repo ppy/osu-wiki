@@ -31,7 +31,7 @@ Der **osu! Taiko World Cup 2015** (***TWC 2015***) war ein länderbasiertes Taik
 | ![Silberkrone](/wiki/shared/crown-silver.png "2. Platz") | 3 Monate Supporter Tag, Profilabzeichen |
 | ![Bronzekrone](/wiki/shared/crown-bronze.png "3. Platz") | 1 Monat Supporter Tag, Profilabzeichen |
 
-![](img/badge.jpg "TWC 2015 Gewinner-Abzeichen") ![](img/badge2.jpg "TWC 2015 2. Platz-Abzeichen") ![](img/badge3.jpg "TWC 2015 3. Platz-Abzeichen")
+![](https://assets.ppy.sh/profile-badges/osu!taiko-worldcup-badge-winner.png "TWC 2015 Gewinner-Abzeichen") ![](https://assets.ppy.sh/profile-badges/osu!taiko-worldcup-badge-2nd.png "TWC 2015 2. Platz-Abzeichen") ![](https://assets.ppy.sh/profile-badges/osu!taiko-worldcup-badge-3rd.png "TWC 2015 3. Platz-Abzeichen")
 
 ## Organisation
 

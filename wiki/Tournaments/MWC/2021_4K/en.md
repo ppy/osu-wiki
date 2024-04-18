@@ -34,7 +34,7 @@ The **osu!mania 4K World Cup 2021** (***MWC 4K 2021***) was a country-based osu!
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, profile badge |
 
-![](img/badge-1st.jpg "MWC 4K 2021 winner badge") ![](img/badge-2nd.jpg "MWC 4K 2021 2nd place badge") ![](img/badge-3rd.jpg "MWC 4K 2021 3rd place badge")
+![](https://assets.ppy.sh/profile-badges/badge_mwc4k_winner.png "MWC 4K 2021 winner badge") ![](https://assets.ppy.sh/profile-badges/badge_mwc4k_2nd.png "MWC 4K 2021 2nd place badge") ![](https://assets.ppy.sh/profile-badges/badge_mwc4k_3rd.png "MWC 4K 2021 3rd place badge")
 
 ## Organisation
 

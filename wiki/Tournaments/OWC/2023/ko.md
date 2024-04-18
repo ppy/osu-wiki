@@ -34,7 +34,7 @@ osu! 월드컵 2023은 총 $10000의 상금과 한정판 상품이 제공되었�
 | ![은 왕관](/wiki/shared/crown-silver.png "2위") | 총상금의 32%, 단독적으로 제작되는 상품, 프로필 배지를 제공합니다 |
 | ![동 왕관](/wiki/shared/crown-bronze.png "3위") | 총상금의 20%, 단독적으로 제작되는 상품, 프로필 배지를 제공합니다 |
 
-![](img/badge-1st.png "OWC 2023 우승 배지") ![](img/badge-2nd.png "OWC 2023 준우승 배지") ![](img/badge-3rd.png "OWC 2023 3위 배지")
+![](https://assets.ppy.sh/profile-badges/owc2023-winner.png "OWC 2023 우승 배지") ![](https://assets.ppy.sh/profile-badges/owc2023-2nd.png "OWC 2023 준우승 배지") ![](https://assets.ppy.sh/profile-badges/owc2023-winner.png "OWC 2023 3위 배지")
 
 ## 조직
 

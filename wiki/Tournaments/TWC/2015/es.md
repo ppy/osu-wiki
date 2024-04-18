@@ -31,7 +31,7 @@ La **osu! Taiko World Cup 2015** (***TWC 2015***) fue un torneo de osu!taiko por
 | ![Corona de plata](/wiki/shared/crown-silver.png "Segundo puesto") | 3 meses de osu!supporter, insignia de perfil única |
 | ![Corona de bronce](/wiki/shared/crown-bronze.png "Tercer puesto") | 1 mes de osu!supporter, insignia de perfil única |
 
-![](img/badge.jpg "Insignia del ganador de la TWC 2015") ![](img/badge2.jpg "Insignia del segundo puesto de la TWC 2015") ![](img/badge3.jpg "Insignia del tercer puesto de la TWC 2015")
+![](https://assets.ppy.sh/profile-badges/osu!taiko-worldcup-badge-winner.png "Insignia del ganador de la TWC 2015") ![](https://assets.ppy.sh/profile-badges/osu!taiko-worldcup-badge-2nd.png "Insignia del segundo puesto de la TWC 2015") ![](https://assets.ppy.sh/profile-badges/osu!taiko-worldcup-badge-3rd.png "Insignia del tercer puesto de la TWC 2015")
 
 ## Organización
 

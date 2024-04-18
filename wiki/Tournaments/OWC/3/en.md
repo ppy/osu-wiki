@@ -31,7 +31,7 @@ The **osu! World Cup #3** (***OWC #3***) was a country-based osu! tournament hos
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter |
 
-![](img/badge.jpg "OWC #3 winner badge")
+![](https://assets.ppy.sh/profile-badges/owc2013@2x.png "OWC #3 winner badge")
 
 ## Organisation
 

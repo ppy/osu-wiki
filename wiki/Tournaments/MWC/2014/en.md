@@ -35,7 +35,7 @@ The **osu!mania World Cup 2014** (***MWC 2014***) was a country-based osu!mania 
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
-![](img/badge.jpg "MWC 2014 winner badge")
+![](https://assets.ppy.sh/profile-badges/mwc2014@2x.png "MWC 2014 winner badge")
 
 ## Organisation
 

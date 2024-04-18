@@ -33,7 +33,7 @@ L'**osu!mania 4K World Cup 2017** (***MWC 4K 2017***) est un tournoi d'osu!mania
 | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | 80 $ par membre de l'équipe, un badge de profil unique, de la marchandise exclusive d'osu! |
 | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | 40 $ par membre de l'équipe, un badge de profil unique, de la marchandise exclusive d'osu! |
 
-![](img/badge.jpg "Badge des gagnants de la MWC 4K 2017") ![](img/badge2.jpg "Badge de la 2ème place de la MWC 4K 2017") ![](img/badge3.jpg "Badge de la 3ème place de la MWC 4K 2017")
+![](https://assets.ppy.sh/profile-badges/o_m4Kwc2017_winner.png "Badge des gagnants de la MWC 4K 2017") ![](https://assets.ppy.sh/profile-badges/o_m4Kwc2017_2nd.png "Badge de la 2ème place de la MWC 4K 2017") ![](https://assets.ppy.sh/profile-badges/o_m4Kwc2017_3rd.png "Badge de la 3ème place de la MWC 4K 2017")
 
 ## Organisation
 

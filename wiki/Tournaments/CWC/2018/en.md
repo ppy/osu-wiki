@@ -31,7 +31,7 @@ The **osu!catch World Cup 2018** (***CWC 2018***) was a country-based osu!catch 
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, unique profile badge |
 
-![](img/badge.jpg "CWC 2018 winner badge") ![](img/badge2.jpg "CWC 2018 2nd place badge") ![](img/badge3.jpg "CWC 2018 3rd place badge")
+![](https://assets.ppy.sh/profile-badges/o_cwc2018_winner.jpg "CWC 2018 winner badge") ![](https://assets.ppy.sh/profile-badges/o_cwc2018_2nd.jpg "CWC 2018 2nd place badge") ![](https://assets.ppy.sh/profile-badges/o_cwc2018_3rd.jpg "CWC 2018 3rd place badge")
 
 ## Organisation
 

@@ -34,7 +34,7 @@ osu! 월드컵 2022는 최소 $5000의 상금과 한정판 굿즈가 제공됩�
 | ![Silver crown](/wiki/shared/crown-silver.png "2위") | 총상금의 32%, 단독적으로 제작되는 굿즈, 프로필 배지를 제공합니다 |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3위") | 총상금의 20%, 단독적으로 제작되는 굿즈, 프로필 배지를 제공합니다 |
 
-![](img/badge-1st.jpg "OWC 2022 우승 배지") ![](img/badge-2nd.jpg "OWC 2022 2위 배지") ![](img/badge-3rd.jpg "OWC 2022 3위 배지")
+![](https://assets.ppy.sh/profile-badges/owc2022-winner.png "OWC 2022 우승 배지") ![](https://assets.ppy.sh/profile-badges/owc2022-2nd.png "OWC 2022 2위 배지") ![](https://assets.ppy.sh/profile-badges/owc2022-3rd.png "OWC 2022 3위 배지")
 
 ## 조직
 

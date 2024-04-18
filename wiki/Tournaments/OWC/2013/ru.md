@@ -30,7 +30,7 @@ tags:
 | ![Silver crown](/wiki/shared/crown-silver.png "Второе место") | 3 месяца osu!supporter |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "Третье место") | 1 месяц osu!supporter |
 
-![](img/badge.jpg "Значок победителя OWC 2013")
+![](https://assets.ppy.sh/profile-badges/owc-2013@2x.png "Значок победителя OWC 2013")
 
 ## Организация
 

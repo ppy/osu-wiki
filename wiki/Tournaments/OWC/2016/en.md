@@ -31,7 +31,7 @@ The **osu! World Cup 2016** (***OWC 2016***) was a country-based osu! tournament
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Exclusive and unique merchandise, unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Exclusive and unique merchandise, unique profile badge |
 
-![](img/badge.jpg "OWC 2016 winner badge") ![](img/badge2.jpg "OWC 2016 2nd place badge") ![](img/badge3.jpg "OWC 2016 3rd place badge")
+![](https://assets.ppy.sh/profile-badges/o_wc2016_winner.png "OWC 2016 winner badge") ![](https://assets.ppy.sh/profile-badges/o_wc2016_2nd.png "OWC 2016 2nd place badge") ![](https://assets.ppy.sh/profile-badges/o_wc2016_3rd.png "OWC 2016 3rd place badge")
 
 ## Organisation
 

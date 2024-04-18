@@ -31,7 +31,7 @@ La **osu! World Cup 2017** (***OWC 2017***) fue un torneo por países organizado
 | ![Silver crown](/wiki/shared/crown-silver.png "2do lugar") | $160 por miembro del equipo, vaso y pins exclusivos osu!, insignia única para el perfil |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3er lugar") | $80 por miembro del equipo, vaso y pins exclusivos osu!, insignia única para el perfil |
 
-![](img/badge.jpg "Insignia de ganador de la OWC 2017") ![](img/badge2.jpg "Insignia de 2do lugar de la OWC 2017") ![](img/badge3.jpg "Insignia de 3er lugar de la OWC 2017")
+![](https://assets.ppy.sh/profile-badges/o_wc2017_winner.png "Insignia de ganador de la OWC 2017") ![](https://assets.ppy.sh/profile-badges/o_wc2017_2nd.png "Insignia de 2do lugar de la OWC 2017") ![](https://assets.ppy.sh/profile-badges/o_wc2017_3rd.png "Insignia de 3er lugar de la OWC 2017")
 
 ## Organización
 

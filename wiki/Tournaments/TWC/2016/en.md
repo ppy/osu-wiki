@@ -31,7 +31,7 @@ The **osu!taiko World Cup 2016** (***TWC 2016***) was a country-based osu!taiko 
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $160 per team member, unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $80 per team member, unique profile badge |
 
-![](img/badge.jpg "TWC 2016 winner badge") ![](img/badge2.jpg "TWC 2016 2nd place badge") ![](img/badge3.jpg "TWC 2016 3rd place badge")
+![](https://assets.ppy.sh/profile-badges/osu_wc2015_1st.png "TWC 2016 winner badge") ![](https://assets.ppy.sh/profile-badges/osu_wc2015_2nd.png "TWC 2016 2nd place badge") ![](https://assets.ppy.sh/profile-badges/osu_wc2015_3rd.png "TWC 2016 3rd place badge")
 
 ## Organisation
 

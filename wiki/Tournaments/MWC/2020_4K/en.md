@@ -33,7 +33,7 @@ The **osu!mania 4K World Cup 2020** (***MWC 4K 2020***) was a country-based osu!
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, profile badge |
 
-![](img/badge.png "MWC 4K 2020 winner badge") ![](img/badge2.png "MWC 4K 2020 2nd place badge") ![](img/badge3.png "MWC 4K 2020 3rd place badge")
+![](https://assets.ppy.sh/profile-badges/badge_mwc4k2020_winner.png "MWC 4K 2020 winner badge") ![](https://assets.ppy.sh/profile-badges/badge_mwc4k2020_2nd.png "MWC 4K 2020 2nd place badge") ![](https://assets.ppy.sh/profile-badges/badge_mwc4k2020_3rd.png "MWC 4K 2020 3rd place badge")
 
 ## Organisation
 

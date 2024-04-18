@@ -35,7 +35,7 @@ The osu!mania 7K World Cup 2023 offered a minimum $1,200 cash prize pool and lim
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool, single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
-![](img/badge-1st.png "MWC 7K 2023 winner badge") ![](img/badge-2nd.png "MWC 7K 2023 2nd place badge") ![](img/badge-3rd.png "MWC 7K 2023 3rd place badge")
+![](https://assets.ppy.sh/profile-badges/mwc7k2023-winner.png "MWC 7K 2023 winner badge") ![](https://assets.ppy.sh/profile-badges/mwc7k2023-2nd.png "MWC 7K 2023 2nd place badge") ![](https://assets.ppy.sh/profile-badges/mwc7k2023-3rd.png "MWC 7K 2023 3rd place badge")
 
 ## Organisation
 

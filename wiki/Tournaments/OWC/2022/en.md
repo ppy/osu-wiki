@@ -34,7 +34,7 @@ The osu! World Cup 2022 offered a minimum $5,000 cash prize pool and limited edi
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 32% of the prize pool, single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
-![](img/badge-1st.jpg "OWC 2022 winner badge") ![](img/badge-2nd.jpg "OWC 2022 2nd place badge") ![](img/badge-3rd.jpg "OWC 2022 3rd place badge")
+![](https://assets.ppy.sh/profile-badges/owc2022-winner.png "OWC 2022 winner badge") ![](https://assets.ppy.sh/profile-badges/owc2022-2nd.png "OWC 2022 2nd place badge") ![](https://assets.ppy.sh/profile-badges/owc2022-3rd.png "OWC 2022 3rd place badge")
 
 ## Organisation
 

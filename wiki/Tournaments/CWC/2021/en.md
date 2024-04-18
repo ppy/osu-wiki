@@ -31,7 +31,7 @@ The **osu!catch World Cup 2021** (***CWC 2021***) was a country-based osu!catch 
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, unique profile badge |
 
-![](img/badge.png "CWC 2021 winner badge") ![](img/badge2.png "CWC 2021 2nd place badge") ![](img/badge3.png "CWC 2021 3rd place badge")
+![](https://assets.ppy.sh/profile-badges/badge_cwc2021_winner.png "CWC 2021 winner badge") ![](https://assets.ppy.sh/profile-badges/badge_cwc2021_2nd.png "CWC 2021 2nd place badge") ![](https://assets.ppy.sh/profile-badges/badge_cwc2021_3rd.png "CWC 2021 3rd place badge")
 
 ## Organisation
 

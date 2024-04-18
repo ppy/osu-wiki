@@ -30,7 +30,7 @@ L'**osu! World Cup 2013** (***OWC 2013***) est un tournoi d'osu! par pays organi
 | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | Statut de supporter pendant 3 mois |
 | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | Statut de supporter pendant 1 mois |
 
-![](img/badge.jpg "Badge des gagnants de l'OWC 2013")
+![](https://assets.ppy.sh/profile-badges/owc-2013@2x.png "Badge des gagnants de l'OWC 2013")
 
 ## Organisation
 

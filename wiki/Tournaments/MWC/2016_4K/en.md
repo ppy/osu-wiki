@@ -35,7 +35,7 @@ There was a $1,900 cash prize pool with extra money being added by buying suppor
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 38% of the raised prize pool, unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 12% of the raised prize pool, unique profile badge |
 
-![](img/badge.jpg "MWC 4K 2016 winner badge") ![](img/badge2.jpg "MWC 4K 2016 2nd place badge") ![](img/badge3.jpg "MWC 4K 2016 3rd place badge")
+![](https://assets.ppy.sh/profile-badges/osu_mania4k_1st.png "MWC 4K 2016 winner badge") ![](https://assets.ppy.sh/profile-badges/osu_mania4k_2nd.png "MWC 4K 2016 2nd place badge") ![](https://assets.ppy.sh/profile-badges/osu_mania4k_3rd.png "MWC 4K 2016 3rd place badge")
 
 ## Organisation
 

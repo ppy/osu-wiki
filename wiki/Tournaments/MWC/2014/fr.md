@@ -35,7 +35,7 @@ L'**osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'osu!mania orga
 | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | 3 mois d'osu!supporter |
 | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | 1 mois d'osu!supporter |
 
-![](img/badge.jpg "Badge des gagnants de la MWC 2014")
+![](https://assets.ppy.sh/profile-badges/mwc2014@2x.png "Badge des gagnants de la MWC 2014")
 
 ## Organisation
 

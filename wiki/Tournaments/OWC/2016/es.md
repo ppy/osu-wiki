@@ -32,7 +32,7 @@ La **osu! World Cup 2016** (***OWC 2016***) fue un torneo por países organizado
 | ![Silver crown](/wiki/shared/crown-silver.png "2do lugar") | Mercancía única y exclusiva, insignia única para el perfil |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3er lugar") | Mercancía única y exclusiva, insignia única para el perfil |
 
-![](img/badge.jpg "Insignia de ganador de la OWC 2016") ![](img/badge2.jpg "Insignia de 2do lugar de la OWC 2016") ![](img/badge3.jpg "Insignia de 3er lugar de la OWC 2016")
+![](https://assets.ppy.sh/profile-badges/o_wc2016_winner.png "Insignia de ganador de la OWC 2016") ![](https://assets.ppy.sh/profile-badges/o_wc2016_2nd.png "Insignia de 2do lugar de la OWC 2016") ![](https://assets.ppy.sh/profile-badges/o_wc2016_3rd.png "Insignia de 3er lugar de la OWC 2016")
 
 ## Organización
 

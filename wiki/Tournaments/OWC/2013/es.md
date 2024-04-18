@@ -34,7 +34,7 @@ La **osu! World Cup 2013** (***OWC 2013***) fue un torneo organizado por el [Ger
 | ![Silver Crown](/wiki/shared/crown-silver.png "2do lugar") | 3 meses de support |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3er lugar") | 1 mes de support |
 
-![](img/badge.jpg "Insignia de ganador de la OWC 2013")
+![](https://assets.ppy.sh/profile-badges/owc-2013@2x.png "Insignia de ganador de la OWC 2013")
 
 ## Organización
 

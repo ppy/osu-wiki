@@ -34,7 +34,7 @@ The osu! World Cup 2021 offered a $5,000 cash prize pool and limited edition mer
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 32% of the prize pool, exclusive single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, exclusive single-run merch, profile badge |
 
-![](img/badge1.png "OWC 2021 winner badge") ![](img/badge2.png "OWC 2021 2nd place badge") ![](img/badge3.png "OWC 2021 3rd place badge")
+![](https://assets.ppy.sh/profile-badges/badge_owc2021_winner.png "OWC 2021 winner badge") ![](https://assets.ppy.sh/profile-badges/badge_owc2021_2nd_place.png "OWC 2021 2nd place badge") ![](https://assets.ppy.sh/profile-badges/badge_owc2021_3rd_place.png "OWC 2021 3rd place badge")
 
 ## Organisation
 

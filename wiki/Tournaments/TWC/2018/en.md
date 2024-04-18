@@ -31,7 +31,7 @@ The **osu!taiko World Cup 2018** (***TWC 2018***) was a country-based osu!taiko 
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, unique profile badge |
 
-![](img/badge.jpg "TWC 2018 winner badge") ![](img/badge2.jpg "TWC 2018 2nd place badge") ![](img/badge3.jpg "TWC 2018 3rd place badge")
+![](https://assets.ppy.sh/profile-badges/o_twc2018_winner.jpg "TWC 2018 winner badge") ![](https://assets.ppy.sh/profile-badges/o_twc2018_2nd.jpg "TWC 2018 2nd place badge") ![](https://assets.ppy.sh/profile-badges/o_twc2018_3rd.jpg "TWC 2018 3rd place badge")
 
 ## Organisation
 

@@ -37,7 +37,7 @@ tags:
 | ![银冠](/wiki/shared/crown-silver.png "亚军") | 每人 $80，个人资料徽章 |
 | ![铜冠](/wiki/shared/crown-bronze.png "季军") | 每人 $40，个人资料徽章 |
 
-![](img/badge.png "MWC 4K 2020 冠军徽章") ![](img/badge2.png "MWC 4K 2020 亚军徽章") ![](img/badge3.png "MWC 4K 2020 季军徽章")
+![](https://assets.ppy.sh/profile-badges/badge_mwc4k2020_winner.png "MWC 4K 2020 冠军徽章") ![](https://assets.ppy.sh/profile-badges/badge_mwc4k2020_2nd.png "MWC 4K 2020 亚军徽章") ![](https://assets.ppy.sh/profile-badges/badge_mwc4k2020_3rd.png "MWC 4K 2020 季军徽章")
 
 ## 工作人员
 

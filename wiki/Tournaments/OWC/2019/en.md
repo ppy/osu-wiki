@@ -32,7 +32,7 @@ The **osu! World Cup 2019** (***OWC 2019***) was a country-based osu! tournament
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | US$160 per team member, exclusive single-run merch, unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | US$80 per team member, exclusive single-run merch, unique profile badge |
 
-![](img/badge.jpg "OWC 2019 winner badge") ![](img/badge2.jpg "OWC 2019 2nd place badge") ![](img/badge3.jpg "OWC 2019 3rd place badge")
+![](https://assets.ppy.sh/profile-badges/owc2019_winner.png "OWC 2019 winner badge") ![](https://assets.ppy.sh/profile-badges/owc2019_2nd.png "OWC 2019 2nd place badge") ![](https://assets.ppy.sh/profile-badges/owc2019_3rd.png "OWC 2019 3rd place badge")
 
 ## Organisation
 

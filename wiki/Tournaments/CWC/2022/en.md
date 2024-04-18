@@ -34,7 +34,7 @@ The osu!catch World Cup 2022 offered a $2,000 cash prize pool and limited editio
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 32% of the prize pool, single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
-![](img/cwc2022_badge_1st.jpg "CWC 2022 winner badge") ![](img/cwc2022_badge_2nd.jpg "CWC 2022 2nd place badge") ![](img/cwc2022_badge_3rd.jpg "CWC 2022 3rd place badge")
+![](https://assets.ppy.sh/profile-badges/cwc-2022/cwc2022-1st.png "CWC 2022 winner badge") ![](https://assets.ppy.sh/profile-badges/cwc-2022/cwc2022-2nd.png "CWC 2022 2nd place badge") ![](https://assets.ppy.sh/profile-badges/cwc-2022/cwc2022-3rd.png "CWC 2022 3rd place badge")
 
 ## Organisation
 

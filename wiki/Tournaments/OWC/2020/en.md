@@ -34,7 +34,7 @@ The osu! World Cup 2020 offered a $5,000 cash prize pool and limited edition mer
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 36% of the prize pool, exclusive single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 14% of the prize pool, exclusive single-run merch, profile badge |
 
-![](img/badge.png "OWC 2020 winner badge") ![](img/badge2.png "OWC 2020 2nd place badge") ![](img/badge3.png "OWC 2020 3rd place badge")
+![](https://assets.ppy.sh/profile-badges/badge_owc2020_winner.png "OWC 2020 winner badge") ![](https://assets.ppy.sh/profile-badges/badge_owc2020_2nd.png "OWC 2020 2nd place badge") ![](https://assets.ppy.sh/profile-badges/badge_owc2020_3rd.png "OWC 2020 3rd place badge")
 
 ## Organisation
 

@@ -35,7 +35,7 @@ La **osu! World Cup 2020** (***OWC 2020***) fue un torneo por países organizado
 | ![Silver crown](/wiki/shared/crown-silver.png "2do lugar") | 36% del premio acumulado, mercancía exclusiva de una sola tira, insignia para el perfil |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3er lugar") | 14% del premio acumulado, mercancía exclusiva de una sola tira, insignia para el perfil |
 
-![](img/badge.png "Insignia de ganador de la OWC 2020") ![](img/badge2.png "Insignia de 2do lugar de la OWC 2020") ![](img/badge3.png "Insignia de 3er lugar de la OWC 2020")
+![](https://assets.ppy.sh/profile-badges/badge_owc2020_winner.png "Insignia de ganador de la OWC 2020") ![](https://assets.ppy.sh/profile-badges/badge_owc2020_2nd.png "Insignia de 2do lugar de la OWC 2020") ![](https://assets.ppy.sh/profile-badges/badge_owc2020_3rd.png "Insignia de 3er lugar de la OWC 2020")
 
 ## Organización
 

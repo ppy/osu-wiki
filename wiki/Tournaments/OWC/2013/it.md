@@ -30,7 +30,7 @@ La **osu! World Cup 2013** (***OWC 2013***) è stato un torneo di osu! ospitato 
 | ![Corona d'argento](/wiki/shared/crown-silver.png "2° posto") | 3 mesi di osu!supporter |
 | ![Corona di bronzo](/wiki/shared/crown-bronze.png "3° posto") | 1 mese di osu!supporter |
 
-![](img/badge.jpg "OWC 2013 winner badge")
+![](https://assets.ppy.sh/profile-badges/owc-2013@2x.png "OWC 2013 winner badge")
 
 ## Organizzazione
 
