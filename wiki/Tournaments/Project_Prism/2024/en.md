@@ -54,15 +54,15 @@ Project Prism 2024 is run by various community members.
 
 ## Raid Battles
 
+![Raid battle system interface](img/raid-battle.jpg "The Raid Battle interface on the website")
+
 The "Raid Battle" system is a side event open to all osu!taiko players (not just tournament participants) for the duration of the tournament, where players cooperate to defeat boss characters by submitting scores on Project Prism's tiebreaker beatmaps.
+
+Players can deal damage to the boss characters by setting a score on any difficulty of the tiebreaker for the current tournament stage, then submitting it via the website. Difficulties are available from Kantan, meaning beginners are also welcome to participate.
 
 Each boss character is associated with a tiebreaker song release each week starting from the Round of 32, with an introductory round available before then.
 
 ![Characters by tournament stage](img/character-cards.png "Characters associated with Project Prism's original tournament tiebreaker songs")
-
-Players can deal damage to the boss characters by setting a score on any difficulty of the tiebreaker for the current tournament stage, then submitting it via the website. Difficulties are available from Kantan, meaning beginners are also welcome to participate.
-
-![Raid battle system interface](img/raid-battle.jpg "The Raid Battle interface on the website")
 
 A list of missions is presented for each stage, which can range from "passing every difficulty" or "completing a map with Flashlight". Completing these earn players rewards on the website, namely story events, or tickets for redeeming random character cards that multiply damage dealt to the boss character.
 
