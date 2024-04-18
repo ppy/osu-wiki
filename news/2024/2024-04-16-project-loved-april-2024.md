@@ -67,18 +67,6 @@ Give this map a vote, and if it's Loved, you'll get to see how well your streami
 
 For this month's Outstanding Oldies, we've got what could definitely be called a Meme Monstrosity. [GladiOol](https://osu.ppy.sh/users/23326), Remco32, and Lesjuh bring us what could only be described as one of the most genuine 2009 beatmaps out there, and it's no wonder it's a staple pick for many old map tournaments out there. Of course, as with any 2009 beatmap, you'll probably want to check your low-AR reading and wide angle jump skills before attempting this one. But, at the very least, this time we've got a full mapset for any skill level to enjoy! It should be a piece of cake.
 
-[![](/wiki/shared/news/2024-04-16-project-loved-april-2024/81730.jpg)](https://osu.ppy.sh/community/forums/topics/1910642)
-
-[Igorrr - Scarlatti 2.0](https://osu.ppy.sh/beatmapsets/81730#osu) by [grumd](https://osu.ppy.sh/users/530913) and [Loctav](https://osu.ppy.sh/users/71366)\
-200 BPM, 3:38 | 5.03★, 6.26★\
-*description written by [Aistre](https://osu.ppy.sh/users/4879380)*
-
-April's Small Spectacles is [Igorrr - Scarlatti 2.0](https://osu.ppy.sh/beatmapsets/81730#osu/226671) hosted by none other than [grumd](https://osu.ppy.sh/users/530913)! If there is one mapper that comes to mind when we're talking about breakcore, grumd is definitely one of them.
-
-This avant-garde baroque-core track by Igorrr is all about waltz and clocks in at 3:37, so you can definitely expect a ton of tricky 1/3 (and occasional 1/6!) rhythms that are going to test your rhythm and aim control consistency. If you're finding it too difficult, then be sure to check out the more forgiving *Collab* difficulty mapped by [RLC](https://osu.ppy.sh/users/1047883) and [Mirage](https://osu.ppy.sh/users/870584) (formerly known as *Maddy*)!
-
-If you love this map as much as I do, then don't forget to head to the thread and cast your vote!
-
 [![](/wiki/shared/news/2024-04-16-project-loved-april-2024/1772110.jpg)](https://osu.ppy.sh/community/forums/topics/1910641)
 
 [Linkin Park - A Line In The Sand](https://osu.ppy.sh/beatmapsets/1772110#osu) by [-NeBu-](https://osu.ppy.sh/users/4099626)\
@@ -247,16 +235,6 @@ This map brings some thrilling action to speed players of all skill ranges. Whet
 Destroying keyboards is the favorite past time of taiko players, but in order to reach such level of intensity and skill, maps like [Arrival](https://osu.ppy.sh/users/1694000)'s [asteria - FUSION](https://osu.ppy.sh/beatmapsets/1723980#taiko/3523339) are absolutely needed for progression. This map offers a comfortable yet challenging range of streams and bursts, backed up by the hyperpop nature of the song.
 
 It's no wonder why this map has been featured in several tournaments, especially in rounds where the overall mappool difficulty is yet to reach its peak. Maps like this allow you to look back one day and admire how far you have come. It's for this reason we are giving it the chance of acquiring a leaderboard to immortalize your scores. You have the final say, so go ahead and give it a try!
-
-[![](/wiki/shared/news/2024-04-16-project-loved-april-2024/2070101.jpg)](https://osu.ppy.sh/community/forums/topics/1910629)
-
-[Zekk - MidoriLine](https://osu.ppy.sh/beatmapsets/2070101#taiko) by [kumao_osu](https://osu.ppy.sh/users/25596895)\
-200 BPM, 2:34 | 5.72★\
-*description written by [ler1211](https://osu.ppy.sh/users/19901680)*
-
-While the name [kumao_osu](https://osu.ppy.sh/users/25596895) might not be familiar to most people, they are an established taiko mapper from other taiko platforms. Last year, they uploaded their first map in osu!, [Zekk - Midoriline](https://osu.ppy.sh/beatmapsets/2070101#taiko), winning the HFMC (hoku's fun mapping contest) with this entry!
-
-The theme of this contest was no SV, and this map manages to stand out with that limitation by including a complex mix of different snappings and challenging, yet smooth patterns crafted through the experience and skill of this mapper. Do give this map a try and experience this fresh style of taiko mapping for yourself!
 
 [![](/wiki/shared/news/2024-04-16-project-loved-april-2024/644401.jpg)](https://osu.ppy.sh/community/forums/topics/1910628)
 
