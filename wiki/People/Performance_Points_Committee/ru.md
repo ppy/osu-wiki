@@ -21,10 +21,9 @@ tags:
 
 | Профиль osu! | Профиль GitHub |
 | :-- | :-- |
-| ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) | [apollo-dw](https://github.com/apollo-dw) |
-| ::{ flag=HU }:: [emu1337](https://osu.ppy.sh/users/2185987) | [emu1337](https://github.com/emu1337) |
-| ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616) | [MBmasher](https://github.com/MBmasher) |
+| ::{ flag=GB }:: [moonpoint](https://osu.ppy.sh/users/9558549) | [apollo-dw](https://github.com/apollo-dw) |
 | ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | [stanriders](https://github.com/stanriders) |
+| ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | [tsunyoku](https://github.com/tsunyoku) |
 
 ### osu!taiko
 

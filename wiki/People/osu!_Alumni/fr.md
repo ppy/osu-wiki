@@ -8,10 +8,10 @@ La page [osu! Alumni group page](https://osu.ppy.sh/groups/16) donne la liste de
 | :-- | :-- |
 | ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | NAT |
 | ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | BAT, GMT |
+| ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730) | GMT |
 | ::{ flag=ID }:: [-SiN-](https://osu.ppy.sh/users/10560) | Modérateur de tchat |
 | ::{ flag=HK }:: [aabc271](https://osu.ppy.sh/users/155707) | BAT |
 | ::{ flag=CN }:: [abalee](https://osu.ppy.sh/users/13103) | BAT |
-| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | NAT |
 | ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) | NAT |
 | ::{ flag=US }:: [Agnes](https://osu.ppy.sh/users/136982) | GMT |
 | ::{ flag=JP }:: [alacat](https://osu.ppy.sh/users/869782) | QAT |
@@ -94,11 +94,10 @@ La page [osu! Alumni group page](https://osu.ppy.sh/groups/16) donne la liste de
 | ::{ flag=JP }:: [Guy](https://osu.ppy.sh/users/91738) | BAT, modérateur de tchat, QAT |
 | ::{ flag=RU }:: [h3k1ru](https://osu.ppy.sh/users/291211) | GMT |
 | ::{ flag=NL }:: [happy30](https://osu.ppy.sh/users/27767) | BAT |
-| ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | Gestion des tournois |
+| ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | Manager des tournois |
 | ::{ flag=MY }:: [HeatKai](https://osu.ppy.sh/users/332555) | BAT, modérateur de tchat |
 | ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | GMT |
 | ::{ flag=US }:: [Hitoshirenu Shourai](https://osu.ppy.sh/users/602) | BAT |
-| ::{ flag=US }:: [Hobbes2](https://osu.ppy.sh/users/8157492) | QAT |
 | ::{ flag=GB }:: [hypercyte](https://osu.ppy.sh/users/9155377) | NAT |
 | ::{ flag=HK }:: [IamKwaN](https://osu.ppy.sh/users/1856463) | BAT, modérateur de tchat, GMT, QAT |
 | ::{ flag=RU }:: [IceBeam](https://osu.ppy.sh/users/208440) | BAT |
@@ -107,13 +106,14 @@ La page [osu! Alumni group page](https://osu.ppy.sh/groups/16) donne la liste de
 | ::{ flag=NL }:: [Intermezzo](https://osu.ppy.sh/users/136842) | osu!dev |
 | ::{ flag=CH }:: [Irreversible](https://osu.ppy.sh/users/1287964) | BAT, QAT |
 | ::{ flag=US }:: [Ivalset](https://osu.ppy.sh/users/827) | BAT |
+| ::{ flag=US }:: [Izzywing](https://osu.ppy.sh/users/8157492) | QAT |
 | ::{ flag=PH }:: [James](https://osu.ppy.sh/users/5728) | BAT |
 | ::{ flag=US }:: [James2250](https://osu.ppy.sh/users/16978) | GMT |
 | ::{ flag=GB }:: [jericho2442](https://osu.ppy.sh/users/88904) | BAT |
 | ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) | BAT |
-| ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | Gestion des tournois |
+| ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | Manager des tournois |
 | ::{ flag=MX }:: [Kai](https://osu.ppy.sh/users/4537) | BAT |
-| ::{ flag=CA }:: [karterfreak](https://osu.ppy.sh/users/1031958) | GMT, créateur d'osu!media |
+| ::{ flag=CA }:: [karterfreak](https://osu.ppy.sh/users/1031958) | GMT, créateur de contenu osu!media |
 | ::{ flag=KR }:: [Kawayi Rika](https://osu.ppy.sh/users/596298) | BAT |
 | ::{ flag=MX }:: [Kenezz](https://osu.ppy.sh/users/167050) | BAT |
 | ::{ flag=TH }:: [Kharl](https://osu.ppy.sh/users/452) | BAT |
@@ -129,10 +129,10 @@ La page [osu! Alumni group page](https://osu.ppy.sh/groups/16) donne la liste de
 | ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) | QAT |
 | ::{ flag=CL }:: [Kylecito](https://osu.ppy.sh/users/488) | BAT |
 | ::{ flag=CA }:: [Kytoxid](https://osu.ppy.sh/users/98460) | BAT |
+| ::{ flag=RU }:: [Kyubey](https://osu.ppy.sh/users/2195646) | GMT |
 | ::{ flag=RU }:: [La Cataline](https://osu.ppy.sh/users/301279) | Modérateur de tchat |
 | ::{ flag=CA }:: [Lanturn](https://osu.ppy.sh/users/1446665) | QAT |
 | ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | QAT, NAT |
-| ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) | GMT |
 | ::{ flag=IT }:: [Leader](https://osu.ppy.sh/users/631530) | GMT |
 | ::{ flag=NL }:: [Leniane](https://osu.ppy.sh/users/7138602) | NAT |
 | ::{ flag=DO }:: [Lissette](https://osu.ppy.sh/users/19835) | BAT |
@@ -175,7 +175,6 @@ La page [osu! Alumni group page](https://osu.ppy.sh/groups/16) donne la liste de
 | ::{ flag=FR }:: [Neil Watts](https://osu.ppy.sh/users/3048059) | Modérateur de tchat, GMT |
 | ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) | NAT |
 | ::{ flag=TR }:: [Nishiji](https://osu.ppy.sh/users/167629) | GMT |
-| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | QAT, NAT |
 | ::{ flag=PH }:: [NoHitter](https://osu.ppy.sh/users/124455) | BAT |
 | ::{ flag=US }:: [nuudles](https://osu.ppy.sh/users/21312) | osu!dev |
 | ::{ flag=CN }:: [Nymph](https://osu.ppy.sh/users/601990) | BAT |
@@ -195,7 +194,7 @@ La page [osu! Alumni group page](https://osu.ppy.sh/groups/16) donne la liste de
 | ::{ flag=CN }:: [popner](https://osu.ppy.sh/users/759860) | BAT |
 | ::{ flag=MY }:: [PROGUY](https://osu.ppy.sh/users/528181) | QAT |
 | ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) | QAT, GMT |
-| ::{ flag=SE }:: [PuffBuck](https://osu.ppy.sh/users/4234525) | Gestion des tournois |
+| ::{ flag=SE }:: [PuffBuck](https://osu.ppy.sh/users/4234525) | Manager des tournois |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | NAT |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | NAT |
 | ::{ flag=ES }:: [Raiden](https://osu.ppy.sh/users/2239480) | GMT, QAT |
@@ -208,8 +207,6 @@ La page [osu! Alumni group page](https://osu.ppy.sh/groups/16) donne la liste de
 | ::{ flag=CO }:: [Sakura](https://osu.ppy.sh/users/289422) | BAT, GMT |
 | ::{ flag=US }:: [SapphireGhost](https://osu.ppy.sh/users/388602) | BAT |
 | ::{ flag=US }:: [Saturos](https://osu.ppy.sh/users/3781) | BAT |
-| ::{ flag=DZ }:: [Scotty](https://osu.ppy.sh/users/11085809) | NAT |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | NAT |
 | ::{ flag=US }:: [Seibei4211](https://osu.ppy.sh/users/31537) | BAT |
 | ::{ flag=IT }:: [Seijiro](https://osu.ppy.sh/users/2581696) | GMT |
 | ::{ flag=MD }:: [senaya](https://osu.ppy.sh/users/304103) | Modérateur de tchat |
@@ -234,6 +231,7 @@ La page [osu! Alumni group page](https://osu.ppy.sh/groups/16) donne la liste de
 | ::{ flag=JP }:: [Suzully](https://osu.ppy.sh/users/431791) | BAT |
 | ::{ flag=KR }:: [Sylphi](https://osu.ppy.sh/users/1399551) | GMT |
 | ::{ flag=US }:: [Sync](https://osu.ppy.sh/users/806921) | BAT |
+| ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | NAT |
 | ::{ flag=US }:: [Takuma](https://osu.ppy.sh/users/43677) | GMT |
 | ::{ flag=US }:: [Tapdancingmetroid](https://osu.ppy.sh/users/1733) | BAT |
 | ::{ flag=US }:: [Tari](https://osu.ppy.sh/users/1779172) | QAT |
@@ -246,12 +244,13 @@ La page [osu! Alumni group page](https://osu.ppy.sh/groups/16) donne la liste de
 | ::{ flag=AU }:: [tsububu](https://osu.ppy.sh/users/61) | BAT |
 | ::{ flag=TH }:: [Tyistiana](https://osu.ppy.sh/users/1421452) | NAT |
 | ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) | NAT |
+| ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | NAT |
 | ::{ flag=PL }:: [Ukami](https://osu.ppy.sh/users/820865) | Modérateur de tchat, GMT |
 | ::{ flag=TR }:: [UnderminE](https://osu.ppy.sh/users/444223) | Modérateur de tchat |
 | ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) | NAT |
 | ::{ flag=BE }:: [VeilStar](https://osu.ppy.sh/users/4255720) | GMT, équipe du support |
 | ::{ flag=PH }:: [vytalibus](https://osu.ppy.sh/users/10028) | BAT |
-| ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | GMT, gestion des tournois |
+| ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | GMT, manager des tournois |
 | ::{ flag=KR }:: [Where](https://osu.ppy.sh/users/549172) | GMT |
 | ::{ flag=US }:: [whymeman](https://osu.ppy.sh/users/51994) | GMT |
 | ::{ flag=ID }:: [Winshley](https://osu.ppy.sh/users/864895) | Modérateur de tchat |
