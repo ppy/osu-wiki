@@ -49,7 +49,7 @@ Each boss character is associated with an original tiebreaker song release each 
 
 ![](/wiki/Tournaments/Project_Prism/2024/img/character-cards.png)
 
-An introductory round is available before then (read: *right now*), featuring osu!taiko Malaysia's poster girl IRIS. She seems to already have been defeated, so perhaps we should increase the HP... but you can still submit scores and complete *missions* for bosses all the way until the tournament ends.
+An introductory round is available before then (read: *right now*), featuring osu!taiko Malaysia's poster girl, IRIS. She seems to already have been defeated, so perhaps we should increase the HP... but you can still submit scores and complete *missions* for bosses all the way until the tournament ends.
 
 Worried about the beatmaps being too difficult? Not a problem! All boss maps include a full difficulty spread, allowing players of all levels to join in the fun!
 
@@ -69,7 +69,7 @@ And here's the kicker:
 
 Tournament participation is available for all osu!taiko players, except those that have **violated the osu! Community rules within the past 12 months.**
 
-Joining the official [osu!taiko Malaysia Discord Server](https://discord.com/invite/osutaikomy) is mandatory for all tournament participants, but we also highly encourage everyone else to join in as well for frequent updates on the event, including the Raid Battles!
+Joining the official [osu!taiko Malaysia Discord server](https://discord.com/invite/osutaikomy) is mandatory for all tournament participants, but we also highly encourage everyone else to join in as well for frequent updates on the event, including the Raid Battles!
 
 Alternatively, stay up to date with the happenings on [osu!taiko Malaysia's Twitter](https://twitter.com/osutaikomy) or by bookmarking the [wiki page](/wiki/Tournaments/Project_Prism/2024).
 
