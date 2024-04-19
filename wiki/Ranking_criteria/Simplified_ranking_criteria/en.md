@@ -15,6 +15,7 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 ![](img/percent.png "Song progress percentage")
 :::
 
+- **Make sure everything in the map is cleared in terms of [content usage permissions](/wiki/Rules/Content_usage_permissions#artist-permissions).**
 - **Maps must be at least 30 seconds long.**
 - **Maps should end around the [80% mark](img/percent.png).** If you want to end the map earlier, try cutting the song.
 
