@@ -146,4 +146,4 @@
 [^stacking-note]: Агрессивность формирования стеков в каждой отдельной сложности определяется её параметром [stack leniency](/wiki/Beatmap/Stack_leniency).
 [^live-mapping-note]: Во всех трёх режимах для расстановки объектов будут использоваться клавиши, назначенные для игры в osu!taiko.
 [^recalculate-lengths-note]: Пригождается при изменении BPM или [скорости слайдера](/wiki/Gameplay/Hit_object/Slider/Slider_velocity).
-[^help-note]: Это действие больше не работает.
+[^help-note]: Это действие отключено.
