@@ -143,7 +143,7 @@
 
 [^osz2-note]: Это действие отключено для обычных `osz` карт.
 [^exit-note]: Это действие иногда игнорирует изменения, внесённые во вкладке «Дизайн».
-[^stacking-note]: Степень наложения стеков определяется параметром [stack leniency](/wiki/Beatmap/Stack_leniency) в сложности.
+[^stacking-note]: Агрессивность формирования стеков в каждой отдельной сложности определяется её параметром [stack leniency](/wiki/Beatmap/Stack_leniency).
 [^live-mapping-note]: osu!, osu!taiko и osu!catch используют клавиши назначенные для osu!taiko.
 [^recalculate-lengths-note]: Полезно, если был изменён BPM или [скорость слайдера](/wiki/Gameplay/Hit_object/Slider/Slider_velocity).
 [^help-note]: Это действие больше не работает.
