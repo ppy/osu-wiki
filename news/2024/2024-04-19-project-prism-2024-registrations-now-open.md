@@ -43,21 +43,25 @@ Check out the opening video below for a succinct summary of everything the tourn
 
 ![](/wiki/shared/news/2024-04-19-project-prism-2024-registrations-now-open/raid-banner.jpg)
 
-Project Prism introduces a *Raid Battle* system, where players cooperate to defeat boss characters by submitting scores on Project Prism's tiebreaker beatmaps!
+Project Prism introduces a *Raid Battle* system, where players cooperate to defeat boss characters by submitting scores on Project Prism's tiebreaker maps!
 
-Each boss character is associated with an original tiebreaker song release each week starting from the Round of 32. An introductory round is available before then (or in other words *right now*), featuring osu!taiko Malaysia's poster girl IRIS.
+Each boss character is associated with an original tiebreaker song release each week starting from the Round of 32.
 
 ![](/wiki/Tournaments/Project_Prism/2024/img/character-cards.png)
 
-Worried about the beatmaps being too difficult? Not a problem! All boss character beatmaps will feature a full difficulty mapset, allowing players of all levels to join in the fun!
+An introductory round is available before then (read: *right now*), featuring osu!taiko Malaysia's poster girl IRIS. She seems to already have been defeated, so perhaps we should increase the HP... but you can still submit scores and complete *missions* for bosses all the way until the tournament ends.
+
+Worried about the beatmaps being too difficult? Not a problem! All boss maps include a full difficulty spread, allowing players of all levels to join in the fun!
 
 To make things more interesting, the Raid Battle mechanic also comes with an added character card system, allowing you to equip up to 5 cards for each score submission to multiply your damage against the boss.
 
-Character cards can be obtained via a *gacha* system, meaning players can earn tickets from weekly missions in order to redeem random cards.
+Character cards can be obtained via a *gacha* system, meaning players can earn tickets from weekly missions (we mentioned those, right?) in order to redeem random cards.
 
 And here's the kicker:
 
 **Everyone is eligible to participate, even non-tournament players!**
+
+[View more details on the website](https://prism.osumalaysia.org/raid-battle/info) or [jump right in](https://prism.osumalaysia.org/raid-battle/1)!
 
 ## How do I register for the tournament?
 
