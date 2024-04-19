@@ -36,7 +36,7 @@ After the submission phase is completed, the voting phase will be announced via 
 | Event | Timestamp |
 | --: | :-- |
 | Announcement | 2024-04-09 |
-| Submission phase | 2024-04-09/2024-05-14 |
+| Submission phase | 2024-04-09/2024-05-24 |
 | Voting phase | 2 weeks starting from a separate news post |
 | Results | *TBD* |
 
