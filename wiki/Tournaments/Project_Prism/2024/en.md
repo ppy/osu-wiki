@@ -64,7 +64,7 @@ Each boss is associated with a tiebreaker song release each week starting from t
 
 ![Characters by tournament stage](img/character-cards.png "Characters associated with Project Prism's original tournament tiebreaker songs")
 
-A list of missions is presented for each stage, which can range from "passing every difficulty" or "completing a map with Flashlight". Completing these earn players rewards on the website, namely story events, or tickets for redeeming random character cards that multiply damage dealt to the boss.
+A list of missions is presented for each stage, which can range from "passing every difficulty" or "completing a map with Flashlight". Completing these earn players rewards on the website, namely story events or "[gacha](https://en.wikipedia.org/wiki/Gacha_game) pulls", which are tickets for redeeming random character cards that multiply damage dealt to the boss.
 
 Both individual score and total damage dealt are recorded onto their respective leaderboards. After enough damage has been dealt during the stage and the boss's HP reaches 0, the top players in both leaderboards receive additional character cards as reward.
 
