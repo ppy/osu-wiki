@@ -15,7 +15,7 @@
 | Тестировать (`F5`) | [Протестировать](/wiki/Client/Beatmap_editor/Test_mode) сложность (будет предложено сохранить изменения). |
 | Открыть AiMod (`Ctrl` + `Shift` + `A`) | Открыть [AiMod](/wiki/Client/Beatmap_editor/AiMod). |
 | Выгрузить на сервер... (`Ctrl` + `Shift` + `U`) | [Выгрузить](/wiki/Beatmapping/Beatmap_submission) карту на форум [Works In Progress](https://osu.ppy.sh/community/forums/10). |
-| Экспортировать в [`.osz`](/wiki/Client/File_formats/osz_(file_format))... | Экспортировать карту в формате [`.osz`](/wiki/Client/File_formats/osz_(file_format)) для самостоятельного распространения, с последующим открытием папки Exports. |
+| Экспортировать в [`.osz`](/wiki/Client/File_formats/osz_(file_format))... | Экспортировать карту в формате [`.osz`](/wiki/Client/File_formats/osz_(file_format)) для самостоятельного распространения, после чего открыть папку Exports. |
 | Распаковать | Распаковать карту в формате `.osz2`<!-- TODO(TicClick: add a link when the article is up)--> во временную папку, для переопределения файлов во время моддинга.[^osz2-note] |
 | Импортировать из... | **bms/bme:** открыть файл `.bms`/`.bme` для импорта сложности в osu!mania. |
 | Открыть папку с песней | Открыть папку с картой, в которой содержаться соответствующие игровые файлы. |
