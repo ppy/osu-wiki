@@ -78,9 +78,9 @@ It's time to quickly look at the prizes that the top 3 skinners will receive:
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge themed around their submission, 6 months of osu!supporter |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Profile badge themed around their submission, 4 months of osu!supporter |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Profile badge themed around their submission, 2 months of osu!supporter |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge themed around their submission (pending), 6 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Profile badge themed around their submission (pending), 4 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Profile badge themed around their submission (pending), 2 months of osu!supporter |
 
 ---
 
