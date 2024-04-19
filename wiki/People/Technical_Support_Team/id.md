@@ -1,32 +1,27 @@
----
-outdated_translation: true
-outdated_since: 24a3e2dd442d541ad1e64134b4ca7243b16fe038
----
+# Tim dukungan teknis
 
-# Support Team
+*Artikel ini mengusung konteks bahasan yang berbeda dengan [Tim dukungan akun](/wiki/People/Account_support_team)*.
 
-*Untuk tim yang mengelola akun, kunjungi: [Account support team](/wiki/People/Account_support_team)*
+**Tim dukungan teknis** (*technical support team*, atau yang sebelumnya dikenal sebagai *Support Team* serta *Support Team Redux*) merupakan kelompok pengguna yang beranggotakan para staf osu! yang berfokus untuk memoderasi rangkaian sub-forum berikut: [Development](https://osu.ppy.sh/community/forums/2), [Feature Requests](https://osu.ppy.sh/community/forums/4), dan [Help](https://osu.ppy.sh/community/forums/5).
 
-**Support Team**, juga dikenal sebagai **Support Team Redux**, adalah anggota staf osu! yang berfokus pada moderasi forum atau pada sub-forum: [Development](https://osu.ppy.sh/community/forums/2), [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (tidak termasuk [Tournaments](https://osu.ppy.sh/community/forums/55) dan [Mapping Techniques](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Feature Requests](https://osu.ppy.sh/community/forums/4), dan [Help](https://osu.ppy.sh/community/forums/5).
+## Peran dan tanggung jawab
 
-## Peran dan Tanggung Jawab
+Tim dukungan teknis bertanggung jawab untuk:
 
-Support Team bertanggung Jawab atas:
+1. Menguji dan/atau mengonfirmasi laporan *bug* agar para pengembang dapat mengetahui dan memperbaiki *bug* yang bersangkutan.
+2. Mengorganisir topik pada sub-forum [Feature Requests](https://osu.ppy.sh/community/forums/4) dan [Help](https://osu.ppy.sh/community/forums/5) dengan menyematkan label *Resolved*, *Confirmed*, *Invalid*, *Duplicate* dan/atau *Added*.
 
-1. Mengetes dan/atau mengonfirmasikan bug sehingga developer tahu dan diperbaiki oleh mereka.
-2. Memoderasi thread pada forum [Feature Requests](https://osu.ppy.sh/community/forums/4) dan [Help](https://osu.ppy.sh/community/forums/5) dan memberikan label *Resolved*, *Confirmed*, *Invalid*, *Duplicate* dan/atau *Added* pada thread tersebut.
+Apabila terdapat pengguna yang memerlukan bantuan pada salah satu sub-forum di atas, para anggota tim ini akan siap untuk membantu.
 
-Jika seseorang membutuhkan bantuan di bagian sub-forum tersebut, anggota dari tim ini bersedia untuk membantu.
+## Anggota tim
 
-## Anggota Tim
+*Catatan: Kecuali disebutkan secara khusus, seluruh anggota tim dukungan teknis dapat berkomunikasi dalam Bahasa Inggris di samping bahasa tambahan mereka.*
 
-Halaman daftar [Support Team](https://osu.ppy.sh/groups/22).
-
-*Catatan: Semua Support Team berbicara dengan bahasa Inggris selain bahasa yang tercantum dibawah ini, kecuali yang tidak tercatat.*
+Daftar anggota tim dukungan teknis selengkapnya juga dapat dilihat pada [halaman grup tim dukungan teknis](https://osu.ppy.sh/groups/22).
 
 | Nama | Bahasa tambahan |
 | :-- | :-- |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |
-| ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino |
+| ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Tagalog |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Spanyol |
