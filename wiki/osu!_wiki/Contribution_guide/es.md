@@ -30,8 +30,8 @@ Cuando hayas terminado de editar, tómate un tiempo para revisar tu trabajo. Rev
 - **Tono de entrega**: los artículos de la osu! wiki, con raras excepciones, deben escribirse usando un registro neutral.
 - **Estilo y gramática**: los artículos deben ser claros, comprensibles y no requerir un esfuerzo mental significativo por parte del lector. Sé consistente y evita oraciones demasiado complicadas o abruptas. Usa editores con correctores ortográficos incorporados, como [Documentos de Google](https://docs.google.com), para exponer errores tipográficos y gramaticales o de sintaxis.
 - **[Paridad de contenido](/wiki/Article_styling_criteria/Writing#paridad-de-contenido)**: las traducciones deben contener la misma información que los artículos originales (obviamente se esperan diferencias en la puntuación, redacción o formato). En lugar de cambiar el contenido de la traducción, [abre una propuesta](https://github.com/ppy/osu-wiki/issues/new) o una solicitud de cambios adicional para el original si crees que está incompleto, inexacto o desactualizado.
-- **Estructura y formato**: obtén una vista previa de tu artículo con una herramienta como [Markdown Editor de jbt](https://jbt.github.io/markdown-editor/) para asegurarte de que se ve exactamente como tú querías que fuera.
-- **Todas las imágenes y otros archivos** que no sean de texto deben tener [menos de 1 megabyte](/wiki/Article_styling_criteria/Formatting#tamaño-del-archivo). Las **capturas de pantalla** deben usar la skin de osu! predeterminada y las [configuraciones específicas](/wiki/Article_styling_criteria/Formatting#capturas-de-pantalla-del-juego), incluyendo las dimensiones máximas de 1280×720.
+- **Estructura y formato**: obtén una vista previa de tu artículo con una herramienta como [Markdown Editor de jbt](https://jbt.github.io/markdown-editor/) para asegurarte de que se ve exactamente como querías.
+- **Todas las imágenes y otros archivos** que no sean de texto deben tener [menos de 1 megabyte](/wiki/Article_styling_criteria/Formatting#tamaño-del-archivo). Las **capturas de pantalla** deben usar la skin predeterminada de osu! y las [configuraciones específicas](/wiki/Article_styling_criteria/Formatting#capturas-de-pantalla-del-juego), incluyendo las dimensiones máximas de 1280×720.
 
 Para estándares de escritura y formato más específicos, consulta los [criterios de estilo para artículos](/wiki/Article_styling_criteria). No se recomienda leerlo todo de una vez, un revisor probablemente señalará si es necesario corregir algo de cualquier manera.
 
@@ -39,13 +39,13 @@ Para estándares de escritura y formato más específicos, consulta los [criteri
 
 Después de que los cambios se verifiquen dos veces, se confirmen y se envíen a tu bifurcación, debes proponerlos a los mantenedores de la wiki abriendo una solicitud de cambios:
 
-1. En **tu bifurcación** de la osu! wiki, busca el menú desplegable que dice `master↓` y seleccione la rama con tus cambios.
+1. En **tu bifurcación** de la osu! wiki, busca el menú desplegable que dice `master↓` y selecciona la rama con tus cambios.
 2. Haz clic en el botón `Contribute↓` y selecciona `Open pull request`.
 3. Completa los detalles de acuerdo con [Prácticas recomendadas § Abrir una solicitud de cambios](/wiki/osu!_wiki/Contribution_guide/Best_practices#abrir-una-solicitud-de-cambios) y haz clic en `Create pull request`.
 
 ## Revisión {id=review}
 
-Todos los cambios en la osu! wiki son moderados. Durante esa etapa, otros colaboradores señalan posibles errores y formas de solucionarlos, ya sea de forma libre o sugiriendo ediciones directas a la solicitud de cambios. Al igual que con cualquier otra revisión por pares, debes abordar los comentarios [aplicando las revisiones](/wiki/osu!_wiki/Contribution_guide/Best_practices#aplicar-revisiones) o explicando por qué prefiere mantener las cosas como están.
+Todos los cambios en la osu! wiki son moderados. Durante esa etapa, otros colaboradores señalan posibles errores y formas de solucionarlos, ya sea de forma libre o sugiriendo ediciones directas a la solicitud de cambios. Al igual que con cualquier otra revisión por pares, debes abordar los comentarios [aplicando las revisiones](/wiki/osu!_wiki/Contribution_guide/Best_practices#aplicar-revisiones) o explicando por qué prefieres mantener las cosas como están.
 
 Si nadie lo ha revisado al cabo de un par de días, intenta lo siguiente:
 
