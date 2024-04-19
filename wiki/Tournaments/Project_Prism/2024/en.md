@@ -125,14 +125,14 @@ Detailed information can be found on the [website](https://prism.osumalaysia.org
 4. Warmups must be sent to the referees at least 30 minutes before the start of the map. The warmup must be less than 3 minutes in length and not contain inappropriate content. The referee reserves the right to reject maps that they deem to be inappropriate.
 5. At the start of each match, players will be asked to `!roll` to determine who picks or bans first. The player with the higher roll will get to pick first and ban second.
 6. Banned maps and tiebreakers are not allowed to be picked throughout the match.
-7. Each player will be given a maximum of 2 minutes to select their picks. If a pick has not be decided before the countdown timer ends, the map will be randomised with `!roll`.
+7. Each player will be given a maximum of 2 minutes to select their picks. If a pick has not been decided before the countdown timer ends, the map will be randomised with `!roll`.
 8. After a map is decided, players will then have a maximum of 2 minutes to ready up before the referee forces a start.
 9. Players should ensure that they have all the maps downloaded before the start of their match. In the event that a player is missing a map, they will automatically lose the point if they are unable to download it within the 2 minutes given.
 10. Players may ask for a "tactical timeout" during a match, which will add an extra 2 minutes to the timer. This can only be used **once** per match.
 11. A rematch of the same map will be given if a player disconnects within the first 30 seconds of the map. Any subsequent disconnections on the same map will be treated as a point loss.
 12. Lag is not a valid reason to restart a map.
 13. In the event of a tie in scores, neither player will gain points and the map will be played again.
-14. In the unlikely event that both players get a tied score twice in a row on the same map, the map will be nullified and another map needs to be picked by the other player.
+14. In the unlikely event that both players get a tied score twice in a row on the same map, the map will be nullified, and another map needs to be picked by the other player.
 15. Failed scores will be counted.
 16. If both players reach match point (requiring 1 more point to win), the tiebreaker map will be played.
 17. Unexpected incidents will be handled by the referee or host.
