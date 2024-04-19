@@ -41,7 +41,7 @@ Check out the opening video below for a succinct summary of everything the tourn
 
 ## Raid Battles
 
-![](/wiki/Tournaments/Project_Prism/2024/img/raid-battle.jpg)
+![](/wiki/shared/news/2024-04-19-project-prism-2024-registrations-now-open/raid-banner.jpg)
 
 Project Prism introduces a *Raid Battle* system, where players cooperate to defeat boss characters by submitting scores on Project Prism's tiebreaker beatmaps!
 
