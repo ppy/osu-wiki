@@ -104,7 +104,7 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 ![](img/delay.png "Hitsound file with delay")
 :::
 
-- **Hitsound files must be 25 ms long and use `.wav` or `.ogg` file formats.**
+- **Hitsound files must be at least 25 ms long and use `.wav` or `.ogg` file formats.**
   - Do not use `.mp3`.
   - **Exception:** Use [this file](https://up.ppy.sh/files/blank.wav) for silent hitsounds.
 - **Hitsounds must not be [delayed](img/delay.png).**
