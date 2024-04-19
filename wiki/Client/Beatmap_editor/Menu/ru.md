@@ -57,9 +57,9 @@
 
 | Название | Описание |
 | :-- | :-- |
-| Редактор (`F1`) | Поменять активную вкладку на  [`Редактор`](/wiki/Client/Beatmap_editor/Compose). |
-| Дизайн (`F2`) | Поменять активную вкладку на [`Дизайн`](/wiki/Client/Beatmap_editor/Design). |
-| Тайминг (`F3`) | Поменять активную вкладку на  [`Тайминг`](/wiki/Client/Beatmap_editor/Timing). |
+| Редактор (`F1`) | Перейти на вкладку «[`Редактор`](/wiki/Client/Beatmap_editor/Compose)». |
+| Дизайн (`F2`) | Перейти на вкладку «[`Дизайн`](/wiki/Client/Beatmap_editor/Design)». |
+| Тайминг (`F3`) | Перейти на вкладку «[`Тайминг`](/wiki/Client/Beatmap_editor/Timing)». |
 | Настройка карты (`F4`) | Открыть окно [`Song Setup`](/wiki/Client/Beatmap_editor/Song_setup). |
 | Настройки тайминга (`F6`) | Открыть окно [`Тайминг-секций`](/wiki/Client/Beatmap_editor/Timing). |
 | Громкость и звук | Отрегулировать уровень громкости музыки или хитсаундов. |
