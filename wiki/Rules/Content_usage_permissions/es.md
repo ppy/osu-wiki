@@ -12,13 +12,13 @@ Sin permiso, los [beatmaps](/wiki/Beatmap) subidos están en riesgo de ser remov
 
 Si estás deseoso de añadir o actualizar tu entrada en esta lista, no dudes en ponerte en contacto con el equipo de licenciamiento de música de osu! en [music@ppy.sh](mailto:music@ppy.sh).
 
-Considera también contactar al equipo para negociar la conceción de licencias. Consulta la [página de licenciamiento de música de osu!](/wiki/Legal/Music_licensing/) para más información.
+Considera también contactar al equipo para negociar la conceción de licencias. Consulta la [página de licenciamiento de música de osu!](/wiki/Legal/Music_licensing) para más información.
 
 ## Audio
 
 *Aviso: La publicación o retransmisión de partidas en otros sitios puede estar sujeta a diferentes requisitos de licencia que deben negociarse o comprenderse. Por favor, actúa con la debida diligencia al retransmitir partidas a un público*
 
-osu! brinda una librería de canciones licenciadas a los mappers a través del programa de [artista destacado](/wiki/People/Featured_Artists/). Cada canción en [la lista](https://osu.ppy.sh/beatmaps/artists) se puede usar libremente en osu! y no está sujeta a riesgo de eliminación.
+osu! brinda una librería de canciones licenciadas a los mappers a través del programa de [artista destacado](/wiki/People/Featured_Artists). Cada canción en [la lista](https://osu.ppy.sh/beatmaps/artists) se puede usar libremente en osu! y no está sujeta a riesgo de eliminación.
 
 Al buscar canciones fuera del catálogo de artista destacado de osu!, verifica si su artista indicó términos de uso explicitamente. Esta información puede ser encontrada a menudo en la sección de descripción de las plataformas de lanzamiento de música de un artista (por ejemplo, Bandcamp, SoundCloud, Youtube) o su sitio web personal. Si una canción está bajo una [licencia Creative Commons](https://creativecommons.org/about/cclicenses/) o está disponible para su uso no comercial, es seguro crear y enviar un beatmap que la use.
 
