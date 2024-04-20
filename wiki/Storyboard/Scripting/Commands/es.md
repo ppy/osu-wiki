@@ -6,9 +6,9 @@ Un comando bajo una declaración de un objeto se ve así:
 
 `_(evento),(easing),(starttime),(endtime),(parámetros...)`
 
-dónde:
+en donde:
 
-- _ puede ser un espacio en lugar de un guión bajo.
+- _ puede ser un espacio en lugar de un guion bajo.
 - (evento) es una letra/par de letras, que corresponde a uno de los comandos que aparecen a continuación.
 - (easing) indica si el comando debe «acelerar». Véase la [hoja de referencia de las funciones de suavizado](http://easings.net). Los valores válidos se enumeran a continuación.
 - (starttime) y (endtime) son los tiempos de inicio y fin del comando, respectivamente en milisegundos (ms).
@@ -77,7 +77,7 @@ en donde:
 - (start_opacity) es el valor al inicio del tiempo
 - (end_opacity) es el valor al final del tiempo
 
-Por ejemplo, para desvanecer un objeto en 1 segundo (comenzando 1 segundo después de que comienza el mapa), esperar 2 segundos en la mitad de la transparencia y luego desvanecerlo en 1 segundo, escribiríamos algo como:
+Por ejemplo, para desvanecer un objeto en 1 segundo (comenzando 1 segundo después de que comience el mapa), esperar 2 segundos en la mitad de la transparencia y luego desvanecerlo en 1 segundo, escribiríamos algo como:
 
 ```
 Sprite,Pass,Centre,"Sample.png",320,240
@@ -123,7 +123,7 @@ Entonces,
 
 #### Comando mover X (MX)
 
-Como mover, pero solo cambia la coordenada X. La coordenada Y permanece igual. Por ejemplo, para mover un objeto de la izquierda de la pantalla a la derecha:
+Como el comando mover, pero solo cambia la coordenada X. La coordenada Y permanece igual. Por ejemplo, para mover un objeto de la izquierda de la pantalla a la derecha:
 
 ```
 Sprite,Pass,Centre,"Sample.png",320,240
@@ -137,7 +137,7 @@ Entonces,
 
 #### Comando mover Y (MY)
 
-Como mover, pero solo cambia la coordenada Y. La coordenada X permanece igual. Por ejemplo, para mover un objeto desde la parte inferior de la pantalla hasta la parte superior:
+Como el comando mover, pero solo cambia la coordenada Y. La coordenada X permanece igual. Por ejemplo, para mover un objeto desde la parte inferior de la pantalla hasta la parte superior:
 
 `Sprite,Pass,Centre,"Sample.png",320,240`
 `_MY,0,1500,6000,-100,580`
@@ -198,7 +198,7 @@ Entonces,
 
 | Afecta | Definición del valor | Valor predeterminado |
 | :-- | :-- | :-- |
-| La cantidad de rotación de un objeto desde su imagen original, en radianes, en el sentido de las agujas del reloj. | Cualquier número real; el negativo es la rotación en el sentido contrario de las agujas del reloj/antihorario, el positivo es en el sentido de las agujas del reloj. Exceder 2*pi en cualquier sentido, seguirá girando tantas veces como desees. | 0 |
+| La cantidad de rotación de un objeto desde su imagen original, en radianes, en el sentido de las agujas del reloj. | Cualquier número real; el negativo es la rotación en el sentido contrario de las agujas del reloj/antihorario, el positivo es en el sentido de las agujas del reloj. Exceder 2*pi en cualquier sentido seguirá girando tantas veces como desees. | 0 |
 
 en donde:
 
@@ -248,9 +248,9 @@ _C,0,58810,59810,CC,CC,0
 
 ## Comandos adicionales
 
-### Comando de parámetro (P)
+### Comando parámetro (P)
 
-A diferencia de los otros comandos, que pueden verse como la configuración de puntos finales a lo largo de valores de seguimiento continuo, el comando parámetro se aplica SOLO mientras están activos; es decir, no se puede colocar un comando desde las marcas de tiempo 1000 a 2000 y esperar que el valor se aplique en el tiempo 3000, incluso si los otros comandos del objeto no han terminado en ese momento.
+A diferencia de los otros comandos, que pueden verse como el establecimiento de puntos finales a lo largo de valores de seguimiento continuo, el comando parámetro se aplica SOLO mientras están activos; es decir, no se puede colocar un comando desde las marcas de tiempo 1000 a 2000 y esperar que el valor se aplique en el tiempo 3000, incluso si los otros comandos del objeto no han terminado en ese momento.
 
 `_P,(easing),(starttime),(endtime),(parámetro)`
 
@@ -272,5 +272,5 @@ _P,0,60000,62000,V
 
 Hay comandos más complicados que no hacen nada por sí solos. En cambio, proporcionan condiciones para cuando ocurran otros eventos y se explican en páginas separadas:
 
-- [Comando de bucle (L)](/wiki/Storyboard/Scripting/Compound_Commands)
+- [Comando bucle (L)](/wiki/Storyboard/Scripting/Compound_Commands)
 - [Comando de activación (T)](/wiki/Storyboard/Scripting/Compound_Commands)
