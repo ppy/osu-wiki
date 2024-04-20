@@ -16,10 +16,6 @@ Not only is the (lack of) theme reminiscent of the past, but the contest schedul
 
 Regardless of whether you are a seasoned skinning contest veteran or if this is your first time joining us, let's first get familiar with the rules as well as the proper way to submit your beautifully crafted masterpieces!
 
-## Rule change
-
-In previous skinning contests, all entries containing 3rd-party assets of any kind could only be used with explicit permission from the author, which a lot of the time stifled creativity or completely stopped a skinner from realising their ideas. Starting from this contest and going forward, **any art can be used as long as the original artists are clearly credited in your submission post**.
-
 ## Participation
 
 As per the usual, all skins have to be created from scratch and be aligned with the rules listed below!
@@ -40,7 +36,7 @@ After the submission phase is completed, the voting phase will be announced via 
 | Event | Timestamp |
 | --: | :-- |
 | Announcement | 2024-04-09 |
-| Submission phase | 2024-04-09/2024-05-14 |
+| Submission phase | 2024-04-09/2024-05-24 |
 | Voting phase | 2 weeks starting from a separate news post |
 | Results | *TBD* |
 
@@ -49,7 +45,7 @@ You can view a real-time countdown until the next stage of the contest on [the c
 ## Rules
 
 - Submissions must not contain inappropriate, malicious, or epileptic content, and should adhere to the [osu! community rules](/wiki/Rules).
-- All assets need to be created by yourself, or be properly credited to the original creator. This includes, but is not limited to:
+- All assets need to be created by yourself, or used with permission and proper credit to the authors. This includes, but is not limited to:
   - fonts
   - icons
   - textures
@@ -78,9 +74,9 @@ It's time to quickly look at the prizes that the top 3 skinners will receive:
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge themed around their submission (pending), 6 months of osu!supporter |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Profile badge themed around their submission (pending), 4 months of osu!supporter |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Profile badge themed around their submission (pending), 2 months of osu!supporter |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge themed around their submission, 6 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Profile badge themed around their submission, 4 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Profile badge themed around their submission, 2 months of osu!supporter |
 
 ---
 
