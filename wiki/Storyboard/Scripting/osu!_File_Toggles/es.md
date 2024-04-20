@@ -1,4 +1,4 @@
-# Activadores del archivo .osu de storyboards
+# Activadores del archivo .osu de los storyboards
 
 *Véase también: [skin.ini](/wiki/Skinning/skin.ini)*
 
