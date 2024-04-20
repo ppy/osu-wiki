@@ -3,6 +3,9 @@ tags:
   - charts
   - Ranking Charts
   - Seasonal Spotlights
+  - tablas
+  - Tablas de clasificación
+  - Destacados de temporada
 ---
 
 # Temporada 10 de Beatmap Spotlights (Otoño 2023)
