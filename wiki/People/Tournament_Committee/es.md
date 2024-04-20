@@ -24,7 +24,7 @@ El **comité de concursos** es un subgrupo directamente asociado con el **comit�
 
 Sus responsabilidades incluyen:
 
-- Observar la escena general del concurso y asesorar al [equipo de soporte de cuentas](/wiki/People/Account_support_team) caso por caso
+- Observar la escena general de los concursos y asesorar al [equipo de soporte de cuentas](/wiki/People/Account_support_team) caso por caso
 - Revisar regularmente la página de [soporte oficial para concursos de beatmapping](/wiki/Contests/Official_support) para realizar revisiones cuando sea necesario
 
 El panel se anunció por primera vez al público el 28 de febrero de 2024 a través del foro [Mapping Discussion](https://osu.ppy.sh/community/forums/topics/1890429?n=1).
