@@ -1,4 +1,4 @@
-# Reglas generales para el storyboarding
+# Reglas generales del storyboarding
 
 ![Un ejemplo de las secuencias de comandos en un archivo .osb.](img/SBS_Base-ES.png "Un ejemplo de las secuencias de comandos en un archivo .osb.")
 
@@ -8,7 +8,7 @@ Esta guía describe las líneas de código de las secuencias de comandos que se 
 
 ### Objetos
 
-*Para los objetos en [osu!](/wiki/Game_mode/osu!) y el [Beatmapping](/wiki/Beatmapping), véase: [Objetos](/wiki/Gameplay/Hit_object)*
+*Para los objetos en [osu!](/wiki/Game_mode/osu!) y el [beatmapping](/wiki/Beatmapping), véase: [Objetos](/wiki/Gameplay/Hit_object)*
 
 Un [objeto de un storyboard](/wiki/Storyboard/Scripting/Objects) es una instancia de un sprite o una animación en un storyboard. Los storyboards también pueden tener sonido; consulta la guía de [audio](/wiki/Storyboard/Scripting/Audio) para obtener más detalles.
 
@@ -42,7 +42,7 @@ Estas son las cuatro capas de un storyboard, en orden creciente de prioridad:
 - Pass (solo se muestra si el jugador está en el «estado Pass», consulta [estado de juego](#estado-de-juego) a continuación)
 - Primer plano
 
-Ten en cuenta que las capas «Fail» y «Pass» nunca aparecen en pantalla simultáneamente, a diferencia de lo que ocurre en la pestaña de diseño.
+Ten en cuenta que las capas «Fail» y «Pass» nunca aparecen en la pantalla simultáneamente, a diferencia de lo que ocurre en la pestaña de diseño.
 
 De forma predeterminada, el fondo de vista previa (el fondo visible en el [selector de canciones](/wiki/Client/Interface#selector-de-canciones)) especificado para el beatmap se coloca debajo de todas las demás capas. Sin embargo, si se hace referencia a ese mismo archivo como un objeto en el storyboard, desaparecerá inmediatamente después de que se cargue el beatmap. Es común tener el fondo de vista previa del beatmap como el primer objeto especificado (en términos de tiempo y de sprites) y usar el comando «fade out» (iluminar) para «presentar» el fondo a la audiencia.
 
@@ -72,8 +72,8 @@ Estados durante el **tiempo de descanso** (entre segmentos de tiempo de juego):
 - Estado Pass si la barra de HP terminó por encima de la mitad en la última sección de tiempo de juego (es decir, aparece el símbolo «O»).
 - De lo contrario, estado Fail (es decir, aparece el símbolo «X»).
   - En [osu!taiko](/wiki/Game_mode/osu!taiko), si se alcanza cierta cuota en un momento determinado. Consulta los dos ejemplos siguientes.
-    - Ejemplo A: Obtener una precisión de 96,5 % mientras la barra de HP todavía está al 40 % dará un Pass en lugar de un Fail.
-    - Ejemplo B: Obtener demasiados 100 en aproximadamente 30 notas y obtener una D mientras la barra de HP todavía está alrededor del 30 % resultará en un Fail en lugar de un Pass (en este caso, consulta [ZUN - Maiden's Cappricio ~ Dream Battle](https://osu.ppy.sh/beatmapsets/18005#taiko/69556)).
+    - Ejemplo A: Obtener una precisión de 96,5 % mientras la barra de HP todavía está al 40 % dará un Pass en lugar de un Fail.
+    - Ejemplo B: Obtener demasiados 100 en aproximadamente 30 notas y obtener una D mientras la barra de HP todavía está alrededor del 30 % resultará en un Fail en lugar de un Pass (en este caso, consulta [ZUN - Maiden's Cappricio ~ Dream Battle](https://osu.ppy.sh/beatmapsets/18005#taiko/69556)).
 
 Los estados después del último tiempo de juego, si el beatmap tuvo al menos un descanso:
 
@@ -92,10 +92,10 @@ Los estados después del último tiempo de juego, si el beatmap no tuvo descanso
 - El tiempo en el SB no depende de la temporización del beatmap en sí (por ejemplo, cuántos compases hay o pulsos por minuto). Por lo tanto, se recomienda que el beatmap esté razonablemente temporizado antes del storyboarding, ya que será más difícil ajustar estos tiempos más adelante.
 - El tiempo no está limitado a la duración de la canción. Es posible tener valores negativos para eventos antes de que comience la canción (una introducción) y para valores que se extienden más allá de la última sección jugable o incluso del final del archivo de audio (un cierre).
 - Cuando se carga, el beatmap comenzará desde el primer evento especificado o desde el tiempo 0, lo que ocurra primero.
-  - En el primer caso, se mostrará al usuario el botón `Skip`. Al hacer clic en él o al presionar `Barra espaciadora` saltará al tiempo 0. El juego vuelve al comportamiento normal de salto previo al mapa (por ejemplo, presiona `Skip` nuevamente para ir directamente a la cuenta regresiva, a diferencia de [Elite Beat Agents](https://es.wikipedia.org/wiki/Elite_Beat_Agents), donde reiniciar el beatmap lleva al jugador hasta el inicio, no hasta el tiempo 0).
+  - En el primer caso, se mostrará al usuario el botón `Skip`. Al hacer clic en él o al presionar `Barra espaciadora` saltará al tiempo 0. El juego vuelve al comportamiento normal de salto previo al mapa (por ejemplo, presionar `Skip` nuevamente para ir directamente a la cuenta regresiva, a diferencia de [Elite Beat Agents](https://es.wikipedia.org/wiki/Elite_Beat_Agents), donde reiniciar el beatmap lleva al jugador hasta el inicio, no hasta el tiempo 0).
 - El juego pasará a la [pantalla de resultados](/wiki/Client/Interface#pantalla-de-resultados) tan pronto como ocurra el último evento, o el usuario haga clic en el botón `Skip` o presione `Barra espaciadora`.
   - Esto incluye eventos que se encuentran en **AMBAS** capas de Pass/Fail, aunque solo se mostrará una.
-    - Ejemplo: si el storyboard de Fail termina en el tiempo 20 000 y el storyboard de Pass termina en el tiempo 25 000, el juego esperará hasta el momento 25 000 incluso si el jugador está en estado Fail (todos los objetos desaparecerán). Por lo tanto, es mejor asegurarse de que las variantes de finalización de Pass y Fail tarden la misma cantidad de tiempo en completarse.
+    - Ejemplo: si el storyboard de Fail termina en el tiempo 20 000 y el storyboard de Pass termina en el tiempo 25 000, el juego esperará hasta el momento 25 000 incluso si el jugador está en estado Fail (todos los objetos desaparecerán). Por lo tanto, es mejor asegurarse de que las variantes de finalización de Pass y Fail tarden la misma cantidad de tiempo en completarse.
   - Los eventos continuarán aunque el usuario salte a la pantalla de resultados antes de tiempo, y el audio producido por el storyboard podrá seguir escuchándose.
 - Cuando se está en la pestaña de diseño del editor de beatmaps, se muestra el tiempo actual en milisegundos. Presiona `Ctrl` + `C` para copiar el tiempo actual al portapapeles.
 
