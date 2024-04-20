@@ -11,11 +11,11 @@ La forma de una declaración de una muestra de audio es:
 en donde:
 
 - `<tiempo>` es la marca de tiempo en la que el sonido debería comenzar a reproducirse.
-- `<número de la capa>` es un *valor numérico* correspondiente a la capa en la que desea que esté el sonido. Los valores válidos se enumeran a continuación.
-- `<ruta del archivo>` es el mismo concepto que con los sprites, solo que se refiere a los archivos .wav, .mp3 u .ogg.
+- `<número de la capa>` es un *valor numérico* correspondiente a la capa en la que deseas que esté el sonido. Los valores válidos se enumeran a continuación.
+- `<ruta del archivo>` es el mismo concepto que con los sprites, solo que se refiere a los archivos .wav, .mp3 o .ogg.
 - `<volumen>` es un número del 1 al 100 para indicar el volumen relativo del sonido (siendo 100 el valor predeterminado).
 
-Los valores válidos para capas son:
+Los valores válidos para las capas son:
 
 | Valor | Capa |
 | :-: | :-- |
