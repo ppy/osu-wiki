@@ -10,9 +10,9 @@ Sin permiso, los [beatmaps](/wiki/Beatmap) subidos están en riesgo de ser remov
 
 ## Optar
 
-Si estás deseoso de añadir o actualizar tu entrada en esta lista, no dudes en ponerte en contacto con el equipo de licenciamiento de música de osu! en [music@ppy.sh](mailto:music@ppy.sh).
+Los artistas que deseen añadir o actualizar su entrada en este listado pueden ponerse en contacto con el equipo de licenciamiento de música de osu! en [music@ppy.sh](mailto:music@ppy.sh).
 
-Considera también contactar al equipo para negociar la conceción de licencias. Consulta la [página de licenciamiento de música de osu!](/wiki/Legal/Music_licensing) para más información.
+También puedes considerar la posibilidad de ponerte en contacto con el equipo para negociar la concesión de licencias. Consulta la [página de licenciamiento de música de osu!](/wiki/Legal/Music_licensing) para más información.
 
 ## Audio
 
@@ -20,19 +20,19 @@ Considera también contactar al equipo para negociar la conceción de licencias.
 
 osu! brinda una librería de canciones licenciadas a los mappers a través del programa de [artista destacado](/wiki/People/Featured_Artists). Cada canción en [la lista](https://osu.ppy.sh/beatmaps/artists) se puede usar libremente en osu! y no está sujeta a riesgo de eliminación.
 
-Al buscar canciones fuera del catálogo de artista destacado de osu!, verifica si su artista indicó términos de uso explicitamente. Esta información puede ser encontrada a menudo en la sección de descripción de las plataformas de lanzamiento de música de un artista (por ejemplo, Bandcamp, SoundCloud, Youtube) o su sitio web personal. Si una canción está bajo una [licencia Creative Commons](https://creativecommons.org/about/cclicenses/) o está disponible para su uso no comercial, es seguro crear y enviar un beatmap que la use.
+Al buscar canciones fuera del catálogo de los artistas destacados de osu!, verifica si su artista indicó términos de uso explicitamente. Esta información puede ser encontrada a menudo en la sección de descripción de las plataformas de lanzamiento de música de un artista (por ejemplo, Bandcamp, SoundCloud, Youtube) o su sitio web personal. Si una canción está bajo una [licencia Creative Commons](https://creativecommons.org/about/cclicenses/) o está disponible para su uso no comercial, puedes crear y enviar un beatmap que la use.
 
 Si los derechos de uso de una canción no son claros, se recomienda pedir permiso al artista antes de usarla en un beatmap. La mayoría de artistas tienen información de contacto etiquetada en sus plataformas de lanzamiento de música, sitios web personales y redes sociales.
 
-Esto puede parecer un gran obstáculo, pero los mappers han tenido un índice de éxito bastante alto y han recibido la aprobación de los artistas simplemente por tener el valor de preguntar antes de usar contenido sin permiso. Puede ser útil mencionar que osu! es un juego libre de anuncios, o adjuntar la [página de licenciamiento](/wiki/Legal/Music_licensing) de osu! para darles una mejor idea de cómo es consumido el contenido.
+Esto puede parecer un gran obstáculo, pero los mappers han tenido un índice de éxito bastante alto y han recibido la aprobación de los artistas simplemente por tener el valor de preguntar antes de usar contenido sin permiso. Puede ser útil mencionar que osu! es un juego libre de anuncios, o adjuntar la [página de licenciamiento](/wiki/Legal/Music_licensing) de osu! para darles una mejor idea de cómo se consume el contenido.
 
-Mientras que la música es frecuentemente restringida por derechos de autor, los efectos de sonido usados para hitsounds suelen estar disponibles gratuitamente. Por ejemplo, la orquesta Philharmonia proporciona [muestras de sonido de instrumentos](https://philharmonia.co.uk/resources/sound-samples/) gratis y [Freesound](https://freesound.org) permite filtrar la búsqueda de muestras de sonido por derechos de uso.
+Mientras que la música suele estar sujeta a derechos de autor, los efectos de sonido usados para los hitsounds personalizados suelen estar disponibles gratuitamente. Por ejemplo, la orquesta Philharmonia proporciona [muestras de sonido de instrumentos](https://philharmonia.co.uk/resources/sound-samples/) gratis y [Freesound](https://freesound.org) permite filtrar la búsqueda de muestras de sonido por derechos de uso.
 
-### Permisos de artista
+### Permisos de los artistas
 
 Esta sección detalla qué artistas están dispuestos a permitir el uso de sus trabajos de audio en osu!, y bajo qué condiciones (cuando sea apropiado).
 
-Todas las pistas listadas en cualquier [lista de artista destacado](https://osu.ppy.sh/beatmaps/artists) están aprobadas para su uso en la creación de beatmaps de osu!. Las pistas de un artista destacado que no aparezcan en su listado *no* están licenciadas y pueden ser necesarios permisos adicionales para utilizarlas.
+Todas las pistas que aparecen en cualquier [lista de los artistas destacados](https://osu.ppy.sh/beatmaps/artists) están aprobadas para su uso en la creación de beatmaps de osu!. Las pistas de un artista destacado que no aparezcan en su listado *no* están licenciadas y pueden ser necesarios permisos adicionales para usarlas.
 
 | Artista |  | Estado | Notas |
 | :-- | :-- | :-- | :-- |
@@ -437,7 +437,7 @@ Todas las pistas listadas en cualquier [lista de artista destacado](https://osu.
 
 ## Visual
 
-Los activos visuales de un beatmap incluyen el [fondo](/wiki/Beatmap/Background), [guión gráfico](/wiki/Storyboard) y vídeo y siguen los mismos requerimientos de uso que los activos de audio.
+Los recursos visuales incluyen el [fondo](/wiki/Beatmap/Background), el [storyboard](/wiki/Storyboard) y el vídeo de un beatmap y siguen los mismos requerimientos de uso que los recursos de audio.
 
 Muchos sitios web de alojamiento de imágenes tienen filtros de búsqueda para licencias Creative Commons o de uso no comercial. Algunos sitios web que los mappers frecuentan para encontrar sus fondos libres de derechos de autor incluyen:
 
@@ -447,21 +447,21 @@ Muchos sitios web de alojamiento de imágenes tienen filtros de búsqueda para l
 
 Todo trabajo visual debe estar debidamente atribuido e incluir enlaces apropiados a su fuente. Si un enlace directo no puede ser usado por cualquier razón, otro enlace que apunte a la presencia principal del artista visual en su plataforma más activa debe ser usado en su lugar. 
 
-En la mayoría de casos, un artista visual hará inmediatamente evidente si permite el uso de su trabajo en otro lugar. En caso de que no sea claro si el artista visual permite que su trabajo sea usado en otras plataformas, ninguno debe ser usado hasta que condiciones de uso apropiadas puedan ser confirmadas con él individualmente.
+En la mayoría de casos, un artista visual hará inmediatamente evidente si permite el uso de su trabajo en otro lugar. En caso de que no sea claro si el artista visual permite que su trabajo sea usado en otras plataformas, no debe usarse ninguno hasta que puedan confirmarse individualmente con él las condiciones de uso adecuadas.
 
 Si un músico ha concedido permiso para usar su canción explicitamente, es probable que la carátula de su álbum o cualquier otra carátula oficial del artista también sea viable para su uso en un beatmap. No obstante, pide permiso si no está claro.
 
 ## Jugabilidad
 
-Al enviar un beatmap, los usuarios deben tener los permisos de los activos relacionados con la jugabilidad tal como [dificultades de invitado](/wiki/Beatmap/Guest_difficulty) o gráficos de otros juegos rítmicos.
+Al enviar un beatmap, los usuarios deben tener los permisos de los recursos relacionados con la jugabilidad, como las [dificultades de invitado](/wiki/Beatmap/Guest_difficulty) o los gráficos de otros juegos de ritmo. 
 
-No consentimos envíos con jugabilidad (hit objects) similar a la de otros juegos, ya que esto no es respetuoso para la comunidad de juegos rítmicos.
+No toleramos envíos en los que la jugabilidad de los objetos coincidan con los de otros juegos, ya que esto no es respetuoso con la comunidad de juegos de ritmo.
 
 ## Notas
 
 [^monstercat-gold]: Este artista está licenciado en cooperación con [Monstercat](https://osu.ppy.sh/beatmaps/artists/255) y los usuarios pueden obtener derechos de uso de medios externos a través de una suscripción [Monstercat Gold](https://www.monstercat.com/gold). Consulta su sitio web para obtener información específica sobre esta licencia.
 
-[FA]: /wiki/shared/group/FA.png "Featured Artist"
-[true]: /wiki/shared/true.png "Allowed"
-[false]: /wiki/shared/false.png "Disallowed"
-[partial]: /wiki/shared/partial.png "Allowed, with exceptions"
+[FA]: /wiki/shared/group/FA.png "Artista destacado"
+[true]: /wiki/shared/true.png "Permitido"
+[false]: /wiki/shared/false.png "No permitido"
+[partial]: /wiki/shared/partial.png "Permitido, con excepciones"
