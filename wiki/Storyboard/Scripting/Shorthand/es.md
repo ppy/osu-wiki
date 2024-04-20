@@ -1,4 +1,4 @@
-# Abreviaturas de la secuencias de comandos para un storyboard
+# Abreviaturas de las secuencias de comandos de storyboards
 
 Para hacer la vida más fácil, hay tres casos de **abreviaturas** al escribir [comandos para un storyboard](/wiki/Storyboard/Scripting/Commands).
 
@@ -18,7 +18,7 @@ _(evento),(easing),((starttime_of_first) + 2 * (duración)),((endtime_of_first) 
 
 donde (duración) es igual a ((endtime_of_first) - (starttime_of_first)) (ten en cuenta que los «valores» pueden ser dos números, según corresponda para los comandos Move o Vector).
 
-Por ejemplo, para que un objeto se desvanezca de invisible a visible, luego a medio visible, luego a completamente visible y luego nuevamente a invisible, cada cambio tardando un segundo, comenzando en el tiempo 51 000:
+Por ejemplo, para que un objeto se desvanezca de invisible a visible, luego a medio visible, luego a completamente visible y luego nuevamente a invisible, cada cambio tardando un segundo, comenzando en el tiempo 51 000:
 
 ```
 Sprite,Pass,Centre,"Sample.png",320,240
@@ -37,7 +37,7 @@ se trata de esta manera:
 
 `_(evento),(easing),(starttime),(endtime),(valor(es)),(valor(es))`
 
-Por ejemplo, para escalar una imagen a la mitad de su ancho y el doble de su alto durante dos segundos, además de ser 75 % opaca, a partir del tiempo 1000:
+Por ejemplo, para escalar una imagen a la mitad de su ancho y el doble de su alto durante dos segundos, además de ser 75 % opaca, a partir del tiempo 1000:
 
 ```
 Sprite,Pass,Centre,"Sample.png",320,240
@@ -55,7 +55,7 @@ se trata de esta manera:
 
 `_(evento),(easing),(starttime),(endtime),(parámetros...)`
 
-Por ejemplo, digamos que tienes un montón de comandos en un objeto que hacen que se mueva por la pantalla, comenzando en el tiempo 1000. Pero en cualquier lugar que aparezca, siempre querrás que el objeto sea opaco al 50 %. Por lo tanto, puedes crear un único punto final de la siguiente manera:
+Por ejemplo, digamos que tienes un montón de comandos en un objeto que hacen que se mueva por la pantalla, comenzando en el tiempo 1000. Pero en cualquier lugar que aparezca, siempre querrás que el objeto sea opaco al 50 %. Por lo tanto, puedes crear un único punto final de la siguiente manera:
 
 ```
 Sprite,Pass,Centre,"Sample.png",320,240
