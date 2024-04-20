@@ -2,7 +2,7 @@
 
 ![Activación de un objeto/sprite en un SB](img/SBS_Sprite-ES.png "Activación de un objeto/sprite en un SB")
 
-*Para los objetos en [osu!](/wiki/Game_mode/osu!) y el [Beatmapping](/wiki/Beatmapping), véase: [Objetos](/wiki/Gameplay/Hit_object)*
+*Para los objetos en [osu!](/wiki/Game_mode/osu!) y [beatmapping](/wiki/Beatmapping), véase: [Objetos](/wiki/Gameplay/Hit_object)*
 
 En el [storyboarding](/wiki/Storyboard), los **objetos** son sprites o animaciones que aparecen en la pantalla y componen el storyboard. Las instancias de audio específicas de un SB también pueden considerarse objetos; sin embargo, para mayor claridad, tienen [su propia sección en esta guía](/wiki/Storyboard/Scripting/Audio).
 
