@@ -20,7 +20,7 @@ También puedes considerar la posibilidad de ponerte en contacto con el equipo p
 
 osu! brinda una librería de canciones licenciadas a los mappers a través del programa de [artista destacado](/wiki/People/Featured_Artists). Cada canción en [la lista](https://osu.ppy.sh/beatmaps/artists) se puede usar libremente en osu! y no está sujeta a riesgo de eliminación.
 
-Al buscar canciones fuera del catálogo de los artistas destacados de osu!, verifica si su artista indicó términos de uso explicitamente. Esta información puede ser encontrada a menudo en la sección de descripción de las plataformas de lanzamiento de música de un artista (por ejemplo, Bandcamp, SoundCloud, Youtube) o su sitio web personal. Si una canción está bajo una [licencia Creative Commons](https://creativecommons.org/about/cclicenses/) o está disponible para su uso no comercial, puedes crear y enviar un beatmap que la use.
+Al buscar canciones fuera del catálogo de los artistas destacados de osu!, verifica si su artista indicó términos de uso explicitamente. Esta información puede ser encontrada a menudo en la sección de descripción de las plataformas de lanzamiento de música de un artista (p. ej., Bandcamp, SoundCloud, Youtube) o su sitio web personal. Si una canción está bajo una [licencia Creative Commons](https://creativecommons.org/about/cclicenses/) o está disponible para su uso no comercial, puedes crear y enviar un beatmap que la use.
 
 Si los derechos de uso de una canción no son claros, se recomienda pedir permiso al artista antes de usarla en un beatmap. La mayoría de artistas tienen información de contacto etiquetada en sus plataformas de lanzamiento de música, sitios web personales y redes sociales.
 
@@ -445,7 +445,7 @@ Muchos sitios web de alojamiento de imágenes tienen filtros de búsqueda para l
 - [Unsplash](https://unsplash.com/)
 - [Pexels](https://www.pexels.com/)
 
-Todo trabajo visual debe estar debidamente atribuido e incluir enlaces apropiados a su fuente. Si un enlace directo no puede ser usado por cualquier razón, otro enlace que apunte a la presencia principal del artista visual en su plataforma más activa debe ser usado en su lugar. 
+Todo trabajo visual debe estar debidamente atribuido e incluir enlaces apropiados a su fuente. Si un enlace directo no puede ser usado por cualquier razón, se debe usar otro enlace que apunte a la presencia principal del artista visual en su plataforma más activa en su lugar. 
 
 En la mayoría de casos, un artista visual hará inmediatamente evidente si permite el uso de su trabajo en otro lugar. En caso de que no sea claro si el artista visual permite que su trabajo sea usado en otras plataformas, no debe usarse ninguno hasta que puedan confirmarse individualmente con él las condiciones de uso adecuadas.
 
