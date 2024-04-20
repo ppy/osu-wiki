@@ -33,7 +33,7 @@ tags:
 - 예선 이벤트를 포함하여 토너먼트 포럼 스레드 맨 끝에는 **무조건** 보통 크기 이상의 글꼴로 명확하게 볼 수 있게 [토너먼트 신고 양식](https://pif.ephemeral.ink/tournament-reports) 링크를 게시해야 합니다.
   - `https://pif.ephemeral.ink/tournament-reports`
   - 이 신고 양식은 [토너먼트 위원회](/wiki/People/Tournament_Committee)에서 관리합니다. 플레이어, 혹은 스태프를 포함하여 누구든지 필요한 경우 해당 신고 설문을 사용하도록 권장됩니다. 토너먼트에 대한 [기대치](#기대치), [기타 진행 과정](#기타-진행-과정) 또는 [자격 사항](#자격)에 위반사항이 있다면 바로 신고해야 합니다.
-- 토너먼트에서 사용하는 모든 비트맵은 [content usage permissions](/wiki/Rules/Content_usage_permissions#artist-permissions)에서 허용된 곡의 비트맵만 사용해야 합니다. 명시적으로 허용되지 않는 트랙을 사용할 경우 토너먼트 지원이 철회됩니다. 허용되지 않은 아티스트나 트랙에 대한 예외는 [랭킹 크리테리아](/wiki/Ranking_criteria#rules.4)를 참조하세요.
+- 토너먼트에서 사용하는 모든 비트맵은 [content usage permissions](/wiki/Rules/Content_usage_permissions#아티스트-권한)에서 허용된 곡의 비트맵만 사용해야 합니다. 명시적으로 허용되지 않는 트랙을 사용할 경우 토너먼트 지원이 철회됩니다. 허용되지 않은 아티스트나 트랙에 대한 예외는 [랭킹 크리테리아](/wiki/Ranking_criteria#rules.4)를 참조하세요.
 - 토너먼트는 뛰어난 실력을 갖춘 플레이어들만 참여할 수 있으며, 각 게임 모드에서의 특정 등수 미만의 플레이어는 참여할 수 없습니다.
   - osu!: 100,000
   - osu!taiko: 10,000
