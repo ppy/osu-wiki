@@ -20,7 +20,6 @@ tags:
 | Playlist lobby: Playlist C | 31 gennaio - 7 febbraio 2023 |
 | Fine Stagione | 7 febbraio 2023 |
 
-
 ## Lobby multiplayer settimanali
 
 Al momento, per partecipare alle lobby multigiocatore settimanali è necessario scaricare e installare [osu!(lazer)](/wiki/Client/Release_stream/Lazer).

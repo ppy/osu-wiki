@@ -35,7 +35,6 @@ Al momento, per partecipare alle lobby multigiocatore settimanali è necessario 
    - Il punteggio delle singole beatmap si basa sul sistema di punteggio di osu!(lazer).
 4. Una volta conclusa la lobby di una playlist, il punteggio settimanale di ogni partecipante della stanza viene aggiunto alla classifica stagionale.
 
-
 ## Playlists
 
 ### osu!
