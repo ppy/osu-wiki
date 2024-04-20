@@ -1,4 +1,4 @@
-# Abreviaturas de las secuencias de comandos de storyboards
+# Abreviaturas de las secuencias de comandos de los storyboards
 
 Para hacer la vida más fácil, hay tres casos de **abreviaturas** al escribir [comandos para un storyboard](/wiki/Storyboard/Scripting/Commands).
 
