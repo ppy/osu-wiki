@@ -38,7 +38,7 @@ If you're looking for something tougher, [this might be for you](https://osu.ppy
 
 ### watering - Adepressive
 
-If osu!taiko isn't your thing, maybe [make your own map](LINK).
+If osu!taiko isn't your thing, maybe [make your own map](https://assets.ppy.sh/artists/416/Songs/watering%20-%20Adepressive.osz).
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/416/Songs/watering%20-%20Adepressive.mp3">
