@@ -39,13 +39,13 @@ En este contexto, un **estilo de juego** es un conjunto sugerido de [asignacione
 
 El jugador puede elegir ignorar el estilo de juego previsto, pero se vuelve más difícil hacerlo en [niveles de dificultad](/wiki/Beatmap/Difficulty#niveles-de-dificultad) altos, y puede resultar en [patrones](/wiki/Beatmap/Pattern) que se sienten raros de jugar o son casi imposibles de presionar.
 
-Cada estilo de juego requiere que el jugador ajuste sus [atajos de teclado](/wiki/Game_mode/osu!mania#controles) apropiadamente, y fomenta el uso de [skins](/wiki/Skin) personalizadas. En este artículo, las imágenes del juego usarán la skin predeterminada un poco modificada para ayudar a ilustrar varios estilos de juego.
+Cada estilo de juego requiere que el jugador ajuste sus [asignaciones de teclas](/wiki/Game_mode/osu!mania#controles) apropiadamente, y fomenta el uso de [skins](/wiki/Skin) personalizadas. En este artículo, las imágenes del juego usarán la skin predeterminada un poco modificada para ayudar a ilustrar varios estilos de juego.
 
 ## 10K (10 teclas) {#10K}
 
 **10K** es el estilo de juego donde cada mano es responsable de 5 teclas.
 
-Mientras 10K es tratado por el [cliente del juego](/wiki/Client) como modo «[co-op](/wiki/Game_mode/osu!mania#co-op)», los mappers normalmente lo tratan como un modo de teclas normal. Esto es porque cada tecla se puede presionar por un único dedo, y no es necesaria una disposición o atajos de teclado especiales.
+Mientras 10K es tratado por el [cliente del juego](/wiki/Client) como modo «[co-op](/wiki/Game_mode/osu!mania#co-op)», los mappers normalmente lo tratan como un modo de teclas normal. Esto se debe a que cada tecla puede ser presionada por un único dedo, y no es necesario tener en cuenta ninguna colocación especial o asignación de teclas.
 
 ## 10K2S (12 teclas) {#10K2S}
 
