@@ -35,7 +35,7 @@ Las imágenes traducidas del artículo se pueden encontrar aquí: <https://www.f
 
 Este artículo documenta los estilos de juego comunes usados por los [beatmaps](/wiki/Beatmap) de [osu!mania](/wiki/Game_mode/osu!mania) con 10 o más teclas.
 
-En este contexto, un **estilo de juego** es conjunto sugerido de [atajos de teclado](/wiki/Game_mode/osu!mania#controles) y orden de teclas en el [campo de juego](/wiki/Game_mode/osu!mania#campo-de-juego). La mayoría de beatmaps de osu!mania con más de 10 teclas se mapean con un estilo de juego en particular; el jugador tiene menos dedos que teclas, así que normalmente se necesita consideración adicional en respecto a dónde están posicionadas las manos del jugador en el [teclado](/wiki/Gameplay/Input_device/Keyboard) a lo largo del mapa.
+En este contexto, un **estilo de juego** es un conjunto sugerido de [asignaciones de teclas](/wiki/Game_mode/osu!mania#controles) y orden de teclas en el [campo de juego](/wiki/Game_mode/osu!mania#campo-de-juego). La mayoría de los beatmaps de osu!mania con más de 10 teclas se mapean con un estilo de juego en particular; el jugador tiene menos dedos que teclas, por lo que suele ser necesario tener en cuenta dónde se colocarán las manos del jugador en el [teclado](/wiki/Gameplay/Input_device/Keyboard) a lo largo del mapa.
 
 El jugador puede elegir ignorar el estilo de juego previsto, pero se vuelve más difícil hacerlo en [niveles de dificultad](/wiki/Beatmap/Difficulty#niveles-de-dificultad) altos, y puede resultar en [patrones](/wiki/Beatmap/Pattern) que se sienten raros de jugar o son casi imposibles de presionar.
 
