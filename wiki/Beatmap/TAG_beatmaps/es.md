@@ -8,7 +8,7 @@ tags:
 
 # Beatmaps TAG
 
-![Un ejemplo de un beatmap TAG](img/tag-beatmap-example.png "Un ejemplo de un beatmap TAG")
+![Un ejemplo de un beatmap TAG](img/tag-beatmap-example-ES.png "Un ejemplo de un beatmap TAG")
 
 *No confundir con etiquetas, que son [parte de los metadatos de un beatmap](/wiki/Client/Beatmap_editor/Song_setup).*
 
