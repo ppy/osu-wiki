@@ -33,7 +33,7 @@ Las imágenes traducidas del artículo se pueden encontrar aquí: <https://www.f
 
 # Estilos de juego 10K+ de osu!mania
 
-Este artículo documenta estilos de juego comunes usados por [beatmaps](/wiki/Beatmap) de [osu!mania](/wiki/Game_mode/osu!mania) con 10 o más teclas.
+Este artículo documenta los estilos de juego comunes usados por los [beatmaps](/wiki/Beatmap) de [osu!mania](/wiki/Game_mode/osu!mania) con 10 o más teclas.
 
 En este contexto, un **estilo de juego** es conjunto sugerido de [atajos de teclado](/wiki/Game_mode/osu!mania#controles) y orden de teclas en el [campo de juego](/wiki/Game_mode/osu!mania#campo-de-juego). La mayoría de beatmaps de osu!mania con más de 10 teclas se mapean con un estilo de juego en particular; el jugador tiene menos dedos que teclas, así que normalmente se necesita consideración adicional en respecto a dónde están posicionadas las manos del jugador en el [teclado](/wiki/Gameplay/Input_device/Keyboard) a lo largo del mapa.
 
@@ -61,7 +61,7 @@ Cada mano descansa en el medio de las 10 teclas. Las dos teclas scratch se presi
 
 ![](img/DP-keys-ES.png)
 
-**DP** o **Double Play**, llamado así por el modo de juego en *[beatmania IIDX](https://es.wikipedia.org/wiki/Beatmania_IIDX_(serie) "\"beatmania IIDX\" en Wikipedia")*, es un estilo de juego de 14 teclas o 16 teclas donde cada mano es responsable de 7 teclas, organizadas en filas inferiores de 4 teclas y filas superiores de 3 teclas. Las filas inferiores y superiores están intercaladas de manera que la primera tecla es inferior, la segunda superior, la tercera inferior, y así. Una tecla *scratch* adicional puede incluirse en cada borde exterior del escenario.
+**DP** o **Double Play**, llamado así por el modo de juego en *[beatmania IIDX](https://es.wikipedia.org/wiki/Beatmania_IIDX_(serie) "\"beatmania IIDX\" en Wikipedia")*, es un estilo de juego de 14 teclas o 16 teclas donde cada mano es responsable de 7 teclas, organizadas en filas inferiores de 4 teclas y filas superiores de 3 teclas. Las filas inferiores y superiores están intercaladas de manera que la primera tecla es inferior, la segunda superior, la tercera inferior, y así sucesivamente. Una tecla *scratch* adicional puede incluirse en cada borde exterior del escenario.
 
 Junto a [EZ2AC](#EZ2AC), este estilo de juego se conoce más ampliamente como «14K» o «14K2S».
 
