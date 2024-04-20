@@ -16,7 +16,7 @@ tags:
 
 # Clasificación ponderada por insignias
 
-La **clasificación ponderada por insignias** (***BWS***) es un sistema de [clasificación](https://es.wikipedia.org/wiki/Cabeza_de_serie) y restricción de [torneos](/wiki/Tournaments) que tiene en cuenta el recuento de [insignias de perfil](/wiki/Community/Profile_badge) de cada jugador, así como su [clasificación global](/wiki/Ranking#performance-points-ranking). Diseñado originalmente por ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207), el objetivo del sistema era «seleccionar jugadores con mayor precisión y hacer cumplir las restricciones de rango basadas en las insignias de torneo de un jugador»,[^hippo-cup-bws] en comparación con el método de clasificación más estándar que usa directamente las clasificaciones globales de los jugadores.
+La **clasificación ponderada por insignias** (***BWS***) es un sistema de [clasificación](https://es.wikipedia.org/wiki/Cabeza_de_serie) y restricción de [torneos](/wiki/Tournaments) que tiene en cuenta el recuento de [insignias de perfil](/wiki/Community/Profile_badge) de cada jugador, así como su [clasificación global](/wiki/Ranking#clasificación-por-puntos-de-rendimiento). Diseñado originalmente por ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207), el objetivo del sistema era «seleccionar jugadores con mayor precisión y hacer cumplir las restricciones de rango basadas en las insignias de torneo de un jugador»,[^hippo-cup-bws] en comparación con el método de clasificación más estándar que usa directamente las clasificaciones globales de los jugadores.
 
 El principio del BWS es que a los jugadores se les asigna una mejor clasificación si han obtenido insignias por jugar torneos en el pasado. De esta manera, los jugadores no pueden permanecer indefinidamente en el mismo puesto en relación con otros jugadores de clasificación similar si se desempeñan bien.[^digitalhypno-discord-1][^digitalhypno-discord-2] En un conjunto de torneos en los que se usa el BWS, se espera que los jugadores que empiezan en puestos similares se inclinen por cabezas de serie del BWS que reflejen mejor su probabilidad de ganar partidos contra jugadores con cabezas de serie similares.[^digitalhypno-discord-3][^digitalhypno-discord-4]
 
@@ -31,7 +31,7 @@ semilla = clasificación_global ^ (0.9937 ^ (recuento_de_insignias ^ 2))
 ```
 
 - `recuento_de_insignias` (≥ 0): Cantidad de insignias en el perfil del jugador que se obtuvieron como premios en torneos anteriores del mismo [modo de juego](/wiki/Game_mode)
-- `clasificación_global` (≥ 1): [Clasificación de los puntos de rendimiento](/wiki/Ranking#performance-points-ranking) del jugador en la tabla de clasificación global correspondiente al [modo de juego](/wiki/Game_mode) del torneo
+- `clasificación_global` (≥ 1): [Clasificación de los puntos de rendimiento](/wiki/Ranking#clasificación-por-puntos-de-rendimiento) del jugador en la tabla de clasificación global correspondiente al [modo de juego](/wiki/Game_mode) del torneo
 
 Esta función satisface propiedades que son importantes para el propósito del BWS:
 
