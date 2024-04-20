@@ -12,16 +12,16 @@ tags:
 | Evento | Periodo |
 | :-- | :-- |
 | Inizio stagione | 9 ottobre 2020 |
-| Lobby Timeshift: Playlist A | 9 ottobre - 16 ottobre 2020 |
-| Timeshift lobby: Playlist B | 16 ottobre - 23 ottobre 2020 |
-| Lobby Timeshift: Playlist C | 23 ottobre - 30 ottobre 2020 |
-| Lobby Timeshift: Playlist D | 30 ottobre - 6 novembre 2020 |
+| Lobby Temporanea: Playlist A | 9 ottobre - 16 ottobre 2020 |
+| Lobby Temporanea: Playlist B | 16 ottobre - 23 ottobre 2020 |
+| Lobby Temporanea: Playlist C | 23 ottobre - 30 ottobre 2020 |
+| Lobby Temporanea: Playlist D | 30 ottobre - 6 novembre 2020 |
 | Pausa | 6 novembre - 13 novembre 2020 |
-| Lobby Timeshift: Playlist A | 13 novembre - 20 novembre 2020 |
+| Lobby Temporanea: Playlist A | 13 novembre - 20 novembre 2020 |
 | Pausa | 20 novembre - 27 novembre 2020 |
-| Lobby Timeshift: Playlist B | 27 novembre - 4 dicembre 2020 |
-| Lobby Timeshift: Playlist C | 4 dicembre - 11 dicembre 2020 |
-| Lobby Timeshift: Playlist D | 11 dicembre - 29 dicembre 2020 |
+| Lobby Temporanea: Playlist B | 27 novembre - 4 dicembre 2020 |
+| Lobby Temporanea: Playlist C | 4 dicembre - 11 dicembre 2020 |
+| Lobby Temporanea: Playlist D | 11 dicembre - 29 dicembre 2020 |
 | Fine stagione | 18 dicembre 2020 |
 
 ## Lobby multiplayer settimanali
