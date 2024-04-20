@@ -1,8 +1,8 @@
-# Comandos compuestos para un storyboard
+# Comandos compuestos de los storyboards
 
 Estos son comandos más complicados que no hacen nada por sí solos. En cambio, **proporcionan condiciones para cuando ocurran otros eventos**.
 
-## Comando de bucle (L)
+## Comando bucle (L)
 
 Es extremadamente común que algunas [acciones](/wiki/Storyboard/Scripting/Commands) en el [storyboarding](/wiki/Storyboard) se repitan un número fijo de veces. Por ejemplo, es posible que desees que un objeto aparezca y desaparezca constantemente durante un tiempo de juego determinado. En este caso, sería mejor usar un **bucle**.
 
@@ -25,7 +25,7 @@ en donde:
 
 ### Ejemplo
 
-Por lo tanto, un bucle que aparece y desaparece, tomando un total de 1 segundo cada vez, durante 30 segundos en total (por lo tanto, 30 bucles), comenzando en el tiempo 60000:
+Por lo tanto, un bucle que aparece y desaparece, tomando un total de 1 segundo cada vez, durante 30 segundos en total (por lo tanto, 30 bucles), comenzando en el tiempo 60 000:
 
 ```
 Sprite,Pass,Centre,"Sample.png",320,240
@@ -36,7 +36,7 @@ __F,0,500,1000,1,0
 
 ## Comando de activación (T)
 
-Además de la retroalimentación «implícita» del jugador a través de las capas separadas [Pass/Fail](/wiki/Storyboard/Scripting/General_Rules), puedes usar una de varias **condiciones de activación** para causar una serie de [eventos](/wiki/Storyboard/Scripting/Commands) que ocurrirán siempre que esa condición se cumpla dentro de un cierto periodo de tiempo. La especificación oficial los denomina «bucles de activación» debido a su similitud sintáctica con los bucles (L), pero no son bucles en absoluto, por lo que aquí se denominan simplemente «Activadores».
+Además de la retroalimentación «implícita» del jugador a través de las capas separadas [Pass/Fail](/wiki/Storyboard/Scripting/General_Rules), puedes usar una de varias **condiciones de activación** para causar una serie de [eventos](/wiki/Storyboard/Scripting/Commands) que ocurrirán siempre que esa condición se cumpla dentro de un cierto periodo de tiempo. La especificación oficial los denomina «bucles de activación» debido a su similitud sintáctica con los bucles (L), pero no son bucles en absoluto, por lo que aquí se denominan simplemente «activadores».
 
 ### Uso
 
@@ -77,7 +77,7 @@ Si se produce una condición de activación mientras se ejecuta otro activador, 
 
 ### Ejemplo
 
-Por ejemplo, en Elite Beat Agents, la pantalla superior (es decir, el storyboard) suele cubrirse de blanco durante una fracción de segundo durante una transición entre estados. Podemos hacer lo mismo con una imagen completamente blanca de 640x480, suponiendo que una sección jugable en particular va de 20 000 a 40 000:
+Por ejemplo, en Elite Beat Agents, la pantalla superior (es decir, el storyboard) suele cubrirse de blanco durante una fracción de segundo durante una transición entre estados. Podemos hacer lo mismo con una imagen completamente blanca de 640x480, suponiendo que una sección jugable en particular va de 20 000 a 40 000:
 
 ```
 Sprite,Foreground,Centre,"LargeWhiteImage.png",320,240
