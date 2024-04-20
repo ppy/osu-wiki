@@ -20,7 +20,7 @@ También puedes considerar la posibilidad de ponerte en contacto con el equipo p
 
 osu! brinda una librería de canciones licenciadas a los mappers a través del programa de [artista destacado](/wiki/People/Featured_Artists). Cada canción en [la lista](https://osu.ppy.sh/beatmaps/artists) se puede usar libremente en osu! y no está sujeta a riesgo de eliminación.
 
-Al buscar canciones fuera del catálogo de los artistas destacados de osu!, verifica si su artista indicó términos de uso explicitamente. Esta información puede ser encontrada a menudo en la sección de descripción de las plataformas de lanzamiento de música de un artista (p. ej., Bandcamp, SoundCloud, Youtube) o su sitio web personal. Si una canción está bajo una [licencia Creative Commons](https://creativecommons.org/about/cclicenses/) o está disponible para su uso no comercial, puedes crear y enviar un beatmap que la use.
+Al buscar canciones fuera del catálogo de los artistas destacados de osu!, verifica si su artista indicó términos de uso explicitamente. Esta información puede ser encontrada a menudo en la sección de descripción de las plataformas de lanzamiento de música de un artista (p. ej. Bandcamp, SoundCloud, Youtube) o su sitio web personal. Si una canción está bajo una [licencia Creative Commons](https://creativecommons.org/about/cclicenses/) o está disponible para su uso no comercial, puedes crear y enviar un beatmap que la use.
 
 Si los derechos de uso de una canción no son claros, se recomienda pedir permiso al artista antes de usarla en un beatmap. La mayoría de artistas tienen información de contacto etiquetada en sus plataformas de lanzamiento de música, sitios web personales y redes sociales.
 
