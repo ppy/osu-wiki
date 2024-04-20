@@ -123,7 +123,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253
 | --: | :-- | :-- | :-: | :-: |
 | South Korea ::{ flag=KR }:: | ::{ flag=US }:: United States | [Apr 21 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240421T030000&p1=1440&p2=235&p3=263) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | South Korea ::{ flag=KR }:: | ::{ flag=TW }:: Taiwan | [Apr 21 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240421T120000&p1=1440&p2=235&p3=241) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Japan ::{ flag=JP }:: | ::{ flag=GB }:: United Kingdom | [Apr 21 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240421T140000&p1=1440&p2=248&p3=136) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| Japan ::{ flag=JP }:: | ::{ flag=GB }:: United Kingdom | [Apr 21 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240421T130000&p1=1440&p2=248&p3=136) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | South Korea ::{ flag=KR }:: | ::{ flag=BR }:: Brazil | [Apr 21 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240421T150000&p1=1440&p2=235&p3=45) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | United States ::{ flag=US }:: | ::{ flag=TW }:: Taiwan | [Apr 21 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240421T160000&p1=1440&p2=263&p3=241) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | United States ::{ flag=US }:: | ::{ flag=BR }:: Brazil | [Apr 21 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240421T180000&p1=1440&p2=263&p3=45) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
@@ -133,8 +133,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253
 
 ### Finals
 
-**[Download the mappack here (168 MB)](https://packs.ppy.sh/P244%20-%20osu!taiko%20World%20Cup%202024%3A%20Finals.zip)**\
-[View the showcase VOD here](https://www.twitch.tv/videos/2119951003)
+**[Download the mappack here (167 MB)](https://packs.ppy.sh/P244%20-%20osu!taiko%20World%20Cup%202024%3A%20Finals.zip?1713511023)**
 
 - No Mod
   1. [SatapanP ft. Hatsune Miku - Bagooon!!!!! (Skidooskei) \[NO MISS!!!!! (TWC EDIT!!!!!)\]](https://osu.ppy.sh/beatmapsets/2112567#taiko/4570747)
@@ -142,7 +141,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253
   3. [kessoku band - Seishun Complex (Kirairi Bootleg) (Seren58) \[Quartet\]](https://osu.ppy.sh/beatmapsets/1901991#taiko/3921191)
   4. [Ruby My Dear - Ecureuil (SolaEclipse) \[Don't Blink\]](https://osu.ppy.sh/beatmapsets/2166520#taiko/4570829)
   5. [Rivers of Nihil - Reign of Dreams (Xay) \[Perpetuity\]](https://osu.ppy.sh/beatmapsets/2166485#taiko/4570764)
-  6. [Sobrem - Carrot Carrot (Nurend) \[Carrot\]](https://osu.ppy.sh/beatmapsets/2166484#taiko/4570763)
+  6. [Frums - Remnants of Turing (Ulqui) \[Alto Hospicio\]](https://osu.ppy.sh/beatmapsets/2019618#taiko/4205872)
   7. [Sydosys - Serrate (\_Rise) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2166563#taiko/4570945)
 - Hidden
   1. [flatt - Agitato (miyagishima) \[Inner Oni (TWC Edit)\]](https://osu.ppy.sh/beatmapsets/2024995#taiko/4570745)

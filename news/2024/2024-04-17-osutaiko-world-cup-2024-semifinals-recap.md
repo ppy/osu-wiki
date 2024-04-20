@@ -32,7 +32,7 @@ The heat is slowly being turned up, and the mappool is starting to transform int
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="https://assets.ppy.sh/artists/398/Songs/Sparxe_-_Switcheroo.mp3">
+        <source src="https://assets.ppy.sh/artists/415/Songs/lemm%20-%20Algorithm%2054.mp3">
     </audio>
 </div>
 
@@ -40,7 +40,7 @@ The heat is slowly being turned up, and the mappool is starting to transform int
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="https://assets.ppy.sh/artists/415/Songs/lemm%20-%20Algorithm%2054.mp3">
+        <source src="https://assets.ppy.sh/artists/398/Songs/Sparxe_-_Switcheroo.mp3">
     </audio>
 </div>
 
