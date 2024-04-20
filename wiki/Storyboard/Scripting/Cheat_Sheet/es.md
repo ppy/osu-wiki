@@ -13,7 +13,7 @@ El tamaño del campo de juego activo es de 640 píxeles de ancho por 480 píxele
 Sprite estático:
 
 ```
-Sprite,«capa»,«origen»,"ruta del archivo",x,y
+Sprite,"capa","origen","ruta del archivo",x,y
 _evento, easing, starttime, endtime, [parámetros]
 _evento, [...]
 _evento, [...]
@@ -22,13 +22,13 @@ _evento, [...]
 Animación:
 
 ```
-Animation,«capa»,«origen»,"ruta del archivo",x,y,frameCount,frameDelay,looptype
+Animation,"capa","origen","ruta del archivo",x,y,frameCount,frameDelay,looptype
 _evento,easing,starttime,endtime,[parámetros]
 _evento, [...]
 _evento, [...]
 ```
 
-**Para animaciones, especifica un nombre de archivo como «sliderball.png», y asigna a tus archivos el nombre «sliderball0.png» a «sliderball9.png» para obtener una animación de 10 fotogramas.**
+**Para las animaciones, especifica un nombre de archivo como «sliderball.png», y asígnale a tus archivos el nombre «sliderball0.png» a «sliderball9.png» para obtener una animación de 10 fotogramas.**
 
 **frameCount**: número de fotogramas en la animación, **frameDelay**: retraso en milisegundos entre cada fotograma. **looptype**: *LoopForever* por defecto
 
@@ -85,7 +85,7 @@ Para cada uno de los tipos de eventos siguientes, los valores iniciales de ese e
 | 1 | Empezar rápido y disminuir la velocidad |
 | 2 | Empezar lento y aumentar la velocidad |
 
-**starttime, endtime**: los tiempos en milisegundos entre los cuales se animará el evento
+**starttime, endtime**: los períodos de tiempo en milisegundos en los que se animará el evento
 
 **parámetros**:
 
@@ -235,7 +235,7 @@ Primer plano = **3**
 
 ### Variables
 
-El soporte primitivo para variables ya está disponible. Puedes definir cualquier cantidad de variables incluyendo una sección \[Variables\] en el archivo .osb (actualmente no se admite en los storyboards específicos del archivo .osu).
+El soporte primitivo para las variables ya está disponible. Puedes definir cualquier cantidad de variables incluyendo una sección \[Variables\] en el archivo .osb (actualmente no se admite en los storyboards específicos del archivo .osu).
 
 ```
 [Variables]
