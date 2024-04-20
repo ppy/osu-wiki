@@ -1,4 +1,4 @@
-# Variables de las secuencias de comandos para un storyboard
+# Variables de las secuencias de comandos de storyboards
 
 Las **variables** son alias personalizados para otros valores, normalmente cadenas largas o comunes, que se pueden reusar en otros lugares de los archivos `.osb`. Estos no se pueden cambiar dinámicamente durante el juego, lo que significa que son valores constantes. *No son compatibles* con archivos `.osu`.
 
