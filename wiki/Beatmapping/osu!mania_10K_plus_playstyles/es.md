@@ -35,11 +35,11 @@ Las imágenes traducidas del artículo se pueden encontrar aquí: <https://www.f
 
 Este artículo documenta estilos de juego comunes usados por [beatmaps](/wiki/Beatmap) de [osu!mania](/wiki/Game_mode/osu!mania) con 10 o más teclas.
 
-En este contexto, un **estilo de juego** es conjunto sugerido de [atajos de teclado](/wiki/Game_mode/osu!mania#controls) y orden de teclas en el [campo de juego](/wiki/Game_mode/osu!mania#playfield). La mayoría de beatmaps de osu!mania con más de 10 teclas se mapean con un estilo de juego en particular; el jugador tiene menos dedos que teclas, así que normalmente se necesita consideración adicional en respecto a dónde están posicionadas las manos del jugador en el [teclado](/wiki/Gameplay/Input_device/Keyboard) a lo largo del mapa.
+En este contexto, un **estilo de juego** es conjunto sugerido de [atajos de teclado](/wiki/Game_mode/osu!mania#controles) y orden de teclas en el [campo de juego](/wiki/Game_mode/osu!mania#campo-de-juego). La mayoría de beatmaps de osu!mania con más de 10 teclas se mapean con un estilo de juego en particular; el jugador tiene menos dedos que teclas, así que normalmente se necesita consideración adicional en respecto a dónde están posicionadas las manos del jugador en el [teclado](/wiki/Gameplay/Input_device/Keyboard) a lo largo del mapa.
 
-El jugador puede elegir ignorar el estilo de juego previsto, pero se vuelve más difícil hacerlo en [niveles de dificultad](/wiki/Beatmap/Difficulty#difficulty-levels) altos, y puede resultar en [patrones](/wiki/Beatmap/Pattern) que se sienten raros de jugar o son casi imposibles de presionar.
+El jugador puede elegir ignorar el estilo de juego previsto, pero se vuelve más difícil hacerlo en [niveles de dificultad](/wiki/Beatmap/Difficulty#niveles-de-dificultad) altos, y puede resultar en [patrones](/wiki/Beatmap/Pattern) que se sienten raros de jugar o son casi imposibles de presionar.
 
-Cada estilo de juego requiere que el jugador ajuste sus [atajos de teclado](/wiki/Game_mode/osu!mania#controls) apropiadamente, y fomenta el uso de [skins](/wiki/Skin) personalizadas. En este artículo, las imágenes del juego usarán la skin predeterminada un poco modificada para ayudar a ilustrar varios estilos de juego.
+Cada estilo de juego requiere que el jugador ajuste sus [atajos de teclado](/wiki/Game_mode/osu!mania#controles) apropiadamente, y fomenta el uso de [skins](/wiki/Skin) personalizadas. En este artículo, las imágenes del juego usarán la skin predeterminada un poco modificada para ayudar a ilustrar varios estilos de juego.
 
 ## 10K (10 teclas) {#10K}
 
