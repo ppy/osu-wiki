@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: 918808cb4826bd1b2d3f8eb4f61b5262ae09c741
 tags:
   - GMT
   - moderator
@@ -56,8 +54,8 @@ In generale, il team osserverà le persone per diverse settimane o mesi per assi
 Ai Moderatori Globali sono concessi i seguenti benefici:
 
 - **[osu!supporter](/wiki/osu!supporter)**: Un tag osu!supporter valido per l'intera durata della permanenza nel team.
-- **Badge di permanenza**: Un [badge del profilo](/wiki/Community/Profile_badge) che mostra per quanti anni l'utente ha fatto parte del GMT, a partire da 3.
-  ![Badge dei 3 anni nel GMT](https://assets.ppy.sh/profile-badges/GMT3y.png "Badge dei 3 anni nel GMT") ![Badge dei 4 anni nel GMT](https://assets.ppy.sh/profile-badges/GMT4y.png "Badge dei 4 anni nel GMT") ![Badge dei 5 anni nel GMT](https://assets.ppy.sh/profile-badges/GMT5y.png "Badge dei 5 anni nel GMT")
+- **Badge di permanenza**: Un [badge del profilo](/wiki/Community/Profile_badge) che mostra per quanti anni l'utente ha fatto parte del GMT, da 1 a 10.
+  ![Distintivo GMT di 1 anno](https://assets.ppy.sh/profile-badges/GMT1y.png "Distintivo GMT di 1 anno") ![Distintivo GMT di 2 anni](https://assets.ppy.sh/profile-badges/GMT2y.png "Distintivo GMT di 2 anni") ![Distintivo GMT di 3 anni](https://assets.ppy.sh/profile-badges/GMT3y.png?2024 "Distintivo GMT di 3 anni") ![Distintivo GMT di 4 anni](https://assets.ppy.sh/profile-badges/GMT4y.png?2024 "Distintivo GMT di 4 anni") ![Distintivo GMT di 5 anni](https://assets.ppy.sh/profile-badges/GMT5y.png?2024 "Distintivo 5 anni GMT") ![Distintivo 6 anni GMT](https://assets.ppy.sh/profile-badges/GMT6y.png "Distintivo 6 anni GMT") ![Distintivo 7 anni GMT](https://assets.ppy.sh/profile-badges/GMT7y.png "Distintivo 7 anni GMT") ![Distintivo 8 anni GMT](https://assets.ppy.sh/profile-badges/GMT8y.png "Distintivo 8 anni GMT") ![Distintivo 9 anni GMT](https://assets.ppy.sh/profile-badges/GMT9y.png "Distintivo 9 anni GMT") ![Distintivo 10 anni GMT](https://assets.ppy.sh/profile-badges/GMT10y.png "Distintivo 10 anni GMT")
 
 ## Uscita dal team
 
