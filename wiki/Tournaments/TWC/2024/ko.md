@@ -606,5 +606,5 @@ Sunday, 14 April 2024:
 
 [^qualifiers-seeding]: 주된 시드 배정 방법으로 사용합니다
 [^qualifiers-tiebreaker]: 두팀의 순위가 동일할 경우 타이브레이커로 사용합니다
-[^winners-bracket]: 승자조 경기
+[^losers-bracket]: 패자조 경기
 [^mappool-showcase]: 이전 경기에 따라 사전 예고 없이 시간이 변동될 수 있는 맵풀 쇼케이스입니다
