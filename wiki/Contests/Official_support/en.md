@@ -1,5 +1,6 @@
 ---
 tags:
+  - mapping contest
   - badge
   - badges
   - badged
@@ -12,6 +13,8 @@ tags:
 [Beatmapping contests](/wiki/Contests) are eligible to receive support from the [osu! team](/wiki/People/osu!_team) provided they meet certain criteria.
 
 For other contests, email us at [tournaments@ppy.sh](mailto:tournaments@ppy.sh). We'll try to work something out.
+
+This article was last updated on April 9, 2024. For the full changelog, check out the [beatmapping contest support updates thread](https://osu.ppy.sh/community/forums/topics/1907886). For any queries or clarifications, please consult the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Benefits
 
@@ -29,8 +32,8 @@ Contests which abide by the following criteria are eligible for official support
   - The contest has successfully run for one iteration without official support.
 - **The contest must have a clearly defined set of rules.**
 - **The contest must accept submissions for only one game mode.** Most users specialise in one game mode, so it is not reliable to evaluate mapping quality across multiple game modes.
-- **For solo osu! contests, there must be at least 15 valid submissions.**
-- **For solo osu!taiko, osu!catch, or osu!mania contests, there must be at least 10 valid submissions.**
+- **For solo osu! contests, there should be at least 15 valid submissions.**[^exception-note]
+- **For solo osu!taiko, osu!catch, or osu!mania contests, there should be at least 10 valid submissions.**[^exception-note]
 - **For team contests, participation will be evaluated on a case-by-case basis depending on team sizes, creative requirements, and total valid submissions.** As a rule of thumb, aim for at least 20 participants and 10 valid submissions.
 - **The contest must have a clearly defined judging criteria based on mapping merit.** These ensure a contest follows an understandable quality standard in line with other mapping contests.
 - **The contest's results must be determined by valuing scores from all judges equally.** Using standard deviation to determine final scores is preferred but not required.
@@ -68,3 +71,7 @@ If approved, you will need to submit the following:
 - An appropriately designed badge (see profile badge design criteria on the [official tournament support article](/wiki/Tournaments/Official_support#profile-badges)).
 
 In exceptionally rare cases, a contest may be granted the privilege of awarding badges to its top three finalists. A contest that has received this distinction is recognised for attaining the highest level of production quality and organisation possible — this is given exclusively at the discretion of the osu! team. Hosts will be contacted directly if applicable.
+
+## Notes
+
+[^exception-note]: Exceptions may be granted on a case-by-case basis at the discretion of the [Contest Committee](/wiki/People/Tournament_Committee#contest-committee).
