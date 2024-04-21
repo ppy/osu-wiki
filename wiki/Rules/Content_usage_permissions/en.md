@@ -434,18 +434,18 @@ All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/a
 
 #### Disallowed
 
-| Artist |  | Status |
-| :-- | :-- | :-- |
-|  | 40mP | ![][false] |
-|  | ak+q | ![][false] |  |
-|  | Draw the Emotional | ![][false] |
-|  | Enter Shikari | ![][false] |
-|  | EZFG | ![][false] |
-|  | Hatsuki Yura | ![][false] |
-|  | Igorrr | ![][false] |
-|  | kamome sano | ![][false] |
-|  | Kozato | ![][false] |
-|  | NOMA | ![][false] |
+| Artist | Status |
+| :-- | :-- |
+| 40mP | ![][false] |
+| ak+q | ![][false] |
+| Draw the Emotional | ![][false] |
+| Enter Shikari | ![][false] |
+| EZFG | ![][false] |
+| Hatsuki Yura | ![][false] |
+| Igorrr | ![][false] |
+| kamome sano | ![][false] |
+| Kozato | ![][false] |
+| NOMA | ![][false] |
 
 ## Visual
 
