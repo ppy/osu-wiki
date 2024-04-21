@@ -121,14 +121,14 @@ osu!taiko 월드컵 2024는 osu!팀과 여러명의 커뮤니티 멤버들로 �
 
 | Team A | Team B | 경기 시간 | 트위치 방송 |  |
 | --: | :-- | :-- | :-: | :-: |
-| 일본 ::{ flag=JP }:: | ::{ flag=US }:: 미국 | [4월 28일 일요일 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240428T030000&p1=1440&p2=248&p3=263) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 일본 ::{ flag=JP }:: | ::{ flag=GB }:: 영국 | [4월 28일 일요일 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240428T140000&p1=1440&p2=248&p3=136) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| 일본 ::{ flag=JP }:: | ::{ flag=US }:: 미국 | [4월 28일 일요일 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240428T030000&p1=1440&p2=248&p3=263) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 일본 ::{ flag=JP }:: | ::{ flag=GB }:: 영국 | [4월 28일 일요일 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240428T130000&p1=1440&p2=248&p3=136) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 
 ## 맵풀 목록
 
 ### 그랜드 파이널
 
-**[맵팩은 여기서 다운로드가 가능합니다  (109 MB, *temporary link*)](http://files.leoflt.com/q9gS6b3O)**\
+**[맵팩은 여기서 다운로드가 가능합니다  (109 MB)](https://packs.ppy.sh/P245%20-%20osu!taiko%20World%20Cup%202024%3A%20Grand%20Finals.zip)**\
 [쇼케이스 VOD는 여기서 볼 수 있습니다](https://www.twitch.tv/videos/2125996548)
 
 - No Mod
@@ -137,8 +137,8 @@ osu!taiko 월드컵 2024는 osu!팀과 여러명의 커뮤니티 멤버들로 �
   3. [DJ Raisei - Fractured Heaven (Genjuro) \[Fallen Angel\]](https://osu.ppy.sh/beatmapsets/2169918#taiko/4579320)
   4. [Nanodesu - Libera Lotus (Mew) \[Reborn Purity\]](https://osu.ppy.sh/beatmapsets/2169909#taiko/4579308)
   5. [HOUR OF PENANCE - Devotion for Tyranny (HomieLove) \[The Monstrosity feat. Ak1o (TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2169921#taiko/4579324)
-  6. [BilliumMoto - Stained Satin (Nifty) \[Showdown (TWC ver.)\] *(temporary link)*](http://files.leoflt.com/2pKsGK8W)
-  7. [BilliumMoto - 100 Carat Smoke Point (\_Rise) \[Inner Oni\] *(temporary link)*](http://files.leoflt.com/GF7HqFGC)
+  6. [BilliumMoto - Stained Satin (Nifty) \[Showdown (TWC ver.)\]](https://osu.ppy.sh/beatmapsets/2170035#taiko/4579579)
+  7. [BilliumMoto - 100 Carat Smoke Point (\_Rise) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2170025#taiko/4579557)
 - Hidden
   1. [DJ Majokko Mirakurun - Crakkin (Shamirin\_mzk) \[Despair\]](https://osu.ppy.sh/beatmapsets/1761127#taiko/3604452)
   2. [ikaruga\_nex - ultimer (Raphalge) \[arrested for silly crimes\]](https://osu.ppy.sh/beatmapsets/1761945#taiko/3606293)
@@ -644,5 +644,5 @@ osu!taiko 월드컵 2024는 osu!팀과 여러명의 커뮤니티 멤버들로 �
 
 [^qualifiers-seeding]: 주된 시드 배정 방법으로 사용합니다
 [^qualifiers-tiebreaker]: 두팀의 순위가 동일할 경우 타이브레이커로 사용합니다
-[^winners-bracket]: 승자조 경기
 [^losers-bracket]: 패자조 경기
+[^potential-match]: 최종 상대는 패자조 경기에 따라 달라지는 잠재적인 경기입니다
