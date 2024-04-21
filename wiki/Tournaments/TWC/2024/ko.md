@@ -115,9 +115,8 @@ osu!taiko 월드컵 2024는 osu!팀과 여러명의 커뮤니티 멤버들로 �
 
 | Team A | Team B | 경기 시간 | 트위치 방송 |  |
 | --: | :-- | :-- | :-: | :-: |
-| 일본 ::{ flag=JP }:: | ::{ flag=GB }:: 영국 | [4월 21일 일요일 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240421T130000&p1=1440&p2=248&p3=136) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | 미국 ::{ flag=US }:: | ::{ flag=TW }:: 대만 | [4월 21일 일요일 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240421T160000&p1=1440&p2=263&p3=241) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 그랜드 파이널 | 맵풀 쇼케이스 | [4월 21일 일요일 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240421T190000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| 그랜드 파이널 | 맵풀 쇼케이스 | [4월 21일 일요일 17:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240421T173000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## 맵풀 목록
 
@@ -608,5 +607,4 @@ Sunday, 14 April 2024:
 [^qualifiers-seeding]: 주된 시드 배정 방법으로 사용합니다
 [^qualifiers-tiebreaker]: 두팀의 순위가 동일할 경우 타이브레이커로 사용합니다
 [^winners-bracket]: 승자조 경기
-[^losers-bracket]: 패자조 경기
 [^mappool-showcase]: 이전 경기에 따라 사전 예고 없이 시간이 변동될 수 있는 맵풀 쇼케이스입니다

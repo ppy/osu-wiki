@@ -115,9 +115,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Japan ::{ flag=JP }:: | ::{ flag=GB }:: United Kingdom | [Apr 21 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240421T130000&p1=1440&p2=248&p3=136) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | United States ::{ flag=US }:: | ::{ flag=TW }:: Taiwan | [Apr 21 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240421T160000&p1=1440&p2=263&p3=241) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Grand Finals | mappool showcase | [Apr 21 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240421T190000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| Grand Finals | mappool showcase | [Apr 21 (Sun) 17:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240421T173000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Mappools
 
@@ -607,6 +606,5 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same average rank
-[^winners-bracket]: Winners bracket match
 [^losers-bracket]: Losers bracket match
 [^mappool-showcase]: Mappool showcase — schedule subject to rescheduling without prior notice, depending on preceding matches
