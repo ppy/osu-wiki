@@ -111,29 +111,20 @@ osu!taiko 월드컵 2024는 osu!팀과 여러명의 커뮤니티 멤버들로 �
 
 ## 매치 일정: 파이널
 
-### 2024년 4월 20일 토요일
-
-| Team A | Team B | 경기 시간 | 트위치 방송 |  |
-| --: | :-- | :-- | :-: | :-: |
-| 브라질 ::{ flag=BR }:: | ::{ flag=TW }:: 대만 | [4월 20일 토요일 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240420T150000&p1=1440&p2=45&p3=241) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-
 ### 2024년 4월 21일 일요일
 
 | Team A | Team B | 경기 시간 | 트위치 방송 |  |
 | --: | :-- | :-- | :-: | :-: |
-| 대한민국 ::{ flag=KR }:: | ::{ flag=US }:: 미국 | [4월 21일 일요일 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240421T030000&p1=1440&p2=235&p3=263) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 대한민국 ::{ flag=KR }:: | ::{ flag=TW }:: 대만 | [4월 21일 일요일 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240421T120000&p1=1440&p2=235&p3=241) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 일본 ::{ flag=JP }:: | ::{ flag=GB }:: 영국 | [4월 21일 일요일 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240421T130000&p1=1440&p2=248&p3=136) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 대한민국 ::{ flag=KR }:: | ::{ flag=BR }:: 브라질 | [4월 21일 일요일 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240421T150000&p1=1440&p2=235&p3=45) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 미국 ::{ flag=US }:: | ::{ flag=TW }:: 대만 | [4월 21일 일요일 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240421T160000&p1=1440&p2=263&p3=241) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 미국 ::{ flag=US }:: | ::{ flag=BR }:: 브라질 | [4월 21일 일요일 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240421T180000&p1=1440&p2=263&p3=45) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 그랜드 파이널 | 맵풀 쇼케이스 | [4월 21일 일요일 19:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20240421T190000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| 미국 ::{ flag=US }:: | ::{ flag=TW }:: 대만 | [4월 21일 일요일 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240421T160000&p1=1440&p2=263&p3=241) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 그랜드 파이널 | 맵풀 쇼케이스 | [4월 21일 일요일 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240421T190000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## 맵풀 목록
 
 ### 파이널
 
-**[맵팩은 여기서 다운로드가 가능합니다  (167 MB)](https://packs.ppy.sh/P244%20-%20osu!taiko%20World%20Cup%202024%3A%20Finals.zip?1713511023)**
+**[맵팩은 여기서 다운로드가 가능합니다  (167 MB)](https://packs.ppy.sh/P244%20-%20osu!taiko%20World%20Cup%202024%3A%20Finals.zip?1713511023)**\
+[쇼케이스 VOD는 여기서 볼 수 있습니다](https://www.twitch.tv/videos/2124949532)
 
 - No Mod
   1. [SatapanP ft. Hatsune Miku - Bagooon!!!!! (Skidooskei) \[NO MISS!!!!! (TWC EDIT!!!!!)\]](https://osu.ppy.sh/beatmapsets/2112567#taiko/4570747)
@@ -283,6 +274,20 @@ osu!taiko 월드컵 2024는 osu!팀과 여러명의 커뮤니티 멤버들로 �
   1. [Chroma - To the Milky Way (davidminh0111) \[Supernova\]](https://osu.ppy.sh/beatmapsets/2148483#taiko/4525822)
 
 ## 경기 결과
+
+### 파이널
+
+2024년 4월 20일 토요일:
+
+| Team A |  |  | Team B | 경기 링크 | VOD 링크 |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| 브라질 ::{ flag=BR }:: | 3 | **7** | ::{ flag=TW }:: **대만** | [#1](https://osu.ppy.sh/community/matches/113566115) | [#1](https://www.twitch.tv/videos/2124949578) |
+
+2024년 4월 21일 일요일:
+
+| Team A |  |  | Team B | 경기 링크 | VOD 링크 |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| 대한민국 ::{ flag=KR }:: | 3 | **7** | ::{ flag=US }:: **미국** | [#1](https://osu.ppy.sh/community/matches/113575347) | [#1](https://www.twitch.tv/videos/2125504351) |
 
 ### 세미파이널
 
@@ -604,5 +609,4 @@ Sunday, 14 April 2024:
 [^qualifiers-tiebreaker]: 두팀의 순위가 동일할 경우 타이브레이커로 사용합니다
 [^winners-bracket]: 승자조 경기
 [^losers-bracket]: 패자조 경기
-[^potential-match]: 최종 상대는 패자조 경기에 따라 달라지는 잠재적인 경기입니다
 [^mappool-showcase]: 이전 경기에 따라 사전 예고 없이 시간이 변동될 수 있는 맵풀 쇼케이스입니다
