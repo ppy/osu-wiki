@@ -274,7 +274,7 @@ Hard Rock Showdown is run by various community members.
 
 ### Finals
 
-Detailed statistics for this round can be found [here].
+*Detailed statistics for this round will be added soon.*
 
 Saturday, 20 April 2024:
 
