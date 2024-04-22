@@ -575,6 +575,12 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | --: | :-: | :-- | :-: | :-- |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/takehirotei/chocolate-scramble "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=74HV7kYX-qg "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://takehirotei.bandcamp.com/track/takehirotei-chocolate-scramble-spring-flower-scramble-wisteria "Bandcamp") |  | takehirotei - Chocolate Scramble | [#1](https://osu.ppy.sh/beatmapsets/1968809) | Grand Finals FM1 |
 
+#### ![](/wiki/shared/mode/osu.png) TEST Open 2024
+
+| Links | FA | Song | Beatmap | Notes |
+| --: | :-: | :-- | :-: | :-- |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/kanemiko/twilight-of-the-abyss#t=0:00 "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=8aXTqEKd1Eg "YouTube") |  | kanemiko - Twilight of the Abyss[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2170063) | Quarterfinals HR1 |
+
 #### ![](/wiki/shared/mode/osu.png) The Perennial 2022
 
 | Links | FA | Song | Beatmap | Notes |
