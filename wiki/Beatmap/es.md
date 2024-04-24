@@ -89,7 +89,7 @@ Los jugadores de osu! de todos los modos de juego usan beatmaps para [subir de r
 - Clasificación específica del país hecha de jugadores que llevan la misma bandera;
 - Clasificación de amigos que muestra la posición de un jugador en el mapa en comparación con sus amigos.
 
-Las 500 mejores puntuaciones en cada dificultad de un beatmap proporcionan [repeticiones](/wiki/Gameplay/Replay), que se pueden ver en línea o guardar para mostrarlas en una tabla de clasificación local.
+Las 1000 mejores puntuaciones en cada dificultad de un beatmap proporcionan [repeticiones](/wiki/Gameplay/Replay), que se pueden ver en línea o guardar para mostrarlas en una tabla de clasificación local.
 
 ### Tablas y destacados
 

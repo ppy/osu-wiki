@@ -61,6 +61,7 @@ La [page du groupe des Featured Artist](https://osu.ppy.sh/groups/35) répertori
 | ::{ flag=HK }:: [Ardolf](https://osu.ppy.sh/users/12359061) | [Ardolf](https://osu.ppy.sh/beatmaps/artists/263) |
 | ::{ flag=US }:: [BigMoist10](https://osu.ppy.sh/users/20787676) | (membre de) [The Gentle Men](https://osu.ppy.sh/beatmaps/artists/142) |
 | ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) | [BilliumMoto](https://osu.ppy.sh/beatmaps/artists/38) |
+| ::{ flag=KR }:: [Cinamoro](https://osu.ppy.sh/users/18214510) | [Cinamoro](https://osu.ppy.sh/beatmaps/artists/341) |
 | ::{ flag=AT }:: [creosu](https://osu.ppy.sh/users/13958834) | [Creo](https://osu.ppy.sh/beatmaps/artists/36) |
 | ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | [cYsmix](https://osu.ppy.sh/beatmaps/artists/2) |
 | ::{ flag=DE }:: [Darkney](https://osu.ppy.sh/users/14700596) | [Darkney](https://osu.ppy.sh/beatmaps/artists/290) |
@@ -89,6 +90,7 @@ La [page du groupe des Featured Artist](https://osu.ppy.sh/groups/35) répertori
 | ::{ flag=GB }:: [passchooo](https://osu.ppy.sh/users/6469085) | [passchooo](https://osu.ppy.sh/beatmaps/artists/366) |
 | ::{ flag=CH }:: [pandaeyesosu](https://osu.ppy.sh/users/34609545) | [Panda Eyes](https://osu.ppy.sh/beatmaps/artists/55) |
 | ::{ flag=US }:: [Pandize](https://osu.ppy.sh/users/5490937) | [Pandize](https://osu.ppy.sh/beatmaps/artists/405) |
+| ::{ flag=TH }:: [ptar124](https://osu.ppy.sh/users/4325444) | [ptar124](https://osu.ppy.sh/beatmaps/artists/409) |
 | ::{ flag=RU }:: [rebuble uselet](https://osu.ppy.sh/users/5256300) | [uselet](https://osu.ppy.sh/beatmaps/artists/402) |
 | ::{ flag=CA }:: [Redside](https://osu.ppy.sh/users/16039046) | [Redside](https://osu.ppy.sh/beatmaps/artists/184) |
 | ::{ flag=US }:: [Ritorikal](https://osu.ppy.sh/users/8061786) | [Ritorikal](https://osu.ppy.sh/beatmaps/artists/305) |
@@ -104,6 +106,7 @@ La [page du groupe des Featured Artist](https://osu.ppy.sh/groups/35) répertori
 | ::{ flag=KR }:: [thenewlimee](https://osu.ppy.sh/users/7802935) | [Raimukun](https://osu.ppy.sh/beatmaps/artists/247) |
 | ::{ flag=RU }:: [tieff](https://osu.ppy.sh/users/89619) | [tieff](https://osu.ppy.sh/beatmaps/artists/34) |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) |
+| ::{ flag=DK }:: [water](https://osu.ppy.sh/users/11671515) | [watering](https://osu.ppy.sh/beatmaps/artists/416) |
 | ::{ flag=US }:: [Will Stetson](https://osu.ppy.sh/users/4909088) | [Will Stetson](https://osu.ppy.sh/beatmaps/artists/385) |
 | ::{ flag=JP }:: [xorsizer](https://osu.ppy.sh/users/20466752) | (membre de) [Symholic](https://osu.ppy.sh/beatmaps/artists/130) |
 | ::{ flag=TH }:: [YuugenP](https://osu.ppy.sh/users/2014016) | [rN](https://osu.ppy.sh/beatmaps/artists/190) |

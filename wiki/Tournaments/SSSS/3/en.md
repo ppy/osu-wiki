@@ -30,11 +30,9 @@ The **SEA Summer Suiji Showdown 3** (***SSSS 3***) was a South East Asian team-b
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter for each team member, unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter for each team member |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter for each team member |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 months of osu!supporter for each team member |
-
-![](img/badge.png?1 "SSSS 3 winner badge")
 
 ## Organisation
 
