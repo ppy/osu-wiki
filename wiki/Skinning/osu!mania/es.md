@@ -12,7 +12,7 @@ Desde la versión 2.5+, los skinners ahora pueden personalizar completamente las
 
 ![](/wiki/shared/judgement/osu!mania/mania-hit0.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![Sí][true] | ![Sí][true] | Normal | Centro | - |
 
@@ -28,7 +28,7 @@ Notas:
 
 ![](/wiki/shared/judgement/osu!mania/mania-hit50.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![Sí][true] | ![Sí][true] | Normal | Centro | - |
 
@@ -44,7 +44,7 @@ Notas:
 
 ![](/wiki/shared/judgement/osu!mania/mania-hit100.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![Sí][true] | ![Sí][true] | Normal | Centro | - |
 
@@ -60,7 +60,7 @@ Notas:
 
 ![](/wiki/shared/judgement/osu!mania/mania-hit200.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![Sí][true] | ![Sí][true] | Normal | Centro | - |
 
@@ -76,7 +76,7 @@ Notas:
 
 ![](/wiki/shared/judgement/osu!mania/mania-hit300.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![Sí][true] | ![Sí][true] | Normal | Centro | - |
 
@@ -92,7 +92,7 @@ Notas:
 
 ![](/wiki/shared/judgement/osu!mania/mania-hit300g.gif)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![Sí][true] | ![Sí][true] | Normal | Centro | - |
 
@@ -108,7 +108,7 @@ Notas:
 
 ![](img/comboburst-mania.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] (véase las notas) | ![Sí][true] | Normal | Abajo a la izquierda | Altura máxima: 768px |
 
@@ -126,7 +126,7 @@ Notas:
 
 ![](img/mania-key1.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![No][false] | Normal | Abajo | 50x107 |
 
@@ -141,7 +141,7 @@ Notas:
 
 ![](img/mania-key1D.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![No][false] | Normal | Abajo | 50x107 |
 
@@ -156,7 +156,7 @@ Notas:
 
 ![](img/mania-key2.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![No][false] | Normal | Abajo | 50x107 |
 
@@ -171,7 +171,7 @@ Notas:
 
 ![](img/mania-key2D.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![No][false] | Normal | Abajo | 50x107 |
 
@@ -186,7 +186,7 @@ Notas:
 
 ![](img/mania-keyS.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![No][false] | Normal | Abajo | 50x107 |
 
@@ -201,7 +201,7 @@ Notas:
 
 ![](img/mania-keySD.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![No][false] | Normal | Abajo | 50x107 |
 
@@ -216,7 +216,7 @@ Notas:
 
 ![](img/mania-note1.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![Sí][true] | ![No][false] | Normal | Abajo | - |
 
@@ -233,7 +233,7 @@ Notas:
 
 ![](img/mania-note2.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![Sí][true] | ![No][false] | Normal | Abajo | - |
 
@@ -250,7 +250,7 @@ Notas:
 
 ![](img/mania-noteS.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![Sí][true] | ![No][false] | Normal | Abajo | - |
 
@@ -269,7 +269,7 @@ Notas:
 
 ![](img/mania-note1H.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![Sí][true] | ![No][false] | Normal | Abajo | - |
 
@@ -289,7 +289,7 @@ Notas:
 
 ![](img/mania-note2H.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![Sí][true] | ![No][false] | Normal | Abajo | - |
 
@@ -309,7 +309,7 @@ Notas:
 
 ![](img/mania-noteSH.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![Sí][true] | ![No][false] | Normal | Abajo | - |
 
@@ -329,7 +329,7 @@ Notas:
 
 ![](img/mania-note1L.gif)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![Sí][true] (véase las notas) | ![No][false] | Normal | Abajo | - |
 
@@ -346,7 +346,7 @@ Notas:
 
 ![](img/mania-note2L.gif)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![Sí][true] (véase las notas) | ![No][false] | Normal | Abajo | - |
 
@@ -363,7 +363,7 @@ Notas:
 
 ![](img/mania-noteSL.gif)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![Sí][true] (véase las notas) | ![No][false] | Normal | Abajo | - |
 
@@ -378,7 +378,7 @@ Notas:
 
 `mania-note1T.png`
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![Sí][true] | ![No][false] | Normal | Abajo | - |
 
@@ -397,7 +397,7 @@ Notas:
 
 `mania-note2T.png`
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![Sí][true] | ![No][false] | Normal | Abajo | - |
 
@@ -416,7 +416,7 @@ Notas:
 
 `mania-noteST.png`
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![Sí][true] | ![No][false] | Normal | Abajo | - |
 
@@ -437,7 +437,7 @@ Notas:
 
 ![](img/mania-stage-left.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![No][false] | Normal | Abajo a la derecha | Altura máxima: 768px |
 
@@ -452,7 +452,7 @@ Notas:
 
 ![](img/mania-stage-right.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![No][false] | Normal | Abajo a la derecha | Altura máxima: 768px |
 
@@ -465,7 +465,7 @@ Notas:
 
 `mania-stage-bottom.png`
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![Sí][true] | ![No][false] | Normal | Abajo | - |
 
@@ -484,7 +484,7 @@ Notas:
 
 ![](img/mania-stage-light.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![Sí][true] | ![No][false] | Multiplicativo | Abajo | Altura máxima: 768px |
 
@@ -504,7 +504,7 @@ Notas:
 
 ![](img/mania-stage-hint.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![No][false] | Normal | Centro | - |
 
@@ -521,7 +521,7 @@ Notas:
 
 ![](img/mania-warningarrow.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![No][false] | Normal | Centro | - |
 
@@ -537,7 +537,7 @@ Notas:
 
 ![](img/lightingL.gif)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![Sí][true] | ![No][false] | Aditivo | Centro | - |
 
@@ -554,7 +554,7 @@ Notas:
 
 ![](img/lightingN.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![Sí][true] | ![No][false] | Aditivo | Centro | - |
 
