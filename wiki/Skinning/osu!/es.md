@@ -6,7 +6,7 @@
 
 ![](img/comboburst.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] (véase las notas) | ![Sí][true] | Normal | Centro | - |
 
@@ -25,7 +25,7 @@ Notas:
 
 ![](img/default-0.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Normal | Centro | - |
 
@@ -33,7 +33,7 @@ Notas:
 
 - En la versión 1.0, estos se expanden y luego se desvanecen con el círculo.
   - Si el mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden) está activado, solo se desvanecerá.
-- En la versión 2.0 o superiores, se desvanecen.
+- En la versión 2.0 o en versiones posteriores, se desvanecen.
 - Este elemento se reduce en 0,8x
 
 ---
@@ -42,7 +42,7 @@ Notas:
 
 ![](img/default-1.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Normal | Centro | - |
 
@@ -50,7 +50,7 @@ Notas:
 
 - En la versión 1.0, estos se expanden y luego se desvanecen con el círculo.
   - Si el mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden) está activado, solo se desvanecerá.
-- En la versión 2.0 o superiores, se desvanecen.
+- En la versión 2.0 o en versiones posteriores, se desvanecen.
 - Este elemento se reduce en 0,8x
 
 ---
@@ -59,7 +59,7 @@ Notas:
 
 ![](img/default-2.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Normal | Centro | - |
 
@@ -67,7 +67,7 @@ Notas:
 
 - En la versión 1.0, estos se expanden y luego se desvanecen con el círculo.
   - Si el mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden) está activado, solo se desvanecerá.
-- En la versión 2.0 o superiores, se desvanecen.
+- En la versión 2.0 o en versiones posteriores, se desvanecen.
 - Este elemento se reduce en 0,8x
 
 ---
@@ -76,7 +76,7 @@ Notas:
 
 ![](img/default-3.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Normal | Centro | - |
 
@@ -84,7 +84,7 @@ Notas:
 
 - En la versión 1.0, estos se expanden y luego se desvanecen con el círculo.
   - Si el mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden) está activado, solo se desvanecerá.
-- En la versión 2.0 o superiores, se desvanecen.
+- En la versión 2.0 o en versiones posteriores, se desvanecen.
 - Este elemento se reduce en 0,8x
 
 ---
@@ -93,7 +93,7 @@ Notas:
 
 ![](img/default-4.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Normal | Centro | - |
 
@@ -101,7 +101,7 @@ Notas:
 
 - En la versión 1.0, estos se expanden y luego se desvanecen con el círculo.
   - Si el mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden) está activado, solo se desvanecerá.
-- En la versión 2.0 o superiores, se desvanecen.
+- En la versión 2.0 o en versiones posteriores, se desvanecen.
 - Este elemento se reduce en 0,8x
 
 ---
@@ -110,7 +110,7 @@ Notas:
 
 ![](img/default-5.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Normal | Centro | - |
 
@@ -118,7 +118,7 @@ Notas:
 
 - En la versión 1.0, estos se expanden y luego se desvanecen con el círculo.
   - Si el mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden) está activado, solo se desvanecerá.
-- En la versión 2.0 o superiores, se desvanecen.
+- En la versión 2.0 o en versiones posteriores, se desvanecen.
 - Este elemento se reduce en 0,8x
 
 ---
@@ -127,7 +127,7 @@ Notas:
 
 ![](img/default-6.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Normal | Centro | - |
 
@@ -135,7 +135,7 @@ Notas:
 
 - En la versión 1.0, estos se expanden y luego se desvanecen con el círculo.
   - Si el mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden) está activado, solo se desvanecerá.
-- En la versión 2.0 o superiores, se desvanecen.
+- En la versión 2.0 o en versiones posteriores, se desvanecen.
 - Este elemento se reduce en 0,8x
 
 ---
@@ -144,7 +144,7 @@ Notas:
 
 ![](img/default-7.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Normal | Centro | - |
 
@@ -152,7 +152,7 @@ Notas:
 
 - En la versión 1.0, estos se expanden y luego se desvanecen con el círculo.
   - Si el mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden) está activado, solo se desvanecerá.
-- En la versión 2.0 o superiores, se desvanecen.
+- En la versión 2.0 o en versiones posteriores, se desvanecen.
 - Este elemento se reduce en 0,8x
 
 ---
@@ -161,7 +161,7 @@ Notas:
 
 ![](img/default-8.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Normal | Centro | - |
 
@@ -169,7 +169,7 @@ Notas:
 
 - En la versión 1.0, estos se expanden y luego se desvanecen con el círculo.
   - Si el mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden) está activado, solo se desvanecerá.
-- En la versión 2.0 o superiores, se desvanecen.
+- En la versión 2.0 o en versiones posteriores, se desvanecen.
 - Este elemento se reduce en 0,8x
 
 ---
@@ -178,7 +178,7 @@ Notas:
 
 ![](img/default-9.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Normal | Centro | - |
 
@@ -186,7 +186,7 @@ Notas:
 
 - En la versión 1.0, estos se expanden y luego se desvanecen con el círculo.
   - Si el mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden) está activado, solo se desvanecerá.
-- En la versión 2.0 o superiores, se desvanecen.
+- En la versión 2.0 o en versiones posteriores, se desvanecen.
 - Este elemento se reduce en 0,8x
 
 ## Círculos
@@ -195,7 +195,7 @@ Notas:
 
 ![](img/approachcircle.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Multiplicativo | Centro | 126x126 |
 
@@ -213,7 +213,7 @@ Notas:
 
 ![](img/hitcircle.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Multiplicativo | Centro | 118x118 (círculo) 128x128 (archivo completo) |
 
@@ -230,7 +230,7 @@ Notas:
 
 ![](img/hitcircleoverlay.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] (véase las notas) | ![Sí][true] | Normal | Centro | 118x118 (círculo) 128x128 (archivo completo) |
 
@@ -254,7 +254,7 @@ La visibilidad de la superposición en los sliders depende de los elementos del 
 
 ![](img/hitcircleselect.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Normal | Centro | 118x118 (círculo) 128x128 (archivo completo) |
 
@@ -269,7 +269,7 @@ Notas:
 
 ![](img/followpoint.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![Sí][true] | ![Sí][true] | Normal | Centro | - |
 
@@ -285,7 +285,7 @@ Notas:
 
 ![](img/lighting.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Aditivo | Centro | 100x100 |
 
@@ -303,7 +303,7 @@ Notas:
 
 `sliderstartcircle.png`
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Multiplicativo | Centro | 118x118 (círculo) 128x128 (archivo completo) |
 
@@ -319,7 +319,7 @@ Notas:
 
 `sliderstartcircleoverlay.png`
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] (véase las notas) | ![Sí][true] | Normal | Centro | 118x118 (círculo) 128x128 (archivo completo) |
 
@@ -338,7 +338,7 @@ Notas:
 
 `sliderendcircle.png`
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Multiplicativo | Centro | 118x118 (círculo) 128x128 (archivo completo) |
 
@@ -354,7 +354,7 @@ Notas:
 
 `sliderendcircleoverlay.png`
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] (véase las notas) | ![Sí][true] | Normal | Centro | 118x118 (círculo) 128x128 (archivo completo) |
 
@@ -375,7 +375,7 @@ Notas:
 
 ![](img/reversearrow.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Normal | Centro | 118x118 (círculo) 128x128 (archivo completo) |
 
@@ -391,7 +391,7 @@ Notas:
 
 ![](img/sliderfollowcircle.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![Sí][true] | ![Sí][true] | Normal | Centro | 256x256 (véase las notas) |
 
@@ -407,7 +407,7 @@ Notas:
 
 ![](img/sliderb.gif)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![Sí][true] (véase las notas) | ![Sí][true] | Multiplicativo | Centro | 118x118 |
 
@@ -424,14 +424,14 @@ Notas:
 
 ![](img/sliderb-nd.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] (véase las notas) | Multiplicativo | Centro | 118x118 |
 
 Notas:
 
 - Se ignora si `sliderb.png` tiene un aspecto para la skin.
-  - Skinnable para los beatmaps si `sliderb.png` no tiene un aspecto en la skin del jugador.
+  - Personalizable para los beatmaps si `sliderb.png` no tiene un aspecto en la skin del jugador.
 - Teñido de negro.
 - Este elemento es la capa de fondo de la bola del slider predeterminada.
 
@@ -441,27 +441,27 @@ Notas:
 
 ![](img/sliderb-spec.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] (véase las notas) | Aditivo | Centro | 118x118 |
 
 Notas:
 
 - Se ignora si `sliderb.png` tiene un aspecto para la skin.
-  - Skinnable para los beatmaps si `sliderb.png` no tiene un aspecto en la skin del jugador.
+  - Personalizable para los beatmaps si `sliderb.png` no tiene un aspecto en la skin del jugador.
 - Este elemento es la capa superior de la bola que permanece en una posición estática (no se voltea ni gira).
 
 ---
 
 `sliderpoint10.png`
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1.0 | ![No][false] | ![Sí][true] (véase las notas) | Normal | Centro | 50x30 |
 
 Notas:
 
-- Skinnable para los beatmaps si la skin del jugador está usando la versión 1.0.
+- Personalizable para los beatmaps si la skin del jugador está usando la versión 1.0.
 - Se usa cuando el jugador recoge una marca del slider.
 - Debe decir «10».
 
@@ -469,13 +469,13 @@ Notas:
 
 `sliderpoint30.png`
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1.0 | ![No][false] | ![Sí][true] (véase las notas) | Normal | Centro | 50x30 |
 
 Notas:
 
-- Skinnable para los beatmaps si la skin del jugador está usando la versión 1.0.
+- Personalizable para los beatmaps si la skin del jugador está usando la versión 1.0.
 - Se usa cuando el jugador inicia un slider y/o cuando golpea la flecha de retroceso.
 - Debe decir «30».
 
@@ -485,7 +485,7 @@ Notas:
 
 ![](img/sliderscorepoint.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Normal | Centro | 16x16 |
 
@@ -505,13 +505,13 @@ Notas:
 
 ![](img/spinner-approachcircle.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Normal | Centro | 384x384 |
 
 Notas:
 
-- Este elemento se posiciona alrededor de 397px verticalmente.
+- Este elemento se posiciona alrededor de 397 píxeles verticalmente.
 - Se aplica a ambos estilos.
 - Se reduce con el tiempo, como `approachcircle.png`
 - Se fuerza su uso cuando `spinner-circle.png` o `spinner-top.png` tienen un aspecto en la skin.
@@ -523,7 +523,7 @@ Notas:
 
 ![](img/spinner-rpm.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Normal | Arriba a la izquierda | 280x56 |
 
@@ -540,13 +540,13 @@ Notas:
 
 ![](img/spinner-clear.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Normal | Centro | - |
 
 Notas:
 
-- Este elemento se posiciona alrededor de 230px verticalmente.
+- Este elemento se posiciona alrededor de 230 píxeles verticalmente.
 - Aparece cuando el jugador ha completado el spinner.
 
 ---
@@ -555,13 +555,13 @@ Notas:
 
 ![](img/spinner-spin.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Normal | Centro | - |
 
 Notas:
 
-- Este elemento se posiciona alrededor de 582px verticalmente.
+- Este elemento se posiciona alrededor de 582 píxeles verticalmente.
 - Esto aparece al inicio de un spinner.
 
 ### Spinner (antiguo)
@@ -570,7 +570,7 @@ Notas:
 
 ![](img/spinner-background.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Multiplicativo | Centro | 1024x702 (véase las notas) |
 
@@ -587,13 +587,13 @@ Notas:
 
 ![](img/spinner-circle.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Normal | Centro | - |
 
 Notas:
 
-- Este elemento se posiciona alrededor de 397px verticalmente.
+- Este elemento se posiciona alrededor de 397 píxeles verticalmente.
 - Este elemento es la parte giratoria del spinner.
 - Este elemento también se usa para [osu!taiko](/wiki/Game_mode/osu!taiko).
   - Si usas el nuevo estilo del spinner, aún puedes darle un aspecto para osu!taiko.
@@ -604,13 +604,13 @@ Notas:
 
 ![](img/spinner-metre.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Normal | Arriba a la izquierda | 1024x692 |
 
 Notas:
 
-- Posicionado a 46px de la parte superior y 512px a la izquierda del eje central.
+- Posicionado a 46 píxeles de la parte superior y 512 píxeles a la izquierda del eje central.
   - (0,46) a 1024x768 y (171,46) a 1366x768.
 - Este elemento es la barra de progresión
 - La parte más alta de la barra parpadeará cuando se obtengan puntos extra.
@@ -622,13 +622,13 @@ Notas:
 
 ![](img/spinner-osu.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1.0 | ![No][false] | ![Sí][true] (véase las notas) | Normal | Centro | - |
 
 Notas:
 
-- Skinnable para los beatmaps si la skin del jugador está usando la versión 1.0.
+- Personalizable para los beatmaps si la skin del jugador está usando la versión 1.0.
 - Esto aparece después de que el spinner se desvanece.
 
 ### Spinner (nuevo)
@@ -637,13 +637,13 @@ Notas:
 
 ![](img/spinner-glow.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 2.0 o posteriores | ![No][false] | ![Sí][true] | Aditivo | Centro | - |
 
 Notas:
 
-- Este elemento se posiciona alrededor de 397px verticalmente.
+- Este elemento se posiciona alrededor de 397 píxeles verticalmente.
 - Teñido de cian, parpadea en blanco cuando se obtienen puntos extra.
 - Esto parpadea cuando se obtienen puntos extra.
 - Este elemento es la capa más baja.
@@ -654,13 +654,13 @@ Notas:
 
 ![](img/spinner-bottom.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 2.0 o posteriores | ![No][false] | ![Sí][true] | Normal | Centro | - |
 
 Notas:
 
-- Este elemento se posiciona alrededor de 397px verticalmente.
+- Este elemento se posiciona alrededor de 397 píxeles verticalmente.
 - Este es el que gira más despacio.
 - Este elemento es la segunda capa más baja.
 
@@ -670,13 +670,13 @@ Notas:
 
 ![](img/spinner-top.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 2.0 o posteriores | ![No][false] | ![Sí][true] | Normal | Centro | - |
 
 Notas:
 
-- Este elemento se posiciona alrededor de 397px verticalmente.
+- Este elemento se posiciona alrededor de 397 píxeles verticalmente.
 - Este es el segundo que gira más rápido (más lento que `spinner-middle2.png`).
 - Este elemento es la capa intermedia.
 
@@ -686,13 +686,13 @@ Notas:
 
 ![](img/spinner-middle2.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 2.0 o posteriores | ![No][false] | ![Sí][true] | Normal | Centro | - |
 
 Notas:
 
-- Este elemento se posiciona alrededor de 397px verticalmente.
+- Este elemento se posiciona alrededor de 397 píxeles verticalmente.
 - Este es el que gira más rápido.
 - Este elemento es la segunda capa más alta.
 
@@ -702,13 +702,13 @@ Notas:
 
 ![](img/spinner-middle.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 2.0 o posteriores | ![No][false] | ![Sí][true] | Multiplicativo | Centro | - |
 
 Notas:
 
-- Este elemento se posiciona alrededor de 397px verticalmente.
+- Este elemento se posiciona alrededor de 397 píxeles verticalmente.
 - Se tiñe de rojo con el tiempo (este es el indicador de tiempo).
 - Este elemento es la capa más alta.
 
@@ -718,7 +718,7 @@ Notas:
 
 ![](img/particle50.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Normal | Centro | 7x7 |
 
@@ -732,7 +732,7 @@ Notas:
 
 ![](img/particle100.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Normal | Centro | 7x7 |
 
@@ -747,7 +747,7 @@ Notas:
 
 ![](img/particle300.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Normal | Centro | 7x7 |
 
