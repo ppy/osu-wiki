@@ -8,7 +8,7 @@ Get prepared for the upcoming Grand Finals by refreshing your memory of the prev
 
 ![](/wiki/Tournaments/TWC/2024/img/twc2024-banner.jpg)
 
-This is it. The top 4 teams have been locked in, but it is still uncertain who will be crowned as this year's osu!taiko World Champion. Will Japan secure their 10th Championship in a row, or perhaps the United States, the newcomer to the osu!taiko World Cup podium, be able to snag it away and show dominance in yet another osu! game mode?
+This is it. The top 4 teams have been locked in, but it is still uncertain who will be crowned as this year's osu!taiko World Champion. Will Japan secure their 10th championship in a row, or will perhaps the United States, the newcomer to the osu!taiko World Cup podium, be able to snag it away and show dominance in yet another osu! game mode?
 
 ## Mappool showcase
 
