@@ -1,6 +1,6 @@
 # Skinning de osu!
 
-## Combo burst
+## Combo bursts
 
 `comboburst.png`
 
@@ -14,8 +14,8 @@ Notas:
 
 - Para tener múltiples combo bursts, usa: `comboburst-{n}.png`.
   - Una de las imágenes del conjunto aparecerá cuando se alcance un hito de combo.
-- Para la versión 2.2 o anteriores, estos son los combo bursts de osu! y osu!catch.
-- Para la versión 2.3 o superiores, esto es combo bursts de osu!
+- Para la versión 2.2 o en versiones anteriores, estos son los combo bursts de osu! y osu!catch.
+- Para la versión 2.3 o en versiones posteriores, estos son los combo bursts de osu!.
 - Esto se puede desactivar en las [opciones](/wiki/Client/Options).
 - Esta debe mirar hacia la derecha.
 
@@ -287,7 +287,7 @@ Notas:
 
 | Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | Additive | Centro | 100x100 |
+| Todas | ![No][false] | ![Sí][true] | Aditivo | Centro | 100x100 |
 
 Notas:
 
@@ -530,7 +530,7 @@ Notas:
 Notas:
 
 - RPM es la abreviatura de «Revoluciones Por Minuto».
-- Este elemento está situado a 139px a la izquierda del centro de la pantalla y a 712px de altura
+- Este elemento está situado a 139 píxeles a la izquierda del centro de la pantalla y a 712 píxeles de altura
   - (373,712) a 1024x768
   - (544,712) a 1366x768
 
