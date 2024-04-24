@@ -2,7 +2,7 @@
 
 Los formatos `.wav`, `.mp3` y/o `.ogg` son válidos para los sonidos.
 
-## De la interfaz
+## Interfaz
 
 ### En el menú principal
 
