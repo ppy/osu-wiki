@@ -6,7 +6,7 @@
 
 ![](img/fruit-catcher-idle.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 2.3 o superiores | ![Sí][true] | ![Sí][true] | Normal | Arriba | Anchura mínima: 302 píxeles |
 
@@ -24,7 +24,7 @@ Notas:
 
 ![](img/fruit-catcher-fail.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 2.3 o superiores | ![Sí][true] | ![Sí][true] | Normal | Centro | - |
 
@@ -41,7 +41,7 @@ Notas:
 
 ![](img/fruit-catcher-kiai.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 2.3 o superiores | ![Sí][true] | ![Sí][true] | Normal | Centro | - |
 
@@ -58,13 +58,13 @@ Notas:
 
 ![](img/fruit-ryuuta.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 2.2 o anteriores | ![Sí][true] | ![Sí][true] (véase las notas) | Normal | Centro | - |
 
 Notas:
 
-- Skinnable para los beatmaps si la skin del jugador usa la versión 2.2 o una anterior.
+- Personalizable para los beatmaps si la skin del jugador usa la versión 2.2 o una anterior.
 - Nombre de la animación: `fruit-ryuuta-{n}.png`
 - Este debe mirar hacia la derecha.
 
@@ -74,7 +74,7 @@ Notas:
 
 ![](img/comboburst-fruits.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 2.3 o superiores | ![No][false] (véase las notas) | ![Sí][true] | Normal | Abajo a la izquierda | Altura máxima: 768 píxeles |
 
@@ -93,7 +93,7 @@ Notas:
 
 ![](img/lighting.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Aditivo | Centro | 100x100 |
 
@@ -110,7 +110,7 @@ Notas:
 
 ![](img/fruit-pear.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Multiplicativo | Centro | 128x128 |
 
@@ -126,7 +126,7 @@ Notas:
 
 ![](img/fruit-pear-overlay.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Normal | Centro | 128x128 |
 
@@ -140,7 +140,7 @@ Notas:
 
 ![](img/fruit-grapes.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Multiplicativo | Centro | 128x128 |
 
@@ -156,7 +156,7 @@ Notas:
 
 ![](img/fruit-grapes-overlay.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Normal | Centro | 128x128 |
 
@@ -170,7 +170,7 @@ Notas:
 
 ![](img/fruit-apple.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Multiplicativo | Centro | 128x128 |
 
@@ -186,7 +186,7 @@ Notas:
 
 ![](img/fruit-apple-overlay.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Normal | Centro | 128x128 |
 
@@ -200,7 +200,7 @@ Notas:
 
 ![](img/fruit-orange.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] (véase las notas) | ![Sí][true] | Multiplicativo | Centro | 128x128 |
 
@@ -221,7 +221,7 @@ Notas:
 
 ![](img/fruit-orange-overlay.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] (véase las notas) | ![Sí][true] | Normal | Centro | 128x128 |
 
@@ -237,7 +237,7 @@ Notas:
 
 ![](img/fruit-bananas.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Multiplicativo | Centro | 128x128 |
 
@@ -253,7 +253,7 @@ Notas:
 
 ![](img/fruit-bananas-overlay.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Normal | Centro | 128x128 |
 
@@ -267,7 +267,7 @@ Notas:
 
 ![](img/fruit-drop.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] (véase las notas) | ![Sí][true] | Multiplicativo | Centro | 128x128 |
 
@@ -282,7 +282,7 @@ Notas:
 
 `fruit-drop-overlay.png`
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Normal | Centro | 128x128 |
 
