@@ -712,7 +712,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![No][false] | Normal | Derecha | Altura máxima: 768px |
+| Todas | ![No][false] | ![No][false] | Normal | Derecha | Altura máxima: 768 píxeles |
 
 Notas:
 
@@ -979,7 +979,7 @@ Notas:
 
 Notas:
 
-- Este elemento está posicionado a 320px de altura.
+- Este elemento está posicionado a 320 píxeles de altura.
 - Como la imagen está girada, el origen en la propia imagen es arriba a la izquierda.
 - Este elemento se usa en [osu!](/wiki/Game_mode/osu!) y [osu!catch](/wiki/Game_mode/osu!catch).
 - Este elemento gira 90 grados en el sentido de las agujas del reloj y se estira 1,05 veces en el juego.
@@ -999,11 +999,11 @@ Notas:
 
 - Este elemento se usa en [osu!](/wiki/Game_mode/osu!) y [osu!catch](/wiki/Game_mode/osu!catch).
 - El posicionamiento varía para cada tecla:
-  - A 24px del borde de la pantalla
-  - K1/L: a 350px de altura
-  - K2/R: a 398px de altura
-  - M1/D: a 446px de altura
-  - M2: a 492px de altura
+  - A 24 píxeles del borde de la pantalla
+  - K1/L: a 350 píxeles de altura
+  - K2/R: a 398 píxeles de altura
+  - M1/D: a 446 píxeles de altura
+  - M2: a 492 píxeles de altura
 - Puede activarse y desactivarse en las [opciones](/wiki/Client/Options).
 - Se reduce brevemente al presionar las teclas.
 - El tinte varía según la ubicación y el estado del botón:
@@ -1023,7 +1023,7 @@ Notas:
 
 - Cuando el juego esté en pausa, el campo de juego se oscurecerá y este archivo se superpondrá sobre él.
 - Este elemento no se estirará para adaptarse.
-- La altura completa de la imagen es de 768px.
+- La altura completa de la imagen es de 768 píxeles.
 - Las imágenes más pequeñas se muestran con bordes transparentes, mientras que las imágenes más grandes se muestran parcialmente.
 - También puede ser un archivo `.jpg` (y puede tener la extensión `.jpg`).
   - osu! prefiere `.png` antes que `.jpg`.
@@ -1055,7 +1055,7 @@ Notas:
 
 Notas:
 
-- Este elemento está posicionado a una altura de 576px.
+- Este elemento está posicionado a una altura de 576 píxeles.
 - Este elemento se ve en las pantallas de muerte y pausa.
 
 ---
@@ -1068,7 +1068,7 @@ Notas:
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Normal | Centro | - |
 
-- Este elemento está posicionado a una altura de 224px.
+- Este elemento está posicionado a una altura de 224 píxeles.
 - Este elemento se ve en la pantalla de pausa.
 
 ---
@@ -1084,7 +1084,7 @@ Notas:
 Notas:
 
 - Este elemento aparece en la pantalla de resultados (después de terminar un mapa o ver una puntuación).
-- Este elemento se posiciona a 672px de altura o a 576px de altura, si `pause-retry.png` no está disponible.
+- Este elemento se posiciona a 672 píxeles de altura o a 576 píxeles de altura, si `pause-retry.png` no está disponible.
 
 ---
 
@@ -1100,9 +1100,9 @@ Notas:
 
 - El posicionamiento varía:
   - pantalla de pausa o muerte:
-    - Centro, posicionado a 400px de altura
+    - Centro, posicionado a 400 píxeles de altura
   - pantalla de resultados:
-    - Derecha, posicionado a 576px de altura
+    - Derecha, posicionado a 576 píxeles de altura
 - Este elemento aparece en la pantalla de resultados después de terminar un mapa y en las pantallas de pausa y muerte.
 
 ### Barra de puntuación
@@ -1128,7 +1128,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![Sí][true] | ![Sí][true] | (Variado) | Arriba a la izquierda | Altura máxima: 120px |
+| Todas | ![Sí][true] | ![Sí][true] | (Variado) | Arriba a la izquierda | Altura máxima: 120 píxeles |
 
 Notas:
 
@@ -1480,9 +1480,9 @@ Notas:
 Notas:
 
 - El posicionamiento varía:
-  - A 192px del borde derecho de la pantalla
-  - Versión 1.0: a 272px de altura
-  - Versión 2.0 o versiones posteriores: a 320px de altura
+  - A 192 píxeles del borde derecho de la pantalla
+  - Versión 1.0: a 272 píxeles de altura
+  - Versión 2.0 o versiones posteriores: a 320 píxeles de altura
 
 ---
 
@@ -1514,9 +1514,9 @@ Notas:
 Notas:
 
 - El posicionamiento varía:
-  - A 192px del borde derecho de la pantalla
-  - Versión 1.0: a 272px de altura
-  - Versión 2.0 o versiones posteriores: a 320px de altura
+  - A 192 píxeles del borde derecho de la pantalla
+  - Versión 1.0: a 272 píxeles de altura
+  - Versión 2.0 o versiones posteriores: a 320 píxeles de altura
 
 ---
 
@@ -1548,9 +1548,9 @@ Notas:
 Notas:
 
 - El posicionamiento varía:
-  - A 192px del borde derecho de la pantalla
-  - Versión 1.0: a 272px de altura
-  - Versión 2.0 o versiones posteriores: a 320px de altura
+  - A 192 píxeles del borde derecho de la pantalla
+  - Versión 1.0: a 272 píxeles de altura
+  - Versión 2.0 o versiones posteriores: a 320 píxeles de altura
 
 ---
 
@@ -1582,9 +1582,9 @@ Notas:
 Notas:
 
 - El posicionamiento varía:
-  - A 192px del borde derecho de la pantalla
-  - Versión 1.0: a 272px de altura
-  - Versión 2.0 o versiones posteriores: a 320px de altura
+  - A 192 píxeles del borde derecho de la pantalla
+  - Versión 1.0: a 272 píxeles de altura
+  - Versión 2.0 o versiones posteriores: a 320 píxeles de altura
 
 ---
 
@@ -1616,9 +1616,9 @@ Notas:
 Notas:
 
 - El posicionamiento varía:
-  - A 192px del borde derecho de la pantalla
-  - Versión 1.0: a 272px de altura
-  - Versión 2.0 o versiones posteriores: a 320px de altura
+  - A 192 píxeles del borde derecho de la pantalla
+  - Versión 1.0: a 272 píxeles de altura
+  - Versión 2.0 o versiones posteriores: a 320 píxeles de altura
 
 ---
 
@@ -1650,9 +1650,9 @@ Notas:
 Notas:
 
 - El posicionamiento varía:
-  - A 192px del borde derecho de la pantalla
-  - Versión 1.0: a 272px de altura
-  - Versión 2.0 o versiones posteriores: a 320px de altura
+  - A 192 píxeles del borde derecho de la pantalla
+  - Versión 1.0: a 272 píxeles de altura
+  - Versión 2.0 o versiones posteriores: a 320 píxeles de altura
 
 ---
 
@@ -1684,9 +1684,9 @@ Notas:
 Notas:
 
 - El posicionamiento varía:
-  - A 192px del borde derecho de la pantalla
-  - Versión 1.0: a 272px de altura
-  - Versión 2.0 o versiones posteriores: a 320px de altura
+  - A 192 píxeles del borde derecho de la pantalla
+  - Versión 1.0: a 272 píxeles de altura
+  - Versión 2.0 o versiones posteriores: a 320 píxeles de altura
 
 ---
 
@@ -1718,9 +1718,9 @@ Notas:
 Notas:
 
 - El posicionamiento varía:
-  - A 192px del borde derecho de la pantalla
-  - Versión 1.0: a 272px de altura
-  - Versión 2.0 o versiones posteriores: a 320px de altura
+  - A 192 píxeles del borde derecho de la pantalla
+  - Versión 1.0: a 272 píxeles de altura
+  - Versión 2.0 o versiones posteriores: a 320 píxeles de altura
 
 ---
 
@@ -1775,7 +1775,7 @@ Notas:
   - Versión 2.0 o versiones posteriores: (256,608)
 - La caja en sí mide 301x141.
 - Los 7 primeros píxeles de la parte superior y de la izquierda deben ser transparentes.
-  - En la versión 1 se desplaza 8px hacia abajo.
+  - En la versión 1 se desplaza 8 píxeles hacia abajo.
 
 ---
 
@@ -1803,8 +1803,8 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1.0 | ![No][false] | ![No][false] | Normal | Arriba a la izquierda | Altura máxima: 694px |
-| 2.0 o posteriores | ![No][false] | ![No][false] | Normal | Arriba a la izquierda | Altura máxima: 666px |
+| 1.0 | ![No][false] | ![No][false] | Normal | Arriba a la izquierda | Altura máxima: 694 píxeles |
+| 2.0 o posteriores | ![No][false] | ![No][false] | Normal | Arriba a la izquierda | Altura máxima: 666 píxeles |
 
 Notas:
 
@@ -1842,7 +1842,7 @@ Notas:
 
 Notas:
 
-- posición x a 32px del lado derecho
+- posición x a 32 píxeles del lado derecho
 
 ---
 
@@ -1855,8 +1855,8 @@ Notas:
 Notas:
 
 - La posición varía:
-  - a 672px de altura.
-  - a 576px de altura, si no se puede reintentar.
+  - a 672 píxeles de altura.
+  - a 576 píxeles de altura, si no se puede reintentar.
 
 ---
 
@@ -1868,7 +1868,7 @@ Notas:
 
 Notas:
 
-- Posicionado a 576px de altura.
+- Posicionado a 576 píxeles de altura.
 - Si tiene un aspecto, este elemento sustituirá a `pause-retry.png`.
 
 ---
@@ -2195,7 +2195,7 @@ Notas:
 Notas:
 
 - Las versiones de skin 2.2 o posteriores pueden soportar miniaturas (deben estar habilitadas en las [opciones](/wiki/Client/Options)) para el selector de canciones.
-  - Las miniaturas se posicionan a 9px del borde izquierdo de la imagen
+  - Las miniaturas se posicionan a 9 píxeles del borde izquierdo de la imagen
   - El tamaño de las miniaturas es de 115x85
 - Este elemento se usa en varios lugares:
   - en las tablas de las puntuaciones en el selector de canciones
@@ -2231,7 +2231,7 @@ Notas:
 
 Notas:
 
-- En la versión 1.0, el posicionamiento está a 87px de la parte inferior.
+- En la versión 1.0, el posicionamiento está a 87 píxeles de la parte inferior.
 
 ---
 
@@ -2247,7 +2247,7 @@ Notas:
 Notas:
 
 - Pasa el cursor sobre `selection-mode.png` para verlo.
-- En la versión 1.0, el posicionamiento está a 87px de la parte inferior.
+- En la versión 1.0, el posicionamiento está a 87 píxeles de la parte inferior.
 
 ---
 
@@ -2262,7 +2262,7 @@ Notas:
 
 Notas:
 
-- En la versión 1.0, el posicionamiento está a 87px de la parte inferior.
+- En la versión 1.0, el posicionamiento está a 87 píxeles de la parte inferior.
 
 ---
 
@@ -2278,7 +2278,7 @@ Notas:
 Notas:
 
 - Pasa el cursor sobre `selection-mods.png` para verlo.
-- En la versión 1.0, el posicionamiento está a 87px de la parte inferior.
+- En la versión 1.0, el posicionamiento está a 87 píxeles de la parte inferior.
 
 ---
 
@@ -2293,7 +2293,7 @@ Notas:
 
 Notas:
 
-- En la versión 1.0, el posicionamiento está a 87px de la parte inferior.
+- En la versión 1.0, el posicionamiento está a 87 píxeles de la parte inferior.
 
 ---
 
@@ -2309,7 +2309,7 @@ Notas:
 Notas:
 
 - Pasa el cursor sobre `selection-random.png` para verlo.
-- En la versión 1.0, el posicionamiento está a 87px de la parte inferior.
+- En la versión 1.0, el posicionamiento está a 87 píxeles de la parte inferior.
 
 ---
 
@@ -2324,7 +2324,7 @@ Notas:
 
 Notas:
 
-- En la versión 1.0, el posicionamiento está a 87px de la parte inferior.
+- En la versión 1.0, el posicionamiento está a 87 píxeles de la parte inferior.
 
 ---
 
@@ -2340,7 +2340,7 @@ Notas:
 Notas:
 
 - Pasa el cursor sobre `selection-options.png` para verlo.
-- En la versión 1.0, el posicionamiento está a 87px de la parte inferior.
+- En la versión 1.0, el posicionamiento está a 87 píxeles de la parte inferior.
 
 ---
 
