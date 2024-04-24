@@ -40,10 +40,10 @@ Hard Rock Showdown is run by various community members.
 | :-- | :-- |
 | Manager | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) |
 | Mappool selector | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=GB }:: [lystia](https://osu.ppy.sh/users/11042418) |
-| Mappool playtester | ::{ flag=CA }:: [alden](https://osu.ppy.sh/users/3545323), ::{ flag=US }:: [Belladonna](https://osu.ppy.sh/users/11758404), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=CA }:: [nanawo](https://osu.ppy.sh/users/5426640), ::{ flag=CA }:: [rayuii](https://osu.ppy.sh/users/6304246), ::{ flag=US }:: [tekkito](https://osu.ppy.sh/users/7075211), ::{ flag=CA }:: [Yip](https://osu.ppy.sh/users/5177569) |
-| Mapper | *TBD* |
-| Commentator | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189), ::{ flag=AU }:: [Vordi](https://osu.ppy.sh/users/6659116) |
-| Streamer | ::{ flag=KR }:: [Fuvell](https://osu.ppy.sh/users/10220343), ::{flag=AR}:: [Keyz](https://osu.ppy.sh/users/10408325), ::{ flag=US }:: [ROB\_](https://osu.ppy.sh/users/12455868) |
+| Mappool playtester | ::{ flag=US }:: [Belladonna](https://osu.ppy.sh/users/11758404), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=CA }:: [rayuii](https://osu.ppy.sh/users/6304246), ::{ flag=CA }:: [Yip](https://osu.ppy.sh/users/5177569) |
+| Mapper | ::{ flag=US } [captin1](https://osu.ppy.sh/users/689997), ::{ flag=TW } [knowledgeking](https://osu.ppy.sh/users/8022517), ::{ flag=AR } [Megafan](https://osu.ppy.sh/users/6632605) |
+| Commentator | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) |
+| Streamer | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) |
 | Referee | ::{ flag=US }:: [AccNome](https://osu.ppy.sh/users/10976433), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=DE }:: [Beuto](https://osu.ppy.sh/users/15115857), ::{ flag=RO }:: [BeZonaurul](https://osu.ppy.sh/users/11068604), ::{ flag=FR }:: [Emezys](https://osu.ppy.sh/users/5054244), ::{ flag=PE }:: [ERA Xuste](https://osu.ppy.sh/users/17989444), ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731), ::{ flag=GB }:: [pericrayola](https://osu.ppy.sh/users/31184671), ::{ flag=US }:: [ROB\_](https://osu.ppy.sh/users/12455868), ::{ flag=FR }:: [Sohlayce](https://osu.ppy.sh/users/17649736), ::{ flag=DE }:: [Spunout](https://osu.ppy.sh/users/9620860), ::{ flag=IN }:: [TsukiUwU](https://osu.ppy.sh/users/14926905), ::{ flag=US }:: [vleth](https://osu.ppy.sh/users/18556796), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
 | Technical | ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
 | Designer | ::{ flag=CA }:: [kaetwo](https://osu.ppy.sh/users/1997719) |
@@ -94,6 +94,62 @@ Hard Rock Showdown is run by various community members.
 | ::{ flag=LV}:: | **32** | **[hihihaha142](https://osu.ppy.sh/users/21653406)** |
 
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here (188 MB)](https://drive.google.com/file/d/1u_p0Q_qonf4hxbsmYVguFiiWb-W5r7mO/view?usp=sharing)**
+
+- Hard Rock
+  1. [SymaG - Fuckin' Friday \[REAL\]](https://osu.ppy.sh/beatmapsets/2088552#osu/4376786)
+  2. [Ludicin - Bismuth \[Celestial Journey\]](https://osu.ppy.sh/beatmapsets/2111658#osu/4432931)
+  3. [yuikonnu - Kakushigoto [Distressed, Lonely and Deciduous]](https://osu.ppy.sh/beatmapsets/2169997#osu/4579475)
+  4. [kors k vs. Camellia - The Rolling \[song is nice though\]](https://osu.ppy.sh/beatmapsets/688576#osu/1457148)
+  5. [BlackY vs. cosMo@BousouP - Improvisation Colosseum \[Nattu vs. Ciyus Miapah : The First Duty on Battlefield\]](https://osu.ppy.sh/beatmapsets/1045242#osu/2185106)
+  6. [WALKURE - Ikenai Borderline \(Speed Up Ver.\) \[Your voice may even reach the heavens one day\]](https://osu.ppy.sh/beatmapsets/525461#osu/1230854)
+  7. [Tsukidono - Neon Street Front \[Adrenaline Rush\]](https://osu.ppy.sh/beatmapsets/1812854#osu/3718868)
+  8. [Five Hammer - fffff \[Forte fortissississimo\]](https://osu.ppy.sh/beatmapsets/1290926#osu/2679663)
+  9. [Wagakki Band - Tengaku \[Uncompressed Fury of a Raging Japanese God\]](https://osu.ppy.sh/beatmapsets/336414#osu/816327)
+  10. [F A K E S - Last Words \[Kaleidoscope\]](https://osu.ppy.sh/beatmapsets/1497474#osu/3069381)
+  11. [Camellia - R U Still xxxx? \[Extra\]](https://osu.ppy.sh/beatmapsets/384402#osu/839947)
+  12. [Various Artists - We are DREAMERS!! \[HASHIRE!!\]](https://osu.ppy.sh/beatmapsets/1984834#osu/4122431)
+  13. [Masafumi Takada - Ms. Monomi's Practice Lesson \[Aery Light\]](https://osu.ppy.sh/beatmapsets/927033#osu/1936867)
+  14. [Frums - XNOR XNOR XNOR \[Fire\]](https://osu.ppy.sh/beatmapsets/1236927#osu/2573162)
+  15. [Kanpyohgo - Unmei no Dark Side -Rolling Gothic mix \[FreeSongs' Rolling Hell\]](https://osu.ppy.sh/beatmapsets/514980#osu/1093703)
+  16. [seatrus - O \[4th Dimension\]](https://osu.ppy.sh/beatmapsets/2169867#osu/4579201)
+  17. [P-MODEL - LAB=01 \[Stealthman\]](https://osu.ppy.sh/beatmapsets/1550895#osu/3169255)
+  18. [Seiryu - AO-Infinity \[Infinity\]](https://osu.ppy.sh/beatmapsets/595127#osu/1258579)
+  19. [Taku Inoue - Yoake made Ato 3 Byou \[Dawn\]](https://osu.ppy.sh/beatmapsets/768893#osu/1616928)
+  20. [EGOIST - Eiyuu Unmei no Uta \(TV Edit\) \[Irre's Extra\]](https://osu.ppy.sh/beatmapsets/637050#osu/1426307)
+  - Tiebreaker
+  1. **[AAAA - Hoshi o Kakeru Adventure ~ we are forever friends! ~ \[Long ver.\] \[Memory\]](https://osu.ppy.sh/beatmapsets/1844826#osu/3789556)**
+
+### Finals
+
+**[Download the mappack here (163 MB)](https://drive.google.com/file/d/1qWQh_mr_zXV6hsEG4-1hg9I3QfRXuVxu/view?usp=sharing)**
+
+- Hard Rock
+  1. [AISHA, Epsilon Zero - Love the Subhuman Self \[JOUNZAN'S LUST SHAKER\]](https://osu.ppy.sh/beatmapsets/1829281#osu/3754404)
+  2. [Cranky vs. HiTECH NINJA - HiT! HiT! HiT! \[GREETINGS FROM HELL\]](https://osu.ppy.sh/beatmapsets/1176223#osu/2453247)
+  3. [lapix - SYNERGY \[REEEEEEEEEEEEEEEEEEEEEE\]](https://osu.ppy.sh/beatmapsets/637233#osu/1351972)
+  4. [LV.4 - Burning Star \[Burn Out\]](https://osu.ppy.sh/beatmapsets/2095154#osu/4393036)
+  5. [PinocchioP - Reincarnation Apple feat. Hatsune Miku \[Horsace's Favorite Apple\]](https://osu.ppy.sh/beatmapsets/1976954#osu/4103881)
+  6. [Jeff Williams feat. Casey Lee Williams & Lamar Hall - Ignite \[Eyes of Fire\]](https://osu.ppy.sh/beatmapsets/1581335#osu/3229024)
+  7. [sabi - true DJ MAG top ranker's song Zenpen (katagiri Remix) \[KEMOMIMI EDM SQUAD\]](https://osu.ppy.sh/beatmapsets/1357624#osu/2809623)
+  8. [Camellia - werewolf howls. \["Growling" Long ver.\] \[OUTRAGE\]](https://osu.ppy.sh/beatmapsets/970653#osu/2034862)
+  9. [Whispered - Jikininki \[Japanese Ghost\]](https://osu.ppy.sh/beatmapsets/750201#osu/1579914)
+  10. [NOMA - Brain Power(Cranky Remix) \[Eurobrain\]](https://osu.ppy.sh/beatmapsets/1333176#osu/2762163)
+  11. [Tomita Miyu, Onishi Saori, Ohzora Naomi, Hanazawa Kana - Hallelujah*Essaim \[DILF\]](https://osu.ppy.sh/beatmapsets/1197074#osu/2526166)
+  12. [SMiLE.dk - Koko Soko (AKIBA KOUBOU Eurobeat Remix) \[INCREDIBILIS\]](https://osu.ppy.sh/beatmapsets/1143822#osu/2388297)
+  13. [Camellia - Ryuuseigun \[Perseids\]](https://osu.ppy.sh/beatmapsets/1188437#osu/3087146)
+  14. [Imy - Drowning in you \[hr tourney\]](https://osu.ppy.sh/beatmapsets/2166585#osu/4570971)
+  15. [IOSYS - Kanbu de Tomatte Sugu Tokeru ~ Kyouki no Udongein \[Ayyri & Zelq's Expert\]](https://osu.ppy.sh/beatmapsets/1442363#osu/3086275)
+  16. [S2TB Recording - Super Luminal \[SHD\]](https://osu.ppy.sh/beatmapsets/1620087#osu/3307758)
+  17. [setup - Ypsilon \[\[//\]\]](https://osu.ppy.sh/beatmapsets/1751322#osu/3582892)
+  18. [Igorrr - Houmous \[squirrelp's Expert\]](https://osu.ppy.sh/beatmapsets/703568#osu/1535062)
+  19. [Gesu no Kiwami Otome. - Digital Mogura \[Idealist\]](https://osu.ppy.sh/beatmapsets/737340#osu/1556011)
+  20. [TSUNKU - Kumitate Koujou \[Ameth's Scale\]](https://osu.ppy.sh/beatmapsets/504165#osu/1077307)
+  - Tiebreaker
+  1. **[Camellia - Nacreous Snowmelt \[Hypothermia\]](https://osu.ppy.sh/beatmapsets/1449188#osu/2979785)**
 
 ### Semifinals
 
@@ -215,6 +271,56 @@ Hard Rock Showdown is run by various community members.
   5. [kanone - The Sea of Memory \[PaRaDogi's Extra\]](https://osu.ppy.sh/beatmapsets/1347768#osu/3137731)
 
 ## Match Results
+
+### Finals
+
+*Detailed statistics for this round will be added soon.*
+
+Saturday, 20 April 2024:
+
+| Player A |  |  | Player B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **[Amamya Kokoro](https://osu.ppy.sh/users/2511839)** ::{ flag=KR }:: | **7** | 1 | ::{ flag=CA }:: [Saryi](https://osu.ppy.sh/users/10051720) | [#1](https://osu.ppy.sh/community/matches/113566065) |
+| **[mcy4](https://osu.ppy.sh/users/2165650)** ::{ flag=HK }:: | **7** | 0 | ::{ flag=CN }:: [Crystal](https://osu.ppy.sh/users/1646397) | [#1](https://osu.ppy.sh/community/matches/113568035) |
+
+Sunday, 21 April 2024:
+
+| Player A |  |  | Player B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **[maliszewski](https://osu.ppy.sh/users/12408961)** ::{ flag=PL }:: | **7** | 1 | ::{ flag=CA }:: [his kitten](https://osu.ppy.sh/users/3717598) | [#1](https://osu.ppy.sh/community/matches/113584551) |
+| **[mcy4](https://osu.ppy.sh/users/2165650)** ::{ flag=HK }:: | **0** | FF | ::{ flag=KR }:: [Amamya Kokoro](https://osu.ppy.sh/users/2511839) | [#1] |
+
+### Semifinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1iBpbwZd9fV7BzTMkePV_C4910f2_8j2_KTHjcdlwKHs/edit?usp=sharing).
+
+Thursday, 11 April 2024:
+
+| Player A |  |  | Player B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **[maliszewski](https://osu.ppy.sh/users/12408961)** ::{ flag=PL }:: | **6** | 4 | ::{ flag=KR }:: [Amamya Kokoro](https://osu.ppy.sh/users/2511839) | [#1](https://osu.ppy.sh/community/matches/113449204) |
+
+Saturday, 13 April 2024:
+
+| Player A |  |  | Player B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **[Saryi](https://osu.ppy.sh/users/10051720)** ::{ flag=CA }:: | **6** | 5 | ::{ flag=NO }:: [antonyw](https://osu.ppy.sh/users/12959983) | [#1](https://osu.ppy.sh/community/matches/113478928) |
+| **[Welter](https://osu.ppy.sh/users/11552867)** ::{ flag=RU }:: | **6** | 0 | ::{ flag=RO }:: [Lucrise](https://osu.ppy.sh/users/9719351) | [#1](https://osu.ppy.sh/community/matches/113476251) |
+| **[Crystal](https://osu.ppy.sh/users/1646397)** ::{ flag=CN }:: | **6** | 5 | ::{ flag=RU }:: [desuqe](https://osu.ppy.sh/users/9712285) | [#1](https://osu.ppy.sh/community/matches/113474585) |
+
+Sunday, 14 April 2024:
+
+| Player A |  |  | Player B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| [Welter](https://osu.ppy.sh/users/11552867) ::{ flag=RU }:: | 3 | **6** | ::{ flag=CN }:: **[**Crystal](https://osu.ppy.sh/users/1646397)** | [#1](https://osu.ppy.sh/community/matches/113490253) |
+| [mcy4](https://osu.ppy.sh/users/2165650) ::{ flag=HK }:: | 4 | **6** | ::{ flag=CA }:: **[his kitten](https://osu.ppy.sh/users/3717598)** | [#1](https://osu.ppy.sh/community/matches/113492752) |
+
+Friday, 19 April 2024:
+
+| Player A |  |  | Player B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| [Zylice](https://osu.ppy.sh/users/5033077) ::{ flag=CA }:: | 4 | **6** | ::{ flag=US }:: **[fieryrage](https://osu.ppy.sh/users/3533958)** | [#1](https://osu.ppy.sh/community/matches/113555226) |
+| **[Saryi](https://osu.ppy.sh/users/10051720)** ::{ flag=CA }:: | **6** | 4 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) | [#1](https://osu.ppy.sh/community/matches/113556882) |
 
 ### Quarterfinals
 
