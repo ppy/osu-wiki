@@ -1,4 +1,4 @@
-# skin.ini en blanco
+# Archivo skin.ini en blanco
 
 Aquí están los espacios en blanco para el archivo `skin.ini`.
 
