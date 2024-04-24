@@ -26,7 +26,7 @@ This is it. The top 4 teams have been locked in, but it is still uncertain who w
 
 This isn't a "baby's first osu!taiko map" mappool, and the difficulty spike compared to last week is really apparent. A new NM7 slot has been added coming into the mix, adding another techy, polyrhythm map into the pool. The maps were cut-throat, and any mistake was costly for any team.
 
-Let's briefly look at the [osu! originals](https://osu.ppy.sh/wiki/en/osu!_originals) that were cooked up for the community, then jump straight into the match highlight for last week's round.
+Let's briefly look at the [osu! originals](/wiki/osu!_originals) that were cooked up for the community, then jump straight into the match highlight for last week's round.
 
 [![](/wiki/shared/news/2024-04-24-osutaiko-world-cup-2024-finals-recap/Supire.jpg)](https://osu.ppy.sh/beatmapsets/2166486#taiko/4570766)
 
