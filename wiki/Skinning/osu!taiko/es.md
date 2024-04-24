@@ -36,7 +36,7 @@ Notas:
 - Nombre de la animación: `pippidonfail{n}.png`.
 - La velocidad de la animación depende del BPM.
 - Esta animación se reproduce cuando el jugador falla una nota o no tiene suficiente salud durante un descanso.
-- Esto sustituye a `pippidonkiai` si el jugador falla una nota durante el [kiai time](/wiki/Gameplay/Kiai_time).
+- Esto sustituirá a `pippidonkiai` si el jugador falla una nota durante el [kiai time](/wiki/Gameplay/Kiai_time).
 
 ---
 
@@ -69,7 +69,7 @@ Notas:
 - Nombre de la animación: `pippidonkiai{n}.png`.
 - La velocidad de la animación depende del BPM.
 - Esta animación se reproduce durante el [kiai time](/wiki/Gameplay/Kiai_time).
-- `pippidonfail.png` lo sustituye si el jugador falla una nota durante el kiai time.
+- `pippidonfail.png` lo sustituirá si el jugador falla una nota durante el kiai time.
 
 ## Hit Bursts
 
@@ -170,7 +170,7 @@ Notas:
 
 | Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | Multiplicative | Centro | 118x118 |
+| Todas | ![No][false] | ![Sí][true] | Multiplicativo | Centro | 118x118 |
 
 Notas:
 
@@ -208,7 +208,7 @@ Notas:
 
 | Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | Multiplicative | Centro | 118x118 |
+| Todas | ![No][false] | ![Sí][true] | Multiplicativo | Centro | 118x118 |
 
 Notas:
 
@@ -359,14 +359,14 @@ Notas:
 | Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | v1 - v2.0 | ![No][false] | ![No][false] (véase las notas) | Normal | Arriba a la izquierda | Anchura máxima: 56px |
-| v2.1+ | ![No][false] | ![No][false] (véase las notas) | Normal | Arriba a la izquierda | 90x200 |
+| v2.1 o posteriores | ![No][false] | ![No][false] (véase las notas) | Normal | Arriba a la izquierda | 90x200 |
 
 Notas:
 
 - Se sospecha que el estado skinnable para los beatmaps es un error.
 - La posición varía según la versión de la skin:
-  - v1-v2.0: (29,266) (y (86,266) cuando se refleja)
-  - v2.1+: (0,216) (y (90,216) cuando se refleja)
+  - Versión 1.0 - versión 2.0: (29,266) (y (86,266) cuando se refleja)
+  - Versión 2.1 o versiones posteriores: (0,216) (y (90,216) cuando se refleja)
 
 ---
 
@@ -377,14 +377,14 @@ Notas:
 | Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | v1 - v2.0 | ![No][false] | ![No][false] (véase las notas) | Normal | Arriba a la izquierda | Anchura máxima: 72px |
-| v2.1+ | ![No][false] | ![No][false] (véase las notas) | Normal | Arriba a la izquierda | 90x200 |
+| v2.1 o posteriores | ![No][false] | ![No][false] (véase las notas) | Normal | Arriba a la izquierda | 90x200 |
 
 Notas:
 
 - Se sospecha que el estado skinnable para los beatmaps es un error.
 - La posición varía según la versión de la skin:
-  - v1-v2.0: (85,253) ((13,253) cuando se refleja)
-  - v2.1+: (90,216) (y (0,216) cuando se refleja)
+  - Versión 1.0 - versión 2.0: (85,253) ((13,253) cuando se refleja)
+  - Versión 2.1 o versiones posteriores: (90,216) (y (0,216) cuando se refleja)
 
 ---
 
@@ -395,7 +395,7 @@ Notas:
 | Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | v1.0 - v2.0 | ![No][false] | ![No][false] (véase las notas) | Normal | Arriba a la izquierda | 843x200 |
-| v2.1+ | ![No][false] | ![No][false] (véase las notas) | Normal | Arriba a la izquierda | 1024x200 |
+| v2.1 o posteriores | ![No][false] | ![No][false] (véase las notas) | Normal | Arriba a la izquierda | 1024x200 |
 
 Notas:
 
@@ -403,8 +403,8 @@ Notas:
 - Este elemento se estirará para ajustarse al ancho de la pantalla.
 - Este elemento es el estado normal de la barra de desplazamiento.
 - La posición varía según la versión de la skin:
-  - v1.0-v2.0: (181,216)
-  - v2.1+: (0,216)
+  - Versión 1.0 - versión 2.0: (181,216)
+  - Versión 2.1 o versiones posteriores: (0,216)
 
 ---
 
@@ -415,7 +415,7 @@ Notas:
 | Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | v1.0 - v2.0 | ![No][false] | ![No][false] (véase las notas) | Normal | Arriba a la izquierda | 843x200 |
-| v2.1+ | ![No][false] | ![No][false] (véase las notas) | Normal | Arriba a la izquierda | 1024x200 |
+| v2.1 o posteriores | ![No][false] | ![No][false] (véase las notas) | Normal | Arriba a la izquierda | 1024x200 |
 
 Notas:
 
@@ -424,8 +424,8 @@ Notas:
 - Este elemento es el estado del kiai de la barra de desplazamiento.
 - Este elemento se superpone a `taiko-bar-right`.
 - La posición varía según la versión de la skin:
-  - v1.0-v2.0: (181,216)
-  - v2.1+: (0,216)
+  - Versión 1.0 - versión 2.0: (181,216)
+  - Versión 2.1 o versiones posteriores: (0,216)
 
 ## Redobles de tambores
 
@@ -439,7 +439,7 @@ Notas:
 
 Notas:
 
-- El ancho de la imagen SD debe tener exactamente 1 px de ancho.
+- El ancho de la imagen SD debe tener exactamente 1 píxel de ancho.
 - Este elemento es la línea del redoble donde se colocan los `sliderscorepoint.png`.
 - El tinte pasa de amarillo a rojo.
 
