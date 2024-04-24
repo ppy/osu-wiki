@@ -30,7 +30,7 @@ Hay que denotar que el juicio de un beatmap se determina automáticamente.
 
 Cuando se convierte un beatmap con un modo no específico, el rango por defecto de teclas debería de ser entre 4 y 7.
 
-Con el modificador de juego [xK](/wiki/Gameplay/Game_modifier/xK), el jugador puede cambiar manualmente desde 1 a un total de 9 teclas. Sin embargo, el modificador no funcionará con beatmaps específicos de osu!mania.
+Con el modificador del juego [xK](/wiki/Gameplay/Game_modifier/xK), el jugador puede cambiar manualmente desde 1 a un total de 9 teclas. Sin embargo, el modificador no funcionará con beatmaps específicos de osu!mania.
 
 Con el modoficador de juego [Co-Op](/wiki/Gameplay/Game_modifier/Co-op), la etapa será dividida en dos, usa el esquema de control Co-Op y permitirá que los jugadores jueguen desde 2 a un total de 18 teclas con una reducción en el multiplicador de puntaje. Hay que destacar que el número de teclas de un beatmap específico de osu!mania no será duplicado, sino que serán divididas en dos (el jugador de la izquierda de la pantalla tendrá prioridad si el número de teclas es impar), usará el esquema Co-Op y no será aplicada una reducción en el multiplicador de puntaje.
 

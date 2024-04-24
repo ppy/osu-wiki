@@ -32,7 +32,7 @@ Para atrapar estas frutas, asegúrate de que caigan sobre el plato y no fuera de
 
 #### Rastros de frutas
 
-![Rastros de frutas](/wiki/shared/Catch_trails.jpg "Rastros de frutas de osu!catch")
+![Rastros de frutas](/wiki/shared/Catch_trails.jpg "Rastro de frutas en osu!catch")
 
 Un rastro típico de frutas consta de dos frutas (inicio y fin), gotas (trayectoria del slider), gotitas (marcas del slider) y más frutas para cada punto de flecha inversa, junto con una trayectoria de slider invertida. Cada gotita otorga 10 puntos y se considera como 50 puntos en la pantalla de resultados. Cada gota otorga 30 puntos, incrementa el combo en 1 y se refleja como 100 puntos en la pantalla de resultados.
 

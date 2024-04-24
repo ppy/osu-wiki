@@ -17,7 +17,7 @@ La política de osu! consiste en:
 1. bloquear rápidamente el acceso o eliminar contenidos que considere de buena fe que pueden contener material que infrinja los derechos de autor de terceros; y
 2. eliminar y suspender el servicio a los infractores reincidentes.
 
-## Reportar infracciones de derechos de autor
+## Denunciar infracciones de derechos de autor
 
 Si crees que el contenido que reside o es accesible a través del sitio web o el servicio de osu! infringe tus derechos de autor, envía una notificación de presunta infracción de derechos de autor que contenga la siguiente información al Agente Designado que se indica a continuación (consulta a un asesor jurídico o consulta 17 U.S.C. 512(c) para confirmar estos requisitos):
 

@@ -18,11 +18,11 @@ Every BN is reviewed regularly by members of the NAT.
 
 For Nominators on [probation](/wiki/People/Beatmap_Nominators#probationary-beatmap-nominators), or that have been issued an [activity](/wiki/People/Beatmap_Nominators/Rules#activity) warning, their next evaluation will be scheduled for roughly 1 month after being placed on probation or receiving their warning.
 
-For full Beatmap Nominators without recent warnings, their evaluations will be scheduled to occur every 3 months. If a Beatmap Nominator has passed 2 evaluations in a row without any issues, their evaluations get scheduled every 6 months instead. Any warning will reset the evaluation period back to every 3 months.
+For full Beatmap Nominators without recent warnings, their evaluations will be scheduled to occur every 3 months.
 
 The duration between evaluations is automatically scheduled by the [BN website](https://bn.mappersguild.com/). However, if there is a substantial cause for concern about a BN's performance at a sooner date, NAT members can also manually schedule an evaluation to happen sooner than normal.
 
-Just like applications, current BN evaluations are randomly assigned to 2–3 evaluators and will be announced in the respective mode's NAT Discord channels.
+Just like applications, current BN evaluations are randomly assigned to 3 evaluators and will be announced in the respective mode's NAT Discord channels.
 
 ### Individual phase
 
@@ -42,7 +42,7 @@ Warnings and being placed on probation due to subpar performance as a full Beatm
 
 Each Beatmap Nominator's activity is checked automatically by the BN website on the 1st of every month. If it has found that there are nominators not meeting the activity requirements, they will be flagged and posted in their respective mode's NAT channel for NAT members to review by the "bnsite" Discord bot. Review will include whether the BN has posted an absence notice recently, and a double check to ensure the website check is accurate to the BN's activity status.
 
-If it is found the BN is indeed not meeting activity, they will be either warned or removed depending on severity. Beatmap Nominators who were removed for activity in this way may apply again in 30 days, provided they have at least 8 mods to show they have come back to being active as a modder again.
+If it is found the BN is indeed not meeting activity, they will be either warned or removed depending on severity. Beatmap Nominators who were removed for activity in this way may apply again without any cooldowns, provided they apply with 3 mods instead of 2 to show they have come back to being active as a modder again.
 
 ### Resignations
 

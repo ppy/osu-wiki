@@ -25,7 +25,7 @@ El **multiplicador de dificultad** es igual a una versión más antigua del "sta
 
 `Multiplicador de dificultad = Round((Drenado de HP + Tamaño del círculo + Precisión + Clamp(Cantidad de "hit objects" / Duración del drenaje en segundos * 8, 0, 16)) / 38 * 5)`
 
-Cabe notar que los modificadores de juego (tales como Hard Rock o Easy; los cuales, por ejemplo, cambian el tamaño del círculo) no afectan el multiplicador de dificultad, ya que los valores originales de las variables son siempre usados en la fórmula sin importar qué modificaciones están habilitadas.
+Cabe notar que los modificadores del juego (tales como Hard Rock o Easy; los cuales, por ejemplo, cambian el tamaño del círculo) no afectan el multiplicador de dificultad, ya que los valores originales de las variables son siempre usados en la fórmula sin importar qué modificaciones están habilitadas.
 
 ## Sliders
 

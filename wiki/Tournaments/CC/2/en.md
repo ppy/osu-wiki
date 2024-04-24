@@ -202,7 +202,7 @@ This competition has come to an end and resulted in the following podium:
 
 Tuesday, 13 September 2016:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Karthy ::{ flag=GB }:: | 3 | **5** | ::{ flag=GB }:: **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/27739314) |
 
@@ -210,7 +210,7 @@ Tuesday, 13 September 2016:
 
 Tuesday, 13 September 2016:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | zelda101 ::{ flag=US }:: | 0 | **4** | ::{ flag=RO }:: **Rohulk** | [#1](https://osu.ppy.sh/community/matches/27738186) |
 
@@ -218,7 +218,7 @@ Tuesday, 13 September 2016:
 
 Sunday, 11 September 2016:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Karthy** ::{ flag=GB }:: | **4** | 0 | ::{ flag=US }:: zelda101 | [#1](https://osu.ppy.sh/community/matches/27704344) |
 | Rohulk ::{ flag=RO }:: | 1 | **4** | ::{ flag=GB }:: **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/27705393) |
@@ -227,7 +227,7 @@ Sunday, 11 September 2016:
 
 Sunday, 11 September 2016:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | dong ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **Karthy** | [#1](https://osu.ppy.sh/community/matches/27698420) |
 | Kardet ::{ flag=GB }:: | 3 | **4** | ::{ flag=US }:: **zelda101** | [#1](https://osu.ppy.sh/community/matches/27699952) |
@@ -238,7 +238,7 @@ Sunday, 11 September 2016:
 
 Saturday, 10 September 2016:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Rafalbrew ::{ flag=GB }:: | 2 | **4** | ::{ flag=GB }:: **Summer Solstice** | [#1](https://osu.ppy.sh/community/matches/27668852) |
 | **Pelzio** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: Ephemeral Fetish | [#1](https://osu.ppy.sh/community/matches/27671072) |
@@ -253,7 +253,7 @@ Saturday, 10 September 2016:
 
 Saturday, 3 September 2016:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | MagicMantwon ::{ flag=GB }:: | 2 | **4** | ::{ flag=GB }:: **Hydria** | [#1](https://osu.ppy.sh/community/matches/27520102) |
 | **Blegie** ::{ flag=DE }:: | **4** | 0 | ::{ flag=SE }:: Speedstar | [#1](https://osu.ppy.sh/community/matches/27542951) |
@@ -265,7 +265,7 @@ Saturday, 3 September 2016:
 
 Sunday, 4 September 2016:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | -MoeYandere- ::{ flag=GB }:: | 2 | **4** | ::{ flag=GB }:: **Pelzio** | [#1](https://osu.ppy.sh/community/matches/27543909) |
 | **Kardet** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: Smiffi | [#1](https://osu.ppy.sh/community/matches/27548482) |
@@ -278,7 +278,7 @@ Sunday, 4 September 2016:
 
 Monday, 5 September 2016:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Summer Solstice** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: georgewday | [#1](https://osu.ppy.sh/community/matches/27590135) |
 

@@ -38,7 +38,7 @@ Les packs de beatmaps sont divisés en 7 catégories avec un indicateur pour les
 
 1. Extrayez l'archive du pack de beatmap téléchargée. Elle devrait contenir un grand nombre de [fichiers `.osz`](/wiki/Client/File_formats/osz_(file_format)).
 2. Déplacez ces fichiers `.osz` dans le dossier `Songs` du répertoire d'installation d'osu! ou sélectionnez les fichiers et glissez-les directement dans la fenêtre du jeu.
-3. Le jeu devrait automatiquement importer les beatmaps et supprimer les fichiers `.osz` originaux. En cas de problème, essayez d'appuyer sur `F5` dans l'[écran de sélection des chansons](/wiki/Client/Interface#song-select) pour retraiter les beatmaps.
+3. Le jeu devrait automatiquement importer les beatmaps et supprimer les fichiers `.osz` originaux. En cas de problème, essayez d'appuyer sur `F5` dans l'[écran de sélection des chansons](/wiki/Client/Interface#sélection-de-la-musique) pour retraiter les beatmaps.
 
 ## Téléchargements alternatifs
 

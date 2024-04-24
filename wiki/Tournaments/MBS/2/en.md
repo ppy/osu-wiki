@@ -1060,7 +1060,7 @@ Sunday, 17 May 2020:
 Friday, 22 May 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :--- |
+| --: | :-: | :-: | :-- | :-- |
 | **ump\_me\_daddy** ::{ flag=SE }:: | **0** | -1 | ::{ flag=NL }:: PatyYe | *win by default* |
 | PatyYe ::{ flag=NL }:: | -1 | **0** | ::{ flag=TH }:: **mickeyparm** | *win by default* |
 

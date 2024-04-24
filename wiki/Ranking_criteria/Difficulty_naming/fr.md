@@ -1,17 +1,16 @@
 ---
-outdated_since: d2826e9551f51c507052b76f56b366d1db1d03be
-outdated_translation: true
+no_native_review: true
 ---
 
 # Noms des difficultés
 
-Le but de la dénomination des difficultés est d'informer les joueurs de la difficulté d'une beatmap. Cet article énumère les conventions courantes ainsi que d'autres alternatives qui ont été recueillies au fil des ans. Cependant, tant que l'ensemble des noms de difficulté est descriptif et indique clairement la progression de la difficulté, vous pouvez utiliser tout type de schéma souhaité.
+Le but de la désignation des difficultés est d'informer les joueurs de la difficulté d'une map. Cet article énumère les conventions courantes ainsi que d'autres alternatives qui ont été recueillies au fil des ans. Cependant, tant que l'ensemble des noms de difficulté est descriptif et indique clairement la progression des difficultés, vous pouvez utiliser n'importe quel type de schéma.
 
 ## Défaut
 
-Ces noms de difficulté sont les plus couramment utilisés pour chaque mode de jeu.
+Ces noms de difficultés sont les plus couramment utilisés pour chaque mode de jeu.
 
-*Remarque : Le nom de difficulté spécial **Marathon** a historiquement permis aux mappeurs de soumettre des beatmaps de musiques plus longues, et est donc devenu populaire pour les beatmaps à difficulté unique. Aujourd'hui, ce nom n'a pas de signification particulière et n'est généralement utilisé que pour les musiques très longues ou les compilations de musiques.*
+*Note : Le nom de difficulté spéciale **Marathon** permettait historiquement aux mappeurs de soumettre des maps de musiques plus longues, et est donc devenu populaire pour les mapsets à difficulté unique. Aujourd'hui, ce nom n'a pas de signification particulière et n'est généralement utilisé que pour les chansons très longues ou les compilations de chansons.*
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
@@ -45,84 +44,95 @@ Ces noms de difficulté sont les plus couramment utilisés pour chaque mode de j
 - ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-m.png?20211215) Expert
 
-## Noms des difficultés d'autres jeux
+### Des alternatives largement acceptées
 
-Les beatmaps de musiques provenant d'autres jeux de rythme empruntent souvent le système de dénomination des difficultés de ces jeux. L'utilisation de ces noms de difficulté est acceptable pour n'importe quelle musique. Vous trouverez ici une liste des noms de difficulté les plus courants qui ont été utilisés dans osu! :
+- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner : Inférieur à Easy
+- ![](/wiki/shared/diff/easy-t.png?20211215) Shokyuu : Inférieur à Kantan
+- ![](/wiki/shared/diff/normal-o.png?20211215) Advanced : Entre un Normal et un Hard
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper : Entre un Hard et un Insane
+- ![](/wiki/shared/diff/expert-o.png?20211215) Extra : Alternative à Expert
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme: Supérieure à Expert
+- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni : Supérieure à Oni/Ura Oni
+- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge : Supérieure à Overdose
+
+## Noms des difficultés provenant d'autres jeux
+
+Les mapsets des musiques issues d'autres jeux de rythme empruntent souvent le système de dénomination des difficultés de ces jeux. L'utilisation de ces noms de difficultés est acceptable pour n'importe quelle musique. Certains des schémas de noms courants qui ont fait leur chemin dans osu! sont listés ici :
 
 ### Beatmania IIDX
 
-- ![](/wiki/shared/diff/easy-o.png) Beginner
-- ![](/wiki/shared/diff/normal-o.png) Normal
-- ![](/wiki/shared/diff/hard-o.png) Hyper
-- ![](/wiki/shared/diff/insane-o.png) Another
-- ![](/wiki/shared/diff/expert-o.png) Black Another
-- ![](/wiki/shared/diff/expertplus-o.png) Leggendaria
+- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner
+- ![](/wiki/shared/diff/normal-o.png?20211215) Normal
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper
+- ![](/wiki/shared/diff/insane-o.png?20211215) Another
+- ![](/wiki/shared/diff/expert-o.png?20211215) Black Another
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Leggendaria
 
 ### DanceDanceRevolution
 
-- ![](/wiki/shared/diff/easy-o.png) Beginner
-- ![](/wiki/shared/diff/normal-o.png) Basic
-- ![](/wiki/shared/diff/hard-o.png) Difficult
-- ![](/wiki/shared/diff/insane-o.png) Expert
-- ![](/wiki/shared/diff/expert-o.png) Challenge
+- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner
+- ![](/wiki/shared/diff/normal-o.png?20211215) Basic
+- ![](/wiki/shared/diff/hard-o.png?20211215) Difficult
+- ![](/wiki/shared/diff/insane-o.png?20211215) Expert
+- ![](/wiki/shared/diff/expert-o.png?20211215) Challenge
 
 ### DJMAX
 
-- ![](/wiki/shared/diff/easy-o.png) EZ
-- ![](/wiki/shared/diff/normal-o.png) NM
-- ![](/wiki/shared/diff/hard-o.png) HD
-- ![](/wiki/shared/diff/insane-o.png) MX
-- ![](/wiki/shared/diff/expert-o.png) SC
+- ![](/wiki/shared/diff/easy-o.png?20211215) EZ
+- ![](/wiki/shared/diff/normal-o.png?20211215) NM
+- ![](/wiki/shared/diff/hard-o.png?20211215) HD
+- ![](/wiki/shared/diff/insane-o.png?20211215) MX
+- ![](/wiki/shared/diff/expert-o.png?20211215) SC
 
 ### EZ2DJ, EZ2AC
 
-- ![](/wiki/shared/diff/easy-o.png) EZ
-- ![](/wiki/shared/diff/normal-o.png) NM
-- ![](/wiki/shared/diff/hard-o.png) HD
-- ![](/wiki/shared/diff/insane-o.png) SHD
-- ![](/wiki/shared/diff/expert-o.png) EX
+- ![](/wiki/shared/diff/easy-o.png?20211215) EZ
+- ![](/wiki/shared/diff/normal-o.png?20211215) NM
+- ![](/wiki/shared/diff/hard-o.png?20211215) HD
+- ![](/wiki/shared/diff/insane-o.png?20211215) SHD
+- ![](/wiki/shared/diff/expert-o.png?20211215) EX
 
 ### In The Groove
 
-- ![](/wiki/shared/diff/easy-o.png) Novice
-- ![](/wiki/shared/diff/easy-o.png) Easy
-- ![](/wiki/shared/diff/normal-o.png) Medium
-- ![](/wiki/shared/diff/hard-o.png) Hard
-- ![](/wiki/shared/diff/insane-o.png) Expert
+- ![](/wiki/shared/diff/easy-o.png?20211215) Novice
+- ![](/wiki/shared/diff/easy-o.png?20211215) Easy
+- ![](/wiki/shared/diff/normal-o.png?20211215) Medium
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hard
+- ![](/wiki/shared/diff/insane-o.png?20211215) Expert
 
 ### Pop'n Music
 
-- ![](/wiki/shared/diff/easy-o.png) Easy
-- ![](/wiki/shared/diff/normal-o.png) Normal
-- ![](/wiki/shared/diff/hard-o.png) Hyper
-- ![](/wiki/shared/diff/insane-o.png) EX
+- ![](/wiki/shared/diff/easy-o.png?20211215) Easy
+- ![](/wiki/shared/diff/normal-o.png?20211215) Normal
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper
+- ![](/wiki/shared/diff/insane-o.png?20211215) EX
 
 ### SOUND VOLTEX
 
-*Remarque : les grands beatmapsets de musiques de SOUND VOLTEX utilisent souvent des noms de difficulté provenant de plusieurs versions du jeu, même si la musique n'apparaît pas dans toutes ces versions.*
+*Remarque : les grands mapsets de musiques de SOUND VOLTEX utilisent souvent des noms de difficultés provenant de plusieurs versions du jeu, même si la musique n'apparaît pas dans toutes ces versions.*
 
-- ![](/wiki/shared/diff/easy-o.png) BASIC / BSC
-- ![](/wiki/shared/diff/normal-o.png) NOVICE / NOV
-- ![](/wiki/shared/diff/hard-o.png) ADVANCED / ADV
-- ![](/wiki/shared/diff/insane-o.png) EXHAUST / EXH
+- ![](/wiki/shared/diff/easy-o.png?20211215) BASIC / BSC
+- ![](/wiki/shared/diff/normal-o.png?20211215) NOVICE / NOV
+- ![](/wiki/shared/diff/hard-o.png?20211215) ADVANCED / ADV
+- ![](/wiki/shared/diff/insane-o.png?20211215) EXHAUST / EXH
 
 #### SOUND VOLTEX II -infinite infection-
 
-- ![](/wiki/shared/diff/expert-o.png) INFINITE / INF
+- ![](/wiki/shared/diff/expert-o.png?20211215) INFINITE / INF
 
 #### SOUND VOLTEX III GRAVITY WARS
 
-- ![](/wiki/shared/diff/expert-o.png) GRAVITY / GRV
+- ![](/wiki/shared/diff/expert-o.png?20211215) GRAVITY / GRV
 
 #### SOUND VOLTEX IV HEAVENLY HAVEN
 
-- ![](/wiki/shared/diff/expert-o.png) MAXIMUM / MXM
-- ![](/wiki/shared/diff/expertplus-o.png) HEAVENLY / HVN
+- ![](/wiki/shared/diff/expert-o.png?20211215) MAXIMUM / MXM
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) HEAVENLY / HVN
 
 #### SOUND VOLTEX VIVID WAVE
 
-- ![](/wiki/shared/diff/expert-o.png) MAXIMUM / MXM
-- ![](/wiki/shared/diff/expertplus-o.png) VIVID / VVD
+- ![](/wiki/shared/diff/expert-o.png?20211215) MAXIMUM / MXM
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) VIVID / VVD
 
 #### SOUND VOLTEX EXCEED GEAR
 
@@ -131,75 +141,62 @@ Les beatmaps de musiques provenant d'autres jeux de rythme empruntent souvent le
 
 ### Arcaea
 
-- ![](/wiki/shared/diff/normal-o.png) Past
-- ![](/wiki/shared/diff/hard-o.png) Present
-- ![](/wiki/shared/diff/insane-o.png) Future
-- ![](/wiki/shared/diff/expert-o.png) Beyond
+- ![](/wiki/shared/diff/normal-o.png?20211215) Past
+- ![](/wiki/shared/diff/hard-o.png?20211215) Present
+- ![](/wiki/shared/diff/insane-o.png?20211215) Future
+- ![](/wiki/shared/diff/expert-o.png?20211215) Beyond
 
 ### Lanota
 
-- ![](/wiki/shared/diff/normal-o.png) Whisper
-- ![](/wiki/shared/diff/hard-o.png) Acoustic
-- ![](/wiki/shared/diff/insane-o.png) Ultra
-- ![](/wiki/shared/diff/expert-o.png) Master
+- ![](/wiki/shared/diff/normal-o.png?20211215) Whisper
+- ![](/wiki/shared/diff/hard-o.png?20211215) Acoustic
+- ![](/wiki/shared/diff/insane-o.png?20211215) Ultra
+- ![](/wiki/shared/diff/expert-o.png?20211215) Master
 
 ### maimai, CHUNITHM, Ongeki
 
-- ![](/wiki/shared/diff/easy-o.png) EASY
-- ![](/wiki/shared/diff/normal-o.png) BASIC
-- ![](/wiki/shared/diff/hard-o.png) ADVANCED
-- ![](/wiki/shared/diff/insane-o.png) EXPERT
-- ![](/wiki/shared/diff/expert-o.png) MASTER
+- ![](/wiki/shared/diff/easy-o.png?20211215) EASY
+- ![](/wiki/shared/diff/normal-o.png?20211215) BASIC
+- ![](/wiki/shared/diff/hard-o.png?20211215) ADVANCED
+- ![](/wiki/shared/diff/insane-o.png?20211215) EXPERT
+- ![](/wiki/shared/diff/expert-o.png?20211215) MASTER
 
 #### maimai
 
-- ![](/wiki/shared/diff/expertplus-o.png) Re:MASTER
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Re:MASTER
 
 #### CHUNITHM
 
-- ![](/wiki/shared/diff/expertplus-o.png) ULTIMA / WORLD'S END
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) ULTIMA / WORLD'S END
 
 #### Ongeki
 
-- ![](/wiki/shared/diff/expertplus-o.png) LUNATIC
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) LUNATIC
 
 ### Cytus, Deemo, VOEZ
 
-- ![](/wiki/shared/diff/easy-o.png) Easy
-- ![](/wiki/shared/diff/normal-o.png) Normal
-- ![](/wiki/shared/diff/hard-o.png) Hard
-- ![](/wiki/shared/diff/insane-o.png) Insane
+- ![](/wiki/shared/diff/easy-o.png?20211215) Easy
+- ![](/wiki/shared/diff/normal-o.png?20211215) Normal
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hard
+- ![](/wiki/shared/diff/insane-o.png?20211215) Insane
 
 #### Cytus
 
-- ![](/wiki/shared/diff/expert-o.png) Chaos
+- ![](/wiki/shared/diff/expert-o.png?20211215) Chaos
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) Glitch / Crash
 
 #### Deemo
 
-- ![](/wiki/shared/diff/expert-o.png) Extra
+- ![](/wiki/shared/diff/expert-o.png?20211215) Extra
 
 #### VOEZ
 
-- ![](/wiki/shared/diff/expert-o.png) Special
+- ![](/wiki/shared/diff/expert-o.png?20211215) Special
 
 ### Touhou Project
 
-- ![](/wiki/shared/diff/easy-o.png) Easy
-- ![](/wiki/shared/diff/normal-o.png) Normal
-- ![](/wiki/shared/diff/hard-o.png) Hard
-- ![](/wiki/shared/diff/insane-o.png) Lunatic
-- ![](/wiki/shared/diff/expert-o.png) Extra / Extra Stage / Phantasm
-
-## Des alternatives largement acceptées
-
-Les noms de difficulté suivants sont des alternatives et des ajouts courants aux noms de difficulté par défaut :
-
-- ![](/wiki/shared/diff/easy-o.png) Beginner : dans un spread par défaut Easy-Normal-Hard-Insane-Expert, il s'agit du niveau de difficulté le plus bas, même en dessous de Easy.
-- ![](/wiki/shared/diff/easy-t.png) Shokyuu : dans un spread par défaut Kantan-Futsuu-Muzukashii-Oni-Inner Oni, il s'agit du niveau de difficulté le plus bas, inférieur à Kantan.
-- ![](/wiki/shared/diff/normal-o.png) Advanced : dans un spread par défaut Easy-Normal-Hard-Insane-Expert, c'est une difficulté entre Normal et Hard.
-- ![](/wiki/shared/diff/hard-o.png) Hyper : dans un spread par défaut Easy-Normal-Hard-Insane-Expert, une difficulté entre Hard et Insane.
-- ![](/wiki/shared/diff/expert-o.png) Extra : il peut être utilisé comme substitut d'Expert.
-- ![](/wiki/shared/diff/expertplus-o.png) Extreme : il peut être utilisé pour représenter une difficulté Expert plus difficile.
-- ![](/wiki/shared/diff/expertplus-t.png) Hell Oni : il peut être utilisé pour représenter une difficulté Inner Oni plus difficile.
-- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge : il peut être utilisé pour représenter une difficulté Overdose plus difficile.
+- ![](/wiki/shared/diff/easy-o.png?20211215) Easy
+- ![](/wiki/shared/diff/normal-o.png?20211215) Normal
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hard
+- ![](/wiki/shared/diff/insane-o.png?20211215) Lunatic
+- ![](/wiki/shared/diff/expert-o.png?20211215) Extra / Extra Stage / Phantasm

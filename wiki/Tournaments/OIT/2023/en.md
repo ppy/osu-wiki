@@ -29,9 +29,9 @@ The osu! Indonesia Tournament #13 (2023) offered an initial prize pool of 3,000,
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 60% of the raised prize pool, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)), customised profile banner, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the raised prize pool, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)), customised profile banner |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 10% of the additional raised prize pool, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 60% of the accumulated prize pool, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)), customised profile banner, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the accumulated prize pool, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)), customised profile banner |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 10% of the accumulated prize pool, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)) |
 
 ![](img/badge.png "OIT 2023 winner badge")
 

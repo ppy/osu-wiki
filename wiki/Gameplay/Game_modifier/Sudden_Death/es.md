@@ -5,13 +5,15 @@ tags:
   - mod
   - game modifier
   - SD
+  - modificador de juego
+  - modificador del juego
 ---
 
 # Sudden Death (mod)
 
 ![Icono del mod SD](/wiki/shared/mods/SD.png "Icono del mod Sudden Death (SD)")
 
-*Para una lista completa de mods, véase: [Modificador de juego](/wiki/Gameplay/Game_modifier)*\
+*Para una lista completa de mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*\
 *Véase también: [Perfect (mod)](/wiki/Gameplay/Game_modifier/Perfect)*
 
 ## Acerca de
@@ -26,7 +28,7 @@ tags:
 
 ## Descripción
 
-El mod **Sudden Death** es un [modificador de juego](/wiki/Gameplay/Game_modifier) que hace que los jugadores fallen en un [beatmap](/wiki/Beatmap) al perder un [objeto](/wiki/Gameplay/Hit_object) o fallando al recolectar una marca del slider. Esto es útil para los jugadores que buscan un [combo completo (FC)](/wiki/Gameplay/Full_combo). Sin embargo, existe cierto debate sobre si el uso del mod Sudden Death o el hecho de reintentar en el primer [combobreak](/wiki/Gameplay/Judgement/Combobreak) es útil o dañino para los jugadores que quieren mejorar rápidamente.
+El mod **Sudden Death** es un [modificador del juego](/wiki/Gameplay/Game_modifier) que hace que los jugadores fallen en un [beatmap](/wiki/Beatmap) al perder un [objeto](/wiki/Gameplay/Hit_object) o fallando al recolectar una marca del slider. Esto es útil para los jugadores que buscan un [combo completo (FC)](/wiki/Gameplay/Full_combo). Sin embargo, existe cierto debate sobre si el uso del mod Sudden Death o el hecho de reintentar en el primer [combobreak](/wiki/Gameplay/Judgement/Combobreak) es útil o dañino para los jugadores que quieren mejorar rápidamente.
 
 Para ser más específicos, el mod Sudden Death solo fallará en el beatmap si sucede algo de lo siguiente:
 

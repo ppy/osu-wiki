@@ -1,27 +1,43 @@
 ---
-outdated_since: 978fec75b84f424db647a1105bf8e26b9aec028c
-outdated_translation: true
 tags:
   - edit link
   - timestamps
+  - lien éditable
+  - horodatage
+no_native_review: true
 ---
 
 # Horodatage
 
-Les **horodatages** sont utilisés en [modding](/wiki/Modding) pour faire référence à des temps ou à des [objets](/wiki/Gameplay/Hit_object) d'une [beatmap](/wiki/Beatmap). Lorsqu'ils sont postés dans les [beatmap discussions](/wiki/Beatmap_discussion), ils créent des liens spéciaux qui peuvent être utilisés pour accéder facilement à ce point dans l'[éditeur](/wiki/Client/Beatmap_editor).
+**Les timestamps** sont utilisés dans le [modding](/wiki/Modding) pour se référer à des temps ou à des [objets](/wiki/Gameplay/Hit_object) dans une [beatmap](/wiki/Beatmap). Lorsqu'ils sont postés dans les [discussions sur les beatmaps](/wiki/Beatmap_discussion), ils créent des liens spéciaux qui peuvent être utilisés pour accéder facilement à ce point dans [l'éditeur](/wiki/Client/Beatmap_editor).
 
-Copier (`Ctrl` + `C`) une sélection d'objets dans l'éditeur mettra un horodatage dans le presse-papiers. L'heure en bas à gauche peut également être cliquée et copiée.
+La copie (`Ctrl` + `C`) d'une sélection d'objets dans l'éditeur placera un horodatage dans le presse-papiers. Il est également possible de cliquer sur l'heure en bas à gauche et de la copier.
 
 ## Format
 
-Syntaxe de l'horodatage : `minutes:seconds:milliseconds (combo numbers)`\
-Syntaxe des liens : `osu://edit/timestamp`
+Syntaxe de l'horodatage : `<minutes>:<secondes>:<millisecondes> (<numéro de combo>)`\
+Syntaxe des liens : `osu://edit/<timestamp>`
 
-Les `minutes` et les `secondes` sont complétées par 2 chiffres, et les `millisecondes` sont complétées par 3 chiffres. Les `combos` sont optionnels et séparés par des virgules.
+`minutes` et `secondes` sont complétés par des zéros jusqu'à 2 chiffres, et `millisecondes` est complété par 3 chiffres. [`numéro de combo`](/wiki/Beatmapping/Combo) est optionnel et séparé par des virgules.
 
-### Exemple
+Les objets de [osu!mania](/wiki/Game_mode/osu!mania) dans les horodatages utilisent un format `<millisecondes>|<colonne>` au lieu d'un numéro de combo. `colonne` se réfère à la position indexée zéro de la colonne à partir de la gauche du [terrain de jeu](/wiki/Game_mode/osu!mania#écran-de-jeu).
 
-Pour une référence aux objets 5 et 6 à 12 secondes et 34 millisecondes dans une beatmap :
+### Exemples
 
-Horodatage : `00:12:034 (5,6)`\
-Lien : `osu://edit/00:12:034 (5,6)`
+1 minute et 20 secondes :
+
+```
+01:20:000
+```
+
+Objets avec les numéros de combo 5 et 6, à partir de 12 secondes et 34 millisecondes :
+
+```
+00:12:034 (5,6)
+```
+
+Objets osu!mania dans les 1ère et 4ème colonnes à 1 minute, et dans la 7ème colonne à 1 minute et 35 secondes :
+
+```
+01:00:000 (60000|0,60000|3,95000|6)
+```

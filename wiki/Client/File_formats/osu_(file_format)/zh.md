@@ -28,9 +28,9 @@ outdated_since: 0fcccdc4ce529778d14579ab3728ca5c1819d06c
 
 | 项目 | 数据类型 | 描述 | 默认值 |
 | :-- | :-- | :-- | :-- |
-| `AudioFilename` | String（字符串） | 音频文件的相对路径 | |
+| `AudioFilename` | String（字符串） | 音频文件的相对路径 |  |
 | `AudioLeadIn` | Integer（整型） | 音频文件播放之前预留的空白时间 | 0 |
-| `AudioHash` | String（字符串） | *已弃用* | |
+| `AudioHash` | String（字符串） | *已弃用* |  |
 | `PreviewTime` | Integer（整型） | 在选中谱面时的歌曲预览点位置（毫秒） | -1 |
 | `Countdown` | Integer（整型） | 在第一个物件之前出现的倒计时速度 (`0` = 无倒计时, `1` = 正常速度, `2` = 一半速度, `3` = 二倍速度) | 1 |
 | `SampleSet` | String（字符串） | 当时间点（红线、绿线）未覆盖设置时的默认音效组（`Normal`、`Soft`、`Drum`） | Normal |
@@ -41,7 +41,7 @@ outdated_since: 0fcccdc4ce529778d14579ab3728ca5c1819d06c
 | `UseSkinSprites` | Boolean（布尔值） | 是否允许故事板使用玩家皮肤元素 | 0 |
 | `AlwaysShowPlayfield` | Boolean（布尔值） | *已弃用* | 0 |
 | `OverlayPosition` | String（字符串） | 设置物件皮肤覆盖层与数字层之间的关系（`NoChange` = 使用玩家皮肤设定， `Below` = 覆盖层绘制于数字之下，`Above` = 覆盖层绘制于数字之上） | NoChange |
-| `SkinPreference` | String（字符串） | 推荐在游玩时使用的皮肤名称 | |
+| `SkinPreference` | String（字符串） | 推荐在游玩时使用的皮肤名称 |  |
 | `EpilepsyWarning` | Boolean（布尔值） | 是否开启谱面闪烁（癫痫）警告 | 0 |
 | `CountdownOffset` | Integer（整型） | 谱面第一个物件之前的倒计时的偏移值（拍子） | 0 |
 | `SpecialStyle` | Boolean（布尔值） | 是否在 osu!mania 谱面中启用 BMS 风格（N+1 键）的键位设置 | 0 |

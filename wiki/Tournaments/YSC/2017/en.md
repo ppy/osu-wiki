@@ -341,7 +341,7 @@ This competition has come to an end and resulted in the following podium:
 
 Saturday, 30 September 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **Vaxei** ::{ flag=US }:: | **7** | 1 | ::{ flag=US }:: Toy |
 
@@ -351,7 +351,7 @@ Saturday, 30 September 2017:
 
 Sunday, 10 September 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **Vaxei** ::{ flag=US }:: | **6** | 0 | ::{ flag=US }:: Toy |
 
@@ -359,7 +359,7 @@ Sunday, 10 September 2017:
 
 Friday, 8 September 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **Cookiezi** ::{ flag=KR }:: | **6** | 5 | ::{ flag=US }:: he rack |
 | **Azer** ::{ flag=CA }:: | **6** | 1 | ::{ flag=RO }:: Rohulk |
@@ -368,7 +368,7 @@ Friday, 8 September 2017:
 
 Saturday, 9 September 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **Cookiezi** ::{ flag=KR }:: | **6** | 1 | ::{ flag=CA }:: Azer |
 
@@ -376,7 +376,7 @@ Saturday, 9 September 2017:
 
 Saturday, 16 September 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | Cookiezi ::{ flag=KR }:: | 5 | **6** | ::{ flag=US }:: **Toy** |
 
@@ -386,13 +386,13 @@ Saturday, 16 September 2017:
 
 Saturday, 2 September 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | Rohulk ::{ flag=RO }:: | 4 | **6** | ::{ flag=US }:: **Vaxei** |
 
 Sunday, 3 September 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **Toy** ::{ flag=US }:: | **6** | 2 | ::{ flag=US }:: he rack |
 
@@ -400,20 +400,20 @@ Sunday, 3 September 2017:
 
 Saturday, 2 September 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **Cookiezi** ::{ flag=KR }:: | **6** | 1 | ::{ flag=PL }:: MrBooM |
 
 Sunday, 3 September 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | Firstus ::{ flag=DE }:: | 2 | **6** | ::{ flag=US }:: **Monko2k** |
 | **Azer** ::{ flag=CA }:: | **6** | 4 | ::{ flag=US }:: fieryrage |
 
 Monday, 4 September 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | Rucker ::{ flag=TW }:: | 2 | **6** | ::{ flag=GB }:: **Bubbleman** |
 
@@ -421,13 +421,13 @@ Monday, 4 September 2017:
 
 Sunday, 3 September 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **Azer** ::{ flag=CA }:: | **6** | 0 | ::{ flag=US }:: Monko2k |
 
 Tuesday, 5 September 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **Cookiezi** ::{ flag=KR }:: | **6** | 5 | ::{ flag=GB }:: Bubbleman |
 
@@ -437,20 +437,20 @@ Tuesday, 5 September 2017:
 
 Saturday, 26 August 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | Cookiezi ::{ flag=KR }:: | 3 | **5** | ::{ flag=RO }:: **Rohulk** |
 | Rucker ::{ flag=TW }:: | 0 | **5** | ::{ flag=US }:: **Vaxei** |
 
 Sunday, 27 August 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **Toy** ::{ flag=US }:: | **5** | 1 | ::{ flag=CA }:: Azer |
 
 Monday, 28 August 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **he rack** ::{ flag=US }:: | **5** | 3 | ::{ flag=US }:: Monko2k |
 
@@ -458,7 +458,7 @@ Monday, 28 August 2017:
 
 Saturday, 26 August 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | Lunirs ::{ flag=AU }:: | 2 | **5** | ::{ flag=PL }:: **My Angel MrBooM** |
 | **MrBooM** ::{ flag=PL }:: | **5** | 1 | ::{ flag=GB }:: Doomsday |
@@ -469,7 +469,7 @@ Saturday, 26 August 2017:
 
 Tuesday, 29 August 2017:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | **Emula** ::{ flag=LV }:: | **5** | 0 | ::{ flag=DE }:: [ Nano ] |  |
 | Helix ::{ flag=GB }:: | 0 | **1** | ::{ flag=FR }:: **ThePooN** | *forfeit* |
@@ -478,14 +478,14 @@ Tuesday, 29 August 2017:
 
 Sunday, 27 August 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | My Angel MrBooM ::{ flag=PL }:: | 4 | **5** | ::{ flag=DE }:: **Firstus** |
 | Apraxia ::{ flag=US }:: | 3 | **5** | ::{ flag=PL }:: **MrBooM** |
 
 Tuesday, 29 August 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **Bubbleman** ::{ flag=GB }:: | **5** | 0 | ::{ flag=LV }:: Emula |
 | **fieryrage** ::{ flag=US }:: | **5** | 3 | ::{ flag=FR }:: ThePooN |
@@ -496,7 +496,7 @@ Tuesday, 29 August 2017:
 
 Saturday, 19 August 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | Helix ::{ flag=GB }:: | 0 | **5** | ::{ flag=KR }:: **Cookiezi** |
 | DigitalHypno ::{ flag=US }:: | 1 | **5** | ::{ flag=TW }:: **Rucker** |
@@ -506,19 +506,19 @@ Saturday, 19 August 2017:
 
 Sunday, 20 August 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | Lunirs ::{ flag=AU }:: | 0 | **5** | ::{ flag=US }:: **Vaxei** |
 
 Monday, 21 August 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | Emula ::{ flag=LV }:: | 3 | **5** | ::{ flag=US }:: **he rack** |
 
 Tuesday, 22 August 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **Azer** ::{ flag=CA }:: | **5** | 2 | ::{ flag=DE }:: imagaK |
 
@@ -526,13 +526,13 @@ Tuesday, 22 August 2017:
 
 Saturday, 19 August 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **Apraxia** ::{ flag=US }:: | **5** | 0 | ::{ flag=NO }:: gilmat |
 
 Sunday, 20 August 2017:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | **Rekens** ::{ flag=ES }:: | **5** | 4 | ::{ flag=GR }:: xDarxen |  |
 | Shirasaka Koume ::{ flag=JP }:: | 0 | **5** | ::{ flag=PL }:: **My Angel MrBooM** |  |
@@ -546,13 +546,13 @@ Sunday, 20 August 2017:
 
 Thursday, 10 August 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **Monko2k** ::{ flag=US }:: | **4** | 1 | ::{ flag=US }:: Num |
 
 Saturday, 12 August 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **Cookiezi** ::{ flag=KR }:: | **4** | 1 | ::{ flag=GR }:: xDarxen |
 | gilmat ::{ flag=NO }:: | 1 | **4** | ::{ flag=TW }:: **Rucker** |
@@ -562,7 +562,7 @@ Saturday, 12 August 2017:
 
 Sunday, 13 August 2017:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | **Toy** ::{ flag=US }:: | **4** | 2 | ::{ flag=JP }:: Shirasaka Koume |  |
 | Rekens ::{ flag=ES }:: | 3 | **4** | ::{ flag=GB }:: **helix** |  |
@@ -575,13 +575,13 @@ Sunday, 13 August 2017:
 
 Monday, 14 August 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | ThePooN ::{ flag=FR }:: | 2 | **4** | ::{ flag=GB }:: **Bubbleman** |
 
 Tuesday, 15 August 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **Vaxei** ::{ flag=US }:: | **4** | 1 | ::{ flag=US }:: Smoothie World |
 
@@ -589,7 +589,7 @@ Tuesday, 15 August 2017:
 
 #### Group A
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **Cookiezi** ::{ flag=KR }:: | **4** | 3 | ::{ flag=NL }:: Ahmnesia |
 | respektive ::{ flag=DE }:: | 3 | **4** | ::{ flag=LT }:: **Painsinger** |
@@ -599,7 +599,7 @@ Tuesday, 15 August 2017:
 
 #### Group B
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **Rohulk** ::{ flag=RO }:: | **4** | 1 | ::{ flag=JP }:: _YuriNee |
 | **imagaK** ::{ flag=DE }:: | **4** | 2 | ::{ flag=PL }:: Qbadoo |
@@ -609,7 +609,7 @@ Tuesday, 15 August 2017:
 
 #### Group C
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **Vaxei** ::{ flag=US }:: | **4** | 1 | ::{ flag=US }:: Exarch |
 | **MrBooM** ::{ flag=PL }:: | **4** | 0 | ::{ flag=SE }:: Ketchup |
@@ -619,7 +619,7 @@ Tuesday, 15 August 2017:
 
 #### Group D
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | idke ::{ flag=US }:: | 0 | **1** | ::{ flag=NO }:: **gilmat** | *forfeit* |
 | Syph ::{ flag=NL }:: | 1 | **4** | ::{ flag=PL }:: **Malolat** |  |
@@ -629,7 +629,7 @@ Tuesday, 15 August 2017:
 
 #### Group E
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | **Azer** ::{ flag=CA }:: | **4** | 0 | ::{ flag=SK }:: Hranolka |  |
 | GSBlank ::{ flag=SG }:: | 2 | **4** | ::{ flag=ES }:: **Rekens** |  |
@@ -639,7 +639,7 @@ Tuesday, 15 August 2017:
 
 #### Group F
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | **Bubbleman** ::{ flag=GB }:: | **4** | 1 | ::{ flag=US }:: Jensen |  |
 | **Doomsday** ::{ flag=GB }:: | **1** | 0 | ::{ flag=HU }:: emu1337 | *forfeit* |
@@ -649,7 +649,7 @@ Tuesday, 15 August 2017:
 
 #### Group G
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | **fieryrage** ::{ flag=US }:: | **4** | 3 | ::{ flag=CA }:: Kaifin |  |
 | Spellstorm ::{ flag=US }:: | 0 | **4** | ::{ flag=JP }:: **Shirasaka Koume** |  |
@@ -659,7 +659,7 @@ Tuesday, 15 August 2017:
 
 #### Group H
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | -Akuro ::{ flag=AT }:: | 1 | **4** | ::{ flag=US }:: **Num** |  |
 | **Apraxia** ::{ flag=US }:: | **1** | 0 | ::{ flag=US }:: Wombraider__9 | *forfeit* |
@@ -669,7 +669,7 @@ Tuesday, 15 August 2017:
 
 #### Group I
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | **ThePooN** ::{ flag=FR }:: | **4** | 0 | ::{ flag=SG }:: \_Xancos\_ |  |
 | - Phantasma - ::{ flag=TH }:: | 2 | **4** | ::{ flag=US }:: **DigitalHypno** |  |
@@ -679,7 +679,7 @@ Tuesday, 15 August 2017:
 
 #### Group J
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **My Angel MrBooM** ::{ flag=PL }:: | **4** | 2 | ::{ flag=DE }:: [ Nano ] |
 | **waywern2012** ::{ flag=LV }:: | **4** | 0 | ::{ flag=PL }:: Klocuch12 |
@@ -689,17 +689,17 @@ Tuesday, 15 August 2017:
 
 #### Group K
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | **Toy** ::{ flag=US }:: | **4** | 1 | ::{ flag=ES }:: kazamabc |  |
 | **Epiphany**  ::{ flag=DE }:: | **4** | 1 | ::{ flag=UA }:: Cloz1k |  |
-| **Toy** ::{ flag=US }:: | **4** | 0 | ::{ flag=DE }:: Epiphany  |  |
+| **Toy** ::{ flag=US }:: | **4** | 0 | ::{ flag=DE }:: Epiphany |  |
 | **kazamabc** ::{ flag=ES }:: | **4** | 2 | ::{ flag=UA }:: Cloz1k |  |
 | Epiphany  ::{ flag=DE }:: | 0 | **1** | ::{ flag=ES }:: **kazamabc** | *forfeit* |
 
 #### Group L
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | **Rucker** ::{ flag=TW }:: | **1** | 0 | ::{ flag=DE }:: Knalli | *forfeit* |
 | **he rack** ::{ flag=US }:: | **4** | 0 | ::{ flag=JP }:: katatakatata |  |
@@ -709,7 +709,7 @@ Tuesday, 15 August 2017:
 
 #### Group M
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | Emilia ::{ flag=SG }:: | 0 | **1** | ::{ flag=GR }:: **xDarxen** | *forfeit* |
 | **Emula** ::{ flag=LV }:: | **4** | 1 | ::{ flag=US }:: zelda101 |  |
@@ -719,7 +719,7 @@ Tuesday, 15 August 2017:
 
 #### Group N
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | **Karthy** ::{ flag=GB }:: | **1** | 0 | ::{ flag=AU }:: Monk Gyatso | *forfeit* |
 | **Firstus** ::{ flag=DE }:: | **4** | 1 | ::{ flag=AU }:: Lunirs |  |
@@ -729,7 +729,7 @@ Tuesday, 15 August 2017:
 
 #### Group O
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | **Monko2k** ::{ flag=US }:: | **4** | 0 | ::{ flag=NL }:: Timpai |  |
 | **Smoothie World** ::{ flag=US }:: | **1** | 0 | ::{ flag=RU }:: ncuh | *forfeit* |
@@ -739,7 +739,7 @@ Tuesday, 15 August 2017:
 
 #### Group P
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | KupcaH ::{ flag=EG }:: | 0 | **4** | ::{ flag=GB }:: **helix** |
 | TopSp1n ::{ flag=GB }:: | 0 | **4** | ::{ flag=ES }:: **Betwin** |
@@ -751,14 +751,14 @@ Tuesday, 15 August 2017:
 
 Friday, 21 July 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **Num** ::{ flag=US }:: | **3** | 1 | ::{ flag=AU }:: Noobsicle |
 | **Jensen** ::{ flag=US }:: | **3** | 0 | ::{ flag=DE }:: Hieu Bot |
 
 Saturday, 22 July 2017:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | **Exarch** ::{ flag=US }:: | **3** | 0 | ::{ flag=CN }:: VRainbow |  |
 | **Emilia** ::{ flag=SG }:: | **3** | 0 | ::{ flag=US }:: Freg |  |
@@ -797,7 +797,7 @@ Saturday, 22 July 2017:
 
 Sunday, 23 July 2017:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | **Emula** ::{ flag=LV }:: | **3** | 0 | ::{ flag=GB }:: Flare |  |
 | **Shirasaka Koume** ::{ flag=JP }:: | **3** | 0 | ::{ flag=AU }:: CeilingWaffle |  |
@@ -820,7 +820,7 @@ Sunday, 23 July 2017:
 
 Monday, 24 July 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **My Angel MrBooM** ::{ flag=PL }:: | **3** | 0 | ::{ flag=SG }:: phox |
 | Jace ::{ flag=US }:: | 1 | **3** | ::{ flag=NL }:: **Timpai** |
@@ -829,20 +829,20 @@ Monday, 24 July 2017:
 
 Tuesday, 25 July 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **fieryrage** ::{ flag=US }:: | **3** | 0 | ::{ flag=GB }:: Bae- |
 
 Wednesday, 26 July 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **Electovoid** ::{ flag=GB }:: | **3** | 0 | ::{ flag=SI }:: Hranolka |
 | **Monko2k** ::{ flag=US }:: | **3** | 0 | ::{ flag=GB }:: SteffoST |
 
 Thursday, 27 July 2017:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | **Smoothie World** ::{ flag=US }:: | **3** | 2 | ::{ flag=LT }:: Damach |  |
 | **Wombraider___9** ::{ flag=US }:: | **1** | 0 | ::{ flag=GB }:: Nega | *forfeit* |

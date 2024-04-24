@@ -49,7 +49,7 @@ The Winter Season 2021 leaderboard will be available over at the [Beatmap Spotli
 ## Rewards
 
 | Badges | Bracket Tier | Placement |
-| :--: | :--: | :--: |
+| :-: | :-: | :-: |
 | ![](/wiki/Beatmap_Spotlights/img/badges/winter_2021/osu/ri_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/winter_2021/osu/ri_2.png) | Rhythm Incarnate | The best of the best |
 | ![](/wiki/Beatmap_Spotlights/img/badges/winter_2021/osu/diamond_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/winter_2021/osu/diamond_2.png) | Diamond | 3% |
 | ![](/wiki/Beatmap_Spotlights/img/badges/winter_2021/osu/platinum_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/winter_2021/osu/platinum_2.png) | Platinum | 3% - 10% |

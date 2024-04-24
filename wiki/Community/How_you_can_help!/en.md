@@ -14,7 +14,7 @@ If you are a newcomer to the osu! wiki, you can read more about it in the [osu! 
 
 ## Help keep osu! friendly and safe
 
-In order to keep the official community hubs safe, osu! has a dedicated moderation team that monitors the forums and online chats around-the-clock.
+In order to keep the official community hubs safe, osu! has a dedicated moderation team — the [Global Moderation Team](/wiki/People/Global_Moderation_Team) — that monitors the forums and online chats around the clock.
 
 Fortunately, it is still easy for you to help keep everything safe here. The following are just a few of the many ways you can help:
 
@@ -35,7 +35,7 @@ The following outlines how you can get started helping others on the forum:
   - [Storyboarding](https://osu.ppy.sh/community/forums/20)
   - [Skinning](https://osu.ppy.sh/community/forums/15)
   - [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13)
-- Read trough the forums pinned posts to learn the subforum-specific rules and any useful info that may be there.
+- Read through the forums pinned posts to learn the subforum-specific rules and any useful info that may be there.
 - Use the `Mark forum as read` button on the top.
 - Follow any new threads, reading each one and help out when you can — you can use the unread icons to make sure you keep up.
 - Read the [available guides](/wiki/Guides) to polish-up your osu! knowledge. If the guides in there don't satisfy you, then you can try contributing to them!
@@ -60,11 +60,11 @@ osu! has a thriving community of technical and competitive people. They range fr
 
 Below are just a few of the ways you can contribute:
 
-- Browse the [Tournaments](https://osu.ppy.sh/community/forums/55) forum. Tournaments take a lot time and work to organise without hitches, and you can help out by being a spectator judge in some cases.
+- Browse the [Tournaments](https://osu.ppy.sh/community/forums/55) forum. Tournaments take a lot of time and work to organise without hitches, and you can help out by being a spectator judge in some cases.
 - Check out what's going on in the [Development](https://osu.ppy.sh/community/forums/2) forum; this is where most serious projects happen.
   - Join the [osu! Discord server](https://discord.gg/ppy)! Even just following along and staying up-to-date with osu! development and projects is a good way to stay informed.
 - Join a [beatmap project](https://osu.ppy.sh/community/forums/53) and learn how fun collaborating with others can be!
-- Start your own project or join someone elses! Whether it's bringing back dancing pippi, or just making something cool for osu!, anything is accepted!
+- Start your own project or join someone else's! Whether it's bringing back dancing pippi, or just making something cool for osu!, anything is accepted!
   - Check out a [list of popular projects](/wiki/Community/Projects).
 
 ## Contribute to the future of osu!

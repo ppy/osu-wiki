@@ -11,12 +11,12 @@ no_native_review: true
 | 모드 | 이름 (축약형) | 배수 | 설명 |
 | :-- | :-- | :-- | :-- |
 | ![이지](/wiki/shared/mods/EZ.png) | 이지 (EZ) | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: 0.50x | • ![][osu!]: `전반적인 난이도를 내립니다. 서클이 커지고, HP 흡수가 넉넉해지며, 판정이 쉬워집니다.` • ![][osu!taiko]: `전반적인 난이도를 내립니다. 서클이 커지고, HP 흡수가 넉넉해지며, 판정이 쉬워집니다.` • ![][osu!catch]: `전반적인 난이도를 줄여줍니다 - HP 감소량이 적어지고, 판정을 더욱 좋게 합니다.` • ![][osu!mania]: `전반적인 난이도를 줄여줍니다 - HP 감소량이 적어지고, 판정을 더욱 좋게 합니다.` |
-| ![노페일](/wiki/shared/mods/NF.png) | 노페일 (NF) | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: 0.50x  | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: `죽지 않습니다. 무슨 일이 있더라도 말이죠.` |
+| ![노페일](/wiki/shared/mods/NF.png) | 노페일 (NF) | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: 0.50x | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: `죽지 않습니다. 무슨 일이 있더라도 말이죠.` |
 | ![하프 타임](/wiki/shared/mods/HT.png) | 하프 타임 (HT) | • ![][osu!] ![][osu!taiko] ![][osu!catch]: 0.30x • ![][osu!mania]: 0.50x | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: `느려진다아아아아!` |
 | ![하드](/wiki/shared/mods/HR.png) | 하드 (HR) | • ![][osu!]: 1.12x ![][osu!taiko]: 1.06x • ![][osu!catch]: 1.12x • ![][osu!mania]: 1.00x | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: `조금 어려워질 거예요...` |
-| ![서든 데스](/wiki/shared/mods/SD.png) | 서든 데스 (SD) | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: 1.00x | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: `노트를 놓치는 순간 너의 목숨은 없다.`  |
+| ![서든 데스](/wiki/shared/mods/SD.png) | 서든 데스 (SD) | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: 1.00x | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: `노트를 놓치는 순간 너의 목숨은 없다.` |
 | ![퍼펙트](/wiki/shared/mods/PF.png) | 퍼펙트 (PF) | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: 1.00x | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: `SS가 아니면 죽음을!` |
-| ![더블 타임](/wiki/shared/mods/DT.png) | 더블 타임 (DT) | • ![][osu!]: 1.06x • ![][osu!taiko]: 1.12x ![][osu!catch]: 1.06x • ![][osu!mania]: 1.00x | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: `빨라아아아아아아아!!`  |
+| ![더블 타임](/wiki/shared/mods/DT.png) | 더블 타임 (DT) | • ![][osu!]: 1.06x • ![][osu!taiko]: 1.12x ![][osu!catch]: 1.06x • ![][osu!mania]: 1.00x | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: `빨라아아아아아아아!!` |
 | ![나이트코어](/wiki/shared/mods/NC.png) | 나이트코어 (NC) | • ![][osu!]: 1.06x • ![][osu!taiko]: 1.12x ![][osu!catch]: 1.06x • ![][osu!mania]: 1.00x | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: `꺄아아아아아아아!!` |
 | ![히든](/wiki/shared/mods/HD.png) | 히든 (HD) | • ![][osu!] ![][osu!taiko] ![][osu!catch]: 1.06x • ![][osu!mania]: 1.00x | • ![][osu!]: `어프로치 서클이 사라지고 노트가 보였다가 사라집니다. 이 모드를 켜면 점수에 배수가 붙습니다.` • ![][osu!taiko]: `노트가 치기 전에 서서히 사라집니다!` • ![][osu!catch] `어프로치 서클이 사라지고 노트가 보였다가 사라집니다. 이 모드를 켜면 점수에 배수가 붙습니다.` • ![][osu!mania]: `노트가 치기 전에 서서히 사라집니다!` |
 | ![페이드 인](/wiki/shared/mods/FI.png) | 페이드 인 (FI) | • ![][osu!mania]: 1.00x |  |

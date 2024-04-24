@@ -21,7 +21,8 @@ Der osu! Discord-Server verfügt über eine Reihe von Kanälen, von denen sich v
 
 | Kanal | Beschreibung |
 | :-- | :-- |
-| `#welcome` | Server-Informationen |
+| `#welcome` | Informationen zum Server |
+| `#announcements` | Serverankündigungen |
 | `#introductions` | Selbstvorstellung |
 | `#general` | Allgemeine Diskussionen und Fehlerbehebungen bezogen auf osu! |
 

@@ -79,7 +79,7 @@ The 112's Corona Tournament was run by various community members.
 | NM | ::{ flag=TR }:: [Koqla](https://osu.ppy.sh/users/12817802), ::{ flag=DE }:: [Skellexon](https://osu.ppy.sh/users/11268328) |
 | Plz Enjoy Chiaki | ::{ flag=TR }:: [Plz Enjoy RSI](https://osu.ppy.sh/users/8365050), ::{ flag=TR }:: [Chiaki Nanami-](https://osu.ppy.sh/users/8588336) |
 | SARS-CoV-3 | ::{ flag=TR }:: [Chickes](https://osu.ppy.sh/users/5341891), ::{ flag=TR }:: [AuroraSolaris](https://osu.ppy.sh/users/9319605) |
-| Team Big Chungus  | ::{ flag=TR }:: [pyth0nix](https://osu.ppy.sh/users/10922849), ::{ flag=TR }:: [LeBoum](https://osu.ppy.sh/users/8700026) |
+| Team Big Chungus | ::{ flag=TR }:: [pyth0nix](https://osu.ppy.sh/users/10922849), ::{ flag=TR }:: [LeBoum](https://osu.ppy.sh/users/8700026) |
 | Traps Not Gay V2 | ::{ flag=TR }:: [CutieDemon](https://osu.ppy.sh/users/6440158), ::{ flag=TR }:: [HakoFixed](https://osu.ppy.sh/users/7188447) |
 | uwu | ::{ flag=TR }:: [-Miia-](https://osu.ppy.sh/users/8543307), ::{ flag=TR }:: [-Satella-](https://osu.ppy.sh/users/4890227) |
 | Zurna | ::{ flag=TR }:: [Mikatsu](https://osu.ppy.sh/users/6612642), ::{ flag=TR }:: [Coderbora](https://osu.ppy.sh/users/11873333) |

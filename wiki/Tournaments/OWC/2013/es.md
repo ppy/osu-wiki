@@ -8,7 +8,7 @@ no_native_review: true
 
 La **osu! World Cup 2013** (***OWC 2013***) fue un torneo organizado por el [Gerente del torneo](https://osu.ppy.sh/groups/26). Empezó el 15 de octubre de 2013 y finalizó el 8 de diciembre de 2013. El defensor del título es ::{ flag=KR }:: **Corea del Sur**.
 
-| Posición  | País |
+| Posición | País |
 | :-- | :-- |
 | ![Gold Crown](/wiki/shared/crown-gold.png "1er lugar") | ::{ flag=KR }:: **Corea del Sur** |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2do lugar") | ::{ flag=TW }:: **Taiwán** |

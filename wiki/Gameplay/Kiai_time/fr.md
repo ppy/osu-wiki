@@ -17,7 +17,7 @@ tags:
 ![](img/kiai-time-taiko-gameplay.png "Le kiai time dans osu!taiko : pippidon extatique et tapis roulant violet")
 :::
 
-Le **kiai time**, ou *kiai*, est un ensemble d'effets visuels distinctifs soulignant une section d'une [beatmap](/wiki/Beatmap), qui s'inspire[^taiko-roots] du Go-Go Time de la série [Taiko no Tatsujin](https://fr.wikipedia.org/wiki/Taiko_no_Tatsujin). Les kiai time sont indiquées par des fontaines d'étoiles, des étoiles tombant sous le curseur et des [objets](/wiki/Gameplay/Hit_object) clignotant au rythme du [BPM](/wiki/Music_theory/Tempo). Des effets similaires, tels que des éclairs latéraux fréquents et des fontaines d'étoiles, sont également visibles dans le [menu principal](/wiki/Client/Interface#main-menu).
+Le **kiai time**, ou *kiai*, est un ensemble d'effets visuels distinctifs soulignant une section d'une [beatmap](/wiki/Beatmap), qui s'inspire[^taiko-roots] du Go-Go Time de la série [Taiko no Tatsujin](https://fr.wikipedia.org/wiki/Taiko_no_Tatsujin). Les kiai time sont indiquées par des fontaines d'étoiles, des étoiles tombant sous le curseur et des [objets](/wiki/Gameplay/Hit_object) clignotant au rythme du [BPM](/wiki/Music_theory/Tempo). Des effets similaires, tels que des éclairs latéraux fréquents et des fontaines d'étoiles, sont également visibles dans le [menu principal](/wiki/Client/Interface#menu-principal).
 
 Le kiai time n'affecte pas les mécanismes de jeu dans osu!, osu!catch ou osu!mania, mais il permet de gagner 20% de [score](/wiki/Gameplay/Score) dans [osu!taiko](/wiki/Game_mode/osu!taiko).
 

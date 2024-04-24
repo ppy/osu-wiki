@@ -1,96 +1,35 @@
 ---
-outdated_translation: true
-outdated_since: 16f34f561b22f932561db58f4ae74c6856a9ea3c
+no_native_review: true
+tags:
+  - bsd
 ---
 
-# Beat Snap Divisor
+# Diviseur de mesure
 
-![](img/beat_snap_divisor-FR.jpg "Le Beat Snap Divisor dans l'éditeur")
+![](img/beat_snap_divisor-FR.jpg "Le diviseur de mesure dans l'éditeur")
 
-Le **Beat Snap Divisor** est un paramètre de l'éditeur qui détermine le comportement de l'éditeur dans la quantification des [objets](/wiki/Gameplay/Hit_object) en fonction des principes du [beat snap](/wiki/Client/Beatmap_editor/Beat_snap). Il se trouve dans la partie supérieure droite de l'écran de l'éditeur, où il correspond à la granularité des objets sur la [timeline](/wiki/Client/Beatmap_editor/Timelines) ; c'est-à-dire qu'un réglage plus dense du Beat Snap Divisor permet de placer plus de notes dans la même mesure de temps et vice versa.
+Le **diviseur de mesure** est un paramètre qui détermine le comportement de l'éditeur lors de la quantification des [beats](/wiki/Music_theory/Beat), dans un processus appelé [beat snapping](/wiki/Beatmapping/Beat_snapping). Il se trouve dans la partie supérieure droite de l'écran de l'éditeur.
 
-L'éditeur de beatmap prend en charge onze réglages différents du Beat Snap Divisor, comme suit :
+Le diviseur de mesure correspond à la structure des [objets](/wiki/Gameplay/Hit_object) sur la [ligne de temps](/wiki/Client/Beatmap_editor/Timelines). Le diviseur est exprimé comme une fraction du nombre de parties en lesquelles un beat doit être divisé ; un réglage plus dense du diviseur de mesure permet de placer plus de notes dans la même mesure de temps, et vice versa.
 
-## Diviseur 1/1
+## Diviseurs pris en charge
 
-![](img/1_1_snap_divisor.jpg "Le diviseur 1/1 dans l'éditeur des modes osu!/osu!taiko/osu!catch")
+L'éditeur de beatmap prend en charge onze paramètres différents de diviseur de mesure, allant de 1/1 à 1/16.
 
-Le diviseur 1/1 permet de placer des objets sur chaque *temps plein*. Il est représenté par des ticks de couleur blanche sur la timeline de l'éditeur.
+| Diviseur | Couleur du tick | Visuel |
+| :-- | :-- | :-- |
+| 1/1 | Blanc | ![](img/1_1_snap_divisor.jpg "diviseur de mesure 1/1 dans la ligne de temps de l'objet") |
+| 1/2 | Rouge | ![](img/1_2_snap_divisor.jpg "diviseur de mesure 1/2 dans la ligne de temps de l'objet") |
+| 1/3 | Violet | ![](img/1_3_snap_divisor.jpg "diviseur de mesure 1/3 dans la ligne de temps de l'objet") |
+| 1/4 | Bleu | ![](img/1_4_snap_divisor.jpg "diviseur de mesure 1/4 dans la ligne de temps de l'objet") |
+| 1/5 | Jaune | ![](img/1_5_snap_divisor.png "diviseur de mesure 1/5 dans la ligne de temps de l'objet") |
+| 1/6 | Violet | ![](img/1_6_snap_divisor.jpg "diviseur de mesure 1/6 dans la ligne de temps de l'objet") |
+| 1/7 | Jaune | ![](img/1_7_snap_divisor.png "diviseur de mesure 1/7 dans la ligne de temps de l'objet") |
+| 1/8 | Jaune | ![](img/1_8_snap_divisor.jpg "diviseur de mesure 1/8 dans la ligne de temps de l'objet") |
+| 1/9 | Jaune | ![](img/1_9_snap_divisor.png "diviseur de mesure 1/9 dans la ligne de temps de l'objet") |
+| 1/12 | Gris | ![](img/1_12_snap_divisor.png "diviseur de mesure 1/12 dans la ligne de temps de l'objet") |
+| 1/16 | Gris | ![](img/1_16_snap_divisor.png "diviseur de mesure 1/16 dans la ligne de temps de l'objet") |
 
-En raison de sa simplicité et de sa facilité d'utilisation, ce diviseur est le plus souvent utilisé pour les difficultés Easy.
+Les diviseurs 1/1 (battement complet), 1/2 (moitié de battement) et 1/4 (quart de battement) sont les plus répandus car la majorité des musiques sont composées avec des rythmes plus denses. Les diviseurs tels que 1/3 ( triplets) et 1/6 (double triplets) sont souvent utilisés pour le mapping des musiques de valse, où un seul beat est divisé en trois ou six parties égales.
 
-## Diviseur 1/2
-
-![](img/1_2_snap_divisor.jpg "Le diviseur 1/2 dans l'éditeur des modes osu!/osu!taiko/osu!catch")
-
-Le diviseur 1/2 permet de placer les objets sur des *demi battements* et leurs multiples (par exemple 1/2). Il est représenté par des ticks de couleur rouge sur la timeline de l'éditeur.
-
-## Diviseur 1/3
-
-![](img/1_3_snap_divisor.jpg "Le diviseur 1/3 dans l'éditeur des modes osu!/osu!taiko/osu!catch")
-
-Le diviseur 1/3 permet de placer les objets sur des *triplets*, c'est-à-dire la troisième fraction d'un temps, et leurs multiples (par exemple 1/3 et 2/3). Il est représenté par des ticks de couleur violette sur la timeline de l'éditeur.
-
-Bien que cela soit relativement rare, il existe certaines musiques et certains genres musicaux (par exemple le swing jazz) qui utilisent principalement ce diviseur tout au long du morceau.
-
-## Diviseur 1/4
-
-![](img/1_4_snap_divisor.jpg "Le diviseur 1/4 dans l'éditeur des modes osu!/osu!taiko/osu!catch")
-
-Le diviseur 1/4 permet de placer les objets sur des *quarts de temps*, c'est-à-dire la quatrième fraction d'un temps, et leurs multiples (par exemple 1/4 et 3/4). Il est représenté par des ticks de couleur bleue sur la timeline de l'éditeur.
-
-En raison de sa polyvalence, ce diviseur est extrêmement populaire parmi les mappeurs et est fréquemment utilisé dans toutes sortes de beatmaps. C'est également le paramètre par défaut qui est désigné par l'éditeur lors de l'importation d'un nouveau fichier audio.
-
-## Diviseur 1/5
-
-![](img/1_5_snap_divisor.png "Le diviseur 1/5 dans l'éditeur des modes osu!/osu!taiko/osu!catch")
-
-Le diviseur 1/5 permet de placer des objets sur la cinquième fraction d'un temps et ses multiples (par exemple 1/5, 2/5, 3/5 et 4/5). Il est représenté par des ticks de couleur jaune sur la timeline de l'éditeur.
-
-Ce diviseur est extrêmement rare et doit être utilisé avec précaution. Si vous vous retrouvez à utiliser le diviseur 1/5 de façon inattendue, il est recommandé de demander conseil à des mappeurs expérimentés.
-
-## Diviseur 1/6
-
-![](img/1_6_snap_divisor.jpg "Le diviseur 1/6 dans l'éditeur des modes osu!/osu!taiko/osu!catch")
-
-Le diviseur 1/6 permet de placer des objets sur des *doubles triplets*, soit la sixième fraction d'un temps, et leurs multiples (par exemple 1/6 et 5/6). Il est représenté par des ticks de couleur violette sur la timeline de l'éditeur.
-
-Bien que cela soit relativement rare, il existe certaines musiques et certains genres musicaux (par exemple le swing jazz) qui utilisent principalement ce diviseur tout au long du morceau.
-
-## Diviseur 1/7
-
-![](img/1_7_snap_divisor.png "Le diviseur 1/7 dans l'éditeur des modes osu!/osu!taiko/osu!catch")
-
-Le diviseur 1/7 permet de placer les objets sur la septième fraction d'un temps et ses multiples (par exemple 1/7, 2/7, 3/7, etc.). Il est représenté par des ticks de couleur jaune sur la timeline de l'éditeur.
-
-Ce diviseur est extrêmement rare et doit être utilisé avec précaution. Si vous vous retrouvez à utiliser le diviseur 1/7 de façon inattendue, il est recommandé de demander conseil à des mappeurs expérimentés.
-
-## Diviseur 1/8
-
-![](img/1_8_snap_divisor.jpg "Le diviseur 1/8 dans l'éditeur des modes osu!/osu!taiko/osu!catch")
-
-Le diviseur 1/8 permet de placer des objets sur la huitième fraction d'un temps et ses multiples (par exemple 1/8, 3/8, 5/8 et 7/8). Il est représenté par des ticks de couleur jaune sur la timeline de l'éditeur.
-
-## Diviseur 1/9
-
-![](img/1_9_snap_divisor.png "Le diviseur 1/9 dans l'éditeur des modes osu!/osu!taiko/osu!catch")
-
-Le diviseur 1/9 permet de placer les objets sur la neuvième fraction d'un temps et ses multiples (par exemple 1/9, 2/9, 3/9, etc.). Il est représenté par des ticks de couleur jaune sur la timeline de l'éditeur.
-
-Ce diviseur est extrêmement rare et doit être utilisé avec précaution. Si vous vous retrouvez à utiliser le diviseur 1/9 de façon inattendue, il est recommandé de demander conseil à des mappeurs expérimentés.
-
-## Diviseur 1/12
-
-![](img/1_12_snap_divisor.png "Le diviseur 1/12 dans l'éditeur des modes osu!/osu!taiko/osu!catch")
-
-Le diviseur 1/12 permet de placer les objets sur la douzième fraction d'un temps et ses multiples (par exemple 1/12, 5/12, 7/12, etc.). Il est représenté par des ticks de couleur grise sur la timeline de l'éditeur.
-
-Ce diviseur est extrêmement rare et doit être utilisé avec précaution. Si vous vous retrouvez à utiliser le diviseur 1/12 de façon inattendue, il est recommandé de demander conseil à des mappeurs expérimentés.
-
-## Diviseur 1/16
-
-![](img/1_16_snap_divisor.png "Le diviseur 1/16 dans l'éditeur des modes osu!/osu!taiko/osu!catch")
-
-Le diviseur 1/16 permet de placer les objets sur la seizième fraction d'un temps et ses multiples (par exemple 1/16, 3/16, 5/16, etc.). Il est représenté par des ticks de couleur grise sur la timeline de l'éditeur.
-
-Ce diviseur est extrêmement rare et doit être utilisé avec précaution. Si vous vous retrouvez à utiliser le diviseur 1/16 de façon inattendue, il est recommandé de demander conseil à des mappeurs expérimentés.
+Le reste des paramètres de diviseur de mesure sont peu communs et doivent être utilisés avec prudence : à moins qu'une musique ou une section de celle-ci ne soit composée spécifiquement en utilisant des longueurs de beat non standard, un diviseur rare tel que 1/5 ou 1/16 est typiquement un signe de [timing](/wiki/Beatmapping/Timing). Le 1/16 en particulier, cependant, est typiquement utilisé pour les buzz sliders.

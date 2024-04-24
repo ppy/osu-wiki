@@ -14,7 +14,7 @@ tags:
 ![Icono del mod EZ](/wiki/shared/mods/EZ.png "Icono del mod Easy (EZ)")
 
 *Para otros usos, véase [Easy (desambiguación)](/wiki/Disambiguation/Easy).*\
-*Para una lista completa de mods, véase: [Modificador de juego](/wiki/Gameplay/Game_modifier)*
+*Para una lista completa de mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*
 
 ## Acerca de
 
@@ -31,7 +31,7 @@ tags:
 
 ## Descripción
 
-El mod **Easy** es un [modificador de juego](/wiki/Gameplay/Game_modifier) que intenta facilitar la dificultad de un [beatmap](/wiki/Beatmap). Hace esto reduciendo a la mitad todas las configuraciones de dificultad de un beatmap seleccionado.
+El mod **Easy** es un [modificador del juego](/wiki/Gameplay/Game_modifier) que intenta facilitar la dificultad de un [beatmap](/wiki/Beatmap). Hace esto reduciendo a la mitad todas las configuraciones de dificultad de un beatmap seleccionado.
 
 En todos los [modos de juego](/wiki/Game_mode), exceptuando [osu!taiko](/wiki/Game_mode/osu!taiko), el mod otorgará al jugador dos «vidas» adicionales durante una partida si la [barra de vida](/wiki/Client/Interface/Health_bar) cae a cero. En el caso de que esto suceda, el juego se detendrá para rellenar lentamente la barra de vida hasta aproximadamente el 80 % y eliminar una «vida» del recuento de vidas del jugador. No se reproducirá ningún sonido durante este efecto.
 

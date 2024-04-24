@@ -82,7 +82,7 @@ This competition has come to an end and resulted in the following podium:
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: [LuxKooky](https://osu.ppy.sh/users/4691146) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=ID }:: [\[ -Asriel- \]](https://osu.ppy.sh/users/11829623) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ID }:: [KinoJourney](https://osu.ppy.sh/users/15798093)  |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ID }:: [KinoJourney](https://osu.ppy.sh/users/15798093) |
 
 ## Mappools
 
@@ -145,7 +145,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### 3rd-place match
 
-| Match code  | Player 1 |  |  | Player 2 | Match link |
+| Match code | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | 3rd-place match | [\[ID\]Xenotia-](https://osu.ppy.sh/users/13865224) ::{ flag=ID }:: | 2 | **4** | ::{ flag=ID }:: **[KinoJourney](https://osu.ppy.sh/users/15798093)** | [#1](https://osu.ppy.sh/community/matches/105421643) |
 

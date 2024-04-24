@@ -1,7 +1,5 @@
 ---
 no_native_review: true
-outdated_since: a4d5824d480a899dd65696033cb740e6ccf47bf5
-outdated_translation: true
 ---
 
 # Gameplay
@@ -33,4 +31,5 @@ outdated_translation: true
 - [Spectateur](/wiki/Gameplay/Spectating)
 - [Spinner trap](/wiki/Gameplay/Spinner_trap)
 - [Temps de jeu](/wiki/Beatmap/Play_time)
+- [Unstable rate](Unstable_rate)
 - [Walk](/wiki/Gameplay/Walk)

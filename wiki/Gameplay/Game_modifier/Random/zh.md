@@ -3,6 +3,8 @@ stub: true
 tags:
   - random
   - RD
+  - mod
+  - game modifier
   - 随机
   - 模组
   - 游戏模组

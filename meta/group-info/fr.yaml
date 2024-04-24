@@ -1,3 +1,5 @@
+no_native_review_since: c828a3cf602155b387adfae4dc2a9546894d7a77 Doryan
+
 separator: ", "
 alumni:
   roles:
@@ -5,9 +7,9 @@ alumni:
     admin: administration
     chat: modérateur de tchat
     dev: osu!dev
-    media: créateur d'osu!media
+    media: créateur de contenu osu!media
     support: équipe du support
-    tournaments: gestion des tournois
+    tournaments: manager des tournois
 gmt:
   all_mods: tous les modérateurs
   areas:
@@ -18,7 +20,7 @@ gmt:
     dev: développement d'osu!
     player: support aux joueurs
     support: support technique
-    tournaments: gestion des tournois
+    tournaments: manager des tournois
     wiki: administration du wiki
     mapping: modération de la communauté modding/mapping
     skinning: modération de la communauté skinning
@@ -31,4 +33,3 @@ nat:
 languages:
   partial: un peu de <language>
   partial_vowel_prefix: un peu d'<language> # This key is specific to FR
-  fil: philippin

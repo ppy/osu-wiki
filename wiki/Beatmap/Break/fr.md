@@ -4,15 +4,19 @@ tags:
   - break time
   - rest
   - rest time
+  - pause
   - temps de pause
-  - repos
   - temps de repos
-outdated_since: 1d2f2cfbf205d5460130366d553a129dc640fdf1
-outdated_translation: true
+  - repos
+no_native_review: true
 ---
 
 # Pause
 
-Les **pauses** sont des sections d'une [beatmap](/wiki/Beatmap) qui n'ont aucun [objet](/wiki/Gameplay/Hit_object). Pendant ce temps, le [drain de vie](/wiki/Gameplay/Health) est temporairement interrompu. Les pauses permettent généralement au joueur de reposer son bras pendant un court instant et de repositionner son [dispositif d'entrée](/wiki/Gameplay/Input_device).
+Les **pauses** sont des sections d'une [beatmap](/wiki/Beatmap) qui n'ont pas [d'objets](/wiki/Gameplay/Hit_object). Pendant ce temps, le [drain de santé](/wiki/Gameplay/Health) est temporairement stoppé. Les pauses permettent généralement au joueur de reposer son bras pendant un court instant et de repositionner son [périphérique d'entrée](/wiki/Gameplay/Input_device).
 
-Selon les [paramètres](/wiki/Client/Beatmap_editor/Song_setup) activés, des letterboxes peuvent apparaître lorsqu'une pause est initiée. En outre, un graphique et un son de réussite ou d'échec peuvent apparaître pour indiquer si le joueur s'en sort bien ou non. Cela n'apparaîtra que s'il y a suffisamment de temps pour que l'animation s'affiche.
+Dans tous les modes de jeu sauf osu!mania, s'il reste suffisamment de temps pendant une pause, un graphique et un son de réussite ou d'échec peuvent apparaître pour indiquer si un joueur se débrouille bien ou non, ainsi que la [note](/wiki/Gameplay/Grade) actuelle dans le coin supérieur droit de l'écran. De plus, les pauses déclenchent des letterboxes en arrière-plan si le [paramètre de beatmap](/wiki/Client/Beatmap_editor/Song_setup) correspondant est activé.
+
+![Capture d'écran d'une section de pause réussi](img/section-pass.jpg "Section réussi")
+
+![Capture d'écran d'une section de pause miss](img/section-fail.jpg "Section miss")

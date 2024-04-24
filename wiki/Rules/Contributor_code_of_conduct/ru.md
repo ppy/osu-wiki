@@ -41,7 +41,6 @@
 Лидеры сообщества, у которых есть доступ к этому адресу, перечислены ниже:
 
 - [peppy](https://osu.ppy.sh/users/2) ([pe@ppy.sh](mailto:pe@ppy.sh))
-- [Ephemeral](https://osu.ppy.sh/users/102335) ([ephemeral@ppy.sh](mailto:ephemeral@ppy.sh))
 
 Все жалобы будут рассмотрены и расследованы оперативно и беспристрастно.
 

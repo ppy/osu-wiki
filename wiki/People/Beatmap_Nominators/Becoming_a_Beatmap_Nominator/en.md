@@ -10,7 +10,7 @@ Applicants are required to meet a minimum [kudosu](/wiki/Modding/Kudosu) thresho
 
 Modders aiming to apply to the Beatmap Nominators must fulfil the following criteria:
 
-- They have accumulated at least 200 [kudosu](/wiki/Modding/Kudosu) for [osu!](/wiki/Game_mode/osu!) modders, or 150 kudosu for [osu!taiko](/wiki/Game_mode/osu!taiko)/[osu!catch](/wiki/Game_mode/osu!catch)/[osu!mania](/wiki/Game_mode/osu!mania) modders.
+- They have accumulated at least 150 [kudosu](/wiki/Modding/Kudosu).
 - They provide 3 of their mods which they think qualify them to be a part of the Beatmap Nominators.
   - Previous members of BN/NAT are allowed to submit a minimum of 2 mods for their application.
 
@@ -82,30 +82,27 @@ Depending on your status, the cooldown before you can apply again may vary.
 
 ### Failed applications
 
-You have these requirements if you failed a Beatmap Nominator application and apply again.
+If you failed a Beatmap Nominator application, you will be subjected to one of the following cooldowns before you can apply again:
 
-| Type | Cooldown |
-| :-- | :-- |
-| Standard | 90 days |
-| Reduced | 45–60 days |
-| Failed the [Beatmap Nominator Test](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) | 30 days |
-
-The cooldown may be reduced for applicants with relatively few issues they need to work on before becoming a Beatmap Nominator.
+| Type | Cooldown | Usage |
+| :-- | :-- | :-- |
+| Reduced | 30 days | Applications with relatively few issues, or [Beatmap Nominator Test](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) fails |
+| Standard | 60 days | Normal fails |
+| Extended | 120 days | Applicants with major behaviour concerns |
 
 ### Rejoining after being removed from the Beatmap Nominators
 
-Users who have recently left the Beatmap Nominators may have different requirements to rejoin compared to when they first joined. For users who have performed well prior to leaving, they may be able to rejoin with relaxed requirements, or no requirements at all. The NAT will inform the user if they have the opportunity to fast-track their way back into the Beatmap Nominators.
+Users who have recently left the Beatmap Nominators may have different requirements to rejoin compared to when they first joined. For users who have performed well prior to leaving, they may be able to rejoin with no requirements at all for a period of time. The NAT will inform the user if they have the opportunity to fast-track their way back into the Beatmap Nominators.
 
-If you were a Beatmap Nominator before, these requirements apply unless you have failed an application since last time you were a Beatmap Nominator.
+If you were a Beatmap Nominator before, the following requirements apply unless you have failed an application since last time you were a Beatmap Nominator:
 
-| Type | Cooldown | Activity Requirements |
+| Type | Cooldown | Application process |
 | :-- | :-- | :-- |
-| Standard | 60 days | *None* |
-| Activity | 30 days | 8 mods in 60 days |
-| Good | 30 days | *None* |
+| Good | *None* | *None*[^good-terms] |
+| Standard | 60 days | Normal |
+| Activity | *None* | Normal[^activity-terms] |
 
-The 8-mod requirement for those applying after being removed for activity is shared across all modes.
+## Notes
 
-Former beatmap nominators who resigned on good terms within the past 6 months are given the option to instantly request a rejoin as a full member, without having to take the [Beatmap Nominator Test](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test), nor provide mods for evaluation.
-
-Former Beatmap Nominators who resigned on good terms within the past year still have to reapply properly in order to rejoin, and they will become full members immediately upon getting accepted.
+[^good-terms]: A Beatmap Nominator who resigned on good terms will be treated with standard terms after 1 year.
+[^activity-terms]: Applicants will have to provide 3 mods in applications, instead of at least 2.

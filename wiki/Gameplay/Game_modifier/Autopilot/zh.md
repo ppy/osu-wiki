@@ -5,7 +5,7 @@ tags:
   - autopilot
   - AP
   - mod
-  - game modifiers
+  - game modifier
   - 模组
   - 游戏模组
 ---

@@ -307,7 +307,7 @@ This competition has come to an end and resulted in the following podium:
 
 Wednesday, 27 October 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Spare ::{ flag=GB }:: | 3 | **7** | ::{ flag=GB }:: **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/55854629) |
 | Spare ::{ flag=GB }:: | 0 | **7** | ::{ flag=GB }:: **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/55856320) |
@@ -316,7 +316,7 @@ Wednesday, 27 October 2019:
 
 Wednesday, 23 October 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Bubbleman** ::{ flag=GB }:: | **7** | 4 | ::{ flag=GB }:: AJT | [#1](https://osu.ppy.sh/community/matches/55760376) |
 
@@ -326,7 +326,7 @@ Wednesday, 23 October 2019:
 
 Saturday, 19 October 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Spare** ::{ flag=GB }:: | **6** | 3 | ::{ flag=GB }:: AJT | [#1](https://osu.ppy.sh/community/matches/55673675) |
 
@@ -334,13 +334,13 @@ Saturday, 19 October 2019:
 
 Sunday, 20 October 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Harpy** ::{ flag=GB }:: | **6** | 4 | ::{ flag=GB }:: hlo | [#1](https://osu.ppy.sh/community/matches/55693071) |
 
 Monday, 21 October 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Ventus ::{ flag=GB }:: | 4 | **6** | ::{ flag=GB }:: **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/55719453) |
 
@@ -348,7 +348,7 @@ Monday, 21 October 2019:
 
 Tuesday, 22 October 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Harpy ::{ flag=GB }:: | 4 | **6** | ::{ flag=GB }:: **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/55738843) |
 
@@ -358,7 +358,7 @@ Tuesday, 22 October 2019:
 
 Sunday, 13 October 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Spare** ::{ flag=GB }:: | **6** | 3 | ::{ flag=GB }:: Harpy | [#1](https://osu.ppy.sh/community/matches/55539551) |
 | **AJT** ::{ flag=GB }:: | **6** | 4 | ::{ flag=GB }:: Ventus | [#1](https://osu.ppy.sh/community/matches/55545686) |
@@ -367,25 +367,25 @@ Sunday, 13 October 2019:
 
 Friday, 11 October 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Malteser ::{ flag=GB }:: | 2 | **6** | ::{ flag=GB }:: **Best459** | [#1](https://osu.ppy.sh/community/matches/55482259) |
 
 Saturday, 12 October 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | bloo ::{ flag=GB }:: | -1 | **0** | ::{ flag=GB }:: **Kingling** | *forfeit* |
 
 Sunday, 13 October 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Wario ::{ flag=GB }:: | 0 | **6** | ::{ flag=GB }:: **hlo** | [#1](https://osu.ppy.sh/community/matches/55542910) |
 
 Wednesday, 16 October 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Doomsday ::{ flag=GB }:: | 1 | **6** | ::{ flag=GB }:: **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/55605940) |
 
@@ -393,13 +393,13 @@ Wednesday, 16 October 2019:
 
 Tuesday, 15 October 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **hlo** ::{ flag=GB }:: | **6** | 2 | ::{ flag=GB }:: Best459 | [#1](https://osu.ppy.sh/community/matches/55585920) |
 
 Thursday, 17 October 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Kingling ::{ flag=GB }:: | 3 | **6** | ::{ flag=GB }:: **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/55620137) |
 
@@ -409,14 +409,14 @@ Thursday, 17 October 2019:
 
 Saturday, 5 October 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Spare** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: bloo | [#1](https://osu.ppy.sh/community/matches/55335898) |
 | **AJT** ::{ flag=GB }:: | **5** | 3 | ::{ flag=GB }:: Best459 | [#1](https://osu.ppy.sh/community/matches/55350496) |
 
 Sunday, 6 October 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Harpy** ::{ flag=GB }:: | **5** | 3 | ::{ flag=GB }:: Doomsday | [#1](https://osu.ppy.sh/community/matches/55372794) |
 | Wario ::{ flag=GB }:: | 2 | **5** | ::{ flag=GB }:: **Ventus** | [#1](https://osu.ppy.sh/community/matches/55378053) |
@@ -425,13 +425,13 @@ Sunday, 6 October 2019:
 
 Monday, 30 September 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Apo11o** ::{ flag=GB }:: | **5** | 2 | ::{ flag=GB }:: Defex | [#1](https://osu.ppy.sh/community/matches/55236437) |
 
 Saturday, 5 October 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Kingling** ::{ flag=GB }:: | **0** | -1 | ::{ flag=GB }:: meltz | *forfeit* |
 | MoeYandere ::{ flag=GB }:: | -1 | **0** | ::{ flag=GB }:: **hlo** | *forfeit* |
@@ -439,7 +439,7 @@ Saturday, 5 October 2019:
 
 Sunday, 6 October 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Malteser** ::{ flag=GB }:: | **5** | 3 | ::{ flag=GB }:: Woffel | [#1](https://osu.ppy.sh/community/matches/55368204) |
 | **Bubbleman** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: Rinnu | [#1](https://osu.ppy.sh/community/matches/55371230) |
@@ -447,7 +447,7 @@ Sunday, 6 October 2019:
 
 Monday, 7 October 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | helix ::{ flag=GB }:: | 3 | **5** | ::{ flag=GB }:: **Summer Solstice** | [#1](https://osu.ppy.sh/community/matches/55399760) |
 
@@ -455,25 +455,25 @@ Monday, 7 October 2019:
 
 Saturday, 5 October 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Kingling** ::{ flag=GB }:: | **0** | -1 | ::{ flag=GB }:: Apo11o | *forfeit* |
 
 Sunday, 6 October 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **hlo** ::{ flag=GB }:: | **5** | 3 | ::{ flag=GB }:: Zyphox | [#1](https://osu.ppy.sh/community/matches/55368217) |
 
 Tuesday, 8 October 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Summer Solstice ::{ flag=GB }:: | 1 | **5** | ::{ flag=GB }:: **Malteser** | [#1](https://osu.ppy.sh/community/matches/55419418) |
 
 Friday, 11 October 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Kerantina ::{ flag=GB }:: | 0 | **5** | ::{ flag=GB }:: **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/55477017) |
 
@@ -483,19 +483,19 @@ Friday, 11 October 2019:
 
 Friday, 27 September 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Harpy** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: MoeYandere | [#1](https://osu.ppy.sh/community/matches/55145284) |
 
 Saturday, 28 September 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Best459** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: Apo11o | [#1](https://osu.ppy.sh/community/matches/55179412) |
 
 Sunday, 29 September 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Spare** ::{ flag=GB }:: | **5** | 3 | ::{ flag=GB }:: helix | [#1](https://osu.ppy.sh/community/matches/55205273) |
 | **Doomsday** ::{ flag=GB }:: | **5** | 3 | ::{ flag=GB }:: majoreh | [#1](https://osu.ppy.sh/community/matches/55206159) |
@@ -505,7 +505,7 @@ Sunday, 29 September 2019:
 
 Wednesday, 2 October 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **bloo** ::{ flag=GB }:: | **5** | 2 | ::{ flag=GB }:: Malteser | [#1](https://osu.ppy.sh/community/matches/55274719) |
 
@@ -513,7 +513,7 @@ Wednesday, 2 October 2019:
 
 Saturday, 28 September 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **meltz** ::{ flag=GB }:: | **5** | 4 | ::{ flag=GB }:: pod | [#1](https://osu.ppy.sh/community/matches/55166896) |
 | **Defex** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: xFluffyo | [#1](https://osu.ppy.sh/community/matches/55173947) |
@@ -523,14 +523,14 @@ Saturday, 28 September 2019:
 
 Sunday, 29 September 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Woffel** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: -spoon- | [#1](https://osu.ppy.sh/community/matches/55210336) |
 | **Cla** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: Summer Solstice | [#1](https://osu.ppy.sh/community/matches/55212272) |
 
 Thursday, 3 October 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Appilesh ::{ flag=GB }:: | 0 | **5** | ::{ flag=GB }:: **Zyphox** | [#1](https://osu.ppy.sh/community/matches/55296385) |
 
@@ -538,13 +538,13 @@ Thursday, 3 October 2019:
 
 Friday, 20 September 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **MoeYandere** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: xFluffyo | [#1](https://osu.ppy.sh/community/matches/54975432) |
 
 Saturday, 21 September 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Spare** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: Kirix | [#1](https://osu.ppy.sh/community/matches/55002002) |
 | **AJT** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: Appilesh | [#1](https://osu.ppy.sh/community/matches/55002344) |
@@ -554,7 +554,7 @@ Saturday, 21 September 2019:
 
 Sunday, 22 September 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Bubbleman** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: Cla | [#1](https://osu.ppy.sh/community/matches/55033230) |
 | **majoreh** ::{ flag=GB }:: | **5** | 2 | ::{ flag=GB }:: pod | [#1](https://osu.ppy.sh/community/matches/55036478) |
@@ -567,13 +567,13 @@ Sunday, 22 September 2019:
 
 Monday, 23 September 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | -spoon- ::{ flag=GB }:: | 4 | **5** | ::{ flag=GB }:: **Wario** | [#1](https://osu.ppy.sh/community/matches/55061725) |
 
 Wednesday, 25 September 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Ventus** ::{ flag=GB }:: | **5** | 4 | ::{ flag=GB }:: Summer Solstice | [#1](https://osu.ppy.sh/community/matches/55103447) |
 

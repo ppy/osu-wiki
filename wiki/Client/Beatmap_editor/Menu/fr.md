@@ -122,7 +122,7 @@ no_native_review: true
 | Déplacer tous les éléments de... | Déplace tous les objets d'un nombre donné de millisecondes. |
 | Recalculer la longueur des sliders | Recalcule automatiquement[^recalculer-les-longueurs-note] tous les [slider ends](/wiki/Gameplay/Hit_object/Slider/Slidertail) sur le tick de la ligne de temps le plus proche, **les raccourcir éventuellement** et nécessitant un nouveau contrôle manuel. |
 | Supprimer toutes les sections temporelles | Supprime toutes les sections de timing non héritées et héritées des difficultés actuelles. |
-| Définir le point de prévisualisation à la position actuelle | Utilise l'horodatage actuel comme point de prévisualisation pour le site Web et l'écran [sélection de musique](/wiki/Client/Interface#song-select). |
+| Définir le point de prévisualisation à la position actuelle | Utilise l'horodatage actuel comme point de prévisualisation pour le site Web et l'écran [sélection de musique](/wiki/Client/Interface#sélection-de-la-musique). |
 
 ## Web
 

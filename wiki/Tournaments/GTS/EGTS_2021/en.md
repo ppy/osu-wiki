@@ -618,7 +618,7 @@ Saturday, 9 October 2021:
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **ekumea1123** ::{ flag=JP }:: | **0** | -1 | ::{ flag=AR }:: Auredios | *win by default* |
-| **Jonah** ::{ flag=KR }::  | **0** | -1 | ::{ flag=US }:: Inigo | *win by default* |
+| **Jonah** ::{ flag=KR }:: | **0** | -1 | ::{ flag=US }:: Inigo | *win by default* |
 | **r1chyy** ::{ flag=AU }:: | **5** | 0 | ::{ flag=JP }:: Matusa Bomber | [#1](https://osu.ppy.sh/community/matches/92116815) |
 | **C-light** ::{ flag=JP }:: | **0** | -1 | ::{ flag=US }:: BWithey | *win by default* |
 | **5henry** ::{ flag=KR }:: | **5** | 0 | ::{ flag=SG }:: I luv loleez | [#1](https://osu.ppy.sh/community/matches/92123464) |

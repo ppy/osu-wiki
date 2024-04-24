@@ -11,7 +11,7 @@ tags:
 
 The [osu! team](/wiki/People/osu!_team) runs a program where they may opt to provide community-run tournaments that abide by a certain set of criteria and expectations with extra support, at their discretion.
 
-This article was last updated on September 13, 2023. For any queries and clarifications, please consult the `#tournaments` channel on the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+This article was last updated on April 18, 2024. For the full changelog, check out the [tournament support updates thread](https://osu.ppy.sh/community/forums/topics/1715676). For any queries or clarifications, please consult the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Benefits
 
@@ -19,7 +19,8 @@ Officially supported tournaments have access to:
 
 - A dedicated [screening process](#tournament-screening) to prevent users with serious integrity infringements (cheating, multi-accounting, tournament bans) from playing.
 - [Profile badge prizes](#profile-badges) for first-place winners.
-- Potential consideration for a [main-menu banner advertisement](#requesting-in-game-banner-and-news-post-support) during major matches
+- Potential consideration for a [main-menu banner advertisement](#requesting-in-game-banner-and-news-post-support) during major matches.
+- Potential consideration for [news coverage](#requesting-in-game-banner-and-news-post-support), one post advertising registrations and one summarising final results.
 
 ## Eligibility
 
@@ -29,9 +30,10 @@ Community-run tournaments which abide by the following hard criteria are eligibl
 - The tournament must operate on a Round of 16 double-elimination format at a minimum.
   - Larger formats, such as group stages and Swiss brackets, may also be used so long as they start with at least 16 teams and, if applicable and if starting with only 16 teams, break to a double-elimination bracket afterwards.
   - Alternative scales and formats may be permitted at the sole discretion of the tournament committee. Hosts should contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh) if they are seeking to receive tournament support for a non-traditional tournament format or size.
-- The forum thread for the tournament **MUST** contain a clearly visible link in a normal-sized font to the [tournament reports form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
+- The forum threads associated with the tournament — this includes forum threads for any preliminary events — **MUST** contain a clearly visible link in a normal-sized font to the [tournament reports form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
   - `https://pif.ephemeral.ink/tournament-reports`
   - This report form is overseen by the [Tournament Committee](/wiki/People/Tournament_Committee). We encourage all users — players and staff alike — to make use of this form where necessary. Any breaches of [expectations](#expectations), [other procedures](#other-procedures), or [eligibility](#eligibility) requirements should prompt a report.
+- The tournament must only use beatmaps of songs which are cleared in terms of [content usage permissions](/wiki/Rules/Content_usage_permissions#artist-permissions). Any usage of tracks which are explicitly disallowed will revoke a tournament's eligibility for support. See the [ranking criteria](/wiki/Ranking_criteria#rules) for details regarding exceptions for artists or tracks which are listed as disallowed.
 - The tournament only allows players of exceptional skill to participate, disallowing players lower than the following ranks in each game mode:
   - osu!: 100,000
   - osu!taiko: 10,000
@@ -39,6 +41,7 @@ Community-run tournaments which abide by the following hard criteria are eligibl
   - osu!mania: 40,000
   - This does not apply to open rank tournaments.
 - The tournament must adhere to all [expectations](#expectations) of officially supported tournaments.
+  - Any tournaments held as preliminary events leading into a main competition must adhere to the same [expectations](#expectations) as standalone tournaments.
 
 ## Requesting support
 
@@ -52,9 +55,7 @@ If your tournament satisfies the [eligibility criteria](#eligibility), you can m
     - For regional tournaments, the thread may be created in the appropriate language subforum.
   - Public Discord servers or any other off-site chatrooms used for the event.
   - Previous iterations of the same tournament series (only where applicable).
-- Separate lists for:
-  - The staff involved in running the tournament.
-  - The users who have registered to participate in the tournament (see [tournament screening](#tournament-screening)).
+- A list of the users who have registered to participate in the tournament (see [tournament screening](#tournament-screening)), as a separate attachment.
 
 Once we receive your request, the account support team will return a list of users who are ineligible to participate in tournaments. Please allow ample time for a response. We will try our best to handle all requests within a week, but we occasionally have large spikes in workload that can make this impossible.
 
@@ -116,6 +117,8 @@ Users under an active tournament ban are expected to disclose their tournament b
 
 At the support team's discretion, staff members whose conduct directly results in a tournament losing its official support may not fulfil the same roles in, nor be the host or admin of, another badged tournament for at least 4 months. In the event this cooldown is applied to a user, they will be informed directly through the [tournament team](mailto:tournaments@ppy.sh).
 
+A list of all tournament staff must be publicly visible in an easily accessible location. This list may be contained within the tournament's forum post, website, or spreadsheet.
+
 ### Players
 
 Participants in officially supported tournaments are expected to adhere to the [osu! community rules](/wiki/Rules) at all times, regardless of their rank, accomplishments, or other achievements. They are also expected to treat all volunteers involved in hosting a tournament with respect, and to not deliberately attempt to waste their time or otherwise excessively complicate the undertaking of a tournament with their actions.
@@ -166,10 +169,13 @@ Profile badge images must adhere to the following standards:
 - It must clearly display the logo, motif, or name of your tournament.
 - It must be cleanly designed and of reasonable visual quality.
 - It must not include any sort of sponsorship or promote anything besides the tournament.
+- Any assets must be specifically made for the tournament and adhere to the [content usage guidelines](/wiki/Rules/Content_usage_permissions).
+  - This does not include assets that are open-source or public-use (i.e. fonts, icons, etc).
+  - If assets that do not fall into the above category are used in a design, explicit approval from the original artist must be provided before approval.
 
 Please consult the following examples of approved badge designs:
 
-![](https://assets.ppy.sh/profile-badges/ysc4-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/perennial-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/timeskip-2021@2x.png)
+![](https://assets.ppy.sh/profile-badges/ysc4-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/perennial-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/TATHC2023@2x.png)
 
 Badge images that do not meet these standards will be refused with given reasoning, and you may be asked to completely redesign your badge in some cases. This is fairly uncommon, but should be accounted for.
 

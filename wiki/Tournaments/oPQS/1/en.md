@@ -282,21 +282,21 @@ This competition has come to an end and resulted in the following podium:
 
 #### Finals
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | bluezenithgames | 1 | 3 | **CircIes** | [#1](https://osu.ppy.sh/community/matches/102521459) |
 | **RnJn** | **3** | 2 | OsuSeulgiDragon | [#1](https://osu.ppy.sh/community/matches/102520939) |
 
 #### Semifinals
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **bluezenithgames** | **3** | 0 | RnJn | [#1](https://osu.ppy.sh/community/matches/102520721) |
 | OsuSeulgiDragon | 0 | **3** | **CircIes** | [#1](https://osu.ppy.sh/community/matches/102520372) |
 
 #### Quarterfinals
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **bluezenithgames** | **2** | 0 | Dunn | [#1](https://osu.ppy.sh/community/matches/102519294) |
 | **RnJn** | **2** | 0 | KanataMyBeloved | [#1](https://osu.ppy.sh/community/matches/102519504) |
@@ -305,7 +305,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round of 16
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **bluezenithgames** | **2** | 1 | Lunasen\_ | [#1](https://osu.ppy.sh/community/matches/102517654) |
 | Gale Wise | 0 | **2** | **Dunn** | [#1](https://osu.ppy.sh/community/matches/102517825) |
@@ -320,21 +320,21 @@ This competition has come to an end and resulted in the following podium:
 
 #### Finals
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | rexralph1 | 0 | **3** | **Revillica** | [#1](https://osu.ppy.sh/community/matches/102495355) |
 | Awper | 0 | **3** | **xXCraigyxD28Xx** | [#1](https://osu.ppy.sh/community/matches/102495115) |
 
 #### Semifinals
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **rexralph1** | **3** | 2 | Awper | [#1](https://osu.ppy.sh/community/matches/102494079) |
 | **Revillica** | **3** | 1 | xXCraigyxD28Xx | [#1](https://osu.ppy.sh/community/matches/102494726) |
 
 #### Quarterfinals
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | -Hanamaru- | 0 | **2** | **rexralph1** | [#1](https://osu.ppy.sh/community/matches/102493377) |
 | **Awper** | **2** | 0 | 2 and eight | *forfeit* |
@@ -343,7 +343,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round of 16
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **-Hanamaru-** | **2** | 0 | [Vik] | [#1](https://osu.ppy.sh/community/matches/102490622) |
 | Buizie | 0 | **2** | **rexralph1** | [#1](https://osu.ppy.sh/community/matches/102491171) |

@@ -7,7 +7,7 @@
 ![](img/comboburst.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] (voir notes) | ![Oui][true] | Normal | Centre | - |
 
 Notes :
@@ -26,7 +26,7 @@ Notes :
 ![](img/default-0.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | - |
 
 Notes :
@@ -43,7 +43,7 @@ Notes :
 ![](img/default-1.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | - |
 
 Notes :
@@ -60,7 +60,7 @@ Notes :
 ![](img/default-2.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | - |
 
 Notes :
@@ -77,7 +77,7 @@ Notes :
 ![](img/default-3.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | - |
 
 Notes :
@@ -94,7 +94,7 @@ Notes :
 ![](img/default-4.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | - |
 
 Notes :
@@ -111,7 +111,7 @@ Notes :
 ![](img/default-5.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | - |
 
 Notes :
@@ -128,7 +128,7 @@ Notes :
 ![](img/default-6.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | - |
 
 Notes :
@@ -145,7 +145,7 @@ Notes :
 ![](img/default-7.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | - |
 
 Notes :
@@ -162,7 +162,7 @@ Notes :
 ![](img/default-8.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | - |
 
 Notes :
@@ -179,7 +179,7 @@ Notes :
 ![](img/default-9.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | - |
 
 Notes :
@@ -196,7 +196,7 @@ Notes :
 ![](img/approachcircle.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Multiplicatif | Centre | 126x126 |
 
 Notes :
@@ -214,7 +214,7 @@ Notes :
 ![](img/hitcircle.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Multiplicatif | Centre | 118x118 (cercle) 128x128 (fichier entier) |
 
 Notes :
@@ -232,7 +232,7 @@ Notes :
 ![](img/hitcircleoverlay.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] (voir notes) | ![Oui][true] | Normal | Centre | 118x118 (cercle) 128x128 (fichier entier) |
 
 Notes :
@@ -256,7 +256,7 @@ La visibilité des overlays des sliders dépend des éléments cercles du slider
 ![](img/hitcircleselect.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 118x118 (cercle) 128x128 (fichier entier) |
 
 Notes :
@@ -271,7 +271,7 @@ Notes :
 ![](img/followpoint.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Oui][true] | ![Oui][true] | Normal | Centre | - |
 
 Notes :
@@ -287,7 +287,7 @@ Notes :
 ![](img/lighting.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Additif | Centre | 100x100 |
 
 Notes :
@@ -305,7 +305,7 @@ Notes :
 `sliderstartcircle.png`
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Multiplicatif | Centre | 118x118 (cercle) 128x128 (fichier entier) |
 
 Notes :
@@ -321,7 +321,7 @@ Notes :
 `sliderstartcircleoverlay.png`
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] (voir notes) | ![Oui][true] | Normal | Centre | 118x118 (cercle) 128x128 (fichier entier) |
 
 Notes :
@@ -340,7 +340,7 @@ Notes :
 `sliderendcircle.png`
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Multiplicatif | Centre | 118x118 (cercle) 128x128 (fichier entier) |
 
 Notes :
@@ -356,7 +356,7 @@ Notes :
 `sliderendcircleoverlay.png`
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] (voir notes) | ![Oui][true] | Normal | Centre | 118x118 (cercle) 128x128 (fichier entier) |
 
 Notes :
@@ -377,7 +377,7 @@ Notes :
 ![](img/reversearrow.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 118x118 (cercle) 128x128 (fichier entier) |
 
 Notes :
@@ -393,7 +393,7 @@ Notes :
 ![](img/sliderfollowcircle.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Oui][true] | ![Oui][true] | Normal | Centre | 256x256 (voir notes) |
 
 Notes :
@@ -409,7 +409,7 @@ Notes :
 ![](img/sliderb.gif)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Oui][true] (voir notes) | ![Oui][true] | Multiplicatif | Centre | 118x118 |
 
 Notes :
@@ -426,7 +426,7 @@ Notes :
 ![](img/sliderb-nd.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] (voir notes) | Multiplicatif | Centre | 118x118 |
 
 Notes :
@@ -443,7 +443,7 @@ Notes :
 ![](img/sliderb-spec.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] (voir notes) | Additif | Centre | 118x118 |
 
 Notes :
@@ -457,7 +457,7 @@ Notes :
 `sliderpoint10.png`
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 1.0 | ![Non][false] | ![Oui][true] (voir notes) | Normal | Centre | 50x30 |
 
 Notes :
@@ -471,7 +471,7 @@ Notes :
 `sliderpoint30.png`
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 1.0 | ![Non][false] | ![Oui][true] (voir notes) | Normal | Centre | 50x30 |
 
 Notes :
@@ -487,7 +487,7 @@ Notes :
 ![](img/sliderscorepoint.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 16x16 |
 
 Notes :
@@ -507,7 +507,7 @@ Notes :
 ![](img/spinner-approachcircle.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 384x384 |
 
 Notes :
@@ -525,7 +525,7 @@ Notes :
 ![](img/spinner-rpm.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | En haut à gauche | 280x56 |
 
 Notes :
@@ -542,7 +542,7 @@ Notes :
 ![](img/spinner-clear.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | - |
 
 Notes :
@@ -557,7 +557,7 @@ Notes :
 ![](img/spinner-spin.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | - |
 
 Notes :
@@ -572,7 +572,7 @@ Notes :
 ![](img/spinner-background.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Multiplicatif | Centre | 1024x702 (voir notes) |
 
 Notes :
@@ -589,7 +589,7 @@ Notes :
 ![](img/spinner-circle.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | - |
 
 Notes :
@@ -606,7 +606,7 @@ Notes :
 ![](img/spinner-metre.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | En haut à gauche | 1024x692 |
 
 Notes :
@@ -624,7 +624,7 @@ Notes :
 ![](img/spinner-osu.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 1.0 | ![Non][false] | ![Oui][true] (voir notes) | Normal | Centre | - |
 
 Notes :
@@ -639,7 +639,7 @@ Notes :
 ![](img/spinner-glow.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 2.0+ | ![Non][false] | ![Oui][true] | Additif | Centre | - |
 
 Notes :
@@ -656,7 +656,7 @@ Notes :
 ![](img/spinner-bottom.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 2.0+ | ![Non][false] | ![Oui][true] | Normal | Centre | - |
 
 Notes :
@@ -672,7 +672,7 @@ Notes :
 ![](img/spinner-top.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 2.0+ | ![Non][false] | ![Oui][true] | Normal | Centre | - |
 
 Notes :
@@ -688,7 +688,7 @@ Notes :
 ![](img/spinner-middle2.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 2.0+ | ![Non][false] | ![Oui][true] | Normal | Centre | - |
 
 Notes :
@@ -704,7 +704,7 @@ Notes :
 ![](img/spinner-middle.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 2.0+ | ![Non][false] | ![Oui][true] | Multiplicatif | Centre | - |
 
 Notes :
@@ -720,7 +720,7 @@ Notes :
 ![](img/particle50.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 7x7 |
 
 Notes :
@@ -734,7 +734,7 @@ Notes :
 ![](img/particle100.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 7x7 |
 
 Notes :
@@ -749,7 +749,7 @@ Notes :
 ![](img/particle300.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 7x7 |
 
 Notes :

@@ -274,7 +274,7 @@ The OUKT4 was run by various community members
 
 Friday, 21 August 2015
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | Doomsday ::{ flag=GB }:: | 0 | **6** | ::{ flag=GB }:: **bahamete** |
 
@@ -282,7 +282,7 @@ Friday, 21 August 2015
 
 Saturday, 7 March 2015
 
-| Player 1 | | | Player 2 | Notes |
+| Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
 | **Doomsday** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: vidya | *forfeit* |
 | **bahamete** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Raiku | *forfeit* |
@@ -291,191 +291,191 @@ Saturday, 7 March 2015
 
 Saturday, 21 Febuary 2015
 
-| Player 1 | | | Player 2 | Notes |
+| Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **Doomsday** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: R a h a r u | |
+| **Doomsday** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: R a h a r u |  |
 | Could This Be ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **vidya** | *forfeit* |
-| **bahamete** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: Helix | |
-| jesus1412 ::{ flag=GB }:: | 4 | **5** | ::{ flag=GB }:: **Raiku** | |
+| **bahamete** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: Helix |  |
+| jesus1412 ::{ flag=GB }:: | 4 | **5** | ::{ flag=GB }:: **Raiku** |  |
 
 ### Round of 16
 
 Saturday, 7 Febuary 2015
 
-| Player 1 | | | Player 2 | Notes |
+| Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **Doomsday** ::{ flag=GB }:: | **4** | 3 | ::{ flag=GB }:: Slvin | |
-| **R a h a r u** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: Ommetaphobia | |
-| **Could This Be** ::{ flag=GB }:: | **4** | 3 | ::{ flag=GB }:: SamC | |
-| RndGuy ::{ flag=GB }:: | 3 | **4** | ::{ flag=GB }:: **vidya** | |
+| **Doomsday** ::{ flag=GB }:: | **4** | 3 | ::{ flag=GB }:: Slvin |  |
+| **R a h a r u** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: Ommetaphobia |  |
+| **Could This Be** ::{ flag=GB }:: | **4** | 3 | ::{ flag=GB }:: SamC |  |
+| RndGuy ::{ flag=GB }:: | 3 | **4** | ::{ flag=GB }:: **vidya** |  |
 | **bahamete** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Navi | *forfeit* |
 | **Helix** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: LusoryLoL | *forfeit* |
-| **jesus1412** ::{ flag=GB }:: | **4** | 3 | ::{ flag=GB }:: SoraRoxas | |
-| **Raiku** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: \[AOTN\] | |
+| **jesus1412** ::{ flag=GB }:: | **4** | 3 | ::{ flag=GB }:: SoraRoxas |  |
+| **Raiku** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: \[AOTN\] |  |
 
 ### Round of 32
 
 Saturday, 31 January 2015
 
-| Player 1 | | | Player 2 | Notes |
+| Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **Doomsday** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Swaayy | |
-| sullyjhf ::{ flag=GB }:: | 1 | **4** | ::{ flag=GB }:: Slvin | |
-| **R a h a r u** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: LordVenomania | |
+| **Doomsday** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Swaayy |  |
+| sullyjhf ::{ flag=GB }:: | 1 | **4** | ::{ flag=GB }:: Slvin |  |
+| **R a h a r u** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: LordVenomania |  |
 | Kratoslol ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **Ommetaphobia** | *forfeit* |
-| **Could This Be** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: WeirdF | |
-| **SamC** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: Starry- | |
-| xendran ::{ flag=GB }:: | 1 | **4** | ::{ flag=GB }:: **RndGuy** | |
-| **vidya** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: Vortecs | |
-| **bahamete** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Ximphia | |
-| **Navi** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: Run-Cat | |
-| Guy- ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **Helix** | |
+| **Could This Be** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: WeirdF |  |
+| **SamC** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: Starry- |  |
+| xendran ::{ flag=GB }:: | 1 | **4** | ::{ flag=GB }:: **RndGuy** |  |
+| **vidya** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: Vortecs |  |
+| **bahamete** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Ximphia |  |
+| **Navi** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: Run-Cat |  |
+| Guy- ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **Helix** |  |
 | Gadrin ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **LusoryLoL** | *forfeit* |
-| **jesus1412** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: Ascension | |
-| 19120113121308 ::{ flag=GB }:: | 1 | **4** | ::{ flag=GB }:: **SoraRoxas** | |
-| **Raiku** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: Jeromelol | |
-| PortalLife ::{ flag=GB }:: | 3 | **4** | ::{ flag=GB }:: **\[AOTN\]** | |
+| **jesus1412** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: Ascension |  |
+| 19120113121308 ::{ flag=GB }:: | 1 | **4** | ::{ flag=GB }:: **SoraRoxas** |  |
+| **Raiku** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: Jeromelol |  |
+| PortalLife ::{ flag=GB }:: | 3 | **4** | ::{ flag=GB }:: **\[AOTN\]** |  |
 
 ### Round of 64
 
 Saturday, 24 January 2015
 
-| Player 1 | | | Player 2 | Notes |
+| Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **Doomsday** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: dagothur13 | |
+| **Doomsday** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: dagothur13 |  |
 | **Slvin** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: xati | *forfeit* |
-| **R a h a r u** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: Snookie | |
-| JonnyTomo ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **LordVenomania** | |
+| **R a h a r u** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: Snookie |  |
+| JonnyTomo ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **LordVenomania** |  |
 | **Kratoslol** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Ike | *forfeit* |
-| **Ommetaphobia** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: OPJames | |
-| **Could This Be** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: ChicagoTed7172 | |
-| Rime ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **WeirdF** | |
-| **SamC** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: litejason | |
-| **Starry-** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Awesomefacerox | |
+| **Ommetaphobia** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: OPJames |  |
+| **Could This Be** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: ChicagoTed7172 |  |
+| Rime ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **WeirdF** |  |
+| **SamC** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: litejason |  |
+| **Starry-** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Awesomefacerox |  |
 | camas ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: xendran | *forfeit* |
-| Edd ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **RndGuy** | |
+| Edd ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **RndGuy** |  |
 | **vidya** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: K E I | *forfeit* |
-| **sullyjhf** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: NatashaGG | |
-| **bahamete** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: N1nYo | |
-| DatPenguinTho ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Ximphia** | |
-| **Navi** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Dminic | |
-| VirtualMuffin ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Guy-** | |
-| **Gadrin** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: Doggywoof | |
-| **jesus1412** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: spirit flare | |
-| Im not green ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Ascension** | |
-| **19120113121308** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Vapor | |
-| **Raiku** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: kenlei2009 | |
-| **Jeromelol** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Pazo | |
+| **sullyjhf** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: NatashaGG |  |
+| **bahamete** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: N1nYo |  |
+| DatPenguinTho ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Ximphia** |  |
+| **Navi** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Dminic |  |
+| VirtualMuffin ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Guy-** |  |
+| **Gadrin** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: Doggywoof |  |
+| **jesus1412** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: spirit flare |  |
+| Im not green ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Ascension** |  |
+| **19120113121308** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Vapor |  |
+| **Raiku** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: kenlei2009 |  |
+| **Jeromelol** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Pazo |  |
 | **PortalLife** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: FHZR | *forfeit* |
-| **\[AOTN\]** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: chineseperson | |
+| **\[AOTN\]** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: chineseperson |  |
 
 Sunday, 25 January 2015
 
-| Player 1 | | | Player 2 | Notes |
+| Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
 | **Swaayy** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Cozzzy | *forfeit* |
-| Neroh ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Vortecs** | |
-| **Run-Cat** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: HabileLawk | |
+| Neroh ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Vortecs** |  |
+| **Run-Cat** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: HabileLawk |  |
 | **Helix** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: YunoWhoItIs | *forfeit* |
 | **LusoryLoL** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Kakiage | *forfeit* |
-| **SoraRoxas** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Elephant_king | |
+| **SoraRoxas** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Elephant_king |  |
 
 ### Round of 128
 
 Saturday, 10 January 2015:
 
-| Player 1 | | | Player 2 | Notes |
+| Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| EzLyn ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **dagothur13** | |
-| BandOfPonies ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **NatashaGG** | |
-| **Slvin** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Vibroxide | |
-| **R a h a r u** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Louis13 | |
+| EzLyn ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **dagothur13** |  |
+| BandOfPonies ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **NatashaGG** |  |
+| **Slvin** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Vibroxide |  |
+| **R a h a r u** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Louis13 |  |
 | Misti ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **JonnyTomo** | *forfeit* |
-| **LordVenomania** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Scootawoo | |
+| **LordVenomania** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Scootawoo |  |
 | **Kratoslol** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: slowlymore2 | *forfeit* |
 | kyou ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **Ike** | *forfeit* |
-| **Ommetaphobia** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: x Hanako | |
-| SgtSitdown ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **OPJames** | |
-| **ChicagoTed7172** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Rolf Harris | |
+| **Ommetaphobia** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: x Hanako |  |
+| SgtSitdown ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **OPJames** |  |
+| **ChicagoTed7172** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Rolf Harris |  |
 | **Rime** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: EdTheSheep | *forfeit* |
-| **WeirdF** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: cawsrun | |
-| **SamC** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Evrae X | |
+| **WeirdF** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: cawsrun |  |
+| **SamC** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Evrae X |  |
 | **Starry-** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: \[Joel\] | *forfeit* |
 | Saferon ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **camas** | *forfeit* |
-| **Doomsday** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: EricT45 | |
-| djsettle ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **xendran** | |
+| **Doomsday** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: EricT45 |  |
+| djsettle ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **xendran** |  |
 
 Sunday, 11 January 2015:
 
-| Player 1 | | | Player 2 | Notes |
+| Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **Edd** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: Cataclysm | |
-| **vidya** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Justify | |
-| **K E I** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: Xswordy | |
-| **Neroh** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: KingNick | |
+| **Edd** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: Cataclysm |  |
+| **vidya** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Justify |  |
+| **K E I** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: Xswordy |  |
+| **Neroh** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: KingNick |  |
 | **Vortecs** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Datso | *forfeit* |
-| **bahamete** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Hydria | |
-| -Panda- ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **N1nYo** | |
-| **DatPenguinTho** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Churcheell | |
-| **Ximphia** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: RedKing | |
+| **bahamete** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Hydria |  |
+| -Panda- ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **N1nYo** |  |
+| **DatPenguinTho** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Churcheell |  |
+| **Ximphia** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: RedKing |  |
 | **Navi** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Tsunami Rin | *forfeit* |
 | \[ YTY \] ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: Dminic | *forfeit* |
-| **Run-Cat** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: DanZqa | |
-| Mahiro Yasaka ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: HabileLawk | |
+| **Run-Cat** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: DanZqa |  |
+| Mahiro Yasaka ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: HabileLawk |  |
 | Kardet ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **VirtualMuffin** | *forfeit* |
 | **Guy-** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Beeboy | *forfeit* |
 | **Helix** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Minfrij | *forfeit* |
-| **LusoryLoL** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Rixta | |
-| **Gadrin** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: S h o e | |
-| **Doggywoof** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: simtom | |
-| **\[AOTN\]** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: HypernovaKilla | |
-| **Kakiage** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: FlipTheFish | |
-| **jesus1412** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: PoisonPanda | |
+| **LusoryLoL** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Rixta |  |
+| **Gadrin** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: S h o e |  |
+| **Doggywoof** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: simtom |  |
+| **\[AOTN\]** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: HypernovaKilla |  |
+| **Kakiage** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: FlipTheFish |  |
+| **jesus1412** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: PoisonPanda |  |
 | **spirit flare** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Kry | *forfeit* |
 
 Wednesday, 14 January 2015:
 
-| Player 1 | | | Player 2 | Notes |
+| Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
 | Alanca ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **Elephant_king** | *forfeit* |
-| **sullyjhf** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Decelvice | |
+| **sullyjhf** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Decelvice |  |
 
 Thursday, 15 January 2015:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **Snookie** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Yixa |
 
 Friday, 16 January 2015:
 
-| Player 1 | | | Player 2 | Notes |
+| Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
 | **Cozzzy** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: georgewday | *forfeit* |
 | **RndGuy** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Dell | *forfeit* |
 
 Saturday, 17 January 2015:
 
-| Player 1 | | | Player 2 | Notes |
+| Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
 | **Im not green** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Taiitoo | *forfeit* |
 | **Ascension** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: I_am_AM | *forfeit* |
-| **19120113121308** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Kappy | |
+| **19120113121308** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Kappy |  |
 | **Vapor** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Woffel | *forfeit* |
-| **Raiku** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Rstrs2402 | |
-| **Jeromelol** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Profound Leader | |
-| **Pazo** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: legoboomette | |
-| **PortalLife** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: sargeant_pig | |
+| **Raiku** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Rstrs2402 |  |
+| **Jeromelol** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Profound Leader |  |
+| **Pazo** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: legoboomette |  |
+| **PortalLife** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: sargeant_pig |  |
 | megalonyx ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **chineseperson** | *forfeit* |
-| **FHZR** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: \[ Darkdog \] | |
+| **FHZR** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: \[ Darkdog \] |  |
 
 Sunday, 18 January 2015:
 
-| Player 1 | | | Player 2 | Notes |
+| Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **SoraRoxas** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Ecliptus | |
+| **SoraRoxas** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Ecliptus |  |
 | **Swaayy** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: C a l l u m | *forfeit* |
 | **xati** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: \[Adie\] | *forfeit* |
-| **Could This Be** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Zeffeng | |
+| **Could This Be** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Zeffeng |  |
 | **litejason** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Jimbot | *forfeit* |
 | Retart ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **Awesomefacerox** | *forfeit* |
 | **YunoWhoItIs** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: destructor966 | *forfeit* |

@@ -89,7 +89,7 @@ I giocatori di osu! in tutte le modalità di gioco usano le beatmap per [salire 
 - Classifica specifica per paese, composta da giocatori con la stessa bandiera;
 - Classifica amici che mostra la posizione di un giocatore sulla mappa rispetto ai suoi amici.
 
-I primi 500 punteggi a ogni difficoltà di una mappa di battuta forniscono [replay](/wiki/Gameplay/Replay), che possono essere guardati online o salvati per essere visualizzati in una classifica locale.
+I primi 1000 punteggi a ogni difficoltà di una mappa di battuta forniscono [replay](/wiki/Gameplay/Replay), che possono essere guardati online o salvati per essere visualizzati in una classifica locale.
 
 ### Charts e Spotlights
 

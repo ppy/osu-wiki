@@ -1,15 +1,18 @@
 ---
-outdated_since: f73885bc3566b09324f542c45bd5c9976383a3b8
-outdated_translation: true
 tags:
+  - group changes
+  - group history
   - promotion
   - retirement
+  - changement de groupes
+  - historique du groupe
+  - promotion
   - retrait
 ---
 
 # Registre du personnel
 
-Les promotions et les retrait du personnel ont été enregistrés pour les rendre plus facile à retrouver pour la communauté.
+Les articles suivants répertorient les promotions et les retraits pour la plupart des [groupes](/wiki/People/User_group) publics ainsi que pour certains rôles du personnel.
 
 - [2007](2007)
 - [2008](2008)
@@ -28,3 +31,5 @@ Les promotions et les retrait du personnel ont été enregistrés pour les rendr
 - [2021](2021)
 - [2022](2022)
 - [2023](2023)
+
+Depuis le 27 octobre 2023, les modifications apportées aux groupes d'utilisateurs sont enregistrées sur la page ["historique des groupes" du site web](https://osu.ppy.sh/groups/history). Ces articles du wiki ne sont plus mis à jour.

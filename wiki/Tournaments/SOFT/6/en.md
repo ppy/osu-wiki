@@ -104,7 +104,7 @@ This competition has come to an end and resulted in the following podium:
 | Placing | User |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CL }:: **[\[GS\]Myuka](https://osu.ppy.sh/users/10072733)** |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: **[Xvenn](https://osu.ppy.sh/users/13390529)** |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=SG }:: **[Xvenn](https://osu.ppy.sh/users/13390529)** |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=BR }:: **[SillyFangirl](https://osu.ppy.sh/users/2288363)** |
 
 ## Mappools

@@ -168,7 +168,7 @@ This competition has come to an end and resulted in the following podium:
 
 Sunday, 2 October 2016:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | Catgirl ::{ flag=US }:: | 1 | **4** | ::{ flag=GB }:: **Pelzio** |
 
@@ -176,7 +176,7 @@ Sunday, 2 October 2016:
 
 Monday, 3 October 2016:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | 1x 100 ::{ flag=CZ }:: | 0 | **4** | ::{ flag=GB }:: **Doomsday** |
 
@@ -184,7 +184,7 @@ Monday, 3 October 2016:
 
 Sunday, 2 October 2016:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | 1x 100 ::{ flag=CZ }:: | 1 | **4** | ::{ flag=US }:: **Catgirl** |
 | Doomsday ::{ flag=GB }:: | 2 | **4** | ::{ flag=GB }:: **Pelzio** |
@@ -193,20 +193,20 @@ Sunday, 2 October 2016:
 
 Friday, 23 September 2016:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **Doomsday** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: Doughy |
 
 Sunday, 25 September 2016:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | **1x 100** ::{ flag=CZ }:: | **4** | 3 | ::{ flag=GB }:: YunoWhoItIs |  |
 | **Pelzio** ::{ flag=GB }:: | **1** | 0 | ::{ flag=CA }:: - Auto - | *forfeit* |
 
 Saturday, 1 October 2016:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | Jerome ::{ flag=GB }:: | 2 | **4** | ::{ flag=US }:: **Catgirl** |
 
@@ -214,14 +214,14 @@ Saturday, 1 October 2016:
 
 Saturday, 17 September 2016:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **YunoWhoItIs** ::{ flag=GB }:: | **4** | 0 | ::{ flag=AU }:: jamimc2 |
 | Bubbleman ::{ flag=GB }:: | 0 | **4** | ::{ flag=CZ }:: **1x 100** |
 
 Sunday, 18 September 2016:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | **Doomsday** ::{ flag=GB }:: | **4** | 1 | ::{ flag=FI }:: BitComet |  |
 | NyarkoO ::{ flag=CZ }:: | 0 | **4** | ::{ flag=US }:: **Catgirl** |  |
@@ -231,7 +231,7 @@ Sunday, 18 September 2016:
 
 Monday, 19 September 2016:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | **Jerome** ::{ flag=GB }:: | **1** | 0 | ::{ flag=FI }:: Kissatyty | *forfeit* |
 
@@ -239,14 +239,14 @@ Monday, 19 September 2016:
 
 Friday, 9 September 2016:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **Doomsday** ::{ flag=GB }:: | **4** | 2 | ::{ flag=FI }:: Sanakirja |
 | Halfslashed ::{ flag=US }:: | 1 | **4** | ::{ flag=GB }:: **dong** |
 
 Saturday, 10 September 2016:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | wufwuf ::{ flag=GB }:: | 1 | **4** | ::{ flag=GB }:: **jamimc2** |  |
 | Lefafel ::{ flag=FI }:: | 3 | **4** | ::{ flag=GB }:: **Doughy** |  |
@@ -259,7 +259,7 @@ Saturday, 10 September 2016:
 
 Sunday, 11 September 2016:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | Sam ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **Jerome** | *forfeit* |
 | **1x 100** ::{ flag=CZ }:: | **1** | 0 | ::{ flag=RO }:: MaddaFakka-sama | *forfeit* |
@@ -269,13 +269,13 @@ Sunday, 11 September 2016:
 
 Tuesday, 13 September 2016:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | Seraxis ::{ flag=GB }:: | 2 | **4** | ::{ flag=FI }:: **Kissatyty** |
 
 ### Round of 64
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | Rei yo ::{ flag=DE }:: | 0 | **1** | ::{ flag=GB }:: **Lewd** | *forfeit* |
 | Blegie ::{ flag=DE }:: | 2 | **3** | ::{ flag=CZ }:: **1x 100** |  |
@@ -283,7 +283,7 @@ Tuesday, 13 September 2016:
 | dika312  ::{ flag=ID }:: | 0 | **1** | ::{ flag=GB }:: **YunoWhoItIs** | *forfeit* |
 | **MicMck101** ::{ flag=US }:: | **1** | 0 | ::{ flag=DE }:: xXMalvinXx | *forfeit* |
 | -Lolisim- ::{ flag=US }:: | 0 | **3** | ::{ flag=GB }:: **WufWuf** |  |
-| **jamimc2** ::{ flag=AU }:: | **1** | 0 | ::{ flag=HU }:: scuoa  | *forfeit* |
+| **jamimc2** ::{ flag=AU }:: | **1** | 0 | ::{ flag=HU }:: scuoa | *forfeit* |
 | **Sam** ::{ flag=GB }:: | **3** | 0 | ::{ flag=CL }:: \[Burno-\] |  |
 | Zetopweaboo ::{ flag=AU }:: | 0 | **3** | ::{ flag=GB }:: **Jerome** |  |
 | Sexual Tentacle ::{ flag=CA }:: | 0 | **3** | ::{ flag=GB }:: **SEXaris** |  |

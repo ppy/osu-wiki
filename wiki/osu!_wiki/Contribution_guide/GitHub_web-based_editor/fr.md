@@ -22,7 +22,7 @@ Bien que tous les menus soient accessibles depuis l'interface de l'éditeur, la 
 
 ## Branching
 
-Après avoir lu [Bonnes pratiques § Faire des modifications](/wiki/osu!_wiki/Contribution_guide/Best_practices#faire-des-modifications), créez une nouvelle branche pour y stocker vos modifications.
+Après avoir lu [Bonnes pratiques § Faire des modifications](/wiki/osu!_wiki/Contribution_guide/Best_practices#effectuer-des-modifications), créez une nouvelle branche pour y stocker vos modifications.
 
 1. Cliquez sur le nom de la branche courante dans le coin inférieur gauche, ou appuyez sur `F1` et tapez `branch`.
    - Sélectionnez `Create new branch...`, entrez le nom de la branche, et appuyez sur `Entrée`.
