@@ -763,7 +763,7 @@ Notas:
 
 - Este elemento se ve cuando el jugador tiene una gran cantidad de HP, aproximadamente más del 50 %, durante un descanso lo suficientemente largo.
 
-### Cuenta atrás
+### Cuenta regresiva
 
 `count1.png`
 
