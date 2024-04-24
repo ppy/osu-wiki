@@ -40,7 +40,7 @@ Durch ein großes Update am 26. Januar erhielt osu! viele neue Funktionen.[^stab
 
 Am 14. Februar wurde die vierte Austragung des osu! Community Meetings abgehalten, bei dem es um die Moderation von Beatmaps, eine neue, kommende Übersetzungsfunktion und Fragen bezüglich der Erweiterung des osu!-Teams ging.[^community-meeting-4]
 
-Das [Kudosu-System](/wiki/Kudosu) wurde zur Vereinfachung des [Beatmap-Modding](/wiki/Modding) im [Ranking-Verfahren](/wiki/Beatmap_ranking_procedure) implementiert. Mapper konnten Leute mit Punkten (genannt Kudosu) für nützliche und konstruktive Kritiken honorieren. 3 Kudosu-Punkte konnten gegen 1 Kudosu-Stern eingetauscht werden, der dann dazu genutzt werden konnte, um den Rang der Beatmap in der Modding-Prioritätenliste des [Beatmap Appreciation Teams](/wiki/People/Beatmap_Appreciation_Team) (BAT) zu erhöhen.[^kudosu-1]
+Das [Kudosu-System](/wiki/Kudosu) wurde zur Vereinfachung des [Beatmap-Modding](/wiki/Modding) im [Ranking-Verfahren](/wiki/Beatmap_ranking_procedure) implementiert. Mapper bekamen die Möglichkeit, Leute mit Punkten (genannt Kudosu) für nützliche und konstruktive Kritiken honorieren. 3 Kudosu-Punkte konnten gegen 1 Kudosu-Stern eingetauscht werden, der dann genutzt werden konnte, um den Rang der Beatmap in der Modding-Prioritätenliste des [Beatmap Appreciation Teams](/wiki/People/Beatmap_Appreciation_Team) (BAT) zu erhöhen.[^kudosu-1]
 
 ## März
 
@@ -70,7 +70,7 @@ Bis zu diesem Zeitpunkt war osu! nur in Englisch verfügbar. Mit der Einführung
 
 Am 14. Juli wurden die osu!-Neuigkeiten als [RSS-Feed](https://en.wikipedia.org/wiki/RSS) verfügbar.[^rss-news]
 
-Zwei Updates diesen Monat brachten eine neue Option für eine geringere Maussensitivität sowie neue Befehlsparameter und -Kürzel, um [Storyboard-Scripting](/wiki/Storyboard/Scripting) in osu! zu vereinfachen.[^stable-b753c][^stable-b709]
+Zwei Updates diesen Monat brachten eine neue Option für eine geringere Maussensitivität sowie neue Befehlsparameter und -kürzel, um [Storyboard-Scripting](/wiki/Storyboard/Scripting) in osu! zu vereinfachen.[^stable-b753c][^stable-b709]
 
 Der Datenbankserver wurde mit einer zusätzlichen 32 GB SSD ausgestattet, um in Zukunft mehr Speicherplatz bereitstellen zu können.[^server-upgrade]
 
@@ -80,13 +80,13 @@ Nachdem ein erster initialer Test für Online-Ranglisten in Taiko im März abges
 
 Das Twitter-Konto [@osustatus](https://twitter.com/osustatus) wurde erstellt, um Spieler über Probleme mit [Bancho](/wiki/Bancho_(server)) und der Webseite zu informieren.[^osustatus]
 
-osu! erhielt in einem Update am 12. August den neuen Parameter `LoopType`, um Storyboard-Objekte wiederholend in einer Schleife darzustellen, und die Mod [Relax](/wiki/Gameplay/Game_modifier/Relax) für den Spielmodus Taiko. Zusätzlich wurde eine Vorabversion von [AiMod](/wiki/Client/Beatmap_editor/AiMod) veröffentlicht, ein Tool zur Erkennung von Problemen in Beatmaps.[^stable-b825]
+osu! erhielt in einem Update am 12. August den neuen Parameter `LoopType`, um Storyboard-Objekte wiederholend in einer Schleife darzustellen, und die Mod [Relax](/wiki/Gameplay/Game_modifier/Relax) für den Spielmodus Taiko. Zusätzlich wurde eine Vorabversion von [AiMod](/wiki/Client/Beatmap_editor/AiMod), einem Tool zur Erkennung von Problemen in Beatmaps, veröffentlicht.[^stable-b825]
 
 ## September
 
 Durch Updates diesen Monat wurden neue Funktionen integriert, darunter Breitbildunterstützung für die Songauswahl[^stable-b904a] und die Möglichkeit, Freunde auf der Webseite hinzufügen zu können.[^custom-changelog] Außerdem wird das Taiko-Maskottchen [pippidon](/wiki/Mascots#pippi) jetzt während des Spielens in der linken, oberen Ecke angezeigt.[^stable-b898]
 
-Am 6. September wurden im Zuge eines verbesserten Bewertungsalgorithmus alle [Taiko-Scores zurückgesetzt](https://osu.ppy.sh/community/forums/topics/17118?n=1).
+Am 6. September wurden alle [Taiko-Scores zurückgesetzt](https://osu.ppy.sh/community/forums/topics/17118?n=1), um einen besseren Bewertungsalgorithmus nutzen zu können.
 
 ## Oktober
 
@@ -98,7 +98,7 @@ Zusätzlich zu den osu!-News im Juli 2009 konnte das [Änderungsprotokoll](/wiki
 
 ## November
 
-Dank eines osu!-Updates am 18. Oktober wurde es Nutzern möglich, Kommentare zu [Replays](/wiki/Gameplay/Replay) hinzufügen.[^custom-changelog] Des Weiteren konnte mit `Shift` + `F12` automatisch ein Screenshot zu den osu!-Servern hochgeladen werden.[^stable-b1118]
+Dank eines osu!-Updates am 18. Oktober wurde es Nutzern möglich, Kommentare zu [Replays](/wiki/Gameplay/Replay) hinzuzufügen.[^custom-changelog] Des Weiteren konnte mit `Shift` + `F12` automatisch ein Screenshot zu den osu!-Servern hochgeladen werden.[^stable-b1118]
 
 Zwei Meilensteine wurden diesen Monat erreicht. Am 15. November waren insgesamt 50.000.000 Spiele auf Ranglisten vorhanden und mit Stand vom 20. November hatte osu! 200.000 registrierte Nutzer.[^play-count][^user-count-2]
 
@@ -106,7 +106,7 @@ Zwei Meilensteine wurden diesen Monat erreicht. Am 15. November waren insgesamt 
 
 In diesem Monat wurde das [Mapping Assistance Team](/wiki/People/Mapping_Assistance_Team) (MAT) vorgestellt. Das MAT war dafür verantwortlich, [ausstehende Beatmaps](/wiki/Beatmap/Category#wip-and-pending) auszuwählen, die von angemessener Qualität waren und sie für den Ranked-Status zu empfehlen, der im [Forum-Modding](/wiki/Modding/Forum_modding) vom [BAT](/wiki/People/Beatmap_Appreciation_Team) entschieden wurde.[^mat]
 
-Ein osu!-Update brachte [Hyperdashes](/wiki/Gameplay/Hyperdash) für unmögliche Sprünge in den Spielmodus Catch the Beat rein, bei denen Spieler nach dem Aufsammeln einer [Hyperfruit](/wiki/Gameplay/Hit_object/Hyperfruit) für einen kurzen Moment eine höhere Geschwindigkeit bekommen. Zusätzlich wurde eine Vorschau zur Auflistung von Online-Nutzern in der [erweiterten Chatkonsole](/wiki/Client/Interface/Chat_console#erweiterte-chatkonsole) implementiert.[^stable-b1209]
+Ein osu!-Update brachte [Hyperdashes](/wiki/Gameplay/Hyperdash) für unmögliche Sprünge in den Spielmodus Catch the Beat ein, bei denen Spieler nach dem Aufsammeln einer [Hyperfruit](/wiki/Gameplay/Hit_object/Hyperfruit) für einen kurzen Moment eine höhere Geschwindigkeit bekommen. Zusätzlich wurde eine Vorschau zur Auflistung von Online-Nutzern in der [erweiterten Chatkonsole](/wiki/Client/Interface/Chat_console#erweiterte-chatkonsole) implementiert.[^stable-b1209]
 
 Das Forum [Community Voice](https://osu.ppy.sh/community/forums/65) wurde hinzugefügt. Das Ziel war es, die Community unterschiedliche Fragen zu stellen, bei denen Nutzer in wöchentlichen Umfragen abstimmen konnten.[^weekly-polls]
 
