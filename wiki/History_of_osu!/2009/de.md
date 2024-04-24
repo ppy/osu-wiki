@@ -38,7 +38,7 @@ Durch ein großes Update am 26. Januar erhielt osu! viele neue Funktionen.[^stab
 
 ## Februar
 
-Am 14. Februar wurde die vierte Austragung des osu! Community Meetings abgehalten, bei dem es um die Moderation von Beatmaps, eine neue, kommende Übersetzungsfunktion und Fragen bezüglich der Erweiterung des osu!-Teams ging.[^community-meeting-4]
+Am 14. Februar wurde die vierte Austragung des osu! Community Meetings abgehalten, bei dem es um die Moderation von Beatmaps, eine neue, kommende Lokalisierungsfunktion und Fragen bezüglich der Erweiterung des osu!-Teams ging.[^community-meeting-4]
 
 Das [Kudosu-System](/wiki/Kudosu) wurde zur Vereinfachung des [Beatmap-Modding](/wiki/Modding) im [Ranking-Verfahren](/wiki/Beatmap_ranking_procedure) implementiert. Mapper bekamen die Möglichkeit, Leute mit Punkten (genannt Kudosu) für nützliche und konstruktive Kritiken honorieren. 3 Kudosu-Punkte konnten gegen 1 Kudosu-Stern eingetauscht werden, der dann genutzt werden konnte, um den Rang der Beatmap in der Modding-Prioritätenliste des [Beatmap Appreciation Teams](/wiki/People/Beatmap_Appreciation_Team) (BAT) zu erhöhen.[^kudosu-1]
 
