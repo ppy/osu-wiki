@@ -1,4 +1,4 @@
-# skin.ini
+# Archivo skin.ini
 
 *Véase también: [skin.ini en blanco](/wiki/Skinning/skin.ini/Blank)*
 
@@ -20,7 +20,7 @@ Si tu `skin.ini` no especifica el comando `Version`, la versión predeterminada 
 
 - Los números del círculo son parte de las explosiones de impacto.
 - Gran expansión de la iluminación de impacto (`lighting.png`).
-- Estilo antiguo del spinner (`spinner-circle.png`, `spinner-background.png`, y `spinner-metre.png`).
+- Estilo antiguo para los spinners (`spinner-circle.png`, `spinner-background.png`, y `spinner-metre.png`).
 - Creación de una imagen de cuenta regresiva segmentada.
 - Imágenes de la barra de selección más pequeñas (altura máxima de 87 píxeles).
 - Flecha de advertencia de juego sin color durante el final de los descansos.
@@ -33,9 +33,9 @@ Si tu `skin.ini` no especifica el comando `Version`, la versión predeterminada 
 
 - Skins de alta definición.
   - Usa el sufijo `@2x.png` en el elemento de skinning para que osu! sepa que el elemento de skinning es de mayor calidad.
-- Nuevo estilo del spinner (`spinner-middle.png`, `spinner-middle2.png`, `spinner-top.png`, `spinner-bottom.png`, y `spinner-glow.png`).
-- Secuencia de cuenta atrás en lugar de una imagen segmentada.
-  - Las cuentas atrás ahora están centradas.
+- Estilo nuevo para los spinners (`spinner-middle.png`, `spinner-middle2.png`, `spinner-top.png`, `spinner-bottom.png`, y `spinner-glow.png`).
+- Secuencia de la cuenta regresiva en lugar de una imagen segmentada.
+  - Las cuentas regresivas ahora están centradas.
 - Los números de los círculos ya no forman parte de las explosiones de impacto.
 - Flecha de advertencia de juego de color rojo durante el final de los descansos.
 - Ampliación más pequeña de `lighting.png`.
@@ -321,7 +321,7 @@ osu! organiza los comandos con un comando de encabezado. Que puede verse así `[
   - Por defecto: `0,0,0`
   - Notas:
     - Esto es solo para [osu!](/wiki/Game_mode/osu!) y [osu!catch](/wiki/Game_mode/osu!catch).
-    - Esto tiñe los números que se muestran en la superposición de entrada.
+    - Esto tiñe los números que se muestran en la superposición de las teclas.
 - `MenuGlow:`
   - Pregunta: ¿De qué color deberían colorearse las barras de espectro en el menú principal?
   - Valor: *RGB*
@@ -329,7 +329,7 @@ osu! organiza los comandos con un comando de encabezado. Que puede verse así `[
   - Notas:
     - [osu!supporter](/wiki/osu!supporter) requerido
 - `SliderBall:`
-  - Pregunta: ¿De qué color debería colorearse la bola del slider predeterminada?
+  - Pregunta: ¿De qué color deberían colorearse las bolas predeterminadas de los sliders?
   - Valor: *RGB*
   - Por defecto: `2,170,255`
   - Notas:
@@ -342,9 +342,9 @@ osu! organiza los comandos con un comando de encabezado. Que puede verse así `[
   - Notas:
     - Esto es solo para [osu!](/wiki/Game_mode/osu!).
 - `SliderTrackOverride:`
-  - Pregunta: ¿De qué color debería colorearse todos los cuerpos de los sliders?
+  - Pregunta: ¿De qué color deberían colorearse todos los cuerpos de los sliders?
   - Valor: *RGB*
-  - Por defecto: *usar el color del combo actual*
+  - Por defecto: *usa el color del combo actual*
   - Notas:
     - Esto es solo para [osu!](/wiki/Game_mode/osu!).
     - Usar esto hará que todos los colores de las trayectorias de los sliders sean iguales.
@@ -357,7 +357,7 @@ osu! organiza los comandos con un comando de encabezado. Que puede verse así `[
   - Valor: *RGB*
   - Por defecto: `255,255,255`
 - `SpinnerBackground:`
-  - Pregunta: ¿Qué color se debería añadir al fondo del spinner?
+  - Pregunta: ¿Qué color se debería añadir al fondo de los spinners?
   - Valor: *RGB*
   - Por defecto: `100,100,100`
 - `StarBreakAdditive:`
@@ -430,7 +430,7 @@ osu! organiza los comandos con un comando de encabezado. Que puede verse así `[
 
 **Notas:**
 
-- Si deseas personalizar completamente el escenario de osu!mania, usa la versión de skin `2.5` o superior.
+- Si deseas personalizar completamente el escenario de osu!mania, usa la versión de skin `2.5` o versiones superiores.
 - Los comandos que piden posicionar algo horizontalmente se basan en una altura de 480 píxeles.
 - Cuando un comando depende del número total de teclas:
   - si se usan demasiadas, las extras se ignoran.
@@ -521,7 +521,7 @@ Keys: 5
   - Notas:
     - `StageHint`, `LightingN`, y `LightingL` se trazan en esta posición
 - `LightPosition:`
-  - Pregunta: On which height should the stage lights be drawn at?
+  - Pregunta: ¿A qué altura deberían trazarse las luces del escenario?
   - Valor: *entero*
   - Por defecto: `413`
   - Notas:
@@ -602,13 +602,13 @@ Keys: 5
   - Valor: `0` o `1`
   - Por defecto: `1`
   - Notas:
-    - Requiere la versión de skin `2.5` o superior.
+    - Requiere la versión de skin `2.5` o versiones superiores.
     - Esto se aplica a todas las columnas.
 - `KeyFlipWhenUpsideDown#:`
   - Pregunta: ¿La tecla de la **columna especificada** debería voltearse cuando se voltea el escenario?
   - Valor: `0` o `1`
   - Notas:
-    - Requiere la versión de skin `2.5` o superior.
+    - Requiere la versión de skin `2.5` o versiones superiores.
     - Esto se aplica a la columna especificada.
     - Sustituye `#` por un índice de columna válido (de 0 a 17).
 - `NoteFlipWhenUpsideDown:`
@@ -616,50 +616,50 @@ Keys: 5
   - Valor: `0` o `1`
   - Por defecto: `1`
   - Notas:
-    - Requiere la versión de skin `2.5` o superior.
+    - Requiere la versión de skin `2.5` o versiones superiores.
     - Esto se aplica a todas las columnas.
 - `KeyFlipWhenUpsideDown#D:`
   - Pregunta: ¿Se debería voltear la tecla presionada de la columna cuando se voltea el escenario?
   - Valor: `0` o `1`
   - Notas:
-    - Requiere la versión de skin `2.5` o superior.
+    - Requiere la versión de skin `2.5` o versiones superiores.
     - Esto se aplica al estado de la tecla presionada de la columna especificada.
 - `NoteFlipWhenUpsideDown#:`
   - Pregunta: ¿Se debería voltear la nota de la columna cuando se voltea el escenario?
   - Valor: `0` o `1`
   - Notas:
-    - Requiere la versión de skin `2.5` o superior.
+    - Requiere la versión de skin `2.5` o versiones superiores.
     - Columna específica (para las notas)
 - `NoteFlipWhenUpsideDown#H:`
   - Pregunta: ¿Se debería voltear el inicio de las notas largas de la columna cuando se voltea el escenario?
   - Valor: `0` o `1`
   - Notas:
-    - Requiere la versión de skin `2.5` o superior.
+    - Requiere la versión de skin `2.5` o versiones superiores.
     - Columna específica (para las partes de la cabeza de las notas largas)
 - `NoteFlipWhenUpsideDown#L:`
   - Pregunta: ¿Se debería voltear el cuerpo de las notas largas de la columna cuando se voltea el escenario?
   - Valor: `0` o `1`
   - Notas:
-    - Requiere la versión de skin `2.5` o superior.
+    - Requiere la versión de skin `2.5` o versiones superiores.
     - Columna específica (para las partes largas de las notas largas)
 - `NoteFlipWhenUpsideDown#T:`
   - Pregunta: ¿Se debería voltear el final de las notas largas de la columna cuando se voltea el escenario?
   - Valor: `0` o `1`
   - Notas:
-    - Requiere la versión de skin `2.5` o superior.
+    - Requiere la versión de skin `2.5` o versiones superiores.
     - Columna específica (para las partes de la cola de las notas largas)
 - `NoteBodyStyle:`
   - Pregunta: ¿Qué estilo se debería usar para todos los cuerpos de las notas largas?
   - Valor: `0`, `1` o `2`
   - Por defecto: `1`
   - Notas:
-    - Requiere la versión de skin `2.5` o superior.
+    - Requiere la versión de skin `2.5` o versiones superiores.
     - Todas las columnas.
 - `NoteBodyStyle#:`
   - Pregunta: ¿Qué estilo se debería usar para todos los cuerpos de las notas largas?
   - Valor: `0`, `1` o `2`
   - Notas:
-    - Requiere la versión de skin `2.5` o superior.
+    - Requiere la versión de skin `2.5` o versiones superiores.
     - Columna específica (para las notas)
 - `Colour#:`
   - Pregunta: ¿Qué color se debería usar para el carril de la columna?
@@ -708,35 +708,35 @@ Keys: 5
   - Notas:
     - Este es el color del contador del combo durante una ruptura de combo.
 - `KeyImage#:`
-  - Pregunta: ¿Cuál será el nombre de la imagen de la tecla no presionada de la columna?
+  - Pregunta: ¿Cuál será el nombre de la imagen de las teclas no presionadas de la columna?
   - Valor: texto *(ruta de la imagen)*
   - Notas:
-    - Esto es para la imagen de la tecla inactiva de la columna específica.
+    - Esto es para la imagen de las teclas inactivas de la columna específica.
 - `KeyImage#D:`
-  - Pregunta: ¿Cuál será el nombre de la imagen de la tecla presionada de la columna?
+  - Pregunta: ¿Cuál será el nombre de la imagen de las teclas presionadas de la columna?
   - Valor: texto *(ruta de la imagen)*
   - Notas:
-    - Esto es para la imagen de la tecla presionada de la columna específica.
+    - Esto es para la imagen de las teclas presionadas de la columna específica.
 - `NoteImage#:`
-  - Pregunta: ¿Cuál será el nombre de la imagen de la nota de la columna?
+  - Pregunta: ¿Cuál será el nombre de la imagen de las notas de la columna?
   - Valor: texto *(ruta de la imagen)*
   - Notas:
-    - Esto es para la imagen de la nota de la columna específica.
+    - Esto es para la imagen de las notas de la columna específica.
 - `NoteImage#H:`
-  - Pregunta: ¿Cuál será el nombre de la imagen de la cabeza de la nota larga de la columna?
+  - Pregunta: ¿Cuál será el nombre de la imagen de las cabezas de las notas largas de la columna?
   - Valor: texto *(ruta de la imagen)*
   - Notas:
-    - Esto es para la imagen de la cabeza de la nota larga de la columna específica.
+    - Esto es para la imagen de las cabezas de las notas largas de la columna específica.
 - `NoteImage#L:`
-  - Pregunta: ¿Cuál será el nombre de la imagen del cuerpo de la nota larga de la columna?
+  - Pregunta: ¿Cuál será el nombre de la imagen de los cuerpos de las notas largas de la columna?
   - Valor: texto *(ruta de la imagen)*
   - Notas:
-    - Esto es para la imagen del cuerpo de la nota larga de la columna específica.
+    - Esto es para la imagen de los cuerpos de las notas largas de la columna específica.
 - `NoteImage#T:`
-  - Pregunta: ¿Cuál será el nombre de la imagen de la cola de la nota larga de la columna?
+  - Pregunta: ¿Cuál será el nombre de la imagen de las colas de las notas largas de la columna?
   - Valor: texto *(ruta de la imagen)*
   - Notas:
-    - Esto es para la imagen de la cola de la nota larga de la columna específica.
+    - Esto es para la imagen de las colas de las notas largas de la columna específica.
 - `StageLeft:`
   - Pregunta: ¿Cuál será el nombre de la imagen a la izquierda del escenario?
   - Valor: texto *(ruta de la imagen)*
@@ -748,7 +748,7 @@ Keys: 5
   - Notas:
     - Este es el borde derecho.
 - `StageBottom:`
-  - Pregunta: ¿Cuál será el nombre de la imagen de abajo del escenario?
+  - Pregunta: ¿Cuál será el nombre de la imagen abajo del escenario?
   - Valor: texto *(ruta de la imagen)*
   - Notas:
     - Esto **no** se estirará para encajar
@@ -763,10 +763,10 @@ Keys: 5
   - Notas:
     - Esta es la iluminación de la columna.
 - `LightingN:`
-  - Pregunta: ¿Cuál será el nombre de la imagen de la iluminación de la nota?
+  - Pregunta: ¿Cuál será el nombre de la imagen de la iluminación de las notas?
   - Valor: texto *(ruta de la imagen)*
 - `LightingL:`
-  - Pregunta: ¿Cuál será el nombre de la imagen luminosa de la nota larga?
+  - Pregunta: ¿Cuál será el nombre de la imagen de la iluminación de las notas largas?
   - Valor: texto *(ruta de la imagen)*
 - `WarningArrow:`
   - Pregunta: ¿Cuál será el nombre de la imagen de la flecha de advertencia?
