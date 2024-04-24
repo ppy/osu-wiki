@@ -438,6 +438,7 @@ All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/a
 | :-- | :-- |
 | 40mP | ![][false] |
 | ak+q | ![][false] |
+| DJMax (Neowiz) | ![][false] |
 | Draw the Emotional | ![][false] |
 | Enter Shikari | ![][false] |
 | EZFG | ![][false] |

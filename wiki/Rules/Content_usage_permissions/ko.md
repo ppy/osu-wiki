@@ -438,6 +438,7 @@ osu!의 공식 아티스트 카탈로그 이외의 곡을 사용할 때는 창�
 | :-- | :-- |
 | 40mP | ![][false] |
 | ak+q | ![][false] |
+| DJMax (Neowiz) | ![][false] |
 | Draw the Emotional | ![][false] |
 | Enter Shikari | ![][false] |
 | EZFG | ![][false] |

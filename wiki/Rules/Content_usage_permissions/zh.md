@@ -438,6 +438,7 @@ osu! 的核心，是能够让玩家们自由创作，并与其他玩家分享作
 | :-- | :-- |
 | 40mP | ![][false] |
 | ak+q | ![][false] |
+| DJMax (Neowiz) | ![][false] |
 | Draw the Emotional | ![][false] |
 | Enter Shikari | ![][false] |
 | EZFG | ![][false] |

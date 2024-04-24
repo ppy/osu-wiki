@@ -442,6 +442,7 @@ Toutes les pistes listées sur la liste des [Featured Artist](https://osu.ppy.sh
 | :-- | :-- |
 | 40mP | ![][false] |
 | ak+q | ![][false] |
+| DJMax (Neowiz) | ![][false] |
 | Draw the Emotional | ![][false] |
 | Enter Shikari | ![][false] |
 | EZFG | ![][false] |
