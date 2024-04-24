@@ -146,7 +146,7 @@ Notas:
 
 Notas:
 
-- Se reproduce al pulsar `Atrás` en el menú principal.
+- Se reproduce al hacer clic en `Atrás` en el menú principal.
 
 ---
 
@@ -440,13 +440,13 @@ Notas:
 Notas:
 
 - En el editor de beatmaps, esto se reproduce para las pequeñas marcas blancas; sin embargo, el editor de beatmaps solo usará los sonidos predeterminados.
-- A pesar de lo anterior, a esto se le puede poner un audio para el asistente de compensación y los plátanos en osu!catch (el tono sube por cada plátano capturado).
+- A pesar de lo anterior, a esto se le puede poner un audio para el asistente de compensación y los plátanos en osu!catch (el tono sube por cada plátano atrapado).
 
 ## Dentro de una partida
 
 Los siguientes sonidos del juego se pueden personalizar para los beatmaps.
 
-### Para la cuenta atrás
+### Para la cuenta regresiva
 
 `count.wav`
 
