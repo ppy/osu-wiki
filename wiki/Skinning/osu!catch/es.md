@@ -8,7 +8,7 @@
 
 | Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 2.3 o superiores | ![Sí][true] | ![Sí][true] | Normal | Arriba | Anchura mínima: 302px |
+| 2.3 o superiores | ![Sí][true] | ![Sí][true] | Normal | Arriba | Anchura mínima: 302 píxeles |
 
 Notas:
 
@@ -68,7 +68,7 @@ Notas:
 - Nombre de la animación: `fruit-ryuuta-{n}.png`
 - Este debe mirar hacia la derecha.
 
-## Combo burst
+## Combo bursts
 
 `comboburst-fruits.png`
 
@@ -76,13 +76,13 @@ Notas:
 
 | Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 2.3 o superiores | ![No][false] (véase las notas) | ![Sí][true] | Normal | Abajo a la izquierda | Altura máxima: 768px |
+| 2.3 o superiores | ![No][false] (véase las notas) | ![Sí][true] | Normal | Abajo a la izquierda | Altura máxima: 768 píxeles |
 
 Notas:
 
 - Para tener múltiples combo bursts, usa: `comboburst-fruits-{n}.png`.
   - Una de las imágenes del conjunto aparecerá cuando se alcance un hito de combo.
-- En la versión 2.2 o anteriores, se usará `comboburst.png` en su lugar.
+- En la versión 2.2 o en versiones anteriores, se usará `comboburst.png` en su lugar.
 - Combo bursts específicos de osu!catch
 - Esto se puede desactivar en las [opciones](/wiki/Client/Options).
 - Este debe mirar hacia la derecha.
