@@ -1,6 +1,6 @@
 # Skinning de osu!mania
 
-Desde la versión 2.5+, los skinners ahora pueden personalizar completamente las notas y el escenario de osu!mania usando el archivo [skin.ini](/wiki/Skinning/skin.ini). Lo siguiente es lo que osu! reconocerá si uno elige no usar el `skin.ini` para una mayor personalización.
+Desde la versión 2.5 o en versiones posteriores, los skinners ahora pueden personalizar completamente las notas y el escenario de osu!mania usando el archivo [skin.ini](/wiki/Skinning/skin.ini). Lo siguiente es lo que osu! reconocerá si uno elige no usar el `skin.ini` para una mayor personalización.
 
 ## Hit Bursts
 
@@ -102,7 +102,7 @@ Notas:
 - Este elemento tiene una animación en bucle fijo de 60 FPS.
 - Si se usa una ruta personalizada, la pantalla de resultados usará el archivo del directorio raíz en lugar del elemento de skinning con ruta.
 
-## Combo burst
+## Combo bursts
 
 `comboburst-mania.png`
 
@@ -110,13 +110,13 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] (véase las notas) | ![Sí][true] | Normal | Abajo a la izquierda | Altura máxima: 768px |
+| Todas | ![No][false] (véase las notas) | ![Sí][true] | Normal | Abajo a la izquierda | Altura máxima: 768 píxeles |
 
 Notas:
 
 - Para tener múltiples combo bursts, usa: `comboburst-mania-{n}.png`.
   - Una de las imágenes del conjunto aparecerá cuando se alcance un hito de combo.
-- combo bursts específicos de osu!mania
+- Combo bursts específicos de osu!mania
 - Esto se puede desactivar en las [opciones](/wiki/Client/Options).
 - A diferencia de los combo bursts de osu! y osu!catch, no deben recortarse todos los bordes de este conjunto de imágenes.
 
@@ -263,7 +263,7 @@ Notas:
 
 ### Notas largas
 
-#### Cabeza
+#### Cabezas
 
 `mania-note1H.png`
 
@@ -276,8 +276,8 @@ Notas:
 Notas:
 
 - Nombre de la animación: `mania-note1H-{n}.png`.
-- Por defecto, esta también es la parte de la cola.
-  - Cuando se usa para la parte de la cola, este elemento se voltea de forma predeterminada para la versión 2.5+.
+- Por defecto, esto también es la parte de la cola.
+  - Cuando se usa para la parte de la cola, este elemento se voltea de forma predeterminada para la versión 2.5 o versiones posteriores.
     - Este comportamiento se puede desactivar estableciendo `NoteFlipWhenUpsideDownT` en `0`.
 - Este elemento se escala para ajustarse a las columnas individuales.
   - Si la anchura de las columnas es diferente: la más pequeña se escala correctamente y las demás se comprimen para igualar su altura.
@@ -296,8 +296,8 @@ Notas:
 Notas:
 
 - Nombre de la animación: `mania-note2H-{n}.png`.
-- Por defecto, esta también es la parte de la cola.
-  - Cuando se usa para la parte de la cola, este elemento se voltea de forma predeterminada para la versión 2.5+.
+- Por defecto, esto también es la parte de la cola.
+  - Cuando se usa para la parte de la cola, este elemento se voltea de forma predeterminada para la versión 2.5 o versiones posteriores.
     - Este comportamiento se puede desactivar estableciendo `NoteFlipWhenUpsideDownT` en `0`.
 - Este elemento se escala para ajustarse a las columnas individuales.
   - Si la anchura de las columnas es diferente: la más pequeña se escala correctamente y las demás se comprimen para igualar su altura.
@@ -316,14 +316,14 @@ Notas:
 Notas:
 
 - Nombre de la animación: `mania-noteSH-{n}.png`.
-- Por defecto, esta también es la parte de la cola.
-  - Cuando se usa para la parte de la cola, este elemento se voltea de forma predeterminada para la versión 2.5+.
+- Por defecto, esto también es la parte de la cola.
+  - Cuando se usa para la parte de la cola, este elemento se voltea de forma predeterminada para la versión 2.5 o versiones posteriores.
     - Este comportamiento se puede desactivar estableciendo `NoteFlipWhenUpsideDownT` en `0`.
 - Este elemento se escala para ajustarse a las columnas individuales.
   - Si la anchura de las columnas es diferente: la más pequeña se escala correctamente y las demás se comprimen para igualar su altura.
 - Las notas largas se pueden estirar o comprimir manualmente mediante el comando `WidthForNoteHeightScale` en el archivo [skin.ini](/wiki/Skinning/skin.ini).
 
-#### Cuerpo
+#### Cuerpos
 
 `mania-note1L.png`
 
@@ -374,7 +374,7 @@ Notas:
 - `NoteBodyStyle` cambia el comportamiento de estos elementos.
 - Las notas se pueden estirar o comprimir manualmente mediante el comando `WidthForNoteHeightScale` en el archivo [skin.ini](/wiki/Skinning/skin.ini).
 
-#### Cola
+#### Colas
 
 `mania-note1T.png`
 
@@ -385,9 +385,9 @@ Notas:
 Notas:
 
 - Nombre de la animación: `mania-note1T-{n}.png`.
-- Estos elementos son la cola de la nota larga.
+- Estos elementos son las colas de las notas largas.
 - Por defecto, se usan las notas de las cabezas.
-- Por defecto, estos elementos están volteados para las versiones de skin `2.5` y superiores.
+- Por defecto, estos elementos están volteados para las versiones de skin `2.5` y versiones posteriores.
   - Este comportamiento se puede desactivar estableciendo `NoteFlipWhenUpsideDownT` en `0`
 - Estos elementos se escalan para ajustarse a las columnas individuales.
   - Si la anchura de las columnas es diferente: la más pequeña se escala correctamente y las demás se comprimen para igualar su altura.
@@ -404,9 +404,9 @@ Notas:
 Notas:
 
 - Nombre de la animación: `mania-note2T-{n}.png`.
-- Estos elementos son la cola de la nota larga.
+- Estos elementos son las colas de las notas largas.
 - Por defecto, se usan las notas de las cabezas.
-- Por defecto, estos elementos están volteados para las versiones de skin `2.5` y superiores.
+- Por defecto, estos elementos están volteados para las versiones de skin `2.5` y versiones posteriores.
   - Este comportamiento se puede desactivar estableciendo `NoteFlipWhenUpsideDownT` en `0`
 - Estos elementos se escalan para ajustarse a las columnas individuales.
   - Si la anchura de las columnas es diferente: la más pequeña se escala correctamente y las demás se comprimen para igualar su altura.
@@ -423,9 +423,9 @@ Notas:
 Notas:
 
 - Nombre de la animación: `mania-noteST-{n}.png`.
-- Estos elementos son la cola de la nota larga.
+- Estos elementos son las colas de la notas largas.
 - Por defecto, se usan las notas de las cabezas.
-- Por defecto, estos elementos están volteados para las versiones de skin `2.5` y superiores.
+- Por defecto, estos elementos están volteados para las versiones de skin `2.5` y versiones posteriores.
   - Este comportamiento se puede desactivar estableciendo `NoteFlipWhenUpsideDownT` en `0`
 - Estos elementos se escalan para ajustarse a las columnas individuales.
   - Si la anchura de las columnas es diferente: la más pequeña se escala correctamente y las demás se comprimen para igualar su altura.
@@ -439,7 +439,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![No][false] | Normal | Abajo a la derecha | Altura máxima: 768px |
+| Todas | ![No][false] | ![No][false] | Normal | Abajo a la derecha | Altura máxima: 768 píxeles |
 
 Notas:
 
@@ -454,7 +454,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![No][false] | Normal | Abajo a la derecha | Altura máxima: 768px |
+| Todas | ![No][false] | ![No][false] | Normal | Abajo a la derecha | Altura máxima: 768 píxeles |
 
 Notas:
 
@@ -475,7 +475,7 @@ Notas:
 - Nombre de la animación: `mania-stage-bottom-{n}.png`.
 - Se muestra en la parte inferior (o superior, si el escenario está boca abajo) del escenario.
 - ¡Este elemento no se estirará para ajustarse a la anchura del escenario!
-- Este elemento debe estar adaptado a una altura para un campo de juego de 480px.
+- Este elemento debe estar adaptado a una altura para un campo de juego de 480 píxeles.
 - Este elemento se superpone a todo el escenario, incluidas las notas.
 
 ---
@@ -486,7 +486,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![Sí][true] | ![No][false] | Multiplicativo | Abajo | Altura máxima: 768px |
+| Todas | ![Sí][true] | ![No][false] | Multiplicativo | Abajo | Altura máxima: 768 píxeles |
 
 Notas:
 
