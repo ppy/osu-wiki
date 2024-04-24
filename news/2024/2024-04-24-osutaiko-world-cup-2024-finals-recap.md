@@ -77,7 +77,7 @@ The United States managed to secure a beautiful, but hard-fought victory against
 
 You simply cannot miss the Grand Finale of this year's TWC! We implore you to check out the [wiki page](/wiki/Tournaments/TWC/2024), look at the schedules, then join us on the [osulive Twitch channel](https://www.twitch.tv/osulive) for some top-notch osu!taiko gameplay!
 
-Amidst next weekend's mappool as [revealed to the world at the end of last week](<https://www.twitch.tv/videos/2125996548>), 4 new osu! originals can be found dotting the stage, including the [Grand Finals tiebreaker](https://www.youtube.com/watch?v=bxrNtfreSvU) shown below. You can view the reveal videos for all original tracks on the [osu!archive YouTube channel](https://www.youtube.com/@osugamearchive).
+Amidst next weekend's mappool as [revealed to the world at the end of last week](https://www.twitch.tv/videos/2125996548), 4 new osu! originals can be found dotting the stage, including the [Grand Finals tiebreaker](https://www.youtube.com/watch?v=bxrNtfreSvU) shown below. You can view the reveal videos for all original tracks on the [osu!archive YouTube channel](https://www.youtube.com/@osugamearchive).
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/bxrNtfreSvU" frameborder="0" allowfullscreen></iframe>
