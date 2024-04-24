@@ -15,4 +15,4 @@ Las skins pueden [crearse desde cero](/wiki/Skinning) o descargarse como un arch
 - [Compendio de skins completadas](https://compendium.skinship.xyz/)
 - [Colección de skins hecha por Circle People](https://circle-people.com/skins/)
 
-Además de lo anterior, muchos jugadores, incluidos los de alto rango, publican sus skins personales en sus [páginas de usuario](/wiki/osu!supporter#sección-del-perfil-editable), en las descripciones de los vídeos de YouTube, o los proporcionan a través de un comando de chat de Twitch.
+Además de lo anterior, muchos jugadores, incluidos los de alto rango, publican sus skins personales en sus [páginas de usuario](/wiki/osu!supporter#sección-del-perfil-editable), en las descripciones de los vídeos de YouTube, o las proporcionan a través de un comando de chat de Twitch.
