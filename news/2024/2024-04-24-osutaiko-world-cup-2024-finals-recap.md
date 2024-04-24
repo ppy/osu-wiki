@@ -28,7 +28,7 @@ This isn't a "baby's first osu!taiko map" mappool, and the difficulty spike comp
 
 Let's briefly look at the [osu! originals](/wiki/osu!_originals) that were cooked up for the community, then jump straight into the match highlight for last week's round.
 
-[![](/wiki/shared/news/2024-04-24-osutaiko-world-cup-2024-finals-recap/Supire.jpg)](https://osu.ppy.sh/beatmapsets/2166486#taiko/4570766)
+[![](/wiki/shared/news/2024-04-24-osutaiko-world-cup-2024-finals-recap/Nebula.jpg)](https://osu.ppy.sh/beatmapsets/2166486#taiko/4570766)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -36,7 +36,7 @@ Let's briefly look at the [osu! originals](/wiki/osu!_originals) that were cooke
     </audio>
 </div>
 
-[![](/wiki/shared/news/2024-04-24-osutaiko-world-cup-2024-finals-recap/Kaze-no-Denwa.jpg)](https://osu.ppy.sh/beatmapsets/2166504#taiko/4570795)
+[![](/wiki/shared/news/2024-04-24-osutaiko-world-cup-2024-finals-recap/Kaze_no_Denwa.jpg)](https://osu.ppy.sh/beatmapsets/2166504#taiko/4570795)
 
 <div class="osu-md__paragraph">
     <audio controls>
