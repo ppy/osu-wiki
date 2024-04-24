@@ -8,7 +8,7 @@ Puedes modificar las partes del campo de juego de osu!taiko creando una carpeta 
 
 ![](img/pippidonclear.gif)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![Sí][true] (véase las notas) | ![Sí][true] | Normal | Abajo a la izquierda | - |
 
@@ -27,7 +27,7 @@ Notas:
 
 ![](img/pippidonfail.gif)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![Sí][true] (véase las notas) | ![Sí][true] | Normal | Abajo a la izquierda | - |
 
@@ -44,7 +44,7 @@ Notas:
 
 ![](img/pippidonidle.gif)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![Sí][true] (véase las notas) | ![Sí][true] | Normal | Abajo a la izquierda | - |
 
@@ -60,7 +60,7 @@ Notas:
 
 ![](img/pippidonkiai.gif)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![Sí][true] (véase las notas) | ![Sí][true] | Normal | Abajo a la izquierda | - |
 
@@ -77,7 +77,7 @@ Notas:
 
 ![](/wiki/shared/judgement/osu!taiko/taiko-hit0.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![Sí][true] | ![Sí][true] | Normal | Centro | - |
 
@@ -92,7 +92,7 @@ Notas:
 
 ![](/wiki/shared/judgement/osu!taiko/taiko-hit100.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![Sí][true] | ![Sí][true] | Normal | Centro | - |
 
@@ -107,7 +107,7 @@ Notas:
 
 ![](/wiki/shared/judgement/osu!taiko/taiko-hit100k.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![Sí][true] | ![Sí][true] | Normal | Centro | - |
 
@@ -122,7 +122,7 @@ Notas:
 
 ![](/wiki/shared/judgement/osu!taiko/taiko-hit300.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![Sí][true] | ![Sí][true] | Normal | Centro | - |
 
@@ -137,7 +137,7 @@ Notas:
 
 ![](/wiki/shared/judgement/osu!taiko/taiko-hit300k.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![Sí][true] | ![Sí][true] | Normal | Centro | - |
 
@@ -152,7 +152,7 @@ Notas:
 
 ![](/wiki/shared/judgement/osu!taiko/taiko-hit300g.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] (véase las notas) | ![No][false] | Normal | Centro | - |
 
@@ -168,7 +168,7 @@ Notas:
 
 ![](img/taikobigcircle.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Multiplicativo | Centro | 118x118 |
 
@@ -187,7 +187,7 @@ Notas:
 
 ![](img/taikobigcircleoverlay.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![Sí][true] | ![Sí][true] | Normal | Centro | 118x118 |
 
@@ -206,7 +206,7 @@ Notas:
 
 ![](img/taikohitcircle.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Multiplicativo | Centro | 118x118 |
 
@@ -222,7 +222,7 @@ Notas:
 
 ![](img/taikohitcircleoverlay.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![Sí][true] | ![Sí][true] | Normal | Centro | 118x118 |
 
@@ -240,7 +240,7 @@ Notas:
 
 ![](img/approachcircle.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Normal | Centro | 126x126 |
 
@@ -255,13 +255,13 @@ Notas:
 
 ![](img/taiko-glow.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![No][false] (véase las notas) | Multiplicativo | Centro | - |
 
 Notas:
 
-- Se sospecha que el estado skinnable para los beatmaps es un error.
+- Se sospecha que el estado personalizable para los beatmaps es un error.
 - Teñido de amarillo.
 - Este elemento está detrás de la posición de impacto durante el [kiai time](/wiki/Gameplay/Kiai_time), se expande cuando se golpean las notas.
 
@@ -271,7 +271,7 @@ Notas:
 
 ![](img/lighting.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Aditivo | Centro | - |
 
@@ -288,13 +288,13 @@ Notas:
 
 ![](img/taiko-slider.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] (véase las notas) | Normal | Arriba a la izquierda | 776x162 |
 
 Notas:
 
-- Se sospecha que el estado skinnable para los beatmaps es un error.
+- Se sospecha que el estado personalizable para los beatmaps es un error.
 - Esto se desplaza en un bucle continuo, desde la derecha hacia la izquierda.
 - Este elemento está deshabilitado si el beatmap tiene un storyboard.
 - Se reescala 1,4 veces en el juego.
@@ -305,14 +305,14 @@ Notas:
 
 ![](img/taiko-slider-fail.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![No][false] | Normal | Arriba a la izquierda | 776x162 |
 
 Notas:
 
 - Esto aparece cuando el jugador falla una nota o si la barra de salud no se llena hasta el 50 % durante un descanso.
-- Se sospecha que el estado skinnable para los beatmaps es un error.
+- Se sospecha que el estado personalizable para los beatmaps es un error.
 - Esto se desplaza en un bucle continuo, desde la derecha hacia la izquierda.
 - Este elemento está deshabilitado si el beatmap tiene un storyboard.
 - Se reescala 1,4 veces en el juego.
@@ -323,7 +323,7 @@ Notas:
 
 ![](img/taiko-flower-group.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] (véase las notas) | ![Sí][true] | Normal | Abajo | - |
 
@@ -340,13 +340,13 @@ Notas:
 
 ![](img/taiko-bar-left.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![No][false] (véase las notas) | Normal | Arriba a la izquierda | 181x200 |
 
 Notas:
 
-- Se sospecha que el estado skinnable para los beatmaps es un error.
+- Se sospecha que el estado personalizable para los beatmaps es un error.
 - Posicionado en (0,216).
 - Este elemento es el lugar donde va el tambor.
 
@@ -356,14 +356,14 @@ Notas:
 
 ![](img/taiko-drum-inner.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | v1 - v2.0 | ![No][false] | ![No][false] (véase las notas) | Normal | Arriba a la izquierda | Anchura máxima: 56px |
 | v2.1 o posteriores | ![No][false] | ![No][false] (véase las notas) | Normal | Arriba a la izquierda | 90x200 |
 
 Notas:
 
-- Se sospecha que el estado skinnable para los beatmaps es un error.
+- Se sospecha que el estado personalizable para los beatmaps es un error.
 - La posición varía según la versión de la skin:
   - Versión 1.0 - versión 2.0: (29,266) (y (86,266) cuando se refleja)
   - Versión 2.1 o versiones posteriores: (0,216) (y (90,216) cuando se refleja)
@@ -374,14 +374,14 @@ Notas:
 
 ![](img/taiko-drum-outer.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | v1 - v2.0 | ![No][false] | ![No][false] (véase las notas) | Normal | Arriba a la izquierda | Anchura máxima: 72px |
 | v2.1 o posteriores | ![No][false] | ![No][false] (véase las notas) | Normal | Arriba a la izquierda | 90x200 |
 
 Notas:
 
-- Se sospecha que el estado skinnable para los beatmaps es un error.
+- Se sospecha que el estado personalizable para los beatmaps es un error.
 - La posición varía según la versión de la skin:
   - Versión 1.0 - versión 2.0: (85,253) ((13,253) cuando se refleja)
   - Versión 2.1 o versiones posteriores: (90,216) (y (0,216) cuando se refleja)
@@ -392,14 +392,14 @@ Notas:
 
 ![](img/taiko-bar-right.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | v1.0 - v2.0 | ![No][false] | ![No][false] (véase las notas) | Normal | Arriba a la izquierda | 843x200 |
 | v2.1 o posteriores | ![No][false] | ![No][false] (véase las notas) | Normal | Arriba a la izquierda | 1024x200 |
 
 Notas:
 
-- Se sospecha que el estado skinnable para los beatmaps es un error.
+- Se sospecha que el estado personalizable para los beatmaps es un error.
 - Este elemento se estirará para ajustarse al ancho de la pantalla.
 - Este elemento es el estado normal de la barra de desplazamiento.
 - La posición varía según la versión de la skin:
@@ -412,14 +412,14 @@ Notas:
 
 ![](img/taiko-bar-right-glow.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | v1.0 - v2.0 | ![No][false] | ![No][false] (véase las notas) | Normal | Arriba a la izquierda | 843x200 |
 | v2.1 o posteriores | ![No][false] | ![No][false] (véase las notas) | Normal | Arriba a la izquierda | 1024x200 |
 
 Notas:
 
-- Se sospecha que el estado skinnable para los beatmaps es un error.
+- Se sospecha que el estado personalizable para los beatmaps es un error.
 - Este elemento se estirará para ajustarse al ancho de la pantalla.
 - Este elemento es el estado del kiai de la barra de desplazamiento.
 - Este elemento se superpone a `taiko-bar-right`.
@@ -433,7 +433,7 @@ Notas:
 
 ![](img/taiko-roll-middle.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Multiplicativo | Arriba a la izquierda | 1x128 |
 
@@ -449,7 +449,7 @@ Notas:
 
 ![](img/taiko-roll-end.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Multiplicativo | Arriba a la izquierda | 64x128 |
 
@@ -464,7 +464,7 @@ Notas:
 
 ![](img/sliderscorepoint.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Normal | Centro | - |
 
@@ -479,7 +479,7 @@ Notas:
 
 ![](img/spinner-warning.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Normal | Centro | - |
 
@@ -493,13 +493,13 @@ Notas:
 
 ![](img/spinner-circle.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![No][false] (véase las notas) | Normal | Centro | - |
 
 Notas:
 
-- Se sospecha que el estado skinnable para los beatmaps es un error.
+- Se sospecha que el estado personalizable para los beatmaps es un error.
 - Este elemento también se usa en [osu!](/wiki/Game_mode/osu!).
 - Por cada golpe que se produce en el spinner, el círculo gira en el sentido contrario a las agujas del reloj.
 
@@ -509,13 +509,13 @@ Notas:
 
 ![](img/spinner-approachcircle.png)
 
-| Versiones | Animable | Skinnable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![No][false] (véase las notas) | Normal | Centro | - |
 
 Notas:
 
-- Se sospecha que el estado skinnable para los beatmaps es un error.
+- Se sospecha que el estado personalizable para los beatmaps es un error.
 - Este elemento también se usa en [osu!](/wiki/Game_mode/osu!).
 - Este elemento es el indicador de duración del spinner.
   - Esto se reduce con el tiempo.
