@@ -109,7 +109,7 @@ Si tu carpeta de skins no contiene un archivo `skin.ini`, la versión predetermi
 
 ### Usuario
 
-Esta no es una versión, sino de una carpeta especial de skins que se crea cuando se modifica la skin predeterminada, p. ej. al arrastrar un fondo de menú personalizado a la ventana del juego (con [osu!supporter](/wiki/osu!supporter#extra-skinnable-elements)) o al intentar modificar las asignaciones de teclas de osu!mania para la skin predeterminada desde las opciones.
+Esta no es una versión, sino de una carpeta especial de skins que se crea cuando se modifica la skin predeterminada, p. ej. al arrastrar un fondo de menú personalizado a la ventana del juego (con [osu!supporter](/wiki/osu!supporter#elementos-skineables-extra)) o al intentar modificar las asignaciones de teclas de osu!mania para la skin predeterminada desde las opciones.
 
 Una skin en una carpeta llamada `User` siempre usará la última versión de la skin, independientemente de cualquier especificación en el `skin.ini` o de otro tipo.
 
