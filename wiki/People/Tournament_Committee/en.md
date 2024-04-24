@@ -34,6 +34,13 @@ You can help the tournament committee by continuing to run excellent tournaments
 
 Those who are interested in joining the tournament committee may express their interest by sending an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh), where requests are forwarded to the committee. Successful candidates are expected to have a significant breadth of experience in the tournament scene, either as a player or staff.
 
+## Benefits
+
+Tournament Committee members are granted the following benefits:
+
+- **Tenure badge**: A [profile badge](/wiki/Community/Profile_badge) that displays the number of years they have been in the Tournament Committee, ranging from 1 to 10.
+  ![1 year Tournament Committee badge](https://assets.ppy.sh/profile-badges/tcomm-1y.png "1 year Tournament Committee badge") ![2 year Tournament Committee badge](https://assets.ppy.sh/profile-badges/tcomm-2y.png "2 year Tournament Committee badge") ![3 year Tournament Committee badge](https://assets.ppy.sh/profile-badges/tcomm-3y.png "3 year Tournament Committee badge") ![4 year Tournament Committee badge](https://assets.ppy.sh/profile-badges/tcomm-4y.png "4 year Tournament Committee badge") ![5 year Tournament Committee badge](https://assets.ppy.sh/profile-badges/tcomm-5y.png "5 year Tournament Committee badge") ![6 year Tournament Committee badge](https://assets.ppy.sh/profile-badges/tcomm-6y.png "6 year Tournament Committee badge") ![7 year Tournament Committee badge](https://assets.ppy.sh/profile-badges/tcomm-7y.png "7 year Tournament Committee badge") ![8 year Tournament Committee badge](https://assets.ppy.sh/profile-badges/tcomm-8y.png "8 year Tournament Committee badge") ![9 year Tournament Committee badge](https://assets.ppy.sh/profile-badges/tcomm-9y.png "9 year Tournament Committee badge") ![10 year Tournament Committee badge](https://assets.ppy.sh/profile-badges/tcomm-10y.png "10 year Tournament Committee badge")
+
 ## Tournament Committee Members
 
 - ::{ flag=FR }:: [_yosh](https://osu.ppy.sh/users/7157133)
