@@ -35,13 +35,13 @@ Dans stable, les exigences de précision (et de jugement) pour chaque [node](/wi
 
 Pendant ce temps, osu!(lazer) a maintenant ces seuils de précision :
 
-| Note | osu! / osu!taiko | osu!mania | osu!catch |
+| Note | osu! / osu!taiko | osu!catch | osu!mania |
 | :-: | :-- | :-- | :-- |
 | SS | 100% | 100% | 100% |
-| S | ≥95% (pas de miss) | ≥95% | ≥98% |
-| A | ≥90% | ≥90% | ≥94% |
-| B | ≥80% | ≥80% | ≥90% |
-| C | ≥70% | ≥70% | ≥85% |
+| S | ≥95% (pas de miss) | ≥98% | ≥95% |
+| A | ≥90% | ≥94% | ≥90% |
+| B | ≥80% | ≥90% | ≥80% |
+| C | ≥70% | ≥85% | ≥70% |
 
 |  |  |
 | :-- | :-: |
