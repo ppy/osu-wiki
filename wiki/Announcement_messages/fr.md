@@ -21,7 +21,7 @@ Un **message d'annonce** est un type de message destiné à envoyer des messages
 
 ## Éligibilité
 
-L'envoi et la réponse aux messages d'annonce via le site web nécessitent d'être membre de la [Global Moderation Team](/wiki/People/Global_Moderation_Team), de la [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team), ou du [groupe d'utilisateurs](/wiki/People/User_group) Announce. Cependant, seuls les membres du groupe d'utilisateurs Announce sont autorisés à envoyer des messages d'annonce via [l'API v2 d'osu!](https://osu.ppy.sh/docs/index.html#create-channel).
+L'envoi et la réponse aux messages d'annonce via le site web nécessitent d'être membre de la [Global Moderation Team](/wiki/People/Global_Moderation_Team), de la [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team), ou du [groupe d'utilisateurs](/wiki/People/User_group) nommé « Announce ». Cependant, seuls les membres du groupe d'utilisateurs Announce sont autorisés à envoyer des messages d'annonce via [l'API v2 d'osu!](https://osu.ppy.sh/docs/index.html#create-channel).
 
 ### Déposer une demande
 
