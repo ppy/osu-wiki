@@ -2,13 +2,13 @@
 
 osu! gira en torno a la posibilidad de crear y compartir creaciones libremente entre todos. Es importante asegurarse de adquirir los permisos adecuados para usar cualquier trabajo de otro creador en nuevas creaciones y que todo ese trabajo esté debidamente atribuido.
 
-Sin permiso, los [beatmaps](/wiki/Beatmap) subidos están en riesgo de ser removidos y sus creadores corren el riesgo de que se les deniegue el acceso al sistema de envíos según la [política de derechos de autor de osu!](/wiki/Legal/Copyright). Esto significa que los usuarios deben crear beatmaps usando cualquier activo que cumpla con lo siguiente:
+Sin permiso, los [beatmaps](/wiki/Beatmap) subidos corren el riesgo de ser eliminados y sus creadores corren el riesgo de que se les deniegue el acceso al sistema de envíos según la [política de derechos de autor de osu!](/wiki/Legal/Copyright). Esto significa que los usuarios deben crear beatmaps usando cualquier recurso que cumpla con lo siguiente:
 
 - Que esté legalmente autorizado para su uso en osu!
-- De uso permitido por su(s) creador(es)
+- Permitido su uso por parte de sus creadores
 - Libre de derechos de autor
 
-## Optar
+## Acciones recomendadas
 
 Los artistas que deseen añadir o actualizar su entrada en este listado pueden ponerse en contacto con el equipo de licenciamiento de música de osu! en [music@ppy.sh](mailto:music@ppy.sh).
 
@@ -16,17 +16,17 @@ También puedes considerar la posibilidad de ponerte en contacto con el equipo p
 
 ## Audio
 
-*Aviso: La publicación o retransmisión de partidas en otros sitios puede estar sujeta a diferentes requisitos de licencia que deben negociarse o comprenderse. Por favor, actúa con la debida diligencia al retransmitir partidas a un público*
+*Aviso: La publicación o retransmisión del juego en otros sitios puede estar sujeta a diferentes requisitos de licencia que deben negociarse o entenderse. Por favor, actúa con la debida diligencia cuando transmitas tus partidas a una audiencia.*
 
 osu! brinda una librería de canciones licenciadas a los mappers a través del programa de [artista destacado](/wiki/People/Featured_Artists). Cada canción en [la lista](https://osu.ppy.sh/beatmaps/artists) se puede usar libremente en osu! y no está sujeta a riesgo de eliminación.
 
-Al buscar canciones fuera del catálogo de los artistas destacados de osu!, verifica si su artista indicó términos de uso explicitamente. Esta información puede ser encontrada a menudo en la sección de descripción de las plataformas de lanzamiento de música de un artista (p. ej., Bandcamp, SoundCloud, Youtube) o su sitio web personal. Si una canción está bajo una [licencia Creative Commons](https://creativecommons.org/about/cclicenses/) o está disponible para su uso no comercial, puedes crear y enviar un beatmap que la use.
+Al buscar canciones fuera del catálogo de los artistas destacados de osu!, verifica si su artista indicó términos de uso explícitamente. Esta información suele encontrarse en las secciones de descripciones de las plataformas de lanzamiento de música de un artista (por ejemplo, Bandcamp, SoundCloud, YouTube) o en su sitio web personal. Si una canción está bajo una [licencia Creative Commons](https://creativecommons.org/about/cclicenses/) o está disponible para su uso no comercial, puedes crear y enviar un beatmap que la use.
 
-Si los derechos de uso de una canción no son claros, se recomienda pedir permiso al artista antes de usarla en un beatmap. La mayoría de artistas tienen información de contacto etiquetada en sus plataformas de lanzamiento de música, sitios web personales y redes sociales.
+Si los derechos de uso de una canción no son claros, se recomienda pedir permiso al artista antes de usarla en un beatmap. La mayoría de los artistas tienen métodos de contacto en sus plataformas de lanzamiento de música, sitios web personales y redes sociales.
 
 Esto puede parecer un gran obstáculo, pero los mappers han tenido un índice de éxito bastante alto y han recibido la aprobación de los artistas simplemente por tener el valor de preguntar antes de usar contenido sin permiso. Puede ser útil mencionar que osu! es un juego libre de anuncios, o adjuntar la [página de licenciamiento](/wiki/Legal/Music_licensing) de osu! para darles una mejor idea de cómo se consume el contenido.
 
-Mientras que la música suele estar sujeta a derechos de autor, los efectos de sonido usados para los hitsounds personalizados suelen estar disponibles gratuitamente. Por ejemplo, la orquesta Philharmonia proporciona [muestras de sonido de instrumentos](https://philharmonia.co.uk/resources/sound-samples/) gratis y [Freesound](https://freesound.org) permite filtrar la búsqueda de muestras de sonido por derechos de uso.
+Mientras que la música suele estar sujeta a derechos de autor, los efectos de sonido usados para los hitsounds personalizados suelen estar disponibles gratuitamente. Por ejemplo, la orquesta Philharmonia proporciona [muestras de sonido de instrumentos](https://philharmonia.co.uk/resources/sound-samples/) gratuitas y [Freesound](https://freesound.org) permite filtrar la búsqueda de muestras de sonido por derechos de uso.
 
 ### Permisos de los artistas
 
@@ -462,7 +462,7 @@ Todo trabajo visual debe estar debidamente atribuido e incluir enlaces apropiado
 
 En la mayoría de casos, un artista visual hará inmediatamente evidente si permite el uso de su trabajo en otro lugar. En caso de que no sea claro si el artista visual permite que su trabajo sea usado en otras plataformas, no debe usarse ninguno hasta que puedan confirmarse individualmente con él las condiciones de uso adecuadas.
 
-Si un músico ha concedido permiso para usar su canción explicitamente, es probable que la carátula de su álbum o cualquier otra carátula oficial del artista también sea viable para su uso en un beatmap. No obstante, pide permiso si no está claro.
+Si un músico ha concedido permiso para usar su canción explícitamente, es probable que la carátula de su álbum o cualquier otra carátula oficial del artista también sea viable para su uso en un beatmap. No obstante, pide permiso si no está claro.
 
 ## Jugabilidad
 
