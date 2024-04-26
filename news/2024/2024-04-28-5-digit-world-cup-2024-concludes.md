@@ -74,11 +74,29 @@ lead
 
 [![](/wiki/shared/news/2024-04-28-5-digit-world-cup-2024-concludes/Birchman.png)](https://osu.ppy.sh/users/10676573)
 
-introduction
+> Hi I'm Birchman, I've been playing the game off and on since August 2017 and I've been playing tournaments semi-actively since August 2022. I was on Canada's 5wc roster last year and had the chance to play for Canada again this year as well.
+
+Team Canada, which includes [Birchman](https://osu.ppy.sh/users/10676573), went on to place 2nd this year in the 5 Digit World Cup 2024, narrowly behind Poland.
 
 ---
 
-questions
+Did you have any expectations going into the tournament? What went on in your minds as your team progressed into further stages?
+
+> I remember last year, canada got top 6 in the tournament, and while I wouldn't say that I 100% expected a better placement from us this year, I was definitely hoping that we'd at least beat last year's top 6 placing.
+> 
+> I think as we got further and further into the tournament, we started analyzing the other teams more and some of our practice habits changed. I remember around the semifinals stage of the tournament, Fetherfall would look at the mappool early into the week and started to highlight the maps depending on how much we needed to practice them which really helped. I think the team overall took the tournament more seriously as we transitioned into the later stages.
+
+How did you prepare for matches and 5WC itself?
+
+> For matches, we'd run multiplayer lobbies every week to practice the mappool as a team. On top of that our coaches [FlatPaper](https://osu.ppy.sh/users/11255340) and [LumenLogic](https://osu.ppy.sh/users/8171404) made comparison spreadsheets so that we could see how our opponents did in previous rounds compared to us. To prepare for 5wc itself, I personally tried to learn how to play with HDHR since if you had a player taking HDHR on your team, another player could go NM, and with the Freemod rules not requiring a player on HD, I thought I'd be more useful if I learned HDHR for the team.
+
+Are there any specific moments you remember the most vividly?
+
+> There were a bunch of great moments in this tournament but I think my favorite moments happened in our match against the USA in losers bracket finals. After the match went to tie breaker, I remember how happy and relieved the team sounded after winning such a hard fought match, as well as all the nice messages we exchanged with the US roster after the fact. This whole match sort of stuck with me because of how close a lot of the members on Canada's and USA's roster's are to each other, and the sportsmanship shown in this match was just really heartwarming to see.
+
+What was the first thing you did after the tournament?
+
+> Honestly I was really sad after taking Poland all the way to bracket reset just to lose, and really didn't do too much other than thinking a lot about how the match could've ended with Canada winning. But on a more positive note, a day after the tournament concluded, LumenLogic made an announcement in the Canadian 5wc server highlighting our performance, as well as Canada B and C team's respective placements in the 5wc's Minor League (a separately hosted tournament). In the same announcement he also gave a shoutout to all the people who were involved with tryouts and roster making this year, which was a nice way to wrap up 5wc for Canada.
 
 ::{#naikou}::
 
