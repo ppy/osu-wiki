@@ -110,18 +110,11 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253
 
 ## Match Schedule: Grand Finals
 
-### Saturday, 27 April 2024
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=US }:: United States | [Apr 27 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240427T180000&p1=1440&p2=136&p3=263) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-
 ### Sunday, 28 April 2024
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Japan ::{ flag=JP }:: | ::{ flag=US }:: United States | [Apr 28 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240428T030000&p1=1440&p2=248&p3=263) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Japan ::{ flag=JP }:: | ::{ flag=GB }:: United Kingdom | [Apr 28 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240428T130000&p1=1440&p2=248&p3=136) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Japan ::{ flag=JP }:: | ::{ flag=GB }:: United Kingdom | [Apr 28 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240428T130000&p1=1440&p2=248&p3=136) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
 
 ## Mappools
 
@@ -306,6 +299,14 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/253
   1. [Chroma - To the Milky Way (davidminh0111) \[Supernova\]](https://osu.ppy.sh/beatmapsets/2148483#taiko/4525822)
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 27 April 2024:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **United Kingdom** ::{ flag=GB }:: | **7** | 3 | ::{ flag=US }:: United States | [#1](https://osu.ppy.sh/community/matches/113656670) | [#1](https://www.twitch.tv/videos/2131198127) |
 
 ### Finals
 
@@ -643,5 +644,4 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same average rank
-[^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
+[^gf-match]: Grand Finals match
