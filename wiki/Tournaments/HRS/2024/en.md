@@ -8,7 +8,7 @@ tags:
 
 ![HRS 2024 banner](img/banner.png)
 
-**Hard Rock Showdown 2024** (***HRS 2024***) is an international 1v1 osu! tournament hosted by ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251). It is the first instalment of Hard Rock Showdown.
+**Hard Rock Showdown 2024** (***HRS 2024***) was an international 1v1 osu! tournament hosted by ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251). It was the first instalment of Hard Rock Showdown.
 
 ## Tournament schedule
 
@@ -34,7 +34,7 @@ tags:
 
 ## Organisation
 
-Hard Rock Showdown is run by various community members.
+Hard Rock Showdown was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -272,9 +272,25 @@ Hard Rock Showdown is run by various community members.
 
 ## Match Results
 
-### Finals
+### Grand Finals
 
 *Detailed statistics for this round will be added soon.*
+
+Saturday, 27 April 2024
+
+| Player A |  |  | Player B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| [his kitten](https://osu.ppy.sh/users/3717598) ::{ flag=CA }:: | 5 | **7** | ::{ flag=HK }:: **[mcy4](https://osu.ppy.sh/users/2165650)** | [#1](https://osu.ppy.sh/community/matches/113655852) |
+
+Sunday, 28 April 2024
+
+| Player A |  |  | Player B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **[maliszewski](https://osu.ppy.sh/users/12408961)** ::{ flag=PL }:: | **7** | 0 | ::{ flag=HK }:: [mcy4](https://osu.ppy.sh/users/2165650) | [#1](https://osu.ppy.sh/community/matches/113666470) |
+
+### Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1EOfCB-A7flb771CTWJnBRLHQ1-tJBP7K8odKed8Alf0/edit?usp=sharing).
 
 Saturday, 20 April 2024:
 
