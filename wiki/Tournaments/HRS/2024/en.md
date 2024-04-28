@@ -276,13 +276,13 @@ Hard Rock Showdown was run by various community members.
 
 *Detailed statistics for this round will be added soon.*
 
-Saturday, 27 April 2024
+Saturday, 27 April 2024:
 
 | Player A |  |  | Player B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | [his kitten](https://osu.ppy.sh/users/3717598) ::{ flag=CA }:: | 5 | **7** | ::{ flag=HK }:: **[mcy4](https://osu.ppy.sh/users/2165650)** | [#1](https://osu.ppy.sh/community/matches/113655852) |
 
-Sunday, 28 April 2024
+Sunday, 28 April 2024:
 
 | Player A |  |  | Player B | Match link |
 | --: | :-: | :-: | :-- | :-- |
