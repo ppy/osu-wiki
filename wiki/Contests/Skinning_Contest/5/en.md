@@ -54,7 +54,7 @@ The Skinning Contest #4 is run by various community members.
 ## Ruleset
 
 - Submissions must not contain inappropriate, malicious, or epileptic content, and should adhere to the [osu! community rules](/wiki/Rules).
-- All assets need to be created by yourself, or be properly credited to the original creator. This includes, but is not limited to:
+- All assets need to be created by yourself, or used with permission and proper credit to the authors. This includes, but is not limited to:
   - fonts
   - icons
   - textures
