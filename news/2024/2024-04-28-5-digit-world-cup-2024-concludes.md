@@ -4,17 +4,51 @@ title: 5 Digit World Cup 2024 Concludes
 date: 2024-04-28 12:00:00 +0000
 ---
 
-preview
+With the Grand Finals behind us, the 5 Digit World Cup 2024 is over. Come with us as we go through the incredible matches between this year's teams and get some insights from a runner-up, a contributing artist, our most active mapper and an admin.
 
 ![](/wiki/shared/news/2024-01-23-5-digit-world-cup-2024-registrations-now-open/5wc2024-banner.png)
 
-intro
+Since last year's 5 Digit World Cup (5WC), lots of 5 digit tournament players anticipated the return of this event. This year's iteration introduced some minor modifications to tournament procedures while focusing on refining the competitive experience to be the best 5WC possible. With four fantastic original songs and lots of original maps made by our mapping team (of which many remained from last year), this iteration features effort far and above anything seen before in the series.
+
+Let's get going, since we have seven weeks of amazing matches, highlights and a few interviews to go over.
 
 ## Summary
 
 ![](/wiki/shared/news/2024-04-28-5-digit-world-cup-2024-concludes/podium.jpg)
 
+Congratulations to Poland for taking the first place this year. The other Grand Finalist, Canada, gave them a scare by winning the first match 7-5, bringing them to a bracket reset! But Poland prevailed and in the end, they won with 7-5, making them the deserving victors this year.
+
+We want to thank and congratulate Canada and the United States for once again playing their hearts out this year and reaching the podium. For Canada, their second place finish is a return to the podium for the first time since 2019, with it also being their best result so far. For the United States, third place means their 6th consecutive top 8 finish and showing their consistency in forming great teams that get far into the bracket.
+
 ## Match highlights
+
+### Round of 32: ::{ flag=BR }:: Brazil vs. ::{ flag=HK }:: Hong Kong
+
+<div align="center">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/AzWb6NqDJg0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+The Round of 32, the first round of the tournament, normally a round without many close matches. But this year was different! We saw a bunch of close matches, but the match between Brazil and Hong Kong was the one that took the spot for most surprising match of the round.
+
+Brazil, being the #10 seed from qualifiers, was the big favorite to move into the Round of 16. They were up against the #22 seeded Hong Kong, which should have posed no big troubles for the Brazilian team, but things turned out different.
+
+After the start of the match, Brazil took a quick 2-0 lead, winning their protected HD2 and the FM1 pick from Hong Kong. Brazil picked NM4 as their next map, which in hindsight, was not the right pick. Hong Kong came back and took three straight map wins, including two breakpoints, taking the lead in the match with a 2-3 scoreline. After taking the lead, Hong Kong was the next team to pick. They picked HR1, which resulted in Brazil getting a second breakpoint, tying the match at 3-3. After the least two picks of the match, the score ended up in a 4-4 tie, forcing a tiebreaker.
+
+In the end, Hong Kong took the win and won the match 4-5! Forcing Brazil into the losers bracket and moving on to the Round of 16 themselves.
+
+### Round of 16: ::{ flag=PL }:: Poland vs. ::{ flag=AU }:: Australia
+
+<div align="center">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/qY9OcD7yj3A" frameborder="0" allowfullscreen></iframe>
+</div>
+
+text
+
+### Grand Finals: ::{ flag=CA }:: Canada vs. ::{ flag=US }:: United States
+
+<div align="center">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/p521LJbPT48" frameborder="0" allowfullscreen></iframe>
+</div>
 
 text
 
@@ -26,7 +60,9 @@ text
     }
 </style>
 
-text
+Ever since the great response from the 5WC 2023 Grand Finals tiebreaker custom song, it should be no surprise that this year had more than one original song.
+
+To thank our amazing artists for their hard work and determination, we have listed all their songs below for you to listen to and play! Click on the banner of the respective song to go to the map that was made for the tournament.
 
 ### Semifinals
 
@@ -172,10 +208,12 @@ Where might you go from here?
 
 ---
 
-thank contributors
-
 ![](/wiki/shared/news/2024-04-28-5-digit-world-cup-2024-concludes/5wc2024-credits.png)
 
-end word
+These types of tournaments are only possible because of the incredible osu! tournament community. It takes consistent contributions from dozens and dozens of people, ranging from playtesters to streamers, casters, referees, artists, sheeters, poolers... the list goes on and on. This admin team has a unique perspective in that we are the only ones who truly see everything from the months-long planning phase through to the end.
 
-—Walavouchey, Timper, Stage
+Almost all spectators have no idea how much it takes to run a world cup at this scale. The admin team is so thankful for the incredible staff team who helped make this happen.
+
+We thank each player who gave it their all this year, ggwp!
+
+—Timper, Stage
