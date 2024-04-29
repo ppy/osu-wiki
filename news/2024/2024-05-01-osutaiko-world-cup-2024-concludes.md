@@ -33,7 +33,7 @@ Here are all the matches that we wrote about during this World Cup, all of them 
 | ::{ flag=DE }:: Germany vs. ::{ flag=AR }:: Argentina | Round of 32 | [Text summary](https://osu.ppy.sh/home/news/2024-03-27-osutaiko-world-cup-2024-round-of-32-recap#germany-vs.--argentina), [VOD](https://www.twitch.tv/videos/2100431997) |
 | ::{ flag=KR }:: South Korea vs. ::{ flag=CN }:: China | Quarterfinals | [Text summary](https://osu.ppy.sh/home/news/2024-04-10-osutaiko-world-cup-2024-quarterfinals-recap#south-korea-vs.--china), [VOD](https://www.twitch.tv/videos/2113447916) |
 | ::{ flag=CA }:: Canada vs. ::{ flag=RU }:: Russian Federation | Quarterfinals | [Text summary](https://osu.ppy.sh/home/news/2024-04-10-osutaiko-world-cup-2024-quarterfinals-recap#canada-vs.--russian-federation), [VOD](https://www.twitch.tv/videos/2112606527) |
-| ::{ flag=UK }:: United Kingdom vs. ::{ flag=KR }:: South Korea | Semifinals | [Text summary](https://osu.ppy.sh/home/news/2024-04-17-osutaiko-world-cup-2024-semifinals-recap#united-kingdom-vs.--south-korea), [VOD](https://www.twitch.tv/videos/2119605829) |
+| ::{ flag=GB }:: United Kingdom vs. ::{ flag=KR }:: South Korea | Semifinals | [Text summary](https://osu.ppy.sh/home/news/2024-04-17-osutaiko-world-cup-2024-semifinals-recap#united-kingdom-vs.--south-korea), [VOD](https://www.twitch.tv/videos/2119605829) |
 | ::{ flag=US }:: United States vs. ::{ flag=TW }:: Taiwan | Finals | [Text summary](https://osu.ppy.sh/home/news/2024-04-24-osutaiko-world-cup-2024-finals-recap#united-states-vs.--taiwan), [VOD](https://www.twitch.tv/videos/2125916897) |
 
 ## osu! originals
@@ -43,6 +43,10 @@ Here are all the matches that we wrote about during this World Cup, all of them 
         max-width: inherit;
     }
 </style>
+
+This year the osu!taiko community has been blessed with **16** brand new [osu! originals](/wiki/osu!_originals), all of them also accompanied by original artwork in the form of beatmap backgrounds, background videos and storyboards!
+
+We highly recommend that you take a minute of your time to check out the highlighted originals below. Ranging from many flavours of electronic music (such as breakcore, hardcore, etc.), to even some jazz pieces, you are sure to find something you will enjoy listening to at the very least.
 
 ### Round of 32
 
@@ -188,9 +192,9 @@ text
 
 ---
 
-Thank you to everyone who participated in this edition of the osu!taiko World Cup, whether it was by playing or volunteering their time and effort to make this the best edition yet!
+Thank you to all **105** contributors who put in their time and effort to make this edition of the osu!taiko World Cup the best one yet, and thanks to all **219** players who represented **40** different countries and competed!
 
-![]()
+![](/wiki/shared/news/2024-05-01-osutaiko-world-cup-2024-concludes/twc2024-credits.png)
 
 Another special thanks to everyone who followed along, both by watching the streams and cheering on their favourite teams and players, as well as everyone who tuned into the weekly recaps!
 
