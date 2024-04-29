@@ -44,9 +44,9 @@ Así llamo a los sliders que empiezan en las marcas rojas. Son especialmente pel
 
 ![Sliders inversos de 2 repeticiones o más](img/2x+_Repeating_sliders.jpg "Sliders inversos de 2 repeticiones o más")
 
-Los sliders inversos pueden ser muy interesantes, pero normalmente se tiende a añadir multiples repeticiones. Considero a los sliders inversos con más de una repetición confusos, porque normalmente la cuarta repetición no se muestra hasta que has golpeado el slider en si mismo. Los sliders cortos y los largos no tienen este problema porque los sliders cortos se pueden predecir con facilidad, y los sliders largos te dan suficiente tiempo para reaccionar. Hay muy pocas instancias donde un slider inverso de 2 repeticiones funciona mejor que 2 sliders normales o 4 círculos.
+Los sliders inversos pueden ser muy interesantes, pero normalmente se les tiende a añadir múltiples repeticiones. Considero a los sliders inversos con más de una repetición confusos, porque muchas veces la cuarta repetición no se muestra hasta que ya has pulsado el propio slider. Los sliders cortos y los largos no tienen este problema porque los sliders cortos se pueden predecir con facilidad, y los sliders largos te dan suficiente tiempo para reaccionar. Hay muy pocos casos en los que un slider inverso de 2 repeticiones funciona mejor que 2 sliders normales o 4 círculos.
 
-Una obvia excepción es en los streams largos donde un slider inverso es usado para reemplazar 4 círculos. Esto es probablemente mejor que usar sliders inversos de una repetición.
+Una obvia excepción es en los streams largos, donde un slider inverso es usado para reemplazar 4 círculos. Esto es probablemente mejor que usar sliders inversos de una repetición.
 
 ### Patrones de sliders
 
@@ -64,9 +64,9 @@ Los sliders en osu! se asemejan a una nota sostenida en la música, ya que los s
 
 ![Teoría musical importante](img/Music_Theory_Important.jpg "Teoría musical importante")
 
-La mayoría de la música funciona en grupos de 2 o 4. 4 pulsos por compás, 4 compases por frase, etc. Mientras coloques un slider al inicio o un círculo en el acento (marca blanca larga) y a veces en medio de la frase, puedes poner cualquier cantidad de sliders a contratiempo o fuera de ritmo con patrones de sliders fuera de lo común, sliders muy cortos y streams tontamente en el mapa, incluso si no encajan con la canción. Es en serio. Obviamente no es del todo recomendable, ya que entonces podrías tomar cualquier canción con el mismo BPM y estructura, copiar y pegarla y obtener el mismo mapa de baja calidad. También es importante mapear junto a la música, pero la mayoría de la música simplemente se repite una y otra vez, así que es bueno incluir algo diferente de vez en cuando.
+La mayoría de la música funciona en grupos de 2 o 4. 4 pulsos por compás, 4 compases por frase, etc. Mientras coloques un slider al inicio o un círculo en el acento (marca blanca larga) y a veces en medio de la frase, puedes poner cualquier cantidad de sliders a contratiempo o fuera de ritmo con patrones fuera de lo común, sliders muy cortos y streams a lo tonto en el mapa, incluso si no encajan con la canción. Es en serio. Obviamente no es del todo recomendable, ya que entonces podrías tomar cualquier canción con el mismo BPM y estructura, copiar y pegarla y obtener el mismo mapa de baja calidad. También es importante mapear junto a la música, pero la mayoría de la música simplemente se repite una y otra vez, así que es bueno incluir algo diferente de vez en cuando.
 
-Es sabido que al tocar la línea de bajo con cualquier instrumento, puedes crear casi cualquier ritmo y tocar cualquier nota siempre y cuando toques el acento en cada compás en la tonalidad adecuada. Así de importante es el acento. Obviamente, no siempre es perfecto, pero al menos es aceptable.
+Es sabido que al tocar la línea de bajo con cualquier instrumento, puedes crear casi cualquier ritmo y tocar cualquier nota, siempre y cuando toques el acento en cada compás en la tonalidad adecuada. Así de importante es el acento. Obviamente, no siempre es perfecto, pero al menos es aceptable.
 
 Las canciones que solo usan sliders en el acento están destinadas a ser aburridas, así que asegurate de improvisar tus ritmos.
 
