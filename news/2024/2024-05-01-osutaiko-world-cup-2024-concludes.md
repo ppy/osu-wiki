@@ -192,7 +192,7 @@ text
 
 ---
 
-Thank you to all **105** contributors who put in their time and effort to make this edition of the osu!taiko World Cup the best one yet, and thanks to all **219** players who represented **40** different countries and competed!
+Thank you to all **106** contributors who put in their time and effort to make this edition of the osu!taiko World Cup the best one yet, and thanks to all **219** players who represented **40** different countries and competed!
 
 ![](/wiki/shared/news/2024-05-01-osutaiko-world-cup-2024-concludes/twc2024-credits.png)
 
