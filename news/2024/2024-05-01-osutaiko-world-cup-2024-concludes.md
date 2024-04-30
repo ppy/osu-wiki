@@ -52,11 +52,11 @@ We highly recommend that you take a minute of your time to check out the highlig
 
 <div align="center" class="osu-md__paragraph">
     <video width="100%" controls>
-        <source src="https://assets.ppy.sh/media/news/2024-03-27-sunao-ni-naritai.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/2024-03-27-sunao-ni-naritai.mp4?1" type="video/mp4" preload="none">
     </video>
 </div>
 
-[![](/wiki/shared/news/2024-03-27-osutaiko-world-cup-2024-round-of-32-recap/Frozen_Blood.jpg)](https://osu.ppy.sh/beatmapsets/2152052#taiko/4534309)
+[![](/wiki/shared/news/2024-03-27-osutaiko-world-cup-2024-round-of-32-recap/Frozen_Blood.jpg?1)](https://osu.ppy.sh/beatmapsets/2152052#taiko/4534309)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -66,7 +66,7 @@ We highly recommend that you take a minute of your time to check out the highlig
 
 ### Round of 16
 
-[![](/wiki/shared/news/2024-04-03-osutaiko-world-cup-2024-round-of-16-recap/aqua_vitae.jpg)](https://osu.ppy.sh/beatmapsets/2155621#taiko/4543646)
+[![](/wiki/shared/news/2024-04-03-osutaiko-world-cup-2024-round-of-16-recap/aqua_vitae.jpg?1)](https://osu.ppy.sh/beatmapsets/2155621#taiko/4543646)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -74,7 +74,7 @@ We highly recommend that you take a minute of your time to check out the highlig
     </audio>
 </div>
 
-[![](/wiki/shared/news/2024-04-03-osutaiko-world-cup-2024-round-of-16-recap/Usuva_Kagerow.jpg)](https://osu.ppy.sh/beatmapsets/2155520#taiko/4543446)
+[![](/wiki/shared/news/2024-04-03-osutaiko-world-cup-2024-round-of-16-recap/Usuva_Kagerow.jpg?1)](https://osu.ppy.sh/beatmapsets/2155520#taiko/4543446)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -82,7 +82,7 @@ We highly recommend that you take a minute of your time to check out the highlig
     </audio>
 </div>
 
-[![](/wiki/shared/news/2024-04-03-osutaiko-world-cup-2024-round-of-16-recap/Train_of_Thought.jpg)](https://osu.ppy.sh/beatmapsets/2155531#taiko/4543467)
+[![](/wiki/shared/news/2024-04-03-osutaiko-world-cup-2024-round-of-16-recap/Train_of_Thought.jpg?1)](https://osu.ppy.sh/beatmapsets/2155531#taiko/4543467)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -92,7 +92,7 @@ We highly recommend that you take a minute of your time to check out the highlig
 
 ### Quarterfinals
 
-[![](/wiki/shared/news/2024-04-10-osutaiko-world-cup-2024-quarterfinals-recap/Yakou.jpg)](https://osu.ppy.sh/beatmapsets/2159335#taiko/4552824)
+[![](/wiki/shared/news/2024-04-10-osutaiko-world-cup-2024-quarterfinals-recap/Yakou.jpg?1)](https://osu.ppy.sh/beatmapsets/2159335#taiko/4552824)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -100,7 +100,7 @@ We highly recommend that you take a minute of your time to check out the highlig
     </audio>
 </div>
 
-[![](/wiki/shared/news/2024-04-10-osutaiko-world-cup-2024-quarterfinals-recap/Viatores_Nebulae.jpg?1)](https://osu.ppy.sh/beatmapsets/2159337#taiko/4552827)
+[![](/wiki/shared/news/2024-04-10-osutaiko-world-cup-2024-quarterfinals-recap/Viatores_Nebulae.jpg?2)](https://osu.ppy.sh/beatmapsets/2159337#taiko/4552827)
 
 <div class="osu-md__paragraph">
     <audio controls>
