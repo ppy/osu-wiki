@@ -160,11 +160,31 @@ What was the process like to create *Beyond Reality*? Was there a main idea behi
 
 [![](/wiki/shared/news/2024-04-28-5-digit-world-cup-2024-concludes/ajmosca.png)](https://osu.ppy.sh/users/19884809)
 
-introduction
+> Hi! I'm AJ, I'm a 4th year college student that started playing osu! in late 2020. In the last 2.5 years I've also become heavily involved in the tournament community, being a player and staffer for both rank-restricted and open rank competitions, as well as co-hosting a rank-restricted tournament, Clashing Tides, last summer.
+> 
+> Additionally, I've been mapping for over 2 years and have created several custom maps for community tournaments, in particular mapping an osu! original song composed by seleP for OWC 2023. I also have a couple ranked maps of my own, mainly guest difficulties.
+
+[ajmosca](https://osu.ppy.sh/users/19884809) mapped 5 beatmaps specifically for the 5 Digit World Cup 2024.
 
 ---
 
-questions
+For people not so familiar with the subject, what might be the reasons for creating custom maps for tournaments?
+
+> There are many reasons why a tourney would request mappers to make customs. The most common reason is that custom maps are fresh takes on the skillsets that a mappooler wants to test. One of the big struggles of mappooling is finding quality maps fit for tournament use (well-mapped and of consistent difficulty) that haven't been used too much in other tourneys before. At higher levels of play, this can be particularly difficult, which is why customs are considered the 'ideal' solution to this problem. (Some disagree with this but that is a whole other discussion.)
+> 
+> Sometimes though, the reasons to create a custom can be significantly different. Some tourneys request customs because they like a mapper’s style and want to use more maps from that mapper. Other times it's the mappers that request the customs themselves, looking to force themselves to map more or create something different from their usual maps. Some tourney hosts also believe it would increase the quality of their competition to have custom maps in their pools. And in rarer cases, you request a custom map because you commissioned a song from an artist for a competition and are in need of a map for it c:
+
+How did creating 5 custom maps for 5WC 2024 come about? Was this a special occasion or were things business as usual?
+
+> In this case, it was a perfect combination of organizers giving us ample time and freedom to choose what we would like to map, as well as a period of time where I had a lot of motivation to map in general. In particular, a good chunk of my winter and spring breaks from school were spent working on these custom maps. The free time let me focus on mapping completely stress free from school, which made me the most productive I've been in all my time mapping. For example, 2 of the 5 custom maps were started and finished all within the same week in January, and about 80% of my parts for the Finals TB were done in the week of my spring break.
+> 
+> This was DEFINITELY a special occasion, where circumstances just lined up perfectly – typically mappers just make a map or two over the whole tournament (myself included). In any other circumstances this would be a painful, if not impossible, thing for me to do, especially because compared to other mappers I tend to be a lot slower in creating maps, and also because maps tend to go through a quality assurance process before being released.
+
+Having collaborated with a few artists at this point for original songs in your maps, how would you describe your experience this time mapping *Beyond Reality*?
+
+> Compared to my other original song maps, the highlight for this occasion was how closely I was able to work with the song artist themselves. Working closely with Naikou during the various stages of creating this map was wonderful. They provided so much for the map ranging from: different mp3 encodings to fit ranking criteria, the map's timing, the background, and even the song's sheet music to help us mappers in case we were confused about any rhythm. Being able to cycle feedback with the artist, both about the song and about the map, was an awesome experience and I believe it helped increase the quality of the final product significantly.
+> 
+> In terms of the mapping itself, this was quite a challenge. Those that know of my maps can attest that I don't map tech very often. Pushing myself out of my comfort zone to not only map in a style I don't have much experience with, but also have a final product that is cohesive with my collaborators, was very instructive for me as a mapper. I definitely felt myself improving so much during this process and I'm very glad the final product was well received by the players.
 
 ::{#lupa}::
 
