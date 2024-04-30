@@ -20,7 +20,21 @@ While there isn't much to say about Japan for the 10th year in a row, an interes
 
 ## Grand Finals recap
 
-text
+### ::{ flag=GB }:: United Kingdom vs. ::{ flag=US }:: United States
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2131198127&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+</div>
+
+After the Finals week results I'd bet you a pretty penny both sides of the pond were quivering in their collective... let me just check Google... 400 million boots at the thought of this match. The United Kingdom has had a taste of the podium back in 2020, but they're finally back with the team that got them there and more. Last time they got 3rd, would they go the extra mile now?
+
+The United States on the other hand are in a *state* (haha) of euphoria after achieving their first-ever top 3 finish despite participating in every TWC to date. They've already made history, so... why not make some more, right?
+
+The United States decided to go all-in and opened with [BilliumMoto - 100 Carat Smoke Point](https://osu.ppy.sh/beatmapsets/2170025#taiko/4579557) but that sadly backfired, with the United Kingdom grabbing a breakpoint as well as an extra on [Memme - Acid Burst](https://osu.ppy.sh/beatmapsets/1048233#taiko/4579357). A rough start, but being in the Grand Finals is no fluke, as the United States quickly stepped back into the ring with a win on [ikaruga_nex - ultimer](https://osu.ppy.sh/s/1761945). Things steadily progressed until we eventually found ourselves in a "back-to-back-to-back" osu!original streak (yay!)! The United States grabbed [katagiri - c0pyf0x](https://osu.ppy.sh/s/2169957), but the United Kingdom claimed both [DJ Raisei - Fractured Heaven](https://osu.ppy.sh/s/2169918) and [BilliumMoto - Stained Satin](https://osu.ppy.sh/s/2170035).
+
+The score was now 5–2, which is admittedly not great. But as any tournament veteran knows, it's not over until it's over. The United Kingdom took an extremely narrow win on [MK & RoughSketch - Stereo Beasts (Original Mix)](https://osu.ppy.sh/beatmapsets/2169935) after an early note lock. The United States laid claim to [Nanodesu - Libera Lotus](https://osu.ppy.sh/beatmapsets/2169909#taiko/4579308) with an incredible team performance. And the last map... the last map really can't be explained in writing. I urge you, I implore you... You know what, I demand that you check out the VOD. If not for the entire match, then just to know what I'm talking about.
+
+Though if I cannot convince you, know that the United Kingdom did indeed end up victorious. Although at this point, it's safe to say that they're all winners. The United States gave us one last "hurrah" with a spectacular match to send them off, and for the United Kingdom it is coming home a little greater than last time. The two teams have not only made history for themselves, but for TWC as a whole! For the first time ever, we have not one, but two western teams on the top 3 podium.
 
 ## Match highlights
 
