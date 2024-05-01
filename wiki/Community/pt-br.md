@@ -1,6 +1,6 @@
 # Comunidade
 
-Essa página lista formas de entrar em contato com pessoas de todo osu! Se você está procurando oportunidades para contribuir, mas não sabe exatamente onde começar, certifique-se de ler [Como eu posso ajudar!](/wiki/Community/How_you_can_help!)
+Essa página lista formas de entrar em contato com pessoas de todo osu!. Se você está procurando oportunidades para contribuir, mas não sabe exatamente onde começar, certifique-se de ler [Como eu posso ajudar!](/wiki/Community/How_you_can_help!)
 
 ## Locais
 
