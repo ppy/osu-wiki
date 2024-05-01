@@ -43,7 +43,7 @@ Quarterfinals tend to be the transitional round between the early game and late 
 
 ## Match highlights
 
-### China ::{ flag=CN }:: vs. ::{ flag=CA }:: Canada
+### ::{ flag=CN }:: China vs. ::{ flag=CA }:: Canada
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=v2051648293&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
@@ -57,7 +57,7 @@ The match ended up being decided by [Kobaryo - Radical Jinja](https://osu.ppy.sh
 
 And while China may have got the victory, the fact that Canada — the underdog of the match — was able to keep up with one of this year's favourites is a feat to be proud of!
 
-### Philippines ::{ flag=PH }:: vs. ::{ flag=JP }:: Japan
+### ::{ flag=PH }:: Philippines vs. ::{ flag=JP }:: Japan
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=v2052935687&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
