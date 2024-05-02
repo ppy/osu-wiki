@@ -22,7 +22,7 @@ Officially supported contests have access to certain benefits:
 
 - **Profile badge prizes for first-place winners.** See profile badge design criteria on the [official tournament support article](/wiki/Tournaments/Official_support#profile-badges).
 - **Progress towards *Elite Mapper* user title.** See [contest points](/wiki/Contests/Contest_points) for more details.
-- Potential consideration for [news coverage](#requesting-in-game-banner-and-news-post-support), one post advertising registrations and one summarising final results.
+- Potential consideration for [news coverage](#news-posts).
 
 ## Eligibility
 
@@ -84,7 +84,7 @@ While support for advertising and sharing the outcome of your contest is availab
 Those responsible for writing them should expect to adhere to the editorial standards required by our [news styling criteria](/wiki/News_styling_criteria). Additional news posts are presently not permitted.
 - If your tournament is limited to a specific region, it is only eligible to receive news post support if it involves a LAN (a.k.a. an in-person meetup).
 
-Requests for news support will be reviewed by both the Tournament Committee and the osu! news team for suitability.
+Requests for news support will be reviewed by both the Contest Committee and the osu! news team for suitability.
 
 ## Notes
 
