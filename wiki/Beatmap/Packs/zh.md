@@ -32,7 +32,7 @@ F2 - Rohi Pack.zip
 | :-: | :-- | :-- |
 | **S** | 常规 | [上架 (Ranked)](/wiki/Beatmap/Category#ranked) 或[达标 (Approved)](/wiki/Beatmap/Category#approved) 的谱面 |
 | **F** | 精选艺术家 | 来自[精选艺术家](/wiki/People/Featured_Artists)的歌曲 |
-| **T** | 锦标赛 | 锦标赛图池谱面 |
+| **P** | 锦标赛 | 锦标赛图池谱面 |
 | **L** | 社区喜爱计划 | 社区在[社区喜爱计划](/wiki/Community/Project_Loved)选出的谱面 |
 | **R** | 聚光灯 | 来自[聚光灯](/wiki/Beatmap_Spotlights)的季度挑战谱面曲包，过去被称为 *Charts* |
 | **T** | 主题 | 基于特别主题的谱面 |

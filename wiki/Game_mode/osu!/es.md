@@ -50,7 +50,7 @@ A veces, como se muestra en la captura de pantalla anterior, la bola puede inver
 
 Mantén presionado el botón del ratón/teclado (o mantén el lápiz sobre la tableta). Desde allí, usa el ratón (o lápiz) y gira el spinner en movimiento circular (en cualquier dirección) hasta que el spinner crezca completamente hacia afuera. Aparecerá un aviso de *Clear* para indicar que se completó el spinner. Si el spinner se completó antes, puedes continuar girando para obtener una bonificación de puntuación y recuperar un poco de salud.
 
-El círculo blanco exterior muestra cuánto tiempo queda para completar el spinner. Este círculo se volverá rojo para notificar que el tiempo casi se acaba. Las skins más antiguas, que usan una [versión de skin](/wiki/Skinning/skin.ini#versions) 1.0, tendrán un medidor para indicar qué tan cerca está por completarse el spinner.
+El círculo blanco exterior muestra cuánto tiempo queda para completar el spinner. Este círculo se volverá rojo para notificar que el tiempo casi se acaba. Las skins más antiguas, que usan una [versión de skin](/wiki/Skinning/skin.ini#versiones) 1.0, tendrán un medidor para indicar qué tan cerca está por completarse el spinner.
 
 El pequeño cuadro debajo del spinner muestra la velocidad de giro actual, medida en giros por minuto.
 
