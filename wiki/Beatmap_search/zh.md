@@ -10,25 +10,27 @@ tags:
   - 网页搜索
   - 筛选谱面
 outdated_translation: true
-outdated_since: 732ca28d8f8718a1bd62e52d3552d5bb7241803d
+outdated_since: b109605a360c0b1751daa1f9fabf8bdbe8c9b6b9
 ---
 
 # 谱面搜索
 
 *另见：[谱面 § 下载谱面](/wiki/Beatmap#下载谱面)*
 
-通常情况下，在[选歌界面](/wiki/Client/Interface#选歌界面)或官网的搜索栏里，输入需要搜索的文本，即可匹配谱面的作曲家、曲名、难度的作者及名称、来源和标签。输入一串数字会搜索具有对应 [标识符](/wiki/Beatmap#标识符) 的谱面和难度。所有搜索内容都不区分大小写。
+通常情况下，在[选歌界面](/wiki/Client/Interface#选歌界面)或官网的搜索栏里，输入需要搜索的文本，即可匹配谱面的作曲家、曲名、难度的作者及名称、来源和标签。输入一串数字会搜索具有对应[标识符](/wiki/Beatmap#标识符)的谱面和难度。所有搜索内容都不区分大小写。
 
-使用以下符号来比较谱面元数据的特定数值，使筛选结果更精确：
+可以使用以下符号，使用特定数值来更精确地筛选谱面元数据：
 
-| 比较符 | 描述 |
-| :-: | :-- |
-| `=` (通用)、`==` (稳定版)、`:` (lazer 和网页端) | 等于 |
-| `!=` | 不等于 |
-| `<` | 小于 |
-| `>` | 大于 |
-| `<=` | 小于等于 |
-| `>=` | 大于等于 |
+| 比较符 | osu! 官网 | osu!(stable) | osu!(lazer) | 描述 |
+| :-: | :-- | :-- | :-- | :-- |
+| `=` | ![是][true] | ![是][true] | ![是][true] | 等于 |
+| `==` | ![否][false] | ![是][true] | ![否][false] | 等于 |
+| `:` | ![是][true] | ![否][false] | ![是][true] | 等于 |
+| `!=` | ![否][false] | ![是][true] | ![否][false] | 不等于 |
+| `<` | ![是][true] | ![是][true] | ![是][true] | 小于 |
+| `>` | ![是][true] | ![是][true] | ![是][true] | 大于 |
+| `<=` | ![是][true] | ![是][true] | ![是][true] | 小于等于 |
+| `>=` | ![是][true] | ![是][true] | ![是][true] | 大于等于 |
 
 ## 客户端
 
@@ -62,6 +64,8 @@ outdated_since: 732ca28d8f8718a1bd62e52d3552d5bb7241803d
 | 筛选项 | 描述 |
 | :-: | :-- |
 | `artist` | 作曲家的名字 |
+| `title` | 歌曲名 |
+| `source` | 歌曲的媒体，比如电子游戏、电影、系列、活动，也就是歌曲的来源或最相关的东西 |
 | `featured_artist` | [精选艺术家](/wiki/People/Featured_Artists) 的标识符 |
 | `creator` | 谱面难度的作者 |
 | `difficulty` | 谱面难度的名字 |
@@ -124,13 +128,13 @@ unplayed= status=r christmas
 ranked>=2010-08 ranked<2010-11 creator=Natteke
 ```
 
-(Lazer) 搜2月5小时之前玩过的谱面难度：
+（Lazer）搜 2 月 5 小时之前玩过的谱面难度：
 
 ```
 played<2M5h
 ```
 
-(Lazer) 搜过去一年之内没有玩过的谱面难度：
+（Lazer）搜过去一年之内没有玩过的谱面难度：
 
 ```
 lastplayed>1y
@@ -140,3 +144,6 @@ lastplayed>1y
 
 [^website-filters]: [osu!web 源代码](https://github.com/ppy/osu-web/blob/c1a5dc390634accc87c12cb2cead73c45d8e7ad5/app/Libraries/Search/BeatmapsetQueryParser.php)
 [^lazer-filters]: [osu!(lazer) 源代码](https://github.com/ppy/osu/blob/ae9a2661ace43a96a4fbf26072ed3efd0dc0ba54/osu.Game/Screens/Select/FilterQueryParser.cs)
+
+[true]: /wiki/shared/true.png
+[false]: /wiki/shared/false.png
