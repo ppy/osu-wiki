@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Historia del skinning
 
 Los elementos de las skins listados aquí ya no se encuentran en uso.
