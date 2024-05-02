@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 8aa57cbb842da61dbfc63dad509f4eed34e1066c
 ---
 
 # Schrift

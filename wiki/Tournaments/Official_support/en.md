@@ -11,7 +11,7 @@ tags:
 
 The [osu! team](/wiki/People/osu!_team) runs a program where they may opt to provide community-run tournaments that abide by a certain set of criteria and expectations with extra support, at their discretion.
 
-This article was last updated on January 18, 2024. For any queries and clarifications, please consult the `#tournaments` channel on the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+This article was last updated on April 18, 2024. For the full changelog, check out the [tournament support updates thread](https://osu.ppy.sh/community/forums/topics/1715676). For any queries or clarifications, please consult the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Benefits
 
@@ -30,9 +30,10 @@ Community-run tournaments which abide by the following hard criteria are eligibl
 - The tournament must operate on a Round of 16 double-elimination format at a minimum.
   - Larger formats, such as group stages and Swiss brackets, may also be used so long as they start with at least 16 teams and, if applicable and if starting with only 16 teams, break to a double-elimination bracket afterwards.
   - Alternative scales and formats may be permitted at the sole discretion of the tournament committee. Hosts should contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh) if they are seeking to receive tournament support for a non-traditional tournament format or size.
-- The forum thread for the tournament **MUST** contain a clearly visible link in a normal-sized font to the [tournament reports form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
+- The forum threads associated with the tournament — this includes forum threads for any preliminary events — **MUST** contain a clearly visible link in a normal-sized font to the [tournament reports form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
   - `https://pif.ephemeral.ink/tournament-reports`
   - This report form is overseen by the [Tournament Committee](/wiki/People/Tournament_Committee). We encourage all users — players and staff alike — to make use of this form where necessary. Any breaches of [expectations](#expectations), [other procedures](#other-procedures), or [eligibility](#eligibility) requirements should prompt a report.
+- The tournament must only use beatmaps of songs which are cleared in terms of [content usage permissions](/wiki/Rules/Content_usage_permissions#artist-permissions). Any usage of tracks which are explicitly disallowed will revoke a tournament's eligibility for support. See the [ranking criteria](/wiki/Ranking_criteria#rules) for details regarding exceptions for artists or tracks which are listed as disallowed.
 - The tournament only allows players of exceptional skill to participate, disallowing players lower than the following ranks in each game mode:
   - osu!: 100,000
   - osu!taiko: 10,000
@@ -40,6 +41,7 @@ Community-run tournaments which abide by the following hard criteria are eligibl
   - osu!mania: 40,000
   - This does not apply to open rank tournaments.
 - The tournament must adhere to all [expectations](#expectations) of officially supported tournaments.
+  - Any tournaments held as preliminary events leading into a main competition must adhere to the same [expectations](#expectations) as standalone tournaments.
 
 ## Requesting support
 
