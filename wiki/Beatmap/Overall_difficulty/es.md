@@ -52,7 +52,7 @@ Las ventanas de tiempo para los juicios se pueden ver al pasar el cursor sobre l
 | 300 | `64 - 3 × OD` |
 | 200 | `97 - 3 × OD` |
 | 100 | `127 - 3 × OD` |
-| 50 | `188 - 3 × OD` |
+| 50 | `151 - 3 × OD` |
 
 Si el jugador golpea fuera de la ventana de tiempo de 50, contará como un fallo. En caso de que las ventanas de tiempo de dos objetos se solapen, el segundo objeto será inaccesible hasta que el primer objeto desaparezca debido al [notelock](/wiki/Gameplay/Judgement/Notelock).
 
