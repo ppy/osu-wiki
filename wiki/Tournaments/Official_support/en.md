@@ -199,13 +199,13 @@ The minimum requirements to request in-game or website advertising support are a
 - The tournament has successfully run for *at least* two badged iterations in the past.
   - Exceptions can be made at the discretion of the osu! team and the Tournament Committee based on any number of factors, such as size, scope, reach, and supporting team size of a given tournament. A good example of this kind of exception would be an event like the Roundtable.
 - The livestreams of your current tournament average a reasonable viewership for any game modes featured in them. More popular modes (such as osu!) will be expected to have higher average viewership in order to qualify.
-- Your tournament is nearing its conclusion (e.g. your tournament is at Quarterfinals or above and it started on Round of 32).
+- Your tournament is nearing its conclusion (e.g. your tournament is at Quarterfinals or above and it started on Round of 32). This only applies for [menu banners](#main-menu-banners).
 - You are able to provide the schedule of the matches and livestreams ahead of time.
 - Your tournament streams or otherwise shares its results in clear and legible English.
 
 If you satisfy the above criteria, you may request this support by sending an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh). This request should include a base-level history of your tournament and its impact upon the community if you have not received this type of support before. Please also note that this additional support is not guaranteed under any circumstances, and is awarded at the osu! team's sole discretion.
 
-We recommend sending any such requests at least a month in advance of registrations to allow time for consideration.
+Please send any such requests at least a month in advance of registrations to allow time for consideration.
 
 #### Main-menu banners
 
@@ -233,13 +233,10 @@ Please do not submit a main menu banner with your original request — you will 
 
 While support for advertising and sharing the outcome of your tournament is available via news posts, there are additional requirements that must be considered:
 
-- Only news posts advertising registrations and recapping of **final** results are presently permitted.
+- Tournaments will be expected to provide both one news post for advertising registrations and one for recapping **final** results, and those responsible for writing them should expect to adhere to the editorial standards required by our [news styling criteria](/wiki/News_styling_criteria). Additional news posts are presently not permitted.
 - If your tournament is limited to a specific region, it is only eligible to receive news post support if it involves a LAN (a.k.a. an in-person meetup).
-- You are expected to provide a follow-up news post detailing the conclusion of the tournament.
 
-Tournaments will be expected to provide their own written news posts in this manner, and those responsible for writing them should expect to adhere to the editorial standards required by our [news styling criteria](/wiki/News_styling_criteria).
-
-Prospective news posts should be submitted well in advance, and will be reviewed by both the Tournament Committee and the osu! news team for suitability.
+Requests for news support will be reviewed by both the Tournament Committee and the osu! news team for suitability.
 
 ## FAQ
 
