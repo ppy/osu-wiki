@@ -28,7 +28,7 @@ Les packs de beatmaps sont divisés en 7 catégories avec un indicateur pour les
 | :-: | :-- | :-- |
 | **S** | Standard | Beatmaps [classé](/wiki/Beatmap/Category#ranked) ou [approuvé](/wiki/Beatmap/Category#approved) |
 | **F** | Featured Artist | Chansons venant des [Featured Artists](/wiki/People/Featured_Artists) |
-| **T** | Tournoi | Mappools des tournois |
+| **P** | Tournoi | Mappools des tournois |
 | **L** | Project Loved | Beatmaps choisies par la communauté du [Project Loved](/wiki/Community/Project_Loved) |
 | **R** | Spotlights | Packs de beatmaps défis saisonniers du programme [Beatmap Spotlights](/wiki/Beatmap_Spotlights), anciennement connu sous le nom de *Charts* |
 | **T** | Thème | Beatmaps basés sur un thème particulier |
