@@ -31,13 +31,13 @@ In stable, the accuracy (and judgement) requirements for each [grade](/wiki/Game
 
 Meanwhile, osu!(lazer) has these accuracy cutoffs now:
 
-| Grade | osu! / osu!taiko | osu!mania | osu!catch |
+| Grade | osu! / osu!taiko | osu!catch | osu!mania |
 | :-: | :-- | :-- | :-- |
 | SS | 100% | 100% | 100% |
-| S | ≥95% (no misses) | ≥95% | ≥98% |
-| A | ≥90% | ≥90% | ≥94% |
-| B | ≥80% | ≥80% | ≥90% |
-| C | ≥70% | ≥70% | ≥85% |
+| S | ≥95% (no misses) | ≥98% | ≥95% |
+| A | ≥90% | ≥94% | ≥90% |
+| B | ≥80% | ≥90% | ≥80% |
+| C | ≥70% | ≥85% | ≥70% |
 
 |  |  |
 | :-- | :-: |
