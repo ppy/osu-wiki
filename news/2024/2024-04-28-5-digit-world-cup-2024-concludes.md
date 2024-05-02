@@ -228,6 +228,8 @@ Where might you go from here?
 
 ---
 
+Everyone involved, in one picture. Something neat might happen if you click on it...
+
 [![](/wiki/shared/news/2024-04-28-5-digit-world-cup-2024-concludes/5wc2024-credits.png)](https://www.youtube.com/watch?v=KvztyaifngM)
 
 These types of tournaments are only possible because of the incredible osu! tournament community. It takes consistent contributions from dozens and dozens of people, ranging from playtesters to streamers, casters, referees, artists, sheeters, poolers... the list goes on and on. This admin team has a unique perspective in that we are the only ones who truly see everything from the months-long planning phase through to the end.
