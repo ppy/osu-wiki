@@ -22,6 +22,7 @@ Officially supported contests have access to certain benefits:
 
 - **Profile badge prizes for first-place winners.** See profile badge design criteria on the [official tournament support article](/wiki/Tournaments/Official_support#profile-badges).
 - **Progress towards *Elite Mapper* user title.** See [contest points](/wiki/Contests/Contest_points) for more details.
+- Potential consideration for [news coverage](#requesting-in-game-banner-and-news-post-support), one post advertising registrations and one summarising final results.
 
 ## Eligibility
 
@@ -61,7 +62,7 @@ If your contest satisfies the [eligibility criteria](#eligibility), you can make
   - Previous iterations of the same contest series (if applicable).
   - Your contest on the [Mappers' Guild contest listing](https://mappersguild.com/contests/listing) (if applicable).
 
-Once we receive your request, the osu! team will send an approval or denial of your contest's official support status.
+Once we receive your request, the osu! team will send an approval or denial of your contest's official support status. Please send any such requests as early as possible before registrations, ideally at least a month in advance, to allow time for consideration.
 
 The osu! team may choose to deny official support to any contest that fits the eligibility criteria at their discretion. This ensures no foul play occurs by contest organisers taking advantage of criteria loopholes, so if you are running a contest without ill intent, you likely do not need to worry about this.
 
@@ -71,6 +72,19 @@ If approved, you will need to submit the following:
 - An appropriately designed badge (see profile badge design criteria on the [official tournament support article](/wiki/Tournaments/Official_support#profile-badges)).
 
 In exceptionally rare cases, a contest may be granted the privilege of awarding badges to its top three finalists. A contest that has received this distinction is recognised for attaining the highest level of production quality and organisation possible — this is given exclusively at the discretion of the osu! team. Hosts will be contacted directly if applicable.
+
+### News posts
+
+While support for advertising and sharing the outcome of your contest is available via news posts, there are additional requirements that must be considered:
+
+- Contests will be expected to provide the following news posts:
+  - A news post for advertising the contest.
+  - A news post announcing that the voting is open. (if the winners are determined based on public voting)
+  - A news post detailing **final** results.
+Those responsible for writing them should expect to adhere to the editorial standards required by our [news styling criteria](/wiki/News_styling_criteria). Additional news posts are presently not permitted.
+- If your tournament is limited to a specific region, it is only eligible to receive news post support if it involves a LAN (a.k.a. an in-person meetup).
+
+Requests for news support will be reviewed by both the Tournament Committee and the osu! news team for suitability.
 
 ## Notes
 
