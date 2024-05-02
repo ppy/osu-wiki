@@ -205,7 +205,7 @@ The minimum requirements to request in-game or website advertising support are a
 
 If you satisfy the above criteria, you may request this support by sending an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh). This request should include a base-level history of your tournament and its impact upon the community if you have not received this type of support before. Please also note that this additional support is not guaranteed under any circumstances, and is awarded at the osu! team's sole discretion.
 
-Please send any such requests at least a month in advance of registrations to allow time for consideration.
+Please send any such requests as early as possible before registrations, ideally at least a month in advance, to allow time for consideration.
 
 #### Main-menu banners
 
