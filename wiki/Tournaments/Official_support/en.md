@@ -20,7 +20,7 @@ Officially supported tournaments have access to:
 - A dedicated [screening process](#tournament-screening) to prevent users with serious integrity infringements (cheating, multi-accounting, tournament bans) from playing.
 - [Profile badge prizes](#profile-badges) for first-place winners.
 - Potential consideration for a [main-menu banner advertisement](#requesting-in-game-banner-and-news-post-support) during major matches.
-- Potential consideration for [news coverage](#requesting-in-game-banner-and-news-post-support) advertising registrations.
+- Potential consideration for [news coverage](#requesting-in-game-banner-and-news-post-support), one post advertising registrations and one summarising final results.
 
 ## Eligibility
 
@@ -205,7 +205,7 @@ The minimum requirements to request in-game or website advertising support are a
 
 If you satisfy the above criteria, you may request this support by sending an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh). This request should include a base-level history of your tournament and its impact upon the community if you have not received this type of support before. Please also note that this additional support is not guaranteed under any circumstances, and is awarded at the osu! team's sole discretion.
 
-We recommend sending any such requests as early as possible to allow time for consideration.
+We recommend sending any such requests at least a month in advance of registrations to allow time for consideration.
 
 #### Main-menu banners
 
@@ -235,6 +235,7 @@ While support for advertising and sharing the outcome of your tournament is avai
 
 - Only news posts advertising registrations and recapping of **final** results are presently permitted.
 - If your tournament is limited to a specific region, it is only eligible to receive news post support if it involves a LAN (a.k.a. an in-person meetup).
+- You are expected to provide a follow-up news post detailing the conclusion of the tournament.
 
 Tournaments will be expected to provide their own written news posts in this manner, and those responsible for writing them should expect to adhere to the editorial standards required by our [news styling criteria](/wiki/News_styling_criteria).
 
