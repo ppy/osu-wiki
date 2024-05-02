@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Tim dukungan teknis
 
 *Artikel ini mengusung konteks bahasan yang berbeda dengan [Tim dukungan akun](/wiki/People/Account_support_team)*.
