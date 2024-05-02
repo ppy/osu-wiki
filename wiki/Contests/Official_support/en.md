@@ -79,7 +79,7 @@ While support for advertising and sharing the outcome of your contest is availab
 
 - Contests will be expected to provide the following news posts:
   - A news post for advertising the contest.
-  - A news post announcing that the voting is open. (if the winners are determined based on public voting)
+  - A news post announcing that the voting is open (if the winners are determined based on public voting).
   - A news post detailing **final** results.
 Those responsible for writing them should expect to adhere to the editorial standards required by our [news styling criteria](/wiki/News_styling_criteria). Additional news posts are presently not permitted.
 - If your tournament is limited to a specific region, it is only eligible to receive news post support if it involves a LAN (a.k.a. an in-person meetup).
