@@ -22,7 +22,7 @@ Officially supported contests have access to certain benefits:
 
 - **Profile badge prizes for first-place winners.** See profile badge design criteria on the [official tournament support article](/wiki/Tournaments/Official_support#profile-badges).
 - **Progress towards *Elite Mapper* user title.** See [contest points](/wiki/Contests/Contest_points) for more details.
-- Potential consideration for [news coverage](#news-posts).
+- Potential consideration for [news coverage](#news-posts) (outside the required coverage if the contest is awarding [contest points](/wiki/Contests/Contest_points)).
 
 ## Eligibility
 
