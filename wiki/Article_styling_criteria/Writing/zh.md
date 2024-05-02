@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 8aa57cbb842da61dbfc63dad509f4eed34e1066c
+---
+
 # 写作
 
 *关于排版标准，请参见：[文章风格规范/排版](../Formatting)*\

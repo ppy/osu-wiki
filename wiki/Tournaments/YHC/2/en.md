@@ -296,7 +296,7 @@ This competition has come to an end and resulted in the following podium:
 ### Mappool information
 
 1. Every stage will have its own mappool.
-2. Each mappool will consist of 4 brackets: [No Mod](/wiki/Gameplay/Game_modifier#nomod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), and [FreeMod](/wiki/Gameplay/Game_modifier#freemod).
+2. Each mappool will consist of 4 brackets: [No Mod](/wiki/Gameplay/Game_modifier#no-mod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), and [FreeMod](/wiki/Gameplay/Game_modifier#free-mod).
 3. The mappool sizes are as follows:
    - Group Stage (Round 1) and Elimination Stage 1 (Round 2): 14 beatmaps: 6 HD, 2 NM, 2 DT, 3 FM, 1 TB
    - Elimination Stage 2 (Round 3): 16 beatmaps: 7 HD, 2 NM, 3 DT, 3 FM, 1 TB
