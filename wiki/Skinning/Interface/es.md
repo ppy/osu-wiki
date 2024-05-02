@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Skinning de la interfaz
 
 *Véase también: [Interfaz](/wiki/Client/Interface)*
