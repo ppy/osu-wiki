@@ -1,27 +1,25 @@
 ---
 tags:
   - FA
-  - 精选艺术家
-  - 艺术家
 ---
 
-# 精选艺术家
+# Artistas destacados
 
-**精选艺术家**（简称 ***FA*** ）是同 osu! 合作的音乐制作人，他们授权的音乐可以用在[谱面](/wiki/Beatmap)和 [osu! 世界杯](/wiki/Tournaments#osu!-世界杯)直播的背景音乐中。
+Los **artistas destacados** (abreviado en inglés como ***FA***) son artistas musicales que han colaborado con osu! para que una selección de sus pistas estén disponibles para su uso en [beatmaps](/wiki/Beatmap) y música de fondo en las transmisiones en vivo de la [osu! World Cup](/wiki/Tournaments#osu!-world-cup)
 
-官网的[精选艺术家列表](https://osu.ppy.sh/beatmaps/artists)列出了所有参与合作的艺术家。每位艺术家的主页都包含其音乐的大致信息，以及经授权可在 osu! 中使用的音乐。音乐封装在已测好时间轴的 `.osz` 文件里，用于作图使用。
+La [lista de los artistas destacados](https://osu.ppy.sh/beatmaps/artists) del sitio web muestra a cada artista involucrado. La página de cada artista contiene información general acerca de su música y una lista de sus pistas licenciadas para su uso en osu! junto a un archivo `.osz` pre-temporizado para el beatmapping.
 
-[osu! 团队](/wiki/People/osu!_team)有时会和艺术家们专门为 osu! 制作音乐，这类音乐叫做 [osu! originals](/wiki/osu!_originals)，对应艺术家的曲目列表中也有标签。
+El [osu! team](/wiki/People/osu!_team) a veces colabora con artistas para crear nuevas pistas para usar en osu!, llamadas [osu! originals](/wiki/osu!_originals). Estas son etiquetadas como tal en el catálogo de los artistas destacados.
 
-## 入选
+## Selección
 
-除了 osu! 社区间接选择的精选艺术家之外，如果有谱师用某位艺术家的音乐制作了成功上架的谱面，osu! 团队可能会与那位艺术家取得联系并讨论精选艺术家的事宜。偶尔，还会有一些艺术家因为其他因素而入选，比如有听众呼吁他们。
+Las adiciones a la librería de los artistas destacados son seleccionadas indirectamente por la comunidad de osu!. Si los mappers crean y clasifican beatmaps con la música de un artista, el osu! team puede ponerse en contacto con dicho artista para hablar sobre el programa de artista destacado. Sin embargo, algunos artistas son ocasionalmente invitados a convertirse en artistas destacados basándose en otros factores, como el atractivo que puedan tener para la audiencia de mappers de osu!.
 
-精选艺术家里的所有歌曲都不是 osu! 独占的。对该项目感兴趣的艺术家，可参阅[音乐版权](/wiki/Legal/Music_licensing)了解更多详情。
+Todas las canciones del programa de artista destacado tienen licencia no exclusiva para su uso en osu!. Más detalles para músicos que deseen unirse a los artistas destacados pueden ser encontrados en el artículo de [licenciamiento de música](/wiki/Legal/Music_licensing).
 
-## 公布
+## Lanzamientos
 
-每年新加入的精选艺术家的数目：
+Nuevos lanzamientos de un artista destacado por año:
 
 - **2016:** 8
 - **2017:** 11
@@ -31,27 +29,27 @@ tags:
 - **2021:** 101
 - **2022:** 104
 - **2023:** 64
-- **2024:** *待定*
+- **2024:** *por determinar*
 
-每周，osu! 的[新闻推送](https://osu.ppy.sh/home/news)都会公布新的精选艺术家，公告文章里大多都会列出艺术家授权的音乐和主页链接，有时这些文章也会和[谱师工会](/wiki/Community/Mappers_Guild)做的谱面或作图竞赛的文章一同发布。
+Los nuevos artistas destacados son anunciados semanalmente en el [sitio de noticias](https://osu.ppy.sh/home/news) de osu!. La mayoría de los anuncios incluyen una lista de las canciones licenciadas del artista y un enlace a su página de artista destacado, aunque algunos anuncios se emparejan con concursos de mapping o beatmaps creados por el [Mappers' Guild](/wiki/Community/Mappers_Guild).
 
-## 社区用法
+## Uso de la comunidad
 
-社区鼓励大家使用精选艺术家提供的音乐来作图，并提供已经测好[时间轴](/wiki/Client/Beatmap_editor/Timing)的谱面模板，以方便谱师迅速投入到创作中。[osu!lazer](/wiki/Client/Release_stream/Lazer) 会在搜索页和谱面详情页标记出使用精选艺术家制作的谱面。
+Se anima a los beatmappers a crear mapas para las pistas de los artistas destacados. Estas pistas se suministran con datos de [temporización](/wiki/Client/Beatmap_editor/Timing) y ya están autorizadas para su uso en osu!, permitiendo a los usuarios pasar inmediatamente al mapping sin preocupaciones. El cliente en desarrollo de osu!, apodado [osu!(lazer)](/wiki/Client/Release_stream/Lazer), marcará estos mapas prominentemente en el juego.
 
-所有公开发布的[作图竞赛](https://osu.ppy.sh/community/contests)，比如[月度作图竞赛 (MBC)](/wiki/Contests/Monthly_Beatmapping_Contest)、[奥林谱克 (Mapping Olympiad)](/wiki/Contests/Mapping_Olympiad)，都会要求参赛者使用精选艺术家的歌曲来作图。有些社区自发的竞赛也会使用这一规定。
+Todos los concursos de mapping publicados en el [listado de concursos de la comunidad](https://osu.ppy.sh/community/contests), tales como el [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) y el [Mapping Olympiad](/wiki/Contests/Mapping_Olympiad), requieren que los participantes creen mapas con canciones de un artista destacado. Algunos concursos dirigidos por la comunidad también usan estas canciones.
 
-为了促进更多人使用精选艺术家提供的内容，社区成立了谱师工会 (Mappers' Guild)，以 MMO 风格的任务体系让谱师同他人合作作图。上架的谱面能获得奖项，包括有三个等级的资料勋章 <!--计划：个人资料勋章--> 。对谱师工会感兴趣的，可访问[谱师工会的官网](https://mappersguild.com/)了解详情。从[2023年4月](https://osu.ppy.sh/home/news/2023-04-09-new-featured-artist-chon)起，谱师们能在 [osu! Discord 服务器](/wiki/Community/osu!_Discord_server) 的 `#featured-artists` 频道讨论所有精选艺术家作图相关的话题。 
+Para promocionar el mapping del contenido de los artistas destacados, los miembros de la comunidad crearon el [Mappers' Guild](/wiki/Community/Mappers_Guild), dándole a los mappers un sistema de misiones estilo MMO en el cual pueden participar junto a otros mappers. Los premios se conceden por crear y clasificar beatmaps, incluyendo tres niveles de insignias de perfil. Los mappers pueden unirse al gremio visitando el [sitio web del Mappers' Guild](https://mappersguild.com/). A partir de [abril de 2023](https://osu.ppy.sh/home/news/2023-04-09-new-featured-artist-chon), los mappers también pueden discutir todo lo relacionado a la creación de beatmaps de artistas destacados en el canal `#featured-artists` en el [servidor de Discord osu!](/wiki/Community/osu!_Discord_server).
 
-如果精选艺术家里提供的 `.osz` 文件有任何问题，可以在[这个论坛帖](https://osu.ppy.sh/community/forums/topics/783985)中提交反馈。
+Si un `.osz` pre-temporizado del listado de los artistas destacados tiene errores de cualquier tipo, pueden ser reportados en este [hilo del foro](https://osu.ppy.sh/community/forums/topics/783985).
 
-## 有 osu! 账号的精选艺术家
+## Artistas destacados con cuentas de osu!
 
-精选艺术家的账号有青色的 "Featured Artist" [玩家头衔](/wiki/Community/User_title)和 `FA` [用户组](/wiki/People/User_group)标签，体现出他们对 osu! 的贡献。
+Los artistas destacados con una cuenta de osu! pueden ser identificados por un [título de usuario](/wiki/Community/User_title) cian «Featured Artist» y una insignia de [grupo de usuario](/wiki/People/User_group) que dice `FA` para exhibir su participación.
 
-[精选艺术家用户组页面](https://osu.ppy.sh/groups/35)列出的是有 osu! 账号的精选艺术家，而[精选艺术家列表](https://osu.ppy.sh/beatmaps/artists)列出了所有精选艺术家。
+La [página de grupo de los artistas destacados](https://osu.ppy.sh/groups/35) enumera todas estas cuentas, mientras que el [listado de los artistas destacados](https://osu.ppy.sh/beatmaps/artists) enumera a todos los artistas destacados.
 
-| 用户 | 艺术家 |
+| Usuario | Artista |
 | :-- | :-- |
 | ::{ flag=JP }:: [69\_de\_74](https://osu.ppy.sh/users/28700783) | [69 de 74](https://osu.ppy.sh/beatmaps/artists/268) |
 | ::{ flag=JP }:: [7\_7](https://osu.ppy.sh/users/7491106) | [7\_7](https://osu.ppy.sh/beatmaps/artists/356) |
@@ -60,7 +58,7 @@ tags:
 | ::{ flag=US }:: [ERA Akiri](https://osu.ppy.sh/users/19587411) | [Akiri](https://osu.ppy.sh/beatmaps/artists/401) |
 | ::{ flag=AU }:: [aquellex](https://osu.ppy.sh/users/3137790) | [Aquellex](https://osu.ppy.sh/beatmaps/artists/380) |
 | ::{ flag=HK }:: [Ardolf](https://osu.ppy.sh/users/12359061) | [Ardolf](https://osu.ppy.sh/beatmaps/artists/263) |
-| ::{ flag=US }:: [BigMoist10](https://osu.ppy.sh/users/20787676) | [The Gentle Men](https://osu.ppy.sh/beatmaps/artists/142) (member of) |
+| ::{ flag=US }:: [BigMoist10](https://osu.ppy.sh/users/20787676) | [The Gentle Men](https://osu.ppy.sh/beatmaps/artists/142) (miembro de) |
 | ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) | [BilliumMoto](https://osu.ppy.sh/beatmaps/artists/38) |
 | ::{ flag=KR }:: [Cinamoro](https://osu.ppy.sh/users/18214510) | [Cinamoro](https://osu.ppy.sh/beatmaps/artists/341) |
 | ::{ flag=AT }:: [creosu](https://osu.ppy.sh/users/13958834) | [Creo](https://osu.ppy.sh/beatmaps/artists/36) |
@@ -72,7 +70,7 @@ tags:
 | ::{ flag=CA }:: [exyl_sounds](https://osu.ppy.sh/users/16759928) | [Exyl](https://osu.ppy.sh/beatmaps/artists/285) |
 | ::{ flag=GR }:: [Geoxor](https://osu.ppy.sh/users/8112146) | [Geoxor](https://osu.ppy.sh/beatmaps/artists/133) |
 | ::{ flag=NL }:: [happy30](https://osu.ppy.sh/users/27767) | [happy30](https://osu.ppy.sh/beatmaps/artists/317) |
-| ::{ flag=SE }:: [Helblinde](https://osu.ppy.sh/users/48053) | [Helblinde](https://osu.ppy.sh/beatmaps/artists/5), [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15) （成员） |
+| ::{ flag=SE }:: [Helblinde](https://osu.ppy.sh/users/48053) | [Helblinde](https://osu.ppy.sh/beatmaps/artists/5), [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15) (miembro de) |
 | ::{ flag=JP }:: [II-L](https://osu.ppy.sh/users/15223576) | [II-L](https://osu.ppy.sh/beatmaps/artists/172) |
 | ::{ flag=JP }:: [kanki2](https://osu.ppy.sh/users/9595391) | [Lime / Kankitsu](https://osu.ppy.sh/beatmaps/artists/116) |
 | ::{ flag=DE }:: [KIRA\_old\_1](https://osu.ppy.sh/users/2138310) | [KIRA](https://osu.ppy.sh/beatmaps/artists/27) |
@@ -100,7 +98,7 @@ tags:
 | ::{ flag=GB }:: [SAMString](https://osu.ppy.sh/users/7273976) | [SAMString](https://osu.ppy.sh/beatmaps/artists/273) |
 | ::{ flag=RU }:: [Shadren](https://osu.ppy.sh/users/745494) | [Shadren](https://osu.ppy.sh/beatmaps/artists/362) |
 | ::{ flag=US }:: [skymuted](https://osu.ppy.sh/users/7734050) | [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15) |
-| ::{ flag=ES }:: [sotuiofficial](https://osu.ppy.sh/users/14779258) | [Rising Sun Traxx](https://osu.ppy.sh/beatmaps/artists/41) （建立者） |
+| ::{ flag=ES }:: [sotuiofficial](https://osu.ppy.sh/users/14779258) | [Rising Sun Traxx](https://osu.ppy.sh/beatmaps/artists/41) (fundador) |
 | ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235) | [Sparxe](https://osu.ppy.sh/beatmaps/artists/398) |
 | ::{ flag=US }:: [synthion](https://osu.ppy.sh/users/2872433) | [Synthion](https://osu.ppy.sh/beatmaps/artists/357) |
 | ::{ flag=US }:: [Sydosys](https://osu.ppy.sh/users/17523947) | [Sydosys](https://osu.ppy.sh/beatmaps/artists/392) |
@@ -110,6 +108,6 @@ tags:
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) |
 | ::{ flag=DK }:: [water](https://osu.ppy.sh/users/11671515) | [watering](https://osu.ppy.sh/beatmaps/artists/416) |
 | ::{ flag=US }:: [Will Stetson](https://osu.ppy.sh/users/4909088) | [Will Stetson](https://osu.ppy.sh/beatmaps/artists/385) |
-| ::{ flag=JP }:: [xorsizer](https://osu.ppy.sh/users/20466752) | [Symholic](https://osu.ppy.sh/beatmaps/artists/130) （成员） |
+| ::{ flag=JP }:: [xorsizer](https://osu.ppy.sh/users/20466752) | [Symholic](https://osu.ppy.sh/beatmaps/artists/130) (miembro de) |
 | ::{ flag=TH }:: [YuugenP](https://osu.ppy.sh/users/2014016) | [rN](https://osu.ppy.sh/beatmaps/artists/190) |
 | ::{ flag=US }:: [Zenpakuwu](https://osu.ppy.sh/users/13226945) | [Zenpaku](https://osu.ppy.sh/beatmaps/artists/316) |
