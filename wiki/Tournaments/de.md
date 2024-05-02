@@ -44,7 +44,7 @@ Offizielle Turniere, die vom osu!-Team organisiert werden.
 | [osu!taiko World Cup 2021](TWC/2021) | 06.03.2021 | 11.04.2021 | ::{ flag=JP }:: Japan | ::{ flag=KR }:: Südkorea | ::{ flag=BR }:: Brasilien |
 | [osu!taiko World Cup 2022](TWC/2022) | 12.03.2022 | 24.04.2022 | ::{ flag=JP }:: Japan | ::{ flag=KR }:: Südkorea | ::{ flag=ID }:: Indonesien |
 | [osu!taiko World Cup 2023](TWC/2023) | 18.03.2023 | 30.04.2023 | ::{ flag=JP }:: Japan | ::{ flag=TW }:: Taiwan | ::{ flag=DE }:: Deutschland |
-| [osu!taiko World Cup 2024](TWC/2024) | 16.03.2024 | 28.04.2024 | *TBD* | *TBD* | *TBD* |
+| [osu!taiko World Cup 2024](TWC/2024) | 16.03.2024 | 28.04.2024 | ::{ flag=JP }:: Japan | ::{ flag=GB }:: Vereinigtes Königreich | ::{ flag=US }:: Vereinigte Staaten |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch World Cup
 
