@@ -317,7 +317,7 @@ Notas:
 
 ![](img/hitcircleoverlay.png)
 
-*Para obtener más detalles, véase [hitcircleoverlay.png](/wiki/Skinning/osu!#hit-circles).*
+*Para obtener más detalles, véase [hitcircleoverlay.png](/wiki/Skinning/osu!#círculos).*
 
 Notas:
 
@@ -331,7 +331,7 @@ Notas:
 
 ![](img/sliderstartcircleoverlay.png)
 
-*Para obtener más detalles, véase [sliderstartcircleoverlay.png](/wiki/Skinning/osu!#hit-circles).*
+*Para obtener más detalles, véase [sliderstartcircleoverlay.png](/wiki/Skinning/osu!#círculos).*
 
 Notas:
 
