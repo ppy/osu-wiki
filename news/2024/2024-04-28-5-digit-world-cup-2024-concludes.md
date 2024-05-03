@@ -42,7 +42,15 @@ In the end, Hong Kong took the win and won the match 4-5! Forcing Brazil into th
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/qY9OcD7yj3A" frameborder="0" allowfullscreen></iframe>
 </div>
 
-text
+Moving into the Round of 16, we see what looks like an impossible matchup for Australia (#17). To move into Quarterfinals in the winners bracket, they must win against Poland (#1). The absurdity of this match cannot be understated.
+
+In the beginning, all looks normal for Poland, the 98.6% favorite according to this week’s [pick’em challenge](/wiki/shared/news/2024-01-23-5-digit-world-cup-2024-registrations-now-open/pickem.png), as they take an easy two points from Australia. This is the behavior you expect from a #1 seed in the Round of 16, especially against a team who made it here via an upset against Sweden (#16).
+
+As the match charges on, Australia manages to earn point after point. Expecting an easy 3-0 lead, Poland picks HR3 and loses by a huge margin (by nearly 500k points). The score is now 2-1 and the ball is in Australia’s court. Looking to tie things up, the Aussies go for FM2 and manage to win by 300k - a second victory in a row over the goliath that is the Polish team. Everyone’s pick’ems are already shattered by this point, but the Australian team still has more up their sleeves and the score is tied 2-2.
+
+Lagging behind and desperately in need of momentum, Poland picks DT3. After an uncertain ending with Trainjumper’s client freezing on the livestream, the results are revealed in the match link: Australia won again and now has the advantage, 2-3 with the pick. They shoot for NM2 and win yet another point, somehow the script flipped and Australia is the one with match point against the would-be winners of the tournament.
+
+In the end, the run of a lifetime dissolves as Poland locks in and surges for victory, ultimately defeating the Australians in a 5-4 tiebreaker victory. The fact this match went to tiebreaker at all is incredible, we’re certain the Australian team is proud of their efforts.
 
 ### Grand Finals: ::{ flag=CA }:: Canada vs. ::{ flag=US }:: United States
 
