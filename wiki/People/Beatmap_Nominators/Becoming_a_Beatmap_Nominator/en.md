@@ -11,8 +11,8 @@ Applicants are required to meet a minimum [kudosu](/wiki/Modding/Kudosu) thresho
 Modders aiming to apply to the Beatmap Nominators must have:
 
 - At least 150 [kudosu](/wiki/Modding/Kudosu).
-- An ability to recognise beatmaps that should (and should not) be nominated
-- No outstanding behaviour issues.
+- The ability to recognise beatmaps that should (and should not) be nominated.
+- No [account restrictions](/wiki/Help_centre/Account_restrictions) within the past year.
 
 ## Traits to demonstrate in modding
 
