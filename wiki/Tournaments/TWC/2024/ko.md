@@ -3,6 +3,8 @@ tags:
   - TWC
   - TWC2024
   - TWC 2024
+outdated_translation: true
+outdated_since: 5291d6b7e14c5ced8380ce7917cbad6e0709b441
 ---
 
 # osu!taiko 월드컵 2024

@@ -20,7 +20,7 @@ La **clasificación ponderada por insignias** (***BWS***) es un sistema de [clas
 
 El principio del BWS es que a los jugadores se les asigna una mejor clasificación si han obtenido insignias por jugar torneos en el pasado. De esta manera, los jugadores no pueden permanecer indefinidamente en el mismo puesto en relación con otros jugadores de clasificación similar si se desempeñan bien.[^digitalhypno-discord-1][^digitalhypno-discord-2] En un conjunto de torneos en los que se usa el BWS, se espera que los jugadores que empiezan en puestos similares se inclinen por cabezas de serie del BWS que reflejen mejor su probabilidad de ganar partidos contra jugadores con cabezas de serie similares.[^digitalhypno-discord-3][^digitalhypno-discord-4]
 
-El BWS se usó por primera vez a finales de 2018 para la [Hippo Cup 2](https://osu.ppy.sh/community/forums/topics/848153). Desde entonces, se ha usado en muchos [torneos de la comunidad](/wiki/Tournaments#community) y es uno de los principales métodos de clasificación actualmente en uso, junto con las clasificaciones globales y las rondas clasificatorias.
+El BWS se usó por primera vez a finales de 2018 para la [Hippo Cup 2](https://osu.ppy.sh/community/forums/topics/848153). Desde entonces, se ha usado en muchos [torneos de la comunidad](/wiki/Tournaments#comunidad) y es uno de los principales métodos de clasificación actualmente en uso, junto con las clasificaciones globales y las rondas clasificatorias.
 
 ## Técnico
 
