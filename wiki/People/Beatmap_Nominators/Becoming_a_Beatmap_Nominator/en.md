@@ -4,7 +4,7 @@ Users interested in joining the [Beatmap Nominators](/wiki/People/Beatmap_Nomina
 
 Applications are conducted via the [BN website](https://bn.mappersguild.com/bnapps).
 
-Applicants are required to meet a minimum [kudosu](/wiki/Modding/Kudosu) threshold, and submit three [beatmaps](/wiki/Beatmap) they have recently [modded](/wiki/Modding), alongside answering certain question regarding them. A message from the NAT will be sent once a verdict has been decided. More information on applying can be found [on the website](https://bn.mappersguild.com/bnapps).
+Applicants are required to meet a minimum [kudosu](/wiki/Modding/Kudosu) threshold, and submit three [beatmaps](/wiki/Beatmap) they have recently [modded](/wiki/Modding), alongside answering certain questions regarding them. A message from the NAT will be sent once a verdict has been decided. More information on applying can be found [on the website](https://bn.mappersguild.com/bnapps).
 
 ## Basic criteria
 
@@ -42,7 +42,7 @@ The following are modding traits expected of Beatmap Nominators:
 
 ![Application flowchart](img/ApplicationFlowchart.png "Flowchart outlining the Beatmap Nominator application process")
 
-Users are required to submit 3 mods that have been modded by them within the last 6 months, each having a different host.
+Users are required to submit three beatmaps that have been modded by them within the last 6 months, each having a different host.
 
 - **A mod on a map that is ready to be nominated (or ready to be nominated after the mod is applied).**
   - This intends to show the applicant's ability to conduct the final steps of the modding process and independently evaluate a map's readiness for Ranked.
@@ -60,7 +60,7 @@ Users are required to submit 3 mods that have been modded by them within the las
 
 It is recommended that applicants preserve and submit a copy of the map before their mods are applied, as that will notably aid with the evaluation of their modding by giving better context to the evaluators.
 
-Optionally, the user can mark their application as available for the public, which will make it appear in the [public evaluations archive](https://bn.mappersguild.com/publicarchive). Users can freely opt in and out of this by changing the visibility status of any evaluation they have in [their evaluations page](https://bn.mappersguild.com/yourevals).
+Additionally, the user can mark their application as available for the public, which will make it appear in the [public evaluations archive](https://bn.mappersguild.com/publicarchive). Users can freely opt in and out of this by changing the visibility status of any evaluation they have in [their evaluations page](https://bn.mappersguild.com/yourevals).
 
 When a user applies to become a BN, the NAT will be notified via the "bnsite" Discord bot in their respective Discord channel. The notification will include the applicant's name and evaluation link, as well as which evaluators have been assigned to the application.
 
