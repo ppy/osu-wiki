@@ -142,11 +142,15 @@ How did you prepare for matches and 5WC itself?
 
 Are there any specific moments you remember the most vividly?
 
-> There were a bunch of great moments in this tournament, but I think my favorite moments happened in our match against the USA in losers bracket finals. After the match went to tiebreaker, I remember how happy and relieved the team sounded after winning such a hard fought match, as well as all the nice messages we exchanged with the US roster after the fact. This whole match sort of stuck with me because of how close a lot of the members on Canada's and USA's rosters are to each other, and the sportsmanship shown in this match was just really heartwarming to see.
+> There were a bunch of great moments in this tournament, but I think my favorite moments happened in our match against the USA in losers bracket finals. After the match went to tiebreaker, I remember how happy and relieved the team sounded after winning such a hard fought match, as well as all the nice messages we exchanged with the US roster after the fact.
+> 
+> This whole match sort of stuck with me because of how close a lot of the members on Canada's and USA's rosters are to each other, and the sportsmanship shown in this match was just really heartwarming to see.
 
 What was the first thing you did after the tournament?
 
-> Honestly I was really sad after taking Poland all the way to bracket reset just to lose, and really didn't do too much other than thinking a lot about how the match could've ended with Canada winning. But on a more positive note, a day after the tournament concluded, LumenLogic made an announcement in the Canadian 5wc server highlighting our performance, as well as Canada B and C team's respective placements in the 5wc's Minor League (a separately hosted tournament). In the same announcement he also gave a shoutout to all the people who were involved with tryouts and roster making this year, which was a nice way to wrap up 5wc for Canada.
+> Honestly I was really sad after taking Poland all the way to bracket reset just to lose, and really didn't do too much other than thinking a lot about how the match could've ended with Canada winning.
+> 
+> But on a more positive note, a day after the tournament concluded, [LumenLogic](https://osu.ppy.sh/users/8171404) made an announcement in the Canadian 5wc server highlighting our performance, as well as Canada B and C team's respective placements in the 5wc's Minor League (a separately hosted tournament). In the same announcement he also gave a shoutout to all the people who were involved with tryouts and roster making this year, which was a nice way to wrap up 5wc for Canada.
 
 ::{#naikou}::
 
@@ -190,13 +194,17 @@ For people not so familiar with the subject, what might be the reasons for creat
 
 How did creating 5 custom maps for 5WC 2024 come about? Was this a special occasion or were things business as usual?
 
-> In this case, it was a perfect combination of organizers giving us ample time and freedom to choose what we would like to map, as well as a period of time where I had a lot of motivation to map in general. In particular, a good chunk of my winter and spring breaks from school were spent working on these custom maps. The free time let me focus on mapping completely stress-free from school, which made me the most productive I've been in all my time mapping. For example, 2 of the 5 custom maps were started and finished all within the same week in January, and about 80% of my parts for the Finals TB were done in the week of my spring break.
+> In this case, it was a perfect combination of organizers giving us ample time and freedom to choose what we would like to map, as well as a period of time where I had a lot of motivation to map in general. In particular, a good chunk of my winter and spring breaks from school were spent working on these custom maps.
+> 
+> The free time let me focus on mapping completely stress-free from school, which made me the most productive I've been in all my time mapping. For example, 2 of the 5 custom maps were started and finished all within the same week in January, and about 80% of my parts for the Finals TB were done in the week of my spring break.
 > 
 > This was DEFINITELY a special occasion, where circumstances just lined up perfectly — typically mappers just make a map or two over the whole tournament (myself included). In any other circumstances this would be a painful, if not impossible, thing for me to do, especially because compared to other mappers I tend to be a lot slower in creating maps, and also because maps tend to go through a quality assurance process before being released.
 
 Having collaborated with a few artists at this point for original songs in your maps, how would you describe your experience this time mapping *Beyond Reality*?
 
-> Compared to my other original song maps, the highlight for this occasion was how closely I was able to work with the song artist themselves. Working closely with Naikou during the various stages of creating this map was wonderful. They provided so much for the map ranging from: different mp3 encodings to fit ranking criteria, the map's timing, the background, and even the song's sheet music to help us mappers in case we were confused about any rhythm. Being able to cycle feedback with the artist, both about the song and about the map, was an awesome experience and I believe it helped increase the quality of the final product significantly.
+> Compared to my other original song maps, the highlight for this occasion was how closely I was able to work with the song artist themselves. Working closely with Naikou during the various stages of creating this map was wonderful.
+> 
+> They provided so much for the map ranging from: different mp3 encodings to fit ranking criteria, the map's timing, the background, and even the song's sheet music to help us mappers in case we were confused about any rhythm. Being able to cycle feedback with the artist, both about the song and about the map, was an awesome experience and I believe it helped increase the quality of the final product significantly.
 > 
 > In terms of the mapping itself, this was quite a challenge. Those that know of my maps can attest that I don't map tech very often. Pushing myself out of my comfort zone to not only map in a style I don't have much experience with, but also have a final product that is cohesive with my collaborators, was very instructive for me as a mapper. I definitely felt myself improving so much during this process, and I'm very glad the final product was well received by the players.
 
@@ -210,12 +218,14 @@ Having collaborated with a few artists at this point for original songs in your 
 
 ---
 
-For people who are new to tournaments, what might go into the roles of "administration" and "mappooling"?
+For people who are new to tournaments, what might go into the roles of "administration"?
 
 > Tournament administration is a really loaded role because as a host you're responsible for each and every facet of a tournament player's experience. Referees, streamers, commentators, gfx artists, mappers, all of these roles have to be managed effectively by the host otherwise the tourney won't run smoothly.
 > 
 > The process starts long before the actual forum post drops as well; usually a timeline is laid out that has each and every round planned for, as well as having time set aside before each round of pools is released to make sure that mappools are of high quality, balanced difficulty, and overall just fun for the players to play.
-> 
+
+...And what about "mappooling"?
+
 > Honestly I could talk for hours about the intricacies of pooling, but the overall goal is to have each skillset in osu! represented as accurately as possible in terms of how many players play that skillset (for example: TONS of people play things like raw aim and streams/speed, but not very many play low approach rate reading with Hidden, and because of this most pools should have more aim than reading).
 >
 > You also have to pay close attention to difficulty balance too, because while Bancho star rating is actually really good for an automated system, that number that's shown isn't always accurate (I don't know anyone who would say [this difficulty of *Make a Move*](https://osu.ppy.sh/beatmapsets/765778#osu/1627148) is anywhere near as hard as [this diff of *Mononoke*](https://osu.ppy.sh/beatmapsets/1280194#osu/2733296)). Because of this, a **lot** of care has to go into pooling, since too much of one skillset or another can tip towards one team or another in an unfair way.
@@ -238,7 +248,9 @@ What have been your fondest memories from 5WC 2024
 
 Where might you go from here?
 
-> I still plan on hosting and pooling consistently! I plan on sticking around for next year's 5WC as a staff member and will also be continuing the badged [All-American Auction House](https://osu.ppy.sh/community/forums/topics/1692273?n=1) series that has already had 2 successful iterations with the 3rd coming in June. I also plan on starting another badged international series sometime this fall with a fun gimmick that hasn't been seen yet. I stream on twitch a few times a week, and I'm open to any questions regarding hosting/pooling either there or in discord dms, and if anyone needs staffing help for a tournament then please feel free to reach out and I'll try to help!
+> I still plan on hosting and pooling consistently! I plan on sticking around for next year's 5WC as a staff member and will also be continuing the badged [All-American Auction House](https://osu.ppy.sh/community/forums/topics/1692273?n=1) series that has already had 2 successful iterations with the 3rd coming in June. I also plan on starting another badged international series sometime this fall with a fun gimmick that hasn't been seen yet.
+> 
+> I stream on twitch a few times a week, and I'm open to any questions regarding hosting/pooling either there or in discord dms, and if anyone needs staffing help for a tournament then please feel free to reach out and I'll try to help!
 
 ---
 
