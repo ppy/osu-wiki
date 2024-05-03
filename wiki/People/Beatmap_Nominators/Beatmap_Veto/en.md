@@ -38,7 +38,7 @@ Following mediation, the beatmap veto will either be dismissed if the proposed c
 
 **If the beatmap veto is dismissed**, any formally qualified Beatmap Nominator may renominate the beatmap, including the Nominator(s) who initially nominated.
 
-In order to re-initiate a mediation which resulted in the dismissal of a veto, a Beatmap Nominator who hasn't previously nominated the mapset, and hasn't participated in the initiation of the initial veto, can re-initiate the mediation through vetoing again.
+In order to re-initiate a mediation which resulted in the dismissal of a veto, a Beatmap Nominator who hasn't previously nominated the mapset, or hasn't been a part of the initiation of the initial veto, can re-initiate the mediation through vetoing again.
 
 ### Upheld beatmap vetoes
 
