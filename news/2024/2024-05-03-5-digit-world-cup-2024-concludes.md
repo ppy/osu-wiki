@@ -24,7 +24,7 @@ We want to thank and congratulate Canada and the United States for once again pl
 
 ### Round of 32: ::{ flag=BR }:: Brazil vs. ::{ flag=HK }:: Hong Kong
 
-<div align="center">
+<div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/AzWb6NqDJg0" frameborder="0" allowfullscreen></iframe>
 </div>
 
@@ -38,7 +38,7 @@ In the end, Hong Kong took the win and won the match 4–5, forcing Brazil into 
 
 ### Round of 16: ::{ flag=PL }:: Poland vs. ::{ flag=AU }:: Australia
 
-<div align="center">
+<div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/qY9OcD7yj3A" frameborder="0" allowfullscreen></iframe>
 </div>
 
@@ -54,7 +54,7 @@ In the end, the run of a lifetime dissolved as Poland locked in and surged for v
 
 ### Losers Grand Finals: ::{ flag=CA }:: Canada vs. ::{ flag=US }:: United States
 
-<div align="center">
+<div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/p521LJbPT48" frameborder="0" allowfullscreen></iframe>
 </div>
 
