@@ -8,7 +8,7 @@ tags:
 
 ![HRS 2024 banner](img/banner.png)
 
-**Hard Rock Showdown 2024** (***HRS 2024***) was an international 1v1 osu! tournament hosted by ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251). It was the first instalment of Hard Rock Showdown.
+**Hard Rock Showdown 2024** (***HRS 2024***) was an international 1v1 osu! tournament hosted by ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251). It was the first instalment of the Hard Rock Showdown.
 
 ## Tournament schedule
 
@@ -32,11 +32,11 @@ tags:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Foxbox tablet cover (HRS-themed) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 6 months of osu!supporter |
 
-![HRS 2024 badge](img/badge@2x.png)
+![HRS 2024 winner's badge](img/badge@2x.png "HRS 2024 winner's badge")
 
 ## Organisation
 
-Hard Rock Showdown was run by various community members.
+Hard Rock Showdown 2024 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -97,7 +97,7 @@ Hard Rock Showdown was run by various community members.
 
 ## Podium
 
-![HRS 2024 podium](img/podium.png)
+![HRS 2024 podium](img/podium.png "HRS 2024 podium")
 
 ## Mappools
 
