@@ -53,6 +53,10 @@ The application process has been streamlined, easing users into the application 
 
 Yep, you heard it here first. Or probably not. But the RC test is gone, dusted. Vanished, not to come again in the foreseeable future. The test in its current form didn't offer a lot. Besides being a filter and an English comprehension test, it was redundant as applicants would better show their understanding of the Ranking Criteria through their mods. 
 
+#### Streamlining cooldowns
+
+Cooldowns have been homogenized across the board. Failed applicants and BNs who get kicked for low activity will always have to wait 60 days before reapplying again under normal circumstances. This does not apply to Beatmap Nominators who leave on good terms and want to rejoin within a year after their departure who will be able to rejoin instantly.
+
 #### Progress bar for applications
 
 One of the issues with the opaqueness of the process was that candidates didn't know when their verdict would be delivered, or at what stage their application was. By offering our very own BN app parcel tracking service, applicants will now be able to be updated in real time when their food — I mean, their application — be delivered.
@@ -75,35 +79,25 @@ The Probation Beatmap Nominators user group has been reworked slightly. It will 
 
 #### Mock evaluations are no more
 
-ye
-
-#### Streamlining cooldowns
-
-everything 60d except for insta rejoins
+Beatmap Nominators will not be able to make mock evaluations anymore. The system besides being underused, was usually superseded by the introduction of BN Evaluator cycles.
 
 #### Vetoes
 
-assign all bns to veto mediations (no need for header cuz only 1 element in vetoes?)
+Vetoes have slightly been reworked. Once a Veto is made, the entire usergroup of the gamemode which it concerns will be drafted. While participation is not obligatory, this change aims to provide a better representation of what the BN group of a gamemode thinks of a Veto, in turn making the results feel less RNG depending on who got randomly chosen.
 
 ### Within the Nomination Assessment Team
 
 #### NAT additions
 
-bns signing up for bn evaler rounds and other bns vouching on signups, then we pick from them
+With the removal of mock evaluations, the NAT addition process will fully rely on BN Evaluator cycles. Beatmap Nominators can sign up for these cycles, and their peers will vouch for the people they'd like to see assigned. The NAT will pick from this curated list, taking into consideration the opinions of the BNs who vouched their peers.
 
-emphasize that this is very much prone to change via community feedback and we're encouraging any input on this
-
-#### Evaluation feedback changes
-
-Stuff. I am stuff.
+It's worth noting that the current implementation is prone to change depending on community feedback. The plan is to test this new implementation to see what works and what doesn't. So stay tuned for more changes to come!
 
 ## Things to look out for
 
 ### Ranking criteria cleanup project
 
-ubkrc 2: electric bongoloo
-
-link to [meta proposal](https://osu.ppy.sh/community/forums/topics/1894663?n=1) and [sb proposal](https://osu.ppy.sh/community/forums/topics/1897427?n=1)
+The Ranking Criteria cleanup project is still going strong! A few proposals already made it into the RC, with more looming around the corner such as the [metadata](https://osu.ppy.sh/community/forums/topics/1894663?n=1) or the [storyboard](https://osu.ppy.sh/community/forums/topics/1897427?n=1) proposals currently being discussed.
 
 ### Badges
 
@@ -111,6 +105,6 @@ show badge redesign, show table of applied badges since the start of the year
 
 ---
 
-outro
+outro. I ran out of creative juice.
 
 —Nomination Assessment Team
