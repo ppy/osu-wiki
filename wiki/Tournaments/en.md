@@ -211,7 +211,7 @@ Unofficial tournaments/competitions hosted by the communities.
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Hard Rock Showdown](HRS) | 2024-02-23 | 2024-04-28 | *TBD* | *TBD* | *TBD* |
+| [Hard Rock Showdown](HRS) | 2024-02-23 | 2024-04-28 | maliszewski | mcy4 | his kitten |
 
 #### Hidden Only Tournament
 

@@ -8,7 +8,7 @@ tags:
 
 ![HRS 2024 banner](img/banner.png)
 
-**Hard Rock Showdown 2024** (***HRS 2024***) is an international 1v1 osu! tournament hosted by ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251). It is the first instalment of Hard Rock Showdown.
+**Hard Rock Showdown 2024** (***HRS 2024***) was an international 1v1 osu! tournament hosted by ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251). It was the first instalment of the Hard Rock Showdown.
 
 ## Tournament schedule
 
@@ -32,16 +32,18 @@ tags:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Foxbox tablet cover (HRS-themed) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 6 months of osu!supporter |
 
+![HRS 2024 winner's badge](img/badge@2x.png "HRS 2024 winner's badge")
+
 ## Organisation
 
-Hard Rock Showdown is run by various community members.
+Hard Rock Showdown 2024 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) |
 | Mappool selector | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=GB }:: [lystia](https://osu.ppy.sh/users/11042418) |
-| Mappool playtester | ::{ flag=US }:: [Belladonna](https://osu.ppy.sh/users/11758404), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=CA }:: [rayuii](https://osu.ppy.sh/users/6304246), ::{ flag=CA }:: [Yip](https://osu.ppy.sh/users/5177569) |
-| Mapper | ::{ flag=US } [captin1](https://osu.ppy.sh/users/689997), ::{ flag=TW } [knowledgeking](https://osu.ppy.sh/users/8022517), ::{ flag=AR } [Megafan](https://osu.ppy.sh/users/6632605) |
+| Mappool playtester | ::{ flag=US }:: [Belladonna](https://osu.ppy.sh/users/11758404), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=CA }:: [rayuii](https://osu.ppy.sh/users/6304246), ::{ flag=CA }:: [Yip](https://osu.ppy.sh/users/5177569) |
+| Mapper | ::{ flag=US }:: [captin1](https://osu.ppy.sh/users/689997), ::{ flag=TW }:: [knowledgeking](https://osu.ppy.sh/users/8022517), ::{ flag=AR }:: [Megafan](https://osu.ppy.sh/users/6632605) |
 | Commentator | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) |
 | Streamer | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) |
 | Referee | ::{ flag=US }:: [AccNome](https://osu.ppy.sh/users/10976433), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=DE }:: [Beuto](https://osu.ppy.sh/users/15115857), ::{ flag=RO }:: [BeZonaurul](https://osu.ppy.sh/users/11068604), ::{ flag=FR }:: [Emezys](https://osu.ppy.sh/users/5054244), ::{ flag=PE }:: [ERA Xuste](https://osu.ppy.sh/users/17989444), ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731), ::{ flag=GB }:: [pericrayola](https://osu.ppy.sh/users/31184671), ::{ flag=US }:: [ROB\_](https://osu.ppy.sh/users/12455868), ::{ flag=FR }:: [Sohlayce](https://osu.ppy.sh/users/17649736), ::{ flag=DE }:: [Spunout](https://osu.ppy.sh/users/9620860), ::{ flag=IN }:: [TsukiUwU](https://osu.ppy.sh/users/14926905), ::{ flag=US }:: [vleth](https://osu.ppy.sh/users/18556796), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
@@ -93,6 +95,10 @@ Hard Rock Showdown is run by various community members.
 | ::{ flag=AR }:: | **31** | **[R1cho](https://osu.ppy.sh/users/13065919)** |
 | ::{ flag=LV}:: | **32** | **[hihihaha142](https://osu.ppy.sh/users/21653406)** |
 
+## Podium
+
+![HRS 2024 podium](img/podium.png "HRS 2024 podium")
+
 ## Mappools
 
 ### Grand Finals
@@ -120,7 +126,7 @@ Hard Rock Showdown is run by various community members.
   18. [Seiryu - AO-Infinity \[Infinity\]](https://osu.ppy.sh/beatmapsets/595127#osu/1258579)
   19. [Taku Inoue - Yoake made Ato 3 Byou \[Dawn\]](https://osu.ppy.sh/beatmapsets/768893#osu/1616928)
   20. [EGOIST - Eiyuu Unmei no Uta \(TV Edit\) \[Irre's Extra\]](https://osu.ppy.sh/beatmapsets/637050#osu/1426307)
-  - Tiebreaker
+- Tiebreaker
   1. **[AAAA - Hoshi o Kakeru Adventure ~ we are forever friends! ~ \[Long ver.\] \[Memory\]](https://osu.ppy.sh/beatmapsets/1844826#osu/3789556)**
 
 ### Finals
@@ -148,7 +154,7 @@ Hard Rock Showdown is run by various community members.
   18. [Igorrr - Houmous \[squirrelp's Expert\]](https://osu.ppy.sh/beatmapsets/703568#osu/1535062)
   19. [Gesu no Kiwami Otome. - Digital Mogura \[Idealist\]](https://osu.ppy.sh/beatmapsets/737340#osu/1556011)
   20. [TSUNKU - Kumitate Koujou \[Ameth's Scale\]](https://osu.ppy.sh/beatmapsets/504165#osu/1077307)
-  - Tiebreaker
+- Tiebreaker
   1. **[Camellia - Nacreous Snowmelt \[Hypothermia\]](https://osu.ppy.sh/beatmapsets/1449188#osu/2979785)**
 
 ### Semifinals
@@ -176,7 +182,7 @@ Hard Rock Showdown is run by various community members.
   18. [MuryokuP - Catastrophe \[Catastrophe\]](https://osu.ppy.sh/beatmapsets/1850971#osu/3802467)
   19. [paraoka feat. haru*nya - Rampage \[Kyshiro's Ultra\]](https://osu.ppy.sh/beatmapsets/505170#osu/1074894)
   20. [DragonForce - Ashes of the Dawn \[Extreme\]](https://osu.ppy.sh/beatmapsets/786141#osu/1713929)
-  - Tiebreaker
+- Tiebreaker
   1. **[gmtn. (witch's slave) - furioso melodia \[Wrath\]](https://osu.ppy.sh/beatmapsets/280107#osu/633993)**
 
 ### Quarterfinals
@@ -204,7 +210,7 @@ Hard Rock Showdown is run by various community members.
   18. [LeaF - Monkey Business -Satire mix- \[-PC's Krazy\]](https://osu.ppy.sh/beatmapsets/1221791#osu/2541434)
   19. [KNOWER - The Government Knows \[MOMOHD'S GRID KNOWS\]](https://osu.ppy.sh/beatmapsets/721707#osu/1707533)
   20. [Asuka Ohta, Ryo Nagamatsu - Grumble Volcano \[Apollo's Extra\]](https://osu.ppy.sh/beatmapsets/1763010#osu/3610264)
-  - Tiebreaker
+- Tiebreaker
   1. **[goreshit - game over. \[the end\]](https://osu.ppy.sh/beatmapsets/986213#osu/2314855)**
 
 ### Round of 16
@@ -227,7 +233,7 @@ Hard Rock Showdown is run by various community members.
   13. [Kamisama Club - No. 5 \[Capital\]](https://osu.ppy.sh/beatmapsets/1626872#osu/3321406)
   14. [Ayaponzu* - Streaming Heart \[Extra\]](https://osu.ppy.sh/beatmapsets/552702#osu/1216282)
   15. [Tomita Miyu - OveR \[ExperT\]](https://osu.ppy.sh/beatmapsets/1862561#osu/3830718)
-  - Tiebreaker
+- Tiebreaker
   1. **[Luze - HERA (LONG Version) \[Parthenos\]](https://osu.ppy.sh/beatmapsets/1482719#osu/3105129)**
 
 ### Round of 32
@@ -250,7 +256,7 @@ Hard Rock Showdown is run by various community members.
   13. [onoken - Lisrim \[Extreme\]](https://osu.ppy.sh/beatmapsets/1471079#osu/3020119)
   14. [dandeless - micro.wav \[USA Tryouts\]](https://osu.ppy.sh/beatmapsets/1499766#osu/3198204)
   15. [YUI - again \[Rizen's Insane\]](https://osu.ppy.sh/beatmapsets/623911#osu/1372702)
-  - Tiebreaker
+- Tiebreaker
   1. **[OctagonCollaboration - The Glorious Octagon of Destiny \[Glorious\]](https://osu.ppy.sh/beatmapsets/1039769#osu/2210170)**
 
 ### Qualifiers
@@ -272,9 +278,25 @@ Hard Rock Showdown is run by various community members.
 
 ## Match Results
 
+### Grand Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1uQb7xfJjR7rXyirINmu14o-yrwinEx4L5m-zq71ffYQ/edit?usp=sharing).
+
+Saturday, 27 April 2024:
+
+| Player A |  |  | Player B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| [his kitten](https://osu.ppy.sh/users/3717598) ::{ flag=CA }:: | 5 | **7** | ::{ flag=HK }:: **[mcy4](https://osu.ppy.sh/users/2165650)** | [#1](https://osu.ppy.sh/community/matches/113655852) |
+
+Sunday, 28 April 2024:
+
+| Player A |  |  | Player B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **[maliszewski](https://osu.ppy.sh/users/12408961)** ::{ flag=PL }:: | **7** | 0 | ::{ flag=HK }:: [mcy4](https://osu.ppy.sh/users/2165650) | [#1](https://osu.ppy.sh/community/matches/113666470) |
+
 ### Finals
 
-*Detailed statistics for this round will be added soon.*
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1EOfCB-A7flb771CTWJnBRLHQ1-tJBP7K8odKed8Alf0/edit?usp=sharing).
 
 Saturday, 20 April 2024:
 
@@ -288,7 +310,7 @@ Sunday, 21 April 2024:
 | Player A |  |  | Player B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **[maliszewski](https://osu.ppy.sh/users/12408961)** ::{ flag=PL }:: | **7** | 1 | ::{ flag=CA }:: [his kitten](https://osu.ppy.sh/users/3717598) | [#1](https://osu.ppy.sh/community/matches/113584551) |
-| **[mcy4](https://osu.ppy.sh/users/2165650)** ::{ flag=HK }:: | **0** | FF | ::{ flag=KR }:: [Amamya Kokoro](https://osu.ppy.sh/users/2511839) | [#1] |
+| **[mcy4](https://osu.ppy.sh/users/2165650)** ::{ flag=HK }:: | **0** | -1 | ::{ flag=KR }:: [Amamya Kokoro](https://osu.ppy.sh/users/2511839) | *forfeit* |
 
 ### Semifinals
 
@@ -331,12 +353,12 @@ Saturday, 6 April 2024:
 | Player A |  |  | Player B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | [Skrowell](https://osu.ppy.sh/users/9694263) ::{ flag=RU }:: | 5 | **6** | ::{ flag=US }:: **[fieryrage](https://osu.ppy.sh/users/3533958)** | [#1](https://osu.ppy.sh/community/matches/113387696) |
-| [rundyyy](https://osu.ppy.sh/users/10917620) ::{ flag=DE }:: | FF | **0** | ::{ flag=SG }:: **[GSBlank](https://osu.ppy.sh/users/2312106)** | [#1] |
-| [PaintedKoala](https://osu.ppy.sh/users/10056419) ::{ flag=IL }:: | FF | **0** | ::{ flag=NO }:: **[antonyw](https://osu.ppy.sh/users/12959983)** | [#1] |
-| **[RafGPio](https://osu.ppy.sh/users/13705417)** ::{ flag=UA }:: | **0** | FF | ::{ flag=JP }:: [Sabakan-](https://osu.ppy.sh/users/12941954) | [#1] |
+| [rundyyy](https://osu.ppy.sh/users/10917620) ::{ flag=DE }:: | -1 | **0** | ::{ flag=SG }:: **[GSBlank](https://osu.ppy.sh/users/2312106)** | *forfeit* |
+| [PaintedKoala](https://osu.ppy.sh/users/10056419) ::{ flag=IL }:: | -1 | **0** | ::{ flag=NO }:: **[antonyw](https://osu.ppy.sh/users/12959983)** | *forfeit* |
+| **[RafGPio](https://osu.ppy.sh/users/13705417)** ::{ flag=UA }:: | **0** | -1 | ::{ flag=JP }:: [Sabakan-](https://osu.ppy.sh/users/12941954) | *forfeit* |
 | **[desuqe](https://osu.ppy.sh/users/9712285)** ::{ flag=RU }:: | **6** | 0 | ::{ flag=US }:: [Flameztear](https://osu.ppy.sh/users/13207763) | [#1](https://osu.ppy.sh/community/matches/113385132) |
 | [lolol233](https://osu.ppy.sh/users/11375105) ::{ flag=CN }:: | 2 | **6** | ::{ flag=RO }:: **[Lucrise](https://osu.ppy.sh/users/9719351)** | [#1](https://osu.ppy.sh/community/matches/113384045) |
-| [Chicony](https://osu.ppy.sh/users/5199332) ::{ flag=RU }:: | FF | **0** | ::{ flag=LV }:: **[hihihaha142](https://osu.ppy.sh/users/21653406)** | [#1] |
+| [Chicony](https://osu.ppy.sh/users/5199332) ::{ flag=RU }:: | -1 | **0** | ::{ flag=LV }:: **[hihihaha142](https://osu.ppy.sh/users/21653406)** | *forfeit* |
 | **[his kitten](https://osu.ppy.sh/users/3717598)** ::{ flag=CA }:: | **6** | 1 | ::{ flag=CA }:: [Saryi](https://osu.ppy.sh/users/10051720) | [#1](https://osu.ppy.sh/community/matches/113386841) |
 
 Sunday, 7 April 2024:
@@ -346,7 +368,7 @@ Sunday, 7 April 2024:
 | **[Saiyku](https://osu.ppy.sh/users/13767572)** ::{ flag=NZ }:: | **6** | 0 | [Rebo](https://osu.ppy.sh/users/6942259) | [#1](https://osu.ppy.sh/community/matches/113394293) |
 | [GSBlank](https://osu.ppy.sh/users/2312106) ::{ flag=SG }:: | 4 | **6** | ::{ flag=US }:: **[fieryrage](https://osu.ppy.sh/users/3533958)** | [#1](https://osu.ppy.sh/community/matches/113403577) |
 | **[antonyw](https://osu.ppy.sh/users/12959983)** ::{ flag=NO }:: | **6** | 0 | ::{ flag=NZ }:: [Saiyku](https://osu.ppy.sh/users/13767572) | [#1](https://osu.ppy.sh/community/matches/113398777) |
-| **[desuqe](https://osu.ppy.sh/users/9712285)** ::{ flag=RU }:: | **0** | FF | ::{ flag=UA }:: [RafGPio](https://osu.ppy.sh/users/13705417) | [#1] |
+| **[desuqe](https://osu.ppy.sh/users/9712285)** ::{ flag=RU }:: | **0** | -1 | ::{ flag=UA }:: [RafGPio](https://osu.ppy.sh/users/13705417) | *forfeit* |
 | [hihihaha142](https://osu.ppy.sh/users/21653406) ::{ flag=LV }:: | 1 | **6** | ::{ flag=RO }:: **[Lucrise](https://osu.ppy.sh/users/9719351)** | [#1](https://osu.ppy.sh/community/matches/113400323) |
 | **[maliszewski](https://osu.ppy.sh/users/12408961)** ::{ flag=PL }:: | **6** | 0 | ::{ flag=CN }:: [Crystal](https://osu.ppy.sh/users/1646397) | [#1](https://osu.ppy.sh/community/matches/113400185) |
 | **[Amamya Kokoro](https://osu.ppy.sh/users/2511839)** ::{ flag=KR }:: | **6** | 2 | ::{ flag=RU }:: [Welter](https://osu.ppy.sh/users/11552867) | [#1](https://osu.ppy.sh/community/matches/113401577) |
@@ -369,7 +391,7 @@ Saturday, 30 March 2024:
 | --: | :-: | :-: | :-- | :-- |
 | **[hihihaha142](https://osu.ppy.sh/users/21653406)** ::{ flag=LV }:: | **5** | 4 | ::{ flag=HK }:: [Hibiki](https://osu.ppy.sh/users/5413624) | [#1](https://osu.ppy.sh/community/matches/113291795) |
 | [Majewski](https://osu.ppy.sh/users/10064064) ::{ flag=RU }:: | 2 | **5** | ::{ flag=JP }:: **[Sabakan-](https://osu.ppy.sh/users/12941954)** | [#1](https://osu.ppy.sh/community/matches/113290259) |
-| [R1cho](https://osu.ppy.sh/users/13065919) ::{ flag=AR }:: | FF | **0** | ::{ flag=NO }:: **[antonyw](https://osu.ppy.sh/users/12959983)** | [#1] |
+| [R1cho](https://osu.ppy.sh/users/13065919) ::{ flag=AR }:: | -1 | **0** | ::{ flag=NO }:: **[antonyw](https://osu.ppy.sh/users/12959983)** | *forfeit* |
 | [defii](https://osu.ppy.sh/users/8698024) ::{ flag=HU }:: | 4 | **5** | ::{ flag=SG }:: **[GSBlank](https://osu.ppy.sh/users/2312106)** | [#1](https://osu.ppy.sh/community/matches/113294356) |
 | **[maliszewski](https://osu.ppy.sh/users/12408961)** ::{ flag=PL }:: | **5** | 0 | ::{ flag=RU }:: [Skrowell](https://osu.ppy.sh/users/9694263) | [#1](https://osu.ppy.sh/community/matches/113295192) |
 | **[his kitten](https://osu.ppy.sh/users/3717598)** ::{ flag=CA }:: | **5** | 2 | ::{ flag=CN }:: [lolol233](https://osu.ppy.sh/users/11375105) | [#1](https://osu.ppy.sh/community/matches/113295119) |
@@ -381,11 +403,11 @@ Sunday, 31 March 2024:
 | **[Lucrise](https://osu.ppy.sh/users/9719351)** ::{ flag=RO }:: | **5** | 0 | ::{ flag=TR }:: [Shinkiro](https://osu.ppy.sh/users/6093148) | [#1](https://osu.ppy.sh/community/matches/113311054) |
 | **[Rebo](https://osu.ppy.sh/users/6942259)** ::{ flag=UY }:: | **5** | 4 | ::{ flag=NO }:: [nanolini](https://osu.ppy.sh/users/12353810) | [#1](https://osu.ppy.sh/community/matches/113310998) |
 | [ILBOSSDELPOPPIN](https://osu.ppy.sh/users/13925698) ::{ flag=IT }:: | 3 | **5** | ::{ flag=US }:: **[fieryrage](https://osu.ppy.sh/users/3533958)** | [#1](https://osu.ppy.sh/community/matches/113311788) |
-| [rundyyy](https://osu.ppy.sh/users/10917620) ::{ flag=DE }:: | FF | **0** | ::{ flag=CN }:: **[Crystal](https://osu.ppy.sh/users/1646397)** | [#1] |
+| [rundyyy](https://osu.ppy.sh/users/10917620) ::{ flag=DE }:: | -1 | **0** | ::{ flag=CN }:: **[Crystal](https://osu.ppy.sh/users/1646397)** | *forfeit* |
 | **[Amamya Kokoro](https://osu.ppy.sh/users/2511839)** ::{ flag=KR }:: | **5** | 2 | ::{ flag=NZ }:: [Saiyku](https://osu.ppy.sh/users/13767572) | [#1](https://osu.ppy.sh/community/matches/113306387) |
-| **[Welter](https://osu.ppy.sh/users/11552867)** ::{ flag=RU }:: | **0** | FF | ::{ flag=IL }:: [PaintedKoala](https://osu.ppy.sh/users/10056419) | [#1] |
+| **[Welter](https://osu.ppy.sh/users/11552867)** ::{ flag=RU }:: | **0** | -1 | ::{ flag=IL }:: [PaintedKoala](https://osu.ppy.sh/users/10056419) | *forfeit* |
 | **[Zylice](https://osu.ppy.sh/users/5033077)** ::{ flag=CA }:: | **5** | 2 | ::{ flag=RU }:: [desuqe](https://osu.ppy.sh/users/9712285) | [#1](https://osu.ppy.sh/community/matches/113308434) |
-| **[Chicony](https://osu.ppy.sh/users/5199332)** ::{ flag=RU }:: | FF | **0** | ::{ flag=CA }:: [Saryi](https://osu.ppy.sh/users/10051720) | [#1] |
+| **[Chicony](https://osu.ppy.sh/users/5199332)** ::{ flag=RU }:: | -1 | **0** | ::{ flag=CA }:: [Saryi](https://osu.ppy.sh/users/10051720) | *forfeit* |
 
 ### Round of 32
 
@@ -401,7 +423,7 @@ Saturday, 23 March 2024:
 | **[Crystal](https://osu.ppy.sh/users/1646397)** ::{ flag=CN }:: | **5** | 0 | ::{ flag=TR }:: [Shinkiro](https://osu.ppy.sh/users/6093148) | [#1](https://osu.ppy.sh/community/matches/113193128) |
 | [Hibiki](https://osu.ppy.sh/users/5413624) ::{ flag=HK }:: | 1 | **5** | ::{ flag=RU }:: **[Skrowell](https://osu.ppy.sh/users/9694263)** | [#1](https://osu.ppy.sh/community/matches/113193633) |
 | **[maliszewski](https://osu.ppy.sh/users/12408961)** ::{ flag=PL }:: | **5** | 0 | ::{ flag=LV }:: [hihihaha142](https://osu.ppy.sh/users/21653406) | [#1](https://osu.ppy.sh/community/matches/113194116) |
-| **[mcy4](https://osu.ppy.sh/users/2165650)** ::{ flag=HK }:: | **0** | FF | ::{ flag=AR }:: [R1cho](https://osu.ppy.sh/users/13065919) | #1 |
+| **[mcy4](https://osu.ppy.sh/users/2165650)** ::{ flag=HK }:: | **0** | -1 | ::{ flag=AR }:: [R1cho](https://osu.ppy.sh/users/13065919) | *forfeit* |
 | **[Zylice](https://osu.ppy.sh/users/5033077)** ::{ flag=CA }:: | **5** | 2 | ::{ flag=UY }:: [Rebo](https://osu.ppy.sh/users/6942259) | [#1](https://osu.ppy.sh/community/matches/113198059) |
 | **[his kitten](https://osu.ppy.sh/users/3717598)** ::{ flag=CA }:: | **5** | 0 | ::{ flag=HU }:: [defii](https://osu.ppy.sh/users/8698024) | [#1](https://osu.ppy.sh/community/matches/113198986) |
 | **[Chicony](https://osu.ppy.sh/users/5199332)** ::{ flag=RU }:: | **5** | 0 | ::{ flag=IT }:: [ILBOSSDELPOPPIN](https://osu.ppy.sh/users/13925698) | [#1](https://osu.ppy.sh/community/matches/113193138) |
