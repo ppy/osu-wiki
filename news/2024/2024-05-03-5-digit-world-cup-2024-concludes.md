@@ -178,9 +178,9 @@ What was the process like to create *Beyond Reality*? Was there a main idea behi
 
 [![](/wiki/shared/news/2024-05-03-5-digit-world-cup-2024-concludes/ajmosca.png)](https://osu.ppy.sh/users/19884809)
 
-> Hi! I'm AJ, I'm a 4th year college student that started playing osu! in late 2020. In the last 2.5 years I've also become heavily involved in the tournament community, being a player and staffer for both rank-restricted and open rank competitions, as well as co-hosting a rank-restricted tournament, Clashing Tides, last summer.
+> Hi! I'm AJ, I'm a 4th year college student that started playing osu! in late 2020. In the last 2.5 years I've also become heavily involved in the tournament community, being a player and staffer for both rank-restricted and open rank competitions, as well as co-hosting a rank-restricted tournament, [Clashing Tides](https://osu.ppy.sh/community/forums/topics/1759097?n=1), last summer.
 > 
-> Additionally, I've been mapping for over 2 years and have created several custom maps for community tournaments, in particular mapping an osu! original song composed by seleP for OWC 2023. I also have a couple ranked maps of my own, mainly guest difficulties.
+> Additionally, I've been mapping for over 2 years and have created several custom maps for community tournaments, in particular mapping [an osu! original song](https://osu.ppy.sh/beatmapsets/2088549#osu/4376782) composed by [seleP](https://osu.ppy.sh/beatmaps/artists/138) for [OWC 2023](/wiki/Tournaments/OWC/2023). I also have a couple ranked maps of my own, mainly guest difficulties.
 
 [ajmosca](https://osu.ppy.sh/users/19884809) mapped 5 beatmaps specifically for the 5 Digit World Cup 2024, or 5 "custom maps" as they're commonly known.
 
@@ -200,9 +200,9 @@ How did creating 5 custom maps for 5WC 2024 come about? Was this a special occas
 > 
 > This was DEFINITELY a special occasion, where circumstances just lined up perfectly — typically mappers just make a map or two over the whole tournament (myself included). In any other circumstances this would be a painful, if not impossible, thing for me to do, especially because compared to other mappers I tend to be a lot slower in creating maps, and also because maps tend to go through a quality assurance process before being released.
 
-Having collaborated with a few artists at this point for original songs in your maps, how would you describe your experience this time mapping *Beyond Reality*?
+Having collaborated with a few artists at this point for original songs in your maps, how would you describe your experience this time mapping the [Grand Finals tiebreaker *Beyond Reality*](https://osu.ppy.sh/beatmapsets/2163553#osu/4562997)?
 
-> Compared to my other original song maps, the highlight for this occasion was how closely I was able to work with the song artist themselves. Working closely with Naikou during the various stages of creating this map was wonderful.
+> Compared to my other original song maps, the highlight for this occasion was how closely I was able to work with the song artist themselves. Working closely with [Naikou](https://osu.ppy.sh/users/29139453) during the various stages of creating this map was wonderful.
 > 
 > They provided so much for the map ranging from: different mp3 encodings to fit ranking criteria, the map's timing, the background, and even the song's sheet music to help us mappers in case we were confused about any rhythm. Being able to cycle feedback with the artist, both about the song and about the map, was an awesome experience and I believe it helped increase the quality of the final product significantly.
 > 
