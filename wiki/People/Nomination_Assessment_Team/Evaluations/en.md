@@ -44,11 +44,21 @@ Warnings due to subpar performance as a full Beatmap Nominator are effective for
 
 ### Resignations
 
-Beatmap Nominators can resign from the group at any time via the BN website. When this happens, three NAT members will be assigned to evaluate the nominator one last time, in order to determine if the resignation is on "good" terms or on "standard" terms. This evaluation is given a 24-hour deadline and announced to the NAT members in their respective Discord channel. Beatmap Nominators who resign on good terms may be able to fast-track back to being a full BN if they choose to apply again within 1 year of resignation. Those who resign on standard terms will have to start from probation if they pass their reapplication.
-
-Generally, good- and standard-term evaluations are relatively simple. Beatmap Nominators who have not been recently warned or been on probation, and were not about to be warned for issues, will usually resign on good terms. Standard terms is typically used for nominators who have been warned recently, are on probation, or were about to be warned for issues on their upcoming current BN evaluation.
+Beatmap Nominators can resign from the group at any time via the BN website. When this happens, three NAT members will be assigned to evaluate the nominator one last time, in order to determine if the resignation is on "good" terms or on "standard" terms. This evaluation is given a 24-hour deadline and announced to the NAT members in their respective Discord channel.
 
 Once a consensus for the resignation terms has been reached, the NAT will send the BN an announcement message via the [Nomination Assessment Team bot](https://osu.ppy.sh/users/6616586) informing them of their status and when they can reapply to become a BN if they so choose.
+
+#### Good terms
+
+Beatmap Nominators who have not been recently warned or been on probation, and were not about to be warned for issues, will usually resign on good terms.
+
+The good-term status allows former Nominators to fast-track their way back to being a full BN if they choose to apply again within 1 year of their resignation. The resignation will turn to standard terms if it is older than 1 year.
+
+#### Standard terms
+
+A standard-term resignation is issued for nominators who have been warned recently, are on probation, or were about to be warned for issues on their upcoming current BN evaluation.
+
+Nominators who resign on standard terms will have to reapply to become a BN after a 60-day cooldown if they wish to return to the group, and they will have to start from probation if they pass their reapplication.
 
 ### Activity
 

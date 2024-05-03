@@ -116,4 +116,4 @@ A cooldown of 60 days that prevents the user from re-applying is applied on the 
 
 - Failed applications
 - Removals from the Beatmap Nominators
-- Standard-term resignations
+- [Standard-term resignations](/wiki/People/Nomination_Assessment_Team/Evaluations#standard-terms)
