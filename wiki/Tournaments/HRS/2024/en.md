@@ -95,6 +95,10 @@ Hard Rock Showdown was run by various community members.
 | ::{ flag=AR }:: | **31** | **[R1cho](https://osu.ppy.sh/users/13065919)** |
 | ::{ flag=LV}:: | **32** | **[hihihaha142](https://osu.ppy.sh/users/21653406)** |
 
+## Podium
+
+![HRS 2024 podium](img/podium.png)
+
 ## Mappools
 
 ### Grand Finals
