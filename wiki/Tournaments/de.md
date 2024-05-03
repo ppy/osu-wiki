@@ -211,7 +211,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Hard Rock Showdown](HRS) | 23.02.2024 | 28.04.2024 | *TBD* | *TBD* | *TBD* |
+| [Hard Rock Showdown](HRS) | 23.02.2024 | 28.04.2024 | maliszewski | mcy4 | his kitten |
 
 #### Hidden Only Tournament
 
