@@ -16,7 +16,7 @@ Let's get going, since we have seven weeks of amazing matches, highlights and a 
 
 ![](/wiki/shared/news/2024-04-28-5-digit-world-cup-2024-concludes/podium.jpg)
 
-Congratulations to Poland for taking the first place this year. The other Grand Finalist, Canada, gave them a scare by winning the first match 7-5, bringing them to a bracket reset! But Poland prevailed and in the end, they won with 7-5, making them the deserving victors this year.
+Congratulations to Poland for taking the first place this year. The other Grand Finalist, Canada, gave them a scare by winning the first match 7–5, bringing them to a bracket reset! But Poland prevailed, winning the bracket reset match with a score of 7–5, making them the deserving victors this year.
 
 We want to thank and congratulate Canada and the United States for once again playing their hearts out this year and reaching the podium. For Canada, their second place finish is a return to the podium for the first time since 2019, with it also being their best result so far. For the United States, third place means their 6th consecutive top 8 finish and showing their consistency in forming great teams that get far into the bracket.
 
@@ -28,13 +28,13 @@ We want to thank and congratulate Canada and the United States for once again pl
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/AzWb6NqDJg0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-The Round of 32, the first round of the tournament, normally a round without many close matches. But this year was different! We saw a bunch of close matches, but the match between Brazil and Hong Kong was the one that took the spot for most surprising match of the round.
+The Round of 32, the first round of the tournament, is usually a round without many close matches. This year however was different! We saw a bunch of close matches, but the match between Brazil and Hong Kong was the one that took the spot for most surprising match of the round.
 
-Brazil, being the #10 seed from qualifiers, was the big favorite to move into the Round of 16. They were up against the #22 seeded Hong Kong, which should have posed no big troubles for the Brazilian team, but things turned out different.
+Brazil, being the #10 seed from qualifiers, was the big favourite to move into the Round of 16. They were up against the #22 seeded Hong Kong, which should have posed no big troubles for the Brazilian team, but things turned out different.
 
-After the start of the match, Brazil took a quick 2-0 lead, winning their protected HD2 and the FM1 pick from Hong Kong. Brazil picked NM4 as their next map, which in hindsight, was not the right pick. Hong Kong came back and took three straight map wins, including two breakpoints, taking the lead in the match with a 2-3 scoreline. After taking the lead, Hong Kong was the next team to pick. They picked HR1, which resulted in Brazil getting a second breakpoint, tying the match at 3-3. After the least two picks of the match, the score ended up in a 4-4 tie, forcing a tiebreaker.
+After the start of the match, Brazil took a quick 2–0 lead, winning their protected HD2 and the FM1 pick from Hong Kong. Brazil picked NM4 as their next map, which in hindsight, was not the right pick. Hong Kong came back and took three straight map wins, including two breakpoints, taking the lead in the match with a 2–3 scoreline. After taking the lead, Hong Kong was the next team to pick. They picked HR1, which resulted in Brazil getting a second breakpoint, tying the match at 3–3. After a back-and-forth between the two teams, the score ended up in a 4–4 tie, forcing a tiebreaker.
 
-In the end, Hong Kong took the win and won the match 4-5! Forcing Brazil into the losers bracket and moving on to the Round of 16 themselves.
+In the end, Hong Kong took the win and won the match 4–5, forcing Brazil into the losers bracket and moving on to the Round of 16 themselves.
 
 ### Round of 16: ::{ flag=PL }:: Poland vs. ::{ flag=AU }:: Australia
 
@@ -118,7 +118,7 @@ lead
 
 [![](/wiki/shared/news/2024-04-28-5-digit-world-cup-2024-concludes/Birchman.png)](https://osu.ppy.sh/users/10676573)
 
-> Hi I'm Birchman, I've been playing the game off and on since August 2017 and I've been playing tournaments semi-actively since August 2022. I was on Canada's 5wc roster last year and had the chance to play for Canada again this year as well.
+> Hi I'm Birchman, I've been playing the game off and on since August 2017, and I've been playing tournaments semi-actively since August 2022. I was on Canada's 5wc roster last year and had the chance to play for Canada again this year as well.
 
 Team Canada, which includes [Birchman](https://osu.ppy.sh/users/10676573), went on to place 2nd this year in the 5 Digit World Cup 2024, narrowly behind Poland.
 
@@ -126,9 +126,9 @@ Team Canada, which includes [Birchman](https://osu.ppy.sh/users/10676573), went 
 
 Did you have any expectations going into the tournament? What went on in your minds as your team progressed into further stages?
 
-> I remember last year, canada got top 6 in the tournament, and while I wouldn't say that I 100% expected a better placement from us this year, I was definitely hoping that we'd at least beat last year's top 6 placing.
+> I remember last year, Canada got top 6 in the tournament, and while I wouldn't say that I 100% expected a better placement from us this year, I was definitely hoping that we'd at least beat last year's top 6 placing.
 > 
-> I think as we got further and further into the tournament, we started analyzing the other teams more and some of our practice habits changed. I remember around the semifinals stage of the tournament, Fetherfall would look at the mappool early into the week and started to highlight the maps depending on how much we needed to practice them which really helped. I think the team overall took the tournament more seriously as we transitioned into the later stages.
+> I think as we got further and further into the tournament, we started analyzing the other teams more and some of our practice habits changed. I remember around the semifinals stage of the tournament, [Fetherfall](https://osu.ppy.sh/users/15296550) would look at the mappool early into the week and started to highlight the maps depending on how much we needed to practice them which really helped. I think the team overall took the tournament more seriously as we transitioned into the later stages.
 
 How did you prepare for matches and 5WC itself?
 
@@ -136,7 +136,7 @@ How did you prepare for matches and 5WC itself?
 
 Are there any specific moments you remember the most vividly?
 
-> There were a bunch of great moments in this tournament but I think my favorite moments happened in our match against the USA in losers bracket finals. After the match went to tie breaker, I remember how happy and relieved the team sounded after winning such a hard fought match, as well as all the nice messages we exchanged with the US roster after the fact. This whole match sort of stuck with me because of how close a lot of the members on Canada's and USA's roster's are to each other, and the sportsmanship shown in this match was just really heartwarming to see.
+> There were a bunch of great moments in this tournament, but I think my favorite moments happened in our match against the USA in losers bracket finals. After the match went to tiebreaker, I remember how happy and relieved the team sounded after winning such a hard fought match, as well as all the nice messages we exchanged with the US roster after the fact. This whole match sort of stuck with me because of how close a lot of the members on Canada's and USA's rosters are to each other, and the sportsmanship shown in this match was just really heartwarming to see.
 
 What was the first thing you did after the tournament?
 
@@ -154,7 +154,7 @@ What was the first thing you did after the tournament?
 
 How did you start out, and what drives you to make music?
 
-> I started out in mid 2021 making *Metroid* remixes! I didn't really start doing rhythm game music properly until mid 2022 but I got my first big push to get into it with the 2022 Arcaea song contest and honestly the rest is history for me. My main drive after that has just been getting better and striving for quality over all things. I do music for myself before anything, so making things I'm proud of is enough to satisfy me :)
+> I started out in mid 2021 making *Metroid* remixes! I didn't really start doing rhythm game music properly until mid 2022, but I got my first big push to get into it with the 2022 Arcaea song contest and honestly the rest is history for me. My main drive after that has just been getting better and striving for quality over all things. I do music for myself before anything, so making things I'm proud of is enough to satisfy me :)
 
 What was the process like to create *Beyond Reality*? Was there a main idea behind the composition?
 
@@ -178,21 +178,21 @@ What was the process like to create *Beyond Reality*? Was there a main idea behi
 
 For people not so familiar with the subject, what might be the reasons for creating custom maps for tournaments?
 
-> There are many reasons why a tourney would request mappers to make customs. The most common reason is that custom maps are fresh takes on the skillsets that a mappooler wants to test. One of the big struggles of mappooling is finding quality maps fit for tournament use (well-mapped and of consistent difficulty) that haven't been used too much in other tourneys before. At higher levels of play, this can be particularly difficult, which is why customs are considered the 'ideal' solution to this problem. (Some disagree with this but that is a whole other discussion.)
+> There are many reasons why a tourney would request mappers to make customs. The most common reason is that custom maps are fresh takes on the skillsets that a mappooler wants to test. One of the big struggles of mappooling is finding quality maps fit for tournament use (well-mapped and of consistent difficulty) that haven't been used too much in other tourneys before. At higher levels of play, this can be particularly difficult, which is why customs are considered the 'ideal' solution to this problem. (Some disagree with this, but that is a whole other discussion.)
 > 
 > Sometimes though, the reasons to create a custom can be significantly different. Some tourneys request customs because they like a mapper’s style and want to use more maps from that mapper. Other times it's the mappers that request the customs themselves, looking to force themselves to map more or create something different from their usual maps. Some tourney hosts also believe it would increase the quality of their competition to have custom maps in their pools. And in rarer cases, you request a custom map because you commissioned a song from an artist for a competition and are in need of a map for it c:
 
 How did creating 5 custom maps for 5WC 2024 come about? Was this a special occasion or were things business as usual?
 
-> In this case, it was a perfect combination of organizers giving us ample time and freedom to choose what we would like to map, as well as a period of time where I had a lot of motivation to map in general. In particular, a good chunk of my winter and spring breaks from school were spent working on these custom maps. The free time let me focus on mapping completely stress free from school, which made me the most productive I've been in all my time mapping. For example, 2 of the 5 custom maps were started and finished all within the same week in January, and about 80% of my parts for the Finals TB were done in the week of my spring break.
+> In this case, it was a perfect combination of organizers giving us ample time and freedom to choose what we would like to map, as well as a period of time where I had a lot of motivation to map in general. In particular, a good chunk of my winter and spring breaks from school were spent working on these custom maps. The free time let me focus on mapping completely stress-free from school, which made me the most productive I've been in all my time mapping. For example, 2 of the 5 custom maps were started and finished all within the same week in January, and about 80% of my parts for the Finals TB were done in the week of my spring break.
 > 
-> This was DEFINITELY a special occasion, where circumstances just lined up perfectly – typically mappers just make a map or two over the whole tournament (myself included). In any other circumstances this would be a painful, if not impossible, thing for me to do, especially because compared to other mappers I tend to be a lot slower in creating maps, and also because maps tend to go through a quality assurance process before being released.
+> This was DEFINITELY a special occasion, where circumstances just lined up perfectly — typically mappers just make a map or two over the whole tournament (myself included). In any other circumstances this would be a painful, if not impossible, thing for me to do, especially because compared to other mappers I tend to be a lot slower in creating maps, and also because maps tend to go through a quality assurance process before being released.
 
 Having collaborated with a few artists at this point for original songs in your maps, how would you describe your experience this time mapping *Beyond Reality*?
 
 > Compared to my other original song maps, the highlight for this occasion was how closely I was able to work with the song artist themselves. Working closely with Naikou during the various stages of creating this map was wonderful. They provided so much for the map ranging from: different mp3 encodings to fit ranking criteria, the map's timing, the background, and even the song's sheet music to help us mappers in case we were confused about any rhythm. Being able to cycle feedback with the artist, both about the song and about the map, was an awesome experience and I believe it helped increase the quality of the final product significantly.
 > 
-> In terms of the mapping itself, this was quite a challenge. Those that know of my maps can attest that I don't map tech very often. Pushing myself out of my comfort zone to not only map in a style I don't have much experience with, but also have a final product that is cohesive with my collaborators, was very instructive for me as a mapper. I definitely felt myself improving so much during this process and I'm very glad the final product was well received by the players.
+> In terms of the mapping itself, this was quite a challenge. Those that know of my maps can attest that I don't map tech very often. Pushing myself out of my comfort zone to not only map in a style I don't have much experience with, but also have a final product that is cohesive with my collaborators, was very instructive for me as a mapper. I definitely felt myself improving so much during this process, and I'm very glad the final product was well received by the players.
 
 ::{#lupa}::
 
@@ -200,7 +200,7 @@ Having collaborated with a few artists at this point for original songs in your 
 
 > Hi there! My name's Lupa and I've been playing osu actively since 2014. I've followed tournaments like OWC since then but have been especially involved in 4/5 digit tournaments since 2021, playing in about 35 tournaments myself and hosting 3 with a 4th on the way.
 
-[Lupa](https://osu.ppy.sh/users/4722369) stepped up to the of admin for 5WC 2024, as well as selecting the beatmaps that players can use in their matches (a process known as *mappooling*).
+[Lupa](https://osu.ppy.sh/users/4722369) stepped up to the role of administration for 5WC 2024, as well as selecting the beatmaps that players can use in their matches (a process known as *mappooling*).
 
 ---
 
@@ -232,7 +232,7 @@ What have been your fondest memories from 5WC 2024
 
 Where might you go from here?
 
-> I still plan on hosting and pooling consistently! I plan on sticking around for next year's 5WC as a staff member and will also be continuing the badged [All-American Auction House](https://osu.ppy.sh/community/forums/topics/1692273?n=1) series that has already had 2 successful iterations with the 3rd coming in June. I also plan on starting another badged international series sometime this fall with a fun gimmick that hasn't been seen yet. I stream on twitch a few times a week and I'm open to any questions regarding hosting/pooling either there or in discord dms, and if anyone needs staffing help for a tournament then please feel free to reach out and I'll try to help!
+> I still plan on hosting and pooling consistently! I plan on sticking around for next year's 5WC as a staff member and will also be continuing the badged [All-American Auction House](https://osu.ppy.sh/community/forums/topics/1692273?n=1) series that has already had 2 successful iterations with the 3rd coming in June. I also plan on starting another badged international series sometime this fall with a fun gimmick that hasn't been seen yet. I stream on twitch a few times a week, and I'm open to any questions regarding hosting/pooling either there or in discord dms, and if anyone needs staffing help for a tournament then please feel free to reach out and I'll try to help!
 
 ---
 
