@@ -38,35 +38,40 @@ A public repository with both applications and current BN evaluations can now be
 
 | Type | Change | Link |
 | :-- | :-- | :-- |
-| **General** | Content usage permissions. | [View changes](ADD THE LINK. REMINDER TO ADD THE LINK. THE LINK!) |
+| **General** | Songs and artists currently disallowed in the [Content usage permissions](/wiki/Rules/Content_usage_permissions#artist-permissions) will **not** be able to be Ranked without explicit approval from their respective owners. | [View changes](https://github.com/ppy/osu-wiki/pull/11262) |
+| **General** | Clarification on what counts as either an extended edit or cut version in the case a recreation of the original audio is made. | [View changes](https://github.com/ppy/osu-wiki/pull/11122) |
 
 ### Beatmap Nominator applications
 
+The new changes aim to simplify and lower the bar of entry, while trimming the fat that it has been accumulating since the inception of the application system. For those who were daunted or lost before, we encourage [applying today](https://bn.mappersguild.com/bnapps) to experience the changes yourselves!
+
 #### A fresh application workflow
 
-app rework
+The application process has been streamlined, easing users into the application process by giving more specific pointers on what mods and explanations they're expected to give at the time of applying. The goal of this change was to "handhold" new applicants through the application process and for the NAT to focus more on the decision-making of candidates rather than solely base their verdict from mods alone.
 
 #### Removal of the ranking criteria test
 
-Yep, you heard it here first. the RC test is gone, dusted. explain why
+Yep, you heard it here first. Or probably not. But the RC test is gone, dusted. Vanished, not to come again in the foreseeable future. The test in its current form didn't offer a lot. Besides being a filter and an English comprehension test, it was redundant as applicants would better show their understanding of the Ranking Criteria through their mods. 
 
 #### Progress bar for applications
 
-explain and show screenshot
+One of the issues with the opaqueness of the process was that candidates didn't know when their verdict would be delivered, or at what stage their application was. By offering our very own BN app parcel tracking service, applicants will now be able to be updated in real time when their food — I mean, their application — be delivered.
 
-#### Reworking application feedbacks
+Insert image perchance.
 
-talk, probably show/link to public example
+#### Reworking application feedback
 
-#### Communication platform post-applications (need a better title)
+Feedback has been simplified. In short, this change will make the feedback writing process which was deemed redundant be less time-consuming. This will quicken the time for the results of an application to be delivered. The evaluators' comments will instead serve as more in depth feedback.
 
-talk + screenshot
+#### Communication platform post-applications (need a better title) (I couldn't come up with one either)
+
+After receiving their verdict, users can reply to their evaluators' feedback in the BN site. While the goal of this change is not to facilitate appeals as under normal circumstances the result of an application is unchangeable, applicants are encouraged to ask questions and clarification on their feedback by using this new feature.
 
 ### Within the Beatmap Nominators
 
 #### Probation is no longer a demotion option
 
-ye
+The Probation Beatmap Nominators user group has been reworked slightly. It will now serve its original goal, which is as a trial ground for green beards! When a new Beatmap Nominator is allowed into the team, they will be put in probation for their first couple months. After evaluating their performance with actual BN work, they will either be promoted or removed. Full Beatmap Nominators cannot under any circumstance be demoted back into probation.
 
 #### Mock evaluations are no more
 
