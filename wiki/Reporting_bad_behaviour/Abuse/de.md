@@ -1,6 +1,6 @@
 ---
+outdated_since: 5f603d93877d6b915ce864a793df5f4a7fbc2a33
 outdated_translation: true
-outdated_since: e2b7d14ed888df1d0027f3acec928c9fd55e60a5
 ---
 
 # Missbrauch melden
@@ -13,12 +13,9 @@ Wenn es dir unangenehm genug ist, diese Seite zu lesen, kontaktiere uns bitte so
 
 Wir haben null Toleranz gegenüber jeglicher Art von unerwünschter sexueller Belästigung oder Annäherung in dieser Community.
 
-Die E-Mail-Adresse für Missbrauch wird nur von diesen beiden Benutzern gesehen:
+Die E-Mail-Adresse für Missbrauch wird nur von [peppy](https://osu.ppy.sh/users/2) (dem Erfinder des Spiels) angesehen.
 
-- [peppy](https://osu.ppy.sh/users/2) (der Erfinder des Spiels)
-- [Ephemeral](https://osu.ppy.sh/users/102335) (der Community-Manager)
-
-Nichts, was du an [abuse@ppy.sh](mailto:abuse@ppy.sh) sendest, wird jemals mit jemand anderem als diesen beiden Personen geteilt werden.
+Nichts, was du an [abuse@ppy.sh](mailto:abuse@ppy.sh) sendest, wird jemals mit jemand anderem als ihm geteilt werden.
 
 ## Jemand hat mir gegenüber unangebrachte sexuelle Annäherungen oder Bemerkungen gemacht!
 

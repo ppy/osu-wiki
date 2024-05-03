@@ -2,9 +2,11 @@
 
 Contest points are points that are used as a reward in official mapping contests. They are mainly used to determine the eligibility of a user to receive the *Elite Mapper* title, which is awarded to users who have reached **6 points**.
 
+Contest points can also be granted as a benefit of [official beatmapping contest support](/wiki/Contests/Official_support) under [certain circumstances](/wiki/Contests/Official_support#eligibility).
+
 ## Points key
 
-For solo contests, contest points are based on how many valid submissions are created.
+For solo contests, contest points are based on how many valid submissions are created. These are the general guidelines for point distribution, and exceptions may be granted on a case-by-case basis at the discretion of the [Contest Committee](/wiki/People/Tournament_Committee#contest-committee) when requesting official beatmapping contest support.
 
 | # of submissions | 1st-place points | 2nd-place points | 3rd-place points |
 | :-- | :-- | :-- | :-- |
@@ -31,6 +33,7 @@ For team contests, elite mapper points will be evaluated on a case-by-case basis
 | ::{ flag=US }:: [phyr](https://osu.ppy.sh/users/13181574) | 4 |
 | ::{ flag=TH }:: [- Frontier -](https://osu.ppy.sh/users/4314710) | 3 |
 | ::{ flag=GB }:: [Aistre](https://osu.ppy.sh/users/4879380) | 3 |
+| ::{ flag=KR }:: [bIG data](https://osu.ppy.sh/users/17744610) | 3 |
 | ::{ flag=DK }:: [melon boy](https://osu.ppy.sh/users/3053382) | 2 |
 | ::{ flag=RU }:: [Aphestra](https://osu.ppy.sh/users/11949191) | 2 |
 | ::{ flag=PL }:: [Kalibe](https://osu.ppy.sh/users/3376777) | 2 |
@@ -46,6 +49,7 @@ For team contests, elite mapper points will be evaluated on a case-by-case basis
 | ::{ flag=PH }:: [flake](https://osu.ppy.sh/users/7627157) | 1 |
 | ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | 1 |
 | ::{ flag=PH }:: [LeCandy](https://osu.ppy.sh/users/6626249) | 1 |
+| ::{ flag=US }:: [fowwo](https://osu.ppy.sh/users/4547551) | 1 |
 
 ### osu!taiko
 
@@ -53,12 +57,13 @@ For team contests, elite mapper points will be evaluated on a case-by-case basis
 | :-- | :-- |
 | ::{ flag=TH }:: [**Ph0eNiiXZ**](https://osu.ppy.sh/users/9463721) | **6** |
 | ::{ flag=TH }:: [Kusuhara Yui](https://osu.ppy.sh/users/9582525) | 5 |
-| ::{ flag=SG }:: [_gt](https://osu.ppy.sh/users/8301957) | 4 |
+| ::{ flag=SG }:: [_gt](https://osu.ppy.sh/users/8301957) | 5 |
 | ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719) | 3 |
 | ::{ flag=FI }:: [Jaltzu](https://osu.ppy.sh/users/2597417) | 2 |
 | ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | 2 |
 | ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438) | 2 |
 | ::{ flag=JP }:: [IceOC](https://osu.ppy.sh/users/5482401) | 2 |
+| ::{ flag=KR }:: [ZTH](https://osu.ppy.sh/users/5258461) | 2 |
 | ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097) | 1 |
 | ::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157) | 1 |
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) | 1 |
@@ -68,23 +73,25 @@ For team contests, elite mapper points will be evaluated on a case-by-case basis
 
 | User | Points |
 | :-- | :-- |
+| ::{ flag=CA }:: [Unlucky_w](https://osu.ppy.sh/users/4820793) | 5 |
 | ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) | 4 |
-| ::{ flag=CA }:: [Unlucky_w](https://osu.ppy.sh/users/4820793) | 3 |
 | ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) | 3 |
 | ::{ flag=PH }:: [-Rusty](https://osu.ppy.sh/users/16355636) | 2 |
 | ::{ flag=TH }:: [rew0825](https://osu.ppy.sh/users/2488026) | 1 |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | 1 |
 | ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466) | 1 |
+| ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613) | 1 |
 
 ### osu!mania
 
 | User | Points |
 | :-- | :-- |
+| ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904) | 4 |
 | ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222) | 3 |
 | ::{ flag=KR }:: [hemoo](https://osu.ppy.sh/users/4420703) | 3 |
-| ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904) | 2 |
 | ::{ flag=CN }:: [richardfeder](https://osu.ppy.sh/users/2446000) | 2 |
 | ::{ flag=KR }:: [Kawawa](https://osu.ppy.sh/users/4647754) | 2 |
+| ::{ flag=AU }:: [oct4](https://osu.ppy.sh/users/10303887) | 2 |
 | ::{ flag=US }:: [lemonguy](https://osu.ppy.sh/users/4693052) | 1 |
 | ::{ flag=BR }:: [AutotelicBrown](https://osu.ppy.sh/users/4238941) | 1 |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | 1 |
@@ -96,6 +103,8 @@ Contest points have been used in the following contests:
 
 - [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest)
 - [osu!taiko Featured Artist Cup](/wiki/Contests/o!tFAC)
+- [Twin Trials](/wiki/Contests/Twin_Trials_Contest)
+- [Vocaloid Mapping Contest 2](/wiki/Contests/VMC/2)
 
 ## History
 

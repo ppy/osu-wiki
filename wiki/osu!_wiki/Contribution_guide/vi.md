@@ -41,11 +41,11 @@ Sau khi sự thay đổi đã được kiểm tra, thực hiện, và đẩy và
 
 1. Trong **fork của bạn** từ osu! wiki, tìm `master↓`, tìm branch có sự thay đổi của bạn.
 2. Bấm `Contribute↓` và bấm `Open pull request`.
-3. Điền thông tin dựa theo [Các gợi ý để làm công việc của bạn tốt hơn § Mở ra một yêu cầu (a pull request)](/wiki/osu!_wiki/Contribution_guide/Best_practices#mở-ra-một-yêu-cầu-(a-pull-request)) và bấm `Create pull request`.
+3. Điền thông tin dựa theo [Các gợi ý để làm công việc của bạn tốt hơn § Mở một pull request](/wiki/osu!_wiki/Contribution_guide/Best_practices#mở-một-pull-request)) và bấm `Create pull request`.
 
 ## Đánh giá {id=review}
 
-Mọi thay đổi osu! wiki đều được quản lý. Trong giai đoạn đó, cộng tác viên sẽ chỉ ra những gì có thể sai và cách để sửa chúng, có thể là sự hướng dẫn, hoặc là sửa thẳng đến pull request. GIống như với mọi ý kiến khác, bạn cần làm theo nó bằng cách [sửa sót theo đánh giá](/wiki/osu!_wiki/Contribution_guide/Best_practices#sửa-sót-theo-đánh-giá), hoặc giải thích vì sao bạn muốn giữ chúng theo cách của bạn.
+Mọi thay đổi osu! wiki đều được quản lý. Trong giai đoạn đó, cộng tác viên sẽ chỉ ra những gì có thể sai và cách để sửa chúng, có thể là sự hướng dẫn, hoặc là sửa thẳng đến pull request. GIống như với mọi ý kiến khác, bạn cần làm theo nó bằng cách [chỉnh sửa theo đánh giá](/wiki/osu!_wiki/Contribution_guide/Best_practices#chỉnh-sửa-theo-đánh-giá), hoặc giải thích vì sao bạn muốn giữ chúng theo cách của bạn.
 
 Nếu không ai quan tâm sau vài ngày, hãy thử:
 
