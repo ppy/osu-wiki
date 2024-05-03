@@ -40,7 +40,7 @@ The following are modding traits expected of Beatmap Nominators:
 
 ## Application process
 
-![Application flowchart](img/ApplicationFlowchart.png "Flowchart outlining the Beatmap Nominator application process")
+![Application flowchart](img/bn-application-flowchart.png "Flowchart outlining the Beatmap Nominator application process")
 
 Users are required to submit three beatmaps that have been modded by them within the last 6 months, each having a different host.
 
