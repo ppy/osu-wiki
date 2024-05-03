@@ -52,13 +52,19 @@ Lagging behind and desperately in need of momentum, Poland picks DT3. After an u
 
 In the end, the run of a lifetime dissolves as Poland locks in and surges for victory, ultimately defeating the Australians in a 5-4 tiebreaker victory. The fact this match went to tiebreaker at all is incredible, we’re certain the Australian team is proud of their efforts.
 
-### Grand Finals: ::{ flag=CA }:: Canada vs. ::{ flag=US }:: United States
+### Losers Grand Finals: ::{ flag=CA }:: Canada vs. ::{ flag=US }:: United States
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/p521LJbPT48" frameborder="0" allowfullscreen></iframe>
 </div>
 
-text
+While both teams initially won each of their picks in lockstep, Canada's stride seemed more confident with wider score margins. The even scoreline lasted even as the US began to show force in the Hard Rock picks.
+
+Among notable stars of the show we had ::{ flag=CA }:: [ploot](https://osu.ppy.sh/users/7802400) carrying the Canadian team throughout the first half during their picks and expecially on HD2, [t+pazolite - Heartache Debug feat. Akagawa Nene](https://osu.ppy.sh/beatmapsets/1833716#osu/3764512), snatching the lobby's only S-rank score at 99.45% accuracy. This was not without a fight from ::{ flag=US }:: [gilgamesh815](https://osu.ppy.sh/users/14040810) and ::{ flag=US }:: [zfr](https://osu.ppy.sh/users/11536421), who also performed exceptionally well throughout the match.
+
+Canada's slightly higher seed (#2 vs. #4) was first questioned when they almost lose on their own pick of Hollow Wing's famous map of [Halozy - Sentimental Skyscraper](https://osu.ppy.sh/beatmapsets/100348#osu/412288), falling behind yet taking it back on the second half. Carrying this momentum forward, Canada took the first breakpoint on America's HR3 pick, but traded it right back with America's double EZ roster on FM2.
+
+Another win from the US' own pick later and the two podium finalists were taken to the tiebreaker of [Sydosys - Epsilon](https://osu.ppy.sh/beatmapsets/2166904#osu/4571684). After a mostly smooth first section of the song, everyone breaks combo on the transition except for two Canadians, and with ::{ flag=CA }:: [FetherFall](https://osu.ppy.sh/users/15296550)'s subsequent break it was ::{ flag=CA }:: [Birchman](https://osu.ppy.sh/users/10676573)'s time to shine while building a devastating lead. The scoreline swung in Canada's favour, and with Birchman's 430k-score performance topping the lobby, Canada's advancement to Grand Finals against Poland was sealed in this moment.
 
 ## osu! originals
 
