@@ -24,6 +24,8 @@ Beatmapping is extremely diverse and creative differences are to be expected. Th
 
 If discussion is no longer progressing in the direction of a compromise, or is otherwise unable to be reasonably resolved, the beatmap creator or vetoing Beatmap Nominator can request for mediation. If no request is received, mediation will not begin and the mapper will be assumed to have given up on the beatmap.
 
+If the vetoer is no longer a Beatmap Nominator and no mediation has been requested, the veto will be dismissed.
+
 During mediation, the Beatmap Nominators and members of the NAT will vote for whether to uphold or dismiss the veto anonymously. Once initiated, this process can take anywhere from a day up to a week depending on how quickly participants make their decisions.
 
 Any decision made by participants must be accompanied by a reason for making the decision. Should a member be unable to participate, their vote will be considered abstained.
@@ -36,7 +38,7 @@ Following mediation, the beatmap veto will either be dismissed if the proposed c
 
 **If the beatmap veto is dismissed**, any formally qualified Beatmap Nominator may renominate the beatmap, including the Nominator(s) who initially nominated.
 
-In order to re-initiate a mediation which resulted in the dismissal of a veto, a Beatmap Nominator previously uninvolved with the mapset's ranking process, can re-initiate the mediation through vetoing again.
+In order to re-initiate a mediation which resulted in the dismissal of a veto, a Beatmap Nominator who hasn't previously nominated the mapset, and hasn't participated in the initiation of the initial veto, can re-initiate the mediation through vetoing again.
 
 ### Upheld beatmap vetoes
 
