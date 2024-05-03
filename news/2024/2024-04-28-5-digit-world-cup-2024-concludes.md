@@ -4,7 +4,7 @@ title: 5 Digit World Cup 2024 Concludes
 date: 2024-04-28 12:00:00 +0000
 ---
 
-With the Grand Finals behind us, the 5 Digit World Cup 2024 is over. Come with us as we go through the incredible matches between this year's teams and get some insights from a runner-up, a contributing artist, our most active mapper and an admin.
+With the Grand Finals 2 weeks behind us, the 5 Digit World Cup 2024 is over. Come with us as we go through the incredible matches between this year's teams and get some insights from a runner-up, a contributing artist, our most active mapper and an admin.
 
 ![](/wiki/shared/news/2024-01-23-5-digit-world-cup-2024-registrations-now-open/5wc2024-banner.png)
 
@@ -18,7 +18,7 @@ Let's get going, since we have seven weeks of amazing matches, highlights and a 
 
 Congratulations to Poland for taking the first place this year. The other Grand Finalist, Canada, gave them a scare by winning the first match 7–5, bringing them to a bracket reset! But Poland prevailed, winning the bracket reset match with a score of 7–5, making them the deserving victors this year.
 
-We want to thank and congratulate Canada and the United States for once again playing their hearts out this year and reaching the podium. For Canada, their second place finish is a return to the podium for the first time since 2019, with it also being their best result so far. For the United States, third place means their 6th consecutive top 8 finish and showing their consistency in forming great teams that get far into the bracket.
+We want to thank and congratulate Canada and the United States for once again playing their hearts out this year and reaching the podium. For Canada, their second-place finish is a return to the podium for the first time since 2019, with it also being their best result so far. For the United States, third place means their 6th consecutive top 8 finish and showing their consistency in forming great teams that get far into the bracket.
 
 ## Match highlights
 
@@ -30,11 +30,11 @@ We want to thank and congratulate Canada and the United States for once again pl
 
 The Round of 32, the first round of the tournament, is usually a round without many close matches. This year however was different! We saw a bunch of close matches, but the match between Brazil and Hong Kong was the one that took the spot for most surprising match of the round.
 
-Brazil, being the #10 seed from qualifiers, was the big favourite to move into the Round of 16. They were up against the #22 seeded Hong Kong, which should have posed no big troubles for the Brazilian team, but things turned out different.
+Brazil, being the #10 seed from the Qualifiers, was the big favourite to move into the Round of 16. They were up against the #22-seeded Hong Kong, which should have posed no big troubles for the Brazilian team, but things turned out different.
 
-After the start of the match, Brazil took a quick 2–0 lead, winning their protected HD2 and the FM1 pick from Hong Kong. Brazil picked NM4 as their next map, which in hindsight, was not the right pick. Hong Kong came back and took three straight map wins, including two breakpoints, taking the lead in the match with a 2–3 scoreline. After taking the lead, Hong Kong was the next team to pick. They picked HR1, which resulted in Brazil getting a second breakpoint, tying the match at 3–3. After a back-and-forth between the two teams, the score ended up in a 4–4 tie, forcing a tiebreaker.
+After the start of the match, Brazil took a quick 2–0 lead, winning their protected HD2 and the FM1 pick from Hong Kong. Brazil picked NM4 as their next map, which in hindsight was not the right pick. Hong Kong came back and took three straight map wins, including two breakpoints, taking the lead in the match with a 2–3 scoreline. After taking the lead, Hong Kong was the next team to pick. They picked HR1, which resulted in Brazil getting a second breakpoint, tying the match at 3–3. After a back-and-forth between the two teams, the score ended up in a 4–4 tie, forcing a tiebreaker.
 
-In the end, Hong Kong took the win and won the match 4–5, forcing Brazil into the losers bracket and moving on to the Round of 16 themselves.
+In the end, Hong Kong took the win and won the match 4–5, forcing Brazil into the losers' bracket and moving on to the Round of 16 themselves.
 
 ### Round of 16: ::{ flag=PL }:: Poland vs. ::{ flag=AU }:: Australia
 
@@ -44,13 +44,13 @@ In the end, Hong Kong took the win and won the match 4–5, forcing Brazil into 
 
 Moving into the Round of 16, we see what looks like an impossible matchup for Australia (#17). To move into Quarterfinals in the winners bracket, they must win against Poland (#1). The absurdity of this match cannot be understated.
 
-In the beginning, all looks normal for Poland, the 98.6% favorite according to this week’s [pick’em challenge](/wiki/shared/news/2024-04-28-5-digit-world-cup-2024-concludes/pickem.png), as they take an easy two points from Australia. This is the behavior you expect from a #1 seed in the Round of 16, especially against a team who made it here via an upset against Sweden (#16).
+In the beginning, all looked normal for Poland, the 98.6% favourite according to the week's [pick'em challenge](/wiki/shared/news/2024-04-28-5-digit-world-cup-2024-concludes/pickem.png), as they took an easy two points from Australia. This is the behavior you expect from a #1 seed in the Round of 16, especially against a team who made it here via an upset against Sweden (#16).
 
-As the match charges on, Australia manages to earn point after point. Expecting an easy 3-0 lead, Poland picks HR3 and loses by a huge margin (by nearly 500k points). The score is now 2-1 and the ball is in Australia’s court. Looking to tie things up, the Aussies go for FM2 and manage to win by 300k - a second victory in a row over the goliath that is the Polish team. Everyone’s pick’ems are already shattered by this point, but the Australian team still has more up their sleeves and the score is tied 2-2.
+As the match charges on, Australia managed to earn point after point. Expecting an easy 3-0 lead, Poland picked HR3 and lost by a huge margin (by nearly 500k points). The score was now 2-1 and the ball was in Australia's court. Looking to tie things up, the Aussies went for FM2 and managed to win by 300k - a second victory in a row over the goliath that is the Polish team. Everyone's pick'ems were already shattered by this point, but the Australian team still had more up their sleeves and the score is tied 2-2.
 
-Lagging behind and desperately in need of momentum, Poland picks DT3. After an uncertain ending with Trainjumper’s client freezing on the livestream, the results are revealed in the match link: Australia won again and now has the advantage, 2-3 with the pick. They shoot for NM2 and win yet another point, somehow the script flipped and Australia is the one with match point against the would-be winners of the tournament.
+Lagging behind and desperately in need of momentum, Poland picked DT3. After an uncertain ending with ::{ flag=AU }:: [Trainjumper](https://osu.ppy.sh/users/2272587)'s client freezing on the livestream, the results were revealed in the [match logs](https://osu.ppy.sh/community/matches/113190844). Australia won again and now had the advantage at 2-3. They shot for NM2 and won yet another point, somehow flipping the script and making Australia the one with match point against the would-be winners of the tournament.
 
-In the end, the run of a lifetime dissolves as Poland locks in and surges for victory, ultimately defeating the Australians in a 5-4 tiebreaker victory. The fact this match went to tiebreaker at all is incredible, we’re certain the Australian team is proud of their efforts.
+In the end, the run of a lifetime dissolved as Poland locked in and surges for victory, ultimately defeating the Australians in a 5-4 tiebreaker victory. The fact this match went to tiebreaker at all is incredible, and we're certain the Australian team is proud of their efforts.
 
 ### Losers Grand Finals: ::{ flag=CA }:: Canada vs. ::{ flag=US }:: United States
 
@@ -58,11 +58,11 @@ In the end, the run of a lifetime dissolves as Poland locks in and surges for vi
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/p521LJbPT48" frameborder="0" allowfullscreen></iframe>
 </div>
 
-While both teams initially won each of their picks in lockstep, Canada's stride seemed more confident with wider score margins. The even scoreline lasted even as the US began to show force in the Hard Rock picks.
+Fighting for a chance at the crown or being cast to 3rd place, both teams initially won each of their picks in lockstep, but Canada's strides seemed more confident with their wider score margins. The even scoreline lasted even as the US began to show force in their Hard Rock picks.
 
-Among notable stars of the show we had ::{ flag=CA }:: [ploot](https://osu.ppy.sh/users/7802400) carrying the Canadian team throughout the first half during their picks and expecially on HD2, [t+pazolite - Heartache Debug feat. Akagawa Nene](https://osu.ppy.sh/beatmapsets/1833716#osu/3764512), snatching the lobby's only S-rank score at 99.45% accuracy. This was not without a fight from ::{ flag=US }:: [gilgamesh815](https://osu.ppy.sh/users/14040810) and ::{ flag=US }:: [zfr](https://osu.ppy.sh/users/11536421), who also performed exceptionally well throughout the match.
+The first half of the match already revealed the stars of the show, with ::{ flag=CA }:: [ploot](https://osu.ppy.sh/users/7802400) carrying the Canadian team throughout their picks, and expecially so during HD2, [t+pazolite - Heartache Debug feat. Akagawa Nene](https://osu.ppy.sh/beatmapsets/1833716#osu/3764512), snatching the lobby's only S-rank score at 99.45% accuracy. This was not without a fight from ::{ flag=US }:: [gilgamesh815](https://osu.ppy.sh/users/14040810) and ::{ flag=US }:: [zfr](https://osu.ppy.sh/users/11536421), who also performed exceptionally well throughout.
 
-Canada's slightly higher seed (#2 vs. #4) was first questioned when they almost lose on their own pick of Hollow Wing's famous map of [Halozy - Sentimental Skyscraper](https://osu.ppy.sh/beatmapsets/100348#osu/412288), falling behind yet taking it back on the second half. Carrying this momentum forward, Canada took the first breakpoint on America's HR3 pick, but traded it right back with America's double EZ roster on FM2.
+Canada's slightly higher seed (#2 vs. #4) was first questioned when they almost lost on their own pick of [Hollow Wings](https://osu.ppy.sh/users/416662)'s famous map of [Halozy - Sentimental Skyscraper](https://osu.ppy.sh/beatmapsets/100348#osu/412288), falling behind yet taking it back on the second half. Carrying this momentum forward, Canada took the first breakpoint on America's HR3 pick, but traded it right back with America's double EZ roster on FM2.
 
 Another win from the US' own pick later and the two podium finalists were taken to the tiebreaker of [Sydosys - Epsilon](https://osu.ppy.sh/beatmapsets/2166904#osu/4571684). After a mostly smooth first section of the song, everyone breaks combo on the transition except for two Canadians, and with ::{ flag=CA }:: [FetherFall](https://osu.ppy.sh/users/15296550)'s subsequent break it was ::{ flag=CA }:: [Birchman](https://osu.ppy.sh/users/10676573)'s time to shine while building a devastating lead. The scoreline swung in Canada's favour, and with Birchman's 430k-score performance topping the lobby, Canada's advancement to Grand Finals against Poland was sealed in this moment.
 
@@ -74,9 +74,9 @@ Another win from the US' own pick later and the two podium finalists were taken 
     }
 </style>
 
-Ever since the great response from the 5WC 2023 Grand Finals tiebreaker custom song, it should be no surprise that this year had more than one original song.
+Ever since the great response from the 5WC 2023 Grand Finals tiebreaker song, it should be no surprise that this year had more than one original.
 
-To thank our amazing artists for their hard work and determination, we have listed all their songs below for you to listen to and play! Click on the banner of the respective song to go to the map that was made for the tournament.
+To thank our amazing artists (listed further down and in the beatmap descriptions) for their hard work and determination, we have laid out all their songs below for you to listen to and play! Click on the banner of the respective song to go to the map that was made for the tournament.
 
 ### Semifinals
 
@@ -118,7 +118,7 @@ To thank our amazing artists for their hard work and determination, we have list
 
 ## Interviews
 
-lead
+Spectators see the matches and memories they create, but some memories reside in no other place than the people most involved. These are the reflections from a few of them.
 
 ::{#birchman}::
 
@@ -178,7 +178,7 @@ What was the process like to create *Beyond Reality*? Was there a main idea behi
 > 
 > Additionally, I've been mapping for over 2 years and have created several custom maps for community tournaments, in particular mapping an osu! original song composed by seleP for OWC 2023. I also have a couple ranked maps of my own, mainly guest difficulties.
 
-[ajmosca](https://osu.ppy.sh/users/19884809) mapped 5 beatmaps specifically for the 5 Digit World Cup 2024.
+[ajmosca](https://osu.ppy.sh/users/19884809) mapped 5 beatmaps specifically for the 5 Digit World Cup 2024, or 5 "custom maps" as they're commonly known.
 
 ---
 
@@ -186,7 +186,7 @@ For people not so familiar with the subject, what might be the reasons for creat
 
 > There are many reasons why a tourney would request mappers to make customs. The most common reason is that custom maps are fresh takes on the skillsets that a mappooler wants to test. One of the big struggles of mappooling is finding quality maps fit for tournament use (well-mapped and of consistent difficulty) that haven't been used too much in other tourneys before. At higher levels of play, this can be particularly difficult, which is why customs are considered the 'ideal' solution to this problem. (Some disagree with this, but that is a whole other discussion.)
 > 
-> Sometimes though, the reasons to create a custom can be significantly different. Some tourneys request customs because they like a mapper’s style and want to use more maps from that mapper. Other times it's the mappers that request the customs themselves, looking to force themselves to map more or create something different from their usual maps. Some tourney hosts also believe it would increase the quality of their competition to have custom maps in their pools. And in rarer cases, you request a custom map because you commissioned a song from an artist for a competition and are in need of a map for it c:
+> Sometimes though, the reasons to create a custom can be significantly different. Some tourneys request customs because they like a mapper's style and want to use more maps from that mapper. Other times it's the mappers that request the customs themselves, looking to force themselves to map more or create something different from their usual maps. Some tourney hosts also believe it would increase the quality of their competition to have custom maps in their pools. And in rarer cases, you request a custom map because you commissioned a song from an artist for a competition and are in need of a map for it c:
 
 How did creating 5 custom maps for 5WC 2024 come about? Was this a special occasion or were things business as usual?
 
@@ -252,4 +252,4 @@ Almost all spectators have no idea how much it takes to run a world cup at this 
 
 We thank each player who gave it their all this year, ggwp!
 
-—Timper, Stage
+—Timper, Stage, Walavouchey
