@@ -84,7 +84,7 @@ To thank our amazing artists (listed further down and in the beatmap description
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="https://wala.s-ul.eu/IgCZkoOd">
+        <source src="https://assets.ppy.sh/media/news/2024-05-04-cybernetic-reverie.mp3">
     </audio>
 </div>
 
@@ -94,7 +94,7 @@ To thank our amazing artists (listed further down and in the beatmap description
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="https://wala.s-ul.eu/AMWYGz9v">
+        <source src="https://assets.ppy.sh/media/news/2024-05-04-neptune.mp3">
     </audio>
 </div>
 
@@ -102,7 +102,7 @@ To thank our amazing artists (listed further down and in the beatmap description
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="https://wala.s-ul.eu/kIJ6ljXK">
+        <source src="https://assets.ppy.sh/media/news/2024-05-04-beyond-reality.mp3">
     </audio>
 </div>
 
@@ -112,7 +112,7 @@ To thank our amazing artists (listed further down and in the beatmap description
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="https://wala.s-ul.eu/8doBS2vy">
+        <source src="https://assets.ppy.sh/media/news/2024-05-04-epsilon.mp3">
     </audio>
 </div>
 
