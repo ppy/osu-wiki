@@ -200,7 +200,7 @@ How did creating 5 custom maps for 5WC 2024 come about? Was this a special occas
 > 
 > This was DEFINITELY a special occasion, where circumstances just lined up perfectly — typically mappers just make a map or two over the whole tournament (myself included). In any other circumstances this would be a painful, if not impossible, thing for me to do, especially because compared to other mappers I tend to be a lot slower in creating maps, and also because maps tend to go through a quality assurance process before being released.
 
-Having collaborated with a few artists at this point for original songs in your maps, how would you describe your experience this time mapping the [Grand Finals tiebreaker *Beyond Reality*](https://osu.ppy.sh/beatmapsets/2163553#osu/4562997)?
+Having collaborated with a few artists at this point for original songs in your maps, how would you describe your experience this time mapping the [Finals tiebreaker *Beyond Reality*](https://osu.ppy.sh/beatmapsets/2163553#osu/4562997)?
 
 > Compared to my other original song maps, the highlight for this occasion was how closely I was able to work with the song artist themselves. Working closely with [Naikou](https://osu.ppy.sh/users/29139453) during the various stages of creating this map was wonderful.
 > 
