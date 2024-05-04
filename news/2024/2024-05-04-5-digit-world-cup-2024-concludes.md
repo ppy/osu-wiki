@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Digit World Cup 2024 Concludes
-date: 2024-05-03 22:00:00 +0000
+date: 2024-05-04 09:00:00 +0000
 ---
 
 With the Grand Finals 2 weeks behind us, the 5 Digit World Cup 2024 is over. Come with us as we go through the incredible matches between this year's teams and get some insights from a runner-up, a contributing artist, our most active mapper and an admin.
@@ -14,7 +14,7 @@ Let's get going, since we have seven weeks of amazing matches, highlights and a 
 
 ## Summary
 
-![](/wiki/shared/news/2024-05-03-5-digit-world-cup-2024-concludes/podium.jpg)
+![](/wiki/shared/news/2024-05-04-5-digit-world-cup-2024-concludes/podium.jpg)
 
 Congratulations to Poland for taking the first place this year. The other Grand Finalist, Canada, gave them a scare by winning the first match 7–5, bringing them to a bracket reset! But Poland prevailed, winning the bracket reset match with a score of 7–5, making them the deserving victors this year.
 
@@ -44,7 +44,7 @@ In the end, Hong Kong took the win and won the match 4–5, forcing Brazil into 
 
 Moving into the Round of 16, we see what looks like an impossible matchup for Australia (#17). To move into Quarterfinals in the winners bracket, they must win against Poland (#1). The absurdity of this match cannot be understated.
 
-In the beginning, all looked normal for Poland, the 98.6% favourite according to the week's [pick'em challenge](/wiki/shared/news/2024-05-03-5-digit-world-cup-2024-concludes/pickem.png), as they took an easy two points from Australia. This is the behaviour you expect from a #1 seed in the Round of 16, especially against a team who made it here via an upset against Sweden (#16).
+In the beginning, all looked normal for Poland, the 98.6% favourite according to the week's [pick'em challenge](/wiki/shared/news/2024-05-04-5-digit-world-cup-2024-concludes/pickem.png), as they took an easy two points from Australia. This is the behaviour you expect from a #1 seed in the Round of 16, especially against a team who made it here via an upset against Sweden (#16).
 
 As the match charges on, Australia managed to earn point after point. Expecting an easy 3-0 lead, Poland picked HR3 and lost by a huge margin (by nearly 500k points). The score was now 2-1 and the ball was in Australia's court. Looking to tie things up, the Aussies went for FM2 and managed to win by 300k — a second victory in a row over the goliath that is the Polish team. Everyone's pick'ems were already shattered by this point, but the Australian team still had more up their sleeves and the score is tied 2-2.
 
@@ -80,7 +80,7 @@ To thank our amazing artists (listed further down and in the beatmap description
 
 ### Semifinals
 
-[![](/wiki/shared/news/2024-05-03-5-digit-world-cup-2024-concludes/Cybernetic_Reverie.jpg)](https://osu.ppy.sh/beatmapsets/2159836)
+[![](/wiki/shared/news/2024-05-04-5-digit-world-cup-2024-concludes/Cybernetic_Reverie.jpg)](https://osu.ppy.sh/beatmapsets/2159836)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -90,7 +90,7 @@ To thank our amazing artists (listed further down and in the beatmap description
 
 ### Finals
 
-[![](/wiki/shared/news/2024-05-03-5-digit-world-cup-2024-concludes/Neptune.jpg)](https://osu.ppy.sh/beatmapsets/2163548)
+[![](/wiki/shared/news/2024-05-04-5-digit-world-cup-2024-concludes/Neptune.jpg)](https://osu.ppy.sh/beatmapsets/2163548)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -98,7 +98,7 @@ To thank our amazing artists (listed further down and in the beatmap description
     </audio>
 </div>
 
-[![](/wiki/shared/news/2024-05-03-5-digit-world-cup-2024-concludes/Beyond_Reality.jpg)](https://osu.ppy.sh/beatmapsets/2163553)
+[![](/wiki/shared/news/2024-05-04-5-digit-world-cup-2024-concludes/Beyond_Reality.jpg)](https://osu.ppy.sh/beatmapsets/2163553)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -108,7 +108,7 @@ To thank our amazing artists (listed further down and in the beatmap description
 
 ### Grand Finals
 
-[![](/wiki/shared/news/2024-05-03-5-digit-world-cup-2024-concludes/Epsilon.jpg)](https://osu.ppy.sh/beatmapsets/2166904)
+[![](/wiki/shared/news/2024-05-04-5-digit-world-cup-2024-concludes/Epsilon.jpg)](https://osu.ppy.sh/beatmapsets/2166904)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -122,7 +122,7 @@ Spectators see the matches and memories they create, but some memories reside in
 
 ::{#birchman}::
 
-[![](/wiki/shared/news/2024-05-03-5-digit-world-cup-2024-concludes/Birchman.png)](https://osu.ppy.sh/users/10676573)
+[![](/wiki/shared/news/2024-05-04-5-digit-world-cup-2024-concludes/Birchman.png)](https://osu.ppy.sh/users/10676573)
 
 > Hi I'm Birchman, I've been playing the game off and on since August 2017, and I've been playing tournaments semi-actively since August 2022. I was on Canada's 5wc roster last year and had the chance to play for Canada again this year as well.
 
@@ -154,7 +154,7 @@ What was the first thing you did after the tournament?
 
 ::{#naikou}::
 
-[![](/wiki/shared/news/2024-05-03-5-digit-world-cup-2024-concludes/Naikou.png)](https://osu.ppy.sh/users/29139453)
+[![](/wiki/shared/news/2024-05-04-5-digit-world-cup-2024-concludes/Naikou.png)](https://osu.ppy.sh/users/29139453)
 
 > I'm a multigenre DTM producer that you probably don't know! I've been doing music for almost three years now and currently my style focuses on blending color bass elements with everything I do :3
 
@@ -176,7 +176,7 @@ What was the process like to create *Beyond Reality*? Was there a main idea behi
 
 ::{#ajmosca}::
 
-[![](/wiki/shared/news/2024-05-03-5-digit-world-cup-2024-concludes/ajmosca.png)](https://osu.ppy.sh/users/19884809)
+[![](/wiki/shared/news/2024-05-04-5-digit-world-cup-2024-concludes/ajmosca.png)](https://osu.ppy.sh/users/19884809)
 
 > Hi! I'm AJ, I'm a 4th year college student that started playing osu! in late 2020. In the last 2.5 years I've also become heavily involved in the tournament community, being a player and staffer for both rank-restricted and open rank competitions, as well as co-hosting a rank-restricted tournament, [Clashing Tides](https://osu.ppy.sh/community/forums/topics/1759097?n=1), last summer.
 > 
@@ -210,7 +210,7 @@ Having collaborated with a few artists at this point for original songs in your 
 
 ::{#lupa}::
 
-[![](/wiki/shared/news/2024-05-03-5-digit-world-cup-2024-concludes/Lupa.png)](https://osu.ppy.sh/users/4722369)
+[![](/wiki/shared/news/2024-05-04-5-digit-world-cup-2024-concludes/Lupa.png)](https://osu.ppy.sh/users/4722369)
 
 > Hi there! My name's Lupa and I've been playing osu actively since 2014. I've followed tournaments like OWC since then but have been especially involved in 4/5 digit tournaments since 2021, playing in about 35 tournaments myself and hosting 3 with a 4th on the way.
 
@@ -256,7 +256,7 @@ Where might you go from here?
 
 Everyone involved, in one picture. Something neat might happen if you click on it...
 
-[![](/wiki/shared/news/2024-05-03-5-digit-world-cup-2024-concludes/5wc2024-credits.png)](https://www.youtube.com/watch?v=KvztyaifngM)
+[![](/wiki/shared/news/2024-05-04-5-digit-world-cup-2024-concludes/5wc2024-credits.png)](https://www.youtube.com/watch?v=KvztyaifngM)
 
 These types of tournaments are only possible because of the incredible osu! tournament community. It takes consistent contributions from dozens and dozens of people, ranging from playtesters to streamers, casters, referees, artists, sheeters, poolers... the list goes on and on. This admin team has a unique perspective in that we are the only ones who truly see everything from the months-long planning phase through to the end.
 
