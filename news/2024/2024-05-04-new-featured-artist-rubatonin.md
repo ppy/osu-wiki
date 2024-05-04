@@ -8,7 +8,7 @@ date: 2024-05-04 21:00:00 +0000
 
 ![](https://assets.ppy.sh/artists/418/header.jpg)
 
-Loosely comprised of 20+ Korean producers who adore rhythm game music, **Rubatonin** (previously known as *MiRAETRAX*) is responsible for the creation of tons of compilation albums that span across the genre spectrum. Their members' songs have found their ways into games like Lanota, KALPA, Sixtar Gate, and even osu! through [Raimukun](https://osu.ppy.sh/beatmaps/artists/247) and [Cansol](https://osu.ppy.sh/beatmaps/artists/407).
+Loosely comprised of 20+ Korean producers who adore rhythm game music, **Rubatonin** (previously known as *MiRAETRAX*) is responsible for the creation of tons of compilation albums that span across the genre spectrum. Their members' songs have found their ways into games like *Lanota*, *KALPA*, *Sixtar Gate*, and even osu! through [Raimukun](https://osu.ppy.sh/beatmaps/artists/247) and [Cansol](https://osu.ppy.sh/beatmaps/artists/407).
 
 As of today, **Rubatonin** is making even more of an impact through a whopping **44** songs, all of which are pre-timed and ready for mapping from [**Rubatonin**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/418)!
 
