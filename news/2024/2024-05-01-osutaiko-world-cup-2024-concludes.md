@@ -30,9 +30,9 @@ After the Finals week results I'd bet you a pretty penny both sides of the pond 
 
 The United States on the other hand are in a *state* (haha) of euphoria after achieving their first-ever top 3 finish despite participating in every TWC to date. They've already made history, so... why not make some more, right?
 
-The United States decided to go all-in and opened with [BilliumMoto - 100 Carat Smoke Point](https://osu.ppy.sh/beatmapsets/2170025#taiko/4579557) but that sadly backfired, with the United Kingdom grabbing a breakpoint as well as an extra on [Memme - Acid Burst](https://osu.ppy.sh/beatmapsets/1048233#taiko/4579357). A rough start, but being in the Grand Finals is no fluke, as the United States quickly stepped back into the ring with a win on [ikaruga_nex - ultimer](https://osu.ppy.sh/s/1761945). Things steadily progressed until we eventually found ourselves in a "back-to-back-to-back" osu!original streak (yay!)! The United States grabbed [katagiri - c0pyf0x](https://osu.ppy.sh/s/2169957), but the United Kingdom claimed both [DJ Raisei - Fractured Heaven](https://osu.ppy.sh/s/2169918) and [BilliumMoto - Stained Satin](https://osu.ppy.sh/s/2170035).
+The United States decided to go all-in and opened with [BilliumMoto - 100 Carat Smoke Point](https://osu.ppy.sh/beatmapsets/2170025) but that sadly backfired, with the United Kingdom grabbing a breakpoint as well as an extra on [Memme - Acid Burst](https://osu.ppy.sh/beatmapsets/1048233). A rough start, but being in the Grand Finals is no fluke, as the United States quickly stepped back into the ring with a win on [ikaruga_nex - ultimer](https://osu.ppy.sh/beatmapsets/1761945). Things steadily progressed until we eventually found ourselves in a "back-to-back-to-back" osu!original streak (yay!)! The United States grabbed [katagiri - c0pyf0x](https://osu.ppy.sh/beatmapsets/2169957), but the United Kingdom claimed both [DJ Raisei - Fractured Heaven](https://osu.ppy.sh/beatmapsets/2169918) and [BilliumMoto - Stained Satin](https://osu.ppy.sh/beatmapsets/2170035).
 
-The score was now 5–2, which is admittedly not great. But as any tournament veteran knows, it's not over until it's over. The United Kingdom took an *extremely* narrow win on [MK & RoughSketch - Stereo Beasts (Original Mix)](https://osu.ppy.sh/beatmapsets/2169935) after an early note lock. The United States laid claim to [Nanodesu - Libera Lotus](https://osu.ppy.sh/beatmapsets/2169909#taiko/4579308) with an incredible team performance. And the last map... the last map really can't be explained in writing. I urge you, I *implore* you... You know what, I *demand* that you check out the VOD. If not for the entire match, then just to know what I'm talking about.
+The score was now 5–2, which is admittedly not great. But as any tournament veteran knows, it's not over until it's over. The United Kingdom took an *extremely* narrow win on [MK & RoughSketch - Stereo Beasts (Original Mix)](https://osu.ppy.sh/beatmapsets/2169935) after an early note lock. The United States laid claim to [Nanodesu - Libera Lotus](https://osu.ppy.sh/beatmapsets/2169909) with an incredible team performance. And the last map... the last map really can't be explained in writing. I urge you, I *implore* you... You know what, I *demand* that you check out the VOD. If not for the entire match, then just to know what I'm talking about.
 
 Though if I cannot convince you, know that the United Kingdom did indeed end up victorious. Although at this point, it's safe to say that they're all winners. The United States gave us one last "hurrah" with a spectacular match to send them off, and for the United Kingdom it is coming home a little greater than last time. The two teams have not only made history for themselves, but for TWC as a whole! For the first time ever, we have not one, but *two* western teams on the top 3 podium.
 
@@ -70,7 +70,7 @@ We highly recommend that you take a minute of your time to check out the highlig
     </video>
 </div>
 
-[![](/wiki/shared/news/2024-03-27-osutaiko-world-cup-2024-round-of-32-recap/Frozen_Blood.jpg?1)](https://osu.ppy.sh/beatmapsets/2152052#taiko/4534309)
+[![](/wiki/shared/news/2024-03-27-osutaiko-world-cup-2024-round-of-32-recap/Frozen_Blood.jpg?1)](https://osu.ppy.sh/beatmapsets/2152052)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -80,7 +80,7 @@ We highly recommend that you take a minute of your time to check out the highlig
 
 ### Round of 16
 
-[![](/wiki/shared/news/2024-04-03-osutaiko-world-cup-2024-round-of-16-recap/aqua_vitae.jpg?1)](https://osu.ppy.sh/beatmapsets/2155621#taiko/4543646)
+[![](/wiki/shared/news/2024-04-03-osutaiko-world-cup-2024-round-of-16-recap/aqua_vitae.jpg?1)](https://osu.ppy.sh/beatmapsets/2155621)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -88,7 +88,7 @@ We highly recommend that you take a minute of your time to check out the highlig
     </audio>
 </div>
 
-[![](/wiki/shared/news/2024-04-03-osutaiko-world-cup-2024-round-of-16-recap/Usuva_Kagerow.jpg?1)](https://osu.ppy.sh/beatmapsets/2155520#taiko/4543446)
+[![](/wiki/shared/news/2024-04-03-osutaiko-world-cup-2024-round-of-16-recap/Usuva_Kagerow.jpg?1)](https://osu.ppy.sh/beatmapsets/2155520)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -96,7 +96,7 @@ We highly recommend that you take a minute of your time to check out the highlig
     </audio>
 </div>
 
-[![](/wiki/shared/news/2024-04-03-osutaiko-world-cup-2024-round-of-16-recap/Train_of_Thought.jpg?1)](https://osu.ppy.sh/beatmapsets/2155531#taiko/4543467)
+[![](/wiki/shared/news/2024-04-03-osutaiko-world-cup-2024-round-of-16-recap/Train_of_Thought.jpg?1)](https://osu.ppy.sh/beatmapsets/2155531)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -106,7 +106,7 @@ We highly recommend that you take a minute of your time to check out the highlig
 
 ### Quarterfinals
 
-[![](/wiki/shared/news/2024-04-10-osutaiko-world-cup-2024-quarterfinals-recap/Yakou.jpg?1)](https://osu.ppy.sh/beatmapsets/2159335#taiko/4552824)
+[![](/wiki/shared/news/2024-04-10-osutaiko-world-cup-2024-quarterfinals-recap/Yakou.jpg?1)](https://osu.ppy.sh/beatmapsets/2159335)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -114,7 +114,7 @@ We highly recommend that you take a minute of your time to check out the highlig
     </audio>
 </div>
 
-[![](/wiki/shared/news/2024-04-10-osutaiko-world-cup-2024-quarterfinals-recap/Viatores_Nebulae.jpg?2)](https://osu.ppy.sh/beatmapsets/2159337#taiko/4552827)
+[![](/wiki/shared/news/2024-04-10-osutaiko-world-cup-2024-quarterfinals-recap/Viatores_Nebulae.jpg?2)](https://osu.ppy.sh/beatmapsets/2159337)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -124,7 +124,7 @@ We highly recommend that you take a minute of your time to check out the highlig
 
 ### Semifinals
 
-[![](/wiki/shared/news/2024-04-17-osutaiko-world-cup-2024-semifinals-recap/Algorithm_54.jpg)](https://osu.ppy.sh/beatmapsets/2163075#taiko/4561785)
+[![](/wiki/shared/news/2024-04-17-osutaiko-world-cup-2024-semifinals-recap/Algorithm_54.jpg)](https://osu.ppy.sh/beatmapsets/2163075)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -132,7 +132,7 @@ We highly recommend that you take a minute of your time to check out the highlig
     </audio>
 </div>
 
-[![](/wiki/shared/news/2024-04-17-osutaiko-world-cup-2024-semifinals-recap/Switcheroo.jpg)](https://osu.ppy.sh/beatmapsets/2163116#taiko/4561848)
+[![](/wiki/shared/news/2024-04-17-osutaiko-world-cup-2024-semifinals-recap/Switcheroo.jpg)](https://osu.ppy.sh/beatmapsets/2163116)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -140,7 +140,7 @@ We highly recommend that you take a minute of your time to check out the highlig
     </audio>
 </div>
 
-[![](/wiki/shared/news/2024-04-17-osutaiko-world-cup-2024-semifinals-recap/Pomegranate.jpg)](https://osu.ppy.sh/beatmapsets/2163122#taiko/4561855)
+[![](/wiki/shared/news/2024-04-17-osutaiko-world-cup-2024-semifinals-recap/Pomegranate.jpg)](https://osu.ppy.sh/beatmapsets/2163122)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -150,7 +150,7 @@ We highly recommend that you take a minute of your time to check out the highlig
 
 ### Finals
 
-[![](/wiki/shared/news/2024-04-24-osutaiko-world-cup-2024-finals-recap/Nebula.jpg)](https://osu.ppy.sh/beatmapsets/2166486#taiko/4570766)
+[![](/wiki/shared/news/2024-04-24-osutaiko-world-cup-2024-finals-recap/Nebula.jpg)](https://osu.ppy.sh/beatmapsets/2166486)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -158,7 +158,7 @@ We highly recommend that you take a minute of your time to check out the highlig
     </audio>
 </div>
 
-[![](/wiki/shared/news/2024-04-24-osutaiko-world-cup-2024-finals-recap/Kaze_no_Denwa.jpg)](https://osu.ppy.sh/beatmapsets/2166504#taiko/4570795)
+[![](/wiki/shared/news/2024-04-24-osutaiko-world-cup-2024-finals-recap/Kaze_no_Denwa.jpg)](https://osu.ppy.sh/beatmapsets/2166504)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -168,7 +168,7 @@ We highly recommend that you take a minute of your time to check out the highlig
 
 ### Grand Finals
 
-[![](/wiki/shared/news/2024-05-01-osutaiko-world-cup-2024-concludes/Copyfox.jpg)](https://osu.ppy.sh/beatmapsets/2169957#taiko/4579407)
+[![](/wiki/shared/news/2024-05-01-osutaiko-world-cup-2024-concludes/Copyfox.jpg)](https://osu.ppy.sh/beatmapsets/2169957)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -176,7 +176,7 @@ We highly recommend that you take a minute of your time to check out the highlig
     </audio>
 </div>
 
-[![](/wiki/shared/news/2024-05-01-osutaiko-world-cup-2024-concludes/Fractured_Heaven.jpg)](https://osu.ppy.sh/beatmapsets/2169918#taiko/4579320)
+[![](/wiki/shared/news/2024-05-01-osutaiko-world-cup-2024-concludes/Fractured_Heaven.jpg)](https://osu.ppy.sh/beatmapsets/2169918)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -184,7 +184,7 @@ We highly recommend that you take a minute of your time to check out the highlig
     </audio>
 </div>
 
-[![](/wiki/shared/news/2024-05-01-osutaiko-world-cup-2024-concludes/Stained_satin.jpg)](https://osu.ppy.sh/beatmapsets/2170035#taiko/4579579)
+[![](/wiki/shared/news/2024-05-01-osutaiko-world-cup-2024-concludes/Stained_satin.jpg)](https://osu.ppy.sh/beatmapsets/2170035)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -192,7 +192,7 @@ We highly recommend that you take a minute of your time to check out the highlig
     </audio>
 </div>
 
-[![](/wiki/shared/news/2024-05-01-osutaiko-world-cup-2024-concludes/Exaltation.jpg)](https://osu.ppy.sh/beatmapsets/2169950#taiko/4579392)
+[![](/wiki/shared/news/2024-05-01-osutaiko-world-cup-2024-concludes/Exaltation.jpg)](https://osu.ppy.sh/beatmapsets/2169950)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -266,4 +266,4 @@ Thank you to all **106** contributors who put in their time and effort to make t
 
 Another special thanks to everyone who followed along, both by watching the streams and cheering on their favourite teams and players, as well as everyone who tuned into the weekly recaps!
 
-—0x84f
+—0x84f, Raphalge, Walavouchey
