@@ -52,9 +52,54 @@ The osu!catch World Cup 2024 is run by various community members.
 
 ## Links
 
-- **[Sign-up here](https://osu.ppy.sh/community/tournaments/44)**
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1911198)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Tournament listing](https://osu.ppy.sh/community/tournaments/44)
+
+## Participants
+
+|  | Country | Members |
+| :-: | :-: | :-- |
+| ::{ flag=AR }:: | **Argentina** | **[-Story-](https://osu.ppy.sh/users/8172283)** |
+| ::{ flag=AU }:: | **Australia** | **[KWYJIBO](https://osu.ppy.sh/users/7178386)** |
+| ::{ flag=AT }:: | **Austria** | **[Pepti](https://osu.ppy.sh/users/8408065)** |
+| ::{ flag=BE }:: | **Belgium** | **[ElSkeffe](https://osu.ppy.sh/users/6283136)** |
+| ::{ flag=BG }:: | **Bulgaria** | **[Dekyoura](https://osu.ppy.sh/users/11156215)** |
+| ::{ flag=CA }:: | **Canada** | **[Katsuragi](https://osu.ppy.sh/users/3616480)** |
+| ::{ flag=CL }:: | **Chile** | **[Lechu FAQ 35P](https://osu.ppy.sh/users/2872000)** |
+| ::{ flag=CN }:: | **China** | **[-Yui](https://osu.ppy.sh/users/6649605)** |
+| ::{ flag=DK }:: | **Denmark** | **[Kaare](https://osu.ppy.sh/users/4434640)** |
+| ::{ flag=EE }:: | **Estonia** | **[TuuGamer](https://osu.ppy.sh/users/17458994)** |
+| ::{ flag=FI }:: | **Finland** | **[YERTI](https://osu.ppy.sh/users/1490757)** |
+| ::{ flag=FR }:: | **France** | **[Kitsuka](https://osu.ppy.sh/users/10334943)** |
+| ::{ flag=DE }:: | **Germany** | **[Marvmallow](https://osu.ppy.sh/users/8403032)** |
+| ::{ flag=HK }:: | **Hong Kong** | **[my angel auto](https://osu.ppy.sh/users/29503627)** |
+| ::{ flag=IS }:: | **Iceland** | **[Ash Ketchum](https://osu.ppy.sh/users/7297777)** |
+| ::{ flag=ID }:: | **Indonesia** | **[Chroneko](https://osu.ppy.sh/users/5472877)** |
+| ::{ flag=JP }:: | **Japan** | **[Molqus](https://osu.ppy.sh/users/1927193)** |
+| ::{ flag=LV }:: | **Latvia** | **[AnApple7](https://osu.ppy.sh/users/12567935)** |
+| ::{ flag=MY }:: | **Malaysia** | **[kokomi on osu](https://osu.ppy.sh/users/12382410)** |
+| ::{ flag=MX }:: | **Mexico** | **[Firu](https://osu.ppy.sh/users/10516547)** |
+| ::{ flag=NL }:: | **Netherlands** | **[Dutchman](https://osu.ppy.sh/users/10552580)** |
+| ::{ flag=NZ }:: | **New Zealand** | **[Kasumizawa-Miyu](https://osu.ppy.sh/users/24345309)** |
+| ::{ flag=NO }:: | **Norway** | **[CyCeph](https://osu.ppy.sh/users/4586304)** |
+| ::{ flag=PE }:: | **Peru** | **[islux](https://osu.ppy.sh/users/5477873)** |
+| ::{ flag=PH }:: | **Philippines** | **[- Kielzu -](https://osu.ppy.sh/users/6221114)** |
+| ::{ flag=PL }:: | **Poland** | **[BoberOfDarkness](https://osu.ppy.sh/users/3427748)** |
+| ::{ flag=RU }:: | **Russian Federation** | **[KitsunIvy](https://osu.ppy.sh/users/7055384)** |
+| ::{ flag=SG }:: | **Singapore** | **[Ekseff](https://osu.ppy.sh/users/13966422)** |
+| ::{ flag=ES }:: | **Spain** | **[Eyminz](https://osu.ppy.sh/users/13845399)** |
+| ::{ flag=SE }:: | **Sweden** | **[Aceon](https://osu.ppy.sh/users/4452911)** |
+| ::{ flag=TW }:: | **Taiwan** | **[Beepu](https://osu.ppy.sh/users/4958376)** |
+| ::{ flag=TH }:: | **Thailand** | **[EzyS](https://osu.ppy.sh/users/16271283)** |
+| ::{ flag=TR }:: | **Turkey** | **[lorem ipsum](https://osu.ppy.sh/users/17130789)** |
+| ::{ flag=GB }:: | **United Kingdom** | **[Withered Lotus](https://osu.ppy.sh/users/3546931)** |
+| ::{ flag=US }:: | **United States** | **[Secre](https://osu.ppy.sh/users/2306637)** |
+| ::{ flag=VN }:: | **Vietnam** | **[Shu](https://osu.ppy.sh/users/4744615)** |
+
+Captains are listed in **bold**. Individual team compositions subject to change until **Friday, 10 May 23:59 UTC**. This list was last updated on **4 May 2024**.
+
+The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d212da04da41faffa8d0fc5366952e).
 
 ## Ruleset
 
