@@ -2,11 +2,11 @@
 
 *Lihat juga: [Menjadi seorang Beatmap Nominator § Ekspektasi modding](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)*
 
-Panduan ini akan menjelaskan berbagai contoh kesalahan yang sering dilakukan oleh para [modder](/wiki/Modding/Modder) pemula pada saat memberikan [mod](/wiki/Modding) bagi suatu [beatmap](/wiki/Beatmap).
+Panduan ini akan menjelaskan berbagai contoh kesalahan yang umum dilakukan oleh para [modder](/wiki/Modding/Modder) pemula pada saat memberikan [mod](/wiki/Modding) bagi suatu [beatmap](/wiki/Beatmap).
 
-Pada panduan ini, masing-masing poin yang dibahas akan diawali dengan berbagai contoh mod yang buruk, yang kemudian disertai dengan penjelasan mengapa contoh-contoh tersebut merupakan suatu kesalahan di bawahnya.
+Pada panduan ini, masing-masing poin yang dibahas akan diawali dengan berbagai contoh dari kesalahan yang bersangkutan, yang kemudian disertai dengan penjelasan mengapa hal tersebut merupakan suatu kesalahan di bawahnya.
 
-Walaupun contoh-contoh yang disertakan ditulis dengan konteks mapping yang spesifik untuk mode permainan [osu!](/wiki/Game_mode/osu!), contoh-contoh ini juga dapat diterapkan pada [mode permainan](/wiki/Game_mode) lainnya.
+Walaupun contoh-contoh yang diberikan ditulis dengan konteks mapping yang spesifik untuk mode permainan [osu!](/wiki/Game_mode/osu!), contoh-contoh ini juga dapat diterapkan pada [mode permainan](/wiki/Game_mode) lainnya.
 
 ---
 
