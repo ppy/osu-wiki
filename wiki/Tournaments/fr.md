@@ -48,7 +48,7 @@ Tournois officiels organisés par l'équipe d'osu!.
 | [osu!taiko World Cup 2021](TWC/2021) | 06/03/2021 | 11/04/2021 | ::{ flag=JP }:: Japon | ::{ flag=KR }:: Corée du Sud | ::{ flag=BR }:: Brésil |
 | [osu!taiko World Cup 2022](TWC/2022) | 12/03/2022 | 24/04/2022 | ::{ flag=JP }:: Japon | ::{ flag=KR }:: Corée du Sud | ::{ flag=ID }:: Indonésie |
 | [osu!taiko World Cup 2023](TWC/2023) | 18/03/2023 | 30/04/2023 | ::{ flag=JP }:: Japon | ::{ flag=TW }:: Taïwan | ::{ flag=DE }:: Allemagne |
-| [osu!taiko World Cup 2024](TWC/2024) | 16/03/2024 | 28/04/2024 | *À déterminé* | *À déterminé* | *À déterminé* |
+| [osu!taiko World Cup 2024](TWC/2024) | 16/03/2024 | 28/04/2024 | ::{ flag=JP }:: Japon | ::{ flag=GB }:: Royaume-Uni | ::{ flag=US }:: États-Unis |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch World Cup
 
@@ -215,7 +215,7 @@ Tournois et compétitions non-officiels gérés par la communauté.
 
 | Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne de bronze][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Hard Rock Showdown](HRS) | 23/02/2024 | 28/04/2024 | *À déterminer* | *À déterminer* | *À déterminer* |
+| [Hard Rock Showdown](HRS) | 23/02/2024 | 28/04/2024 | ::{ flag=PL }:: [maliszewski](https://osu.ppy.sh/users/12408961) | ::{ flag=HK }:: [mcy4](https://osu.ppy.sh/users/2165650) | ::{ flag=CA }:: [his kitten](https://osu.ppy.sh/users/3717598) |
 
 #### Hidden Only Tournament
 
