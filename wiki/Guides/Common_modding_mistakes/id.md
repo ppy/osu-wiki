@@ -2,11 +2,11 @@
 
 *Lihat juga: [Menjadi seorang Beatmap Nominator § Ekspektasi modding](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)*
 
-Panduan ini akan menerakan berbagai kesalahan umum yang sering dilakukan oleh para [modder](/wiki/Modding/Modder) pemula pada saat memberikan [mod](/wiki/Modding) bagi suatu [beatmap](/wiki/Beatmap).
+Panduan ini akan menjelaskan berbagai contoh kesalahan yang sering dilakukan oleh para [modder](/wiki/Modding/Modder) pemula pada saat memberikan [mod](/wiki/Modding) bagi suatu [beatmap](/wiki/Beatmap).
 
-Pada panduan ini, masing-masing poin yang dibahas akan diawali dengan berbagai contoh dari kesalahan yang bersangkutan, yang disertai dengan penjelasan mengapa hal tersebut merupakan suatu kesalahan di bawahnya.
+Pada panduan ini, masing-masing poin yang dibahas akan diawali dengan berbagai contoh mod yang buruk, yang kemudian disertai dengan penjelasan mengapa contoh-contoh tersebut merupakan suatu kesalahan di bawahnya.
 
-Walaupun contoh-contoh ini ditulis dengan konteks mapping yang spesifik untuk mode permainan [osu!](/wiki/Game_mode/osu!), contoh-contoh ini juga dapat diterapkan pada [mode permainan](/wiki/Game_mode) lainnya.
+Walaupun contoh-contoh yang disertakan ditulis dengan konteks mapping yang spesifik untuk mode permainan [osu!](/wiki/Game_mode/osu!), contoh-contoh ini juga dapat diterapkan pada [mode permainan](/wiki/Game_mode) lainnya.
 
 ---
 
@@ -98,7 +98,7 @@ Gaya mapping-mu sangat buruk; buatlah map seperti para mapper lainnya.
 00:00:000 - Mengapa di bagian ini banyak sekali slider yang berukuran raksasa? Petakanlah bagian ini dengan benar.
 ```
 
-**Tujuan dari modding adalah untuk membantu membenahi map yang di-mod**, bukan untuk memaksakan pendapatmu kepada mapper lain. Apabila mapper yang bersangkutan menolak untuk menerapkan suatu hal yang kamu yakini dapat meningkatkan map mereka, maka mereka sendirilah yang akan menanggung risikonya. Dalam situasi yang demikian, terima saja keputusan mereka dan jangan singgung hal ini lagi. Pelajari alasan penolakan mereka dan cobalah untuk memprediksi respon ini pada kasus yang serupa ke depannya.
+**Tujuan dari modding adalah untuk membantu membenahi map yang di-mod**, bukan untuk memaksakan pendapatmu kepada mapper lain. Apabila mapper yang bersangkutan menolak untuk menerapkan suatu hal yang kamu yakini dapat meningkatkan map mereka, maka mereka sendirilah yang akan menanggung risikonya. Dalam situasi yang demikian, terima saja keputusan mereka dan jangan singgung hal ini lagi. Pelajari alasan penolakan mereka dan cobalah untuk memprediksi respon ini apabila ke depannya kamu menemui situasi yang serupa.
 
 ```md
 00:00:000 - Ini adalah ritme yang buruk.
@@ -126,7 +126,7 @@ Mod saya lebih baik karena saya lebih berpengalaman darimu. Kamu harus menerapka
 Kamu tidak tahu apa itu kualitas. Terapkan saja mod saya karena saya tahu persis apa itu kualitas.
 ```
 
-**Berkualitas atau tidaknya suatu mod bergantung pada penilaian masing-masing mapper**. Kamu tidak akan dapat menyimpulkan banyak hal hanya dengan melihat suatu mod. Untuk dapat menilai apakah suatu mod baik atau tidak, kamu perlu untuk menempatkan dirimu dari sudut pandang mapper yang bersangkutan dan bertanya: Apakah mereka akan mengikuti saran saya? Apakah hal yang saya sarankan akan berguna? Akankah mereka mengerti alasan mengapa saya menyarankan hal ini?
+**Berkualitas atau tidaknya suatu mod bergantung pada penilaian masing-masing mapper**. Kamu tidak akan dapat menyimpulkan banyak hal hanya dengan melihat suatu mod. Untuk dapat menilai apakah suatu mod baik atau tidak, kamu perlu untuk menempatkan dirimu pada sudut pandang mapper yang bersangkutan dan bertanya: Apakah mereka akan mengikuti saran saya? Apakah hal yang saya sarankan akan berguna? Akankah mereka mengerti alasan mengapa saya menyarankan hal ini?
 
 ---
 
@@ -147,7 +147,7 @@ Kamu tidak tahu apa itu kualitas. Terapkan saja mod saya karena saya tahu persis
 00:02:000 - ritme macam apa ini?
 ```
 
-**Merumuskan poin modding dalam bentuk pertanyaan pada umumnya merupakan sesuatu yang tidak sopan**. Apabila kamu tidak memahami bagian tertentu pada map, beritahukan mapper yang bersangkutan mengapa bagian tersebut terasa membingungkan dan hal seperti apa yang kamu harapkan sebagai gantinya. Kamu tetap dapat bertanya apabila dirasa perlu, namun setidaknya sertakan informasi ini terlebih dahulu.
+**Merumuskan poin modding dalam bentuk pertanyaan pada umumnya merupakan sesuatu yang tidak sopan**. Apabila kamu tidak memahami bagian map tertentu, beritahukan mapper yang bersangkutan mengapa bagian tersebut terasa membingungkan dan hal seperti apa yang kamu harapkan sebagai gantinya. Kamu tetap dapat bertanya apabila dirasa perlu, namun setidaknya sertakan informasi ini terlebih dahulu.
 
 ---
 
