@@ -218,7 +218,7 @@ questions
 
 [![](/wiki/shared/news/2024-04-03-osutaiko-world-cup-2024-round-of-16-recap/R_J.png)](https://osu.ppy.sh/users/6490509)
 
-> I'm RJ, ive been playing taiko for about 5 years now and this was my 4th Taiko World Cup.
+> I'm RJ, I've been playing taiko for about 5 years now and this was my 4th Taiko World Cup.
 
 ---
 
@@ -228,33 +228,33 @@ Did you have any expectations going into the tournament?
 
 What do you think might have contributed most to the United States' first podium placement this year?
 
-> Cheddar 2 lbs. More serious answer is how dedicated our team members have been to improving as players in the last year and how motivated we were towards getting a podium placement. Every member on the team was dedicated towards our goal of reaching the podium which I think only served to fuel our motivation even more.
+> Cheddar 2 lbs. More serious answer is how dedicated our team members have been too improving as players in the last year and how motivated we were towards getting a podium placement. Every member on the team was dedicated towards our goal of reaching the podium which I think only served to fuel our motivation even more.
 > 
-> The addition of SilverTyrant to the roster this year and the return of Miniature Lamp really elevated our team as they both have reached a point where they can compete at a high level. They are cracked. Also shoutouts to Xok, they played in TWC 2020 after which they completely changed playstyles, grinded it out, and got good enough to participate again 4 years later. But also cheddar 2 lbs. If we didn't spam that before every match then who knows maybe we buster out in semis/finals again :)
+> The addition of [SilverTyrant](https://osu.ppy.sh/users/14356353) to the roster this year and the return of [Miniature Lamp](https://osu.ppy.sh/users/9821194) really elevated our team as they both have reached a point where they can compete at a high level. They are cracked. Also, shout-outs to [Xok](https://osu.ppy.sh/users/12177903), they played in TWC 2020 after which they completely changed playstyles, grinded it out, and got good enough to participate again 4 years later, but also cheddar 2 lbs. If we didn't spam that before every match then who knows, maybe we busted out in semis/finals again :)
 
 While you've played in the TWC before, how did becoming the team captain come about?
 
-> Nothing too interesting honestly. We have changed who has been captain nearly every year recently, and this year I asked if I could take a turn (I really wanted to be the captain for the US team at least once.) I have captained for teams in other tournaments before so it was a familiar position for me to be in.
+> Nothing too interesting, honestly. We have changed who has been captain nearly every year recently, and this year I asked if I could take a turn (I really wanted to be the captain for the US team at least once.) I have captained for teams in other tournaments before, so it was a familiar position for me to be in.
 
 How did you prepare for matches and TWC itself?
 
 > TWC is a tournament that is all about discipline. You have to be in a certain mental and physical state where you're both willing and able to practice daily for more than a month straight if you aim to get a high placement.
 > 
-> Avoiding burnout can be tough so you must have the determination to give it your all every week. I think achieving that state of mind is different for everybody so I won't go into specifics. As for the matches themselves? One hour of warmup and a dose of cheddar 2 lbs. Perfect recipe for success.
+> Avoiding burnout can be tough, so you must have the determination to give it your all every week. I think achieving that state of mind is different for everybody, so I won't go into specifics. As for the matches themselves? One hour of warm-up and a dose of cheddar 2 lbs. Perfect recipe for success.
 
 Are there any specific moments you remember the most vividly?
 
-> Winning the match vs Taiwan to secure a podium position is a memory that I think will remain for a long time. We all wanted it so badly so to finally get it felt both extremely rewarding and relieving. Definitely gonna be chasing that feeling every TWC after this one but I don't think anything will feel quite as good as it did this year.
+> Winning the match vs Taiwan to secure a podium position is a memory that I think will remain for a long time. We all wanted it so badly so to finally get it felt both extremely rewarding and relieving. Definitely gonna be chasing that feeling every TWC after this one, but I don't think anything will feel quite as good as it did this year.
 
 What was the first thing you did after the tournament?
 
-> I just soaked it in. This was my 4th consecutive year playing TWC and every year we had aspirations for a podium, only to fall short. Finally achieving it even just once makes all the past failures seem worth it. However the grand finals mappool showcase happened shortly after our match against Taiwan so it was quickly back to focusing on the match ahead of us. We were happy with a podium but definitely wanted more.
+> I just soaked it in. This was my 4th consecutive year playing TWC and every year we had aspirations for a podium, only to fall short. Finally achieving it even just once makes all the past failures seem worth it, however the grand finals mappool showcase happened shortly after our match against Taiwan, so it was quickly back to focusing on the match ahead of us. We were happy with a podium but definitely wanted more.
 > 
-> We failed this year to achieve a 2nd place finish but now its a new goal for us to work towards. The runback next year will be 🔥. Also it's hard to be too upset about losing the losers finals match to a team as deserving of the placement as the UK. Nothing but respect for them
+> We failed this year to achieve a 2nd place finish but now it's a new goal for us to work towards. The run back next year will be 🔥. It's hard to be too upset about losing the losers finals match to a team as deserving of the placement as the UK. Nothing but respect for them.
 
 ---
 
-> I just wanna mention, give Taiko a try! Or catch, or mania, or standard (rare). You might learn that it's the right mode for you. I used to be a standard player then tried playing Taiko one day for no real reason 5 years ago and haven't looked back. Our community is active and welcoming towards all players regardless of skill level.
+> I just wanna mention, give taiko a try! Or catch, or mania, or standard (rare). You might learn that it's the right mode for you. I used to be a standard player then tried playing taiko one day for no real reason 5 years ago and haven't looked back. Our community is active and welcoming towards all players regardless of skill level.
 > 
 > And finally, thank you to all the players and staff who participated in TWC this year and to every one who supported their favorite team!
 
