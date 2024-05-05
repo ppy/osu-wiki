@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Followpoint: mrekk, the osu!standard Prodigy"
+title: "The Followpoint: mrekk, the osu! Prodigy"
 date: 2024-05-06 08:00:00 +0000
 ---
 
