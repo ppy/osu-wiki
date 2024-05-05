@@ -98,12 +98,12 @@ Let's get into it!
 
 > As a lot of you know, there are many maps that I’d like to FC but have not yet or have already gotten close/choked them. A good example of this is a map called "Owari Tsumugishi Mono", which is a 375BPM hybrid map with extremely hard speed, and alt sections. This map would be 1600 for FC, and I have said many times on my stream that it’s probably my easiest 1500+ (as I could very easily get worse acc). But sadly I wasn’t able to close it out due to nerves and other issues. My best score on the map currently is a 2 miss worth 1389PP. Unfortunately, I can’t name all of the scores I want as it would be too much to count but I could name a few maps scores on which would be marked as legendary to me or just a dream scores in general. A few of them are listed below:
 >
-> https://osu.ppy.sh/beatmapsets/834127#osu/1754659
-> https://osu.ppy.sh/beatmapsets/866472#osu/1811527
-> https://osu.ppy.sh/beatmapsets/992349#osu/2075268
-> https://osu.ppy.sh/beatmapsets/326920#osu/725718
-> https://osu.ppy.sh/beatmapsets/153887#osu/378126
-> https://osu.ppy.sh/beatmapsets/2095177#osu/4393066
+> [Yakata Mawari [Rebirth]](https://osu.ppy.sh/beatmapsets/834127#osu/1754659)
+> [Save Me [Nightmare]](https://osu.ppy.sh/beatmapsets/866472#osu/1811527)
+> [Space Battle [Intense]](https://osu.ppy.sh/beatmapsets/992349#osu/2075268)
+> [BLUE DRAGON [Blue Dragon]](https://osu.ppy.sh/beatmapsets/326920#osu/725718)
+> [Odoru Mizushibuki [Death Dance]](https://osu.ppy.sh/beatmapsets/153887#osu/378126)
+> [VANITAS [The Silent Lament of Broken Wings]](https://osu.ppy.sh/beatmapsets/2095177#osu/4393066)
 
 *If you were to stop playing osu! one day, what do you think the reason would be? Or do you plan to continue playing for as long as possible?*
 
@@ -117,7 +117,7 @@ Let's get into it!
 
 *To finish things up, what does the future hold for you? Do you have any goals or anything else that you'd like to mention?*
 
-> In conclusion, I definitely still have motivation to play, and you (the reader) should be on the lookout for more and new cool scores! You could also check me out (shameless advertising I know) on https://twitch.tv/mrekkosu if you want to see the #1 osu! player in the flesh.
+> In conclusion, I definitely still have motivation to play, and you (the reader) should be on the lookout for more and new cool scores! You could also check me out (shameless advertising I know) on [Twitch](https://twitch.tv/mrekkosu) if you want to see the #1 osu! player in the flesh.
 >
 > And of course, thank you to [MegaMix_Craft](https://osu.ppy.sh/users/18152711) for organising and setting this news post up.
 
