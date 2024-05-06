@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Followpoint: mrekk, the osu! Prodigy"
-date: 2024-05-06 11:00:00 +0000
+date: 2024-05-06 15:00:00 +0000
 ---
 
 Read up on the latest interview with mrekk, the osu! #1 player and streamer.
