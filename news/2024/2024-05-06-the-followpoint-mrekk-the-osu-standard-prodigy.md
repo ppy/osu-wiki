@@ -38,7 +38,7 @@ Let's get into it!
 
 *What would you say is the greatest gift that osu! has given you?*
 
-> The osu! community has always been a blessing to me, as it has given me many unforgettable moments that I'll definitely never forget in my life. If you told my 11 year old self that I'd be the #1 osu! player, for 3 years dominating the player base with not even 1 person coming close, I'd definitely think you're crazy. 
+> The osu! community has always been a blessing to me, as it has given me many unforgettable moments that I'll definitely never forget in my life. If you told my 11 year old self that I'd be the #1 osu! player, for 3 years dominating the player base with not even 1 person coming close, I'd definitely think you're crazy.
 > 
 > If not for osu!, I wouldn't have the many friends I have today to cherish, the dopamine I get from winning tournaments with my fellow teammates and getting PP records left and right, the unbelievable feeling from meeting the people I've looked up to and much more.
 > 
@@ -46,7 +46,9 @@ Let's get into it!
 
 *What do you think of the osu! community in its current state?*
 
-> Just like every other community, the osu! community has its own ups and downs. Though many people (including me a lot of the time) like to look more into the dark side of the osu! community, it's important to look at the more bright side of the community, as the community most likely isn't as bad as you think. Even though many incidents happen in the osu! community, we still have a bond that is irreplaceable by any other community. For example our part in the r/place project and our win on the twitter battle royale poll against Beat Saber. So don't lose hope yet, our community is still good!
+> Just like every other community, the osu! community has its own ups and downs. Though many people (including me a lot of the time) like to look more into the dark side of the osu! community, it's important to look at the more bright side of the community, as the community most likely isn't as bad as you think.
+> 
+> Even though many incidents happen in the osu! community, we still have a bond that is irreplaceable by any other community. For example our part in the r/place project and our win on the twitter battle royale poll against Beat Saber. So don't lose hope yet, our community is still good!
 
 *How do you manage to keep yourself motivated after being at the top for so long? What drives you to keep improving?*
 
@@ -96,7 +98,9 @@ Let's get into it!
 
 *What are some "endgame" scores or milestones you would want to achieve in the future?*
 
-> As a lot of you know, there are many maps that I'd like to FC but have not yet or have already gotten close/choked them. A good example of this is a map called "[Owari Tsumugishi Mono](https://osu.ppy.sh/beatmapsets/763607#osu/1711326)", which is a 375BPM hybrid map with extremely hard speed, and alt sections. This map would be 1600 for FC, and I have said many times on my stream that it's probably my easiest 1500+ (as I could very easily get worse acc). But sadly I wasn't able to close it out due to nerves and other issues. My best score on the map currently is a 2 miss worth 1389PP. Unfortunately, I can't name all of the scores I want as it would be too much to count but I could name a few maps scores on which would be marked as legendary to me or just a dream scores in general. A few of them are listed below:
+> As a lot of you know, there are many maps that I'd like to FC but have not yet or have already gotten close/choked them. A good example of this is a map called "[Owari Tsumugishi Mono](https://osu.ppy.sh/beatmapsets/763607#osu/1711326)", which is a 375BPM hybrid map with extremely hard speed, and alt sections. This map would be 1600 for FC, and I have said many times on my stream that it's probably my easiest 1500+ (as I could very easily get worse acc).
+> 
+> But sadly I wasn't able to close it out due to nerves and other issues. My best score on the map currently is a 2 miss worth 1389PP. Unfortunately, I can't name all of the scores I want as it would be too much to count but I could name a few maps scores on which would be marked as legendary to me or just a dream scores in general. A few of them are listed below:
 > 
 > [Denkishiki Karen Ongaku Shuudan - Yakata Mawari [Rebirth]](https://osu.ppy.sh/beatmapsets/834127#osu/1754659)
 > [Avenged Sevenfold - Save Me [Nightmare]](https://osu.ppy.sh/beatmapsets/866472#osu/1811527)
