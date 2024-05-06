@@ -254,7 +254,7 @@ What are your thoughts on the song's accompanying visuals?
 > 
 > And then, the visuals fits what I hoped for my ideal, and more beautiful than I thought!
 > 
-> The most surprising part is the graphic designer filled in all the station names. There are a lot of fun elements like the current station is labelled as Cansol(me), and there's also Panthullu(the designer)'s bakery.
+> The most surprising part is the graphic designer filled in all the station names. There are a lot of fun elements like the current station is labeled as Cansol(me), and there's also Panthullu(the designer)'s bakery.
 > 
 > I was really appreciate that the designer implemented it perfectly, although I didn't request at high-level detailed about the visuals.
 
