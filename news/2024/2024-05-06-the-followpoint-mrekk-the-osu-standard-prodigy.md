@@ -40,7 +40,7 @@ Let's get into it!
 
 > The osu! community has always been a blessing to me, as it has given me many unforgettable moments that I’ll definitely never forget in my life. If you told my 11 year old self that I’d be the #1 osu! player, for 3 years dominating the player base with not even 1 person coming close, I’d definitely think you’re crazy. 
 >
-> If not for osu, I wouldn’t have the many friends I have today to cherish, the dopamine I get from winning tournaments with my fellow teammates and getting PP records left and right, the unbelievable feeling from meeting the people I’ve looked up to and much more.
+> If not for osu!, I wouldn’t have the many friends I have today to cherish, the dopamine I get from winning tournaments with my fellow teammates and getting PP records left and right, the unbelievable feeling from meeting the people I’ve looked up to and much more.
 >
 > I’m seriously thankful for all the memories that the community has helped me make, and the unforgettable moments that the community has created for me and for everyone. I’m currently looking forward for the events that will uphold in the future as my time in the osu! community certainly hasn’t ended yet so stay tuned!
 
