@@ -218,7 +218,7 @@ Here you can read what some of the people involved in this tournament had to sha
 
 [Cansol](https://osu.ppy.sh/beatmaps/artists/407), who composed [Train of Thought](https://osu.ppy.sh/beatmapsets/2155531#taiko/4543467) for the Round of 16 tiebreaker, had the following to say.
 
-[**You can find the Japanese version of this interview here.**](https://gist.github.com/Walavouchey/e080dda5040b74a16b412fd6b2e3f3e5)
+[**You can find the Korean version of this interview here.**](https://gist.github.com/Walavouchey/e080dda5040b74a16b412fd6b2e3f3e5)
 
 ---
 
