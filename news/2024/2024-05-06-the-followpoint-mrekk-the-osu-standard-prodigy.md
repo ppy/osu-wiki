@@ -72,7 +72,7 @@ Let's get into it!
 
 > I definitely felt like an odd one out when it came to improvement and I'm definitely aware of my fast paced talent for osu. When I first started rising to the leaderboards – I thought my improvement was normal until I got r/osureport'ed and said I mastered HDDT in a few days (which I literally did, I got my first 500 after 5 days of playing the mod). And people were certain I was cheating after saying that, which meant I had to do multiple liveplays and hand cam to prove my legitimacy.
 > 
-> Knowing I was a fast improver has definitely given me tons of motivation, as I want to push the limits of osu! Further to see what's possible.
+> Knowing I was a fast improver has definitely given me tons of motivation, as I want to push the limits of osu! further to see what's possible.
 
 *How did your face reveal affect you as a content creator and osu! player?*
 
