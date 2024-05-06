@@ -121,7 +121,7 @@ Let's get into it!
 
 *To finish things up, what does the future hold for you? Do you have any goals or anything else that you'd like to mention?*
 
-> In conclusion, I definitely still have motivation to play, and you (the reader) should be on the lookout for more and new cool scores! You could also check me out (shameless advertising I know) on [Twitch](https://twitch.tv/mrekkosu) if you want to see the #1 osu! player in the flesh.
+> In conclusion, I definitely still have motivation to play, and you (the reader) should be on the lookout for more and new cool scores! You could also check me out (shameless advertising I know) on [Twitch](https://twitch.tv/mrekk) if you want to see the #1 osu! player in the flesh.
 > 
 > And of course, thank you to [MegaMix_Craft](https://osu.ppy.sh/users/18152711) for organising and setting this news post up.
 
