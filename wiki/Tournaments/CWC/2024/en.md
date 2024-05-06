@@ -60,11 +60,11 @@ The osu!catch World Cup 2024 is run by various community members.
 
 |  | Country | Members |
 | :-: | :-: | :-- |
-| ::{ flag=AR }:: | **Argentina** | **[-Story-](https://osu.ppy.sh/users/8172283)** |
+| ::{ flag=AR }:: | **Argentina** | **[-Story-](https://osu.ppy.sh/users/8172283)**, [VelperK](https://osu.ppy.sh/users/348467), [SirGonzaxz](https://osu.ppy.sh/users/17309439), [\[225\]Zeus](https://osu.ppy.sh/users/8329151), [\[225\]nullCat](https://osu.ppy.sh/users/17738253), [Ambition-](https://osu.ppy.sh/users/6960376) |
 | ::{ flag=AU }:: | **Australia** | **[chickennando](https://osu.ppy.sh/users/5818665)**, [KWYJIBO](https://osu.ppy.sh/users/7178386), [CrimsonPleaseee](https://osu.ppy.sh/users/3743985), [Beerus](https://osu.ppy.sh/users/5529199), [TheTixTop](https://osu.ppy.sh/users/19236870), [Talicrons](https://osu.ppy.sh/users/6264535) |
 | ::{ flag=AT }:: | **Austria** | **[Pepti](https://osu.ppy.sh/users/8408065)**, [Jinhwan](https://osu.ppy.sh/users/1902480), [qzoomee](https://osu.ppy.sh/users/3575682), [Volki](https://osu.ppy.sh/users/7118702) |
 | ::{ flag=BE }:: | **Belgium** | **[ElSkeffe](https://osu.ppy.sh/users/6283136)**, [Jezse](https://osu.ppy.sh/users/11390632), [Emmenez moi](https://osu.ppy.sh/users/17578266), [\[ Zhiend \]](https://osu.ppy.sh/users/7474404), [my cutie](https://osu.ppy.sh/users/10742890), [Cakenoob](https://osu.ppy.sh/users/6045522) |
-| ::{ flag=BG }:: | **Bulgaria** | **[Dekyoura](https://osu.ppy.sh/users/11156215)** |
+| ::{ flag=BG }:: | **Bulgaria** | **[Dekyoura](https://osu.ppy.sh/users/11156215)**, [Azakriel](https://osu.ppy.sh/users/30653081), [ss033](https://osu.ppy.sh/users/14584167), [Deadlest33](https://osu.ppy.sh/users/10712916) |
 | ::{ flag=CA }:: | **Canada** | **[Katsuragi](https://osu.ppy.sh/users/3616480)** |
 | ::{ flag=CL }:: | **Chile** | **[Lechu FAQ 35P](https://osu.ppy.sh/users/2872000)** |
 | ::{ flag=CN }:: | **China** | **[Nene Sakura](https://osu.ppy.sh/users/6701104)** |
@@ -79,11 +79,11 @@ The osu!catch World Cup 2024 is run by various community members.
 | ::{ flag=JP }:: | **Japan** | **[Molqus](https://osu.ppy.sh/users/1927193)**, [-Rindou-](https://osu.ppy.sh/users/7941971), [eisuke0530](https://osu.ppy.sh/users/9814770), [hiroshiki](https://osu.ppy.sh/users/2667256), [Melu](https://osu.ppy.sh/users/2624179), [S B K](https://osu.ppy.sh/users/29783499) |
 | ::{ flag=LV }:: | **Latvia** | **[AnApple7](https://osu.ppy.sh/users/12567935)**, [Soruki](https://osu.ppy.sh/users/11762423), [Xeltusha](https://osu.ppy.sh/users/25574167), [Voxargenteae](https://osu.ppy.sh/users/10774235), [Joyy](https://osu.ppy.sh/users/14084526) |
 | ::{ flag=MY }:: | **Malaysia** | **[kokomi on osu](https://osu.ppy.sh/users/12382410)**, [Moeruattack](https://osu.ppy.sh/users/4480237), [HyPerNekoChan](https://osu.ppy.sh/users/9626549), [Kagari](https://osu.ppy.sh/users/3366264), [Evirir](https://osu.ppy.sh/users/8126553), [Summerleopard](https://osu.ppy.sh/users/8437630) |
-| ::{ flag=MX }:: | **Mexico** | **[Firu](https://osu.ppy.sh/users/10516547)** |
+| ::{ flag=MX }:: | **Mexico** | **[Firu](https://osu.ppy.sh/users/10516547)**, [Cxlucha](https://osu.ppy.sh/users/5063961), [ArLuxZerRay](https://osu.ppy.sh/users/23996812), [ExGunt](https://osu.ppy.sh/users/20136125), [Astrea](https://osu.ppy.sh/users/3845678), [Agamalpa](https://osu.ppy.sh/users/15420662) |
 | ::{ flag=NL }:: | **Netherlands** | **[Dutchman](https://osu.ppy.sh/users/10552580)**, [b-a-d-s123](https://osu.ppy.sh/users/3656717), [woodpamp](https://osu.ppy.sh/users/3809967), [Roasted Chicken](https://osu.ppy.sh/users/9461160), [Sartan](https://osu.ppy.sh/users/4100941), [Selo](https://osu.ppy.sh/users/3212806) |
 | ::{ flag=NZ }:: | **New Zealand** | **[Kasumizawa-Miyu](https://osu.ppy.sh/users/24345309)** |
 | ::{ flag=NO }:: | **Norway** | **[CyCeph](https://osu.ppy.sh/users/4586304)**, [Cameragod](https://osu.ppy.sh/users/4974088), [Azeidith](https://osu.ppy.sh/users/2819676), [Vikki](https://osu.ppy.sh/users/33305106), [Benita](https://osu.ppy.sh/users/4023183), [Lanki](https://osu.ppy.sh/users/2535200) |
-| ::{ flag=PE }:: | **Peru** | **[islux](https://osu.ppy.sh/users/5477873)** |
+| ::{ flag=PE }:: | **Peru** | **[islux](https://osu.ppy.sh/users/5477873)**, [Lunati1kid](https://osu.ppy.sh/users/25723773), [Boltico](https://osu.ppy.sh/users/5297904), [MauriciOSU](https://osu.ppy.sh/users/8199435), [Anthonyvfxfx](https://osu.ppy.sh/users/11548062), [GZone](https://osu.ppy.sh/users/10696269) |
 | ::{ flag=PH }:: | **Philippines** | **[- Kielzu -](https://osu.ppy.sh/users/6221114)** |
 | ::{ flag=PL }:: | **Poland** | **[BoberOfDarkness](https://osu.ppy.sh/users/3427748)** |
 | ::{ flag=RU }:: | **Russian Federation** | **[Kimitakari](https://osu.ppy.sh/users/4741164)** |
@@ -97,7 +97,7 @@ The osu!catch World Cup 2024 is run by various community members.
 | ::{ flag=US }:: | **United States** | **[Secre](https://osu.ppy.sh/users/2306637)** |
 | ::{ flag=VN }:: | **Vietnam** | **[Stardust Prism](https://osu.ppy.sh/users/8525921)**, [Shu](https://osu.ppy.sh/users/4744615), [NamSPro](https://osu.ppy.sh/users/11387006), [-Linglan Lily-](https://osu.ppy.sh/users/8738261), [\_Fubucky\_](https://osu.ppy.sh/users/4284567), [Beubaby](https://osu.ppy.sh/users/25679389) |
 
-Captains are listed in **bold**. Individual team compositions subject to change until **Friday, 10 May 23:59 UTC**. This list was last updated on **5 May 2024**.
+Captains are listed in **bold**. Individual team compositions subject to change until **Friday, 10 May 23:59 UTC**. This list was last updated on **6 May 2024**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d212da04da41faffa8d0fc5366952e).
 
