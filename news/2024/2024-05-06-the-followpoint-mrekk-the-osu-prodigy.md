@@ -6,7 +6,7 @@ date: 2024-05-06 15:00:00 +0000
 
 Read up on the latest interview with mrekk, the osu! #1 player and streamer.
 
-![](/wiki/shared/news/2024-05-06-the-followpoint-mrekk-the-osu-standard-prodigy/banner.jpg)
+![](/wiki/shared/news/2024-05-06-the-followpoint-mrekk-the-osu-prodigy/banner.jpg)
 
 Welcome or welcome back to The Followpoint, a "community spotlight" series where we interview various players and community figures to get to know them better!
 
