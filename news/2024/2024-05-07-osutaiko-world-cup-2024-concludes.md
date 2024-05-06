@@ -208,17 +208,81 @@ Here you can read what some of the people involved in this tournament had to sha
 
 [![](/wiki/shared/news/2024-04-03-osutaiko-world-cup-2024-round-of-16-recap/Cansol.png)](https://osu.ppy.sh/beatmaps/artists/407)
 
-introduction
+> Hello, everyone. I'm Cansol, a composer from South Korea!
+> 
+> I'm majoring in classical music, and my goal is to make more creative and entertaining songs that crossing over between electronic and acoustic which based on my major.
+> 
+> Among the known rhythm games which you can find me in such as Lanota, Dynamix and KALPA. Moreover I've been featured in AD:PIANO VIII by collaborating with another FA, Raimukun.
+> 
+> If I need to recommend a song that can represent my identify, I'd choose '1,2,3,4! Overclocked Edition'. (You can find this song in FA list!) Because this song is a rather long over 7 minutes, but it's a mixed of many genres and also it displays my maximum ability when I was composing it!
+
+[Cansol](https://osu.ppy.sh/beatmaps/artists/407), who composed who composed [Train of Thought](https://osu.ppy.sh/beatmapsets/2155531#taiko/4543467) for the Round of 16 tiebreaker, had the following to say.
+
+[**You can find the Japanese version of this interview here.**](https://gist.github.com/Walavouchey/e080dda5040b74a16b412fd6b2e3f3e5)
 
 ---
 
-questions
+What was the train of thought behind *Train of Thought*? What kind of concept did you initially have for it, and did it evolve in any way during the production process?
+
+> Since I've started composing not long after I had just discharged from the military service, I wanted to write a song that expressing wildly how I felt while serving in there! so I pondered about what kind of concept would fit the feelings, and I found out about the expression 'Train of Thought'.
+> 
+> For that reason, I applied the two meanings to 'Train of Thought' and contained them into the song.
+> 
+> First, I focused on the 'flow of consciousness.'
+> 
+> However, it's not just improvised; I pondered how can I write the song which fits and interesting and tried to make it up to be a song that based on simple ideas. In the process, I even drew an inspiration from 'lose one's train of thought'!
+> 
+> Second, I focused on the 'Train of Thought'.
+> 
+> It's shown itself in the latter part of the song, I either recreated melodies inspired by the sounds trains make or adopted vibraphone melodies heard in South Korean subways.
+> 
+> Although I couldn't know musical atmospheres of subway systems in all countries, I regarded vibraphone is the proper instrument since I assume it's usually used for conveying comfortable information in real life.
+
+Were there any specific considerations regarding the song's style due to constraints of osu!taiko gameplay?
+
+> When I was composing, I felt like I might have been putting in a bit too many notes, so I asked the staff members like "is this part sounds confusing a little bit?" in the midway.
+> 
+> But they said like that was okay and even awesome, so I expressed what I wanted to do with confidence.
+> 
+> I thought the drum sounds are important for impact since Taiko and drum are the same percussion instrument. and I wondered if all drum solos would be applied as notes in the beatmap. But when I looked around it, the sounds were expressed perfectly.
+> 
+> I think I had underrated osu! taiko players too much. (LOL)
+
+What are your thoughts on the song's accompanying visuals?
+
+> As I mentioned earlier regarding the song is motivated from train, so I requested to designer that I hope the visuals are made up like subway route maps.
+> 
+> And then, the visuals fits what I hoped for my ideal, and more beautiful than I thought!
+> 
+> The most surprising part is the graphic designer filled in all the station names. There are a lot of fun elements like the current station is labeled as Cansol(me), and there's also Panthullu(the designer)'s bakery.
+> 
+> I was really appreciate that the designer implemented it perfectly although I didn't request at high-level detailed about the visuals.
+
+Do you have artists that you often take inspiration from?
+
+> It's hard to answer because it's always different depending on what I write.
+> 
+> Hmm... when I was composing 'Train of Thought', I was falling in love in jazz playlists.
+> 
+> Because of that I'd say I had influenced during composing the song are NIWASHI, Sobrem, and although not in the rhythm game side Kapustin and 8-bit Big Band are!
+> 
+> I truly love who I mentioned above are because they have theirs own personality.
+
+What is your favourite rhythm game song?
+
+> As you know the song, I really love 'Synthesis' by tn-shi these days!!
+> 
+> Its lyrics makes ears be delight, and overwhelming melody excites my heart.
+> 
+> Especially in the final build-up, where chords changes unexpectedly, chorus is structured to the song as the ultimate finale is truly impressive!
 
 ::{#r_j}::
 
 [![](/wiki/shared/news/2024-04-03-osutaiko-world-cup-2024-round-of-16-recap/R_J.png)](https://osu.ppy.sh/users/6490509)
 
 > I'm RJ, I've been playing taiko for about 5 years now and this was my 4th Taiko World Cup.
+
+[R J](https://osu.ppy.sh/users/6490509), or the United States team captain for this year's world cup, together with their teammates, took the country to the podium for the first time ever at 3rd place.
 
 ---
 
