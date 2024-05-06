@@ -1,7 +1,7 @@
 ---
 layout: post
 title: osu!taiko World Cup 2024 Concludes
-date: 2024-05-01 12:00:00 +0000
+date: 2024-05-07 12:00:00 +0000
 ---
 
 And your osu!taiko World Cup champion is...
@@ -168,7 +168,7 @@ We highly recommend that you take a minute of your time to check out the highlig
 
 ### Grand Finals
 
-[![](/wiki/shared/news/2024-05-01-osutaiko-world-cup-2024-concludes/Copyfox.jpg)](https://osu.ppy.sh/beatmapsets/2169957)
+[![](/wiki/shared/news/2024-05-07-osutaiko-world-cup-2024-concludes/Copyfox.jpg)](https://osu.ppy.sh/beatmapsets/2169957)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -176,7 +176,7 @@ We highly recommend that you take a minute of your time to check out the highlig
     </audio>
 </div>
 
-[![](/wiki/shared/news/2024-05-01-osutaiko-world-cup-2024-concludes/Fractured_Heaven.jpg)](https://osu.ppy.sh/beatmapsets/2169918)
+[![](/wiki/shared/news/2024-05-07-osutaiko-world-cup-2024-concludes/Fractured_Heaven.jpg)](https://osu.ppy.sh/beatmapsets/2169918)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -184,7 +184,7 @@ We highly recommend that you take a minute of your time to check out the highlig
     </audio>
 </div>
 
-[![](/wiki/shared/news/2024-05-01-osutaiko-world-cup-2024-concludes/Stained_satin.jpg)](https://osu.ppy.sh/beatmapsets/2170035)
+[![](/wiki/shared/news/2024-05-07-osutaiko-world-cup-2024-concludes/Stained_satin.jpg)](https://osu.ppy.sh/beatmapsets/2170035)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -192,7 +192,7 @@ We highly recommend that you take a minute of your time to check out the highlig
     </audio>
 </div>
 
-[![](/wiki/shared/news/2024-05-01-osutaiko-world-cup-2024-concludes/Exaltation.jpg)](https://osu.ppy.sh/beatmapsets/2169950)
+[![](/wiki/shared/news/2024-05-07-osutaiko-world-cup-2024-concludes/Exaltation.jpg)](https://osu.ppy.sh/beatmapsets/2169950)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -262,7 +262,7 @@ What was the first thing you did after the tournament?
 
 Thank you to all **106** contributors who put in their time and effort to make this edition of the osu!taiko World Cup the best one yet, and thanks to all **219** players who represented **40** different countries and competed!
 
-![](/wiki/shared/news/2024-05-01-osutaiko-world-cup-2024-concludes/twc2024-credits.png)
+![](/wiki/shared/news/2024-05-07-osutaiko-world-cup-2024-concludes/twc2024-credits.png)
 
 Another special thanks to everyone who followed along, both by watching the streams and cheering on their favourite teams and players, as well as everyone who tuned into the weekly recaps!
 
