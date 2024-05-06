@@ -90,20 +90,20 @@ Let's get into it!
 
 *What are some scores you would like to see set the most (that have not been set already)?*
 
-> A score that I'd definitely love to see is an FC on a map called "Hurting for a Very Hurting Pain". This map has been one of my favourites since I just started and though it'd be cool for me to close it out, I'd be very happy to see an FC by anybody on this map.
+> A score that I'd definitely love to see is an FC on a map called "[Hurting for a Very Hurting Pain](https://osu.ppy.sh/beatmapsets/46848#osu/145669)". This map has been one of my favourites since I just started and though it'd be cool for me to close it out, I'd be very happy to see an FC by anybody on this map.
 > 
 > Honestly, there isn't really a specific map outside of that map that I'd like to see FC'd, but I'm definitely a big fan of upcoming top players who have very big potential to be my competition as there are many players today who have big potential, the good examples are: [cloutiful](https://osu.ppy.sh/users/9970083) (chud son), [aknzx](https://osu.ppy.sh/users/9938943), [Ivaxa](https://osu.ppy.sh/users/15406985), [Kamensh1k](https://osu.ppy.sh/users/16817965), [aimbotcone](https://osu.ppy.sh/users/12952320) and [Lexu2S](https://osu.ppy.sh/users/8251785) (killer2007). I may have left out a lot of people, but don't worry if you're not in this list because you can very easily prove me wrong!
 
 *What are some "endgame" scores or milestones you would want to achieve in the future?*
 
-> As a lot of you know, there are many maps that I'd like to FC but have not yet or have already gotten close/choked them. A good example of this is a map called "Owari Tsumugishi Mono", which is a 375BPM hybrid map with extremely hard speed, and alt sections. This map would be 1600 for FC, and I have said many times on my stream that it's probably my easiest 1500+ (as I could very easily get worse acc). But sadly I wasn't able to close it out due to nerves and other issues. My best score on the map currently is a 2 miss worth 1389PP. Unfortunately, I can't name all of the scores I want as it would be too much to count but I could name a few maps scores on which would be marked as legendary to me or just a dream scores in general. A few of them are listed below:
+> As a lot of you know, there are many maps that I'd like to FC but have not yet or have already gotten close/choked them. A good example of this is a map called "[Owari Tsumugishi Mono](https://osu.ppy.sh/beatmapsets/763607#osu/1711326)", which is a 375BPM hybrid map with extremely hard speed, and alt sections. This map would be 1600 for FC, and I have said many times on my stream that it's probably my easiest 1500+ (as I could very easily get worse acc). But sadly I wasn't able to close it out due to nerves and other issues. My best score on the map currently is a 2 miss worth 1389PP. Unfortunately, I can't name all of the scores I want as it would be too much to count but I could name a few maps scores on which would be marked as legendary to me or just a dream scores in general. A few of them are listed below:
 > 
-> [Yakata Mawari [Rebirth]](https://osu.ppy.sh/beatmapsets/834127#osu/1754659)
-> [Save Me [Nightmare]](https://osu.ppy.sh/beatmapsets/866472#osu/1811527)
-> [Space Battle [Intense]](https://osu.ppy.sh/beatmapsets/992349#osu/2075268)
-> [BLUE DRAGON [Blue Dragon]](https://osu.ppy.sh/beatmapsets/326920#osu/725718)
-> [Odoru Mizushibuki [Death Dance]](https://osu.ppy.sh/beatmapsets/153887#osu/378126)
-> [VANITAS [The Silent Lament of Broken Wings]](https://osu.ppy.sh/beatmapsets/2095177#osu/4393066)
+> [Denkishiki Karen Ongaku Shuudan - Yakata Mawari [Rebirth]](https://osu.ppy.sh/beatmapsets/834127#osu/1754659)
+> [Avenged Sevenfold - Save Me [Nightmare]](https://osu.ppy.sh/beatmapsets/866472#osu/1811527)
+> [F-777 - Space Battle [Intense]](https://osu.ppy.sh/beatmapsets/992349#osu/2075268)
+> [Seiryu - BLUE DRAGON [Blue Dragon]](https://osu.ppy.sh/beatmapsets/326920#osu/725718)
+> [Akiyama Uni - Odoru Mizushibuki [Death Dance]](https://osu.ppy.sh/beatmapsets/153887#osu/378126)
+> [Release Hallucination - VANITAS [The Silent Lament of Broken Wings]](https://osu.ppy.sh/beatmapsets/2095177#osu/4393066)
 
 *If you were to stop playing osu! one day, what do you think the reason would be? Or do you plan to continue playing for as long as possible?*
 
