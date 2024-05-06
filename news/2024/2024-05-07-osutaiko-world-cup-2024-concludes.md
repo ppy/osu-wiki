@@ -214,9 +214,9 @@ Here you can read what some of the people involved in this tournament had to sha
 > 
 > Among the known rhythm games which you can find me in such as Lanota, Dynamix and KALPA. Moreover I've been featured in AD:PIANO VIII by collaborating with another FA, Raimukun.
 > 
-> If I need to recommend a song that can represent my identify, I'd choose '1,2,3,4! Overclocked Edition'. (You can find this song in FA list!) Because this song is a rather long over 7 minutes, but it's a mixed of many genres and also it displays my maximum ability when I was composing it!
+> If I need to recommend a song that can represent my identify, I'd choose '1,2,3,4! Overclocked Edition'. (You can find this song in FA list!) Because this song is a rather long over 7 minutes, but it's a mixed of many genres, and also it displays my maximum ability when I was composing it!
 
-[Cansol](https://osu.ppy.sh/beatmaps/artists/407), who composed who composed [Train of Thought](https://osu.ppy.sh/beatmapsets/2155531#taiko/4543467) for the Round of 16 tiebreaker, had the following to say.
+[Cansol](https://osu.ppy.sh/beatmaps/artists/407), who composed [Train of Thought](https://osu.ppy.sh/beatmapsets/2155531#taiko/4543467) for the Round of 16 tiebreaker, had the following to say.
 
 [**You can find the Japanese version of this interview here.**](https://gist.github.com/Walavouchey/e080dda5040b74a16b412fd6b2e3f3e5)
 
@@ -244,7 +244,7 @@ Were there any specific considerations regarding the song's style due to constra
 > 
 > But they said like that was okay and even awesome, so I expressed what I wanted to do with confidence.
 > 
-> I thought the drum sounds are important for impact since Taiko and drum are the same percussion instrument. and I wondered if all drum solos would be applied as notes in the beatmap. But when I looked around it, the sounds were expressed perfectly.
+> I thought the drum sounds are important for impact since taiko and drum are the same percussion instrument, and I wondered if all drum solos would be applied as notes in the beatmap. But when I looked around it, the sounds were expressed perfectly.
 > 
 > I think I had underrated osu! taiko players too much. (LOL)
 
@@ -254,9 +254,9 @@ What are your thoughts on the song's accompanying visuals?
 > 
 > And then, the visuals fits what I hoped for my ideal, and more beautiful than I thought!
 > 
-> The most surprising part is the graphic designer filled in all the station names. There are a lot of fun elements like the current station is labeled as Cansol(me), and there's also Panthullu(the designer)'s bakery.
+> The most surprising part is the graphic designer filled in all the station names. There are a lot of fun elements like the current station is labelled as Cansol(me), and there's also Panthullu(the designer)'s bakery.
 > 
-> I was really appreciate that the designer implemented it perfectly although I didn't request at high-level detailed about the visuals.
+> I was really appreciate that the designer implemented it perfectly, although I didn't request at high-level detailed about the visuals.
 
 Do you have artists that you often take inspiration from?
 
