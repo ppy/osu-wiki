@@ -210,11 +210,11 @@ Here you can read what some of the people involved in this tournament had to sha
 
 > Hello, everyone. I'm Cansol, a composer from South Korea!
 > 
-> I'm majoring in classical music, and my goal is to make more creative and entertaining songs that crossing over between electronic and acoustic which based on my major.
+> I'm majoring in classical music, and my goal is to make more creative and entertaining songs crossing between electronic and acoustic, which is based on my major.
 > 
-> Among the known rhythm games which you can find me in such as Lanota, Dynamix and KALPA. Moreover I've been featured in AD:PIANO VIII by collaborating with another FA, Raimukun.
+> You can find me in some known rhythm games such as Lanota, Dynamix and KALPA. Moreover I've been featured in AD:PIANO VIII by collaborating with another FA, Raimukun.
 > 
-> If I need to recommend a song that can represent my identify, I'd choose '1,2,3,4! Overclocked Edition'. (You can find this song in FA list!) Because this song is a rather long over 7 minutes, but it's a mixed of many genres, and also it displays my maximum ability when I was composing it!
+> If I'd have to recommend a song to represent my identity, I'd choose '1,2,3,4! Overclocked Edition'. (You can find this song in the FA list!) This song is a rather long at over 7 minutes, but it's a mix of many genres, and also it displays my maximum ability when I was composing it!
 
 [Cansol](https://osu.ppy.sh/beatmaps/artists/407), who composed [Train of Thought](https://osu.ppy.sh/beatmapsets/2155531#taiko/4543467) for the Round of 16 tiebreaker, had the following to say.
 
@@ -224,39 +224,39 @@ Here you can read what some of the people involved in this tournament had to sha
 
 What was the train of thought behind *Train of Thought*? What kind of concept did you initially have for it, and did it evolve in any way during the production process?
 
-> Since I've started composing not long after I had just discharged from the military service, I wanted to write a song that expressing wildly how I felt while serving in there! so I pondered about what kind of concept would fit the feelings, and I found out about the expression 'Train of Thought'.
+> Since I started composing not long after I had just been discharged from military service, I wanted to write a song that expressed wildly how I felt while serving in there! I thus pondered about what kind of concept would fit the feelings, and I found out about the expression 'Train of Thought'.
 > 
 > For that reason, I applied the two meanings to 'Train of Thought' and contained them into the song.
 > 
-> First, I focused on the 'flow of consciousness.'
+> First, I focused on the 'flow of consciousness' part.
 > 
-> However, it's not just improvised; I pondered how can I write the song which fits and interesting and tried to make it up to be a song that based on simple ideas. In the process, I even drew an inspiration from 'lose one's train of thought'!
+> However, it's not just improvised; I pondered how could I write the song which would fit and be interesting, and tried to base it on simple ideas. In the process, I even drew inspiration from the saying 'lose one's train of thought'!
 > 
-> Second, I focused on the 'Train of Thought'.
+> Second, I focused on the 'Train of Thought' in its literal sense.
 > 
-> It's shown itself in the latter part of the song, I either recreated melodies inspired by the sounds trains make or adopted vibraphone melodies heard in South Korean subways.
+> This shows in latter part of the song, where I either created melodies inspired by the sounds trains make or adopted vibraphone melodies heard in South Korean subways.
 > 
-> Although I couldn't know musical atmospheres of subway systems in all countries, I regarded vibraphone is the proper instrument since I assume it's usually used for conveying comfortable information in real life.
+> Although I couldn't know the musical atmospheres of subway systems in all countries, I regarded the vibraphone is the proper instrument since I assume it's usually used for conveying comfortable information in real life.
 
 Were there any specific considerations regarding the song's style due to constraints of osu!taiko gameplay?
 
-> When I was composing, I felt like I might have been putting in a bit too many notes, so I asked the staff members like "is this part sounds confusing a little bit?" in the midway.
+> When I was composing, I felt like I might have been putting in a bit too many notes, so I asked the staff members "does this part sound a little too confusing?" midway through the process.
 > 
-> But they said like that was okay and even awesome, so I expressed what I wanted to do with confidence.
+> But they said that it was okay, awesome even, so I expressed what I wanted to do with confidence.
 > 
-> I thought the drum sounds are important for impact since taiko and drum are the same percussion instrument, and I wondered if all drum solos would be applied as notes in the beatmap. But when I looked around it, the sounds were expressed perfectly.
+> I thought the drum sounds were important for impact since the taiko and the drum are the same percussion instrument, and I wondered if all drum solos would be applied as notes in the beatmap. When I looked through it, the sounds were expressed perfectly.
 > 
-> I think I had underrated osu! taiko players too much. (LOL)
+> I think I had underestimated osu! taiko players too much. (LOL)
 
 What are your thoughts on the song's accompanying visuals?
 
-> As I mentioned earlier regarding the song is motivated from train, so I requested to designer that I hope the visuals are made up like subway route maps.
+> As I mentioned earlier, the song takes inspiration from trains, so I requested the designer to hopefully make the visuals resemble subway route maps.
 > 
-> And then, the visuals fits what I hoped for my ideal, and more beautiful than I thought!
+> And then, the visuals not only fit what I'd hoped for ideally, but they were even more beautiful than I thought!
 > 
-> The most surprising part is the graphic designer filled in all the station names. There are a lot of fun elements like the current station is labeled as Cansol(me), and there's also Panthullu(the designer)'s bakery.
+> The most surprising part is that the graphic designer filled in all the station names. There are a lot of fun elements like the current station labeled as Cansol (me), and there's also Panthullu's bakery (the designer).
 > 
-> I was really appreciate that the designer implemented it perfectly, although I didn't request at high-level detailed about the visuals.
+> I really appreciated that the designer implemented it perfectly, although I didn't request for this level of detail in the visuals.
 
 Do you have artists that you often take inspiration from?
 
@@ -264,17 +264,17 @@ Do you have artists that you often take inspiration from?
 > 
 > Hmm... when I was composing 'Train of Thought', I was falling in love in jazz playlists.
 > 
-> Because of that I'd say I had influenced during composing the song are NIWASHI, Sobrem, and although not in the rhythm game side Kapustin and 8-bit Big Band are!
+> Because of that I'd say some influences when composing the song were NIWASHI, Sobrem and, although not in the rhythm game side, Kapustin and 8-bit Big Band!
 > 
-> I truly love who I mentioned above are because they have theirs own personality.
+> I truly love them because they have their own personality.
 
 What is your favourite rhythm game song?
 
-> As you know the song, I really love 'Synthesis' by tn-shi these days!!
+> You may know this one, but I really love 'Synthesis' by tn-shi these days!!
 > 
-> Its lyrics makes ears be delight, and overwhelming melody excites my heart.
+> Its lyrics are delightful to the ears, and its overwhelming melody excites my heart.
 > 
-> Especially in the final build-up, where chords changes unexpectedly, chorus is structured to the song as the ultimate finale is truly impressive!
+> Especially in the final build-up, where the key changes unexpectedly, the chorus is structured as the song's ultimate finale and it's truly impressive!
 
 ::{#r_j}::
 
