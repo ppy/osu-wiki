@@ -206,7 +206,7 @@ Here you can read what some of the people involved in this tournament had to sha
 
 ::{#cansol}::
 
-[![](/wiki/shared/news/2024-04-03-osutaiko-world-cup-2024-round-of-16-recap/Cansol.png)](https://osu.ppy.sh/beatmaps/artists/407)
+[![](/wiki/shared/news/2024-05-07-osutaiko-world-cup-2024-concludes/Cansol.png)](https://osu.ppy.sh/beatmaps/artists/407)
 
 > Hello, everyone. I'm Cansol, a composer from South Korea!
 > 
@@ -278,7 +278,7 @@ What is your favourite rhythm game song?
 
 ::{#r_j}::
 
-[![](/wiki/shared/news/2024-04-03-osutaiko-world-cup-2024-round-of-16-recap/R_J.png)](https://osu.ppy.sh/users/6490509)
+[![](/wiki/shared/news/2024-05-07-osutaiko-world-cup-2024-concludes/R_J.png)](https://osu.ppy.sh/users/6490509)
 
 > I'm RJ, I've been playing taiko for about 5 years now and this was my 4th Taiko World Cup.
 
