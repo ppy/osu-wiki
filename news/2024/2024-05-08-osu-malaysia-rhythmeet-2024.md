@@ -4,13 +4,15 @@ title: osu! Malaysia @ Rhythmeet 2024
 date: 2024-05-08 12:00:00 +0000
 ---
 
-In partnership with [Rhythmeet](https://www.facebook.com/rhythmeetus) and the [M.A.G Club of A.P.U](https://www.facebook.com/UCTiMaG), the osu! Malaysia community is proud to co-host the first Malaysian rhythm game convention, Rhythmeet 2024!
+Hot off the trails of the [first Malaysian LAN event](https://osu.ppy.sh/home/news/2023-08-22-osu-malaysia-animangaki) in AniManGaki 2023, the osu! Malaysia community is proud to co-host the first Malaysian rhythm game convention, Rhythmeet 2024!
 
 ![](/wiki/shared/news/2024-05-08-osu-malaysia-rhythmeet-2024/banner.jpg)
 
-The event will be happening at the [Asia Pacific University of Technology & Innovation (APU)](https://www.apu.edu.my/) in Malaysia from **27 to 28 July 2024**, providing an opportunity for osu! players all around the country to meet up and mingle!
+In partnership with [Rhythmeet](https://www.facebook.com/rhythmeetus) and the [M.A.G Club of A.P.U](https://www.facebook.com/UCTiMaG), the event will be happening at the [Asia Pacific University of Technology & Innovation (APU)](https://www.apu.edu.my/) in Malaysia from **27 to 28 July 2024**, providing an opportunity for osu! players all around the country to meet up and mingle!
 
 ![](/wiki/shared/news/2024-05-08-osu-malaysia-rhythmeet-2024/booth-image.jpg)
+
+On top of all the circle clicking action, visitors can experience many of the other rhythm game–related activities and tournaments around games such as *Arcaea*, *Phigros*, *maimai*, and *CHUNITHM*! The event also includes a creative alley to explore and support our local artists works within the rhythm game circle.
 
 Oh, we almost forgot to mention the most important part. Entrance to the event is completely **free**!
 
@@ -29,6 +31,8 @@ Psst! Rumour has it that the council cast from [Project Prism](https://osu.ppy.s
 Besides the osu! booth, the event will also feature the Grand Finals matches of the osu! Malaysian LAN Tournament for **all four game modes**, with each of the top 3 competing live on stage across both days of the event.
 
 Interested in gunning for glory on the big stage? Registrations for the Qualifer stage is actually **[open right now](https://osu.ppy.sh/community/forums/topics/1916262?n=1)** until 17 May for all players residing in Malaysia, so be sure not to miss this opportunity!
+
+---
 
 For all the latest news on the event happenings throughout the event, do visit the [osu! Malaysia LAN Discord server](https://discord.com/invite/ZKKWb8jK2B) or follow [@osumalaysia on Twitter](https://twitter.com/osumalaysia).
 
