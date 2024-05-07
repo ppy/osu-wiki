@@ -12,7 +12,7 @@ In partnership with [Rhythmeet](https://www.facebook.com/rhythmeetus) and the [M
 
 ![](/wiki/shared/news/2024-05-08-osu-malaysia-rhythmeet-2024/booth-image.jpg)
 
-On top of all the circle clicking action, visitors can experience many of the other rhythm game–related activities and tournaments around games such as *Arcaea*, *Phigros*, *maimai*, and *CHUNITHM*! The event also includes a creative alley to explore and support our local artists works within the rhythm game circle.
+On top of all the circle clicking action, visitors can experience many of the other rhythm game–related activities and tournaments around games such as *Arcaea*, *Phigros*, *maimai*, and *CHUNITHM*! The event also includes a creative alley to explore and support our local artists' works within the rhythm game circle.
 
 Oh, we almost forgot to mention the most important part. Entrance to the event is completely **free**!
 
