@@ -34,7 +34,7 @@ Interested in gunning for glory on the big stage? Registrations for the Qualifer
 
 ---
 
-For all the latest news on the event happenings throughout the event, do visit the [osu! Malaysia LAN Discord server](https://discord.com/invite/ZKKWb8jK2B) or follow [@osumalaysia on Twitter](https://twitter.com/osumalaysia).
+For all the latest news on the happenings throughout the event, do visit the [osu! Malaysia LAN Discord server](https://discord.com/invite/ZKKWb8jK2B) or follow [@osumalaysia on Twitter](https://twitter.com/osumalaysia).
 
 See you there!
 
