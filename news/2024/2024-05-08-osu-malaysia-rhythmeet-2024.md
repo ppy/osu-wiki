@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu! Malaysia @ Rhythmeet 2024"
+title: osu! Malaysia @ Rhythmeet 2024
 date: 2024-05-08 12:00:00 +0000
 ---
 
