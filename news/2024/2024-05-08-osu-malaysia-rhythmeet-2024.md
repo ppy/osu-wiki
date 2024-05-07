@@ -30,7 +30,7 @@ Psst! Rumour has it that the council cast from [Project Prism](https://osu.ppy.s
 
 Besides the osu! booth, the event will also feature the Grand Finals matches of the osu! Malaysian LAN Tournament for **all four game modes**, with each of the top 3 competing live on stage across both days of the event.
 
-Interested in gunning for glory on the big stage? Registrations for the Qualifer stage is actually **[open right now](https://osu.ppy.sh/community/forums/topics/1916262?n=1)** until 17 May for all players residing in Malaysia, so be sure not to miss this opportunity!
+Interested in gunning for glory on the big stage? Registrations for the Qualifer stage are actually **[open right now](https://osu.ppy.sh/community/forums/topics/1916262?n=1)** until 17 May for all players residing in Malaysia, so be sure not to miss this opportunity!
 
 ---
 
