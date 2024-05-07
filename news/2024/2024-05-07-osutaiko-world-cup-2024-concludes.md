@@ -212,9 +212,9 @@ Here you can read what some of the people involved in this tournament had to sha
 > 
 > I'm majoring in classical music, and my goal is to make more creative and entertaining songs crossing between electronic and acoustic, which is based on my major.
 > 
-> You can find me in some known rhythm games such as Lanota, Dynamix and KALPA. Moreover I've been featured in AD:PIANO VIII by collaborating with another FA, Raimukun.
+> You can find me in some known rhythm games such as Lanota, Dynamix and KALPA, and I've also been featured in AD:PIANO VIII in collaboration with another FA, Raimukun.
 > 
-> If I'd have to recommend a song to represent my identity, I'd choose '1,2,3,4! Overclocked Edition'. (You can find this song in the FA list!) This song is a rather long at over 7 minutes, but it's a mix of many genres, and also it displays my maximum ability when I was composing it!
+> If I were to recommend a song that represents me, I'd choose '1,2,3,4! Overclocked Edition'. (You can find this song in the FA list!) This song is rather long at over 7 minutes, but it's a mix of many genres, and it also displays my maximum ability when I was composing it!
 
 [Cansol](https://osu.ppy.sh/beatmaps/artists/407), who composed [Train of Thought](https://osu.ppy.sh/beatmapsets/2155531#taiko/4543467) for the Round of 16 tiebreaker, had the following to say.
 
@@ -224,57 +224,57 @@ Here you can read what some of the people involved in this tournament had to sha
 
 What was the train of thought behind *Train of Thought*? What kind of concept did you initially have for it, and did it evolve in any way during the production process?
 
-> Since I started composing not long after I had just been discharged from military service, I wanted to write a song that expressed wildly how I felt while serving in there! I thus pondered about what kind of concept would fit the feelings, and I found out about the expression 'Train of Thought'.
+> Since I started composing it not long after being discharged from military service, I wanted to write a song that could candidly express the feelings I had while serving in there! I spent a while thinking about what kind of concept would fit the feelings, and then I discovered the expression 'Train of Thought'.
 > 
-> For that reason, I applied the two meanings to 'Train of Thought' and contained them into the song.
+> I thought about the two meanings of 'Train of Thought' and applied them to the song.
 > 
 > First, I focused on the 'flow of consciousness' part.
 > 
-> However, it's not just improvised; I pondered how could I write the song which would fit and be interesting, and tried to base it on simple ideas. In the process, I even drew inspiration from the saying 'lose one's train of thought'!
+> However, that's not to say I just composed whatever happened to come to mind; rather, I pondered how I could take this simple idea and apply it in a way that's interesting, fits well, and can express the concept. In the process, I even drew inspiration from the saying 'lose one's train of thought'!
 > 
 > Second, I focused on the 'Train of Thought' in its literal sense.
 > 
-> This shows in latter part of the song, where I either created melodies inspired by the sounds trains make or adopted vibraphone melodies heard in South Korean subways.
+> This shows in latter part of the song, where I either created melodies inspired by the sounds trains make or adapted vibraphone melodies heard in South Korean subways.
 > 
-> Although I couldn't know the musical atmospheres of subway systems in all countries, I regarded the vibraphone is the proper instrument since I assume it's usually used for conveying comfortable information in real life.
+> Although I couldn't know the musical atmospheres of subway systems in all countries, I felt that the vibraphone was the proper instrument since I figured it's often used for conveying a feeling of comfort in songs found in everyday life.
 
 Were there any specific considerations regarding the song's style due to constraints of osu!taiko gameplay?
 
-> When I was composing, I felt like I might have been putting in a bit too many notes, so I asked the staff members "does this part sound a little too confusing?" midway through the process.
+> When I was composing, I felt like I might have been putting in a bit too many notes, so I asked the staff members "doesn't this part sound a little too confusing?" midway through the process.
 > 
-> But they said that it was okay, awesome even, so I expressed what I wanted to do with confidence.
+> But they said that it was okay, awesome even, which gave me the confidence to express what I wanted to.
 > 
-> I thought the drum sounds were important for impact since the taiko and the drum are the same percussion instrument, and I wondered if all drum solos would be applied as notes in the beatmap. When I looked through it, the sounds were expressed perfectly.
+> One thing is that I thought the drum sounds were important for impact since the taiko and the drum are the same percussion instrument. I thought, there's no way they put notes on every single drum sound in the drum solos, right? But when I looked at the final beatmap, not a single drum sound was skipped.
 > 
-> I think I had underestimated osu! taiko players too much. (LOL)
+> I think I underestimated the players too much (haha).
 
 What are your thoughts on the song's accompanying visuals?
 
-> As I mentioned earlier, the song takes inspiration from trains, so I requested the designer to hopefully make the visuals resemble subway route maps.
+> As I mentioned earlier, the song takes inspiration from trains, so I told the designer that I wanted the visuals to resemble subway route maps.
 > 
-> And then, the visuals not only fit what I'd hoped for ideally, but they were even more beautiful than I thought!
+> And when I saw the drafts, the visuals not only fit what I'd hoped for ideally, but they were even more beautiful than I thought, so I was really pleased!
 > 
 > The most surprising part is that the graphic designer filled in all the station names. There are a lot of fun elements like the current station labeled as Cansol (me), and there's also Panthullu's bakery (the designer).
 > 
-> I really appreciated that the designer implemented it perfectly, although I didn't request for this level of detail in the visuals.
+> Despite me not requesting this level of detail, the designer still gave so much attention to detail, which I was extremely grateful for.
 
 Do you have artists that you often take inspiration from?
 
 > It's hard to answer because it's always different depending on what I write.
 > 
-> Hmm... when I was composing 'Train of Thought', I was falling in love in jazz playlists.
+> At the time when I was composing 'Train of Thought', I was falling in love with jazz playlists.
 > 
-> Because of that I'd say some influences when composing the song were NIWASHI, Sobrem and, although not in the rhythm game side, Kapustin and 8-bit Big Band!
+> If I were to focus my answer on artists that influenced me at the time, I'd say that the rhythm game artists that influenced me were NIWASHI and Sobrem, and some other artists that influenced me were Kapustin and The 8-Bit Big Band!
 > 
-> I truly love them because they have their own personality.
+> I think these artists all have their own unique and distinct style, so I really like them.
 
 What is your favourite rhythm game song?
 
-> You may know this one, but I really love 'Synthesis' by tn-shi these days!!
+> You may already know this one, but these days, I really love 'Synthesis' by tn-shi!!
 > 
-> Its lyrics are delightful to the ears, and its overwhelming melody excites my heart.
+> It's filled with sections that are delightful to the ears, and its restless melody is so exciting to listen to.
 > 
-> Especially in the final build-up, where the key changes unexpectedly, the chorus is structured as the song's ultimate finale and it's truly impressive!
+> Especially in the final buildup, I think the part where the key changes unexpectedly and the last chorus really feels like the ultimate finale is super cool!
 
 ::{#r_j}::
 
