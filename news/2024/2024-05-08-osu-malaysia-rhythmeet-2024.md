@@ -4,7 +4,7 @@ title: osu! Malaysia @ Rhythmeet 2024
 date: 2024-05-08 12:00:00 +0000
 ---
 
-Hot off the trails of the [first Malaysian LAN event](https://osu.ppy.sh/home/news/2023-08-22-osu-malaysia-animangaki) in AniManGaki 2023, the osu! Malaysia community is proud to co-host the first Malaysian rhythm game convention, Rhythmeet 2024!
+Hot off the trails of the [first Malaysian LAN event in AniManGaki 2023](https://osu.ppy.sh/home/news/2023-08-22-osu-malaysia-animangaki), the osu! Malaysia community is proud to co-host the first Malaysian rhythm game convention, **Rhythmeet 2024**!
 
 ![](/wiki/shared/news/2024-05-08-osu-malaysia-rhythmeet-2024/banner.jpg)
 
