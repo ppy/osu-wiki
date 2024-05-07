@@ -28,9 +28,9 @@ While there isn't much to say about Japan for the 10th year in a row, an interes
 
 After the Finals week results I'd bet you a pretty penny both sides of the pond were quivering in their collective... let me just check Google... 400 million boots at the thought of this match. The United Kingdom has had a taste of the podium back in 2020, but they're finally back with the team that got them there *and more*. Last time they got 3rd, would they go the extra mile now?
 
-The United States on the other hand are in a *state* (haha) of euphoria after achieving their first-ever top 3 finish despite participating in every TWC to date. They've already made history, so... why not make some more, right?
+The United States on the other hand are in a *state* (haha) of euphoria after achieving their first ever top 3 finish despite participating in every TWC to date. They've already made history, so... why not make some more, right?
 
-The United States decided to go all-in and opened with [BilliumMoto - 100 Carat Smoke Point](https://osu.ppy.sh/beatmapsets/2170025) but that sadly backfired, with the United Kingdom grabbing a breakpoint as well as an extra on [Memme - Acid Burst](https://osu.ppy.sh/beatmapsets/1048233). A rough start, but being in the Grand Finals is no fluke, as the United States quickly stepped back into the ring with a win on [ikaruga_nex - ultimer](https://osu.ppy.sh/beatmapsets/1761945). Things steadily progressed until we eventually found ourselves in a "back-to-back-to-back" osu!original streak (yay!)! The United States grabbed [katagiri - c0pyf0x](https://osu.ppy.sh/beatmapsets/2169957), but the United Kingdom claimed both [DJ Raisei - Fractured Heaven](https://osu.ppy.sh/beatmapsets/2169918) and [BilliumMoto - Stained Satin](https://osu.ppy.sh/beatmapsets/2170035).
+The United States decided to go all in and opened with [BilliumMoto - 100 Carat Smoke Point](https://osu.ppy.sh/beatmapsets/2170025) but that sadly backfired, with the United Kingdom grabbing a breakpoint as well as an extra on [Memme - Acid Burst](https://osu.ppy.sh/beatmapsets/1048233). A rough start, but being in the Grand Finals is no fluke, as the United States quickly stepped back into the ring with a win on [ikaruga_nex - ultimer](https://osu.ppy.sh/beatmapsets/1761945). Things steadily progressed until we eventually found ourselves in a "back-to-back-to-back" osu! original streak (yay!)! The United States grabbed [katagiri - c0pyf0x](https://osu.ppy.sh/beatmapsets/2169957), but the United Kingdom claimed both [DJ Raisei - Fractured Heaven](https://osu.ppy.sh/beatmapsets/2169918) and [BilliumMoto - Stained Satin](https://osu.ppy.sh/beatmapsets/2170035).
 
 The score was now 5–2, which is admittedly not great. But as any tournament veteran knows, it's not over until it's over. The United Kingdom took an *extremely* narrow win on [MK & RoughSketch - Stereo Beasts (Original Mix)](https://osu.ppy.sh/beatmapsets/2169935) after an early note lock. The United States laid claim to [Nanodesu - Libera Lotus](https://osu.ppy.sh/beatmapsets/2169909) with an incredible team performance. And the last map... the last map really can't be explained in writing. I urge you, I *implore* you... You know what, I *demand* that you check out the VOD. If not for the entire match, then just to know what I'm talking about.
 
@@ -38,7 +38,7 @@ Though if I cannot convince you, know that the United Kingdom did indeed end up 
 
 ## Match highlights
 
-Here are all the matches that we wrote about during this World Cup, all of them are guaranteed to keep you entertained! Whether you are wanting to rewatch the greatest matches of the year, or watching an abridged version of the TWC, we have you sorted.
+Here are all the matches that we wrote about during this World Cup, and all of them are guaranteed to keep you entertained! Whether you are wanting to rewatch the greatest matches of the year, or checking an abridged version of the TWC, we have you sorted.
 
 | Match | Stage | Links |
 | :-- | :-- | :-- |
@@ -60,7 +60,7 @@ Here are all the matches that we wrote about during this World Cup, all of them 
 
 This year the osu!taiko community has been blessed with **16** brand new [osu! originals](/wiki/osu!_originals), all of them also accompanied by original artwork in the form of beatmap backgrounds, background videos and storyboards!
 
-We highly recommend that you take a minute of your time to check out the highlighted originals below. Ranging from many flavours of electronic music (such as breakcore, hardcore, etc.), to even some jazz pieces, you are sure to find something you will enjoy listening to at the very least.
+We highly recommend that you take a minute of your time to check out the highlighted originals below. Ranging from many flavours of electronic music (such as breakcore, hardcore, etc.), to even some jazz pieces, you are sure to find something you will enjoy listening to at the very least (or picking up for your next mapping masterpiece).
 
 ### Round of 32
 
@@ -212,7 +212,7 @@ Here you can read what some of the people involved in this tournament had to sha
 > 
 > I'm majoring in classical music, and my goal is to make more creative and entertaining songs crossing between electronic and acoustic, which is based on my major.
 > 
-> You can find me in some known rhythm games such as Lanota, Dynamix and KALPA, and I've also been featured in AD:PIANO VIII in collaboration with another FA, Raimukun.
+> You can find me in some known rhythm games such as Lanota, Dynamix and KALPA, and I've also been featured in AD:PIANO VIII in collaboration with another FA, [Raimukun](https://osu.ppy.sh/beatmaps/artists/247).
 > 
 > If I were to recommend a song that represents me, I'd choose '1,2,3,4! Overclocked Edition'. (You can find this song in the FA list!) This song is rather long at over 7 minutes, but it's a mix of many genres, and it also displays my maximum ability when I was composing it!
 
@@ -248,13 +248,13 @@ Were there any specific considerations regarding the song's style due to constra
 > 
 > I think I underestimated the players too much (haha).
 
-What are your thoughts on the song's accompanying visuals?
+What are your thoughts on the song's [accompanying visuals](https://assets.ppy.sh/beatmaps/2155531/covers/raw.jpg)?
 
 > As I mentioned earlier, the song takes inspiration from trains, so I told the designer that I wanted the visuals to resemble subway route maps.
 > 
 > And when I saw the drafts, the visuals not only fit what I'd hoped for ideally, but they were even more beautiful than I thought, so I was really pleased!
 > 
-> The most surprising part is that the graphic designer filled in all the station names. There are a lot of fun elements like the current station labeled as Cansol (me), and there's also Panthullu's bakery (the designer).
+> The most surprising part is that the graphic designer filled in all the station names. There are a lot of fun elements like the current station labeled as Cansol (me), and there's also [Panthullu](https://osu.ppy.sh/users/12580298)'s bakery (the designer).
 > 
 > Despite me not requesting this level of detail, the designer still gave so much attention to detail, which I was extremely grateful for.
 
@@ -264,13 +264,13 @@ Do you have artists that you often take inspiration from?
 > 
 > At the time when I was composing 'Train of Thought', I was falling in love with jazz playlists.
 > 
-> If I were to focus my answer on artists that influenced me at the time, I'd say that the rhythm game artists that influenced me were NIWASHI and Sobrem, and some other artists that influenced me were Kapustin and The 8-Bit Big Band!
+> If I were to focus my answer on artists that influenced me at the time, I'd say that the rhythm game artists that influenced me were [NIWASHI](https://osu.ppy.sh/beatmaps/artists/228) and [Sobrem](https://osu.ppy.sh/beatmaps/artists/338), and some other artists that influenced me were [Kapustin](https://en.wikipedia.org/wiki/Nikolai_Kapustin) and [The 8-Bit Big Band](https://www.youtube.com/@The8BitBigBand)!
 > 
 > I think these artists all have their own unique and distinct style, so I really like them.
 
 What is your favourite rhythm game song?
 
-> You may already know this one, but these days, I really love 'Synthesis' by tn-shi!!
+> You may already know this one, but these days, I really love '[Synthesis](https://www.youtube.com/watch?v=dOP7G5J755s)' by [tn-shi](https://www.youtube.com/@tn-shi)!!
 > 
 > It's filled with sections that are delightful to the ears, and its restless melody is so exciting to listen to.
 > 
