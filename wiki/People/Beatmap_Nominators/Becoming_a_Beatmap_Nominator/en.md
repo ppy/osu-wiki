@@ -49,7 +49,7 @@ Users are required to submit three beatmaps that have been modded by them within
   - This map should have 0 nominations when the application is submitted.
   - The applicant should briefly describe why the map is ready (or nearly ready) to be nominated.
 - **A mod on a map that is NOT ready to be nominated without significant improvements.**
-  - This intends to show the applican'ts issue identification skills, communication skills, and understanding of standards for Ranked maps.
+  - This intends to show the applicant's issue identification skills, communication skills, and understanding of standards for Ranked maps.
   - This map should include a spread with at least Normal, Hard, and Insane difficulties, and be hosted by a different user from the previous map.
   - The applicant should briefly explain why the map is NOT ready to be nominated, while using their modding to back up their reasons.
 - **A mod on a map that proves the applicant is able to judge map quality and readiness for Ranked.**
@@ -104,15 +104,15 @@ Additional feedback is then written to add any missing information from the eval
 
 ## Communication post-application
 
-When an application is completed, the applicant is provided with an interface that allows him to chat with the evaluators directly through the BN website in order to ask any questions regarding their application consensus and the evaluators' comments.
+When an application is completed, the applicant is provided with an interface that allows them to chat with the evaluators directly through the BN website in order to ask any questions regarding their application consensus and the evaluators' comments.
 
-The chat would be automatically locked after 7 days of inactivity.
+The chat is automatically locked after 7 days of inactivity.
 
 ![Feedback chat](img/feedback-chat.png "The feedback chat interface")
 
 ## Cooldowns
 
-A cooldown of 60 days that prevents the user from re-applying is applied on the following actions:
+A cooldown of 60 days that prevents the user from re-applying is applied on the following occasions:
 
 - Failed applications
 - Removals from the Beatmap Nominators
