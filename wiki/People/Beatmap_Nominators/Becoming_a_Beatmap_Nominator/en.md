@@ -8,11 +8,11 @@ Applicants are required to meet a minimum [kudosu](/wiki/Modding/Kudosu) thresho
 
 ## Basic criteria
 
-Modders aiming to apply to the Beatmap Nominators must have:
+Modders aiming to apply to the Beatmap Nominators must:
 
-- At least 150 [kudosu](/wiki/Modding/Kudosu).
-- The ability to recognise beatmaps that should (and should not) be nominated.
-- No [account restrictions](/wiki/Help_centre/Account_restrictions) within the past year.
+- Have at least 150 [kudosu](/wiki/Modding/Kudosu).
+- Not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
+- Have the ability to recognise beatmaps that should (and should not) be nominated.
 
 ## Traits to demonstrate in modding
 
