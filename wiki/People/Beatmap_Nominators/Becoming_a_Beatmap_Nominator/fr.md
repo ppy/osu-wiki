@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 17b91e95105e01d6fb919705380f236f7353cc7c
 ---
 
 # Devenir un Beatmap Nominator
