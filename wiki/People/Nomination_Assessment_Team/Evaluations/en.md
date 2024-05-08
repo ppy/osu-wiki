@@ -24,7 +24,7 @@ The duration between evaluations is automatically scheduled by the [BN website](
 
 A Nominator is able to see the current progress of their evaluation via a progress bar in their BN website profile.
 
-![evaluation status progress bar](/wiki/People/Nomination_Assessment_Team/Evaluations/img/progress-bar.png "Evaluation status progress bar")
+![evaluation status progress bar](img/progress-bar.png "Evaluation status progress bar")
 
 Just like applications, current BN evaluations are randomly assigned to 3 evaluators and will be announced in the respective mode's NAT Discord channels.
 
