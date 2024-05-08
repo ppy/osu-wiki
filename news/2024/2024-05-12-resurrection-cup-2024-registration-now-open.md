@@ -6,7 +6,7 @@ date: 2024-05-12 12:00:00 +0000
 
 Resurrecting all osu! players! Resurrection Cup is back with our 2024 iteration - now with lots of improvement behind the scenes, focusing on competitiveness and enjoyment for everyone!
 
-![](/wiki/shared/news/2024-05-12-resurrection-cup-2024-registration-now-open/banner.jpg)
+![](https://hoaq.s-ul.eu/6IRgB87D)
 
 **[Resurrection Cup](https://osu.ppy.sh/community/forums/topics/1919672?n=1)**, or ResCup for short, is an annual open-rank TeamVs tournament for every player, with a max team size of 8 players, bringing a breath of fresh air to the top-tier competitive tournament scene. Every year, we release many customs - both songs and maps, with the goal of creating unique challenges for the players competing in the tournament. You may want to watch the following video, showcasing our notable custom songs from the 2023’s iteration, and expect even higher quality of production to this year’s iteration:
 
