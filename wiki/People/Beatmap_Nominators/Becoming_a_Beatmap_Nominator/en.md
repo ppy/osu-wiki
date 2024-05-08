@@ -42,7 +42,7 @@ The following are modding traits expected of Beatmap Nominators:
 
 ![Application flowchart](img/bn-application-flowchart.png "Flowchart outlining the Beatmap Nominator application process")
 
-Users are required to submit three beatmaps that have been modded by them within the last 6 months, each having a different host.
+Users are required to submit three beatmaps they have modded within the last 6 months, each having a different [host](/wiki/Beatmap/Beatmap_host).
 
 - **A mod on a map that is ready to be nominated (or ready to be nominated after the mod is applied).**
   - This intends to show the applicant's ability to conduct the final steps of the modding process and independently evaluate a map's readiness for Ranked.
@@ -50,7 +50,7 @@ Users are required to submit three beatmaps that have been modded by them within
   - The applicant should briefly describe why the map is ready (or nearly ready) to be nominated.
 - **A mod on a map that is NOT ready to be nominated without significant improvements.**
   - This intends to show the applicant's issue identification skills, communication skills, and understanding of standards for Ranked maps.
-  - This map should include a spread with at least Normal, Hard, and Insane difficulties, and be hosted by a different user from the previous map.
+  - This map should include a spread with at least Normal, Hard, and Insane difficulties.
   - The applicant should briefly explain why the map is NOT ready to be nominated, while using their modding to back up their reasons.
 - **A mod on a map that proves the applicant is able to judge map quality and readiness for Ranked.**
   - Applicants are free to choose a map they would nominate or would not nominate.
@@ -58,13 +58,13 @@ Users are required to submit three beatmaps that have been modded by them within
   - This gives the applicant an opportunity to fill any missing gaps in their application, keeping in mind the intentions stated in the descriptions of the previous submissions.
   - The applicant should briefly describe why the map is (or is not) ready to be nominated.
 
-It is recommended that applicants preserve and submit a copy of the map before their mods are applied, as that will notably aid with the evaluation of their modding by giving better context to the evaluators.
+It is good practice to preserve and submit a copy of the map before the mods are applied, as that will notably aid with the evaluation of their modding by giving better context to the evaluators.
 
-Additionally, the user can mark their application as available for the public, which will make it appear in the [public evaluations archive](https://bn.mappersguild.com/publicarchive). Users can freely opt in and out of this by changing the visibility status of any evaluation they have in [their evaluations page](https://bn.mappersguild.com/yourevals).
+Additionally, applications can be marked as available for the public, which will make it appear in the [public evaluations archive](https://bn.mappersguild.com/publicarchive). Users can freely opt in and out of this by changing the visibility status of any evaluation they have in [their evaluations page](https://bn.mappersguild.com/yourevals).
 
 When a user applies to become a BN, the NAT will be notified via the "bnsite" Discord bot in their respective Discord channel. The notification will include the applicant's name and evaluation link, as well as which evaluators have been assigned to the application.
 
-Applicants are shown a progress bar in the [application page](https://bn.mappersguild.com/bnapps) that details what step their evaluation is currently in.
+A progress bar in the [application page](https://bn.mappersguild.com/bnapps) details what step their evaluation is currently in.
 
 ![application progress bar](img/app-progress-bar.png "Application progress bar")
 
@@ -86,7 +86,7 @@ Applicants will be evaluated on the following criteria:
   - Answers to the questions regarding each submitted mod.
   - Additional abilities relating to metadata, timing, and other miscellaneous areas.
 - **General attitude:**
-  - Tone of delivery of the mods and other behavioural expectations from the [Code of Conduct](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
+  - Tone of delivery of the mods and other behavioural expectations from the [Code of Conduct](/wiki/Rules/Code_of_conduct_for_modding_and_mapping).
   - General behaviour in chat/forums.
 
 Any comments and votes from evaluators at this stage are hidden from other evaluators.
@@ -112,7 +112,7 @@ The chat is automatically locked after 7 days of inactivity.
 
 ## Cooldowns
 
-A cooldown of 60 days that prevents the user from re-applying is applied on the following occasions:
+A cooldown for reapplying of 60 days is set on the following occasions:
 
 - Failed applications
 - Removals from the Beatmap Nominators

@@ -62,6 +62,6 @@ Nominators who resign on standard terms will have to reapply to become a BN afte
 
 ### Activity
 
-Whenever a Beatmap Nominator's evaluation is created, their activity will be checked automatically by the BN website. If it's failing to meet the [minimum requirements](/wiki/People/Beatmap_Nominators/Rules#activity), then the evaluation will be automatically moved to the group phase, have its consensus set to an activity warning or a removal, depending on the activity. Then, a member of the NAT will sanity check said evaluation, and send it if there are no issues.
+Whenever a Beatmap Nominator's evaluation is created, their activity will be checked automatically by the BN website. If it fails to meet the [minimum requirements](/wiki/People/Beatmap_Nominators/Rules#activity), then the evaluation will be automatically moved to the group phase and have its consensus set to an activity warning or a removal, depending on the activity. Then, a member of the NAT will sanity check said evaluation, and send it if there are no issues.
 
-If a Beatmap Nominator is returning from a good-term resignation and they haven't reached their minimum activity within the first 30 days, an evaluation following the same procedure above will be created, with its consensus being set to a removal.
+If a Beatmap Nominator is returning from a good-term resignation and they have not reached their minimum activity within the first 30 days, a new evaluation will be created following the same procedure as above, with the consensus set to a removal.
