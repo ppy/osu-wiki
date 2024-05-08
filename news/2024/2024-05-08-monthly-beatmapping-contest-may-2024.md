@@ -8,7 +8,7 @@ Today marks the start of a new contest, plus two new additions to osu!'s *Elite 
 
 ![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
 
-The [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (*MBC*) is a beatmapping contest that happens every month. We reserve our creativity for mapping, not titles.
+The [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (*MBC*) is a beatmapping contest that happens every month. We reserve creativity for mapping, not titles.
 
 This month is all about **osu!** and **osu!mania**. If you're an osu!taiko or osu!catch mapper, look out for another contest in June.
 
@@ -92,7 +92,16 @@ If you're confused about how these work, ask for clarification in the comments, 
 
 #### osu!
 
-...
+People use the term "contest mapping" to describe a mapping style that frequently wins mapping contests.
+
+Generally speaking, it's a tech-focused style featuring flashy slidershapes and high difficulty. (Feel free to skim [the video above](#top-10) for some examples!)
+
+This contest has **two limitations** which will essentially make "contest mapping" impossible:
+
+1. **Circle size must be 6 or higher**
+2. **Star rating must be 5 or lower**
+
+Your map must follow both of these restrictions. Good luck.
 
 #### osu!mania
 
@@ -122,7 +131,7 @@ Additionally, a [**Mappers' Guild keychain**](/wiki/shared/news/2023-08-29-chang
 ## Rules
 
 - **Submissions must follow the month's beatmapping [limitation](#limitation):**
-  - **osu!:** ...
+  - **osu!:** **circle size must be 6 or higher** and **star rating must be 5 or lower**
   - **osu!mania:** ...
 - **Submissions must be a single difficulty from one of the month's [selected songs](#songs).**
 - **Submissions must be in `.osz` format.**
@@ -139,6 +148,6 @@ This contest is about mapping, not reading. When your map is done, submit it to 
 - [osu! contest listing](LINK)
 - [osu!mania contest listing](LINK)
 
-You have until **May 31st** to submit your entry!
+You have until **May 31st**!
 
 —pishifat, RandomeLoL
