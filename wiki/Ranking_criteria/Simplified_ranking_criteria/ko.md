@@ -2,7 +2,7 @@
 
 *랭킹 크리테리아의 모든 내용을 보려면 [랭킹 크리테리아](/wiki/Ranking_criteria) 문서를 참조하세요*
 
-원본 [랭킹 크리테리아](/wiki/Ranking_criteria)의 경우 [랭크](/wiki/Beatmap_ranking_procedure#ranked) 되기에 적합한 [비트맵](/wiki/Beatmap)을 만들기 위한 여러 규칙이나 가이드라인을 대부분의 매퍼가 경험할 수 없는 *여러 가지* 특수 상황을 포함하여 설명하기에 복잡합니다. 
+원본 [랭킹 크리테리아](/wiki/Ranking_criteria)의 경우 [랭크](/wiki/Beatmap_ranking_procedure#ranked) 되기에 적합한 [비트맵](/wiki/Beatmap)을 만들기 위한 여러 규칙이나 가이드라인을 대부분의 매퍼가 경험하지 못할 *여러 가지* 특수 상황을 포함하여 설명하기에 복잡합니다.
 
 **랭킹 크리테리아 요약**은 다음과 같이 랭크 가능한 맵을 만드는 데 필요한 사항에 대해 매퍼에게 더욱 명확한 관점을 제공하는 것을 목표로 합니다:
 
