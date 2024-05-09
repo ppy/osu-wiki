@@ -156,14 +156,14 @@ In addition, ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) was dra
 
 | Match code | Player 1 |  |  | Player 2 | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| Semifinal 1 | [Lifeline](https://osu.ppy.sh/users/11367222) ::{ flag=ID }:: | 2 | **5** | ::{ flag=ID }:: **[Vinno](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/103529223) | [#1](https://www.youtube.com/watch?v=sn8pseCo9fU) | [#1](https://www.youtube.com/watch?v=hk5f4eTc39c) |
+| Semifinal 1 | [Lifeline](https://osu.ppy.sh/users/11367222) ::{ flag=ID }:: | 2 | **5** | ::{ flag=ID }:: **[Vinno](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/103529223) | [#1](https://www.youtube.com/watch?v=hk5f4eTc39c) |
 | Semifinal 2 | **[Skydiver](https://osu.ppy.sh/users/7108275)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) | [#1](https://osu.ppy.sh/community/matches/103528575) | [#1](https://www.youtube.com/watch?v=sn8pseCo9fU) |
 
 ### Quarterfinals
 
 | Match code | Player 1 |  |  | Player 2 | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| Quarterfinal 1 | [Thatnoobguy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **[Crezz](https://osu.ppy.sh/users/7108275)** | [#1](https://osu.ppy.sh/community/matches/103525528) | [#1](https://www.youtube.com/watch?v=sn8pseCo9fU) | [#1](https://www.youtube.com/watch?v=_MhOuxc_XIw) |
+| Quarterfinal 1 | [Thatnoobguy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **[Crezz](https://osu.ppy.sh/users/7108275)** | [#1](https://osu.ppy.sh/community/matches/103525528) | [#1](https://www.youtube.com/watch?v=_MhOuxc_XIw) |
 | Quarterfinal 2 | **[Lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | [#1](https://osu.ppy.sh/community/matches/103526744) | [#1](https://www.youtube.com/watch?v=uAiB2JpiD8s) |
 | Quarterfinal 3 | [Daffy](https://osu.ppy.sh/users/5968633) ::{ flag=ID }:: | 3 | **5** | ::{ flag=ID }:: **[Vinno](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/103527716) | [#1](https://www.youtube.com/watch?v=LMKNeV5SJdU) |
 | Quarterfinal 4 | **[Skydiver](https://osu.ppy.sh/users/4750008)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [Walfrid](https://osu.ppy.sh/users/6600809) | [#1](https://osu.ppy.sh/community/matches/103528575) | [#1](https://www.youtube.com/watch?v=Uk5ljWTDhOA) |
