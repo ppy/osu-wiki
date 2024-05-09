@@ -23,7 +23,7 @@ Submitted mods should show that a user is capable of recognising beatmaps that s
 The following are modding traits expected of Beatmap Nominators:
 
 - **Coverage of all common difficulty levels.**
-  - Most beatmaps will have a spread of [difficulties](/wiki/Beatmap/Difficulty) ranging from easy up to expert, and so Beatmap Nominators must be proficient in modding such difficulties. Proficiency in modding extremely high level difficulties is not required.
+  - Most beatmaps will have a spread of [difficulties](/wiki/Beatmap/Difficulty) ranging from Easy up to Expert, and so Beatmap Nominators must be proficient in modding such difficulties. Proficiency in modding extremely high level difficulties is not required.
 - **Identification of unrankable issues, including ones tools cannot detect, such as incorrect timing or metadata.**
 - **Comparison between parts of a beatmap to support issues or suggestions.**
   - Referencing other parts of the beatmap is useful for keeping suggestions in line with the original styles and ideas the mapper has in their map.
