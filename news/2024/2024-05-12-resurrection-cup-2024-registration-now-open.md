@@ -10,17 +10,17 @@ Resurrecting all osu! players! Resurrection Cup is back for a 2024 iteration —
 
 **[Resurrection Cup](https://osu.ppy.sh/community/forums/topics/1919672?n=1)**, or ResCup for short, is an annual open-rank Team Vs tournament featuring teams of up to 8 players each, bringing a breath of fresh air to the top-tier competitive tournament scene. 
 
-## Original songs & unique challenges
+## Original music and original maps
 
-Every year, we release many customs - both songs and maps, intending to create unique challenges for the players competing in the tournament. You may want to watch the following video, showcasing our notable original songs from the 2023 iteration, and expect an even higher quality of production in this year’s iteration.
+Every year, we release many customs — both songs and maps, intending to create unique challenges for the players competing in the tournament. You may want to watch the following video, showcasing our notable original songs from the 2023 iteration, and expect an even higher quality of production in this year's iteration.
 
-<div align="center">
+<div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
         <source src="https://hoaq.s-ul.eu/vkUyKgyg" type="video/mp4" preload="none">
     </video>
 </div>
 
-Links to the showcased songs and beatmaps can be found **[here](https://osu.ppy.sh/wiki/en/osu!_originals#resurrection-cup-2023)**
+Check out the [maps and songs in question](/wiki/osu!_originals#resurrection-cup-2023), then read on to know what's in store for this year's Resurrection Cup.
 
 ## What's new?
 
@@ -47,8 +47,8 @@ You can head over to the **[website](https://www.rescup.xyz/)** to find out more
 
 To register, head over to the **[registration page](https://www.rescup.xyz/register)** to connect your osu! and Discord account, as well as setting up your team! Before registering, please make sure that:
 
-- You must not have violated the [osu! community rules](/wiki/Rules) within the past 12 months.
-- You have joined the [ResCup24 official Discord server](https://discord.com/invite/UNzyfgGfeu).
+- You must not have violated the **[osu! community rules](/wiki/Rules)** within the past 12 months.
+- You have joined the **[ResCup24 official Discord server](https://discord.com/invite/UNzyfgGfeu)**.
 
 On top of that, you are required to sign up with a team of at least 5 members. If you don't have enough team members, the `#looking-for-team` channel in the [Discord server](https://discord.gg/UNzyfgGfeu) should be where you are heading first before signing up!
 
