@@ -45,7 +45,7 @@ And of course, congrats to [acnozei](https://osu.ppy.sh/users/10141268) for join
 
 ### osu!mania results
 
-[See the full results here.](https://mappersguild.comz/contests/results?contest=65d64ba5b2923e167f793657)
+[See the full results here.](https://mappersguild.com/contests/results?contest=65d64ba5b2923e167f793657)
 
 #### Summary
 
