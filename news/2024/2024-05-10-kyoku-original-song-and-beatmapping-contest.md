@@ -30,6 +30,7 @@ Instead of free song choice, or the usual forced song pick, you'll have to get t
 - **Register through [this form](https://forms.gle/GrQUNjZ8BeVWxEZ39).**
 - **Teams cannot be smaller than 2 or larger than 8.** Mappers are allowed to be producers too!
 - **Teams may have up to 5 mappers and up to 3 music producers.**
+- **At least one team member must join the [Discord server](https://discord.com/invite/XPUPjFamuU).**
 
 ### Music
 
