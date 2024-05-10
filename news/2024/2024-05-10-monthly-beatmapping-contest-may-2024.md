@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest: May 2024"
-date: 2024-05-09 18:00:00 +0000
+date: 2024-05-10 05:00:00 +0000
 ---
 
 Today marks the start of a new contest, plus two new additions to osu!'s *Elite Mappers*!
@@ -68,8 +68,8 @@ And of course, give a warm welcome to osu!mania's first *Elite Mapper*: [tyrcs](
 
 This month's contest is open to **osu!** and **osu!mania** mappers.
 
-- [osu! contest listing](LINK)
-- [osu!mania contest listing](LINK)
+- [osu! contest listing](https://osu.ppy.sh/community/contests/209)
+- [osu!mania contest listing](https://osu.ppy.sh/community/contests/210)
 
 If you're a mapper for another mode, sit tight until next month!
 
@@ -105,7 +105,9 @@ Your map must follow both of these restrictions. Good luck.
 
 #### osu!mania
 
-...
+Don't give carbohydrates a rest! This MBC's diet will consist of noodles only. So to any rice fan out there, we would suggest not being a picky eater this time around.
+
+This month's limitation: **only long notes are allowed.**
 
 ### Songs
 
@@ -131,8 +133,8 @@ Additionally, a [**Mappers' Guild keychain**](/wiki/shared/news/2023-08-29-chang
 ## Rules
 
 - **Submissions must follow the month's beatmapping [limitation](#limitation):**
-  - **osu!:** **circle size must be 6 or higher** and **star rating must be 5 or lower**
-  - **osu!mania:** ...
+  - **osu!:** circle size must be 6 or higher *and* star rating must be 5 or lower
+  - **osu!mania:** only long notes are allowed
 - **Submissions must be a single difficulty from one of the month's [selected songs](#songs).**
 - **Submissions must be in `.osz` format.**
 - **Submissions must NOT be uploaded to the osu! website until after the contest's results are finalised.**
@@ -143,11 +145,11 @@ Note that all submissions will be anonymised before they're reviewed by screener
 
 ---
 
-This contest is about mapping, not reading. When your map is done, submit it to the relevant contest:
+This contest is about mapping, not reading. When your map is done, upload it to the relevant contest:
 
-- [osu! contest listing](LINK)
-- [osu!mania contest listing](LINK)
+- [osu! contest listing](https://osu.ppy.sh/community/contests/209)
+- [osu!mania contest listing](https://osu.ppy.sh/community/contests/210)
 
-You have until **May 31st**!
+You have until **May 31st** to submit!
 
 —pishifat, RandomeLoL
