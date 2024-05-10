@@ -84,7 +84,6 @@ Only one team member needs to submit, and you can reupload your submission as ma
 | Ranking | Prizes |
 | :-- | :-- |
 | Winning team | $100 USD + profile badge (pending) + [contest points](/wiki/Contests/Contest_points) |
-| Runner-up | Profile badge (pending) |
 
 ---
 
