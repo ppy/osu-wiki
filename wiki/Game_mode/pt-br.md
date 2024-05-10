@@ -31,12 +31,18 @@ _osu!_ é o modo de jogo padrão, onde se espera que os jogadores cliquem em cí
 
 ## ![][osu!taiko] osu!taiko
 
-_Main page: [osu!taiko](osu!taiko)_
-_osu!taiko_ simula o processo de jogar uma bateria real, onde os jogadores, fazem uso do teclado ou um kit de bateria para acertar os circulos coloridos em um único local. É baseado no jogo _[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)_, série de jogos produzidos pela [Bandai Namco Entertainment](https://pt.wikipedia.org/wiki/Bandai_Namco_Entertainment). O mascote do osu!taiko é a [Mocha](/wiki/Mascots#mocha), uma garota com o cabelo verde, em um kimono segurando baquetas.
+_Página Principal: [osu!taiko](osu!taiko)_
+_osu!taiko_ simula o processo de jogar uma bateria real, onde os jogadores, fazem uso do teclado ou um kit de bateria para acertar os circulos coloridos em um único local. É inspirado no jogo _[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)_, série de jogos produzidos pela [Bandai Namco Entertainment](https://pt.wikipedia.org/wiki/Bandai_Namco_Entertainment). O mascote do osu!taiko é a [Mocha](/wiki/Mascots#mocha), uma garota com o cabelo verde, em um kimono segurando baquetas.
 
 ![Gameplay do osu!taiko](/wiki/shared/taiko-gameplay.jpg "osu!taiko gameplay")
 
 ## ![][osu!catch] osu!catch
+
+_Página Principal: [osu!catch](osu!catch)_
+
+No _osu!catch_, frutas de todas as variedades caem do topo da tela, e o jogador precisa pega-lás, para passar de fase. Para isso você controla um personagem que vai pega-los, com um prato acima de sua cabeça para pegar as frutas já comentadas. Esse modo é vagamente inspirado em um minigame dentro do [Beatmania](https://pt.wikipedia.org/wiki/Beatmania), que por si só é inspirado no modo _EZ2CATCH_ do [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ). O mascote do osu!catch é a [Yuzu](/wiki/Mascots#yuzu), um garoto com o cabelo azul
+
+![Gameplay do osu!catch](/wiki/shared/catch-gameplay.jpg "osu!catch gameplay")
 
 ## ![][osu!mania] osu!mania
 
