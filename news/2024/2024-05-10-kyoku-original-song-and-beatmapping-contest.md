@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Kyoku: Original Song & Beatmapping Contest"
 date: 2024-05-10 18:00:00 +0000
@@ -6,7 +6,7 @@ date: 2024-05-10 18:00:00 +0000
 
 All mappers and music producers, gather up! Creativity to the maximum using music is now possible within osu! 
 
-![](banner-link-goes-here)
+![](/wiki/shared/news/2024-05-10-kyoku-original-song-and-beatmapping-contest/banner.jpg)
 
 Better yet, **you** can join in on the fun! A team of hosts, [bokeru](https://osu.ppy.sh/users/11308433), [chidodou](https://osu.ppy.sh/users/13868581), [Supportive](https://osu.ppy.sh/users/21482068) and [Whithard](https://osu.ppy.sh/users/24552396) have joined up to create a contest revolving around the idea of expression, versatility, and best of, **expression**! Keep reading to see how you can join and be an original participant of this contest!
 
