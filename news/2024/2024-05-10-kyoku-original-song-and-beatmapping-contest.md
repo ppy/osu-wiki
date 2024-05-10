@@ -6,7 +6,7 @@ date: 2024-05-10 18:00:00 +0000
 
 Mappers and musicians, gather up! Express your creativity to the maximum with mapping and music, right here on osu!.
 
-![](/wiki/shared/news/2024-05-10-kyoku-original-song-and-beatmapping-contest/banner.jpg)
+![](https://assets.ppy.sh/contests/211/banner.jpg)
 
 Brought to you by [bokeru](https://osu.ppy.sh/users/11308433), [chidodou](https://osu.ppy.sh/users/13868581), [Supportive](https://osu.ppy.sh/users/21482068) and [Whithard](https://osu.ppy.sh/users/24552396), this contest revolves around the idea of expression, versatility, and best of all, **expression**! Keep reading to see how you can join in on the fun by participating!
 
