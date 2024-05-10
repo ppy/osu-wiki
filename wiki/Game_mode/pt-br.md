@@ -32,6 +32,7 @@ _osu!_ é o modo de jogo padrão, onde se espera que os jogadores cliquem em cí
 ## ![][osu!taiko] osu!taiko
 
 _Página Principal: [osu!taiko](osu!taiko)_
+
 _osu!taiko_ simula o processo de jogar uma bateria real, onde os jogadores, fazem uso do teclado ou um kit de bateria para acertar os circulos coloridos em um único local. É inspirado no jogo _[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)_, série de jogos produzidos pela [Bandai Namco Entertainment](https://pt.wikipedia.org/wiki/Bandai_Namco_Entertainment). O mascote do osu!taiko é a [Mocha](/wiki/Mascots#mocha), uma garota com o cabelo verde, em um kimono segurando baquetas.
 
 ![Gameplay do osu!taiko](/wiki/shared/taiko-gameplay.jpg "osu!taiko gameplay")
@@ -45,6 +46,12 @@ No _osu!catch_, frutas de todas as variedades caem do topo da tela, e o jogador 
 ![Gameplay do osu!catch](/wiki/shared/catch-gameplay.jpg "osu!catch gameplay")
 
 ## ![][osu!mania] osu!mania
+
+_Página Principal: [osu!mania](osu!mania)_
+
+_osu!mania_ é um modo de jogo vertical, é feito para ser um simulador de piano. Foi principalmente [introduzido e implementado](https://osu.ppy.sh/community/forums/topics/100751) pelo [woc2006](https://osu.ppy.sh/users/1105845), e é inspirado em uma variedade de jogos de ritmo do tipo "conveyor" (nomeados [Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution) e [Beatmania](https://en.wikipedia.org/wiki/Beatmania)). Os mascotes do osu!mania são gêmeas,[Mani and Mari](/wiki/Mascots#mani-&-mari), as duas com cabelo roxo e claro.
+
+![Gameplay do osu!mania](/wiki/shared/mania-gameplay.jpg "osu!mania gameplay")
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
