@@ -23,6 +23,8 @@ Instead of free song choice, or the usual forced song pick, you'll have to get t
 | Judging | August 23 to August 31 |
 | Results | September 1 |
 
+A livestream may be held on the day of results to show the rankings!
+
 ## Song rules
 
 Starting June 10th, 2024, musicians will be allowed to send their song to any of the organisers to check over for approval, under these rules:
@@ -51,8 +53,6 @@ Submission of the *final beatmap* will be handled through the [contest page](htt
 Only one team member needs to submit, and you can reupload your submission as many times as you want until the deadline of August 22!
 
 ## Prizes
-
-A livestream may be held on the day of results to show the rankings!
 
 | Ranking | Prizes |
 | :-- | :-- |
