@@ -10,7 +10,7 @@ Resurrecting all osu! players! Resurrection Cup is back for a 2024 iteration —
 
 **[Resurrection Cup](https://osu.ppy.sh/community/forums/topics/1919672?n=1)**, or ResCup for short, is an annual open-rank Team Vs tournament featuring teams of up to 8 players each, bringing a breath of fresh air to the top-tier competitive tournament scene. Every year, we release many customs — both songs and maps — with the goal of creating unique challenges for the players competing in the tournament.
 
-You may want to watch the following video, showcasing all the notable custom songs from the 2023's iteration, and expect an even higher quality of production to this year's iteration:
+You may want to watch the following video, showcasing all the notable [custom songs from the 2023's iteration](/wiki/osu!_originals#resurrection-cup-2023), and expect an even higher quality of production to this year's iteration:
 
 <div align="center">
     <video width="95%" controls>
@@ -45,7 +45,7 @@ To register, head over to the **[registration page](https://www.rescup.xyz/regis
 
 - You must not have violated the [osu! community rules](/wiki/Rules) within the past 12 months.
 - You have joined the [ResCup24 official Discord server](https://discord.com/invite/UNzyfgGfeu).
-    
+
 On top of that, you are required to sign up with a team of at least 5 members. If you don't have enough team members, the `#looking-for-team` channel in the [Discord server](https://discord.gg/UNzyfgGfeu) should be where you are heading first before signing up!
 
 We also encourage spectators to join the [ResCup Discord server](https://discord.com/invite/UNzyfgGfeu) in order to keep up with all important announcements and livestream notifications. For more information, check out the [forum post](https://osu.ppy.sh/community/forums/topics/1919672?n=1) and the [tournament website](https://www.rescup.xyz/). We hope to see you around, either as a player or spectator!
