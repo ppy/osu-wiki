@@ -31,6 +31,11 @@ _osu!_ é o modo de jogo padrão, onde se espera que os jogadores cliquem em cí
 
 ## ![][osu!taiko] osu!taiko
 
+_Main page: [osu!taiko](osu!taiko)_
+_osu!taiko_ simula o processo de jogar uma bateria real, onde os jogadores, fazem uso do teclado ou um kit de bateria para acertar os circulos coloridos em um único local. É baseado no jogo _[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)_, série de jogos produzidos pela [Bandai Namco Entertainment](https://pt.wikipedia.org/wiki/Bandai_Namco_Entertainment). O mascote do osu!taiko é a [Mocha](/wiki/Mascots#mocha), uma garota com o cabelo verde, em um kimono segurando baquetas.
+
+![Gameplay do osu!taiko](/wiki/shared/taiko-gameplay.jpg "osu!taiko gameplay")
+
 ## ![][osu!catch] osu!catch
 
 ## ![][osu!mania] osu!mania
