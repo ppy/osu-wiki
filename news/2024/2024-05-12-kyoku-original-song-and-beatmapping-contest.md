@@ -26,15 +26,10 @@ With the first iteration and the first of its kind in osu!, as well as being mos
 Starting June 10th, 2024, Musicians will be allowed to send their song to any of the organizers to check over for approval, under these rules:
 
 - **Songs must be original works created for the contest**, or at the very least, previously unreleased. Anything found to be breaking this rule will be immediately disqualified.
-
 - **Songs must stay unreleased until the day of results.**
-
 - **Songs must be 2:00-6:00 in drain time.**
-
 - **Obvious bait/troll submissions will be immediately disqualified.**
-
 - **No commissions allowed.** Creating an environment where people can out price others from having an artist is unjust.
-
 - **Teams just cannot be smaller than 2.** Mappers are allowed to be producers too!
 
 ## Mapping Rules
@@ -42,13 +37,9 @@ Starting June 10th, 2024, Musicians will be allowed to send their song to any of
 As soon as your team’s song is approved, you are allowed to start mapping!
  
 - **All submissions must include a single difficulty.**
-
 - **Drain time in the song should be split between all mappers participating as evenly as possible.**
-
 - **Submissions must be in osu! mode only.**
-
 - **All maps must follow the ranking criteria.**
-
 - **Storyboards/Videos are not permitted for the submission.** This is to prevent bias formed by the presentation of the map.
 
 ## Submission
