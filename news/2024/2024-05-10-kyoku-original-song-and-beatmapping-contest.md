@@ -25,6 +25,12 @@ Instead of free song choice, or the usual forced song pick, you'll have to get t
 
 ## Rules
 
+### Registration
+
+- **Register through [this form](https://forms.gle/GrQUNjZ8BeVWxEZ39).**
+- **Teams cannot be smaller than 2 or larger than 8.** Mappers are allowed to be producers too!
+- **Teams may have up to 5 mappers and up to 3 music producers.**
+
 ### Music
 
 Starting June 10th, 2024, musicians will be allowed to send their song to any of the organisers to check over for approval to the organisers on the [Discord server](https://discord.com/invite/XPUPjFamuU) (listed in the beginning of this post), under these rules:
@@ -35,7 +41,6 @@ Starting June 10th, 2024, musicians will be allowed to send their song to any of
 - **Obvious bait/troll submissions will be immediately disqualified.**
 - **Songs CAN be adjusted after approval.** Avoid editing things that would affect things like rhythm choice or adding entirely new sections.
 - **No commissions allowed.** This is to prevent creating an environment where people can outprice others.
-- **Teams cannot be smaller than 2.** Mappers are allowed to be producers too!
 
 ### Mapping
 
