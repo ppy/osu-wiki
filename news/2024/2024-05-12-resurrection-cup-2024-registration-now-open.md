@@ -51,4 +51,3 @@ On top of that, you are required to sign up with a team of at least 5 members. I
 We also encourage spectators to join the [ResCup Discord server](https://discord.com/invite/UNzyfgGfeu) in order to keep up with all important announcements and livestream notifications. For more information, check out the [forum post](https://osu.ppy.sh/community/forums/topics/1919672?n=1) and the [tournament website](https://www.rescup.xyz/). We hope to see you around, either as a player or spectator!
 
 —Phreel & Hoaq
-
