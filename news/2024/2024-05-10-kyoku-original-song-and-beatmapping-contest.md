@@ -4,7 +4,7 @@ title: "Kyoku: Original Song & Beatmapping Contest"
 date: 2024-05-10 18:00:00 +0000
 ---
 
-All mappers and music producers, gather up! Creativity to the maximum using music is now possible within osu! 
+All mappers and music producers, gather up! Creativity to the maximum using music is now possible within osu!
 
 ![](/wiki/shared/news/2024-05-10-kyoku-original-song-and-beatmapping-contest/banner.jpg)
 
@@ -35,7 +35,7 @@ Starting June 10th, 2024, Musicians will be allowed to send their song to any of
 ## Mapping Rules
 
 As soon as your team’s song is approved, you are allowed to start mapping!
- 
+
 - **All submissions must include a single difficulty.**
 - **Drain time in the song should be split between all mappers participating as evenly as possible.**
 - **Submissions must be in osu! mode only.**
