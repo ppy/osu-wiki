@@ -16,9 +16,9 @@ Instead of free song choice, or the usual forced song pick, you'll have to get t
 
 ## Schedule
 
-| Phase | Dates |
+| Event | Dates |
 | --: | :-- |
-| Registrations | Now to June 9 |
+| Registrations | April 6 to June 9 |
 | Song production & mapping period | June 10 to August 22 |
 | Judging | August 23 to August 31 |
 | Results | September 1 |
