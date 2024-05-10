@@ -8,9 +8,9 @@ Mappers and musicians, gather up! Express your creativity to the maximum with ma
 
 ![](/wiki/shared/news/2024-05-10-kyoku-original-song-and-beatmapping-contest/banner.jpg)
 
-Brought to you by [bokeru](https://osu.ppy.sh/users/11308433), [chidodou](https://osu.ppy.sh/users/13868581), [Supportive](https://osu.ppy.sh/users/21482068) and [Whithard](https://osu.ppy.sh/users/24552396), this contest revolves around the idea of expression, versatility, and best of all, **expression**! Keep reading to see how you can join in on the fun by participating!
+Brought to you by [bokeru](https://osu.ppy.sh/users/11308433), [chidodou](https://osu.ppy.sh/users/13868581), [Supportive](https://osu.ppy.sh/users/21482068) and [Whithard](https://osu.ppy.sh/users/24552396), and judged by [nooj](https://osu.ppy.sh/users/8271086), [-Doodle](https://osu.ppy.sh/users/12337329), [9ami](https://osu.ppy.sh/users/1499997), [funny](https://osu.ppy.sh/users/8473573), and [Lotragon](https://osu.ppy.sh/users/6063342), this contest revolves around the idea of expression, versatility, and best of all, **expression**! Keep reading to see how you can join in on the fun by participating!
 
-With the first iteration and the first of its kind in osu!, as well as being most inspired from [THE BMS OF FIGHTERS](https://bmsoffighters.net/) (surely something you've heard about before), Kyoku is a contest that will focus on not only beatmapping, but song production as well.
+With the first iteration, being most inspired from [THE BMS OF FIGHTERS](https://www.bmsoffighters.net/) (surely something you've heard about before), Kyoku is a contest that will focus on not only beatmapping, but song production as well.
 
 Instead of free song choice, or the usual forced song pick, you'll have to get together with at least one musician (or even be a producer yourself!) in teams of 2–8 (up to 5 mappers and up to 3 musicians) to create a fresh new song AND map!
 
@@ -23,16 +23,15 @@ Instead of free song choice, or the usual forced song pick, you'll have to get t
 | Judging | August 23 to August 31 |
 | Results | September 1 |
 
-A livestream may be held on the day of results to show the rankings!
-
 ## Song rules
 
-Starting June 10th, 2024, musicians will be allowed to send their song to any of the organisers to check over for approval, under these rules:
+Starting June 10th, 2024, musicians will be allowed to send their song to any of the organisers to check over for approval to the organisers on the discord server (listed in the beginning of this post), under these rules:
 
 - **Songs must be original works created for the contest**, or at the very least, previously unreleased. Anything found to be breaking this rule will be immediately disqualified.
 - **Songs must stay unreleased until the day of results.**
-- **Songs must be 2:00–6:00 in drain time.**
+- **Songs must be 2:00–6:00 in length.**
 - **Obvious bait/troll submissions will be immediately disqualified.**
+- **Songs CAN be adjusted after approval.** Avoid editing things that would affect things like rhythm choice or adding entirely new sections.
 - **No commissions allowed.** This is to prevent creating an environment where people can outprice others.
 - **Teams cannot be smaller than 2.** Mappers are allowed to be producers too!
 
@@ -43,6 +42,7 @@ As soon as your team's song is approved, you are allowed to start mapping!
 - **All submissions must include a single difficulty.**
 - **Drain time in the song should be split between all mappers participating as evenly as possible.**
 - **Submissions must be in osu! mode only.**
+- **Maps must not be submitted through the official osu! website until the day of results.**
 - **All maps must follow the [ranking criteria](/wiki/Ranking_criteria).**
 - **Storyboards/videos are not permitted for the submission.** This is to prevent bias formed by the presentation of the map.
 
@@ -51,6 +51,15 @@ As soon as your team's song is approved, you are allowed to start mapping!
 Submission of the *final beatmap* will be handled through the [contest page](https://osu.ppy.sh/community/contests/211), and will be anonymised upon submission, including artist names.
 
 Only one team member needs to submit, and you can reupload your submission as many times as you want until the deadline of August 22!
+
+## Judging criteria
+
+| Criteria | Points |
+| --: | :-- |
+| Structure and concept | 40 points |
+| Creativity and expression | 40 points |
+| Judge's opinion | 20 points |
+| **Total** | 100 points |
 
 ## Prizes
 
