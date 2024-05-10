@@ -22,21 +22,17 @@ Members of the Beatmap Nominators are divided into two groups: full members and 
 
 In addition to regular beatmap modding and ranking, full members of the Beatmap Nominators are responsible for disqualifying beatmaps in the qualified section that are found to have issues. Full Beatmap Nominators may also participate in occasional Beatmap Nominator application assessment if they are interested in joining the Nomination Assessment Team in the future.
 
-Approximately each three months, full Beatmap Nominators have their behaviour and nomination activity/quality [evaluated](/wiki/People/Nomination_Assessment_Team/Evaluations) by the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team). If their nominations are frequently reset for notable reasons or their behaviour is unacceptable, they may be moved to the probationary Beatmap Nominators.
-
-Full Beatmap Nominators with below minimum nomination activity will not be placed on probation, however they will be removed from the group if their activity does not improve.
+Approximately every three months, full Beatmap Nominators have their behaviour and nomination activity/quality [evaluated](/wiki/People/Nomination_Assessment_Team/Evaluations) by the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team). If their nominations are frequently reset for notable reasons or their behaviour is unacceptable, they may either be issued a warning or be removed from the group, depending on the severity and frequency.
 
 ### Probationary Beatmap Nominators
 
-Probation is used to monitor new or demoted Beatmap Nominators more closely. The main role for probationary Beatmap Nominators is to establish a foundation as a Beatmap Nominator through exclusively promoting beatmaps in the ranking process. At least one full nominator must be involved in the ranking process for each game mode of a beatmap, so probationary members cannot give the final nomination to a beatmap which has only received nominations from other probationary members for their game mode.
+Probation is used to monitor new Beatmap Nominators more closely. The main role for probationary Beatmap Nominators is to establish a foundation as a Beatmap Nominator through exclusively promoting beatmaps in the ranking process. At least one full nominator must be involved in the ranking process for each game mode of a beatmap, so probationary members cannot give the final nomination to a beatmap which has only received nominations from other probationary members for their game mode.
 
 Probationary Beatmap Nominators are [evaluated](/wiki/People/Nomination_Assessment_Team/Evaluations) after meeting double their [activity requirements](/wiki/People/Beatmap_Nominators/Rules#requirements), or after one month from being placed there, whichever comes first.
 
-New members of the Beatmap Nominators will be assigned an NAT buddy who they are encouraged to directly contact for questions or guidance. After their first evaluation, if their nominations and behaviour are satisfactory, they will be promoted to the full Beatmap Nominators following a positive evaluation. Otherwise, they will remain on probation for another month or be removed from the Beatmap Nominators.
+New members of the Beatmap Nominators will be assigned an NAT buddy who they are encouraged to directly contact for questions or guidance. After their first evaluation, they will be either promoted to the full Beatmap Nominators following a positive evaluation, or removed from the Beatmap Nominators.
 
-When a Beatmap Nominator is placed on probation, they cannot be placed on probation again for the same reason for roughly one year. For example, if a Beatmap Nominator is placed on probation for poor behaviour, they will be removed from the Beatmap Nominators if they exhibit the same poor behaviour again recently, even if they are a full Beatmap Nominator during the second infringement.
-
-A demoted Beatmap Nominator's probation period may be extended by an additional month if there isn't sufficient data to evaluate them, or if they start showing issues different to what they were originally probationed for.
+A Beatmap Nominator cannot be demoted to probation. If concerns are raised regarding their performance, they would either be issued a warning or be removed from the group.
 
 ## Benefits
 
