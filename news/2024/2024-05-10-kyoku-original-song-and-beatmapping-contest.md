@@ -10,7 +10,7 @@ Mappers and musicians, gather up! Express your creativity to the maximum with ma
 
 Brought to you by [bokeru](https://osu.ppy.sh/users/11308433), [chidodou](https://osu.ppy.sh/users/13868581), [Supportive](https://osu.ppy.sh/users/21482068) and [Whithard](https://osu.ppy.sh/users/24552396), this contest revolves around the idea of expression, versatility, and best of all, **expression**! Keep reading to see how you can join in on the fun by participating!
 
-With the first iteration and the first of its kind in osu!, as well as being most inspired from BMS of Fighters (surely something you've heard about before), Kyoku is a contest that will focus on not only beatmapping, but song production as well.
+With the first iteration and the first of its kind in osu!, as well as being most inspired from [THE BMS OF FIGHTERS](https://bmsoffighters.net/) (surely something you've heard about before), Kyoku is a contest that will focus on not only beatmapping, but song production as well.
 
 Instead of free song choice, or the usual forced song pick, you'll have to get together with at least one musician (or even be a producer yourself!) in teams of 2–8 (up to 5 mappers and up to 3 musicians) to create a fresh new song AND map!
 
