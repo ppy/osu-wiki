@@ -49,7 +49,7 @@ As soon as your team's song is approved, you are allowed to start mapping!
 - **All submissions must include a single difficulty.**
 - **Drain time in the song should be split between all mappers participating as evenly as possible.**
 - **Submissions must be in the osu! mode only.**
-- **Maps must not be submitted through the [Beatmap Submission System](https://osu.ppy.sh/wiki/Beatmapping/Beatmap_submission) or be publicised until the day of results.**
+- **Maps must not be submitted through the [Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission) or be publicised until the day of results.**
 - **All maps must follow the [ranking criteria](/wiki/Ranking_criteria).**
 - **Storyboards/videos are not permitted for the submission.** This is to prevent bias formed by the presentation of the map.
 
