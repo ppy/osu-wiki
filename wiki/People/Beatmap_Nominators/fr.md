@@ -86,7 +86,7 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 | ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) | Chinois, un peu de français |
 | ::{ flag=CA }:: [JoshywaBoo](https://osu.ppy.sh/users/19656568) |  |
 | ::{ flag=DE }:: [KaedeharaKazuha](https://osu.ppy.sh/users/6300910) | Allemand |
-| ::{ flag=HK }:: [KennethBBG](https://osu.ppy.sh/users/13032817) | Chinois |
+| ::{ flag=HK }:: [KennethBBG](https://osu.ppy.sh/users/13032817) | Cantonais, chinois |
 | ::{ flag=US }:: [KoldNoodl](https://osu.ppy.sh/users/12572294) |  |
 | ::{ flag=FR }:: [Kudosu](https://osu.ppy.sh/users/11038155) | Français, allemand, japonais |
 | ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) |  |
@@ -118,12 +118,12 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 | ::{ flag=CA }:: [Resona](https://osu.ppy.sh/users/3124248) | Japonais |
 | ::{ flag=KR }:: [Riana](https://osu.ppy.sh/users/1997633) |  |
 | ::{ flag=US }:: [rosario wknd](https://osu.ppy.sh/users/6341518) | Afrikaans |
-| ::{ flag=HK }:: [Saggin](https://osu.ppy.sh/users/12464107) | Chinois |
+| ::{ flag=HK }:: [Saggin](https://osu.ppy.sh/users/12464107) | Russe |
 | ::{ flag=TW }:: [Sagisawa Arisa](https://osu.ppy.sh/users/7633130) | Chinois |
 | ::{ flag=BR }:: [Shiyun](https://osu.ppy.sh/users/3947634) |  |
 | ::{ flag=UZ }:: [Shmiklak](https://osu.ppy.sh/users/5504231) |  |
-| ::{ flag=CA }:: [Sparhten](https://osu.ppy.sh/users/7601720) |  |
 | ::{ flag=US }:: [Smoke](https://osu.ppy.sh/users/10726630) |  |
+| ::{ flag=CA }:: [Sparhten](https://osu.ppy.sh/users/7601720) |  |
 | ::{ flag=CA }:: [superstore](https://osu.ppy.sh/users/16755693) |  |
 | ::{ flag=TH }:: [timemon](https://osu.ppy.sh/users/2072005) | Thaï |
 | ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | Lituanien |
@@ -175,7 +175,6 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 | ::{ flag=US }:: [GiGas](https://osu.ppy.sh/users/7300747) | Coréen |
 | ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) |  |
 | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | Russe |
-| ::{ flag=RU }:: [Lacrima](https://osu.ppy.sh/users/4915649) | Russe |
 | ::{ flag=ID }:: [Mochi -](https://osu.ppy.sh/users/20424806) | Indonésien |
 | ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) | Coréen |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) |  |
@@ -202,8 +201,8 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 | ::{ flag=AU }:: [Decku](https://osu.ppy.sh/users/13360768) |  |
 | ::{ flag=KR }:: [DenYi](https://osu.ppy.sh/users/14998645) | Coréen |
 | ::{ flag=CA }:: [Drum-Hitnormal](https://osu.ppy.sh/users/748722) | Chinois |
-| ::{ flag=KR }:: [Furryswan](https://osu.ppy.sh/users/9555243) | Coréen |
 | ::{ flag=CN }:: [FLeVI](https://osu.ppy.sh/users/12519616) | Chinois |
+| ::{ flag=KR }:: [Furryswan](https://osu.ppy.sh/users/9555243) | Coréen |
 | ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699) |  |
 | ::{ flag=IT }:: [Harbyter](https://osu.ppy.sh/users/1147679) |  |
 | ::{ flag=CN }:: [Hidden is fun](https://osu.ppy.sh/users/10449071) | Chinois |
@@ -218,12 +217,14 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 | ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | Néerlandais |
 | ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) | Espagnol |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | Galicien, italien, japonais, espagnol, portugais |
+| ::{ flag=IT }:: [Relae](https://osu.ppy.sh/users/14455536) | Indonésien |
 | ::{ flag=ID }:: [Rivals\_7](https://osu.ppy.sh/users/4610379) | Indonésien |
 | ::{ flag=CA }:: [Ryax](https://osu.ppy.sh/users/8949769) |  |
 | ::{ flag=KR }:: [secXcscX](https://osu.ppy.sh/users/13543418) | Coréen |
 | ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | Chinois |
 | ::{ flag=CA }:: [Shad0wStar](https://osu.ppy.sh/users/16866460) |  |
 | ::{ flag=ID }:: [SuzumeAyase](https://osu.ppy.sh/users/14190991) | Indonésien |
+| ::{ flag=ID }:: [Syadow-](https://osu.ppy.sh/users/3484485) | Indonésien |
 | ::{ flag=ID }:: [Syrion-](https://osu.ppy.sh/users/15380643) | Indonésien, malais |
 | ::{ flag=ID }:: [Ucitysm](https://osu.ppy.sh/users/14768693) |  |
 | ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  |
