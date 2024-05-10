@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kyoku: Original Song & Beatmapping Contest"
-date: 2024-05-10 18:00:00 +0000
+date: 2024-05-10 19:00:00 +0000
 ---
 
 Mappers and musicians, gather up! Express your creativity to the maximum with mapping and music, right here on osu!.
