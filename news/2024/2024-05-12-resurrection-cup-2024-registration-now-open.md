@@ -8,9 +8,11 @@ Resurrecting all osu! players! Resurrection Cup is back for a 2024 iteration —
 
 ![](/wiki/shared/news/2024-05-12-resurrection-cup-2024-registrations-now-open/banner.jpg)
 
-**[Resurrection Cup](https://osu.ppy.sh/community/forums/topics/1919672?n=1)**, or ResCup for short, is an annual open-rank Team Vs tournament featuring teams of up to 8 players each, bringing a breath of fresh air to the top-tier competitive tournament scene. Every year, we release many customs — both songs and maps — with the goal of creating unique challenges for the players competing in the tournament.
+**[Resurrection Cup](https://osu.ppy.sh/community/forums/topics/1919672?n=1)**, or ResCup for short, is an annual open-rank Team Vs tournament featuring teams of up to 8 players each, bringing a breath of fresh air to the top-tier competitive tournament scene. 
 
-You may want to watch the following video, showcasing all the notable [custom songs from the 2023's iteration](/wiki/osu!_originals#resurrection-cup-2023), and expect an even higher quality of production to this year's iteration:
+## Original songs & unique challenges
+
+Every year, we release many customs - both songs and maps, intending to create unique challenges for the players competing in the tournament. You may want to watch the following video, showcasing our notable original songs from the 2023 iteration, and expect an even higher quality of production in this year’s iteration.
 
 <div align="center">
     <video width="95%" controls>
@@ -18,9 +20,11 @@ You may want to watch the following video, showcasing all the notable [custom so
     </video>
 </div>
 
+Links to the showcased songs and beatmaps can be found **[here](https://osu.ppy.sh/wiki/en/osu!_originals#resurrection-cup-2023)**
+
 ## What's new?
 
-The match procedure and rescheduling method for the tournament remains the same as the 2023 iteration. However, we do have a lot of surprises up our sleeve this time around. Many new mappers and artists have joined our production team, bringing you over 20 memorable custom songs and over 80 beatmaps designed and fine-tuned by experienced mappoolers and playtesters.
+The match procedure and rescheduling method for the tournament remain the same as the 2023 iteration. However, we do have a lot of surprises up our sleeve this time around. Many new mappers and artists have joined our production team, bringing you over 20 memorable custom songs and over 80 beatmaps designed and fine-tuned by experienced mappoolers and playtesters.
 
 You can head over to the **[website](https://www.rescup.xyz/)** to find out more details about the overall mappool structure as well as other relevant rules.
 
