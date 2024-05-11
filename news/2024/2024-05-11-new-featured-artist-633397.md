@@ -49,7 +49,7 @@ Alternatively, you can sprint through [this map](https://osu.ppy.sh/beatmapsets/
 And if your legs hurt, continue suffering with [this difficult map](https://osu.ppy.sh/beatmapsets/2134503) hosted by [_gt](https://osu.ppy.sh/users/8301957).
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/419/for%20you/633397%20-%20i%20can_t%20run%20anymore.osz">
+    <source src="https://assets.ppy.sh/artists/419/for%20you/633397%20-%20i%20can_t%20run%20anymore.mp3">
 </audio>
 
 ---
