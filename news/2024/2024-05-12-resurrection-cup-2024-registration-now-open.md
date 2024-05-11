@@ -45,7 +45,7 @@ You can head over to the **[website](https://www.rescup.xyz/)** to find out more
 
 ## How do I register?
 
-To register, head over to the **[registration page](https://www.rescup.xyz/register)** to connect your osu! and Discord account, as well as setting up your team! Before registering, please make sure that:
+To register, head over to the **[registration page](https://www.rescup.xyz/registration)** to connect your osu! and Discord account, as well as setting up your team! Before registering, please make sure that:
 
 - You must not have violated the **[osu! community rules](/wiki/Rules)** within the past 12 months.
 - You have joined the **[ResCup24 official Discord server](https://discord.com/invite/UNzyfgGfeu)**.
