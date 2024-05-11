@@ -14,13 +14,13 @@ Los modders que deseen postularse para los Beatmap Nominators deben:
 - No haber infringido las [normas de la comunidad de osu!](/wiki/Rules) en los últimos 12 meses.
 - Tener la capacidad de reconocer beatmaps que deberían (y no deberían) ser nominados.
 
-## Rasgos a demostrar en el modding
+## Cualidades a demostrar en el modding
 
 *Véase también: [Errores de modding comunes](/wiki/Guides/Common_modding_mistakes) y [Guía de modding de osu!mania](/wiki/Guides/osu!mania_modding_guide)*
 
 Los mods enviados deben mostrar que un usuario es capaz de reconocer los beatmaps que deben y no deben ser nominados, además de analizar y mejorar los beatmaps hasta un nivel adecuado para los Beatmap Nominators.
 
-Los siguientes son los rasgos que se esperan de los Beatmap Nominators en el modding:
+Lo siguiente son las cualidades que se esperan de los Beatmap Nominators en el modding:
 
 - **Cobertura de todos los niveles de dificultad comunes.**
   - La mayoría de los beatmaps tendrán una distribución de [dificultades](/wiki/Beatmap/Difficulty) que van desde Easy hasta Expert, por lo que los Beatmap Nominators deben ser competentes en modding de dichas dificultades. No se requieren habilidades de modding en dificultades de niveles extremadamente altos.
@@ -82,7 +82,7 @@ Los solicitantes serán evaluados según los siguientes criterios:
 
 - **Modding:**
   - Conocimiento de los [criterios de clasificación](/wiki/Ranking_criteria) generales y específicos de cada [modo de juego](/wiki/Game_mode).
-  - Presencia de los [rasgos](#rasgos-a-demostrar-en-el-modding) recomendados en sus mods.
+  - Presencia de las [cualidades](#cualidades-a-demostrar-en-el-modding) recomendadas en sus mods.
   - Respuestas a las preguntas sobre cada mod enviado.
   - Habilidades adicionales relacionadas con los metadatos, temporización y otras áreas diversas.
 - **Actitud general:**
