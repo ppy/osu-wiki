@@ -16,7 +16,7 @@ Every year, we release many customs — both songs and maps, intending to create
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="https://hoaq.s-ul.eu/vkUyKgyg" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/2024-05-12-resurrection-cup-2023-song-highlights.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
