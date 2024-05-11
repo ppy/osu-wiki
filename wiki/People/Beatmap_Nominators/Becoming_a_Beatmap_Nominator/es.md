@@ -40,7 +40,7 @@ Los siguientes son los rasgos que se esperan de los Beatmap Nominators en el mod
 
 ## Proceso de solicitud
 
-![Diagrama del flujo de una solicitud](img/bn-application-flowchart.png "Diagrama del flujo que describe el proceso de una solicitud para Beatmap Nominator")
+![Diagrama del flujo de una solicitud](img/bn-application-flowchart-ES.png "Diagrama del flujo que describe el proceso de una solicitud para Beatmap Nominator")
 
 Los usuarios deben enviar tres beatmaps que hayan modeado en los últimos 6 meses, cada uno con un [anfitrión](/wiki/Beatmap/Beatmap_host) diferente.
 
