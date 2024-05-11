@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 17b91e95105e01d6fb919705380f236f7353cc7c
+---
+
 # 成为 BN
 
 想要加入[谱面审核团队 (BN)](/wiki/People/Beatmap_Nominators) 的玩家需要在[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 成员的监管下通过 BN 申请程序。
