@@ -99,7 +99,7 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 | ::{ flag=GB }:: [mnyui](https://osu.ppy.sh/users/14261540) |  |
 | ::{ flag=ID }:: [Mocaotic](https://osu.ppy.sh/users/9487458) | Indonesio, chino |
 | ::{ flag=CA }:: [Mochi-](https://osu.ppy.sh/users/9312734) | Chino |
-| ::{ flag=CH }:: [momoyo](https://osu.ppy.sh/users/12469536) |  |
+| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) |  |
 | ::{ flag=TW }:: [Muchin](https://osu.ppy.sh/users/9834516) | Chino |
 | ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | Rumano |
 | ::{ flag=US }:: [Nathan](https://osu.ppy.sh/users/4785223) |  |

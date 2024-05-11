@@ -100,7 +100,7 @@ BN 可获得以下特权：
 | ::{ flag=GB }:: [mnyui](https://osu.ppy.sh/users/14261540) |  |
 | ::{ flag=ID }:: [Mocaotic](https://osu.ppy.sh/users/9487458) | 印度尼西亚语，汉语 |
 | ::{ flag=CA }:: [Mochi-](https://osu.ppy.sh/users/9312734) | 汉语 |
-| ::{ flag=CH }:: [momoyo](https://osu.ppy.sh/users/12469536) |  |
+| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) |  |
 | ::{ flag=TW }:: [Muchin](https://osu.ppy.sh/users/9834516) | 汉语 |
 | ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | 罗马尼亚语 |
 | ::{ flag=US }:: [Nathan](https://osu.ppy.sh/users/4785223) |  |

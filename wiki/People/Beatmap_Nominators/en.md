@@ -101,7 +101,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=GB }:: [mnyui](https://osu.ppy.sh/users/14261540) |  |
 | ::{ flag=ID }:: [Mocaotic](https://osu.ppy.sh/users/9487458) | Indonesian, Chinese |
 | ::{ flag=CA }:: [Mochi-](https://osu.ppy.sh/users/9312734) | Chinese |
-| ::{ flag=CH }:: [momoyo](https://osu.ppy.sh/users/12469536) |  |
+| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) |  |
 | ::{ flag=TW }:: [Muchin](https://osu.ppy.sh/users/9834516) | Chinese |
 | ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | Romanian |
 | ::{ flag=US }:: [Nathan](https://osu.ppy.sh/users/4785223) |  |

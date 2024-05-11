@@ -100,7 +100,7 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 | ::{ flag=GB }:: [mnyui](https://osu.ppy.sh/users/14261540) |  |
 | ::{ flag=ID }:: [Mocaotic](https://osu.ppy.sh/users/9487458) | Indonésien, chinois |
 | ::{ flag=CA }:: [Mochi-](https://osu.ppy.sh/users/9312734) | Chinois |
-| ::{ flag=CH }:: [momoyo](https://osu.ppy.sh/users/12469536) |  |
+| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) |  |
 | ::{ flag=TW }:: [Muchin](https://osu.ppy.sh/users/9834516) | Chinois |
 | ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | Roumain |
 | ::{ flag=US }:: [Nathan](https://osu.ppy.sh/users/4785223) |  |
