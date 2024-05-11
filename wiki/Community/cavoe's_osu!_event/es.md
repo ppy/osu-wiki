@@ -2,6 +2,8 @@
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### cavoe's osu! event
 
 ![Logo de COE](img/logo.png)
