@@ -6,7 +6,7 @@ date: 2024-05-11 20:00:00 +0000
 
 This isn't part of an address or a postal code. **633397** is our latest Featured Artist!
 
-![](https://assets.ppy.sh/artists/xxx/header.jpg)
+![](https://assets.ppy.sh/artists/419/header.jpg)
 
 **633397** is best known for their ominously titled breakcore tunes that incorporate elements from across the genre spectrum. Given [his background in osu!mania](https://osu.ppy.sh/users/11392390), it should come as no surprise that **633397** pulls inspiration from well-known figures in the osu! space like [goreshit](https://osu.ppy.sh/beatmaps/artists/57), [Camellia](https://osu.ppy.sh/beatmaps/artists/31), [Kobaryo](https://osu.ppy.sh/beatmaps/artists/96), and [Kurokotei](https://osu.ppy.sh/users/398275)!
 
@@ -16,7 +16,7 @@ Experience a bit of **633397** for yourself:
 
 <div align="center">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/artists/xxx/release_showcase.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/artists/419/release_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
