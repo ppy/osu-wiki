@@ -144,7 +144,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=MY }:: [Asagi Mutsuki](https://osu.ppy.sh/users/2403621) | Chinese, Malay |
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Cantonese, Chinese |
 | ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Dutch |
-| ::{ flag=DE }:: [HomieLove](https://osu.ppy.sh/users/8693851) | German |
+| ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851) | German |
 | ::{ flag=SE }:: [Invisible O](https://osu.ppy.sh/users/22907037) | Swedish |
 | ::{ flag=HK }:: [iRedi](https://osu.ppy.sh/users/8005579) | Chinese, Cantonese |
 | ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | Cantonese, Chinese |

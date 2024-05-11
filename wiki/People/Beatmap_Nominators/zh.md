@@ -143,7 +143,7 @@ BN 可获得以下特权：
 | ::{ flag=MY }:: [Asagi Mutsuki](https://osu.ppy.sh/users/2403621) | 汉语，马来语 |
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | 粤语，汉语 |
 | ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | 荷兰语 |
-| ::{ flag=DE }:: [HomieLove](https://osu.ppy.sh/users/8693851) | 德语 |
+| ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851) | 德语 |
 | ::{ flag=SE }:: [Invisible O](https://osu.ppy.sh/users/22907037) | 瑞典语 |
 | ::{ flag=HK }:: [iRedi](https://osu.ppy.sh/users/8005579) | 汉语，粤语 |
 | ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | 粤语，汉语 |

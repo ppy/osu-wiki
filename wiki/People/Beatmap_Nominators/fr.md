@@ -143,7 +143,7 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 | ::{ flag=MY }:: [Asagi Mutsuki](https://osu.ppy.sh/users/2403621) | Chinois, malais |
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Cantonais, chinois |
 | ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Néerlandais |
-| ::{ flag=DE }:: [HomieLove](https://osu.ppy.sh/users/8693851) | Allemand |
+| ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851) | Allemand |
 | ::{ flag=SE }:: [Invisible O](https://osu.ppy.sh/users/22907037) | Suédois |
 | ::{ flag=HK }:: [iRedi](https://osu.ppy.sh/users/8005579) | Chinois, cantonais |
 | ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | Cantonais, chinois |

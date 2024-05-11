@@ -142,7 +142,7 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 | ::{ flag=MY }:: [Asagi Mutsuki](https://osu.ppy.sh/users/2403621) | Chino, malayo |
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Cantonés, chino |
 | ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Neerlandés |
-| ::{ flag=DE }:: [HomieLove](https://osu.ppy.sh/users/8693851) | Alemán |
+| ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851) | Alemán |
 | ::{ flag=SE }:: [Invisible O](https://osu.ppy.sh/users/22907037) | Sueco |
 | ::{ flag=HK }:: [iRedi](https://osu.ppy.sh/users/8005579) | Chino, cantonés |
 | ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | Cantonés, chino |
