@@ -20,7 +20,7 @@ Los modders que deseen postularse para los Beatmap Nominators deben:
 
 Los mods enviados deben mostrar que un usuario es capaz de reconocer los beatmaps que deben y no deben ser nominados, además de analizar y mejorar los beatmaps hasta un nivel adecuado para los Beatmap Nominators.
 
-Lo siguiente son las cualidades que se esperan de los Beatmap Nominators en el modding:
+Estas son las cualidades que se esperan de los Beatmap Nominators en el modding:
 
 - **Cobertura de todos los niveles de dificultad comunes.**
   - La mayoría de los beatmaps tendrán una distribución de [dificultades](/wiki/Beatmap/Difficulty) que van desde Easy hasta Expert, por lo que los Beatmap Nominators deben ser competentes en modding de dichas dificultades. No se requieren habilidades de modding en dificultades de niveles extremadamente altos.
