@@ -277,7 +277,7 @@
 | [`准确度 (Accuracy)`](/wiki/Gameplay/Accuracy) | 游玩谱面时的准确度。只会在新分数超过旧分数时计算。 | 所有最好分数经加权后的平均准确度。 |
 | `最大连击数 (Max Combo)` | 此谱面中你获得的最大连击数。 | 所有已游玩谱面中获得的最大连击数。 |
 | [`排名分数 (Ranked Score)`](/wiki/Gameplay/Score/Ranked_score) | 你在这张谱面获得的[最好成绩](/wiki/Gameplay/Score/Ranked_score) | 你在所有已上架谱面中游玩获得分数的总和。每张谱面只计算一次。 |
-| [`总分数 (Total Score)`](/wiki/Gameplay/Score/Total_score) | 不考虑，因为不会影响你的在线排名。 | 与排名分数相同，但会计算 osu! 网站所有可用谱面的游玩分数，包括未游玩完整或失败的谱面。这会影响你的[等级](/wiki/Gameplay/Score/Total_score#Level). |
+| [`总分数 (Total Score)`](/wiki/Gameplay/Score/Total_score) | 不考虑，因为不会影响你的在线排名。 | 与排名分数相同，但会计算 osu! 网站所有可用谱面的游玩分数，包括未游玩完整或失败的谱面。这会影响你的[等级](/wiki/Gameplay/Score/Total_score#等级). |
 | [`表现分 (Performance)`](/wiki/Performance_points) | 此次游玩获得的[未加权表现分](/wiki/Performance_points#为什么我不能获得一张谱面的所有表现分-(pp)？)值。 | 你的总表现分数，以及本次游玩获得的表现分数。 |
 
 ### 成就
