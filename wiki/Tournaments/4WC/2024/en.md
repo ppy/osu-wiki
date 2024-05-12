@@ -51,7 +51,6 @@ The 4 Digit World Cup 2024 is run by various community members.
 
 ## Links
 
-- **[Registration form](https://osu.ppy.sh/oauth/authorize?client_id=21966&redirect_uri=https://script.google.com/macros/s/AKfycbzknySoKogThpPyGuOGOsmsr1hdCITHOQqF3UXQc-orw-9b_BuEjM129uVUBHmNGWBMpg/exec&response_type=code&scope=identify&state=%7B%22step%22%3A%22osu%22%7D)**
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1898593)
 - [Livestream](https://twitch.tv/4wcb)
 - [Information spreadsheet](https://docs.google.com/spreadsheets/d/1gPRSI1lTW8ZMlu_1mnxpVcZyzO2Atbb_2H5nfDt0CXM)
