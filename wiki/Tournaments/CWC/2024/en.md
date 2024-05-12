@@ -100,6 +100,27 @@ The osu!catch World Cup 2024 is run by various community members.
 Captains are listed in **bold**.\
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d212da04da41faffa8d0fc5366952e).
 
+## Mappools
+
+### Qualifiers
+
+**[Download the mappack here (80 MB)](https://packs.ppy.sh/P246%20-%20osu!catch%20World%20Cup%202024%3A%20Qualifiers.zip)**\
+[View the showcase VOD here](https://www.twitch.tv/videos/2143953590)
+
+- No Mod
+  1. [Camellia - POLYBIUS GB SPEEDRUN (Glitchless 100% WR in 0:03:57) (Bunnrei) \[Qualifier NM1 Scorerun\]](https://osu.ppy.sh/beatmapsets/2180208#fruits/4605282)
+  2. [Tsukidono - Luegner -Reboot Code- (Jemzuu) \[Cybernetic Collapse (CWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2180218#fruits/4605315)
+  3. [Imy - Egoist (Aeril) \[Risen's Extra\]](https://osu.ppy.sh/beatmapsets/2004186#fruits/4347529)
+- Hidden
+  1. [mononofrog\_4sk feat. masazi - mayday B (Cut Ver.) (F D Flourite) \[aByss\]](https://osu.ppy.sh/beatmapsets/2180233#fruits/4605338)
+  2. [siqlo - wholeheartedly (autofanboy) \[sincerity\]](https://osu.ppy.sh/beatmapsets/2180220#fruits/4605318)
+- Hard Rock
+  1. [Rohi - Kanata ni Mau wa Sakura no Senritsu (Deif) \[Cherry Blossom Melody\]](https://osu.ppy.sh/beatmapsets/2180222#fruits/4605320)
+  2. [LeaF - I (Greaper) \[Terror\]](https://osu.ppy.sh/beatmapsets/2180230#fruits/4605335)
+- Double Time
+  1. [Risa Yuzuki - Yumemiru Milky Way feat. Aitsuki Nakuru (Dika312) \[Light Overdose (CWC)\]](https://osu.ppy.sh/beatmapsets/2180227#fruits/4605328)
+  2. [lapix - Horizon Blue feat. Kanata.N (-Ken) \[The world beyond the everlasting lines\]](https://osu.ppy.sh/beatmapsets/2180225#fruits/4605325)
+
 ## Ruleset
 
 ### Tournament rules
