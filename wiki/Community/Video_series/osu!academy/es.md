@@ -18,7 +18,7 @@ La serie principal de osu!academy sirve como una introducción general al amplio
 | 1 | [osu! Installation/Account Setup/Beatmap Downloads](https://www.youtube.com/watch?v=0V5GwzmMhpU) | [pishifat](https://osu.ppy.sh/users/3178418) explica cómo instalar osu!, crear una cuenta y descargar nuevos beatmaps. |
 | 2 | [Standard Gameplay/Settings Adjustments](https://www.youtube.com/watch?v=mswLEXK0eDk) | [ztrot](https://osu.ppy.sh/users/6347) repasa el modo de juego osu! y explica cómo ajustar la configuración del juego. |
 | 3 | [Introduction to osu!mania](https://www.youtube.com/watch?v=UAomychlbic) | [LoliFlan](https://osu.ppy.sh/users/447818) cubre los conceptos básicos de osu!mania, incluyendo la jugabilidad, los atajos de teclado, los objetos y mucho más. |
-| 4 | [Introduction to CtB](https://www.youtube.com/watch?v=6WKZE2HPOK8) | [ztrot](https://osu.ppy.sh/users/6347) repasa los conceptos básicos de osu!catch, incluidos los controles, jugabilidad, objetos y más. |
+| 4 | [Introduction to CtB](https://www.youtube.com/watch?v=6WKZE2HPOK8) | [ztrot](https://osu.ppy.sh/users/6347) repasa los conceptos básicos de osu!catch, incluidos los controles, la jugabilidad, los objetos y más. |
 | 5 | [Introduction to Taiko mode](https://www.youtube.com/watch?v=f_uSO2ESCRI) | [Tasha](https://osu.ppy.sh/users/1031958) cubre los conceptos básicos de osu!taiko, incluida la jugabilidad, los controles y más. |
 | 6 | [Multiplayer Basics/Online Users Panel](https://www.youtube.com/watch?v=QPTLyG7O8ak) | [ztrot](https://osu.ppy.sh/users/6347) explica cómo funciona el modo multijugador en osu! y muestra el panel de usuarios en línea. |
 | 7-0 | [Mapping Editor Basics](https://www.youtube.com/watch?v=WKS8Zhut9XU) | [ztrot](https://osu.ppy.sh/users/6347) explica cómo crear un nuevo beatmap y qué hacen los botones y pestañas específicas del editor. |
@@ -40,10 +40,10 @@ La serie principal de osu!academy sirve como una introducción general al amplio
 | 20 | [Video Encoding](https://www.youtube.com/watch?v=exyuI9lv_OI) | [ztrot](https://osu.ppy.sh/users/6347) explica cómo cambiar la tasa de bits del archivo de vídeo de tu beatmap para cumplir con los criterios de clasificación. |
 | 21 | [Basic Live Streaming Guide](https://www.youtube.com/watch?v=59Tm9LvYk3Q) | [ztrot](https://osu.ppy.sh/users/6347) presenta cómo usar OBS para transmitir osu! en Twitch. |
 | 22 | [Supporter and osu!direct](https://www.youtube.com/watch?v=ec0pLh4U8eY) | [ztrot](https://osu.ppy.sh/users/6347) presenta los beneficios de convertirse en un osu!supporter, incluido osu!direct, una superposición que permite descargar beatmaps en el juego. |
-| 23 | [Community Modding](https://www.youtube.com/watch?v=MxlB__wjt9A) | [ztrot](https://osu.ppy.sh/users/6347) y [Shiro](https://osu.ppy.sh/users/113005) explican el concepto del modding comunitario, un de modding basado en el trabajo en equipo. |
+| 23 | [Community Modding](https://www.youtube.com/watch?v=MxlB__wjt9A) | [ztrot](https://osu.ppy.sh/users/6347) y [Shiro](https://osu.ppy.sh/users/113005) explican el concepto del modding comunitario, un modding basado en el trabajo en equipo. |
 | 24 | [Streaming Improvement (Gameplay)](https://www.youtube.com/watch?v=pq33jvMitRk) | [ztrot](https://osu.ppy.sh/users/6347) y [Kyonko Hizara](https://osu.ppy.sh/users/444868) dan consejos sobre cómo mejorar a la hora de jugar streams en osu!. |
 | 25 | *Vídeo eliminado* | *N/A* |
-| 26 | [Closing the Game](https://www.youtube.com/watch?v=y61v2QCHlpY) | [ztrot](https://osu.ppy.sh/users/6347) explica cómo salir de osu!. |
+| 26 | [Closing the Game](https://www.youtube.com/watch?v=y61v2QCHlpY) | [ztrot](https://osu.ppy.sh/users/6347) explica cómo dejar de jugar osu!. |
 | 27 | [Guest Mapping](https://www.youtube.com/watch?v=nXWA1Qh9bT8) | [ztrot](https://osu.ppy.sh/users/6347) cubre el concepto de un mapper invitado y explica cómo crear colaboraciones de beatmaps con otros usuarios. |
 | 28 | [Forum Basics](https://www.youtube.com/watch?v=PEZFOM8NKtw) | [ztrot](https://osu.ppy.sh/users/6347) recorre los foros de osu! y presenta las reglas que se aplican en ellos. |
 | 29 | [Storyboard Basics](https://www.youtube.com/watch?v=uvCRwcyJ4TA) | [ztrot](https://osu.ppy.sh/users/6347) presenta el concepto del storyboarding y demuestra el uso de las herramientas de transformación disponibles en el editor. |
@@ -55,7 +55,7 @@ La serie principal de osu!academy sirve como una introducción general al amplio
 
 ## Academy Bytes - Mapping Techniques
 
-**[Academy Bytes](https://www.youtube.com/playlist?list=PLmWVQsxi34bMq9xkL8affDZpUzSTXa5_r)** es una serie de vídeos cortos realizados por [ztrot](https://osu.ppy.sh/users/6347) en los que se explica la disposición y el uso de técnicas de mapeo útiles y de uso común.
+**[Academy Bytes](https://www.youtube.com/playlist?list=PLmWVQsxi34bMq9xkL8affDZpUzSTXa5_r)** es una serie de vídeos cortos realizada por [ztrot](https://osu.ppy.sh/users/6347) en los que se explica la disposición y el uso de técnicas de mapeo útiles y de uso común.
 
 | Número | Título | Descripción |
 | :-: | :-- | :-- |
