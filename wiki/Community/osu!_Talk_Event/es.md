@@ -9,9 +9,9 @@ tags:
 
 El **osu! Talk Event** es un evento organizado por [osu! University](/wiki/Community/Discord_servers/osu!_University) en el que diferentes personas realizan charlas sobre diversos asuntos, que giran en torno a un tema específico para cada iteración.
 
-Los oradores realizan sus charlas en un canal escenario en el [servidor de Discord osu!](/wiki/Community/osu!_Discord_server). Durante el evento, se abren hilos de debate en el canal `#community-meetings`.
+Los oradores realizan sus charlas en un canal escenario en el [servidor de Discord osu!](/wiki/Community/osu!_Discord_server). Durante el evento, se abren hilos de discusión en el canal `#community-meetings`.
 
-Las charlas también se transmiten en vivo en el [canal de Twitch osu! University](https://twitch.tv/osuuniversity) y las grabaciones de cada charla están disponibles en su [canal de YouTube](https://www.youtube.com/c/osuuniversity).
+Las charlas también se transmiten en vivo en el [canal de Twitch de osu! University](https://twitch.tv/osuuniversity) y las grabaciones de cada charla están disponibles en su [canal de YouTube](https://www.youtube.com/c/osuuniversity).
 
 Para participar como orador en una de estas charlas, o recomendar a alguien que sería apto para dar una charla, completa el [formulario de nominación para orador](https://forms.gle/HCD6ac8JwURGh8zx8).
 
