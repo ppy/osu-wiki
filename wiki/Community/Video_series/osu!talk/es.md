@@ -4,7 +4,7 @@
 
 **osu!talk** es una serie de podcasts organizada por [ztrot](https://osu.ppy.sh/users/6347) con [deadbeat](https://osu.ppy.sh/users/128370) como copresentador. Se centra en entrevistar a varios usuarios de la comunidad de osu!. Además de esto, puede haber algunas discusiones grupales sobre diferentes cosas que suceden en la comunidad, como cambios en el [osu! team](/wiki/People/osu!_team), o a menudo se discuten temas duraderos, como el overmapping.
 
-La serie de podcasts está preparada para que cualquiera pueda participar en la sesión en directo y hacer preguntas durante la parte de [preguntas y respuestas](https://en.wikipedia.org/wiki/Q&A) del episodio. No se retransmiten en directo en ningún sitio, ya que preferimos animar a los usuarios a que se unan y participen ellos mismos.
+La serie de podcasts está preparada para que cualquiera pueda participar en la sesión en directo y hacer preguntas durante la parte de [preguntas y respuestas](https://en.wikipedia.org/wiki/Q&A) del episodio. No se transmiten en vivo en ningún sitio, ya que preferimos animar a los usuarios a que se unan y participen ellos mismos.
 
 ## Episodios
 
@@ -13,7 +13,7 @@ La serie de podcasts está preparada para que cualquiera pueda participar en la 
 | 1 | [Charles445](https://osu.ppy.sh/users/85000) | GMT/BN | [Enlace](https://www.youtube.com/watch?v=e8lhBtcPbjw) |
 | 2 | [MMzz](https://osu.ppy.sh/users/128993) | QAT | [Enlace](https://www.youtube.com/watch?v=fBBQ4bwNZcY) |
 | 3 | [Loctav](https://osu.ppy.sh/users/71366) | Gestor de la comunidad y de los torneos | [Enlace](https://www.youtube.com/watch?v=gxZtxmUvDoQ) |
-| 4 | [dkun](https://osu.ppy.sh/users/154400) | BAT/miembro retirado del osu!monthly | [Enlace](https://www.youtube.com/watch?v=_nFI71fG7-c) |
+| 4 | [dkun](https://osu.ppy.sh/users/154400) | BAT/miembro retirado de osu!monthly | [Enlace](https://www.youtube.com/watch?v=_nFI71fG7-c) |
 | 5 | [LuigiHann](https://osu.ppy.sh/users/1079) | Skinner habitual | [Enlace](https://www.youtube.com/watch?v=OVjq9ko83t0) |
 | 6 | [JAKACHAN](https://osu.ppy.sh/users/718696) | Jugador pro de osu! | [Enlace](https://www.youtube.com/watch?v=WXFMggx94e0) |
 | 7 | [Daru](https://osu.ppy.sh/users/32480) | osu!painter | [Enlace](https://www.youtube.com/watch?v=eBFaLRXmfYc) |
