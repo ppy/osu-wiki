@@ -32,7 +32,7 @@ El **cavoe's osu! event** (***COE***) es una convención anual de osu! organizad
 
 ## Historia
 
-Como un evento llamado simplemente «osu! event» con solo unas 35 personas y que duró 3 días, COE comenzó en 2017 como una «reunión nacional holandesa con algunos visitantes de otros países» en el café De Hangar en Eindhoven.
+Como un evento llamado simplemente «osu! event» con solo unas 35 personas y que duró 3 días, COE comenzó en 2017 como una «reunión nacional neerlandés con algunos visitantes de otros países» en el café De Hangar en Eindhoven.
 
 La iteración de 2018 adquirió notoriedad con más de 300 asistentes y una duración de 10 días, presentando a algunos jugadores conocidos como ::{ flag=KR }:: [Chocomint](https://osu.ppy.sh/users/124493) (en ese entonces Cookiezi), ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691) (en ese entonces BeasttrollMC), y ::{ flag=PL }:: [WubWoofWolf](https://osu.ppy.sh/users/39828).
 
@@ -40,4 +40,4 @@ COE 2019 trasladó sus operaciones a Brabanthallen, en 's-Hertogenbosch (tambié
 
 Tanto la iteración de 2020 como la de 2021 se cancelaron debido a la [pandemia de COVID-19](https://es.wikipedia.org/wiki/Pandemia_de_COVID-19).
 
-En 2022, COE se hizo aún más grande y contó con 750 personas, una sala de juegos de ritmo, más socios, incluso más eventos escénicos y la introducción de las «cuevas de jugadores», salas privadas que los asistentes podían alquilar con anticipación. También introdujo un torneo de osu! con un premio total de 3000 euros.
+En 2022, COE se hizo aún más grande y contó con 750 personas, una sala de juegos de ritmo, más socios, incluso más eventos escénicos y la introducción de las «gamer caves», salas privadas que los asistentes podían alquilar con anticipación. También introdujo un torneo de osu! con un premio total de 3000 euros.
