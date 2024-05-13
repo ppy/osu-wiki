@@ -45,7 +45,7 @@ La primera reunión con la comunidad de osu! se llevó a cabo el 19 de septiembr
 | 12 | [6 de marzo de 2022](https://youtu.be/HimCHAnPCCY) | [Summary news post](https://osu.ppy.sh/home/news/2022-03-07-community-meetings-recap) | Tablas de clasificación, compatibilidad cruzada y preparación para el lanzamiento de osu!(lazer) |
 | 13 | [20 de marzo de 2022](https://youtu.be/2Cp9rm0rNPQ) | [Notas de la reunión](https://docs.google.com/document/d/1X6ak_3CXxTYQLz71yhSTsKkl7cm74iaCQ7wecDkE6uQ) | Actualización del desarrollo, preguntas variadas de la comunidad |
 | 14 | [3 de abril de 2022](https://youtu.be/UWT18LaoeKw) | [Notas de la reunión](https://docs.google.com/document/d/1LzKpXwIKxcpYgEAK4zdEIVuMNJckoo9SWN-UoAvOto8) | Revisión de los resultados de la encuesta de la puntuación, preguntas variadas de la comunidad |
-| 15 | [12 de febrero de 2023](https://youtu.be/idmI03A8jR8) | [Notas de la reunión](https://docs.google.com/document/d/13cMCrQN4vvaQFA59BmFHk6D7PH9fwT2ANmhkm5cmzxE) | mecánicas de juego de osu!(lazer) y equilibrio |
+| 15 | [12 de febrero de 2023](https://youtu.be/idmI03A8jR8) | [Notas de la reunión](https://docs.google.com/document/d/13cMCrQN4vvaQFA59BmFHk6D7PH9fwT2ANmhkm5cmzxE) | Mecánicas de juego de osu!(lazer) y equilibrio |
 | 16 | [7 de julio de 2023](https://youtu.be/bocgaVISSfg) | [Publicación de resumen](https://osu.ppy.sh/home/news/2023-07-11-community-meeting-recap) | Finalizando el sistema de la puntuación en osu!(lazer) |
 | 17 | [21 de agosto de 2023](https://youtu.be/O2j00E6AVW8) | [Video resumen](https://youtu.be/crkT0aaowKQ) | Cambiar el enfoque del desarrollo para que el juego esté listo para otorgar puntos de rendimiento |
 
