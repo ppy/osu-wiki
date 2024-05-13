@@ -4,9 +4,9 @@
 
 ## Edición original de la revista (2011)
 
-La edición original del osu!monthly, fundada por ::{ flag=US }:: [jjrocks](https://osu.ppy.sh/users/30985) y ::{ flag=GB }:: [Corin](https://osu.ppy.sh/users/639270), se publicó de marzo a octubre de 2011. Comenzó como un documento de Google, pero rápidamente evolucionó a un formato PDF parecido a una revista impresa. Esta edición fue bien conocida por su amplia variedad de artículos, así como por su dirección artística distintiva y creativa.
+La edición original de osu!monthly, fundada por ::{ flag=US }:: [jjrocks](https://osu.ppy.sh/users/30985) y ::{ flag=GB }:: [Corin](https://osu.ppy.sh/users/639270), se publicó de marzo a octubre de 2011. Comenzó como un documento de Google, pero rápidamente evolucionó a un formato PDF parecido a una revista impresa. Esta edición fue bien conocida por su amplia variedad de artículos, así como por su dirección artística distintiva y creativa.
 
-Puedes encontrar más información en el [sitio web de jjrocks](https://web.archive.org/web/20201112030400/http://jjwanda.com/projects/osumonthly.html) (archivado). Varios enlaces sobre el proyecto se encuentran en la parte inferior del [sitio web del osu!monthly](https://osumonthly.com/).
+Puedes encontrar más información en el [sitio web de jjrocks](https://web.archive.org/web/20201112030400/http://jjwanda.com/projects/osumonthly.html) (archivado). Varios enlaces sobre el proyecto se encuentran en la parte inferior del [sitio web de osu!monthly](https://osumonthly.com/).
 
 | Nombre | Fecha de publicación |
 | :-- | :-- |
@@ -19,7 +19,7 @@ Puedes encontrar más información en el [sitio web de jjrocks](https://web.arch
 
 ## Reanudación de la revista (2017-2018)
 
-Inspirado en la primera edición del osu!monthly, ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) y ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) fundaron un nuevo equipo con el objetivo de continuar el proyecto donde lo dejaron. Se publicaron nuevas versiones de la revista desde octubre de 2017 hasta febrero de 2018.
+Inspirado en la primera edición de osu!monthly, ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) y ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) fundaron un nuevo equipo con el objetivo de continuar el proyecto donde lo dejaron. Se publicaron nuevas versiones de la revista desde octubre de 2017 hasta febrero de 2018.
 
 Puedes encontrar más información en [su sitio web](https://osumonthly.com/).
 
