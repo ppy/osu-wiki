@@ -9,9 +9,9 @@ tags:
 
 El **osu! Talk Event** es un evento organizado por [osu! University](/wiki/Community/Discord_servers/osu!_University) donde diferentes personas realizaron charlas sobre diversos temas. Esta fue la primera iteración del evento con el tema «overcoming obstacles».
 
-Los oradores dieron sus charlas en un canal escenario en el [servidor de Discord osu!](/wiki/Community/osu!_Discord_server). Durante el evento se abrieron hilos de debate en el canal `#community-meetings`.
+Los oradores dieron sus charlas en un canal escenario en el [servidor de Discord osu!](/wiki/Community/osu!_Discord_server). Durante el evento se abrieron hilos de discusión en el canal `#community-meetings`.
 
-Las charlas también se transmitieron en vivo por [canal de Twitch osu! University](https://twitch.tv/osuuniversity) y las grabaciones de cada charla están disponibles en en su [canal de YouTube](https://www.youtube.com/c/osuuniversity).
+Las charlas también se transmitieron en vivo por [canal de Twitch de osu! University](https://twitch.tv/osuuniversity) y las grabaciones de cada charla están disponibles en en su [canal de YouTube](https://www.youtube.com/c/osuuniversity).
 
 Para participar como orador en una iteración futura del evento, o recomendar a alguien que sería apto para dar una charla, completa el [formulario de nominación para orador](https://forms.gle/HCD6ac8JwURGh8zx8).
 
