@@ -83,7 +83,7 @@ El NAT vigila a los posibles candidatos del NAT durante largos períodos de tiem
 
 Los miembros actuales o anteriores del NAT que demuestren competencia en las tareas estructurales descritas anteriormente, hasta el punto en que sus contribuciones actuales o planificadas sean indispensables y superen con creces su necesidad como evaluador, pueden optar por unirse a la categoría estructural. Esto es juzgado por los líderes del NAT y manejado caso por caso.
 
-Antes de realizar dicha adición, se comprueba la validez de la misma con el resto del NAT en caso de objeciones. Si no surgen problemas, el miembro en cuestión estará sujeto a diferentes expectativas de actividad según su situación específica. Si su contribución a las tareas estructurales se considera deslucida o innecesaria en algún momento posterior, nuevamente a juicio de los líderes de la NAT, se les retirará de esta categoría.
+Antes de realizar dicha adición, se comprueba la validez de la misma con el resto del NAT en caso de objeciones. Si no surgen problemas, el miembro en cuestión estará sujeto a diferentes expectativas de actividad según su situación específica. Si su contribución a las tareas estructurales se considera deslucida o innecesaria en algún momento posterior, nuevamente a juicio de los líderes del NAT, se les retirará de esta categoría.
 
 ## Salida del NAT
 
