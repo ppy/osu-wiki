@@ -10,7 +10,7 @@ tags:
 
 El **cavoe's osu! event 2023** (***COE 2023***) fue una convención de osu! organizada en **Brabanthallen en 's-Hertogenbosch (Den Bosch), Países Bajos**. Fue la quinta entrega del cavoe's osu! event.
 
-## Calendario
+## Cronograma
 
 | Evento | Marca de tiempo (UTC+2) |
 | --: | :-- |
@@ -26,14 +26,14 @@ El **cavoe's osu! event 2023** (***COE 2023***) fue una convención de osu! orga
 | Proyección de *Your Name.* en una pantalla de cine | 1/8/2023 (20:30-22:30) |
 | Viaje a Efteling | 2/8/2023 (10:00-20:00) |
 | Bracket principal de COEGTS | 2/8/2023 (13:00-22:00) |
-| Último superviviente | 3/8/2023 (12:30) |
+| Survivor | 3/8/2023 (12:30) |
 | Exhibición de osu!catch | 3/8/2023 (14:30) |
 | *CS:GO* Wingman tournament (segundo escenario) | 3/8/2023 (16:00-19:00) |
 | Concurso de preguntas y respuestas | 3/8/2023 (17:30) |
 | Karaoke (segundo escenario) | 3/8/2023 (19:00) |
 | Octavos de final-cuartos de final del torneo 1v1 de osu! | 4/8/2023 (12:30-23:00) |
 | Foto grupal con todos | 4/8/2023 (16:00) |
-| Foto grupal con los mappers | 4/8/2023 (16:30) |
+| Foto grupal con mappers | 4/8/2023 (16:30) |
 | Foto grupal con neerlandeses | 4/8/2023 (16:30) |
 | Almuerzo de sushi | 5/8/2023 (12:00-14:30) |
 | Foto grupal con alemanes | 5/8/2023 (17:30) |
@@ -73,7 +73,7 @@ COE 2023 estuvo dirigido por varios miembros de la comunidad y organizaciones as
 
 ![Banner de COEGTS 2023](/wiki/Tournaments/GTS/COEGTS_2023/img/banner.png)
 
-The Global Taiko Showdown team hosted a 1v1 osu!taiko LAN tournament at the event, with a fully custom-made mappool complete with original compositions for each beatmap. osu!taiko players of any rank were able participate, so long as they could attend for the duration of the tournament.
+El equipo del Global Taiko Showdown organizó un torneo LAN de 1v1 de osu!taiko en el evento, con una mappool totalmente personalizada con composiciones originales para cada beatmap. Podían participar jugadores de osu!taiko de cualquier rango, siempre y cuando estuvieran presentes durante todo el torneo.
 
 #### Premios
 
@@ -94,11 +94,11 @@ The Global Taiko Showdown team hosted a 1v1 osu!taiko LAN tournament at the even
 - [Servidor de Discord GTS](https://discord.com/invite/3mGC3HB)
 - [Twitter del GTS](https://twitter.com/GTSosu)
 
-### Torneo 1v1 de osu! en COE
+### Torneo de 1v1 de osu! en COE
 
-*Página principal: [Torneo 1v1 de osu! en COE 2023](/wiki/Tournaments/COE/COE_2023)*
+*Página principal: [Torneo de 1v1 de osu! en COE 2023](/wiki/Tournaments/COE/COE_2023)*
 
-![Banner del torneo 1v1 de osu! en COE](/wiki/Tournaments/COE/COE_2023/img/banner.png)
+![Banner del torneo de 1v1 de osu! en COE](/wiki/Tournaments/COE/COE_2023/img/banner.png)
 
 Un torneo LAN de 1v1 organizado por el equipo de COE.
 
@@ -131,7 +131,7 @@ Un torneo LAN de 1v1 organizado por el equipo de COE.
 | Evento | Marca de tiempo (UTC+2) | Descripción |
 | :-- | :-- | :-- |
 | Exhibición de *Elite Beat Agents* | 31 de julio (15:00) | Exhibición de [Elite Beat Agents](https://es.wikipedia.org/wiki/Elite_Beat_Agents) para la Nintendo DS, la serie de juegos que junto con [Osu! Tatakae! Ouendan](https://es.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) fue la inspiración de osu! |
-| Último superviviente | 3 de agosto (12:30) | Un juego de trivia en el que se eliminaban a los jugadores que más se alejaban del número correcto |
+| Survivor | 3 de agosto (12:30) | Un juego de trivia en el que se eliminaban a los jugadores que más se alejaban del número correcto |
 | Exhibición de osu!catch | 3 de agosto (14:30) | Jugadores experimentados en el evento de exhibición para osu!catch |
 | Concurso de preguntas y respuestas | 3 de agosto (17:30) | Un concurso de preguntas y respuestas conducido por ::{ flag=FI }:: [Nyanaro](https://osu.ppy.sh/users/4157611) |
 
