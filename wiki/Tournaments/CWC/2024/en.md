@@ -104,13 +104,13 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
 
 ### Qualifiers
 
-**[Download the mappack here (80 MB)](https://packs.ppy.sh/P246%20-%20osu!catch%20World%20Cup%202024%3A%20Qualifiers.zip)**\
+**[Download the mappack here (80 MB)](https://packs.ppy.sh/P246%20-%20osu!catch%20World%20Cup%202024%3A%20Qualifiers.zip?1715708394)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2143953590)
 
 - No Mod
   1. [Camellia - POLYBIUS GB SPEEDRUN (Glitchless 100% WR in 0:03:57) (Bunnrei) \[Qualifier NM1 Scorerun\]](https://osu.ppy.sh/beatmapsets/2180208#fruits/4605282)
   2. [Tsukidono - Luegner -Reboot Code- (Jemzuu) \[Cybernetic Collapse (CWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2180218#fruits/4605315)
-  3. [Imy - Egoist (Aeril) \[Risen's Extra\]](https://osu.ppy.sh/beatmapsets/2004186#fruits/4347529)
+  3. [Imy - Egoist (autofanboy) \[Risen's Extra (CWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2181321#osu/4608191)
 - Hidden
   1. [mononofrog\_4sk feat. masazi - mayday B (Cut Ver.) (F D Flourite) \[aByss\]](https://osu.ppy.sh/beatmapsets/2180233#fruits/4605338)
   2. [siqlo - wholeheartedly (autofanboy) \[sincerity\]](https://osu.ppy.sh/beatmapsets/2180220#fruits/4605318)
