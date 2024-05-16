@@ -1,4 +1,4 @@
-# quy định nội dung nhạc
+# Quy định nội dung nhạc
 
 Với nhiều thể loại nhạc khác nhau, hầu hết các bài hát/nhạc cover đều có thể sử dụng trong osu!, nhưng hãy cung cấp các bài nhạc không chứa những nội dung liên quan như :
 
