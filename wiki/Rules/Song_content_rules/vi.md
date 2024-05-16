@@ -5,7 +5,7 @@ Với nhiều thể loại nhạc khác nhau, hầu hết các bài hát/nhạc 
 * Liên quan nặng nề đến vấn đề chính trị
 * Phân biệt hoặc chia rẽ chủng tộc
 * Cực kỳ ồn ào và đến mức không thể chịu được 
-* Đã được sửa đổi (chứa âm thanh đã bị cắt)hoặc móp méo(như chỉnh EQ tránh bản quyền)bài nhạc không theo mong muốn của tác giả
+* Đã được sửa đổi (chứa âm thanh đã bị cắt) hoặc móp méo (như chỉnh EQ tránh bản quyền) bài nhạc không theo mong muốn của tác giả
 
 Hãy lưu ý rằng các bài nhạc không phù hợp với trẻ em [`sẽ phải tuân theo các quy định khác nhau`](https://osu.ppy.sh/wiki/vi/Rules/Explicit_content).
 
