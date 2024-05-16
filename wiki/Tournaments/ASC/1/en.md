@@ -9,7 +9,7 @@ tags:
 
 > Let the rhythm of the waters decide your fortunes.
 
-The **Asia Suiji Cup: Rhythmus Aquarum** (***ASC***) is a three-on-three asian countries restricted double-elimination osu!taiko tournament hosted by . Each participant registered individually and was assigned to a random team. It is the first instalment of the Asia Suiji Cup, a successor, and inspired by the [Asian's Campionships](/wiki/Tournaments/o!mAC) and [SEA Champion](/wiki/Tournaments/SEAC) series.
+The **Asia Suiji Cup: Rhythmus Aquarum** (***ASC***) is a three-on-three asian countries restricted double-elimination osu!mania 4-key tournament hosted by ::{ flag=MY }:: [ERA Leon](https://osu.ppy.sh/users/13382147) and ::{ flag=VN }:: [MashedPotato](https://osu.ppy.sh/users/10494860). Each participant registered individually and was assigned to a random team. It is the first instalment of the Asia Suiji Cup, a successor, and inspired by the [Asian's Campionships](/wiki/Tournaments/o!mAC) and [SEA Champion](/wiki/Tournaments/SEAC) series.
 
 ## Tournament schedule
 
