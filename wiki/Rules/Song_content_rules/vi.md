@@ -1,26 +1,24 @@
-# Quy định nội dung bài hát
+# quy định nội dung nhạc
 
-Với nhiều loại nhạc có sẵn, hầu hết các bản nhạc đều phù hợp để sử dụng trong osu!, miễn là chúng không:
+Với nhiều thể loại nhạc khác nhau, hầu hết các bài hát/nhạc cover đều có thể sử dụng trong osu!, nhưng hãy cung cấp các bài nhạc không chứa những nội dung liên quan như :
 
-* Mang nặng tính chính trị
-* Phân biệt chủng tộc hoặc chia rẽ chủng tộc 
-* vô cùng và ồn ào không thể chịu nổi
-* Được sửa đổi để chứa âm thanh bị cắt hoặc biến dạng ngoài ý muốn của nghệ sĩ
+* Liên quan nặng nề đến vấn đề chính trị
+* Phân biệt hoặc chia rẽ chủng tộc
+* Cực kỳ ồn ào và đến mức không thể chịu được 
+* Đã được sửa đổi (chứa âm thanh đã bị cắt)hoặc móp méo(như chỉnh EQ tránh bản quyền)bài nhạc không theo mong muốn của tác giả
 
-Xin lưu ý rằng các bài hát có nội dung không lành mạnh [`sẽ phải tuân theo các quy định khác nhau`](https://osu.ppy.sh/wiki/vi/Rules/Explicit_content)
+Hãy lưu ý rằng các bài nhạc không phù hợp với trẻ em [`sẽ phải tuân theo các quy định khác nhau`](https://osu.ppy.sh/wiki/vi/Rules/Explicit_content).
 
-## Nội dung nào được phân loại là nội dung "mang tính chính trị"?
+## Nội dung nào được phân loại là nội dung "mang tính chính trị nặng nề"?
 
-Vì lợi ích của việc duy trì một trò chơi có nhịp điệu một cách nghiêm ngặt và phù hợp với [`Quy tắc cộng đồng`](https://osu.ppy.sh/wiki/vi/Rules#community-rules)số 3,nội dung bị ban quản lý cho là mang tính chính trị quá mức sẽ không được phép.
+Vì lợi ích của việc giữ một trò chơi về nhịp điệu chỉ liên quan đến nhịp điệu một cách nghiêm khắc và phù hợp với [`Quy tắc cộng đồng`](https://osu.ppy.sh/wiki/vi/Rules#community-rules)#3, các nội dung nhạc mà chính quyền cho là liên quan đến mặt chính trị một cách thái quá thì không được phép sử dụng.
 
-Chúng tôi không tuân theo một "mục đích" cụ thể nào của một phổ chính trị - osu! hoàn toàn phi chính trị và chúng tôi muốn mọi người tận hưởng niềm vui chứ không gây ra mối thù hay tranh cãi về chính trị.
+Chúng tôi không tuân thủ bất kỳ "chủ định" cụ thể nào liên quan đến phạm vi chính trị - osu! là nơi hoàn toàn phi chính trị và chúng tôi muốn mọi người vui vẻ cùng nhau, chứ không phải nơi để gây ra mối thù hằn hay cãi nhau về chính trị.
 
-## Điều gì xảy ra nếu nội dung của tôi không ổn?
+## Chuyện gì sẽ xảy ra nếu bản nhạc của tôi không ổn hoặc nằm trong diện bị cấm như đã nêu ở trên?
 
-Bất kỳ beatmap nào chứa bản nhạc không được phép sẽ bị xóa khỏi trang web
+Bất kỳ beatmap nào có chứa nhạc được nêu như trên sẽ bị xóa khỏi website.
 
-Mỗi lần nội dung gửi của bạn bị xóa, thành viên chủ trì của [`Nhóm đánh giá đề cử`](https://osu.ppy.sh/wiki/vi/People/Nomination_Assessment_Team)(NAT) hoặc [`Nhóm kiểm duyệt toàn cầu`](https://osu.ppy.sh/wiki/vi/People/Global_Moderation_Team)(GMT) chịu trách nhiệm về việc xóa đó sẽ đưa ra lời giải thích kèm theo lý do biện minh cho việc xóa đó.
+Bạn có thể tranh luận với họ qua PM (chat riêng với họ) nếu bạn muốn, hoặc nghe ý kiến của những người khác để chứng minh được sự phù hợp của bài hát đấy. Nếu bạn vẫn không tìm được một điểm chung nào để đối đầu trong việc này, yêu cầu của bạn có thể sẽ bị đưa lên đến việc các thành viên của NAT phải bỏ phiếu nhất trí, để có được một quyết định chung xem được rằng bài nhạc của bạn có được chấp nhận hay không.
 
-Bạn có thể tranh luận vấn đề này với họ thông qua PM nếu muốn hoặc tìm kiếm ý kiến ​​của người khác để chứng minh cho tuyên bố của bạn về tính phù hợp của bản nhạc. Nếu bạn vẫn không thể tìm thấy điểm chung trên mặt trận này, khiếu nại của bạn có thể được chuyển lên thành một cuộc bỏ phiếu đồng thuận giữa các thành viên NAT hiện tại, những người sẽ quyết định chung xem nội dung của bạn có được chấp nhận hay không.
-
-Ngoại trừ các nội dung tải lên không phù hợp nghiêm trọng, tất cả người dùng đều có **thời gian gửi một lần** trước khi các hình phạt được đưa ra do tính chất không chắc chắn của phán quyết này. Sau khi khoảng thời gian này trôi qua, những người dùng liên tục chọn tải lên các bản nhạc không phù hợp sẽ phải đối mặt với [`thời gian im lặng`](https://osu.ppy.sh/wiki/vi/Silence) kéo dài 42 giờ cùng với việc bài gửi của họ bị xóa.
+Ngoại trừ các bản nhạc hoặc nội dung tải lên không phù hợp đến mức nghiêm trọng, người dùng sẽ bị  **one submission leeway** trước khi hình phạt đưa ra do tính chất không chắc chắn của phán quyết này, sau khi "leeway" đã trôi qua, nếu người dùng vẫn tiếp tục lựa chọn tải lên các bài không phù hợp sẽ đối mặt với một khoảng thời gian [`im lặng`](https://osu.ppy.sh/wiki/vi/Silence) lên đến 42 giờ cùng với việc bài nhạc của họ bị gỡ 
