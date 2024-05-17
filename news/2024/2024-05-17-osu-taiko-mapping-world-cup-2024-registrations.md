@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!taiko Mapping World Cup 2024: Registrations Open!"
-date: 2024-05-19 18:00:00 +0000
+date: 2024-05-17 18:00:00 +0000
 ---
 
 Attention all osu!taiko mappers, gather up your fellow countrymen and prepare for a showdown never seen before!
