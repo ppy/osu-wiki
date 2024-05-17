@@ -4,7 +4,7 @@ title: "osu!taiko Mapping World Cup 2024: Registrations Open!"
 date: 2024-05-17 18:00:00 +0000
 ---
 
-Attention all osu!taiko mappers, gather up your fellow countrymen and prepare for a showdown never seen before!
+Attention all osu!taiko mappers, gather your fellow countrymen and prepare for a showdown never seen before!
 
 ![](/wiki/Contests/TMWC/2024/img/banner.png)
 
@@ -12,7 +12,7 @@ The osu!taiko Mapping World Cup is a country-based, multi-stage osu!taiko mappin
 
 Team sizes will range from 3 to 6 people, with the ability to have multiple teams per country depending on the amount of sign-ups.
 
-If you want to read more about the rules, contest format, schedule, and juding criteria, please check out this contest's [wiki page](/wiki/Contests/TMWC/2024) and [forum post](https://osu.ppy.sh/community/forums/topics/1865674) for more information.
+If you want to read more about the rules, contest format, schedule, and judging criteria, please check out this contest's [wiki page](/wiki/Contests/TMWC/2024) and [forum post](https://osu.ppy.sh/community/forums/topics/1865674) for more information.
 
 ### Registrations
 
@@ -40,6 +40,6 @@ The amount of contest points awarded will be determined by the number of mappers
 
 Please note that this is just a quick overview of the tournament. If you want to participate, please read the full rules, which can be found on the [wiki page](/wiki/Contests/TMWC/2024), or you can ask questions in our [Discord server](https://discord.gg/A33s9SU9Bt).
 
-Thanks for making it this far! We hope you are excited to share your passion for mapping through this contest and we encourage everyone to sign up. Best of luck!
+Thanks for making it this far! We hope you are excited to share your passion for mapping through this contest, and we encourage everyone to sign up. Best of luck!
 
 —ikin5050 & Hivie
