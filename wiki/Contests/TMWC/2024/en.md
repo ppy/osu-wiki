@@ -48,16 +48,6 @@ Registrations will be open from May 17 until June 8, 2024.
 | Round 6 judging phase | 2024-09-07 until 2024-09-21 |
 | Results | 2024-09-21 |
 
-## Organisation
-
-The osu!taiko Mapping World Cup 2024 is run by various community members.
-
-| Position | Member(s) |
-| :-- | :-- |
-| Hosts | ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) |
-| Designer | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) |
-| Judges | ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996), ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851), ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097), ::{ flag=US }:: [op45667](https://osu.ppy.sh/users/21973491), ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721), ::{ flag=JP }:: [TKS](https://osu.ppy.sh/users/940878), ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) |
-
 ## Prizes
 
 | Placing | Prize(s) |
@@ -68,13 +58,23 @@ The osu!taiko Mapping World Cup 2024 is run by various community members.
 
 ![TMWC 2024 badge](img/badge.png "osu!taiko Mapping World Cup 2024 winning team badge")
 
+## Organisation
+
+The osu!taiko Mapping World Cup 2024 is run by various community members.
+
+| Position | Member(s) |
+| :-- | :-- |
+| Hosts | ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) |
+| Designer | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) |
+| Judges | ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996), ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851), ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097), ::{ flag=US }:: [op45667](https://osu.ppy.sh/users/21973491), ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721), ::{ flag=JP }:: [TKS](https://osu.ppy.sh/users/940878), ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) |
+
 ## Links
 
 - [Contest news article](https://osu.ppy.sh/home/news/2024-05-17-osu-taiko-mapping-world-cup-2024-registrations)
 - [Contest forum post](https://osu.ppy.sh/community/forums/topics/1865674)
 - [Contest listing](https://osu.ppy.sh/community/contests/212)
 - [Discord server](https://discord.com/invite/A33s9SU9Bt)
-- [Registration form](https://forms.gle/8da1riW77rrTUd2R9)
+- [**Registration form**](https://forms.gle/8da1riW77rrTUd2R9)
 
 ## Ruleset
 
@@ -107,4 +107,4 @@ The osu!taiko Mapping World Cup 2024 is run by various community members.
 - **Ranking Criteria (5):** Points will be assigned based on how well the map follows the ranking criteria.
 - **Structure (10):** Points will be assigned based on consistency and how well the difficulty curve is constructed.
 - **Creativity (10):** Points will be assigned based on how the submission uses creative and fitting elements to make itself stand out.
-- **Relevance and modifier (15):** Points will be assigned based on how well the map fits the song and how well the round modifier is incorporated.
+- **Relevance and Modifier (15):** Points will be assigned based on how well the map fits the song and how well the round modifier is incorporated.
