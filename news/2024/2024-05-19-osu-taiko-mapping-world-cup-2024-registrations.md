@@ -32,7 +32,7 @@ The top 3 countries that reign supreme will be awarded with the following prizes
 - **2nd place:** Cash prize and contest points.
 - **3rd place:** Cash prize and contest points.
 
-![](/wiki/Contests/TMWC/2024/img/badge.png "osu!taiko Mapping World Cup 2024 Winning Team")
+![TMWC 2024 badge](/wiki/Contests/TMWC/2024/img/badge.png "osu!taiko Mapping World Cup 2024 winning team badge")
 
 The amount of contest points awarded will be determined by the number of mappers participating in the contest, as detailed in the [contest points key](/wiki/Contests/Contest_points#points-key).
 

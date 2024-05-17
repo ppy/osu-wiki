@@ -66,6 +66,8 @@ The osu!taiko Mapping World Cup 2024 is running by various community members.
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Cash prize, contest points (pending) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Cash prize, contest points (pending) |
 
+![TMWC 2024 badge](img/badge.png "osu!taiko Mapping World Cup 2024 winning team badge")
+
 ## Links
 
 - [Contest news article](https://osu.ppy.sh/home/news/2024-05-19-osu-taiko-mapping-world-cup-2024-registrations)
