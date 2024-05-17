@@ -10,7 +10,7 @@ Attention all osu!taiko mappers, gather up your fellow countrymen and prepare fo
 
 The osu!taiko Mapping World Cup is a country-based, multi-stage osu!taiko mapping contest on a scale unlike anything seen previously in the osu!taiko scene. Countries will battle it out over multiple rounds of mapping, completing specific challenges along the way, to decide who is definitively the best mapping country out there.
 
-Team sizes will range from 3 to 6 people, and multiple teams per country will be allowed in case more people sign up, so please don't feel intimidated or hesitant to share your passion for mapping through signing up to this contest!
+Team sizes will range from 3 to 6 people, with the ability to have multiple teams per country depending on the amount of sign-ups.
 
 If you want to read more about the rules, contest format, schedule, and juding criteria, please check out this contest's [wiki page](/wiki/Contests/TMWC/2024) and [forum post](https://osu.ppy.sh/community/forums/topics/1865674) for more information.
 
@@ -40,6 +40,6 @@ The amount of contest points awarded will be determined by the number of mappers
 
 Please note that this is just a quick overview of the tournament. If you want to participate, please read the full rules, which can be found on the [wiki page](/wiki/Contests/TMWC/2024), or you can ask questions in our [Discord server](https://discord.gg/A33s9SU9Bt).
 
-Thanks for making it this far, and best of luck to everyone participating!
+Thanks for making it this far! We hope you are excited to share your passion for mapping through this contest and we encourage everyone to sign up. Best of luck!
 
 —ikin5050 & Hivie
