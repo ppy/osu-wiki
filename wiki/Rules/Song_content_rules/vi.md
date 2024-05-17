@@ -19,7 +19,7 @@ Chúng tôi không tuân thủ bất kỳ "chủ định" cụ thể nào liên 
 
 Bất kỳ beatmap nào có chứa nhạc được nêu như trên sẽ bị xóa khỏi website.
 
-Mỗi lần khi bài nhạc của bạn đã bị từ chối và gỡ bỏ, bạn sẽ được giải thích lí do vì sao bởi các thành viên chủ trì của [`Nhóm đánh giá đề cử`](/wiki/en/People/Nomination_Assessment_Team)(NAT) hoặc [`Nhóm kiểm duyệt toàn cầu`](/wiki/en/People/Global_Moderation_Team)(GMT) chịu trách nhiệm cho việc gỡ bỏ nó và sẽ đưa ra lí do biện minh cho việc đấy.
+Mỗi lần khi bài nhạc của bạn đã bị từ chối và gỡ bỏ, bạn sẽ được giải thích lí do vì sao bởi các thành viên chủ trì của [`Nhóm đánh giá đề cử`](/wiki/People/Nomination_Assessment_Team)(NAT) hoặc [`Nhóm kiểm duyệt toàn cầu`](/wiki/People/Global_Moderation_Team)(GMT) chịu trách nhiệm cho việc gỡ bỏ nó và sẽ đưa ra lí do biện minh cho việc đấy.
 
 Bạn có thể tranh luận với họ qua PM (chat riêng với họ) nếu bạn muốn, hoặc nghe ý kiến của những người khác để chứng minh được sự phù hợp của bài hát đấy. Nếu bạn vẫn không tìm được một điểm chung nào để đối đầu trong việc này, yêu cầu của bạn có thể sẽ bị đưa lên đến việc các thành viên của NAT phải bỏ phiếu nhất trí, để có được một quyết định chung xem được rằng bài nhạc của bạn có được chấp nhận hay không.
 
