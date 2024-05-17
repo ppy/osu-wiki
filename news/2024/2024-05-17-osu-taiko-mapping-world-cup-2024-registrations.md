@@ -8,7 +8,7 @@ Attention all osu!taiko mappers, gather your fellow countrymen and prepare for a
 
 ![](/wiki/Contests/TMWC/2024/img/banner.png)
 
-The osu!taiko Mapping World Cup is a country-based, multi-stage osu!taiko mapping contest on a scale unlike anything seen previously in the osu!taiko scene. Countries will battle it out over multiple rounds of mapping, completing specific challenges along the way, to decide who is definitively the best mapping country out there.
+The osu!taiko Mapping World Cup is a country-based, multi-stage osu!taiko mapping contest on a scale unlike anything seen previously in the osu!taiko scene. Countries will battle it out over multiple rounds of mapping, completing specific challenges along the way, to decide which is definitively the best mapping country out there.
 
 Team sizes will range from 3 to 6 people, with the ability to have multiple teams per country depending on the amount of sign-ups.
 
