@@ -16,7 +16,7 @@ If you want to read more about the rules, contest format, schedule, and judging 
 
 ### Registrations
 
-Registrations are open from now until June 8th! To register, please fill out [this form](https://forms.gle/8da1riW77rrTUd2R9), and join the contest's [Discord server](https://discord.gg/A33s9SU9Bt) to stay up to date with the latest news and announcements.
+Registrations are open from now until June 8th! To register, please fill out [this form](https://forms.gle/8da1riW77rrTUd2R9), and join the contest's [Discord server](https://discord.com/invite/A33s9SU9Bt) to stay up to date with the latest news and announcements.
 
 If you have issues with submitting your registration through the form, please [send ikin5050 a message](https://osu.ppy.sh/community/chat?sendto=4007649).
 
@@ -32,13 +32,13 @@ The top 3 countries that reign supreme will be awarded with the following prizes
 - **2nd place:** Cash prize and contest points.
 - **3rd place:** Cash prize and contest points.
 
-![TMWC 2024 badge](/wiki/Contests/TMWC/2024/img/badge.png "osu!taiko Mapping World Cup 2024 winning team badge")
+![TMWC 2024 badge](/wiki/Contests/TMWC/2024/img/badge.png)
 
 The amount of contest points awarded will be determined by the number of mappers participating in the contest, as detailed in the [contest points key](/wiki/Contests/Contest_points#points-key).
 
 ---
 
-Please note that this is just a quick overview of the tournament. If you want to participate, please read the full rules, which can be found on the [wiki page](/wiki/Contests/TMWC/2024), or you can ask questions in our [Discord server](https://discord.gg/A33s9SU9Bt).
+Please note that this is just a quick overview of the tournament. If you want to participate, please read the full rules, which can be found on the [wiki page](/wiki/Contests/TMWC/2024), or you can ask questions in our [Discord server](https://discord.com/invite/A33s9SU9Bt).
 
 Thanks for making it this far! We hope you are excited to share your passion for mapping through this contest, and we encourage everyone to sign up. Best of luck!
 

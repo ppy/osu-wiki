@@ -14,9 +14,9 @@ The **osu!taiko Mapping World Cup 2024** (***TMWC 2024***) is a country-based, m
 
 *Note: This schedule is an estimate and is subject to change.*
 
-Each round will consist of a 2-week mapping phase and a 2-week judging phase, except for round 5, as it's inended to be a "speedmap" round.
+Each round will consist of a 2-week mapping phase and a 2-week judging phase, except for round 5, which is intended to be a "speedmap" round.
 
-Registrations will be open from 2024-05-17 until 2024-06-08.
+Registrations will be open from May 17 until June 8, 2024.
 
 ### Stage 1
 
@@ -50,7 +50,7 @@ Registrations will be open from 2024-05-17 until 2024-06-08.
 
 ## Organisation
 
-The osu!taiko Mapping World Cup 2024 is running by various community members.
+The osu!taiko Mapping World Cup 2024 is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -73,7 +73,7 @@ The osu!taiko Mapping World Cup 2024 is running by various community members.
 - [Contest news article](https://osu.ppy.sh/home/news/2024-05-17-osu-taiko-mapping-world-cup-2024-registrations)
 - [Contest forum post](https://osu.ppy.sh/community/forums/topics/1865674)
 - [Contest listing](https://osu.ppy.sh/community/contests/212)
-- [Discord server](https://discord.gg/A33s9SU9Bt)
+- [Discord server](https://discord.com/invite/A33s9SU9Bt)
 - [Registration form](https://forms.gle/8da1riW77rrTUd2R9)
 
 ## Ruleset
@@ -81,8 +81,8 @@ The osu!taiko Mapping World Cup 2024 is running by various community members.
 ### Format
 
 - Assuming that 16 teams will be formed, round 1 will have all 16 teams participate, and half will be eliminated. Round 2 will feature 8 teams, and half will be eliminated. If more teams end up participating, the format will be adjusted so every team will get to participate.
-- Every round’s judging criteria will be the same.
-- Rounds will have varying numbers of maps required to be produced. Each map in each round will be produced according to a specific modifier that focuses on what skills we expect mappers to display. You do not need to adhere to this theme but will lose points for failing to do so.
+- Every round's judging criteria will be the same.
+- Rounds will have varying numbers of maps required to be produced. Each map in each round will be produced according to a specific modifier that focuses on what skills mappers are expected to display. You do not need to adhere to this theme but will lose points for failing to do so.
 - When choosing the songs you will map during a round, the songs **must** be chosen from the [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists). If a specific song is provided, you must map only that song.
 - Each team must produce exactly **one** difficulty for each song unless otherwise stated by the round specifications. If more than one difficulty is submitted, only the difficulty with the highest star rating will be judged.
 - Custom additions such as hitsounds and storyboards are allowed, but **will not be considered in the judging process**. Judges will only get access to a `.osz` file containing the audio, background, and the singular `.osu` difficulty. You will not get points for background choice.
@@ -90,15 +90,15 @@ The osu!taiko Mapping World Cup 2024 is running by various community members.
 ### Rules
 
 - **The [osu! community rules](/wiki/Rules) are in place at all times during this contest.**
-- **The [osu!taiko ranking criteria](/wiki/Ranking_criteria/osu!taiko) and the [general ranking criteria](/wiki/Ranking_criteria) are in effect for this contest.** No submission must be intentionally unrankable. Mistakes happen and points will be deducted for them, but submissions that cannot be ranked without major changes will be disqualified.
-- **A team must consist of 3—6 players from the same country.** For countries that do not have enough members to participate, teams will be formed by the organization team based on geographical location. Countries are defined as per the flag on user pages.
-- **At least one (1) team member must join the contest's [Discord server](https://discord.gg/A33s9SU9Bt)**
-- **At least two (2) mappers must collaborate per song.** This is a team-based competition. Collaboration is necessary to determine the strengths of each participating country. We want to avoid situations amongst teams where some members get "carried". Collaboration does not include anything other than mapping, which is defined as placing notes, or creating slider velocity changes.
+- **The [osu!taiko ranking criteria](/wiki/Ranking_criteria/osu!taiko) and the [general ranking criteria](/wiki/Ranking_criteria) are in effect for this contest.** No submission may be intentionally unrankable. Mistakes happen and points will be deducted for them, but submissions that cannot be ranked without major changes will be disqualified.
+- **A team must consist of 3–6 players from the same country.** For countries that do not have enough members to participate, teams will be formed by the organisation team based on geographical location. Countries are defined as per the flag on user pages.
+- **At least one (1) team member must join the contest's [Discord server](https://discord.com/invite/A33s9SU9Bt)**
+- **At least two (2) mappers must collaborate per song.** This is a team-based competition. Collaboration is necessary to determine the strengths of each participating country. This is to avoid situations amongst teams where some members get "carried". Collaboration does not include anything other than mapping, which is defined as placing notes, or creating slider velocity changes.
 - **At least three (3) mappers must participate in each phase.** Same as above, this is to prevent, for example, a 3-man team but only 2 members creating all maps.
 - **A mapper on the winning team must participate in a minimum of 2 out of the 6 maps produced to receive their rewards for the contest.**
 - **Submissions will not be accepted after the deadlines set for each round.**
-- **Captains will be determined by the organization Team and given a list of potential teammates to choose from.** If this person does not want to be captain, a replacement will be selected. The captains will be responsible for selecting their teammates. If more than 6 people sign up for a single country, more than one team may be fielded. In this case a captain will be delegated for each team.
-- **We expect everyone to conduct themselves with a sporting attitude and with integrity. If you share your creations outside of your team channel before judging is complete, or attempt any form of leaking confidential information, you will be disqualified.**
+- **Captains will be determined by the organisation team and given a list of potential teammates to choose from.** If this person does not want to be captain, a replacement will be selected. The captains will be responsible for selecting their teammates. If more than 6 people sign up for a single country, more than one team may be fielded. In this case a captain will be delegated for each team.
+- **Everyone is expected to conduct themselves with a sporting attitude and with integrity. If you share your creations outside of your team channel before judging is complete, or attempt any form of leaking confidential information, you will be disqualified.**
 
 ### Judging criteria
 
