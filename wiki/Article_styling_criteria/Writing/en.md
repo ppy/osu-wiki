@@ -237,9 +237,9 @@ Some words have variants. Their preferred spelling must be used and is as follow
 
 These words must be spelt as follows (spacing must match):
 
-- `NoMods`, `NoMod`, or `NM`
-- `FreeMods`, `FreeMod`, or `FM`
-- `Tiebreaker`
+- `No Mod`, or `NM`
+- `Free Mod`, or `FM`
+- `Tiebreaker` (not a proper noun, i.e. not capitalised within sentences)
 
 ## Abbreviations, acronyms, and initialisms
 

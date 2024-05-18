@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: f82541d2d4203d1cfee8c27d9dbf8977c7398145
 ---
 
 # Veto d'une beatmap

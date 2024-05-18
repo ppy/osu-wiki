@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 6d3e4eaa4341b58ce924a7800aeadfe1c5879368
 tags:
   - NAT
   - equipo de evaluación de nominaciones
@@ -10,15 +12,15 @@ tags:
 
 El **Nomination Assessment Team** (***NAT***) es un equipo que modera a los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*) y garantiza que el lado del beatmapping de osu! se mantenga funcional.
 
-Los miembros del NAT se distinguen por su título de usuario rojo anaranjado, la insignia del [grupo de usuarios](/wiki/People/User_group) que dice `NAT` y su nombre de usuario rojo en el juego. Tienen permisos de moderación en todo el sitio, como el [Global Moderation Team](/wiki/People/Global_Moderation_Team) (*GMT*), y también poseen la capacidad de [nominar](/wiki/Beatmap_ranking_procedure#nominations) y [restablecer nominaciones](/wiki/Beatmap_ranking_procedure#restablecimientos-de-nominaciones) en beatmaps, como [miembros completos](/wiki/People/Beatmap_Nominators#beatmap-nominators-completos) de los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*). Para la mayoría de los propósitos, los miembros del NAT son BN con diferentes responsabilidades. Por lo tanto, todas las [reglas para los BN](/wiki/People/Beatmap_Nominators/Rules) y [expectativas](/wiki/People/Beatmap_Nominators/Expectations) se aplican a los miembros del NAT, con algunas excepciones para la actividad.
+Los miembros del NAT se distinguen por su título de usuario rojo anaranjado, la insignia del [grupo de usuarios](/wiki/People/User_group) que dice `NAT` y su nombre de usuario rojo en el juego. Tienen permisos de moderación en todo el sitio, como el [Global Moderation Team](/wiki/People/Global_Moderation_Team) (*GMT*), y también poseen la capacidad de [nominar](/wiki/Beatmap_ranking_procedure#nominations) y [restablecer nominaciones](/wiki/Beatmap_ranking_procedure#restablecimientos-de-nominaciones) en los beatmaps, como los [miembros completos](/wiki/People/Beatmap_Nominators#beatmap-nominators-completos) de los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*). Para la mayoría de los propósitos, los miembros del NAT son BN con diferentes responsabilidades. Por lo tanto, todas las [reglas para los BN](/wiki/People/Beatmap_Nominators/Rules) y [expectativas](/wiki/People/Beatmap_Nominators/Expectations) se aplican a los miembros del NAT, con algunas excepciones para la actividad.
 
 **Todos los miembros del Nomination Assessment Team juran respetar [el código de conducta del contribuidor](/wiki/Rules/Contributor_code_of_conduct) además de las [reglas de la comunidad](/wiki/Rules) normales.**
 
-***Nota: Para reportar a un miembro del NAT por mala conducta o por infringir el código de conducta del contribuidor, comuníquese con el [equipo de soporte de cuentas](/wiki/People/Account_support_team#support@ppy.sh).***
+***Nota: Para reportar a un miembro del NAT por mala conducta o por infringir el código de conducta del contribuidor, comunícate con el [equipo de soporte de cuentas](/wiki/People/Account_support_team#support@ppy.sh).***
 
 ## Responsabilidades
 
-El NAT es responsable de una variedad de tareas relacionadas con el mapping, que se dividen en dos categorías: **evaluador** y **estructural**. Cada categoría describe las responsabilidades de un miembro del NAT, así como los requisitos y expectativas para cada tipo de tarea.
+El NAT es responsable de una variedad de tareas relacionadas con el mapping, que se dividen en dos categorías: **evaluación** y **estructural**. Cada categoría describe las responsabilidades de un miembro del NAT, así como los requisitos y expectativas para cada tipo de tarea.
 
 ### Evaluación
 
@@ -28,14 +30,14 @@ Los miembros del NAT asignados a la categoría de evaluación (también conocido
 - **Nominación**: Nominar al menos 2 beatmaps por mes. Esto ayuda a los evaluadores a mantenerse actualizados con la comunidad de mapping/modding cuando evalúan a los Beatmap Nominators actuales y aspirantes.
   - La actividad de modding y otras contribuciones se pueden usar como métrica de respaldo al evaluar la actividad.
 
-Los miembros del NAT responsables de esta categoría tienen una gran demanda debido al gran volumen de [solicitudes de BN](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator). Por lo tanto, ocasionalmente buscan nuevos miembros para unirse a ellos y ayudar a aliviar la carga de trabajo. Esta es la razón por la cual los BN que desean unirse al NAT son juzgados principalmente en función de su capacidad para evaluar, y la mayoría de los miembros del NAT se unen y siguen siendo responsables de la categoría de evaluación.
+Los miembros del NAT responsables de esta categoría tienen una gran demanda debido al gran volumen de [solicitudes para convertirse en un BN](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator). Por lo tanto, ocasionalmente buscan nuevos miembros para unirse a ellos y ayudar a aliviar la carga de trabajo. Esta es la razón por la cual los BN que desean unirse al NAT son juzgados principalmente en función de su capacidad para evaluar, y la mayoría de los miembros del NAT se unen y siguen siendo responsables de la categoría de evaluación.
 
 ### Estructural
 
 Los miembros del NAT asignados a la categoría estructural no son responsables de ningún modo de juego específico, a pesar de que se les permite nominar beatmaps de su modo de juego previamente asignado. Están obligados a mantener:
 
 - **Comunicación**: Promover la transparencia y mantener buenas relaciones no solo con el resto de la comunidad de mapping/modding, sino también dentro del propio NAT. Esto incluye, entre otros, hacer anuncios, participar en debates sobre propuestas, hacer/responder preguntas a través de encuestas y actualizar los [criterios de clasificación](/wiki/Ranking_criteria), así como otra documentación.
-- **Desarrollo**: Desarrollar y mantener herramientas y sitios web para ayudar a mejorar el proceso de clasificación (como [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier), [Aiess](https://github.com/Naxesss/Aiess), o [el sitio web de gestión de BN](https://bn.mappersguild.com/home)).
+- **Desarrollo**: Desarrollar y mantener herramientas y sitios web para ayudar a mejorar el proceso de clasificación (como [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier), [Aiess](https://github.com/Naxesss/Aiess), o [el sitio web de gestión de los BN](https://bn.mappersguild.com/home)).
 - **Moderación**: Manejar los reportes de los usuarios y evaluar la conducta inapropiada de los Beatmap Nominators, así como procesar las revisiones de contenido de los beatmaps. Esta subcategoría es un esfuerzo conjunto entre el NAT y el GMT.
 - **Mantenimiento misceláneo**: Incluye pero no se limita a:
   - Manejar los [vetos](/wiki/People/Beatmap_Nominators/Beatmap_Veto).
@@ -54,7 +56,7 @@ Es necesario dividir la carga de trabajo del NAT en dos categorías principales 
 
 Dependiendo de su categoría, cada miembro del NAT tiene diferentes requisitos de actividad. Se espera que los miembros responsables de las evaluaciones evalúen constantemente tanto a los solicitantes como a los BN actuales, al mismo tiempo que se mantienen actualizados con la escena de mapping/modding por su cuenta a través del modding. Se espera que los miembros asignados a la categoría estructural mantengan partes clave del proceso de clasificación caso por caso.
 
-Cada 2 meses, los miembros del NAT deben enviar un resumen de su actividad en el [sitio web de gestión de BN](https://bn.mappersguild.com/). Este resumen, junto con otras métricas como la actividad de nominación y evaluación, se usa para determinar si un miembro aún está activo y si debe permanecer en el grupo. Los [líderes del equipo](#liderazgo-del-nat) luego discutirán la actividad de cada miembro y decidirán si deben permanecer en el NAT.
+Cada 2 meses, los miembros del NAT deben enviar un resumen de su actividad en el [sitio web de gestión de los BN](https://bn.mappersguild.com/). Este resumen, junto con otras métricas como la actividad de nominación y evaluación, se usa para determinar si un miembro aún está activo y si debe permanecer en el grupo. Los [líderes del equipo](#liderazgo-del-nat) luego discutirán la actividad de cada miembro y decidirán si deben permanecer en el NAT.
 
 Los líderes del equipo se enfrentarán a los miembros del NAT inactivos o a los miembros que no proporcionen un resumen de manera oportuna. Si no es factible una adecuada resolución a su inactividad, serán dados de baja del NAT. Los miembros de la categoría de evaluación que trabajan en otros proyectos relacionados con el mapping pueden pasar a la categoría estructural para reflejar mejor su contribución.
 
@@ -131,18 +133,17 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
+| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | Chino |
 | ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Ruso |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonés, chino |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portugués, español |
 | ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Neerlandés |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Alemán |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Chino |
-| ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581) | Coreano |
 | ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
 | ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Chino, cantonés |
 | ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Chino |
-| ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | Español, francés |
 
 #### osu!taiko
 
@@ -169,9 +170,10 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 | :-- | :-- |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamita |
 | ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | Chino |
+| ::{ flag=US }:: [Hugged](https://osu.ppy.sh/users/12589220) | Turco |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesio |
+| ::{ flag=DZ }:: [Scotty](https://osu.ppy.sh/users/11085809) | Árabe, francés |
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Catalán, español |
-| ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | Danés |
 
 ### Estructural
 
@@ -181,6 +183,7 @@ Los siguientes miembros del NAT son exclusivamente responsables de las tareas es
 | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Manejo de discusiones internas, asuntos y documentación |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Mantenimiento de [Aiess](https://github.com/Naxesss/Aiess) y [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) |
+| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Mantenimiento de los criterios de clasificación y moderación del mapping/modding |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Desarrollo del [sitio web de gestión de los BN](https://bn.mappersguild.com) |
 
 Los siguientes miembros del NAT son principalmente evaluadores, pero también contribuyen a tareas estructurales:
@@ -194,7 +197,6 @@ Los siguientes miembros del NAT son principalmente evaluadores, pero también co
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Liderazgo del NAT, desarrollo del [sitio web de gestión de los BN](https://bn.mappersguild.com) y del [plugin de MV de osu!taiko](https://github.com/Hiviexd/MVTaikoChecks) |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | Organización de eventos para BN |
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Desarrollo del [plugin de MV de osu!mania](https://github.com/MChecaH/ManiaCheck) |
-| ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | Desarrollo del [plugin de MV de osu!mania](https://github.com/MChecaH/ManiaCheck) |
 
 ---
 
