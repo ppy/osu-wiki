@@ -10,7 +10,7 @@ Music made specifically for [**TEST Open**](https://osu.ppy.sh/community/forums/
 
 As ***TEST* Open** not-so-subtlely implies, this tournament was created to explore the competitive side of the new client. Its inaugural iteration had a new mappool titled "Lazer Mod (LM)", where a different osu!(lazer)-specific mod was highlighted each week.
 
-The tournament reaches its conclusion this weekend (which you can witness live [here](https://www.twitch.tv/test_open)), so there's no better time than now to showcase the 5 [osu! originals](/wiki/osu!_originals) that were developed for this experimental project!
+The tournament reaches its conclusion this weekend, so there's no better time than now to showcase the 5 [osu! originals](/wiki/osu!_originals) that were developed for this experimental project!
 
 All of the original songs from **TEST Open** can be found on the [**TEST Open**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/420)!
 
