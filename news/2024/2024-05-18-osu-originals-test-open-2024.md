@@ -4,7 +4,7 @@ title: osu! originals - TEST Open 2024
 date: 2023-05-18 19:00:00 +0000
 ---
 
-Music made specifically for [**TEST Open**](https://osu.ppy.sh/community/forums/topics/1889282) — a 3v3 tournament played on [osu!(lazer)](https://osu.ppy.sh/wiki/Client/Release_stream/Lazer) — is now part of our Featured Artist library!
+Music made specifically for [**TEST Open**](https://osu.ppy.sh/community/forums/topics/1889282) — a 3v3 tournament played on [osu!(lazer)](/wiki/Client/Release_stream/Lazer) — is now part of our Featured Artist library!
 
 ![](https://assets.ppy.sh/artists/420/header.jpg)
 
