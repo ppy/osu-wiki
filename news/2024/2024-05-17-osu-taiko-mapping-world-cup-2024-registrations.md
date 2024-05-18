@@ -14,7 +14,7 @@ Team sizes will range from 3 to 6 people, with the ability to have multiple team
 
 If you want to read more about the rules, contest format, schedule, and judging criteria, please check out this contest's [wiki page](/wiki/Contests/TMWC/2024) and [forum post](https://osu.ppy.sh/community/forums/topics/1865674) for more information.
 
-### Registrations
+## Registrations
 
 Registrations are open from now until June 8th! To register, please fill out [this form](https://forms.gle/8da1riW77rrTUd2R9), and join the contest's [Discord server](https://discord.com/invite/A33s9SU9Bt) to stay up to date with the latest news and announcements.
 
