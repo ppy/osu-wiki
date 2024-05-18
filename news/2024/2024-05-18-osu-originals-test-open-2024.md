@@ -25,7 +25,7 @@ Test out these tunes for yourself:
 ### [kanemiko - Twilight of the Abyss](https://osu.ppy.sh/beatmapsets/2170063) mapped by [captin1](https://osu.ppy.sh/users/689997), [Aeril](https://osu.ppy.sh/users/4334976), and [toybot](https://osu.ppy.sh/users/2848604)
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/420/TEST%20Originals/kanemiko%20-%20Twilight%20of%20the%20Abyss.osz">
+    <source src="https://assets.ppy.sh/artists/420/TEST%20Originals/kanemiko%20-%20Twilight%20of%20the%20Abyss.mp3">
 </audio>
 
 ### [Aethral - Phoenix](https://osu.ppy.sh/beatmapsets/2177371) mapped by [Sing](https://osu.ppy.sh/users/3795679)
