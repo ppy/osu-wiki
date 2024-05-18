@@ -21,7 +21,7 @@ Sự khác biệt chính giữa tài khoản cá nhân và tài khoản bot là 
 - Tài khoản cá nhân có thể gửi 10 tin nhắn mỗi 5 giây.
 - Tài khoản bot có thể gửi 300 tin nhắn mỗi 60 giây.
 
-Các giới  trên chỉ áp dụng cho tin nhắn riêng tư, `#multiplayer`, và `#spectator`. Tài khoản bot không được phép gửi tin nhắn trong các kênh khác, hay những tin nhắn riêng tư không được yêu cầu.
+Các giới hạn trên chỉ áp dụng cho tin nhắn riêng tư, `#multiplayer`, và `#spectator`. Tài khoản bot không được phép gửi tin nhắn trong các kênh khác, hay những tin nhắn riêng tư không được yêu cầu.
 
 ## Tạo tài khoản bot
 
