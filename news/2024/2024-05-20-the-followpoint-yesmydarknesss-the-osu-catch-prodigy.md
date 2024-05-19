@@ -90,5 +90,6 @@ Let's start now, shall we?
 Thanks to YesMyDarknesss for joining us and answering these questions! I hope you as a reader enjoyed this newspost as well :D
 
 Please look forward to the next interview with osu!taiko #4 player, [Eriha](https://osu.ppy.sh/users/16320311), which will be posted in two weeks!
+You can also have a look at our [Twitter account](https://twitter.com/The_Followpoint) while waiting for a new interview! Who knows, maybe we'll even post some behind the scenes stuff? 👀
 
 —MegaMix
