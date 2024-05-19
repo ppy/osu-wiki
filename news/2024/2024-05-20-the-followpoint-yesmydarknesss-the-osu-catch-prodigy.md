@@ -16,6 +16,7 @@ If you have no idea what this "special set" thing is, we recommend checking out 
 Let's start now, shall we?
 
 (Note: **Some of the answers were reworded for a better reading**.)
+
 ---
 
 *Let's start with an introduction, how would you introduce yourself to people who don't know you?*
@@ -88,6 +89,6 @@ Let's start now, shall we?
 
 Thanks to YesMyDarknesss for joining us and answering these questions! I hope you as a reader enjoyed this newspost as well :D
 
-Please look forward to the next interview with osu!taiko #5 player, [Eriha](https://osu.ppy.sh/users/16320311), which will be posted in two weeks!
+Please look forward to the next interview with osu!taiko #4 player, [Eriha](https://osu.ppy.sh/users/16320311), which will be posted in two weeks!
 
 —MegaMix
