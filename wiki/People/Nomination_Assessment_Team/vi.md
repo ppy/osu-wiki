@@ -26,7 +26,6 @@ Những thành viên của NAT được phân vào bộ phận đánh giá (hay 
 
 - **Đánh giá**: Đánh giá năng suất và trạng thái hoạt động của Đề cử viên và những người đang ứng cử vào vị trí này. *Xem [Đánh giá](/wiki/People/Nomination_Assessment_Team/Evaluations) để biết thêm chi tiết.*
 - **Đề cử**: Đề cử ít nhất 2 beatmap mỗi tháng. Điều này giúp những người đánh giá bắt kịp với cộng đồng mapping/modding trong khi xem xét những Đề cử viên hiện tại và những Đề cử viên có triển vọng.
-
   - Các hoạt động modding hay đóng góp khác có thể được dùng để làm tiêu chí phụ khi đánh giá hoạt động.
 
 Bộ phận này rất cần thành viên vì số lượng [đơn ứng cử vào nhóm Đề cử viên](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator) rất lớn. Vì vậy, thi thoảng họ sẽ tìm thành viên mới để giúp họ giảm gánh nặng công việc. Đây là lý do vì sao bất cứ Đề cử viên nào muốn gia nhập NAT đều được xem xét dựa trên khả năng đánh giá của họ, và đa số thành viên NAT gia nhập và tiếp tục công việc của mình ở bộ phận đánh giá.
@@ -116,7 +115,7 @@ Trưởng nhóm NAT phụ trách những nhiệm vụ sau:
   - Làm cầu nối giữa osu! team, NAT, và cộng đồng mapping, liên tục thông báo về bất kỳ thay đổi, lo ngại hay yêu cầu nào.
   - Vận động tham gia vào các cuộc thảo luận nội bộ lẫn bên ngoài bằng cách chủ động thu hút tất cả các bên vào tham gia, đồng thời tạo điều kiện cho các ý kiến, quan điểm khác nhau được kết hợp và tạo ra phương hướng hành động thiết thực.
   - Khuyến khích những ý tưởng mới hoặc ý tưởng vốn đã được để xuất nhưng có thể dễ dàng bị lạc mất trong lúc thảo luận/giữa các đề xuất khác.
-- *Giải quyết vấn đề:** Chủ động tham gia vào những quyết định quan trọng và xử lý những vấn đề nhạy cảm được chính đội ngũ hoặc cộng đồng nêu ra.
+- **Giải quyết vấn đề:** Chủ động tham gia vào những quyết định quan trọng và xử lý những vấn đề nhạy cảm được chính đội ngũ hoặc cộng đồng nêu ra.
 
 ## Thành viên của đội ngũ
 
