@@ -16,7 +16,7 @@ The devs have collected all the feedback submitted by the community so far, and 
 
 ### Smaller changes
 
-- **Various performance improvements.** The osu!framework is constantly worked on by the devs to assure adequate performance is reached on as many systems as possible. Among those is a bug fix in the Direct3D renderer, so please give it a try if you've had issues with it!
+- **Various performance improvements.** The osu!framework is constantly being worked on by the devs to assure adequate performance is reached on as many systems as possible. Among those is a bug fix in the Direct3D renderer, so please give it a try if you've had issues with it!
 - **Slider head hits won't show up in the timing distribution graph with Classic mod.** This fixes an issue where the timing distribution graph had multiple colours (many judgement types) on the same columns with Classic mod enabled.
 - **Country flags can now be hidden with a placeholder icon.** Upon user demand, this is for content creators who experience issues in some jurisdictions due to laws about flags. We're no vexillologists or lawyers, but it's safe to say flag laws can be tricky.
 - **Startup volume has been reduced for new installations.** There is now one less game in the world that blows your ears off when running it for the first time.
