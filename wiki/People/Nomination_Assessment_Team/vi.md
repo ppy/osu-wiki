@@ -41,7 +41,7 @@ Thành viên NAT nằm trong bộ phận tổ chức sẽ không phụ trách m�
   - Duy trì [diễn đàn Quản lý Beatmap](https://osu.ppy.sh/community/forums/115).
   - Đánh giá mức độ ảnh hưởng của những đợt đặt lại đề cử.[^đánh-giá-mức-độ]
  
-Thành viên NAT chủ yếu xử lý ở bộ phận này sẽ đảm bảo rằng các Đề cử viên và những thành viên khác trong cộng đồng mapping/modding được cung cấp đầy đủ thông tin và ý kiến của họ được lắng nghe, đồng thời việc duy trì các thành phần thiết yếu để giữ mọi thứ trong lĩnh vực mapping/modding hoạt động bình thường. Những người thuộc bộ phận này là những người đánh giá nhiều kinh nghiệm muốn tập trung vào mảng quản lý thuộc lĩnh vực mapping/modding. 
+Thành viên NAT chủ yếu xử lý ở bộ phận này sẽ đảm bảo rằng các Đề cử viên và những thành viên khác trong cộng đồng mapping/modding được cung cấp đầy đủ thông tin và ý kiến của họ được lắng nghe, đồng thời việc duy trì các thành phần thiết yếu để giữ mọi thứ trong lĩnh vực mapping/modding hoạt động bình thường. Những người thuộc bộ phận này là những người đánh giá nhiều kinh nghiệm muốn tập trung vào mảng quản lý thuộc lĩnh vực mapping/modding.
 
 ---
 
@@ -90,7 +90,7 @@ Khi một thành viên NAT quyết định rời đi, họ có thể nhận đư
 
 - **Danh hiệu [osu! Alumni](/wiki/People/osu!_Alumni)**: Danh hiệu được trao cho thành viên dành ít nhất 1 năm làm việc trong NAT hoặc có những đóng góp nổi bật trong khoảng thời gian ngắn hơn.
 - **osu!supporter**: Cùng điều kiện với danh hiệu osu! Alumni, các thành viên sẽ được trao một thẻ osu!supporter có hiệu lực kéo dài gấp đôi số thời gian họ làm việc trong NAT.
--  **Quyền truy cập nội bộ**: Trong trường hợp đặc biệt, thành viên có thể được phép tiếp tục truy cập vào kênh thảo luận nội bộ của NAT tùy vào những đóng góp của họ trong quá khứ và khả năng tạo ra tác động tích cực cho các cuộc thảo luận trong tương lai. Đặc quyền này có thể bị tước bỏ nếu thành viên đó không tham gia thảo luận hoặc liên tục gây ra vấn đề.
+- **Quyền truy cập nội bộ**: Trong trường hợp đặc biệt, thành viên có thể được phép tiếp tục truy cập vào kênh thảo luận nội bộ của NAT tùy vào những đóng góp của họ trong quá khứ và khả năng tạo ra tác động tích cực cho các cuộc thảo luận trong tương lai. Đặc quyền này có thể bị tước bỏ nếu thành viên đó không tham gia thảo luận hoặc liên tục gây ra vấn đề.
 
 Cựu thành viên NAT hiện đang có quyền truy cập nội bộ bao gồm:
 
@@ -144,13 +144,13 @@ Trưởng nhóm NAT phụ trách những nhiệm vụ sau:
 | Name | Ngôn ngữ được sử dụng |
 | :-- | :-- |
 
-### Bộ phận tổ chức:
+### Bộ phận tổ chức
 
 Những thành viên NAT sau đây chỉ đảm nhận công việc của mảng tổ chức, không phụ trách một gamemode cụ thể dù được phép đề cử beatmap thuộc game mode họ đã được phân công từ trước:
 
 | Tên | Nhiệm vụ |
 | :-- | :-- |
-| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Xử lý thảo luận, công việc và tài liệu nội bộ  |
+| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Xử lý thảo luận, công việc và tài liệu nội bộ |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Bảo trì [Aiess](https://github.com/Naxesss/Aiess) and [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Quản lý Tiêu chuẩn Xếp hạng |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Phát triển [trang Quản lý Đề cử viên](https://bn.mappersguild.com) |
