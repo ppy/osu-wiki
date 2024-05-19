@@ -9,7 +9,7 @@ tags:
 
 **Đội ngũ Đánh giá Đề cử** (***NAT***) là những người quản lý các [Đề cử viên](/wiki/People/Beatmap_Nominators) (*BN*) và đảm bảo những lĩnh vực liên quan đến beatmap trong osu! hoạt động bình thường.
 
-Thành viên của NAT được nhận diện bởi danh hiệu màu đỏ cam, huy hiệu dành cho [nhóm người dùng](/wiki/People/User_group) có đề tên `NAT`, và tên người dùng hiện màu đỏ trong game. Họ có quyền quản lý toàn bộ website như [Đội ngũ Kiểm duyệt viên](/wiki/People/Global_Moderation_Team) (*GMT*), và có khả năng [đề cử](/wiki/Beatmap_ranking_procedure#nominations) và [đặt lại đề cử](/wiki/Beatmap_ranking_procedure#nomination-resets) của beatmap, giống như những [thành viên chính thức](/wiki/People/Beatmap_Nominators#full-beatmap-nominators) của [Đội ngũ Đề cử viên](/wiki/People/Beatmap_Nominators) (*BNs*). Nhìn chung thì những thành viên của NAT chính là những Đề cử viên với những chức năng, nhiệm vụ khác nhau. Vì thế, mọi [quy tắc](/wiki/People/Beatmap_Nominators/Rules) và [tiêu chuẩn riêng](/wiki/People/Beatmap_Nominators/Expectations) của Đề cử viên đều áp dụng cho thành viên của NAT với một số ngoại lệ nhất định để hoạt động.
+Thành viên của NAT được nhận diện bởi danh hiệu màu đỏ cam, huy hiệu dành cho [nhóm người dùng](/wiki/People/User_group) có đề tên `NAT`, và tên người dùng hiện màu đỏ trong game. Họ có quyền quản lý toàn bộ website như [Đội ngũ Kiểm duyệt viên](/wiki/People/Global_Moderation_Team) (*GMT*), và có khả năng [đề cử](/wiki/Beatmap_ranking_procedure#nominations) và [đặt lại đề cử](/wiki/Beatmap_ranking_procedure#nomination-resets) của beatmap, giống như những [thành viên chính thức](/wiki/People/Beatmap_Nominators#full-beatmap-nominators) của [Đội ngũ Đề cử viên](/wiki/People/Beatmap_Nominators) (*BNs*). Nhìn chung, những thành viên của NAT chính là những Đề cử viên với những chức năng, nhiệm vụ khác nhau. Vì thế, mọi [quy tắc](/wiki/People/Beatmap_Nominators/Rules) và [tiêu chuẩn riêng](/wiki/People/Beatmap_Nominators/Expectations) của Đề cử viên đều áp dụng cho thành viên của NAT với một số ngoại lệ nhất định để hoạt động.
 
 **Tất cả thành viên của Đội ngũ Đánh giá Đề cử cam kết tuân thủ theo [Bộ quy tắc ứng xử của cộng tác viên](/wiki/Rules/Contributor_code_of_conduct) bên cạnh [Quy tắc cộng đồng](/wiki/Rules).**
 
@@ -21,7 +21,7 @@ NAT chịu trách nhiệm về những công việc liên quan đến mapping, c
 
 ### Bộ phận đánh giá
 
-Những thành viên của NAT được phân vào bộ phận đánh giá (hay còn được gọi là người đánh giá) chủ yếu đảm nhiệm những việc sau:
+Những thành viên của NAT được phân vào bộ phận đánh giá (hay còn được gọi là người đánh giá) chủ yếu đảm nhận những việc sau:
 
 - **Đánh giá**: Đánh giá năng suất và trạng thái hoạt động của Đề cử viên và những người đang ứng cử vào vị trí này. *Xem [Đánh giá](/wiki/People/Nomination_Assessment_Team/Evaluations) để biết thêm chi tiết.*
 - **Đề cử**: Đề cử ít nhất 2 beatmap mỗi tháng. Điều này giúp những người đánh giá bắt kịp với cộng đồng mapping/modding trong khi xem xét những Đề cử viên hiện tại và những Đề cử viên có triển vọng.
@@ -33,7 +33,7 @@ Bộ phận này rất cần thành viên vì số lượng [đơn ứng cử v�
 
 Thành viên NAT nằm trong bộ phận tổ chức sẽ không phụ trách một game mode cụ thể nào dù họ được phép đề cử beatmap từ game mode được phân công từ trước. Họ phải đảm bảo được:
 
-- **Thông tin, liên lạc**: Thúc đẩy tính minh bạch và duy trì mối quan hệ tốt, không chỉ với phần còn lại của cộng đồng mapping/modding mà còn trong chính nội bộ NAT. Điều này bao gồm, nhưng không giới hạn ở:việc: thông báo, tham gia vào các cuộc thảo luận về những đề xuất, hỏi/trả lời các câu hỏi thông qua khảo sát, và cập nhật [tiêu chuẩn xếp hạng](/wiki/Ranking_criteria) cũng như những tài liệu khác.
+- **Thông tin, liên lạc**: Thúc đẩy tính minh bạch và duy trì mối quan hệ tốt, không chỉ với phần còn lại của cộng đồng mapping/modding mà còn trong chính nội bộ NAT. Điều này bao gồm, nhưng không giới hạn ở việc: thông báo, tham gia vào các cuộc thảo luận về những đề xuất, hỏi/trả lời các câu hỏi thông qua khảo sát, và cập nhật [tiêu chuẩn xếp hạng](/wiki/Ranking_criteria) cũng như những tài liệu khác.
 - **Công tác phát triển**: Phát triển và bảo trì những công cụ và trang web để giúp cải thiện quá trình xếp hạng (như [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier), [Aiess](https://github.com/Naxesss/Aiess), hay [trang Quản lý Đề cử viên](https://bn.mappersguild.com)).
 - **Công tác điều hành**: Xử lý các báo cáo từ người dùng và đánh giá hành vi không đúng mực từ các Đề cử viên, cũng như xử lý các bài đánh giá về nội dung beatmap. Đây la nhiệm vụ chung của cả NAT và GMT.
 - **Công tác bảo trì chung**: Bao gồm nhưng không giới hạn ở những việc sau:
@@ -66,7 +66,7 @@ Thành viên NAT được hưởng những lợi ích sau:
 - **[osu!supporter](/wiki/osu!supporter)**: Một thẻ osu!supporter có hiệu lực trong suốt khoảng thời gian làm thành viên của đội ngũ.
 - **Huy hiệu nhiệm kỳ**: Một [huy hiệu hồ sơ](/wiki/Community/Profile_badge) thể hiện số năm họ làm việc ở NAT.
   ![Huy hiệu 1 năm](https://assets.ppy.sh/profile-badges/NAT1y.png "1 year NAT badge") ![Huy hiệu 2 năm](https://assets.ppy.sh/profile-badges/NAT2y.png "2 year NAT badge") ![Huy hiệu 3 năm](https://assets.ppy.sh/profile-badges/NAT3y.png "3 year NAT badge") ![Huy hiệu 4 năm](https://assets.ppy.sh/profile-badges/NAT4y.png "4 year NAT badge") ![Huy hiệu 5 năm](https://assets.ppy.sh/profile-badges/NAT5y.png "5 year NAT badge") ![Huy hiệu 6 năm](https://assets.ppy.sh/profile-badges/NAT6y.png "6 year NAT badge") ![Huy hiệu 7 năm](https://assets.ppy.sh/profile-badges/NAT7y.png "7 year NAT badge") ![Huy hiệu 8 năm](https://assets.ppy.sh/profile-badges/NAT8y.png "8 year NAT badge") ![Huy hiệu 9 năm](https://assets.ppy.sh/profile-badges/NAT9y.png "9 year NAT badge") ![Huy hiệu 10 năm](https://assets.ppy.sh/profile-badges/NAT10y.png "10 year NAT badge")
-- **Huy hiệu [đề cử](/wiki/Beatmap_ranking_procedure#nominations)**: Một huy hiệu hồ sơ được trao sau khi đạt được số lần đề cử beatmap nhất định. 
+- **Huy hiệu [đề cử](/wiki/Beatmap_ranking_procedure#nominations)**: Một huy hiệu hồ sơ được trao sau khi đạt được số đề cử beatmap nhất định. 
   ![Huy hiệu 200 đề cử](https://assets.ppy.sh/profile-badges/noms200.png?2023 "200 nominations badge") ![Huy hiệu 400 đề cử](https://assets.ppy.sh/profile-badges/noms400.png?2023 "400 nominations badge") ![Huy hiệu 600 đề cử](https://assets.ppy.sh/profile-badges/noms600.png?2023 "600 nominations badge") ![Huy hiệu 800 đề cử](https://assets.ppy.sh/profile-badges/noms800.png?2023 "800 nominations badge") ![Huy hiệu 1000 đề cử](https://assets.ppy.sh/profile-badges/noms1000.png?2023 "1000 nominations badge")
 - **Đủ điều kiện trở thành [Đề cử viên Ưu tú](/wiki/People/Elite_Nominators)**: những thành viên NAT làm tốt vai trò đề cử viên của mình sẽ có đủ điều kiện để được trao danh hiệu Đề cử viên Ưu tú kéo dài 1 năm.
 
@@ -107,7 +107,7 @@ Trưởng nhóm NAT hiện tại là ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/
 
 ### Trách nhiệm của trưởng nhóm
 
-Trưởng nhóm NAT phụ trách những nhiệm vụ sau:
+Trưởng nhóm NAT phụ trách những việc sau:
 
 - **Quản lý hoạt động:** Liên tục theo dõi hoạt động của các thành viên khác trong NAT và xử lý những trường hợp ít hoạt động thông qua những đợt kiểm tra định kỳ hoặc qua những buổi phỏng vấn thôi việc trong trường hợp có vấn đề hoạt động liên quan đến một số thành viên nhất định.
 - **Thông tin, liên lạc:**
@@ -168,7 +168,7 @@ Những thành viên NAT sau đây giữ vai trò đánh giá là chủ yếu, n
 
 ---
 
-Ngoài ra, [tài khoản bot của Đội ngũ Đánh giá Đề cử](https://osu.ppy.sh/users/6616586) sẽ làm đại diện cho NAT để gửi thông báo mà không cần một người dùng nhất định. Tài khoản có thể được sử dụng để gửi các bài đánh giá, tổ chức các đợt đánh giá thử, phân giải, báo cáo, kiểm tra, đánh giá nội dung và các mục đích khác.
+Ngoài ra, [tài khoản bot của Đội ngũ Đánh giá Đề cử](https://osu.ppy.sh/users/6616586) sẽ làm đại diện cho NAT để gửi thông báo mà không cần một người dùng nhất định. Tài khoản có thể được sử dụng để gửi các bài đánh giá, tổ chức các đợt đánh giá thử, phân giải (trong trường hợp có khiếu nại về việc từ chối đề cử beatmap), báo cáo, kiểm tra, đánh giá nội dung và các mục đích khác.
 
 ## Ghi chú
 
