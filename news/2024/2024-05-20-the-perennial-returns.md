@@ -52,4 +52,4 @@ On top of that, you are required to sign up with a team of at least 6 members. I
 
 To keep up with livestreams and announcements, anyone interested in the tournament should also consider joining the [Discord server](https://discord.gg/B3ssXmszaf) or following our social media pages linked on our [website](https://www.theperennial.net/). If you need any other information, check out our [tournament website](https://www.theperennial.net/). We hope to see you around, either as a player or spectator!
 
-—D I O & ChillierPear
+—ChillierPear & D I O
