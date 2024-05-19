@@ -1,0 +1,55 @@
+---
+layout: post
+title: "The Perennial 2024 Returns"
+date: 2024-05-20 12:00:00 +0000
+---
+
+After a year-long hiatus we're brushing off the dust! The Perennial returns for its third iteration – and we've got more excitement than ever!
+
+![](/wiki/shared/news/2024-05-21-the-perennial-returns/Banner@2x.png)
+
+**[The Perennial]()**, is a recurring open rank, international tournament using classic, polished formats and unique additions to bring excitement throughout the tournament. In 2021, the Perennial was one of very few international tournaments to ship trophy prizes across the world to the top three teams. In 2022, the Perennial was the first tournament in osu! to commission a song performed by a live band as an original track for the tournament. And in 2024, there’s another unique surprise incoming.
+
+The Perennial also has a history, albeit a short one, of bringing out the best in our mappers and staff. Many of the custom maps from both 2021 and 2022 are either ranked or loved, despite not being original songs, and many of those with leaderboards are now player favorites. Take Nathan’s map of Angel Salad by Katagiri as an example. Further, the Perennial in 2022 became the second osu! Standard community tournament to ever receive the honor of being tribadged, with the top three teams in the tournament all receiving profile badges for their accomplishment. This year promises to be better than either of our preceding iterations with more original tracks, competition just as tough, and some surprises along the way.
+
+## Original music and original maps
+
+We release multiple custom maps each year, but in 2022 we were the first tournament to release an original song by a live band. This year, we're upping our past figures with at least one original song every round of the tournament, along with an original background for every original song. You can check out our past original song, The Throne by UNDEAD CORPORATION, along with past rounds from 2021 and 2022 on our [YouTube channel](https://youtube.com/c/ThePerennialYT).
+
+## What's new?
+
+While past iterations have run off a standard Round of 32 double elimination bracket with no restrictions on team formation, this year is slightly different. Teams will be limited to players all within one of three regions: the Americas; Europe, the Middle East, and Africa (EMEA); and Asia, Australia, and Oceania (AAO). Further details on this rule and exact definitions for each region can be found on our website.
+
+Additionally, the tournament format will see some slight changes, with qualifiers determining seeding before taking the 9th to 32nd seeds into a single round robin group stage. The winners of each group will be drafted to face off against the 1st to 8th seeds awaiting them in the Round of 16 double elimination bracket.
+
+You can head over to the **[website](https://www.theperennial.net/)** to find out more details about the overall tournament and mappool structure as well as other relevant rules.
+
+## Tournament schedule
+
+| Event | Dates |
+| --: | :-- |
+| Registration phase | May 20 - June 9 |
+| Qualifier showcase | June 9, 20:00 UTC |
+| Qualifier stage | June 15 - 16 |
+| Group Stage | June 22 - 23 |
+| RO16 & QF | July 29 - 30 |
+| Semi Finals | July 6 - 7 |
+| Finals | July 13 - 14 |
+| Grand Finals | July 20 - 21 |
+
+## Prizes
+
+Given the success of the Perennial 2022, 2024’s iteration will once again be aiming for badges for the top three teams in the tournament. Those top three teams will also once again receive a trophy shipped directly to each team member for their accomplishment, alongside a portion of a to be determined cash prize.
+
+## How do I register?
+
+To register, head over to the **[registration page](https://www.theperennial.net/)** to connect your osu! account, as well as registering up your team! Before registering, please make sure that:
+
+- You must not have violated the **[osu! community rules](/wiki/Rules)** within the past 12 months.
+- You have joined the **[Perennial Discord server](https://discord.gg/B3ssXmszaf)**.
+
+On top of that, you are required to sign up with a team of at least 6 members. If you don't have enough team members, the `#looking-for-team` channel in the [Discord server](https://discord.gg/B3ssXmszaf) has some eager players willing to join up.
+
+To keep up with livestreams and announcements, anyone interested in the tournament should also consider joining the [Discord server](https://discord.gg/B3ssXmszaf) or following our social media pages linked on our [website](https://www.theperennial.net/). If you need any other information, check out our [tournament website](https://www.theperennial.net/). We hope to see you around, either as a player or spectator!
+
+—D I O & ChillierPear
