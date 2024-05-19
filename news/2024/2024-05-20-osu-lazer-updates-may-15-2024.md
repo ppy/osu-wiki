@@ -22,18 +22,9 @@ The devs have collected all the feedback submitted by the community so far, and 
 - **Startup volume has been reduced for new installations.** There is now one less game in the world that blows your ears off when running it for the first time.
 - **Word filters are now working in osu!(lazer).** Whether it's a multiplayer room name or a chat conversation, explicit language will automatically be filtered out.
 - **Hiding the HUD during gameplay will no longer hide skin elements that are in the playfield layer.** This allows greater flexibility for players to choose what essential elements (such as the hit error graph) need to stay even if the HUD is hidden.
+- **Dedicated touch areas for mobile osu!mania.** There are apparently a surprising amount of mobile players already. A starting step here is a new touchscreen input system, though for the moment, the sizes and positions of the touch areas are not customisable (but will be in the future!).
 - **Skin elements will now have their anchor follow the origin when being placed.** If you're confused about what anchors and origins are, [pishifat](https://osu.ppy.sh/users/3178418) explains this with visuals at [0:40 in the above video](https://www.youtube.com/watch?v=Y0SWx_n_AeQ&t=40s).
 - **77 additional Hush-Hush medals have been deployed since last update.** They're gradually being ported over from osu!(stable).
-
-### New osu!mania touch input system
-
-Further steps are being made in order to accommodate mobile players when it comes to osu!mania. A starting step here is a new touchscreen input system. Unfortunately for the time being, the actual on-screen buttons are not editable, but the goal is to allow for full customisation at some point.
-
-<div align="center" class="osu-md__paragraph">
-    <video width="95%" controls>
-        <source src="" type="video/mp4" preload="none">
-    </video>
-</div>
 
 ### New bundled beatmaps
 
@@ -61,6 +52,16 @@ After the initial implementation of the new osu! logo with the highly controvers
 ![](/wiki/shared/news/2024-05-20-osu-lazer-updates-may-15-2024/comparison-logo-dot.jpg)
 
 The last update's news post has [some more background information and poll results regarding the logo](https://osu.ppy.sh/home/news/2024-04-13-osu-lazer-updates-april-13-2024#the-cookie-question), for those who didn't catch wind of the discussion.
+
+### Future "beatmap of the day" feature
+
+This isn't a change in this update, but following the [last update][https://www.youtube.com/watch?v=xUSxEjQQ1UI)'s call to suggest the next focus in lazer dev, we wanted to point out the top YouTube comment:
+
+![](/wiki/shared/news/2024-05-20-osu-lazer-updates-may-15-2024/cup-of-the-day-comment.jpg)
+
+(It's a work-in-progress.)
+
+![](/wiki/shared/news/2024-05-20-osu-lazer-updates-may-15-2024/daily-challenge-wip.jpg)
 
 ---
 
