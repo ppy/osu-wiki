@@ -184,7 +184,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
 ### Qualifiers
 
 The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1mwWUUC29ateMam0BJTmyFvLkvAVprWjCkWSOMwdAwi0?rm=minimal).\
-[View the Qualifier seed reveal VOD here]()
+[View the Qualifier seed reveal VOD here](https://www.twitch.tv/videos/2150173001)
 
 | Seed | Country | %MAX sum[^qualifiers-seeding] | avg. score[^qualifiers-tiebreaker] |
 | :-: | :-- | --: | --: |
