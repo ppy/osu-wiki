@@ -55,7 +55,7 @@ The last update's news post has [some more background information and poll resul
 
 ### Future "beatmap of the day" feature
 
-This isn't a change in this update, but following the [last update][https://www.youtube.com/watch?v=xUSxEjQQ1UI)'s call to suggest the next focus in lazer dev, we wanted to point out the top YouTube comment:
+This isn't a change in this update, but following the [last update](https://www.youtube.com/watch?v=xUSxEjQQ1UI)'s call to suggest the next focus in lazer dev, we wanted to point out the top YouTube comment:
 
 ![](/wiki/shared/news/2024-05-20-osu-lazer-updates-may-15-2024/cup-of-the-day-comment.jpg)
 
