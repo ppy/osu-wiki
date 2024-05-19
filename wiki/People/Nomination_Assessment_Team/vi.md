@@ -39,167 +39,139 @@ Thành viên NAT nằm trong bộ phận tổ chức sẽ không phụ trách m�
 - **Công tác phát triển**: Phát triển và bảo trì những công cụ và trang web để giúp cải thiện quá trình xếp hạng (như [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier), [Aiess](https://github.com/Naxesss/Aiess), hay [trang Quản lý Đề cử viên](https://bn.mappersguild.com)).
 - **Công tác điều hành**: Xử lý các báo cáo từ người dùng và đánh giá hành vi không đúng mực từ các Đề cử viên, cũng như xử lý các bài đánh giá về nội dung beatmap. Đây la nhiệm vụ chung của cả NAT và GMT.
 - **Công tác bảo trì chung**: Bao gồm nhưng không giới hạn ở những việc sau:
-  - Xử lý [các yêu cầu phủ quyết đề cử](/wiki/People/Beatmap_Nominators/Beatmap_Veto).
+  - Xử lý [các yêu cầu từ chối đề cử](/wiki/People/Beatmap_Nominators/Beatmap_Veto).
   - Duy trì [diễn đàn Quản lý Beatmap](https://osu.ppy.sh/community/forums/115).
-  - Đánh giá mức độ ảnh hưởng của những đợt đặt lại đề cử.[^đánh giá mức độ]
+  - Đánh giá mức độ ảnh hưởng của những đợt đặt lại đề cử.[^đánh-giá-mức-độ]
  
-Thành viên NAT chủ yếu xử lý ở bộ phận này sẽ đảm bảo rằng các Đề cử viên và những thành viên khác trong cộng đồng mapping/modding được cung cấp đầy đủ thông tin và được lắng nghe, bên cạnh việc duy trì các thành phần thiết yếu để giữ mọi thứ trong lĩnh vực mapping/modding hoạt động bình thường, . Những người thuộc bộ phận này là những người đánh giá có kinh nghiệm muốn tập trung vào mảng quản lý thuộc lĩnh vực mapping/modding. 
+Thành viên NAT chủ yếu xử lý ở bộ phận này sẽ đảm bảo rằng các Đề cử viên và những thành viên khác trong cộng đồng mapping/modding được cung cấp đầy đủ thông tin và ý kiến của họ được lắng nghe, đồng thời việc duy trì các thành phần thiết yếu để giữ mọi thứ trong lĩnh vực mapping/modding hoạt động bình thường. Những người thuộc bộ phận này là những người đánh giá nhiều kinh nghiệm muốn tập trung vào mảng quản lý thuộc lĩnh vực mapping/modding. 
 
 ---
 
-Dividing the NAT workload into two main categories is necessary for the overall organisation and productivity of the group, allowing for a more streamlined assignment of responsibilities. Delegating tasks keeps NAT members from being overwhelmed while simultaneously avoiding a diffusion of responsibility.
+Phân chia khối lượng công việc trong NAT thành hai mảng chính là cần thiết cho việc tổ chức tổng thể và năng suất của cả nhóm, cho phép việc phân phó trách nhiệm được hợp lý hơn. Phân chia nhiệm vụ sẽ giúp các thành viên NAT không bị quá tải và đồng thời tránh được sự phân tán trách nhiệm trong công việc.
 
-**A member of the NAT can engage with any tasks within any category that they choose, despite their listed primary responsibilities.** For example, an NAT member primarily responsible for evaluations may also help with structural-related tasks, or vice versa.
+**Thành viên NAT nào cũng đều có thể tham gia vào công việc của bất kỳ bộ phận nào mà họ chọn, bất kể mảng phụ trách chủ yếu của họ.** Ví dụ, một thành viên NAT chủ yếu phụ trách mảng đánh giá có thể phụ giúp những công việc liên quan đến mảng tổ chức hoặc ngược lại.
 
-## Activity
+## Hoạt động
 
-Depending on their category, each NAT member has different activity requirements. Members responsible for evaluations are expected to consistently evaluate both applicants and current BNs, while also keeping up to date with the mapping/modding scene on their own through modding. Members assigned to the structural category are expected to uphold key parts of the ranking process on a case-by-case basis.
+Mỗi thành viên NAT có những yêu cầu hoạt động khác nhau tùy vào mảng phụ trách chính của họ. Thành viên thuộc bộ phận đánh giá phải xem xét và đánh giá những người ứng cử và các Đề cử viên một cách nhất quán, đồng thời tự mình bắt kịp thông tin với mảng mapping/modding thông qua hoạt động modding. Thành viên được phân công vào bộ phận tổ chức phải duy trì những giai đoạn chủ chốt của quá trình xếp hạng beatmap trong từng trường hợp cụ thể.
 
-Every 2 months, the NAT members are required to submit a summary of their activity in the [BN Management website](https://bn.mappersguild.com). This summary, alongside other metrics like nomination and evaluation activity, is used to determine whether a member is still active and whether they should remain in the group. The [team leaders](#nat-leadership) will then discuss the activity of each member and decide whether they should remain in the NAT.
+Cứ mỗi 2 tháng, các thành viên NAT phải gửi bản tóm tắt về hoạt động của họ đến [trang Quản lý BN](https://bn.mappersguild.com). Bản tóm tắt cùng với những số liệu khác như hoạt động đề cử và đánh giá sẽ được sử dụng để quyết định liệu thành viên đó có hoạt động thường xuyên hay không và liệu họ được ở lại nhóm không. Sau đó, các [nhóm trưởng](#nat-leadership) sẽ thảo luận về hoạt động của từng thành viên và quyết định xem họ có được ở lại NAT hay không.
 
-The team leaders will confront inactive NAT members, or members who fail to provide a summary in a timely manner. If an appropriate resolution to their inactivity is not feasible, they will be removed from the NAT. Members under the evaluation category working on other mapping-related projects may be moved to the structural category to better reflect their contribution.
+Nhóm trưởng sẽ đối chất với những thành viên không hoạt động hoặc không cung cấp bản tóm tắt hoạt động kịp thời. Nếu giải pháp thích hợp cho việc không hoạt động không khả thi thì thành viên đó sẽ bị loại ra khỏi NAT. Thành viên phụ trách mảng đánh giá làm việc trong những dự án khác liên quan đến mapping có thể được chuyển đến bộ phận tổ chức để phản ánh sự đóng góp của họ tốt hơn.
 
-## Benefits
+## Lợi ích
 
-*See also: [Departure from the NAT](#departure-from-the-nat)*
+**Xem thêm: [Rời khỏi NAT](#rời_khỏi_NAT)**
 
-NAT members are granted the following benefits:
+Thành viên NAT được hưởng những lợi ích sau:
 
-- **[osu!supporter](/wiki/osu!supporter)**: An osu!supporter tag that lasts for the duration of their team membership.
-- **Tenure badge**: A [profile badge](/wiki/Community/Profile_badge) that displays the number of years they have been in the NAT.
-  ![1 year NAT badge](https://assets.ppy.sh/profile-badges/NAT1y.png "1 year NAT badge") ![2 year NAT badge](https://assets.ppy.sh/profile-badges/NAT2y.png "2 year NAT badge") ![3 year NAT badge](https://assets.ppy.sh/profile-badges/NAT3y.png "3 year NAT badge") ![4 year NAT badge](https://assets.ppy.sh/profile-badges/NAT4y.png "4 year NAT badge") ![5 year NAT badge](https://assets.ppy.sh/profile-badges/NAT5y.png "5 year NAT badge") ![6 year NAT badge](https://assets.ppy.sh/profile-badges/NAT6y.png "6 year NAT badge") ![7 year NAT badge](https://assets.ppy.sh/profile-badges/NAT7y.png "7 year NAT badge") ![8 year NAT badge](https://assets.ppy.sh/profile-badges/NAT8y.png "8 year NAT badge") ![9 year NAT badge](https://assets.ppy.sh/profile-badges/NAT9y.png "9 year NAT badge") ![10 year NAT badge](https://assets.ppy.sh/profile-badges/NAT10y.png "10 year NAT badge")
-- **[Nomination](/wiki/Beatmap_ranking_procedure#nominations) count badge**: A profile badge awarded when reaching certain nomination count milestones.
-  ![200 nominations badge](https://assets.ppy.sh/profile-badges/noms200.png?2023 "200 nominations badge") ![400 nominations badge](https://assets.ppy.sh/profile-badges/noms400.png?2023 "400 nominations badge") ![600 nominations badge](https://assets.ppy.sh/profile-badges/noms600.png?2023 "600 nominations badge") ![800 nominations badge](https://assets.ppy.sh/profile-badges/noms800.png?2023 "800 nominations badge") ![1000 nominations badge](https://assets.ppy.sh/profile-badges/noms1000.png?2023 "1000 nominations badge")
-- **[Elite Nominator](/wiki/People/Elite_Nominators) eligibility**: NAT members who exceptionally perform as nominators are eligible to be awarded the yearly Elite Nominator status.
+- **[osu!supporter](/wiki/osu!supporter)**: Một thẻ osu!supporter có hiệu lực trong suốt khoảng thời gian làm thành viên của đội ngũ.
+- **Huy hiệu nhiệm kỳ**: Một [huy hiệu hồ sơ](/wiki/Community/Profile_badge) thể hiện số năm họ làm việc ở NAT.
+  ![Huy hiệu 1 năm](https://assets.ppy.sh/profile-badges/NAT1y.png "1 year NAT badge") ![Huy hiệu 2 năm](https://assets.ppy.sh/profile-badges/NAT2y.png "2 year NAT badge") ![Huy hiệu 3 năm](https://assets.ppy.sh/profile-badges/NAT3y.png "3 year NAT badge") ![Huy hiệu 4 năm](https://assets.ppy.sh/profile-badges/NAT4y.png "4 year NAT badge") ![Huy hiệu 5 năm](https://assets.ppy.sh/profile-badges/NAT5y.png "5 year NAT badge") ![Huy hiệu 6 năm](https://assets.ppy.sh/profile-badges/NAT6y.png "6 year NAT badge") ![Huy hiệu 7 năm](https://assets.ppy.sh/profile-badges/NAT7y.png "7 year NAT badge") ![Huy hiệu 8 năm](https://assets.ppy.sh/profile-badges/NAT8y.png "8 year NAT badge") ![Huy hiệu 9 năm](https://assets.ppy.sh/profile-badges/NAT9y.png "9 year NAT badge") ![Huy hiệu 10 năm](https://assets.ppy.sh/profile-badges/NAT10y.png "10 year NAT badge")
+- **Huy hiệu [đề cử](/wiki/Beatmap_ranking_procedure#nominations)**: Một huy hiệu hồ sơ được trao sau khi đạt được số lần đề cử beatmap nhất định. 
+  ![Huy hiệu 200 đề cử](https://assets.ppy.sh/profile-badges/noms200.png?2023 "200 nominations badge") ![Huy hiệu 400 đề cử](https://assets.ppy.sh/profile-badges/noms400.png?2023 "400 nominations badge") ![Huy hiệu 600 đề cử](https://assets.ppy.sh/profile-badges/noms600.png?2023 "600 nominations badge") ![Huy hiệu 800 đề cử](https://assets.ppy.sh/profile-badges/noms800.png?2023 "800 nominations badge") ![Huy hiệu 1000 đề cử](https://assets.ppy.sh/profile-badges/noms1000.png?2023 "1000 nominations badge")
+- **Đủ điều kiện trở thành [Đề cử viên Ưu tú](/wiki/People/Elite_Nominators)**: những thành viên NAT làm tốt vai trò đề cử viên của mình sẽ có đủ điều kiện để được trao danh hiệu Đề cử viên Ưu tú kéo dài 1 năm.
 
-## Promotion to the NAT
+## Đề bạt lên NAT
 
-Before joining the NAT, a user must either be a full member of the Beatmap Nominators, or a former NAT member still involved in the community. Most NAT candidates are initially considered based on their commitment to helping the mapping and modding community, and further demonstration of their ability to contribute to a multitude of NAT responsibilities is usually the basis for being promoted.
+Trước khi gia nhập NAT, người dùng phải là một Đề cử viên chính thức hoặc đã từng là một thành viên của NAT và vẫn còn hoạt động trong cộng đồng. Đa số các ứng cử viên cho NAT đều được lựa chọn nhờ vào sự tận tâm của họ đối với cộng đồng mapping và modding, và tiếp tục thể hiện khả năng gánh vác vô số trách nhiệm của NAT thường là cơ sở cho việc thăng cấp của họ.
 
-Since all new NAT members start off in the evaluation category, it is important that NAT candidates are exceptional in assessing the proficiency of others. Full BNs are occasionally given the opportunity to temporarily join the evaluation team, giving them an opportunity to practice. NAT candidates have a much better chance of being promoted if their evaluations are thorough and come to similar conclusions as the NAT (or have supportive reasoning otherwise).
+Vì tất cả các thành viên NAT mới bắt đầu công việc ở bộ phận đánh giá, việc các ứng cử viên NAT có khả năng đánh giá một cách xuất sắc khả năng của người khác là rất quan trọng. Đề cử viên chính thức có thể có cơ hội tham gia vào [các đợt đánh giá thử](/wiki/People/Nomination_Assessment_Team/Evaluations#mock-evaluations) hoặc tạm thời gia nhập bộ phận đánh giá để họ có thể tập luyện kỹ năng của mình. Ứng cử viên NAT có khả năng được thăng cấp nếu các đánh giá của họ chi tiết, chỉn chu và đi đến kết luận gần giống với NAT (hoặc có lý do chính đáng trong trường hợp ngược lại).
 
-The NAT keeps tabs on potential NAT candidates over long periods of time, and occasionally convenes to decide if a candidate should be promoted, similar to how BN evaluations are done. BNs are also allowed to ask about joining the NAT if they want to receive feedback and make sure they are being considered. However, depending on the activity and skill set of current NAT members, there may not be a need for new ones. New NAT members will likely be promoted only when one of the current members is becoming less active, or there are new workloads requiring more members, etc.
+NAT luôn để mắt tới các ứng cử viên có triển vọng trong một thời gian dài, đôi khi sẽ thảo luận xem liệu ứng cử viên đó có nên được thăng cấp hay không, gần giống với quá trình đánh giá Đề cử viên. Đề cử viên được phép hỏi về việc gia nhập NAT nếu họ muốn nhận góp ý và muốn chắc chắn rằng họ cũng nằm trong diện được cân nhắc. Tuy nhiên, tùy thuộc vào mức độ hoạt động và khả năng của thành viên NAT hiện tại, sẽ có thể không cần thêm thành viên mới. Thành viên mới có thể được thêm vào chỉ khi một trong những thành viên hiện tại ít hoạt động hơn, hoặc có nhiều công việc hơn và cần nhiều người xử lý hơn, vân vân…
 
-### Joining the structural category
+### Gia nhập bộ phận tổ chức
 
-Current or former NAT members who show proficiency in the structural tasks outlined above, to the point where their current or planned contributions are indispensable and far outweighs their necessity as an evaluator, can opt in to join the structural category. This is as judged by the NAT leaders and handled on a case-by-case basis.
+Nếu thành viên hoặc cựu thành viên của NAT thể hiện khả năng xử lý tốt công việc ở mảng tổ chức (được liệt kê như trên) và những đóng góp của họ, kể cả ở hiện tại hay đã lên kế hoạch, vượt xa những gì họ làm trong vai trò đánh giá, họ có thể chọn chuyển sang bộ phận tổ chức. Việc này sẽ do trưởng nhóm NAT đánh giá và xử lý theo từng trường hợp cụ thể.
 
-Before conducting such addition, the addition is sanity checked with the rest of the NAT in case of objections. If no issues arise, the concerned member will then be subject to different activity expectations depending on their specific situation. If their contribution towards structural tasks is considered lacklustre or unnecessary at some later point, again as judged by the NAT leaders, then they will be moved out of this category.
+Việc chuyển đổi sẽ được thảo luận lại với phần còn lại của NAT trước khi thực hiện, phòng trường hợp có sự phản đối. Nếu không có vấn đề nào phát sinh, thành viên liên quan sẽ tuân thủ theo tiêu chuẩn hoạt động khác nhau tùy theo trường hợp của họ. Nếu những đóng góp của họ sau này bị xem là mờ nhạt hoặc không cần thiết theo đánh giá của trưởng nhóm NAT thì họ sẽ được chuyển ra khỏi bộ phận này.
 
-## Departure from the NAT
+## Rời khỏi NAT
 
-Once an NAT member chooses to depart from the team, they may be granted the following benefits depending on the circumstances:
+Khi một thành viên NAT quyết định rời đi, họ có thể nhận được những lợi ích sau tùy vào từng trường hợp:
 
-- **[osu! Alumni](/wiki/People/osu!_Alumni) user title**: This is granted to members who were part of the team for at least 1 year, or have made significant contributions within the team during a shorter period of time.
-- **osu!supporter**: Members will be awarded an osu!supporter tag that lasts double the amount of time they spent in the NAT, under the same conditions as osu! Alumni status.
-- **Internal access**: In special cases, members may be granted continued access to the internal NAT discussion channel depending on their past contributions and the likelihood of them having positive impact in future discussions. This privilege may be revoked if the member is inactive in discussions or is causing issues.
+- **Danh hiệu [osu! Alumni](/wiki/People/osu!_Alumni)**: Danh hiệu được trao cho thành viên dành ít nhất 1 năm làm việc trong NAT hoặc có những đóng góp nổi bật trong khoảng thời gian ngắn hơn.
+- **osu!supporter**: Cùng điều kiện với danh hiệu osu! Alumni, các thành viên sẽ được trao một thẻ osu!supporter có hiệu lực kéo dài gấp đôi số thời gian họ làm việc trong NAT.
+-  **Quyền truy cập nội bộ**: Trong trường hợp đặc biệt, thành viên có thể được phép tiếp tục truy cập vào kênh thảo luận nội bộ của NAT tùy vào những đóng góp của họ trong quá khứ và khả năng tạo ra tác động tích cực cho các cuộc thảo luận trong tương lai. Đặc quyền này có thể bị tước bỏ nếu thành viên đó không tham gia thảo luận hoặc liên tục gây ra vấn đề.
 
-Former NAT members who currently have internal access are:
+Cựu thành viên NAT hiện đang có quyền truy cập nội bộ bao gồm:
 
 - ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083)
 - ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342)
 - ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
 - ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926)
 
-## NAT Leadership
+## Trưởng nhóm NAT
 
-As of March 2023, the NAT has decided to re-adopt the concept of leadership, which was [previously used](/wiki/People/Quality_Assurance_Team/QAT_Leaders) in the [QAT](/wiki/People/Quality_Assurance_Team). The NAT leader has the combined responsibility of both evaluation and structural categories so they can watch over and stay involved with every aspect of the NAT.
+Kể từ tháng Ba năm 2023, NAT đã quyết định lập trưởng nhóm [như tiền thân của NAT](/wiki/People/Quality_Assurance_Team/QAT_Leaders) là [QAT](/wiki/People/Quality_Assurance_Team). Trưởng nhóm NAT phụ trách công việc của cả mảng đánh giá và tổ chức để họ có thể quản lý và tham gia vào mọi khía cạnh của NAT.
 
-The current NAT leader is ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976).
+Trưởng nhóm NAT hiện tại là ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976).
 
-### Responsibilities
+### Trách nhiệm của trưởng nhóm
 
-The NAT leader aims to cover the following tasks:
+Trưởng nhóm NAT phụ trách những nhiệm vụ sau:
 
-- **Activity management:** Constantly monitoring the activity of other NAT members and handling cases of low activity, either through regular checkups or through exit interviews, in case of activity issues regarding certain members.
-- **Communication:**
-  - Acting as a bridge between the osu! team, the NAT, and the mapping community, constantly communicating any changes, concerns, or demands raised.
-  - Encourage participation in internal and external discussions by proactively engaging all parties, keeping discussions organised, and facilitating the combination of different viewpoints to form a practical course of action.
-  - Promote new or existing ideas that can easily get lost in the midst of discussions and proposals.
-- **Problem solving:** Taking initiative to be involved with critical decision making and handling delicate concerns raised by the team or the community.
+- **Quản lý hoạt động:** Liên tục theo dõi hoạt động của các thành viên khác trong NAT và xử lý những trường hợp ít hoạt động thông qua những đợt kiểm tra định kỳ hoặc qua những buổi phỏng vấn thôi việc trong trường hợp có vấn đề hoạt động liên quan đến một số thành viên nhất định.
+- **Thông tin, liên lạc:**
+  - Làm cầu nối giữa osu! team, NAT, và cộng đồng mapping, liên tục thông báo về bất kỳ thay đổi, lo ngại hay yêu cầu nào.
+  - Vận động tham gia vào các cuộc thảo luận nội bộ lẫn bên ngoài bằng cách chủ động thu hút tất cả các bên vào tham gia, đồng thời tạo điều kiện cho các ý kiến, quan điểm khác nhau được kết hợp và tạo ra phương hướng hành động thiết thực.
+  - Khuyến khích những ý tưởng mới hoặc ý tưởng vốn đã được để xuất nhưng có thể dễ dàng bị lạc mất trong lúc thảo luận/giữa các đề xuất khác.
+- *Giải quyết vấn đề:** Chủ động tham gia vào những quyết định quan trọng và xử lý những vấn đề nhạy cảm được chính đội ngũ hoặc cộng đồng nêu ra.
 
-## Team members
+## Thành viên của đội ngũ
 
-*Note: All NAT members speak English in addition to the language(s) listed below unless noted otherwise.*
+*Lưu ý: Tất cả các thành viên của NAT  đều nói tiếng Anh ngoài những ngôn ngữ được liệt kê dưới đây, trừ khi có ghi chú khác.*
 
-The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists all of the team members. In addition to areas mentioned below, all NAT members take part in [reviewing audio and visual content included in beatmaps](/wiki/Rules/Visual_content_considerations#getting-your-image-assessed).
+[Trang thành viên của Đội ngũ Đánh giá Đề cử](https://osu.ppy.sh/groups/7) liệt kê tất cả những thành viên trong nhóm. Ngoài những lĩnh vực được nhắc đến dưới đây, toàn bộ thành viên NAT đều đảm nhận công việc [rà soát lại nội dung âm thanh và hình ảnh trong beatmap](/wiki/Rules/Visual_content_considerations#getting-your-image-assessed).
 
-<!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
-
-### Evaluation
+### Bộ phận đánh giá
 
 #### osu!
 
-| Name | Additional languages |
+| Tên | Ngôn ngữ được sử dụng |
 | :-- | :-- |
-| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | Chinese |
-| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Russian |
-| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonese, Chinese |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portuguese, Spanish |
-| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Dutch |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | German |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Chinese |
-| ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
-| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Chinese, Cantonese |
-| ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Chinese |
 
 #### osu!taiko
 
-| Name | Additional languages |
+| Name | Ngôn ngữ được sử dụng |
 | :-- | :-- |
-| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  |
-| ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | Chinese |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Arabic, French |
-| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Portuguese |
-| ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | German, some French |
 
 #### osu!catch
 
-| Name | Additional languages |
+| Name | Ngôn ngữ được sử dụng |
 | :-- | :-- |
-| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Spanish, German |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Dutch |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  |
-| ::{ flag=BR }:: [zerokt](https://osu.ppy.sh/users/13776127) | Portuguese |
 
 #### osu!mania
 
-| Name | Additional languages |
+| Name | Ngôn ngữ được sử dụng |
 | :-- | :-- |
-| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamese |
-| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | Chinese |
-| ::{ flag=US }:: [Hugged](https://osu.ppy.sh/users/12589220) | Turkish |
-| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesian |
-| ::{ flag=DZ }:: [Scotty](https://osu.ppy.sh/users/11085809) | Arabic, French |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Catalan, Spanish |
 
-### Structural
+### Bộ phận tổ chức:
 
-The following NAT members are exclusively responsible for structural tasks, and do not associate with any specific game mode, despite being allowed to nominate beatmaps of their previously assigned game mode:
+Những thành viên NAT sau đây chỉ đảm nhận công việc của mảng tổ chức, không phụ trách một gamemode cụ thể dù được phép đề cử beatmap thuộc game mode họ đã được phân công từ trước:
 
-| User | Task |
+| Tên | Nhiệm vụ |
 | :-- | :-- |
-| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Handling internal discussions, affairs, and documentation |
-| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | [Aiess](https://github.com/Naxesss/Aiess) and [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) maintenance |
-| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Ranking Criteria upkeep |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [BN Management website](https://bn.mappersguild.com) development |
+| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Xử lý thảo luận, công việc và tài liệu nội bộ  |
+| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Bảo trì [Aiess](https://github.com/Naxesss/Aiess) and [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) |
+| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Quản lý Tiêu chuẩn Xếp hạng |
+| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Phát triển [trang Quản lý Đề cử viên](https://bn.mappersguild.com) |
 
-The following NAT members are primarily evaluators, but also contribute to structural tasks:
+Những thành viên NAT sau đây giữ vai trò đánh giá là chủ yếu, nhưng đồng thời có đóng góp vào mảng tổ chức:
 
-| User | Task |
+| Tên | Nhiệm vụ |
 | :-- | :-- |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | BN Mentorship organisation |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Handling user reports |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Handling content reports |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | [Nomination Planner](https://bnplanner.greaper.net/beatmaps) and [osu!catch MV plugin](https://github.com/Darius-Wattimena/MapsetChecksCatch) development |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | NAT Leadership, [BN Management website](https://bn.mappersguild.com) and [osu!taiko MV plugin](https://github.com/Hiviexd/MVTaikoChecks) development |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | [osu!mania MV plugin](https://github.com/MChecaH/ManiaCheck) development |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Tổ chức Chương trình Cố vấn Đề cử viên (BN Mentorship Program) |
+| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Xử lý báo cáo từ người dùng |
+| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Xử lý báo cáo nội dung |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Phát triển [Nomination Planner](https://bnplanner.greaper.net/beatmaps) và [osu!catch MV plugin](https://github.com/Darius-Wattimena/MapsetChecksCatch) |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Nhóm trưởng NAT, phát triển [trang Quản lý Đề cử viên](https://bn.mappersguild.com) và [osu!taiko MV plugin](https://github.com/Hiviexd/MVTaikoChecks) |
+| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Phát triển [osu!mania MV plugin](https://github.com/MChecaH/ManiaCheck) |
 
 ---
 
-In addition, the [Nomination Assessment Team bot](https://osu.ppy.sh/users/6616586) acts as a proxy for the NAT to collectively deliver messages under one user account without directly attributing them to anyone. It may be used for evaluation responses, mock evaluations, mediations, reports, and content reviews, along any other miscellaneous purposes.
+Ngoài ra, [tài khoản bot của Đội ngũ Đánh giá Đề cử](https://osu.ppy.sh/users/6616586) sẽ làm đại diện cho NAT để gửi thông báo mà không cần một người dùng nhất định. Tài khoản có thể được sử dụng để gửi các bài đánh giá, tổ chức các đợt đánh giá thử, phân giải, báo cáo, kiểm tra, đánh giá nội dung và các mục đích khác.
 
-## Notes
+## Ghi chú
 
-[^impact-rating]: This process involves checking each nomination reset and assigning it a "minor", "notable" or "severe" label for future reference in evaluations.
+[^đánh-giá-mức-độ]: Quy trình bao gồm xem xét từng trường hợp đặt lại đề cử và gắn nhãn "nhỏ", "đáng kể" hoặc "nghiêm trọng" để làm tham khảo cho việc đánh giá trong tương lai.
