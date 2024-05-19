@@ -53,13 +53,13 @@ Phân chia khối lượng công việc trong NAT thành hai mảng chính là c
 
 Mỗi thành viên NAT có những yêu cầu hoạt động khác nhau tùy vào mảng phụ trách chính của họ. Thành viên thuộc bộ phận đánh giá phải xem xét và đánh giá những người ứng cử và các Đề cử viên một cách nhất quán, đồng thời tự mình bắt kịp thông tin với mảng mapping/modding thông qua hoạt động modding. Thành viên được phân công vào bộ phận tổ chức phải duy trì những giai đoạn chủ chốt của quá trình xếp hạng beatmap trong từng trường hợp cụ thể.
 
-Cứ mỗi 2 tháng, các thành viên NAT phải gửi bản tóm tắt về hoạt động của họ đến [trang Quản lý BN](https://bn.mappersguild.com). Bản tóm tắt cùng với những số liệu khác như hoạt động đề cử và đánh giá sẽ được sử dụng để quyết định liệu thành viên đó có hoạt động thường xuyên hay không và liệu họ được ở lại nhóm không. Sau đó, các [nhóm trưởng](#nat-leadership) sẽ thảo luận về hoạt động của từng thành viên và quyết định xem họ có được ở lại NAT hay không.
+Cứ mỗi 2 tháng, các thành viên NAT phải gửi bản tóm tắt về hoạt động của họ đến [trang Quản lý BN](https://bn.mappersguild.com). Bản tóm tắt cùng với những số liệu khác như hoạt động đề cử và đánh giá sẽ được sử dụng để quyết định liệu thành viên đó có hoạt động thường xuyên hay không và liệu họ được ở lại nhóm không. Sau đó, các [nhóm trưởng](#trưởng_nhóm_nat) sẽ thảo luận về hoạt động của từng thành viên và quyết định xem họ có được ở lại NAT hay không.
 
 Nhóm trưởng sẽ đối chất với những thành viên không hoạt động hoặc không cung cấp bản tóm tắt hoạt động kịp thời. Nếu giải pháp thích hợp cho việc không hoạt động không khả thi thì thành viên đó sẽ bị loại ra khỏi NAT. Thành viên phụ trách mảng đánh giá làm việc trong những dự án khác liên quan đến mapping có thể được chuyển đến bộ phận tổ chức để phản ánh sự đóng góp của họ tốt hơn.
 
 ## Lợi ích
 
-**Xem thêm: [Rời khỏi NAT](#rời_khỏi_NAT)**
+**Xem thêm: [Rời khỏi NAT](#rời_khỏi_nat)**
 
 Thành viên NAT được hưởng những lợi ích sau:
 
