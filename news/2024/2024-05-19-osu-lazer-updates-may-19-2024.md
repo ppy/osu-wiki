@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "osu!(lazer) Updates: May 19, 2024"
-date: 2024-05-20 20:00:00 +0000
+date: 2024-05-19 23:00:00 +0000
 ---
 
 Get your monthly fix of the latest and greatest osu!(lazer) updates!
 
-![](/wiki/shared/news/2024-05-20-osu-lazer-updates-may-15-2024/banner.jpg)
+![](/wiki/shared/news/2024-05-19-osu-lazer-updates-may-19-2024/banner.jpg)
 
-The devs have collected all the feedback submitted by the community so far, and have worked hard to implement many of the requested features! You can keep reading below to see some highlighted changes, or watch the video digest below!
+The devs have collected all the feedback submitted by the community so far, and have worked hard to implement many of the requested features! You can keep reading to see some highlighted changes, or watch the video digest below!
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Y0SWx_n_AeQ" frameborder="0" allowfullscreen></iframe>
@@ -30,11 +30,11 @@ The devs have collected all the feedback submitted by the community so far, and 
 
 Aside from the [tutorial](https://osu.ppy.sh/beatmapsets/1011011#osu/2116202), these beatmaps are always downloaded:
 
-![](/wiki/shared/news/2024-05-20-osu-lazer-updates-may-15-2024/always-bundled-maps.png)
+![](/wiki/shared/news/2024-05-19-osu-lazer-updates-may-19-2024/always-bundled-maps.png)
 
 Random [Mappers' Guild](/wiki/Community/Mappers_Guild) maps are added on top.
 
-![](/wiki/shared/news/2024-05-20-osu-lazer-updates-may-15-2024/mappers-guild-maps.png)
+![](/wiki/shared/news/2024-05-19-osu-lazer-updates-may-19-2024/mappers-guild-maps.png)
 
 The random maps have the following selection criteria:
 
@@ -49,7 +49,7 @@ The random maps have the following selection criteria:
 
 After the initial implementation of the new osu! logo with the highly controversial dot in the "o", a raging debate sparked within the community whether it should be removed or kept as is. In the end, the dot has been removed along with some slight adjustments.
 
-![](/wiki/shared/news/2024-05-20-osu-lazer-updates-may-15-2024/comparison-logo-dot.jpg)
+![](/wiki/shared/news/2024-05-19-osu-lazer-updates-may-19-2024/comparison-logo-dot.jpg)
 
 The last update's news post has [some more background information and poll results regarding the logo](https://osu.ppy.sh/home/news/2024-04-13-osu-lazer-updates-april-13-2024#the-cookie-question), for those who didn't catch wind of the discussion.
 
@@ -57,14 +57,14 @@ The last update's news post has [some more background information and poll resul
 
 This isn't a change in this update, but following the [last update](https://www.youtube.com/watch?v=xUSxEjQQ1UI)'s call to suggest the next focus in lazer dev, we wanted to point out the top YouTube comment:
 
-![](/wiki/shared/news/2024-05-20-osu-lazer-updates-may-15-2024/cup-of-the-day-comment.jpg)
+![](/wiki/shared/news/2024-05-19-osu-lazer-updates-may-19-2024/cup-of-the-day-comment.jpg)
 
 (It's a work-in-progress.)
 
-![](/wiki/shared/news/2024-05-20-osu-lazer-updates-may-15-2024/daily-challenge-wip.jpg)
+![](/wiki/shared/news/2024-05-19-osu-lazer-updates-may-19-2024/daily-challenge-wip.jpg)
 
 ---
 
-Curious about every single change that occurred? Check out the [changelog](https://osu.ppy.sh/home/changelog/lazer/2024.412.0)! Other than that, [you know what to do](https://osu.ppy.sh/home/download). See ya next time!
+Curious about every single change that occurred? Check out the [changelog](https://osu.ppy.sh/home/changelog/lazer/2024.519.0)! Other than that, [you know what to do](https://osu.ppy.sh/home/download). See ya next time!
 
 —Walavouchey & 0x84f
