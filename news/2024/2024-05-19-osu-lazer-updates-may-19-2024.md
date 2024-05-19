@@ -40,10 +40,10 @@ The random maps have the following selection criteria:
 
 - Licensed song
 - Between 60 ond 240 seconds
-- Includes Easy/NormaI/Hard/Insone difficulties
+- Includes Easy/Normal/Hard/Insane difficulties
 - Background is explicitly permitted as okay to use in osu!
 - No explicit or AI content
-- No repeating songs (within each mode)
+- No repeating songs (within each game mode)
 
 ### osu! logo updates
 
