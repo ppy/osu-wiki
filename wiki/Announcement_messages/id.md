@@ -11,7 +11,7 @@ tags:
 
 ![Notifikasi pengumuman](img/notification.png "Pesan notifikasi pengumuman")
 
-**Pesan pengumuman** merupakan jenis pesan khusus yang ditujukan untuk mengirim pesan yang lebih panjang dan terformat kepada banyak pengguna secara bersamaan. Terdapat beberapa perbedaan utama antara pesan pengumuman dengan pesan *chat* biasa, yang meliputi:
+**Pesan pengumuman** merupakan jenis pesan khusus yang ditujukan untuk mengirim pesan yang lebih panjang dan terformat kepada banyak pengguna secara bersamaan. Perbedaan utama antara pesan pengumuman dengan pesan *chat* biasa meliputi antara lain:
 
 - Batas jumlah 1024 karakter pada pesan (alih-alih 450 karakter)
 - Dukungan sintaks markdown[^note-images] untuk pemformatan teks
@@ -21,7 +21,7 @@ tags:
 
 ## Eligibilitas
 
-Untuk dapat mengirim dan membalas pesan pengumuman dari situs web osu!, seorang pengguna harus menjadi bagian dari [Global Moderation Team](/wiki/People/Global_Moderation_Team), [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team), atau [kelompok pengguna](/wiki/People/User_group) Announce. Meskipun demikian, hanya para anggota kelompok pengguna Announce yang dapat mengirim pesan pengumuman melalui [osu! API v2](https://osu.ppy.sh/docs/index.html#create-channel).
+Untuk dapat mengirim dan membalas pesan pengumuman dari situs web osu!, seorang pengguna harus menjadi anggota dari [Global Moderation Team](/wiki/People/Global_Moderation_Team), [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team), atau [kelompok pengguna](/wiki/People/User_group) Announce. Meskipun demikian, hanya para anggota kelompok pengguna Announce yang dapat mengirim pesan pengumuman melalui [osu! API v2](https://osu.ppy.sh/docs/index.html#create-channel).
 
 ### Mengajukan permintaan
 
