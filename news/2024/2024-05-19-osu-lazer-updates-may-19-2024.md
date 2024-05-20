@@ -6,7 +6,7 @@ date: 2024-05-19 23:00:00 +0000
 
 Get your monthly fix of the latest and greatest osu!(lazer) updates!
 
-![](/wiki/shared/news/2024-05-19-osu-lazer-updates-may-19-2024/banner.jpg)
+![](/wiki/shared/news/2024-05-19-osu-lazer-updates-may-19-2024/banner.jpg?1)
 
 The devs have collected all the feedback submitted by the community so far, and have worked hard to implement many of the requested features! You can keep reading to see some highlighted changes, or watch the video digest below!
 
