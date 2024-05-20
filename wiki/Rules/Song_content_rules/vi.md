@@ -11,7 +11,7 @@ Hãy lưu ý rằng các bài nhạc không phù hợp với trẻ em [sẽ ph�
 
 ## Nội dung nào được phân loại là nội dung "mang tính chính trị nặng nề"?
 
-Vì lợi ích của việc giữ một trò chơi về nhịp điệu chỉ liên quan đến nhịp điệu một cách nghiêm khắc và phù hợp với [Quy tắc cộng đồng](/wiki/Rules#community-rules) #3, các nội dung nhạc mà chính quyền cho là liên quan đến mặt chính trị một cách thái quá thì không được phép sử dụng.
+Vì lợi ích của việc giữ một trò chơi về nhịp điệu chỉ liên quan đến nhịp điệu một cách nghiêm khắc và phù hợp với [Quy tắc cộng đồng](/wiki/Rules#nội-quy-cộng-đồng) #3, các nội dung nhạc mà chính quyền cho là liên quan đến mặt chính trị một cách thái quá thì không được phép sử dụng.
 
 Chúng tôi không tuân thủ bất kỳ "chủ định" cụ thể nào liên quan đến phạm vi chính trị - osu! là nơi hoàn toàn phi chính trị và chúng tôi muốn mọi người vui vẻ cùng nhau, chứ không phải nơi để gây ra mối thù hằn hay cãi nhau về chính trị.
 
