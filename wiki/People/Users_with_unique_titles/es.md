@@ -129,7 +129,7 @@ Ganadores de las osu!mania World Cups anteriores con el título de usuario **For
 
 ## Ganadores de los concursos de mapping oficiales
 
-La mayoría de los concursos oficiales de mapping ofrecen el título **Elite Mapper** a través de los [puntos del concurso](/wiki/Contests/Contest_points). Los concursos antiguos daban el título como premio al ganador.
+La mayoría de los concursos oficiales de mapping ofrecen el título **Elite Mapper** a través de los [puntos de los concursos](/wiki/Contests/Contest_points). Los concursos antiguos daban el título como premio al ganador.
 
 - ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596)
 - ::{ flag=PH }:: [acnozei](https://osu.ppy.sh/users/10141268)
