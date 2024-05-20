@@ -20,7 +20,7 @@ tags:
 
 ## Eligibilitas
 
-Untuk dapat mengirim dan membalas pesan pengumuman dari situs web, seorang pengguna harus menjadi bagian dari [Global Moderation Team](/wiki/People/Global_Moderation_Team), [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team), atau [kelompok pengguna](/wiki/People/User_group) Announce. Meskipun demikian, hanya para anggota kelompok pengguna Announce yang dapat mengirim pesan pengumuman melalui [osu! API v2](https://osu.ppy.sh/docs/index.html#create-channel).
+Untuk dapat mengirim dan membalas pesan pengumuman dari situs web osu!, seorang pengguna harus menjadi bagian dari [Global Moderation Team](/wiki/People/Global_Moderation_Team), [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team), atau [kelompok pengguna](/wiki/People/User_group) Announce. Meskipun demikian, hanya para anggota kelompok pengguna Announce yang dapat mengirim pesan pengumuman melalui [osu! API v2](https://osu.ppy.sh/docs/index.html#create-channel).
 
 ### Mengajukan permintaan
 
