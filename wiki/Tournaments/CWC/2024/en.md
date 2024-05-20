@@ -111,9 +111,9 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
 | Team A | Team B | Match time | Twitch stream |
 | --: | :-- | :-- | :-: |
 | Japan ::{ flag=JP }:: | ::{ flag=TH }:: Thailand | [May 25 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240525T100000&p1=1440&p2=248&p3=28) | [osulive](https://twitch.tv/osulive) |
-| Belgium ::{ flag=BE }:: | ::{ flag=PH }:: Philippines | [May 25 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240525T110000&p1=1440&p2=48&p3=145) | [osulive](https://twitch.tv/osulive) |
 | Russian Federation ::{ flag=RU }:: | ::{ flag=VN }:: Vietnam | [May 25 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240525T120000&p1=1440&p2=166&p3=95) | [osulive](https://twitch.tv/osulive) |
 | Indonesia ::{ flag=ID }:: | ::{ flag=NO }:: Norway | [May 25 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240525T130000&p1=1440&p2=108&p3=187) | [osulive](https://twitch.tv/osulive) |
+| China ::{ flag=CN }:: | ::{ flag=NL }:: Netherlands | [May 25 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240525T130000&p1=1440&p2=33&p3=16) | [osulive](https://twitch.tv/osulive) |
 | Canada ::{ flag=CA }:: | ::{ flag=LV }:: Latvia | [May 25 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240525T170000&p1=1440&p2=188) | [osulive](https://twitch.tv/osulive) |
 | United States ::{ flag=US }:: | ::{ flag=EE }:: Estonia | [May 25 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240525T180000&p1=1440&p2=263) | [osulive](https://twitch.tv/osulive) |
 | United Kingdom ::{ flag=GB }:: | ::{ flag=MX }:: Mexico | [May 25 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240525T190000&p1=1440&p2=136&p3=155) | [osulive](https://twitch.tv/osulive) |
@@ -123,8 +123,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
 | Team A | Team B | Match time | Twitch stream |
 | --: | :-- | :-- | :-: |
 | Chile ::{ flag=CL }:: | ::{ flag=NZ }:: New Zealand | [May 26 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240526T030000&p1=1440&p2=232&p3=264) | [osulive](https://twitch.tv/osulive) |
+| Belgium ::{ flag=BE }:: | ::{ flag=PH }:: Philippines | [May 26 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240526T090000&p1=1440&p2=48&p3=145) | [osulive](https://twitch.tv/osulive) |
 | Sweden ::{ flag=SE }:: | ::{ flag=AU }:: Australia | [May 26 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240526T100000&p1=1440&p2=239&p3=57) | [osulive](https://twitch.tv/osulive) |
-| China ::{ flag=CN }:: | ::{ flag=NL }:: Netherlands | [May 26 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240526T110000&p1=1440&p2=33&p3=16) | [osulive](https://twitch.tv/osulive) |
 | Taiwan ::{ flag=TW }:: | ::{ flag=DE }:: Germany | [May 26 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240526T120000&p1=1440&p2=241&p3=37) | [osulive](https://twitch.tv/osulive) |
 | Poland ::{ flag=PL }:: | ::{ flag=MY }:: Malaysia | [May 26 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240526T130000&p1=1440&p2=262&p3=122) | [osulive](https://twitch.tv/osulive) |
 | France ::{ flag=FR }:: | ::{ flag=TR }:: Turkey | [May 26 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240526T140000&p1=1440&p2=195&p3=19) | [osulive](https://twitch.tv/osulive) |
@@ -137,17 +137,17 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
 
 ### Round of 32
 
-**[Download the mappack here (99 MB)](http://files.leoflt.com/ffuBHJFA)**\
+**[Download the mappack here (99 MB)](https://packs.ppy.sh/P247%20-%20osu!catch%20World%20Cup%202024%3A%20Round%20of%2032.zip)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2150173001?t=1h0m44s)
 
 - No Mod
-  1. [Fuki - DAYS (BlackBN) \[YOU\] *(temporary link)*](http://files.leoflt.com/Dw3F8veJ)
+  1. [Fuki - DAYS (BlackBN) \[YOU\]](https://osu.ppy.sh/beatmapsets/2184377#fruits/4617105)
   2. [Aethral - It's Boss Time, dude (Malai) \[H3y b0$$\]](https://osu.ppy.sh/beatmapsets/2184034#fruits/4615516)
   3. [KARUT - 0068 opera yori ai o komete! Event BGM (Sololiquy) \[Aru\]](https://osu.ppy.sh/beatmapsets/2184033#fruits/4615512)
   4. [Boom Kitty - Any Other Way (feat. Ivy Marie) (autofanboy) \[Zelicz's Extra (CWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2184055#osu/4615558)
 - Hidden
   1. [Lindsey Stirling - V-Pop (Dapulezatos) \[Vibrancy\]](https://osu.ppy.sh/beatmapsets/2184059#fruits/4615567)
-  2. [Kikuo - Yousei no Kiri (ZiRoX) \[Fae\] *(temporary link)*](http://files.leoflt.com/BtYGy49Q)
+  2. [Kikuo - Yousei no Kiri (ZiRoX) \[Fae\]](https://osu.ppy.sh/beatmapsets/2184086#fruits/4615620)
 - Hard Rock
   1. [Risa Yuzuki - Ironical Parade (wwwww) \[Yoshi\_gwwwwween's Rain\]](https://osu.ppy.sh/beatmapsets/2183882#fruits/4615165)
   2. [Amidst - Fate (Nosuri) \[Rain\]](https://osu.ppy.sh/beatmapsets/2184047#fruits/4615546)
@@ -156,8 +156,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
   2. [Mitchie M feat. Hatsune Miku - Suki! Yuki! Maji Magic (Yoshi\_green) \[Miracle!\]](https://osu.ppy.sh/beatmapsets/2184049#fruits/4615549)
   3. [SB\_YUNE - Dread of the grave -more fear- (yuinn) \[Battler Ushiromiya (CV: Morusya) vs Dlanor A. Knox (CV: yuinn) Collab Rain\]](https://osu.ppy.sh/beatmapsets/2184054#fruits/4615557)
 - Mixed Mod
-  1. [YOASOBI - Biri-Biri (Spectator) \[Overdose\] *(temporary link)*](http://files.leoflt.com/LjRCBnAA)
-  2. [M2U - Gypsy Tronic (Mrbinking) \[Endless Traversal\] *(temporary link)*](http://files.leoflt.com/CYsSO9LA)
+  1. [YOASOBI - Biri-Biri (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2184093#fruits/4615635)
+  2. [M2U - Gypsy Tronic (Mrbinking) \[Endless Traversal\]](https://osu.ppy.sh/beatmapsets/2184097#fruits/4615639)
 - Tiebreaker
   1. **[Sparxe - Zinnober (autofanboy) \[Avarice\]](https://osu.ppy.sh/beatmapsets/2184068#fruits/4615584)**
 
