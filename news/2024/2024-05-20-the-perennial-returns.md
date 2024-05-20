@@ -14,7 +14,11 @@ The Perennial also has a history, albeit a short one, of bringing out the best i
 
 ## Original music and original maps
 
-We release multiple custom maps each year, but in 2022 we were the first tournament to release an original song by a live band. This year, we're upping our past figures with at least one original song every round of the tournament, along with an original background for every original song. You can check out our past original song, The Throne by UNDEAD CORPORATION, along with past rounds from 2021 and 2022 on our [YouTube channel](https://youtube.com/c/ThePerennialYT).
+We release multiple custom maps each year, but in 2022 we were the first tournament to release an original song by a live band. This year, we're upping our past figures with at least one original song every round of the tournament, along with an original background for every original song. You can check out our past original song, The Throne by UNDEAD CORPORATION, in the embed below, and check out past rounds and highlights from 2021 and 2022 on our [YouTube channel](https://youtube.com/c/ThePerennialYT).
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/PCVtU9kWo1w" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## What's new?
 
@@ -39,7 +43,12 @@ You can head over to the **[website](https://www.theperennial.net/)** to find ou
 
 ## Prizes
 
-Given the success of the Perennial 2022, 2024’s iteration will once again be aiming for badges for the top three teams in the tournament. Those top three teams will also once again receive a trophy shipped directly to each team member for their accomplishment, alongside a portion of a to be determined cash prize.
+| Placement | Badge | Trophy | Cash |
+| --: | :--: | :--: | :-- |
+| First | &check; | &check; | 50% |
+| Second | &check; | &check; | 33% |
+| Third | &check; | &check; | 17% |
+
 
 ## How do I register?
 
