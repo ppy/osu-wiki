@@ -30,7 +30,7 @@ Walaupun contoh-contoh yang diberikan ditulis dengan konteks mapping yang spesif
 00:02:000 - Sama seperti #72727
 ```
 
-**Untuk masalah yang berulang, pertimbangkan untuk mengelompokkan rangkaian masalah yang ada ke dalam satu poin umum beserta dengan beberapa contohnya**. Apabila kamu masih merasa bahwa kamu harus benar-benar menjabarkan segala sesuatunya satu per satu, maka mapper yang bersangkutan memang tidak tahu apa yang mereka lakukan atau mungkin penjelasanmu masih belum cukup bagus.
+**Untuk masalah yang muncul berulang kali, pertimbangkan untuk mengelompokkan rangkaian masalah ini ke dalam satu poin umum beserta dengan beberapa contohnya**. Apabila kamu masih merasa bahwa kamu harus benar-benar menjabarkan segala sesuatunya satu per satu, maka mapper yang bersangkutan memang tidak tahu apa yang mereka lakukan atau mungkin penjelasanmu masih belum cukup bagus.
 
 ---
 
@@ -51,7 +51,7 @@ Walaupun contoh-contoh yang diberikan ditulis dengan konteks mapping yang spesif
 00:03:000 - jangan lakukan hal ini
 ```
 
-**Pada saat menyampaikan suatu masalah, tuliskan masalahmu secara jelas dan formal untuk menghindari terdapatnya kesalahpahaman**. Kamu harus selalu menyatakan apa masalah yang ingin kamu angkat, bahkan ketika masalah ini terlihat mentereng sekalipun.
+**Pada saat menyampaikan suatu masalah, jabarkan masalahmu secara lugas dan formal untuk menghindari terdapatnya kesalahpahaman**. Kamu harus selalu menyatakan apa masalah yang ingin kamu angkat, bahkan ketika masalah ini terlihat jelas sekalipun.
 
 ---
 
@@ -61,7 +61,7 @@ Walaupun contoh-contoh yang diberikan ditulis dengan konteks mapping yang spesif
 00:02:000 - Begitu pula dengan di bagian kiai.
 ```
 
-**Apabila suatu hal muncul secara berulang kali di dalam suatu map, bisa jadi kemunculan ini memang disengaja**. Dalam situasi yang demikian, jelaskanlah secara seksama mengapa kamu merasa bahwa kemunculan ini merupakan suatu kesalahan, atau pastikan bahwa hal yang dimaksud selalu muncul pada bagian-bagian lagu yang serupa. Apabila kemunculan yang kamu temukan tidak konsisten dan seakan-akan terlihat acak, hal ini mungkin memang patut untuk kamu pertanyakan.
+**Apabila suatu hal muncul secara terus-menerus di dalam suatu map, bisa jadi kemunculan ini memang disengaja**. Dalam situasi yang demikian, jelaskanlah secara seksama mengapa kamu merasa bahwa kemunculan ini merupakan suatu kesalahan, atau pastikan bahwa hal yang dimaksud selalu muncul pada bagian-bagian lagu yang serupa. Apabila kemunculan yang kamu temukan tidak konsisten dan seakan-akan terlihat acak, hal ini mungkin memang patut untuk kamu pertanyakan.
 
 ---
 
@@ -69,7 +69,7 @@ Walaupun contoh-contoh yang diberikan ditulis dengan konteks mapping yang spesif
 Secara umum, objek permainan harus ditempatkan pada suara yang jelas pada lagu agar suara tersebut dapat direpresentasikan dengan baik. Menjaga agar tingkat kepadatan ritme setara dengan intensitas lagu adalah /.../
 ```
 
-**Selalu sertakan setidaknya satu contoh dan satu buah keterangan waktu (*timestamp*)**. Tanpa mencantumkan contoh pada map yang kamu mod, mapper yang bersangkutan mungkin akan merasa kebingungan seputar masalah apa yang kamu ungkit dan di mana letak masalah tersebut. Sebagai seorang modder, kamu dapat menemukan dirimu berbicara secara terlalu luas dan bertele-tele (alih-alih memperbaiki map yang kamu mod) apabila kamu tidak berhati-hati.
+**Selalu sertakan setidaknya satu contoh masalah dan satu keterangan waktu (*timestamp*)**. Tanpa mencantumkan contoh pada map yang kamu mod, mapper yang bersangkutan mungkin akan merasa kebingungan seputar masalah apa yang kamu ungkit dan di mana letak masalah tersebut. Sebagai seorang modder, kamu dapat menemukan dirimu berbicara secara terlalu luas dan bertele-tele (alih-alih memperbaiki map yang kamu mod) apabila kamu tidak berhati-hati.
 
 ---
 
