@@ -4,7 +4,7 @@ title: "The Perennial Returns"
 date: 2024-05-21 12:00:00 +0000
 ---
 
-After a year-long hiatus we're brushing off the dust! The Perennial returns for its third iteration – and we've got more excitement than ever!
+After a year-long hiatus we're brushing off the dust! The Perennial returns for its third iteration — and we've got more excitement than ever!
 
 ![](/wiki/shared/news/2024-05-21-the-perennial-returns/Banner@2x.png)
 
