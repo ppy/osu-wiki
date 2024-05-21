@@ -12,7 +12,7 @@ After a year-long hiatus we're brushing off the dust! The Perennial returns for 
 
 ## Original music and original maps
 
-The Perennial also has a history, albeit a short one, of bringing out the best in our mappers and staff. Many of the custom maps from both 2021 and 2022 are either ranked or loved, despite not being original songs, and many of those with leaderboards are now player favorites. Take [Nathan](https://osu.ppy.sh/users/4785223)'s map of [Angel Salad](https://osu.ppy.sh/beatmapsets/1471137#osu/3020221) by [katagiri](https://osu.ppy.sh/beatmaps/artists/176) as an example.
+The Perennial also has a history, albeit a short one, of bringing out the best in our mappers and staff. Many of the custom maps from both 2021 and 2022 are either Ranked or Loved, despite not being original songs, and many of those with leaderboards are now player favourites. Take [Nathan](https://osu.ppy.sh/users/4785223)'s map of [Angel Salad](https://osu.ppy.sh/beatmapsets/1471137#osu/3020221) by [katagiri](https://osu.ppy.sh/beatmaps/artists/176) as an example.
 
 We release multiple custom maps each year, but in 2022 we were the first tournament to release an original song by a live band. This year, we're upping our past figures with at least one original song every round of the tournament, along with an original background for every original song. You can check out our past original song, The Throne by UNDEAD CORPORATION, in the embed below, and check out past rounds and highlights from 2021 and 2022 on our [YouTube channel](https://youtube.com/c/ThePerennialYT).
 
