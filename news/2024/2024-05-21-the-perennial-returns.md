@@ -32,14 +32,14 @@ You can head over to the **[website](https://theperennial.net/info)** to find ou
 
 | Event | Dates |
 | --: | :-- |
-| Registration phase | May 20 - June 9 |
-| Qualifier showcase | June 9, 20:00 UTC |
-| Qualifier stage | June 15 - 16 |
-| Group Stage | June 22 - 23 |
-| RO16 & QF | July 29 - 30 |
-| Semi Finals | July 6 - 7 |
-| Finals | July 13 - 14 |
-| Grand Finals | July 20 - 21 |
+| Registration phase | May 20 – June 9 |
+| Qualifier showcase | June 9 (20:00 UTC) |
+| Qualifier stage | June 15 – 16 |
+| Group Stage | June 22 – 23 |
+| Round of 16 & Quarterfinals | July 29 – 30 |
+| Semifinals | July 6 – 7 |
+| Finals | July 13 – 14 |
+| Grand Finals | July 20 – 21 |
 
 ## Prizes
 
