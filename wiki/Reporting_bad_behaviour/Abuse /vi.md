@@ -31,7 +31,7 @@ Nếu bạn cảm thấy những nhận xét/đề nghị không phù hợp ho�
 
 Để làm như vậy, hãy nhấp vào nút `Report post` ở góc trên bên phải của bài đăng trên diễn đàn.
 
-Ngoài ra, hãy nhấp vào tên người dùng của bất kỳ thành viên GMT nào trong danh sách trên trang đó. Điều này sẽ đưa bạn đến hồ sơ của họ. Nếu bạn không chắc chắn nên nhấp vào ai, [thay vào đó chỉ cần sử dụng liên kết này](/osu.ppy.sh/users/102335).
+Ngoài ra, hãy nhấp vào tên người dùng của bất kỳ thành viên GMT nào trong danh sách trên trang đó. Điều này sẽ đưa bạn đến hồ sơ của họ. Nếu bạn không chắc chắn nên nhấp vào ai, [thay vào đó chỉ cần sử dụng liên kết này](/wiki/osu.ppy.sh/users/102335).
 
 Nhấp vào nút có hình phong bì ngay bên dưới lá cờ quốc gia của người dùng. Thao tác này sẽ đưa bạn đến cuộc trò chuyện.
 
