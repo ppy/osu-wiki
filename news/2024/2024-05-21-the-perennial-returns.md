@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "The Perennial 2024 Returns"
-date: 2024-05-20 12:00:00 +0000
+title: "The Perennial Returns"
+date: 2024-05-21 12:00:00 +0000
 ---
 
 After a year-long hiatus we're brushing off the dust! The Perennial returns for its third iteration – and we've got more excitement than ever!
 
 ![](/wiki/shared/news/2024-05-21-the-perennial-returns/Banner@2x.png)
 
-**[The Perennial]()**, is a recurring open rank, international tournament using classic, polished formats and unique additions to bring excitement throughout the tournament. In 2021, the Perennial was one of very few international tournaments to ship trophy prizes across the world to the top three teams. In 2022, the Perennial was the first tournament in osu! to commission a song performed by a live band as an original track for the tournament. And in 2024, there’s another unique surprise incoming.
-
-The Perennial also has a history, albeit a short one, of bringing out the best in our mappers and staff. Many of the custom maps from both 2021 and 2022 are either ranked or loved, despite not being original songs, and many of those with leaderboards are now player favorites. Take Nathan’s map of Angel Salad by Katagiri as an example. Further, the Perennial in 2022 became the second osu! Standard community tournament to ever receive the honor of being tribadged, with the top three teams in the tournament all receiving profile badges for their accomplishment. This year promises to be better than either of our preceding iterations with more original tracks, competition just as tough, and some surprises along the way.
+**[The Perennial](https://www.theperennial.net/)**, is a recurring open rank, international tournament using classic, polished formats and unique additions to bring excitement throughout the tournament. In 2021, the Perennial was one of very few international tournaments to ship trophy prizes across the world to the top three teams. In 2022, the Perennial was the first tournament in osu! to commission a song performed by a live band as an original track for the tournament. Further, the Perennial in 2022 became the second osu! Standard community tournament to ever receive the honor of being tri-badged, with the top three teams in the tournament all receiving profile badges for their accomplishment. This year promises to be better than either of our preceding iterations with more original tracks, competition just as tough, and some surprises along the way.
 
 ## Original music and original maps
+
+The Perennial also has a history, albeit a short one, of bringing out the best in our mappers and staff. Many of the custom maps from both 2021 and 2022 are either ranked or loved, despite not being original songs, and many of those with leaderboards are now player favorites. Take [Nathan](https://osu.ppy.sh/users/4785223)'s map of [Angel Salad](https://osu.ppy.sh/beatmapsets/1471137#osu/3020221) by [katagiri](https://osu.ppy.sh/beatmaps/artists/176) as an example.
 
 We release multiple custom maps each year, but in 2022 we were the first tournament to release an original song by a live band. This year, we're upping our past figures with at least one original song every round of the tournament, along with an original background for every original song. You can check out our past original song, The Throne by UNDEAD CORPORATION, in the embed below, and check out past rounds and highlights from 2021 and 2022 on our [YouTube channel](https://youtube.com/c/ThePerennialYT).
 
@@ -24,7 +24,7 @@ We release multiple custom maps each year, but in 2022 we were the first tournam
 
 While past iterations have run off a standard Round of 32 double elimination bracket with no restrictions on team formation, this year is slightly different. Teams will be limited to players all within one of three regions: the Americas; Europe, the Middle East, and Africa (EMEA); and Asia, Australia, and Oceania (AAO). Further details on this rule and exact definitions for each region can be found on our website.
 
-Additionally, the tournament format will see some slight changes, with qualifiers determining seeding before taking the 9th to 32nd seeds into a single round robin group stage. The winners of each group will be drafted to face off against the 1st to 8th seeds awaiting them in the Round of 16 double elimination bracket.
+Additionally, the tournament format will see some slight changes, with qualifiers determining seeding before taking the 9th to 32nd seeds into a single round-robin group stage. The winners of each group will be drafted to face off against the 1st to 8th seeds awaiting them in the Round of 16 double elimination bracket.
 
 You can head over to the **[website](https://www.theperennial.net/)** to find out more details about the overall tournament and mappool structure as well as other relevant rules.
 
