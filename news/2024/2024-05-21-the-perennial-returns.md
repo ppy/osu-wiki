@@ -16,7 +16,7 @@ This year promises to be better than both of the preceding iterations with more 
 
 ## Original music and original maps
 
-The Perennial also has a history, albeit a short one, of bringing out the best in our mappers and staff. Many of the custom maps from both 2021 and 2022 are either Ranked or Loved, despite not being original songs, and many of those with leaderboards are now player favourites. Take [Nathan](https://osu.ppy.sh/users/4785223)'s map of [Angel Salad](https://osu.ppy.sh/beatmapsets/1471137#osu/3020221) by [katagiri](https://osu.ppy.sh/beatmaps/artists/176) as an example, with more in both mappools from [2021](https://docs.google.com/spreadsheets/d/1cFnN6DmM7QpzXta4ogYA6AepDD9jLrbA1sJ5HysirXk/edit?usp=sharing) and [2022](https://docs.google.com/spreadsheets/d/18Qx_9LOV580d5vzgdJkvzOyY3W_JTNN1vkgyZu70Duw/edit?usp=sharing).
+The Perennial also has a history, albeit a short one, of bringing out the best in our mappers and staff. Many of the custom maps from both 2021 and 2022 are either Ranked or Loved, despite not being original songs, and many of those with leaderboards are now player favourites. Take [Nathan](https://osu.ppy.sh/users/4785223)'s map of [Angel Salad](https://osu.ppy.sh/beatmapsets/1471137#osu/3020221) by [katagiri](https://osu.ppy.sh/beatmaps/artists/176) as an example.
 
 We release multiple custom maps each year, but in 2022 we were the first tournament to release an original song by a live band. This year, we're upping our past figures with at least one original song every round of the tournament, along with an original background for every original song. You can check out our past original song below, *The Throne* by UNDEAD CORPORATION, and check out past rounds and highlights from 2021 and 2022 on our [YouTube channel](https://www.youtube.com/c/ThePerennialYT).
 
@@ -55,13 +55,13 @@ You can head over to the **[website](https://theperennial.net/info)** to find ou
 
 ## How do I register?
 
-To register, head over to the **[registration page](https://www.theperennial.net/)** to connect your osu! account, as well as registering up your team! Before registering, please make sure that:
+To register, head over to the **[website](https://www.theperennial.net/)**, connect your osu! account, then register your team at the top right! Before registering, please make sure that:
 
 - You must not have violated the **[osu! community rules](/wiki/Rules)** within the past 12 months.
-- You have joined the **[Perennial Discord server](https://discord.gg/B3ssXmszaf)**.
+- You have joined the **[Perennial Discord server](https://discord.com/invite/B3ssXmszaf)**.
 
 On top of that, you are required to sign up with a team of at least 6 members. If you don't have enough team members, the `#looking-for-team` channel in the [Discord server](https://discord.com/invite/B3ssXmszaf) already has some eager players willing to join up.
 
-To keep up with livestreams and announcements, anyone interested in the tournament should also consider joining the [Discord server](https://discord.gg/B3ssXmszaf) or following our social media pages linked on our [website](https://www.theperennial.net/). If you need any other information, check out our [tournament website](https://www.theperennial.net/). We hope to see you around, either as a player or spectator!
+To keep up with livestreams and announcements, anyone interested in the tournament should also consider joining the [Discord server](https://discord.com/invite/B3ssXmszaf) or following The Perennial on [Twitter](https://twitter.com/theperennialosu) or [Twitch](https://www.twitch.tv/theperennial). If you need any other information, check out our [tournament website](https://www.theperennial.net/). We hope to see you around, either as a player or spectator!
 
 —ChillierPear & D I O
