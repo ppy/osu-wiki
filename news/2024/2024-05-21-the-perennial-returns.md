@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "The Perennial Returns"
-date: 2024-05-21 12:00:00 +0000
+date: 2024-05-21 19:00:00 +0000
 ---
 
 After a year-long hiatus we're brushing off the dust! The Perennial returns for its third iteration — and we've got more excitement than ever!
 
-![](/wiki/shared/news/2024-05-21-the-perennial-returns/Banner@2x.jpg)
+![](/wiki/shared/news/2024-05-21-the-perennial-returns/banner.jpg)
 
 **[The Perennial](https://www.theperennial.net/)** is a recurring open rank, international tournament, notably being one one of very few international tournaments to ship trophy prizes across the world to the top three teams in 2021.
 
