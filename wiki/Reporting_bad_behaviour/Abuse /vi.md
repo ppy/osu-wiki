@@ -8,7 +8,7 @@ Nếu bạn cảm thấy khó chịu khi đọc trang này, vui lòng liên hệ
 
 Chúng tôi không khoang nhượng đối với bất kỳ hình thức chú ý hoặc đề nghị tình dục không mong muốn trong cộng đồng này.
 
-Địa chỉ email lạm dụng chỉ được xem bởi [peppy](/osu.ppy.sh/users/2)(người tạo ra trò chơi)
+Địa chỉ email lạm dụng chỉ được xem bởi [peppy](/wiki/osu.ppy.sh/users/2)(người tạo ra trò chơi)
 
 Không có gì bạn gửi tới [abuse@ppy.sh](mailto:abuse@ppy.sh) sẽ được chia sẻ với bất kỳ ai ngoài anh ấy.
 
@@ -51,9 +51,9 @@ Ngoài ra, nếu bạn biết osu!tài khoản của người làm phiền bạn
 
 ## Trên Twitter được liên kết với tài khoản osu!
 
-Nhấp vào ba dấu chấm ở trên cùng bên phải của tweet và nhấp vào 'report Tweet'. Đảm bảo làm theo lời nhắc và đọc chúng cẩn thận. Bạn cũng có thể muốn đọc [hướng dẫn của Twitter về cách báo cáo hành vi lạm dụng](/help.x.com/safety-and-security/report-abusive-behavior) để biết thêm thông tin về quá trình này.
+Nhấp vào ba dấu chấm ở trên cùng bên phải của tweet và nhấp vào 'report Tweet'. Đảm bảo làm theo lời nhắc và đọc chúng cẩn thận. Bạn cũng có thể muốn đọc [hướng dẫn của Twitter về cách báo cáo hành vi lạm dụng](/wiki/help.x.com/safety-and-security/report-abusive-behavior) để biết thêm thông tin về quá trình này.
 
-Sau đó, block hoặc mute người dùng đề cập bằng cách nhấp vào ba dấu chấm ở trên cùng bên phải dòng tweet của họ (nếu bạn đang sử dụng wedsite hoặc ứng dụng dành cho mobile). Tham khảo [hướng dẫn của Twitter về cách chặn tài khoản](/help.x.com/using-x/blocking-and-unblocking-accounts) để biết thêm thông tin.
+Sau đó, block hoặc mute người dùng đề cập bằng cách nhấp vào ba dấu chấm ở trên cùng bên phải dòng tweet của họ (nếu bạn đang sử dụng wedsite hoặc ứng dụng dành cho mobile). Tham khảo [hướng dẫn của Twitter về cách chặn tài khoản](/wiki/help.x.com/using-x/blocking-and-unblocking-accounts) để biết thêm thông tin.
 
 Xin lưu ý rằng người đó sẽ thấy bạn chặn nếu họ kiểm tra hồ sơ Twitter của bạn. Nếu bạn lo lắng điều này sẽ làm cho vấn đề trở nên tồi tệ hơn trong tương lai, thay vào đó hãy mute chúng. Thao tác này sẽ xóa các tweet của họ khỏi dòng thời gian của bạn và ngăn bạn xem thêm bất kỳ nội dung nào từ họ, nhưng họ vẫn có thể xem và nhận xét về tất cả các tweet bạn thực hiện.
 
