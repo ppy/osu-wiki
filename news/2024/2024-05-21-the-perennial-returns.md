@@ -8,7 +8,7 @@ After a year-long hiatus we're brushing off the dust! The Perennial returns for 
 
 ![](/wiki/shared/news/2024-05-21-the-perennial-returns/banner.jpg)
 
-**[The Perennial](https://www.theperennial.net/)** is a recurring open rank, international tournament, notably being one one of very few international tournaments to ship trophy prizes across the world to the top three teams in 2021.
+**[The Perennial](https://www.theperennial.net/)** is a recurring open rank, international tournament, notably being one of very few international tournaments to ship trophy prizes across the world to the top three teams in 2021.
 
 In 2022, the Perennial was the first tournament in osu! to commission a song performed by a live band as an original track for the tournament, as well as being the second osu! standard community tournament to be "tri-badged", with the top three teams in the tournament all receiving profile badges for their accomplishment.
 
