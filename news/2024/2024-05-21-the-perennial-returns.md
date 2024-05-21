@@ -59,6 +59,6 @@ To register, head over to the **[registration page](https://www.theperennial.net
 
 On top of that, you are required to sign up with a team of at least 6 members. If you don't have enough team members, the `#looking-for-team` channel in the [Discord server](https://discord.gg/B3ssXmszaf) has some eager players willing to join up.
 
-To keep up with livestreams and announcements, anyone interested in the tournament should also consider joining the [Discord server](https://discord.gg/B3ssXmszaf) or following our social media pages linked on our [website](https://www.theperennial.net/). If you need any other information, check out our [tournament website](https://www.theperennial.net/). We hope to see you around, either as a player or spectator!
+To keep up with livestreams and announcements, anyone interested in the tournament should also consider joining the [Discord server](https://discord.com/invite/B3ssXmszaf) or following The Perennial on [Twitter](https://twitter.com/theperennialosu) or [Twitch](https://www.twitch.tv/theperennial). If you need any other information, check out our [tournament website](https://www.theperennial.net/). We hope to see you around, either as a player or spectator!
 
 —ChillierPear & D I O
