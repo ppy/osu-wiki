@@ -8,9 +8,9 @@ Nếu bạn đang thấy khó chịu hay không thoải mái đến mức tìm �
 
 Chúng tôi không khoan nhượng đối với bất kỳ hình thức tán tỉnh, chú ý hoặc đề nghị tình dục không mong muốn trong cộng đồng này.
 
-Địa chỉ email báo cáo chỉ có thể được xem bởi [peppy](https://osu.ppy.sh/users/2)(người tạo ra trò chơi)
+Địa chỉ email báo cáo chỉ có thể được xem bởi [peppy](https://osu.ppy.sh/users/2)(người tạo ra trò chơi).
 
-mọi thứ bạn gửi tới [abuse@ppy.sh](mailto:abuse@ppy.sh) sẽ không được chia sẻ với bất kỳ ai ngoài anh ấy.
+Mọi thứ bạn gửi tới [abuse@ppy.sh](mailto:abuse@ppy.sh) sẽ không được chia sẻ với bất kỳ ai ngoài anh ấy.
 
 ## Ai đó đã có những lời đề nghị hoặc nhận xét mang tính tình dục không phù hợp đối với tôi!
 
@@ -20,9 +20,9 @@ Lướt xuống các mục bên dưới để biết những việc cần làm, 
 
 Chặn người dùng ngay lập tức bằng cách nhấp chuột phải vào tên người dùng của họ và chọn `Ignore User`.
 
-Bạn nên báo cáo chúng ngay lập tức bằng cách nhấp vào nút `Report User` và điền vào ô thông tin 
+Bạn cũng nên báo cáo họ ngay lập tức bằng cách nhấp vào nút `Report User` và điền vào ô thông tin.
 
-Bạn cũng có thể báo cáo họ bằng cách nhập `!report <person> <problem>`, trong đó `<person>` là tên người dùng gây rắc rối cho bạn và `<problem>` nghi giải thích ngắn gọn vấn đề. Nếu có khoảng trắng trong tên người dùng, vui lòng thay thế chúng bằng dấu gạch dưới (` _ `).
+Bạn cũng có thể báo cáo họ bằng cách nhập `!report <person> <problem>`, trong đó `<person>` là tên người dùng gây rắc rối cho bạn và `<problem>` để nghi giải thích một cách ngắn gọn vấn đề của bạn. Nếu có khoảng trắng trong tên người dùng, vui lòng thay thế chúng bằng dấu gạch dưới (` _ `).
 
 Nếu bạn cảm thấy những nhận xét/đề nghị thực sự không phù hợp, khiếm nhã hoặc bạn là người dùng chưa đủ tuổi vị thành niên, vui lòng gửi email đến [abuse@ppy.sh](mailto:abuse@ppy.sh) với càng nhiều thông tin càng tốt.
 
@@ -30,9 +30,9 @@ Nếu bạn cảm thấy những nhận xét/đề nghị thực sự không ph�
 
 [Báo cáo bài đăng](/wiki/Reporting_bad_behaviour#forum) cho [Nhóm kiểm duyệt toàn cầu](/wiki/People/Global_Moderation_Team) của chúng tôi càng sớm càng tốt.
 
-Để báo cáo , hãy nhấp vào nút `Report post` ở góc trên bên phải của bài đăng trên diễn đàn.
+Để báo cáo, hãy nhấp vào nút `Report post` ở góc trên bên phải của bài đăng trên diễn đàn.
 
-Ngoài ra, cũng có thể nhấp vào tên người dùng của bất kỳ thành viên GMT nào trong danh sách trên trang wiki trên để đến hồ sơ của họ. Nếu bạn không biết nên chọn ai để báo cáo, [thay vào đó chỉ cần sử dụng liên kết này](https://osu.ppy.sh/users/102335).
+Ngoài ra, bạn cũng có thể nhấp vào tên người dùng của bất kỳ thành viên GMT nào trong danh sách trên trang wiki trên để đến hồ sơ của họ. Nếu bạn không biết nên chọn ai để báo cáo, [hãy cần sử dụng liên kết này](https://osu.ppy.sh/users/102335).
 
 Nhấp vào nút có hình phong bì ngay bên dưới lá cờ quốc gia của người dùng. Thao tác này sẽ đưa bạn đến cuộc trò chuyện.
 
@@ -42,13 +42,13 @@ Nếu bài đăng vẫn chưa được xóa trong khoảng thời gian hợp lý
 
 ## Trên máy chủ Discord công khai có liên quan đến osu! 
 
-Chặn ngay người dùng bằng cách nhấp chuột phải vào tên người dùng của họ và chọn `Block` xuất hiện trong danh sách thả xuống .
+Chặn ngay người dùng bằng cách nhấp chuột phải vào tên người dùng của họ và chọn `Block` xuất hiện trong danh sách thả xuống.
 
 Sau đó, hãy liên hệ ngay với quản trị viên của máy chủ bằng cách tìm ai đó ở đầu danh sách người dùng và cho họ biết điều gì đã xảy ra. Nếu bạn không thể tìm ra ai là quản trị viên, hãy tìm người có vương miện bên cạnh tên của họ - họ là chủ sở hữu máy chủ và chịu trách nhiệm về những gì xảy ra bên trong máy chủ đó.
 
 Nếu hành vi lạm dụng này tiếp tục diễn ra và quản trị viên không làm gì về việc đó, [vui lòng thông báo cho nhóm Discord Trust & Safety bằng cách gửi báo cáo](https://dis.gd/request).
 
-Ngoài ra, nếu bạn biết tài khoản osu! của người làm phiền bạn, vui lòng gửi email đến [abuse@ppy.sh](mailto:abuse@ppy.sh) chứa càng nhiều thông tin thì tốt và mọi thứ sẽ được điều tra kịp thời.
+Ngoài ra, nếu bạn biết tài khoản osu! của người làm phiền bạn, vui lòng gửi email đến [abuse@ppy.sh](mailto:abuse@ppy.sh) chứa càng nhiều thông tin thì càng tốt và mọi thứ sẽ được điều tra kịp thời.
 
 ## Trên Twitter được liên kết với tài khoản osu!
 
