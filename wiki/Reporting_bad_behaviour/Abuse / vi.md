@@ -45,7 +45,7 @@ Chặn ngay người dùng bằng cách nhấp chuột phải vào tên người
 
 Sau đó, hãy liên hệ ngay với quản trị viên của máy chủ bằng cách tìm ai đó ở đầu danh sách người dùng và cho họ biết điều gì đã xảy ra. Nếu bạn không thể tìm ra ai là quản trị viên, hãy tìm người có vương miện bên cạnh tên của họ - họ là chủ sở hữu máy chủ và chịu trách nhiệm về những gì xảy ra bên trong máy chủ đó.
 
-Nếu hành vi lạm dụng này tiếp tục diễn ra và quản trị viên không làm gì về việc đó, [vui lòng thông báo cho nhóm Discord Trust & Safety bằng cách gửi báo cáo](/support.discord.com/hc/requests/new?ticket_form_id=36000002973).
+Nếu hành vi lạm dụng này tiếp tục diễn ra và quản trị viên không làm gì về việc đó, [vui lòng thông báo cho nhóm Discord Trust & Safety bằng cách gửi báo cáo](https://dis.gd/request).
 
 Ngoài ra, nếu bạn biết osu!tài khoản của người làm phiền bạn, vui lòng gửi email đến [abuse@ppy.sh](mailto:abuse@ppy.sh) chứa càng nhiều thông tin càng tốt và nó sẽ được điều tra kịp thời.
 
