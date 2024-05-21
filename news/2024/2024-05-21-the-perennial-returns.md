@@ -52,7 +52,7 @@ You can head over to the **[website](https://theperennial.net/info)** to find ou
 
 ## How do I register?
 
-To register, head over to the **[registration page](https://www.theperennial.net/)** to connect your osu! account, as well as registering up your team! Before registering, please make sure that:
+To register, head over to the **[website](https://www.theperennial.net/)**, connect your osu! account, then register your team at the top right! Before registering, please make sure that:
 
 - You must not have violated the **[osu! community rules](/wiki/Rules)** within the past 12 months.
 - You have joined the **[Perennial Discord server](https://discord.com/invite/B3ssXmszaf)**.
