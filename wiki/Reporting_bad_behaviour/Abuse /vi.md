@@ -22,7 +22,7 @@ Chặn người dùng ngay lập tức bằng cách nhấp chuột phải vào t
 
 Bạn cũng nên báo cáo họ ngay lập tức bằng cách nhấp vào nút `Report User` và điền vào ô thông tin.
 
-Bạn cũng có thể báo cáo họ bằng cách nhập `!report <person> <problem>`, trong đó `<person>` là tên người dùng gây rắc rối cho bạn và `<problem>` để nghi giải thích một cách ngắn gọn vấn đề của bạn. Nếu có khoảng trắng trong tên người dùng, vui lòng thay thế chúng bằng dấu gạch dưới (` _ `).
+Bạn cũng có thể báo cáo họ bằng cách nhập `!report <person> <problem>`, trong đó `<person>` là tên người dùng gây rắc rối cho bạn và `<problem>` để ghi giải thích một cách ngắn gọn vấn đề của bạn. Nếu có khoảng trắng trong tên người dùng, vui lòng thay thế chúng bằng dấu gạch dưới (` _ `).
 
 Nếu bạn cảm thấy những nhận xét/đề nghị thực sự không phù hợp, khiếm nhã hoặc bạn là người dùng chưa đủ tuổi vị thành niên, vui lòng gửi email đến [abuse@ppy.sh](mailto:abuse@ppy.sh) với càng nhiều thông tin càng tốt.
 
@@ -32,7 +32,7 @@ Nếu bạn cảm thấy những nhận xét/đề nghị thực sự không ph�
 
 Để báo cáo, hãy nhấp vào nút `Report post` ở góc trên bên phải của bài đăng trên diễn đàn.
 
-Ngoài ra, bạn cũng có thể nhấp vào tên người dùng của bất kỳ thành viên GMT nào trong danh sách trên trang wiki trên để đến hồ sơ của họ. Nếu bạn không biết nên chọn ai để báo cáo, [hãy cần sử dụng liên kết này](https://osu.ppy.sh/users/102335).
+Ngoài ra, bạn cũng có thể nhấp vào tên người dùng của bất kỳ thành viên GMT nào trong danh sách trên trang wiki trên để đến hồ sơ của họ. Nếu bạn không biết nên chọn ai để báo cáo, [hãy sử dụng liên kết này](https://osu.ppy.sh/users/102335).
 
 Nhấp vào nút có hình phong bì ngay bên dưới lá cờ quốc gia của người dùng. Thao tác này sẽ đưa bạn đến cuộc trò chuyện.
 
