@@ -26,7 +26,7 @@ While past iterations have run off a standard Round of 32 double elimination bra
 
 Additionally, the tournament format will see some slight changes, with qualifiers determining seeding before taking the 9th to 32nd seeds into a single round-robin group stage. The winners of each group will be drafted to face off against the 1st to 8th seeds awaiting them in the Round of 16 double elimination bracket.
 
-You can head over to the **[website](https://www.theperennial.net/)** to find out more details about the overall tournament and mappool structure as well as other relevant rules.
+You can head over to the **[website](https://theperennial.net/info)** to find out more details about the overall tournament and mappool structure as well as other relevant rules.
 
 ## Tournament schedule
 
