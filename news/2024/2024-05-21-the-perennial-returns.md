@@ -24,7 +24,7 @@ We release multiple custom maps each year, but in 2022 we were the first tournam
 
 While past iterations have run off a standard Round of 32 double-elimination bracket with no restrictions on team formation, this year is slightly different. Teams will be limited to players all within one of three regions: the Americas; Europe, the Middle East, and Africa (EMEA); and Asia, Australia, and Oceania (AAO).
 
-Additionally, the tournament format will see some slight changes, with qualifiers determining seeding before taking the 9th to 32nd seeds into a single round-robin group stage. The winners of each group will be drafted to face off against the 1st to 8th seeds awaiting them in the Round of 16 double elimination bracket.
+Additionally, the tournament format will see some slight changes, with qualifiers determining seeding before taking the 9th to 32nd seeds into a single round-robin group stage. The winners of each group will be drafted to face off against the 1st to 8th seeds awaiting them in the Round of 16 double-elimination bracket.
 
 You can head over to the **[website](https://theperennial.net/info)** to find out more details about the overall tournament and mappool structure as well as other relevant rules.
 
