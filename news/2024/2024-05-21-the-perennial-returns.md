@@ -55,7 +55,7 @@ You can head over to the **[website](https://theperennial.net/info)** to find ou
 To register, head over to the **[registration page](https://www.theperennial.net/)** to connect your osu! account, as well as registering up your team! Before registering, please make sure that:
 
 - You must not have violated the **[osu! community rules](/wiki/Rules)** within the past 12 months.
-- You have joined the **[Perennial Discord server](https://discord.gg/B3ssXmszaf)**.
+- You have joined the **[Perennial Discord server](https://discord.com/invite/B3ssXmszaf)**.
 
 On top of that, you are required to sign up with a team of at least 6 members. If you don't have enough team members, the `#looking-for-team` channel in the [Discord server](https://discord.gg/B3ssXmszaf) has some eager players willing to join up.
 
