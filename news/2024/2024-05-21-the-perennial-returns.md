@@ -44,10 +44,10 @@ You can head over to the **[website](https://theperennial.net/info)** to find ou
 ## Prizes
 
 | Placement | Badge | Trophy | Cash |
-| --: | :--: | :--: | :-- |
-| First | &check; | &check; | 50% |
-| Second | &check; | &check; | 33% |
-| Third | &check; | &check; | 17% |
+| --: | :-: | :-: | :-- |
+| First | ✓ | ✓ | 50% |
+| Second | ✓ | ✓ | 33% |
+| Third | ✓ | ✓ | 17% |
 
 
 ## How do I register?
