@@ -27,6 +27,7 @@ Bạn cũng có thể báo cáo họ bằng cách nhập `!report <person> <prob
 Nếu bạn cảm thấy những nhận xét/đề nghị không phù hợp hoặc bạn là người dùng chưa đủ tuổi vị thành niên, vui lòng gửi email đến [abuse@ppy.sh](mailto:abuse@ppy.sh) chứa càng nhiều thông tin càng tốt.
 
 ## Trong một bài đăng công khai trên osu! diễn đàn 
+
 [Báo cáo bài đăng](/wiki/Reporting_bad_behaviour#forum) cho [Nhóm kiểm duyệt toàn cầu](/wiki/People/Global_Moderation_Team) của chúng tôi càng sớm càng tốt.
 
 Để làm như vậy, hãy nhấp vào nút `Report post` ở góc trên bên phải của bài đăng trên diễn đàn.
