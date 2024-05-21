@@ -1,6 +1,6 @@
 # Server Discord
 
-Halaman indeks untuk semua artikel mengenai server [Discord](https://discord.com/) komunitas.
+Halaman ini merupakan halaman indeks untuk seluruh artikel yang membahas seputar server [Discord](https://discord.com/) komunitas.
 
 - [osu! Medal Hunters](osu!_Medal_Hunters)
 - [osu! University](osu!_University)

@@ -1,25 +1,23 @@
----
-outdated_translation: true
-outdated_since: ee4fd04f1b790646825513549a59fc30a1970afa
----
-
 # Orang-orang
 
-Berikut ini merupakan daftar artikel yang membahas seputar sosok-sosok penting dan kelompok-kelompok pengguna khusus yang osu! miliki.
+Halaman ini merupakan halaman indeks untuk berbagai artikel yang membahas seputar sosok atau grup tertentu.
 
-## Kini
+## Saat ini
 
 - [Tim dukungan akun](Account_support_team)
 - [Beatmap Nominator](Beatmap_Nominators)
 - [Beatmap Spotlight Curator](Beatmap_Spotlight_Curators)
+- [Centurion](Centurions)
 - [Kontributor komunitas](Community_Contributors)
-- [Developer](Developers)
+- [Completionist](Completionists)
+- [Pengembang](Developers)
+- [Elite Nominator](Elite_Nominators)
 - [Featured Artist](Featured_Artists)
 - [Global Moderation Team](Global_Moderation_Team)
 - [Nomination Assessment Team](Nomination_Assessment_Team)
-- [Komite performance point](Performance_Points_Committee)
+- [Komite Performance Point](Performance_Points_Committee)
 - [Project Loved Team](Project_Loved_Team)
-- [Support Team](Support_Team)
+- [Tim dukungan teknis](Support_Team)
 - [Komite turnamen](Tournament_Committee)
 - [osu! Alumni](osu!_Alumni)
 - [Tim osu!](osu!_team)
@@ -36,5 +34,5 @@ Berikut ini merupakan daftar artikel yang membahas seputar sosok-sosok penting d
 
 - [peppy](peppy)
 - [Log staf](Staff_log)
-- [Grup pengguna](User_group)
+- [Kelompok pengguna](User_group)
 - [Daftar pengguna dengan gelar khusus](Users_with_unique_titles)

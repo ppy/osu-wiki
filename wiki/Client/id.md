@@ -7,7 +7,7 @@ tags:
 
 # Klien
 
-Halaman indeks untuk artikel mengenai klien game osu! dan bagian-bagian utamanya.
+Halaman ini merupakan halaman indeks untuk seluruh artikel yang membahas seputar klien permainan osu! serta bagian-bagian utamanya.
 
 ## Perkenalan
 
@@ -15,11 +15,11 @@ Halaman indeks untuk artikel mengenai klien game osu! dan bagian-bagian utamanya
 - [Instalasi](Installation)
 - [Tampilan antarmuka](Interface)
 - [Tips menu](Menu_tips)
-- [Menu opsi](Options)
+- [Menu Options](Options)
 - [Versi rilis](Release_stream)
-- [Tombol-tombol *shortcut*](Keyboard_shortcuts)
+- [Referensi tombol pintasan](Keyboard_shortcuts)
 
 ## Rincian teknis
 
-- [Format-format berkas](File_formats)
-- [Berkas-berkas program osu!](Program_files)
+- [Format berkas](File_formats)
+- [Berkas program osu!](Program_files)

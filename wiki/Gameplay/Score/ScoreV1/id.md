@@ -1,6 +1,6 @@
 # ScoreV1
 
-Halaman indeks untuk artikel ScoreV1.
+Halaman ini merupakan halaman indeks untuk seluruh artikel ScoreV1.
 
 - [osu!](osu!)
 - [osu!taiko](osu!taiko)
