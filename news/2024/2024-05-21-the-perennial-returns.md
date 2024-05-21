@@ -49,7 +49,6 @@ You can head over to the **[website](https://theperennial.net/info)** to find ou
 | Second | ✓ | ✓ | 33% |
 | Third | ✓ | ✓ | 17% |
 
-
 ## How do I register?
 
 To register, head over to the **[website](https://www.theperennial.net/)**, connect your osu! account, then register your team at the top right! Before registering, please make sure that:
