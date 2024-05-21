@@ -39,7 +39,7 @@ Random [Mappers' Guild](/wiki/Community/Mappers_Guild) maps are added on top.
 The random maps have the following selection criteria:
 
 - Licensed song
-- Between 60 ond 240 seconds
+- Between 60 and 240 seconds
 - Includes Easy/Normal/Hard/Insane difficulties
 - Background is explicitly permitted as okay to use in osu!
 - No explicit or AI content
