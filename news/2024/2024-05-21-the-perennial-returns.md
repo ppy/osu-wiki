@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Perennial Returns"
+title: The Perennial Returns
 date: 2024-05-21 19:00:00 +0000
 ---
 
