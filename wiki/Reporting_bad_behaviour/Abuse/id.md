@@ -65,9 +65,9 @@ Apabila tweet tersebut berasal dari akun Twitter yang tertaut pada halaman profi
 
 ## Salah seorang anggota tim sukarelawan (NAT, GMT) mendekati/berbicara/bertindak secara tidak senonoh terhadap saya!
 
-Kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) **sesegera mungkin** dengan menyertakan informasi yang selengkap-lengkapnya.
+Kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) **sesegera mungkin** dengan menyertakan informasi yang selengkap-lengkapnya. Hal ini meliputi tangkapan layar, *chat log*, dan bukti apa pun juga yang dapat kamu lampirkan melalui email.
 
-Apabila kamu ingin melampirkan sesuatu yang dapat membuatmu malu, mohon kosongkan bagian yang mengandung aib dari laporanmu. Hal ini meliputi tangkapan layar, *chat log*, dan apa pun itu yang dapat dilampirkan melalui email.
+Apabila kamu ingin melampirkan sesuatu yang dapat membuatmu malu, mohon kosongkan bagian yang mengandung aib dari laporanmu.
 
 Kami akan menindaklanjuti laporanmu dengan segera.
 
@@ -75,4 +75,10 @@ Kami akan menindaklanjuti laporanmu dengan segera.
 
 Kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan segala informasi dan bukti yang kamu ketahui.
 
-Apabila kamu tidak memiliki bukti apa pun dan informasi yang kamu ketahui hanya berasal dari desas-desus yang beredar, jangan sungkan untuk tetap melapor kepada kami. Kami menanggapi segala keluhan seputar tindak pelecehan yang demikian dengan sungguh-sungguh dan akan memeriksa seluruh laporan yang masuk secara mendalam.
+Apabila kamu tidak memiliki bukti apa pun kecuali desas-desus atau rumor yang kamu rasa perlu untuk ditindak lebih lanjut, jangan sungkan untuk tetap melapor kepada kami. Kami menanggapi segala keluhan seputar tindak pelecehan yang demikian dengan sungguh-sungguh dan akan memeriksa seluruh laporan yang masuk secara mendalam.
+
+## Email saya telah diabaikan!
+
+Apabila kamu belum menerima balasan atas emailmu setelah beberapa minggu, mohon kirim email baru untuk ditindaklanjuti.
+
+Email tersebut kemungkinan hilang di suatu tempat karena satu dan lain hal, namun kami masih tetap ingin menyelidiki laporanmu.
