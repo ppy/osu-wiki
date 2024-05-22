@@ -1,3 +1,7 @@
+---
+outdated_translation: true
+---
+
 # Turniersperren
 
 *Hauptseite: [Hilfecenter](/wiki/Help_centre)*

@@ -9,13 +9,13 @@ tags:
 
 The **Tournament Committee** is a panel of skilled and established organisers and helpers in the tournament scene. The panel was first announced to the public on July 22, 2021 through the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) in response to the rapidly growing community tournament scene in osu!.
 
-The Tournament Committee’s responsibilities related to advising the [Account Support team](https://osu.ppy.sh/wiki/en/People/Account_support_team) include advising the account support team on:
+The Tournament Committee’s responsibilities related to advising the [Account Support team](/wiki/People/Account_support_team) include advising the account support team on:
 - Responses to general inquiries at the tournaments email
 - Whether to hand out tournament bans and tournament staffing bans and for how long on a case-by-case basis
 - Which tournaments have concluded and need their badges applied to winners’ profiles
 - Which tournament should be awarded badges to the top three teams
 Additionally, the tournament committee performs the following roles independent of the account support team:
-- Regularly reviewing the [Official tournament support](https://osu.ppy.sh/wiki/en/Tournaments/Official_support) page for revisions when necessary
+- Regularly reviewing the [Official tournament support](/wiki/Tournaments/Official_support) page for revisions when necessary
 - Investigating reports from the [tournament reports form](https://pif.ephemeral.ink/tournament-reports)
 - Checking each tournament upon conclusion to ensure tournaments requesting official support all meet the criteria
 - Denying badges to tournaments that have requested it should they breach the Official Support criteria
@@ -33,7 +33,7 @@ Their responsibilities include:
 - Observing the general contest scene and advising the [account support team](/wiki/People/Account_support_team) on a case-by-case basis
 - Regularly reviewing the [Official beatmapping contest support](/wiki/Contests/Official_support) page for revisions when necessary
 
-The panel was first announced to the public on February 28, 2024 through the [Mapping Discussion](https://osu.ppy.sh/community/forums/topics/1890429?n=1) forum.
+The panel was first announced to the public on February 28, 2024 through the [Mapping Discussion](/community/forums/topics/1890429) forum.
 
 ## Tournament Committee Workflow
 
@@ -87,7 +87,7 @@ The Tournament Committee maintains an [account on X](https://twitter.com/osu_tco
 
 The [Community Tournament Status Tracker](https://docs.google.com/spreadsheets/d/1bV5MyrJZI0F52Bx9EcYxdfRu8qGnhWRBKdXHK9uPbO0/edit?usp=sharing) is a publicly viewable spreadsheet detailing the status of all tournaments that have requested official support, i.e. all tournaments that requested screening. This sheet shows all tournaments dating back to January 14th, 2023, and contains a description of the status of the tournament at any given time, including whether a badge was applied or denied. If a badge was denied, the reason for denial is stated on the sheet.
 
-The [Official Tournament Support Updates thread](https://osu.ppy.sh/community/forums/topics/1715676?n=1) is a pinned thread in the [Tournaments & Contests forum](https://osu.ppy.sh/community/forums/126) which contains all updates to the Official Tournament Support wiki dating back to February 1st, 2023. This thread is updated and bumped every time a change is made to the Official Tournament Support wiki. This thread also contains links to the Official Support wiki and the Community Tournament Status Tracker.
+The [Official Tournament Support Updates thread](/community/forums/topics/1715676) is a pinned thread in the [Tournaments & Contests forum](/community/forums/126) which contains all updates to the Official Tournament Support wiki dating back to February 1st, 2023. This thread is updated and bumped every time a change is made to the Official Tournament Support wiki. This thread also contains links to the Official Support wiki and the Community Tournament Status Tracker.
 
 ### Adding New Members
 
@@ -128,16 +128,7 @@ Adding New Members:
 
 ## Tournament Ban Lengths
 
-The following table lists some common tournament ban reasons and corresponding lengths. Note that this list is not exhaustive, and these lengths may change depending on other factors such as severity or frequency of occurrence. Also note that subsequent offences of the same type or multiple subsequent offences of different types will incur longer tournament bans.
-
-| Tournament Ban Reason | Duration |
-| --: | :-- |
-| Community rules violation | 1 month or more |
-| Staff disrespect or time-wasting | 1 month or more |
-| Enabled multi-accounting or cheating | 6 months or more |
-| Colluding with hosts | 6 months or more |
-| Multi-accounting or cheating | Indefinite |
-| Abhorrent or abusive misconduct | Variable |
+Common tournament ban lengths can be found on the [Tournament bans](/wiki/Help_centre/Tournament_bans) wiki page.
 
 ## FAQ
 
