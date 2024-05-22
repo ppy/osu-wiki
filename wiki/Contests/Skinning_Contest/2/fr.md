@@ -6,7 +6,7 @@ tags:
   - skins
 ---
 
-# Skinning Contest #2
+# Skinning Contest #2: Tides of Winter
 
 ![Bannière du Skinning Contest #2](img/banner.jpg)
 
