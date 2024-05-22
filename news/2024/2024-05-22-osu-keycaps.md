@@ -6,7 +6,7 @@ date: 2024-05-22 20:00:00 +0000
 
 osu! players have a bit of a reputation for clicking circles with clacky keys. Thanks to our collaboration with [**The KapCo**](https://www.thekapco.com/products/osu-pippi-keycap-set), your keyboard can finally dress the part!
 
-![](/wiki/shared/news/2024-05-22-osu-keycaps/header.jpg)
+![](/wiki/shared/news/2024-05-22-osu-keycaps/banner.jpg)
 
 When osu! first released, rubber domes and scissor switches dominated the scene.
 
