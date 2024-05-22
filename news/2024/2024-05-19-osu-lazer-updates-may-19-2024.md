@@ -6,7 +6,7 @@ date: 2024-05-19 23:00:00 +0000
 
 Get your monthly fix of the latest and greatest osu!(lazer) updates!
 
-![](/wiki/shared/news/2024-05-19-osu-lazer-updates-may-19-2024/banner.jpg)
+![](/wiki/shared/news/2024-05-19-osu-lazer-updates-may-19-2024/banner.jpg?1)
 
 The devs have collected all the feedback submitted by the community so far, and have worked hard to implement many of the requested features! You can keep reading to see some highlighted changes, or watch the video digest below!
 
@@ -39,7 +39,7 @@ Random [Mappers' Guild](/wiki/Community/Mappers_Guild) maps are added on top.
 The random maps have the following selection criteria:
 
 - Licensed song
-- Between 60 ond 240 seconds
+- Between 60 and 240 seconds
 - Includes Easy/Normal/Hard/Insane difficulties
 - Background is explicitly permitted as okay to use in osu!
 - No explicit or AI content
