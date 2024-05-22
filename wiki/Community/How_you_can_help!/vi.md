@@ -64,18 +64,20 @@ Dưới đây chỉ là một số cách bạn có thể giúp đỡ:
 
 - Duyệt qua diễn đàn [Giải đấu](https://osu.ppy.sh/community/forums/55), các giải đấu mất rất nhiều thời gian và công sức để tổ chức mà không gặp trở ngại nào và bạn có thể giúp đỡ bằng cách làm giám khảo khán giả trong một số trường hợp.
 - Kiểm tra những gì đang diễn ra trong diễn đàn [Phát triển](https://osu.ppy.sh/community/forums/2), đây là nơi thực hiện các dự án nghiêm túc nhất.
--  Tham gia [osu!discord](https://discord.com/invite/ppy) và chỉ cần theo dõi cập nhật phát triển osu! và các dự án là một cách tốt để có thông tin về các dự án trong tương lai.
+ - Tham gia [osu!discord](https://discord.com/invite/ppy) và chỉ cần theo dõi cập nhật phát triển osu! và các dự án là một cách tốt để có thông tin về các dự án trong tương lai.
 - Tham gia [dự án beatmap](https://osu.ppy.sh/community/forums/53) để tìm hiểu việc hợp tác với người khác thú vị như thế nào!
 - Bắt đầu dự án của riêng bạn hoặc tham gia dự án của người khác! Cho dù đó là về những chú pippi nhảy múa hay đơn giản là làm thứ gì đó thú vị cho osu!, mọi thứ có thể được chấp nhận!
--  Kiểm tra [danh sách các dự án phổ biến](/wiki/Community/Projects).
+ - Kiểm tra [danh sách các dự án phổ biến](/wiki/Community/Projects).
 
 ## Đóng góp cho tương lai của osu!
+
 Bắt đầu vào năm 2017, dự án [osu!(lazer)](/wiki/Client/Release_stream/Lazer) là trọng tâm hiện tại của [osu!team](/wiki/People/osu%21_team) và cùng với wedsite mới, đó là những gì bạn thấy ngày hôm nay! Nếu bạn muốn làm cho những dự án này trở nên tốt hơn nữa và đến gần hơn với tương lai của osu!, thì bạn có thể giúp một số việc dưới nhưng đây chỉ là một vài ví dụ:
 
 - Giúp đỡ dự án [osu!(lazer)](https://github.com/ppy/osu). Có rất nhiều thứ cần triển khai trên phiên bản mới của osu!, và bạn có thể giúp biến điều đó thành hiện thực!
 - Làm cho [wedsite](https://github.com/ppy/osu-web) ngày càng tốt hơn.
 
 ## Tránh tiêu cực! Làm cho mọi người vui vẻ!
+
 Có một câu nói cổ rằng :*“bạn nên trở thành một phần của giải pháp chứ không phải của một vấn đề”*. Chỉ cần làm theo câu nói cổ này, bạn sẽ giúp được osu! bằng cách làm cho cộng đồng trở thành một nơi tươi sáng hơn. Mọi người sẽ luôn phàn nàn, nhưng vẫn có rất nhiều cách bạn có thể giúp cải thiện tâm trạng trong cộng đồng:
 
 - Hãy thân thiện với nhau; cuộc sống quá ngắn để tranh luận.
