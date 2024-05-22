@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu! keycaps"
+title: osu! keycaps
 date: 2024-05-22 20:00:00 +0000
 ---
 
