@@ -36,7 +36,7 @@ See it in action:
 
 (That keycap remover is included too, by the way.)
 
-It's impossible to please both sides of *light mode* vs. *dark mode* debates. Actually, nevermind — we included `Esc` keys for both.
+It's impossible to please both sides of *light mode* vs. *dark mode* debates. Actually, nevermind — we included `Esc` keys for both, designed by [Tanza3D](https://osu.ppy.sh/users/10379965).
 
 [![](/wiki/shared/news/2024-05-22-osu-keycaps/esc.jpg)](https://www.thekapco.com/products/osu-pippi-keycap-set)
 
@@ -48,11 +48,11 @@ Sometimes circle clickers... aren't actually circle clickers, so we've also incl
 
 If you don't have a compatible keyboard yet, **The KapCo** also offers these keycap sets as proper keyboards too!
 
-Specifically, you can pick up either this perfectly sized 75% keyboard...
+Specifically, you can pick up either [this perfectly sized 75% keyboard]((https://www.thekapco.com/products/osu-pippi-keycap-set?variant=47259204911337))...
 
 [![](/wiki/shared/news/2024-05-22-osu-keycaps/keyboard.jpg)](https://www.thekapco.com/products/osu-pippi-keycap-set?variant=47259204911337)
 
-...or if that's too much dedication, stay stealthy with a slick numpad.
+...or if that's too much dedication, stay stealthy with [a slick numpad](https://www.thekapco.com/products/osu-pippi-keycap-set?variant=47259204878569).
 
 [![](/wiki/shared/news/2024-05-22-osu-keycaps/numpad.png)](https://www.thekapco.com/products/osu-pippi-keycap-set?variant=47259204878569)
 
