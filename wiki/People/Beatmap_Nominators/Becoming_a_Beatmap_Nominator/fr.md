@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 17b91e95105e01d6fb919705380f236f7353cc7c
 ---
 
 # Devenir un Beatmap Nominator
@@ -44,7 +46,7 @@ Les caractéristiques suivantes sont attendues des Beatmap Nominators en matièr
 
 ## Processus de candidature
 
-![Organigramme du processus de candidature](img/ApplicationFlowchart.png "Organigramme décrivant le processus de candidature au poste de Beatmap Nominator")
+![Organigramme du processus de candidature](img/bn-application-flowchart.png "Organigramme décrivant le processus de candidature au poste de Beatmap Nominator")
 
 Chaque candidature soumise sur le site des BN qui passe le [test des Beatmap Nominator](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) sera examinée par des évaluateurs qui détermineront si le candidat peut ou non entrer dans le groupe des Beatmap Nominator.
 
