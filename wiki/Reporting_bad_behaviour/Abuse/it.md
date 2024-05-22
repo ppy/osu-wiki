@@ -1,8 +1,3 @@
----
-outdated_since: 5f603d93877d6b915ce864a793df5f4a7fbc2a33
-outdated_translation: true
----
-
 # Denunciare un abuso
 
 ## Non so se dovrei segnalarlo o meno
@@ -27,13 +22,15 @@ Blocca immediatamente l'utente cliccando il suo username col tasto destro e sele
 
 Dovresti anche segnalarli immediatamente cliccando il pulsante `Segnala Utente` e riempiendo i campi.
 
+Puoi segnalare l'utente anche scrivendo `!report <persona> <problema>`, dove  `<persona>` è il nome utente della persona che sta causando problemi, e `<problema>` è una rapida spiegazione del dei problemi. Se ci sono degli spazi nel nome utente della persona, riampiazzateli con il simbolo trattino basso (`_`).
+
 Se senti che queste osservazioni/avance erano altamente inappropriate o sei un utente minorenne, per favore invia un'email a [abuse@ppy.sh](mailto:abuse@ppy.sh) contenendo più informazioni possibili.
 
 ### In un post pubblico sui forum di osu!
 
-Segnala il post ad un qualsiasi membro del nostro [Team di Moderazione Globale](/wiki/People/Global_Moderation_Team) il prima possibile.
+[Segnala il post](/wiki/Reporting_bad_behaviour#forum) al nostro [Team di Moderazione Globale](/wiki/People/Global_Moderation_Team) il prima possibile.
 
-Per farlo, clicca il nome utente di un qualsiasi utente GMT nella lista su quella pagina. Questo ti portera al suo profilo. Se non sei sicuro di chi cliccare, usa [invece questo link](https://osu.ppy.sh/users/102335).
+In alternativa, clicca il nome utente di un qualsiasi utente GMT nella lista su quella pagina. Questo ti portera al suo profilo. Se non sei sicuro di chi cliccare, usa [invece questo link](https://osu.ppy.sh/users/102335).
 
 Clicca il pulsante con una busta dentro appena sotto la bandiera del paese dell'utente. Questo ti porterà alla schermata della chat.
 
@@ -65,9 +62,9 @@ Se il tweet proviene da un account che è collegato al profilo di osu! di un ute
 
 ### Un membro di uno dei team di volontari (NAT, GMT) si sta approcciando/parlando/agendo su di me in modo inappropriato!
 
-Invia un'email ad [abuse@ppy.sh](mailto:abuse@ppy.sh) contenendo quante più informazioni possibili **immediatamente**.
+Invia un'email ad [abuse@ppy.sh](mailto:abuse@ppy.sh) contenendo quante più informazioni possibili **immediatamente**. Questo include screenshot, log delle chat, praticamente qualsiasi cosa tu possa collegare ad un'email.
 
-Se una qualsiasi cosa tu voglia includere ti fa sentire in imbarazzo, per favore rimuovila. Questo include screenshot, log delle chat, praticamente qualsiasi cosa tu possa collegare ad un'email.
+Se una qualsiasi cosa tu voglia includere ti fa sentire in imbarazzo, per favore rimuovila.
 
 Faremo un controllo appena possibile.
 
@@ -76,3 +73,9 @@ Faremo un controllo appena possibile.
 Invia un'email ad [abuse@ppy.sh](mailto:abuse@ppy.sh) contenente tutto  ciò che sai con quante più prove riesci a raccogliere.
 
 Se non hai alcuna prova ma solo storie o voci che credi siano sostanziali abbastanza da agire, per favore inviaci un'email comunque. Prendiamo lamentele come queste molto seriamente e controlleremo a fondo ogni singola segnalazione.
+
+## La mia email è stata ignorata!
+
+Se non hai ricevuto risposta alla tua email per più di un paio di settimane, mandate una email di follow-up.
+
+L'email è stata probabilmente persa da qualche parte lungo il tragitto, ma vogliamo comunque analizzare la tua segnalazione.
