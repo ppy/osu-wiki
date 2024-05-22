@@ -482,5 +482,7 @@ Detailed results and statistics for the Qualifier stage can be found in the foll
 - The top 32 qualifying teams will advance to a double elimination bracket.
   - Cumulative z-score, scaled to 0–100, will be used to seed the teams.
 
-[^winners-bracket]: Winners bracket match
+[^losers-bracket]: Losers bracket match
+[^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
 [^qualifiers-seeding]: Cumulative z-score, scaled to 0–100
+[^winners-bracket]: Winners bracket match
