@@ -27,7 +27,6 @@ Nếu bạn thấy ai đó đang gặp vấn đề với game, hãy giúp họ m
 Các phần sau đây gợi ý bạn cách để bắt đầu giúp đỡ người khác trên diễn đàn:
 
 - Chọn một diễn đàn thu hút sự quan tâm của bạn, ví dụ:
-
 - [help](https://osu.ppy.sh/community/forums/5)
 - [Mapping Discussion](https://osu.ppy.sh/community/forums/56)
 - [Storyboarding](https://osu.ppy.sh/community/forums/20)
