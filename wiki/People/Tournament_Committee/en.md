@@ -9,7 +9,7 @@ tags:
 
 The **Tournament Committee** is a panel of skilled and established organisers and helpers in the tournament scene. The panel was first announced to the public on July 22, 2021 through the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) in response to the rapidly growing community tournament scene in osu!.
 
-The Tournament Committee’s responsibilities related to advising the [Account Support team](/wiki/People/Account_support_team) include advising the account support team on:
+The Tournament Committee’s responsibilities include advising the [Account Support team](/wiki/People/Account_support_team) on:
 - Responses to general inquiries at the tournaments email
 - Whether to hand out tournament bans and tournament staffing bans and for how long on a case-by-case basis
 - Which tournaments have concluded and need their badges applied to winners’ profiles
@@ -103,27 +103,22 @@ The Tournament Committee frequently makes use of anonymous voting when making im
 
 Withholding Badge Support:
 - Minimum three days open
-- Strict participation
 - Absolute majority required
 
 Tournament Bans:
 - Minimum three days open
-- Strict participation
 - Absolute majority required
 
 Tournament Staffing Bans:
 - Minimum three days open
-- Strict participation
 - Absolute majority required
 
 Top Three Badge Support:
 - Minimum four days open
-- Strict participation
 - 80% voting yes to pass
 
 Adding New Members:
 - Minimum four days open
-- Strict participation
 - 80% voting yes to pass
 
 ## Tournament Ban Lengths
