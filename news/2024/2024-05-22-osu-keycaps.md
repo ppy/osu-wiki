@@ -64,12 +64,10 @@ And of course, both of these come with the full keycap sets too!
 
 **The KapCo** was generous enough to give us NUMBER sets of keys for free, so we'll be doing a joint giveaway!
 
-There are two ways to enter:
+To enter, [head to this forum thread](LINK) and do two things:
 
-1. Retweet [our tweet](LINK)
-2. Follow [@thekapco](https://www.instagram.com/thekapco/) on Instagram, and like/comment on [this post](LINK)
-
-If you do both, you'll be twice as likely to win!
+1. Drop a pic of your current keyboard with your fingers on your preferred key input binds
+2. Explain why you use those keys
 
 We'll be announcing the giveaway winners in **3 days** (DATE) on [the @osugame Twitter](https://twitter.com/osugame), so look out for that.
 
