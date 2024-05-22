@@ -74,11 +74,11 @@ Legendary as it is, [\[Luanny\]](https://osu.ppy.sh/users/802909)'s beatmap of [
 160 BPM, 2:25 | 6.15★\
 *description written by [Mismagius](https://osu.ppy.sh/users/19048)*
 
-\[ [ ＩＮＩＴＩＡＴＩＮＧ ＳＭＡＬＬ ＳＰＥＣＴＡＣＬＥＳ ＭＯＤＵＬＥ \] ]
+\[ \[ ＩＮＩＴＩＡＴＩＮＧ ＳＭＡＬＬ ＳＰＥＣＴＡＣＬＥＳ ＭＯＤＵＬＥ \] \]
 
 Laur's *Metamorphose*, mapped by Silverboxer. At first, your average tech map. Then, all of a sudden¶§¶§¶§¶§¶§¶§¶§¶§¶§¶§¶§¶§¶§¶§¶§¶§¶§¶§¶§¶§¶§¶§¶§¶§¶§¶§¶§¶§
 
-\[ [ ＦＡＴＡＬ ＥＲＲＯＲ！ ＲＥＳＴＡＲＴＩＮＧ．．． \] ]
+\[ [ ＦＡＴＡＬ ＥＲＲＯＲ！ ＲＥＳＴＡＲＴＩＮＧ．．． \] \]
 
 Whew! What was I talking about again? Oh, yeah, I don't think it's worth spoiling this one. You'll just have to see for yourself. But be§¶ware! There's a reason why this beatmap has gotten overwhelming support on the Loved website. It's certainly one of a kind. Definitely a map that transforms right in front of your eyes. Good luck!
 
@@ -344,9 +344,9 @@ It truly does not get any more deceptively trickier than this.
 
 If you're familiar with jazz at all, it's practically required knowledge to know what this song is. Being incredibly complex, this chart does a great job at translating that feel to mania terms. With the BPM being completely variable, the timings for both hitting and releasing the notes ends up being much more of a challenge than anyone would expect. To put it into perspective, we can simply quote the description:
 
-"how do you acc this
-
-od update idk if od 7 is too much"
+> how do you acc this
+>
+> od update idk if od 7 is too much
 
 Of course, something of this quality wouldn't go under the radar, as [4DM24](/wiki/Tournaments/4DM/2024) just recently picked it up for their Semifinals mappool. With the chart already having a following, this was quite a pleasant surprise to see.
 
