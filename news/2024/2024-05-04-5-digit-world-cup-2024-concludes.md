@@ -48,7 +48,7 @@ In the beginning, all looked normal for Poland, the 98.6% favourite according to
 
 As the match charges on, Australia managed to earn point after point. Expecting an easy 3-0 lead, Poland picked HR3 and lost by a huge margin (by nearly 500k points). The score was now 2-1 and the ball was in Australia's court. Looking to tie things up, the Aussies went for FM2 and managed to win by 300k — a second victory in a row over the goliath that is the Polish team. Everyone's pick'ems were already shattered by this point, but the Australian team still had more up their sleeves and the score is tied 2-2.
 
-Lagging behind and desperately in need of momentum, Poland picked DT3. After an uncertain ending with ::{ flag=AU }:: [Trainjumper](https://osu.ppy.sh/users/2272587)'s client freezing on the livestream, the results were revealed in the [match logs](https://osu.ppy.sh/community/matches/113190844). Australia won again and now had the advantage at 2-3. They shot for NM2 and won yet another point, somehow flipping the script and making Australia the one with match point against the would-be winners of the tournament.
+Lagging behind and desperately in need of momentum, Poland picked NM3. After an uncertain ending with ::{ flag=AU }:: [Trainjumper](https://osu.ppy.sh/users/2272587)'s client freezing on the livestream, the results were revealed in the [match logs](https://osu.ppy.sh/community/matches/113190844). Australia won again and now had the advantage at 2-3. They shot for NM2 and won yet another point, somehow flipping the script and making Australia the one with match point against the would-be winners of the tournament.
 
 In the end, the run of a lifetime dissolved as Poland locked in and surged for victory, ultimately defeating the Australians in a 5-4 tiebreaker victory. The fact this match went to tiebreaker at all is incredible, and we're certain the Australian team is proud of their efforts.
 
@@ -200,7 +200,7 @@ How did creating 5 custom maps for 5WC 2024 come about? Was this a special occas
 > 
 > This was DEFINITELY a special occasion, where circumstances just lined up perfectly — typically mappers just make a map or two over the whole tournament (myself included). In any other circumstances this would be a painful, if not impossible, thing for me to do, especially because compared to other mappers I tend to be a lot slower in creating maps, and also because maps tend to go through a quality assurance process before being released.
 
-Having collaborated with a few artists at this point for original songs in your maps, how would you describe your experience this time mapping the [Grand Finals tiebreaker *Beyond Reality*](https://osu.ppy.sh/beatmapsets/2163553#osu/4562997)?
+Having collaborated with a few artists at this point for original songs in your maps, how would you describe your experience this time mapping the [Finals tiebreaker *Beyond Reality*](https://osu.ppy.sh/beatmapsets/2163553#osu/4562997)?
 
 > Compared to my other original song maps, the highlight for this occasion was how closely I was able to work with the song artist themselves. Working closely with [Naikou](https://osu.ppy.sh/users/29139453) during the various stages of creating this map was wonderful.
 > 
