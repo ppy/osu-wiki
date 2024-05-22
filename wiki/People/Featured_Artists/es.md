@@ -51,6 +51,7 @@ La [página de grupo de los artistas destacados](https://osu.ppy.sh/groups/35) e
 
 | Usuario | Artista |
 | :-- | :-- |
+| ::{ flag=GB }:: [633397](https://osu.ppy.sh/users/11392390) | [633397](https://osu.ppy.sh/beatmaps/artists/419) |
 | ::{ flag=JP }:: [69\_de\_74](https://osu.ppy.sh/users/28700783) | [69 de 74](https://osu.ppy.sh/beatmaps/artists/268) |
 | ::{ flag=JP }:: [7\_7](https://osu.ppy.sh/users/7491106) | [7\_7](https://osu.ppy.sh/beatmaps/artists/356) |
 | ::{ flag=JP }:: [A\_\_](https://osu.ppy.sh/users/12011880) | [A?](https://osu.ppy.sh/beatmaps/artists/173) |
