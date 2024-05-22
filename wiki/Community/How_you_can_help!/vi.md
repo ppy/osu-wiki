@@ -70,7 +70,7 @@ Dưới đây chỉ là một số cách bạn có thể giúp đỡ:
 
 ## Đóng góp cho tương lai của osu!
 
-Bắt đầu vào năm 2017, dự án [osu!(lazer)](/wiki/Client/Release_stream/Lazer) là trọng tâm hiện tại của [osu!team](/wiki/People/osu%21_team) và cùng với wedsite mới, đó là những gì bạn thấy ngày hôm nay! Nếu bạn muốn làm cho những dự án này trở nên tốt hơn nữa và đến gần hơn với tương lai của osu!, thì bạn có thể giúp một số việc dưới nhưng đây chỉ là một vài ví dụ:
+Bắt đầu vào năm 2017, dự án [osu!(lazer)](/wiki/Client/Release_stream/Lazer) là trọng tâm hiện tại của [osu!team](/wiki/People/osu!_team) và cùng với wedsite mới, đó là những gì bạn thấy ngày hôm nay! Nếu bạn muốn làm cho những dự án này trở nên tốt hơn nữa và đến gần hơn với tương lai của osu!, thì bạn có thể giúp một số việc dưới nhưng đây chỉ là một vài ví dụ:
 
 - Giúp đỡ dự án [osu!(lazer)](https://github.com/ppy/osu). Có rất nhiều thứ cần triển khai trên phiên bản mới của osu!, và bạn có thể giúp biến điều đó thành hiện thực!
 - Làm cho [wedsite](https://github.com/ppy/osu-web) ngày càng tốt hơn.
