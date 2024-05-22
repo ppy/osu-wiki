@@ -28,7 +28,7 @@ Obviously not every circle clicker uses `Z` and `X` though. We've included speci
 
 See it in action:
 
-<div align="center">
+<div align="center" class="osu-md__paragraph">
     <video width="75%" controls>
         <source src="https://assets.ppy.sh/media/news/keycaps.mp4" type="video/mp4" preload="none">
     </video>
