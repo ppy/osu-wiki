@@ -4,6 +4,7 @@ tags:
   - Contest Committee
   - CC
   - Comité de concursos
+outdated_translation: true
 ---
 
 # Comité de torneos
