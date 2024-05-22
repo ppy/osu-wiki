@@ -26,7 +26,7 @@ Additionally, the tournament committee performs the following roles independent 
 
 ## Contest Committee
 
-The **Contest Committee** is a subgroup directly associated with the Tournament Committee which is specifically dedicated to evaluating beatmapping contests.
+The **Contest Committee** is a subgroup directly associated with the **Tournament Committee** which is specifically dedicated to evaluating beatmapping contests.
 
 Their responsibilities include:
 
