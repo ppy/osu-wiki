@@ -15,7 +15,7 @@ El término **snap alto** se usa para cualquier [dash](/wiki/Gameplay/Dash) o [h
 | Dificultad | Dash con un snap básico | Dash con un snap alto | Hiperdash con un snap básico | Hiperdash con un snap alto |
 | :-- | :-- | :-- | :-- | :-- |
 | **Cup** | - | - | - | - |
-| **Salad** | 250 ms o más | 125-249 ms | - | - |
-| **Platter** | 125 ms o más | 62-124 ms | 250 ms o más | 125-249 ms |
-| **Rain** | 125 ms o más | 62-124 ms | 125 ms o más | 62-124 ms |
+| **Salad** | 250 ms o más | 125-249 ms | - | - |
+| **Platter** | 125 ms o más | 62-124 ms | 250 ms o más | 125-249 ms |
+| **Rain** | 125 ms o más | 62-124 ms | 125 ms o más | 62-124 ms |
 | **Overdose** | - | - | - | - |
