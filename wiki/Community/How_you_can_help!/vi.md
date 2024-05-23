@@ -32,7 +32,6 @@ Sau đây là các gợi ý để bạn có thể bắt đầu giúp đỡ ngư�
  - [Storyboarding](https://osu.ppy.sh/community/forums/20)
  - [skinning](https://osu.ppy.sh/community/forums/15)
  - [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13)
-
 - Đọc qua các bài đăng được ghim ở diễn đàn để tìm hiểu các quy tắc cụ thể dành riêng cho từng diễn đàn nhỏ và những thông tin hữu ích ở trong bài đăng đó.
 -Sử dụng nút `Mark forum as read` ở trên cùng.
 - Theo dõi tất cả các chủ đề mới, đọc từng chủ đề và trợ giúp khi có thể  — bạn có thể sử dụng biểu tượng chưa đọc để chắc chắn rằng bạn bắt kịp với mọi thông tin.
