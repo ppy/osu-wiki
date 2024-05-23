@@ -77,7 +77,7 @@ Bắt đầu vào năm 2017, dự án [osu!(lazer)](/wiki/Client/Release_stream/
 
 ## Tránh tiêu cực! Làm cho mọi người vui vẻ!
 
-Có một câu nói cổ rằng :*“bạn nên trở thành một phần của giải pháp chứ không phải của một vấn đề”*. Chỉ cần làm theo câu nói cổ này, bạn sẽ giúp được osu! bằng cách làm cho cộng đồng trở thành một nơi tươi sáng hơn. Mọi người sẽ luôn phàn nàn, nhưng vẫn có rất nhiều cách bạn có thể giúp cải thiện tâm trạng trong cộng đồng:
+Có một câu nói cổ rằng :*“bạn nên trở thành một phần của giải pháp chứ không phải của vấn đề”*. Chỉ cần làm theo câu nói cổ này, bạn sẽ giúp được osu! bằng cách làm cho cộng đồng trở thành một nơi tươi sáng hơn. Mọi người sẽ luôn phàn nàn, nhưng vẫn có rất nhiều cách bạn có thể giúp cải thiện tâm trạng trong cộng đồng:
 
 - Hãy thân thiện với nhau; cuộc sống quá ngắn để tranh luận.
 - [Báo cáo những kẻ gian lận khi bạn nhìn thấy chúng](/wiki/Reporting_bad_behaviour/Handling_foul_play). Vui lòng không phàn nàn về chúng thông qua các phương tiện khác vì có một cách đơn giản là`!report <username> seems to be cheating`có thể giúp chúng bay màu trong vòng vài phút đến vài giờ.
