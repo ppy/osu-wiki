@@ -18,7 +18,7 @@ Lướt xuống các mục bên dưới để biết những việc cần làm, 
 
 ## Trong phần trò chuyện (chat) của trò chơi  
 
-Chặn người dùng ngay lập tức bằng cách nhấp chuột phải vào tên người dùng của họ và chọn `Ignore User`.
+Chặn người dùng bằng cách nhấp chuột phải vào tên người dùng của họ và chọn `Ignore User`.
 
 Bạn cũng nên báo cáo họ ngay lập tức bằng cách nhấp vào nút `Report User` và điền vào ô thông tin.
 
