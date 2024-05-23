@@ -132,7 +132,7 @@ The account support team administers tournament bans. The Tournament Committee a
 
 ### Who does screening?
 
-The account support team does screening. The Tournament Committee is completely uninvolved in screening.
+The account support team does screening. The Tournament Committee is completely uninvolved in this process.
 
 ### Who applies profile badges?
 
