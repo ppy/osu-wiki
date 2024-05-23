@@ -91,16 +91,35 @@ Once the tournament has concluded, the tournament organisers will need to submit
 - An appropriately designed badge ([see below](#profile-badges)).
 - A link to the publicly viewable catalogue of your tournament's match history.
 
-#### Referee bots/automation
+### Registrant Filtering, Seeding and Automated Refereeing
 
-The use of bots/automation to aid in the running of officially supported tournament matches is permitted *with some caveats to reflect their cutting-edge nature*, so long as any applicable software/workflows meet the requirements listed below:
+#### Expectations for Programs
 
-- The bot/automation must be made publicly and functionally available as an open-source repository.
-- The bot/automation should abide by the expectations laid out for [bot accounts](/wiki/Bot_account) for general in-game use. Referee-related tools and software can be run directly from a user's own account.
-- If a bot/automation is used for refereeing, a human referee must always be available to respond to calls for support from participants within a reasonable timeframe (2–5 minutes), and be able to be summoned remotely via the use of a chat command inside the lobby itself (we recommend `!panic` as a global alias for this).
-- Where a bot/automation workflow is present, any ongoing lobbies should be able to be manually taken over by a human referee with minimal interference whilst also retaining any previous logs of play and chat.
+Third-party programs designed to automate the job of a referee or filter registrants from the tournament automatically must be open, transparent, and documented. Any third-party tool used for these purposes must:
 
-Approval for the use of referee bots/automation **must** be granted by the osu! support team. In addition, this approval is required for **every individual instance where a referee bot/automation is used**. We expect to relax some of these requirements in the future as the technology surrounding these bots develops and experience with using them grows.
+- Be made publicly and functionally available as an open-source repository.
+- Be completely documented in an easily readable & digestable format.
+
+Currently, approval for the use of any such tool must be **explicitly granted** by the osu! support team. Additionally, this approval must be granted for **every tournament where registrant filtering, seeding, or automated refereeing are used.** We expect to relax some of these requirements in the future as the technology surrounding these bots develops and experience with using them grows.
+
+#### Registrant Filtering and Seeding
+
+Registrant filtering, not to be confused with [screening](#tournament-screening), is the process of using any program, algorithm, mathematical formula, or other means to remove otherwise good-standing players from a tournament. The standard use of such tools is to reduce the variance in skill within a tournament. One such tool that may come to mind is [BWS](/wiki/Tournaments/Badge-weighted_seeding).
+
+In addition to the expectations for programs above, tools used to filter registrants or seed players must also:
+
+- Have an up-to-date, publicly-available, downloadable dataset including documentation explaining how to reproduce the results using this dataset.
+  - A third party should be able to get the same results without needing additional information.
+
+#### Automated Refereeing
+
+The use of automated refereeing tools are permitted *with some caveats to reflect their cutting-edge nature*. Automated refereeing tools, including bots, may receive approval for use in badged tournaments so long as certain requirements are met.
+
+In addition to the expectations for programs above, they must also adhere to the following expectations:
+
+- Potential bots must abide by the expectations laid out for [bot accounts](wiki/Bot_account) for general in-game use. Referee-related tools and software could alternatively be run directly from a user's own account.
+- A human referee must always be available to respond to calls for support from participants within a reasonable timeframe (2–5 minutes), and be able to be summoned remotely via the use of a `!panic` command inside the lobby itself.
+- Any ongoing lobbies should be able to be manually taken over by a human referee with minimal interference whilst also retaining any previous logs of play and chat.
 
 ### Staff
 
