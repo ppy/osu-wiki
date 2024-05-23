@@ -12,7 +12,7 @@ Un **juicio**, o **resultado de impacto**, es el resultado de interactuar con un
 
 La ventana de tiempo depende de la [dificultad general (OD)](/wiki/Beatmap/Overall_difficulty) del beatmap. Luego, un golpe se considera dentro de una ventana de tiempo si `error del golpe < error de acierto máximo`, lo que significa que el valor indicado es la mitad del ancho de la ventana de tiempo. En su lugar, la ventana MISS por excepción compara `error del golpe ≤ error de acierto máximo`.
 
-El error del golpe se redondea y los valores de error de acierto máximo se truncan al entero más cercano, lo que significa que para los GREAT y OK, las ventanas de tiempo pueden ser hasta 1,5 ms más cortas en ambos lados, mientras que las ventanas de tiempo pueden ser hasta 0,5 ms más cortas o más largas en ambas partes que lo que sugieren las fórmulas.
+El error del golpe se redondea y los valores de error de acierto máximo se truncan al entero más cercano, lo que significa que para los GREAT y OK, las ventanas de tiempo pueden ser hasta 1,5 ms más cortas en ambos lados, mientras que las ventanas de tiempo pueden ser hasta 0,5 ms más cortas o más largas en ambas partes que lo que sugieren las fórmulas.
 
 ## Mecánicas de los juicios
 
@@ -20,7 +20,7 @@ El error del golpe se redondea y los valores de error de acierto máximo se trun
 
 Las notas pequeñas y grandes se juzgan con GREAT, OK o MISS dependiendo de la precisión con la que se golpeen. Golpear una nota antes de la ventana MISS no tiene efecto, y no golpear una nota causará un MISS después de que pase la ventana MEH. Presionar la tecla equivocada para el color de la nota también causará un MISS.
 
-Las notas grandes pueden golpearse con dos teclas del color correcto al mismo tiempo (con menos de 30 ms de diferencia entre ellas) para obtener el doble de puntuación.
+Las notas grandes pueden golpearse con dos teclas del color correcto al mismo tiempo (con menos de 30 ms de diferencia entre ellas) para obtener el doble de puntuación.
 
 ### Redobles de tambores
 
