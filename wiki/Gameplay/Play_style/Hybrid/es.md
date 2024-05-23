@@ -12,7 +12,7 @@ tags:
 
 # Híbrido
 
-**Híbrido** es un estilo de presionar las notas para [osu!](/wiki/Game_mode/osu!) en el que los jugadores hacen clic en los círculos, deslizan sliders y giran spinners usando una combinación de [single-tapping](/wiki/Gameplay/Play_style/Single-tapping) y/o [alternando](/wiki/Gameplay/Play_style/Alternating). Este estilo se puede encontrar en jugadores de todos los niveles y la habilidad necesaria para ejecutarlo puede variar de un beatmap a otro y de una variación a otra.
+**Híbrido** es un estilo de presionar las notas para [osu!](/wiki/Game_mode/osu!) en el que los jugadores hacen clic en los círculos, deslizan sliders y giran spinners usando una combinación de [single-tapping](/wiki/Gameplay/Play_style/Single-tapping) y [alternado](/wiki/Gameplay/Play_style/Alternating). Este estilo se puede encontrar en jugadores de todos los niveles y la habilidad necesaria para ejecutarlo puede variar de un beatmap a otro y de una variación a otra.
 
 ## Uso/técnicas
 
