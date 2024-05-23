@@ -9,7 +9,7 @@ tags:
 
 *Véase también: [Katu](/wiki/Gameplay/Judgement/Katu)*
 
-**Geki (激)**, o *Elite Beat!*, es un término de un [juicio](/wiki/Gameplay/Judgement) para cuando un [combo](/wiki/Beatmapping/Combo) se completa con el nivel más alto posible de [precisión](/wiki/Gameplay/Accuracy) en cada nota. Otorga un mayor aumento de HP en comparación con los últimos 300 en un combo no perfecto.
+**Geki (激)**, o *Elite Beat!*, es el término de un [juicio](/wiki/Gameplay/Judgement) para cuando un [combo](/wiki/Beatmapping/Combo) se completa con el nivel más alto posible de [precisión](/wiki/Gameplay/Accuracy) en cada nota. Otorga un mayor aumento de HP en comparación con los últimos 300 en un combo no perfecto.
 
 El Geki proviene del juego de la Nintendo DS, [Elite Beat Agents](/wiki/iNiS_games), en el que se basa la jugabilidad de [osu!](/wiki/Game_mode/osu!).
 
