@@ -55,7 +55,7 @@
 
 *Nota: Todos los mods cancelan el mod Target Practice*
 
-| Estos mods... | ...cancelan estos mods. (y viceversa) |
+| Estos mods... | ... cancelan estos mods. (y viceversa) |
 | :-- | :-- |
 | ![Hard Rock](/wiki/shared/mods/HR.png) | ![Easy](/wiki/shared/mods/EZ.png) |
 | ![Double Time](/wiki/shared/mods/DT.png) ![Nightcore](/wiki/shared/mods/NC.png) | ![Half Time](/wiki/shared/mods/HT.png) |
@@ -67,7 +67,7 @@
 
 ### osu!mania
 
-| Estos mods... | ...cancelan estos mods. (y viceversa) |
+| Estos mods... | ... cancelan estos mods. (y viceversa) |
 | :-- | :-- |
 | ![Hidden](/wiki/shared/mods/HD.png) ![Fade In](/wiki/shared/mods/FI.png) | ![Flashlight](/wiki/shared/mods/FL.png) |
 
