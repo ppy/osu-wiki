@@ -9,7 +9,7 @@ tags:
 *Véase también: [Geki](/wiki/Gameplay/Judgement/Geki)*\
 *No se debe confundir con el Katu de osu!taiko.*
 
-**Katu (喝)**, *Katsu* o *Beat!*, es un término de un [juicio](/wiki/Gameplay/Judgement) para cuando un [combo](/wiki/Beatmapping/Combo) se completa sin la [precisión](/wiki/Gameplay/Accuracy) más alta posible en cada nota. Sin embargo, un Katu no se puede conseguir si un combo contiene un 50 o un fallo.
+**Katu (喝)**, *Katsu* o *Beat!*, es el término de un [juicio](/wiki/Gameplay/Judgement) para cuando un [combo](/wiki/Beatmapping/Combo) se completa sin la [precisión](/wiki/Gameplay/Accuracy) más alta posible en cada nota. Sin embargo, un Katu no se puede conseguir si un combo contiene un 50 o un fallo.
 
 Hay dos tipos de Katu que dependen del valor de precisión del último golpe en el combo. El primer tipo vale 300 puntos de puntuación base y el segundo vale 100 puntos de puntuación base. El Katu de 100 puntos otorga la menor cantidad de HP, y el Katu de 300 puntos otorga menos HP que un [Geki](/wiki/Gameplay/Judgement/Geki).
 
