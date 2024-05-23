@@ -4,11 +4,11 @@ En [osu!catch](/wiki/Game_mode/osu!catch), cada [dash](/wiki/Gameplay/Dash) e [h
 
 ## Snap básico
 
-El término **snap básico** se usa para cualquier [dash](/wiki/Gameplay/Dash) o [hiperdash](/wiki/Gameplay/Hyperdash) cuyo tiempo entre [objetos activos](/wiki/Beatmapping/Active_object) es al menos dos veces mayor que el tiempo necesario para permitir dashes o hiperdashes, respectivamente. Por ejemplo, un hiperdash entre objetos separados por 250 ms en un Platter se clasifica como un hiperdash básico.
+El término **snap básico** (*basic-snapped*) se usa para cualquier [dash](/wiki/Gameplay/Dash) o [hiperdash](/wiki/Gameplay/Hyperdash) cuyo tiempo entre [objetos activos](/wiki/Beatmapping/Active_object) es al menos dos veces mayor que el tiempo necesario para permitir dashes o hiperdashes, respectivamente. Por ejemplo, un hiperdash entre objetos separados por 250 ms en un Platter se clasifica como un hiperdash básico.
 
 ## Snap alto
 
-El término **snap alto** se usa para cualquier [dash](/wiki/Gameplay/Dash) o [hiperdash](/wiki/Gameplay/Hyperdash) que no cumple con el requisito de ser un snap básico (es decir, el tiempo entre los objetos es más corto que el mínimo para ser clasificado como básico).
+El término **snap alto** (*higher-snapped*) se usa para cualquier [dash](/wiki/Gameplay/Dash) o [hiperdash](/wiki/Gameplay/Hyperdash) que no cumple con el requisito de ser un snap básico (es decir, el tiempo entre los objetos es más corto que el mínimo para ser clasificado como básico).
 
 ## Tabla de referencia de los snaps
 
