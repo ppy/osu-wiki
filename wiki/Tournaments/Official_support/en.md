@@ -198,18 +198,21 @@ The minimum requirements to request in-game or website advertising support are a
 - Your tournament meets the [eligibility criteria for applicable tournaments](#eligibility).
 - The tournament has successfully run for *at least* two badged iterations in the past.
   - Exceptions can be made at the discretion of the osu! team and the Tournament Committee based on any number of factors, such as size, scope, reach, and supporting team size of a given tournament. A good example of this kind of exception would be an event like the Roundtable.
-- The livestreams of your current tournament average a reasonable viewership for any game modes featured in them. More popular modes (such as osu!) will be expected to have higher average viewership in order to qualify.
-- Your tournament is nearing its conclusion (e.g. your tournament is at Quarterfinals or above and it started on Round of 32).
-- You are able to provide the schedule of the matches and livestreams ahead of time.
 - Your tournament streams or otherwise shares its results in clear and legible English.
 
 If you satisfy the above criteria, you may request this support by sending an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh). This request should include a base-level history of your tournament and its impact upon the community if you have not received this type of support before. Please also note that this additional support is not guaranteed under any circumstances, and is awarded at the osu! team's sole discretion.
 
-We recommend sending any such requests as early as possible to allow time for consideration.
+We recommend sending any such requests as early as possible to allow time for consideration. News post requests should ideally be sent at least a month in advance.
 
 #### Main-menu banners
 
-Any main-menu banner images must adhere to the following standards:
+Tournaments seeking to be featured on the main-menu must also meet the following requirements:
+
+- The livestreams of your current tournament average a reasonable viewership for any game modes featured in them. More popular modes (such as osu!) will be expected to have higher average viewership in order to qualify.
+- Your tournament is nearing its conclusion (e.g. your tournament is at Quarterfinals or above and it started on Round of 32).
+- You are able to provide the schedule of the matches and livestreams ahead of time.
+
+All main-menu banner images must adhere to the following standards:
 
 - The submitted file must be a **PNG**.
 - Width must be no larger than **1000px**. Using smaller widths is fine.
@@ -233,12 +236,14 @@ Please do not submit a main menu banner with your original request — you will 
 
 While support for advertising and sharing the outcome of your tournament is available via news posts, there are additional requirements that must be considered:
 
-- Only news posts advertising registrations and recapping of **final** results are presently permitted.
+- Only news posts advertising registrations and/or recapping of **final** results are presently permitted. Additional news posts are presently not permitted.
+  - Tournaments that are given permission to advertise registrations are also expected to provide a conclusionary news post recapping **final** results.
+  - If a news post advertising registrations is denied but all other [requirements](#requesting-in-game-banner-and-news-post-support) are met, a tournament may still be given permission for a conclusionary news post. Hosts and organisers interested in doing so should send in a new request after the tournament has concluded.
 - If your tournament is limited to a specific region, it is only eligible to receive news post support if it involves a LAN (a.k.a. an in-person meetup).
 
 Tournaments will be expected to provide their own written news posts in this manner, and those responsible for writing them should expect to adhere to the editorial standards required by our [news styling criteria](/wiki/News_styling_criteria).
 
-Prospective news posts should be submitted well in advance, and will be reviewed by both the Tournament Committee and the osu! news team for suitability.
+Requests for news support will be reviewed by both the Tournament Committee and the osu! news team for suitability.
 
 ## FAQ
 
