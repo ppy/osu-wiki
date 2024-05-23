@@ -84,5 +84,3 @@ Có một câu nói cổ rằng :*“bạn nên trở thành một phần của 
 - Hãy cố gắng hòa giải các tình huống tiêu cực và biến chúng thành kết quả tích cực.
 
 **Mặc dù bài viết này không thể đề cập đến việc bạn có thể giúp được bao nhiêu trong cộng đồng osu!, chỉ cần chơi game cũng có thể giúp osu! thậm chí còn tuyệt vời hơn nữa!**( đừng nghiện game quá, lol)
-
- // cộng đồng osu! ghét tui , dù tui có giúp bao nhiêu thì tụi nó cũng ko chấp nhận đâu, tất cả tại t , t dịch hết wiki luật rồi t nghỉ game
