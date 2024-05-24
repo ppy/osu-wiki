@@ -91,7 +91,7 @@ The \[Extra\] difficulty is *not* being nominated for Loved.\
 
 The first Wildcard for this month is [Millesimale](https://osu.ppy.sh/users/11783312)'s map of [Juan Luis Guerra - Las Avispas](https://osu.ppy.sh/beatmapsets/1852791#osu).
 
-Una mapita ma' para mis Dominicanos. A Dominican classic. osu! needs more bachata, what a banger.
+Una mapita ma' para mis Dominicanos. A Dominican classic. osu! needs more merengue, what a banger.
 
 50+ favourites, 12,000+ plays, 8.15★. It's very rare to find a song where the jumps are represented so well by the map, it's impressive. [Millesimale](https://osu.ppy.sh/users/11783312) pulled this off perfectly. A 3-minute long pure consistency aim test with great structure, all while jamming out to the Dominican homemade bachata by the iconic Juan Luis Guerra. Such a fun experience.
 
@@ -128,7 +128,7 @@ Remember to vote with your phones using hashtag #Corsace for VINXIS to finally c
 140 BPM, 3:27 | 1.67★, 2.45★, 3.11★, 4.06★, 4.98★\
 *description written by [Aistre](https://osu.ppy.sh/users/4879380)*
 
-April's *Chill Champion* pick is [Red Velvet - Psycho](https://osu.ppy.sh/beatmapsets/1083022#osu/2265313) hosted by [Chibitania](https://osu.ppy.sh/users/3441472)! Sitting at 4.98★ and 140 BPM, this map offers a tapping-heavy approach to the song with streams and bursts making a very nice map to practice your tapping consistency on. *Psycho* might be a bit on the harder side when it comes to *Chill Champions*, but if the top difficulty is exhausting you then make sure to check out the more aim-oriented Insane or lower difficulties that offer a more laid-back experience.
+May's *Chill Champion* pick is [Red Velvet - Psycho](https://osu.ppy.sh/beatmapsets/1083022#osu/2265313) hosted by [Chibitania](https://osu.ppy.sh/users/3441472)! Sitting at 4.98★ and 140 BPM, this map offers a tapping-heavy approach to the song with streams and bursts making a very nice map to practice your tapping consistency on. *Psycho* might be a bit on the harder side when it comes to *Chill Champions*, but if the top difficulty is exhausting you then make sure to check out the more aim-oriented Insane or lower difficulties that offer a more laid-back experience.
 
 This map has been collecting almost over 300K plays and 390+ favorites in the Graveyard, so if you agree that this map deserves a leaderboard, then head to the thread to cast your vote!
 
