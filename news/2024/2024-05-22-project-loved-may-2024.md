@@ -266,18 +266,6 @@ The osu!mania Loved candidates were chosen by [elexire](https://osu.ppy.sh/users
 
 ---
 
-[![](/wiki/shared/news/2024-05-22-project-loved-may-2024/1181310.jpg)](https://osu.ppy.sh/community/forums/topics/1925234)
-
-[DOT96 - MAKE IT FUNKY NOW](https://osu.ppy.sh/beatmapsets/1181310#mania) by [RuleBlazing](https://osu.ppy.sh/users/7312402)\
-146 BPM, 1:59 | 3.39★, 3.39★\
-*description written by [Silhoueska Elze](https://osu.ppy.sh/users/11517895)*
-
-Featured in [MWC 2021](/wiki/Tournaments/MWC/2021_4K) in the Semifinals round with the "(edit)" difficulty, [MAKE IT FUNKY NOW](https://osu.ppy.sh/beatmapsets/1181310#mania/2463156) showcases numerous patterns that can definitely be challenging for those who are not familiar with the SV category.
-
-With its teleports as well as patterning such as rolls, trills and numerous long notes, you can definitely see why there are a plethora of difficult patterns that could easily be mistimed/misread by anyone who is not familiar with the chart. Not to mention, the OD 7 certainly does not help as it makes avoiding 200s a difficult task for anyone, even for the best SV players out there. Luckily, this chart only lasts for around 2 minutes, which means the challenge won't last too long! However, you still gotta make the most of the limited time that you have.
-
-Do you have what it takes to showcase your SV skills to the world? Then don't be afraid to give this chart a positive review!
-
 [![](/wiki/shared/news/2024-05-22-project-loved-may-2024/681593.jpg)](https://osu.ppy.sh/community/forums/topics/1925233)
 
 [Panda Eyes & Teminite - Highscore](https://osu.ppy.sh/beatmapsets/681593#mania) by [OpakyL](https://osu.ppy.sh/users/4521780)\
