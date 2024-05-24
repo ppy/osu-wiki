@@ -54,7 +54,7 @@ Specifically, you can pick up either [this perfectly sized 75% keyboard](https:/
 
 ...or if that's too much dedication, stay stealthy with [a slick numpad](https://www.thekapco.com/products/osu-pippi-keycap-set?variant=47259204878569).
 
-[![](/wiki/shared/news/2024-05-22-osu-keycaps/numpad.png)](https://www.thekapco.com/products/osu-pippi-keycap-set?variant=47259204878569)
+[![](/wiki/shared/news/2024-05-22-osu-keycaps/numpad.jpg)](https://www.thekapco.com/products/osu-pippi-keycap-set?variant=47259204878569)
 
 And of course, both of these come with the full keycap sets too!
 
