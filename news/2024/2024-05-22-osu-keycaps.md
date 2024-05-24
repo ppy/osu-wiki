@@ -16,7 +16,7 @@ Nearly two decades later, you'd be hard-pressed to find an osu! player who doesn
 
 First and foremost, [**this is a keycap set**](https://www.thekapco.com/products/osu-pippi-keycap-set). It comes with everything you'd need to fill a 100% sized keyboard, plus a bunch of extra swappable keys.
 
-[![](LINK)](https://www.thekapco.com/products/osu-pippi-keycap-set)
+[![](/wiki/shared/news/2024-05-22-osu-keycaps/keys.jpg)](https://www.thekapco.com/products/osu-pippi-keycap-set)
 
 Keen eyes may have noticed that we replaced `Z` and `X` (osu!'s default input keys) with some *fancy* designs. 
 
@@ -66,7 +66,7 @@ And of course, both of these come with the full keycap sets too!
 
 **To enter, [reply to this tweet](LINK) with a pic of the keys you currently slam when playing osu!.** The more worn down, the better.
 
-We'll be announcing the giveaway winners in **3 days** (DATE) on [the @osugame Twitter](https://twitter.com/osugame), so look out for that.
+We'll be announcing the giveaway winners in **3 days** (2024-05-28) on [the @osugame Twitter](https://twitter.com/osugame), so look out for that.
 
 ---
 
