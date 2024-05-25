@@ -95,12 +95,12 @@ Once the tournament has concluded, the tournament organisers will need to submit
 
 #### Expectations for Programs
 
-Third-party programs designed to filter registrants, seed players, or automate the job of a referee from the tournament automatically must be open, transparent, and documented. Any third-party tool used for these purposes must:
+Third-party programs designed to filter registrants, seed players, or automate the job of a referee must be open, transparent, and documented. Any third-party tool used for these purposes must:
 
 - Be made publicly and functionally available as an open-source repository.
 - Be completely documented in an easily readable & digestable format.
 
-Currently, approval for the use of any such tool must be **explicitly granted** by the osu! support team. Additionally, this approval must be granted for **every tournament where registrant filtering, seeding, or automated refereeing is used.** We expect to relax some of these requirements in the future as the technology surrounding these programs develops and experience with using them grows.
+Currently, approval for the use of any such tool must be **explicitly granted** by the osu! support team. Additionally, this approval must be granted for **every tournament where programs for registrant filtering, seeding, or automated refereeing are used.** We expect to relax some of these requirements in the future as the technology surrounding these programs develops and experience with using them grows.
 
 #### Registrant Filtering and Seeding
 
@@ -108,7 +108,7 @@ Registrant filtering, not to be confused with [screening](#tournament-screening)
 
 In addition to the expectations for programs above, tools or systems used to filter registrants or seed players must also abide by the following practices:
 
-- If a dataset is used, it must be up to date, publicly available and downloadable. Documentation must be provided explaining how to recreate the dataset and reproduce the results using it.
+- If a dataset is used, it must be up to date, publicly available and downloadable. Documentation must be provided explaining how to recreate the dataset and reproduce the results using it — including code where applicable.
 - When doing qualifiers, the formula or method used to determine seeding must be included in the tournament's ruleset.
 
 A third party should be able to get the same results without needing additional information. Manually filtering players or adjusting their seeds is strictly prohibited.
