@@ -31,10 +31,10 @@ The **Asia Suiji Cup: Rhythmus Aquarum** (***ASC***) is a three-on-three asian c
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter tag, user profile banner |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Unique profile badge, 2 months of osu!supporter tag, user profile banner |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Unique profile badge, 1 month of osu!supporter tag, user profile banner |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag, user profile banner |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag, user profile banner |
 
-First place's osu!supporter tag is provided by ::{ flag=GB } [IncognitoMercy](https://osu.ppy.sh/users/12838922). Donations and all supports can be made through [ASC's Ko-fi page](https://ko-fi.com/asiasuijicup).
+First place's osu!supporter tag is provided by ::{ flag=GB }:: [IncognitoMercy](https://osu.ppy.sh/users/12838922). Donations and all supports can be made through [ASC's Ko-fi page](https://ko-fi.com/asiasuijicup).
 
 ## Organisation
 
