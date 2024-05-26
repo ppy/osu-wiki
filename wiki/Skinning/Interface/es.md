@@ -1,7 +1,3 @@
----
-no_native_review: true
----
-
 # Skinning de la interfaz
 
 *Véase también: [Interfaz](/wiki/Client/Interface)*
@@ -60,7 +56,7 @@ Notas:
 Notas:
 
 - Si no se asigna un aspecto, se usará el icono pequeño del modo de juego actual.
-- Debe estar habilitado en las [options](/wiki/Client/Options) para que aparezca.
+- Debe estar habilitado en las [opciones](/wiki/Client/Options) para que aparezca.
   - Esta opción puede activarse forzosamente durante las fiestas (Navidad).
 
 ## Botones
@@ -805,7 +801,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1.0 | ![No][false] | ![Sí][true] | Normal | Left | - |
+| 1.0 | ![No][false] | ![Sí][true] | Normal | Izquierda | - |
 | 2.0 o posteriores | ![No][false] | ![Sí][true] | Normal | Centro | - |
 
 Notas:
@@ -1098,7 +1094,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | Normal | (Variado) | - |
+| Todas | ![No][false] | ![Sí][true] | Normal | Variado | - |
 
 Notas:
 
@@ -1132,7 +1128,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![Sí][true] | ![Sí][true] | (Variado) | Arriba a la izquierda | Altura máxima: 120 píxeles |
+| Todas | ![Sí][true] | ![Sí][true] | Variado | Arriba a la izquierda | Altura máxima: 120 píxeles |
 
 Notas:
 
@@ -1226,7 +1222,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | (Variado) | (Variado) | - |
+| Todas | ![No][false] | ![Sí][true] | Variado | Variado | - |
 
 Notas:
 
@@ -1245,7 +1241,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | (Variado) | (Variado) | - |
+| Todas | ![No][false] | ![Sí][true] | Variado | Variado | - |
 
 Notas:
 
@@ -1264,7 +1260,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | (Variado) | (Variado) | - |
+| Todas | ![No][false] | ![Sí][true] | Variado | Variado | - |
 
 Notas:
 
@@ -1283,7 +1279,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | (Variado) | (Variado) | - |
+| Todas | ![No][false] | ![Sí][true] | Variado | Variado | - |
 
 Notas:
 
@@ -1302,7 +1298,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | (Variado) | (Variado) | - |
+| Todas | ![No][false] | ![Sí][true] | Variado | Variado | - |
 
 Notas:
 
@@ -1321,7 +1317,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | (Variado) | (Variado) | - |
+| Todas | ![No][false] | ![Sí][true] | Variado | Variado | - |
 
 Notas:
 
@@ -1340,7 +1336,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | (Variado) | (Variado) | - |
+| Todas | ![No][false] | ![Sí][true] | Variado | Variado | - |
 
 Notas:
 
@@ -1359,7 +1355,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | (Variado) | (Variado) | - |
+| Todas | ![No][false] | ![Sí][true] | Variado | Variado | - |
 
 Notas:
 
@@ -1378,7 +1374,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | (Variado) | (Variado) | - |
+| Todas | ![No][false] | ![Sí][true] | Variado | Variado | - |
 
 Notas:
 
@@ -1397,7 +1393,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | (Variado) | (Variado) | - |
+| Todas | ![No][false] | ![Sí][true] | Variado | Variado | - |
 
 Notas:
 
@@ -1416,7 +1412,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | Normal | (Variado) | 5x14 |
+| Todas | ![No][false] | ![Sí][true] | Normal | Variado | 5x14 |
 
 Notas:
 
@@ -1432,7 +1428,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | Normal | (Variado) | 5x14 |
+| Todas | ![No][false] | ![Sí][true] | Normal | Variado | 5x14 |
 
 Notas:
 
@@ -1448,7 +1444,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | Normal | (Variado) | 12x14 |
+| Todas | ![No][false] | ![Sí][true] | Normal | Variado | 12x14 |
 
 Notas:
 
@@ -1462,7 +1458,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | (Variado) | (Variado) | 10x14 |
+| Todas | ![No][false] | ![Sí][true] | Variado | Variado | 10x14 |
 
 Notas:
 
@@ -1496,13 +1492,13 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | Normal | (Variado) | 34x40 |
+| Todas | ![No][false] | ![Sí][true] | Normal | Variado | 34x40 |
 
 Notas:
 
 - El origen varía:
   - En los descansos: Centro
-  - Panel de la selección de canciones: Izquierda
+  - Panel del selector de canciones: Izquierda
   - Puntuaciones de los usuarios: Centro
 
 ---
@@ -1530,13 +1526,13 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | Normal | (Variado) | 34x40 |
+| Todas | ![No][false] | ![Sí][true] | Normal | Variado | 34x40 |
 
 Notas:
 
 - El origen varía:
   - En los descansos: Centro
-  - Panel de la selección de canciones: Izquierda
+  - Panel del selector de canciones: Izquierda
   - Puntuaciones de los usuarios: Centro
 
 ---
@@ -1564,13 +1560,13 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | Normal | (Variado) | 34x40 |
+| Todas | ![No][false] | ![Sí][true] | Normal | Variado | 34x40 |
 
 Notas:
 
 - El origen varía:
   - En los descansos: Centro
-  - Panel de la selección de canciones: Izquierda
+  - Panel del selector de canciones: Izquierda
   - Puntuaciones de los usuarios: Centro
 
 ---
@@ -1598,13 +1594,13 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | Normal | (Variado) | 34x40 |
+| Todas | ![No][false] | ![Sí][true] | Normal | Variado | 34x40 |
 
 Notas:
 
 - El origen varía:
   - En los descansos: Centro
-  - Panel de la selección de canciones: Izquierda
+  - Panel del selector de canciones: Izquierda
   - Puntuaciones de los usuarios: Centro
 
 ---
@@ -1632,13 +1628,13 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | Normal | (Variado) | 34x40 |
+| Todas | ![No][false] | ![Sí][true] | Normal | Variado | 34x40 |
 
 Notas:
 
 - El origen varía:
   - En los descansos: Centro
-  - Panel de la selección de canciones: Izquierda
+  - Panel del selector de canciones: Izquierda
   - Puntuaciones de los usuarios: Centro
 
 ---
@@ -1666,13 +1662,13 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | Normal | (Variado) | 34x40 |
+| Todas | ![No][false] | ![Sí][true] | Normal | Variado | 34x40 |
 
 Notas:
 
 - El origen varía:
   - En los descansos: Centro
-  - Panel de la selección de canciones: Izquierda
+  - Panel del selector de canciones: Izquierda
   - Puntuaciones de los usuarios: Centro
 
 ---
@@ -1700,13 +1696,13 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | Normal | (Variado) | 34x40 |
+| Todas | ![No][false] | ![Sí][true] | Normal | Variado | 34x40 |
 
 Notas:
 
 - El origen varía:
   - En los descansos: Centro
-  - Panel de la selección de canciones: Izquierda
+  - Panel del selector de canciones: Izquierda
   - Puntuaciones de los usuarios: Centro
 
 ---
@@ -1734,13 +1730,13 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | Normal | (Variado) | 34x40 |
+| Todas | ![No][false] | ![Sí][true] | Normal | Variado | 34x40 |
 
 Notas:
 
 - El origen varía:
   - En los descansos: Centro
-  - Panel de la selección de canciones: Izquierda
+  - Panel del selector de canciones: Izquierda
   - Puntuaciones de los usuarios: Centro
 
 ## Pantalla de resultados
@@ -1895,7 +1891,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | Multiplicativo | (Variado) | 11x14 |
+| Todas | ![No][false] | ![Sí][true] | Multiplicativo | Variado | 11x14 |
 
 Notas:
 
@@ -1917,7 +1913,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | Multiplicativo | (Variado) | 11x14 |
+| Todas | ![No][false] | ![Sí][true] | Multiplicativo | Variado | 11x14 |
 
 Notas:
 
@@ -1939,7 +1935,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | Multiplicativo | (Variado) | 11x14 |
+| Todas | ![No][false] | ![Sí][true] | Multiplicativo | Variado | 11x14 |
 
 Notas:
 
@@ -1961,7 +1957,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | Multiplicativo | (Variado) | 11x14 |
+| Todas | ![No][false] | ![Sí][true] | Multiplicativo | Variado | 11x14 |
 
 Notas:
 
@@ -1983,7 +1979,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | Multiplicativo | (Variado) | 11x14 |
+| Todas | ![No][false] | ![Sí][true] | Multiplicativo | Variado | 11x14 |
 
 Notas:
 
@@ -2005,7 +2001,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | Multiplicativo | (Variado) | 11x14 |
+| Todas | ![No][false] | ![Sí][true] | Multiplicativo | Variado | 11x14 |
 
 Notas:
 
@@ -2027,7 +2023,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | Multiplicativo | (Variado) | 11x14 |
+| Todas | ![No][false] | ![Sí][true] | Multiplicativo | Variado | 11x14 |
 
 Notas:
 
@@ -2049,7 +2045,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | Multiplicativo | (Variado) | 11x14 |
+| Todas | ![No][false] | ![Sí][true] | Multiplicativo | Variado | 11x14 |
 
 Notas:
 
@@ -2071,7 +2067,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | Multiplicativo | (Variado) | 11x14 |
+| Todas | ![No][false] | ![Sí][true] | Multiplicativo | Variado | 11x14 |
 
 Notas:
 
@@ -2093,7 +2089,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | Multiplicativo | (Variado) | 11x14 |
+| Todas | ![No][false] | ![Sí][true] | Multiplicativo | Variado | 11x14 |
 
 Notas:
 
@@ -2115,7 +2111,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | Multiplicativo | (Variado) | 5x14 |
+| Todas | ![No][false] | ![Sí][true] | Multiplicativo | Variado | 5x14 |
 
 Notas:
 
