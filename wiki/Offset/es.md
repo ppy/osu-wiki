@@ -9,14 +9,14 @@ Dependiendo del tipo de compensación, la establece el creador del beatmap, la p
 ### Compensación en el juego
 
 - [Compensación local](/wiki/Offset/Local_offset), un ajuste por beatmap que cambia todos los elementos del juego con respecto a la pista de audio.
-- [Compensación en línea](/wiki/Offset/Online_offset), un cambio de temporización aplicado por el [NAT](/wiki/People/Nomination_Assessment_Team) a beatmaps [clasificados](/wiki/Beatmap/Category#ranked) con una compensación incorrecta para ajustarla.
+- [Compensación en línea](/wiki/Offset/Online_offset), un cambio de temporización aplicado por el [NAT](/wiki/People/Nomination_Assessment_Team) a los beatmaps [clasificados](/wiki/Beatmap/Category#ranked) con una compensación incorrecta para ajustarla.
 - [Compensación universal](/wiki/Offset/Universal_offset), un ajuste que afecta globalmente a la temporización de los beatmaps cambiando la pista de audio con respecto a todos los demás elementos del juego.
 
 ### Compensación en el mapping
 
 - [Punto de tiempo no heredado](/wiki/Client/Beatmap_editor/Timing#puntos-de-tiempo-no-heredados) («línea roja»), el inicio de una nueva [sección de tiempo](/wiki/Client/Beatmap_editor/Timing). Los puntos de tiempo residen en una compensación relativa al inicio del archivo de audio, pero el punto de tiempo en sí también suele ser llamado «offset».
-- [Punto de tiempo heredado](/wiki/Client/Beatmap_editor/Timing#puntos-de-tiempo-heredados) («línea verde»), una [sección de tiempo](/wiki/Client/Beatmap_editor/Timing) que controla ajustes como el [kiai](/wiki/Gameplay/Kiai_time), los [conjuntos de muestras](/wiki/Beatmapping/Sampleset), la [velocidad del slider](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), y el nivel de volumen de los hitsounds.
-- Compensación del beatmap, la cantidad de tiempo entre el inicio del archivo de audio y el primer [tiempo fuerte](/wiki/Music_theory/Downbeat) de la canción, controlado por puntos de tiempo.
+- [Punto de tiempo heredado](/wiki/Client/Beatmap_editor/Timing#puntos-de-tiempo-heredados) («línea verde»), una [sección de tiempo](/wiki/Client/Beatmap_editor/Timing) que controla los ajustes del [kiai](/wiki/Gameplay/Kiai_time), los [conjuntos de muestras](/wiki/Beatmapping/Sampleset), la [velocidad del slider](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), y el nivel de volumen de los hitsounds.
+- Compensación del beatmap, la cantidad de tiempo entre el inicio del archivo de audio y el primer [tiempo fuerte](/wiki/Music_theory/Downbeat) de la canción, controlado por los puntos de tiempo.
 
 ## Configuración de un beatmap
 
