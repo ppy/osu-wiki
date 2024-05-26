@@ -4,7 +4,7 @@
 
 Un **juicio**, o **resultado de golpe**, es el resultado de interactuar con un [objeto](/wiki/Gameplay/Hit_object) durante su ventana de tiempo. La puntuación y la precisión se calculan en función de los juicios que se reciben.
 
-A estos se les suele denominar por su valor de puntuación (a excepción de los fallos), es decir, a un GREAT generalmente se le dice «300», y así sucesivamente.
+A estos se les suele llamar por su valor de puntuación (a excepción de los fallos), es decir, a un GREAT generalmente se le suele llamar «300», y así sucesivamente.
 
 | Imagen | Nombre | [Valor del golpe](/wiki/Gameplay/Score/ScoreV1/osu!mania) | [Precisión](/wiki/Gameplay/Accuracy#osu!mania) | Error de acierto máximo (ms) |
 | :-: | :-: | --: | --: | :-- |
