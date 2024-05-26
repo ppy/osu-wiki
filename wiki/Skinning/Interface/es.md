@@ -305,7 +305,7 @@ Notas:
 Notas:
 
 - Este elemento es específico de [osu!mania](/wiki/Game_mode/osu!mania).
-- Recorre los mods xK para verlos.
+- Recorre los mods xK para verlo.
 
 ---
 
@@ -320,7 +320,7 @@ Notas:
 Notas:
 
 - Este elemento es específico de [osu!mania](/wiki/Game_mode/osu!mania).
-- Recorre los mods xK para verlos.
+- Recorre los mods xK para verlo.
 
 ---
 
@@ -335,7 +335,7 @@ Notas:
 Notas:
 
 - Este elemento es específico de [osu!mania](/wiki/Game_mode/osu!mania).
-- Recorre los mods xK para verlos.
+- Recorre los mods xK para verlo.
 
 ---
 
@@ -364,7 +364,7 @@ Notas:
 Notas:
 
 - Este elemento es específico de [osu!mania](/wiki/Game_mode/osu!mania).
-- Recorre los mods xK para verlos.
+- Recorre los mods xK para verlo.
 
 ---
 
@@ -379,7 +379,7 @@ Notas:
 Notas:
 
 - Este elemento es específico de [osu!mania](/wiki/Game_mode/osu!mania).
-- Recorre los mods xK para verlos.
+- Recorre los mods xK para verlo.
 
 ---
 
@@ -394,7 +394,7 @@ Notas:
 Notas:
 
 - Este elemento es específico de [osu!mania](/wiki/Game_mode/osu!mania).
-- Recorre los mods xK para verlos.
+- Recorre los mods xK para verlo.
 
 ---
 
@@ -409,7 +409,7 @@ Notas:
 Notas:
 
 - Este elemento es específico de [osu!mania](/wiki/Game_mode/osu!mania).
-- Recorre los mods xK para verlos.
+- Recorre los mods xK para verlo.
 
 ---
 
@@ -424,7 +424,7 @@ Notas:
 Notas:
 
 - Este elemento es específico de [osu!mania](/wiki/Game_mode/osu!mania).
-- Recorre los mods xK para verlos.
+- Recorre los mods xK para verlo.
 
 ---
 
@@ -591,7 +591,7 @@ Notas:
 | Todas | ![No][false] | ![Sí][true] | Normal | Centro | 64x64 |
 
 - Este mod no tiene una imagen en el juego.
-- Este mod no aparece en la selección de mods ni en las tablas de clasificación.
+- Este mod no aparece en el selector de mods ni en las tablas de clasificación.
 - Es el indicador de las jugadas con determinados mods y combinaciones.
   - No aparece si solo se usa 'Score V2', 'Auto', 'Double Time', 'Nightcore', o 'Half Time' por sí mismo, las combinaciones con otros mods que los incluyan mostrarán el mod.
 
@@ -604,7 +604,7 @@ Notas:
 | Todas | ![No][false] | ![Sí][true] | Normal | Centro | 64x64 |
 
 - Este mod no tiene una imagen en el juego.
-- Este mod no aparece en la selección de mods.
+- Este mod no aparece en el selector de mods.
 - Es el indicador de jugadas realizadas con una pantalla táctil.
   - El cliente usa un algoritmo en segundo plano para calcular si una jugada se realiza con una pantalla táctil, si se producen demasiadas deformaciones en el cursor podría aplicarse a una jugada.
 
@@ -2416,7 +2416,7 @@ Notas:
 
 Notas:
 
-- Este elemento se usa para la selección de canciones (las estrellas que vuelan de derecha a izquierda), cursor, kiai time, combo bursts.
+- Este elemento se usa en el selector de canciones (las estrellas que vuelan de derecha a izquierda), cursor, kiai time, combo bursts.
 
 ### Selección de modo
 
@@ -2490,7 +2490,7 @@ Notas:
 
 Notas:
 
-- Este elemento se usa dentro del menú desplegable de la selección del modo de juego.
+- Este elemento se usa dentro del menú desplegable para la selección del modo de juego.
 - Haz clic en `selection-mode.png` para verlo.
 
 ---
@@ -2505,7 +2505,7 @@ Notas:
 
 Notas:
 
-- Este elemento se usa dentro del menú desplegable de la selección del modo de juego.
+- Este elemento se usa dentro del menú desplegable para la selección del modo de juego.
 - Haz clic en `selection-mode.png` para verlo.
 
 ---
@@ -2520,7 +2520,7 @@ Notas:
 
 Notas:
 
-- Este elemento se usa dentro del menú desplegable de la selección del modo de juego.
+- Este elemento se usa dentro del menú desplegable para la selección del modo de juego.
 - Haz clic en `selection-mode.png` para verlo.
 
 ---
@@ -2535,7 +2535,7 @@ Notas:
 
 Notas:
 
-- Este elemento se usa dentro del menú desplegable de la selección del modo de juego.
+- Este elemento se usa dentro del menú desplegable para la selección del modo de juego.
 - Haz clic en `selection-mode.png` para verlo.
 
 ---
