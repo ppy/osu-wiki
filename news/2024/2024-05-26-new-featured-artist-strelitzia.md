@@ -1,4 +1,4 @@
----
+1---
 layout: post
 title: "New Featured Artist: Strelitzia"
 date: 2024-05-26 09:00:00 +0000
@@ -25,7 +25,7 @@ Experience what **Strelitzia** has to offer:
 Attempt [the map from the video above](https://osu.ppy.sh/beatmapsets/2182598) hosted by [squirrelpascals](https://osu.ppy.sh/users/6151332)!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/421/Winter/Strelitzia%20-%20This%20Bed%20Ain't%20Big%20Enough%20Fer%20The%20Two%20of%20Us.mp3">
+    <source src="https://assets.ppy.sh/artists/421/Winter/Strelitzia%20-%20This%20Bed%20Ain't%20Big%20Enough%20Fer%20The%20Two%20of%20Us.mp3?1">
 </audio>
 
 ### Strelitzia - Sara
