@@ -106,19 +106,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
 
 ## Match Schedule: Round of 32
 
-### Saturday, 25 May 2024
-
-| Team A | Team B | Match time | Twitch stream |
-| --: | :-- | :-- | :-: |
-| Chile ::{ flag=CL }:: | ::{ flag=NZ }:: New Zealand | [May 25 (Sat) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240525T030000&p1=1440&p2=232&p3=264) | [osulive](https://twitch.tv/osulive) |
-| Sweden ::{ flag=SE }:: | ::{ flag=AU }:: Australia | [May 25 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240525T100000&p1=1440&p2=239&p3=57) | [osulive](https://twitch.tv/osulive) |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=VN }:: Vietnam | [May 25 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240525T120000&p1=1440&p2=166&p3=95) | [osulive](https://twitch.tv/osulive) |
-| Indonesia ::{ flag=ID }:: | ::{ flag=NO }:: Norway | [May 25 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240525T130000&p1=1440&p2=108&p3=187) | [osulive](https://twitch.tv/osulive) |
-| China ::{ flag=CN }:: | ::{ flag=NL }:: Netherlands | [May 25 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240525T130000&p1=1440&p2=33&p3=16) | [osulive_2](https://twitch.tv/osulive_2) |
-| France ::{ flag=FR }:: | ::{ flag=TR }:: Turkey | [May 25 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240525T160000&p1=1440&p2=195&p3=19) | [osulive](https://twitch.tv/osulive) |
-| Canada ::{ flag=CA }:: | ::{ flag=LV }:: Latvia | [May 25 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240525T170000&p1=1440&p2=188) | [osulive](https://twitch.tv/osulive) |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=MX }:: Mexico | [May 25 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240525T190000&p1=1440&p2=136&p3=155) | [osulive](https://twitch.tv/osulive) |
-
 ### Sunday, 26 May 2024
 
 | Team A | Team B | Match time | Twitch stream |
@@ -181,6 +168,21 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
   2. [lapix - Horizon Blue feat. Kanata.N (-Ken) \[The world beyond the everlasting lines\]](https://osu.ppy.sh/beatmapsets/2180225#fruits/4605325)
 
 ## Match results
+
+### Round of 32
+
+Saturday, 25 May 2024:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Chile** ::{ flag=CL }:: | **5** | 0 | ::{ flag=NZ }:: New Zealand | [#1](https://osu.ppy.sh/community/matches/114018163) | [#1](https://www.twitch.tv/videos/2154777123) |
+| Sweden ::{ flag=SE }:: | 1 | **5** | ::{ flag=AU }:: **Australia** | [#1](https://osu.ppy.sh/community/matches/114021160) | [#1](https://www.twitch.tv/videos/2154793570) |
+| **Russian Federation** ::{ flag=RU }:: | **5** | 0 | ::{ flag=VN }:: Vietnam | [#1](https://osu.ppy.sh/community/matches/114022243) | [#1](https://www.twitch.tv/videos/2154895935) |
+| **Indonesia** ::{ flag=ID }:: | **5** | 1 | ::{ flag=NO }:: Norway | [#1](https://osu.ppy.sh/community/matches/114022888) | [#1](https://www.twitch.tv/videos/2154895936) |
+| **China** ::{ flag=CN }:: | **5** | 3 | ::{ flag=NL }:: Netherlands | [#1](https://osu.ppy.sh/community/matches/114022885) | [#1](https://www.twitch.tv/videos/2154892337) |
+| **France** ::{ flag=FR }:: | **5** | 0 | ::{ flag=TR }:: Turkey | [#1](https://osu.ppy.sh/community/matches/114025391) | [#1](https://www.twitch.tv/videos/2155000665) |
+| **Canada** ::{ flag=CA }:: | **5** | 1 | ::{ flag=LV }:: Latvia | [#1](https://osu.ppy.sh/community/matches/114026444) | [#1](https://www.twitch.tv/videos/2155052241) |
+| **United Kingdom** ::{ flag=GB }:: | **5** | 0 | ::{ flag=MX }:: Mexico | [#1](https://osu.ppy.sh/community/matches/114028218) | [#1](https://www.twitch.tv/videos/2155147674) |
 
 ### Qualifiers
 
