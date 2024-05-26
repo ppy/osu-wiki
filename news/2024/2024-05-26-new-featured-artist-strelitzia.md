@@ -25,7 +25,7 @@ Experience what **Strelitzia** has to offer:
 Attempt [the map from the video above](https://osu.ppy.sh/beatmapsets/2182598) hosted by [squirrelpascals](https://osu.ppy.sh/users/6151332)!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/421/Winter/Strelitzia%20-%20This%20Bed%20Ain_t%20Big%20Enough%20Fer%20The%20Two%20of%20Us.mp3">
+    <source src="https://assets.ppy.sh/artists/421/Winter/Strelitzia%20-%20This%20Bed%20Ain't%20Big%20Enough%20Fer%20The%20Two%20of%20Us.mp3">
 </audio>
 
 ### Strelitzia - Sara
@@ -37,7 +37,7 @@ Attempt [the map from the video above](https://osu.ppy.sh/beatmapsets/2182598) h
 ### Strelitzia - Don't Wake Up the Trees (There'll Be a Shortage of Oranges)
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/421/Why%20Couldn_t%20You%20Have%20Just%20Died%20in%20the%20Spring/Strelitzia%20-%20Don_t%20Wake%20Up%20the%20Trees%20(There_ll%20Be%20a%20Shortage%20of%20Oranges).mp3">
+    <source src="https://assets.ppy.sh/artists/421/Why%20Couldn't%20You%20Have%20Just%20Died%20in%20the%20Spring/Strelitzia%20-%20Don't%20Wake%20Up%20the%20Trees%20(There_ll%20Be%20a%20Shortage%20of%20Oranges).mp3">
 </audio>
 
 ### Strelitzia - Say It
