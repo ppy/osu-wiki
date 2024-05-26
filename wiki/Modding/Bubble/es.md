@@ -17,7 +17,7 @@ La **burbuja** (![icono de la burbuja](/wiki/shared/icon/bubble.gif)) era un ico
 
 Al ser el siguiente paso del [antiguo sistema de clasificación](/wiki/Modding/Forum_modding) después de una [proto-burbuja](/wiki/Modding/Proto-bubble), una burbuja normal significaba que un [beatmap](/wiki/Beatmap) estaba listo para ser clasificado desde el punto de vista del modder. Los beatmaps burbujeados serían eventualmente revisados por otro miembro del BAT o un BN y [clasificados](/wiki/Beatmap/Category#ranked) o [aprobados](/wiki/Beatmap/Category#approved) siempre y cuando solo fueran necesarios cambios menores en el mapa.
 
-En el [procedimiento de clasificación de los beatmaps](/wiki/Beatmap_ranking_procedure) actual, el equivalente a una burbuja es la primera [nominación](/wiki/Beatmap_ranking_procedure#nominaciones) dada por un [beatmap nominator](/wiki/People/Beatmap_Nominators).
+En el [procedimiento de clasificación de los beatmaps](/wiki/Beatmap_ranking_procedure) actual, el equivalente a una burbuja es la primera [nominación](/wiki/Beatmap_ranking_procedure#nominations) dada por un [beatmap nominator](/wiki/People/Beatmap_Nominators).
 
 ## Historia
 
