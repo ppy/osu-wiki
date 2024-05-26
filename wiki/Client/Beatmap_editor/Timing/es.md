@@ -72,7 +72,7 @@ La pestaña de temporización se puede abrir presionando `F3` y proporciona acce
 
 | Nombre | Significado |
 | :-- | :-- |
-| `BPM` | [Tempo](/wiki/Music_theory/Tempo) del punto de tiempo actual, medido en pulsos por minuto (BPM). |
+| `BPM` | [Tempo](/wiki/Music_theory/Tempo) del punto de tiempo actual, medido en pulsaciones por minuto (BPM). |
 | `Offset` | [Compensación](/wiki/Offset#mapping) del punto de tiempo actual, medida en milisegundos. |
 | `Mover las notas cuando se cambie el offset/BPM` | Mantiene los objetos adjuntos a las marcas de la [línea de tiempo](/wiki/Client/Beatmap_editor/Timelines) durante los cambios de temporización. |
 | `Vel. Deslizador` | [Velocidad base del slider](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) de todo el beatmap |
@@ -104,6 +104,6 @@ El panel de configuración de la temporización, también llamado `Timing and Co
 
 Todos los cambios en el panel de temporización solo se aplican a los puntos de tiempo seleccionados.
 
-- Para seleccionar múltiples puntos de tiempo diferentes, mantén presionada la tecla `Ctrl` mientras haces clic en ellos
-- Para seleccionar varios puntos de tiempo seguidos, haz clic en el primero y luego haz clic en el último mientras mantienes presionada la tecla `Mayús`
+- Para seleccionar varios puntos de tiempo por separado, mantén presionada la tecla `Ctrl` mientras haces clic en ellos
+- Para seleccionar varios puntos de tiempo a la vez, haz clic en el primero y luego haz clic en el último mientras mantienes presionada la tecla `Mayús`
 - Para **copiar o pegar puntos de tiempo desde y hacia el panel de temporización**, usa los atajos predeterminados de tu sistema operativo, como `Ctrl` + `C` y `Ctrl` + `V`
