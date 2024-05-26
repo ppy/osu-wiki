@@ -29,11 +29,11 @@ Todos los valores de la compensación en línea se almacenan localmente para su 
 ![](img/beatmap-management-panel-new-ES.png "Panel de gestión de un beatmap, sitio web nuevo")
 :::
 
-La compensación en línea se implementó en septiembre de 2008[^changelog-add] para el [Beatmap Appreciation Team](/wiki/People/Beatmap_Appreciation_Team) para hacer posible arreglar la temporización de un beatmap sin desclasificarlo. Con el paso del tiempo, se hizo accesible a los miembros de diferentes equipos que supervisaban el proceso de clasificación, como el [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) (QAT), [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT) y el [Global Moderation Team](/wiki/People/Global_Moderation_Team), debido a la similitud de los permisos de los grupos.
+La compensación en línea se implementó en septiembre de 2008[^changelog-add] para el [Beatmap Appreciation Team](/wiki/People/Beatmap_Appreciation_Team) para hacer posible arreglar la temporización de un beatmap sin desclasificarlo. Con el paso del tiempo, se hizo accesible a los miembros de los diferentes equipos que supervisaban el proceso de clasificación, como el [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) (QAT), el [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT) y el [Global Moderation Team](/wiki/People/Global_Moderation_Team), debido a la similitud de los permisos de los grupos.
 
 En mayo de 2019, el NAT declaró durante el seguimiento de la reestructuración del QAT[^qat-restructuring-follow-up-pr] que una compensación no válida requeriría la desclasificación del beatmap y no podría arreglarse a través de los respectivos controles del sitio web. De todos modos, todo el panel de gestión de los mapas se hizo visible para los [Beatmap Nominators](/wiki/People/Beatmap_Nominators).
 
-En abril de 2022 se añadieron los controles de compensación en línea[^new-website-offset] al nuevo sitio web, pero una semana después se limitaron únicamente a los administradores para evitar usos indebidos.[^new-website-offset-restriction]
+En abril de 2022 se añadieron los controles de la compensación en línea[^new-website-offset] al nuevo sitio web, pero una semana después se limitaron únicamente a los administradores para evitar usos indebidos.[^new-website-offset-restriction]
 
 ## Referencias
 
