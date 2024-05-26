@@ -29,8 +29,8 @@ Los siguientes comandos del chat se proporcionan para la gestión remota de las 
   - Se puede ingresar cualquier cantidad de mods.
   - `mod` - HR, DT, FL, HD, FI, Freemod, None (ninguno)
 - `!mp timer [<tiempo>]` - Inicia una cuenta regresiva
-  - `tiempo` es 30 segundos por defecto.
-  - Los anuncios de que la cuenta regresiva se va a terminar se producen cada minuto, 30s, 10s, 5s con anterioridad.
+  - `tiempo` son 30 segundos por defecto.
+  - Los avisos de que la cuenta regresiva se va a terminar se producen cada minuto, 30s, 10s, 5s con anterioridad.
 - `!mp aborttimer` - Detiene la cuenta regresiva actual (tanto la cuenta regresiva normal como la cuenta regresiva para el inicio de la partida)
 - `!mp kick <nombre de usuario>` - Expulsa al jugador de la sala.
 - `!mp ban <nombre de usuario>` - Prohíbe al jugador entrar a la sala.
