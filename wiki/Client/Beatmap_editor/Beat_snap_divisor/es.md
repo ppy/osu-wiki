@@ -10,7 +10,7 @@ tags:
 
 El **divisor de ritmo** es un ajuste que determina el comportamiento del editor al cuantificar los [pulsos](/wiki/Music_theory/Beat), en un proceso conocido como [ajuste de ritmo](/wiki/Beatmapping/Beat_snapping). Se puede encontrar en la parte superior derecha de la pantalla del editor.
 
-El divisor de ritmo corresponde a la granularidad de los [objetos](/wiki/Gameplay/Hit_object) en la [línea de tiempo](/wiki/Client/Beatmap_editor/Timelines). El divisor se expresa como una fracción de en cuántas partes se debe dividir un pulso; un ajuste más denso para el divisor de ritmo permite colocar más notas en el mismo compás de tiempo, y viceversa.
+El divisor de ritmo corresponde a la granularidad de los [objetos](/wiki/Gameplay/Hit_object) en la [línea de tiempo](/wiki/Client/Beatmap_editor/Timelines). El divisor se expresa como una fracción de en cuántas partes se debe dividir un pulso; un ajuste más denso para el divisor de ritmo permite colocar más notas en el mismo compás, y viceversa.
 
 ## Divisores soportados
 
