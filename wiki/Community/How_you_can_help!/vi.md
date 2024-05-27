@@ -12,13 +12,13 @@ Nếu bạn là người mới tham gia đóng góp cho osu!wiki, bạn có th�
 
 ## Giúp giữ osu! thân thiện và an toàn 
 
-Để giữ những nơi hoạt động sôi nổi của cộng đồng được an toàn, osu! có một nhóm kiểm duyệt chuyên biệt — [Đội ngũ Kiểm duyệt viên](/wiki/People/Global_Moderation_Team) — để giám sát các diễn đàn và các cuộc trò chuyện trực tuyến xuyên suốt cả ngày.
+Để giữ những nơi hoạt động sôi nổi của cộng đồng được an toàn, osu! có một nhóm kiểm duyệt chuyên biệt —[Đội ngũ Kiểm duyệt viên](/wiki/People/Global_Moderation_Team)— để giám sát các diễn đàn và các cuộc trò chuyện trực tuyến xuyên suốt cả ngày.
 
 Thật may là việc giúp giữ mọi thứ an toàn ở đây khá là dễ dàng. Sau đây chỉ là một trong số rất nhiều cách bạn có thể giúp:
 
-Theo dõi các kênh yêu thích của bạn ở [phần trò chuyện (chat) trong game](/wiki/Client/Interface/Chat_console) hoặc tham gia vào các diễn đàn.
+- Theo dõi các kênh yêu thích của bạn ở [phần trò chuyện (chat) trong game](/wiki/Client/Interface/Chat_console) hoặc tham gia vào các diễn đàn.
 
-Nếu bạn thấy điều gì đó xảy ra mà bạn cho là không phù hợp hoặc gây phiền phức theo bất kỳ cách nào, hãy sử dụng [lệnh `!report`](/wiki/Reporting_bad_behaviour) trong phần trò chuyện để thông báo cho kiểm duyệt viên về điều đó.
+- Nếu bạn thấy điều gì đó xảy ra mà bạn cho là không phù hợp hoặc gây phiền phức theo bất kỳ cách nào, hãy sử dụng [lệnh `!report`](/wiki/Reporting_bad_behaviour) trong phần trò chuyện để thông báo cho kiểm duyệt viên về điều đó.
 
 ## Giúp đỡ các thành viên khác trong cộng đồng
 
@@ -45,7 +45,7 @@ osu! có một đội ngũ đánh giá tận tâm, những [Đề cử viên](/w
 - Chơi các beatmap đang trong giai đoạn [Đang chờ hoặc WIP](/wiki/Beatmap/Category#wip-and-pending) và để lại phản hồi trên trang thảo luận beatmap.
 - Đọc [Hướng dẫn Modding](/wiki/Modding) và [Tiêu chuẩn xếp hạng](/wiki/Ranking_criteria) để biết những điều cơ bản về modding chuyên môn và điều gì làm cho beatmap có thể xếp hạng được.
 - Tham gia kênh `#mapping` và `#modreqs` ở phần trò chuyện trong game. Bạn có thể tham gia trò chuyện hoặc chỉ theo dõi.
-- Nếu bạn có thời gian và tâm huyết, hãy tạo một [Hàng chờ Modding (Modding Queue)](https://osu.ppy.sh/community/forums/6) để người tạo beatmap có thể đến để nhận gợi ý sửa đổi beatmap.
+- Nếu bạn có thời gian và tâm huyết, hãy tạo một [Hàng chờ Modding ](https://osu.ppy.sh/community/forums/6) để người tạo beatmap có thể đến để nhận gợi ý sửa đổi beatmap.
 
 ## Đưa ra góp ý về quá trình chơi hoặc skin của người chơi!
 
