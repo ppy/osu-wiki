@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # 랭킹 크리테리아 요약
 
 *랭킹 크리테리아의 모든 내용을 보려면 [랭킹 크리테리아](/wiki/Ranking_criteria) 문서를 참조하세요*
