@@ -1,8 +1,3 @@
----
-outdated_since: 8b45559ddf7fab47f5aac78e524abc158ccab574
-outdated_translation: true
----
-
 # Denunciare un abuso
 
 ## Non so se dovrei segnalarlo o meno
