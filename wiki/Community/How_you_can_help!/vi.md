@@ -27,11 +27,11 @@ Nếu bạn thấy ai đó đang gặp vấn đề với game, hãy giúp họ m
 Sau đây là các gợi ý để bạn có thể bắt đầu giúp đỡ người khác trên diễn đàn:
 
 - Chọn một diễn đàn thu hút sự quan tâm của bạn, ví dụ:
- - [Help (Diễn đàn Trợ giúp)](https://osu.ppy.sh/community/forums/5)
- - [Mapping Discussion (Diễn đàn Thảo luận Beatmap)](https://osu.ppy.sh/community/forums/56)
- - [Storyboarding](https://osu.ppy.sh/community/forums/20)
- - [Skinning](https://osu.ppy.sh/community/forums/15)
- - [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13)
+  - [Help](https://osu.ppy.sh/community/forums/5)
+  - [Mapping Discussion](https://osu.ppy.sh/community/forums/56)
+  - [Storyboarding](https://osu.ppy.sh/community/forums/20)
+  - [Skinning](https://osu.ppy.sh/community/forums/15)
+  - [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13)
 - Đọc qua các bài đăng được ghim ở diễn đàn để tìm hiểu các quy tắc cụ thể dành riêng cho từng diễn đàn nhỏ và những thông tin hữu ích ở trong bài đăng đó.
 - Sử dụng nút `Mark forum as read` ở trên cùng.
 - Theo dõi tất cả các chủ đề mới, đọc từng chủ đề và trợ giúp khi có thể — bạn có thể sử dụng biểu tượng chưa đọc để chắc chắn rằng bạn bắt kịp với mọi thông tin.
