@@ -143,7 +143,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
 
 ### Round of 16
 
-**[Download the mappack here (109 MB)](https://leoflt.com/s/mYoK)**\
+**[Download the mappack here (109 MB)](https://packs.ppy.sh/P248%20-%20osu!catch%20World%20Cup%202024%3A%20Round%20of%2016.zip)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2156057435)
 
 - No Mod
