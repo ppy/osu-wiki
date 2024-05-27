@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Kesalahan modding umum
 
 *Lihat juga: [Menjadi seorang Beatmap Nominator § Ekspektasi modding](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)*
