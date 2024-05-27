@@ -64,7 +64,7 @@ And of course, both of these come with the full keycap sets too!
 
 **The KapCo** was generous enough to give us 10 sets of keys for free, so we'll be doing a joint giveaway!
 
-**To enter, [reply to this tweet](https://twitter.com/osugame) with a pic of the keys you currently slam when playing osu!.** The more worn down, the better.
+**To enter, [reply to this tweet](https://twitter.com/osugame/status/1795112159124348929) with a pic of the keys you currently slam when playing osu!.** The more worn down, the better.
 
 We'll be announcing the giveaway winners in **3 days** (2024-05-30) on [the @osugame Twitter](https://twitter.com/osugame), so look out for that.
 
