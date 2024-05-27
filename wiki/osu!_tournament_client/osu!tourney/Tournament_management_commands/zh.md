@@ -36,6 +36,7 @@ outdated_since: a4e45cf0738ff0ce2327cba8b9efe89d53e1ef9f
   - 倒计时将会在距离结束 30 秒，10 秒，5 秒时公告。
 - `!mp aborttimer` - 结束倒计时 (普通倒计时和比赛倒计时)。
 - `!mp kick <username>` - 踢出指定的玩家。
+- `!mp ban <username>` - 禁止指定的玩家进入房间。
 - `!mp password [<password>]` - 改变房间的密码，如果没有提供，密码将会被删除。
 - `!mp addref <username> [<username>] …` - 添加一个裁判到房间，只有房间的创建者才可以添加裁判，最多可以添加八个裁判。
   - 使用该指令需要裁判加入房间，不过裁判也可以手动使用 IRC 输入 `/join #mp_<room_id>` 进入房间的聊天频道。
