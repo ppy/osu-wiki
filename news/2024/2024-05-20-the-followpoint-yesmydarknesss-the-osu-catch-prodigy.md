@@ -10,7 +10,7 @@ Read up on the latest interview with YesMyDarknesss, the osu!catch #1 player.
 
 Welcome or welcome back to The Followpoint, a "community spotlight" series where we interview various players and community figures to get to know them better!
 
-We are back with a second interview of our special set, interviewing the very top of each game mode, this time featuring YesMyDarknesss (a.k.a Hyperw7), osu!catch rank #1 player!
+We are back with a second interview of our special set, interviewing the very top of each game mode, this time featuring YesMyDarknesss (a.k.a Hyperw7), osu!catch rank #1 player and currently the longest standing #1 of all game modes!
 If you have no idea what this "special set" thing is, we recommend checking out [mrekk interview](https://osu.ppy.sh/home/news/2024-05-06-the-followpoint-mrekk-the-osu-standard-prodigy) first!
 
 Let's start now, shall we?
@@ -47,7 +47,7 @@ Let's start now, shall we?
 >
 > Yes, after you move past the spamming phase, you need to find your own reasons for your gameplay. Why did you miss? How do you catch the patterns? What rhythm should you use?
 >
-> In my case, when I missed a section, I kept trying to change my beat. If I was tapping my keyboard 1/4 at that moment, I would switch to 1/3 or 1/6, constantly adjusting my timing. Once I found the right beat, I memorized it and kept it in mind when retrying that map.
+> In my case, when I miss a section, I keep trying to change my tapping rhythm. If I were tapping my keyboard at 1/4 in one moment, I would switch to 1/3 or 1/6, constantly adjusting my tapping. Once I found the right rhythm, I memorized it and kept it in mind when retrying the map.
 >
 > After that, I focus on the hard patterns of the map and replay those parts over and over. If a map feels easy to full combo or play except for one difficult pattern or part, then that part is your weakness. In rhythm games, if you're a picky eater, you won't survive.
 >
