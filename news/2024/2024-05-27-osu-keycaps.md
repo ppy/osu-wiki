@@ -48,7 +48,7 @@ Sometimes circle clickers... aren't actually circle clickers, so we've also incl
 
 If you don't have a compatible keyboard yet, **The KapCo** also offers these keycap sets as proper keyboards too!
 
-Specifically, you can pick up either [this perfectly sized 75% keyboard](https://www.thekapco.com/products/osu-pippi-keycap-set?variant=47259204911337)...
+Specifically, you can pick up either [this perfectly sized 75% keyboard](https://www.thekapco.com/products/osu-pippi-keycap-set?variant=47259204911337), highlighting [sanmu](https://www.instagram.com/sanmuworks/)'s drawing of pippi...
 
 [![](/wiki/shared/news/2024-05-27-osu-keycaps/keyboard.jpg)](https://www.thekapco.com/products/osu-pippi-keycap-set?variant=47259204911337)
 
