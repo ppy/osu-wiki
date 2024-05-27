@@ -12,7 +12,7 @@ La **pestaña compose** del [editor de beatmaps](/wiki/Client/Beatmap_editor) es
 
 El editor comparte las mismas herramientas entre osu!, osu!taiko y osu!catch, mientras que osu!mania tiene un diseño de la pestaña compose específico más adecuado para ese modo de juego. Se puede acceder cambiando el [modo permitido](/wiki/Client/Beatmap_editor/Song_setup#advanced) de la dificultad a `osu!mania`.
 
-## Características 
+## Características
 
 *Para una visión general del proceso de mapping, véase: [Beatmapping](/wiki/Beatmapping)*
 
