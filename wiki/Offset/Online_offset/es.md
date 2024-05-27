@@ -1,7 +1,7 @@
 ---
 tags:
   - online song offset
-  - compensación de la canción en línea 
+  - compensación de la canción en línea
 ---
 
 # Compensación en línea
