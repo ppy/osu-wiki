@@ -44,12 +44,12 @@ Winners of [MWC 4K 2023](/wiki/Tournaments/MWC/2023_4K) with the **osu!mania 4K 
 - ::{ flag=US }:: [PeachMarrow](https://osu.ppy.sh/users/15926730)
 - ::{ flag=US }:: [TristanJacob11](https://osu.ppy.sh/users/11817838)
 
-Winners of [MWC 7K 2023](/wiki/Tournaments/MWC/2023_7K) with the **osu!mania 7K Champion** user title:
+Winners of [MWC 7K 2024](/wiki/Tournaments/MWC/2024_7K) with the **osu!mania 7K Champion** user title:
 
-- ::{ flag=PH }:: [bojii](https://osu.ppy.sh/users/10083439)
-- ::{ flag=PH }:: [- Kura -](https://osu.ppy.sh/users/11420405)
-- ::{ flag=PH }:: [Berrii](https://osu.ppy.sh/users/877011)
-- ::{ flag=PH }:: [Arona](https://osu.ppy.sh/users/8748664)
+- ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406)
+- ::{ flag=KR }:: [HanJaeHun](https://osu.ppy.sh/users/2402586)
+- ::{ flag=KR }:: [OutLast](https://osu.ppy.sh/users/5402803)
+- ::{ flag=KR }:: [yz1155](https://osu.ppy.sh/users/2071008)
 
 ## Previous World Cup title holders
 
@@ -123,14 +123,16 @@ Winners of previous osu!mania World Cups with the **Former osu!mania Champion** 
 | [MWC 4K 2019](/wiki/Tournaments/MWC/2019_4K) | Former osu!mania 4K Champion: 2019 | ::{ flag=KR }:: [blueBloody](https://osu.ppy.sh/users/8046839), ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649), ::{ flag=KR }:: [Transcendence](https://osu.ppy.sh/users/903155), ::{ flag=KR }:: [Yeoul](https://osu.ppy.sh/users/4698728), ::{ flag=KR }:: [wonder5193](https://osu.ppy.sh/users/8474029) |
 | [MWC 4K 2020](/wiki/Tournaments/MWC/2020_4K) | Former osu!mania 4K Champion: 2020 | ::{ flag=BR }:: [Guilhermeziat](https://osu.ppy.sh/users/3661387), ::{ flag=BR }:: [Kyut](https://osu.ppy.sh/users/9328824), ::{ flag=BR }:: [Punnies](https://osu.ppy.sh/users/8700468) |
 | [MWC 4K 2021](/wiki/Tournaments/MWC/2021_4K) | Former osu!mania 4K Champion: 2021 | ::{ flag=BR }:: [Amerom](https://osu.ppy.sh/users/5691061), ::{ flag=BR }:: [Lenn](https://osu.ppy.sh/users/11236829), ::{ flag=BR }:: [LeMarcinho](https://osu.ppy.sh/users/13347579), ::{ flag=BR }:: [Lothus](https://osu.ppy.sh/users/9530019), ::{ flag=BR }:: [Orost](https://osu.ppy.sh/users/13601876), ::{ flag=BR }:: [SillyFangirl](https://osu.ppy.sh/users/2288363) |
-| [MWC 7K 2022](/wiki/Tournaments/MWC/2022_7K) | Former osu!mania 7K Champion: 2022 | ::{ flag=KR }:: [0133](https://osu.ppy.sh/users/12346181), ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406), ::{ flag=KR }:: [Estonians](https://osu.ppy.sh/users/7014697), ::{ flag=KR }:: [yz1155](https://osu.ppy.sh/users/2071008) |
+| [MWC 7K 2022](/wiki/Tournaments/MWC/2022_7K) | Former osu!mania 7K Champion: 2022 | ::{ flag=KR }:: [0133](https://osu.ppy.sh/users/12346181), ::{ flag=KR }:: [Estonians](https://osu.ppy.sh/users/7014697) |
 | [MWC 4K 2022](/wiki/Tournaments/MWC/2022_4K) | Former osu!mania 4K Champion: 2022 | ::{ flag=KR }:: [Flying Samira](https://osu.ppy.sh/users/10329095), ::{ flag=KR }:: [gaesol](https://osu.ppy.sh/users/12452131), ::{ flag=KR }:: [lianic](https://osu.ppy.sh/users/13975661), ::{ flag=KR }:: [Poca](https://osu.ppy.sh/users/8581031), ::{ flag=KR }:: [SuddenDeath](https://osu.ppy.sh/users/6699923), ::{ flag=KR }:: [SnowScent](https://osu.ppy.sh/users/7945868) |
+| [MWC 7K 2023](/wiki/Tournaments/MWC/2023_7K) | Former osu!mania 7K Champion: 2023 | ::{ flag=PH }:: [- Kura -](https://osu.ppy.sh/users/11420405), ::{ flag=PH }:: [Arona](https://osu.ppy.sh/users/8748664), ::{ flag=PH }:: [Berrii](https://osu.ppy.sh/users/877011), ::{ flag=PH }:: [bojii](https://osu.ppy.sh/users/10083439) |
 
 ## Official mapping contest winners
 
-Most official mapping contests offer the **Elite Mapper** title as a first-place prize.
+Most official mapping contests offer the **Elite Mapper** title through [contest points](/wiki/Contests/Contest_points). Older contests rewarded the title as a first-place prize.
 
 - ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596)
+- ::{ flag=PH }:: [acnozei](https://osu.ppy.sh/users/10141268)
 - ::{ flag=KR }:: [Acylica](https://osu.ppy.sh/users/1943309)
 - ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883)
 - ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114)
@@ -169,6 +171,7 @@ Most official mapping contests offer the **Elite Mapper** title as a first-place
 - ::{ flag=KR }:: [Taeyang](https://osu.ppy.sh/users/2732340)
 - ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811)
 - ::{ flag=CN }:: [TtmnZk](https://osu.ppy.sh/users/2495509)
+- ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904)
 - ::{ flag=CN }:: [yf\_bmp](https://osu.ppy.sh/users/1243669)
 - ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834)
 - ::{ flag=RU }:: [xbopost](https://osu.ppy.sh/users/6842421)

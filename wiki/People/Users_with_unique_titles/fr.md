@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: f025dffcc9f2f7857bdb1819c90c9cb7376c7b22
+---
+
 # Utilisateurs avec des titres uniques
 
 Les titres des utilisateurs sont généralement associés à des [groupes d'utilisateurs](/wiki/People/User_group), mais les utilisateurs listés ci-dessous ont reçu leur titre pour d'autres raisons. La plupart des titres sont des récompenses pour des contributions ou des réalisations, les autres étant des symboles de l'histoire emblématique ou amusante d'osu!
@@ -44,12 +49,12 @@ Vainqueurs de la [MWC 4K 2023](/wiki/Tournaments/MWC/2023_4K) avec le titre d'ut
 - ::{ flag=US }:: [PeachMarrow](https://osu.ppy.sh/users/15926730)
 - ::{ flag=US }:: [TristanJacob11](https://osu.ppy.sh/users/11817838)
 
-Vainqueurs de la [MWC 7K 2023](/wiki/Tournaments/MWC/2023_7K) avec le titre d'utilisateur **osu!mania 7K Champion** :
+Vainqueurs de la [MWC 7K 2024](/wiki/Tournaments/MWC/2024_7K) avec le titre d'utilisateur **osu!mania 7K Champion** :
 
-- ::{ flag=PH }:: [bojii](https://osu.ppy.sh/users/10083439)
-- ::{ flag=PH }:: [- Kura -](https://osu.ppy.sh/users/11420405)
-- ::{ flag=PH }:: [Berrii](https://osu.ppy.sh/users/877011)
-- ::{ flag=PH }:: [Arona](https://osu.ppy.sh/users/8748664)
+- ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406)
+- ::{ flag=KR }:: [HanJaeHun](https://osu.ppy.sh/users/2402586)
+- ::{ flag=KR }:: [OutLast](https://osu.ppy.sh/users/5402803)
+- ::{ flag=KR }:: [yz1155](https://osu.ppy.sh/users/2071008)
 
 ## Anciens vainqueurs de la World Cup
 
@@ -123,8 +128,9 @@ Les vainqueurs des précédentes World Cups osu!mania avec le titre d'utilisateu
 | [MWC 4K 2019](/wiki/Tournaments/MWC/2019_4K) | Former osu!mania 4K Champion: 2019 | ::{ flag=KR }:: [blueBloody](https://osu.ppy.sh/users/8046839), ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649), ::{ flag=KR }:: [Transcendence](https://osu.ppy.sh/users/903155), ::{ flag=KR }:: [Yeoul](https://osu.ppy.sh/users/4698728), ::{ flag=KR }:: [wonder5193](https://osu.ppy.sh/users/8474029) |
 | [MWC 4K 2020](/wiki/Tournaments/MWC/2020_4K) | Former osu!mania 4K Champion: 2020 | ::{ flag=BR }:: [Guilhermeziat](https://osu.ppy.sh/users/3661387), ::{ flag=BR }:: [Kyut](https://osu.ppy.sh/users/9328824), ::{ flag=BR }:: [Punnies](https://osu.ppy.sh/users/8700468) |
 | [MWC 4K 2021](/wiki/Tournaments/MWC/2021_4K) | Former osu!mania 4K Champion: 2021 | ::{ flag=BR }:: [Amerom](https://osu.ppy.sh/users/5691061), ::{ flag=BR }:: [Lenn](https://osu.ppy.sh/users/11236829), ::{ flag=BR }:: [LeMarcinho](https://osu.ppy.sh/users/13347579), ::{ flag=BR }:: [Lothus](https://osu.ppy.sh/users/9530019), ::{ flag=BR }:: [Orost](https://osu.ppy.sh/users/13601876), ::{ flag=BR }:: [SillyFangirl](https://osu.ppy.sh/users/2288363) |
-| [MWC 7K 2022](/wiki/Tournaments/MWC/2022_7K) | Former osu!mania 7K Champion: 2022 | ::{ flag=KR }:: [0133](https://osu.ppy.sh/users/12346181), ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406), ::{ flag=KR }:: [Estonians](https://osu.ppy.sh/users/7014697), ::{ flag=KR }:: [yz1155](https://osu.ppy.sh/users/2071008) |
+| [MWC 7K 2022](/wiki/Tournaments/MWC/2022_7K) | Former osu!mania 7K Champion: 2022 | ::{ flag=KR }:: [0133](https://osu.ppy.sh/users/12346181), ::{ flag=KR }:: [Estonians](https://osu.ppy.sh/users/7014697) |
 | [MWC 4K 2022](/wiki/Tournaments/MWC/2022_4K) | Former osu!mania 4K Champion: 2022 | ::{ flag=KR }:: [Flying Samira](https://osu.ppy.sh/users/10329095), ::{ flag=KR }:: [gaesol](https://osu.ppy.sh/users/12452131), ::{ flag=KR }:: [lianic](https://osu.ppy.sh/users/13975661), ::{ flag=KR }:: [Poca](https://osu.ppy.sh/users/8581031), ::{ flag=KR }:: [SuddenDeath](https://osu.ppy.sh/users/6699923), ::{ flag=KR }:: [SnowScent](https://osu.ppy.sh/users/7945868) |
+| [MWC 7K 2023](/wiki/Tournaments/MWC/2023_7K) | Former osu!mania 7K Champion: 2023 | ::{ flag=PH }:: [- Kura -](https://osu.ppy.sh/users/11420405), ::{ flag=PH }:: [Arona](https://osu.ppy.sh/users/8748664), ::{ flag=PH }:: [Berrii](https://osu.ppy.sh/users/877011), ::{ flag=PH }:: [bojii](https://osu.ppy.sh/users/10083439) |
 
 ## Gagnants du concours officiel de mapping
 

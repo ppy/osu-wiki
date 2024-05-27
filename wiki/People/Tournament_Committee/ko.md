@@ -1,3 +1,10 @@
+---
+tags:
+  - TC
+outdated_since: 9661014ab900317b13040f5f3a2d36ce6b154b07
+outdated_translation: true
+---
+
 # 토너먼트 위원회
 
 **토너먼트 위원회**는 토너먼트 현장에서 안정적이고 숙련된 주최자와 헬퍼로 구성된 위원회입니다.
@@ -25,6 +32,7 @@
 - ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)
 - ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650)
 - ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227)
+- ::{ flag=US }:: [Stage](https://osu.ppy.sh/users/8191845)
 - ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)
 - ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189)
 - ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416)

@@ -44,7 +44,7 @@ Official tournaments organised by the osu! team.
 | [osu!taiko World Cup 2021](TWC/2021) | 2021-03-06 | 2021-04-11 | ::{ flag=JP }:: Japan | ::{ flag=KR }:: South Korea | ::{ flag=BR }:: Brazil |
 | [osu!taiko World Cup 2022](TWC/2022) | 2022-03-12 | 2022-04-24 | ::{ flag=JP }:: Japan | ::{ flag=KR }:: South Korea | ::{ flag=ID }:: Indonesia |
 | [osu!taiko World Cup 2023](TWC/2023) | 2023-03-18 | 2023-04-30 | ::{ flag=JP }:: Japan | ::{ flag=TW }:: Taiwan | ::{ flag=DE }:: Germany |
-| [osu!taiko World Cup 2024](TWC/2024) | 2024-03-16 | 2024-04-28 | *TBD* | *TBD* | *TBD* |
+| [osu!taiko World Cup 2024](TWC/2024) | 2024-03-16 | 2024-04-28 | ::{ flag=JP }:: Japan | ::{ flag=GB }:: United Kingdom | ::{ flag=US }:: United States |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch World Cup
 
@@ -62,6 +62,7 @@ Official tournaments organised by the osu! team.
 | [osu!catch World Cup 2021](CWC/2021) | 2021-05-01 | 2021-06-06 | ::{ flag=KR }:: South Korea | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: United States |
 | [osu!catch World Cup 2022](CWC/2022) | 2022-05-21 | 2022-07-03 | ::{ flag=KR }:: South Korea | ::{ flag=US }:: United States | ::{ flag=CN }:: China |
 | [osu!catch World Cup 2023](CWC/2023) | 2023-05-13 | 2023-06-25 | ::{ flag=KR }:: South Korea | ::{ flag=US }:: United States | ::{ flag=IT }:: Italy |
+| [osu!catch World Cup 2024](CWC/2024) | 2024-04-18 | 2024-06-30 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania World Cup
 
@@ -107,11 +108,23 @@ Unofficial tournaments/competitions hosted by the communities.
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| 3 Digit World Cup | 2019-03-15 | 2019-05-26 | ::{ flag=KR }:: South Korea | ::{ flag=RU }:: Russian Federation | ::{ flag=US }:: United States |
+| 3 Digit World Cup | 2019-03-15 | 2019-05-26 | ::{ flag=KR }:: South Korea | ::{ flag=US }:: United States | ::{ flag=RU }:: Russian Federation |
 | 3 Digit World Cup 2020 | 2020-03-16 | 2020-05-31 | ::{ flag=US }:: United States | ::{ flag=BR }:: Brazil | ::{ flag=TW }:: Taiwan |
 | [3 Digit World Cup 2021](3WC/2021) | 2021-02-24 | 2021-05-09 | ::{ flag=TW }:: Taiwan | ::{ flag=PL }:: Poland | ::{ flag=US }:: United States |
 | 3 Digit World Cup 2022 | 2022-02-20 | 2022-05-08 | ::{ flag=HK }:: Hong Kong | ::{ flag=CN }:: China | ::{ flag=ID }:: Indonesia |
 | 3 Digit World Cup 2023 | 2023-02-17 | 2023-04-30 | ::{ flag=KR }:: South Korea | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: United States |
+| 3 Digit World Cup 2024 | 2023-12-25 | 2024-03-10 | ::{ flag=KR }:: South Korea | ::{ flag=US }:: United States | ::{ flag=BR }:: Brazil |
+
+#### 4 Digit World Cup
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| 4 Digit World Cup | 2018-07-26 | 2018-10-21 | ::{ flag=NL }:: Netherlands | ::{ flag=RU }:: Russian Federation | ::{ flag=HK }:: Hong Kong |
+| 4 Digit World Cup 2019 | 2019-05-24 | 2019-08-25 | ::{ flag=US }:: United States | ::{ flag=GB }:: United Kingdom | ::{ flag=RU }:: Russian Federation |
+| 4 Digit World Cup 2020 | 2020-06-28 | 2020-09-28 | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: United States | ::{ flag=RU }:: Russian Federation |
+| 4 Digit World Cup 2022 | 2021-12-05 | 2022-03-06 | ::{ flag=CN }:: China | ::{ flag=SG }:: Singapore | ::{ flag=CA }:: Canada |
+| 4 Digit World Cup 2023 | 2023-05-07 | 2023-07-23 | ::{ flag=US }:: United States | ::{ flag=CA }:: Canada | ::{ flag=TH }:: Thailand |
+| [4 Digit World Cup 2024](4WC/2024) | 2024-05-04 | 2024-06-16 | *TBD* | *TBD* | *TBD* |
 
 #### Aetherian's Summer Singles
 
@@ -198,7 +211,7 @@ Unofficial tournaments/competitions hosted by the communities.
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Hard Rock Showdown](HRS) | 2024-02-23 | 2024-04-28 | *TBD* | *TBD* | *TBD* |
+| [Hard Rock Showdown](HRS) | 2024-02-23 | 2024-04-28 | ::{ flag=PL }:: [maliszewski](https://osu.ppy.sh/users/12408961) | ::{ flag=HK }:: [mcy4](https://osu.ppy.sh/users/2165650) | ::{ flag=CA }:: [his kitten](https://osu.ppy.sh/users/3717598) |
 
 #### Hidden Only Tournament
 
@@ -441,7 +454,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Ulat Bulu Cup 2019 | 2019-07-26 | 2019-08-31 | Jidank Hamil | Susu Vanilla Cimory | Budak Cygames |
 | [Ulat Bulu Cup 2020](UCUP/2020) | 2020-06-02 | 2020-07-12 | awan fanclub | Press 3 Fs to pay respects | terserah |
 | [Ulat Cup 2021](UCUP/2021) | 2021-09-13 | 2021-10-31 | Rushia | Surtr S3 | L9 Hamster |
-| [Ulat Cup 2022](UCUP/2022) | 2021-09-13 | 2021-10-31 | ::{ flag=TH }:: [chests](https://osu.ppy.sh/users/14806365) | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | [LouisZpro](https://osu.ppy.sh/users/6231292) |
+| [Ulat Cup 2022](UCUP/2022) | 2022-10-24 | 2022-12-11 | ::{ flag=TH }:: [chests](https://osu.ppy.sh/users/14806365) | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | [LouisZpro](https://osu.ppy.sh/users/6231292) |
 
 #### Vin-Tana Solo Showdown
 
@@ -546,6 +559,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [North American Taiko Tournament 2018](NSATT/NATT_2018) | 2018-07-28 | 2018-09-01 | ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897) | ::{ flag=CA }:: [vladyushko](https://osu.ppy.sh/users/4908773) | ::{ flag=US }:: [Loopy542](https://osu.ppy.sh/users/5468461) |
 | [North & South American Taiko Tournament 2019](NSATT/NSATT_2019) | 2019-06-22 | 2019-07-28 | ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897) | ::{ flag=CA }:: [vladyushko](https://osu.ppy.sh/users/4908773) | ::{ flag=BR }:: [eae](https://osu.ppy.sh/users/4050738) |
+
+#### Project Prism
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Project Prism 2024](Project_Prism/2024) | 2024-05-11 | 2024-06-30 | *TBD* | *TBD* | *TBD* |
 
 #### Taiko Convert Tournament
 
