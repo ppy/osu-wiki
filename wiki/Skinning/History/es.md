@@ -1,13 +1,10 @@
 ---
 no_native_review: true
-needs_cleanup: true
 ---
 
-<!-- TODO: needs explanation -->
+# Historia del skinning
 
-# Historia de Skinning
-
-Los elementos de las skins listadas aquí ya no se encuentran en uso.
+Los elementos de las skins listados aquí ya no se encuentran en uso.
 
 ## Interfaz
 
@@ -15,14 +12,14 @@ Los elementos de las skins listadas aquí ya no se encuentran en uso.
 
 ![](img/menu-osu.png)
 
-| Versiones | Animable | Skineable para Beatmap | Modo de fusión | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Si][true] | Normal | Centro | - |
+| Todas | ![No][false] | ![Sí][true] | Normal | Centro | - |
 
 Notas:
 
-- Este elemento era visto al final de una repetición de un beatmap al espectar (durante la carga, pausa o fallo)
-- Este elemento fue considerado un error y se eliminó la posibilidad de personalizarlo.
+- Este elemento se veía al final de una repetición fallida de un beatmap o cuando se estaba de espectador (durante la carga del búfer, la pausa o cuando el jugador moría en un beatmap).
+- Este elemento fue considerado un error y se eliminó la posibilidad de poder personalizarlo.
 
 ---
 
@@ -30,13 +27,13 @@ Notas:
 
 ![](img/playfield.png)
 
-| Versiones | Animable | Skineable para Beatmap | Modo de fusión | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Si][true] | Normal | Centro | 1366x768 |
+| Todas | ![No][false] | ![Sí][true] | Normal | Centro | 1366x768 |
 
 Notas:
 
-- Este elemento fue removido y remplazado con `menu-background.jpg`.
+- Este elemento fue removido y remplazado por `menu-background.jpg`.
 
 ---
 
@@ -44,14 +41,14 @@ Notas:
 
 ![](img/selection-selectoptions.png)
 
-| Animable | Skineable para Beatmap |
+| Animable | Personalizable para los beatmaps |
 | :-: | :-: |
 | ![No][false] | ![No][false] |
 
 Notas:
 
 - Este elemento fue removido por una razón desconocida
-- Este botón abre el menú de opciones de beatmap para los beatmaps individuales. Tu aun puedes acceder a este menú al hacer clic derecho en un beatmap durante la selección de canciones.
+- Este botón abría el menú de opciones para los beatmaps. Aún puedes acceder a este menú haciendo clic derecho en un beatmap durante la selección de canciones.
 
 ---
 
@@ -59,7 +56,7 @@ Notas:
 
 ![](img/selection-selectoptions-over.png)
 
-| Animable | Skineable para Beatmap |
+| Animable | Personalizable para los beatmaps |
 | :-: | :-: |
 | ![No][false] | ![No][false] |
 
@@ -73,7 +70,7 @@ Notas:
 
 ![](img/volume-bg.png)
 
-| Animable | Skineable para Beatmap |
+| Animable | Personalizable para los beatmaps |
 | :-: | :-: |
 | ![No][false] | ![No][false] |
 
@@ -87,7 +84,7 @@ Notas:
 
 ![](img/volume-bg-effect.png)
 
-| Animable | Skineable para Beatmap |
+| Animable | Personalizable para los beatmaps |
 | :-: | :-: |
 | ![No][false] | ![No][false] |
 
@@ -101,14 +98,14 @@ Notas:
 
 ![](img/volume-bar.png)
 
-| Animable | Skineable para Beatmap |
+| Animable | Personalizable para los beatmaps |
 | :-: | :-: |
 | ![No][false] | ![No][false] |
 
 Notas:
 
 - Este elemento fue removido por una razón desconocida.
-- La habilidad de personalizar este elemento no está verificada, pero es asumida.
+- La posibilidad de personalizar este elemento no está verificada, pero se da por supuesta.
 
 ---
 
@@ -116,13 +113,13 @@ Notas:
 
 ![](img/coin.png)
 
-| Animable | Skineable para Beatmap |
+| Animable | Personalizable para los beatmaps |
 | :-: | :-: |
 | ![No][false] | ![No][false] |
 
 Notas:
 
-- Este elemento fue personalizable por un solo día como parte de una broma de April Fools del 2015.
+- Este elemento fue personalizable durante un solo día como parte de la broma del día de los Inocentes de 2015.
 
 ---
 
@@ -130,7 +127,7 @@ Notas:
 
 Notas:
 
-- La muestra reproducida al hacer clic en `Charts` en el menú principal.
+- La muestra que se reproducía al hacer clic en `Charts` en el menú principal.
 
 ---
 
@@ -138,7 +135,7 @@ Notas:
 
 Notas:
 
-- La muestra reproducida al pasar el cursor sobre `Charts` en el menú principal.
+- La muestra que se reproducía al pasar el cursor sobre `Charts` en el menú principal.
 
 ---
 
@@ -148,15 +145,15 @@ Notas:
 
 ![](img/fps-0.png)
 
-| Versiones | Animable | Skineable para Beatmap | Modo de fusión | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Si][true] | Normal | (desconocido) | - |
+| Todas | ![No][false] | ![Sí][true] | Normal | (desconocido) | - |
 
 Notas:
 
 - Este elemento fue removido junto a la versión Stable (Fallback).
 - Exclusivo de la versión Stable (Fallback).
-- Debe ser activada en las [opciones](/wiki/Client/Options) para ver.
+- Debía ser activado en las [opciones](/wiki/Client/Options) para verse.
 
 ---
 
@@ -164,15 +161,15 @@ Notas:
 
 ![](img/fps-1.png)
 
-| Versiones | Animable | Skineable para Beatmap | Modo de fusión | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Si][true] | Normal | (desconocido) | - |
+| Todas | ![No][false] | ![Sí][true] | Normal | (desconocido) | - |
 
 Notas:
 
 - Este elemento fue removido junto a la versión Stable (Fallback).
 - Exclusivo de la versión Stable (Fallback).
-- Debe ser activada en las [opciones](/wiki/Client/Options) para ver.
+- Debía ser activado en las [opciones](/wiki/Client/Options) para verse.
 
 ---
 
@@ -180,15 +177,15 @@ Notas:
 
 ![](img/fps-2.png)
 
-| Versiones | Animable | Skineable para Beatmap | Modo de fusión | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Si][true] | Normal | (desconocido) | - |
+| Todas | ![No][false] | ![Sí][true] | Normal | (desconocido) | - |
 
 Notas:
 
 - Este elemento fue removido junto a la versión Stable (Fallback).
 - Exclusivo de la versión Stable (Fallback).
-- Debe ser activada en las [opciones](/wiki/Client/Options) para ver.
+- Debía ser activado en las [opciones](/wiki/Client/Options) para verse.
 
 ---
 
@@ -196,15 +193,15 @@ Notas:
 
 ![](img/fps-3.png)
 
-| Versiones | Animable | Skineable para Beatmap | Modo de fusión | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Si][true] | Normal | (desconocido) | - |
+| Todas | ![No][false] | ![Sí][true] | Normal | (desconocido) | - |
 
 Notas:
 
 - Este elemento fue removido junto a la versión Stable (Fallback).
 - Exclusivo de la versión Stable (Fallback).
-- Debe ser activada en las [opciones](/wiki/Client/Options) para ver.
+- Debía ser activado en las [opciones](/wiki/Client/Options) para verse.
 
 ---
 
@@ -212,15 +209,15 @@ Notas:
 
 ![](img/fps-4.png)
 
-| Versiones | Animable | Skineable para Beatmap | Modo de fusión | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Si][true] | Normal | (desconocido) | - |
+| Todas | ![No][false] | ![Sí][true] | Normal | (desconocido) | - |
 
 Notas:
 
 - Este elemento fue removido junto a la versión Stable (Fallback).
 - Exclusivo de la versión Stable (Fallback).
-- Debe ser activada en las [opciones](/wiki/Client/Options) para ver.
+- Debía ser activado en las [opciones](/wiki/Client/Options) para verse.
 
 ---
 
@@ -228,15 +225,15 @@ Notas:
 
 ![](img/fps-5.png)
 
-| Versiones | Animable | Skineable para Beatmap | Modo de fusión | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Si][true] | Normal | (desconocido) | - |
+| Todas | ![No][false] | ![Sí][true] | Normal | (desconocido) | - |
 
 Notas:
 
 - Este elemento fue removido junto a la versión Stable (Fallback).
 - Exclusivo de la versión Stable (Fallback).
-- Debe ser activada en las [opciones](/wiki/Client/Options) para ver.
+- Debía ser activado en las [opciones](/wiki/Client/Options) para verse.
 
 ---
 
@@ -244,15 +241,15 @@ Notas:
 
 ![](img/fps-6.png)
 
-| Versiones | Animable | Skineable para Beatmap | Modo de fusión | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Si][true] | Normal | (desconocido) | - |
+| Todas | ![No][false] | ![Sí][true] | Normal | (desconocido) | - |
 
 Notas:
 
 - Este elemento fue removido junto a la versión Stable (Fallback).
 - Exclusivo de la versión Stable (Fallback).
-- Debe ser activada en las [opciones](/wiki/Client/Options) para ver.
+- Debía ser activado en las [opciones](/wiki/Client/Options) para verse.
 
 ---
 
@@ -260,15 +257,15 @@ Notas:
 
 ![](img/fps-7.png)
 
-| Versiones | Animable | Skineable para Beatmap | Modo de fusión | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Si][true] | Normal | (desconocido) | - |
+| Todas | ![No][false] | ![Sí][true] | Normal | (desconocido) | - |
 
 Notas:
 
 - Este elemento fue removido junto a la versión Stable (Fallback).
 - Exclusivo de la versión Stable (Fallback).
-- Debe ser activada en las [opciones](/wiki/Client/Options) para ver.
+- Debía ser activado en las [opciones](/wiki/Client/Options) para verse.
 
 ---
 
@@ -276,15 +273,15 @@ Notas:
 
 ![](img/fps-8.png)
 
-| Versiones | Animable | Skineable para Beatmap | Modo de fusión | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Si][true] | Normal | (desconocido) | - |
+| Todas | ![No][false] | ![Sí][true] | Normal | (desconocido) | - |
 
 Notas:
 
 - Este elemento fue removido junto a la versión Stable (Fallback).
 - Exclusivo de la versión Stable (Fallback).
-- Debe ser activada en las [opciones](/wiki/Client/Options) para ver.
+- Debía ser activado en las [opciones](/wiki/Client/Options) para verse.
 
 ---
 
@@ -292,15 +289,15 @@ Notas:
 
 ![](img/fps-9.png)
 
-| Versiones | Animable | Skineable para Beatmap | Modo de fusión | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Si][true] | Normal | (desconocido) | - |
+| Todas | ![No][false] | ![Sí][true] | Normal | (desconocido) | - |
 
 Notas:
 
 - Este elemento fue removido junto a la versión Stable (Fallback).
 - Exclusivo de la versión Stable (Fallback).
-- Debe ser activada en las [opciones](/wiki/Client/Options) para ver.
+- Debía ser activado en las [opciones](/wiki/Client/Options) para verse.
 
 ---
 
@@ -308,15 +305,15 @@ Notas:
 
 ![](img/fps-comma.png)
 
-| Versiones | Animable | Skineable para Beatmap | Modo de fusión | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Si][true] | Normal | (desconocido) | - |
+| Todas | ![No][false] | ![Sí][true] | Normal | (desconocido) | - |
 
 Notas:
 
 - Este elemento fue removido junto a la versión Stable (Fallback).
 - Exclusivo de la versión Stable (Fallback).
-- Debe ser activada en las [opciones](/wiki/Client/Options) para ver.
+- Debía ser activado en las [opciones](/wiki/Client/Options) para verse.
 
 ## osu!
 
@@ -324,12 +321,12 @@ Notas:
 
 ![](img/hitcircleoverlay.png)
 
-*Para obtener más detalles, véase [hitcircleoverlay.png](/wiki/Skinning/osu!#hit-circles).*
+*Para obtener más detalles, véase [hitcircleoverlay.png](/wiki/Skinning/osu!#círculos).*
 
 Notas:
 
-- Nombre de animación: `hitcircleoverlay-{n}.png`
-- Tasa de animación: 2 FPS (4 FPS máximo).
+- Nombre de la animación: `hitcircleoverlay-{n}.png`
+- Tasa de la animación: 2 FPS (4 FPS máximo).
   - Esta tasa se ve afectada por los modificadores del juego half time y double time/nightcore.
 
 ---
@@ -338,12 +335,12 @@ Notas:
 
 ![](img/sliderstartcircleoverlay.png)
 
-*Para obtener más detalles, véase [sliderstartcircleoverlay.png](/wiki/Skinning/osu!#hit-circles).*
+*Para obtener más detalles, véase [sliderstartcircleoverlay.png](/wiki/Skinning/osu!#círculos).*
 
 Notas:
 
-- Nombre de animación: `sliderstartcircleoverlay-{n}.png`
-- Tasa de animación: 2 FPS (4 FPS máximo).
+- Nombre de la animación: `sliderstartcircleoverlay-{n}.png`
+- Tasa de la animación: 2 FPS (4 FPS máximo).
   - Esta tasa se ve afectada por los modificadores del juego half time y double time/nightcore.
 
 ---
@@ -352,52 +349,52 @@ Notas:
 
 ![](img/fps-fps.png)
 
-| Versiones | Animable | Skineable para Beatmap | Modo de fusión | Origen | Tamaño SD sugerido |
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Si][true] | Normal | (desconocido) | - |
+| Todas | ![No][false] | ![Sí][true] | Normal | (desconocido) | - |
 
 Notas:
 
 - Este elemento fue removido junto a la versión Stable (Fallback).
 - Exclusivo de la versión Stable (Fallback).
-- Debe ser activada en las [opciones](/wiki/Client/Options) para ver.
+- Debía ser activado en las [opciones](/wiki/Client/Options) para verse.
 
 ## .ini
 
 `#k.ini`
 
-Separa los archivos .ini de todos los diferentes modos de mania.
+Archivos .ini separados para los diferentes modos de teclas de mania.
 
 Notas:
 
-- Estos elementos son unidos con el archivo skin.ini.
+- Estos elementos se fusionaron con el archivo skin.ini.
 
 ---
 
 `SliderStyle:`
 
-- Pregunta: ¿Qué estilo deben usar los sliders?
+- Pregunta: ¿Qué estilo deberían usar los sliders?
 - Valor: `1` / `2`
-- Predeterminado: `2`
+- Por defecto: `2`
 
 Notas:
 
 - **Solo en la versión Stable (Fallback)**
-- `1` = Segmentadas
-- `2` = Gradientes
+- `1` = Trayectorias segmentadas
+- `2` = Trayectorias degradadas
 
 ---
 
 `SliderBallFrames:`
 
-- Preguntas: ¿Cuántos fotogramas tienes para la animación de SliderBall?
+- Preguntas: ¿Cuántos fotogramas tendrá la animación de la bola del slider?
 - Valor: *entero positivo*
-- Predeterminado: *(vacío)*
+- Por defecto: *(vacío)*
 
 Notas:
 
-- Esto solo es para [osu!](/wiki/Game_mode/osu!)
-- Este slider es dependiente de la velocidad.
+- Esto solo es para [osu!](/wiki/Game_mode/osu!).
+- Esto depende de la velocidad del slider.
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
