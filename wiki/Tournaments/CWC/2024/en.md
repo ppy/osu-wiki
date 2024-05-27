@@ -143,7 +143,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
 
 ### Round of 16
 
-**[Download the mappack here (109 MB)](http://files.leoflt.com/uPCKiSxL)**\
+**[Download the mappack here (109 MB)](https://packs.ppy.sh/P248%20-%20osu!catch%20World%20Cup%202024%3A%20Round%20of%2016.zip)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2156057435)
 
 - No Mod
@@ -152,19 +152,19 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
   3. [ALEPH - ULTRAVIOLET (rinkiha) \[LIGHTSURFER\]](https://osu.ppy.sh/beatmapsets/2187370#fruits/4624784)
   4. [MYUKKE. - Mach Roger (Tycani) \[TYCANI GOES TO PHOENIX, ARIZONA CWC SPECIAL VERSION EXTRAVAGANZA\]](https://osu.ppy.sh/beatmapsets/2187368#osu/4624782)
 - Hidden
-  1. [Good Kid - Osmosis (Crowley) \[Catalyst\] *(temporary link)*](http://files.leoflt.com/pfEUymdZ)
-  2. [technoplanet - Insomnia (autofanboy) \[Feigned Slumber\] *(temporary link)*](http://files.leoflt.com/ahOBbBUY)
+  1. [Good Kid - Osmosis (Crowley) \[Catalyst\]](https://osu.ppy.sh/beatmapsets/2187488#fruits/4625050)
+  2. [technoplanet - Insomnia (autofanboy) \[Feigned Slumber\]](https://osu.ppy.sh/beatmapsets/2187441#fruits/4624959)
   3. [Scheol X M2U - Tanuki Step (Nosuri) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2187379#fruits/4624807)
 - Hard Rock
   1. [MisoilePunch \~Mikan Shirugake\~ - Whyte pain (Bunnrei) \[Overdose (CWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2187385#fruits/4624818)
   2. [Sound Souler - Diminitive (ExGon) \[CWC 2024 RO16 HR2\]](https://osu.ppy.sh/beatmapsets/2187388#fruits/4624822)
   3. [Alkome - Mind Disorder (-Ken) \[Meltdown\]](https://osu.ppy.sh/beatmapsets/2187382#fruits/4624812)
 - Double Time
-  1. [ELFENSJoN - Okibi no Hate (4rcheR-) \[Rain\] *(temporary link)*](http://files.leoflt.com/g8i1hFoH)
+  1. [ELFENSJoN - Okibi no Hate (4rcheR-) \[Rain\]](https://osu.ppy.sh/beatmapsets/2187458#fruits/4624995)
   2. [URBANGARDE - KAMING OUT (Cut Ver.) (ZiRoX) \[CONFESSION\]](https://osu.ppy.sh/beatmapsets/2187387#fruits/4624821)
   3. [32ki - Mesmerizer (Mniam) \[Shutdown\]](https://osu.ppy.sh/beatmapsets/2187391#fruits/4624826)
 - Mixed Mod
-  1. [kanone - MASAMUNE (Deif) \[Sharpness\] *(temporary link)*](http://files.leoflt.com/G6Ki0aKO)
+  1. [kanone - MASAMUNE (Deif) \[Sharpness\]](https://osu.ppy.sh/beatmapsets/2187434#fruits/4624950)
   2. [Chroma - Genyo Ressha no Tabi (Bunnrei) \[Eastward\]](https://osu.ppy.sh/beatmapsets/2187393#fruits/4624828)
 - Tiebreaker
   1. **[Culprate - Psychology of James Berland (wwwww) \[Culpability\]](https://osu.ppy.sh/beatmapsets/2187400#fruits/4624835)**
