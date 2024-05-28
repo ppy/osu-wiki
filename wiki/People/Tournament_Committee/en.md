@@ -11,9 +11,9 @@ The **Tournament Committee** is a panel of skilled and established organisers an
 
 The Tournament Committee's responsibilities include advising the [account support team](/wiki/People/Account_support_team) on:
 
-- Responding to general inquiries sent to the tournaments email
+- Responding to general inquiries sent to the tournaments email.
 - Determining the necessity and duration of tournament and staffing bans on a case-by-case basis.
-- Reviewing recently concluded officially-supported tournaments for badge eligibility.
+- Reviewing recently concluded officially supported tournaments for badge eligibility.
 - Determining which tournaments are eligible to award badges to the top three finalists.
 
 Additionally, the Tournament Committee performs the following roles independent of the account support team:
@@ -56,7 +56,7 @@ Once a tournament has concluded and has requested a badge prize, two random memb
 - The tournament theme does not violate [community rules](/wiki/Rules).
 - Any regional registration restrictions are geographically and/or culturally consistent.
 - The existence of a publicly viewable catalogue of the tournament's match history.
-- Any staff and player lists are publicly available and the staff list is up-to-date.
+- Any staff and player lists are publicly available and the staff list is up to date.
 - The badge meets relevant [design criteria](/wiki/Tournaments/Official_support#profile-badges).
 
 Assigned members will indicate tournaments that pass the review process as eligible for badges. The account support team will apply the badges at a later time to the winners' profiles. If a tournament fails the review process, the reviewing members may advise the account support team on what changes need to be communicated to the tournament hosts. If these changes are not possible after the tournament's conclusion, the Tournament Committee will hold an anonymous vote on whether to withdraw official support.
@@ -103,7 +103,7 @@ The Tournament Committee frequently makes use of anonymous voting when making im
 
 | Vote type | Minimum length (days) | Approval threshold |
 | :-- | --: | --: |
-| Withholding badge support | 3 days | 50% |
+| Withholding badge support | 3 | 50% |
 | Tournament bans | 3 | 50% |
 | Tournament staffing bans | 3 | 50% |
 | Top three badge support | 4 | 80% |
