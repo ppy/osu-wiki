@@ -6,11 +6,11 @@ stub: true
 
 ## February
 
-New features were added to the osu! website, including beatmap listing filters for played beatmaps ([osu!supporter](/wiki/osu!supporter) only), beatmap packs were sorted into categories, and avatars became visible in the header.[^web-update]
+New features were added to the osu! website, including beatmap listing filters for played beatmaps ([osu!supporter](/wiki/osu!supporter) only), categories for beatmap packs, and visible avatars in the header.[^web-update]
 
 ## March
 
-For receiving more rapid and useful feedback, the osu! test builds were made available to supporters.[^test-builds]
+For receiving more rapid and useful feedback, [test builds](https://osu.ppy.sh/community/forums/topics/48054?n=1) were made available to supporters.
 
 An osu! update on March 28 brought improvements to [beatmap editor](/wiki/Client/Beatmap_editor) dialogs and increased [Bancho](/wiki/Bancho_(server))'s performance.[^stable-b1800][^bancho]
 
@@ -39,7 +39,6 @@ The osu! wiki was announced, allowing users to add all sorts of information abou
 [^web-update]: [Forum thread by peppy (2011-02-16) "osu! web updates"](https://osu.ppy.sh/community/forums/topics/46571?n=1)
 
 [^monthly-1]: [osu!monthly by jjrocks (2011-03-05) "The osu!monthly 1st edition"](https://osumonthly.com/pdf/osu!monthly-1.pdf)
-[^test-builds]: [Forum thread by peppy (2011-03-09) "Public Test Build"](https://osu.ppy.sh/community/forums/topics/48054?n=1)
 [^bancho]: [Forum thread by peppy (2011-03-20) "The state of Bancho"](https://osu.ppy.sh/community/forums/topics/48908?n=1)
 [^stable-b1800]: [Forum thread by peppy (2011-03-28) "osu! Public Release b1800"](https://osu.ppy.sh/community/forums/topics/49438?n=1)
 
