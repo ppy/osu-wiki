@@ -11,7 +11,7 @@ tags:
 
 # Modding en los foros
 
-El **modding en los foros**, también conocido como *Modding v1*, es un nombre coloquial del sistema de clasificación y [modding](/wiki/Modding) basado en los foros que se usó principalmente hasta el [4 de noviembre de 2017](https://osu.ppy.sh/community/forums/topics/650961?n=7), cuando todos los [beatmaps](/wiki/Beatmap) nuevos e inactivos se cambiaron a las [discusiones de los beatmaps](/wiki/Beatmap_discussion) de forma predeterminada.
+El **modding en los foros**, también conocido como *Modding v1*, es un nombre coloquial del sistema de clasificación y [modding](/wiki/Modding) basado en los foros que se usó principalmente hasta el [4 de noviembre de 2017](https://osu.ppy.sh/community/forums/topics/650961?n=7), cuando todos los [beatmaps](/wiki/Beatmap) nuevos e inactivos se cambiaron a las [discusiones de beatmaps](/wiki/Beatmap_discussion) de forma predeterminada.
 
 En el sistema de modding en los foros, cada beatmap tenía un hilo del foro para la comunicación y el registro del [procedimiento de clasificación](/wiki/Beatmap_ranking_procedure).
 
@@ -48,7 +48,7 @@ La prioridad de un beatmap podía aumentar si los mods recibían kudosu o los us
 El progreso de los beatmaps en el procedimiento de clasificación se mostraba a través de publicaciones realizadas por miembros de los equipos de que podían clasificar beatmaps. Cada publicación tenía un icono personalizado, que también cambiaría el icono del hilo del foro para reflejar su estado:
 
 - ![](/wiki/shared/icon/star.gif) **[Estrella](/wiki/Disambiguation/Star)**: el beatmap tenía potencial para ser clasificado.
-- ![](/wiki/shared/icon/bubble.gif) **[Burbuja](/wiki/Modding/Bubble)**: el beatmap había sido revisado por un miembro del MAT, BAT o un BN, y podría ser clasificado después de otra revisión.
+- ![](/wiki/shared/icon/bubble.gif) **[Burbuja](/wiki/Modding/Bubble)**: el beatmap había sido revisado por un miembro del MAT, el BAT o un BN, y podría ser clasificado después de otra revisión.
 - ![](/wiki/shared/icon/bubble-pop.gif) **[Burbuja reventada](/wiki/Modding/Bubble#bubble-pop)**: el beatmap tenía problemas que le impedían clasificarse después de recibir una burbuja.
 - ![](img/icon/osu.gif) ![](img/icon/taiko.gif) ![](img/icon/ctb.gif) ![](img/icon/mania.gif) **Icono del modo de juego**: las dificultades del [modo de juego](/wiki/Game_mode) respectivo del beatmap fueron verificadas y aprobadas por un BN.
 - ![](/wiki/shared/icon/heart.gif) **[Corazón](/wiki/Beatmap/Category#ranked)** o ![](/wiki/shared/icon/flame.gif) **[llama](/wiki/Beatmap/Category#approved)**: el beatmap había sido calificado, clasificado o aprobado.
@@ -68,14 +68,14 @@ A diferencia de las [discusiones de beatmaps](/wiki/Beatmap_discussion), una pub
 - Había varias secciones correspondientes a dificultades individuales y una lista de ajustes/problemas de todo el beatmap.
 - Cada sección contenía una lista de [marcas de tiempo](/wiki/Modding/Timestamp), que a menudo apuntaban a [objetos](/wiki/Gameplay/Hit_object) específicos.
 - Cada marca de tiempo iba seguida de una breve descripción del problema, a veces con capturas de pantalla para aclarar mejor el problema.
-- Según la gravedad del problema, algunos modders usaban [código de colores](/wiki/BBCode#color) en sus publicaciones para resaltar problemas no clasificables o puntos clave.
+- Según la gravedad del problema, algunos modders usaban un [código de colores](/wiki/BBCode#color) en sus publicaciones para resaltar problemas no clasificables o puntos clave.
 
 El sistema de *revisión* actual se creó para imitar el modding en los foros en las discusiones de los beatmaps.
 
 ### Respuestas
 
 ::: Infobox
-![](img/mod-response.png "Un ejemplo de respuesta a un mod")
+![](img/mod-response.png "Un ejemplo de una respuesta a un mod")
 :::
 
 Si bien no era necesario, se esperaba que los mappers respondieran a cada mod recibido. Una respuesta normalmente contenía una cita de la publicación original, donde cada sugerencia iba seguida de la respuesta de un mapper. Al igual que con las publicaciones de mods, muchos mappers usaban dos o más colores de fuente para transmitir sus respuestas y ayudar a distinguir entre sugerencias aceptadas y rechazadas.
