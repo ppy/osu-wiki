@@ -129,7 +129,7 @@ The account support team applies profile badges. While the Tournament Committee 
 
 ### Can the Tournament Committee see emails?
 
-The Tournament Committee can only see the content of emails to [tournaments@ppy.sh](mailto:tournaments@ppy.sh). They cannot write or send emails, nor can they see data such as the sender's email address or name, only email content.
+The Tournament Committee can only see the content of emails to [tournaments@ppy.sh](mailto:tournaments@ppy.sh). They cannot write or send emails, nor can they see metadata such as the sender's email address or name, only email content.
 
 ## How can I help contribute?
 
