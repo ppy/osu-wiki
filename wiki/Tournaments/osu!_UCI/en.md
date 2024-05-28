@@ -13,3 +13,6 @@ Index page for all of the osu! tournaments hosted by [osu! UCI](/wiki/Community/
 - Third osu! Winter LAN (**TOWL**)
 - [The iDOL@NSTER: Irvine Spring Stage](iDOL@NSTER)
 - [Night Fall LAN](NFL) (**NFL**)
+- Fifth osu! Winter LAN (**FOWL**)
+- Project Winter: Anteater Stage!
+- [Irvine's Definitive osu! LAN Spring](IDOLS) (**IDOLS**)
