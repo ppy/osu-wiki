@@ -44,7 +44,7 @@ Let's start now, shall we?
 >
 > Next, I'd like to talk about how to practice. In rhythm games, there aren't many tips on how to improve. I think tips are more about how to hit special patterns, not something that applies to the whole game. If a "tip" applies to the entire game, then it's not really a tip anymore; it's skill.
 >
-> So, what I want to say is try to figure out the best practice method for you. In my case, I was spamming retries a lot, playing each hard map more than a thousand times. But even while spamming retries, you need to think about the reasons for your gameplay, like 'Why did I miss that pattern?' or 'Do I need to use a faster or slower rhythm?' or 'I need to memorize the position of the fruit in this part.'
+> So, what I want to say is try to figure out the best practice method for you. In my case, I was spamming retries a lot, playing each hard map more than a thousand times. But even while spamming retries, you need to think about the reasons for your gameplay, like "Why did I miss that pattern?" or "Do I need to use a faster or slower rhythm?" or "I need to memorize the position of the fruit in this part."
 >
 > Yes, after you move past the spamming phase, you need to find your own reasons for your gameplay. Why did you miss? How do you catch the patterns? What rhythm should you use?
 >
@@ -52,11 +52,11 @@ Let's start now, shall we?
 >
 > After that, I focus on the hard patterns of the map and replay those parts over and over. If a map feels easy to full combo or play except for one difficult pattern or part, then that part is your weakness. In rhythm games, if you're a picky eater, you won't survive.
 >
-> Finally, the way to practice in osu!catch (hurray). In this game mode there is special a tech called '[pixel dash](/wiki/Gameplay/Edge_dash)', where you have to catch the edge of one fruit in order to reach the edge of the next fruit. You have to control your catcher really accurately during these patterns.
+> Finally, the way to practice in osu!catch (hurray). In this game mode there is special a tech called "[pixel dash](/wiki/Gameplay/Edge_dash)", where you have to catch the edge of one fruit in order to reach the edge of the next fruit. You have to control your catcher really accurately during these patterns.
 >
 > So, sometimes it's better to play easy maps, but catch the fruits with the edge of the catcher. I sometimes practice by catching all patterns with the right end, left end, or both ends of the catcher. This helps you get comfortable with the technique, making your movements smoother and improving your timing in osu!catch.
 
-*What is your favorite osu!catch score you’ve set?*
+*What is your favorite osu!catch score you've set?*
 
 > Hmmm, there are too many scores to decide. My favorite catch score is probably [Chroma - I [AI] +HR](https://osu.ppy.sh/scores/1956565686)? My other scores can be replaced by other pro players, who play better than me, but I still can't understand how I did CS 5.3 with HR.
 
