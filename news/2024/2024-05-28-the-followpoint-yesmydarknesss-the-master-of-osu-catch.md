@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "The Followpoint: YesMyDarknesss, the Master of osu!catch"
-date: 2024-05-20 11:00:00 +0000
+date: 2024-05-28 11:00:00 +0000
 ---
 
 Read up on the latest interview with YesMyDarknesss, the osu!catch #1 player.
 
-![](/wiki/shared/news/2024-05-20-the-followpoint-yesmydarknesss-the-osu-catch-prodigy/banner.jpg)
+![](/wiki/shared/news/2024-05-28-the-followpoint-yesmydarknesss-the-master-of-osu-catch/banner.jpg)
 
 Welcome or welcome back to The Followpoint, a "community spotlight" series where we interview various players and community figures to get to know them better!
 
