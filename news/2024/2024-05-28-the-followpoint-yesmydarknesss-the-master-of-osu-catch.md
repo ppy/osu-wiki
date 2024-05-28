@@ -60,7 +60,7 @@ Let's start now, shall we?
 
 > Hmmm, there are too many scores to decide. My favorite catch score is probably [Chroma - I [AI] +HR](https://osu.ppy.sh/scores/1956565686)? My other scores can be replaced by other pro players, who play better than me, but I still can't understand how I did CS 5.3 with HR.
 
-*What made you play Xronier using the "[guitar hero playstyle](https://www.twitch.tv/yesmydarknesss/clip/InnocentAbstemiousYakPupper-vX89K6koYLVGQQdP)" that one time?*
+*What made you play [Xronier](https://osu.ppy.sh/beatmapsets/1506066#fruits/3109464) using the "[guitar hero playstyle](https://www.twitch.tv/yesmydarknesss/clip/InnocentAbstemiousYakPupper-vX89K6koYLVGQQdP)"?*
 
 > I've played a few times in Guitar Hero style even before Xronier just for fun, and one of my best scores done in this playstyle on [ADHD](https://osu.ppy.sh/beatmapsets/1789527#fruits/3666753) is also my personal [Hidden mod pp record](https://osu.ppy.sh/scores/1957545279).
 
