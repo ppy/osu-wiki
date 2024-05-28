@@ -26,24 +26,24 @@ The most picked map in the pool this weekend is Ironical Parade, the [HR1](https
 
 In case you missed any of the matches, or are just curious about general results, you can view all of it here.
 
-| Team A |       |       | Team B |
-|---------------------------------------:|:-----:|:-----:|:------------------------------|
-| **Chile** ::{ flag=CL }:: | **5** |   0   | ::{ flag=NZ }:: New Zealand |
-| Sweden ::{ flag=SE }:: |   1   | **5** | **::{ flag=AU }:: Australia** |
-| **Russian Federation** ::{ flag=RU }:: | **5** |   0   | ::{ flag=VN }:: Vietnam |
-| **Indonesia** ::{ flag=ID }:: | **5** |   1   | ::{ flag=NO }:: Norway |
-| **China** ::{ flag=CN }:: | **5** |   3   | ::{ flag=NL }:: Netherlands |
-| **France** ::{ flag=FR }:: | **5** |   0   | ::{ flag=TR }:: Turkey |
-| **Canada** ::{ flag=CA }:: | **5** |   1   | ::{ flag=LV }:: Latvia |
-| **United Kingdom** ::{ flag=GB }:: | **5** |   0   | ::{ flag=MX }:: Mexico |
-| **Belgium** ::{ flag=BE }:: | **5** |   2   | ::{ flag=PH }:: Philippines |
-| **Taiwan** ::{ flag=TW }:: | **5** |   2   | ::{ flag=DE }:: Germany |
-| **Japan** ::{ flag=JP }:: | **5** |   0   | ::{ flag=TH }:: Thailand |
-| **Poland** ::{ flag=PL }:: | **5** |   0   | ::{ flag=MY }:: Malaysia |
-| **Finland** ::{ flag=FI }:: | **5** |   0   | ::{ flag=IS }:: Iceland |
-| **Argentina** ::{ flag=AR }:: | **5** |   2   | ::{ flag=DK }:: Denmark |
-| **United States** ::{ flag=US }:: | **5** |   0   | ::{ flag=EE }:: Estonia |
-| **Peru** ::{ flag=PE }:: | **5** |   0   | ::{ flag=ES }:: Spain |
+| Team A |  |  | Team B |
+| --: | :-: | :-: | :-- |
+| **Chile** ::{ flag=CL }:: | **5** | 0 | ::{ flag=NZ }:: New Zealand |
+| Sweden ::{ flag=SE }:: | 1 | **5** | **::{ flag=AU }:: Australia** |
+| **Russian Federation** ::{ flag=RU }:: | **5** | 0 | ::{ flag=VN }:: Vietnam |
+| **Indonesia** ::{ flag=ID }:: | **5** | 1 | ::{ flag=NO }:: Norway |
+| **China** ::{ flag=CN }:: | **5** | 3 | ::{ flag=NL }:: Netherlands |
+| **France** ::{ flag=FR }:: | **5** | 0 | ::{ flag=TR }:: Turkey |
+| **Canada** ::{ flag=CA }:: | **5** | 1 | ::{ flag=LV }:: Latvia |
+| **United Kingdom** ::{ flag=GB }:: | **5** | 0 | ::{ flag=MX }:: Mexico |
+| **Belgium** ::{ flag=BE }:: | **5** | 2 | ::{ flag=PH }:: Philippines |
+| **Taiwan** ::{ flag=TW }:: | **5** | 2 | ::{ flag=DE }:: Germany |
+| **Japan** ::{ flag=JP }:: | **5** | 0 | ::{ flag=TH }:: Thailand |
+| **Poland** ::{ flag=PL }:: | **5** | 0 | ::{ flag=MY }:: Malaysia |
+| **Finland** ::{ flag=FI }:: | **5** | 0 | ::{ flag=IS }:: Iceland |
+| **Argentina** ::{ flag=AR }:: | **5** | 2 | ::{ flag=DK }:: Denmark |
+| **United States** ::{ flag=US }:: | **5** | 0 | ::{ flag=EE }:: Estonia |
+| **Peru** ::{ flag=PE }:: | **5** | 0 | ::{ flag=ES }:: Spain |
 
 ## Match highlights
 
