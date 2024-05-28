@@ -68,7 +68,7 @@ Nếu có bất cứ điều gì bạn muốn đưa vào khiến bạn cảm th�
 
 Chúng tôi sẽ xem xét trường hợp của bạn ngay khi có thể.
 
-## Một người tôi biết đang bị một thành viên trong nhóm tình nguyện (NAT, GMT) lạm dụng nhưng nhưng không muốn lên tiếng vì sợ!
+## Một người tôi biết đang bị một thành viên trong nhóm tình nguyện (NAT, GMT) lạm dụng nhưng không muốn lên tiếng vì sợ!
 
 Gửi email đến [abuse@ppy.sh](mailto:abuse@ppy.sh) chứa mọi thứ bạn biết với nhiều bằng chứng nhất có thể.
 
