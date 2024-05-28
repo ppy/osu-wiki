@@ -1,15 +1,11 @@
----
-no_native_review: true
----
-
 # Comandos para la gestión de torneos
 
-Los siguientes comandos del chat se proporcionan para la gestión remota de las salas de torneos multijugador:
+Los siguientes comandos del chat se proporcionan para la gestión remota de las salas de los torneos multijugador:
 
 - `!mp make <nombre>` - Crea una sala para un torneo con el nombre especificado. Pueden crearse un máximo de 4 salas de este tipo.
-  - Esta sala es especial porque no se cierra cuando todos los jugadores han abandonado la sala, y está protegida con contraseña para que los jugadores no se unan a esta sala.
+  - Esta sala es especial porque no se cierra cuando todos los jugadores han abandonado la sala, y está protegida con una contraseña para que los jugadores no se unan a esta sala.
   - Cuando ya no se necesite usar la sala, usa `!mp close` para cerrarla.
-- `!mp makeprivate <nombre>` - Crea una sala privada para un torneo con el nombre especificado. Este comando funciona igual que `!mp make` pero el historial de partidas solo es visible para el creador de la sala y sus participantes.
+- `!mp makeprivate <nombre>` - Crea una sala privada para un torneo con el nombre especificado. Este comando funciona igual que `!mp make` pero el historial de las partidas solo es visible para el creador de la sala y sus participantes.
 - `!mp name <título>` - Actualiza el nombre de la sala.
 - `!mp invite <nombre de usuario>` - Invita a un jugador a la sala.
   - Ten en cuenta que esto *no* evita los bloqueos de mensajes privados disponibles en el cliente de osu!, por lo que el personal del torneo deberá indicar a los jugadores que desactiven la opción «Bloquear mensajes privados de desconocidos» en las opciones de osu!.
@@ -31,11 +27,11 @@ Los siguientes comandos del chat se proporcionan para la gestión remota de las 
   - `modo de juego` - 0: osu!, 1: Taiko, 2: Catch The Beat, 3: osu!Mania
 - `!mp mods <mod> [<mod>] [<mod>] …` - Elimina todos los mods aplicados actualmente y aplica estos mods a la sala.
   - Se puede ingresar cualquier cantidad de mods.
-  - `mod` - HR, DT, FL, HD, FI, Freemod, None
-- `!mp timer [<tiempo>]` - Comienza un cronómetro de cuenta regresiva.
-  - `tiempo` es 30s por defecto.
-  - Los anuncios de que el temporizador se va a terminar se producen cada minuto, 30s, 10s, 5s con anterioridad.
-- `!mp aborttimer` - Detiene el cronómetro actual (tanto el cronómetro normal como el cronómetro de inicio de la partida)
+  - `mod` - HR, DT, FL, HD, FI, Freemod, None (ninguno)
+- `!mp timer [<tiempo>]` - Inicia una cuenta regresiva
+  - `tiempo` son 30 segundos por defecto.
+  - Los avisos de que la cuenta regresiva se va a terminar se producen cada minuto, 30s, 10s, 5s con anterioridad.
+- `!mp aborttimer` - Detiene la cuenta regresiva actual (tanto la cuenta regresiva normal como la cuenta regresiva para el inicio de la partida)
 - `!mp kick <nombre de usuario>` - Expulsa al jugador de la sala.
 - `!mp ban <nombre de usuario>` - Prohíbe al jugador entrar a la sala.
 - `!mp password [<contraseña>]` - Cambia la contraseña de la sala. La contraseña se eliminará si no se introduce algo en `<contraseña>`.
@@ -44,7 +40,7 @@ Los siguientes comandos del chat se proporcionan para la gestión remota de las 
   - Los árbitros pueden administrar la sala como el creador, sin embargo, no pueden agregar ni eliminar otros árbitros por sí mismos.
   - El [cliente osu!tourney](/wiki/osu!_tournament_client/osu!tourney) mostrará el chat de la sala para los árbitros.
 - `!mp removeref <nombre de usuario> [<nombre de usuario>] …` - Elimina a un árbitro de la sala. Solo el creador de la sala puede eliminar a un árbitro.
-- `!mp listrefs` - Enumera todos los árbitros de la sala.
+- `!mp listrefs` - Enumera a todos los árbitros de la sala.
 - `!mp close` - Cierra la sala.
 
 Enviar `!mp help` a BanchoBot revelará los comandos.
@@ -55,14 +51,14 @@ Los elementos encerrados entre corchetes angulares ( `<>` ) definen los «parám
 
 Los comandos se pueden usar tanto desde osu! como a través de un cliente IRC como mIRC, HexChat o HydraIRC.
 
-El anfitrión original de una sala multijugador también puede usar estos comandos. Si el anfitrión original se va, el siguiente host no heredará los comandos. El anfitrión original podrá volver a usar los comandos si vuelve a unirse a la sala.
+El anfitrión original de una sala multijugador también puede usar estos comandos. Si el anfitrión original se va, el siguiente anfitrión no heredará los comandos. El anfitrión original podrá volver a usar los comandos si vuelve a unirse a la sala.
 
 ## Ejemplos del uso de los comandos
 
 A continuación, se muestra un ejemplo del uso de los comandos:
 
 - `!mp invite Zallius` - Invita a Zallius a la sala.
-- `!mp move Loctav 4` - Mueve a Loctav al espacio 4 de la habitación.
+- `!mp move Loctav 4` - Mueve a Loctav al espacio 4 de la sala.
 - `!mp team Zallius blue` - Mueve a Zallius al equipo azul.
 - `!mp team Loctav red` - Mueve a Loctav al equipo rojo.
 - `!mp set 0 2` - Establece el modo por equipos en Head To Head y la condición de victoria en Combo.
