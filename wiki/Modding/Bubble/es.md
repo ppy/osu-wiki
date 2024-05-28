@@ -27,7 +27,7 @@ Las burbujas fueron introducidas por ::{ flag=AU }:: [peppy](/wiki/People/peppy)
 
 El 3 de octubre de 2010, el MAT recibió los permisos para usar el icono de la burbuja, junto con el BAT. De este modo, las [proto-burbujas](/wiki/Modding/Proto-bubble) quedaron obsoletas, y desde entonces ambos equipos usaban principalmente burbujas normales.
 
-Después de que el [sistema de discusiones para los beatmaps](/wiki/Beatmap_discussion) se implementara por completo y se convirtiera en la interfaz principal para el modding en noviembre de 2017, los controles de gestión de los beatmaps basados ​​en los foros se eliminaron gradualmente y las burbujas fueron naturalmente reemplazadas por nominaciones.
+Después de que el [sistema de discusiones de los beatmaps](/wiki/Beatmap_discussion) se implementara por completo y se convirtiera en la interfaz principal para el modding en noviembre de 2017, los controles de gestión de los beatmaps basados ​​en los foros se eliminaron gradualmente y las burbujas fueron naturalmente reemplazadas por nominaciones.
 
 ## Mecánicas
 
@@ -40,8 +40,8 @@ Los hilos de los beatmaps burbujeados aparecían en las primeras páginas del [f
 ### Requisitos
 
 - Para poder ser burbujeado, la [prioridad por estrellas](/wiki/Modding/Star_priority) de un beatmap tenía que ser al menos de 8. Posteriormente, este límite se aumentó a 12.
-- El requisito para que un beatmap fuera considerado para la categoría [clasificado](/wiki/Beatmap/Category#ranked) era tener una sola burbuja.
-- Los beatmaps de la categoría [aprobado](/wiki/Beatmap/Category#approved) debían tener dos burbujas consecutivas colocadas por dos miembros diferentes del BAT. El 2 de junio de 2017, este límite se cambió a una sola burbuja.
+- El requisito para que un beatmap fuera considerado para la categoría [clasificados](/wiki/Beatmap/Category#ranked) era tener una sola burbuja.
+- Los beatmaps de la categoría [aprobados](/wiki/Beatmap/Category#approved) debían tener dos burbujas consecutivas colocadas por dos miembros diferentes del BAT. El 2 de junio de 2017, este límite se cambió a una sola burbuja.
 
 ### Burbuja reventada
 
@@ -50,7 +50,7 @@ Se podía **reventar** una burbuja existente:
 - Automáticamente, por parte del propio mapper, si este actualizaba el mapa o alguno de sus archivos.
 - Manualmente, por un miembro del BAT, si el beatmap requería más cambios y no se podía clasificar en su estado actual.
 
-En ambos casos, el icono del hilo del beatmap se establecería en una burbuja reventada (![Icono de la burbuja reventada](/wiki/shared/icon/bubble-pop.gif)). Si se reventaba una burbuja manualmente, se suponía que el miembro del BAT o el MAT que había colocado el icono se aseguraría de que se realizaran los cambios necesarios en el mapa antes de que continuara con el proceso de clasificación.
+En ambos casos, el icono del hilo del beatmap se establecería en una burbuja reventada (![icono de la burbuja reventada](/wiki/shared/icon/bubble-pop.gif)). Si se reventaba una burbuja manualmente, se suponía que el miembro del BAT o el MAT que había colocado el icono se aseguraría de que se realizaran los cambios necesarios en el mapa antes de que continuara con el proceso de clasificación.
 
 ## Véase también
 
