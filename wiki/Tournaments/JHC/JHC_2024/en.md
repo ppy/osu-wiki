@@ -147,8 +147,8 @@ For solo teams, the prize of osu!supporter was doubled.
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | wehehe |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | GangWonDuo |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | hsod |
-| #4 - #6 | garfield exterminators if fortnite, hawk, SV Player |
-| #7 - #12 | Shangus, 👍, ETA, THE TRUTH OF NOCENT, 原核生物队, 大天空killers |
+| #4 – #6 | garfield exterminators if fortnite, hawk, SV Player |
+| #7 – #12 | Shangus, 👍, ETA, THE TRUTH OF NOCENT, 原核生物队, 大天空killers |
 
 ## Mappools
 
