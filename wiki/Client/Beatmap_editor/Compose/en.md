@@ -187,9 +187,9 @@ The left side of the sample import window lists all audio samples from the beatm
 | :-- | :-- |
 | `Play` | Play selected sample. |
 | `Import` | Add more samples to the beatmap folder from other locations. |
-| `Sample` | Add selected sample as a [storyboard audio event](/wiki/Storyboard/Scripting/Audio) at the current timestamp. |
+| `Delete` | Delete the audio file. |
 | `Apply` | Apply selected sample to the selected note. |
-| `Sample` | Add selected sample as a storyboard event at the current timestamp. |
+| `Sample` | Add selected sample as a [storyboard audio event](/wiki/Storyboard/Scripting/Audio) at the current timestamp. |
 | `Sample list` | Display [sound events in the storyboard](#sample-events-list). |
 | `Reset` | Remove custom sample from the selected note. |
 | `Cancel` | Close the window. |
