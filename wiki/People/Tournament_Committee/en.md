@@ -99,7 +99,7 @@ Whether a prospective member applies via email or is brought forward by an exist
 
 ### Votes
 
-The Tournament Committee frequently makes use of anonymous voting when making important decisions. Typical uses are listed above, but those are not fully inclusive. The voting requirements also differ based on the use case. All typical votes also require "strict participation", meaning that if 75% of the Tournament Committee does not participate by the vote deadline, voting is extended by 24 hours. Further, all votes require at least an absolute majority, at least 50%, for action to be taken. Votes on many topics have the same requirements, but there are slight differences on some common topics listed below.
+The Tournament Committee frequently makes use of anonymous voting when making important decisions. Typical uses are listed above, but those are not fully inclusive. The voting requirements also differ based on the use case. All typical votes also require "strict participation", meaning that if 75% of the Tournament Committee does not participate by the vote deadline, voting is extended by 24 hours. Furthermore, all votes require at least an absolute majority, at least 50%, for action to be taken. Votes on many topics have the same requirements, but there are slight differences on some common topics listed below.
 
 | Vote type | Minimum length (days) | Approval threshold |
 | :-- | --: | --: |
