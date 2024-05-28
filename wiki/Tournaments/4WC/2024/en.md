@@ -120,47 +120,62 @@ The 4 Digit World Cup 2024 is run by various community members.
 | ::{ flag=UY }:: | **Uruguay** | **[Shikke](https://osu.ppy.sh/users/5382216)**, [El Milanga](https://osu.ppy.sh/users/12264918), [finalevening](https://osu.ppy.sh/users/18983862), [Madozito](https://osu.ppy.sh/users/4054429), [Rami12890](https://osu.ppy.sh/users/23970963), [Hanabi-](https://osu.ppy.sh/users/20459807), [Ryo Mizoguchi](https://osu.ppy.sh/users/27635595), [Haku-](https://osu.ppy.sh/users/24879119) |
 | ::{ flag=VN }:: | **Vietnam** | **[realshin](https://osu.ppy.sh/users/8006029)**, [Another Guy](https://osu.ppy.sh/users/4540667), [t4hN](https://osu.ppy.sh/users/18948749), [hotcat190](https://osu.ppy.sh/users/10143086), [\_Casiofx580vnx](https://osu.ppy.sh/users/848961), [Phoeni\_](https://osu.ppy.sh/users/14953642), [Ayamaki](https://osu.ppy.sh/users/16396650), [updraft](https://osu.ppy.sh/users/11688228) |
 
-## Match Schedule: Quarterfinals
+## Match Schedule: Semifinals
 
-### Saturday, 25 May 2024
+### Saturday, 1 June 2024
 
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| Canada ::{ flag=CA }:: | ::{ flag=PH }:: Philippines | May 25 (Sat) 03:00 UTC |  | [^losers-bracket] |
-| Malaysia ::{ flag=MY }:: | ::{ flag=SE }:: Sweden | May 25 (Sat) 13:00 UTC |  | [^losers-bracket] |
-| Singapore ::{ flag=SG }:: | ::{ flag=HK }:: Hong Kong | May 25 (Sat) 14:00 UTC |  | [^losers-bracket] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=UA }:: Ukraine | May 25 (Sat) 15:00 UTC |  | [^losers-bracket] |
-| Netherlands ::{ flag=NL }:: | ::{ flag=JP }:: Japan | May 25 (Sat) 15:00 UTC |  | [^losers-bracket] |
-| Norway ::{ flag=NO }:: | ::{ flag=GB }:: United Kingdom | May 25 (Sat) 17:00 UTC |  | [^losers-bracket] |
-| Finland ::{ flag=FI }:: | ::{ flag=RO }:: Romania | May 25 (Sat) 18:00 UTC |  | [^losers-bracket] |
-| Spain ::{ flag=ES }:: | ::{ flag=BE }:: Belgium | May 25 (Sat) 19:00 UTC |  | [^losers-bracket] |
+| Team A | Team B | Match time |  |
+| --: | :-- | :-- | :-: |
+| Taiwan ::{ flag=TW }:: | ::{ flag=CA }:: Canada | Jun 01 (Sat) 03:00 UTC | [^losers-bracket] |
+| Australia ::{ flag=AU }:: | ::{ flag=JP }:: Japan | Jun 01 (Sat) 10:00 UTC | [^losers-bracket] |
+| France ::{ flag=FR }:: | ::{ flag=SG }:: Singapore | Jun 01 (Sat) 14:00 UTC | [^losers-bracket] |
+| Brazil ::{ flag=BR }:: | ::{ flag=SE }:: Sweden | Jun 01 (Sat) 16:00 UTC | [^losers-bracket] |
 
-### Sunday, 26 May 2024
+### Sunday, 2 June 2024
 
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| United States ::{ flag=US }:: | ::{ flag=AU }:: Australia | May 26 (Sun) 03:15 UTC |  | [^winners-bracket] |
-| South Korea ::{ flag=KR }:: | ::{ flag=FR }:: France | May 26 (Sun) 12:00 UTC |  | [^winners-bracket] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=SG }:: Singapore | May 26 (Sun) 12:00 UTC |  | [^potential-match] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=HK }:: Hong Kong | May 26 (Sun) 12:00 UTC |  | [^potential-match] |
-| Ukraine ::{ flag=UA }:: | ::{ flag=SG }:: Singapore | May 26 (Sun) 12:00 UTC |  | [^potential-match] |
-| Ukraine ::{ flag=UA }:: | ::{ flag=HK }:: Hong Kong | May 26 (Sun) 12:00 UTC |  | [^potential-match] |
-| Norway ::{ flag=NO }:: | ::{ flag=NL }:: Netherlands | May 26 (Sun) 13:00 UTC |  | [^potential-match] |
-| Norway ::{ flag=NO }:: | ::{ flag=JP }:: Japan | May 26 (Sun) 13:00 UTC |  | [^potential-match] |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=NL }:: Netherlands | May 26 (Sun) 13:00 UTC |  | [^potential-match] |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=JP }:: Japan | May 26 (Sun) 13:00 UTC |  | [^potential-match] |
-| Finland ::{ flag=FI }:: | ::{ flag=PH }:: Philippines | May 26 (Sun) 13:00 UTC |  | [^potential-match] |
-| Romania ::{ flag=RO }:: | ::{ flag=PH }:: Philippines | May 26 (Sun) 13:00 UTC |  | [^potential-match] |
-| Poland ::{ flag=PL }:: | ::{ flag=TW }:: Taiwan | May 26 (Sun) 13:30 UTC |  | [^winners-bracket] |
-| Spain ::{ flag=ES }:: | ::{ flag=MY }:: Malaysia | May 26 (Sun) 14:00 UTC |  | [^potential-match] |
-| Spain ::{ flag=ES }:: | ::{ flag=SE }:: Sweden | May 26 (Sun) 14:00 UTC |  | [^potential-match] |
-| Belgium ::{ flag=BE }:: | ::{ flag=MY }:: Malaysia | May 26 (Sun) 14:00 UTC |  | [^potential-match] |
-| Belgium ::{ flag=BE }:: | ::{ flag=SE }:: Sweden | May 26 (Sun) 14:00 UTC |  | [^potential-match] |
-| China ::{ flag=CN }:: | ::{ flag=BR }:: Brazil | May 26 (Sun) 15:00 UTC |  | [^winners-bracket] |
-| Finland ::{ flag=FI }:: | ::{ flag=CA }:: Canada | May 26 (Sun) 18:00 UTC |  | [^potential-match] |
-| Romania ::{ flag=RO }:: | ::{ flag=CA }:: Canada | May 26 (Sun) 18:00 UTC |  | [^potential-match] |
+| Team A | Team B | Match time |  |
+| --: | :-- | :-- | :-: |
+| Canada ::{ flag=CA }:: | ::{ flag=AU }:: Australia | Jun 02 (Sun) 03:00 UTC | [^potential-match] |
+| Canada ::{ flag=CA }:: | ::{ flag=JP }:: Japan | Jun 02 (Sun) 03:00 UTC | [^potential-match] |
+| Taiwan ::{ flag=TW }:: | ::{ flag=AU }:: Australia | Jun 02 (Sun) 10:00 UTC | [^potential-match] |
+| Taiwan ::{ flag=TW }:: | ::{ flag=JP }:: Japan | Jun 02 (Sun) 10:00 UTC | [^potential-match] |
+| South Korea ::{ flag=KR }:: | ::{ flag=CN }:: China | Jun 02 (Sun) 14:00 UTC | [^winners-bracket] |
+| Brazil ::{ flag=BR }:: | ::{ flag=FR }:: France | Jun 02 (Sun) 15:00 UTC | [^potential-match] |
+| Brazil ::{ flag=BR }:: | ::{ flag=SG }:: Singapore | Jun 02 (Sun) 15:00 UTC | [^potential-match] |
+| Sweden ::{ flag=SE }:: | ::{ flag=FR }:: France | Jun 02 (Sun) 15:00 UTC | [^potential-match] |
+| Sweden ::{ flag=SE }:: | ::{ flag=SG }:: Singapore | Jun 02 (Sun) 15:00 UTC | [^potential-match] |
+| United States ::{ flag=US }:: | ::{ flag=PL }:: Poland | Jun 02 (Sun) 18:00 UTC | [^winners-bracket] |
 
 ## Mappools
+
+### Semifinals
+
+- No Mod
+  1. [Wolpis Kater - Aijou Rettousei (Mistelse) \[By Your Side\]](https://osu.ppy.sh/beatmapsets/1252588#osu/2603315)
+  2. [BABYMETAL - Arkadia (ItsWinter) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1695872#osu/3644487)
+  3. [Dark PHOENiX - Shoujo Satori (sjoy) \[Terrible Souvenir\]](https://osu.ppy.sh/beatmapsets/2161801#osu/4558977)
+  4. [lapix - Under Mebius feat. Aitsuki Nakuru (YUKIYANAGI Remix) (Rentai) \[Unwelcome Overdose \[remnait\]\]](https://osu.ppy.sh/beatmapsets/2187828#osu/4625963)
+  5. [UNDEAD CORPORATION - Everything will freeze (LeCandy) \[Daycore's Frozen Extreme\]](https://osu.ppy.sh/beatmapsets/2128889#osu/4485821 )
+  6. [inabakumori - Hello Marina (Spork Lover) \[good song\]](https://osu.ppy.sh/beatmapsets/2139111#osu/4501918)
+- Hidden
+  1. [The Mars Volta - Cotopaxi (MonsieurSebas) \[Ruminahui\]](https://osu.ppy.sh/beatmapsets/2139177#osu/4502085)
+  2. [Kitri - Kokorone (hamano) \[Schoolgirl.\]](https://osu.ppy.sh/beatmapsets/2172926#osu/4587097)
+  3. [Luze - Eta \* Beta \* Eta (dectopia) \[Divinity\]](https://osu.ppy.sh/beatmapsets/2153859#osu/4538482)
+- Hard Rock
+  1. [KOEDA - purple (Shurelia) \[lavender\]](https://osu.ppy.sh/beatmapsets/2187849#osu/4625998)
+  2. [ILLIT - Magnetic (syuq) \[Kinetic\]](https://osu.ppy.sh/beatmapsets/2174230#osu/4590302)
+  3. [ARForest - Virtual Throne (Mimari) \[Simulated Universe\]](https://osu.ppy.sh/beatmapsets/2011722#osu/4186224)
+- Double Time
+  1. [ELECTROCUTICA feat. F9 - Triplaneta (deetz) \[FALL\]](https://osu.ppy.sh/beatmapsets/1010927#osu/2116069)
+  2. [my sound life - yamisame (allein) \[imsame\]](https://osu.ppy.sh/beatmapsets/1812908#osu/3719000)
+  3. [Tanchiky - Bridge (NyarkoO) \[Nowa's Insane\]](https://osu.ppy.sh/beatmapsets/1378720#osu/2848899)
+  4. [Complexive - Paft Dunk (thiev) \[Collab\]](https://osu.ppy.sh/beatmapsets/2091688#osu/4384362)
+- Free Mod
+  1. [Sobrem x Silentroom - Random (seros) \[revoh's Expert\]](https://osu.ppy.sh/beatmapsets/1674155#osu/3992308)
+  2. [Aya Hirano - Hare Hare Yukai (Net0) \[Oni\]](https://osu.ppy.sh/beatmapsets/2187842#osu/4625984)
+  3. [ikaruga_nex - Lilith ambivalence lovers (Ametrin) \[Toxic crush\]](https://osu.ppy.sh/beatmapsets/1084460#osu/2267887)
+- Tiebreaker
+  1. **[Judas Priest - Painkiller (piroshki) \[The Metal Reaper\]](https://osu.ppy.sh/beatmapsets/903791#osu/1886684)**
 
 ### Quarterfinals
 
@@ -261,6 +276,36 @@ The 4 Digit World Cup 2024 is run by various community members.
   3. [Utada Hikaru - PINK BLOOD (Agatsu) \[Insane\]](https://osu.ppy.sh/beatmapsets/1891095#osu/3896335)
 
 ## Match Results
+
+### Quarterfinals
+
+Detailed statistics for the Quarterfinals can be found [here](https://docs.google.com/spreadsheets/d/1JBvD7tm19Y5wcWYPc-RiAx5Dl78yY_6nk1kJZ7WgL6M?rm=minimal).
+
+Saturday, 25 May 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Canada** ::{ flag=CA }:: | **6** | 0 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/114016771) |
+| Malaysia ::{ flag=MY }:: | 1 | **6** | ::{ flag=SE }:: **Sweden** | [#1](https://osu.ppy.sh/community/matches/114021156) |
+| **Singapore** ::{ flag=SG }:: | **6** | 3 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/114023648) |
+| **Russian Federation** ::{ flag=RU }:: | **6** | 2 | ::{ flag=UA }:: Ukraine | [#1](https://osu.ppy.sh/community/matches/114023748) |
+| Netherlands ::{ flag=NL }:: | 3 | **6** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/114024599) |
+| Russian Federation ::{ flag=RU }:: | 3 | **6** | ::{ flag=SG }:: **Singapore** | [#1](https://osu.ppy.sh/community/matches/114026492) |
+| **Finland** ::{ flag=FI }:: | **6** | 0 | ::{ flag=RO }:: Romania | [#1](https://osu.ppy.sh/community/matches/114027442) |
+| **Spain** ::{ flag=ES }:: | **6** | 3 | ::{ flag=BE }:: Belgium | [#1](https://osu.ppy.sh/community/matches/114028233) |
+| Norway ::{ flag=NO }:: | 0 | **6** | ::{ flag=GB }:: **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/114029118) |
+
+Sunday, 26 May 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United States** ::{ flag=US }:: | **6** | 3 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/114033623) |
+| **South Korea** ::{ flag=KR }:: | **6** | 1 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/114037718) |
+| **Poland** ::{ flag=PL }:: | **6** | 1 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/114038044) |
+| **China** ::{ flag=CN }:: | **6** | 1 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/114039975) |
+| United Kingdom ::{ flag=GB }:: | 2 | **6** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/114039964) |
+| Finland ::{ flag=FI }:: | 1 | **6** | ::{ flag=CA }:: **Canada** | [#1](https://osu.ppy.sh/community/matches/114042255) |
+| Spain ::{ flag=ES }:: | 1 | **6** | ::{ flag=SE }:: **Sweden** | [#1](https://osu.ppy.sh/community/matches/114043014) |
 
 ### Round of 16
 
