@@ -1,6 +1,6 @@
 # Orang-orang
 
-Halaman ini merupakan halaman indeks untuk berbagai artikel yang membahas seputar sosok atau grup tertentu.
+Halaman ini merupakan halaman indeks untuk berbagai artikel yang membahas seputar tokoh atau kelompok tertentu.
 
 ## Saat ini
 
