@@ -10,12 +10,13 @@ Read up on the latest interview with YesMyDarknesss, the osu!catch #1 player.
 
 Welcome or welcome back to The Followpoint, a "community spotlight" series where we interview various players and community figures to get to know them better!
 
-We are back with a second interview of our special set, interviewing the very top of each game mode, this time featuring YesMyDarknesss (a.k.a Hyperw7), osu!catch rank #1 player and currently the longest standing #1 of all game modes!
-If you have no idea what this "special set" thing is, we recommend checking out [mrekk interview](https://osu.ppy.sh/home/news/2024-05-06-the-followpoint-mrekk-the-osu-standard-prodigy) first!
+We are back with a second interview of a special set of players, namely the very top of each game mode, this time featuring YesMyDarknesss (a.k.a Hyperw7), osu!catch rank #1 player and currently the longest-standing #1 of all game modes!
+
+If you find the these insights from top players interesting, you might also want to check out [mrekk's interview](https://osu.ppy.sh/home/news/2024-05-06-the-followpoint-mrekk-the-osu-standard-prodigy)!
 
 Let's start now, shall we?
 
-(Note: **Some of the answers were reworded for a better reading**.)
+(Note that *some of the answers have been reworded for better readability*.)
 
 ---
 
@@ -59,9 +60,9 @@ Let's start now, shall we?
 
 > Hmmm, there are too many scores to decide. My favorite catch score is probably [Chroma - I [AI] +HR](https://osu.ppy.sh/scores/1956565686)? My other scores can be replaced by other pro players, who play better than me, but I still can't understand how I did CS 5.3 with HR.
 
-*What made you play Xronier map using "[guitar hero playstyle](https://www.twitch.tv/yesmydarknesss/clip/InnocentAbstemiousYakPupper-vX89K6koYLVGQQdP)" that one time?*
+*What made you play Xronier using the "[guitar hero playstyle](https://www.twitch.tv/yesmydarknesss/clip/InnocentAbstemiousYakPupper-vX89K6koYLVGQQdP)" that one time?*
 
-> I've played a few times in Guitar Hero style even before Xronier just for fun, and one of my best scores done in this playstyle on [ADHD](https://osu.ppy.sh/beatmapsets/1789527#fruits/3666753) map is also my personal [Hidden mod pp record](https://osu.ppy.sh/scores/1957545279).
+> I've played a few times in Guitar Hero style even before Xronier just for fun, and one of my best scores done in this playstyle on [ADHD](https://osu.ppy.sh/beatmapsets/1789527#fruits/3666753) is also my personal [Hidden mod pp record](https://osu.ppy.sh/scores/1957545279).
 
 *Who would you call the best osu!catch player(s) at the moment and why?*
 
@@ -91,6 +92,6 @@ Let's start now, shall we?
 
 Thanks to YesMyDarknesss for joining us and answering these questions! I hope you as a reader enjoyed this interview as well. :D
 
-Please look forward to the next interview with osu!taiko #4 player, [Eriha](https://osu.ppy.sh/users/16320311), which will be posted in two weeks! You can also have a look at our [Twitter account](https://twitter.com/The_Followpoint) while waiting for a new interview. Who knows, maybe there will be some early looks into future interviews. 👀
+Please look forward to the next interview with osu!taiko #4 player, [Eriha](https://osu.ppy.sh/users/16320311), which will be posted in a week! You can also have a look at our [Twitter account](https://twitter.com/The_Followpoint) while waiting for a new interview. Who knows, maybe there will be some early looks into future interviews. 👀
 
 —MegaMix
