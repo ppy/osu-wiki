@@ -66,7 +66,8 @@ The osu!taiko Mapping World Cup 2024 is run by various community members.
 | :-- | :-- |
 | Hosts | ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) |
 | Designer | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) |
-| Judges | ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996), ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851), ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097), ::{ flag=US }:: [op45667](https://osu.ppy.sh/users/21973491), ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721), ::{ flag=JP }:: [TKS](https://osu.ppy.sh/users/940878), ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) |
+| Advisor | ::{ flag=GB }:: [arialle](https://osu.ppy.sh/users/18597899) |
+| Judges | ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996), ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851), ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097), ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128), ::{ flag=US }:: [op45667](https://osu.ppy.sh/users/21973491), ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721), ::{ flag=JP }:: [TKS](https://osu.ppy.sh/users/940878), ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) |
 
 ## Links
 
