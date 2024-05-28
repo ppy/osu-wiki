@@ -4,13 +4,13 @@ title: "The Followpoint: YesMyDarknesss, the Master of osu!catch"
 date: 2024-05-28 11:00:00 +0000
 ---
 
-Read up on the latest interview with YesMyDarknesss, the osu!catch #1 player.
+Read up on the latest interview with [YesMyDarknesss](https://osu.ppy.sh/users/4158549), the osu!catch #1 player.
 
 ![](/wiki/shared/news/2024-05-28-the-followpoint-yesmydarknesss-the-master-of-osu-catch/banner.jpg)
 
 Welcome or welcome back to The Followpoint, a "community spotlight" series where we interview various players and community figures to get to know them better!
 
-We are back with a second interview of a special set of players, namely the very top of each game mode, this time featuring YesMyDarknesss (a.k.a Hyperw7), osu!catch rank #1 player and currently the longest-standing #1 of all game modes!
+We are back with a second interview of a special set of players, namely the very top of each game mode, this time featuring [YesMyDarknesss](https://osu.ppy.sh/users/4158549) (a.k.a Hyperw7), osu!catch rank #1 player and currently the longest-standing #1 of all game modes!
 
 If you find the these insights from top players interesting, you might also want to check out [mrekk's interview](https://osu.ppy.sh/home/news/2024-05-06-the-followpoint-mrekk-the-osu-standard-prodigy)!
 
