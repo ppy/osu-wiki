@@ -71,7 +71,7 @@ Mantén presionado `Alt` para cambiar el control deslizante al modo de [ajuste d
 
 | Botón (atajo de teclado) | Uso | Descripción |
 | :-- | :-- | :-- |
-| `Grid Snap` (`T`) | Mantener presionado `Mayús`: Se activa temporalmente. | Ajusta los objetos [a la rejilla](/wiki/Beatmapping/Grid_snapping) mientras se mueven. |
+| `Grid Snap` (`T`) | Mantener presionado `Mayús`: Se activa temporalmente. | Ancla los objetos [a la rejilla](/wiki/Beatmapping/Grid_snapping) mientras se mueven. |
 | `Distance Snap` (`Y`) | Mantener presionado `Alt`: Se activa temporalmente, cambiando el divisor de ritmo a ajuste de distancia de las notas. `Alt` + `Rueda del ratón`: Ajusta el multiplicador del ajuste de distancia de las notas. | Calcula la [distancia](/wiki/Client/Beatmap_editor/Distance_snap) entre objetos consecutivos en función de su distancia temporal. Es mejor usarlo mientras la línea de tiempo está en pausa. |
 | `Lock Notes` (`L`) | `Clic izquierdo`: alterna. | Bloquea todos los objetos en sus posiciones y marcas de tiempo actuales. |
 
