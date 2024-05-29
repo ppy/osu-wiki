@@ -95,16 +95,16 @@ Las reglas y pautas para las dificultades específicas solo se aplican al nivel 
 
 - **Los [hyperdashes](/wiki/Gameplay/Hyperdash) de cualquier tipo no están permitidos.** Esto es para garantizar un paso manejable en la dificultad para jugadores novatos.
 - **Los [dashes](/wiki/Gameplay/Dash) deben tener al menos un espacio de 125 ms entre sus dos objetos.**
-- **Los [dashes](/wiki/Gameplay/Dash) de [snap básico](/wiki/Gameplay/Dash_snapping#basic-snapped) no deben usarse más de dos veces entre [frutas](/wiki/Gameplay/Hit_object/Fruit) consecutivas.**
-- **Los [dashes](/wiki/Gameplay/Dash) de [snap alto](/wiki/Gameplay/Dash_snapping#higher-snapped) siempre deben ir seguidos de un [walk](/wiki/Gameplay/Walk).**
+- **Los [dashes](/wiki/Gameplay/Dash) de [snap básico](/wiki/Gameplay/Dash_snapping#snap-básico) no deben usarse más de dos veces entre [frutas](/wiki/Gameplay/Hit_object/Fruit) consecutivas.**
+- **Los [dashes](/wiki/Gameplay/Dash) de [snap alto](/wiki/Gameplay/Dash_snapping#snap-alto) siempre deben ir seguidos de un [walk](/wiki/Gameplay/Walk).**
 - **Los [edge dashes](/wiki/Gameplay/Edge_dash) no deben ser usados.** Requieren una sincronización extremadamente precisa que no se puede esperar de jugadores menos experimentados.
 - **Debe haber al menos 250 ms de espacio entre círculos/sliders y el inicio y final de los [spinners](/wiki/Gameplay/Hit_object/Spinner).** Esto es para garantizar una buena legibilidad.
 
 #### Pautas
 
 - **Todas las distancias deben dejar claro si requieren que el jugador haga un [walk](/wiki/Gameplay/Walk) o un [dash](/wiki/Gameplay/Dash).** Esto es para asegurar que los jugadores puedan reconocer fácilmente patrones que requieran hacer un dash.
-- **Los [dashes](/wiki/Gameplay/Dash) de [snap básico](/wiki/Gameplay/Dash_snapping#basic-snapped) no deben usarse consecutivamente cuando se usan ritmos diferentes.** Por ejemplo, un dash de 1/1 seguido de un dash de 1/2.
-- **Los [dashes](/wiki/Gameplay/Dash) de [snap alto](/wiki/Gameplay/Dash_snapping#higher-snapped) no deben ir seguidos de patrones [antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow).**
+- **Los [dashes](/wiki/Gameplay/Dash) de [snap básico](/wiki/Gameplay/Dash_snapping#snap-básico) no deben usarse consecutivamente cuando se usan ritmos diferentes.** Por ejemplo, un dash de 1/1 seguido de un dash de 1/2.
+- **Los [dashes](/wiki/Gameplay/Dash) de [snap alto](/wiki/Gameplay/Dash_snapping#snap-alto) no deben ir seguidos de patrones [antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow).**
 - **No se deben usar [spinner traps](/wiki/Gameplay/Spinner_trap).**
 - **Los [combos](/wiki/Beatmapping/Combo) no deben exceder los 10 objetos, incluyendo los finales y las repeticiones de los sliders.** Los [spinners](/wiki/Gameplay/Hit_object/Spinner) son una excepción.
 - **La densidad de las notas debe seguir principalmente un patrón de 1/1 y 1/2.** Los patrones de 1/3 y/o 1/4 deben usarse con moderación.
@@ -122,20 +122,20 @@ Las reglas y pautas para las dificultades específicas solo se aplican al nivel 
 - **Los [hyperdashes](/wiki/Gameplay/Hyperdash) deben tener al menos un espacio de 125 ms entre sus dos objetos.**
 - **Los [hyperdashes](/wiki/Gameplay/Hyperdash) no pueden usarse en [gotas](/wiki/Gameplay/Hit_object/Juice_stream#gota) individuales y/o repeticiones de sliders.** La precisión y control requeridos son poco razonables en este nivel y pueden crear una situación donde el jugador potencialmente no pueda leer la trayectoria del slider.
 - **No se pueden usar [hyperdashes](/wiki/Gameplay/Hyperdash) de un ritmo diferente entre [frutas](/wiki/Gameplay/Hit_object/Fruit) consecutivas.** Por ejemplo, un hyperdash de 1/2 seguido de un hyperdash de 1/4.
-- **Los [hyperdashes](/wiki/Gameplay/Hyperdash) de [snap básico](/wiki/Gameplay/Dash_snapping#basic-snapped) no deben usarse más de dos veces entre [frutas](/wiki/Gameplay/Hit_object/Fruit) consecutivas.**
-- **Los [hyperdashes](/wiki/Gameplay/Hyperdash) de [snap alto](/wiki/Gameplay/Dash_snapping#higher-snapped) no deben usarse junto con ningún otro [dash](/wiki/Gameplay/Dash) o hyperdash.**
+- **Los [hyperdashes](/wiki/Gameplay/Hyperdash) de [snap básico](/wiki/Gameplay/Dash_snapping#snap-básico) no deben usarse más de dos veces entre [frutas](/wiki/Gameplay/Hit_object/Fruit) consecutivas.**
+- **Los [hyperdashes](/wiki/Gameplay/Hyperdash) de [snap alto](/wiki/Gameplay/Dash_snapping#snap-alto) no deben usarse junto con ningún otro [dash](/wiki/Gameplay/Dash) o hyperdash.**
 - **Los [dashes](/wiki/Gameplay/Dash) deben tener al menos un espacio de 62 ms entre sus dos objetos.**
-- **Los [dashes](/wiki/Gameplay/Dash) de [snap básico](/wiki/Gameplay/Dash_snapping#basic-snapped) no deben usarse más de cuatro veces entre [frutas](/wiki/Gameplay/Hit_object/Fruit) consecutivas.**
-- **Los [dashes](/wiki/Gameplay/Dash) de [snap alto](/wiki/Gameplay/Dash_snapping#higher-snapped) pueden usarse hasta dos veces entre [frutas](/wiki/Gameplay/Hit_object/Fruit) consecutivas, siempre que no haya un cambio de dirección entre ellos.**
+- **Los [dashes](/wiki/Gameplay/Dash) de [snap básico](/wiki/Gameplay/Dash_snapping#snap-básico) no deben usarse más de cuatro veces entre [frutas](/wiki/Gameplay/Hit_object/Fruit) consecutivas.**
+- **Los [dashes](/wiki/Gameplay/Dash) de [snap alto](/wiki/Gameplay/Dash_snapping#snap-alto) pueden usarse hasta dos veces entre [frutas](/wiki/Gameplay/Hit_object/Fruit) consecutivas, siempre que no haya un cambio de dirección entre ellos.**
 - **Los [edge dashes](/wiki/Gameplay/Edge_dash) no deben ser usados.** Requieren una sincronización extremadamente precisa que no se puede esperar de jugadores menos experimentados.
 - **Debe haber al menos 125 ms de espacio entre círculos/sliders y el inicio de los [spinners](/wiki/Gameplay/Hit_object/Spinner).** Esto es para garantizar una buena legibilidad.
 - **Debe haber al menos 250 ms de espacio entre círculos/sliders y el final de los [spinners](/wiki/Gameplay/Hit_object/Spinner).** Esto es para garantizar una buena legibilidad.
 
 #### Pautas
 
-- **No se deben usar [hyperdashes](/wiki/Gameplay/Hyperdash) fuertes.** Para hyperdashes de [snap básico](/wiki/Gameplay/Dash_snapping#basic-snapped) se recomienda un límite de 1,5 veces la [distancia de activación](/wiki/Beatmapping/Trigger_distance). En cambio, para hyperdashes de [snap alto](/wiki/Gameplay/Dash_snapping#higher-snapped), se recomienda un límite de 1,3 veces la distancia de activación.
-- **Los [hyperdashes](/wiki/Gameplay/Hyperdash) de [snap básico](/wiki/Gameplay/Dash_snapping#basic-snapped) pueden usarse junto con patrones de [antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow).** Si se usan, el espacio no debe exceder una distancia ajustada de 1,2 veces la [distancia de activación](/wiki/Beatmapping/Trigger_distance) cuando sea seguido por un [walk](/wiki/Gameplay/Walk), o 1,1 veces la distancia de activación cuando sea seguido por un [dash](/wiki/Gameplay/Dash) de snap básico.
-- **Los [hyperdashes](/wiki/Gameplay/Hyperdash) de [snap alto](/wiki/Gameplay/Dash_snapping#higher-snapped) no deben ir seguidos de patrones de [antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow).** Si se usan, el espacio no debe exceder una distancia ajustada de 1,1 veces la [distancia de activación](/wiki/Beatmapping/Trigger_distance).
+- **No se deben usar [hyperdashes](/wiki/Gameplay/Hyperdash) fuertes.** Para hyperdashes de [snap básico](/wiki/Gameplay/Dash_snapping#snap-básico) se recomienda un límite de 1,5 veces la [distancia de activación](/wiki/Beatmapping/Trigger_distance). En cambio, para hyperdashes de [snap alto](/wiki/Gameplay/Dash_snapping#snap-alto), se recomienda un límite de 1,3 veces la distancia de activación.
+- **Los [hyperdashes](/wiki/Gameplay/Hyperdash) de [snap básico](/wiki/Gameplay/Dash_snapping#snap-básico) pueden usarse junto con patrones de [antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow).** Si se usan, el espacio no debe exceder una distancia ajustada de 1,2 veces la [distancia de activación](/wiki/Beatmapping/Trigger_distance) cuando sea seguido por un [walk](/wiki/Gameplay/Walk), o 1,1 veces la distancia de activación cuando sea seguido por un [dash](/wiki/Gameplay/Dash) de snap básico.
+- **Los [hyperdashes](/wiki/Gameplay/Hyperdash) de [snap alto](/wiki/Gameplay/Dash_snapping#snap-alto) no deben ir seguidos de patrones de [antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow).** Si se usan, el espacio no debe exceder una distancia ajustada de 1,1 veces la [distancia de activación](/wiki/Beatmapping/Trigger_distance).
 - **No se deben usar [spinner traps](/wiki/Gameplay/Spinner_trap).**
 - **Los [combos](/wiki/Beatmapping/Combo) no deben exceder los 12 objetos, incluyendo los finales y las repeticiones de los sliders.** Los [spinners](/wiki/Gameplay/Hit_object/Spinner) son una excepción.
 - **La densidad de las notas debe seguir principalmente un patrón de 1/2 y 1/3.** Los patrones de 1/4 y/o 1/6 deben usarse con moderación.
@@ -151,18 +151,18 @@ Las reglas y pautas para las dificultades específicas solo se aplican al nivel 
 #### Reglas
 
 - **Los [hyperdashes](/wiki/Gameplay/Hyperdash) y [dashes](/wiki/Gameplay/Dash) deben tener al menos un espacio de 62 ms entre sus dos objetos.**
-- **Los [hyperdashes](/wiki/Gameplay/Hyperdash) de [snap básico](/wiki/Gameplay/Dash_snapping#basic-snapped) no deben usarse más de cuatro veces entre [frutas](/wiki/Gameplay/Hit_object/Fruit) consecutivas.**
-- **Los [hyperdashes](/wiki/Gameplay/Hyperdash) de [snap básico](/wiki/Gameplay/Dash_snapping#basic-snapped) no deben usarse más de dos veces dentro de un slider.** La trayectoria del slider debe ser simple y fácil de seguir.
-- **Los [hyperdashes](/wiki/Gameplay/Hyperdash) de [snap alto](/wiki/Gameplay/Dash_snapping#higher-snapped) no deben usarse junto con ningún otro hyperdash.**
-- **Los [hyperdashes](/wiki/Gameplay/Hyperdash) de [snap alto](/wiki/Gameplay/Dash_snapping#higher-snapped) no deben usarse dentro de un slider.**
+- **Los [hyperdashes](/wiki/Gameplay/Hyperdash) de [snap básico](/wiki/Gameplay/Dash_snapping#snap-básico) no deben usarse más de cuatro veces entre [frutas](/wiki/Gameplay/Hit_object/Fruit) consecutivas.**
+- **Los [hyperdashes](/wiki/Gameplay/Hyperdash) de [snap básico](/wiki/Gameplay/Dash_snapping#snap-básico) no deben usarse más de dos veces dentro de un slider.** La trayectoria del slider debe ser simple y fácil de seguir.
+- **Los [hyperdashes](/wiki/Gameplay/Hyperdash) de [snap alto](/wiki/Gameplay/Dash_snapping#snap-alto) no deben usarse junto con ningún otro hyperdash.**
+- **Los [hyperdashes](/wiki/Gameplay/Hyperdash) de [snap alto](/wiki/Gameplay/Dash_snapping#snap-alto) no deben usarse dentro de un slider.**
 - **Debe haber al menos 125 ms de espacio entre círculos/sliders y el inicio y final de los [spinners](/wiki/Gameplay/Hit_object/Spinner).** Esto es para garantizar una buena legibilidad.
 
 #### Pautas
 
 - **Los [hyperdashes](/wiki/Gameplay/Hyperdash) no deben usarse en [gotas](/wiki/Gameplay/Hit_object/Juice_stream#gota) y/o repeticiones de sliders.**
-- **Los [hyperdashes](/wiki/Gameplay/Hyperdash) de [snap básico](/wiki/Gameplay/Dash_snapping#basic-snapped) no deben usarse consecutivamente cuando se usan ritmos diferentes.** Por ejemplo, un hyperdash de 1/1 seguido de un hyperdash de 1/2.
-- **Los [hyperdashes](/wiki/Gameplay/Hyperdash) de [snap alto](/wiki/Gameplay/Dash_snapping#higher-snapped) no deben usarse junto con [dashes](/wiki/Gameplay/Dash) de snap alto.** Si se usan, estos no pueden involucrar [antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow) y el dash debe usarse antes del hyperdash.
-- **Los [hyperdashes](/wiki/Gameplay/Hyperdash) de [snap alto](/wiki/Gameplay/Dash_snapping#higher-snapped) no deben ir seguidos de [dashes](/wiki/Gameplay/Dash) [antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow) con un espacio inferior a 250 ms.**
+- **Los [hyperdashes](/wiki/Gameplay/Hyperdash) de [snap básico](/wiki/Gameplay/Dash_snapping#snap-básico) no deben usarse consecutivamente cuando se usan ritmos diferentes.** Por ejemplo, un hyperdash de 1/1 seguido de un hyperdash de 1/2.
+- **Los [hyperdashes](/wiki/Gameplay/Hyperdash) de [snap alto](/wiki/Gameplay/Dash_snapping#snap-alto) no deben usarse junto con [dashes](/wiki/Gameplay/Dash) de snap alto.** Si se usan, estos no pueden involucrar [antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow) y el dash debe usarse antes del hyperdash.
+- **Los [hyperdashes](/wiki/Gameplay/Hyperdash) de [snap alto](/wiki/Gameplay/Dash_snapping#snap-alto) no deben ir seguidos de [dashes](/wiki/Gameplay/Dash) [antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow) con un espacio inferior a 250 ms.**
 - **Los [edge dashes](/wiki/Gameplay/Edge_dash) solo se pueden usar de forma singular (no en conjunto con otros [dashes](/wiki/Gameplay/Dash) o [hyperdashes](/wiki/Gameplay/Hyperdash)).**
 - **No se deben usar [spinner traps](/wiki/Gameplay/Spinner_trap).**
 - **Los [combos](/wiki/Beatmapping/Combo) no deben exceder los 16 objetos, incluyendo los finales y las repeticiones de los sliders.** Los [spinners](/wiki/Gameplay/Hit_object/Spinner) son una excepción.
