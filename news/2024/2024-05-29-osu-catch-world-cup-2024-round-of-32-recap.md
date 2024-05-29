@@ -16,7 +16,7 @@ Let's get into the mappool, the results and the highlights of last week's matche
 
 ## Mappool showcase
 
-[**Download the pool here! (99 MB)**](https://packs.ppy.sh/P247%20-%20osu!catch%20World%20Cup%202024%3A%20Round%20of%2032.zip)
+[**Download the pool here! (99 MB)**](https://osu.ppy.sh/beatmaps/packs/P247)
 
 The Round of 32 mappool is a clear step down in difficulty compared to the difficulty of the qualifier mappool. This makes it more comfortable to play for all teams and provides more exciting points between teams that are closely matched.
 
