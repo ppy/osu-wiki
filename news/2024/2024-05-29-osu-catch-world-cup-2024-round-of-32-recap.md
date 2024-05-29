@@ -19,7 +19,7 @@ Let's get into the mappool, the results and the highlights of last week's matche
 [**Download the pool here! (99 MB)**](https://osu.ppy.sh/beatmaps/packs/P247)
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2156057435&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2150173001&t=1h0m44s&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
 The Round of 32 mappool is a clear step down in difficulty compared to the difficulty of the qualifier mappool. This makes it more comfortable to play for all teams and provides more exciting points between teams that are closely matched.
