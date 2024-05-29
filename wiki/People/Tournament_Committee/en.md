@@ -21,7 +21,7 @@ Additionally, the Tournament Committee performs the following roles independent 
 - Regularly reviewing the [Official tournament support](/wiki/Tournaments/Official_support) page for revisions when necessary.
 - Investigating reports from the [tournament reports form](https://pif.ephemeral.ink/tournament-reports).
 - Checking whether concluded tournaments requesting official support meet its criteria.
-- Advising the osu! news team on whether to grant [news post support](wiki/Tournaments/Official_support#requesting-in-game-banner-and-news-post-support) for tournaments.
+- Advising the osu! news team on whether to grant [news post support](/wiki/Tournaments/Official_support#requesting-in-game-banner-and-news-post-support) for tournaments.
 - Maintaining communications with the general playerbase regarding changes to official support criteria and the status of all tournaments that have requested official support.
 
 ## Contest Committee
@@ -39,7 +39,7 @@ The panel was first announced to the public on February 28, 2024 through the [Ma
 
 ### Tournament reports
 
-Tournament reports are the preferred way for players and tournament staff to report infringements of the [official tournament support](wiki/Tournaments/Official_support) expectations and eligibility. When a new report is sent in, all Tournament Committee members are automatically notified. Members will read the report and determine whether to pursue action based on the report's contents. Such action includes but is not limited to:
+Tournament reports are the preferred way for players and tournament staff to report infringements of the [official tournament support](/wiki/Tournaments/Official_support) expectations and eligibility. When a new report is sent in, all Tournament Committee members are automatically notified. Members will read the report and determine whether to pursue action based on the report's contents. Such action includes but is not limited to:
 
 - Marking the tournament for investigation pending further reports if this report alone is not sufficient to warrant further action.
 - Further investigation and context gathering.
@@ -70,7 +70,7 @@ Tournaments may be reported for violations of official support criteria via the 
 
 ### News posts
 
-*See also: [Official tournament support § News posts](/wiki/Tournaments/Official_support#requesting-in-game-banner-and-news-post-support#news-posts) and [News styling criteria](/wiki/News_styling_criteria)*
+*See also: [Official tournament support § News posts](/wiki/Tournaments/Official_support#news-posts) and [News styling criteria](/wiki/News_styling_criteria)*
 
 When an email requesting a news post for a tournament is received, the Tournament Committee will be notified. If the tournament satisfies all eligibility criteria for news posts and the consensus in discussion is positive after 48 hours, the Tournament Committee will forward the request to the news post team for approval.
 
