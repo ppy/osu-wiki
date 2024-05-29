@@ -1,7 +1,3 @@
----
-no_native_review: true
----
-
 # Historia del skinning
 
 Los elementos de las skins listados aquí ya no se encuentran en uso.
@@ -147,7 +143,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | Normal | (desconocido) | - |
+| Todas | ![No][false] | ![Sí][true] | Normal | Desconocido | - |
 
 Notas:
 
@@ -163,7 +159,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | Normal | (desconocido) | - |
+| Todas | ![No][false] | ![Sí][true] | Normal | Desconocido | - |
 
 Notas:
 
@@ -179,7 +175,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | Normal | (desconocido) | - |
+| Todas | ![No][false] | ![Sí][true] | Normal | Desconocido | - |
 
 Notas:
 
@@ -195,7 +191,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | Normal | (desconocido) | - |
+| Todas | ![No][false] | ![Sí][true] | Normal | Desconocido | - |
 
 Notas:
 
@@ -211,7 +207,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | Normal | (desconocido) | - |
+| Todas | ![No][false] | ![Sí][true] | Normal | Desconocido | - |
 
 Notas:
 
@@ -227,7 +223,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | Normal | (desconocido) | - |
+| Todas | ![No][false] | ![Sí][true] | Normal | Desconocido | - |
 
 Notas:
 
@@ -243,7 +239,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | Normal | (desconocido) | - |
+| Todas | ![No][false] | ![Sí][true] | Normal | Desconocido | - |
 
 Notas:
 
@@ -259,7 +255,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | Normal | (desconocido) | - |
+| Todas | ![No][false] | ![Sí][true] | Normal | Desconocido | - |
 
 Notas:
 
@@ -275,7 +271,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | Normal | (desconocido) | - |
+| Todas | ![No][false] | ![Sí][true] | Normal | Desconocido | - |
 
 Notas:
 
@@ -291,7 +287,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | Normal | (desconocido) | - |
+| Todas | ![No][false] | ![Sí][true] | Normal | Desconocido | - |
 
 Notas:
 
@@ -307,7 +303,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | Normal | (desconocido) | - |
+| Todas | ![No][false] | ![Sí][true] | Normal | Desconocido | - |
 
 Notas:
 
@@ -351,7 +347,7 @@ Notas:
 
 | Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Todas | ![No][false] | ![Sí][true] | Normal | (desconocido) | - |
+| Todas | ![No][false] | ![Sí][true] | Normal | Desconocido | - |
 
 Notas:
 
