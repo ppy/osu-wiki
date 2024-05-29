@@ -1,10 +1,10 @@
-# Báo cáo lạm dụng 
+# Báo cáo lạm dụng
 
 ## Tôi không biết có nên báo cáo điều này hay không
 
 Nếu bạn vẫn đang băn khoăn thì tốt nhất là nên báo cáo.
 
-Nếu bạn đang thấy khó chịu hay không thoải mái đến mức tìm đến trang này, hãy liên hệ ngay với chúng tôi tại [abuse@ppy.sh](mailto:abuse@ppy.sh) và cung cấp càng nhiều thông tin về vấn đề của bạn càng tốt. 
+Nếu bạn đang thấy khó chịu hay không thoải mái đến mức tìm đến trang này, hãy liên hệ ngay với chúng tôi tại [abuse@ppy.sh](mailto:abuse@ppy.sh) và cung cấp càng nhiều thông tin về vấn đề của bạn càng tốt.
 
 Chúng tôi không khoan nhượng đối với bất kỳ hình thức tán tỉnh, chú ý hoặc đề nghị tình dục không mong muốn trong cộng đồng này.
 
@@ -16,13 +16,13 @@ Mọi thứ bạn gửi tới [abuse@ppy.sh](mailto:abuse@ppy.sh) sẽ không đ
 
 Lướt xuống các mục bên dưới để biết những việc cần làm, tùy thuộc vào từng trường hợp những điều này xảy ra.
 
-## Trong phần trò chuyện (chat) của trò chơi  
+## Trong phần trò chuyện (chat) của trò chơi
 
 Chặn người dùng bằng cách nhấp chuột phải vào tên người dùng của họ và chọn `Ignore User`.
 
 Bạn cũng nên báo cáo họ ngay lập tức bằng cách nhấp vào nút `Report User` và điền vào ô thông tin.
 
-Bạn cũng có thể báo cáo họ bằng cách nhập `!report <person> <problem>`, trong đó `<person>` là tên người dùng gây rắc rối cho bạn và `<problem>` để ghi giải thích một cách ngắn gọn vấn đề của bạn. Nếu có khoảng trắng trong tên người dùng, vui lòng thay thế chúng bằng dấu gạch dưới (` _ `).
+Bạn cũng có thể báo cáo họ bằng cách nhập `!report <person> <problem>`, trong đó `<person>` là tên người dùng gây rắc rối cho bạn và `<problem>` để ghi giải thích một cách ngắn gọn vấn đề của bạn. Nếu có khoảng trắng trong tên người dùng, vui lòng thay thế chúng bằng dấu gạch dưới (` _`).
 
 Nếu bạn cảm thấy những nhận xét/đề nghị thực sự không phù hợp, khiếm nhã hoặc bạn là người dùng chưa đủ tuổi vị thành niên, vui lòng gửi email đến [abuse@ppy.sh](mailto:abuse@ppy.sh) với càng nhiều thông tin càng tốt.
 
@@ -40,7 +40,7 @@ Dán liên kết bài đăng trên diễn đàn chứa nội dung có vấn đ�
 
 Nếu bài đăng vẫn chưa được xóa trong khoảng thời gian hợp lý, vui lòng gửi email đến [abuse@ppy.sh](mailto:abuse@ppy.sh) chứa càng nhiều thông tin càng tốt.
 
-## Trên máy chủ Discord công khai có liên quan đến osu! 
+## Trên máy chủ Discord công khai có liên quan đến osu!
 
 Chặn ngay người dùng bằng cách nhấp chuột phải vào tên người dùng của họ và chọn `Block` xuất hiện trong danh sách thả xuống.
 
