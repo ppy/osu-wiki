@@ -2,7 +2,7 @@
 
 ***Aviso: Este artículo es una extensión de los [criterios de clasificación generales](/wiki/Ranking_criteria).***
 
-¡Este conjunto de **Los criterios de clasificación de Osu!** establecen [reglas y directrices](/wiki/Ranking_criteria#general-terms) que [osu!](/wiki/Game_mode/osu!) [beatmaps](/wiki/Beatmap) específicos deben seguir en orden para avanzar a través del [procedimiento de clasificación de beatmap](/wiki/Beatmap_ranking_procedure).
+¡Este conjunto de **Los criterios de clasificación de Osu!** establecen [reglas y directrices](/wiki/Ranking_criteria#general-terms) que (/wiki/Game_mode/osu!) [beatmaps](/wiki/Beatmap) específicos deben seguir en orden para avanzar a través del [procedimiento de clasificación de beatmap](/wiki/Beatmap_ranking_procedure).
 
 ## En general
 
