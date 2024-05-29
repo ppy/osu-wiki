@@ -89,6 +89,6 @@ We end this recap with a couple of interesting statistics to share:
 
 ---
 
-Thank you very much for tuning into this week's osu!catch World Cup recap. As always, if you are curious about the full tournament details, the [official wiki page](/wiki/Tournaments/TWC/2024) has you covered, and you can catch (pun intended) the streams live over on the [osulive](https://www.twitch.tv/osulive) Twitch channel!
+Thank you very much for tuning into this week's osu!catch World Cup recap. As always, if you are curious about the full tournament details, the [official wiki page](/wiki/Tournaments/TWC/2024) has you covered, and you can *catch* the streams live over on the [osulive](https://www.twitch.tv/osulive) Twitch channel!
 
 —ElSkeffe
