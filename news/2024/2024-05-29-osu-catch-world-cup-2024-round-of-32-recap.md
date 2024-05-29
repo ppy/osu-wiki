@@ -10,7 +10,7 @@ The osu!catch World Cup 2024 is taking off, and the Round of 32 did not disappoi
 
 As the qualifiers concluded, the top 32 teams that will battle it out for the title of osu!catch World Cup winner were announced. At the top of the pack is the big favourite to win it all this year, the United States, qualifying 1st for the second year in a row with 7 top scores out of 9 maps. Joining them on the qualification podium this year are Poland and Finland, both teams getting their best qualification result to date.
 
-Going further down the list, we see Estonia qualifying 32nd, just right above the cut-off for the first time in ten years. Iceland, the sole debutant of this year, defied all expectations and ended up 30th on the qualification list and are making their World Cup debut in the round of 32.
+Going further down the list, we see Estonia qualifying 32nd, just right above the cut-off for the first time in ten years. Iceland, the sole debutant of this year, defied all expectations and ended up 30th on the qualification list and are making their World Cup debut in the Round of 32.
 
 Let's get into the mappool, the results and the highlights of last week's matches.
 
@@ -57,7 +57,7 @@ Starting off the weekend early on Saturday, Sweden faced off against Australia. 
 
 Australia managed to convert their own pick on [NM3](https://osu.ppy.sh/beatmapsets/2184033#fruits/4615512) into a point and were also able to grab a first breakpoint against Sweden on their [HD1](https://osu.ppy.sh/beatmapsets/2184059#fruits/4615567) pick, V-Pop. To make matters worse, Australia were able to also win the next two maps [HR1](https://osu.ppy.sh/beatmapsets/2183882#fruits/4615165) and [DT1](https://osu.ppy.sh/beatmapsets/2184044#fruits/4615540) to already put themselves on match point. Sweden, the higher seed in this encounter, were with their backs against the wall but were able to grab a breakpoint of their own on Australia’s [DT2](https://osu.ppy.sh/beatmapsets/2184049#fruits/4615549) pick. However, they were not able to stop Australia on their second match point as they won [DT3](https://osu.ppy.sh/beatmapsets/2184054#fruits/4615557) with a double FC from [Beerus](https://osu.ppy.sh/users/5529199) and [TheTixTop](https://osu.ppy.sh/users/19236870), ending the match in 5-1 in favor of Australia.
 
-Sweden will drop down to the loser bracket where they will face Iceland in the round of 16, whilst Australia continue their run in the winner bracket and are preparing themselves for a matchup against Finland.
+Sweden will drop down to the loser bracket where they will face Iceland in the Round of 16, whilst Australia continue their run in the winner bracket and are preparing themselves for a matchup against Finland.
 
 ### ::{ flag=CN }:: China vs. ::{ flag=NL }:: the Netherlands
 
@@ -84,7 +84,7 @@ To close out the weekend on Sunday, seed 7 Argentina took on seed 26 Denmark. Ar
 To top this week's recap off, here are a couple of interesting statistics to share:
 
 - ::{ flag=RU }:: [KitsunIvy](https://osu.ppy.sh/users/7055384) and ::{ flag=AR }:: [VelperK](https://osu.ppy.sh/users/348467) both managed to full combo all 5 maps they played in this round, both having zero misses on their record for the bracket stage of this CWC. Other players to full combo all maps they played this weekend include ::{ flag=CL }:: [Lechu FAQ 35P](https://osu.ppy.sh/users/2872000) (3 maps), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) (2 maps), ::{ flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462), ::{ flag=PL }:: [trig0n](https://osu.ppy.sh/users/3704228) and ::{ flag=ID }:: [Chiya--](https://osu.ppy.sh/users/7934854) (1 map).
-- ::{ flag=US }:: [Lexii](https://osu.ppy.sh/users/7226149) managed to top the performance leaderboard on both the qualifiers and the round of 32.
+- ::{ flag=US }:: [Lexii](https://osu.ppy.sh/users/7226149) managed to top the performance leaderboard on both the qualifiers and the Round of 32.
 - We saw a couple of triple FCs over the weekend, such as Chile on [HD1](https://osu.ppy.sh/beatmapsets/2184059#fruits/4615567) and Netherlands on [HR1](https://osu.ppy.sh/beatmapsets/2183882#fruits/4615165), however team Argentina was the sole team to achieve a triple SS this weekend, achieving this incredible feat on [NM2](https://osu.ppy.sh/beatmapsets/2184034#fruits/4615516).
 
 ---
