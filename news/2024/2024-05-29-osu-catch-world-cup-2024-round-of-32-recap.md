@@ -85,7 +85,7 @@ We end this recap with a couple of interesting statistics to share:
 
 - ::{ flag=RU }:: [KitsunIvy](https://osu.ppy.sh/users/7055384) and ::{ flag=AR }:: [VelperK](https://osu.ppy.sh/users/348467) both managed to full combo all 5 maps they played in this round, both having zero misses on their record for the bracket stage of this CWC. Other players to full combo all maps they played this weekend include ::{ flag=CL }:: [Lechu FAQ 35P](https://osu.ppy.sh/users/2872000) (3 maps), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) (2 maps), ::{ flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462), ::{ flag=PL }:: [trig0n](https://osu.ppy.sh/users/3704228) and ::{ flag=ID }:: [Chiya--](https://osu.ppy.sh/users/7934854) (1 map).
 - ::{ flag=US }:: [Lexii](https://osu.ppy.sh/users/7226149) managed to top the performance leaderboard on both the qualifiers and the round of 32.
-- We saw a couple of triple FCs over the weekend, such as Chile on HD1 and Netherlands on HR1, however team Argentina was the sole team to note a triple SS this weekend, achieving this incredible feat on [NM2](https://osu.ppy.sh/beatmapsets/2184034#fruits/4615516).
+- We saw a couple of triple FCs over the weekend, such as Chile on [HD1](https://osu.ppy.sh/beatmapsets/2184059#fruits/4615567) and Netherlands on [HR1](https://osu.ppy.sh/beatmapsets/2183882#fruits/4615165), however team Argentina was the sole team to achieve a triple SS this weekend, achieving this incredible feat on [NM2](https://osu.ppy.sh/beatmapsets/2184034#fruits/4615516).
 
 ---
 
