@@ -4,7 +4,7 @@ title: "osu!catch World Cup 2024: Round of 32 Recap"
 date: 2024-05-29 12:00:00 +0000
 ---
 
-Welcome to the Round of 32 recap of the osu!catch 2024 World Cup! 
+The osu!catch World Cup 2024 is taking off, and the Round of 32 did not disappoint! Players from around the world brought their A-game, delivering incredible performances and close showdowns that kept viewers at the edge of their seats. Welcome to the recap of the round of 32!
 
 ![](/wiki/Tournaments/CWC/2024/img/cwc2024-banner.jpg)
 
