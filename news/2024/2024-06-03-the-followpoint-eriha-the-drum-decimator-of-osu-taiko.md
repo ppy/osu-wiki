@@ -10,7 +10,7 @@ Read up on the latest interview with [Eriha](https://osu.ppy.sh/users/4158549), 
 
 Welcome or welcome back to The Followpoint, a "community spotlight" series where we interview various players and community figures to get to know them better!
 
-We are once again back with a third interview of a special set of players, namely the very top of each game mode, this time featuring [Eriha](https://osu.ppy.sh/users/16320311), osu!taiko rank #4 player and [TWC2024](/wiki/Tournaments/TWC/2024/) champion!
+We are once again back with a third interview of a special set of players, namely the very top of each game mode, this time featuring [Eriha](https://osu.ppy.sh/users/16320311), osu!taiko rank #4 player and [TWC2024](/wiki/Tournaments/TWC/2024) champion!
 
 If you find the these insights from top players interesting, you might also want to check out [mrekk](https://osu.ppy.sh/home/news/2024-05-06-the-followpoint-mrekk-the-osu-standard-prodigy) and [YesMyDarknesss](https://osu.ppy.sh/home/news/2024-05-28-the-followpoint-yesmydarknesss-the-master-of-osu-catch) interviews!
 
