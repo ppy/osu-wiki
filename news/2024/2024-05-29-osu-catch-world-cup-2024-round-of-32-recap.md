@@ -20,7 +20,7 @@ Let's get into the mappool, the results and the highlights of last week's matche
 
 The Round of 32 mappool is a clear step down in difficulty compared to the difficulty of the qualifier mappool. This makes it more comfortable to play for all teams and provides more exciting points between teams that are closely matched.
 
-The most picked map in the pool this weekend is Ironical Parade, the [HR1](https://osu.ppy.sh/beatmapsets/2183882#fruits/4615165) mapped by wwwww and Yoshi_green. The fairly conventional mapping with a focus on various stream patterns provided for a pleasant experience for both players and viewers. Our fruit catchers aren't very fond of the no-mod bracket as both [NM1](https://osu.ppy.sh/beatmapsets/2184377#fruits/4617105) and [NM4](https://osu.ppy.sh/beatmapsets/2184055#osu/4615558) only saw 3 appearances over all matches.
+The most picked map in the pool this weekend is Ironical Parade, the [HR1](https://osu.ppy.sh/beatmapsets/2183882#fruits/4615165) mapped by [wwwww](https://osu.ppy.sh/users/8434466) and [Yoshi_green](https://osu.ppy.sh/users/1035891). The fairly conventional mapping with a focus on various stream patterns provided for a pleasant experience for both players and viewers. Our fruit catchers aren't very fond of the no-mod bracket as both [NM1](https://osu.ppy.sh/beatmapsets/2184377#fruits/4617105) and [NM4](https://osu.ppy.sh/beatmapsets/2184055#osu/4615558) only saw 3 appearances over all matches.
 
 ## Round of 32 results
 
