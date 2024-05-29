@@ -1,19 +1,19 @@
-#osu! criterios de clasificación
+#criterios de clasificación de osu!
 
-***Aviso: Este documento es una extensión de los [criterios generales de clasificación](/wiki/Ranking_criteria).***
+***Aviso: Este artículo es una extensión de los [criterios de clasificación generales](/wiki/Ranking_criteria).***
 
-¡Este conjunto de **osu! Los criterios de clasificación** establecen [reglas y directrices](/wiki/Ranking_criteria#general-terms) que [osu!](/wiki/Game_mode/osu!) [beatmaps](/wiki/Beatmap) específicos deben seguir en orden para avanzar a través del [procedimiento de clasificación de beatmap](/wiki/Beatmap_ranking_procedure).
+¡Este conjunto de **Los criterios de clasificación de Osu!** establecen [reglas y directrices](/wiki/Ranking_criteria#general-terms) que [osu!](/wiki/Game_mode/osu!) [beatmaps](/wiki/Beatmap) específicos deben seguir en orden para avanzar a través del [procedimiento de clasificación de beatmap](/wiki/Beatmap_ranking_procedure).
 
 ## En general
 
-¡Las reglas y pautas generales se aplican a todo tipo de osu! dificultad. Las reglas y pautas relacionadas con el ritmo se aplican a mapas de ritmos de aproximadamente 180 BPM con compases de 4/4. Si tu canción es drásticamente más rápida o más lenta, algunas variables pueden ser diferentes, como se detalla en [Escalar BPM según los criterios de clasificación](/wiki/Ranking_criteria/Scaling_BPM).
+¡Las reglas y pautas generales se aplican a todo tipo de dificultades de osu. Las reglas y pautas relacionadas con el ritmo se aplican a mapas de ritmos de aproximadamente 180 BPM con compases de 4/4. Si tu canción es drásticamente más rápida o más lenta, algunas variables pueden ser diferentes, como se detalla en [Escalar BPM según los criterios de clasificación](/wiki/Ranking_criteria/Scaling_BPM).
 
 ### General
 
 #### Normas
 
 - **Los objetos golpeados nunca deben estar fuera de la pantalla en relaciones de aspecto 4:3.** Los objetos golpeados que estén incluso parcialmente fuera de la pantalla pueden crear dificultades de lectura. Pruebe reproducir su mapa de ritmos para confirmar esto.
-- **Los hilanderos deben ser lo suficientemente largos para que Auto alcance una puntuación de bonificación de 1000.** Los hilanderos más cortos no permiten un tiempo de giro adecuado.
+- **Las Ruletas deben ser lo suficientemente largas para que Auto alcance una puntuación de bonificación de 1000.** Las ruletas más cortas no permiten un tiempo de giro adecuado.
 - **Cada mapa de ritmo debe usar al menos dos colores combinados personalizados diferentes a menos que se fuerce el aspecto predeterminado.** Los colores combinados no deben mezclarse con el fondo/guión gráfico/vídeo del mapa de ritmo en ningún caso. Esto es para que los objetos golpeados siempre sean visibles para el jugador y los colores combinados de la máscara personalizada no se mezclen con el fondo accidentalmente.
 - **Todas las partes de los objetos en las que se hace clic activamente deben tener al menos un [hitsound](/wiki/Beatmapping/Hitsound) audible que no se mezcle con la canción.** De lo contrario, los jugadores no reciben suficiente respuesta. No se permite el uso de [keysounds](/wiki/Beatmapping/Hitsound#keysound) como hits normales sin otros sonidos de hits adicionales distintos, por ejemplo.
 - **Las dificultades deben convertirse a otros modos de juego sin alterar la calificación de estrellas/puntos de rendimiento.** En ciertos casos, un archivo `.osu` puede tener un formato incorrecto, lo que hace que las dificultades convertidas muestren incorrectamente la calificación de estrellas y recompensen puntos de rendimiento inexactos.
@@ -73,7 +73,10 @@ Las reglas y pautas específicas de dificultad solo se aplican al nivel de dific
 #### Pautas
 
 - **Se debe utilizar [igualdad de tiempo-distancia](/wiki/Beatmapping/Mapping_techniques/Time-distance_equality).** Las variaciones son aceptables si son claramente diferentes del espaciado utilizado para diferentes ritmos. Cuando los objetos golpeados están separados por más de 2 tiempos y tienen un espacio relativamente alto en el campo de juego, la igualdad de tiempo y distancia no necesita ser tan precisa.
-- **Cuando se utiliza [ajuste de distancia](/wiki/Client/Beatmap_editor/Distance_snap), intente mantenerlo entre 0,8x y 1,2x.** Los valores demasiado altos o bajos pueden marcar la diferencia entre [velocidad del control deslizante]( /wiki/Gameplay/Hit_object/Slider/Slider_velocity) y el espaciado es contrario a la intuición. Se puede utilizar una distancia mayor para evitar la [superposición] (/wiki/Beatmapping/Mapping_techniques/Overlap), pero la velocidad del control deslizante debe aumentarse si haces esto con frecuencia.
+- **Cuando se utiliza [ajuste de distancia](/wiki/Client/Beatmap_editor/Distance_snap), intente mantenerlo entre 0,8x y 1,2x.** Los valores demasiado altos o bajos pueden marcar la diferencia entre [velocidad del control deslizante]( /wiki/Gameplay/Hit_object/Slider/Slider_velocity) y el espaciado es contrario a la intuición. Se puede utilizar una distancia mayor para evitar la
+
+[superposición] (/wiki/Beatmapping/Mapping_techniques/Overlap), pero la velocidad del control deslizante debe aumentarse si haces esto con frecuencia.
+
 - **Evita [velocidad del control deslizante](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) superior a 1.3.**
 - **La densidad de notas debe consistir principalmente en ritmos 1/1, 2/1 o más lentos.**
 - **Evite el uso de controles deslizantes de menos de 1/2 tiempo.** Son demasiado rápidos para que los nuevos jugadores los comprendan.
@@ -106,7 +109,9 @@ Las reglas y pautas específicas de dificultad solo se aplican al nivel de dific
 #### Pautas
 
 - **Se debe utilizar [igualdad de tiempo-distancia](/wiki/Beatmapping/Mapping_techniques/Time-distance_equality).** Las variaciones son aceptables si son claramente diferentes del espaciado utilizado para diferentes ritmos. Cuando los objetos golpeados están separados por más de 1 tiempo y tienen un espacio relativamente alto en el campo de juego, la igualdad de tiempo y distancia no necesita ser tan precisa.
-- **Cuando se utiliza [ajuste de distancia](/wiki/Client/Beatmap_editor/Distance_snap), intente mantenerlo entre 0,8x y 1,3x.** Los valores demasiado altos o bajos pueden marcar la diferencia entre [velocidad del control deslizante]( /wiki/Gameplay/Hit_object/Slider/Slider_velocity) y el espaciado es contrario a la intuición. Se puede utilizar una distancia mayor para evitar la [superposición] (/wiki/Beatmapping/Mapping_techniques/Overlap), pero la velocidad del control deslizante debe aumentarse si haces esto con frecuencia.
+
+- **Cuando se utiliza [ajuste de distancia](/wiki/Client/Beatmap_editor/Distance_snap), intente mantenerlo entre 0,8x y 1,3x.** Los valores demasiado altos o bajos pueden marcar la diferencia entre [velocidad del control deslizante](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) y el espaciado es contrario a la intuición. Se puede utilizar una distancia mayor para evitar la [superposición](/wiki/Beatmapping/Mapping_techniques/Overlap), pero la velocidad del control deslizante debe aumentarse si haces esto con frecuencia.
+
 - **La densidad de notas debe consistir principalmente en ritmos 1/1, 1/2 ocasionales o ritmos más lentos.**
 - **Evite círculos [superpuestos](/wiki/Beatmapping/Mapping_techniques/Overlap), cabezas y colas de controles deslizantes.** Estos pueden resultar confusos para los nuevos jugadores. Las superposiciones de 1/2 debido al [ajuste de distancia](/wiki/Client/Beatmap_editor/Distance_snap) son una excepción.
 - **Evita largas cadenas de objetos golpeados con 1/2 espacios.** Demasiados objetos golpeados consecutivos [superpuestos](/wiki/Beatmapping/Mapping_techniques/Overlap) pueden resultar confusos para los nuevos jugadores.
@@ -141,6 +146,7 @@ Si se requiere una dificultad Normal y se utiliza como la *dificultad más baja*
 #### Normas
 
 - **Los objetos separados por 1/2 tiempo o menos no deben [superponerse] completamente (/wiki/Beatmapping/Mapping_techniques/Overlap).** Las cabezas o colas de los controles deslizantes completamente superpuestas por las colas de los controles deslizantes están exentas, siempre que sus cuerpos deslizantes estén visible.
+  
 - **No utilice [flechas invertidas del control deslizante que no sigan la ruta visible del control deslizante](/wiki/Ranking_criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** Estas tergiversan la dirección de un control deslizante.
 - **Cada control deslizante debe tener una ruta de movimiento clara y visible a seguir de principio a fin.** No se pueden utilizar controles deslizantes que se superpongan sin bordes deslizantes sencillos y controles deslizantes cuyas secciones individuales sean ilegibles. La posición final de un control deslizante debe ser clara bajo el supuesto de que un jugador tiene una máscara que hace que los círculos finales del control deslizante sean completamente transparentes.
 - Se permiten controles deslizantes ambiguos con círculos de seguimiento que cubren todo el recorrido del control deslizante, suponiendo que los bordes del control deslizante sean sencillos.
@@ -173,11 +179,12 @@ Si se requiere una dificultad Normal y se utiliza como la *dificultad más baja*
 #### Pautas
 
 - **Los objetos separados por 1/4 de tiempo o menos no deben [superponerse](/wiki/Beatmapping/Mapping_techniques/Overlap),** especialmente en dificultades más simples de Insane.
-- **Evite [flechas invertidas del control deslizante que no sigan la ruta visible del control deslizante](/wiki/Ranking_criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** Estas tergiversan la dirección de un control deslizante.
-- **Evita los [saltos](/wiki/Beatmap/Pattern/osu!/Jump) y las [transmisiones](/wiki/Beatmap/Pattern/osu!/Stream) cuyos círculos no se [superponen](/wiki/ Beatmapping/Mapping_techniques/Overlap).** Estas son técnicas de beatmapping reservadas principalmente para dificultades de nivel Experto.
-- **Se desaconsejan los sonidos de golpe del control deslizante.** Si desea usarlos, asegúrese de que su volumen esté equilibrado (es decir, notablemente más silencioso que los sonidos de golpe normales). Un tictac muy fuerte, especialmente cuando se usa sólo una o dos veces, puede ser extremadamente discordante.
-- **Evite cubrir completamente las flechas de retroceso del control deslizante con círculos, cabezas o colas de control deslizante dentro de 1/2 tiempo de la flecha de retroceso que se alcanza.** Esto les da a los jugadores tiempo suficiente para reconocer la flecha de retroceso.
-- **Evite que los cuerpos de los controles deslizantes se superpongan completamente (/wiki/Beatmapping/Mapping_techniques/Overlap) dentro de 1/2 tiempo entre sí.** Hacerlo puede causar que los controles deslizantes se interpreten erróneamente como un círculo debido a que se oscurece el cuerpo del control deslizante.
+- **Evite [flechas invertidas del control deslizante que no sigan la ruta visible del Slider](/wiki/Ranking_criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** Estas tergiversan la dirección de un control deslizante.
+- **Evita los [saltos](/wiki/Beatmap/Pattern/osu!/Jump) y los [Streams](/wiki/Beatmap/Pattern/osu!/Stream) cuyos círculos no se [superponen](/wiki/ Beatmapping/Mapping_techniques/Overlap).** Estas son técnicas de beatmapping reservadas principalmente para dificultades de nivel Experto.
+- **Se desaconsejan los sonidos de golpe del Slider.** Si desea usarlos, asegúrese de que su volumen esté equilibrado (es decir, notablemente más silencioso que los sonidos de golpe normales). Un tictac muy fuerte, especialmente cuando se usa sólo una o dos veces, puede ser extremadamente discordante.
+  
+- **Evite cubrir completamente las flechas de retroceso del Slider con círculos, cabezas o colas de control deslizante dentro de 1/2 tiempo de la flecha de retroceso que se alcanza.** Esto les da a los jugadores tiempo suficiente para reconocer la flecha de retroceso.
+- **Evite que los cuerpos de los Sliders se superpongan completamente (/wiki/Beatmapping/Mapping_techniques/Overlap) dentro de 1/2 tiempo entre sí.** Hacerlo puede causar que los Sliders se interpreten erróneamente como un círculo debido a que se oscurece el cuerpo del control deslizante.
 
 #### Dificultad para establecer pautas
 
@@ -200,6 +207,6 @@ Si se requiere una dificultad Normal y se utiliza como la *dificultad más baja*
 
 #### Dificultad para establecer pautas
 
-- [Índice de aproximación](/wiki/Beatmap/Approach_rate) / [Dificultad general](/wiki/Beatmap/Overall_difficulty) debe ser 8 o superior.
+- [Tasa de aproximación](/wiki/Beatmap/Approach_rate) / [Dificultad general](/wiki/Beatmap/Overall_difficulty) debe ser 8 o superior.
 - [Tasa de drenaje de HP](/wiki/Beatmap/HP_drain_rate) debe ser 5 o superior.
 - [Tamaño del círculo](/wiki/Beatmap/Circle_size) debe ser 7 o menos.
