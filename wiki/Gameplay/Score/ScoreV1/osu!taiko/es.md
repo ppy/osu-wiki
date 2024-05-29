@@ -2,7 +2,7 @@
 
 *Véase también: [Sistema de juicio de osu!taiko](/wiki/Gameplay/Judgement/osu!taiko)*
 
-Cada GREAT (excluyendo el bono de 1,2x del Kiai Time) vale `300 + RoundDown(Combo / 10)` multiplicado por `n` hasta un máximo de `300+10n` puntos, en los cuales `n` depende del nivel de dificultad de la canción.
+Cada GREAT (excluyendo la bonificación de 1,2x del Kiai Time) vale `300 + RoundDown(Combo / 10)` multiplicado por `n` hasta un máximo de `300+10n` puntos, en los cuales `n` depende del nivel de dificultad de la canción.
 
 Cada *GOOD* otorga la mitad de la puntuación que un *GREAT*, mientras que la puntuación de *MISS/BAD* es cero.
 
@@ -13,7 +13,7 @@ Para las notas largas amarillas, se otorgan 300 por golpe en las pequeñas, mien
 Para las notas shaker, cada golpe otorga 300 y terminar el shaker otorga el doble de puntuación que un GREAT del combo actual.
 
 Un valor típico de `n` (dificultades de 4,5 a 5 estrellas en el antiguo sistema de calificación de 5 estrellas) es 80, lo que da una puntuación máxima de 1100/2200 con 100 de combo y combos posteriores.
-Para dificultades de 4 a 4,5 estrellas, `n` es igual a 64, en el que la puntuación máxima por golpe es 940/1880.
+Para las dificultades de 4 a 4,5 estrellas, `n` es igual a 64, en el que la puntuación máxima por golpe es 940/1880.
 En el caso más difícil, `n` es igual a 96, en el que la puntuación máxima por golpe es 1260/2520.
 Hay valores más bajos de `n` para dificultades aún más fáciles.
 
@@ -21,11 +21,11 @@ A diferencia de [osu!](/wiki/Game_mode/osu!)/[osu!catch](/wiki/Game_mode/osu!cat
 En cambio, una puntuación constante de `n` (explicada anteriormente) se reduce por cada fallo si cada fallo está separado por más de 100 de combo.
 Con la existencia de un shaker y notas grandes, la pérdida de la puntuación sería mayor.
 
-Por ejemplo, en una dificultad típica (80), romper un combo en medio de una canción sin tener en cuenta las notas grandes y los spinners, resultaría en una pérdida máxima de 44 000 puntos (para que el combo vuelva a subir a 100, toda la puntuación conseguida debe ser un valor GREAT).
+Por ejemplo, en una dificultad típica (80), romper un combo en medio de una canción sin tener en cuenta las notas grandes y los spinners, resultaría en una pérdida máxima de 44 000 puntos (para que el combo vuelva a subir a 100, toda la puntuación conseguida debe ser un valor GREAT).
 
 Además, a diferencia de los otros modos de juego, el Kiai Time tiene un efecto en las puntuaciones porque se refiere al *«Go-Go Time»* en *Taiko no Tatsujin*.
-Mientras el Kiai Time está activo, el tambor en la esquina superior izquierda cambia de animación, el campo de juego tiene un fondo degradado y el área de golpes muestra un gráfico de fuego a su alrededor.
-Además, todas las notas obtienen un multiplicador de puntuación de 1,2x, incluidas las notas amarillas largas (redoble de tambores), excepto los golpes en un shaker (el golpe final aún se multiplica).
+Mientras el Kiai Time está activo, el tambor en la esquina superior izquierda cambia de animación, el campo de juego tiene un fondo degradado y el área de los golpes muestra un gráfico de fuego a su alrededor.
+Además, todas las notas obtienen un multiplicador de puntuación de 1,2x, incluidas las notas amarillas largas (redobles de tambor), excepto los golpes en un shaker (el golpe final aún se multiplica).
 
 En resumen: `Puntuación = {Valor de la puntuación + [min(RoundDown(Combo / 10), 10) * RoundDown(multiplicador de puntuación de taiko * multiplicador de mods en bruto)]} * Kiai Time`
 
