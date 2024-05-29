@@ -10,7 +10,7 @@ Welcome to the Round of 32 recap of the osu!catch 2024 World Cup!
 
 As the qualifiers concluded, the top 32 teams that will battle it out for the title of osu!catch World Cup winner were announced. At the top of the pack is the big favourite to win it all this year, the United States, qualifying 1st for the second year in a row with 7 top scores out of 9 maps. Joining them on the qualification podium this year are Poland and Finland, both teams getting their best qualification result to date.
 
-Going further down the list, we see Estonia qualifying 32nd just right above the cut off for the first time in ten years. Iceland, the sole debutant of this year, defied all expectations and ended up 30th on the qualification list and are making their world cup debut in the round of 32.
+Going further down the list, we see Estonia qualifying 32nd, just right above the cut-off for the first time in ten years. Iceland, the sole debutant of this year, defied all expectations and ended up 30th on the qualification list and are making their World Cup debut in the round of 32.
 
 Let's get into the mappool, the results and the highlights of last week's matches.
 
