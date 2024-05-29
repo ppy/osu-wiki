@@ -81,7 +81,7 @@ To close out the weekend on Sunday, seed 7 Argentina took on seed 26 Denmark. Ar
 
 ## Round statistics
 
-We end this recap with a couple of interesting statistics to share:
+To top this week's recap off, here are a couple of interesting statistics to share:
 
 - ::{ flag=RU }:: [KitsunIvy](https://osu.ppy.sh/users/7055384) and ::{ flag=AR }:: [VelperK](https://osu.ppy.sh/users/348467) both managed to full combo all 5 maps they played in this round, both having zero misses on their record for the bracket stage of this CWC. Other players to full combo all maps they played this weekend include ::{ flag=CL }:: [Lechu FAQ 35P](https://osu.ppy.sh/users/2872000) (3 maps), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) (2 maps), ::{ flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462), ::{ flag=PL }:: [trig0n](https://osu.ppy.sh/users/3704228) and ::{ flag=ID }:: [Chiya--](https://osu.ppy.sh/users/7934854) (1 map).
 - ::{ flag=US }:: [Lexii](https://osu.ppy.sh/users/7226149) managed to top the performance leaderboard on both the qualifiers and the round of 32.
