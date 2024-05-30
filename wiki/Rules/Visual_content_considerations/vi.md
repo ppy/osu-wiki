@@ -1,11 +1,11 @@
 # Lưu ý về nội dung trực quan
 
-Theo [Quy tắc cộng đồng #5](/wiki/Rules#community-rules), tất cả nội dung trực quan được gửi hoặc tải lên osu! phải được cho là phù hợp với mọi lứa tuổi.
+Theo [Nội quy cộng đồng #5](/wiki/Rules), tất cả nội dung trực quan được gửi hoặc tải lên osu! phải được cho là phù hợp với mọi lứa tuổi.
 
 điều này bao gồm:
 
 - Các beatmap đã gửi và ngay cả **bản đồ được gắn thẻ là [khiêu dâm](/wiki/Rules/Explicit_content)**
-- chi tiết hồ sơ (ví dụ:avatar,ảnh bìa,v.v)
+- chi tiết hồ sơ (ví dụ:avatar, ảnh bìa,v.v)
 - tệp đính kèm bất kỳ hoặc các liên kết nào khác như bài đăng trên diễn đàn, nhận xét, bài đăng thảo luận beatmap,...
 
 Để giữ cho mọi thứ trong sạch nhất có thể, Quy tắc cộng đồng số 5 áp dụng cho nội dung có thể được coi là "có vấn đề" một cách hợp lý.
