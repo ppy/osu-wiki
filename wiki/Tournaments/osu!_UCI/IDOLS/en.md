@@ -289,7 +289,7 @@ IDOLS will be run by various osu! community members at UCI or visiting for the e
 - Tiebreaker
   1. **[Zekk - SUMMER (Shima Rin) [Ichigo]](https://osu.ppy.sh/beatmapsets/1159269#mania/2419040)**
 
-#### Semifinals
+#### Quarterfinals and Semifinals
 
 - Rice
   1. [Cardboard Box - Nest (Guilhermeziat) [Yolk 1.1]](https://osu.ppy.sh/beatmapsets/576883#mania/2433644)
