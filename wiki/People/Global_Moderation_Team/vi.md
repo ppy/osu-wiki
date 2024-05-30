@@ -80,7 +80,3 @@ Khi một Kiểm duyệt viên quyết định rời khỏi đội ngũ, họ c�
 | :-- | :-- | :-- |
 
 ## Ghi chú
-
-[^task-Azer]: Mặc dù không thực sự là thành viên của GMT, Azer nằm trong nhóm này vì cần có quyền truy cập của GMT với tư cách là người tổ chức World Cup.
-[^task-mangomizer]: Mặc dù không thực sự là thành viên của GMT, mangomizer nằm trong nhóm này vì cần có quyền truy cập của GMT vào các diễn đàn nội bộ.
-
