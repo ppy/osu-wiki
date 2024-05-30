@@ -1,4 +1,5 @@
 # Lưu ý về nội dung trực quan
+
 Theo [Quy tắc cộng đồng số 5](/wiki/Rules#community-rules), tất cả nội dung trực quan được gửi hoặc tải lên osu! phải được cho là phù hợp với mọi lứa tuổi.
 
 điều này bao gồm:
@@ -33,6 +34,7 @@ Không được phép sử dụng hình ảnh hoặc có chứa yếu tố nhữ
 Ngoài ra, hình ảnh hoặc yếu tố hình ảnh có thể được đánh giá không hợp lý nếu có chất lượng kém (về chất lượng hình ảnh khách quan hoặc thành phần/sáng tạo chủ quan) cũng có thể bị ngăn không cho sử dụng trong beatmap trong trường hợp chúng không liên quan trực tiếp đến bất kỳ chủ đề nào. 
 
 ## Trường hợp ngoại lệ 
+
 Hình ảnh hoặc các yếu tố chứa các ví dụ sau đây có thể được coi là tạm chấp nhận được:
 
 - Mô tả bạo lực ở mức độ nhẹ đến vừa phải (lượng máu nhỏ, không nghiêm trọng hoặc vết thương bề ngoài)
