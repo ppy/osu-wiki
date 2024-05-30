@@ -436,7 +436,7 @@ See the [Qualifiers results Google sheet](https://docs.google.com/spreadsheets/d
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [MagiScorch](https://osu.ppy.sh/users/14241467) | **6** | 3 | [-mint-](https://osu.ppy.sh/users/8976576) | https://osu.ppy.sh/community/matches/114031091 |
+| [MagiScorch](https://osu.ppy.sh/users/14241467) | **6** | 3 | [-mint-](https://osu.ppy.sh/users/8976576) | [#1](https://osu.ppy.sh/community/matches/114031091) |
 
 #### Finals
 
@@ -444,13 +444,13 @@ See the [Qualifiers results Google sheet](https://docs.google.com/spreadsheets/d
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [cow](https://osu.ppy.sh/users/10629473) | 0 | **5** | [MagiScorch](https://osu.ppy.sh/users/14241467) | https://osu.ppy.sh/community/matches/114030140 |
+| [cow](https://osu.ppy.sh/users/10629473) | 0 | **5** | [MagiScorch](https://osu.ppy.sh/users/14241467) | [#1](https://osu.ppy.sh/community/matches/114030140) |
 
 ##### Losers (Grand Finals pool)
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [cow](https://osu.ppy.sh/users/10629473) | 5 | **6** | [-mint-](https://osu.ppy.sh/users/8976576) | https://osu.ppy.sh/community/matches/114030547 |
+| [cow](https://osu.ppy.sh/users/10629473) | 5 | **6** | [-mint-](https://osu.ppy.sh/users/8976576) | [#1](https://osu.ppy.sh/community/matches/114030547) |
 
 #### Semifinals
 
@@ -458,16 +458,16 @@ See the [Qualifiers results Google sheet](https://docs.google.com/spreadsheets/d
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [cow](https://osu.ppy.sh/users/10629473) | **4** | 0 | [fogershot](https://osu.ppy.sh/users/12645717) | https://osu.ppy.sh/community/matches/114028746 |
-| [-mint-](https://osu.ppy.sh/users/8976576) | 2 | **4** | [MagiScorch](https://osu.ppy.sh/users/14241467) | https://osu.ppy.sh/community/matches/114028747 |
+| [cow](https://osu.ppy.sh/users/10629473) | **4** | 0 | [fogershot](https://osu.ppy.sh/users/12645717) | [#1](https://osu.ppy.sh/community/matches/114028746) |
+| [-mint-](https://osu.ppy.sh/users/8976576) | 2 | **4** | [MagiScorch](https://osu.ppy.sh/users/14241467) | [#1](https://osu.ppy.sh/community/matches/114028747) |
 
 ##### Losers (Finals pool)
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [-mint-](https://osu.ppy.sh/users/8976576) | **5** | 0 | [ketzu](https://osu.ppy.sh/users/13557639) | https://osu.ppy.sh/community/matches/114029310 |
+| [-mint-](https://osu.ppy.sh/users/8976576) | **5** | 0 | [ketzu](https://osu.ppy.sh/users/13557639) | [#1](https://osu.ppy.sh/community/matches/114029310) |
 | [fogershot](https://osu.ppy.sh/users/12645717) | **5** | -1 | [yodevdev](https://osu.ppy.sh/users/27123258) | *forfeit* |
-| [-mint-](https://osu.ppy.sh/users/8976576) | **5** | 0 | [fogershot](https://osu.ppy.sh/users/12645717) | https://osu.ppy.sh/community/matches/114029758 |
+| [-mint-](https://osu.ppy.sh/users/8976576) | **5** | 0 | [fogershot](https://osu.ppy.sh/users/12645717) | [#1](https://osu.ppy.sh/community/matches/114029758) |
 
 #### Quarterfinals winners
 
@@ -475,8 +475,8 @@ See the [Qualifiers results Google sheet](https://docs.google.com/spreadsheets/d
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [ketzu](https://osu.ppy.sh/users/13557639) | 0 | **4** | [fogershot](https://osu.ppy.sh/users/12645717) | https://osu.ppy.sh/community/matches/114027695 |
-| [-mint-](https://osu.ppy.sh/users/8976576) | **4** | 0 | [yodevdev](https://osu.ppy.sh/users/27123258) | https://osu.ppy.sh/community/matches/114027696 |
+| [ketzu](https://osu.ppy.sh/users/13557639) | 0 | **4** | [fogershot](https://osu.ppy.sh/users/12645717) | [#1](https://osu.ppy.sh/community/matches/114027695) |
+| [-mint-](https://osu.ppy.sh/users/8976576) | **4** | 0 | [yodevdev](https://osu.ppy.sh/users/27123258) | [#1](https://osu.ppy.sh/community/matches/114027696) |
 
 ## Ruleset
 
