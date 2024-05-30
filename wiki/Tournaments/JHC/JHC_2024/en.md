@@ -341,13 +341,13 @@ Saturday, 9 March 2024:
 
 | # | Team Red |  |  | Team Blue | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| 77 | GangWonDuo | **7** | 5 | hsod | [#1](https://osu.ppy.sh/community/matches/113001768) | [#1](https://www.bilibili.com/video/BV12Z42187nP/) |
+| 77 | **GangWonDuo** | **7** | 5 | hsod | [#1](https://osu.ppy.sh/community/matches/113001768) | [#1](https://www.bilibili.com/video/BV12Z42187nP/) |
 
 Sunday, 10 March 2024:
 
 | # | Team Red |  |  | Team Blue | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| 78 | wehehe | **7** | 0 | GangWonDuo | [#1](https://osu.ppy.sh/community/matches/113019292) | [#1](https://www.bilibili.com/video/BV1Nr421p76T/) |
+| 78 | **wehehe** | **7** | 0 | GangWonDuo | [#1](https://osu.ppy.sh/community/matches/113019292) | [#1](https://www.bilibili.com/video/BV1Nr421p76T/) |
 
 ### Finals
 
@@ -355,15 +355,15 @@ Saturday, 2 March 2024:
 
 | # | Team Red |  |  | Team Blue | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| 74 | SV Player | 0 | **6** | hsod | [#1](https://osu.ppy.sh/community/matches/112902834) | [#1](https://www.bilibili.com/video/BV1WH4y1j76j/) |
-| 76 | GangWonDuo | 3 | **6** | wehehe | [#1](https://osu.ppy.sh/community/matches/112902144) | [#1](https://www.bilibili.com/video/BV1zj421U7hi/) |
+| 74 | SV Player | 0 | **6** | **hsod** | [#1](https://osu.ppy.sh/community/matches/112902834) | [#1](https://www.bilibili.com/video/BV1WH4y1j76j/) |
+| 76 | GangWonDuo | 3 | **6** | **wehehe** | [#1](https://osu.ppy.sh/community/matches/112902144) | [#1](https://www.bilibili.com/video/BV1zj421U7hi/) |
 
 Sunday, 3 March 2024:
 
 | # | Team Red |  |  | Team Blue | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| 73 | garfield exterminators if fortnite | **6** | FF | hawk | [#1](https://osu.ppy.sh/community/matches/112914432) | [#1](https://www.bilibili.com/video/BV1dz421D79L/) |
-| 75 | garfield exterminators if fortnite | 1 | **6** | hsod | [#1](https://osu.ppy.sh/community/matches/112923823) | [#1](https://www.bilibili.com/video/BV1Rx421y7Wd/) |
+| 73 | **garfield exterminators if fortnite** | **6** | FF | hawk | [*win by default*](https://osu.ppy.sh/community/matches/112914432) | [#1](https://www.bilibili.com/video/BV1dz421D79L/) |
+| 75 | garfield exterminators if fortnite | 1 | **6** | **hsod** | [#1](https://osu.ppy.sh/community/matches/112923823) | [#1](https://www.bilibili.com/video/BV1Rx421y7Wd/) |
 
 ### Semifinals
 
@@ -371,29 +371,29 @@ Thursday, 22 February 2024:
 
 | # | Team Red |  |  | Team Blue | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| 66 | hsod | **6** | 2 | 大天空killers | [#1](https://osu.ppy.sh/community/matches/112777332) | [#1](https://www.bilibili.com/video/BV1fi421o7Aa/) |
+| 66 | **hsod** | **6** | 2 | 大天空killers | [#1](https://osu.ppy.sh/community/matches/112777332) | [#1](https://www.bilibili.com/video/BV1fi421o7Aa/) |
 
 Saturday, 24 February 2024:
 
 | # | Team Red |  |  | Team Blue | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| 65 | Shangus | **6** | 2 | 原核生物队 | [#1](https://osu.ppy.sh/community/matches/112805342) | [#1](https://www.bilibili.com/video/BV1B2421K7pd/) |
-| 67 | ETA | 0 | **6** | hawk | [#1](https://osu.ppy.sh/community/matches/112806191) | [#1](https://www.bilibili.com/video/BV17x42127NK/) |
-| 68 | THE TRUTH OF NOCENT | FF | **6** | 👍 | [#1](https://osu.ppy.sh/community/matches/112807067) | / |
-| 71 | GangWonDuo | **6** | 4 | garfield exterminators if fortnite | [#1](https://osu.ppy.sh/community/matches/112800964) | [#1](https://www.bilibili.com/video/BV1wt421t7jG/) |
+| 65 | **Shangus** | **6** | 2 | 原核生物队 | [#1](https://osu.ppy.sh/community/matches/112805342) | [#1](https://www.bilibili.com/video/BV1B2421K7pd/) |
+| 67 | ETA | 0 | **6** | **hawk** | [#1](https://osu.ppy.sh/community/matches/112806191) | [#1](https://www.bilibili.com/video/BV17x42127NK/) |
+| 68 | THE TRUTH OF NOCENT | FF | **6** | 👍 | [*win by default*](https://osu.ppy.sh/community/matches/112807067) | / |
+| 71 | **GangWonDuo** | **6** | 4 | garfield exterminators if fortnite | [#1](https://osu.ppy.sh/community/matches/112800964) | [#1](https://www.bilibili.com/video/BV1wt421t7jG/) |
 
 Sunday, 25 February 2024:
 
 | # | Team Red |  |  | Team Blue | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| 70 | hawk | **6** | 0 | 👍 | [#1](https://osu.ppy.sh/community/matches/112823335) | [#1](https://www.bilibili.com/video/BV1SW421w77Z/) |
-| 72 | SV Player | 0 | **6** | wehehe | [#1](https://osu.ppy.sh/community/matches/112822608) | [#1](https://www.bilibili.com/video/BV1fr421p7vU/) |
+| 70 | **hawk** | **6** | 0 | 👍 | [#1](https://osu.ppy.sh/community/matches/112823335) | [#1](https://www.bilibili.com/video/BV1SW421w77Z/) |
+| 72 | SV Player | 0 | **6** | **wehehe** | [#1](https://osu.ppy.sh/community/matches/112822608) | [#1](https://www.bilibili.com/video/BV1fr421p7vU/) |
 
 Monday, 26 February 2024:
 
 | # | Team Red |  |  | Team Blue | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| 69 | Shangus | 1 | **6** | hsod | [#1](https://osu.ppy.sh/community/matches/112837674) | [#1](https://www.bilibili.com/video/BV16w4m1Z7QQ/) |
+| 69 | Shangus | 1 | **6** | **hsod** | [#1](https://osu.ppy.sh/community/matches/112837674) | [#1](https://www.bilibili.com/video/BV16w4m1Z7QQ/) |
 
 ### Quarterfinals
 
@@ -402,31 +402,31 @@ Friday, 16 February 2024:
 | # | Team Red |  |  | Team Blue | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
 | 49 | 👍 | **6** | 3 | 快手极速版 | [#1](https://osu.ppy.sh/community/matches/112686492) | [#1](https://www.bilibili.com/video/BV1h2421F7We/) |
-| 53 | choke99 | FF | **6** | 海陆 | [#1](https://osu.ppy.sh/community/matches/112688031) | / |
-| 54 | 大天空killers | **6** | FF | soloist | [#1](https://osu.ppy.sh/community/matches/112686888) | / |
+| 53 | choke99 | FF | **6** | **海陆** | [*win by default*](https://osu.ppy.sh/community/matches/112688031) | / |
+| 54 | **大天空killers** | **6** | FF | soloist | [*win by default*](https://osu.ppy.sh/community/matches/112686888) | / |
 
 Saturday, 17 February 2024:
 
 | # | Team Red |  |  | Team Blue | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| 50 | OBLIKULIVO | **6** | 1 | fastest crashers | [#1](https://osu.ppy.sh/community/matches/112703895) | [#1](https://www.bilibili.com/video/BV1cm411Q7wf/) |
-| 51 | hawk | **6** | 3 | AwakeGiant | [#1](https://osu.ppy.sh/community/matches/112703812) | [#1](https://www.bilibili.com/video/BV1yJ4m1W7nE/) |
-| 52 | SESBIAN LEX | **6** | 0 | THE TROLLERS | [#1](https://osu.ppy.sh/community/matches/112704579) | [#1](https://www.bilibili.com/video/BV1Xv421k7WZ/) |
-| 55 | Techno Music | FF | **6** | 原核生物队 | [#1](https://osu.ppy.sh/community/matches/112704693) | / |
-| 56 | We can't late game | **6** | FF | 憋笑 | [#1](https://osu.ppy.sh/community/matches/112703049) | / |
-| 59 | 大天空killers | **6** | 1 | 海陆 | [#1](https://osu.ppy.sh/community/matches/112704655) | [#1](https://www.bilibili.com/video/BV1qz421f7hd/) |
-| 63 | ETA | 3 | **6** | SV Player | [#1](https://osu.ppy.sh/community/matches/112705493) | [#1](https://www.bilibili.com/video/BV1jq421P7qH/) |
+| 50 | **OBLIKULIVO** | **6** | 1 | fastest crashers | [#1](https://osu.ppy.sh/community/matches/112703895) | [#1](https://www.bilibili.com/video/BV1cm411Q7wf/) |
+| 51 | **hawk** | **6** | 3 | AwakeGiant | [#1](https://osu.ppy.sh/community/matches/112703812) | [#1](https://www.bilibili.com/video/BV1yJ4m1W7nE/) |
+| 52 | **SESBIAN LEX** | **6** | 0 | THE TROLLERS | [#1](https://osu.ppy.sh/community/matches/112704579) | [#1](https://www.bilibili.com/video/BV1Xv421k7WZ/) |
+| 55 | Techno Music | FF | **6** | **原核生物队** | [*win by default*](https://osu.ppy.sh/community/matches/112704693) | / |
+| 56 | **We can't late game** | **6** | FF | 憋笑 | [*win by default*](https://osu.ppy.sh/community/matches/112703049) | / |
+| 59 | **大天空killers** | **6** | 1 | 海陆 | [#1](https://osu.ppy.sh/community/matches/112704655) | [#1](https://www.bilibili.com/video/BV1qz421f7hd/) |
+| 63 | ETA | 3 | **6** | **SV Player** | [#1](https://osu.ppy.sh/community/matches/112705493) | [#1](https://www.bilibili.com/video/BV1jq421P7qH/) |
 
 Sunday, 18 February 2024:
 
 | # | Team Red |  |  | Team Blue | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
 | 57 | OBLIKULIVO | 1 | **6** | 👍 | [#1](https://osu.ppy.sh/community/matches/112721402) | [#1](https://www.bilibili.com/video/BV1tv421C7b9/) |
-| 58 | SESBIAN LEX | 1 | **6** | hawk | [#1](https://osu.ppy.sh/community/matches/112720123) | [#1](https://www.bilibili.com/video/BV1n2421F7vq/) |
-| 60 | We can't late game | 0 | **6** | 原核生物队 | [#1](https://osu.ppy.sh/community/matches/112721295) | [#1](https://www.bilibili.com/video/BV1o2421F7ae/) |
-| 61 | GangWonDuo | **6** | 2 | Shangus | [#1](https://osu.ppy.sh/community/matches/112722112) | [#1](https://www.bilibili.com/video/BV1Lu4m1A7di/) |
-| 62 | hsod | 5 | **6** | garfield exterminators if fortnite | [#1](https://osu.ppy.sh/community/matches/112725820) | [#1](https://www.bilibili.com/video/BV1Ux421Z7pL/) |
-| 64 | wehehe | **6** | FF | THE TRUTH OF NOCENT | [#1](https://osu.ppy.sh/community/matches/112720688) | / |
+| 58 | SESBIAN LEX | 1 | **6** | **hawk** | [#1](https://osu.ppy.sh/community/matches/112720123) | [#1](https://www.bilibili.com/video/BV1n2421F7vq/) |
+| 60 | We can't late game | 0 | **6** | **原核生物队** | [#1](https://osu.ppy.sh/community/matches/112721295) | [#1](https://www.bilibili.com/video/BV1o2421F7ae/) |
+| 61 | **GangWonDuo** | **6** | 2 | Shangus | [#1](https://osu.ppy.sh/community/matches/112722112) | [#1](https://www.bilibili.com/video/BV1Lu4m1A7di/) |
+| 62 | hsod | 5 | **6** | **garfield exterminators if fortnite** | [#1](https://osu.ppy.sh/community/matches/112725820) | [#1](https://www.bilibili.com/video/BV1Ux421Z7pL/) |
+| 64 | **wehehe** | **6** | FF | THE TRUTH OF NOCENT | [*win by default*](https://osu.ppy.sh/community/matches/112720688) | / |
 
 ### Round of 16
 
@@ -434,32 +434,32 @@ Friday, 9 February 2024:
 
 | # | Team Red |  |  | Team Blue | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| 34 | HTBL achang | FF | **5** | soloist | [#1](https://osu.ppy.sh/community/matches/112587966) | / |
-| 37 | kiopm | FF | **5** | 快手极速版 | [#1](https://osu.ppy.sh/community/matches/112585498) | / |
-| 40 | ♿🍔♿🀄♿ | 4 | **5** | THE TROLLERS | [#1](https://osu.ppy.sh/community/matches/112587834) | [#1](https://www.bilibili.com/video/BV1rJ4m1W7Jw/) |
+| 34 | HTBL achang | FF | **5** | **soloist** | [*win by default*](https://osu.ppy.sh/community/matches/112587966) | / |
+| 37 | kiopm | FF | **5** | **快手极速版** | [*win by default*](https://osu.ppy.sh/community/matches/112585498) | / |
+| 40 | ♿🍔♿🀄♿ | 4 | **5** | **THE TROLLERS** | [#1](https://osu.ppy.sh/community/matches/112587834) | [#1](https://www.bilibili.com/video/BV1rJ4m1W7Jw/) |
 
 Saturday, 10 February 2024:
 
 | # | Team Red |  |  | Team Blue | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| 33 | 海陆 | **5** | 3 | Antijacker | [#1](https://osu.ppy.sh/community/matches/112602438) | [#1](https://www.bilibili.com/video/BV1Zy421b7tn/) |
-| 36 | 痛恨叠键 | 2 | **5** | 憋笑 | [#1](https://osu.ppy.sh/community/matches/112602564) | [#1](https://www.bilibili.com/video/BV16j421X7m2/) |
-| 39 | aomdco | 3 | **5** | AwakeGiant | [#1](https://osu.ppy.sh/community/matches/112601174) | [#1](https://www.bilibili.com/video/BV1jS421K7Hp/) |
-| 42 | Shangus | **5** | 4 | OBLIKULIVO | [#1](https://osu.ppy.sh/community/matches/112604205) | [#1](https://www.bilibili.com/video/BV18j421X7aY/) |
-| 45 | ETA | **5** | 0 | choke99 | [#1](https://osu.ppy.sh/community/matches/112604359) | [#1](https://www.bilibili.com/video/BV1Mp421d78x/) |
-| 46 | 大天空killers | 1 | **5** | SV Player | [#1](https://osu.ppy.sh/community/matches/112601259) | / |
-| 48 | THE TRUTH OF NOCENT | **5** | 1 | We can't late game | [#1](https://osu.ppy.sh/community/matches/112605433) | [#1](https://www.bilibili.com/video/BV1Sm411D7EK/) |
+| 33 | **海陆** | **5** | 3 | Antijacker | [#1](https://osu.ppy.sh/community/matches/112602438) | [#1](https://www.bilibili.com/video/BV1Zy421b7tn/) |
+| 36 | 痛恨叠键 | 2 | **5** | **憋笑** | [#1](https://osu.ppy.sh/community/matches/112602564) | [#1](https://www.bilibili.com/video/BV16j421X7m2/) |
+| 39 | aomdco | 3 | **5** | **AwakeGiant** | [#1](https://osu.ppy.sh/community/matches/112601174) | [#1](https://www.bilibili.com/video/BV1jS421K7Hp/) |
+| 42 | **Shangus** | **5** | 4 | OBLIKULIVO | [#1](https://osu.ppy.sh/community/matches/112604205) | [#1](https://www.bilibili.com/video/BV18j421X7aY/) |
+| 45 | **ETA** | **5** | 0 | choke99 | [#1](https://osu.ppy.sh/community/matches/112604359) | [#1](https://www.bilibili.com/video/BV1Mp421d78x/) |
+| 46 | 大天空killers | 1 | **5** | **SV Player** | [#1](https://osu.ppy.sh/community/matches/112601259) | / |
+| 48 | **THE TRUTH OF NOCENT** | **5** | 1 | We can't late game | [#1](https://osu.ppy.sh/community/matches/112605433) | [#1](https://www.bilibili.com/video/BV1Sm411D7EK/) |
 
 Sunday, 11 February 2024:
 
 | # | Team Red |  |  | Team Blue | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| 35 | choke gang | 4 | **5** | 原核生物队 | [#1](https://osu.ppy.sh/community/matches/112619475) | [#1](https://www.bilibili.com/video/BV1Mp421d78x/) |
-| 38 | fastest crashers | **5** | FF | 不喜欢打叠 | [#1](https://osu.ppy.sh/community/matches/112618828) | / |
-| 41 | GangWonDuo | **5** | FF | 👍 | [#1](https://osu.ppy.sh/community/matches/112621034) | / |
-| 43 | hawk | 4 | **5** | hsod | [#1](https://osu.ppy.sh/community/matches/112620173) | [#1](https://www.bilibili.com/video/BV1XJ4m1x7TA/) |
-| 44 | SESBIAN LEX | 4 | **5** | garfield exterminators if fortnite | [#1](https://osu.ppy.sh/community/matches/112622765) | [#1](https://www.bilibili.com/video/BV1Z6421u7iE/) |
-| 47 | wehehe | **5** | 0 | Techno Music | [#1](https://osu.ppy.sh/community/matches/112620156) | [#1](https://www.bilibili.com/video/BV1Fv421y7pu/) |
+| 35 | choke gang | 4 | **5** | **原核生物队** | [#1](https://osu.ppy.sh/community/matches/112619475) | [#1](https://www.bilibili.com/video/BV1Mp421d78x/) |
+| 38 | **fastest crashers** | **5** | FF | 不喜欢打叠 | [*win by default*](https://osu.ppy.sh/community/matches/112618828) | / |
+| 41 | **GangWonDuo** | **5** | FF | 👍 | [*win by default*](https://osu.ppy.sh/community/matches/112621034) | / |
+| 43 | hawk | 4 | **5** | **hsod** | [#1](https://osu.ppy.sh/community/matches/112620173) | [#1](https://www.bilibili.com/video/BV1XJ4m1x7TA/) |
+| 44 | SESBIAN LEX | 4 | **5** | **garfield exterminators if fortnite** | [#1](https://osu.ppy.sh/community/matches/112622765) | [#1](https://www.bilibili.com/video/BV1Z6421u7iE/) |
+| 47 | **wehehe** | **5** | 0 | Techno Music | [#1](https://osu.ppy.sh/community/matches/112620156) | [#1](https://www.bilibili.com/video/BV1Fv421y7pu/) |
 
 ### Round of 32
 
@@ -467,57 +467,57 @@ Saturday, 27 January 2024:
 
 | # | Team Red |  |  | Team Blue | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| 1 | GangWonDuo | **5** | 0 | hop on quaver | [#1](https://osu.ppy.sh/community/matches/112396290) | [#1](https://www.bilibili.com/video/BV1WC411r7Xq/) |
+| 1 | **GangWonDuo** | **5** | 0 | hop on quaver | [#1](https://osu.ppy.sh/community/matches/112396290) | [#1](https://www.bilibili.com/video/BV1WC411r7Xq/) |
 | 2 | 👍 | **5** | 0 | 海陆 | [#1](https://osu.ppy.sh/community/matches/112396823) | [#1](https://www.bilibili.com/video/BV1Ka4y1C7Mj/) |
-| 6 | hsod | **5** | 2 | Polygon | [#1](https://osu.ppy.sh/community/matches/112396815) | [#1](https://www.bilibili.com/video/BV1kK4y117Hm/) |
-| 7 | SESBIAN LEX | **5** | 1 | 憋笑 | [#1](https://osu.ppy.sh/community/matches/112398557) | [#1](https://www.bilibili.com/video/BV1KH4y1v7Wt/) |
-| 10 | kiopm | 1 | **5** | choke99 | [#1](https://osu.ppy.sh/community/matches/112404110) | / |
-| 11 | 大天空killers | **5** | 0 | Amogus enjoyers | [#1](https://osu.ppy.sh/community/matches/112398384) | [#1](https://www.bilibili.com/video/BV1Pw4117729/) |
-| 12 | SV Player | **5** | 0 | FurryLover | [#1](https://osu.ppy.sh/community/matches/112397887) | [#1](https://www.bilibili.com/video/BV1sV411S795/) |
-| 14 | Techno Music | **5** | 2 | Jack Hunter | [#1](https://osu.ppy.sh/community/matches/112396678) | [#1](https://www.bilibili.com/video/BV1Mm41197Dr/) |
-| 16 | We can't late game | **5** | 1 | lsjx追逐梦想 | [#1](https://osu.ppy.sh/community/matches/112393888) | [#1](https://www.bilibili.com/video/BV1Ri4y1H7px/) |
+| 6 | **hsod** | **5** | 2 | Polygon | [#1](https://osu.ppy.sh/community/matches/112396815) | [#1](https://www.bilibili.com/video/BV1kK4y117Hm/) |
+| 7 | **SESBIAN LEX** | **5** | 1 | 憋笑 | [#1](https://osu.ppy.sh/community/matches/112398557) | [#1](https://www.bilibili.com/video/BV1KH4y1v7Wt/) |
+| 10 | kiopm | 1 | **5** | **choke99** | [#1](https://osu.ppy.sh/community/matches/112404110) | / |
+| 11 | **大天空killers** | **5** | 0 | Amogus enjoyers | [#1](https://osu.ppy.sh/community/matches/112398384) | [#1](https://www.bilibili.com/video/BV1Pw4117729/) |
+| 12 | **SV Player** | **5** | 0 | FurryLover | [#1](https://osu.ppy.sh/community/matches/112397887) | [#1](https://www.bilibili.com/video/BV1sV411S795/) |
+| 14 | **Techno Music** | **5** | 2 | Jack Hunter | [#1](https://osu.ppy.sh/community/matches/112396678) | [#1](https://www.bilibili.com/video/BV1Mm41197Dr/) |
+| 16 | **We can't late game** | **5** | 1 | lsjx追逐梦想 | [#1](https://osu.ppy.sh/community/matches/112393888) | [#1](https://www.bilibili.com/video/BV1Ri4y1H7px/) |
 
 Sunday, 28 January 2024:
 
 | # | Team Red |  |  | Team Blue | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| 3 | Shangus | **5** | 2 | soloist | [#1](https://osu.ppy.sh/community/matches/112415448) | [#1](https://www.bilibili.com/video/BV1XH4y1a7e6/) |
-| 4 | OBLIKULIVO | **5** | 0 | 绝不认输 | [#1](https://osu.ppy.sh/community/matches/112414464) | [#1](https://www.bilibili.com/video/BV1zT4y1t7U8/) |
-| 5 | hawk | **5** | 1 | 原核生物队 | [#1](https://osu.ppy.sh/community/matches/112415382) | [#1](https://www.bilibili.com/video/BV12D4y1f7Wu/) |
-| 8 | garfield exterminators if fortnite | **5** | FF | Hop on Lethal Company | / | / |
-| 9 | ETA | **5** | 0 | We can't mid game | [#1](https://osu.ppy.sh/community/matches/112415472) | / |
-| 13 | wehehe | **5** | 1 | AwakeGiant | [#1](https://osu.ppy.sh/community/matches/112413909) | [#1](https://www.bilibili.com/video/BV1xv421i72e/) |
-| 15 | THE TRUTH OF NOCENT | **5** | FF | adalah alat tempur mutakhir dari korea | / | / |
+| 3 | **Shangus** | **5** | 2 | soloist | [#1](https://osu.ppy.sh/community/matches/112415448) | [#1](https://www.bilibili.com/video/BV1XH4y1a7e6/) |
+| 4 | **OBLIKULIVO** | **5** | 0 | 绝不认输 | [#1](https://osu.ppy.sh/community/matches/112414464) | [#1](https://www.bilibili.com/video/BV1zT4y1t7U8/) |
+| 5 | **hawk** | **5** | 1 | 原核生物队 | [#1](https://osu.ppy.sh/community/matches/112415382) | [#1](https://www.bilibili.com/video/BV12D4y1f7Wu/) |
+| 8 | **garfield exterminators if fortnite** | **5** | FF | Hop on Lethal Company | *win by default* | / |
+| 9 | **ETA** | **5** | 0 | We can't mid game | [#1](https://osu.ppy.sh/community/matches/112415472) | / |
+| 13 | **wehehe** | **5** | 1 | AwakeGiant | [#1](https://osu.ppy.sh/community/matches/112413909) | [#1](https://www.bilibili.com/video/BV1xv421i72e/) |
+| 15 | **THE TRUTH OF NOCENT** | **5** | FF | adalah alat tempur mutakhir dari korea | *win by default* | / |
 
 Friday, 2 February 2024:
 
 | # | Team Red |  |  | Team Blue | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| 26 | kiopm | **5** | 2 | Handstream>Jack | [#1](https://osu.ppy.sh/community/matches/112492856) | / |
+| 26 | **kiopm** | **5** | 2 | Handstream>Jack | [#1](https://osu.ppy.sh/community/matches/112492856) | / |
 
 Saturday, 3 February 2024:
 
 | # | Team Red |  |  | Team Blue | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| 20 | 绝不认输 | 3 | **5** | HTBL achang | [#1](https://osu.ppy.sh/community/matches/112500235) | [#1](https://www.bilibili.com/video/BV16A4m157pB/) |
-| 23 | 憋笑 | **5** | 4 | alone jacker | [#1](https://osu.ppy.sh/community/matches/112501870) | [#1](https://www.bilibili.com/video/BV1BA4m1571r/) |
-| 25 | We can't mid game | 0 | **5** | 快手极速版 | [#1](https://osu.ppy.sh/community/matches/112498456) | [#1](https://www.bilibili.com/video/BV1oK421y7ep/) |
-| 28 | FurryLover | 1 | **5** | fastest crashers | [#1](https://osu.ppy.sh/community/matches/112500992) | [#1](https://www.bilibili.com/video/BV1Zm411X7F1/) |
-| 29 | AwakeGiant | **5** | 4 | 取队伍名称好难 | [#1](https://osu.ppy.sh/community/matches/112499586) | / |
+| 20 | 绝不认输 | 3 | **5** | **HTBL achang** | [#1](https://osu.ppy.sh/community/matches/112500235) | [#1](https://www.bilibili.com/video/BV16A4m157pB/) |
+| 23 | **憋笑** | **5** | 4 | alone jacker | [#1](https://osu.ppy.sh/community/matches/112501870) | [#1](https://www.bilibili.com/video/BV1BA4m1571r/) |
+| 25 | We can't mid game | 0 | **5** | **快手极速版** | [#1](https://osu.ppy.sh/community/matches/112498456) | [#1](https://www.bilibili.com/video/BV1oK421y7ep/) |
+| 28 | FurryLover | 1 | **5** | **fastest crashers** | [#1](https://osu.ppy.sh/community/matches/112500992) | [#1](https://www.bilibili.com/video/BV1Zm411X7F1/) |
+| 29 | **AwakeGiant** | **5** | 4 | 取队伍名称好难 | [#1](https://osu.ppy.sh/community/matches/112499586) | / |
 
 Sunday, 4 February 2024:
 
 | # | Team Red |  |  | Team Blue | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| 17 | hop on quaver | 3 | **5** | Antijacker | [#1](https://osu.ppy.sh/community/matches/112518542) | [#1](https://www.bilibili.com/video/BV1yu4m1N7kW/) |
-| 18 | 海陆 | **5** | 0 | 打胶队 | [#1](https://osu.ppy.sh/community/matches/112520770) | [#1](https://www.bilibili.com/video/BV12u4m1N7Q1/) |
-| 19 | soloist | **5** | FF | Pookie Bears | [#1](https://osu.ppy.sh/community/matches/112521613) | / |
-| 21 | 原核生物队 | **5** | 0 | 我先睡了 | [#1](https://osu.ppy.sh/community/matches/112520044) | [#1](https://www.bilibili.com/video/BV1DA4m157Xx/) |
-| 22 | Polygon | 4 | **5** | choke gang | [#1](https://osu.ppy.sh/community/matches/112519095) | / |
-| 24 | Hop on Lethal Company | FF | **5** | 痛恨叠键 | [#1](https://osu.ppy.sh/community/matches/112520736) | / |
-| 27 | Amogus enjoyers | 4 | **5** | 不喜欢打叠 | [#1](https://osu.ppy.sh/community/matches/112515839) | [#1](https://www.bilibili.com/video/BV18H4y1Y7v1/) |
-| 30 | Jack Hunter | 1 | **5** | aomdco | [#1](https://osu.ppy.sh/community/matches/112519128) | / |
-| 31 | adalah alat tempur mutakhir dari korea | 3 | **5** | THE TROLLERS | [#1](https://osu.ppy.sh/community/matches/112521586) | [#1](https://www.bilibili.com/video/BV1Nt421a7Qf/) |
+| 17 | hop on quaver | 3 | **5** | **Antijacker** | [#1](https://osu.ppy.sh/community/matches/112518542) | [#1](https://www.bilibili.com/video/BV1yu4m1N7kW/) |
+| 18 | **海陆** | **5** | 0 | 打胶队 | [#1](https://osu.ppy.sh/community/matches/112520770) | [#1](https://www.bilibili.com/video/BV12u4m1N7Q1/) |
+| 19 | **soloist** | **5** | FF | Pookie Bears | [*win by default*](https://osu.ppy.sh/community/matches/112521613) | / |
+| 21 | **原核生物队** | **5** | 0 | 我先睡了 | [#1](https://osu.ppy.sh/community/matches/112520044) | [#1](https://www.bilibili.com/video/BV1DA4m157Xx/) |
+| 22 | Polygon | 4 | **5** | **choke gang** | [#1](https://osu.ppy.sh/community/matches/112519095) | / |
+| 24 | Hop on Lethal Company | FF | **5** | **痛恨叠键** | [*win by default*](https://osu.ppy.sh/community/matches/112520736) | / |
+| 27 | Amogus enjoyers | 4 | **5** | **不喜欢打叠** | [#1](https://osu.ppy.sh/community/matches/112515839) | [#1](https://www.bilibili.com/video/BV18H4y1Y7v1/) |
+| 30 | Jack Hunter | 1 | **5** | **aomdco** | [#1](https://osu.ppy.sh/community/matches/112519128) | / |
+| 31 | adalah alat tempur mutakhir dari korea | 3 | **5** | **THE TROLLERS** | [#1](https://osu.ppy.sh/community/matches/112521586) | [#1](https://www.bilibili.com/video/BV1Nt421a7Qf/) |
 | 32 | lsjx追逐梦想 | 2 | **5** | ♿🍔♿🀄♿ | [#1](https://osu.ppy.sh/community/matches/112519029) | / |
 
 ### Qualifiers
