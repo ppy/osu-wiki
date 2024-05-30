@@ -44,7 +44,7 @@ Hình ảnh hoặc các yếu tố chứa các ví dụ sau đây có thể đư
 
 Trong những trường hợp nhất định, một số ngoại lệ có thể áp dụng cho việc sử dụng mang tính nghệ thuật đối với nội dung đòi hỏi nhiều ý tưởng, chẳng hạn như storyboards hoặc thiết kế riêng (tức là: được tạo riêng).  Điều này phải được cấp quyền trực tiếp từ nhóm hỗ trợ. Những người liên quan có thể liên hệ với họ qua [support@ppy.sh](mailto:support@ppy.sh).
 
-## Xem xét hình ảnh của bạn
+## đánh giá hình ảnh của bạn
 
 *Xem :[Quy trình bỏ phiếu đánh giá nội dung](/wiki/Rules/Content_voting_process)*
 
