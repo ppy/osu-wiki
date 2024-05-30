@@ -4,7 +4,7 @@ title: "The Followpoint: Eriha, the Drum Decimator of osu!taiko"
 date: 2024-06-03 11:00:00 +0000
 ---
 
-Read up on the latest interview with [Eriha](https://osu.ppy.sh/users/4158549), the osu!catch #4 player and the best drums clicker.
+Read up on the latest interview with [Eriha](https://osu.ppy.sh/users/4158549), the osu!taiko #4 player and the best drums clicker.
 
 ![](/wiki/shared/news/2024-06-03-the-followpoint-eriha-the-drum-decimator-of-osu-taiko/banner.jpg)
 
