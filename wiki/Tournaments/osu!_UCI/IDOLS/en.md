@@ -485,8 +485,7 @@ Any disregard for these rules will be met with punishment, ranging from a warnin
 ### Qualifier lobby procedure (osu! only)
 
 - All players will play in a qualifier lobby and play through every map in the qualifier mappool.
-- After each map, each player is given points based on their placing compared to all other players.
-- The 16 players with the highest total points will advance to the bracket stage, where seeding is determined by said points.
+- The 16 players with the highest average placement across all lobbies will be seeded into the bracket stage.
 
 ### Bracket lobby procedure
 
