@@ -45,11 +45,13 @@ The event will take place on Saturday, 25 May, 2024 from 8:00 a.m. to 10:00 p.m.
 
 ## Prizes
 
-Prizes will be awarded to both osu! and osu!mania winners.
+Prizes were / will be awarded to both osu! and osu!mania winners.
 
 | Placing | Prize |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge (pending approval) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge (pending approval), Sanrio keychain |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Sanrio keychain |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Sanrio keychain |
 
 ![](img/badge.png "IDOLS winner badge")
 
@@ -67,17 +69,69 @@ IDOLS will be run by various osu! community members at UCI or visiting for the e
 
 ## Links
 
+- [Bracket (osu!)](https://brackethq.com/b/0a32b/)
+- [Bracket (osu!mania)](https://brackethq.com/b/t622b/)
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1916804)
 - [Livestream](https://www.twitch.tv/osuuci)
 - [osu! UCI Discord server](https://discordapp.com/invite/qbZddFV)
 
-<!-- TODO
 ## Participants
+
+<!-- TODO photos -->
 
 ### osu!
 
+- ::{ flag=US }:: [-Agent](https://osu.ppy.sh/users/12404995)
+- ::{ flag=US }:: [AccNome](https://osu.ppy.sh/users/10976433)
+- ::{ flag=CA }:: [Aquatic\_3](https://osu.ppy.sh/users/22711091)
+- ::{ flag=US }:: [astrin](https://osu.ppy.sh/users/14252935)
+- ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691)
+- ::{ flag=US }:: [Clarity](https://osu.ppy.sh/users/3441616)
+- ::{ flag=US }:: [Daprin](https://osu.ppy.sh/users/10961983)
+- ::{ flag=US }:: [DaSwagTurtle](https://osu.ppy.sh/users/9901787)
+- ::{ flag=US }:: [dyle](https://osu.ppy.sh/users/2615492)
+- ::{ flag=US }:: [easypeasy123](https://osu.ppy.sh/users/9946406)
+- ::{ flag=US }:: [ERA test](https://osu.ppy.sh/users/15769399)
+- ::{ flag=US }:: [iSarz](https://osu.ppy.sh/users/13886367)
+- ::{ flag=US }:: [Jarran](https://osu.ppy.sh/users/11417993)
+- ::{ flag=US }:: [Kahli](https://osu.ppy.sh/users/8926244)
+- ::{ flag=US }:: [Kenny](https://osu.ppy.sh/users/1225459)
+- ::{ flag=US }:: [LGSLG](https://osu.ppy.sh/users/20437671)
+- ::{ flag=US }:: [Mathyu](https://osu.ppy.sh/users/6303313)
+- ::{ flag=US }:: [Muff1nkat](https://osu.ppy.sh/users/12404447)
+- ::{ flag=US }:: [Putzy](https://osu.ppy.sh/users/23664366)
+- ::{ flag=US }:: [ricoel](https://osu.ppy.sh/users/7438459)
+- ::{ flag=US }:: [Ritz](https://osu.ppy.sh/users/12456082)
+- ::{ flag=US }:: [RocketeerRover](https://osu.ppy.sh/users/14477332)
+- ::{ flag=US }:: [ur cute](https://osu.ppy.sh/users/9993348)
+- ::{ flag=US }:: [Xpxp](https://osu.ppy.sh/users/10809086)
+
 ### osu!mania
--->
+
+- ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576)
+- ::{ flag=US }:: [cow](https://osu.ppy.sh/users/10629473)
+- ::{ flag=US }:: [fogershot](https://osu.ppy.sh/users/12645717)
+- ::{ flag=US }:: [ketzu](https://osu.ppy.sh/users/13557639)
+- ::{ flag=US }:: [MagiScorch](https://osu.ppy.sh/users/14241467)
+- ::{ flag=US }:: [yodevdev](https://osu.ppy.sh/users/27123258)
+
+## Podium
+
+### osu!
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: [Mathyu](https://osu.ppy.sh/users/6303313) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=US }:: [ur cute](https://osu.ppy.sh/users/9993348) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691) |
+
+### osu!mania
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: [MagiScorch](https://osu.ppy.sh/users/14241467) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=US }:: [cow](https://osu.ppy.sh/users/10629473) |
 
 ## Mappools
 
@@ -250,6 +304,178 @@ IDOLS will be run by various osu! community members at UCI or visiting for the e
   2. [LE SSERAFIM - Perfect Night (clew629) [Perfect Energy]](https://osu.ppy.sh/beatmapsets/2087093#mania/4373253)
 - Tiebreaker
   1. **[Endorfin. - Fatalism (\[GS\]Rose) [reckoning]](https://osu.ppy.sh/beatmapsets/1977109#mania/4104298)**
+
+## Match results
+
+### osu!
+
+#### Grand Finals
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| [Mathyu](https://osu.ppy.sh/users/6303313) | 3 | **6** | [ur cute](https://osu.ppy.sh/users/9993348) | [#1](https://osu.ppy.sh/community/matches/114033601) |
+| [Mathyu](https://osu.ppy.sh/users/6303313) | **6** | 4 | [ur cute](https://osu.ppy.sh/users/9993348) | [#1](https://osu.ppy.sh/community/matches/114033939) |
+
+#### Finals
+
+##### Winners
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| [Mathyu](https://osu.ppy.sh/users/6303313) | **5** | 2 | [BTMC](https://osu.ppy.sh/users/3171691) | [#1](https://osu.ppy.sh/community/matches/114032596) |
+
+##### Losers (Grand Finals pool)
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| [BTMC](https://osu.ppy.sh/users/3171691) | 4 | **6** | [ur cute](https://osu.ppy.sh/users/9993348) | [#1](https://osu.ppy.sh/community/matches/114033075) |
+
+#### Semifinals
+
+##### Winners
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| [Mathyu](https://osu.ppy.sh/users/6303313) | **5** | 2 | [Clarity](https://osu.ppy.sh/users/3441616) | [#1](https://osu.ppy.sh/community/matches/114031412) |
+| [BTMC](https://osu.ppy.sh/users/3171691) | **5** | 3 | [Kahli](https://osu.ppy.sh/users/8926244) | [#1](https://osu.ppy.sh/community/matches/114031335) |
+
+##### Losers (Finals pool)
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| [Clarity](https://osu.ppy.sh/users/3441616) | 1 | **5** | [ur cute](https://osu.ppy.sh/users/9993348) | [#1](https://osu.ppy.sh/community/matches/114032048) |
+| [Kahli](https://osu.ppy.sh/users/8926244) | **5** | 2 | [ricoel](https://osu.ppy.sh/users/7438459) | [#1](https://osu.ppy.sh/community/matches/114031999) |
+| [ur cute](https://osu.ppy.sh/users/9993348) | **5** | 1 | [Kahli](https://osu.ppy.sh/users/8926244) | [#1](https://osu.ppy.sh/community/matches/114032563) |
+
+#### Quarterfinals
+
+##### Winners
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| [Mathyu](https://osu.ppy.sh/users/6303313) | **4** | 0 | [Jarran](https://osu.ppy.sh/users/11417993) | [#1](https://osu.ppy.sh/community/matches/114030002) |
+| [ricoel](https://osu.ppy.sh/users/7438459) | 3 | **4** | [Clarity](https://osu.ppy.sh/users/3441616) | [#1](https://osu.ppy.sh/community/matches/114030017) |
+| [ur cute](https://osu.ppy.sh/users/9993348) | 1 | **4** | [BTMC](https://osu.ppy.sh/users/3171691) | [#1](https://osu.ppy.sh/community/matches/114030023) |
+| [astrin](https://osu.ppy.sh/users/14252935) | 2 | **4** | [Kahli](https://osu.ppy.sh/users/8926244) | [#1](https://osu.ppy.sh/community/matches/114030029) |
+
+##### Losers (Semifinals pool)
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| [astrin](https://osu.ppy.sh/users/14252935) | **5** | 2 | [RocketeerRover](https://osu.ppy.sh/users/14477332) | [#1](https://osu.ppy.sh/community/matches/114030878) |
+| [ur cute](https://osu.ppy.sh/users/9993348) | **5** | 1 | [Kenny](https://osu.ppy.sh/users/1225459) | [#1](https://osu.ppy.sh/community/matches/114030801) |
+| [ricoel](https://osu.ppy.sh/users/7438459) | **5** | 1 | [Daprin](https://osu.ppy.sh/users/10961983) | [#1](https://osu.ppy.sh/community/matches/114030737) |
+| [Jarran](https://osu.ppy.sh/users/11417993) | 0 | **5** | [AccNome](https://osu.ppy.sh/users/10976433) | [#1](https://osu.ppy.sh/community/matches/114030732) |
+| [astrin](https://osu.ppy.sh/users/14252935) | 1 | **5** | [ur cute](https://osu.ppy.sh/users/9993348) | [#1](https://osu.ppy.sh/community/matches/114031515) |
+| [ricoel](https://osu.ppy.sh/users/7438459) | **5** | 3 | [AccNome](https://osu.ppy.sh/users/10976433) | [#1](https://osu.ppy.sh/community/matches/114031333) |
+
+#### Round of 16
+
+##### Winners
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| [Mathyu](https://osu.ppy.sh/users/6303313) | **4** | 0 | [-Agent](https://osu.ppy.sh/users/12404995) | [#1](https://osu.ppy.sh/community/matches/114029246) |
+| [Jarran](https://osu.ppy.sh/users/11417993) | **4** | 3 | [RocketeerRover](https://osu.ppy.sh/users/14477332) | [#1](https://osu.ppy.sh/community/matches/114029255) |
+| [ricoel](https://osu.ppy.sh/users/7438459) | **4** | 0 | [Muff1nkat](https://osu.ppy.sh/users/12404447) | [#1](https://osu.ppy.sh/community/matches/114029267) |
+| [Kenny](https://osu.ppy.sh/users/1225459) | 1 | **4** | [Clarity](https://osu.ppy.sh/users/3441616) | [#1](https://osu.ppy.sh/community/matches/114029193) |
+| [ur cute](https://osu.ppy.sh/users/9993348) | **4** | 0 | [Daprin](https://osu.ppy.sh/users/10961983) | [#1](https://osu.ppy.sh/community/matches/114029195) |
+| [Xpxp](https://osu.ppy.sh/users/10809086) | 2 | **4** | [BTMC](https://osu.ppy.sh/users/3171691) | [#1](https://osu.ppy.sh/community/matches/114029150) |
+| [astrin](https://osu.ppy.sh/users/14252935) | **4** | 3 | [AccNome](https://osu.ppy.sh/users/10976433) | [#1](https://osu.ppy.sh/community/matches/114029161) |
+| [Putzy](https://osu.ppy.sh/users/23664366) | 0 | **4** | [Kahli](https://osu.ppy.sh/users/8926244) | [#1](https://osu.ppy.sh/community/matches/114029164) |
+
+##### Losers
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| [-Agent](https://osu.ppy.sh/users/12404995) | 1 | **4** | [RocketeerRover](https://osu.ppy.sh/users/14477332) | [#1](https://osu.ppy.sh/community/matches/114029948) |
+| [Muff1nkat](https://osu.ppy.sh/users/12404447) | 0 | **4** | [Kenny](https://osu.ppy.sh/users/1225459) | [#1](https://osu.ppy.sh/community/matches/114030020) |
+| [Daprin](https://osu.ppy.sh/users/10961983) | **4** | 1 | [Xpxp](https://osu.ppy.sh/users/10809086) | [#1](https://osu.ppy.sh/community/matches/114030091) |
+| [AccNome](https://osu.ppy.sh/users/10976433) | **4** | 1 | [Putzy](https://osu.ppy.sh/users/23664366) | [#1](https://osu.ppy.sh/community/matches/114029988) |
+
+#### Qualifiers
+
+Qualifiers were played across two main matches, and some further matches required by players who had connection issues.
+
+- [Lobby 1](https://osu.ppy.sh/community/matches/114026610)
+- [Lobby 2](https://osu.ppy.sh/community/matches/114026678)
+
+See the [Qualifiers results Google sheet](https://docs.google.com/spreadsheets/d/14ogPEpFzPskknlTIlLvSRJVfdq5bxzZoU0L2wwHaJ-M/edit) for a more detailed log of performances on individual maps.
+
+| Seed | Player | Average placement | Average score |
+| --: | :-- | --: | --: |
+| 1 | [Mathyu](https://osu.ppy.sh/users/6303313) | 4.2 | 605073 |
+| 2 | [Kahli](https://osu.ppy.sh/users/8926244) | 4.6 | 573934 |
+| 3 | [ur cute](https://osu.ppy.sh/users/9993348) | 4.7 | 582471 |
+| 4 | [Clarity](https://osu.ppy.sh/users/3441616) | 5.2 | 585601 |
+| 5 | [ricoel](https://osu.ppy.sh/users/7438459) | 5.6 | 589569 |
+| 6 | [BTMC](https://osu.ppy.sh/users/3171691) | 7.4 | 500118 |
+| 7 | [astrin](https://osu.ppy.sh/users/14252935) | 8.7 | 443682 |
+| 8 | [RocketeerRover](https://osu.ppy.sh/users/14477332) | 9.4 | 388109 |
+| 9 | [Jarran](https://osu.ppy.sh/users/11417993) | 9.4 | 379961 |
+| 10 | [AccNome](https://osu.ppy.sh/users/10976433) | 10.3 | 388968 |
+| 11 | [Xpxp](https://osu.ppy.sh/users/10809086) | 10.5 | 375106 |
+| 12 | [Muff1nkat](https://osu.ppy.sh/users/12404447) | 12.4 | 312643 |
+| 13 | [Kenny](https://osu.ppy.sh/users/1225459) | 12.5 | 309236 |
+| 14 | [Daprin](https://osu.ppy.sh/users/10961983) | 12.6 | 295010 |
+| 15 | [Putzy](https://osu.ppy.sh/users/23664366) | 13.2 | 312770 |
+| 16 | [-Agent](https://osu.ppy.sh/users/12404995) | 13.3 | 345872 |
+|  | [ERA test](https://osu.ppy.sh/users/15769399) | 15.3 | 242605 |
+|  | [Ritz](https://osu.ppy.sh/users/12456082) | 16.9 | 217711 |
+|  | [DaSwagTurtle](https://osu.ppy.sh/users/9901787) | 17.0 | 217760 |
+|  | [dyle](https://osu.ppy.sh/users/2615492) | 18.7 | 150521 |
+|  | [easypeasy123](https://osu.ppy.sh/users/9946406) | 19.8 | 111419 |
+|  | [iSarz](https://osu.ppy.sh/users/13886367) | 22.4 | 37303 |
+|  | [Aquatic\_3](https://osu.ppy.sh/users/22711091) | 22.5 | 52078 |
+|  | [LGSLG](https://osu.ppy.sh/users/20437671) | 23.4 | 3011 |
+
+### osu!mania
+
+#### Grand Finals
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| [MagiScorch](https://osu.ppy.sh/users/14241467) | **6** | 3 | [-mint-](https://osu.ppy.sh/users/8976576) | https://osu.ppy.sh/community/matches/114031091 |
+
+#### Finals
+
+##### Winners
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| [cow](https://osu.ppy.sh/users/10629473) | 0 | **5** | [MagiScorch](https://osu.ppy.sh/users/14241467) | https://osu.ppy.sh/community/matches/114030140 |
+
+##### Losers (Grand Finals pool)
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| [cow](https://osu.ppy.sh/users/10629473) | 5 | **6** | [-mint-](https://osu.ppy.sh/users/8976576) | https://osu.ppy.sh/community/matches/114030547 |
+
+#### Semifinals
+
+##### Winners
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| [cow](https://osu.ppy.sh/users/10629473) | **4** | 0 | [fogershot](https://osu.ppy.sh/users/12645717) | https://osu.ppy.sh/community/matches/114028746 |
+| [-mint-](https://osu.ppy.sh/users/8976576) | 2 | **4** | [MagiScorch](https://osu.ppy.sh/users/14241467) | https://osu.ppy.sh/community/matches/114028747 |
+
+##### Losers (Finals pool)
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| [-mint-](https://osu.ppy.sh/users/8976576) | **5** | 0 | [ketzu](https://osu.ppy.sh/users/13557639) | https://osu.ppy.sh/community/matches/114029310 |
+| [fogershot](https://osu.ppy.sh/users/12645717) | **5** | -1 | [yodevdev](https://osu.ppy.sh/users/27123258) | *forfeit* |
+| [-mint-](https://osu.ppy.sh/users/8976576) | **5** | 0 | [fogershot](https://osu.ppy.sh/users/12645717) | https://osu.ppy.sh/community/matches/114029758 |
+
+#### Quarterfinals winners
+
+[cow](https://osu.ppy.sh/users/10629473) and [MagiScorch](https://osu.ppy.sh/users/14241467) were given byes and so did not participate in this round.
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| [ketzu](https://osu.ppy.sh/users/13557639) | 0 | **4** | [fogershot](https://osu.ppy.sh/users/12645717) | https://osu.ppy.sh/community/matches/114027695 |
+| [-mint-](https://osu.ppy.sh/users/8976576) | **4** | 0 | [yodevdev](https://osu.ppy.sh/users/27123258) | https://osu.ppy.sh/community/matches/114027696 |
 
 ## Ruleset
 
