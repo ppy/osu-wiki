@@ -10,13 +10,13 @@ tags:
 
 ![IDOLS banner](img/banner.png)
 
-**Irvine's Definitive osu! LAN Spring** (***IDOLS***) is an osu! and 4K osu!mania BYOC LAN tournament hosted by [osu! UCI](/wiki/Community/Organisations/osu!_UCI). It will take place at the University of California, Irvine.
+**Irvine's Definitive osu! LAN Spring** (***IDOLS***) was an osu! and 4K osu!mania BYOC LAN tournament hosted by [osu! UCI](/wiki/Community/Organisations/osu!_UCI). It took place at the University of California, Irvine.
 
 ## Event details
 
 ![Map of the Student Center showing Woods Cove rooms](img/woods-cove.png "Woods Cove rooms in the Student Center")
 
-The event will take place on Saturday, 25 May, 2024 from 8:00 a.m. to 10:00 p.m. PDT. It will be located in the UCI Student Center (311 W Peltason Dr, Irvine, CA 92697), in the Woods Cove rooms.
+The event took place on Saturday, 25 May, 2024 from 8:00 a.m. to 10:00 p.m. PDT. It was located in the UCI Student Center (311 W Peltason Dr, Irvine, CA 92697), in the Woods Cove rooms.
 
 ### Tournament schedule
 
@@ -57,7 +57,7 @@ Prizes were / will be awarded to both osu! and osu!mania winners.
 
 ## Organisation
 
-IDOLS will be run by various osu! community members at UCI or visiting for the event.
+IDOLS was run by various osu! community members at UCI or visiting for the event.
 
 | Position | Member(s) |
 | :-- | :-- |
