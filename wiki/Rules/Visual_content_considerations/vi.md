@@ -1,6 +1,6 @@
 # Lưu ý về nội dung trực quan
 
-Theo [Quy tắc cộng đồng số 5](/wiki/Rules#community-rules), tất cả nội dung trực quan được gửi hoặc tải lên osu! phải được cho là phù hợp với mọi lứa tuổi.
+Theo [Quy tắc cộng đồng #5](/wiki/Rules#community-rules), tất cả nội dung trực quan được gửi hoặc tải lên osu! phải được cho là phù hợp với mọi lứa tuổi.
 
 điều này bao gồm:
 
@@ -46,7 +46,7 @@ Trong những trường hợp nhất định, một số ngoại lệ có thể 
 
 ## Đánh giá hình ảnh của bạn
 
-Xem :[Quy trình bỏ phiếu đánh giá nội dung](/wiki/Rules/Content_voting_process)
+*Xem :[Quy trình bỏ phiếu đánh giá nội dung](/wiki/Rules/Content_voting_process)*
 
 Bất kỳ hình ảnh được sử dụng trên trang web ngoài trừ beatmap (hình đại diện, ảnh bìa hồ sơ, trang người dùng, v.v.) sẽ **không** tuân theo quy trình bỏ phiếu được giải thích bên dưới và có thể bị xóa bất kỳ lúc nào theo quyết định của [Nhóm kiểm duyệt toàn cầu](/wiki/People/Global_Moderation_Team).
 
@@ -54,7 +54,7 @@ Nếu bạn không chắc chắn về một hình ảnh sẽ được đưa vào
 
 **Kết quả của cuộc bỏ phiếu là quyết định cuối cùng** , trừ khi hình ảnh bị thay đổi nhằm mục đích giải quyết yếu tố có vấn đề được nêu ra trong quá trình thảo luận.
 
-Trong một số trường hợp, [osu!team](/wiki/People/osu_team) có quyền quyết định tuyên bố bất kỳ phần nội dung nào là hợp lệ hoặc không hợp lệ theo quan điểm riêng của họ, cho dù cuộc bỏ phiếu trước đó được tổ chức về vấn đề này.
+Trong một số trường hợp, [osu!team](/wiki/People/osu!_team) có quyền quyết định tuyên bố bất kỳ phần nội dung nào là hợp lệ hoặc không hợp lệ theo quan điểm riêng của họ, cho dù cuộc bỏ phiếu trước đó được tổ chức về vấn đề này.
 
 ## Ghi chú
 
