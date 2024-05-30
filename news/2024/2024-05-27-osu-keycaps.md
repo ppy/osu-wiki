@@ -68,7 +68,7 @@ And of course, both of these come with the full keycap sets too!
 
 ~~We'll be announcing the giveaway winners in **3 days** (2024-05-30) on [the @osugame Twitter](https://twitter.com/osugame), so look out for that.~~
 
-[The winners have been selected!](LINK) Thanks for sending nearly 1000 images of your grimy keys.
+[The winners have been selected!](https://twitter.com/osugame/status/1796309234449334597) Thanks for sending nearly 1000 images of your grimy keys.
 
 ---
 
