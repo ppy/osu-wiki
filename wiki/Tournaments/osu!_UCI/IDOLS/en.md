@@ -22,26 +22,30 @@ The event took place on Saturday, 25 May, 2024 from 8:00 a.m. to 10:00 p.m. PDT.
 
 #### osu!
 
-- 8:00 a.m.: Doors open and check-ins begin
-- 10:00 a.m.: Qualifier lobbies
-- 1:00 p.m.: Upper bracket round of 16 (pool 1, BO7)
-- 2:00 p.m.: Upper bracket quarterfinals and lower bracket round 1 (pool 1, BO7)
-- 3:00 p.m.: Lower bracket round 2 (pool 2, BO9)
-- 4:00 p.m.: Upper bracket semifinals and lower bracket round 3 (pool 2, BO9)
-- 5:00 p.m.: Lower bracket quarterfinals (pool 3, BO9)
-- 6:00 p.m.: Upper bracket finals and lower bracket semifinals (pool 3, BO9)
-- 7:00 p.m.: Lower bracket finals (pool 4, BO11)
-- 8:00 p.m.: Grand finals and reset, if needed (pool 4, BO11)
+| Time | Event |
+| :-- | :-- |
+| 8:00 a.m. | Doors open and check-ins begin |
+| 10:00 a.m. | Qualifier lobbies |
+| 1:00 p.m. | Upper bracket round of 16 (pool 1, BO7) |
+| 2:00 p.m. | Upper bracket quarterfinals and lower bracket round 1 (pool 1, BO7) |
+| 3:00 p.m. | Lower bracket round 2 (pool 2, BO9) |
+| 4:00 p.m. | Upper bracket semifinals and lower bracket round 3 (pool 2, BO9) |
+| 5:00 p.m. | Lower bracket quarterfinals (pool 3, BO9) |
+| 6:00 p.m. | Upper bracket finals and lower bracket semifinals (pool 3, BO9) |
+| 7:00 p.m. | Lower bracket finals (pool 4, BO11) |
+| 8:00 p.m. | Grand finals and reset, if needed (pool 4, BO11) |
 
 #### osu!mania
 
-- 8:00 a.m.: Doors open and check-ins begin
-- 11:00 a.m.: Upper bracket quarterfinals (pool 1, BO7)
-- 12:00 p.m.: Upper bracket semifinals (pool 1, BO7)
-- 1:00 p.m.: Lower bracket quarterfinals (pool 2, BO9)
-- 2:00 p.m.: Upper bracket finals and lower bracket semifinals (pool 2, BO9)
-- 3:00 p.m.: Lower bracket finals (pool 3, BO11)
-- 4:00 p.m.: Grand finals and reset, if needed (pool 3, BO11)
+| Time | Event |
+| :-- | :-- |
+| 8:00 a.m. | Doors open and check-ins begin |
+| 11:00 a.m. | Upper bracket quarterfinals (pool 1, BO7) |
+| 12:00 p.m. | Upper bracket semifinals (pool 1, BO7) |
+| 1:00 p.m. | Lower bracket quarterfinals (pool 2, BO9) |
+| 2:00 p.m. | Upper bracket finals and lower bracket semifinals (pool 2, BO9) |
+| 3:00 p.m. | Lower bracket finals (pool 3, BO11) |
+| 4:00 p.m. | Grand finals and reset, if needed (pool 3, BO11) |
 
 ## Prizes
 
