@@ -45,7 +45,7 @@ The event took place on Saturday, 25 May, 2024 from 8:00 a.m. to 10:00 p.m. PDT.
 
 ## Prizes
 
-Prizes were / will be awarded to both osu! and osu!mania winners.
+Prizes were/will be awarded to both osu! and osu!mania winners.
 
 | Placing | Prize |
 | :-: | :-- |
@@ -401,7 +401,7 @@ Qualifiers were played across two main matches, and some further matches require
 - [Lobby 1](https://osu.ppy.sh/community/matches/114026610)
 - [Lobby 2](https://osu.ppy.sh/community/matches/114026678)
 
-See the [Qualifiers results Google sheet](https://docs.google.com/spreadsheets/d/14ogPEpFzPskknlTIlLvSRJVfdq5bxzZoU0L2wwHaJ-M/edit) for a more detailed log of performances on individual maps.
+See the [Qualifier results spreadsheet](https://docs.google.com/spreadsheets/d/14ogPEpFzPskknlTIlLvSRJVfdq5bxzZoU0L2wwHaJ-M/edit) for a more detailed log of performances on individual maps.
 
 | Seed | Player | Average placement | Average score |
 | --: | :-- | --: | --: |
