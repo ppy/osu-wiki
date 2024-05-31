@@ -60,6 +60,7 @@ The osu!catch World Cup 2024 is run by various community members.
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/44)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/142) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Challonge bracket](https://challonge.com/CWC2024)
+- [Support your country with a profile banner](https://osu.ppy.sh/store/products/1307) 
 
 ## Participants
 
