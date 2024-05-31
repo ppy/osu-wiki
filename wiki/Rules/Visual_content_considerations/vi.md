@@ -57,5 +57,4 @@ Nếu bạn không chắc chắn về một hình ảnh sẽ được đưa vào
 Trong một số trường hợp, [osu!team](/wiki/People/osu!_team) có quyền quyết định tuyên bố bất kỳ phần nội dung nào là hợp lệ hoặc không hợp lệ theo quan điểm riêng của họ, cho dù cuộc bỏ phiếu trước đó được tổ chức về vấn đề này.
 
 ## Ghi chú
-
 [^drug-nature1]: Điều này cũng có trường hợp ngoại lệ tùy thuộc vào tính chất của ma túy, cách sử dụng và đặc điểm của nó, đặc biệt trong các trường hợp ma túy được phi hình sự hóa và quản lý nhanh chóng trên toàn thế giới như cần sa. Bạn nên thực hiện yêu cầu ngoại lệ cụ thể cho quy tắc này bằng cách liên hệ với [nhóm hỗ trợ](/wiki/People/Account_support_team) theo địa chỉ [support@ppy.sh](mailto:support@ppy.sh)
