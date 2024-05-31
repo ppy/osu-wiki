@@ -85,7 +85,7 @@ Let's get started!
 
 > Although it cannot be said that good play in Taiko no Tatsujin is proportional to good play in osu!taiko, the top players in Taiko no Tatsujin are often the top players in osu!taiko!
 >
-> For example, players such as \_yu68, 1RoHa\_, kotohira_06, and Supersupesan are both top players in Taiko no Tatsujin and in osu!taiko!
+> For example, players such as \_yu68, 1RoHa\_, kotohira_06, and [supesan](https://osu.ppy.sh/users/14623658) are both top players in Taiko no Tatsujin and in osu!taiko!
 
 *To finish things up, what does the future hold for you? Do you have any goals or anything else that you'd like to mention?*
 
