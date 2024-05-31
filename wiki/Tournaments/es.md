@@ -1,8 +1,3 @@
----
-outdated_since: 7796058abfd0320952f8ac42def27364c06838af
-outdated_translation: true
----
-
 # Torneos
 
 Sección dedicada para torneos de osu!. Los torneos tienen su foro dedicado que puede encontrarse [a través de este enlace](https://osu.ppy.sh/community/forums/55).
@@ -216,7 +211,7 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 
 | Nombre | Inicio | Final | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Hard Rock Showdown](HRS) | 23/2/2024 | 28/4/2024 | *Por decidirse* | *Por decidirse* | *Por decidirse* |
+| [Hard Rock Showdown](HRS) | 23/2/2024 | 28/4/2024 | ::{ flag=PL }:: [maliszewski](https://osu.ppy.sh/users/12408961) | ::{ flag=HK }:: [mcy4](https://osu.ppy.sh/users/2165650) | ::{ flag=CA }:: [his kitten](https://osu.ppy.sh/users/3717598) |
 
 #### Hidden Only Tournament
 
