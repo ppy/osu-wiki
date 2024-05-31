@@ -1,8 +1,3 @@
----
-tags:
-  - vcc
----
-
 # Lưu ý về nội dung trực quan
 
 Theo [Nội quy cộng đồng #5](/wiki/Rules), tất cả nội dung trực quan được gửi hoặc tải lên osu! phải được cho là phù hợp với mọi lứa tuổi.
