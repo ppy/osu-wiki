@@ -117,7 +117,7 @@ The use of automated refereeing tools are permitted *with some caveats to reflec
 
 In addition to the expectations for programs above, automated refereeing tools must also adhere to the following expectations:
 
-- Potential bots must abide by the expectations laid out for [bot accounts](wiki/Bot_account) for general in-game use. Referee-related tools and software could alternatively be run directly from a user's own account.
+- Potential bots must abide by the expectations laid out for [bot accounts](/wiki/Bot_account) for general in-game use. Referee-related tools and software could alternatively be run directly from a user's own account.
 - A human referee must always be available to respond to calls for support from participants within a reasonable timeframe (2–5 minutes), and be able to be summoned remotely via the use of a `!panic` command inside the lobby itself. When this command is used, all automation should stop until resumed by the human referee.
 - Any ongoing lobbies should be able to be manually taken over by a human referee with minimal interference whilst also retaining any previous logs of play and chat.
 
