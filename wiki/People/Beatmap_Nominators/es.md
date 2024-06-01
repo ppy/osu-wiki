@@ -47,12 +47,6 @@ Los Beatmap Nominators reciben los siguientes beneficios:
 
 ## Miembros del equipo
 
-Las páginas [Beatmap Nominators](https://osu.ppy.sh/groups/28) y [Beatmap Nominators (Probationary)](https://osu.ppy.sh/groups/32) listan a todos los miembros del equipo.
-
-Las tablas a continuación indican los modos de juego en donde cada Beatmap Nominator es formalmente calificado para nominar. *Nota: Todos los Beatmap Nominators hablan inglés en adición a los idiomas listados debajo a menos que se especifique otra cosa.*
-
-### Beatmap Nominators completos
-
 #### osu!
 
 | Nombre | Idiomas adicionales |
@@ -234,6 +228,59 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 | ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  |
 | ::{ flag=ID }:: [Virtue-](https://osu.ppy.sh/users/6144772) | Indonesio |
 | ::{ flag=CN }:: [wIntEr7z](https://osu.ppy.sh/users/16509588) | Chino |
+
+### Beatmap Nominators completos
+
+#### osu!
+
+| Nombre | Idiomas adicionales |
+| :-- | :-- |
+| ::{ flag=FI }:: [Aakki](https://osu.ppy.sh/users/11077540) | Finés |
+| ::{ flag=FI }:: [Asphyxia](https://osu.ppy.sh/users/1715720) | Finés |
+| ::{ flag=RU }:: [Astrolis](https://osu.ppy.sh/users/12357714) |  |
+| ::{ flag=KR }:: [Cellina](https://osu.ppy.sh/users/2490770) |  |
+| ::{ flag=BR }:: [dasdwqdf](https://osu.ppy.sh/users/5403374) | Portugués |
+| ::{ flag=KR }:: [Enon](https://osu.ppy.sh/users/2043401) | Coreano |
+| ::{ flag=AU }:: [Gibune](https://osu.ppy.sh/users/5778687) |  |
+| ::{ flag=CA }:: [Gordon](https://osu.ppy.sh/users/7856835) | Alemán, español, francés |
+| ::{ flag=US }:: [Gorou](https://osu.ppy.sh/users/12157130) |  |
+| ::{ flag=CN }:: [Gust](https://osu.ppy.sh/users/1244312) |  |
+| ::{ flag=BR }:: [Malphs](https://osu.ppy.sh/users/9234078) | Portugués |
+| ::{ flag=US }:: [maxie](https://osu.ppy.sh/users/6447505) |  |
+| ::{ flag=AU }:: [Nadeshiko](https://osu.ppy.sh/users/3558897) |  |
+| ::{ flag=US }:: [revoh](https://osu.ppy.sh/users/8165181) |  |
+| ::{ flag=JP }:: [Satellite](https://osu.ppy.sh/users/1661227) | Japonés |
+| ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853) | Chino, cantonés |
+| ::{ flag=ID }:: [SupaV](https://osu.ppy.sh/users/19511007) | Indonesio, chino |
+| ::{ flag=NL }:: [Syph](https://osu.ppy.sh/users/4858573) | Neerlandés |
+| ::{ flag=US }:: [tilda](https://osu.ppy.sh/users/6233296) |  |
+| ::{ flag=NL }:: [yukic](https://osu.ppy.sh/users/6977273) |  |
+
+#### osu!taiko
+
+| Nombre | Idiomas adicionales |
+| :-- | :-- |
+| ::{ flag=RU }:: [\_HeLLFly\_](https://osu.ppy.sh/users/14225226) | Ruso |
+| ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996) | Neerlandés |
+| ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnamita |
+| ::{ flag=RS }:: [Ognjen3800](https://osu.ppy.sh/users/14706521) | Serbio |
+| ::{ flag=TW }:: [WTHBRO](https://osu.ppy.sh/users/8957119) | Chino |
+| ::{ flag=DE }:: [Zhuosh](https://osu.ppy.sh/users/11056763) | Chino, alemán, japonés, cantonés |
+
+#### osu!catch
+
+| Nombre | Idiomas adicionales |
+| :-- | :-- |
+
+#### osu!mania
+
+| Nombre | Idiomas adicionales |
+| :-- | :-- |
+| ::{ flag=CN }:: [AelSan](https://osu.ppy.sh/users/14095291) | Chino |
+| ::{ flag=ID }:: [Ihram-San](https://osu.ppy.sh/users/9908055) | Indonesio, malayo |
+| ::{ flag=KR }:: [Niks](https://osu.ppy.sh/users/3037469) | Coreano |
+| ::{ flag=US }:: [SilentWuffer](https://osu.ppy.sh/users/11355206) |  |
+| ::{ flag=CN }:: [YyottaCat](https://osu.ppy.sh/users/17753835) | Chino |
 
 ### Beatmap Nominators provisionales
 

@@ -54,12 +54,6 @@ BN 可获得以下特权：
 
 ## 团队成员
 
-[正式 BN 列表](https://osu.ppy.sh/groups/28)以及[见习 BN 列表](https://osu.ppy.sh/groups/32)列出了所有在任的团队成员。
-
-下表列出了包含所有游戏模式的 BN，他们都具有正式的提名谱面的资格。*注意：除非特殊说明，所有 BN 除了下列语言以外还可以使用英语交流。*
-
-### 正式成员
-
 #### osu!
 
 | 名字 | 语言 |
@@ -241,6 +235,59 @@ BN 可获得以下特权：
 | ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  |
 | ::{ flag=ID }:: [Virtue-](https://osu.ppy.sh/users/6144772) | 印度尼西亚语 |
 | ::{ flag=CN }:: [wIntEr7z](https://osu.ppy.sh/users/16509588) | 汉语 |
+
+### 正式成员
+
+#### osu!
+
+| 名字 | 语言 |
+| :-- | :-- |
+| ::{ flag=FI }:: [Aakki](https://osu.ppy.sh/users/11077540) | 芬兰语 |
+| ::{ flag=FI }:: [Asphyxia](https://osu.ppy.sh/users/1715720) | 芬兰语 |
+| ::{ flag=RU }:: [Astrolis](https://osu.ppy.sh/users/12357714) |  |
+| ::{ flag=KR }:: [Cellina](https://osu.ppy.sh/users/2490770) |  |
+| ::{ flag=BR }:: [dasdwqdf](https://osu.ppy.sh/users/5403374) | 葡萄牙语 |
+| ::{ flag=KR }:: [Enon](https://osu.ppy.sh/users/2043401) | 韩语 |
+| ::{ flag=AU }:: [Gibune](https://osu.ppy.sh/users/5778687) |  |
+| ::{ flag=CA }:: [Gordon](https://osu.ppy.sh/users/7856835) | 德语，西班牙语，法语 |
+| ::{ flag=US }:: [Gorou](https://osu.ppy.sh/users/12157130) |  |
+| ::{ flag=CN }:: [Gust](https://osu.ppy.sh/users/1244312) |  |
+| ::{ flag=BR }:: [Malphs](https://osu.ppy.sh/users/9234078) | 葡萄牙语 |
+| ::{ flag=US }:: [maxie](https://osu.ppy.sh/users/6447505) |  |
+| ::{ flag=AU }:: [Nadeshiko](https://osu.ppy.sh/users/3558897) |  |
+| ::{ flag=US }:: [revoh](https://osu.ppy.sh/users/8165181) |  |
+| ::{ flag=JP }:: [Satellite](https://osu.ppy.sh/users/1661227) | 日语 |
+| ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853) | 汉语，粤语 |
+| ::{ flag=ID }:: [SupaV](https://osu.ppy.sh/users/19511007) | 印度尼西亚语，汉语 |
+| ::{ flag=NL }:: [Syph](https://osu.ppy.sh/users/4858573) | 荷兰语 |
+| ::{ flag=US }:: [tilda](https://osu.ppy.sh/users/6233296) |  |
+| ::{ flag=NL }:: [yukic](https://osu.ppy.sh/users/6977273) |  |
+
+#### osu!taiko
+
+| 名字 | 语言 |
+| :-- | :-- |
+| ::{ flag=RU }:: [\_HeLLFly\_](https://osu.ppy.sh/users/14225226) | 俄语 |
+| ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996) | 荷兰语 |
+| ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | 越南语 |
+| ::{ flag=RS }:: [Ognjen3800](https://osu.ppy.sh/users/14706521) | 塞尔维亚语 |
+| ::{ flag=TW }:: [WTHBRO](https://osu.ppy.sh/users/8957119) | 汉语 |
+| ::{ flag=DE }:: [Zhuosh](https://osu.ppy.sh/users/11056763) | 汉语，德语，日语，粤语 |
+
+#### osu!catch
+
+| 名字 | 语言 |
+| :-- | :-- |
+
+#### osu!mania
+
+| 名字 | 语言 |
+| :-- | :-- |
+| ::{ flag=CN }:: [AelSan](https://osu.ppy.sh/users/14095291) | 汉语 |
+| ::{ flag=ID }:: [Ihram-San](https://osu.ppy.sh/users/9908055) | 印度尼西亚语，马来语 |
+| ::{ flag=KR }:: [Niks](https://osu.ppy.sh/users/3037469) | 韩语 |
+| ::{ flag=US }:: [SilentWuffer](https://osu.ppy.sh/users/11355206) |  |
+| ::{ flag=CN }:: [YyottaCat](https://osu.ppy.sh/users/17753835) | 汉语 |
 
 ### 见习成员
 
