@@ -16,7 +16,7 @@ The **Skinning Contest #5: Unchained** is a free-for-all osu! skinning contest h
 | Event | Timestamp |
 | --: | :-- |
 | Announcement | 2024-04-09 |
-| Submission phase | 2024-04-09/2024-05-14 |
+| Submission phase | 2024-04-09/2024-05-24 |
 | Voting phase | 2 weeks starting from a separate news post |
 | Results | *TBD* |
 
@@ -54,7 +54,7 @@ The Skinning Contest #4 is run by various community members.
 ## Ruleset
 
 - Submissions must not contain inappropriate, malicious, or epileptic content, and should adhere to the [osu! community rules](/wiki/Rules).
-- All assets need to be created by yourself, or be properly credited to the original creator. This includes, but is not limited to:
+- All assets need to be created by yourself, or used with permission and proper credit to the authors. This includes, but is not limited to:
   - fonts
   - icons
   - textures
