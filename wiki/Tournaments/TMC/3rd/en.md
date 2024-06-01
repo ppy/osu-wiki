@@ -8,7 +8,7 @@ tags:
 
 # Touhou Project Mania Cup 3rd
 
-![Touhou Project Mania Cup 3nd banner](img/logo.png)
+![Touhou Project Mania Cup 3nd banner](img/logo.jpg)
 
 The **Touhou Project Mania Cup 3nd** (***THMC 3nd***) was a team-based 2v2 osu!mania 4K tournament hosted by ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501). The main theme of this tournament the Touhou Project. The pool used for THMC 3rd is 100% based on original and fan-made Touhou music. It is the third instalment of the Touhou Project Mania Cup.
 
@@ -61,25 +61,25 @@ The Touhou Project Mania Cup 3rd was run by the THMC team and various community 
 - [Livestream (YouTube)](https://www.youtube.com/channel/UClgz9mNT7ny7YlesOwiitNw)
 - [Challonge bracket](https://challonge.com/THMC3)
 - [Information spreadsheet](https://docs.google.com/spreadsheets/d/1ZVZwRSBjtmjYHozK_WEvgNuUx-aoOEwFLLvMtGJevRY/edit?usp=sharing)
-- [Statistics spreadsheet](https://docs.google.com/spreadsheets/d/1VQzTrKuRg0eo9Y0HoALe7qzyltvbXYoURO9wJGdAZdg/edit?usp=sharing)
+- [Statistics spreadsheet made by PatouZ](https://docs.google.com/spreadsheets/d/1VQzTrKuRg0eo9Y0HoALe7qzyltvbXYoURO9wJGdAZdg/edit?usp=sharing)
 
 ## Participants
 
 | Team | Members |
 | :-: | :-- |
 | **:1217angry:** | **::{ flag=TW }:: [blacktea12](https://osu.ppy.sh/users/13389861)**, ::{ flag=TW }:: [Axium0w0](https://osu.ppy.sh/users/16125443), ::{ flag=TW }:: [Pdog4ni](https://osu.ppy.sh/users/14581544) |
-| **"undecided"** | **::{ flag=PH }:: [DaMeMeThEiFxD](https://osu.ppy.sh/users/14324153)**, [INVALID], ::{ flag=US }:: [carpal tunnel](https://osu.ppy.sh/users/34314648), ::{ flag=CL }:: [nyawaa](https://osu.ppy.sh/users/10235085) |
+| **"undecided"** | **::{ flag=PH }:: [DaMeMeThEiFxD](https://osu.ppy.sh/users/14324153)**, ::{ flag=SG }:: [ERA Adam](https://osu.ppy.sh/users/12297375), ::{ flag=US }:: [carpal tunnel](https://osu.ppy.sh/users/34314648), ::{ flag=CL }:: [nyawaa](https://osu.ppy.sh/users/10235085) |
 | **4VKZ** | **::{ flag=RU }:: [tchyoouschqueey](https://osu.ppy.sh/users/6691100)**, ::{ flag=RU }:: [HV4](https://osu.ppy.sh/users/25913397), ::{ flag=RU }:: [ZugamiRA](https://osu.ppy.sh/users/11026954), ::{ flag=RU }:: [Zavodila2121](https://osu.ppy.sh/users/26938475) |
 | **5 Digit Warriors** | **::{ flag=US }:: [xBasicReamcy](https://osu.ppy.sh/users/15990628)**, ::{ flag=VN }:: [DNABBTBT](https://osu.ppy.sh/users/28188220) |
 | **Alisa Mikhailovna Kujou** | **::{ flag=SG }:: [sukidayo-](https://osu.ppy.sh/users/16870002)**, ::{ flag=SG }:: [McButt](https://osu.ppy.sh/users/18018708), ::{ flag=SG }:: [TheOPMeme](https://osu.ppy.sh/users/15763622), ::{ flag=HK }:: [RyanWong1216](https://osu.ppy.sh/users/19030562) |
 | **Amogus** | **::{ flag=SA }:: [Raiden129](https://osu.ppy.sh/users/23034813)**, ::{ flag=MY }:: [YtAlbin0](https://osu.ppy.sh/users/21873512), ::{ flag=HK }:: [WhiteKyleIsANub](https://osu.ppy.sh/users/18824384) |
-| **Ariana Grande Fanboys** | **::{ flag=CA }:: [Holo The Wise](https://osu.ppy.sh/users/17036270)**, ::{ flag=CA }:: [Robert6400](https://osu.ppy.sh/users/11467559), ::{ flag=CA }:: [Twitch Chat](https://osu.ppy.sh/users/12723207), [INVALID] |
+| **Ariana Grande Fanboys** | **::{ flag=CA }:: [Holo The Wise](https://osu.ppy.sh/users/17036270)**, ::{ flag=CA }:: [Robert6400](https://osu.ppy.sh/users/11467559), ::{ flag=CA }:: [Twitch Chat](https://osu.ppy.sh/users/12723207), [betsuni](https://osu.ppy.sh/users/21020437) |
 | **AustralianSpiders** | **::{ flag=US }:: [astal_](https://osu.ppy.sh/users/32151196)**, ::{ flag=GB }:: [AspectOfTheDie](https://osu.ppy.sh/users/19191509), ::{ flag=CA }:: [Bushidored98](https://osu.ppy.sh/users/15570263) |
-| **Bloxy cola** | **::{ flag=ID }:: [adihza](https://osu.ppy.sh/users/18309106)**, [INVALID], ::{ flag=ID }:: [bad hd player](https://osu.ppy.sh/users/13385865) |
-| **bob** | **::{ flag=NL }:: [Shoira](https://osu.ppy.sh/users/13377652)**, ::{ flag=NL }:: [samuelhklumpers](https://osu.ppy.sh/users/10945523), ::{ flag=TH }:: [\[Ping\]](https://osu.ppy.sh/users/6291395), [INVALID] |
+| **Bloxy cola** | **::{ flag=ID }:: [adihza](https://osu.ppy.sh/users/18309106)**,::{ flag=PH }:: [4kenn](https://osu.ppy.sh/users/20496815), ::{ flag=ID }:: [bad hd player](https://osu.ppy.sh/users/13385865) |
+| **bob** | **::{ flag=NL }:: [Shoira](https://osu.ppy.sh/users/13377652)**, ::{ flag=NL }:: [samuelhklumpers](https://osu.ppy.sh/users/10945523), ::{ flag=TH }:: [\[Ping\]](https://osu.ppy.sh/users/6291395), ::{ flag=NL }:: [Quinnie why](https://osu.ppy.sh/users/16999311) |
 | **BOCA JUNIORS** | **::{ flag=BR }:: [Netroo](https://osu.ppy.sh/users/13769101)**, ::{ flag=US }:: [Surcanp](https://osu.ppy.sh/users/19862784), ::{ flag=VN }:: [BC1_CI9](https://osu.ppy.sh/users/25923595), ::{ flag=AR }:: [- Kuru](https://osu.ppy.sh/users/24649329) |
 | **bounter gaming** | **::{ flag=AU }:: [shorts](https://osu.ppy.sh/users/8021372)**, ::{ flag=PH }:: [Axfaerie](https://osu.ppy.sh/users/13857689), ::{ flag=AU }:: [-Ainsel-](https://osu.ppy.sh/users/27855382), ::{ flag=PH }:: [choydoru_meep28](https://osu.ppy.sh/users/23327830) |
-| **BurguerDeFresa** | **::{ flag=ES }:: [yordi](https://osu.ppy.sh/users/17968946)**, ::{ flag=ES }:: [ShiropeDeFresa](https://osu.ppy.sh/users/16020685), ::{ flag=CL }:: [\[LS\]bambi fnf](https://osu.ppy.sh/users/20360332), [INVALID] |
+| **BurguerDeFresa** | **::{ flag=ES }:: [yordi](https://osu.ppy.sh/users/17968946)**, ::{ flag=ES }:: [ShiropeDeFresa](https://osu.ppy.sh/users/16020685), ::{ flag=CL }:: [\[LS\]bambi fnf](https://osu.ppy.sh/users/20360332), ::{ flag=HN }:: [\[HD\]Weathersito](https://osu.ppy.sh/users/24167604) |
 | **Catcat** | **::{ flag=CN }:: [\[Crz\]Xinyi2016](https://osu.ppy.sh/users/14213841)**, ::{ flag=CN }:: [\[ Classic \]](https://osu.ppy.sh/users/5858053), ::{ flag=CN }:: [\[GB\]QAQlingjiu](https://osu.ppy.sh/users/27288518), ::{ flag=CN }:: [\[GB\]namelest](https://osu.ppy.sh/users/17812436) |
 | **cirno car** | **::{ flag=NZ }:: [Robeats](https://osu.ppy.sh/users/19446399)**, ::{ flag=PH }:: [iid3rp](https://osu.ppy.sh/users/23274559), ::{ flag=AU }:: [Orcanos](https://osu.ppy.sh/users/13762441), ::{ flag=AU }:: [AnatharaX](https://osu.ppy.sh/users/14390680) |
 | **cirno overrated** | **::{ flag=TH }:: [Natsurio](https://osu.ppy.sh/users/17721836)**, ::{ flag=TH }:: [Mkurisutina-](https://osu.ppy.sh/users/15514768) |
@@ -88,16 +88,16 @@ The Touhou Project Mania Cup 3rd was run by the THMC team and various community 
 | **Dual Mania'cs** | **::{ flag=UA }:: [jrjin228](https://osu.ppy.sh/users/19927608)**, ::{ flag=PH }:: [Drew_TheMaster](https://osu.ppy.sh/users/13455818) |
 | **El Fortnite Legends \[EFL\]** | **::{ flag=MA }:: [ZeD_](https://osu.ppy.sh/users/14973137)**, ::{ flag=MA }:: [Enissay](https://osu.ppy.sh/users/26637662), ::{ flag=ES }:: [P_F_C_PRO](https://osu.ppy.sh/users/23731093),  |
 | **eswatini (real) + 1** | **::{ flag=US }:: [cyger](https://osu.ppy.sh/users/20020441)**, ::{ flag=CA }:: [7Reinn-](https://osu.ppy.sh/users/25766718), ::{ flag=US }:: [Cirbyy](https://osu.ppy.sh/users/15582703), ::{ flag=CA }:: [\[OSG\] rosetta](https://osu.ppy.sh/users/27166588) |
-| **Extreme Reimu Admirers** | **[INVALID]**, ::{ flag=CA }:: [ZeMaB](https://osu.ppy.sh/users/15633324), ::{ flag=US }:: [ERA Imperial](https://osu.ppy.sh/users/5066305), ::{ flag=US }:: [ERA Zenith](https://osu.ppy.sh/users/7128063) |
+| **Extreme Reimu Admirers** | **::{ flag=US }:: [junglesnipes](https://osu.ppy.sh/users/9709652)**, ::{ flag=CA }:: [ZeMaB](https://osu.ppy.sh/users/15633324), ::{ flag=US }:: [ERA Imperial](https://osu.ppy.sh/users/5066305), ::{ flag=US }:: [ERA Zenith](https://osu.ppy.sh/users/7128063) |
 | **Fortniteloliclub** | **::{ flag=MX }:: [TheMoonLoop](https://osu.ppy.sh/users/15628036)**, ::{ flag=CL }:: [KrNatomi](https://osu.ppy.sh/users/15922672), ::{ flag=BO }:: [xhalez](https://osu.ppy.sh/users/21478615) |
-| **Fumados** | **[INVALID]**, ::{ flag=MX }:: [Shadow_GM](https://osu.ppy.sh/users/19554046), ::{ flag=PA }:: [Bolelo](https://osu.ppy.sh/users/23819962), ::{ flag=MX }:: [Darkhechiser](https://osu.ppy.sh/users/23392961) |
+| **Fumados** | **[altros](https://osu.ppy.sh/users/10794280)**, ::{ flag=MX }:: [Shadow_GM](https://osu.ppy.sh/users/19554046), ::{ flag=PA }:: [Bolelo](https://osu.ppy.sh/users/23819962), ::{ flag=MX }:: [Darkhechiser](https://osu.ppy.sh/users/23392961) |
 | **Fumi gaming** | **::{ flag=CZ }:: [huypham_gm](https://osu.ppy.sh/users/16978354)**, ::{ flag=VN }:: [Qi-ryu](https://osu.ppy.sh/users/21211350), ::{ flag=VN }:: [HuyK4sp3r](https://osu.ppy.sh/users/18071968) |
 | **Goofy Team** | **::{ flag=FR }:: [Kaya_](https://osu.ppy.sh/users/11643399)**, ::{ flag=FR }:: [Hazalax](https://osu.ppy.sh/users/8916324), ::{ flag=FR }:: [makiba dt](https://osu.ppy.sh/users/12214401) |
 | **Great Value Xanthan Gum** | **::{ flag=US }:: [Crogzy Wogzy](https://osu.ppy.sh/users/25727211)**, ::{ flag=GB }:: [Chimchar](https://osu.ppy.sh/users/18646531), ::{ flag=US }:: [_jpg](https://osu.ppy.sh/users/17300655), ::{ flag=ID }:: [\[ReyZ\]](https://osu.ppy.sh/users/16768803) |
 | **gyoza+VN bois in Gensokyo** | **::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222)**, ::{ flag=VN }:: [magnifestio](https://osu.ppy.sh/users/22725724), ::{ flag=JP }:: [gyoza_goki](https://osu.ppy.sh/users/18144664), ::{ flag=VN }:: [\[LS\]Vixile](https://osu.ppy.sh/users/26233321) |
 | **Haguki Brothers** | **::{ flag=JP }:: [jhleetgirl](https://osu.ppy.sh/users/10745260)**, ::{ flag=JP }:: [CrewK](https://osu.ppy.sh/users/11488604) |
 | **hasale sum balls** | **::{ flag=ID }:: [Oofyxl](https://osu.ppy.sh/users/20599160)**, ::{ flag=ID }:: [\[LS\]Robi](https://osu.ppy.sh/users/21900872), ::{ flag=ID }:: [Fr05tyGD](https://osu.ppy.sh/users/14230684), ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805) |
-| **hey babe hop on overwatch** | **[INVALID]**, ::{ flag=BR }:: [braianxit](https://osu.ppy.sh/users/29915327) |
+| **hey babe hop on overwatch** | **::{ flag=BR }:: [-wahl-](https://osu.ppy.sh/users/29727936)**, ::{ flag=BR }:: [braianxit](https://osu.ppy.sh/users/29915327) |
 | **Hot Guys from Gensokyo** | **::{ flag=SE }:: [NeonDrakon](https://osu.ppy.sh/users/6315000)**, ::{ flag=DE }:: [ERA medium kek](https://osu.ppy.sh/users/11625617), ::{ flag=KR }:: [yz1155](https://osu.ppy.sh/users/2071008), ::{ flag=TH }:: [AomDCO](https://osu.ppy.sh/users/21072569) |
 | **KingOfKongKong** | **::{ flag=FR }:: [ssiizz_](https://osu.ppy.sh/users/16487992)**, ::{ flag=FR }:: [Arsene30](https://osu.ppy.sh/users/33011176) |
 | **kyaChiπ** | **::{ flag=PE }:: [-Lalito898](https://osu.ppy.sh/users/15098503)**, ::{ flag=PE }:: [FabrizzioGd](https://osu.ppy.sh/users/18693260), ::{ flag=US }:: [Ex0n](https://osu.ppy.sh/users/21684169), ::{ flag=PE }:: [7eo-](https://osu.ppy.sh/users/15769288) |
@@ -116,12 +116,12 @@ The Touhou Project Mania Cup 3rd was run by the THMC team and various community 
 | **Marisa Meme (Touhou)** | **::{ flag=IT }:: [Kiraz](https://osu.ppy.sh/users/3807675)**, ::{ flag=IT }:: [Bestfast](https://osu.ppy.sh/users/11616192), ::{ flag=IT }:: [\[SPNG\] Sim0](https://osu.ppy.sh/users/3262821) |
 | **messi chiquito** | **::{ flag=AR }:: [clonedroid](https://osu.ppy.sh/users/21114236)**, ::{ flag=ES }:: [ErAlvagitusXD](https://osu.ppy.sh/users/25769893), ::{ flag=CL }:: [emi_dake](https://osu.ppy.sh/users/24181636) |
 | **Metal Pipe SFX** | **::{ flag=RO }:: [Kiirbo](https://osu.ppy.sh/users/14985143)**, ::{ flag=RO }:: [RteEz](https://osu.ppy.sh/users/15265534), ::{ flag=ID }:: [Chronal](https://osu.ppy.sh/users/20811736) |
-| **Mew's Bodyguards** | **::{ flag=FR }:: [DarkMew2](https://osu.ppy.sh/users/13921965)**, [INVALID], ::{ flag=US }:: [\[LS\]Mitter](https://osu.ppy.sh/users/14551764), ::{ flag=SG }:: [-Aishiteru-](https://osu.ppy.sh/users/13390529) |
+| **Mew's Bodyguards** | **::{ flag=FR }:: [DarkMew2](https://osu.ppy.sh/users/13921965)**, ::{ flag=PH }:: [bojii](https://osu.ppy.sh/users/10083439), ::{ flag=US }:: [\[LS\]Mitter](https://osu.ppy.sh/users/14551764), ::{ flag=SG }:: [-Aishiteru-](https://osu.ppy.sh/users/13390529) |
 | **Milo Truck Drivers** | **::{ flag=MY }:: [Onlinee](https://osu.ppy.sh/users/13630137)**, ::{ flag=MY }:: [\[MY\]Sol](https://osu.ppy.sh/users/12054898), ::{ flag=MY }:: [JayLye](https://osu.ppy.sh/users/14892447), ::{ flag=MY }:: [IvanOfficial](https://osu.ppy.sh/users/12818249) |
 | **Niflheim** | **::{ flag=ID }:: [KinoJourney](https://osu.ppy.sh/users/15798093)**, ::{ flag=ID }:: [\[ -Asriel- \]](https://osu.ppy.sh/users/11829623) |
 | **Noodle Team** | **::{ flag=RO }:: [Lowuki](https://osu.ppy.sh/users/18341280)**, ::{ flag=RO }:: [Lifilled](https://osu.ppy.sh/users/11711666), ::{ flag=RO }:: [Mich_](https://osu.ppy.sh/users/11784492), ::{ flag=RO }:: [Bluestone413](https://osu.ppy.sh/users/17705451) |
 | **nyanya** | **::{ flag=CN }:: [\[GB\]mmttyy233](https://osu.ppy.sh/users/28639641)**, ::{ flag=CN }:: [\[GB\]nyasun](https://osu.ppy.sh/users/16277321), ::{ flag=CN }:: [\[GB\]ParasolTree](https://osu.ppy.sh/users/27552902), ::{ flag=CN }:: [xc165543337](https://osu.ppy.sh/users/15246697) |
-| **oblikulivo** | **[INVALID]**, ::{ flag=GB }:: [Abyss 0](https://osu.ppy.sh/users/24780565) |
+| **oblikulivo** | **::{ flag=GB }:: [MiniEgg_23](https://osu.ppy.sh/users/25914360)**, ::{ flag=GB }:: [Abyss 0](https://osu.ppy.sh/users/24780565) |
 | **Partly Zesty** | **::{ flag=US }:: [\[LS\]Picklez](https://osu.ppy.sh/users/19589233)**, ::{ flag=US }:: [\[LS\]Dev](https://osu.ppy.sh/users/16407268), ::{ flag=US }:: [\[LS\]Mari](https://osu.ppy.sh/users/15270411), ::{ flag=CA }:: [ERA Mystiik](https://osu.ppy.sh/users/17242265) |
 | **Pear Pair** | **::{ flag=FI }:: [Eezkuliz](https://osu.ppy.sh/users/15190519)**, ::{ flag=NG }:: [KidFast](https://osu.ppy.sh/users/17815168) |
 | **Pendejos No Duran Nada** | **::{ flag=CO }:: [billabong89](https://osu.ppy.sh/users/13896159)**, ::{ flag=CO }:: [2kyFangirl](https://osu.ppy.sh/users/10442657), ::{ flag=CO }:: [Dacraf](https://osu.ppy.sh/users/22610631), ::{ flag=CO }:: [Saikuto](https://osu.ppy.sh/users/22095766) |
@@ -140,20 +140,20 @@ The Touhou Project Mania Cup 3rd was run by the THMC team and various community 
 | **shawarma beurre** | **::{ flag=AE }:: [dragiee](https://osu.ppy.sh/users/17959501)**, ::{ flag=FR }:: [narahashi](https://osu.ppy.sh/users/18867523), ::{ flag=FR }:: [Babibelbleu](https://osu.ppy.sh/users/16892459), ::{ flag=AE }:: [Phagosaur](https://osu.ppy.sh/users/11365333) |
 | **Speed Chicken** | **::{ flag=BR }:: [MilesNoobkk](https://osu.ppy.sh/users/22656756)**, ::{ flag=BR }:: [Buvuw](https://osu.ppy.sh/users/22921542), ::{ flag=BR }:: [Miku Meru](https://osu.ppy.sh/users/18943504), ::{ flag=DE }:: [araciumhd](https://osu.ppy.sh/users/15882740) |
 | **STRONG 280000000** | **::{ flag=JP }:: [ICECAKE](https://osu.ppy.sh/users/16100800)**, ::{ flag=JP }:: [9990_y](https://osu.ppy.sh/users/25588443), ::{ flag=JP }:: [yomogi237](https://osu.ppy.sh/users/28571440), ::{ flag=JP }:: [Bacon Haniwa](https://osu.ppy.sh/users/16562681) |
-| **Sugos Sweep** | **[INVALID]**, [INVALID], ::{ flag=US }:: [Sugos_](https://osu.ppy.sh/users/18667256), [INVALID] |
+| **Sugos Sweep** | **::{ flag=CA }:: [dolen](https://osu.ppy.sh/users/13145344)**, ::{ flag=ID }:: [iSxga](https://osu.ppy.sh/users/15801261), ::{ flag=US }:: [Sugos_](https://osu.ppy.sh/users/18667256), ::{ flag=US }:: [YoungBurger14](https://osu.ppy.sh/users/16787675) |
 | **Taiwan peace** | **::{ flag=US }:: [Yeeterboi135](https://osu.ppy.sh/users/25283583)**, ::{ flag=US }:: [Cheemsball](https://osu.ppy.sh/users/21810979) |
 | **Taylor Swift Fanboys** | **::{ flag=CA }:: [walmart5193](https://osu.ppy.sh/users/16468962)**, ::{ flag=CA }:: [arpia97](https://osu.ppy.sh/users/6363008), ::{ flag=CA }:: [mae0149](https://osu.ppy.sh/users/9188975), ::{ flag=CA }:: [UmmmMrMoo](https://osu.ppy.sh/users/15314355) |
 | **Team Inflation** | **::{ flag=AR }:: [stupid femboy](https://osu.ppy.sh/users/28439927)**, ::{ flag=AR }:: [-Mitsubishi](https://osu.ppy.sh/users/27257701), ::{ flag=VE }:: [mAxkale](https://osu.ppy.sh/users/24360169), ::{ flag=PE }:: [diaz amancay](https://osu.ppy.sh/users/30853145) |
 | **The Benchwarmers** | **::{ flag=US }:: [PorkIsGreat](https://osu.ppy.sh/users/10756322)**, ::{ flag=SE }:: [Johnney101](https://osu.ppy.sh/users/11928361), ::{ flag=US }:: [Breaker1233](https://osu.ppy.sh/users/23491397), ::{ flag=US }:: [TPColor](https://osu.ppy.sh/users/19102458) |
 | **the farters** | **::{ flag=NZ }:: [memewhat123](https://osu.ppy.sh/users/21846136)**, ::{ flag=US }:: [FloopChoop](https://osu.ppy.sh/users/25156022), ::{ flag=NZ }:: [do you fart](https://osu.ppy.sh/users/15690480) |
 | **The Funkineers** | **::{ flag=US }:: [NotJustR3D](https://osu.ppy.sh/users/25916084)**, ::{ flag=TH }:: [1NCredibleBacon](https://osu.ppy.sh/users/21921071), ::{ flag=PH }:: [c_latte](https://osu.ppy.sh/users/22668430), ::{ flag=US }:: [Voolish](https://osu.ppy.sh/users/27446450) |
-| **the malaysians** | **::{ flag=MY }:: [Qosu_](https://osu.ppy.sh/users/25660423)**, [INVALID], ::{ flag=MY }:: [ClassicNickey](https://osu.ppy.sh/users/26468007), ::{ flag=MY }:: [VASD Player](https://osu.ppy.sh/users/29929002) |
+| **the malaysians** | **::{ flag=MY }:: [Qosu_](https://osu.ppy.sh/users/25660423)**, ::{ flag=MY }:: [\[MY\] Ril](https://osu.ppy.sh/users/13359872), , ::{ flag=MY }:: [ClassicNickey](https://osu.ppy.sh/users/26468007), ::{ flag=MY }:: [VASD Player](https://osu.ppy.sh/users/29929002) |
 | **The Rhythm Thieves** | **::{ flag=HK }:: [Pofnkul](https://osu.ppy.sh/users/23717210)**, ::{ flag=US }:: [KimMui](https://osu.ppy.sh/users/26090734), ::{ flag=SG }:: [skythedumbdumb](https://osu.ppy.sh/users/21749745), ::{ flag=PH }:: [Jarodpog](https://osu.ppy.sh/users/23604857) |
 | **thonk** | **::{ flag=NZ }:: [JimmyEpic](https://osu.ppy.sh/users/28831164)**, ::{ flag=ID }:: [Nqinn](https://osu.ppy.sh/users/11312272), ::{ flag=VN }:: [Frostleaf](https://osu.ppy.sh/users/11863174), ::{ flag=US }:: [RED POCKET](https://osu.ppy.sh/users/10274449) |
-| **thug hunters** | **::{ flag=US }:: [beta carotene](https://osu.ppy.sh/users/22839620)**, [INVALID], ::{ flag=US }:: [\[LS\]Ko](https://osu.ppy.sh/users/18983998), ::{ flag=US }:: [z2a](https://osu.ppy.sh/users/12542173) |
+| **thug hunters** | **::{ flag=US }:: [beta carotene](https://osu.ppy.sh/users/22839620)**, [\[LS\] breadles](https://osu.ppy.sh/users/25981673), ::{ flag=US }:: [\[LS\]Ko](https://osu.ppy.sh/users/18983998), ::{ flag=US }:: [z2a](https://osu.ppy.sh/users/12542173) |
 | **toehoe virgins** | **::{ flag=BG }:: [-Deno-](https://osu.ppy.sh/users/21798971)**, ::{ flag=US }:: [J5 is Life](https://osu.ppy.sh/users/4690822), ::{ flag=US }:: [Howhow](https://osu.ppy.sh/users/10321714), ::{ flag=VN }:: [-dex-](https://osu.ppy.sh/users/21188734) |
 | **tree people** | **::{ flag=CA }:: [Amnesiaioi](https://osu.ppy.sh/users/20502257)**, ::{ flag=CA }:: [ItsTheRiko](https://osu.ppy.sh/users/20600437) |
-| **Typhoon** | **[INVALID]**, ::{ flag=GB }:: [AJgamer07](https://osu.ppy.sh/users/25950685), ::{ flag=PA }:: [\[HD\]Softer64](https://osu.ppy.sh/users/8704966), ::{ flag=MY }:: [ReJust](https://osu.ppy.sh/users/20670028) |
+| **Typhoon** | **::{ flag=CA }:: [squiddy](https://osu.ppy.sh/users/30465583)**, ::{ flag=GB }:: [AJgamer07](https://osu.ppy.sh/users/25950685), ::{ flag=PA }:: [\[HD\]Softer64](https://osu.ppy.sh/users/8704966), ::{ flag=MY }:: [ReJust](https://osu.ppy.sh/users/20670028) |
 | **Walnuts** | **::{ flag=GB }:: [\[Crz\]Envy](https://osu.ppy.sh/users/11817815)**, ::{ flag=US }:: [Asharpp](https://osu.ppy.sh/users/12657177), ::{ flag=US }:: [Znow](https://osu.ppy.sh/users/15513303), ::{ flag=US }:: [\[LS\]eeriee](https://osu.ppy.sh/users/19133938) |
 | **Weakest Captain** | **::{ flag=KR }:: [GungunK](https://osu.ppy.sh/users/25311011)**, ::{ flag=KR }:: [PocaFanboy](https://osu.ppy.sh/users/6912079), ::{ flag=KR }:: [qtepote](https://osu.ppy.sh/users/18278945), ::{ flag=KR }:: [fhdmtmf](https://osu.ppy.sh/users/14454420) |
 | **What’s Meramipoppin** | **::{ flag=US }:: [PeachMarrow](https://osu.ppy.sh/users/15926730)**, ::{ flag=SG }:: [Messica](https://osu.ppy.sh/users/19838168), ::{ flag=VN }:: [Qutilt](https://osu.ppy.sh/users/16214723), ::{ flag=SG }:: [Seiron](https://osu.ppy.sh/users/18666852) |
@@ -161,7 +161,7 @@ The Touhou Project Mania Cup 3rd was run by the THMC team and various community 
 | **whoever tf they are** | **::{ flag=FI }:: [Albania Illya](https://osu.ppy.sh/users/10393606)**, ::{ flag=FI }:: [Fisu](https://osu.ppy.sh/users/35431390), ::{ flag=DE }:: [ERA Leo](https://osu.ppy.sh/users/15440118), ::{ flag=DE }:: [Cyaewin](https://osu.ppy.sh/users/10027302) |
 | **Winx Club** | **::{ flag=BR }:: [LeMarcinho](https://osu.ppy.sh/users/13347579)**, ::{ flag=BR }:: [DemiFiendSMT](https://osu.ppy.sh/users/20051971), ::{ flag=US }:: [\[GS\]linc](https://osu.ppy.sh/users/12093536), ::{ flag=US }:: [Toadette](https://osu.ppy.sh/users/34981357) |
 | **yotsubaStare@YummyBuffet** | **::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622)**, ::{ flag=US }:: [_Seth](https://osu.ppy.sh/users/8111953), ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576), ::{ flag=US }:: [\[GS\]Astra](https://osu.ppy.sh/users/15835499) |
-| **Zonrox GentleClean** | **[INVALID]**, ::{ flag=PH }:: [ManiaDegengod](https://osu.ppy.sh/users/13193798), ::{ flag=PH }:: [DiamondGenius75](https://osu.ppy.sh/users/19107638), ::{ flag=PH }:: [jianawesome22](https://osu.ppy.sh/users/23609936) |
+| **Zonrox GentleClean** | **::{ flag=PH }:: [Silicosis 2](https://osu.ppy.sh/users/18560307)**, ::{ flag=PH }:: [ManiaDegengod](https://osu.ppy.sh/users/13193798), ::{ flag=PH }:: [DiamondGenius75](https://osu.ppy.sh/users/19107638), ::{ flag=PH }:: [jianawesome22](https://osu.ppy.sh/users/23609936) |
 
 
 ## Podium
