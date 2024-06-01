@@ -4,12 +4,12 @@
 
 ## Hành vi và ứng xử cần làm
 
-- Mục đích của modding là giúp người lập bản đồ cải thiện công việc giúp beatmap của họ lên trạng thái [xếp hạng](/wiki/Beatmap/Category#ranked) nếu người lập bản đồ chọn làm như vậy. Nếu bạn không thích việc giúp đỡ người khác, xin hãy tránh xa các cuộc thảo luận để tránh *làm tổn thương họ*.
+- Mục đích của modding là giúp người lập bản đồ cải thiện công việc giúp beatmap của họ lên trạng thái [xếp hạng](/wiki/Beatmap/Category#ranked) nếu người lập bản đồ muốn như vậy. Nếu bạn không thích việc giúp đỡ người khác, xin hãy tránh xa các cuộc thảo luận để tránh *làm tổn thương họ*.
   - Đừng né tránh những người lập bản đồ và người sửa đổi mới — những người này là những người cần nhiều kiến thức nhất từ ​​ý kiến ​​đóng góp của bạn và mọi người! Hãy kiên nhẫn, thấu hiểu và đưa ra càng nhiều lời giải thích càng tốt để họ có thể học hỏi và tiến bộ nhanh hơn.
   - Nếu bạn là người mới, đừng ngại khi nói vậy! Điều này sẽ thu hút các thành viên cộng đồng có kinh nghiệm chỉ cho bạn đi đúng hướng. Mọi người đều mới và ở vị trí của bạn một lần!
 - Hãy đối xử với người khác như cách bạn muốn được đối xử. Mọi người dễ tiếp thu những lời đề nghị tử tế, hữu ích hơn những lời tục tĩu. Cố gắng hiểu quan điểm của người khác thay vì tấn công nó - không ai thích cảm thấy mình vô dụng, kém cỏi hay ngu ngốc. Nếu bạn là một kẻ độc hại, hãy cho rằng tất cả những người khác đều không giống bạn.
 - Nếu bạn muốn nhận xét hoặc thảo luận về một beatmap, hãy truy cập [trang thảo luận](/wiki/Beatmap_discussion) của beatmap đó - không phải truy cập vào các phương tiện truyền thông xã hội hoặc phần bình luận, vì khó có ai có quyền giải quyết chúng một cách thuận lợi.
-- Các cuộc công kích cá nhân, gửi bình luận tục tĩu, đùa không đúng chỗ, làm lệch hướng chủ đề và bắt đầu cuộc ẩu đả nói chung đều không được chấp nhận dưới bất kỳ hình thức nào và **sẽ không được tha thứ**. 
+- Các cuộc công kích cá nhân, bình luận tục tĩu, đùa không đúng chỗ, làm lệch hướng chủ đề và bắt đầu cuộc ẩu đả nói chung đều không được chấp nhận dưới bất kỳ hình thức nào và **sẽ không được tha thứ**. 
 
 ## Tạo một bài đăng mod
 
@@ -51,7 +51,7 @@ nếu ai đó đăng một số đề xuất lên bản đồ của bạn, thậ
 - Nếu bạn không thể giải thích điều gì đó bằng logic thì bạn đừng giải thích điều đó cho họ bằng lời nói bạo lực. Thay vì tiếp tục một cuộc thảo luận không tiến triển, hãy bỏ đi và thử lại với người kiểm duyệt/người lập bản đồ tiếp theo.
 - Khi mọi thứ có vẻ vượt quá tầm kiểm soát hoặc nếu cuộc thảo luận gặp khó khăn trong việc duy trì chủ đề, [hãy gọi cho người điều hành](/wiki/Reporting_bad_behaviour). Đừng tiếp diễn vấn đề bằng cách tiếp tục đăng bài.
 
-## Beatmap đủ điều kiện
+## Khi beatmap đủ điều kiện
 
 [Phần đủ điều kiện](/wiki/Beatmap/Category#qualified) cho phép beatmap nhận được các đề xuất cuối cùng về thay đổi hoặc cải tiến trước khi đạt đến trạng thái xếp hạng. Khi sửa một bản đồ đủ điều kiện, mọi thứ bạn cho là "không nhỏ" phải được đề cập **luôn** - tuy nhiên, có những vấn đề nhỏ cũng đáng được đề cập, đặc biệt nếu chúng ảnh hưởng đến lối chơi. Nếu một bản đồ nhịp đủ điều kiện có nhiều số lượng các vấn đề nhỏ hoặc nếu có một hoặc nhiều vấn đề lớn/không thể xếp hạng đáng kể, thì bản đồ nhịp đó sẽ bị loại để có thể thực hiện sửa lỗi và cải tiến trước khi xác nhận lại lần nữa.
 
