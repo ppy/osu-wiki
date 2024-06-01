@@ -77,7 +77,7 @@ In addition, all promotional material or any services associated with a tourname
 **The tournament must also abide by the following practices throughout:**
 
 - All registrants must be screened by the account support team before play commences.[^play-commence] See [tournament screening](#tournament-screening) for more details.
-- If a user satisfies the sign-up criteria (if any) and is not [filtered](#registrant-filtering-seeding-and-automated-refereeing) out through other means, the tournament must not prevent those who pass the screening from participating without both ample evidence presented publicly against them and the approval of the account support team.
+- If a user satisfies the sign-up criteria (if any) and is not [filtered](#registrant-filtering-and-seeding) out through other means, the tournament must not prevent those who pass the screening from participating without both ample evidence presented publicly against them and the approval of the account support team.
   - This includes preventing users who are perceived to be "sandbagging" from play. Should an organiser have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the [Tournament Committee](/wiki/People/Tournament_Committee) for a case-by-case review using the [tournament reports form](https://pif.ephemeral.ink/tournament-reports).
 - A dedicated referee must be present during every match, or be available to be summoned with minimal delay (2–5 minutes) if appropriate permission for automated software has been granted and is being used for assistance. Players cannot "self-ref".
   - The use of bots is allowed on qualifier stage matches, provided that it is supervised by a staff member.
@@ -91,20 +91,18 @@ Once the tournament has concluded, the tournament organisers will need to submit
 - An appropriately designed badge ([see below](#profile-badges)).
 - A link to the publicly viewable catalogue of your tournament's match history.
 
-### Registrant Filtering, Seeding and Automated Refereeing
-
-#### Expectations for Programs
+### Programs
 
 Third-party programs designed to filter registrants, seed players, or automate the job of a referee must be open, transparent, and documented. Any third-party tool used for these purposes must:
 
 - Be made publicly and functionally available as an open-source repository.
-- Be completely documented in an easily readable & digestable format.
+- Be completely documented in an easily readable and digestible format.
 
 Currently, approval for the use of any such tool must be **explicitly granted** by the osu! support team. Additionally, this approval must be granted for **every tournament where programs for registrant filtering, seeding, or automated refereeing are used.** We expect to relax some of these requirements in the future as the technology surrounding these programs develops and experience with using them grows.
 
-#### Registrant Filtering and Seeding
+### Registrant filtering and seeding
 
-Registrant filtering, not to be confused with [screening](#tournament-screening), is the process of using any program, algorithm, mathematical formula, or other objective means to remove otherwise good-standing players from a tournament. The standard use of such tools or systems is to reduce the variance in skill within a tournament. One such system that may come to mind is [BWS](/wiki/Tournaments/Badge-weighted_seeding).
+Registrant filtering, not to be confused with [screening](#tournament-screening), is the process of using any program, algorithm, mathematical formula, or other objective means to remove otherwise good-standing players from a tournament. This is commonly used to reduce variance in skill within a tournament, e.g. with [BWS](/wiki/Tournaments/Badge-weighted_seeding).
 
 In addition to the expectations for programs above, tools or systems used to filter registrants or seed players must also abide by the following practices:
 
@@ -113,7 +111,7 @@ In addition to the expectations for programs above, tools or systems used to fil
 
 A third party should be able to get the same results without needing additional information. Manually filtering players or adjusting their seeds is strictly prohibited.
 
-#### Automated Refereeing
+### Automated refereeing
 
 The use of automated refereeing tools are permitted *with some caveats to reflect their cutting-edge nature*. Automated refereeing tools, including bots, may receive approval for use in badged tournaments so long as certain requirements are met.
 
