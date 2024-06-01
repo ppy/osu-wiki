@@ -59,7 +59,7 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 
 | Nama | Bahasa | Area fokus |
 | :-- | :-- | :-- |
-| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) |  | Moderasi komunitas mapping/modding |
+| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | Tionghoa, Melayu, Kanton, sedikit Jepang | Moderasi komunitas mapping/modding |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | Jerman | Moderasi chat |
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | Hungaria | Moderasi chat |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Rusia | Moderasi chat |
@@ -121,7 +121,7 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | Indonesia, sedikit Vietnam | Moderasi chat, moderasi forum |
 | ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | Jerman, Serbia | Moderasi forum |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | Tionghoa | Moderasi chat |
-| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) |  | Moderasi komunitas mapping/modding |
+| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | Korea | Moderasi komunitas mapping/modding |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | Suomi | Moderasi chat |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | Moderasi forum, moderasi chat |
 | ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | Rusia | Moderasi chat, administrasi osu!wiki |
@@ -135,7 +135,7 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 | ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) | Indonesia | Moderasi chat |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | Polski | Moderasi chat |
 | ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | Moderasi chat |
-| ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) |  | Moderasi komunitas mapping/modding |
+| ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | Spanyol | Moderasi komunitas mapping/modding |
 
 ### Dikelompokan berdasarkan bahasa yang dimoderasi
 

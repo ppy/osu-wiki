@@ -63,7 +63,7 @@ tags:
 
 | Имя | Языки | Сферы деятельности |
 | :-- | :-- | :-- |
-| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) |  | Модерация маппинг-сообщества |
+| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | Китайский, малайский, кантонский, частично японский | Модерация маппинг-сообщества |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | Немецкий | Модерация чата |
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | Венгерский | Модерация чата |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Русский | Модерация чата |
@@ -125,7 +125,7 @@ tags:
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | Индонезийский, частично вьетнамский | Модерация чата, модерация форума |
 | ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | Немецкий, сербский | Модерация форума |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | Китайский | Модерация чата |
-| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) |  | Модерация маппинг-сообщества |
+| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | Корейский | Модерация маппинг-сообщества |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | Финский | Модерация чата |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | Модерация форума, модерация чата |
 | ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | Русский | Модерация чата, администрирование вики |
@@ -139,7 +139,7 @@ tags:
 | ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) | Индонезийский | Модерация чата |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | Польский | Модерация чата |
 | ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | Модерация чата |
-| ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) |  | Модерация маппинг-сообщества |
+| ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | Испанский | Модерация маппинг-сообщества |
 
 ### Группировка по языкам
 

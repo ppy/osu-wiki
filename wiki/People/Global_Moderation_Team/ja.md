@@ -60,7 +60,7 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 
 | 名前 | その他の言語 | 注力分野 |
 | :-- | :-- | :-- |
-| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) |  | Mapping/modding コミュニティ モデレーション |
+| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | 中国語、マレー語、広東語、部分的な日本語 | Mapping/modding コミュニティ モデレーション |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | ドイツ語 | チャットモデレーション |
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | ハンガリー語 | チャットモデレーション |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | ロシア語 | チャットモデレーション |
@@ -122,7 +122,7 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | インドネシア語、部分的なベトナム語 | チャットモデレーション、フォーラムモデレーション |
 | ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | ドイツ語、セルビア語 | フォーラムモデレーション |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | 中国語 | チャットモデレーション |
-| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) |  | Mapping/modding コミュニティ モデレーション |
+| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | 韓国語 | Mapping/modding コミュニティ モデレーション |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | フィンランド語 | チャットモデレーション |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | フォーラムモデレーション、チャットモデレーション |
 | ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | ロシア語 | チャットモデレーション、wiki管理者 |
@@ -136,7 +136,7 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) | インドネシア語 | チャットモデレーション |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | ポーランド語 | チャットモデレーション |
 | ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | チャットモデレーション |
-| ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) |  | Mapping/modding コミュニティ モデレーション |
+| ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | スペイン語 | Mapping/modding コミュニティ モデレーション |
 
 ### モデレートされている言語別にグループ化
 

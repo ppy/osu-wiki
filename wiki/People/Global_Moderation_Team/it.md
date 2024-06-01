@@ -74,7 +74,7 @@ La [pagina del gruppo del Team di Moderazione Globale](https://osu.ppy.sh/groups
 
 | Nome | Lingue aggiuntive | Area d'interesse |
 | :-- | :-- | :-- |
-| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) |  | Moderazione della community del mapping/modding |
+| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | Cinese, malese, cantonese, un po' di giapponese | Moderazione della community del mapping/modding |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | Tedesco | Moderazione della chat |
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | Ungherese | Moderazione della chat |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Russo | Moderazione della chat |
@@ -136,7 +136,7 @@ La [pagina del gruppo del Team di Moderazione Globale](https://osu.ppy.sh/groups
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | Indonesiano, un po' di vietnamita | Moderazione della chat, moderazione del forum |
 | ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | Tedesco, serbo | Moderazione del forum |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | Cinese | Moderazione della chat |
-| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) |  | Moderazione della community del mapping/modding |
+| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | Coreano | Moderazione della community del mapping/modding |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | Finlandese | Moderazione della chat |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | Moderazione del forum, moderazione della chat |
 | ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | Russo | Moderazione della chat, amministrazione della wiki |
@@ -150,7 +150,7 @@ La [pagina del gruppo del Team di Moderazione Globale](https://osu.ppy.sh/groups
 | ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) | Indonesiano | Moderazione della chat |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | Polacco | Moderazione della chat |
 | ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | Moderazione della chat |
-| ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) |  | Moderazione della community del mapping/modding |
+| ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | Spagnolo | Moderazione della community del mapping/modding |
 
 ### Raggruppati per lingue moderate
 

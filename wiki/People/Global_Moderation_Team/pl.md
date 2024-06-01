@@ -51,7 +51,7 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 
 | Użytkownik | Języki | Zadania |
 | :-- | :-- | :-- |
-| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) |  | Moderowanie społeczności twórców i moderów beatmap |
+| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | Chiński, malajski, kantoński, japoński (częściowo) | Moderowanie społeczności twórców i moderów beatmap |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | Niemiecki | Moderowanie czatu |
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | Węgierski | Moderowanie czatu |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Rosyjski | Moderowanie czatu |
@@ -113,7 +113,7 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | Indonezyjski, wietnamski (częściowo) | Moderowanie czatu, moderowanie forum |
 | ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | Niemiecki, serbski | Moderowanie forum |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | Chiński | Moderowanie czatu |
-| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) |  | Moderowanie społeczności twórców i moderów beatmap |
+| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | Koreański | Moderowanie społeczności twórców i moderów beatmap |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | Fiński | Moderowanie czatu |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | Moderowanie forum, moderowanie czatu |
 | ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | Rosyjski | Moderowanie czatu, zarządzanie wiki osu! |
@@ -127,7 +127,7 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 | ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) | Indonezyjski | Moderowanie czatu |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | Polski | Moderowanie czatu |
 | ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | Moderowanie czatu |
-| ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) |  | Moderowanie społeczności twórców i moderów beatmap |
+| ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | Hiszpański | Moderowanie społeczności twórców i moderów beatmap |
 
 ### Według moderowanych języków
 

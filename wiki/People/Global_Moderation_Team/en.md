@@ -74,7 +74,7 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 
 | Name | Additional languages | Area of focus |
 | :-- | :-- | :-- |
-| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) |  | Mapping/modding community moderation |
+| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | Chinese, Malay, Cantonese, some Japanese | Mapping/modding community moderation |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | German | Chat moderation |
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | Hungarian | Chat moderation |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Russian | Chat moderation |
@@ -136,7 +136,7 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | Indonesian, some Vietnamese | Chat moderation, forum moderation |
 | ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | German, Serbian | Forum moderation |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | Chinese | Chat moderation |
-| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) |  | Mapping/modding community moderation |
+| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | Korean | Mapping/modding community moderation |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | Finnish | Chat moderation |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | Forum moderation, chat moderation |
 | ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | Russian | Chat moderation, wiki administration |
@@ -150,7 +150,7 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) | Indonesian | Chat moderation |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | Polish | Chat moderation |
 | ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) | <!-- TODO --> | Chat moderation |
-| ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) |  | Mapping/modding community moderation |
+| ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | Spanish | Mapping/modding community moderation |
 
 ### Grouped by languages moderated
 

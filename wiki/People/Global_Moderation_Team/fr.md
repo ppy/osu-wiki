@@ -76,7 +76,7 @@ Lorsqu'un Global Moderator décide de quitter l'équipe, il peut se voir accorde
 
 | Nom | Langues additionnelles | Domaine d'intervention |
 | :-- | :-- | :-- |
-| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) |  | Modération de la communauté modding/mapping |
+| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | Chinois, malais, cantonais, un peu de japonais | Modération de la communauté modding/mapping |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | Allemand | Modération du tchat |
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | Hongrois | Modération du tchat |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Russe | Modération du tchat |
@@ -138,7 +138,7 @@ Lorsqu'un Global Moderator décide de quitter l'équipe, il peut se voir accorde
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | Indonésien, un peu de vietnamien | Modération du tchat, modération du forum |
 | ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | Allemand, serbe | Modération du forum |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | Chinois | Modération du tchat |
-| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) |  | Modération de la communauté modding/mapping |
+| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | Coréen | Modération de la communauté modding/mapping |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | Finnois | Modération du tchat |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | Modération du forum, modération du tchat |
 | ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | Russe | Modération du tchat, administration du wiki |
@@ -152,7 +152,7 @@ Lorsqu'un Global Moderator décide de quitter l'équipe, il peut se voir accorde
 | ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) | Indonésien | Modération du tchat |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | Polonais | Modération du tchat |
 | ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | Modération du tchat |
-| ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) |  | Modération de la communauté modding/mapping |
+| ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | Espagnol | Modération de la communauté modding/mapping |
 
 ### Regroupés par langues modérées
 
