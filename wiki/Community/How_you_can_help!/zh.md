@@ -1,4 +1,7 @@
-<!-- TODO: tons of things to add here. might be related to Projects article -->
+---
+outdated_since: 1c91f39ce0abb31f0af8b8dcd7ac2a67896d61bb
+outdated_translation: true
+---
 
 # 如何提供帮助！
 

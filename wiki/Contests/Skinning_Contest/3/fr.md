@@ -6,7 +6,7 @@ tags:
   - skins
 ---
 
-# Skinning Contest #3
+# Skinning Contest #3: Chromatic Alteration
 
 ![Bannière du Skinning Contest #3](img/banner.jpg)
 

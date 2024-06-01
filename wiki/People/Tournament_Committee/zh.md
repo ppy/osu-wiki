@@ -6,6 +6,8 @@ tags:
   - 赛事
   - 竞赛
   - 锦标赛
+outdated_translation: true
+outdated_since: dd88763961b7b1a0f258cbd3a4af98319ce53deb
 ---
 
 # 锦标赛委员会
@@ -37,6 +39,13 @@ tags:
 
 有兴趣加入锦标赛委员会的人可以通过 [tournaments@ppy.sh](mailto:tournaments@ppy.sh) 发送电子邮件到[账号支持团队](/wiki/People/Account_support_team)。无论是作为玩家还是工作人员，都需要你有丰富的锦标赛经验。
 
+## 特权
+
+锦标赛委员会成员 (TC) 可获得以下特权：
+
+- **职位奖牌**：从第 1 年到第 10 年内，可获得一个显示任期年份的[主页奖牌](/wiki/Community/Profile_badge)。
+  ![1 年锦标赛委员会成员奖牌](https://assets.ppy.sh/profile-badges/tcomm-1y.png "1 年锦标赛委员会成员奖牌") ![2 年锦标赛委员会成员奖牌](https://assets.ppy.sh/profile-badges/tcomm-2y.png "2 年锦标赛委员会成员奖牌") ![3 年锦标赛委员会成员奖牌](https://assets.ppy.sh/profile-badges/tcomm-3y.png "3 年锦标赛委员会成员奖牌") ![4 年锦标赛委员会成员奖牌](https://assets.ppy.sh/profile-badges/tcomm-4y.png "4 年锦标赛委员会成员奖牌") ![5 年锦标赛委员会成员奖牌](https://assets.ppy.sh/profile-badges/tcomm-5y.png "5 年锦标赛委员会成员奖牌") ![6 年锦标赛委员会成员奖牌](https://assets.ppy.sh/profile-badges/tcomm-6y.png "6 年锦标赛委员会成员奖牌") ![7 年锦标赛委员会成员奖牌](https://assets.ppy.sh/profile-badges/tcomm-7y.png "7 年锦标赛委员会成员奖牌") ![8 年锦标赛委员会成员奖牌](https://assets.ppy.sh/profile-badges/tcomm-8y.png "8 年锦标赛委员会成员奖牌") ![9 年锦标赛委员会成员奖牌](https://assets.ppy.sh/profile-badges/tcomm-9y.png "9 年锦标赛委员会成员奖牌") ![10 年锦标赛委员会成员奖牌](https://assets.ppy.sh/profile-badges/tcomm-10y.png "10 年锦标赛委员会成员奖牌")
+
 ## 锦标赛委员会成员
 
 - ::{ flag=FR }:: [_yosh](https://osu.ppy.sh/users/7157133)
@@ -47,6 +56,7 @@ tags:
 - ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650)
 - ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)
 - ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227)
+- ::{ flag=US }:: [Stage](https://osu.ppy.sh/users/8191845)
 - ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)
 - ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189)
 - ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416)
