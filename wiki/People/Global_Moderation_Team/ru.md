@@ -63,6 +63,7 @@ tags:
 
 | Имя | Языки | Сферы деятельности |
 | :-- | :-- | :-- |
+| ::{ flag=MY }:: [_Kobii](https://osu.ppy.sh/users/6209713) |  | Модерация чата, модерация маппинг-сообщества |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | Немецкий | Модерация чата |
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | Венгерский | Модерация чата |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Русский | Модерация чата |
@@ -88,7 +89,6 @@ tags:
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Модерация маппинг-сообщества |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Индонезийский | Модерация маппинг-сообщества |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | Французский, испанский | Модерация чата |
-| ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Модерация чата, модерация маппинг-сообщества |
 | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | Малайский, частично китайский | Модерация маппинг-сообщества |
 | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | Кантонский, китайский, японский | Модерация чата |
 | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | Русский | Модерация чата |
@@ -119,11 +119,13 @@ tags:
 | ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069) | Корейский | Модерация чата |
 | ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772) | Японский | Модерация чата |
 | ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | Шведский, испанский | Модерация чата |
+| ::{ flag=CA }:: [Shad0wStar](https://osu.ppy.sh/users/16866460) |  | Модерация чата, модерация маппинг-сообщества |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Французский, испанский | Модерация чата |
 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | Индонезийский | Модерация чата |
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | Индонезийский, частично вьетнамский | Модерация чата, модерация форума |
 | ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | Немецкий, сербский | Модерация форума |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | Китайский | Модерация чата |
+| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) |  | Модерация чата, модерация маппинг-сообщества |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | Финский | Модерация чата |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | Модерация форума, модерация чата |
 | ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | Русский | Модерация чата, администрирование вики |
@@ -137,6 +139,7 @@ tags:
 | ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) | Индонезийский | Модерация чата |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | Польский | Модерация чата |
 | ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | Модерация чата |
+| ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) |  | Модерация чата, модерация маппинг-сообщества |
 
 ### Группировка по языкам
 
