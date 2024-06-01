@@ -268,7 +268,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 | Name | Additional languages |
 | :-- | :-- |
-| ::{ flag=RU }:: [_HeLLFly_](https://osu.ppy.sh/users/14225226) | Russian |
+| ::{ flag=RU }:: [\_HeLLFly\_](https://osu.ppy.sh/users/14225226) | Russian |
 | ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996) | Dutch |
 | ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnamese |
 | ::{ flag=RS }:: [Ognjen3800](https://osu.ppy.sh/users/14706521) | Serbian |
