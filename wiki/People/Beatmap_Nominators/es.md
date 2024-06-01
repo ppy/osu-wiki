@@ -47,6 +47,12 @@ Los Beatmap Nominators reciben los siguientes beneficios:
 
 ## Miembros del equipo
 
+Las páginas [Beatmap Nominators](https://osu.ppy.sh/groups/28) y [Beatmap Nominators (Probationary)](https://osu.ppy.sh/groups/32) listan a todos los miembros del equipo.
+
+Las tablas a continuación indican los modos de juego en donde cada Beatmap Nominator es formalmente calificado para nominar. *Nota: Todos los Beatmap Nominators hablan inglés en adición a los idiomas listados debajo a menos que se especifique otra cosa.*
+
+### Beatmap Nominators completos
+
 #### osu!
 
 | Nombre | Idiomas adicionales |
