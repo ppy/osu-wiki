@@ -242,7 +242,7 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 | ::{ flag=ID }:: [Virtue-](https://osu.ppy.sh/users/6144772) | Indonésien |
 | ::{ flag=CN }:: [wIntEr7z](https://osu.ppy.sh/users/16509588) | Chinois |
 
-### Beatmap Nominators titulaire
+### Beatmap Nominators en probation
 
 #### osu!
 
@@ -293,36 +293,6 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 | ::{ flag=ID }:: [Ihram-San](https://osu.ppy.sh/users/9908055) | Indonésien, malais |
 | ::{ flag=KR }:: [Niks](https://osu.ppy.sh/users/3037469) | Coréen |
 | ::{ flag=US }:: [SilentWuffer](https://osu.ppy.sh/users/11355206) |  |
-| ::{ flag=CN }:: [YyottaCat](https://osu.ppy.sh/users/17753835) | Chinois |
-
-### Beatmap Nominators en probation
-
-#### osu!
-
-| Nom | Langues additionnelles |
-| :-- | :-- |
-| ::{ flag=FI }:: [Aakki](https://osu.ppy.sh/users/11077540) | Finnois |
-| ::{ flag=PT }:: [Basensorex](https://osu.ppy.sh/users/11655886) | Portugais |
-| ::{ flag=PE }:: [dakiwii](https://osu.ppy.sh/users/10447058) |  |
-| ::{ flag=ZA }:: [Mattay](https://osu.ppy.sh/users/9748303) |  |
-| ::{ flag=TW }:: [Plus4j](https://osu.ppy.sh/users/4086497) | Chinois |
-| ::{ flag=BA }:: [Stompy_](https://osu.ppy.sh/users/16429579) |  |
-
-#### osu!taiko
-
-| Nom | Langues additionnelles |
-| :-- | :-- |
-
-#### osu!catch
-
-| Nom | Langues additionnelles |
-| :-- | :-- |
-
-#### osu!mania
-
-| Nom | Langues additionnelles |
-| :-- | :-- |
-| ::{ flag=KR }:: [Niks](https://osu.ppy.sh/users/3037469) | Coréen |
 | ::{ flag=CN }:: [YyottaCat](https://osu.ppy.sh/users/17753835) | Chinois |
 
 ## Histoire

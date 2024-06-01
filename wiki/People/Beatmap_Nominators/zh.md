@@ -242,7 +242,7 @@ BN 可获得以下特权：
 | ::{ flag=ID }:: [Virtue-](https://osu.ppy.sh/users/6144772) | 印度尼西亚语 |
 | ::{ flag=CN }:: [wIntEr7z](https://osu.ppy.sh/users/16509588) | 汉语 |
 
-### 正式成员
+### 见习成员
 
 #### osu!
 
@@ -293,36 +293,6 @@ BN 可获得以下特权：
 | ::{ flag=ID }:: [Ihram-San](https://osu.ppy.sh/users/9908055) | 印度尼西亚语，马来语 |
 | ::{ flag=KR }:: [Niks](https://osu.ppy.sh/users/3037469) | 韩语 |
 | ::{ flag=US }:: [SilentWuffer](https://osu.ppy.sh/users/11355206) |  |
-| ::{ flag=CN }:: [YyottaCat](https://osu.ppy.sh/users/17753835) | 汉语 |
-
-### 见习成员
-
-#### osu!
-
-| 名字 | 语言 |
-| :-- | :-- |
-| ::{ flag=FI }:: [Aakki](https://osu.ppy.sh/users/11077540) | 芬兰语 |
-| ::{ flag=PT }:: [Basensorex](https://osu.ppy.sh/users/11655886) | 葡萄牙语 |
-| ::{ flag=PE }:: [dakiwii](https://osu.ppy.sh/users/10447058) |  |
-| ::{ flag=ZA }:: [Mattay](https://osu.ppy.sh/users/9748303) |  |
-| ::{ flag=TW }:: [Plus4j](https://osu.ppy.sh/users/4086497) | 汉语 |
-| ::{ flag=BA }:: [Stompy_](https://osu.ppy.sh/users/16429579) |  |
-
-#### osu!taiko
-
-| 名字 | 语言 |
-| :-- | :-- |
-
-#### osu!catch
-
-| 名字 | 语言 |
-| :-- | :-- |
-
-#### osu!mania
-
-| 名字 | 语言 |
-| :-- | :-- |
-| ::{ flag=KR }:: [Niks](https://osu.ppy.sh/users/3037469) | 韩语 |
 | ::{ flag=CN }:: [YyottaCat](https://osu.ppy.sh/users/17753835) | 汉语 |
 
 ## 历史
