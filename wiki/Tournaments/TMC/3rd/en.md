@@ -86,7 +86,7 @@ The Touhou Project Mania Cup 3rd was run by the THMC team and various community 
 | **CovidPoeRoblox** | **::{ flag=TH }:: [- Rinmoz -](https://osu.ppy.sh/users/16639144)**, ::{ flag=TH }:: [SHOKO -](https://osu.ppy.sh/users/10279743), ::{ flag=TH }:: [Freshky](https://osu.ppy.sh/users/11959687), ::{ flag=TH }:: [basicmaime](https://osu.ppy.sh/users/6537441) |
 | **Dizzy Troopers** | **::{ flag=US }:: [trooperboi](https://osu.ppy.sh/users/32028459)**, ::{ flag=CA }:: [dizzywood3](https://osu.ppy.sh/users/15648394) |
 | **Dual Mania'cs** | **::{ flag=UA }:: [jrjin228](https://osu.ppy.sh/users/19927608)**, ::{ flag=PH }:: [Drew_TheMaster](https://osu.ppy.sh/users/13455818) |
-| **El Fortnite Legends \[EFL\]** | **::{ flag=MA }:: [ZeD_](https://osu.ppy.sh/users/14973137)**, ::{ flag=MA }:: [Enissay](https://osu.ppy.sh/users/26637662), ::{ flag=ES }:: [P_F_C_PRO](https://osu.ppy.sh/users/23731093),  |
+| **El Fortnite Legends \[EFL\]** | **::{ flag=MA }:: [ZeD_](https://osu.ppy.sh/users/14973137)**, ::{ flag=MA }:: [Enissay](https://osu.ppy.sh/users/26637662), ::{ flag=ES }:: [P_F_C_PRO](https://osu.ppy.sh/users/23731093) |
 | **eswatini (real) + 1** | **::{ flag=US }:: [cyger](https://osu.ppy.sh/users/20020441)**, ::{ flag=CA }:: [7Reinn-](https://osu.ppy.sh/users/25766718), ::{ flag=US }:: [Cirbyy](https://osu.ppy.sh/users/15582703), ::{ flag=CA }:: [\[OSG\] rosetta](https://osu.ppy.sh/users/27166588) |
 | **Extreme Reimu Admirers** | **::{ flag=US }:: [junglesnipes](https://osu.ppy.sh/users/9709652)**, ::{ flag=CA }:: [ZeMaB](https://osu.ppy.sh/users/15633324), ::{ flag=US }:: [ERA Imperial](https://osu.ppy.sh/users/5066305), ::{ flag=US }:: [ERA Zenith](https://osu.ppy.sh/users/7128063) |
 | **Fortniteloliclub** | **::{ flag=MX }:: [TheMoonLoop](https://osu.ppy.sh/users/15628036)**, ::{ flag=CL }:: [KrNatomi](https://osu.ppy.sh/users/15922672), ::{ flag=BO }:: [xhalez](https://osu.ppy.sh/users/21478615) |
@@ -163,7 +163,6 @@ The Touhou Project Mania Cup 3rd was run by the THMC team and various community 
 | **yotsubaStare@YummyBuffet** | **::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622)**, ::{ flag=US }:: [_Seth](https://osu.ppy.sh/users/8111953), ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576), ::{ flag=US }:: [\[GS\]Astra](https://osu.ppy.sh/users/15835499) |
 | **Zonrox GentleClean** | **::{ flag=PH }:: [Silicosis 2](https://osu.ppy.sh/users/18560307)**, ::{ flag=PH }:: [ManiaDegengod](https://osu.ppy.sh/users/13193798), ::{ flag=PH }:: [DiamondGenius75](https://osu.ppy.sh/users/19107638), ::{ flag=PH }:: [jianawesome22](https://osu.ppy.sh/users/23609936) |
 
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -197,7 +196,6 @@ This competition has come to an end and resulted in the following podium:
   3. [Sephid - OVERPROTECTION (\[Crz\]FolAH1217) \[EXCEEDIT x1.15\]](https://osu.ppy.sh/beatmapsets/1829770#mania/4185545)
 - TieBreaker
   1. **[Noma Nadeshiko - Sanzu no Kawa Ninngyou Gekijyou (\[GB\]Azukisan) \[Three Scenarios Between Life and Death\]](https://osu.ppy.sh/beatmapsets/2016006#mania/4197016)**
-
 
 ### Finals
 
