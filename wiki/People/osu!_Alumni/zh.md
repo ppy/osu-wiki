@@ -120,7 +120,7 @@ tags:
 | ::{ flag=US }:: [Izzywing](https://osu.ppy.sh/users/8157492) | QAT |
 | ::{ flag=PH }:: [James](https://osu.ppy.sh/users/5728) | BAT |
 | ::{ flag=US }:: [James2250](https://osu.ppy.sh/users/16978) | GMT |
-| ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  | QAT，GMT |
+| ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | QAT，GMT |
 | ::{ flag=GB }:: [jericho2442](https://osu.ppy.sh/users/88904) | BAT |
 | ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) | BAT |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | 锦标赛管理员 |

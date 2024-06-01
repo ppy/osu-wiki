@@ -54,9 +54,11 @@ BN 可获得以下特权：
 
 ## 团队成员
 
-[正式 BN 列表](https://osu.ppy.sh/groups/28)以及[见习 BN 列表](https://osu.ppy.sh/groups/32)列出了所有在任的团队成员。
+The [Beatmap Nominators](https://osu.ppy.sh/groups/28) and [Beatmap Nominators (Probationary)](https://osu.ppy.sh/groups/32) group pages list all of the team members.
 
-下表列出了包含所有游戏模式的 BN，他们都具有正式的提名谱面的资格。*注意：除非特殊说明，所有 BN 除了下列语言以外还可以使用英语交流。*
+The tables listed below indicate the game mode(s) in which each Beatmap Nominator is formally qualified to nominate. *Note: All Beatmap Nominators speak English in addition to the language(s) listed below unless noted otherwise.*
+
+<!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
 
 ### 正式成员
 
