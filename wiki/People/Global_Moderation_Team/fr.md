@@ -76,7 +76,7 @@ Lorsqu'un Global Moderator décide de quitter l'équipe, il peut se voir accorde
 
 | Nom | Langues additionnelles | Domaine d'intervention |
 | :-- | :-- | :-- |
-| ::{ flag=MY }:: [_Kobii](https://osu.ppy.sh/users/6209713) |  | Modération du tchat, modération de la communauté modding/mapping |
+| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) |  | Modération du tchat, modération de la communauté modding/mapping |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | Allemand | Modération du tchat |
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | Hongrois | Modération du tchat |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Russe | Modération du tchat |

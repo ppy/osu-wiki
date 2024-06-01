@@ -28,7 +28,7 @@ tags:
 
 | 이름 | 언어 | 주요 활동 |
 | :-- | :-- | :-- |
-| ::{ flag=MY }:: [_Kobii](https://osu.ppy.sh/users/6209713) |  | 채팅 관리, 매핑/모딩 커뮤니티 관리 |
+| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) |  | 채팅 관리, 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | 독일어 | 채팅 관리 |
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | 헝가리어 | 채팅 관리 |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | 러시아어 | 채팅 관리 |

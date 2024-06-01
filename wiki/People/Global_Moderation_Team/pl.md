@@ -51,7 +51,7 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 
 | Użytkownik | Języki | Zadania |
 | :-- | :-- | :-- |
-| ::{ flag=MY }:: [_Kobii](https://osu.ppy.sh/users/6209713) |  | Moderowanie czatu, moderowanie społeczności twórców i moderów beatmap |
+| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) |  | Moderowanie czatu, moderowanie społeczności twórców i moderów beatmap |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | Niemiecki | Moderowanie czatu |
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | Węgierski | Moderowanie czatu |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Rosyjski | Moderowanie czatu |

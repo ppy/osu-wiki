@@ -60,7 +60,7 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 
 | 名前 | その他の言語 | 注力分野 |
 | :-- | :-- | :-- |
-| ::{ flag=MY }:: [_Kobii](https://osu.ppy.sh/users/6209713) |  | チャットモデレーション、mapping/modding コミュニティ モデレーション |
+| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) |  | チャットモデレーション、mapping/modding コミュニティ モデレーション |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | ドイツ語 | チャットモデレーション |
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | ハンガリー語 | チャットモデレーション |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | ロシア語 | チャットモデレーション |

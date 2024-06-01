@@ -75,7 +75,7 @@ La [página del grupo Global Moderation Team](https://osu.ppy.sh/groups/4) enume
 
 | Nombre | Idiomas adicionales | Área principal |
 | :-- | :-- | :-- |
-| ::{ flag=MY }:: [_Kobii](https://osu.ppy.sh/users/6209713) |  | Moderación del chat, moderación de la comunidad de mapping/modding |
+| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) |  | Moderación del chat, moderación de la comunidad de mapping/modding |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | Alemán | Moderación del chat |
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | Húngaro | Moderación del chat |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Ruso | Moderación del chat |

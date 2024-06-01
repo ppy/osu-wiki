@@ -76,7 +76,7 @@ tags:
 
 | 名字 | 语言 | 专职范围 |
 | :-- | :-- | :-- |
-| ::{ flag=MY }:: [_Kobii](https://osu.ppy.sh/users/6209713) |  | 聊天管理员，作图摸图社群管理员 |
+| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) |  | 聊天管理员，作图摸图社群管理员 |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | 德语 | 聊天管理员 |
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | 匈牙利语 | 聊天管理员 |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | 俄语 | 聊天管理员 |

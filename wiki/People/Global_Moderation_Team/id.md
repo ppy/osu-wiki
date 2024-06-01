@@ -59,7 +59,7 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 
 | Nama | Bahasa | Area fokus |
 | :-- | :-- | :-- |
-| ::{ flag=MY }:: [_Kobii](https://osu.ppy.sh/users/6209713) |  | Moderasi chat, moderasi komunitas mapping/modding |
+| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) |  | Moderasi chat, moderasi komunitas mapping/modding |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | Jerman | Moderasi chat |
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | Hungaria | Moderasi chat |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Rusia | Moderasi chat |

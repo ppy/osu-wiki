@@ -75,7 +75,7 @@ Die [Gruppenseite des GMTs](https://osu.ppy.sh/groups/4) listet alle Teammitglie
 
 | Name | Zusätzliche Sprachen | Schwerpunktgebiet |
 | :-- | :-- | :-- |
-| ::{ flag=MY }:: [_Kobii](https://osu.ppy.sh/users/6209713) |  | Chat-Moderation, Moderation der Mapping-/Modding-Community |
+| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) |  | Chat-Moderation, Moderation der Mapping-/Modding-Community |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | Deutsch | Chat-Moderation |
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | Ungarisch | Chat-Moderation |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Russisch | Chat-Moderation |

@@ -58,7 +58,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 
 | İsim | Ek diller | Odak alanları |
 | :-- | :-- | :-- |
-| ::{ flag=MY }:: [_Kobii](https://osu.ppy.sh/users/6209713) |  | Sohbet moderasyonu, mapping/modding topluluk moderasyonu |
+| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) |  | Sohbet moderasyonu, mapping/modding topluluk moderasyonu |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | Almanca | Sohbet moderasyonu |
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | Macarca | Sohbet moderasyonu |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Rusça | Sohbet moderasyonu |

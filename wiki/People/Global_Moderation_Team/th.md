@@ -58,7 +58,7 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 
 | รายชื่อ | ภาษาที่ใช้ | ตำแหน่ง/หน้าที่ |
 | :-- | :-- | :-- |
-| ::{ flag=MY }:: [_Kobii](https://osu.ppy.sh/users/6209713) |  | ผู้ดูแลแชท, ผู้ดูแลชุมชนการแมป/การ mod |
+| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) |  | ผู้ดูแลแชท, ผู้ดูแลชุมชนการแมป/การ mod |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | เยอรมัน | ผู้ดูแลแชท |
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | ฮังการี | ผู้ดูแลแชท |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | รัสเซีย | ผู้ดูแลแชท |
