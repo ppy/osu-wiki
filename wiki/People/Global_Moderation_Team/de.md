@@ -75,7 +75,7 @@ Die [Gruppenseite des GMTs](https://osu.ppy.sh/groups/4) listet alle Teammitglie
 
 | Name | Zusätzliche Sprachen | Schwerpunktgebiet |
 | :-- | :-- | :-- |
-| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) |  | Chat-Moderation, Moderation der Mapping-/Modding-Community |
+| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) |  | Moderation der Mapping-/Modding-Community |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | Deutsch | Chat-Moderation |
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | Ungarisch | Chat-Moderation |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Russisch | Chat-Moderation |
@@ -131,13 +131,13 @@ Die [Gruppenseite des GMTs](https://osu.ppy.sh/groups/4) listet alle Teammitglie
 | ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069) | Koreanisch | Chat-Moderation |
 | ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772) | Japanisch | Chat-Moderation |
 | ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | Schwedisch, Spanisch | Chat-Moderation |
-| ::{ flag=CA }:: [Shad0wStar](https://osu.ppy.sh/users/16866460) |  | Chat-Moderation, Moderation der Mapping-/Modding-Community |
+| ::{ flag=CA }:: [Shad0wStar](https://osu.ppy.sh/users/16866460) |  | Moderation der Mapping-/Modding-Community |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Französisch, Spanisch | Chat-Moderation |
 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | Indonesisch | Chat-Moderation |
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | Indonesisch, etwas Vietnamesisch | Chat-Moderation, Forum-Moderation |
 | ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | Deutsch, Serbisch | Forum-Moderation |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | Chinesisch | Chat-Moderation |
-| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) |  | Chat-Moderation, Moderation der Mapping-/Modding-Community |
+| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) |  | Moderation der Mapping-/Modding-Community |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | Finnisch | Chat-Moderation |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | Forum-Moderation, Chat-Moderation |
 | ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | Russisch | Chat-Moderation, Wiki-Administration |
@@ -151,7 +151,7 @@ Die [Gruppenseite des GMTs](https://osu.ppy.sh/groups/4) listet alle Teammitglie
 | ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) | Indonesisch | Chat-Moderation |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | Polnisch | Chat-Moderation |
 | ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | Chat-Moderation |
-| ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) |  | Chat-Moderation, Moderation der Mapping-/Modding-Community |
+| ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) |  | Moderation der Mapping-/Modding-Community |
 
 ### Gruppiert anhand der moderierten Sprachen
 

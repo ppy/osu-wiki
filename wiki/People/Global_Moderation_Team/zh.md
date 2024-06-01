@@ -76,7 +76,7 @@ tags:
 
 | 名字 | 语言 | 专职范围 |
 | :-- | :-- | :-- |
-| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) |  | 聊天管理员，作图摸图社群管理员 |
+| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) |  | 作图摸图社群管理员 |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | 德语 | 聊天管理员 |
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | 匈牙利语 | 聊天管理员 |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | 俄语 | 聊天管理员 |
@@ -132,13 +132,13 @@ tags:
 | ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069) | 韩语 | 聊天管理员 |
 | ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772) | 日语 | 聊天管理员 |
 | ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | 瑞典语，西班牙语 | 聊天管理员 |
-| ::{ flag=CA }:: [Shad0wStar](https://osu.ppy.sh/users/16866460) |  | 聊天管理员，作图摸图社群管理员 |
+| ::{ flag=CA }:: [Shad0wStar](https://osu.ppy.sh/users/16866460) |  | 作图摸图社群管理员 |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | 法语，西班牙语 | 聊天管理员 |
 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | 印度尼西亚语 | 聊天管理员 |
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | 印度尼西亚语，一部分越南语 | 聊天管理员，论坛管理员 |
 | ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | 德语，塞尔维亚语 | 论坛管理员 |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | 汉语 | 聊天管理员 |
-| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) |  | 聊天管理员，作图摸图社群管理员 |
+| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) |  | 作图摸图社群管理员 |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | 芬兰语 | 聊天管理员 |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | 论坛管理员，聊天管理员 |
 | ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | 俄语 | 聊天管理员，wiki 管理员 |
@@ -152,7 +152,7 @@ tags:
 | ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) | 印度尼西亚语 | 聊天管理员 |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | 波兰语 | 聊天管理员 |
 | ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | 聊天管理员 |
-| ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) |  | 聊天管理员，作图摸图社群管理员 |
+| ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) |  | 作图摸图社群管理员 |
 
 ### 按语言分组
 
