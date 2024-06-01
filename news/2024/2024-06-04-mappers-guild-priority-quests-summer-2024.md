@@ -50,7 +50,7 @@ If you already have a Ranked map using a Featured Artist song (excluding GDs), t
 
 If you're too good at the game, is it hard to recognize what players find fun? It's time to find out.
 
-This quest is limited to anyone with **10,000 pp** in a game mode. Your goal is to rank a map with...
+This quest is limited to anyone with at least **10,000 pp** in a game mode. Your goal is to rank a map with...
 
 - ...at minimum, a spread of Easy/Normal/Hard/Insane difficulties
 - ...no difficulties above 5.0 stars
