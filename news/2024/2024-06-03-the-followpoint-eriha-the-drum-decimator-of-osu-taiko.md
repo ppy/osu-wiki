@@ -59,10 +59,10 @@ Let's get started!
 
 *Who would you call the best osu!taiko player(s) at the moment and why?*
 
-> The best player I can think of right now is SilverTyrant. He also competed in TWC2024 and I think it's very cool that he has recorded great scores on various maps, not just speed maps.
+> The best player I can think of right now is [SilverTyrant](https://osu.ppy.sh/users/14356353). He also competed in TWC2024 and I think it's very cool that he has recorded great scores on various maps, not just speed maps.
 > Especially [Kage no Nai Hito](https://osu.ppy.sh/beatmapsets/1519045#taiko/3110395)'s [DT record](https://osu.ppy.sh/scores/1876120539) is so crazy that no player will surpass his record anytime soon.
 >
-> In addition, sourufire is probably the most growing of the Japanese players. His acc on the various speed maps is excellent and I look forward to competing with him in the future!
+> In addition, [sourufire](https://osu.ppy.sh/users/13249305) is probably the most growing of the Japanese players. His acc on the various speed maps is excellent and I look forward to competing with him in the future!
 
 *What do you feel is the most important aspect to keep motivation even when you are not improving and what keeps you specifically motivated to play?*
 
@@ -85,7 +85,7 @@ Let's get started!
 
 > Although it cannot be said that good play in Taiko no Tatsujin is proportional to good play in osu!taiko, the top players in Taiko no Tatsujin are often the top players in osu!taiko!
 >
-> For example, players such as \_yu68, 1RoHa\_, kotohira_06, and [supesan](https://osu.ppy.sh/users/14623658) are both top players in Taiko no Tatsujin and in osu!taiko!
+> For example, players such as [_yu68](https://osu.ppy.sh/users/6170507), [1RoHa_](https://osu.ppy.sh/users/4632503), [kotohira_06](https://osu.ppy.sh/users/22444525), and [supesan](https://osu.ppy.sh/users/14623658) are both top players in Taiko no Tatsujin and in osu!taiko!
 
 *To finish things up, what does the future hold for you? Do you have any goals or anything else that you'd like to mention?*
 
