@@ -200,6 +200,6 @@ Si se requiere una dificultad Normal y se usa como la *dificultad más baja* de 
 
 #### Pautas para la configuración de la dificultad
 
-- La [velocidad de aproximación](/wiki/Beatmap/Approach_rate) / [dificultad general](/wiki/Beatmap/Overall_difficulty) deberían ser 8 o superior.
+- La [velocidad de aproximación](/wiki/Beatmap/Approach_rate) / [dificultad general](/wiki/Beatmap/Overall_difficulty) debería ser 8 o superior.
 - La [tasa de drenaje de HP](/wiki/Beatmap/HP_drain_rate) debería ser 5 o superior.
 - El [tamaño del círculo](/wiki/Beatmap/Circle_size) debería ser 7 o menos.
