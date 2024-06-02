@@ -6,7 +6,7 @@ Este conjunto de **criterios de clasificación de osu!catch** establece [reglas 
 
 ## Universal
 
-Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!catch. Las reglas y pautas relacionadas con el ritmo se aplican a beatmaps de aproximadamente 180 BPM con compases de 4/4. Si tu canción es drásticamente más rápida o más lenta, algunas variables pueden ser diferentes, como se detalla en [Escalar el BPM según los criterios de clasificación](/wiki/Ranking_criteria/Scaling_BPM).
+Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!catch. Las reglas y pautas relacionadas con el ritmo se aplican a beatmaps de aproximadamente 180 BPM con compases de 4/4. Si tu canción es drásticamente más rápida o más lenta, algunas variables pueden ser diferentes, como se detalla en [Escalado del BPM según los criterios de clasificación](/wiki/Ranking_criteria/Scaling_BPM).
 
 ### General
 
