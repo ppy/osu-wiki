@@ -26,7 +26,7 @@ Página de índice para artículos sobre personas o grupos.
 ## Ex
 
 - [Beatmap Appreciation Team](Beatmap_Appreciation_Team)
-- [División de vigilancia lingüística](Language_Surveillance_Division)
+- [División de Vigilancia Lingüística](Language_Surveillance_Division)
 - [Mapping Assistance Team](Mapping_Assistance_Team)
 - [Quality Assurance Team](Quality_Assurance_Team)
 
