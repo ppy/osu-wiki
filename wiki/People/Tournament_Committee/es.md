@@ -4,6 +4,8 @@ tags:
   - Contest Committee
   - CC
   - Comité de concursos
+outdated_since: dd88763961b7b1a0f258cbd3a4af98319ce53deb
+outdated_translation: true
 ---
 
 # Comité de torneos
@@ -52,6 +54,7 @@ Los miembros del comité de torneos reciben los siguientes beneficios:
 - ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650)
 - ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)
 - ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227)
+- ::{ flag=US }:: [Stage](https://osu.ppy.sh/users/8191845)
 - ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)
 - ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189)
 - ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416)
