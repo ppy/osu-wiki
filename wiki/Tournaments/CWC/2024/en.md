@@ -108,25 +108,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
 
 ## Match Schedule: Round of 16
 
-### Friday, 31 May 2024
-
-| Team A | Team B | Match time | Twitch stream |
-| --: | :-- | :-- | :-: |
-| France ::{ flag=FR }:: | ::{ flag=CN }:: China | [May 31 (Fri) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240531T130000&p1=1440&p2=195&p3=33) | [osulive](https://twitch.tv/osulive) |
-| Malaysia ::{ flag=MY }:: | ::{ flag=DE }:: Germany | [May 31 (Fri) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240531T160000&p1=1440&p2=122&p3=37) | [osulive](https://twitch.tv/osulive) |
-
-### Saturday, 1 June 2024
-
-| Team A | Team B | Match time | Twitch stream |
-| --: | :-- | :-- | :-: |
-| New Zealand ::{ flag=NZ }:: | ::{ flag=PH }:: Philippines | [Jun 01 (Sat) 10:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240601T103000&p1=1440&p2=264&p3=145) | [osulive](https://twitch.tv/osulive) |
-| Thailand ::{ flag=TH }:: | ::{ flag=VN }:: Vietnam | [Jun 01 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240601T140000&p1=1440&p2=28&p3=95) | [osulive](https://twitch.tv/osulive) |
-| Canada ::{ flag=CA }:: | ::{ flag=ID }:: Indonesia | [Jun 01 (Sat) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240601T153000&p1=1440&p2=188&p3=108) | [osulive](https://twitch.tv/osulive) |
-| Latvia ::{ flag=LV }:: | ::{ flag=NO }:: Norway | [Jun 01 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240601T160000&p1=1440&p3=187) | [osulive_2](https://twitch.tv/osulive_2) |
-| Iceland ::{ flag=IS }:: | ::{ flag=SE }:: Sweden | [Jun 01 (Sat) 16:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240601T163000&p1=1440&p3=239) | [osulive](https://twitch.tv/osulive) |
-| Estonia ::{ flag=EE }:: | ::{ flag=MX }:: Mexico | [Jun 01 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240601T180000&p1=1440&p3=155) | [osulive](https://twitch.tv/osulive) |
-| Chile ::{ flag=CL }:: | ::{ flag=BE }:: Belgium | [Jun 01 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240601T190000&p1=1440&p2=232&p3=48) | [osulive](https://twitch.tv/osulive) |
-
 ### Sunday, 2 June 2024
 
 | Team A | Team B | Match time | Twitch stream |
@@ -216,6 +197,27 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
   2. [lapix - Horizon Blue feat. Kanata.N (-Ken) \[The world beyond the everlasting lines\]](https://osu.ppy.sh/beatmapsets/2180225#fruits/4605325)
 
 ## Match results
+
+### Round of 16
+
+Friday, 31 May 2024:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **France** ::{ flag=FR }:: | **6** | 4 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/114100845) | [#1](https://www.twitch.tv/videos/2160023397) |
+| Malaysia ::{ flag=MY }:: | 0 | **6** | ::{ flag=DE }:: **Germany** | [#1](https://osu.ppy.sh/community/matches/114103211) | [#1](https://www.twitch.tv/videos/2160392109) |
+
+Saturday, 1 June 2024:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| New Zealand ::{ flag=NZ }:: | 1 | **6** | ::{ flag=PH }:: **Philippines** | [#1](https://osu.ppy.sh/community/matches/114114205) | [#1](https://www.twitch.tv/videos/2160851670) |
+| **Thailand** ::{ flag=TH }:: | **6** | 3 | ::{ flag=VN }:: Vietnam | [#1](https://osu.ppy.sh/community/matches/114116309) | [#1](https://www.twitch.tv/videos/2160919882) |
+| **Canada** ::{ flag=CA }:: | **6** | 4 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/114117511) | [#1](https://www.twitch.tv/videos/2160992520) |
+| Latvia ::{ flag=LV }:: | 4 | **6** | ::{ flag=NO }:: **Norway** | [#1](https://osu.ppy.sh/community/matches/114117957) | [#1](https://www.twitch.tv/videos/2160985006) |
+| Iceland ::{ flag=IS }:: | 0 | **6** | ::{ flag=SE }:: **Sweden** | [#1](https://osu.ppy.sh/community/matches/114118387) | [#1](https://www.twitch.tv/videos/2161005168) |
+| Estonia ::{ flag=EE }:: | 0 | **6** | ::{ flag=MX }:: **Mexico** | [#1](https://osu.ppy.sh/community/matches/114119626) | [#1](https://www.twitch.tv/videos/2161080872) |
+| **Chile** ::{ flag=CL }:: | **6** | 0 | ::{ flag=BE }:: Belgium | [#1](https://osu.ppy.sh/community/matches/114120422) | [#1](https://www.twitch.tv/videos/2161115721) |
 
 ### Round of 32
 
