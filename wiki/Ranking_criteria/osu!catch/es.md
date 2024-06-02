@@ -85,7 +85,7 @@ Las reglas y pautas para las dificultades específicas solo se aplican al nivel 
 
 #### Pautas para la configuración de la dificultad
 
-- La [velocidad de aproximación](/wiki/Beatmap/Approach_rate) / [dificultad general](/wiki/Beatmap/Overall_difficulty) deberían ser entre 4 y 6.
+- La [velocidad de aproximación](/wiki/Beatmap/Approach_rate) / [dificultad general](/wiki/Beatmap/Overall_difficulty) debería ser entre 4 y 6.
 - La [tasa de drenaje de HP](/wiki/Beatmap/HP_drain_rate) debería ser entre 2 y 3.
 - El [tamaño del círculo](/wiki/Beatmap/Circle_size) debería ser entre 2 y 3.
 
@@ -111,7 +111,7 @@ Las reglas y pautas para las dificultades específicas solo se aplican al nivel 
 
 #### Pautas para la configuración de la dificultad
 
-- La [velocidad de aproximación](/wiki/Beatmap/Approach_rate) / [dificultad general](/wiki/Beatmap/Overall_difficulty) deberían ser entre 6 y 7.
+- La [velocidad de aproximación](/wiki/Beatmap/Approach_rate) / [dificultad general](/wiki/Beatmap/Overall_difficulty) debería ser entre 6 y 7.
 - La [tasa de drenaje de HP](/wiki/Beatmap/HP_drain_rate) debería ser entre 3 y 4.
 - El [tamaño del círculo](/wiki/Beatmap/Circle_size) debería ser entre 2,5 y 3,5.
 
@@ -142,7 +142,7 @@ Las reglas y pautas para las dificultades específicas solo se aplican al nivel 
 
 #### Pautas para la configuración de la dificultad
 
-- La [velocidad de aproximación](/wiki/Beatmap/Approach_rate) / [dificultad general](/wiki/Beatmap/Overall_difficulty) deberían ser entre 7 y 8,2.
+- La [velocidad de aproximación](/wiki/Beatmap/Approach_rate) / [dificultad general](/wiki/Beatmap/Overall_difficulty) debería ser entre 7 y 8,2.
 - La [tasa de drenaje de HP](/wiki/Beatmap/HP_drain_rate) debería ser entre 4 y 5.
 - El [tamaño del círculo](/wiki/Beatmap/Circle_size) debería ser entre 3 y 4.
 
@@ -170,7 +170,7 @@ Las reglas y pautas para las dificultades específicas solo se aplican al nivel 
 
 #### Pautas para la configuración de la dificultad
 
-- La [velocidad de aproximación](/wiki/Beatmap/Approach_rate) / [dificultad general](/wiki/Beatmap/Overall_difficulty) deberían ser entre 7 y 9.
+- La [velocidad de aproximación](/wiki/Beatmap/Approach_rate) / [dificultad general](/wiki/Beatmap/Overall_difficulty) debería ser entre 7 y 9.
 - La [tasa de drenaje de HP](/wiki/Beatmap/HP_drain_rate) debería ser entre 5 y 6.
 - El [tamaño del círculo](/wiki/Beatmap/Circle_size) debería ser entre 3,5 y 4,5.
 
@@ -191,6 +191,6 @@ Las reglas y pautas para las dificultades específicas solo se aplican al nivel 
 
 #### Pautas para la configuración de la dificultad
 
-- La [velocidad de aproximación](/wiki/Beatmap/Approach_rate) / [dificultad general](/wiki/Beatmap/Overall_difficulty) deberían ser entre 8 y 10.
+- La [velocidad de aproximación](/wiki/Beatmap/Approach_rate) / [dificultad general](/wiki/Beatmap/Overall_difficulty) debería ser entre 8 y 10.
 - La [tasa de drenaje de HP](/wiki/Beatmap/HP_drain_rate) debería ser entre 5 y 7.
 - El [tamaño del círculo](/wiki/Beatmap/Circle_size) debería ser entre 3 y 6.
