@@ -21,7 +21,7 @@ Las reglas y pautas generales se aplican a cualquier tipo de dificultad de osu!.
   - **... inferior a 3:30**, la dificultad más baja no puede ser más difícil que un Normal.
   - **... entre 3:30 y 4:15**, la dificultad más baja no puede ser más difícil un Hard.
   - **... entre 4:15 y 5:00**, la dificultad más baja no puede ser más difícil que un Insane.
-  - Los **[descansos](/wiki/Beatmap/Break) se pueden combinar con el [tiempo de drenaje](/wiki/Beatmap/Drain_time) para alcanzar los umbrales anteriores.** Para la dificultad más alta, esto se limita a como máximo 30 segundos de descanso. Esto no se aplica a dificultades con menos de 30 segundos de tiempo de drenaje.
+  - Los **[descansos](/wiki/Beatmap/Break) se pueden combinar con el [tiempo de drenaje](/wiki/Beatmap/Drain_time) para alcanzar los umbrales anteriores.** Para la dificultad más alta, esto se limita a como máximo 30 segundos de descanso. Esto no se aplica a las dificultades con menos de 30 segundos de tiempo de drenaje.
 
 #### Pautas
 
