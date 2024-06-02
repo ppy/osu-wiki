@@ -10,11 +10,11 @@ tags:
   - ops del chat
 ---
 
-# División de Vigilancia Lingüística
+# División de vigilancia lingüística
 
 *Para conocer el equipo moderno de moderadores, véase: [Global Moderation Team](/wiki/People/Global_Moderation_Team).*
 
-La **División de Vigilancia Lingüística** (coloquialmente conocida como *LSD*) era un grupo de usuarios responsable de la moderación de comunidades de idiomas específicos dentro de osu!. Cada uno de sus miembros tenía un área de enfoque dedicada: un canal de idioma en el que estaban presentes principalmente y las secciones respectivas del foro que podían administrar (lugares como [Help](https://osu.ppy.sh/community/forums/5) u [Off-Topic](https://osu.ppy.sh/community/forums/52)).
+La **división de vigilancia lingüística** (coloquialmente conocida como *LSD*) era un grupo de usuarios responsable de la moderación de comunidades de idiomas específicos dentro de osu!. Cada uno de sus miembros tenía un área de enfoque dedicada: un canal de idioma en el que estaban presentes principalmente y las secciones respectivas del foro que podían administrar (lugares como [Help](https://osu.ppy.sh/community/forums/5) u [Off-Topic](https://osu.ppy.sh/community/forums/52)).
 
 ## Tareas
 
@@ -26,6 +26,6 @@ La LSD también sirvió como un grupo intermediario para miembros prometedores p
 
 ![](img/chat-moderator-profile.png "Página de perfil de un moderador del chat en 2013")
 
-Después de una [reestructuración del personal](https://osu.ppy.sh/community/forums/topics/123510) en 2013, la División de Vigilancia Lingüística pasó a llamarse **Chat Moderators** y recibió su propia lista de miembros.
+Después de una [reestructuración del personal](https://osu.ppy.sh/community/forums/topics/123510) en 2013, la división de vigilancia lingüística pasó a llamarse **Chat Moderators** y recibió su propia lista de miembros.
 
 El [20 de agosto de 2015](/wiki/People/Staff_log/2015#agosto), los equipos de Chat Moderators y Global Moderation [se fusionaron](https://osu.ppy.sh/community/forums/posts/4435972), dando efectivamente a todos los moderadores apodos rojos distintivos en el chat y poder de administración sobre todo el foro.
