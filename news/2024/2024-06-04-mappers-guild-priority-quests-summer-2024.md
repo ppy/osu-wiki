@@ -57,7 +57,7 @@ This quest is limited to anyone with at least **10,000 pp** in a game mode. Your
 
 ### [osu! original expansion](LINK) ![bronze icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/bronze-small.png)
 
-Most of the [osu! originals](/wiki/osu!_originals) in osu!'s music library come from the World Cups. Many of those songs don't reach players beyond their initial mode, so let's change that.
+A lot of the [osu! originals](/wiki/osu!_originals) in osu!'s music library come from the World Cups. Many of those songs don't reach players beyond their initial mode, so let's change that.
 
 Your goal is to rank a map of any **World Cup osu! original** in a game mode that...
 
