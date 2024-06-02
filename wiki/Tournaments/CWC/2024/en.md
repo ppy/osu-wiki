@@ -151,7 +151,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
 
 ### Quarterfinals
 
-**[Download the mappack here (149 MB)](http://files.leoflt.com/2KTKewAQ)**\
+**[Download the mappack here (149 MB)](https://packs.ppy.sh/P249%20-%20osu!catch%20World%20Cup%202024%3A%20Quarterfinals.zip)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2162029338)
 
 - No Mod
@@ -168,12 +168,12 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
   2. [Qrispy Joybox - licca (Lacrima) \[overdose (cwc ver)\]](https://osu.ppy.sh/beatmapsets/2191172#fruits/4634714)
   3. [YUC'e - macaron moon (Nosuri) \[creamy\]](https://osu.ppy.sh/beatmapsets/2191179#fruits/4634727)
 - Double Time
-  1. [AriableyeS feat. Risa Yuzuki - Meimei Memoria (Dapulezatos) \[Cross-Dimensional Heartstrings\] *(temporary link)*](http://files.leoflt.com/EogFlvmo)
-  2. [EmoCosine - Dream With Me (Jemzuu) \[Dreamy\] *(temporary link)*](http://files.leoflt.com/56FSN020)
+  1. [Ariabl'eyeS feat. Risa Yuzuki - Meimei Memoria (Dapulezatos) \[Cross-Dimensional Heartstrings\]](https://osu.ppy.sh/beatmapsets/2191244#fruits/4634876)
+  2. [EmoCosine - Dream With Me (Jemzuu) \[Dreamy\]](https://osu.ppy.sh/beatmapsets/2191261#fruits/4634911)
   3. [Dimrain47 - The Prototype (Yoshi\_green) \[wip\]](https://osu.ppy.sh/beatmapsets/2191178#fruits/4634726)
 - Mixed Mod
   1. [Falling In Reverse - Watch The World Burn (Daletto) \[Hypnotizing\]](https://osu.ppy.sh/beatmapsets/2191184#fruits/4634735)
-  2. [Street vs. Sinck - Adamantite (autofanboy) \[Metallurgy\] *(temporary link)*](http://files.leoflt.com/vyXucjQX)
+  2. [Street vs. Sin:ck - Adamantite (autofanboy) \[Metallurgy\]](https://osu.ppy.sh/beatmapsets/2191260#fruits/4634910)
 - Tiebreaker
   1. **[Sad Keyboard Guy & Gardens - Waking Shadows feat. eili (-Rustyy) \[Monochromatic Surge\]](https://osu.ppy.sh/beatmapsets/2191190#fruits/4634742)**
 
