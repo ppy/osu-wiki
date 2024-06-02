@@ -150,7 +150,7 @@ Si se requiere una dificultad Normal y se usa como la *dificultad más baja* de 
 - **Debe haber al menos 1 compás entre el final de un spinner y el siguiente objeto.** Esto es para asegurar el tiempo adecuado para hacer clic en un objeto después de un spinner.
 - **La densidad de las notas debe consistir principalmente en ritmos de 1/2, a veces de 1/4, o ritmos más lentos.**
 - **Evita poner [streams](/wiki/Beatmap/Pattern/osu!/Stream) compuestos por más de 5 notas.** En su lugar, se pueden usar sliders inversos cortos cuando la canción lo permita.
-- **Evite uar un espaciado visualmente similar para ritmos diferentes.** Se recomienda la variación del espaciado mediante [jumps](/wiki/Beatmap/Pattern/osu!/Jump) en los puntos de énfasis, pero solo si estos jumps son claramente diferentes de otros intervalos del ritmo.
+- **Evita usar un espaciado visualmente similar para ritmos diferentes.** Se recomienda la variación del espaciado mediante [jumps](/wiki/Beatmap/Pattern/osu!/Jump) en los puntos de énfasis, pero solo si estos jumps son claramente diferentes de otros intervalos del ritmo.
 - **No se recomienda el uso de hitsounds en las marcas de los sliders.** Si quieres usarlos, asegúrate de que su volumen sea equilibrado (es decir, notablemente más bajo que los hitsounds normales). Una marca muy ruidosa, sobre todo cuando solo se usa una o dos veces, puede resultar muy molesta.
 - **Evita poner spinners de menos de 2 compases.** Los jugadores necesitan tiempo para reconocer que tienen que empezar a girar.
 - **Evita cubrir completamente las flechas inversas de los sliders con objetos dentro de los 2 compases en los que se alcanza la flecha inversa.** Esto les da a los jugadores tiempo suficiente para reconocer la flecha inversa.
