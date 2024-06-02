@@ -76,7 +76,7 @@ Let's get started!
 
 > I can't go into too much depth because I have several records of bignotes skins being used, but I do believe that there should be firm guidelines for skins in the future. I neither confirm nor deny this as each player has his/her own values, but I think players who do not use skins, which can make play easier, will find it very unfair.
 >
-> Since lazer is currently under development, I believe that adding features such as limiting the maximum size of the skin's knots would help to resolve this issue.
+> Since lazer is currently under development, I believe that adding features such as limiting the maximum size of the skin's sprites would help to resolve this issue.
 
 *Aside from osu!, do you play any other rhythm games?*
 
