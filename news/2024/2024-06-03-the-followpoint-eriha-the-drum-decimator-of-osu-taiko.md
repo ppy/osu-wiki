@@ -32,18 +32,19 @@ Let's get started!
 >
 > When I first installed osu! I was very impressed by the fact that I could play with my favorite songs. I play osu! on my laptop more often than I visit the arcade. That's how big an impact osu! had on me.
 
-*Why did you choose to play osu!taiko of all gamemodes osu! has to offer?*
+*Why did you choose to play osu!taiko of all game modes osu! has to offer?*
 
 > I wrote all that in the above question lol, I thought the taiko mode was suitable for me.
+>
 > I think my mind was more taken with the idea of drumming than clicking circles, picking up fruit, or hitting the keys.
 
-*What do you think of the osu!taiko and its community in its current state?*
+*What do you think of osu!taiko and its community in its current state?*
 
 > Recently there have been a lot of surprising events such as no mod pp record and for the first time the 2nd place in TWC is a non-Asian country, but on the other hand, there have been more and more discussions and problems about SR issues and pp.
 >
 > I believe that it's difficult for all players to get along, but we hope that many players will be able to interact and get along with players from all over the world through this game!
 
-*Any advices you would give to people who want to or just started playing osu!taiko?*
+*Any advice you would give to people who want to or just started playing osu!taiko?*
 
 > It's very difficult for someone just starting out to improve quickly, although there are individual differences.
 >
@@ -51,7 +52,7 @@ Let's get started!
 >
 > But the most important thing is to enjoy this game to the fullest, so don't forget to smile and do your best! I support all players!
 
-*What is your favorite osu!taiko score you’ve set?*
+*What is your favourite osu!taiko score you've set?*
 
 > My favorite score is [Period. ~ Seishin no Kousoku to Jiyuu o Tsukamu Jouka [Inner Oni]](https://osu.ppy.sh/scores/1871108211) where I have gotten PP record! This is the map I played the most and I think it is the record I am most proud of, as I was able to maintain a high acc while memorizing the placement of the notes!
 >
@@ -60,11 +61,12 @@ Let's get started!
 *Who would you call the best osu!taiko player(s) at the moment and why?*
 
 > The best player I can think of right now is [SilverTyrant](https://osu.ppy.sh/users/14356353). He also competed in TWC2024 and I think it's very cool that he has recorded great scores on various maps, not just speed maps.
+>
 > Especially [Kage no Nai Hito](https://osu.ppy.sh/beatmapsets/1519045#taiko/3110395)'s [DT record](https://osu.ppy.sh/scores/1876120539) is so crazy that no player will surpass his record anytime soon.
 >
 > In addition, [sourufire](https://osu.ppy.sh/users/13249305) is probably the most growing of the Japanese players. His acc on the various speed maps is excellent and I look forward to competing with him in the future!
 
-*What do you feel is the most important aspect to keep motivation even when you are not improving and what keeps you specifically motivated to play?*
+*What do you feel is the most important aspect to keep motivation even when you are not improving, and what keeps you specifically motivated to play?*
 
 > I make it a point to take a break when my motivation wanes and observe the records of other players. Seeing other players happy to score well often motivates me naturally.
 >
@@ -76,9 +78,10 @@ Let's get started!
 >
 > Since lazer is currently under development, I believe that adding features such as limiting the maximum size of the skin's knots would help to resolve this issue.
 
-*Do you play any other rhythm games besides osu!?*
+*Aside from osu!, do you play any other rhythm games?*
 
 > Recently I have been playing Sound Voltex. I'm by no means a good player, but I try to enjoy playing!
+>
 > If you know of any rhythm games you would recommend, please feel free to let me know!
 
 *Do the communities of Taiko no Tatsujin and osu!taiko overlap in the pro player scene in Japan, and do arcade pro players play osu!taiko too?*
