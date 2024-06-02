@@ -190,7 +190,7 @@ Si se requiere una dificultad Normal y se usa como la *dificultad más baja* de 
 
 #### Reglas
 
-- **Cada slider debe tener una trayectoria clara y visible que seguir de principio a fin.** No se pueden usar sliders que se superponen sin bordes claros ni sliders cuyas secciones individuales son poco visibles. La posición final de un slider debe ser visible en el supuesto de que el jugador disponga de una skin que haga totalmente transparentes los círculos finales del slider.
+- **Cada slider debe tener una trayectoria clara y visible que seguir de principio a fin.** No se pueden usar sliders que se superponen sin bordes claros ni sliders cuyas secciones individuales son poco visibles. La posición final de un slider debe ser visible en el supuesto de que el jugador disponga de una skin que haga totalmente transparentes los círculos finales de los sliders.
   - Se permite que la trayectoria del slider sea ambigua si el cursor puede permanecer dentro del círculo de seguimiento del slider sin ningún movimiento fuera de la cabeza del slider.
 
 #### Pautas
