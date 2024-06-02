@@ -113,7 +113,7 @@ Las reglas y pautas específicas de cada dificultad solo se aplican al nivel de 
 - **Evita usar sliders de 1/2 con múltiples inversiones.** Los nuevos jugadores no pueden leer las inversiones adicionales porque son visibles durante muy poco tiempo.
 - **Evita crear secciones que solo contengan sliders.** Apuntar y seguir muchos sliders seguidos puede resultar agotador para los nuevos jugadores. En estos casos, se deben usar círculos y momentos de descanso sin objetos en los que hacer clic o seguir.
 - **Los [stacks](/wiki/Beatmapping/Mapping_techniques/Stack) son aceptables, pero evita cambiar entre stacks de 1/1 y 1/2 repetidamente.** Esto puede causar problemas de lectura a los nuevos jugadores, ya que dos ritmos diferentes son visualmente iguales.
-- **No se recomienda manipular con frecuencia la [velocidad del slider](/wiki/Gameplay/Hit_object/Slider/Slider_velocity).** La velocidad del slider solo debe cambiarse para las secciones de la música con diferentes ritmos y no debe ser drásticamente variable.
+- **No se recomienda manipular con frecuencia la [velocidad de los sliders](/wiki/Gameplay/Hit_object/Slider/Slider_velocity).** La velocidad de los sliders solo debe cambiarse para las secciones de la música con diferentes ritmos y no debe ser drásticamente variable.
 - **Usa formas sencillas y fáciles de leer para los sliders.** Es posible que los nuevos jugadores no sepan cómo seguir formas más complejas.
 - **Debe haber al menos 2 compases entre el final de un spinner y el siguiente objeto.** Esto es para asegurar el tiempo adecuado para hacer clic en un objeto después de un spinner.
 - **Evita poner spinners de menos de 3 compases.** Los jugadores necesitan tiempo para reconocer que tienen que empezar a girar.
