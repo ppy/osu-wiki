@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "The NAT Gazette: May 2024"
+title: "The NAT Gazette: June 2024"
 date: 2024-05-01 13:00:00 +0000
 ---
 
 The NAT Gazette returns with a big bang and a bigger list of changes to cover!
 
-![main banner](/wiki/shared/news/2024-05-01-the-nat-gazette-may-2024/nat-gazette-may-2024.jpg)
+![main banner](/wiki/shared/news/2024-05-01-the-nat-gazette-june-2024/nat-gazette-june-2024.jpg)
 
 The NAT isn't dead! Neither has the long awaited batch of updates that have slowly been creeping in ever since the last issue. With a bigger emphasis placed on transparency and easing communication between the Beatmap Nominators and the general playerbase, we'd like to shift gears and focus on how users receive this full suite of updates.
 
