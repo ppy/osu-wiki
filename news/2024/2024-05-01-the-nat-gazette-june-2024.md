@@ -24,6 +24,14 @@ These changes come after an extensive community discussion was held in the [BN M
 
 This time around we bring quite a sackful of changes. From additions in the Ranking Criteria, to sweeping changes in the way both new applicants and current BNs will be evaluated. There's a little of something for everyone.
 
+### Evaluations moving forward
+
+Based on recent community feedback, the Nomination Assessment Team will no longer take a proactive approach enforcing arbitrary mapping quality standards in their evaluations. We believe the community as a whole must be the one to decide what's best for the platform.
+
+This change in perspective means that Beatmap Nominators **will not** be punished for any subjective concern that the evaluators may have had on beatmaps that have been ranked without resets. Unrankables, unranks, and any other objective issue will still be handled as per usual.
+
+While we may experiment with more changes depending on how things turn out, the direction of letting the community set their own standards will not change.
+
 ### Communitywide changes
 
 #### Beatmap Management subforum
@@ -111,6 +119,6 @@ show badge redesign, show table of applied badges since the start of the year
 
 ---
 
-outro. I ran out of creative juice.
+This is all for today! To stay tuned with discussions to come, we encourage any and all users to keep an eye in the [Beatmap Management subforum](https://osu.ppy.sh/community/forums/115) where future changes will be discussed. Getting to know the community's opinion is crucial, and giving power to the user base should be our priority moving forward.
 
 —Nomination Assessment Team
