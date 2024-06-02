@@ -101,7 +101,7 @@ Las reglas y pautas específicas de cada dificultad solo se aplican al nivel de 
 
 - **Los objetos separados por 1 compás o menos no deben [superponerse](/wiki/Beatmapping/Mapping_techniques/Overlap) completamente.**
 - **No uses [flechas inversas para los sliders que no sigan una trayectoria visible](/wiki/Ranking_criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** Estas confunden la dirección de un slider.
-- **Cada slider debe tener una trayectoria clara y visible que seguir de principio a fin.** No se pueden usar sliders que se superponen sin bordes claros ni sliders cuyas secciones individuales son poco visibles. La posición final de un slider debe ser visible en el supuesto de que el jugador disponga de una skin que haga totalmente transparentes los círculos finales del slider.
+- **Cada slider debe tener una trayectoria clara y visible que seguir de principio a fin.** No se pueden usar sliders que se superponen sin bordes claros ni sliders cuyas secciones individuales son poco visibles. La posición final de un slider debe ser visible en el supuesto de que el jugador disponga de una skin que haga totalmente transparentes los círculos finales de los sliders.
 
 #### Pautas
 
