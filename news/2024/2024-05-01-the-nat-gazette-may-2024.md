@@ -85,6 +85,12 @@ Beatmap Nominators will not be able to make mock evaluations anymore. The system
 
 Vetoes have slightly been reworked. Once a Veto is made, the entire usergroup of the gamemode which it concerns will be drafted. While participation is not obligatory, this change aims to provide a better representation of what the BN group of a gamemode thinks of a Veto, in turn making the results feel less RNG depending on who got randomly chosen.
 
+#### Hybrid beatmapsets nomination changes
+
+Beatmapsets comprised of two or more rulesets should have an easier time getting Ranked! While the old system required two proficient BNs for each unique ruleset in the beatmapset, with the new changes only the main gamemode of a set will need two Beatmap Nominators. The rest of rulesets will only require one nomination from its respective mode. 
+
+The a ruleset will be considered the main one if has the most difficulties, or if it has the most difficulties mapped by the host in the case of a tie. If both conditions apply, any ruleset that satisfies those conditions in the sets may be considered the main one and will need two nominations, giving the mapper and BNs some extra flexibility.
+
 ### Within the Nomination Assessment Team
 
 #### NAT additions
