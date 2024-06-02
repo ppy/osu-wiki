@@ -72,12 +72,6 @@ Let's get started!
 >
 > I also make it a point to play other games and create cool down time. Lately I have been playing VALORANT with friends. I'm not good at fps, so I always lose lol.
 
-*How do you feel about "skin exploits" like nobig and bignote skins? Do you think they give players an unfair advantage?*
-
-> I can't go into too much depth because I have several records of bignotes skins being used, but I do believe that there should be firm guidelines for skins in the future. I neither confirm nor deny this as each player has his/her own values, but I think players who do not use skins, which can make play easier, will find it very unfair.
->
-> Since lazer is currently under development, I believe that adding features such as limiting the maximum size of the skin's sprites would help to resolve this issue.
-
 *Aside from osu!, do you play any other rhythm games?*
 
 > Recently I have been playing Sound Voltex. I'm by no means a good player, but I try to enjoy playing!
