@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: DeBisco"
-date: 2024-06-01 09:00:00 +0000
+date: 2024-06-02 17:00:00 +0000
 ---
 
 In 10 years, you can tell your friends you were here for the rise of **DeBisco**, our latest Featured Artist!
