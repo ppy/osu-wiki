@@ -142,7 +142,7 @@ Si se requiere una dificultad Normal y se usa como la *dificultad más baja* de 
 
 - **Los objetos separados por 1/2 compás o menos no deben [superponerse](/wiki/Beatmapping/Mapping_techniques/Overlap) completamente.** Las cabezas o colas de los sliders totalmente superpuestas por las colas de los sliders están exentas, siempre que los cuerpos de los sliders sean visibles.
 - **No uses [flechas inversas para los sliders que no sigan una trayectoria visible](/wiki/Ranking_criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** Estas confunden la dirección de un slider.
-- **Cada slider debe tener una trayectoria clara y visible que seguir de principio a fin.** No se pueden usar sliders que se superponen sin bordes claros ni sliders cuyas secciones individuales son poco visibles. La posición final de un slider debe ser visible en el supuesto de que el jugador disponga de una skin que haga totalmente transparentes los círculos finales del slider.
+- **Cada slider debe tener una trayectoria clara y visible que seguir de principio a fin.** No se pueden usar sliders que se superponen sin bordes claros ni sliders cuyas secciones individuales son poco visibles. La posición final de un slider debe ser visible en el supuesto de que el jugador disponga de una skin que haga totalmente transparentes los círculos finales de los sliders.
   - Se permite el uso de sliders ambiguos con círculos de seguimiento que cubran todo el recorrido del slider, suponiendo que los bordes del slider sean claros.
 
 #### Pautas
