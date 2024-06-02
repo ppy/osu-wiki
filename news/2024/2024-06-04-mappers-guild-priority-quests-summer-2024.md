@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mappers' Guild - Priority Quests (Summer 2024)
+title: Mappers' Guild - Summer 2024 Priority Quests
 date: 2024-06-04 20:00:00 +0000
 ---
 
@@ -48,7 +48,7 @@ If you already have a Ranked map using a Featured Artist song (excluding GDs), t
 
 ### [Back to basics](LINK) ![bronze icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/bronze-small.png)
 
-If you're too good at the game, is it hard to recognize what players find fun? It's time to find out.
+If you're too good at the game, is it hard to recognise what players find fun? It's time to find out.
 
 This quest is limited to anyone with at least **10,000 pp** in a game mode. Your goal is to rank a map with...
 
@@ -61,10 +61,10 @@ Most of the [osu! originals](/wiki/osu!_originals) in osu!'s music library come 
 
 Your goal is to rank a map of any **World Cup osu! original** in a game mode that...
 
-- **...it was NOT created for.** For example, [Sanctuary](https://osu.ppy.sh/beatmapsets/1889094) was created for the *osu!* World Cup, so it's valid for *osu!taiko*/*osu!catch*/*osu!mania*.
-- **...does not have a Ranked map for the song as of June 3, 2024**. For example, [OOParts](https://osu.ppy.sh/beatmapsets/1312143) was created for the *osu!* World Cup, but also has [Ranked *osu!taiko* and *osu!mania* maps](https://osu.ppy.sh/beatmapsets?q=ooparts), so it'd only be valid for *osu!catch*.
+- **...it was NOT created for.** For example, [Sanctuary](https://osu.ppy.sh/beatmapsets/1889094) was created for the osu! World Cup, so it's valid for osu!taiko/osu!catch/osu!mania.
+- **...does not have a Ranked map for the song as of June 3, 2024**. For example, [OOParts](https://osu.ppy.sh/beatmapsets/1312143) was created for the osu! World Cup, but also has [Ranked osu!taiko and osu!mania maps](https://osu.ppy.sh/beatmapsets?q=ooparts), so it'd only be valid for osu!catch.
 
-Use [this page](/wiki/osu!_originals#official-contest-releases) to see which mode each song was created for!
+Use [this page](/wiki/osu!_originals#official-tournament-releases) to see which mode each song was created for!
 
 ### [Monthly Beatmapping Contest returns v2](LINK) ![silver icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/silver-small.png)
 
@@ -75,11 +75,11 @@ Rank a map from any of your [Monthly Beatmapping Contest](/wiki/Contests/Monthly
 osu! has experienced a drought of multi-mode beatmaps for the last few years.
 After [this recent change to nomination logic](https://github.com/ppy/osu-web/pull/10984), multi-mode beatmaps can be Ranked with fewer nominations, so it's time to take action!
 
-Work together with **one** other mapper to rank a map with 2 game modes (in this case, different key counts do not count as separate modes). Each of the two mappers will earns priority quest prizes.
+Work together with **one** other mapper to rank a map with 2 game modes (in this case, different osu!mania key counts do not count as separate modes). Each of the two mappers will earns priority quest prizes.
 
 ### [Classified v2](LINK) ![platinum icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/platinum-small.png)
 
-This quest goes back to the roots of the Mappers' Guild: **making maps for upcoming Featured Artists.**
+This quest goes back to the roots of the Mappers' Guild: **making maps for upcoming Featured Artists**.
 
 Your goal is to create and rank a map for it to be showcased in the artist's upcoming announcement! To participate in this quest, the first step is to select a song from the [quest page](LINK).
 
