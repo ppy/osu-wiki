@@ -2,7 +2,7 @@
 
 ***Aviso: Este artículo es una extensión de los [criterios de clasificación generales](/wiki/Ranking_criteria).***
 
-Este conjunto de **los criterios de clasificación de osu!** establece las [reglas y pautas](/wiki/Ranking_criteria#términos-generales) que los [beatmaps](/wiki/Beatmap) específicos de [osu!](/wiki/Game_mode/osu!) deben seguir para avanzar en el [procedimiento de clasificación](/wiki/Beatmap_ranking_procedure).
+Este conjunto de **criterios de clasificación de osu!** establece [reglas y pautas](/wiki/Ranking_criteria#términos-generales) que los [beatmaps](/wiki/Beatmap) específicos de [osu!](/wiki/Game_mode/osu!) deben seguir para avanzar en el [procedimiento de clasificación](/wiki/Beatmap_ranking_procedure).
 
 ## Universal
 
@@ -32,7 +32,7 @@ Las reglas y pautas generales se aplican a cualquier tipo de dificultad de osu!.
 - **Evita usar colores de combo y colores personalizados para la trayectoria de los sliders con 220 de luminosidad o superior durante los kiai times.** Crean destellos brillantes que pueden resultar desagradables para los ojos.
 - **Los finales de los spinners, slider ends y las flechas de inverso de los sliders deben tener un hitsound de apoyo.** Si se usan para representar un sonido sostenido y no se alinean con un sonido distinto, es aceptable que no tengan un hitsound de apoyo.
 - **Evita usar muestras de sonido para sliderslide, sliderwhistle y spinnerspin que no se repiten de forma natural.** Estos hitsounds son continuos, lo que significa que sus archivos se reproducen de principio a fin y se repiten como un sonido continuo a lo largo del objeto, por lo que el uso de archivos de sonido con un impacto claro para ellos podría provocar efectos secundarios no deseados.
-- **Evita los picos de dificultad innecesarios.** La dificultad debe ser representativa de acuerdo a la intensidad de la canción.
+- **Evita los picos de dificultad injustificados.** La dificultad debe ser representativa de la intensidad de la canción.
 
 ### Skinning
 
