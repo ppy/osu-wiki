@@ -24,7 +24,7 @@ Simply read on for a look into [Eriha](https://osu.ppy.sh/users/16320311)'s insi
 
 *How did you get introduced to osu! and what was your first impression of it?*
 
-> I found osu! 4 years ago when a std player friend recommended it to me. I have been playing Taiko no Tatsujin since I was very young so my friend told me that taiko mode is the best for me.
+> I found osu! 4 years ago when a std player friend recommended it to me. I have been playing Taiko no Tatsujin since I was very young, so my friend told me that taiko mode is the best for me.
 >
 > When I first installed osu! I was very impressed by the fact that I could play with my favorite songs. I play osu! on my laptop more often than I visit the arcade. That's how big an impact osu! had on me.
 
@@ -66,7 +66,7 @@ Simply read on for a look into [Eriha](https://osu.ppy.sh/users/16320311)'s insi
 
 > I make it a point to take a break when my motivation wanes and observe the records of other players. Seeing other players happy to score well often motivates me naturally.
 >
-> I also make it a point to play other games and create cool down time. Lately I have been playing VALORANT with friends. I'm not good at fps, so I always lose lol.
+> I also make it a point to play other games and create cooldown time. Lately I have been playing VALORANT with friends. I'm not good at fps, so I always lose lol.
 
 *Aside from osu!, do you play any other rhythm games?*
 
