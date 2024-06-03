@@ -6,7 +6,7 @@ date: 2024-06-03 11:00:00 +0000
 
 It's latest in a series of top player interviews, now featuring the osu!taiko #4 best drum basher: [Eriha](https://osu.ppy.sh/users/16320311)!
 
-![](/wiki/shared/news/2024-06-03-the-followpoint-eriha-the-drum-decimator-of-osu-taiko/banner.jpg)
+![](/wiki/shared/news/2024-06-03-the-followpoint-eriha-top-drum-basher/banner.jpg)
 
 That's right, following previous interviews with [mrekk](https://osu.ppy.sh/home/news/2024-05-06-the-followpoint-mrekk-the-osu-standard-prodigy) and [YesMyDarknesss](https://osu.ppy.sh/home/news/2024-05-28-the-followpoint-yesmydarknesss-the-master-of-osu-catch), top players of osu! and osu!catch respectively, this edition of The Followpoint continues the pattern by featuring osu!taiko's rank #4 player and the [osu!taiko World Cup 2024](/wiki/Tournaments/TWC/2024) champion.
 
