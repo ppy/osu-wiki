@@ -66,7 +66,7 @@ Las reglas y pautas específicas de cada dificultad solo se aplican al nivel de 
 
 #### Reglas
 
-- **Los objetos separados por 1 compás o menos no deben [superponerse](/wiki/Beatmapping/Mapping_techniques/Overlap) completamente.**
+- **Los objetos separados por 1 pulso o menos no deben [superponerse](/wiki/Beatmapping/Mapping_techniques/Overlap) completamente.**
 - **No uses [flechas inversas para los sliders que no sigan una trayectoria visible](/wiki/Ranking_criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** Estas confunden la dirección de un slider.
 - **Cada slider debe tener una trayectoria clara y visible que seguir de principio a fin.** No se pueden usar sliders que se superponen sin bordes claros ni sliders cuyas secciones individuales son poco visibles. La posición final de un slider debe ser visible en el supuesto de que el jugador disponga de una skin que haga totalmente transparentes los círculos finales de los sliders.
 
@@ -76,7 +76,7 @@ Las reglas y pautas específicas de cada dificultad solo se aplican al nivel de 
 - **Cuando uses el [ajuste de distancia](/wiki/Client/Beatmap_editor/Distance_snap), intenta mantenerlo entre 0,8x y 1,2x.** Los valores demasiado altos o bajos pueden hacer que la diferencia entre la [velocidad del slider]( /wiki/Gameplay/Hit_object/Slider/Slider_velocity) y el espaciado sea poco intuitiva. Se puede usar una distancia mayor para evitar la [superposición](/wiki/Beatmapping/Mapping_techniques/Overlap), pero la velocidad del slider debe aumentarse si haces esto con frecuencia.
 - **Evita usar una [velocidad para los sliders](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) superior a 1,3.**
 - **La densidad de las notas debe consistir principalmente en ritmos de 1/1, 2/1 o ritmos más lentos.**
-- **Evita usar sliders inferiores a 1/2 compás.** Son demasiado rápidos para ser comprendidos por los nuevos jugadores.
+- **Evita usar sliders inferiores a 1/2 pulso.** Son demasiado rápidos para ser comprendidos por los nuevos jugadores.
 - **Evita [superponer](/wiki/Beatmapping/Mapping_techniques/Overlap) los círculos, las cabezas y las colas de los sliders.** Esto puede resultar confuso para los nuevos jugadores. Las superposiciones de 1/1 debidas al [ajuste de la distancia](/wiki/Client/Beatmap_editor/Distance_snap) deben evitarse con un mayor espaciado o [velocidad del slider](/wiki/Gameplay/Hit_object/Slider/Slider_velocity).
 - **Evita usar sliders de 1/1 con múltiples inversiones.** Los nuevos jugadores no pueden leer las inversiones adicionales porque son visibles durante muy poco tiempo.
 - **Evita crear secciones que solo contengan sliders.** Apuntar y seguir muchos sliders seguidos puede resultar agotador para los nuevos jugadores. En estos casos, se deben usar círculos y momentos de descanso sin objetos en los que hacer clic o seguir.
