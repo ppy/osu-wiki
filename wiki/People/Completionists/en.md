@@ -30,6 +30,31 @@ These people have been verified by the osu! team as completionists:
 | :-- | :-- | :-- |
 | ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) | 2019-11-03 | 8,841 |
 | ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966) | 2023-08-14 | 22,170 |
+| ::{ flag=US }:: [shinitaichan](https://osu.ppy.sh/users/7807460) | 2024-02-02 | 23,702 |
+| ::{ flag=US }:: [vrnl](https://osu.ppy.sh/users/4799788) | 2024-03-17 | 24,330 |
+
+### osu!catch
+
+| Player | Date of completion | Total played difficulties |
+| :-- | :-- | :-- |
+| ::{ flag=US }:: [Edgar_Figaro](https://osu.ppy.sh/users/6508754) | 2023-09-03 | 7,226 |
+| ::{ flag=GB }:: [Zoggoth](https://osu.ppy.sh/users/2799946) | 2023-09-05 | 7,398 |
+| ::{ flag=TW }:: [Oktavia](https://osu.ppy.sh/users/1952803) | 2023-11-08 | 7,411 |
+| ::{ flag=FR }:: [ERROR CODE 0x7A](https://osu.ppy.sh/users/17819541) | 2024-01-06 | 7,630 |
+| ::{ flag=US }:: [shinitaichan](https://osu.ppy.sh/users/7807460) | 2024-02-02 | 7,740 |
+| ::{ flag=DE }:: [Hanabioni](https://osu.ppy.sh/users/19391812) | 2024-02-16 | 7,828 |
+| ::{ flag=AT }:: [Volki](https://osu.ppy.sh/users/7118702) | 2024-04-13 | 8,073 |
+| ::{ flag=CL }:: [TheShadowOfDark](https://osu.ppy.sh/users/5795337) | 2024-04-28 | 8,092 |
+| ::{ flag=CL }:: [XMarioAdvZ](https://osu.ppy.sh/users/7329917) | 2024-04-28 | 8,092 |
+| ::{ flag=NO }:: [CyCeph](https://osu.ppy.sh/users/4586304) | 2024-05-29 | 8,162 |
+
+### osu!mania
+
+| Player | Date of completion | Total played difficulties |
+| :-- | :-- | :-- |
+| ::{ flag=HU }:: [Araxcrow](https://osu.ppy.sh/users/11038892) | 2023-03-19 | 11,579 |
+| ::{ flag=US }:: [KcHecKa](https://osu.ppy.sh/users/4584427) | 2023-09-17 | 13,710 |
+| ::{ flag=US }:: [shinitaichan](https://osu.ppy.sh/users/7807460) | 2024-02-02 | 15,134 |
 
 ## Trivia
 
