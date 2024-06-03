@@ -88,7 +88,7 @@ Simply read on for a look into [Eriha](https://osu.ppy.sh/users/16320311)'s insi
 
 *To finish things up, what does the future hold for you? Do you have any goals or anything else that you'd like to mention?*
 
-> I would like to keep playing this game for fun first, and I also have a goal to fill all my BPs with more than 900pp.
+> I would like to keep playing this game for fun first, and I also have a goal to fill all my top 100 plays with more than 900pp scores.
 >
 > In mapping, I also want to create maps that players will enjoy and support a variety of mappers!
 > It may be a distant goal for me, but I would also like to reach a position where I can manage the entire gaming community, so that all players can enjoy playing the game!
