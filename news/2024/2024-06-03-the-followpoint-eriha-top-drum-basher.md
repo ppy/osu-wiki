@@ -28,11 +28,11 @@ Simply read on for a look into [Eriha](https://osu.ppy.sh/users/16320311)'s insi
 >
 > When I first installed osu! I was very impressed by the fact that I could play with my favorite songs. I play osu! on my laptop more often than I visit the arcade. That's how big an impact osu! had on me.
 
-*Why did you choose to play osu!taiko of all game modes osu! has to offer?*
+*What did you like about osu!taiko compared to Taiko no Tatsujin the most and why?*
 
-> I wrote all that in the above question lol, I thought the taiko mode was suitable for me.
+> I really like the fact that I can hit the keyboard rather than taiko with drumsticks.
 >
-> I think my mind was more taken with the idea of drumming than clicking circles, picking up fruit, or hitting the keys.
+> I'm not very muscular compared to other players, so I'm a little uncomfortable wielding drumsticks in the video arcade. osu!taiko can be played using only four fingers and can be played with a variety of keyboard-based play styles!
 
 *What do you think of osu!taiko and its community in its current state?*
 
