@@ -82,10 +82,10 @@ Las reglas y pautas específicas de cada dificultad solo se aplican al nivel de 
 - **Evita crear secciones que solo contengan sliders.** Apuntar y seguir muchos sliders seguidos puede resultar agotador para los nuevos jugadores. En estos casos, se deben usar círculos y momentos de descanso sin objetos en los que hacer clic o seguir.
 - **No se recomienda manipular con frecuencia la [velocidad de los sliders](/wiki/Gameplay/Hit_object/Slider/Slider_velocity).** La velocidad de los sliders solo debe cambiarse para las secciones de la música con diferentes ritmos y no debe ser drásticamente variable.
 - **Usa formas sencillas y fáciles de leer para los sliders.** Es posible que los nuevos jugadores no sepan cómo seguir formas más complejas.
-- **Debe haber al menos 4 compases entre el final de un spinner y el siguiente objeto.** Esto es para asegurar el tiempo adecuado para hacer clic en un objeto después de un spinner.
-- **Evita poner spinners de menos de 4 compases.** Los jugadores necesitan tiempo para reconocer que tienen que empezar a girar.
-- **Evita cubrir completamente las flechas inversas de los sliders con objetos dentro de los 4 compases en los que se alcanza la flecha inversa.** Esto les da a los jugadores tiempo suficiente para reconocer la flecha inversa.
-- **Evita [superponer](/wiki/Beatmapping/Mapping_techniques/Overlap) completamente los cuerpos de los sliders en un intervalo de 4 compases.** Hacer esto puede hacer que los sliders se interpreten erróneamente como un círculo debido a la oscuridad del cuerpo del slider.
+- **Debe haber al menos 4 pulsos entre el final de un spinner y el siguiente objeto.** Esto es para asegurar el tiempo adecuado para hacer clic en un objeto después de un spinner.
+- **Evita poner spinners de menos de 4 pulsos.** Los jugadores necesitan tiempo para reconocer que tienen que empezar a girar.
+- **Evita cubrir completamente las flechas inversas de los sliders con objetos dentro de los 4 pulsos en los que se alcanza la flecha inversa.** Esto les da a los jugadores tiempo suficiente para reconocer la flecha inversa.
+- **Evita [superponer](/wiki/Beatmapping/Mapping_techniques/Overlap) completamente los cuerpos de los sliders en un intervalo de 4 pulsos.** Hacer esto puede hacer que los sliders se interpreten erróneamente como un círculo debido a la oscuridad del cuerpo del slider.
 - **Asegúrate de que tus combos no sean excesivamente cortos o largos.** Los combos deben reflejar patrones expresados ​​en la canción, como compases musicales o frases vocales/instrumentales.
 - **Evita [superponer](/wiki/Beatmapping/Mapping_techniques/Overlap) los objetos con otros elementos de las skins predeterminadas y específicas del beatmap.** Esto se refiere a todos los elementos que forman parte de la interfaz y que pueden ser personalizados.
 
@@ -99,13 +99,13 @@ Las reglas y pautas específicas de cada dificultad solo se aplican al nivel de 
 
 #### Reglas
 
-- **Los objetos separados por 1 compás o menos no deben [superponerse](/wiki/Beatmapping/Mapping_techniques/Overlap) completamente.**
+- **Los objetos separados por 1 pulso o menos no deben [superponerse](/wiki/Beatmapping/Mapping_techniques/Overlap) completamente.**
 - **No uses [flechas inversas para los sliders que no sigan una trayectoria visible](/wiki/Ranking_criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** Estas confunden la dirección de un slider.
 - **Cada slider debe tener una trayectoria clara y visible que seguir de principio a fin.** No se pueden usar sliders que se superponen sin bordes claros ni sliders cuyas secciones individuales son poco visibles. La posición final de un slider debe ser visible en el supuesto de que el jugador disponga de una skin que haga totalmente transparentes los círculos finales de los sliders.
 
 #### Pautas
 
-- **Se debe usar la [igualdad de tiempo-distancia](/wiki/Beatmapping/Mapping_techniques/Time-distance_equality).** Las variaciones son aceptables si son claramente diferentes del espaciado usado para diferentes ritmos. Cuando los objetos están a más de 1 compás de distancia y tienen un espaciado relativamente alto en el campo de juego, la igualdad de tiempo-distancia no necesita ser tan precisa.
+- **Se debe usar la [igualdad de tiempo-distancia](/wiki/Beatmapping/Mapping_techniques/Time-distance_equality).** Las variaciones son aceptables si son claramente diferentes del espaciado usado para diferentes ritmos. Cuando los objetos están a más de 1 pulso de distancia y tienen un espaciado relativamente alto en el campo de juego, la igualdad de tiempo-distancia no necesita ser tan precisa.
 - **Cuando uses el [ajuste de distancia](/wiki/Client/Beatmap_editor/Distance_snap), intenta mantenerlo entre 0,8x y 1,3x.** Los valores demasiado altos o bajos pueden hacer que la diferencia entre la [velocidad del slider]( /wiki/Gameplay/Hit_object/Slider/Slider_velocity) y el espaciado sea poco intuitiva. Se puede usar una distancia mayor para evitar la [superposición](/wiki/Beatmapping/Mapping_techniques/Overlap), pero la velocidad del slider debe aumentarse si haces esto con frecuencia.
 - **La densidad de las notas debe consistir principalmente en ritmos de 1/1, a veces de 1/2, o ritmos más lentos.**
 - **Evita [superponer](/wiki/Beatmapping/Mapping_techniques/Overlap) los círculos, las cabezas y las colas de los sliders.** Esto puede resultar confuso para los nuevos jugadores. Las superposiciones de 1/2 debidas al [ajuste de la distancia](/wiki/Client/Beatmap_editor/Distance_snap) son una excepción.
@@ -115,10 +115,10 @@ Las reglas y pautas específicas de cada dificultad solo se aplican al nivel de 
 - **Los [stacks](/wiki/Beatmapping/Mapping_techniques/Stack) son aceptables, pero evita cambiar entre stacks de 1/1 y 1/2 repetidamente.** Esto puede causar problemas de lectura a los nuevos jugadores, ya que dos ritmos diferentes son visualmente iguales.
 - **No se recomienda manipular con frecuencia la [velocidad de los sliders](/wiki/Gameplay/Hit_object/Slider/Slider_velocity).** La velocidad de los sliders solo debe cambiarse para las secciones de la música con diferentes ritmos y no debe ser drásticamente variable.
 - **Usa formas sencillas y fáciles de leer para los sliders.** Es posible que los nuevos jugadores no sepan cómo seguir formas más complejas.
-- **Debe haber al menos 2 compases entre el final de un spinner y el siguiente objeto.** Esto es para asegurar el tiempo adecuado para hacer clic en un objeto después de un spinner.
-- **Evita poner spinners de menos de 3 compases.** Los jugadores necesitan tiempo para reconocer que tienen que empezar a girar.
-- **Evita cubrir completamente las flechas inversas de los sliders con objetos dentro de los 3 compases en los que se alcanza la flecha inversa.** Esto les da a los jugadores tiempo suficiente para reconocer la flecha inversa.
-- **Evita [superponer](/wiki/Beatmapping/Mapping_techniques/Overlap) completamente los cuerpos de los sliders en un intervalo de 3 compases.** Hacer esto puede hacer que los sliders se interpreten erróneamente como un círculo debido a la oscuridad del cuerpo del slider.
+- **Debe haber al menos 2 pulsos entre el final de un spinner y el siguiente objeto.** Esto es para asegurar el tiempo adecuado para hacer clic en un objeto después de un spinner.
+- **Evita poner spinners de menos de 3 pulsos.** Los jugadores necesitan tiempo para reconocer que tienen que empezar a girar.
+- **Evita cubrir completamente las flechas inversas de los sliders con objetos dentro de los 3 pulsos en los que se alcanza la flecha inversa.** Esto les da a los jugadores tiempo suficiente para reconocer la flecha inversa.
+- **Evita [superponer](/wiki/Beatmapping/Mapping_techniques/Overlap) completamente los cuerpos de los sliders en un intervalo de 3 pulsos.** Hacer esto puede hacer que los sliders se interpreten erróneamente como un círculo debido a la oscuridad del cuerpo del slider.
 - **Asegúrate de que tus combos no sean excesivamente cortos o largos.** Los combos deben reflejar patrones expresados ​​en la canción, como compases musicales o frases vocales/instrumentales.
 - **Evita [superponer](/wiki/Beatmapping/Mapping_techniques/Overlap) los objetos con otros elementos de las skins predeterminadas y específicas del beatmap.** Esto se refiere a todos los elementos que forman parte de la interfaz y que pueden ser personalizados.
 
@@ -140,21 +140,21 @@ Si se requiere una dificultad Normal y se usa como la *dificultad más baja* de 
 
 #### Reglas
 
-- **Los objetos separados por 1/2 compás o menos no deben [superponerse](/wiki/Beatmapping/Mapping_techniques/Overlap) completamente.** Las cabezas o colas de los sliders totalmente superpuestas por las colas de los sliders están exentas, siempre que los cuerpos de los sliders sean visibles.
+- **Los objetos separados por 1/2 pulso o menos no deben [superponerse](/wiki/Beatmapping/Mapping_techniques/Overlap) completamente.** Las cabezas o colas de los sliders totalmente superpuestas por las colas de los sliders están exentas, siempre que los cuerpos de los sliders sean visibles.
 - **No uses [flechas inversas para los sliders que no sigan una trayectoria visible](/wiki/Ranking_criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** Estas confunden la dirección de un slider.
 - **Cada slider debe tener una trayectoria clara y visible que seguir de principio a fin.** No se pueden usar sliders que se superponen sin bordes claros ni sliders cuyas secciones individuales son poco visibles. La posición final de un slider debe ser visible en el supuesto de que el jugador disponga de una skin que haga totalmente transparentes los círculos finales de los sliders.
   - Se permite el uso de sliders ambiguos con círculos de seguimiento que cubran todo el recorrido del slider, suponiendo que los bordes del slider sean claros.
 
 #### Pautas
 
-- **Debe haber al menos 1 compás entre el final de un spinner y el siguiente objeto.** Esto es para asegurar el tiempo adecuado para hacer clic en un objeto después de un spinner.
+- **Debe haber al menos 1 pulso entre el final de un spinner y el siguiente objeto.** Esto es para asegurar el tiempo adecuado para hacer clic en un objeto después de un spinner.
 - **La densidad de las notas debe consistir principalmente en ritmos de 1/2, a veces de 1/4, o ritmos más lentos.**
 - **Evita poner [streams](/wiki/Beatmap/Pattern/osu!/Stream) compuestos por más de 5 notas.** En su lugar, se pueden usar sliders inversos cortos cuando la canción lo permita.
 - **Evita usar un espaciado visualmente similar para ritmos diferentes.** Se recomienda la variación del espaciado mediante [jumps](/wiki/Beatmap/Pattern/osu!/Jump) en los puntos de énfasis, pero solo si estos jumps son claramente diferentes de otros intervalos del ritmo.
 - **No se recomienda el uso de hitsounds en las marcas de los sliders.** Si quieres usarlos, asegúrate de que su volumen sea equilibrado (es decir, notablemente más bajo que los hitsounds normales). Una marca muy ruidosa, sobre todo cuando solo se usa una o dos veces, puede resultar muy molesta.
-- **Evita poner spinners de menos de 2 compases.** Los jugadores necesitan tiempo para reconocer que tienen que empezar a girar.
-- **Evita cubrir completamente las flechas inversas de los sliders con objetos dentro de los 2 compases en los que se alcanza la flecha inversa.** Esto les da a los jugadores tiempo suficiente para reconocer la flecha inversa.
-- **Evita [superponer](/wiki/Beatmapping/Mapping_techniques/Overlap) completamente los cuerpos de los sliders en un intervalo de 2 compases.** Hacer esto puede hacer que los sliders se interpreten erróneamente como un círculo debido a la oscuridad del cuerpo del slider.
+- **Evita poner spinners de menos de 2 pulsos.** Los jugadores necesitan tiempo para reconocer que tienen que empezar a girar.
+- **Evita cubrir completamente las flechas inversas de los sliders con objetos dentro de los 2 pulsos en los que se alcanza la flecha inversa.** Esto les da a los jugadores tiempo suficiente para reconocer la flecha inversa.
+- **Evita [superponer](/wiki/Beatmapping/Mapping_techniques/Overlap) completamente los cuerpos de los sliders en un intervalo de 2 pulsos.** Hacer esto puede hacer que los sliders se interpreten erróneamente como un círculo debido a la oscuridad del cuerpo del slider.
 
 #### Pautas para la configuración de la dificultad
 
@@ -172,12 +172,12 @@ Si se requiere una dificultad Normal y se usa como la *dificultad más baja* de 
 
 #### Pautas
 
-- **Los objetos separados por 1/4 de compás o menos no deben [superponerse](/wiki/Beatmapping/Mapping_techniques/Overlap) completamente,** especialmente en las dificultades Insane más sencillas.
+- **Los objetos separados por 1/4 de pulso o menos no deben [superponerse](/wiki/Beatmapping/Mapping_techniques/Overlap) completamente,** especialmente en las dificultades Insane más sencillas.
 - **Evita usar [flechas inversas para los sliders que no sigan una trayectoria visible](/wiki/Ranking_criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** Estas confunden la dirección de un slider.
 - **Evita poner [jumps](/wiki/Beatmap/Pattern/osu!/Jump) muy alejados entre sí y [streams](/wiki/Beatmap/Pattern/osu!/Stream) en los que los círculos no se [superpongan](/wiki/Beatmapping/Mapping_techniques/Overlap).** Estas son técnicas de mapeo reservadas principalmente para las dificultades Expert.
 - **No se recomienda el uso de hitsounds en las marcas de los sliders.** Si quieres usarlos, asegúrate de que su volumen sea equilibrado (es decir, notablemente más bajo que los hitsounds normales). Una marca muy ruidosa, sobre todo cuando solo se usa una o dos veces, puede resultar muy molesta.
-- **Evita cubrir completamente las flechas inversas de los sliders con círculos, cabezas o colas de los sliders a 1/2 compás en el que se alcanza la flecha inversa.** Esto les da a los jugadores tiempo suficiente para reconocer la flecha inversa.
-- **Evita [superponer](/wiki/Beatmapping/Mapping_techniques/Overlap) completamente los cuerpos de los sliders en un intervalo de 1/2 compás.** Hacer esto puede hacer que los sliders se interpreten erróneamente como un círculo debido a la oscuridad del cuerpo del slider.
+- **Evita cubrir completamente las flechas inversas de los sliders con círculos, cabezas o colas de los sliders a 1/2 pulso en el que se alcanza la flecha inversa.** Esto les da a los jugadores tiempo suficiente para reconocer la flecha inversa.
+- **Evita [superponer](/wiki/Beatmapping/Mapping_techniques/Overlap) completamente los cuerpos de los sliders en un intervalo de 1/2 pulso.** Hacer esto puede hacer que los sliders se interpreten erróneamente como un círculo debido a la oscuridad del cuerpo del slider.
 
 #### Pautas para la configuración de la dificultad
 
