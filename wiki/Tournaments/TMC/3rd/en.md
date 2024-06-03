@@ -3,14 +3,14 @@ tags:
   - TMC
   - THMC
   - THMC 3rd
-  - THMC3nd
+  - THMC3rd
 ---
 
 # Touhou Project Mania Cup 3rd
 
 ![Touhou Project Mania Cup 3nd banner](img/logo.jpg)
 
-The **Touhou Project Mania Cup 3nd** (***THMC 3nd***) was a team-based 2v2 osu!mania 4K tournament hosted by ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501). The main theme of this tournament the Touhou Project. The pool used for THMC 3rd is 100% based on original and fan-made Touhou music. It is the third instalment of the Touhou Project Mania Cup.
+The **Touhou Project Mania Cup 3rd** (***THMC 3rd***) was a team-based 2v2 osu!mania 4K tournament hosted by ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501). The main theme of this tournament was the Touhou Project. The pool used for THMC 3rd is 100% based on original and fan-made Touhou music. It was the third instalment of the Touhou Project Mania Cup.
 
 ## Tournament schedule
 
