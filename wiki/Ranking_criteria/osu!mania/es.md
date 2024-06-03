@@ -2,7 +2,7 @@
 
 ***Aviso: Este artículo es una extensión de los [criterios de clasificación generales](/wiki/Ranking_criteria).***
 
-Este conjunto de los **criterios de clasificación de osu!mania** establece las [reglas y pautas](/wiki/Ranking_criteria#términos-generales) que los [beatmaps](/wiki/Beatmap) específicos de [osu!mania](/wiki/Game_mode/osu!mania) deben seguir para avanzar en el [procedimiento de clasificación](/wiki/Beatmap_ranking_procedure).
+Este conjunto de **criterios de clasificación de osu!mania** establece [reglas y pautas](/wiki/Ranking_criteria#términos-generales) que los [beatmaps](/wiki/Beatmap) específicos de [osu!mania](/wiki/Game_mode/osu!mania) deben seguir para avanzar en el [procedimiento de clasificación](/wiki/Beatmap_ranking_procedure).
 
 ## Glosario
 
@@ -207,7 +207,7 @@ Pautas adicionales para dificultades *Insane de 7 teclas*:
 
 #### Pautas
 
-- **Evita los picos de dificultad innecesarios.** La dificultad debe ser representativa de acuerdo a la intensidad de la canción.
+- **Evita los picos de dificultad injustificados.** La dificultad debe ser representativa a la intensidad de la canción.
 - **Los cambios de velocidad del slider a largo plazo deben estar entre 0,60x y 1,10x.**
 
 ## Notas
