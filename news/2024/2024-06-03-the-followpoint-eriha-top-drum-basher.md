@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Followpoint: Eriha, Top Drum Basher"
-date: 2024-06-03 18:00:00 +0000
+date: 2024-06-03 17:00:00 +0000
 ---
 
 It's the latest in a series of top player interviews, now featuring the osu!taiko #4 best drum basher: [Eriha](https://osu.ppy.sh/users/16320311)!
