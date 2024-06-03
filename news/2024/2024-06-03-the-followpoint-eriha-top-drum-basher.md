@@ -66,7 +66,7 @@ Simply read on for a look into [Eriha](https://osu.ppy.sh/users/16320311)'s insi
 
 > I make it a point to take a break when my motivation wanes and observe the records of other players. Seeing other players happy to score well often motivates me naturally.
 >
-> I also make it a point to play other games and create cooldown time. Lately I have been playing VALORANT with friends. I'm not good at fps, so I always lose lol.
+> I also make it a point to play other games and create cool down time. Lately I have been playing VALORANT with friends. I'm not good at fps, so I always lose lol.
 
 *Aside from osu!, do you play any other rhythm games?*
 
