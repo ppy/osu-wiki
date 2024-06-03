@@ -74,6 +74,11 @@ Simply read on for a look into [Eriha](https://osu.ppy.sh/users/16320311)'s insi
 >
 > If you know of any rhythm games you would recommend, please feel free to let me know!
 
+*Who would you want to meet IRL the most if you could meet any osu! player and why?*
+
+> There are many players I would like to meet, but I would really like to meet [Yuemiao](https://osu.ppy.sh/users/4493348) and [hz404](https://osu.ppy.sh/users/14947043), who are irreplaceable for me!
+> Also, I would like to meet [Ney](https://osu.ppy.sh/users/5991961) and [uone](https://osu.ppy.sh/users/5321719) who I respect for their playing style!
+
 *Do the communities of Taiko no Tatsujin and osu!taiko overlap in the pro player scene in Japan, and do arcade pro players play osu!taiko too?*
 
 > Although it cannot be said that good play in Taiko no Tatsujin is proportional to good play in osu!taiko, the top players in Taiko no Tatsujin are often the top players in osu!taiko!
