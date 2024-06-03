@@ -207,7 +207,7 @@ Pautas adicionales para dificultades *Insane de 7 teclas*:
 
 #### Pautas
 
-- **Evita los picos de dificultad injustificados.** La dificultad debe ser representativa a la intensidad de la canción.
+- **Evita los picos de dificultad injustificados.** La dificultad debe ser representativa de la intensidad de la canción.
 - **Los cambios de velocidad del slider a largo plazo deben estar entre 0,60x y 1,10x.**
 
 ## Notas
