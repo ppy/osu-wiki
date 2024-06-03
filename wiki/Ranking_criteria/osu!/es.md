@@ -72,7 +72,7 @@ Las reglas y pautas específicas de cada dificultad solo se aplican al nivel de 
 
 #### Pautas
 
-- **Se debe usar la [igualdad de tiempo-distancia](/wiki/Beatmapping/Mapping_techniques/Time-distance_equality).** Las variaciones son aceptables si son claramente diferentes del espaciado usado para diferentes ritmos. Cuando los objetos están a más de 2 compases de distancia y tienen un espaciado relativamente alto en el campo de juego, la igualdad de tiempo-distancia no necesita ser tan precisa.
+- **Se debe usar la [igualdad de tiempo-distancia](/wiki/Beatmapping/Mapping_techniques/Time-distance_equality).** Las variaciones son aceptables si son claramente diferentes del espaciado usado para diferentes ritmos. Cuando los objetos están a más de 2 pulsos de distancia y tienen un espaciado relativamente alto en el campo de juego, la igualdad de tiempo-distancia no necesita ser tan precisa.
 - **Cuando uses el [ajuste de distancia](/wiki/Client/Beatmap_editor/Distance_snap), intenta mantenerlo entre 0,8x y 1,2x.** Los valores demasiado altos o bajos pueden hacer que la diferencia entre la [velocidad del slider]( /wiki/Gameplay/Hit_object/Slider/Slider_velocity) y el espaciado sea poco intuitiva. Se puede usar una distancia mayor para evitar la [superposición](/wiki/Beatmapping/Mapping_techniques/Overlap), pero la velocidad del slider debe aumentarse si haces esto con frecuencia.
 - **Evita usar una [velocidad para los sliders](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) superior a 1,3.**
 - **La densidad de las notas debe consistir principalmente en ritmos de 1/1, 2/1 o ritmos más lentos.**
