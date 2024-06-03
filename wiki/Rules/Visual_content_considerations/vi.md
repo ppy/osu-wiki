@@ -12,22 +12,22 @@ Theo [Nội quy cộng đồng #5](/wiki/Rules#community-rules), tất cả nộ
 
 ## Những điều quan trọng cần cân nhắc 
 
-Tất cả hình ảnh phải được nhìn nhận như thực tế mà không tính đến bất kỳ trường hợp nào khác trước đó, quyết định dựa trên những gì bạn nhìn thấy.
+Tất cả hình ảnh phải được đánh giá đúng như nội dung của chúng, không tính trường hợp nào trước đó, nó có phù hợp hay không tùy vào những gì bạn nhìn thấy .
 
-Cũng hãy hiểu rằng đây là cộng đồng toàn cầu, đa dạng các văn hóa với những suy nghĩ, quan điểm và giá trị khác nhau về chủ đề những gì được phép và không được phép.
+Cũng hãy hiểu rằng đây là cộng đồng toàn cầu đa dạng các văn hóa với những suy nghĩ, ý kiến và đánh giá khác nhau về chủ đề những gì được phép và không được phép.
 
-Khi không biết hình ảnh có hợp lí không thì hãy hỏi và lắng nghe các ý kiến được chia sẻ bởi phần lớn của cộng đồng nói chung.
+Khi không biết hình ảnh có hợp lí không thì hãy hỏi và lắng nghe các ý kiến được chia sẻ bởi phần lớn nói chung của cộng đồng .
 
 ## Nội dung hình ảnh không được phép 
 
-Không được phép sử dụng hình ảnh hoặc nội dung có chứa những thứ sau đây là không được phép:
+Không được phép sử dụng hình ảnh hoặc yếu tố hình ảnh có chứa nội dung sau đây là không được phép:
 
 - **Nội dung liên quan đến tình dục hoặc nhắm đến trẻ chưa vị thành niên**
 - **Mang yếu tố bạo lực,kinh dị,giết người** 
 - **Có ý nghĩa ám chỉ về tình dục**
 - **Tư thế tình dục hoặc gạ gẫm**
 - **Mang tính chất khiêu dâm hoặc hiển thị về tình dục**
-- **Ví dụ về việc sử dụng, pha chế hoặc nhận dạng ma túy bằng nội dung về ma túy bất hợp pháp** [^drug-nature1]
+- **Ví dụ về việc sử dụng, pha chế hoặc nhận dạng ma túy bằng nội dung về chất cấm bất hợp pháp** [^drug-nature1]
 - **Mô tả nội dung chính trị, văn hóa, tôn giáo hoặc xã hội có chủ ý kích động**
 - **Hình ảnh mô tả hành vi tự tử hoặc tự làm hại bản thân, bao gồm cả thử hoặc chuẩn bị sắp xảy ra**
 
@@ -35,14 +35,14 @@ Ngoài ra, hình ảnh hoặc nội dung có thể được đánh giá không h
 
 ## Trường hợp ngoại lệ 
 
-Hình ảnh hoặc các nội dung chứa các ví dụ sau đây có thể được coi là tạm chấp nhận được:
+Hình ảnh hoặc các nội dung chứa các ví dụ sau đây được coi là tạm chấp nhận được:
 
-- Mô tả bạo lực ở mức độ nhẹ đến vừa phải (lượng máu nhỏ, không nghiêm trọng hoặc vết thương ngoài da)
-- Nghệ thuật ảnh khỏa thân (tác phẩm nghệ thuật cổ điển hoặc tác phẩm liên quan đến yếu tố này, chẳng hạn như ảnh bìa album có ảnh khỏa thân nhỏ)
-- Lãng mạn, tán tỉnh hoặc tình cảm thân mật nhẹ (như ôm, ôm ấp, hôn không có hàm ý tình dục, nắm tay, v.v.)
+- Mô tả bạo lực ở mức độ nhẹ đến vừa phải (lượng máu nhỏ, không quá nghiêm trọng hoặc chỉ là vết thương ngoài da)
+- Nghệ thuật ảnh khỏa thân (tác phẩm nghệ thuật cổ điển hoặc hình ảnh ít liên quan đến yếu tố này, chẳng hạn như ảnh bìa album có ảnh khỏa thân nhỏ)
+- Lãng mạn, tán tỉnh hoặc tình cảm thân mật vừa phải (như ôm, ôm ấp, hôn không có hàm ý tình dục, nắm tay, v.v.)
 - Đồ bơi có thiết kế hợp lý (tiêu chuẩn đồ bơi có độ che phủ nhiều, bikini thông thường)
 
-Trong những trường hợp nhất định, một số ngoại lệ có thể áp dụng cho việc sử dụng mang tính nghệ thuật đối với nội dung đòi hỏi nhiều ý tưởng, chẳng hạn như storyboards hoặc thiết kế riêng (tức là: được tạo riêng).  Điều này phải được cấp phép trực tiếp từ nhóm hỗ trợ, những người liên quan có thể liên hệ với họ qua [support@ppy.sh](mailto:support@ppy.sh).
+Trong những trường hợp nhất định, một số ngoại lệ có thể áp dụng cho việc sử dụng mang tính nghệ thuật đối với nội dung đòi hỏi nhiều ý tưởng, chẳng hạn như storyboards hoặc thiết kế riêng (tức là: được tạo riêng). Điều này phải được cấp phép trực tiếp từ nhóm hỗ trợ, những người liên quan có thể liên hệ với họ qua [support@ppy.sh](mailto:support@ppy.sh).
 
 ## Bỏ phiếu hình ảnh của bạn
 
@@ -50,7 +50,7 @@ Trong những trường hợp nhất định, một số ngoại lệ có thể 
 
 Bất kỳ hình ảnh được sử dụng trên trang web ngoài trừ beatmap (hình đại diện, ảnh bìa hồ sơ, trang người dùng, v.v.) sẽ **không** theo quy trình bỏ phiếu được giải thích bên dưới và có thể bị xóa bất kỳ lúc nào theo quyết định của [Nhóm kiểm duyệt toàn cầu](/wiki/People/Global_Moderation_Team).
 
-Nếu bạn không chắc chắn về một hình ảnh có ổn khi được đưa vào beatmap theo bất cứ cách nào , **thì hãy gửi yêu cầu qua trang [Gửi báo cáo Beatmap Nominator](https://bn.mappersguild.com/reports)**. Hình ảnh sẽ được đưa lên một cuộc bỏ phiếu và phải được đa số mọi người đồng ý, còn không sẽ tự động bị từ chối.
+Nếu bạn không chắc chắn về một hình ảnh có ổn khi được đưa vào beatmap theo bất cứ cách nào , **thì hãy gửi yêu cầu qua trang [Gửi báo cáo Beatmap Nominator](https://bn.mappersguild.com/reports)**. Hình ảnh sẽ được tạo thành một cuộc bỏ phiếu và phải được đa số mọi người trong nhóm đồng ý, còn không bị từ chối sử dụng.
 
 **Kết quả cuộc bỏ phiếu là quyết định cuối cùng** , trừ khi hình ảnh bị thay đổi nhằm mục đích giải quyết nội dung có vấn đề được nêu ra trong quá trình thảo luận.
 
@@ -58,4 +58,4 @@ Trong một số trường hợp, [osu!team](/wiki/People/osu!_team) có quyền
 
 ## Ghi chú
 
-[^drug-nature1]: Điều này cũng có trường hợp ngoại lệ tùy thuộc vào tính chất của ma túy, cách sử dụng và đặc điểm của nó, đặc biệt trong các trường hợp ma túy được phi hình sự hóa và quản lý nhanh chóng trên toàn thế giới như cần sa. Bạn nên thực hiện yêu cầu ngoại lệ cụ thể cho quy định này bằng cách liên hệ với [nhóm hỗ trợ](/wiki/People/Account_support_team) theo địa chỉ [support@ppy.sh](mailto:support@ppy.sh)
+[^drug-nature1]: Điều này cũng có trường hợp ngoại lệ dự vào tính chất, cách sử dụng và đặc điểm của chất cấm, đặc biệt trong các trường hợp chất cấm được phi hình sự hóa và quản lý nhanh chóng trên toàn thế giới như cần sa. Bạn nên thực hiện yêu cầu ngoại lệ cụ thể cho quy định này bằng cách liên hệ với [nhóm hỗ trợ](/wiki/People/Account_support_team) theo địa chỉ [support@ppy.sh](mailto:support@ppy.sh)
