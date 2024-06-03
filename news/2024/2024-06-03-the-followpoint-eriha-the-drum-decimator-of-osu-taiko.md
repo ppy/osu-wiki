@@ -4,17 +4,13 @@ title: "The Followpoint: Eriha, the Drum Decimator of osu!taiko"
 date: 2024-06-03 11:00:00 +0000
 ---
 
-Read up on the latest interview with [Eriha](https://osu.ppy.sh/users/16320311), the osu!taiko #4 player and the best drums clicker.
+It's latest in a series of top player interviews, now featuring the osu!taiko #4 best drum basher: [Eriha](https://osu.ppy.sh/users/16320311)!
 
 ![](/wiki/shared/news/2024-06-03-the-followpoint-eriha-the-drum-decimator-of-osu-taiko/banner.jpg)
 
-Welcome or welcome back to The Followpoint, a "community spotlight" series where we interview various players and community figures to get to know them better!
+That's right, following previous interviews with [mrekk](https://osu.ppy.sh/home/news/2024-05-06-the-followpoint-mrekk-the-osu-standard-prodigy) and [YesMyDarknesss](https://osu.ppy.sh/home/news/2024-05-28-the-followpoint-yesmydarknesss-the-master-of-osu-catch), top players of osu! and osu!catch respectively, this edition of The Followpoint continues the pattern by featuring osu!taiko's rank #4 player and the [osu!taiko World Cup 2024](/wiki/Tournaments/TWC/2024) champion.
 
-We are once again back with a third interview of a special set of players, namely the very top of each game mode, this time featuring [Eriha](https://osu.ppy.sh/users/16320311), osu!taiko rank #4 player and [TWC2024](/wiki/Tournaments/TWC/2024) champion!
-
-If you find the these insights from top players interesting, you might also want to check out [mrekk](https://osu.ppy.sh/home/news/2024-05-06-the-followpoint-mrekk-the-osu-standard-prodigy) and [YesMyDarknesss](https://osu.ppy.sh/home/news/2024-05-28-the-followpoint-yesmydarknesss-the-master-of-osu-catch) interviews!
-
-Let's get started!
+Simply read on for a look into [Eriha](https://osu.ppy.sh/users/16320311)'s insight:
 
 ---
 
@@ -93,8 +89,8 @@ Let's get started!
 
 ---
 
-Huge thanks to Eriha for joining us and answering these questions! Once again, I hope you as a reader enjoyed this interview as well. <3
+Huge thanks to [Eriha](https://osu.ppy.sh/users/16320311) for joining us and answering these questions! Once again, I hope you as a reader enjoyed this interview. <3
 
-Please look forward to the next interview with osu!mania #1 player, [dressurf](https://osu.ppy.sh/users/758406), which will be posted in two weeks! I'd like to remind that you can also have a look at our [Twitter account](https://twitter.com/The_Followpoint) while waiting for a new interview. Who knows, maybe there will be some early looks into future interviews or even exclusive questions that were not included here. 👀
+The last of the four-mode interviews would be for none other than the osu!mania #1 player, [dressurf](https://osu.ppy.sh/users/758406) — see you there in two weeks! You can also follow [@The_Followpoint on Twitter](https://twitter.com/The_Followpoint) for updates and question submissions for future interviews.
 
 —MegaMix
