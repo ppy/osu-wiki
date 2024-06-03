@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Followpoint: Eriha, the Drum Decimator of osu!taiko"
+title: "The Followpoint: Eriha, Top Drum Basher"
 date: 2024-06-03 11:00:00 +0000
 ---
 
