@@ -2,7 +2,7 @@
 
 **Quy tắc ứng xử đối với modding và mapping** là những quy tắc, hướng dẫn được áp dụng cho toàn bộ cộng đồng [modding](/wiki/Modding) và [mapping](/wiki/Beatmapping), cũng như là phần mở rộng cho [Quy tắc cộng đồng osu!](/wiki/Rules) và [Tiêu chí xếp hạng chung](/wiki/Ranking_criteria). Để đảm bảo rằng các cuộc thảo luận về mapping và modding ở các chủ đề diễn ra trong môi trường mang tính xây dựng, tích cực và hiệu quả, các quy tắc ứng xử là rất quan trọng để mọi người ở cùng một chủ đề. Khi tham gia vào cộng đồng modding và mapping, bắt buộc phải tuân theo các quy tắc ứng xử này. Hành vi vi phạm các quy tắc này có thể dẫn đến [hình phạt đối với tài khoản của bạn](/wiki/Silence).
 
-## Hành vi và ứng xử cần làm.
+## Hành vi và ứng xử cần làm
 
 - Mục đích của modding là giúp người lập bản đồ cải thiện công việc giúp beatmap của họ lên trạng thái [xếp hạng](/wiki/Beatmap/Category#ranked) nếu người lập bản đồ muốn như vậy. Nếu bạn không thích việc giúp đỡ người khác, xin hãy tránh xa các cuộc thảo luận để tránh *làm tổn thương họ*.
   - Đừng né tránh những người mới tham gia lập bản đồ và người sửa đổi — họ là những người cần những kiến thức từ ​​ý kiến ​​đóng góp của bạn và mọi người! Hãy kiên nhẫn, thấu hiểu và đưa ra càng nhiều lời giải thích càng tốt để họ có thể học hỏi và tiến bộ nhanh hơn.
