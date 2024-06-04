@@ -59,6 +59,7 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 
 | Nama | Bahasa | Area fokus |
 | :-- | :-- | :-- |
+| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | Tionghoa, Melayu, Kanton, sedikit Jepang | Moderasi komunitas mapping/modding |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | Jerman | Moderasi chat |
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | Hungaria | Moderasi chat |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Rusia | Moderasi chat |
@@ -84,7 +85,6 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Moderasi komunitas mapping/modding |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Indonesia | Moderasi komunitas mapping/modding |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | Perancis, Spanyol | Moderasi chat |
-| ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Moderasi chat, moderasi komunitas mapping/modding |
 | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | Melayu, sedikit Tionghoa | Moderasi komunitas mapping/modding |
 | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | Kanton, Tionghoa, Jepang | Moderasi chat |
 | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | Rusia | Moderasi chat |
@@ -115,11 +115,13 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 | ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069) | Korea | Moderasi chat |
 | ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772) | Jepang | Moderasi chat |
 | ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | Swedia, Spanyol | Moderasi chat |
+| ::{ flag=CA }:: [Shad0wStar](https://osu.ppy.sh/users/16866460) |  | Moderasi komunitas mapping/modding |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Perancis, Spanyol | Moderasi chat |
 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | Indonesia | Moderasi chat |
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | Indonesia, sedikit Vietnam | Moderasi chat, moderasi forum |
 | ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | Jerman, Serbia | Moderasi forum |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | Tionghoa | Moderasi chat |
+| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | Korea | Moderasi komunitas mapping/modding |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | Suomi | Moderasi chat |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | Moderasi forum, moderasi chat |
 | ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | Rusia | Moderasi chat, administrasi osu!wiki |
@@ -133,6 +135,7 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 | ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) | Indonesia | Moderasi chat |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | Polski | Moderasi chat |
 | ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | Moderasi chat |
+| ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | Spanyol | Moderasi komunitas mapping/modding |
 
 ### Dikelompokan berdasarkan bahasa yang dimoderasi
 
