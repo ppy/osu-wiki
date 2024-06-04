@@ -2,7 +2,7 @@
 
 Theo [Nội quy cộng đồng #5](/wiki/Rules#community-rules), tất cả nội dung trực quan (hình ảnh,video hoặc nội dung trên hồ sơ) được gửi hoặc tải lên osu! phải được cho là phù hợp với mọi lứa tuổi.
 
-điều này bao gồm:
+Điều này bao gồm:
 
 - Các beatmap được gửi và ngay cả **được gắn thẻ là [khiêu dâm](/wiki/Rules/Explicit_content)**
 - Chi tiết hồ sơ (ví dụ: hình đại điện, ảnh bìa,v.v)
@@ -12,11 +12,11 @@ Vì lợi ích duy trì cho mọi thứ trong sạch nhất có thể , Quy tắ
 
 ## Những điều quan trọng cần cân nhắc 
 
-Tất cả hình ảnh phải được đánh giá đúng như nội dung vốn có của nó, không tính trường hợp nào trước đó, nó có phù hợp hay không tùy vào những gì bạn nhìn thấy .
+Tất cả hình ảnh phải được đánh giá đúng như nội dung vốn có của nó, không tính trường hợp khác trước đó, nó có phù hợp hay không tùy vào những gì bạn thấy.
 
 Cũng hãy hiểu rằng đây là cộng đồng toàn cầu đa dạng các văn hóa với những suy nghĩ, ý kiến và đánh giá khác nhau về chủ đề những gì được phép và không được phép.
 
-Khi không biết hình ảnh có hợp lí không thì hãy hỏi và lắng nghe các ý kiến được chia sẻ bởi phần lớn nói chung của cộng đồng .
+Khi không biết hình ảnh có hợp lí không thì hãy hỏi và lắng nghe các ý kiến được chia sẻ bởi phần lớn nói chung của cộng đồng.
 
 ## Nội dung trực quan không được phép 
 
@@ -31,7 +31,7 @@ Không được phép sử dụng hình ảnh hoặc nội dung trực quan có 
 - **Mô tả nội dung chính trị, văn hóa, tôn giáo hoặc xã hội có chủ ý kích động**
 - **Hình ảnh mô tả hành vi tự tử hoặc tự làm hại bản thân, bao gồm cả thử hoặc chuẩn bị sắp xảy ra**
 
-Ngoài ra, hình ảnh hoặc thiết kế có thể được xem không hợp lý nếu có chất lượng kém (về chất lượng hình ảnh khách quan hoặc thành phần/sáng tạo chủ quan) cũng có thể bị ngăn không cho sử dụng trong beatmap trong trường hợp chúng không liên quan trực tiếp đến bất kỳ chủ đề nào. 
+Ngoài ra, hình ảnh hoặc thiết kế có thể được xem không hợp lý nếu có chất lượng kém (về chất lượng hình ảnh khách quan hoặc tác phẩm/tạo thành chủ quan) cũng có thể bị ngăn không cho sử dụng trong beatmap trong trường hợp chúng không liên quan trực tiếp đến bất kỳ chủ đề nào. 
 
 ## Trường hợp ngoại lệ 
 
@@ -58,4 +58,4 @@ Trong một số trường hợp, [osu!team](/wiki/People/osu!_team) có quyền
 
 ## Ghi chú
 
-[^drug-nature1]: Điều này cũng có trường hợp ngoại lệ dự vào tính chất, cách sử dụng và đặc điểm của chất cấm, đặc biệt trong các trường hợp chất cấm được phi hình sự hóa và quản lý nhanh chóng trên toàn thế giới như cần sa. Bạn nên thực hiện yêu cầu ngoại lệ cụ thể cho quy định này bằng cách liên hệ với [nhóm hỗ trợ](/wiki/People/Account_support_team) theo địa chỉ [support@ppy.sh](mailto:support@ppy.sh)
+[^drug-nature1]: Điều này cũng có trường hợp ngoại lệ dự vào tính chất, cách sử dụng và đặc điểm của chất cấm, đặc biệt trong trường hợp chất cấm được phi hình sự hóa và quản lý nhanh chóng trên toàn thế giới như cần sa. Bạn nên thực hiện yêu cầu ngoại lệ cụ thể cho quy định này bằng cách liên hệ với [nhóm hỗ trợ](/wiki/People/Account_support_team) theo địa chỉ [support@ppy.sh](mailto:support@ppy.sh)
