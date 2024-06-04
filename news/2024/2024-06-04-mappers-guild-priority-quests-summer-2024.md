@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mappers' Guild - Summer 2024 Priority Quests
-date: 2024-06-04 20:00:00 +0000
+date: 2024-06-04 22:00:00 +0000
 ---
 
 The only thing better than clicking circles is *creating* circles to click. Through the **Mappers' Guild**, you can put your mapping mastery to the test with a new batch of quests!
@@ -38,7 +38,7 @@ By completing priority quests, you can earn some special rewards too:
 
 Below is an overview of each quest. If any are confusing, feel free to ask questions in the comments!
 
-### ["new" beginnings](LINK) ![bronze icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/bronze-small.png)
+### ["new" beginnings](https://mappersguild.com/missions?id=665bbbddff4c38cea1113302) ![bronze icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/bronze-small.png)
 
 Tons of mappers have Ranked maps, but a few have *never* touched Featured Artist songs.
 
@@ -46,7 +46,7 @@ It's time to undergo the Mappers' Guild initiation: rank your **first Featured A
 
 If you already have a Ranked map using a Featured Artist song (excluding GDs), this quest isn't for you. Try scrolling down.
 
-### [Back to basics](LINK) ![bronze icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/bronze-small.png)
+### [Back to basics](https://mappersguild.com/missions?id=665bbbf9ff4c38cea1113316) ![bronze icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/bronze-small.png)
 
 If you're too good at the game, is it hard to recognise what players find fun? It's time to find out.
 
@@ -55,7 +55,7 @@ This quest is limited to anyone with at least **10,000 pp** in a game mode. Your
 - ...at minimum, a spread of Easy/Normal/Hard/Insane difficulties
 - ...no difficulties above 5.0 stars
 
-### [osu! original expansion](LINK) ![bronze icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/bronze-small.png)
+### [osu! original expansion](https://mappersguild.com/missions?id=665bbc24ff4c38cea1113321) ![bronze icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/bronze-small.png)
 
 A lot of the [osu! originals](/wiki/osu!_originals) in osu!'s music library come from the World Cups. Many of those songs don't reach players beyond their initial mode, so let's change that.
 
@@ -66,22 +66,22 @@ Your goal is to rank a map of any **World Cup osu! original** in a game mode tha
 
 Use [this page](/wiki/osu!_originals#official-tournament-releases) to see which mode each song was created for!
 
-### [Monthly Beatmapping Contest returns v2](LINK) ![silver icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/silver-small.png)
+### [Monthly Beatmapping Contest returns v2](https://mappersguild.com/missions?id=665bbc41ff4c38cea1113325) ![silver icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/silver-small.png)
 
 Rank a map from any of your [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) submissions. If you've never made a map for the Monthly Beatmapping Contest, that may change soon. :)
 
-### [Multi-mode enthusiasts](LINK) ![gold icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/gold-small.png)
+### [Multi-mode enthusiasts](https://mappersguild.com/missions?id=665bbcc1ff4c38cea1113337) ![gold icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/gold-small.png)
 
 osu! has experienced a drought of multi-mode beatmaps for the last few years.
 After [this recent change to nomination logic](https://github.com/ppy/osu-web/pull/10984), multi-mode beatmaps can be Ranked with fewer nominations, so it's time to take action!
 
 Work together with **one** other mapper to rank a map with 2 game modes (in this case, different osu!mania key counts do not count as separate modes). Each of the two mappers will earns priority quest prizes.
 
-### [Classified v2](LINK) ![platinum icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/platinum-small.png)
+### [Classified v2](https://mappersguild.com/missions?id=665bbcd8ff4c38cea1113342) ![platinum icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/platinum-small.png)
 
 This quest goes back to the roots of the Mappers' Guild: **making maps for upcoming Featured Artists**.
 
-Your goal is to create and rank a map for it to be showcased in the artist's upcoming announcement! To participate in this quest, the first step is to select a song from the [quest page](LINK).
+Your goal is to create and rank a map for it to be showcased in the artist's upcoming announcement! To participate in this quest, the first step is to select a song from the [quest page](https://mappersguild.com/missions?id=665bbcd8ff4c38cea1113342).
 
 This quest requires some confidentiality, so it's only available to those who have a history of contributions to the Mappers' Guild. More specifically, this includes anyone who's rank 1 or higher in the guild.
 
