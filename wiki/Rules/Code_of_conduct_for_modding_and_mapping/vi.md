@@ -13,17 +13,17 @@
 
 ## Tạo một bài đăng mod
 
-Nếu bạn tải xuống một bản đồ và gặp một số điều khiến bạn không hài lòng — giờ là lúc bạn bày tỏ suy nghĩ của mình và giúp cải thiện bản đồ. Nhưng làm cách nào bạn có thể khiến người lập bản đồ hiểu được quan điểm của mình?, xem đề xuất của bạn và đưa ra phản hồi cho bạn? Suy cho cùng, không ai thích cảm giác thời gian của mình bị lãng phí vô ích.
+Nếu bạn tải xuống một bản đồ và gặp một số điều khiến bạn không hài lòng — giờ là lúc bạn bày tỏ suy nghĩ của mình và giúp cải thiện beatmap. Nhưng làm cách nào bạn có thể khiến người lập bản đồ hiểu được đề xuất của mình?, xem đề xuất của bạn và đưa ra phản hồi cho bạn? Suy cho cùng, không ai thích cảm giác thời gian của mình bị lãng phí một cách vô ích.
 
-- Trước khi đưa ra đề xuất sửa đổi, hãy đảm bảo rằng gợi ý của bạn là tốt và đang tập trung vào chủ đề trước mắt. Không ai thích đọc một bài đăng mod thô lỗ hoặc thờ ơ.
+- Trước khi đưa ra đề xuất thay đổi, hãy đảm bảo rằng gợi ý của bạn là tốt và đang tập trung vào chủ đề trước mắt. Không ai thích đọc một bài đăng mod thô lỗ hoặc thờ ơ.
 - Khi đưa ra đề xuất, hãy phân biệt giữa điều gì là xấu hoặc sai về mặt chủ quan/khách quan và điều gì bạn đơn giản không thích ở cấp độ cá nhân. **Mọi đề xuất đều ổn miễn là chúng được đưa ra phù hợp**.
   - **Vấn đề khách quan** - Bị cấm bởi các quy tắc và phải cần được khắc phục.
   - **vấn đề nhận thức chủ quan** - Không bị cấm bởi các bộ quy tắc, nhưng được đa số mọi người đồng ý là nó "sai". Cần được khắc phục trong hầu hết các trường hợp trừ khi có các tranh luận phản đối nhiều theo đám đông hoặc nếu người lập bản đồ giải thích thấu đáo lý do tại sao họ cảm thấy điều đó có thể chấp nhận được.
   - **vấn đề chủ quan**- Điều gì đó mà bạn tin tưởng hoặc suy nghĩ ở cấp độ cá nhân là cần thay đổi và nó có thể trở thành nhận thức chủ quan nếu nhiều người đồng ý với nó.
-- **Trừ khi ý tưởng của beatmap về cơ bản thiếu sót ngay từ đầu**, việc sửa đổi nên nhằm mục đích cải thiện bản đồ ở **thiết kế hiện tại của nó** - chứ không phải ép buộc theo ý tưởng riêng của bạn. Nếu bạn thực sự tin rằng bản đồ có quá nhiều vấn đề quan trọng cần giải quyết riêng lẻ, hãy cố gắng đưa ra thêm góp ý về lý do tại sao lại như vậy và suy nghĩ bản đồ nên theo cách nào để được sửa đổi đúng cách.
+- **Trừ khi ý tưởng của beatmap về cơ bản thiếu sót ngay từ đầu**, việc sửa đổi nên nhằm mục đích cải thiện bản đồ ở **thiết kế hiện tại của nó** - chứ không phải ép buộc theo ý tưởng riêng của bạn. Nếu bạn thực sự tin rằng bản đồ có quá nhiều vấn đề nghiêm trọng cần giải quyết riêng lẻ, hãy cố gắng đưa ra thêm góp ý về lý do tại sao lại như vậy và suy nghĩ bản đồ nên theo cách nào để được sửa đổi đúng cách.
 - Khi đã chỉ ra được "vấn đề", hãy kiểm tra kỹ xem từng vấn đề và xem xét chính xác "điều" cụ thể mà bạn không thích là gì. Sau đó, đưa ra giải pháp hoặc cải thiện và nghĩ chính xác đề xuất đó sẽ cải tiến bản đồ như nào. Nếu cần, hãy thử đưa ra nhiều đề xuất để xem đề xuất nào hiệu quả nhất — bạn càng có thể cung cấp nhiều trợ giúp cho người lập bản đồ thì càng tốt.
 
-Bản thân các đề xuất lý tưởng nhất nên bao gồm bốn phần chính, mặc dù nó dựa vào kinh nghiệm của người lập bản đồ/mối quan hệ cá nhân của bạn với họ, bạn có thể dễ khoan dung hơn:
+Các đề xuất lý tưởng nhất nên bao gồm bốn phần chính ở dưới, mặc dù nó dựa nhiều vào kinh nghiệm của người lập bản đồ/mối quan hệ cá nhân của bạn với họ, bạn có thể dễ khoan dung hơn:
 
 1. **Thông báo về vấn đề và nơi tìm thấy vấn đề** - bao gồm mốc thời gian là sự trợ giúp dễ dàng để người lập bản đồ có thể nhanh chóng tìm thấy vấn đề được đề cập.
 2. **Giải thích ngắn gọn lý do tại sao điều này gây ra vấn đề** - điều này rất cần thiết để thuyết phục người lập bản đồ xem xét kĩ hơn với đề xuất của bạn. Những người lập bản đồ dễ tiếp thu những đề xuất và thay đổi hơn nhiều khi nó đi kèm với lý luận rõ ràng, dễ hiểu và hợp lý.
@@ -32,13 +32,13 @@ Bản thân các đề xuất lý tưởng nhất nên bao gồm bốn phần ch
 
 Có nhiều cách để sửa đổi trình bày bài đăng của bạn, vì vậy, hãy thoải mái thử nghiệm, nhưng hãy cố giữ hình ảnh đơn giản và được định dạng theo cách mà người lập bản đồ và những người khác dễ dàng làm cùng.
 
-## Cách trả lời mod
+## Cách trả lời bình luận mod
 
-Nếu ai đó đăng một số đề xuất góp ý lên bản đồ của bạn, thật tuyệt! Tuy nhiên, nó không chỉ kết thúc đơn giản ở đó. Đối với bản thân, cần phải đưa ra phản hồi thích hợp vì hai lý do chính. Thứ nhất, để các mod trong tương lai có thể áp dụng các sửa đổi hợp lý và cụ thể với ý tưởng hoặc phong cách của bạn, dẫn đến ít đề xuất vô ích hơn. Thứ hai, giống như một bài đăng mod có thể giúp bạn cải thiện khả năng lập bản đồ của mình, việc cung cấp phản hồi mod chi tiết sẽ giúp người kiểm duyệt cải thiện khả năng sửa đổi của họ, nghĩa là họ có được kinh nghiệm và có thể cung cấp các mod hữu ích và chi tiết hơn trong tương lai. Bạn không bao giờ biết bạn có thể cần yêu cầu sửa đổi từ ai vào lần tới!
+Nếu ai đó vừa bình luận một số đề xuất góp ý lên bản đồ của bạn, thật tuyệt! Tuy nhiên, nó không chỉ kết thúc đơn giản ở đó. Đối với bản thân, cần phải đưa ra phản hồi thích hợp vì hai lý do chính. Thứ nhất, để các modding tương lai có thể tự điều chỉnh beatmap hơn với các sửa đổi và cụ thể với ý tưởng hoặc thiết kế của bạn, dẫn đến ít đề xuất vô ích hơn. Thứ hai, giống như một bài đăng mod có thể giúp bạn cải thiện khả năng lập bản đồ của mình, việc cung cấp phản hồi mod chi tiết sẽ giúp người kiểm duyệt cải thiện khả năng sửa đổi của họ, nghĩa là họ có được kinh nghiệm và có thể cung cấp các mod hữu ích và chi tiết hơn trong tương lai. Bạn không bao giờ biết bạn có thể cần yêu cầu sửa đổi từ ai vào lần tới!
 
-- Hãy coi tất cả các đề xuất là hợp lệ và quan trọng như nhau cho đến khi bạn đã xem và kiểm tra kỹ lưỡng chúng - ngay cả những thay đổi nhỏ về phong cách hoặc quan điểm thay thế cũng có thể giúp cải thiện chất lượng beatmap.
-- Giống như tạo một bài đăng mod, hãy đảm bảo bạn giải thích càng nhiều càng tốt. Nêu rõ những gì cần thay đổi và nêu lý do vì sao bạn không chấp nhận đề xuất, hãy giải thích hoặc thay vào đó những bạn làm.
-- Khi từ chối một lời đề nghị, giữ bình tĩnh và giải quyết êm đềm, nói những gì cần nói và giải thích lý do tại sao và **dừng lại ở đó**. Cho dù lời đề nghị đó có bất lịch sự, khó hiểu hay vô ích đến đâu thì việc tức giận và đáp lại bằng thái độ cọc cằn, mỉa mai,v.v. sẽ không giúp ích được gì cho tình hình.
+- Hãy coi tất cả các đề xuất là hợp lệ và quan trọng như nhau cho đến khi bạn đã xem và kiểm tra kỹ lưỡng chúng - những thay đổi nhỏ về thiết kế hoặc đề xuất thay thế cũng có thể giúp cải thiện chất lượng beatmap.
+- Giống như tạo một bài đăng mod, hãy đảm bảo bạn bình luận giải thích càng nhiều càng tốt. Nêu rõ những gì cần thay đổi và nêu lý do vì sao bạn không chấp nhận những điều đó, hãy giải thích rõ hoặc thay vào đó những gì cần thay đổi.
+- Khi từ chối một bình luận đề xuất, giữ bình tĩnh và giải quyết trong êm đềm, nói những gì cần nói và giải thích lý do tại sao và **dừng lại ở đó**. Cho dù bình luận đề xuất đó có bất lịch sự, khó hiểu hay vô ích đến đâu thì việc tức giận và đáp lại bằng thái độ cọc cằn, mỉa mai,v.v. sẽ không giúp ích được gì cho tình hình.
 - Các [thành viên của Beatmap Nominators](/wiki/People/Beatmap_Nominators) (BN) và [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team)(NAT) sẽ xem xét các bài đăng mod trước đó trước khi đặt bất kỳ biểu tượng và muốn bắt đầu hoặc xem lại các cuộc thảo luận trong quá trình kiểm tra của họ. Bất kỳ sự trợ giúp của bạn có thể cung cấp về lý do tại sao nên làm hoặc không nên làm điều gì đó tuy tốn rất ít công sức nhưng nó có thể giúp ích rất nhiều cho cả hai bên sau này.
 
 ## Thêm trao đổi và thảo luận 
@@ -55,6 +55,6 @@ Nếu ai đó đăng một số đề xuất góp ý lên bản đồ của bạ
 
 [Phần đủ điều kiện](/wiki/Beatmap/Category#qualified) cho phép beatmap nhận được các đề xuất cuối cùng về thay đổi hoặc cải tiến trước khi đạt đến trạng thái xếp hạng. Khi sửa một bản đồ đủ điều kiện, mọi thứ bạn cho là "không nhỏ" phải được đề cập **luôn** - tuy nhiên, có những vấn đề nhỏ cũng đáng được đề cập, đặc biệt nếu chúng ảnh hưởng đến lối chơi. Nếu một beatmap đủ điều kiện có nhiều các vấn đề nhỏ hoặc nếu có một hoặc nhiều vấn đề lớn/khiến không thể xếp hạng đáng kể, thì beatmap đó sẽ bị bỏ trạng thái xếp hạng để có thể thực hiện sửa lỗi và cải tiến trước khi xác nhận lại lần nữa.
 
-- Nếu bạn không chắc chắn về bản chất của một vấn đề tiềm ẩn trong beatmap, hãy hỏi các ý kiến ​​khác hoặc xem lại các bài đăng mod trước đó để đảm bảo "vấn đề" xảy ra không phải do người lập bản đồ cố ý thực hiện — nếu như vậy, nó có thể đã được thảo luận rồi. Nếu không có cuộc thảo luận nào trước đó, hãy mở một cuộc thảo luận như thể bạn đang sửa bản đồ một cách bình thường và đăng bản tóm tắt ngắn gọn về quan điểm của mình.
+- Nếu bạn không chắc chắn về bản chất của một vấn đề tiềm ẩn trong beatmap, hãy hỏi các ý kiến ​​khác hoặc xem lại các bài đăng mod trước đó để đảm bảo "vấn đề" xảy ra không phải do người lập bản đồ cố ý thực hiện — nếu như vậy, nó có thể đã được thảo luận rồi. Nếu không có cuộc thảo luận nào trước đó, hãy mở một cuộc thảo luận như thể bạn đang sửa beatmap một cách bình thường và đăng bản tóm tắt ngắn gọn về quan điểm của mình.
 
 **Lưu ý rằng trách nhiệm của cộng đồng là báo cáo các vấn đề về beatmap đủ tiêu chuẩn**. Không đảm bảo rằng bất kỳ thành viên BN hoặc NAT nào sẽ chủ động kiểm tra và loại bỏ beatmap mà không được nhắc làm như vậy.
