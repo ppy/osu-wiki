@@ -8,9 +8,9 @@ Indipendentemente dalla natura dell'audio, assicurati che sia conforme anche all
 
 ## Cosa conta come contenuto esplicito?
 
-Il contenuto esplicito si riferisce principalmente al **contenuto audio di una beatmap**, principalmente in tema, argomento o uso *massiccio* di linguaggio esplicito. **Non** si applica agli elementi visivi di una beatmap — questi **devono** aderire alle [Considerazioni sul contenuto visivo](/wiki/Rules/Visual_content_considerations), o a qualsiasi altro aspetto modificabile dall'utente di una beatmap (come tag o nomi di difficoltà della beatmap) che **deve** rispettare le [regole della comunity di osu!](/wiki/Rules) come di consueto.
+Il contenuto esplicito si riferisce principalmente al **contenuto audio di una beatmap**, principalmente in tema, argomento o uso *massiccio* di linguaggio esplicito. **Non** si applica agli elementi visivi di una beatmap — questi **devono** aderire alle [Considerazioni sul contenuto visivo](/wiki/Rules/Visual_content_considerations), o a qualsiasi altro aspetto modificabile dall'utente di una beatmap (come tag o nomi di difficoltà della beatmap) che **deve** rispettare le [regole della community di osu!](/wiki/Rules) come di consueto.
 
-Come regola generale, la fornitura di contenuti espliciti crea eccezioni solo per i contenuto che un utente non può ragionevolmente modificare con lgi strumenti forniti dal gioco e può anche essere revocata in base alla traccia e a discrezione del [team di supporto](/wiki/People/Account_support_team).
+Come regola generale, la fornitura di contenuti espliciti crea eccezioni solo per i contenuto che un utente non può ragionevolmente modificare con gli strumenti forniti dal gioco e può anche essere revocata in base alla traccia e a discrezione del [team di supporto](/wiki/People/Account_support_team).
 
 In generale, la maggior parte delle forme di musica sono accettabili da utilizzare nelle beatmap con pochissime eccezioni, purché siano contrassegnate in modo appropriato.
 
