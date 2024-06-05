@@ -21,7 +21,7 @@ Let's get into the mappool, the results and the highlights of last week's matche
 [**Download the pool here! (109 MB)**](https://osu.ppy.sh/beatmaps/packs/P248)
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2150173001&t=1h0m44s&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2156057435&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
 The pool for the Round of 16 is bigger than the Round of 32 with 3 Hidden and 3 Hard Rock maps, thus automatically providing a bit more variation in those mod brackets.
@@ -71,7 +71,7 @@ The last time France and China met was only two years ago, in the Quarterfinals 
 
 To start off the weekend, China quickly found a weakness on the Hidden bracket on the French side and were able to win points on both [HD1](https://osu.ppy.sh/beatmapsets/2187488#fruits/4625050) and [HD2](https://osu.ppy.sh/beatmapsets/2187441#fruits/4624959). An impressive FC from ::{ flag=CN }:: [Nene Sakura](https://osu.ppy.sh/users/6701104) on [DT3](https://osu.ppy.sh/beatmapsets/2187391#fruits/4624826) in between the Hidden map, made it so the Chinese team got a breakpoint and led the match 3–0.
 
-The French team struck back by winning three consecutive points of their own with FCs from ::{ flag=FR }:: [Electr0o](https://osu.ppy.sh/users/9484428) on [HR3](https://osu.ppy.sh/beatmapsets/2187382#fruits/4624812), ::{ flag=FR }:: [Zelepha](https://osu.ppy.sh/users/6201167) on [MM1](https://osu.ppy.sh/beatmapsets/2187434#fruits/4624950) and ::{ flag=FR }:: [Holloh](https://osu.ppy.sh/users/7612994) on [HR2](https://osu.ppy.sh/beatmapsets/2187388#fruits/4624822). The following two picks were won by each team respectively. With a 4–4 scoreline, team China opted to go for the tech-heavy [NM3](https://osu.ppy.sh/beatmapsets/2187370#fruits/4624784). However, this was a crucial mistake as team France completely overpowered the Chinese team score and got within one point of winning the match. Their final pick was [DT1](https://osu.ppy.sh/beatmapsets/2187458#fruits/4624995) and with a double full combo from Zelepha and Holloh, team France guaranteed themselves a spot in the winners' Quarterfinals.  
+The French team struck back by winning three consecutive points of their own with FCs from ::{ flag=FR }:: [Electr0o](https://osu.ppy.sh/users/9484428) on [HR3](https://osu.ppy.sh/beatmapsets/2187382#fruits/4624812), ::{ flag=FR }:: [Zelepha](https://osu.ppy.sh/users/6201167) on [MM1](https://osu.ppy.sh/beatmapsets/2187434#fruits/4624950) and ::{ flag=FR }:: [Holloh](https://osu.ppy.sh/users/7612994) on [HR2](https://osu.ppy.sh/beatmapsets/2187388#fruits/4624822). The following two picks were won by each team respectively. With a 4–4 scoreline, team China opted to go for the tech-heavy [NM3](https://osu.ppy.sh/beatmapsets/2187370#fruits/4624784). However, this was a crucial mistake as team France completely overpowered the Chinese team score and got within one point of winning the match. Their final pick was [DT1](https://osu.ppy.sh/beatmapsets/2187458#fruits/4624995) and with a double full combo from Zelepha and Holloh, team France guaranteed themselves a spot in the winners' Quarterfinals.
 
 ### ::{ flag=CA }:: Canada vs. ::{ flag=ID }:: Indonesia
 
