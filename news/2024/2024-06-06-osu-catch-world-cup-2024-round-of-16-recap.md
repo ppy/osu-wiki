@@ -22,7 +22,7 @@ The pool for the round of 16 is bigger than the round of 32 pool as there are no
 
 This week also features the very first osu!original of this CWC. technoplanet's Insomnia was mapped by [autofanboy](https://osu.ppy.sh/users/636114) in a low approach rate hidden pick in the [HD2](https://osu.ppy.sh/beatmapsets/2187441#fruits/4624959) slot this week.
 
-[![](/wiki/shared/news/2024-06-05-osu-catch-world-cup-2024-round-of-16-recap/insomnia.jpg)](https://osu.ppy.sh/beatmapsets/2187441#fruits/4624959)
+[![](/wiki/shared/news/2024-06-06-osu-catch-world-cup-2024-round-of-16-recap/insomnia.jpg)](https://osu.ppy.sh/beatmapsets/2187441#fruits/4624959)
 
 <div class="osu-md__paragraph">
     <audio controls>
