@@ -35,7 +35,7 @@ This week also features the very first osu!original of this CWC. technoplanet's 
 In case you missed any of the matches, or are just curious about general results, you can view all of it here.
 
 | Team A |  |  | Team B |
-|--:|:-:|:-:|:--|
+| --: | :-: | :-: | :-- |
 | **France** ::{ flag=FR }:: | **6** | 4 | ::{ flag=CN }:: China |
 | Malaysia ::{ flag=MY }:: | 0 | **6** | **::{ flag=DE }:: Germany** |
 | New Zealand ::{ flag=NZ }:: | 1 | **6** | **::{ flag=PH }:: Philippines** |
