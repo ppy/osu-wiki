@@ -21,7 +21,7 @@ Let's get into the mappool, the results and the highlights of last week's matche
 
 The pool for the round of 16 is bigger than the round of 32 pool as there are now 3 Hidden and 3 Hardrock maps, thus automatically providing a bit more variation in those mod brackets.
 
-This week also features the very first osu!original of this CWC. technoplanet's Insomnia was mapped by autofanboy in a low approach rate hidden pick in the [HD2](https://osu.ppy.sh/beatmapsets/2187441#fruits/4624959) slot this week.
+This week also features the very first osu!original of this CWC. technoplanet's Insomnia was mapped by [autofanboy](https://osu.ppy.sh/users/636114) in a low approach rate hidden pick in the [HD2](https://osu.ppy.sh/beatmapsets/2187441#fruits/4624959) slot this week.
 
 [![](/wiki/shared/news/2024-06-05-osu-catch-world-cup-2024-round-of-16-recap/insomnia.jpg)](https://osu.ppy.sh/beatmapsets/2187441#fruits/4624959)
 
