@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "osu!catch World Cup 2024: Round of 32 Recap"
-date: 2024-05-29 12:00:00 +0000
+title: "osu!catch World Cup 2024: Round of 16 Recap"
+date: 2024-06-06 12:00:00 +0000
 ---
 
 Welcome to the recap of the Round of 16!
