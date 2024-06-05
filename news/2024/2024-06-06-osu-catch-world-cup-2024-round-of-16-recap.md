@@ -26,7 +26,7 @@ This week also features the very first osu!original of this CWC. technoplanet's 
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="https://assets.ppy.sh/artists/356/Songs/7_7_feat._kasane_vavzed_-_Yakou.mp3">
+        <source src="https://assets.ppy.sh/artists/193/Songs/technoplanet_-_Insomnia.mp3">
     </audio>
 </div>
 
@@ -102,6 +102,8 @@ Japan and the Russian Federation are closing out the weekend and this recap with
 Starting off this match, the Russian Federation won the first map picked by Japan, [HD2](https://osu.ppy.sh/beatmapsets/2187441#fruits/4624959). Japan then proceeded to break the Russian Federation back on [HR2](https://osu.ppy.sh/beatmapsets/2187388#fruits/4624822). Both teams follow this with point wins on their own picks. As their third pick of the match, Japan opted to go for the convert [NM4](https://osu.ppy.sh/beatmapsets/2187368#osu/4624782) but they weren't prepared for the 2.8 million team score the Russian Federation produced.
 
 It was now vital for Russia to confirm this break point with a map win on their own pick, [NM1](https://osu.ppy.sh/beatmapsets/2187346#fruits/4624746). Three quarters in, [Kimitakari](https://osu.ppy.sh/users/4741164) disconnected from the stream and thus there was a lot of confusion regarding which team actually won the point. After all the dust settled, it was proven Kimitakari's score was high enough to secure Russia the point. They also won [MM1](https://osu.ppy.sh/beatmapsets/2187434#fruits/4624950) to get themselves to match point. Japan, three points down on Russia, had a spirited comeback winning both [HR1](https://osu.ppy.sh/beatmapsets/2187385#fruits/4624818) and [HR3](https://osu.ppy.sh/beatmapsets/2187382#fruits/4624812) before the Russian Federation closed out the match 6-4 on [DT3](https://osu.ppy.sh/beatmapsets/2187391#fruits/4624826). The Russian Federation now guarantee themselves a top 12 position and a place in the winner's bracket quarterfinals.
+
+---
 
 Thank you very much for tuning into this week's osu!catch World Cup recap. As always, if you are curious about the full tournament details, the [wiki page](/wiki/Tournaments/CWC/2024) has you covered, and you can *catch* the streams live over on the [osulive Twitch channel](https://www.twitch.tv/osulive)!
 
