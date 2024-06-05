@@ -86,7 +86,7 @@ The Tournament Committee maintains an [account on Twitter](https://twitter.com/o
 
 The [Community Tournament Status Tracker](https://docs.google.com/spreadsheets/d/1bV5MyrJZI0F52Bx9EcYxdfRu8qGnhWRBKdXHK9uPbO0/edit?usp=sharing) is a publicly viewable spreadsheet detailing the status of all tournaments that have requested official support. This sheet shows all tournaments dating back to June 20th, 2023 and displays their status through the official support process, including whether a badge was applied or denied.
 
-The [Official Tournament Support Updates thread](https://osu.ppy.sh/community/forums/topics/1715676j) is a pinned thread in the [Tournaments & Contests forum](https://osu.ppy.sh/community/forums/126) which contains an up-to-date list of updates to the [official tournament support wiki article](/wiki/Tournaments/Official_support) dating back to February 1st, 2023. It also links to all the aforementioned resources.
+The [Official Tournament Support Updates thread](https://osu.ppy.sh/community/forums/topics/1715676) is a pinned thread in the [Tournaments & Contests forum](https://osu.ppy.sh/community/forums/126) which contains an up-to-date list of updates to the [official tournament support wiki article](/wiki/Tournaments/Official_support) dating back to February 1st, 2023. It also links to all the aforementioned resources.
 
 ### Adding new members
 
