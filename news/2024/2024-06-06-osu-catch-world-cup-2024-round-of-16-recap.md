@@ -103,7 +103,7 @@ Team Norway, who came into this match as the clear favourites, were looking towa
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2161794497&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-Japan and the Russian Federation are closing out the weekend and this recap with one of the closest matches of the entire weekend. Japan, seed 8, are facing off their seed neighbours, seed 9 the Russian Federation. These seed neighbour matches are most likely to bring out very close matches and this one isn't the exception to the rule.
+Japan and the Russian Federation are closing out the weekend and this recap with one of the closest matches of the entire weekend. Japan, seed 8, were facing off their neighbours just one seed below, the Russian Federation. These kinds of matches are the most likely to bring out very close battles and this one was by no means an exception to the rule.
 
 Starting off this match, the Russian Federation won the first map picked by Japan, [HD2](https://osu.ppy.sh/beatmapsets/2187441#fruits/4624959). Japan then proceeded to take a break point back from the Russian Federation on [HR2](https://osu.ppy.sh/beatmapsets/2187388#fruits/4624822). Both teams follow this with point wins on their own picks. As their third pick of the match, Japan opted to go for the convert [NM4](https://osu.ppy.sh/beatmapsets/2187368#osu/4624782) but they weren't prepared for the 2.8 million team score the Russian Federation produced.
 
