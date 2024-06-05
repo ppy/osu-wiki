@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!catch World Cup 2024: Round of 16 Recap"
-date: 2024-06-06 12:00:00 +0000
+date: 2024-06-05 22:00:00 +0000
 ---
 
 It's that time of the week again. Grab yourself a fruit of your choice and join us in remembering everything that happened in the osu!catch World Cup 2024 Round of 16!
@@ -28,7 +28,7 @@ The pool for the Round of 16 is bigger than the Round of 32 with 3 Hidden and 3 
 
 This week also features the very first [osu! original](/wiki/osu!_originals) of this CWC. [technoplanet](https://osu.ppy.sh/beatmaps/artists/193)'s *Insomnia* was mapped by [autofanboy](https://osu.ppy.sh/users/636114) in the low approach rate [HD2](https://osu.ppy.sh/beatmapsets/2187441#fruits/4624959) pick for this week.
 
-[![](/wiki/shared/news/2024-06-06-osu-catch-world-cup-2024-round-of-16-recap/insomnia.jpg)](https://osu.ppy.sh/beatmapsets/2187441#fruits/4624959)
+[![](/wiki/shared/news/2024-06-05-osu-catch-world-cup-2024-round-of-16-recap/insomnia.jpg)](https://osu.ppy.sh/beatmapsets/2187441#fruits/4624959)
 
 <div class="osu-md__paragraph">
     <audio controls>
