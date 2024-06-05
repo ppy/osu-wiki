@@ -34,24 +34,24 @@ This week also features the very first osu!original of this CWC. technoplanet's 
 
 In case you missed any of the matches, or are just curious about general results, you can view all of it here.
 
-|                            Team A |  |  | Team B                                 |
+| Team A |  |  | Team B |
 |--:|:-:|:-:|:--|
-|        **France** ::{ flag=FR }:: | **6** | 4 | ::{ flag=CN }:: China                  |
-|          Malaysia ::{ flag=MY }:: | 0 | **6** | **::{ flag=DE }:: Germany**            |
-|       New Zealand ::{ flag=NZ }:: | 1 | **6** | **::{ flag=PH }:: Philippines**        |
-|      **Thailand** ::{ flag=TH }:: | **6** | 3 | ::{ flag=VN }:: Vietnam                |
-|        **Canada** ::{ flag=CA }:: | **6** | 4 | ::{ flag=ID }:: Indonesia              |
-|            Latvia ::{ flag=LV }:: | 4 | **6** | **::{ flag=NO }:: Norway**             |
-|           Iceland ::{ flag=IS }:: | 0 | **6** | **::{ flag=SE }:: Sweden**             |
-|           Estonia ::{ flag=EE }:: | 0 | **6** | **::{ flag=MX }:: Mexico**             |
-|         **Chile** ::{ flag=CL }:: | **6** | 0 | ::{ flag=BE }:: Belgium                |
-|       **Finland** ::{ flag=FI }:: | **6** | 1 | ::{ flag=AU }:: Australia              |
-|             Japan ::{ flag=JP }:: | 4 | **6** | **::{ flag=RU }:: Russian Federation** |
-|        **Poland** ::{ flag=PL }:: | **6** | 0 | ::{ flag=TW }:: Taiwan                 |
-|           Denmark ::{ flag=DK }:: | 1 | **6** | **::{ flag=ES }:: Spain**              |
-| **United States** ::{ flag=US }:: | **6** | 0 | ::{ flag=UK }:: United Kingdom         |
-|            Turkey ::{ flag=TR }:: | 3 | **6** | **::{ flag=NL }:: Netherlands**        |
-|     **Argentina** ::{ flag=AR }:: | **6** | 3 | ::{ flag=PE }:: Peru                   |
+| **France** ::{ flag=FR }:: | **6** | 4 | ::{ flag=CN }:: China |
+| Malaysia ::{ flag=MY }:: | 0 | **6** | **::{ flag=DE }:: Germany** |
+| New Zealand ::{ flag=NZ }:: | 1 | **6** | **::{ flag=PH }:: Philippines** |
+| **Thailand** ::{ flag=TH }:: | **6** | 3 | ::{ flag=VN }:: Vietnam |
+| **Canada** ::{ flag=CA }:: | **6** | 4 | ::{ flag=ID }:: Indonesia |
+| Latvia ::{ flag=LV }:: | 4 | **6** | **::{ flag=NO }:: Norway** |
+| Iceland ::{ flag=IS }:: | 0 | **6** | **::{ flag=SE }:: Sweden** |
+| Estonia ::{ flag=EE }:: | 0 | **6** | **::{ flag=MX }:: Mexico** |
+| **Chile** ::{ flag=CL }:: | **6** | 0 | ::{ flag=BE }:: Belgium |
+| **Finland** ::{ flag=FI }:: | **6** | 1 | ::{ flag=AU }:: Australia |
+| Japan ::{ flag=JP }:: | 4 | **6** | **::{ flag=RU }:: Russian Federation** |
+| **Poland** ::{ flag=PL }:: | **6** | 0 | ::{ flag=TW }:: Taiwan |
+| Denmark ::{ flag=DK }:: | 1 | **6** | **::{ flag=ES }:: Spain** |
+| **United States** ::{ flag=US }:: | **6** | 0 | ::{ flag=UK }:: United Kingdom |
+| Turkey ::{ flag=TR }:: | 3 | **6** | **::{ flag=NL }:: Netherlands** |
+| **Argentina** ::{ flag=AR }:: | **6** | 3 | ::{ flag=PE }:: Peru |
 
 ## Match highlights
 
