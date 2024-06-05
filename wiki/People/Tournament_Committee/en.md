@@ -18,7 +18,7 @@ The Tournament Committee's responsibilities include advising the [account suppor
 
 Additionally, the Tournament Committee performs the following roles independent of the account support team:
 
-- Regularly reviewing the [Official tournament support](/wiki/Tournaments/Official_support) page for revisions when necessary.
+- Regularly reviewing the [Official tournament support](/wiki/Tournaments/Official_support) page for necessary revisions.
 - Investigating reports from the [tournament reports form](https://pif.ephemeral.ink/tournament-reports).
 - Checking whether concluded tournaments requesting official support meet its criteria.
 - Advising the osu! news team on whether to grant [news post support](/wiki/Tournaments/Official_support#requesting-in-game-banner-and-news-post-support) for tournaments.
@@ -31,7 +31,7 @@ The **Contest Committee** is a subgroup directly associated with the **Tournamen
 Their responsibilities include:
 
 - Observing the general contest scene and advising the [account support team](/wiki/People/Account_support_team) on a case-by-case basis
-- Regularly reviewing the [Official beatmapping contest support](/wiki/Contests/Official_support) page for revisions when necessary
+- Regularly reviewing the [Official beatmapping contest support](/wiki/Contests/Official_support) page for necessary revisions.
 
 The panel was first announced to the public on February 28, 2024 through the [Mapping Discussion](https://osu.ppy.sh/community/forums/topics/1890429) forum.
 
