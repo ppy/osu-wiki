@@ -1118,7 +1118,7 @@ Notes:
 Notes:
 
 - This element has no size restrictions.
-- When used in [osu!mania](/wiki/Game_mode/osu!mania), this element is rotated 90 degrees anti-clockwise and is placed at the bottom right of stage.
+- When used in [osu!mania](/wiki/Game_mode/osu!mania), this element is rotated 90 degrees anti-clockwise, scaled to 0.7x size, and placed at the bottom right of stage.
 
 ---
 
@@ -1141,7 +1141,7 @@ Notes:
   - If a marker is used, positioned at (12,12).
   - Otherwise, positioned at (5,16).
 - This element has no size restrictions.
-- When used in [osu!mania](/wiki/Game_mode/osu!mania), this element is rotated 90 degrees anti-clockwise and is placed at the bottom right of stage.
+- When used in [osu!mania](/wiki/Game_mode/osu!mania), this element is rotated 90 degrees anti-clockwise, scaled to 0.7x size, and placed at the bottom right of stage.
 
 ---
 

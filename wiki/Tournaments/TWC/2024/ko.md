@@ -3,6 +3,8 @@ tags:
   - TWC
   - TWC2024
   - TWC 2024
+outdated_translation: true
+outdated_since: 5291d6b7e14c5ced8380ce7917cbad6e0709b441
 ---
 
 # osu!taiko 월드컵 2024
@@ -110,18 +112,11 @@ osu!taiko 월드컵 2024는 osu!팀과 여러명의 커뮤니티 멤버들로 �
 
 ## 매치 일정 : 그랜드 파이널
 
-### 2024년 4월 27일 토요일
-
-| Team A | Team B | 경기 시간 | 트위치 방송 |  |
-| --: | :-- | :-- | :-: | :-: |
-| 영국 ::{ flag=GB }:: | ::{ flag=US }:: 미국 | [4월 27일 토요일 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240427T180000&p1=1440&p2=136&p3=263) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-
 ### 2024년 4월 28일 일요일
 
 | Team A | Team B | 경기 시간 | 트위치 방송 |  |
 | --: | :-- | :-- | :-: | :-: |
-| 일본 ::{ flag=JP }:: | ::{ flag=US }:: 미국 | [4월 28일 일요일 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240428T030000&p1=1440&p2=248&p3=263) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 일본 ::{ flag=JP }:: | ::{ flag=GB }:: 영국 | [4월 28일 일요일 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240428T130000&p1=1440&p2=248&p3=136) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 일본 ::{ flag=JP }:: | ::{ flag=GB }:: 영국 | [4월 28일 일요일 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240428T130000&p1=1440&p2=248&p3=136) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
 
 ## 맵풀 목록
 
@@ -306,6 +301,14 @@ osu!taiko 월드컵 2024는 osu!팀과 여러명의 커뮤니티 멤버들로 �
   1. [Chroma - To the Milky Way (davidminh0111) \[Supernova\]](https://osu.ppy.sh/beatmapsets/2148483#taiko/4525822)
 
 ## 경기 결과
+
+### 그랜드 파이널
+
+2024년 4월 27일 토요일:
+
+| Team A |  |  | Team B | 경기 링크 | VOD 링크 |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **영국** ::{ flag=GB }:: | **7** | 3 | ::{ flag=US }:: 미국 | [#1](https://osu.ppy.sh/community/matches/113656670) | [#1](https://www.twitch.tv/videos/2131198127) |
 
 ### 파이널
 
@@ -643,5 +646,4 @@ osu!taiko 월드컵 2024는 osu!팀과 여러명의 커뮤니티 멤버들로 �
 
 [^qualifiers-seeding]: 주된 시드 배정 방법으로 사용합니다
 [^qualifiers-tiebreaker]: 두팀의 순위가 동일할 경우 타이브레이커로 사용합니다
-[^losers-bracket]: 패자조 경기
-[^potential-match]: 최종 상대는 패자조 경기에 따라 달라지는 잠재적인 경기입니다
+[^gf-match]: 그랜드 파이널 경기

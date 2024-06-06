@@ -1,6 +1,6 @@
 ---
 outdated_translation: true
-outdated_since: 139d6836be7b0c6c97eb93da309bb9a7e0bee9a7
+outdated_since: 2159bb7167700ebafcdab3927cb23f7002d228cf
 tags:
   - badge
   - badges
@@ -13,7 +13,7 @@ tags:
 
 [osu! 팀](/wiki/People/osu!_team)은 특정 기대치를 준수하여 추가적인 지원을 주는 프로그램을 운영합니다.
 
-이 문서는 2024년 4월 9일에 마지막으로 업데이트되었습니다. 전체적인 변경 사항을 보려면 [Tournament Support Updates 스레드](https://osu.ppy.sh/community/forums/topics/1715676)를 확인하세요. 질문 또는 설명이 필요한 경우 [osu! 디스코드 서버](https://discord.com/invite/ppy)의 #tournaments를 참조하거나 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)를 통해 [계정 지원팀](/wiki/People/Account_support_team)에게 메일을 보내주세요.
+이 문서는 2024년 4월 18일에 마지막으로 업데이트되었습니다. 전체적인 변경 사항을 보려면 [Tournament Support Updates 스레드](https://osu.ppy.sh/community/forums/topics/1715676)를 확인하세요. 질문 또는 설명이 필요한 경우 [osu! 디스코드 서버](https://discord.com/invite/ppy)의 #tournaments를 참조하거나 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)를 통해 [계정 지원팀](/wiki/People/Account_support_team)에게 메일을 보내주세요.
 
 ## 혜택
 
@@ -35,6 +35,7 @@ tags:
 - 예선 이벤트를 포함하여 토너먼트 포럼 스레드 맨 끝에는 **무조건** 보통 크기 이상의 글꼴로 명확하게 볼 수 있게 [토너먼트 신고 양식](https://pif.ephemeral.ink/tournament-reports) 링크를 게시해야 합니다.
   - `https://pif.ephemeral.ink/tournament-reports`
   - 이 신고 양식은 [토너먼트 위원회](/wiki/People/Tournament_Committee)에서 관리합니다. 플레이어, 혹은 스태프를 포함하여 누구든지 필요한 경우 해당 신고 설문을 사용하도록 권장됩니다. 토너먼트에 대한 [기대치](#기대치), [기타 진행 과정](#기타-진행-과정) 또는 [자격 사항](#자격)에 위반사항이 있다면 바로 신고해야 합니다.
+- 토너먼트에서 사용하는 모든 맵풀은 [콘텐츠 사용 권한](/wiki/Rules/Content_usage_permissions#아티스트-권한)에서 허용된 곡을 사용해야 합니다. 명시적으로 허용되지 않는 트랙을 사용할 경우 토너먼트 지원이 철회됩니다. 허용되지 않은 아티스트나 트랙에 대한 예외는 [랭킹 크리테리아](/wiki/Ranking_criteria#rules)를 참조하세요.
 - 토너먼트는 뛰어난 실력을 갖춘 플레이어들만 참여할 수 있으며, 각 게임 모드에서의 특정 등수 미만의 플레이어는 참여할 수 없습니다.
   - osu!: 100,000
   - osu!taiko: 10,000
