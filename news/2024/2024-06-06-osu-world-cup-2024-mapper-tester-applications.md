@@ -18,4 +18,6 @@ If you wish to help in the creation of many more iconic moments such as [worst h
 
 **[Click here to apply for OWC 2024 playtesting!](https://forms.gle/YpU4kiv5XUsBfke2A)**
 
+For the players wishing to compete instead, you'll be able to hear about a new project we've been cooking up very soon...
+
 —Azer
