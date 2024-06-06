@@ -119,8 +119,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
 | Australia ::{ flag=AU }:: | ::{ flag=TH }:: Thailand | [Jun 08 (Sat) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240608T080000&p1=1440&p2=57&p3=28) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Taiwan ::{ flag=TW }:: | ::{ flag=PH }:: Philippines | [Jun 08 (Sat) 09:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240608T093000&p1=1440&p2=241&p3=145) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Japan ::{ flag=JP }:: | ::{ flag=SE }:: Sweden | [Jun 08 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240608T110000&p1=1440&p2=248&p3=239) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Taiwan ::{ flag=TW }:: | ::{ flag=PH }:: Philippines | [Jun 08 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240608T120000&p1=1440&p2=241&p3=145) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | United Kingdom ::{ flag=GB }:: | ::{ flag=NL }:: Netherlands | [Jun 08 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240608T130000&p1=1440&p2=136&p3=16) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | China ::{ flag=CN }:: | ::{ flag=MX }:: Mexico | [Jun 08 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240608T140000&p1=1440&p2=33&p3=155) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
 | Poland ::{ flag=PL }:: | ::{ flag=AR }:: Argentina | [Jun 08 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240608T140000&p1=1440&p2=262&p3=51) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
