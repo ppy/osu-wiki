@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu! World Cup 2024: Mapper & Tester Applications"
-date: 2024-06-06 15:00:00 +0000
+date: 2024-06-06 18:00:00 +0000
 ---
 
 We're finally kicking the well-oiled machine into gear and starting work on the next yearly edition of the osu! World Cup — the registrations for mappers and playtesters for the osu! World Cup 2024 are now open!
