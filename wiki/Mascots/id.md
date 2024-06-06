@@ -98,4 +98,4 @@ Dirancang oleh [Lemia-Chan](https://osu.ppy.sh/users/8506749), Taikonator, atau 
 
 ![Tama](img/Tama.png "Tama")
 
-Dirancang oleh [crystalsuicine](https://osu.ppy.sh/users/9974), Tama merupakan salah satu entri termuda dalam kontes desain maskot osu!taiko dengan usia yang baru menginjak 15 tahun. Tama memiliki ketertarikan yang besar terhadap taiko. Dan badai petir. Dan terutama festival, di mana dia akan melahap takoyaki jenis apa pun yang dapat dia temukan. Tama selalu siap menghadapi segala tantangan, walaupun dia menyembunyikan masa lalu yang misterius di balik sifat mudanya.
+Dirancang oleh [crystalsuicine](https://osu.ppy.sh/users/9974), Tama merupakan salah satu entri termuda dalam kontes desain maskot osu!taiko dengan usia yang (konon katanya?) baru menginjak 15 tahun. Tama memiliki ketertarikan yang besar terhadap taiko. Dan badai petir. Dan terutama festival, di mana dia akan melahap takoyaki jenis apa pun yang dapat dia temukan. Tama selalu siap menghadapi segala tantangan, walaupun dia menyembunyikan masa lalu yang misterius di balik sifat mudanya.
