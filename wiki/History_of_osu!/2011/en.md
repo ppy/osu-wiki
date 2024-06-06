@@ -43,11 +43,11 @@ The osu! wiki was announced, allowing users to add all sorts of information abou
 [^stable-b1800]: [Forum thread by peppy (2011-03-28) "osu! Public Release b1800"](https://osu.ppy.sh/community/forums/topics/49438?n=1)
 
 [^storyboarding]: [Forum thread by LuigiHann (2011-06-04) "First Οfficial Storyboarding Contest! Deadline August 31"](https://osu.ppy.sh/community/forums/topics/54468?n=1)
-[^monthly-5]: [osu!monthly by jjrocks (2011-08-15) "osu!monthly August 2011 Edition"](https://osumonthly.com/pdf/osu!monthly-5.pdf)
+[^monthly-5]: [Magazine by jjrocks (2011-08-15) "osu!monthly August 2011 Edition"](https://osumonthly.com/pdf/osu!monthly-5.pdf)
 
 [^droid]: [Forum thread by peppy (2011-09-19) "osu!droid released!"](https://osu.ppy.sh/community/forums/topics/62561?n=1)
 
-[^monthly-6]: [osu!monthly by jjrocks (2011-10-27) "osu!monthly October 2011 Edition"](https://osumonthly.com/pdf/osu!monthly-6.pdf)
+[^monthly-6]: [Magazine by jjrocks (2011-10-27) "osu!monthly October 2011 Edition"](https://osumonthly.com/pdf/osu!monthly-6.pdf)
 
 [^wiki1]: [Forum thread by ephemeral (2011-12-05) "osu!wiki project"](https://osu.ppy.sh/community/forums/topics/68479?n=1)
 [^wiki2]: [Forum thread by peppy (2011-12-06) "osu!wiki launch"](https://osu.ppy.sh/community/forums/topics/68525?n=1)
