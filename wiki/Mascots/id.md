@@ -2,7 +2,7 @@
 
 *Lihat juga: [Maskot/Galeri](/wiki/Mascots/Gallery).*
 
-Maskot-maskot osu! berikut juga dapat dilihat pada video YouTube [Mascot Showcase](https://youtu.be/mJF2cAs_MrI).
+Video YouTube yang menampilkan rangkaian maskot osu! dapat dilihat di [Mascot Showcase](https://youtu.be/mJF2cAs_MrI).
 
 ## Resmi
 
@@ -10,7 +10,7 @@ Maskot-maskot osu! berikut juga dapat dilihat pada video YouTube [Mascot Showcas
 
 ![pippi](img/pippi.png "pippi")
 
-pippi, ditulis dengan huruf "p" kecil, merupakan maskot mode permainan osu! yang diperkenalkan pada bulan Juli 2008. pippi juga dikenal sebagai pippidon di osu!taiko dan sebagai salah satu karakter NPC pada permainan [Yandere Simulator](https://yanderesimulator.com). Konsep awal pippi dirancang oleh [Sarumaru](https://osu.ppy.sh/users/9427), dengan *sprite* pippidon yang dibuat oleh [crystalsuicune](https://osu.ppy.sh/users/9974) dan desain saat ini yang dirancang oleh [Daru](https://osu.ppy.sh/users/32480).
+pippi, ditulis dengan huruf "p" kecil, merupakan maskot mode permainan osu! yang diperkenalkan pada bulan Juli 2008. pippi juga dikenal sebagai pippidon di osu!taiko dan salah satu karakter NPC pada permainan [Yandere Simulator](https://yanderesimulator.com). Konsep awal pippi dirancang oleh [Sarumaru](https://osu.ppy.sh/users/9427), dengan *sprite* pippidon yang dibuat oleh [crystalsuicune](https://osu.ppy.sh/users/9974) dan desain saat ini yang dirancang oleh [Daru](https://osu.ppy.sh/users/32480).
 
 ### ![Ikon osu!catch](/wiki/shared/mode/catch.png) Yuzu
 
