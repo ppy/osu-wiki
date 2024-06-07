@@ -19,7 +19,7 @@ Las responsabilidades del comité de torneos incluyen asesorar al [equipo de sop
 
 Además, el comité de torneos desempeña las siguientes funciones independientemente del equipo de soporte de cuentas:
 
-- Revisar regularmente la página de [soporte oficial para los torneos](/wiki/Tournaments/Official_support) para realizar cambios cuando sea necesario.
+- Revisar regularmente la página de [soporte oficial para torneos](/wiki/Tournaments/Official_support) para realizar alguna modificación necesaria.
 - Investigar los informes del [formulario de informes de torneos](https://pif.ephemeral.ink/tournament-reports).
 - Comprobar si los torneos finalizados que hayan solicitado soporte oficial cumplen sus criterios.
 - Asesorar al equipo de noticias de osu! sobre si se debe hacer una [noticia](/wiki/Tournaments/Official_support#requesting-in-game-banner-and-news-post-support) para el torneo.
@@ -32,7 +32,7 @@ El **comité de concursos** es un subgrupo directamente asociado con el **comit�
 Sus responsabilidades incluyen:
 
 - Observar la escena general de los concursos y asesorar al [equipo de soporte de cuentas](/wiki/People/Account_support_team) caso por caso
-- Revisar regularmente la página de [soporte oficial para concursos de beatmapping](/wiki/Contests/Official_support) para realizar cambios cuando sea necesario
+- Revisar regularmente la página de [soporte oficial para concursos de beatmapping](/wiki/Contests/Official_support) para realizar alguna modificación necesaria.
 
 El panel se anunció por primera vez al público el 28 de febrero de 2024 a través del foro [Mapping Discussion](https://osu.ppy.sh/community/forums/topics/1890429).
 
