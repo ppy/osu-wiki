@@ -20,7 +20,7 @@ Las responsabilidades del comité de torneos incluyen asesorar al [equipo de sop
 Además, el comité de torneos desempeña las siguientes funciones independientemente del equipo de soporte de cuentas:
 
 - Revisar regularmente la página de [soporte oficial para torneos](/wiki/Tournaments/Official_support) para realizar alguna modificación necesaria.
-- Investigar los informes del [formulario de informes de torneos](https://pif.ephemeral.ink/tournament-reports).
+- Investigar los reportes del [formulario de reportes de torneos](https://pif.ephemeral.ink/tournament-reports).
 - Comprobar si los torneos finalizados que hayan solicitado soporte oficial cumplen sus criterios.
 - Asesorar al equipo de noticias de osu! sobre si se debe hacer una [noticia](/wiki/Tournaments/Official_support#requesting-in-game-banner-and-news-post-support) para el torneo.
 - Mantener la comunicación con la base de jugadores en general sobre los cambios en los criterios de soporte oficial y el estado de todos los torneos que hayan solicitado soporte oficial.
@@ -62,7 +62,7 @@ Una vez que un torneo ha finalizado y ha solicitado un premio en forma de insign
 
 Los miembros asignados indicarán los torneos que superen el proceso de revisión como aptos para recibir insignias. El equipo de soporte de cuentas aplicará las insignias más adelante a los perfiles de los ganadores. Si un torneo no pasa el proceso de revisión, los miembros revisores podrán informar al equipo de soporte de cuentas sobre los cambios que deben comunicarse a los organizadores del torneo. Si estos cambios no son posibles una vez finalizado el torneo, el comité de torneos realizará una votación anónima para decidir si retira el soporte oficial.
 
-Los torneos pueden ser denunciados por violación de los criterios oficiales de soporte a través del [formulario de denuncias de torneos](https://pif.ephemeral.ink/tournament-reports). Para los torneos finalizados que hayan enviado un correo electrónico de soporte, el comité de torneos tomará el siguiente curso de acción si hay informes procesables:
+Los torneos pueden ser reportados por violación de los criterios oficiales de soporte a través del [formulario de reportes](https://pif.ephemeral.ink/tournament-reports). Para los torneos finalizados que hayan enviado un correo electrónico de soporte, el comité de torneos tomará el siguiente curso de acción si hay reportes procesables:
 
 - Determinar si los problemas planteados en los reportes incumplen alguno de los criterios oficiales de soporte.
 - Si son lo suficientemente graves como para justificar la toma de medidas, se investigarán los hechos detallados en los reportes para garantizar su validez y reunir contexto adicional.
@@ -73,7 +73,7 @@ Los torneos pueden ser denunciados por violación de los criterios oficiales de 
 
 *Véase también: [Soporte oficial para torneos § Publicaciones de noticias](/wiki/Tournaments/Official_support#news-posts) y [Criterios de estilo de las noticias](/wiki/News_styling_criteria)*
 
-Cuando se reciba un correo electrónico solicitando una noticia para un torneo, se notificará al comité de torneos. Si el torneo satisface todos los criterios de elegibilidad para publicaciones de noticias y el consenso en la discusión es positivo después de 48 horas, el Comité del Torneo enviará la solicitud al equipo de publicaciones de noticias para su aprobación. Si el torneo cumple todos los criterios de elegibilidad para la publicación de la noticia y el consenso en la discusión es positivo al cabo de 48 horas, el comité de torneos reenviará la solicitud al equipo de publicación de noticias para su aprobación.
+Cuando se reciba un correo electrónico solicitando una noticia para un torneo, se notificará al comité de torneos. Si el torneo cumple todos los criterios de elegibilidad para la publicación de una noticia y el consenso en la discusión es positivo después de 48 horas, el comité de torneos reenviará la solicitud al equipo de noticias para su aprobación.
 
 ### Soporte de insignia para los tres primeros
 
@@ -81,11 +81,11 @@ Si el organizador de un torneo considera que su torneo ha alcanzado el máximo n
 
 ### Comunicación pública
 
-La comunicación pública por parte del comité de torneos se maneja a través de varios canales. Los propósitos de estos a veces se superponen, pero todos son fuentes oficiales de información que el comité de torneos mantiene actualizada.
+La comunicación pública por parte del comité de torneos se maneja a través de varios canales. Los propósitos de estos canales a veces se superponen, pero todos son fuentes oficiales de información que el comité de torneos mantiene actualizadas.
 
 El comité de torneos mantiene una [cuenta en Twitter](https://twitter.com/osu_tcomm), en la que difunde los principales cambios y actualizaciones de todo tipo. No todos los cambios se comunican aquí, pero muchos de los cambios más importantes se comunican y aclaran a través de este canal.
 
-El [rastreador del estado de los torneos de la comunidad](https://docs.google.com/spreadsheets/d/1bV5MyrJZI0F52Bx9EcYxdfRu8qGnhWRBKdXHK9uPbO0/edit?usp=sharing) es una hoja de cálculo de acceso público en la que se detalla el estado de todos los torneos que han solicitado soporte oficial. Esta hoja muestra todos los torneos que datan del 20 de junio de 2023 y muestra su estado a través del proceso de soporte oficial, incluido si se aplicó o denegó una insignia. Esta hoja muestra todos los torneos desde el 20 de junio de 2023 y muestra su estado a través del proceso de soporte oficial, incluyendo si una insignia fue aplicada o denegada.
+El [rastreador del estado de los torneos de la comunidad](https://docs.google.com/spreadsheets/d/1bV5MyrJZI0F52Bx9EcYxdfRu8qGnhWRBKdXHK9uPbO0/edit?usp=sharing) es una hoja de cálculo de acceso público en la que se detalla el estado de todos los torneos que han solicitado soporte oficial. Esta hoja muestra todos los torneos desde el 20 de junio de 2023 y muestra su estado a través del proceso de soporte oficial, incluyendo si una insignia fue aplicada o denegada.
 
 El [hilo de actualizaciones del soporte oficial para los torneos](https://osu.ppy.sh/community/forums/topics/1715676) es un hilo fijado en el [foro Tournaments & Contests](https://osu.ppy.sh/community/forums/126) que contiene una lista actualizada de los cambios realizados en el [artículo de la wiki del soporte oficial para los torneos](/wiki/Tournaments/Official_support) desde el 1 de febrero de 2023. También enlaza con todos los recursos antes mencionados.
 
@@ -105,7 +105,7 @@ El comité de torneos recurre con frecuencia a la votación anónima para tomar 
 | Tipo de la votación | Duración mínima (días) | Mínimo de aprobación |
 | :-- | --: | --: |
 | Retirar el soporte de las insignias | 3 | 50 % |
-| Restricciones de torneos | 3 | 50% |
+| Restricciones de torneos | 3 | 50 % |
 | Restricciones del personal en los torneos | 3 | 50 % |
 | Soporte de insignia para los tres primeros | 4 | 80 % |
 | Incorporación de nuevos miembros | 4 | 80 % |
