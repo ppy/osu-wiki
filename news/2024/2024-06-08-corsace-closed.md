@@ -68,7 +68,7 @@ Check them out:
     </video>
 </div>
 
-![![](https://osu.ppy.sh/beatmapsets/2176809)](/wiki/shared/news/2024-06-08-corsace-closed/Viltus.jpg)
+[![](/wiki/shared/news/2024-06-08-corsace-closed/Viltus.jpg)](https://osu.ppy.sh/beatmapsets/2176809)
 
 <audio controls>
     <source src="LINK">
@@ -76,7 +76,7 @@ Check them out:
 
 [beatmap](https://osu.ppy.sh/beatmapsets/2176809) by [Ishtiaq](https://osu.ppy.sh/users/6405262)
 
-![![](https://osu.ppy.sh/beatmapsets/2180470)](/wiki/shared/news/2024-06-08-corsace-closed/SOUND_ARCHITECT.jpg)
+[![](/wiki/shared/news/2024-06-08-corsace-closed/SOUND_ARCHITECT.jpg)](https://osu.ppy.sh/beatmapsets/2180470)
 
 <audio controls>
     <source src="LINK">
