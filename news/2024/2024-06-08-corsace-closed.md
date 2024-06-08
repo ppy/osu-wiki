@@ -50,7 +50,9 @@ If you've at all followed Corsace in the past, you may have noticed that they ha
 
 Got you interested? You can [read *Corsace Closed: The Manga* on NamiComi](https://namicomi.com/en/title/nM6E7HnY/corsace-closed-the-manga) or right below:
 
-<iframe width="95%" style="aspect-ratio: 135 / 193;" src="https://docs.google.com/gview?url=https://wala.s-ul.eu/E1Xxmhyk.pdf&embedded=true" frameborder="0" allowfullscreen></iframe>
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 135 / 193;" src="https://docs.google.com/gview?url=https://wala.s-ul.eu/E1Xxmhyk.pdf&embedded=true" frameborder="0" allowfullscreen></iframe>
+</div>
 
 [alden](https://osu.ppy.sh/users/3545323), one of the writers, had this to say about it:
 
