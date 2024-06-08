@@ -22,7 +22,7 @@ Untuk segala bentuk pelanggaran lainnya, mohon ikuti instruksi di bawah ini.
 
 ![](img/report-command.jpg "Contoh penggunaan perintah !report")
 
-Obrolan yang tidak pantas merupakan bentuk pelanggaran yang paling umum dijumpai. Untuk melaporkan hal ini, gunakan perintah [`!report`](https://osu.ppy.sh/community/forums/topics/34843) pada kanal di mana pelanggaran tersebut terjadi. Jangan takut untuk melapor: apabila pesan yang kamu tulis dimulai dengan `!report` dan diikuti oleh spasi, **pesanmu hanya akan dapat dilihat oleh para moderator** tanpa diketahui oleh para pengguna lainnya. Di samping itu, kamu juga dapat melapor melalui [menu dalam permainan](#mengirimkan-laporan-melalui-menu-dalam-permainan) sebagaimana yang dijelaskan di bawah apabila kamu masih merasa ragu.
+Obrolan yang tidak pantas merupakan bentuk pelanggaran yang paling umum dijumpai. Untuk melaporkan hal ini, gunakan perintah [`!report`](https://osu.ppy.sh/community/forums/topics/34843) pada kanal di mana pelanggaran tersebut terjadi. Jangan takut untuk melapor: apabila pesan yang kamu tulis dimulai dengan `!report` dan diikuti oleh spasi, **pesanmu hanya akan dapat dilihat oleh para moderator** tanpa diketahui oleh para pengguna lainnya. Di samping itu, kamu juga dapat melapor melalui [menu dalam permainan](#menu-dalam-permainan) sebagaimana yang dijelaskan di bawah apabila kamu masih merasa ragu.
 
 Perintah ini dapat dikirim baik dengan mau pun tanpa penjelasan lebih lanjut sebagai berikut:
 
