@@ -74,15 +74,11 @@ Check them out:
     <source src="LINK">
 </audio>
 
-[beatmap](https://osu.ppy.sh/beatmapsets/2176809) by [Ishtiaq](https://osu.ppy.sh/users/6405262)
-
 [![](/wiki/shared/news/2024-06-08-corsace-closed/SOUND_ARCHITECT.jpg)](https://osu.ppy.sh/beatmapsets/2180470)
 
 <audio controls>
     <source src="LINK">
 </audio>
-
-[beatmap](https://osu.ppy.sh/beatmapsets/2180470) by [9ami](https://osu.ppy.sh/users/1499997) and [oTwinkle](https://osu.ppy.sh/users/15095654)
 
 ---
 
