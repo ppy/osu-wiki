@@ -16,8 +16,6 @@ While there's a lot to go through, our defacto NAT Leader [pishifat](https://osu
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="THE VIDEO LINK. ADD THE VIDEO LINK." frameborder="0" allowfullscreen></iframe>
 </div>
 
-mention cycle workflow and looking for feedback
-
 These changes come after an extensive community discussion was held in the [BN Management subforum](https://osu.ppy.sh/community/forums/115). Moving on, big changes like these will be posted there as to foster a healthy discussion with everyone in the community. As the changes to come will come out in cycles, it is very important to get your feedback — your voice matters!
 
 ## Updates
@@ -41,6 +39,8 @@ As briefly spoiled before, we have created the brand-new [*BN Management* subfor
 #### Public evaluations archive
 
 A public repository with both applications and current BN evaluations can now be accessed by anyone! The repository can be found in the [BN website](https://bn.mappersguild.com/publicarchive). The goal of this change was for applicants to have a point of reference and learn from existing applications to know what to expect! Currently, only users who opt in will have their evaluations shown in the repository.
+
+![](/wiki/shared/news/2024-05-01-the-nat-gazette-june-2024/public-eval-archive.jpg)
 
 #### Ranking criteria changes
 
@@ -69,7 +69,7 @@ Cooldowns have been unified across the board. Failed applicants and BNs who get 
 
 One of the issues with the opaqueness of the process was that candidates didn't know when their verdict would be delivered, or at what stage their application was. By offering our very own BN app parcel tracking service, applicants will now be able to be updated in real time when their ~~food~~ application will be delivered.
 
-Insert image perchance.
+![](/wiki/shared/news/2024-05-01-the-nat-gazette-june-2024/evaluation-tracker.jpg)
 
 #### Reworking application feedback
 
@@ -78,6 +78,8 @@ Feedback has been simplified. In short, this change will make the feedback writi
 #### A chat for asking questions about evaluations
 
 After receiving their verdict, users can reply to their evaluators' feedback in the BN site. While the goal of this change is not to facilitate appeals as under normal circumstances the result of an application is unchangeable, applicants are encouraged to ask questions and clarification on their feedback by using this new feature.
+
+@Hivie Image here with the user PoV of messages maybe
 
 ### Within the Beatmap Nominators
 
