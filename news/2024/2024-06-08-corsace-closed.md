@@ -52,6 +52,12 @@ Got you interested? [You can read *Corsace Closed: The Manga* here!](https://nam
 
 ## osu! originals
 
+<style>
+    .osu-md--news .audio-player {
+        max-width: inherit;
+    }
+</style>
+
 Like many tournaments in recent times, Corsace Closed 2024 debuted completely bespoke music just for the event. Thanks to the compositional prowess of [Kara](https://soundcloud.com/karalineavu) and [Kyutatsuki](https://soundcloud.com/kyutatsuki), 2 new [osu! originals](/wiki/osu!_originals) are now available on [Corsace's Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/381), both with pre-timed templates for mapping.
 
 Check them out:
