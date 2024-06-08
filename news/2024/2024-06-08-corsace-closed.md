@@ -70,15 +70,19 @@ Check them out:
 
 [![](/wiki/shared/news/2024-06-08-corsace-closed/Viltus.jpg)](https://osu.ppy.sh/beatmapsets/2176809)
 
-<audio controls>
-    <source src="LINK">
-</audio>
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="LINK">
+    </audio>
+</div>
 
 [![](/wiki/shared/news/2024-06-08-corsace-closed/SOUND_ARCHITECT.jpg)](https://osu.ppy.sh/beatmapsets/2180470)
 
-<audio controls>
-    <source src="LINK">
-</audio>
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="LINK">
+    </audio>
+</div>
 
 ---
 
