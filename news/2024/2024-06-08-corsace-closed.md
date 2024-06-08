@@ -18,7 +18,11 @@ With the final showmatch of the tournament concluded, today might be the perfect
 
 Congratulations to [maliszewski](https://osu.ppy.sh/users/12408961), [worst hr player](https://osu.ppy.sh/users/14106450) and [enri](https://osu.ppy.sh/users/8640970) for clinching the top 3 spots.
 
-Due to unfortunate circumstances, the Grand Finals match could not be played as scheduled. However, spectators excited for a legendary showdown between tournament titans [worst hr player](https://osu.ppy.sh/users/14106450) and [maliszewski](https://osu.ppy.sh/users/12408961) were not let down, because a showmatch was able to happen and everyone was able to see what would've happened were they to fight for all the marbles.
+Due to unfortunate circumstances, the Grand Finals match could not be played as scheduled. However, spectators excited for a legendary showdown between tournament titans [worst hr player](https://osu.ppy.sh/users/14106450) and [maliszewski](https://osu.ppy.sh/users/12408961) were not let down, because [a showmatch](https://www.youtube.com/watch?v=UwMCXxlIs3E) was able to happen and everyone was able to see what would've happened were they to fight for all the marbles:
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/UwMCXxlIs3E" frameborder="0" allowfullscreen></iframe>
+</div>
 
 The result? A grand rerun of most songs in the mappool using cumulative points (i.e. all scores on all maps summed together) to decide the victor, which turned out to be [maliszewski](https://osu.ppy.sh/users/12408961).
 
