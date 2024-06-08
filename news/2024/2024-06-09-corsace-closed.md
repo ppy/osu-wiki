@@ -56,7 +56,7 @@ Got you interested? You can [read *Corsace Closed: The Manga* on NamiComi](https
 
 ![](/wiki/shared/news/2024-06-09-corsace-closed/4-koma.jpg)
 
-And it doesn't stop there, because the lore runs deep. You can find 4 instalments of the *Corsace Closed [4-koma](https://en.wikipedia.org/wiki/Yonkoma)* on the [@Corsace_ Twitter account](https://twitter.com/corsace_) ([1](https://twitter.com/corsace_/status/1782576118052085790), [2](https://twitter.com/corsace_/status/1785111830563590238), [3](https://twitter.com/corsace_/status/1787648543693693066), [4](https://twitter.com/corsace_/status/1790185259062980643)). This smaller-scale series captures the more minute interactions and bits between the characters, sometimes even crossing over with other tournament mascots like IRIS from [Project Prism](https://osu.ppy.sh/home/news/2024-04-19-project-prism-2024-registrations-now-open).
+And it doesn't stop there, because the lore runs deep. You can find 4 instalments of the *Corsace Closed [4-koma](https://en.wikipedia.org/wiki/Yonkoma)* on the [@corsace_ Twitter account](https://twitter.com/corsace_) ([1](https://twitter.com/corsace_/status/1782576118052085790), [2](https://twitter.com/corsace_/status/1785111830563590238), [3](https://twitter.com/corsace_/status/1787648543693693066), [4](https://twitter.com/corsace_/status/1790185259062980643)). This smaller-scale series captures the more minute interactions and bits between the characters, sometimes even crossing over with other tournament mascots like IRIS from [Project Prism](https://osu.ppy.sh/home/news/2024-04-19-project-prism-2024-registrations-now-open).
 
 ---
 
