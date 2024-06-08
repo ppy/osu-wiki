@@ -108,51 +108,16 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
 
 ## Match Schedule: Quarterfinals
 
-### Friday, 7 June 2024
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| Peru ::{ flag=PE }:: | ::{ flag=NO }:: Norway | [Jun 07 (Fri) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240607T200000&p1=1440&p2=131&p3=187) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-
-### Saturday, 8 June 2024
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| Australia ::{ flag=AU }:: | ::{ flag=TH }:: Thailand | [Jun 08 (Sat) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240608T080000&p1=1440&p2=57&p3=28) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Japan ::{ flag=JP }:: | ::{ flag=SE }:: Sweden | [Jun 08 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240608T110000&p1=1440&p2=248&p3=239) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Taiwan ::{ flag=TW }:: | ::{ flag=PH }:: Philippines | [Jun 08 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240608T120000&p1=1440&p2=241&p3=145) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=NL }:: Netherlands | [Jun 08 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240608T130000&p1=1440&p2=136&p3=16) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| China ::{ flag=CN }:: | ::{ flag=MX }:: Mexico | [Jun 08 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240608T140000&p1=1440&p2=33&p3=155) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
-| Poland ::{ flag=PL }:: | ::{ flag=AR }:: Argentina | [Jun 08 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240608T140000&p1=1440&p2=262&p3=51) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Peru ::{ flag=PE }:: | ::{ flag=PH }:: Philippines | [Jun 08 (Sat) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240608T143000&p1=1440&p2=131&p3=145) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
-| Indonesia ::{ flag=ID }:: | ::{ flag=ES }:: Spain | [Jun 08 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240608T150000&p1=1440&p2=108&p3=141) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Belgium ::{ flag=BE }:: | ::{ flag=DE }:: Germany | [Jun 08 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240608T160000&p1=1440&p2=48&p3=37) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
-| Peru ::{ flag=PE }:: | ::{ flag=TW }:: Taiwan | [Jun 08 (Sat) 16:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240608T163000&p1=1440&p2=131&p3=241) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Canada ::{ flag=CA }:: | ::{ flag=CL }:: Chile | [Jun 08 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240608T200000&p1=1440&p2=188&p3=232) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-
 ### Sunday, 9 June 2024
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Mexico ::{ flag=MX }:: | ::{ flag=AU }:: Australia | [Jun 09 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240609T030000&p1=1440&p2=155&p3=57) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Mexico ::{ flag=MX }:: | ::{ flag=TH }:: Thailand | [Jun 09 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240609T030000&p1=1440&p2=155&p3=28) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| China ::{ flag=CN }:: | ::{ flag=TH }:: Thailand | [Jun 09 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240609T100000&p1=1440&p2=33&p3=28) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| China ::{ flag=CN }:: | ::{ flag=AU }:: Australia | [Jun 09 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240609T110000&p1=1440&p2=33&p3=57) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Norway ::{ flag=NO }:: | ::{ flag=TW }:: Taiwan | [Jun 09 (Sun) 11:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240609T113000&p1=1440&p2=187&p3=241) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
-| Norway ::{ flag=NO }:: | ::{ flag=PH }:: Philippines | [Jun 09 (Sun) 11:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240609T113000&p1=1440&p2=187&p3=145) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
-| Japan ::{ flag=JP }:: | ::{ flag=NL }:: Netherlands | [Jun 09 (Sun) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240609T123000&p1=1440&p2=248&p3=16) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Germany ::{ flag=DE }:: | ::{ flag=ID }:: Indonesia | [Jun 09 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240609T130000&p1=1440&p2=37&p3=108) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
-| Germany ::{ flag=DE }:: | ::{ flag=ES }:: Spain | [Jun 09 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240609T130000&p1=1440&p2=37&p3=141) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
-| Japan ::{ flag=JP }:: | ::{ flag=GB }:: United Kingdom | [Jun 09 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240609T140000&p1=1440&p2=248&p3=136) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Sweden ::{ flag=SE }:: | ::{ flag=GB }:: United Kingdom | [Jun 09 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240609T150000&p1=1440&p2=239&p3=136) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Sweden ::{ flag=SE }:: | ::{ flag=NL }:: Netherlands | [Jun 09 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240609T150000&p1=1440&p2=239&p3=16) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Belgium ::{ flag=BE }:: | ::{ flag=ID }:: Indonesia | [Jun 09 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240609T150000&p1=1440&p2=48&p3=108) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
-| Belgium ::{ flag=BE }:: | ::{ flag=ES }:: Spain | [Jun 09 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240609T150000&p1=1440&p2=48&p3=141) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
+| China ::{ flag=CN }:: | ::{ flag=AU }:: Australia | [Jun 09 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240609T110000&p1=1440&p2=33&p3=57) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Japan ::{ flag=JP }:: | ::{ flag=GB }:: United Kingdom | [Jun 09 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240609T140000&p1=1440&p2=248&p3=136) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Belgium ::{ flag=BE }:: | ::{ flag=ID }:: Indonesia | [Jun 09 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240609T150000&p1=1440&p2=48&p3=108) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
 | United States ::{ flag=US }:: | ::{ flag=RU }:: Russian Federation | [Jun 09 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240609T160000&p1=1440&p2=263&p3=166) | [osulive_2](https://twitch.tv/osulive_2) | [^winners-bracket] |
 | Finland ::{ flag=FI }:: | ::{ flag=FR }:: France | [Jun 09 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240609T160000&p1=1440&p2=101&p3=195) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | Semifinals | mappool showcase | [Jun 09 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240609T170000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
-
-*Notice: The current stream schedule is subject to change.*
 
 ## Mappools
 
@@ -259,7 +224,31 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
 
 ## Match results
 
+### Quarterfinals
+
+Friday, 7 June 2024:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Peru** ::{ flag=PE }:: | **6** | 0 | ::{ flag=NO }:: Norway | [#1](https://osu.ppy.sh/community/matches/114198067) | [#1](https://www.twitch.tv/videos/2166190818) |
+
+Saturday, 8 June 2024:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| Australia ::{ flag=AU }:: | **0** | -1 | ::{ flag=TH }:: Thailand | *win by default* |  |
+| **Japan** ::{ flag=JP }:: | **6** | 1 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/114205909) | [#1](https://www.twitch.tv/videos/2166725536) |
+| **Taiwan** ::{ flag=TW }:: | **6** | 0 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/114206393) | [#1](https://www.twitch.tv/videos/2166781966) |
+| **United Kingdom** ::{ flag=GB }:: | **6** | 0 | ::{ flag=NL }:: Netherlands | [#1](https://osu.ppy.sh/community/matches/114207101) | [#1](https://www.twitch.tv/videos/2166783658) |
+| China ::{ flag=CN }:: | **0** | -1 | ::{ flag=MX }:: Mexico | *win by default* | [#1](https://www.twitch.tv/videos/2166802823) |
+| Poland ::{ flag=PL }:: | 5 | **6** | ::{ flag=AR }:: **Argentina** | [#1](https://osu.ppy.sh/community/matches/114207882) | [#1](https://www.twitch.tv/videos/2166864724) |
+| **Indonesia** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ES }:: Spain | [#1](https://osu.ppy.sh/community/matches/114208654) | [#1](https://www.twitch.tv/videos/2166860730) |
+| **Belgium** ::{ flag=BE }:: | **6** | 4 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/114209521) | [#1](https://www.twitch.tv/videos/2166934227) |
+| Canada ::{ flag=CA }:: | 4 | **6** | ::{ flag=CL }:: **Chile** | [#1](https://osu.ppy.sh/community/matches/114213112) | [#1](https://www.twitch.tv/videos/2167163676) |
+
 ### Round of 16
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1h5lmWueI3c9sUhxFG2d3Gj-o3b11a0kuyzbeUTj5M_M?rm=minimal).
 
 Friday, 31 May 2024:
 
@@ -519,7 +508,6 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 [^winners-bracket]: Winners bracket match
 [^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
 [^mappool-showcase]: Mappool showcase — schedule subject to rescheduling without prior notice, depending on preceding matches
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same MAX% sum
