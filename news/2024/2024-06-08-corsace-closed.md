@@ -18,21 +18,11 @@ With the final showmatch of the tournament concluded, today might be the perfect
 
 Congratulations to [maliszewski](https://osu.ppy.sh/users/12408961), [worst hr player](https://osu.ppy.sh/users/14106450) and [enri](https://osu.ppy.sh/users/8640970) for clinching the top 3 spots.
 
-Due to unfortunate circumstances, the Grand Finals match could not be played as scheduled. However, spectators excited for a legendary showdown between tournament titans [worst hr player](https://osu.ppy.sh/users/14106450) and [maliszewski](https://osu.ppy.sh/users/12408961) were not let down, because a showmatch was able to happen and everyone was able to see what would've happened were they to fight for all the marbles:
-
-<div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="showcase match vod" frameborder="0" allowfullscreen></iframe>
-</div>
+Due to unfortunate circumstances, the Grand Finals match could not be played as scheduled. However, spectators excited for a legendary showdown between tournament titans [worst hr player](https://osu.ppy.sh/users/14106450) and [maliszewski](https://osu.ppy.sh/users/12408961) were not let down, because a showmatch was able to happen and everyone was able to see what would've happened were they to fight for all the marbles.
 
 The result? A grand rerun of most songs in the mappool using cumulative points (i.e. all scores on all maps summed together) to decide the victor, which turned out to be [maliszewski](https://osu.ppy.sh/users/12408961).
 
-The Corsace Closed experience wasn't only comprised by the ending. In case you missed the streams, the [Corsace YouTube channel](https://www.youtube.com/@Corsace) has compiled a [playlist of ~15 min highlights from each stage](https://www.youtube.com/playlist?list=PLEl1E3ToUuS2brmDLF0EWE2hCrsmg-mHn):
-
-<div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/videoseries?list=PLEl1E3ToUuS2brmDLF0EWE2hCrsmg-mHn" frameborder="0" allowfullscreen></iframe>
-</div>
-
-And naturally, all VODs can be found on the channel as well.
+That said, the Corsace Closed experience wasn't only comprised by the ending. In case you missed the streams, the [Corsace YouTube channel](https://www.youtube.com/@Corsace) has compiled a [playlist of ~15 min highlights from each stage](https://www.youtube.com/playlist?list=PLEl1E3ToUuS2brmDLF0EWE2hCrsmg-mHn). All the VODs can be found on the channel as well.
 
 ## Corsace Closed: The Manga
 
@@ -61,12 +51,6 @@ Got you interested? [You can read *Corsace Closed: The Manga* here!](https://nam
 Like many tournaments in recent times, Corsace Closed 2024 debuted completely bespoke music just for the event. Thanks to the compositional prowess of [Kara](https://soundcloud.com/karalineavu) and [Kyutatsuki](https://soundcloud.com/kyutatsuki), 2 new [osu! originals](/wiki/osu!_originals) are now available on [Corsace's Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/381), both with pre-timed templates for mapping.
 
 Check them out (the images and audio previews are clickable):
-
-<div align="center" class="osu-md__paragraph">
-    <video width="95%" controls>
-        <source src="video link" type="video/mp4" preload="none">
-    </video>
-</div>
 
 [![](/wiki/shared/news/2024-06-08-corsace-closed/Viltus.jpg)](https://osu.ppy.sh/beatmapsets/2176809)
 
