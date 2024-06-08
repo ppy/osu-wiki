@@ -54,15 +54,25 @@ Got you interested? You can [read *Corsace Closed: The Manga* on NamiComi](https
     <iframe width="95%" style="aspect-ratio: 135 / 193;" src="https://docs.google.com/gview?url=https://wala.s-ul.eu/XSX35ftB.pdf&embedded=true" frameborder="0" allowfullscreen></iframe>
 </div>
 
-[alden](https://osu.ppy.sh/users/3545323), one of the writers, had this to say about it:
+![](/wiki/shared/news/2024-06-08-corsace-closed/4-koma.jpg)
+
+And it doesn't stop there, because the lore runs deep. You can find 4 instalments of the *Corsace Closed [4-koma](https://en.wikipedia.org/wiki/Yonkoma)* on the [@Corsace_ Twitter account](https://twitter.com/corsace_) ([1](https://twitter.com/corsace_/status/1782576118052085790), [2](https://twitter.com/corsace_/status/1785111830563590238), [3](https://twitter.com/corsace_/status/1787648543693693066), [4](https://twitter.com/corsace_/status/1790185259062980643)). This smaller-scale series captures the more minute interactions and bits between the characters, sometimes even crossing over with other tournament mascots like IRIS from [Project Prism](https://osu.ppy.sh/home/news/2024-04-19-project-prism-2024-registrations-now-open).
+
+---
+
+[alden](https://osu.ppy.sh/users/3545323), one of the writers, had this to say:
 
 > The secretary was originally an inside joke between me and [koitsumii](https://osu.ppy.sh/users/6271053) who is her designer. Although we were happy it got the attention that it did, koitsumii didn't want the secretary to be a mascot moving forward.
 > 
 > Respecting her decision, I teamed up with [Nemurin](https://osu.ppy.sh/users/5883039) to create Chloe in an effort to officially create a closed mascot for 2024. Chloe was designed and teased as early as [2023's GF nm1](https://osu.ppy.sh/beatmapsets/1988571#osu/4131039) where she could be seen in the background! We knew no matter what we did, moving on from the secretary was going to be hard. We wanted to capture this feeling of inevitable change and moving on in the manga. As such, we centered the one-shot around the theme of change.
 
-![](/wiki/shared/news/2024-06-08-corsace-closed/4-koma.jpg)
-
-And it doesn't stop there, because the lore runs deep. You can find 4 instalments of the *Corsace Closed [4-koma](https://en.wikipedia.org/wiki/Yonkoma)* on the [@Corsace_ Twitter account](https://twitter.com/corsace_) ([1](https://twitter.com/corsace_/status/1782576118052085790), [2](https://twitter.com/corsace_/status/1785111830563590238), [3](https://twitter.com/corsace_/status/1787648543693693066), [4](https://twitter.com/corsace_/status/1790185259062980643)). This smaller-scale series captures the more minute interactions and bits between the characters, sometimes even crossing over with other tournament mascots like IRIS from [Project Prism](https://osu.ppy.sh/home/news/2024-04-19-project-prism-2024-registrations-now-open).
+> The secretary was originally an inside joke between [koitsumii](https://osu.ppy.sh/users/6271053) who is her designer, and I. Although we were happy it got the attention that it did, koitsumii didn't want the secretary to be a mascot moving forward.
+> 
+> Respecting her decision, I teamed up with [Nemurin](https://osu.ppy.sh/users/5883039) to create a new mascot which you all eventually came to know as Chloe (Chloe was designed and teased as early as [2023's GF NM1](https://osu.ppy.sh/beatmapsets/1988571#osu/4131039) where she could be seen in the background! We knew no matter what we did, moving on from the secretary was going to be hard. We wanted to capture these feelings of moving on in the story. As such, we centered the one-shot around the theme of change.
+> 
+> The oneshot itself was a happy accident as I had randomly caught wind of Honbae and Fulserish interested in making a oneshot revolving around the secretary in February. After reaching out and an initial planning phase, the entire month of March was spent scriptwriting, storyboarding, drawing and revising. It was miracle we got it all done within a month and I'm so proud of the team.
+> 
+> I don't want to spoil too much but we already have projects planned revolving Chloe for next year so please look forward to it!
 
 Thank you to [alden](https://osu.ppy.sh/users/3545323), [Fulserish](https://osu.ppy.sh/users/14252162), [Honbae](https://osu.ppy.sh/users/9474976), [Liyah](https://osu.ppy.sh/users/14290191), [Mio](https://osu.ppy.sh/users/28142111), [Nemurin](https://osu.ppy.sh/users/5883039) and [Piggy](https://osu.ppy.sh/users/14257673) for bringing these characters to life!
 
@@ -76,7 +86,7 @@ Thank you to [alden](https://osu.ppy.sh/users/3545323), [Fulserish](https://osu.
     }
 </style>
 
-Like many tournaments in recent years, Corsace Closed 2024 debuted completely bespoke music just for the event. Thanks to the compositional prowess of [Kara](https://soundcloud.com/karalineavu) and [Kyutatsuki](https://soundcloud.com/kyutatsuki) and illustratory finesse of [syne (@dove_xiii)](https://twitter.com/dove_xiii) and [ne_pura (@nepperoni)](https://twitter.com/nepperoni), 2 new [osu! originals](/wiki/osu!_originals) are now available on [Corsace's Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/381), both with pre-timed templates for mapping.
+Like many tournaments in recent years, Corsace Closed 2024 debuted completely bespoke music just for the event. Thanks to the compositional prowess of [Kara](https://soundcloud.com/karalineavu) and [Kyutatsuki](https://soundcloud.com/kyutatsuki) and illustratory finesse of [syne (@dove_xiii)](https://twitter.com/dove_xiii) and [tehfire](https://osu.ppy.sh/users/7082924), 2 new [osu! originals](/wiki/osu!_originals) are now available on [Corsace's Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/381), both with pre-timed templates for mapping.
 
 Check them out (the images and audio previews are clickable):
 
