@@ -30,6 +30,12 @@ That said, the Corsace Closed experience wasn't only comprised by the ending. In
 
 ## Corsace Closed: The Manga
 
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="https://wala.s-ul.eu/s1ZsahHl" type="video/mp4" preload="none">
+    </video>
+</div>
+
 > an unexpectedly poignant glimpse into projects picking themselves up and carrying on as people fade in/fade out
 
 –Ephemeral
@@ -38,11 +44,27 @@ That said, the Corsace Closed experience wasn't only comprised by the ending. In
 
 –Derpthefish
 
-It's a rare sight to see the community push osu! into new media. While the [last community osu! manga project](https://osu.ppy.sh/home/news/2023-11-20-the-first-osu-manga-osu-combat-championship) is yet ongoing, this time we get to see a complete train-themed story thanks to CONTRIBUTORS.
+It's a rare sight to see the community push osu! into new media. While the [last community osu! manga project](https://osu.ppy.sh/home/news/2023-11-20-the-first-osu-manga-osu-combat-championship) is yet ongoing, this time we get to see a complete Corsace/train-themed story.
 
-If you've at all followed Corsace in the past, you may have noticed that they have a mascot, affectionally called *secretary-chan* by fans. This is a story about her and the legacy she's leaving for *Chloe*, the new poster girl of Corsace.
+If you've at all followed Corsace in the past, you may have noticed that they have a [mascot, affectionally called *secretary-chan* by fans](https://twitter.com/corsace_/status/1646343143930068994). This is a story about her and the legacy she's leaving for *Chloe*, the new poster girl of Corsace.
 
-Got you interested? [You can read *Corsace Closed: The Manga* here!](https://namicomi.com/en/title/nM6E7HnY/corsace-closed-the-manga)
+Got you interested? You can [read *Corsace Closed: The Manga* on NamiComi](https://namicomi.com/en/title/nM6E7HnY/corsace-closed-the-manga) or right below:
+
+<iframe width="95%" style="aspect-ratio: 135 / 193;" src="https://namicomi.com/en/chapter/gZ9mSHQa" frameborder="0" allowfullscreen></iframe>
+
+[alden](https://osu.ppy.sh/users/3545323), one of the writers, had this to say about it:
+
+> The secretary was originally an inside joke between me and [koitsumii](https://osu.ppy.sh/users/6271053) who is her designer. Although we were happy it got the attention that it did, koitsumii didn't want the secretary to be a mascot moving forward.
+> 
+> Respecting her decision, I teamed up with [Nemurin](https://osu.ppy.sh/users/5883039) to create Chloe in an effort to officially create a closed mascot for 2024. Chloe was designed and teased as early as [2023's GF nm1](https://osu.ppy.sh/beatmapsets/1988571#osu/4131039) where she could be seen in the background! We knew no matter what we did, moving on from the secretary was going to be hard. We wanted to capture this feeling of inevitable change and moving on in the manga. As such, we centered the one-shot around the theme of change.
+
+![](/wiki/shared/news/2024-06-08-corsace-closed/4-koma.jpg)
+
+And it doesn't stop there, because the lore runs deep. You can find 4 instalments of the *Corsace Closed [4-koma](https://en.wikipedia.org/wiki/Yonkoma)* on the [@Corsace_ Twitter account](https://twitter.com/corsace_) ([1](https://twitter.com/corsace_/status/1782576118052085790), [2](https://twitter.com/corsace_/status/1785111830563590238), [3](https://twitter.com/corsace_/status/1787648543693693066), [4](https://twitter.com/corsace_/status/1790185259062980643)). This smaller-scale series captures the more minute interactions and bits between the characters, sometimes even crossing over with other tournament mascots like IRIS from [Project Prism](https://osu.ppy.sh/home/news/2024-04-19-project-prism-2024-registrations-now-open).
+
+Thank you to [alden](https://osu.ppy.sh/users/3545323), [Fulserish](https://osu.ppy.sh/users/14252162), [Honbae](https://osu.ppy.sh/users/9474976), [Liyah](https://osu.ppy.sh/users/14290191), [Mio](https://osu.ppy.sh/users/28142111), [Nemurin](https://osu.ppy.sh/users/5883039) and [Piggy](https://osu.ppy.sh/users/14257673) for bringing these characters to life!
+
+![Concept art for Chloe](/wiki/shared/news/2024-06-08-corsace-closed/chloe-concept.jpg)
 
 ## osu! originals
 
@@ -52,7 +74,7 @@ Got you interested? [You can read *Corsace Closed: The Manga* here!](https://nam
     }
 </style>
 
-Like many tournaments in recent times, Corsace Closed 2024 debuted completely bespoke music just for the event. Thanks to the compositional prowess of [Kara](https://soundcloud.com/karalineavu) and [Kyutatsuki](https://soundcloud.com/kyutatsuki), 2 new [osu! originals](/wiki/osu!_originals) are now available on [Corsace's Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/381), both with pre-timed templates for mapping.
+Like many tournaments in recent years, Corsace Closed 2024 debuted completely bespoke music just for the event. Thanks to the compositional prowess of [Kara](https://soundcloud.com/karalineavu) and [Kyutatsuki](https://soundcloud.com/kyutatsuki), 2 new [osu! originals](/wiki/osu!_originals) are now available on [Corsace's Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/381), both with pre-timed templates for mapping.
 
 Check them out (the images and audio previews are clickable):
 
@@ -64,7 +86,7 @@ Check them out (the images and audio previews are clickable):
     </audio>
 </div>
 
-[![](/wiki/shared/news/2024-06-08-corsace-closed/SOUND_ARCHITECT.jpg)](https://osu.ppy.sh/beatmapsets/2180470)
+[![](/wiki/shared/news/2024-06-08-corsace-closed/SOUND-ARCHITECT.jpg)](https://osu.ppy.sh/beatmapsets/2180470)
 
 <div class="osu-md__paragraph">
     <audio controls>
