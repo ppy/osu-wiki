@@ -50,7 +50,7 @@ If you've at all followed Corsace in the past, you may have noticed that they ha
 
 Got you interested? You can [read *Corsace Closed: The Manga* on NamiComi](https://namicomi.com/en/title/nM6E7HnY/corsace-closed-the-manga) or right below:
 
-<iframe width="95%" style="aspect-ratio: 135 / 193;" src="https://namicomi.com/en/chapter/gZ9mSHQa" frameborder="0" allowfullscreen></iframe>
+<iframe width="95%" style="aspect-ratio: 135 / 193;" src="https://docs.google.com/gview?url=https://wala.s-ul.eu/E1Xxmhyk.pdf&embedded=true" frameborder="0" allowfullscreen></iframe>
 
 [alden](https://osu.ppy.sh/users/3545323), one of the writers, had this to say about it:
 
@@ -74,7 +74,7 @@ Thank you to [alden](https://osu.ppy.sh/users/3545323), [Fulserish](https://osu.
     }
 </style>
 
-Like many tournaments in recent years, Corsace Closed 2024 debuted completely bespoke music just for the event. Thanks to the compositional prowess of [Kara](https://soundcloud.com/karalineavu) and [Kyutatsuki](https://soundcloud.com/kyutatsuki), 2 new [osu! originals](/wiki/osu!_originals) are now available on [Corsace's Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/381), both with pre-timed templates for mapping.
+Like many tournaments in recent years, Corsace Closed 2024 debuted completely bespoke music just for the event. Thanks to the compositional prowess of [Kara](https://soundcloud.com/karalineavu) and [Kyutatsuki](https://soundcloud.com/kyutatsuki) and illustratory finesse of [syne (@dove_xiii)](https://twitter.com/dove_xiii) and [ne_pura (@nepperoni)](https://twitter.com/nepperoni), 2 new [osu! originals](/wiki/osu!_originals) are now available on [Corsace's Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/381), both with pre-timed templates for mapping.
 
 Check them out (the images and audio previews are clickable):
 
