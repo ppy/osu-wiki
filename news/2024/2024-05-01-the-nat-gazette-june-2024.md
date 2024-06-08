@@ -18,11 +18,11 @@ While there's a lot to go through, our defacto NAT Leader [pishifat](https://osu
 
 mention cycle workflow and looking for feedback
 
-These changes come after an extensive community discussion was held in the [BN Management subforum](https://osu.ppy.sh/community/forums/115). Moving on, big changes like these will be posted there as to foster a healthy discussion with everyone in the community. As the changes to come will come out in cycles, it is very important to get your feedback — Your voice matters!
+These changes come after an extensive community discussion was held in the [BN Management subforum](https://osu.ppy.sh/community/forums/115). Moving on, big changes like these will be posted there as to foster a healthy discussion with everyone in the community. As the changes to come will come out in cycles, it is very important to get your feedback — your voice matters!
 
 ## Updates
 
-This time around we bring quite a sackful of changes. From additions in the Ranking Criteria, to sweeping changes in the way both new applicants and current BNs will be evaluated. There's a little of something for everyone.
+This time around we bring quite a sackful of changes. From additions in the ranking criteria, to sweeping changes in the way both new applicants and current BNs will be evaluated, there's a little of something for everyone.
 
 ### Evaluations moving forward
 
@@ -32,11 +32,11 @@ This change in perspective means that Beatmap Nominators **will not** be punishe
 
 While we may experiment with more changes depending on how things turn out, the direction of letting the community set their own standards will not change.
 
-### Communitywide changes
+### Community-wide changes
 
 #### Beatmap Management subforum
 
-As briefly spoiled before, we have created the brand new [BN Management subforum](https://osu.ppy.sh/community/forums/115). This subforum aims to be a place for any Beatmap Nominator to start a discussion regarding the usergroup, Ranked section, or any of the systems involved with it. This not only aims to empower BNs by giving them an outlet to express their ideas, but also for the playerbase to interact and discuss in any open post and provide feedback to the proposals.
+As briefly spoiled before, we have created the brand-new [*BN Management* subforum](https://osu.ppy.sh/community/forums/115). This subforum aims to be a place for any Beatmap Nominator to start a discussion regarding the user group, Ranked section, or any of the systems involved with it. This not only aims to empower BNs by giving them an outlet to express their ideas, but also for the playerbase to interact and discuss in any open post and provide feedback to the proposals.
 
 #### Public evaluations archive
 
@@ -51,7 +51,7 @@ A public repository with both applications and current BN evaluations can now be
 
 ### Beatmap Nominator applications
 
-The new changes aim to simplify and lower the bar of entry, while trimming the fat that it has been accumulating since the inception of the application system. For those who were daunted or lost before, we encourage [applying today](https://bn.mappersguild.com/bnapps) to experience the changes yourselves!
+The new changes aim to simplify and lower the bar of entry, while trimming any unnecessary processes that have accumulated since the inception of the application system. For those who were daunted or lost before, we encourage [applying today](https://bn.mappersguild.com/bnapps) to experience the changes yourselves!
 
 #### A fresh application workflow
 
@@ -59,23 +59,23 @@ The application process has been streamlined, easing users into the application 
 
 #### Removal of the ranking criteria test
 
-Yep, you heard it here first. Or probably not. But the RC test is gone, dusted. Vanished, not to come again in the foreseeable future. The test in its current form didn't offer a lot. Besides being a filter and an English comprehension test, it was redundant as applicants would better show their understanding of the Ranking Criteria through their mods. 
+Yep, you heard it here first. Or probably not. But the RC test is gone, dusted. Vanished, not to come again in the foreseeable future. The test in its current form didn't offer a lot. Besides being a filter and an English comprehension test, it was redundant as applicants would better show their understanding of the ranking criteria through their mods. 
 
 #### Streamlining cooldowns
 
-Cooldowns have been homogenized across the board. Failed applicants and BNs who get kicked for low activity will always have to wait 60 days before reapplying again under normal circumstances. This does not apply to Beatmap Nominators who leave on good terms and want to rejoin within a year after their departure who will be able to rejoin instantly.
+Cooldowns have been unified across the board. Failed applicants and BNs who get kicked for low activity will always have to wait 60 days before reapplying again under normal circumstances. This does not apply to Beatmap Nominators who leave on good terms and want to rejoin within a year after their departure, in which case they will be able to rejoin instantly.
 
 #### Progress bar for applications
 
-One of the issues with the opaqueness of the process was that candidates didn't know when their verdict would be delivered, or at what stage their application was. By offering our very own BN app parcel tracking service, applicants will now be able to be updated in real time when their food — I mean, their application — be delivered.
+One of the issues with the opaqueness of the process was that candidates didn't know when their verdict would be delivered, or at what stage their application was. By offering our very own BN app parcel tracking service, applicants will now be able to be updated in real time when their ~~food~~ application will be delivered.
 
 Insert image perchance.
 
 #### Reworking application feedback
 
-Feedback has been simplified. In short, this change will make the feedback writing process which was deemed redundant be less time-consuming. This will quicken the time for the results of an application to be delivered. The evaluators' comments will instead serve as more in depth feedback.
+Feedback has been simplified. In short, this change will make the feedback writing process which was deemed redundant be less time-consuming. This will quicken the time for the results of an application to be delivered. The evaluators' comments will instead serve as more in-depth feedback.
 
-#### Communication platform post-applications (need a better title) (I couldn't come up with one either)
+#### A chat for asking questions about evaluations
 
 After receiving their verdict, users can reply to their evaluators' feedback in the BN site. While the goal of this change is not to facilitate appeals as under normal circumstances the result of an application is unchangeable, applicants are encouraged to ask questions and clarification on their feedback by using this new feature.
 
@@ -83,29 +83,29 @@ After receiving their verdict, users can reply to their evaluators' feedback in 
 
 #### Probation is no longer a demotion option
 
-The Probation Beatmap Nominators user group has been reworked slightly. It will now serve its original goal, which is as a trial ground for green beards! When a new Beatmap Nominator is allowed into the team, they will be put in probation for their first couple months. After evaluating their performance with actual BN work, they will either be promoted or removed. Full Beatmap Nominators cannot under any circumstance be demoted back into probation.
+The Probationary Beatmap Nominators user group has been reworked slightly. It will now serve its original goal, which is as a trial ground for greenhorns! When a new Beatmap Nominator is allowed into the team, they will be put in probation for their first couple months. After evaluating their performance with actual BN work, they will either be promoted or removed. Full Beatmap Nominators cannot under any circumstance be demoted back into probation.
 
 #### Mock evaluations are no more
 
-Beatmap Nominators will not be able to make mock evaluations anymore. The system besides being underused, was usually superseded by the introduction of BN Evaluator cycles.
+Beatmap Nominators will not be able to make mock evaluations anymore.  Besides being underused, the system was usually superseded by the introduction of BN Evaluator cycles.
 
 #### Vetoes
 
-Vetoes have slightly been reworked. Once a Veto is made, the entire usergroup of the gamemode which it concerns will be drafted. While participation is not obligatory, this change aims to provide a better representation of what the BN group of a gamemode thinks of a Veto, in turn making the results feel less RNG depending on who got randomly chosen.
+Vetoes have been slightly reworked. Once a veto is made, the entire user group of the game mode which it concerns will be drafted instead of a random jury. While participation is not obligatory, this change aims to provide a better representation of what the BN group of a game mode thinks of a veto, in turn making the results feel less like RNG.
 
-#### Hybrid beatmapsets nomination changes
+#### Hybrid beatmapset nomination changes
 
 Beatmapsets comprised of two or more rulesets should have an easier time getting Ranked! While the old system required two proficient BNs for each unique ruleset in the beatmapset, with the new changes only the main gamemode of a set will need two Beatmap Nominators. The rest of rulesets will only require one nomination from its respective mode. 
 
-The a ruleset will be considered the main one if has the most difficulties, or if it has the most difficulties mapped by the host in the case of a tie. If both conditions apply, any ruleset that satisfies those conditions in the sets may be considered the main one and will need two nominations, giving the mapper and BNs some extra flexibility.
+The main game mode of a beatmap is the one with the most difficulties, or the one with the most difficulties mapped by the host in the case of a tie. If it's still a tie between multiple modes, any one of them may be considered the main one and will need two nominations, giving the mapper and BNs some extra flexibility.
 
 ### Within the Nomination Assessment Team
 
 #### NAT additions
 
-With the removal of mock evaluations, the NAT addition process will fully rely on BN Evaluator cycles. Beatmap Nominators can sign up for these cycles, and their peers will vouch for the people they'd like to see assigned. The NAT will pick from this curated list, taking into consideration the opinions of the BNs who vouched their peers.
+With the removal of mock evaluations, the NAT addition process will fully rely on BN Evaluator cycles. Beatmap Nominators can sign up for these cycles, and their peers will vouch for the people they'd like to see assigned. The NAT will pick from this curated list, taking into consideration the opinions of the BNs who vouched for their peers.
 
-It's worth noting that the current implementation is prone to change depending on community feedback. The plan is to test this new implementation to see what works and what doesn't. So stay tuned for more changes to come!
+It's worth noting that the current implementation is prone to change depending on community feedback. The plan is to test this new implementation to see what works and what doesn't, so stay tuned for more changes to come!
 
 ## Things to look out for
 
@@ -143,6 +143,6 @@ some fluff text, showcase badge redesign
 
 ---
 
-This is all for today! To stay tuned with discussions to come, we encourage any and all users to keep an eye in the [Beatmap Management subforum](https://osu.ppy.sh/community/forums/115) where future changes will be discussed. Getting to know the community's opinion is crucial, and giving power to the user base should be our priority moving forward.
+This is all for today! To stay tuned with discussions to come, we encourage everyone to keep an eye in the [Beatmap Management subforum](https://osu.ppy.sh/community/forums/115). Getting to know the community's opinion is crucial, and giving power to the user base should be our priority moving forward.
 
-—Nomination Assessment Team
+—the Nomination Assessment Team
