@@ -65,7 +65,7 @@ And it doesn't stop there, because the lore runs deep. You can find 4 instalment
 > The secretary was originally an inside joke between me and [koitsumii](https://osu.ppy.sh/users/6271053) who is her designer. Although we were happy it got the attention that it did, koitsumii didn't want the secretary to be a mascot moving forward.
 > 
 > Respecting her decision, I teamed up with [Nemurin](https://osu.ppy.sh/users/5883039) to create Chloe in an effort to officially create a closed mascot for 2024. Chloe was designed and teased as early as [2023's GF nm1](https://osu.ppy.sh/beatmapsets/1988571#osu/4131039) where she could be seen in the background! We knew no matter what we did, moving on from the secretary was going to be hard. We wanted to capture this feeling of inevitable change and moving on in the manga. As such, we centered the one-shot around the theme of change.
-
+> 
 > The secretary was originally an inside joke between [koitsumii](https://osu.ppy.sh/users/6271053) who is her designer, and I. Although we were happy it got the attention that it did, koitsumii didn't want the secretary to be a mascot moving forward.
 > 
 > Respecting her decision, I teamed up with [Nemurin](https://osu.ppy.sh/users/5883039) to create a new mascot which you all eventually came to know as Chloe (Chloe was designed and teased as early as [2023's GF NM1](https://osu.ppy.sh/beatmapsets/1988571#osu/4131039) where she could be seen in the background! We knew no matter what we did, moving on from the secretary was going to be hard. We wanted to capture these feelings of moving on in the story. As such, we centered the one-shot around the theme of change.
