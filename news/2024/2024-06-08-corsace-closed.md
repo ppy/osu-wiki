@@ -32,7 +32,7 @@ That said, the Corsace Closed experience wasn't only comprised by the ending. In
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="https://wala.s-ul.eu/s1ZsahHl" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/corsace-closed-chloe-splash.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -51,7 +51,7 @@ If you've at all followed Corsace in the past, you may have noticed that they ha
 Got you interested? You can [read *Corsace Closed: The Manga* on NamiComi](https://namicomi.com/en/title/nM6E7HnY/corsace-closed-the-manga) or right below:
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 135 / 193;" src="https://docs.google.com/gview?url=https://wala.s-ul.eu/XSX35ftB.pdf&embedded=true" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 135 / 193;" src="https://docs.google.com/gview?url=https://assets.ppy.sh/media/news/corsace-closed-the-manga.pdf&embedded=true" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ![](/wiki/shared/news/2024-06-08-corsace-closed/4-koma.jpg)
