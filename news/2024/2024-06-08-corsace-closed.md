@@ -94,7 +94,7 @@ Check them out (the images and audio previews are clickable):
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="LINK">
+        <source src="https://assets.ppy.sh/artists/381/Corsace%20Closed%202024/Kara%20-%20Viltus.mp3">
     </audio>
 </div>
 
@@ -102,7 +102,7 @@ Check them out (the images and audio previews are clickable):
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="LINK">
+        <source src="https://assets.ppy.sh/artists/381/Corsace%20Closed%202024/Kyutatsuki%20-%20SOUND%20ARCHITECT.mp3">
     </audio>
 </div>
 
