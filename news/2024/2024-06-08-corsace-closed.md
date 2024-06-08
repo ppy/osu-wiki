@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Corsace Closed, Closed!"
+title: Corsace Closed, Closed!
 date: 2024-06-08 23:00:00 +0000
 ---
 
