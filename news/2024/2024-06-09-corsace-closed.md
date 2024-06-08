@@ -1,20 +1,20 @@
 ---
 layout: post
 title: Corsace Closed, Closed!
-date: 2024-06-08 23:00:00 +0000
+date: 2024-06-09 06:00:00 +0000
 ---
 
 This year's [Corsace Closed](https://corsace.io/) tournament comes to a... close. Find out how the fierce battle ended, read up on the tournament's parallel narrative in manga format, and listen to new bops entering osu!'s original music library.
 
-![](/wiki/shared/news/2024-06-08-corsace-closed/banner.jpg)
+![](/wiki/shared/news/2024-06-09-corsace-closed/banner.jpg)
 
-16 qualifying players, all no strangers to the highest echelons of competitive osu!, were pitted against each other between April and May. The stage was a [mappool](https://docs.google.com/spreadsheets/d/1OoI_ZYh9TDTSaljTMgfI3pyfxXom_xoC01mXqz1fc7M/edit#gid=175106588) featuring challenging beatmaps interspersed with classics of community-wide collective memory.
+16 top players, all no strangers to the highest echelons of competitive osu!, were pitted against each other between April and May. The stage was a [mappool](https://docs.google.com/spreadsheets/d/1OoI_ZYh9TDTSaljTMgfI3pyfxXom_xoC01mXqz1fc7M/edit#gid=175106588) featuring challenging beatmaps interspersed with classics of community-wide collective memory.
 
 With the final showmatch of the tournament concluded, today might be the perfect time to unravel the unique audiovisual competitive experience that was Corsace Closed 2024.
 
 ## Tournament results
 
-![](/wiki/shared/news/2024-06-08-corsace-closed/podium.jpg)
+![](/wiki/shared/news/2024-06-09-corsace-closed/podium.jpg)
 
 Congratulations to [maliszewski](https://osu.ppy.sh/users/12408961), [worst hr player](https://osu.ppy.sh/users/14106450) and [enri](https://osu.ppy.sh/users/8640970) for clinching the top 3 spots.
 
@@ -54,7 +54,7 @@ Got you interested? You can [read *Corsace Closed: The Manga* on NamiComi](https
     <iframe width="95%" style="aspect-ratio: 135 / 193;" src="https://docs.google.com/gview?url=https://assets.ppy.sh/media/news/corsace-closed-the-manga.pdf&embedded=true" frameborder="0" allowfullscreen></iframe>
 </div>
 
-![](/wiki/shared/news/2024-06-08-corsace-closed/4-koma.jpg)
+![](/wiki/shared/news/2024-06-09-corsace-closed/4-koma.jpg)
 
 And it doesn't stop there, because the lore runs deep. You can find 4 instalments of the *Corsace Closed [4-koma](https://en.wikipedia.org/wiki/Yonkoma)* on the [@Corsace_ Twitter account](https://twitter.com/corsace_) ([1](https://twitter.com/corsace_/status/1782576118052085790), [2](https://twitter.com/corsace_/status/1785111830563590238), [3](https://twitter.com/corsace_/status/1787648543693693066), [4](https://twitter.com/corsace_/status/1790185259062980643)). This smaller-scale series captures the more minute interactions and bits between the characters, sometimes even crossing over with other tournament mascots like IRIS from [Project Prism](https://osu.ppy.sh/home/news/2024-04-19-project-prism-2024-registrations-now-open).
 
@@ -76,7 +76,7 @@ And it doesn't stop there, because the lore runs deep. You can find 4 instalment
 
 Thank you to [alden](https://osu.ppy.sh/users/3545323), [Fulserish](https://osu.ppy.sh/users/14252162), [Honbae](https://osu.ppy.sh/users/9474976), [Liyah](https://osu.ppy.sh/users/14290191), [Mio](https://osu.ppy.sh/users/28142111), [Nemurin](https://osu.ppy.sh/users/5883039) and [Piggy](https://osu.ppy.sh/users/14257673) for bringing these characters to life!
 
-![](/wiki/shared/news/2024-06-08-corsace-closed/chloe-concept.jpg "Concept art for Chloe")
+![](/wiki/shared/news/2024-06-09-corsace-closed/chloe-concept.jpg "Concept art for Chloe")
 
 ## osu! originals
 
@@ -90,7 +90,7 @@ Like many tournaments in recent years, Corsace Closed 2024 debuted completely be
 
 Check them out (the images and audio previews are clickable):
 
-[![](/wiki/shared/news/2024-06-08-corsace-closed/Viltus.jpg)](https://osu.ppy.sh/beatmapsets/2176809)
+[![](/wiki/shared/news/2024-06-09-corsace-closed/Viltus.jpg)](https://osu.ppy.sh/beatmapsets/2176809)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -98,7 +98,7 @@ Check them out (the images and audio previews are clickable):
     </audio>
 </div>
 
-[![](/wiki/shared/news/2024-06-08-corsace-closed/SOUND-ARCHITECT.jpg)](https://osu.ppy.sh/beatmapsets/2180470)
+[![](/wiki/shared/news/2024-06-09-corsace-closed/SOUND-ARCHITECT.jpg)](https://osu.ppy.sh/beatmapsets/2180470)
 
 <div class="osu-md__paragraph">
     <audio controls>
