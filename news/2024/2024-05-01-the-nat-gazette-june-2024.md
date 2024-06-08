@@ -95,7 +95,7 @@ Vetoes have been slightly reworked. Once a veto is made, the entire user group o
 
 #### Hybrid beatmapset nomination changes
 
-Beatmapsets comprised of two or more rulesets should have an easier time getting Ranked! While the old system required two proficient BNs for each unique ruleset in the beatmapset, with the new changes only the main gamemode of a set will need two Beatmap Nominators. The rest of rulesets will only require one nomination from its respective mode. 
+Beatmaps comprised of two or more game modes should have an easier time getting ranked! While the old system required two proficient BNs for each game mode present in a beatmap, with the new changes only the main game mode of a set will need two BNs. The other game modes will only require one nomination each. 
 
 The main game mode of a beatmap is the one with the most difficulties, or the one with the most difficulties mapped by the host in the case of a tie. If it's still a tie between multiple modes, any one of them may be considered the main one and will need two nominations, giving the mapper and BNs some extra flexibility.
 
