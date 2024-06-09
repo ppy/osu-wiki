@@ -11,7 +11,7 @@ tags:
 
 [osu! 팀](/wiki/People/osu!_team)은 특정 기대치를 준수하여 추가적인 지원을 주는 프로그램을 운영합니다.
 
-이 문서는 2024년 4월 18일에 마지막으로 업데이트되었습니다. 전체적인 변경 사항을 보려면 [Tournament Support Updates 스레드](https://osu.ppy.sh/community/forums/topics/1715676)를 확인하세요. 질문 또는 설명이 필요한 경우 [osu! 디스코드 서버](https://discord.com/invite/ppy)의 #tournaments를 참조하거나 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)를 통해 [계정 지원팀](/wiki/People/Account_support_team)에게 메일을 보내주세요.
+이 문서는 2024년 6월 2일에 마지막으로 업데이트되었습니다. 전체적인 변경 사항을 보려면 [Tournament Support Updates 스레드](https://osu.ppy.sh/community/forums/topics/1715676)를 확인하세요. 질문 또는 설명이 필요한 경우 [osu! 디스코드 서버](https://discord.com/invite/ppy)의 #tournaments를 참조하거나 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)를 통해 [계정 지원팀](/wiki/People/Account_support_team)에게 메일을 보내주세요.
 
 ## 혜택
 
