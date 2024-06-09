@@ -6,9 +6,9 @@ date: 2024-05-01 13:00:00 +0000
 
 The NAT Gazette returns with a big bang and a bigger list of changes to cover!
 
-![main banner](/wiki/shared/news/2024-05-01-the-nat-gazette-june-2024/nat-gazette-june-2024.jpg)
+![](/wiki/shared/news/2024-05-01-the-nat-gazette-june-2024/nat-gazette-june-2024.jpg)
 
-The NAT isn't dead! Neither has the long awaited batch of updates that have slowly been creeping in ever since the last issue. With a bigger emphasis placed on transparency and easing communication between the Beatmap Nominators and the general playerbase, we'd like to shift gears and focus on how users receive this full suite of updates.
+The NAT isn't dead, nor is the long awaited batch of updates that have slowly been creeping in ever since the last issue. With a bigger emphasis placed on transparency and easing communication between the Beatmap Nominators and the general playerbase, we'd like to shift gears and focus on how users receive this full suite of updates.
 
 While there's a lot to go through, our defacto NAT Leader [pishifat](https://osu.ppy.sh/users/3178418) has prepared us a changelog in the form of a video! We encourage giving it a look to quickly be up to speed with all the changes to come.
 
@@ -59,7 +59,7 @@ The application process has been streamlined, easing users into the application 
 
 #### Removal of the ranking criteria test
 
-Yep, you heard it here first. Or probably not. But the RC test is gone, dusted. Vanished, not to come again in the foreseeable future. The test in its current form didn't offer a lot. Besides being a filter and an English comprehension test, it was redundant as applicants would better show their understanding of the ranking criteria through their mods. 
+Yep, you heard it here first. Or probably not. But the RC test is gone, dusted. Vanished, not to come again in the foreseeable future. The test in its current form didn't offer a lot. Besides being a filter and an English comprehension test, it was redundant as applicants would better show their understanding of the ranking criteria through their mods.
 
 #### Streamlining cooldowns
 
@@ -97,7 +97,7 @@ Vetoes have been slightly reworked. Once a veto is made, the entire user group o
 
 #### Hybrid beatmapset nomination changes
 
-Beatmaps comprised of two or more game modes should have an easier time getting ranked! While the old system required two proficient BNs for each game mode present in a beatmap, with the new changes only the main game mode of a set will need two BNs. The other game modes will only require one nomination each. 
+Beatmaps comprised of two or more game modes should have an easier time getting ranked! While the old system required two proficient BNs for each game mode present in a beatmap, with the new changes only the main game mode of a set will need two BNs. The other game modes will only require one nomination each.
 
 The main game mode of a beatmap is the one with the most difficulties, or the one with the most difficulties mapped by the host in the case of a tie. If it's still a tie between multiple modes, any one of them may be considered the main one and will need two nominations, giving the mapper and BNs some extra flexibility.
 
@@ -111,9 +111,9 @@ It's worth noting that the current implementation is prone to change depending o
 
 ## Things to look out for
 
-### Ranking criteria cleanup project
+### Ranking criteria clean-up project
 
-The Ranking Criteria cleanup project is still going strong! A few proposals already made it into the RC, with more looming around the corner such as the [metadata](https://osu.ppy.sh/community/forums/topics/1894663?n=1) or the [storyboard](https://osu.ppy.sh/community/forums/topics/1897427?n=1) proposals currently being discussed.
+The Ranking Criteria clean-up project is still going strong! A few proposals already made it into the RC, with more looming around the corner such as the [metadata](https://osu.ppy.sh/community/forums/topics/1894663?n=1) or the [storyboard](https://osu.ppy.sh/community/forums/topics/1897427?n=1) proposals currently being discussed.
 
 ### Badges
 
@@ -145,6 +145,6 @@ some fluff text, showcase badge redesign
 
 ---
 
-This is all for today! To stay tuned with discussions to come, we encourage everyone to keep an eye in the [Beatmap Management subforum](https://osu.ppy.sh/community/forums/115). Getting to know the community's opinion is crucial, and giving power to the user base should be our priority moving forward.
+That is all for today! To stay tuned with discussions to come, we encourage everyone to keep an eye in the [Beatmap Management subforum](https://osu.ppy.sh/community/forums/115). Getting to know the community's opinion is crucial, and giving power to the user base should be our priority moving forward.
 
 —the Nomination Assessment Team
