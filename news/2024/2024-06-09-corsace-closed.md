@@ -50,7 +50,7 @@ If you've at all followed Corsace in the past, you may have noticed that they ha
     </video>
 </div>
 
-Got you interested? You can [read *Corsace Closed: The Manga* on NamiComi](https://namicomi.com/en/title/nM6E7HnY/corsace-closed-the-manga) or simply right take a glance below:
+Got you interested? You can [read *Corsace Closed: The Manga* on NamiComi](https://namicomi.com/en/title/nM6E7HnY/corsace-closed-the-manga) or simply take a glance right below:
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 135 / 193;" src="https://docs.google.com/gview?url=https://assets.ppy.sh/media/news/corsace-closed-the-manga.pdf&embedded=true" frameborder="0" allowfullscreen></iframe>
@@ -70,7 +70,7 @@ And it doesn't stop there, because the lore runs deep. You can find 4 instalment
 > 
 > Respecting her decision, I teamed up with [Nemurin](https://osu.ppy.sh/users/5883039) to create a new mascot which you all eventually came to know as Chloe (Chloe was designed and teased as early as [2023's GF NM1](https://osu.ppy.sh/beatmapsets/1988571#osu/4131039) where she could be seen in the background! We knew no matter what we did, moving on from the secretary was going to be hard. We wanted to capture these feelings of moving on in the story. As such, we centered the one-shot around the theme of change.
 > 
-> The oneshot itself was a happy accident as I had randomly caught wind of Honbae and Fulserish interested in making a oneshot revolving around the secretary in February. After reaching out and an initial planning phase, the entire month of March was spent scriptwriting, storyboarding, drawing and revising. It was miracle we got it all done within a month and I'm so proud of the team.
+> The oneshot itself was a happy accident as I had randomly caught wind of [Honbae](https://osu.ppy.sh/users/9474976) and [Fulserish](https://osu.ppy.sh/users/14252162) interested in making a oneshot revolving around the secretary in February. After reaching out and an initial planning phase, the entire month of March was spent scriptwriting, storyboarding, drawing and revising. It was miracle we got it all done within a month and I'm so proud of the team.
 > 
 > I don't want to spoil too much but we already have projects planned revolving Chloe for next year so please look forward to it!
 
