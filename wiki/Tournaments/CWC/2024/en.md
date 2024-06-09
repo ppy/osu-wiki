@@ -155,8 +155,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
   3. [Ardolf - SILVER BULLET (4rcheR-) \[DELUGE\]](https://osu.ppy.sh/beatmapsets/2195044#fruits/4644295)
 - Double Time
   1. [Omoi - Nee William (BlackBN) \[Hey William!\]](https://osu.ppy.sh/beatmapsets/2195045#fruits/4644298)
-  2. [-45 - Akaikutsu Nise (Deif) \[fayew vs. Deif's Endless Witch\] *(temporary link)*](http://files.leoflt.com/YPg8xsXp)
-  3. [CHON - Waterslide (rinkiha) \[Tranquil Sea\]](https://osu.ppy.sh/beatmapsets/2195049#fruits/4644303)
+  2. [-45 - Akaikutsu Nise (Deif) \[fayew vs. Deif's Endless Witch\]](https://osu.ppy.sh/beatmapsets/2195073#fruits/4644348)
+  3. 3. [CHON - Waterslide (rinkiha) \[Tranquil Sea\]](https://osu.ppy.sh/beatmapsets/2195049#fruits/4644303)
   4. [m-flo loves BoA - the Love Bug (Liyac) \[Moyac's Love Jonez\]](https://osu.ppy.sh/beatmapsets/2195051#fruits/4644305)
 - Mixed Mod
   1. [IDONO KAWAZU - Toxin (Spectator) \[Deluge\] *(temporary link)*](http://files.leoflt.com/iPJ8Vmg4)
@@ -558,7 +558,6 @@ The final standings for the Qualifier stage can be found in the following [sprea
    - **Do not ask for a reschedule unless it is absolutely necessary. The tournament managers reserve the right to deny any rescheduling request.**
    - Late reschedule requests will not be accepted under any circumstances.
 6. Captains are responsible for managing their team's availability.
-
 
 ## Notes
 
