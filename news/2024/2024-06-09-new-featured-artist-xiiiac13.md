@@ -54,7 +54,7 @@ Step on [this map template](https://assets.ppy.sh/artists/423/xiiiac13%20Collect
 
 ---
 
-Mathematics experts may have noticed that there are only 3 songs above. The remaining 10 tunes are waiting impatiently in [**xiiiac13**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/423) for someone (like you) to adapt them into beatmaps.
+Mathematics experts may have noticed that there are only 4 songs above. The remaining **9 tunes** are waiting impatiently in [**xiiiac13**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/423) for someone (like you) to adapt them into beatmaps.
 
 If you can't wait for more music to be added to our library, take a week-long nap to wake up for our next Featured Artist reveal!
 
