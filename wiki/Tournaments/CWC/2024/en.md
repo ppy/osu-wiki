@@ -137,7 +137,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
 
 ### Semifinals
 
-**[Download the mappack here (154 MB)](http://files.leoflt.com/Ti9Pc3W5)**\
+**[Download the mappack here (154 MB)](https://packs.ppy.sh/P250%20-%20osu!catch%20World%20Cup%202024%3A%20Semifinals.zip)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2167854236)
 
 - No Mod
@@ -150,16 +150,16 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
   2. [Ito Kanako - Tataeshi Tatakai no Uta (F D Flourite) \[Proelium\]](https://osu.ppy.sh/beatmapsets/2195043#fruits/4644294)
   3. [Dictate & Silentroom - REBIRTH (Jemzuu) \[relapse\]](https://osu.ppy.sh/beatmapsets/2195032#fruits/4644279)
 - Hard Rock
-  1. [ELFENSJoN - Akayake no Majo (-Luminate) \[Malevolence\] *(temporary link)*](http://files.leoflt.com/ryASL1h8)
+  1. [ELFENSJoN - Akayake no Majo (-Luminate) \[Malevolence\]](https://osu.ppy.sh/beatmapsets/2195113#fruits/4644437)
   2. [-45 - Reishiki (fayew) \[534B4942494449544F494C455452495A5A\]](https://osu.ppy.sh/beatmapsets/2195036#fruits/4644286)
   3. [Ardolf - SILVER BULLET (4rcheR-) \[DELUGE\]](https://osu.ppy.sh/beatmapsets/2195044#fruits/4644295)
 - Double Time
   1. [Omoi - Nee William (BlackBN) \[Hey William!\]](https://osu.ppy.sh/beatmapsets/2195045#fruits/4644298)
   2. [-45 - Akaikutsu Nise (Deif) \[fayew vs. Deif's Endless Witch\]](https://osu.ppy.sh/beatmapsets/2195073#fruits/4644348)
-  3. 3. [CHON - Waterslide (rinkiha) \[Tranquil Sea\]](https://osu.ppy.sh/beatmapsets/2195049#fruits/4644303)
+  3. [CHON - Waterslide (rinkiha) \[Tranquil Sea\]](https://osu.ppy.sh/beatmapsets/2195049#fruits/4644303)
   4. [m-flo loves BoA - the Love Bug (Liyac) \[Moyac's Love Jonez\]](https://osu.ppy.sh/beatmapsets/2195051#fruits/4644305)
 - Mixed Mod
-  1. [IDONO KAWAZU - Toxin (Spectator) \[Deluge\] *(temporary link)*](http://files.leoflt.com/iPJ8Vmg4)
+  1. [IDONO KAWAZU - Toxin (Spectator) \[Deluge\]](https://osu.ppy.sh/beatmapsets/2195217#fruits/4644675)
   2. [0 K - Brilliant Silver, Shining Blade (JBHyperion) \[Claiomh Solais, The Radiant\]](https://osu.ppy.sh/beatmapsets/2195061#fruits/4644324)
   3. [BEMANI Sound Team "Yvya" - Vitrum (Yoshi\_green) \[Broken dreams\]](https://osu.ppy.sh/beatmapsets/2195058#fruits/4644312)
 - Tiebreaker
