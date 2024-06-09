@@ -13,7 +13,7 @@ The NAT isn't dead, nor is the long awaited batch of updates that have slowly be
 While there's a lot to go through, our defacto NAT Leader [pishifat](https://osu.ppy.sh/users/3178418) has prepared us a changelog in the form of a video! We encourage giving it a look to quickly be up to speed with all the changes to come.
 
 <div align="center">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="THE VIDEO LINK. ADD THE VIDEO LINK." frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/watch?v=OM_RBwsqmUY" frameborder="0" allowfullscreen></iframe>
 </div>
 
 These changes come after an extensive community discussion was held in the [BN Management subforum](https://osu.ppy.sh/community/forums/115). Moving on, big changes like these will be posted there as to foster a healthy discussion with everyone in the community. As the changes to come will come out in cycles, it is very important to get your feedback — your voice matters!
@@ -79,7 +79,7 @@ Feedback has been simplified. In short, this change will make the feedback writi
 
 After receiving their verdict, users can reply to their evaluators' feedback in the BN site. While the goal of this change is not to facilitate appeals as under normal circumstances the result of an application is unchangeable, applicants are encouraged to ask questions and clarification on their feedback by using this new feature.
 
-@Hivie Image here with the user PoV of messages maybe
+![](/wiki/shared/news/2024-05-01-the-nat-gazette-june-2024/evaluation-chat.jpg)
 
 ### Within the Beatmap Nominators
 
@@ -100,6 +100,12 @@ Vetoes have been slightly reworked. Once a veto is made, the entire user group o
 Beatmaps comprised of two or more game modes should have an easier time getting ranked! While the old system required two proficient BNs for each game mode present in a beatmap, with the new changes only the main game mode of a set will need two BNs. The other game modes will only require one nomination each.
 
 The main game mode of a beatmap is the one with the most difficulties, or the one with the most difficulties mapped by the host in the case of a tie. If it's still a tie between multiple modes, any one of them may be considered the main one and will need two nominations, giving the mapper and BNs some extra flexibility.
+
+#### Opt-in subjective feedback in evaluations
+
+Write stuff here.
+
+![](/wiki/shared/news/2024-05-01-the-nat-gazette-june-2024/evaluation-feedback.jpg)
 
 ### Within the Nomination Assessment Team
 
