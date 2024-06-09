@@ -4,7 +4,7 @@ title: "New Featured Artist: xiiiac13"
 date: 2024-06-09 19:00:00 +0000
 ---
 
-STAGE LEFT: **xiiiac13** enters the spotlight wearing a shining sash labeled "Featured Artist".
+STAGE LEFT: **xiiiac13** enters the spotlight wearing a shining sash labelled "Featured Artist".
 
 ![](https://assets.ppy.sh/artists/423/header.jpg)
 
@@ -56,7 +56,7 @@ Step on [this map template](https://assets.ppy.sh/artists/423/xiiiac13%20Collect
 
 Mathematics experts may have noticed that there are only 3 songs above. The remaining 10 tunes are waiting impatiently in [**xiiiac13**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/423) for someone (like you) to adapt them into beatmaps.
 
-If you can't wait for more music to be added to our library, take a week long nap to wake up for our next Featured Artist reveal!
+If you can't wait for more music to be added to our library, take a week-long nap to wake up for our next Featured Artist reveal!
 
 Stay tuned.
 
