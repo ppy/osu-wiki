@@ -18,9 +18,9 @@ tags:
 
 또한, 토너먼트 위원회는 계정 지원팀과 별개로 다음과 같은 역할을 수행합니다:
 
-- 필요할 경우 수정을 위해 [공식적인 토너먼트 지원](/wiki/Tournaments/Official_support) 위키 페이지를 정기적으로 검토합니다.
+- [공식적인 토너먼트 지원](/wiki/Tournaments/Official_support) 위키 페이지의 수정이 필요한지 정기적으로 검토합니다.
 - [토너먼트 보고 설문](https://pif.ephemeral.ink/tournament-reports)에 들어온 보고서를 조사합니다.
-- 공식 지원을 요청한 토너먼트가 종료한 뒤, 토너먼트가 해당 기준을 충족했는지 확인합니다.
+- 공식 지원을 요청한 토너먼트가 종료한 뒤, 해당 기준을 충족했는지 확인합니다.
 - osu! 뉴스 팀에게 토너먼트의 [뉴스 게시물 지원](/wiki/Tournaments/Official_support#requesting-in-game-banner-and-news-post-support)의 허가 여부에 대하여 조언합니다.
 - 공식 지원 기준 변경과 지원을 요청한 토너먼트 상태와 관련하여 플레이어와의 소통을 유지합니다.
 
@@ -31,7 +31,7 @@ tags:
 위원회의 책임은 아래와 같습니다:
 
 - 전반적인 콘테스트 현장을 관찰하고 사례별로 [계정 지원팀](/wiki/People/Account_support_team)에게 조언합니다.
-- 필요한 경우 수정을 위해 [공식적인 비트매핑 콘테스트 지원](/wiki/Contests/Official_support) 위키 페이지를 정기적으로 검토합니다.
+- [공식적인 비트매핑 콘테스트 지원](/wiki/Contests/Official_support) 위키 페이지의 수정이 필요한지 정기적으로 검토합니다.
 
 해당 위원회는 2024년 2월 28일 [Mapping Discussion](https://osu.ppy.sh/community/forums/topics/1890429)포럼에서 처음 공개되었습니다.
 
