@@ -10,7 +10,7 @@ The NAT Gazette returns with a big bang and a bigger list of changes to cover!
 
 The NAT isn't dead, nor is the long awaited batch of updates that have slowly been creeping in ever since the last issue. With a bigger emphasis placed on transparency and easing communication between the Beatmap Nominators and the general playerbase, we'd like to shift gears and focus on how users receive this full suite of updates.
 
-While there's a lot to go through, our defacto NAT Leader [pishifat](https://osu.ppy.sh/users/3178418) has prepared us a changelog in the form of a video! We encourage giving it a look to quickly be up to speed with all the changes to come.
+While there's a lot to go through, our resident bird connoisseur [pishifat](https://osu.ppy.sh/users/3178418) has prepared us a changelog in the form of a video! We encourage giving it a look to quickly be up to speed with all the changes to come.
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/watch?v=OM_RBwsqmUY" frameborder="0" allowfullscreen></iframe>
@@ -103,9 +103,11 @@ The main game mode of a beatmap is the one with the most difficulties, or the on
 
 #### Opt-in subjective feedback in evaluations
 
-Write stuff here.
+Beatmap Nominators are now able to opt-in to receive extra feedback in their evaluations. While this won't change the outcome of their evaluation whatsoever, this will let evaluators go a bit more in-depth in their feedback and, in turn, let the Beatmap Nominator learn from their comments. By default BNs will only receive more objective feedback on actual mistakes made.
 
 ![](/wiki/shared/news/2024-05-01-the-nat-gazette-june-2024/evaluation-feedback.jpg)
+
+It's important to note that this feature has only been put into place in osu!, and other rulesets will still deliver feedback as they've been doing insofar.
 
 ### Within the Nomination Assessment Team
 
