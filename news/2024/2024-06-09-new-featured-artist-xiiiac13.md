@@ -6,7 +6,7 @@ date: 2024-06-09 19:00:00 +0000
 
 STAGE LEFT: **xiiiac13** enters the spotlight wearing a shining sash labeled "Featured Artist".
 
-![](https://assets.ppy.sh/artists/xxx/header.jpg)
+![](https://assets.ppy.sh/artists/423/header.jpg)
 
 Self-appointed CEO of cat music **xiiiac13** is a Spanish producer with a mind occupied by a terminal amount of internet culture and zoomer humor.
 
@@ -16,7 +16,7 @@ Hungry for maps? Look no further than about 2 centimeters below:
 
 <div align="center">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/artists/423/release_showcase.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/xiiiac13_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -25,7 +25,7 @@ Hungry for maps? Look no further than about 2 centimeters below:
 Consume [this map from the video above](https://osu.ppy.sh/beatmapsets/2169368) hosted by [Nytrocide_](https://osu.ppy.sh/users/11327918)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/423/xiiiac13%20Collection%20Volume%20%231/xiiiac13%20-%20who%20let%20him%20cook.mp3">
 </audio>
 
 ### xiiiac13 - got a compliment today
@@ -33,15 +33,23 @@ Consume [this map from the video above](https://osu.ppy.sh/beatmapsets/2169368) 
 Witness [this cat](https://osu.ppy.sh/beatmapsets/2163558) hosted by [Chaoslitz](https://osu.ppy.sh/users/3621552)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/423/xiiiac13%20Collection%20Volume%20%231/xiiiac13%20-%20got%20a%20compliment%20today.mp3">
 </audio>
 
 ### xiiiac13 - me when the and the
 
-That's how the it if [map template](LINK)!
+That's how the it if [map template](https://assets.ppy.sh/artists/423/xiiiac13%20Collection%20Volume%20%231/xiiiac13%20-%20me%20when%20the%20and%20the.osz)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/423/xiiiac13%20Collection%20Volume%20%231/xiiiac13%20-%20me%20when%20the%20and%20the.mp3">
+</audio>
+
+### xiiiac13 - stepping on your cat's tail be like
+
+Step on [this map template](https://assets.ppy.sh/artists/423/xiiiac13%20Collection%20Volume%20%231/xiiiac13%20-%20stepping%20on%20your%20cat%27s%20tail%20be%20like.osz).
+
+<audio controls>
+    <source src="https://assets.ppy.sh/artists/423/xiiiac13%20Collection%20Volume%20%231/xiiiac13%20-%20stepping%20on%20your%20cat%27s%20tail%20be%20like.mp3">
 </audio>
 
 ---
