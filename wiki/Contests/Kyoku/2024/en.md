@@ -23,6 +23,7 @@
 
 - [Contest listing](https://osu.ppy.sh/community/contests/211)
 - [Contest announcement](https://osu.ppy.sh/home/news/2024-05-10-kyoku-original-song-and-beatmapping-contest)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1906442)
 - [Information document](https://docs.google.com/document/d/1DjLQN0wWzT25un9fUei9jmZqZdJ8Euvelf6Hgk0R4A0/view)
 - [Discord server](https://discord.com/invite/XPUPjFamuU)
 
@@ -75,7 +76,7 @@
 | **Team YamuunHaAkRaht** | [Kamoonrahha](https://osu.ppy.sh/users/31494016) | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/akyut "SoundCloud") Akyut |
 | **campeakino** | [Mizunashi Akari](https://osu.ppy.sh/users/12882468), [toybot](https://osu.ppy.sh/users/2848604) | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/eugeney-21428924 "SoundCloud") Eugeney, [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/spooderboi "SoundCloud") suyoung, [![Pixiv](/wiki/shared/link/Link.png)](https://www.pixiv.net/en/users/63070487 "Pixiv") 4KSilverzola |
 | **Keyoku** | [PurestosuPlayer](https://osu.ppy.sh/users/22733325), [MrBigOctupus](https://osu.ppy.sh/users/15502308), [ryshart](https://osu.ppy.sh/users/16740086), [EnderCraft](https://osu.ppy.sh/users/19950570), [Tolyan](https://osu.ppy.sh/users/3965790) | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/channel/UCA89RaIqXg-UAnO9ar-2A1g "YouTube") WujuBlade, [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/@Astralinksz "YouTube") Astralink, [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/lamura-64218496 "SoundCloud") Lamura |
-| **Cardboard House** | [jaski03](https://osu.ppy.sh/users/28579947), alehdev | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/channel/UCrPFpnanlcDv6oFlFQyzOCA "YouTube") Disturbed tranquility |
+| **Cardboard House** | [jaski03](https://osu.ppy.sh/users/28579947), [alehdev](https://osu.ppy.sh/users/35821150) | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/channel/UCrPFpnanlcDv6oFlFQyzOCA "YouTube") Disturbed tranquility |
 | **"khz gang"** | [Sprixx](https://osu.ppy.sh/users/17076146), [Take](https://osu.ppy.sh/users/19322780) | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/@Fennral "YouTube") Fennral, [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/@ModernizedAndroidGyaru "YouTube") M.A.G |
 | **TOPAZ++** | [Pho](https://osu.ppy.sh/users/3624692) | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/@MetaHumanBoi "YouTube") MetaHumanBoi |
 | **ඞඞඞඞඞඞ** | [Chompy](https://osu.ppy.sh/users/7427035), [Feiri](https://osu.ppy.sh/users/3214844), [Nijika Ijichi](https://osu.ppy.sh/users/10964252), [r\_\_\_\_\_\_\_](https://osu.ppy.sh/users/18128385), [Zer0-G](https://osu.ppy.sh/users/12577911) | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/@legless8528 "YouTube") Legless, [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/channel/UC94tfPNGYxzJ-ZVia2SlOkw "YouTube") vox |
@@ -91,7 +92,7 @@
 | **yeah** | [xdelirium](https://osu.ppy.sh/users/35442866) | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/@thisguy137 "YouTube") thisguy137, [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/@thatonegambei "YouTube") ThatOneGambei |
 | **:sob:** | [Lemoncello](https://osu.ppy.sh/users/17965706) | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/ZZn1e "SoundCloud") V3ARI, [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/ycSZw "SoundCloud") Limonwn |
 | **The Dude S** | [roffio](https://osu.ppy.sh/users/18990983) | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/@belowdecent6494 "YouTube") below decent, [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/@user-qo5oo8og4x "YouTube") V1zuv1y |
-| **Team Cyclic** | Zhemolium | [![Newgrounds](/wiki/shared/link/Link.png)](https://hesmusic.newgrounds.com/ "Newgrounds") Upcoda |
+| **Team Cyclic** | [Zhemolium](https://osu.ppy.sh/users/33918129) | [![Newgrounds](/wiki/shared/link/Link.png)](https://hesmusic.newgrounds.com/ "Newgrounds") Upcoda |
 | **IJPG** | [rudi1234](https://osu.ppy.sh/users/6280353), [dopeqt](https://osu.ppy.sh/users/34085860), [ByazWasTaken](https://osu.ppy.sh/users/36088678) | ByazWasMusical |
 | **Over Heaven** | [Shihotori](https://osu.ppy.sh/users/10197777) | [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/artist/3woJtVVbtsgKeop5RkqOOg "Spotify") Mascylve, [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/artist/3woJtVVbtsgKeop5RkqOOg "Spotify") Shihotori |
 | **Featured Fartist** | [Bazuso](https://osu.ppy.sh/users/11726139), [Boden](https://osu.ppy.sh/users/10345531) | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/foedu "SoundCloud") FoeDu |
@@ -104,7 +105,7 @@
 | **Skizoids** | [Nidasimno](https://osu.ppy.sh/users/6799223), [raven\_waffles](https://osu.ppy.sh/users/18690280), [doom2wrld7](https://osu.ppy.sh/users/14239645), [mqno](https://osu.ppy.sh/users/10021506), [Nyartin](https://osu.ppy.sh/users/3436625) | [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/artist/0YE0a7oYTrGaqyt1BOrykm "Spotify") RRolanDD |
 | **Yukurisu** | [Demsteg](https://osu.ppy.sh/users/10379928), [Kurisu Tomoya](https://osu.ppy.sh/users/20957901) | CrystaluxX, Jovan |
 | **Flavour Sector** | [foss](https://osu.ppy.sh/users/16219092), [Net0](https://osu.ppy.sh/users/5099768) | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/@Kurei_Rei "YouTube") Kurei -0½, [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/cyberp0sitive "SoundCloud") CyberPositive, [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/not-a-particle-accelerator "SoundCloud") prtccl |
-| **Last Minute** | -Tyanmo, [BoshyMan741](https://osu.ppy.sh/users/4830687), [Axaptice](https://osu.ppy.sh/users/4395077) | cannedfruit, 44 ducks, \_BonBon |
+| **Last Minute** | [-Tynamo](https://osu.ppy.sh/users/3638962), [BoshyMan741](https://osu.ppy.sh/users/4830687), [Axaptice](https://osu.ppy.sh/users/4395077) | cannedfruit, 44 ducks, \_BonBon |
 
 ## Rules
 
