@@ -28,7 +28,7 @@
 
 ## Teams
 
-| Team name | Producers | Beatmappers |
+| Team name | Beatmappers | Producers |
 | :-: | :-- | :-- |
 |  |  |  |
 | **Bofa deez nuts** | [-jordan-](https://osu.ppy.sh/users/7288862), [Celektus](https://osu.ppy.sh/users/4294993), [Lusumi](https://osu.ppy.sh/users/7575461) | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/jordan-480162540 "SoundCloud") -jordan-, [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/celektus-1 "SoundCloud") Celektus, [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/artist/6DBUzI6zY7sDLhLFnBD74v "Spotify") Lusumi |
