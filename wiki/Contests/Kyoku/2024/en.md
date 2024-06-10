@@ -4,6 +4,21 @@
 
 **Kyoku 2024** is a beatmapping and original song contest, where mappers team up with music producers to compete in fully original submissions, hosted by [bokeru](https://osu.ppy.sh/users/11308433), [chidodou](https://osu.ppy.sh/users/13868581), [Supportive](https://osu.ppy.sh/users/21482068) and [Whithard](https://osu.ppy.sh/users/24552396).
 
+## Schedule
+
+| Event | Dates |
+| --: | :-- |
+| Registrations | April 6 to June 9 (23:59 UTC) |
+| Song production & mapping period | June 10 to August 22 (23:59 UTC) |
+| Judging | August 23 to August 31 |
+| Results | September 1 |
+
+## Prizes
+
+| Ranking | Prizes |
+| :-- | :-- |
+| Winning team | $100 USD + profile badge (pending) + [contest points](/wiki/Contests/Contest_points) |
+
 ## Links
 
 - [Contest listing](https://osu.ppy.sh/community/contests/211)
@@ -90,21 +105,6 @@
 | **Skizoids** | [Nidasimno](https://osu.ppy.sh/users/6799223), [raven\_waffles](https://osu.ppy.sh/users/18690280), [doom2wrld7](https://osu.ppy.sh/users/14239645), [mqno](https://osu.ppy.sh/users/10021506), [Nyartin](https://osu.ppy.sh/users/3436625) | [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/artist/0YE0a7oYTrGaqyt1BOrykm "Spotify") RRolanDD |
 | **Yukurisu** | [Demsteg](https://osu.ppy.sh/users/10379928), [Kurisu Tomoya](https://osu.ppy.sh/users/20957901) | CrystaluxX, Jovan |
 | **Flavour Sector** | [foss](https://osu.ppy.sh/users/16219092), [Net0](https://osu.ppy.sh/users/5099768) | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/@Kurei_Rei "YouTube") Kurei -0½, [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/cyberp0sitive "SoundCloud") CyberPositive, [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/not-a-particle-accelerator "SoundCloud") prtccl |
-
-## Schedule
-
-| Event | Dates |
-| --: | :-- |
-| Registrations | April 6 to June 9 (23:59 UTC) |
-| Song production & mapping period | June 10 to August 22 (23:59 UTC) |
-| Judging | August 23 to August 31 |
-| Results | September 1 |
-
-## Prizes
-
-| Ranking | Prizes |
-| :-- | :-- |
-| Winning team | $100 USD + profile badge (pending) + [contest points](/wiki/Contests/Contest_points) |
 
 ## Rules
 
