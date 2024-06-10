@@ -104,6 +104,7 @@
 | **Skizoids** | [Nidasimno](https://osu.ppy.sh/users/6799223), [raven\_waffles](https://osu.ppy.sh/users/18690280), [doom2wrld7](https://osu.ppy.sh/users/14239645), [mqno](https://osu.ppy.sh/users/10021506), [Nyartin](https://osu.ppy.sh/users/3436625) | [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/artist/0YE0a7oYTrGaqyt1BOrykm "Spotify") RRolanDD |
 | **Yukurisu** | [Demsteg](https://osu.ppy.sh/users/10379928), [Kurisu Tomoya](https://osu.ppy.sh/users/20957901) | CrystaluxX, Jovan |
 | **Flavour Sector** | [foss](https://osu.ppy.sh/users/16219092), [Net0](https://osu.ppy.sh/users/5099768) | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/@Kurei_Rei "YouTube") Kurei -0½, [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/cyberp0sitive "SoundCloud") CyberPositive, [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/not-a-particle-accelerator "SoundCloud") prtccl |
+| **Last Minute** | -Tyanmo, [BoshyMan741](https://osu.ppy.sh/users/4830687), [Axaptice](https://osu.ppy.sh/users/4395077) | cannedfruit, 44 ducks, \_BonBon |
 
 ## Rules
 
