@@ -16,19 +16,20 @@
 *Також: [Список проектів](/wiki/Community/Projects)*
 
 - [Наставницька программа спільноти](/wiki/Community/Community_Mentorship_Program)
+- [Манга](/wiki/Community/Manga)
 - [Гільдія Маперів](/wiki/Community/Mappers_Guild)
 - [osu! вікі](/wiki/osu!_wiki)
 - [osu!monthly](/wiki/Community/osu!monthly)
 - [Проєкт "Улюблені"](/wiki/Community/Project_Loved)
+- [Відео](/wiki/Community/Video_series)
+  - [osu!academy](/wiki/Community/Video_series/osu!academy)
+  - [osu!mapping](/wiki/Community/Video_series/osu!mapping)
+  - [osu!talk](/wiki/Community/Video_series/osu!talk)
 
 ## Події\Ресурси
 
 - [Зустрічі спільноти osu!](/wiki/Community/osu!_community_meetings)
 - [osu! Talk Event](/wiki/Community/osu!_Talk_Event)
-- [Відео](/wiki/Community/Video_series)
-  - [osu!academy](/wiki/Community/Video_series/osu!academy)
-  - [osu!mapping](/wiki/Community/Video_series/osu!mapping)
-  - [osu!talk](/wiki/Community/Video_series/osu!talk)
 
 ## Також
 
