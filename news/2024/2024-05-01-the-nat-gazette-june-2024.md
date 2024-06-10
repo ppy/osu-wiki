@@ -12,8 +12,8 @@ The NAT isn't dead, nor is the long awaited batch of updates that have slowly be
 
 While there's a lot to go through, our resident bird connoisseur [pishifat](https://osu.ppy.sh/users/3178418) has prepared us a changelog in the form of a video! We encourage giving it a look to quickly be up to speed with all the changes to come.
 
-<div align="center">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/watch?v=OM_RBwsqmUY" frameborder="0" allowfullscreen></iframe>
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/OM_RBwsqmUY" frameborder="0" allowfullscreen></iframe>
 </div>
 
 These changes come after an extensive community discussion was held in the [BN Management subforum](https://osu.ppy.sh/community/forums/115). Moving on, big changes like these will be posted there as to foster a healthy discussion with everyone in the community. As the changes to come will come out in cycles, it is very important to get your feedback — your voice matters!
@@ -46,7 +46,7 @@ A public repository with both applications and current BN evaluations can now be
 
 | Type | Change | Link |
 | :-- | :-- | :-- |
-| **General** | Songs and artists currently disallowed in the [Content usage permissions](/wiki/Rules/Content_usage_permissions#artist-permissions) will **not** be able to be Ranked without explicit approval from their respective owners. | [View changes](https://github.com/ppy/osu-wiki/pull/11262) |
+| **General** | Songs and artists currently disallowed in the [Content usage permissions](/wiki/Rules/Content_usage_permissions#artist-permissions) article will **not** be able to be ranked without explicit approval from their respective owners. | [View changes](https://github.com/ppy/osu-wiki/pull/11262) |
 | **General** | Clarification on what counts as either an extended edit or cut version in the case a recreation of the original audio is made. | [View changes](https://github.com/ppy/osu-wiki/pull/11122) |
 
 ### Beatmap Nominator applications
@@ -125,7 +125,9 @@ The Ranking Criteria clean-up project is still going strong! A few proposals alr
 
 ### Badges
 
-some fluff text, showcase badge redesign
+A whole lot of badges related to Beatmap Nominators and the Nomination Assessment Team have received a fresh coat of paint over the past few months thanks to [Tanza3D](https://osu.ppy.sh/users/10379965). They are a little something to indicate the sheer amount of time committed for the mapping ecosystem.
+
+We've laid them out below along with each recipient so far:
 
 <!-- last update: achyoo, 2024-06-08 -->
 
