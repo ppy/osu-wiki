@@ -109,7 +109,7 @@ Beatmap Nominators are now able to opt-in to receive extra feedback in their eva
 
 ![](/wiki/shared/news/2024-06-10-the-nat-gazette-june-2024/evaluation-feedback.jpg)
 
-It's important to note that this feature has only been put into place in osu!, and other rulesets will still deliver feedback as they've been doing so far.
+It's important to note that this feature has only been put into place in osu! game mode, and other game modes will still deliver feedback as they've been doing so far.
 
 ### Within the Nomination Assessment Team
 
