@@ -121,7 +121,7 @@ It's worth noting that the current implementation is prone to change depending o
 
 ### Ranking criteria clean-up project
 
-The Ranking Criteria clean-up project is still going strong! A few proposals already made it into the RC, with more looming around the corner such as the [metadata](https://osu.ppy.sh/community/forums/topics/1894663?n=1) or the [storyboard](https://osu.ppy.sh/community/forums/topics/1897427?n=1) proposals currently being discussed.
+The [Ranking Criteria clean-up project](https://osu.ppy.sh/community/forums/topics/1836226) is still going strong! A few proposals already made it into the RC, with more looming around the corner such as the [metadata](https://osu.ppy.sh/community/forums/topics/1894663?n=1) or the [storyboard](https://osu.ppy.sh/community/forums/topics/1897427?n=1) proposals currently being discussed.
 
 ### Badges
 
