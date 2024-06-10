@@ -42,7 +42,7 @@ tags:
 | *季后赛第十七至二十四名* | 10 RMB |
 | *常规赛全勤奖* | 猫猫定制勋章, 12 RMB(B组), 18 RMB(A组), 24 RMB(S组), 30 RMB(EX组) |
 
-![GBC 2024 春季赛 QQ 赛区冠军缎带图片](img/GBC-2024-Spring-badge-QQ-1st.png) ![GBC 2024 春季赛 Discord 赛区冠军缎带图片](img/GBC-2024-Spring-badge-Discord-1st.png)
+![GBC 2024 春季赛 QQ 赛区冠军缎带图片](img/GBC-2024-Spring-badge-QQ-1st.jpg) ![GBC 2024 春季赛 Discord 赛区冠军缎带图片](img/GBC-2024-Spring-badge-Discord-1st.png)
 
 ## 工作人员
 
