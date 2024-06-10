@@ -217,7 +217,7 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=sCeQNe_OCmo "YouTube") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=katagiri&query=%22c0pyf0x%22 "Featured Artist listing") | katagiri - c0pyf0x | [#1](https://osu.ppy.sh/beatmapsets/2169957) | Grand Finals NM1 |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=oDnzKr31LmM "YouTube") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=lemm&query=%22Algorithm%2054%22 "Featured Artist listing") | lemm - Algorithm 54 | [#1](https://osu.ppy.sh/beatmapsets/2163075) | Semifinals NM1 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/part-lerts/osu-taiko-world-cup-2024-aqua-vitae-feat-kagamine-rin-kagamine-len "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=yqt0V-_bkM0 "YouTube") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=ptar124&query=%22aqua%20vitae%20feat.%20Kagamine%20Rin%20%26%20Kagamine%20Len%22 "Featured Artist listing") | ptar124 - aqua vitae feat. Kagamine Rin & Kagamine Len | [#1](https://osu.ppy.sh/beatmapsets/2155621) | Round of 16 NM1 |
-| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=a1I6iZRU08g "YouTube") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Quarkee&query=%22Fabricated%20Exaltation%22 "Featured Artist listing") | Quarkee & Yuuni - Fabricated Exaltation | [#1](https://osu.ppy.sh/beatmapsets/2169950) | Grand Finals tiebreaker |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=a1I6iZRU08g "YouTube") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Yuuni&query=%22Fabricated%20Exaltation%22 "Featured Artist listing") | Quarkee & Yuuni - Fabricated Exaltation | [#1](https://osu.ppy.sh/beatmapsets/2169950) | Grand Finals tiebreaker |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=rW9wue2WBnc "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://sparxe.bandcamp.com/track/switcheroo "Bandcamp") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Sparxe&query=%22Switcheroo%22 "Featured Artist listing") | Sparxe - Switcheroo | [#1](https://osu.ppy.sh/beatmapsets/2163116) | Semifinals FM1 |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=Ru6t7yHrjtE "YouTube") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Supire&query=%22Nebula%22 "Featured Artist listing") | Supire - Nebula | [#1](https://osu.ppy.sh/beatmapsets/2166486) | Finals HD2 |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=wjnAKsAB1fQ "YouTube") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Tedjimo%20yomigY&query=%22Usuva%20Kagerow%22 "Featured Artist listing") | Tedjimo yomigY - Usuva Kagerow | [#1](https://osu.ppy.sh/beatmapsets/2155520) | Round of 16 HR1 |
@@ -1033,6 +1033,12 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | Links | FA | Song | Beatmap | Notes |
 | --: | :-: | :-- | :-: | :-- |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sot-c/1konos "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=5pBuFA91sPE "YouTube") |  | ZxNX & Sot-C - 1KONOS | [#1](https://osu.ppy.sh/beatmapsets/2101561) | Grand Finals tiebreaker |
+
+#### ![](/wiki/shared/mode/mania.png) One Key World Cup 2024
+
+| Links | FA | Song | Beatmap | Notes |
+| --: | :-: | :-- | :-: | :-- |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/katagiri/1knite "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=HtmLoO32wNA "YouTube") |  | katagiri - 1KNITE[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2195525) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/mania.png) Vietnamese National Mania Championship 2023 - Oblitus Requiem
 
