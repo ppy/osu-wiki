@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "The NAT Gazette: June 2024"
-date: 2024-05-01 13:00:00 +0000
+date: 2024-06-10 19:00:00 +0000
 ---
 
 The NAT Gazette returns with a big bang and a bigger list of changes to cover!
 
-![](/wiki/shared/news/2024-05-01-the-nat-gazette-june-2024/nat-gazette-june-2024.jpg)
+![](/wiki/shared/news/2024-06-10-the-nat-gazette-june-2024/nat-gazette-june-2024.jpg)
 
 The NAT isn't dead, nor is the long awaited batch of updates that have slowly been creeping in ever since the last issue. With a bigger emphasis placed on transparency and easing communication between the Beatmap Nominators and the general playerbase, we'd like to shift gears and focus on how users receive this full suite of updates.
 
@@ -40,7 +40,7 @@ As briefly spoiled before, we have created the brand-new [*BN Management* subfor
 
 A public repository with both applications and current BN evaluations can now be accessed by anyone! The repository can be found in the [BN website](https://bn.mappersguild.com/publicarchive). The goal of this change was for applicants to have a point of reference and learn from existing applications to know what to expect! Currently, only users who opt in will have their evaluations shown in the repository.
 
-![](/wiki/shared/news/2024-05-01-the-nat-gazette-june-2024/public-eval-archive.jpg)
+![](/wiki/shared/news/2024-06-10-the-nat-gazette-june-2024/public-eval-archive.jpg)
 
 #### Ranking criteria changes
 
@@ -69,7 +69,7 @@ Cooldowns have been unified across the board. Failed applicants and BNs who get 
 
 One of the issues with the opaqueness of the process was that candidates didn't know when their verdict would be delivered, or at what stage their application was. By offering our very own BN app parcel tracking service, applicants will now be able to be updated in real time when their ~~food~~ application will be delivered.
 
-![](/wiki/shared/news/2024-05-01-the-nat-gazette-june-2024/evaluation-tracker.jpg)
+![](/wiki/shared/news/2024-06-10-the-nat-gazette-june-2024/evaluation-tracker.jpg)
 
 #### Reworking application feedback
 
@@ -79,7 +79,7 @@ Feedback has been simplified. In short, this change will make the feedback writi
 
 After receiving their verdict, users can reply to their evaluators' feedback in the BN site. While the goal of this change is not to facilitate appeals as under normal circumstances the result of an application is unchangeable, applicants are encouraged to ask questions and clarification on their feedback by using this new feature.
 
-![](/wiki/shared/news/2024-05-01-the-nat-gazette-june-2024/evaluation-chat.jpg)
+![](/wiki/shared/news/2024-06-10-the-nat-gazette-june-2024/evaluation-chat.jpg)
 
 ### Within the Beatmap Nominators
 
@@ -105,7 +105,7 @@ The main game mode of a beatmap is the one with the most difficulties, or the on
 
 Beatmap Nominators are now able to opt-in to receive extra feedback in their evaluations. While this won't change the outcome of their evaluation whatsoever, this will let evaluators go a bit more in-depth in their feedback and, in turn, let the Beatmap Nominator learn from their comments. By default BNs will only receive more objective feedback on actual mistakes made.
 
-![](/wiki/shared/news/2024-05-01-the-nat-gazette-june-2024/evaluation-feedback.jpg)
+![](/wiki/shared/news/2024-06-10-the-nat-gazette-june-2024/evaluation-feedback.jpg)
 
 It's important to note that this feature has only been put into place in osu!, and other rulesets will still deliver feedback as they've been doing insofar.
 
