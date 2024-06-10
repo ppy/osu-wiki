@@ -30,7 +30,6 @@
 
 | Team name | Beatmappers | Producers |
 | :-: | :-- | :-- |
-|  |  |  |
 | **Bofa deez nuts** | [-jordan-](https://osu.ppy.sh/users/7288862), [Celektus](https://osu.ppy.sh/users/4294993), [Lusumi](https://osu.ppy.sh/users/7575461) | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/jordan-480162540 "SoundCloud") -jordan-, [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/celektus-1 "SoundCloud") Celektus, [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/artist/6DBUzI6zY7sDLhLFnBD74v "Spotify") Lusumi |
 | **llama go bottom text** | [Phantom-101](https://osu.ppy.sh/users/22512149) | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/@ThatArknightsMusicMan "YouTube") Ziondiac |
 | **Fewf fanclub :3** | [CashiiX](https://osu.ppy.sh/users/27002388), [-nub](https://osu.ppy.sh/users/3701875) | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/EWR4gNGQLgFEBBqPA "SoundCloud") Shyll. |
