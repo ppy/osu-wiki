@@ -30,7 +30,7 @@ This change in perspective means that osu! Beatmap Nominators **will not** be pu
 
 While we may experiment with more changes depending on how things turn out, the direction of letting the community set their own standards will not change.
 
-Do note that this change only affects the osu! ruleset, and other rulesets will still handle evaluations as they've been doing so far.
+Do note that this change only affects the osu! game mode, and other game modes will still handle evaluations as they've been doing so far.
 
 ### Community-wide changes
 
