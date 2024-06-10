@@ -129,8 +129,6 @@ A whole lot of badges related to Beatmap Nominators and the Nomination Assessmen
 
 We've laid them out below along with each recipient so far:
 
-<!-- last update: achyoo, 2024-06-08 -->
-
 | Badge | User |
 | :-- | :-- |
 | ![BN Badge (1 year)](https://assets.ppy.sh/profile-badges/BN1y.png "Longstanding contribution to the Beatmap Nominators - 1 Year") | [-Flashlight-](https://osu.ppy.sh/users/9731062), [-Kazuha](https://osu.ppy.sh/users/29978316), [-Ming-](https://osu.ppy.sh/users/20127755), [-Rei](https://osu.ppy.sh/users/8200707), [-White](https://osu.ppy.sh/users/16276548), [Asagi Mutsuki](https://osu.ppy.sh/users/2403621), [AWMRone](https://osu.ppy.sh/users/10351684), [browiec](https://osu.ppy.sh/users/9426712), [Buschan](https://osu.ppy.sh/users/16505281), [ckharv](https://osu.ppy.sh/users/9967026), [fuhie](https://osu.ppy.sh/users/7620002), [Harbyter](https://osu.ppy.sh/users/1147679), [Heroine](https://osu.ppy.sh/users/12727076), [Hidden is fun](https://osu.ppy.sh/users/10449071), [Kudosu](https://osu.ppy.sh/users/11038155), [maxie](https://osu.ppy.sh/users/6447505), [Maxim-Miau](https://osu.ppy.sh/users/12660835), [MeAqua tete](https://osu.ppy.sh/users/5645691), [Mochi-](https://osu.ppy.sh/users/9312734), [Monoseul](https://osu.ppy.sh/users/16010604), [nanoya](https://osu.ppy.sh/users/12366071), [Nijika Ijichi](https://osu.ppy.sh/users/10964252), [Ryax](https://osu.ppy.sh/users/8949769), [Shad0wStar](https://osu.ppy.sh/users/16866460), [SuzumeAyase](https://osu.ppy.sh/users/14190991), [Ucitysm](https://osu.ppy.sh/users/14768693) |
