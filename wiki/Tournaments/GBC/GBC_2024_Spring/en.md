@@ -31,16 +31,18 @@ The **GB Cup 2024 Spring** (***GBC 2024 Spring***) is an osu!mania 4K point-base
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "playoff stage 1st place") | Profile badge, KanonBot profile badge, *TBA* RMB |
-| ![Silver crown](/wiki/shared/crown-silver.png "playoff stage 2nd place") | KanonBot profile badge, *TBA* RMB |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "playoff stage 3rd place") | KanonBot profile badge, *TBA* RMB |
-| *4th place* | *TBA* RMB |
-| *5th place – 6th place* | *TBA* RMB |
-| *7th place – 8th place* | *TBA* RMB |
-| *9th place – 12th place* | *TBA* RMB |
-| *13th place – 16th place* | *TBA* RMB |
-| *17th place – 24th place* | *TBA* RMB |
-| *Full attendance prize* | KanonBot profile badge (all groups), *TBA* RMB (Group B), *TBA* RMB (Group A), *TBA* RMB (Group S), *TBA* RMB (Group EX) |
+| ![Gold crown](/wiki/shared/crown-gold.png "playoff stage 1st place") | Profile badge, KanonBot profile badge, 130 RMB |
+| ![Silver crown](/wiki/shared/crown-silver.png "playoff stage 2nd place") | KanonBot profile badge, 115 RMB |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "playoff stage 3rd place") | KanonBot profile badge, 100 RMB |
+| *4th place* | 85 RMB |
+| *5th place – 6th place* | 70 RMB |
+| *7th place – 8th place* | 55 RMB |
+| *9th place – 12th place* | 40 RMB |
+| *13th place – 16th place* | 25 RMB |
+| *17th place – 24th place* | 10 RMB |
+| *Full attendance prize* | KanonBot profile badge (all groups), 12 RMB (Group B), 18 RMB (Group A), 24 RMB (Group S), 30 RMB (Group EX) |
+
+![GBC 2024 Spring QQ division winner badge](img/GBC-2024-Spring-badge-QQ-1st.jpg) ![GBC 2023 Autumn Discord division winner badge](img/GBC-2024-Spring-badge-Discord-1st.png)
 
 ## Organisation
 
