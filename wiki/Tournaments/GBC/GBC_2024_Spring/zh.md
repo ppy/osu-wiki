@@ -31,16 +31,18 @@ tags:
 
 | 名次 | 奖励 |
 | :-: | :-- |
-| ![金冠图片](/wiki/shared/crown-gold.png "季后赛冠军") | 主页奖章, 猫猫定制勋章, 待定 RMB |
-| ![银冠图片](/wiki/shared/crown-silver.png "季后赛亚军") | 猫猫定制勋章, 待定 RMB |
-| ![铜冠图片](/wiki/shared/crown-bronze.png "季后赛季军") | 猫猫定制勋章, 待定 RMB |
-| *季后赛第四名* | 待定 RMB |
-| *季后赛第五、六名* | 待定 RMB |
-| *季后赛第七、八名* | 待定 RMB |
-| *季后赛第九至十二名* | 待定 RMB |
-| *季后赛第十三至十六名* | 待定 RMB |
-| *季后赛第十七至二十四名* | 待定 RMB |
-| *常规赛全勤奖* | 猫猫定制勋章, 待定 RMB(B组), 待定 RMB(A组), 待定 RMB(S组), 待定 RMB(EX组) |
+| ![金冠图片](/wiki/shared/crown-gold.png "季后赛冠军") | 主页奖章, 猫猫定制勋章, 130 RMB |
+| ![银冠图片](/wiki/shared/crown-silver.png "季后赛亚军") | 猫猫定制勋章, 115 RMB |
+| ![铜冠图片](/wiki/shared/crown-bronze.png "季后赛季军") | 猫猫定制勋章, 100 RMB |
+| *季后赛第四名* | 85 RMB |
+| *季后赛第五、六名* | 70 RMB |
+| *季后赛第七、八名* | 55 RMB |
+| *季后赛第九至十二名* | 40 RMB |
+| *季后赛第十三至十六名* | 25 RMB |
+| *季后赛第十七至二十四名* | 10 RMB |
+| *常规赛全勤奖* | 猫猫定制勋章, 12 RMB(B组), 18 RMB(A组), 24 RMB(S组), 30 RMB(EX组) |
+
+![GBC 2024 春季赛 QQ 赛区冠军缎带图片](img/GBC-2024-Spring-badge-QQ-1st.png)
 
 ## 工作人员
 
