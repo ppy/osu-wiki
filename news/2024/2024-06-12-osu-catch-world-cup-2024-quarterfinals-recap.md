@@ -30,7 +30,7 @@ Teams had different approaches to the pool this round, as each pick was played a
 
 The osu!catch enjoyers were also spoiled this week, with no less than three [osu! originals](/wiki/osu!_originals) in the mappool. It is a first for the osu!catch World Cup, which at most had two in last year's Grand Finals week. All three of them are of very different styles, so make sure to give them all a listen!
 
-[![](wiki/shared/news/2024-06-12-osu-catch-world-cup-2024-quarterfinals-recap/Culprate_-_Junglist_Acid_osu_Edit_banner.jpg)](https://osu.ppy.sh/beatmapsets/2191197#fruits/4634752)
+[![](/wiki/shared/news/2024-06-12-osu-catch-world-cup-2024-quarterfinals-recap/junglist-acid-banner.jpg)](https://osu.ppy.sh/beatmapsets/2191197#fruits/4634752)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -38,7 +38,7 @@ The osu!catch enjoyers were also spoiled this week, with no less than three [osu
     </audio>
 </div>
 
-[![](wiki/shared/news/2024-06-12-osu-catch-world-cup-2024-quarterfinals-recap/ABSOLUTE_CASTAWAY_-_step_by_step_banner.jpg)](https://osu.ppy.sh/beatmapsets/2191164#fruits/4634684)
+[![](/wiki/shared/news/2024-06-12-osu-catch-world-cup-2024-quarterfinals-recap/step-by-step-banner.jpg)](https://osu.ppy.sh/beatmapsets/2191164#fruits/4634684)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -46,7 +46,7 @@ The osu!catch enjoyers were also spoiled this week, with no less than three [osu
     </audio>
 </div>
 
-[![](wiki/shared/news/2024-06-12-osu-catch-world-cup-2024-quarterfinals-recap/AriableyeS_-_Raison_detre_banner.jpg)](https://osu.ppy.sh/beatmapsets/2191169#fruits/4634698)
+[![](/wiki/shared/news/2024-06-12-osu-catch-world-cup-2024-quarterfinals-recap/raison-detre-banner.jpg)](https://osu.ppy.sh/beatmapsets/2191169#fruits/4634698)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -105,11 +105,11 @@ Poland, the #2 seed, was now in the losers' bracket, while Argentina secured the
 
 The last time Canada and Chile met in CWC was in 2021, and it was quite the encounter. The match went to Tiebreaker and Canada ended up winning 7–6 in the Semifinals, eliminating Chile of the tournament. Both of these teams have had a rough CWC run last year, respectively finishing top 8 and top 12, lower than the previous couple of years. These two rosters this year have the potential to go way further in the tournament than last year, and they're clearly eager to prove it. This time around we got to see them face off in a very heated winners' bracket Quarterfinals match, with a guaranteed top 6 placement on the line.
 
-The match started out strong — the first three picks were back-to-back breakpoints, with two of them being in favour of Canada. They were not intent on keeping up the streak however, as they would win their next pick, [HR2](https://osu.ppy.sh/beatmapsets/2191172#fruits/4634714). That wasn't the case for Chile though, who would end up losing their third pick in a row on [HD2](https://osu.ppy.sh/beatmapsets/2191165#fruits/4634690). Now looking at a 4–1 scoreline in favour of Canada, it seemed as though the match had rapidly slipped out of Chile's hands. Canada only had to win one more pick to secure the tiebreaker and it was their turn to pick, while Chile had to win five maps in a row to avoid it, which they wanted to since Canada was known to be a very strong tiebreaker team. It really looked like it was too much to ask for... or was it?
+The match started out strong — the first three picks were back-to-back breakpoints, with two of them being in favour of Canada. They were not intent on keeping up the streak however, as they would win their next pick, [HR2](https://osu.ppy.sh/beatmapsets/2191172#fruits/4634714). That wasn't the case for Chile though, who would end up losing their third pick in a row on [HD2](https://osu.ppy.sh/beatmapsets/2191165#fruits/4634690). Now looking at a 4–1 scoreline in favour of Canada, it seemed as though the match had rapidly slipped out of Chile's hands. Canada only had to win one more pick to secure the tiebreaker, and it was their turn to pick, while Chile had to win five maps in a row to avoid it, which they wanted to since Canada was known to be a very strong tiebreaker team. It really looked like it was too much to ask for... or was it?
 
 Canada chose to go for [HR3](https://osu.ppy.sh/beatmapsets/2191179#fruits/4634727), but despite an SS from ::{ flag=CA }:: [sularis](https://osu.ppy.sh/users/14571181), Chile would end up getting their first point in the last four maps, thanks to a solid team score and an SS from ::{ flag=CL }:: [Aryssiel](https://osu.ppy.sh/users/2389481). Chile then went for [HD1](https://osu.ppy.sh/beatmapsets/2191164#fruits/4634684), and got an amazing 2.8 million score on this notoriously difficult map, beating the second-best team score of the week on it by around 270,000 points. Now riding the momentum of the previous two maps, confidence was rising in the Chilean team. It was still not the best situation as they were down one breakpoint, but hope was starting to appear.
 
-They had managed to get back to an even 4–4 after being down three points, but there were still several difficult picks ahead of the two teams. On Chile's turn to pick, [NM4](https://osu.ppy.sh/beatmapsets/2191155#fruits/4634667) was chosen — they were dominating most of the map thanks to ::{ flag=CL }:: [Smukur](https://osu.ppy.sh/users/6434318)'s 1-miss run, the best score on the map this week, but Canada recovered almost all their deficit on the map at the very end, ending up in an extremely close 6,566 points difference. Chile had now won four maps in a row in a miraculous turn of events, and it was up to Canada to pick. They finally settled on [DT3](https://osu.ppy.sh/beatmapsets/2191178#fruits/4634726) as the last pick of the match, but Chile prevailed, with an another SS from ::{ flag=CL }:: [Aryssiel](https://osu.ppy.sh/users/2389481), ending the match on a five maps win streak to win 6–4.
+They had managed to get back to an even 4–4 after being down three points, but there were still several difficult picks ahead of the two teams. On Chile's turn to pick, [NM4](https://osu.ppy.sh/beatmapsets/2191155#fruits/4634667) was chosen — they were dominating most of the map thanks to ::{ flag=CL }:: [Smukur](https://osu.ppy.sh/users/6434318)'s 1-miss run, the best score on the map this week, but Canada recovered almost all their deficit on the map at the very end, ending up in an extremely close 6,566 points difference. Chile had now won four maps in a row in a miraculous turn of events, and it was up to Canada to pick. They finally settled on [DT3](https://osu.ppy.sh/beatmapsets/2191178#fruits/4634726) as the last pick of the match, but Chile prevailed, with another SS from ::{ flag=CL }:: [Aryssiel](https://osu.ppy.sh/users/2389481), ending the match on a five maps win streak to win 6–4.
 
 Thanks to that win, Chile secured themselves a spot in the final 6, a result that they didn't achieve since 2020. Canada, on the other hand, will still be competing, and I'm sure are determined to make the most out of that losers' bracket run.
 
