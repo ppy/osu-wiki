@@ -30,7 +30,7 @@ Teams had different approaches to the pool this round, as each pick was played a
 
 The osu!catch enjoyers were also spoiled this week, with no less than three [osu! originals](/wiki/osu!_originals) in the mappool. It is a first for the osu!catch World Cup, which at most had two in last year's Grand Finals week. All three of them are of very different styles, so make sure to give them all a listen!
 
-[![](/news/2024\2024-06-12-osu-catch-world-cup-2024-quarterfinals-recap\Culprate_-_Junglist_Acid_osu_Edit_banner.jpg)](https://osu.ppy.sh/beatmapsets/2191197#fruits/4634752)
+[![](/news/2024/2024-06-12-osu-catch-world-cup-2024-quarterfinals-recap/Culprate_-_Junglist_Acid_osu_Edit_banner.jpg)](https://osu.ppy.sh/beatmapsets/2191197#fruits/4634752)
 
 <div class="osu-md__paragraph">
     <audio controls>
