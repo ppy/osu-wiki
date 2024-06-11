@@ -54,9 +54,9 @@ tags:
 | ![银冠图片](/wiki/shared/crown-silver.png "季后赛亚军") | 6个月osu!支持者 |
 | ![铜冠图片](/wiki/shared/crown-bronze.png "季后赛季军") | 4个月osu!支持者 |
 | *季后赛第四、五、六名* | 10 USD |
-| *季后赛第七至十二名* | 2个月osu!支持者 |
+| *季后赛第七至十二名* | 8 USD |
 | *季后赛第十三至二十四名* | 6 USD |
-| *常规赛全勤奖* | 2 USD(A组), 3 USD(S组), 1个月osu!支持者(EX组) |
+| *常规赛全勤奖* | 2 USD(A组), 3 USD(S组), 4 USD(EX组) |
 
 ![GBC 2024 春季赛 Discord 赛区冠军缎带图片](img/GBC-2024-Spring-badge-Discord-1st.png)
 
