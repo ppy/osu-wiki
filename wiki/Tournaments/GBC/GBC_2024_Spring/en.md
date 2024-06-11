@@ -54,9 +54,9 @@ The **GB Cup 2024 Spring** (***GBC 2024 Spring***) is an osu!mania 4K point-base
 | ![Silver crown](/wiki/shared/crown-silver.png "playoff stage 2nd place") | 6 months supporter |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "playoff stage 3rd place") | 4 months supporter |
 | *4th place – 6th place* | $10 |
-| *7th place – 12th place* | 2 months supporter |
+| *7th place – 12th place* | $8 |
 | *13th place – 24th place* | $6 |
-| *Full attendance prize* | $2 (Group A), $3 (Group S), 1 month supporter (Group EX) |
+| *Full attendance prize* | $2 (Group A), $3 (Group S), $4 (Group EX) |
 
 ![GBC 2024 Spring Discord division winner badge](img/GBC-2024-Spring-badge-Discord-1st.png)
 
