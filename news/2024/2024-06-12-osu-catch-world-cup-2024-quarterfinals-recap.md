@@ -8,8 +8,8 @@ The osu!catch World Cup Quarterfinals concluded, and there are only 12 teams rem
 
 ![](/wiki/Tournaments/CWC/2024/img/cwc2024-banner.jpg)
 
-After everything that happened, only 12 teams remain. Let's take a look at everything that unfolded during this exciting Quarterfinals week!
 As we reach the Semifinals, the tension rises in this year's osu!catch World Cup — more teams are facing elimination, and matches are getting closer. We finally had the first (and only so far) match of this tournament that went to tiebreaker, breaking the curse of the 6–4 World Cup, as well as several upsets and other nail-biters.
+
 ## Mappool showcase
 
 <style>
@@ -90,7 +90,6 @@ If there is one Quarterfinals match that I would recommend everyone to watch, it
 Poland and Argentina are two teams that never met in CWC prior to this encounter. However, they share a common trait — they are both teams that have improved tremendously in recent times, and that are aiming to get their best results ever this year. Since the roster reveals, most people have been expecting to see at least one of these two teams make it to the top 3 this year, and even have the potential to compete in the Grand Finals. Because of that, this was a very hyped matchup, and it clearly did not fail to deliver.
 
 Both teams started by picking maps that you would expect from these rosters — Argentina, being the country with the highest ranked core roster in the tournament, opted for the faster and more difficult mechanical picks of the pool, such as [NM2](https://osu.ppy.sh/beatmapsets/2191189#fruits/4634741), [DT3](https://osu.ppy.sh/beatmapsets/2191178#fruits/4634726), and [HR2](https://osu.ppy.sh/beatmapsets/2191172#fruits/4634714), while Poland abused their strength in HD and unconventional maps, going for [NM3](https://osu.ppy.sh/beatmapsets/2191197#fruits/4634752), [HD3](https://osu.ppy.sh/beatmapsets/2191180#fruits/4634728), and [MM2](https://osu.ppy.sh/community/matches/114207882), which they even three-way FCd. Every pick was successful so far for these two teams, and now looking at the remaining maps and the 3–3 scoreline, the tension was starting to rise.
-
 
 Both teams did not struggle with the difficulty of the pool, making this match about consistency over a skill advantage, which is why a pick strategy was important for both teams. Unfortunately Argentina made the first misstep of the match on their fourth pick — as they started to run out of obvious picks, they went for [HR3](https://osu.ppy.sh/beatmapsets/2191179#fruits/4634727), one of the easier maps in the pool, but Poland prevailed, with an FC from ::{ flag=PL }:: [trig0n](https://osu.ppy.sh/users/3704228), the only one in the lobby and his 4th FC in a row at this point in the match (he would also end up getting an FC on the next two maps, getting an insane streak of six FCs in a row). Poland had now secured the very sought-after breakpoint they needed to win the match, but still needed to win their next two picks. [HD2](https://osu.ppy.sh/beatmapsets/2191165#fruits/4634690) was picked and won, and Argentina pulled through with a three-way FC on [NM1](https://osu.ppy.sh/beatmapsets/2191148#fruits/4634642) against Poland's double FC.
 
