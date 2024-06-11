@@ -9,6 +9,7 @@ The osu!catch World Cup Quarterfinals concluded, and there are only 12 teams rem
 ![](/wiki/Tournaments/CWC/2024/img/cwc2024-banner.jpg)
 
 As we reach the Semifinals, the tension rises in this year's osu!catch World Cup — more teams are facing elimination, and matches are getting closer. We finally had the first (and only so far) match of this tournament that went to tiebreaker, breaking the curse of the 6–4 World Cup, as well as several upsets and other nail-biters.
+
 ## Mappool showcase
 
 <style>
