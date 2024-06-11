@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest: June 2024"
-date: 2024-06-11 07:00:00 +0000
+date: 2024-06-12 07:00:00 +0000
 ---
 
 If you've stared at digital drums or fruits for longer than the average person, you're a perfect fit for this mapping contest. Set your sights on making a top-tier osu!taiko or osu!catch map, then maybe one day you can join the fabled *Elite Mappers*!
@@ -98,7 +98,7 @@ This month's osu!taiko theme is more song-focused: **you must map a song with a 
 A "swing beat" is basically any song that feels like this:
 
 <audio controls>
-    <source src="/wiki/shared/news/2024-06-11-monthly-beatmapping-contest-june-2024/swing.mp3">
+    <source src="/wiki/shared/news/2024-06-12-monthly-beatmapping-contest-june-2024/swing.mp3">
 </audio>
 
 Your song should primarily be this type of rhythm. If only one small section uses this rhythm, a different song may be better. If only one small section does *not* use this rhythm, that's okay!
