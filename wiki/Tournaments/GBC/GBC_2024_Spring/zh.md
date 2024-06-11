@@ -8,7 +8,7 @@ tags:
 
 # GBC 2024 春季赛
 
-![GBC 2023 春季赛 官网横幅图片](img/GBC-2024-Spring-banner.png)
+![GBC 2024 春季赛 官网横幅图片](img/GBC-2024-Spring-banner.png)
 
 **GBC 2024 春季周常活动** (***GB 杯 2024 春季周常活动***) 是由 GB 组织主办的 osu!mania 4K 项目周常积分个人制 赛事。本届比赛是 GBC 系列赛事的第五届正式比赛。
 
@@ -78,6 +78,240 @@ GBC 2024 春季周常活动由 GB 成员和多位社区成员举办。
 | S | ::{ flag=ES }:: [\[AR\]lv3plane](https://osu.ppy.sh/users/15964029), ::{ flag=CN }:: [\[GB\]Aeracy_nya](https://osu.ppy.sh/users/15351355), ::{ flag=CN }:: [\[GB\]Color0](https://osu.ppy.sh/users/31417108), ::{ flag=CN }:: [\[GB\]Cz](https://osu.ppy.sh/users/9191281), ::{ flag=CN }:: [\[GB\]foxy1459](https://osu.ppy.sh/users/14938400), ::{ flag=CN }:: [\[GB\]namelest](https://osu.ppy.sh/users/17812436), ::{ flag=CN }:: [\[GB\]nnk](https://osu.ppy.sh/users/22412151), ::{ flag=CN }:: [\[GB\]nyasunwaifu](https://osu.ppy.sh/users/26031439), ::{ flag=CN }:: [\[GB\]r3uz](https://osu.ppy.sh/users/27583184), ::{ flag=CN }:: [\[GB\]RebirthZZZ](https://osu.ppy.sh/users/24732212), ::{ flag=HK }:: [\[Mom\] xbob](https://osu.ppy.sh/users/18481445), ::{ flag=CN }:: [\[MSC\]Mihari](https://osu.ppy.sh/users/31908691), ::{ flag=ID }:: [_Sakuranomiya](https://osu.ppy.sh/users/13274715), ::{ flag=CN }:: [5is5](https://osu.ppy.sh/users/18161838), ::{ flag=CN }:: [6XvX7](https://osu.ppy.sh/users/33948486), ::{ flag=US }:: [AbstractApple](https://osu.ppy.sh/users/12529613), ::{ flag=CN }:: [Aevli26](https://osu.ppy.sh/users/25520572), ::{ flag=CN }:: [aiyiku](https://osu.ppy.sh/users/20094349), ::{ flag=CN }:: [--Akane--](https://osu.ppy.sh/users/32409794), ::{ flag=CN }:: [AlekRenexA](https://osu.ppy.sh/users/34205111), ::{ flag=CN }:: [ApoLar](https://osu.ppy.sh/users/31309744), ::{ flag=MX }:: [aracnido2](https://osu.ppy.sh/users/9776422), ::{ flag=CN }:: [Ashrood](https://osu.ppy.sh/users/14515994), ::{ flag=VN }:: [Baconway](https://osu.ppy.sh/users/20144046), ::{ flag=PL }:: [-Beajek-](https://osu.ppy.sh/users/12696546), ::{ flag=CN }:: [bili_TYL](https://osu.ppy.sh/users/30993101), ::{ flag=US }:: [BrandenXia](https://osu.ppy.sh/users/33336067), ::{ flag=CN }:: [caster1](https://osu.ppy.sh/users/10647542), ::{ flag=VN }:: [CutieVaxie](https://osu.ppy.sh/users/23666217), ::{ flag=CN }:: [CygnusOz](https://osu.ppy.sh/users/10496581), ::{ flag=CN }:: [DannyXLee](https://osu.ppy.sh/users/13847712), ::{ flag=DE }:: [datnonameboi](https://osu.ppy.sh/users/14217761), ::{ flag=TW }:: [Dereck101026](https://osu.ppy.sh/users/24227143), ::{ flag=US }:: [diamoe](https://osu.ppy.sh/users/16539982), ::{ flag=CN }:: [DJ Sharpnel](https://osu.ppy.sh/users/5132402), ::{ flag=CN }:: [Doshowz](https://osu.ppy.sh/users/5799435), ::{ flag=CN }:: [eatinginging](https://osu.ppy.sh/users/30772410), ::{ flag=CN }:: [Endless fare](https://osu.ppy.sh/users/8580156), ::{ flag=US }:: [ERA Basil](https://osu.ppy.sh/users/7097990), ::{ flag=DK }:: [ERA Cath](https://osu.ppy.sh/users/10202140), ::{ flag=CN }:: [fishbone2445](https://osu.ppy.sh/users/17640814), ::{ flag=CN }:: [Fx_](https://osu.ppy.sh/users/18577201), ::{ flag=CN }:: [Ghost Neko](https://osu.ppy.sh/users/31157409), ::{ flag=CN }:: [grp666](https://osu.ppy.sh/users/30953432), ::{ flag=CN }:: [henry_in_out](https://osu.ppy.sh/users/32494511), ::{ flag=CN }:: [Herb](https://osu.ppy.sh/users/10042715), ::{ flag=TW }:: [hero_jeff](https://osu.ppy.sh/users/3375226), ::{ flag=CN }:: [HIM_01](https://osu.ppy.sh/users/11648582), ::{ flag=CN }:: [Hirasawa Yu1](https://osu.ppy.sh/users/12809702), ::{ flag=HK }:: [Icyyycrem](https://osu.ppy.sh/users/31380427), ::{ flag=VN }:: [jdjueieik](https://osu.ppy.sh/users/29317493), ::{ flag=SE }:: [Johnney101](https://osu.ppy.sh/users/11928361), ::{ flag=CN }:: [jxy768](https://osu.ppy.sh/users/13133142), ::{ flag=TW }:: [kissnolook](https://osu.ppy.sh/users/11608591), ::{ flag=US }:: [kocchii](https://osu.ppy.sh/users/25319951), ::{ flag=CN }:: [Kurayami Nya](https://osu.ppy.sh/users/16463975), ::{ flag=CN }:: [Kyiss](https://osu.ppy.sh/users/15515932), ::{ flag=DE }:: [Leinadix](https://osu.ppy.sh/users/13554099), ::{ flag=ES }:: [Litrowo](https://osu.ppy.sh/users/21423715), ::{ flag=CN }:: [Lolp-cn](https://osu.ppy.sh/users/32542370), ::{ flag=CN }:: [MidRed](https://osu.ppy.sh/users/17641994), ::{ flag=CN }:: [Mito Van](https://osu.ppy.sh/users/14703345), ::{ flag=CN }:: [Mon3tr_Miku](https://osu.ppy.sh/users/16639726), ::{ flag=CN }:: [Mooos](https://osu.ppy.sh/users/13788556), ::{ flag=CN }:: [Mrkkm](https://osu.ppy.sh/users/16262342), ::{ flag=CN }:: [MSOP5](https://osu.ppy.sh/users/30816820), ::{ flag=PH }:: [My Angel Selen](https://osu.ppy.sh/users/19481261), ::{ flag=CN }:: [Myon_](https://osu.ppy.sh/users/16626025), ::{ flag=CN }:: [Myon_299792458](https://osu.ppy.sh/users/27074502), ::{ flag=VN }:: [ninprodeptrai](https://osu.ppy.sh/users/27164312), ::{ flag=CN }:: [nyabye114514](https://osu.ppy.sh/users/32697075), ::{ flag=CN }:: [oid45](https://osu.ppy.sh/users/27710732), ::{ flag=CN }:: [Old Pigeon](https://osu.ppy.sh/users/26116770), ::{ flag=HK }:: [oooiiaaoooiiaa](https://osu.ppy.sh/users/31831043), ::{ flag=CN }:: [Ovie](https://osu.ppy.sh/users/14491086), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=CN }:: [qlchedan](https://osu.ppy.sh/users/15522107), ::{ flag=CN }:: [queyue](https://osu.ppy.sh/users/30642543), ::{ flag=CN }:: [RealF233](https://osu.ppy.sh/users/10363216), ::{ flag=MY }:: [RhythmBoii](https://osu.ppy.sh/users/18484917), ::{ flag=CN }:: [RichadoWonosas](https://osu.ppy.sh/users/6841052), ::{ flag=CN }:: [sakura XF](https://osu.ppy.sh/users/16298392), ::{ flag=CN }:: [sarc6o9](https://osu.ppy.sh/users/23135250), ::{ flag=CN }:: [SCI_Scale](https://osu.ppy.sh/users/25988344), ::{ flag=CN }:: [SHABEST](https://osu.ppy.sh/users/18756838), ::{ flag=CN }:: [sHIROHA-v-](https://osu.ppy.sh/users/20836163), ::{ flag=CN }:: [ShmentLife](https://osu.ppy.sh/users/14727318), ::{ flag=SG }:: [skythedumbdumb](https://osu.ppy.sh/users/21749745), ::{ flag=CN }:: [SomnusM Fanboy](https://osu.ppy.sh/users/23700738), ::{ flag=CN }:: [Spoonwhite](https://osu.ppy.sh/users/32075233), ::{ flag=CN }:: [Starfeather2007](https://osu.ppy.sh/users/25502203), ::{ flag=CN }:: [SuoMeng](https://osu.ppy.sh/users/15617388), ::{ flag=JP }:: [syo73](https://osu.ppy.sh/users/14495182), ::{ flag=CN }:: [Tair itsu](https://osu.ppy.sh/users/34056597), ::{ flag=CN }:: [THE ERAa](https://osu.ppy.sh/users/33367316), ::{ flag=CN }:: [ThinkingPigeon](https://osu.ppy.sh/users/30638731), ::{ flag=MX }:: [tochi](https://osu.ppy.sh/users/13875577), ::{ flag=CN }:: [Ty8669](https://osu.ppy.sh/users/12986326), ::{ flag=VN }:: [veriff](https://osu.ppy.sh/users/24494842), ::{ flag=TW }:: [vvvxx](https://osu.ppy.sh/users/30220646), ::{ flag=CN }:: [Wafarm](https://osu.ppy.sh/users/17675077), ::{ flag=CN }:: [wdq20041230](https://osu.ppy.sh/users/16560456), ::{ flag=CN }:: [weilai0121](https://osu.ppy.sh/users/32596132), ::{ flag=GB }:: [-XxbluezaperxX-](https://osu.ppy.sh/users/12264218), ::{ flag=CN }:: [yeyushiniuma](https://osu.ppy.sh/users/32521004), ::{ flag=TW }:: [yomeow](https://osu.ppy.sh/users/8617176), ::{ flag=CN }:: [Yozomi](https://osu.ppy.sh/users/11144284), ::{ flag=CN }:: [z7z2z0](https://osu.ppy.sh/users/10810775), ::{ flag=CN }:: [zhanqiu](https://osu.ppy.sh/users/28521544) |
 | A | ::{ flag=CN }:: [\[AR\]bfdgbzfhs](https://osu.ppy.sh/users/29105204), ::{ flag=CN }:: [\[GB\]ReMILia](https://osu.ppy.sh/users/18334226), ::{ flag=CN }:: [\[HD\]\[FG\]Latte](https://osu.ppy.sh/users/29854899), ::{ flag=TW }:: [\[Sick\]LooM](https://osu.ppy.sh/users/4694429), ::{ flag=CN }:: [157xiaobing](https://osu.ppy.sh/users/16699228), ::{ flag=HK }:: [aabc271](https://osu.ppy.sh/users/155707), ::{ flag=CN }:: [ArorauOvO](https://osu.ppy.sh/users/32342011), ::{ flag=CN }:: [AsahinaMikuru](https://osu.ppy.sh/users/25696729), ::{ flag=CN }:: [ATOM_Lubover](https://osu.ppy.sh/users/33866666), ::{ flag=CN }:: [Auto is fun](https://osu.ppy.sh/users/20850125), ::{ flag=TW }:: [blacktea12](https://osu.ppy.sh/users/13389861), ::{ flag=TW }:: [bobfish0615](https://osu.ppy.sh/users/25292262), ::{ flag=US }:: [BozMagic](https://osu.ppy.sh/users/11664318), ::{ flag=CN }:: [Catt1eya](https://osu.ppy.sh/users/8781173), ::{ flag=CN }:: [codenitro](https://osu.ppy.sh/users/32648806), ::{ flag=CN }:: [crazy438](https://osu.ppy.sh/users/11305932), ::{ flag=CN }:: [dandai](https://osu.ppy.sh/users/20156332), ::{ flag=CN }:: [EGOlilith](https://osu.ppy.sh/users/17998765), ::{ flag=CZ }:: [ERA Yuh](https://osu.ppy.sh/users/16978354), ::{ flag=CN }:: [fivlier](https://osu.ppy.sh/users/14926274), ::{ flag=CN }:: [FlowersXD](https://osu.ppy.sh/users/30255001), ::{ flag=CN }:: [frankgh3](https://osu.ppy.sh/users/14917119), ::{ flag=CN }:: [ghost copy](https://osu.ppy.sh/users/19018714), ::{ flag=CN }:: [HalcyR](https://osu.ppy.sh/users/14390086), ::{ flag=CN }:: [HananoKanade_](https://osu.ppy.sh/users/33727604), ::{ flag=CN }:: [herfilex](https://osu.ppy.sh/users/17468554), ::{ flag=GB }:: [InstaKill195](https://osu.ppy.sh/users/28993045), ::{ flag=CN }:: [ItzSocn](https://osu.ppy.sh/users/13971632), ::{ flag=CN }:: [Jilingfeng](https://osu.ppy.sh/users/18496816), ::{ flag=CN }:: [KitoriQAQ](https://osu.ppy.sh/users/28653364), ::{ flag=US }:: [KJS_Official](https://osu.ppy.sh/users/30897006), ::{ flag=CN }:: [KomeijiSatori_](https://osu.ppy.sh/users/16934721), ::{ flag=VN }:: [Krystal Quan](https://osu.ppy.sh/users/20569104), ::{ flag=CN }:: [kuranado](https://osu.ppy.sh/users/26253810), ::{ flag=CN }:: [Kurosaki0000](https://osu.ppy.sh/users/14445414), ::{ flag=CN }:: [Land_ER](https://osu.ppy.sh/users/23134751), ::{ flag=JP }:: [Layfolk](https://osu.ppy.sh/users/28495605), ::{ flag=CN }:: [LightingT](https://osu.ppy.sh/users/34739432), ::{ flag=CN }:: [Lipcu](https://osu.ppy.sh/users/21209768), ::{ flag=CN }:: [Lzq12345](https://osu.ppy.sh/users/15012640), ::{ flag=CN }:: [Mazowo](https://osu.ppy.sh/users/16192279), ::{ flag=CN }:: [miaoneiqwq](https://osu.ppy.sh/users/29653535), ::{ flag=DE }:: [MisakuraRin](https://osu.ppy.sh/users/32831399), ::{ flag=CN }:: [MiTyRAin](https://osu.ppy.sh/users/24724412), ::{ flag=CN }:: [mizipa](https://osu.ppy.sh/users/16233573), ::{ flag=CN }:: [mizuku39](https://osu.ppy.sh/users/28588980), ::{ flag=CN }:: [MyAngelNagato](https://osu.ppy.sh/users/32812937), ::{ flag=CN }:: [nmksssd](https://osu.ppy.sh/users/34278014), ::{ flag=CN }:: [Not Softing](https://osu.ppy.sh/users/13267445), ::{ flag=CN }:: [NotepaOwO](https://osu.ppy.sh/users/15073838), ::{ flag=PH }:: [Oneshot Niko](https://osu.ppy.sh/users/28288858), ::{ flag=PH }:: [pocholoceria](https://osu.ppy.sh/users/16452229), ::{ flag=US }:: [Prongle](https://osu.ppy.sh/users/16884064), ::{ flag=CN }:: [qiufeng_xz](https://osu.ppy.sh/users/20813415), ::{ flag=CN }:: [-Rainplz-](https://osu.ppy.sh/users/17312522), ::{ flag=CN }:: [rainwindy](https://osu.ppy.sh/users/29722362), ::{ flag=CN }:: [RainYuYu](https://osu.ppy.sh/users/23115362), ::{ flag=CN }:: [ReanimateS](https://osu.ppy.sh/users/6476722), ::{ flag=US }:: [rgssss](https://osu.ppy.sh/users/32942712), ::{ flag=CN }:: [Roidt](https://osu.ppy.sh/users/32840919), ::{ flag=CN }:: [ruler](https://osu.ppy.sh/users/31497468), ::{ flag=CN }:: [SCAF](https://osu.ppy.sh/users/16435804), ::{ flag=CN }:: [ShaDiaoWanJia](https://osu.ppy.sh/users/14613519), ::{ flag=CN }:: [Shiroomo](https://osu.ppy.sh/users/34384033), ::{ flag=CN }:: [Shu1J1ao](https://osu.ppy.sh/users/32066925), ::{ flag=CN }:: [sliverbell](https://osu.ppy.sh/users/26234494), ::{ flag=CN }:: [SRAIO](https://osu.ppy.sh/users/28668719), ::{ flag=PH }:: [Tataeakosab](https://osu.ppy.sh/users/30220787), ::{ flag=CN }:: [UMA TTB](https://osu.ppy.sh/users/31300098), ::{ flag=CN }:: [WELUVMYUKA](https://osu.ppy.sh/users/29949157), ::{ flag=CN }:: [WhiteTenshi](https://osu.ppy.sh/users/14113088), ::{ flag=CN }:: [Whleave](https://osu.ppy.sh/users/14377700), ::{ flag=CN }:: [X1aozhuzi](https://osu.ppy.sh/users/31964216), ::{ flag=CN }:: [YD_L](https://osu.ppy.sh/users/34073808), ::{ flag=CN }:: [yem sky](https://osu.ppy.sh/users/10588209), ::{ flag=CN }:: [yukinaoto](https://osu.ppy.sh/users/25359418), ::{ flag=CN }:: [Zhangyu Sans](https://osu.ppy.sh/users/15624611), ::{ flag=CN }:: [Zrc_2796](https://osu.ppy.sh/users/29837830), ::{ flag=CN }:: [zuiederen](https://osu.ppy.sh/users/29720958) |
 | B | ::{ flag=CN }:: [\[GB\]YooLi](https://osu.ppy.sh/users/11073130), ::{ flag=CN }:: [\[SG\]Gollum](https://osu.ppy.sh/users/28101286), ::{ flag=CN }:: [blue ach](https://osu.ppy.sh/users/30930362), ::{ flag=CN }:: [Cirno_Mokou](https://osu.ppy.sh/users/11828531), ::{ flag=TW }:: [CuibMu](https://osu.ppy.sh/users/27996880), ::{ flag=CN }:: [Cup of Chino](https://osu.ppy.sh/users/31936448), ::{ flag=CN }:: [DariusKing](https://osu.ppy.sh/users/16802306), ::{ flag=CN }:: [Dinzgi_75](https://osu.ppy.sh/users/25221460), ::{ flag=CN }:: [-duji-](https://osu.ppy.sh/users/33554103), ::{ flag=CN }:: [erlong](https://osu.ppy.sh/users/9533770), ::{ flag=CN }:: [Fomurz](https://osu.ppy.sh/users/26883256), ::{ flag=CN }:: [Gerry996](https://osu.ppy.sh/users/17268723), ::{ flag=CN }:: [GLsaikou](https://osu.ppy.sh/users/34023297), ::{ flag=CN }:: [Hasakyu](https://osu.ppy.sh/users/33538766), ::{ flag=CN }:: [IloveElaina](https://osu.ppy.sh/users/33350096), ::{ flag=HK }:: [Jerry7720](https://osu.ppy.sh/users/28408419), ::{ flag=CN }:: [JFYS](https://osu.ppy.sh/users/31160317), ::{ flag=CN }:: [jiu_xiao_233](https://osu.ppy.sh/users/15245175), ::{ flag=CN }:: [JKunkc](https://osu.ppy.sh/users/22593541), ::{ flag=CN }:: [jxyyyds](https://osu.ppy.sh/users/33847826), ::{ flag=CN }:: [kkry](https://osu.ppy.sh/users/15579806), ::{ flag=CN }:: [Liyuu_0109](https://osu.ppy.sh/users/21573458), ::{ flag=ES }:: [Lofro_old](https://osu.ppy.sh/users/17781391), ::{ flag=CN }:: [lyz12357](https://osu.ppy.sh/users/25314333), ::{ flag=CN }:: [M115b](https://osu.ppy.sh/users/25985838), ::{ flag=JP }:: [makimakia01](https://osu.ppy.sh/users/34795682), ::{ flag=CN }:: [meguimi](https://osu.ppy.sh/users/34759995), ::{ flag=CN }:: [mfsOvO](https://osu.ppy.sh/users/35500715), ::{ flag=CN }:: [Mochinaga_Yuna](https://osu.ppy.sh/users/18296803), ::{ flag=CN }:: [Nana Sakura](https://osu.ppy.sh/users/32452774), ::{ flag=CN }:: [QUABS](https://osu.ppy.sh/users/14844747), ::{ flag=CN }:: [QwQu](https://osu.ppy.sh/users/13579544), ::{ flag=CN }:: [Renshey](https://osu.ppy.sh/users/14265994), ::{ flag=CN }:: [renyu2018](https://osu.ppy.sh/users/33620269), ::{ flag=CN }:: [RianbowR](https://osu.ppy.sh/users/16391793), ::{ flag=CN }:: [Sakse](https://osu.ppy.sh/users/29808332), ::{ flag=CN }:: [shintaro_K](https://osu.ppy.sh/users/28165564), ::{ flag=CN }:: [SScharaQWQ](https://osu.ppy.sh/users/30560197), ::{ flag=CN }:: [tc99de](https://osu.ppy.sh/users/29863273), ::{ flag=CN }:: [TeioSanae](https://osu.ppy.sh/users/24385047), ::{ flag=CN }:: [Want-a-name](https://osu.ppy.sh/users/32901661), ::{ flag=HK }:: [wenshake](https://osu.ppy.sh/users/17492494), ::{ flag=CN }:: [wsopwnb](https://osu.ppy.sh/users/33996813), ::{ flag=CN }:: [XiHiZhAXX](https://osu.ppy.sh/users/34427865), ::{ flag=CN }:: [xue___yuan](https://osu.ppy.sh/users/33152155), ::{ flag=US }:: [yeeterboi135](https://osu.ppy.sh/users/25283583), ::{ flag=CN }:: [yinyouzha](https://osu.ppy.sh/users/13846741) |
+
+## 领奖台
+
+本届赛事已经结束，下面的两个赛区各三位选手登上了领奖台：
+
+### QQ 赛区
+
+| 名次 | 选手 |
+| :-: | :-- |
+| ![金冠图片](/wiki/shared/crown-gold.png "1st place") | nyasunfanboy |
+| ![银冠图片](/wiki/shared/crown-silver.png "2nd place") | [GB]ParasolTree |
+| ![铜冠图片](/wiki/shared/crown-bronze.png "3rd place") | [Crz]ChenXi |
+
+### Discord 赛区
+
+| 名次 | 选手 |
+| :-: | :-- |
+| ![金冠图片](/wiki/shared/crown-gold.png "1st place") | grillroasted |
+| ![银冠图片](/wiki/shared/crown-silver.png "2nd place") | --Pavin-- |
+| ![铜冠图片](/wiki/shared/crown-bronze.png "3rd place") | konkawe |
+
+## 赛果
+
+### QQ 赛区
+
+#### 总决赛
+
+本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTXVYY2RBa1FyTlp2?tab=us73is)查看。
+
+2024 年 6 月 8 日，星期六
+
+| 选手 A |  |  | 选手 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **[GB]ParasolTree** | **7** | 3 | [Crz]ChenXi | [#1](https://osu.ppy.sh/community/matches/114206454) |
+
+2024 年 6 月 9 日，星期日
+
+| 选手 A |  |  | 选手 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| nyasunfanboy | 6 | **7** | **[GB]ParasolTree** | [#1](https://osu.ppy.sh/community/matches/114221259) |
+| [GB]ParasolTree | 6 | **7** | **nyasunfanboy** | [#1](https://osu.ppy.sh/community/matches/114221994) |
+
+#### 决赛
+
+本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTXVYY2RBa1FyTlp2?tab=rszoi2)查看。
+
+2024 年 6 月 1 日，星期六
+
+| 选手 A |  |  | 选手 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **LiangFenFan** | **7** | 2 | Mantozi | [#1](https://osu.ppy.sh/community/matches/114114983) |
+| **[Crz]ChenXi** | **7** | 2 | [Crz]Xinyi2016 | [#1](https://osu.ppy.sh/community/matches/114115583) |
+
+2024 年 6 月 2 日，星期日
+
+| 选手 A |  |  | 选手 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| [GB]ParasolTree | 5 | **7** | **nyasunfanboy** | [#1](https://osu.ppy.sh/community/matches/114130133) |
+| **[Crz]ChenXi** | **7** | 2 | LiangFenFan | [#1](https://osu.ppy.sh/community/matches/114130947) |
+
+#### 半决赛
+
+本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTXVYY2RBa1FyTlp2?tab=ophavc)查看。
+
+2024 年 5 月 24 日，星期五
+
+| 选手 A |  |  | 选手 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **-fm777-** | **6** | 3 | [GB]mmttyy233 | [#1](https://osu.ppy.sh/community/matches/114008712) |
+| **nyasunfanboy** | **6** | 2 | [Crz]ChenXi | [#1](https://osu.ppy.sh/community/matches/114008877) |
+| **[Crz]Xinyi2016** | **6** | 1 | Kirchhoff123 | [#1](https://osu.ppy.sh/community/matches/114009216) |
+
+2024 年 5 月 25 日，星期六
+
+| 选手 A |  |  | 选手 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **Mantozi** | **6** | 4 | [Crz]Isxl | [#1](https://osu.ppy.sh/community/matches/114019877) |
+| Para39 | 5 | **6** | **Akermo** | [#1](https://osu.ppy.sh/community/matches/114022878) |
+| **[Crz]Xinyi2016** | **6** | 2 | -fm777- | [#1](https://osu.ppy.sh/community/matches/114022963) |
+
+2024 年 5 月 26 日，星期日
+
+| 选手 A |  |  | 选手 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| Akermo | 2 | **6** | **Mantozi** | [#1](https://osu.ppy.sh/community/matches/114035693) |
+| **[GB]ParasolTree** | **6** | 5 | LiangFenFan | [#1](https://osu.ppy.sh/community/matches/114037768) |
+
+#### 四分之一决赛
+
+本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTXVYY2RBa1FyTlp2?tab=j9vlga)查看。
+
+2024 年 5 月 14 日，星期二
+
+| 选手 A |  |  | 选手 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| CaptainLan | 4 | **6** | **Mizum** | [#1](https://osu.ppy.sh/community/matches/113878936) |
+
+2024 年 5 月 17 日，星期五
+
+| 选手 A |  |  | 选手 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| vanposen | 2 | **6** | **Shenzouz** | [#1](https://osu.ppy.sh/community/matches/113913250) |
+| **nyasunfanboy** | **6** | 3 | Mantozi | [#1](https://osu.ppy.sh/community/matches/113913618) |
+
+2024 年 5 月 18 日，星期六
+
+| 选手 A |  |  | 选手 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **[Crz]ChenXi** | **6** | 3 | Para39 | [#1](https://osu.ppy.sh/community/matches/113926261) |
+| Ymir131 | 2 | **6** | **[GB]mmttyy233** | [#1](https://osu.ppy.sh/community/matches/113927008) |
+| H1mawari | 4 | **6** | **SilentParleHorn** | [#1](https://osu.ppy.sh/community/matches/113928822) |
+| nobder | 4 | **6** | **Akermo** | [#1](https://osu.ppy.sh/community/matches/113929301) |
+| **[GB]mmttyy233** | **6** | 2 | SilentParleHorn | [#1](https://osu.ppy.sh/community/matches/113929476) |
+| **Kirchhoff123** | **6** | 4 | [Crz]Ha0201 | [#1](https://osu.ppy.sh/community/matches/113930294) |
+| hhde233 | 0 | **6** | **[Crz]IsxI** | [#1](https://osu.ppy.sh/community/matches/113930980) |
+
+2024 年 5 月 19 日，星期日
+
+| 选手 A |  |  | 选手 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **My Angel Noelle** | **6** | 3 | [GB]QAQlingjiu | [#1](https://osu.ppy.sh/community/matches/113943232) |
+| **Akermo** | **6** | 3 | My Angel Noelle | [#1](https://osu.ppy.sh/community/matches/113944797) |
+| **[Crz]IsxI** | **6** | 3 | Shenzouz | [#1](https://osu.ppy.sh/community/matches/113944992) |
+| **[GB]ParasolTree** | **6** | 1 | -fm777- | [#1](https://osu.ppy.sh/community/matches/113945115) |
+| **LiangFenFan** | **6** | 0 | [Crz]Xinyi2016 | [#1](https://osu.ppy.sh/community/matches/113946816) |
+| **Kirchhoff123** | **6** | 3 | Mizum | [#1](https://osu.ppy.sh/community/matches/113948262) |
+
+### Discord 赛区
+
+#### 总决赛
+
+本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTXVYY2RBa1FyTlp2?tab=us73is)查看。
+
+2024 年 6 月 8 日，星期六
+
+| 选手 A |  |  | 选手 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| konkawe | 3 | **7** | **grillroasted** | [#1](https://osu.ppy.sh/community/matches/114207761) |
+
+2024 年 6 月 9 日，星期日
+
+| 选手 A |  |  | 选手 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| --Pavin-- | 2 | **7** | **grillroasted** | [#1](https://osu.ppy.sh/community/matches/114223136) |
+| **grillroasted** | **7** | 2 | --Pavin-- | [#1](https://osu.ppy.sh/community/matches/114224021) |
+
+#### 决赛
+
+本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTXVYY2RBa1FyTlp2?tab=rszoi2)查看。
+
+2024 年 6 月 1 日，星期六
+
+| 选手 A |  |  | 选手 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| konkawe | 4 | **7** | **--Pavin--** | [#1](https://osu.ppy.sh/community/matches/114113509) |
+| bad hd player | 4 | **7** | **grillroasted** | [#1](https://osu.ppy.sh/community/matches/114116453) |
+| Netroo | 2 | **7** | **[LS]Icetify** | [#1](https://osu.ppy.sh/community/matches/114117131) |
+
+2024 年 6 月 2 日，星期日
+
+| 选手 A |  |  | 选手 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **grillroasted** | **7** | 3 | [LS]Icetify | [#1](https://osu.ppy.sh/community/matches/114132651) |
+
+#### 半决赛
+
+本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTXVYY2RBa1FyTlp2?tab=ophavc)查看。
+
+2024 年 5 月 25 日，星期六
+
+| 选手 A |  |  | 选手 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| parponger | 2 | **6** | **[LS]bambi fnf** | [#1](https://osu.ppy.sh/community/matches/114018245) |
+| **[LS]Icetify** | **6** | 2 | PocaFanboy | [#1](https://osu.ppy.sh/community/matches/114021590) |
+| ICECAKE | 0 | **6** | **grillroasted** | [#1](https://osu.ppy.sh/community/matches/114023787) |
+| **JayLye** | **6** | 2 | MyAngelKokomi | [#1](https://osu.ppy.sh/community/matches/114024770) |
+
+2024 年 5 月 26 日，星期日
+
+| 选手 A |  |  | 选手 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **--Pavin--** | **6** | 1 | bad hd player | [#1](https://osu.ppy.sh/community/matches/114035359) |
+| **grillroasted** | **6** | 1 | JayLye | [#1](https://osu.ppy.sh/community/matches/114037134) |
+| **konkawe** | **6** | 1 | Netroo | [#1](https://osu.ppy.sh/community/matches/114039898) |
+
+2024 年 5 月 28 日，星期二
+
+| 选手 A |  |  | 选手 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **[LS]Icetify** | **6** | 4 | [LS]bambi fnf | [#1](https://osu.ppy.sh/community/matches/114059297) |
+
+#### 四分之一决赛
+
+本轮比赛的详细数据统计可以于[这里](https://docs.qq.com/sheet/DTXVYY2RBa1FyTlp2?tab=j9vlga)查看。
+
+2024 年 5 月 17 日，星期五
+
+| 选手 A |  |  | 选手 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| TheOPmeme | 1 | **6** | **Chicken Sammy** | [#1](https://osu.ppy.sh/community/matches/113923236) |
+
+2024 年 5 月 18 日，星期六
+
+| 选手 A |  |  | 选手 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| ElzeFanBoy | 4 | **6** | **MyAngelKokomi** | [#1](https://osu.ppy.sh/community/matches/113924249) |
+| **oyama mahiro** | **6** | 3 | Darkhechiser | [#1](https://osu.ppy.sh/community/matches/113924923) |
+| **bad hd player** | **6** | 4 | [LS]Icetify | [#1](https://osu.ppy.sh/community/matches/113926316) |
+| **Netroo** | **6** | 1 | ICECAKE | [#1](https://osu.ppy.sh/community/matches/113931245) |
+| **--Pavin--** | **6** | 1 | parponger | [#1](https://osu.ppy.sh/community/matches/113931691) |
+| Unitori- | 1 | **6** | **PocaFanboy** | [#1](https://osu.ppy.sh/community/matches/113931950) |
+| Tonels | 4 | **6** | **Rxizuna** | [#1](https://osu.ppy.sh/community/matches/113933257) |
+| ERA Sunny | 2 | **6** | **grillroasted** | [#1](https://osu.ppy.sh/community/matches/113933244) |
+| bagjettka | 5 | **6** | **[LS]bambi fnf** | [#1](https://osu.ppy.sh/community/matches/113936461) |
+
+2024 年 5 月 19 日，星期日
+
+| 选手 A |  |  | 选手 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| Pocafangirl | 4 | **6** | **Pocafanboyfan** | [#1](https://osu.ppy.sh/community/matches/113942781) |
+| **grillroasted** | **6** | 2 | Pocafanboyfan | [#1](https://osu.ppy.sh/community/matches/113944041) |
+| **konkawe** | **6** | 0 | JayLye | [#1](https://osu.ppy.sh/community/matches/113947079) |
+| oyama mahiro | 4 | **6** | **MyAngelKokomi** | [#1](https://osu.ppy.sh/community/matches/113950712) |
+| **[LS]bambi fnf** | **6** | 1 | Chicken Sammy | [#1](https://osu.ppy.sh/community/matches/113955398) |
+
+2024 年 5 月 20 日，星期一
+
+| 选手 A |  |  | 选手 B | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| Rxizuna | 0 | **6** | **PocaFanboy** | [#1](https://osu.ppy.sh/community/matches/113960932) |
+
+### 常规赛
+
+由于选手和场次非常多，将使用 **[赛事信息表格](https://docs.qq.com/sheet/DTXVYY2RBa1FyTlp2?tab=v49su1)** 呈现赛果。
 
 ## 规则
 
