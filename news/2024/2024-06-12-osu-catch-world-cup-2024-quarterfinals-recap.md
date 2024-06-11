@@ -46,7 +46,7 @@ The osu!catch enjoyers were also spoiled this week, with no less than three [osu
     </audio>
 </div>
 
-[![](/news/2024\2024-06-12-osu-catch-world-cup-2024-quarterfinals-recap\AriableyeS_-_Raison_detre_banner.jpg)](https://osu.ppy.sh/beatmapsets/2191169#fruits/4634698)
+[![](/news/2024/2024-06-12-osu-catch-world-cup-2024-quarterfinals-recap/AriableyeS_-_Raison_detre_banner.jpg)](https://osu.ppy.sh/beatmapsets/2191169#fruits/4634698)
 
 <div class="osu-md__paragraph">
     <audio controls>
