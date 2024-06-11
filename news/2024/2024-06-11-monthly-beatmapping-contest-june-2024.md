@@ -57,9 +57,13 @@ Send some appreciation to [arcpotato](https://osu.ppy.sh/users/12842392), [meiqt
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/RTuIWL6BQXY" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Thanks to [Morusya](https://osu.ppy.sh/users/13681464), [wwwww](https://osu.ppy.sh/users/8434466), [fayew](https://osu.ppy.sh/users/12498861), and [Mniam](https://osu.ppy.sh/users/6050530) for judging these maps!
+5 years ago, [Xinnoh](https://osu.ppy.sh/users/4236057) was the last osu!catch mapper to earn the *Elite Mapper* title.
 
-We'd also like to point out [Unlucky_w](https://osu.ppy.sh/users/4820793)'s incredible feat: **placing 1st in *3 contests* in a row!** If anyone's deserving of the *Elite Mapper* title, it's surely them.
+Today, that streak of silence is broken.
+
+[Unlucky_w](https://osu.ppy.sh/users/4820793) accomplished an incredible feat: **placing 1st in *three contests* in a row!** welcome osu!catch's newest *Elite Mapper*!
+
+And thanks to [Morusya](https://osu.ppy.sh/users/13681464), [wwwww](https://osu.ppy.sh/users/8434466), [fayew](https://osu.ppy.sh/users/12498861), and [Mniam](https://osu.ppy.sh/users/6050530) for judging these maps!
 
 ## Game modes
 
@@ -97,19 +101,29 @@ A "swing beat" is basically any song that feels like this:
     <source src="/wiki/shared/news/2024-06-11-monthly-beatmapping-contest-june-2024/swing.mp3">
 </audio>
 
+Your song should primarily be this type of rhythm. If only one small section uses this rhythm, a different song may be better. If only one small section does *not* use this rhythm, that's okay!
+
 If you're unsure if a song fits the theme, [ask Hivie](https://osu.ppy.sh/community/chat?sendto=14102976), since he chose this theme! And of course, keep in mind that all [songs for the Monthly Beatmapping Contest](#songs) must be part of [osu!'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists)!
 
 #### osu!catch
 
-While osu!taiko has dropped slider velocity gimmicks, they had to go somewhere.
+**Two limitations** have made their way to osu!catch this month:
 
-This month's osu!catch limitation: **slider velocity changes are not allowed.**
+1. **Circle size must be 2 or lower.**
+2. **Your song must be 100 BPM or lower.**
+
+As a starting point, feel free to check through [this list](https://osu.ppy.sh/beatmaps/artists/tracks?bpm[lte]=100)! The song should be *primarily* 100 BPM or lower, so 10 seconds of 90 BPM + 3 minutes of 174 BPM won't cut it.
+
+And again, if you're unsure if your song fits this restriction, [spam Kimitakari](https://osu.ppy.sh/community/chat?sendto=4741164)! 
 
 ### Songs
 
 Any song listed on [osu!'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) is eligible for this contest. Cutting songs is allowed too!
 
-And of course, for osu!taiko, the song must have a swing beat.
+As part of the [limitations/themes](#limitation/theme) mentioned above, each mode has its own additional song requirements:
+
+- [**osu!taiko:**](#osu!taiko) song must primarily have a swing beat
+- [**osu!catch:**](#osu!catch) song must be 100 BPM or lower
 
 ## Rewards
 
@@ -132,8 +146,8 @@ Additionally, a [**Mappers' Guild keychain**](/wiki/shared/news/2023-08-29-chang
 
 - **Submissions must follow the month's beatmapping [limitation/theme](#limitation/theme):**
   - **osu!taiko:** you must map a song with a swing beat
-  - **osu!catch:** slider velocity changes are not allowed
-- **Submissions must be a single difficulty from one of the month's [selected songs](#songs).** If you're creating an osu!taiko map, keep [the theme](#limitationtheme) in mind!
+  - **osu!catch:** circle size must be 2 or lower *and* your song must be 100 BPM or lower
+- **Submissions must be a single difficulty from one of the month's [selected songs](#songs).** For both modes, keep [the limitation/theme](#limitation/theme) in mind!
 - **Submissions must be in `.osz` format.**
 - **Submissions must NOT be uploaded to the osu! website until after the contest's results are finalised.**
 - **Submissions must abide by the [ranking criteria](/wiki/Ranking_criteria).**
