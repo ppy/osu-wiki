@@ -4,7 +4,7 @@
 
 I mappatori sono in grado di dichiarare se il contenuto della loro beatmap è *esplicito* cliccando la casella 'Contenuto Esplicito' che si trova nel [menu genere e lingua](/wiki/Beatmap/Genre_and_language) nella lista web della beatmap corrispondente. Questa funzionalità ha alcune aspettative e regole che ne regolano l'utilizzo.
 
-Indipendentemente dalla natura dell'audio, assicurati che sia conforme anche alle [regole generali sui contenuti dei brani](/wiki/Rules/Song_content_rule).
+Indipendentemente dalla natura dell'audio, assicurati che sia conforme anche alle [regole generali sui contenuti dei brani](/wiki/Rules/Song_content_rules).
 
 ## Cosa conta come contenuto esplicito?
 
