@@ -233,6 +233,6 @@ Important to understand before using:
 
 ## Notes
 
-[^maximum-dimensions]: Backgrounds which are also used as storyboard images may follow [the storyboard images rule for maximum dimensions](/wiki/Ranking_criteria#rules.7) instead.
+[^maximum-dimensions]: Backgrounds which are also used as storyboard images may follow [the storyboard images rule for maximum dimensions](/wiki/Ranking_criteria#rules.6) instead.
 [^normal-vs-addition]: [Hitsounds](/wiki/Beatmapping/Hitsound) consist of an always-present *hitnormal* sample, and any combination of whistle, finish, or clap sample *additions*.
 [^songs-comp-note]: The following rule does not apply to [song compilations](/wiki/Beatmap/Song_compilation).

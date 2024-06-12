@@ -2,7 +2,7 @@
 
 ***Notice: This article is an extension of the [general ranking criteria](/wiki/Ranking_criteria).***
 
-This set of **osu!catch ranking criteria** lays out [rules and guidelines](/wiki/Ranking_criteria#general-terms) that [osu!catch](/wiki/Game_mode/osu!catch)-specific [beatmaps](/wiki/Beatmap) must follow in order to progress through the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
+This set of **osu!catch ranking criteria** lays out [rules and guidelines](/wiki/Ranking_criteria) that [osu!catch](/wiki/Game_mode/osu!catch)-specific [beatmaps](/wiki/Beatmap) must follow in order to progress through the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
 
 ## Overall
 

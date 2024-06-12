@@ -37,7 +37,7 @@ Namun, meskipun hampir semua map dalam status [Pending dan Work-in-progress](/wi
 
 Beatmap yang masuk ke kategori Loved diperlukan untuk mengikuti beberapa aturan tambahan:
 
-- [Bagian Metadata dari Kriteria Ranking](/wiki/Ranking_criteria#metadata)
+- [Bagian Metadata dari Kriteria Ranking](/wiki/Ranking_criteria/Metadata)
 - [Peraturan Konten Musik](/wiki/Rules/Song_content_rules)
 - [Pertimbangan Konten Visual](/wiki/Rules/Visual_content_considerations)
 
