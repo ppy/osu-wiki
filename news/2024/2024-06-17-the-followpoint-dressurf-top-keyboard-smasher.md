@@ -19,7 +19,6 @@ Simply read on for a look into [dressurf](https://osu.ppy.sh/users/758406)'s ins
 
 > Thanks for having me for this event, The Followpoint, my name is dressurf, and I'm constantly striving to improve my skills furthermore.
 
-
 *How did you get introduced to osu!, and what was your first impression of it?*
 
 > It all began when I played Osu! Tatakae! Ouendan (Elite Beat Agents) on the Nintendo DS Lite. I was immediately intrigued by its unique gameplay style. It didn't take too long to find out that there's a similar rhythm game named "osu!".
@@ -37,7 +36,6 @@ Simply read on for a look into [dressurf](https://osu.ppy.sh/users/758406)'s ins
 *What other rhythm games do you enjoy, besides games like O2Jam and osu!mania?*
 
 > Sometimes I play DJMAX respect to just ease myself. Trying new key mods, and new gimmicks.
-
 >
 > Also, I've been exploring Qwilight, because it's very convenient to play BMS charts and also to find new gimmicks. (Also LR2 is awesome!, by the way!)
 
@@ -66,7 +64,6 @@ Simply read on for a look into [dressurf](https://osu.ppy.sh/users/758406)'s ins
 > Not even close, I never saw myself becoming the rank 1 when I was barely passing 6 star charts.
 >
 > Just like every other player, playing 7K genre was hard. Actually, everything was hard. Coordinating fingers to each column, reading seven keys at once, playing charts even though i don't feel like improving...
-
 >
 > Even watching professional players looked so hard and confusing, but I still had my goal to achieve #1 in the future kept going.
 
@@ -81,7 +78,6 @@ Simply read on for a look into [dressurf](https://osu.ppy.sh/users/758406)'s ins
 *Is there any advice that you would give to people who are just starting out, or are wanting to improve to one day be like you?*
 
 > Well, it's going to be really hard to correlate your fingers to each column, but must be preceded first to get used to 7K playstyle. Once you become accustomed to the 7K playstyle and develop muscle memory for finger positioning, your progress will accelerate.
-
 
 *Do you think that peripherals matter when it comes to becoming better at the game, why or why not?*
 
@@ -102,7 +98,6 @@ Simply read on for a look into [dressurf](https://osu.ppy.sh/users/758406)'s ins
 > First and foremost, I really want to thank all the supporters who have been by my side and those supports really drives me to continually improve more.
 >
 > It'll be really hard to play 7K genre at first, but trust me, they're really fun mod if you get used to playing in those columns! Never hesitate to seek advices from professional players, they'll gladly guide you and help you as you move on. Currently, my message box (DM) is closed, so you can ask me anything on Discord server by mentioning my name.
-
 >
 > Thanks for having me on Followpoint, I hope these answers cleared up your questions!
 
