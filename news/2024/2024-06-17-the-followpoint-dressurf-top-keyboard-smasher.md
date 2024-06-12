@@ -39,7 +39,7 @@ Simply read on for a look into [dressurf](https://osu.ppy.sh/users/758406)'s ins
 > Sometimes I play DJMAX respect to just ease myself. Trying new key mods, and new gimmicks.
 
 >
-> Also, I've been exploring Qwilight, because it's very convenient to play bms charts and also to find new gimmicks. (Also LR2 is awesome!, by the way!)
+> Also, I've been exploring Qwilight, because it's very convenient to play BMS charts and also to find new gimmicks. (Also LR2 is awesome!, by the way!)
 
 *Where does the name "dressurf" come from, and is there any special meaning behind it?*
 
@@ -72,11 +72,11 @@ Simply read on for a look into [dressurf](https://osu.ppy.sh/users/758406)'s ins
 
 *What do you feel like most people don't truly realize about being a top player, especially in the highest ranks?*
 
-> There's undeniable pressure that I always expect and get, Such as setting 1900pp's or trying to maintain current spot... So I always practice off-stream to get in shape, exploring pending tab on webpage, downloading new charts, rating them to play on stream later.
+> There's undeniable pressure that I always expect and get, such as setting 1900pp's or trying to maintain current spot... So I always practice off-stream to get in shape, exploring pending tab on webpage, downloading new charts, rating them to play on stream later.
 
 *Who would you say are the best osu!mania player(s) at the moment that aren't you, and why?*
 
-> I think the term "best" is very subjective, if I see "best" in terms of inspiring and drawing players into the osu!mania scene, I must say jhlee0133 for 7key genre, Sillyfangirl for 4k genre.
+> I think the term "best" is very subjective, if I see "best" in terms of inspiring and drawing players into the osu!mania scene, I must say [jhlee0133](https://osu.ppy.sh/users/140148) for 7K genre, [SillyFangirl](https://osu.ppy.sh/users/2288363) for 4K genre.
 
 *Is there any advice that you would give to people who are just starting out, or are wanting to improve to one day be like you?*
 
@@ -101,7 +101,7 @@ Simply read on for a look into [dressurf](https://osu.ppy.sh/users/758406)'s ins
 
 > First and foremost, I really want to thank all the supporters who have been by my side and those supports really drives me to continually improve more.
 >
->  It'll be really hard to play 7K genre at first, but trust me, they're really fun mod if you get used to playing in those columns! Never hesitate to seek advices from professional players, they'll gladly guide you and help you as you move on. Currently, my message box (DM) is closed, so you can ask me anything on Discord server by mentioning my name.
+> It'll be really hard to play 7K genre at first, but trust me, they're really fun mod if you get used to playing in those columns! Never hesitate to seek advices from professional players, they'll gladly guide you and help you as you move on. Currently, my message box (DM) is closed, so you can ask me anything on Discord server by mentioning my name.
 
 >
 > Thanks for having me on Followpoint, I hope these answers cleared up your questions!
