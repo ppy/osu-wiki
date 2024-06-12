@@ -26,7 +26,7 @@ Parts of the Ranking Criteria have their own articles while still applying to al
 - **[Code of conduct for modding and mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)**: Rules and guidelines for engaging in the beatmap modding process
 
 ### General ranking criteria
-- **[Metadata](metadata)**: Rules and guidelines on crediting the beatmap.
+- **[Metadata](Metadata)**: Rules and guidelines on crediting the beatmap.
 
 ### Game mode specific ranking criteria
 In addition, each [game mode](/wiki/Game_mode) has specific ranking criteria that specifically apply to just beatmaps of that gamemode.
