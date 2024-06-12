@@ -24,11 +24,13 @@ This time around we bring quite a sackful of changes. From additions in the rank
 
 ### Evaluations moving forward
 
-Based on recent community feedback, the Nomination Assessment Team will no longer take a proactive approach enforcing arbitrary mapping quality standards in their evaluations. We believe the community as a whole must be the one to decide what's best for the platform.
+Based on recent community feedback, the osu! Nomination Assessment Team will no longer take a proactive approach enforcing arbitrary mapping quality standards in their evaluations. We believe the community as a whole must be the one to decide what's best for the platform.
 
-This change in perspective means that Beatmap Nominators **will not** be punished for any subjective concern that the evaluators may have had on beatmaps that have been ranked without resets. Unrankables, unranks, and any other objective issue will still be handled as per usual.
+This change in perspective means that osu! Beatmap Nominators **will not** be punished for any subjective concern that the evaluators may have had on beatmaps that have been ranked without resets. Unrankables, unranks, and any other objective issue will still be handled as per usual.
 
 While we may experiment with more changes depending on how things turn out, the direction of letting the community set their own standards will not change.
+
+Do note that this change only affects the osu! game mode, and other game modes will still handle evaluations as they've been doing so far.
 
 ### Community-wide changes
 
@@ -107,7 +109,7 @@ Beatmap Nominators are now able to opt-in to receive extra feedback in their eva
 
 ![](/wiki/shared/news/2024-06-10-the-nat-gazette-june-2024/evaluation-feedback.jpg)
 
-It's important to note that this feature has only been put into place in osu!, and other rulesets will still deliver feedback as they've been doing so far.
+It's important to note that this feature has only been put into place in the osu! game mode, and other game modes will still deliver feedback as they've been doing so far.
 
 ### Within the Nomination Assessment Team
 
@@ -148,7 +150,7 @@ We've laid them out below along with each recipient so far:
 | ![NAT Badge (9 years)](https://assets.ppy.sh/profile-badges/NAT9y.png "Longstanding contribution to the Nomination Assessment Team - 9 Years") | [Deif](https://osu.ppy.sh/users/318565) |
 | ![Elite Nominator badge](https://assets.ppy.sh/profile-badges/elite-nominator.png "Exemplary performance as a Beatmap Nominator for a year") | [arcpotato](https://osu.ppy.sh/users/12842392), [AWMRone](https://osu.ppy.sh/users/10351684), [Furryswan](https://osu.ppy.sh/users/9555243), [Ilham](https://osu.ppy.sh/users/3057154), [Monoseul](https://osu.ppy.sh/users/16010604), [Okoratu](https://osu.ppy.sh/users/1623405), [op45667](https://osu.ppy.sh/users/21973491), [Protastic101](https://osu.ppy.sh/users/6712747) |
 | ![Elite Nominator II badge](https://assets.ppy.sh/profile-badges/elite-nominator-2.png "Exemplary performance as a Beatmap Nominator for 2 years") | [fieryrage](https://osu.ppy.sh/users/3533958), [FuJu](https://osu.ppy.sh/users/10773882), [gzdongsheng](https://osu.ppy.sh/users/8660315), [Luscent](https://osu.ppy.sh/users/2688581), [meiqth](https://osu.ppy.sh/users/12565402), [NeKroMan4ik](https://osu.ppy.sh/users/11387664), [nexusqi](https://osu.ppy.sh/users/13822800), [zerokt](https://osu.ppy.sh/users/13776127) |
-| ![200 Nominations Badge](https://assets.ppy.sh/profile-badges/noms200.png "Nominated 200+ beatmaps as a Beatmap Nominator") | [arcpotato](https://osu.ppy.sh/users/12842392), [Dusk-](https://osu.ppy.sh/users/6092181), [Firika](https://osu.ppy.sh/users/9590557), [Maxus](https://osu.ppy.sh/users/4335785), [Noffy](https://osu.ppy.sh/users/1541323), [Quenlla](https://osu.ppy.sh/users/4725379), [Shmiklak](https://osu.ppy.sh/users/5504231), [Yasuho](https://osu.ppy.sh/users/8458835) |
+| ![200 Nominations Badge](https://assets.ppy.sh/profile-badges/noms200.png "Nominated 200+ beatmaps as a Beatmap Nominator") | [arcpotato](https://osu.ppy.sh/users/12842392), [Dusk-](https://osu.ppy.sh/users/6092181), [Firika](https://osu.ppy.sh/users/9590557), [Maxus](https://osu.ppy.sh/users/4335785), [Noffy](https://osu.ppy.sh/users/1541323), [Quenlla](https://osu.ppy.sh/users/4725379), [Shmiklak](https://osu.ppy.sh/users/5504231), [wafer](https://osu.ppy.sh/users/9416836), [Yasuho](https://osu.ppy.sh/users/8458835) |
 | ![400 Nominations Badge](https://assets.ppy.sh/profile-badges/noms400.png "Nominated 400+ beatmaps as a Beatmap Nominator") | [fieryrage](https://osu.ppy.sh/users/3533958) |
 
 ---
