@@ -97,9 +97,11 @@ This month's osu!taiko theme is more song-focused: **you must map a song with a 
 
 A "swing beat" is basically any song that feels like this:
 
-<audio controls>
-    <source src="https://assets.ppy.sh/media/news/swing.mp3">
-</audio>
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/media/news/swing.mp3">
+    </audio>
+</div>
 
 Your song should primarily be this type of rhythm. If only one small section uses this rhythm, a different song may be better. If only one small section does *not* use this rhythm, that's okay!
 
