@@ -30,7 +30,7 @@ Teams had different approaches to the pool this round, as each pick was played a
 
 The osu!catch enjoyers were also spoiled this week, with no less than three [osu! originals](/wiki/osu!_originals) in the mappool. It is a first for the osu!catch World Cup, which at most had two in last year's Grand Finals week. All three of them are of very different styles, so make sure to give them all a listen!
 
-[![](/wiki/shared/news/2024-06-13-osu-catch-world-cup-2024-quarterfinals-recap/junglist-acid-banner.jpg)](https://osu.ppy.sh/beatmapsets/2191197#fruits/4634752)
+[![](/wiki/shared/news/2024-06-13-osu-catch-world-cup-2024-quarterfinals-recap/junglist-acid.jpg)](https://osu.ppy.sh/beatmapsets/2191197#fruits/4634752)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -38,7 +38,7 @@ The osu!catch enjoyers were also spoiled this week, with no less than three [osu
     </audio>
 </div>
 
-[![](/wiki/shared/news/2024-06-13-osu-catch-world-cup-2024-quarterfinals-recap/step-by-step-banner.jpg)](https://osu.ppy.sh/beatmapsets/2191164#fruits/4634684)
+[![](/wiki/shared/news/2024-06-13-osu-catch-world-cup-2024-quarterfinals-recap/step-by-step.jpg)](https://osu.ppy.sh/beatmapsets/2191164#fruits/4634684)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -46,7 +46,7 @@ The osu!catch enjoyers were also spoiled this week, with no less than three [osu
     </audio>
 </div>
 
-[![](/wiki/shared/news/2024-06-13-osu-catch-world-cup-2024-quarterfinals-recap/raison-detre-banner.jpg)](https://osu.ppy.sh/beatmapsets/2191169#fruits/4634698)
+[![](/wiki/shared/news/2024-06-13-osu-catch-world-cup-2024-quarterfinals-recap/raison-detre.jpg)](https://osu.ppy.sh/beatmapsets/2191169#fruits/4634698)
 
 <div class="osu-md__paragraph">
     <audio controls>
