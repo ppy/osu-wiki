@@ -7,7 +7,7 @@ This article sets rules and guidelines that [beatmaps](/wiki/Beatmap) must follo
 ## Proposing changes
 Changes to any part of the ranking criteria are proposed through the [Ranking Criteria forum](/community/forums/87). 
 1. **Create a proposal in the [Ranking Criteria forum](/community/forums/87).** Try to be as detailed as possible while explaining your idea and the change's impact.
-2. **Come to a consensus.** If you think you are at that point, reach out to a member of the NAT to see if your proposal can be implemented. To an extent, the NAT can act as the arbiter in contentious cases, but proposals without a general consensus will likely not pass.
+2. **Come to a consensus.** If you think you are at that point, reach out to a member of the [NAT](/wiki/People/Nomination_Assessment_Team) to see if your proposal can be implemented. To an extent, the NAT can act as the arbiter in contentious cases, but proposals without a general consensus will likely not pass.
 3. **Create a pull request on the osu!wiki GitHub repository.** Usually, this is done by a member of the NAT involved in finalising the discussion.
 4. **Wait on approval from [peppy](/users/2).**
 
