@@ -83,6 +83,9 @@ The GB Cup 2024 Spring is run by Team GB and various community members.
 - Livestream
   - [Bilibili stream](https://live.bilibili.com/22545296) (::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407))
   - [Bilibili stream](https://live.bilibili.com/10183) (::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617))
+  - [Twitch](https://www.twitch.tv/gbc_official)
+- [Challonge for QQ division](https://challonge.com/d4xxeqpc)
+- [Challonge for Discord division](https://challonge.com/r1s62oxt)
 - [GBC QQ group](https://jq.qq.com/?_wv=1027&k=zqBeTqMW)
 - [GBC Discord server](https://discord.gg/qpJjGuYyC5)
 
