@@ -58,6 +58,8 @@ The osu!catch enjoyers were also spoiled this week, with no less than three [osu
 
 The matches this week were quite exciting, as even the teams who had an easier time in their first match in the losers' bracket had more difficult matchups in the second ones, and some podium contenders for this year faced in the winners' bracket, resulting in several close matches.
 
+You may notice "-1" coming up sometimes in these tables. It just means that the team forfeited for whatever reason, allowing the other team to win by default.
+
 | Team A |  |  | Team B |
 | --: | :-: | :-: | :-- |
 | **Peru** ::{ flag=PE }:: | **6** | 0 | ::{ flag=NO }:: Norway |
