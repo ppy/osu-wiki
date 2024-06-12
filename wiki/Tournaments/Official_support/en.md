@@ -11,7 +11,7 @@ tags:
 
 The [osu! team](/wiki/People/osu!_team) runs a program where they may opt to provide community-run tournaments that abide by a certain set of criteria and expectations with extra support, at their discretion.
 
-This article was last updated on April 18, 2024. For the full changelog, check out the [tournament support updates thread](https://osu.ppy.sh/community/forums/topics/1715676). For any queries or clarifications, please consult the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+This article was last updated on June 2, 2024. For the full changelog, check out the [tournament support updates thread](https://osu.ppy.sh/community/forums/topics/1715676). For any queries or clarifications, please consult the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Benefits
 
@@ -77,7 +77,7 @@ In addition, all promotional material or any services associated with a tourname
 **The tournament must also abide by the following practices throughout:**
 
 - All registrants must be screened by the account support team before play commences.[^play-commence] See [tournament screening](#tournament-screening) for more details.
-- If a user satisfies the sign-up criteria (if any), the tournament must not prevent those who pass the screening from participating without both ample evidence presented publicly against them and the approval of the account support team.
+- If a user satisfies the sign-up criteria (if any) and is not [filtered](#registrant-filtering-and-seeding) out through other means, the tournament must not prevent those who pass the screening from participating without both ample evidence presented publicly against them and the approval of the account support team.
   - This includes preventing users who are perceived to be "sandbagging" from play. Should an organiser have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the [Tournament Committee](/wiki/People/Tournament_Committee) for a case-by-case review using the [tournament reports form](https://pif.ephemeral.ink/tournament-reports).
 - A dedicated referee must be present during every match, or be available to be summoned with minimal delay (2–5 minutes) if appropriate permission for automated software has been granted and is being used for assistance. Players cannot "self-ref".
   - The use of bots is allowed on qualifier stage matches, provided that it is supervised by a staff member.
@@ -91,16 +91,35 @@ Once the tournament has concluded, the tournament organisers will need to submit
 - An appropriately designed badge ([see below](#profile-badges)).
 - A link to the publicly viewable catalogue of your tournament's match history.
 
-#### Referee bots/automation
+### Programs
 
-The use of bots/automation to aid in the running of officially supported tournament matches is permitted *with some caveats to reflect their cutting-edge nature*, so long as any applicable software/workflows meet the requirements listed below:
+Third-party programs designed to filter registrants, seed players, or automate the job of a referee must be open, transparent, and documented. Any third-party tool used for these purposes must:
 
-- The bot/automation must be made publicly and functionally available as an open-source repository.
-- The bot/automation should abide by the expectations laid out for [bot accounts](/wiki/Bot_account) for general in-game use. Referee-related tools and software can be run directly from a user's own account.
-- If a bot/automation is used for refereeing, a human referee must always be available to respond to calls for support from participants within a reasonable timeframe (2–5 minutes), and be able to be summoned remotely via the use of a chat command inside the lobby itself (we recommend `!panic` as a global alias for this).
-- Where a bot/automation workflow is present, any ongoing lobbies should be able to be manually taken over by a human referee with minimal interference whilst also retaining any previous logs of play and chat.
+- Be made publicly and functionally available as an open-source repository.
+- Be completely documented in an easily readable and digestible format.
 
-Approval for the use of referee bots/automation **must** be granted by the osu! support team. In addition, this approval is required for **every individual instance where a referee bot/automation is used**. We expect to relax some of these requirements in the future as the technology surrounding these bots develops and experience with using them grows.
+Currently, approval for the use of any such tool must be **explicitly granted** by the osu! support team. Additionally, this approval must be granted for **every tournament where programs for registrant filtering, seeding, or automated refereeing are used.** We expect to relax some of these requirements in the future as the technology surrounding these programs develops and experience with using them grows.
+
+### Registrant filtering and seeding
+
+Registrant filtering, not to be confused with [screening](#tournament-screening), is the process of using any program, algorithm, mathematical formula, or other objective means to remove otherwise good-standing players from a tournament. This is commonly used to reduce variance in skill within a tournament, e.g. with [BWS](/wiki/Tournaments/Badge-weighted_seeding).
+
+In addition to the expectations for programs above, tools or systems used to filter registrants or seed players must also abide by the following practices:
+
+- If a dataset is used, it must be up to date, publicly available and downloadable. Documentation must be provided explaining how to recreate the dataset and reproduce the results using it — including code where applicable.
+- When doing qualifiers, the formula or method used to determine seeding must be included in the tournament's ruleset.
+
+A third party should be able to get the same results without needing additional information. Manually filtering players or adjusting their seeds is strictly prohibited.
+
+### Automated refereeing
+
+The use of automated refereeing tools are permitted *with some caveats to reflect their cutting-edge nature*. Automated refereeing tools, including bots, may receive approval for use in badged tournaments so long as certain requirements are met.
+
+In addition to the expectations for programs above, automated refereeing tools must also adhere to the following expectations:
+
+- Potential bots must abide by the expectations laid out for [bot accounts](/wiki/Bot_account) for general in-game use. Referee-related tools and software could alternatively be run directly from a user's own account.
+- A human referee must always be available to respond to calls for support from participants within a reasonable timeframe (2–5 minutes), and be able to be summoned remotely via the use of a `!panic` command inside the lobby itself. When this command is used, all automation should stop until resumed by the human referee.
+- Any ongoing lobbies should be able to be manually taken over by a human referee with minimal interference whilst also retaining any previous logs of play and chat.
 
 ### Staff
 
@@ -198,18 +217,21 @@ The minimum requirements to request in-game or website advertising support are a
 - Your tournament meets the [eligibility criteria for applicable tournaments](#eligibility).
 - The tournament has successfully run for *at least* two badged iterations in the past.
   - Exceptions can be made at the discretion of the osu! team and the Tournament Committee based on any number of factors, such as size, scope, reach, and supporting team size of a given tournament. A good example of this kind of exception would be an event like the Roundtable.
-- The livestreams of your current tournament average a reasonable viewership for any game modes featured in them. More popular modes (such as osu!) will be expected to have higher average viewership in order to qualify.
-- Your tournament is nearing its conclusion (e.g. your tournament is at Quarterfinals or above and it started on Round of 32).
-- You are able to provide the schedule of the matches and livestreams ahead of time.
 - Your tournament streams or otherwise shares its results in clear and legible English.
 
 If you satisfy the above criteria, you may request this support by sending an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh). This request should include a base-level history of your tournament and its impact upon the community if you have not received this type of support before. Please also note that this additional support is not guaranteed under any circumstances, and is awarded at the osu! team's sole discretion.
 
-We recommend sending any such requests as early as possible to allow time for consideration.
+We recommend sending any such requests as early as possible to allow time for consideration. News post requests should ideally be sent at least a month in advance.
 
 #### Main-menu banners
 
-Any main-menu banner images must adhere to the following standards:
+Tournaments seeking to be featured on the main menu must also meet the following requirements:
+
+- The livestreams of your current tournament average a reasonable viewership for any game modes featured in them. More popular modes (such as osu!) will be expected to have higher average viewership in order to qualify.
+- Your tournament is nearing its conclusion (e.g. your tournament is at Quarterfinals or above and it started on Round of 32).
+- You are able to provide the schedule of the matches and livestreams ahead of time.
+
+All main-menu banner images must adhere to the following standards:
 
 - The submitted file must be a **PNG**.
 - Width must be no larger than **1000px**. Using smaller widths is fine.
@@ -233,12 +255,11 @@ Please do not submit a main menu banner with your original request — you will 
 
 While support for advertising and sharing the outcome of your tournament is available via news posts, there are additional requirements that must be considered:
 
-- Only news posts advertising registrations and recapping of **final** results are presently permitted.
+- Tournaments will be expected to provide both one news post for advertising registrations and one for recapping **final** results. Additional news posts are presently not permitted.
+  - If a news post advertising registrations is denied but all other [requirements](#requesting-in-game-banner-and-news-post-support) are met, a tournament may still be given permission for a conclusionary news post. Hosts and organisers interested in doing so should send in a new request after the tournament has concluded.
 - If your tournament is limited to a specific region, it is only eligible to receive news post support if it involves a LAN (a.k.a. an in-person meetup).
 
-Tournaments will be expected to provide their own written news posts in this manner, and those responsible for writing them should expect to adhere to the editorial standards required by our [news styling criteria](/wiki/News_styling_criteria).
-
-Prospective news posts should be submitted well in advance, and will be reviewed by both the Tournament Committee and the osu! news team for suitability.
+Requests for news support will be reviewed by both the Tournament Committee and the osu! news team for suitability.
 
 ## FAQ
 
