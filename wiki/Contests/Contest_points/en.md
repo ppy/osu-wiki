@@ -59,7 +59,7 @@ Contest points have been used in the following contests:
 | ::{ flag=PH }:: [flake](https://osu.ppy.sh/users/7627157) | 1 | [Twin Trials](/wiki/Contests/Twin_Trials_Contest) |
 | ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=PH }:: [LeCandy](https://osu.ppy.sh/users/6626249) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
-| ::{ flag=PH }:: [Nuolong](https://osu.ppy.sh/users/6626249) | 1 | [VMC2](/wiki/Contests/VMC/2) |
+| ::{ flag=PH }:: [Nuolong](https://osu.ppy.sh/users/4732455) | 1 | [VMC2](/wiki/Contests/VMC/2) |
 
 ### osu!taiko
 
