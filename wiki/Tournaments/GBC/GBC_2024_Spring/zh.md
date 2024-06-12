@@ -83,6 +83,9 @@ GBC 2024 春季周常活动由 GB 成员和多位社区成员举办。
 - 直播间
   - [主舞台](https://live.bilibili.com/22545296) (::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407))
   - [副舞台](https://live.bilibili.com/10183) (::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617))
+  - [推趣](https://www.twitch.tv/gbc_official)
+- [QQ 赛区淘汰赛对阵情况](https://challonge.com/d4xxeqpc)
+- [Discord 赛区淘汰赛对阵情况](https://challonge.com/r1s62oxt)
 - [比赛 QQ 群](https://jq.qq.com/?_wv=1027&k=zqBeTqMW)
 - [比赛 Discord 服务器](https://discord.gg/qpJjGuYyC5)
 
