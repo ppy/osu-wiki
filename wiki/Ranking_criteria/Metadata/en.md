@@ -28,9 +28,9 @@
     - Artist names should be consistent as well, as long as they are not intentionally using different aliases. 
   - Official romanisations/translations are preferred for romanised fields, so long as they are easily found and commonly recognised.
   - In case of conflicting options, a discussion should be held to determine what would be the best option.
- 
- ### Allowances
- 
+
+### Allowances
+
 - **For remixes, covers, or performances:**
   - **The original artist may be used in the artist field, as long as the title field is modified to show that the song is not the original version.** This marker should be in parentheses and contain the remix/cover artist or the performer as well as a descriptor. For example, the track `triangles` composed by `cYsmix` covered by `mocha4life` can be formatted as `cYsmix - triangles (mocha4life Cover)`.
   - **If the music artist is the beatmap host, they may adjust the title freely.**
@@ -48,21 +48,20 @@
   This does not apply if the artist purposefully uses symbols in ways that do not suggest spaces. For example, `。✰302？ionwan2go✰。` would be `.*302?ionwan2go*.` and not `. * 302 ? ionwan2go * .`. Other character sets are handled on a case-by-case basis.
 - **In romanised fields, special symbols must be changed to their nearest ASCII printable equivalent or removed.** Special characters other than the ones below are to be changed or dropped on a case-by-case basis. When multiple options exist, the one used for romanisation depends on context.
 
-| Symbol                        | Recommended Romanisation |
-| ----------------------------- | ------------------------ |
-| `★ ☆ ⚝ ✪ ✻`, and similar shapes | `*`                 |
-| `♥ ♡` and similar hearts      | `<3`                    |
-| `「 」『 』`                   | `""`                    |
-| `…`                           | `...`                   |
-| `。`                          | `.`                     |
-| `→` and similar arrows        | `->` or `-->`           |
-| `←` and similar arrows        | `<-` or `<--`           |
-| `《》`                        | `< >`, `<< >>`, or `""` |
-| `【】`                        | `""`, `()` or `[]`      |
-| `≠`                           | `=/=` or `!=`           |
-| `・`                          | `.`, `,` or ` `         |
-| `×`                           | `x`                     |
-
+| Symbol | Recommended Romanisation |
+| :-- | :-- |
+| `★ ☆ ⚝ ✪ ✻`, and similar shapes | `*` |
+| `♥ ♡` and similar hearts | `<3` |
+| `「 」『 』` | `""` |
+| `…` | `...` |
+| `。` | `.` |
+| `→` and similar arrows | `->` or `-->` |
+| `←` and similar arrows | `<-` or `<--` |
+| `《》` | `< >`, `<< >>`, or `""` |
+| `【】` | `""`, `()` or `[]` |
+| `≠` | `=/=` or `!=` |
+| `・` | `.`, `,` or ` ` |
+| `×` | `x` |
 
 ## Artist
 
@@ -77,6 +76,7 @@ These points also apply for any artist credits present in the title field.
 ### Marker rules
 
 When the entire field is uppercase or lowercase, markers may use alternative casing to match the rest of the field. 
+
 - `vs.`
   - Any form of `vs`, `versus`, `Vs`, etc. indicating collaboration between artists must be written as `vs.`.
 - `feat.`
@@ -115,9 +115,11 @@ When the entire field is uppercase or lowercase, markers may use alternative cas
 ### Markers
 
 #### Rules
+
 - **Unofficial versions that match an official version in terms of content, order, and length are considered official and must add the appropriate marker. This only applies if the audio is nearly indistinguishable from the official version.**
 
 ##### Markers you must add when appropriate
+
 - **Songs without a version marker that fit one of the marker categories below must add the corresponding one at the end.**
 - **Songs with version markers must have them fully replaced them with the standard marker from the list below.**
 - `(TV Size)`
@@ -131,7 +133,7 @@ When the entire field is uppercase or lowercase, markers may use alternative cas
   - Use when the song has been edited to a higher tempo.
   - Only songs that also increase the pitch of the audio can use `(Nightcore Mix)`. Otherwise, use `(Sped Up Ver.)`. 
 - **Combined Markers**
-  - If the edit is sped up _and_ cut, use `(Sped Up & Cut Ver.)` or `(Nightcore & Cut Ver.)`.
+  - If the edit is sped up *and* cut, use `(Sped Up & Cut Ver.)` or `(Nightcore & Cut Ver.)`.
   - Other combined markers can be used after a discussion is held to discuss their necessity.
 
 ##### Markers that you must standardise, but not always add
@@ -146,6 +148,7 @@ When the entire field is uppercase or lowercase, markers may use alternative cas
   - Use this when there's an existing marker like `Movie EDIT`, `~movie size~`, `Movie Cut`, `(Movie Version)`.
 
 #### Guidelines
+
 - `(#### Ver.)`
   - When song titles already have a length / version marker not covered above, it should be changed to a descriptive `(#### Ver.)` marker using title case[^title-case]. For example: 
     - `(Extended Version)` -> `(Extended Ver.)`
@@ -153,6 +156,7 @@ When the entire field is uppercase or lowercase, markers may use alternative cas
   - Exceptions would be for when the length / version marker is so stylised it is considered part of the title, such as `Pippiquest (Pippi x Mocha Romantic Movie Remix Edition)`
 
 #### Allowances
+
 - **Alternative casing for markers may be used if the rest of the song title is stylised to fit the formatting.**
 - **Live performances may add a special marker, such as `(Live Ver.)`.** Descriptive markers like `(2020 Tour Live Ver.)` can also be used.
 - **Marker additions may be ignored or a custom marker may be used on a case-by-case basis if the standard markers are misleading.** Hold a discussion to determine the marker in this case and post the result publicly. 
@@ -164,7 +168,7 @@ When the entire field is uppercase or lowercase, markers may use alternative cas
 - **The `Source` field must be used, if the song...**
   - **directly originates from or is tied to a piece of media (video games, TV series, etc.), except for albums and hosting websites.**
   - **is a remix, arrangement or cover of a song from or tied to a piece of media, except for albums and hosting websites.**
-  - **was specifically created for osu!, such as [osu! originals](/wiki/osu!_originals).** Any other song _must not_ use `osu!` as the source field.
+  - **was specifically created for osu!, such as [osu! originals](/wiki/osu!_originals).** Any other song *must not* use `osu!` as the source field.
   - **was created for a specific event, such as a tournament like the `osu! World Cup` or concerts.**
 - **If a track contains or remixes multiple songs that are not all from one shared source, the field must be left blank and the sources added to tags.**
 - **The Source field must be precise.** Use the most specific source instead of general series or project names, unless multiple sources within a series apply.
@@ -181,11 +185,12 @@ When the entire field is uppercase or lowercase, markers may use alternative cas
 ## Tags
 
 ### Rules
+
 - **Tags must be related to the beatmap**, such as describing the style, song, storyboard, video, or background content. Misleading tags must be avoided.
 - **Names with spaces between single characters like `-[M o c h a]-` need to be tagged as `-[M_o_c_h_a]-`**
 - **Tags must include the following items when applicable:**
   - **[Guest difficulty](/wiki/Beatmap/Guest_difficulty) creators, storyboarders, skinners and hitsounders.**
-  - **`Featured Artist`, if the track is listed in the [Featured Artist catalogue](/beatmaps/artists).** You must not use the tag if the song is not in the featured artist catalogue.
+  - **`Featured Artist`, if the track is listed in the [Featured Artist catalogue](https://osu.ppy.sh/beatmaps/artists).** You must not use the tag if the song is not in the featured artist catalogue.
   - **At least one song genre and one language tag.** 
     - For instrumental tracks, `instrumental` is the language tag.
     - For tracks in artificially created languages add `conlang` to tags and use its name as the language tag.
@@ -194,6 +199,7 @@ When the entire field is uppercase or lowercase, markers may use alternative cas
   - **Original song and artist names not present in other fields if the song is a remix, edit, cover, etc.**
 
 ### Guidelines
+
 - **Remixes, arrangements and mashups should tag their specific genres as well as the original song's genres.** If an `Anime` song is remixed to become mostly `Electronic`, tag both.
 - **Tags should include the following items when applicable:**
   - **The unused artist, title, or source metadata not used in the main fields when multiple options exist.**
