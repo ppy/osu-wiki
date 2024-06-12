@@ -120,33 +120,82 @@ The 4 Digit World Cup 2024 is run by various community members.
 | ::{ flag=UY }:: | **Uruguay** | **[Shikke](https://osu.ppy.sh/users/5382216)**, [El Milanga](https://osu.ppy.sh/users/12264918), [finalevening](https://osu.ppy.sh/users/18983862), [Madozito](https://osu.ppy.sh/users/4054429), [Rami12890](https://osu.ppy.sh/users/23970963), [Hanabi-](https://osu.ppy.sh/users/20459807), [Ryo Mizoguchi](https://osu.ppy.sh/users/27635595), [Haku-](https://osu.ppy.sh/users/24879119) |
 | ::{ flag=VN }:: | **Vietnam** | **[realshin](https://osu.ppy.sh/users/8006029)**, [Another Guy](https://osu.ppy.sh/users/4540667), [t4hN](https://osu.ppy.sh/users/18948749), [hotcat190](https://osu.ppy.sh/users/10143086), [\_Casiofx580vnx](https://osu.ppy.sh/users/848961), [Phoeni\_](https://osu.ppy.sh/users/14953642), [Ayamaki](https://osu.ppy.sh/users/16396650), [updraft](https://osu.ppy.sh/users/11688228) |
 
-## Match Schedule: Semifinals
+## Match Schedule: Grand Finals
 
-### Saturday, 1 June 2024
+### Saturday, 15 June 2024
 
-| Team A | Team B | Match time |  |
-| --: | :-- | :-- | :-: |
-| Taiwan ::{ flag=TW }:: | ::{ flag=CA }:: Canada | Jun 01 (Sat) 03:00 UTC | [^losers-bracket] |
-| Australia ::{ flag=AU }:: | ::{ flag=JP }:: Japan | Jun 01 (Sat) 10:00 UTC | [^losers-bracket] |
-| France ::{ flag=FR }:: | ::{ flag=SG }:: Singapore | Jun 01 (Sat) 14:00 UTC | [^losers-bracket] |
-| Brazil ::{ flag=BR }:: | ::{ flag=SE }:: Sweden | Jun 01 (Sat) 16:00 UTC | [^losers-bracket] |
+| Team A | Team B | Match time | Twitch stream |  |
+| --: | :-- | :-- | :-: | :-: |
+| China ::{ flag=CN }:: | ::{ flag=CA }:: Canada | Jun 15 (Sat) 02:00 UTC |  | [^losers-bracket] |
 
-### Sunday, 2 June 2024
+### Sunday, 16 June 2024
 
-| Team A | Team B | Match time |  |
-| --: | :-- | :-- | :-: |
-| Canada ::{ flag=CA }:: | ::{ flag=AU }:: Australia | Jun 02 (Sun) 03:00 UTC | [^potential-match] |
-| Canada ::{ flag=CA }:: | ::{ flag=JP }:: Japan | Jun 02 (Sun) 03:00 UTC | [^potential-match] |
-| Taiwan ::{ flag=TW }:: | ::{ flag=AU }:: Australia | Jun 02 (Sun) 10:00 UTC | [^potential-match] |
-| Taiwan ::{ flag=TW }:: | ::{ flag=JP }:: Japan | Jun 02 (Sun) 10:00 UTC | [^potential-match] |
-| South Korea ::{ flag=KR }:: | ::{ flag=CN }:: China | Jun 02 (Sun) 14:00 UTC | [^winners-bracket] |
-| Brazil ::{ flag=BR }:: | ::{ flag=FR }:: France | Jun 02 (Sun) 15:00 UTC | [^potential-match] |
-| Brazil ::{ flag=BR }:: | ::{ flag=SG }:: Singapore | Jun 02 (Sun) 15:00 UTC | [^potential-match] |
-| Sweden ::{ flag=SE }:: | ::{ flag=FR }:: France | Jun 02 (Sun) 15:00 UTC | [^potential-match] |
-| Sweden ::{ flag=SE }:: | ::{ flag=SG }:: Singapore | Jun 02 (Sun) 15:00 UTC | [^potential-match] |
-| United States ::{ flag=US }:: | ::{ flag=PL }:: Poland | Jun 02 (Sun) 18:00 UTC | [^winners-bracket] |
+| Team A | Team B | Match time | Twitch stream |  |
+| --: | :-- | :-- | :-: | :-: |
+| United States ::{ flag=US }:: | ::{ flag=CA }:: Canada | Jun 16 (Sun) 01:00 UTC |  | [^potential-match] |
+| United States ::{ flag=US }:: | ::{ flag=CN }:: China | Jun 16 (Sun) 02:00 UTC |  | [^potential-match] |
+| Canada ::{ flag=CA }:: | ::{ flag=US }:: United States | Jun 16 (Sun) 02:30 UTC |  | [^potential-match] |
+| China ::{ flag=CN }:: | ::{ flag=US }:: United States | Jun 16 (Sun) 03:30 UTC |  | [^potential-match] |
 
 ## Mappools
+
+### Grand Finals
+
+- No Mod
+  1. [hasu - Pile Of Corpses (bad boy) \[alden & melon's Abyss\]](https://osu.ppy.sh/beatmapsets/2196123#osu/4647035)
+  2. [Sleeping Pola - C-E-D-A-R (nooj) \[M-O-R-N-I-N-G-W-O-O-D\]](https://osu.ppy.sh/beatmapsets/2196042#osu/4646862)
+  3. [Amane (Rolling Contact) - Technical Master (Akali) \[Techstream Junkies\]](https://osu.ppy.sh/beatmapsets/620081#osu/1306932)
+  4. [Ludicin - Clinozoisite (Sing) \[Sacred\]](https://osu.ppy.sh/beatmapsets/2196059#osu/4646919)
+  5. [Napkin Terrorizer - super reductive (katagiri Remix) (Silverboxer) \[Hurry up!!!\]](https://osu.ppy.sh/beatmapsets/2167667#osu/4573320)
+  6. [NIWASHI - Let's quartz (dectopia) \[Lucidity (4WC ver.)\]](https://osu.ppy.sh/beatmapsets/2151839#osu/4647118)
+- Hidden
+  1. [Takahashi Yoko - Zankoku na Tenshi no These (aishiteiru-) \[EvilNekit's climbed into a fucking robot\]](https://osu.ppy.sh/beatmapsets/2196064#osu/4646927)
+  2. [IOSYS - Chanteikku Sanyousei no Itazura Daisensou (chiv) \[Feiri x Reiji Maigo's Milky BBC News Article Collab \[4WC EDIT\]\]](https://osu.ppy.sh/beatmapsets/2196172#osu/4647116)
+  3. [Ashrount vs polysha - ZENITH(Extended) (Serenhaide) \[al mio Coelo\]](https://osu.ppy.sh/beatmapsets/2196165#osu/4647100)
+- Hard Rock
+  1. [Akatsuki Records - Trance Dance Anarchy (eiri-) \[Don't Look Back\]](https://osu.ppy.sh/beatmapsets/1124084#osu/2348869)
+  2. [MYUKKE. - ARIGA THESIS (Nakano Itsuki) \[born to cs5 forced to nm6\]](https://osu.ppy.sh/beatmapsets/1829054#osu/3753988)
+  3. [Ne Obliviscaris - Libera (Fump) \[hehe's Exiled voices\]](https://osu.ppy.sh/beatmapsets/1710746#osu/3495617)
+- Double Time
+  1. [DECO\*27 feat. marina - Aimai Elegy (val0108) \[108\]](https://osu.ppy.sh/beatmapsets/43248#osu/135804)
+  2. [lapix - Slipstream (Extended Mix) (KKipalt) \[Collab Corsace\]](https://osu.ppy.sh/beatmapsets/1276378#osu/2651875)
+  3. [-45 - KOLOKOL51 (228) \[SKOL'KO ZHMESH?\]](https://osu.ppy.sh/beatmapsets/2027918#osu/4225815)
+  4. [sasakure.UK - -echo-: NieR Song of the Ancients / Devola ~ Song of the Ancients / Popola (Zer0-) \[Sorrow\]](https://osu.ppy.sh/beatmapsets/1493195#osu/3060775)
+- Free Mod
+  1. [guna with team kyukkyu - subconsciousness (Snow Note) \[KILL\]](https://osu.ppy.sh/beatmapsets/151945#osu/730865)
+  2. [P-MODEL - Go for it! Halycon (an3) \[Illusion\]](https://osu.ppy.sh/beatmapsets/2134745#osu/4491577)
+  3. [Hagane - Event Horizon (yaspo) \[Beyond Corsace\]](https://osu.ppy.sh/beatmapsets/1276324#osu/2651787)
+- Tiebreaker
+  1. **[Us4KKi - Aria for Lepus (toybot) \[Alpha Leporis\]](https://osu.ppy.sh/beatmapsets/2196112#osu/4647017)**
+
+### Finals
+
+- No Mod
+  1. [Suzuki Konomi - Beat your Heart (Nightlys) \[Insane\]](https://osu.ppy.sh/beatmapsets/1846253#osu/3792658)
+  2. [Brymir - Pantheon of Forsaken Gods (LMT) \[Hideous Divinity\]](https://osu.ppy.sh/beatmapsets/1633210#osu/3333669)
+  3. [Diao Ye Zong feat. Kushi - Yuumeikyou o Wakatsu Koto (cotton__123) \[Resurrection Butterfly\]](https://osu.ppy.sh/beatmapsets/1936480#osu/4002557)
+  4. [Kurokotei - Serphut (Aerousea) \[Till the next time we meet\]](https://osu.ppy.sh/beatmapsets/2184951#osu/4618593)
+  5. [Undead Corporation - Artificial Sorrow (inst.) (Zetera) \[Messatsu\]](https://osu.ppy.sh/beatmapsets/1708886#osu/3491877)
+  6. [Frums - parvorbital (Markrum) \[4WC EDIT\]](https://osu.ppy.sh/beatmapsets/2079466#osu/4635960)
+- Hidden
+  1. [USAO - TAPIOCA (Realazy) \[FURY\]](https://osu.ppy.sh/beatmapsets/1267298#osu/2633754)
+  2. [Tokyo Jihen - Gunjou Biyori (Nymphe) \[AR 8\]](https://osu.ppy.sh/beatmapsets/1976824#osu/4121336)
+  3. [Sleeping Pola - kuuchuubunkai (Raijodo) \[FlyingTuna's Extra\]](https://osu.ppy.sh/beatmapsets/1988616#osu/4375019)
+- Hard Rock
+  1. [ShinRa-Bansho - Dramatic Hizakurige (Kirylln) \[Trail of Blazing Hell Fire\]](https://osu.ppy.sh/beatmapsets/926231#osu/2034980)
+  2. [Okabe Keiichi - MONACA - Ammobium (lewski) \[Mankai\]](https://osu.ppy.sh/beatmapsets/2091798#osu/4384680)
+  3. [Dictate - IMITATE (Fisky) \[PorkChop Collab\]](https://osu.ppy.sh/beatmapsets/1201530#osu/2502505)
+- Double Time
+  1. [DJ YOSHITAKA feat. Hoshino Kanato - MAX LOVE (Cellina) \[Another\]](https://osu.ppy.sh/beatmapsets/2191985#osu/4636740)
+  2. [Aphex Twin - Vordhosbn (PandaHero) \[Mirash's Insane\]](https://osu.ppy.sh/beatmapsets/1201290#osu/4420319)
+  3. [Halozy - eliminate anthem (Lasse) \[Demarcation\]](https://osu.ppy.sh/beatmapsets/428052#osu/923985)
+  4. [Reol - FLASH BACK (sukiNathan) \[pishi's Extra\]](https://osu.ppy.sh/beatmapsets/409397#osu/907302)
+- Free Mod
+  1. [ave;new feat. Sakura Saori - Chouetsu Koi Shite Naisho\*Mea!! -Saori no Tsuredesho? version- (kowari) \[Extreme (4WC ver.)\]](https://osu.ppy.sh/beatmapsets/2191821#osu/4636275)
+  2. [LV.4 - Burning Star (ktgster) \[Nytro's Earthgrazer Extreme\]](https://osu.ppy.sh/beatmapsets/2095154#osu/4452821)
+  3. [black midi - Welcome To Hell (Wispy) \[pocket's providence\]](https://osu.ppy.sh/beatmapsets/1936909#osu/4003657)
+- Tiebreaker
+  1. **[Saitama Saisyu Heiki - Alice Ragnarok (Shurelia) \[Armageddon\]](https://osu.ppy.sh/beatmapsets/2191784#osu/4636164)**
 
 ### Semifinals
 
@@ -276,6 +325,46 @@ The 4 Digit World Cup 2024 is run by various community members.
   3. [Utada Hikaru - PINK BLOOD (Agatsu) \[Insane\]](https://osu.ppy.sh/beatmapsets/1891095#osu/3896335)
 
 ## Match Results
+
+### Finals
+
+Detailed statistics for the Finals can be found [here](https://docs.google.com/spreadsheets/d/1ze_eWzlz7FgUW3GfCdygYbTibdXlrw_q0BDgNqj6gUs?rm=minimal).
+
+Saturday, 8 June 2024
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United States** ::{ flag=US }:: | **7** | 1 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/114202439) |
+| **Poland** ::{ flag=PL }:: | **7** | 4 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/114207815) |
+| South Korea ::{ flag=KR }:: | 3 | **7** | ::{ flag=CA }:: **Canada** | [#1](https://osu.ppy.sh/community/matches/114210269) |
+
+Sunday, 9 June 2024
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Canada** ::{ flag=CA }:: | **7** | 2 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/114225792) |
+
+### Semifinals
+
+Detailed statistics for the Semifinals can be found [here](https://docs.google.com/spreadsheets/d/1ENfW5yfkKCrccIUG_KrJ2v8fZcADtkVFsK0k0BqBS8M?rm=minimal).
+
+Saturday, 1 June 2024
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Australia** ::{ flag=AU }:: | **6** | 0 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/114115740) |
+| **France** ::{ flag=FR }:: | **6** | 2 | ::{ flag=SG }:: Singapore | [#1](https://osu.ppy.sh/community/matches/114116360) |
+| Taiwan ::{ flag=TW }:: | 0 | **6** | ::{ flag=CA }:: **Canada** | [#1](https://osu.ppy.sh/community/matches/114118816) |
+| Brazil ::{ flag=BR }:: | 1 | **6** | ::{ flag=SE }:: **Sweden** | [#1](https://osu.ppy.sh/community/matches/114120011) |
+| **United States** ::{ flag=US }:: | **6** | 3 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/114120394) |
+
+Sunday, 2 June 2024
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Canada** ::{ flag=CA }:: | **6** | 1 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/114126061) |
+| South Korea ::{ flag=KR }:: | 4 | **6** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/114131751) |
+| **Sweden** ::{ flag=SE }:: | **6** | 5 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/114132557) |
 
 ### Quarterfinals
 
@@ -530,4 +619,3 @@ Detailed results and statistics for the Qualifier stage can be found in the foll
 [^losers-bracket]: Losers bracket match
 [^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
 [^qualifiers-seeding]: Cumulative z-score, scaled to 0–100
-[^winners-bracket]: Winners bracket match
