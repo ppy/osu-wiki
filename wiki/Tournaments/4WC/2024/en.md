@@ -126,16 +126,16 @@ The 4 Digit World Cup 2024 is run by various community members.
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| China ::{ flag=CN }:: | ::{ flag=CA }:: Canada | Jun 15 (Sat) 02:00 UTC |  | [^losers-bracket] |
+| China ::{ flag=CN }:: | ::{ flag=CA }:: Canada | Jun 15 (Sat) 02:00 UTC | [4wcb](https://twitch.tv/4wcb) | [^losers-bracket] |
 
 ### Sunday, 16 June 2024
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| United States ::{ flag=US }:: | ::{ flag=CA }:: Canada | Jun 16 (Sun) 01:00 UTC |  | [^potential-match] |
-| United States ::{ flag=US }:: | ::{ flag=CN }:: China | Jun 16 (Sun) 02:00 UTC |  | [^potential-match] |
-| Canada ::{ flag=CA }:: | ::{ flag=US }:: United States | Jun 16 (Sun) 02:30 UTC |  | [^potential-match] |
-| China ::{ flag=CN }:: | ::{ flag=US }:: United States | Jun 16 (Sun) 03:30 UTC |  | [^potential-match] |
+| United States ::{ flag=US }:: | ::{ flag=CA }:: Canada | Jun 16 (Sun) 01:00 UTC | [4wcb](https://twitch.tv/4wcb) | [^potential-match] |
+| United States ::{ flag=US }:: | ::{ flag=CN }:: China | Jun 16 (Sun) 02:00 UTC | [4wcb](https://twitch.tv/4wcb) | [^potential-match] |
+| Canada ::{ flag=CA }:: | ::{ flag=US }:: United States | Jun 16 (Sun) 02:30 UTC | [4wcb](https://twitch.tv/4wcb) | [^potential-match] |
+| China ::{ flag=CN }:: | ::{ flag=US }:: United States | Jun 16 (Sun) 03:30 UTC | [4wcb](https://twitch.tv/4wcb) | [^potential-match] |
 
 ## Mappools
 
