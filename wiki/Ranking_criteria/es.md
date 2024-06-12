@@ -1,3 +1,8 @@
+---
+outdated_since: bcccceb00e25b58f13adc7c085280d16e1f0cdfe
+outdated_translation: true
+---
+
 # Criterios de clasificación
 
 *Para los criterios de clasificación específicos de los [modos de juego](/wiki/Game_mode), véase: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch) y [osu!mania](osu!mania)*\
