@@ -9,7 +9,7 @@ It's the latest in a series of top player interviews, now featuring the osu!mani
 
 ![](/wiki/shared/news/2024-06-17-the-followpoint-dressurf-top-keyboard-smasher/banner.jpg)
 
-That's right, following previous interviews with [mrekk](https://osu.ppy.sh/home/news/2024-05-06-the-followpoint-mrekk-the-osu-standard-prodigy), [YesMyDarknesss](https://osu.ppy.sh/home/news/2024-05-28-the-followpoint-yesmydarknesss-the-master-of-osu-catch) and [dressurf](https://osu.ppy.sh/users/758406), top players of osu!, osu!catch, and osu!taiko respectively, this edition of The Followpoint continues the pattern by featuring osu!mania's rank #1 player and the [osu!mania 7K World Cup 2024](/wiki/Tournaments/MWC/2024_7K) champion.
+That's right, following previous interviews with [mrekk](https://osu.ppy.sh/home/news/2024-05-06-the-followpoint-mrekk-the-osu-standard-prodigy), [YesMyDarknesss](https://osu.ppy.sh/home/news/2024-05-28-the-followpoint-yesmydarknesss-the-master-of-osu-catch) and [Eriha](https://osu.ppy.sh/users/16320311), top players of osu!, osu!catch, and osu!taiko respectively, this edition of The Followpoint continues the pattern by featuring osu!mania's rank #1 player and the [osu!mania 7K World Cup 2024](/wiki/Tournaments/MWC/2024_7K) champion.
 
 Simply read on for a look into [dressurf](https://osu.ppy.sh/users/758406)'s insight:
 
