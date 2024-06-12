@@ -167,7 +167,7 @@ This competition has come to an end and resulted in the following podium:
   4. [Erehamonika remixed by kors k - Der Wald (kors k Remix) (\[GB\]V1do) \[isoLatioN\]](https://osu.ppy.sh/beatmapsets/2167498#mania/4572990)
 - Tiebreaker
   1. [ReeK/Asatsumei/L4hee - Deity Mode (Llkkm) \[Let Them Fly\]](https://osu.ppy.sh/beatmapsets/2166700#mania/4571255)
- 
+
 ### Semifinals
 
 **[Download the mappack here](https://drive.google.com/file/d/1e95FF1Ip32N0iqEY86eSmoH-HXeYPYdU/view?usp=sharing)**
@@ -182,13 +182,13 @@ This competition has come to an end and resulted in the following podium:
 - Hybrid
   1. [Camellia - Proluvies ("abyssum oblivionis" Long ver.) (Paraxia) \[overflow the abyss\]](https://osu.ppy.sh/beatmapsets/1799094#mania/3688176)
   2. [TAG - PRIMITIVE LIGHTS (cherrychou) \[Future (NSV)\]](https://osu.ppy.sh/beatmapsets/1967666#mania/4081087)
-  3. [Gram - eden (PORTTAYER) \['Edit' no Daitenshi <Tayer>\]](https://osu.ppy.sh/beatmapsets/2183720#mania/4614467)
+  3. [Gram - eden (PORTTAYER) \['Edit' no Daitenshi \<Tayer\>\]](https://osu.ppy.sh/beatmapsets/2183720#mania/4614467)
 - LN
   1. [Trouble Maker - Trouble Maker (\[GB\]Reisen) \[Trouble Coordinator\]](https://osu.ppy.sh/beatmapsets/2046195#mania/4275303)
   2. [tokiwa - Kotodama rifurein (katagiri Bootleg) (YuEast 2018) \[x1.05\]](https://osu.ppy.sh/beatmapsets/2153114#mania/4536752)
   3. [Hardwell & Headhunterz ft. Haris - Nothing Can Hold Us Down (YuEast 2018) \[x1.05\]](https://osu.ppy.sh/beatmapsets/1997842#mania/4614434)
 - Tiebreaker
-  1. [GTS Sound Team - <<wr/d.:maker>> ~Harmony in Reset~ (\[GB\]V1do) \[<<cleanse/reborn.:deliverence>>\]](https://osu.ppy.sh/beatmapsets/2183742#mania/4614522)
+  1. [GTS Sound Team - <<wr/d.:maker>> ~Harmony in Reset~ (\[GB\]V1do) \[\<\<cleanse/reborn.:deliverence\>\>\]](https://osu.ppy.sh/beatmapsets/2183742#mania/4614522)
 
 ### Quarterfinals
 
