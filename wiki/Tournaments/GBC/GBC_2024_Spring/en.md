@@ -1,4 +1,4 @@
-![image](https://github.com/HanHan3z/osu-wiki/assets/127032928/89c78741-7492-4b29-bfa0-f61c236eb9b8)---
+---
 tags:
   - GBC
   - GBC2024
@@ -125,92 +125,92 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here](https://drive.google.com/file/d/1F586C49z1Frip7f929yExvWEPBGMSLFB/view?usp=sharing)**
 
 - Rice
-  1. [Tokino Sora, Hoshimachi Suisei, Omaru Polka, Hakui Koyori, Sakamata Chloe - Kaibutsu (\[GB\]Sanae) \[Monster (179bpm)\]](https://osu.ppy.sh/b/4635613)
-  2. [BEMANI Sound Team "HuMeR" feat. Fernweh - Sakazuki (\[GB\]V1do) \[Lunatic\]](https://osu.ppy.sh/b/4599336)
-  3. [Manbou Nitouhei - Faraway (PORTTAYER) \[buff x1.05\]](https://osu.ppy.sh/b/4624315)
-  4. [Kagetora. - Time to beat the odds (Blue_Potion) \[ChordJack Full on! 1.05x\]](https://osu.ppy.sh/b/4635655)
-  5. [Steven Grove (Monster Siren Records) - Stultifer Cantus (Song of Fools) (Hylotl) \[The Golden Age will return again (nerfed)\]](https://osu.ppy.sh/b/4626718)
-  6. [Rahatt - Mafijas Breakcore (Kyrya) \[Tsar2 [1.05x]\]](https://osu.ppy.sh/b/3785830)
-  7. [Terminal 11 - 44 Edit (zaalseen) \[1.1\]](https://osu.ppy.sh/b/3966820)
+  1. [Tokino Sora, Hoshimachi Suisei, Omaru Polka, Hakui Koyori, Sakamata Chloe - Kaibutsu (\[GB\]Sanae) \[Monster (179bpm)\]](https://osu.ppy.sh/beatmapsets/2191523#mania/4635613)
+  2. [BEMANI Sound Team "HuMeR" feat. Fernweh - Sakazuki (\[GB\]V1do) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/2177816#mania/4599336)
+  3. [Manbou Nitouhei - Faraway (PORTTAYER) \[buff x1.05\]](https://osu.ppy.sh/beatmapsets/2186174#mania/4624315)
+  4. [Kagetora. - Time to beat the odds (Blue_Potion) \[ChordJack Full on! 1.05x\]](https://osu.ppy.sh/beatmapsets/2191537#mania/4635655)
+  5. [Steven Grove (Monster Siren Records) - Stultifer Cantus (Song of Fools) (Hylotl) \[The Golden Age will return again (nerfed)\]](https://osu.ppy.sh/beatmapsets/2188101#mania/4626718)
+  6. [Rahatt - Mafijas Breakcore (Kyrya) \[Tsar2 \[1.05x\]\]](https://osu.ppy.sh/beatmapsets/1843152#mania/3785830)
+  7. [Terminal 11 - 44 Edit (zaalseen) \[1.1\]](https://osu.ppy.sh/beatmapsets/1921793#mania/3966820)
 - Hybrid
-  1. [Kou! - SELENE-UI (cherrychou) \[Moon personifications\]](https://osu.ppy.sh/b/4631523)
-  2. [Camellia - LORELEI (\[GB\]V1do) \[Angelic Sanctuary 1.1x (237bpm) OD7.5\]](https://osu.ppy.sh/b/4635637)
-  3. [cosMo@Bousou-P - Finding Blessing and Glory in the Last Piece (PORTTAYER) \[Catch the Glory (edit)\]](https://osu.ppy.sh/b/4625435)
+  1. [Kou! - SELENE-UI (cherrychou) \[Moon personifications\]](https://osu.ppy.sh/beatmapsets/2189803#mania/4631523)
+  2. [Camellia - LORELEI (\[GB\]V1do) \[Angelic Sanctuary 1.1x (237bpm) OD7.5\]](https://osu.ppy.sh/beatmapsets/2130289#mania/4635637)
+  3. [cosMo@Bousou-P - Finding Blessing and Glory in the Last Piece (PORTTAYER) \[Catch the Glory (edit)\]](https://osu.ppy.sh/beatmapsets/2186708#mania/4625435)
 - LN
-  1. [Kairiki Bear feat. Hatsune Miku - Darling Dance (Hylotl) \[xiong^2\]](https://osu.ppy.sh/b/4584619)
-  2. [MisomyL - Amnehilesie (Hylotl) \[Edit [1.05x Rate]\]](https://osu.ppy.sh/b/4635517)
-  3. [KAZE.o2SE - Earth Quake (Hylotl) \[Shindo 6+\]](https://osu.ppy.sh/b/4618146)
-  4. [Various Artists - Toresen Ondo (RiceSS) \[Fiesta\]](https://osu.ppy.sh/b/4391455)
+  1. [Kairiki Bear feat. Hatsune Miku - Darling Dance (Hylotl) \[xiong^2\]](https://osu.ppy.sh/beatmapsets/2172060#mania/4584619)
+  2. [MisomyL - Amnehilesie (Hylotl) \[Edit \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/2191478#mania/4635517)
+  3. [KAZE.o2SE - Earth Quake (Hylotl) \[Shindo 6+\]](https://osu.ppy.sh/beatmapsets/2184770#mania/4618146)
+  4. [Various Artists - Toresen Ondo (RiceSS) \[Fiesta\]](https://osu.ppy.sh/beatmapsets/2094390#mania/4391455)
 - Tiebreaker
-  1. [Gram - Sigrdrifa (\[GB\]yobrevelc) \[Gladiatorship Beyond Cataclysm\]](https://osu.ppy.sh/b/4635687)
+  1. [Gram - Sigrdrifa (\[GB\]yobrevelc) \[Gladiatorship Beyond Cataclysm\]](https://osu.ppy.sh/beatmapsets/2191555#mania/4635687)
 
 ### Finals
 
 **[Download the mappack here](https://drive.google.com/file/d/1LozcryJAii6sbt9Eu09r31_W7RJ5DOFD/view?usp=sharing)**
 
 - Rice
-  1. [ARForest - Farewell (Hylotl) \[How the world says goodbye.. (remap)\]](https://osu.ppy.sh/b/4605781)
-  2. [sasakure.UK feat. Shirakami Fubuki - KINGWORLD (YuEast 2018) \[x1.10\]](https://osu.ppy.sh/b/4457339)
-  3. [MikitoP feat. Kagamine Rin - Roki (7_7's frenchcore(?) bootleg) (\[GB\]V1do) \[Under Construction\]](https://osu.ppy.sh/b/4575649)
-  4. [Camellia vs. lapix - Hypnotize (cut ver.) (\[GB\]Thaumiel) \[Infinite Dimensions [1.05x Rate]\]](https://osu.ppy.sh/b/4588430)
-  5. [RoughSketch feat. Kitakoji Hisui - Halloween Is Chaos (PORTTAYER) \[MADDEST NIGHTMARE x1.05\]](https://osu.ppy.sh/b/4621882)
-  6. [Fusq x Moe Shop ft. Hentai Dude - Perfume x Superstar (Ska) \[1.1\]](https://osu.ppy.sh/b/3107133)
-  7. [ARForest - Birds Of Plague (Llkkm) \[like plumage 1.05x (210bpm) OD8\]](https://osu.ppy.sh/b/4618140)
+  1. [ARForest - Farewell (Hylotl) \[How the world says goodbye.. (remap)\]](https://osu.ppy.sh/beatmapsets/2180446#mania/4605781)
+  2. [sasakure.UK feat. Shirakami Fubuki - KINGWORLD (YuEast 2018) \[x1.10\]](https://osu.ppy.sh/beatmapsets/2116417#mania/4457339)
+  3. [MikitoP feat. Kagamine Rin - Roki (7_7's frenchcore(?) bootleg) (\[GB\]V1do) \[Under Construction\]](https://osu.ppy.sh/beatmapsets/2168497#mania/4575649)
+  4. [Camellia vs. lapix - Hypnotize (cut ver.) (\[GB\]Thaumiel) \[Infinite Dimensions \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/2173521#mania/4588430)
+  5. [RoughSketch feat. Kitakoji Hisui - Halloween Is Chaos (PORTTAYER) \[MADDEST NIGHTMARE x1.05\]](https://osu.ppy.sh/beatmapsets/2186171#mania/4621882)
+  6. [Fusq x Moe Shop ft. Hentai Dude - Perfume x Superstar (Ska) \[1.1\]](https://osu.ppy.sh/beatmapsets/1517816#mania/3107133)
+  7. [ARForest - Birds Of Plague (Llkkm) \[like plumage 1.05x (210bpm) OD8\]](https://osu.ppy.sh/beatmapsets/2184766#mania/4618140)
 - Hybrid
-  1. [Lite Show Magic - TRICKL4SH 220 (\[GB\]V1do) \[MP: 242/242\]](https://osu.ppy.sh/b/4589344)
-  2. [Chroma - Sukoshi Saiba a, Oeyama (PORTTAYER) \[more ln x1.05\]](https://osu.ppy.sh/b/4620541)
-  3. [Billain - Boogie (nayeonie bunny) \[Beginner (edit)\]](https://osu.ppy.sh/b/4624225)
+  1. [Lite Show Magic - TRICKL4SH 220 (\[GB\]V1do) \[MP: 242/242\]](https://osu.ppy.sh/beatmapsets/2173876#mania/4589344)
+  2. [Chroma - Sukoshi Saiba a, Oeyama (PORTTAYER) \[more ln x1.05\]](https://osu.ppy.sh/beatmapsets/2007826#mania/4620541)
+  3. [Billain - Boogie (nayeonie bunny) \[Beginner (edit)\]](https://osu.ppy.sh/beatmapsets/2145612#mania/4624225)
 - LN
-  1. [inabakumori - An image in the making (11Bit) \[a2 x1.15_P\]](https://osu.ppy.sh/b/4556491)
-  2. [Yumeno Yuki - BWLAUTE BEIRRD (Hylotl) \[BIG FOUR [1.1x Rate]\]](https://osu.ppy.sh/b/4620462)
-  3. [Kommisar - AKARI BEAM CANNON LAST BOSS (\[GB\]V1do) \[NOODLE BEAM\]](https://osu.ppy.sh/b/4448812)
-  4. [Erehamonika remixed by kors k - Der Wald (kors k Remix) (\[GB\]V1do) \[isoLatioN\]](https://osu.ppy.sh/b/4572990)
+  1. [inabakumori - An image in the making (11Bit) \[a2 x1.15_P\]](https://osu.ppy.sh/beatmapsets/2160722#mania/4556491)
+  2. [Yumeno Yuki - BWLAUTE BEIRRD (Hylotl) \[BIG FOUR \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/2185747#mania/4620462)
+  3. [Kommisar - AKARI BEAM CANNON LAST BOSS (\[GB\]V1do) \[NOODLE BEAM\]](https://osu.ppy.sh/beatmapsets/2118197#mania/4448812)
+  4. [Erehamonika remixed by kors k - Der Wald (kors k Remix) (\[GB\]V1do) \[isoLatioN\]](https://osu.ppy.sh/beatmapsets/2167498#mania/4572990)
 - Tiebreaker
-  1. [ReeK/Asatsumei/L4hee - Deity Mode (Llkkm) \[Let Them Fly\]](https://osu.ppy.sh/b/4571255)
+  1. [ReeK/Asatsumei/L4hee - Deity Mode (Llkkm) \[Let Them Fly\]](https://osu.ppy.sh/beatmapsets/2166700#mania/4571255)
  
 ### Semifinals
 
 **[Download the mappack here](https://drive.google.com/file/d/1e95FF1Ip32N0iqEY86eSmoH-HXeYPYdU/view?usp=sharing)**
 
 - Rice
-  1. [Dasu - NAKAKAPAGPABAGABAG (YuEast 2018) \[ x1.10\]](https://osu.ppy.sh/b/4255254)
-  2. [umu. - humanly (\[GB\]Reisen) \[docdocdoc. [GBC edit]\]](https://osu.ppy.sh/b/4614466)
-  3. [Katagiri - #2wise4u (\[GB\]V1do) \[#230hard4.6u\]](https://osu.ppy.sh/b/4614486)
-  4. [seleP - Remember Me (riunosk) \[REMEMBER THE CHORDJACKS\]](https://osu.ppy.sh/b/2138692)
-  5. [kukonichi demo koiga shitai (yueast 2018) \[x1.10\]](https://osu.ppy.sh/b/4607336)
-  6. [Voysol - ROUGE: MYTH (elexire) \[XXII\]](https://osu.ppy.sh/b/4141993)
+  1. [Dasu - NAKAKAPAGPABAGABAG (YuEast 2018) \[x1.10\]](https://osu.ppy.sh/beatmapsets/2039937#mania/4255254)
+  2. [umu. - humanly (\[GB\]Reisen) \[docdocdoc. \[GBC edit\]\]](https://osu.ppy.sh/beatmapsets/2042721#mania/4614466)
+  3. [Katagiri - #2wise4u (\[GB\]V1do) \[#230hard4.6u\]](https://osu.ppy.sh/beatmapsets/1851303#mania/4614486)
+  4. [seleP - Remember Me (riunosk) \[REMEMBER THE CHORDJACKS\]](https://osu.ppy.sh/beatmapsets/1022231#mania/2138692)
+  5. [kukonichi demo koiga shitai (yueast 2018) \[x1.10\]](https://osu.ppy.sh/beatmapsets/2109074#mania/4607336)
+  6. [Voysol - ROUGE: MYTH (elexire) \[XXII\]](https://osu.ppy.sh/beatmapsets/1985425#mania/4141993)
 - Hybrid
-  1. [Camellia - Proluvies ("abyssum oblivionis" Long ver.) (Paraxia) \[overflow the abyss\]](https://osu.ppy.sh/b/3688176)
-  2. [TAG - PRIMITIVE LIGHTS (cherrychou) \[Future (NSV)\]](https://osu.ppy.sh/b/4081087)
-  3. [Gram - eden (PORTTAYER) \['Edit' no Daitenshi <Tayer>\]](https://osu.ppy.sh/b/4614467)
+  1. [Camellia - Proluvies ("abyssum oblivionis" Long ver.) (Paraxia) \[overflow the abyss\]](https://osu.ppy.sh/beatmapsets/1799094#mania/3688176)
+  2. [TAG - PRIMITIVE LIGHTS (cherrychou) \[Future (NSV)\]](https://osu.ppy.sh/beatmapsets/1967666#mania/4081087)
+  3. [Gram - eden (PORTTAYER) \['Edit' no Daitenshi <Tayer>\]](https://osu.ppy.sh/beatmapsets/2183720#mania/4614467)
 - LN
-  1. [Trouble Maker - Trouble Maker (\[GB\]Reisen) \[Trouble Coordinator\]](https://osu.ppy.sh/b/4275303)
-  2. [tokiwa - Kotodama rifurein (katagiri Bootleg) (YuEast 2018) \[x1.05\]](https://osu.ppy.sh/b/4536752)
-  3. [Hardwell & Headhunterz ft. Haris - Nothing Can Hold Us Down (YuEast 2018) \[x1.05\]](https://osu.ppy.sh/b/4614434)
+  1. [Trouble Maker - Trouble Maker (\[GB\]Reisen) \[Trouble Coordinator\]](https://osu.ppy.sh/beatmapsets/2046195#mania/4275303)
+  2. [tokiwa - Kotodama rifurein (katagiri Bootleg) (YuEast 2018) \[x1.05\]](https://osu.ppy.sh/beatmapsets/2153114#mania/4536752)
+  3. [Hardwell & Headhunterz ft. Haris - Nothing Can Hold Us Down (YuEast 2018) \[x1.05\]](https://osu.ppy.sh/beatmapsets/1997842#mania/4614434)
 - Tiebreaker
-  1. [GTS Sound Team - <<wr/d.:maker>> ~Harmony in Reset~ (\[GB\]V1do) \[<<cleanse/reborn.:deliverence>>\]](https://osu.ppy.sh/b/4614522)
+  1. [GTS Sound Team - <<wr/d.:maker>> ~Harmony in Reset~ (\[GB\]V1do) \[<<cleanse/reborn.:deliverence>>\]](https://osu.ppy.sh/beatmapsets/2183742#mania/4614522)
 
 ### Quarterfinals
 
 **[Download the mappack here](https://drive.google.com/file/d/1Ltr7CQRQMjEMKZ-BGxDUrK7Ctq-YU1nc/view?usp=sharing)**
 
 - Rice
-  1. [Christell - Dubidubidu (Cut Ver.) (\[GB\]Mafufu) \[Dubidubi Dabadaba [Edit]\]](https://osu.ppy.sh/b/4602497)
-  2. [DJ Sharpnel - 20031023 (Koishi-0514) \[Revitalization 1.3x (233bpm) OD8\]](https://osu.ppy.sh/b/4517230)
-  3. [Sakanaction - Aoi (PORTTAYER) \[Fukaku ×1.3\]](https://osu.ppy.sh/b/4425305)
-  4. [Shan Bao - Ji Ming Yue (\[GB\]Sanae) \[Extra\]](https://osu.ppy.sh/b/4436121)
-  5. [Kamiyama Yoh - YELLOW (\[GB\]V1do) \[#FFFF00 1.05x (124bpm) OD8\]](https://osu.ppy.sh/b/4572034)
-  6. [Haraguchi Sasuke - Hito mania (CrewK) \[osu mania\]](https://osu.ppy.sh/b/4359444)
+  1. [Christell - Dubidubidu (Cut Ver.) (\[GB\]Mafufu) \[Dubidubi Dabadaba [Edit]\]](https://osu.ppy.sh/beatmapsets/2171139#mania/4602497)
+  2. [DJ Sharpnel - 20031023 (Koishi-0514) \[Revitalization 1.3x (233bpm) OD8\]](https://osu.ppy.sh/beatmapsets/2144724#mania/4517230)
+  3. [Sakanaction - Aoi (PORTTAYER) \[Fukaku ×1.3\]](https://osu.ppy.sh/beatmapsets/2108555#mania/4425305)
+  4. [Shan Bao - Ji Ming Yue (\[GB\]Sanae) \[Extra\]](https://osu.ppy.sh/beatmapsets/2112871#mania/4436121)
+  5. [Kamiyama Yoh - YELLOW (\[GB\]V1do) \[#FFFF00 1.05x (124bpm) OD8\]](https://osu.ppy.sh/beatmapsets/2167080#mania/4572034)
+  6. [Haraguchi Sasuke - Hito mania (CrewK) \[osu mania\]](https://osu.ppy.sh/beatmapsets/2081615#mania/4359444)
 - Hybrid
-  1. [YUC'e - Sunset Tea Cup (LaoXiao-) \[Sweet\]](https://osu.ppy.sh/b/3927879)
-  2. [Sampling Masters MEGA - Rotter Tarmination (\[GB\]V1do) \[waht\]](https://osu.ppy.sh/b/4573267)
-  3. [rintaro soma - Tsunagite (cherrychou) \[Master\]](https://osu.ppy.sh/b/4510181)
+  1. [YUC'e - Sunset Tea Cup (LaoXiao-) \[Sweet\]](https://osu.ppy.sh/beatmapsets/1904938#mania/3927879)
+  2. [Sampling Masters MEGA - Rotter Tarmination (\[GB\]V1do) \[waht\]](https://osu.ppy.sh/beatmapsets/2167638#mania/4573267)
+  3. [rintaro soma - Tsunagite (cherrychou) \[Master\]](https://osu.ppy.sh/beatmapsets/2142326#mania/4510181)
 - LN
-  1. [kurageP feat. Yuzuki Yukari - Chururira Chururira Daddadda! (PORTTAYER) \[Editedda!\]](https://osu.ppy.sh/b/4605139)
-  2. [Slax - Blight My Name (\[GB\]V1do) \[Noodle Density: 200mg/L\]](https://osu.ppy.sh/b/4572205)
-  3. [Nene Anegasaki feat. Salita - Act Beloved (Hylotl) \[Deserved\]](https://osu.ppy.sh/b/4600240)
+  1. [kurageP feat. Yuzuki Yukari - Chururira Chururira Daddadda! (PORTTAYER) \[Editedda!\]](https://osu.ppy.sh/beatmapsets/2132766#mania/4605139)
+  2. [Slax - Blight My Name (\[GB\]V1do) \[Noodle Density: 200mg/L\]](https://osu.ppy.sh/beatmapsets/2167150#mania/4572205)
+  3. [Nene Anegasaki feat. Salita - Act Beloved (Hylotl) \[Deserved\]](https://osu.ppy.sh/beatmapsets/2178222#mania/4600240)
 - Tiebreaker
-  1. [Ludicin - Bismuth (7912) \[GBC Edit\]](https://osu.ppy.sh/b/4605171)
+  1. [Ludicin - Bismuth (7912) \[GBC Edit\]](https://osu.ppy.sh/beatmapsets/2180164#mania/4605171)
 
 ### Regular Stage
 
