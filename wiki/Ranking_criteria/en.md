@@ -1,35 +1,44 @@
 # Ranking criteria
 
 This article sets rules and guidelines that [beatmaps](/wiki/Beatmap) must follow in order to progress through the [ranking procedure](/wiki/Beatmap_ranking_procedure).
-- **Rules must not be broken under any circumstance**
+
+- **Rules must not be broken under any circumstance.**
 - **Guidelines may be ignored and broken under exceptional circumstances.** When doing so, a sufficient explanation should be provided by the mapper either upfront or when prompted during the modding process.
 
 ## Proposing changes
-Changes to any part of the ranking criteria are proposed through the [Ranking Criteria forum](/community/forums/87). 
-1. **Create a proposal in the [Ranking Criteria forum](/community/forums/87).** Try to be as detailed as possible while explaining your idea and the change's impact.
+
+Changes to any part of the ranking criteria are proposed through the [Ranking Criteria forum](https://osu.ppy.sh/community/forums/87). 
+
+1. **Create a proposal in the [Ranking Criteria forum](https://osu.ppy.sh/community/forums/87).** Try to be as detailed as possible while explaining your idea and the change's impact.
 2. **Come to a consensus.** If you think you are at that point, reach out to a member of the [NAT](/wiki/People/Nomination_Assessment_Team) to see if your proposal can be implemented. To an extent, the NAT can act as the arbiter in contentious cases, but proposals without a general consensus will likely not pass.
 3. **Create a pull request on the osu!wiki GitHub repository.** Usually, this is done by a member of the NAT involved in finalising the discussion.
-4. **Wait on approval from [peppy](/users/2).**
+4. **Wait on approval from [peppy](https://osu.ppy.sh/users/2).**
 
 Changes that do not alter the meaning or intention of the ranking criteria, such as improvements to spelling, grammar, or organisation, may not need a forum proposal. It is still recommended to check with experienced community members that the changes are helpful and welcome.
 
 ## Table of contents
+
 Parts of the Ranking Criteria have their own articles while still applying to all beatmaps regardless of game mode, length, or any other restrictions.
 
 ### Summary
+
 - **[Simplified ranking criteria](Simplified_ranking_criteria):** This article summarizes the big picture of the ranking criteria articles, because this set of articles is complicated. Please note that this article is not exhaustive and the corresponding ranking criteria articles should be used when in doubt.
 
 ### General extensions
+
 - **[Content usage permissions](/wiki/Rules/Content_usage_permissions)**: Media usage guidelines for all beatmaps
 - **[Visual content considerations](/wiki/Rules/Visual_content_considerations)**: Guidelines covering any imagery found in osu! Beatmap background, storyboard or video content
 - **[Song content rules](/wiki/Rules/Song_content_rules)**: Guidelines covering any audio content in beatmaps
 - **[Code of conduct for modding and mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)**: Rules and guidelines for engaging in the beatmap modding process
 
 ### General ranking criteria
+
 - **[Metadata](Metadata)**: Rules and guidelines on crediting the beatmap.
 
 ### Game mode specific ranking criteria
+
 In addition, each [game mode](/wiki/Game_mode) has specific ranking criteria that specifically apply to just beatmaps of that gamemode.
+
 - **[osu!](osu!)**
 - **[osu!taiko](osu!taiko)**
 - **[osu!catch](osu!catch)**
