@@ -48,7 +48,7 @@ Send some appreciation to [arcpotato](https://osu.ppy.sh/users/12842392), [meiqt
 
 | Placement | User | Beatmap | Badge prize | Title prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Winner | [Unlucky_w](https://osu.ppy.sh/users/4820793) | [SONG](LINK) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-3.png) | *Elite Mapper* | +2 (7 total) |
+| Winner | [Unlucky_w](https://osu.ppy.sh/users/4820793) | [Kommisar - Clover](https://osu.ppy.sh/beatmapsets/2195848) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-3.png) | *Elite Mapper* | +2 (7 total) |
 | Runner-up | [Ilhamuharam](https://osu.ppy.sh/users/7657968) | [Boom Kitty - Warzone](https://osu.ppy.sh/beatmapsets/2195813) | - | - | +1 (1 total) |
 
 #### Top 8
