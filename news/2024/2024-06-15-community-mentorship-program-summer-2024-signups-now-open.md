@@ -18,9 +18,9 @@ If you're experienced in mapping, modding, or storyboarding, and have a desire t
 
 For this following cycle, the timeline is as follows (all opening and closing dates start and end at midnight UTC+0):
 
-- Mentor signups will open on **June 15th** and close on **June 22nd**.
-- Mentee signups will open on **July 6th** and close on **July 13th**.
-- The 2024 Summer cycle will run from **July 13th** to **October 12th**.
+- Mentor signups will open on **June 15th** and close on **June 23rd**.
+- Mentee signups will open on **July 7th** and close on **July 14th**.
+- The 2024 Summer cycle will run from **July 14th** to **October 13th**.
 
 Throughout this cycle, the organisation team will host various events on the Mentorship Discord server, engaging and offering events for mentees and mentors to participate in. These include feedback lobbies, mapping contests, and more! Some of our previous mapping puzzles can be found here in [this thread](https://osu.ppy.sh/community/forums/topics/565382), and previous discussions can be found [here](https://osu.ppy.sh/community/forums/topics/514122).
 
