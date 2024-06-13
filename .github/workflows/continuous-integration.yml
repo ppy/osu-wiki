@@ -76,6 +76,6 @@ jobs:
         if: ${{ !contains(github.event.pull_request.body, 'SKIP_OUTDATED_CHECK') }}
         run: |
           osu-wiki-tools check-outdated-articles \
-            --base-commit HEAD \
+            --base-commit master \
             --no-recommend-autofix \
             --outdated-since "$(git log --format=%H master.. | tail -n 1)"
