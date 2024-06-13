@@ -141,7 +141,7 @@ When the entire field is uppercase or lowercase, markers may use alternative cas
 - **If there are similar markers in a song's title, replace them with the relevant marker from the list below.** 
 - **If there are no markers, you can only add them when there are multiple versions of a song to indicate the correct version.**
 - `(Short Ver.)`
-  - Usually used to signal that a longer version actually exists. Use this when there is an existing length marker such as `-Short Ver-`, `Short Ver.`, `~Short Version~` and `Movie` or `Game Ver.` do not apply.
+  - Usually used to signal that a longer version actually exists. Use this when there is an existing length marker such as `-Short Ver-`, `Short Ver.`, `~Short Version~`. This does not apply to `Movie` or `Game Ver.` markers.
 - `(Game Ver.)`
   - Use this marker when there is an existing marker such as `~Game Size~`, `(Game Size)`, `game OP edit`, `OP Version` for tracks used in games.
 - `(Movie Ver.)`
@@ -193,7 +193,7 @@ When the entire field is uppercase or lowercase, markers may use alternative cas
   - **`Featured Artist`, if the track is listed in the [Featured Artist catalogue](https://osu.ppy.sh/beatmaps/artists).** You must not use the tag if the song is not in the featured artist catalogue.
   - **At least one song genre and one language tag.** 
     - For instrumental tracks, `instrumental` is the language tag.
-    - For tracks in artificially created languages add `conlang` to tags and use its name as the language tag.
+    - For tracks in artificially created languages add `conlang` to tags and use the conlang's name as the language tag.
     - If the lyrics in the song have no meaning, the language tag is not required.
     - If the genre and language are not obvious, include as many as applicable. For example songs sung in multiple languages that span multiple genres.
   - **Original song and artist names not present in other fields if the song is a remix, edit, cover, etc.**
