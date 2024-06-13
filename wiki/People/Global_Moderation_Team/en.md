@@ -174,7 +174,7 @@ Small intro paragraph to explain what exactly tournament management is, or what 
 | :-- | :-- |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Swedish, Spanish |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Portuguese, Spanish |
-| ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) |
+| ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | German |
 
 ### Technical support
 
