@@ -142,7 +142,7 @@ GBC 2024 春季周常活动由 GB 成员和多位社区成员举办。
   3. [KAZE.o2SE - Earth Quake (Hylotl) \[Shindo 6+\]](https://osu.ppy.sh/beatmapsets/2184770#mania/4618146)
   4. [Various Artists - Toresen Ondo (RiceSS) \[Fiesta\]](https://osu.ppy.sh/beatmapsets/2094390#mania/4391455)
 - Tiebreaker
-  1. [Gram - Sigrdrifa (\[GB\]yobrevelc) \[Gladiatorship Beyond Cataclysm\]](https://osu.ppy.sh/beatmapsets/2191555#mania/4635687)
+  1. **[Gram - Sigrdrifa (\[GB\]yobrevelc) \[Gladiatorship Beyond Cataclysm\]](https://osu.ppy.sh/beatmapsets/2191555#mania/4635687)**
 
 ### 决赛
 
@@ -166,7 +166,7 @@ GBC 2024 春季周常活动由 GB 成员和多位社区成员举办。
   3. [Kommisar - AKARI BEAM CANNON LAST BOSS (\[GB\]V1do) \[NOODLE BEAM\]](https://osu.ppy.sh/beatmapsets/2118197#mania/4448812)
   4. [Erehamonika remixed by kors k - Der Wald (kors k Remix) (\[GB\]V1do) \[isoLatioN\]](https://osu.ppy.sh/beatmapsets/2167498#mania/4572990)
 - Tiebreaker
-  1. [ReeK/Asatsumei/L4hee - Deity Mode (Llkkm) \[Let Them Fly\]](https://osu.ppy.sh/beatmapsets/2166700#mania/4571255)
+  1. **[ReeK/Asatsumei/L4hee - Deity Mode (Llkkm) \[Let Them Fly\]](https://osu.ppy.sh/beatmapsets/2166700#mania/4571255)**
 
 ### 半决赛
 
@@ -188,7 +188,7 @@ GBC 2024 春季周常活动由 GB 成员和多位社区成员举办。
   2. [tokiwa - Kotodama rifurein (katagiri Bootleg) (YuEast 2018) \[x1.05\]](https://osu.ppy.sh/beatmapsets/2153114#mania/4536752)
   3. [Hardwell & Headhunterz ft. Haris - Nothing Can Hold Us Down (YuEast 2018) \[x1.05\]](https://osu.ppy.sh/beatmapsets/1997842#mania/4614434)
 - Tiebreaker
-  1. [GTS Sound Team - <<wr/d.:maker>> ~Harmony in Reset~ (\[GB\]V1do) \[\<\<cleanse/reborn.:deliverence\>\>\]](https://osu.ppy.sh/beatmapsets/2183742#mania/4614522)
+  1. **[GTS Sound Team - <<wr/d.:maker>> ~Harmony in Reset~ (\[GB\]V1do) \[\<\<cleanse/reborn.:deliverence\>\>\]](https://osu.ppy.sh/beatmapsets/2183742#mania/4614522)**
 
 ### 四分之一决赛
 
@@ -210,7 +210,7 @@ GBC 2024 春季周常活动由 GB 成员和多位社区成员举办。
   2. [Slax - Blight My Name (\[GB\]V1do) \[Noodle Density: 200mg/L\]](https://osu.ppy.sh/beatmapsets/2167150#mania/4572205)
   3. [Nene Anegasaki feat. Salita - Act Beloved (Hylotl) \[Deserved\]](https://osu.ppy.sh/beatmapsets/2178222#mania/4600240)
 - Tiebreaker
-  1. [Ludicin - Bismuth (7912) \[GBC Edit\]](https://osu.ppy.sh/beatmapsets/2180164#mania/4605171)
+  1. **[Ludicin - Bismuth (7912) \[GBC Edit\]](https://osu.ppy.sh/beatmapsets/2180164#mania/4605171)**
 
 ### Regular Stage
 
