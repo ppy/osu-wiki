@@ -1,4 +1,6 @@
 ---
+outdated_since: 604aaa76220ed13a218d285ffcf0b979b6354719
+outdated_translation: true
 no_native_review: true
 tags:
   - DS
