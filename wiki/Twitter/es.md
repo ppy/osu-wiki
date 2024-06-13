@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: f474e1bcf073565b3f2ea07581ef55e000b8034f
+---
+
 # Twitter
 
 osu! tiene bastantes cuentas de Twitter, cada una para diferentes propósitos. La mayoría no son muy activas pero pueden ayudarte a mantenerte informado afuera del ecosistema de osu!.
