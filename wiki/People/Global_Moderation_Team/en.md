@@ -132,6 +132,7 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  |
 | ::{ flag=FR }:: [Corne2Plum3](https://osu.ppy.sh/users/15646039) | French |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  |
+| ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | Russian |
 | ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | German |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino |
 | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | German |
@@ -172,9 +173,10 @@ Small intro paragraph to explain what exactly tournament management is, or what 
 
 | Name | Additional languages |
 | :-- | :-- |
+| ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | Dutch, some German |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Swedish, Spanish |
+| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | Some Spanish |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Portuguese, Spanish |
-| ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | German |
 
 ### Technical support
 
@@ -198,6 +200,7 @@ The following users have very specific use cases in the team. The role provides 
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Cantonese, Chinese | [^task-mangomizer] |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu! development |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Official team presence |
+| ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | German | Tournament management |
 | ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | Russian | Wiki administration |
 | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Polish | Team leadership |
 
@@ -208,8 +211,6 @@ The following users don't have a specific area of focus.
 | Name | Additional languages |
 | :-- | :-- |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Serbian |
-| ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | Dutch, some German |
-| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | Some Spanish |
 
 ### Grouped by languages moderated
 
