@@ -108,6 +108,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
 
 ## Match Schedule: Semifinals
 
+*Notice: The current stream schedule is subject to change.*
+
 ### Saturday, 15 June 2024
 
 | Team A | Team B | Match time | Twitch stream |  |
@@ -132,8 +134,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
 | Canada ::{ flag=CA }:: | ::{ flag=PE }:: Peru | [Jun 16 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240616T180000&p1=1440&p2=188&p3=131) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | United States ::{ flag=US }:: | ::{ flag=CL }:: Chile | [Jun 16 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240616T190000&p1=1440&p2=263&p3=232) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | Finals | mappool showcase | [Jun 16 (Sun) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240616T200000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
-
-*Notice: The current stream schedule is subject to change.*
 
 ## Mappools
 
