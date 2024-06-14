@@ -24,19 +24,18 @@ In case your imagination is too clouded with endless possibilities that your hea
 - Mocha and Tama on a flight to compete in the greatest taiko drumming tournament (perhaps starting with either "o" or "E"?), with Tama "practicing" on her drum controller to the detriment of the other travellers, while a dreamy Mocha is relaxing with headphones and the atmospheric view of Don-shaped clouds.
 - A secretly adventurous Alisa dragging the normally composed Mari along on an adventurous trip in a weird but lively city that's built on the underside cliffs of a floating island.
 - The osu! cast at a floating sky cafeteria with a view of radiant sunset clouds.
-- Chirou chilling up in the stratosphere. She can be a bit random at times, but we're sure she's ok.
 
 As always, a selection of the top-voted finalists will make it to the main menu and receive 3 months of osu!supporter, plus the top 3 will also receive fancy bespoke profile badges made from their own creations.
 
 With that out of the way, let's get to—
 
-Oh, hold on, we're getting an urgent call from the osu! headquarters...
+Wait, hold on, we're getting an urgent call from the osu! headquarters...
 
 *unintelligible mumbling*
 
-...oh, one more thing, we're glad to announce that the top 3 finalists will additionally be available for everyone as limited-time selections in the user covers default selection! Now's your chance to rep some osu! fanart swag in your profile page, even if you don't have an active osu!supporter tag!
+...oh, one more thing: we're glad to announce that the top 3 finalists will additionally be available for everyone as a limited-time selection fo default profile banners! Now's your chance to rep some osu! fanart swag in your profile page, even if you don't have an active osu!supporter tag!
 
-Do note that the user covers will be available from the results' announcement date until the next fanart contest.
+The profile banners will be available from the results' announcement date until the next fanart contest.
 
 ## Rules
 
