@@ -6,7 +6,7 @@ Este conjunto de **criterios de clasificación de osu!** establece [reglas y pau
 
 ## Universal
 
-Las reglas y pautas generales se aplican a cualquier tipo de dificultad de osu!. Las reglas y pautas relacionadas con el ritmo se aplican a beatmaps de aproximadamente 180 BPM con compases de 4/4. Si tu canción es drásticamente más rápida o más lenta, algunas variables pueden ser diferentes, como se detalla en [Escalado del BPM según los criterios de clasificación](/wiki/Ranking_criteria/Scaling_BPM).
+Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!. Las reglas y pautas relacionadas con el ritmo se aplican a beatmaps de aproximadamente 180 BPM con compases de 4/4. Si tu canción es drásticamente más rápida o más lenta, algunas variables pueden ser diferentes, como se detalla en [Escalado del BPM según los criterios de clasificación](/wiki/Ranking_criteria/Scaling_BPM).
 
 ### General
 
@@ -18,8 +18,8 @@ Las reglas y pautas generales se aplican a cualquier tipo de dificultad de osu!.
 - **Todas las partes de los objetos en las que se hace clic activamente deben tener al menos un [hitsound](/wiki/Beatmapping/Hitsound) audible que no se mezcle con la canción.** De lo contrario, los jugadores no reciben suficiente apoyo. No se permite el uso de [keysounds](/wiki/Beatmapping/Hitsound#keysound) como hits normales sin otros sonidos de hits adicionales distintos, por ejemplo.
 - **Las dificultades deben convertirse a otros modos de juego sin alterar la calificación por estrellas/puntos de rendimiento.** En ciertos casos, un archivo `.osu` puede tener un formato incorrecto, lo que hace que las dificultades convertidas muestren incorrectamente la calificación por estrellas y recompensen puntos de rendimiento inexactos.
 - **Si el [tiempo de drenaje](/wiki/Beatmap/Drain_time) de cada dificultad es...**
-  - **... inferior a 3:30**, la dificultad más baja no puede ser más difícil que un Normal.
-  - **... entre 3:30 y 4:15**, la dificultad más baja no puede ser más difícil un Hard.
+  - **... menos de 3:30**, la dificultad más baja no puede ser más difícil que un Normal.
+  - **... entre 3:30 y 4:15**, la dificultad más baja no puede ser más difícil que un Hard.
   - **... entre 4:15 y 5:00**, la dificultad más baja no puede ser más difícil que un Insane.
   - Los **[descansos](/wiki/Beatmap/Break) se pueden combinar con el [tiempo de drenaje](/wiki/Beatmap/Drain_time) para alcanzar los umbrales anteriores.** Para la dificultad más alta, esto se limita a como máximo 30 segundos de descanso. Esto no se aplica a las dificultades con menos de 30 segundos de tiempo de drenaje.
 
