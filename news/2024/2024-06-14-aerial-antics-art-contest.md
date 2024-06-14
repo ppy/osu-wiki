@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Aerial Antics Art Contest
-date: 2024-06-14 06:00:00 +0000
+date: 2024-06-14 12:00:00 +0000
 ---
 
 Dive with our mascots into this fanart contest with absolute freedom.
