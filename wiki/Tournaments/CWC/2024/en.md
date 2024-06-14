@@ -131,9 +131,9 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
 | Indonesia ::{ flag=ID }:: | ::{ flag=PL }:: Poland | [Jun 16 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240616T150000&p1=1440&p2=108&p3=262) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | France ::{ flag=FR }:: | ::{ flag=PL }:: Poland | [Jun 16 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240616T160000&p1=1440&p2=195&p3=262) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Canada ::{ flag=CA }:: | ::{ flag=RU }:: Russian Federation | [Jun 16 (Sun) 17:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240616T173000&p1=1440&p2=188&p3=166) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Canada ::{ flag=CA }:: | ::{ flag=PE }:: Peru | [Jun 16 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240616T180000&p1=1440&p2=188&p3=131) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| United States ::{ flag=US }:: | ::{ flag=CL }:: Chile | [Jun 16 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240616T190000&p1=1440&p2=263&p3=232) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Finals | mappool showcase | [Jun 16 (Sun) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240616T200000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| Canada ::{ flag=CA }:: | ::{ flag=PE }:: Peru | [Jun 16 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240616T180000&p1=1440&p2=188&p3=131) | *TBD* | [^potential-match] |
+| United States ::{ flag=US }:: | ::{ flag=CL }:: Chile | [Jun 16 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240616T180000&p1=1440&p2=263&p3=232) | *TBD* | [^winners-bracket] |
+| Finals | mappool showcase | [Jun 16 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240616T200000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Mappools
 
