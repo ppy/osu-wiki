@@ -122,9 +122,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Australia ::{ flag=AU }:: | ::{ flag=PE }:: Peru | [Jun 16 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240616T020000&p1=1440&p2=57&p3=131) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Indonesia ::{ flag=ID }:: | ::{ flag=JP }:: Japan | [Jun 16 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240616T100000&p1=1440&p2=108&p3=248) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Australia ::{ flag=AU }:: | ::{ flag=RU }:: Russian Federation | [Jun 16 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240616T120000&p1=1440&p2=57&p3=166) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | France ::{ flag=FR }:: | ::{ flag=JP }:: Japan | [Jun 16 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240616T130000&p1=1440&p2=195&p3=248) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Indonesia ::{ flag=ID }:: | ::{ flag=PL }:: Poland | [Jun 16 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240616T150000&p1=1440&p2=108&p3=262) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | France ::{ flag=FR }:: | ::{ flag=PL }:: Poland | [Jun 16 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240616T160000&p1=1440&p2=195&p3=262) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
@@ -267,6 +265,14 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
   2. [lapix - Horizon Blue feat. Kanata.N (-Ken) \[The world beyond the everlasting lines\]](https://osu.ppy.sh/beatmapsets/2180225#fruits/4605325)
 
 ## Match results
+
+### Semifinals
+
+Saturday, 15 June 2024:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Canada** ::{ flag=CA }:: | **7** | 1 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/114296540) | [#1](https://www.twitch.tv/videos/2172485852) |
 
 ### Quarterfinals
 
