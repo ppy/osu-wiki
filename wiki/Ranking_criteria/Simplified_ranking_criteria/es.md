@@ -96,7 +96,7 @@ Los **criterios de clasificación simplificados** tienen como objetivo brindar a
   - Un máximo de 192 kbps para archivos `.mp3`.
   - Un máximo de 208 kbps para archivos `.ogg`.
   - Al menos 128 kbps para cualquier tipo de archivo.
-- **Se debe usar un archivo de canción para todas las dificultades.**
+- **Se debe usar un solo archivo de canción para todas las dificultades.**
 - **Establece un punto de vista previo que coincida en todas las dificultades.**
 
 ### Hitsounds
@@ -117,7 +117,7 @@ Los **criterios de clasificación simplificados** tienen como objetivo brindar a
   - **Altura mínima:** 120 píxeles
   - **Ancho máximo:** 2560 píxeles
   - **Altura máxima:** 1440 píxeles
-  - **Tamaño máximo del archivo:** 2,5 MB
+  - **Tamaño máximo del archivo:** 2,5 MB
 - **Incluye un enlace a la fuente del fondo del mapa en la descripción.**
 
 ### Vídeo
