@@ -562,8 +562,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 [^winners-bracket]: Winners bracket match
 [^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
 [^mappool-showcase]: Mappool showcase — schedule subject to rescheduling without prior notice, depending on preceding matches
-[^showcase]: Teams comprised of both commentators and mappooling staff play in a showmatch  
+[^showmatch]: Teams comprised of both commentators and mappooling staff play in a showmatch  
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same MAX% sum
