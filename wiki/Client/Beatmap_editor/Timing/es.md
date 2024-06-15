@@ -12,12 +12,16 @@ tags:
   - copy timing
   - paste timing
   - línea roja
+  - offset rojo
   - compensación roja
   - punto de tiempo rojo
+  - offset no heredado
   - compensación no heredada
   - línea verde
+  - offset verde
   - compensación verde
   - punto de tiempo verde
+  - offset heredado
   - compensación heredada
   - configuración de temporización
   - copiar temporización
