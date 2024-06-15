@@ -108,8 +108,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
 
 ## Match Schedule: Semifinals
 
-*Notice: The current stream schedule is subject to change.*
-
 ### Saturday, 15 June 2024
 
 | Team A | Team B | Match time | Twitch stream |  |
