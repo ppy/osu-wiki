@@ -70,7 +70,7 @@ Once a Global Moderator chooses to depart from the team, they may be granted the
 
 The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all of the team members. In addition to areas mentioned below, all GMT members take part in [reviewing visual and aural content included in beatmaps](/wiki/Rules/Visual_content_considerations#getting-your-image-assessed).
 
-**A member of the GMT can engage with any tasks within any category that they choose, despite their listed primary responsibilities.** For example, a GMT member primarily responsible for chat moderation may also help with forum moderation, or vice versa.
+**A member of the GMT may engage with any task within any category that they choose, regardless of their listed area of focus.** For example, a GMT member primarily responsible for chat moderation may also help with forum moderation.
 
 <!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
 
@@ -84,7 +84,7 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | Dutch, some German |  |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Tournament management[^task-Azer] |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | Chinese, Malay | Chat moderation |
-| ::{ flag= US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  | Chat moderation, forum moderation |
+| ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  | Chat moderation, forum moderation |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Swedish, Spanish | Chat moderation, tournament management |
 | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  | Chat moderation |
 | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | Korean, Japanese | Chat moderation |
