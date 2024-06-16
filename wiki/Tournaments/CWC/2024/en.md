@@ -310,9 +310,9 @@ Sunday, 16 June 2024:
 | Team A |  |  | Team B | Match link | VOD link | Notes |
 | --: | :-: | :-: | :-- | :-- | :-- | :-- |
 | **Staff Red** | **7** | 6 | Staff Blue | [#1](https://osu.ppy.sh/community/matches/114315245) | [#1](https://www.twitch.tv/videos/2173679409) | Semifinals showmatch featuring CWC staff |
-| France ::{ flag=FR }:: | 0 | **7** | ::{ flag=PL }:: **Poland** | [#1](https://osu.ppy.sh/community/matches/114317589) | [#1](https://www.twitch.tv/videos/2173689057) | |
-| **Canada** ::{ flag=CA }:: | **7** | 1 | ::{ flag=PE }:: Peru | [#1](https://osu.ppy.sh/community/matches/114319162) | [#1](https://www.twitch.tv/videos/2173786247) | |
-| **United States** ::{ flag=US }:: | **7** | 1 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/114319136) | [#1](https://www.twitch.tv/videos/2173784029) | |
+| France ::{ flag=FR }:: | 0 | **7** | ::{ flag=PL }:: **Poland** | [#1](https://osu.ppy.sh/community/matches/114317589) | [#1](https://www.twitch.tv/videos/2173689057) |  |
+| **Canada** ::{ flag=CA }:: | **7** | 1 | ::{ flag=PE }:: Peru | [#1](https://osu.ppy.sh/community/matches/114319162) | [#1](https://www.twitch.tv/videos/2173786247) |  |
+| **United States** ::{ flag=US }:: | **7** | 1 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/114319136) | [#1](https://www.twitch.tv/videos/2173784029) |  |
 
 ### Quarterfinals
 
