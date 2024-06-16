@@ -130,25 +130,25 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
 
 ### Finals
 
-**[Download the mappack here (199 MB, *temporary link*)](http://files.leoflt.com/cQwFEh84)**\
+**[Download the mappack here (199 MB)](http://files.leoflt.com/CLT5UXGh)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2173835340)
 
 - No Mod
   1. [seatrus - CIRCVMZENITHAL:ARK (Yoshi\_green) \[YOSHI & RUSTYY'S PARH3LIC:CIRKLE\]](https://osu.ppy.sh/beatmapsets/2198766#fruits/4653068)
   2. [Laur - Cosmic Blaster (ExGon) \[CWC 2024 Finals NM2\]](https://osu.ppy.sh/beatmapsets/2198796#fruits/4653112)
   3. [A.SAKA - KAGUTSUCHI (Nidoking) \[The Flowers of Edo\] *(temporary link)*](http://files.leoflt.com/O3WEbqKt)
-  4. [Will Stetson - Kyu-kurarin (autofanboy) \[Camo's Pandemonium (CWC Edit)\] *(temporary link)*](http://files.leoflt.com/Ra77yaz1)
+  4. [Will Stetson - Kyu-kurarin (autofanboy) \[Camo's Pandemonium (CWC Edit)\]](https://osu.ppy.sh/beatmapsets/2198872#fruits/4653265)
 - Hidden
   1. [25-ji, Nightcord de. x Hatsune Miku - Gehenna (-Rustyy) \[Rustyy & Mochi's Hopelessness\]](https://osu.ppy.sh/beatmapsets/2198786#fruits/4653094)
   2. [Kanno Yugo - Theme of Stone Ocean (Cut Ver.) (Crowley) \[Tell me how you feel\] *(temporary link)*](http://files.leoflt.com/PS04i9Z2)
   3. [Culprate - Helter (wwwww) \[Capitulate\]](https://osu.ppy.sh/beatmapsets/2198816#fruits/4653147)
 - Hard Rock
   1. [Curiowave - Arrival of X (Cut ver.) (rinkiha) \[Emergence\]](https://osu.ppy.sh/beatmapsets/2198791#fruits/4653099)
-  2. [Cansol - 1,2,3,4! (autofanboy) \[Yoshi, Rei & AFB's Conundrum of Mathematics\] *(temporary link)*](http://files.leoflt.com/dWGdk8I2)
+  2. [Cansol - 1,2,3,4! (autofanboy) \[Yoshi, Rei & AFB's Conundrum of Mathematics\]](https://osu.ppy.sh/beatmapsets/2198874#fruits/4653271)
   3. [Raimukun - Myths Orbis (Zyzyx) \[World's Ende (CWC ver.)\]](https://osu.ppy.sh/beatmapsets/2198812#fruits/4653138)
 - Double Time
-  1. [Monster Siren - Misty Memory (Night Version) (Yumeno Himiko) \[Day Day Dream\] *(temporary link)*](http://files.leoflt.com/xeSWu6Yd)
-  2. [KNOWER - Time Traveler (autofanboy) \[Go Backwards!\] *(temporary link)*](http://files.leoflt.com/WZsYIjz1)
+  1. [Monster Siren - Misty Memory (Night Version) (Yumeno Himiko) \[Day Day Dream\]](https://osu.ppy.sh/beatmapsets/2198833#fruits/4653187)
+  2. [KNOWER - Time Traveler (autofanboy) \[Go Backwards!\]](https://osu.ppy.sh/beatmapsets/2198875#fruits/4653272)
   3. [ARForest - The Last Page (Ascendance) \[Final Chapter\]](https://osu.ppy.sh/beatmapsets/2198800#fruits/4653119)
   4. [Brown Eyed Girls - Brave New World (Mrbinking) \[Reversal\]](https://osu.ppy.sh/beatmapsets/2198802#fruits/4653121)
 - Mixed Mod
@@ -307,12 +307,12 @@ Saturday, 15 June 2024:
 
 Sunday, 16 June 2024:
 
-| Team A |  |  | Team B | Match link | VOD link |
-| --: | :-: | :-: | :-- | :-- | :-- |
-| **Staff Red** | **7** | 6 | Staff Blue | [#1](https://osu.ppy.sh/community/matches/114315245) | [#1](https://www.twitch.tv/videos/2173679409) |
-| France ::{ flag=FR }:: | 0 | **7** | ::{ flag=PL }:: **Poland** | [#1](https://osu.ppy.sh/community/matches/114317589) | [#1](https://www.twitch.tv/videos/2173689057) |
-| **Canada** ::{ flag=CA }:: | **7** | 1 | ::{ flag=PE }:: Peru | [#1](https://osu.ppy.sh/community/matches/114319162) | [#1](https://www.twitch.tv/videos/2173786247) |
-| **United States** ::{ flag=US }:: | **7** | 1 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/114319136) | [#1](https://www.twitch.tv/videos/2173784029) |
+| Team A |  |  | Team B | Match link | VOD link | Notes |
+| --: | :-: | :-: | :-- | :-- | :-- | :-- |
+| **Staff Red** | **7** | 6 | Staff Blue | [#1](https://osu.ppy.sh/community/matches/114315245) | [#1](https://www.twitch.tv/videos/2173679409) | Semifinals showmatch featuring CWC staff |
+| France ::{ flag=FR }:: | 0 | **7** | ::{ flag=PL }:: **Poland** | [#1](https://osu.ppy.sh/community/matches/114317589) | [#1](https://www.twitch.tv/videos/2173689057) | |
+| **Canada** ::{ flag=CA }:: | **7** | 1 | ::{ flag=PE }:: Peru | [#1](https://osu.ppy.sh/community/matches/114319162) | [#1](https://www.twitch.tv/videos/2173786247) | |
+| **United States** ::{ flag=US }:: | **7** | 1 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/114319136) | [#1](https://www.twitch.tv/videos/2173784029) | |
 
 ### Quarterfinals
 
