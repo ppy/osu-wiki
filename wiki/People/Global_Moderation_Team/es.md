@@ -75,6 +75,7 @@ La [página del grupo Global Moderation Team](https://osu.ppy.sh/groups/4) enume
 
 | Nombre | Idiomas adicionales | Área principal |
 | :-- | :-- | :-- |
+| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | Chino, malayo, cantonés, algo de japonés | Moderación de la comunidad de mapping/modding |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | Alemán | Moderación del chat |
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | Húngaro | Moderación del chat |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Ruso | Moderación del chat |
@@ -100,7 +101,6 @@ La [página del grupo Global Moderation Team](https://osu.ppy.sh/groups/4) enume
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Moderación de la comunidad de mapping/modding |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Indonesio | Moderación de la comunidad de mapping/modding |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | Francés, español | Moderación del chat |
-| ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Moderación del chat, moderación de la comunidad de mapping/modding |
 | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | Malayo, algo de chino | Moderación de la comunidad de mapping/modding |
 | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | Cantonés, chino, japonés | Moderación del chat |
 | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | Ruso | Moderación del chat |
@@ -131,11 +131,13 @@ La [página del grupo Global Moderation Team](https://osu.ppy.sh/groups/4) enume
 | ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069) | Coreano | Moderación del chat |
 | ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772) | Japonés | Moderación del chat |
 | ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | Sueco, español | Moderación del chat |
+| ::{ flag=CA }:: [Shad0wStar](https://osu.ppy.sh/users/16866460) |  | Moderación de la comunidad de mapping/modding |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Francés, español | Moderación del chat |
 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | Indonesio | Moderación del chat |
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | Indonesio, algo de vietnamita | Moderación del chat, moderación del foro |
 | ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | Alemán, serbio | Moderación del foro |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | Chino | Moderación del chat |
+| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | Coreano | Moderación de la comunidad de mapping/modding |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | Finés | Moderación del chat |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | Moderación del foro, moderación del chat |
 | ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | Ruso | Moderación del chat, administración de la wiki |
@@ -149,6 +151,7 @@ La [página del grupo Global Moderation Team](https://osu.ppy.sh/groups/4) enume
 | ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) | Indonesio | Moderación del chat |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | Polaco | Moderación del chat |
 | ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | Moderación del chat |
+| ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | Español | Moderación de la comunidad de mapping/modding |
 
 ### Agrupados por idiomas moderados
 
