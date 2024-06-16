@@ -130,7 +130,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
 
 ### Finals
 
-**[Download the mappack here (199 MB)](http://files.leoflt.com/cQwFEh84)**\
+**[Download the mappack here (199 MB, *temporary link*)](http://files.leoflt.com/cQwFEh84)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2173835340)
 
 - No Mod
@@ -608,6 +608,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
    - Late reschedule requests will not be accepted under any circumstances.
 6. Captains are responsible for managing their team's availability.
 
+## Notes
 
 [^winners-bracket]: Winners bracket match
 [^losers-bracket]: Losers bracket match
