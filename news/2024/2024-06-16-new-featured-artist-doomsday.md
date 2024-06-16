@@ -16,7 +16,7 @@ If [**Doomsday**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/
 
 <div align="center">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/media/news/release_showcase.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/doomsday_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
