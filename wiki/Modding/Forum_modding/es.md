@@ -49,7 +49,7 @@ El progreso de los beatmaps en el procedimiento de clasificación se mostraba a 
 
 - ![](/wiki/shared/icon/star.gif) **[Estrella](/wiki/Disambiguation/Star)**: el beatmap tenía potencial para ser clasificado.
 - ![](/wiki/shared/icon/bubble.gif) **[Burbuja](/wiki/Modding/Bubble)**: el beatmap había sido revisado por un miembro del MAT, el BAT o un BN, y podría ser clasificado después de otra revisión.
-- ![](/wiki/shared/icon/bubble-pop.gif) **[Burbuja reventada](/wiki/Modding/Bubble#bubble-pop)**: el beatmap tenía problemas que le impedían clasificarse después de recibir una burbuja.
+- ![](/wiki/shared/icon/bubble-pop.gif) **[Burbuja reventada](/wiki/Modding/Bubble#burbuja-reventada)**: el beatmap tenía problemas que le impedían clasificarse después de recibir una burbuja.
 - ![](img/icon/osu.gif) ![](img/icon/taiko.gif) ![](img/icon/ctb.gif) ![](img/icon/mania.gif) **Icono del modo de juego**: las dificultades del [modo de juego](/wiki/Game_mode) respectivo del beatmap fueron verificadas y aprobadas por un BN.
 - ![](/wiki/shared/icon/heart.gif) **[Corazón](/wiki/Beatmap/Category#ranked)** o ![](/wiki/shared/icon/flame.gif) **[llama](/wiki/Beatmap/Category#approved)**: el beatmap había sido calificado, clasificado o aprobado.
 - ![](/wiki/shared/icon/broken-heart.gif) **Corazón roto**: el beatmap había sido descalificado o desclasificado debido a graves problemas de composición o a la falta del cumplimiento de los [criterios de clasificación](/wiki/Ranking_criteria).
