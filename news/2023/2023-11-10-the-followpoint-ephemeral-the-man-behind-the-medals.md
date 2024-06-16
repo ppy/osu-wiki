@@ -2,6 +2,7 @@
 layout: post
 title: "The Followpoint: Ephemeral, the Man Behind the Medals"
 date: 2023-11-10 09:00:00 +0000
+series: The Followpoint
 ---
 
 Come join us to delve into the science and magnets behind medals with Ephemeral, osu!'s strongest seagull!
