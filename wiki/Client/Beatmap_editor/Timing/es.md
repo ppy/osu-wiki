@@ -77,7 +77,7 @@ La pestaña de temporización se puede abrir presionando `F3` y proporciona acce
 | Nombre | Significado |
 | :-- | :-- |
 | `BPM` | [Tempo](/wiki/Music_theory/Tempo) del punto de tiempo actual, medido en pulsaciones por minuto (BPM). |
-| `Offset` | [Compensación](/wiki/Offset#mapping) del punto de tiempo actual, medida en milisegundos. |
+| `Offset` | [Compensación](/wiki/Offset#compensación-en-el-mapping) del punto de tiempo actual, medida en milisegundos. |
 | `Mover las notas cuando se cambie el offset/BPM` | Mantiene los objetos adjuntos a las marcas de la [línea de tiempo](/wiki/Client/Beatmap_editor/Timelines) durante los cambios de temporización. |
 | `Vel. Deslizador` | [Velocidad base del slider](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) de todo el beatmap |
 | `Frec. de tick` | Cuántas [marcas del slider](/wiki/Gameplay/Hit_object/Slider/Slider_tick) habrá en un [pulso](/wiki/Music_theory/Beat) |
