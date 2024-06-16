@@ -57,21 +57,183 @@ Bảng dưới đây liệt kê từng game mode và Đề cử viên thuộc ga
 
 | Tên | Ngôn ngữ khác được sử dụng |
 | :-- | :-- |
+| ::{ flag=KZ }:: [-Hitomi](https://osu.ppy.sh/users/15583987) |  |
+| ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548) |  |
+| ::{ flag=US }:: [Aeril](https://osu.ppy.sh/users/4334976) |  |
+| ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  |
+| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Tiếng Nga |
+| ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083) |  |
+| ::{ flag=UA }:: [allein](https://osu.ppy.sh/users/6221637) | Tiếng Ukraina |
+| ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | Tiếng Italy |
+| ::{ flag=US }:: [Annabel](https://osu.ppy.sh/users/3388410) | Tiếng Tây Ban Nha |
+| ::{ flag=TR }:: [Aranel](https://osu.ppy.sh/users/9562117) | Tiếng Thổ Nhĩ Kỳ |
+| ::{ flag=CN }:: [Arsalan](https://osu.ppy.sh/users/7660383) | Tiếng Quảng Đông, Tiếng Trung, Tiếng Nhật |
+| ::{ flag=US }:: [Ascended](https://osu.ppy.sh/users/4564285) |  |
+| ::{ flag=PT }:: [Basensorex](https://osu.ppy.sh/users/11655886) | Tiếng Bồ Đào Nha |
+| ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464) | Tiếng Thụy Điển |
+| ::{ flag=US }:: [Bloxi](https://osu.ppy.sh/users/9022451) |  |
+| ::{ flag=CL }:: [Cris-](https://osu.ppy.sh/users/6175280) | Tiếng Tây Ban Nha |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Tiếng Bồ Đào Nha, Tiếng Tây Ban Nha |
+| ::{ flag=KR }:: [Dailycare](https://osu.ppy.sh/users/1634445) | Tiếng Hàn |
+| ::{ flag=PE }:: [dakiwii](https://osu.ppy.sh/users/10447058) | Tiếng Tây Ban Nha |
+| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  |
+| ::{ flag=PL }:: [Embo](https://osu.ppy.sh/users/10045409) | Tiếng Ba Lan |
+| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Tiếng Hà Lan |
+| ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
+| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Tiếng Trung |
+| ::{ flag=TW }:: [Flask](https://osu.ppy.sh/users/959763) | Tiếng Trung |
+| ::{ flag=PH }:: [Fu Xuan](https://osu.ppy.sh/users/7150015) | Tiếng Philippines |
+| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Tiếng Đức |
+| ::{ flag=BR }:: [HowRengar](https://osu.ppy.sh/users/6064571) | Tiếng Bồ Đào Nha |
+| ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) | Tiếng Trung, một chút Tiếng Pháp |
+| ::{ flag=CA }:: [JoshywaBoo](https://osu.ppy.sh/users/19656568) |  |
+| ::{ flag=DE }:: [KaedeharaKazuha](https://osu.ppy.sh/users/6300910) | Tiếng Đức |
+| ::{ flag=HK }:: [KennethBBG](https://osu.ppy.sh/users/13032817) | Tiếng Quảng Đông, Tiếng Trung |
+| ::{ flag=US }:: [KoldNoodl](https://osu.ppy.sh/users/12572294) | Tiếng Hàn |
+| ::{ flag=FR }:: [Kudosu](https://osu.ppy.sh/users/11038155) | Tiếng Pháp, Tiếng Đức, Tiếng Nhật |
+| ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) |  |
+| ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | Tiếng Đức |
+| ::{ flag=US }:: [Local Hero](https://osu.ppy.sh/users/16134122) |  |
+| ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | Tiếng Trung |
+| ::{ flag=ZA }:: [Mattay](https://osu.ppy.sh/users/9748303) | Tiếng Afrikaans |
+| ::{ flag=CN }:: [MeAqua tete](https://osu.ppy.sh/users/5645691) | Tiếng Trung |
+| ::{ flag=CL }:: [melleganol](https://osu.ppy.sh/users/16452371) | Tiếng Tây Ban Nha |
+| ::{ flag=TW }:: [MianYa](https://osu.ppy.sh/users/1844862) | Tiếng Trung |
+| ::{ flag=US }:: [Mimari](https://osu.ppy.sh/users/14339830) | Tiếng Nhật |
+| ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | Tiếng Nga |
+| ::{ flag=GB }:: [mnyui](https://osu.ppy.sh/users/14261540) |  |
+| ::{ flag=ID }:: [Mocaotic](https://osu.ppy.sh/users/9487458) | Tiếng Indonesia, Tiếng Trung |
+| ::{ flag=CA }:: [Mochi-](https://osu.ppy.sh/users/9312734) | Tiếng Trung |
+| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) |  |
+| ::{ flag=GB }:: [moonpoint](https://osu.ppy.sh/users/9558549) |  |
+| ::{ flag=TW }:: [Muchin](https://osu.ppy.sh/users/9834516) | Tiếng Trung |
+| ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | Tiếng Romania |
+| ::{ flag=US }:: [Nathan](https://osu.ppy.sh/users/4785223) |  |
+| ::{ flag=HK }:: [Natsume Shizuku](https://osu.ppy.sh/users/9633734) | Tiếng Trung |
+| ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Tiếng Nga |
+| ::{ flag=SG }:: [neonat](https://osu.ppy.sh/users/1561995) | Tiếng Trung |
+| ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  |
+| ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) |  |
+| ::{ flag=CA }:: [Nijika Ijichi](https://osu.ppy.sh/users/10964252) |  |
+| ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | Tiếng Pháp |
+| ::{ flag=PH }:: [Pile](https://osu.ppy.sh/users/15822813) | Tiếng Philippines |
+| ::{ flag=TW }:: [Plus4j](https://osu.ppy.sh/users/4086497) | Tiếng Trung |
+| ::{ flag=PR }:: [Renumi](https://osu.ppy.sh/users/1721120) | Tiếng Tây Ban Nha |
+| ::{ flag=CA }:: [Resona](https://osu.ppy.sh/users/3124248) | Tiếng Nhật |
+| ::{ flag=KR }:: [Riana](https://osu.ppy.sh/users/1997633) |  |
+| ::{ flag=US }:: [rosario wknd](https://osu.ppy.sh/users/6341518) | Tiếng Afrikaans |
+| ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Tiếng Trung |
+| ::{ flag=HK }:: [Saggin](https://osu.ppy.sh/users/12464107) | Tiếng Nga |
+| ::{ flag=TW }:: [Sagisawa Arisa](https://osu.ppy.sh/users/7633130) | Tiếng Trung |
+| ::{ flag=BR }:: [Shiyun](https://osu.ppy.sh/users/3947634) | Tiếng Bồ Đào Nha |
+| ::{ flag=UZ }:: [Shmiklak](https://osu.ppy.sh/users/5504231) | Tiếng Nga |
+| ::{ flag=US }:: [Smoke](https://osu.ppy.sh/users/10726630) |  |
+| ::{ flag=CA }:: [Sparhten](https://osu.ppy.sh/users/7601720) |  |
+| ::{ flag=BA }:: [Stompy_](https://osu.ppy.sh/users/16429579) | Tiếng Serbia |
+| ::{ flag=CA }:: [superstore](https://osu.ppy.sh/users/16755693) |  |
+| ::{ flag=TH }:: [timemon](https://osu.ppy.sh/users/2072005) | Tiếng Thái |
+| ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | Tiếng Litva |
+| ::{ flag=JP }:: [too](https://osu.ppy.sh/users/12196931) | Tiếng Nhật |
+| ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) | Tiếng Nhật |
+| ::{ flag=CA }:: [Vararaup](https://osu.ppy.sh/users/8257675) |  |
+| ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) | Tiếng Nga |
+| ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  |
+| ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Tiếng Ba Lan |
 
 #### osu!taiko
 
 | Tên | Ngôn ngữ khác được sử dụng |
 | :-- | :-- |
+| ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) | Tiếng Trung |
+| ::{ flag=BR }:: [-Flashlight-](https://osu.ppy.sh/users/9731062) | Tiếng Bồ Đào Nha |
+| ::{ flag=JP }:: [-Kazuha](https://osu.ppy.sh/users/29978316) | Tiếng Nhật |
+| ::{ flag=ID }:: [[-E S I A-]](https://osu.ppy.sh/users/5159715) | Tiếng Indonesia |
+| ::{ flag=MY }:: [Asagi Mutsuki](https://osu.ppy.sh/users/2403621) | Tiếng Trung, Tiếng Mã Lai |
+| ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Tiếng Quảng Đông, Tiếng Trung |
+| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Tiếng Hà Lan |
+| ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851) | Tiếng Đức |
+| ::{ flag=SE }:: [Invisible O](https://osu.ppy.sh/users/22907037) | Tiếng Thụy Điển |
+| ::{ flag=HK }:: [iRedi](https://osu.ppy.sh/users/8005579) | Tiếng Trung, Tiếng Quảng Đông |
+| ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | Tiếng Quảng Đông, Tiếng Trung |
+| ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | Tiếng Trung, Tiếng Quảng Đông, Tiếng Nhật |
+| ::{ flag=MY }:: [ler1211](https://osu.ppy.sh/users/19901680) | Tiếng Trung |
+| ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) | Một chút Tiếng Đức |
+| ::{ flag=SG }:: [neonat](https://osu.ppy.sh/users/1561995) | Tiếng Trung |
+| ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097) |  |
+| ::{ flag=US }:: [Nostril](https://osu.ppy.sh/users/11479122) |  |
+| ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Tiếng Đức, Tiếng Serbia, Tiếng Nhật |
+| ::{ flag=JP }:: [Roxy-](https://osu.ppy.sh/users/11931563) | Tiếng Nhật |
+| ::{ flag=RU }:: [Ryxliee](https://osu.ppy.sh/users/15823344) | Tiếng Nga |
+| ::{ flag=CA }:: [SN707](https://osu.ppy.sh/users/31404061) | Tiếng Hàn |
 
 #### osu!catch
 
 | Tên | Ngôn ngữ khác được sử dụng |
 | :-- | :-- |
+| ::{ flag=FI }:: [-Aku](https://osu.ppy.sh/users/12315824) | Tiếng Phần Lan |
+| ::{ flag=HK }:: [4rcheR-](https://osu.ppy.sh/users/8846762) | Tiếng Quảng Đông, Tiếng Trung |
+| ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) | Tiếng Quảng Đông |
+| ::{ flag=CL }:: [Bastian](https://osu.ppy.sh/users/6345176) | Tiếng Tây Ban Nha |
+| ::{ flag=GB }:: [BIG H ZONDA KIT](https://osu.ppy.sh/users/16352736) |  |
+| ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Tiếng Quảng Đông, Tiếng Trung |
+| ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136) | Tiếng Đức |
+| ::{ flag=RU }:: [fayew](https://osu.ppy.sh/users/12498861) | Tiếng Nga |
+| ::{ flag=CA }:: [fuhie](https://osu.ppy.sh/users/7620002) | Tiếng Đức |
+| ::{ flag=US }:: [GiGas](https://osu.ppy.sh/users/7300747) | Tiếng Hàn |
+| ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) |  |
+| ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | Tiếng Nga |
+| ::{ flag=ID }:: [Mochi -](https://osu.ppy.sh/users/20424806) | Tiếng Indonesia |
+| ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) | Tiếng Hàn |
+| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) |  |
+| ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466) |  |
 
 #### osu!mania
 
 | Tên | Ngôn ngữ khác được sử dụng |
 | :-- | :-- |
+| ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | Tiếng Trung |
+| ::{ flag=US }:: [-MysticEyes](https://osu.ppy.sh/users/6253266) |  |
+| ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273) | Tiếng Trung |
+| ::{ flag=IT }:: [\[GB\]Rick](https://osu.ppy.sh/users/25263357) | Tiếng Italy |
+| ::{ flag=VN }:: [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) | Tiếng Việt |
+| ::{ flag=ID }:: [Al-Reina](https://osu.ppy.sh/users/7037423) | Tiếng Indonesia |
+| ::{ flag=GB }:: [Asherz007](https://osu.ppy.sh/users/9014047) |  |
+| ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684) | Tiếng Trung |
+| ::{ flag=KR }:: [Buschan](https://osu.ppy.sh/users/16505281) |  |
+| ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090) | Tiếng Trung, Tiếng Đức |
+| ::{ flag=PH }:: [chocomilku-](https://osu.ppy.sh/users/16687756) | Tiếng Philippines |
+| ::{ flag=NO }:: [Chrisse](https://osu.ppy.sh/users/18382591) | Tiếng Đan Mạch |
+| ::{ flag=MY }:: [Critical\_Star](https://osu.ppy.sh/users/3793196) | Tiếng Mã Lai |
+| ::{ flag=AU }:: [Decku](https://osu.ppy.sh/users/13360768) |  |
+| ::{ flag=KR }:: [DenYi](https://osu.ppy.sh/users/14998645) | Tiếng Hàn |
+| ::{ flag=CA }:: [Drum-Hitnormal](https://osu.ppy.sh/users/748722) | Tiếng Trung |
+| ::{ flag=CN }:: [FLeVI](https://osu.ppy.sh/users/12519616) | Tiếng Trung |
+| ::{ flag=KR }:: [Furryswan](https://osu.ppy.sh/users/9555243) | Tiếng Hàn |
+| ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699) |  |
+| ::{ flag=IT }:: [Harbyter](https://osu.ppy.sh/users/1147679) | Tiếng Italy |
+| ::{ flag=CN }:: [Hidden is fun](https://osu.ppy.sh/users/10449071) | Tiếng Trung |
+| ::{ flag=PH }:: [Hytex](https://osu.ppy.sh/users/8536263) | Tiếng Philippines |
+| ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Tiếng Indonesia, Tiếng Mã Lai, Tiếng Nhật |
+| ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573) |  |
+| ::{ flag=DE }:: [Maxim-Miau](https://osu.ppy.sh/users/12660835) | Tiếng Đức |
+| ::{ flag=ID }:: [Mirsaaa](https://osu.ppy.sh/users/15328093) | Tiếng Indonesia |
+| ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604) | Tiếng Tây Ban Nha |
+| ::{ flag=KR }:: [Murumoo](https://osu.ppy.sh/users/8001433) | Tiếng Hàn |
+| ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | Tiếng Hà Lan |
+| ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) | Tiếng Tây Ban Nha |
+| ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | Tiếng Galician, Tiếng Italy, Tiếng Nhật, Tiếng Tây Ban Nha, Tiếng Bồ Đào Nha |
+| ::{ flag=IT }:: [Relae](https://osu.ppy.sh/users/14455536) | Tiếng Indonesia |
+| ::{ flag=ID }:: [Rivals\_7](https://osu.ppy.sh/users/4610379) | Tiếng Indonesia |
+| ::{ flag=CA }:: [Ryax](https://osu.ppy.sh/users/8949769) |  |
+| ::{ flag=KR }:: [secXcscX](https://osu.ppy.sh/users/13543418) | Tiếng Hàn |
+| ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | Tiếng Trung |
+| ::{ flag=CA }:: [Shad0wStar](https://osu.ppy.sh/users/16866460) |  |
+| ::{ flag=ID }:: [SuzumeAyase](https://osu.ppy.sh/users/14190991) | Tiếng Indonesia |
+| ::{ flag=ID }:: [Syadow-](https://osu.ppy.sh/users/3484485) | Tiếng Indonesia |
+| ::{ flag=ID }:: [Syrion-](https://osu.ppy.sh/users/15380643) | Tiếng Indonesia, Tiếng Mã Lai |
+| ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  |
+| ::{ flag=ID }:: [Virtue-](https://osu.ppy.sh/users/6144772) | Tiếng Indonesia |
+| ::{ flag=CN }:: [wIntEr7z](https://osu.ppy.sh/users/16509588) | Tiếng Trung |
 
 ### Đề cử viên tập sự
 
@@ -79,11 +241,37 @@ Bảng dưới đây liệt kê từng game mode và Đề cử viên thuộc ga
 
 | Tên | Ngôn ngữ khác được sử dụng |
 | :-- | :-- |
+| ::{ flag=FI }:: [Aakki](https://osu.ppy.sh/users/11077540) | Tiếng Phần Lan |
+| ::{ flag=FI }:: [Asphyxia](https://osu.ppy.sh/users/1715720) | Tiếng Phần Lan |
+| ::{ flag=RU }:: [Astrolis](https://osu.ppy.sh/users/12357714) |  |
+| ::{ flag=KR }:: [Cellina](https://osu.ppy.sh/users/2490770) |  |
+| ::{ flag=BR }:: [dasdwqdf](https://osu.ppy.sh/users/5403374) | Tiếng Bồ Đào Nha |
+| ::{ flag=KR }:: [Enon](https://osu.ppy.sh/users/2043401) | Tiếng Hàn |
+| ::{ flag=AU }:: [Gibune](https://osu.ppy.sh/users/5778687) |  |
+| ::{ flag=CA }:: [Gordon](https://osu.ppy.sh/users/7856835) | Tiếng Đức, Tiếng Tây Ban Nha, Tiếng Pháp |
+| ::{ flag=US }:: [Gorou](https://osu.ppy.sh/users/12157130) |  |
+| ::{ flag=CN }:: [Gust](https://osu.ppy.sh/users/1244312) |  |
+| ::{ flag=BR }:: [Malphs](https://osu.ppy.sh/users/9234078) | Tiếng Bồ Đào Nha |
+| ::{ flag=US }:: [maxie](https://osu.ppy.sh/users/6447505) |  |
+| ::{ flag=AU }:: [Nadeshiko](https://osu.ppy.sh/users/3558897) |  |
+| ::{ flag=US }:: [revoh](https://osu.ppy.sh/users/8165181) |  |
+| ::{ flag=JP }:: [Satellite](https://osu.ppy.sh/users/1661227) | Tiếng Nhật |
+| ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853) | Tiếng Trung, Tiếng Quảng Đông |
+| ::{ flag=ID }:: [SupaV](https://osu.ppy.sh/users/19511007) | Tiếng Indonesia, Tiếng Trung |
+| ::{ flag=NL }:: [Syph](https://osu.ppy.sh/users/4858573) | Tiếng Hà Lan |
+| ::{ flag=US }:: [tilda](https://osu.ppy.sh/users/6233296) |  |
+| ::{ flag=NL }:: [yukic](https://osu.ppy.sh/users/6977273) |  |
 
 #### osu!taiko
 
 | Tên | Ngôn ngữ khác được sử dụng |
 | :-- | :-- |
+| ::{ flag=RU }:: [\_HeLLFly\_](https://osu.ppy.sh/users/14225226) | Tiếng Nga |
+| ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996) | Tiếng Hà Lan |
+| ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | Tiếng Việt |
+| ::{ flag=RS }:: [Ognjen3800](https://osu.ppy.sh/users/14706521) | Tiếng Serbia |
+| ::{ flag=TW }:: [WTHBRO](https://osu.ppy.sh/users/8957119) | Tiếng Trung |
+| ::{ flag=DE }:: [Zhuosh](https://osu.ppy.sh/users/11056763) | Tiếng Trung, Tiếng Đức, Tiếng Nhật, Tiếng Quảng Đông |
 
 #### osu!catch
 
@@ -94,6 +282,11 @@ Bảng dưới đây liệt kê từng game mode và Đề cử viên thuộc ga
 
 | Tên | Ngôn ngữ khác được sử dụng |
 | :-- | :-- |
+| ::{ flag=CN }:: [AelSan](https://osu.ppy.sh/users/14095291) | Tiếng Trung |
+| ::{ flag=ID }:: [Ihram-San](https://osu.ppy.sh/users/9908055) | Tiếng Indonesia, Tiếng Mã Lai |
+| ::{ flag=KR }:: [Niks](https://osu.ppy.sh/users/3037469) | Tiếng Hàn |
+| ::{ flag=US }:: [SilentWuffer](https://osu.ppy.sh/users/11355206) |  |
+| ::{ flag=CN }:: [YyottaCat](https://osu.ppy.sh/users/17753835) | Tiếng Trung |
 
 ## Lịch sử
 
