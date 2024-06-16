@@ -62,7 +62,7 @@ El **United Beat-Knights of Ranking Criteria** (*UBKRC*) era un nuevo grupo con 
 
 Dentro del UBKRC, se eligieron equipos de expertos para manejar cada área de los criterios de clasificación generales y las secciones específicas de cada modo de juego. Los usuarios podían unirse si mostraban un interés activo en cualquier grupo.
 
-Entre 2016 y 2018, el UBKRC reformó todas las secciones de los criterios de clasificación para adaptarlos a los estándares modernos. Tras su disolución, el subforo de Ranking Criteria se reabrió para recibir las propuestas enviadas por la comunidad.
+Entre 2016 y 2018, el UBKRC reformó todas las secciones de los criterios de clasificación para adaptarlos a los estándares modernos. Tras su disolución, el subforo Ranking Criteria se reabrió para recibir las propuestas enviadas por la comunidad.
 
 ### Miembros de osu!
 
