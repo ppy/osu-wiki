@@ -9,7 +9,7 @@ The last in a series of top player interviews features [dressurf](https://osu.pp
 
 ![](/wiki/shared/news/2024-06-17-the-followpoint-dressurf-the-1-key-smasher/banner.jpg)
 
-The top players of the other game modes have already been interviewed: [mrekk](https://osu.ppy.sh/home/news/2024-05-06-the-followpoint-mrekk-the-osu-standard-prodigy), [YesMyDarknesss](https://osu.ppy.sh/home/news/2024-05-28-the-followpoint-yesmydarknesss-the-master-of-osu-catch) and [Eriha](https://osu.ppy.sh/users/16320311), which you may also be interested in reading up on if this one caught your eye.
+The top players of the other game modes have already been interviewed: [mrekk](https://osu.ppy.sh/home/news/2024-05-06-the-followpoint-mrekk-the-osu-standard-prodigy), [YesMyDarknesss](https://osu.ppy.sh/home/news/2024-05-28-the-followpoint-yesmydarknesss-the-master-of-osu-catch) and [Eriha](https://osu.ppy.sh/home/news/2024-06-03-the-followpoint-eriha-top-drum-basher), which you may also be interested in reading up on if this one caught your eye.
 
 For now though, the only natural way to proceed is to interview osu!mania's rank #1 player and the [osu!mania 7K World Cup 2024](/wiki/Tournaments/MWC/2024_7K) champion.
 
