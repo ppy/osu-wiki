@@ -14,6 +14,7 @@
 | ::{ flag=CN }:: [abalee](https://osu.ppy.sh/users/13103) | BAT |
 | ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) | NAT |
 | ::{ flag=US }:: [Agnes](https://osu.ppy.sh/users/136982) | GMT |
+| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | NAT |
 | ::{ flag=JP }:: [alacat](https://osu.ppy.sh/users/869782) | QAT |
 | ::{ flag=TW }:: [Alace](https://osu.ppy.sh/users/25993) | BAT |
 | ::{ flag=RU }:: [Aleks719](https://osu.ppy.sh/users/360176) | QAT |
@@ -51,6 +52,7 @@
 | ::{ flag=FR }:: [Cyclohexane](https://osu.ppy.sh/users/116078) | GMT |
 | ::{ flag=US }:: [Cyclone](https://osu.ppy.sh/users/18589) | GMT |
 | ::{ flag=TH }:: [Cyril Scarlet](https://osu.ppy.sh/users/108066) | MAT |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | NAT |
 | ::{ flag=MX }:: [DakeDekaane](https://osu.ppy.sh/users/1425253) | BAT, QAT |
 | ::{ flag=CA }:: [Dakeyrus](https://osu.ppy.sh/users/10441) | GMT |
 | ::{ flag=DE }:: [Dangaard](https://osu.ppy.sh/users/19488) | BAT |
@@ -71,6 +73,7 @@
 | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | Разработчик osu! |
 | ::{ flag=US }:: [EiJi](https://osu.ppy.sh/users/2024) | BAT |
 | ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) | NAT |
+| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | NAT |
 | ::{ flag=CO }:: [ErunamoJAZZ](https://osu.ppy.sh/users/1869764) | Модератор чата, GMT |
 | ::{ flag=FI }:: [ethox](https://osu.ppy.sh/users/441380) | Модератор чата |
 | ::{ flag=MY }:: [ExPew](https://osu.ppy.sh/users/665612) | QAT |
@@ -85,6 +88,7 @@
 | ::{ flag=US }:: [foulcoon](https://osu.ppy.sh/users/19883) | BAT |
 | ::{ flag=FI }:: [Fraeon](https://osu.ppy.sh/users/2271) | BAT |
 | ::{ flag=TH }:: [Frostmourne](https://osu.ppy.sh/users/199669) | GMT, QAT |
+| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | NAT |
 | ::{ flag=JP }:: [Gamu](https://osu.ppy.sh/users/611174) | QAT |
 | ::{ flag=US }:: [Garven](https://osu.ppy.sh/users/244216) | QAT |
 | ::{ flag=FI }:: [Gemi](https://osu.ppy.sh/users/7365) | BAT |
@@ -109,6 +113,7 @@
 | ::{ flag=US }:: [Izzywing](https://osu.ppy.sh/users/8157492) | QAT |
 | ::{ flag=PH }:: [James](https://osu.ppy.sh/users/5728) | BAT |
 | ::{ flag=US }:: [James2250](https://osu.ppy.sh/users/16978) | GMT |
+| ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | QAT, GMT |
 | ::{ flag=GB }:: [jericho2442](https://osu.ppy.sh/users/88904) | BAT |
 | ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) | BAT |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | Организатор турниров |
@@ -204,6 +209,7 @@
 | ::{ flag=US }:: [Roddie](https://osu.ppy.sh/users/121337) | BAT |
 | ::{ flag=US }:: [Rolled](https://osu.ppy.sh/users/5243) | BAT |
 | ::{ flag=IT }:: [Roxas](https://osu.ppy.sh/users/1041833) | QAT |
+| ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | NAT |
 | ::{ flag=CO }:: [Sakura](https://osu.ppy.sh/users/289422) | BAT, GMT |
 | ::{ flag=US }:: [SapphireGhost](https://osu.ppy.sh/users/388602) | BAT |
 | ::{ flag=US }:: [Saturos](https://osu.ppy.sh/users/3781) | BAT |
@@ -218,7 +224,6 @@
 | ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707) | GMT |
 | ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | GMT |
 | ::{ flag=US }:: [Skyripper](https://osu.ppy.sh/users/31803) | GMT |
-| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | NAT |
 | ::{ flag=HU }:: [Spkz](https://osu.ppy.sh/users/2964029) | GMT |
 | ::{ flag=BE }:: [Stack](https://osu.ppy.sh/users/6122935) | QAT, NAT |
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) | NAT |
@@ -270,6 +275,5 @@
 | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | GMT |
 | ::{ flag=TR }:: [Zeus-](https://osu.ppy.sh/users/5464437) | GMT |
 | ::{ flag=SG }:: [ZHSteven](https://osu.ppy.sh/users/142413) | BAT |
-| ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | NAT |
 | ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | Основатель osu!academy, GMT |
 | ::{ flag=US }:: [Zyid](https://osu.ppy.sh/users/2778) | BAT |
