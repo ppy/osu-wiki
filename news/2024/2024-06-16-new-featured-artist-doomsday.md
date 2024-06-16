@@ -12,7 +12,7 @@ This UK-based top player, mapper, commentator, and now musician joins our Featur
 
 If [**Doomsday**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/425) and its **7** tracks aren't already on your mapping to-do list, you may need to shift some priorities.
 
-**Doomsday**'s forte is high-level circle clicking, so it's no surprise that his music has found its way into premier tournaments like *Battle of the Box* and *The Perennial* with [Luyten's Star](https://osu.ppy.sh/beatmapsets/2134395) and [TGGT](LINK), the latter of which debuted literally today! See how that went below:
+**Doomsday**'s forte is high-level circle clicking, so it's no surprise that his music has found its way into premier tournaments like *Battle of the Box* and *The Perennial* with [Luyten's Star](https://osu.ppy.sh/beatmapsets/2134395) and [TGGT](https://osu.ppy.sh/beatmapsets/2198890), the latter of which debuted literally today! See how that went below:
 
 <div align="center">
     <video width="95%" controls>
@@ -22,7 +22,7 @@ If [**Doomsday**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/
 
 ### Doomsday - TGGT
 
-Play through [the map from *The Perennial*](LINK) hosted by [zekk](https://osu.ppy.sh/users/9704802)!
+Play through [the map from *The Perennial*](https://osu.ppy.sh/beatmapsets/2198890) hosted by [zekk](https://osu.ppy.sh/users/9704802)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/425/Songs/Doomsday%20-%20TGGT.mp3">
