@@ -58,6 +58,7 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 
 | รายชื่อ | ภาษาที่ใช้ | ตำแหน่ง/หน้าที่ |
 | :-- | :-- | :-- |
+| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | จีน, มาเลย์, กวางตุ้ง, ญี่ปุ่น บ้าง | ผู้ดูแลชุมชนการแมป/การ mod |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | เยอรมัน | ผู้ดูแลแชท |
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | ฮังการี | ผู้ดูแลแชท |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | รัสเซีย | ผู้ดูแลแชท |
@@ -83,7 +84,6 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | ผู้ดูแลชุมชนการแมป/การ mod |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | อินโดนีเซีย | ผู้ดูแลชุมชนการแมป/การ mod |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | ฝรั่งเศส, สเปน | ผู้ดูแลแชท |
-| ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  | ผู้ดูแลแชท, ผู้ดูแลชุมชนการแมป/การ mod |
 | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | มาเลย์, จีน บ้าง | ผู้ดูแลชุมชนการแมป/การ mod |
 | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | กวางตุ้ง, จีน, ญี่ปุ่น | ผู้ดูแลแชท |
 | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | รัสเซีย | ผู้ดูแลแชท |
@@ -114,11 +114,13 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069) | เกาหลี | ผู้ดูแลแชท |
 | ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772) | ญี่ปุ่น | ผู้ดูแลแชท |
 | ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | สวีเดน, สเปน | ผู้ดูแลแชท |
+| ::{ flag=CA }:: [Shad0wStar](https://osu.ppy.sh/users/16866460) |  | ผู้ดูแลชุมชนการแมป/การ mod |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | ฝรั่งเศส, สเปน | ผู้ดูแลแชท |
 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | อินโดนีเซีย | ผู้ดูแลแชท |
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | อินโดนีเซีย, เวียดนาม บ้าง | ผู้ดูแลแชท, ผู้ดูแลฟอรั่ม |
 | ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | เยอรมัน, เซอร์เบีย | ผู้ดูแลฟอรั่ม |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | จีน | ผู้ดูแลแชท |
+| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | เกาหลี | ผู้ดูแลชุมชนการแมป/การ mod |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | ฟินแลนด์ | ผู้ดูแลแชท |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | ผู้ดูแลฟอรั่ม, ผู้ดูแลแชท |
 | ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | รัสเซีย | ผู้ดูแลแชท, ผู้ดูแลวิกิ |
@@ -132,6 +134,7 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) | อินโดนีเซีย | ผู้ดูแลแชท |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | โปแลนด์ | ผู้ดูแลแชท |
 | ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | ผู้ดูแลแชท |
+| ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | สเปน | ผู้ดูแลชุมชนการแมป/การ mod |
 
 ### เรียงจากรายชื่อภาษา
 

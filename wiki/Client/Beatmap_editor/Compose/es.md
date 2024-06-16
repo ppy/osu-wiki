@@ -12,7 +12,7 @@ La **pestaña compose** del [editor de beatmaps](/wiki/Client/Beatmap_editor) es
 
 El editor comparte las mismas herramientas entre osu!, osu!taiko y osu!catch, mientras que osu!mania tiene un diseño de la pestaña compose específico más adecuado para ese modo de juego. Se puede acceder cambiando el [modo permitido](/wiki/Client/Beatmap_editor/Song_setup#advanced) de la dificultad a `osu!mania`.
 
-## Características 
+## Características
 
 *Para una visión general del proceso de mapping, véase: [Beatmapping](/wiki/Beatmapping)*
 
@@ -20,7 +20,7 @@ El editor comparte las mismas herramientas entre osu!, osu!taiko y osu!catch, mi
 
 ![](img/objects-timeline.jpg "Línea de tiempo de los objetos con respecto al divisor de ritmo y la marca de tiempo")
 
-La línea de tiempo se puede acercar y alejar con los botones `+`/`-` de la izquierda o, alternativamente, desplazándose con la tecla `Alt` mantenida. Las dos líneas blancas en el centro indican la marca de tiempo actual. Además, los objetos en la línea de tiempo se pueden seleccionar y mover con el botón izquierdo del ratón, o eliminarlos haciendo clic con el botón derecho.
+La línea de tiempo se puede acercar y alejar con los botones `+`/`-` de la izquierda o, alternativamente, desplazándote con la tecla `Alt` mantenida. Las dos líneas blancas en el centro indican la marca de tiempo actual. Además, los objetos en la línea de tiempo se pueden seleccionar y mover con el botón izquierdo del ratón, o eliminarlos haciendo clic con el botón derecho.
 
 ### Divisor de ritmo
 
@@ -29,7 +29,7 @@ La línea de tiempo se puede acercar y alejar con los botones `+`/`-` de la izqu
 | Nombre | Descripción |
 | :-- | :-- |
 | [Divisor de ritmo](/wiki/Client/Beatmap_editor/Beat_snap_divisor) | Limita la cantidad de marcas de la línea de tiempo que determinan en qué subdivisiones de un pulso se pueden colocar los objetos. Si se mueve el control deslizante hacia la derecha, aumenta la granularidad de las marcas de la línea de tiempo. |
-| `Insertar descanso` | Agrega un [descanso](/wiki/Beatmap/Break) en la marca de tiempo actual. |
+| `Insertar descanso` | Añade un [descanso](/wiki/Beatmap/Break) en la marca de tiempo actual. |
 | x/y | Muestra la posición de un objeto seleccionado en el campo de juego o, si no hay nada seleccionado, la posición del cursor. |
 
 Mantén presionado `Alt` para cambiar el control deslizante al modo de [ajuste de distancia](/wiki/Client/Beatmap_editor/Distance_snap) de las notas. El multiplicador de distancia puede variar entre 0,1x y 6,0x.
@@ -42,9 +42,9 @@ Mantén presionado `Alt` para cambiar el control deslizante al modo de [ajuste d
 | :-- | :-- |
 | `Sampleset` | Reemplaza el [conjunto de muestras](/wiki/Beatmapping/Sampleset) de los objetos seleccionados (incluidos sus hitnormals). Elegir `Auto` restablecerá el conjunto de muestras al del [punto de tiempo](/wiki/Client/Beatmap_editor/Timing#puntos-de-tiempo) activo. |
 | `Additions` | Reemplaza el conjunto de muestra de los objetos seleccionados, afectando solo sus hitsounds adicionales (whistle, finish y clap). Elegir `Auto` restablecerá el conjunto de muestras al del punto de tiempo activo. |
-| `Select` (`1`) | `Clic izquierdo` o `Arrastrar hacia la izquierda`: Seleccionar o mover objetos o puntos de control. `Clic derecho`: Eliminar objetos o puntos de control. `Ctrl` + `Clic izquierdo`: Selecciona varios objetos. `Ctrl` + `Clic izquierdo` al seleccionar un slider: Agrega un [punto de control](/wiki/Gameplay/Hit_object/Slider/Slider_anchor). |
-| `Circle` (`2`) | `Clic izquierdo`: Agrega un [círculo](/wiki/Gameplay/Hit_object/Hit_circle) en la marca de tiempo actual. |
-| `Slider` (`3`) | `Clic izquierdo`/`derecho`: Inicia o finaliza un [slider](/wiki/Gameplay/Hit_object/Slider) en la marca de tiempo actual. `Clic izquierdo` al colocar un slider: Agrega un punto de control. |
+| `Select` (`1`) | `Clic izquierdo` o `Arrastrar hacia la izquierda`: Seleccionar o mover objetos o puntos de control. `Clic derecho`: Eliminar objetos o puntos de control. `Ctrl` + `Clic izquierdo`: Selecciona varios objetos. `Ctrl` + `Clic izquierdo` al seleccionar un slider: Añade un [punto de control](/wiki/Gameplay/Hit_object/Slider/Slider_anchor). |
+| `Circle` (`2`) | `Clic izquierdo`: Añade un [círculo](/wiki/Gameplay/Hit_object/Hit_circle) en la marca de tiempo actual. |
+| `Slider` (`3`) | `Clic izquierdo`/`derecho`: Inicia o finaliza un [slider](/wiki/Gameplay/Hit_object/Slider) en la marca de tiempo actual. `Clic izquierdo` al colocar un slider: Añade un punto de control. |
 | `Spinner` (`4`) | `Clic izquierdo`/`derecho`: Inicia o finaliza un [spinner](/wiki/Gameplay/Hit_object/Spinner) en la marca de tiempo actual. |
 
 ### Campo de juego
@@ -57,7 +57,7 @@ Mantén presionado `Alt` para cambiar el control deslizante al modo de [ajuste d
 
 | Botón (atajo de teclado) | Uso | Descripción |
 | :-- | :-- | :-- |
-| `New Combo` (`Q`) | `Clic izquierdo` al seleccionar un objeto o `Clic derecho` en la ubicación del objeto. | Inicia un nuevo [combo](/wiki/Beatmapping/Combo) a partir del objeto actual (aproximadamente equivalente a un verso en el guión de una canción). |
+| `New Combo` (`Q`) | `Clic izquierdo` al seleccionar un objeto o `Clic derecho` en la ubicación del objeto. | Inicia un nuevo [combo](/wiki/Beatmapping/Combo) a partir del objeto actual (aproximadamente equivalente a un verso en el guion de una canción). |
 
 #### Hitsounds
 
@@ -71,8 +71,8 @@ Mantén presionado `Alt` para cambiar el control deslizante al modo de [ajuste d
 
 | Botón (atajo de teclado) | Uso | Descripción |
 | :-- | :-- | :-- |
-| `Grid Snap` (`T`) | Mantener pulsado `Mayús`: Alterna temporalmente. | Ajusta objetos [a la cuadrícula](/wiki/Beatmapping/Grid_snapping) mientras se mueven. |
-| `Distance Snap` (`Y`) | Mantener pulsado `Alt`: Alterna temporalmente, cambiando el divisor de ritmo a ajuste de distancia de las notas. `Alt` + `Rueda del ratón`: Ajusta el multiplicador del ajuste de distancia de las notas. | Calcula la [distancia](/wiki/Client/Beatmap_editor/Distance_snap) entre objetos consecutivos en función de su distancia temporal. Es mejor usarlo mientras la línea de tiempo está en pausa. |
+| `Grid Snap` (`T`) | Mantener presionado `Mayús`: Se activa temporalmente. | Ancla los objetos [a la rejilla](/wiki/Beatmapping/Grid_snapping) mientras se mueven. |
+| `Distance Snap` (`Y`) | Mantener presionado `Alt`: Se activa temporalmente, cambiando el divisor de ritmo a ajuste de distancia de las notas. `Alt` + `Rueda del ratón`: Ajusta el multiplicador del ajuste de distancia de las notas. | Calcula la [distancia](/wiki/Client/Beatmap_editor/Distance_snap) entre objetos consecutivos en función de su distancia temporal. Es mejor usarlo mientras la línea de tiempo está en pausa. |
 | `Lock Notes` (`L`) | `Clic izquierdo`: alterna. | Bloquea todos los objetos en sus posiciones y marcas de tiempo actuales. |
 
 ### Línea de tiempo de la canción
@@ -83,7 +83,7 @@ La posición actual en la canción se muestra en la parte inferior izquierda en 
 
 El área central contiene la línea de tiempo con marcas y botones para el control de la música. Cuando se coloca el cursor sobre ella, aparecen botones adicionales para trabajar con marcadores. El botón `Test` a la derecha de la línea de tiempo permite [probar el beatmap](/wiki/Client/Beatmap_editor/Test_mode) desde el punto actual en el tiempo.
 
-En la parte inferior derecha, la velocidad de reproducción se puede configurar en 25 %, 50 %, 75 % o 100 %.
+En la parte inferior derecha, la velocidad de reproducción se puede configurar en 25 %, 50 %, 75 % o 100 %.
 
 #### Color de los marcadores
 
@@ -106,7 +106,7 @@ En la parte inferior derecha, la velocidad de reproducción se puede configurar 
 
 | Atajo | Descripción |
 | :-- | :-- |
-| `Ctrl` + `B` | Agrega un marcador en la ubicación actual. |
+| `Ctrl` + `B` | Añade un marcador en la ubicación actual. |
 | `Ctrl` + `Mayús` + `B` | Elimina el marcador más cercano (a menos de 2 segundos de distancia). |
 | `Ctrl` + `Flecha derecha` | Ir al siguiente marcador. |
 | `Ctrl` + `Flecha izquierda` | Ir al marcador anterior. |
@@ -135,7 +135,7 @@ En osu!mania, el área del divisor de ritmo también muestra el nombre y el nive
 | `Additions` | Reemplaza el conjunto de muestra de los objetos seleccionados, afectando solo sus hitsounds adicionales (whistle, finish y clap). Elegir `Auto` restablecerá el conjunto de muestras al del punto de tiempo activo. |
 | `Select` (`1`) | `Clic izquierdo` o `Arrastrar hacia la izquierda`: Mueve la marca de tiempo y ubicación de la nota. `Clic derecho`: Elimina la nota. `Ctrl` + `Clic izquierdo`: Selecciona varios objetos. |
 | `Circle` (`2`) | `Clic izquierdo`: Coloca una nota. |
-| `Hold` (`3`) | Mantener pulsado `Clic izquierdo`: Coloca una nota larga y ajusta su longitud. Suelta el clic para finalizar la nota. |
+| `Hold` (`3`) | Mantener presionado `Clic izquierdo`: Coloca una nota larga y ajusta su longitud. Suelta el clic para finalizar la nota. |
 
 ### Campo de juego
 
@@ -165,7 +165,7 @@ En osu!mania, el área del divisor de ritmo también muestra el nombre y el nive
 
 ### Muestreo
 
-El **muestreo** es el proceso de añadir muestras de sonido a notas individuales. Para agregar una muestra, haz clic en una nota mientras mantienes presionada la tecla `Alt` para abrir una ventana emergente con una lista de muestras de sonido disponibles.
+El **muestreo** es el proceso de añadir muestras de sonido a notas individuales. Para añadir una muestra, haz clic en una nota mientras mantienes presionada la tecla `Alt` para abrir una ventana emergente con una lista de muestras de sonido disponibles.
 
 #### Importación de muestras
 
@@ -186,18 +186,18 @@ El lado izquierdo de la ventana de importación de muestras enumera todas las mu
 | Nombre | Descripción |
 | :-- | :-- |
 | `Play` | Reproduce la muestra seleccionada. |
-| `Import` | Agrega más muestras a la carpeta del beatmap desde otras ubicaciones. |
-| `Sample` | Agrega la muestra seleccionada como un [evento de audio del storyboard](/wiki/Storyboard/Scripting/Audio) en la marca de tiempo actual. |
+| `Import` | Añade más muestras a la carpeta del beatmap desde otras ubicaciones. |
+| `Delete` | Elimina el archivo de audio. |
 | `Apply` | Aplica la muestra seleccionada a la nota seleccionada. |
-| `Sample` | Agrega la muestra seleccionada como un evento del storyboard en la marca de tiempo actual. |
+| `Sample` | Añade la muestra seleccionada como un [evento de audio del storyboard](/wiki/Storyboard/Scripting/Audio) en la marca de tiempo actual. |
 | `Sample list` | Muestra los [eventos de sonido en el storyboard](#lista-de-eventos-de-las-muestras). |
 | `Reset` | Elimina la muestra personalizada de la nota seleccionada. |
 | `Cancel` | Cierra la ventana. |
 
 #### Lista de eventos de las muestras
 
-*Véase también: [Muestras de audio del storyboard](/wiki/Storyboard/Scripting/Audio)*
+*Véase también: [Muestras de audio de los storyboards](/wiki/Storyboard/Scripting/Audio)*
 
 ![](img/sample-event-list.jpg "Ventana de la lista de eventos de las muestras")
 
-`Sample events list` es una ventana que muestra eventos de sonido del storyboard, que se almacenan en el archivo `.osu` de la dificultad o en el archivo `.osb` del beatmap.
+`Sample events list` es una ventana que muestra los eventos de sonido de los storyboards, que se almacenan en el archivo `.osu` de la dificultad o en el archivo `.osb` del beatmap.
