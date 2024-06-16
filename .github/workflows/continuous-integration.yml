@@ -74,8 +74,4 @@ jobs:
 
       - name: check if translations are marked as outdated
         if: ${{ !contains(github.event.pull_request.body, 'SKIP_OUTDATED_CHECK') }}
-        run: |
-          osu-wiki-tools check-outdated-articles \
-            --base-commit HEAD \
-            --no-recommend-autofix \
-            --outdated-since "$(git log --format=%H master.. | tail -n 1)"
+        run: osu-wiki-tools check-outdated-articles --no-recommend-autofix
