@@ -7,7 +7,7 @@ series: The Followpoint
 
 The last in a series of top player interviews features [dressurf](https://osu.ppy.sh/users/758406), osu!mania's #1 keyboard smasher!
 
-![](/wiki/shared/news/2024-06-17-the-followpoint-dressurf-top-keyboard-smasher/banner.jpg)
+![](/wiki/shared/news/2024-06-17-the-followpoint-dressurf-the-1-key-smasher/banner.jpg)
 
 The top players of the other game modes have already been interviewed: [mrekk](https://osu.ppy.sh/home/news/2024-05-06-the-followpoint-mrekk-the-osu-standard-prodigy), [YesMyDarknesss](https://osu.ppy.sh/home/news/2024-05-28-the-followpoint-yesmydarknesss-the-master-of-osu-catch) and [Eriha](https://osu.ppy.sh/users/16320311), which you may also be interested in reading up on if this one caught your eye.
 
