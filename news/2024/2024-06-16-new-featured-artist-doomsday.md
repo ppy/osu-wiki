@@ -16,7 +16,7 @@ If [**Doomsday**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/
 
 <div align="center">
     <video width="95%" controls>
-        <source src="LINK" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/release_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -25,7 +25,7 @@ If [**Doomsday**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/
 Play through [the map from *The Perennial*](LINK) hosted by [zekk](https://osu.ppy.sh/users/9704802)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/425/Songs/Doomsday%20-%20TGGT.mp3">
 </audio>
 
 ### Doomsday - Luyten's Star
@@ -33,7 +33,7 @@ Play through [the map from *The Perennial*](LINK) hosted by [zekk](https://osu.p
 Or try [the map from *Battle of the Box*](https://osu.ppy.sh/beatmapsets/2134395) hosted by [Tycani](https://osu.ppy.sh/users/6693266)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/425/Songs/Doomsday%20-%20Luyten%27s%20Star.mp3">
 </audio>
 
 ### Doomsday - SigmaGlider
@@ -41,7 +41,7 @@ Or try [the map from *Battle of the Box*](https://osu.ppy.sh/beatmapsets/2134395
 Or if tournaments aren't your thing, [this osu!catch map](https://osu.ppy.sh/beatmapsets/2138030) by [Jemzuu](https://osu.ppy.sh/users/7890134) is up next.
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/425/The%20First%20Set/Doomsday%20-%20SigmaGlider.mp3">
 </audio>
 
 ---
