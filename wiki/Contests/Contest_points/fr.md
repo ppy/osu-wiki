@@ -78,16 +78,17 @@ Les points de concours ont été utilisés pour les concours suivants :
 | ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438) | 2 | [o!tFAC](/wiki/Contests/o!tFAC) (1), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (1) |
 | ::{ flag=JP }:: [IceOC](https://osu.ppy.sh/users/5482401) | 2 | [Twin Trials](/wiki/Contests/Twin_Trials_Contest) |
 | ::{ flag=KR }:: [ZTH](https://osu.ppy.sh/users/5258461) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=JP }:: [-Kazuha](https://osu.ppy.sh/users/29978316) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=US }:: [Alchyr](https://osu.ppy.sh/users/4993032) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157) | 1 | [o!tFAC](/wiki/Contests/o!tFAC) |
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) | 1 | [Twin Trials](/wiki/Contests/Twin_Trials_Contest) |
-| ::{ flag=US }:: [Alchyr](https://osu.ppy.sh/users/4993032) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 
 ### osu!catch
 
 | Utilisateur | Points | Concours |
 | :-- | :-- | :-- |
-| ::{ flag=CA }:: [Unlucky_w](https://osu.ppy.sh/users/4820793) | 5 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=CA }:: [**Unlucky_w**](https://osu.ppy.sh/users/4820793) | **7** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) | 4 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (2), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (2) |
 | ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (2), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (1) |
 | ::{ flag=PH }:: [-Rusty](https://osu.ppy.sh/users/16355636) | 2 | [Twin Trials](/wiki/Contests/Twin_Trials_Contest) |
@@ -95,6 +96,7 @@ Les points de concours ont été utilisés pour les concours suivants :
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | 1 | [Twin Trials](/wiki/Contests/Twin_Trials_Contest) |
 | ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=ID }:: [Ilhamuharam](https://osu.ppy.sh/users/7657968) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 
 ### osu!mania
 

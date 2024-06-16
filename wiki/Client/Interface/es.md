@@ -277,7 +277,7 @@ Las categorías en el panel de clasificación son las siguientes:
 | [`Precisión`](/wiki/Gameplay/Accuracy) | Con qué precisión jugaste el beatmap. Esto solo se cuenta cuando superas tu puntuación anterior. | Un promedio ponderado de la precisión de tus mejores puntuaciones. |
 | `Max Combo` | El combo más largo en el mapa que jugaste. | El combo más largo de todos los beatmaps que hayas jugado. |
 | [`Puntuación rankeada`](/wiki/Gameplay/Score/Ranked_score) | Tu [mejor resultado](/wiki/Gameplay/Score/Ranked_score) en el beatmap. | La cantidad de puntos obtenidos de todos los beatmaps clasificados que hayas jugado alguna vez, contando cada mapa exactamente una vez. |
-| [`Puntuación total`](/wiki/Gameplay/Score/Total_score) | No se tiene en cuenta, ya que no afecta tu posición en las clasificaciones en línea. | Igual que la puntuación rankeada, pero tiene en cuenta todos los beatmaps disponibles en el sitio web de osu!, incluidos los beatmaps infrautilizados o fallidos. Esto cuenta para tu [nivel](/wiki/Gameplay/Score/Total_score#level). |
+| [`Puntuación total`](/wiki/Gameplay/Score/Total_score) | No se tiene en cuenta, ya que no afecta tu posición en las clasificaciones en línea. | Igual que la puntuación rankeada, pero tiene en cuenta todos los beatmaps disponibles en el sitio web de osu!, incluidos los beatmaps infrautilizados o fallidos. Esto cuenta para tu [nivel](/wiki/Gameplay/Score/Total_score#nivel). |
 | [`Performance`](/wiki/Performance_points) | La cantidad de [pp no ponderados](/wiki/Performance_points#why-didn't-i-gain-the-full-amount-of-pp-from-a-map-i-played?) que recibirás por la jugada. | Tu cantidad total de puntos de rendimiento, y cuánto pp valió la jugada enviada. |
 
 ### Medallas
