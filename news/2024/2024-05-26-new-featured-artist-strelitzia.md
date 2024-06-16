@@ -16,7 +16,7 @@ Experience what **Strelitzia** has to offer:
 
 <div align="center">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/media/news/release_showcase.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/artists/421/release_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
