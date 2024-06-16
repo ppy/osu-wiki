@@ -309,7 +309,7 @@ Sunday, 16 June 2024:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| **staff red** | **7** | 6 | staff blue | [#1](https://osu.ppy.sh/community/matches/114315245) | [#1](https://www.twitch.tv/videos/2173679409) |
+| **Staff Red** | **7** | 6 | Staff Blue | [#1](https://osu.ppy.sh/community/matches/114315245) | [#1](https://www.twitch.tv/videos/2173679409) |
 | France ::{ flag=FR }:: | 0 | **7** | ::{ flag=PL }:: **Poland** | [#1](https://osu.ppy.sh/community/matches/114317589) | [#1](https://www.twitch.tv/videos/2173689057) |
 | **Canada** ::{ flag=CA }:: | **7** | 1 | ::{ flag=PE }:: Peru | [#1](https://osu.ppy.sh/community/matches/114319162) | [#1](https://www.twitch.tv/videos/2173786247) |
 | **United States** ::{ flag=US }:: | **7** | 1 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/114319136) | [#1](https://www.twitch.tv/videos/2173784029) |
@@ -405,7 +405,6 @@ Sunday, 26 May 2024:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| **Staff Red** | **7** | 6 | Staff Blue | [#1](https://osu.ppy.sh/community/matches/114315245) | [#1](https://www.twitch.tv/videos/2173679409) |
 | **Belgium** ::{ flag=BE }:: | **5** | 2 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/114036182) | [#1](https://www.twitch.tv/videos/2155665282) |
 | **Taiwan** ::{ flag=TW }:: | **5** | 2 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/114037695) | [#1](https://www.twitch.tv/videos/2155768291) |
 | **Japan** ::{ flag=JP }:: | **5** | 0 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/114038355) | [#1](https://www.twitch.tv/videos/2155770591) |
