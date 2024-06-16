@@ -1,4 +1,4 @@
-# Reporting Abuse
+# Reporting abuse
 
 ## I don't know if I should report this or not
 

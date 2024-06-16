@@ -15,19 +15,20 @@ Halaman ini menerakan berbagai cara bagi orang-orang dari seluruh penjuru komuni
 *Lihat juga: [Daftar seluruh proyek](/wiki/Community/Projects)*
 
 - [Program Community Mentorship](/wiki/Community/Community_Mentorship_Program)
+- [Manga](/wiki/Community/Manga)
 - [Mappers' Guild](/wiki/Community/Mappers_Guild)
 - [osu! wiki](/wiki/osu!_wiki)
 - [osu!monthly](/wiki/Community/osu!monthly)
 - [Project Loved](/wiki/Community/Project_Loved)
+- [Serial video](/wiki/Community/Video_series)
+  - [osu!academy](/wiki/Community/Video_series/osu!academy)
+  - [osu!mapping](/wiki/Community/Video_series/osu!mapping)
+  - [osu!talk](/wiki/Community/Video_series/osu!talk)
 
 ## Inisiatif
 
 - [Pertemuan komunitas osu!](/wiki/Community/osu!_community_meetings)
 - [osu! Talk Event](/wiki/Community/osu!_Talk_Event)
-- [Serial video](/wiki/Community/Video_series)
-  - [osu!academy](/wiki/Community/Video_series/osu!academy)
-  - [osu!mapping](/wiki/Community/Video_series/osu!mapping)
-  - [osu!talk](/wiki/Community/Video_series/osu!talk)
 
 ## Lihat juga
 
