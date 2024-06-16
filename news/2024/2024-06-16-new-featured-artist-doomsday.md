@@ -6,7 +6,7 @@ date: 2024-06-16 23:00:00 +0000
 
 osu! has been around for nearly two decades. In that time, countless community members have come and gone, but one name has been here since the very beginning: **Doomsday**, our newest Featured Artist!
 
-![](https://assets.ppy.sh/artists/xxx/header.jpg)
+![](https://assets.ppy.sh/artists/425/header.jpg)
 
 This UK-based top player, mapper, commentator, and now musician joins our Featured Artists with his own brand of aural awesomeness inspired by rhythm game songs, UK hardcore, video game soundtracks, and whatever other styles catch his ~~eye~~ ear.
 
