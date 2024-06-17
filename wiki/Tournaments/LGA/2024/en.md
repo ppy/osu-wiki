@@ -27,13 +27,13 @@ The **Lazer Grand Arena** (***LGA***) is an osu!(lazer) tournament hosted by the
 
 ## Prizes
 
+The minimum prize pool will be revealed after the Qualifier stage.
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | profile badge, *TBA* |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | *TBA* |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | *TBA* |
-
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | profile badge, %50 of the prize pool, *more prizes TBA* |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | %30 of the prize pool, *more prizes TBA* |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | %20 of the prize pool, *more prizes TBA* |
 
 ## Organisation
 
@@ -52,7 +52,7 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 ## Links
 
 - **[Sign up here](https://osu.ppy.sh/community/tournaments/45)**
-- [Discussion thread]({{ THREAD }})
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1936749)
 - [Livestream](https://www.twitch.tv/osulive)
 
 ## Ruleset
