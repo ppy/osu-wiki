@@ -30,7 +30,7 @@ The Grand Arena is going to be home to many experiments to the familiar tourname
 | Bracket stage | July 20 & July 21 |
 | Top 8 | July 27 & July 28 |
 
-You can register for the event **[here](https://osu.ppy.sh/community/tournaments/45)** and take a look at the [wiki](https://osu.ppy.sh/wiki/en/Tournaments/LGA/2024) page for more information!
+You can register for the event **[here](https://osu.ppy.sh/community/tournaments/45)** and take a look at the [wiki](/wiki/en/Tournaments/LGA/2024) page for more information!
 
 *Notice: you may only participate if your position in the osu! global ranking is #2,500 or higher, and you have not violated the [osu! community rules](/wiki/Rules) in the past 12 months.*
 

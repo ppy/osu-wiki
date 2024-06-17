@@ -12,7 +12,6 @@ tags:
 
 ![LGA 2024 banner](img/lga2024-banner.jpg)
 
-
 The **Lazer Grand Arena** (***LGA***) is an osu!(lazer) tournament hosted by the [osu! team](/wiki/People/osu!_team).
 
 ## Tournament schedule
@@ -67,30 +66,30 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
    - Custom skin elements must not be used to alter core gameplay elements or mechanics in unintended ways.
 6. If either player is not present at match time, the match can be postponed for up to 10 minutes. If after this period either player is not present, a *win by default* will be declared for the other player. If neither player is present, the match will be nullified and the player who was slated to play against the winner of this match will receive one bye.
 7. Players may ask for a rematch if they encounter technical issues while playing within 30 seconds or 25% of the beatmap drain length (whichever happens first) of the game's start. Referees may, at their discretion, veto this request.
-    - "Lag spikes" are not considered a valid reason to rematch a beatmap.
-    - This rule is not to be abused. Referees may veto a rematch request if they find that this is the case.
-11. If a player disconnects mid-game, their score will not be counted towards their cumulative, unless adequate proof of said score is provided. The following are considered as acceptable proof:
-    - Player point-of-view live stream snippets (commonly referred to as "clips" or "VODs"). The entirety of the play, along with the results screen must be clearly visible along with the affected player's score.
-    - Replay files of the play, taken directly from the "Local scores" tab on the affected player's client (the timestamps must exactly match the time at which the game took place, as seen on the multiplayer lobby link).
-    - Player scores may be derived from the official stream as a last resort, in cases where the match is streamed.
-12. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied by the tournament managers. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match, and other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
-13. Any attempts to manipulate bracket outcomes or future matchups may result in the immediate disqualification of the player from the competition. Examples of manipulative behavior include, but are not limited to:
+   - "Lag spikes" are not considered a valid reason to rematch a beatmap.
+   - This rule is not to be abused. Referees may veto a rematch request if they find that this is the case.
+8. If a player disconnects mid-game, their score will not be counted towards their cumulative, unless adequate proof of said score is provided. The following are considered as acceptable proof:
+   - Player point-of-view live stream snippets (commonly referred to as "clips" or "VODs"). The entirety of the play, along with the results screen must be clearly visible along with the affected player's score.
+   - Replay files of the play, taken directly from the "Local scores" tab on the affected player's client (the timestamps must exactly match the time at which the game took place, as seen on the multiplayer lobby link).
+   - Player scores may be derived from the official stream as a last resort, in cases where the match is streamed.
+9. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied by the tournament managers. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match, and other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
+10. Any attempts to manipulate bracket outcomes or future matchups may result in the immediate disqualification of the player from the competition. Examples of manipulative behavior include, but are not limited to:
     - Deliberately playing poorly to lose a game or match.
     - Colluding with other players to force a desired matchup.
     - Forfeiting bracket matches without providing an adequate reasoning, or with the intention of getting a more favourable matchup.
-14. All players and staff must be treated with respect. Instructions from the referees and the tournament managers are to be followed. Decisions labelled as final are not to be objected.
-15. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms where the matches will take place.
+11. All players and staff must be treated with respect. Instructions from the referees and the tournament managers are to be followed. Decisions labelled as final are not to be objected.
+12. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms where the matches will take place.
     - Breaking the chat rules may result in a silence. Silenced players cannot participate in multiplayer matches and must be exchanged for the duration of the punishment.
-16. Penalties for violating the tournament rules include, but are not limited to:
+13. Penalties for violating the tournament rules include, but are not limited to:
     - Removal of pick rights for a game or match.
     - Point deductions.
     - Declaring the match as forfeited, or as a win by default for the other player.
     - Disqualification from the entire tournament.
     - Disqualification from the current and future official tournaments, until appealed.
-17. Referees may allow, at their discretion, lower or higher tolerances for timers.
-18. The tournament managers may request liveplays or recordings of individual players at any point in the tournament without prior warning.
-19. The tournament managers will be responsible for receiving and investigating any tournament-related complaints.
-20. The tournament managers reserve the right to modify these rules at any moment. Any such changes will be announced in advance.
+14. Referees may allow, at their discretion, lower or higher tolerances for timers.
+15. The tournament managers may request liveplays or recordings of individual players at any point in the tournament without prior warning.
+16. The tournament managers will be responsible for receiving and investigating any tournament-related complaints.
+17. The tournament managers reserve the right to modify these rules at any moment. Any such changes will be announced in advance.
 
 ### Tournament registration
 
@@ -139,13 +138,13 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
        - Hard Rock: 3 beatmaps
        - Double Time: 4 beatmaps
      - The draft order will be as follows:
-        1. The first player (A) will ban one beatmap, followed by the second player (B) also banning a beatmap: AB
-        2. Players will pick two beatmaps respecting the following order: BAAB
-        3. Both players will ban two beatmaps, as such: ABBA
-        4. Both players will pick one beatmap: AB
-        5. Both players will ban one beatmap: BA
-        6. The last beatmap remaining in the pool will be used as the 7th pick for the match
-        7. Exceptionally, for the Losers bracket Finals and Grand Finals, steps 5 and 6 will not be applied, and the last pick will be an osu! original beatmap, to be released at match time.
+       1. The first player (A) will ban one beatmap, followed by the second player (B) also banning a beatmap: AB
+       2. Players will pick two beatmaps respecting the following order: BAAB
+       3. Both players will ban two beatmaps, as such: ABBA
+       4. Both players will pick one beatmap: AB
+       5. Both players will ban one beatmap: BA
+       6. The last beatmap remaining in the pool will be used as the 7th pick for the match
+       7. Exceptionally, for the Losers bracket Finals and Grand Finals, steps 5 and 6 will not be applied, and the last pick will be an osu! original beatmap, to be released at match time.
 
 ### Win conditions
 
