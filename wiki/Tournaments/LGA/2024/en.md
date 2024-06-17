@@ -22,7 +22,7 @@ The **Lazer Grand Arena** (***LGA***) is an osu!(lazer) tournament hosted by the
 | Qualifier and tournament format showcase | 2024-07-07 (14:00 UTC) |
 | Qualifier stage | 2024-07-13/2024-07-14 |
 | Bracket stage (single elimination) | 2024-07-20/2024-07-21 |
-| Top 8 (single elimination)/Top 4 (double elimination) | 2024-07-27/2024-07-28 |
+| Top 8 (single elimination)/top 4 (double elimination) | 2024-07-27/2024-07-28 |
 
 ## Prizes
 
@@ -30,7 +30,7 @@ The minimum prize pool will be revealed after the Qualifier stage.
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | profile badge, %50 of the prize pool, *more prizes TBA* |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, %50 of the prize pool, *more prizes TBA* |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | %30 of the prize pool, *more prizes TBA* |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | %20 of the prize pool, *more prizes TBA* |
 
@@ -94,7 +94,7 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 ### Tournament registration
 
 1. Every user interested in will be required to signs up by utilising the osu! tournament listing [linked above](#links).
-2. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments. To be successfully accepted on the list, players are required to be placed #2500 or higher on the osu! global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
+2. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments. To be successfully accepted on the list, players are required to be placed #2,500 or higher on the osu! global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 3. All successfully registered players will be published after the registration phase on this page.
 4. Participants will be briefed on further steps via an announcement message on the website.
 5. Tournament staff members are **not** allowed to play in the tournament, with the exception of commentators, statisticians, and streamers.
@@ -111,7 +111,7 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
    - Double Time: 3 beatmaps
 4. Players will be asked to play the mappool twice at a designated time. The best play for each map will be used for seeding.
 5. The mappool is to be played according to the order listed on this page.
-6. Only the top 32 seeded players will advance to the Bracket stage.
+6. Only the top 32 seeded players will advance to the bracket stage.
 
 ### Bracket stage information
 
@@ -131,7 +131,7 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
       3. Both players ban will two maps, as such: ABBA
       4. The last beatmap remaining in the pool will be used as the 5th pick for the match.
    - For the second weekend, The 8 remaining players from the previous phase will then then play another set of matches, after which the remaining 4 players will be placed on a double-elimination bracket.
-     - All matches in this phase will utilise the same mappool, except for the Losers bracket Finals and Grand Finals, where a new osu! original will be introduced into the pool. The first player to score 4 points wins (best of 7).
+     - All matches in this phase will utilise the same mappool, except for the Losers' Bracket Finals and Grand Finals, where a new [osu! original](/wiki/osu!_originals) will be introduced into the pool. The first player to score 4 points wins (best of 7).
      - The second weekend's pool will feature 15 maps, organised as such:
        - No Mod: 5 beatmaps
        - Hidden: 3 beatmaps
@@ -143,8 +143,8 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
        3. Both players will ban two beatmaps, as such: ABBA
        4. Both players will pick one beatmap: AB
        5. Both players will ban one beatmap: BA
-       6. The last beatmap remaining in the pool will be used as the 7th pick for the match
-       7. Exceptionally, for the Losers bracket Finals and Grand Finals, steps 5 and 6 will not be applied, and the last pick will be an osu! original beatmap, to be released at match time.
+       6. The last beatmap remaining in the pool will be used as the 7th pick for the match.
+       7. Exceptionally, for the Losers' Bracket Finals and Grand Finals, steps 5 and 6 will not be applied, and the last pick will be an osu! original beatmap, to be released at match time.
 
 ### Win conditions
 
@@ -152,15 +152,15 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
   - Seeding for this stage will follow the %MAX format — the highest score for each map will receive 100% of the points (i.e. 1 point), and every other player will be awarded a percentage of that top score. The sum of the highest score for every map will be used as the final seeding, with a higher point sum meaning higher placement (i.e. sorted in descending order).
     - The exact formula that will be used for all players (and for each map) is `Final Score = Player Map Score / MAX Score`, where:
       - `Final Score` is the numerical value awarded to the current player for each map.
-      - `Player Map Score` is the score the player being evaluated achieved on the current map, the best score out of two is taken.
+      - `Player Map Score` is the score the player being evaluated achieved on the current map, taking the best score out of two.
       - `MAX Score` is the highest score achieved for the current map across all players and all runs.
 - In the Round of 32 and Round of 16, players need to win 3 maps to win a match (best of 5).
 - In the Quarterfinals, Semifinals, Finals, and Grand Finals, players need to win 4 maps to win a match (best of 7).
-  - *Note: for the Grand Finals match, the player that is coming from the winners bracket is required to win one "set", that is, one best of 7, to win the tournament. The player coming from the losers bracket, however, needs to win 2 sets.*
+  - *Note: for the Grand Finals match, the player that is coming from the winners' bracket is required to win one "set", that is, one best of 7, to win the tournament. The player coming from the losers' bracket, however, needs to win 2 sets.*
 
 ### Match procedures
 
-1. A referee will create a multiplayer room 10 minutes before the scheduled match time. players must join the lobby in that period.
+1. A referee will create a multiplayer room 10 minutes before the scheduled match time. Players must join the lobby in that period.
    - The room settings are `Ruleset: "osu!"` and `Game type: "Team Vs"`. The room name must follow the pattern of `LGA: ({Red Player}) VS ({Blue Player})`. The player mentioned first in the room name must be the red player, and the player mentioned second in the room name must be the blue player.
 2. Each player will receive one "tactical timeout" of 2 minutes, to be used as extra time to ban, pick, or ready for a beatmap. The tactical timeout may not be called on the opposing player's pick or ban phase.
 3. Players will be allowed 2 minutes for each pick/ban phase (as described on the [bracket stage instructions](#bracket-stage-information) section), and an additional 2 minutes to press the `Ready` button on their client before play commences. If a player takes more time than allotted for either action, the procedures adopted will be as follows:
@@ -169,14 +169,14 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
      - If the player does not pick a map within 15 seconds from when the timer expires, the referee will apply the procedure for subsequent occurrences listed below, i.e. a random pick will be used for a pick timer, and the match will be forcefully started for a ready timer.
    - On subsequent occurrences:
      - For a pick timer: a random map will be chosen from the mappool by rolling a random number, based on the amount of beatmaps that were neither picked nor banned.
-     - For a ready timer: the referee will issue the start command on a 10 second countdown. In this scenario, if the referee starts the match and either player is not present in the lobby, their opponent will receive the point instead.
+     - For a ready timer: the referee will issue the start command on a 10-second countdown. In this scenario, if the referee starts the match and either player is not present in the lobby, their opponent will receive the point instead.
      - Repeat offenders may receive further sanctions from the tournament managers.
 
 ### Scheduling information
 
 1. Each stage (as described on the [Tournament schedule](#tournament-schedule) table) will be held on **a single weekend**.
 2. Matches in the Qualifiers will be held during specific time slots proposed by the tournament managers. Each player may choose a time slot in which they want to play.
-   - **Players that do not pick a time slot by Thursday, 12 July 2024 (23:59 UTC) will be disqualified from the competition.**
+   - **Players who do not pick a time slot by Thursday, 12 July 2024 (23:59 UTC) will be disqualified from the competition.**
 3. All bracket stages will be held between Saturday 00:00 and Sunday 19:00 UTC.
 4. Match scheduling will be handled by the tournament managers. Schedules will be released on the Sunday before the first matches of the stage. The tournament managers will try to create the schedule to respect the participants' time zones.
 5. **Reschedules will only be considered if both players agree to a time and communicate it to the tournament managers, before Wednesday 23:59 UTC of the week when the match is to take place.**
