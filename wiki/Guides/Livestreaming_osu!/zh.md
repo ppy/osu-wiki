@@ -4,7 +4,7 @@
 
 ## 哔哩哔哩
 
-哔哩哔哩支持使用多种方式直播 osu!。关于配置直播的具体流程、以及直播过程中可能遇到的问题，参见[哔哩哔哩直播帮助中心](https://link.bilibili.com/p/help/index#/live-hime)。
+<!-- For en-zh translators and maintainers: All about Bilibili (a.k.a. This section) is independent of the original article and other translations. -->哔哩哔哩支持使用多种方式直播 osu!。关于配置直播的具体流程、以及直播过程中可能遇到的问题，参见[哔哩哔哩直播帮助中心](https://link.bilibili.com/p/help/index#/live-hime)。
 
 ### 配置账户
 
@@ -26,7 +26,7 @@
 
 可以使用[哔哩哔哩直播姬](https://link.bilibili.com/p/eden/download)在 Windows 设备进行直播。
 
-与 OBS Studio 稍有不同的是，哔哩哔哩直播姬有固定的 3 个场景，但来源依然需要手动添加。
+与 OBS Studio 稍有不同的是，哔哩哔哩直播姬有 3 个固定的场景，但来源依然需要手动添加。
 
 在打开 osu! 客户端后，点击直播姬`场景`标签页下方的`+ 素材`按钮，随后选择`游戏进程`。在`添加其他`小节的下拉菜单中找到并选择`[osu!.exe]: osu!`，并点击`确定`。
 
