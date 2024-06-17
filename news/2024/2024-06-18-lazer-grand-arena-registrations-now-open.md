@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lazer Grand Arena: Registrations now open!"
-date: 2024-06-18 10:00:00 +0000
+date: 2024-06-18 00:00:00 +0000
 ---
 
 While it's great to see countries rallying together and forming teams to compete, sometimes we have to wonder what players could truly do if they didn't have to pick around their teammates and truly shine on their own, and with the recent improvements made to osu!'s future client, we feel like it's finally time to bring to you...
