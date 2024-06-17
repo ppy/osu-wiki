@@ -81,9 +81,9 @@ Lorsqu'un Global Moderator décide de quitter l'équipe, il peut se voir accorde
 | ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | Chinois, malais, cantonais, un peu de japonais | Modération de la communauté modding/mapping |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | Allemand | Modération du tchat |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Russe | Modération du tchat |
-| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Serbe |  |
+| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Serbe | General moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Modération du forum |
-| ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | Néerlandais, un peu de allemand |  |
+| ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | Néerlandais, un peu de allemand | General moderation |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Manager des tournois[^task-Azer] |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | Chinois, malais | Modération du tchat |
 | ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  | Modération du tchat, modération du forum |
@@ -125,7 +125,7 @@ Lorsqu'un Global Moderator décide de quitter l'équipe, il peut se voir accorde
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Allemand, serbe | Modération du tchat, modération de la communauté modding/mapping |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Présence officielle de l'équipe |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Allemand | Manager des tournois |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Cantonais, chinois |  |
+| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Cantonais, chinois | General moderation |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | Coréen, japonais | Modération du tchat |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | Malais | Modération du tchat |
 | ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | Polonais | Modération de la communauté skinning |

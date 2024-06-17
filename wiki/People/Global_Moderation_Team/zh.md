@@ -81,9 +81,9 @@ tags:
 | ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | 汉语，马来语，粤语，一部分日语 | 作图摸图社群管理员 |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | 德语 | 聊天管理员 |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | 俄语 | 聊天管理员 |
-| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | 塞尔维亚语 |  |
+| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | 塞尔维亚语 | General moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | 论坛管理员 |
-| ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | 荷兰语，一部分德语 |  |
+| ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | 荷兰语，一部分德语 | General moderation |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | 锦标赛管理员[^task-Azer] |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | 汉语，马来语 | 聊天管理员 |
 | ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  | 聊天管理员，论坛管理员 |
@@ -125,7 +125,7 @@ tags:
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | 德语，塞尔维亚语 | 聊天管理员，作图摸图社群管理员 |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | 官方团队 |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | 德语 | 锦标赛管理员 |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | 粤语，汉语 |  |
+| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | 粤语，汉语 | General moderation |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | 韩语，日语 | 聊天管理员 |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | 马来语 | 聊天管理员 |
 | ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | 波兰语 | 自定义皮肤社区管理员 |

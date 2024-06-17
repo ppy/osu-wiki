@@ -66,9 +66,9 @@ tags:
 | ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | Китайский, малайский, кантонский, частично японский | Модерация маппинг-сообщества |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | Немецкий | Модерация чата |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Русский | Модерация чата |
-| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Сербский |  |
+| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Сербский | General moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Модерация форума |
-| ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | Нидерландский, частично немецкий |  |
+| ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | Нидерландский, частично немецкий | General moderation |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Организация турниров[^task-Azer] |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | Китайский, малайский | Модерация чата |
 | ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  | Модерация чата, модерация форума |
@@ -110,7 +110,7 @@ tags:
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Немецкий, сербский | Модерация чата, модерация маппинг-сообщества |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Официальное представление команды |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Немецкий | Организация турниров |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Кантонский, китайский |  |
+| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Кантонский, китайский | General moderation |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | Корейский, японский | Модерация чата |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | Малайский | Модерация чата |
 | ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | Польский | Модерация скиннинг-сообщества |

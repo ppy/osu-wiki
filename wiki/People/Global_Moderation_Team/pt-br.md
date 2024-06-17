@@ -53,9 +53,9 @@ A [página de grupo da Equipe de Moderação Global](https://osu.ppy.sh/groups/4
 | ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | Chinês, malaio, cantonês, um pouco de japonês | Moderação da comunidade de mapping/modding |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | Alemão | Moderação de chat |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Russo | Moderação de chat |
-| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Sérvio |  |
+| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Sérvio | General moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Moderação de fórum |
-| ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | Holandês, um pouco de alemão |  |
+| ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | Holandês, um pouco de alemão | General moderation |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Administração de torneios |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | Chinês, malaio | Moderação de chat |
 | ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  | Moderação de chat, moderação de fórum |
@@ -97,7 +97,7 @@ A [página de grupo da Equipe de Moderação Global](https://osu.ppy.sh/groups/4
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Alemão, sérvio | Moderação de chat, moderação da comunidade de mapping/modding |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Presença oficial da equipe |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Alemão | Administração de torneios |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Cantonês, chinês |  |
+| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Cantonês, chinês | General moderation |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | Coreano, japonês | Moderação de chat |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | Malaio | Moderação de chat |
 | ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | Polonês | Skinning community moderation |

@@ -80,9 +80,9 @@ Die [Gruppenseite des GMTs](https://osu.ppy.sh/groups/4) listet alle Teammitglie
 | ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | Chinesisch, Malaiisch, Kantonesisch, etwas Japanisch | Moderation der Mapping-/Modding-Community |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | Deutsch | Chat-Moderation |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Russisch | Chat-Moderation |
-| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Serbisch |  |
+| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Serbisch | General moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Forum-Moderation |
-| ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | Niederländisch, etwas Deutsch |  |
+| ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | Niederländisch, etwas Deutsch | General moderation |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Verwaltung von Turnieren[^task-Azer] |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | Chinesisch, Malaiisch | Chat-Moderation |
 | ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  | Chat-Moderation, Forum-Moderation |
@@ -124,7 +124,7 @@ Die [Gruppenseite des GMTs](https://osu.ppy.sh/groups/4) listet alle Teammitglie
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Deutsch, Serbisch | Chat-Moderation, Moderation der Mapping-/Modding-Community |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Offizielle Präsenz des Teams |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Deutsch | Verwaltung von Turnieren |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Kantonesisch, Chinesisch |  |
+| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Kantonesisch, Chinesisch | General moderation |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | Koreanisch, Japanisch | Chat-Moderation |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | Malaiisch | Chat-Moderation |
 | ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | Polnisch | Moderation der Skinning-Community |

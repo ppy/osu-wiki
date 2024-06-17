@@ -63,9 +63,9 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | 中国語、マレー語、広東語、部分的な日本語 | Mapping/modding コミュニティ モデレーション |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | ドイツ語 | チャットモデレーション |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | ロシア語 | チャットモデレーション |
-| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | セルビア語 |  |
+| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | セルビア語 | General moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | フォーラムモデレーション |
-| ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | オランダ語、部分的なドイツ語 |  |
+| ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | オランダ語、部分的なドイツ語 | General moderation |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | トーナメント運営 |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | 中国語、マレー語 | チャットモデレーション |
 | ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  | チャットモデレーション、フォーラムモデレーション |
@@ -107,7 +107,7 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | ドイツ語、セルビア語 | チャットモデレーション、mapping/modding コミュニティ モデレーション |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | オフィシャルチームプレゼンス |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | ドイツ語 | トーナメント運営 |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | 広東語、中国語 |  |
+| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | 広東語、中国語 | General moderation |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | 韓国語、日本語 | チャットモデレーション |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | マレー語 | チャットモデレーション |
 | ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | ポーランド語 | Skinning community moderation |

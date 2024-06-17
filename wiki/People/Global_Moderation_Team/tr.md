@@ -61,9 +61,9 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | Çince, Malayca, Kantonca, biraz Japonca | Mapping/modding topluluk moderasyonu |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | Almanca | Sohbet moderasyonu |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Rusça | Sohbet moderasyonu |
-| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Sırpça |  |
+| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Sırpça | General moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Forum moderasyonu |
-| ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | Felemenkçe, biraz Almanca |  |
+| ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | Felemenkçe, biraz Almanca | General moderation |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Turnuva yönetimi |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | Çince, Malayca | Sohbet moderasyonu |
 | ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  | Sohbet moderasyonu, forum moderasyonu |
@@ -105,7 +105,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Almanca, Sırpça | Sohbet moderasyonu, mapping/modding topluluk moderasyonu |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Resmi takım temsilcisi |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Almanca | Turnuva yönetimi |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Kantonca, Çince |  |
+| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Kantonca, Çince | General moderation |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | Korece, Japonca | Sohbet moderasyonu |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | Malayca | Sohbet moderasyonu |
 | ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | Lehçe | Skinning community moderation |

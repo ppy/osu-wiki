@@ -31,9 +31,9 @@ tags:
 | ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | 중국어, 말레이어, 광둥어, 약간의 일본어 | 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | 독일어 | 채팅 관리 |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | 러시아어 | 채팅 관리 |
-| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | 세르비아어 |  |
+| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | 세르비아어 | General moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | 포럼 관리 |
-| ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | 네덜란드어, 약간의 독일어 |  |
+| ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | 네덜란드어, 약간의 독일어 | General moderation |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | 토너먼트 관리 |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | 중국어, 말레이어 | 채팅 관리 |
 | ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  | 채팅 관리, 포럼 관리 |
@@ -75,7 +75,7 @@ tags:
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | 독일어, 세르비아어 | 채팅 관리, 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | 공식 팀 |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | 독일어 | 토너먼트 관리 |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | 광둥어, 중국어 |  |
+| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | 광둥어, 중국어 | General moderation |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | 한국어, 일본어 | 채팅 관리 |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | 말레이어 | 채팅 관리 |
 | ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | 폴란드어 | 스킨 커뮤니티 관리 |
