@@ -41,7 +41,7 @@ tags:
 | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  | 채팅 관리 |
 | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | 한국어, 일본어 | 채팅 관리 |
 | ::{ flag=FR }:: [Corne2Plum3](https://osu.ppy.sh/users/15646039) | 프랑스어 | 포럼 관리 |
-| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | 약간의 스페인어 |  |
+| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | 약간의 스페인어 | 토너먼트 관리 |
 | ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | 스페인어 | 채팅 관리 |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | 포럼 관리, 기술 지원 |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | 기술 지원 |

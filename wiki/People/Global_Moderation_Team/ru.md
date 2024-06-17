@@ -76,7 +76,7 @@ tags:
 | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  | Модерация чата |
 | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | Корейский, японский | Модерация чата |
 | ::{ flag=FR }:: [Corne2Plum3](https://osu.ppy.sh/users/15646039) | Французский | Модерация форума |
-| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | Частично испанский |  |
+| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | Частично испанский | Организация турниров |
 | ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | Испанский | Модерация чата |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | Модерация форума, техподдержка |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Техподдержка |

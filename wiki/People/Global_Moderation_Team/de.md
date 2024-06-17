@@ -90,7 +90,7 @@ Die [Gruppenseite des GMTs](https://osu.ppy.sh/groups/4) listet alle Teammitglie
 | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  | Chat-Moderation |
 | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | Koreanisch, Japanisch | Chat-Moderation |
 | ::{ flag=FR }:: [Corne2Plum3](https://osu.ppy.sh/users/15646039) | Französisch | Forum-Moderation |
-| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | Etwas Spanisch |  |
+| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | Etwas Spanisch | Verwaltung von Turnieren |
 | ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | Spanisch | Chat-Moderation |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | Forum-Moderation, Technischer Support |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Technischer Support |

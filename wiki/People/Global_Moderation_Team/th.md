@@ -71,7 +71,7 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  | ผู้ดูแลแชท |
 | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | เกาหลี, ญี่ปุ่น | ผู้ดูแลแชท |
 | ::{ flag=FR }:: [Corne2Plum3](https://osu.ppy.sh/users/15646039) | ฝรั่งเศส | ผู้ดูแลฟอรั่ม |
-| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | สเปน บ้าง |  |
+| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | สเปน บ้าง | ผู้บริหารทัวร์นาเมนต์ |
 | ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | สเปน | ผู้ดูแลแชท |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | ผู้ดูแลฟอรั่ม, ผู้สนับสนุนทางเทคนิค |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | ผู้สนับสนุนทางเทคนิค |

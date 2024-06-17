@@ -91,7 +91,7 @@ Lorsqu'un Global Moderator décide de quitter l'équipe, il peut se voir accorde
 | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  | Modération du tchat |
 | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | Coréen, japonais | Modération du tchat |
 | ::{ flag=FR }:: [Corne2Plum3](https://osu.ppy.sh/users/15646039) | Français | Modération du forum |
-| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | Un peu de espagnol |  |
+| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | Un peu de espagnol | Manager des tournois |
 | ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | Espagnol | Modération du tchat |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | Modération du forum, support technique |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Support technique |

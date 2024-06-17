@@ -71,7 +71,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  | Sohbet moderasyonu |
 | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | Korece, Japonca | Sohbet moderasyonu |
 | ::{ flag=FR }:: [Corne2Plum3](https://osu.ppy.sh/users/15646039) | Fransızca | Forum moderasyonu |
-| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | Biraz İspanyolca |  |
+| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | Biraz İspanyolca | Turnuva yönetimi |
 | ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | İspanyolca | Sohbet moderasyonu |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | Forum moderasyonu, teknik destek |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Teknik destek |

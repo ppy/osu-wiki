@@ -64,7 +64,7 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  | Moderowanie czatu |
 | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | Koreański, japoński | Moderowanie czatu |
 | ::{ flag=FR }:: [Corne2Plum3](https://osu.ppy.sh/users/15646039) | Francuski | Moderowanie forum |
-| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | Hiszpański (częściowo) |  |
+| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | Hiszpański (częściowo) | Organizowanie turniejów |
 | ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | Hiszpański | Moderowanie czatu |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | Moderowanie forum, pomoc techniczna |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Pomoc techniczna |

@@ -72,7 +72,7 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  | Moderasi chat |
 | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | Korea, Jepang | Moderasi chat |
 | ::{ flag=FR }:: [Corne2Plum3](https://osu.ppy.sh/users/15646039) | Perancis | Moderasi forum |
-| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | Sedikit Spanyol |  |
+| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | Sedikit Spanyol | Manajemen turnamen |
 | ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | Spanyol | Moderasi chat |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | Moderasi forum, dukungan teknis |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Dukungan teknis |

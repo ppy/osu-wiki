@@ -91,7 +91,7 @@ tags:
 | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  | 聊天管理员 |
 | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | 韩语，日语 | 聊天管理员 |
 | ::{ flag=FR }:: [Corne2Plum3](https://osu.ppy.sh/users/15646039) | 法语 | 论坛管理员 |
-| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | 一部分西班牙语 |  |
+| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | 一部分西班牙语 | 锦标赛管理员 |
 | ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | 西班牙语 | 聊天管理员 |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | 论坛管理员，技术支持团队 |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | 技术支持团队 |

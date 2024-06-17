@@ -89,7 +89,7 @@ La [pagina del gruppo del Team di Moderazione Globale](https://osu.ppy.sh/groups
 | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  | Moderazione della chat |
 | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | Coreano, giapponese | Moderazione della chat |
 | ::{ flag=FR }:: [Corne2Plum3](https://osu.ppy.sh/users/15646039) | Francese | Moderazione del forum |
-| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | Un po' di spagnolo |  |
+| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | Un po' di spagnolo | Organizzazione tornei |
 | ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | Spagnolo | Moderazione della chat |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | Moderazione del forum, supporto tecnico |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Supporto tecnico |

@@ -73,7 +73,7 @@ GMT 負責聊天頻道和論壇的安危，和處理社群間的交流。可以�
 | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  | 聊天室管理員 |
 | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | 韓文、日文 | 聊天室管理員 |
 | ::{ flag=FR }:: [Corne2Plum3](https://osu.ppy.sh/users/15646039) | 法文 | 論壇管理員 |
-| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | 部分西班牙文 |  |
+| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | 部分西班牙文 | 錦標賽管理員 |
 | ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | 西班牙文 | 聊天室管理員 |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | 論壇管理員、技術支援人員 |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | 技術支援人員 |
