@@ -10,22 +10,24 @@ While it's great to see countries rallying together and forming teams to compete
 
 THE LAZER GRAND ARENA!
 
-<div align="center">
+<div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
         <source src="https://assets.ppy.sh/media/news/2024-06-18-lga-announcement.mp4?v=0" type="video/mp4" preload="none">
     </video>
 </div>
 
-This brand new event will pit the world's 32 best players against eachother in a 1v1 played on **osu!(lazer)!**
+This brand-new event will pit the world's 32 best players against each other in 1v1 matches played on **osu!(lazer)!**
 
-The Grand Arena is going to be home to many experiments to the familiar tournament format. Featuring a full featured artist lineup, the players will now battle eachother using **Cumulative Score Difference**! This means that if you win by 20k, you are up by 20k for the rest of the match. After being drafted, all 5 maps will end up played, and the score difference at the end determines who wins the match. This allows us to do some try out some new exciting ideas for players and viewers alike!
+The Grand Arena is going to be home to many experiments to the familiar tournament format. Featuring a full Featured Artist lineup, the players will now battle each other using **cumulative score difference**! This means that if you win by 20k, you are up by 20k for the rest of the match.
+
+After being drafted, all 5 maps will end up played, and the score difference at the end determines who wins the match. This allows us to do some try out some new exciting ideas for players and viewers alike!
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | June 18 (10:00 UTC) to July 01 (23:59 UTC) |
-| Qualifier and tournament format showcase | July 06 (14:00 UTC) |
+| Registration phase | June 18 (10:00 UTC) to July 1 (23:59 UTC) |
+| Qualifier and tournament format showcase | July 6 (14:00 UTC) |
 | Qualifier stage | July 13 & July 14 |
 | Bracket stage | July 20 & July 21 |
 | Top 8 | July 27 & July 28 |
