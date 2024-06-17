@@ -19,7 +19,7 @@ The **Lazer Grand Arena** (***LGA***) is an osu!(lazer) tournament hosted by the
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2024-06-17/2024-07-01 (23:59 UTC) |
+| Registration phase | 2024-06-18 (10:00 UTC)/2024-07-01 (23:59 UTC) |
 | Qualifier and tournament format showcase | 2024-07-07 (14:00 UTC) |
 | Qualifier stage | 2024-07-13/2024-07-14 |
 | Bracket stage (single elimination) | 2024-07-20/2024-07-21 |

@@ -24,7 +24,7 @@ The Grand Arena is going to be home to many experiments to the familiar tourname
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | June 18 (0:00 UTC) to July 01 (23:59 UTC) |
+| Registration phase | June 18 (10:00 UTC) to July 01 (23:59 UTC) |
 | Qualifier and tournament format showcase | July 06 (14:00 UTC) |
 | Qualifier stage | July 13 & July 14 |
 | Bracket stage | July 20 & July 21 |
