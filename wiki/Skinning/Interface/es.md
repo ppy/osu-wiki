@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 2164e2139a69d36c0721b179c3d39f85b238c455
----
-
 # Skinning de la interfaz
 
 *Véase también: [Interfaz](/wiki/Client/Interface)*
@@ -752,7 +747,7 @@ Notas:
 
 Notas:
 
-- Este elemento se ve cuando el jugador tiene una cantidad baja de HP, aproximadamente menos del 50 %, durante un descanso lo suficientemente largo.
+- Este elemento se ve cuando el jugador tiene una cantidad baja de HP, aproximadamente menos del 50 %, durante un descanso lo suficientemente largo.
 
 ---
 
@@ -766,7 +761,7 @@ Notas:
 
 Notas:
 
-- Este elemento se ve cuando el jugador tiene una gran cantidad de HP, aproximadamente más del 50 %, durante un descanso lo suficientemente largo.
+- Este elemento se ve cuando el jugador tiene una gran cantidad de HP, aproximadamente más del 50 %, durante un descanso lo suficientemente largo.
 
 ### Cuenta regresiva
 
@@ -1123,7 +1118,7 @@ Notas:
 Notas:
 
 - Este elemento no tiene restricciones de tamaño.
-- Cuando se usa en [osu!mania](/wiki/Game_mode/osu!mania), este elemento gira 90 grados en sentido contrario a las agujas del reloj y se coloca en la parte inferior derecha del escenario.
+- Cuando se usa en [osu!mania](/wiki/Game_mode/osu!mania), este elemento gira 90 grados en sentido contrario a las agujas del reloj, se escala a un tamaño de 0,7x y se coloca en la parte inferior derecha del escenario.
 
 ---
 
@@ -1146,7 +1141,7 @@ Notas:
   - Si se usa un marcador, se posiciona en (12,12).
   - De lo contrario, se posiciona en (5,16).
 - Este elemento no tiene restricciones de tamaño.
-- Cuando se usa en [osu!mania](/wiki/Game_mode/osu!mania), este elemento gira 90 grados en sentido contrario a las agujas del reloj y se coloca en la parte inferior derecha del escenario.
+- Cuando se usa en [osu!mania](/wiki/Game_mode/osu!mania), este elemento gira 90 grados en sentido contrario a las agujas del reloj, se escala a un tamaño de 0,7x y se coloca en la parte inferior derecha del escenario.
 
 ---
 
@@ -2373,7 +2368,7 @@ Notas:
 
 Notas:
 
-- Se estira hasta el 100 % del ancho de la pantalla.
+- Se estira hasta el 100 % del ancho de la pantalla.
 - Si este elemento es demasiado alto, impedirá que los clics del ratón interactúen con los elementos situados debajo de él.
 
 ---
