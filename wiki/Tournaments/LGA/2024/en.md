@@ -95,9 +95,9 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 
 1. Every user interested in will be required to signs up by utilising the osu! tournament listing [linked above](#links).
 2. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments. To be successfully accepted on the list, players are required to be placed #2500 or higher on the osu! global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
-4. All successfully registered players will be published after the registration phase on this page.
-5. Participants will be briefed on further steps via an announcement message on the website.
-6. Tournament staff members are **not** allowed to play in the tournament, with the exception of commentators, statisticians, and streamers.
+3. All successfully registered players will be published after the registration phase on this page.
+4. Participants will be briefed on further steps via an announcement message on the website.
+5. Tournament staff members are **not** allowed to play in the tournament, with the exception of commentators, statisticians, and streamers.
    - The tournament managers must ensure that such staff members do not have access to priviledged information, e.g. Qualifiers score information, mappool information before the mappool showcase, etc. They are to be treated as regular players whenever possible.
 
 ### Qualifier information
@@ -111,7 +111,7 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
    - Double Time: 3 beatmaps
 4. Players will be asked to play the mappool twice at a designated time. The best play for each map will be used for seeding.
 5. The mappool is to be played according to the order listed on this page.
-9. Only the top 32 seeded players will advance to the Bracket stage.
+6. Only the top 32 seeded players will advance to the Bracket stage.
 
 ### Bracket stage information
 
