@@ -130,17 +130,17 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
 
 ### Finals
 
-**[Download the mappack here (199 MB)](http://files.leoflt.com/CLT5UXGh)**\
+**[Download the mappack here (199 MB)](https://packs.ppy.sh/P251%20-%20osu!catch%20World%20Cup%202024%3A%20Finals.zip?1718599395)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2173835340)
 
 - No Mod
   1. [seatrus - CIRCVMZENITHAL:ARK (Yoshi\_green) \[YOSHI & RUSTYY'S PARH3LIC:CIRKLE\]](https://osu.ppy.sh/beatmapsets/2198766#fruits/4653068)
   2. [Laur - Cosmic Blaster (ExGon) \[CWC 2024 Finals NM2\]](https://osu.ppy.sh/beatmapsets/2198796#fruits/4653112)
-  3. [A.SAKA - KAGUTSUCHI (Nidoking) \[The Flowers of Edo\] *(temporary link)*](http://files.leoflt.com/O3WEbqKt)
+  3. [A.SAKA - KAGUTSUCHI (Nidoking) \[The Flowers of Edo\]](https://osu.ppy.sh/beatmapsets/2198988#fruits/4653607)
   4. [Will Stetson - Kyu-kurarin (autofanboy) \[Camo's Pandemonium (CWC Edit)\]](https://osu.ppy.sh/beatmapsets/2198872#fruits/4653265)
 - Hidden
   1. [25-ji, Nightcord de. x Hatsune Miku - Gehenna (-Rustyy) \[Rustyy & Mochi's Hopelessness\]](https://osu.ppy.sh/beatmapsets/2198786#fruits/4653094)
-  2. [Kanno Yugo - Theme of Stone Ocean (Cut Ver.) (Crowley) \[Tell me how you feel\] *(temporary link)*](http://files.leoflt.com/PS04i9Z2)
+  2. [Kanno Yugo - Theme of Stone Ocean (Cut Ver.) (Crowley) \[Tell me how you feel\]](https://osu.ppy.sh/beatmapsets/2198958#fruits/4653546)
   3. [Culprate - Helter (wwwww) \[Capitulate\]](https://osu.ppy.sh/beatmapsets/2198816#fruits/4653147)
 - Hard Rock
   1. [Curiowave - Arrival of X (Cut ver.) (rinkiha) \[Emergence\]](https://osu.ppy.sh/beatmapsets/2198791#fruits/4653099)
@@ -309,7 +309,7 @@ Sunday, 16 June 2024:
 
 | Team A |  |  | Team B | Match link | VOD link | Notes |
 | --: | :-: | :-: | :-- | :-- | :-- | :-- |
-| **Staff Red** | **7** | 6 | Staff Blue | [#1](https://osu.ppy.sh/community/matches/114315245) | [#1](https://www.twitch.tv/videos/2173679409) | Semifinals showmatch featuring CWC staff |
+| **Staff Red** | **7** | 6 | Staff Blue | [#1](https://osu.ppy.sh/community/matches/114315245) | [#1](https://www.twitch.tv/videos/2173679409) | Showmatch featuring CWC staff |
 | France ::{ flag=FR }:: | 0 | **7** | ::{ flag=PL }:: **Poland** | [#1](https://osu.ppy.sh/community/matches/114317589) | [#1](https://www.twitch.tv/videos/2173689057) |  |
 | **Canada** ::{ flag=CA }:: | **7** | 1 | ::{ flag=PE }:: Peru | [#1](https://osu.ppy.sh/community/matches/114319162) | [#1](https://www.twitch.tv/videos/2173786247) |  |
 | **United States** ::{ flag=US }:: | **7** | 1 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/114319136) | [#1](https://www.twitch.tv/videos/2173784029) |  |
