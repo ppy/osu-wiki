@@ -12,11 +12,11 @@ tags:
 
 Il Team di Moderazione Globale (precedentemente noto come Global Mod Team, Amministratori o GreenBAT), comunemente indicato come **GMT**, sono membri della comunità che si concentrano principalmente sulla moderazione dei giocatori e su questioni riguardanti team e la community nel suo insieme. Sono contraddistinti dal loro titolo utente verde lime, dal badge [gruppo utenti](/wiki/People/User_group) che riporta GMT, e dal loro nome utente rosso nel gioco.
 
-**Tutti i Moderatori Globali sono tenuti a rispettare [il Codice di Condotta dei Collaboratori](/wiki/Rules/Contributor_code_of_conduct) oltre alle normali [Regole della Comunitá](/wiki/Rules).**
+**Tutti i Moderatori Globali sono tenuti a rispettare [il Codice di Condotta dei Collaboratori](/wiki/Rules/Contributor_code_of_conduct) oltre alle normali [Regole della Comunità](/wiki/Rules).**
 
 ***Nota: Per segnalare un moderatore che si comporta in modo inappropriato o che viola il Codice di Condotta dei Collaboratori, contatta il [team di supporto dell'account](/wiki/People/Account_support_team#support@ppy.sh).***
 
-## Ruoli e Responsabilitá
+## Ruoli e Responsabilità
 
 *Vedi anche: [Segnalare comportamenti scorretti](/wiki/Reporting_bad_behaviour)*
 
@@ -25,7 +25,7 @@ Il Team di Moderazione Globale è responsabile del benessere della chat e del fo
 - problemi nella chat (ad esempio spam o molestie)
 - comportamenti scorretti sul forum (ad esempio post inappropriati)
 - discussioni sulle beatmap e la sezione commenti
-- moderazione dei profili utente (contenuti NSFW o offensivi negli avatar, nelle copertine dei profili o nei dettagli, ...)
+- moderazione dei profili utente (contenuti NSFW od offensivi negli avatar, nelle copertine dei profili o nei dettagli, ...)
 
 ## Diventare un Moderatore
 
