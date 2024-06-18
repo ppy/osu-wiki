@@ -154,9 +154,7 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
       - `Final Score` is the numerical value awarded to the current player for each map.
       - `Player Map Score` is the score the player being evaluated achieved on the current map, taking the best score out of two.
       - `MAX Score` is the highest score achieved for the current map across all players and all runs.
-- In the Round of 32 and Round of 16, players need to win 3 maps to win a match (best of 5).
-- In the Quarterfinals, Semifinals, Finals, and Grand Finals, players need to win 4 maps to win a match (best of 7).
-  - *Note: for the Grand Finals match, the player that is coming from the winners' bracket is required to win one "set", that is, one best of 7, to win the tournament. The player coming from the losers' bracket, however, needs to win 2 sets.*
+- For the Bracket stage, the player with the highest cumulative score across all picks in a match wins.
 
 ### Match procedures
 
@@ -181,5 +179,6 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 4. Match scheduling will be handled by the tournament managers. Schedules will be released on the Sunday before the first matches of the stage. The tournament managers will try to create the schedule to respect the participants' time zones.
 5. **Reschedules will only be considered if both players agree to a time and communicate it to the tournament managers, before Wednesday 23:59 UTC of the week when the match is to take place.**
    - Matches may not be scheduled to any time beyond **Sunday, 19:00 UTC** of the week they are to be played at.
+   - Times earlier than **Saturday, 0:00 UTC** may be considered under specific circumstances. Please contact the tournament managers for more information. 
    - **Do not ask for a reschedule unless it is absolutely necessary. The tournament managers reserve the right to deny any rescheduling request.**
    - Late reschedule requests will not be accepted under any circumstances.
