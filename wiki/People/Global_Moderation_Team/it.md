@@ -70,7 +70,7 @@ Una volta che un Moderatore Globale sceglie di lasciare il team, gli possono ess
 
 La [pagina del gruppo del Team di Moderazione Globale](https://osu.ppy.sh/groups/4) elenca tutti i membri del team. Oltre alle aree menzionate di seguito, tutti i membri del GMT partecipano alla [revisione dei contenuti visivi e uditivi inclusi nelle beatmap.](/wiki/Rules/Visual_content_considerations#getting-your-image-assessed).
 
-**Un membro del GMT possono occuparsi di qualsiasi compito all'interno di qualsiasi categoria a loro scelta, indipendentemente dalla loro area di interesse.** Per esempio, un membro del GMT responsabile principalmente della moderazione della chat può anche aiutare con la moderazione del forum.
+**Un membro del GMT può occuparsi di qualsiasi compito all'interno di qualsiasi categoria a sua scelta, indipendentemente dalla sua area di interesse.** Per esempio, un membro del GMT responsabile principalmente della moderazione della chat può anche aiutare con la moderazione del forum.
 
 <!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
 
