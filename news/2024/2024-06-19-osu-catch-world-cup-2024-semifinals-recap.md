@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "osu!catch World Cup 2024: Quarterfinals Recap"
-date: 2024-06-13 09:00:00 +0000
+title: "osu!catch World Cup 2024: Semi-Finals Recap"
+date: 2024-06-19 12:00:00 +0000
 ---
 
-The osu!catch World Cup Semi-finals concluded, and we are down to the last 6 teams. Let's summarise what went down last weekend!
+The osu!catch World Cup Semi-Finals concluded, and we are down to the last 6 teams. Let's summarise what went down last weekend!
 
 ![](/wiki/Tournaments/CWC/2024/img/cwc2024-banner.jpg)
 
