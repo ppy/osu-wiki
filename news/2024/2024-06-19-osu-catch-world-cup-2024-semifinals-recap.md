@@ -19,7 +19,7 @@ We are nearing the end of this years' osu!catch World Cup. The initial field of 
     }
 </style>
 
-[**Download the pool here! (143 MB)**](https://osu.ppy.sh/beatmaps/packs/P250)
+[**Download the pool here! (154 MB)**](https://osu.ppy.sh/beatmaps/packs/P250)
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2173835340&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
