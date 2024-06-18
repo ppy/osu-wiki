@@ -119,7 +119,7 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 2. Draft order will follow the ABBA format, where the first player (A) and the second player (B) will take turns picking and banning beatmaps.
 3. Following the Qualifiers, the bracket stage will have two phases (one per weekend):
    - For the first weekend, a single-elimination bracket will be played from the Round of 32 up until the Quarterfinals.
-     - All matches in this phase will utilise the same mappool. The first player to score 3 points wins (best of 5). 
+     - All matches in this phase will utilise the same mappool. The player with the highest cumulative score across the 5 picks wins.
      - The first weekend's pool will feature 11 maps, organised as such:
      - No Mod: 4 beatmaps
      - Hidden: 2 beatmaps
@@ -131,20 +131,20 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
       3. Both players ban will two maps, as such: ABBA
       4. The last beatmap remaining in the pool will be used as the 5th pick for the match.
    - For the second weekend, The 8 remaining players from the previous phase will then then play another set of matches, after which the remaining 4 players will be placed on a double-elimination bracket.
-     - All matches in this phase will utilise the same mappool, except for the Losers' Bracket Finals and Grand Finals, where a new [osu! original](/wiki/osu!_originals) will be introduced into the pool. The first player to score 4 points wins (best of 7).
-     - The second weekend's pool will feature 15 maps, organised as such:
-       - No Mod: 5 beatmaps
-       - Hidden: 3 beatmaps
-       - Hard Rock: 3 beatmaps
-       - Double Time: 4 beatmaps
-     - The draft order will be as follows:
-       1. The first player (A) will ban one beatmap, followed by the second player (B) also banning a beatmap: AB
-       2. Players will pick two beatmaps respecting the following order: BAAB
-       3. Both players will ban two beatmaps, as such: ABBA
-       4. Both players will pick one beatmap: AB
-       5. Both players will ban one beatmap: BA
-       6. The last beatmap remaining in the pool will be used as the 7th pick for the match.
-       7. Exceptionally, for the Losers' Bracket Finals and Grand Finals, steps 5 and 6 will not be applied, and the last pick will be an osu! original beatmap, to be released at match time.
+     - All matches in this phase will utilise the same mappool, except for the Losers' Bracket Finals and Grand Finals, where a new [osu! original](/wiki/osu!_originals) will be introduced into the pool. The player with the highest cumulative score across the 7 picks wins.
+   - The second weekend's pool will feature 15 maps, organised as such:
+     - No Mod: 5 beatmaps
+     - Hidden: 3 beatmaps
+     - Hard Rock: 3 beatmaps
+     - Double Time: 4 beatmaps
+   - The draft order will be as follows:
+     1. The first player (A) will ban one beatmap, followed by the second player (B) also banning a beatmap: AB
+     2. Players will pick two beatmaps respecting the following order: BAAB
+     3. Both players will ban two beatmaps, as such: ABBA
+     4. Both players will pick one beatmap: AB
+     5. Both players will ban one beatmap: BA
+     6. The last beatmap remaining in the pool will be used as the 7th pick for the match.
+     7. Exceptionally, for the Losers' Bracket Finals and Grand Finals, steps 5 and 6 will not be applied, and the last pick will be an osu! original beatmap, to be released at match time.
 
 ### Win conditions
 
