@@ -20,7 +20,7 @@ This brand-new event will pit the world's 32 best players against each other in 
 
 The Grand Arena is going to be home to many experiments to the familiar tournament format. Featuring a full Featured Artist lineup, the players will now battle each other using **cumulative score difference**! This means that if you win by 20k, you are up by 20k for the rest of the match.
 
-After being drafted, all 5 maps will end up played, and the score difference at the end determines who wins the match. This allows us to do some try out some new exciting ideas for players and viewers alike!
+After being drafted, all 5 maps will end up played, and the score difference at the end determines who wins the match. This allows us to try out some new exciting ideas for players and viewers alike!
 
 ## Tournament schedule
 
