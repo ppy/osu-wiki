@@ -5,11 +5,11 @@ tags: # yamllint disable rule:braces rule:osu-wiki-nested-structure
   - 1KWC 2024
 ---
 
-# {TITLE}
+# One Key World Cup 2024
 
-![{SHORT_TITLE} logo](img/logo.png) <!-- replace "logo" with "banner" if that suits the image better -->
+![One Key World Cup 2024](img/banner.jpg)
 
-The **{TITLE}** (***{SHORT_TITLE}***) is a <!-- enter applicable tournament traits, example: {N}v{N}, double-elimination, country-based --> {MODE} tournament hosted by {ORGANISERS} <!-- list the organisers here with their flags -->. It is the {ITERATION_ORDINAL} instalment of the {SERIES_TITLE}.
+**One Key World Cup 2024** (***1KWC***) was a country-based 2v2, double-elimination osu!mania 1-key tournament hosted by ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352).
 
 ## Tournament schedule
 
