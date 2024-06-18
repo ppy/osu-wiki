@@ -154,7 +154,7 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
       - `Final Score` is the numerical value awarded to the current player for each map.
       - `Player Map Score` is the score the player being evaluated achieved on the current map, taking the best score out of two.
       - `MAX Score` is the highest score achieved for the current map across all players and all runs.
-- For the Bracket stage, the player with the highest cumulative score across all picks in a match wins.
+- For the bracket stage, the player with the highest cumulative score across all picks in a match wins.
 
 ### Match procedures
 
