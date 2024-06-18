@@ -76,7 +76,7 @@ Sau đây là bảng so sánh **trạng thái hiện tại** của lazer so vớ
 | Ghi lại điểm số | ![Có][true] | ![Có][true] |
 | Bảng xếp hạng trên beatmap | ![Có][true] | ![Có][true] |
 | Các thống kê trên hồ sơ | ![Có][true] | ![Có][true] |
-| Các huy chương | ![Có][true] | ![Không][false] |
+| Các huy chương | ![Có][true] | ![Có][true] |
 | Điểm hiệu suất | ![Có][true] | ![Có][true] |
 | Trò chuyện thời gian thực | ![Có một phần][partial][^stable-chat] | ![Có][true] |
 | Wiki / tin tức / nhật kí thay đổi / xếp hạng | ![Không][false] | ![Có][true][^online-content] |

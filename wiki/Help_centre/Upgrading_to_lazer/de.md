@@ -76,7 +76,7 @@ Im Folgenden findest du eine umfassende Liste des **aktuellen Status** von lazer
 | Score-Einreichung | ![Ja][true] | ![Ja][true] |
 | Beatmap-Ranglisten | ![Ja][true] | ![Ja][true] |
 | Profil-Statistiken | ![Ja][true] | ![Ja][true] |
-| Medaillen | ![Ja][true] | ![Nein][false] |
+| Medaillen | ![Ja][true] | ![Ja][true] |
 | Performance-Punkte | ![Ja][true] | ![Ja][true] |
 | Chat in Echtzeit | ![Teilweise][partial][^stable-chat] | ![Ja][true] |
 | Wiki / Neuigkeiten / Änderungsprotokoll / Ranglisten | ![Nein][false] | ![Ja][true][^online-content] |

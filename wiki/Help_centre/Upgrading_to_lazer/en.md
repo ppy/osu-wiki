@@ -72,7 +72,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | Score submission | ![Yes][true] | ![Yes][true] |
 | Beatmap leaderboards | ![Yes][true] | ![Yes][true] |
 | Profile statistics | ![Yes][true] | ![Yes][true] |
-| Medals | ![Yes][true] | ![No][false] |
+| Medals | ![Yes][true] | ![Yes][true] |
 | Performance points | ![Yes][true] | ![Yes][true] |
 | Real-time chat | ![Partial][partial][^stable-chat] | ![Yes][true] |
 | Wiki / news / changelog / rankings | ![No][false] | ![Yes][true][^online-content] |
