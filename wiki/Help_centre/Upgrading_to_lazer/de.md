@@ -346,7 +346,7 @@ Du denkst wahrscheinlich an ein anderes Spiel.
 [^countdown-timers-lazer]: Stelle einen Countdown in der Benutzeroberfläche ein, um das Match automatisch zu starten.
 [^queue-modes]: Aktiviere diese Option, damit jeder in einer Lobby neue Beatmaps in die Warteschlange stellen kann, auch bekannt als "host rotate".
 [^difficulty-adjust]: Ändere die Werte CS/AR/OD/HP einer Beatmap direkt in der Songauswahl über die Mod "Difficulty Adjust".
-[^medals-lazer]: Eine kleine Anzahl an Medaillen ist noch nicht verfügbar.
+[^medals-lazer]: Manche [Hush-Hush Medaillen](/wiki/Medals#hush-hush) sind noch nicht verfügbar.
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
