@@ -72,7 +72,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | Score submission | ![Yes][true] | ![Yes][true] |
 | Beatmap leaderboards | ![Yes][true] | ![Yes][true] |
 | Profile statistics | ![Yes][true] | ![Yes][true] |
-| Medals | ![Yes][true] | ![No][false] |
+| Medals | ![Yes][true] | ![Partial][partial][^medals-lazer] |
 | Performance points | ![Yes][true] | ![Yes][true] |
 | Real-time chat | ![Partial][partial][^stable-chat] | ![Yes][true] |
 | Wiki / news / changelog / rankings | ![No][false] | ![Yes][true][^online-content] |
@@ -342,6 +342,7 @@ You're likely thinking of another game.
 [^countdown-timers-lazer]: Set a countdown from the game UI to automatically start the match.
 [^queue-modes]: Turn on to allow anyone in a lobby to queue new beatmaps, a.k.a. "host rotate".
 [^difficulty-adjust]: Change CS/AR/OD/HP of a beatmap directly from song select via the Difficulty Adjust mod.
+[^medals-lazer]: Some [Hush-Hush medals](/wiki/Medals#hush-hush) are not yet obtainable.
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
