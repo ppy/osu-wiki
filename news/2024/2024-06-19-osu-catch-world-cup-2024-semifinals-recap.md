@@ -68,7 +68,7 @@ Here is an overview of all matches played last weekend. Certain teams that have 
 | Russian Federation ::{ flag=RU }:: | 3 | **7** | ::{ flag=PE }:: **Peru** |
 | **Argentina** ::{ flag=AR }:: | **7** | 2 | ::{ flag=FI }:: Finland |
 | France ::{ flag=FR }:: | 0 | **7** | ::{ flag=PL }:: **Poland** |
-| **Canada** ::{ flag=PL }:: | **7** | 1 | ::{ flag=PE }:: Peru |
+| **Canada** ::{ flag=CA }:: | **7** | 1 | ::{ flag=PE }:: Peru |
 | **United States** ::{ flag=US }:: | **7** | 1 | ::{ flag=CL }:: Chile |
 
 ## Match highlights
