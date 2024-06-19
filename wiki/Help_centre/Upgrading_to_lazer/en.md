@@ -342,7 +342,7 @@ You're likely thinking of another game.
 [^countdown-timers-lazer]: Set a countdown from the game UI to automatically start the match.
 [^queue-modes]: Turn on to allow anyone in a lobby to queue new beatmaps, a.k.a. "host rotate".
 [^difficulty-adjust]: Change CS/AR/OD/HP of a beatmap directly from song select via the Difficulty Adjust mod.
-[^medals-lazer]: A small amount of medals are not yet obtainable.
+[^medals-lazer]: A small amount of medals is not yet obtainable.
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
