@@ -47,7 +47,7 @@ NAT members who are primarily handling this category make sure that BNs and othe
 
 Dividing the NAT workload into two main categories is necessary for the overall organisation and productivity of the group, allowing for a more streamlined assignment of responsibilities. Delegating tasks keeps NAT members from being overwhelmed while simultaneously avoiding a diffusion of responsibility.
 
-**A member of the NAT can engage with any tasks within any category that they choose, despite their listed primary responsibilities.** For example, an NAT member primarily responsible for evaluations may also help with structural-related tasks, or vice versa.
+**A member of the NAT may engage with any task within any category that they choose, regardless of their listed primary responsibilities.** For example, an NAT member primarily responsible for evaluations may also help with structural-related tasks, or vice versa.
 
 ## Activity
 
@@ -94,8 +94,12 @@ Once an NAT member chooses to depart from the team, they may be granted the foll
 
 Former NAT members who currently have internal access are:
 
+- ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539)
 - ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083)
+- ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507)
 - ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342)
+- ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501)
+- ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882)
 - ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
 - ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926)
 
@@ -130,17 +134,12 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 
 | Name | Additional languages |
 | :-- | :-- |
-| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | Chinese |
-| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Russian |
+| ::{ flag=JP }:: [achyoo](https://osu.ppy.sh/users/7823498) | Chinese |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonese, Chinese |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portuguese, Spanish |
-| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Dutch |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | German |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Chinese |
 | ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
 | ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Chinese, Cantonese |
-| ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Chinese |
 
 #### osu!taiko
 
@@ -187,8 +186,6 @@ The following NAT members are primarily evaluators, but also contribute to struc
 
 | User | Task |
 | :-- | :-- |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | BN Mentorship organisation |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Handling user reports |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Handling content reports |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | [Nomination Planner](https://bnplanner.greaper.net/beatmaps) and [osu!catch MV plugin](https://github.com/Darius-Wattimena/MapsetChecksCatch) development |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | NAT Leadership, [BN Management website](https://bn.mappersguild.com) and [osu!taiko MV plugin](https://github.com/Hiviexd/MVTaikoChecks) development |
