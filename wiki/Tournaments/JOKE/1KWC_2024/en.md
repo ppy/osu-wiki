@@ -19,7 +19,7 @@ tags:
 | Screening phase | 2024-04-22/2024-04-27 |
 | Qualifiers showcase | 2024-04-28 |
 | Qualifiers | 2024-05-04/2024-05-05 |
-| Round of 24| 2024-05-11/2024-05-12 |
+| Round of 24 | 2024-05-11/2024-05-12 |
 | Round of 16 | 2024-05-18/2024-05-19 |
 | Quarterfinals | 2024-05-25/2024-05-26 |
 | Semifinals | 2024-06-01/2024-06-02 |
