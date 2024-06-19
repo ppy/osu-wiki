@@ -470,7 +470,7 @@ Seeding results are calculated based on average placement across the 4 qualifier
 1. There will be one mappool for each round (as stated above).
 2. Mappools do not contain mod categories, but are instead aimed at meeting certain mapping-styled criteria. These include: Rice, LN, Hybrid, Speed, Tech, and SV.
 3. The size of the mappool will increase by 2 when the win condition calls for it so (see Stage Instructions).
-4. The mappools will be uploaded by Jaye after the showcase concludes. The pool will be a multi-song mapset available on the osu!website (in the case of Round of 32 and onwards, the pool will be two multi-song mapsets).
+4. The mappools will be uploaded by Jaye after the showcase concludes. The pool will be a multi-song mapset available on the osu! website (in the case of Round of 32 and onwards, the pool will be two multi-song mapsets).
 
 ### Scheduling Instructions
 

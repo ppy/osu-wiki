@@ -370,9 +370,9 @@ Seeding results are calculated based on rank sum across the 4 qualifier stages, 
 ### Tournament Information
 
 1. One Key World Cup (1KWC) is a 2v2 tournament with team sizes of min:2 / max:5.
-2. Beatmap scoring is based on **TeamVS**, **ScoreV2**.
+2. Beatmap scoring is based on **Team VS**, **ScoreV2**.
 3. All maps used in the tournament are dedicated 1-key osu!mania maps.
-4. The tournament is free mod: players are allowed to use Hidden, Fade In, Flashlight, Mirror, any of the xK mods, or No Mod.
+4. The tournament is Free Mod: players are allowed to use Hidden, Fade In, Flashlight, Mirror, any of the xK mods, or No Mod.
 5. The NF mod may be used but is not mandatory; failed scores do not count to the end result.
 6. If the map ends in a draw: Picker's Privilege - the team that picked the map will be awarded 1 point, and the match will proceed as normal. In the unlikely event that a draw happens on the Tiebreaker map, the map will be replayed.
 7. If a player disconnects: they are treated as if they failed. Map aborting for a "false start" is up to the referee's discretion (and is guaranteed to take place if a disconnect occurs within the first 30 seconds of a map).
@@ -384,7 +384,7 @@ Seeding results are calculated based on rank sum across the 4 qualifier stages, 
 
 1. The registration form can be found both on the Master Sheet as well as in our Discord server.
 2. Participants are required to both complete the form and be a member of our Discord server. This is for identification/legitimacy of registration purposes and for convenience in posting updates about the tournament. If the registration form is filled out and the user is not present in the server when the Registration Phase concludes they will automatically be withdrawn from the registrant list.
-3. A temporary captain will be nominated and contacted regarding their entrance into the tournament. This captain will be provided with a list of all player signups for their respective region. The captain has until **April 27, 23:59 UTC** to submit a team list.
+3. A temporary captain will be nominated and contacted regarding their entrance into the tournament. This captain will be provided with a list of all player signups for their respective region. The captain has until **April 27 (23:59 UTC)** to submit a team list.
 4. It is possible for some regions to merge if desired, and other countries to have multiple teams (ie. A-team and B-team). If captains are interested in this, please contact the tournament host to discuss.
 5. There are no restrictions for signing up: any rank, any mode, any region is allowed. Please note that osu! tournament staff hold the right to screen you out of the tournament.
 
@@ -407,7 +407,7 @@ Seeding results are calculated based on rank sum across the 4 qualifier stages, 
 ### Match Instructions
 
 1. A referee will create a multiplayer room approx 10 minutes in advance. Players must gather during this period.
-2. Room settings are `Game mode: "osu!mania"`, `Team mode: "Team Vs"`, `Score mode: "ScoreV2"`. Room name must be `1KWC: Qualifiers ({team})` for Qualifiers, and `1KWC: ({Red Team}) vs ({Blue Team})` for every other round.
+2. Room settings are `Game mode: "osu!mania"`, `Team mode: "Team VS"`, `Score mode: "ScoreV2"`. Room name must be `1KWC: Qualifiers ({team})` for Qualifiers, and `1KWC: ({Red Team}) vs ({Blue Team})` for every other round.
 3. Teams will be listed as having forfeited should they fail to gather at least 2 eligible players 10 minutes after the scheduled match time.
 4. Excluding Qualifiers, each team is free to select 1 warmup per match, which may not be longer than 4 minutes.
 5. Each team must ban one beatmap selected from the pool. These beatmaps are not allowed to be picked by any team during the match.
