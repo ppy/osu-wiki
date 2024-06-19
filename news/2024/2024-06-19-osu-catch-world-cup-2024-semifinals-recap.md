@@ -4,7 +4,7 @@ title: "osu!catch World Cup 2024: Semi-Finals Recap"
 date: 2024-06-19 12:00:00 +0000
 ---
 
-The osu!catch World Cup Semi-Finals concluded, and we are down to the last 6 teams. Let's summarise what went down last weekend!
+The osu!catch World Cup semifinals concluded, and we are down to the last 6 teams. Let's summarise what went down last weekend!
 
 ![](/wiki/Tournaments/CWC/2024/img/cwc2024-banner.jpg)
 
@@ -25,44 +25,44 @@ We are nearing the end of this years' osu!catch World Cup. The initial field of 
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2173835340&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-The Semi-Finals mappool increased a bit in size as there are now 4 maps in the Double-Time bracket and 3 maps in the Mixed-Mod bracket. The difficulty of the maps also keeps improving, as we see another clear step in overall difficulty over the entire pool: maps like [HD2](https://osu.ppy.sh/beatmapsets/2195043#fruits/4644294), [DT2](https://osu.ppy.sh/beatmapsets/2195073#fruits/4644348) and [DT4](https://osu.ppy.sh/beatmapsets/2195051#fruits/4644305) saw no full combo's this week.
+The semifinals mappool increased a bit in size as there are now 4 maps in the Double-Time bracket and 3 maps in the Mixed-Mod bracket. The difficulty of the maps also keeps improving, as we see another clear step in overall difficulty over the entire pool: maps like [HD2](https://osu.ppy.sh/beatmapsets/2195043#fruits/4644294), [DT2](https://osu.ppy.sh/beatmapsets/2195073#fruits/4644348) and [DT4](https://osu.ppy.sh/beatmapsets/2195051#fruits/4644305) saw no full combo's this week.
 
 The most picked map of this pool is [HD3](https://osu.ppy.sh/beatmapsets/2195032#fruits/4644279) as it was played in 6 matches. The least picked map is [HR2](https://osu.ppy.sh/beatmapsets/2195036#fruits/4644286), as it was never played during a match this weekend. On top of that it was also banned twice.
 
 We keep getting spoiled by our mappool selectors, mappers and artists as there are again 3 osu!originals in this pool. Make sure to checkout this weeks' [HR3](https://osu.ppy.sh/beatmapsets/2195044#fruits/4644295), [MM2](https://osu.ppy.sh/beatmapsets/2195061#fruits/4644324) and [TB](https://osu.ppy.sh/beatmapsets/2195067#fruits/4644340) as they are absolute bangers!
 
-[![](/wiki/shared/news/2024-06-13-osu-catch-world-cup-2024-quarterfinals-recap/step-by-step.jpg)](https://osu.ppy.sh/beatmapsets/2195044#fruits/4644295)
+[![](/wiki/shared/news/2024-06-19-osu-catch-world-cup-2024-semifinals-recap/silver-bullet.jpg)](https://osu.ppy.sh/beatmapsets/2195044#fruits/4644295)
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="https://assets.ppy.sh/artists/179/Songs/ABSOLUTE_CASTAWAY_-_step_by_step.mp3">
+        <source src="https://assets.ppy.sh/artists/263/Songs/Ardolf_-_SILVER_BULLET.mp3">
     </audio>
 </div>
 
-[![](/wiki/shared/news/2024-06-13-osu-catch-world-cup-2024-quarterfinals-recap/raison-detre.jpg)](https://osu.ppy.sh/beatmapsets/2195061#fruits/4644324)
+[![](/wiki/shared/news/2024-06-19-osu-catch-world-cup-2024-semifinals-recap/brilliant-silver-shining-blade.jpg)](https://osu.ppy.sh/beatmapsets/2195061#fruits/4644324)
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="https://assets.ppy.sh/artists/93/Songs/AriableyeS_-_Raison_detre.mp3">
+        <source src="https://assets.ppy.sh/artists/424/Songs/0%20K%20-%20Brilliant%20Silver%2C%20Shining%20Blade.mp3">
     </audio>
 </div>
 
-[![](/wiki/shared/news/2024-06-13-osu-catch-world-cup-2024-quarterfinals-recap/junglist-acid.jpg)](https://osu.ppy.sh/beatmapsets/2195067#fruits/4644340)
+[![](/wiki/shared/news/2024-06-19-osu-catch-world-cup-2024-semifinals-recap/illloved.jpg)](https://osu.ppy.sh/beatmapsets/2195067#fruits/4644340)
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="https://assets.ppy.sh/artists/29/Songs/Culprate_-_Junglist_Acid_osu_Edit.mp3">
+        <source src="https://assets.ppy.sh/artists/30/Songs/SOOOO_-_illloved_osu_Edit.mp3">
     </audio>
 </div>
 
-## Semi-finals results
+## Semifinals results
 
 As we reach the ending weekends of this years' world cup, the matches decrease in quantity over the weekend. However, starting from this weekend, each match is a best-of-13.
 
 Here is an overview of all matches played last weekend. Certain teams, that have been knocked down to the loser bracket, had to play a second match when winning their first one.
 
 | Team A |  |  | Team B |
-|-:|:-:|:-:|:-|
+|--:|:-:|:-:|:--|
 | **Canada** ::{ flag=CA }:: | **7** | 1 | ::{ flag=AU }:: Australia |
 | **France** ::{ flag=FR }:: | **7** | 2 | ::{ flag=ID }:: Indonesia |
 | **Poland** ::{ flag=PL }:: | **7** | 0 | ::{ flag=JP }:: Japan |
@@ -96,7 +96,7 @@ The Russian Federation ends up finishing 9th-12th and this means there are no As
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2172930270&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-Argentina and Finland are two teams that have managed to bring their best rosters of all time to the table. Both of these teams have never managed to reach the winner bracket semi-finals. They now face off for a podium spot in this years' CWC. This match is actual history making as one of these teams will guarantee themselves a spot in the history books as a first-time podium finisher.
+Argentina and Finland are two teams that have managed to bring their best rosters of all time to the table. Both of these teams have never managed to reach the winner bracket semifinals. They now face off for a podium spot in this years' CWC. This match is actual history making as one of these teams will guarantee themselves a spot in the history books as a first-time podium finisher.
 
 Both teams win their first two picks as Finland found a bit of a weakness for the Argentinian team on the mixed mod bracket. Funnily enough, it were their neighbours Denmark that already showed this weakness in the round of 32 as they were also able to get two points against team Argentina on this mod bracket.
 
