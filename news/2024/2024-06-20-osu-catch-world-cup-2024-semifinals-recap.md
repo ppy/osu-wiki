@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!catch World Cup 2024: Semifinals Recap"
-date: 2024-06-19 12:00:00 +0000
+date: 2024-06-20 12:00:00 +0000
 ---
 
 The osu!catch World Cup Semifinals concluded, and we are down to the last 6 teams. Let's summarise what went down during the weekend!
@@ -30,7 +30,7 @@ The most picked map of this pool is [HD3](https://osu.ppy.sh/beatmapsets/2195032
 
 We keep getting spoiled by our mappool selectors, mappers and artists as there are again 3 [osu! originals](/wiki/osu!_originals) in this pool. Make sure to checkout this week's [HR3](https://osu.ppy.sh/beatmapsets/2195044#fruits/4644295), [MM2](https://osu.ppy.sh/beatmapsets/2195061#fruits/4644324) and [TB](https://osu.ppy.sh/beatmapsets/2195067#fruits/4644340) as they are absolute bangers!
 
-[![](/wiki/shared/news/2024-06-19-osu-catch-world-cup-2024-semifinals-recap/silver-bullet.jpg)](https://osu.ppy.sh/beatmapsets/2195044#fruits/4644295)
+[![](/wiki/shared/news/2024-06-20-osu-catch-world-cup-2024-semifinals-recap/silver-bullet.jpg)](https://osu.ppy.sh/beatmapsets/2195044#fruits/4644295)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -38,7 +38,7 @@ We keep getting spoiled by our mappool selectors, mappers and artists as there a
     </audio>
 </div>
 
-[![](/wiki/shared/news/2024-06-19-osu-catch-world-cup-2024-semifinals-recap/brilliant-silver-shining-blade.jpg)](https://osu.ppy.sh/beatmapsets/2195061#fruits/4644324)
+[![](/wiki/shared/news/2024-06-20-osu-catch-world-cup-2024-semifinals-recap/brilliant-silver-shining-blade.jpg)](https://osu.ppy.sh/beatmapsets/2195061#fruits/4644324)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -46,7 +46,7 @@ We keep getting spoiled by our mappool selectors, mappers and artists as there a
     </audio>
 </div>
 
-[![](/wiki/shared/news/2024-06-19-osu-catch-world-cup-2024-semifinals-recap/illloved.jpg)](https://osu.ppy.sh/beatmapsets/2195067#fruits/4644340)
+[![](/wiki/shared/news/2024-06-20-osu-catch-world-cup-2024-semifinals-recap/illloved.jpg)](https://osu.ppy.sh/beatmapsets/2195067#fruits/4644340)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -81,9 +81,9 @@ Here is an overview of all matches played last weekend. Certain teams, that have
 
 We started off this weekend with losses from Australia, Indonesia and Japan, knocking all three teams out of the tournament and all three of them having a tied placement of 9th–12th. This made the Russian Federation the last Asian hope to place themselves for the top 8 in this years' World Cup. 
 
-Seed 8 and seed 10 of this CWC started the match on [MM1](https://osu.ppy.sh/beatmapsets/2195217#fruits/4644675) where Peru confidently got a first point on the board on the back of a huge score on the Hard Rock slot of [Lunati1kid](https://osu.ppy.sh/users/25723773). After two wins from the Russian Federation on [NM1](https://osu.ppy.sh/beatmapsets/2195010#fruits/4644233) and [NM2](https://osu.ppy.sh/beatmapsets/2195014#fruits/4644238) and two more wins from Peru on [MM2](https://osu.ppy.sh/beatmapsets/2195061#fruits/4644324) and [MM3](https://osu.ppy.sh/beatmapsets/2195058#fruits/4644312), Peru were able to get a breakpoint on [HR1](https://osu.ppy.sh/beatmapsets/2195113#fruits/4644437) with a impressive full combo from Lunati1kid.
+Seed 8 and seed 10 of this CWC started the match on [MM1](https://osu.ppy.sh/beatmapsets/2195217#fruits/4644675) ([00:04:28](https://www.twitch.tv/videos/2172850090?t=0h4m28s)) where Peru confidently got a first point on the board on the back of a huge score on the Hard Rock slot of [Lunati1kid](https://osu.ppy.sh/users/25723773). After two wins from the Russian Federation on [NM1](https://osu.ppy.sh/beatmapsets/2195010#fruits/4644233) ([00:23:23](https://www.twitch.tv/videos/2172850090?t=0h23m23s)) and [NM2](https://osu.ppy.sh/beatmapsets/2195014#fruits/4644238) ([00:12:19](https://www.twitch.tv/videos/2172850090?t=0h12m19s)) and two more wins from Peru on [MM2](https://osu.ppy.sh/beatmapsets/2195061#fruits/4644324) ([00:30:56](https://www.twitch.tv/videos/2172850090?t=0h30m56s)) and [MM3](https://osu.ppy.sh/beatmapsets/2195058#fruits/4644312) ([00:18:23](https://www.twitch.tv/videos/2172850090?t=0h18m23s)), Peru were able to get a breakpoint on [HR1](https://osu.ppy.sh/beatmapsets/2195113#fruits/4644437) ([00:37:26](https://www.twitch.tv/videos/2172850090?t=0h37m26s)) with an impressive full combo from [Lunati1kid](https://osu.ppy.sh/users/25723773).
 
-Lunati1kid has been one of the most promising players in recent years and he definitely lived up to the expectations as he secured another point for Peru with a full combo on [DT1](https://osu.ppy.sh/beatmapsets/2195045#fruits/4644298). Russian Federation were able to claw one point back on [NM4](https://osu.ppy.sh/beatmapsets/2195020#fruits/4644247) before Peru closed out the match 7 to 3 with wins on [DT3](https://osu.ppy.sh/beatmapsets/2195049#fruits/4644303) and [DT4](https://osu.ppy.sh/beatmapsets/2195051#fruits/4644305).
+[Lunati1kid](https://osu.ppy.sh/users/25723773) has been one of the most promising players in recent years and he definitely lived up to the expectations as he secured another point for Peru with a full combo on [DT1](https://osu.ppy.sh/beatmapsets/2195045#fruits/4644298) ([00:45:03](https://www.twitch.tv/videos/2172850090?t=0h45m3s)). Russian Federation were able to claw one point back on [NM4](https://osu.ppy.sh/beatmapsets/2195020#fruits/4644247) ([00:54:15](https://www.twitch.tv/videos/2172850090?t=0h54m15s)) before Peru closed out the match 7 to 3 with wins on [DT3](https://osu.ppy.sh/beatmapsets/2195049#fruits/4644303) ([01:00:09](https://www.twitch.tv/videos/2172850090?t=1h0m9s)) and [DT4](https://osu.ppy.sh/beatmapsets/2195051#fruits/4644305) ([01:09:43](https://www.twitch.tv/videos/2172850090?t=1h9m43s)).
 
 Peru advanced to the top 8, marking this the best year in their CWC history. However, in their second match of the weekend, they fell short to Canada locking them in the 7th–8th slot for this year. A beautiful performance from a team that wasn't able to win a match last year; there is a very bright future ahead of the Peruvian squad.
 
@@ -97,11 +97,11 @@ The Russian Federation ends up finishing 9th–12th and this means there are no 
 
 Argentina and Finland are two teams that have managed to bring their best rosters of all time to the table. Both of these teams have never managed to reach the winners' bracket Semifinals. They now face off for a podium spot in this years' CWC. This match is actual history making as one of these teams will guarantee themselves a spot in the history books as a first-time podium finisher.
 
-Both teams win their first two picks as Finland found a bit of a weakness for the Argentinian team on the mixed mod bracket. Funnily enough, it were their neighbours Denmark that already showed this weakness in the round of 32 as they were also able to get two points against team Argentina on this mod bracket.
+Both teams win their first two picks as Finland found a bit of a weakness for the Argentinian team on the mixed mod bracket ([00:05:14](https://www.twitch.tv/videos/2172930270?t=0h5m14s)). Funnily enough, it were their neighbours Denmark that already showed this weakness in the round of 32 as they were also able to get two points against team Argentina on this mod bracket.
 
-In the exact same turn of events, Finland were also not able to win any more maps. They had no more answers to anything brought to the table, as Argentina won five more maps in a row. These wins included a full combo from [-Story-](https://osu.ppy.sh/users/8172283) on [HD1](https://osu.ppy.sh/beatmapsets/2195023#fruits/4644254), double 1 miss scores from [SirGonzaxz](https://osu.ppy.sh/users/17309439) and -Story- on [DT2](https://osu.ppy.sh/beatmapsets/2195073#fruits/4644348), 1 miss from [VelperK](https://osu.ppy.sh/users/348467) on [MM1](https://osu.ppy.sh/beatmapsets/2195217#fruits/4644675), full combo from SirGonzaxz on [HR3](https://osu.ppy.sh/beatmapsets/2195044#fruits/4644295) and a full combo from -Story- on [NM4](https://osu.ppy.sh/beatmapsets/2195020#fruits/4644247). 
+In the exact same turn of events, Finland were also not able to win any more maps. They had no more answers to anything brought to the table, as Argentina won five more maps in a row. These wins included a full combo from [-Story-](https://osu.ppy.sh/users/8172283) on [HD1](https://osu.ppy.sh/beatmapsets/2195023#fruits/4644254) ([00:21:51](https://www.twitch.tv/videos/2172930270?t=0h22m51s)), double 1 miss scores from [SirGonzaxz](https://osu.ppy.sh/users/17309439) and [-Story-](https://osu.ppy.sh/users/8172283) on [DT2](https://osu.ppy.sh/beatmapsets/2195073#fruits/4644348) ([00:28:42](https://www.twitch.tv/videos/2172930270?t=0h28m42s)), 1 miss from [VelperK](https://osu.ppy.sh/users/348467) on [MM1](https://osu.ppy.sh/beatmapsets/2195217#fruits/4644675) ([00:33:31](https://www.twitch.tv/videos/2172930270?t=0h33m31s)), full combo from [SirGonzaxz](https://osu.ppy.sh/users/17309439) on [HR3](https://osu.ppy.sh/beatmapsets/2195044#fruits/4644295) ([00:39:56](https://www.twitch.tv/videos/2172930270?t=0h39m56s)) and a full combo from [-Story-](https://osu.ppy.sh/users/8172283) on [NM4](https://osu.ppy.sh/beatmapsets/2195020#fruits/4644247) ([00:47:41](https://www.twitch.tv/videos/2172930270?t=0h47m41s)). 
 
-Argentina have now managed to knock down seed 2 Poland and seed 3 Finland to secure themselves their maiden CWC podium. They came into the tournament as outsiders but have definitely shown what they are capable off and are becoming favourites to challenge the United States for the victory this year. The depth in skill between -Story- (the highest-ranked player in this CWC), SirGonzaxz (the prodigy) and VelperK (the veteran) seems to be inexhaustible. Let's see where their fairy-tale run ends.
+Argentina have now managed to knock down seed 2 Poland and seed 3 Finland to secure themselves their maiden CWC podium. They came into the tournament as outsiders but have definitely shown what they are capable off and are becoming favourites to challenge the United States for the victory this year. The depth in skill between [-Story-](https://osu.ppy.sh/users/8172283) (the highest-ranked player in this CWC), [SirGonzaxz](https://osu.ppy.sh/users/17309439) (the prodigy) and [VelperK](https://osu.ppy.sh/users/348467) (the veteran) seems to be inexhaustible. Let's see where their fairy-tale run ends.
 
 ---
 
