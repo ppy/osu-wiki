@@ -400,7 +400,7 @@ Sunday, 12 November 2023:
 
 ### Qualifiers
 
-The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/12XzTFONCiuS5cQWntHxSi3xVEo6UIBnCI7xc8BwmX2o).
+Seeding results are calculated based on average placement across the 4 qualifier stages, with total score used to break ties. The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/12XzTFONCiuS5cQWntHxSi3xVEo6UIBnCI7xc8BwmX2o).
 
 ## Ruleset
 

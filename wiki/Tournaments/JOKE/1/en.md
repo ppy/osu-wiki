@@ -459,7 +459,7 @@ Saturday, 18 July 2020:
 
 ### Qualifiers
 
-The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTdOLsaqPAgF5e9Jn7XGFWykyc6SCxRk46YAkpR0N87gGZQpMbw4uip6HWcHJpZxf1BWe5980u3aI43/pubhtml).
+Seeding results are calculated based on total score across the 4 qualifier stages. The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTdOLsaqPAgF5e9Jn7XGFWykyc6SCxRk46YAkpR0N87gGZQpMbw4uip6HWcHJpZxf1BWe5980u3aI43/pubhtml).
 
 ## Ruleset
 

@@ -415,7 +415,7 @@ Sunday, 14 November 2021:
 
 ### Qualifiers
 
-The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1X3akhoaqRCSmC0H-JisFb8cmsGyelNCdmyey8UaxUf8).
+Seeding results are calculated based on average placement across the 4 qualifier stages, with total score used to break ties. The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1X3akhoaqRCSmC0H-JisFb8cmsGyelNCdmyey8UaxUf8).
 
 ## Ruleset
 
