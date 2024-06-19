@@ -1,3 +1,7 @@
+---
+no_native_review_since: 84cba2189e2969e9631ee2efb7f2a0da40b0cba1
+---
+
 # Orang-orang
 
 Halaman ini merupakan halaman indeks untuk berbagai artikel yang membahas seputar tokoh atau kelompok tertentu.

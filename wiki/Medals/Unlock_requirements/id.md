@@ -1,3 +1,7 @@
+---
+no_native_review_since: 84cba2189e2969e9631ee2efb7f2a0da40b0cba1
+---
+
 # Persyaratan untuk membuka medali
 
 Halaman ini merupakan halaman indeks untuk seluruh artikel yang menjelaskan persyaratan untuk membuka suatu [medali](/wiki/Medals).
