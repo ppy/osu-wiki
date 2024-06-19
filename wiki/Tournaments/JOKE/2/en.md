@@ -135,7 +135,7 @@ This competition has come to an end and resulted in the following podium:
 - SV
   1. [Culprate & Bloom - Aurora (Cut Ver.) (HowToPlayLN)](https://osu.ppy.sh/beatmapsets/1649300#mania/3366423)
 - Tiebreaker
-  1. **[1NF1N1TY (Sparxe)](https://osu.ppy.sh/beatmapsets/1649302#mania/3366431)**
+  1. **[BilliumMoto & Dictate - 1KARUGA (Jaye) [1NF1N1TY]](https://osu.ppy.sh/beatmapsets/1649302#mania/3366431)**
 
 ### Finals
 
@@ -424,7 +424,7 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
 1. Jaye's One Key Event (JOKE) is a 1v1 tournament; you're on your own out there!
 2. Beatmap scoring is based on ScoreV2.
 3. The maps for each round will be announced during a live showcase once all matches for a round have concluded (otherwise, it will be announced in the Discord server). Only the announced maps will be used during the respective matches.
-4. The tournament is Free Mod: players are free to use either Hidden, Fade In, Flashlight, Mirror (lol), any of the key-count mods, or No Mod.
+4. The tournament is Free Mod: players are free to use either Hidden, Fade In, Flashlight, Mirror, any of the xK mods, or No Mod.
 5. Failed scores do not count towards the end result; in the event that both players fail, the higher scoring player will claim one point.
 6. If the map ends in a draw: The first draw - the map will be replayed. The second draw - the map will be nullified, no point(s) will be awarded, and the player who did not pick the nullified map must pick the next map.
 7. If a player disconnects, they are treated as if they failed. Map aborting for a "false start" is up to the referee's discretion (and will likely take place if a disconnect occurs within the first 30 seconds of a map).

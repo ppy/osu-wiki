@@ -136,7 +136,7 @@ This competition has come to an end and resulted in the following podium:
 - SV
   1. [Spire - Libidinem (Cut Ver.) (Paturages)](https://osu.ppy.sh/beatmapsets/2101558#mania/4408824)
 - Tiebreaker
-  1. **[1NF1N1TY (Sparxe)](https://osu.ppy.sh/beatmapsets/2101561#mania/4408834)**
+  1. **[ZxNX & Sot-C - 1KONOS (Jaye) [1NF1N1TY]](https://osu.ppy.sh/beatmapsets/2101561#mania/4408834)**
 
 ### Finals
 
@@ -261,7 +261,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-Sunday, 17 December 2021:
+Sunday, 17 December 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -270,20 +270,20 @@ Sunday, 17 December 2021:
 
 ### Finals
 
-Saturday, 9 December 2021:
+Saturday, 9 December 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **hz404** ::{ flag=JP }:: | **6** | 1 | ::{ flag=ID }:: XK2238 | [#1](https://osu.ppy.sh/community/matches/111637611) |
 | dectopia ::{ flag=JP }:: | 0 | **6** | ::{ flag=DE }:: **ERA Punish** | [#1](https://osu.ppy.sh/community/matches/111643002) |
 
-Sunday, 10 December 2021:
+Sunday, 10 December 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **hz404** ::{ flag=JP }:: | **6** | 2 | ::{ flag=DE }:: ERA Punish | [#1](https://osu.ppy.sh/community/matches/111661963) |
 
-Tuesday, 12 December 2021:
+Tuesday, 12 December 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -291,14 +291,14 @@ Tuesday, 12 December 2021:
 
 ### Semifinals
 
-Saturday, 2 December 2021:
+Saturday, 2 December 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Teezel ::{ flag=GB }:: | 0 | **6** | ::{ flag=DE }:: **ERA Punish** | [#1](https://osu.ppy.sh/community/matches/111537802) |
 | Adri ::{ flag=FR }:: | 0 | **6** | ::{ flag=ID }:: **XK2238** | [#1](https://osu.ppy.sh/community/matches/111544915) |
 
-Sunday, 3 December 2021:
+Sunday, 3 December 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -311,23 +311,23 @@ Sunday, 3 December 2021:
 
 ### Quarterfinals
 
-Saturday, 25 November 2021:
+Saturday, 25 November 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Grape_Tea** ::{ flag=JP }:: | **5** | 0 | ::{ flag=BR }:: Brasil | [#1](https://osu.ppy.sh/community/matches/111444635) |
-| **XK2238** ::{ flag=ID }:: | **5** | 0 | ::{ flag=US }:: Backfire | [#1](WBD) |
+| **XK2238** ::{ flag=ID }:: | **5** | 0 | ::{ flag=US }:: Backfire | *win by default* |
 | D3kuu ::{ flag=IT }:: | 4 | **5** | ::{ flag=US }:: **Jakson** | [#1](https://osu.ppy.sh/community/matches/111449937) |
-| **ERA Punish** ::{ flag=DE }:: | **5** | 0 | ::{ flag=CL }:: -Kori | [#1](WBD) |
-| SillyFangirl ::{ flag=BR }:: | 0 | **5** | ::{ flag=GB }:: **MiniEgg_23** | [#1](WBD) |
+| **ERA Punish** ::{ flag=DE }:: | **5** | 0 | ::{ flag=CL }:: -Kori | *win by default* |
+| SillyFangirl ::{ flag=BR }:: | 0 | **5** | ::{ flag=GB }:: **MiniEgg_23** | *win by default* |
 | **Sparky** ::{ flag=US }:: | **5** | 0 | ::{ flag=CA }:: DimplesRMe | [#1](https://osu.ppy.sh/community/matches/111454147) |
 
-Sunday, 26 November 2021:
+Sunday, 26 November 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Blobby3000** ::{ flag=AU }:: | **5** | 0 | ::{ flag=US }:: Delta386 | [#1](https://osu.ppy.sh/community/matches/111457113) |
-| Maimaing ::{ flag=JP }:: | 0 | **5** | ::{ flag=US }:: **cyger** | [#1](WBD) |
+| Maimaing ::{ flag=JP }:: | 0 | **5** | ::{ flag=US }:: **cyger** | *win by default* |
 | Blobby3000 ::{ flag=AU }:: | 4 | **5** | ::{ flag=US }:: **Sparky** | [#1](https://osu.ppy.sh/community/matches/111457551) |
 | cyger ::{ flag=US }:: | 0 | **5** | ::{ flag=ID }:: **XK2238** | [#1](https://osu.ppy.sh/community/matches/111458916) |
 | **hz404** ::{ flag=JP }:: | **5** | 1 | ::{ flag=GB }:: Teezel | [#1](https://osu.ppy.sh/community/matches/111462054) |
@@ -339,20 +339,20 @@ Sunday, 26 November 2021:
 
 ### Round of 16
 
-Saturday, 18 November 2021:
+Saturday, 18 November 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **hz404** ::{ flag=JP }:: | **5** | 0 | ::{ flag=ID }:: XK2238 | [#1](WBD) |
+| **hz404** ::{ flag=JP }:: | **5** | 0 | ::{ flag=ID }:: XK2238 | *win by default* |
 | **MiniEgg_23** ::{ flag=GB }:: | **5** | 1 | ::{ flag=DE }:: ERA Sirbeyy | [#1](https://osu.ppy.sh/community/matches/111349866) |
 | **Backfire** ::{ flag=US }:: | **5** | 3 | ::{ flag=ID }:: Xicyte | [#1](https://osu.ppy.sh/community/matches/111350614) |
 | ERA Punish ::{ flag=DE }:: | 3 | **5** | ::{ flag=JP }:: **dectopia** | [#1](https://osu.ppy.sh/community/matches/111351646) |
 | **Nathan7978** ::{ flag=CA }:: | **5** | 1 | ::{ flag=TH }:: ZeroKungz | [#1](https://osu.ppy.sh/community/matches/111352247) |
-| happergamer ::{ flag=MX }:: | 0 | **5** | ::{ flag=US }:: **cyger** | [#1](WBD) |
+| happergamer ::{ flag=MX }:: | 0 | **5** | ::{ flag=US }:: **cyger** | *win by default* |
 | **\[LS\]Ham** ::{ flag=US }:: | **5** | 0 | ::{ flag=US }:: Sparky | [#1](https://osu.ppy.sh/community/matches/111357776) |
 | Pluko ::{ flag=BR }:: | 2 | **5** | ::{ flag=CA }:: **DimplesRMe** | [#1](https://osu.ppy.sh/community/matches/111358937) |
 
-Sunday, 19 November 2021:
+Sunday, 19 November 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -361,30 +361,30 @@ Sunday, 19 November 2021:
 | **ForestMastr** ::{ flag=US }:: | **5** | 1 | ::{ flag=AU }:: Blobby3000 | [#1](https://osu.ppy.sh/community/matches/111363345) |
 | **Grape_Tea** ::{ flag=JP }:: | **5** | 0 | ::{ flag=US }:: BugsLife | [#1](https://osu.ppy.sh/community/matches/111366413) |
 | **Teezel** ::{ flag=GB }:: | **5** | 3 | ::{ flag=JP }:: Maimaing | [#1](https://osu.ppy.sh/community/matches/111368070) |
-| SillyFangirl ::{ flag=BR }:: | 0 | **5** | ::{ flag=FR }:: **Adri** | [#1](WBD) |
+| SillyFangirl ::{ flag=BR }:: | 0 | **5** | ::{ flag=FR }:: **Adri** | *win by default* |
 | --Dragon-- ::{ flag=GB }:: | 0 | **5** | ::{ flag=US }:: **Jakson** | [#1](https://osu.ppy.sh/community/matches/111371104) |
 
-Monday, 20 November 2021:
+Monday, 20 November 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| APRL03 ::{ flag=AR }:: | 0 | **5** | ::{ flag=CL }:: **-Kori** | [#1](WBD) |
+| APRL03 ::{ flag=AR }:: | 0 | **5** | ::{ flag=CL }:: **-Kori** | *win by default* |
 
 ### Round of 32
 
-Saturday, 11 November 2021:
+Saturday, 11 November 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Blobby3000** ::{ flag=AU }:: | **4** | 0 | ::{ flag=ID }:: Xicyte | [#1](WBD) |
+| **Blobby3000** ::{ flag=AU }:: | **4** | 0 | ::{ flag=ID }:: Xicyte | *win by default* |
 | ZeroKungz ::{ flag=TH }:: | 1 | **4** | ::{ flag=JP }:: **dectopia** | [#1](https://osu.ppy.sh/community/matches/111257044) |
 | **ERA Punish** ::{ flag=DE }:: | **4** | 0 | ::{ flag=CA }:: Nathan7978 | [#1](https://osu.ppy.sh/community/matches/111258961) |
-| **Adri** ::{ flag=FR }:: | **4** | 0 | ::{ flag=US }:: Jakson | [#1](WBD) |
+| **Adri** ::{ flag=FR }:: | **4** | 0 | ::{ flag=US }:: Jakson | *win by default* |
 | **Sparky** ::{ flag=US }:: | **4** | 1 | ::{ flag=US }:: cyger | [#1](https://osu.ppy.sh/community/matches/111263102) |
 | **\[LS\]Ham** ::{ flag=US }:: | **4** | 0 | ::{ flag=MX }:: happergamer | [#1](https://osu.ppy.sh/community/matches/111265946) |
 | Backfire ::{ flag=US }:: | 1 | **4** | ::{ flag=US }:: **ForestMastr** | [#1](https://osu.ppy.sh/community/matches/111269318) |
 
-Sunday, 12 November 2021:
+Sunday, 12 November 2023:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -409,7 +409,7 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
 1. Jaye's One Key Event (JOKE) is a 1v1 tournament; you're on your own out there!
 2. Beatmap scoring is based on ScoreV2.
 3. The maps for each round will be announced during a live showcase once all matches for a round have concluded (otherwise, it will be announced in the Discord server). Only the announced maps will be used during the respective matches.
-4. The tournament is Free Mod: players are free to use either Hidden, Fade In, Flashlight, Mirror (lol), any of the key-count mods, or No Mod.
+4. The tournament is Free Mod: players are free to use either Hidden, Fade In, Flashlight, Mirror, any of the xK mods, or No Mod.
 5. The NF mod may be used but is not mandatory; failed scores do not count towards the end result; in the event that both players fail, the higher scoring player will claim one point.
 6. If the map ends in a draw: Picker's Privilege - the player who picked the map will be awarded 1 point, and the match will proceed as normal. In the unlikely event that a draw happens on the Tiebreaker map, the map will be replayed.
 7. If a player disconnects, they are treated as if they failed. Map aborting for a "false start" is up to the referee's discretion (and will likely take place if a disconnect occurs within the first 30 seconds of a map).
