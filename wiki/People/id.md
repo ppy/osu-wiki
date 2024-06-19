@@ -21,7 +21,7 @@ Halaman ini merupakan halaman indeks untuk berbagai artikel yang membahas seputa
 - [Nomination Assessment Team](Nomination_Assessment_Team)
 - [Komite Performance Point](Performance_Points_Committee)
 - [Project Loved Team](Project_Loved_Team)
-- [Tim dukungan teknis](Support_Team)
+- [Tim dukungan teknis](Technical_Support_Team)
 - [Komite turnamen](Tournament_Committee)
 - [osu! Alumni](osu!_Alumni)
 - [Tim osu!](osu!_team)
