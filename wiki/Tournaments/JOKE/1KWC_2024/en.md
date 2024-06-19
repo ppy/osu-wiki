@@ -96,7 +96,7 @@ tags:
 
 This competition has come to an end and resulted in the following podium:
 
-| Placing | Player |
+| Placing | Team |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=JP }:: **Japan** (**[Grape_Tea](https://osu.ppy.sh/users/9540073)**, [Maimaing](https://osu.ppy.sh/users/14520910), [hz404](https://osu.ppy.sh/users/14947043), [dectopia](https://osu.ppy.sh/users/2845904), [akumufangirl](https://osu.ppy.sh/users/6198876)) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: **United Kingdom** (**[Teezel](https://osu.ppy.sh/users/7528639)**, [--Dragon--](https://osu.ppy.sh/users/11924624), [Eliminate](https://osu.ppy.sh/users/9169747), [MiniEgg_23](https://osu.ppy.sh/users/25914360), [Zoobin4](https://osu.ppy.sh/users/10055204)) |
@@ -390,7 +390,7 @@ Seeding results are calculated based on rank sum across the 4 qualifier stages, 
 
 ### Stage Instructions
 
-1. The first weekend will be the Qualifiers. Team captains will nominate a day/time for their team to participate. All teams will then play through the Qualifiers mappool, followed by a 5 minute break (players may opt to skip this), and then through the Qualifiers mappool for a second time (players may opt to skip playing certain maps again, or the whole pool).
+1. The first weekend will be the Qualifiers. Team captains will nominate a day/time for their team to participate. All teams will then play through the Qualifiers mappool, followed by a 5 minute break (Teams may opt to skip this), and then through the Qualifiers mappool for a second time (Teams may opt to skip playing certain maps again, or the whole pool).
 2. The Round of 24 (following Qualifiers) is single-elimination. Teams seeded 1-8 will have a bye. Teams seeded 9-24 will compete to advance to the Bracket Stage.
 3. The Bracket Stage (following the Round of 24) is double-elimination.
 4. The winning condition for each stage is as follows:
