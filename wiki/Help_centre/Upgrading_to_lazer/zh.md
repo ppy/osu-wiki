@@ -1,3 +1,8 @@
+---
+outdated_since: 63b48d01b9acbe7defa804decae33ad768a7077f
+outdated_translation: true
+---
+
 # 升级到 lazer
 
 osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕后工作的结晶，并且，我们重构了游戏。

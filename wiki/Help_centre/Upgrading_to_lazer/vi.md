@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_since: 63b48d01b9acbe7defa804decae33ad768a7077f
+outdated_translation: true
 ---
 
 # Nâng cấp lên lazer
@@ -189,7 +191,7 @@ Chưa phải lúc này.
 
 #### Tất cả các mod có được vào bảng xếp hạng vào thời gian tới không?
 
-Điểm số của tất cả các mod đều xuất hiện trên bảng xếp hạng. 
+Điểm số của tất cả các mod đều xuất hiện trên bảng xếp hạng.
 
 Tuy nhiên, hiện tại chỉ những mod sau đây mới cho điểm hiệu suất:
 

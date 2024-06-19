@@ -1,3 +1,8 @@
+---
+outdated_since: 63b48d01b9acbe7defa804decae33ad768a7077f
+outdated_translation: true
+---
+
 # Aggiornare a lazer
 
 osu!(lazer) è il prossimo grande aggiornamento al client di osu!. È il frutto di diversi anni di lavoro dietro le quinte per reimplementare osu!.
@@ -220,7 +225,7 @@ Però, solo le seguenti mod garantiscono punti performance per ora:
 - Sistema
   - Touch Device
 
-Solo la configurazione di default è idonea ai punti performance, se non diversamente indicato sopra. 
+Solo la configurazione di default è idonea ai punti performance, se non diversamente indicato sopra.
 
 #### Non mi piacciono le nuove meccaniche di gioco. Posso ripristinare le vecchie meccaniche di gioco come su stable?
 

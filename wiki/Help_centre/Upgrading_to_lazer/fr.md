@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_since: 63b48d01b9acbe7defa804decae33ad768a7077f
+outdated_translation: true
 ---
 
 # Mise à jour vers lazer
