@@ -72,7 +72,7 @@ Di seguito verrà rappresentata una lista dello **stato attuale** di lazer in co
 | Ricezione del punteggio | ![Sì][true] | ![Sì][true] |
 | Classifiche per beatmap | ![Sì][true] | ![Sì][true] |
 | Statistiche del profilo | ![Sì][true] | ![Sì][true] |
-| Medaglie | ![Sì][true] | ![Sì][true] |
+| Medaglie | ![Sì][true] | ![Parziale][partial] |
 | Punti performance | ![Sì][true] | ![Sì][true] |
 | Chat in tempo reale | ![Parziale][partial][^stable-chat] | ![Sì][true] |
 | Wiki / news / changelog / classifiche | ![No][false] | ![Sì][true][^online-content] |

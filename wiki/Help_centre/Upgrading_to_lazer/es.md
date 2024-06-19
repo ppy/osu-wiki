@@ -72,7 +72,7 @@ La siguiente es una lista detallada del **estado actual** de lazer en comparaci�
 | Envío de puntuaciones | ![Sí][true] | ![Sí][true] |
 | Tablas de clasificación de beatmaps | ![Sí][true] | ![Sí][true] |
 | Estadísticas de perfil | ![Sí][true] | ![Sí][true] |
-| Medallas | ![Sí][true] | ![Sí][true] |
+| Medallas | ![Sí][true] | ![Parcial][partial] |
 | Puntos de rendimiento | ![Sí][true] | ![Sí][true] |
 | Chat en tiempo real | ![Parcial][partial][^stable-chat] | ![Sí][true] |
 | Wiki / noticias / registro de cambios / clasificaciones | ![No][false] | ![Sí][true][^online-content] |
