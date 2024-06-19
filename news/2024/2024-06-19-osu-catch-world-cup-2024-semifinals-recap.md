@@ -87,7 +87,7 @@ Seed 9 and seed 10 of this CWC started the match on [MM1](https://osu.ppy.sh/bea
 
 Peru advanced to the top 8, marking this the best year in their CWC history. However, in their second match of the weekend, they fell short to Canada locking them in the 7th–8th slot for this year. A beautiful performance from a team that wasn't able to win a match last year — there is a very bright future ahead of the Peruvian squad.
 
-The Russian Federation ends up finishing 9th–12th and this means there are no Asian teams making the top 8. This in its own is already a piece of history, as there has never been an edition where an Asian team has not finished on the podium of the osu!catch World Cup. And it gets even crazier, as the last time a non-Asian team won CWC was Chile in 2013 (!). Unless Chile pulls off an insane run in the loser bracket, chances of getting a new winner increase after every weekend. 2024 has already proven to be one of the most memorable editions in CWC history, and it doesn't stop here.
+The Russian Federation ends up finishing 9th–12th and this means there are no Asian teams making the top 8. This in its own is already a piece of history, as there has never been an edition where an Asian team has not finished on the podium of the osu!catch World Cup. And it gets even crazier, as the last time a non-Asian team won CWC was Chile in **2013**. Unless Chile pulls off an insane run in the loser bracket, chances of getting a new winner increase after every weekend. 2024 has already proven to be one of the most memorable editions in CWC history, and it doesn't stop here.
 
 ### ::{ flag=AR }:: Argentina vs. ::{ flag=FI }:: Finland
 
