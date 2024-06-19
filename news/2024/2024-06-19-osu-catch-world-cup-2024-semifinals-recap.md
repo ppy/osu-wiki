@@ -10,7 +10,6 @@ The osu!catch World Cup semifinals concluded, and we are down to the last 6 team
 
 We are nearing the end of this years' osu!catch World Cup. The initial field of 37 teams has narrowed down to only 6. These 6 teams have shown their prowess and their capacities and are battling for the 3 podium spots and to continue to the Grand Finals weekend.
 
-
 ## Mappool showcase
 
 <style>
@@ -62,7 +61,7 @@ As we reach the ending weekends of this years' world cup, the matches decrease i
 Here is an overview of all matches played last weekend. Certain teams, that have been knocked down to the loser bracket, had to play a second match when winning their first one.
 
 | Team A |  |  | Team B |
-|--:|:-:|:-:|:--|
+| --: | :-: | :-: | :-- |
 | **Canada** ::{ flag=CA }:: | **7** | 1 | ::{ flag=AU }:: Australia |
 | **France** ::{ flag=FR }:: | **7** | 2 | ::{ flag=ID }:: Indonesia |
 | **Poland** ::{ flag=PL }:: | **7** | 0 | ::{ flag=JP }:: Japan |
@@ -70,7 +69,7 @@ Here is an overview of all matches played last weekend. Certain teams, that have
 | **Argentina** ::{ flag=AR }:: | **7** | 2 | ::{ flag=FI }:: Finland |
 | France ::{ flag=FR }:: | 0 | **7** | ::{ flag=PL }:: **Poland** |
 | **Canada** ::{ flag=PL }:: | **7** | 1 | ::{ flag=PE }:: Peru |
-| **United States** ::{ flag=US }:: | **7** | 1 | ::{ flag=CL }:: Chile | 
+| **United States** ::{ flag=US }:: | **7** | 1 | ::{ flag=CL }:: Chile |
 
 ## Match highlights
 
