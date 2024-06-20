@@ -1,6 +1,4 @@
 ---
-outdated_since: c4b50fcfc48b6af263e3dfa8b144c7b7122889f0
-outdated_translation: true
 tags:
   - GMT
   - moderator
@@ -73,7 +71,9 @@ Una vez que un moderador global decide abandonar el equipo, se le pueden otorgar
 
 *Nota: Todos los miembros del GMT hablan inglés además de los idiomas que se enumeran a continuación, a menos que se indique lo contrario.*
 
-La [página del grupo Global Moderation Team](https://osu.ppy.sh/groups/4) enumera todos los miembros del equipo. Además de las áreas mencionadas a continuación, todos los miembros del GMT participan en la [revisión del contenido visual y auditivo incluido en los mapas](/wiki/Rules/Visual_content_considerations#evaluación-de-una-imagen).
+La [página del grupo Global Moderation Team](https://osu.ppy.sh/groups/4) enumera todos los miembros del equipo. Además de las áreas mencionadas a continuación, todos los miembros del GMT participan en la [revisión del contenido visual y auditivo incluido en los beatmaps](/wiki/Rules/Visual_content_considerations#evaluación-de-una-imagen).
+
+**Un miembro del GMT puede realizar cualquier tarea de cualquier categoría que elija, independientemente de su área de enfoque indicada.** Por ejemplo, un miembro del GMT responsable principalmente de la moderación del chat puede ayudar también en la moderación del foro.
 
 | Nombre | Idiomas adicionales | Área principal |
 | :-- | :-- | :-- |

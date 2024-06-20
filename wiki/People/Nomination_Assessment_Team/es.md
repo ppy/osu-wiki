@@ -1,6 +1,4 @@
 ---
-outdated_since: c4b50fcfc48b6af263e3dfa8b144c7b7122889f0
-outdated_translation: true
 tags:
   - NAT
   - equipo de evaluación de nominaciones
@@ -50,7 +48,7 @@ Los miembros del NAT que se ocupan principalmente de esta categoría se aseguran
 
 Es necesario dividir la carga de trabajo del NAT en dos categorías principales para la organización general y la productividad del grupo, lo que permite una asignación de responsabilidades más simplificada. Delegar tareas evita que los miembros del NAT se sientan abrumados y, al mismo tiempo, evita la difusión de la responsabilidad.
 
-**Un miembro del NAT puede participar en cualquier tarea dentro de cualquier categoría que elija, a pesar de las responsabilidades principales enumeradas.** Por ejemplo, un miembro del NAT que sea principalmente responsable de las evaluaciones también puede ayudar con tareas relacionadas con la estructura, o viceversa.
+**Un miembro del NAT puede realizar cualquier tarea dentro de cualquier categoría que elija, independientemente de sus responsabilidades principales enumeradas.** Por ejemplo, un miembro del NAT que sea principalmente responsable de las evaluaciones también puede ayudar con tareas relacionadas con la estructura, o viceversa.
 
 ## Actividad
 
