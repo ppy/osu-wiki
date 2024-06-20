@@ -1,3 +1,7 @@
+---
+no_native_review_since: 68df2a7820396f85d1466c9b3ebcfa812835f122
+---
+
 # osu! Alumni
 
 **osu! Alumni** merupakan para tokoh yang dikenal akan kontribusi mereka pada masanya masing-masing. Seandainya kami memiliki sumber daya yang memadai, kami tidak akan segan untuk mendirikan patung bagi masing-masing anggota di alun-alun kota.
