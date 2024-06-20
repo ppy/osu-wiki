@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 2164e2139a69d36c0721b179c3d39f85b238c455
+---
+
 # 界面自定义皮肤
 
 *参见：[界面](/wiki/Client/Interface)*
