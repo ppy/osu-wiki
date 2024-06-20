@@ -90,7 +90,7 @@ Here are some wise words from a few people involved in various aspects of the to
 > 
 > I'm Shurelia, a catch player (despite being involved in mapping for standard tournaments) since 2012 and also a GMT since 2014. I've been actively mapping for standard since 2014 and finally got into tournament mapping in 2023.
 
-**Shurelia** is this and that..
+**Shurelia** has been, despite being an osu!catch player, making tournament maps for osu! for a while, including a total of three for this year's 4WC.
 
 ---
 
