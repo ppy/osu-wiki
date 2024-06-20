@@ -1,3 +1,7 @@
+---
+no_native_review_since: 0750c5f3775a2aeebb2c9629ff3f28a9202a8aed
+---
+
 # Maskot
 
 *Lihat juga: [Maskot/Galeri](/wiki/Mascots/Gallery).*
