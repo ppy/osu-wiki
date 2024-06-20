@@ -63,7 +63,7 @@ tags:
 
 ## Participants
 
-| Seed | Members |
+| Seed | Player |
 | :-- | :-- |
 | 1 | ::{ flag=US }:: [\[LS\]Ham](https://osu.ppy.sh/users/17523947) |
 | 2 | ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) |

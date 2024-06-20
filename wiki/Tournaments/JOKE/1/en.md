@@ -60,7 +60,7 @@ tags:
 
 ## Participants
 
-| Seed | Members |
+| Seed | Player |
 | :-- | :-- |
 | 1 | ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235) |
 | 2 | ::{ flag=KR }:: [Jakads](https://osu.ppy.sh/users/259972) |

@@ -62,7 +62,7 @@ tags:
 
 ## Participants
 
-| Seed | Members |
+| Seed | Player |
 | :-- | :-- |
 | 1 | ::{ flag=DE }:: [[LS]Punish](https://osu.ppy.sh/users/10615367) |
 | 2 | ::{ flag=BR }:: [SillyFangirl](https://osu.ppy.sh/users/2288363) |
