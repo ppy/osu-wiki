@@ -547,9 +547,9 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
 #### Bracket Stage
 
 1. All matches will be played on Score V2.
-2. All maps are played with FreeMod turned ON. Visual mods such as Mirror, Hidden, Fade-In, Flashlight, and any combination of these mods are allowed. NoFail is allowed too.
-Bracket Matches will arrange all the players into a standard Double Elimination Bracket, where 1st seed will face against 64th seed, 2nd seed will face against 63rd seed, and so on.
-3. The Mappool format for the bracket stages will be as follows:
+2. All maps are played with Free Mod turned ON. Visual mods such as Mirror, Hidden, Fade In, Flashlight, and any combination of these mods are allowed. No Fail is allowed too.
+3. Bracket Matches will arrange all the players into a standard Double Elimination Bracket, where 1st seed will face against 64th seed, 2nd seed will face against 63rd seed, and so on.
+4. The Mappool format for the bracket stages will be as follows:
 
 | Round | Maps | Format |
 | --: | :-: | :-- |
