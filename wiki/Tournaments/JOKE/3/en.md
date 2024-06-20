@@ -425,7 +425,7 @@ Seeding results are calculated based on average placement across the 4 qualifier
 
 ### Stage Instructions
 
-1. The first weekend will be the "Qualifiers". All participants will be assigned to a multiplayer lobby at a specified time. All participants will then play through the Qualifiers mappool, followed by a 5 minute break (players may opt to skip this), after which they will play through the Qualifiers mappool for a second time (players may opt to skip this as well).
+1. The first weekend will be the "Qualifiers". All participants will be assigned to a multiplayer lobby at a specified time. All participants will then play through the Qualifiers mappool, followed by a 5-minute break (players may opt to skip this), after which they will play through the Qualifiers mappool for a second time (players may opt to skip this as well).
 2. The bracket stage (following Qualifiers) is Double Elimination.
 3. The winning condition for each stage is as follows:
 

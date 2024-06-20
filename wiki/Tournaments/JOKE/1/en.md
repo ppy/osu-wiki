@@ -485,7 +485,7 @@ Seeding results are calculated based on total score across the 4 qualifier stage
 ### Stage Instructions
 
 1. The first weekend will be the "Qualifiers". All participants will be assigned to a multiplayer lobby at a specified time. All participants will then play through the Qualifiers mappool, followed by a 10-15 minute break, after which they will play through the Qualifiers mappool for a second time.
-2. The bracket stage (following Qualifiers) is Double Elimination; the tournament will begin with a Split pool (meaning qualifying participants ranked 33-64 will be initially placed in Loser Bracket). This decision was made to knockout some weaker players earlier on (as this tournament is quite hard).
+2. The bracket stage (following Qualifiers) is Double Elimination — the tournament will begin with a Split pool (meaning qualifying participants ranked 33-64 will be initially placed in Loser Bracket). This decision was made to knock out some weaker players earlier on (as this tournament is quite hard).
 3. The winning condition for each stage is as follows:
 
 | Round | Format |
