@@ -1,10 +1,14 @@
+---
+no_native_review_since: 68df2a7820396f85d1466c9b3ebcfa812835f122
+---
+
 # osu! Alumni
 
-**osu! Alumni** merupakan para tokoh yang telah banyak berkontribusi kepada osu! pada masanya masing-masing. Seandainya kami memiliki sumber daya yang memadai, kami tidak akan segan mendirikan patung-patung untuk membalas jasa mereka.
+**osu! Alumni** merupakan para tokoh yang dikenal akan kontribusi mereka pada masanya masing-masing. Seandainya kami memiliki sumber daya yang memadai, kami tidak akan segan untuk mendirikan patung bagi masing-masing anggota di alun-alun kota.
 
-Daftar anggota osu! Alumni selengkapnya juga dapat dilihat pada [laman grup osu! Alumni](https://osu.ppy.sh/groups/16).
+Daftar anggota osu! Alumni selengkapnya juga dapat dilihat pada [halaman grup osu! Alumni](https://osu.ppy.sh/groups/16).
 
-| Nama | Posisi |
+| Nama | Jabatan terdahulu |
 | :-- | :-- |
 | ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | NAT |
 | ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | BAT, GMT |
