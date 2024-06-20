@@ -47,7 +47,7 @@ For now though, the only natural way to proceed is to interview osu!mania's rank
 
 *What would you say is the greatest gift that osu!mania has given you?*
 
-> Playing osu!mania gave lots of things to me, such as managing anxiety, how to schedule things between different timezones and being positive. Most importantly, playing osu!mania made me realize that nothing is impossible unless you try sincerely.
+> Playing osu!mania gave lots of things to me, such as managing anxiety, how to schedule things between different timezones and being positive. Most importantly, playing osu!mania made me realize that nothing is impossible if you try sincerely.
 
 *What kind of maps do you find yourself enjoying to play the most?*
 

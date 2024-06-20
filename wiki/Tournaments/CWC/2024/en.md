@@ -112,7 +112,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Chile ::{ flag=CL }:: | ::{ flag=PL }:: Poland | [Jun 22 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240622T160000&p1=1440&p2=232&p3=262) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Chile ::{ flag=CL }:: | ::{ flag=PL }:: Poland | [Jun 22 (Sat) 16:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240622T163000&p1=1440&p2=232&p3=262) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Finland ::{ flag=FI }:: | ::{ flag=CA }:: Canada | [Jun 22 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240622T180000&p1=1440&p2=101&p3=188) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 
 ### Sunday, 23 June 2024
@@ -122,8 +122,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
 | Finland ::{ flag=FI }:: | ::{ flag=CL }:: Chile | [Jun 23 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240623T150000&p1=1440&p2=101&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Finland ::{ flag=FI }:: | ::{ flag=PL }:: Poland | [Jun 23 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240623T150000&p1=1440&p2=101&p3=262) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | United States ::{ flag=US }:: | ::{ flag=AR }:: Argentina | [Jun 23 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240623T170000&p1=1440&p2=263&p3=51) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| Canada ::{ flag=CA }:: | ::{ flag=PL }:: Poland | [Jun 23 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240623T180000&p1=1440&p2=188&p3=262) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Canada ::{ flag=CA }:: | ::{ flag=CL }:: Chile | [Jun 23 (Sun) 18:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240623T183000&p1=1440&p2=188&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Canada ::{ flag=CA }:: | ::{ flag=PL }:: Poland | [Jun 23 (Sun) 18:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240623T183000&p1=1440&p2=188&p3=262) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Grand Finals | mappool showcase | [Jun 23 (Sun) 19:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240623T193000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Mappools
