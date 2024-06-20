@@ -1,6 +1,4 @@
 ---
-outdated_since: c4b50fcfc48b6af263e3dfa8b144c7b7122889f0
-outdated_translation: true
 tags:
   - GMT
   - moderator
@@ -14,11 +12,11 @@ tags:
 
 Il Team di Moderazione Globale (precedentemente noto come Global Mod Team, Amministratori o GreenBAT), comunemente indicato come **GMT**, sono membri della comunità che si concentrano principalmente sulla moderazione dei giocatori e su questioni riguardanti team e la community nel suo insieme. Sono contraddistinti dal loro titolo utente verde lime, dal badge [gruppo utenti](/wiki/People/User_group) che riporta GMT, e dal loro nome utente rosso nel gioco.
 
-**Tutti i Moderatori Globali sono tenuti a rispettare [il Codice di Condotta dei Collaboratori](/wiki/Rules/Contributor_code_of_conduct) oltre alle normali [Regole della Comunitá](/wiki/Rules).**
+**Tutti i Moderatori Globali sono tenuti a rispettare [il Codice di Condotta dei Collaboratori](/wiki/Rules/Contributor_code_of_conduct) oltre alle normali [Regole della Comunità](/wiki/Rules).**
 
 ***Nota: Per segnalare un moderatore che si comporta in modo inappropriato o che viola il Codice di Condotta dei Collaboratori, contatta il [team di supporto dell'account](/wiki/People/Account_support_team#support@ppy.sh).***
 
-## Ruoli e Responsabilitá
+## Ruoli e Responsabilità
 
 *Vedi anche: [Segnalare comportamenti scorretti](/wiki/Reporting_bad_behaviour)*
 
@@ -27,7 +25,7 @@ Il Team di Moderazione Globale è responsabile del benessere della chat e del fo
 - problemi nella chat (ad esempio spam o molestie)
 - comportamenti scorretti sul forum (ad esempio post inappropriati)
 - discussioni sulle beatmap e la sezione commenti
-- moderazione dei profili utente (contenuti NSFW o offensivi negli avatar, nelle copertine dei profili o nei dettagli, ...)
+- moderazione dei profili utente (contenuti NSFW od offensivi negli avatar, nelle copertine dei profili o nei dettagli, ...)
 
 ## Diventare un Moderatore
 
@@ -70,7 +68,9 @@ Una volta che un Moderatore Globale sceglie di lasciare il team, gli possono ess
 
 *Nota: Tutti i membri del GMT parlano inglese oltre alle lingue elencate di seguito, a meno che non sia diversamente specificato.*
 
-La [pagina del gruppo del Team di Moderazione Globale](https://osu.ppy.sh/groups/4) elenca tutti i membri del team. Oltre alle aree menzionate di seguito, tutti i membri del GMT partecipano alla [revisione dei contenuti visivi e uditivi inclusi nelle beatmap.](/wiki/Rules/Visual_content_considerations#getting-your-image-assessed).
+La [pagina del gruppo del Team di Moderazione Globale](https://osu.ppy.sh/groups/4) elenca tutti i membri del team. Oltre alle aree menzionate di seguito, tutti i membri del GMT partecipano alla [revisione dei contenuti visivi e uditivi inclusi nelle beatmap](/wiki/Rules/Visual_content_considerations#getting-your-image-assessed).
+
+**Un membro del GMT può occuparsi di qualsiasi compito all'interno di qualsiasi categoria a sua scelta, indipendentemente dalla sua area di interesse.** Per esempio, un membro del GMT responsabile principalmente della moderazione della chat può anche aiutare con la moderazione del forum.
 
 <!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
 
@@ -79,9 +79,9 @@ La [pagina del gruppo del Team di Moderazione Globale](https://osu.ppy.sh/groups
 | ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | Cinese, malese, cantonese, un po' di giapponese | Moderazione della community del mapping/modding |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | Tedesco | Moderazione della chat |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Russo | Moderazione della chat |
-| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Serbo | General moderation |
+| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Serbo | Moderazione generale |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Moderazione del forum |
-| ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | Olandese, un po' di tedesco | General moderation |
+| ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | Olandese, un po' di tedesco | Moderazione generale |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Organizzazione tornei[^task-Azer] |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | Cinese, malese | Moderazione della chat |
 | ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  | Moderazione della chat, moderazione del forum |
@@ -123,7 +123,7 @@ La [pagina del gruppo del Team di Moderazione Globale](https://osu.ppy.sh/groups
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Tedesco, serbo | Moderazione della chat, moderazione della community del mapping/modding |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Presenza ufficiale del team |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Tedesco | Organizzazione tornei |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Cantonese, cinese | General moderation |
+| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Cantonese, cinese | Moderazione generale |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | Coreano, giapponese | Moderazione della chat |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | Malese | Moderazione della chat |
 | ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | Polacco | Moderazione della community delle skin |
