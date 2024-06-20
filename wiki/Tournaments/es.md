@@ -701,6 +701,12 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | [4 Digit osu!mania World Cup 3](4DM/3) | 23/1/2021 | 7/3/2021 | ::{ flag=PH }:: Filipinas | ::{ flag=MY }:: Malasia | ::{ flag=BR }:: Brasil |
 | [4 Digit osu!mania World Cup 4](4DM/4) | 8/1/2022 | 20/2/2022 | ::{ flag=FR }:: Francia | ::{ flag=TH }:: Tailandia | ::{ flag=PE }:: Perú |
 
+#### 6K Autumn Showdown Tournament
+
+| Nombre | Inicio | Final | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [6K Autumn Showdown Tournament](6KAST/1) | 14/10/2023 | 3/12/2023 | ::{ flag=KR }:: [yz1155](https://osu.ppy.sh/users/2071008) | ::{ flag=TH }:: [LostCool](https://osu.ppy.sh/users/766374) | ::{ flag=CN }:: [VanWilder](https://osu.ppy.sh/users/89545) |
+
 #### :thonking: Mania Tournament
 
 | Nombre | Inicio | Final | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] |
