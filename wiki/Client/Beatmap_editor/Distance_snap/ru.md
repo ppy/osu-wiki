@@ -1,4 +1,6 @@
 ---
+outdated_since: acc113ea92444908a05adc6fa6f093f42a9ee30f
+outdated_translation: true
 tags:
   - DS
   - time-distance equality
