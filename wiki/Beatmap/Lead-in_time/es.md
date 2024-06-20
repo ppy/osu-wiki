@@ -3,6 +3,7 @@ tags:
   - leadin
   - lead in
   - AudioLeadIn
+  - entrada
 ---
 
 # Tiempo de entrada
