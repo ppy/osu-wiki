@@ -579,7 +579,7 @@ Notas:
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Todas | ![No][false] | ![Sí][true] | Normal | Centro | 64x64 |
 
-- Este mod solo está disponible en la versión cuttingedge. 
+- Este mod solo está disponible en la versión cuttingedge.
 - Este elemento para el mod es específico de [osu!](/wiki/Game_mode/osu!).
 
 ---
@@ -1140,7 +1140,6 @@ Notas:
 - El posicionamiento varía:
   - Si se usa un marcador, se posiciona en (12,12).
   - De lo contrario, se posiciona en (5,16).
-- Este elemento no tiene restricciones de tamaño.
 - Cuando se usa en [osu!mania](/wiki/Game_mode/osu!mania), este elemento gira 90 grados en sentido contrario a las agujas del reloj, se escala a un tamaño de 0,7x y se coloca en la parte inferior derecha del escenario.
 
 ---
