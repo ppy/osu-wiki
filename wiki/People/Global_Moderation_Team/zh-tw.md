@@ -60,19 +60,20 @@ GMT 負責聊天頻道和論壇的安危，和處理社群間的交流。可以�
 
 | 名稱 | 額外語言 | 重點關注 |
 | :-- | :-- | :-- |
+| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | 中文、馬來文、粵語、部分日文 | 製圖/Mod 圖社群管理員 |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | 德文 | 聊天室管理員 |
-| ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | 匈牙利文 | 聊天室管理員 |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | 俄文 | 聊天室管理員 |
-| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | 塞爾維亞文 |  |
+| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | 塞爾維亞文 | General moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | 論壇管理員 |
-| ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | 荷蘭文、部分德文 |  |
+| ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | 荷蘭文、部分德文 | General moderation |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | 錦標賽管理員 |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | 中文、馬來文 | 聊天室管理員 |
+| ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  | 聊天室管理員、論壇管理員 |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | 瑞典文、西班牙文 | 聊天室管理員、錦標賽管理員 |
 | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  | 聊天室管理員 |
 | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | 韓文、日文 | 聊天室管理員 |
 | ::{ flag=FR }:: [Corne2Plum3](https://osu.ppy.sh/users/15646039) | 法文 | 論壇管理員 |
-| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | 部分西班牙文 |  |
+| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | 部分西班牙文 | 錦標賽管理員 |
 | ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | 西班牙文 | 聊天室管理員 |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | 論壇管理員、技術支援人員 |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | 技術支援人員 |
@@ -85,10 +86,9 @@ GMT 負責聊天頻道和論壇的安危，和處理社群間的交流。可以�
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | 製圖/Mod 圖社群管理員 |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | 印尼文 | 製圖/Mod 圖社群管理員 |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | 法文、西班牙文 | 聊天室管理員 |
-| ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  | 聊天室管理員、製圖/Mod 圖社群管理員 |
 | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | 馬來文、部分中文 | 製圖/Mod 圖社群管理員 |
 | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | 粵語、中文、日文 | 聊天室管理員 |
-| ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | 俄文 | 聊天室管理員 |
+| ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | 俄文 | 聊天室管理員、論壇管理員 |
 | ::{ flag=JP }:: [KSHR](https://osu.ppy.sh/users/409957) | 日文 | 聊天室管理員 |
 | ::{ flag=RU }:: [Kudou Chitose](https://osu.ppy.sh/users/9936528) | 俄文 | 聊天室管理員 |
 | ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) | 芬蘭文、部分瑞典文 | 聊天室管理員 |
@@ -107,6 +107,7 @@ GMT 負責聊天頻道和論壇的安危，和處理社群間的交流。可以�
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | 德文、塞爾維亞文 | 聊天室管理員、製圖/Mod 圖社群管理員 |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | 官方團隊 |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | 德文 | 錦標賽管理員 |
+| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | 粵語、中文 | General moderation |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | 韓文、日文 | 聊天室管理員 |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | 馬來文 | 聊天室管理員 |
 | ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | 波蘭文 | Skin 社群管理員 |
@@ -116,11 +117,14 @@ GMT 負責聊天頻道和論壇的安危，和處理社群間的交流。可以�
 | ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069) | 韓文 | 聊天室管理員 |
 | ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772) | 日文 | 聊天室管理員 |
 | ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | 瑞典文、西班牙文 | 聊天室管理員 |
+| ::{ flag=CA }:: [Shad0wStar](https://osu.ppy.sh/users/16866460) |  | 製圖/Mod 圖社群管理員 |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | 法文、西班牙文 | 聊天室管理員 |
 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | 印尼文 | 聊天室管理員 |
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | 印尼文、部分越南文 | 聊天室管理員、論壇管理員 |
-| ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | 德文、塞爾維亞文 | 論壇管理員 |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | 中文 | 聊天室管理員 |
+| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | 韓文 | 製圖/Mod 圖社群管理員 |
+| ::{ flag=HU }:: [Spkz](https://osu.ppy.sh/users/2964029) | 匈牙利文 | 聊天室管理員 |
+| ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | 德文、塞爾維亞文 | 論壇管理員 |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | 芬蘭文 | 聊天室管理員 |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | 論壇管理員、聊天室管理員 |
 | ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | 俄文 | 聊天室管理員、Wiki 管理員 |
@@ -134,6 +138,7 @@ GMT 負責聊天頻道和論壇的安危，和處理社群間的交流。可以�
 | ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) | 印尼文 | 聊天室管理員 |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | 波蘭文 | 聊天室管理員 |
 | ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | 聊天室管理員 |
+| ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | 西班牙文 | 製圖/Mod 圖社群管理員 |
 
 ### 以管理語言排列
 
@@ -153,7 +158,7 @@ GMT 負責聊天頻道和論壇的安危，和處理社群間的交流。可以�
 | `#german` | [Deutsch](https://osu.ppy.sh/community/forums/37) | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985), ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253), ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) |
 | `#greek` |  |  |
 | `#hebrew` |  |  |
-| `#hungarian` | [Magyar](https://osu.ppy.sh/community/forums/95) | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) |
+| `#hungarian` | [Magyar](https://osu.ppy.sh/community/forums/95) | ::{ flag=HU }:: [Spkz](https://osu.ppy.sh/users/2964029) |
 | `#indonesian` | [Indonesian](https://osu.ppy.sh/community/forums/73) | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991), ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) |
 | `#italian` | [Italiano](https://osu.ppy.sh/community/forums/36) |  |
 | `#japanese` | [日本語](https://osu.ppy.sh/community/forums/32) | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107), ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109), ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=JP }:: [KSHR](https://osu.ppy.sh/users/409957), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236) |
@@ -167,7 +172,7 @@ GMT 負責聊天頻道和論壇的安危，和處理社群間的交流。可以�
 | `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) |
 | `#thai` | [ภาษาไทย](https://osu.ppy.sh/community/forums/54) | ::{ flag=TH }:: [Trigonoculus](https://osu.ppy.sh/users/7627013) |
 | `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) |  |
-| `#ukrainian` |  | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) |
+| `#ukrainian` |  |  |
 | `#vietnamese` |  | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) |
 
 <!-- TODO: History section wanted (Chat operators/GreenBAT, etc, etc) -->

@@ -1,13 +1,12 @@
 ---
-outdated_translation: true
-outdated_since: 0f49e908882a29c5c4c7f9f08bd97d12cdabd9c6
+no_native_review_since: 0750c5f3775a2aeebb2c9629ff3f28a9202a8aed
 ---
 
 # Maskot
 
 *Lihat juga: [Maskot/Galeri](/wiki/Mascots/Gallery).*
 
-Video di Youtube yang menampilkan maskot osu! dapat dilihat di [Mascot Showcase](https://youtu.be/mJF2cAs_MrI)
+Video YouTube yang menampilkan rangkaian maskot osu! dapat dilihat di [Mascot Showcase](https://youtu.be/mJF2cAs_MrI).
 
 ## Resmi
 
@@ -15,33 +14,33 @@ Video di Youtube yang menampilkan maskot osu! dapat dilihat di [Mascot Showcase]
 
 ![pippi](img/pippi.png "pippi")
 
-pippi, dituliskan dengan huruf "p" kecil, adalah maskot osu! yang bergabung pada bulan Juli 2008. Dia juga dikenal sebagai pippidon di mode osu!taiko dan pippi merupakan salah satu NPC di game [Yandere Simulator](https://yanderesimulator.com). Konsep awal pippi dirancang oleh [Sarumaru](https://osu.ppy.sh/users/9427), sprite pippidon dibuat oleh [crystalsuicune](https://osu.ppy.sh/users/9974), dan konsep pippi yang terkini dirancang oleh [Daru](https://osu.ppy.sh/users/32480).
+pippi, ditulis dengan huruf "p" kecil, merupakan maskot mode permainan osu! yang diperkenalkan pada bulan Juli 2008. pippi juga dikenal sebagai pippidon di osu!taiko dan salah satu karakter NPC pada permainan [Yandere Simulator](https://yanderesimulator.com). Konsep awal pippi dirancang oleh [Sarumaru](https://osu.ppy.sh/users/9427), dengan *sprite* pippidon yang dibuat oleh [crystalsuicune](https://osu.ppy.sh/users/9974) dan desain saat ini yang dirancang oleh [Daru](https://osu.ppy.sh/users/32480).
 
 ### ![Ikon osu!catch](/wiki/shared/mode/catch.png) Yuzu
 
-*Untuk postingan beritanya, lihat: [Meet Yuzu](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu) dan [Introducing Yuzu's New Look](https://osu.ppy.sh/home/news/2019-01-09-introducing-yuzu).*
+*Untuk postingan berita terkait, lihat: [Meet Yuzu](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu) dan [Introducing Yuzu's New Look](https://osu.ppy.sh/home/news/2019-01-09-introducing-yuzu).*
 
 ![Yuzu](img/Yuzu.png "Yuzu")
 
-Yuzu adalah maskot osu!catch yang telah bergabung sejak 22 Juni 2014. Yuzu lahir pada 10 April 2000, tingginya 172 cm, dan beratnya 65 kg. Desain versi terbaru dirancang oleh [Thievley](https://osu.ppy.sh/users/4717672). Sedangkan konsep awal dan sprite catcher Yuzu dirancang oleh [ztrot](https://osu.ppy.sh/users/6347) lalu Daru membuat comboburst-nya.
+Yuzu merupakan maskot osu!catch yang diperkenalkan pada tanggal 22 Juni 2014. Yuzu lahir pada tanggal 10 April 2000, dengan tinggi 172 cm dan berat 65 kg. Desain Yuzu saat ini dirancang oleh [Thievley](https://osu.ppy.sh/users/4717672), sedangkan konsep awal serta *sprite* catcher Yuzu dibuat oleh [ztrot](https://osu.ppy.sh/users/6347). Di sisi lain, *comboburst* Yuzu dirancang oleh Daru.
 
 ### ![Ikon osu!mania](/wiki/shared/mode/mania.png) Mani & Mari
 
-*Untuk postingan beritanya, lihat: [Introducing Mani and Mari, the New osu!mania Mascots.](https://osu.ppy.sh/home/news/2020-09-17-introducing-mani-mari-osumania)*
+*Untuk postingan berita terkait, lihat: [Introducing Mani and Mari, the New osu!mania Mascots.](https://osu.ppy.sh/home/news/2020-09-17-introducing-mani-mari-osumania)*
 
 ![Mani & Mari](https://assets.ppy.sh/media/mari-mani/wiki-key-condensed.png "Mani & Mari")
 
-Setelah didesain oleh [xiemon](https://osu.ppy.sh/users/5203667) dan dikembangkan dari [Most Manic Art Contest](https://osu.ppy.sh/community/contests/80), Mani dan Mari diumumkan sebagai maskot resmi osu!mania pada 18 September 2020. Mani dan Mari adalah kembar yang tidak dapat akur namun memiliki kemiripan yang tidak mereka akui.
+Mani dan Mari merupakan maskot osu!mania yang dirancang oleh [xiemon](https://osu.ppy.sh/users/5203667) setelah dipilih dari submisi yang masuk pada [Most Manic Art Contest](https://osu.ppy.sh/community/contests/80) dan diumumkan secara resmi pada tanggal 18 September 2020. Mereka merupakan saudara kembar yang saling tidak akur, namun memiliki kemiripan yang enggan untuk mereka akui.
 
-Mani adalah seorang yang eksentrik, selalu mencari hal-hal dan gaya baru, sedangkan saudaranya Mari (dulunya dikenal sebagai Maria) adalah seorang yang kaku, perfeksionis konservatif dengan kegemaran untuk selalu mendapat perhatian. Mereka berdua hidup bagaikan air dan minyak.
+Mani merupakan pemuda yang cenderung tampil nyentrik dan selalu mencari berbagai hal serta gaya baru, sedangkan saudaranya Mari (yang sebelumnya dikenal sebagai Maria) merupakan seseorang yang kaku, perfeksionis, dan selalu ingin menjadi pusat perhatian. Mereka berdua tidak pernah saling bersatu bagaikan minyak dan air.
 
 ### ![Ikon osu!taiko](/wiki/shared/mode/taiko.png) Mocha
 
-*Untuk postingan beritanya, lihat: [The new osu!taiko mascot is here!](https://osu.ppy.sh/home/news/2017-05-25-the-new-osutaiko-mascot-is-here).*
+*Untuk postingan berita terkait, lihat: [The new osu!taiko mascot is here!](https://osu.ppy.sh/home/news/2017-05-25-the-new-osutaiko-mascot-is-here).*
 
 ![Mocha](img/Mocha.png "Mocha")
 
-Mocha adalah maskot osu!taiko. Awalnya Mocha dirancang dalam perlombaan [sixth fanart contest](https://osu.ppy.sh/community/contests/2) oleh [Crowie](https://osu.ppy.sh/users/6894067), yang telah menduduki peringkat 21 dari pemungutan suara.
+Mocha merupakan maskot osu!taiko. Mocha pada awalnya dirancang sebagai bagian dari [kontes *fan art* ke-6](https://osu.ppy.sh/community/contests/2) oleh [Crowie](https://osu.ppy.sh/users/6894067), yang menduduki peringkat ke-21 berdasarkan hasil pemungutan suara di kala itu.
 
 ## Kameo
 
@@ -49,29 +48,29 @@ Mocha adalah maskot osu!taiko. Awalnya Mocha dirancang dalam perlombaan [sixth f
 
 ![Ryuuta](img/Ryuuta.png "Ryuuta")
 
-> Dia adalah pemimpin regu cheerleader berdarah panas. Dia memiliki jiwa yang baik dan membantu orang-orang di sekitarnya yang sedang mengalami kesulitan dengan cara berdiri dan berjuang untuk mereka!
+> Ryuuta merupakan pemimpin regu pemandu sorak yang sarat akan emosi. Dia memiliki jiwa yang tulus dan gemar membantu orang-orang di sekitarnya yang berada dalam kesulitan dengan menyemangati dan berjuang untuk mereka!
 
-一本木龍太 (Ryūta Ippongi) adalah catcher chibi osu!catch yang telah bergabung pada sejak tahun 2008, tetapi digantikan oleh [Yuzu](#yuzu) pada tahun 2014. Dia dirancang oleh [iNis Corporation](https://en.wikipedia.org/wiki/INiS) dan pernah menjadi bagian dari situs web lama. Ryūta juga muncul sebagai NPC pada game [Yandere Simulator](https://yanderesimulator.com).
+一本木龍太 (Ryūta Ippongi) merupakan catcher osu!catch berbentuk chibi yang diperkenalkan pada tahun 2008 sebelum digantikan oleh [Yuzu](#yuzu) pada tahun 2014. Ryuuta diciptakan oleh [iNiS Corporation](https://en.wikipedia.org/wiki/INiS) dan pernah menjadi bagian dari situs web osu! lawas. Ryuuta juga muncul sebagai NPC dalam permainan [Yandere Simulator](https://yanderesimulator.com).
 
-Ryuuta juga ditampilkan di skin milik [LuigiHann](https://osu.ppy.sh/users/1079), bernamakan [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/).
+Di samping itu, Ryuuta juga dapat ditemui dalam skin [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/) yang dibuat oleh [LuigiHann](https://osu.ppy.sh/users/1079).
 
 ### Agent J
 
 ![Agent J](img/Agent_J.png "Agent J")
 
-> Seorang ahli yang bisa melakukan banyak gaya tari mulai dari hip-hop hingga balet, J dapat memikat setiap makhluk hidup.
+> Piawai dalam berbagi gaya tari mulai dari hip-hop hingga balet, J dapat memikat setiap makhluk hidup.
 
-Agent J, dikenal juga sebagai BA-2 (Beat Agent-2) atau J, adalah salah satu maskot osu! di tahun 2008 tetapi telah pensiun pada tahun 2014. Dia dirancang oleh iNis Corporation dan pernah menjadi bagian dari situs web lama.
+Agent J, atau yang juga dikenal sebagai BA-2 (Beat Agent-2) atau J, merupakan salah satu maskot osu! di tahun 2008 yang telah pensiun sejak tahun 2014 silam. Agent J dirancang oleh iNiS Corporation dan pernah menjadi bagian dari situs web osu! lawas.
 
-Agent J juga ditampilkan di skin milik [LuigiHann](https://osu.ppy.sh/users/1079), bernamakan [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/).
+Di samping itu, Agent J juga dapat ditemui dalam skin [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/) yang dibuat oleh [LuigiHann](https://osu.ppy.sh/users/1079).
 
 ### Don
 
 ![Don](img/Don.png "Don")
 
-> Don adalah protagonis dari serial [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin). Dia adalah taiko drum dengan tepian putih yang memiliki empat kaki, wajah merah (yang tampak seperti jingga moly), dan tubuh berwarna biru muda. Mimpi Don adalah membagikan berbagai keindahan Taiko dengan dunia. Tiga tahun telah berlalu sejak dia pindah ke Rumah Wada, dan dia menjadi sangat populer di sekitar kota. Dia memiliki nafsu mengerikan dan kadang-kadang memiliki barang-barang mahal di Rumah Wada yang mungkin adalah hal buruk. Dia biasa mengakhiri kalimatnya dengan "Ta-don", yang berarti "Ba-dum" dalam bahasa Jepang.
+> Don merupakan protagonis dari serial [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin). Dia merupakan sebuah drum taiko yang memiliki tepian putih serta empat kaki, wajah merah (yang tampak seperti warna jingga ikan mas), dan tubuh biru muda. Don bermimpi untuk membagikan keindahan Taiko kepada dunia. Tiga tahun telah berlalu sejak dia berpindah ke Rumah Wada, dan dia telah menjelma sebagai sosok yang populer di seantero kota. Dia memiliki nafsu makan yang luar biasa dan terkadang berbelanja barang-barang mahal di Rumah Wada, yang tidak selalu berakhir baik baginya. Dia biasa mengakhiri kalimatnya dengan "Ta-don", yang berarti "Ba-dum" dalam bahasa Jepang.
 
-和田どん (Wada Don), dikenal juga sebagai Don atau Don-chan, adalah salah satu maskot osu! untuk mode osu!taiko yang bergabung pada bulan Mei 2008. Tingginya 48 cm dengan beratnya yang melebihi 100 kg. Dia muncul di skin osu!taiko. Dia dirancang oleh Yukiko Yokoo (横尾有希子) dan pengisi suaranya Narahashi Miki (楢橋 美紀).
+和田どん (Wada Don), atau yang juga dikenal sebagai Don atau Don-chan, merupakan salah satu maskot osu!taiko yang diperkenalkan pada bulan Mei 2008. Wada Don memiliki tinggi 48 cm dan bobot yang melebihi 100 kg. Wada Don muncul pada skin mode osu!taiko. Desain Wada Don dirancang oleh Yukiko Yokoo (横尾有希子) dan suaranya diisi oleh Narahashi Miki (楢橋 美紀).
 
 ## Komunitas
 
@@ -79,28 +78,28 @@ Agent J juga ditampilkan di skin milik [LuigiHann](https://osu.ppy.sh/users/1079
 
 ![Aiko](img/Aiko.png "Aiko")
 
-Dirancang oleh [JMC](https://osu.ppy.sh/users/774010), Aiko adalah salah satu peserta dalam kontes merancang maskot osu!taiko. Dia adalah gadis yang energik dengan hasrat untuk osu!taiko, bahkan meskipun dia bukan yang terbaik dalam hal itu! Berpenampilan sepasang sepatu olahraga "Tabi" bergaya dan aksesoris pippidon yang banyak, maskot masa lampau hidup dalam gadis gagah ini. Dia cukup pendek dengan tinggi hanya 154 cm, dan lahir pada 6 April 1999.
+Dirancang oleh [JMC](https://osu.ppy.sh/users/774010), Aiko merupakan salah satu entri dalam kontes desain maskot osu!taiko. Aiko merupakan gadis yang energik dengan ketertarikan yang mendalam terhadap osu!taiko, bahkan meskipun dia bukan pemain yang handal sekalipun! Dengan mengenakan sepatu "Tabi" yang modis dan rangkaian aksesoris pippidon, sang maskot osu!taiko zaman dahulu kala seakan-akan hidup dalam gadis gagah ini. Aiko memiliki postur yang cukup pendek dengan tinggi badan hanya 154 cm, dan terlahir pada tanggal 6 April 1999.
 
 ### Alisa
 
 ![Alisa](img/Alisa.png "Alisa")
 
-Dirancang oleh [\[ Glitch \]](https://osu.ppy.sh/users/3781400), Alisa adalah salah satu peserta dalam kontes merancang maskot osu!taiko. Dia telah bermain osu!taiko sejak kecil. Gemar memainkan lagu untuk orang lain, dia orang yang sangat berorientasi terhadap musik, dan ketika dia tidak tidur atau makan, dia bermain osu!taiko, atau sekedar iseng bermain video game retro!
+Dirancang oleh [\[ Glitch \]](https://osu.ppy.sh/users/3781400), Alisa merupakan salah satu entri dalam kontes desain maskot osu!taiko. Alisa telah bermain osu!taiko sejak kecil. Dikenal akan kegemarannya untuk memainkan lagu bagi orang lain, Alisa sangat peka terhadap musik, dan ketika dia tidak tidur atau makan, dia memainkan osu!taiko atau permainan video retro untuk bersenang-senang!
 
 ### Chirou
 
 ![Chirou](img/Chirou.png "Chirou")
 
-Didesain oleh [pyun](https://osu.ppy.sh/users/981534), Chirou adalah salah satu peserta dalam kontes perancangan maskot osu!taiko. Dia sangat keras dan menuntut, perfeksionis, dan tidak suka membuat kesalahan — terutama dalam ketukannya di osu!taiko. Tetapi dari penampilan luarnya yang terlihat kuat, jika kamu bisa mencari titik lemahnya, dia bisa menjadi pribadi yang lembut dan imut. Dia berusia 14 tahun, lahir pada tanggal 25 Oktober dengan golongan darah AB. Dia juga memiliki tinggi 4 kaki 11 inci dan berat 100 pon. Hobinya antara lain berlatih drum, selalu ingin hangat dengan jubahnya, dan mengumpulkan permata atau batu. Chirou telah membuat beberapa penampilan di berbagai pengiriman fanart pengguna.
+Dirancang oleh [pyun](https://osu.ppy.sh/users/981534), Chirou merupakan salah satu entri dalam kontes desain maskot osu!taiko. Chirou sangat tegas dan menuntut, perfeksionis, serta tidak suka membuat kesalahan — terutama dalam ketukannya di osu!taiko. Meskipun demikian, di balik penampilan luarnya yang terlihat keras, apabila kamu menemukan titik lemahnya, dia dapat berubah menjadi sosok yang lembut dan imut. Chirou berusia 14 tahun, terlahir pada tanggal 25 Oktober, dan memiliki golongan darah AB. Chirou juga memiliki tinggi 4 kaki 11 inci dan berat 100 pon. Hobi Chirou meliputi antara lain melatih drum, menghangatkan diri di dalam jubahnya, serta mengumpulkan permata atau batu. Chirou telah muncul dalam berbagai *fan art* kiriman pengguna.
 
 ### Taikonator
 
 ![Taikonator](img/Taikonator.png "Taikonator")
 
-Didesain oleh [Lemia-Chan](https://osu.ppy.sh/users/8506749), Taikonator, juga dikenal sebagai Taikonator 3000, adalah salah satu peserta dalam kontes merancang maskot osu!taiko. Dia mendapatkan beberapa daya tarik sebagai lelucon dalam komunitas dan popularitas dengan alasan yang tidak diketahui. Asal-usulnya tetap menjadi misteri, meskipun demikian, ia jauh lebih unik daripada maskot kiriman peserta lainnya dan banyak muncul dalam berbagai kiriman fanart pengguna.
+Dirancang oleh [Lemia-Chan](https://osu.ppy.sh/users/8506749), Taikonator, atau yang juga dikenal sebagai Taikonator 3000, merupakan salah satu entri dalam kontes desain maskot osu!taiko. Taikonator dikenal sebagai bahan candaan antar orang dalam (*inside joke*) dan populer atas alasan yang tidak diketahui. Asal-usulnya masih menjadi misteri; meskipun demikian, Taikonator jauh lebih unik dibanding rancangan maskot osu!taiko milik para peserta lainnya dan telah banyak muncul dalam berbagai *fan art* kiriman pengguna.
 
 ### Tama
 
 ![Tama](img/Tama.png "Tama")
 
-Dirancang oleh [crystalsuicine](https://osu.ppy.sh/users/9974), Tama adalah salah satu peserta yang lebih muda dalam kontes merancang maskot osu!taiko dengan usia 15 tahun, Tama memiliki gairah besar terhadap taiko. Dan badai petir. Dan terutama festival, di mana dia akan merebut takoyaki jenis apa pun yang bisa dia temukan. Selalu siap menghadapi tantangan, Tama menyembunyikan masa lalu yang sangat misterius di balik sikap mudanya.
+Dirancang oleh [crystalsuicine](https://osu.ppy.sh/users/9974), Tama merupakan salah satu entri termuda dalam kontes desain maskot osu!taiko dengan usia yang (konon katanya?) baru menginjak 15 tahun. Tama memiliki ketertarikan yang besar terhadap taiko. Dan badai petir. Dan terutama festival, di mana dia akan melahap takoyaki jenis apa pun yang dapat dia temukan. Tama selalu siap menghadapi segala tantangan, walaupun dia menyembunyikan masa lalu yang misterius di balik sifat mudanya.

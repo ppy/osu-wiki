@@ -70,23 +70,26 @@ Once a Global Moderator chooses to depart from the team, they may be granted the
 
 The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all of the team members. In addition to areas mentioned below, all GMT members take part in [reviewing visual and aural content included in beatmaps](/wiki/Rules/Visual_content_considerations#getting-your-image-assessed).
 
+**A member of the GMT may engage with any task within any category that they choose, regardless of their listed area of focus.** For example, a GMT member primarily responsible for chat moderation may also help with forum moderation.
+
 <!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
 
 | Name | Additional languages | Area of focus |
 | :-- | :-- | :-- |
+| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | Chinese, Malay, Cantonese, some Japanese | Mapping/modding community moderation |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | German | Chat moderation |
-| ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | Hungarian | Chat moderation |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Russian | Chat moderation |
-| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Serbian |  |
+| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Serbian | General moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Forum moderation |
-| ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | Dutch, some German |  |
+| ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | Dutch, some German | General moderation |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Tournament management[^task-Azer] |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | Chinese, Malay | Chat moderation |
+| ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  | Chat moderation, forum moderation |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Swedish, Spanish | Chat moderation, tournament management |
 | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  | Chat moderation |
 | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | Korean, Japanese | Chat moderation |
 | ::{ flag=FR }:: [Corne2Plum3](https://osu.ppy.sh/users/15646039) | French | Forum moderation |
-| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | Some Spanish |  |
+| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | Some Spanish | Tournament management |
 | ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | Spanish | Chat moderation |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | Forum moderation, technical support |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Technical support |
@@ -99,10 +102,9 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Mapping/modding community moderation |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Indonesian | Mapping/modding community moderation |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | French, Spanish | Chat moderation |
-| ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Chat moderation, mapping/modding community moderation |
 | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | Malay, some Chinese | Mapping/modding community moderation |
 | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | Cantonese, Chinese, Japanese | Chat moderation |
-| ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | Russian | Chat moderation |
+| ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | Russian | Chat moderation, forum moderation |
 | ::{ flag=JP }:: [KSHR](https://osu.ppy.sh/users/409957) | Japanese | Chat moderation |
 | ::{ flag=RU }:: [Kudou Chitose](https://osu.ppy.sh/users/9936528) | Russian | Chat moderation |
 | ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) | Finnish, some Swedish | Chat moderation |
@@ -121,6 +123,7 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | German, Serbian | Chat moderation, mapping/modding community moderation |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Official team presence |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | German | Tournament management |
+| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Cantonese, Chinese | General Moderation |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | Korean, Japanese | Chat moderation |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | Malay | Chat moderation |
 | ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | Polish | Skinning community moderation |
@@ -130,11 +133,14 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069) | Korean | Chat moderation |
 | ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772) | Japanese | Chat moderation |
 | ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | Swedish, Spanish | Chat moderation |
+| ::{ flag=CA }:: [Shad0wStar](https://osu.ppy.sh/users/16866460) |  | Mapping/modding community moderation |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | French, Spanish | Chat moderation |
 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | Indonesian | Chat moderation |
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | Indonesian, some Vietnamese | Chat moderation, forum moderation |
-| ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | German, Serbian | Forum moderation |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | Chinese | Chat moderation |
+| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | Korean | Mapping/modding community moderation |
+| ::{ flag=HU }:: [Spkz](https://osu.ppy.sh/users/2964029) | Hungarian | Chat moderation |
+| ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | German, Serbian | Forum moderation |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | Finnish | Chat moderation |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | Forum moderation, chat moderation |
 | ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | Russian | Chat moderation, wiki administration |
@@ -148,6 +154,7 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) | Indonesian | Chat moderation |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | Polish | Chat moderation |
 | ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) | <!-- TODO --> | Chat moderation |
+| ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | Spanish | Mapping/modding community moderation |
 
 ### Grouped by languages moderated
 
@@ -167,7 +174,7 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | `#german` | [Deutsch](https://osu.ppy.sh/community/forums/37) | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985), ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253), ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) |
 | `#greek` |  |  |
 | `#hebrew` |  |  |
-| `#hungarian` | [Magyar](https://osu.ppy.sh/community/forums/95) | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) |
+| `#hungarian` | [Magyar](https://osu.ppy.sh/community/forums/95) | ::{ flag=HU }:: [Spkz](https://osu.ppy.sh/users/2964029) |
 | `#indonesian` | [Indonesian](https://osu.ppy.sh/community/forums/73) | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991), ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) |
 | `#italian` | [Italiano](https://osu.ppy.sh/community/forums/36) |  |
 | `#japanese` | [日本語](https://osu.ppy.sh/community/forums/32) | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107), ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109), ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=JP }:: [KSHR](https://osu.ppy.sh/users/409957), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236) |
@@ -181,7 +188,7 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) |
 | `#thai` | [ภาษาไทย](https://osu.ppy.sh/community/forums/54) | ::{ flag=TH }:: [Trigonoculus](https://osu.ppy.sh/users/7627013) |
 | `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) |  |
-| `#ukrainian` |  | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) |
+| `#ukrainian` |  |  |
 | `#vietnamese` |  | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) |
 
 <!-- TODO: History section wanted (Chat operators/GreenBAT, etc, etc) -->

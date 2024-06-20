@@ -60,19 +60,20 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 
 | 名前 | その他の言語 | 注力分野 |
 | :-- | :-- | :-- |
+| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | 中国語、マレー語、広東語、部分的な日本語 | Mapping/modding コミュニティ モデレーション |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | ドイツ語 | チャットモデレーション |
-| ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | ハンガリー語 | チャットモデレーション |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | ロシア語 | チャットモデレーション |
-| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | セルビア語 |  |
+| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | セルビア語 | General moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | フォーラムモデレーション |
-| ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | オランダ語、部分的なドイツ語 |  |
+| ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | オランダ語、部分的なドイツ語 | General moderation |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | トーナメント運営 |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | 中国語、マレー語 | チャットモデレーション |
+| ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  | チャットモデレーション、フォーラムモデレーション |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | スウェーデン語、スペイン語 | チャットモデレーション、トーナメント運営 |
 | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  | チャットモデレーション |
 | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | 韓国語、日本語 | チャットモデレーション |
 | ::{ flag=FR }:: [Corne2Plum3](https://osu.ppy.sh/users/15646039) | フランス語 | フォーラムモデレーション |
-| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | 部分的なスペイン語 |  |
+| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | 部分的なスペイン語 | トーナメント運営 |
 | ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | スペイン語 | チャットモデレーション |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | フォーラムモデレーション、テクニカルサポート |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | テクニカルサポート |
@@ -85,10 +86,9 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Mapping/modding コミュニティ モデレーション |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | インドネシア語 | Mapping/modding コミュニティ モデレーション |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | フランス語、スペイン語 | チャットモデレーション |
-| ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  | チャットモデレーション、mapping/modding コミュニティ モデレーション |
 | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | マレー語、部分的な中国語 | Mapping/modding コミュニティ モデレーション |
 | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | 広東語、中国語、日本語 | チャットモデレーション |
-| ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | ロシア語 | チャットモデレーション |
+| ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | ロシア語 | チャットモデレーション、フォーラムモデレーション |
 | ::{ flag=JP }:: [KSHR](https://osu.ppy.sh/users/409957) | 日本語 | チャットモデレーション |
 | ::{ flag=RU }:: [Kudou Chitose](https://osu.ppy.sh/users/9936528) | ロシア語 | チャットモデレーション |
 | ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) | フィンランド語、部分的なスウェーデン語 | チャットモデレーション |
@@ -107,6 +107,7 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | ドイツ語、セルビア語 | チャットモデレーション、mapping/modding コミュニティ モデレーション |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | オフィシャルチームプレゼンス |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | ドイツ語 | トーナメント運営 |
+| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | 広東語、中国語 | General moderation |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | 韓国語、日本語 | チャットモデレーション |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | マレー語 | チャットモデレーション |
 | ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | ポーランド語 | Skinning community moderation |
@@ -116,11 +117,14 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069) | 韓国語 | チャットモデレーション |
 | ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772) | 日本語 | チャットモデレーション |
 | ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | スウェーデン語、スペイン語 | チャットモデレーション |
+| ::{ flag=CA }:: [Shad0wStar](https://osu.ppy.sh/users/16866460) |  | Mapping/modding コミュニティ モデレーション |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | フランス語、スペイン語 | チャットモデレーション |
 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | インドネシア語 | チャットモデレーション |
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | インドネシア語、部分的なベトナム語 | チャットモデレーション、フォーラムモデレーション |
-| ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | ドイツ語、セルビア語 | フォーラムモデレーション |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | 中国語 | チャットモデレーション |
+| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | 韓国語 | Mapping/modding コミュニティ モデレーション |
+| ::{ flag=HU }:: [Spkz](https://osu.ppy.sh/users/2964029) | ハンガリー語 | チャットモデレーション |
+| ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | ドイツ語、セルビア語 | フォーラムモデレーション |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | フィンランド語 | チャットモデレーション |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | フォーラムモデレーション、チャットモデレーション |
 | ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | ロシア語 | チャットモデレーション、wiki管理者 |
@@ -134,6 +138,7 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) | インドネシア語 | チャットモデレーション |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | ポーランド語 | チャットモデレーション |
 | ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | チャットモデレーション |
+| ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | スペイン語 | Mapping/modding コミュニティ モデレーション |
 
 ### モデレートされている言語別にグループ化
 
@@ -153,7 +158,7 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | `#german` | [Deutsch](https://osu.ppy.sh/community/forums/37) | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985), ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253), ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) |
 | `#greek` |  |  |
 | `#hebrew` |  |  |
-| `#hungarian` | [Magyar](https://osu.ppy.sh/community/forums/95) | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) |
+| `#hungarian` | [Magyar](https://osu.ppy.sh/community/forums/95) | ::{ flag=HU }:: [Spkz](https://osu.ppy.sh/users/2964029) |
 | `#indonesian` | [Indonesian](https://osu.ppy.sh/community/forums/73) | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991), ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) |
 | `#italian` | [Italiano](https://osu.ppy.sh/community/forums/36) |  |
 | `#japanese` | [日本語](https://osu.ppy.sh/community/forums/32) | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107), ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109), ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=JP }:: [KSHR](https://osu.ppy.sh/users/409957), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236) |
@@ -167,5 +172,5 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) |
 | `#thai` | [ภาษาไทย](https://osu.ppy.sh/community/forums/54) | ::{ flag=TH }:: [Trigonoculus](https://osu.ppy.sh/users/7627013) |
 | `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) |  |
-| `#ukrainian` |  | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) |
+| `#ukrainian` |  |  |
 | `#vietnamese` |  | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) |
