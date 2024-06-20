@@ -2,6 +2,7 @@
 layout: post
 title: "The Followpoint: YesMyDarknesss, the Master of osu!catch"
 date: 2024-05-28 11:00:00 +0000
+series: The Followpoint
 ---
 
 Read up on the latest interview with [YesMyDarknesss](https://osu.ppy.sh/users/4158549), the osu!catch #1 player.
