@@ -530,9 +530,9 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
 
 #### Qualifiers
 
-1. The Qualifiers Stage will happen in the first week of the tournament play. All of the registered players who were not screened out during screening are eligible to participate in the Qualifiers. 
-2. Each player can play the Qualifiers in sequence up to 2 times (Players may opt to skip the 2nd run).
-3. The Qualifiers Pool format will have 8 stages, and they are as followed:
+1. The Qualifiers Stage will happen in the first week of the tournament play. All of the registered players who were not screened out during screening are eligible to participate in the Qualifiers.
+2. Each player can play the Qualifiers in sequence up to 2 times (players may opt to skip the 2nd run).
+3. The Qualifiers pool format will have 8 stages, and they are as followed:
    - Stage 1: Accuracy/Tech
    - Stage 2: Speed/Delay
    - Stage 3: Early Mixed Hybrid
