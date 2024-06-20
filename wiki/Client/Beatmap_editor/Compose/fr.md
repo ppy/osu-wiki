@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 64083eac27b770106c8622e3b200d9bc53d827dc
 ---
 
 # Onglet Compose
