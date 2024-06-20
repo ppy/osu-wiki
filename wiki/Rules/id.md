@@ -1,3 +1,7 @@
+---
+no_native_review_since: 5e9fdb4c627a3fae13ab9a1e60e70d1e3aabf594
+---
+
 # Peraturan
 
 Peraturan berikut merupakan pedoman dasar kami dalam mewujudkan komunitas osu! yang menyenangkan dan ramah bagi semua.
