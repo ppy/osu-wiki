@@ -55,11 +55,11 @@ El encabezado del beatmap muestra el título y el artista proporcionados en el [
 
 Puedes seleccionar diferentes [dificultades](/wiki/Beatmap/Difficulty) a través del menú desplegable. Esto mostrará todas las dificultades disponibles, junto con las más antiguas, eliminadas y las que han tenido sugerencias/problemas. El número que aparece junto al nombre de una dificultad es el número de publicaciones no resueltas en esa dificultad específica. Es importante verificar dos veces este menú antes de enviar cualquier mod.
 
-## Opciones de búsqueda
+## Opciones de ordenación
 
-![](img/sorting-options-ES.png "Para tus necesidades de búsqueda")
+![](img/sorting-options-ES.png "Para tus necesidades de ordenación")
 
-Las opciones de búsqueda cambian la forma en que se ven las discusiones de beatmaps. Cuando se elige una opción, cambia tanto la línea de tiempo de modding como la sección de modding para incluir solo el tipo de publicación seleccionada. Esto es especialmente útil para ver publicaciones pendientes en una página de discusión. Las diferentes opciones incluyen:
+Las opciones de ordenación cambian la forma en que se ven las discusiones de beatmaps. Cuando se elige una opción, cambia tanto la línea de tiempo de modding como la sección de modding para incluir solo el tipo de publicación seleccionada. Esto es especialmente útil para ver publicaciones pendientes en una página de discusión. Las diferentes opciones incluyen:
 
 - `Mío` muestra tus propias publicaciones
 - `Notas` muestra cualquier nota del mapper o de los [Beatmap Nominators](/wiki/People/Beatmap_Nominators)
@@ -135,11 +135,11 @@ Si publicas en la pestaña `Línea de tiempo`, debes incluir una marca de tiempo
 
 Las discusiones son donde se colocan las publicaciones del [campo de envío](#campo-de-envío) una vez enviadas. Los usuarios que visiten una página de discusión pueden ver las publicaciones realizadas por todos los demás usuarios y podrán participar en la discusión sobre las publicaciones. Esto se hace haciendo clic en los botones `Responder` o `Contestar` debajo de una publicación y escribiendo una respuesta. Después de terminar una respuesta, al presionar `Entrar` o hacer clic en `Responder` se enviará a la discusión.
 
-El creador del beatmap y los autores de las publicaciones de mods tienen la capacidad de cerrar problemas con el botón `Marcar como resuelto`. Esto marca que el problema se ha tratado con otros usuarios y lo elimina de la [opción de búsqueda](#opciones-de-búsqueda) `Pendiente`. Cualquier usuario puede volver a abrir publicaciones de mods agregando más respuestas a una publicación y haciendo clic en `Responder y reabrir`. Esto se usa cuando los modders se encuentran con problemas cerrados que no se han solucionado por completo, o cuando un tema necesita más discusión.
+El creador del beatmap y los autores de las publicaciones de mods tienen la capacidad de cerrar problemas con el botón `Marcar como resuelto`. Esto marca que el problema se ha tratado con otros usuarios y lo elimina de la [opción de ordenación](#opciones-de-ordenación) `Pendiente`. Cualquier usuario puede volver a abrir publicaciones de mods agregando más respuestas a una publicación y haciendo clic en `Responder y reabrir`. Esto se usa cuando los modders se encuentran con problemas cerrados que no se han solucionado por completo, o cuando un tema necesita más discusión.
 
 ### Ordenar discusiones
 
-Las discusiones se pueden ordenar con los botones debajo del título `Discusiones`. Inicialmente, las publicaciones de la pestaña `Línea de tiempo` se ordenarán cronológicamente según la primera marca de tiempo proporcionada. Las publicaciones de `General (Todas las dificultades)` y `General (Nombre de la dificultad)` se ordenarán por última actualización. Ten en cuenta que las [opciones de búsqueda](#opciones-de-búsqueda) seleccionadas también cambiarán lo que se muestra aquí. Los botones `Contraer todo` y `Expandir todo` en la parte superior del campo de discusión cambian la forma en que se ven las discusiones, que mostrarán/ocultarán las publicaciones respectivamente.
+Las discusiones se pueden ordenar con los botones debajo del título `Discusiones`. Inicialmente, las publicaciones de la pestaña `Línea de tiempo` se ordenarán cronológicamente según la primera marca de tiempo proporcionada. Las publicaciones de `General (Todas las dificultades)` y `General (Nombre de la dificultad)` se ordenarán por última actualización. Ten en cuenta que las [opciones de ordenación](#opciones-de-ordenación) seleccionadas también cambiarán lo que se muestra aquí. Los botones `Contraer todo` y `Expandir todo` en la parte superior del campo de discusión cambian la forma en que se ven las discusiones, que mostrarán/ocultarán las publicaciones respectivamente.
 
 ### Pulgares arriba/abajo
 
