@@ -47,7 +47,7 @@ NAT members who are primarily handling this category make sure that BNs and othe
 
 Dividing the NAT workload into two main categories is necessary for the overall organisation and productivity of the group, allowing for a more streamlined assignment of responsibilities. Delegating tasks keeps NAT members from being overwhelmed while simultaneously avoiding a diffusion of responsibility.
 
-**A member of the NAT can engage with any tasks within any category that they choose, despite their listed primary responsibilities.** For example, an NAT member primarily responsible for evaluations may also help with structural-related tasks, or vice versa.
+**A member of the NAT may engage with any task within any category that they choose, regardless of their listed primary responsibilities.** For example, an NAT member primarily responsible for evaluations may also help with structural-related tasks, or vice versa.
 
 ## Activity
 
