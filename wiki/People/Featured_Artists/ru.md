@@ -53,9 +53,11 @@ outdated_since: 9614c00afb2d756879c172ff071d00e16959bbec
 
 | Пользователь | Исполнитель |
 | :-- | :-- |
+| ::{ flag=GB }:: [633397](https://osu.ppy.sh/users/11392390) | [633397](https://osu.ppy.sh/beatmaps/artists/419) |
 | ::{ flag=JP }:: [69\_de\_74](https://osu.ppy.sh/users/28700783) | [69 de 74](https://osu.ppy.sh/beatmaps/artists/268) |
 | ::{ flag=JP }:: [7\_7](https://osu.ppy.sh/users/7491106) | [7\_7](https://osu.ppy.sh/beatmaps/artists/356) |
 | ::{ flag=JP }:: [A\_\_](https://osu.ppy.sh/users/12011880) | [A?](https://osu.ppy.sh/beatmaps/artists/173) |
+| ::{ flag=US }:: [Absolute Zero](https://osu.ppy.sh/users/4847256) | [0 K](https://osu.ppy.sh/beatmaps/artists/424) |
 | ::{ flag=US }:: [antiPLUR](https://osu.ppy.sh/users/7318723) | [antiPLUR / Internet Death Machine](https://osu.ppy.sh/beatmaps/artists/24) |
 | ::{ flag=AU }:: [aquellex](https://osu.ppy.sh/users/3137790) | [Aquellex](https://osu.ppy.sh/beatmaps/artists/380) |
 | ::{ flag=HK }:: [Ardolf](https://osu.ppy.sh/users/12359061) | [Ardolf](https://osu.ppy.sh/beatmaps/artists/263) |
@@ -67,6 +69,7 @@ outdated_since: 9614c00afb2d756879c172ff071d00e16959bbec
 | ::{ flag=JP }:: [DJ Raisei](https://osu.ppy.sh/users/9892920) | [DJ Raisei](https://osu.ppy.sh/beatmaps/artists/204) |
 | ::{ flag=KR }:: [Down](https://osu.ppy.sh/users/4694602) | [Down](https://osu.ppy.sh/beatmaps/artists/350) |
 | ::{ flag=US }:: [erikmcclure](https://osu.ppy.sh/users/19898921) | [Erik McClure](https://osu.ppy.sh/beatmaps/artists/125) |
+| ::{ flag=CA }:: [exyl_sounds](https://osu.ppy.sh/users/16759928) | [Exyl](https://osu.ppy.sh/beatmaps/artists/285) |
 | ::{ flag=GR }:: [Geoxor](https://osu.ppy.sh/users/8112146) | [Geoxor](https://osu.ppy.sh/beatmaps/artists/133) |
 | ::{ flag=NL }:: [happy30](https://osu.ppy.sh/users/27767) | [happy30](https://osu.ppy.sh/beatmaps/artists/317) |
 | ::{ flag=SE }:: [Helblinde](https://osu.ppy.sh/users/48053) | [Helblinde](https://osu.ppy.sh/beatmaps/artists/5), [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15) (участник) |

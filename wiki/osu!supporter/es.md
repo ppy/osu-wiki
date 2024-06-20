@@ -105,7 +105,7 @@ Después de obtener osu!supporter, algunos elementos visuales y auditivos de la 
 | `welcome.wav` | El sonido de «welcome to osu!» que suena cuando el juego se inicia |
 | `seeya.wav` | El sonido de «see ya next time» que suena cuando el juego se cierra |
 
-Para más detalles, véase [Skinning/Interfaz § Menú principal](/wiki/Skinning/Interface#main-menu) y [Skinning/Sonidos § Menú principal](/wiki/Skinning/Sounds#main-menu).
+Para más detalles, véase [Skinning/Interfaz § Menú principal](/wiki/Skinning/Interface#menú-principal) y [Skinning/Sonidos § Menú principal](/wiki/Skinning/Sounds#en-el-menú-principal).
 
 ### Búsqueda extendida
 

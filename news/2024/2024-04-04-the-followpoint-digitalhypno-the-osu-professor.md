@@ -2,6 +2,7 @@
 layout: post
 title: "The Followpoint: DigitalHypno, the osu! Professor"
 date: 2024-04-04 15:00:00 +0000
+series: The Followpoint
 ---
 
 Read up on the latest interview with DigitalHypno, a top player of tournament and content creation fame.
