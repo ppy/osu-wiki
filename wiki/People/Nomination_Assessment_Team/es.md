@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: 6d3e4eaa4341b58ce924a7800aeadfe1c5879368
 tags:
   - NAT
   - equipo de evaluación de nominaciones
@@ -40,17 +38,17 @@ Los miembros del NAT asignados a la categoría estructural no son responsables d
 - **Desarrollo**: Desarrollar y mantener herramientas y sitios web para ayudar a mejorar el proceso de clasificación (como [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier), [Aiess](https://github.com/Naxesss/Aiess), o [el sitio web de gestión de los BN](https://bn.mappersguild.com/home)).
 - **Moderación**: Manejar los reportes de los usuarios y evaluar la conducta inapropiada de los Beatmap Nominators, así como procesar las revisiones de contenido de los beatmaps. Esta subcategoría es un esfuerzo conjunto entre el NAT y el GMT.
 - **Mantenimiento misceláneo**: Incluye pero no se limita a:
-  - Manejar los [vetos](/wiki/People/Beatmap_Nominators/Beatmap_Veto).
-  - Mantener la [prueba del RC](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test).
+  - Gestionar los [vetos](/wiki/People/Beatmap_Nominators/Beatmap_Veto).
+  - Mantener el [subforo Beatmap Management](https://osu.ppy.sh/community/forums/115).
   - Juzgar el impacto de los restablecimientos de nominaciones.[^impact-rating]
 
-Los miembros del NAT que manejan principalmente esta categoría se aseguran de que los BN y otros miembros de la comunidad de mapping/modding permanezcan informados y se sientan escuchados, además de mantener los componentes necesarios para que todo funcione en la escena de mapping/modding. Los usuarios que pertenecen a esta categoría están formados por evaluadores experimentados que prefieren centrarse en cuestiones de gestión relacionadas con la escena de mapping/modding.
+Los miembros del NAT que se ocupan principalmente de esta categoría se aseguran de que los BN y otros miembros de la comunidad de mapping/modding permanezcan informados y se sientan escuchados, además de mantener los componentes necesarios para que todo siga funcionando en la escena del mapping/modding. Los usuarios que pertenecen a esta categoría están formados por miembros del NAT experimentados que prefieren centrarse en asuntos de gestión relacionados con la escena del mapping/modding.
 
 ---
 
 Es necesario dividir la carga de trabajo del NAT en dos categorías principales para la organización general y la productividad del grupo, lo que permite una asignación de responsabilidades más simplificada. Delegar tareas evita que los miembros del NAT se sientan abrumados y, al mismo tiempo, evita la difusión de la responsabilidad.
 
-**Un miembro del NAT puede participar en cualquier tarea dentro de cualquier categoría que elija, a pesar de las responsabilidades principales enumeradas.** Por ejemplo, un miembro del NAT que sea principalmente responsable de las evaluaciones también puede ayudar con tareas relacionadas con la estructura, o viceversa.
+**Un miembro del NAT puede realizar cualquier tarea dentro de cualquier categoría que elija, independientemente de sus responsabilidades principales enumeradas.** Por ejemplo, un miembro del NAT que sea principalmente responsable de las evaluaciones también puede ayudar con tareas relacionadas con la estructura, o viceversa.
 
 ## Actividad
 
@@ -77,15 +75,15 @@ Los miembros del NAT reciben los siguientes beneficios:
 
 Antes de unirse al NAT, un usuario debe ser miembro completo de los Beatmap Nominators o un antiguo miembro del NAT que todavía esté involucrado en la comunidad. La mayoría de los candidatos del NAT se consideran inicialmente en función de su compromiso de ayudar a la comunidad de mapping y modding, y una mayor demostración de su capacidad para contribuir a una multitud de responsabilidades del NAT suele ser la base para ser promovido.
 
-Dado que todos los nuevos miembros del NAT comienzan en la categoría de evaluación, es importante que los candidatos del NAT sean excepcionales al evaluar la competencia de los demás. Los BN completos pueden tener la oportunidad de participar en [evaluaciones simuladas](/wiki/People/Nomination_Assessment_Team/Evaluations#mock-evaluations) o unirse temporalmente al equipo de evaluación, dándoles la oportunidad de practicar. Los candidatos del NAT tienen muchas más posibilidades de ser promovidos si sus evaluaciones son exhaustivas y llegan a conclusiones similares a las del NAT (o si tienen un razonamiento de apoyo).
+Dado que todos los nuevos miembros del NAT comienzan en la categoría de evaluación, es importante que los candidatos del NAT sean excepcionales al evaluar la competencia de los demás. A los BN completos se les da la posibilidad de unirse temporalmente al equipo de evaluación, lo que les da la oportunidad de practicar. Los candidatos del NAT tienen muchas más posibilidades de ser promovidos si sus evaluaciones son exhaustivas y llegan a conclusiones similares a las del NAT (o si tienen un razonamiento de apoyo).
 
 El NAT vigila a los posibles candidatos del NAT durante largos períodos de tiempo y ocasionalmente se reúne para decidir si un candidato debe ser promovido, de manera similar a como se realizan las evaluaciones de los BN. Los BN también pueden preguntar acerca de unirse al NAT si desean recibir comentarios y asegurarse de que estén siendo considerados. Sin embargo, dependiendo de la actividad y el conjunto de habilidades de los miembros actuales del NAT, es posible que no haya necesidad de nuevos. Es probable que los nuevos miembros del NAT sean promovidos solo cuando uno de los miembros actuales se vuelva menos activo, o haya nuevas cargas de trabajo que requieran más miembros, etc.
 
 ### Unirse a la categoría estructural
 
-Los miembros del NAT que demuestren competencia en las tareas estructurales descritas anteriormente, hasta el punto en que sus contribuciones actuales o planificadas sean indispensables y superen con creces su necesidad como evaluador, pueden optar por cambiar su categoría designada. Esto es juzgado por los líderes del NAT y manejado caso por caso.
+Los miembros actuales o anteriores del NAT que demuestren competencia en las tareas estructurales descritas anteriormente, hasta el punto en que sus contribuciones actuales o planificadas sean indispensables y superen con creces su necesidad como evaluador, pueden optar por unirse a la categoría estructural. Esto es juzgado por los líderes del NAT y manejado caso por caso.
 
-Antes de realizar un cambio de categoría, se verifica la cordura de la adición con el resto del NAT en caso de objeciones. Si no surgen problemas, el miembro en cuestión estará sujeto a diferentes expectativas de actividad según su situación específica. Si su contribución a las tareas estructurales se considera deslucida o innecesaria en algún momento posterior, nuevamente según lo juzguen los líderes del NAT, entonces serán trasladados nuevamente a la categoría de evaluación.
+Antes de realizar dicha adición, se comprueba la validez de la misma con el resto del NAT en caso de objeciones. Si no surgen problemas, el miembro en cuestión estará sujeto a diferentes expectativas de actividad según su situación específica. Si su contribución a las tareas estructurales se considera deslucida o innecesaria en algún momento posterior, nuevamente a juicio de los líderes del NAT, se les retirará de esta categoría.
 
 ## Salida del NAT
 
@@ -106,9 +104,7 @@ Los antiguos miembros del NAT que actualmente tienen acceso interno son:
 
 A partir de marzo de 2023, el NAT decidió volver a adoptar el concepto de liderazgo, que [se usaba anteriormente](/wiki/People/Quality_Assurance_Team/QAT_Leaders) en el [QAT](/wiki/People/Quality_Assurance_Team). El líder del NAT tiene la responsabilidad de ambas categorías, la de evaluación y la de estructural, por lo que puede supervisar y participar en todos los aspectos del NAT.
 
-El líder del NAT actual es:
-
-- ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
+El líder actual del NAT es ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976).
 
 ### Responsabilidades
 
@@ -118,7 +114,7 @@ El líder del NAT tiene como objetivo cubrir las siguientes tareas:
 - **Comunicación:**
   - Actuar como puente entre el osu! team, el NAT y la comunidad de mapping, comunicando constantemente cualquier cambio, inquietud o demanda planteada.
   - Fomentar la participación en discusiones internas y externas involucrando de manera proactiva a todas las partes, manteniendo las discusiones organizadas y facilitando la combinación de diferentes puntos de vista para formar un curso de acción práctico.
-  - Promover ideas nuevas o existentes que pueden perderse fácilmente en medio de discusiones/propuestas de los criterios de clasificación.
+  - Promover ideas nuevas o existentes que pueden perderse fácilmente en medio de discusiones y propuestas.
 - **Resolución de problemas:** Tomar la iniciativa para participar en la toma de decisiones críticas y manejar las inquietudes delicadas planteadas por el equipo o la comunidad.
 
 ## Miembros del equipo
@@ -183,7 +179,7 @@ Los siguientes miembros del NAT son exclusivamente responsables de las tareas es
 | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Manejo de discusiones internas, asuntos y documentación |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Mantenimiento de [Aiess](https://github.com/Naxesss/Aiess) y [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) |
-| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Mantenimiento de los criterios de clasificación y moderación del mapping/modding |
+| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Mantenimiento de los criterios de clasificación |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Desarrollo del [sitio web de gestión de los BN](https://bn.mappersguild.com) |
 
 Los siguientes miembros del NAT son principalmente evaluadores, pero también contribuyen a tareas estructurales:
@@ -195,7 +191,6 @@ Los siguientes miembros del NAT son principalmente evaluadores, pero también co
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Manejo de reportes de contenido |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Desarrollo de [Nomination Planner](https://bnplanner.greaper.net/beatmaps) y del [plugin de MV de osu!catch](https://github.com/Darius-Wattimena/MapsetChecksCatch) |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Liderazgo del NAT, desarrollo del [sitio web de gestión de los BN](https://bn.mappersguild.com) y del [plugin de MV de osu!taiko](https://github.com/Hiviexd/MVTaikoChecks) |
-| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | Organización de eventos para BN |
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Desarrollo del [plugin de MV de osu!mania](https://github.com/MChecaH/ManiaCheck) |
 
 ---
@@ -204,4 +199,4 @@ Además, el bot del [Nomination Assessment Team](https://osu.ppy.sh/users/661658
 
 ## Notas
 
-[^impact-rating]: Este proceso implica verificar cada restablecimiento de nominaciones y asignarle una etiqueta de «menor» o «notable» para referencia futura en las evaluaciones.
+[^impact-rating]: Este proceso implica verificar cada restablecimiento de nominaciones y asignarle una etiqueta de «menor», «notable» o «severo» para referencia futura en las evaluaciones.

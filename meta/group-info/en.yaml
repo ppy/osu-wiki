@@ -15,6 +15,7 @@ gmt:
     beatmap: beatmap moderation
     chat: chat moderation
     forum: forum moderation
+    general: general moderation
     team: official team presence
     dev: osu! development
     player: player support
