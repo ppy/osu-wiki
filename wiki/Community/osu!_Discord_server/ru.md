@@ -5,25 +5,25 @@ tags:
   - разработка
 ---
 
-# osu! Discord сервер
+# Дискорд-сервер osu!
 
-**osu!** Discord сервер, ранее известный как **osu!dev**, это официальный [Discord](https://discord.com/) сервер osu! для целей, связанных с разработкой. Сервер служит центром для обсуждения и работы над исходным кодом и комьюнити проектами osu!. Это основное место для вклада в развитие osu! и общения с [командой osu!](/wiki/People/osu!_team).
+Дискорд-сервер **osu!**, ранее известный как **osu!dev**, — это официальный [Discord](https://discord.com/)-сервер, посвящённый обсуждению разработки osu!, где ведутся дискуссии и совместная работа над компонентами osu! и различными проектами сообщества. Он является основным каналом для связи с [командой osu!](/wiki/People/osu!_team) и участием в разработке игры.
 
 Постоянная ссылка-приглашение на сервер: <https://discord.gg/ppy>.
 
-Новичкам на сервере рекомендуется представиться в канале `#introductions`, но это не является обязательным для взаимодействия с остальной частью сервера.
+Новичкам рекомендуется представиться в канале `#introductions`, но это не является обязательным условием для общения на сервере.
 
 ## Каналы
 
-osu! Discord сервер включает в себя множество каналов, многие из которых сосредоточены на разработке одного или двух конкретных проектов.
+Дискорд-сервер osu! содержит ряд каналов, большинство из которых посвящены разработке одного-двух конкретных проектов.
 
 ### Общие
 
 | Канал | Описание |
 | :-- | :-- |
 | `#welcome` | Информация о сервере |
-| `#announcements` | Объявления сервера |
-| `#introductions` | Самопредставления |
+| `#announcements` | Объявления |
+| `#introductions` | Приветственные сообщения |
 | `#general` | Общие обсуждения и устранение неполадок, связанных с osu! |
 
 ### Клиент / Веб
@@ -33,7 +33,7 @@ osu! Discord сервер включает в себя множество кан
 | `#osu` | [osu!(lazer)](/wiki/Client/Release_stream/Lazer) |
 | `#osu-framework` | [osu!framework](https://github.com/ppy/osu-framework) |
 | `#osu-web` | [osu!web](https://github.com/ppy/osu-web) |
-| `#github-feed` | Лента событий для различных [репозиториев ppy на GitHub](https://github.com/ppy) |
+| `#github-feed` | Лента событий в различных [репозиториях ppy на GitHub](https://github.com/ppy) |
 | `Meetings` (Канал "Stage") | [osu! community meetings](/wiki/Community/osu!_community_meetings) и встречи разработчиков |
 
 ### Расчёт сложности
@@ -58,8 +58,8 @@ osu! Discord сервер включает в себя множество кан
 | `#tournaments` | [Турниры](/wiki/Tournaments) и [официальная поддержка турниров](/wiki/Tournaments/Official_support) |
 | `#community-meetings` | [osu! community meetings](/wiki/Community/osu!_community_meetings) |
 
-### Архивированные
+### Архивированные каналы
 
 | Канал | Описание |
 | :-- | :-- |
-| `#modding` | [Modding v2](/wiki/Beatmap_discussion) и [процедура ранкинга](/wiki/Beatmap_ranking_procedure) |
+| `#modding` | [Modding v2](/wiki/Beatmap_discussion) и [система ранкинга карт](/wiki/Beatmap_ranking_procedure) |
