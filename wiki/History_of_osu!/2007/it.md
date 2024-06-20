@@ -29,6 +29,7 @@ Entro la fine di luglio, il sistema menu è stato modificato per aggiungere un p
 ## Agosto
 
 Il menu principale è stato aggiornato con un nuovo aspetto e l'editor ha ricevuto molte nuove funzionalità, incluso il supporto per il copia-e-incolla. Sono stati aggiunti la scheda menu e il menu contestuale, rendendo le funzionalità dell'editor più accessibili rispetto a prima; gli slider erano supportati più ampiamente con la presenza dei [tick degli slider](/wiki/Gameplay/Hit_object/Slider/Slider_tick); era presente un [impilamento](/wiki/Beatmapping/Mapping_techniques/Stack) dei [cerchi colpiti](/wiki/Gameplay/Hit_object/Hit_circle); i punteggi più alti a livello locale erano meglio supportati; e il formato del file `.osu` è stato rivisto e completamente rinnovato, ma includeva la conversione dei file più vecchi nel nuovo formato.
+
 ![](img/2007-08_01.jpg "Schermata di selezione del brano per la modalità di riproduzione")
 
 ![](img/2007-08_02.jpg "Evoluzione delle raffiche di colpi")
