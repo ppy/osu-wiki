@@ -1,4 +1,6 @@
 no_native_review: true
+outdated_since: a8383bfa1e96690b7f254a39672b15781e148634
+outdated_translation: true
 
 separator: ", "
 alumni:
@@ -16,12 +18,12 @@ gmt:
     beatmap: kiểm duyệt beatmap
     chat: kiểm duyệt chat
     forum: kiểm duyệt diễn đàn
-    team: đại diện chính thức cho đội ngũ
+    team: đại diện chính thức
     dev: osu!dev
     player: hỗ trợ người chơi
     support: hỗ trợ kỹ thuật
     tournaments: quản lý giải đấu
-    wiki: quản trị wiki
+    wiki: quản lý wiki
     mapping: kiểm duyệt mảng mapping/modding
     skinning: kiểm duyệt mảng skinning
     leadership: trưởng nhóm
