@@ -1,3 +1,7 @@
+---
+no_native_review_since: 3e13544563f9c2c5e457eb1b87128f8219535ad9
+---
+
 # Melaporkan perbuatan yang tidak pantas
 
 osu! memiliki [tim moderator](/wiki/People/Global_Moderation_Team) yang berkomitmen untuk menjaga permainan osu! beserta ekosistemnya bersih dan aman. Apabila kamu menemukan perbuatan yang melanggar peraturan atau konten yang tidak pantas, mohon laporkan hasil temuanmu melalui salah satu jalur laporan yang tertera di bawah ini. Di samping itu, kamu juga dapat menghubungi salah satu moderator yang sedang *online* secara langsung apabila laporanmu belum ditanggapi setelah sekian waktu — mohon lakukan hal ini hanya sebagai upaya terakhirmu.
