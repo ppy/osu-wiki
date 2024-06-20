@@ -5,7 +5,7 @@ date: 2024-06-20 22:00:00 +0000
 series: Project Loved
 ---
 
-It's getting warmer! Why not enjoy some Loved picks with the heat?
+Summer is right around the corner, and these month's Loved picks are just what you need to cool yourself down.
 
 ![](/wiki/shared/news/banners/project-loved-2.jpg)
 
@@ -459,7 +459,7 @@ Needless to say that this mapset deserves the spot it needs in the Loved section
 
 ---
 
-From us all in the ever hardworking [Project Loved team](https://loved.sh/contributors), we hope you enjoy this month's selection and stay tuned for July! All the passing maps with appear in the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end. Don't forget to make your voice heard, or we'll tell the sun to give you some *extra* attention~
+From us all in the ever hardworking [Project Loved team](https://loved.sh/contributors), we hope you enjoy this month's selection and stay tuned for July! All the passing maps will appear in the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end. Don't forget to make your voice heard, or we'll tell the sun to give you some *extra* attention~
 
 If you'd like to learn more about Project Loved, check out the [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/). You can also check out the `#osu-loved` channel of the [osu! Discord server](https://discord.com/invite/ppy) if there are any questions, concerns, or you'd like help out.
 
