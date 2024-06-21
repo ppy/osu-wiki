@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Skinning Contest: Unchained - Voting Open"
-date: 2024-04-09 15:30:00 +0000
+date: 2024-06-23 12:00:00 +0000
 ---
 
 The skinning community let their creativity run wild, and now it's time to cast your votes and decide upon your favourites!
 
-![](/wiki/shared/news/2024-06-09-skinning-contest-unchained-voting/banner.jpg)
+![](/wiki/shared/news/2024-06-23-skinning-contest-unchained-voting/banner.jpg)
 
 The submission phase has officially ended on May 24th, and after a lot of hours put in by the skinship team in order to validate and screen all the entries, it's finally time to move on to the voting phase.
 
