@@ -58,8 +58,6 @@ Millions of you have asked for it... and we listened. For this month's **first**
 165 BPM, 4:28 | 5.53★, 7.01★\
 *description written by [megumic](https://osu.ppy.sh/users/7537133)*
 
-I've had enough. I'm hiring [OnLoong](https://osu.ppy.sh/users/13524541) to send all of you to jail. Come, Mr. Officer, take them away. UI BEEEEEEEEEEEAAAAAAAM!!!!!!!!!!!!!!!!!!!!!
-
 Following community suggestions, from this month onwards we'll be having two maps for the *Popular Playcounts* category, so let's continue with [Shukusei!! Loli-kami Requiem\*](https://osu.ppy.sh/beatmapsets/2058802)!
 
 Challenge yourself on the top difficulty peaking at 7.04★, filled with 165 BPM triples, spaced streams and interesting sliders, for over 4 minutes! There is also an easier 5.53★ difficulty if you're not ready for the big leagues.
