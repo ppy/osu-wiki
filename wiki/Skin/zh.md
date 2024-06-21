@@ -15,4 +15,4 @@
 - [已完成皮肤论坛](https://compendium.skinship.xyz/)
 - [Circle People Pro Player Skin Collection](https://circle-people.com/skins/)
 
-除了以上集合之外，许多玩家（包括排名高的玩家）会在他们的[用户页](/wiki/osu!supporter#editable-profile-section)、视频描述中发出自己使用的皮肤，或者使用 Twitch 聊天命令提供皮肤链接。
+除了以上集合之外，许多玩家（包括排名高的玩家）会在他们的[用户页](/wiki/osu!supporter#可编辑的个人资料区块)、视频描述中发出自己使用的皮肤，或者使用 Twitch 聊天命令提供皮肤链接。
