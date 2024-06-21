@@ -131,7 +131,6 @@ tags:
 | 63 | **Choke Gang** | ::{ flag=MY }:: [\[RGK\]Cheoky29](https://osu.ppy.sh/users/14901072), ::{ flag=MY }:: [StyGix](https://osu.ppy.sh/users/7745408) |
 | 64 | **1217HOW** | ::{ flag=TW }:: [Pdog4ni](https://osu.ppy.sh/users/14581544), ::{ flag=TW }:: [\[Jrc\]tommy125](https://osu.ppy.sh/users/15189878) |
 
-
 More detailed qualifiers results can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSaec74DtFx56vJl1roud3YV4GPFA54gcn7lpiaKm4Q8uYpCJ32lQ1b2vdlV7DGBVn6Mq_OVpXO6kN5/pubhtml).
 
 ## Groups
