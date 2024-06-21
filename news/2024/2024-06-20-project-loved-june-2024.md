@@ -38,7 +38,7 @@ The osu! Loved candidates were chosen by [BATBALL](https://osu.ppy.sh/users/1517
 
 <div align="center">
   <video width="95%" controls>
-    <source src="https://assets.ppy.sh/project-loved/2024/jun24-osu.mp4" type="video/mp4" preload="none">
+    <source src="https://assets.ppy.sh/project-loved/2024/jun24-osu.mp4?1" type="video/mp4" preload="none">
   </video>
 </div>
 
