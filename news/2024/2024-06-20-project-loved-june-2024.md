@@ -52,20 +52,6 @@ The osu! Loved candidates were chosen by [BATBALL](https://osu.ppy.sh/users/1517
 
 Millions of you have asked for it... and we listened. For this month's **first** *Popular Playcounts* pick, [TheFatRat, Slaydit, Anjulie - Stronger](https://osu.ppy.sh/beatmapsets/1225170#osu/2548106), mapped by [OverXon](https://osu.ppy.sh/users/13088868). One of the biggest titans of the "5\* Jump Training" mapping genre, which is extremely popular between newer players. With five difficulties ranging between 4 and 5 stars so you can jump around while listening to a certified banger. The playerbase has certainly decided, with over 4 million playcount and over 2,800 favourites, that this needs its time in the spotlight. So, here we are! Do you want to see more of this Loved? Time to vote!
 
-[![](/wiki/shared/news/2024-06-20-project-loved-june-2024/2058802.jpg)](https://osu.ppy.sh/community/forums/topics/1938039)
-
-[Shigure Ui (9-sai) - Shukusei!! Loli-kami Requiem\*](https://osu.ppy.sh/beatmapsets/2058802#osu) by [OnLoong](https://osu.ppy.sh/users/13524541)\
-165 BPM, 4:28 | 5.53★, 7.01★\
-*description written by [megumic](https://osu.ppy.sh/users/7537133)*
-
-I've had enough. I'm hiring [OnLoong](https://osu.ppy.sh/users/13524541) to send all of you to jail. Come, Mr. Officer, take them away. UI BEEEEEEEEEEEAAAAAAAM!!!!!!!!!!!!!!!!!!!!!
-
-Following community suggestions, from this month onwards we'll be having two maps for the *Popular Playcounts* category, so let's continue with [Shukusei!! Loli-kami Requiem\*](https://osu.ppy.sh/beatmapsets/2058802)!
-
-Challenge yourself on the top difficulty peaking at 7.04★, filled with 165 BPM triples, spaced streams, and... interesting sliders, for over 4 minutes! There is also an easier 5.53★ difficulty if you're not ready to get exposed yet... t-to the harder patterns! I mean, I don't really have that high of an expectation from you weaklings anyway. Disgusting.
-
-Want this map Loved? Vote now to beat the ~~allegations~~ graveyard!
-
 [![](/wiki/shared/news/2024-06-20-project-loved-june-2024/67243.jpg)](https://osu.ppy.sh/community/forums/topics/1938038)
 
 [REDALiCE - Great nano desu](https://osu.ppy.sh/beatmapsets/67243#osu) by [terametis](https://osu.ppy.sh/users/102152)\
