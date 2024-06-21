@@ -16,7 +16,7 @@ As mentioned in the [announcement news post](https://osu.ppy.sh/home/news/2024-0
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/videoseries?list=PLA2Nwtxa4WMqNujKzed748MxnJ0BfZ6YY" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Made up your mind yet? If so, head over to the [contest page](https://osu.ppy.sh/community/contests/178) and *unleash* your **3 votes**! The voting phase will last for the next **14 days**, so if you haven't decided yet, there is plenty of time to do so.
+Made up your mind yet? If so, head over to the [contest page](https://osu.ppy.sh/community/contests/208) and *unleash* your **3 votes**! The voting phase will last for the next **14 days**, so if you haven't decided yet, there is plenty of time to do so.
 
 If you need any more information about the contest, feel free to check out the [wiki article](/wiki/Contests/Skinning_Contest/5) and [forum thread](https://osu.ppy.sh/community/forums/topics/1906590?n=1). If you are interested in becoming a member of the skinning community, meeting the staff, or just complimenting the contestants, feel free to join the [skinship Discord server](https://discord.skinship.xyz/)!
 
