@@ -38,7 +38,7 @@ The osu! Loved candidates were chosen by [BATBALL](https://osu.ppy.sh/users/1517
 
 <div align="center">
   <video width="95%" controls>
-    <source src="https://assets.ppy.sh/project-loved/2024/jun24-osu.mp4" type="video/mp4" preload="none">
+    <source src="https://assets.ppy.sh/project-loved/2024/jun24-osu.mp4?1" type="video/mp4" preload="none">
   </video>
 </div>
 
@@ -51,18 +51,6 @@ The osu! Loved candidates were chosen by [BATBALL](https://osu.ppy.sh/users/1517
 *description written by [Mismagius](https://osu.ppy.sh/users/19048)*
 
 Millions of you have asked for it... and we listened. For this month's **first** *Popular Playcounts* pick, [TheFatRat, Slaydit, Anjulie - Stronger](https://osu.ppy.sh/beatmapsets/1225170#osu/2548106), mapped by [OverXon](https://osu.ppy.sh/users/13088868). One of the biggest titans of the "5\* Jump Training" mapping genre, which is extremely popular between newer players. With five difficulties ranging between 4 and 5 stars so you can jump around while listening to a certified banger. The playerbase has certainly decided, with over 4 million playcount and over 2,800 favourites, that this needs its time in the spotlight. So, here we are! Do you want to see more of this Loved? Time to vote!
-
-[![](/wiki/shared/news/2024-06-20-project-loved-june-2024/2058802.jpg)](https://osu.ppy.sh/community/forums/topics/1938039)
-
-[Shigure Ui (9-sai) - Shukusei!! Loli-kami Requiem\*](https://osu.ppy.sh/beatmapsets/2058802#osu) by [OnLoong](https://osu.ppy.sh/users/13524541)\
-165 BPM, 4:28 | 5.53★, 7.01★\
-*description written by [megumic](https://osu.ppy.sh/users/7537133)*
-
-Following community suggestions, from this month onwards we'll be having two maps for the *Popular Playcounts* category, so let's continue with [Shukusei!! Loli-kami Requiem\*](https://osu.ppy.sh/beatmapsets/2058802)!
-
-Challenge yourself on the top difficulty peaking at 7.04★, filled with 165 BPM triples, spaced streams and interesting sliders, for over 4 minutes! There is also an easier 5.53★ difficulty if you're not ready for the big leagues.
-
-Want this map Loved? Vote now!
 
 [![](/wiki/shared/news/2024-06-20-project-loved-june-2024/67243.jpg)](https://osu.ppy.sh/community/forums/topics/1938038)
 
