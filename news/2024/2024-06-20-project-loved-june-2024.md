@@ -363,7 +363,7 @@ What are you waiting for? Come on down and vote yes!
 200 – 280 BPM, 2:03 | 4.30★ – 6.20★\
 *description written by [SunApple](https://osu.ppy.sh/users/11817622)*
 
-Honestly I don't really know where to start with describing how well known [IcyWorld](https://osu.ppy.sh/users/1383951) truly is. Having currently nice maps (not including guest participations) already Loved, it's about time to give them the double-digit Loved count they deserve with another very well-known map of [M-A](https://osu.ppy.sh/beatmapsets/1520392#mania/3111694)!
+Honestly I don't really know where to start with describing how well known [IcyWorld](https://osu.ppy.sh/users/1383951) truly is. Having currently nine maps (not including guest participations) already Loved, it's about time to give them the double-digit Loved count they deserve with another very well-known map of [M-A](https://osu.ppy.sh/beatmapsets/1520392#mania/3111694)!
 
 For a long time I had always thought that IcyWorld mostly made stamina maps which were very difficult because of their lengths. However, this is the total opposite because its drain time is only 2:03, yet it's still able to completely drain your stamina. Let's get the obvious out the way: this map is full of jumpstreams and rolly stream patterns especially during the chorus. However, what make this map truly unique is the changing between doubles to singles constantly to create diamond-shaped patterns (or as I call them, "double oogle crossovers") which only ramps up as the density of the patterns increase in the last 30 seconds.
 
