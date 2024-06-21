@@ -342,7 +342,7 @@ lazer 没有歌曲文件夹！这能让我们做一些很酷的事情，比如�
 [^countdown-timers-lazer]: 在游戏内用户界面 (UI) 设置倒计时，对局会自动开始。
 [^queue-modes]: 开启它，允许房内按队列选择谱面。即“房主轮换”(host rotate)。
 [^difficulty-adjust]: 直接在歌曲选择界面使用难度调整 (Difficulty Adjust) 模组，来更改谱面的 CS/AR/OD/HP。
-[^medals-lazer]: 部分[隐藏 (Hush-Hush) 奖章](/wiki/Medals#hush-hush)还无法获取。
+[^medals-lazer]: 部分[隐藏 (Hush-Hush) 奖章](/wiki/Medals#隐藏)还无法获取。
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
