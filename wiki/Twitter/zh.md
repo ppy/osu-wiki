@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: f474e1bcf073565b3f2ea07581ef55e000b8034f
+---
+
 # Twitter
 
 osu! 有数个 Twitter 账号，每个都有其特定的用途。大多数账号的访问量都很少，但是会帮助你了解 osu! 的生态圈。
