@@ -62,9 +62,9 @@ I've had enough. I'm hiring [OnLoong](https://osu.ppy.sh/users/13524541) to send
 
 Following community suggestions, from this month onwards we'll be having two maps for the *Popular Playcounts* category, so let's continue with [Shukusei!! Loli-kami Requiem\*](https://osu.ppy.sh/beatmapsets/2058802)!
 
-Challenge yourself on the top difficulty peaking at 7.04★, filled with 165 BPM triples, spaced streams, and... interesting sliders, for over 4 minutes! There is also an easier 5.53★ difficulty if you're not ready to get exposed yet... t-to the harder patterns! I mean, I don't really have that high of an expectation from you weaklings anyway. Disgusting.
+Challenge yourself on the top difficulty peaking at 7.04★, filled with 165 BPM triples, spaced streams and interesting sliders, for over 4 minutes! There is also an easier 5.53★ difficulty if you're not ready for the big leagues!
 
-Want this map Loved? Vote now to beat the ~~allegations~~ graveyard!
+Want this map Loved? Vote now!
 
 [![](/wiki/shared/news/2024-06-20-project-loved-june-2024/67243.jpg)](https://osu.ppy.sh/community/forums/topics/1938038)
 
