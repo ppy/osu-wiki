@@ -106,13 +106,19 @@ Here are some wise words from a few people involved in various aspects of the to
 
 ## Statistics
 
-uhh need to figure out what to put here
+A lot happened this tournament that can be shown off by statistics! We've compiled all of the per-round statistics into a [neat folder](https://drive.google.com/drive/u/0/folders/1dvBabKdU7V1nx1wEMhINi89NSdBvDU5f), but here are some extra picks that deserve their own mentions:
+
+- There were a total of 33 scores set worth more than 500pp, the highest of which being [scylla](https://osu.ppy.sh/users/9405745)'s 651pp full combo on [BABYMETAL - Arkadia \[Extreme\]](https://osu.ppy.sh/beatmapsets/1695872#osu/3644487) in Sweden's [Semifinals match against Brazil](https://osu.ppy.sh/community/matches/114120011).
+- We saw a total of 16 seed upsets out of 62 matches played, the biggest of which were:
+  - [Chile (5) vs. Spain (28)](https://osu.ppy.sh/community/matches/113860341) in the Round of 32, in which 98% of pick'em players incorrectly predicted Chile to win.
+  - [South Korea (2) vs. China (14)](https://osu.ppy.sh/community/matches/114131751) in the Semifinals, notable for being very late in the bracket to have such an upset.
+- Panama qualified for their first ever world-cup-style tournament with [Leonard H](https://osu.ppy.sh/users/11562243)'s (a.k.a. hammytr's) #10 individual performance boosting them to the 32nd spot.
 
 ---
 
 Huge thanks to everyone who took their time to contribute to the tournament!
 
-\<staff credits image>
+![](/wiki/shared/news/2024-06-23-4-digit-world-cup-2024-concludes/credits.png)
 
 See you all in 2025!
 
