@@ -6,7 +6,7 @@ date: 2024-06-22 20:00:00 +0000
 
 At long last, **Nakura** pierces into our Featured Artist library!
 
-![](https://assets.ppy.sh/artists/xxx/header.jpg)
+![](https://assets.ppy.sh/artists/426/header.jpg)
 
 With inspirations like our very own [S3RL](https://osu.ppy.sh/beatmaps/artists/9), [Kobaryo](https://osu.ppy.sh/beatmaps/artists/96), and *Halley Labs* (the creator behind *Renard* tracks, *The Big Black*, and a bunch of other stuff you've probably seen on osu!), it's easy to tell that **Nakura** will fit right in here.
 
@@ -18,7 +18,7 @@ See how **Nakura** translates to osu! for yourself:
 
 <div align="center">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/artists/xxx/release_showcase.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/artists/426/release_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -27,7 +27,7 @@ See how **Nakura** translates to osu! for yourself:
 Experience [the map from the video above](https://osu.ppy.sh/beatmapsets/2134284) hosted by [nanoya](https://osu.ppy.sh/users/12366071)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/426/Takin%27%20U%20There/Nakura%20-%20Takin%27%20U%20There%20(osu!%20edit).mp3">
 </audio>
 
 ### Nakura - 7th Sphere
@@ -35,23 +35,23 @@ Experience [the map from the video above](https://osu.ppy.sh/beatmapsets/2134284
 If clicking circles isn't your thing, try [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2155698) hosted by [Yasuho](https://osu.ppy.sh/users/8458835)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/426/7th%20Sphere/Nakura%20-%207th%20Sphere.mp3">
 </audio>
 
 ### Nakura - Lullaby (osu! edit)
 
-Relax by [placing your own circles](LINK).
+Relax by [placing your own circles](https://assets.ppy.sh/artists/426/Lullaby/Nakura%20-%20Lullaby%20(osu!%20edit).osz).
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/426/Lullaby/Nakura%20-%20Lullaby%20(osu!%20edit).mp3">
 </audio>
 
 ### Nakura - Real Danger (osu! edit)
 
-If relaxing isn't your thing... [place circles anyway](LINK).
+If relaxing isn't your thing... [place circles anyway](https://assets.ppy.sh/artists/426/Real%20Danger/Nakura%20-%20Real%20Danger%20(osu!%20edit).osz).
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/426/Real%20Danger/Nakura%20-%20Real%20Danger%20(osu!%20edit).mp3">
 </audio>
 
 ---
