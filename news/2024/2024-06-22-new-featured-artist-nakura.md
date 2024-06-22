@@ -10,7 +10,7 @@ At long last, **Nakura** pierces into our Featured Artist library!
 
 With inspirations like our very own [S3RL](https://osu.ppy.sh/beatmaps/artists/9), [Kobaryo](https://osu.ppy.sh/beatmaps/artists/96), and *Halley Labs* (the creator behind *Renard* tracks, *The Big Black*, and a bunch of other stuff you've probably seen on osu!), it's easy to tell that **Nakura** will fit right in here.
 
-As an avid rave-focused musician, **Nakura**'s tunes are overflowing with high energy. Their sound has already been recognized by rhythm games like *SEVEN's CODE* and *TECHMANIA*, and osu! is joining that roster today!
+As an avid rave-focused musician, **Nakura**'s tunes are overflowing with high energy. Their sound has already been recognised by rhythm games like *SEVEN's CODE* and *TECHMANIA*, and osu! is joining that roster today!
 
 [**Nakura**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/426) is officially home to **4** new tracks, including some osu!-specific short versions for mappers with chicken-nugget-sized attention spans.
 
