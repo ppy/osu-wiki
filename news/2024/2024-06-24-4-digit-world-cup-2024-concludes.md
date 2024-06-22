@@ -16,7 +16,7 @@ This year's 4 Digit World Cup has finally come to an end! Join us for a recap on
 
 Congratulations to the United States for making 4WC history by being the first claim the title of champions twice in a row, as well as being the first team to garner three total 4WC wins. The United States had their strongest showing to date in this iteration of the tournament, only losing 10 points total in their 6 matches. Canada put in a strong effort, but there was never a moment where the United States was on the backfoot, and with half of their team being new to the roster, their depth remains unmatched.
 
-As for our other podium contenders, we have Canada and China, whose roads have been intertwined since the beginning of this tournament. They faced off in RO16 first, where China eked out a 5-3 victory for a massive upset against the 3rd seed, which was only foreshadowing for the future. China then went on to, as the 14th seed, dominate the 6th seed Brazil and have an all out war with the 2nd seed South Korea, being able to consolidate after 5 breakpoints in a row. This was their first time on the podium, and a massive improvement from their placement the year prior. As for the Canadian side, the early loss to China meant that they had to play the most potential matches in losers bracket, winning 7 matches in a row to claim their #2 slot once more.
+As for our other podium contenders, we have Canada and China, whose roads have been intertwined since the beginning of this tournament. They faced off in RO16 first, where China eked out a 5–3 victory for a massive upset against the 3rd seed, which was only foreshadowing for the future. China then went on to, as the 14th seed, dominate the 6th seed Brazil and have an all out war with the 2nd seed South Korea, being able to consolidate after 5 breakpoints in a row. This was their first time on the podium, and a massive improvement from their placement the year prior. As for the Canadian side, the early loss to China meant that they had to play the most potential matches in losers bracket, winning 7 matches in a row to claim their #2 slot once more.
 
 ## Match highlights
 
@@ -28,9 +28,11 @@ As for our other podium contenders, we have Canada and China, whose roads have b
 
 In most tournaments, the first-round matchups typically don't feature massive upsets or many close matches. However, in this year's 4WC, things heated up right from the start. There were numerous seed upsets left and right, especially on the first day of matches. The most exciting and surprising match certainly was Chile vs. Spain.
 
-The situation was clear: Chile, seeded fourth in qualifiers, were the clear favorites to win against Spain, who were seeded 29th. But as the Round of 32 has shown so far, no match-up is impossible to win or lose, and this match was the prime example.
+The situation was clear: Chile, seeded fourth in qualifiers, were the clear favourites to win against Spain, who were seeded 29th. But as the Round of 32 has shown so far, no match-up is impossible to win or lose, and this match was the prime example.
 
-Both teams' first picks turned out to be great choices leading to a 1-1 scoreline. Spain's second pick, however, didn't go as planned and Chile took away a breakpoint on NM2. They looked to consolidate the point with NM5, a low AR rhythm map, which on paper heavily favored the Chliean roster. Spain, despite having banned the other low AR map of the round, managed to put up a great team performance and took a breakpoint right back tying the match. After Spain won their next pick and went up ahead 2-3, a NM4 pick from Chile went down to the wire, and a great performance from M A N O L O sealed yet another breakpoint for Spain with a narrow 40,000 score gap, bringing them to match point. For Spain's last pick, they secured the win on DT1 with another relatively close lead of 150,000, knocking the 4th seed Chile down to the lower bracket and advancing to face 21st seed Taiwan in the Round of 16. Taiwan had also pulled an incredible upset in their match, defeating the 12th seed Japan.
+Both teams' first picks turned out to be great choices leading to a 1–1 scoreline. Spain's second pick, however, didn't go as planned and Chile took away a breakpoint on NM2. They looked to consolidate the point with NM5, a low-AR rhythm map, which on paper heavily favoured the Chilean roster. Spain, despite having banned the other low-AR map of the round, managed to put up a great team performance and took a breakpoint right back tying the match.
+
+After Spain won their next pick and went up ahead 2–3, a NM4 pick from Chile went down to the wire, and a great performance from M A N O L O sealed yet another breakpoint for Spain with a narrow 40,000 score gap, bringing them to match point. For Spain's last pick, they secured the win on DT1 with another relatively close lead of 150,000, knocking the 4th seed Chile down to the lower bracket and advancing to face 21st seed Taiwan in the Round of 16. Taiwan had also pulled an incredible upset in their match, defeating the 12th seed Japan.
 
 ### Semifinals: ::{ flag=KR }:: South Korea vs. ::{ flag=CN }:: China
 
@@ -78,9 +80,9 @@ Here are some wise words from a few people involved in various aspects of the to
 
 *This year's 4WC had a lot of upsets in the earlier rounds. Do you believe that this is something that could happen more frequently from now on and does it make commentating more exciting for you?*
 
-> Regarding the plentiful early round upsets that were witnessed in this iteration, it really has to do with how the earlier rounds consists of lower star rating maps and the big focus on a player's consistency rather than their skillcap. I do think that every country is as good as each other up until a certain star rating. There are no safe rounds in a world cup where every nation sends in their best of the best. High seeding is nothing more but an intimidation factor if you don't back it up.
+> Regarding the plentiful early round upsets that were witnessed in this iteration, it really has to do with how the earlier rounds consist of lower star rating maps and the big focus on a player's consistency rather than their skillcap. I do think that every country is as good as each other up until a certain star rating. There are no safe rounds in a world cup where every nation sends in their best of the best. High seeding is nothing more but an intimidation factor if you don't back it up.
 > 
-> Nonetheless, teams do get high seedings not without a merit. I don't think upsets are something that will happen more often but only as often as or less than it is now. If upsets do spike up in quantity, it is only because of an erroneous early round pooling that deviates completely from the qualifier (Ex. speed qualifier into full gimmick RO32). Of course, its frequency is not what makes an upset exciting. We all love an underdog story, the David against the Goliath, this is no exception especially when it comes to a tiebreaker. At that point, the audience and the casters have won regardless of the result.
+> Nonetheless, teams do get high seedings not without a merit. I don't think upsets are something that will happen more often but only as often as or less than it is now. If upsets do spike up in quantity, it is only because of an erroneous early round pooling that deviates completely from the qualifier (Ex. speed qualifier into full gimmick RO32). Of course, its frequency is not what makes an upset exciting. We all love an underdog story, the David against the Goliath, and this is no exception especially when it comes to a tiebreaker. At that point, the audience and the casters have won regardless of the result.
 
 ::{#shurelia}::
 
@@ -98,7 +100,7 @@ Here are some wise words from a few people involved in various aspects of the to
 
 > The reason why I started mapping for osu! standard specifically was due to being a heavy convert player in catch and wanting to gain #1 on a song that I really like. But the reason why I WANT to be better in mapping is because I got captivated by [Lan Wing](https://osu.ppy.sh/users/467860)'s beatmap of [t=NODE - Four Seasons](https://osu.ppy.sh/beatmapsets/285718#osu/645242). This map moves me so much that I randomly shed tears despite having no clue about osu! standard at all due to how beautiful the map and the song is.
 > 
-> I decided to create custom maps because I just love watching people playing my maps, moreover when it's in a big tournament such as 4WC 2024. It also lets me learn many things to improve my mapping knowledge gameplay wise by learning what the players think about my map when they try it, because as I mentioned, I do not play osu! standard at all and thus it's obvious that I don't testplay my own maps at all. Custom mapping is such a good way to improve myself, at least that's what I'm thinking.
+> I decided to create custom maps because I just love watching people playing my maps, especially when it's in a big tournament such as 4WC 2024. It also lets me learn many things to improve my mapping knowledge gameplay wise by learning what the players think about my map when they try it, because as I mentioned, I do not play osu! standard at all and thus it's obvious that I don't testplay my own maps at all. Custom mapping is such a good way to improve myself, at least that's what I'm thinking.
 
 *How does it feel to have your maps be played in high-stake tournaments? Does it motivate a mapper to follow the tournament more closely or only if their map is played?*
 
@@ -108,11 +110,11 @@ Here are some wise words from a few people involved in various aspects of the to
 
 A lot happened this tournament that can be shown off by statistics! We've compiled all of the per-round statistics into a [neat folder](https://drive.google.com/drive/u/0/folders/1dvBabKdU7V1nx1wEMhINi89NSdBvDU5f), but here are some extra picks that deserve their own mentions:
 
-- There were a total of 33 scores set worth more than 500pp, the highest of which being [scylla](https://osu.ppy.sh/users/9405745)'s 651pp full combo on [BABYMETAL - Arkadia \[Extreme\]](https://osu.ppy.sh/beatmapsets/1695872#osu/3644487) in Sweden's [Semifinals match against Brazil](https://osu.ppy.sh/community/matches/114120011).
+- There were a total of 33 scores set worth more than 500 pp, the highest of which being [scylla](https://osu.ppy.sh/users/9405745)'s 651 pp full combo on [BABYMETAL - Arkadia \[Extreme\]](https://osu.ppy.sh/beatmapsets/1695872#osu/3644487) in Sweden's [Semifinals match against Brazil](https://osu.ppy.sh/community/matches/114120011).
 - We saw a total of 16 seed upsets out of 62 matches played, the biggest of which were:
   - [Chile (5) vs. Spain (28)](https://osu.ppy.sh/community/matches/113860341) in the Round of 32, in which 98% of pick'em players incorrectly predicted Chile to win.
   - [South Korea (2) vs. China (14)](https://osu.ppy.sh/community/matches/114131751) in the Semifinals, notable for being very late in the bracket to have such an upset.
-- Panama qualified for their first ever world-cup-style tournament with [Leonard H](https://osu.ppy.sh/users/11562243)'s (a.k.a. hammytr's) #10 individual performance boosting them to the 32nd spot.
+- Panama qualified for their first ever world-cup-style tournament with [Leonard H](https://osu.ppy.sh/users/11562243)'s (a.k.a. hammytr) #10 individual performance boosting the team to the 32nd spot.
 
 ---
 
