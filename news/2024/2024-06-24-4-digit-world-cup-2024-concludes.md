@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Digit World Cup 2024 Concludes
-date: 2024-06-23 12:00:00 +0000
+date: 2024-06-24 12:00:00 +0000
 ---
 
 This year's 4 Digit World Cup has finally come to an end! Join us for a recap on everything that's been going on as well as some insights from one of our second-place finishers, a commentator and a custom mapper.
@@ -12,7 +12,7 @@ This year's 4 Digit World Cup has finally come to an end! Join us for a recap on
 
 ## Summary
 
-![](/wiki/shared/news/2024-06-23-4-digit-world-cup-2024-concludes/podium.jpg)
+![](/wiki/shared/news/2024-06-24-4-digit-world-cup-2024-concludes/podium.jpg)
 
 Congratulations to the United States for making 4WC history by being the first claim the title of champions twice in a row, as well as being the first team to garner three total 4WC wins. The United States had their strongest showing to date in this iteration of the tournament, only losing 10 points total in their 6 matches. Canada put in a strong effort, but there was never a moment where the United States was on the backfoot, and with half of their team being new to the roster, their depth remains unmatched.
 
@@ -42,7 +42,7 @@ Here are some wise words from a few people involved in various aspects of the to
 
 ::{#jimarrah}::
 
-[![](/wiki/shared/news/2024-06-23-4-digit-world-cup-2024-concludes/jimarrah-banner.png)](https://osu.ppy.sh/users/11267857)
+[![](/wiki/shared/news/2024-06-24-4-digit-world-cup-2024-concludes/jimarrah-banner.png)](https://osu.ppy.sh/users/11267857)
 
 > Hi, I'm BOOM MEGA WIN, but you're probably more familiar with me as Jimarrah. I've been playing tournaments since May 2020, spending a majority of my time in the 4 digit scene. Recently I've been taking the game more casually, but 4WC 2024 was a big opportunity for me to compete again.
 
@@ -62,7 +62,7 @@ Here are some wise words from a few people involved in various aspects of the to
 
 ::{#blanktap}::
 
-[![](/wiki/shared/news/2024-06-23-4-digit-world-cup-2024-concludes/blanktap-banner.png)](https://osu.ppy.sh/users/10137131)
+[![](/wiki/shared/news/2024-06-24-4-digit-world-cup-2024-concludes/blanktap-banner.png)](https://osu.ppy.sh/users/10137131)
 
 > Hello, I'm BlankTap. I'm a bit of a tournament player and recently more known as a commentator, probably one that gets a bit too excited at times. I've been commentating actively for one and half years now and had the chance to contribute regarding 4WC's casting.
 
@@ -84,7 +84,7 @@ Here are some wise words from a few people involved in various aspects of the to
 
 ::{#shurelia}::
 
-[![](/wiki/shared/news/2024-06-23-4-digit-world-cup-2024-concludes/shurelia-banner.png)](https://osu.ppy.sh/users/3807986)
+[![](/wiki/shared/news/2024-06-24-4-digit-world-cup-2024-concludes/shurelia-banner.png)](https://osu.ppy.sh/users/3807986)
 
 > Before I start my introduction, I would love to share my gratitude towards the 4WC 2024 staff for the opportunity to let me be involved with their event, and also for the participants and their positive feedback towards my maps which boosts my confidence on this. I thank you, really.
 > 
@@ -118,7 +118,7 @@ A lot happened this tournament that can be shown off by statistics! We've compil
 
 Huge thanks to everyone who took their time to contribute to the tournament!
 
-![](/wiki/shared/news/2024-06-23-4-digit-world-cup-2024-concludes/credits.png)
+![](/wiki/shared/news/2024-06-24-4-digit-world-cup-2024-concludes/credits.png)
 
 See you all in 2025!
 
