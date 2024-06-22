@@ -238,7 +238,7 @@ El título de **osu!musician** se otorgó a los usuarios por sus contribuciones 
 
 El equipo de osu! realizó concursos de arte para que los miembros de la comunidad tuvieran la oportunidad de diseñar o rediseñar algunas de las mascotas del juego. Los ganadores de estos concursos, así como las personas cuyos diseños se usaron finalmente como obras de arte oficiales, recibieron el título de **osu!artist**.
 
-- ::{ flag=US }:: [Crowie](https://osu.ppy.sh/users/6894067) diseñó a **Mocha** y ayudó a producir muchas otras obras de arte de osu!
+- ::{ flag=US }:: [Crowie](https://osu.ppy.sh/users/6894067) diseñó a **Mocha** y ayudó a producir muchas otras obras de arte de osu!.
 - ::{ flag=ID }:: [JMC](https://osu.ppy.sh/users/774010) ganó el concurso [Fan Art 6: osu!taiko mascot](https://osu.ppy.sh/community/contests/2).
 - ::{ flag=US }:: [Thievley](https://osu.ppy.sh/users/4717672) rediseñó a **Yuzu**.
 - ::{ flag=ID }:: [xiemon](https://osu.ppy.sh/users/5203667) diseñó a **Mani y Mari**.
