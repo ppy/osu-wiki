@@ -12,7 +12,7 @@ This year's 4 Digit World Cup has finally come to an end! Join us for a recap on
 
 ## Summary
 
-![](/wiki/shared/news/2024-06-24-4-digit-world-cup-2024-concludes/podium.jpg)
+![](/wiki/Tournaments/4WC/2024/img/podium.jpg)
 
 Congratulations to the United States for making 4WC history by being the first claim the title of champions twice in a row, as well as being the first team to garner three total 4WC wins. The United States had their strongest showing to date in this iteration of the tournament, only losing 10 points total in their 6 matches. Canada put in a strong effort, but there was never a moment where the United States was on the backfoot, and with half of their team being new to the roster, their depth remains unmatched.
 
