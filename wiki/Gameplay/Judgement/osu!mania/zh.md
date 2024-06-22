@@ -17,7 +17,7 @@
 
 打击区间取决于谱面的[判定严度 (OD)](/wiki/Beatmap/Overall_difficulty)。当一次打击满足`打击误差 ≤ 最大打击误差`，则认为此次打击在判定区间内，误差时间即为判定区间宽度的一半。
 
-打击误差经过四舍五入处理，而最大打击误差是向下取整的，这意味着相较上述计算公式，判定范围的两端可能至多伸长或缩短 0.5 毫秒。
+打击误差经过四舍五入处理，而最大打击误差是向下取整的，这意味着相较上述计算公式，判定区间的两端可能至多伸长或缩短 0.5 毫秒。
 
 由 osu! 游戏模式转换的谱面（即*转谱*）使用不同的判定区间：<!-- not a thing in lazer, internal reference: https://github.com/peppy/osu-stable-reference/blob/1531237b63392e82c003c712faa028406073aa8f/osu!/GameplayElements/HitObjectManagerMania.cs#L208-L226 -->
 
@@ -36,7 +36,7 @@
 
 ### 音符
 
-取决于准确度，音符的判定可分为 PERFECT、GREAT、GOOD、OK、MEH 和 MISS。在 MISS 判定区间前的点击无效；在 OK 判定区间后点击会导致 MISS（较晚的点击不可能获得 MEH 判定）。
+取决于打击准确度，音符的判定可分为 PERFECT、GREAT、GOOD、OK、MEH 和 MISS。在 MISS 判定区间前的点击无效；在 OK 判定区间后点击会导致 MISS（较晚的点击不可能获得 MEH 判定）。
 
 ### 长按音符
 
