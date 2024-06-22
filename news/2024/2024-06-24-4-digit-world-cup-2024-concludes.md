@@ -122,8 +122,8 @@ A lot happened this tournament that can be shown off by statistics! We've compil
 
 - There were a total of 33 scores set worth more than 500 pp, the highest of which being ::{ flag=SE }:: [scylla](https://osu.ppy.sh/users/9405745)'s 651 pp full combo on [BABYMETAL - Arkadia \[Extreme\]](https://osu.ppy.sh/beatmapsets/1695872#osu/3644487) in Sweden's [Semifinals match against Brazil](https://osu.ppy.sh/community/matches/114120011).
 - We saw a total of 16 seed upsets out of 62 matches played, the biggest of which were:
-  - [Chile (5) vs. Spain (28)](https://osu.ppy.sh/community/matches/113860341) in the Round of 32, in which 98% of pick'em players incorrectly predicted Chile to win.
-  - [South Korea (2) vs. China (14)](https://osu.ppy.sh/community/matches/114131751) in the Semifinals, notable for being very late in the bracket to have such an upset.
+  - [Chile (5) vs. Spain (28)](https://www.youtube.com/watch?v=vYchqxY_2SI) in the Round of 32, in which 98% of pick'em players incorrectly predicted Chile to win.
+  - [South Korea (2) vs. China (14)](https://www.youtube.com/watch?v=UlJ0BW0XI4M) in the Semifinals, notable for being very late in the bracket to have such an upset.
 - Panama qualified for their first ever world-cup-style tournament with ::{ flag=PA }:: [Leonard H](https://osu.ppy.sh/users/11562243)'s (a.k.a. hammytr) #10 individual performance boosting the team to the 32nd spot.
 
 ---
