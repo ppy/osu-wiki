@@ -700,6 +700,8 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | [4 Digit osu!mania World Cup 2](4DM/2) | 15/2/2020 | 28/3/2020 | ::{ flag=US }:: Estados Unidos | ::{ flag=AR }:: Argentina | ::{ flag=PH }:: Filipinas |
 | [4 Digit osu!mania World Cup 3](4DM/3) | 23/1/2021 | 7/3/2021 | ::{ flag=PH }:: Filipinas | ::{ flag=MY }:: Malasia | ::{ flag=BR }:: Brasil |
 | [4 Digit osu!mania World Cup 4](4DM/4) | 8/1/2022 | 20/2/2022 | ::{ flag=FR }:: Francia | ::{ flag=TH }:: Tailandia | ::{ flag=PE }:: Perú |
+| [4 Digit osu!mania World Cup 2023](4DM/2023) | 14/1/2024 | 4/3/2023 | ::{ flag=CN }:: China | ::{ flag=SG }:: Singapur | ::{ flag=CA }:: Canadá |
+| [4 Digit osu!mania World Cup 2024](4DM/2024) | 13/1/2024 | 25/2/2024 | ::{ flag=VN }:: Vietnam | ::{ flag=US }:: Estados Unidos | ::{ flag=TW }:: Taiwán |
 
 #### :thonking: Mania Tournament
 
@@ -833,7 +835,7 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 
 | Nombre | Inicio | Final | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Speed of Light Mania Tournament](SOL/2019) | 23/11/2019 | 26/1/2020 | ::{ flag=PH }:: [**bojii**](https://osu.ppy.sh/users/10083439) | ::{ flag=BR }:: [**andreymc**](https://osu.ppy.sh/users/5691061) | ::{ flag=MY }:: [**cheewee10**](https://osu.ppy.sh/users/4477497) |
+| [Speed of Light Mania Tournament](SOL/2019) | 23/11/2019 | 26/1/2020 | ::{ flag=PH }:: [bojii](https://osu.ppy.sh/users/10083439) | ::{ flag=BR }:: [andreymc](https://osu.ppy.sh/users/5691061) | ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497) |
 | [Speed of Light 2: Lucha Libre Edition](SOL/2020) | 14/11/2020 | 24/1/2021 | regular team | World's Fastest Gamers | BOTTOM GEAR |
 
 #### Springtime osu!mania Free-for-all Tournament
@@ -843,6 +845,9 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | Springtime osu!mania Free-for-all Tournament | 19/2/2016 | 1/5/2016 | ::{ flag=KR }:: [Cobo-](https://osu.ppy.sh/users/1482965) | ::{ flag=CL }:: [Urusai](https://osu.ppy.sh/users/469808) | ::{ flag=FR }:: [bumpinho](https://osu.ppy.sh/users/1594604) |
 | Springtime osu!mania Free-for-all Tournament 2 | 18/2/2017 | 30/4/2017 | ::{ flag=KR }:: [cheetose](https://osu.ppy.sh/users/3817144) | ::{ flag=KR }:: [Cobo-](https://osu.ppy.sh/users/1482965) | ::{ flag=VN }:: [Asrielly](https://osu.ppy.sh/users/2656302) |
 | [Springtime osu!mania Free-for-all Tournament 3](SOFT/3) | 17/2/2018 | 29/4/2018 | ::{ flag=BR }:: [Lothus](https://osu.ppy.sh/users/9530019) | ::{ flag=JP }:: [inteliser](https://osu.ppy.sh/users/1824775) | ::{ flag=US }:: [TheToaphster](https://osu.ppy.sh/users/7616811) |
+| [Springtime osu!mania Free-for-all Tournament 4](SOFT/4) | 6/4/2019 | 22/6/2019 | ::{ flag=KR }:: [wonder5193](https://osu.ppy.sh/users/8474029) | ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811) | ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723) |
+| [Springtime osu!mania Free-for-all Tournament 5](SOFT/5) | 27/2/2021 | 9/5/2021 | ::{ flag=CL }:: [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) | ::{ flag=PH }:: [bojii](https://osu.ppy.sh/users/10083439) | ::{ flag=BR }:: [SillyFangirl](https://osu.ppy.sh/users/2288363) |
+| [Springtime osu!mania Free-for-all Tournament 6](SOFT/6) | 5/3/2022 | 15/5/2022 | ::{ flag=CL }:: [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) | ::{ flag=SG }:: [Xvenn](https://osu.ppy.sh/users/13390529) | ::{ flag=BR }:: [SillyFangirl](https://osu.ppy.sh/users/2288363) |
 
 #### The Heptakey osu!mania Cup
 
