@@ -32,7 +32,7 @@ The situation was clear: Chile, seeded fourth in qualifiers, were the clear favo
 
 Both teams' first picks turned out to be great choices leading to a 1–1 scoreline. Spain's second pick, however, didn't go as planned and Chile took away a breakpoint on NM2. They looked to consolidate the point with NM5, a low-AR rhythm map, which on paper heavily favoured the Chilean roster. Spain, despite having banned the other low-AR map of the round, managed to put up a great team performance and took a breakpoint right back tying the match.
 
-After Spain won their next pick and went up ahead 2–3, a NM4 pick from Chile went down to the wire, and a great performance from M A N O L O sealed yet another breakpoint for Spain with a narrow 40,000 score gap, bringing them to match point. For Spain's last pick, they secured the win on DT1 with another relatively close lead of 150,000, knocking the 4th seed Chile down to the lower bracket and advancing to face 21st seed Taiwan in the Round of 16. Taiwan had also pulled an incredible upset in their match, defeating the 12th seed Japan.
+After Spain won their next pick and went up ahead 2–3, a NM4 pick from Chile went down to the wire, and a great performance from ::{ flag=ES }:: [M A N O L O](https://osu.ppy.sh/users/12296128) sealed yet another breakpoint for Spain with a narrow 40,000 score gap, bringing them to match point. For Spain's last pick, they secured the win on DT1 with another relatively close lead of 150,000, knocking the 4th seed Chile down to the lower bracket and advancing to face 21st seed Taiwan in the Round of 16. Taiwan had also pulled an incredible upset in their match, defeating the 12th seed Japan.
 
 ### Semifinals: ::{ flag=KR }:: South Korea vs. ::{ flag=CN }:: China
 
@@ -120,11 +120,11 @@ Here are some wise words from a few people involved in various aspects of the to
 
 A lot happened this tournament that can be shown off by statistics! We've compiled all of the per-round statistics into a [neat folder](https://drive.google.com/drive/u/0/folders/1dvBabKdU7V1nx1wEMhINi89NSdBvDU5f), but here are some extra picks that deserve their own mentions:
 
-- There were a total of 33 scores set worth more than 500 pp, the highest of which being [scylla](https://osu.ppy.sh/users/9405745)'s 651 pp full combo on [BABYMETAL - Arkadia \[Extreme\]](https://osu.ppy.sh/beatmapsets/1695872#osu/3644487) in Sweden's [Semifinals match against Brazil](https://osu.ppy.sh/community/matches/114120011).
+- There were a total of 33 scores set worth more than 500 pp, the highest of which being ::{ flag=SE }:: [scylla](https://osu.ppy.sh/users/9405745)'s 651 pp full combo on [BABYMETAL - Arkadia \[Extreme\]](https://osu.ppy.sh/beatmapsets/1695872#osu/3644487) in Sweden's [Semifinals match against Brazil](https://osu.ppy.sh/community/matches/114120011).
 - We saw a total of 16 seed upsets out of 62 matches played, the biggest of which were:
   - [Chile (5) vs. Spain (28)](https://osu.ppy.sh/community/matches/113860341) in the Round of 32, in which 98% of pick'em players incorrectly predicted Chile to win.
   - [South Korea (2) vs. China (14)](https://osu.ppy.sh/community/matches/114131751) in the Semifinals, notable for being very late in the bracket to have such an upset.
-- Panama qualified for their first ever world-cup-style tournament with [Leonard H](https://osu.ppy.sh/users/11562243)'s (a.k.a. hammytr) #10 individual performance boosting the team to the 32nd spot.
+- Panama qualified for their first ever world-cup-style tournament with ::{ flag=PA }:: [Leonard H](https://osu.ppy.sh/users/11562243)'s (a.k.a. hammytr) #10 individual performance boosting the team to the 32nd spot.
 
 ---
 
