@@ -112,6 +112,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
+| Rookies | Veterans | [Jun 22 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240622T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^showmatch] |
 | Chile ::{ flag=CL }:: | ::{ flag=PL }:: Poland | [Jun 22 (Sat) 16:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240622T163000&p1=1440&p2=232&p3=262) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Finland ::{ flag=FI }:: | ::{ flag=CA }:: Canada | [Jun 22 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240622T180000&p1=1440&p2=101&p3=188) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 
@@ -609,6 +610,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ## Notes
 
+[^showmatch]: Finals week showmatch featuring CWC veterans and rookies
 [^winners-bracket]: Winners bracket match
 [^losers-bracket]: Losers bracket match
 [^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
