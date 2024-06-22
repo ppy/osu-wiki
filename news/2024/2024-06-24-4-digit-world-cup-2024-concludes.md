@@ -128,10 +128,12 @@ A lot happened this tournament that can be shown off by statistics! We've compil
 
 ---
 
-Huge thanks to everyone who took their time to contribute to the tournament!
+Huge thanks to everyone who took their time to contribute to the tournament! Running a project of this magnitude takes an enormous amount of work from many individuals, and the long list of contributors helps paint this picture.
 
 ![](/wiki/shared/news/2024-06-24-4-digit-world-cup-2024-concludes/credits.png)
 
-See you all in 2025!
+On top of those who directly contributed to the tournament, we'd also like to thank all of our players for participating as well as every spectator that has followed along.
+
+See you all again in 2025!
 
 —shdewz & resoa
