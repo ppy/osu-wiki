@@ -8,7 +8,9 @@ This year's 4 Digit World Cup has finally come to an end! Join us for a recap on
 
 ![](/wiki/shared/news/2024-03-21-4-digit-world-cup-2024-registrations-now-open/banner@2x.jpg)
 
-\<insert intro paragraph>
+Over the past two months, the 4-digit tournament scene has showcased their best players competing at the highest level within the rank range. Now, with the Grand Finals weekend behind us, it's time to reflect on the intense matches, unforgettable moments, and the friends we made along the way.
+
+This year's 4WC has seen many changes compared to the previous iteration to stay up to date in the everchanging nature of osu! tournaments. This includes a more consistent difficulty scaling, an increase in custom beatmaps, a larger involvement with the playerbase as well as taking in new and talented staff members to help them flourish and elevate the 4 Digit World Cup to newer heights with their sparkling passion and creativity!
 
 ## Summary
 
@@ -36,7 +38,31 @@ After Spain won their next pick and went up ahead 2–3, a NM4 pick from Chile w
 
 ### Semifinals: ::{ flag=KR }:: South Korea vs. ::{ flag=CN }:: China
 
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/UlJ0BW0XI4M" frameborder="0" allowfullscreen></iframe>
+</div>
+
+It is time for Semifinals! Many different countries had been predicted to possibly face off against South Korea on this stage, but it was China, seeded 14th, that turned the tournament on its head. Defying expectations, China had defeated the 3rd seed Canada in the Round of 16 and the 6th seed Brazil in the Quarterfinals, proving that they are a force to be reckoned with.
+
+On the other side, the 2nd seed South Korea had advanced to the Semifinals with relative ease, losing only a few points along the way. The match between China and South Korea promised excitement, and it delivered in full.
+
+The match began with South Korea securing a win on their first pick followed by a breakpoint, setting the tone for what seemed to be another dominant performance. However, China quickly responded with a breakpoint of their own on DT3, followed by a thrilling victory on NM5 despite a mid-map disconnect from a Chinese player, winning by a mere 3,000 points. They continued their momentum with another breakpoint on NM6, securing three consecutive points and a 3–2 lead.
+
+The teams then traded breakpoints again on the next two picks. China broke the chain with a win on their DT1 pick, bringing them to match point at 5–3. South Korea fought back with a strong performance on FM1, narrowing the gap to 5–4. The final pick, NM4, saw China clinching victory with a narrow 40,000 point lead. This remarkable win knocked another top seed, South Korea, down to the losers bracket, where they went on to face Canada. Meanwhile, China advanced to take on the United States in the Finals.
+
 ### Grand Finals ::{ flag=US }:: United States vs. ::{ flag=CA }:: Canada
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/2DlShXHRRwc" frameborder="0" allowfullscreen></iframe>
+</div>
+
+With a rematch of last year's Grand Finals, the Canadian team once again stands up to fight the United States for the top spot on the podium after a narrow 6–7 loss in 2023. Featuring the hardest mappool in the tournament series to date, this stage isn't trivially easy for anyone to perform on.
+
+Canada had a tough journey this year, dropping to the losers bracket early after a defeat to China in the Round of 16. They managed to put together an impressive comeback though, knocking out several formidable opponents including the 3rd seed South Korea as well as China, the very team that had sent them to the losers bracket earlier. Meanwhile, the United States maintained their dominance throughout, showing no major weaknesses on their way to the Grand Finals. The question now was: will this match be as close and thrilling as last year, or a more one-sided showing?
+
+The match begins with the United States picking NM5, where ::{ flag=US }:: [Pezz](https://osu.ppy.sh/users/10651106) puts up an incredible full combo helping his team secure the point. Canada responds with a pick on NM6, where they narrowly come on top with an overall better team performance. The United States then puts their foot on the pedal, winning three maps in a row before Canada manages to stop them with another close win on HR2 to bring the match to 4–2. The next pick, FM1, presents an opportunity for Canada to come back with a breakpoint, but the United States manages to stay on top winning by only 51,000 points.
+
+Both teams start to find their rhythm, winning their respective picks and bringing the match to 6–3 with the United States at match point. The match reaches its climax as Canada picks FM3, where after a stellar team performance from both teams, the United States clinch the win by a mere 23,000 points, securing their crown as the 4WC champions for the second consecutive year and solidifying their status as the powerhouse of the 4-digit tournament scene.
 
 ## Interviews
 
