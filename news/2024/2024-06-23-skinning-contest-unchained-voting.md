@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Skinning Contest: Unchained - Voting Open"
-date: 2024-06-23 12:00:00 +0000
+date: 2024-06-23 13:00:00 +0000
 ---
 
 The skinning community let their creativity run wild, and now it's time to cast your votes and decide upon your favourites!
