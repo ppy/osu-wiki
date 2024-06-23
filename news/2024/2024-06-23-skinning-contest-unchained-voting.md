@@ -12,7 +12,7 @@ The submission phase has officially ended on May 24th, and after a lot of hours 
 
 As mentioned in the [initial announcement](https://osu.ppy.sh/home/news/2024-04-09-skinning-contest-unchained), there aren't any theme restrictions for this contest, which has translated into **27** brand-new skins, all yearning for your attention! As always, we highly recommend to head over to the [contest listing on the completed skins compendium](https://compendium.skinship.xyz/contests/5) and check out all the entries yourself, but if you are not into collecting skins, the team has compiled a playlist of showcase videos to help you still pick your favourites:
 
-<div align="center">
+<div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/videoseries?list=PLA2Nwtxa4WMqNujKzed748MxnJ0BfZ6YY" frameborder="0" allowfullscreen></iframe>
 </div>
 
