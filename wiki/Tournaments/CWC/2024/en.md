@@ -108,23 +108,13 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
 
 ## Match Schedule: Finals
 
-### Saturday, 22 June 2024
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| Chile ::{ flag=CL }:: | ::{ flag=PL }:: Poland | [Jun 22 (Sat) 16:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240622T163000&p1=1440&p2=232&p3=262) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Finland ::{ flag=FI }:: | ::{ flag=CA }:: Canada | [Jun 22 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240622T180000&p1=1440&p2=101&p3=188) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-
 ### Sunday, 23 June 2024
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Finland ::{ flag=FI }:: | ::{ flag=CL }:: Chile | [Jun 23 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240623T150000&p1=1440&p2=101&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Finland ::{ flag=FI }:: | ::{ flag=PL }:: Poland | [Jun 23 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240623T150000&p1=1440&p2=101&p3=262) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | United States ::{ flag=US }:: | ::{ flag=AR }:: Argentina | [Jun 23 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240623T170000&p1=1440&p2=263&p3=51) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Canada ::{ flag=CA }:: | ::{ flag=PL }:: Poland | [Jun 23 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240623T180000&p1=1440&p2=188&p3=262) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Canada ::{ flag=CA }:: | ::{ flag=CL }:: Chile | [Jun 23 (Sun) 18:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240623T183000&p1=1440&p2=188&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Grand Finals | mappool showcase | [Jun 23 (Sun) 19:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240623T193000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| Canada ::{ flag=CA }:: | ::{ flag=PL }:: Poland | [Jun 23 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240623T180000&p1=1440&p2=188&p3=262) | [osulive](https://twitch.tv/osulive)/[osulive_2](https://www.twitch.tv/osulive_2) [^match-time] | [^losers-bracket] |
+| Grand Finals | mappool showcase | [Jun 23 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240623T190000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Mappools
 
@@ -290,6 +280,16 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
   2. [lapix - Horizon Blue feat. Kanata.N (-Ken) \[The world beyond the everlasting lines\]](https://osu.ppy.sh/beatmapsets/2180225#fruits/4605325)
 
 ## Match results
+
+### Finals
+
+Saturday, 22 June 2024:
+
+| Team A |  |  | Team B | Match link | VOD link | Notes |
+| --: | :-: | :-: | :-- | :-- | :-- | :-- |
+| Rookies | 3 | **7** | **Veterans** | [#1](https://osu.ppy.sh/community/matches/114394587) | [#1](https://www.twitch.tv/videos/2178762405) | Finals Showmatch |
+| Chile ::{ flag=CL }:: | 6 | **7** | ::{ flag=PL }:: **Poland** | [#1](https://osu.ppy.sh/community/matches/114396602) | [#1](https://www.twitch.tv/videos/2178932935) |  |
+| Finland ::{ flag=FI }:: | 1 | **7** | ::{ flag=CA }:: **Canada** | [#1](https://osu.ppy.sh/community/matches/114397895) | [#1](https://www.twitch.tv/videos/2178932936) |  |
 
 ### Semifinals
 
@@ -611,7 +611,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 [^winners-bracket]: Winners bracket match
 [^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
+[^match-time]: Stream slot depends on a preceding match. Final channel to be decided at match time
 [^mappool-showcase]: Mappool showcase — schedule subject to rescheduling without prior notice, depending on preceding matches
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same MAX% sum
