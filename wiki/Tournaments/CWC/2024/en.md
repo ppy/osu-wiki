@@ -327,8 +327,8 @@ Saturday, 22 June 2024:
 | Team A |  |  | Team B | Match link | VOD link | Notes |
 | --: | :-: | :-: | :-- | :-- | :-- | :-- |
 | Rookies | 3 | **7** | **Veterans** | [#1](https://osu.ppy.sh/community/matches/114394587) | [#1](https://www.twitch.tv/videos/2178762405) | Finals Showmatch |
-| Chile ::{ flag=CL }:: | 6 | **7** | ::{ flag=PL }:: **Poland** | [#1](https://osu.ppy.sh/community/matches/114396602) | [#1](https://www.twitch.tv/videos/2179700308) |
-| Finland ::{ flag=FI }:: | 1 | **7** | ::{ flag=CA }:: **Canada** | [#1](https://osu.ppy.sh/community/matches/114397895) | [#1](https://www.twitch.tv/videos/2178932936) |
+| Chile ::{ flag=CL }:: | 6 | **7** | ::{ flag=PL }:: **Poland** | [#1](https://osu.ppy.sh/community/matches/114396602) | [#1](https://www.twitch.tv/videos/2179700308) |  |
+| Finland ::{ flag=FI }:: | 1 | **7** | ::{ flag=CA }:: **Canada** | [#1](https://osu.ppy.sh/community/matches/114397895) | [#1](https://www.twitch.tv/videos/2178932936) |  |
 
 Sunday, 23 June 2024:
 
