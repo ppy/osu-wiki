@@ -123,8 +123,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
 
 ## Mappools
 
-## Mappools
-
 ### Grand Finals
 
 **[Download the mappack here (195 MB)](http://files.leoflt.com/SrI9cprC)**\
