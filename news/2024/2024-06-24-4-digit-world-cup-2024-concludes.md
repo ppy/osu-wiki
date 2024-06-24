@@ -60,7 +60,7 @@ The teams then traded breakpoints again on the next two picks. China broke the c
 
 With a rematch of last year's Grand Finals, the Canadian team once again stands up to fight the United States for the top spot on the podium after a narrow 6–7 loss in 2023. Featuring the hardest mappool in the tournament series to date, this stage isn't trivially easy for anyone to perform on.
 
-Canada had a tough journey this year, dropping to the losers' bracket early after a defeat to China in the Round of 16. They managed to put together an impressive comeback though, knocking out several formidable opponents including the 3rd seed South Korea as well as China, the very team that had sent them to the losers' bracket earlier. Meanwhile, the United States maintained their dominance throughout, showing no major weaknesses on their way to the Grand Finals. The question now was: will this match be as close and thrilling as last year, or a more one-sided showing?
+Canada had a tough journey this year, dropping to the losers' bracket early after a defeat to China in the Round of 16. They managed to put together an impressive comeback though, knocking out several formidable opponents including the 3rd seed South Korea and later China, the very team that had sent them to the losers' bracket earlier. Meanwhile, the United States maintained their dominance throughout, showing no major weaknesses on their way to the Grand Finals. The question now was: will this match be as close and thrilling as last year, or a more one-sided showing?
 
 The match begins with the United States picking NM5, where ::{ flag=US }:: [Pezz](https://osu.ppy.sh/users/10651106) puts up an incredible full combo helping his team secure the point. Canada responds with a pick on NM6, where they narrowly come on top with an overall better team performance. The United States then puts their foot on the pedal, winning three maps in a row before Canada manages to stop them with another close win on HR2 to bring the match to 4–2. The next pick, FM1, presents an opportunity for Canada to come back with a breakpoint, but the United States manages to stay on top winning by only 51,000 points.
 
@@ -150,8 +150,8 @@ A lot happened this tournament that can be shown off by statistics! We've compil
 
 - There were a total of 33 scores set worth more than 500 pp, the highest of which being ::{ flag=SE }:: [scylla](https://osu.ppy.sh/users/9405745)'s 651 pp full combo on [BABYMETAL - Arkadia \[Extreme\]](https://osu.ppy.sh/beatmapsets/1695872#osu/3644487) in Sweden's [Semifinals match against Brazil](https://osu.ppy.sh/community/matches/114120011).
 - We saw a total of 16 seed upsets out of 62 matches played, the biggest of which were:
-  - [Chile (5) vs. Spain (28)](https://www.youtube.com/watch?v=vYchqxY_2SI) in the Round of 32, in which 98% of pick'em players incorrectly predicted Chile to win.
-  - [South Korea (2) vs. China (14)](https://www.youtube.com/watch?v=UlJ0BW0XI4M) in the Semifinals, notable for being very late in the bracket to have such an upset.
+  - [::{ flag=CL }:: Chile (#5) vs. ::{ flag=ES }:: Spain (#28)](https://www.youtube.com/watch?v=vYchqxY_2SI) in the Round of 32, in which 98% of pick'em players incorrectly predicted Chile to win.
+  - [::{ flag=KR }:: South Korea (#2) vs. ::{ flag=CN }:: China (#14)](https://www.youtube.com/watch?v=UlJ0BW0XI4M) in the Semifinals, notable for being very late in the bracket to have such an upset.
 - Panama qualified for their first ever world-cup-style tournament with ::{ flag=PA }:: [Leonard H](https://osu.ppy.sh/users/11562243) (a.k.a. hammytr) getting 10th place in individual performance statistics, boosting the team to the 32nd spot.
 
 ---
