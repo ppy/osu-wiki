@@ -132,7 +132,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
   1. [Spire - Evening Sky Force (GiGas) \[Starfall Vangaurd\]](https://osu.ppy.sh/beatmapsets/2202779#fruits/4662219)
   2. [WangleLine - Journey to the Rabbit Moon Base (Bunnrei) \[^x^\]](https://osu.ppy.sh/beatmapsets/2202809#fruits/4662278)
   3. [Teinu - Valeriana / feat. Mai, Nurse Robot\_Type T (Sololiquy) \[Shatter\]](https://osu.ppy.sh/beatmapsets/2202783#fruits/4662225)
-  4. [Marmalade butcher - Ushinahareru Runazuki (-NeBu-) \[Forever Going With The Flow\]](https://osu.ppy.sh/beatmapsets/1749081#osu/4662226)
+  4. [Marmalade butcher - Ushinahareru Runazuki (-NeBu-) \[Forever Going With The Flow (CWC Edit)\]](https://osu.ppy.sh/beatmapsets/1749081#fruits/3577912)
 - Hidden
   1. [xi - Angelic Party (Spectator) \[Deluge\]](https://osu.ppy.sh/beatmapsets/2202799#fruits/4662256)
   2. [Rigel Theatre - Tir na nOg (F D Flourite) \[Dance Hall\]](https://osu.ppy.sh/beatmapsets/2202810#fruits/4662280)
@@ -333,7 +333,7 @@ Sunday, 23 June 2024:
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **United States** ::{ flag=US }:: | **7** | 1 | ::{ flag=AR }:: Argentina | [#1](https://osu.ppy.sh/community/matches/114411164) | [#1](https://www.twitch.tv/videos/2179785384) |
-| Canada ::{ flag=CA }:: | 6 | **7** | ::{ flag=PL }:: **Poland** | [#1](https://osu.ppy.sh/community/matches/114411894) | [#1](https://www.twitch.tv/videos/2179927104) |
+| Canada ::{ flag=CA }:: | 5 | **7** | ::{ flag=PL }:: **Poland** | [#1](https://osu.ppy.sh/community/matches/114411894) | [#1](https://www.twitch.tv/videos/2179927104) |
 
 ### Semifinals
 
@@ -557,7 +557,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
    - Captains are allowed to exclude themselves from the team list.
    - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms.
    - Captains are allowed, at any time, to transfer their role to other prospective team members. Once given, only the new captain may assign the captaincy to another player.
-   - **Teams that do not not send their team list by May 10, 23:59 UTC will be disqualified from the competition.**
+   - **Teams that do not send their team list by May 10, 23:59 UTC will be disqualified from the competition.**
 3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
    - Every registered user will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, players are required to be placed #5000 or higher on the osu!catch global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
