@@ -18,7 +18,9 @@ This year's 4WC has seen many changes compared to the previous iteration to stay
 
 Congratulations to the United States for making 4WC history by being the first claim the title of champions twice in a row, as well as being the first team to garner three total 4WC wins. The United States had their strongest showing to date in this iteration of the tournament, only losing 10 points total in their 6 matches. Canada put in a strong effort, but there was never a moment where the United States was on the backfoot, and with half of their team being new to the roster, their depth remains unmatched.
 
-As for our other podium contenders, we have Canada and China, whose roads have been intertwined since the beginning of this tournament. They faced off in RO16 first, where China eked out a 5–3 victory for a massive upset against the 3rd seed, which was only foreshadowing for the future. China then went on to, as the 14th seed, dominate the 6th seed Brazil and have an all out war with the 2nd seed South Korea, being able to consolidate after 5 breakpoints in a row. This was their first time on the podium, and a massive improvement from their placement the year prior. As for the Canadian side, the early loss to China meant that they had to play the most potential matches in losers' bracket, winning 7 matches in a row to claim their #2 slot once more.
+As for our other podium contenders, we have Canada and China, whose roads have been intertwined since the beginning of this tournament. They faced off in RO16 first, where China eked out a 5–3 victory for a massive upset against the 3rd seed, which was only foreshadowing for the future.
+
+China then went on to, as the 14th seed, dominate the 6th seed Brazil and have an all out war with the 2nd seed South Korea, being able to consolidate after 5 breakpoints in a row. This was their first time on the podium, and a massive improvement from their placement the year prior. As for the Canadian side, the early loss to China meant that they had to play the most potential matches in losers' bracket, winning 7 matches in a row to claim their #2 slot once more.
 
 ## Match highlights
 
@@ -88,7 +90,7 @@ Here are some wise words from a few people involved in various aspects of the to
 
 > This year was an extremely competitive year for 4WC, with a majority of teams and players having major improvements since 4WC 2023. We knew that underestimating the bracket could result in an upset and Canada dropping down to the loser's bracket earlier than expected.
 > 
-> With this in mind, Canada started the match against China by picking NM2: Yousei Teikoku - Zetsu \[LMT's Extra\], one of our least confident picks due to a core member oversleeping the match. However this was an oversight, as China's stellar performance led to us immediately losing a breakpoint. We knew that we were underprepared, and we paid for that.
+> With this in mind, Canada started the match against China by picking NM2: [Yousei Teikoku - Zetsu \[LMT's Extra\]](https://osu.ppy.sh/beatmapsets/1262446#osu/2929650), one of our least confident picks due to a core member oversleeping the match. However this was an oversight, as China's stellar performance led to us immediately losing a breakpoint. We knew that we were underprepared, and we paid for that.
 > 
 > Following the match, Canada knew that we did not perform up to standards as a team. In spite of that, I did not have any doubt in myself or my team. China had an amazing match, and we underestimated them. It might be a bold claim but I think we deserved to lose in that moment. We knew that we needed to prepare better.
 > 
