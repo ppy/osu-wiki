@@ -52,7 +52,7 @@ The match began with South Korea securing a win on their first pick followed by 
 
 The teams then traded breakpoints again on the next two picks. China broke the chain with a win on their DT1 pick, bringing them to match point at 5–3. South Korea fought back with a strong performance on FM1, narrowing the gap to 5–4. The final pick, NM4, saw China clinching victory with a narrow 40,000 point lead. This remarkable win knocked another top seed, South Korea, down to the losers' bracket, where they went on to face Canada. Meanwhile, China advanced to take on the United States in the Finals.
 
-### Grand Finals ::{ flag=US }:: United States vs. ::{ flag=CA }:: Canada
+### Grand Finals: ::{ flag=US }:: United States vs. ::{ flag=CA }:: Canada
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/2DlShXHRRwc" frameborder="0" allowfullscreen></iframe>
