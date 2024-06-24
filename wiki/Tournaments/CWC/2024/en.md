@@ -132,7 +132,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
   1. [Spire - Evening Sky Force (GiGas) \[Starfall Vangaurd\]](https://osu.ppy.sh/beatmapsets/2202779#fruits/4662219)
   2. [WangleLine - Journey to the Rabbit Moon Base (Bunnrei) \[^x^\]](https://osu.ppy.sh/beatmapsets/2202809#fruits/4662278)
   3. [Teinu - Valeriana / feat. Mai, Nurse Robot\_Type T (Sololiquy) \[Shatter\]](https://osu.ppy.sh/beatmapsets/2202783#fruits/4662225)
-  4. [Marmalade butcher - Ushinahareru Runazuki (-NeBu-) \[Forever Going With The Flow\]](https://osu.ppy.sh/beatmapsets/1749081#osu/4662226)
+  4. [Marmalade butcher - Ushinahareru Runazuki (-NeBu-) \[Forever Going With The Flow (CWC Edit)\]](https://osu.ppy.sh/beatmapsets/1749081#fruits/3577912)
 - Hidden
   1. [xi - Angelic Party (Spectator) \[Deluge\]](https://osu.ppy.sh/beatmapsets/2202799#fruits/4662256)
   2. [Rigel Theatre - Tir na nOg (F D Flourite) \[Dance Hall\]](https://osu.ppy.sh/beatmapsets/2202810#fruits/4662280)
@@ -333,7 +333,7 @@ Sunday, 23 June 2024:
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **United States** ::{ flag=US }:: | **7** | 1 | ::{ flag=AR }:: Argentina | [#1](https://osu.ppy.sh/community/matches/114411164) | [#1](https://www.twitch.tv/videos/2179785384) |
-| Canada ::{ flag=CA }:: | 6 | **7** | ::{ flag=PL }:: **Poland** | [#1](https://osu.ppy.sh/community/matches/114411894) | [#1](https://www.twitch.tv/videos/2179927104) |
+| Canada ::{ flag=CA }:: | 5 | **7** | ::{ flag=PL }:: **Poland** | [#1](https://osu.ppy.sh/community/matches/114411894) | [#1](https://www.twitch.tv/videos/2179927104) |
 
 ### Semifinals
 
