@@ -10,13 +10,13 @@ This year's 4 Digit World Cup has finally come to an end! Join us for a recap on
 
 Over the past two months, the 4-digit tournament scene has showcased their best players competing at the highest level within the rank range. Now, with the Grand Finals weekend behind us, it's time to reflect on the intense matches, unforgettable moments, and the friends we made along the way.
 
-This year's 4WC has seen many changes compared to the previous iteration to stay up to date in the everchanging nature of osu! tournaments. This includes a more consistent difficulty scaling, an increase in custom beatmaps, a larger involvement with the playerbase as well as taking in new and talented staff members to help them flourish and elevate the 4 Digit World Cup to newer heights with their sparkling passion and creativity!
+This year's 4WC has seen many changes compared to the previous iteration to stay up to date in the ever-changing nature of osu! tournaments. This includes a more consistent difficulty scaling, an increase in custom beatmaps, a larger involvement with the playerbase as well as taking in new and talented staff members to help them flourish and elevate the 4 Digit World Cup to newer heights with their sparkling passion and creativity!
 
 ## Summary
 
 ![](/wiki/Tournaments/4WC/2024/img/podium.jpg)
 
-Congratulations to the United States for making 4WC history by being the first claim the title of champions twice in a row, as well as being the first team to garner three total 4WC wins. The United States had their strongest showing to date in this iteration of the tournament, only losing 10 points total in their 6 matches. Canada put in a strong effort, but there was never a moment where the United States was on the backfoot, and with half of their team being new to the roster, their depth remains unmatched.
+Congratulations to the United States for making 4WC history by being the first claim the title of champions twice in a row, as well as being the first team to garner three total 4WC wins. The United States had their strongest showing to date in this iteration of the tournament, only losing 10 points total in their 6 matches. Canada put in a strong effort, but there was never a moment where the United States was on the back foot, and with half of their team being new to the roster, their depth remains unmatched.
 
 As for our other podium contenders, we have Canada and China, whose roads have been intertwined since the beginning of this tournament. They faced off in RO16 first, where China eked out a 5–3 victory for a massive upset against the 3rd seed, which was only foreshadowing for the future.
 
@@ -30,7 +30,7 @@ China then went on to, as the 14th seed, dominate the 6th seed Brazil and have a
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/vYchqxY_2SI" frameborder="0" allowfullscreen></iframe>
 </div>
 
-In most tournaments, the first-round matchups typically don't feature massive upsets or many close matches. However, in this year's 4WC, things heated up right from the start. There were numerous seed upsets left and right, especially on the first day of matches. The most exciting and surprising match certainly was Chile vs. Spain.
+In most tournaments, the first-round match-ups typically don't feature massive upsets or many close matches. However, in this year's 4WC, things heated up right from the start. There were numerous seed upsets left and right, especially on the first day of matches. The most exciting and surprising match certainly was Chile vs. Spain.
 
 The situation was clear: Chile, seeded fourth in qualifiers, were the clear favourites to win against Spain, who were seeded 29th. But as the Round of 32 has shown so far, no match-up is impossible to win or lose, and this match was the prime example.
 
@@ -88,13 +88,13 @@ Here are some wise words from a few people involved in various aspects of the to
 
 *Losing in the Round of 16 against China surely was a massive hit. Have you had any doubts in yourself, your team and how did you manage to bounce back together with your team?*
 
-> This year was an extremely competitive year for 4WC, with a majority of teams and players having major improvements since 4WC 2023. We knew that underestimating the bracket could result in an upset and Canada dropping down to the loser's bracket earlier than expected.
+> This year was an extremely competitive year for 4WC, with a majority of teams and players having major improvements since 4WC 2023. We knew that underestimating the bracket could result in an upset and Canada dropping to the loser's bracket earlier than expected.
 > 
-> With this in mind, Canada started the match against China by picking NM2: [Yousei Teikoku - Zetsu \[LMT's Extra\]](https://osu.ppy.sh/beatmapsets/1262446#osu/2929650), one of our least confident picks due to a core member oversleeping the match. However this was an oversight, as China's stellar performance led to us immediately losing a breakpoint. We knew that we were underprepared, and we paid for that.
+> With this in mind, Canada started the match against China by picking NM2: [Yousei Teikoku - Zetsu \[LMT's Extra\]](https://osu.ppy.sh/beatmapsets/1262446#osu/2929650), one of our least confident picks due to a core member oversleeping the match. However, this was an oversight, as China's stellar performance led to us immediately losing a breakpoint. We knew that we were underprepared, and we paid for that.
 > 
-> Following the match, Canada knew that we did not perform up to standards as a team. In spite of that, I did not have any doubt in myself or my team. China had an amazing match, and we underestimated them. It might be a bold claim but I think we deserved to lose in that moment. We knew that we needed to prepare better.
+> Following the match, Canada knew that we did not perform up to standards as a team. In spite of that, I did not have any doubt in myself or my team. China had an amazing match, and we underestimated them. It might be a bold claim, but I think we deserved to lose at that moment. We knew that we needed to prepare better.
 > 
-> Our first step was to tell the oversleeper to set more alarms and make sure they could hear phone calls. You can never be too sure that the bed isn't extra comfy in the morning. In the following weeks, we made sure to practice together as a team to ensure more confident rosters on every map. Otherwise, we moved on. The match didn't really have an effect on us mentally and we knew that we could win with better preparation.
+> Our first step was to tell the oversleeper to set more alarms and make sure they could hear phone calls. You can never be too sure that the bed isn't extra comfy in the morning. In the following weeks, we made sure to practice together as a team to ensure more confident rosters on every map. Otherwise, we moved on. The match didn't really have an effect on us mentally, and we knew that we could win with better preparation.
 
 ::{#blanktap}::
 
@@ -110,13 +110,13 @@ Here are some wise words from a few people involved in various aspects of the to
 
 > I was very excited and basically in disbelief. The overturning of what's initially a rejection of my commentating application energized me up to prove that this will not be a decision to be regretted upon. I really do want to say thank you and that I am eternally indebted to those who believed in me that made this possible.
 > 
-> Regarding preparation, I don't think I can explain much other than that I basically did nearly nothing. I've only discovered the archetypes of commentating recently and while this wouldn't fly when you're an analyst or a color caster, play by play casting needs much less intricate knowledge of a team's strategy or skillset. It revolves more around how the current map will go, where it helps that I do play parts of the mappools for fun and have some knowledge regarding how a map generally would go for from the experience I've accumulated as a tournament player myself.
+> Regarding preparation, I don't think I can explain much other than that I basically did nearly nothing. I've only discovered the archetypes of commentating recently and while this wouldn't fly when you're an analyst or a color caster, play by play casting needs much less intricate knowledge of a team's strategy or skill set. It revolves more around how the current map will go, where it helps that I do play parts of the mappools for fun and have some knowledge regarding how a map generally would go for from the experience I've accumulated as a tournament player myself.
 > 
 > In short, my preparation consists of filling up my water bottle, sitting comfortably in my chair, and going hard when the moment needs it to be.
 
 *This year's 4WC had a lot of upsets in the earlier rounds. Do you believe that this is something that could happen more frequently from now on and does it make commentating more exciting for you?*
 
-> Regarding the plentiful early round upsets that were witnessed in this iteration, it really has to do with how the earlier rounds consist of lower star rating maps and the big focus on a player's consistency rather than their skillcap. I do think that every country is as good as each other up until a certain star rating. There are no safe rounds in a world cup where every nation sends in their best of the best. High seeding is nothing more but an intimidation factor if you don't back it up.
+> Regarding the plentiful early round upsets that were witnessed in this iteration, it really has to do with how the earlier rounds consist of lower star rating maps and the big focus on a player's consistency rather than their skill cap. I do think that every country is as good as each other up until a certain star rating. There are no safe rounds in a world cup where every nation sends in their best of the best. High seeding is nothing more but an intimidation factor if you don't back it up.
 > 
 > Nonetheless, teams do get high seedings not without a merit. I don't think upsets are something that will happen more often but only as often as or less than it is now. If upsets do spike up in quantity, it is only because of an erroneous early round pooling that deviates completely from the qualifier (Ex. speed qualifier into full gimmick RO32).
 > 
@@ -142,17 +142,17 @@ Here are some wise words from a few people involved in various aspects of the to
 
 *How does it feel to have your maps be played in high-stake tournaments? Does it motivate a mapper to follow the tournament more closely or only if their map is played?*
 
-> It feels great! Unfortunately, due to my circumstances, my interest with osu! standard tournaments isn't as high as people might think and thus I only watch a match if my map got picked so I can see how the chat or the players reacted to it.
+> It feels great! Unfortunately, due to my circumstances, my interest with osu! standard tournaments isn't as high as people might think, and thus I only watch a match if my map got picked so I can see how the chat or the players reacted to it.
 
 ## Statistics
 
-A lot happened this tournament that can be shown off by statistics! We've compiled all of the per-round statistics into a [neat folder](https://drive.google.com/drive/u/0/folders/1dvBabKdU7V1nx1wEMhINi89NSdBvDU5f), but here are some extra picks that deserve their own mentions:
+A lot happened this tournament that can be shown off by statistics! We've compiled all the per-round statistics into a [neat folder](https://drive.google.com/drive/u/0/folders/1dvBabKdU7V1nx1wEMhINi89NSdBvDU5f), but here are some extra picks that deserve their own mentions:
 
 - There were a total of 33 scores set worth more than 500 pp, the highest of which being ::{ flag=SE }:: [scylla](https://osu.ppy.sh/users/9405745)'s 651 pp full combo on [BABYMETAL - Arkadia \[Extreme\]](https://osu.ppy.sh/beatmapsets/1695872#osu/3644487) in Sweden's [Semifinals match against Brazil](https://osu.ppy.sh/community/matches/114120011).
 - We saw a total of 16 seed upsets out of 62 matches played, the biggest of which were:
   - [Chile (5) vs. Spain (28)](https://www.youtube.com/watch?v=vYchqxY_2SI) in the Round of 32, in which 98% of pick'em players incorrectly predicted Chile to win.
   - [South Korea (2) vs. China (14)](https://www.youtube.com/watch?v=UlJ0BW0XI4M) in the Semifinals, notable for being very late in the bracket to have such an upset.
-- Panama qualified for their first ever world-cup-style tournament with ::{ flag=PA }:: [Leonard H](https://osu.ppy.sh/users/11562243)'s (a.k.a. hammytr) #10 individual performance boosting the team to the 32nd spot.
+- Panama qualified for their first ever world-cup-style tournament with ::{ flag=PA }:: [Leonard H](https://osu.ppy.sh/users/11562243) (a.k.a. hammytr) getting 10th place in individual performance statistics, boosting the team to the 32nd spot.
 
 ---
 
