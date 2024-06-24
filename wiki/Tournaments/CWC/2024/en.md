@@ -125,7 +125,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
 
 ### Grand Finals
 
-**[Download the mappack here (195 MB)](http://files.leoflt.com/SrI9cprC)**\
+**[Download the mappack here (195 MB)](https://packs.ppy.sh/P252%20-%20osu!catch%20World%20Cup%202024%3A%20Grand%20Finals.zip)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2179927105)
 
 - No Mod
@@ -136,13 +136,13 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
 - Hidden
   1. [xi - Angelic Party (Spectator) \[Deluge\]](https://osu.ppy.sh/beatmapsets/2202799#fruits/4662256)
   2. [Rigel Theatre - Tir na nOg (F D Flourite) \[Dance Hall\]](https://osu.ppy.sh/beatmapsets/2202810#fruits/4662280)
-  3. [RukaDesu & 5KiLOBYTE - DUALITY (autofanboy) \[Rustyy & AFB's DICHOTOMY\] *(temporary link)*](http://files.leoflt.com/aBzynR9l)
+  3. [RukaDesu & 5KiLOBYTE - DUALITY (autofanboy) \[RUSTYY & AFB'S DICHOTOMY\]](https://osu.ppy.sh/beatmapsets/2202858#fruits/4662378)
 - Hard Rock
   1. [Angelmaker - What I Would Give (Daletto) \[I long to see you...\]](https://osu.ppy.sh/beatmapsets/2202800#fruits/4662258)
   2. [Tedjimo yomigY - Edelweiss (Mrbinking) \[Paradisal\]](https://osu.ppy.sh/beatmapsets/2202816#fruits/4662288)
-  3. [beignet - Mint Comet (Dika312) \[Meteor Shower\] *(temporary link)*](http://files.leoflt.com/xhMzJE6q)
+  3. [beignet - Mint Comet (Dika312) \[Meteor Shower\]](https://osu.ppy.sh/beatmapsets/2202945#fruits/4662593)
 - Double Time
-  1. [MYTH & ROID - Paradisus-Paradoxum (Ascendance) \[Return by Death\] *(temporary link)*](http://files.leoflt.com/VLr8nBpJ)
+  1. [MYTH & ROID - Paradisus-Paradoxum (Ascendance) \[Return by Death\]](https://osu.ppy.sh/beatmapsets/2202946#fruits/4662598)
   2. [Hoshimachi Suisei - BIBBIDIBA (Yoshi\_green) \[Director's Cut\]](https://osu.ppy.sh/beatmapsets/2202811#fruits/4662281)
   3. [Gram - Odin (Greaper) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2202812#fruits/4662283)
   4. [Susumu Hirasawa - CODE-COSTARICA (ExGon) \[MixGon\]](https://osu.ppy.sh/beatmapsets/2202815#fruits/4662287)
