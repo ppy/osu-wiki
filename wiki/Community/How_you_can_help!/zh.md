@@ -50,7 +50,7 @@ osu! 有专注于检查新提交的[谱面](/wiki/Beatmap)是否能够上架 (Ra
 
 ## 给玩家的进度或皮肤提供反馈！
 
-大家都乐于进步，并且时常需要游玩上的反馈。玩家们经常会在[游戏与排名板块](https://osu.ppy.sh/community/forums/13)征询自己游戏表现的反馈，还有人会在[制作中皮肤板块](https://osu.ppy.sh/community/forums/119)急切等待自己崭新皮肤的相关反馈。
+大家都乐于进步，并且时常需要反馈。玩家们经常会在[游戏与排名板块](https://osu.ppy.sh/community/forums/13)征询自己游戏表现的反馈，还有人会在[制作中皮肤板块](https://osu.ppy.sh/community/forums/119)急切等待关于自己新近制作皮肤的反馈。
 
 ## 帮助或加入玩家自发组织的社区项目：
 
