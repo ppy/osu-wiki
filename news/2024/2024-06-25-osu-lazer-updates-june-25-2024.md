@@ -8,7 +8,7 @@ Click here to consume the latest and greatest osu!(lazer) updates!
 
 ![](/wiki/shared/news/2024-06-25-osu-lazer-updates-june-25-2024/banner.jpg)
 
-Mappers should be very happy, as this month's changes are mostly focused around the editor! Check out a video by the one pishi going over each notable change in detail, or keep reading for the summary:
+Mappers should be very happy, as this month's changes are mostly focused around the editor! Sit back, grab some tea, and indulge yourself by watching one [pishi](https://osu.ppy.sh/users/3178418) goes over each notable change in detail, or keep reading for the summary:
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/BnhcyVT_yrk" frameborder="0" allowfullscreen></iframe>
