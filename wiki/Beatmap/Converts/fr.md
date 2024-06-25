@@ -35,16 +35,16 @@ Les conversions d'osu!taiko sont générées en fonction du placement des [hitso
 
 Les conversions osu!catch sont générées en fonction du rythme et du *placement horizontal* (par exemple, la coordonnée de l'axe x) des [objets](/wiki/Gameplay/Hit_object) dans une beatmap, comme suit :
 
-- Les cercles, slider heads, les slider tails et les slider repeats sont convertis en [fruits](/wiki/Gameplay/Hit_object/Fruit).
+- Les cercles, sliderheads, les slidertails et les slider repeats sont convertis en [fruits](/wiki/Gameplay/Hit_object/Fruit).
 - Les ticks du slider sont convertis en [juice drops](/wiki/Gameplay/Hit_object/Juice_stream#drop).
 - Les slider paths sont converties en [droplets](/wiki/Gameplay/Hit_object/Juice_stream#droplet).
 - Les spinners sont convertis en [bananes](/wiki/Gameplay/Hit_object/Banana).
 
 ### Conversion osu! > osu!mania
 
-Les conversions osu!mania sont générées principalement en fonction du rythme de la beatmap, et sont supposées être beaucoup plus aléatoires que les conversions dans les autres modes de jeu. Bien qu'il n'y ait pas de consensus sur le fonctionnement précis de la conversion d'osu! en osu!mania, le processus est généralement le suivant :
+Les conversions osu!mania sont générées principalement en fonction du rythme de la beatmap, et sont supposées être beaucoup plus aléatoires que les conversions dans les autres modes de jeu. Bien qu'il n'y ait pas de consensus sur le fonctionnement précis de la conversion osu! vers osu!mania, le processus est généralement le suivant :
 
-- Les cercles et les sliders plus courts (par exemple les [sliders 1/4](/wiki/Client/Beatmap_editor/Beat_snap_divisor)) sont convertis en notes normales.
+- Les cercles et les sliders courts (par exemple les [sliders 1/4](/wiki/Client/Beatmap_editor/Beat_snap_divisor)) sont convertis en notes normales.
 - Les spinners et les sliders plus longs sont convertis en notes longues.
 
 En plus de ce qui précède, les conversions osu!mania sont uniques dans le sens où la conversion résultante peut être [4K, 5K, ou 7K](/wiki/Gameplay/Game_modifier/xK) en fonction de la difficulté de la beatmap d'origine.
