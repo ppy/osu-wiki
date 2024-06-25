@@ -1,8 +1,3 @@
----
-outdated_since: 18bc8cacbc8b5a3dbed527ddc9f385e630ea2666
-outdated_translation: true
----
-
 # .osu (formato de archivo)
 
 **`.osu`** es un formato de archivo legible por humanos que contiene información sobre un beatmap.
@@ -279,10 +274,7 @@ Hay cuatro tipos de curvas de slider en osu!:
 - **Lineal (L):** Estas curvas forman un camino recto entre todos sus puntos.
 - **Círculo perfecto (P):** Las curvas de círculo perfecto están limitadas a tres puntos (incluida la posición del objeto) que definen el límite de un círculo. El uso de más de tres puntos dará como resultado que el tipo de curva se cambie a bézier.
 
-Si el valor `lenght` de un slider es más largo que la curva definida, el slider se extenderá hasta alcanzar la longitud objetivo:
-
-- Para curvas bézier, catmull y lineales, continúa en línea recta desde el final de la curva.
-- Para curvas de círculo perfecto, continúa el arco circular.
+Si el valor `lenght` de un slider es mayor que la curva definida, el slider se extenderá en línea recta desde el final de la curva hasta alcanzar la longitud deseada.
 
 *Aviso: el valor `lenght` de un slider se puede usar para determinar el tiempo que lleva completar el slider. `length / (SliderMultiplier * 100 * SV) * beatLength` indica cuántos milisegundos se necesitan para completar una diapositiva del slider (donde `SV` es el multiplicador de velocidad del slider dado por el punto de tiempo heredado efectivo, o `1` si no hay ninguno).*
 
