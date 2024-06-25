@@ -8,7 +8,7 @@ Click here to consume the latest and greatest osu!(lazer) updates!
 
 ![](/wiki/shared/news/2024-06-25-osu-lazer-updates-june-25-2024/banner.jpg)
 
-Mappers should be very happy, as this month's changes are mostly focused around the editor! Check out a video by one pishi going over each notable change in detail, or keep reading for the summary:
+Mappers should be very happy, as this month's changes are mostly focused around the editor! Check out a video by the one pishi going over each notable change in detail, or keep reading for the summary:
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/BnhcyVT_yrk" frameborder="0" allowfullscreen></iframe>
@@ -18,8 +18,8 @@ Mappers should be very happy, as this month's changes are mostly focused around 
 
 - **The timeline toggles controls have been moved.** After community feedback the options have been moved into the `View` dropdown menu, giving more space for the actual timeline.
 - **Editing per-node slider hitsounds has been added.** Another small change that aids the current goal to achieve feature parity between the two versions of the game.
-- **Breaks are visible in the editor, are automatically generated, and can be manually added or amended.** <!-- i have no clue what to write this seems self-explanatory -->
-- **The positional snap grid spacing, rotation and position can be edited.** Fans of grid mapping can rejoice! This change opens many possibilites for mappers to implement more abstract concepts to their maps directly within the editor.
+- **Breaks are visible in the editor, are automatically generated, and can be manually added or amended.**
+- **The positional snap grid spacing, rotation and position can be edited.** Fans of grid mapping can rejoice! This change opens many possibilities for mappers to implement more abstract concepts to their maps directly within the editor.
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -31,7 +31,7 @@ Mappers should be very happy, as this month's changes are mostly focused around 
 
 - **New rank/grade display skinning element.** One small step for osu!(lazer), a giant step for the skinning community.
 - **The Traceable mod is now ranked in osu!(lazer).** For now the pp multiplier will be the same as Hidden, but that's bound to change in the future.
-- **Judgments are now visible and properly displayed for the Magnetised, Repel and Depth mods.** They were previously hidden while the devs were figuring out how to properly code that in, but they'll now clearly show you how many 50s (mehs) your're dropping.
+- **Judgments are now visible and properly displayed for the Magnetised, Repel and Depth mods.** They were previously hidden while the devs were figuring out how to properly code that in, but they'll now clearly show you how many 50s (meh's) you're dropping.
 - **The Constant Speed mod has been added for osu!taiko.** This mod was previously only available in osu!mania, but has now been added to osu!taiko as well after community feedback.
 - **The Relax mod has been implemented for osu!taiko.** Staying on topic with osu!taiko, you can now play maps without having to worry about which buttons you are hitting.
 - **You can now change the speed modifier for mods with shortcuts.** Press `Ctrl` + `Up` or `Down` to change speed modifiers for the last selected speed mod.
