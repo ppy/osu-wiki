@@ -19,7 +19,7 @@ osu! 历史的记录，尽在 osu! wiki。
 | [2014](2014) | osu!mania 按 BPM 滚动，游戏内的前奏/尾奏区间，osu!cuttingedge（测试版，公测） |
 | [2015](2015) | osu!web 重新设计，osu!weekly，osu!coins |
 | [2016](2016) | scorev2，公布 osu! 的开源新版本“lazer”（曾被称作“osu!lazer”），osu! wiki 翻新 |
-| [2017](2017) | 发布 osu! 首个 lazer 版本，稳定版客户端加入 Discord 集成 |
+| [2017](2017) | 发布 osu! 首个 lazer 版本，稳定版客户端支持在 Discord 中显示 |
 | [2018](2018) | osu!next，弃用旧版网站，总游玩时长显示 |
 | 2019–2021 | *未记载* |
 | [2022](2022) | osu! 十五周年，新的 osu!monthly 系列新闻报道 |
