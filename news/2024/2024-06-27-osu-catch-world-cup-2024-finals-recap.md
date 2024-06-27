@@ -40,6 +40,12 @@ The mappool selection team is treating the players this year with yet another os
 
 ## Finals results
 
+We started the weekend on saturday with two loser bracket matches, where Poland, Chile, Finland and Canada fought it out to advance one match futher and secure atleast a top 4 finish this year. 
+
+On sunday, Argentina and the United States faced off in the winners finals. The United States have only lost a single map in the entire tournament up until now. Argentina on the other hand has had multiple close encounters and made it to winners finals being the underdogs in most of their recent matches.
+
+The weekend ended with the winners on saturday battling it out to reach the grand finals.
+
 | Team A |  |  | Team B |
 | --: | :-: | :-: | :-- |
 | Chile ::{ flag=CL }:: | 6 | **7** | ::{ flag=PL }:: **Poland** |
@@ -82,5 +88,11 @@ There are two picks left - one for each team. Poland opted to go for the convert
 ---
 
 Join us, this weekend, for the Grand Finals on the [osulive Twitch channel](https://www.twitch.tv/osulive) to see which team takes it all as we crown a new champion! You can find all the details on the [wiki page](/wiki/Tournaments/CWC/2024).
+
+The mappool from the Grand Finals was [showcased to the players at the end of last week](https://www.twitch.tv/videos/2179927105). There are two osu! originals including the [Grand Finals tiebreaker](https://osu.ppy.sh/beatmapsets/2202823#fruits/4662299) shown below. You can view the reveal videos for all original tracks on the [osu!archive YouTube channel](https://www.youtube.com/@osugamearchive).
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/bBPEdmfYPWM" frameborder="0" allowfullscreen></iframe>
+</div>
 
 —ElSkeffe
