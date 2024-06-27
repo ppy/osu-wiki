@@ -20,7 +20,7 @@ Congratulations to the United States for making 4WC history by being the first c
 
 As for our other podium contenders, we have Canada and China, whose roads have been intertwined since the beginning of this tournament. They faced off in RO16 first, where China eked out a 5–3 victory for a massive upset against the 3rd seed, which was only foreshadowing for the future.
 
-China then went on to, as the 14th seed, dominate the 6th seed Brazil and have an all out war with the 2nd seed South Korea, being able to consolidate after 5 breakpoints in a row. This was their first time on the podium, and a massive improvement from their placement the year prior. As for the Canadian side, the early loss to China meant that they had to play the most potential matches in losers' bracket, winning 7 matches in a row to claim their #2 slot once more.
+China then went on to, as the 14th seed, dominate the 6th seed Brazil and have an all out war with the 2nd seed South Korea, being able to consolidate after 5 breakpoints in a row. This marks China's second top 3 finish in 4WC to go alongside their first place result from 2022, one that many didn't expect after finishing only top 8 in 2023. As for the Canadian side, the early loss to China meant that they had to play the most potential matches in losers' bracket, winning 7 matches in a row to claim their #2 slot once more.
 
 ## Match highlights
 
