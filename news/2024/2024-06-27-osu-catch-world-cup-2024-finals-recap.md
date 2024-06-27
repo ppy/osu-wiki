@@ -40,7 +40,6 @@ The mappool selection team is treating the players this year with yet another os
 
 ## Finals results
 
-
 | Team A |  |  | Team B |
 | --: | :-: | :-: | :-- |
 | Chile ::{ flag=CL }:: | 6 | **7** | ::{ flag=PL }:: **Poland** |
@@ -65,8 +64,6 @@ To make matters worse for the Chilean team, Poland was able to break them a seco
 Both teams won their next picks: Poland won [HD2](https://osu.ppy.sh/beatmapsets/2198958#fruits/4653546) convincingly and Chile won [HR1](https://osu.ppy.sh/beatmapsets/2198791#fruits/4653099) on the back of an impressive full-combo from [Aryssiel](https://osu.ppy.sh/users/2389481). Poland is leading 6-5 and have the final pick to their disposal as well. There aren't many potential maps left in the pool and they make the wrong choice going for [NM3](https://osu.ppy.sh/beatmapsets/2198988#fruits/4653607). Chile secures a 6th point and give us the tiebreaker this match deserves! 
 
 The pressure on both teams is immense as a top 4 finish is on the line here. However, there is one man that steps up to the task. [trig0n](https://osu.ppy.sh/users/3704228), the number one in Poland, lives up to his name and absolutely outperforms the entire lobby with a 3-miss run on the [TB](https://osu.ppy.sh/beatmapsets/2198809#fruits/4653132). His astonishing performance helps secure Poland their first top 4 finish on the osu!catch world cup stage.
-
-
 
 ### ::{ flag=CA }:: Canada vs. ::{ flag=PL }:: Poland
 
