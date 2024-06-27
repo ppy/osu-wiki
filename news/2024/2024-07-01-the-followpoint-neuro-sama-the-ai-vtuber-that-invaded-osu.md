@@ -113,4 +113,6 @@ Once again I'd like to thank Vedal and Neuro for agreeing to an interview and an
 
 As usually, we will have another interview come out in the next two weeks, and who knows, maybe it's *your* favorite player that got interviewed? Don't forget that you can also follow [@The_Followpoint on Twitter](https://twitter.com/The_Followpoint) for updates and question submissions for future interviews.
 
+See you next time! <3
+
 —MegaMix
