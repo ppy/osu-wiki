@@ -79,7 +79,7 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
 
 ### General rules
 
-1. Match lobbies across the tournament will adhere to the following room settings:
+1. All match lobbies across the tournament will adhere to the following room settings:
    - Team Mode: `Team VS` (2v2)
    - Win Condition: [`ScoreV2`](/wiki/Gameplay/Score#scorev2)
 2. The mappools for each round will be announced by the tournament management in advance before the actual matches take place.
