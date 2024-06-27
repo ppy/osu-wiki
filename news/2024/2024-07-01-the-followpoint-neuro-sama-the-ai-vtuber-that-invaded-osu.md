@@ -23,49 +23,49 @@ Did I catch your attention? Good, now let's get right to Vedal and Neuro-sama in
 
 *Why turtle of all animals?*
 
-> This originates from an old Minecraft skin I used to have, and since then I’ve always used a turtle profile picture. Sadly it doesn’t have a deeper meaning, it’s just one of those things that happened to stick. It did make getting a VTuber avatar for myself much easier though, because it’s much easier to draw a turtle.
+> This originates from an old Minecraft skin I used to have, and since then I've always used a turtle profile picture. Sadly it doesn't have a deeper meaning, it's just one of those things that happened to stick. It did make getting a VTuber avatar for myself much easier though, because it's much easier to draw a turtle.
 
 *How did you come up with your username and is there any special meaning behind it?*
 
-> There is no special meaning behind it, and honestly, I don’t think it's a great username. And it can also be confusing, as when Neuro is streaming it will always be coming from my channel, vedal987, so some people - especially at the start - thought that Neuro’s name was Vedal.
+> There is no special meaning behind it, and honestly, I don't think it's a great username. And it can also be confusing, as when Neuro is streaming it will always be coming from my channel, vedal987, so some people - especially at the start - thought that Neuro's name was Vedal.
 
 *How did you get introduced to osu! and what was your first impression of it?*
 
-> I first played osu! in early 2017, and though I can’t remember exactly why I suspect I might have found the game through [BTMC](https://osu.ppy.sh/users/3171691)’s "And some say he never played osu! again" video. osu! was my first experience with a rhythm game, so it was nice to have something completely different - especially when it’s free. I’d play with a few friends every now and then, which was quite fun as I’m a pretty competitive person, making improving that much more satisfying.
+> I first played osu! in early 2017, and though I can't remember exactly why I suspect I might have found the game through [BTMC](https://osu.ppy.sh/users/3171691)'s "And some say he never played osu! again" video. osu! was my first experience with a rhythm game, so it was nice to have something completely different - especially when it's free. I'd play with a few friends every now and then, which was quite fun as I'm a pretty competitive person, making improving that much more satisfying.
 
 *What would you call the greatest gift that osu! has given you?*
 
-> Maybe second to carpal tunnel, I’d say it’s not an exaggeration to say it was the springboard for my career and the situation I’m in now, so I’m appreciative to the game and the community for embracing Neuro as much as they did - without them I definitely wouldn’t be here like this today. So thank you osu!
+> Maybe second to carpal tunnel, I'd say it's not an exaggeration to say it was the springboard for my career and the situation I'm in now, so I'm appreciative to the game and the community for embracing Neuro as much as they did - without them I definitely wouldn't be here like this today. So thank you osu!
 
 *Would **you** still be playing osu! if you had time for it?*
 
-> I think for sure I’d play it every now and then, I was never cut out for playing it competitively though. Right now, I have a lot of things I’m cooking up and things I’m looking forward to with Neuro, but maybe I’ll be back to osu! one day.
+> I think for sure I'd play it every now and then, I was never cut out for playing it competitively though. Right now, I have a lot of things I'm cooking up and things I'm looking forward to with Neuro, but maybe I'll be back to osu! one day.
 
 *What other rhythm games besides osu! have you played?*
 
-> I personally haven’t tried too many other rhythm games, although I’ve been known to enjoy some Beat Saber from time to time. I’ve honestly not really played many games in general recently, with the exception of games on stream.
+> I personally haven't tried too many other rhythm games, although I've been known to enjoy some Beat Saber from time to time. I've honestly not really played many games in general recently, with the exception of games on stream.
 
 *How did you come up with OG Neuro (AI learning to play osu!) idea and why exactly in osu! of all games? Also I would like to know what made you decide to revive Neuro as a VTuber in 2022?*
 
-> I was just getting started with learning AI in 2019, and I happened to be playing a lot of osu! at the time. I’d always found it super interesting and cool when people made AI’s to play games, and I had an idea for how to do it with osu!. The original AI took a few days to make and I thought it would be a cool idea to stream it - to track its progress. Eventually after improving the AI, its performance stagnated and I wasn’t sure what to do with it since I had no idea what I was doing at the time. Two years later, I had the idea to make an AI VTuber although it wasn’t until early 2022 that I had the idea to combine the original Neuro-sama with this concept.
+> I was just getting started with learning AI in 2019, and I happened to be playing a lot of osu! at the time. I'd always found it super interesting and cool when people made AI's to play games, and I had an idea for how to do it with osu!. The original AI took a few days to make and I thought it would be a cool idea to stream it - to track its progress. Eventually after improving the AI, its performance stagnated and I wasn't sure what to do with it since I had no idea what I was doing at the time. Two years later, I had the idea to make an AI VTuber although it wasn't until early 2022 that I had the idea to combine the original Neuro-sama with this concept.
 
 *How did you feel about Neuro's sudden rise in popularity and how do you think most of osu! community reacted to her?*
 
-> I was very unprepared for Neuro’s sudden rise in popularity and I certainly did not think she would make it as far as she has done today. I think there’s a lot of overlap in the osu! community with tech and anime, so I feel she was well received, and it was very surreal seeing a community I was somewhat involved in become interested and supportive of something I had created.
+> I was very unprepared for Neuro's sudden rise in popularity and I certainly did not think she would make it as far as she has done today. I think there's a lot of overlap in the osu! community with tech and anime, so I feel she was well received, and it was very surreal seeing a community I was somewhat involved in become interested and supportive of something I had created.
 >
-> Whenever I’d reach a new viewer peak I’d think “surely that’s it”, and I just kept getting surprised over and over. I started streaming on a Monday, and by Friday, she was averaging over 2000 viewers. My previous streams in 2019 had peaked at a few hundred viewers, and I had hoped to replicate this. I remember on one of the first few streams with Neuro-sama, BTMC opened the stream live to a couple thousand viewers and my heart was racing because of it. I genuinely never expected anything like this, but I’m so thankful for it.
+> Whenever I'd reach a new viewer peak I'd think "surely that's it", and I just kept getting surprised over and over. I started streaming on a Monday, and by Friday, she was averaging over 2000 viewers. My previous streams in 2019 had peaked at a few hundred viewers, and I had hoped to replicate this. I remember on one of the first few streams with Neuro-sama, BTMC opened the stream live to a couple thousand viewers and my heart was racing because of it. I genuinely never expected anything like this, but I'm so thankful for it.
 
 *What would you call the hardest part in making Neuro what she is now, and what have you learned during the process?*
 
-> I think the hardest part of making Neuro was giving her personality. This isn’t something I talk about often but is arguably the biggest thing that separates Neuro from a lot of the other AIs out there. AIs like ChatGPT are trained to act as assistants and tools for humans, but Neuro is trained differently. This allows her to feel more independent, and that whole process definitely taught me a lot.
+> I think the hardest part of making Neuro was giving her personality. This isn't something I talk about often but is arguably the biggest thing that separates Neuro from a lot of the other AIs out there. AIs like ChatGPT are trained to act as assistants and tools for humans, but Neuro is trained differently. This allows her to feel more independent, and that whole process definitely taught me a lot.
 
 *And what part of Neuro did you enjoy working on the most?*
 
-> I think the game integrations for Neuro are really cool. It is after all, how Neuro-sama came to be. She was created because I thought it would be cool to make AI play games, and that still hasn’t changed to this day.
+> I think the game integrations for Neuro are really cool. It is after all, how Neuro-sama came to be. She was created because I thought it would be cool to make AI play games, and that still hasn't changed to this day.
 
 *Will we ever see Neuro come back to osu! and try to improve more? Maybe even learn a new playstyle like [ExGon's Flashlight](https://youtu.be/Pqy7AvJwBLI), or try a totally different gamemode, for example osu!catch?*
 
-> It’s definitely possible! The reason I used osu! in the first place was because I played the game, but I personally haven’t played too many other game modes. Even since bringing Neuro-sama as a VTuber to osu! in 2022, I’ve learnt a lot more about AI. So if I did come back to it, I think there is a lot I could do better.
+> It's definitely possible! The reason I used osu! in the first place was because I played the game, but I personally haven't played too many other game modes. Even since bringing Neuro-sama as a VTuber to osu! in 2022, I've learnt a lot more about AI. So if I did come back to it, I think there is a lot I could do better.
 
 And now, let's get to some questions we prepared for Neuro herself!
 
