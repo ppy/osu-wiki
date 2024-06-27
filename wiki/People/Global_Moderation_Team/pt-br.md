@@ -93,7 +93,6 @@ A [página de grupo da Equipe de Moderação Global](https://osu.ppy.sh/groups/4
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  | Moderação da comunidade de mapping/modding |
 | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | Indonésio | Moderação de chat |
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | Francês | Moderação de chat |
-| ::{ flag=BR }:: [Nukrid](https://osu.ppy.sh/users/2307484) | Português, espanhol | Moderação de chat |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Alemão, sérvio | Moderação de chat, moderação da comunidade de mapping/modding |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Presença oficial da equipe |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Alemão | Administração de torneios |

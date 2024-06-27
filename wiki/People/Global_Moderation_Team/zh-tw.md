@@ -103,7 +103,6 @@ GMT 負責聊天頻道和論壇的安危，和處理社群間的交流。可以�
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  | 製圖/Mod 圖社群管理員 |
 | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | 印尼文 | 聊天室管理員 |
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | 法文 | 聊天室管理員 |
-| ::{ flag=BR }:: [Nukrid](https://osu.ppy.sh/users/2307484) | 葡萄牙文、西班牙文 | 聊天室管理員 |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | 德文、塞爾維亞文 | 聊天室管理員、製圖/Mod 圖社群管理員 |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | 官方團隊 |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | 德文 | 錦標賽管理員 |

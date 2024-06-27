@@ -121,7 +121,6 @@ Lorsqu'un Global Moderator décide de quitter l'équipe, il peut se voir accorde
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  | Modération de la communauté modding/mapping |
 | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | Indonésien | Modération du tchat |
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | Français | Modération du tchat |
-| ::{ flag=BR }:: [Nukrid](https://osu.ppy.sh/users/2307484) | Portugais, espagnol | Modération du tchat |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Allemand, serbe | Modération du tchat, modération de la communauté modding/mapping |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Présence officielle de l'équipe |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Allemand | Manager des tournois |
