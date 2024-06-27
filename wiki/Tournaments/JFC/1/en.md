@@ -55,7 +55,7 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
 
 ## Participants
 
-*This list is tentative as of 2024-06-27.*
+*This list is tentative as of June 27, 2024.*
 
 | Team name | Members |
 | :-: | :-- |
@@ -87,7 +87,7 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
 5. If a team does not show up or is unable to field in a sizeable 2v2 roster within **10 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
-7. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards teams who perform better in general during the course of the beatmap regardless of their remaining health at the end.
+7. **No Fail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards teams who perform better in general during the course of the beatmap regardless of their remaining health at the end.
 8. If a player disconnects, it will be treated as if they had failed the beatmap.
    - A beatmap can be replayed for disconnects that occur within a few seconds after it has been started by the referee.
 9. Lag is not a valid reason to nullify a beatmap.
@@ -98,7 +98,7 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
 
 ### Tournament registration
 
-1. In order to participate, players are required to form a team of 2-3 players and register into the tournament as a team through [this form](https://forms.gle/Pyf4VE5LcfY5FSb76).
+1. In order to participate, players are required to form a team of 2–3 players and register into the tournament as a team through [this form](https://forms.gle/Pyf4VE5LcfY5FSb76).
 2. Each team has to submit a designated team captain and a team name to the tournament management before the end of the screening phase.
    - Team names may not violate the [osu! community rules](/wiki/Rules#community-rules).
 3. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
@@ -139,15 +139,15 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
    - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
-2. Each team has to ban **one beatmap** (on the Round of 16) or  **two beatmaps** (from the Quarterfinals onwards) from the corresponding mappool. These beatmaps will not be allowed to be picked by any team during the entire match.
+2. Each team has to ban **one beatmap** (on the Round of 16) or **two beatmaps** (from the Quarterfinals onwards) from the corresponding mappool. These beatmaps will not be allowed to be picked by any team during the entire match.
    - Each team **may not ban two beatmaps from the same mod pool**.
    - The tiebreaker map is not allowed to be banned.
-3. Barring the NoMod pool, each team **may not pick beatmaps from the same mod pool consecutively**.
+3. Barring the No Mod pool, each team **may not pick beatmaps from the same mod pool consecutively**.
 4. Each team will be given a chance to pick **one warm-up beatmap** (up to 4 minutes max) to be played in the lobby before the match.
    - Playing a warm-up beatmap is not mandatory, and teams may elect to skip their warm-up pick should they wish to.
-5. In a FreeMod pick, each player has to apply at least one mod to play the beatmap with. Allowed mods are Easy, HardRock, Hidden, or any possible combinations of the three mods.
-   - Each player will have to pick a mod or mod combination that is different to their own teammate's pick. **Playing a FreeMod pick without any mods applied is not allowed.**
+5. In a Free Mod pick, each player has to apply at least one mod to play the beatmap with. Allowed mods are Easy, Hard Rock, Hidden, or any possible combinations of the three mods.
+   - Each player will have to pick a mod or mod combination that is different to their own teammate's pick. **Playing a Free Mod pick without any mods applied is not allowed.**
    - Players opting to play with Easy will have their scores multiplied by `x1.7` up to a maximum of 850,000 points.
-6. In the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled. Players are free to play the tiebreaker map with Hidden, HardRock, or Hidden+HardRock should they wish to.
+6. In the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled. Players are free to play the tiebreaker map with Hidden, Hard Rock, or Hidden + Hard Rock should they wish to.
    - Playing the tiebreaker map with a mod is *not* mandatory.
 7. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
