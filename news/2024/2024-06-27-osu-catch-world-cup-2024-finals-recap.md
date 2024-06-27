@@ -80,7 +80,7 @@ This match started very similarly to the match between Chile and Poland, as both
 
 At a 3-3 scoreline, underdogs Canada actually broke team Poland on [HD2](https://osu.ppy.sh/beatmapsets/2198958#fruits/4653546). They also won their next pick [HR3](https://osu.ppy.sh/beatmapsets/2198812#fruits/4653138) and went up 5-3. However, Poland won the next two picks on [MX3](https://osu.ppy.sh/beatmapsets/2198806#fruits/4653125) and [DT3](https://osu.ppy.sh/beatmapsets/2198800#fruits/4653119) to tie things up at 5 a piece. 
 
-There are two picks left - one for each team. Poland opt to go for the convert [NM4](https://osu.ppy.sh/beatmapsets/2198872#fruits/4653265) and very convingly win this one with a score margin of over 200.000 points. Canada, in similar fashion as Poland the day before, picked [NM3](https://osu.ppy.sh/beatmapsets/2198988#fruits/4653607). This, in the exact same turn of events, turned out to be the wrong pick as Poland this time around won it. This secures them the win, their first podium and history and a spot in the osu!catch history books.
+There are two picks left - one for each team. Poland opted to go for the convert [NM4](https://osu.ppy.sh/beatmapsets/2198872#fruits/4653265) and very convingly win this one with a score margin of over 200.000 points. Canada, in similar fashion as Poland the day before, picked [NM3](https://osu.ppy.sh/beatmapsets/2198988#fruits/4653607). This, in the exact same turn of events, turned out to be the wrong pick as Poland this time around won it. This secures them the win, their first podium and history and a spot in the osu!catch history books.
 
 ---
 
