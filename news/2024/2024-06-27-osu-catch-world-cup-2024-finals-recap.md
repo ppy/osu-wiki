@@ -79,20 +79,20 @@ The pressure on both teams is immense as a top 4 finish is on the line here. How
 
 Canada convincingly won their match against Finland and also secured themselves top 4. As a reward, they get to battle it out with Poland which for both teams would be their first podium finish ever.
 
-This match started very similarly to the match between Chile and Poland, as both Canada and Poland won their first three picks. [trig0n](https://osu.ppy.sh/users/3704228) matched [Aryssiels](https://osu.ppy.sh/users/2389481) insane full-combo on [HR1](https://osu.ppy.sh/beatmapsets/2198791#fruits/4653099) and [Phob](https://osu.ppy.sh/users/6069462) got an impressive one-miss on [HR2](https://osu.ppy.sh/beatmapsets/2198874#fruits/4653271).
+This match started very similarly to the match between Chile and Poland, as both Canada and Poland won their first three picks. ::{ flag=PL }:: [trig0n](https://osu.ppy.sh/users/3704228) matched ::{ flag=CL }:: [Aryssiels](https://osu.ppy.sh/users/2389481) insane full-combo on [HR1](https://osu.ppy.sh/beatmapsets/2198791#fruits/4653099), and ::{ flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462) got an impressive one-miss on [HR2](https://osu.ppy.sh/beatmapsets/2198874#fruits/4653271).
 
-At a 3-3 scoreline, underdogs Canada actually broke team Poland on [HD2](https://osu.ppy.sh/beatmapsets/2198958#fruits/4653546). They also won their next pick [HR3](https://osu.ppy.sh/beatmapsets/2198812#fruits/4653138) and went up 5-3. However, Poland won the next two picks on [MX3](https://osu.ppy.sh/beatmapsets/2198806#fruits/4653125) and [DT3](https://osu.ppy.sh/beatmapsets/2198800#fruits/4653119) to tie things up at 5 a piece. 
+Tied at 3 points, Canada, the underdogs, actually got a break point against team Poland on [HD2](https://osu.ppy.sh/beatmapsets/2198958#fruits/4653546). They also won their next pick [HR3](https://osu.ppy.sh/beatmapsets/2198812#fruits/4653138) and went up 5–3. However, Poland won the next two picks on [MX3](https://osu.ppy.sh/beatmapsets/2198806#fruits/4653125) and [DT3](https://osu.ppy.sh/beatmapsets/2198800#fruits/4653119) to tie things up at 5 a piece.
 
-There are two picks left - one for each team. Poland opted to go for the convert [NM4](https://osu.ppy.sh/beatmapsets/2198872#fruits/4653265) and very convingly win this one with a score margin of over 200.000 points. Canada, in similar fashion as Poland the day before, picked [NM3](https://osu.ppy.sh/beatmapsets/2198988#fruits/4653607). This, in the exact same turn of events, turned out to be the wrong pick as Poland this time around won it. This secures them the win, their first podium and a spot in the osu!catch history books.
+There are two picks left — one for each team. Poland opted to go for the convert [NM4](https://osu.ppy.sh/beatmapsets/2198872#fruits/4653265) and very convingly won this one with a score margin of over 200,000 points. Canada, in similar fashion as Poland the day before, picked [NM3](https://osu.ppy.sh/beatmapsets/2198988#fruits/4653607). This, in the exact same turn of events, turned out to be the wrong pick as this time around Poland won it. This secures them the win, their first podium, and a spot in the osu!catch history books.
 
 ---
-
-Join us, this weekend, for the Grand Finals on the [osulive Twitch channel](https://www.twitch.tv/osulive) to see which team takes it all as we crown a new champion! You can find all the details on the [wiki page](/wiki/Tournaments/CWC/2024).
 
 The mappool from the Grand Finals was [showcased to the players at the end of last week](https://www.twitch.tv/videos/2179927105). There are two osu! originals including the [Grand Finals tiebreaker](https://osu.ppy.sh/beatmapsets/2202823#fruits/4662299) shown below. You can view the reveal videos for all original tracks on the [osu!archive YouTube channel](https://www.youtube.com/@osugamearchive).
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/bBPEdmfYPWM" frameborder="0" allowfullscreen></iframe>
 </div>
+
+Join us, this weekend, for the Grand Finals on the [osulive Twitch channel](https://www.twitch.tv/osulive) to see which team takes it all as we crown a new champion! You can find all the details and schedules on the [wiki page](/wiki/Tournaments/CWC/2024).
 
 —ElSkeffe
