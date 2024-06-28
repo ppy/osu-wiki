@@ -21,7 +21,7 @@ The Finals week is notoriously a very exciting weekend as we finally know which 
 [**Download the pool here! (199 MB)**](https://osu.ppy.sh/beatmaps/packs/P251)
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2167854236&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2173835340&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
 The mappool has reached a difficulty where a full combo on any of the maps is becoming challenging for some and impossible for many. We saw a handful of FCs on [HD3](https://osu.ppy.sh/beatmapsets/2198816#fruits/4653147), [HR1](https://osu.ppy.sh/beatmapsets/2198791#fruits/4653099) and [HR3](https://osu.ppy.sh/beatmapsets/2198812#fruits/4653138).
