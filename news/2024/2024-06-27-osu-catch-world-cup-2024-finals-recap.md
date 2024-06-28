@@ -28,7 +28,7 @@ The mappool has reached a difficulty where a full combo on any of the maps is be
 
 The most picked maps in the pool this week are [NM4](https://osu.ppy.sh/beatmapsets/2198872#fruits/4653265) and [MM2](https://osu.ppy.sh/beatmapsets/2198798#fruits/4653117) whilst [NM1](https://osu.ppy.sh/beatmapsets/2198766#fruits/4653068) and [DT2](https://osu.ppy.sh/beatmapsets/2198875#fruits/4653272) were never picked.
 
-The mappool selection team is treating the players this year with yet another [osu! original](wiki/osu!_originals) coming out for this mappool. The Mixed Mod 3 slot is filled by [Jemzuu](https://osu.ppy.sh/users/7890134)'s [Neverlast](https://osu.ppy.sh/beatmapsets/2198806#fruits/4653125), a song produced by [Aoi](https://osu.ppy.sh/beatmaps/artists/183).
+The mappool selection team is treating the players this year with yet another [osu! original](/wiki/osu!_originals) coming out for this mappool. The Mixed Mod 3 slot is filled by [Jemzuu](https://osu.ppy.sh/users/7890134)'s [Neverlast](https://osu.ppy.sh/beatmapsets/2198806#fruits/4653125), a song produced by [Aoi](https://osu.ppy.sh/beatmaps/artists/183).
 
 [![](/wiki/shared/news/2024-06-27-osu-catch-world-cup-2024-finals-recap/neverlast.jpg)](https://osu.ppy.sh/beatmapsets/2198806#fruits/4653125)
 
