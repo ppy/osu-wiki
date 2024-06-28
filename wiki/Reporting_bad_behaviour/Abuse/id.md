@@ -22,19 +22,19 @@ Segera blokir pengguna tersebut dengan mengklik kanan nama pengguna mereka dan m
 
 Kamu juga disarankan untuk segera melaporkan pengguna tersebut dengan mengklik tombol `Laporkan Pengguna` dan mengisi formulir yang tertera.
 
+Kamu juga dapat melaporkan pengguna tersebut dengan cara mengetik `!report <nama pengguna> <permasalahan>`, di mana `<nama pengguna>` merupakan nama pengguna yang berulah dan `<permasalahan>` merupakan penjelasan singkat seputar masalah yang bersangkutan. Apabila nama pengguna yang akan kamu laporkan mengandung spasi, ganti seluruh spasi ini dengan garis bawah (`_`).
+
 Apabila kamu merasa bahwa komentar/rayuan yang kamu terima sudah sangat tidak pantas atau kamu masih di bawah umur, mohon kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan informasi yang selengkap-lengkapnya.
 
 ### Dalam postingan publik pada forum osu!
 
-Laporkan postingan tersebut kepada para anggota [Global Moderation Team](/wiki/People/Global_Moderation_Team) (GMT) kami sesegera mungkin.
+[Laporkan postingan tersebut](/wiki/Reporting_bad_behaviour#forum) kepada [Global Moderation Team](/wiki/People/Global_Moderation_Team) (GMT) kami sesegera mungkin.
 
-Untuk melapor, klik salah satu nama GMT yang tertera pada halaman tersebut. Hal ini akan membawamu ke profil mereka masing-masing. Apabila kamu tidak yakin kepada siapa kamu harus melapor, kamu dapat [langsung melapor ke Ephemeral](https://osu.ppy.sh/users/102335).
+Sebagai alternatifnya, klik nama pengguna salah satu GMT yang tertera pada halaman tersebut. Hal ini akan membawamu ke profil mereka masing-masing. Apabila kamu tidak yakin kepada siapa kamu harus melapor, kamu dapat [langsung menghubungi pengguna ini](https://osu.ppy.sh/users/102335).
 
 Apabila sudah, klik tombol amplop yang berada tepat di bawah bendera negara mereka. Setelahnya, layar pesan obrolan pribadi (*private message*) akan terbuka.
 
 Salin tautan postingan yang bermasalah tersebut pada kolom *chat* yang muncul dan ceritakan apa yang terjadi kepada anggota GMT yang bersangkutan. Mereka akan menghapus postingan tersebut untukmu sesegera mungkin.
-
-Kamu juga dapat melaporkan postingan tersebut dengan cara mengetik `!report <nama pengguna> <permasalahan>` pada *in-game chat*, di mana `<nama pengguna>` merupakan nama pengguna yang berulah dan `<permasalahan>` merupakan tautan serta penjelasan singkat seputar postingan yang bermasalah tersebut. Apabila nama pengguna yang akan kamu laporkan mengandung spasi, ganti seluruh spasi yang ada pada nama pengguna mereka dengan garis bawah (`_`).
 
 Apabila postingan tersebut masih belum juga dihapus setelah sekian waktu, mohon kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan informasi yang selengkap-lengkapnya.
 
