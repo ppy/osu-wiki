@@ -44,7 +44,7 @@ We started the weekend on Saturday with two losers' bracket matches, where Polan
 
 On sunday, Argentina and the United States faced off in the Winners' Finals, with the United States having only lost a single map in the entire tournament up until now. Argentina on the other hand has had multiple close encounters and made it to Winners' Finals being the underdogs in most of their recent matches.
 
-The weekend ended with the winners on saturday battling it out to reach the grand finals.
+The weekend ended with the winners on saturday battling it out to reach the Grand Finals.
 
 | Team A |  |  | Team B |
 | --: | :-: | :-: | :-- |
@@ -61,15 +61,15 @@ The weekend ended with the winners on saturday battling it out to reach the gran
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2179700308&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-Both Chile and Poland have looked very strong during this years osu!catch world cup, so the stage was set and the expectations high as these two titans faced off to secure themselves a top 4 finish. Chile is the final remaining country that has previously won the world cup, albeit this being 10 years ago already.
+Both Chile and Poland have looked very strong during this year's CWC, so the stage was set and the expectations high as these two titans faced off to secure themselves a top 4 finish. Chile is the final remaining country that has previously won the world cup, albeit this being 10 years ago already.
 
-Both teams won their first two picks. On Chile's third pick, however, Poland were able to grab their first breakpoint of the match. [trig0n](https://osu.ppy.sh/users/3704228) led his team towards a very narrow 7.000 points victory on [DT4](https://osu.ppy.sh/beatmapsets/2198802#fruits/4653121). With another MVP by trig0n Poland won their next pick and got into a comfortable 4-2 lead in this BO13 match versus Chile.
+Both teams won their first two picks. On Chile's third pick however, Poland were able to grab their first breakpoint of the match. ::{ flag=PL }:: [trig0n](https://osu.ppy.sh/users/3704228) led his team towards a very narrow 7,000 points victory on [DT4](https://osu.ppy.sh/beatmapsets/2198802#fruits/4653121). With another MVP by ::{ flag=PL }:: trig0n, Poland won their next pick and got into a comfortable 4–2 lead in this BO13 match versus Chile.
 
-To make matters worse for the Chilean team, Poland was able to break them a second time. This time, [Phob]() led his team to a 5-2 advantage on [NM4](https://osu.ppy.sh/beatmapsets/2198872#fruits/4653265). Backs against the wall, Chile broke back immediately with a very solid Hidden score coming out from rookie [Thaemine](https://osu.ppy.sh/users/32442896) on [MX3](https://osu.ppy.sh/beatmapsets/2198806#fruits/4653125). On the very next map, [HR3](https://osu.ppy.sh/beatmapsets/2198812#fruits/4653138), [Thaemine](https://osu.ppy.sh/users/32442896) produced a brilliant full-combo cutting down Polands lead to only a single point.
+To make matters worse for the Chilean team, Poland was able to break them a second time. This time, ::{ flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462) led his team to a 5–2 advantage on [NM4](https://osu.ppy.sh/beatmapsets/2198872#fruits/4653265). Backs against the wall, Chile broke back immediately with a very solid Hidden score coming out from rookie ::{ flag=CL }:: [Thaemine](https://osu.ppy.sh/users/32442896) on [MX3](https://osu.ppy.sh/beatmapsets/2198806#fruits/4653125). On the very next map, [HR3](https://osu.ppy.sh/beatmapsets/2198812#fruits/4653138), ::{ flag=PL }:: [Thaemine](https://osu.ppy.sh/users/32442896) produced a brilliant full-combo cutting down Poland's lead to only a single point.
 
-Both teams won their next picks: Poland won [HD2](https://osu.ppy.sh/beatmapsets/2198958#fruits/4653546) convincingly and Chile won [HR1](https://osu.ppy.sh/beatmapsets/2198791#fruits/4653099) on the back of an impressive full-combo from [Aryssiel](https://osu.ppy.sh/users/2389481). Poland is leading 6-5 and have the final pick to their disposal as well. There aren't many potential maps left in the pool and they make the wrong choice going for [NM3](https://osu.ppy.sh/beatmapsets/2198988#fruits/4653607). Chile secures a 6th point and give us the tiebreaker this match deserves! 
+Both teams won their next picks — Poland won [HD2](https://osu.ppy.sh/beatmapsets/2198958#fruits/4653546) convincingly and Chile won [HR1](https://osu.ppy.sh/beatmapsets/2198791#fruits/4653099) on the back of an impressive full combo from ::{ flag=CL }:: [Aryssiel](https://osu.ppy.sh/users/2389481). Poland is leading 6–5 and have the final pick to their disposal as well. There aren't many potential maps left in the pool, and they make the wrong choice going for [NM3](https://osu.ppy.sh/beatmapsets/2198988#fruits/4653607). Chile secures a 6th point and give us the tiebreaker this match deserves!
 
-The pressure on both teams is immense as a top 4 finish is on the line here. However, there is one man that steps up to the task. [trig0n](https://osu.ppy.sh/users/3704228), the number one in Poland, lives up to his name and absolutely outperforms the entire lobby with a 3-miss run on the [TB](https://osu.ppy.sh/beatmapsets/2198809#fruits/4653132). His astonishing performance helps secure Poland their first top 4 finish on the osu!catch world cup stage.
+The pressure on both teams is immense as a top 4 finish is on the line here. However, there is one man that steps up to the task. ::{ flag=PL }:: [trig0n](https://osu.ppy.sh/users/3704228), the number one in Poland, lives up to his name and absolutely outperforms the entire lobby with a 3-miss run on the [TB](https://osu.ppy.sh/beatmapsets/2198809#fruits/4653132). His astonishing performance helps secure Poland their first top 4 finish on the CWC stage.
 
 ### ::{ flag=CA }:: Canada vs. ::{ flag=PL }:: Poland
 
