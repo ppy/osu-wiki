@@ -654,7 +654,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ## Notes
 
-[^showmatch]: Grand Finals showmatch: All-stars players from countries
+[^showmatch]: Grand Finals showmatch starring players from past CWCs
 [^grand-finals]: Grand Finals match
 [^losers-finals]: Losers bracket Grand Finals match
 [^qualifiers-seeding]: Used as the main seeding method
