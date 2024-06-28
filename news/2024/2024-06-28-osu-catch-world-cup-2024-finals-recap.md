@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!catch World Cup 2024: Finals Recap"
-date: 2024-06-27 20:00:00 +0000
+date: 2024-06-28 12:00:00 +0000
 ---
 
 We have our podium finisher of this year's world cup! Let's recap the Finals weekend.
@@ -30,7 +30,7 @@ The most picked maps in the pool this week are [NM4](https://osu.ppy.sh/beatmaps
 
 The mappool selection team is treating the players this year with yet another [osu! original](/wiki/osu!_originals) coming out for this mappool. The Mixed Mod 3 slot is filled by [Jemzuu](https://osu.ppy.sh/users/7890134)'s [Neverlast](https://osu.ppy.sh/beatmapsets/2198806#fruits/4653125), a song produced by [Aoi](https://osu.ppy.sh/beatmaps/artists/183).
 
-[![](/wiki/shared/news/2024-06-27-osu-catch-world-cup-2024-finals-recap/neverlast.jpg)](https://osu.ppy.sh/beatmapsets/2198806#fruits/4653125)
+[![](/wiki/shared/news/2024-06-28-osu-catch-world-cup-2024-finals-recap/neverlast.jpg)](https://osu.ppy.sh/beatmapsets/2198806#fruits/4653125)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -40,7 +40,7 @@ The mappool selection team is treating the players this year with yet another [o
 
 ## Finals results
 
-We started the weekend on Saturday with two losers' bracket matches, where Poland, Chile, Finland and Canada fought it out to advance one match further and secure at least a top 4 finish this year. 
+We started the weekend on Saturday with two losers' bracket matches, where Poland, Chile, Finland and Canada fought it out to advance one match further and secure at least a top 4 finish this year.
 
 On Sunday, Argentina and the United States faced off in the Winners' Finals, with the United States having only lost a single map in the entire tournament up until now. Argentina on the other hand has had multiple close encounters and made it to Winners' Finals being the underdogs in most of their recent matches.
 
