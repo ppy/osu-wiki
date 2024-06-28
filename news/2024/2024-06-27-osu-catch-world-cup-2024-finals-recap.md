@@ -42,9 +42,9 @@ The mappool selection team is treating the players this year with yet another [o
 
 We started the weekend on Saturday with two losers' bracket matches, where Poland, Chile, Finland and Canada fought it out to advance one match further and secure at least a top 4 finish this year. 
 
-On sunday, Argentina and the United States faced off in the Winners' Finals, with the United States having only lost a single map in the entire tournament up until now. Argentina on the other hand has had multiple close encounters and made it to Winners' Finals being the underdogs in most of their recent matches.
+On Sunday, Argentina and the United States faced off in the Winners' Finals, with the United States having only lost a single map in the entire tournament up until now. Argentina on the other hand has had multiple close encounters and made it to Winners' Finals being the underdogs in most of their recent matches.
 
-The weekend ended with the winners on saturday battling it out to reach the Grand Finals.
+The weekend ended with the winners on Saturday battling it out to reach the Grand Finals.
 
 | Team A |  |  | Team B |
 | --: | :-: | :-: | :-- |
