@@ -59,6 +59,14 @@ Try out [any difficulty from this full spread](https://osu.ppy.sh/beatmapsets/21
     <source src="LINK">
 </audio>
 
+### Kuba Oms - My Love (takehirotei remix)
+
+We obviously can't forget [this mapping contest classic](https://osu.ppy.sh/beatmapsets/1390004) hosted by [Shocola](https://osu.ppy.sh/users/6781232)!
+
+<audio controls>
+    <source src="LINK">
+</audio>
+
 ### takehirotei as Infinite Limit - C://YOU NEX-TIME
 
 Finish things off with [this tournament map](https://osu.ppy.sh/beatmapsets/2030024) hosted by [overdahedge2015](https://osu.ppy.sh/users/9864847)!
