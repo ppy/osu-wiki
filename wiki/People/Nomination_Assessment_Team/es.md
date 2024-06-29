@@ -2,6 +2,8 @@
 tags:
   - NAT
   - equipo de evaluación de nominaciones
+outdated_translation: true
+outdated_since: c1c70792cd996be7e316cfc188aa06dd56ddbd0a
 ---
 
 # Nomination Assessment Team
