@@ -44,7 +44,7 @@ Bir sohbet duyurusu gönderebilmek için [sohbet sayfasını](https://osu.ppy.sh
 - Duyuru sisteminin [temel uygulaması](https://github.com/ppy/osu-web/pull/8418) 26 Ocak 2022 tarihinde web sitesine eklenmiştir. Bu, duyuru kullanıcı grubunu ve API aracılığıyla duyuru mesajları gönderme kabiliyetini içeriyordu. Sohbet duyuruları göndermek için kullanıcı arayüzü ve bunun yanında moderatörlerin bunları göndermesine izin verilmesi 1 Haziran 2022'de [eklendi](https://github.com/ppy/osu-web/pull/8747).
 - Duyuru kullanıcı grubunun Numarası (ID)'si 47'dir. Ne bir grup rozeti, ne de özel bir rengi vardır ve kullanıcı listesi özeldir.
 
-## Notes
+## Notlar
 
 [^note-images]: Duyuru mesajlarında resimler desteklenmez.
 [^note-desc]: Diğer giriş alanlarının aksine, açıklamalar isteğe bağlıdır.
