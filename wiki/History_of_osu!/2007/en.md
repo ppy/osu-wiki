@@ -20,7 +20,7 @@ By the end of July, the menu system was changed to add a bit of style to the gam
 
 ![](img/2007-07_05.jpg "The editor")
 
-![](img/2007-07_06.jpg "Song Selection for Edit Mode")
+![](img/2007-07_06.jpg "Song Selection")
 
 ![](img/2007-07_07.jpg "Slider creation in the editors")
 
@@ -35,8 +35,6 @@ The main menu was updated with a new look and the editor received a lot of new f
 ![](img/2007-08_02.jpg "Evolution of the hit bursts")
 
 Gameplay was enhanced with the debut of [combo fire](/wiki/Gameplay/Combo_fire), the [health](/wiki/Gameplay/Health) bar, cursor trails, and better-looking sliders. At this point, osu! had a humble collection of around ten beatmaps made by the testing team that was made up of around five people.
-
-![](img/2007-08_03.jpg "Song Selection for Edit Mode")
 
 ![](img/2007-08_04.jpg "Gameplay")
 
