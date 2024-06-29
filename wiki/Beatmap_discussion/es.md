@@ -27,13 +27,13 @@ La **discusión de beatmaps** (también conocida como *Modding v2*) es un sistem
 
 ## Inicio rápido
 
-Es importante tener en cuenta algunas cosas para usar las páginas de discusión de beatmaps de manera efectiva:
+Es importante tener en cuenta algunas cosas para usar la página de discusión de los beatmaps de manera efectiva:
 
 - Elige el modo correcto y la dificultad que quieres modear.
 - Selecciona la sección adecuada a la que estás enviando tu mod.
 - **Publica un solo problema a la vez.** No envíes varios problemas en una sola publicación.
 - Verifica si el problema ya se ha solucionado cuando aparezca la advertencia de publicación similar.
-- Si te gusta el beatmap, considera darle hype para acercarlo a la nominación.
+- Si te gusta el beatmap, considera darle un hype para acercarlo a la nominación.
 
 ## Selección de modo
 
@@ -111,7 +111,7 @@ El botón `Página del mapa` navegará a la página de información del beatmap.
 
 El modding se realiza a través de tres pestañas, que separan las publicaciones de diferentes tipos y las dividen en formatos legibles. Además, una cuarta pestaña registra todos los cambios. El número al lado de cada pestaña describe la cantidad de publicaciones que contiene.
 
-`General (Todas las dificultades)` muestra publicaciones que se aplican a todas las dificultades. Las publicaciones comunes en esta pestaña incluyen metadatos, notas y discusiones sobre el beatmap en su conjunto.
+`General (Todas las dificultades)` muestra publicaciones que se aplican a todas las dificultades. Las publicaciones comunes en esta pestaña incluyen metadatos, notas y discusiones sobre el beatmap en conjunto.
 
 `General (Nombre de la dificultad)` muestra publicaciones que solo se aplican a la dificultad seleccionada actualmente. Las publicaciones comunes en esta pestaña incluyen la configuración del beatmap, los problemas recurrentes y la discusión general sobre la dificultad seleccionada.
 
@@ -143,7 +143,7 @@ Las discusiones se pueden ordenar con los botones debajo del título `Discusione
 
 ### Pulgares arriba/abajo
 
-Si mod fue útil, se puede dar [Kudosu!](/wiki/Modding/Kudosu). Esto lo puede hacer cualquier persona, excepto el creador de la publicación, dándole un pulgar hacia arriba. Esto es útil para los modders, ya que el Kudosu! es necesario para ingresar a los [Beatmap Nominators](/wiki/People/Beatmap_Nominators). Si se abusa de esta función, los miembros de los [BN](/wiki/People/Beatmap_Nominators), el [NAT](/wiki/People/Nomination_Assessment_Team) y el [GMT](/wiki/People/Global_Moderation_Team) pueden rechazar cualquier Kudosu! dado. Si el abuso se hace maliciosamente, también se puede sancionar a los abusadores.
+Si un mod fue útil, se puede dar [Kudosu!](/wiki/Modding/Kudosu). Esto lo puede hacer cualquier persona, excepto el creador de la publicación, dándole un pulgar hacia arriba. Esto es útil para los modders, ya que el Kudosu! es necesario para ingresar a los [Beatmap Nominators](/wiki/People/Beatmap_Nominators). Si se abusa de esta función, los miembros de los [BN](/wiki/People/Beatmap_Nominators), el [NAT](/wiki/People/Nomination_Assessment_Team) y el [GMT](/wiki/People/Global_Moderation_Team) pueden rechazar cualquier Kudosu! dado. Si el abuso se hace maliciosamente, también se puede sancionar a los abusadores.
 
 ### Línea de tiempo de la discusión
 
