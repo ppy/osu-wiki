@@ -23,7 +23,7 @@ Web sitesi aracılığıyla duyuru mesajları gönderebilmek ve yanıtlayabilmek
 
 ### Talepte Bulunma
 
-Herkes [accounts@ppy.sh](mailto:accounts@ppy.sh) e-posta adresine subject `Duyuru Kullanıcı Grubu Talebi` konulu bir e-posta göndererek duyuru kullanıcı grubuna katılma talebinde bulunabilir. Bu talep, kullanıcının osu! hesabına bağladığı e-posta adresinden gönderilmek zorundadır.
+Herkes [accounts@ppy.sh](mailto:accounts@ppy.sh) e-posta adresine `Duyuru Kullanıcı Grubu Talebi` konulu bir e-posta göndererek duyuru kullanıcı grubuna katılma talebinde bulunabilir. Bu talep, kullanıcının osu! hesabına bağladığı e-posta adresinden gönderilmek zorundadır.
 
 E-postanın içeriği aşağıdakileri içermelidir:
 
