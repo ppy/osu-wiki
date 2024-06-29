@@ -8,7 +8,7 @@ It's about time **takehirotei** joined our Featured Artist collection.
 
 ![](https://assets.ppy.sh/artists/428/header.jpg)
 
-> "What if I compose a song, map it on osu!, then play it myself?"
+> What if I compose a song, map it on osu!, then play it myself?
 
 Tons of osu! players have shared this thought, but [**takehirotei**](https://osu.ppy.sh/users/11793794) is one of the few who actually made it happen.
 
