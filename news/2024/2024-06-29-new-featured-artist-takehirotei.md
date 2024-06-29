@@ -12,7 +12,7 @@ It's about time **takehirotei** joined our Featured Artist collection.
 
 Tons of osu! players have shared this thought, but [**takehirotei**](https://osu.ppy.sh/users/11793794) is one of the few who actually made it happen.
 
-Kickstarting a musical career through [osu! originals](https://osu.ppy.sh/wiki/en/osu!_originals) across the tournament scene, **takehirotei** has come far enough to land a well-deserved spot in our Featured Artist library!
+Kickstarting a musical career through [osu! originals](/wiki/osu!_originals) across the tournament scene, **takehirotei** has come far enough to land a well-deserved spot in our Featured Artist library!
 
 **8** tunes have set up camp in [**takehirotei**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/428), where they'll live until the heat death of the universe.
 
