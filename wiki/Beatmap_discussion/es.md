@@ -33,7 +33,7 @@ Es importante tener en cuenta algunas cosas para usar las páginas de discusión
 - Selecciona la sección adecuada a la que estás enviando tu mod.
 - **Publica un solo problema a la vez.** No envíes varios problemas en una sola publicación.
 - Verifica si el problema ya se ha solucionado cuando aparezca la advertencia de publicación similar.
-- Si te gusta el beatmap, considera darle hype para acercarlo a la nominación.
+- Si te gusta el beatmap, considera darle un hype para acercarlo a la nominación.
 
 ## Selección de modo
 
@@ -143,7 +143,7 @@ Las discusiones se pueden ordenar con los botones debajo del título `Discusione
 
 ### Pulgares arriba/abajo
 
-Si mod fue útil, se puede dar [Kudosu!](/wiki/Modding/Kudosu). Esto lo puede hacer cualquier persona, excepto el creador de la publicación, dándole un pulgar hacia arriba. Esto es útil para los modders, ya que el Kudosu! es necesario para ingresar a los [Beatmap Nominators](/wiki/People/Beatmap_Nominators). Si se abusa de esta función, los miembros de los [BN](/wiki/People/Beatmap_Nominators), el [NAT](/wiki/People/Nomination_Assessment_Team) y el [GMT](/wiki/People/Global_Moderation_Team) pueden rechazar cualquier Kudosu! dado. Si el abuso se hace maliciosamente, también se puede sancionar a los abusadores.
+Si un mod fue útil, se puede dar [Kudosu!](/wiki/Modding/Kudosu). Esto lo puede hacer cualquier persona, excepto el creador de la publicación, dándole un pulgar hacia arriba. Esto es útil para los modders, ya que el Kudosu! es necesario para ingresar a los [Beatmap Nominators](/wiki/People/Beatmap_Nominators). Si se abusa de esta función, los miembros de los [BN](/wiki/People/Beatmap_Nominators), el [NAT](/wiki/People/Nomination_Assessment_Team) y el [GMT](/wiki/People/Global_Moderation_Team) pueden rechazar cualquier Kudosu! dado. Si el abuso se hace maliciosamente, también se puede sancionar a los abusadores.
 
 ### Línea de tiempo de la discusión
 
