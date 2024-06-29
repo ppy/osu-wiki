@@ -112,6 +112,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
+| All-stars Red | All-stars Blue | [Jun 29 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240629T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^showmatch], [rosters](http://files.leoflt.com/1gIKWYQn) |
 | Argentina ::{ flag=AR }:: | ::{ flag=PL }:: Poland | [Jun 29 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240629T180000&p1=1440&p2=51&p3=262) | [osulive](https://twitch.tv/osulive) | [^losers-finals] |
 
 ### Sunday, 30 June 2024
@@ -653,6 +654,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ## Notes
 
+[^showmatch]: Grand Finals showmatch starring players from past CWCs
 [^grand-finals]: Grand Finals match
 [^losers-finals]: Losers bracket Grand Finals match
 [^qualifiers-seeding]: Used as the main seeding method
