@@ -60,7 +60,6 @@ The osu!catch World Cup 2024 is run by various community members.
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/44)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/142) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Challonge bracket](https://challonge.com/CWC2024)
-- [Support your country with a profile banner](https://osu.ppy.sh/store/products/1307) 
 
 ## Participants
 
@@ -108,18 +107,10 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
 
 ## Match Schedule: Grand Finals
 
-### Saturday, 29 June 2024
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| All-stars Red | All-stars Blue | [Jun 29 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240629T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^showmatch], [rosters](http://files.leoflt.com/1gIKWYQn) |
-| Argentina ::{ flag=AR }:: | ::{ flag=PL }:: Poland | [Jun 29 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240629T180000&p1=1440&p2=51&p3=262) | [osulive](https://twitch.tv/osulive) | [^losers-finals] |
-
 ### Sunday, 30 June 2024
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| United States ::{ flag=US }:: | ::{ flag=PL }:: Poland | [Jun 30 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240630T180000&p1=1440&p2=263&p3=262) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
 | United States ::{ flag=US }:: | ::{ flag=AR }:: Argentina | [Jun 30 (Sun) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240630T200000&p1=1440&p2=263&p3=51) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
 
 ## Mappools
@@ -317,9 +308,18 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
 
 ## Match results
 
-Finals Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1ptkxImpOSpHX6KRdJqq0cc531mEMIJtyhN6N5Z3aCgA?rm=minimal).
+### Grand Finals
+
+Saturday, 29 June 2024:
+
+| Team A |  |  | Team B | Match link | VOD link | Notes |
+| --: | :-: | :-: | :-- | :-- | :-- | :-- |
+| All-stars Red | 6 | **7** | **All-stars Blue** | [#1](https://osu.ppy.sh/community/matches/114483741) | [#1](https://www.twitch.tv/videos/2184855334) | Grand Finals Showmatch |
+| **Argentina** ::{ flag=AR }:: | **7** | 4 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/114486761) | [#1](https://www.twitch.tv/videos/2184995652) |  |
 
 ### Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1ptkxImpOSpHX6KRdJqq0cc531mEMIJtyhN6N5Z3aCgA?rm=minimal).
 
 Saturday, 22 June 2024:
 
@@ -654,8 +654,6 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ## Notes
 
-[^showmatch]: Grand Finals showmatch starring players from past CWCs
 [^grand-finals]: Grand Finals match
-[^losers-finals]: Losers bracket Grand Finals match
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same MAX% sum
