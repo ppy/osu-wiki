@@ -89,7 +89,6 @@ tags:
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Модерация маппинг-сообщества |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Индонезийский | Модерация маппинг-сообщества |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | Французский, испанский | Модерация чата |
-| ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | Малайский, частично китайский | Модерация маппинг-сообщества |
 | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | Кантонский, китайский, японский | Модерация чата |
 | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | Русский | Модерация чата, модерация форума |
 | ::{ flag=JP }:: [KSHR](https://osu.ppy.sh/users/409957) | Японский | Модерация чата |

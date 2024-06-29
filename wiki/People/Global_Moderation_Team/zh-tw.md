@@ -86,7 +86,6 @@ GMT 負責聊天頻道和論壇的安危，和處理社群間的交流。可以�
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | 製圖/Mod 圖社群管理員 |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | 印尼文 | 製圖/Mod 圖社群管理員 |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | 法文、西班牙文 | 聊天室管理員 |
-| ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | 馬來文、部分中文 | 製圖/Mod 圖社群管理員 |
 | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | 粵語、中文、日文 | 聊天室管理員 |
 | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | 俄文 | 聊天室管理員、論壇管理員 |
 | ::{ flag=JP }:: [KSHR](https://osu.ppy.sh/users/409957) | 日文 | 聊天室管理員 |

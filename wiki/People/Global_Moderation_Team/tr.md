@@ -84,7 +84,6 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Mapping/modding topluluk moderasyonu |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Endonezce | Mapping/modding topluluk moderasyonu |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | Fransızca, İspanyolca | Sohbet moderasyonu |
-| ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | Malayca, biraz Çince | Mapping/modding topluluk moderasyonu |
 | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | Kantonca, Çince, Japonca | Sohbet moderasyonu |
 | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | Rusça | Sohbet moderasyonu, forum moderasyonu |
 | ::{ flag=JP }:: [KSHR](https://osu.ppy.sh/users/409957) | Japonca | Sohbet moderasyonu |

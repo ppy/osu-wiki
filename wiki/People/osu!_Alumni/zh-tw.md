@@ -122,6 +122,7 @@ no_native_review: true
 | ::{ flag=US }:: [James2250](https://osu.ppy.sh/users/16978) | GMT |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | QAT、GMT |
 | ::{ flag=GB }:: [jericho2442](https://osu.ppy.sh/users/88904) | BAT |
+| ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | GMT |
 | ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) | BAT |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | 錦標賽管理員 |
 | ::{ flag=MX }:: [Kai](https://osu.ppy.sh/users/4537) | BAT |

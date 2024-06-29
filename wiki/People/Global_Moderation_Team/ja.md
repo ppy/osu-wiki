@@ -86,7 +86,6 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Mapping/modding コミュニティ モデレーション |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | インドネシア語 | Mapping/modding コミュニティ モデレーション |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | フランス語、スペイン語 | チャットモデレーション |
-| ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | マレー語、部分的な中国語 | Mapping/modding コミュニティ モデレーション |
 | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | 広東語、中国語、日本語 | チャットモデレーション |
 | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | ロシア語 | チャットモデレーション、フォーラムモデレーション |
 | ::{ flag=JP }:: [KSHR](https://osu.ppy.sh/users/409957) | 日本語 | チャットモデレーション |

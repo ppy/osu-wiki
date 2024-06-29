@@ -104,7 +104,6 @@ Lorsqu'un Global Moderator décide de quitter l'équipe, il peut se voir accorde
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Modération de la communauté modding/mapping |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Indonésien | Modération de la communauté modding/mapping |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | Français, espagnol | Modération du tchat |
-| ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | Malais, un peu de chinois | Modération de la communauté modding/mapping |
 | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | Cantonais, chinois, japonais | Modération du tchat |
 | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | Russe | Modération du tchat, modération du forum |
 | ::{ flag=JP }:: [KSHR](https://osu.ppy.sh/users/409957) | Japonais | Modération du tchat |

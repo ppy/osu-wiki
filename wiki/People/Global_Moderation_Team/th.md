@@ -84,7 +84,6 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | ผู้ดูแลชุมชนการแมป/การ mod |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | อินโดนีเซีย | ผู้ดูแลชุมชนการแมป/การ mod |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | ฝรั่งเศส, สเปน | ผู้ดูแลแชท |
-| ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | มาเลย์, จีน บ้าง | ผู้ดูแลชุมชนการแมป/การ mod |
 | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | กวางตุ้ง, จีน, ญี่ปุ่น | ผู้ดูแลแชท |
 | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | รัสเซีย | ผู้ดูแลแชท, ผู้ดูแลฟอรั่ม |
 | ::{ flag=JP }:: [KSHR](https://osu.ppy.sh/users/409957) | ญี่ปุ่น | ผู้ดูแลแชท |

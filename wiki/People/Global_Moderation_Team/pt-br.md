@@ -76,7 +76,6 @@ A [página de grupo da Equipe de Moderação Global](https://osu.ppy.sh/groups/4
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Moderação da comunidade de mapping/modding |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Indonésio | Moderação da comunidade de mapping/modding |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | Francês, espanhol | Moderação de chat |
-| ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | Malaio, um pouco de chinês | Moderação da comunidade de mapping/modding |
 | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | Cantonês, chinês, japonês | Moderação de chat |
 | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | Russo | Moderação de chat, moderação de fórum |
 | ::{ flag=JP }:: [KSHR](https://osu.ppy.sh/users/409957) | Japonês | Moderação de chat |

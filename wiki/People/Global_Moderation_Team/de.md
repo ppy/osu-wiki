@@ -103,7 +103,6 @@ Die [Gruppenseite des GMTs](https://osu.ppy.sh/groups/4) listet alle Teammitglie
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Moderation der Mapping-/Modding-Community |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Indonesisch | Moderation der Mapping-/Modding-Community |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | Französisch, Spanisch | Chat-Moderation |
-| ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | Malaiisch, etwas Chinesisch | Moderation der Mapping-/Modding-Community |
 | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | Kantonesisch, Chinesisch, Japanisch | Chat-Moderation |
 | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | Russisch | Chat-Moderation, Forum-Moderation |
 | ::{ flag=JP }:: [KSHR](https://osu.ppy.sh/users/409957) | Japanisch | Chat-Moderation |
