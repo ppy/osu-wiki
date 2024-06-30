@@ -21,7 +21,7 @@ Did I catch your attention? Good, now let's get right to Vedal and Neuro-sama in
 >
 > Since December 2022, I have been continuously working to improve Neuro as an AI VTuber. Some notable improvements include improved latency for interacting with other VTubers and chat, more realistic speech with the introduction of Evil Neuro, the ability to sing in karaoke streams, alongside many other things.
 
-*Why turtle of all animals?*
+*Why did you choose a turtle of all animals to be your profile picture, and something people know you by?*
 
 > This originates from an old Minecraft skin I used to have, and since then I've always used a turtle profile picture. Sadly it doesn't have a deeper meaning, it's just one of those things that happened to stick. It did make getting a VTuber avatar for myself much easier though, because it's much easier to draw a turtle.
 
@@ -59,7 +59,7 @@ Did I catch your attention? Good, now let's get right to Vedal and Neuro-sama in
 
 > I think the hardest part of making Neuro was giving her personality. This isn't something I talk about often but is arguably the biggest thing that separates Neuro from a lot of the other AIs out there. AIs like ChatGPT are trained to act as assistants and tools for humans, but Neuro is trained differently. This allows her to feel more independent, and that whole process definitely taught me a lot.
 
-*And what part of Neuro did you enjoy working on the most?*
+*Following up on the previous question, what part of Neuro did you enjoy working on the most?*
 
 > I think the game integrations for Neuro are really cool. It is after all, how Neuro-sama came to be. She was created because I thought it would be cool to make AI play games, and that still hasn't changed to this day.
 
