@@ -11,11 +11,11 @@ tags:
 
  Bir **Duyuru mesajı** aynı anda birden fazla kullanıcıya daha uzun ve biçimlendirilmiş mesajlar göndermek için tasarlanmış özel bir mesaj türüdür. Duyuru mesajları ile normal sohbet mesajları arasındaki temel farklar şunlardır:
 
-- 450 Karakter limiti yerine 1024 karakter limiti
-- Metin biçimlendirme için Markdown sözdizimi desteği[^note-images]
-- Aynı anda birden fazla kullanıcıya gönderilebilme
-- `Arkadaş listenizde olmayan kişilerden gelen özel mesajları engelleme` Ayarını görmezden gelme 
-- Yalnızca duyuru mesajı gönderebilen kullanıcılar bu mesajlara yanıt verebilir
+- 450 Karakter limiti yerine 1024 karakter limiti.
+- Metin biçimlendirme için Markdown sözdizimi desteği[^note-images].
+- Aynı anda birden fazla kullanıcıya gönderilebilme.
+- `Arkadaş listenizde olmayan kişilerden gelen özel mesajları engelleme` Ayarını görmezden gelme.
+- Yalnızca duyuru mesajı gönderebilen kullanıcılar bu mesajlara yanıt verebilir.
 
 ## Uygunluk
 
