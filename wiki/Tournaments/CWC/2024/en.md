@@ -9,7 +9,7 @@ tags:
 
 ![CWC 2024 banner](img/cwc2024-banner.jpg)
 
-The **osu!catch World Cup 2024** (***CWC 2024***) is a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the thirteenth instalment of the osu!catch World Cup.
+The **osu!catch World Cup 2024** (***CWC 2024***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the thirteenth instalment of the osu!catch World Cup.
 
 ## Tournament schedule
 
@@ -27,7 +27,7 @@ The **osu!catch World Cup 2024** (***CWC 2024***) is a country-based osu!catch t
 
 ## Prizes
 
-The osu!catch World Cup 2024 offers a $2,000 cash prize pool and limited-edition merch.
+The osu!catch World Cup 2024 offered a $2,000 cash prize pool and limited-edition merch.
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -35,9 +35,11 @@ The osu!catch World Cup 2024 offers a $2,000 cash prize pool and limited-edition
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool, single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
+![](img/cwc2024-badge-1st.png "CWC 2024 winner badge") ![](img/cwc2024-badge-2nd.png "CWC 2024 2nd-place badge") ![](img/cwc2024-badge-3rd.png "CWC 2024 3rd-place badge")
+
 ## Organisation
 
-The osu!catch World Cup 2024 is run by various community members.
+The osu!catch World Cup 2024 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -105,13 +107,9 @@ The osu!catch World Cup 2024 is run by various community members.
 Captains are listed in **bold**.\
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d212da04da41faffa8d0fc5366952e).
 
-## Match Schedule: Grand Finals
+## Podium
 
-### Sunday, 30 June 2024
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| United States ::{ flag=US }:: | ::{ flag=AR }:: Argentina | [Jun 30 (Sun) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240630T200000&p1=1440&p2=263&p3=51) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
+![](img/cwc2024-podium.jpg "CWC 2024 podium")
 
 ## Mappools
 
@@ -316,6 +314,12 @@ Saturday, 29 June 2024:
 | --: | :-: | :-: | :-- | :-- | :-- | :-- |
 | All-stars Red | 6 | **7** | **All-stars Blue** | [#1](https://osu.ppy.sh/community/matches/114483741) | [#1](https://www.twitch.tv/videos/2184855334) | Grand Finals Showmatch |
 | **Argentina** ::{ flag=AR }:: | **7** | 4 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/114486761) | [#1](https://www.twitch.tv/videos/2184995652) |  |
+
+Saturday, 29 June 2024:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **United States** ::{ flag=US }:: | **7** | 4 | ::{ flag=AR }:: Argentina | [#1](https://osu.ppy.sh/community/matches/114501019) | [#1](https://www.twitch.tv/videos/2185967388) |
 
 ### Finals
 
