@@ -1,21 +1,21 @@
 ---
 tags:
-  - announce
-  - announce usergroup
-  - announce user group
+  - duyuru
+  - kullanıcıgrubunu duyur
+  - kullanıcı grubunu duyur
 ---
 
 # Duyuru mesajı
 
-![Announcement notification](img/notification.png "An announcement message notification")
+![Duyuru bildirimi](img/notification.png "Bir duyuru mesajı bildirimi")
 
- Bir **Duyuru mesajı** aynı anda birden fazla kullanıcıya daha uzun ve biçimlendirilmiş mesajlar göndermek için tasarlanmış özel bir mesaj türüdür. Duyuru mesajları ile normal sohbet mesajları arasındaki temel farklar şunlardır:
+ **Duyuru mesajı** aynı anda birden fazla kullanıcıya daha uzun ve biçimlendirilmiş mesajlar göndermek için tasarlanmış özel bir mesaj türüdür. Duyuru mesajları ile normal sohbet mesajları arasındaki temel farklar şunlardır:
 
-- 450 Karakter limiti yerine 1024 karakter limiti.
-- Metin biçimlendirme için Markdown sözdizimi desteği[^note-images].
-- Aynı anda birden fazla kullanıcıya gönderilebilme.
-- `Arkadaş listenizde olmayan kişilerden gelen özel mesajları engelleme` Ayarını görmezden gelme.
-- Yalnızca duyuru mesajı gönderebilen kullanıcılar bu mesajlara yanıt verebilir.
+- 450 karakter limiti yerine 1024 karakter limiti mevcuttur
+- Metin biçimlendirme için Markdown sözdizimi destekler[^note-images]
+- Aynı anda birden fazla kullanıcıya gönderilebilir
+- `arkadaş listesinde olmayan kişilerden gelen mesajları engelle` ayarını yok sayar
+- Yalnızca duyuru mesajı gönderebilen kullanıcılar bu mesajları yanıtlayabilir
 
 ## Uygunluk
 
@@ -36,15 +36,15 @@ E-postanın içeriği aşağıdakileri içermelidir:
 
 Bir sohbet duyurusu gönderebilmek için [sohbet sayfasını](https://osu.ppy.sh/community/chat) açın ve  `duyuru oluştur` düğmesine tıklayın. Kanal adını, açıklamayı[^note-desc], alıcıların listesini ve istenen mesajı girin. Son olarak, duyuru göndermek için `oluştur` düğmesine tıklayın.
 
-![Announcement creation page](img/page.jpg "The announcement creation page")
+![Duyuru oluşturma sayfası](img/page.jpg "Duyuru oluşturma sayfası")
 
-## Dipnot
+## Ek bilgiler
 
-- Duyuru mesajlarının, eski [forum](/wiki/Community/Forum) mesajlarının doğrudan yerine geçmesi amaçlanmıştır.
+- Duyuru mesajları, eski sitede yer alan [forum](/wiki/Community/Forum) mesajlarının yeni sitedeki karşılığı olarak tasarlanmıştır.
 - Duyuru sisteminin [temel uygulaması](https://github.com/ppy/osu-web/pull/8418) 26 Ocak 2022 tarihinde web sitesine eklenmiştir. Bu, duyuru kullanıcı grubunu ve API aracılığıyla duyuru mesajları gönderme kabiliyetini içeriyordu. Sohbet duyuruları göndermek için kullanıcı arayüzü ve bunun yanında moderatörlerin bunları göndermesine izin verilmesi 1 Haziran 2022'de [eklendi](https://github.com/ppy/osu-web/pull/8747).
-- Duyuru kullanıcı grubunun Numarası (ID)'si 47'dir. Ne bir grup rozeti, ne de özel bir rengi vardır ve kullanıcı listesi özeldir.
+- Duyuru kullanıcı grubunun ID'si 47'dir. Kendine özel bir grup rengi veya rozeti olmamakla birlikte kullanıcı listesi herkese açık değildir.
 
-## Notes
+## Notlar
 
 [^note-images]: Duyuru mesajlarında resimler desteklenmez.
 [^note-desc]: Diğer giriş alanlarının aksine, açıklamalar isteğe bağlıdır.
