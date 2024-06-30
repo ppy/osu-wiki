@@ -308,6 +308,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e6d
 
 ### Grand Finals
 
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1H3kbDDMeZCNk4d5n6_YzMNFT0OGM5rteYbWOk0H8g1w?rm=minimal).
+
 Saturday, 29 June 2024:
 
 | Team A |  |  | Team B | Match link | VOD link | Notes |
