@@ -1,11 +1,15 @@
 ---
 tags:
+  - announce
+  - announce usergroup
+  - announce user group
   - duyuru
-  - kullanıcıgrubunu duyur
-  - kullanıcı grubunu duyur
+  - kullanıcı grubunu duyur 
+  - kullanıcı grubu
+
 ---
 
-# Duyuru mesajı
+# Duyuru mesajları
 
 ![Duyuru bildirimi](img/notification.png "Bir duyuru mesajı bildirimi")
 
