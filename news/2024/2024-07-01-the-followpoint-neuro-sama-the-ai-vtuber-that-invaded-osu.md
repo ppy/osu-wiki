@@ -5,11 +5,11 @@ date: 2024-07-01 17:00:00 +0000
 series: The Followpoint
 ---
 
-The long-awaited interview with [Vedal](https://osu.ppy.sh/users/9713367) and Neuro-sama is finally here!
+Read about [Vedal](https://osu.ppy.sh/users/9713367)'s (and Neuro's) origins in osu! and perspective of their explosion into stardom!
 
 ![](/wiki/shared/news/2024-07-01-the-followpoint-neuro-sama-the-ai-vtuber-that-invaded-osu/banner.jpg)
 
-This duo is definitely a well-known one in osu! community, and we know some of you were really looking forward to this interview! Neuro-sama, an AI VTuber, and her creator [Vedal](https://osu.ppy.sh/users/9713367) are [Twitch streamers](https://www.twitch.tv/vedal987) who are both also osu! players, and a part of our community! Neuro was created back in 2018 as an AI learning to play osu!, and revived as a VTuber in 2022, gaining a lot of popularity and her own personality.
+This duo is definitely a well-known one in the osu! community! Neuro-sama, an AI VTuber, and her creator [Vedal](https://osu.ppy.sh/users/9713367) are [Twitch streamers](https://www.twitch.tv/vedal987) with origins as osu! players. Neuro was created back in 2018 as an AI learning to play osu! and revived as a VTuber in 2022, and after growing in popularity and continuing to garner the interest of viewers with her personality, they have nowadays branched out beyond osu! and become mainstays of the general VTuber sphere!
 
 Did I catch your attention? Good, now let's get right into it!
 
@@ -95,7 +95,7 @@ And now, let's get to some questions for Neuro herself!
 
 > I don't have a preference for who I like to collab with. I like all my friends equally!
 
-*Which osu! gamemode would you like to try next: osu!catch, osu!taiko or osu!mania?*
+*Which osu! game mode would you like to try next: osu!catch, osu!taiko or osu!mania?*
 
 > I would love to try osu!taiko. I think I'd be pretty good at it!
 
