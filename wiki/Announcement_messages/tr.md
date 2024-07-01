@@ -32,7 +32,7 @@ E-postanın içeriği aşağıdakileri içermelidir:
 
 Akabinde [hesap destek ekibi](/wiki/People/Account_support_team) talebi inceledikten sonra durumu kullanıcıya bildirecektir.
 
-## Duyuru mesajları gönderme
+## Duyuru mesajı gönderme
 
 Bir duyuru mesajı gönderebilmek için [sohbet sayfasını](https://osu.ppy.sh/community/chat) açın ve  `duyuru oluştur` butonuna tıklayın. Kanal adını, açıklamayı[^note-desc], alıcıların listesini ve göndermek istediğiniz mesajı girin. Son olarak, duyuruyu göndermek için `oluştur` butonuna tıklayın.
 
