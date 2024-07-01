@@ -117,7 +117,7 @@ Once again I'd like to thank Vedal and Neuro for agreeing to an interview and an
 
 You can find Vedal and Neuro's streams at [@vedal987 on Twitch](https://www.twitch.tv/vedal987).
 
-As per usual, we will have another interview come out in the next two weeks, and who knows, maybe it'll be *your* favourite player! Don't forget that you can also follow [@The_Followpoint on Twitter](https://twitter.com/The_Followpoint) for updates and question submissions for future interviews.
+And as per usual, we will have another interview come out in the next two weeks, and who knows, maybe it'll be *your* favourite player! Don't forget that you can also follow [@The_Followpoint on Twitter](https://twitter.com/The_Followpoint) for updates and question submissions for future interviews.
 
 See you next time! <3
 
