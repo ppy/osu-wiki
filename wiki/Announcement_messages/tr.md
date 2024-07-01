@@ -19,7 +19,7 @@ tags:
 
 ## Uygunluk
 
-Web sitesi aracılığıyla duyuru mesajları gönderebilmek ve yanıtlayabilmek için [Küresel Moderasyon Ekibi (GMT)](/wiki/People/Global_Moderation_Team),  [Adaylık Değerlendirme Ekibi (NAT)](/wiki/People/Nomination_Assessment_Team), veya duyuru [kullanıcı grubu](/wiki/People/User_group) üyeliklerinden herhangi biri gerekir. Fakat, yanlızca duyuru kullanıcı grubunun üyelerine [osu! API v2](https://osu.ppy.sh/docs/index.html#create-channel) aracılığıyla sohbet uyarıları gönderme izni verilir.
+Web sitesi aracılığıyla duyuru mesajları gönderebilmek ve yanıtlayabilmek için [Küresel Moderasyon Takımı (GMT)](/wiki/People/Global_Moderation_Team), [Aday Gösterme Denetleme Takımı (NAT)](/wiki/People/Nomination_Assessment_Team), veya duyuru [kullanıcı gruplarından](/wiki/People/User_group) herhangi birinde üye olmak gerekir. Fakat, yalnızca duyuru kullanıcı grubunun üyeleri [osu! API v2](https://osu.ppy.sh/docs/index.html#create-channel) aracılığıyla duyuru mesajı gönderebilir.
 
 ### Talepte Bulunma
 
