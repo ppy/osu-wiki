@@ -27,7 +27,7 @@ Herkes [accounts@ppy.sh](mailto:accounts@ppy.sh) adresine `Announce Usergroup Re
 
 E-postanın içeriği aşağıdakileri içermelidir:
 
-- Talepte bulunan kullanıcının osu! kullanıcı adı.
+- Talep eden kullanıcının osu! kullanıcı adı.
 - Duyuru mesajlarına ihtiyaç duyulmasının nedenini ve ne sıklıkla kullanılacaklarını özetleyen bir açıklama.
 
 [Hesap destek ekibi](/wiki/People/Account_support_team) talebi inceleyecek ve kararını kullanıcıya bildirecektir.
