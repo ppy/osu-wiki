@@ -23,22 +23,22 @@ tags:
 
 ## Uygunluk
 
-Web sitesi aracılığıyla duyuru mesajları gönderebilmek ve yanıtlayabilmek için [Küresel Moderasyon Ekibi (GMT)](/wiki/People/Global_Moderation_Team),  [Adaylık Değerlendirme Ekibi (NAT)](/wiki/People/Nomination_Assessment_Team), veya duyuru [kullanıcı grubu](/wiki/People/User_group) üyeliklerinden herhangi biri gerekir. Fakat, yanlızca duyuru kullanıcı grubunun üyelerine [osu! API v2](https://osu.ppy.sh/docs/index.html#create-channel) aracılığıyla sohbet uyarıları gönderme izni verilir.
+Web sitesi aracılığıyla duyuru mesajları gönderebilmek ve yanıtlayabilmek için [Küresel Moderasyon Takımı (GMT)](/wiki/People/Global_Moderation_Team), [Aday Gösterme Denetleme Takımı (NAT)](/wiki/People/Nomination_Assessment_Team), veya duyuru [kullanıcı gruplarından](/wiki/People/User_group) herhangi birinde üye olmak gerekir. Fakat, yalnızca duyuru kullanıcı grubunun üyeleri [osu! API v2](https://osu.ppy.sh/docs/index.html#create-channel) aracılığıyla duyuru mesajı gönderebilir.
 
-### Talepte Bulunma
+### Üyelik talebi
 
-Herkes [accounts@ppy.sh](mailto:accounts@ppy.sh) e-posta adresine `Duyuru Kullanıcı Grubu Talebi` konulu bir e-posta göndererek duyuru kullanıcı grubuna katılma talebinde bulunabilir. Bu talep, kullanıcının osu! hesabına bağladığı e-posta adresinden gönderilmek zorundadır.
+Herkes [accounts@ppy.sh](mailto:accounts@ppy.sh) adresine `Announce Usergroup Request` konulu, tercihen İngilizce dilinde bir e-posta göndererek duyuru kullanıcı grubuna katılma talebinde bulunabilir. Bu e-posta, kullanıcının osu! hesabına bağladığı e-posta adresinden gönderilmek zorundadır.
 
 E-postanın içeriği aşağıdakileri içermelidir:
 
-- Talepte bulunan kullanıcının osu! kullanıcı adı.
+- Talep eden kullanıcının osu! kullanıcı adı.
 - Duyuru mesajlarına ihtiyaç duyulmasının nedenini ve ne sıklıkla kullanılacaklarını özetleyen bir açıklama.
 
-[Hesap destek ekibi](/wiki/People/Account_support_team) talebi inceleyecek ve kararını kullanıcıya bildirecektir.
+Akabinde [hesap destek ekibi](/wiki/People/Account_support_team) talebi inceledikten sonra durumu kullanıcıya bildirecektir.
 
-## Duyuru mesajları gönderme
+## Duyuru mesajı gönderme
 
-Bir sohbet duyurusu gönderebilmek için [sohbet sayfasını](https://osu.ppy.sh/community/chat) açın ve  `duyuru oluştur` düğmesine tıklayın. Kanal adını, açıklamayı[^note-desc], alıcıların listesini ve istenen mesajı girin. Son olarak, duyuru göndermek için `oluştur` düğmesine tıklayın.
+Bir duyuru mesajı gönderebilmek için [sohbet sayfasını](https://osu.ppy.sh/community/chat) açın ve  `duyuru oluştur` butonuna tıklayın. Kanal adını, açıklamayı[^note-desc], alıcıların listesini ve göndermek istediğiniz mesajı girin. Son olarak, duyuruyu göndermek için `oluştur` butonuna tıklayın.
 
 ![Duyuru oluşturma sayfası](img/page.jpg "Duyuru oluşturma sayfası")
 
