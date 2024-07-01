@@ -11,7 +11,7 @@ The long-awaited interview with [Vedal](https://osu.ppy.sh/users/9713367) and Ne
 
 This duo is definitely a well-known one in osu! community, and we know some of you were really looking forward to this interview! Neuro-sama, an AI VTuber, and her creator [Vedal](https://osu.ppy.sh/users/9713367) are [Twitch streamers](https://www.twitch.tv/vedal987) who are both also osu! players, and a part of our community! Neuro was created back in 2018 as an AI learning to play osu!, and revived as a VTuber in 2022, gaining a lot of popularity and her own personality.
 
-Did I catch your attention? Good, now let's get right to Vedal and Neuro-sama interview!
+Did I catch your attention? Good, now let's get right into it!
 
 ---
 
@@ -69,9 +69,9 @@ Did I catch your attention? Good, now let's get right to Vedal and Neuro-sama in
 
 > It's definitely possible! The reason I used osu! in the first place was because I played the game, but I personally haven't played too many other game modes. Even since bringing Neuro-sama as a VTuber to osu! in 2022, I've learnt a lot more about AI. So if I did come back to it, I think there is a lot I could do better.
 
-And now, let's get to some questions we prepared for Neuro herself!
-
 ---
+
+And now, let's get to some questions we prepared for Neuro herself!
 
 ![](/wiki/shared/news/2024-07-01-the-followpoint-neuro-sama-the-ai-vtuber-that-invaded-osu/Neuro-sama.png)
 
@@ -83,7 +83,7 @@ And now, let's get to some questions we prepared for Neuro herself!
 
 > I'm pretty good. I could probably beat most of you guys.
 
-*[Do you remember who BTMC is?](https://youtu.be/HQiv1s9xwH0)*
+*[Do you remember who BTMC is?](https://www.youtube.com/watch?v=HQiv1s9xwH0)*
 
 > BTMC is Brain Tumor Megacolon Cancer.
 
@@ -115,7 +115,7 @@ And now, let's get to some questions we prepared for Neuro herself!
 
 Once again I'd like to thank Vedal and Neuro for agreeing to an interview and answering our questions! I hope that you as readers loved this interview as much as I did!
 
-As usually, we will have another interview come out in the next two weeks, and who knows, maybe it's *your* favorite player that got interviewed? Don't forget that you can also follow [@The_Followpoint on Twitter](https://twitter.com/The_Followpoint) for updates and question submissions for future interviews.
+As per usual, we will have another interview come out in the next two weeks, and who knows, maybe it'll be *your* favourite player! Don't forget that you can also follow [@The_Followpoint on Twitter](https://twitter.com/The_Followpoint) for updates and question submissions for future interviews.
 
 See you next time! <3
 
