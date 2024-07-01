@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 tags:
   - multiplayer
   - co-op
@@ -8,7 +7,7 @@ tags:
 
 # Beatmaps TAG
 
-![Exemple de beatmaps TAG](img/tag-beatmap-example.png "Exemple de beatmaps TAG")
+![Exemple de beatmap TAG](img/tag-beatmap-example.png "Exemple de beatmap TAG")
 
 *A ne pas confondre avec les tags, qui sont une [partie des métadonnées d'une beatmap](/wiki/Client/Beatmap_editor/Song_setup).*
 
