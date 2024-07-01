@@ -30,7 +30,9 @@ Apabila kamu merasa bahwa komentar/rayuan yang kamu terima sudah sangat tidak pa
 
 [Laporkan postingan tersebut](/wiki/Reporting_bad_behaviour#forum) kepada [Global Moderation Team](/wiki/People/Global_Moderation_Team) (GMT) kami sesegera mungkin.
 
-Sebagai alternatifnya, klik nama pengguna salah satu GMT yang tertera pada halaman tersebut. Hal ini akan membawamu ke profil mereka masing-masing. Apabila kamu tidak yakin kepada siapa kamu harus melapor, kamu dapat [langsung menghubungi pengguna ini](https://osu.ppy.sh/users/102335).
+Untuk melapor, klik tompol `Laporkan postingan` yang terdapat pada pojok kanan atas postingan forum yang bersangkutan.
+
+Sebagai alternatifnya, klik nama pengguna salah satu GMT yang tertera pada halaman di atas. Hal ini akan membawamu ke profil mereka masing-masing. Apabila kamu tidak yakin kepada siapa kamu harus melapor, kamu dapat [langsung menghubungi pengguna ini](https://osu.ppy.sh/users/102335).
 
 Apabila sudah, klik tombol amplop yang berada tepat di bawah bendera negara mereka. Setelahnya, layar pesan obrolan pribadi (*private message*) akan terbuka.
 
