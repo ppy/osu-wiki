@@ -4,9 +4,8 @@ tags:
   - announce usergroup
   - announce user group
   - duyuru
-  - kullanıcı grubunu duyur 
-  - kullanıcı grubu
-
+  - duyuru grubu
+  - duyuru kullanıcı grubu
 ---
 
 # Duyuru mesajları
