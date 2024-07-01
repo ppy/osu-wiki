@@ -34,7 +34,7 @@ Akabinde [hesap destek ekibi](/wiki/People/Account_support_team) talebi inceledi
 
 ## Duyuru mesajları gönderme
 
-Bir sohbet duyurusu gönderebilmek için [sohbet sayfasını](https://osu.ppy.sh/community/chat) açın ve  `duyuru oluştur` düğmesine tıklayın. Kanal adını, açıklamayı[^note-desc], alıcıların listesini ve istenen mesajı girin. Son olarak, duyuru göndermek için `oluştur` düğmesine tıklayın.
+Bir duyuru mesajı gönderebilmek için [sohbet sayfasını](https://osu.ppy.sh/community/chat) açın ve  `duyuru oluştur` butonuna tıklayın. Kanal adını, açıklamayı[^note-desc], alıcıların listesini ve göndermek istediğiniz mesajı girin. Son olarak, duyuruyu göndermek için `oluştur` butonuna tıklayın.
 
 ![Duyuru oluşturma sayfası](img/page.jpg "Duyuru oluşturma sayfası")
 
