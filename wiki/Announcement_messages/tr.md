@@ -30,7 +30,7 @@ E-postanın içeriği aşağıdakileri içermelidir:
 - Talep eden kullanıcının osu! kullanıcı adı.
 - Duyuru mesajlarına ihtiyaç duyulmasının nedenini ve ne sıklıkla kullanılacaklarını özetleyen bir açıklama.
 
-[Hesap destek ekibi](/wiki/People/Account_support_team) talebi inceleyecek ve kararını kullanıcıya bildirecektir.
+Akabinde [hesap destek ekibi](/wiki/People/Account_support_team) talebi inceledikten sonra durumu kullanıcıya bildirecektir.
 
 ## Duyuru mesajları gönderme
 
