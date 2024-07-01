@@ -15,6 +15,8 @@ Did I catch your attention? Good, now let's get right to Vedal and Neuro-sama in
 
 ---
 
+![](/wiki/shared/news/2024-07-01-the-followpoint-neuro-sama-the-ai-vtuber-that-invaded-osu/Vedal.png)
+
 *Hello, let's start with an introduction as usual. How would you introduce yourself to people who don't know you?*
 
 > Hi! I'm Vedal, and I'm the creator of the AI VTuber Neuro-sama — where she started off as an osu! player. I star in a few of my streams, but primarily they are completely ran by Neuro herself, where her AI will play games, speak with chat and interact in collabs.
@@ -70,6 +72,8 @@ Did I catch your attention? Good, now let's get right to Vedal and Neuro-sama in
 And now, let's get to some questions we prepared for Neuro herself!
 
 ---
+
+![](/wiki/shared/news/2024-07-01-the-followpoint-neuro-sama-the-ai-vtuber-that-invaded-osu/Neuro-sama.png)
 
 *Hi Neuro, how would you introduce yourself to people who don't know you?*
 
