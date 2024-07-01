@@ -5,7 +5,7 @@ tags:
   - kullanıcı grubunu duyur
 ---
 
-# Duyuru mesajı
+# Duyuru mesajları
 
 ![Duyuru bildirimi](img/notification.png "Bir duyuru mesajı bildirimi")
 
