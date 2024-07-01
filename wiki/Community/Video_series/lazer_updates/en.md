@@ -8,7 +8,7 @@
 
 Documentation of osu!(lazer) updates started off in the early days as blog posts written in [peppy's personal blog](https://blog.ppy.sh/) and the [osu!next Tumblr page](https://www.tumblr.com/osunext). However, these posts were often overlooked by casual users, and in order to increase public awareness of the ongoing development, consequent updates were later announced in the [osu!(lazer)-specific changelog entries](https://osu.ppy.sh/home/changelog/lazer), [peppy's Twitter account](https://twitter.com/ppy/), and finally the "lazer updates" video series.
 
-Starting from [June 2023](https://osu.ppy.sh/home/news/2023-06-22-osulazer-updates-june-21-2023) onwards, all "lazer updates" videos are also accompanied by corresponding "osu!(lazer) updates" newsposts for further visibility.
+Starting from [June 2023](https://osu.ppy.sh/home/news/2023-06-22-osulazer-updates-june-21-2023) onwards, all "lazer updates" videos are released together along with their corresponding "osu!(lazer) updates" newspost for further visibility.
 
 ## List of episodes
 
