@@ -21,7 +21,7 @@ tags:
 
 Web sitesi aracılığıyla duyuru mesajları gönderebilmek ve yanıtlayabilmek için [Küresel Moderasyon Takımı (GMT)](/wiki/People/Global_Moderation_Team), [Aday Gösterme Denetleme Takımı (NAT)](/wiki/People/Nomination_Assessment_Team), veya duyuru [kullanıcı gruplarından](/wiki/People/User_group) herhangi birinde üye olmak gerekir. Fakat, yalnızca duyuru kullanıcı grubunun üyeleri [osu! API v2](https://osu.ppy.sh/docs/index.html#create-channel) aracılığıyla duyuru mesajı gönderebilir.
 
-### Talepte Bulunma
+### Üyelik talebi
 
 Herkes [accounts@ppy.sh](mailto:accounts@ppy.sh) e-posta adresine `Duyuru Kullanıcı Grubu Talebi` konulu bir e-posta göndererek duyuru kullanıcı grubuna katılma talebinde bulunabilir. Bu talep, kullanıcının osu! hesabına bağladığı e-posta adresinden gönderilmek zorundadır.
 
