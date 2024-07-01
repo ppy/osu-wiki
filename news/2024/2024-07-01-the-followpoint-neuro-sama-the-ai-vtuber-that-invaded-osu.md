@@ -47,7 +47,7 @@ Did I catch your attention? Good, now let's get right into it!
 
 > I personally haven't tried too many other rhythm games, although I've been known to enjoy some Beat Saber from time to time. I've honestly not really played many games in general recently, with the exception of games on stream.
 
-*How did you come up with OG Neuro (AI learning to play osu!) idea and why exactly in osu! of all games? I would also like to know what made you decide to revive Neuro as a VTuber in 2022?*
+*How did you come up with original idea for Neuro (AI learning to play osu!) and why exactly in osu! of all games? Also, what made you decide to revive Neuro as a VTuber in 2022?*
 
 > I was just getting started with learning AI in 2019, and I happened to be playing a lot of osu! at the time. I'd always found it super interesting and cool when people made AI's to play games, and I had an idea for how to do it with osu!. The original AI took a few days to make, and I thought it would be a cool idea to stream it in order to track its progress. Eventually after improving the AI, its performance stagnated, and I wasn't sure what to do with it since I had no idea what I was doing at the time. Two years later, I had the idea to make an AI VTuber, although it wasn't until early 2022 that I had the idea to combine the original Neuro-sama with this concept.
 
