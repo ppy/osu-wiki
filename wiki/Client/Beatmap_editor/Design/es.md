@@ -2,17 +2,17 @@
 
 ![Pestaña de diseño](img/SE_base-ES.png "Pestaña de diseño")
 
-El **editor de storyboards** es una sección del [editor de beatmaps](/wiki/Client/Beatmap_editor) del juego, en la pestaña Design, que permite un [storyboarding](/wiki/Storyboard) sencillo. Es una buena introducción al concepto fundamental antes de las [secuencias de comandos](/wiki/Storyboard/Scripting).
+El **editor de storyboards** es una sección del [editor de beatmaps](/wiki/Client/Beatmap_editor) del juego en la pestaña Design, que permite un [storyboarding](/wiki/Storyboard) sencillo. Es una buena introducción al concepto fundamental antes de las [secuencias de comandos](/wiki/Storyboard/Scripting).
 
-Sería favorable hacer cursos intensivos de todos los comandos utilizando imágenes aleatorias al menos una vez antes de intentar crear un storyboard serio. Te ayudaría a memorizar y comprender mejor su uso.
+Sería favorable hacer cursos intensivos de todos los comandos usando imágenes aleatorias al menos una vez antes de intentar crear un storyboard serio. Te ayudaría a memorizar y comprender mejor su uso.
 
 ## Para empezar
 
 1. Coloca todos los elementos/imágenes de tu storyboard en la carpeta de canciones de tu mapa y crea una subcarpeta llamada «SB» para ellos.
 2. Accede a tu mapa a través del editor y ve a la pantalla «Design».
-3. Encuentra la marca correcta en la línea de tiempo arriba donde quieres que aparezca el elemento del storyboard, luego haz clic en «Sprite Library» y selecciona tu imagen. Asegúrate de que tu elemento no supere los 800x600 px. Ese es el umbral máximo.
-4. Ahora, selecciona el comando de lo que desea que haga tu elemento (Mover, Tamaño, Desvanecer, Girar o Colores) y presiona «+» en «Fotogramas» para colocar un punto para el comando en el momento actual en el que se encuentra. «-» en «Fotogramas» elimina el punto nuevamente y los botones de flechas te permiten saltar entre más puntos en el mismo comando para el mismo elemento SB.
-5. Ahora busca el punto de tiempo en el que deseas que finalice el comando (más adelante), de modo que tendrás 2 puntos y la línea de color correspondiente entre esos puntos. Verde para Mover, rojo para Tamaño, rosa para Desvanecer, amarillo para Girar y rosa claro para Colores.
+3. Encuentra la marca correcta en la línea de tiempo arriba donde quieres que aparezca el elemento del storyboard, luego haz clic en «Sprite Library» y selecciona tu imagen. Asegúrate de que tu elemento no supere los 800x600 píxeles. Ese es el umbral máximo.
+4. Ahora, selecciona el comando de lo que quieres que haga tu elemento (Mover, Tamaño, Desvanecer, Girar o Colores) y presiona «+» en «Fotogramas» para colocar un punto para el comando en el momento actual en el que se encuentra. «-» en «Fotogramas» elimina el punto nuevamente y los botones de flechas te permiten saltar entre más puntos en el mismo comando para el mismo elemento SB.
+5. Ahora busca el punto de tiempo en el que quieres que finalice el comando (más adelante), de modo que tendrás 2 puntos y la línea de color correspondiente entre esos puntos. Verde para Mover, rojo para Tamaño, rosa para Desvanecer, amarillo para Girar y rosa claro para Colores.
 6. En los puntos de comando puedes cambiar los factores de la función manteniendo presionado el botón izquierdo del ratón y moviendo el cursor hacia arriba (factor creciente) o hacia abajo (factor decreciente)
 7. Repite los pasos 3-6 para otros elementos. Para eliminar, usa `Suprimir` o Editar -> Eliminar en el menú superior.
 
@@ -32,17 +32,17 @@ Sería favorable hacer cursos intensivos de todos los comandos utilizando imáge
 
 | Nombre | Descripción |
 | :-- | :-- |
-| Botones `+`/`-` a la izquierda | Aumentar/Disminuir el zoom de la línea de tiempo |
-| Botones de flecha `Arriba`/`Abajo` a la izquierda debajo | Desplaza hacia arriba o hacia abajo en la línea de tiempo de transformación (para ver la línea de tiempo de Mover/Colores). |
+| Botones `+`/`-` a la izquierda | Aumenta/disminuye el zoom de la línea de tiempo |
+| Botones de flecha `Arriba`/`Abajo` abajo a la izquierda | Desplaza hacia arriba/abajo la línea de tiempo de la transformación (para ver la línea de tiempo de Mover/Colores). |
 | Centro | Línea de tiempo de transformación para el objeto SB seleccionado. |
 
 #### Control de fotogramas
 
-Esto se utilizará para **agregar puntos de anclaje (puntos de inicio/final).** Funciona prácticamente de la misma manera que los marcadores. Los botones están justo debajo de la línea de tiempo.
+Esto se usará para **añadir puntos de anclaje (puntos de inicio/final).** Funciona prácticamente de la misma manera que los marcadores. Los botones están justo debajo de la línea de tiempo.
 
 | Nombre | Descripción |
 | :-- | :-- |
-| Botones `+`/`-` | Agregar/eliminar puntos de anclaje para la transformación seleccionada. |
+| Botones `+`/`-` | Añade/elimina puntos de anclaje para la transformación seleccionada. |
 | Botones de flecha `Izquierda`/`Derecha` | Salta hacia atrás/adelante hasta el punto de anclaje más cercano de la transformación seleccionada. |
 
 Si hay una transformación, esa transformación se ilumina con su color y tendrá dos medias líneas separadas que determinan la duración. La línea blanca completa determina los puntos de transición de la transformación (por ejemplo, subir -> bajar).
@@ -51,9 +51,9 @@ Si hay una transformación, esa transformación se ilumina con su color y tendr�
 
 ![Lecturas](img/SE_R-ES.png "Lecturas")
 
-Muestra las **lecturas** y un **interruptor para agregar una imagen/vídeo de fondo.** El interruptor se explica por sí mismo.
+Muestra las **lecturas** y un **interruptor para añadir una imagen/vídeo de fondo.** El interruptor se explica por sí mismo.
 
-Para las lecturas, **x/y** son las *propias* coordenadas de tu ratón en el beatmap y cambiarán frenéticamente a medida que muevas el ratón. **{número}ms** es la marca de tiempo en milisegundos. **SB Load** es la cantidad de potencia de procesamiento necesaria para reproducir *solo* el storyboard. Generalmente, mantén la carga de SB lo más baja posible (1,00~2,00) durante el tiempo de reproducción y déjala rodar durante el tiempo de descanso/introducción/final.
+Para las lecturas, **x/y** son las *propias* coordenadas de tu ratón en el beatmap y cambiarán frenéticamente a medida que muevas el ratón. **{número}ms** es la marca de tiempo en milisegundos. **SB Load** es la cantidad de potencia de procesamiento necesaria para reproducir *solo* el storyboard. Generalmente, mantén la carga de SB lo más baja posible (1,00~2,00) durante el tiempo de juego y déjala rodar durante el tiempo de descanso/introducción/finalización.
 
 ### Centro izquierda (utilidades)
 
@@ -61,7 +61,7 @@ Para las lecturas, **x/y** son las *propias* coordenadas de tu ratón en el beat
 
 ![Mostrar/Ocultar capas](img/SE_LT_B-ES.png "Mostrar/Ocultar capas")
 
-Estos **deshabilitarán/habilitarán la visualización de capas.** Si no deseas ver la escena de paso (que siempre está encima de la escena de fallo en el editor), desactiva «Pasando» y disfruta de la escena de fallo. Esto es útil cuando desea ver comandos para diferentes objetos pero hay algo en el camino.
+Estos **deshabilitarán/habilitarán la visualización de capas.** Si no quieres ver la escena de pass (que siempre está encima de la escena de fail en el editor), desactiva «Pasando» y disfruta de la escena de fallo. Esto es útil cuando quieres ver comandos para los diferentes objetos pero hay algo en el camino.
 
 Todos los interruptores se muestran a continuación:-
 
@@ -76,13 +76,13 @@ Todos los interruptores se muestran a continuación:-
 
 #### Transformación (basada en el tiempo)
 
-Estos son los comandos utilizados para tu objeto. Se han implementado cinco de los comandos; Mover, Tamaño, Desvanecer, Girar y Colores. Para utilizar el loop y los parámetros, deberás realizar algunas secuencias de comandos para utilizarlos.
+Estos son los comandos usados para tu objeto. Se han implementado cinco de los comandos; Mover, Tamaño, Desvanecer, Girar y Colores. Para usar el loop y los parámetros, deberás realizar algunas secuencias de comandos para usarlos.
 
 ![Un ejemplo de un objeto sujeto a un movimiento de hacia arriba/abajo y aparición gradual.](img/SE_Move-ES.png "Un ejemplo de un objeto sujeto a un movimiento de hacia arriba/abajo y aparición gradual.")
 
 Para usarlos:-
 
-1. Haz clic en el elemento storyboard
+1. Haz clic en el elemento del storyboard
 2. Selecciona tu transformación (MTDGC)
 3. Establece una línea de tiempo para la transformación (usa el «+» del control de fotogramas)
 4. Establece el uso del efecto (mueve el ratón hacia arriba o hacia abajo para activarlo)
@@ -98,7 +98,7 @@ Para usarlos:-
 | Tamaño | Ampliación proporcional (un cuadrado sigue siendo un cuadrado). |
 | Desvanecer | Desvanecido de entrada/salida. (oscuro vs. brillante) |
 | Girar | Gira una cierta cantidad de «radianes» (no grados). |
-| Colores | Fuerza a la coloración del sprite. Puede cambiar de color gradualmente utilizando un color diferente como punto final. «Efecto permanente». Explicación básica. |
+| Colores | Fuerza a la coloración del elemento. Puede cambiar de color gradualmente usando un color diferente como punto final. «Efecto permanente». Explicación básica. |
 
 ##### Efectos adicionales (pasa el cursor sobre la barra izquierda)
 
@@ -130,17 +130,17 @@ Esta es la **representación visual del storyboard y los cambios basados ​​e
 
 ### Centro-derecha (objetos)
 
-![Lista de objetos SB utilizados en el beatmap en diferentes capas condicionales](img/SE_OBJ.jpg "Lista de objetos SB utilizados en el beatmap en diferentes capas condicionales")
+![Lista de objetos SB usados en el beatmap en diferentes capas condicionales](img/SE_OBJ.jpg "Lista de objetos SB usados en el beatmap en diferentes capas condicionales")
 
-**Lista de objetos SB en sus respectivas capas**. Para agregar los objetos SB, haga clic en «Sprite Library». Para asignar el nuevo sprite (objeto SB), simplemente arrastra y suelta en la capa respectiva. Los nuevos sprites están en la capa «Primer plano» de forma predeterminada. Al hacer clic en el nombre del objeto, se mostrará y se reenviará a la ubicación y el período de tiempo del objeto. Los duplicados usan el mismo nombre que el sprite original. Para eliminar, usa `Suprimir` o Editar -> Eliminar en el menú superior.
+**Lista de objetos SB en sus respectivas capas**. Para agregar los objetos SB, haz clic en «Sprite Library». Para asignar el nuevo sprite (objeto SB), simplemente arrastra y suelta en la capa respectiva. Los nuevos sprites están en la capa «Primer plano» de forma predeterminada. Al hacer clic en el nombre del objeto, se mostrará y se reenviará a la ubicación y el periodo de tiempo del objeto. Los duplicados usan el mismo nombre que el sprite original. Para eliminar, usa `Suprimir` o Editar -> Eliminar en el menú superior.
 
 **Nota:** Objetos > Primer plano > Pasando/Fallando > Fondo, donde «>» bloquea esa capa.
 
 #### Librería de sprites
 
-![Representación visual del sprite utilizado.](img/SE_SL-ES.png "Representación visual del sprite utilizado.")
+![Representación visual del sprite usado.](img/SE_SL-ES.png "Representación visual del sprite usado.")
 
-Haz clic en el botón «Browse...» para buscar el objeto que deseas usar. Puedes duplicar el objeto haciendo clic en su miniatura en la ventana de la librería de sprites.
+Haz clic en el botón «Browse...» para buscar el objeto que quieres usar. Puedes duplicar el objeto haciendo clic en su miniatura en la ventana de la librería de sprites.
 
 ### Abajo (línea de tiempo de reproducción)
 
@@ -151,8 +151,8 @@ Reproduce el beatmap. El final del storyboarding requiere secuencias de comandos
 - No hay soporte para efectos de sonido, esto no es un gran problema ya que los efectos de sonido pueden distraer a los jugadores, especialmente si están cerca de [objetos](/wiki/Gameplay/Hit_object). El uso de efectos de sonido debe ser realizado únicamente por mappers avanzados y con la guía de un BAT.
 - No hay soporte para [loop](/wiki/Storyboard/Scripting/Compound_Commands) o [trigger](/wiki/Storyboard/Scripting/Compound_Commands).
 - No hay comandos [Move-X](/wiki/Storyboard/Scripting/Commands)/[Move-Y](/wiki/Storyboard/Scripting/Commands).
-- La coordenada del sprite es *siempre* 320,240. Deberás usar el comando Move una vez para configurar la ubicación (no se requiere punto final).
-  - Si *también* estás haciendo [secuencias de comandos](/wiki/Storyboard/Scripting), necesitarás *leer una línea adicional* por cada objeto realizado en la pestaña Design.
+- La coordenada del sprite es *siempre* 320,240. Deberás usar el comando Move una vez para establecer la ubicación (no se requiere punto final).
+  - Si *también* estás haciendo [secuencias de comandos](/wiki/Storyboard/Scripting), necesitarás *leer una línea adicional* por cada objeto hecho en la pestaña Design.
 
 ## Fuentes
 
