@@ -27,7 +27,7 @@ outdated_since: 26dcaa7c6a1a7d47d0c5cb61dd01f45263a970bb
 
 ジャンルと言語はビートマップが掲載されているページの鉛筆ボタンを押すことにより変更できる。これができるのはそのビートマップの[役割](/wiki/People/User_group)とビートマップの[カテゴリー](/wiki/Beatmap/Category#present-categories)で異なる:
 
-- マップセット所有者はビートマップが[WIP](/wiki/Beatmap/Category#work-in-progress-and-pending)、[Pending](/wiki/Beatmap/Category#work-in-progress-and-pending)または[Graveyard](/wiki/Beatmap/Category#graveyard)で[ノミネーション](/wiki/Beatmap_ranking_procedure#nominations)が一つもないとき変更できる。
+- マップセット所有者はビートマップが[WIP](/wiki/Beatmap/Category#wip-and-pending)、[Pending](/wiki/Beatmap/Category#wip-and-pending)または[Graveyard](/wiki/Beatmap/Category#graveyard)で[ノミネーション](/wiki/Beatmap_ranking_procedure#nominations)が一つもないとき変更できる。
 - [ビートマップノミネーター](/wiki/People/Beatmap_Nominators)はビートマップが[Qualified](/wiki/Beatmap/Category#qualified)、WIPまたはPendingのとき変更できる。
 - [Project Loved Team](/wiki/People/Project_Loved_Team)のメンバーは[Loved](/wiki/Beatmap/Category#loved)のとき変更できる。
 - [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team)のメンバーと[Global Moderation Team](/wiki/People/Global_Moderation_Team)のメンバーはすべてのカテゴリーのとき変更できる。

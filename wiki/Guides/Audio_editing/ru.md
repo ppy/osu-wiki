@@ -5,7 +5,7 @@ outdated_translation: true
 
 # Руководство по редактированию аудио
 
-[osu!academy](/wiki/Community/Video_series/osu!academy) рассказали об этом в [Episode 15: Audio Encoding (4:02)](https://www.youtube.com/watch?v=muu3HkG38kk). В этом выпуске также рассказывается, как установить и использовать Audacity с возможностью экспорта в `.mp3` (LAME). 
+[osu!academy](/wiki/Community/Video_series/osu!academy) рассказали об этом в [Episode 15: Audio Encoding (4:02)](https://www.youtube.com/watch?v=muu3HkG38kk). В этом выпуске также рассказывается, как установить и использовать Audacity с возможностью экспорта в `.mp3` (LAME).
 
 Это руководство покажет, как внести незначительные изменения в аудиофайлы и подготовить их к маппингу. Дописав его, вы научите остальных мапперов обрабатывать аудиофайлы для любых нужд.
 

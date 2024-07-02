@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!test build now more usable"
+title: osu!test build now more usable
 date: 2013-08-08 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/57687830738/osutest-build-now-more-usable
 ---

@@ -122,12 +122,12 @@ This competition has come to an end and resulted in the following podium:
   3. [Katakiri Rekka - Tamayura - Open the "AKABEi JAZZ CONCERT" (Lasse) \[Affection\]](https://osu.ppy.sh/beatmapsets/1431401#osu/2946497)
   4. [Airots - Tougen Roman (Epsilon Remix) (GIDZ) \[Matha's Exultation\]](https://osu.ppy.sh/beatmapsets/1321446#osu/2757153)
   5. [Yuni (CV: Kohara Konomi), Chieru (CV: Sakura Ayane), Chloe (CV: Tanezaki Atsumi) - Nakayoshi Sensation (Yorita Yoshino) \[ak74's Extra\]](https://osu.ppy.sh/beatmapsets/1233855#osu/2596270)
-  6. [KOTOKO - Koi Kou Enishi (Shikibe Mayu) \[Amatha's Expert: Yoshino\]](https://osu.ppy.sh/beatmapsets/1404864#osu/2901399)  
+  6. [KOTOKO - Koi Kou Enishi (Shikibe Mayu) \[Amatha's Expert: Yoshino\]](https://osu.ppy.sh/beatmapsets/1404864#osu/2901399)
 - Hidden
   1. [Yousei Teikoku - last moment (IsomirDiAngelo) \[smm's extra\]](https://osu.ppy.sh/beatmapsets/1172342#osu/2460502)
   2. [SHK - Halloween Party (Hoto Cocoa) \[Nightmare\]](https://osu.ppy.sh/beatmapsets/1682134#osu/3436822)
   3. [xi - Heavenly Blast (PayneTrain) \[CELESTIAL\]](https://osu.ppy.sh/beatmapsets/1478923#osu/3409211)
-  4. [Rita - Tonitrus (FraktureHawkens) \[Beyond The World\]](https://osu.ppy.sh/beatmapsets/926756#osu/1935726)  
+  4. [Rita - Tonitrus (FraktureHawkens) \[Beyond The World\]](https://osu.ppy.sh/beatmapsets/926756#osu/1935726)
 - HardRock
   1. [Falcom Sound Team jdk - Seductive Shudder (jonathanlfj) \[Bewitching (CS4 Edit)\]](https://osu.ppy.sh/beatmapsets/1896496#osu/3908495)
   2. [Aimiya Zero - breath of stella (fnayR) \[Stella (cs edit ver.)\]](https://osu.ppy.sh/beatmapsets/1860434#osu/3880143)
@@ -152,7 +152,7 @@ This competition has come to an end and resulted in the following podium:
   3. [Matsushita - Hey Darling! (Shikibe Mayu) \[Toa my beloved\]](https://osu.ppy.sh/beatmapsets/1525401#osu/3120956)
   4. [Eagle - Hypersonik (Ascended) \[Aistre's Extra\]](https://osu.ppy.sh/beatmapsets/1834293#osu/3836349)
   5. [Zektbach - The Sealer \~A Milia to Milia no Tami\~ (ScubDomino) \[Extra\]](https://osu.ppy.sh/beatmapsets/1414241#osu/2915013)
-  6. [-45 - Aci-L (Stick2Glue) \[tourney diff Tourney Diff TOURNEY DIFF\]](https://osu.ppy.sh/beatmapsets/1236026#osu/3839688)  
+  6. [-45 - Aci-L (Stick2Glue) \[tourney diff Tourney Diff TOURNEY DIFF\]](https://osu.ppy.sh/beatmapsets/1236026#osu/3839688)
 - Hidden
   1. [Falcom Sound Team jdk - Infinity Rage (jonathanlfj) \[Stage 4\]](https://osu.ppy.sh/beatmapsets/1616017#osu/3299353)
   2. [raito - Blood Drain -Again- (DeviousPanda) \[Expert\]](https://osu.ppy.sh/beatmapsets/1152554#osu/2405667)
@@ -181,7 +181,7 @@ This competition has come to an end and resulted in the following podium:
   3. [Roselia - Opera of the wasteland (newton-) \[Counterpoint\]](https://osu.ppy.sh/beatmapsets/918685#osu/1918328)
   4. [MYUKKE. - NO ONE YES MAN (captin1) \[Risen's EXTRA\]](https://osu.ppy.sh/beatmapsets/1687287#osu/3695129)
   5. [Ice - Entrance (Icekalt) \[schoolboy's Extra\]](https://osu.ppy.sh/beatmapsets/1276389#osu/2657055)
-  6. [HOYO-MiX - Any Last Words? (Ascended) \[Scub's Floral Incense\]](https://osu.ppy.sh/beatmapsets/1690574#osu/3498553)  
+  6. [HOYO-MiX - Any Last Words? (Ascended) \[Scub's Floral Incense\]](https://osu.ppy.sh/beatmapsets/1690574#osu/3498553)
 - Hidden
   1. [Rita - Winter Diamond (ImpurePug) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/1459060#osu/2998282)
   2. [KOTOKO - jihad (Mariko Sakuragi) \[Insane+\]](https://osu.ppy.sh/beatmapsets/1135541#osu/2371574)
@@ -198,7 +198,7 @@ This competition has come to an end and resulted in the following podium:
   3. [ARM x Komso feat. Nanahira - Onegai! Kon kon Oinarisama (Len) \[Narcissu's Insane\]](https://osu.ppy.sh/beatmapsets/1302044#osu/2718373)
   4. [Grabbitz - Die For You (AirinCat) \[Insane\]](https://osu.ppy.sh/beatmapsets/1793500#osu/3681813)
 - Tiebreaker
-  1. **[sweet ARMS - Installation (\_kotachi\_) \[Zaphkiel\]](https://osu.ppy.sh/beatmapsets/1756743#osu/3595027)**  
+  1. **[sweet ARMS - Installation (\_kotachi\_) \[Zaphkiel\]](https://osu.ppy.sh/beatmapsets/1756743#osu/3595027)**
 
 ### Quarterfinals
 
@@ -210,7 +210,7 @@ This competition has come to an end and resulted in the following podium:
   3. [KyoKa - Ouran Romancia (Seolv) \[Cherry Blossom\]](https://osu.ppy.sh/beatmapsets/1530166#osu/3129871)
   4. [onoken feat. Yoko Natsukawa - Sakimori Souka (Sunazuka Akira) \[Extra\]](https://osu.ppy.sh/beatmapsets/1559358#osu/3185234)
   5. [Shade - Ontology (LMT) \[Zelq's Extra\]](https://osu.ppy.sh/beatmapsets/1050313#osu/2207682)
-  6. [BEMANI Sound Team "Nekomata Master" - Life is beautiful (anna apple) \[Another\]](https://osu.ppy.sh/beatmapsets/1271996#osu/3088664)  
+  6. [BEMANI Sound Team "Nekomata Master" - Life is beautiful (anna apple) \[Another\]](https://osu.ppy.sh/beatmapsets/1271996#osu/3088664)
 - Hidden
   1. [Hitachi Mako (CV: Kotorii Yuuka) - Mako no Nichijou (papapa123) \[buhei no Nichijou\]](https://osu.ppy.sh/beatmapsets/859338#osu/2295594)
   2. [Sakamoto Shoichiro - Eye of Aeon (niii\_san) \[Expert\]](https://osu.ppy.sh/beatmapsets/1543327#osu/3154664)
@@ -224,7 +224,7 @@ This competition has come to an end and resulted in the following podium:
   2. [felys feat. Natsukawa Yoko - Celsus (LONG VERSION) (Elcheer) \[Insane\]](https://osu.ppy.sh/beatmapsets/1604680#osu/3276823)
   3. [yuki - Clammbon (pnky) \[Insane\]](https://osu.ppy.sh/beatmapsets/1737221#osu/3588814)
 - Tiebreaker
-  1. **[Ayane - Nageki no Mori (Luscent) \[Elviscent's Matsuri\]](https://osu.ppy.sh/beatmapsets/1108479#osu/2316652)**   
+  1. **[Ayane - Nageki no Mori (Luscent) \[Elviscent's Matsuri\]](https://osu.ppy.sh/beatmapsets/1108479#osu/2316652)**
 
 ### Round of 16
 
@@ -235,9 +235,9 @@ This competition has come to an end and resulted in the following podium:
   2. [Ice - 02: Amber Wishes (FrenZ396) \[Shizuku's Extra\]](https://osu.ppy.sh/beatmapsets/801704#osu/1714161)
   3. [Matsushita - raspberry cube (Primonix) \[Sweet and sour!\]](https://osu.ppy.sh/beatmapsets/1492234#osu/3058850)
   4. [Pastel\*Palettes - Harumodoki (Asterisk DnB Remix) \[Rakakun- Edit\] (-Mikan) \[Frakturehawkens' Extra\]](https://osu.ppy.sh/beatmapsets/1559358#osu/3185234)
-  5. [monet - Shukufuku Sareta Machi (seros) \[Furenzoku Sonzai\]](https://osu.ppy.sh/beatmapsets/1674128#osu/3419840) 
+  5. [monet - Shukufuku Sareta Machi (seros) \[Furenzoku Sonzai\]](https://osu.ppy.sh/beatmapsets/1674128#osu/3419840)
 - Hidden
-  1. [Ito Kanako - Koko ni Iru kara (Garden) \[Miracle\]](https://osu.ppy.sh/beatmapsets/1357763#osu/2809862) 
+  1. [Ito Kanako - Koko ni Iru kara (Garden) \[Miracle\]](https://osu.ppy.sh/beatmapsets/1357763#osu/2809862)
   2. [KOTOKO - Wing my Way (Nekomiya Nono) \[v2b\]](https://osu.ppy.sh/beatmapsets/12035#osu/46827)
   3. [DJ Genki vs. Gram - Einherjar Joker (IntegerTempest) \[09's Expert\]](https://osu.ppy.sh/beatmapsets/1334152#osu/3049607)
 - HardRock
@@ -262,7 +262,7 @@ This competition has come to an end and resulted in the following podium:
   4. [Frums - Credits (s0m3guy) \[-jordan-'s Another.\]](https://osu.ppy.sh/beatmapsets/1372002#osu/3106850)
   5. [Laur - Viyella's Tears (Avaricious) \[Expert\]](https://osu.ppy.sh/beatmapsets/1078644#osu/2256943)
 - Hidden
-  1. [Yamamoto Mineko - Cadena (Kazato Asa) \[Meruru Collab\]](https://osu.ppy.sh/beatmapsets/1214274#osu/2527237) 
+  1. [Yamamoto Mineko - Cadena (Kazato Asa) \[Meruru Collab\]](https://osu.ppy.sh/beatmapsets/1214274#osu/2527237)
   2. [Falcom Sound Team jdk - A-TO-Z (Shurelia) \[Reiji Maigo's Insane\]](https://osu.ppy.sh/beatmapsets/1336633#osu/2877776)
   3. [Nor - Theme 113 (Raids) \[KAITEN INSANE 22,366,819 AZUSA SANDBAG METHOD?!?\]](https://osu.ppy.sh/beatmapsets/1876276#osu/3861173)
 - HardRock
@@ -284,7 +284,7 @@ This competition has come to an end and resulted in the following podium:
   1. [Duca - Answer (Zekk) \[Mayu's Extra\]](https://osu.ppy.sh/beatmapsets/1768412#osu/3620098)
   2. [Nekomata Master+ - encounter (Realazy) \[Kotori's Extreme\]](https://osu.ppy.sh/beatmapsets/815758#osu/1710847)
   3. [nao - Towa naru Kizuna to Omoi no Kiseki (PinkHeart) \[yf's Insane\]](https://osu.ppy.sh/beatmapsets/699819#osu/1558338)
-  4. [Masayoshi Iimori - Non Stop Rock (Fursum) \[Furtonix\]](https://osu.ppy.sh/beatmapsets/1719626#osu/3514299)  
+  4. [Masayoshi Iimori - Non Stop Rock (Fursum) \[Furtonix\]](https://osu.ppy.sh/beatmapsets/1719626#osu/3514299)
 - Hidden
   1. [Karen, Koharu Meu, Harukawa Akari - Jounetsu Utopia (Amasugi) \[Falling in Love\]](https://osu.ppy.sh/beatmapsets/1733395#osu/3542989)
   2. [yuki - Itsuka no Hakuchuumu (Hanakumo Rin) \[Insane\]](https://osu.ppy.sh/beatmapsets/1767260#osu/3626756)

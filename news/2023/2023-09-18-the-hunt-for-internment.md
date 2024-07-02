@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Hunt for Internment"
+title: The Hunt for Internment
 date: 2023-09-18 09:00:00 +0000
 ---
 
@@ -22,7 +22,7 @@ With the fires of discovery lit in the hearts of medal aficionados across the gl
 
 But before we get to community's attempts to solve it, here's some details they knew from the beginning from their familiarity with previous medals:
 
-- The medal is only visible on the profiles of osu! players, so it can only be obtained by clicking circles; 
+- The medal is only visible on the profiles of osu! players, so it can only be obtained by clicking circles;
 - If the medal is specific to a particular map, it is *usually* a Featured Artist song;
 - The medal is in the *Hush-Hush (Expert)* category, which means no [difficulty reduction mods](/wiki/Gameplay/Game_modifier#difficulty-reduction) (or [special mods](/wiki/Gameplay/Game_modifier#special)) are allowed.
 
@@ -58,7 +58,7 @@ But, despite all the challenges, the community was still determined to find the 
 
 Efforts progressed, and hope began to wane. It looked as if that the colours were winning, for while the theories were many, the solution was yet to be found. Hunters soon found themselves in a four-walled jail of their own creation, mired by increasingly bewildering theories. Perhaps *Internment* would never be found...
 
-But suddenly, after more than 3 weeks, an innocuous bit of encouragement from a watching developer noting that "a message in the last 8 hours was a hint in the right direction" spurned our fated hero into donning his extremely fat thinking cap again. UberFazz read that message and surmised exactly what he needed to do. 
+But suddenly, after more than 3 weeks, an innocuous bit of encouragement from a watching developer noting that "a message in the last 8 hours was a hint in the right direction" spurned our fated hero into donning his extremely fat thinking cap again. UberFazz read that message and surmised exactly what he needed to do.
 
 His new theory was to set scores with particular combo counts that relate to the very specific RGB values of the website's difficulty icon on a *theyaremanycolors* map. UberFazz guessed the best difficulty to try was [celinsane](https://osu.ppy.sh/beatmapsets/1533352#osu/4052455), with "cell" referring to *jail* and "insane" referring to *madness* or *ailing mind* in the medal flair.
 

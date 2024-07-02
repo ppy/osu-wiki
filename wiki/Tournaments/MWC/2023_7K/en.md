@@ -49,7 +49,7 @@ The osu!mania 7K World Cup 2023 was run by the osu! team and various community m
 | Mappool playtester | ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713), ::{ flag=US }:: [\-coro\-](https://osu.ppy.sh/users/15513891), ::{ flag=US }:: [\-NoName\-](https://osu.ppy.sh/users/10400730), ::{ flag=KR }:: [Kim\_GodSSI](https://osu.ppy.sh/users/2218047), ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573), ::{ flag=BR }:: [roko100789](https://osu.ppy.sh/users/3224958), ::{ flag=AU }:: [ruka](https://osu.ppy.sh/users/6117525), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
 | Mapper | ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229), ::{ flag=MY }:: [Critical\_Star](https://osu.ppy.sh/users/3793196), ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065), ::{ flag=KR }:: [Kim\_GodSSI](https://osu.ppy.sh/users/2218047), ::{ flag=DE }:: [Leeju](https://osu.ppy.sh/users/18219603), ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573), ::{ flag=SG }:: [Level 51](https://osu.ppy.sh/users/3617847), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785), ::{ flag=KR }:: [paradoxus\_](https://osu.ppy.sh/users/11185275), ::{ flag=PH }:: [paulkappa](https://osu.ppy.sh/users/7115625), ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341), ::{ flag=HK }:: [pwhk](https://osu.ppy.sh/users/4887865), ::{ flag=AU }:: [ruka](https://osu.ppy.sh/users/6117525), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=KR }:: [Wonki](https://osu.ppy.sh/users/7898495) |
 | Commentator | ::{ flag=MY }:: [Cryolien](https://osu.ppy.sh/users/1626983), ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=ID }:: [Mipha\-](https://osu.ppy.sh/users/5767941), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811), ::{ flag=US }:: [\-mint\-](https://osu.ppy.sh/users/8976576), ::{ flag=US }:: [\-Sparky\-](https://osu.ppy.sh/users/3187959) |
-| Statistician |  ::{ flag=BR }:: **[LeoFLT](https://osu.ppy.sh/users/3668779)**, ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
+| Statistician | ::{ flag=BR }:: **[LeoFLT](https://osu.ppy.sh/users/3668779)**, ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
 
 ## Links
 
@@ -101,7 +101,7 @@ The osu!mania 7K World Cup 2023 was run by the osu! team and various community m
 | ::{ flag=VE }:: | **Venezuela** | **[Adogg145](https://osu.ppy.sh/users/11956607)**, [sir aelay](https://osu.ppy.sh/users/12055954), [xXShyzDy0133Xx](https://osu.ppy.sh/users/13545528), [JeanfMz](https://osu.ppy.sh/users/25462042) |
 | ::{ flag=VN }:: | **Vietnam** | **[\_Moni\_](https://osu.ppy.sh/users/9710653)**, [\_ShirasuAzusa](https://osu.ppy.sh/users/16297375), [Jasver](https://osu.ppy.sh/users/10673080), [Seiren Shikino](https://osu.ppy.sh/users/8291500) |
 
-The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e572884f0e731ba47fed1c11be3b88#file-mwc7k-2023-player-list-csv). 
+The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e572884f0e731ba47fed1c11be3b88#file-mwc7k-2023-player-list-csv).
 
 ## Podium
 
@@ -478,7 +478,7 @@ The final standings for the Qualifier stage can be found at the following [sprea
    - The winner of the `!roll` starts picking the first beatmap of the match.
    - The loser of the `!roll` starts banning one beatmap, followed by the winner of the  `!roll` to ban a beatmap.
 4. After bans are decided, both teams will take turns in picking a beatmap from the mappool.
-5. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than alloted for either action, the procedures adopted will be as follows:
+5. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than allotted for either action, the procedures adopted will be as follows:
    - For the first occurrence:
      - The team will receive a verbal warning from the referee
    - On subsequent occurrences:

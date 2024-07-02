@@ -10,7 +10,7 @@ Give a heavy welcome to **I love you Orchestra**, our latest Featured Artist!
 
 Straying *just a bit* from your standard orchestra, **I love you Orchestra** is a Japanese instrumental rock band built from a pair of drummers, a pair of guitarists, and the bassist from the metal band *KAGERO*.
 
-We've managed to round up **9** head-bangable tracks from the band's *Trigger* album, all available from their [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/117). 
+We've managed to round up **9** head-bangable tracks from the band's *Trigger* album, all available from their [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/117).
 
 Curious how they translate to mapping? Thanks to [Mirash](https://osu.ppy.sh/users/2841009), [Leader](https://osu.ppy.sh/users/631530), and [Hinsvar](https://osu.ppy.sh/users/1249323) of the [Mappers' Guild](/wiki/Community/Mappers_Guild), you can test out the full range of the 1 to 7 star spectrum in the showcase mapset below!
 

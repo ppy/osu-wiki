@@ -28,7 +28,7 @@ The **GB Cup 2022 Spring** (***GBC 2022 Spring***) was a 3v3 captain draft-based
 ## Prizes
 
 | Placing | Prizes |
-| :-----: | :----- |
+| :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, KanonBot profile badge, ¥250 CNY |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | KanonBot profile badge, ¥200 CNY |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | KanonBot profile badge, ¥150 CNY |
@@ -47,7 +47,7 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 | :-- | :-- |
 | Host | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
 | Staff | ::{ flag=CN }:: [\[GB\]AelSan](https://osu.ppy.sh/users/14095291), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645) |
-| Mappool selector | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14095291), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [\[GB\]AelSan](https://osu.ppy.sh/users/14095291),::{ flag=CN }:: [\[GB\]Thaumiel](https://osu.ppy.sh/users/15017771)  |
+| Mappool selector | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14095291), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [\[GB\]AelSan](https://osu.ppy.sh/users/14095291),::{ flag=CN }:: [\[GB\]Thaumiel](https://osu.ppy.sh/users/15017771) |
 | Mappool tester | ::{ flag=CN }:: [\[GB\]Yuria](https://osu.ppy.sh/users/13092888), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [\[GB\]Akamite](https://osu.ppy.sh/users/13418334), ::{ flag=CN }:: [Blue\_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [FleVI](https://osu.ppy.sh/users/12519616), ::{ flag=CN }:: [\[GB\]Takeru3](https://osu.ppy.sh/users/15188014), ::{ flag=CN }:: [\_Yiiiiii](https://osu.ppy.sh/users/6066359), ::{ flag=CN }:: [rbqq](https://osu.ppy.sh/users/13747488/mania), ::{ flag=CN }:: [Seven\_Nye](https://osu.ppy.sh/users/20886966), ::{ flag=CN }:: [aa219040](https://osu.ppy.sh/users/11653961), ::{ flag=CN }:: [DongDouFu](https://osu.ppy.sh/users/17621613), ::{ flag=CN }:: [sheng\_guang](https://osu.ppy.sh/users/12417981), ::{ flag=CN }:: [sackwoman](https://osu.ppy.sh/users/21573696) |
 | Referee | ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [\[GB\]AelSan](https://osu.ppy.sh/users/14095291), ::{ flag=CN }:: [\[GB\]Ceci1ia](https://osu.ppy.sh/users/28052545), ::{ flag=CN }:: [\[GB\]Akamite](https://osu.ppy.sh/users/13418334), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
 | Commentator | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [\[GB\]AelSan](https://osu.ppy.sh/users/14095291) |
@@ -171,20 +171,20 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 
 ### Play-offs summary
 
-![](img/GBC-2022-Spring-PlayoffsSummary.png "GBC 2022 Spring play-offs summary") 
+![](img/GBC-2022-Spring-PlayoffsSummary.png "GBC 2022 Spring play-offs summary")
 
 ### Finals
 
 Saturday, May 14, 2022:
 
 | Team A |  |  | Team B | Match link | Note |
-| --:  |--: | :-- | :-- | :-: | :-: |
+| --: | --: | :-- | :-- | :-: | :-: |
 | **金戈铁马的鲜丰水果摊** | **7** | 6 | 太美丽了理塘 | [#1](https://osu.ppy.sh/community/matches/100602282) | Finals |
 
 Sunday, May 15, 2022:
 
 | Team A |  |  | Team B | Match link |  |
-| --:  |--: | :-- | :-- | :-: | :-: |
+| --: | --: | :-- | :-- | :-: | :-: |
 | **GBC最强阵容9个Miyes** | **7** | 3 | 货拉拉拉不拉拉布拉多 | [#1](https://osu.ppy.sh/community/matches/100634289) | Bronze match |
 
 ### Semifinals
@@ -192,13 +192,13 @@ Sunday, May 15, 2022:
 Saturday, May 7, 2022:
 
 | Team A |  |  | Team B | Match link |
-| --:  |--: | :-- | :-- | :-: |
-| 货拉拉拉不拉拉布拉多 |  3 | **7** | **太美丽了理塘** | [#1](https://osu.ppy.sh/community/matches/100411441) |
+| --: | --: | :-- | :-- | :-: |
+| 货拉拉拉不拉拉布拉多 | 3 | **7** | **太美丽了理塘** | [#1](https://osu.ppy.sh/community/matches/100411441) |
 
 Sunday, May 8, 2022:
 
 | Team A |  |  | Team B | Match link |
-| --:  |--: | :-- | :-- | :-: |
+| --: | --: | :-- | :-- | :-: |
 | GBC最强阵容9个Miyes | 3 | **7** | **金戈铁马的鲜丰水果摊** | [#1](https://osu.ppy.sh/community/matches/100444701) |
 
 ### Quarterfinals
@@ -206,14 +206,14 @@ Sunday, May 8, 2022:
 Sunday, May 1, 2022:
 
 | Team A |  |  | Team B | Match link |
-| --:  |--: | :-- | :-- | :-: |
+| --: | --: | :-- | :-- | :-: |
 | 大怨种被迫当队长 | 3 | **6** | **GBC最强阵容9个Miyes** | [#1](https://osu.ppy.sh/community/matches/100250198) |
 | **太美丽了理塘** | **6** | 2 | 可爱的hyahya酱上线啦！！ | [#1](https://osu.ppy.sh/community/matches/100250096) |
 
 Monday, May 2, 2022:
 
 | Team A |  |  | Team B | Match link |
-| --:  |--: | :-- | :-- | :-: |
+| --: | --: | :-- | :-- | :-: |
 | **货拉拉拉不拉拉布拉多** | **6** | 5 | 涩涩不队 | [#1](https://osu.ppy.sh/community/matches/100280784) |
 | **金戈铁马的鲜丰水果摊** | **6** | 4 | 皮蛋蛋吸手手俱乐部 | [#1](https://osu.ppy.sh/community/matches/100281811) |
 
@@ -243,7 +243,7 @@ Monday, May 2, 2022:
 Sunday, April 24, 2022:
 
 | Team A |  |  | Team B | Match link |
-| --:  |--: | :-- | :-- | :-: |
+| --: | --: | :-- | :-- | :-: |
 | 大怨种被迫当队长 | 18 | **71** | **货拉拉拉不拉拉布拉多队** | *dice roll* |
 
 ### Regular stage week 3
@@ -251,13 +251,13 @@ Sunday, April 24, 2022:
 Friday, April 22, 2022:
 
 | Team A |  |  | Team B | Match link |
-| --:  |--: | :-- | :-- | :-: |
+| --: | --: | :-- | :-- | :-: |
 | 大怨种被迫当队长 | 1 | **6** | **太美丽了理塘** | [#1](https://osu.ppy.sh/community/matches/99985568) |
 
 Saturday, April 23, 2022:
 
 | Team A |  |  | Team B | Match link |
-| --:  |--: | :-- | :-- | :-: |
+| --: | --: | :-- | :-- | :-: |
 | 青叶摩卡的百合后花园 | 3 | **6** | **皮蛋蛋吸手手俱乐部** | [#1](https://osu.ppy.sh/community/matches/100017943) |
 | **涩涩不队** | **6** | 0 | bikabika | [#1](https://osu.ppy.sh/community/matches/100018611) |
 | **可爱的hyahya酱上线啦！！** | **6** | 2 | MyAngel Koishi | [#1](https://osu.ppy.sh/community/matches/100018611) |
@@ -265,7 +265,7 @@ Saturday, April 23, 2022:
 Sunday, April 24, 2022:
 
 | Team A |  |  | Team B | Match link |
-| --:  |--: | :-- | :-- | :-: |
+| --: | --: | :-- | :-- | :-: |
 | Yzhhのqlll森林汪酱不会大叠 | -1 | **0** | **啊对对队** | *win by default* |
 | **GBC最强阵容9个Miyes** | **6** | 4 | 头号倒霉蛋 | [#1](https://osu.ppy.sh/community/matches/100054908) |
 | **啊不对不队** | **0** | -1 | 你没对象对不队 | *win by default* |
@@ -276,7 +276,7 @@ Sunday, April 24, 2022:
 Saturday, April 16, 2022:
 
 | Team A |  |  | Team B | Match link |
-| --:  |--: | :-- | :-- | :-: |
+| --: | --: | :-- | :-- | :-: |
 | Yzhhのqlll森林汪酱不会大叠 | 5 | **6** | **bikabika** | [#1](https://osu.ppy.sh/community/matches/99801555) |
 | 啊对对队 | 5 | **6** | **头号倒霉蛋** | [#1](https://osu.ppy.sh/community/matches/99803451) |
 | **金戈铁马的鲜丰水果摊** | **6** | 2 | 可爱的hyahya酱上线啦！！ | [#1](https://osu.ppy.sh/community/matches/99804500) |
@@ -285,7 +285,7 @@ Saturday, April 16, 2022:
 Sunday, April 17, 2022:
 
 | Team A |  |  | Team B | Match link |
-| --:  |--: | :-- | :-- | :-: |
+| --: | --: | :-- | :-- | :-: |
 | **太美丽了理塘** | **6** | 1 | 青叶摩卡的百合后花园 | [#1](https://osu.ppy.sh/community/matches/99835417) |
 | **MyAngel Koishi** | **6** | 1 | 你没对象对不队 | [#1](https://osu.ppy.sh/community/matches/99837265) |
 | **货拉拉拉不拉拉布拉多** | **6** | 3 | 涩涩不队 | [#1](https://osu.ppy.sh/community/matches/99840516) |
@@ -296,7 +296,7 @@ Sunday, April 17, 2022:
 Saturday, April 9, 2022:
 
 | Team A |  |  | Team B | Match link |
-| --:  |--: | :-- | :-- | :-: |
+| --: | --: | :-- | :-- | :-: |
 | bikabika | 1 | **6** | **青叶摩卡的百合后花园** | [#1](https://osu.ppy.sh/community/matches/99564304) |
 | **可爱的hyahya酱上线啦！！** | **6** | 1 | 啊对对队 | [#1](https://osu.ppy.sh/community/matches/99566208) |
 | **金戈铁马的鲜丰水果摊** | **6** | 1 | 头号倒霉蛋 | [#1](https://osu.ppy.sh/community/matches/99567449) |
@@ -305,7 +305,7 @@ Saturday, April 9, 2022:
 Sunday, April 10, 2022:
 
 | Team A |  |  | Team B | Match link |
-| --:  |--: | :-- | :-- | :-: |
+| --: | --: | :-- | :-- | :-: |
 | Team MyAngel Koishi | 3 | **6** | **大怨种被迫当队长** | [#1](https://osu.ppy.sh/community/matches/99603315) |
 | **货拉拉拉不拉拉布拉多队** | **6** | 4 | 啊不对不队 | [#1](https://osu.ppy.sh/community/matches/99606894) |
 | Yzhhのqlll森林汪酱不会大叠 | 1 | **6** | **太美丽了理塘** | [#1](https://osu.ppy.sh/community/matches/99608620), [screenshot](img/GBC2SprW1M7.jpg) |
@@ -345,7 +345,7 @@ Sunday, April 10, 2022:
     - The minimum amount of required players is defined as the amount of players needed to play a beatmap.
 13. Exchanging players during games is allowed without limitations, except tournament-specific rules. See the [match instructions](#match-instructions) for details.
 14. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied.
-15. If a player disconnects between beatmaps and the team cannot provide a substitute, the match can be delayed for up to 10 minutes (limited to once per team, per match). 
+15. If a player disconnects between beatmaps and the team cannot provide a substitute, the match can be delayed for up to 10 minutes (limited to once per team, per match).
 16. All players and staff must be treated with respect. Instructions of the referees and the host are to be followed. Decisions labelled as final are not to be objected.
 17. Disrupting the match by foul play, insulting and provoking other players or staff, delaying the match, and other deliberate inappropriate misbehaviour are strictly prohibited.
 18. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
@@ -362,7 +362,7 @@ Sunday, April 10, 2022:
 
 ### Tournament registration
 
-1. Please send the host a **private message** and **fill [this form](https://wj.qq.com/s2/9902248/95cf/)** to register. 
+1. Please send the host a **private message** and **fill [this form](https://wj.qq.com/s2/9902248/95cf/)** to register.
 2. To ensure valid and serious registrations, every registered user will be manually checked by the host.
    - To be successfully registered, a player must not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
    - **There are no rank limitations for this tournament.** If there are too many registrants, some of the high-level registrants may be removed from the main tournament and be invited to participate in the showmatch instead.
@@ -377,14 +377,14 @@ Sunday, April 10, 2022:
    - Captains are selected by performance and preference.
    - Non-captains will join a group of players waiting to join a team, herein called a "player pool".
 2. Captains decide their team members during the drafting phase.
-   - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms. 
+   - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms.
 3. There will be a 120-second planning phase before the picking phase starts.
 4. During the picking phase, picks start in *increasing* order, from the 1st to the 16th captain. The picks repeat four times, such that every captain gets to choose 4 players.
-5. Each captain has 60 seconds to pick one player from the player pool on their turn. 
+5. Each captain has 60 seconds to pick one player from the player pool on their turn.
    - If the captain does not pick an player within 60 seconds, a random player from the remaining player pool will be assigned to their team.
 6. If the captain picks a player, the pick time still has to elapse before the next captain's turn starts, meaning each phase will take 16 minutes.
 7. After each phase, there is a 60-second break before the next phase starts.
-8. At all times, the captains may communicate with each other via multiplayer chatrooms or voice chat. 
+8. At all times, the captains may communicate with each other via multiplayer chatrooms or voice chat.
    - Other players will be muted during the drafting phase.
 9. After the drafting phase, captains may choose, with the approval of the host, to delegate their role to other prospective team members.
 10. Bad behaviour during the drafting phase will be seen as disrupting the match by foul play.
@@ -424,7 +424,7 @@ Sunday, April 10, 2022:
 3. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
 4. Each captain must use `!roll` once in `#multiplayer`.
    - The winner of the `!roll` starts picking the first beatmap of the match.
-   - The loser of the `!roll` starts banning one beatmap, followed by the winner of the `!roll` to ban a beatmap. 
+   - The loser of the `!roll` starts banning one beatmap, followed by the winner of the `!roll` to ban a beatmap.
 5. After each pick, the captain may ban one player of the opposing team from playing that beatmap in the match, except in a tiebreaker.
    - Any player can only be banned like this **once** per match.
    - Banning players is optional.

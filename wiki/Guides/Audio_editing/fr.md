@@ -25,7 +25,7 @@ Installez et ouvrez Audacity, puis suivez les étapes suivantes :
 1. Ouvrez le fichier `.mp3` dont vous voulez réduire le débit.
 2. Appuyez sur `Ctrl` + `Shift` + `E`, puis dans `Type :` sélectionnez `Fichiers MP3`, ou :
    1. Cliquez sur `Fichier`, puis sur `Exporter`, puis sur `Exporter en MP3`.
-3. Dans les `Options de format`, modifiez les paramètres suivants : 
+3. Dans les `Options de format`, modifiez les paramètres suivants :
    1. `Mode de débit binaire` : `Préréglage`
    2. `Qualité` : `Moyen, 145-185 kbps`
 4. Naviguez jusqu'à l'emplacement où vous souhaitez enregistrer le fichier.
@@ -53,7 +53,7 @@ Installez et ouvrez Audacity, puis suivez les étapes suivantes :
 7. Répéter l'opération autant que nécessaire.
 8. Appuyez sur `Ctrl` + `Shift` + `E`, puis dans `Type :` sélectionnez `Fichiers MP3`, ou :
    1. Cliquez sur `Fichier`, puis sur `Exporter`, puis sur `Exporter en MP3`.
-9. Dans les `Options de format`, modifiez les paramètres suivants : 
+9. Dans les `Options de format`, modifiez les paramètres suivants :
    1. `Mode de débit binaire` : `Préréglage`
    2. `Qualité` : `Moyen, 145-185 kbps`
 10. Naviguez jusqu'à l'emplacement où vous souhaitez enregistrer le fichier.
@@ -74,7 +74,7 @@ Installez et ouvrez Audacity, puis suivez les étapes suivantes :
 6. Cliquez sur `Fading`, puis sur `Fondu en fermeture`.
 7. Appuyez sur `Ctrl` + `Shift` + `E`, puis dans `Type :` sélectionnez `Fichiers MP3`, ou :
    1. Cliquez sur `Fichier`, puis sur `Exporter`, puis sur `Exporter en MP3`.
-8. Dans les `Options de format`, modifiez les paramètres suivants : 
+8. Dans les `Options de format`, modifiez les paramètres suivants :
    1. `Mode de débit binaire` : `Préréglage`
    2. `Qualité` : `Moyen, 145-185 kbps`
 9. Naviguez jusqu'à l'emplacement où vous souhaitez enregistrer le fichier.

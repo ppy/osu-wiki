@@ -12,7 +12,7 @@ Tieto pravidlá sú základy, pomocou ktorých sa snažíme udžať osu! komunit
 2. **Hraj férovo.** Používanie akýchkoľvek nástrojov ako sú makrá, aim-assist programy, menenie rýchlosti osu!, atď... nie je v poriadku. Pokiaľ program robí niečo, čo by si mal robiť ty v osu!, je to proti pravidlám.
 3. **Buďte k sebe dobrí.** Obťažovanie a ďaľšie formy antagonizmu nemajú miesto v osu! komunite. Sme tu aby sme klikali krúžky, búchali na bubny, chytali ovocie a stláčali až 18 klávesov naraz, nie na to aby sme boli zlí k sebe.
 4. **Nebuď idiot.** Pokiaľ si si neistý, či porušuješ toto pravidlo, pravdepodobne ho porušuješ.
-5. **Sme komunita pre všetky vekové kategórie.** Toto znamená, že, obsah ktorý je 18+ ako je užívanie drog alebo obsah ktorý má sexuálny podtón tu nie je vítaný. Výnimky sú udelené kde je to potrebné, ale zväčša to tu udžujte čisté. 
+5. **Sme komunita pre všetky vekové kategórie.** Toto znamená, že, obsah ktorý je 18+ ako je užívanie drog alebo obsah ktorý má sexuálny podtón tu nie je vítaný. Výnimky sú udelené kde je to potrebné, ale zväčša to tu udžujte čisté.
 6. **Kde pravidlá nesiahajú, sedliacký rozum by mal.** Administrátori môžu uďeľovať svoj úsudok na toto ako chcú.
 
 ## Četové pravidlá
@@ -59,10 +59,10 @@ Tieto "zlé veci" môžu byť (*ale nie sú obmedzené na*):
 - Znemožnenie hrania v oficiálnych turnajoch
 
 Dĺžka stlmení a ostatných trestov sa **automaticky** predlžuje skoro exponenciálne s každým porušením. Moderátori nekontrolujú dĺžku trestov - porušovatelia pravidieľ budú potrestaný čo raz dlhšie.
-    
+
 Niektoré porušenia majú minimálne trvanie (bežne 48 alebo viac hodín) pokiaľ sú obzvlášť závažné, ale toto je rezervované takmer výlučne pre prípady ako zdielanie veľmi nechutného obsahu alebo neprestávajúce obťažovanie ostatných uživateľov.
 
-Pokiaľ sa rozhodneš pokračovať v porušovaní pravidiel, tvoj účet môže byť natrvalo obmedzený. 
+Pokiaľ sa rozhodneš pokračovať v porušovaní pravidiel, tvoj účet môže byť natrvalo obmedzený.
 
 Obmedzené účty nemôžu hrať online, nahrávať skóre na beatmapách, četovať s ostatními a sú celkom "bannutý" z interakcie s komunitou. Obmedzenie môže byť odstránené po požiadaní po 3 mesiacoch od udelenia.
 

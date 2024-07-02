@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Winter 2021 Fanart Contest Voting Open"
+title: Winter 2021 Fanart Contest Voting Open
 date: 2021-12-09 18:00:00 +0000
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!Remix Contest Community Vote!"
+title: osu!Remix Contest Community Vote!
 date: 2016-07-31 07:30:23 +0000
 tumblr_url: http://osunews.tumblr.com/post/148236228038/osuremix-contest-community-vote
 ---

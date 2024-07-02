@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 tags:
   - charts
   - Ranking Charts
@@ -9,7 +8,7 @@ tags:
   - Destacados de temporada
 ---
 
-# Temporada 5 de Beatmaps Spotlights (Invierno 2022)
+# Temporada 5 de Beatmap Spotlights (Invierno 2022)
 
 ## Calendario
 
@@ -32,8 +31,8 @@ A partir de ahora, unirse a las salas multijugador semanales requiere que los pa
    - Después de la primera ola de salas, las listas de juego se abrirán nuevamente semanalmente.
 2. Cada sala de lista de juego proporciona una lista de juego predefinida de beatmaps.
    - Cada lista de juego contiene una distribución uniforme de beatmaps Hard, Insane y Expert.
-   - Cada lista de juego se corresponde con la letra asignada a cada 2 semanas. Por lo tanto, cada lista de juego se reproduce una vez durante una temporada.
-3. Dentro de una sala de lista de juego, todos compiten hacia una tabla de clasificación específica de la sala.
+   - Cada lista de juego se corresponde con la letra asignada a cada 2 semanas. Por lo tanto, cada lista de juego se repite una vez durante una temporada.
+3. Dentro de una sala de lista de juego, todos compiten en una tabla de clasificación específica de la sala.
    - Solo los mejores resultados de puntuación en cada beatmap dentro de la lista de juego se resumen para crear una puntuación semanal para cada jugador.
    - Cada beatmap de una lista de juego cuenta por igual para la puntuación de la tabla de clasificación.
    - La puntuación del beatmap individual se basa en el sistema de puntuación de osu!(lazer).
@@ -41,21 +40,21 @@ A partir de ahora, unirse a las salas multijugador semanales requiere que los pa
 
 ## Listas de juego
 
-### osu! (dirigido por [Nowaie](https://osu.ppy.sh/users/5428909))
+### osu! (dirigida por [Nowaie](https://osu.ppy.sh/users/5428909))
 
 #### Lista de juego A (unorthodox rhythm)
 
-- [Polyphia - O.D. \[Hard\]](https://osu.ppy.sh/beatmapsets/1378026#osu/2850639), suggested by [Lefafel](https://osu.ppy.sh/users/2295850)
+- [Polyphia - O.D. \[Hard\]](https://osu.ppy.sh/beatmapsets/1378026#osu/2850639), sugerido por [Lefafel](https://osu.ppy.sh/users/2295850)
 - [OSTER project - piano x forte \[Hard\]](https://osu.ppy.sh/beatmapsets/1296249#osu/2983635), sugerido por [DigitalHypno](https://osu.ppy.sh/users/4384207)
 - [Osamu Kubota - Presto \[Jval's Another\]](https://osu.ppy.sh/beatmapsets/1452332#osu/3005290), sugerido por [Zelq](https://osu.ppy.sh/users/8953955)
 - [Neru - Lost One no Goukoku \[eveless\]](https://osu.ppy.sh/beatmapsets/83547#osu/230641), sugerido por [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 - [OSTER project - Violet Rose \[Insane\]](https://osu.ppy.sh/beatmapsets/1178488#osu/2457698), sugerido por [DigitalHypno](https://osu.ppy.sh/users/4384207)
-- [onoken - ZADAMGA \[Luscent's Extra\]](https://osu.ppy.sh/beatmapsets/1492550#osu/3188917), sugerido por [DigitalHypno](https://osu.ppy.sh/users/4384207) and [Lefafel](https://osu.ppy.sh/users/2295850)
+- [onoken - ZADAMGA \[Luscent's Extra\]](https://osu.ppy.sh/beatmapsets/1492550#osu/3188917), sugerido por [DigitalHypno](https://osu.ppy.sh/users/4384207) y [Lefafel](https://osu.ppy.sh/users/2295850)
 - [UKRampage - Jack-the-Ripper \[Extravaganza\]](https://osu.ppy.sh/beatmapsets/1333932#osu/3274710), sugerido por [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 - [Nekomata Master - Byakuya Gentou \[EX\]](https://osu.ppy.sh/beatmapsets/36849#osu/119375), sugerido por [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 - [ELECTROCUTICA - Dependence Intension \[AQUARIUM+\]](https://osu.ppy.sh/beatmapsets/1402842#osu/2893781), sugerido por [Riot](https://osu.ppy.sh/users/4256461)
 
-### osu!taiko (dirigido por [OnosakiHito](https://osu.ppy.sh/users/290128))
+### osu!taiko (dirigida por [OnosakiHito](https://osu.ppy.sh/users/290128))
 
 #### Lista de juego A (unorthodox rhythm)
 
@@ -69,7 +68,7 @@ A partir de ahora, unirse a las salas multijugador semanales requiere que los pa
 - [Digital Math - The Musky Thrust \[Inner Oni\] (Jaltzu)](https://osu.ppy.sh/beatmapsets/1153833#taiko/2408145), sugerido por [uone](https://osu.ppy.sh/users/5321719)
 - [aran - Mazy Metroplex \[Inner Oni\] (-Dusk)](https://osu.ppy.sh/beatmapsets/1449961#taiko/2981096), sugerido por [uone](https://osu.ppy.sh/users/5321719)
 
-### osu!catch (dirigido por [SadEgg](https://osu.ppy.sh/users/10278243))
+### osu!catch (dirigida por [SadEgg](https://osu.ppy.sh/users/10278243))
 
 #### Lista de juego A (unorthodox rhythm)
 
@@ -83,7 +82,7 @@ A partir de ahora, unirse a las salas multijugador semanales requiere que los pa
 - [Zekk - Feelsleft0ut \[rei's missing 0ut\] (Bunnrei)](https://osu.ppy.sh/beatmapsets/1145368#fruits/2391319), sugerido por [SadEgg](https://osu.ppy.sh/users/10278243)
 - [Phoebe Ryan - Mine (HANAEL Remix) \[Lost\] (Jemzuu)](https://osu.ppy.sh/beatmapsets/1222143#fruits/2542067), sugerido por [Rocma](https://osu.ppy.sh/users/566276)
 
-### osu!mania (dirigido por [Hydria](https://osu.ppy.sh/users/808176), con la ayuda de [CrumpetFiddler](https://osu.ppy.sh/users/3518705) esta temporada)
+### osu!mania (dirigida por [Hydria](https://osu.ppy.sh/users/808176), con la ayuda de [CrumpetFiddler](https://osu.ppy.sh/users/3518705) esta temporada)
 
 #### Lista de juego A (unorthodox rhythm)
 

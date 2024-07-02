@@ -44,7 +44,7 @@ The osu! Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users
 110 BPM, 4:42 | 2.08★ – 7.05★\
 *description written by [Wixonater](https://osu.ppy.sh/users/10083084)*
 
-Lost to time from an older age, yet rising from the flames reviving once again in 2019, this set is another classic jump set from Ciyus Miapah. With 6 maps ranging from 2.08 to 7.05 stars, 220 BPM and a varying runtime around 4 minutes, this set provides a lot. 
+Lost to time from an older age, yet rising from the flames reviving once again in 2019, this set is another classic jump set from Ciyus Miapah. With 6 maps ranging from 2.08 to 7.05 stars, 220 BPM and a varying runtime around 4 minutes, this set provides a lot.
 
 Whether you are looking for some of his classic jump patterns, a variety of bizarre hitsounding, or a full set of this great song, you have found your place. With a slow start and end, the middle stands out with its buildup to cross-screen jumps that spike the difficulty. So I implore, why not check yourself to see why this set had gained the popularity it once had?
 
@@ -78,7 +78,7 @@ This is an absolute must-have for anyone who enjoys cutstream-heavy mapping, and
 118.75 – 178.12 BPM, 3:29 | 4.87★, 4.87★, 6.82★, 6.82★, 6.82★\
 *description written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
 
-As one of the most classic graveyarded chiptune songs, *ukigumo* stands out as a breath of fresh air. The mapping style is as innocent as 2013 gets, featuring mostly aim patterns as it builds up to a flow aim climax at the end. The difficulty spread of this mapset is also quite unique—there are 5 difficulties total, each with different ARs. 
+As one of the most classic graveyarded chiptune songs, *ukigumo* stands out as a breath of fresh air. The mapping style is as innocent as 2013 gets, featuring mostly aim patterns as it builds up to a flow aim climax at the end. The difficulty spread of this mapset is also quite unique—there are 5 difficulties total, each with different ARs.
 
 While this may sound quite common, this mapset takes it a step further and has slowed-down versions of the map to be played with DT such that the original map can be played at AR 10.3 and AR 11. For all of you high-AR enthusiasts out there, this mapset is definitely your calling, but even if you're not built for high AR, this mapset is nothing but innocent fun for everyone.
 
@@ -98,7 +98,7 @@ Made by SnowNiNo_, *Bi* is a strange song made by our very own Featured Artist [
 205 BPM, 6:40 | 11.17★\
 *description written by [UberFazz](https://osu.ppy.sh/users/8646059)*
 
-A song that lies among the greats in osu! history, Camellia's *OOPARTS* is immediately recognizable to casual and hardcore players alike. Serving as a custom song for [OWC 2020](/wiki/Tournaments/OWC/2020) by the rhythm game legend himself, this song garnered a wealth of attention when it was first announced. That being said, it should be no surprise that a wide array of mappers picked up the song and tried mapping it themselves. 
+A song that lies among the greats in osu! history, Camellia's *OOPARTS* is immediately recognizable to casual and hardcore players alike. Serving as a custom song for [OWC 2020](/wiki/Tournaments/OWC/2020) by the rhythm game legend himself, this song garnered a wealth of attention when it was first announced. That being said, it should be no surprise that a wide array of mappers picked up the song and tried mapping it themselves.
 
 This fascinating collab by xArief and many others takes this song and puts it to its absolute extremes, harboring nearly 200 favorites despite the fact. At a whopping 11 stars, this will be a challenge even to the most capable players we know, but at least you'll be accompanied by a slick storyboard along the way. Good luck.
 
@@ -147,7 +147,7 @@ So, if you're up for the task, you should really give this a try!
 270 BPM, 2:32 | 6.53★, 6.69★, 7.00★\
 *description written by [KuroKuroKuro](https://osu.ppy.sh/users/11931563)*
 
-*Nageki no Hana (Slax Remix)* is a very popular map among taiko players. I often see various taiko players pick and play this map in multi mode. The fact that it is loved by such a wide variety of players must mean that the map is that good. The BPM is fast (270), but there are many basic patterns, so this is a good speed map for intermediate to advanced players to practice. 1/6 is not included at all, only 1/4 is used, so it is recommended for those who are not good at fast maps and want to improve. 
+*Nageki no Hana (Slax Remix)* is a very popular map among taiko players. I often see various taiko players pick and play this map in multi mode. The fact that it is loved by such a wide variety of players must mean that the map is that good. The BPM is fast (270), but there are many basic patterns, so this is a good speed map for intermediate to advanced players to practice. 1/6 is not included at all, only 1/4 is used, so it is recommended for those who are not good at fast maps and want to improve.
 
 If you're looking for a way to hone your taiko skills, why not play this map?
 
@@ -185,7 +185,7 @@ Excuse my rudeness, but could you please cast your vote? <3
 243 BPM, 5:58 | 8.28★, 8.71★\
 *description written by [Kasumi-sama](https://osu.ppy.sh/users/6177263)*
 
-Resident osu!catch mapper CLSW makes once again his return to the Loved section, with potentially his 20th Loved beatmap, *Contrapasso -purgatorio-*, which was mapped for [AxS' 4th edition](https://osu.ppy.sh/community/forums/topics/822420)'s Grand Finals tiebreaker. 
+Resident osu!catch mapper CLSW makes once again his return to the Loved section, with potentially his 20th Loved beatmap, *Contrapasso -purgatorio-*, which was mapped for [AxS' 4th edition](https://osu.ppy.sh/community/forums/topics/822420)'s Grand Finals tiebreaker.
 
 This map takes any osu!catch player to one hellish ride, with the first two kiai sections riddled with relatively hard antiflow patterns, jumps and bursts, and the map does not stop the intensity it pulls out in the slightest, even up to the very end, with the nastiest burst right at the end, ready to kill players.
 
@@ -227,7 +227,7 @@ The osu!mania Loved candidates were chosen by [\_underjoy](https://osu.ppy.sh/us
 
 lemonguy is returning to Loved with our next nomination, *9mm*!
 
-Nothing can overstate how versatile lemonguy is as a mapper, and *9mm* accentuates that perfectly. We've seen many different maps of his go up over the years, all highlighting different skillsets, whether it's the tricky LN releases of [Daisycutter](https://osu.ppy.sh/beatmapsets/1307846) or the heavy-handed tech featured in [Please Don't Remember](https://osu.ppy.sh/beatmapsets/809304) (both of which you should play if you haven't, by the way!). 
+Nothing can overstate how versatile lemonguy is as a mapper, and *9mm* accentuates that perfectly. We've seen many different maps of his go up over the years, all highlighting different skillsets, whether it's the tricky LN releases of [Daisycutter](https://osu.ppy.sh/beatmapsets/1307846) or the heavy-handed tech featured in [Please Don't Remember](https://osu.ppy.sh/beatmapsets/809304) (both of which you should play if you haven't, by the way!).
 
 *9mm* takes a bit of a step back from these mapping styles and goes for a much more relaxed, bouncy feel. You'll find a multitude of fun patterns throughout this map, including very light dumpstreams, unintrusive short LNs, and slow minijacks. All of these come together to create a very smooth map that's charted to the perfect song to get you absolutely pumped while playing.
 

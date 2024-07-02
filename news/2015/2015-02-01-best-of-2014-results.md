@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Best of 2014 - Results"
+title: Best of 2014 - Results
 date: 2015-02-01 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/109804193683/best-of-2014-results
 ---

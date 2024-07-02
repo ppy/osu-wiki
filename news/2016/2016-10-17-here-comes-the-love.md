@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Here Comes the Love"
+title: Here Comes the Love
 date: 2016-10-17 08:50:40 +0000
 tumblr_url: http://osunews.tumblr.com/post/151925254083/here-comes-the-love
 ---

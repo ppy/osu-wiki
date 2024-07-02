@@ -9,7 +9,7 @@ tags:
 
 # File d'attente de classement des beatmaps
 
-La **file de classement** gère le passage des [beatmaps](/wiki/Beatmap) de la catégorie [qualifiée](/wiki/Beatmap/Category#qualifiée) à la catégorie [classée](/wiki/Beatmap/Category#classée). Chaque jour, 10 beatmaps de chaque [mode de jeu](/wiki/Game_mode) peuvent passer de la catégorie qualifiée à la catégorie classée, à condition d'avoir été dans la catégorie qualifiée pendant au moins 7 jours. Le moment de la journée où les beatmaps sont classées est aléatoire.
+La **file de classement** gère le passage des [beatmaps](/wiki/Beatmap) de la catégorie [qualifiée](/wiki/Beatmap/Category#qualified) à la catégorie [classée](/wiki/Beatmap/Category#ranked). Chaque jour, 10 beatmaps de chaque [mode de jeu](/wiki/Game_mode) peuvent passer de la catégorie qualifiée à la catégorie classée, à condition d'avoir été dans la catégorie qualifiée pendant au moins 7 jours. Le moment de la journée où les beatmaps sont classées est aléatoire.
 
 ## Disqualification et requalification
 

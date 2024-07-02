@@ -7,6 +7,7 @@
    ![Formularz rejestracyjny w grze](img/ingame-registration.jpg "Formularz rejestracyjny")
 
 2. Wypełnij wszystkie pola w formularzu.
+
    - W polu `Username` wprowadź nazwę użytkownika. Może składać się z maksymalnie 15 znaków, z których dozwolone są tylko: znaki alfanumeryczne (`a-z`, `A-Z`, `0-9`), znaki podkreślenia (`_`), nawiasy kwadratowe, (`[` i `]`), myślniki (`-`) oraz spacje (` `).
    - W polu `Email Address` wprowadź swój aktywny adres e-mail. Będzie on potrzebny do zresetowania hasła i uzyskiwania kodów weryfikacyjnych, dlatego upewnij się, że masz do niego stały dostęp. Nie używaj tymczasowego adresu e-mail.
    - W polu `Password` wprowadź hasło o długości co najmniej 8 znaków.

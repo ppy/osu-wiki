@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aspire V - Category Stage Voting"
+title: Aspire V - Category Stage Voting
 date: 2020-06-22 16:00:00 +0000
 ---
 
@@ -16,17 +16,17 @@ We have also put together short compilations of each category, consisting of 45 
 
 **[You can watch snippets of all entries in all major categories via this link.](https://www.youtube.com/playlist?list=PLmWVQsxi34bPOwMZSzySyrnIzsHGy2xKW)**
 
-Our first category is the **Slider Maestro** category, featuring osu! beatmaps where sliders have been exploited and pushed to the extreme, representing their chosen song in innovative ways. 
+Our first category is the **Slider Maestro** category, featuring osu! beatmaps where sliders have been exploited and pushed to the extreme, representing their chosen song in innovative ways.
 
-Next we have the **Player’s Pick** category. This category focuses on osu! beatmaps that display creative ideas, alongside challenging but reasonable gameplay experiences that still manages to represent the song. 
+Next we have the **Player’s Pick** category. This category focuses on osu! beatmaps that display creative ideas, alongside challenging but reasonable gameplay experiences that still manages to represent the song.
 
-The **2B** category focuses, as the name suggests, on osu! beatmaps with “2B” gimmicks, where several objects appear at the same time. These beatmaps have used these gimmicks to enhance gameplay, as well as showing off stunning visual effects. 
+The **2B** category focuses, as the name suggests, on osu! beatmaps with “2B” gimmicks, where several objects appear at the same time. These beatmaps have used these gimmicks to enhance gameplay, as well as showing off stunning visual effects.
 
 The final osu! category is the **Innovative Storyboarding** category. We only have four beatmaps for this category, but each of these beatmaps use storyboarding in an attempt to take gameplay and visuals to the next level.
 
 The first of our mixed mode categories is the **Song Title** category. Each of these beatmaps heavily represent the title of the song they have chosen in a variety of different gameplay and visual methods.
 
-Beatmaps in the **Unique Mechanics** category show off novel gameplay mechanics that are only possible by disregarding the ranking criteria, all without the use of a storyboard. 
+Beatmaps in the **Unique Mechanics** category show off novel gameplay mechanics that are only possible by disregarding the ranking criteria, all without the use of a storyboard.
 
 We also have an **Innovative Storyboarding** category for the maps that aren’t using the osu! mode. Each of these beatmaps completely change up the game modes they were built in through the use of storyboarding.
 

@@ -24,7 +24,7 @@ On top of these already very significant departures, one of the primary pioneers
 With the 7K side of things for osu!mania now needing new hands on-deck, Project Loved is welcoming a whopping 3 new captain additions to fill in the void left behind. Returning from their hiatus from the team is none other than the legendary [stupud man](https://osu.ppy.sh/users/2141612). Alongside them we also have a fresh face joining the fray, being the one and only [-NoName-](https://osu.ppy.sh/users/10400730)! And as if that wasn't enough, [kadoen](https://osu.ppy.sh/users/12780575), known for being the person to contact when it comes to metadata for Project Loved, is also joining the roster of osu!mania captains alongside the other two! Please, give these fine folks a very warm welcome to the team!
 
 Lastly, before we move onto this month's selection of beatmaps, we would like to remind you that if you want to submit maps to be considered for future votes, you may do so by filling out [this form](https://loved.sh/submit) and if you wish to view currently submitted maps, you can check them on the [Project Loved website](https://loved.sh/submissions).
- 
+
 Without any further delay, let's move onto this month's picks!
 
 ### Navigation
@@ -409,6 +409,6 @@ Please vote and give emO_Oticon your support!
 
 From everyone on the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team), we hope you enjoyed this month's selections and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end.
 
-See you next month! 
+See you next month!
 
 —huu

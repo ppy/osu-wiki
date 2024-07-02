@@ -15,4 +15,4 @@ La star priority ha due significati:
 2. Un metodo per determinare se una richiesta di funzionalità è desiderata dalla comunità.
    - Più alta è la star priority, più velocemente viene notata.
    - Gli utenti con osu!supporter possono aumentare la priorità di due stelle (![Star](img/star.png)) per ogni voto, mentre i voti degli utenti normali valgono una sola stella. Gli utenti possono essere in grado di sparare più stelle a seconda del numero di voti rimasti.
-   - *Nota: Il forum delle richieste di funzionalità è attualmente obsoleto ed è stato in gran parte sostituito dal flusso delle [discussioni su Gituhb](https://github.com/ppy/osu/discussions).*
+   - *Nota: Il forum delle richieste di funzionalità è attualmente obsoleto ed è stato in gran parte sostituito dal flusso delle [discussioni su GitHub](https://github.com/ppy/osu/discussions).*

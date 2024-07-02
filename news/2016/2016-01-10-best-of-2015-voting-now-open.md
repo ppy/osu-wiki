@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Best of 2015 Voting Now Open!"
+title: Best of 2015 Voting Now Open!
 date: 2016-01-10 15:35:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/137019258158/best-of-2015-voting-now-open
 ---

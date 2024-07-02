@@ -106,12 +106,18 @@ tags:
 
 ### Übersetzungen ohne Überprüfungen
 
-*Anmerkung: Wiki-Verwalter werden diese Markierung vor dem Mergen setzen, falls notwendig.*
+*Anmerkung: Wiki-Verwalter werden dieses Tag vor dem Mergen setzen, falls notwendig.*
 
-Manchmal werden Artikel ohne eine Überprüfung eines Muttersprachlers dem Wiki hinzugefügt. In diesem Fall muss die Markierung `no_native_review` gesetzt werden, damit zukünftige Übersetzer wissen, dass der Artikel gegebenenfalls nochmals überprüft werden muss. Dieses Tag muss folgendermaßen geschrieben werden:
+Manchmal werden Artikel ohne eine Überprüfung eines Muttersprachlers dem Wiki hinzugefügt. In diesem Fall muss das Tag `no_native_review` gesetzt werden, damit zukünftige Übersetzer wissen, dass der Artikel gegebenenfalls nochmals überprüft werden muss:
 
 ```yaml
 no_native_review: true
+```
+
+Alternativ kann das Tag `no_native_review_since` verwendet werden, um anzugeben, bei welchem Commit die erste unüberprüfte Bearbeitung stattfand und wer seitdem an der Übersetzung beteiligt war:
+
+```yaml
+no_native_review_since: 5539d9e8c943605a7be186dc3f5ab10569275b05 Doryan
 ```
 
 ## Artikelbenennung
@@ -773,7 +779,7 @@ Die Flaggensymbole benutzen eine Zwei-Buchstaben-Kodierung (alle in Großschreib
 ::{ flag=XX }::
 ```
 
-Wobei `XX` der [ISO 3166-2](https://de.wikipedia.org/wiki/ISO-3166-1-Kodierliste) zwei-Buchstaben Ländercode für die Flagge ist.
+Wobei `XX` der [ISO 3166-1 alpha-2](https://de.wikipedia.org/wiki/ISO-3166-1-Kodierliste) zwei-Buchstaben Ländercode für die Flagge ist.
 
 ## Tabellen
 

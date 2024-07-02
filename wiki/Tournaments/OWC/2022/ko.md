@@ -589,7 +589,7 @@ osu! 월드컵 2022는 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
    - 캡틴은 자신의 조건에 따라 플레이어의 적성을 측정하기 위해 "선발전"을 시행하고 조정할 수 있습니다.
    - 캡틴은 언제든지 자신의 역할을 다른 예비 팀원에게 임명할 수 있습니다. 임명된 후에는 새로운 주장만이 다른 플레이어에게 주장을 임명할 수 있습니다.
    - **2022년 10월 6일 목요일 23:59 UTC까지 팀 목록을 보내지 않는 팀은 대회에서 실격됩니다.**
-3. 유효한 등록을 보장하기 위해, 잠재적인 모든 플레이어는 [계정 지원 팀](/wiki/People/Account_support_team)에 의해 [토너먼트 스크리닝](/wiki/Tournaments/Official_support#tournament-screening)과 비슷하게 수동으로 검증을 받게 됩니다.
+3. 유효한 등록을 보장하기 위해, 잠재적인 모든 플레이어는 [계정 지원 팀](/wiki/People/Account_support_team)에 의해 [토너먼트 스크리닝](/wiki/Tournaments/Official_support#토너먼트-스크리닝)과 비슷하게 수동으로 검증을 받게 됩니다.
    - 등록된 모든 유저는 해당 국가의 후보 목록에 기록됩니다.
    - 목록에 성공적으로 등록되기 위해선, 플레이어는 osu! 게임 모드에서 세계랭킹 5,000위 이상을 기록해야 합니다. 또한 [osu! 규칙](/wiki/Rules)을 12개월간 위반한 적이 없어야 합니다.
 4. 성공적으로 조직된 모든 팀은 등록 기간 이후 이 페이지에 게시되게 됩니다.
@@ -652,7 +652,7 @@ osu! 월드컵 2022는 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 ### 맵풀 정보
 
 1. 모든 스테이지에는 고유한 맵풀이 있습니다
-2. 각 맵풀은 [No Mod](/wiki/Gameplay/Game_modifier#nomod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), [FreeMod](/wiki/Gameplay/Game_modifier#freemod)로 구성되어 있습니다.
+2. 각 맵풀은 [No Mod](/wiki/Gameplay/Game_modifier#no-mod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), [FreeMod](/wiki/Gameplay/Game_modifier#free-mod)로 구성되어 있습니다.
 3. 맵풀별 비트맵의 개수는 다음과 같습니다:
    - 퀄리파이어: 11개의 비트맵
    - 32강과 16강: 15개의 비트맵

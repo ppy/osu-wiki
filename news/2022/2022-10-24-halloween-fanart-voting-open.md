@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halloween 2022 Fanart Contest Voting Open"
+title: Halloween 2022 Fanart Contest Voting Open
 date: 2022-10-24 06:00:00 +0000
 ---
 
@@ -22,7 +22,7 @@ Check out a quick preview video below (courtesy of one Mr. Fat) of what's up for
 
 We're unexpectedly tight on time this year, so the voting will only stay open for **5 days** instead of the usual 7. Make sure to get in quick and choose your favourites!
 
-A selection from the top-voted entries will make it to the game's main menu as the Halloween 2022 Seasonal backgrounds, and their creators will also receive 3 months of osu!supporter. 
+A selection from the top-voted entries will make it to the game's main menu as the Halloween 2022 Seasonal backgrounds, and their creators will also receive 3 months of osu!supporter.
 
 The top 3 most voted entries will forever etch themselves upon their author's profiles as fancy and bespoke profile badges, too!
 

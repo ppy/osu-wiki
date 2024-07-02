@@ -4,13 +4,13 @@ title: "New Featured Artist: Akira Complex"
 date: 2019-10-16 09:00:00 +0000
 ---
 
-Bending the very fabric of time and space, **Akira Complex** plunges into the Featured Artist catalogue! 
+Bending the very fabric of time and space, **Akira Complex** plunges into the Featured Artist catalogue!
 
 ![](https://assets.ppy.sh/artists/51/header.jpg)
- 
-An widely established and well-respected producer, **Akira Complex** is a name not unfamiliar to the rhythm game scene by any stretch of the imagination. 
 
-With a beefy resume including the likes of multiple KONAMI titles, the **Akira Complex** sound spans far and wide touching down in the osu! realm with *21 new tracks* for you to sink your teeth into. 
+An widely established and well-respected producer, **Akira Complex** is a name not unfamiliar to the rhythm game scene by any stretch of the imagination.
+
+With a beefy resume including the likes of multiple KONAMI titles, the **Akira Complex** sound spans far and wide touching down in the osu! realm with *21 new tracks* for you to sink your teeth into.
 
 Think you're ready to digest it all? Give it a preview below!
 
@@ -32,13 +32,11 @@ Think you're ready to digest it all? Give it a preview below!
     <source src="https://assets.ppy.sh/artists/51/previews/1501.mp3" type="audio/mpeg">
 </audio>
 
-
 ### Dying Scarlet
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/51/previews/1505.mp3" type="audio/mpeg">
 </audio>
-
 
 ### TERRA
 

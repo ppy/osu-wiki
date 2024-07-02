@@ -16,7 +16,7 @@ La **Language Surveillance Division** (familièrement connue sous le nom de *LSD
 
 ## Tâches
 
-Les membres de la LSD étaient choisis par l'équipe d'osu! au sein de la communauté pour agir en tant que modérateurs dans les communautés et sous-forums à faible trafic. Contrairement aux Global Moderators, ils ne disposaient pas de fonctions telles que des surnoms colorés ou des titres de forum personnalisés. Sur l'[IRC](/wiki/Community/Internet_Relay_Chat), cependant, ils étaient des [opérateurs](/wiki/Community/Internet_Relay_Chat#pourquoi-certains-noms-d'utilisateur-sont-préfixés-par-des-signes-différents-?) et pouvaient appliquer des [silences](/wiki/Silence).
+Les membres de la LSD étaient choisis par l'équipe d'osu! au sein de la communauté pour agir en tant que modérateurs dans les communautés et sous-forums à faible trafic. Contrairement aux Global Moderators, ils ne disposaient pas de fonctions telles que des surnoms colorés ou des titres de forum personnalisés. Sur l'[IRC](/wiki/Community/Internet_Relay_Chat), cependant, ils étaient des [opérateurs](/wiki/Community/Internet_Relay_Chat#pourquoi-certains-noms-d'utilisateur-sont-ils-précédés-de-signes-différents-?) et pouvaient appliquer des [silences](/wiki/Silence).
 
 La LSD a également servi de groupe intermédiaire pour les membres prometteurs en attente d'admission dans la [Global Moderation Team](/wiki/People/Global_Moderation_Team) à certains moments, car les deux groupes partagent généralement un objectif commun et des compétences similaires.
 

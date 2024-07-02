@@ -6,7 +6,7 @@ Are you a [Beatmap Nominator](/wiki/People/Beatmap_Nominators) *(BN)*, or intere
 
 - [Beatmap Nominator Rules](/wiki/People/Beatmap_Nominators/Rules): Outlines both how to undertake various actions, as well as how not to do things — you would want to avoid breaking these in any situation, so be sure to read them carefully! You can always ask a member of the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) *(NAT)* if you are unsure about something, and they will be happy to help.
 - [Code of Conduct for Mapping and Modding](/wiki/Rules/Code_of_conduct_for_modding_and_mapping): As a BN, you are expected to be an exemplary figure of the community, someone others look up to and respect, so misconduct may get you reprimanded or even expelled.
-- [Ranking Criteria](/wiki/Ranking_criteria): If you are already a BN, then you should be familiar with this. Essentially, it serves to explain what aspects of mapping are and are not allowed in the Ranked section, as well as including some general guidelines that people should try to follow in most cases. 
+- [Ranking Criteria](/wiki/Ranking_criteria): If you are already a BN, then you should be familiar with this. Essentially, it serves to explain what aspects of mapping are and are not allowed in the Ranked section, as well as including some general guidelines that people should try to follow in most cases.
 - [Beatmap Veto Information](/wiki/People/Beatmap_Nominators/Beatmap_Veto): For beatmaps with subjective quality concerns that don't necessarily break the rules and guidelines of the Ranking Criteria, but which you feel which make the beatmap in question unfit for the Ranked section, the beatmap veto allows you to withhold a beatmap from Qualification.
 - [Mapset Verifier](https://osu.ppy.sh/community/forums/topics/943895): A tool built by NAT member [Naxess](https://osu.ppy.sh/users/8129817). This tool checks for a wide range of unrankable issues, and features a snapshot feature to easily compare versions of maps, which is beneficial when rechecking. **This should not replace checking a beatmap yourself**, but instead be used as a tool to help double-check nothing slipped by.
 
@@ -20,7 +20,7 @@ Nominations and resetting nominations are the evidence of a BN's efforts when ch
 
 **This button allows you to nominate beatmaps.** To nominate a beatmap, the mapset must have at least 5 [Hype](/wiki/Beatmap/Hype) and no currently unresolved Problem or Suggestion stamps. Make sure you're satisfied with all difficulties, even other game modes, before placing this. If the beatmap was previously vetoed, you must ensure the veto is resolved before moving a mapset forward. When a beatmap has 2 nominations, it will be [Qualified](/wiki/Beatmap/Category#qualified) and enter the [ranking queue](/wiki/Beatmap_ranking_procedure/Ranking_queue).
 
-### Disqualify or reset nomination 
+### Disqualify or reset nomination
 
 ![disqualify and reset buttons](img/reset_dq.png)
 

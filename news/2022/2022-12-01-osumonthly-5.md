@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!monthly, November 2022"
+title: osu!monthly, November 2022
 date: 2022-12-05 09:00:00 +0000
 ---
 
@@ -107,7 +107,7 @@ Word on the street is that there will be more Hush-Hush medals coming soon, so i
 
 ### SillyFanGirl's BR eSports nomination
 
-![https://twitter.com/premioesportsbr/status/1593590309631295488?s=20&t=1thfKY6-BpTCFDsbtltDdw](https://pbs.twimg.com/profile_banners/983759809156669440/1663599648/1500x500)
+![](/wiki/shared/news/2022-12-01-osumonthly-5/BResports-banner.jpg)
 
 It is already a very hard feat to be recognised as one of the best, most versatile players 4K osu!mania has ever seen. [SillyFanGirl](https://osu.ppy.sh/users/2288363) has not only been able to achieve this, but is also an active [content creator](https://www.youtube.com/@SillyFangirlosu), an active tournament player, and overall an incredible community member to interact with!
 
@@ -119,7 +119,7 @@ If you want to directly support them or get yourself involved in the Brazil's eS
 
 *Section written by [0x84f](https://osu.ppy.sh/users/7944724)*
 
-Month after month [mrekk](https://osu.ppy.sh/users/7562902) keeps proving why he is the best osu! player in the world, and if you *still* needed some justification as to why people consider him as one of the greatest players of all time, check out his HDDT play on [Save Me](https://osu.ppy.sh/beatmapsets/594170#osu/1256809). 
+Month after month [mrekk](https://osu.ppy.sh/users/7562902) keeps proving why he is the best osu! player in the world, and if you *still* needed some justification as to why people consider him as one of the greatest players of all time, check out his HDDT play on [Save Me](https://osu.ppy.sh/beatmapsets/594170#osu/1256809).
 
 This 11-minute long marathon by [Drummer](https://osu.ppy.sh/users/4102249) has been considered by some as the "endgame" map to FC with HDDT, but unfortunately mrekk choked at the end with 4 misses and a couple of slider breaks. Nonetheless, it's an amazing play to witness.
 
@@ -133,7 +133,7 @@ Another notable play amongst a sea of mrekk's scores that push the game beyond i
 
 It's one thing to get the number one spot on the leaderboard with Hidden, but it's another to be the only FC with a mod at all. Though, [Peaceful](https://osu.ppy.sh/users/165027) took up the challenge and managed to absolutely *violate* [The Violation](https://osu.ppy.sh/beatmapsets/1452092#taiko/2985808).
 
-While not being the longest nor fastest map osu!monthly has showcased, it is definitely a merit in and of itself. Coming in at 270 BPM, various rhythm changes, not to mention these timing changes are happening within 1/4 streams, and being over 5 minutes into nigh non-stop drumming action, this map definitely holds up to its name. 
+While not being the longest nor fastest map osu!monthly has showcased, it is definitely a merit in and of itself. Coming in at 270 BPM, various rhythm changes, not to mention these timing changes are happening within 1/4 streams, and being over 5 minutes into nigh non-stop drumming action, this map definitely holds up to its name.
 
 Beware, although Peaceful makes the map look like a walk in the park, one should not mistake it as being easy.
 

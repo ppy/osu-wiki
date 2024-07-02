@@ -41,7 +41,7 @@
 - [mattyu007](https://osu.ppy.sh/users/4934)をビートマップ承認チームに追加 (2008-08-28) <!-- https://osu.ppy.sh/community/forums/posts/45650 -->
 - [Dakeryus](https://osu.ppy.sh/users/10441)をビートマップ承認チームに追加 (2008-08-31) <!-- https://osu.ppy.sh/community/forums/posts/46651 -->
 
-## 9月 
+## 9月
 
 - [Mogsworth](https://osu.ppy.sh/users/4018)をビートマップ承認チームに追加 (2008-09-01) <!-- https://osu.ppy.sh/community/forums/posts/46904 -->
 - [kingcobra52](https://osu.ppy.sh/users/9934)をビートマップ承認チームに追加 (2008-09-01)

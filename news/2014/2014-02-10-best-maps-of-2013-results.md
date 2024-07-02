@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Best Maps of 2013 Results"
+title: Best Maps of 2013 Results
 date: 2014-02-10 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/76226135369/best-maps-of-2013-results
 ---
@@ -24,7 +24,6 @@ Best 10 osu!standard maps of 2013:
 - 9th with 320 votes - [3L - Three Magic (cRyo\[iceeicee\])](https://osu.ppy.sh/beatmapsets/59631)
 - 10th with 302 votes - [Tatsh - IMAGE -MATERIAL- (Scorpiour)](https://osu.ppy.sh/beatmapsets/93523)
 
-
 With what is undoubtedly a surprise to absolutely nobody, RLC takes home the prize for unanimously the best standard beatmap of 2013! Congratulations!
 
 Best 10 Taiko maps of 2013:
@@ -39,7 +38,6 @@ Best 10 Taiko maps of 2013:
 - 8th with 259 votes - [Harada Hitomi, Kayano Ai & Ogura Yui - Maware! Setsugekka (TV Size) (wcx19911123)](https://osu.ppy.sh/beatmapsets/122658)
 - 9th with 228 votes - [Igorrr - Pavor Nocturnus (grumd)](https://osu.ppy.sh/beatmapsets/57525)
 - 10th with 222 votes - [Linked Horizon - Jiyuu no Tsubasa (TV Size) (Kuria)](https://osu.ppy.sh/beatmapsets/104986)
-
 
 The Taiko voting was exceptionally close overall, and a well-earned win by Kuria.
 
@@ -56,7 +54,6 @@ Best 10 Catch the Beat maps of 2013:
 - 9th with 43 votes - [ZUN - Because Princess Inada is Scolding Me (Stefan)](https://osu.ppy.sh/beatmapsets/50717)
 - 10th with 35 votes - [ginkiha - Oriens (Deif)](https://osu.ppy.sh/beatmapsets/65855)
 
-
 With Catch the Beat maps only having recently come into their own, the voting turnout is exceptionally encouraging for those foraying into creating unique beatmaps for the mode - with a resounding win by Haya. Congratulations!
 
 Best 10 osu!mania maps of 2013:
@@ -71,7 +68,6 @@ Best 10 osu!mania maps of 2013:
 - 8th with 69 votes - [bj.HaLo - Ende (Loctav)](https://osu.ppy.sh/beatmapsets/79132)
 - 9th with 68 votes - [ALTIMA - Burst The Gravity (TV Size) (Zeroarg)](https://osu.ppy.sh/beatmapsets/79038)
 - 10th with 62 votes - [yuikonnu - Souzou Forest (indyinyou)](https://osu.ppy.sh/beatmapsets/114599)
-
 
 Star Stream scores a decisive win, scoring almost a third of all the votes cast amongst the top 10 entries! Well done!
 

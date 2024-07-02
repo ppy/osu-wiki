@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "triangles Beatmapping Contest"
+title: triangles Beatmapping Contest
 date: 2022-05-31 06:00:00 +0000
 ---
 
@@ -37,7 +37,7 @@ Surprising absolutely nobody, this contest has RULES:
 - **Submissions must not be publicly revealed until after the judging phase ends.**
 - **Submissions must not be Qualified until after the community vote ends.**
 
-Once you've read these rules and have assembled a team of fellow creator-compatriots **submit your team name and member list to [this form](https://docs.google.com/forms/d/e/1FAIpQLSeExd07kLYqp-Mx-lM7Wwxii_qidSUasAlMi3HUHUsdfVSUyg/viewform?usp=sf_link).** 
+Once you've read these rules and have assembled a team of fellow creator-compatriots **submit your team name and member list to [this form](https://docs.google.com/forms/d/e/1FAIpQLSeExd07kLYqp-Mx-lM7Wwxii_qidSUasAlMi3HUHUsdfVSUyg/viewform?usp=sf_link).**
 
 Once confirmed, your team will be published on the [*triangles* contest wiki page](/wiki/Contests/triangles_Beatmapping_Contest)!
 
@@ -60,14 +60,14 @@ Prizes will be awarded to all members of the highest scoring team in each catego
 
 ### Mapper panel
 
-- **Runner-up:** 3 months of osu!supporter 
+- **Runner-up:** 3 months of osu!supporter
 - **Winner:**  6 months of osu!supporter + *Mappers' Pick* profile badge
 
 ![Mappers' Pick profile badge](/wiki/shared/news/2022-05-26-triangles/mappers@2x.png)
 
 ### Storyboarder panel
 
-- **Runner-up:** 3 months of osu!supporter 
+- **Runner-up:** 3 months of osu!supporter
 - **Winner:**  6 months of osu!supporter + *Storyboarders' Pick* profile badge
 
 ![Storyboarders' Pick profile badge](/wiki/shared/news/2022-05-26-triangles/storyboarders@2x.png)

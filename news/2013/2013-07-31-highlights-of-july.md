@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Highlights of July"
+title: Highlights of July
 date: 2013-07-31 18:58:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/56990275116/highlights-of-july
 ---

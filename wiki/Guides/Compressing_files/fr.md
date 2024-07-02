@@ -4,7 +4,7 @@ no_native_review: true
 
 # Compression des fichiers
 
-Chaque beatmap a une [limite de taille de fichier](/wiki/Beatmapping/Beatmap_submission#limites) déterminée par sa longueur totale, et tout contenu [vidéo](/wiki/Ranking_criteria#video-and-background) et [audio](/wiki/Ranking_criteria#audio) doit respecter les exigences en matière de format, de résolution et de débit binaire.
+Chaque beatmap a une [limite de taille de fichier](/wiki/Beatmapping/Beatmap_submission#limites) déterminée par sa longueur totale, et tout contenu [vidéo](/wiki/Ranking_criteria#vidéo-et-arrière-plan) et [audio](/wiki/Ranking_criteria#audio) doit respecter les exigences en matière de format, de résolution et de débit binaire.
 
 Ce guide vous aidera à faire passer votre beatmap en dessous de cette limite et à répondre à ces exigences.
 
@@ -29,13 +29,13 @@ Si un réencodage est nécessaire, il est conseillé d'utiliser le fichier sourc
 
 **osu! prend en charge les vidéos encodées au format H.264 avec l'extension de fichier `.mp4`.** D'autres formats, tels que H.265, VP9 et AV1, et des extensions de fichier telles que `.mkv` et `.mov`, ne sont pas pris en charge actuellement.
 
-**Les [critères de classement](/wiki/Ranking_criteria#video-and-background) spécifient une résolution vidéo maximale de 1280x720 pixels.**
+**Les [critères de classement](/wiki/Ranking_criteria#vidéo-et-arrière-plan) spécifient une résolution vidéo maximale de 1280x720 pixels.**
 
 ### Utilisation de Handbrake
 
 Pour commencer, téléchargez et installez [Handbrake](https://handbrake.fr/), puis suivez les étapes suivantes :
 
-1. Ouvrez Handbrake, puis importez votre fichier vidéo de l'une des manières suivantes : 
+1. Ouvrez Handbrake, puis importez votre fichier vidéo de l'une des manières suivantes :
    - Glisser-déposer le fichier dans Handbrake, ou
    - Cliquez sur l'option `Fichier`, puis sélectionnez le fichier à importer.
 
@@ -53,7 +53,6 @@ Pour commencer, téléchargez et installez [Handbrake](https://handbrake.fr/), p
    - `Encodeur vidéo` défini sur `H.264 (x264)` pour encoder au format H.264 à l'aide de l'encodeur x264
    - `Framerate (FPS)` défini sur `Same as source` avec `Framerate constant` sélectionné
    - `Qualité constante` défini sur une valeur comprise entre 20 et 25. Une valeur plus faible permet d'obtenir des fichiers plus volumineux et de meilleure qualité.
-   
 5. En fonction du temps que vous êtes prêt à consacrer à l'encodage, changez le `Préréglage de l'encodeur` sous `Options de l'encodeur` (`Veryslow` est recommandé). Les préréglages plus lents permettent d'obtenir une meilleure qualité vidéo et peuvent également réduire la taille du fichier vidéo.
    - N'utilisez pas le preset `Placebo`, car il prend beaucoup plus de temps à encoder que `Veryslow` pour une très faible amélioration de la qualité ou de la taille du fichier.
 
@@ -119,7 +118,7 @@ Pour commencer, téléchargez et installez [Audacity](https://www.audacityteam.o
 
 5. Une fois les métadonnées saisies, qui peuvent être laissées vides si vous le souhaitez, cliquez sur `OK` pour commencer le réencodage.
 
-**NOTE :** Cliquer sur `Annuler` dans la boîte de dialogue des métadonnées interrompt le processus de réencodage.
+*Note : Cliquer sur `Annuler` dans la boîte de dialogue des métadonnées interrompt le processus de réencodage.*
 
 ### Utilisation de FFmpeg
 

@@ -28,6 +28,6 @@ Also known as triples, **hands** are three notes pressed at the same time.
 
 ## Grace note
 
-**Grace notes** are two or more notes in different columns that are meant to be played in rapid succession from one another. This is commonly done with snappings higher than 1/6. During gameplay, they appear very similar to chords. 
+**Grace notes** are two or more notes in different columns that are meant to be played in rapid succession from one another. This is commonly done with snappings higher than 1/6. During gameplay, they appear very similar to chords.
 
 ![](img/grace.png)

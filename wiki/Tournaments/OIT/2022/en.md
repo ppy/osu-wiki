@@ -114,23 +114,23 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
   3. [lical - nyctalopia (Raijodo) \[delusionalism\]](https://osu.ppy.sh/beatmapsets/1284666#osu/2745135)
   4. [Vorso - Honx (Xarr) \[Dissidence\]](https://osu.ppy.sh/beatmapsets/1564690#osu/3195227)
   5. [Laur - A Lasting Promise (Altai) \[Morri's MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1496445#osu/3093724)
-  6. [ATARASHII GAKKO! - Ookami no Uta (Fisky) \[jasontime's Expert\]](https://osu.ppy.sh/beatmapsets/1562875#osu/3378777)  
+  6. [ATARASHII GAKKO! - Ookami no Uta (Fisky) \[jasontime's Expert\]](https://osu.ppy.sh/beatmapsets/1562875#osu/3378777)
 - Hidden
   1. [Kairiki bear - Shippaisaku Shoujo (jazzberry) \[Amelie\]](https://osu.ppy.sh/beatmapsets/1699191#osu/3471942)
   2. [I2ka x Tanchiky - Voice (Cut Ver.) (Kyrian) \[Special\]](https://osu.ppy.sh/beatmapsets/1532435#osu/3133966)
-  3. [ISOMERZ (DJ Raisei + seatrus) - Symmetric (Realazy) \[Enantiomorphs\]](https://osu.ppy.sh/beatmapsets/1381824#osu/2855075)  
+  3. [ISOMERZ (DJ Raisei + seatrus) - Symmetric (Realazy) \[Enantiomorphs\]](https://osu.ppy.sh/beatmapsets/1381824#osu/2855075)
 - HardRock
   1. [ELFENSJoN - STYX (Lyruke) \[NOSTALGIC\]](https://osu.ppy.sh/beatmapsets/1554532#osu/3175993)
   2. [ESTi - HELIX (Edit Ver.) (FreeSongs) \[Helix\]](https://osu.ppy.sh/beatmapsets/331732#osu/734769)
-  3. [lapix - Day by day (PSYQUI Remix) (JeZag) \[Edge of Tomorrow\]](https://osu.ppy.sh/beatmapsets/1318545#osu/2731544)  
+  3. [lapix - Day by day (PSYQUI Remix) (JeZag) \[Edge of Tomorrow\]](https://osu.ppy.sh/beatmapsets/1318545#osu/2731544)
 - DoubleTime
   1. [Liz Triangle - Veda (eiri-) \[Ayylibe's Expert\]](https://osu.ppy.sh/beatmapsets/979392#osu/2049696)
   2. [ZUN - Romantic Children (Kurashina Asuka) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/1550845#osu/3169113)
   3. [Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Gekijou no Prominence (-Mo-) \[Insane\]](https://osu.ppy.sh/beatmapsets/1633270#osu/3333770)
-  4. [Sakuyui - Yoru ni Kakeru (Yugu) \[You\]](https://osu.ppy.sh/beatmapsets/1238144#osu/2574281)  
+  4. [Sakuyui - Yoru ni Kakeru (Yugu) \[You\]](https://osu.ppy.sh/beatmapsets/1238144#osu/2574281)
 - FreeMod
   1. [MASAKI (ZUNTATA) - Touhou Kijinretsu (Sparhten) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/1267353#osu/2633856)
-  2. [Feryquitous feat. Aitsuki Nakuru - Tsukuyomi ni Naru (captin1) \[niva (OLD)\]](https://osu.ppy.sh/beatmapsets/1699172#osu/3529829)  
+  2. [Feryquitous feat. Aitsuki Nakuru - Tsukuyomi ni Naru (captin1) \[niva (OLD)\]](https://osu.ppy.sh/beatmapsets/1699172#osu/3529829)
 - Tiebreaker
   1. **[IT LIVES & Dr Ushuu - Never Alone (ReeK's "Hitorijanai" Remix) (Tocorn) \[Absolute Ecstacy\]](https://osu.ppy.sh/beatmapsets/1729689#osu/3534950)**
 
@@ -144,23 +144,23 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
   3. [POLKADOT STINGRAY - Keshin (Keqing) \[Deceit\]](https://osu.ppy.sh/beatmapsets/1311266#osu/2717891)
   4. [Getty vs. DJ DiA - Antifront Gears (Xavier Owens II) \[Break-action (edit)\]](https://osu.ppy.sh/beatmapsets/1712558#osu/3499390)
   5. [MisomyL - Amnehilesie (Realazy) \[descente aux enfers\]](https://osu.ppy.sh/beatmapsets/1703921#osu/3481620)
-  6. [daisan - Deepsea Moonlight (YokesPai) \[Blurred Vision\]](https://osu.ppy.sh/beatmapsets/1375889#osu/2843881)  
+  6. [daisan - Deepsea Moonlight (YokesPai) \[Blurred Vision\]](https://osu.ppy.sh/beatmapsets/1375889#osu/2843881)
 - Hidden
   1. [Ito Kashitaro - Yuudachi no Ribbon (Yudragen) \[Flash of Eternity\]](https://osu.ppy.sh/beatmapsets/1383608#osu/2858218)
   2. [Jakarta Funk Brothers - INSOMNIA (AJT) \[PandaHero's Extra\]](https://osu.ppy.sh/beatmapsets/1689665#osu/3457821)
-  3. [Marmalade butcher - Mirage Age (Gordon) \[Allice's Expert\]](https://osu.ppy.sh/beatmapsets/1624087#osu/3315941)  
+  3. [Marmalade butcher - Mirage Age (Gordon) \[Allice's Expert\]](https://osu.ppy.sh/beatmapsets/1624087#osu/3315941)
 - HardRock
   1. [rejection - Aimai Attitude (feat. Nakamura Sanso) (Garden) \[Girlish Extra ft. Regou\]](https://osu.ppy.sh/beatmapsets/1601852#osu/3271290)
   2. [AKATSUKI - Hyakka Ryouran, Akatsukiyo (karaoke ver.) (Mafumafu) \[yf's Extra\]](https://osu.ppy.sh/beatmapsets/690763#osu/1678438)
-  3. [Naoki & Tatsh - Red Zone (Arbane) \[S P E E D R A V E\]](https://osu.ppy.sh/beatmapsets/498036#osu/1060078)  
+  3. [Naoki & Tatsh - Red Zone (Arbane) \[S P E E D R A V E\]](https://osu.ppy.sh/beatmapsets/498036#osu/1060078)
 - DoubleTime
   1. [FELT - Closed Wings (Naitoshi) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/159760#osu/390146)
   2. [xi - Parousia (Niva) \[Eschatology (AR8.5)\]](https://osu.ppy.sh/beatmapsets/1713530#osu/3501365)
   3. [fripSide - black bullet (Luscent) \[extinction\]](https://osu.ppy.sh/beatmapsets/1586228#osu/3239862)
-  4. [Kanno Yugo - il vento d'oro (AirinCat) \[Insane Dream\]](https://osu.ppy.sh/beatmapsets/1250853#osu/2599601)  
+  4. [Kanno Yugo - il vento d'oro (AirinCat) \[Insane Dream\]](https://osu.ppy.sh/beatmapsets/1250853#osu/2599601)
 - FreeMod
   1. [UNDEAD CORPORATION - Blow (Cellina) \[Collab Expert (osu! Indonesia Tournament 2022 Edit)\]](https://osu.ppy.sh/beatmapsets/1721338#osu/3517779)
-  2. [Annabel - lilac slumber (cosmic ver.) (PandaHero) \[fall\]](https://osu.ppy.sh/beatmapsets/1593278#osu/3254177)  
+  2. [Annabel - lilac slumber (cosmic ver.) (PandaHero) \[fall\]](https://osu.ppy.sh/beatmapsets/1593278#osu/3254177)
 - Tiebreaker
   1. **[HISATOMI - lullaby (feat. KIRA) (uet Remix) (she luv lando) \[one more before i go...\]](https://osu.ppy.sh/beatmapsets/1513975#osu/3099626)**
 
@@ -174,23 +174,23 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
   3. [otetsu - Meiteki Cybernetics (Raijodo) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/1317461#osu/2729687)
   4. [Warak - REANIMATE (Crezz) \[Femboy Collab\]](https://osu.ppy.sh/beatmapsets/1664988#osu/3398960)
   5. [Uinyasu, Occhoko Bunny - Aa Kenran no Yume ga Gotoku (Epsilon Remix) (IOException) \[Insane \[240 bpm tourney edit\]\]](https://osu.ppy.sh/beatmapsets/1697641#osu/3468405)
-  6. [Masahiro "Godspeed" Aoki - Frostbite (Cut Ver.) (Niva) \[kuyusu's Expert\]](https://osu.ppy.sh/beatmapsets/1501511#osu/3081403)  
+  6. [Masahiro "Godspeed" Aoki - Frostbite (Cut Ver.) (Niva) \[kuyusu's Expert\]](https://osu.ppy.sh/beatmapsets/1501511#osu/3081403)
 - Hidden
   1. [KikuoHana - God of Longevity (free playtest) \[Malevolent\]](https://osu.ppy.sh/beatmapsets/973817#osu/2038580)
   2. [namirin\* - Darling Dance (Kuro Fuyusaki) \[Sea Food Extra\]](https://osu.ppy.sh/beatmapsets/1521734#osu/3474842)
-  3. [xi - Vanitas (RLC) \[Memoriam OD9\]](https://osu.ppy.sh/beatmapsets/89682#osu/243656)  
+  3. [xi - Vanitas (RLC) \[Memoriam OD9\]](https://osu.ppy.sh/beatmapsets/89682#osu/243656)
 - HardRock
   1. [BUMP OF CHICKEN - Makka na Sora o Mita Darou ka (CoLouRed GlaZeE) \[Jabberwocky\]](https://osu.ppy.sh/beatmapsets/1318074#osu/2731559)
   2. [kozato - Shijuugo-nen no Yukizakura (Muya) \[Another\]](https://osu.ppy.sh/beatmapsets/759281#osu/1596845)
-  3. [RefraQ & Vorso - Biomes (Cut Ver.) (Mir) \[Phases\]](https://osu.ppy.sh/beatmapsets/1403806#osu/2895406)  
+  3. [RefraQ & Vorso - Biomes (Cut Ver.) (Mir) \[Phases\]](https://osu.ppy.sh/beatmapsets/1403806#osu/2895406)
 - DoubleTime
   1. [LiSA - Akogare Bouenkyou (Meg) \[Scope\]](https://osu.ppy.sh/beatmapsets/524642#osu/1113528)
   2. [yuikonnu - Gigantic O.T.N (Camo) \[Hyper\]](https://osu.ppy.sh/beatmapsets/1362797#osu/3336914)
   3. [zts - dreamenddischarger (Luscent) \[resurrection\]](https://osu.ppy.sh/beatmapsets/1414566#osu/2915636)
-  4. [Gesu no Kiwami Otome. - Jinsei no Hari (Agatsu) \[schoolboy's Insane\]](https://osu.ppy.sh/beatmapsets/1247336#osu/2693503)  
+  4. [Gesu no Kiwami Otome. - Jinsei no Hari (Agatsu) \[schoolboy's Insane\]](https://osu.ppy.sh/beatmapsets/1247336#osu/2693503)
 - FreeMod
   1. [MOSAIC.WAV - Tsugihagi: \<\=\> Make Peace! (Riana) \[Acylica's Extra\]](https://osu.ppy.sh/beatmapsets/1394111#osu/3392607)
-  2. [syatten remixed celas - Bird Sprite -Awakening of Light- (emu1337) \[LMT's Extra\]](https://osu.ppy.sh/beatmapsets/1321314#osu/2741605)  
+  2. [syatten remixed celas - Bird Sprite -Awakening of Light- (emu1337) \[LMT's Extra\]](https://osu.ppy.sh/beatmapsets/1321314#osu/2741605)
 - Tiebreaker
   1. **[Dark PHOENiX - Ryokugan no Jealousy (Camo) \[Green-Eyed Monster\]](https://osu.ppy.sh/beatmapsets/1530977#osu/3131384)**
 
@@ -204,23 +204,23 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
   3. [Yonekura Chihiro - DEAR MY WAKER (Skystar) \[Overdrive\]](https://osu.ppy.sh/beatmapsets/1579180#osu/3224533)
   4. [YUC'e - Magical Mixer (Xavier Owens II) \[Enchantment\]](https://osu.ppy.sh/beatmapsets/1644883#osu/3357607)
   5. [Silentroom vs. Frums - Aegleseeker (KingBaxter) \[Disobedience vs Chaos\]](https://osu.ppy.sh/beatmapsets/1576333#osu/3218308)
-  6. [MASAYOSHI IIMORI - Hella Deep (Ryuusei Aika) \[Expert\]](https://osu.ppy.sh/beatmapsets/1563641#osu/3193040)  
+  6. [MASAYOSHI IIMORI - Hella Deep (Ryuusei Aika) \[Expert\]](https://osu.ppy.sh/beatmapsets/1563641#osu/3193040)
 - Hidden
   1. [WHITEFISTS feat. Sennzai - Paralyzed Ash (Keqing) \[Keqing x Realazy's Despair\]](https://osu.ppy.sh/beatmapsets/1374055#osu/2840550)
   2. [Down - Luscent (Down) \[Another\]](https://osu.ppy.sh/beatmapsets/1641533#osu/3350321)
-  3. [Frums - theyaremanycolors (Ancelysia) \[anculexpert\]](https://osu.ppy.sh/beatmapsets/1416051#osu/3033024)  
+  3. [Frums - theyaremanycolors (Ancelysia) \[anculexpert\]](https://osu.ppy.sh/beatmapsets/1416051#osu/3033024)
 - HardRock
   1. [Akatsuki Records - KARMANATIONS (-Rik-) \[Reincarnation\]](https://osu.ppy.sh/beatmapsets/1283387#osu/2665294)
   2. [Lion - four pieces of heaven (Reisen Udongein) \[Bunny Style\]](https://osu.ppy.sh/beatmapsets/58406#osu/175568)
-  3. [goreshit - xenobeat (-Aqua) \[Hinsvar's Expert\]](https://osu.ppy.sh/beatmapsets/1090113#osu/2313561)  
+  3. [goreshit - xenobeat (-Aqua) \[Hinsvar's Expert\]](https://osu.ppy.sh/beatmapsets/1090113#osu/2313561)
 - DoubleTime
   1. [Sharlo - anesthesia (Bellicose) \[Promise\]](https://osu.ppy.sh/beatmapsets/1557682#osu/3181978)
   2. [Risa Yuzuki - Tarantella (feat. BlackY) (Niva) \[After the Monsoon\]](https://osu.ppy.sh/beatmapsets/1622467#osu/3312731)
   3. [Tatsh feat. Ayane - Yoiyami no Tsuki ni Dakarete (happy30) \[Collab\]](https://osu.ppy.sh/beatmapsets/249555#osu/573734)
-  4. [Two Door Cinema Club - Cigarettes in the Theatre (entsetzen) \[Insane\]](https://osu.ppy.sh/beatmapsets/1598238#osu/3274886)  
+  4. [Two Door Cinema Club - Cigarettes in the Theatre (entsetzen) \[Insane\]](https://osu.ppy.sh/beatmapsets/1598238#osu/3274886)
 - FreeMod
   1. [Will Stetson - Lagtrain (Ryuusei Aika) \[\#\#\#\#\#\#\#\#\]](https://osu.ppy.sh/beatmapsets/1443224#osu/2968671)
-  2. [Suzaku - Anisakis -somatic mutation type "Forza"- (tsukamaete) \[Another\]](https://osu.ppy.sh/beatmapsets/15579#osu/56347)  
+  2. [Suzaku - Anisakis -somatic mutation type "Forza"- (tsukamaete) \[Another\]](https://osu.ppy.sh/beatmapsets/15579#osu/56347)
 - Tiebreaker
   1. **[Tokyo.MeltiMelt - the Beautiful Cure feat. nayuta (jonathanlfj) \[Magnificat\]](https://osu.ppy.sh/beatmapsets/1574009#osu/3213722)**
 
@@ -233,7 +233,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
   2. [Takenobi Mitsuyoshi - IKAZUCHI (BluOxy) \[MASTER\]](https://osu.ppy.sh/beatmapsets/489136#osu/1042623)
   3. [BlackY feat. Risa Yuzuki - Imitator (Livia) \[Extra\]](https://osu.ppy.sh/beatmapsets/1657865#osu/3383927)
   4. [Mysteka - Hesperos (Acylica) \[3dyoshispin\]](https://osu.ppy.sh/beatmapsets/1610294#osu/3287875)
-  5. [t+pazolite - Hoshikuzu Struck (KKipalt) \[Stardust (Bamboo Ver.)\]](https://osu.ppy.sh/beatmapsets/1478718#osu/3033661)  
+  5. [t+pazolite - Hoshikuzu Struck (KKipalt) \[Stardust (Bamboo Ver.)\]](https://osu.ppy.sh/beatmapsets/1478718#osu/3033661)
 - Hidden
   1. [yama - Mahi (Purplegaze) \[Frozen\]](https://osu.ppy.sh/beatmapsets/1566515#osu/3198580)
   2. [Mitsukiyo - Unwelcome School (gazimal) \[AdveNt's Insane\]](https://osu.ppy.sh/beatmapsets/1541421#osu/3158362)
@@ -246,7 +246,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
   3. [yanaginagi - Shirushibi (Kazuma) \[Journey\]](https://osu.ppy.sh/beatmapsets/1639831#osu/3346986)
 - FreeMod
   1. [Tatsh - IMAGE -MATERIAL- \<REFLEC BEAT Edition\> (ignorethis) \[DJPop's HARD\]](https://osu.ppy.sh/beatmapsets/48784#osu/153606)
-  2. [Eiko Shimamiya - Higurashi no Naku Koro ni (Okoratu) \[Elvis' Extra\]](https://osu.ppy.sh/beatmapsets/333543#osu/799166)  
+  2. [Eiko Shimamiya - Higurashi no Naku Koro ni (Okoratu) \[Elvis' Extra\]](https://osu.ppy.sh/beatmapsets/333543#osu/799166)
 - Tiebreaker
   1. **[Noah - Gentiana (Cellina) \[Re:Birth the End\]](https://osu.ppy.sh/beatmapsets/1633640#osu/3334384)**
 
@@ -259,7 +259,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
   2. [xi - Pandemonium (Doomsday) \[Extra\]](https://osu.ppy.sh/beatmapsets/519285#osu/1103215)
   3. [Camellia - Routing (Mir) \[Amateurre's Redirection\]](https://osu.ppy.sh/beatmapsets/1639727#osu/3373369)
   4. [Pendulum x Hybrid Minds - Louder Than Words (Cut Ver.) (Mir) \[Whisper\]](https://osu.ppy.sh/beatmapsets/1496831#osu/3068257)
-  5. [Lime - Luminaria (Saika0k1) \[Anemoia\]](https://osu.ppy.sh/beatmapsets/1687561#osu/3448872)  
+  5. [Lime - Luminaria (Saika0k1) \[Anemoia\]](https://osu.ppy.sh/beatmapsets/1687561#osu/3448872)
 - Hidden
   1. [Yorushika - Matasaburo (Rosiie) \[Summer Wind\]](https://osu.ppy.sh/beatmapsets/1485959#osu/3047001)
   2. [S.S.H. - Hard Wire (fartownik) \[Insane\]](https://osu.ppy.sh/beatmapsets/963692#osu/2017628)
@@ -272,7 +272,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
   3. [yanaginagi - Vidro Moyou (rosario wknd) \[Visit from a Fallen Star\]](https://osu.ppy.sh/beatmapsets/1202515#osu/2504335)
 - FreeMod
   1. [Yooh - LegenD. (HelloSCV) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/497891#osu/1059853)
-  2. [Yorushika - Hitchcock (akinothm) \[OIT 2022 Edit\]](https://osu.ppy.sh/beatmapsets/1698752#osu/3471128)  
+  2. [Yorushika - Hitchcock (akinothm) \[OIT 2022 Edit\]](https://osu.ppy.sh/beatmapsets/1698752#osu/3471128)
 - Tiebreaker
   1. **[Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Gengaku Opera House (gazimal) \[Give it all.\]](https://osu.ppy.sh/beatmapsets/1347917#osu/2791350)**
 
@@ -467,9 +467,9 @@ Sunday, 27 February 2022:
 5. If a player does not show up within **10 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
 7. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the beatmap regardless of their remaining health at the end.
-8. If a player disconnects, it will be treated as if they had failed the beatmap. 
+8. If a player disconnects, it will be treated as if they had failed the beatmap.
    - A match can be rematched for disconnects that occur within a few seconds after the beatmap has been started by the referee.
-9. If a player disconnects between beatmaps, the match can be delayed up to 15 minutes at most. 
+9. If a player disconnects between beatmaps, the match can be delayed up to 15 minutes at most.
    - In case the disconnected player fails to report back after the maximum allowance of 15 minutes had passed, the opposing player may be declared to win the match by default.
 10. Lag is not a valid reason to nullify a beatmap.
 11. If any problems during the match occur, the Tournament Management will make a decision based on the referee's report.

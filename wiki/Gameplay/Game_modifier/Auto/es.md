@@ -17,7 +17,7 @@ tags:
 
 ![Icono del mod AT](/wiki/shared/mods/AT.png "Icono del mod Auto (AT)")
 
-*Para una lista completa de mods, véase: [Modificador de juego](/wiki/Gameplay/Game_modifier)*\
+*Para una lista completa de mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*\
 *No debe confundirse con [Autopilot (mod)](/wiki/Gameplay/Game_modifier/Autopilot).*
 
 ## Acerca de
@@ -33,7 +33,7 @@ tags:
 
 *Aviso: Activar el mod Auto hará que la partida no se clasifique y no se guardará en las tablas de clasificación locales.*
 
-El mod **Auto** es un [modificador de juego](/wiki/Gameplay/Game_modifier) que permite a los jugadores ver una repetición perfecta del beatmap seleccionado.
+El mod **Auto** es un [modificador del juego](/wiki/Gameplay/Game_modifier) que permite a los jugadores ver una repetición perfecta del beatmap seleccionado.
 
 El mod funciona exactamente como una [repetición](/wiki/Gameplay/Replay), con las opciones para usar la velocidad de reproducción de 0.5x/1.0x/2.0x y los comentarios en el beatmap para verse y hacerse como de costumbre. El mod Auto siempre obtendrá un grado SS, con la excepción de algunos casos especiales.
 

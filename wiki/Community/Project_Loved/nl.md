@@ -33,7 +33,7 @@ Er zijn een paar criteria waaraan moet worden voldaan om beatmaps te kunnen nomi
 - Minstens één moeilijkheidgraad uitgespeeld (passed) kan worden
 - De beatmap minstens 30 favorieten heeft (enkel van toepassing op osu! maps)
 
-Ondanks dat bijna alle beatmaps [In Afwachting (Pending) en In Uitvoering (WIP)](/wiki/Beatmap/Category#work-in-progress-and-pending) aan deze criteria voldoen, worden er toch weinig van hen tot in de Loved-categorie gestemd omdat de nominatie- en stemmingsverseisten vrij selectief zijn.
+Ondanks dat bijna alle beatmaps [In Afwachting (Pending) en In Uitvoering (WIP)](/wiki/Beatmap/Category#wip-and-pending) aan deze criteria voldoen, worden er toch weinig van hen tot in de Loved-categorie gestemd omdat de nominatie- en stemmingsverseisten vrij selectief zijn.
 
 ### Nominatieprioriteit
 

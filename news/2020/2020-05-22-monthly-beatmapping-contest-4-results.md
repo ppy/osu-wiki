@@ -28,11 +28,11 @@ Close behind with **50** votes, [fanzhen0019](https://osu.ppy.sh/users/418699) n
 
 Players and mappers alike can appreciate this map for its barrage of unconventional yet engaging patterns. Pairing a stunning visual design with fancy cursor movement, it's safe to say that anyone reading should give this beatmap a play!
 
-As the contest's runner-up, fanzhen0019 has earned one month of supporter and is halfway to the first reward tier's profile badge prize. 
+As the contest's runner-up, fanzhen0019 has earned one month of supporter and is halfway to the first reward tier's profile badge prize.
 
 ### Screening crew favorite
 
-It may have been behind in the community vote, but [Acyl](https://osu.ppy.sh/users/1943309)'s execution of [LeaF - Chronostasis](https://osu.ppy.sh/beatmapsets/1174743#osu/2450265) performed well in its own way! 
+It may have been behind in the community vote, but [Acyl](https://osu.ppy.sh/users/1943309)'s execution of [LeaF - Chronostasis](https://osu.ppy.sh/beatmapsets/1174743#osu/2450265) performed well in its own way!
 
 The finalists of each MBC are decided by a team of experienced beatmappers, and 12 of 16 mappers this month put Acyl's map in their top 5, making it this month's **screening crew favorite!**
 

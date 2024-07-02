@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring 2018 Fanart Contest Results"
+title: Spring 2018 Fanart Contest Results
 date: 2018-05-02 16:00:00 +0000
 ---
 

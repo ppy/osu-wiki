@@ -1,12 +1,14 @@
 ---
 tags:
+  - group changes
+  - group history
   - promotion
   - retirement
 ---
 
 # Staff log
 
-Promotions and retirements of public staff have been recorded to make them easily traceable for the community.
+The following articles list promotions and retirements for most public [groups](/wiki/People/User_group) as well as some staff roles.
 
 - [2007](2007)
 - [2008](2008)
@@ -45,3 +47,5 @@ TODO: incomplete history
 - Kurai (not certain when their GMT membership was, were they QAT and GMT at the same time?)
 - ... probably many more. searching for "Moved.+?\) to" helps find people with broken history, since their origin group on Moved isn't logged
 -->
+
+Since 27 October, 2023, changes to users' groups are recorded on the ["group history" page of the website](https://osu.ppy.sh/groups/history). These wiki articles are no longer updated.

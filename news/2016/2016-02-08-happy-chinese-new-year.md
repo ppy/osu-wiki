@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Happy Chinese New Year!"
+title: Happy Chinese New Year!
 date: 2016-02-08 02:01:24 +0000
 tumblr_url: http://osunews.tumblr.com/post/138895980163/happy-chinese-new-year
 ---

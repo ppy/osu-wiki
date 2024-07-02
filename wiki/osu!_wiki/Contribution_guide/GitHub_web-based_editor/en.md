@@ -25,10 +25,8 @@ While all menus are accessible from the editor's interface, the intended way of 
 After you have read [Best practices § Making changes](/wiki/osu!_wiki/Contribution_guide/Best_practices#making-edits), create a new branch to store your changes in.
 
 1. Click the current branch's name in the bottom left corner, or press `F1` and type `branch`.
-
-  - Select `Create new branch...`, enter the name of the branch, and press `Enter`.
-  - To help yourself remember what your work is roughly about, choose a descriptive name. As an example, for a German translation of [Beatmap Discussion](/wiki/Beatmap_discussion), you could use `de-modding-v2`.
-
+   - Select `Create new branch...`, enter the name of the branch, and press `Enter`.
+   - To help yourself remember what your work is roughly about, choose a descriptive name. As an example, for a German translation of [Beatmap Discussion](/wiki/Beatmap_discussion), you could use `de-modding-v2`.
 2. To return to your changes, select the appropriate branch's name in the previously mentioned dropdown.
 
 ## Editing

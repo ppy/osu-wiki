@@ -20,7 +20,7 @@ outdated_translation: true
 Setelah Anda memiliki sebuah klien IRC, Anda perlu mengatur pengaturan server (Anda mungkin perlu untuk menambah server dahulu).
 
 - Server: `irc.ppy.sh`
-- Port: `6667` 
+- Port: `6667`
 - SSL: dinonaktifkan
 - Username: Nama pengguna osu! Anda. (ganti spasi dengan garis bawah, contoh `beppy master 1000` menjadi `beppy_master_1000`)
 - Password: Dapatkan di [Otentikasi IRC](https://osu.ppy.sh/p/irc).
@@ -45,7 +45,7 @@ Pada dasarnya, beberapa klien IRC memberitahumu ketika seorang pengguna bergabun
 
 | IRC client | Deskripsi |
 | :-- | :-- |
-| [HexChat](https://hexchat.github.io/) | Cek "Hide join and part messages" dibawah `Settings` -> `Preferences` -> `Chatting` -> `General` (Advanced pre-2.9.6)  |
+| [HexChat](https://hexchat.github.io/) | Cek "Hide join and part messages" dibawah `Settings` -> `Preferences` -> `Chatting` -> `General` (Advanced pre-2.9.6) |
 | [ircII](http://www.eterna.com.au/ircii/) | Ketik `IGNORE * CRAP` |
 | [Irssi](https://irssi.org) | Ketik `/ignore * JOINS PARTS QUITS` |
 | [Weechat](https://weechat.org/) | Ketik `/filter add joinquit * irc_join,irc_part,irc_quit *` |

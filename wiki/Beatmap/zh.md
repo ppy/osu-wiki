@@ -50,14 +50,14 @@ https://osu.ppy.sh/beatmapsets/{SID}#{游戏模式}/{BID}
 
 所有提交后的谱面都会归于以下列出的一种分类，而且谱面分类有可能会变更：
 
-- [坟场 (Graveyard)](Category#坟场-(graveyard))
-- [制作中和待定 (Work in Progress and Pending)](Category#制作中和待定-(work-in-progress-and-pending))
-- [过审 (Qualified)](Category#过审-(qualified))
-- [上架 (Ranked)](Category#上架-(ranked))
-- [达标 (Approved)](Category#达标-(approved))
-- [社区喜爱 (Loved)](Category#社区喜爱-(loved))
+- [坟场 (Graveyard)](Category#graveyard)
+- [制作中和待定 (Work in Progress and Pending)](Category#wip-and-pending)
+- [过审 (Qualified)](Category#qualified)
+- [上架 (Ranked)](Category#ranked)
+- [达标 (Approved)](Category#approved)
+- [社区喜爱 (Loved)](Category#loved)
 
-部分分类拥有[上架标准](/wiki/Ranking_criteria)，并会让谱面拥有临时或永久[排行榜](#排行榜)。谱面获得排行榜的主流方法是通过[谱面审核流程](/wiki/Beatmap_ranking_procedure)，另一种方法是让谱面进入[社区喜爱 (Loved)](Category#社区喜爱-(loved)) 状态。
+部分分类拥有[上架标准](/wiki/Ranking_criteria)，并会让谱面拥有临时或永久[排行榜](#排行榜)。谱面获得排行榜的主流方法是通过[谱面审核流程](/wiki/Beatmap_ranking_procedure)，另一种方法是让谱面进入[社区喜爱 (Loved)](Category#loved) 状态。
 
 ## 下载谱面
 
@@ -95,7 +95,7 @@ osu!direct 是游戏客户端内的谱面列表，可用于快速浏览并且提
 - 拥有相同国/区旗玩家的国家/地区排行榜；
 - 显示玩家与好友间排名的好友排行榜。
 
-对于每个难度，官方只提供全球排行榜前 500 名玩家成绩的[回放](/wiki/Gameplay/Replay)下载，玩家可以在线观看或者保存并显示在本地排行榜上。
+对于每个难度，官方只提供全球排行榜前 1000 名玩家成绩的[回放](/wiki/Gameplay/Replay)下载，玩家可以在线观看或者保存并显示在本地排行榜上。
 
 ### 季赛、月赛与聚光灯
 

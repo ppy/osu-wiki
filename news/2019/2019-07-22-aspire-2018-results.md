@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aspire 2018 Results"
+title: Aspire 2018 Results
 date: 2019-07-22 12:00:00 +0000
 ---
 
@@ -34,11 +34,11 @@ These entries are as follows:
 
 Scoring **744** votes overall, [DTM9 Nowa](https://osu.ppy.sh/users/5428909)'s entry was a favorite among the judging panel, even scoring a 39/40 from one very impressed Mao in particular.
 
-Creative use of existing techniques showcased in previous Aspire entries coupled with some brand new things we've never seen before made for an exceedingly strong entry. 
+Creative use of existing techniques showcased in previous Aspire entries coupled with some brand new things we've never seen before made for an exceedingly strong entry.
 
 This one was a frontrunner from the very start, and it is hardly surprising to see it secure a healthy niche in second place. Congratulations!
 
-### Heroic Opossum by seselis1 
+### Heroic Opossum by seselis1
 
 *[Check this set out here!](https://osu.ppy.sh/beatmapsets/997827#osu/2087153)*
 
@@ -64,7 +64,7 @@ With that being said, the rather late conclusion to Aspire 2018 also marks the e
 
 It has been an interesting ride overall, and I am very thankful for all those who chose to participate in osu!'s first ground-breaking mapping contest. The delays this time round have been beyond regrettable, and I am thankful for everyone's patience in the matter.
 
-This does not mean that Aspire is over forever, however! 
+This does not mean that Aspire is over forever, however!
 
 Someone new and brave with a myriad of fresh ideas has stepped up to the plate and plans to host a new iteration of the contest in 2020, with a brand new ruleset, categories and music selection process to boot. It is 100% the development and iteration that the Aspire moniker deserves, and while they wish to remain unnamed at the moment, I am delighted to entrust the future of the contest to them.
 

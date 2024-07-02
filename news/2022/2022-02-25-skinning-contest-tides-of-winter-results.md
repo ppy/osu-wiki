@@ -8,7 +8,7 @@ As the winter season gradually wraps up, the results of the chilliest skinning c
 
 ![](/wiki/shared/news/2022-02-25-skinning-contest-tides-of-winter-results/banner.jpg)
 
-No matter how well the titular tides of winter were represented throughout all **17** skins, your votes ultimately decided the most wintry of the bunch. 
+No matter how well the titular tides of winter were represented throughout all **17** skins, your votes ultimately decided the most wintry of the bunch.
 
 Bitter choices were made with so few votes to go around, yet you managed to throw your *snowballots* right back at us in numbers we never expected, with a total of **17674** frosty votes made away by **6946** unique users barreling into our front yard like an avalanche!
 
@@ -62,7 +62,7 @@ Moreover, - 『Wintherest』 - not only keeps its minimalist and modern look con
 
 Be sure to have a look at the complete list on the [contest results page](https://osu.ppy.sh/community/contests/137) to see how many votes your favourites gathered!
 
-It has been a great pleasure for us to host the sequel to the osu! Skinning Contest during this winter, with additional ice cubes! We would like to thank the contestants for putting up with the challenge, and those following the contest 'til the very end for their endearing interest. 
+It has been a great pleasure for us to host the sequel to the osu! Skinning Contest during this winter, with additional ice cubes! We would like to thank the contestants for putting up with the challenge, and those following the contest 'til the very end for their endearing interest.
 
 If you have any positive or negative feedback for next iterations, feel free to share them with us through the comment section below or by joining the [skinship Discord server](https://discord.skinship.xyz)!
 

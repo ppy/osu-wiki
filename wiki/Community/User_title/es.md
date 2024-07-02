@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 tags:
   - forum title
   - forum titles
@@ -31,7 +30,7 @@ El color del título de un usuario es el mismo que el color del usuario, que tam
 
 ![Captura de pantalla de la barra lateral de la publicación de Damnae en el viejo sitio web](img/star-shooter.png "El título «Star Shooter» se encuentra por encima del número de publicaciones de Damnae.")
 
-En las secciones del foro del [viejo sitio web de osu!](https://old.ppy.sh), los usuarios pueden obtener títulos al alcanzar ciertos hitos de número de publicaciones de la siguiente manera:
+En las secciones del foro del [viejo sitio web de osu!](https://old.ppy.sh), los usuarios podían obtener títulos al alcanzar ciertos hitos de número de publicaciones de la siguiente manera:
 
 | Título del foro | Recuento total de publicaciones |
 | :-: | :-- |

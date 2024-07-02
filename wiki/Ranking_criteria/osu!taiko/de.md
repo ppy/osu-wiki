@@ -1,3 +1,8 @@
+---
+outdated_since: 3a1958422c9763281ddcc1f317b172efebbd2d0e
+outdated_translation: true
+---
+
 # Ranking-Kriterien für osu!taiko
 
 ***Hinweis: Dieses Dokument ist eine Ergänzung der [allgemeinen Ranking-Kriterien](/wiki/Ranking_criteria).***
@@ -14,7 +19,7 @@ Die **Ranking-Kriterien für osu!taiko** legen die [Regeln und Richtlinien](/wik
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
 - ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png?20211215) Oni
-- ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni / Ura Oni
 
 ### Gameplay
 

@@ -41,7 +41,7 @@ Le jeu de la tablette a tendance à lutter avec :
 
 Bien que cela soit rare, un certain nombre d'utilisateurs jouent sur un écran tactile. Essayez de ne pas appuyer trop fort sur l'écran tactile ou trouvez-en un qui soit assez sensible à vos tapotements de doigts, et mieux encore, un qui ait une faible latence. Cela devrait contribuer à augmenter la longévité de l'écran que vous utilisez. L'écran tactile a tendance à exceller dans les domaines suivants :
 
-- Une meilleure endurance sur les streams sur de longues périodes 
+- Une meilleure endurance sur les streams sur de longues périodes
 - Des jumps sur de longues distances, surtout d'un bord à l'autre.
 
 L'écran tactile a tendance à avoir du mal :

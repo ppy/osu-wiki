@@ -2,7 +2,7 @@
 
 | Nombre de la medalla | Requisito |
 | :-- | :-- |
-| Video Game Pack vol.1 | Pasa todos los mapas incluidos en el paquete de mapas [Video Game Pack, Volume 1](https://osu.ppy.sh/beatmaps/packs/40).  |
+| Video Game Pack vol.1 | Pasa todos los mapas incluidos en el paquete de mapas [Video Game Pack, Volume 1](https://osu.ppy.sh/beatmaps/packs/40). |
 | Video Game Pack vol.2 | Pasa todos los mapas incluidos en el paquete de mapas [Video Game Pack, Volume 2](https://osu.ppy.sh/beatmaps/packs/48). |
 | Video Game Pack vol.3 | Pasa todos los mapas incluidos en el paquete de mapas [Video Game Pack, Volume 3](https://osu.ppy.sh/beatmaps/packs/70). |
 | Video Game Pack vol.4 | Pasa todos los mapas incluidos en el paquete de mapas [Video Game Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/364). |
@@ -61,7 +61,7 @@
 | Omoi Pack | Pasa todos los mapas incluidos en el paquete de mapas [Omoi Pack](https://osu.ppy.sh/beatmaps/packs/A82). |
 | Chill Pack | Pasa todos los mapas incluidos en el paquete de mapas [Chill Pack](https://osu.ppy.sh/beatmaps/packs/T108). |
 | Rohi Pack | Pasa todos los mapas incluidos en el paquete de mapas [Rohi Pack](https://osu.ppy.sh/beatmaps/packs/F2). |
-| Drum & Bass Pack | Pasa todos los mapas incluidos en el paquete de mapas [Drum & Bass Pack](https://osu.ppy.sh/beatmaps/packs/T109). |
+| Drum & Bass Pack | Pasa todos los mapas incluidos en el paquete de mapas [Drum & Bass Pack](https://osu.ppy.sh/beatmaps/packs/T113). |
 | Mappers' Guild Pack I | Pasa todos los mapas incluidos en el paquete de mapas [Mappers' Guild Pack I](https://osu.ppy.sh/beatmaps/packs/1365). |
 | Mappers' Guild Pack II | Pasa todos los mapas incluidos en el paquete de mapas [Mappers' Guild Pack II](https://osu.ppy.sh/beatmaps/packs/1450). |
 | Mappers' Guild Pack III | Pasa todos los mapas incluidos en el paquete de mapas [Mappers' Guild Pack III](https://osu.ppy.sh/beatmaps/packs/1689). |

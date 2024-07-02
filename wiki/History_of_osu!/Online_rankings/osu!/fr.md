@@ -3,13 +3,13 @@ tags:
   - history
   - leaderboard
   - rank 1
-  - rank #1
+  - "rank #1"
   - rankings
   - top player
   - histoire
   - classement
   - rang 1
-  - rang #1
+  - "rang #1"
   - classements
   - meilleur joueur
 ---

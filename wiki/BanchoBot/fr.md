@@ -126,7 +126,7 @@ Il y a un total de 7 statuts qui peuvent être affichés par la commande `!stats
 !faq list
 ```
 
-`!faq` affiche le contenu d'une entrée. Alternativement, l'argument `list` peut être utilisé pour montrer toutes les entrées disponibles. Par défaut, BanchoBot répondra en anglais, mais il est possible de recevoir une réponse dans une autre langue en faisant précéder l'entrée du préfixe de la langue en question, via son [code à deux lettres](/wiki/Article_styling_criteria/Formatting#locales). Des exemples d'envoi de cette commande sont présentés ci-dessous :
+`!faq` affiche le contenu d'une entrée. Alternativement, l'argument `list` peut être utilisé pour montrer toutes les entrées disponibles. Par défaut, BanchoBot répondra en anglais, mais il est possible de recevoir une réponse dans une autre langue en faisant précéder l'entrée du préfixe de la langue en question, via son [code à deux lettres](/wiki/Article_styling_criteria/Formatting#localisations). Des exemples d'envoi de cette commande sont présentés ci-dessous :
 
 ```
 13:03 pippi: !faq peppy

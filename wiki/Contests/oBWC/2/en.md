@@ -132,7 +132,7 @@ Songs:
 
 | Team 1 |  |  | Team 2 | Entries |
 | --: | :-: | :-: | :-- | :-- |
-| **Argentina** ::{ flag=AR }:: | **6** | 1 | ::{ flag=BR }:: Brazil  | [#1](https://osu.ppy.sh/beatmapsets/1257585#osu/2613178), [#2](https://osu.ppy.sh/beatmapsets/1257559#osu/2613137) |
+| **Argentina** ::{ flag=AR }:: | **6** | 1 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/beatmapsets/1257585#osu/2613178), [#2](https://osu.ppy.sh/beatmapsets/1257559#osu/2613137) |
 | **United Kingdom** ::{ flag=GB }:: | **5** | 2 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/beatmapsets/1257572#osu/2613160), [#2](https://osu.ppy.sh/beatmapsets/1283236#osu/2665037) |
 
 ### Quarterfinals
@@ -147,7 +147,7 @@ Songs:
 
 | Team 1 |  |  | Team 2 | Entries |
 | --: | :-: | :-: | :-- | :-- |
-| France ::{ flag=FR }:: | 1 | **6** | ::{ flag=AR }:: **Argentina**  | [#1](https://osu.ppy.sh/beatmapsets/1239841#osu/2577703), [#2](https://osu.ppy.sh/beatmapsets/1238432#osu/2574916) |
+| France ::{ flag=FR }:: | 1 | **6** | ::{ flag=AR }:: **Argentina** | [#1](https://osu.ppy.sh/beatmapsets/1239841#osu/2577703), [#2](https://osu.ppy.sh/beatmapsets/1238432#osu/2574916) |
 | Vietnam ::{ flag=VN }:: | 3 | **4** | ::{ flag=BR }:: **Brazil** | [#1](https://osu.ppy.sh/beatmapsets/1238414#osu/2574882), [#2](https://osu.ppy.sh/beatmapsets/1238421#osu/2574898) |
 | **United Kingdom** ::{ flag=GB }:: | **7** | 0 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/beatmapsets/1238417#osu/2574885), [#2](https://osu.ppy.sh/beatmapsets/1238448#osu/2574943) |
 | South Korea ::{ flag=KR }:: | 3 | **4** | ::{ flag=RU }:: **Russian Federation** | [#1](https://osu.ppy.sh/beatmapsets/1238608#osu/2575217), [#2](https://osu.ppy.sh/beatmapsets/1238422#osu/2574902) |
@@ -186,7 +186,7 @@ Song: **[MDK](https://osu.ppy.sh/beatmaps/artists/61) - Press Start**
 | 1 | ::{ flag=FR }:: **France** | 7.0913 |
 | 2 | ::{ flag=GB }:: **United Kingdom** | 5.8987 |
 | 3 | ::{ flag=KR }:: **South Korea** | 5.8584 |
-| 4 | ::{ flag=VN }:: **Vietnam**  | 4.8331 |
+| 4 | ::{ flag=VN }:: **Vietnam** | 4.8331 |
 | 5 | ::{ flag=SE }:: **Sweden** | 4.2344 |
 | 6 | ::{ flag=PL }:: **Poland** | 3.9045 |
 | 7 | ::{ flag=AU }:: **Australia** | 3.3529 |

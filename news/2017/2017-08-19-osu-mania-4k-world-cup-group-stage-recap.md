@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!mania 4K World Cup - Group Stage Recap"
+title: osu!mania 4K World Cup - Group Stage Recap
 date: 2017-08-19 08:00:00 +0000
 ---
 
@@ -28,7 +28,7 @@ Not missing a beat, Sunday also saw its fair share of highlights. Perhaps the mo
 
 Sweden certainly proved that they are a force to be reckoned with. However, their mini-success story would soon be cut short. In the end, South Korea simply proved too consistent, and after several strategic picks on their behalf, they won the match 2-4. Regardless, both teams will be qualifying for the Round of 16, so be sure to keep a watchful eye - perhaps they will meet each other again in a fateful encounter?
 
-Wrapping things up, below are the results of what went down in the Group Stage. For more detail, feel free to check out the [statistics sheet](https://docs.google.com/spreadsheets/d/1qAbKpW3yCJ5U2qUoUoIob6qsmNW08LenxeL0FptdjxA/pubhtml)!   
+Wrapping things up, below are the results of what went down in the Group Stage. For more detail, feel free to check out the [statistics sheet](https://docs.google.com/spreadsheets/d/1qAbKpW3yCJ5U2qUoUoIob6qsmNW08LenxeL0FptdjxA/pubhtml)!
 
 ![](/wiki/shared/news/2017-08-19-osu-mania-4k-world-cup-group-stage-recap/MWC_4K_2017_Groupstage_results.PNG)
 

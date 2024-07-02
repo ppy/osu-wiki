@@ -5,13 +5,15 @@ tags:
   - HD
   - mod
   - game modifier
+  - modificador de juego
+  - modificador del juego
 ---
 
 # Hidden (mod)
 
 ![Icono del mod HD](/wiki/shared/mods/HD.png "Icono del mod Hidden (HD)")
 
-*Para una lista completa de mods, véase: [Modificador de juego](/wiki/Gameplay/Game_modifier)*\
+*Para una lista completa de mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*\
 *No debe confundirse con [Fade In (mod)](/wiki/Gameplay/Game_modifier/Fade_In) o [Flashlight (mod)](/wiki/Gameplay/Game_modifier/Flashlight).*
 
 ## Acerca de
@@ -33,7 +35,7 @@ tags:
 
 ## Descripción
 
-El mod **Hidden** es un [modificador de juego](/wiki/Gameplay/Game_modifier) que aumenta la dificultad de los beatmaps al eliminar los círculos de aproximación y hacer que los [objetos](/wiki/Gameplay/Hit_object) desaparezcan después que aparece en la pantalla.
+El mod **Hidden** es un [modificador del juego](/wiki/Gameplay/Game_modifier) que aumenta la dificultad de los beatmaps al eliminar los círculos de aproximación y hacer que los [objetos](/wiki/Gameplay/Hit_object) desaparezcan después que aparece en la pantalla.
 
 ### osu!
 

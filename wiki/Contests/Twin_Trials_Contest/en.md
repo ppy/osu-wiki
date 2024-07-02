@@ -78,7 +78,7 @@ The storyboarding phase schedule will be revealed in the near future.
 | :moyai: | ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134), ::{ flag=PH }:: [-Rustyy](https://osu.ppy.sh/users/16355636) | [#1](https://osu.ppy.sh/beatmapsets/1972145) |
 | Alien Tails | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565), ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) | [#1](https://osu.ppy.sh/beatmapsets/1972368) |
 | Catch the AFK | ::{ flag=CN }:: [sxy62146214](https://osu.ppy.sh/users/8386591), ::{ flag=MY }:: [Summerleopard](https://osu.ppy.sh/users/8437630) | [#1](https://osu.ppy.sh/beatmapsets/1972031) |
-| Team name  | ::{ flag=CA }:: [Unlucky_w](https://osu.ppy.sh/users/4820793), ::{ flag=CA }:: [Ymiir](https://osu.ppy.sh/users/3922569) | [#1](https://osu.ppy.sh/beatmapsets/1972394) |
+| Team name | ::{ flag=CA }:: [Unlucky_w](https://osu.ppy.sh/users/4820793), ::{ flag=CA }:: [Ymiir](https://osu.ppy.sh/users/3922569) | [#1](https://osu.ppy.sh/beatmapsets/1972394) |
 
 ### osu!mania
 

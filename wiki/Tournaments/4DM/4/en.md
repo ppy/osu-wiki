@@ -7,7 +7,7 @@ tags:
 
 # 4 Digit osu!mania World Cup 4
 
-![4DM4 logo](img/banner.jpg)
+![4DM4 logo](img/banner.png)
 
 The **4 Digit osu!mania World Cup 4** (***4DM4***) was a worldwide country-based double-elimination 3v3 osu!mania 4-key tournament hosted by ::{ flag=NL }:: [DannyPX](https://osu.ppy.sh/users/11253722), ::{ flag=US }:: [Orca-](https://osu.ppy.sh/users/7958845), and ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061). This was the fourth instalment of the 4 Digit osu!mania World Cup.
 
@@ -36,7 +36,7 @@ The **4 Digit osu!mania World Cup 4** (***4DM4***) was a worldwide country-based
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $10 for each team member |
 | *4th-8th place* | 1 month of osu!supporter for each team member |
 
-![](img/badge.jpg "4DM4 winner badge")
+![](img/badge.png "4DM4 winner badge")
 
 ## Staff
 

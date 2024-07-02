@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu! world cup now accepting map suggestions!"
+title: osu! world cup now accepting map suggestions!
 date: 2013-09-22 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/61926223938/osu-world-cup-now-accepting-map-suggestions
 ---

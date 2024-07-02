@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "August 2015 Ranking Charts"
+title: August 2015 Ranking Charts
 date: 2015-09-16 16:42:31 +0000
 tumblr_url: http://osunews.tumblr.com/post/129221795953/august-2015-ranking-charts
 ---
@@ -52,11 +52,11 @@ A decent full set which is really impressive to me. The mapper makes good use of
 
 Although the mapper is quite new to the community, this debut approved map is surprisingly well-made that may help establish their reputation. Notes are nicely arranged according to vocal pitch and main rhythm, resulting in good coherence with the song. The transition between stanzas is also quite clear and intuitive. If you get some free time on weekends, this 7-minute marathon will definitely be a good choice to spend on.
 
-- [LeaF - Chronostasis](https://osu.ppy.sh/beatmapsets/193469) by [DakeDekaane](https://osu.ppy.sh/users/1425253)  
+- [LeaF - Chronostasis](https://osu.ppy.sh/beatmapsets/193469) by [DakeDekaane](https://osu.ppy.sh/users/1425253)
 
 Another appealing instrumental map for the month. Difficulties are made on a hard scale with some difficulty spikes in certain parts, but the overall spread is still reasonable. Inner Oni is considerably hard in terms of note density and pattern complexity. Oni is also quite challenging because of the uncommon 3/4 snapping and the dense arrangement of notes. Are you ready for the stagnation of time (due to retries)?
 
-- [AU - Rochill Tarmination(9 Voice Edit)](https://osu.ppy.sh/beatmapsets/301204) by [OnosakiHito](https://osu.ppy.sh/users/290128)  
+- [AU - Rochill Tarmination(9 Voice Edit)](https://osu.ppy.sh/beatmapsets/301204) by [OnosakiHito](https://osu.ppy.sh/users/290128)
 
 Getting stuck by BPM constraint? This map may probably help you. The mapper maintains a high level of pattern consistency throughout the set with a good spread. Despite the relatively high BPM, the patterns used are quite simple and straightforward. Therefore, this can be a possible practice map for players to get familiar with faster songs. If you want to train the reverse patterns, you may try the abekobe version of Inner Oni as well.
 

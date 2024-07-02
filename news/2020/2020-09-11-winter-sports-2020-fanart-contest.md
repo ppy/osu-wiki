@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Winter Sports 2020 Fanart Contest"
+title: Winter Sports 2020 Fanart Contest
 date: 2020-11-09 09:00:00 +0000
 ---
 

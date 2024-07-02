@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023 Summer Splash!"
+title: 2023 Summer Splash!
 date: 2023-07-27 12:00:00 +0000
 ---
 
@@ -94,7 +94,7 @@ Much like combing for shells on the beach, you never quite know what you'll find
 
 AND THAT'S NOT ALL!
 
-To really crank up the heat, we've dredged the darkest depths of the distant seas to summon forth **eight** new Hush-Hush medals for the ravenous achievement hunters among us to prepare themselves for. 
+To really crank up the heat, we've dredged the darkest depths of the distant seas to summon forth **eight** new Hush-Hush medals for the ravenous achievement hunters among us to prepare themselves for.
 
 Dive into some of the most confounding creations since [some girl in a forest](https://osu.ppy.sh/home/news/2022-09-09-how-zetera-became-a-medal-hunter) thwarted people back in Halloween 2017. View them all below, courtesy of the meticulous medal mavericks over at [Osekai](https://osekai.net/home/) (who are solving these riddles as we speak, at an alarmingly quick rate actually):
 

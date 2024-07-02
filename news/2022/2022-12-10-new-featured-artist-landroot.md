@@ -13,7 +13,7 @@ A relatively new addition to the musicscape, Korean creator **LandRoot** is an a
 **LandRoot**'s journey on osu! is only just beginning. Pick out your favourite from any of the **10** songs on [**LandRoot**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/327)!
 
 osu! first laid ears on **LandRoot** through *Need To De-stress*, a tune that's entered the Ranked section via both [osu!](https://osu.ppy.sh/beatmapsets/1834399) and [osu!taiko](https://osu.ppy.sh/beatmapsets/1474263) beatmaps. See for yourself how those panned out and explore the rest of what's up for grabs:
- 
+
 <div align="center">
     <video width="100%" controls>
         <source src="https://assets.ppy.sh/artists/327/release_showcase.mp4" type="video/mp4" preload="none">

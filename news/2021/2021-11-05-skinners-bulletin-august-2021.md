@@ -4,7 +4,7 @@ title: "Skinners' Bulletin: August 2021"
 date: 2021-11-05 10:00:00 +0000
 ---
 
-Better late than never! The second issue of the Skinners' Bulletin has finally arrived in your mailbox. 
+Better late than never! The second issue of the Skinners' Bulletin has finally arrived in your mailbox.
 
 ![](/wiki/shared/news/banners/skinners-bulletin.png)
 
@@ -23,7 +23,7 @@ In August, the skinning forum has seen **39** skins being published, **20** of t
 
 ![Original/Mixed Graph](/wiki/shared/news/2021-11-04-skinners-bulletin-august-2021/graph-skins.png)
 
-On the other hand, we've noticed contributions from **33** skinners in total. The newcomers take the majority with **22**, forging 2/3 of the whole pie. 
+On the other hand, we've noticed contributions from **33** skinners in total. The newcomers take the majority with **22**, forging 2/3 of the whole pie.
 
 ![New/Returning Graph](/wiki/shared/news/2021-11-04-skinners-bulletin-august-2021/graph-skinners.png)
 

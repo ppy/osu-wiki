@@ -28,7 +28,7 @@ tags:
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | 프로젝트 및 커뮤니티 유지 관리자, [공식 아티스트](/wiki/People/Featured_Artists) 지원 |
 | ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765) | 디자인 책임자, Creative Cloud 상시 감시자 |
 | ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | osu! 개발자 |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [노미네이션 어세스먼트 팀](/wiki/People/Nomination_Assessment_Team) 리더, [Project Loved](/wiki/Community/Project_Loved) 매니저, [비트맵 스포트라이트](/wiki/Beatmap_Spotlights) 매니저 |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [노미네이션 어세스먼트 팀](/wiki/People/Nomination_Assessment_Team) 리더, [Project Loved](/wiki/Community/Project_Loved) 매니저, Venix의 비서 |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | [월드컵](/wiki/Tournaments#official-world-cups) 주최자 및 관리자 |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | [공식 아티스트](/wiki/People/Featured_Artists) 지원, [월드컵](/wiki/Tournaments#official-world-cups) 비서 |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | osu! 개발자, 기술적 지원 |
@@ -39,11 +39,12 @@ tags:
 | ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web 개발자 |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [모더레이터](/wiki/People/Global_Moderation_Team), 모딩 및 매핑 자문가 |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [osu! 유튜브 채널](https://www.youtube.com/@osugame) 호스트, [Mappers' Guild](/wiki/Community/Mappers_Guild) 주최자, [공식 아티스트](/wiki/People/Featured_Artists) 지원 |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | [NAT](/wiki/People/Nomination_Assessment_Team) 리더 |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | 모딩 및 매핑 자문가 |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [모더레이터](/wiki/People/Global_Moderation_Team), [위키 관리자](/wiki/People/osu!_wiki_maintainers) |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | 총괄 관리자 |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | osu! 개발자, osu!mania 애호가, 버그 관련 담당자 |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | osu! 개발자 |
+| ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | 디자이너 |
 | ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) | osu! 인프라 개발자 |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | 총괄 관리자, 토너먼트 보조 |
 | ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | 총괄 관리자, 빗자루 청소부 |
@@ -69,7 +70,7 @@ tags:
 | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | osu! 개발자, 인게임 채팅의 IRC 통합 기능 제공자, 사이트 관리자 |
 | ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour 호스트, 월드컵 스트리머, 토너먼트 위원 |
 | ::{ flag=NL }:: [Intermezzo](https://osu.ppy.sh/users/136842) | osu! 개발자, osz2 및 p2p 백엔드 제공자 |
-| ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  전 [QAT](/wiki/People/Quality_Assurance_Team/QAT_Leaders) 리더 |
+| ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | 전 [QAT](/wiki/People/Quality_Assurance_Team/QAT_Leaders) 리더 |
 | ::{ flag=US }:: [Datawalke](https://osu.ppy.sh/users/142) | 원본 사이트 디자이너, 초기 호스팅 공급자 |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | [월드컵](/wiki/Tournaments#official-world-cups) 주최자 및 관리자 |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | [월드컵](/wiki/Tournaments#official-world-cups) 주최자 및 관리자, 전 [QAT](/wiki/People/Quality_Assurance_Team/QAT_Leaders) 리더, 커뮤니티 매니저 |

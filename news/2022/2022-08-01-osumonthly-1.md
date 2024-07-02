@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!monthly returns, July 2022"
+title: osu!monthly returns, July 2022
 date: 2022-08-01 10:00:00 +0000
 ---
 

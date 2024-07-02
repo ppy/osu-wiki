@@ -23,7 +23,7 @@ Le [componenti visive](/wiki/Beatmap) di una difficoltà, a differenza dei suoi 
 
 *Vedi anche: [Denominazione difficoltà](/wiki/Ranking_criteria/Difficulty_naming)*
 
-Questi sono i tipici livelli di difficoltà che una beatmap può adottare. Le definizioni specifiche e i requisiti di ciascuno di essi possono essere trovati nei [criteri di classificazione](/wiki/Ranking_criteria) della loro rispettiva modalità. 
+Questi sono i tipici livelli di difficoltà che una beatmap può adottare. Le definizioni specifiche e i requisiti di ciascuno di essi possono essere trovati nei [criteri di classificazione](/wiki/Ranking_criteria) della loro rispettiva modalità.
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
@@ -32,7 +32,6 @@ Questi sono i tipici livelli di difficoltà che una beatmap può adottare. Le de
 - ![](/wiki/shared/diff/hard-o.png?20211215) Hard
 - ![](/wiki/shared/diff/insane-o.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert
-- ![](/wiki/shared/diff/expertplus-o.png?20211215) Expert+
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
@@ -40,8 +39,7 @@ Questi sono i tipici livelli di difficoltà che una beatmap può adottare. Le de
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
 - ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png?20211215) Oni
-- ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni
-- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni / Ura Oni
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
@@ -50,7 +48,6 @@ Questi sono i tipici livelli di difficoltà che una beatmap può adottare. Le de
 - ![](/wiki/shared/diff/hard-c.png?20211215) Platter
 - ![](/wiki/shared/diff/insane-c.png?20211215) Rain
 - ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
-- ![](/wiki/shared/diff/expertplus-c.png?20211215) Overdose+
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
@@ -59,7 +56,6 @@ Questi sono i tipici livelli di difficoltà che una beatmap può adottare. Le de
 - ![](/wiki/shared/diff/hard-m.png?20211215) Hard
 - ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-m.png?20211215) Expert
-- ![](/wiki/shared/diff/expertplus-m.png?20211215) Expert+
 
 ## Difficoltà e valutazione in stelle
 

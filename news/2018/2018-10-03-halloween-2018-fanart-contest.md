@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halloween 2018 Fanart Contest"
+title: Halloween 2018 Fanart Contest
 date: 2018-10-03 16:00:00 +0000
 ---
 

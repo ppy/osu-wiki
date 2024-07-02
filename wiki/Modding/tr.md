@@ -4,13 +4,13 @@
 
 Bir başkasının [beatmapine](/wiki/Beatmap) geri bildirim sağlama eylemine **modlama** denir. Modlama işlemini yapan bir kullanıcı *modlayıcı*, ve onların beatmapin tartışma kısmındaki toplu gönderileri ise *mod* olarak adlandırılır.
 
-Modlar temelde [Dereceli durumuna](/wiki/Beatmap/Category#dereceli) ulaşması hedeflenen beatmaplerin iyileştirilmesi için kullanılır. Detaylı ve analitik bir süreç olduğundan, beatmapleri modlamak kullanıcıların beatmapleme anlayışlarını geliştirebilecekleri popüler bir yoldur.
+Modlar temelde [Dereceli durumuna](/wiki/Beatmap/Category#ranked) ulaşması hedeflenen beatmaplerin iyileştirilmesi için kullanılır. Detaylı ve analitik bir süreç olduğundan, beatmapleri modlamak kullanıcıların beatmapleme anlayışlarını geliştirebilecekleri popüler bir yoldur.
 
 ## Modlayacak beatmapleri bulma
 
 Modlayacak beatmapleri keşfetmenin sayısız yolu olsa da, bir kaç yaygın yöntem aşağıdadır:
 
-- [Modlama Sırası forumu](https://osu.ppy.sh/community/forums/60) modlayacak beatmapleri bulmak ve mod istemek için kullanılan en aktif platformdur. Her kullanıcı, diğer kullanıcıların modlanmasını istediği beatmapleri gönderebileceği, *sıra/queue* olarak adlandırılan, kendi konu başlığını oluşturabilir. 
+- [Modlama Sırası forumu](https://osu.ppy.sh/community/forums/60) modlayacak beatmapleri bulmak ve mod istemek için kullanılan en aktif platformdur. Her kullanıcı, diğer kullanıcıların modlanmasını istediği beatmapleri gönderebileceği, *sıra/queue* olarak adlandırılan, kendi konu başlığını oluşturabilir.
 
   Her bir sıranın sahibi sıranın kurallarını belirleyerek, hangi beatmaplerin modlanmaya uygun olduğunu kontrol eder. Sıralar genellikle iki tür mod isteğine açıktır:
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aspire V - Final Results"
+title: Aspire V - Final Results
 date: 2020-08-23 12:00:00 +0000
 ---
 
@@ -58,7 +58,7 @@ Once again we'd like to give a huge thanks to our category selectors, [pishifat]
 
 The enormous range of creativity and variety this iteration of Aspire has produced has been truly great to see - the changes we've made for this contest have proven to be positive. However, we know that the contest in its current format is far from perfect, and there are several things we've identified that could be improved.
 
-The next Aspire contest won't be happening for a while, but we will be building upon things we've learnt this contest to make the next one even better. We realise that Aspire is a significant event in your calendars, whether you're a mapper or a spectator. Therefore we want to continue improving the contest series as much as possible. If you have any feedback or criticisms in the meantime, feel free to send them our way. 
+The next Aspire contest won't be happening for a while, but we will be building upon things we've learnt this contest to make the next one even better. We realise that Aspire is a significant event in your calendars, whether you're a mapper or a spectator. Therefore we want to continue improving the contest series as much as possible. If you have any feedback or criticisms in the meantime, feel free to send them our way.
 
 Until next time.
 

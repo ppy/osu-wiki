@@ -25,7 +25,7 @@ Tournament configurations for [osu!(lazer)](/wiki/Client/Release_stream/Lazer) a
 
 To create a new tournament configuration, create a new directory in the `tournaments` directory with the name of your tournament.
 
-Inside a tournament configuration the necessary assets can be supplied to display flags, videos and mod icons for the mappool. Each category of asset has its own folder: 
+Inside a tournament configuration the necessary assets can be supplied to display flags, videos and mod icons for the mappool. Each category of asset has its own folder:
 
 - your-tournament
   - Flags
@@ -54,7 +54,7 @@ Mod icons have to be placed in `<your-tournament>/Mods`. The mods can then be re
 
 Looping videos can be displayed in the background of each scene.
 
-Note: The client decodes video files using software decoding, so depending on the usage scenario performance may vary. 
+Note: The client decodes video files using software decoding, so depending on the usage scenario performance may vary.
 
 The files have to adhere to the following specifications:
 

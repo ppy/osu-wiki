@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halloween 2018 Fanart Voting Now Open"
+title: Halloween 2018 Fanart Voting Now Open
 date: 2018-10-18 08:00:00 +0000
 ---
 

@@ -3,7 +3,7 @@
 *Voir également : [Système de jugement d'osu!catch](/wiki/Gameplay/Judgement/osu!catch)*
 
 Le score pour osu!catch utilise le même multiplicateur qu'[osu!](/wiki/Game_mode/osu!).
-Cependant, le fruit qui additionne le score est différent de celui d'osu! 
+Cependant, le fruit qui additionne le score est différent de celui d'osu!
 
 - Un fruit normal donne un score de 300, multiplié par le multiplicateur.
 - Un juice drop (slider tick) donne un score de 100.

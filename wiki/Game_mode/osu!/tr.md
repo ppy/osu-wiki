@@ -280,12 +280,12 @@ Can tüketimi ve can kazanımını hesaplamak için kullanılan sistem karmaşı
     - v2 tema özelliklerini kullanan daha güzel bir varsayılan tema ile değiştirildi.
   - v1 ve v2 temaları arasındaki en önemli davranış farkı, spinnerdır.
     - Spinner için v1 tema davranışı, spinner ölçeri *Ouendan* serisine göre dolana kadar aşağıdan yukarıya doğru olacak çekilde artar.
-      - Zamanlayıcı, spinnerin merkezinde yaklaşan bir çemberdir. Spinnerin çevirme süresi bittiğinde dış çember spinnerin merkezindeki çembere ulaşmış olur. 
+      - Zamanlayıcı, spinnerin merkezinde yaklaşan bir çemberdir. Spinnerin çevirme süresi bittiğinde dış çember spinnerin merkezindeki çembere ulaşmış olur.
     - v2 temanın spinner davranışı spinner çemberinin en büyük durumuna ulaşması ve bittiğinde parlaması şeklindedir.
       - Zamanlayıcı, spinnerın renk değiştiren dış çemberidir. Spinner çemberinin rengi tamamen değiştiğinde spinner tamamlanmış olur.
 - Çevrimiçi liderlik tablosunun yayınlandığında aynı gün içerisinde dereceli olan (07 Ekim 2007) ilk üç beatmap aşağıdakilerdi:
-  - Kabaca 1 saat içerisinde maplenmiş olan [Kenji Ninuma - DISCO PRINCE (peppy)](https://osu.ppy.sh/beatmapsets/1), ya da `discoprince`; 
+  - Kabaca 1 saat içerisinde maplenmiş olan [Kenji Ninuma - DISCO PRINCE (peppy)](https://osu.ppy.sh/beatmapsets/1), ya da `discoprince`;
   - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/beatmapsets/3 ) , ya da `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`.
   - [Brandy - Love Fighter (FFFanatic)](https://osu.ppy.sh/beatmapsets/16), ya da `Brandy - Love Fighter`.
 - Özellikle, eski klasörlerin kendi adlandırma kuralları vardır (klasör adları yalnızca *çok eski* beatmap paketlerinde bulunabilir) ve zorunlu `{BeatmapSetID} {SanatçıAdı} - {BeatmapAdı}` formatına sıkı sıkıya uymaz.
-  - Doğrudan osu! web sitesindeki beatmap kataloğundan indirmek, ne olursa olsun geçerli zorunlu adlandırma biçimini takip eder. 
+  - Doğrudan osu! web sitesindeki beatmap kataloğundan indirmek, ne olursa olsun geçerli zorunlu adlandırma biçimini takip eder.

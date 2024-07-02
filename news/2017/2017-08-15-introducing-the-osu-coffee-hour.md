@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introducing the osu! Coffee Hour"
+title: Introducing the osu! Coffee Hour
 date: 2017-08-15 8:20:00 +0000
 ---
 

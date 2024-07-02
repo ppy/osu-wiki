@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Community Mentorship Program Winter 2022 Signups Now Open"
+title: Community Mentorship Program Winter 2022 Signups Now Open
 date: 2021-12-02 08:00:00 +0000
 ---
 
@@ -14,7 +14,7 @@ As for those keen to help out mappers in polishing and improving their maps, we 
 
 If you've ever found yourself wanting to expand your current knowledge and skills or help beginner mappers get started, the regular Mapping-oriented program will serve as a great opportunity for you!
 
-The Community Mentorship program serves as a place for upcoming mappers, modders, and storyboarders, to develop their skills under the guidance of more experienced members in the community. 
+The Community Mentorship program serves as a place for upcoming mappers, modders, and storyboarders, to develop their skills under the guidance of more experienced members in the community.
 
 Over the course of a cycle, you'll have the opportunity to learn from your mentor, participate in various mentorship events (like mapping contests), hang out with fellow mentees, and more!
 
@@ -32,6 +32,6 @@ Throughout this active cycle time, the organization team will host various event
 
 If any of this interests you or anyone you know, please go to our [forum announcement and rules thread](https://osu.ppy.sh/community/forums/topics/1472007) for more information.
 
-We're looking forward to the mappers and modders of tomorrow! 
+We're looking forward to the mappers and modders of tomorrow!
 
 —Mentorship Organization Team

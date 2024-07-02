@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Season's Greetings From osu!"
+title: Season's Greetings From osu!
 date: 2016-12-19 17:33:52 +0000
 tumblr_url: http://osunews.tumblr.com/post/154683003458/seasons-greetings-from-osu
 ---

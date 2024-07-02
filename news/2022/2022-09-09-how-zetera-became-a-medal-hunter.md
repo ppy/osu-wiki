@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How Zetera became a Medal Hunter"
+title: How Zetera became a Medal Hunter
 date: 2022-09-09 22:00:00 +0000
 ---
 
@@ -12,7 +12,7 @@ Before we begin with this story, we first must learn about the history of medals
 
 Medals were first introduced in early August 2008, with their original goal being to serve as an achievement system linked to a now-abandoned "story mode" for osu!, similar to the original *Elite Beat Agents* campaign. The first ever medals to be added were the play count medals, and since they were retroactively given to all users who already fulfilled the requirements, some users like [Echo](https://osu.ppy.sh/users/431) and [Saturos](https://osu.ppy.sh/users/3781) acquired them pretty much on release.
 
-Soon after the play count medals came the first batch of beatmap pack medals, and while some do not exist any more, there are still some that you can acquire! Some examples would be the [Internet Pack vol.1](https://osekai.net/medals/?medal=Internet!+Pack+vol.1), [Anime Pack vol.1](https://osekai.net/medals/?medal=Anime+Pack+vol.1), [Video Game Pack vol.1](https://osekai.net/medals/?medal=Video+Game+Pack+vol.1) and [Rhythm Game Pack vol.1](https://osekai.net/medals/?medal=Rhythm+Game+Pack+vol.1) medals. 
+Soon after the play count medals came the first batch of beatmap pack medals, and while some do not exist any more, there are still some that you can acquire! Some examples would be the [Internet Pack vol.1](https://osekai.net/medals/?medal=Internet!+Pack+vol.1), [Anime Pack vol.1](https://osekai.net/medals/?medal=Anime+Pack+vol.1), [Video Game Pack vol.1](https://osekai.net/medals/?medal=Video+Game+Pack+vol.1) and [Rhythm Game Pack vol.1](https://osekai.net/medals/?medal=Rhythm+Game+Pack+vol.1) medals.
 
 As development of the game continued, medals eventually became more than just a way to keep track of your beatmap pack completion with a new set of challenges titled as "Hush-Hush" medals. What are these Hush-Hush medals you might ask? Well, the [osu! wiki](/wiki/Main_Page) defines them as the following:
 

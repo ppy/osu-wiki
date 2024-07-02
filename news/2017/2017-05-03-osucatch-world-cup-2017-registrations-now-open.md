@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!catch World Cup 2017 - Registrations now open!"
+title: osu!catch World Cup 2017 - Registrations now open!
 date: 2017-05-03 13:33:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/160263921203/osucatch-world-cup-2017-registrations-now-open
 ---

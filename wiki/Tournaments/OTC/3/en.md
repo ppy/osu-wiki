@@ -1,6 +1,6 @@
 ---
 tags:
-  - OTC #3
+  - "OTC #3"
   - OTC 3
   - OTC#3
   - OTC3

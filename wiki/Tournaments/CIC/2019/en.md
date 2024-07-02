@@ -85,8 +85,8 @@ Listed below are the players who were admitted into the Group stage along with t
   2. [Ryu\* Vs. L.E.D.-G - PARADISE LOST (Kuzino) \[2Q\]](https://osu.ppy.sh/beatmapsets/36326#fruits/117383)
   3. [Jakarta Funk Brothers - INSOMNIA (Zyzyx) \[KERMO\]](https://osu.ppy.sh/beatmapsets/898684#fruits/1877347)
   4. [KLing (Aoi+Yunosuke) - Quaint Echo (Zyzyx) \[Joint Estuaries\]](https://osu.ppy.sh/beatmapsets/970081#fruits/2029405)
-  5. [Kino Hiko - The Noise of Rain (Prinsep) \[Seeking Shelter (Good Remapped Version)\]](https://osu.ppy.sh/beatmapsets/636725#fruits/1824415) 
-  6. [Roselia - Guren no Yumiya (Trynna) \[Net0's Bloody Dawn\]](https://osu.ppy.sh/beatmapsets/825409#fruits/1819160) 
+  5. [Kino Hiko - The Noise of Rain (Prinsep) \[Seeking Shelter (Good Remapped Version)\]](https://osu.ppy.sh/beatmapsets/636725#fruits/1824415)
+  6. [Roselia - Guren no Yumiya (Trynna) \[Net0's Bloody Dawn\]](https://osu.ppy.sh/beatmapsets/825409#fruits/1819160)
 - Hidden
   1. [Ponkichi - Hyakukakai to Shirotokkuri (F D Fluorite) \[Axes\]](https://osu.ppy.sh/beatmapsets/934870#fruits/1951696)
   2. [MALVA. - Trane (dika312) \[Traurigkeit\]](https://osu.ppy.sh/beatmapsets/1010141#fruits/2114540)
@@ -114,8 +114,8 @@ Listed below are the players who were admitted into the Group stage along with t
   2. [Coda - BLOODY STREAM (Ascendance) \[REBUFF OVERDRIVE\]](https://osu.ppy.sh/beatmapsets/874583#fruits/1827855)
   3. [The Flashbulb - Lawn Wake IV (Black) (MBomb) \[Deif's Overdose\]](https://osu.ppy.sh/beatmapsets/965730#fruits/2024196)
   4. [onumi - FAKE (JBHyperion) \[OVERDOSE\]](https://osu.ppy.sh/beatmapsets/934785#fruits/1958638)
-  5. [Aero Chord - Break Them (feat. Anna Yvette) (olteR) \[Broken\]](https://osu.ppy.sh/beatmapsets/516608#fruits/1097891) 
-  6. [Sawawa - kirakira TIME\* (Priti) \[ULTRA\]](https://osu.ppy.sh/beatmapsets/354013#fruits/779950) 
+  5. [Aero Chord - Break Them (feat. Anna Yvette) (olteR) \[Broken\]](https://osu.ppy.sh/beatmapsets/516608#fruits/1097891)
+  6. [Sawawa - kirakira TIME\* (Priti) \[ULTRA\]](https://osu.ppy.sh/beatmapsets/354013#fruits/779950)
 - Hidden
   1. [Seiryu - Ultramarine (ZiRoX) \[Spec's Abyss\]](https://osu.ppy.sh/beatmapsets/275991#fruits/635701)
   2. [Kajiura Yuki - Decretum (-Hex-) \[Determination\]](https://osu.ppy.sh/beatmapsets/1044759#fruits/2184057)
@@ -143,8 +143,8 @@ Listed below are the players who were admitted into the Group stage along with t
   2. [Superman Is Dead - Kuat Kita Bersinar (Funtastic) \[Bhinneka Tunggal Ika\]](https://osu.ppy.sh/beatmapsets/989452#fruits/2069807)
   3. [M2U & Nicode - Lune (-Luminate) \[Moonlight\]](https://osu.ppy.sh/beatmapsets/885028#fruits/1849832)
   4. [DM Ashura vs. Inspector K - Disconnected HaZaRD (Professor Gila) \[Disconnected OvErDoZE\]](https://osu.ppy.sh/beatmapsets/308254#fruits/689459)
-  5. [-45 - dogura \* magura (AngelHoney) \[AKUMA\]](https://osu.ppy.sh/beatmapsets/43856#fruits/137572) 
-  6. [USAO - ZED (deetz) \[YES\]](https://osu.ppy.sh/beatmapsets/483387#fruits/1031365) 
+  5. [-45 - dogura \* magura (AngelHoney) \[AKUMA\]](https://osu.ppy.sh/beatmapsets/43856#fruits/137572)
+  6. [USAO - ZED (deetz) \[YES\]](https://osu.ppy.sh/beatmapsets/483387#fruits/1031365)
 - Hidden
   1. [Chitose Sara - Merry Merry Go Round (SHOT MUSIC Asterisk Remix) (-Izayoi) \[Carousel\]](https://osu.ppy.sh/beatmapsets/975120#fruits/2041038)
   2. [Hanatan - Jishou Mushoku (chickenbible) \[Smile\]](https://osu.ppy.sh/beatmapsets/873024#fruits/1824907)
@@ -169,8 +169,8 @@ Listed below are the players who were admitted into the Group stage along with t
   2. [Shimotsuki Haruka - FLOWERS (JBHyperion) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1013070#fruits/2120514)
   3. [Nekomata Gekidan - AsiaN distractive (Spectator) \[Nelly's Overdose\]](https://osu.ppy.sh/beatmapsets/765322#fruits/1611278)
   4. [ARM - Streak (JBHyperion) \[Sinnoh's Overdose\]](https://osu.ppy.sh/beatmapsets/865565#fruits/1847248)
-  5. [Jun Maeda x yanaginagi -  Killer Song (Yohanes) \[Edge\]](https://osu.ppy.sh/beatmapsets/454725#fruits/974854) 
-  6. [wa. - Black Lotus (Realazy) \[fanzhen's Insane\]](https://osu.ppy.sh/beatmapsets/679918#fruits/1440976) 
+  5. [Jun Maeda x yanaginagi -  Killer Song (Yohanes) \[Edge\]](https://osu.ppy.sh/beatmapsets/454725#fruits/974854)
+  6. [wa. - Black Lotus (Realazy) \[fanzhen's Insane\]](https://osu.ppy.sh/beatmapsets/679918#fruits/1440976)
 - Hidden
   1. [fhana - Genzaichi (Benita) \[Rain\]](https://osu.ppy.sh/beatmapsets/825376#fruits/1729487)
   2. [yanaginagi - Hoshiboshi no Wataridori (-Hex-) \[Lost Memories\]](https://osu.ppy.sh/beatmapsets/924320#fruits/1930633)
@@ -195,8 +195,8 @@ Listed below are the players who were admitted into the Group stage along with t
   2. [Rich Brian - History (Seija) \[Bittersweet Reunion\]](https://osu.ppy.sh/beatmapsets/940248#fruits/1963760)
   3. [Camellia feat. Nanahira - Hakuraku (tasuka912) \[Rain\]](https://osu.ppy.sh/beatmapsets/986223#fruits/2063286)
   4. [Lifetheory - Daisy (Dapuluous) \[Rain\]](https://osu.ppy.sh/beatmapsets/993396#fruits/2077322)
-  5. [Shiori - Day Breaker (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/91606#fruits/247999) 
-  6. [Kommisar - Chipstream (vipto) \[Extra\]](https://osu.ppy.sh/beatmapsets/104784#fruits/385548) 
+  5. [Shiori - Day Breaker (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/91606#fruits/247999)
+  6. [Kommisar - Chipstream (vipto) \[Extra\]](https://osu.ppy.sh/beatmapsets/104784#fruits/385548)
 - Hidden
   1. [Reol - FLASH BACK (alienflybot) \[RAIN\]](https://osu.ppy.sh/beatmapsets/706939#fruits/1732486)
   2. [RURUTIA - Phronesis (-Luminate) \[Rain\]](https://osu.ppy.sh/beatmapsets/965320#fruits/2020714)
@@ -411,7 +411,7 @@ Monday, 16 September 2019:
    - Whether there are players who are disqualified from the tournament.
 6. Two players who placed on top of their respective groups' rankings based on the criteria listed above will advance to the Knock-out stage.
 
-### Knock-out stage rules 
+### Knock-out stage rules
 
 1. The eight Group stage winners will be matched to the eight Group stage runners-up at random; that is, instead of following a predetermined match-up format (A1 vs H2, B1 vs G2, and so on), all the match-ups will be based on the result of a livestreamed [random.org](http://www.random.org/lists/) draw.
 2. Players will compete against each other using the Double Elimination system.

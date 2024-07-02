@@ -68,7 +68,7 @@ In lieu of qualifiers, the participating players were selected randomly from the
 This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
-|:-: | :-- |
+| :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=SG }:: [Dawnwing](https://osu.ppy.sh/users/5144534) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=SG }:: [Rtzero](https://osu.ppy.sh/users/9262462) |
 
@@ -121,21 +121,21 @@ This competition has come to an end and resulted in the following podium:
 
 #### Finals
 
-| Player 1 | | | Player 2 | Match link |
-| --: |:-: | :-: | :-- | :-- |
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
 | **Dawnwing** | **4** | 2 | Rtzero | [#1](https://osu.ppy.sh/community/matches/78039075) |
 
 #### Semifinals
 
-| Player 1 | | | Player 2 | Match link |
-| --: |:-: | :-: | :-- | :-- |
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
 | fausion | 0 | **4** | **Dawnwing** | [#1](https://osu.ppy.sh/community/matches/78037418) |
 | **Rtzero** | **4** | 1 | Jazzie | [#1](https://osu.ppy.sh/community/matches/78038050) |
 
 #### Quarterfinals
 
-| Player 1 | | | Player 2 | Match link |
-| --: |:-: | :-: | :-- | :-- |
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
 | **fausion** | **3** | 2 | Lunarsol | [#1](https://osu.ppy.sh/community/matches/78030580) |
 | \_gt | 2 | **3** | **Dawnwing** | [#1](https://osu.ppy.sh/community/matches/78032989) |
 | Stylus | 2 | **3** | **Rtzero** | [#1](https://osu.ppy.sh/community/matches/78034404) |
@@ -156,4 +156,4 @@ This competition has come to an end and resulted in the following podium:
 4. Players have 2 minutes to select a map; if they fail to choose in the allotted time, the map choice will be passed to the other player. This will have no effect on the order of picks afterwards.
 5. Players may pick maps freely from any mod pool, barring the maps that have been banned.
 6. Once the map choice is locked in, players will have 90 seconds to ready up. The referee will start the match when all players are ready. If the 90-second timer ends, the referee will force the map to begin in 10 seconds, and the match will start with whoever is in the lobby.
-7. For tiebreakers, Free Mod will be enabled. **No Fail is enforced.** The allowed mods are Hidden, Hard Rock, Flashlight, and Easy. (Scores with Easy are multiplied by 2.0x) 
+7. For tiebreakers, Free Mod will be enabled. **No Fail is enforced.** The allowed mods are Hidden, Hard Rock, Flashlight, and Easy. (Scores with Easy are multiplied by 2.0x)

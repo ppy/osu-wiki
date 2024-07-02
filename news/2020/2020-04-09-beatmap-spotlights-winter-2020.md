@@ -70,7 +70,7 @@ This masterfully designed map is an experience that you don’t want to miss!
 
 [![](/wiki/shared/news/2020-04-09-beatmap-spotlights-winter-2020/osu/sealer.jpg)](https://osu.ppy.sh/beatmapsets/1067056)
 
-[celerih](https://osu.ppy.sh/users/4696296)'s idiosyncratic take on free-form mapping has always stood out from the ocean of ''flow-oriented'' maps, and this rendition of Zektbach - The Sealer \~A Milia to Milia no Min\~ encapsulates this philosophy while showcasing one of their boldest palette collections yet. 
+[celerih](https://osu.ppy.sh/users/4696296)'s idiosyncratic take on free-form mapping has always stood out from the ocean of ''flow-oriented'' maps, and this rendition of Zektbach - The Sealer \~A Milia to Milia no Min\~ encapsulates this philosophy while showcasing one of their boldest palette collections yet.
 
 A concise mapset content-wise, the folkish ballet is designed with engaging rhythms and cutting edge patterns with meticulous attention to feedback, all to synthesize a delightful experience of a dance and a strong, cohesive character that one will scarcely discover from a map.
 
@@ -88,7 +88,7 @@ All of these combine with a minimalistic storyboard by Necho himself and remix-t
 
 TAKE FLIGHT (almost quite literally) with [Vell](https://osu.ppy.sh/users/3414541)'s map set on Chata's Precious Wings!
 
-Vell wears his heart on the sleeve, or rather the editor, with this one as you experience the first ever aviation training map in osu! history! 
+Vell wears his heart on the sleeve, or rather the editor, with this one as you experience the first ever aviation training map in osu! history!
 
 Practice taking off and landing gracefully as the map takes flight itself and reach the skies! If the concept isn't quite clear to you yet, you may just try it out yourself.
 But beware!
@@ -110,7 +110,7 @@ Try this map and spice up your collection!
 
 [![](/wiki/shared/news/2020-04-09-beatmap-spotlights-winter-2020/taiko/leviathan.jpg)](https://osu.ppy.sh/beatmapsets/1013884)
 
-Topping off this season's Spotlights, we have a map that keeps you busy with complicated rhythms all the way through - Leviathan, a mostly piano-based Touhou arrangement, mapped by [yassu-](https://osu.ppy.sh/users/7095592), a mapper who's shown their skill at handling rhythmically complicated songs time and time again! 
+Topping off this season's Spotlights, we have a map that keeps you busy with complicated rhythms all the way through - Leviathan, a mostly piano-based Touhou arrangement, mapped by [yassu-](https://osu.ppy.sh/users/7095592), a mapper who's shown their skill at handling rhythmically complicated songs time and time again!
 
 In this map specifically, a lot of the complexity comes from blue tick rhythms and tricky off-hand patterns mixed with 1/6 and 1/8 for even more handswitches whenever the piano calls for it, as well as some standalone 1/8 doubles sneaked in which feel really pleasant to play - all in all a great fit for spotlights, even more so as the set as a whole manages to maintain its rhythmical complexity across the lower difficulties, making it a treat for people at all levels seeking a challenge!
 
@@ -192,7 +192,7 @@ Even though it's the first of its kind in the ranked section, Transhumanist sets
 
 [Curiossity](https://osu.ppy.sh/users/6490035) strikes again with another insanely innovative and creative masterpiece.
 
-Every bit of this map is thought out with very particularly detailed and visually appealing patterning and speed changes, which gives the map a great amount of replay value, especially for a marathon. The map's excitement is maintained throughout the map, making for a roller-coaster of an experience. 
+Every bit of this map is thought out with very particularly detailed and visually appealing patterning and speed changes, which gives the map a great amount of replay value, especially for a marathon. The map's excitement is maintained throughout the map, making for a roller-coaster of an experience.
 
 It never gets boring, not even during the slower sections, in which the player must pay very close attention to the long note releases at a slow scroll speed. This map thus deserves its spot in the spotlights, and we hope to see Curiossity continue to produce spectacular maps like this one in the future.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu! World Cup 2016 - Registrations now open!"
+title: osu! World Cup 2016 - Registrations now open!
 date: 2016-10-02 10:49:21 +0000
 tumblr_url: http://osunews.tumblr.com/post/151233326878/osu-world-cup-2016-registrations-now-open
 ---

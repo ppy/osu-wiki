@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Performance Points Updates"
+title: Performance Points Updates
 date: 2021-01-16 05:00:00 +0000
 ---
 
@@ -10,7 +10,7 @@ Thanks to the effort of a number of public contributors, we're excited to announ
 
 Set off during the last few days of 2020, these new incoming changes represent an effort from various members of the community to try and address long-standing issues with one of the game's most important progression systems.
 
-For those unfamiliar with the technical minutiae of the system, please consult [the wiki article](/wiki/Performance_points) for an overview of the general ideas involved. 
+For those unfamiliar with the technical minutiae of the system, please consult [the wiki article](/wiki/Performance_points) for an overview of the general ideas involved.
 
 To summarize the article very briefly (you should really read the whole thing on your own first!), pp encompasses several core values as follows:
 

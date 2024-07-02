@@ -7,7 +7,7 @@ The **song setup** window is the fourth section of the [beatmap editor](/wiki/Cl
 ![](img/SS_General.jpg "An example of a difficulty with completed metadata")
 
 `General` provides information which helps players not only find the beatmap, but also know a bit more about the song itself. The metadata specified here must be taken from the song's [primary metadata source](/wiki/Beatmap/Primary_metadata_source) and, if a beatmap is going through the [ranking procedure](/wiki/Beatmap_ranking_procedure), follow the [ranking criteria](/wiki/Ranking_criteria#metadata).
- 
+
 | Field | Meaning |
 | :-- | :-- |
 | `Artist` | The band, singer, composer, or the group that performed or created the song. |
@@ -72,7 +72,7 @@ Additional effects of increasing OD in each game mode:
 
 ![Two screenshots of the Audio tab. They vary based on defined hitsound and volume settings.](img/SS_Audio.jpg "The Audio section. The right is shown if the beatmap contains custom timing on volume settings.")
 
-`Audio` makes it possible to configure [hitsounds](/wiki/Beatmapping/Hitsound) for the whole beatmap at once, if it does not have any sound customisation. Much more often, mappers prefer to have fine-grained control over the sound; as a result, they abandon the `Audio` tab in favour of customising hitsounds per beatmap section by using multiple [timing sections](/wiki/Client/Beatmap_editor/Timing#inherited-timing-section). In this case, the upper portion of the tab is inaccessible, and clicking on the `Reset Settings` button will remove all the custom timing volume adjustments.
+`Audio` makes it possible to configure [hitsounds](/wiki/Beatmapping/Hitsound) for the whole beatmap at once, if it does not have any sound customisation. Much more often, mappers prefer to have fine-grained control over the sound; as a result, they abandon the `Audio` tab in favour of customising hitsounds per beatmap section by using multiple [timing sections](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point). In this case, the upper portion of the tab is inaccessible, and clicking on the `Reset Settings` button will remove all the custom timing volume adjustments.
 
 | Control | Effect |
 | :-- | :-- |

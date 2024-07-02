@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!monthly, February 2023"
+title: osu!monthly, February 2023
 date: 2023-03-02 19:00:00 +0000
 ---
 
@@ -235,7 +235,7 @@ In the earliest osu! days, a separate program was used to update osu! called "os
 
 ## Monthly community quiz
 
-For the second month in a row, the quiz question for February has remained unanswered by anyone! 
+For the second month in a row, the quiz question for February has remained unanswered by anyone!
 
 The correct answer was [Reol - +Danshi](https://osu.ppy.sh/beatmapsets/300748#osu/674514), a *Loved* map where all of the map's objects are placed in a pleasing circle shape. As for why it is referred to as the *circle of life*... maybe consider asking your parents.
 
@@ -252,6 +252,6 @@ chromb incorporated™ wishes everyone the best of luck in finding the answer to
 
 ## End word
 
-We hope that you *loved* this edition of osu!monthly. As usual, if the content is not what you want to see or if you would like to contribute in any way possible, please visit the [osu!dev Discord server](https://discord.com/invite/ppy) or contact any of the members of the [osu!monthly team](/wiki/People/osu!monthly_team). Until next time!
+We hope that you *loved* this edition of osu!monthly. As usual, if the content is not what you want to see or if you would like to contribute in any way possible, please visit the [osu!dev Discord server](https://discord.com/invite/ppy) or contact any of the members of the [osu!monthly team](/wiki/Community/osu!monthly#contributors). Until next time!
 
 —osu!monthly team

@@ -104,7 +104,7 @@ Two milestones were reached this month. 50,000,000 ranked plays in total were ac
 
 ## December
 
-This month, the [Mapping Assistance Team](/wiki/People/Mapping_Assistance_Team) (MAT) was introduced. The MAT was responsible for selecting [pending beatmaps](/wiki/Beatmap/Category#work-in-progress-and-pending) of acceptable quality and recommending them for being ranked in the [forum modding](/wiki/Modding/Forum_modding) system by the [BAT](/wiki/People/Beatmap_Appreciation_Team).[^mat]
+This month, the [Mapping Assistance Team](/wiki/People/Mapping_Assistance_Team) (MAT) was introduced. The MAT was responsible for selecting [pending beatmaps](/wiki/Beatmap/Category#wip-and-pending) of acceptable quality and recommending them for being ranked in the [forum modding](/wiki/Modding/Forum_modding) system by the [BAT](/wiki/People/Beatmap_Appreciation_Team).[^mat]
 
 An update to osu! introduced [hyperdashes](/wiki/Gameplay/Hyperdash) for impossible jumps in Catch the Beat, where players would gain additional speed for a short time upon collecting a [hyperfruit](/wiki/Gameplay/Hit_object/Hyperfruit). Additionally, a preview for a listing of online users in the [extended chat console](/wiki/Client/Interface/Chat_console#extended-chat-console) was implemented.[^stable-b1209]
 

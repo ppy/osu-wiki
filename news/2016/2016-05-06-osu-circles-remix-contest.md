@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'osu! "circles!" Remix Contest'
+title: osu! "circles!" Remix Contest
 date: 2016-05-06 07:40:41 +0000
 tumblr_url: http://osunews.tumblr.com/post/143933020033/osu-circles-remix-contest
 ---

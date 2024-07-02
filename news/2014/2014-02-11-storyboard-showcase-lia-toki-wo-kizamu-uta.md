@@ -7,7 +7,7 @@ tumblr_url: http://osunews.tumblr.com/post/76283252100/storyboard-showcase-lia-t
 
 This time, we'll take a look at a storyboard attached to a fairly popular song from a very popular series!
 
-**[Lia - Toki wo Kizamu Uta](https://osu.ppy.sh/beatmapsets/35701)**  
+**[Lia - Toki wo Kizamu Uta](https://osu.ppy.sh/beatmapsets/35701)**\
 **Map by [kanpakyin](https://osu.ppy.sh/users/394326), difficulty and storyboard by [JoJo](https://osu.ppy.sh/users/421286)**
 
 What's there to be said about this one that isn't shown in the video itself? The smooth transitions are complimented by some very lovely special effects, in addition to having lyrics subtly displayed near the bottom right. Combine that with some very nice flow in the hit objects themselves, and I wouldn't hesitate to call this beatmap a masterpiece.

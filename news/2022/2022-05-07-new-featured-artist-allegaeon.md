@@ -8,9 +8,9 @@ Shower your ears in the revolutionary sound of **Allegaeon**, our newest Feature
 
 ![](https://assets.ppy.sh/artists/264/header.jpg)
 
-Proudly sporting a mix of technical, extreme, and melodic metal in each of their intense tracks, **Allegaeon** is an American band who's been slamming blastbeats for nearly 15 years to the tune of modern science-inspired lyrics. 
+Proudly sporting a mix of technical, extreme, and melodic metal in each of their intense tracks, **Allegaeon** is an American band who's been slamming blastbeats for nearly 15 years to the tune of modern science-inspired lyrics.
 
-**9** songs. [**Alleageon**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/264) has them. Take a deep breath before diving into this heartrate-spiking noise. 
+**9** songs. [**Alleageon**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/264) has them. Take a deep breath before diving into this heartrate-spiking noise.
 
 **Allegaeon** made a name for themselves in the osu! community through [Biomech - Vals No. 666](https://osu.ppy.sh/beatmapsets/1569833) in Corsace Open 2021's semifinals tiebreaker. Take a peek at how that looked in the video below, then explore everything else that **Allegaeon** has to offer:
 

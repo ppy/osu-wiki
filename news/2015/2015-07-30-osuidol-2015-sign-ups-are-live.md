@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!idol 2015 Sign-ups are live!"
+title: osu!idol 2015 Sign-ups are live!
 date: 2015-07-30 18:44:57 +0000
 tumblr_url: http://osunews.tumblr.com/post/125447383718/osuidol-2015-sign-ups-are-live
 ---

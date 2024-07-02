@@ -14,7 +14,7 @@ Let's be honest. If you've ever clicked a circle, you know who **xi** is. [FREED
 
 It's absurd how much of osu!'s history is built around **xi**'s piano-based musical prowess, and we're incredibly happy to *finally* have them on board as one of our Featured Artists!
 
-With an artist as monumental as this, we grabbed as much music as we feasibly could. [**xi**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/727) houses **42** tracks in total, including classics and newer pieces alike. 
+With an artist as monumental as this, we grabbed as much music as we feasibly could. [**xi**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/727) houses **42** tracks in total, including classics and newer pieces alike.
 
 That's enough words. Watch [chocomint](https://osu.ppy.sh/users/124493) (a.k.a. Cookiezi) set a legendary play that has lived rent-free in everyone's heads for the last 7 years:
 

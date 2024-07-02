@@ -12,6 +12,7 @@ outdated_since: abc38b81368f22f2c02e0feda3b7d5c14fba8ead
    ![Registračný formulár zo stránky](img/register-old.jpg "Registračný formulár zo stránky")
 
 2. Vyplň všetky údaje vo fomulári
+
    - Pre pole použivateľské meno, si vyber meno, ktoré môže mať maximálne 15 znakov; z čoho sa môžu používať len abeceda a čísla (`a-z`, `A-Z`, `0-9`), podčiarknutie (`_`), hranaté zátvorky, (`[` and `]`), odrážky (`-`), a medzery (` `).
    - Pre pole email, použi tvoj email. Tvoj email bude použitý na resetovanie hesla a pre posielanie overovacích kódov keď to bude potrebné, takže nepoužívaj jednorázové emaily.
    - Pre pole heslo použi heslo, ktoré má aspoň 8 znakov.

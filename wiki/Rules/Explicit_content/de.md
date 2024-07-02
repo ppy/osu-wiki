@@ -23,8 +23,8 @@ Der Gebrauch von Profanität muss fortwährend, signifikant, hetzerisch oder sta
 Darüber hinaus sollten anschauliche und anhaltende Diskussionen von kontroversen Themen oder alles, was eine vernünftige Person als "heftig" bezeichnen würde, als explizit angesehen werden. Einige (aber nicht alle) Beispiele hier:
 
 - Symbolik, Auswirkung oder Konsequenzen von Selbstmord
-- Stark implizierte Gewalt
+- stark implizierte Gewalt
 - Darstellung/Diskussion von gewalttätigen Folgen in detaillierter Form
-- Extrem offensichtliche sexuelle Referenzen oder Anspielungen auf sexuelle Akte
+- extrem offensichtliche sexuelle Referenzen oder Anspielungen auf sexuelle Akte
 
 Eine gute Möglichkeit, zu erkennen, ob etwas als explizit markiert werden sollte oder nicht, ist zu schauen, ob irgendwelche großen Dienste für Audio-Streaming es als solches auf ihren eigenen Plattformen gelistet haben. [Spotify](https://www.spotify.com) ist ein hervorragender Ausgangspunkt.

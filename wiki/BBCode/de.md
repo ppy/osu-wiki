@@ -1,6 +1,6 @@
 # BBCode
 
-**BBCode** ist eine [Auszeichnungssprache](https://de.wikipedia.org/wiki/Auszeichnungssprache) (Markup), die im osu!-Forum und, in einem größeren Umfang, in den meisten Foren im Internet genutzt wird. Damit die Rich-Text-Formatierung möglich wird, umranden Tags Text, um die Formatierung, Attribute, Einbettung usw. festzulegen. Es wird auf verschiedenen Seiten auf der osu!-Webseite verwendet, wie z. B. Forumsbeiträge, Signaturen, Benutzerseiten und Beatmapbeschreibungen.
+**BBCode** ist eine [Auszeichnungssprache](https://de.wikipedia.org/wiki/Auszeichnungssprache) (Markup), die im osu!-Forum und, in einem größeren Umfang, in den meisten Foren im Internet genutzt wird. Damit die Rich-Text-Formatierung möglich wird, umranden Tags Text, um die Formatierung, Attribute, Einbettung usw. festzulegen. Es wird auf verschiedenen Seiten auf der osu!-Webseite verwendet, wie z. B. in Forumsbeiträgen, Signaturen, Benutzerseiten und Beatmapbeschreibungen.
 
 ![Der Forum-Beitragseditor mit seinen Buttons](img/editor-DE.jpg?1 "Die Box zum Editieren in den Foren")
 
@@ -213,11 +213,11 @@ Wenn nur die Benutzer-ID verwendet wird, dann ist ein Platzhaltertext zwischen d
 [/list]
 ```
 
-Das Tag `[list]` wird benutzt, um automatisch zwei unterschiedliche Arten von Listen in den osu!-Foren zu formatieren. Dabei wird ein Stern in eckigen Klammern (`[*]`) verwendet, um ein neuen Punkt in der Liste zu markieren (oben gezeigt). Das wird standardmäßig eine einfache Aufzählungsliste generieren.
+Das Tag `[list]` wird benutzt, um automatisch zwei unterschiedliche Arten von Listen in den osu!-Foren zu formatieren. Dabei wird ein Stern in eckigen Klammern (`[*]`) verwendet, um einen neuen Punkt in der Liste zu markieren (oben gezeigt). Das wird standardmäßig eine einfache Aufzählungsliste generieren.
 
 Wenn das Argument `TYP` spezifiziert wird (der tatsächliche Wert spielt keine Rolle), wird eine nummerierte Liste erstellt.
 
-*Hinweis: BBCode-formatierte Listen können aufeinander gestapelt und ineinander verschachtelt werden. Jedoch ist bekannt, dass das manchmal zu Fehlern bei der Formatierung führt.*
+*Hinweis: BBCode-formatierte Listen können aufeinander gestapelt und ineinander verschachtelt werden. Manchmal kann das jedoch zu Fehlern in der Formatierung führen.*
 
 Schaltfläche in der Symbolleiste: ![Button für Listen](img/list.png "Liste") ![Button für nummerierte Listen](img/list-numbered.png "Nummerierte Liste")
 
@@ -296,7 +296,7 @@ Um Audiodateien mit Hilfe dieser Methode einzubinden, müssen Nutzer die URL (z.
 [heading]Text[/heading]
 ```
 
-Das Tag `[heading]` wird benutzt, um Text als große, pinke Überschriften zu formatieren. Hierbei werden keine mehrstufigen Überschriften unterstützt und die Überschriften können nicht direkt verlinkt werden.
+Das Tag `[heading]` wird benutzt, um Text als große, pinke Überschrift zu formatieren. Hierbei werden keine mehrstufigen Überschriften unterstützt und die Überschriften können nicht direkt verlinkt werden.
 
 Schaltfläche in der Symbolleiste: ![Button für Überschriften](img/heading.png "Überschriften")
 

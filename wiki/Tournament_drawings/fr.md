@@ -23,7 +23,7 @@ Ensuite, ajoutez la ligne suivante au fichier `drawings.txt` :
 AU : Australia : AUS
 ```
 
-Les tournament drawings sont maintenant prêt à être prévisualisés. Il est important de comprendre comment l'écran des tournament drawings fonctionne et agit avant de modifier davantage chacun des fichiers.  
+Les tournament drawings sont maintenant prêt à être prévisualisés. Il est important de comprendre comment l'écran des tournament drawings fonctionne et agit avant de modifier davantage chacun des fichiers.
 
 ### Utilisation
 
@@ -47,7 +47,7 @@ Appuyez sur les boutons `Begin random` et `Stop random`. Lorsque le défilement 
 
 Ouvrez le fichier et observez le format - c'est là que sont stockés les résultats du processus de tirage, et ils doivent être importés dans d'autres outils d'aide à la gestion de tournois, tels que Google Spreadsheets.
 
-**Soyez sûr d'avoir sauvegardé le fichier `drawings_results.txt` dans un endroit sûr avant d'appuyer sur le bouton de réinitialisation, autrement il sera détruit !** 
+**Soyez sûr d'avoir sauvegardé le fichier `drawings_results.txt` dans un endroit sûr avant d'appuyer sur le bouton de réinitialisation, autrement il sera détruit !**
 
 ### Configuration
 

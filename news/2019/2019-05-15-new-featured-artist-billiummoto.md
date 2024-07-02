@@ -8,7 +8,7 @@ The winner of the first ever osu!remix contest enters the scene as osu!'s latest
 
 ![](https://assets.ppy.sh/artists/38/header.jpg)
 
-After surging to victory with his track *HDHR* in our [first-ever remix contest back in 2016](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results), we've had our eye on **BilliumMoto** ever since. 
+After surging to victory with his track *HDHR* in our [first-ever remix contest back in 2016](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results), we've had our eye on **BilliumMoto** ever since.
 
 A member of the osu!community for over five years and a [much](https://osu.ppy.sh/beatmapsets/631054) [beloved](https://osu.ppy.sh/beatmapsets/401088) [osu!mania mapper](https://osu.ppy.sh/beatmapsets/204326), he's certainly no stranger to the intricacies of making things tick, and joins the roster alongside artists like [tieff](https://osu.ppy.sh/beatmaps/artists/34) who have long-standing expertise in mapping for their communities of choice.
 

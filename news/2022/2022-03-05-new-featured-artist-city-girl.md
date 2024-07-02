@@ -8,7 +8,7 @@ date: 2022-03-05 09:00:00 +0000
 
 ![](https://assets.ppy.sh/artists/245/header.jpg)
 
-Most people would never associate lofi or modern pop with rhythm games, yet **City Girl** is here to prove everyone wrong. 
+Most people would never associate lofi or modern pop with rhythm games, yet **City Girl** is here to prove everyone wrong.
 
 California-based producer **City Girl** has crafted a neat collection of musical adventures with contributions from a diverse set of stunning vocalists. Unbounded by genre and inspired by artists all over the board, **City Girl**'s music is the epitome of unexpected brilliance.
 

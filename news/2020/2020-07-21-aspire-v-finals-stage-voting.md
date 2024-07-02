@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aspire V - Finals Stage Voting"
+title: Aspire V - Finals Stage Voting
 date: 2020-07-22 21:00:00 +0000
 ---
 
@@ -8,7 +8,7 @@ You've chosen your favourite beatmaps from the Aspire V categories, now it's tim
 
 ![](https://assets.ppy.sh/contests/94/header.jpg)
 
-[Last month](https://osu.ppy.sh/home/news/2020-06-22-aspire-v-category-stage-voting), we asked you to pick your favourite boundary-breaking entries out of nine categories. 
+[Last month](https://osu.ppy.sh/home/news/2020-06-22-aspire-v-category-stage-voting), we asked you to pick your favourite boundary-breaking entries out of nine categories.
 
 The results are in, but it's not over yet - the winners have moved onto the final stage of Aspire V.
 

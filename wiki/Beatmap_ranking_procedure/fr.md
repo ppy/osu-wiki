@@ -15,7 +15,7 @@ tags:
 
 *Voir aussi : [Rank (désambiguïsation)](/wiki/Disambiguation/Rank)*
 
-Les [beatmaps](/wiki/Beatmap) peuvent être promues dans la communauté en suivant la procédure de classement des beatmaps et en entrant dans la catégorie [classée](/wiki/Beatmap/Category#classée).
+Les [beatmaps](/wiki/Beatmap) peuvent être promues dans la communauté en suivant la procédure de classement des beatmaps et en entrant dans la catégorie [classée](/wiki/Beatmap/Category#ranked).
 
 ## Commentaires
 
@@ -33,7 +33,7 @@ Avant d'être proposées au classement, les beatmaps doivent recevoir des messag
 ![](img/nomination-progress-fr.png "Statut du classement de la beatmap affiché sur la page de discussion, avec les barres de progression des hypes et des nominations partiellement remplies.")
 :::
 
-Une **nomination** est un vote d'approbation, qui indique l'éligibilité d'une beatmap pour devenir [classée](/wiki/Beatmap/Category#classée). Elle est attribuée aux beatmaps terminées, jugées de qualité suffisante selon le nominateur. Ces beatmaps doivent au moins suivre les [critères de classement](/wiki/Ranking_criteria) et avoir 5 [hypes](/wiki/Beatmap/Hype) ou plus.
+Une **nomination** est un vote d'approbation, qui indique l'éligibilité d'une beatmap pour devenir [classée](/wiki/Beatmap/Category#ranked). Elle est attribuée aux beatmaps terminées, jugées de qualité suffisante selon le nominateur. Ces beatmaps doivent au moins suivre les [critères de classement](/wiki/Ranking_criteria) et avoir 5 [hypes](/wiki/Beatmap/Hype) ou plus.
 
 Les nominations sont données par les [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*), un groupe de moddeurs expérimentés. Les membres de la [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*) peuvent également nominer des beatmaps, bien que ce ne soit pas leur rôle principal.
 
@@ -41,7 +41,7 @@ Il est recommandé de recevoir des mods avant de demander des nominations aux BN
 
 ## Qualification
 
-Les beatmaps qui reçoivent deux nominations pour chaque mode de jeu disponible dans la beatmap sont déplacées dans la catégorie des beatmaps [qualifiées](/wiki/Beatmap/Category#qualifiée). Les beatmaps qualifiées disposent d'un classement des scores, mais ne récompensent pas les joueurs avec des [points de performance](/wiki/Performance_points). Lorsqu'une beatmap reste dans la catégorie qualifiée pendant au moins 7 jours, la [file d'attente de classement](Ranking_queue) peut la faire passer dans la catégorie [classée](#classée).
+Les beatmaps qui reçoivent deux nominations pour chaque mode de jeu disponible dans la beatmap sont déplacées dans la catégorie des beatmaps [qualifiées](/wiki/Beatmap/Category#qualified). Les beatmaps qualifiées disposent d'un classement des scores, mais ne récompensent pas les joueurs avec des [points de performance](/wiki/Performance_points). Lorsqu'une beatmap reste dans la catégorie qualifiée pendant au moins 7 jours, la [file d'attente de classement](Ranking_queue) peut la faire passer dans la catégorie [classée](#classée).
 
 Cette catégorie de beatmap existe pour offrir aux beatmaps une plus grande exposition à la communauté d'osu! dans l'espoir de découvrir des problèmes potentiels. Les problèmes peuvent être signalés aux BN et aux membres de la NAT à partir de la page de discussion d'une beatmap. Contrairement aux beatmaps en attente, les beatmaps qualifiées ne peuvent pas être mises à jour par leurs créateurs. Les commentaires ne peuvent donc être appliqués qu'après avoir demandé une [réinitialisation de la nomination](#réinitialisation-de-la-nomination).
 

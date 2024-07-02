@@ -10,7 +10,7 @@ La première mise en œuvre d'un tel score a été révélée au public au cours
 
 Connu par la suite sous le nom de "pp" (abréviation de "performance points"), ce nouveau système visait à modifier la norme précédente de la performance des joueurs, qui consistait à passer d'un simple [score](/wiki/Gameplay/Score) total à quelque chose qui reflétait précisément les compétences. Ce nouveau système a été largement plébiscité par les joueurs de l'époque.
 
-Plusieurs mois après sa révélation, la version 20120722-24 d'osu! a officiellement mis en œuvre le système pour remplacer entièrement l'ancien système de score [Classé](/wiki/Beatmap/Category#classée), les nouveaux scores étant calculés toutes les 30 minutes. Plus tard, en août de la même année, le système a été amélioré pour être mis à jour en temps réel.
+Plusieurs mois après sa révélation, la version 20120722-24 d'osu! a officiellement mis en œuvre le système pour remplacer entièrement l'ancien système de score [Classé](/wiki/Beatmap/Category#ranked), les nouveaux scores étant calculés toutes les 30 minutes. Plus tard, en août de la même année, le système a été amélioré pour être mis à jour en temps réel.
 
 Il a continué à exister dans cette capacité pendant plus d'un an de service jusqu'à ce que [Tom94](https://osu.ppy.sh/users/1857058), le créateur de la mesure de score *osu!tp*, rejoigne l'[équipe d'osu!](/wiki/People/osu!_team) et implémente sa conception dans le système. Le système résultant a été intitulé *ppv2*, et est devenu opérationnel le 27 janvier 2014, renommant ainsi l'ancien système *[ppv1](/wiki/Performance_points/ppv1)*.
 

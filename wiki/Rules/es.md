@@ -1,67 +1,67 @@
 # Reglas
 
-Estas reglas son la base sobre la cual mantenemos la comunidad de osu! como un lugar entretenido y acogedor para todos.
+Estas reglas son la base sobre la cual ayudamos a mantener la comunidad de osu! un lugar divertido y acogedor para todos.
 
-## Reglas de la Comunidad
+## Reglas de la comunidad
 
-1. **Cada jugador puede tener solamente *UNA* cuenta, en todo momento.** La *primera* cuenta que creas durante el registro será tu única cuenta de osu!, desde el momento de su creación para siempre jamás. Esta cuenta es TUYA. No es de nadie más, (no es de tu hermano, tu madre, tu hermana ni de tu amigo) es TUYA. No compartas tu cuenta con nadie más. No podrás hacer una nueva si pierdes acceso a tu cuenta. Mantenla segura.
-2. **Juega limpio.** Usar herramientas de terceros de cualquier tipo para obtener cualquier forma de ventaja no está bien. Esto incluye cosas como macros, programas de asistencia de puntería, modificación de escalas de tiempo, y demases. Si algún programa te está ayudando a hacer algo que deberías hacer tú mismo en el juego, ¡no está bien!
-3. **Sé bueno con los demás.** El acoso o cualquier otro tipo de antagonismo no tiene lugar dentro de la comunidad de osu!. Estamos aquí para clickear círculos, golpear tambores, atrapar frutas y teclear hasta dieciocho teclas al mismo tiempo, no para ser idiotas los unos con los otros.
-4. **No seas un tipo desagradable.** Si en cualquier momento estás inseguro de si estás o no rompiendo esta regla, probablemente ya lo estás haciendo.
-5. **Estamos en una comunidad para todas las edades.** Esto significa que todo contenido para mayores de 18 años (18+) o inapropiado para espacios públicos ([NSFW](https://es.wikipedia.org/wiki/NSFW)) como uso de drogas o tópicos de contenido sexual no son bienvenidos aquí.
-6. **Mantenlo limpio.** osu! no es el lugar para citas o coqueteo. Usar imágenes u lenguaje sexual o hacer avances no deseados en otros miembros de la comunidad en público o privado NO está bien. Si en cualquier momento te sientes incómodo con la forma en la cual alguien esta hablándote, [denúncialo a nosotros confidencialmente](/wiki/Reporting_bad_behaviour/Abuse) para que podamos ayudarte (y potencialmente prevenir que otros se vean afectados).
-7. **Cuándo las reglas no prevalezcan, el sentido común lo hará.** La administración tiene discreción explícita de aplicar su juicio en caso de que sea necesario.
+1. **Cada jugador solo puede tener *UNA* cuenta, siempre**. La *primera* cuenta que crees al registrarte será tu única cuenta de osu! desde el momento de su creación y para siempre. Esta cuenta eres TÚ. No es de nadie más —ni de tu hermano, ni de tu madre, ni de tu hermana, ni de tu amigo—, eres TÚ. No compartas tu cuenta con nadie más. No podrás crear una nueva si pierdes el acceso a ella. Mantenla a salvo.
+2. **Juega limpio**. Utilizar utilidades de terceros de cualquier tipo para obtener algún tipo de ventaja no está bien. Esto incluye cosas como programas de macros, programas de ayuda a la puntería, modificación de la escala de tiempo, y así sucesivamente. Si un programa hace algo que deberías hacer tú mismo para ayudarte a jugar, ¡no está bien!
+3. **Sé bueno con los demás**. El acoso u otros antagonismos no tienen cabida en la comunidad de osu!. Estamos aquí para hacer clic en círculos, golpear tambores, atrapar fruta y pulsar hasta dieciocho teclas a la vez, no para ser idiotas los unos con los otros.
+4. **No seas imbécil**. Si en algún momento dudas de si estás incumpliendo esta regla, probablemente lo estés haciendo.
+5. **Somos una comunidad para todas las edades**. Esto significa que el contenido +18/[NSFW](https://es.wikipedia.org/wiki/NSFW) como el uso de drogas o temas de naturaleza sexual no son bienvenidos aquí.
+6. **Mantente limpio**. osu! no es el lugar para tener citas o ligar. Utilizar lenguaje sexual, imágenes o hacer insinuaciones no deseadas a otros miembros de la comunidad en público o en privado NO está bien. Si alguna vez te sientes incómoda con la forma en que alguien te habla, [infórmanos confidencialmente](/wiki/Reporting_bad_behaviour/Abuse) para que podamos ayudarte (y potencialmente evitar que otros se vean afectados).
+7. **Donde no prevalezcan las reglas, prevalecerá el sentido común**. La administración tiene discreción explícita para aplicar su juicio sobre esto como mejor le parezca.
 
-## Reglas del Chat del Juego
+## Reglas del chat del juego
 
-1. **Sé respetuoso y considerado con otros usuarios en el canal y evita bombardear mensajes y el spam.** Que una persona se tome la mitad de la pantalla escribiendo es molesto, así que evita hacerlo en la medida de lo posible. ¡Otras personas están tratando de leer el chat también!
-2. **Deja que los moderadores se encarguen de los problemas en el chat.** Puedes indicarles de cualquier problema con [el comando `!report`](/wiki/Reporting_bad_behaviour) y ellos se encargarán del resto.
-3. **Si alguien ha sido advertido, silenciado o restringido, déjalos y no comiences a hablar de ellos.** Si alguien está restringido, su caso solo les incumbe a ellos y a la administración del juego, ¡a nadie más!
-4. **Anima el juego limpio y no prestes atención a tramposos o usuarios tóxicos.** Estas personas desafortunadamente existen y el prestarles atención solo los incentiva a continuar o incluso provocar a otros a actuar al igual que ellos. Repórtalos a través del comando de chat `!report` o con los botones en su página de perfil y no te molestes con ellos.
-5. **Mantén el chat limpio y apropiado para una comunidad para todas las edades, evitando temas de contenido inapropiado (NSFW) siempre que sea posible.** Contenido inapropiado claramente no es apropiado para una comunidad para todas las edades. Puedes hacer lo que quieras en los chats privados (con mesura, claro), pero mantén los canales públicos limpios por el bien de todos.
-6. **Sé consciente de lo que compartes con otros, especialmente si el contenido es potencialmente perturbador o de naturaleza extremádamente gráfica.** Si tienes que pensarlo dos veces sobre si algo es o no apropiado de enlazar, probablemente no está bien. Evita cosas con luces rápidas y parpadeantes, gore, imágenes de abuso u cualquier otro contenido muy gráfico.
-7. **Mantén los enlaces a sitios legales y adecuados.** Sitios de transmiciones piratas y cualquier cosa relacionada a piratería, como programas pirateados, de cualquier tipo no está bien y no los queremos en nuestro chat (sitios oficialmente licenciados como Animelab y Crunchyroll están bien). Promocionar enlaces de Twitch para otros videojuegos está bien, pero SOLO en `#videogames`.
-8. **No promociones servidores de chat de terceros de ningún tipo, incluyendo servidores/grupos de Discord, Teamspeak o Skype.** El chat de osu! es principalmente sobre osu! y no sobre compartir links a tus servidores personales. Hazlo a través de mensajes privados (MP) si es que tienes que hacerlo.
-9. **En los canales de idiomas específicos, debes hablar el idioma dominante (inglés en `#english`, tailandés en `#thai`, etc) si es que estás participando en alguna discusión.** En el caso que el lenguaje de un canal no sea explícito, este siempre será inglés. Los canales `#lobby` y `#help` pueden ser usados en cualquier idioma, a diferencia de los otros canales. *Miembros del [personal de moderación](/wiki/People/Global_Moderation_Team) no necesitan seguir esta regla, cuando hacen su trabajo.*
+1. **Sé respetuoso y ten en cuenta a los demás usuarios del canal, y evita el flood o el spam**. Una persona ocupando la mitad de la pantalla a la vez es molesto, así que evita hacerlo siempre que sea posible. ¡Los demás también intentan chatear!
+2. **Deja que los moderadores se ocupen de los problemas del chat**. Puedes señalarles cosas con [el comando `!report`](/wiki/Reporting_bad_behaviour) y ellos se encargarán del resto.
+3. **Si alguien ha sido advertido, silenciado o restringido, déjale en paz y no empieces a hablar de él**. Si alguien está restringido, su caso solo le concierne a él y a la administración del juego, ¡a nadie más!
+4. **Fomenta el juego limpio y no prestes atención a los tramposos u otros usuarios tóxicos**. Por desgracia, estas personas existen, y prestarles atención puede animarles a continuar o provocar que otros actúen como ellos. Repórtalos mediante el comando de chat `!report` o con los botones en su página de perfil y sigue adelante.
+5. **Mantén el chat limpio y apropiado para una comunidad de todas las edades, evitando temas NSFW siempre que sea posible**. Los temas NSFW no son apropiados para una comunidad de todas las edades. Haz lo que quieras en los mensajes privados (dentro de lo razonable) pero mantén los canales públicos limpios por el bien de todos.
+6. **Ten cuidado con lo que compartes con los demás, especialmente si el contenido es potencialmente perturbador o muy gráfico**. Si tienes que pensar dos veces si es apropiado enlazar algo, probablemente no lo sea. Evita cosas con luces rápidas y estroboscópicas, gore, imágenes de abusos u otro material gráfico.
+7. **Mantén enlaces a sitios web relevantes y legales**. Los sitios web de streaming ilegales (los que tienen licencia oficial, como Animelab y Crunchyroll, están bien) y cualquier cosa relacionada con «warez» o software pirata de cualquier tipo no están bien, y no los queremos en nuestro chat. Anunciar enlaces de Twitch para otros videojuegos está bien, pero SOLO en `#videogames`.
+8. **No anuncies servidores o grupos de terceros de ningún tipo, incluyendo Discord, Teamspeak o Skype**. El chat de osu! es sobre todo para osu! y no para compartir enlaces a tus servidores personales. Hazlo por MP si es absolutamente necesario.
+9. **En los canales de idiomas específicos, debes hablar el idioma dominante (inglés para `#english`, tailandés para `#thai`, etc.) si estás participando en la discusión**. Cuando el idioma de un canal no se indique explícitamente, será siempre el inglés. Los canales `#lobby` y `#help` pueden utilizarse en cualquier idioma, a diferencia de otros canales. *Los miembros del [personal de moderación](/wiki/People/Global_Moderation_Team) no necesitan seguir esta regla cuando hacen su trabajo.*
 
-## Reglas del Foro
+## Reglas del foro
 
-1. **Publica solo contenido/temas significativos, interesante o de otra forma, atractivos.** Los foros son principalmente sobre discusión, así que asegúrate de esforzarte en hacer que valga la pena el tiempo de todos.
-2. **Mantén tus publicaciones y respuestas adecuadas para personas de todas las edades.** Contenido inapropiado no es apropiado para una comunidad para todas las edades, aunque no hay nada que te detenga de discutir este tipo de cosas en mensajes privados.
-3. **Sé productivo con tus críticas sin tener que recurrir a ataques personales.** La crítica es algo maravilloso cuando se hace de la manera correcta, pero si estás recurriendo a ataques personales para probar tu punto de vista, lo estás haciendo mal y deberías sentirte mal por ello.
-4. **Mantén los hilos (threads) relacionados y evita resucitar temas viejos si la conversación ya ha muerto.** Si un tema ha estado muerto por años, significa que ya no es relevante, así que déjalo esfumarse. Publica uno nuevo, o puedes quizás buscar y ver si alguien ya ha respondido tu pregunta.
-5. **Mantén tus avatares y firmas razonables.** Si son animados, no deberían parpadear o destellar de forma excesiva. También deben tener un tamaño de archivo lo suficientemente pequeño para que usuarios con conecciones más lentas no sientan el efecto en la página, idealmente medio megabyte (500 kilobytes) en lo posible.
-6. **No publiques propaganda, enlaces referenciales o cualquier otro tipo de contenido molesto o intrusivo.** Enlaces afiliados o referenciales son divertidos para quien los publica y una molestia para todos los demás, así que no lo hagas. Contenido adjunto que se cargue o reproduzca de forma automática cae dentro de esta regla también.
-7. **Enlazar a aplicaciones o herramientas de intenciones dudosas no está permitido.** Dicho de forma simple, si hay cualquier duda sobre la legalidad de dichas herramientas, estas no serán bienvenidas como publicaciones.
+1. **Publica solo contenidos/temas significativos, interesantes o atractivos**. Los foros son ante todo debates, así que asegúrate de esforzarte para que merezca la pena el tiempo de todos.
+2. **Mantén tus mensajes y respuestas adecuados para personas de todas las edades**. El contenido NSFW no es apropiado para una comunidad de todas las edades, aunque no hay nada que te impida discutir este tipo de cosas en mensajes privados.
+3. **Sé productivo con tus críticas sin recurrir a ataques personales**. La crítica es algo maravilloso cuando se hace correctamente, pero si estás recurriendo a ataques personales para exponer tu punto de vista, lo estás haciendo mal y deberías sentirte mal.
+4. **Mantén la relevancia de los temas y evita resucitar temas antiguos si la conversación ha muerto**. Si un tema ha estado muerto durante años, ya no es realmente relevante, así que déjalo desaparecer. Publica uno nuevo o busca si alguien ya ha respondido a tu pregunta.
+5. **Mantén tus firmas y avatares razonables**. Si son animados, no deberían parpadear o parpadear excesivamente. Las imágenes también deben tener un tamaño lo suficientemente pequeño como para que los usuarios con conexiones más lentas no sientan su presencia en la página, idealmente menos de medio megabyte (500 kilobytes) siempre que sea posible.
+6. **No publiques anuncios, enlaces de referencia o cualquier otro contenido molesto o intrusivo**. Cosas como los enlaces de afiliados y de referencia son divertidas para la persona que las publica y una molestia para todos los demás, así que no lo hagas. La autocarga o reproducción automática de contenidos/embeds también entra dentro de esta regla.
+7. **No se permite enlazar a aplicaciones o utilidades de intención incierta**. En pocas palabras, si hay alguna duda sobre la legalidad de dichas utilidades, no son bienvenidas.
 
-## Reglas de Envío de Mapas
+## Reglas de envío de beatmaps
 
-*Nota: Estas reglas se aplican a **todos los mapas enviados**, no solamente a los clasificados. Para reglas más específicas relacionadas con los Mapas clasificados, vea los [Criterios de clasificación](/wiki/Ranking_criteria).*
+*Nota: Estas reglas se aplican a **todos los mapas enviados**, no solo a los clasificados. Para reglas más específicas sobre los beatmaps clasificados, consulta los [criterios de clasificación](/wiki/Ranking_criteria).*
 
-Estas reglas aplican estrictamente a los mapas que sean enviados a través del [Sistema de Envío de Mapas](/wiki/Beatmapping/Beatmap_submission) dentro del juego. Estos hilos/discusiones son creados a través del cliente de osu! cuando un mapa es enviado a través del [editor](/wiki/Client/Beatmap_editor).
+Estas reglas se aplican estrictamente a los beatmaps enviados a través del [sistema de envío de beatmaps](/wiki/Beatmapping/Beatmap_submission) del juego. Estos hilos/discusiones se crean a través del cliente de osu! cuando se envía un beatmap a través del [editor](/wiki/Client/Beatmap_editor).
 
-1. **Asegúrate de que tienes permiso de usar cualquier tipo de contenido involucrado en tu mapa.** Esto incluye canciones, vídeos, hitsounds, arte gráfico y cualquier otro contenido que no sea de tu propia creación. Si no estás seguro de dónde encontrar contenido que sea de uso libre, dale un vistazo a nuestra librería en crecimiento de pistas de [Artistas Destacados](https://osu.ppy.sh/beatmaps/artists/) 100% licenciadas para su uso en osu! y a las [Directrices del Uso de Contenido](Content_Usage_Guidelines) para más información.
-2. **Mantén el tema en las [discusiones de mapas](/wiki/Beatmap_discussion).** Estos hilos/discusiones son acerca del mapa en cuestión y de nada más. Si tienes algún problema con algo que no esté directamente relacionado con el mapa, publícalo en el foro apropiado.
-3. **No plagies o intentes robar el trabajo de otros.** Tampoco subas o uses el trabajo de otros sin su permiso explícito (incluyendo, pero no limitado a skins y dificultades de invitados).
-4. **Sigue las [Reglas de Contenido de Canciones](Song_Content_Rules) y las [Consideraciones de Contenido Visual](Visual_Content_Considerations).**
+1. **Asegúrate de que tienes permiso para utilizar cualquier contenido incluido en tu beatmap**. Esto incluye canciones, vídeos, hitsounds, gráficos y cualquier otro contenido que no sea tu propia creación. Si no estás seguro de dónde encontrar contenido de uso libre, echa un vistazo a nuestra creciente biblioteca de [artistas destacados](https://osu.ppy.sh/beatmaps/artists) para encontrar música 100 % autorizada para su uso en osu! y a las [pautas de uso del contenido](Content_usage_guidelines) para más información.
+2. **Mantente dentro del tema en [discusiones de beatmaps](/wiki/Beatmap_discussion)**. Estos hilos/discusiones tratan sobre el beatmap en cuestión, y nada más. Si tienes algún problema con algo que no tenga que ver directamente con el beatmap, publícalo en el foro apropiado.
+3. **No plagies ni intentes robar el trabajo de otros**. Tampoco subas ni uses el trabajo de otras personas sin su permiso explícito (incluidos, entre otros, skins y dificultades de invitados).
+4. **Sigue las [reglas del contenido de canciones](Song_content_rules) y las [consideraciones de contenido visual](Visual_content_considerations)**.
 
-## ¿Qué pasa si rompo las reglas?
+## ¿Qué ocurre si incumplo las reglas?
 
-Si te encuentras en el lado equivocado de nuestras reglas de comunidad, cosas malas pasarán.
+Si te encuentras en el lado equivocado de las reglas de nuestra comunidad, pasarán cosas malas.
 
-Estas cosas malas pueden incluir (*pero no se limitan a*):
+Estas cosas malas pueden incluir (*pero no están limitadas a*):
 
-- La eliminación de tu habilidad para hablar en el chat dentro del juego por un periodo de tiempo (conocido como [silencio](/wiki/Silence)).
-- La eliminación de cualquier contenido infractor de tu página de usuario, perfil o mapas subidos.
-- La pérdida del privilegio de editar o modificar tu página de usuario o detalles de perfil.
-- La pérdida del privilegio de jugar o calificar en torneos oficiales.
+- La eliminación de tu capacidad para chatear en el juego durante un periodo de tiempo (conocido como [silencio](/wiki/Silence)).
+- La eliminación de cualquier contenido infractor de tu página de usuario, perfil o beatmaps subidos.
+- La pérdida del privilegio de editar o modificar tu página de usuario o los detalles de tu perfil.
+- La pérdida del privilegio de jugar o clasificarte en torneos organizados oficialmente.
 
-Los [silencios](/wiki/Silence) y otras infracciones van incrementando **automáticamente** en duración casi exponencialmente con cada infracción. Los moderadores no controlan la cantidad de tiempo que eres silenciado por alguna ofensa. Los ofensores reincidentes se encontrarán bloqueados fuera del juego por periodos de tiempo incrementalmente mayores.
+Los [silencios](/wiki/Silence) y otras infracciones **aumentan automáticamente** su duración de forma casi exponencial con cada infracción. Los moderadores no controlan la duración del silencio por una infracción, los infractores reincidentes se encontrarán bloqueados del juego durante periodos de tiempo cada vez más largos.
 
-Ciertas ofensas conllevan una duración mínima (usualmente 48 horas o más) si es que son particularmente severas, aunque son casi exclusivamente reservadas para infracciones severas, como compartir contenido gráfico o acoso sin arrepentimiento de otros usuarios.
+Ciertas infracciones conllevan una duración mínima (normalmente 42 horas o más) si son especialmente graves, aunque se reservan casi exclusivamente para infracciones graves, como compartir contenido gráfico o acosar sin remordimientos a otros usuarios.
 
-Si después de varias infracciones, continuas rompiendo las reglas, tu cuenta puede ser [permanente e irrevocablemente restringida](/wiki/Help_centre/Account_restrictions).
+Si tras varias infracciones sigues incumpliendo las reglas, tu cuenta puede ser [restringida de forma permanente e irrevocable](/wiki/Help_centre/Account_restrictions).
 
-Las cuentas restringidas no pueden jugar en línea, establecer puntajes, conversar con otros usuarios y son, para todas las intenciones y propósitos, 'prohibidos' de interactuar con la comunidad. Las restricciones por violación de reglas de la comunidad solo pueden ser removidas a través de una apelación al personal del juego luego de que hayan pasado 3 meses ([más condiciones pueden aplicar](/wiki/Help_centre/Account_restrictions#reasons)).
+Las cuentas restringidas no pueden jugar en línea, establecer puntuaciones, chatear con otros usuarios y, a todos los efectos, tienen «prohibida» la interacción con la comunidad. La restricción por infracción de las reglas de la comunidad solo puede eliminarse tras apelar al personal de soporte una vez transcurridos 3 meses ([pueden aplicarse más condiciones](/wiki/Help_centre/Account_restrictions#reasons)).
 
-Ofensas severas que van mucho más allá del alcance de nuestras reglas y dentro de la jurisdicción de contenido ilegal según la ley internacional común, resultará en la terminación inmediata de la cuenta. Esto aplica casi exclusivamente a ofensas extremadamente gráficas o de cualquier otra forma aborrecible, como la distribución de pornografía infantil u cualquier otro material de abuso.
+Las infracciones graves que superen con creces el ámbito de aplicación de nuestras reglas y entren en la jurisdicción de los contenidos ilegales según el derecho consuetudinario internacional darán lugar a la cancelación inmediata de la cuenta. Esto se aplica casi exclusivamente a los delitos extremadamente gráficos o aborrecibles, como la distribución de pornografía infantil u otro material de abuso.

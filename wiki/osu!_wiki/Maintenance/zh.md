@@ -1,3 +1,8 @@
+---
+outdated_since: a0e4364edc5b689e3699ec76cbaa28f81a4597c9
+outdated_translation: true
+---
+
 # osu! wiki 维护
 
 *参见：[osu! wiki 贡献指南](/wiki/osu!_wiki/Contribution_guide)*
@@ -40,7 +45,7 @@ osu! wiki 的[问题跟踪](https://github.com/ppy/osu-wiki/issues)包含了对�
 
 当给新或现有的文章添加重定向时，请记住它们应该简明扼要，并需要考虑到实际使用的效果。
 
-### CI 检查
+### CI 检查 {id=ci-checks}
 
 osu! wiki 仓库使用[持续集成](https://docs.github.com/zh/actions/automating-builds-and-tests/about-continuous-integration) (CI) 来自动检查传入的拉取请求 (PR) 中的各种常见错误。检查列表在 [`continuous-integration.yml`](https://github.com/ppy/osu-wiki/blob/master/.github/workflows/continuous-integration.yml) 文件中配置。
 
@@ -63,8 +68,8 @@ CI 检查通常会阻止含有错误的拉取请求 (PR) 被合并。然而，�
 
 | # | 检查 | 工具 | 解释 | 忽略方法 |
 | :-: | :-- | :-- | :-- | :-- |
-| 1 | 文件大小 | [`scripts/ci/inspect_file_sizes.sh`](https://github.com/ppy/osu-wiki/blob/master/scripts/ci/inspect_file_sizes.sh) | 检查图片文件是否小于[新闻文章和 wiki 文章的文件大小限制](/wiki/Article_styling_criteria/Formatting#文件大小) (1 MB)。如果超过 0.5 MB，则会警告。 | 无。 |
-| 2 | Markdown | [`scripts/ci/run_remark.sh`](https://github.com/ppy/osu-wiki/blob/master/scripts/ci/run_remark.sh) 附加的[标签](https://github.com/remarkjs/remark) | 检查 wiki 文章和新闻帖中的 Markdown 语法是否正确和一致。 | 在违规行之上添加 `<!-- lint ignore 规则名 -->`，`规则名` 是需要忽略的规则。 |
+| 1 | 文件大小 | [`meta/check-file-sizes.sh`](https://github.com/ppy/osu-wiki/blob/master/meta/check-file-sizes.sh) | 检查图片文件是否小于[新闻文章和 wiki 文章的文件大小限制](/wiki/Article_styling_criteria/Formatting#文件大小) (1 MB)。如果超过 0.5 MB，则会警告。 | 无。 |
+| 2 | Markdown | [`meta/remark.sh`](https://github.com/ppy/osu-wiki/blob/master/meta/remark.sh) 附加的[标签](https://github.com/remarkjs/remark) | 检查 wiki 文章和新闻帖中的 Markdown 语法是否正确和一致。 | 在违规行之上添加 `<!-- lint ignore 规则名 -->`，`规则名` 是需要忽略的规则。 |
 | 3 | YAML | [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) 的 `check-yaml` 指令 | 检查 [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml) 和文件[前言部分](/wiki/Article_styling_criteria/Formatting#前言)的 YAML 语法是否正确。 | 无。 |
 | 4 | 失效的 wiki 链接 | [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) 的 `check-links` 指令 | 检查内部 [wiki 链接](/wiki/Article_styling_criteria/Formatting#wiki-链接)是否指向实际存在的文章、新闻帖（对于新闻帖内链）或这些文章的一部分内容。 | 在拉取请求描述的任意地方添加 `SKIP_WIKILINK_CHECK`。 |
 | 5 | 过时翻译 | [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) 的 `check-outdated-articles` 指令 | 检查只更新英文文章时，是否将对应的其他语言的翻译文章[标记为过时](/wiki/Article_styling_criteria/Formatting#过时翻译文章)。 | 在拉取请求描述的任意地方添加 `SKIP_OUTDATED_CHECK`。 |

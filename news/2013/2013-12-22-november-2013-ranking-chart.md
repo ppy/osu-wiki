@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "November 2013 Ranking Chart"
+title: November 2013 Ranking Chart
 date: 2013-12-22 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/70815393190/november-2013-ranking-chart
 ---

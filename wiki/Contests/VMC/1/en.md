@@ -8,7 +8,7 @@ tags:
 
 ![VMC banner](/wiki/Contests/VMC/1/img/banner.jpg)
 
-The **Vocaloid Mapping Contest** (***VMC***) is a beatmapping contest all about promoting VOCALOID, UTAU, and other vocal synth songs and artists that have fallen through the cracks. Mappers were tasked with creating the best beatmap possible, and then having them judged by some of the most prominent VOCALOID mappers in the community. 
+The **Vocaloid Mapping Contest** (***VMC***) is a beatmapping contest all about promoting VOCALOID, UTAU, and other vocal synth songs and artists that have fallen through the cracks. Mappers were tasked with creating the best beatmap possible, and then having them judged by some of the most prominent VOCALOID mappers in the community.
 
 ## Contest schedule
 
@@ -63,7 +63,7 @@ All participating mappers received constructive feedback from some of the most w
 
 | Position | Points | Description |
 | :-- | --: | :-- |
-| Relevance | 30 |  How well does the map fit the song? Do the elements of the map match the elements of the song, and is the map fundamentally inseparable from the song it is paired with? |
+| Relevance | 30 | How well does the map fit the song? Do the elements of the map match the elements of the song, and is the map fundamentally inseparable from the song it is paired with? |
 | Creativity | 25 | How unique and outstanding is the map and the elements within it compared to the current mapping meta? How well does it stand out from the crowd? Does it evoke a feeling of "wow!", "that's cool!", or "that's super interesting!"? Generic mapping that copies the current mapping meta or concepts from other famous maps is discouraged. |
 | Expertise | 20 | This refers to how well the map executes the elements it presents, encompassing the technical skills of the mapper, as well as the map's consistency, structure, and style. Judges will score this entry considering the overarching picture of the map, and will avoid nitpicking small details. |
 | Overall Impression | 20 | The VOCALOID mappers participating as judges for this contest will all have personal biases with regard to how these songs are mapped. The judges will provide comments regarding the score they give. |
@@ -79,4 +79,17 @@ Five (5) songs were selected from the Featured Artist library. These songs were 
 | [Omoi](https://osu.ppy.sh/beatmaps/artists/104) - Ohne Herz | 3:26 | 210 | [.osz](https://assets.ppy.sh/artists/104/osz/Omoi%20-%20Ohne%20Herz.osz) |
 | [MuryokuP](https://osu.ppy.sh/beatmaps/artists/120) - My Savior | 2:49 | 190 | [.osz](https://assets.ppy.sh/artists/120/Unfinished%20Eden/MuryokuP%20-%20My%20Savior.osz) |
 | [Yunosuke](https://osu.ppy.sh/beatmaps/artists/244) - Ziqqurat | 3:52 | 163 | [.osz](https://assets.ppy.sh/artists/244/Ziqqurat/Yunosuke%20-%20Ziqqurat.osz) |
-| [Rohi](https://osu.ppy.sh/beatmaps/artists/82) - Hitotsu no Chikai yo, Eien no Uta to Nare | 3:39 | 225 | [.osz](https://assets.ppy.sh/artists/82/osz/Rohi%20-%20Hitotsu%20no%20Chikai%20yo,%20Eien%20no%20Uta%20to%20Nare.osz) |
+| [Rohi](https://osu.ppy.sh/beatmaps/artists/82) - Hitotsu no Chikai yo, Eien no Uta to Nare | 2:35 | 130 | [.osz](https://assets.ppy.sh/artists/82/osz/Rohi%20-%20Hitotsu%20no%20Chikai%20yo,%20Eien%20no%20Uta%20to%20Nare.osz) |
+
+## Results
+
+| Rank | Mapper | Anonymised map name | Raw score (600) | Standardised score |
+| :-: | :-- | :-- | :-- | :-- |
+| #1 | [Meijiro McQueen](https://osu.ppy.sh/users/11555612) | grew forth | 478 | **6.7** |
+| #2 | [Pho](https://osu.ppy.sh/users/3624692) | near student | 476 | **6.1** |
+| #3 | [Rorupan L9](https://osu.ppy.sh/users/9471638) | heading save | 458 | **5.2** |
+| Honorable Mention | [AndAda](https://osu.ppy.sh/users/10574844) | old hang | 458 | **4.7** |
+
+Get the maps and see detailed scores and judge comments for all the entries [here](https://mappersguild.com/contests/results?contest=647aee2825010a34c8badd15).
+
+Results were livestreamed on the [VAT Twitch Channel](https://www.twitch.tv/vocaloidappreciationteam), along with judge commentary, Judge Favorites, and more.

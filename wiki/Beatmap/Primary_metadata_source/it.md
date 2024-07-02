@@ -14,4 +14,4 @@ Una **sorgente di metadati primaria** è una sorgente per i campi `Artista`, `Ti
 
 Un sito web di un artista, quello della sua etichetta, scansioni CD, e i caricamenti ufficiali su siti web come Bandcamp, YouTube, e SoundCloud sono considerati sorgenti primarie per i metadati delle beatmap. I siti di terza parte come wiki, database (vndb, vgmdb, etc.), e piattaforme musicali (Spotify, iTunes, Amazon, etc.) non sempre riflettono l'intenzione dell'artista, perciò non devono essere trattate come sorgenti primarie.
 
-Per le beatmap che ambiscono alla categoria [Classificate](/wiki/Beatmap/Category#classificate) è necessario utilizzare metadati da una sorgente primaria. Vedi i [Criteri di classificazione](/wiki/Ranking_criteria#metadata) per più regole e linee guida riguardo i metadati delle beatmap.
+Per le beatmap che ambiscono alla categoria [Classificate](/wiki/Beatmap/Category#ranked) è necessario utilizzare metadati da una sorgente primaria. Vedi i [Criteri di classificazione](/wiki/Ranking_criteria#metadata) per più regole e linee guida riguardo i metadati delle beatmap.

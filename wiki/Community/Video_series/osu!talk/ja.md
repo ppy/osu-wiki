@@ -18,7 +18,7 @@
 | 6 | [JAKACHAN](https://osu.ppy.sh/users/718696) | Pro osu! player | [Link](https://www.youtube.com/watch?v=WXFMggx94e0) |
 | 7 | [Daru](https://osu.ppy.sh/users/32480) | osu!painter | [Link](https://www.youtube.com/watch?v=eBFaLRXmfYc) |
 | 8 | [peppy](https://osu.ppy.sh/users/2) | osu!creator | [Link](https://www.youtube.com/watch?v=x7vdW5uZutU) |
-| 9 | [Cyclone](https://osu.ppy.sh/users/18589) | Retired player/team member  | [Link](https://www.youtube.com/watch?v=jPUSY0FMw2E) |
+| 9 | [Cyclone](https://osu.ppy.sh/users/18589) | Retired player/team member | [Link](https://www.youtube.com/watch?v=jPUSY0FMw2E) |
 | 10 | [thelewa](https://osu.ppy.sh/users/475021) | Pro osu! player | [Link](https://www.youtube.com/watch?v=N7P-J-5LJzk) |
 | 11 | [WubWoofWolf](https://osu.ppy.sh/users/39828) | Pro osu! player | [Link](https://www.youtube.com/watch?v=XYzKlfvQt-w) |
 | 12 | [Ephemeral](https://osu.ppy.sh/users/102335) | Retired team manager | [Link](https://www.youtube.com/watch?v=eXWmjo0-oyM) |

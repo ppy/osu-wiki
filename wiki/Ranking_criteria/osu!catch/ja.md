@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 3ed5f88691b52de8c58e362fa8671ee6903d6ecc
+---
+
 # osu!catch ranking criteria
 
 ***注意：この記事は[一般的なランキング基準](/wiki/Ranking_criteria)の拡張版です。***
@@ -53,7 +58,7 @@
 
 ### 難易度の名前 (Difficulty names)
 
-*メイン記事： [Difficulty Naming](/wiki/Ranking_criteria/Difficulty_naming)*
+*メイン記事： [難易度名](/wiki/Ranking_criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-c.png?20211215) Cup
 - ![](/wiki/shared/diff/normal-c.png?20211215) Salad

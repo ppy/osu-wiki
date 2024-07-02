@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Skin Showcase - Catch the Beat Special"
+title: Skin Showcase - Catch the Beat Special
 date: 2014-05-23 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/86623206423/skin-showcase-catch-the-beat-special
 ---

@@ -4,7 +4,7 @@ La **descripción del beatmap** es un área pequeña debajo de la página de un 
 
 ## Usos e información
 
-Las descripciones populares de beatmaps [clasificados](/wiki/Beatmap/Category#clasificados), a menudo, incluyen lo siguiente:
+Las descripciones populares de beatmaps [clasificados](/wiki/Beatmap/Category#ranked), a menudo, incluyen lo siguiente:
 
 - Una lista de todas las [dificultades de invitados](/wiki/Beatmap/Guest_difficulty) y sus creadores
 - Información que ayudaría a un jugador a decidir si quiere descargar el beatmap o no

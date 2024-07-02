@@ -26,6 +26,7 @@ Sustained behaviour in conflict with these expectations is grounds for dismissal
 - Beatmap Nominators are expected to stay below a maximum number of nominations over any 90-day period, with each mode having its own nomination cap. Exceeding this amount will lead to a warning, followed by a removal if they fail to manage their activity accordingly.
   - osu!, osu!catch, osu!mania: 75 unique nominations.
   - osu!taiko: 100 unique nominations.
+- Beatmap Nominators returning on good terms are expected to reach their mode's minimum activity requirements in the first 30 days since their rejoin. Staying inactive during this period of time may result in a warning or a removal, which will be evaluated on a case-by-case basis.
 
 ### Requirements
 
@@ -38,13 +39,6 @@ Each mode has its own required minimum for monthly activity.
 | osu!, osu!taiko | 3 nominations |
 | osu!catch, osu!mania[^multi-key-mode] | 2 nominations |
 | Hybrid | 3 nominations, with at least 1 per proficient game mode |
-
-Probationary Beatmap Nominators are expected to meet different activity requirements in order to better showcase their capabilities to the NAT, and if they fail to do so in their first month of probation, their probation will automatically be extended by another month in order to allow them to meet said requirements.
-
-| Game mode | Requirement |
-| :-- | :-- |
-| osu, osu!taiko | 6 nominations |
-| osu!catch, osu!mania[^multi-key-mode] | 4 nominations |
 
 ## Nomination
 
@@ -79,9 +73,9 @@ Probationary Beatmap Nominators are expected to meet different activity requirem
 Please see the [beatmap veto](/wiki/People/Beatmap_Nominators/Beatmap_Veto) page for full information on the veto process.
 
 - **Do not veto beatmaps of game modes you are not formally qualified for.** You are not allowed to nominate them so blocking a nomination without the ability to renominate the beatmap makes no sense. This does not apply to vetoes regarding audio, backgrounds, or other content that does not directly pertain to the beatmap's game mode.
-- **You can veto a nominated/qualified beatmap by posting the issues you think need to be addressed before reaching Ranked status in the form of problems in the respective modding discussion.** This will reset all nominations the beatmap has received and thereby stop it from proceeding to Ranked. Other nominators will be unable to nominate it again until the veto is lifted. The veto post must include a clear problem and reasoning for stopping the ranking process of the beatmap. You must participate in the resulting discussion and attempt to reach a mutual agreement.
+- **You can veto a beatmap by posting the issues you think need to be addressed before reaching Ranked status in the form of problem stamps in the respective modding discussion.** This will reset any nominations the beatmap has received and thereby stop it from proceeding to Ranked. Other nominators will be unable to nominate it again until the veto is lifted. The veto post must include a clear problem and reasoning for stopping the ranking process of the beatmap. You must participate in the resulting discussion and attempt to reach a mutual agreement.
 - **Do not veto for unrankables.** Unrankables imply that no other nominator should nominate and that the mapper has no other choice but to fix it, in the same way an upheld veto works.
-- **Do not nominate vetoed beatmaps.** The only exception is if the respective vetoing nominator agrees to that action. A beatmap can have its veto dismissed if the mapper or vetoing nominator requests a mediation and the jury decides that the veto is unnecessary or detrimental.
+- **Do not nominate vetoed beatmaps.** A beatmap must have its veto dismissed before renomination, which can happen if the vetoing nominator decides to lift the veto following a satisfactory discussion or appropriate changes to the beatmap, or if the mapper or vetoing nominator requests a mediation and the jury decides that the veto is unnecessary or invalid.
 
 ## Notes
 

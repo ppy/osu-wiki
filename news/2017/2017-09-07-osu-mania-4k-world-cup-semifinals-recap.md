@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!mania 4K World Cup - Semifinals Recap"
+title: osu!mania 4K World Cup - Semifinals Recap
 date: 2017-09-07 14:00:00 +0000
 ---
 

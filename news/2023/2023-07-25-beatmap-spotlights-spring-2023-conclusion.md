@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Beatmap Spotlights Spring 2023 Conclusion"
+title: Beatmap Spotlights Spring 2023 Conclusion
 date: 2023-07-25 13:00:00 +0000
 ---
 

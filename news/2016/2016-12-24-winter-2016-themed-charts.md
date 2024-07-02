@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Winter 2016 Themed Charts"
+title: Winter 2016 Themed Charts
 date: 2016-12-24 13:31:35 +0000
 tumblr_url: http://osunews.tumblr.com/post/154892286088/winter-2016-themed-charts
 ---

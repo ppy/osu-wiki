@@ -6,7 +6,7 @@ tags:
 
 # TAG2 Tournament 2019
 
-![T2T 2019 logo](img/logo.png)
+![T2T 2019 logo](img/logo.jpg)
 
 The **TAG2 Tournament 2019** (***T2T 2019***) was an international Tag Team VS. tournament hosted by ::{ flag=FI }:: [Mara](https://osu.ppy.sh/users/194294) and ::{ flag=GB }:: [Malteser](https://osu.ppy.sh/users/5218178). It was the third instalment of the TAG Tournament series. The tournament followed on from ::{ flag=NL }:: [Tayo](https://osu.ppy.sh/users/8910355)'s two previous TAG Tournaments: [T4T 2017](https://osu.ppy.sh/community/forums/topics/624941) and [T4T 2018](https://osu.ppy.sh/community/forums/topics/789136).
 

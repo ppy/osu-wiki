@@ -54,7 +54,7 @@ All of the above plus a few more can be found over at the candy store that is [*
 
 Lots of people picked out this week's hint! Not too surprising given how popular **Umeboshi Chazuke** is, but in any case, tweeters @cyndrean, @OsuBeard, @AwokenFS, @Leebs\_\_, @clefie, @Rentra_, @aeima17, @MeritOnOsu and @kanocchi\_\_ nailed it. Special points go to @cyndrean and @OsuBeard who *explained* the hint in full. Real Beatmap Nominator material, these two.
 
-We march ever closer on to the completely arbitrary (but still impressive) milestone of 100 Featured Artists, just a paltry two weeks away. Crazy to think about just how much the project has grown in these past two years — spare a thought for your local neighborhood pishifat, who as always, continues to go absolutely hog wild with his outreach efforts. 
+We march ever closer on to the completely arbitrary (but still impressive) milestone of 100 Featured Artists, just a paltry two weeks away. Crazy to think about just how much the project has grown in these past two years — spare a thought for your local neighborhood pishifat, who as always, continues to go absolutely hog wild with his outreach efforts.
 
 Keep in the know by following the [@osugame Twitter](https://twitter.com/osugame) for more tidbits and details, and until next week, enjoy! Oh, and if you missed it, [we've updated a whole bunch of existing Featured Artists with new tracks too](https://osu.ppy.sh/home/news/2020-09-04-new-featured-artist-updates-september-2020), so make sure to check that out if you haven't already.
 

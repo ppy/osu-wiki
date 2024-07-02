@@ -17,8 +17,8 @@ As usual, we would like to thank everyone for your participation in the December
 - [Results for osu!catch](https://osu.ppy.sh/community/forums/posts/8453093)
 - [Results for osu!mania](https://osu.ppy.sh/community/forums/posts/8453092)
 
-In January, we've had no new additions to the team, so we'd like to use this space to celebrate this new year with you. The team wishes you the best for this new year and we sincerely thank you all for your continuous love and support. Keep being amazing! 
- 
+In January, we've had no new additions to the team, so we'd like to use this space to celebrate this new year with you. The team wishes you the best for this new year and we sincerely thank you all for your continuous love and support. Keep being amazing!
+
 Without any further delay, let's move onto this month's picks!
 
 ### Navigation
@@ -465,10 +465,10 @@ The reason? As the metagame changes and the community grows, more and more maps 
 
 ---
 
-From everyone on the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team), we hope you enjoyed this month's selections and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end. 
+From everyone on the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team), we hope you enjoyed this month's selections and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end.
 
 If you would like to submit maps to be considered for future votes, you may do so by filling out [this form](https://loved.sh/submit) and if you wish to view currently submitted maps, you can check them on [the Project Loved website](https://loved.sh/submissions/).
 
-See you next month! 
+See you next month!
 
 —Panacotta

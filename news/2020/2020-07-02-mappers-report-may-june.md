@@ -30,7 +30,7 @@ As every month we keep you up to date with the changes to the Ranking Criteria. 
 
 - **[Intuitive Reverse Arrow Movement](https://osu.ppy.sh/community/forums/topics/1033709?start=unread):** Reverse Arrows now have to point into the direction in which the slider ball moves after hitting it.
 - **[Restrictions on "accelerating" sliders](https://osu.ppy.sh/community/forums/topics/1060629?n=1):**  A small clarification that the slider path has to be visible at all times.
-- **[Circle size](https://osu.ppy.sh/community/forums/topics/1082308):** You asked for it and here it is! It's been a long time since there was a ranked map with a circle size higher than 7. Now we will hopefully see some more coming soon! 
+- **[Circle size](https://osu.ppy.sh/community/forums/topics/1082308):** You asked for it and here it is! It's been a long time since there was a ranked map with a circle size higher than 7. Now we will hopefully see some more coming soon!
 
 ### osu!catch
 
@@ -69,7 +69,7 @@ The Beatmap Nominators never rest, the Beatmap Nominators never sleep. Just kidd
 - **osu!catch:** [Baron](https://osu.ppy.sh/users/10286499), [Secre](https://osu.ppy.sh/users/2306637) & [Bastian](https://osu.ppy.sh/users/6345176)
 - **osu!mania:** [Kyousukee](https://osu.ppy.sh/users/8842107), [Shima Rin](https://osu.ppy.sh/users/6089608), [Garalulu](https://osu.ppy.sh/users/757783) & [Muse Dash](https://osu.ppy.sh/users/13695676)
 
-Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator! The applications are always open. 
+Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator! The applications are always open.
 
 Head over to the [Beatmap Nominator website](https://bn.mappersguild.com/) and apply today!
 
@@ -82,9 +82,9 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com/) and a
 
 ### BN and QAT/NAT Badges
 
-Recently, a new wave of badges acknowledging the time which group members have put into beatmap management teams arrived! Those who are on this list have been contributing to the community in so many ways during their time on osu!, and fully deserve this acknowledgement. 
+Recently, a new wave of badges acknowledging the time which group members have put into beatmap management teams arrived! Those who are on this list have been contributing to the community in so many ways during their time on osu!, and fully deserve this acknowledgement.
 
-We are thankful for all their contributions and hope to see much more in the future! 
+We are thankful for all their contributions and hope to see much more in the future!
 
 Here is the list of everyone who received a badge this past session:
 
@@ -128,7 +128,7 @@ However, some of his other maps that haven't taken the spotlight unlike the othe
 
 Other maps of his that definitely deserve more of a spotlight are [cYsmix - Classic Pursuit](https://osu.ppy.sh/beatmapsets/730295#mania/2235782), which features more LN layering schemes, SVs, inverses, and jacks, all of which hold up the map together beautifully.
 
-Another map of his, [Husky - Sleepy Boi](https://osu.ppy.sh/beatmapsets/807991#mania/1695651) mainly focuses on jacks and SVs while emphasizing the song's focus on repetition to create a formidable challenge, providing a throwback to his older jacks-oriented mapping style in the process. 
+Another map of his, [Husky - Sleepy Boi](https://osu.ppy.sh/beatmapsets/807991#mania/1695651) mainly focuses on jacks and SVs while emphasizing the song's focus on repetition to create a formidable challenge, providing a throwback to his older jacks-oriented mapping style in the process.
 
 We hope to see more of his work in the future as he's definitely quite the anomaly in the mapping scene!
 
@@ -136,13 +136,13 @@ We hope to see more of his work in the future as he's definitely quite the anoma
 
 Despite not being around for long, **[Ticle](https://osu.ppy.sh/users/11602148)** has been able to develop an explosive style of LN mapping. Their takes on electronic tracks are heavily expressive and intuitive, yet come with a particular level of detail and rigidity. The end results are highly addictive LN maps for both players and mappers alike! Recently, they have been able to gain attention with their debut in the loved section [tomatoism – UMP9](https://osu.ppy.sh/beatmapsets/970727#mania/2032725). However, we believe that is just the beginning of their showcase-worthy mapping career.
 
-An example of a map which demonstrates this is their rendition of [Sta - 99 Glooms](https://osu.ppy.sh/beatmapsets/961775#mania/2013908). Its liberal usage of flams and more detailed interpretation of the track's various piano and synth are what really take it a step above the rest. Another notable work of theirs is [sasakure.UK - Jack-the-Ripper](https://osu.ppy.sh/beatmapsets/1130177#mania/2360897), a map featuring complex timing and even more complex representation of the track's guitar sounds. 
+An example of a map which demonstrates this is their rendition of [Sta - 99 Glooms](https://osu.ppy.sh/beatmapsets/961775#mania/2013908). Its liberal usage of flams and more detailed interpretation of the track's various piano and synth are what really take it a step above the rest. Another notable work of theirs is [sasakure.UK - Jack-the-Ripper](https://osu.ppy.sh/beatmapsets/1130177#mania/2360897), a map featuring complex timing and even more complex representation of the track's guitar sounds.
 
 We hope to see Ticle's maps gain more traction as they are definitely worth a shot for any LN enthusiast!
 
 ## Mapping Contests
 
-Get your editor ready. The mapping contests are here! Whether you are a veteran or making your first steps in mapping, contests are for everyone! 
+Get your editor ready. The mapping contests are here! Whether you are a veteran or making your first steps in mapping, contests are for everyone!
 
 In this section you can see what contests were held in May and June or are ongoing:
 
@@ -176,23 +176,23 @@ Voting closes in less than 4 days from the date of this post, so get in quick!
 
 ### 2020 osu!catch Mapping World Cup
 
-Fruit catchers, now's your chance! 
+Fruit catchers, now's your chance!
 
-The [2020 osu!catch Mapping World Cup](https://osu.ppy.sh/community/forums/topics/1089125) has arrived! In its 2nd edition, the best osu!catch mappers from ten countries will compete against each other in a round based elimination format to decide who is the best of the best. 
+The [2020 osu!catch Mapping World Cup](https://osu.ppy.sh/community/forums/topics/1089125) has arrived! In its 2nd edition, the best osu!catch mappers from ten countries will compete against each other in a round based elimination format to decide who is the best of the best.
 
-Will the Philippines be able to defend their title or will we see a new country as the osu!catch mapping champion? 
+Will the Philippines be able to defend their title or will we see a new country as the osu!catch mapping champion?
 
 We will surely keep you up to date on the results as things unfold!
 
 ### Mapping Weekend #7
 
-Coming soon to a Cozy Mappers' Café near you is the latest contest in their series of mapping weekend contests! 
+Coming soon to a Cozy Mappers' Café near you is the latest contest in their series of mapping weekend contests!
 
 The Mapping Weekend contest series has been running for a while in the Cozy Mappers' Café Discord server, and it's still going strong! For full information, check out the **[forum post](https://osu.ppy.sh/community/forums/topics/1098409)**.
 
-When the contest begins this Sunday, a theme and 3 to 4 songs will be revealed for mappers to try out mapping. Once the contest begins and the songs are released, applicants will have around 5 days to create and submit their entries. 
+When the contest begins this Sunday, a theme and 3 to 4 songs will be revealed for mappers to try out mapping. Once the contest begins and the songs are released, applicants will have around 5 days to create and submit their entries.
 
-After this, entries will be judged based off the map's structure, creativity, relevancy, hitsounds, and the impression of the judges. The best entries for each song will receive a month of osu!supporter in addition to the judge feedback on their entries and special perks in their Discord server. 
+After this, entries will be judged based off the map's structure, creativity, relevancy, hitsounds, and the impression of the judges. The best entries for each song will receive a month of osu!supporter in addition to the judge feedback on their entries and special perks in their Discord server.
 
 Be sure to check it out!
 
@@ -206,9 +206,9 @@ So what are you waiting for, grab the pre-timed .osz and join in! You could win 
 
 ---
 
-Are there any other mapping contests going on? Or being announced soon? Please let us know! We would love to give them more attention to the public. No matter if it's mode or language specific. 
+Are there any other mapping contests going on? Or being announced soon? Please let us know! We would love to give them more attention to the public. No matter if it's mode or language specific.
 
-Head over to the [forum post](https://osu.ppy.sh/community/forums/topics/1027590) where you can find the submission form for them, and help us keep abreast of the latest competitions going on! 
+Head over to the [forum post](https://osu.ppy.sh/community/forums/topics/1027590) where you can find the submission form for them, and help us keep abreast of the latest competitions going on!
 
 ## Around the Community
 
@@ -224,7 +224,7 @@ To access this fancy new wizardry, go into the beatmap discussion of any beatmap
 
 Now you can mod in a format that lets you control what order the mod is read in, which is very useful for reoccurring or bigger issues in maps. Be sure to check out all the features which the current modding system offers to you!
 
-Do you think it could be better or something is still missing? Or did you find a bug in it? The developers would love to hear your feedback! Come join the [osu!dev Discord server](https://discord.gg/ppy) and join the discussion about the review system in the #modding channel! 
+Do you think it could be better or something is still missing? Or did you find a bug in it? The developers would love to hear your feedback! Come join the [osu!dev Discord server](https://discord.gg/ppy) and join the discussion about the review system in the #modding channel!
 
 ### The osu!wiki needs you!
 

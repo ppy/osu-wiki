@@ -8,7 +8,7 @@ osu!catch, anciennement connu sous le nom de *Catch the Beat* ou *CtB*, est un m
 
 ### Sélection des beatmaps
 
-Pour accéder au mode de jeu osu!catch, appuyez simultanément sur les touches `Ctrl`+`3`.
+Pour accéder au mode de jeu osu!catch, appuyez simultanément sur les touches `Ctrl` + `3`.
 
 Vous pouvez aussi cliquer sur le bouton `Mode` et sélectionner `osu!catch`
 
@@ -64,9 +64,9 @@ En ramassant l'hyperfruit, le catcher verra sa vitesse passer à *hyperdash* (ju
 
 ### Contrôle du catcher
 
-- Par défaut, les touches fléchées gauche `<-`(L) et droite `->`(R) pour déplacer le catcher.
-- Appuyez et maintenez la touche `leftShift`(D) avec l'une des touches fléchées pour que le catcher *dash* dans cette direction à une vitesse de x2.0 (indiqué par une **lueur vive** du catcher).
-  - Vous pouvez également appuyer sur le bouton Left Click(D) de la souris et le maintenir enfoncé pour déclencher le dash.
+- Par défaut, les touches fléchées gauche `<-` (L) et droite `->` (R) pour déplacer le catcher.
+- Appuyez et maintenez la touche `leftShift` (D) avec l'une des touches fléchées pour que le catcher *dash* dans cette direction à une vitesse de x2.0 (indiqué par une **lueur vive** du catcher).
+  - Vous pouvez également appuyer sur le bouton Left Click (D) de la souris et le maintenir enfoncé pour déclencher le dash.
 
 Le placement du curseur dans le jeu n'a pas d'importance lorsque vous jouez normalement. Si le mod [Relax](/wiki/Gameplay/Game_modifier/Relax) a été activé, le contrôle du catcher sera le curseur du jeu à la place. Cependant, le score ne sera pas ajouté aux classements lorsque le mod Relax est activé (car cela va à l'encontre du seul défi d'osu!catch : la vitesse fixe du catcher et le contrôle du plateau du catcher).
 

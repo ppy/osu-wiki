@@ -202,7 +202,7 @@ Noted specifically as one of the few developers brave enough to delve into the c
 
 ---
 
-As mentioned in previous years, we cannot really stress just how important community contribution is to the future of osu! as a whole. 
+As mentioned in previous years, we cannot really stress just how important community contribution is to the future of osu! as a whole.
 
 Unlike many other game projects on the web, much of what drives osu! originates almost wholly from its community, meaning that individual people can have a **massive** influence in making the game awesome for everybody else.
 

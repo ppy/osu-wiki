@@ -80,7 +80,7 @@ Berikut merupakan para mantan pemenang osu! World Cup yang menyandang gelar **Fo
 Berikut merupakan para mantan pemenang osu!taiko World Cup yang menyandang gelar **Former osu!taiko Champion**:
 
 | Turnamen | Gelar | Penyandang gelar |
-| :-:| :-- | :-- |
+| :-: | :-- | :-- |
 | [TWC 2011](/wiki/Tournaments/TWC/2011) | Former osu!taiko Champion: #1 | ::{ flag=TW }:: [Numbers 596108](https://osu.ppy.sh/users/194653), ::{ flag=TW }:: [TW-KUMA01](https://osu.ppy.sh/users/244499) |
 | [TWC 2012](/wiki/Tournaments/TWC/2012) | Former osu!taiko Champion: #2 | ::{ flag=JP }:: [-Asuke-](https://osu.ppy.sh/users/863073), ::{ flag=JP }:: [pota-row](https://osu.ppy.sh/users/858415), ::{ flag=JP }:: [TTTL](https://osu.ppy.sh/users/164583) |
 | [TWC #3](/wiki/Tournaments/TWC/3) | Former osu!taiko Champion: #3 | ::{ flag=TW }:: [-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910), ::{ flag=TW }:: [oiu850714](https://osu.ppy.sh/users/437607), ::{ flag=TW }:: [yikao](https://osu.ppy.sh/users/352674), ::{ flag=TW }:: [zx\_baka\_0502442](https://osu.ppy.sh/users/457766) |
@@ -96,7 +96,7 @@ Berikut merupakan para mantan pemenang osu!taiko World Cup yang menyandang gelar
 Berikut merupakan para mantan pemenang osu!catch World Cup yang menyandang gelar **Former osu!catch Champion**:
 
 | Turnamen | Gelar | Penyandang gelar |
-| :-:| :-- | :-- |
+| :-: | :-- | :-- |
 | [CWC](/wiki/Tournaments/CWC/1) | Former osu!catch Champion: #1 | ::{ flag=HK }:: [HineX](https://osu.ppy.sh/users/13854), ::{ flag=CN }:: [hy1hy1hy](https://osu.ppy.sh/users/243877), ::{ flag=CN }:: [joynama](https://osu.ppy.sh/users/169128) |
 | [CWC 2013](/wiki/Tournaments/CWC/2013) | Former osu!catch Champion: 2013 | ::{ flag=CL }:: [eldnl](https://osu.ppy.sh/users/285756), ::{ flag=CL }:: [Dark Diego](https://osu.ppy.sh/users/723787), ::{ flag=CL }:: [DaxMasterix](https://osu.ppy.sh/users/264914), ::{ flag=CL }:: [lineqtxz](https://osu.ppy.sh/users/989542) |
 | [CWC 2014](/wiki/Tournaments/CWC/2014) | Former osu!catch Champion: 2014 | ::{ flag=KR }:: [Kuzino](https://osu.ppy.sh/users/158552), ::{ flag=KR }:: [Last Bubble](https://osu.ppy.sh/users/1302259), ::{ flag=KR }:: [snail\_player](https://osu.ppy.sh/users/563262) |
@@ -111,7 +111,7 @@ Berikut merupakan para mantan pemenang osu!catch World Cup yang menyandang gelar
 Berikut merupakan para mantan pemenang osu!mania World Cup yang menyandang gelar **Former osu!mania Champion**:
 
 | Turnamen | Gelar | Penyandang gelar |
-| :-:| :-- | :-- |
+| :-: | :-- | :-- |
 | [MWC 2014 (4K)](/wiki/Tournaments/MWC/2014) | Former osu!mania 4K Champion: 2014 | ::{ flag=KR }:: [Abcdullah](https://osu.ppy.sh/users/4140104), ::{ flag=KR }:: [jhlee1033](https://osu.ppy.sh/users/140148) |
 | [MWC 2014 (7K)](/wiki/Tournaments/MWC/2014) | Former osu!mania 7K Champion: 2014 | ::{ flag=KR }:: [jhlee0133](https://osu.ppy.sh/users/140148) |
 | [MWC 4K 2015](/wiki/Tournaments/MWC/2015) | Former osu!mania 4K Champion: 2015 | ::{ flag=US }:: [Chrubble](https://osu.ppy.sh/users/2594280), ::{ flag=US }:: [EtienneXC](https://osu.ppy.sh/users/5610085), ::{ flag=US }:: [Halogen-](https://osu.ppy.sh/users/169992), ::{ flag=US }:: [Shadow\_SM](https://osu.ppy.sh/users/4552987), ::{ flag=US }:: [Solara](https://osu.ppy.sh/users/4830970), ::{ flag=US }:: [Zyph](https://osu.ppy.sh/users/1600432) |
@@ -323,6 +323,7 @@ Para pengguna berikut memperoleh gelarnya masing-masing atas kontribusi mereka y
 | ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) | osu! Paragon |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | World Cup Organizer |
 | ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) | osu!painter |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | osu!taiko Paragon |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch Paragon |
 | ::{ flag=DE }:: [LastExceed](https://osu.ppy.sh/users/6232245) | Master of the Fade |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | World Cup Organizer |
@@ -344,6 +345,7 @@ Para pengguna berikut memperoleh gelarnya masing-masing atas berbagai alasan yan
 | :-- | :-- |
 | ::{ flag=SH }:: [BanchoBot](https://osu.ppy.sh/users/3) | w00t p00t |
 | ::{ flag=US }:: [Derekku](https://osu.ppy.sh/users/91341) | COOL DUDE |
+| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Inland Empire |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Popcorn Fairy |
 | ::{ flag=AU }:: [phill_old](https://osu.ppy.sh/users/53) | ¿ |
 | ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Former osu! Champion: 2019 / Grilled Dodongo |

@@ -9,7 +9,7 @@ outdated_since: ff6e1cbd3930b603fb5ba6ee1c81cf6fe725a32a
 
 ## Usos e informações
 
-Descrições populares de beatmaps [ranqueados](/wiki/Beatmap/Category#ranqueados) normalmente oferece o seguinte:
+Descrições populares de beatmaps [ranqueados](/wiki/Beatmap/Category#ranked) normalmente oferece o seguinte:
 
 - Uma lista de todas as [dificuldades de convidados](/wiki/Beatmap/Guest_difficulty) e seus criadores
 - Informações que ajudam os jogados a decidir se eles querem ou não o baixar um beatmap

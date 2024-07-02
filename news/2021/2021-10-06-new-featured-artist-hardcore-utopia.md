@@ -12,7 +12,7 @@ For those out of the loop, **HARDCORE UTOPIA** is a set of free compilation albu
 
 We've snagged all that we could: **50 songs** from **42 different artists** that were released through **HARDCORE UTOPIA**'s three breathtaking albums. Check it all out from [**HARDCORE UTOPIA**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/205).
 
-**HARDCORE UTOPIA** is no stranger to the talents behind osu! mapping. Its third album was announced alongside a bunch of beatmaps from some of osu!'s most notable mappers, perfectly demonstrating how these songs translate to rhythm games. 
+**HARDCORE UTOPIA** is no stranger to the talents behind osu! mapping. Its third album was announced alongside a bunch of beatmaps from some of osu!'s most notable mappers, perfectly demonstrating how these songs translate to rhythm games.
 
 See what we mean for yourself:
 

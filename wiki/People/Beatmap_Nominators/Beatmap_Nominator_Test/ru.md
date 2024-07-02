@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 119117ef2cb9b730639df53a6ca5d3b8b9367c1a
+---
+
 # Тест на номинатора
 
 **Тест на номинатора карт** — набор заданий, призванный оценить знания претендентов на должность [номинатора карт](/wiki/People/Beatmap_Nominators) (*BN*).

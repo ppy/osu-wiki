@@ -13,7 +13,7 @@ It's a proven fact that osu! players will never grow tired of *Touhou* music, so
 Now it's your job to grow their beatmap catalogue by mapping any of the **10** tunes on [**tsunamix**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/329).
 
 Inspire yourself with some of the beatmaps that brought **tsunamix** to osu!, then design your own beatmap with any of these other songs:
- 
+
 <div align="center">
     <video width="100%" controls>
         <source src="https://assets.ppy.sh/artists/329/release_showcase.mp4" type="video/mp4" preload="none">

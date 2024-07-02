@@ -254,8 +254,8 @@ Prizes for this tournament are sponsored by ::{ flag=CN }:: [hans1999](https://o
 ### Tournament rules
 
 1. This tournament is a one-on-one osu!mania 4K specified tournament.
-2. The maps for each round will be announced by the map selector in advance on the Sunday before the actual matches take place:  
-   - The Tiebreaker map will only be played in case of a tie.  
+2. The maps for each round will be announced by the map selector in advance on the Sunday before the actual matches take place:
+   - The Tiebreaker map will only be played in case of a tie.
    - All maps are in a FreeMod bracket.
 3. Match schedule will be settled by the Tournament Management.
 4. If no staff or referee is available, the match will be postponed.
@@ -263,8 +263,8 @@ Prizes for this tournament are sponsored by ::{ flag=CN }:: [hans1999](https://o
 6. Use of the [Visual Settings](/wiki/Client/Interface/Visual_settings) are allowed.
 7. If the beatmap ends in a draw, the game will be nullified.
 8. If player disconnects (In the case of the player is able to finish the map), the disconnected player will have to upload the score (`Shift` + `F12`) and provide the link to match referee instantly.
-9. If a player disconnects (In the case of the player is not able to finish the map):  
-   - Disconnects within 30s after the match starts, the match will be reset.   
+9. If a player disconnects (In the case of the player is not able to finish the map):
+   - Disconnects within 30s after the match starts, the match will be reset.
    - The player will be recorded as Failed.
 10. Beatmaps cannot be reused in the same match unless the beatmap was nullified.
 11. If not all players attend, the maximum time the match can be postponed is 10 minutes. Absent player(s) will be considered as forfeited.

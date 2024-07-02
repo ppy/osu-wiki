@@ -14,24 +14,24 @@ A small group has been created of experienced users interested in working on pac
 
 ### Alternator Style packs
 
-*created by [Aireu](https://osu.ppy.sh/users/1650010), [Uberzolik](https://osu.ppy.sh/users/1314547)*  
-*written by [Stefan](https://osu.ppy.sh/users/626907)*  
+*created by [Aireu](https://osu.ppy.sh/users/1650010), [Uberzolik](https://osu.ppy.sh/users/1314547)*\
+*written by [Stefan](https://osu.ppy.sh/users/626907)*\
 Download [Ranked](https://osu.ppy.sh/beatmaps/packs/1699) | [Loved](https://osu.ppy.sh/beatmaps/packs/1700)
 
 Aireu and Uberzolik were passionate enough to work on the very first mapping-style-specific beatmap packs released. These two packs are focused on beatmaps where alternating is essential. Aireu worked on the Ranked version, while Uberzolik took care of the Loved version. If you need maps to practice alternating, or you are good at it already and want to challenge yourself, you should check these packs out!
 
 ### The Embodiment of Scarlet Devil pack
 
-*created by [celerih](https://osu.ppy.sh/users/4696296), [Uberzolik](https://osu.ppy.sh/users/1314547), [Venix](https://osu.ppy.sh/users/5999631), and [Xilver15](https://osu.ppy.sh/users/3099689)*  
-*written by [celerih](https://osu.ppy.sh/users/4696296)*  
+*created by [celerih](https://osu.ppy.sh/users/4696296), [Uberzolik](https://osu.ppy.sh/users/1314547), [Venix](https://osu.ppy.sh/users/5999631), and [Xilver15](https://osu.ppy.sh/users/3099689)*\
+*written by [celerih](https://osu.ppy.sh/users/4696296)*\
 [Download](https://osu.ppy.sh/beatmaps/packs/1729)
 
 Available to download now, this pack is the first of the Touhou game packs, where a selection of various Touhou maps from a specific game is picked and curated just for you! This pack contains beatmaps from the first non-PC-98 Touhou game, and the sixth game in the series: The Embodiment of Scarlet Devil. The pack aims to offer a variety of styles and themes, ranging from 2008 to 2018 to offer something enjoyable for everyone. Packs for future games are currently in progress and should be released in the near future. Enjoy!
 
 ### Best of 2010–2011 pack
 
-*created by [Dada](https://osu.ppy.sh/users/9119507), [\_p0ke\_](https://osu.ppy.sh/users/5434711), [Halfslashed](https://osu.ppy.sh/users/4598899), [Uberzolik](https://osu.ppy.sh/users/1314547), and [Cynplytholowazy](https://osu.ppy.sh/users/3901754)*  
-*written by [\_p0ke\_](https://osu.ppy.sh/users/5434711)*  
+*created by [Dada](https://osu.ppy.sh/users/9119507), [\_p0ke\_](https://osu.ppy.sh/users/5434711), [Halfslashed](https://osu.ppy.sh/users/4598899), [Uberzolik](https://osu.ppy.sh/users/1314547), and [Cynplytholowazy](https://osu.ppy.sh/users/3901754)*\
+*written by [\_p0ke\_](https://osu.ppy.sh/users/5434711)*\
 [Download](https://osu.ppy.sh/beatmaps/packs/1733)
 
 Ever wanted to see what popular maps looked like in earlier eras of the game? Well now you can—you can check out some of the best maps that the game had to offer during 2010 and 2011 in a single pack! While there are a lot of great maps, we didn't have enough room to include everything, so hopefully you can find something on this list that you will enjoy. Play through them all and experience a blast from the past!
@@ -56,8 +56,8 @@ The time came once again to bundle a few beatmaps, with some new Loved beatmap p
 
 ### Holiday Pack 2019
 
-*created by [Noffy](https://osu.ppy.sh/users/1541323)*  
-*written by [Noffy](https://osu.ppy.sh/users/1541323)*  
+*created by [Noffy](https://osu.ppy.sh/users/1541323)*\
+*written by [Noffy](https://osu.ppy.sh/users/1541323)*\
 [Download](https://osu.ppy.sh/beatmaps/packs/1772)
 
 Supported by the [Christmas Queue](https://osu.ppy.sh/community/forums/topics/985375) for 9 years and counting, holiday cheer in osu! is still going strong! This year we have compiled a pack of winter and holiday related beatmaps for everyone to enjoy during the season. The pack features beatmaps of new favorites and classic songs, all with difficulties for various skill levels! While the pack features mainly osu! maps, there's also two osu!catch spreads and an osu!mania map included for those who enjoy other modes.

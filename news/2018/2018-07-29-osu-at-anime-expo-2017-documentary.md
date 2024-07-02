@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu! at AX2017 Documentary"
+title: osu! at AX2017 Documentary
 date: 2018-07-29 05:12:40 +0000
 ---
 

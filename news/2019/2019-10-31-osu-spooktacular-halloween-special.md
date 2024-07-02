@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu! Spooktacular Halloween Special"
+title: osu! Spooktacular Halloween Special
 date: 2019-10-30 13:00:00 +0000
 ---
 
@@ -30,7 +30,7 @@ We're sure the splotchy streaks on the walls are just pink spray paint. Right...
 
 **3863** pumpkin ghosts were enchanted by [**157**](https://osu.ppy.sh/users/9315038)'s take on a rather spooky Mocha and her eerie one-eyed cat.
 
-Someone is going to invariably point out the phrase on one of these pumpkins in the comments, and when they do, you have my express permission to crack the worst imaginable Halloween-themed joke you can think of at them. 
+Someone is going to invariably point out the phrase on one of these pumpkins in the comments, and when they do, you have my express permission to crack the worst imaginable Halloween-themed joke you can think of at them.
 
 [![](https://assets.ppy.sh/contests/81/banners/xxxxxx2800.jpg)](https://assets.ppy.sh/contests/81/winners/xxxxxx2800.png)
 
@@ -58,7 +58,7 @@ Weep a single tear for the poor lollipop-don. A single, delicious tear.
 
 [![](https://assets.ppy.sh/contests/81/banners/Tachion1.jpg)](https://assets.ppy.sh/contests/81/winners/Tachion1.png)
 
-**2793** voters adored [**Tachion1**](https://osu.ppy.sh/users/4429331)'s beautifully unique take on pippi and Mocha taking flight in true Halloween spirit beneath the full moon. With bats. 
+**2793** voters adored [**Tachion1**](https://osu.ppy.sh/users/4429331)'s beautifully unique take on pippi and Mocha taking flight in true Halloween spirit beneath the full moon. With bats.
 
 Because it isn't Halloween (or osu!) without the BAT. If you understand this joke, you've been playing the game too long.
 

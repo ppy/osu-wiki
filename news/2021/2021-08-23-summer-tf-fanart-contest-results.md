@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Summer 2021 Track and Field Fanart Contest Results"
+title: Summer 2021 Track and Field Fanart Contest Results
 date: 2021-08-23 12:00:00 +0000
 ---
 
@@ -58,7 +58,7 @@ There will be no talk of competitor numbers. None whatsoever.
 
 [![](https://assets.ppy.sh/contests/133/banners/not%20slepp.jpg)](https://assets.ppy.sh/contests/133/winners/not%20slepp.png)
 
-**1657** voters watched in on [**not slepp**](https://osu.ppy.sh/users/14406940)'s rendition of Mocha and Alisa enjoying a bit of locker room chat. Poor Mocha looks like she's struggling, but then again, when isn't she? 
+**1657** voters watched in on [**not slepp**](https://osu.ppy.sh/users/14406940)'s rendition of Mocha and Alisa enjoying a bit of locker room chat. Poor Mocha looks like she's struggling, but then again, when isn't she?
 
 [![](https://assets.ppy.sh/contests/133/banners/Dem4eg-.jpg)](https://assets.ppy.sh/contests/133/winners/Dem4eg-.png)
 

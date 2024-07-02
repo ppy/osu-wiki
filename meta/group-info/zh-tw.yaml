@@ -1,0 +1,35 @@
+outdated_since: a8383bfa1e96690b7f254a39672b15781e148634
+outdated_translation: true
+
+separator: 、
+alumni:
+  roles:
+    academy: osu!academy 創辦人
+    admin: 管理員
+    chat: 聊天室管理員
+    dev: osu! 開發者
+    media: osu!media 建立者
+    support: 支援團隊
+    tournaments: 錦標賽管理員
+gmt:
+  all_mods: 全域管理員
+  areas:
+    beatmap: 圖譜管理員
+    chat: 聊天室管理員
+    forum: 論壇管理員
+    team: 官方團隊
+    dev: osu! 開發者
+    player: 玩家支援人員
+    support: 技術支援人員
+    tournaments: 錦標賽管理員
+    wiki: Wiki 管理員
+    mapping: 製圖/Mod 圖社群管理員
+    skinning: Skin 社群管理員
+    leadership: 團隊領袖
+nat:
+  subgroups:
+    structural: 組織
+    evaluation: 評估
+    leadership: 領導
+languages:
+  partial: 部分<language>

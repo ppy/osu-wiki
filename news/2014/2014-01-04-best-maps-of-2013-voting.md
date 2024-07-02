@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Best Maps of 2013 Voting"
+title: Best Maps of 2013 Voting
 date: 2014-01-04 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/72206495357/best-maps-of-2013-voting
 ---

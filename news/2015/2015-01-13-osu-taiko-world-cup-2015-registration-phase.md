@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu! Taiko World Cup 2015 - Registration Phase"
+title: osu! Taiko World Cup 2015 - Registration Phase
 date: 2015-01-13 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/107977834958/osu-taiko-world-cup-2015-registration-phase
 ---

@@ -13,13 +13,13 @@ osu!taiko Ranking Criteria(osu!taiko譜面のランク基準)はTaiko譜面を�
 
 ### 難易度名(Difficulty Names)
 
-*参考: [Difficulty Naming](/wiki/Ranking_criteria/Difficulty_naming)*
+*参考: [難易度名](/wiki/Ranking_criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
 - ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png?20211215) Oni
-- ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni / Ura Oni
 
 ### ゲームプレイにおいて(Gameplay)
 

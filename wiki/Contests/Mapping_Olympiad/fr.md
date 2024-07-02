@@ -21,7 +21,7 @@ La **osu! Mapping Olympiad** est un concours de mapping destiné à tous les mod
 - Le dépôt des beatmaps ne doit pas excéder 15 Mo.
 - Les storyboards ne seront pas pris en compte dans le processus de jugement.
 - L'usage des [hitsounds](/wiki/Beatmapping/Hitsound) personnalisés est autorisé.
-- La collaboration entre mappeurs sur les participations sont interdites. 
+- La collaboration entre mappeurs sur les participations sont interdites.
 - Les beatmaps créées pour le concours ne doivent pas êtres publiées via le [Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission) (BSS) jusqu'à ce que le concours soit terminé, et les résultats annoncés.
 
 ## Précédentes éditions

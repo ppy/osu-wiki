@@ -13,6 +13,8 @@ tags:
   - 9K
   - mod
   - game modifier
+  - modificador de juego
+  - modificador del juego
 ---
 
 # xK (mod)
@@ -21,7 +23,7 @@ tags:
 
 ![Icono del mod 1K](/wiki/shared/mods/1K.png "Icono del mod 1K") ![Icono del mod 2K](/wiki/shared/mods/2K.png "Icono del mod 2K") ![Icono del mod 3K](/wiki/shared/mods/3K.png "Icono del mod 3K") ![Icono del mod 4K](/wiki/shared/mods/4K.png "Icono del mod 4K") ![Icono del mod 5K](/wiki/shared/mods/5K.png "Icono del mod 5K") ![Icono del mod 6K](/wiki/shared/mods/6K.png "Icono del mod 6K") ![Icono del mod 7K](/wiki/shared/mods/7K.png "Icono del mod 7K") ![Icono del mod 8K](/wiki/shared/mods/8K.png "Icono del mod 8K") ![Icono del mod 9K](/wiki/shared/mods/9K.png "Icono del mod 9K")
 
-*Para una lista completa de mods, véase: [Modificador de juego](/wiki/Gameplay/Game_modifier)*
+*Para una lista completa de mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*
 
 ## Acerca de
 
@@ -35,7 +37,7 @@ tags:
 
 *Aviso: Todos los mods xK se ignorarán en los beatmaps específicos de osu!mania. Usar el modo 1K, 2K o 3K resultará en una partida sin clasificar.*
 
-Estos son [modificadores de juego](/wiki/Gameplay/Game_modifier) que forzarán a todos los [beatmaps](/wiki/Beatmap) *convertidos* de [osu!mania](/wiki/Game_mode/osu!mania) a usar el K seleccionado. Esto ignora la supuesta configuración de K del beatmap a costa de disminuir el multiplicador de puntuación, dependiendo de la diferencia de K.
+Estos son [modificadores del juego](/wiki/Gameplay/Game_modifier) que forzarán a todos los [beatmaps](/wiki/Beatmap) *convertidos* de [osu!mania](/wiki/Game_mode/osu!mania) a usar el K seleccionado. Esto ignora la supuesta configuración de K del beatmap a costa de disminuir el multiplicador de puntuación, dependiendo de la diferencia de K.
 
 La siguiente tabla explica cómo se aplicará el multiplicador de puntuación en todos los mods xK:
 

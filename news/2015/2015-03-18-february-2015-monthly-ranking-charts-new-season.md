@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "February 2015 Monthly Ranking Charts - New Season!"
+title: February 2015 Monthly Ranking Charts - New Season!
 date: 2015-03-18 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/113961496833/february-2015-monthly-ranking-charts-new-season
 ---

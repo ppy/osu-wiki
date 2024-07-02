@@ -21,7 +21,8 @@ The osu! Discord server features a number of channels, many of which are centred
 | Channel | Description |
 | :-- | :-- |
 | `#welcome` | Server information |
-| `#introduction` | Self-introductions |
+| `#announcements` | Server announcements |
+| `#introductions` | Self-introductions |
 | `#general` | General discussion and troubleshooting related to osu! |
 
 ### Client / Web

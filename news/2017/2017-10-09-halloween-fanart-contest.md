@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halloween 2017 Fanart Contest"
+title: Halloween 2017 Fanart Contest
 date: 2017-10-09 06:00:00 +0000
 ---
 
@@ -23,7 +23,7 @@ That's two weeks, for those who aren't numerically inclined. Two weeks isn't a w
 Check out the rules below before you start:
 
 ## Rules
- 
+
 - **Artists should use the custom templates provided ([PSD template](https://assets.ppy.sh/events/fanart/templates/osu%21%20main%20menu%202732x1536.psd?2017) / [PNG template](https://assets.ppy.sh/events/fanart/templates/osu%21%20main%20menu%202732x1536.png?2017)) when composing their piece.** The templates listed above show where the osu! cookie will be located should your entry make it to the main-menu. An osu! cookie will also be superimposed in the same spot during the voting process, so anything inside the dotted circle **WILL NOT** be shown either in game, or during the voting process. Also, don't leave the template visible in your work. It looks gross!
 - **Entries MUST meet the resolution requirements for a main-menu piece - preferably 2732x1536.** 1366x768 is acceptable if you really can't do full-sized for whatever reason, but we really *really* prefer 2732x1536. So does everybody else! Entries that don't meet these requirements will just be discarded at the voting phase. Eek!
 - **All entries must be Halloween themed**. This can be either in costume, setting, both, or more - but it has to be at least vaguely Halloween related, somehow.

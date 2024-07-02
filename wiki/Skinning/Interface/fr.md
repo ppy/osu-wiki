@@ -1,3 +1,9 @@
+---
+no_native_review: true
+outdated_translation: true
+outdated_since: 2164e2139a69d36c0721b179c3d39f85b238c455
+---
+
 # Skinning de l'interface
 
 *Voir également : [Interface](/wiki/Client/Interface)*
@@ -1141,7 +1147,6 @@ Notes :
 - Le positionnement varie :
   - Si un marqueur est utilisé, il est positionné à (12,12).
   - Sinon, positionné à (5,16).
-- Cet élément n'a aucune restriction de taille.
 - Lorsqu'il est utilisé dans [osu!mania](/wiki/Game_mode/osu!mania), cet élément est tourné de 90 degrés dans le sens inverse des aiguilles d'une montre et est placé à en bas à droite de la scène.
 
 ---
@@ -2207,6 +2212,20 @@ Notes :
 
 ---
 
+`rank-forum.png`
+
+![](img/rank-forum.png)
+
+| Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| Tous | ![Non][false] | ![Non][false] | Normal | Centre | 25x25 |
+
+Notes :
+
+- Tous les pixels situés en dehors du carré de 25x25 seront coupés.
+
+---
+
 `selection-mode.png`
 
 ![](img/selection-mode.png)
@@ -2342,6 +2361,37 @@ Notes :
 Notes :
 
 - Selon la taille de la fenêtre du client, 4 à 5 onglets seront affichés.
+
+---
+
+`songselect-bottom.png`
+
+![](img/songselect-bottom.png)
+
+| Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| Tous | ![Non][false] | ![Non][false] | Normal | En bas à gauche | - |
+
+Notes :
+
+- S'étire jusqu'à 100 % de la largeur de l'écran.
+- Si cet élément est trop grand, les clics de souris ne pourront pas interagir avec les éléments situés en dessous.
+
+---
+
+`songselect-top.png`
+
+![](img/songselect-top.png)
+
+| Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| Tous | ![Non][false] | ![Non][false] | Normal | En haut à gauche | - |
+
+Notes :
+
+- Les quelques pixels les plus à droite se répètent à partir d'un certain point
+  - Les répétitions sont superposées à l'actif initial
+  - Leur point de départ varie en fonction de la résolution de l'utilisateur dans le jeu.
 
 ---
 

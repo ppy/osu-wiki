@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Winter 2019 Fanart Contest Voting Open"
+title: Winter 2019 Fanart Contest Voting Open
 date: 2019-12-03 11:00:00 +0000
 ---
 

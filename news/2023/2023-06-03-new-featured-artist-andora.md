@@ -16,7 +16,7 @@ Curious what **Andora** sounds like? Try out one of the [**Featured Artist playl
 
 ## Featured Artist playlists
 
-osu!(lazer) has a new multiplayer mode called **playlists**, which is basically a temporary competitive leaderboard for a series of maps. 
+osu!(lazer) has a new multiplayer mode called **playlists**, which is basically a temporary competitive leaderboard for a series of maps.
 
 With the help of mappers from the [Mappers' Guild](/wiki/Community/Mappers_Guild), we've set up some osu! and osu!mania [Featured Artist playlists](/wiki/People/Featured_Artists/Featured_Artist_playlists) covering **every artist released last month**, along with **Andora**.
 
@@ -76,7 +76,7 @@ Or maybe try [this osu!mania map](https://osu.ppy.sh/beatmapsets/1978179) hosted
 
 ---
 
-You have two options: 
+You have two options:
 
 1. Map something from [**Andora**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/363)
 2. Play **Andora**'s music in one of the new Featured Artist playlists

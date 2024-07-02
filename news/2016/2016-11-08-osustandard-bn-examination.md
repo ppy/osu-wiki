@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!standard BN Examination"
+title: osu!standard BN Examination
 date: 2016-11-08 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/152896720720/osustandard-bn-examination
 ---

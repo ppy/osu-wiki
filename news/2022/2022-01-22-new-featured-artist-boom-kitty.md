@@ -30,7 +30,7 @@ Try [the map from the video above](https://osu.ppy.sh/beatmapsets/1673457) creat
 
 ### Boom Kitty & HeliXiX - Tokyo Takedown
 
-Check out [the osu!taiko map that introduced **Boom Kitty** to our community](https://osu.ppy.sh/beatmapsets/798245) hosted by [realy0_](https://osu.ppy.sh/users/8863359)! 
+Check out [the osu!taiko map that introduced **Boom Kitty** to our community](https://osu.ppy.sh/beatmapsets/798245) hosted by [realy0_](https://osu.ppy.sh/users/8863359)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/233/Songs/Boom%20Kitty%20%26%20Ubi%20-%20Tokyo%20Takedown.mp3" type="audio/mpeg">

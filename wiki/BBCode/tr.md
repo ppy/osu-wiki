@@ -74,7 +74,7 @@ Araç çubuğu butonu: ![Üstü çizili butonu](img/strike.png "Üstü çizili")
 
 *Tüm renk adlarının bir listesi için, bakınız: [X11 renk adları](https://tr.wikipedia.org/wiki/X11_renk_adlar%C4%B1)*
 
-`[color]` etiketi metni pek çok türdeki web-güvenli renklerle biçimlendirmek için kullanılır. Bu etiket rengi belirtmek için [HEX kodu](https://tr.wikipedia.org/wiki/Web_renkleri#%C3%9C%C3%A7l%C3%BC_Hex) formatını kullanır, ancak bu renkler aynı zamanda "red" (kırmızı) veya "green" (yeşil) gibi HTML renk isimleriyle de belirtilebilir. Belirtmek için `#HEXCODE` argümanı yerine ilgili rengin HEX kodunu veya HTML ismini yazmanız yeterlidir. 
+`[color]` etiketi metni pek çok türdeki web-güvenli renklerle biçimlendirmek için kullanılır. Bu etiket rengi belirtmek için [HEX kodu](https://tr.wikipedia.org/wiki/Web_renkleri#%C3%9C%C3%A7l%C3%BC_Hex) formatını kullanır, ancak bu renkler aynı zamanda "red" (kırmızı) veya "green" (yeşil) gibi HTML renk isimleriyle de belirtilebilir. Belirtmek için `#HEXCODE` argümanı yerine ilgili rengin HEX kodunu veya HTML ismini yazmanız yeterlidir.
 
 Yukarıda belirtilen argüman tırnak işareti (`"`) içermez, ve herhangi bir varsayılan renge sahip değildir. Eğer herhangi bir argüman belirtilmemişse, ya da tırnak işareti kullanılmışsa, bu etiket bir BBCode etiketi olarak algılanmayacaktır.
 
@@ -118,7 +118,7 @@ Bağlantı yazısı `İSİM` argümanıyla belirtilir. Bu argüman belirtildiği
 
 Bu etiket çoğunlukla forum gönderisinin boyutunu arttırabilecek uzun yazıları ve resimleri gizlemek için kullanılır, özellikle SSS veya [tema](/wiki/Skinning) gönderilerinde.
 
-*Not: BBCode kutusunun araç çubuğu butonu "spoiler kutusu" olarak adlandırılır, fakat bir `[spoilerbox]` etiketi oluşturmaz. 
+*Not: BBCode kutusunun araç çubuğu butonu "spoiler kutusu" olarak adlandırılır, fakat bir `[spoilerbox]` etiketi oluşturmaz.
 
 Araç çubuğu butonu: ![Kutu butonu](img/spoilerbox.png "Kutu")
 
@@ -218,7 +218,7 @@ Araç çubuğu butonları: ![Liste butonu](img/list.png "Liste") ![Numaralı lis
 
 `[img]` etiketi osu! forum gönderilerine çevrimiçi görseller eklemek için kullanılır. Etiketi kullanmak için, kullanıcılar, yukarıda `ADRES` argümanıyla belirtilen yere görselin bağlantı adresini yerleştirmelidir. Yerel dosya konumları (örn. `C:\Users\Name\Pictures\image.jpg`) **çalışmayacaktır**.
 
-*Bildirim: Web sayfası URL'si ile görsel bağlantı adresi aynı **değildir**.* 
+*Bildirim: Web sayfası URL'si ile görsel bağlantı adresi aynı **değildir**.*
 
 Görsel bağlantı adresini elde etmek için görselin bulunduğu web sitesine gidin, imlecinizi görselin üzerine getirin, görselin üzerine sağ-tıklayın ve `Görselin adresini kopyala` seçeneğini seçin. Daha sonra, kopyaladığınız bu adresi etiketlerin arasına yapıştırabilirsiniz.
 

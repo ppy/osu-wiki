@@ -284,7 +284,7 @@ Sunday, 16 May 2021:
 10. Any player with French flag can participate in the tournament.
 11. The same team is not allowed to ban or the same mod twice in a row (e.g. banning two HardRock maps).
 12. Hidden mod is combineable with HardRock and DoubleTime mod.
-13. The Tiebreaker can be played under NoMod or Hidden.  
+13. The Tiebreaker can be played under NoMod or Hidden.
 
 ### Winning conditions
 

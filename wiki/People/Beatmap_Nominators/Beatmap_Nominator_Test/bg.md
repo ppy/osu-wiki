@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 119117ef2cb9b730639df53a6ca5d3b8b9367c1a
 ---
 
 # Тест за бийтмап номинатори

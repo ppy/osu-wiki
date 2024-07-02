@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Third Official osu! Fanart Contest Results!"
+title: Third Official osu! Fanart Contest Results!
 date: 2014-10-10 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/99609478178/third-official-osu-fanart-contest-results
 ---

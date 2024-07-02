@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "happy new year"
+title: happy new year
 date: 2013-12-31 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/71746517206/happy-new-year
 ---

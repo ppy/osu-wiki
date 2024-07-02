@@ -35,7 +35,7 @@ Berkas hitsound dinamakan berdasarkan dua properti sampleset dan tipe suara seba
 
 `<sampleset>-<sound>.wav`
 
-di mana `<sampleset>` adalah "normal", "soft" atau "drum", dan `<sound>` adalah *addition* yang telah disebutkan di atas (contoh: "hitclap"). 
+di mana `<sampleset>` adalah "normal", "soft" atau "drum", dan `<sound>` adalah *addition* yang telah disebutkan di atas (contoh: "hitclap").
 
 ![](img/beatmap-folder-resources.png "Contoh folder beatmap yang berisi hitsound khusus")
 

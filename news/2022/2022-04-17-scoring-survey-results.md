@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Scoring Survey Results"
+title: Scoring Survey Results
 date: 2022-04-17 09:00:00 +0000
 ---
 

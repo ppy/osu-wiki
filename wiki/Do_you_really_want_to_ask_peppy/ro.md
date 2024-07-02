@@ -1,11 +1,6 @@
----
-outdated_translation: true
-outdated_since: a58b8d820cdc30b89ea9c94331df24e523ce7f95
----
-
 # Chiar dorești să îi adresezi o întrebare lui peppy?
 
-Salutare! peppy îți înțelege dorința de a-l contacta personal, dar mai întâi te roagă să înțelegi faptul că acesta **nu** este locul pentru a-i cere ajutor sau sprijin. El preferă să păstreze asistența pentru osu! separată de mesajele lui personale și de asemenea, consideră că este destul de greu să țină pasul și să răspunda mesajelor private de pe forum. Prin urmare, vă solicită să alegeți una dintre următoarele opțiuni:
+Salutare! peppy îți înțelege dorința de a-l contacta personal, dar mai întâi te roagă să înțelegi faptul că acesta **nu** este locul pentru a-i cere ajutor sau sprijin. El preferă să păstreze asistența pentru osu! separată de mesajele lui personale și de asemenea, consideră că este destul de greu să țină pasul și să răspunda mesajelor private. Prin urmare, vă solicită să alegeți una dintre următoarele opțiuni:
 
 ## Suport tehnic
 

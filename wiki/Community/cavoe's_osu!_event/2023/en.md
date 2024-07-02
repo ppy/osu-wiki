@@ -8,9 +8,7 @@ tags:
 
 ![COE 2023 banner](img/banner.png)
 
-**cavoe's osu! event 2023** (***COE 2023***) is an osu! convention hosted at **Brabanthallen in 's-Hertogenbosch (Den Bosch), Netherlands**. It is the fifth instalment of cavoe's osu! event.
-
-Tickets are currently available for purchase at the [COE website](https://cavoeboy.com/). This page will be updated as more information becomes available.
+**cavoe's osu! event 2023** (***COE 2023***) was an osu! convention hosted at **Brabanthallen in 's-Hertogenbosch (Den Bosch), Netherlands**. It was the fifth instalment of cavoe's osu! event.
 
 ## Schedule
 
@@ -35,6 +33,7 @@ Tickets are currently available for purchase at the [COE website](https://cavoeb
 | Karaoke (second stage) | 2023-08-03 (19:00) |
 | 1v1 osu! tournament Round of 16–Quarterfinals | 2023-08-04 (12:30–23:00) |
 | Group picture with everyone | 2023-08-04 (16:00) |
+| Group picture with ranked mappers | 2023-08-04 (16:30) |
 | Group picture with Dutch people | 2023-08-04 (16:30) |
 | Sushi lunch | 2023-08-05 (12:00–14:30) |
 | Group picture with German people | 2023-08-05 (17:30) |
@@ -42,14 +41,9 @@ Tickets are currently available for purchase at the [COE website](https://cavoeb
 | 1v1 osu! tournament Semifinals–Grand Finals | 2023-08-05 (16:00–22:00) |
 | End | 2023-08-06 |
 
-A more detailed schedule can be found on the [website](https://cavoeboy.com/activities).
-
 ## Links
 
 - **[Website](https://cavoeboy.com/)**
-- **[Schedule](https://cavoeboy.com/activities)**
-- [FAQ](https://cavoeboy.com/faq)
-- [Attendee list](https://cavoeboy.com/attendees)
 - [Discord server](https://discord.com/invite/d6ru6PVcSY)
 - [Twitter](https://twitter.com/CavoesOsuEvent)
 - [YouTube channel](https://www.youtube.com/@coevent)
@@ -57,7 +51,7 @@ A more detailed schedule can be found on the [website](https://cavoeboy.com/acti
 
 ## Organisation
 
-COE 2023 is run by various community members and partnered organisations.
+COE 2023 was run by various community members and partnered organisations.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -68,7 +62,7 @@ COE 2023 is run by various community members and partnered organisations.
 | Off-site activity coordinator | ::{ flag=NL }:: [Anass](https://osu.ppy.sh/users/19743946), ::{ flag=MA }:: [clorox\_1g](https://osu.ppy.sh/users/9702728) |
 | Designer | ::{ flag=DE }:: [Meyer](https://osu.ppy.sh/users/5452367), ::{ flag=NL }:: [uta](https://osu.ppy.sh/users/9315038) |
 | Floor manager | ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393), ::{ flag=GB }:: [shoshuu](https://osu.ppy.sh/users/10337355) |
-| Other staff | ::{ flag=GB }:: [Argent Pride](https://osu.ppy.sh/users/12008928), ::{ flag=LT }:: a Sensei, ::{ flag=NL }:: [CakeAndBanana](https://osu.ppy.sh/users/1981424), ::{ flag=DE }:: [egedi](https://osu.ppy.sh/users/3975137), ::{ flag=FR }:: [floflim](https://osu.ppy.sh/users/5954015), ::{ flag=DE }:: [helenkiller](https://osu.ppy.sh/users/16182877), ::{ flag=NL }:: [jackylam5](https://osu.ppy.sh/users/1540807), ::{ flag=DE }:: [khz](https://osu.ppy.sh/users/9254536), ::{ flag=BE }:: [LGM](https://osu.ppy.sh/users/24518245), ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718), ::{ flag=DE }:: [Massive](https://osu.ppy.sh/users/11163973), Mimi, ::{ flag=DE }:: [Mou](https://osu.ppy.sh/users/1453009), ::{ flag=DE }:: neoekn, ::{ flag=BE }:: [Nino](https://osu.ppy.sh/users/10081296), ::{ flag=FI }:: Riv, ::{ flag=NL }:: [TaikoMom](https://osu.ppy.sh/users/9086438), ::{ flag=BE }:: [Tiddo](https://osu.ppy.sh/users/11257873), ::{ flag=GB }:: [Tomato](https://osu.ppy.sh/users/9239206), ::{ flag=NL }:: [TomBoBotSer](https://osu.ppy.sh/users/7273315), ::{ flag=NL }:: [Toshii](https://osu.ppy.sh/users/12091138), ::{ flag=NL }:: [Yael](https://osu.ppy.sh/users/3875866) |
+| Other staff | ::{ flag=GB }:: [Argent Pride](https://osu.ppy.sh/users/12008928), ::{ flag=LT }:: [a Sensei](https://osu.ppy.sh/users/7053499), ::{ flag=NL }:: [CakeAndBanana](https://osu.ppy.sh/users/1981424), ::{ flag=DE }:: [egedi](https://osu.ppy.sh/users/3975137), ::{ flag=FR }:: [floflim](https://osu.ppy.sh/users/5954015), ::{ flag=DE }:: [helenkiller](https://osu.ppy.sh/users/16182877), ::{ flag=NL }:: [jackylam5](https://osu.ppy.sh/users/1540807), ::{ flag=DE }:: [khz](https://osu.ppy.sh/users/9254536), ::{ flag=BE }:: [LGM](https://osu.ppy.sh/users/24518245), ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718), ::{ flag=DE }:: [Massive](https://osu.ppy.sh/users/11163973), ::{ flag=FR }:: [Mimi](https://osu.ppy.sh/users/7117621), ::{ flag=DE }:: [Mou](https://osu.ppy.sh/users/1453009), ::{ flag=DE }:: [neoekn](https://osu.ppy.sh/users/23574071), ::{ flag=BE }:: [Nino](https://osu.ppy.sh/users/10081296), ::{ flag=FI }:: [Riv](https://osu.ppy.sh/users/8019011), ::{ flag=NL }:: [TaikoMom](https://osu.ppy.sh/users/9086438), ::{ flag=BE }:: [Tiddo](https://osu.ppy.sh/users/11257873), ::{ flag=GB }:: [Tomato](https://osu.ppy.sh/users/9239206), ::{ flag=NL }:: [TomBoBotSer](https://osu.ppy.sh/users/7273315), ::{ flag=NL }:: [Toshii](https://osu.ppy.sh/users/12091138), ::{ flag=NL }:: [Yael](https://osu.ppy.sh/users/3875866) |
 | Operational partner | [osu!frlive](https://osufr.live/), [Wooting](https://next.wooting.io/), [WoozPC](https://woozpc.nl/), [Zed Up](https://www.zed-up.de/) |
 
 ## Events
@@ -79,7 +73,7 @@ COE 2023 is run by various community members and partnered organisations.
 
 ![COEGTS 2023 banner](/wiki/Tournaments/GTS/COEGTS_2023/img/banner.png)
 
-The Global Taiko Showdown team is hosting a 1v1 osu!taiko LAN tournament at the event, with a fully custom-made mappool complete with original compositions for each beatmap. osu!taiko players of any rank may participate, so long as they can attend for the duration of the tournament.
+The Global Taiko Showdown team hosted a 1v1 osu!taiko LAN tournament at the event, with a fully custom-made mappool complete with original compositions for each beatmap. osu!taiko players of any rank were able participate, so long as they could attend for the duration of the tournament.
 
 #### Prizes
 
@@ -112,9 +106,9 @@ A 1v1 osu! LAN tournament organised by the COE team.
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | *TBA* |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | *TBA* |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | *TBA* |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Wooting 60HE keyboard, 1,200 €, profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Wooting 60HE keyboard, 800 € |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Wooting 60HE keyboard, 500 € |
 
 #### Links
 
@@ -148,7 +142,3 @@ A 1v1 osu! LAN tournament organised by the COE team.
 | Pub quiz | July 31 (20:00) | A trivia quiz hosted by ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) and ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |
 | *CS:GO* Wingman tournament | August 3 (16:00–19:00) | A *CS:GO* tournament by COE and WoozPC in the Wingman game mode |
 | Karaoke | August 3 (19:00) | An event where anyone can pick up the microphone and sing songs together with everyone |
-
-### Group pictures
-
-Group pictures will be taken featuring everyone willing and attending COE, on August 4 (16:00). Right after, there will be a group picture with only Dutch people, then on August 5 (17:30), another one with only German people.

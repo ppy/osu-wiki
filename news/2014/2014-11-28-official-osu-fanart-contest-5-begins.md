@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Official osu! Fanart Contest 5 Begins!"
+title: Official osu! Fanart Contest 5 Begins!
 date: 2014-11-28 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/103785787028/official-osu-fanart-contest-5-begins
 ---

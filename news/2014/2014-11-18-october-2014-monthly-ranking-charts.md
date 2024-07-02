@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "October 2014 Monthly Ranking Charts"
+title: October 2014 Monthly Ranking Charts
 date: 2014-11-18 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/102991101183/october-2014-monthly-ranking-charts
 ---

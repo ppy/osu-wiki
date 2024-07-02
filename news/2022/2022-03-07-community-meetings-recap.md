@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Community Meetings Recap & Scoring Survey"
+title: Community Meetings Recap & Scoring Survey
 date: 2022-03-18 16:00:00 +0000
 ---
 

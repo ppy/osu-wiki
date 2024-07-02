@@ -1,7 +1,7 @@
 ---
 tags:
-    - BSC
-    - beatmap spotlight curator
+  - BSC
+  - beatmap spotlight curator
 ---
 
 # Beatmap Spotlight Curators
@@ -23,20 +23,20 @@ El proyecto Beatmap Spotlights está a cargo de varios miembros de la comunidad 
 | Rol | Miembros |
 | :-- | :-- |
 | Lider del proyecto | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) |
-| Gerente de proyecto | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) |
+| Gerente de proyecto | ::{ flag=AU }:: [Crumpey](https://osu.ppy.sh/users/3518705) |
 
 Los equipos de curadores dedicados organizan cada lanzamiento de Beatmap Spotlights. Los líderes del equipo están marcados en negrita.
 
 ### Curadores de osu!
 
-- ::{ flag=FI }:: **[Nowaie](https://osu.ppy.sh/users/5428909)**
+- ::{ flag=FI }:: **[Lefafel](https://osu.ppy.sh/users/2295850)**
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334)
 - ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207)
 - ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970)
 - ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761)
 - ::{ flag=GB }:: [KnightC0re](https://osu.ppy.sh/users/7894340)
-- ::{ flag=FI }:: [Lefafel](https://osu.ppy.sh/users/2295850)
+- ::{ flag=FI }:: [Nowaie](https://osu.ppy.sh/users/5428909)
 - ::{ flag=RU }:: [piroshki](https://osu.ppy.sh/users/7645522)
 - ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553)
 - ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
@@ -44,12 +44,10 @@ Los equipos de curadores dedicados organizan cada lanzamiento de Beatmap Spotlig
 
 ### Curadores de osu!taiko
 
-- ::{ flag=TN }:: **[Hivie](https://osu.ppy.sh/users/14102976)**
-- ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864)
+- ::{ flag=US }:: **[meiqth](https://osu.ppy.sh/users/12565402)**
 - ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996)
 - ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438)
 - ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910)
-- ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402)
 - ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097)
 - ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719)
 
@@ -60,7 +58,6 @@ Los equipos de curadores dedicados organizan cada lanzamiento de Beatmap Spotlig
 - ::{ flag=UA }:: [M0RU](https://osu.ppy.sh/users/13681464)
 - ::{ flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462)
 - ::{ flag=CA }:: [WadBot](https://osu.ppy.sh/users/14571181)
-- ::{ flag=US }:: [wonjae](https://osu.ppy.sh/users/5032045)
 - ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466)
 
 ### Curadores de osu!mania

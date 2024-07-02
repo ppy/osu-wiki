@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Beach Episode Art Contest"
+title: Beach Episode Art Contest
 date: 2023-06-20 08:00:00 +0000
 ---
 

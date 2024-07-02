@@ -29,8 +29,8 @@ Je kan meevolgen met onze afbeeldingen van [deze beatmap](https://osu.ppy.sh/bea
 Het is belangrijk om een paar dingen te onthouden zodat je de beatmapdiscussiepagina’s zo effeciënt mogelijk kan gebruiken:
 
 - Kies de correcte spelmodus en moeilijkheidsgraad waarvoor je wilt modden.
-- Selecteer de juiste sectie waarvoor je jouw mod inzendt. 
-- **Plaats slechts één probleem per keer.** Zet meerdere problemen niet in één post. 
+- Selecteer de juiste sectie waarvoor je jouw mod inzendt.
+- **Plaats slechts één probleem per keer.** Zet meerdere problemen niet in één post.
 - Controleer of het probleem al geadresseerd werd wanneer de gelijkaardige post-waarschuwing wordt weergegeven.
 - Overweeg het om de beatmap te hypen als je ze leuk vindt.
 

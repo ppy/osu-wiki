@@ -6,7 +6,7 @@ tags:
 
 # Catch the Beat Indonesia Cup 2018
 
-![CIC 2018 logo](img/logo.jpg)
+![CIC 2018 logo](img/logo.png)
 
 The **Catch the Beat Indonesia Cup 2018** (***CIC 2018***) was a 1v1 Indonesian osu!catch tournament hosted by ::{ flag=ID }:: [\[490\]Kazuyo](https://osu.ppy.sh/users/1830361). It was the sixth instalment of the Catch the Beat Indonesia Cup.
 

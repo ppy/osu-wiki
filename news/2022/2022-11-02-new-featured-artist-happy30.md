@@ -8,7 +8,7 @@ From composing circles in the editor to composing his own songs, **happy30** joi
 
 ![](https://assets.ppy.sh/artists/317/header.jpg)
 
-You might not know **happy30** as a musician yet, but you're most definitely familiar with [**happy30** as a legendary osu! mapper](https://osu.ppy.sh/users/27767). 
+You might not know **happy30** as a musician yet, but you're most definitely familiar with [**happy30** as a legendary osu! mapper](https://osu.ppy.sh/users/27767).
 
 Whether it's fame from multi-million play beatmaps like [Demetori - Emotional Skyscraper ~ World's End](https://osu.ppy.sh/beatmapsets/13223) or infamy for [death](https://osu.ppy.sh/beatmapsets/42234) [spinners](https://osu.ppy.sh/beatmapsets/24611), **happy30** is bound to be somewhere in your beatmap library. He's been mapping since 2009, and somewhere between then and now, he's expanded his connection to music into song production!
 

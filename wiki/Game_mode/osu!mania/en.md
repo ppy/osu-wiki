@@ -86,6 +86,8 @@ Health bar regeneration occurs slowly while holding the hold note(s). Depending 
 
 *Refer to [Play Styles page under osu!mania](/wiki/Gameplay/Play_style#osu!mania).*
 
+*See also: [osu!mania 10K+ playstyles](/wiki/Beatmapping/osu!mania_10K_plus_playstyles)*
+
 ## Controls
 
 ![Options keyboard section](/wiki/shared/Options_keyboard.jpg "Options Input icon, Keyboard section")

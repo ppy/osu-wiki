@@ -171,7 +171,7 @@ tags:
 
 如果该玩家在 6 个月内在任意一个游戏模式中游玩过，我们将在 6 个月的基础上，使用一个[非线性函数](https://www.desmos.com/calculator/b89siyv9j8)来计算用户名可用的额外时间。这是防止某些人只靠低活跃度，持续地占据活跃玩家或只是近期不活跃玩家的用户名。
 
-另外，你不能占据已经拥有[上架谱面](/wiki/Beatmap/Category#上架-(ranked))或[主页奖牌](/wiki/Community/Profile_badge)的玩家正在使用的用户名。
+另外，你不能占据已经拥有[上架谱面](/wiki/Beatmap/Category#ranked)或[主页奖牌](/wiki/Community/Profile_badge)的玩家正在使用的用户名。
 
 ### 我可以改回我之前使用的用户名么？ {id=revert-username}
 

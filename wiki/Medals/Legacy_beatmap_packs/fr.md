@@ -398,7 +398,7 @@ Beatmaps :
 
 ## Le saviez-vous ?
 
-- La beatmap [Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463), qui était incluse dans le Internet Pack (Volume 1), était connue pour avoir été poussée dans la catégorie [approuvée](/wiki/Beatmap/Category#approuvée) alors qu'elle ne comportait qu'un seul spinner. Bien que la beatmap ait été [retirée de la liste des beatmaps approuvées peu de temps après](https://osu.ppy.sh/community/forums/posts/149328), ses restes sont néanmoins restés sur le Internet Pack (Volume 1).
+- La beatmap [Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463), qui était incluse dans le Internet Pack (Volume 1), était connue pour avoir été poussée dans la catégorie [approuvée](/wiki/Beatmap/Category#approved) alors qu'elle ne comportait qu'un seul spinner. Bien que la beatmap ait été [retirée de la liste des beatmaps approuvées peu de temps après](https://osu.ppy.sh/community/forums/posts/149328), ses restes sont néanmoins restés sur le Internet Pack (Volume 1).
 
 ## Notes
 

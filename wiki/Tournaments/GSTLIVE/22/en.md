@@ -9,7 +9,7 @@ tags:
 
 ![GST:LIVE 2022 banner](img/banner.png)
 
-**GST:LIVE 2022** is a 2v2 single-elimination osu! tournament hosted by ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133), and ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957). It is the second instalment of GST:LIVE. The bracket stage is to be held on the 17th of December in conjunction with [Asia Esports Festival Online 2022](https://esportsasia.net/upcoming-events/aef-online-2022/) (*AEF Online 2022*). 
+**GST:LIVE 2022** is a 2v2 single-elimination osu! tournament hosted by ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133), and ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957). It is the second instalment of GST:LIVE. The bracket stage is to be held on the 17th of December in conjunction with [Asia Esports Festival Online 2022](https://esportsasia.net/upcoming-events/aef-online-2022/) (*AEF Online 2022*).
 
 ## Tournament schedule
 
@@ -99,7 +99,7 @@ GST:LIVE 2022 is run by various community members.
 This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
-| :-: | :-- | 
+| :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **we go jim** (::{ flag=SG }:: **Eagle5324**, ::{ flag=SG }:: Moroha29) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Among the Sus** (::{ flag=SG }:: **Rtyzen**, ::{ flag=SG }:: Loslite) |
 
@@ -199,7 +199,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Match procedure
 
-1. The higher `!roll` gets to choose **pick order**. 
+1. The higher `!roll` gets to choose **pick order**.
 2. Each team will be given a maximum of **90 seconds** for picking maps. Failure to decide before the time limit will result in the action being passed to the opponent.
 3. After a beatmap is selected, teams will have a maximum of **90 seconds** to ready up.
 4. For each map that does not require the Hidden mod, players may choose to play said maps with Hidden, with those scores divided by 1.06. As such, you are required to co-operate by putting on the required mods for each map as the multiplayer lobby will virtually permanently have Free Mod enabled.

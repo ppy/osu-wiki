@@ -11,7 +11,7 @@ tags:
 
 The **Beatmap Spotlights** (or just *Spotlights*, formerly *Ranking Charts*) is a recurring curation program for recommending and highlighting [beatmaps](/wiki/Beatmap) for their excellent and unique gameplay and design. It is accompanied by a [seasonal league](#spotlights-seasons), where players compete on said maps for [badge prizes](#rewards).
 
-The current season is the Spring 2023 season.
+The current season is the Autumn 2023 season.
 
 The [Beatmap Spotlight Curators group page](https://osu.ppy.sh/groups/48) lists all of the team members. See the [Beatmap Spotlight Curators article](/wiki/People/Beatmap_Spotlight_Curators) page for a more detailed listing of all the roles within the BSC.
 
@@ -50,7 +50,7 @@ The seasonal leaderboard sums up the weekly ranked score results of every partic
    - Replaying a playlist at another week will make **only the best weekly ranked score** count, overwriting the worse one.
 3. Leaderboard will be updated after each playlist conclusion.
    - The participants will not be told their exact seasonal score, they will be assigned to league brackets instead.
-   - The leaderboard will be released in the [osu! community discord](https://discord.gg/0Vxo9AsejDkGlk3H), in the `#osu-spotlights` channel as well as in the lobby chat of the next playlist.
+   - The leaderboard will be released in the [osu! community discord](https://discord.com/invite/0Vxo9AsejDkGlk3H), in the `#osu-spotlights` channel as well as in the lobby chat of the next playlist.
 
 ### Rewards
 
@@ -107,8 +107,8 @@ The curation system involves the process of curators selecting the beatmaps bein
 The current implementation of the Beatmap Spotlights is highly experimental and can change anytime depending on how players respond to it. Because of that, it is important to collect as much feedback and criticism as possible to improve furtherly on the direction and implementation of this system. Players are encouraged to leave their thoughts and feedback here:
 
 - [Feedback forum thread](https://osu.ppy.sh/community/forums/topics/1189626)
-- `#beatmap-spotlights` in the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H)
-- `#osu-spotlights` in the [osu!dev Discord server](https://discord.gg/ppy)
+- `#beatmap-spotlights` in the [osu! community Discord server](https://discord.com/invite/0Vxo9AsejDkGlk3H)
+- `#osu-spotlights` in the [osu! Discord server](https://discord.com/invite/ppy)
 
 ## History
 
@@ -125,6 +125,8 @@ Renamed to Beatmap Spotlights in March 2017,[^charts-renamed-into-spotlights] th
 In August 2020, ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) stepped down from leading the project. At the end of November 2020, ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) also resigned, and ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) took over the project along with ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418).
 
 After the conclusion of the Spring 2021 season, the project went on hiatus, which lasted until September 2021 when efforts of revival emerged, with ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) stepping down from his management role, and ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) joining instead. In February 2022, the project resumed operating after some structural and team changes.
+
+In October 2023, ::{ flag=AU }:: [Crumpey](https://osu.ppy.sh/users/3518705) was brought up as a project manager to help out with general organization of the project. In November 2023, ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) stepped down from the same role.
 
 ## References
 

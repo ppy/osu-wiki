@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Show Your Love!"
+title: Show Your Love!
 date: 2016-10-21 10:59:18 +0000
 tumblr_url: http://osunews.tumblr.com/post/152109048933/show-your-love
 ---

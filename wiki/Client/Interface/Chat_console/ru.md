@@ -26,7 +26,7 @@
 
 *В [osu!academy](/wiki/Community/Video_series/osu!academy) рассказали об этом в [6 эпизоде (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII), как и про [мультиплеер](/wiki/Client/Interface/Multiplayer).*
 
-Расширенное окно чата можно открыть, нажав `F9` или кликнув по кнопке `Online Users` в правом нижнем углу экрана. 
+Расширенное окно чата можно открыть, нажав `F9` или кликнув по кнопке `Online Users` в правом нижнем углу экрана.
 
 ![Расширенное окно чата](img/Chat_Console-Extended.png "Расшриенное окно чата")
 

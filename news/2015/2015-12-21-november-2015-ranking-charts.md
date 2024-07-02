@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "November 2015 Ranking Charts"
+title: November 2015 Ranking Charts
 date: 2015-12-21 21:47:39 +0000
 tumblr_url: http://osunews.tumblr.com/post/135664577013/november-2015-ranking-charts
 ---
@@ -111,8 +111,6 @@ Featuring 8 difficulties from 7 different mappers, this is a set that contains s
 - [Nana Mizuki - Vitalization](https://osu.ppy.sh/beatmapsets/120383) by [Kurokami](https://osu.ppy.sh/users/260933)
 
 Surprisingly the only pure CtB mapset in my selection, I chose this mapset for those more accustomed to specific difficulties rather than converts, and also because I'm so happy to see it get ranked after more than two years of work. Each of the difficulties will pose a decent challenge to their intended audience, with fast-paced and varied rhythms providing numerous jumps and streams even on the lower difficulties. The outstanding difficulty of this set is definitely the Platter, which makes use of some really awesome wiggling and jump patterns, as well as beautifully flowing sliders and stream sections that make it worth checking out regardless of your ability level.
-
-
 
 ### osu!mania
 

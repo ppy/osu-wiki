@@ -16,3 +16,4 @@ tags:
 - [Musim Panas 2022](2022_Summer)
 - [Musim Dingin 2023](2023_Winter)
 - [Musim Semi 2023](2023_Spring)
+- [Musim Gugur 2023](2023_Autumn)

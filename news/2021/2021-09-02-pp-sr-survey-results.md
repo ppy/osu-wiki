@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Results - Performance Points & Star Rating Survey"
+title: Results - Performance Points & Star Rating Survey
 date: 2021-09-02 08:00:00 +0000
 ---
 

@@ -58,7 +58,7 @@ All of the above track plus a whole bunch more are available now over at [**The 
 
 As with all Featured Artist tracks, these new pieces are all 100% free for use in mapping and modding, so worry less and map more!
 
-We're right on track to continue bringing you more artists both familiar and fresh in the coming weeks, so keep your eyes and ears peeled! 
+We're right on track to continue bringing you more artists both familiar and fresh in the coming weeks, so keep your eyes and ears peeled!
 
 In addition, [the newly-expanded Mappers' Guild](https://mappersguild.com/) has been hard at work breathing new life into some older tracks from the Featured Artist library, so [why not take a look?](https://osu.ppy.sh/beatmapsets?m=-1&q=mappers%20guild)
 

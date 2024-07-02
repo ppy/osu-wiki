@@ -176,7 +176,7 @@ One last map: [this chill creation](https://osu.ppy.sh/beatmapsets/1129090) host
 
 [**YUC'e**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/372) is the only link you need.
 
-But if you want some more links, try out the [@osugame Twitter](https://twitter.com/osugame), where you can find updates on anything related to Featured Artists and circle clicking. 
+But if you want some more links, try out the [@osugame Twitter](https://twitter.com/osugame), where you can find updates on anything related to Featured Artists and circle clicking.
 
 Stick around for a batch of Featured Artist updates next week!
 

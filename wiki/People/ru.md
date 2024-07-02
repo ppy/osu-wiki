@@ -33,7 +33,6 @@ outdated_since: 8c666fcb55c89fb60b34b08cd04f1c064e59cd4e
 - [Language Surveillance Division](Language_Surveillance_Division)
 - [Mapping Assistance Team](Mapping_Assistance_Team)
 - [Quality Assurance Team](Quality_Assurance_Team)
-- [Команда osu!monthly](osu!monthly_team)
 
 ## Разное
 

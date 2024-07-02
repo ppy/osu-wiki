@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halloween 2022 Fanart Contest Results"
+title: Halloween 2022 Fanart Contest Results
 date: 2022-10-29 09:00:00 +0000
 ---
 
@@ -82,7 +82,7 @@ Hold on a second, what's she pointing at?
 
 [![](https://assets.ppy.sh/contests/154/banners/Luvince.jpg)](https://assets.ppy.sh/contests/154/winners/Luvince.png)
 
-**1847** voters gazed up to witness a starshower on Hallow's Eve only to catch sight of [**Luvince**](https://osu.ppy.sh/users/14356908)'s rendition of pippi and Mocha soaring high above the cityscape upon brooms amidst a flock of ravens. pippi looks surprised by what she sees, while Mocha sees only a candy apple. Cronch cronch. 
+**1847** voters gazed up to witness a starshower on Hallow's Eve only to catch sight of [**Luvince**](https://osu.ppy.sh/users/14356908)'s rendition of pippi and Mocha soaring high above the cityscape upon brooms amidst a flock of ravens. pippi looks surprised by what she sees, while Mocha sees only a candy apple. Cronch cronch.
 
 [![](https://assets.ppy.sh/contests/154/banners/Snowlite.jpg)](https://assets.ppy.sh/contests/154/winners/Snowlite.png)
 
@@ -130,7 +130,7 @@ All bar the Most Spooktacular entry described above are available now in-game as
 
 The top 3 finalists (plus the Most Spooktacular entry) will enjoy bespoke profile badges added to their profiles to celebrate their win, and all finalists listed above will receive 3 months of osu!supporter for their incredible efforts.
 
-A huge thank you to everyone who entered and voted this time around, especially due to the unexpectedly cramped schedule we had to operate with this time. We'll be making some changes to ensure the Halloween contest in particular starts earlier next year, so there's more time for both artists and voters to do their thing. 
+A huge thank you to everyone who entered and voted this time around, especially due to the unexpectedly cramped schedule we had to operate with this time. We'll be making some changes to ensure the Halloween contest in particular starts earlier next year, so there's more time for both artists and voters to do their thing.
 
 Check out the [Halloween 2022 Fanart Contest listing](https://osu.ppy.sh/community/contests/154) for the full rundown of how the voting went, plus handy links to the authors of each piece. Consider following a few on your favourite social media/art platform of choice if you like what you saw!
 

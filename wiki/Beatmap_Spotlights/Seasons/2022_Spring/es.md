@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 tags:
   - charts
   - Ranking Charts
@@ -9,7 +8,7 @@ tags:
   - Destacados de temporada
 ---
 
-# Temporada 6 de Beatmaps Spotlights (Primavera 2022)
+# Temporada 6 de Beatmap Spotlights (Primavera 2022)
 
 ## Calendario
 
@@ -32,8 +31,8 @@ A partir de ahora, unirse a las salas multijugador semanales requiere que los pa
    - Después de la primera ola de salas, las listas de juego se abrirán nuevamente semanalmente.
 2. Cada sala de lista de juego proporciona una lista de juego predefinida de beatmaps.
    - Cada lista de juego contiene una distribución uniforme de beatmaps Hard, Insane y Expert.
-   - Cada lista de juego se corresponde con la letra asignada a cada 2 semanas. Por lo tanto, cada lista de juego se reproduce una vez durante una temporada.
-3. Dentro de una sala de lista de juego, todos compiten hacia una tabla de clasificación específica de la sala.
+   - Cada lista de juego se corresponde con la letra asignada a cada 2 semanas. Por lo tanto, cada lista de juego se repite una vez durante una temporada.
+3. Dentro de una sala de lista de juego, todos compiten en una tabla de clasificación específica de la sala.
    - Solo los mejores resultados de puntuación en cada beatmap dentro de la lista de juego se resumen para crear una puntuación semanal para cada jugador.
    - Cada beatmap de una lista de juego cuenta por igual para la puntuación de la tabla de clasificación.
    - La puntuación del beatmap individual se basa en el sistema de puntuación de osu!(lazer).
@@ -41,7 +40,7 @@ A partir de ahora, unirse a las salas multijugador semanales requiere que los pa
 
 ## Listas de juego
 
-### osu! (dirigido por [Nowaie](https://osu.ppy.sh/users/5428909))
+### osu! (dirigida por [Nowaie](https://osu.ppy.sh/users/5428909))
 
 #### Lista de juego A (high speed)
 
@@ -79,7 +78,7 @@ A partir de ahora, unirse a las salas multijugador semanales requiere que los pa
 - [rejection - Aimai Attitude (feat. Nakamura Sanso) (Regou) \[Girlish Extra ft. Regou\]](https://osu.ppy.sh/beatmapsets/1601852#osu/3271290), sugerido por [ChillierPear](https://osu.ppy.sh/users/9501251)
 - [tokiwa - Kotodama Refrain (katagiri Bootleg) (Halgoh) \[Halgoh's Extreme\]](https://osu.ppy.sh/beatmapsets/1605822#osu/3371047), sugerido por [Omgforz](https://osu.ppy.sh/users/578943)
 
-### osu!taiko (dirigido por [Hivie](https://osu.ppy.sh/users/14102976))
+### osu!taiko (dirigida por [Hivie](https://osu.ppy.sh/users/14102976))
 
 #### Lista de juego A (high speed)
 
@@ -117,7 +116,7 @@ A partir de ahora, unirse a las salas multijugador semanales requiere que los pa
 - [CY8ER - Koinatsu (Cut Ver.) (komasy) \[Summer\]](https://osu.ppy.sh/beatmapsets/1573592#taiko/3212965), sugerido por [uone](https://osu.ppy.sh/users/5321719)
 - [Kikuo - Gakkou o Yasunda Hi no Koto (Alchyr) \[Forgotten\]](https://osu.ppy.sh/beatmapsets/1606407#taiko/3280230), sugerido por [Axer](https://osu.ppy.sh/users/7299864)
 
-### osu!catch (dirigido por [SadEgg](https://osu.ppy.sh/users/10278243))
+### osu!catch (dirigida por [SadEgg](https://osu.ppy.sh/users/10278243))
 
 #### Lista de juego A (high speed)
 
@@ -155,7 +154,7 @@ A partir de ahora, unirse a las salas multijugador semanales requiere que los pa
 - [P\*Light - TRIGGER\*HAPPY (CLSW) \[Crystal's INFINITE\]](https://osu.ppy.sh/beatmapsets/74671#fruits/267080), sugerido por [SadEgg](https://osu.ppy.sh/users/10278243)
 - [solfa feat. Ceui - primal (-Luminate) \[Shining Blossom\]](https://osu.ppy.sh/beatmapsets/1383242#fruits/2857667), sugerido por [SadEgg](https://osu.ppy.sh/users/10278243)
 
-### osu!mania (dirigido por [Crumpey](https://osu.ppy.sh/users/3518705))
+### osu!mania (dirigida por [Crumpey](https://osu.ppy.sh/users/3518705))
 
 #### Lista de juego A (high speed)
 

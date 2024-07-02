@@ -122,7 +122,7 @@ Untuk panduan lebih lanjut seputar masalah ini, harap lihat [topik diskusi pada 
 
 **Pastikan kamu tidak sedang mengelompokkan beatmap-beatmap yang ada berdasarkan kriteria tertentu.**
 
-Harap periksa apakah opsi "Grup" yang terdapat pada pojok kanan atas layar sedang terpasang ke "Tanpa Pengelompokan" atau tidak. 
+Harap periksa apakah opsi "Grup" yang terdapat pada pojok kanan atas layar sedang terpasang ke "Tanpa Pengelompokan" atau tidak.
 
 Apabila kamu masih merasa ada beatmap-beatmap yang hilang, cobalah untuk menekan `F5` agar osu! dapat memproses dan memuat ulang beatmap-beatmap yang ada.
 
@@ -135,7 +135,7 @@ Di samping itu, pastikan juga kamu tidak sedang membatasi rentang batas tingkat 
 
 ![](img/difficulty-display.png "Pengaturan rentang batas tingkat kesulitan yang disarankan")
 
-Apabila kamu sudah mencoba semua hal di atas namun kamu tetap saja masih merasa ada beatmap-beatmap yang hilang, kamu dapat memaksa osu! untuk mereka ulang *database* lagu yang osu! miliki dari awal. **Harap dicatat bahwa proses ini akan menghilangkan segala rekam jejak permainan yang ada sebelumnya.** 
+Apabila kamu sudah mencoba semua hal di atas namun kamu tetap saja masih merasa ada beatmap-beatmap yang hilang, kamu dapat memaksa osu! untuk mereka ulang *database* lagu yang osu! miliki dari awal. **Harap dicatat bahwa proses ini akan menghilangkan segala rekam jejak permainan yang ada sebelumnya.**
 
 Untuk dapat mereka ulang *database* lagu yang osu! miliki, ikuti langkah-langkah berikut:
 
@@ -152,7 +152,7 @@ Untuk dapat mereka ulang *database* lagu yang osu! miliki, ikuti langkah-langkah
 
 ### Daftar lagu yang ada pada layar saya terus-menerus bergulir tanpa henti! {id=songs-list-scrolling}
 
-**Masalah ini pada umumnya disebabkan oleh terdapatnya suatu tombol yang macet pada piranti input (*input device*) yang bermasalah. Cobalah untuk mencopot *keyboard* atau *joystick* yang sedang kamu gunakan.** 
+**Masalah ini pada umumnya disebabkan oleh terdapatnya suatu tombol yang macet pada piranti input (*input device*) yang bermasalah. Cobalah untuk mencopot *keyboard* atau *joystick* yang sedang kamu gunakan.**
 
 Di samping itu, masalah ini juga dapat disebabkan oleh penggunaan aplikasi yang dapat menyimulasikan input *mouse* dan *keyboard* secara virtual seperti *Xpadder* atau *X-Mouse Button Control*. Apabila kamu sebelumnya pernah menggunakan aplikasi yang demikian, cobalah untuk menutupnya.
 
@@ -164,7 +164,7 @@ Terakhir, jangan lupa untuk selalu menjaga dan merawat piranti-piranti inputmu d
 
 **Kamu harus terlebih dahulu mengekstrak isi paket beatmap tersebut ke dalam folder Songs yang kamu miliki.**
 
-Paket-paket beatmap yang tersedia pada situs web osu! pada umumnya tersedia dalam format `.rar` yang terkompresi. Kamu harus terlebih dahulu mengekstrak isi paket beatmap tersebut dengan menggunakan aplikasi semacam [7-Zip](https://7-zip.org "7zip") ke dalam folder `Songs` yang kamu miliki. 
+Paket-paket beatmap yang tersedia pada situs web osu! pada umumnya tersedia dalam format `.rar` yang terkompresi. Kamu harus terlebih dahulu mengekstrak isi paket beatmap tersebut dengan menggunakan aplikasi semacam [7-Zip](https://7-zip.org "7zip") ke dalam folder `Songs` yang kamu miliki.
 
 Setelah semua berkas `.osz` yang terkandung di dalam paket beatmap yang bersangkutan selesai diekstrak, tekan `F5` pada layar osu! agar osu! dapat memuat beatmap-beatmap yang baru saja kamu tambahkan tersebut ke dalam permainan.
 
@@ -224,7 +224,7 @@ Harap dicatat bahwa apabila karena suatu alasan tayangan ulang milikmu hilang at
 
 **Waktunya untuk memperbaharui versi osu! yang kamu gunakan! Versi-versi osu! lawas pada umumnya tidak lagi dapat digunakan untuk mengirimkan skor secara *online*, sehingga kamu harus memperbaharui versi osu! milikmu melalui menu `Options` -> `Umum` -> `Jalankan osu! updater` untuk tetap dapat terhubung dengan para pemain lain.**
 
-Kamu juga dapat memperbaharui versi osu! yang kamu gunakan melalui menu `osu! configuration` yang dapat kamu akses dengan cara menahan tombol `Shift` di saat kamu membuka klien osu! (`osu.exe`) milikmu. 
+Kamu juga dapat memperbaharui versi osu! yang kamu gunakan melalui menu `osu! configuration` yang dapat kamu akses dengan cara menahan tombol `Shift` di saat kamu membuka klien osu! (`osu.exe`) milikmu.
 
 ### Skor-skor yang saya torehkan tidak terkirim/ter-submit secara online! {id=no-submission}
 
@@ -293,7 +293,7 @@ Terakhir, jangan lupa untuk senantiasa memperbaharui *driver* milik *sound card*
 
 Pada umumnya, *screen tearing* ini timbul karena jumlah *frame* yang osu! tampilkan per detiknya tidak sesuai dengan nilai *refresh rate* yang monitor kamu miliki. Adapun masalah ini tidak membahayakan komputer atau monitormu.
 
-Di samping itu, kamu juga dapat menjalankan osu! pada mode `Windowed` atau `Borderless` yang akan secara otomatis mengaktifkan opsi `Vsync` yang ada. Harap dicatat bahwa penggunaan `VSync` dan/atau mode `Windowed` dan `Borderless` di sini dapat menurunkan performa osu! dan menambah *input lag* bagi sebagian pemain. 
+Di samping itu, kamu juga dapat menjalankan osu! pada mode `Windowed` atau `Borderless` yang akan secara otomatis mengaktifkan opsi `Vsync` yang ada. Harap dicatat bahwa penggunaan `VSync` dan/atau mode `Windowed` dan `Borderless` di sini dapat menurunkan performa osu! dan menambah *input lag* bagi sebagian pemain.
 
 Apabila kamu menggunakan kartu grafik (*graphics card*) NVidia, kamu juga dapat mengatasi masalah ini dengan cara membuka aplikasi NVidia Control Panel dan mengatur nilai `global refresh rate` yang ada ke `Fast`.
 
@@ -307,7 +307,7 @@ Berikut merupakan langkah-langkah yang dapat kamu lakukan agar koneksi dari dan 
 
 #### Mengatur agar koneksi osu! tidak terhalang oleh Windows Firewall {id=firewall-whitelist-windows}
 
-**Pada umumnya, para pengguna Windows sudah memiliki aplikasi Windows Firewall yang terpasang secara *default* pada sistem.** 
+**Pada umumnya, para pengguna Windows sudah memiliki aplikasi Windows Firewall yang terpasang secara *default* pada sistem.**
 
 Apabila osu! tidak dapat terhubung ke internet, kamu dapat mengecek apakah koneksi dari dan menuju jaringan osu! sedang diblokir oleh Windows Firewall atau tidak melalui langkah-langkah berikut:
 
@@ -412,7 +412,7 @@ Apabila *driver sound card* milikmu tidak bermasalah, cobalah untuk mencopot pir
 
 ### Saya sudah mencoba semua hal yang disarankan di atas, namun saya tetap menemui masalah ini! {id=reboot-nothing-helps}
 
-Harap jabarkan detail-detail permasalahan yang tengah kamu hadapi (mulai dari gejala-gejala yang kamu alami, spesifikasi komputermu, hingga informasi-informasi lainnya yang sekiranya dapat membantu) kepada tim layanan dukungan kami melalui email pada alamat [accounts@ppy.sh](mailto:accounts@ppy.sh). 
+Harap jabarkan detail-detail permasalahan yang tengah kamu hadapi (mulai dari gejala-gejala yang kamu alami, spesifikasi komputermu, hingga informasi-informasi lainnya yang sekiranya dapat membantu) kepada tim layanan dukungan kami melalui email pada alamat [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
 ### Ketika saya bermain osu!mania, jumlah tombol yang dapat saya tekan secara bersamaan dalam satu waktu terbatas hanya pada beberapa tombol saja! {id=keyboard-ghosting}
 
@@ -511,7 +511,7 @@ Pada umumnya, biang kerok dari masalah ini adalah aplikasi *torrent* yang mengir
 
 **Dalam kasus-kasus tertentu, osu! membutuhkan waktu untuk dapat memproses segala sesuatunya dari awal.**
 
-Apabila kamu memiliki koleksi beatmap dalam jumlah yang sangat banyak, harap berikan osu! waktu 10-15 menit untuk dapat mereka ulang *database* beatmap yang ada. 
+Apabila kamu memiliki koleksi beatmap dalam jumlah yang sangat banyak, harap berikan osu! waktu 10-15 menit untuk dapat mereka ulang *database* beatmap yang ada.
 
 Apabila masalahmu masih belum kunjung terselesaikan, cobalah untuk me-*restart* PC milikmu.
 

@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 0df11d00415c24fe6867239d75ec1cd3b575162b
 tags:
   - техподдержка
   - служба поддержки

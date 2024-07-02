@@ -10,7 +10,7 @@ date: 2022-05-04 09:00:00 +0000
 
 Flaunting dramatic rhythm game music with fun and upbeat melodies, **Ardolf** is the producer everyone wishes they knew about earlier. With the spotlight in games like *Lanota*, *Geometry Dash*, and *Friday Night Funkin*, **Ardolf** has amassed an audience that'll only grow with his new inclusion on osu!.
 
-**12** tunes have arrived fresh and ready for mapping from [**Ardolf**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/263)! 
+**12** tunes have arrived fresh and ready for mapping from [**Ardolf**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/263)!
 
 You don't need us to tell you how good **Ardolf** sounds, of course. Check out [*Ardolf - Varcolac*](https://osu.ppy.sh/beatmapsets/1750904) through this video showcasing some of lazer's skinning flexibility, then listen through the rest of what's available:
 

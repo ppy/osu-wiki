@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "December 2014 Monthly Ranking Charts"
+title: December 2014 Monthly Ranking Charts
 date: 2015-01-17 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/108383919548/december-2014-monthly-ranking-charts
 ---

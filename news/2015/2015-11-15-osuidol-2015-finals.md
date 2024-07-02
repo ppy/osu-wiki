@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!idol 2015 Finals!"
+title: osu!idol 2015 Finals!
 date: 2015-11-15 21:10:52 +0000
 tumblr_url: http://osunews.tumblr.com/post/133290103163/osuidol-2015-finals
 ---

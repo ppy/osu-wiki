@@ -360,7 +360,7 @@ Saturday, 20 June 2020:
 | Degeneracy Gang | -1 | **0** | **osu!Coin** | *win by default* |
 | Desu | -1 | **0** | **Asia-Pacific** | *win by default* |
 | **WeLoveKöfte** | **0** | -1 | KuroNeko | *win by default* |
-| **Alek & Friends** | **6** | 4 | No Name  | [#1](https://osu.ppy.sh/community/matches/63163472) |
+| **Alek & Friends** | **6** | 4 | No Name | [#1](https://osu.ppy.sh/community/matches/63163472) |
 | **OSBT Squad** | **6** | 2 | Click the Circles to the Beat | [#1](https://osu.ppy.sh/community/matches/63165853) |
 | Fashionably Late | 2 | **6** | **WeHatePP** | [#1](https://osu.ppy.sh/community/matches/63169979) |
 | PVC PIPES for survival situations | 4 | **6** | **Bats from Wuhan** | [#1](https://osu.ppy.sh/community/matches/63170212) |

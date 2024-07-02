@@ -87,7 +87,7 @@
 - Added [-SiN-](https://osu.ppy.sh/users/10560) to Mapping Assistance Team (2009-12-27) <!-- not sure if this guy was actually MAT but they're alumni now so they did *something* -->
 - Moved [vytalibus](https://osu.ppy.sh/users/10028) from Beatmap Approval Team to osu! Alumni (2009-12-31) <!-- https://osu.ppy.sh/community/forums/topics/22094 -->
 
-<!-- re new MAT spam, it seems like everyone in https://osu.ppy.sh/community/forums/topics/21682  without "OMIT" was supposed to pass, but some might not have accepted the invitation (or something else?). 
+<!-- re new MAT spam, it seems like everyone in https://osu.ppy.sh/community/forums/topics/21682  without "OMIT" was supposed to pass, but some might not have accepted the invitation (or something else?).
 listed below are the people who should've been added but (probably) were not:
 - Symbolic
 - Gladi

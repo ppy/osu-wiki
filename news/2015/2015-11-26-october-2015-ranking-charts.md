@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "October 2015 Ranking Charts"
+title: October 2015 Ranking Charts
 date: 2015-11-26 13:55:57 +0000
 tumblr_url: http://osunews.tumblr.com/post/133993037128/october-2015-ranking-charts
 ---

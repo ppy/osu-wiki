@@ -6,7 +6,7 @@ stub: true
 
 **Kudosu(クドス)** は[Mod](/wiki/Modding)の貢献度を示すポイントのことです。[ビートマップディスカッション](/wiki/Beatmap_discussion)で正しくMODをした際に貰え、合計ポイントはプロフィール内で確認できます。
 
-Kudosuはビートマップに対して助言になる、または的確な指摘をした投稿に対してマッパーは投稿上部にあるグッドボタンを押すことによりmodderへ与えることができます。 
+Kudosuはビートマップに対して助言になる、または的確な指摘をした投稿に対してマッパーは投稿上部にあるグッドボタンを押すことによりmodderへ与えることができます。
 
 かつては[フォーラムMod](/wiki/Modding/Forum_modding)の[STAR](/wiki/Modding/Star_priority)と同じものとして扱っていました。
 

@@ -123,7 +123,7 @@ This competition has come to an end and resulted in the following podium:
   3. [TOMOSUKE - Macuilxochitl (Raijodo) \[Flower (phox's CS4 Edit)\]](https://osu.ppy.sh/beatmapsets/1683090#osu/3438884)
   4. [Silentroom - NULCTRL (factal Remix) (Xarr) \[fluid\]](https://osu.ppy.sh/beatmapsets/1256524#osu/2611132)
   5. [Spire - Somnambulism (verychill) \[LMT's Lucid Nightmare\]](https://osu.ppy.sh/beatmapsets/1171893#osu/3120531)
-  6. [tarolabo - eth ken (ktgster) \[Extreme (phox's AR9 Edit)\]](https://osu.ppy.sh/beatmapsets/1683088#osu/3438882)  
+  6. [tarolabo - eth ken (ktgster) \[Extreme (phox's AR9 Edit)\]](https://osu.ppy.sh/beatmapsets/1683088#osu/3438882)
 - Hidden
   1. [Yorushika - Walk (Ryuusei Aika) \[Whitening Memory, Catchpenny Pattern and You\]](https://osu.ppy.sh/beatmapsets/1518479#osu/3108320)
   2. [void (Mournfinale) - World Vanquisher (Deppyforce) \[De-structurization\]](https://osu.ppy.sh/beatmapsets/1683078#osu/3438866)
@@ -154,7 +154,7 @@ This competition has come to an end and resulted in the following podium:
   3. [siromaru + cranky - conflict (yf\_bmp) \[Intersection\]](https://osu.ppy.sh/beatmapsets/1212359#osu/3107406)
   4. [Billain - Codename (winber1) \[\_.\]](https://osu.ppy.sh/beatmapsets/1495814#osu/3066436)
   5. [Cattle Decapitation - Your Disposal (Chanci) \[Eradication\]](https://osu.ppy.sh/beatmapsets/988109#osu/2207855)
-  6. [Nekomata Master - Life is beautiful (DeviousPanda) \[Extravaganza (Tournament Ver.)\]](https://osu.ppy.sh/beatmapsets/1570515#osu/3207016)  
+  6. [Nekomata Master - Life is beautiful (DeviousPanda) \[Extravaganza (Tournament Ver.)\]](https://osu.ppy.sh/beatmapsets/1570515#osu/3207016)
 - Hidden
   1. [bbno$ & Rich Brian - edamame (PotatoDew) \[nerf\]](https://osu.ppy.sh/beatmapsets/1589180#osu/3245938)
   2. [Alstroemeria Records feat. ayame - SACRIFICE (Original Mix) (Nuvolina) \[Extra\]](https://osu.ppy.sh/beatmapsets/1161525#osu/2423227)
@@ -185,7 +185,7 @@ This competition has come to an end and resulted in the following podium:
   3. [HIDEKI NAGANUMA - AIN'T NOTHIN' LIKE A FUNKY BEAT (yaspo) \[AIN'T NOTHIN' LIKE A FUNKY BEAT\]](https://osu.ppy.sh/beatmapsets/1627451#osu/3322521)
   4. [Elliot Hsu - Reality Purge (Realazy) \[Aether\]](https://osu.ppy.sh/beatmapsets/1508500#osu/3089374)
   5. [DJ Myosuke & Gram - JINGLE DEATH (Regou) \[Otosaka's Requiem... Extra\]](https://osu.ppy.sh/beatmapsets/1616023#osu/3328315)
-  6. [Ookami Mio - Sparkle (Deppyforce) \[Very Hard\]](https://osu.ppy.sh/beatmapsets/1202031#osu/2503405)  
+  6. [Ookami Mio - Sparkle (Deppyforce) \[Very Hard\]](https://osu.ppy.sh/beatmapsets/1202031#osu/2503405)
 - Hidden
   1. [Sangatsu no Phantasia - Seishun nante Iranaiwa (Smug Nanachi) \[Adolescence\]](https://osu.ppy.sh/beatmapsets/1146237#osu/2393405)
   2. [KOTOKO - Koi Kou Enishi (Shikibe Mayu) \[newton's Expert: Mako\]](https://osu.ppy.sh/beatmapsets/1404864#osu/3247654)
@@ -214,7 +214,7 @@ This competition has come to an end and resulted in the following podium:
   3. [Yonekura Chihiro - DEAR MY WAKER (Skystar) \[Overdrive\]](https://osu.ppy.sh/beatmapsets/1579180#osu/3224533)
   4. [Zekk - Freefall (0ppInOsu) \[0pp's bread is dead\]](https://osu.ppy.sh/beatmapsets/1581139#osu/3228592)
   5. [Okui Masami - God Speed (ykcarrot) \[Insane (AJT's 240BPM Edit)\]](https://osu.ppy.sh/beatmapsets/1129735#osu/2359996)
-  6. [MAD CHILD - Voice 2 Voice (Kawashiro) \[Yugu's MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1361203#osu/2987273)  
+  6. [MAD CHILD - Voice 2 Voice (Kawashiro) \[Yugu's MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1361203#osu/2987273)
 - Hidden
   1. [Araki x nqrse x Meychan - Odo (Chizu-Kun) \[Axaptice's Extra\]](https://osu.ppy.sh/beatmapsets/1545055#osu/3195697)
   2. [siqlo - wholeheartedly (Feiri) \[Extra\]](https://osu.ppy.sh/beatmapsets/1439394#osu/3297831)
@@ -312,7 +312,7 @@ This competition has come to an end and resulted in the following podium:
 - FreeMod
   1. [Camellia feat. Nanahira - Kizuitara Shunkashuutou (HeTo) \[Dubturt's Extra\]](https://osu.ppy.sh/beatmapsets/1120946#osu/2361902)
   2. [Nekomata Master feat. \*spiLa\* - Clumsy thoughts (AJT) \[Emotions\]](https://osu.ppy.sh/beatmapsets/1544696#osu/3157348)
-  3. [L.E.D. - THE LAST STRIKER (Amamiya Yuko) \[Another\]](https://osu.ppy.sh/beatmapsets/129065#osu/326367)    
+  3. [L.E.D. - THE LAST STRIKER (Amamiya Yuko) \[Another\]](https://osu.ppy.sh/beatmapsets/129065#osu/326367)
 
 ### Preliminary groups (upper bracket)
 
@@ -838,9 +838,9 @@ Sunday, 6 December 2021:
 5. If a player does not show up within **10 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
 7. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the beatmap regardless of their remaining health at the end.
-8. If a player disconnects, it will be treated as if they had failed the beatmap. 
+8. If a player disconnects, it will be treated as if they had failed the beatmap.
    - A match can be rematched for disconnects that occur within a few seconds after the beatmap has been started by the referee.
-9. If a player disconnects between beatmaps, the match can be delayed up to 15 minutes at most. 
+9. If a player disconnects between beatmaps, the match can be delayed up to 15 minutes at most.
    - In case the disconnected player fails to report back after the maximum allowance of 15 minutes had passed, the opposing player may be declared to win the match by default.
 10. Lag is not a valid reason to nullify a beatmap.
 11. If any problems during the match occur, the Tournament Management will make a decision based on the referee's report.
@@ -910,7 +910,7 @@ Sunday, 6 December 2021:
 4. Players who can compete in the next round are determined by the following criteria:
    - In the Round of 64, Round of 32, and Round of 16, each player needs to win 6 points in order to win a match. (Best-of-11)
    - In the Quarterfinals and Semifinals, each player needs to win 7 points in order to to win a match. (Best-of-13)
-   - In both of the Finals weeks (excluding the Grand Final), each player needs to win 8 points in order to to win a match. (Best-of-15)   
+   - In both of the Finals weeks (excluding the Grand Final), each player needs to win 8 points in order to to win a match. (Best-of-15)
    - In the Grand Final, each player needs to win 9 points in order to to win a match (Best-of-17) with the winner of the the Upper Bracket starting the match with a 2-point advantage as described above.
    - Players who win By default.
    - If there are players who are disqualified from the tournament.

@@ -42,7 +42,7 @@ When adding redirects for a new or existing article, keep in mind that they shou
 
 <!-- TODO: should probably briefly mention external links https://github.com/ppy/osu-web/issues/8086 and footnotes https://github.com/ppy/osu-wiki/issues/4911#issuecomment-893959588 once they are implemented -->
 
-### CI checks
+### CI checks {id=ci-checks}
 
 The osu! wiki repository uses [continuous integration](https://docs.github.com/en/actions/automating-builds-and-tests/about-continuous-integration) (CI) to automatically check incoming pull requests for various common errors. The list of checks is configured in the [`continuous-integration.yml`](https://github.com/ppy/osu-wiki/blob/master/.github/workflows/continuous-integration.yml) file.
 
@@ -65,8 +65,8 @@ For reference, below is a table of all CI checks in order:
 
 | # | Check | Tool | Explanation | Bypass |
 | :-: | :-- | :-- | :-- | :-- |
-| 1 | File sizes | [`scripts/ci/inspect_file_sizes.sh`](https://github.com/ppy/osu-wiki/blob/master/scripts/ci/inspect_file_sizes.sh) | Whether an image file is below the [news post and wiki article image file size limit](/wiki/Article_styling_criteria/Formatting#file-size) (1 MB). Gives a warning for files above 0.5 MB. | None. |
-| 2 | Markdown | [remark](https://github.com/remarkjs/remark) via [`scripts/ci/run_remark.sh`](https://github.com/ppy/osu-wiki/blob/master/scripts/ci/run_remark.sh) | Whether Markdown syntax is correct and consistent in wiki articles and news posts. | Add `<!-- lint ignore rule-name -->` above the offending line, where `rule-name` is the rule to ignore. |
+| 1 | File sizes | [`meta/check-file-sizes.sh`](https://github.com/ppy/osu-wiki/blob/master/meta/check-file-sizes.sh) | Whether an image file is below the [news post and wiki article image file size limit](/wiki/Article_styling_criteria/Formatting#file-size) (1 MB). Gives a warning for files above 0.5 MB. | None. |
+| 2 | Markdown | [remark](https://github.com/remarkjs/remark) via [`meta/remark.sh`](https://github.com/ppy/osu-wiki/blob/master/meta/remark.sh) | Whether Markdown syntax is correct and consistent in wiki articles and news posts. | Add `SKIP_REMARK` anywhere in the pull request description. To permanently suppress a specific error, add `<!-- lint ignore rule-name -->` above the offending line, where `rule-name` is the rule to ignore. |
 | 3 | YAML | `check-yaml` command of [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Whether YAML syntax is correct and consistent in the [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml) file and in [front matter](/wiki/Article_styling_criteria/Formatting#front-matter) | None. |
 | 4 | Broken wiki links | `check-links` command of [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Whether internal [wiki links](/wiki/Article_styling_criteria/Formatting#wiki-links) point to an actual article, news post (for news post links), or section thereof. | Add `SKIP_WIKILINK_CHECK` anywhere in the pull request description. |
 | 5 | Outdated translations | `check-outdated-articles` command of [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Whether translations are properly [marked as outdated](/wiki/Article_styling_criteria/Formatting#outdated-translations) when updating an English article. | Add `SKIP_OUTDATED_CHECK` anywhere in the pull request description. |

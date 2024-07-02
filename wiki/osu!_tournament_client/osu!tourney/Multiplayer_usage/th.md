@@ -4,7 +4,7 @@
 
 ห้องผู้เล่นหลายคนนั้นต้องตั้งชื่อโดยอ้างอิงจากรูปแบบที่แสดงขึ้นในแผงควบคุมของ osu!tourney
 
-รูปแบบจะประกอบไปด้วย: 
+รูปแบบจะประกอบไปด้วย:
 `Acronym_in_tournament.cfg: (ชื่อทีม 1) vs (ชื่อทีม 2)`
 
 `Acronym_in_tournament.cfg` จะถูกแทนที่ด้วยค่าของ `acronym` ในไฟล์ `tournament.cfg` จาก [การติดตั้ง](/wiki/osu!_tournament_client/osu!tourney/Setup).

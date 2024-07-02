@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "February 2016 Ranking Charts"
+title: February 2016 Ranking Charts
 date: 2016-03-16 13:29:43 +0000
 tumblr_url: http://osunews.tumblr.com/post/141144403708/february-2016-ranking-charts
 ---

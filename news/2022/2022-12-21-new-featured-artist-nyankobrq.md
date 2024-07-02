@@ -13,7 +13,7 @@ The one and only **nyankobrq** strides into our Featured Artist library!
 **5** delicious tracks (including the one above) are pre-timed and ready for mappers to bite into. Check 'em out on [**nyankobrq**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/330)!
 
 Haven't heard **nyankobrq**'s music yet? Use your circle-clicking instincts and click anything on this article. It'll lead to **nyankobrq** somehow. We promise.
- 
+
 <div align="center">
     <video width="100%" controls>
         <source src="https://assets.ppy.sh/artists/330/release_showcase.mp4" type="video/mp4" preload="none">

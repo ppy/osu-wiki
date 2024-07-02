@@ -121,7 +121,7 @@ This competition has come to an end and resulted in the following podium:
   7. [BUTAOTOME - Towa no Maigo (Irone OSU) \[Foolish Fright 1.2x (216bpm)\]](https://osu.ppy.sh/beatmapsets/1309375#mania/2714515)
   8. [Tokyo Machine - FIGHT (Zytosy) \[ FIGHTO !\]](https://osu.ppy.sh/beatmapsets/1042644#mania/2179359)
   9. [Morimori Atsushi - Toono Gensou Monogatari (MRM REMIX) (Irone OSU) \[Surreal Fantasy\]](https://osu.ppy.sh/beatmapsets/1310043#mania/2715758)
-  10. [Xceon ft. Mayumi Morinaga - Genei No Shoshitsu (araragigun) \[Yukizakura\]](https://osu.ppy.sh/beatmapsets/876910#mania/1832605) 
+  10. [Xceon ft. Mayumi Morinaga - Genei No Shoshitsu (araragigun) \[Yukizakura\]](https://osu.ppy.sh/beatmapsets/876910#mania/1832605)
   11. [IOSYS - Ringo's Tea Party (TheToaphster) \[Spooked\]](https://osu.ppy.sh/beatmapsets/638838#mania/1355027)
   12. [Hotaru - Indomitable Spirit \[Hommarju Remix\] (\[Crz\]Auraah) \[\[L\]u\[N\]atic\]](https://osu.ppy.sh/beatmapsets/963806#mania/2406277)
   13. [Xe - Satori Maiden ~ 3rd Eye (Zestiri9) \[Satire Deity 0.95x\]](https://osu.ppy.sh/beatmapsets/1311414#mania/2718111)
@@ -245,7 +245,7 @@ Sunday, 6 December 2020:
 | --: | :-: | :-: | :-- | :-- |
 | SMOrcat | 0 | **7** | **yuyupa** | [#1](https://osu.ppy.sh/community/matches/71077642) |
 
-### Finals 
+### Finals
 
 Saturday, 28 November 2020:
 

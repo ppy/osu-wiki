@@ -6,7 +6,7 @@ tags:
 
 # Mapping Assistance Team
 
-La **Mapping Assistance Team** (***MAT***) était un groupe chargé d'évaluer la qualité des [beatmaps](/wiki/Beatmap) [en attente](/wiki/Beatmap/Category#work-in-progress-et-en-attente) et de les recommander pour un futur [classement](/wiki/Beatmap/Category#classée) dans le système de [modding du forum](/wiki/Modding/Forum_modding). Leurs recommandations étaient transmises à la [Beatmap Appreciation Team](/wiki/People/Beatmap_Appreciation_Team) (*BAT*) en plaçant une [proto-bulle](/wiki/Modding/Proto-bubble), et la BAT prenait alors la décision finale quant à l'entrée de la beatmap dans la catégorie classée.
+La **Mapping Assistance Team** (***MAT***) était un groupe chargé d'évaluer la qualité des [beatmaps](/wiki/Beatmap) [en attente](/wiki/Beatmap/Category#wip-and-pending) et de les recommander pour un futur [classement](/wiki/Beatmap/Category#ranked) dans le système de [modding du forum](/wiki/Modding/Forum_modding). Leurs recommandations étaient transmises à la [Beatmap Appreciation Team](/wiki/People/Beatmap_Appreciation_Team) (*BAT*) en plaçant une [proto-bulle](/wiki/Modding/Proto-bubble), et la BAT prenait alors la décision finale quant à l'entrée de la beatmap dans la catégorie classée.
 
 Les MAT étaient supervisés par un [Leader MAT](/wiki/People/Mapping_Assistance_Team/MAT_Leaders) qui fournissait des conseils et une assistance si nécessaire.
 

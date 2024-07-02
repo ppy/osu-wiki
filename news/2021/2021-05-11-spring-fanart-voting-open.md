@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring Fanart 2021 Contest Voting Open!"
+title: Spring Fanart 2021 Contest Voting Open!
 date: 2021-05-11 10:00:00 +0000
 ---
 

@@ -11,6 +11,7 @@ no_native_review: true
    ![Il modulo di registrazione del sito web](img/ingame-registration.jpg "Il modulo di registrazione")
 
 2. Compila tutti i campi del modulo.
+
    - Per il campo del nome utente, c'è un massimo di 15 caratteri; i quali possono essere solo caratteri alfanumerici (`a-z`, `A-Z`, `0-9`), trattini bassi (`_`), parentesi quadre, (`[` e `]`), trattini (`-`), e spazi (` `).
    - Per il campo dell'indirizzo email, usa la tua email. Questa viene utilizzata per il reset della password e per mandarti dei codici di verifica quando sono necessari, quindi non usare un'email a casaccio.
    - Per il campo della password, usa una password che sia lunga almeno 8 caratteri.

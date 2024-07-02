@@ -10,7 +10,7 @@ We're proud to welcome **Joe Ford** aboard as our latest addition to the Feature
 
 Something of a rising star in the drum & bass scene, **Joe Ford** has been turning heads ever since 2011, drawing the support of big-name fixtures in the scene and making appearances on labels like *Hospital* and *Shogun*.
 
-Astute followers might've noticed that we've seen some of **Joe Ford**'s work in the Featured Artist program already, particularly his collaborative track with *Culprate* titled *Gaucho* under the *Unity Project* albums. 
+Astute followers might've noticed that we've seen some of **Joe Ford**'s work in the Featured Artist program already, particularly his collaborative track with *Culprate* titled *Gaucho* under the *Unity Project* albums.
 
 We're excited to announce that we're really filling that out today, with **38** new tracks now available featuring many of his signature hi-tech drum & bass hits.
 

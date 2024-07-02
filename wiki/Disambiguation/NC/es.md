@@ -1,10 +1,6 @@
----
-no_native_review: true
----
-
 # NC (desambiguación)
 
 **NC** puede tener diferentes significados:
 
-- [Nightcore mod](/wiki/Gameplay/Game_modifier/Nightcore)
-- [New combo](/wiki/Beatmapping/New_combo)
+- El [mod Nightcore](/wiki/Gameplay/Game_modifier/Nightcore)
+- Un [nuevo combo](/wiki/Beatmapping/New_combo)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring Indoors 2020 Fanart Contest Results"
+title: Spring Indoors 2020 Fanart Contest Results
 date: 2020-04-24 02:00:00 +0000
 ---
 
@@ -10,7 +10,7 @@ You've had your say, and in some of the closest voting we've ever seen in a fana
 
 With the allure of adorable mascots and sweet, sweet prizes on the line, the artists of the osu! community put pen to paper (or to tablet, as it were) to draw said adorable mascots enjoying a decidedly different spring experience.
 
-The results have been most impressive, to say the least! The theme was a bit of a curve-ball for most, given that we've never really done anything like this in the past four or so years that the fanart contests have been running. 
+The results have been most impressive, to say the least! The theme was a bit of a curve-ball for most, given that we've never really done anything like this in the past four or so years that the fanart contests have been running.
 
 Still, our glorious artists did not fail to deliver, and without further ado, allow me to present to you the finalists you all voted for.
 
@@ -108,7 +108,7 @@ We like to think this is what the inside of the Community Mentorship server look
 
 [![](https://assets.ppy.sh/contests/92/banners/kuroshi-n.jpg)](https://assets.ppy.sh/contests/92/winners/kuroshi-n.png)
 
-When **1456** people saw [**kuroshi-n**](https://osu.ppy.sh/users/9887975)'s Yuzu smile, they had no choice but to press the button. 
+When **1456** people saw [**kuroshi-n**](https://osu.ppy.sh/users/9887975)'s Yuzu smile, they had no choice but to press the button.
 
 With the assistance of some feline friends, our most hyperactive mascot seems to be faring the tribulations of quarantine rather well, though we suspect his room will be filled to capacity with paper cranes by the time it ends.
 

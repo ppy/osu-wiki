@@ -1,4 +1,4 @@
-# Risoluzione dei problemi di osu!tourney 
+# Risoluzione dei problemi di osu!tourney
 
 ## Come posso creare una nuova installazione di osu! senza disinstallare il gioco attuale?
 

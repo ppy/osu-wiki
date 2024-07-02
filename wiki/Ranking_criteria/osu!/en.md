@@ -18,9 +18,9 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm-rela
 - **All actively clicked parts of objects must have at least one audible [hitsound](/wiki/Beatmapping/Hitsound) that does not blend with the song.** Players do not receive enough feedback otherwise. Using [keysounds](/wiki/Beatmapping/Hitsound#keysound) as hitnormals without other distinct additional hitsounds, for example, is not allowed.
 - **Difficulties must convert to other game modes without breaking star rating/performance points.** In certain cases, a `.osu` file can be formatted improperly, causing converted difficulties to incorrectly display star rating and reward inaccurate performance points.
 - **If the [drain time](/wiki/Beatmap/Drain_time) of each difficulty is...**
-  - **...lower than 3:30**, the lowest difficulty of each included game mode cannot be harder than a Normal.
-  - **...between 3:30 and 4:15**, the lowest difficulty of each included game mode cannot be harder than a Hard.
-  - **...between 4:15 and 5:00**, the lowest difficulty of each included game mode cannot be harder than an Insane.
+  - **...lower than 3:30**, the lowest difficulty cannot be harder than a Normal.
+  - **...between 3:30 and 4:15**, the lowest difficulty cannot be harder than a Hard.
+  - **...between 4:15 and 5:00**, the lowest difficulty cannot be harder than an Insane.
   - **[Break times](/wiki/Beatmap/Break) may be combined with [drain time](/wiki/Beatmap/Drain_time) to meet the above thresholds.** For the highest difficulty, this is limited to at most 30 seconds of break time. This does not apply to difficulties with less than 30 seconds of drain time.
 
 #### Guidelines
@@ -29,7 +29,7 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm-rela
 - **All circles and slider heads should be [snapped](/wiki/Beatmapping/Snapping) to distinct sounds in the music.** Adding hit objects where there is no musical cue to justify them can result in unfitting rhythms.
 - **[Slider tick rate](/wiki/Beatmapping/Slider_tick_rate) should be set according to the song.** For example if your song contains a section that uses 1/3 rhythms only, using tick rate 2 would not be fitting for the entire beatmap. In such cases, tick rate 1 should be used.
 - **Avoid using combo colours, slider borders or hitcircleoverlays with ~50 luminosity or lower.** Dark colours like these impact readability of approach circles with low background dim and the other elements partially give up their functions as borders.
-- **Avoid using combo colours with ~220 luminosity or higher during kiai times.** They create bright pulses which can be unpleasant to the eyes.
+- **Avoid using combo colours and custom slider track colours with ~220 luminosity or higher during kiai times.** They create bright pulses which can be unpleasant to the eyes.
 - **Spinner ends, slider ends, and slider reverses should have hitsound feedback.** If these are used to represent a held sound and do not align with a distinct sound, having no feedback is acceptable.
 - **Avoid using sound samples for sliderslide, sliderwhistle, and spinnerspin which do not naturally loop.** These hitsounds are continuous, meaning that their files play from start to end and loop as one continuous sound for the length of the object, so using sound files with a clear impact for them might lead to unwanted side effects.
 - **Avoid unjustified difficulty spikes.** Difficulty should be representative of the song's intensity.
@@ -54,7 +54,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 ### Difficulty names
 
-*Main article: [Difficulty Naming](/wiki/Ranking_criteria/Difficulty_naming)*
+*Main article: [Difficulty naming](/wiki/Ranking_criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-o.png?20211215) Normal

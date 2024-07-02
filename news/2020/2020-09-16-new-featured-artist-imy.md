@@ -8,7 +8,7 @@ date: 2020-09-16 09:00:00 +0000
 
 ![](https://assets.ppy.sh/artists/99/header.jpg)
 
-Weaving cinematic Japanese rock tunes with that quintessentially 'anime' sound since 2014, **Imy** is something of a sleeper hit that we're excited to introduce to you all. 
+Weaving cinematic Japanese rock tunes with that quintessentially 'anime' sound since 2014, **Imy** is something of a sleeper hit that we're excited to introduce to you all.
 
 He's performed alongside artists like *ELFENSJóN*, *Eri Kitamura*, *Maon Kurosaki* and a whole load more, plus has had his work featured in projects like *Digimon Adventure tri.* (where you might recognize the OP *Butter-Fly*), the *SOUND VOLTEX* games, *PXZ2* and *Crossbeats*.
 

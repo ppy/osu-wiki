@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Skin Showcase - Nightcore HD"
+title: Skin Showcase - Nightcore HD
 date: 2014-01-18 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/73755762190/skin-showcase-nightcore-hd
 ---

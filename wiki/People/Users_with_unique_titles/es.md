@@ -6,34 +6,34 @@ Los títulos de usuario normalmente se asocian con [grupos de usuarios](/wiki/Pe
 
 Cada año, los ganadores de las [World Cups oficiales](/wiki/Tournaments#world-cups-oficiales) reciben el título de usuario **osu!/osu!taiko/osu!catch/osu!mania Champion**, que dura hasta la conclusión de la siguiente iteración de la World Cup correspondiente.
 
-Ganadores de la [OWC 2022](/wiki/Tournaments/OWC/2022) con el título de usuario **osu! Champion**:
+Ganadores de la [OWC 2023](/wiki/Tournaments/OWC/2023) con el título de usuario **osu! Champion**:
 
 - ::{ flag=US }:: [BoshyMan741](https://osu.ppy.sh/users/4830687)
-- ::{ flag=US }:: [Decaten](https://osu.ppy.sh/users/5645231)
-- ::{ flag=US }:: [im a fancy lad](https://osu.ppy.sh/users/4908650)
-- ::{ flag=US }:: [Monko2k](https://osu.ppy.sh/users/4852013)
+- ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958)
+- ::{ flag=US }:: [Kama](https://osu.ppy.sh/users/13380270)
 - ::{ flag=US }:: [Rektygon](https://osu.ppy.sh/users/7813296)
-- ::{ flag=US }:: [Sawada](https://osu.ppy.sh/users/8198848)
-- ::{ flag=US }:: [Tekkito](https://osu.ppy.sh/users/7075211)
-- ::{ flag=US }:: [Utami](https://osu.ppy.sh/users/7512553)
+- ::{ flag=US }:: [tekkito](https://osu.ppy.sh/users/7075211)
+- ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150)
+- ::{ flag=US }:: [WindowLife](https://osu.ppy.sh/users/4108547)
+- ::{ flag=US }:: [wudci](https://osu.ppy.sh/users/2590257)
 
-Ganadores de la [TWC 2022](/wiki/Tournaments/TWC/2022) con el título de usuario **osu!taiko Champion**:
+Ganadores de la [TWC 2023](/wiki/Tournaments/TWC/2023) con el título de usuario **osu!taiko Champion**: 
 
 - ::{ flag=JP }:: [ekumea1123](https://osu.ppy.sh/users/9119501)
 - ::{ flag=JP }:: [Grape\_Tea](https://osu.ppy.sh/users/9540073)
-- ::{ flag=JP }:: [nameless\_ll](https://osu.ppy.sh/users/11199742)
+- ::{ flag=JP }:: [kanten\_07](https://osu.ppy.sh/users/11680357)
+- ::{ flag=JP }:: [kotohira\_06](https://osu.ppy.sh/users/22444525)
+- ::{ flag=JP }:: [Nanas3](https://osu.ppy.sh/users/17015562)
 - ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950)
-- ::{ flag=JP }:: [syaron105](https://osu.ppy.sh/users/8741695)
-- ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719)
 
-Ganadores de la [CWC 2022](/wiki/Tournaments/CWC/2022) con el título de usuario **osu!catch Champion**:
+Ganadores de la [CWC 2023](/wiki/Tournaments/CWC/2023) con el título de usuario **osu!catch Champion**:
 
-- ::{ flag=KR }:: [Byeol](https://osu.ppy.sh/users/2754651)
-- ::{ flag=KR }:: [CTB Rushia1](https://osu.ppy.sh/users/4158549)
 - ::{ flag=KR }:: [DreStar](https://osu.ppy.sh/users/1808057)
 - ::{ flag=KR }:: [JISAN](https://osu.ppy.sh/users/3657951)
+- ::{ flag=KR }:: [OYG](https://osu.ppy.sh/users/7547506)
 - ::{ flag=KR }:: [Rells](https://osu.ppy.sh/users/7937519)
-- ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276)
+- ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520)
+- ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549)
 
 Ganadores de la [MWC 4K 2023](/wiki/Tournaments/MWC/2023_4K) con el título de usuario **osu!mania 4K Champion**:
 
@@ -44,12 +44,12 @@ Ganadores de la [MWC 4K 2023](/wiki/Tournaments/MWC/2023_4K) con el título de u
 - ::{ flag=US }:: [PeachMarrow](https://osu.ppy.sh/users/15926730)
 - ::{ flag=US }:: [TristanJacob11](https://osu.ppy.sh/users/11817838)
 
-Ganadores de la [MWC 7K 2023](/wiki/Tournaments/MWC/2022_7K) con el título de usuario **osu!mania 7K Champion**:
+Ganadores de la [MWC 7K 2024](/wiki/Tournaments/MWC/2024_7K) con el título de usuario **osu!mania 7K Champion**:
 
-- ::{ flag=PH }:: [bojii](https://osu.ppy.sh/users/10083439)
-- ::{ flag=PH }:: [- Kura -](https://osu.ppy.sh/users/11420405)
-- ::{ flag=PH }:: [Berrii](https://osu.ppy.sh/users/877011)
-- ::{ flag=PH }:: [Arona](https://osu.ppy.sh/users/8748664)
+- ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406)
+- ::{ flag=KR }:: [HanJaeHun](https://osu.ppy.sh/users/2402586)
+- ::{ flag=KR }:: [OutLast](https://osu.ppy.sh/users/5402803)
+- ::{ flag=KR }:: [yz1155](https://osu.ppy.sh/users/2071008)
 
 ## Poseedores anteriores de títulos de la World Cup
 
@@ -69,13 +69,14 @@ Ganadores de las osu! World Cups anteriores con el título de usuario **Former o
 | [OWC 2017](/wiki/Tournaments/OWC/2017) | Former osu! Champion: 2017 | ::{ flag=PL }:: [Astar](https://osu.ppy.sh/users/27055), ::{ flag=PL }:: [MrBoom](https://osu.ppy.sh/users/1837989), ::{ flag=PL }:: [Piggey](https://osu.ppy.sh/users/4163860), ::{ flag=PL }:: [Rafis](https://osu.ppy.sh/users/2558286), ::{ flag=PL }:: [Wakson](https://osu.ppy.sh/users/3048222), ::{ flag=PL }:: [WubWoofWolf](https://osu.ppy.sh/users/39828), ::{ flag=PL }:: [Wilchq](https://osu.ppy.sh/users/2021758) |
 | [OWC 2018](/wiki/Tournaments/OWC/2018) | Former osu! Champion: 2018 | *N/A* |
 | [OWC 2019](/wiki/Tournaments/OWC/2019) | Former osu! Champion: 2019 | ::{ flag=US }:: [idke](https://osu.ppy.sh/users/4650315), ::{ flag=US }:: [t\[-\_-t\]](https://osu.ppy.sh/users/2644828), ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) |
-| [OWC 2020](/wiki/Tournaments/OWC/2020) | Former osu! Champion: 2020 | ::{ flag=US }:: [Apraxia](https://osu.ppy.sh/users/4194445), ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691), ::{ flag=US }:: [kablaze](https://osu.ppy.sh/users/3043603), ::{ flag=US }:: [Rektygon](https://osu.ppy.sh/users/7813296), ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150) |
-| [OWC 2021](/wiki/Tournaments/OWC/2020) | Former osu! Champion: 2021 | ::{ flag=US }:: [Aireu](https://osu.ppy.sh/users/1650010), ::{ flag=US }:: [Aricin](https://osu.ppy.sh/users/1419095), ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207), ::{ flag=US }:: [Exarch](https://osu.ppy.sh/users/5370153), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |
+| [OWC 2020](/wiki/Tournaments/OWC/2020) | Former osu! Champion: 2020 | ::{ flag=US }:: [Apraxia](https://osu.ppy.sh/users/4194445), ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691), ::{ flag=US }:: [kablaze](https://osu.ppy.sh/users/3043603) |
+| [OWC 2021](/wiki/Tournaments/OWC/2021) | Former osu! Champion: 2021 | ::{ flag=US }:: [Aireu](https://osu.ppy.sh/users/1650010), ::{ flag=US }:: [Aricin](https://osu.ppy.sh/users/1419095), ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207), ::{ flag=US }:: [Exarch](https://osu.ppy.sh/users/5370153) |
+| [OWC 2022](/wiki/Tournaments/OWC/2022) | Former osu! Champion: 2022 | ::{ flag=US }:: [decaten](https://osu.ppy.sh/users/5645231), ::{ flag=US }:: [im a fancy lad](https://osu.ppy.sh/users/4908650), ::{ flag=US }:: [Monko2k](https://osu.ppy.sh/users/4852013), ::{ flag=US }:: [Sawada](https://osu.ppy.sh/users/8198848), ::{ flag=US }:: [Utami](https://osu.ppy.sh/users/7512553) |
 
 Ganadores de las osu!taiko World Cups anteriores con el título de usuario **Former osu!taiko Champion**:
 
 | Torneo | Título | Poseedores del título |
-| :-:| :-- | :-- |
+| :-: | :-- | :-- |
 | [TWC 2011](/wiki/Tournaments/TWC/2011) | Former osu!taiko Champion: #1 | ::{ flag=TW }:: [Numbers 596108](https://osu.ppy.sh/users/194653), ::{ flag=TW }:: [TW-KUMA01](https://osu.ppy.sh/users/244499) |
 | [TWC 2012](/wiki/Tournaments/TWC/2012) | Former osu!taiko Champion: #2 | ::{ flag=JP }:: [-Asuke-](https://osu.ppy.sh/users/863073), ::{ flag=JP }:: [pota-row](https://osu.ppy.sh/users/858415), ::{ flag=JP }:: [TTTL](https://osu.ppy.sh/users/164583) |
 | [TWC #3](/wiki/Tournaments/TWC/3) | Former osu!taiko Champion: #3 | ::{ flag=TW }:: [-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910), ::{ flag=TW }:: [oiu850714](https://osu.ppy.sh/users/437607), ::{ flag=TW }:: [yikao](https://osu.ppy.sh/users/352674), ::{ flag=TW }:: [zx\_baka\_0502442](https://osu.ppy.sh/users/457766) |
@@ -87,11 +88,12 @@ Ganadores de las osu!taiko World Cups anteriores con el título de usuario **For
 | [TWC 2019](/wiki/Tournaments/TWC/2019) | Former osu!taiko Champion: 2019 | ::{ flag=JP }:: [isobe](https://osu.ppy.sh/users/8047347), ::{ flag=JP }:: [v2fax](https://osu.ppy.sh/users/7739269) |
 | [TWC 2020](/wiki/Tournaments/TWC/2020) | Former osu!taiko Champion: 2020 | ::{ flag=JP }:: [iceOC](https://osu.ppy.sh/users/5482401), ::{ flag=JP }:: [kiyozi11](https://osu.ppy.sh/users/9551196) |
 | [TWC 2021](/wiki/Tournaments/TWC/2021) | Former osu!taiko Champion: 2021 | *N/A* |
+| [TWC 2022](/wiki/Tournaments/TWC/2022) | Former osu!taiko Champion: 2022 | ::{ flag=JP }:: [nameless\_ll](https://osu.ppy.sh/users/11199742), ::{ flag=JP }:: [syaron105](https://osu.ppy.sh/users/8741695), ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719) |
 
 Ganadores de las osu!catch World Cups anteriores con el título de usuario **Former osu!catch Champion**:
 
 | Torneo | Título | Poseedores del título |
-| :-:| :-- | :-- |
+| :-: | :-- | :-- |
 | [CWC](/wiki/Tournaments/CWC/1) | Former osu!catch Champion: #1 | ::{ flag=HK }:: [HineX](https://osu.ppy.sh/users/13854), ::{ flag=CN }:: [hy1hy1hy](https://osu.ppy.sh/users/243877), ::{ flag=CN }:: [joynama](https://osu.ppy.sh/users/169128) |
 | [CWC 2013](/wiki/Tournaments/CWC/2013) | Former osu!catch Champion: 2013 | ::{ flag=CL }:: [eldnl](https://osu.ppy.sh/users/285756), ::{ flag=CL }:: [Dark Diego](https://osu.ppy.sh/users/723787), ::{ flag=CL }:: [DaxMasterix](https://osu.ppy.sh/users/264914), ::{ flag=CL }:: [lineqtxz](https://osu.ppy.sh/users/989542) |
 | [CWC 2014](/wiki/Tournaments/CWC/2014) | Former osu!catch Champion: 2014 | ::{ flag=KR }:: [Kuzino](https://osu.ppy.sh/users/158552), ::{ flag=KR }:: [Last Bubble](https://osu.ppy.sh/users/1302259), ::{ flag=KR }:: [snail\_player](https://osu.ppy.sh/users/563262) |
@@ -100,13 +102,14 @@ Ganadores de las osu!catch World Cups anteriores con el título de usuario **For
 | [CWC 2017](/wiki/Tournaments/CWC/2017) | Former osu!catch Champion: 2017 | ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187), ::{ flag=KR }:: [mjj741](https://osu.ppy.sh/users/1459769) |
 | [CWC 2018](/wiki/Tournaments/CWC/2018) | Former osu!catch Champion: 2018 | ::{ flag=CN }:: [- N a g i -](https://osu.ppy.sh/users/2956936), ::{ flag=CN }:: [Crystal](https://osu.ppy.sh/users/1646397), ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210), ::{ flag=CN }:: [KagamineRin02](https://osu.ppy.sh/users/518503), ::{ flag=CN }:: [Kasumi](https://osu.ppy.sh/users/2331531), ::{ flag=CN }:: [Sakurano  Kurimu](https://osu.ppy.sh/users/1338103) |
 | [CWC 2019](/wiki/Tournaments/CWC/2019) | Former osu!catch Champion: 2019 | *N/A* |
-| [CWC 2020](/wiki/Tournaments/CWC/2020) | Former osu!catch Champion: 2020 | ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520) |
-| [CWC 2021](/wiki/Tournaments/CWC/2021) | Former osu!catch Champion: 2021 | ::{ flag=KR }:: [Abstract-](https://osu.ppy.sh/users/3097304), ::{ flag=KR }:: [qwhj1027](https://osu.ppy.sh/users/7547506) |
+| [CWC 2020](/wiki/Tournaments/CWC/2020) | Former osu!catch Champion: 2020 | ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) |
+| [CWC 2021](/wiki/Tournaments/CWC/2021) | Former osu!catch Champion: 2021 | ::{ flag=KR }:: [Abstract-](https://osu.ppy.sh/users/3097304) |
+| [CWC 2022](/wiki/Tournaments/CWC/2022) | Former osu!catch Champion: 2022 | ::{ flag=KR }:: [Byeol](https://osu.ppy.sh/users/2754651), ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) |
 
 Ganadores de las osu!mania World Cups anteriores con el título de usuario **Former osu!mania Champion**:
 
 | Torneo | Título | Poseedores del título |
-| :-:| :-- | :-- |
+| :-: | :-- | :-- |
 | [MWC 2014 (4K)](/wiki/Tournaments/MWC/2014) | Former osu!mania 4K Champion: 2014 | ::{ flag=KR }:: [Abcdullah](https://osu.ppy.sh/users/4140104), ::{ flag=KR }:: [jhlee1033](https://osu.ppy.sh/users/140148) |
 | [MWC 2014 (7K)](/wiki/Tournaments/MWC/2014) | Former osu!mania 7K Champion: 2014 | ::{ flag=KR }:: [jhlee0133](https://osu.ppy.sh/users/140148) |
 | [MWC 4K 2015](/wiki/Tournaments/MWC/2015) | Former osu!mania 4K Champion: 2015 | ::{ flag=US }:: [Chrubble](https://osu.ppy.sh/users/2594280), ::{ flag=US }:: [EtienneXC](https://osu.ppy.sh/users/5610085), ::{ flag=US }:: [Halogen-](https://osu.ppy.sh/users/169992), ::{ flag=US }:: [Shadow\_SM](https://osu.ppy.sh/users/4552987), ::{ flag=US }:: [Solara](https://osu.ppy.sh/users/4830970), ::{ flag=US }:: [Zyph](https://osu.ppy.sh/users/1600432) |
@@ -120,14 +123,16 @@ Ganadores de las osu!mania World Cups anteriores con el título de usuario **For
 | [MWC 4K 2019](/wiki/Tournaments/MWC/2019_4K) | Former osu!mania 4K Champion: 2019 | ::{ flag=KR }:: [blueBloody](https://osu.ppy.sh/users/8046839), ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649), ::{ flag=KR }:: [Transcendence](https://osu.ppy.sh/users/903155), ::{ flag=KR }:: [Yeoul](https://osu.ppy.sh/users/4698728), ::{ flag=KR }:: [wonder5193](https://osu.ppy.sh/users/8474029) |
 | [MWC 4K 2020](/wiki/Tournaments/MWC/2020_4K) | Former osu!mania 4K Champion: 2020 | ::{ flag=BR }:: [Guilhermeziat](https://osu.ppy.sh/users/3661387), ::{ flag=BR }:: [Kyut](https://osu.ppy.sh/users/9328824), ::{ flag=BR }:: [Punnies](https://osu.ppy.sh/users/8700468) |
 | [MWC 4K 2021](/wiki/Tournaments/MWC/2021_4K) | Former osu!mania 4K Champion: 2021 | ::{ flag=BR }:: [Amerom](https://osu.ppy.sh/users/5691061), ::{ flag=BR }:: [Lenn](https://osu.ppy.sh/users/11236829), ::{ flag=BR }:: [LeMarcinho](https://osu.ppy.sh/users/13347579), ::{ flag=BR }:: [Lothus](https://osu.ppy.sh/users/9530019), ::{ flag=BR }:: [Orost](https://osu.ppy.sh/users/13601876), ::{ flag=BR }:: [SillyFangirl](https://osu.ppy.sh/users/2288363) |
-| [MWC 7K 2022](/wiki/Tournaments/MWC/2022_7K) | Former osu!mania 7K Champion: 2022 | ::{ flag=KR }:: [0133](https://osu.ppy.sh/users/12346181), ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406), ::{ flag=KR }:: [Estonians](https://osu.ppy.sh/users/7014697), ::{ flag=KR }:: [yz1155](https://osu.ppy.sh/users/2071008) |
+| [MWC 7K 2022](/wiki/Tournaments/MWC/2022_7K) | Former osu!mania 7K Champion: 2022 | ::{ flag=KR }:: [0133](https://osu.ppy.sh/users/12346181), ::{ flag=KR }:: [Estonians](https://osu.ppy.sh/users/7014697) |
 | [MWC 4K 2022](/wiki/Tournaments/MWC/2022_4K) | Former osu!mania 4K Champion: 2022 | ::{ flag=KR }:: [Flying Samira](https://osu.ppy.sh/users/10329095), ::{ flag=KR }:: [gaesol](https://osu.ppy.sh/users/12452131), ::{ flag=KR }:: [lianic](https://osu.ppy.sh/users/13975661), ::{ flag=KR }:: [Poca](https://osu.ppy.sh/users/8581031), ::{ flag=KR }:: [SuddenDeath](https://osu.ppy.sh/users/6699923), ::{ flag=KR }:: [SnowScent](https://osu.ppy.sh/users/7945868) |
+| [MWC 7K 2023](/wiki/Tournaments/MWC/2023_7K) | Former osu!mania 7K Champion: 2023 | ::{ flag=PH }:: [- Kura -](https://osu.ppy.sh/users/11420405), ::{ flag=PH }:: [Arona](https://osu.ppy.sh/users/8748664), ::{ flag=PH }:: [Berrii](https://osu.ppy.sh/users/877011), ::{ flag=PH }:: [bojii](https://osu.ppy.sh/users/10083439) |
 
 ## Ganadores de los concursos de mapping oficiales
 
-La mayoría de los concursos oficiales de mapping ofrecen el título **Elite Mapper** como primer premio.
+La mayoría de los concursos oficiales de mapping ofrecen el título **Elite Mapper** a través de los [puntos de los concursos](/wiki/Contests/Contest_points). Los concursos antiguos daban el título como premio al ganador.
 
 - ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596)
+- ::{ flag=PH }:: [acnozei](https://osu.ppy.sh/users/10141268)
 - ::{ flag=KR }:: [Acylica](https://osu.ppy.sh/users/1943309)
 - ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883)
 - ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114)
@@ -166,6 +171,7 @@ La mayoría de los concursos oficiales de mapping ofrecen el título **Elite Map
 - ::{ flag=KR }:: [Taeyang](https://osu.ppy.sh/users/2732340)
 - ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811)
 - ::{ flag=CN }:: [TtmnZk](https://osu.ppy.sh/users/2495509)
+- ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904)
 - ::{ flag=CN }:: [yf\_bmp](https://osu.ppy.sh/users/1243669)
 - ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834)
 - ::{ flag=RU }:: [xbopost](https://osu.ppy.sh/users/6842421)
@@ -174,9 +180,9 @@ La mayoría de los concursos oficiales de mapping ofrecen el título **Elite Map
 
 ## Elite Nominators
 
-*Pagina principal: [Elite Nominators](/wiki/People/Elite_Nominators)*
+*Página principal: [Elite Nominators](/wiki/People/Elite_Nominators)*
 
-Desde 2020, los miembros de los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) y [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) con una exhibición excepcional para apoyar el sistema de clasificación en un año determinado son recompensados con el título **Elite Nominator**. Este título se otorga al inicio de cada año por las contribuciones realizadas durante el último, y dura aproximadamente un año o hasta que el usuario deja el equipo.
+Desde 2020, los miembros de los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) y [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) con una exhibición excepcional para apoyar el sistema de clasificación en un año determinado son recompensados con el título **Elite Nominator**. Este título se otorga al inicio de cada año por las contribuciones realizadas durante el último, y dura aproximadamente un año o hasta que el usuario deje el equipo.
 
 - ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306)
 - ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958)
@@ -214,7 +220,7 @@ Los concursos osu!remix otorgan el título **osu!mixer** como primer premio.
 
 ## Ganadores actuales del concurso osu!trivium Quiz
 
-Los concursos [osu!trivium Quiz](/wiki/Contests/osu!trivium_Quiz) otorgan a su equipo ganador o individual el título de **osu!trivium Champion**, que tiene una duración de un año. Estos son los poseedores de los títulos para 2021:  
+Los concursos [osu!trivium Quiz](/wiki/Contests/osu!trivium_Quiz) otorgan a su equipo ganador o individual el título de **osu!trivium Champion**, que tiene una duración de un año. Estos son los poseedores de los títulos para 2021:
 
 - ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114)
 - ::{ flag=MY }:: [cdh](https://osu.ppy.sh/users/2403621)
@@ -232,7 +238,7 @@ El título de **osu!musician** se otorgó a los usuarios por sus contribuciones 
 
 El equipo de osu! realizó concursos de arte para que los miembros de la comunidad tuvieran la oportunidad de diseñar o rediseñar algunas de las mascotas del juego. Los ganadores de estos concursos, así como las personas cuyos diseños se usaron finalmente como obras de arte oficiales, recibieron el título de **osu!artist**.
 
-- ::{ flag=US }:: [Crowie](https://osu.ppy.sh/users/6894067) diseñó a **Mocha** y ayudó a producir muchas otras obras de arte de osu!
+- ::{ flag=US }:: [Crowie](https://osu.ppy.sh/users/6894067) diseñó a **Mocha** y ayudó a producir muchas otras obras de arte de osu!.
 - ::{ flag=ID }:: [JMC](https://osu.ppy.sh/users/774010) ganó el concurso [Fan Art 6: osu!taiko mascot](https://osu.ppy.sh/community/contests/2).
 - ::{ flag=US }:: [Thievley](https://osu.ppy.sh/users/4717672) rediseñó a **Yuzu**.
 - ::{ flag=ID }:: [xiemon](https://osu.ppy.sh/users/5203667) diseñó a **Mani y Mari**.
@@ -289,6 +295,7 @@ Estos usuarios recibieron sus respectivos títulos por haber contribuido signifi
 | ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) | osu! Paragon |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | World Cup Organiser |
 | ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) | osu!painter |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | osu!taiko Paragon |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch Paragon |
 | ::{ flag=DE }:: [LastExceed](https://osu.ppy.sh/users/6232245) | Master of the Fade |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | World Cup Organiser |
@@ -310,6 +317,7 @@ Estos usuarios recibieron sus respectivos títulos por diversas razones.
 | :-- | :-- |
 | ::{ flag=SH }:: [BanchoBot](https://osu.ppy.sh/users/3) | w00t p00t |
 | ::{ flag=US }:: [Derekku](https://osu.ppy.sh/users/91341) | COOL DUDE |
+| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Inland Empire |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Popcorn Fairy |
 | ::{ flag=AU }:: [phill_old](https://osu.ppy.sh/users/53) | ¿ |
 | ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Former osu! Champion: 2019 / Grilled Dodongo |
@@ -317,7 +325,7 @@ Estos usuarios recibieron sus respectivos títulos por diversas razones.
 
 ## Notas
 
-[^mao-note]: ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) recibió el título **Elite Mapper II** en su lugar por haber obtenido con éxito el título Elite Mapper a través de dos medios diferentes: Ganando el concurso [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) y superando el umbral de 6 puntos en el nuevo sistema de [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest).
+[^mao-note]: ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) recibió el título **Elite Mapper II** en su lugar por haber obtenido con éxito el título Elite Mapper a través de dos medios diferentes: ganando el concurso [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) y superando el umbral de 6 puntos en el nuevo sistema de [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest).
 [^elite-note]: ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) y ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) recibieron el título **Elite Nominator II** en su lugar por haber sido nombrados Elite Nominators durante dos años seguidos.
 [^charles445-note]: ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) recibió el título **Elite Mapper II: Aspirant** por haber ganado tanto [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) como [Monthly Beatmapping Contest: Aspire (2014)](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results).
 [^billiummoto-note]: ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) recibió el título **osu!mixer II** por haber ganado tanto [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) como el concurso [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest).

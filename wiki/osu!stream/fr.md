@@ -100,7 +100,7 @@ En 2023, douze ans après sa sortie initiale, osu!stream a finalement été [imp
   - Si le cercle a été relâché avant qu'il n'explose, le multiplicateur de combo sera remis à 0, mais le Hold circle n'entraînera pas un miss à partir du moment où le joueur l'a touché.
   - Si le joueur n'a pas tenu le cercle, les HP seront pris tant que le cercle n'a pas explosé.
 
-### De nouveaux modes pour remplacer la difficulté  
+### De nouveaux modes pour remplacer la difficulté
 
 ---
 
@@ -335,10 +335,10 @@ En **Stream Mode**, le joueur dispose de trois barres de vie et le joueur commen
 
 En **Mode Expert, une seule barre de vie complète est utilisée à la place**.
 
-Ce qui suit remplit la barre de vie : 
+Ce qui suit remplit la barre de vie :
 
 - Compléter les spinners et les hold circles.
-- Obtenir un osu!, gold good!, green good!, 300, ou un 100, 
+- Obtenir un osu!, gold good!, green good!, 300, ou un 100,
   - Pour les cercles, les meilleurs jugements remplissent davantage la barre de vie. Le dernier cercle touché d'une combinaison de couleurs donne plus de vie.
   - Pour les sliders, la barre de vie est remplie en fonction du nombre de parties touchées, une fois le slider terminé.
 

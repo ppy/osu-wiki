@@ -68,7 +68,7 @@ Pada pojok kanan atas layar, kamu dapat melihat skor dan akurasi yang telah kamu
 
 #### Kontrol
 
-Secara *default*, input-input yang terdaftar pada osu! adalah sebagai berikut: 
+Secara *default*, input-input yang terdaftar pada osu! adalah sebagai berikut:
 
 | Mouse | Keyboard | Tablet/Touchscreen |
 | :-- | :-- | :-- |
@@ -140,7 +140,7 @@ Kamu akan mendapatkan skor +300 untuk setiap berkurangnya satu hitungan pada den
 
 #### Kontrol
 
-Secara *default*, input-input yang terdaftar untuk osu!taiko adalah sebagai berikut: 
+Secara *default*, input-input yang terdaftar untuk osu!taiko adalah sebagai berikut:
 
 | Warna not | Mouse | Keyboard | TaTaCon |
 | :-- | :-- | :-- | :-- |
@@ -409,7 +409,7 @@ Pastikan kamu tidak sedang berada pada mode permainan yang tidak kamu kehendaki.
 
 ![Menu Options](/wiki/shared/Options_quickicons.jpg "Tampilan menu Options")
 
-Buka menu *Options* dan pilih *Input* -> **Keyboard** dari pilihan-pilihan yang tersedia. 
+Buka menu *Options* dan pilih *Input* -> **Keyboard** dari pilihan-pilihan yang tersedia.
 
 ![Pengaturan Keyboard pada menu Options](/wiki/shared/Options_keyboard.jpg "Pengaturan Keyboard pada menu Options")
 
@@ -429,7 +429,7 @@ Tombol shortcut lainnya yang umum digunakan adalah `Alt`+`Enter` yang berguna un
 
 #### Apa-apa saja yang harus saya backup ketika saya hendak memasang osu! pada perangkat yang baru?
 
-Backup seluruh isi folder `osu!` milikmu apabila memungkinkan. Pada perangkat yang baru, setelah kamu selesai menjalankan `osu!install.exe` dan merampungkan proses instalasi, salin seluruh isi folder `osu!` yang lama tersebut ke dalam folder `osu!` yang baru. Pastikan semua berkas yang ada telah tersalin sebagaimana mestinya, termasuk file-file dengan ekstensi `.cfg` dan `.db` yang termuat di dalamnya. 
+Backup seluruh isi folder `osu!` milikmu apabila memungkinkan. Pada perangkat yang baru, setelah kamu selesai menjalankan `osu!install.exe` dan merampungkan proses instalasi, salin seluruh isi folder `osu!` yang lama tersebut ke dalam folder `osu!` yang baru. Pastikan semua berkas yang ada telah tersalin sebagaimana mestinya, termasuk file-file dengan ekstensi `.cfg` dan `.db` yang termuat di dalamnya.
 
 #### Dapatkah saya bermain osu! pada perangkat mobile yang saya miliki?
 
@@ -437,7 +437,7 @@ Backup seluruh isi folder `osu!` milikmu apabila memungkinkan. Pada perangkat ya
 
 Saat ini, kamu masih belum dapat memainkan osu! pada perangkat mobile yang kamu miliki.
 
-Meskipun demikian, terdapat beberapa aplikasi pada berbagai sistem operasi mobile yang dapat kamu gunakan sebagai alternatif dalam bermain osu! sebagai berikut: 
+Meskipun demikian, terdapat beberapa aplikasi pada berbagai sistem operasi mobile yang dapat kamu gunakan sebagai alternatif dalam bermain osu! sebagai berikut:
 
 - ![][osu! icon] opsu! \[Windows/OS X/Linux/Android\]:
   Port osu! berbasis Java hasil karya **itdelatrisu** dan **fluddokt** yang dapat dimainkan pada sistem operasi Android.

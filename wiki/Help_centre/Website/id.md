@@ -97,7 +97,7 @@ Apabila kamu tidak yakin apakah konten yang kamu miliki (atau yang hendak kamu l
 
 Apabila kamu tidak dapat terhubung secara *online*, harap periksa apakah osu! sedang diblokir oleh aplikasi *firewall* atau antivirus yang kamu miliki.
 
-Apabila sewaktu-waktu kamu kehilangan atau tidak dapat mengingat kata sandi milikmu, kami dapat menggunakan alamat email ini untuk memulihkan akses menuju akunmu. 
+Apabila sewaktu-waktu kamu kehilangan atau tidak dapat mengingat kata sandi milikmu, kami dapat menggunakan alamat email ini untuk memulihkan akses menuju akunmu.
 
 ### Mengapa statistik yang tertera pada laman profil saya tidak akurat? {id=wrong-statistics}
 

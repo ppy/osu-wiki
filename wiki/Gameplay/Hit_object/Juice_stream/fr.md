@@ -16,6 +16,6 @@ Si le joueur réussit à attraper un drop, il obtiendra 100 points de [score](/w
 
 ## Droplet
 
-Les **droplets** sont de petits [objets](/wiki/Gameplay/Hit_object) colorés présents dans les [beatmaps](/wiki/Beatmap) du mode [osu!catch](/wiki/Game_mode/osu!catch). 
+Les **droplets** sont de petits [objets](/wiki/Gameplay/Hit_object) colorés présents dans les [beatmaps](/wiki/Beatmap) du mode [osu!catch](/wiki/Game_mode/osu!catch).
 
 Si vous réussissez à attraper un droplet, vous obtiendrez 10 points de score [score](/wiki/Gameplay/Score), une petite augmentation de la [barre de santé](/wiki/Client/Interface/Health_bar) et un score de 50 dans l'écran des résultats. Si le joueur ne parvient pas à attraper un droplet, il perd de la [santé](/wiki/Gameplay/Health) et conserve son [combo](/wiki/Gameplay/Combo_(score_multiplier)).

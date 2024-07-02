@@ -8,7 +8,7 @@ Skins are aboard! Try them all out and vote for your favourite before the ship s
 
 ![](/wiki/shared/news/2021-04-29-skinning-contest-voting-open/skinning_contest_banner_voting.jpg)
 
-Ever since the contest launch, skinners from all levels have come forth to create their masterpieces. They have done their part masterfully, and now it is time for you to choose the best of the best! 
+Ever since the contest launch, skinners from all levels have come forth to create their masterpieces. They have done their part masterfully, and now it is time for you to choose the best of the best!
 
 From the most simplistic and cozy skins to the ones with extravagantly placed anime artworks, we have **31 amazing entries** submitted by **31 unique contestants** consisting of both well-established and novice skinners. Before casting your votes, be sure to check them all out by yourself in order to appreciate the effort put into them to the fullest.
 

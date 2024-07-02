@@ -1,5 +1,6 @@
 ---
 tags:
+  - change log
   - history
 no_native_review: true
 outdated_translation: true

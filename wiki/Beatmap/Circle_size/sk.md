@@ -2,6 +2,7 @@
 tags:
   - CS
   - key count
+  - keycount
 no_native_review: true
 ---
 

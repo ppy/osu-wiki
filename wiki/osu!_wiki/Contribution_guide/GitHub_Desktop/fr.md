@@ -28,7 +28,7 @@
 Bien que les branches soient techniquement facultatives, elles sont [fortement recommandées pour plusieurs raisons](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow). Pour n'en citer que quelques-unes :
 
 - Les branches isolent les différentes modifications logiques les unes des autres : vous pouvez travailler sur plusieurs articles et les faire réviser et fusionner séparément.
-- Lorsque vos modifications sont en dehors de la branche `master`, vous pouvez [les synchroniser en toute sécurité](/wiki/osu!_wiki/Contribution_guide/Best_practices#synchronisation-d'un-fork) sans conflits de fusion.
+- Lorsque vos modifications sont en dehors de la branche `master`, vous pouvez [les synchroniser en toute sécurité](/wiki/osu!_wiki/Contribution_guide/Best_practices#synchronisation-du-fork) sans conflits de fusion.
 
 1. Cliquez sur le menu déroulant `Current branch` situé en haut du menu.
 
@@ -54,7 +54,7 @@ Bien que les branches soient techniquement facultatives, elles sont [fortement r
 
 *Attention : Si vous comptez créer des fichiers d'articles à l'aide de l'Explorateur Windows, assurez-vous que l'option `Masquer les extensions des fichiers dont le type est connu` est désactivée.* Voir [Extensions de nom de fichier courantes dans Windows](https://support.microsoft.com/fr-fr/windows/extensions-de-nom-de-fichier-courantes-dans-windows-da4a4430-8e76-89c5-59f7-1cdbbc75cb01) pour les instructions.
 
-1. Utilisez l'Explorateur Windows, votre éditeur d'images préféré et/ou votre éditeur de texte préféré pour créer de nouveaux fichiers. Si vous créez de nouveaux articles ou de nouvelles traductions, renommez le fichier pour respecter les [Locales dans les critères de mise en forme des articles](/wiki/Article_styling_criteria/Formatting#locales).
+1. Utilisez l'Explorateur Windows, votre éditeur d'images préféré et/ou votre éditeur de texte préféré pour créer de nouveaux fichiers. Si vous créez de nouveaux articles ou de nouvelles traductions, renommez le fichier pour respecter les [Locales dans les critères de mise en forme des articles](/wiki/Article_styling_criteria/Formatting#localisations).
 2. Continuer vers [Commits et pushs](#commits-et-pushs).
 
 ### Suppression de fichiers
@@ -66,25 +66,28 @@ Bien que les branches soient techniquement facultatives, elles sont [fortement r
 
 1. Retournez sur le bureau GitHub. Il devrait ressembler à ceci :
 
-  ![](img/github-desktop-changes.jpg "Le nombre de fichiers peut varier.")
+   ![](img/github-desktop-changes.jpg "Le nombre de fichiers peut varier.")
 
 2. Par défaut, GitHub Desktop sélectionne automatiquement toutes vos modifications.
+
 3. Il est préférable de séparer chaque "grosse" action en un seul commit.
 
-Par exemple, comme illustré ci-dessus, [pippi](/wiki/Mascots#pippi) a ajouté un fichier image, modifié le fichier `en.md` pour ajouter un titre et un lien vers l'image, et marqué les traductions comme obsolètes. A partir de cela, nous pouvons avoir deux commits, un pour les changements qui ont affecté le fichier `en.md`, et un pour marquer les traductions comme obsolètes.
+   Par exemple, comme illustré ci-dessus, [pippi](/wiki/Mascots#pippi) a ajouté un fichier image, modifié le fichier `en.md` pour ajouter un titre et un lien vers l'image, et marqué les traductions comme obsolètes. A partir de cela, nous pouvons avoir deux commits, un pour les changements qui ont affecté le fichier `en.md`, et un pour marquer les traductions comme obsolètes.
 
 4. Sélectionnez les fichiers qui vont être placés dans le commit.
+
 5. Entrez le résumé du commit. Il est limité à 72 caractères et **doit être en anglais**.
+
 6. Saisissez la description. Celle-ci est facultative, n'est pas limitée en nombre de caractères et peut être rédigée dans n'importe quelle langue.
 
-  ![](img/github-desktop-first-commit.jpg "Premier commit")
+   ![](img/github-desktop-first-commit.jpg "Premier commit")
 
 7. Cliquez sur le bouton bleu `Commit to` et, le cas échéant, recommencez depuis l'étape 4 pour faire les autres commits que vous voulez faire.
 
-  ![](img/github-desktop-second-commit.jpg "Deuxième commit")
+   ![](img/github-desktop-second-commit.jpg "Deuxième commit")
 
 8. Une fois que vous avez fini de faire vos commits, cliquez sur le bouton `Publish branch` en haut.
 
-  ![](img/github-desktop-push.jpg)
+   ![](img/github-desktop-push.jpg)
 
 9. Continuez vers [Review](/wiki/osu!_wiki/Contribution_guide#review) pour le dernier élément d'information concernant votre pull request et les changements.

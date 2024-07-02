@@ -25,7 +25,7 @@ Les configurations de tournois pour [osu!(lazer)](/wiki/Client/Release_stream/La
 
 Pour créer une nouvelle configuration de tournoi, créez un nouveau répertoire dans le répertoire `tournaments` avec le nom de votre tournoi.
 
-Dans la configuration d'un tournoi, les actifs nécessaires peuvent être fournis pour afficher des drapeaux, des vidéos et des icônes de mods pour le mappool. Chaque catégorie d'actifs a son propre dossier : 
+Dans la configuration d'un tournoi, les actifs nécessaires peuvent être fournis pour afficher des drapeaux, des vidéos et des icônes de mods pour le mappool. Chaque catégorie d'actifs a son propre dossier :
 
 - your-tournament
   - Flags
@@ -54,7 +54,7 @@ Les icônes de mods doivent être placées dans `<your-tournament>/Mods`. Les mo
 
 Des vidéos en boucle peuvent être affichées en arrière-plan de chaque scène.
 
-Remarque : le client décode les fichiers vidéo à l'aide d'un décodage logiciel. Les performances peuvent donc varier en fonction du scénario d'utilisation. 
+Remarque : le client décode les fichiers vidéo à l'aide d'un décodage logiciel. Les performances peuvent donc varier en fonction du scénario d'utilisation.
 
 Les fichiers doivent respecter les spécifications suivantes :
 

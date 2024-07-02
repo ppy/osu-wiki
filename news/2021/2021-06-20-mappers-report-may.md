@@ -21,7 +21,7 @@ This month's issue of the Mappers' Report contains the following topics:
 
 Unfortunately, we don't have any Ranking Criteria changes for you this month. But fear not, because we have several proposals at hand waiting for further polishing. Be one of the first and check them out right away!
 
-## Open Ranking Criteria Proposals 
+## Open Ranking Criteria Proposals
 
 ### All modes
 
@@ -85,7 +85,7 @@ He may be keen on producing maps for Japanese vocals, yet he is currently openin
 
 ### KuroRev
 
-A veteran mapper who's been crafting maps for 5 years now, [KuroRev](https://osu.ppy.sh/users/6581584) is a virtuoso when it comes to intuitive flow, delivering natural gameplay and bestowing great satisfaction to players. Given his vast experience, it is no question that he certainly knows what he's doing in the editor. 
+A veteran mapper who's been crafting maps for 5 years now, [KuroRev](https://osu.ppy.sh/users/6581584) is a virtuoso when it comes to intuitive flow, delivering natural gameplay and bestowing great satisfaction to players. Given his vast experience, it is no question that he certainly knows what he's doing in the editor.
 
 Recently breaching through the ranked section, he finally propels ahead with his rendition of [Asriel - Kegare Naki Yume](https://osu.ppy.sh/beatmapsets/710899) which features a simple yet captivating style with its pleasing aesthetic and coherent representation of the music. In similar fashion, his take on [sokoninaru - Tenohira de odoru](https://osu.ppy.sh/beatmapsets/1200657) presents clean-looking streams and apt spacing usage to emphasize the music accordingly.
 
@@ -109,7 +109,7 @@ As the summer cracks the door open, the fruits start ripening. To fill your cup 
 
 Featuring songs from our [Featured Artists](https://osu.ppy.sh/beatmaps/artists) who joined the lineup between March 20th - June 20th, this contest will test your mapping capabilities in two difficulties: one being Platter or lower, and the other being Rain or higher.
 
-But that's not all — this one has some hefty prizes too! 
+But that's not all — this one has some hefty prizes too!
 
 The winner will be rewarded with 100 USD in cash, plus having their set modded by the host and the judges! Should you not make it to the top, the runners-up will still get 20 USD in cash in addition to 4 months of osu!supporter for 2nd place, and the 3rd place will enjoy 2 months of osu!supporter.
 

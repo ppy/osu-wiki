@@ -29,16 +29,16 @@ The beatmap editor is separated into four main sections which can be seen in the
 
 ## Song setup
 
-[Song setup](/wiki/Client/Beatmap_editor/Song_setup) fills in a beatmap's [metadata](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-metadata) and other things universal to a [beatmap](/wiki/Beatmap). This includes the title of a song, the artist, the difficulty name, combo colours, etc.
+[Song setup](/wiki/Client/Beatmap_editor/Song_setup) fills in a beatmap's [metadata](/wiki/Client/Beatmap_editor/Song_setup#general) and other things universal to a [beatmap](/wiki/Beatmap). This includes the title of a song, the artist, the difficulty name, combo colours, etc.
 
 ## Other
 
 Other components of the beatmap editor include:
 
 - [AiMod](AiMod): An automated system that reports problems in a beatmap
-- [Beat snap divisor](Beat_Snap_Divisor): Determines how objects snap to the timeline
+- [Beat snap divisor](Beat_snap_divisor): Determines how objects snap to the timeline
 - [Distance snap](Distance_snap): The multiplier that affects how close or far hit objects are placed from each other
 - [Kiai time](/wiki/Gameplay/Kiai_time): Special timing sections that help emphasise a part of a beatmap
 - [Menu](Menu): Helps you navigate the beatmap editor
-- [SB load](SB_Load): A number used to tell how demanding a storyboard is
+- [SB load](SB_load): A number used to tell how demanding a storyboard is
 - [Timelines](Timelines): Displays placed hit objects, breaks, and more

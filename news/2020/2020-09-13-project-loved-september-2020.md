@@ -168,8 +168,8 @@ Fii is well known for her neat and structurally high-quality mapping style. And 
 215 BPM, 3:34 | 5.85★\
 *description written by [Wesley](https://osu.ppy.sh/users/2407265)*
 
-Almost everyone will know the osu!standard map of this song, [DJ Sharpnel - StrangeProgram](https://osu.ppy.sh/beatmapsets/5774), the one with the pretty awesome storyboard that will throw you off at any moment while playing. 
-Now this map is created by Razor Sharp, known for his pretty fast and technical maps, both ranked, loved and unranked. 
+Almost everyone will know the osu!standard map of this song, [DJ Sharpnel - StrangeProgram](https://osu.ppy.sh/beatmapsets/5774), the one with the pretty awesome storyboard that will throw you off at any moment while playing.
+Now this map is created by Razor Sharp, known for his pretty fast and technical maps, both ranked, loved and unranked.
 This map was inspired by [Lesjuh](https://osu.ppy.sh/users/44308), the creator of the osu!standard map's TAG difficulty, recreating a lot of the patterns from Lesjuh's map, while giving it just a slight twist so that it becomes a lot harder and fits osu!catch a lot better. The map will be quite hard to SS as it contains a lot of fast sliders with a bunch of awkward droplets making it one of those maps that you should be proud of if you will be able to SS it.
 
 [![](/wiki/shared/news/2020-09-13-project-loved-september-2020/catch/4-play-tetris-with-your-lolis-3.jpg)](https://osu.ppy.sh/community/forums/topics/1143852)
@@ -178,7 +178,7 @@ This map was inspired by [Lesjuh](https://osu.ppy.sh/users/44308), the creator o
 239 BPM, 1:29 | 5.39★\
 *description written by [Tenshichan](https://osu.ppy.sh/users/1101600)*
 
-If you have been around as long as I have (or even longer), then you likely encountered this map at some point. *Play Tetris With Your Lolis :3* mapped by katsek was uploaded in 2011 and used to be a popular pick in high-tier multiplayer sessions. Like most of the old maps, this map focuses on very precise movements and with it being AR8 it also challenges your low AR reading. If you are going for an FC, you better be ready for a lot of restarts to learn all the accurate movements you need to make. If you play this with any mod, you will suffer. 
+If you have been around as long as I have (or even longer), then you likely encountered this map at some point. *Play Tetris With Your Lolis :3* mapped by katsek was uploaded in 2011 and used to be a popular pick in high-tier multiplayer sessions. Like most of the old maps, this map focuses on very precise movements and with it being AR8 it also challenges your low AR reading. If you are going for an FC, you better be ready for a lot of restarts to learn all the accurate movements you need to make. If you play this with any mod, you will suffer.
 
 f you like the style older maps have, there is a high chance you will enjoy this map too. And even if you don't usually play these types of maps, please make sure to give this cool map at least a try!
 
@@ -209,7 +209,7 @@ Vortex is a classic household name in technical-styled charting, and *Ant IDM* i
 [Aural Vampire - Shounanzoku -cannibal coast-](https://osu.ppy.sh/beatmapsets/546972#mania) by [Wh1teh](https://osu.ppy.sh/users/2640467)\
 138 BPM, 3:10 | \[4K\] 4.94★
 
-We all know Wh1teh for his many popular and high quality charts, many of which have already been moved into Loved, with notable entrants including [TAKECORE OF YOURSELF](https://osu.ppy.sh/beatmapsets/480479#mania/1026050), [LA MD](https://osu.ppy.sh/beatmapsets/455656#mania/976620), and [Eighto](https://osu.ppy.sh/beatmapsets/584698#mania/1237015). Yet again we are seeing a chart of theirs nominated into the Loved Section in *Shounanzoku -cannibal coast-*, a chart that focuses primarily on dumping the vocals and layering the percussion to create quick, but relatively comfortable and satisfying jumpstream gameplay. 
+We all know Wh1teh for his many popular and high quality charts, many of which have already been moved into Loved, with notable entrants including [TAKECORE OF YOURSELF](https://osu.ppy.sh/beatmapsets/480479#mania/1026050), [LA MD](https://osu.ppy.sh/beatmapsets/455656#mania/976620), and [Eighto](https://osu.ppy.sh/beatmapsets/584698#mania/1237015). Yet again we are seeing a chart of theirs nominated into the Loved Section in *Shounanzoku -cannibal coast-*, a chart that focuses primarily on dumping the vocals and layering the percussion to create quick, but relatively comfortable and satisfying jumpstream gameplay.
 
 The consistent nature of this representation makes it a joy to play through and with few breaks, something to keep players interested throughout, and can serve well as a stamina and consistency tester.  The satisfaction and testing ability of this chart has garnered a decent amount of support, and combining these qualities makes it an excellent nominee for the Loved section.
 
@@ -227,9 +227,9 @@ Overall, *99 Glooms* is a great experience for a wide range of players, not only
 [GigaP - LUVORATORRRRRY!](https://osu.ppy.sh/beatmapsets/276833#mania) by [Fullerene-](https://osu.ppy.sh/users/2531335)\
 128 BPM, 3:19 | \[4K\] 5.85★, \[4K\] 5.97★
 
-Slow jacks and jumptrills, dumpy streams and bursts, and a special something spelled out in quads are the defining features of our next pick, *LUVORATORRRRRY!*, an exciting and bouncy song by Giga-P complimented very well with the chart laid out by Fullerene-! 
+Slow jacks and jumptrills, dumpy streams and bursts, and a special something spelled out in quads are the defining features of our next pick, *LUVORATORRRRRY!*, an exciting and bouncy song by Giga-P complimented very well with the chart laid out by Fullerene-!
 
-The different parts of the song are met with quite variable pattern types, with the sung vocals throughout the song taking the form of dumped streams and bursts, with the rap-esque vocals corresponding to slow jack patterns, and then jumptrills and quads to the synth buildups that happen twice. The set even includes two difficulties, so that the message spelled out in the quads can be deciphered by both upscroll and downscroll users (Upscroll players can see it in "On Top", and downscroll can see it in "Down Below"). 
+The different parts of the song are met with quite variable pattern types, with the sung vocals throughout the song taking the form of dumped streams and bursts, with the rap-esque vocals corresponding to slow jack patterns, and then jumptrills and quads to the synth buildups that happen twice. The set even includes two difficulties, so that the message spelled out in the quads can be deciphered by both upscroll and downscroll users (Upscroll players can see it in "On Top", and downscroll can see it in "Down Below").
 
 The bouncy and variable nature of the song and chart make it no wonder why it gained its popularity in the first place, and that popularity is sure to carry over to it with its nomination to the Loved section.
 

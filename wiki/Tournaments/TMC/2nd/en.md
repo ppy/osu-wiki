@@ -5,7 +5,7 @@ tags:
   - TMC2nd
 ---
 
-# Touhou Project Mania Cup 2nd 
+# Touhou Project Mania Cup 2nd
 
 ![Touhou Project Mania Cup 2nd banner](img/logo.png)
 
@@ -14,7 +14,7 @@ The **Touhou Project Mania Cup 2nd** (***TMC 2nd***) was a team-based 2v2 osu!ma
 ## Tournament schedule
 
 | Event | Timestamp |
-| --: | :-- | 
+| --: | :-- |
 | Registration phase | 2021-12-20/2022-01-12 |
 | Qualifier showcase | 2022-01-23 (12:00 UTC) |
 | Qualifier stage | 2022-02-05/2022-02-06 |
@@ -51,7 +51,7 @@ The Touhou Project Mania Cup 2nd was run by the TMC team and various community m
 | Streamer | ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645), ::{ flag=PH }:: [\[KN\]Tenshi](https://osu.ppy.sh/users/18520056), ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617), ::{ flag=PL }:: [Bexi](https://osu.ppy.sh/users/11548612), ::{ flag=CN }:: [cdwcgt](https://osu.ppy.sh/users/14721101), ::{ flag=US }:: [Doelon](https://osu.ppy.sh/users/17422924), ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622) |
 | Commentator | ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645), ::{ flag=US }:: [-Sparky-](https://osu.ppy.sh/users/3187959), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=PH }:: [\[KN\]Tenshi](https://osu.ppy.sh/users/18520056), ::{ flag=KR }:: [\[LS\] Rollpan](https://osu.ppy.sh/users/19584910),  ::{ flag=US }:: [Dynascape](https://osu.ppy.sh/users/8784587), ::{ flag=GB }:: [H1Pur](https://osu.ppy.sh/users/15756120), ::{ flag=SG }:: [Kings](https://osu.ppy.sh/users/1016926), ::{ flag=VN }:: [MashedPotato](https://osu.ppy.sh/users/10494860), ::{ flag=US }:: [PorkIsGreat](https://osu.ppy.sh/users/10756322)，::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622), ::{ flag=GB }:: [TingMomentum](https://osu.ppy.sh/users/12489832), ::{ flag=BH }:: [Unitori-](https://osu.ppy.sh/users/15772814) |
 | Statistician | ::{ flag=VN }:: [MashedPotato](https://osu.ppy.sh/users/10494860) |
-| Banner designer | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552)  |
+| Banner designer | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) |
 | Storyboarder | ::{ flag=CN }:: [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617) |
 | Community contributor | ::{ flag=CN }:: [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CA }:: [Nezu-](https://osu.ppy.sh/users/21963245) |
 | Wiki editor | ::{ flag=CN }:: [cdwcgt](https://osu.ppy.sh/users/14721101), ::{ flag=CN }:: [Rush\_FTK](https://osu.ppy.sh/users/3046856) |
@@ -187,7 +187,7 @@ This competition has come to an end and resulted in the following podium:
 - TieBreaker
   1. **[Shinra-Bansho - Kakumei no bullet (-Deepdive-) \[Hakurei Danmaku Collab\]](https://osu.ppy.sh/beatmapsets/1706414#mania/3486671)**
 
-### Quarter Finals 
+### Quarter Finals
 
 - Rice
   1. [nmk feat. Kanaeyume - Memoria (Mipha-) \[miphather\]](https://osu.ppy.sh/beatmapsets/1564347#mania/3194488)
@@ -267,28 +267,28 @@ This competition has come to an end and resulted in the following podium:
 
 Saturday, March 12, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | sllab amogus | 3 | **7** | **Ordirehv** | [#1](https://osu.ppy.sh/community/matches/98657070) |
 | **rice quadruplets** | **7** | 1 | offbrand mwc | [#1](https://osu.ppy.sh/community/matches/98648075) |
 
 Sunday, March 13, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Hourai Elixir | 0 | **7** | **Black Stick Rot** | [#1](https://osu.ppy.sh/community/matches/98873851) |
 | Ordirehv | 1 | **7** | **rice quadruplets** | [#1](https://osu.ppy.sh/community/matches/98690929) |
 
 Saturday, March 19, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Hourai Elixir | 1 | **7** | **rice quadruplets** | [#1](https://osu.ppy.sh/community/matches/98873851) |
 | **Black Stick Rot** | **7** | 2 | rice quadruplets | [#1](https://osu.ppy.sh/community/matches/99123840) |
 
 Sunday, March 26, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 |  |  |  |  |  |
 
@@ -296,7 +296,7 @@ Sunday, March 26, 2022
 
 Saturday, March 5, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Knation | 4 | **7** | **Team Pixula** | [#1](https://osu.ppy.sh/community/matches/98412630) |
 | Fumo | 0 | **7** | **Ordirehv** | [#1](https://osu.ppy.sh/community/matches/98426262) |
@@ -305,7 +305,7 @@ Saturday, March 5, 2022
 
 Sunday, March 6, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | rice quadruplets | 5 | **7** | **Hourai Elixir** | [#1](https://osu.ppy.sh/community/matches/98456131), [#2](https://osu.ppy.sh/community/matches/98458144) |
 | sllab amogus | 4 | **7** | **Black Stick Rot** | [#1](https://osu.ppy.sh/community/matches/98465507) |
@@ -316,7 +316,7 @@ Sunday, March 6, 2022
 
 Saturday, February 26, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | badplayers49 | 0 | **6** | **Team Pixula** | [#1](https://osu.ppy.sh/community/matches/98185056) |
 | ICHIGAY!!! | -1 | **0** | **TheAnswerIsPorn** | *win by default* |
@@ -329,7 +329,7 @@ Saturday, February 26, 2022
 
 Sunday, February 27, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Appendicitis | 3 | **6** | **rice quadruplets** | [#1](https://osu.ppy.sh/community/matches/98223017) |
 | **Hourai Elixir** | **6** | 1 | Fumo | [#1](https://osu.ppy.sh/community/matches/98228674) |
@@ -344,7 +344,7 @@ Sunday, February 27, 2022
 
 Saturday, February 19, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Knation** | **6** | 2 | Ordirehv | [#1](https://osu.ppy.sh/community/matches/97945770) |
 | Black Stick Rot | **6** | 0 | ICHIGAY!!! | [#1](https://osu.ppy.sh/community/matches/97949454) |
@@ -354,7 +354,7 @@ Saturday, February 19, 2022
 
 Sunday, February 20, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Sierra Leone | 0 | **6** | **TheAnswerIsPorn** | [#1](https://osu.ppy.sh/community/matches/98014533) |
 | YEP | -1 | **0** | **TouWhou?** | *win by default* |
@@ -372,9 +372,9 @@ Sunday, February 20, 2022
 
 Saturday, January 12, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Appendicitis**  | **5** | 1 | YEP | [#1](https://osu.ppy.sh/community/matches/97677061) |
+| **Appendicitis** | **5** | 1 | YEP | [#1](https://osu.ppy.sh/community/matches/97677061) |
 | **Hourai  Elixir** | **5** | 0 | oh10 | [#1](https://osu.ppy.sh/community/matches/97677026) |
 | **Ordirehv** | **5** | 0 | Ricemakers | [#1](https://osu.ppy.sh/community/matches/97689810) |
 | **Knation** | **5** | 0 | FNF Club  Germany | [#1](https://osu.ppy.sh/community/matches/97691432) |
@@ -386,7 +386,7 @@ Saturday, January 12, 2022
 
 Sunday, January 13, 2022
 
-| Team A | | | Team B | Match link |
+| Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | TouWhou? | 4 | **5** | **offbrand  mwc** | [#1](https://osu.ppy.sh/community/matches/97718307) |
 | TheAnswerIsPorn | 1 | **5** | **rice  quadruplets** | [#1](https://osu.ppy.sh/community/matches/97723198) |
@@ -455,9 +455,9 @@ The ruleset is mainly based on [osu!mania 4K World Cup 2021](/wiki/Tournaments/M
 ### Tournament registration
 
 1. Please complete the [registration form](https://forms.gle/41fgDJ5XV3PzUGD2A) to registrate.
-2. Participants are required to join as teams. 
+2. Participants are required to join as teams.
 3. The size of a team has a minimum of 2 and a maximum of 4.
-4. To ensure valid registrations, every prospective participant will be manually checked by via [tournament screening](/wiki/Tournaments/Official_support#tournament-screening). 
+4. To ensure valid registrations, every prospective participant will be manually checked by via [tournament screening](/wiki/Tournaments/Official_support#tournament-screening).
    - If any member in a team is blacklisted by organisers or considered "suspicious" by the account support team, the whole team will be disqualified. **Blacklists in other tournaments will be considered as well.**
    - There are no rank requirements for this tournament, but player must not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 5. All successfully formed teams will be published after the registration phase.
@@ -507,7 +507,7 @@ The ruleset is mainly based on [osu!mania 4K World Cup 2021](/wiki/Tournaments/M
 4. Each captain must use `!roll` once in `#multiplayer`.
    - The winner of the `!roll` will select which team will pick first.
    - The loser of the `!roll` will select which team will ban first.
-5. Teams will have 2 minutes to pick a beatmap and 2 minutes to get ready. If a team takes more time than alloted, the procedure adopted will be as follows:
+5. Teams will have 2 minutes to pick a beatmap and 2 minutes to get ready. If a team takes more time than allotted, the procedure adopted will be as follows:
    - For the first occurrence:
      - The team will receive a verbal warning from the referee
    - On subsequent occurrences:
@@ -516,7 +516,7 @@ The ruleset is mainly based on [osu!mania 4K World Cup 2021](/wiki/Tournaments/M
    - Repeat offenders may receive further sanctions from the Tournament Management.
    - Each team will receive one "tactical timeout" of two minutes, to be used as extra time to pick or ban a beatmap. *The tactical timeout is optional*.
      - This timeout is autimatically consumed when regular picking time runs out.
-     - The tactical timeout may be called on a tiebreaker, provided that both team's captains agree to it. 
+     - The tactical timeout may be called on a tiebreaker, provided that both team's captains agree to it.
    - Each team will receive one technical timeout of 5 minutes, to be used only when a technical issue occurs.
 6. Results for the Qualifiers will be published via a statistics sheet.
 

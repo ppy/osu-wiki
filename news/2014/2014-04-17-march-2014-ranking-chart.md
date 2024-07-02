@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "March 2014 Ranking Chart"
+title: March 2014 Ranking Chart
 date: 2014-04-17 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/83033256875/march-2014-ranking-chart
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Community Mentorship Program Spring 2022 Signups Now Open"
+title: Community Mentorship Program Spring 2022 Signups Now Open
 date: 2022-03-27 14:00:00 +0000
 ---
 
@@ -26,6 +26,6 @@ Throughout this active cycle time, the organization team will host various event
 
 If any of this interests you or anyone you know, please go to our [forum announcement and rules thread](https://osu.ppy.sh/community/forums/topics/1545138) for more information.
 
-We're looking forward to the mappers and modders of tomorrow! 
+We're looking forward to the mappers and modders of tomorrow!
 
 —Mentorship Organization Team

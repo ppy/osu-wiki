@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Renewing the Beatmap Spotlights"
+title: Renewing the Beatmap Spotlights
 date: 2020-04-13 12:30:00 +0000
 ---
 

@@ -128,7 +128,7 @@ Finalists:
 
 You may be wondering why there are three banners up there. This must be a mistake, surely.
 
-Nope. It happened. 
+Nope. It happened.
 
 The Mapper's Favourite of 2020 for osu!catch is an established **three-way tie** with [**Kaneko Chiharu - iLLness LiLin**](https://osu.ppy.sh/beatmapsets/777109) by [**Ascendance**](https://osu.ppy.sh/users/2931883), [**lapix - Carry Me Away**](https://osu.ppy.sh/beatmapsets/1018810) by [**Minato Yukina**](https://osu.ppy.sh/users/531253) and [**Camellia feat. Nanahira - finorza**](https://osu.ppy.sh/beatmapsets/1151836) by [**Rocma**](https://osu.ppy.sh/users/566276) all scoring exactly **17** votes total.
 
@@ -192,7 +192,7 @@ Finalists:
 
 ---
 
-And with that, Community Choice 2020 is done and dusted! 
+And with that, Community Choice 2020 is done and dusted!
 
 What a year 2020 was, and we're at least satisfied that the crazy voting in the new Mapper's Favourite category has fit the bill perfectly.
 

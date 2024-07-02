@@ -10,9 +10,9 @@ The time is now. Start your mapping journey (or just play some cool maps) with o
 
 The one and only artist in the rhythm game kingdom who proudly presents themselves as a "cute poop", **Kurubukko** is a Japanese producer known for electronic soundscapes reminiscent of ruins and space. As a long-time participant in *BMS OF FIGHTERS* and a musician influenced by all matters of electronica, it's no wonder that **Kurubukko**'s masterpieces have been front and center in games like *SOUND VOLTEX*, *MUSECA*, and *CHUNITHM*.
 
-Keen eyes may remember that we picked up a super popular collaborative track between **Kurubukko** and [yukitani](https://osu.ppy.sh/beatmaps/artists/167) a few months ago: [Minamichita EVOLVED](https://osu.ppy.sh/beatmapsets/136632). 
+Keen eyes may remember that we picked up a super popular collaborative track between **Kurubukko** and [yukitani](https://osu.ppy.sh/beatmaps/artists/167) a few months ago: [Minamichita EVOLVED](https://osu.ppy.sh/beatmapsets/136632).
 
-**Kurubukko**'s solo songs are just as awesome, so give them a peek from [their Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/217)! 
+**Kurubukko**'s solo songs are just as awesome, so give them a peek from [their Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/217)!
 
 Looking for a fresh taste of **Kurubukko**'s sound? We've organized a few [showcase beatmaps](/wiki/Featured_Artists/Featured_Artist_showcase_beatmaps) for your circle crushing desires, so witness some frames-per-second-pain through the video below, or play the maps for yourself!
 

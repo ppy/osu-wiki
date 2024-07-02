@@ -1,6 +1,8 @@
 # Unlock requirements
 
-Index page for all articles regarding medal unlock requirements. Hush-Hush medals are not included for obvious reasons.
+Index page for all articles that list [medal](/wiki/Medals) unlock requirements.
+
+Unlock requirements for [Hush-Hush medals](/wiki/Medals#hush-hush) are intentionally omitted from this wiki to help preserve their secrecy.
 
 - [Beatmap Challenge Packs](Beatmap_challenge_packs)
 - [Beatmap Packs](Beatmap_packs)

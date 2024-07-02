@@ -44,14 +44,14 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}
 
 Una beatmap inviata appartiene a una delle seguenti categorie, che possono cambiare nel tempo:
 
-- [Abbandonate](Category#mappe-abbandonate)
-- [In lavorazione/In attesa](Category#mappe-in-lavorazione-e-in-attesa)
-- [Qualificate](Category#qualificate)
-- [Classificate](Category#classificate)
-- [Approvate](Category#approvate)
-- [Amate](Category#amate)
+- [Abbandonate](Category#graveyard)
+- [In lavorazione/In attesa](Category#wip-and-pending)
+- [Qualificate](Category#qualified)
+- [Classificate](Category#ranked)
+- [Approvate](Category#approved)
+- [Amate](Category#loved)
 
-Alcune categorie hanno dei [criteri di classificazione](/wiki/Ranking_criteria) e permettono alle beatmap di avere delle [classifiche](#classifiche) transitorie o permanenti. Il modo più diffuso per ottenere questo risultato è la [procedura di classificazione delle beatmap](/wiki/Beatmap_ranking_procedure), mentre la seconda opzione è far sì che la beatmap sia [amata](Category#amate).
+Alcune categorie hanno dei [criteri di classificazione](/wiki/Ranking_criteria) e permettono alle beatmap di avere delle [classifiche](#classifiche) transitorie o permanenti. Il modo più diffuso per ottenere questo risultato è la [procedura di classificazione delle beatmap](/wiki/Beatmap_ranking_procedure), mentre la seconda opzione è far sì che la beatmap sia [amata](Category#loved).
 
 ## Scaricare le beatmap
 
@@ -89,7 +89,7 @@ I giocatori di osu! in tutte le modalità di gioco usano le beatmap per [salire 
 - Classifica specifica per paese, composta da giocatori con la stessa bandiera;
 - Classifica amici che mostra la posizione di un giocatore sulla mappa rispetto ai suoi amici.
 
-I primi 500 punteggi a ogni difficoltà di una mappa di battuta forniscono [replay](/wiki/Gameplay/Replay), che possono essere guardati online o salvati per essere visualizzati in una classifica locale.
+I primi 1000 punteggi a ogni difficoltà di una mappa di battuta forniscono [replay](/wiki/Gameplay/Replay), che possono essere guardati online o salvati per essere visualizzati in una classifica locale.
 
 ### Charts e Spotlights
 

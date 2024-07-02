@@ -14,7 +14,7 @@ We've got a whopping **40** tracks for everyone to sink their teeth into, with t
 
 Check out a preview of a few tracks below:
 
-### Enigma Machine 
+### Enigma Machine
 
 Check out [this osu!taiko showcase set](https://osu.ppy.sh/beatmapsets/1165587) from [Capu](https://osu.ppy.sh/users/2474015) of the Mappers' Guild!
 

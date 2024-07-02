@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halloween 2020 Fanart Contest Results"
+title: Halloween 2020 Fanart Contest Results
 date: 2020-10-11 15:00:00 +0000
 ---
 

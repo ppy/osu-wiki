@@ -12,7 +12,7 @@ no_native_review: true
 
 - 以三角形为主题的一系列谱面...
   - 歌曲为 *[cYsmix](https://osu.ppy.sh/beatmaps/artists/2) - triangles*
-  - 符合[谱面上架标准 (RC)](/wiki/Ranking_criteria) 
+  - 符合[谱面上架标准 (RC)](/wiki/Ranking_criteria)
   - 总共有 5 个难度：Easy、Normal、Hard、Insane、Expert
 - 以三角形为主题的故事板， `.osb` 文件需低于 1 MB。
 - 参赛队员 2-5 人。
@@ -80,7 +80,7 @@ no_native_review: true
 
 - 玩家必须游玩过 **triangles** 激光课题的所有参赛作品才能投票
 - 奖励
-  - **参与者：** 3 个月的 osu! 支持者 
+  - **参与者：** 3 个月的 osu! 支持者
   - **冠军：**  6 个月的 osu! 支持者 + *社区之选*主页奖牌
 
 ![社区之选主页奖牌](/wiki/shared/news/2022-05-26-triangles/community@2x.png)
@@ -89,7 +89,7 @@ no_native_review: true
 
 - 侧重于作图方面
 - 奖励
-  - **参与者：** 3 个月的 osu! 支持者 
+  - **参与者：** 3 个月的 osu! 支持者
   - **冠军：**  6 个月的 osu! 支持者 + *谱师之选*主页奖牌
 - 谱师组成员：
   - ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163)
@@ -108,7 +108,7 @@ no_native_review: true
 
 - 侧重于故事板方面
 - 奖励
-  - **参与者：** 3 个月的 osu! 支持者 
+  - **参与者：** 3 个月的 osu! 支持者
   - **冠军：**  6 个月的 osu! 支持者 + *故事板作者之选*主页奖牌
 - 故事板作者组成员：
   - ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163)

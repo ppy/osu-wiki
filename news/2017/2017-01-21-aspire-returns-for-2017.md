@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aspire Returns For 2017"
+title: Aspire Returns For 2017
 date: 2017-01-21 16:09:38 +0000
 tumblr_url: http://osunews.tumblr.com/post/156171674413/aspire-returns-for-2017
 ---

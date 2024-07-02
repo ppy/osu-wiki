@@ -32,7 +32,7 @@ Si vous voulez savoir comment faire de bons sliders, voir [Faire de bons sliders
 - [Tornado Combos](Formations#tornado-combos)
 - [ztrot Spacing](Formations#ztrot-spacing)
 
-#### Formes symétriques 
+#### Formes symétriques
 
 - [Circle Formation](Formations#formation-en-cercles)
 - [Diamond Formation](Formations#formation-en-diamant)
@@ -62,7 +62,7 @@ Si vous voulez savoir comment faire de bons sliders, voir [Faire de bons sliders
 - [Endpoint Slider Jumps](Jumps#endpoint-slider-jumps)
 - [Orbital Sliders](Jumps#orbital-sliders)
 
-### Rythme 
+### Rythme
 
 *Page principale : [Techniques de mapping/Rhythm](Rhythm)*
 
@@ -97,7 +97,7 @@ Si vous voulez savoir comment faire de bons sliders, voir [Faire de bons sliders
 
 *Page principale : [Techniques de mapping/Spinners](Spinners)*
 
-#### Effets additionnels 
+#### Effets additionnels
 
 - [Post-Spinner Note](Spinners#post-spinner-note)
 - [Pre-Spinner Note](Spinners#pre-spinner-note)

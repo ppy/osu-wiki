@@ -8,7 +8,7 @@ Regardless of the nature of the audio, make sure it also complies with the [gene
 
 ## What counts as explicit content?
 
-Explicit content refers primarily to the **audio content of a beatmap**, mostly in theme, subject matter, or *heavy* use of explicit language. It does **not** apply to visual elements of a beatmap — those **must** adhere to the [Visual Content Considerations](/wiki/Rules/Visual_content_considerations), or to any other user-alterable aspects of a beatmap (such as tags or beatmap difficulty names) which **must** abide by the [osu! community rules](/wiki/Rules) as normal. 
+Explicit content refers primarily to the **audio content of a beatmap**, mostly in theme, subject matter, or *heavy* use of explicit language. It does **not** apply to visual elements of a beatmap — those **must** adhere to the [Visual Content Considerations](/wiki/Rules/Visual_content_considerations), or to any other user-alterable aspects of a beatmap (such as tags or beatmap difficulty names) which **must** abide by the [osu! community rules](/wiki/Rules) as normal.
 
 As a general rule of thumb, the explicit content provision creates exceptions only for content that a user cannot reasonably edit with the tools provided to them by the game, and may also be revoked on a per-track basis at the discretion of the [osu! support team](/wiki/People/Account_support_team).
 
@@ -23,7 +23,7 @@ Profanity use must be sustained, significant, heavily inflammatory, or highly re
 In addition, vivid and sustained discussion of controversial topics or anything that a reasonable person would consider as "heavy" should be considered as explicit. Some (but not all) examples are:
 
 - Imagery, impact, or consequences of suicide
-- Heavily implied violence 
+- Heavily implied violence
 - Depiction/discussion of violent consequences in gory detail
 - Extremely overt sexual references or allusions to sexual acts
 

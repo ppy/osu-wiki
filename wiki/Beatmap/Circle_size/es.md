@@ -2,6 +2,7 @@
 tags:
   - CS
   - key count
+  - keycount
   - número de teclas
   - conteo de teclas
 ---

@@ -174,7 +174,7 @@ Tuş düzeni seçeneklerinde bulunan değerler, tuşların isimleridir.
 
 #### osu!mania düzeni
 
-Her bir osu!mania tuş modunun kendine ait bir dizi seçenekleri bulunur. Burada, tuş sayısını (1 ile 18 arası) belirtmek için `#` sembolünü kullanıyoruz. 
+Her bir osu!mania tuş modunun kendine ait bir dizi seçenekleri bulunur. Burada, tuş sayısını (1 ile 18 arası) belirtmek için `#` sembolünü kullanıyoruz.
 
 | Seçenek | Değer türü | Açıklama |
 | :-- | :-- | :-- |

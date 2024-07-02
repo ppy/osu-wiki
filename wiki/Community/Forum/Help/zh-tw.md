@@ -1,6 +1,8 @@
 ---
 stub: true
 no_native_review: true
+outdated_translation: true
+outdated_since: e08887d46a5c0e107d635078b0ae379f7689e342
 ---
 
 # 幫助區

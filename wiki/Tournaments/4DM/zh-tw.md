@@ -11,3 +11,4 @@ no_native_review: true
 - [4 Digit osu!mania 世界盃 3](3)
 - [4 Digit osu!mania 世界盃 4](4)
 - [4 Digit osu!mania 世界盃 2023](2023)
+- [4 Digit osu!mania 世界盃 2024](2024)

@@ -91,7 +91,7 @@ no_native_review: true
 - [-SiN-](https://osu.ppy.sh/users/10560) 加入製圖協助團隊 (2009-12-27) <!-- not sure if this guy was actually MAT but they're alumni now so they did *something* -->
 - 將 [vytalibus](https://osu.ppy.sh/users/10028) 從圖譜審核團隊移至 osu! Alumni (2009-12-31) <!-- https://osu.ppy.sh/community/forums/topics/22094 -->
 
-<!-- re new MAT spam, it seems like everyone in https://osu.ppy.sh/community/forums/topics/21682  without "OMIT" was supposed to pass, but some might not have accepted the invitation (or something else?). 
+<!-- re new MAT spam, it seems like everyone in https://osu.ppy.sh/community/forums/topics/21682  without "OMIT" was supposed to pass, but some might not have accepted the invitation (or something else?).
 listed below are the people who should've been but (probably) were not:
 - Symbolic
 - Gladi

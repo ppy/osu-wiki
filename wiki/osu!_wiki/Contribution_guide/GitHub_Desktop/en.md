@@ -66,25 +66,28 @@ While branching is technically optional, it is [highly recommended for a couple 
 
 1. Go back to GitHub Desktop. It should look something similar to this:
 
-  ![](img/github-desktop-changes.jpg "Your mileage may vary.")
+   ![](img/github-desktop-changes.jpg "Your mileage may vary.")
 
 2. By default, GitHub Desktop will automatically select all of your changes.
+
 3. It is best to separate each "big" action as a single commit.
 
-For example, as pictured above, [pippi](/wiki/Mascots#pippi) had added an image file, modified the `en.md` file to add a title and a link to the image, and marked the translations as outdated. From this, we can have two commits, one for the changes that affected the `en.md` file, and one for marking the translations as outdated.
+   For example, as pictured above, [pippi](/wiki/Mascots#pippi) had added an image file, modified the `en.md` file to add a title and a link to the image, and marked the translations as outdated. From this, we can have two commits, one for the changes that affected the `en.md` file, and one for marking the translations as outdated.
 
 4. Select the files that are going to be committed.
+
 5. Enter the commit summary. This has a 72 character limit and **must be in English**.
+
 6. Enter the description. This is optional, doesn't have a character limit, and could be in any language.
 
-  ![](img/github-desktop-first-commit.jpg "First commit")
+   ![](img/github-desktop-first-commit.jpg "First commit")
 
 7. Click on the blue `Commit to` button and, if applicable, restart from step 4 to do the other commits you want to do.
 
-  ![](img/github-desktop-second-commit.jpg "Second commit")
+   ![](img/github-desktop-second-commit.jpg "Second commit")
 
 8. Once you have finished making your commits, click on the `Publish branch` button at the top.
 
-  ![](img/github-desktop-push.jpg)
+   ![](img/github-desktop-push.jpg)
 
 9. Continue to [Review](/wiki/osu!_wiki/Contribution_guide#review) for the last piece of information regarding your pull request and changes.

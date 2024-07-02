@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Results - Monthly Beatmapping Contest 2021 Wrap-up"
+title: Results - Monthly Beatmapping Contest 2021 Wrap-up
 date: 2021-12-08 23:15:00 +0000
 ---
 

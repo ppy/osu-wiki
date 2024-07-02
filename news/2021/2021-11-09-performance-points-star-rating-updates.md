@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Performance Points & Star Rating Updates"
+title: Performance Points & Star Rating Updates
 date: 2021-11-09 10:00:00 +0000
 ---
 
@@ -20,7 +20,7 @@ Deployment of these changes will as usual, take some time to fully complete. If 
 
 An initial pass over all beatmaps to update their star ratings. During this period, new scores will potentially be calculated using the updated calculations, but won't match old scores (which are yet to be updated). There may be discrepancies in ordering and display between the game client and web site.
 
-Estimated to take 1-2 days. 
+Estimated to take 1-2 days.
 
 UPDATE: The schedule has been reset and moved forward due to some hotfixes being applied. See the end of this post for more details.
 
@@ -70,7 +70,7 @@ As a reminder of the various core values in the difficulty calculation algorithm
 
 ### New aim algorithm
 
-A [new aim algorithm](https://github.com/ppy/osu/pull/14767) written by [**Xexxar**](https://osu.ppy.sh/users/2773526) has been added as a part of this change. 
+A [new aim algorithm](https://github.com/ppy/osu/pull/14767) written by [**Xexxar**](https://osu.ppy.sh/users/2773526) has been added as a part of this change.
 
 This new algorithm introduces not only a variety of quality-of-life enhancements to existing infrastructure, but also a series of core changes and additions to the basic factors of aim scoring. In particular, four major things have been added:
 
@@ -79,13 +79,13 @@ This new algorithm introduces not only a variety of quality-of-life enhancements
 - **Patterns that feature extreme velocity differences between objects have been buffed.** A good example of a map affected by this is [polygon \[Bonzi's Ultra\]](https://osu.ppy.sh/beatmapsets/559097#osu/1227359).
 - **Sliders are now broken down into two movements: the slider itself, and the jump after it.** Historically, these were considered as one singular movement. As a part of this change, sliders with multiple repeats along their length are also buffed, but not broken down into multiple movements in the same way yet. Example maps include [Black Rover (TV Size) \[Special\]](https://osu.ppy.sh/beatmapsets/1199834#osu/2498577) and [KAEDE \[EX EX\]](https://osu.ppy.sh/beatmapsets/660630#osu/1398809).
 
-With every large-scale change, there is always a chance that new issues may emerge as a result. As players and mappers adapt to these new changes, a counter-balancing patch may be needed in response. 
+With every large-scale change, there is always a chance that new issues may emerge as a result. As players and mappers adapt to these new changes, a counter-balancing patch may be needed in response.
 
 We intend to stay alert on these developments in the future and promptly address issues that arise in future updates. For this reason, we implore mappers and players to try leaning into these changes and have fun with them!
 
 ### Rhythm complexity
 
-With [a new change](https://github.com/ppy/osu/pull/14395) submitted by [**Xexxar**](https://osu.ppy.sh/users/2773526), rhythm complexity will now play a more important role in determining the star rating of a map. 
+With [a new change](https://github.com/ppy/osu/pull/14395) submitted by [**Xexxar**](https://osu.ppy.sh/users/2773526), rhythm complexity will now play a more important role in determining the star rating of a map.
 
 This change introduces an algorithmic assessment of the complexity of note patterns and will introduce a more accurate assessment for maps that feature atypical combinations of triples, doubles, quints and much more!
 
@@ -103,13 +103,13 @@ To summarise how rhythm complexity works, notes are grouped up into 'islands', w
 
 These changes all collectively combine to produce a rhythm value that becomes part of the final star rating.
 
-We hope this change will bring a renewed interest in rhythmically complex songs on osu! and will incentivize players to improve their finger control. 
+We hope this change will bring a renewed interest in rhythmically complex songs on osu! and will incentivize players to improve their finger control.
 
 Good luck setting new, impressive top plays that showcase your skills!
 
 ### Total star rating adjustments
 
-The correlation between star rating and performance points has now been improved, following the mathematical derivation work from [**Naitsirk**](https://osu.ppy.sh/users/8202998) in [this pull request](https://github.com/ppy/osu/pull/13986). 
+The correlation between star rating and performance points has now been improved, following the mathematical derivation work from [**Naitsirk**](https://osu.ppy.sh/users/8202998) in [this pull request](https://github.com/ppy/osu/pull/13986).
 
 To summarize these changes briefly, star rating now combines the different core skill values mentioned earlier with consideration for how large they are in relation to each other, which is more analogous to how it's done for performance points, whereas before it was just the simple sum of each constituent skill value. In other words, maps which focus on one skill will now receive a lower star rating than ones which focus on many. **These changes do not affect performance points.**
 
@@ -126,7 +126,7 @@ If you're interested in the mathematical details of this change, please consult 
 
 ### New Flashlight difficulty skill
 
-Flashlight in difficulty calculation is now revamped, as it moves from an object count-based multiplier applied to the Aim skill to a brand new skill of its own. 
+Flashlight in difficulty calculation is now revamped, as it moves from an object count-based multiplier applied to the Aim skill to a brand new skill of its own.
 
 The difficulty that Flashlight adds to a map is now measured much more accurately, thanks to [**MBmasher**](https://osu.ppy.sh/users/4498616)'s change in [this pull request](https://github.com/ppy/osu/pull/14217).
 
@@ -144,14 +144,14 @@ Find yourself curious about the details? [MBmasher](https://osu.ppy.sh/users/449
 
 ### Speed hard cap removal
 
-The speed hard cap in osu! has been removed by [**emu1337**](https://osu.ppy.sh/users/2185987) and [**Apo11o**](https://osu.ppy.sh/users/9558549) in [this pull request](https://github.com/ppy/osu/pull/14617), allowing 300+ BPM streams to be weighed accurately. 
+The speed hard cap in osu! has been removed by [**emu1337**](https://osu.ppy.sh/users/2185987) and [**Apo11o**](https://osu.ppy.sh/users/9558549) in [this pull request](https://github.com/ppy/osu/pull/14617), allowing 300+ BPM streams to be weighed accurately.
 
 The speed cap was previously set to 300 BPM to prevent abuse cases, which means that calculating difficulty on beatmaps with higher BPM requires special consideration. Two adjustments were made to account for that:
 
 - Quick doubles with overlapping hit windows are nerfed. With a small enough time interval between two notes, they can still be perfectly hit by simply double-tapping during the overlap of their hit windows. This is now accounted for in calculations by artificially increasing the time gap between the notes.
 - Streams with relatively lenient hit windows are nerfed in a similar manner to the above.
 
-The intention behind this change is to accommodate for future improvement, as there are a handful of players who have proven themselves to be competent at such high speeds. 
+The intention behind this change is to accommodate for future improvement, as there are a handful of players who have proven themselves to be competent at such high speeds.
 
 As an added bonus, the star ratings of absurdly fast maps are now measured more accurately, which means you can gawk as much as you'd like at the now even-higher star ratings on them.
 
@@ -159,8 +159,8 @@ As an added bonus, the star ratings of absurdly fast maps are now measured more 
 
 Alongside all those big changes above, there are some changes on the smaller side of things:
 
-- [Sliderbreaks are now approximated into the total miss count](https://github.com/ppy/osu/pull/15086) in performance calculation, following [**StanR**](https://osu.ppy.sh/users/7217455)'s pull request. This is guessed by comparing the achieved combo to the maximum combo possible on a map. 
-- [Instant spinners no longer give an insane amount of strain](https://github.com/ppy/osu/pull/15009), thanks to [**StanR**](https://osu.ppy.sh/users/7217455). This fixes maps [such as this one](https://osu.ppy.sh/beatmapsets/814850#osu/1901200), which abused this. 
+- [Sliderbreaks are now approximated into the total miss count](https://github.com/ppy/osu/pull/15086) in performance calculation, following [**StanR**](https://osu.ppy.sh/users/7217455)'s pull request. This is guessed by comparing the achieved combo to the maximum combo possible on a map.
+- [Instant spinners no longer give an insane amount of strain](https://github.com/ppy/osu/pull/15009), thanks to [**StanR**](https://osu.ppy.sh/users/7217455). This fixes maps [such as this one](https://osu.ppy.sh/beatmapsets/814850#osu/1901200), which abused this.
 - [**Joz**](https://osu.ppy.sh/users/10644596) spotted that the initial strain for skills started at 1, not 0. [This has been fixed](https://github.com/ppy/osu/pull/15014).
 - In preparation for osu!(lazer), difficulty calculation for [the Blinds mod](https://github.com/ppy/osu/pull/14921) and [the Relax mod](https://github.com/ppy/osu/pull/14942) has been added by [**Apo11o**](https://osu.ppy.sh/users/9558549).
   - These could be potentially enabled in the future once osu!(lazer) leaderboard submissions go live, since the concept of "ranked mods" will be no more.

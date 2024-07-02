@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Beatmap Spotlights Spring 2022 Conclusion & Players' Pick Voting"
+title: Beatmap Spotlights Spring 2022 Conclusion & Players' Pick Voting
 date: 2022-07-28 17:00:00 +0000
 ---
 
@@ -14,7 +14,7 @@ Continuing the trend from past seasons, Spring 2022 playlists gathered nearly **
 
 Livestream? Yes, you've heard right! We will be streaming the Summer 2022 Season start over at our [Twitch channel](https://www.twitch.tv/osu_spotlights) at **August 7th, 16:00 UTC+0**.
 
-The stream will last for around 2 hours, and will serve as an introduction to the new season including things like the season gimmick and revealing the playlist A picks, commented by some of our [curators](/wiki/Beatmap_Spotlights#curators). 
+The stream will last for around 2 hours, and will serve as an introduction to the new season including things like the season gimmick and revealing the playlist A picks, commented by some of our [curators](/wiki/Beatmap_Spotlights#curators).
 
 This will be the very first time we've ever run a stream like this, so make sure to join us for the show if you're interested!
 

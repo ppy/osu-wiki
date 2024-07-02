@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!idol 2016 Final results"
+title: osu!idol 2016 Final results
 date: 2016-11-08 15:52:17 +0000
 tumblr_url: http://osunews.tumblr.com/post/152901340878/osuidol-2016-final-results
 ---

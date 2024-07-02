@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Community Mentorship Program Winter 2017 Signups Now Open"
+title: Community Mentorship Program Winter 2017 Signups Now Open
 date: 2017-10-08 12:00:00 +0000
 ---
 

@@ -30,7 +30,7 @@ Jika Anda memiliki pertanyaan atau komentar, Anda bisa mengirimnya kepada [ztrot
 | ![](img/academy-7-3.png) | [Episode 7-3](https://www.youtube.com/watch?v=MhIuPvQjLbU) | Dalam episode ini, kita akan membahas grid dan apa fungsi mereka! |
 | ![](img/academy-8.png) | [Episode 8](https://www.youtube.com/watch?v=PFEYlQfiJHQ) | Dalam episode ini, kita akan membahas bagian penting dari mapping yang dapat membuat map lebih baik atau buruk: pemberian hitsound! |
 | ![](img/academy-9.png) | [Episode 9](https://www.youtube.com/watch?v=bTGBspoMFVA) | Dalam episode ini, kita akan membahas tentang modding beatmap! |
-| ![](img/academy-10.png) | [Episode 10](https://www.youtube.com/watch?v=bTGBspoMFVA) | Dalam episode ini, kita akan melanjutkan pembahasan sebelumnya mengenai modding beatmap! |
+| ![](img/academy-10.png) | [Episode 10](https://www.youtube.com/watch?v=SFSwmRdNbXM) | Dalam episode ini, kita akan melanjutkan pembahasan sebelumnya mengenai modding beatmap! |
 | ![](img/academy-11.png) | [Episode 11](https://www.youtube.com/watch?v=j8fpJKCjTvM) | Dalam episode ini, kita akan membahas beberapa tips dan trik saat bermain standard! |
 | ![](img/academy-12.png) | [Episode 12](https://www.youtube.com/watch?v=8reEFNk5kQY) | Dalam episode ini, kita akan melihat kembali editor, tetapi untuk mode permainan lainnya! |
 | ![](img/academy-13.png) | [Episode 13](https://www.youtube.com/watch?v=oUvCBsGyTtw) | Dalam episode ini, kita akan melihat bagaimana cara mengubah tampilan osu! melalui skinning! |

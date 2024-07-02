@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu! World Cup 2017 Group Stage Recap"
+title: osu! World Cup 2017 Group Stage Recap
 date: 2017-11-23 07:00:00 +0000
 ---
 

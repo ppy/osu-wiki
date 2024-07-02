@@ -24,7 +24,7 @@ De nombreux éléments d'osu! se basent sur le tempo de la musique en cours :
 - La vitesse de jeu, due au fait que les musiques au tempo plus élevé ont des [battements](/wiki/Music_theory/Beat) plus courts.
 - La valeur de base du [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) dans la vitesse de défilement par défaut [d'osu!](/wiki/Game_mode/osu!) et [osu!mania](/wiki/Game_mode/osu!mania)
 - La fréquence de pulsation du [kiai time](/wiki/Gameplay/Kiai_time)
-- Le [menu principal](/wiki/Client/Interface#main-menu) clignote, le cœur du [cookie d'osu!](/wiki/Client/Interface/Cookie) bat, et les étoiles éclatent dans [l'écran de sélection des musiques](/wiki/Client/Interface#song-select).
+- Le [menu principal](/wiki/Client/Interface#menu-principal) clignote, le cœur du [cookie d'osu!](/wiki/Client/Interface/Cookie) bat, et les étoiles éclatent dans [l'écran de sélection des musiques](/wiki/Client/Interface#sélection-de-la-musique).
 - La vitesse du [compte à rebours](/wiki/Beatmap/Countdown)
 
 ## Beatmapping

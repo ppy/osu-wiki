@@ -1,5 +1,6 @@
 ---
 tags:
+  - change log
   - history
   - Geschichte
 ---

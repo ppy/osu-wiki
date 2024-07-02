@@ -32,7 +32,7 @@ Presque toutes les musiques peuvent être divisées en plusieurs sections de tem
 
 ### BPM Unique
 
-La temps écoulé entre le début du fichier audio et le premier downbeat, aussi appelé "offset", est typiquement la place du premier [point de timing non hérité](/wiki/Client/Beatmap_editor/Timing#points-de-timing-non-hérités), le point de départ utilisé par osu! pour calculer la position des autres beats. Un de ces points de timing est souvent suffisant pour les chansons produites digitalement ou peu éditées, n'ayant pas de changement de BPM ni de changement de signature temporelle, ou de réinitialisation du metronome.
+La temps écoulé entre le début du fichier audio et le premier downbeat, aussi appelé "offset", est typiquement la place du premier [point de timing non hérité](/wiki/Client/Beatmap_editor/Timing#point-de-timing-non-hérité), le point de départ utilisé par osu! pour calculer la position des autres beats. Un de ces points de timing est souvent suffisant pour les chansons produites digitalement ou peu éditées, n'ayant pas de changement de BPM ni de changement de signature temporelle, ou de réinitialisation du metronome.
 
 Dans l'onglet [timing](/wiki/Client/Beatmap_editor/Timing), appuyer sur la touche `T` ou cliquer sur le bouton du métronome au rythme de la musique permet à osu! de calculer un BPM approximatif. Cette valeur peut ensuite être ajustée manuellement jusqu'à ce qu'elle soit correcte et s'aligne avec la musique. Il y a quelques points à noter :
 

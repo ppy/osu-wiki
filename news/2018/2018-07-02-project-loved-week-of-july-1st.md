@@ -123,7 +123,7 @@ It has been a while since we saw an over-the-top level map being put in the love
 
 [![](/wiki/shared/news/2018-07-02-project-loved-week-of-july-1st/mania/eviscerate.jpg)](https://osu.ppy.sh/community/forums/topics/768666)
 
-[Rings of Saturn - Eviscerate](https://osu.ppy.sh/beatmapsets/477477) by [Xay](https://osu.ppy.sh/users/961417)  
+[Rings of Saturn - Eviscerate](https://osu.ppy.sh/beatmapsets/477477) by [Xay](https://osu.ppy.sh/users/961417)\
 *written by [TheToaphster](https://osu.ppy.sh/users/7616811)*
 
 Opening up for the mania spotlights is very well-known osu!mania and osu!taiko player and charter Xay with his chart for Eviscerate. Utilizing a combination of single-streaming, extremely dense jumpstream bursts, and everything in between, it makes a good time for any jumpstream enthusiasts, especially those who value the tight-knit structure offered throughout.
@@ -132,7 +132,7 @@ It stands out in the charting circles for its incredible structure and accuracy,
 
 [![](/wiki/shared/news/2018-07-02-project-loved-week-of-july-1st/mania/deka.jpg)](https://osu.ppy.sh/community/forums/topics/768667)
 
-[D\_VOR - dEKA](https://osu.ppy.sh/beatmapsets/108708) by [Tidek](https://osu.ppy.sh/users/743282)  
+[D\_VOR - dEKA](https://osu.ppy.sh/beatmapsets/108708) by [Tidek](https://osu.ppy.sh/users/743282)\
 *written by [\_underjoy](https://osu.ppy.sh/users/2235750)*
 
 D\_VOR - dEKA by Tidek is one of these maps you could call ""evil"". It started as a gimmicky DDR chart, which was then adopted to osu!mania as a qualifier for Polish tournament, MP4K. This map was one of Tidek's first SV works, as well as the one that made him famous in the area. It was recently updated with SitekX's 7K rendition of the chart.
@@ -141,7 +141,7 @@ Seemingly innocent, this map quickly makes the player think twice about what the
 
 [![](/wiki/shared/news/2018-07-02-project-loved-week-of-july-1st/mania/happy-synthesizer.jpg)](https://osu.ppy.sh/community/forums/topics/768668)
 
-[EasyPop - Happy Synthesizer](https://osu.ppy.sh/beatmapsets/74371) by [c36098651](https://osu.ppy.sh/users/2048577)  
+[EasyPop - Happy Synthesizer](https://osu.ppy.sh/beatmapsets/74371) by [c36098651](https://osu.ppy.sh/users/2048577)\
 *written by [\_underjoy](https://osu.ppy.sh/users/2235750)*
 
 Another oldschool osu!mania mapset, EasyPop - Happy Synthesizer by c36098651 is a classic example of a map that hasn't lost any of its charm over the course of time.
@@ -150,7 +150,7 @@ Although the O2Jam-style of 7K difficulties is rather standard, the 4K version i
 
 [![](/wiki/shared/news/2018-07-02-project-loved-week-of-july-1st/mania/et-mania-mix.jpg)](https://osu.ppy.sh/community/forums/topics/768669)
 
-[Jinjin - ET Mania Mix](https://osu.ppy.sh/beatmapsets/506548) by [Jinjin](https://osu.ppy.sh/users/3360737)  
+[Jinjin - ET Mania Mix](https://osu.ppy.sh/beatmapsets/506548) by [Jinjin](https://osu.ppy.sh/users/3360737)\
 *written by [TheToaphster](https://osu.ppy.sh/users/7616811)*
 
 Next up is our ET Jinjin bringing us a medley rather fitting to his title. ET Mania Mix is exactly as the name describes it, being a medley of songs that have become famous (or infamous) for the difficulty of the charts that accompany them, taking inspiration from 4K charts such as AiAe and Blastix Riotz to 7K charts like End Time and Maniera as well as even some lesser-played keymodes like LeaF Style Super Shredder, all of which have been remapped by Jinjin to 4K with the difficulty certainly keeping the pace expected by the songs' ranked counterparts.
@@ -159,7 +159,7 @@ As one would expect from the title of the chart, it proves to be a mark of skill
 
 [![](/wiki/shared/news/2018-07-02-project-loved-week-of-july-1st/mania/ghostly-band-phantom-ensemble.jpg)](https://osu.ppy.sh/community/forums/topics/768670)
 
-[ESTi - Ghostly Band ~ Phantom Ensemble](https://osu.ppy.sh/beatmapsets/291343) by [ArcherLove](https://osu.ppy.sh/users/2468021) et al.  
+[ESTi - Ghostly Band ~ Phantom Ensemble](https://osu.ppy.sh/beatmapsets/291343) by [ArcherLove](https://osu.ppy.sh/users/2468021) et al.\
 *written by [aitor98](https://osu.ppy.sh/users/3154852)*
 
 We have already talked about ArcherLove and his map [xi - over the top](https://osu.ppy.sh/beatmapsets/416575), but this time, we bring him back to the Loved Section, followed by a new set that goes by Ghostly Band ~ Phantom Ensemble by ESTi. This map features a good usage of Long Note patterns, such as irregular Long Note releases, shields, light Long Note chordstreams and more. If we compare this to his previous Loved Map this is fairly easy difficulty-wise, but don't get fooled this easy. Going at 156 BPM, the map itself becomes a true nightmare to get good accuracy on, as well as being able to misread with ease due to the complex patterning and the length of some Long Notes.
@@ -168,7 +168,7 @@ It also has a really good difficulty span going from 1.4 stars up to 5.5 which m
 
 [![](/wiki/shared/news/2018-07-02-project-loved-week-of-july-1st/mania/memoryfactory-lzh.jpg)](https://osu.ppy.sh/community/forums/topics/768671)
 
-[Frums - memoryfactory.lzh](https://osu.ppy.sh/beatmapsets/615959) by [Nivrad00](https://osu.ppy.sh/users/1984634)  
+[Frums - memoryfactory.lzh](https://osu.ppy.sh/beatmapsets/615959) by [Nivrad00](https://osu.ppy.sh/users/1984634)\
 *written by [Kamikaze](https://osu.ppy.sh/users/2124783)*
 
 Have you ever been tired of playing the same ranked maps over and over again? Have you ever been frustrated with lack of progress and wanted to take a break? Have you ever wanted to try something new, while still playing your favourite key-smashing game? Do you like **typing** to the rhythm? Now there's a chart just for you!
@@ -177,7 +177,7 @@ Here's the newfound masterpiece of the amazingly creative Nivrad00's notefactory
 
 [![](/wiki/shared/news/2018-07-02-project-loved-week-of-july-1st/mania/valhalla.jpg)](https://osu.ppy.sh/community/forums/topics/768672)
 
-[xi - Valhalla](https://osu.ppy.sh/beatmapsets/257079) by [Remillion Cross](https://osu.ppy.sh/users/1983784), [ExUsagi](https://osu.ppy.sh/users/3027421) and [LordRaika](https://osu.ppy.sh/users/3265023)  
+[xi - Valhalla](https://osu.ppy.sh/beatmapsets/257079) by [Remillion Cross](https://osu.ppy.sh/users/1983784), [ExUsagi](https://osu.ppy.sh/users/3027421) and [LordRaika](https://osu.ppy.sh/users/3265023)\
 *written by [aitor98](https://osu.ppy.sh/users/3154852)*
 
 And for our last pick, we have a map that should be familiar to the older players, a map which stood out at the time, being qualified at one point but never reaching its desired place: we present to you, xi - Vallhala by Remillion Cross. With two guest difficultes made by LordRaika and Arzenvald, this map features one of the most unconventional pattern styles that you'll see in a while. He was one of the first mappers that introduced the meaning "underrated" in the Ranked section and it was definitely deserved. It has a good mix between Long Notes and bursts, nasty jacks, shields, extremely rough transitions and more.

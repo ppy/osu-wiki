@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Place To Belong Fanart Contest Voting Open"
+title: A Place To Belong Fanart Contest Voting Open
 date: 2022-04-28 11:00:00 +0000
 ---
 
@@ -24,7 +24,7 @@ Get a taste of the choices available with this handy 1-minute clip below, set to
 
 The voting will stay open for only **7 days** from the date of this post, so make sure to get in quick or be left watching from the sidelines as all of this wicked art passes you by.
 
-As always, the Spring 2022 Seasonal backgrounds will be a choice selection of the top voted entries, which will range anywhere from 15 to 20 pieces depending on how the voting goes. 
+As always, the Spring 2022 Seasonal backgrounds will be a choice selection of the top voted entries, which will range anywhere from 15 to 20 pieces depending on how the voting goes.
 
 Their artists will also snag a neat bit of osu!supporter for their efforts, and the top 3 finalists will receive a profile badge forged from their own work to celebrate the victory with.
 

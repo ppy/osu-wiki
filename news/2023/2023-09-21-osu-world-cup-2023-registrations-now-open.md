@@ -8,7 +8,7 @@ The definitive country-based circle clicking competition is back. The osu! World
 
 ![](/wiki/Tournaments/OWC/2023/img/owc2023-banner.jpg)
 
-After smashing keys to the beat, drumming to the beat, catching fruit to the beat, and smashing even more keys, it's time to click the circles to the beat, as the osu! World Cup comes back for its 14th instalment! 
+After smashing keys to the beat, drumming to the beat, catching fruit to the beat, and smashing even more keys, it's time to click the circles to the beat, as the osu! World Cup comes back for its 14th instalment!
 
 For more details, refer to the [osu! World Cup 2023 wiki article](/wiki/Tournaments/OWC/2023). You can discuss this event in the [discussion thread](https://osu.ppy.sh/community/forums/topics/1823846) or at the public [osu! community server](https://discord.gg/0Vxo9AsejDkGlk3H).
 

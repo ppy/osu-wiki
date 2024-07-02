@@ -21,7 +21,8 @@ Il server Discord di osu! presenta diversi canali, molti dei quali sono incentra
 | Canale | Descrizione |
 | :-- | :-- |
 | `#welcome` | Informazioni sul server |
-| `#introduction` | Presentazioni |
+| `#announcements` | Annunci del server |
+| `#introductions` | Presentazioni |
 | `#general` | Discussione generale e risoluzione dei problemi relativi ad osu! |
 
 ### Client / Web

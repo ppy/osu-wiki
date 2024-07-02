@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Roundtable II Qualifier Tournament"
+title: The Roundtable II Qualifier Tournament
 date: 2022-12-31 05:00:00 +0000
 ---
 
@@ -8,11 +8,11 @@ The second iteration of **The Roundtable** is on the horizon. Earn your seat by 
 
 ![](/wiki/shared/news/2022-12-31-the-roundtable-ii-qualifiers/news_banner.png)
 
-Last summer's edition of [**The Roundtable**](/wiki/Tournaments/The_Roundtable) was a gamechanger. 
+Last summer's edition of [**The Roundtable**](/wiki/Tournaments/The_Roundtable) was a gamechanger.
 
 Unprecedented in osu! tournament history, 16 of osu!'s greatest circle clickers flew to Los Angeles, CA, to compete in a 3-day multi-tournament event hosted by [BTMC](https://osu.ppy.sh/users/3171691).
 
-**The Roundtable II** is set for July 2023, so one question is on everyone's minds: 
+**The Roundtable II** is set for July 2023, so one question is on everyone's minds:
 
 *Who is invited?*
 
@@ -24,8 +24,8 @@ If you like what you're hearing, register for this tournament at [**The Roundtab
 
 This tournament will be held online between January 21st and March 5th in 3 stages:
 
-- **Qualifier stage** 
-  - All registered players enter a multiplayer lobby to play every map in the map pool. 
+- **Qualifier stage**
+  - All registered players enter a multiplayer lobby to play every map in the map pool.
   - Top 16 players proceed to the next phase.
 - **Bracket stage**
   - 16 players are seeded into a 1v1 double elimination bracket.

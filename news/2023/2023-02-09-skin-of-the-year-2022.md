@@ -19,7 +19,7 @@ All skins that have been released during 2022 and have been added to [the compen
 The top-voted entry will receive a unique profile badge based on their entry and 3 months of osu!supporter for their victory, while the remaining finalists will receive 1 month of osu!supporter each.
 
 We urge you to check out the sheer amount of creativity that various artists have put into their works throughout the year, with **290** skins that have been submitted to the [skinning forums](https://osu.ppy.sh/community/forums/15) (and **136** of them being added to the compendium) all just waiting to make their home in your client as your new main skin.
-  
+
 [**Click here to get involved and vote for 2022's Skin of the Year!**](https://osu.ppy.sh/community/contests/170)
 
 The voting will remain open for **14 days** after this post goes up, closing officially on the **23rd of February**. Hopefully, that should be enough time to go through the catalogue and pick your favourites.

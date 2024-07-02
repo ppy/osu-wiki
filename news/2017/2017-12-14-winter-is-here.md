@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Winter is Here!"
+title: Winter is Here!
 date: 2017-12-15 07:00:00 +0000
 ---
 
@@ -17,7 +17,7 @@ With that in mind, the original osu!musician, [nekodex](https://osu.ppy.sh/users
 A relaxing walk through a wintry soundscape, "aureole" is an intimate symphony of warm, fireside tunes, elevated into majesty by a beautifully smooth woodwind lead, and finally capped off with glitchy, breakstep-inspired percussion.
 
 This track will be a fixture on the main-menu to accompany the Winter seasonal background until Christmas has come and gone. You can download a 320kbps version for free from [nekodex's SoundCloud](https://soundcloud.com/nekodex/aureole) (or [this link](https://nekodex.net/dl/nekodex_-_aureole_\(osu!_xmas_2017\).zip) if you don't have a SoundCloud account), and if you're after a lossless download, name your price over at [his Bandcamp](https://nekodex.bandcamp.com/track/aureole-osu-xmas-2017).
-    
+
 [Follow him on Twitter too](https://twitter.com/nekodex), because why not?
 
 ---

@@ -36,7 +36,7 @@ Kliknij na obrazek aby zostać zabranym do odpowiedniego odcinka.
 | [![](img/academy-7-3.png)](https://www.youtube.com/watch?v=MhIuPvQjLbU) | W tym odcinku, zajmiemy się siatkami i ich funkcjami |
 | [![](img/academy-8.png)](https://www.youtube.com/watch?v=PFEYlQfiJHQ) | W tym odcinku, weźmiemy pod lupę ważną część mapowania, która może ulepszyć albo zespuć mapę: dźwiękami |
 | [![](img/academy-9.png)](https://www.youtube.com/watch?v=bTGBspoMFVA) | W tym odcinku, powiemy o modowaniu beatmap |
-| [![](img/academy-10.png)](https://www.youtube.com/watch?v=bTGBspoMFVA) | W tym odcinku, będziemy kontynuować dyskusję o modowaniu beatmap |
+| [![](img/academy-10.png)](https://www.youtube.com/watch?v=SFSwmRdNbXM) | W tym odcinku, będziemy kontynuować dyskusję o modowaniu beatmap |
 | [![](img/academy-11.png)](https://www.youtube.com/watch?v=j8fpJKCjTvM) | W tym odcinku, zajmiemy się wskazówkami i sztuczkami osu! |
 | [![](img/academy-12.png)](https://www.youtube.com/watch?v=8reEFNk5kQY) | W tym odcinku, powiemy o tworzeniu map dla trybu gry Taiko |
 | [![](img/academy-13.png)](https://www.youtube.com/watch?v=oUvCBsGyTtw) | W tym odcinku, dowiemy się jak zmienić wygląd osu! poprzez skórki |

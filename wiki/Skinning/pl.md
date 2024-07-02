@@ -19,7 +19,7 @@ Elementy skórek są podzielone na następujące kategorie:
 - [osu!mania](/wiki/Skinning/osu!mania)
 - [Dźwięki](/wiki/Skinning/Sounds)
 
-## Zobacz 
+## Zobacz
 
 - [skin.ini](/wiki/Skinning/skin.ini)
 - [Dawne elementy skórek](/wiki/Skinning/History) - lista starych, nieużywanych elementów skórek

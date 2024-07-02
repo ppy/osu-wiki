@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 3ffaca2ec4ce152fd0ec1f4d7f2dd8fdb99a2d8f
+---
+
 # Score total
 
 *Pour d'autres utilisations, voir [Score (désambiguïsation)](/wiki/Disambiguation/Score).*
@@ -8,7 +13,7 @@ Si un joueur joue une beatmap classée pour la première fois et qu'il obtient 5
 
 ## Niveau
 
-Le niveau d'un joueur est basé uniquement sur le **score total** du joueur. Le score requis pour passer un niveau est donné par la formule suivante : 
+Le niveau d'un joueur est basé uniquement sur le **score total** du joueur. Le score requis pour passer un niveau est donné par la formule suivante :
 
 ```
 score(n) = 5,000 / 3 * (4n^3 - 3n^2 - n) + 1.25 * 1.8^(n - 60) si n <= 100

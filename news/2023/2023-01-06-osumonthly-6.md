@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!monthly, December 2022"
+title: osu!monthly, December 2022
 date: 2023-01-06 17:00:00 +0000
 ---
 

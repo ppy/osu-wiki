@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!taiko Mascot Community Vote Results"
+title: osu!taiko Mascot Community Vote Results
 date: 2016-09-21 12:34:32 +0000
 tumblr_url: http://osunews.tumblr.com/post/150724647363/osutaiko-mascot-community-vote-results
 ---

@@ -1,107 +1,106 @@
 ---
-outdated_since: 07485c571fe235c2b0540c0c723fcac805bb6929
-outdated_translation: true
+no_native_review: true
 ---
 
 # skin.ini
 
-*Voir également : [skin.ini/Modèle](/wiki/Skinning/skin.ini/Blank)*
+*Voir également : [skin.ini/Vierge](/wiki/Skinning/skin.ini/Blank)*
 
 Le `skin.ini` est un fichier d'initialisation qui se trouve dans presque tous les dossiers de skin.
-Ce fichier définit comment osu! affichera certains éléments du skin.
+Ce fichier définit comment osu! va afficher certains éléments du skin.
 
-**Attention :** Les commandes `skin.ini` sont sensibles à la casse, assurez-vous de respecter l'orthographe et d'utiliser la bonne majuscule !
+**Attention :** Les commandes `skin.ini` sont sensibles à la casse, assurez-vous de respecter l'orthographe et d'utiliser les bonnes majuscules !
 
 ## Versions
 
-Vous trouverez ci-dessous le journal des modifications apportées au skin.
-Le numéro de version, vu dans les en-têtes, est celui qui sera utilisé dans la commande `Version` pour le fichier `skin.ini`.
+Ci-dessous se trouve le changelog du skinning.
+Le numéro de version, vu dans les titres, est ce qui sera utilisé dans la commande `Version` pour le fichier `skin.ini`.
 
 ### 1.0
 
-**Skin original 2007 - 2013**
+**Skin originale 2007 - 2013**
 
 Si votre `skin.ini` ne spécifie pas de `Version`, il prendra par défaut cette version.
 
-- Les numéros des hit circle font partie des explosions de hitburst.
-- Grande expansion du hitlighting (`lighting.png`).
+- Les nombres des cercles de frappe font partie des explosions des hitburst.
+- Grande expansion de hitlighting (`lighting.png`).
 - Ancien style de spinner (`spinner-circle.png`, `spinner-background.png`, et `spinner-metre.png`).
-- Construction de l'image du compte à rebours segmenté.
+- Image de compte à rebours segmentée intégré.
 - Images de la barre de sélection plus petites (87px de hauteur maximum).
-- Flèche de jeu non colorée pendant la fin des pauses (warningarrow).
-- Boutons de l'écran de classement exclusifs à la version (`ranking-replay.png` et `ranking-retry.png`).
-- Affichage de sliderpoints exclusifs à une version (`sliderpoint10.png` et `sliderpoint30.png`).
+- Jeu non coloré-rayures à la fin des pauses.
+- Boutons d'écran de classement exclusifs à la version (`ranking-replay.png` et `ranking-retry.png`).
+- Affichage de sliderpoints exclusifs à la version (`sliderpoint10.png` et `sliderpoint30.png`).
 
 ### 2.0
 
 **UI : changements de positionnement / osu! : mise à jour de la visibilité (réduction de l'encombrement).**
 
 - Skins haute définition.
-  - Utilisez le suffixe `@2x.png` dans l'élément skin pour indiquer à osu! que l'élément skin est de meilleure qualité.
-- Nouveau style de spinner (`spinner-middle.png`, `spinner-middle2.png`, `spinner-top.png`, `spinner-bottom.png`, et `spinner-glow.png`).
+  - Utilisez le suffixe `@2x.png` dans l'élément du skin pour indiquer à osu! que l'élément est de meilleure qualité.
+- Nouveaux styles de spinner (`spinner-middle.png`, `spinner-middle2.png`, `spinner-top.png`, `spinner-bottom.png`, et `spinner-glow.png`).
 - Séquence de compte à rebours au lieu d'une image segmentée.
-  - Les comptes à rebours sont maintenant centrés.
-- Les numéros de hit circle ne font plus partie des explosions de hitburst.
-- Flèche d'avertissement de couleur rouge pendant la fin des pauses.
-- Une expansion plus petite de `lighting.png`.
-- Changement d'ancrage des images de la barre de sélection.
-- Changement de positionnement des images de l'écran de classement (généralement, il est décalé vers le bas).
+  - Les comptes à rebours sont désormais centrés.
+- Les numéros de hitcircle ne font plus partie des explosions de hitburst.
+- Flèche d'avertissement de couleur rouge à la fin des pauses.
+- Petite extension de `lighting.png`.
+- Changements d'anchor des images de la barre de sélection.
+- Changements de positionnement des images de l'écran de classement (en général, il est décalé vers le bas).
 
 ### 2.1
 
-**Changements de positionnement d'osu!taiko**
+**osu!taiko changements de positionnement**
 
 - `taiko-bar-right.png` et `taiko-bar-right-glow.png` se trouvent directement sous `taiko-bar-left.png`.
-- Changements de position du tambour Taiko (permet des zones plus larges).
+- Changement de position du tambour Taiko (permet de plus grandes surfaces).
 
 ### 2.2
 
 **Modifications de l'interface/UI**
 
 - Prise en charge des vignettes.
-  - Doit être activé par l'utilisateur dans les [options](/wiki/Client/Options) et être pris en charge par le skin dans le fichier [skin.ini](/wiki/Skinning/skin.ini).
-- Modifie l'affichage du star rating en mettant à l'échelle `star.png` au lieu de `star.png` partiellement élargi.
+  - Doit être activé par l'utilisateur dans les [Options](/wiki/Client/Options) et être supporté par le skin dans le fichier [skin.ini](/wiki/Skinning/skin.ini).
+- Modifie l'affichage des étoiles en remplaçant le fichier `star.png` partiellement élargi par le fichier `star.png` à échelle réduite.
 - Optimisation de l'alignement du texte du panneau.
 
 ### 2.3
 
-**Changements d'osu!catch**
+**osu!catch changements**
 
 - `fruit-ryuuta.png` ne fonctionnera plus à partir de maintenant.
-- Nouveaux états de l'attrapeur (et images).
+- Nouveaux états du catcher (et images).
 - Nouveaux combobursts spécifiques à osu!catch (`comboburst-fruits.png`).
-  - Les combobursts d'osu! ne sera plus utilisé pour osu!catch.
+  - osu! combobursts ne sera plus utilisé pour osu!catch.
 
 ### 2.4
 
-**Ajustement de l'échelle du stage d'osu!mania**
+**osu!mania ajustements de l'échelle des scènes**
 
-- Rétrécit le compteur de combo et les hitbursts.
-- Les lignes de colonne sont dessinées des deux côtés de la colonne lorsque les colonnes sont espacées.
-- Introduction des hold note tails au relâchement (fonctionne pour toutes les versions).
+- Réduit les combo counter et les coups.
+- Les lignes de colonne sont tracées des deux côtés de la colonne lorsque les colonnes sont espacées.
+- Introduction de la hold note tails lors du relâchement (fonctionne pour toutes les versions).
 
 ### 2.5
 
-**Ajustements d'osu!mania concernant la colonne et l'upscroll**
+**osu!mania ajustements de la colonne et du défilement vers le haut**
 
 - Nouvelles commandes :
   - `KeyFlipWhenUpsideDown` et `NoteFlipWhenUpsideDown`
-  - `NoteBodyStyle` (étirement, cascade du haut, cascade du bas)
+  - `NoteBodyStyle` (étirement, cascade de haut en bas, cascade de bas en haut)
   - `LightingNWidth` et `LightingLWidth`
 
 ### 2.6
 
-**Permettre le skinning des flèches par type de flèche**
+**Permet de skinner des flèches par type**
 
 - Ajout de `arrow-generic.png`, `arrow-warning.png` et `arrow-pause.png`.
 - Suppression de `play-warningarrow.png`.
 
 ### 2.7
 
-**Comboburst spécifique à osu!mania**
+**osu!mania combobursts spécifique**
 
 - Ajout de `comboburst-mania.png`.
-  - Affichages sur le côté droit de la scène.
+  - Affichage sur le côté droit de la scène.
 
 ### latest
 
@@ -109,18 +108,14 @@ Si votre `skin.ini` ne spécifie pas de `Version`, il prendra par défaut cette 
 
 Si votre dossier de skin ne contient pas de fichier `skin.ini`, il prendra par défaut cette version.
 
-- **Ne l'utilisez jamais** pour distribuer des skins ! (si une nouvelle version de skin sort, un skin dont la version est réglée sur `latest` pourrait ne pas fonctionner correctement).
-- Utilisera toujours la dernière version prise en charge par le jeu.
+- **Ne jamais** utiliser ceci lors de la distribution de skins! (si une nouvelle version de skin sort, un skin dont la version est réglée sur `latest` pourrait se dérégler).
+- Utilise toujours la dernière version prise en charge par le jeu.
 
 ### Utilisateur
 
-**Pas une version, mais forcera toujours [latest](#latest)**
+Il ne s'agit pas d'une version, mais d'un dossier spécial de skin qui est créé lorsque le skin par défaut est modifié, par exemple en glissant un arrière-plan de menu personnalisé dans la fenêtre de jeu (avec [osu!supporter](/wiki/osu!supporter#éléments-supplémentaires-à-skinner)) ou en essayant de modifier les raccourcis clavier de osu!mania pour le skin par défaut à partir des options.
 
-- **Ne jamais** utiliser cette méthode pour distribuer des skins !
-- Le dossier skin **doit** être nommé `User`.
-- Utilisez cette méthode si vous ne souhaitez modifier que quelques éléments (par exemple, le curseur ou les chiffres, etc.).
-- Ne nécessite pas le fichier `skin.ini`.
-- Ce dossier forcera toujours `Version : latest`.
+Un skin dans un dossier nommé `User` utilisera toujours la dernière version du skin, indépendamment de toute spécification dans `skin.ini` ou autre.
 
 ## Notes
 
@@ -128,9 +123,9 @@ Avant de consulter les commandes `skin.ini` ci-dessous, voici quelques remarques
 
 ### 1 et 0
 
-*en bref : `0 = no` et `1 = yes`*
+*Pour info : `0 = non` et `1 = oui`*
 
-Certaines commandes n'acceptent qu'une valeur booléenne (une valeur `true` ou `false`). Lors du skinning, osu! est configuré pour ne reconnaître qu'un `1` (un) comme `vrai` et un `0` (zéro) comme `faux`.
+Certaines commandes n'acceptent qu'une valeur booléenne (une valeur `vrai` ou `faux`). Lors du skinning, osu! est configuré pour ne reconnaître qu'un `1` (un) comme `vrai` et un `0` (zéro) comme `faux`.
 
 Voici un exemple classique :
 
@@ -138,31 +133,31 @@ Voici un exemple classique :
 | :-: | :-: |
 | ![](img/Sliderball_flip-0.gif) | ![](img/Sliderball_flip-1.gif) |
 
-Notez que Reisen, la sliderball, ne se retourne pas lorsque `0` est utilisé. Cependant, Reisen se retourne quand un `1` est utilisé. En fonction du sprite utilisé, vous obtiendrez soit une sliderball qui fait du moonwalk, soit une sliderball qui se retourne.
+Notez que Reisen, la sliderball, ne se retourne **pas** lorsque `0` est utilisé. Cependant, Reisen se retourne lorsqu'un `1` est utilisé. Selon le sprite utilisé, vous obtiendrez soit une sliderball qui fait un moonwalk, soit une sliderball qui se retourne.
 
 ### Nombres et entiers
 
-Les tableaux ci-dessous peuvent énumérer soit un *nombre*, un *entier* ou un *entier positif*.
+Les tableaux ci-dessous peuvent contenir un *nombre*, un *entier* ou un *entier positif*.
 
-Concernant ces tableaux :
+Lors de la consultation de ces tableaux :
 
 - *nombre* signifie un nombre **entier** ou **décimal** (par exemple `1.5`, `4.295`, `2`, `3.0`).
-- *entier* signifie **uniquement** des nombres entiers (par exemple : `-13`, `-632`, `135` , `9`).
+- *entier* signifie **nombre entier** uniquement (par exemple `-13`, `-632`, `135` , `9`).
   - *entier positif* signifie **nombre entier positif** uniquement (par exemple `376`, `22`, ou `5`).
-- *liste séparée par des virgules avec des entiers positifs* est littéralement une liste d'entiers positifs séparés par des virgules (par exemple `1, 2, 3, 55`).
+- *liste de nombres entiers positifs séparés par des virgules* est littéralement une liste de nombres entiers positifs séparés par des virgules (par exemple `1, 2, 3, 55`).
 
 ### RGB et RGB(a)
 
-Quelques commandes peuvent demander une couleur au format *RGB* ou *RGB(a)*.
+Certaines commandes peuvent demander une couleur au format *RGB* ou *RGB(a)*.
 
-- Pour RGB, le format ressemble à ceci : `R, G, B` où `R` est le rouge, `G` est le vert et `B` est le bleu.
+- Pour RVB, le format est le suivant : `R, G, B` où `R` est le rouge, `G` est le vert et `B` est le bleu.
   - La plupart des commandes n'acceptent que *RGB*, sans l'alpha. Si vous spécifiez une valeur alpha ici, osu! l'ignorera.
-- Pour RGB(a), le format ressemble à ceci `R, G, B, a`, en plus de ce qui précède, `a` signifie alpha (opacité).
-  - Quelques commandes acceptent *RGB(a)*, avec l'alpha. Si vous ne spécifiez pas de valeur alpha, 255 (opaque/non transparent) sera utilisé.
+- Pour RVB(a), le format est le suivant : `R, G, B, a`, en plus de ce qui précède, `a` signifie alpha (opacité).
+  - Quelques commandes acceptent *RGB(a)*, avec la valeur alpha. Si vous ne spécifiez pas de valeur alpha, 255 (opaque/non transparent) sera utilisé.
 
 ### Sections
 
-osu! organise les commandes avec une commande d'en-tête. Qui peut ressembler à ceci : `[General]`. osu! utilise seulement cinq sections dans le fichier skin.ini, qui sont indiquées par les en-têtes de section ci-dessous.
+os ! organise les commandes avec une commande d'en-tête. Ce qui peut ressembler à `[General]`. osu! n'utilise que cinq sections dans le fichier skin.ini, qui sont indiquées par les en-têtes de section ci-dessous.
 
 ## \[General\]
 
@@ -172,34 +167,34 @@ osu! organise les commandes avec une commande d'en-tête. Qui peut ressembler à
   - Par défaut : *(vide)*
   - Notes :
     - Pour l'instant, cette commande n'est pas utilisée.
-    - Le client d'osu! fera référence au nom du dossier lors de l'énumération.
+    - Le client osu! fera référence au nom du dossier lors de l'énumération.
 - `Author:`
   - Question : Qui est l'auteur de ce skin ?
   - Valeur : texte *(créateur du skin)*
   - Par défaut : *(vide)*
   - Notes :
     - Pour l'instant, cette commande n'est pas utilisée.
-    - Utilisez votre nom d'utilisateur.
+    - Utilise votre nom d'utilisateur.
       - Il est préférable d'utiliser votre nom d'utilisateur sur le forum.
 - `Version:`
-  - Question : Comment le skin doit-il se comporter ?
-  - Valeur : Un [numéro de version](#versions) ou `latest`.
+  - Question : Comment le skin doit-elle se comporter ?
+  - Valeur : Un [numéro de version](/wiki/Skinning/skin.ini#versions) ou `latest`.
   - Notes :
     - Si le fichier `skin.ini` n'est pas présent, `latest` sera utilisé.
     - Si le fichier `skin.ini` est présent, mais n'utilise pas la commande `Version`, `1.0` sera utilisé (support hérité).
 - `AnimationFramerate:`
-  - Question : Combien de frames doivent être affichées par les animations qui dépendent de cette valeur en une seconde ?
-  - Valeur : *nombre entier positif* ou `-1` pour que osu! joue toutes les frames de l'animation en une seconde.
+  - Question : Combien d'images doivent être affichées par les animations qui dépendent de cette valeur en une seconde ?
+  - Valeur : *entier positif* ou `-1` pour que osu! joue toutes les images de l'animation en une seconde
   - Par défaut : `-1`
   - Notes :
     - Cela permet de définir le taux de rafraîchissement de la plupart des animations.
-    - Exceptions : circleoverlays, sliderball, pippidon, notes et éclairage osu!mania
+    - Exceptions : circleoverlays, sliderball, pippidon, notes osu!mania et lighting
 - `AllowSliderBallTint:`
-  - Question : La couleur du slider combo doit-elle teinter la slider ball ?
+  - Question : La couleur du combo du slider doit-elle teinter la sliderball ?
   - Valeurs : `0` ou `1`
   - Par défaut : `0`
   - Notes :
-    - Le sliderball par défaut sera toujours teintée, si elle est activée dans les [options](/wiki/Client/Options).
+    - Le sliderball par défaut sera toujours teinté, s'il est activé dans [options](/wiki/Client/Options).
 - `ComboBurstRandom`
   - Question : Les combobursts doivent-ils être affichés dans un ordre aléatoire ?
   - Valeurs : `0` ou `1`
@@ -214,7 +209,7 @@ osu! organise les commandes avec une commande d'en-tête. Qui peut ressembler à
     - `0` = coin supérieur gauche
     - `1` = centré
 - `CursorExpand:`
-  - Question : Le curseur doit-il s'étendre lorsqu'on clique dessus ?
+  - Question : Le curseur doit-il s'agrandir lorsqu'on clique dessus ?
   - Valeurs : `0` ou `1`
   - Par défaut : `1`
 - `CursorRotate:`
@@ -222,25 +217,25 @@ osu! organise les commandes avec une commande d'en-tête. Qui peut ressembler à
   - Valeurs : `0` ou `1`
   - Par défaut : `1`
 - `CursorTrailRotate:`
-  - Question : Le sprite trail du curseur doit-il tourner constamment ?
+  - Question : Le sprite du cursor trail doit-il tourner en permanence ?
   - Valeurs : `0` ou `1`
   - Par défaut : `1`
 - `CustomComboBurstSounds:`
   - Question : Sur quels comptes de combo les sons de comboburst doivent-ils être joués ?
-  - Valeur : *liste séparée par des virgules avec des entiers positifs*
+  - Valeur : *liste séparée par des virgules avec des nombres entiers positifs*
   - Par défaut : *(vide)*
   - Notes :
     - Ce n'est pas pour [osu!taiko](/wiki/Game_mode/osu!taiko).
-    - Cela n'affecte que les sons des combo burst, pas les milestones.
+    - Cela n'affecte que les sons des combo burst , pas les milestones.
 - `HitCircleOverlayAboveNumber:`
-  - Question : Le hitcircleoverlay doit-il être dessiné au-dessus des chiffres ?
+  - Question : Le thitcircleoverlay doit-il être dessiné au-dessus des numéros ?
   - Valeurs : `0` ou `1`
   - Par défaut : `1`
   - Notes :
-    - Ceci est pour [osu!](/wiki/Game_mode/osu!) uniquement.
-    - Ancienne commande : `HitCircleOverlayAboveNumer` (avec une faute de frappe) fonctionne toujours pour les anciennes versions.
+    - Cela est réservé à [osu!](/wiki/Game_mode/osu!).
+    - Ancienne commande : `HitCircleOverlayAboveNumer` (avec une faute de frappe) fonctionne toujours pour l'assistance technique.
 - `LayeredHitSounds:`
-  - Question : Faut-il toujours jouer les sons de hitnormal ?
+  - Question : Les sons hitnormal doivent-ils toujours être joués ?
   - Valeurs : `0` ou `1`
   - Par défaut : `1`
   - Notes :
@@ -250,13 +245,13 @@ osu! organise les commandes avec une commande d'en-tête. Qui peut ressembler à
   - Valeurs : `0` ou `1`
   - Par défaut : `1`
   - Notes :
-    - Ceci est pour [osu!](/wiki/Game_mode/osu!) uniquement.
+    - Cela est réservé à [osu!](/wiki/Game_mode/osu!).
 - `SpinnerFadePlayfield:`
-  - Question : Le spinner doit-il ajouter des barres noires pendant les tours ?
+  - Question : Le spinner doit-il ajouter des barres noires pendant les spins ?
   - Valeurs : `0` ou `1`
   - Par défaut : `0`
 - `SpinnerFrequencyModulate:`
-  - Question : Le son du spinnerspin doit-il s'accentuer au fur et à mesure que le spinner avance ?
+  - Question : Le son du spinner doit-il s'intensifier au fur et à mesure que le spinner avance ?
   - Valeurs : `0` ou `1`
   - Par défaut : `1`
 - `SpinnerNoBlink:`
@@ -266,103 +261,103 @@ osu! organise les commandes avec une commande d'en-tête. Qui peut ressembler à
 
 ## \[Colours\]
 
-*Remarque : cet en-tête **doit** être orthographié comme **`[Colours]`**, et non `[Colors]` !*
+*Note : cet en-tête **doit** être orthographié **`[Colours]`**, et non `[Colors]`!*
 
 - `Combo1:`
-  - Question : Quelle couleur est utilisée pour le dernier combo ?
+  - Question : Quelle est la couleur utilisée pour le dernier combo ?
   - Valeur : *RGB*
   - Par défaut : 255,192,0
   - Notes :
-    - Cette option est utilisée si le skin de la beatmap est désactivé ou utilise les couleurs par défaut.
-    - Ceci apparaît en dernier.
+    - Elle est utilisée si le skin de beatmap est désactivé ou utilise les couleurs par défaut.
+    - Il apparaît en dernier.
 - `Combo2:`
-  - Question : Quelle couleur est utilisée pour le premier combo ?
+  - Question : Quelle est la couleur utilisée pour le premier combo ?
   - Valeur : *RGB*
   - Par défaut : 0,202,0
   - Notes :
-    - Cette option est utilisée si le skin de la beatmap est désactivé ou utilise les couleurs par défaut.
-    - Ceci apparaît en premier.
+    - Elle est utilisée si le skin de beatmap est désactivé ou utilise les couleurs par défaut.
+    - Il apparaît en premier.
 - `Combo3:`
   - Question : Quelle est la couleur utilisée pour le deuxième combo ?
   - Valeur : *RGB*
   - Par défaut : 18,124,255
   - Notes :
-    - Cette option est utilisée si le skin de la beatmap est désactivé ou utilise les couleurs par défaut.
-    - Elle apparaît en seconde, si elle est définie.
+    - Elle est utilisée si le skin de beatmap est désactivé ou utilise les couleurs par défaut.
+    - Il apparaît en deuxième position, s'il est défini.
 - `Combo4:`
-  - Question : Quelle couleur est utilisée pour le troisième combo ?
+  - Question : Quelle est la couleur utilisée pour le troisième combo ?
   - Valeur : *RGB*
   - Par défaut : 242,24,57
   - Notes :
-    - Cette option est utilisée si le skin de la beatmap est désactivé ou utilise les couleurs par défaut.
-    - Elle apparaît en troisième, si elle est définie.
+    - Elle est utilisée si le skin de beatmap est désactivé ou utilise les couleurs par défaut.
+    - Il apparaît en troisième position, s'il est défini.
 - `Combo5:`
-  - Question : Quelle couleur est utilisée pour le quatrième combo ?
+  - Question : Quelle est la couleur utilisée pour le quatrième combo ?
   - Valeur : *RGB*
   - Par défaut : *(vide)*
   - Notes :
-    - Cette option est utilisée si le skin de la beatmap est désactivé ou utilise les couleurs par défaut.
-    - Elle apparaît en quatrième, si elle est définie.
+    - Elle est utilisée si le skin de beatmap est désactivé ou utilise les couleurs par défaut.
+    - Il apparaît en quatrième position, s'il est défini.
 - `Combo6:`
-  - Question : Quelle couleur est utilisée pour le cinquième combo ?
+  - Question : Quelle est la couleur utilisée pour le cinquième combo ?
   - Valeur : *RGB*
   - Par défaut : *(vide)*
   - Notes :
-    - Cette option est utilisée si le skin de la beatmap est désactivé ou utilise les couleurs par défaut.
-    - Elle apparaît en cinquième, si elle est définie.
+    - Elle est utilisée si le skin de beatmap est désactivé ou utilise les couleurs par défaut.
+    - Il apparaît en cinquième position, s'il est défini.
 - `Combo7:`
-  - Question : Quelle couleur est utilisée pour le sixième combo ?
+  - Question : Quelle est la couleur utilisée pour le sixième combo ?
   - Valeur : *RGB*
   - Par défaut : *(vide)*
   - Notes :
-    - Cette option est utilisée si le skin de la beatmap est désactivé ou utilise les couleurs par défaut.
-    - Ce dernier apparaît en sixième, s'il est défini.
+    - Elle est utilisée si le skin de beatmap est désactivé ou utilise les couleurs par défaut.
+    - Il apparaît en sixième position, s'il est défini.
 - `Combo8:`
-  - Question : Quelle couleur est utilisée pour le septième combo ?
+  - Question : Quelle est la couleur utilisée pour le septième combo ?
   - Valeur : *RGB*
   - Par défaut : *(vide)*
   - Notes :
-    - Cette option est utilisée si le skin de la beatmap est désactivé ou utilise les couleurs par défaut.
-    - Cela apparaît en septième, si elle est définie.
+    - Elle est utilisée si le skin de beatmap est désactivé ou utilise les couleurs par défaut.
+    - Elle apparaît en septième position, si elle est définie.
 - `InputOverlayText:`
-  - Question : De quelle couleur doivent être teintés les chiffres des touches de saisie ?
+  - Question : De quelle couleur les chiffres des touches de saisie doivent-ils être teintés ?
   - Valeur : *RGB*
   - Par défaut : `0,0,0`
   - Notes :
-    - Ceci est uniquement pour [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/Game_mode/osu!catch).
-    - Cela teinte les chiffres affichés sur la superposition d'entrée.
+    - Ceci concerne uniquement [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/Game_mode/osu!catch).
+    - Les chiffres affichés dans la fenêtre d'entrée sont teintés.
 - `MenuGlow:`
-  - Question : De quelle couleur doivent être les barres de spectre dans le menu principal ?
+  - Question : Quelle doit être la couleur des barres de spectre dans le menu principal ?
   - Valeur : *RGB*
   - Par défaut : `0,78,155`
   - Notes :
     - Tag [osu!supporter](/wiki/osu!supporter) requis
 - `SliderBall:`
-  - Question : Quelle doit être la couleur du sliderball par défaut ?
+  - Question : Quelle doit être la couleur de la sliderball par défaut ?
   - Valeur : *RGB*
   - Par défaut : `2,170,255`
   - Notes :
     - Ceci est pour [osu!](/wiki/Game_mode/osu!).
-    - Couleur par défaut du sliderball si la teinte est désactivée dans les [options](/wiki/Client/Options).
+    - Couleur par défaut de la sliderball si la teinte est désactivée dans les [options](/wiki/Client/Options).
 - `SliderBorder:`
-  - Question : Quelle couleur doit-on utiliser pour les bordures des sliders ?
+  - Question : Quelle couleur doit être utilisée pour les bordures de la barre de défilement ?
   - Valeur : *RGB*
   - Par défaut : `255,255,255`
   - Notes :
-    - Ceci est pour [osu!](/wiki/Game_mode/osu!) uniquement.
+    - Cela est réservé à [osu!](/wiki/Game_mode/osu!).
 - `SliderTrackOverride:`
-  - Question : De quelle couleur doivent être colorés tous les corps des sliders ?
+  - Question : De quelle couleur devraient être les sliderbodies ?
   - Valeur : *RGB*
-  - Par défaut : *utiliser la couleur combinée actuelle*
+  - Par défaut : *utilise la couleur combo actuelle*
   - Notes :
-    - Ceci est pour [osu!](/wiki/Game_mode/osu!) uniquement.
-    - En utilisant cette option, toutes les couleurs des chemins des sliders seront identiques.
+    - Cela est réservé à [osu!](/wiki/Game_mode/osu!).
+    - L'utilisation de cette option rendra toutes les couleurs des slider track identiques.
 - `SongSelectActiveText:`
-  - Question : De quelle couleur doit être teinté le texte du panneau actif ?
+  - Question : De quelle couleur le texte du panneau actif doit-il être teinté ?
   - Valeur : *RGB*
   - Par défaut : `0,0,0`
 - `SongSelectInactiveText:`
-  - Question : De quelle couleur doit être teinté le texte des panneaux inactifs ?
+  - Question : De quelle couleur le texte des panneaux inactifs doit-il être teinté ?
   - Valeur : *RGB*
   - Par défaut : `255,255,255`
 - `SpinnerBackground:`
@@ -370,7 +365,7 @@ osu! organise les commandes avec une commande d'en-tête. Qui peut ressembler à
   - Valeur : *RGB*
   - Par défaut : `100,100,100`
 - `StarBreakAdditive:`
-  - Question : Quelle couleur faut-il ajouter à star2 pendant les pauses ?
+  - Question : Quelle couleur devrait être ajoutée à star2 pendant les pauses ?
   - Valeur : *RGB*
   - Par défaut : `255,182,193`
   - Notes :
@@ -379,72 +374,72 @@ osu! organise les commandes avec une commande d'en-tête. Qui peut ressembler à
 ## \[Fonts\]
 
 - `HitCirclePrefix:`
-  - Question : Quel est le préfixe utilisé pour les numéros des hit circles ?
-  - Valeur : texte *(préfixe du chemin/du nom de fichier)*
+  - Question : Quel est le préfixe utilisé pour les numéros des cercles ?
+  - Valeur : texte *(Préfixe du chemin/nom de fichier)*
   - Par défaut : `default`
   - Notes :
     - Vous pouvez utiliser un chemin personnalisé
 - `HitCircleOverlap:`
-  - Question : De combien de pixels les numéros d'hit circle doivent-ils se chevaucher ?
+  - Question : De combien de pixels les numéros des cercles doivent-ils se chevaucher ?
   - Valeur : *entier*
   - Par défaut : `-2`
   - Notes :
-    - Les nombres entiers négatifs ajouteront un écart.
+    - Les nombres entiers négatifs ajouteront un espace.
 - `ScorePrefix:`
-  - Question : Quel préfixe est utilisé pour les numéros de score ?
-  - Valeur : texte *(préfixe du chemin/du nom de fichier)*
+  - Question : Quel est le préfixe utilisé pour les numéros de score ?
+  - Valeur : texte *(Préfixe du chemin/nom de fichier)*
   - Par défaut : `score`
 - `ScoreOverlap:`
   - Question : De combien de pixels les numéros de score doivent-ils se chevaucher ?
   - Valeur : *entier*
   - Par défaut : `0`
   - Notes :
-    - Les nombres entiers négatifs ajouteront un écart.
+    - Les nombres entiers négatifs ajouteront un espace.
 - `ComboPrefix:`
-  - Question : Quel préfixe est utilisé pour les numéros de combo ?
-  - Valeur : texte *(préfixe du chemin/du nom de fichier)*
+  - Question : Quel est le préfixe utilisé pour les numéros des combos ?
+  - Valeur : texte *(Préfixe du chemin/nom de fichier)*
   - Par défaut : `score`
 - `ComboOverlap:`
-  - Question : De combien de pixels les numéros des combos doivent-ils se chevaucher ?
+  - Question : De combien de pixels les numéros de combo doivent-ils se chevaucher ?
   - Valeur : *entier*
   - Par défaut : `0`
   - Notes :
-    - Les nombres entiers négatifs ajouteront un écart.
+    - Les nombres entiers négatifs ajouteront un espace.
 
 ## \[CatchTheBeat\]
 
 - `HyperDash:`
-  - Question : Quelle couleur faut-il utiliser pour le dash ?
+  - Question : Quelle est la couleur à utiliser pour le tableau de bord ?
   - Valeurs : *RGB*
   - Par défaut : `255,0,0`
   - Notes :
     - osu! utilisera une valeur alpha par défaut.
-    - C'est la couleur du catcher lui-même.
+    - Il s'agit de la couleur du catcher lui-même.
 - `HyperDashFruit:`
   - Question : Quelle couleur doit-on utiliser pour les fruits ?
   - Valeurs : *RGB*
-  - Par défaut : *utilise `HyperDash`*
+  - Par défaut : *use `HyperDash`*
   - Notes :
     - osu! utilisera une valeur alpha par défaut.
-    - C'est la couleur qui délimite le fruit.
+    - Il s'agit de la couleur du contour du fruit.
 - `HyperDashAfterImage:`
-  - Question : Quelle couleur doit-on utiliser après les images ?
+  - Question : Quelle est la couleur à utiliser pour les images secondaires ?
   - Valeurs : *RGB*
-  - Par défaut : *utilise `HyperDash`*
+  - Par défaut : *use `HyperDash`*
   - Notes :
     - osu! utilisera une valeur alpha par défaut.
-    - Il s'agit de la couleur des images qui suivent l'attrapeur après avoir obtenu le fruit de l'hyperdash.
+    - Il s'agit de la couleur des images qui suivent le catcher après avoir obtenu le fruit hyperdash.
 
 ## \[Mania\]
 
 **Notes :**
 
-- Si vous voulez personnaliser entièrement la scène osu!mania, utilisez le skin version `2.5` ou supérieure.
+- Si vous souhaitez personnaliser entièrement la scène osu!mania, utilisez la version `2.5` du skin ou une version plus récente.
 - Les commandes qui demandent où positionner quelque chose horizontalement sont basées sur une hauteur de 480 pixels.
-- Lorsqu'une commande est dépendante du nombre total de touches :
-  - les touches en trop et les extras sont ignorés.
-  - ne pas utiliser assez de touches et les valeurs manquantes utiliseront des valeurs par défaut.
-- **Chaque keycount *doit* commencer une nouvelle section**, cela devrait ressembler à ceci (mais avec des commandes réelles) :
+- Lorsqu'une commande dépend du nombre total de touches :
+  - en utiliser trop et les extras sont ignorés.
+  - n'en utilise pas assez et les valeurs manquantes utiliseront des valeurs par défaut.
+- **Chaque nombre de touches *doit* commencer une nouvelle section**, elle devrait ressembler à ceci (mais avec des commandes réelles) :
 
 ```
 ...
@@ -463,7 +458,7 @@ Keys: 5
 ---
 
 - `Keys:`
-  - Question : Quel est le nombre de touches pour lequel ces paramètres sont définis ?
+  - Question : Pour quel nombre de touches ces paramètres ont-ils été définis ?
   - Valeurs :
     - `1`
     - `2`
@@ -480,324 +475,323 @@ Keys: 5
     - `16`
     - `18`
   - Notes :
-    - Ceci est **nécessaire** par key set.
+    - C'est **nécessaire** par key set
 - `ColumnStart:`
   - Question : Où commence la colonne de gauche ?
   - Valeur : *nombres*
   - Par défaut : `136`
 - `ColumnRight:`
-  - Question : Jusqu'à quel point les colonnes peuvent-elles être dessinées ?
+  - Question : Jusqu'à quel point les colonnes peuvent-elles être tracées ?
   - Valeur : *nombres*
   - Par défaut : `19`
 - `ColumnSpacing:`
-  - Question : Quelle est la distance entre toutes les colonnes individuellement ?
-  - Valeur : *Liste séparée par des virgules et des chiffres*
+  - Question : Quelle est la distance entre toutes les colonnes prises individuellement ?
+  - Valeur : liste séparée par des virgules avec des chiffres
   - Par défaut : `0`
   - Notes :
-    - C'est l'espacement **entre** les colonnes.
+    - Il s'agit de l'espacement **entre** les colonnes
     - L'écart sera transparent.
 - `ColumnWidth:`
-  - Question : Quelle est la largeur de chaque colonne individuellement ?
-  - Valeur : *Liste séparée par des virgules et des chiffres*
+  - Question : Quelle est la largeur de chaque colonne ?
+  - Valeur : liste séparée par des virgules avec des chiffres
   - Par défaut : `30`
   - Notes :
-    - Il est suggéré de la maintenir mince si des nombres de touches élevés ou des touches larges sont utilisés.
+    - Il est conseillé de conserver cette épaisseur si l'on utilise des nombres élevés de touches ou des touches larges.
 - `ColumnLineWidth:`
   - Question : Quelle est l'épaisseur individuelle des séparateurs de colonnes ?
-  - Valeur : *Liste séparée par des virgules et des chiffres*
+  - Valeur : liste séparée par des virgules avec des chiffres
   - Par défaut : `2`
 - `BarlineHeight:`
-  - Question : Quelle est l'épaisseur de la ligne de démarcation ?
+  - Question : Quelle est l'épaisseur de la barline ?
   - Valeur : *nombres*
   - Par défaut : `1.2`
 - `LightingNWidth:`
-  - Question : Quelle largeur doit utiliser `LightingN` pour toutes les colonnes individuellement ?
-  - Valeur : *Liste séparée par des virgules et des chiffres*
+  - Question : Quelles sont les largeurs que `LightingN` doit utiliser pour toutes les colonnes individuellement ?
+  - Valeur : *liste séparée par des virgules avec des chiffres*
   - Par défaut : *(vide)*
 - `LightingLWidth:`
-  - Question : Quelle largeur doit utiliser `LightingL` pour toutes les colonnes individuellement ?
-  - Valeur : *Liste séparée par des virgules et des chiffres*
+  - Question : Quelles largeurs doit utiliser `LightingL` pour toutes les colonnes individuellement ?
+  - Valeur : *liste séparée par des virgules avec des chiffres*
   - Par défaut : *(vide)*
 - `WidthForNoteHeightScale:`
-  - Question : Quelle hauteur doivent avoir toutes les notes si les colonnes ont des largeurs individuelles ?
+  - Question : Quelle doit être la hauteur de toutes les notes si les colonnes ont des largeurs individuelles ?
   - Valeur : *nombres*
   - Notes :
     - Si elle n'est pas définie, l'échelle de hauteur de la plus petite largeur de colonne est utilisée.
 - `HitPosition:`
-  - Question : A quelle hauteur doit être tracée la [judgment](/wiki/Gameplay/Judgement) line ?
-  - Valeur : *entier*
+  - Question : À quelle hauteur la ligne de [jugement](/wiki/Gameplay/Judgement) doit-elle être tracée ?
+  - Valeur : entier
   - Par défaut : `402`
   - Notes :
-    - `StageHint`, `LightingN`, et `LightingL` sont dessinés à cette position.
+    - `StageHint`, `LightingN`, et `LightingL` sont dessinés à cette position
 - `LightPosition:`
-  - Question : A quelle hauteur doivent être tirées les lumières de la scène ?
+  - Question : À quelle hauteur les lumières de la scène doivent-elles être tirées ?
   - Valeur : *entier*
   - Par défaut : `413`
   - Notes :
-    - Ceci est seulement pour `StageLight`.
+    - Ceci n'est valable que pour `StageLight`.
 - `ScorePosition:`
-  - Question : A quelle hauteur les hitbursts doivent-ils apparaître ?
+  - Question : À quelle hauteur les éclats doivent-ils apparaître ?
   - Valeur : *entier*
   - Notes :
     - Les éclats seront centrés verticalement sur la scène.
 - `ComboPosition:`
-  - Question : A quelle hauteur doit apparaître le compteur de combo ?
+  - Question : À quelle hauteur le combo counter doit-il apparaître ?
   - Valeur : *entier*
   - Notes :
-    - Le compteur de combo sera centré verticalement sur la scène.
+    - Le combo counter sera centré verticalement sur la scène.
 - `JudgementLine:`
-  - Question : Une ligne supplémentaire doit-elle être tracée au-dessus du StageHint ?
+  - Question : Faut-il tracer une ligne supplémentaire au-dessus du StageHint ?
   - Valeur : `0` ou `1`
   - Notes :
     - Il s'agit de l'indication du moment où les touches doivent être enfoncées.
 - `LightFramePerSecond:`
-  - Question : *Inconnu*
-  - Valeur : *Inconnu*
-  - Notes :
-    - Peut être obsolète.
+  - Question : Combien d'images doivent être affichées par l'animation `StageLight` en une seconde ?
+  - Valeur : *entier*
+  - Par défaut : *inconnu*
 - `SpecialStyle:`
-  - Question : Quel SpecialStyle est utilisé pour ce keycount, si disponible ?
+  - Question : Quel est le SpecialStyle utilisé pour ce keycount s'il est disponible ?
   - Valeur : `0`, `1`, ou `2`
   - Par défaut : `0`
   - Notes :
     - `0` = aucun
-    - `1` = (voie de gauche (SP) ou extérieure (DP))
-    - `2` = (voie de droite (SP) ou intérieure (DP))
-    - Pour un nombre pair de touches, plus de 4.
-    - Pour DP, le centre entre les étages est utilisé pour déterminer les positions.
+    - `1` = (voie arrière (SP) ou extérieure (DP))
+    - `2` = (voie de droite (SP) ou voie intérieure (DP))
+    - Pour les nombres pairs de touches, plus de 4.
+    - Pour le DP, le centre entre les étages est utilisé pour déterminer les positions.
 - `ComboBurstStyle:`
-  - Question : De quel côté doit apparaître le comboburst ?
+  - Question : De quel côté le comboburst doit-il apparaître ?
   - Valeur : `0`, `1`, ou `2`
   - Par défaut : `1`
   - Notes :
     - `0` = `Left`
     - `1` = `Right`
-    - `2` = `Both` (aléatoire)
+    - `2` = `Both` (random)
     - Vous pouvez utiliser les mots ou les valeurs, les deux sont acceptés.
     - Les combobursts seront retournés sur la moitié droite de la scène.
 - `SplitStages:`
-  - Question : La scène doit-elle être divisée en deux ?
+  - Question : Faut-il scinder la scène en deux ?
   - Valeur : `0` ou `1`
   - Notes :
     - Cette valeur est forcée, si elle est définie.
-    - `0` = pas de fractionnement / SP forcé
+    - `0` = pas de fractionnement / SP forcée
     - Chaque keycount supérieur à 1 peut être divisé (ou fusionné, si le nombre est supérieur à 9).
 - `StageSeparation:`
-  - Question : Quelle devrait être la distance entre les deux étapes lorsqu'elles sont séparées ?
+  - Question : Quelle doit être la distance entre les deux étapes lorsqu'elles sont séparées ?
   - Valeur : *nombres*
   - Par défaut : `40`
-  - Notes : La distance des deux étapes, si elle est fractionnée.
+  - Notes : La distance entre les deux étapes, si elles sont séparées.
 - `SeparateScore:`
-  - Question : Le hitburst doit-il être affiché uniquement sur la scène où il a été marqué ?
+  - Question : Le hitburst ne devrait-il être affiché que sur la scène où il a été marqué ?
   - Valeur : `0` ou `1`
   - Par défaut : `1`
   - Notes :
-    - `0` = s'affiche sur les deux scènes en même temps
-    - `1` = s'affiche lorsqu'il est touché sur une scène spécifique
-    - Pour DP, chaque étape est affichée avec son propre jugement ou avec les deux étapes.
+    - `0` = spectacles sur les deux scènes en même temps
+    - `1` = se manifeste lorsqu'il est frappé sur une scène spécifique
+    - Pour le DP, chaque étape reçoit son propre jugement ou les deux étapes.
 - `KeysUnderNotes:`
-  - Question : Les keys doivent-elles être couvertes par les notes lorsqu'on les passe ?
+  - Question : Les clés doivent-elles être recouvertes par les notes lorsqu'elles sont passées ?
   - Valeur : `0` ou `1`
   - Par défaut : `0`
   - Notes :
-    - doit être utilisé en fonction de la conception des notes et des keys.
+    - doit être utilisé en fonction de la conception des notes et des touches.
 - `UpsideDown:`
   - Question : La scène doit-elle toujours être à l'envers ?
   - Valeur : `0` ou `1`
   - Par défaut : `0`
   - Notes :
-    - Agit comme DDR/StepMania ?
+    - Agir comme DDR/StepMania ?
 - `KeyFlipWhenUpsideDown:`
   - Question : Est-ce que **toutes** les touches doivent être retournées lorsque la scène est retournée ?
   - Valeur : `0` ou `1`
   - Par défaut : `1`
   - Notes :
-    - Nécessite la version `2.5` ou supérieure du skin.
+    - Requiert la version `2.5` ou plus.
     - Ceci s'applique à toutes les colonnes.
 - `KeyFlipWhenUpsideDown#:`
-  - Question : La key de la colonne **spécifiée** doit-elle être inversée lorsque la scène est inversée ?
+  - Question : La touche de la colonne **spécifiée** doit-elle être inversée lorsque la scène est inversée ?
   - Valeur : `0` ou `1`
   - Notes :
-    - Nécessite la version `2.5` ou supérieure du skin.
+    - Requiert la version `2.5` ou plus.
     - Ceci s'applique à la colonne spécifiée.
-    - Remplacez `#` par un indice de colonne valide (de 0 à 17).
+    - Remplacez `#` par un index de colonne valide (de 0 à 17).
 - `NoteFlipWhenUpsideDown:`
   - Question : Toutes les notes doivent-elles être retournées lorsque la scène est retournée ?
   - Valeur : `0` ou `1`
   - Par défaut : `1`
   - Notes :
-    - Nécessite la version `2.5` ou supérieure du skin.
+    - Requiert la version `2.5` ou plus.
     - Ceci s'applique à toutes les colonnes.
 - `KeyFlipWhenUpsideDown#D:`
-  - Question : La touche pressée de la colonne doit-elle être inversée lorsque la scène est inversée ?
+  - Question : La touche pressée de la colonne doit-elle être inversée lorsque la scène est retournée ?
   - Valeur : `0` ou `1`
   - Notes :
-    - Nécessite la version `2.5` ou supérieure du skin.
-    - Cela s'applique à l'état de la touche enfoncée de la colonne spécifiée.
+    - Requiert la version `2.5` ou plus.
+    - Ceci s'applique à l'état de la touche enfoncée de la colonne spécifiée.
 - `NoteFlipWhenUpsideDown#:`
   - Question : La note de la colonne doit-elle être inversée lorsque la scène est inversée ?
   - Valeur : `0` ou `1`
   - Notes :
-    - Nécessite la version `2.5` ou supérieure du skin.
+    - Requiert la version `2.5` ou plus.
     - Colonne spécifique (pour les notes)
 - `NoteFlipWhenUpsideDown#H:`
-  - Question : La hold note head de la colonne doit-elle être retournée lorsque la scène est retournée ?
+  - Question : La hold note head de la colonne doit-elle être inversée lorsque la scène est inversée ?
   - Valeur : `0` ou `1`
   - Notes :
-    - Nécessite la version `2.5` ou supérieure du skin.
-    - Spécifique à la colonne (pour les head parts)
+    - Requiert la version `2.5` ou plus.
+    - Spécifique à la colonne (pour les parties de la tête)
 - `NoteFlipWhenUpsideDown#L:`
-  - Question : Le hold note body de la colonne doit-il être retourné lorsque la scène est retournée ?
+  - Question : Le hold note body de la colonne doit-il être inversé lorsque la scène est inversée ?
   - Valeur : `0` ou `1`
   - Notes :
-    - Nécessite la version `2.5` ou supérieure du skin.
-    - Spécifique à la colonne (pour les length parts)
+    - Requiert la version `2.5` ou plus.
+    - Spécifique à la colonne (pour les pièces de longueur)
 - `NoteFlipWhenUpsideDown#T:`
   - Question : La hold note tail de la colonne doit-elle être inversée lorsque la scène est inversée ?
   - Valeur : `0` ou `1`
   - Notes :
-    - Nécessite la version `2.5` ou supérieure du skin.
-    - Spécifique à la colonne (pour les tail parts)
+    - Requiert la version `2.5` ou plus.
+    - Spécifique à une colonne (pour les parties de la queue)
 - `NoteBodyStyle:`
   - Question : Quel style doit être utilisé pour tous les hold note bodies ?
-  - Valeur : `0`, `1`, ou `2`
+  - Valeur : `0`, `1`, or `2`
   - Par défaut : `1`
   - Notes :
-    - Nécessite la version `2.5` ou supérieure du skin.
+    - Requiert la version `2.5` ou plus.
     - Toutes les colonnes.
 - `NoteBodyStyle#:`
   - Question : Quel style doit être utilisé pour tous les hold note bodies ?
-  - Valeur : `0`, `1`, ou `2`
+  - Valeur : `0`, `1`, or `2`
   - Notes :
-    - Nécessite la version `2.5` ou supérieure du skin.
+    - Requiert la version `2.5` ou plus.
     - Colonne spécifique (pour les notes)
 - `Colour#:`
-  - Question : Quelle couleur doit-on utiliser pour l'allée de la colonne ?
+  - Question : Quelle couleur doit être utilisée pour le couloir de la colonne ?
   - Valeur : *RGB(a)*
   - Par défaut : `0,0,0,255`
   - Notes :
-    - Pour le fond de la colonne spécifique.
+    - Pour l'arrière-plan de la colonne spécifique.
     - `#` commence à `1`
 - `ColourLight#:`
-  - Question : Quelle couleur doit-on utiliser pour l'éclairage de la colonne ?
+  - Question : Quelle couleur doit être utilisée pour l'éclairage de la colonne ?
   - Valeur : *RGB*
   - Par défaut : `55,255,255`
   - Notes :
     - Colonne spécifique (StageLight).
     - `#` commence à `1`
 - `ColourColumnLine:`
-  - Question : Quelle couleur faut-il utiliser pour les lignes de la colonne ?
+  - Question : Quelle est la couleur à utiliser pour les lignes de la colonne ?
   - Valeur : *RGB(a)*
   - Par défaut : `255,255,255,255`
   - Notes :
     - Ce sont les lignes qui séparent les colonnes.
 - `ColourBarline:`
-  - Question : Quelle couleur doit-on utiliser pour le séparateur de barres ?
+  - Question : Quelle couleur doit être utilisée pour le séparateur de barres ?
   - Valeur : *RGB(a)*
   - Par défaut : `255,255,255,255`
   - Notes :
     - Une mesure est une mesure complète.
 - `ColourJudgementLine:`
-  - Question : Quelle couleur doit-on utiliser pour la ligne de temps ?
+  - Question : Quelle couleur doit être utilisée pour la ligne de timing ?
   - Valeur : *RGB*
   - Par défaut : `255,255,255`
 - `ColourKeyWarning:`
-  - Question : Quelle couleur doit-on utiliser pour les rappels de fixation des touches ?
+  - Question : Quelle couleur doit être utilisée pour les rappels d'activation des touches ?
   - Valeur : *RGB*
   - Par défaut : `0,0,0`
   - Notes :
     - C'est la couleur de la vérification des raccourcis clavier avant le début du jeu.
 - `ColourHold:`
-  - Question : Quelle couleur doit-on utiliser pour le compteur de combo pendant les prises ?
+  - Question : Quelle couleur doit être utilisée pour le compteur de combo lors des holds ?
   - Valeur : *RGB(a)*
   - Par défaut : `255,191,51,255`
 - `ColourBreak:`
-  - Question : Quelle couleur doit être utilisée pour le compteur de combo lorsqu'il se casse ?
+  - Question : Quelle couleur doit être utilisée pour le compteur de combo lorsqu'il est cassé ?
   - Valeur : *RGB*
   - Par défaut : `255,0,0`
   - Notes :
-    - C'est la couleur du compteur de combo pendant un combobreak.
+    - C'est la couleur du compteur de combo pendant une rupture de combo.
 - `KeyImage#:`
-  - Question : Quel est le nom de la key image non pressée de la colonne ?
-  - Valeur : texte *(chemin vers l'image)*
+  - Question : Quel est le nom de l'image clé non comprimée de la colonne ?
+  - Valeur : texte *(chemin d'accès à l'image)*
   - Notes :
-    - Il s'agit de la key image inactif de la colonne spécifique.
+    - Il s'agit de l'image clé inactive de la colonne spécifique.
 - `KeyImage#D:`
-  - Question : Quel est le nom de l'image de la touche enfoncée de la colonne ?
-  - Valeur : texte *(chemin vers l'image)*
+  - Question : Quel est le nom de l'image de la touche pressée de la colonne ?
+  - Valeur : texte *(chemin d'accès à l'image)*
   - Notes :
     - Il s'agit de l'image de la touche pressée de la colonne spécifique.
 - `NoteImage#:`
   - Question : Quel est le nom de l'image de la note de la colonne ?
-  - Valeur : texte *(chemin vers l'image)*
+  - Valeur : texte *(chemin d'accès à l'image)*
   - Notes :
     - Il s'agit de l'image de la note de la colonne spécifique.
 - `NoteImage#H:`
-  - Question : Quel est le nom de la hold note head image de la colonne ?
-  - Valeur : texte *(chemin vers l'image)*
+  - Question : Quel est le nom de l'image de l'en-tête de la colonne ?
+  - Valeur : texte *(chemin d'accès à l'image)*
   - Notes :
-    - Ceci est pour la hold note head image de la colonne spécifique.
+    - Il s'agit de l'image de la hold note head de la colonne spécifique.
 - `NoteImage#L:`
-  - Question : Quel est le nom de la hold note body image de la colonne ?
-  - Valeur : texte *(chemin vers l'image)*
+  - Question : Quel est le nom de la rubrique "image du corps" de la colonne ?
+  - Valeur : texte *(chemin d'accès à l'image)*
   - Notes :
-    - Il s'agit de la hold note body image de la colonne spécifique.
+    - Il s'agit d'une note de la colonne spécifique sur l'image de la hold note body.
 - `NoteImage#T:`
-  - Question : Quel est le nom de l'image de la queue de la hold note tail de la colonne ?
-  - Valeur : texte *(chemin vers l'image)*
+  - Question : Quel est le nom de l'image de la hold note tail de la colonne ?
+  - Valeur : texte *(chemin d'accès à l'image)*
   - Notes :
-    - Ceci est pour l'image de la hold note tail de la colonne spécifique.
+    - Il s'agit de l'image de la hold note tail de la colonne spécifique.
 - `StageLeft:`
-  - Question : Quel est le nom de l'image de la scène de gauche ?
-  - Valeur : texte *(chemin vers l'image)*
+  - Question : Quel est le nom de l'image de la scène gauche ?
+  - Valeur : texte *(chemin d'accès à l'image)*
   - Notes :
-    - Il s'agit de la bordure gauche.
+    - Il s'agit du bord gauche.
 - `StageRight:`
   - Question : Quel est le nom de l'image de la scène de droite ?
-  - Valeur : texte *(chemin vers l'image)*
+  - Valeur : texte *(chemin d'accès à l'image)*
   - Notes :
-    - C'est le bord droit.
+    - Il s'agit de la bordure droite.
 - `StageBottom:`
-  - Question : Quel est le nom de l'image de la scène du bas ?
-  - Valeur : texte *(chemin vers l'image)*
+  - Question : Quel est le nom de l'image du bas de la scène ?
+  - Valeur : texte *(chemin d'accès à l'image)*
   - Notes :
-    - Cela **ne sera pas** étiré pour s'adapter.
+    - Il ne sera **pas** étiré pour s'adapter
 - `StageHint:`
-  - Question : Quel est le nom de l'image de l'indice de la scène ?
-  - Valeur : texte *(chemin vers l'image)*
+  - Question : Quel est le nom de l'image de l'indice de scène ?
+  - Valeur : texte *(chemin d'accès à l'image)*
   - Notes :
-    - C'est la judgement line graphique.
+    - Il s'agit de la ligne de jugement graphique.
 - `StageLight:`
   - Question : Quel est le nom de l'image de la lumière de scène ?
-  - Valeur : texte *(chemin vers l'image)*
+  - Valeur : texte *(chemin d'accès à l'image)*
   - Notes :
-    - C'est l'éclairage de la colonne.
+    - Il s'agit de l'éclairage de la colonne.
 - `LightingN:`
-  - Question : Quel est le nom de l'image d'éclairage de la note ?
-  - Valeur : texte *(chemin vers l'image)*
+  - Question : Quel est le nom de l'image de l'éclairage de la note ?
+  - Valeur : texte *(chemin d'accès à l'image)*
 - `LightingL:`
-  - Question : Quel est le nom de l'image d'éclairage de la hold note ?
-  - Valeur : texte *(chemin vers l'image)*
+  - Question : Quel est le nom de l'image de l'éclairage de la note d'attente ?
+  - Valeur : texte *(chemin d'accès à l'image)*
 - `WarningArrow:`
   - Question : Quel est le nom de l'image de la flèche d'avertissement ?
-  - Valeur : texte *(chemin vers l'image)*
+  - Valeur : texte *(chemin d'accès à l'image)*
   - Notes :
-    - Elle apparaît trois lignes de barre avant le début de la beatmap, si le temps est suffisant.
+    - Celle-ci apparaît trois lignes de mesure avant le début du mapping, s'il y a suffisamment de temps.
 - `Hit0:`
   - Question : Quel est le nom de l'image hit0 ?
-  - Valeur : texte *(chemin vers l'image)*
+  - Valeur : texte *(chemin d'accès à l'image)*
 - `Hit50:`
   - Question : Quel est le nom de l'image hit50 ?
-  - Valeur : texte *(chemin vers l'image)*
+  - Valeur : texte *(chemin d'accès à l'image)*
 - `Hit100:`
   - Question : Quel est le nom de l'image hit100 ?
-  - Valeur : texte *(chemin vers l'image)*
+  - Valeur : texte *(chemin d'accès à l'image)*
 - `Hit200:`
   - Question : Quel est le nom de l'image hit200 ?
-  - Valeur : texte *(chemin vers l'image)*
+  - Valeur : texte *(chemin d'accès à l'image)*
 - `Hit300:`
   - Question : Quel est le nom de l'image hit300 ?
-  - Valeur : texte *(chemin vers l'image)*
+  - Valeur : texte *(chemin d'accès à l'image)*
 - `Hit300g:`
   - Question : Quel est le nom de l'image hit300g ?
-  - Valeur : texte *(chemin vers l'image)*
+  - Valeur : texte *(chemin d'accès à l'image)*

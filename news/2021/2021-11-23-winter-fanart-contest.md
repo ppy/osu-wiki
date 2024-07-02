@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Winter 2021 Fanart Contest"
+title: Winter 2021 Fanart Contest
 date: 2021-11-23 21:00:00 +0000
 ---
 
@@ -38,7 +38,7 @@ Before you go racing on to submit your entry, make sure you read the rules below
 - **ARTIST ATTRIBUTION (names, social media handles, etc) MUST BE LIMITED TO NO MORE THAN THREE LINES TOTAL AND CONFINED TO EITHER THE BOTTOM LEFT OR BOTTOM RIGHT CORNERS OF YOUR ENTRY.** Being proud of your work is good, just do it in a reasonably small spot of your work. Please understand that we're not very fond of anything ad-related in osu!, and attribution that is blaring enough can be considered as one.
 - **Entries MUST meet the resolution requirements for a main-menu piece — namely 2732x1536. THIS IS CHECKED BY A SCRIPT AND ENTRIES THAT DO NOT MATCH THIS REQUIREMENT WILL BE DISCARDED AUTOMATICALLY.** This is the #1 reason for entries not making it to voting phase. MAKE SURE YOUR ENTRY MEETS THE EXACT RESOLUTION REQUIREMENTS ABOVE. Check your work after you've exported it and BEFORE you submit it. The osu! winter elves are actually osu!taiko players in training and only know how to hit two buttons: OK and NOT okay. 2732x1536 is okay. Anything else is NOT. The elves are just doing their job.
 - **Artists should use the custom templates provided ([PSD template](https://assets.ppy.sh/events/fanart/templates/osu%21%20main%20menu%202732x1536.psd?2017) / [PNG template](https://assets.ppy.sh/events/fanart/templates/osu%21%20main%20menu%202732x1536.png?2017)) when composing their piece as a guideline to understand where the osu! cookie will be placed on the main menu and during the voting process.** Anything you draw that is inside the dotted circle won't be seen during the voting phase, because we super-impose an osu! cookie over all entries during the voting phase to simulate what they're going to look like on the main menu. Please accommodate for this in your drawing!
-- **DO NOT LEAVE THE DOTTED osu! COOKIE TEMPLATE VISIBLE IN YOUR SUBMISSION!** 
+- **DO NOT LEAVE THE DOTTED osu! COOKIE TEMPLATE VISIBLE IN YOUR SUBMISSION!**
 - **DO NOT LEAVE THE DOTTED osu! COOKIE TEMPLATE VISIBLE IN YOUR SUBMISSION!**
 - **DO NOT LEAVE THE DOTTED osu! COOKIE TEMPLATE VISIBLE IN YOUR SUBMISSION!** The shame returned last contest, so we're back to yelling it at you three times again.
 - **Don't use copyrighted characters from other intellectual properties.** All the official osu! mascots and the community mascots are fair game, but please avoid using representations of characters from other worlds or franchises in your work. Remember also that every community mascot is someone else's treasured creation, so please treat them with the same respect that you'd treat your own OCs and work.

@@ -88,8 +88,8 @@ Listed below are players who qualified into the Group stage (along with their re
   2. [LeaF - Ka (Kukkai) \[ERROR\]](https://osu.ppy.sh/beatmapsets/1429702#fruits/2943178)
   3. [Aura Kasih - Mari Bercinta (Madoka Ayukawa) \[Dansa\]](https://osu.ppy.sh/beatmapsets/1729731#fruits/3535054)
   4. [SIDxRAM - RAMSING (Ksardas) \[0PPINOSU'S ANOTHER\]](https://osu.ppy.sh/beatmapsets/1137778#fruits/2529041)
-  5. [Nekomata Master - Despair of Elferia (-Tochi) \[ANIMUM DESPONDEO\]](https://osu.ppy.sh/beatmapsets/1069504#fruits/2238810) 
-  6. [Camellia - PSYCHO+HEROES (lcfc) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1404742#fruits/2897138) 
+  5. [Nekomata Master - Despair of Elferia (-Tochi) \[ANIMUM DESPONDEO\]](https://osu.ppy.sh/beatmapsets/1069504#fruits/2238810)
+  6. [Camellia - PSYCHO+HEROES (lcfc) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1404742#fruits/2897138)
 - Hidden
   1. [Tedjimo yomigY - Edelweiss (Secre) \[Purity\]](https://osu.ppy.sh/beatmapsets/1667554#fruits/3404936)
   2. [II-L - SPUTNIK-6 (Sololiquy) \[X-6\]](https://osu.ppy.sh/beatmapsets/1729744#fruits/3535090)
@@ -117,8 +117,8 @@ Listed below are players who qualified into the Group stage (along with their re
   2. [Nekomata Master+ - Rengoku no Elferia (Yoshi_green) \[Despair\]](https://osu.ppy.sh/beatmapsets/1716591#fruits/3507903)
   3. [Tohma - Azalea no Bourei (Kowaii_ne) \[Mahou Shoujo Koufukuron\]](https://osu.ppy.sh/beatmapsets/168437#fruits/542789)
   4. [Kurosawa Daisuke x Masahiro "Godspeed" Aoki - Dairokutenmaou (pw384) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1120841#fruits/2371971)
-  5. [lapix - Labyrinth (Akali) \[Who's the fucking gangster?\]](https://osu.ppy.sh/beatmapsets/615878#fruits/1299008) 
-  6. [Dance Gavin Dance - Frozen One (Zaiten) \[Misspent Youth\]](https://osu.ppy.sh/beatmapsets/635549#osu/1348658) 
+  5. [lapix - Labyrinth (Akali) \[Who's the fucking gangster?\]](https://osu.ppy.sh/beatmapsets/615878#fruits/1299008)
+  6. [Dance Gavin Dance - Frozen One (Zaiten) \[Misspent Youth\]](https://osu.ppy.sh/beatmapsets/635549#osu/1348658)
 - Hidden
   1. [bill wurtz - La de da de da de da de day oh (Deif) \[overdose\]](https://osu.ppy.sh/beatmapsets/1724484#fruits/3524385)
   2. [ITZY - Mafia In the morning (Xetopia) \[Special\]](https://osu.ppy.sh/beatmapsets/1619154#fruits/3305905)
@@ -146,7 +146,7 @@ Listed below are players who qualified into the Group stage (along with their re
   2. [EmoCosine - Cutter (Madoka Ayukawa) \[Ayukawa & Sololiquy's Self Healing\]](https://osu.ppy.sh/beatmapsets/1719525#fruits/3514051)
   3. [3way Asiska - A Whole New World (Dapuluous) \[Ngawur\]](https://osu.ppy.sh/beatmapsets/1719565#fruits/3514140)
   4. [Bentham - TONIGHT (dsco) \[Joel\]](https://osu.ppy.sh/beatmapsets/587221#fruits/1243461)
-  5. [Kali Uchis - telepatia (-Magic-) \[Amor Candente\]](https://osu.ppy.sh/beatmapsets/1552269#fruits/3171835) 
+  5. [Kali Uchis - telepatia (-Magic-) \[Amor Candente\]](https://osu.ppy.sh/beatmapsets/1552269#fruits/3171835)
 - Hidden
   1. [Aine - Phantago (Dapuluous) \[Dapu & Rustyy's Dungeon\]](https://osu.ppy.sh/beatmapsets/1719569#fruits/3514150)
   2. [Eve - As You Like It (GIGACHAD) \[Crowley's Overdose\]](https://osu.ppy.sh/beatmapsets/1442026#fruits/3244772)
@@ -171,7 +171,7 @@ Listed below are players who qualified into the Group stage (along with their re
   2. [HyuN feat. YURI - Disorder (Verti) \[Abyss\]](https://osu.ppy.sh/beatmapsets/1636276#fruits/3339482)
   3. [Thank You Scientist - Wrinkle (Yumeno Himiko) \[Team Various Countries 2's Overdose\]](https://osu.ppy.sh/beatmapsets/1239562#fruits/2577179)
   4. [DaymanOurSavior - Snow halation but shawty's like a melody in my head (Demonical) \[Replay\]](https://osu.ppy.sh/beatmapsets/1243995#fruits/2586018)
-  5. [Zekk - MEJIRUSHI (Nao Tomori) \[Expert\]](https://osu.ppy.sh/beatmapsets/1116742#fruits/2332941) 
+  5. [Zekk - MEJIRUSHI (Nao Tomori) \[Expert\]](https://osu.ppy.sh/beatmapsets/1116742#fruits/2332941)
 - Hidden
   1. [Shinra-Bansho - Corpse Dance (Madoka Ayukawa) \[In Our Collab Zone\]](https://osu.ppy.sh/beatmapsets/1714445#fruits/3503095)
   2. [PSYQUI - Hysteric Night Girl -Awakening- (feat. Such) (Kukkai) \[aaaaaaaaaa\]](https://osu.ppy.sh/beatmapsets/1714452#fruits/3503115)
@@ -401,7 +401,7 @@ Monday, 7 March 2022:
    - Whether there are players who are disqualified from the tournament.
 7. Two players who placed on top of their respective groups' rankings based on the criteria listed above will advance to the Knock-out stage.
 
-### Knock-out stage rules 
+### Knock-out stage rules
 
 1. The eight Group stage winners will be matched against the eight Group stage runners-ups using a predetermined match-up format (A1 vs H2, B1 vs G2, and so on).
 2. Players will compete against each other using the Double Elimination system.

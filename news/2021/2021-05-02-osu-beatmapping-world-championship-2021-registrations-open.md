@@ -10,7 +10,7 @@ Attention to all mappers! osu! Beatmapping World Championship 2021 is on the hor
 
 People say the third time is the charm, and here we are announcing the third iteration of osu! Beatmapping World Championship. We've got to make this one count, everyone!
 
-Having all the judges, participants and guests enjoy the spirit of the contest is the primary goal we've set to achieve. Therefore, we have taken your feedback to heart and applied certain changes to get us closer to this very objective. 
+Having all the judges, participants and guests enjoy the spirit of the contest is the primary goal we've set to achieve. Therefore, we have taken your feedback to heart and applied certain changes to get us closer to this very objective.
 
 Without further ado, let's have a look at what has changed!
 

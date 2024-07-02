@@ -48,15 +48,15 @@ To sum it up, **Lasse** has done a *lot*. He stands as a shining example of the 
 
 [![](/wiki/shared/news/2021-03-19-community-contributors-2020/spaceman_atlas.jpg)](https://osu.ppy.sh/users/3035836)
 
-Known as [bdach](https://github.com/bdach) on GitHub, **spaceman_atlas** has quickly risen to the fore as one of the most active contributors to osu!lazer’s ongoing development in a large variety of domains. 
+Known as [bdach](https://github.com/bdach) on GitHub, **spaceman_atlas** has quickly risen to the fore as one of the most active contributors to osu!lazer’s ongoing development in a large variety of domains.
 
-Since he began in early 2019, he has authored over 763 individual contributions to the project across countless pull requests and issues, rapidly rising to become second among all public osu! contributors across the entire history of the project in barely the space of a year. 
+Since he began in early 2019, he has authored over 763 individual contributions to the project across countless pull requests and issues, rapidly rising to become second among all public osu! contributors across the entire history of the project in barely the space of a year.
 
 His dedication to the very future of the game has proven instrumental in accelerating the pace of osu!lazer’s development significantly, and the handful of wikifriends and lazer contributors among us all know that if there is a question to be answered or data to be crunched, **spaceman_atlas** is never far away.
 
 [![](/wiki/shared/news/2021-03-19-community-contributors-2020/rockroller.jpg)](https://osu.ppy.sh/users/8388854)
 
-Heading efforts to help guide the skinning community on osu! for many years, **RockRoller** is a seasoned veteran when it comes to all things involving anime girls and fancy shapes inside your osu! client. 
+Heading efforts to help guide the skinning community on osu! for many years, **RockRoller** is a seasoned veteran when it comes to all things involving anime girls and fancy shapes inside your osu! client.
 
 A relatively recent addition to the Global Moderation Team, **RockRoller** almost immediately distinguished himself by wading knee deep into not only several internal efforts to bring our moderation documentation up to date, but also in the development and design of several features that ultimately saved hundreds of manhours across the entire moderation team.
 
@@ -72,7 +72,7 @@ Though **Xexxar** has decided to withdraw from the osu! community for the meanti
 
 [![](/wiki/shared/news/2021-03-19-community-contributors-2020/this1neguy.jpg)](https://osu.ppy.sh/users/1797189)
 
-**this1neguy** (affectionately known as t1g) has made a name for himself as a dedicated referee and assistant for over 70 tournaments across osu!, including several World Cup events. 
+**this1neguy** (affectionately known as t1g) has made a name for himself as a dedicated referee and assistant for over 70 tournaments across osu!, including several World Cup events.
 
 He has moonlighted as a commentator in nearly a dozen events, and continues to demonstrate an exemplary dedication towards osu!’s tournament scene in all of its forms.
 
@@ -88,7 +88,7 @@ Now, we welcome the two new osu! Paragons:
 
 [![](/wiki/shared/news/2021-03-19-community-contributors-2020/pishifat.jpg)](https://osu.ppy.sh/users/3178418)
 
-Perhaps the first person to ever appear twice in the Community Contributor series, **pishifat**'s contributions towards osu! are so widespread and numerous at this point that they are almost difficult to count. 
+Perhaps the first person to ever appear twice in the Community Contributor series, **pishifat**'s contributions towards osu! are so widespread and numerous at this point that they are almost difficult to count.
 
 From his hundreds of videos discussing modding and mapping topics in a form that undoubtedly introduced thousands (or even tens of thousands) to the craft, to his efforts in developing, maintaining and running the Mappers’ Guild, his continued presence maintaining vital tools and platforms for Beatmap Nominators that enable them to work efficiently and now with his absolutely absurd drive to outreach to as many prospective Featured Artists as humanly possible, it is safe to say without a doubt that **pishifat** has been absolutely integral to the success of osu! in its more recent years as a foundation for some of the most important and active portions and projects of the community.
 
@@ -100,7 +100,7 @@ We all knew anyway, though.
 
 Though he may now be retired and roaming the interwebs elsewhere (some of you who play RLCraft may be surprised to see who’s on the contributor list), during an earlier time of osu!, **Charles445** was an era-defining modder and mapper with a unique penchant for discussing and dissecting the minute details of what makes beatmaps truly tick. His tenure in the now-defunct Beatmap Approval Team (a precursor to the modern Nomination Assessment Team) and position as the North American member of the BAT management wing led to a proliferation of his ethics, ideas and concepts into what is now known as the modern age of osu!.
 
-When not tackling the particulars of beatmapping theory, **Charles445** was a world-class mapper, remaining to this date one of very few people to receive an Elite Mapper title twice via individual mapping contest wins. His stunning performance in the first Aspire beatmapping contest catapulted the concept into the public eye, staying true to his legacy of continually testing and reassessing the fabric of what makes beatmaps fun and engaging to play. 
+When not tackling the particulars of beatmapping theory, **Charles445** was a world-class mapper, remaining to this date one of very few people to receive an Elite Mapper title twice via individual mapping contest wins. His stunning performance in the first Aspire beatmapping contest catapulted the concept into the public eye, staying true to his legacy of continually testing and reassessing the fabric of what makes beatmaps fun and engaging to play.
 
 At the very heights of his achievements, he never once stopped tackling the same questions and concepts that made him a household name among the modding and mapping scene, and even during retirement he still continues to provide an occasional centering voice on matters of beatmap design.
 
@@ -126,7 +126,7 @@ His unrelenting drive to push full length beatmaps has never faltered, and he re
 
 [![](/wiki/shared/news/2021-03-19-community-contributors-2020/lasse.jpg)](https://osu.ppy.sh/users/896613)
 
-If being mentioned in a Community Contributor article twice is not prize enough, **Lasse**'s outstanding performance as a Beatmap Nominator (while also being a member of the NAT) should truly emphasise just how incredible his work ethic is. 
+If being mentioned in a Community Contributor article twice is not prize enough, **Lasse**'s outstanding performance as a Beatmap Nominator (while also being a member of the NAT) should truly emphasise just how incredible his work ethic is.
 
 His presence in the modding scene is difficult to ignore as he consistently checks and pushes beatmaps with superb accuracy and speed, tending to over 100 unique mappers in a single year.
 
@@ -150,7 +150,7 @@ While perhaps not the most active name on the list so far, **Milan-** is certain
 
 [![](/wiki/shared/news/2021-03-19-community-contributors-2020/eiri.jpg)](https://osu.ppy.sh/users/3388410)
 
-Living in two worlds, **eiri-** is perhaps one of the most interconnected hybrid beatmap nominators there has ever been. Proficient in not one but *two* game modes, **eiri-** has pulling twice their weight in almost flawlessly pushing over 100 osu!taiko beatmaps in 2020 alone plus nearly another 70 in osu! beatmaps, not to mention the fact that they were an Elite Nominator recipient last year as well... for osu!. 
+Living in two worlds, **eiri-** is perhaps one of the most interconnected hybrid beatmap nominators there has ever been. Proficient in not one but *two* game modes, **eiri-** has pulling twice their weight in almost flawlessly pushing over 100 osu!taiko beatmaps in 2020 alone plus nearly another 70 in osu! beatmaps, not to mention the fact that they were an Elite Nominator recipient last year as well... for osu!.
 
 This year, they join the ranks in not one, but *two* modes (osu! and osu!taiko), technically making them the first triple recipient of the title.
 

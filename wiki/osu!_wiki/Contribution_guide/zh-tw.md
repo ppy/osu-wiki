@@ -38,13 +38,13 @@ outdated_since: 1c921bb312848bb2dce76217542281d0db5a6825
 
 2. 在檔案列表上方有一行文字告訴你你的分支是落後、超前、或相等於 `ppy:master`。如果顯示你的分支已經 "落後" (`This branch is X commits behind ppy:master.`) 或 "落後且超前" (`This branch is X commits ahead, X commits behind ppy:master.`) 任意數量的 commits，表示你的分支已過時。
 
-   ![](img/fork-even.jpg "OK \(無 commit 也未過時\)")
+   ![](img/fork-even.jpg "OK (無 commit 也未過時)")
 
-   ![](img/fork-ahead.jpg "OK \(這些是你的 commit\)")
+   ![](img/fork-ahead.jpg "OK (這些是你的 commit)")
 
-   ![](img/fork-behind.jpg "有點問題 \(你的分支過時了\)")
+   ![](img/fork-behind.jpg "有點問題 (你的分支過時了)")
 
-   ![](img/fork-ahead-behind.jpg "有點問題 \(你的 commits 及分支都過時了\)")
+   ![](img/fork-ahead-behind.jpg "有點問題 (你的 commits 及分支都過時了)")
 
 3. 這不算什麼大問題，只要你不要編輯到已經修改的檔案，但你落後的 commits 越多，情況就越不可能發生。
 

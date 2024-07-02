@@ -3,7 +3,7 @@ tags:
   - history
   - leaderboard
   - rank 1
-  - rank #1
+  - "rank #1"
   - rankings
   - top player
 ---
@@ -22,19 +22,13 @@ Al 19 luglio 2021, nella [classifica delle performance di osu!](https://osu.ppy.
 
 ## ![][osu!taiko] osu!taiko
 
-*Pagina principale: [osu!taiko](osu!taiko)*
-
-Al 4 ottobre 2022, nella [classifica delle performance di osu!taiko](https://osu.ppy.sh/rankings/taiko/performance) il giocatore numero uno è ::{ flag=JP }:: [shinchikuhome](https://osu.ppy.sh/users/3174184/taiko).
+Al 9 ottobre 2023, nella [classifica delle performance di osu!taiko](https://osu.ppy.sh/rankings/taiko/performance) il giocatore numero uno è ::{ flag=JP }:: [Majimanjiwwwww](https://osu.ppy.sh/users/12337864/taiko).
 
 ## ![][osu!catch] osu!catch
-
-*Pagina principale: [osu!catch](osu!catch)*
 
 Al 7 giugno 2021, nella [classifica delle performance di osu!catch](https://osu.ppy.sh/rankings/fruits/performance) il giocatore numero 1 è ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549/fruits).
 
 ## ![][osu!mania] osu!mania
-
-*Main page: [osu!mania](osu!mania)*
 
 Al 13 aprile 2023, nella [classifica delle performance di osu!mania](https://osu.ppy.sh/rankings/mania/performance) il giocatore numero 1 è ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406/mania).
 

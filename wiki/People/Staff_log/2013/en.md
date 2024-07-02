@@ -165,7 +165,7 @@
 
 ## September
 
-- Readded [Gabe](https://osu.ppy.sh/users/654108) to Beatmap Appreciation Team (2019-09-02) <!-- https://osu.ppy.sh/community/forums/posts/2563693 -->
+- Readded [Gabe](https://osu.ppy.sh/users/654108) to Beatmap Appreciation Team (2013-09-02) <!-- https://osu.ppy.sh/community/forums/posts/2563693 -->
 - Added [YGOkid8](https://osu.ppy.sh/users/69114) to osu! Alumni (2013-09-05) <!-- https://osu.ppy.sh/community/forums/posts/2555361 -->
 - Moved [Andrea](https://osu.ppy.sh/users/33599) from osu! Alumni to Beatmap Appreciation Team (2013-09-08) <!-- https://osu.ppy.sh/community/forums/topics/83704 -->
 - Added [Lissette](https://osu.ppy.sh/users/19835) to osu! Alumni <!-- https://osu.ppy.sh/community/forums/posts/2563693 -->

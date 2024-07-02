@@ -1,3 +1,5 @@
+<!-- lint disable wiki-links -->
+
 Thanks for taking the time to make the osu! wiki better!
 
 Anyone is allowed (and encouraged!) to contribute to the osu! wiki.

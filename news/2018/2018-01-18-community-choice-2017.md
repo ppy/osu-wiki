@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Community Choice 2017"
+title: Community Choice 2017
 date: 2018-01-19 01:00:00 +0000
 ---
 

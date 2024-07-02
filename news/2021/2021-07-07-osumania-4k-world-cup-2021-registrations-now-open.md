@@ -44,9 +44,9 @@ If your registration passes our internal checks, you will be placed on the candi
 
 ## New leadership
 
-Each World Cup comes with new and exciting things, and this time around will be no exception. With our previous organisers [juankristal](https://osu.ppy.sh/users/443656) and [WalterToro](https://osu.ppy.sh/users/5281416) stepping down, their large shoes are to be filled. 
+Each World Cup comes with new and exciting things, and this time around will be no exception. With our previous organisers [juankristal](https://osu.ppy.sh/users/443656) and [WalterToro](https://osu.ppy.sh/users/5281416) stepping down, their large shoes are to be filled.
 
-Starting from today, [ChillierPear](https://osu.ppy.sh/users/9501251), [LeoFLT](https://osu.ppy.sh/users/3668779), and [Azer](https://osu.ppy.sh/users/2155578) will all be stepping up to meet the challenges and expectations as the new organisers of the osu! World Cups. The three of us are very excited for this opportunity. In recent years, most, if not all of our time on osu! has been dedicated towards developing and nurturing the tournament scene. 
+Starting from today, [ChillierPear](https://osu.ppy.sh/users/9501251), [LeoFLT](https://osu.ppy.sh/users/3668779), and [Azer](https://osu.ppy.sh/users/2155578) will all be stepping up to meet the challenges and expectations as the new organisers of the osu! World Cups. The three of us are very excited for this opportunity. In recent years, most, if not all of our time on osu! has been dedicated towards developing and nurturing the tournament scene.
 
 The osu! World Cups will still continue as they have been, and we hope to take them in a forward direction through the coming years while also providing the consistently high quality and entertaining experience that has existed for so long under the direction of our predecessors.
 

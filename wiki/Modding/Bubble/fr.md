@@ -13,7 +13,7 @@ La **bubble** (![Icône de la bubble](/wiki/shared/icon/bubble.gif)) était une 
 - [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*)
 - [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) (*QAT*)
 
-L'étape suivante de l'[ancien système de classement](/wiki/Modding/Forum_modding) après une [proto-bubble](/wiki/Modding/Proto-bubble), une bubble régulière signifie qu'une [beatmap](/wiki/Beatmap) est prête à être classée du point de vue du moddeur. Les beatmaps avec une bubble étaient éventuellement vérifiées par un autre membre de la BAT ou d'un BN et [classée](/wiki/Beatmap/Category#classée) ou [approuvée](/wiki/Beatmap/Category#approuvée) tant que des modifications mineures de la beatmap étaient nécessaires.
+L'étape suivante de l'[ancien système de classement](/wiki/Modding/Forum_modding) après une [proto-bubble](/wiki/Modding/Proto-bubble), une bubble régulière signifie qu'une [beatmap](/wiki/Beatmap) est prête à être classée du point de vue du moddeur. Les beatmaps avec une bubble étaient éventuellement vérifiées par un autre membre de la BAT ou d'un BN et [classée](/wiki/Beatmap/Category#ranked) ou [approuvée](/wiki/Beatmap/Category#approved) tant que des modifications mineures de la beatmap étaient nécessaires.
 
 Dans la [procédure de classement du beatmap](/wiki/Beatmap_ranking_procedure) moderne, l'équivalent d'une bubble est la première [nomination](/wiki/Beatmap_ranking_procedure#nominations) donnée par un [beatmap nominator](/wiki/People/Beatmap_Nominators).
 
@@ -38,8 +38,8 @@ Les fils de discussion des beatmaps bubble ont été répertoriés sur les premi
 ### Exigences
 
 - Pour obtenir une bubble, la [star priority](/wiki/Modding/Star_priority) d'une beatmap devait être d'au moins 8. Plus tard, ce seuil a été porté à 12.
-- Pour qu'une beatmap soit considérée comme faisant partie de la catégorie [classée](/wiki/Beatmap/Category#classée), il devait comporter une seule bubble.
-- Les beatmaps allant pour la catégorie [approuvée](/wiki/Beatmap/Category#approuvée) devaient avoir deux bubbles consécutives placées par deux membres de la BAT différents. Le 2 juin 2017, ce seuil a été modifié pour passer à une seule bubble.
+- Pour qu'une beatmap soit considérée comme faisant partie de la catégorie [classée](/wiki/Beatmap/Category#ranked), il devait comporter une seule bubble.
+- Les beatmaps allant pour la catégorie [approuvée](/wiki/Beatmap/Category#approved) devaient avoir deux bubbles consécutives placées par deux membres de la BAT différents. Le 2 juin 2017, ce seuil a été modifié pour passer à une seule bubble.
 
 ### Bubble pop
 

@@ -27,7 +27,7 @@ Check out a little sample of what's available below:
 <audio controls>
     <source src="https://assets.ppy.sh/artists/44/previews/1045.mp3" type="audio/mpeg">
 </audio>
- 
+
 ### Lucky Princess - Text Me Too Much (Paradise Last Flashback Mix)
 
 <audio controls>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!mania 4K World Cup 2023 Concludes"
+title: osu!mania 4K World Cup 2023 Concludes
 date: 2023-10-12 21:00:00 +0000
 ---
 
@@ -44,7 +44,7 @@ It is no secret that osu! has been pushing and promoting original and featured c
 
 ### A retrospective on mappooling
 
-It's been 10 rather short years. Since then, the philosophy behind mappooling has drastically changed, to say the least. osu!mania was only two years old when the [first 4K world cup](/wiki/Tournaments/MWC/2014) was held. It was a rough start with a content draught in the platform. 
+It's been 10 rather short years. Since then, the philosophy behind mappooling has drastically changed, to say the least. osu!mania was only two years old when the [first 4K world cup](/wiki/Tournaments/MWC/2014) was held. It was a rough start with a content draught in the platform.
 
 Slowly but surely, we went from converts from *Stepmania*, to more structured pools by the time the [Springtime Osu!mania Free-for-all Tournament (SOFT)](/wiki/Tournaments/SOFT) was released, to where we are now — a refinement of 10 years of experience!
 
@@ -82,7 +82,7 @@ With a final score of 6–4, Korea narrowly avoided a tiebreaker scenario agains
 
 #### ::{ flag=TH }:: Thailand vs. ::{ flag=CN }:: China
 
-Thailand and China faced off in the losers' bracket Semifinals. As a team that delivers the spiciest performances when you least expect them to, Thailand recovered from a 3–5 deficit, bringing China to the inevitable "thai-breaker". And despite a super impressive 1-miss run from [[GB]nyasun](https://osu.ppy.sh/users/16277321), Thailand takes a fabled win of 6–5, showing that their late-game abilities and grit were not to be underestimated. 
+Thailand and China faced off in the losers' bracket Semifinals. As a team that delivers the spiciest performances when you least expect them to, Thailand recovered from a 3–5 deficit, bringing China to the inevitable "thai-breaker". And despite a super impressive 1-miss run from [[GB]nyasun](https://osu.ppy.sh/users/16277321), Thailand takes a fabled win of 6–5, showing that their late-game abilities and grit were not to be underestimated.
 
 #### ::{ flag=CL }:: Chile vs. ::{ flag=VN }:: Vietnam
 
@@ -98,15 +98,15 @@ Every tournament player knows that a jack pick demands the most brazen of nerves
 
 And what would have been the Finals without their historical tiebreaker matches?
 
-Thailand cooked up their next show as they went to their third tiebreaker in MWC this year, this time aspiring to [Catch the Glory](https://osu.ppy.sh/beatmapsets/2058832#mania/4303123) against Japan with a very decisive late-game advantage of 78,000 points! 
+Thailand cooked up their next show as they went to their third tiebreaker in MWC this year, this time aspiring to [Catch the Glory](https://osu.ppy.sh/beatmapsets/2058832#mania/4303123) against Japan with a very decisive late-game advantage of 78,000 points!
 
 But this week, they were also joined by the pair of Brazil and Indonesia. After a triple 982k-score performance from Indonesia on [Clover](https://osu.ppy.sh/beatmapsets/2058816#mania/4303089), Brazil winning by a tiny score gap of 507 points on [Braindead](https://osu.ppy.sh/beatmapsets/2058879#mania/4303210), and Indonesia recovering from a 3–6 deficit, the two titans faced off on the tiebreaker, with Indonesia securing top 4 in the end!
 
 #### ::{ flag=KR }:: South Korea vs. ::{ flag=US }:: United States
 
-As eternal rivals in the osu!mania competitive scene, the well-rounded South Korean team first met a rice-invincible United States high up the hill climb, in the winners' bracket Finals, and further boasted their capabilities in a tense battle of wills. 
+As eternal rivals in the osu!mania competitive scene, the well-rounded South Korean team first met a rice-invincible United States high up the hill climb, in the winners' bracket Finals, and further boasted their capabilities in a tense battle of wills.
 
-In this match, the United States showed why they were the rice powerhouse of the tournament, flaunting proud 99.8% accuracies across the board on a daunting Finals rice pool, while South Korea stayed hot on their heels in all other aspects, overpowering in SV and competitive in LNs. 
+In this match, the United States showed why they were the rice powerhouse of the tournament, flaunting proud 99.8% accuracies across the board on a daunting Finals rice pool, while South Korea stayed hot on their heels in all other aspects, overpowering in SV and competitive in LNs.
 
 Despite the outstanding performances in this historical matchup, a few unfortunate break points to the Korean team allowed the Americans to leave their rivals in the dust, winning 7–3.
 

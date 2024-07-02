@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_since: 92f87c21ee0fa098289944375f38d526278d988e
+outdated_translation: true
 ---
 
 # Найкращі практики
@@ -17,10 +19,12 @@ no_native_review: true
 Щоб внести зміни до репозиторію, який знаходиться на GitHub, потенційний учасник повинен отримати його контрольовану копію, яка називається *форк*. Коли ви створюєте форк репозиторію `osu-wiki`, в цей момент ви робите копію його вмісту. Перед внесенням змін *завжди синхронізуйте ваш форк*, щоб вони мали сенс. Це може бути зроблено напряму через GitHub:
 
 1. Перейдіть у ваш форк репозиторію `osu-wiki`.
+
 2. Оберіть гілку `master` з випадаючого меню.
+
 3. Натисніть `Fetch upstream`, а потім оберіть `Fetch and merge`.
 
-![](img/update-branch.png "Оновлення застарілої гілки")
+   ![](img/update-branch.png "Оновлення застарілої гілки")
 
 Тепер ваша гілка актуальна по відношенню до оригінального репозиторію.
 
@@ -31,22 +35,28 @@ no_native_review: true
 Якщо ви зіткнулися з будь-якими проблемами при використанні інструментів GitHub, або ви хочете перезаписати вміст вашої гілки, ви можете використати workflow написаний учасниками osu! wiki.
 
 1. Відкрийте **ваш форк** і перейдіть до вкладки `Actions`.
+
 2. У `Workflows`, знайдіть `Sync from osu! upstream`.
+
 3. Натисніть `Run workflow` і заповніть опції:
 
-![](img/github-actions-workflow-dialog.png "GitHub Actions Workflow - Запуск Workflow")
+   <!-- when updating this translation, delete img/github-actions-workflow-dialog.png if this translation is the last one to use it. —clayton -->
 
-- **Use workflow from**: назва гілки, яку ви бажаєте синхронізувати. За замовчуванням вона виставлена як `master`.
-- **Overwrite any changes in the target repository**:
-  - `true`: замінити вміст вашої гілки чистою копією гілки `master` з `ppy/osu-wiki`.
-  - `false` (за замовчуванням): об'єднати ваші зміни зі змінами на `ppy/osu-wiki`.
-- **Create a backup of your target branch**:
-  - `true`: створити гілку з назвою `backup-{назва вашої гілки}` перед її зміною.
-  - `false` (за замовчуванням): не робити ніяких резервних копій.
+   ![](img/github-actions-workflow-dialog.png "GitHub Actions Workflow - Запуск Workflow")
+
+   - **Use workflow from**: назва гілки, яку ви бажаєте синхронізувати. За замовчуванням вона виставлена як `master`.
+   - **Overwrite any changes in the target repository**:
+     - `true`: замінити вміст вашої гілки чистою копією гілки `master` з `ppy/osu-wiki`.
+     - `false` (за замовчуванням): об'єднати ваші зміни зі змінами на `ppy/osu-wiki`.
+   - **Create a backup of your target branch**:
+     - `true`: створити гілку з назвою `backup-{назва вашої гілки}` перед її зміною.
+     - `false` (за замовчуванням): не робити ніяких резервних копій.
 
 4. Натисніть кнопку `Run Workflow` і зачекайте поки workflow зробить все необхідне. Якщо вам цікаво як це працює, натисніть на завдання workflow — `Sync from osu! upstream`.
 
-![](img/github-actions-workflow-overview.png "GitHub Actions Workflow - Огляд Workflow")
+   <!-- when updating this translation, delete img/github-actions-workflow-overview.png if this translation is the last one to use it. —clayton -->
+
+   ![](img/github-actions-workflow-overview.png "GitHub Actions Workflow - Огляд Workflow")
 
 ## Внесення змін
 
@@ -94,12 +104,10 @@ no_native_review: true
 В залежності від серйозності конфліктів, у вас є два варіанти як це виправити:
 
 1. Якщо ваш пул реквест має кнопку `Resolve conflicts`, натисніть її. Ця дія відкриє злегка іншу версію веб редактора.
-
    1. GitHub буде виділяти конфліктні області. Знайдіть одну з них.
    2. Все починаючи від `<<<<<<<` і до `=======` це ваші зміни, в той час як, все від `=======` до `>>>>>>> master`це те, що знаходться на гілці `ppy/master`.
    3. Починаючи звідси, вам потрібно буде власноруч вирішити конфлікт та видалити рядки з помітками `<<<<<<<`, `=======`, і `>>>>>>> master`.
    4. Повторіть цей процес для всіх конфліктів.
    5. Як закінчите, натисніть `Mark as resolved` (ця опція доступна лише тоді, коли всі конфліктні частини файлу вирішені).
-
 2. Якщо кнопка `Resolve conflicts` заблокована через те, що конфлікти надто складні для GitHub — вам не повезло, і вам потрібно [оновити вашу гілку](#синхронізація-форку) та зробити ваші зміни знову.
    - *Зауважте: Це правда лише якщо ви обмежені використанням веб інтерфейсу GitHub.* Існують певні шляхи вирішення такої проблеми, але вони не підлягають під ціль цієї статті. Крім того, це ймовірно не вартує таких зусиль, оскільки ви перезапишите та повернете конфліктні зміни.

@@ -44,12 +44,12 @@ They go fast, and they go *hard*, in that classic way that only Fractal Dreamers
     <source src="https://assets.ppy.sh/artists/15/previews/896.mp3" type="audio/mpeg">
 </audio>
 
-### Virulence 
+### Virulence
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/15/previews/898.mp3" type="audio/mpeg">
 </audio>
- 
+
 ### Scarlet Night
 
 <audio controls>

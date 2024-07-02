@@ -19,7 +19,7 @@ Already a household name among osu! players craving a more gruesome set of faste
 <audio controls>
     <source src="https://assets.ppy.sh/artists/43/previews/1038.mp3" type="audio/mpeg">
 </audio>
- 
+
 ### The Path of Apotheosis
 
 <audio controls>

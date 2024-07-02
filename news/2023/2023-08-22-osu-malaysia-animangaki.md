@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu! Malaysia @ AniManGaki 2023"
+title: osu! Malaysia @ AniManGaki 2023
 date: 2023-08-22 08:00:00 +0000
 ---
 

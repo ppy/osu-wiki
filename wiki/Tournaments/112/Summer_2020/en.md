@@ -153,7 +153,7 @@ The 112's Summer Tournament 2020 was run by various community members.
 
 ### Semifinals
 
-- NoMod 
+- NoMod
   1. [Harada Hitomi - Kyoumei no True Force (Kibbleru) \[Ex\]](https://osu.ppy.sh/beatmapsets/454893#osu/975153)
   2. [xi - Ascension to Heaven (-Tynamo) \[BoshyMan's Extra\]](https://osu.ppy.sh/beatmapsets/968656#osu/2547374)
   3. [Umeboshi Chazuke - Bison Charge (Nao Tomori) \[Cyndere's Extra\]](https://osu.ppy.sh/beatmapsets/894701#osu/1936561)
@@ -289,7 +289,7 @@ Saturday, 26 September 2020
 | --: | :-: | :-: | :-- | :-- |
 | [Mikatsu](https://osu.ppy.sh/users/6612642) | 3 | **7** | **[Raikouhou](https://osu.ppy.sh/users/8007528)** | [#1](https://osu.ppy.sh/community/matches/67518979) |
 
-### Finals 
+### Finals
 
 Saturday, 19 September 2020
 
@@ -297,7 +297,7 @@ Saturday, 19 September 2020
 | --: | :-: | :-: | :-- | :-- |
 | **[heyronii](https://osu.ppy.sh/users/5642779)** | **6** | 1 | [Mikatsu](https://osu.ppy.sh/users/6612642) | [#1](https://osu.ppy.sh/community/matches/67191627) |
 
-### Losers Round 4 
+### Losers Round 4
 
 Saturday, 19 September 2020
 
@@ -461,10 +461,10 @@ Tuesday, 25 August 2020
    - One beatmap will be a tiebreaker beatmap. This beatmap will only be played in case of a tie. **The only exception to this is the Qualifiers pool.**
 6. Match schedule will be decided by the tournament staff.
 7. In the event of a player disconnecting during the match due to connectivity or hardware difficulties;
-   - If the disconnection occurs within 30 seconds after beatmap begin, the beatmap is replayed. If it occurs after 30 seconds, the score on the match link is valid.        
+   - If the disconnection occurs within 30 seconds after beatmap begin, the beatmap is replayed. If it occurs after 30 seconds, the score on the match link is valid.
    - The player will be given 10 minutes to reconnect. If the player fails to reconnect in 10 minutes, or frequently disconnects during the match and reconnecting takes too long, the player will be excluded from the match.
 8. Beatmaps cannot be reused in the same match.
-9. All players are supposed to be ready on time for the match. For the players unable to show up on time, match can be postponed for 10 minutes. **If it exceeds, the specific player(s) will lose by default.**        
+9. All players are supposed to be ready on time for the match. For the players unable to show up on time, match can be postponed for 10 minutes. **If it exceeds, the specific player(s) will lose by default.**
    - If both players are unable to attend, players will be blacklisted and the match will be postponed to a further date. **Blacklisted player(s) will be eliminated if the same situation occurs twice.**
 10. All players and referees must be treated with respect. Instructions of the referees and tournament Management are to be followed. Decisions labeled as final are not to be objected.
 11. Disrupting the match by foul play, picking inappropriate warmup beatmaps, insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
@@ -476,7 +476,7 @@ Tuesday, 25 August 2020
 1. Every user interested in joining the tournament will sign up individually.
    - **Any form of registration, other than the registration form provided in related channels, will be disregarded.**
 2. Participants **must** join the [Discord server](https://discord.gg/g3nqqeZ) for the duration of the tournament.
-   - In order to join the tournament, users should type `?register` in any channel in the server, then click the link provided by the bot in PMs. 
+   - In order to join the tournament, users should type `?register` in any channel in the server, then click the link provided by the bot in PMs.
 3. Excluding commentators and streamers, tournament staff cannot participate in the tournament.
 4. Upon the conclusion of registration period, the list of participants will be submitted to the osu! Support Team for screening. Participants that fail the screening procedure will not be able to participate in the tournament. Please refer to [here](/wiki/Tournaments/Official_support#tournament-screening) for more information about tournament screening.
 5. All players eligible to participate in the tournament will be published after the Registration period ends.
@@ -491,11 +491,11 @@ Tuesday, 25 August 2020
 6. Players will have the option to choose the multiplayer room they wish to play. If a room happens to be too empty, remaining players will be navigated to the other rooms.
 7. Latecomers can be admitted to the room, but they have to commence playing from the part where the others are at.
 8. If no players will join the room, the match will be aborted. No points will be awarded to the absent players.
-9. First 32 players with the highest overall score will get through to Double Elimination stages. If there will be more participants than the predicted number, player(s) placed the last will be eliminated. 
+9. First 32 players with the highest overall score will get through to Double Elimination stages. If there will be more participants than the predicted number, player(s) placed the last will be eliminated.
 10. During the Double Elimination stages, the winner moves to the next stage and the losing gets moved to the Losers bracket.
 11. **Winning conditions:**
-    - The Round of 32 and Quarterfinals will be best of 9 (first player to 5 wins).        
-    - The Semifinals and Finals will be best of 11 (first player to 6 wins).        
+    - The Round of 32 and Quarterfinals will be best of 9 (first player to 5 wins).
+    - The Semifinals and Finals will be best of 11 (first player to 6 wins).
     - The Grand Finals will be best of 13 (first player to 7 wins).
 
 ### Match instructions
@@ -504,7 +504,7 @@ Tuesday, 25 August 2020
    - Room settings are osu!, Head To Head., Win Condition: 'ScoreV2'.
 2. Players can select up to two warm-up beatmaps that should not exceed 4 minutes. Players are free to not to pick a warm-up, but have to play if the opponent wants to.
 3. Each player must use `!roll` once in `#multiplayer`.
-   - The player with the higher roll **picks** first.       
+   - The player with the higher roll **picks** first.
    - The player with the lower roll **bans** first.
    - Each player will be given 2 minutes to decide upon picks or bans. If first player fails to provide an answer, other player takes the turn.
 4. Each player can only ban 1 beatmap for the whole tourney.
@@ -536,4 +536,4 @@ Tuesday, 25 August 2020
 3. Players may ask for a reschedule upon agreement with the opponent(s) if the current schedule does not work for them.
 4. Reschedules will only be considered if both players agree to a time at least 24 hours before the first match in that particular stage.
    - If players wish to change the scheduled time within 24 hours until the match, they have to seek for an available referee for the rescheduled time. **Participants cannot use this opportunity more than once.**
-5. If it is certain that participant(s) is/are unavailable for the scheduled time, they are obliged to inform the tournament staff beforehand. This is required in order not to waste the time of staff and other participants.  
+5. If it is certain that participant(s) is/are unavailable for the scheduled time, they are obliged to inform the tournament staff beforehand. This is required in order not to waste the time of staff and other participants.

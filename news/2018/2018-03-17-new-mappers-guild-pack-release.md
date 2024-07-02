@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Mappers' Guild Pack Now Available"
+title: New Mappers' Guild Pack Now Available
 date: 2018-03-17 10:00:00 +0000
 ---
 

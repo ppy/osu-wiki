@@ -99,21 +99,21 @@ osu!taiko Loved candidates were chosen by [Backfire](https://osu.ppy.sh/users/26
 
 [![](/wiki/shared/news/2018-10-21-project-loved-week-of-october-21st/taiko/shadow-of-cats.jpg)](https://osu.ppy.sh/community/forums/topics/819700)
 
-[Camellia - shadow of cats](https://osu.ppy.sh/beatmapsets/578465#taiko) by [Taka030](https://osu.ppy.sh/users/7563054)  
+[Camellia - shadow of cats](https://osu.ppy.sh/beatmapsets/578465#taiko) by [Taka030](https://osu.ppy.sh/users/7563054)\
 *written by [nyanmi-1828](https://osu.ppy.sh/users/6866480)*
 
 Resonating with Camellia's unique sound, Taka030's extraordinary technique of mapping consisting of great streams and SV usage will let the player feel like they're in heaven. This beatmap has multiple ways of expressing those wobbly bass sounds, like fast sliders, barlines and overlapping spinners, which feel amusing to play throughout the entire four minutes of the song. I think this is a good map targeted at two- or three-digit players, considering how difficult is to get a full combo.
 
 [![](/wiki/shared/news/2018-10-21-project-loved-week-of-october-21st/taiko/galactic-astro-domination.jpg)](https://osu.ppy.sh/community/forums/topics/819701)
 
-[DragonForce - Galactic Astro Domination](https://osu.ppy.sh/beatmapsets/524140#taiko) by [zigizigiefe](https://osu.ppy.sh/users/2463434) and [Boss](https://osu.ppy.sh/users/4930639)  
+[DragonForce - Galactic Astro Domination](https://osu.ppy.sh/beatmapsets/524140#taiko) by [zigizigiefe](https://osu.ppy.sh/users/2463434) and [Boss](https://osu.ppy.sh/users/4930639)\
 *written by [-Kazu-](https://osu.ppy.sh/users/920861)*
 
 For our second pick comes this surprisingly short DragonForce map by zigizigiefe, which has the streams we all expect of a great DragonForce map, resulting in a fun map even if it's just to warm up. The streams in this map are varied and challenging, while being not as straining (due to its 200 BPM, slightly lower than what most stream maps are nowadays), making it a perfect map to start practicing these up. Good job, zigi!
 
 [![](/wiki/shared/news/2018-10-21-project-loved-week-of-october-21st/taiko/nightfall.jpg)](https://osu.ppy.sh/community/forums/topics/819702)
 
-[ENNNN - Nightfall](https://osu.ppy.sh/beatmapsets/313849#taiko) by [Ryui](https://osu.ppy.sh/users/1938873) and [R i n g o](https://osu.ppy.sh/users/2036767)  
+[ENNNN - Nightfall](https://osu.ppy.sh/beatmapsets/313849#taiko) by [Ryui](https://osu.ppy.sh/users/1938873) and [R i n g o](https://osu.ppy.sh/users/2036767)\
 *written by [-Kazu-](https://osu.ppy.sh/users/920861)*
 
 Returning from the cycle during the second week of february, Nightfall, a beatmap done by Ryui in collaboration with R i n g o, features a simple yet effective style that founds its place in some tournaments in the past. Have a look at the comment Backfire did for this map back in the day!
@@ -122,7 +122,7 @@ Returning from the cycle during the second week of february, Nightfall, a beatma
 
 [![](/wiki/shared/news/2018-10-21-project-loved-week-of-october-21st/taiko/architecture.jpg)](https://osu.ppy.sh/community/forums/topics/819703)
 
-[DJ Myosuke & Noizenecio - Architecture](https://osu.ppy.sh/beatmapsets/692364#taiko) by [1RoHa\_](https://osu.ppy.sh/users/4632503)  
+[DJ Myosuke & Noizenecio - Architecture](https://osu.ppy.sh/beatmapsets/692364#taiko) by [1RoHa\_](https://osu.ppy.sh/users/4632503)\
 *written by [-Kazu-](https://osu.ppy.sh/users/920861)*
 
 As our last pick comes directly from speed hell, Architecture mapped by 1RoHa\_ features 300 BPM of pure insanity, in the form a great map designed to bring a rich gameplay experience, with patterns that flow exquisitely and are really fun to play. We hope you're up for a challenge, as this map will for sure pack quite a punch. Don't let its high BPM and SR trick you though, as its design is quite intuitive and you will for sure be able to hit this after some intensive practice.
@@ -157,21 +157,21 @@ osu!mania Loved candidates were chosen by [Kamikaze](https://osu.ppy.sh/users/21
 
 [![](/wiki/shared/news/2018-10-21-project-loved-week-of-october-21st/mania/vec-leggendaria.jpg)](https://osu.ppy.sh/community/forums/topics/819709)
 
-[Rotteen - VEC+LEGGENDARIA](https://osu.ppy.sh/beatmapsets/342219#mania) by [Quick Draw](https://osu.ppy.sh/users/3174286)  
+[Rotteen - VEC+LEGGENDARIA](https://osu.ppy.sh/beatmapsets/342219#mania) by [Quick Draw](https://osu.ppy.sh/users/3174286)\
 *written by [stupud man](https://osu.ppy.sh/users/2141612)*
 
 Quick Draw receives his third Project Loved nomination with the well-known VEC†LEGGENDARIA. This map is unbelievably fast, especially considering the jumpstream-heavy patterning of the harder difficulties, coming in at 269.4 BPM. In fact, that's what makes this map unique—it's not often that we see a jumpstream map this popular with a BPM this high. Given its competitive viability and uncommon speed, this nomination is a first for Loved, and makes a good candidate for having a leaderboard.
 
 [![](/wiki/shared/news/2018-10-21-project-loved-week-of-october-21st/mania/unlimited-spark-remake.jpg)](https://osu.ppy.sh/community/forums/topics/819710)
 
-[t+pazolite feat. Rizna - Unlimited Spark! (remake)](https://osu.ppy.sh/beatmapsets/567854#mania) by [\_underjoy](https://osu.ppy.sh/users/2235750)  
+[t+pazolite feat. Rizna - Unlimited Spark! (remake)](https://osu.ppy.sh/beatmapsets/567854#mania) by [\_underjoy](https://osu.ppy.sh/users/2235750)\
 *written by [TheToaphster](https://osu.ppy.sh/users/7616811)*
 
 Next up, we have another brutally difficult long note map coming from the one and only \_underjoy, this time being his chart for Unlimited Spark! This marathon starts off slow and simple, luring players into a false sense of security, but slowly reveals its true intentions through progressively more difficult long note patterns, before turning up the intensity with a full inverse section shortly after the halfway mark. This inverse marks the expectations for the rest of the chart, with only one small break being given for the second half before unloading yet again in the final chorus with disjointed and difficult to read releases, ultimately serving as a rather rewarding LN challenge, something many players have come to enjoy about the chart, netting this chart a fitting spot in the Loved nominations.
 
 [![](/wiki/shared/news/2018-10-21-project-loved-week-of-october-21st/mania/black-out-the-alternative.jpg)](https://osu.ppy.sh/community/forums/topics/819711)
 
-[KotoriP - Black Out The Alternative](https://osu.ppy.sh/beatmapsets/327178#mania) by [Pope Gadget](https://osu.ppy.sh/users/2288341) and [eyes](https://osu.ppy.sh/users/7741797)  
+[KotoriP - Black Out The Alternative](https://osu.ppy.sh/beatmapsets/327178#mania) by [Pope Gadget](https://osu.ppy.sh/users/2288341) and [eyes](https://osu.ppy.sh/users/7741797)\
 *written by [\_underjoy](https://osu.ppy.sh/users/2235750)*
 
 Next up is one of Pope Gadget's classics, Black Out The Alternative by KotoriP! Being around for over three years, this map has undergone many changes which ended up in leaving only a single difficulty.
@@ -180,21 +180,21 @@ Juxta-Galactica takes the player on a bumpy journey through 4K, as it contains v
 
 [![](/wiki/shared/news/2018-10-21-project-loved-week-of-october-21st/mania/cosmos-the-r-machine.jpg)](https://osu.ppy.sh/community/forums/topics/819712)
 
-[Reizoko Cj - Cosmos / The R Machine](https://osu.ppy.sh/beatmapsets/677365#mania) by [Chrubble](https://osu.ppy.sh/users/2594280)  
+[Reizoko Cj - Cosmos / The R Machine](https://osu.ppy.sh/beatmapsets/677365#mania) by [Chrubble](https://osu.ppy.sh/users/2594280)\
 *written by [TheToaphster](https://osu.ppy.sh/users/7616811)*
 
 Coming in with our final 4K pick and the third marathon of the Loved set, we have Chrubble and his chart for Cosmos / The R Machine. This monster of a chart sets up a couple of expectations right out of the gate: a lot of jack-tech patterning and a great stamina requirement through its consistency and length. Because of this, as well as its high quality, it became a point of interest among tech enthusiasts, and has been quite well-received by others as well, setting up the chart very nicely to be included as a Loved nomination.
 
 [![](/wiki/shared/news/2018-10-21-project-loved-week-of-october-21st/mania/ordinary-world.jpg)](https://osu.ppy.sh/community/forums/topics/819713)
 
-[Nakamura Meiko - Ordinary World](https://osu.ppy.sh/beatmapsets/393237#mania) by [Cuppp](https://osu.ppy.sh/users/2345293)  
+[Nakamura Meiko - Ordinary World](https://osu.ppy.sh/beatmapsets/393237#mania) by [Cuppp](https://osu.ppy.sh/users/2345293)\
 *written by [stupud man](https://osu.ppy.sh/users/2141612)*
 
 It's been quite some time since Cuppp has had a chart nominated for Project Loved (six months!), and it only seems fitting to up the ante by nominating one of his more challenging ones: Ordinary World. At 9.79\*, this chart gets the vast majority of its difficulty from the copious amounts of LNs associated with it (which should be unsurprising given that it's a Cuppp chart). What's more noteworthy though is the increase in density as the song progresses. The first two-thirds play as if the previously mentioned 9.79\* rating is entirely inflated, but that assumption is easily reversed when playing through the end of the song. As such, the leaderboard for this chart will represent a wide variety of strong LN players and is worth giving a shot if you think you can handle the density!
 
 [![](/wiki/shared/news/2018-10-21-project-loved-week-of-october-21st/mania/routine.jpg)](https://osu.ppy.sh/community/forums/topics/819714)
 
-[Silent Siren - Routine](https://osu.ppy.sh/beatmapsets/433950#mania) by [Kim\_GodSSI](https://osu.ppy.sh/users/2218047) and [Reba](https://osu.ppy.sh/users/3087654)  
+[Silent Siren - Routine](https://osu.ppy.sh/beatmapsets/433950#mania) by [Kim\_GodSSI](https://osu.ppy.sh/users/2218047) and [Reba](https://osu.ppy.sh/users/3087654)\
 *written by [\_underjoy](https://osu.ppy.sh/users/2235750)*
 
 Kim\_GodSSI's LN charting style can usually be recognized at the first glance. This is the case with Routine by Silent Siren, which also has a 4K Guest Difficulty made by Reba.
@@ -203,7 +203,7 @@ There are two 7K difficulties. Both of these require high amounts of finger inde
 
 [![](/wiki/shared/news/2018-10-21-project-loved-week-of-october-21st/mania/road-of-resistance.jpg)](https://osu.ppy.sh/community/forums/topics/819715)
 
-[BABYMETAL - Road of Resistance](https://osu.ppy.sh/beatmapsets/355176#mania) by [Akary](https://osu.ppy.sh/users/3912608) et al.  
+[BABYMETAL - Road of Resistance](https://osu.ppy.sh/beatmapsets/355176#mania) by [Akary](https://osu.ppy.sh/users/3912608) et al.\
 *written by [aitor98](https://osu.ppy.sh/users/3154852)*
 
 The next chart on the list is goes by the name of Road of Resistance by Akary (and company). This collab features six different mappers, which are [Julie](https://osu.ppy.sh/users/2420987), [DarkSider2442](https://osu.ppy.sh/users/1130069), [dosyeru](https://osu.ppy.sh/beatmapsets/518090), [Kivicat](https://osu.ppy.sh/users/2790640), [[Shi-Ra]](https://osu.ppy.sh/users/2008489) and Akary themselves. Coming up at 205 BPM, it starts with a kind of calm long note section, that keeps building up until it reaches the 1-minute mark, where everything starts to go wild. Fast chordstreams, followed by staircases and some irregular patterning does make it hard to play and read. It might get slower after the end of the first section, which lasts for 30 seconds approximately, but do not be fooled by this. The more you advance throughout the map, the more complex the patterns will be. Mixing different snaps, a few minijacks every here and there and some nasty bursts will show up during these five minutes.
@@ -212,7 +212,7 @@ This chart does have a good balance between long and normal notes, which does no
 
 [![](/wiki/shared/news/2018-10-21-project-loved-week-of-october-21st/mania/halloween-party.jpg)](https://osu.ppy.sh/community/forums/topics/819716)
 
-[SHK - Halloween Party](https://osu.ppy.sh/beatmapsets/242159#mania) by [DarkSider2442](https://osu.ppy.sh/users/1130069), [Kivicat](https://osu.ppy.sh/users/2790640) and [arviejhay](https://osu.ppy.sh/users/145871)  
+[SHK - Halloween Party](https://osu.ppy.sh/beatmapsets/242159#mania) by [DarkSider2442](https://osu.ppy.sh/users/1130069), [Kivicat](https://osu.ppy.sh/users/2790640) and [arviejhay](https://osu.ppy.sh/users/145871)\
 *written by [Kamikaze](https://osu.ppy.sh/users/2124783)*
 
 It's Spooktober time as we all know, and what better way to get into the festive spirit than a funky chart of SHK's Halloween Party!

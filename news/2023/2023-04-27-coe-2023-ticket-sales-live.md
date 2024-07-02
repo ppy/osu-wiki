@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "COE 2023 Ticket Sales Live"
+title: COE 2023 Ticket Sales Live
 date: 2023-04-27 09:00:00 +0000
 ---
 

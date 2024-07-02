@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!mania World Cup 2014 - Registration Phase"
+title: osu!mania World Cup 2014 - Registration Phase
 date: 2014-07-01 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/90458656443/osumania-world-cup-2014-registration-phase
 ---
@@ -9,8 +9,7 @@ Greetings. We'd like to welcome all of you to this year's official osu!mania Wor
 
 ![image](/wiki/shared/news/banners/MWC_2014.png)
 
-For more details, refer to the [osu!mania World Cup 2014 wiki article](/wiki/Tournaments/MWC/2014).  
-  
+For more details, refer to the [osu!mania World Cup 2014 wiki article](/wiki/Tournaments/MWC/2014).
 
 ## Tournament Schedule
 
@@ -21,13 +20,13 @@ For more details, refer to the [osu!mania World Cup 2014 wiki article](/wiki/Tou
 - Round 16: 23-24 Aug 2014
 - Quarter-finals: 31 Aug 2014
 - Semi-finals: 7 Sep 2014
-- Finals/3rd place match: 14 Sep 2014  
+- Finals/3rd place match: 14 Sep 2014
 
 ## Prizes
 
 - 1st: 6 months supporter tag, profile badge, osu! merchandise, usertitle "osu!mania Champion"
 - 2nd: 3 months supporter tag
-- 3rd: 1 month supporter tag  
+- 3rd: 1 month supporter tag
 
 ## Registration Instructions
 
@@ -37,14 +36,13 @@ For more details, refer to the [osu!mania World Cup 2014 wiki article](/wiki/Tou
 - Teams from the same country on both brackets can consist of the same players, but do not have to. You can also found two independent teams per country or just replace a few people in it.
 - The tournament will run with a total of 32 teams for each bracket!
 - Before signing up, take note of [this article](https://osu.zendesk.com/hc/en-us/articles/202090283-I-applied-to-play-in-an-official-tournament-but-was-denied-), so we can avoid any misunderstandings!
-- If you have any changes you wish to make during the registration phase, request it via a PM.  
+- If you have any changes you wish to make during the registration phase, request it via a PM.
 
 ## How to register?
 
-**To register, fill out [this form](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY/edit).**  
-**Then, verify your registration by sending a PM to Loctav titled "MWC Registration".**  
-When your registration was successful, your team's captain will be notified. _Any registrations or team changes past the deadline can not be considered._  
-  
+**To register, fill out [this form](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY/edit).**\
+**Then, verify your registration by sending a PM to Loctav titled "MWC Registration".**\
+When your registration was successful, your team's captain will be notified. _Any registrations or team changes past the deadline can not be considered._
 
 ## Links
 

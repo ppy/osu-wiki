@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!mania 4K World Cup 2015 - Results"
+title: osu!mania 4K World Cup 2015 - Results
 date: 2015-10-07 12:43:05 +0000
 tumblr_url: http://osunews.tumblr.com/post/130679970363/osumania-4k-world-cup-2015-results
 ---

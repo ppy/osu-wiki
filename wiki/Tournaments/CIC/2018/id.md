@@ -6,7 +6,7 @@ tags:
 
 # Catch the Beat Indonesia Cup 2018
 
-![Logo CIC 2018](img/logo.jpg)
+![Logo CIC 2018](img/logo.png)
 
 **Catch the Beat Indonesia Cup 2018** (***CIC 2018***) adalah turnamen satu-lawan-satu, mode osu!catch regional Indonesia, yang diselenggarakan oleh ::{ flag=ID }:: [\[490\]Kazuyo](https://osu.ppy.sh/users/1830361). Kali ini merupakan instalasi ke-6 dari turnamen Catch the Beat Indonesia Cup.
 

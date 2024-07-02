@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Best of 2016 Results"
+title: Best of 2016 Results
 date: 2017-02-16 06:47:32 +0000
 tumblr_url: http://osunews.tumblr.com/post/157306073998/best-of-2016-results
 ---

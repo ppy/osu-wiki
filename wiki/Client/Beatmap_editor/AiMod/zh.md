@@ -170,4 +170,4 @@ AiMod 的开发进程往往滞后于摸图社区与[谱面上架标准 (RC)](/wi
 - **启用 `Check distance snap` 选项的情况下，AiMod 并不会检查串与串之间的间距锁定情况。**
 - **如果谱面文件夹中有多个 MP3 文件，AiMod 会警告你有多个歌曲文件**。然而，MP3 文件也可用于鼓掌之类的音效。
 
-如果你想要让谱面[上架](/wiki/Beatmap/Category#上架-(ranked))，除 AiMod 以外，推荐你再使用其他程序，比如 ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) 的 [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier/releases)。这些程序能更加紧跟目前的谱面上架准则，能检测出的问题远多于 AiMod。但由于上架准则中的一些规则依赖 AiMod，也不要完全忽略它。
+如果你想要让谱面[上架](/wiki/Beatmap/Category#ranked)，除 AiMod 以外，推荐你再使用其他程序，比如 ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) 的 [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier/releases)。这些程序能更加紧跟目前的谱面上架准则，能检测出的问题远多于 AiMod。但由于上架准则中的一些规则依赖 AiMod，也不要完全忽略它。

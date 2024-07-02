@@ -34,7 +34,7 @@ Clique na imagem do episódio que deseja assistir.
 | [![](img/academy-7-3.png)](https://www.youtube.com/watch?v=MhIuPvQjLbU) | Grids! |
 | [![](img/academy-8.png)](https://www.youtube.com/watch?v=PFEYlQfiJHQ) | Hitsounds! |
 | [![](img/academy-9.png)](https://www.youtube.com/watch?v=bTGBspoMFVA) | Modding 1/2! |
-| [![](img/academy-10.png)](https://www.youtube.com/watch?v=bTGBspoMFVA) | Modding 2/2! |
+| [![](img/academy-10.png)](https://www.youtube.com/watch?v=SFSwmRdNbXM) | Modding 2/2! |
 | [![](img/academy-11.png)](https://www.youtube.com/watch?v=j8fpJKCjTvM) | Modificadores de Jogabilidade e Dicas para Melhorar em Standard! |
 | [![](img/academy-12.png)](https://www.youtube.com/watch?v=8reEFNk5kQY) | Básicos sobre Mapeamento de Taiko! |
 | [![](img/academy-13.png)](https://www.youtube.com/watch?v=oUvCBsGyTtw) | Mudando a aparência do osu! com skins! |

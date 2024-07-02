@@ -10,7 +10,7 @@ date: 2021-01-27 10:00:00 +0000
 
 Pioneer of the internet age's electronic scene, **Dimrain47** is a techno producer that just about every mid-2000s internet user is familiar with. Gaining his start on the *Newgrounds Audio Portal* through songs produced primarily between 2005 and 2008, **Dimrain47**'s songs can be heard throughout tons of old-school animations, games, and websites like *Particles*, *Castle Crashers*, and a highly popular *Warcraft 3* mod (plus some recent popularity in something called *Geometry Dash*, maybe you've heard of it).
 
-With a whole **25** tracks, we've managed to grab nearly all of **Dimrain47**'s discography, including timeless classics like *Midnight Siege* and *At the Speed of Light*. 
+With a whole **25** tracks, we've managed to grab nearly all of **Dimrain47**'s discography, including timeless classics like *Midnight Siege* and *At the Speed of Light*.
 
 There's a good chance this artist's music is older than some of today's osu! players, so here's some recently excavated footage of how a pre-historic player would experience these jams, featuring [Kyshiro](https://osu.ppy.sh/users/640611)'s beatmap of [Midnight Siege](https://osu.ppy.sh/beatmapsets/46936):
 

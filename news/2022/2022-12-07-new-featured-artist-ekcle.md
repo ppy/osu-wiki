@@ -15,7 +15,7 @@ Stop reading and start mapping any of the **7** awe-inspiring songs available fr
 In classic [DeviousPanda](https://osu.ppy.sh/users/4966334) fashion, we'll be showcasing **Ekcle**'s talents with an 8-star rendition of [Crafted In Ice](https://osu.ppy.sh/beatmapsets/1868244), played by the one and only [Ekoro](https://osu.ppy.sh/users/284905).
 
 Check it out:
- 
+
 <div align="center">
     <video width="100%" controls>
         <source src="https://assets.ppy.sh/artists/326/release_showcase.mp4" type="video/mp4" preload="none">

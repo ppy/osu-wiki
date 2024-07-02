@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!mania 7K World Cup - ro16 Recap"
+title: osu!mania 7K World Cup - ro16 Recap
 date: 2018-02-23 00:30:00 +0000
 ---
 
@@ -22,7 +22,7 @@ osu!mania 7K World Cup is fully underway, with 16 intrepid teams fighting their 
 
 **This week in the Round of 16, we had 8 scheduled "Best-of-9" matches taking place over a Sunday.** Teams this week weren't at risk of elimination, though their performance would significantly impact how they progress through the later stages of this tournament.
 
-**There were also some fancy new changes to the stream layout.** For the first time in World Cup history, the tournament client resolution was not the standard 4:3, but instead an ultrawide 21:9. With double the width, you can be sure that the highlights were twice as exciting!   
+**There were also some fancy new changes to the stream layout.** For the first time in World Cup history, the tournament client resolution was not the standard 4:3, but instead an ultrawide 21:9. With double the width, you can be sure that the highlights were twice as exciting!
 
 ## Mappool
 
@@ -66,13 +66,13 @@ Taking place over 2 blocks on the same day, the majority of the matches ended up
 
 ***Block 2 (10:00 - 16:00 UTC):***
 
-**Indonesia vs Singapore was next, with Singapore triumphing 0 - 5.** Despite it being a sweep, the former 3rd place country most assuredly gave Singapore one hell of a fight. Indonesia picked first, opting for [KOTOKO - agony (TV Size)](https://osu.ppy.sh/beatmaps/261515&m=3), losing only by 24K score. The subsequent two picks saw Indonesia missing out by 8.8K and 6.8K score respectively. The top seeded Singapore just proved too consistent a team, and barrelled through towards victory.  
+**Indonesia vs Singapore was next, with Singapore triumphing 0 - 5.** Despite it being a sweep, the former 3rd place country most assuredly gave Singapore one hell of a fight. Indonesia picked first, opting for [KOTOKO - agony (TV Size)](https://osu.ppy.sh/beatmaps/261515&m=3), losing only by 24K score. The subsequent two picks saw Indonesia missing out by 8.8K and 6.8K score respectively. The top seeded Singapore just proved too consistent a team, and barrelled through towards victory.
 
 **Malaysia won a convincing 5 - 0 victory over Germany.** All things considered, the low seeded Germany started off rather well, conceding their first pick [xi - .357 Magnum](https://osu.ppy.sh/beatmapsets/517516#mania/1099592) by only 24K score. However, Things quickly turned south as Malaysia kicked into high gear, with [cheewee10](https://osu.ppy.sh/users/4477497) setting some of the best scores we've seen all weekend. Team Malaysia ends the match with the beatiful song [N.M.S.T - Snowflakes](https://osu.ppy.sh/beatmapsets/444615#mania/955188).
 
 **The South Korea vs Italy match ended with a WBD in favour of the Koreans.** Italy was unable to find 2 players for this match, thus they conceded the match by default. It is always a shame to see these kind of outcomes, especially during the elimination stages. Nevertheless, these teams have yet to be eliminated, so best of luck in their upcoming matches next week!
 
-**The highlight of the weekend was certainly the tiebreaker match between Chile and Japan.** Team Japan was first to pick - [xi - .357 Magnum](https://osu.ppy.sh/beatmapsets/517516#mania/1099592). After a short but intense battle, Chile took the early lead by a marginal score difference of only 8.9K. Chile followed it up by winning their own pick [she - Is This Love [osu!mania Speedmapping Challenge #5]](https://osu.ppy.sh/beatmaps/1206690&m=3). taking the score to 2 - 0. In a fierce display of determination, Japan proceeded to win **three** consecutive points in a row, with each victory being literally within a hair's breadth. After a few more small victories on either side, Japan equalised 4 - 4. It was time for the tiebreaker...     
+**The highlight of the weekend was certainly the tiebreaker match between Chile and Japan.** Team Japan was first to pick - [xi - .357 Magnum](https://osu.ppy.sh/beatmapsets/517516#mania/1099592). After a short but intense battle, Chile took the early lead by a marginal score difference of only 8.9K. Chile followed it up by winning their own pick [she - Is This Love [osu!mania Speedmapping Challenge #5]](https://osu.ppy.sh/beatmaps/1206690&m=3). taking the score to 2 - 0. In a fierce display of determination, Japan proceeded to win **three** consecutive points in a row, with each victory being literally within a hair's breadth. After a few more small victories on either side, Japan equalised 4 - 4. It was time for the tiebreaker...
 
 Enter [kamome sano - eclair au chocolat (extended bittersweet mix)](https://osu.ppy.sh/beatmapsets/505048#mania/1074472), a devilishly tricky tiebreaker for the Round of 16 level. The stakes were high and the flickering was as real and intense as it could possibly be. In spite of sporting a roster of only 2 players, it was Team Chile that was able to hold their own and triumph, by a score difference of only 12K. Major kudosu! to the mid-seeded Japan for taking the top-seeded Chile all the way to tiebreaker - what a truly splendid performance! If I were you, I'd definitely watch out for both teams as the tournament progresses!
 
@@ -121,5 +121,5 @@ That concludes all the matches for this weekend! Good luck to all the remaining 
 And that's all from me this week! It's good to be back writing for the World Cups again, even though I'm a little busy working on some other community projects. If you have any feedback or suggestions, feel free to drop me a PM, or leave a comment down below.
 
 See you next week!
-  
+
 —mangomizer

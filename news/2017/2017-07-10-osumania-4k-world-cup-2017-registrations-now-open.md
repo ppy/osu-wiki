@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!mania 4K World Cup 2017 - Registrations now open!"
+title: osu!mania 4K World Cup 2017 - Registrations now open!
 date: 2017-07-10 12:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/162818010978/osumania-4k-world-cup-2017-registrations-now-open
 ---

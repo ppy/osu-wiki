@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Summer Theme Park 2020 Fanart Contest Results"
+title: Summer Theme Park 2020 Fanart Contest Results
 date: 2020-07-23 11:00:00 +0000
 ---
 
@@ -66,7 +66,7 @@ Long-time crowd favourite [**TofuMang**](https://osu.ppy.sh/users/4817223) retur
 
 [![](https://assets.ppy.sh/contests/107/banners/Dreamxiety.jpg)](https://assets.ppy.sh/contests/107/winners/Dreamxiety.png)
 
-[**Dreamxiety**](https://osu.ppy.sh/users/13103233) nabbed **3826** with their take on a super-excited pippi all pumped up to ride a super-detailed carousel. 
+[**Dreamxiety**](https://osu.ppy.sh/users/13103233) nabbed **3826** with their take on a super-excited pippi all pumped up to ride a super-detailed carousel.
 
 [![](https://assets.ppy.sh/contests/107/banners/snowyani2000.jpg)](https://assets.ppy.sh/contests/107/winners/snowyani2000.png)
 

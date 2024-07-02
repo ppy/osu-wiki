@@ -61,7 +61,7 @@ The applications are always open, so head over to the [Beatmap Nominator website
 
 ### NAT Retirement
 
-After exactly 3 years of serving in the QAT/NAT, [Lasse](https://osu.ppy.sh/users/896613) has decided to step down from his position. 
+After exactly 3 years of serving in the QAT/NAT, [Lasse](https://osu.ppy.sh/users/896613) has decided to step down from his position.
 
 However, he will continue to be present within the mapping and modding community as a Beatmap Nominator. As a consequence, we'll surely witness a huge boost in his modding activity that is already touching the heavens!
 
@@ -113,7 +113,7 @@ May the best and the fastest mapper win!
 
 And that's it for this month's issue of the Mappers' Report! This one was a bit shorter than usual because February was a slow month.
 
-Sadly, we haven't received anything that we could get put into the Around the Community section this month, that's why we left that out. Should you know of anything mapping or modding related, be it guides, podcasts or videos, let us know, as we would love to include them in the next Mappers' Report! 
+Sadly, we haven't received anything that we could get put into the Around the Community section this month, that's why we left that out. Should you know of anything mapping or modding related, be it guides, podcasts or videos, let us know, as we would love to include them in the next Mappers' Report!
 
 You can either directly contact [Feerum](https://osu.ppy.sh/users/4815717) or drop by in the `#mappers-report` channel on the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H).
 

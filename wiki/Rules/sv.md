@@ -37,7 +37,7 @@ Dessa regler är basen vi använder för att hålla osu! communityn en rolig och
 4. **Håll trådar relevanta och undvik att återuppta äldre ämnen om konversationen har dött ut.** Om ett ämne har varit dött i flera år är det inte riktigt relevant längre, så låt det vara. Lägg upp en ny tråd eller sök och se om någon redan kanske har svarat på din fråga.
 5. **Håll dina signaturer och profilbilder rimliga.** Om de är animerade ska de inte blinka för mycket. Bildernas filstorlek bör också vara tillräckligt liten så att användare med långsammare anslutningar inte ska drabbas, helst under en halv megabyte (500 kilobyte) där det är möjligt.
 6. **Lägg inte in annonser, inbjudningslänkar eller något annat irriterande eller påträngande innehåll.** Saker som affiliate- och inbjudningslänkar är roliga för personen som publicerar dem och en irritation för alla andra, så lägg inte upp dem. Innehåll / inbäddningar som spelar eller laddar in automatiskt faller också inom denna regel.
-7. **Länkning till applikationer eller verktyg med osäker avsikt är inte tillåtet.** Enkelt sett, om det råder tvivel hos nämnda applikationer är de inte välkomna att läggas ut. 
+7. **Länkning till applikationer eller verktyg med osäker avsikt är inte tillåtet.** Enkelt sett, om det råder tvivel hos nämnda applikationer är de inte välkomna att läggas ut.
 
 ## Regler för inlämning av Beatmaps
 
@@ -52,7 +52,7 @@ Dessa regler gäller strikt för beatmaps som skickas in via spelets [Beatmap-in
 
 ## Vad händer om jag bryter mot reglerna?
 
-Om du befinner dig på fel slut i våra communityregler, kommer dåliga saker att hända. 
+Om du befinner dig på fel slut i våra communityregler, kommer dåliga saker att hända.
 
 Dessa dåliga saker kan inkludera (*men är inte begränsade till*):
 

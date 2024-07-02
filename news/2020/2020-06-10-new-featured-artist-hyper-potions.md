@@ -8,7 +8,7 @@ Stock up on the healing tunes of our latest Featured Artist, **Hyper Potions!**
 
 ![](https://assets.ppy.sh/artists/85/header.jpg)
 
-Guaranteed to restore at least 120 hitpoints to anyone listening, [**Hyper Potions**](https://osu.ppy.sh/beatmaps/artists/85) is the name chosen by the American producer duo of Ian Tsuchiura (Sushi Killer) and Kevin Villecco. 
+Guaranteed to restore at least 120 hitpoints to anyone listening, [**Hyper Potions**](https://osu.ppy.sh/beatmaps/artists/85) is the name chosen by the American producer duo of Ian Tsuchiura (Sushi Killer) and Kevin Villecco.
 
 If you're a Sonic fan or a connoisseur of rocket-powered vehicles slamming oversized balls into gigantic nets (Rocket League), you've probably heard some of their music before already, not to mention their contributions to various productions from *Cartoon Network*.
 

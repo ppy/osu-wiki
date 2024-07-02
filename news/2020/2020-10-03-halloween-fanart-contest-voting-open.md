@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halloween 2020 Fanart Contest Voting Open!"
+title: Halloween 2020 Fanart Contest Voting Open!
 date: 2020-10-03 01:00:00 +0000
 ---
 

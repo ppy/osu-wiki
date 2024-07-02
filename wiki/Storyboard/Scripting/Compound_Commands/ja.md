@@ -1,3 +1,7 @@
+---
+outdated_translation: true
+---
+
 # Storyboard Scripting Compound Commands
 
 これらは単体では動作をしない複合的なコマンドです。代わりに対象ページに書かれている**他のイベントが起きる条件**が揃えば、セットで書かれているコードが動作するようになります。

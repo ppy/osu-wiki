@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Beatmap Spotlights Winter 2023 Conclusion & Applications"
+title: Beatmap Spotlights Winter 2023 Conclusion & Applications
 date: 2023-03-12 13:00:00 +0000
 ---
 
@@ -12,7 +12,7 @@ After quite some time, the Winter 2023 season has officially concluded. You can 
 
 ## Beatmap Spotlights Curators applications
 
-We are looking for new promising candidates to join the ranks of [Beatmap Spotlights Curators](https://osu.ppy.sh/groups/48). 
+We are looking for new promising candidates to join the ranks of [Beatmap Spotlights Curators](https://osu.ppy.sh/groups/48).
 
 If you're heavily involved in mapping, are an outstanding player or an exceptional tournament mappooler, we'd be excited to check out your application — but don't fret if you don't neatly slot into any of these descriptions, we'd love to hear from you anyway if you're just passionate and wanting to help push the Beatmap Spotlights to the next level.
 

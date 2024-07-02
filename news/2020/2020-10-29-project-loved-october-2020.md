@@ -117,9 +117,9 @@ Funny you should ask, because it seems our friend X a v y has gone above and bey
 230 BPM, 2:49 | 6.67★, 6.88★, 6.97★, 7.06★\
 *description written by [D3kuu](https://osu.ppy.sh/users/7807444)*
 
-Have you ever wondered why Breakcore mapsets are so popular among osu!taiko players and mappers? To easily understand this just look at *kawaii amen girl - issyogaii*, mapped by hoku, with three guest difficulties from KTYN, HEKUSODASU, and Socus. 
+Have you ever wondered why Breakcore mapsets are so popular among osu!taiko players and mappers? To easily understand this just look at *kawaii amen girl - issyogaii*, mapped by hoku, with three guest difficulties from KTYN, HEKUSODASU, and Socus.
 
-This mapset, with its impeccable flow and a similar (but at the same time unique) flair on each difficulty keeps it fresh and embodies the very soul of breakcore. If this isn't enough to make you interested, should I mention the challenge this mapset offers? All the difficulties, with their cleverly placed high BPM bursts and the streamy patterns, can be a real challenge even for experienced players, without sacrificing any fun or playability thanks to all the care put on each difficulty. 
+This mapset, with its impeccable flow and a similar (but at the same time unique) flair on each difficulty keeps it fresh and embodies the very soul of breakcore. If this isn't enough to make you interested, should I mention the challenge this mapset offers? All the difficulties, with their cleverly placed high BPM bursts and the streamy patterns, can be a real challenge even for experienced players, without sacrificing any fun or playability thanks to all the care put on each difficulty.
 
 What are you waiting for? Go play this masterpiece! With names like hoku, quality is the first thing that comes to mind, and for very good reason.
 
@@ -153,9 +153,9 @@ So this month we have yet another map created by Zyzyx, who is fairly known for 
 180 BPM, 4:11 | 7.92★\
 *description written by [Tenshichan](https://osu.ppy.sh/users/1101600)*
 
-Does this map remind you of something? If you have déjà-vu right now, don't worry, you are not crazy. *Anti the EuphoriaHOLiC* by Memoriola is the sequel to *ANTI THE infinite HOLIC*, which was Loved in the beginning of 2019. 
+Does this map remind you of something? If you have déjà-vu right now, don't worry, you are not crazy. *Anti the EuphoriaHOLiC* by Memoriola is the sequel to *ANTI THE infinite HOLIC*, which was Loved in the beginning of 2019.
 
-Not only are the titles of the songs similar, the maps are similar too: if you are familiar with Memoriola's already Loved map, then you know what to expect. There's fast but really creative patterns that are tricky to read and play, which makes getting an FC, let alone a good combo, very hard. The AR being 9.8 also tests your ability to read and react to these insane patterns in time. Overall, this is a really fun map and a nice challenge mostly for experienced players, but that doesn't mean that aspiring players can't have fun with it too! 
+Not only are the titles of the songs similar, the maps are similar too: if you are familiar with Memoriola's already Loved map, then you know what to expect. There's fast but really creative patterns that are tricky to read and play, which makes getting an FC, let alone a good combo, very hard. The AR being 9.8 also tests your ability to read and react to these insane patterns in time. Overall, this is a really fun map and a nice challenge mostly for experienced players, but that doesn't mean that aspiring players can't have fun with it too!
 
 Make sure to give this map a try!
 
@@ -205,7 +205,7 @@ Both difficulties are very well representative of the erratic character of The G
 [goreshit - slavik goblins](https://osu.ppy.sh/beatmapsets/322331#mania) by [stankill](https://osu.ppy.sh/users/2583455) and [Quick Draw](https://osu.ppy.sh/users/3174286)\
 270 BPM, 2:43 | \[4K\] 3.84★, \[4K\] 6.27★
 
-*slavik goblins* is a chart that will give an immediate image to anyone who has been around osu!mania for the last half-decade: unbelievably fast bursts, blistering and dense jumpstream and handstreams, and little to no break to speak of aside from the transition just after the first half (if you could even call that a break). 
+*slavik goblins* is a chart that will give an immediate image to anyone who has been around osu!mania for the last half-decade: unbelievably fast bursts, blistering and dense jumpstream and handstreams, and little to no break to speak of aside from the transition just after the first half (if you could even call that a break).
 
 It got its massive reputation simply by being an extremely difficult, yet doable, challenge, and even today is marked as a skill-check map for stamina, fast jumpstream and handstream by a multitude of high-end players. The added MX difficulty by Quick Draw gives it some appeal to lower-end players as well, and allows for this to be a set accessible set for many players. The map would certainly live up to its expectations as a Loved nomination.
 
@@ -221,7 +221,7 @@ A true relic of its time, *Fubuki*'s a jam-packed LN fiasco, with ridiculous bur
 [Frums - Wavetapper](https://osu.ppy.sh/beatmapsets/866661#mania) by [-mint-](https://osu.ppy.sh/users/8976576)\
 112 BPM, 2:41 | \[4K\] 2.34★, \[4K\] 2.50★
 
-Night and day is one way you could compare this nomination with -mint-'s previous nomination, *Arche*. If that was a was a jam-packed, speedy, brute-force, all-rounded marathon experience, then her map for *Wavetapper* could be considered more of a calm, short and sweet, and tricky test of a particularly niche skill set, SV memorization and accuracy. 
+Night and day is one way you could compare this nomination with -mint-'s previous nomination, *Arche*. If that was a was a jam-packed, speedy, brute-force, all-rounded marathon experience, then her map for *Wavetapper* could be considered more of a calm, short and sweet, and tricky test of a particularly niche skill set, SV memorization and accuracy.
 
 The song itself is quite light, and mint was able to take advantage of that with her light approach to the note layering throughout, giving way for many SV effects that are not only difficult to learn and satisfying to play, but effective in matching the tone and sounds presented within the song. Its popularity as an SV map and use in so many community tournaments (and most recently, even in the 2020 osu!mania World Cup!) is a no-brainer given its simple setup and tricky learning curve, making it the perfect addition to the Loved nominations.
 

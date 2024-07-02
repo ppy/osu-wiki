@@ -8,7 +8,7 @@ Share a moment with us as we acknowledge the best of the best among those who he
 
 ![](/wiki/shared/news/2023-02-17-community-contributors-elite-nominators-2022/header.jpg)
 
-In the osu! community, the Elite titles exist as an acknowledgement given to those who have truly gone above and beyond the pale, achieving incredible feats that lay the ground for the rest of us to follow. These accolades cover a variety of domains, from beatmap nomination, mapping, storyboarding, refereeing and more. 
+In the osu! community, the Elite titles exist as an acknowledgement given to those who have truly gone above and beyond the pale, achieving incredible feats that lay the ground for the rest of us to follow. These accolades cover a variety of domains, from beatmap nomination, mapping, storyboarding, refereeing and more.
 
 Today, we will be acknowledging a handful more of these esteemed individuals whose tireless efforts in the mapping and modding community ensure that all of us have amazing new maps to experience. The following accolades have been compiled and written by members of the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team).
 
@@ -22,7 +22,7 @@ His efforts throughout the year have not gone unnoticed, with his overall perfor
 
 [![](/wiki/shared/news/2023-02-17-community-contributors-elite-nominators-2022/FuJu.jpg)](https://osu.ppy.sh/users/10773882)
 
-One of the most active contributors to beatmap discussions this year, [FuJu](https://osu.ppy.sh/users/10773882) has proven himself to be a top nominator! Even after joining the Nomination Assessment Team, he has consistently kept high activity whilst also maintaining high standards. His modding is always solid and concise, yet thorough and very helpful to mappers of all skill levels. We've seen his huge impact on the ranked scene, and his presence within the Beatmap Nominators has been noticed by many this year! 
+One of the most active contributors to beatmap discussions this year, [FuJu](https://osu.ppy.sh/users/10773882) has proven himself to be a top nominator! Even after joining the Nomination Assessment Team, he has consistently kept high activity whilst also maintaining high standards. His modding is always solid and concise, yet thorough and very helpful to mappers of all skill levels. We've seen his huge impact on the ranked scene, and his presence within the Beatmap Nominators has been noticed by many this year!
 
 Throughout the year, he has been a solid all-rounder, standing out especially for his ample involvement in nomination resets. All this, plus his consistency as a Beatmap Nominator is something we think is well worthy of the Elite Nominator title!
 
@@ -56,15 +56,15 @@ His overall performance was excellent, showcasing a high degree of activity whil
 
 *Note: we are obligated to inform readers that [radar](https://osu.ppy.sh/users/7131099) is responsible for writing this segment.*
 
-[Hivie](https://osu.ppy.sh/users/14102976) is back again to prove that anything is possible with enough shawarma and beautiful anime females. Rising to the top once again and contributing immensely to everything inside and out of the Beatmap Nominators, managing to reach over 200 nominations with barely any issues is just the first thing on his growing list of accomplishments. 
+[Hivie](https://osu.ppy.sh/users/14102976) is back again to prove that anything is possible with enough shawarma and beautiful anime females. Rising to the top once again and contributing immensely to everything inside and out of the Beatmap Nominators, managing to reach over 200 nominations with barely any issues is just the first thing on his growing list of accomplishments.
 
 He has also run some of the most successful mapping contests the mode has ever seen in the form of the [osu!taiko Featured Artist Cup](/wiki/Contests/o!tFAC) and [Mapping to Pander: Taiko](/wiki/Contests/M2P), and created a [Discord bot](https://osu.ppy.sh/community/forums/topics/1604925) for mapping and modding‒related statistics that has seen prevalence in over 380 Discord servers!
 
-Not to mention that this was all done while consistently maintaining his leadership in Project Loved, Beatmap Spotlights, and the Community Mentorship Program. We hope to keep him kidnapped at the NAT headquarters for as long as possible, as who knows what could go wrong if we set him loose upon the world without restraint. 
+Not to mention that this was all done while consistently maintaining his leadership in Project Loved, Beatmap Spotlights, and the Community Mentorship Program. We hope to keep him kidnapped at the NAT headquarters for as long as possible, as who knows what could go wrong if we set him loose upon the world without restraint.
 
 [![](/wiki/shared/news/2023-02-17-community-contributors-elite-nominators-2022/meiqth.jpg)](https://osu.ppy.sh/users/12565402)
 
-Joining the Beatmap Nominators in June 2021, [meiqth](https://osu.ppy.sh/users/12565402) has been consistently performing at a top level with zero signs of slowing down, and to the surprise of no one, they took 2022 by storm with a consistently excellent performance in nominating a very diverse catalogue of over 200 beatmaps, almost entirely without issues. 
+Joining the Beatmap Nominators in June 2021, [meiqth](https://osu.ppy.sh/users/12565402) has been consistently performing at a top level with zero signs of slowing down, and to the surprise of no one, they took 2022 by storm with a consistently excellent performance in nominating a very diverse catalogue of over 200 beatmaps, almost entirely without issues.
 
 Not only satisfied with merely that, they also went out of their way to be one of the very few people to actively tackle the daunting task of quality assurance in order to make sure no sneaky unrankables or quality issues accidentally made their way into the Ranked section, nipping problems in the bud long before they ever get to inconvenience players.
 
@@ -110,7 +110,7 @@ Looking back, he has nominated over 100 maps across all keymodes and various sty
 
 Despite only contributing for a few short months during 2022, [secXcscX](https://osu.ppy.sh/users/13543418)'s main strength shines in full through the fact that he manages to consistently deliver high-value nominations, which nets him to be one of the highest-performing nominators in the entire osu!mania community. One can see his work involving huge spreads and lengthy maps, and it's worth mentioning their diversity in helping a wide pool of unique mappers while we're at it.
 
-Scoring a grand total of 91 nominations, secXcscX is the primary, initial, and early force of the content boost in the community that really opened up plenty of opportunities for new mappers to get their first Ranked map during 2022's great revival. The same holds true for lengthy maps that normally would have gone unnoticed due to the large effort involved in checking them properly. 
+Scoring a grand total of 91 nominations, secXcscX is the primary, initial, and early force of the content boost in the community that really opened up plenty of opportunities for new mappers to get their first Ranked map during 2022's great revival. The same holds true for lengthy maps that normally would have gone unnoticed due to the large effort involved in checking them properly.
 
 His nominations are consistently at a high quality to a level that we think makes him an ideal role model for others in the community, and it is in all these traits together that we figure secXcscX is well deserving of the Elite Nominator title.
 

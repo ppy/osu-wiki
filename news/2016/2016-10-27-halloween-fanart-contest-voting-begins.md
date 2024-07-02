@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halloween Fanart Contest Voting Begins!"
+title: Halloween Fanart Contest Voting Begins!
 date: 2016-10-27 12:41:42 +0000
 tumblr_url: http://osunews.tumblr.com/post/152378031248/halloween-fanart-contest-voting-begins
 ---

@@ -37,7 +37,7 @@ SEV는 [노미네이션 어세스먼트 팀](/wiki/People/Nomination_Assessment_
 
 ## 사용처
 
-SEV 등급은 [비트맵 노미네이터 평가](/wiki/People/Nomination_Assessment_Team/Evaluations)에 사용되며, 비트맵 노미네이터의 노미네이트 횟수에 따라 가중치를 둡니다. 
+SEV 등급은 [비트맵 노미네이터 평가](/wiki/People/Nomination_Assessment_Team/Evaluations)에 사용되며, 비트맵 노미네이터의 노미네이트 횟수에 따라 가중치를 둡니다.
 
 실수는 누구나 할 수 있고, 어느 정도는 학습에 도움이 되지만, 너무 자주 발생하거나 동일한 실수가 반복되면 문제가 됩니다. 그렇기에 개별 SEV 등급에 초점을 두지 않고 사례별로 전체 상황을 고려합니다.
 

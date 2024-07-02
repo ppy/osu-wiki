@@ -82,7 +82,11 @@ Due to the way the [DT](/wiki/Gameplay/Game_modifier/Double_Time) (Double Time) 
 
 #### Unstable rate
 
-`Unstable Rate` represents the consistency of the timing of the hits, where lower numbers are better (top players often score below 100). Note that the value measures consistency, not accuracy, so consistently hitting 15ms early is the same as consistently hitting on time. The formula is essentially the standard deviation of the hit errors (in milliseconds), multiplied by 10. [Sample code](https://gist.github.com/peppy/3a11cb58c856b6af7c1916422f668899) is available as a reference, showing how osu-stable calculates the unstable rate values.
+*Main page: [Unstable rate](/wiki/Gameplay/Unstable_rate)*
+
+`Unstable Rate` (*UR*) displays the [standard deviation](https://en.wikipedia.org/wiki/Standard_deviation) of hit errors, in tenths of a millisecond. A lower UR indicates greater consistency.
+
+Note that consistency is not the same thing as accuracy. While low UR often comes as the result of accurate play, it is possible to get very low UR at the same time as very low accuracy. For example, a player could hit every [object](/wiki/Gameplay/Hit_object) late enough to get a [50](/wiki/Gameplay/Judgement/osu!), but with consistent errors.
 
 ### Spin
 

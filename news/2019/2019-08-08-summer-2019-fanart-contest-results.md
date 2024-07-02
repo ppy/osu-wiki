@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Summer 2019 Fanart Contest Results"
+title: Summer 2019 Fanart Contest Results
 date: 2019-08-08 11:30:00 +0000
 ---
 
@@ -12,7 +12,7 @@ Over ten thousand people flocked to the polls like an ice cream stand at the bea
 
 The following entries will all be featured in the game client as the Summer 2019 seasonal background pack henceforth, and their superbly talented artists have nabbed themselves **2 months of osu!supporter** for coming out on top despite the incredible heat. Summer puns notwithstanding, everybody did a great job this year. Seriously. Awesome stuff.
 
-Let's get right into the winners! 
+Let's get right into the winners!
 
 *Oh, and remember: clicking the preview banners will take you an uncompressed, full-size version of the picture to download for your own use. Check the artist's profiles out for more details on their social media for more of their work if you like what you see!*
 
@@ -43,7 +43,7 @@ Catching the eye of **3686** voters, [**Tachion1**](https://osu.ppy.sh/users/442
 [![](/wiki/shared/news/2019-08-08-summer-2019-fanart-contest-results/KrisyYy.jpg)](https://assets.ppy.sh/contests/79/winners/KrisyYy.png)
 
 **3469** voters craved a visit to the beach, and [**KrisyYy**](https://osu.ppy.sh/users/7266506) gladly delivered with their boba-wielding pippi and pouting Aiko enjoying the summer sun to the maximum. You can really feel the glare from this one. Get it?
- 
+
 [![](/wiki/shared/news/2019-08-08-summer-2019-fanart-contest-results/VoidSynatic.jpg)](https://assets.ppy.sh/contests/79/winners/VoidSynatic.png)
 
 Speaking of travel, **3311** voters approved of [**VoidSynatic**](https://osu.ppy.sh/users/8270353)'s take on Aiko, Tama and Mocha taking the ppy-express to sunlit lands elsewhere. What sort of adventures will the Taiko triplets get up to, I wonder?

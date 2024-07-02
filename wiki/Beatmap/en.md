@@ -47,7 +47,7 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}
 A submitted beatmap belongs to one of the following categories, which may change over time:
 
 - [Graveyard](Category#graveyard)
-- [Work in Progress / Pending](Category#work-in-progress-and-pending)
+- [Work in Progress / Pending](Category#wip-and-pending)
 - [Qualified](Category#qualified)
 - [Ranked](Category#ranked)
 - [Approved](Category#approved)
@@ -91,7 +91,7 @@ osu! players across all game modes use beatmaps to [rank up globally](/wiki/Perf
 - Country-specific ranking made of players bearing the same flag;
 - Friend ranking that shows a player's position on the map compared to their friends.
 
-The top 500 scores on every difficulty of a beatmap provide [replays](/wiki/Gameplay/Replay), which can be watched online or saved for further display in a local leaderboard.
+The top 1000 scores on every difficulty of a beatmap provide [replays](/wiki/Gameplay/Replay), which can be watched online or saved for further display in a local leaderboard.
 
 ### Charts and Spotlights
 

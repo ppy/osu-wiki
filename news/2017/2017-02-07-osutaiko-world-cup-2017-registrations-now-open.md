@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!taiko World Cup 2017 - Registrations now open!"
+title: osu!taiko World Cup 2017 - Registrations now open!
 date: 2017-02-07 20:20:21 +0000
 tumblr_url: http://osunews.tumblr.com/post/156944882668/osutaiko-world-cup-2017-registrations-now-open
 ---

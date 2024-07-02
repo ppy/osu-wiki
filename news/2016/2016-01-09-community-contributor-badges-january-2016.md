@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Community Contributor Badges (January 2016)"
+title: Community Contributor Badges (January 2016)
 date: 2016-01-09 23:32:36 +0000
 tumblr_url: http://osunews.tumblr.com/post/136976187198/community-contributor-badges-january-2016
 ---

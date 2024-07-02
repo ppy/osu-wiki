@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Waifu Jam! Map-Battle Contest"
+title: Waifu Jam! Map-Battle Contest
 date: 2023-04-22 07:00:00 +0000
 ---
 

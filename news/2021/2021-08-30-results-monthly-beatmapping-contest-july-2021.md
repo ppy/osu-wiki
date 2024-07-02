@@ -21,7 +21,7 @@ Both of these mappers were on the cusp of earning the highest prize in the MBC, 
 
 ## osu! finalists
 
-This month's contest took a different approach from our previous contests. Mappers were required to create **2** maps, so our [screeners](/wiki/Contests/Monthly_Beatmapping_Contest#screening) evaluated both maps together, resulting in the **top 6** maps from **44 entries**. 
+This month's contest took a different approach from our previous contests. Mappers were required to create **2** maps, so our [screeners](/wiki/Contests/Monthly_Beatmapping_Contest#screening) evaluated both maps together, resulting in the **top 6** maps from **44 entries**.
 
 [Judges](/wiki/Contests/Monthly_Beatmapping_Contest#judging) were tasked with evaluating those 6 entries (12 maps) separately in all categories *except for theme*, since this contest's theme was focused on the contrast of the two maps. Words are probably making this extra confusing, so explore the results for yourself:
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BN and QAT Restructure"
+title: BN and QAT Restructure
 date: 2019-05-05 19:30:00 +0000
 ---
 
@@ -14,7 +14,7 @@ Changes to the ranking process are nigh! With recent discussions about [changes 
 - The Global Moderation Team (GMT) will now handle beatmap moderation, and as such will also have access to the disqualify button. The GMT will only disqualify beatmaps in cases where they contain inappropriate content.
 - A new usergroup has been added for [probationary Beatmap Nominators](https://osu.ppy.sh/groups/32).
 
-The Nomination Assessment Team are the moderators of the Beatmap Nominators. They are responsible for handling 
+The Nomination Assessment Team are the moderators of the Beatmap Nominators. They are responsible for handling
 BN Applications, creating tests for the applicants, and evaluating the current BN members. They will still have their moderation privileges although it is not their primary focus. They may continue to do the same work as the BNs, however their opinions will not be considered above a regular BN's. They will also be the overseers of beatmap veto mediation if they are not part of the mediating jury.
 
 The primary focus of probationary BNs will be to nominate beatmaps, and so will not have the ability to disqualify beatmaps or take part in mediating vetoes. Moreover, they will be unable to nominate beatmaps with more than one game mode, and a beatmap cannot be qualified by two probationary BNs. New members of the BNs will be placed in probation for approximately one month before their performance is reviewed by the NAT. They will then be promoted to a regular BN, remain in probation, or be removed from the group completely. Members of the regular BNs may also be demoted to probation if their work is found to not meet standards.
@@ -23,7 +23,7 @@ Placing vetoes will continue to work the same, and we encourage regular members 
 
 The [Beatmap Nominator rules](/wiki/People/The_Team/Beatmap_Nominators/Rules) have been updated accordingly for their new tasks, where a full list of changes can found at the bottom of the page. Moreover, work on a score system as a guideline to evaluate Beatmap Nominators starts now and you can expect a new proposal detailing our plans for that soon!
 
-Additionally to this, BN applications will be open indefinitely as of this news post! We have a [new website](http://bn.mappersguild.com/) to deal with BN affairs and mapping related reports. Here, you will be able to submit BN applications, as well as reports against beatmaps and members of the BN and NAT. 
+Additionally to this, BN applications will be open indefinitely as of this news post! We have a [new website](http://bn.mappersguild.com/) to deal with BN affairs and mapping related reports. Here, you will be able to submit BN applications, as well as reports against beatmaps and members of the BN and NAT.
 
 BN applications will still work roughly the same as last time, where you are required to pass an activity check and to complete a test on the [Ranking Criteria](/wiki/Ranking_Criteria) to complete your application. Additionally, there will be a 90 day cooldown for submitting applications once you submit. The results of your application should be sent out as soon as they are processed, however, we expect a larger influx of applications during the initial weeks. Check out [the website](http://bn.mappersguild.com/) to submit an application to join the BN!
 

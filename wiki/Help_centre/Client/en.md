@@ -245,7 +245,7 @@ Try closing any extra programs before playing osu! if you find that your scores 
 
 **Sometimes the statuses of your beatmaps can get messed up, meaning the scores you set on them can't submit.**
 
-In the song select menu, check in the top left of the screen for any small icons (for example, a ranked beatmap should display a blue arrow icon in the top left). If your beatmaps do not display any icon, or display an incorrect icon, then your scores cannot submit. 
+In the song select menu, check in the top left of the screen for any small icons (for example, a ranked beatmap should display a blue arrow icon in the top left). If your beatmaps do not display any icon, or display an incorrect icon, then your scores cannot submit.
 
 ![](img/correct-map-status.png "This is what it should look like")
 

@@ -1,8 +1,8 @@
 # Account-Support-Team
 
-*Für ein Team, welches bestimmte Subforen moderiert, siehe: [Support-Team](/wiki/People/Support_Team)*
+*Für ein Team, welches bestimmte Subforen moderiert, siehe: [Technisches Support-Team](/wiki/People/Technical_Support_Team)*
 
-**Das Account-Support-Team** ist eine Gruppe an Menschen, die Benutzeraccounts verwalten sowie Stummschaltungen und Beschwerden zu Einschränkungen akzeptieren.
+**Das Account-Support-Team** verwaltet Benutzeraccounts und bearbeitet Beschwerden zu Stummschaltungen sowie Einschränkungen.
 
 ## Kontaktmöglichkeit
 
@@ -25,7 +25,7 @@ Du solltest das Team zu Account-bezogenen Themen kontaktieren, über die du kein
   - Entfernung von Beatmaps;
   - Entfernung von Forumsbeiträgen und Kommentaren.
 - Fälle von Fehlverhalten, die du [gestehen möchtest](/wiki/Reporting_bad_behaviour/Handling_foul_play#was-kann-ich-tun,-wenn-ich-die-regeln-gebrochen-habe?).
-- [Verlust des Zugriffs auf die E-Mail](/wiki/Help_centre/Account#sign-in), die mit deinem osu!-Account verbunden ist oder, wenn dein Account gestohlen wurde.
+- [Verlust des Zugriffs auf die E-Mail](/wiki/Help_centre/Account#sign-in), die mit deinem osu!-Account verbunden ist, oder wenn dein Account gestohlen wurde.
 - [Rücksetzungen des Benutzernamens und Rechtschreibfehlerkorrekturen](/wiki/Help_centre/Account#name-changes).
 - [Registrierungen von Bot-Accounts](/wiki/Bot_account).
 - Anfragen für die Versendung von [Ankündigungsnachrichten](/wiki/Announcement_messages).

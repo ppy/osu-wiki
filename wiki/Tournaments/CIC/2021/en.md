@@ -85,8 +85,8 @@ Listed below are players who qualified into the Group stage (along with their re
   2. [DJ TOTTO - Crystalia (Secre) \[Perfect Freeze\]](https://osu.ppy.sh/beatmapsets/1434231#fruits/2951547)
   3. [Toby Fox - Spider Dance (Camellia Remix) (Jemzuu) \[Venom\]](https://osu.ppy.sh/beatmapsets/1530857#fruits/3131176)
   4. [THE ORAL CIGARETTES - Mou Ii Kai? (autofanboy) \[Let's Go!\]](https://osu.ppy.sh/beatmapsets/1530840#fruits/3131141)
-  5. [Kotone - Konkai no Soudo ni Tsukimashite. (captin1) \[halfslashed vtuber\]](https://osu.ppy.sh/beatmapsets/1492398#fruits/3059194) 
-  6. [Masqed Pierrot - THE FAUST (fanzhen0019) \[dounts\]](https://osu.ppy.sh/beatmapsets/1418075#fruits/2921737) 
+  5. [Kotone - Konkai no Soudo ni Tsukimashite. (captin1) \[halfslashed vtuber\]](https://osu.ppy.sh/beatmapsets/1492398#fruits/3059194)
+  6. [Masqed Pierrot - THE FAUST (fanzhen0019) \[dounts\]](https://osu.ppy.sh/beatmapsets/1418075#fruits/2921737)
 - Hidden
   1. [Pizuya's Cell - Inchlings of the Shining Needle \~ Little Princess (Yumeno Himiko) \[Rain\]](https://osu.ppy.sh/beatmapsets/1530944#fruits/3131336)
   2. [KOTOKO - agony (Madoka Ayukawa) \[Fleeting Promise\]](https://osu.ppy.sh/beatmapsets/1530841#fruits/3131142)
@@ -114,8 +114,8 @@ Listed below are players who qualified into the Group stage (along with their re
   2. [LeaF - Paraclete (Du5t) \[Deluge\]](https://osu.ppy.sh/beatmapsets/1524638#fruits/3119443)
   3. [Calliope Mori - Excuse My Rudeness, But Could You Please RIP?\<3 (t+pazolite Remix) (-Joakh) \[Rustyy's Deluge\]](https://osu.ppy.sh/beatmapsets/1493146#fruits/3060937)
   4. [Mutsuhiko Izumi - Tengoku to Jigoku (ZHSteven) \[Jigoku\]](https://osu.ppy.sh/beatmapsets/22137#fruits/1693767)
-  5. [Atogoru - Outer Science (fanzhen0019) \[Dead End\]](https://osu.ppy.sh/beatmapsets/667055#fruits/1411573) 
-  6. [Ashrount - Cataraxir (Realazy) \[Abyss\]](https://osu.ppy.sh/beatmapsets/1276331#fruits/2651798) 
+  5. [Atogoru - Outer Science (fanzhen0019) \[Dead End\]](https://osu.ppy.sh/beatmapsets/667055#fruits/1411573)
+  6. [Ashrount - Cataraxir (Realazy) \[Abyss\]](https://osu.ppy.sh/beatmapsets/1276331#fruits/2651798)
 - Hidden
   1. [Bao.Uner - Long Men Nao Shi - Xiao (Yumeno Himiko) \[Lungmen Downtown\]](https://osu.ppy.sh/beatmapsets/1359694#fruits/2813632)
   2. [MYUKKE. - Ginevra (autofanboy) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1471164#fruits/3020273)
@@ -143,7 +143,7 @@ Listed below are players who qualified into the Group stage (along with their re
   2. [xi - Bad Elixir (Nelly) \[Alchemistry\]](https://osu.ppy.sh/beatmapsets/1297551#fruits/2691794)
   3. [nomico - Bad Apple!! (ZHSteven) \[fruit\]](https://osu.ppy.sh/beatmapsets/24829#fruits/84285)
   4. [hololive IDOL PROJECT - Shiny Smily Story (Hollow Wings) \[Swan Song\]](https://osu.ppy.sh/beatmapsets/1296110#fruits/2689177)
-  5. [xi - Last Resort (Kroytz) \[Real's GRAVITY\]](https://osu.ppy.sh/beatmapsets/800102#fruits/1679794) 
+  5. [xi - Last Resort (Kroytz) \[Real's GRAVITY\]](https://osu.ppy.sh/beatmapsets/800102#fruits/1679794)
 - Hidden
   1. [Yorushika - Amy (autofanboy) \[Overcast Skies\]](https://osu.ppy.sh/beatmapsets/1191707#fruits/2483298)
   2. [siqlo feat. Norico - Growth Call (Jemzuu) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1276854#fruits/2652869)
@@ -168,7 +168,7 @@ Listed below are players who qualified into the Group stage (along with their re
   2. [Inugami Korone & Nekomata Okayu - Hyadain no Joujou Yuujou (Cut Ver.) (My Angel RangE) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1413067#fruits/2912709)
   3. [Tatsh - Xepher (Nazalion) \[Rain+\]](https://osu.ppy.sh/beatmapsets/134486#fruits/337282)
   4. [Kage - FIRST (happy30) \[hatteke30's Extra\]](https://osu.ppy.sh/beatmapsets/194107#fruits/461048)
-  5. [Eagle - S!ck (fanzhen0019) \[123\]](https://osu.ppy.sh/beatmapsets/788035#fruits/1653964) 
+  5. [Eagle - S!ck (fanzhen0019) \[123\]](https://osu.ppy.sh/beatmapsets/788035#fruits/1653964)
 - Hidden
   1. [YOASOBI - Yasashii Suisei (Crowley) \[The Mutual Connection of Two Exceptional Falling Stars\]](https://osu.ppy.sh/beatmapsets/1411580#fruits/2910097)
   2. [Hyuji feat. LIQU@. - Mermaid girl (Tropical Remix) (Ascendance) \[Brunoob's MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1244353#fruits/2586681)
@@ -391,7 +391,7 @@ Monday, 5 July 2021:
    - Whether there are players who are disqualified from the tournament.
 7. Two players who placed on top of their respective groups' rankings based on the criteria listed above will advance to the Knock-out stage.
 
-### Knock-out stage rules 
+### Knock-out stage rules
 
 1. The eight Group stage winners will be matched to the eight Group stage runners-up at random; that is, instead of following a predetermined match-up format (A1 vs H2, B1 vs G2, and so on), all the match-ups will be based on the result of a livestreamed [random.org](http://www.random.org/lists/) draw.
 2. Players will compete against each other using the Double Elimination system.

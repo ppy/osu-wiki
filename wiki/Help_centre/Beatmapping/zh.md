@@ -29,7 +29,7 @@ tags:
 
 这将把你的谱面上传至网站并允许其他人下载。更新谱面的方式与上传方式相同。
 
-每个用户可以同时上传的谱面数量有限。通过不更新谱面的方式，闲置谱面一个月（28天），即可将其变为[坟场 (Graveyard)](/wiki/Beatmap/Category#坟场-(graveyard))状态。若要让一张坟场 (Graveyard) 谱面回到制作中或待定 (Work in Progress and Pending) 状态，只要更新它即可。
+每个用户可以同时上传的谱面数量有限。通过不更新谱面的方式，闲置谱面一个月（28天），即可将其变为[坟场 (Graveyard)](/wiki/Beatmap/Category#graveyard)状态。若要让一张坟场 (Graveyard) 谱面回到制作中或待定 (Work in Progress and Pending) 状态，只要更新它即可。
 
 ## 编辑器告诉我 “你正在提交的地图并不属于你！” {id=wrong-author}
 

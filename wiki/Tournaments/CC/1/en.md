@@ -93,7 +93,7 @@ This competition has come to an end and resulted in the following podium:
   1. [Blue Stahli - Shotgun Senorita (Zardonic Remix) (Aleks719) [Insane]](https://osu.ppy.sh/beatmapsets/65853#osu/192508)
   2. [Feint - Tower Of Heaven (eLy) [Extra]](https://osu.ppy.sh/beatmapsets/128931#osu/847314)
 - Tiebreaker
-  1. **[Equilibrium - Waldschrein (Maakkeli) [Mein Land]](https://osu.ppy.sh/beatmapsets/369354#osu/809469)**  
+  1. **[Equilibrium - Waldschrein (Maakkeli) [Mein Land]](https://osu.ppy.sh/beatmapsets/369354#osu/809469)**
 
 ### Semifinals
 
@@ -116,7 +116,7 @@ This competition has come to an end and resulted in the following podium:
   1. [Telekinesis - The Monk (FCL) [Technique of Shadow]](https://osu.ppy.sh/beatmapsets/381529#osu/834589)
   2. [IRON ATTACK! - Future is Undefined (Kite) [Insane]](https://osu.ppy.sh/beatmapsets/32447#osu/106156)
 - Tiebreaker
-  1. **[SawanoHiroyuki[nZk]:Gemie - x.U. (ETIA. Hardcore Bootleg Remix) (captin1) [Shinoa]](https://osu.ppy.sh/beatmapsets/331872#osu/735021)**  
+  1. **[SawanoHiroyuki[nZk]:Gemie - x.U. (ETIA. Hardcore Bootleg Remix) (captin1) [Shinoa]](https://osu.ppy.sh/beatmapsets/331872#osu/735021)**
 
 ### Quarterfinals
 
@@ -139,7 +139,7 @@ This competition has come to an end and resulted in the following podium:
   1. [Big Giant Circles feat. some1namedjeff - Thunderstruck (Charles445) [Insane]](https://osu.ppy.sh/beatmapsets/73267#osu/208776)
   2. [ALiCE's EMOTiON - Mami Mami Zone (Mixagji) [0108]](https://osu.ppy.sh/beatmapsets/43728#osu/147377)
 - Tiebreaker
-  1. **[Infected Mushroom - The Pretender (RLC) [Pretender]](https://osu.ppy.sh/beatmapsets/79498#osu/221777)**  
+  1. **[Infected Mushroom - The Pretender (RLC) [Pretender]](https://osu.ppy.sh/beatmapsets/79498#osu/221777)**
 
 ### Round of 16
 
@@ -162,7 +162,7 @@ This competition has come to an end and resulted in the following podium:
   1. [CLIFF EDGE feat. Nakamura Maiko - Endless Tears (Rakuen) [Insane]](https://osu.ppy.sh/beatmapsets/123489#osu/321506)
   2. [DJ Ozawa - Tokyo (Innovaderz Remix) (Asphyxia) [Aka's Insane]](https://osu.ppy.sh/beatmapsets/333139#osu/766602)
 - Tiebreaker
-  1. **[Demetori - Kuuchuu ni Shizumu Kishinjou \~ Counter-Clock World (jonathanlfj) [Lunatic Collab]](https://osu.ppy.sh/beatmapsets/347719#osu/818597)**  
+  1. **[Demetori - Kuuchuu ni Shizumu Kishinjou \~ Counter-Clock World (jonathanlfj) [Lunatic Collab]](https://osu.ppy.sh/beatmapsets/347719#osu/818597)**
 
 ### Qualifiers
 
@@ -178,7 +178,7 @@ This competition has come to an end and resulted in the following podium:
 
 Sunday, 19 June 2016:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **rafalbrew** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: Pelzio | [#1](https://osu.ppy.sh/community/matches/25744050) |
 
@@ -186,7 +186,7 @@ Sunday, 19 June 2016:
 
 Sunday, 19 June 2016:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **zelda101** ::{ flag=US }:: | **4** | 0 | ::{ flag=GB }:: dong | [#1](https://osu.ppy.sh/community/matches/25744734) |
 
@@ -194,7 +194,7 @@ Sunday, 19 June 2016:
 
 Sunday, 19 June 2016:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | zelda101 ::{ flag=US }:: | 2 | **4** | ::{ flag=GB }:: **rafalbrew** | [#1](https://osu.ppy.sh/community/matches/25742222) |
 | **Pelzio** ::{ flag=GB }:: | **4** | 3 | ::{ flag=GB }:: dong | [#1](https://osu.ppy.sh/community/matches/25743314) |
@@ -203,7 +203,7 @@ Sunday, 19 June 2016:
 
 Sunday, 19 June 2016:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Seraxis ::{ flag=GB }:: | 3 | **4** | ::{ flag=US }:: **zelda101** | [#1](https://osu.ppy.sh/community/matches/25737972) |
 | **Pelzio** ::{ flag=GB }:: | **4** | 1 | ::{ flag=US }:: MicMck101 | [#1](https://osu.ppy.sh/community/matches/25739013) |
@@ -214,7 +214,7 @@ Sunday, 19 June 2016:
 
 Saturday, 18 June 2016:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Atrocious ::{ flag=SE }:: | 3 | **4** | ::{ flag=GB }:: **dong** | [#1](https://osu.ppy.sh/community/matches/25710268) |
 | Sopison ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **djsettle** | [#1](https://osu.ppy.sh/community/matches/25711194) |

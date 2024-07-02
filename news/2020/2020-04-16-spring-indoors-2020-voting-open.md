@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring Indoors 2020 Fanart Voting Now Open!"
+title: Spring Indoors 2020 Fanart Voting Now Open!
 date: 2020-04-16 14:00:00 +0000
 ---
 

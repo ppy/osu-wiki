@@ -48,7 +48,7 @@ Try [this classic map](https://osu.ppy.sh/beatmapsets/616023) hosted by [Hobbes2
 
 We'd like to congratulate you for retaining the attention span to read this much text. As a reward, feel free to enjoy any of the beatmap templates on [**Koven**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/293).
 
-If new music is what you're after, the [@osugame Twitter](https://twitter.com/osugame) has updates on all of our new Featured Artists as soon as they're released. Check that out or repeatedly refresh the osu! home page until Saturday. 
+If new music is what you're after, the [@osugame Twitter](https://twitter.com/osugame) has updates on all of our new Featured Artists as soon as they're released. Check that out or repeatedly refresh the osu! home page until Saturday.
 
 See you then!
 

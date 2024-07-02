@@ -8,7 +8,7 @@ no_native_review: true
 
 La **osu! World Cup 2013** (***OWC 2013***) fue un torneo organizado por el [Gerente del torneo](https://osu.ppy.sh/groups/26). Empezó el 15 de octubre de 2013 y finalizó el 8 de diciembre de 2013. El defensor del título es ::{ flag=KR }:: **Corea del Sur**.
 
-| Posición  | País |
+| Posición | País |
 | :-- | :-- |
 | ![Gold Crown](/wiki/shared/crown-gold.png "1er lugar") | ::{ flag=KR }:: **Corea del Sur** |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2do lugar") | ::{ flag=TW }:: **Taiwán** |
@@ -490,7 +490,7 @@ Domingo, 10 de noviembre de 2013:
 ### Instrucciones de programación
 
 1. Cada fase se llevará a cabo en **un solo fin de semana** (consulte el calendario del torneo en la parte superior)
-2. En la fase de grupos, las primeras partidas se disputarán el viernes (8 de noviembre), el segundo el sábado (9 de noviembre), el tercero el domingo (10 de noviembre) 
+2. En la fase de grupos, las primeras partidas se disputarán el viernes (8 de noviembre), el segundo el sábado (9 de noviembre), el tercero el domingo (10 de noviembre)
    - Las partidas de la fase de grupos pueden coincidir
 3. Todas las Fases Eliminatorias se llevarán a cabo el sábado o el domingo (consulte el calendario del torneo).
 4. La programación estará a cargo del Gerente del torneo. Los horarios se publicarán el domingo anterior a las primeras partidas de la fase real (por ejemplo, el 3 de noviembre para la fase de grupos). El Gerente del torneo intentará crear el horario para respetar la zona horaria del participante.

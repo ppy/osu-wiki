@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Hush-Hush Medals!"
+title: New Hush-Hush Medals!
 date: 2016-08-17 11:04:29 +0000
 tumblr_url: http://osunews.tumblr.com/post/149074719383/new-hush-hush-medals
 ---

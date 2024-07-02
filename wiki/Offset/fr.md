@@ -9,13 +9,13 @@ Selon le type de décalage, il est défini par le créateur de la beatmap, perso
 ### Gameplay
 
 - [Local offset](/wiki/Offset/Local_offset), un paramètre par beatmap qui décale tous les éléments de gameplay par rapport à la piste audio.
-- [Online offset](/wiki/Offset/Online_offset), un changement de timing appliqué par la [NAT](/wiki/People/Nomination_Assessment_Team) aux beatmaps [classées](/wiki/Beatmap/Category#classée) avec un décalage de beatmap incorrect afin de l'ajuster.
+- [Online offset](/wiki/Offset/Online_offset), un changement de timing appliqué par la [NAT](/wiki/People/Nomination_Assessment_Team) aux beatmaps [classées](/wiki/Beatmap/Category#ranked) avec un décalage de beatmap incorrect afin de l'ajuster.
 - [Universal offset](/wiki/Offset/Universal_offset), un paramètre qui affecte globalement le timing des beatmaps en décalant la piste audio par rapport à tous les autres éléments du jeu.
 
 ### Mapping
 
-- [Points de timing non hérités](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) ("ligne rouge"), le début d'une nouvelle [timing section](/wiki/Client/Beatmap_editor/Timing). Les points de timing se situent à un décalage par rapport au début du fichier audio, mais ce point de timing est parfois appelé "décalage".
-- [Points de timing hérités](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) ("ligne verte"), une [timing section](/wiki/Client/Beatmap_editor/Timing) qui contrôle des paramètres tels que le [kiai](/wiki/Gameplay/Kiai_time), le [sampleset](/wiki/Beatmapping/Sampleset), la [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), et le niveau de volume des hitsounds.
+- [Points de timing non hérités](/wiki/Client/Beatmap_editor/Timing#point-de-timing-non-hérité) ("ligne rouge"), le début d'une nouvelle [timing section](/wiki/Client/Beatmap_editor/Timing). Les points de timing se situent à un décalage par rapport au début du fichier audio, mais ce point de timing est parfois appelé "décalage".
+- [Points de timing hérités](/wiki/Client/Beatmap_editor/Timing#point-de-timing-hérité) ("ligne verte"), une [timing section](/wiki/Client/Beatmap_editor/Timing) qui contrôle des paramètres tels que le [kiai](/wiki/Gameplay/Kiai_time), le [sampleset](/wiki/Beatmapping/Sampleset), la [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), et le niveau de volume des hitsounds.
 - Beatmap offset, le temps entre le début du fichier audio et le premier [downbeat](/wiki/Music_theory/Downbeat) de la chanson, tel que contrôlé par les points de timing.
 
 ## Paramètres de beatmap

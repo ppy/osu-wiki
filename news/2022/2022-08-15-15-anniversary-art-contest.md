@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "15th Anniversary Art Contest"
+title: 15th Anniversary Art Contest
 date: 2022-08-15 12:00:00 +0000
 ---
 

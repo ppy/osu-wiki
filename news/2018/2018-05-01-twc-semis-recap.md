@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!taiko World Cup - Semifinals Recap"
+title: osu!taiko World Cup - Semifinals Recap
 date: 2018-05-05 10:30:00 +0000
 ---
 
@@ -35,7 +35,7 @@ A few reflections on the cup by the Australian player [Jaye](https://osu.ppy.sh/
 
 *My best mod is Hidden, but since 2 of our HardRock players were absent I had to limit myself and play the mod I dislike the most. As much as I dislike HardRock as a mod in general, [Jikininki](https://osu.ppy.sh/beatmapsets/415048/#taiko/899485) is the first map and only map so far to actually make me not only enjoy HardRock, but actually want to play it. Finally, I might as well add that [Nov 29](https://osu.ppy.sh/beatmapsets/741465#taiko/1564247) was an amazing HD pick and I feel no sympathy towards everyone that struggled on it.*
 
-In the last match of the weekend, the journey of the last European team came to an end. Canada had a player fail on the HardRock map [Whispered - Strike!](https://osu.ppy.sh/beatmapsets/713086#taiko/1507092) for the second time this weekend, but besides that they didn't give Spain any way into the game and could close it out more convincingly than in their match against Hong Kong. It ended 6-1 for the Canadians.  
+In the last match of the weekend, the journey of the last European team came to an end. Canada had a player fail on the HardRock map [Whispered - Strike!](https://osu.ppy.sh/beatmapsets/713086#taiko/1507092) for the second time this weekend, but besides that they didn't give Spain any way into the game and could close it out more convincingly than in their match against Hong Kong. It ended 6-1 for the Canadians.
 
 ### Semifinals Mappool
 

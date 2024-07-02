@@ -28,7 +28,7 @@ Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1294825) hosted by 
     <source src="https://assets.ppy.sh/artists/115/previews/2990.mp3" type="audio/mpeg">
 </audio>
 
-### BLOOD CODE, HEKTI, GrooveCube - STAGE CLEAR 
+### BLOOD CODE, HEKTI, GrooveCube - STAGE CLEAR
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/115/previews/2987.mp3" type="audio/mpeg">

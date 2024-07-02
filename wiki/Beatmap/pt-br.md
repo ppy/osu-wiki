@@ -47,14 +47,14 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}
 
 Um beatmap enviado pertence a uma das seguintes categorias, que podem mudar ao longo do tempo:
 
-- [Cemitério](Category#cemitério-(enterrados))
-- [Em progresso / Pendente](Category#pendente)
-- [Qualificado](Category#qualificados)
-- [Ranqueado](Category#ranqueados)
-- [Aprovado](Category#aprovados)
-- [Loved](Category#amados)
+- [Cemitério](Category#graveyard)
+- [Em progresso / Pendente](Category#wip-and-pending)
+- [Qualificado](Category#qualified)
+- [Ranqueado](Category#ranked)
+- [Aprovado](Category#approved)
+- [Loved](Category#loved)
 
-Algumas categorias têm [critérios de envio](/wiki/Ranking_criteria) e permitem os *beatmaps* de terem [tabelas de classificação](#tabelas-de-classificação) momentâneos ou permanentes. A forma mais popular de alcançar isso é o [processo de rankeamento de beatmap](/wiki/Beatmap_ranking_procedure), enquanto a segunda opção é ter o beatmap [loved](Category#amados).
+Algumas categorias têm [critérios de envio](/wiki/Ranking_criteria) e permitem os *beatmaps* de terem [tabelas de classificação](#tabelas-de-classificação) momentâneos ou permanentes. A forma mais popular de alcançar isso é o [processo de rankeamento de beatmap](/wiki/Beatmap_ranking_procedure), enquanto a segunda opção é ter o beatmap [loved](Category#loved).
 
 ## Baixando beatmaps
 
@@ -93,7 +93,7 @@ Jogadores de osu! entre todos os modos de jogo usam beatmaps para [subir de rank
 - Ranking por país composto por jogadores de uma mesma bandeira;
 - Ranking de amigos que mostra a posição de um jogador em relação a seus amigos.
 
-O top 500 em cada dificuldade tem [replays](/wiki/Gameplay/Replay), que podem ser assistidos online ou salvos para exibição posterior em uma tabela de classificação local.
+O top 1000 em cada dificuldade tem [replays](/wiki/Gameplay/Replay), que podem ser assistidos online ou salvos para exibição posterior em uma tabela de classificação local.
 
 ### Charts e Spotlights
 

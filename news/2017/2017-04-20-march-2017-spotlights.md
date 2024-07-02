@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "March 2017 Spotlights"
+title: March 2017 Spotlights
 date: 2017-04-20 09:37:07 +0000
 tumblr_url: http://osunews.tumblr.com/post/159784843033/march-2017-spotlights
 ---

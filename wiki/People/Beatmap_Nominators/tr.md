@@ -14,7 +14,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 
 ## Roller ve sorumluluklar
 
-Beatmap Aday Göstericiler üyeleri temel olarak [beklemedeki beatmaplerin](/wiki/Beatmap/Category#yapım-aşamasında-ve-beklemede) [modlanmasından](/wiki/Modding) ve onların derecelendirme sürecine dahil olması için gereken onay işleminden sorumludur. Beatmap Aday Göstericiler mapleme ve modlama ile ilgili her türlü konuda tavsiye isteyebileceğiniz ve istekte bulunabileceğiniz kişilerdir. Herhangi bir Beatmap Aday Gösterici eğer aday gösterilmiş bir beatmapin Derecelendirme Kriterlerini doğrudan çiğnemeyen ama düzeltilmesi gereken sorunları olduğunu düşünüyorsa bir [beatmap vetosu](Beatmap_Veto) oluşturabilir.
+Beatmap Aday Göstericiler üyeleri temel olarak [beklemedeki beatmaplerin](/wiki/Beatmap/Category#wip-and-pending) [modlanmasından](/wiki/Modding) ve onların derecelendirme sürecine dahil olması için gereken onay işleminden sorumludur. Beatmap Aday Göstericiler mapleme ve modlama ile ilgili her türlü konuda tavsiye isteyebileceğiniz ve istekte bulunabileceğiniz kişilerdir. Herhangi bir Beatmap Aday Gösterici eğer aday gösterilmiş bir beatmapin Derecelendirme Kriterlerini doğrudan çiğnemeyen ama düzeltilmesi gereken sorunları olduğunu düşünüyorsa bir [beatmap vetosu](Beatmap_Veto) oluşturabilir.
 
 Ek olarak, tüm Beatmap Aday Göstericilerin, [Beatmap Aday Göstericiler için Beklentiler makalesinde](Expectations) bahsedildiği gibi, geniş bir yelpazede yer alan çeşitli maplere ve mapperlara dikkatlerini kayırarak topluluğun daha büyük bir kısmına hizmet etmeye odaklanmış bir dizi ilkeye uyması, ve yapıtlarını sürekli olarak geliştirmek adına çaba sarfetmesi beklenir.
 

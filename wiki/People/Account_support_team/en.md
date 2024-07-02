@@ -1,6 +1,6 @@
 # Account support team
 
-*For a team that moderates certain subforums, see: [Support Team](/wiki/People/Support_Team)*
+*For a team that moderates certain subforums, see: [Technical Support Team](/wiki/People/Technical_Support_Team)*
 
 **The account support team** is a group of people administering user accounts, as well as accepting silence and restriction appeals.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Are huge sets a problem?"
+title: Are huge sets a problem?
 date: 2016-08-26 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/149506493485/are-huge-sets-a-problem
 ---
@@ -22,7 +22,8 @@ People with not-bubbled sets were asked to restructure their sets to obey these 
 
 What I mean with this is the following: Unless you are a really known mapper or your difficulty is a fundamentally different approach to the song, these Extras around the same difficulty level will be played based on popularity of the mapper and a few of them will get relatively low exposure in comparison to others.
 
-Having multiple Extras/Insanes which are about equally difficult gives people no real incentive to play / choose either depending on their skill level, but rather on which of these mappers is the most known / popular / creative.  
+Having multiple Extras/Insanes which are about equally difficult gives people no real incentive to play / choose either depending on their skill level, but rather on which of these mappers is the most known / popular / creative.
+
 Examples:
 
 ![Number of plays from xi - Blue Zenith (Augest 17, 2015)](/wiki/shared/news/2016-08-26-are-huge-sets-a-problem/tumblr_inline_p7ph2m4axH1usyjz5_540.png)

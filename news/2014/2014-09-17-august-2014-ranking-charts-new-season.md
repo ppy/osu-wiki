@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "August 2014 Ranking Charts - New Season!"
+title: August 2014 Ranking Charts - New Season!
 date: 2014-10-01 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/97724510253/august-2014-ranking-charts-new-season
 ---

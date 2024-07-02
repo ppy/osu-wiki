@@ -27,7 +27,7 @@ Ce tutoriel est destiné à ceux qui **ne peuvent pas** trouver la vidéo ailleu
 
 ```cmd
 youtube-dl -f bestvideo <video link>
-``` 
+```
 
 ![Télécharger des vidéos YouTube avec youtube-dl](img/example.jpg "Télécharger des vidéos YouTube avec youtube-dl")
 
