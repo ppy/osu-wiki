@@ -43,7 +43,7 @@ La tasa de drenaje de HP (HP) determina la cantidad de recuperación de salud o 
 
 El tamaño del círculo (CS) determina el tamaño de los objetos en osu! y osu!catch, donde los valores más altos hacen que los objetos sean más pequeños. Aunque el editor limita el CS a un rango de 2 a 7, es posible superar el límite editando manualmente el archivo [`.osu`](/wiki/Client/File_formats/osu_(file_format)) de la dificultad. El tamaño del círculo no tiene ningún efecto en osu!taiko.
 
-En los beatmaps [específicos de osu!mania](#modo-específico), el tamaño del círculo se sustituye por el número de teclas (indicado con K, como 4K para 4 teclas), que define el número de columnas del campo de juego. Al marcar la casilla `Co-op mode` se duplicará la cantidad seleccionada en ese momento (a partir de 5), llegando a un total de 10K (5), 12K (6), 14K (7), 16K (8) y 18K (9).
+En los beatmaps [específicos de osu!mania](#modo-específico-(mode-specific)), el tamaño del círculo se sustituye por el número de teclas (indicado con K, como 4K para 4 teclas), que define el número de columnas del campo de juego. Al marcar la casilla `Co-op mode` se duplicará la cantidad seleccionada en ese momento (a partir de 5), llegando a un total de 10K (5), 12K (6), 14K (7), 16K (8) y 18K (9).
 
 ### Velocidad de aproximación (Approach rate)
 
@@ -83,7 +83,7 @@ Efectos adicionales del aumento del OD en cada modo de juego:
 | Botones de hitsounds | Reproduce los hitounds que se van a usar. |
 | `Samples match playback rate` | Modifica el tono y el tempo de los hitsounds cuando cambia la velocidad del beatmap (tanto en el editor como en el juego). |
 
-## Colores (Colours)
+## Colores
 
 ![Captura de pantalla de la pestaña Colours](img/SS_Colours.jpg "Pestaña Colours")
 
@@ -101,7 +101,7 @@ Los colores de los combos solo tienen efecto en osu! y osu!catch.
 | `Remove Combo Colour` | Elimina el último color del conjunto. |
 | `Background Colour` | Cambia el color del campo de juego en blanco. |
 
-## Diseño (Design)
+## Diseño
 
 ![Captura de pantalla de la pestaña Design](img/SS_Design.jpg "Pestaña Design")
 
@@ -118,7 +118,7 @@ Los colores de los combos solo tienen efecto en osu! y osu!catch.
 | `Letterbox during breaks` | Oculta la parte superior e inferior del fondo detrás de [barras negras](https://es.wikipedia.org/wiki/Letterbox) durante los [descansos](/wiki/Beatmap/Break). *Nota: este ajuste no está permitido para beatmaps específicos de osu!mania.* |
 | `Preferred skin` | Cambia temporalmente a la skin con este nombre cuando se inicia el beatmap. Si no se encuentra, muestra una advertencia en su lugar y se ejecuta con la skin activa del jugador. *Nota: se recomienda colocar los elementos de la skin directamente en la carpeta del beatmap.* |
 
-## Avanzado (Advanced)
+## Avanzado
 
 ![Captura de pantalla de la pestaña Advanced](img/SS_Advanced.jpg "Pestaña Advanced")
 
