@@ -19,7 +19,7 @@ The **Lazer Grand Arena** (***LGA***) is an osu!(lazer) tournament hosted by the
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2024-06-18 (10:00 UTC)/2024-07-01 (23:59 UTC) |
-| Qualifier and tournament format showcase | 2024-07-07 (14:00 UTC) |
+| Qualifier and tournament format showcase | 2024-07-07 (17:00 UTC) |
 | Qualifier stage | 2024-07-13/2024-07-14 |
 | Bracket stage (single elimination) | 2024-07-20/2024-07-21 |
 | Top 8 (single elimination)/top 4 (double elimination) | 2024-07-27/2024-07-28 |
@@ -50,9 +50,13 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 
 ## Links
 
-- **[Sign up here](https://osu.ppy.sh/community/tournaments/45)**
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1936749)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Tournament listing](https://osu.ppy.sh/community/tournaments/45)
+
+## Participants
+
+The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/8475d0c316b1ea7c1cb66ca93902d810).
 
 ## Ruleset
 
