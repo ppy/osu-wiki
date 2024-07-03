@@ -40,7 +40,7 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
 | Mappool selector | ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [StayMusical](https://osu.ppy.sh/users/12688176), ::{ flag=US }:: [Lifan Li](https://osu.ppy.sh/users/4050359) |
 | Playtester | *to be announced* |
 | Streamer | ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938) |
-| Commentator | ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938),::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627), ::{ flag=ID }:: [DAMB-](https://osu.ppy.sh/users/14748550), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) |
+| Commentator | ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627), ::{ flag=ID }:: [DAMB-](https://osu.ppy.sh/users/14748550), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) |
 | Referee | ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434), ::{ flag=ID }:: [dhimas arya](https://osu.ppy.sh/users/7108145), ::{ flag=ID }:: [BeefyNoragami](https://osu.ppy.sh/users/11065629), ::{ flag=NL }:: [Miya the turtle](https://osu.ppy.sh/users/13032176) |
 | Graphic designer | ::{ flag=ID }:: [hikimaruy](https://osu.ppy.sh/users/9510067) |
 | Spreadsheet manager | ::{ flag=HK }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866) |
