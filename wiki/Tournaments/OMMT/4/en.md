@@ -124,7 +124,7 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 ### General rules
 
 1. This tournament is a is a 1v1, Team Size 2, double-elimination tournament, played with Score V2 & Team VS enforced.
-2. This tournament will use a Ban & Protect system, details regarding this topic is explained further in [Protecting & Banning](#protecting--banning) section.
+2. This tournament will use a Ban & Protect system, details regarding this topic is explained further in [Protecting and Banning](#protecting-and-banning) section.
 3. A pool-based gimmick is implemented, with certain map(s) getting altered every pool.
 4. Teams must be below the average pp cap of 12,000pp in osu!mania 4K after Badged Weighted Seeding (BWS) the moment registration concludes to be allowed to participate in this tournament.
 5. Badged Weighted Seeding (BWS) is in effect for this tournament, and the formula is as following: `pp * (2 - rank ** (0.9937 ** (badges ** 1.75) - 1))`.
@@ -165,7 +165,7 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 3. Warmups must not exceed more than 4:00 in length and must be an osu!mania beatmap. Players cannot pick or use a provocative warmup to ensure that the live stream is family friendly to watch.
 4. Players **cannot play more than 3 maps in a row** during a match.
 
-#### Protecting & Banning
+#### Protecting and Banning
 
 1. The player will be required to roll for protecting and banning maps for a total of protecting 2 maps and banning 1 map. The player with the highest roll will be allowed to protect a map of their choice first, as well being able to ban first, this is a bit complicated so please don't hesitate to ask in the discord server if you do not understand this explanation.
 2. A player cannot protect 2 maps of the same type (ex: player 1 protects HB1, now player 1 cannot protect any of the remaining hybrids), this rule applies to each person individually. Sequence example are shown in table below:
