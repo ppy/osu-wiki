@@ -588,6 +588,6 @@ Detailed information on the standings of the Qualifier stage can be found in [th
    - Playing the tiebreaker map with a mod is *not* mandatory.
 7. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
 
-[^stage-note-1]: Also referred to as "Friend" stage throughout the tournament.
-[^stage-note-2]: Also referred to as "Girl Friend" stage throughout the tournament.
+[^stage-note-1]: Also referred to as the "Friend" stage throughout the tournament.
+[^stage-note-2]: Also referred to as the "Girlfriend" stage throughout the tournament.
 [^qual-note-1]: Average score across all ten Qualifier beatmaps: Square Hector Berlioz 1,655,815, Oregono State University 1,624,806.
