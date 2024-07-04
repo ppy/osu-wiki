@@ -32,8 +32,6 @@ The **Donut Cup** is double-elimination 2v2 osu! tournament hosted by ::{ flag=C
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Custom-made profile banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Custom-made profile banner |
 
-![](img/badge.jpg "o!cCO 2023 winner badge")
-
 ## Organisation
 
 The Donut Cup is run by various osu! community members from all over the world.
@@ -535,7 +533,7 @@ Detailed information on the standings of the Qualifier stage can be found in [th
    - The tournament specifically employs a new, modified "badge decay system" that takes into account the age of each badge in its BWS calculations. Details on this system can be found [on this document](https://docs.google.com/document/d/1FWQdDcTbiCzijoE-cU0pj6r--gZzv0N3vD0_a49u6yA/edit#heading=h.fh2l58wew9t8).
 2. Each team has to submit a designated team captain and a team name to the tournament management before the end of the screening phase.
    - Teams are encouraged to choose their names carefully. The tournament management is not responsible for any repercussions that may arise from team names.
-3. Team captains are required to be present at the tournament's [Discord server]((https://discord.gg/Tr9ZC97rwv)) as long as their team are still playing in the tournament.
+3. Team captains are required to be present at the tournament's [Discord server](https://discord.gg/Tr9ZC97rwv) as long as their team are still playing in the tournament.
 4. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
 5. The list of players and teams who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
 6. Testplayers, referees, and mappool selectors may not participate as players in this tournament.
