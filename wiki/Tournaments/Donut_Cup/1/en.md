@@ -170,7 +170,7 @@ The Donut Cup is run by various osu! community members from all over the world.
 - Free Mod
   1. [Tokyo Jihen - Jusui Negai -The Suicide- (seros) \[Kyouiku\]](https://osu.ppy.sh/beatmapsets/1761649#osu/3605664)
   2. [Tsukifune Kosho-do - Tabi no Owari to Shukusai no Yoru (vergil chair) \[Journey\]](https://osu.ppy.sh/beatmapsets/1346576#osu/2788659)
-  3. [paraoka - rampage (kiri09) \[9\]](https://osu.ppy.sh/beatmapsets/1545010#osu/3158000)  
+  3. [paraoka - rampage (kiri09) \[9\]](https://osu.ppy.sh/beatmapsets/113359#osu/294086)  
 - Tiebreaker
   1. **[Asriel - Raison D'etre (jonathanlfj) \[EXist\]](https://osu.ppy.sh/beatmapsets/1306628#osu/2709097)**
 
@@ -198,8 +198,8 @@ The Donut Cup is run by various osu! community members from all over the world.
   4. [Epik High - Fly (Aranel) \[Fly! '11\]](https://osu.ppy.sh/beatmapsets/1761846#osu/3606082)
 - Free Mod
   1. [N2 - STASIS DEMON (JeZag) \[ABLAZE\]](https://osu.ppy.sh/beatmapsets/1880881#osu/3872185)
-  2. [cygnus - Darkness Parade (KnightC0re) \[Dogure Magura\]](https://osu.ppy.sh/beatmapsets/2078577#osu/4352411)
-  3. [xi - Beatrice (Esutarosa) \[esua x moph's Extra\]](https://osu.ppy.sh/beatmapsets/1801967#osu/3698097)
+  2. [cygnus - Darkness Parade (KnightC0re) \[Dogura Magura\]](https://osu.ppy.sh/beatmapsets/2078577#osu/4352411)
+  3. [xi - Beatrice (Esutarosa) \[esu x moph's Extra\]](https://osu.ppy.sh/beatmapsets/1801967#osu/3698097)
 - Tiebreaker
   1. **[WAiKURO - Androgynos (Full Phase) (Realazy) \[Golden Embers\]](https://osu.ppy.sh/beatmapsets/2084167#osu/4365545)**
 
