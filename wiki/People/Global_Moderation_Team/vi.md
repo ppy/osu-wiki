@@ -69,7 +69,7 @@ Khi một Kiểm duyệt viên quyết định rời khỏi đội ngũ, họ c�
 
 *Lưu ý: Tất cả các thành viên của GMT đều nói tiếng Anh bên cạnh những ngôn ngữ được liệt kê dưới đây trừ khi có ghi chú khác.*
 
-[Trang của Đội ngũ Kiểm duyệt viên](https://osu.ppy.sh/groups/4) liệt kê tất cả các thành viên trong đội ngũ. Bên cạnh những lĩnh vực được ghi dưới đây, tất cả các Kiểm duyệt viên đều tham gia vào [kiểm tra nội dung âm thanh và hình ảnh trong  beatmap](/wiki/Rules/Visual_content_considerations#getting-your-image-assessed).
+[Trang của Đội ngũ Kiểm duyệt viên](https://osu.ppy.sh/groups/4) liệt kê tất cả các thành viên trong đội ngũ. Bên cạnh những lĩnh vực được ghi dưới đây, tất cả các Kiểm duyệt viên đều tham gia vào [kiểm tra nội dung âm thanh và hình ảnh trong beatmap](/wiki/Rules/Visual_content_considerations#getting-your-image-assessed).
 
 | Tên | Các ngôn ngữ khác | Mảng phụ trách chính |
 | :-- | :-- | :-- |
@@ -80,3 +80,6 @@ Khi một Kiểm duyệt viên quyết định rời khỏi đội ngũ, họ c�
 | :-- | :-- | :-- |
 
 ## Ghi chú
+
+[^task-Azer]: Mặc dù không thực sự là thành viên của GMT, Azer nằm trong nhóm này vì cần có quyền truy cập của GMT với tư cách là người tổ chức World Cup.
+[^task-mangomizer]: Mặc dù không thực sự là thành viên của GMT, mangomizer nằm trong nhóm này vì cần có quyền truy cập của GMT vào các diễn đàn nội bộ.
