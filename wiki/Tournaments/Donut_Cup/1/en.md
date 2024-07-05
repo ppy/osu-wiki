@@ -28,7 +28,7 @@ The **Donut Cup** is double-elimination 2v2 osu! tournament hosted by ::{ flag=C
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1 month of osu!supporter for each team member, custom-made profile banner, a batch of freshly-baked donuts (conditional according to feasibility of the delivery) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1 month of osu!supporter for each team member, custom-made profile banner, a batch of freshly baked donuts (conditional according to feasibility of the delivery) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Custom-made profile banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Custom-made profile banner |
 
@@ -170,7 +170,7 @@ The Donut Cup is run by various osu! community members from all over the world.
 - Free Mod
   1. [Tokyo Jihen - Jusui Negai -The Suicide- (seros) \[Kyouiku\]](https://osu.ppy.sh/beatmapsets/1761649#osu/3605664)
   2. [Tsukifune Kosho-do - Tabi no Owari to Shukusai no Yoru (vergil chair) \[Journey\]](https://osu.ppy.sh/beatmapsets/1346576#osu/2788659)
-  3. [paraoka - rampage (kiri09) \[9\]](https://osu.ppy.sh/beatmapsets/113359#osu/294086)  
+  3. [paraoka - rampage (kiri09) \[9\]](https://osu.ppy.sh/beatmapsets/113359#osu/294086)
 - Tiebreaker
   1. **[Asriel - Raison D'etre (jonathanlfj) \[EXist\]](https://osu.ppy.sh/beatmapsets/1306628#osu/2709097)**
 
@@ -227,7 +227,7 @@ The Donut Cup is run by various osu! community members from all over the world.
   4. [RuLu feat. Youi - Xylophone (Irin) \[Fish Rose's Insane\]](https://osu.ppy.sh/beatmapsets/1352063#osu/2892338)
 - Free Mod
   1. [the liquid movement - Love sick (mintIceCream\_) \[tv\]](https://osu.ppy.sh/beatmapsets/2138395#osu/4654833)
-  2. [Kikuo - Yousei no Kiri (Vararaup) \[Damnjelly's Magical\]](https://osu.ppy.sh/beatmapsets/1880072#osu/3870421)  
+  2. [Kikuo - Yousei no Kiri (Vararaup) \[Damnjelly's Magical\]](https://osu.ppy.sh/beatmapsets/1880072#osu/3870421)
   3. [Shiina Ringo - Jinsei wa Yume Darake (melloe) \[Life is Full of Dreams\]](https://osu.ppy.sh/beatmapsets/934179#osu/1950368)
 - Tiebreaker
   1. **[PSYQUI - Hysteric Night Girl (feat. Such) (torriru) \[Romance\]](https://osu.ppy.sh/beatmapsets/2100220#osu/4405793)**
@@ -280,7 +280,7 @@ The Donut Cup is run by various osu! community members from all over the world.
   3. [lapix - Flamenco House (Luminiscental) \[Insane\]](https://osu.ppy.sh/beatmapsets/1865291#osu/3857255)
 - Free Mod
   1. [PUP - Factories (Sparxo) \[THROUGH THE NIGHT\]](https://osu.ppy.sh/beatmapsets/1239345#osu/2576707)
-  2. [inabakumori - Tokoshizume  (xyperX) \[Kard's Insane\]](https://osu.ppy.sh/beatmapsets/1777533#osu/3657734)
+  2. [inabakumori - Tokoshizume (xyperX) \[Kard's Insane\]](https://osu.ppy.sh/beatmapsets/1777533#osu/3657734)
 - Tiebreaker
   1. **[JANK - Versace Summer (h i f u) \[Take me away to my holy grail in your bed\]](https://osu.ppy.sh/beatmapsets/1470062#osu/3022399)**
 
@@ -299,7 +299,7 @@ The Donut Cup is run by various osu! community members from all over the world.
   2. [Rabbit House - das Leben nach dem Tode (Rentia) \[Unterwelt\]](https://osu.ppy.sh/beatmapsets/1733348#osu/3542916)
 - Double Time
   1. [ICHIKO - I SAY YES (N a s y a) \[Insane\]](https://osu.ppy.sh/beatmapsets/2179900#osu/4604218)
-  2. [yanaginagi - Sentimental (defiance) \[Insane\]](https://osu.ppy.sh/beatmapsets/1562788#osu/3191336)  
+  2. [yanaginagi - Sentimental (defiance) \[Insane\]](https://osu.ppy.sh/beatmapsets/1562788#osu/3191336)
 
 ## Match results
 
@@ -575,18 +575,20 @@ Detailed information on the standings of the Qualifier stage can be found in [th
    - This rule does not apply in the Qualifier lobbies.
 2. Each team has to ban **two beatmaps** from the corresponding mappool. These beatmaps will not be allowed to be picked by any team during the entire match.
    - The bans will be done alternatingly (A–B–A–B) between the two teams.
-   - Barring the tiebreaker, there are no restrictions as to which maps may and may not be banned in a match.
+   - Barring the tiebreaker, there are no restrictions as to which maps may or may not be banned in a match.
 3. Each team will be given a chance to pick **one warm-up beatmap** (up to 4:30 max) to be played in the lobby.
    - Playing a warm-up beatmap is not mandatory, and teams may elect to skip their warm-up pick should they wish to.
 4. Teams are expected to exercise common sense in pick time windows.
-   - If a team is unable to come up with a pick within a 90–second time window of their picking turn, the pick will be given to the other team.    
+   - If a team is unable to come up with a pick within a 90-second time window of their picking turn, the pick will be given to the other team.
 5. In a Free Mod pick, each team has to field **at least two different mod combinations** to play the beatmap with.
-   - No Mod doesn't count as an unique mod combination.
+   - No Mod does not count as an unique mod combination.
    - Hard Rock and Hidden + Hard Rock counts as the same mod combination.
    - There are no bonus score multipliers for players who are playing with either Easy or Flashlight.
 6. In the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled.
    - Playing the tiebreaker map with a mod is *not* mandatory.
 7. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
+
+## Notes
 
 [^stage-note-1]: Also referred to as the "Friend" stage throughout the tournament.
 [^stage-note-2]: Also referred to as the "Girlfriend" stage throughout the tournament.
