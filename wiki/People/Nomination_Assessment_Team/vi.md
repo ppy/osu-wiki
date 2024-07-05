@@ -84,7 +84,9 @@ NAT luôn để mắt tới các ứng cử viên có triển vọng trong một
 
 Nếu thành viên hoặc cựu thành viên của NAT thể hiện khả năng xử lý tốt công việc ở mảng tổ chức (được liệt kê như trên) và những đóng góp của họ, kể cả ở hiện tại hay đã lên kế hoạch, vượt xa những gì họ làm trong vai trò đánh giá, họ có thể chọn chuyển sang bộ phận tổ chức. Việc này sẽ do trưởng nhóm NAT đánh giá và xử lý theo từng trường hợp cụ thể.
 
-Việc chuyển đổi sẽ được thảo luận lại với phần còn lại của NAT trước khi thực hiện, phòng trường hợp có sự phản đối. Nếu không có vấn đề nào phát sinh, thành viên liên quan sẽ tuân thủ theo tiêu chuẩn hoạt động khác nhau tùy theo trường hợp của họ. Nếu những đóng góp của họ sau này bị xem là mờ nhạt hoặc không cần thiết theo đánh giá của trưởng nhóm NAT thì họ sẽ được chuyển ra khỏi bộ phận này.
+Trong một số ít trường hợp, Đề cử viên cũng có thể được cân nhắc cho vị trí này tùy thuộc vào đóng góp của họ vào cộng đồng mapping/modding.
+
+Việc chuyển đổi sẽ được thảo luận với phần còn lại của NAT trước khi thực hiện, phòng trường hợp có sự phản đối. Nếu không có vấn đề nào phát sinh, thành viên liên quan sẽ tuân thủ theo tiêu chuẩn hoạt động khác nhau tùy theo trường hợp của họ. Nếu những đóng góp của họ sau này bị xem là mờ nhạt hoặc không cần thiết theo đánh giá của trưởng nhóm NAT thì họ sẽ được chuyển ra khỏi bộ phận này.
 
 ## Rời khỏi NAT
 
@@ -111,7 +113,7 @@ Trưởng nhóm NAT hiện tại là ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/
 
 Trưởng nhóm NAT phụ trách những việc sau:
 
-- **Quản lý hoạt động:** Liên tục theo dõi hoạt động của các thành viên khác trong NAT và xử lý những trường hợp ít hoạt động thông qua những đợt kiểm tra định kỳ hoặc qua những buổi phỏng vấn thôi việc trong trường hợp có vấn đề hoạt động liên quan đến một số thành viên nhất định.
+- **Quản lý hoạt động:** Liên tục theo dõi hoạt động của các thành viên khác trong NAT và xử lý những trường hợp ít hoạt động hoặc có vấn đề liên quan đến thái độ, hành vi thông qua những đợt kiểm tra định kỳ hoặc qua những buổi phỏng vấn thôi việc trong trường hợp có liên quan đến một số thành viên nhất định.
 - **Thông tin, liên lạc:**
   - Làm cầu nối giữa osu! team, NAT, và cộng đồng mapping, liên tục thông báo về bất kỳ thay đổi, lo ngại hay yêu cầu nào.
   - Vận động tham gia vào các cuộc thảo luận nội bộ lẫn bên ngoài bằng cách chủ động thu hút tất cả các bên vào tham gia, đồng thời tạo điều kiện cho các ý kiến, quan điểm khác nhau được kết hợp và tạo ra phương hướng hành động thiết thực.
@@ -152,21 +154,11 @@ Những thành viên NAT sau đây chỉ đảm nhận công việc của mảng
 
 | Tên | Nhiệm vụ |
 | :-- | :-- |
-| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Xử lý thảo luận, công việc và tài liệu nội bộ |
-| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Bảo trì [Aiess](https://github.com/Naxesss/Aiess) and [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) |
-| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Quản lý Tiêu chuẩn Xếp hạng |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Phát triển [trang Quản lý Đề cử viên](https://bn.mappersguild.com) |
 
 Những thành viên NAT sau đây giữ vai trò đánh giá là chủ yếu, nhưng đồng thời có đóng góp vào mảng tổ chức:
 
 | Tên | Nhiệm vụ |
 | :-- | :-- |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Tổ chức Chương trình Cố vấn Đề cử viên (BN Mentorship Program) |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Xử lý báo cáo từ người dùng |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Xử lý báo cáo nội dung |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Phát triển [Nomination Planner](https://bnplanner.greaper.net/beatmaps) và [osu!catch MV plugin](https://github.com/Darius-Wattimena/MapsetChecksCatch) |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Nhóm trưởng NAT, phát triển [trang Quản lý Đề cử viên](https://bn.mappersguild.com) và [osu!taiko MV plugin](https://github.com/Hiviexd/MVTaikoChecks) |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Phát triển [osu!mania MV plugin](https://github.com/MChecaH/ManiaCheck) |
 
 ---
 
