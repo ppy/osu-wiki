@@ -71,6 +71,8 @@ Khi một Kiểm duyệt viên quyết định rời khỏi đội ngũ, họ c�
 
 [Trang của Đội ngũ Kiểm duyệt viên](https://osu.ppy.sh/groups/4) liệt kê tất cả các thành viên trong đội ngũ. Bên cạnh những lĩnh vực được ghi dưới đây, tất cả các Kiểm duyệt viên đều tham gia vào [kiểm tra nội dung âm thanh và hình ảnh trong beatmap](/wiki/Rules/Visual_content_considerations#getting-your-image-assessed).
 
+**Mọi thành viên của GMT có thể tham gia vào tất cả công việc của bất kì bộ phận nào họ chọn, bất kể mảng phụ trách chính của họ.** Ví dụ, một Kiểm duyệt viên phụ trách mảng quản lý chat có thể đồng thời hỗ trợ quản lý diễn đàn.
+
 | Tên | Các ngôn ngữ khác | Mảng phụ trách chính |
 | :-- | :-- | :-- |
 
