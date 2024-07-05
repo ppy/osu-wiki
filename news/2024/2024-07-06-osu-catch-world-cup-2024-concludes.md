@@ -44,7 +44,7 @@ And this is how this *story* (hehe) concludes, with an historic finish for both 
 
 ## Match highlights
 
-Here are all the matches that we wrote about during this World Cup, and all of them are guaranteed to keep you entertained! Whether you are wanting to rewatch the greatest matches of the year, or checking an abridged version of the TWC, we have you sorted.
+Here are all the matches that we wrote about during this World Cup, and all of them are guaranteed to keep you entertained! Whether you are wanting to rewatch the greatest matches of the year, or looking for an abridged version of the CWC, we have you sorted.
 
 | Match | Stage | Links |
 | :-- | :-- | :-- |
