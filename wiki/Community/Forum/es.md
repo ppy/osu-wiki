@@ -39,7 +39,7 @@ Los [moderadores](/wiki/People/Global_Moderation_Team) son usuarios que mantiene
 
 Algunos de los foros tienen diferentes propósitos que no se limitan a la discusión. Como resultado, tienen reglas y/o funciones técnicas adicionales.
 
-- [Help](/wiki/Community/Forum/Help): soporte técnico del [equipo de soporte](/wiki/People/Support_Team) y usuarios habituales.
+- [Help](/wiki/Community/Forum/Help): soporte técnico del [equipo de soporte](/wiki/People/Technical_Support_Team) y usuarios habituales.
 - [Feature Requests](/wiki/Community/Forum/Feature_Requests): sugerencias para el desarrollo de osu!.
 - [Modding Queues](/wiki/Community/Forum/Modding_Queues): revisiones de beatmaps realizadas por otros mappers y modders.
 - [Off-Topic](/wiki/Community/Forum/Off-Topic): el lugar para las discusiones no tan lógicas.
