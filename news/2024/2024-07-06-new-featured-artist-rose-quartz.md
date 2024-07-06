@@ -10,7 +10,7 @@ Our pink circle game is only becoming more pink thanks to **Rose Quartz**, our l
 
 With a knack for both [clicking circles](https://osu.ppy.sh/users/17348593) and engaging eardrums, **Rose Quartz**'s Artcore tunes masterfully use violins and pianos to bring you into his fantasy domain — a domain that's not-so-coincidentally perfect for rhythm games.
 
-**9** of those top-tier tracks are finally here! Well, more specifically they're [here in **Rose Quartz**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/429), all available for your future mapping endeavors.
+**9** of those top-tier tracks are finally here! Well, more specifically they're [here in **Rose Quartz**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/429), all available for your future mapping endeavours.
 
 Mapping isn't an easy task, so relax with this preview of [A Frozen Realm](https://osu.ppy.sh/beatmapsets/2129385) before diving into your own creation:
 
