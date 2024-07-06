@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Aerial Antics Art Contest: Voting Open"
-date: 2024-07-05 16:00:00 +0000
+date: 2024-07-06 05:00:00 +0000
 ---
 
-It's time to lock in your **15** votes and decide the fate of **134** stellar entries!
+It's time to lock in your **15** votes and decide the fate of **133** stellar entries!
 
 ![](https://assets.ppy.sh/contests/215/header.jpg)
 
-**134** talented artists from all corners of the osu! community have made their call for this contest, and now it's *your* turn! Dive into the sky with our mascots and choose **15** of your favourites to dive right into the main menus of every osu! player community-wide.
+**133** talented artists from all corners of the osu! community have made their call for this contest, and now it's *your* turn! Dive into the sky with our mascots and choose **15** of your favourites to dive right into the main menus of every osu! player community-wide.
 
-In case you're having a hard time wrapping your head around all these fabulous entries, we've compiled all of them in a neat slideshow with tunes from the [Project Prism](/wiki/Tournaments/Project_Prism/2024) original track [*NormalM feat. Echo - Resonance of Viscerharma*](https://osu.ppy.sh/beatmapsets/2199177)!
+In case you're having a hard time wrapping your head around all these fabulous entries, we've compiled all of them in a neat slideshow with tunes from one of [Project Prism](/wiki/Tournaments/Project_Prism/2024)'s original tracks, [NormalM feat. Echo - Resonance of Viscerharma](https://osu.ppy.sh/beatmapsets/2199177)!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -18,7 +18,7 @@ In case you're having a hard time wrapping your head around all these fabulous e
     </video>
 </div>
 
-[![Click here to start voting in the Aerial Antics Art Contest!](/wiki/shared/news/2024-07-05-aerial-antics-art-voting/vote.png)](https://osu.ppy.sh/community/contests/215)
+[![Click here to start voting in the Aerial Antics Art Contest!](/wiki/shared/news/2024-07-06-aerial-antics-art-voting/vote.png)](https://osu.ppy.sh/community/contests/215)
 
 As always, the voting will be open for **7 days** from the time of this post, so make sure to cast your votes before the skies clear up and the contest closes!
 
