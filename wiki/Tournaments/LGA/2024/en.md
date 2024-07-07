@@ -121,7 +121,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/847
 
 ### Tournament registration
 
-1. Every user interested in will playing will be be required to sign up by utilising the osu! tournament listing [linked above](#links).
+1. Every user interested in playing will be be required to sign up by utilising the osu! tournament listing [linked above](#links).
 2. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments. To be successfully accepted on the list, players are required to be placed #2,500 or higher on the osu! global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 3. All successfully registered players will be published after the registration phase on this page.
 4. Participants will be briefed on further steps via an announcement message on the website.
