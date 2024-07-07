@@ -566,7 +566,7 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 
 | Links | FA | Song | Beatmap | Notes |
 | --: | :-: | :-- | :-: | :-- |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/kins_sunset/absolute-frontier "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=687U9qmcSvY "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://kins-sunset.bandcamp.com/track/absolute-frontier "Bandcamp") |  | +kin_ - Absolute Frontier | [#1](https://osu.ppy.sh/beatmapsets/2209476) | Grand Finals tiebreaker |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/kins_sunset/absolute-frontier "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=687U9qmcSvY "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://kins-sunset.bandcamp.com/track/absolute-frontier "Bandcamp") |  | +kin\_ - Absolute Frontier | [#1](https://osu.ppy.sh/beatmapsets/2209476) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/osu.png) North America Tournament 2023
 
@@ -1260,7 +1260,7 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 
 | Links | FA | Song | Beatmap |
 | --: | :-: | :-- | :-: |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/kins_sunset/astral-ascension "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=gjV42XG-nW0 "YouTube") |  | +kin_ - Astral Ascension | [#1](https://osu.ppy.sh/beatmapsets/2183434) |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/kins_sunset/astral-ascension "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=gjV42XG-nW0 "YouTube") |  | +kin\_ - Astral Ascension | [#1](https://osu.ppy.sh/beatmapsets/2183434) |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/toch1/tochi-ascension-feat-yoko-kanno "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=XvpOwOgdRww "YouTube") |  | -Tochi - Ascension (feat. Yoko Kanno) | [#1](https://osu.ppy.sh/beatmapsets/1267316) |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/mrowswares/brazil "SoundCloud") |  | Apollo - Brazil | [#1](https://osu.ppy.sh/beatmapsets/2104327) |
 |  |  | Apollo - SCUNTHORPE | [#1](https://osu.ppy.sh/beatmapsets/1677078) |
