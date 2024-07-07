@@ -19,7 +19,7 @@ The **Lazer Grand Arena** (***LGA***) is an osu!(lazer) tournament hosted by the
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2024-06-18 (10:00 UTC)/2024-07-01 (23:59 UTC) |
-| Qualifier and tournament format showcase | 2024-07-07 (17:00 UTC) |
+| Qualifier and tournament format showcase | 2024-07-06 (17:00 UTC) |
 | Qualifier stage | 2024-07-13/2024-07-14 |
 | Bracket stage (single elimination) | 2024-07-20/2024-07-21 |
 | Top 8 (single elimination)/top 4 (double elimination) | 2024-07-27/2024-07-28 |
@@ -50,6 +50,7 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 
 ## Links
 
+- [Information spreadsheet](https://docs.google.com/spreadsheets/d/1dc3O3hHW-pPBh8j316iUkCjcVLBF-P4rckhsbFu3jmk)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1936749)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/45)
@@ -57,6 +58,29 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 ## Participants
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/8475d0c316b1ea7c1cb66ca93902d810).
+
+## Mappools
+
+### Qualifiers
+
+**[Download the mappack here (100 MB)](https://packs.ppy.sh/P253%20-%20Lazer%20Grand%20Arena%202024%3A%20Qualifiers.zip)**\
+[View the showcase VOD here](https://www.twitch.tv/videos/2191069196)
+
+- No Mod
+  1. [ELFENSJoN - STYX (Ryuusei Aika) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1769468#osu/3622209)
+  2. [Kardashev - Lux (kiwies) \[Delicate Abstraction\]](https://osu.ppy.sh/beatmapsets/1839540#osu/3777926)
+  3. [siromaru + cranky - conflict (yf\_bmp) \[Intersection\]](https://osu.ppy.sh/beatmapsets/1212359#osu/3107406)
+  4. [Silentroom - NULCTRL (DeviousPanda) \[MAO'S EXPERIMENT\]](https://osu.ppy.sh/beatmapsets/1969316#osu/4084959)
+- Hidden
+  1. [Tanchiky - Riot (Feiri) \[Expert\]](https://osu.ppy.sh/beatmapsets/1645961#osu/3359700)
+  2. [Hige Driver - ukigumo (Lude) \[..- -.- .. --. ..- -- ---\]](https://osu.ppy.sh/beatmapsets/1827928#osu/3751557)
+- Hard Rock
+  1. [uma vs. Morimori Atsushi - Re:End of a Dream (Battle) \[Re:Vival\]](https://osu.ppy.sh/beatmapsets/557039#osu/1178810)
+  2. [-45 - Midorigo Queen Bee (PandaHero) \[EijiKuinbii's Expert\]](https://osu.ppy.sh/beatmapsets/812792#osu/1791372)
+- Double Time (variable speed multiplier)
+  1. (1.60x) [ginkiha - EOS (alacat) \[RLC's Another\]](https://osu.ppy.sh/beatmapsets/151720#osu/421532) 
+  2. (1.50x) [Yu\_Asahina vs. orangentle - EMOTIONALL BRINGBACKK (Niva) \[METAMORPHOSIS\]](https://osu.ppy.sh/beatmapsets/1799341#osu/3688619)
+  3. (1.40x) [Camellia - Fly to night, tonight (My Angel Watame) \[Heatwave's Insane\]](https://osu.ppy.sh/beatmapsets/1119638#osu/2343884)
 
 ## Ruleset
 
@@ -83,7 +107,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/847
     - Forfeiting bracket matches without providing an adequate reasoning, or with the intention of getting a more favourable matchup.
 11. All players and staff must be treated with respect. Instructions from the referees and the tournament managers are to be followed. Decisions labelled as final are not to be objected.
 12. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms where the matches will take place.
-    - Breaking the chat rules may result in a silence. Silenced players cannot participate in multiplayer matches and must be exchanged for the duration of the punishment.
+    - Breaking the chat rules may result in a silence. Silenced players cannot participate in multiplayer matches for the duration of the punishment and, as a result, can have their match forfeited.
 13. Penalties for violating the tournament rules include, but are not limited to:
     - Removal of pick rights for a game or match.
     - Point deductions.
@@ -97,7 +121,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/847
 
 ### Tournament registration
 
-1. Every user interested in will be required to signs up by utilising the osu! tournament listing [linked above](#links).
+1. Every user interested in playing will be be required to sign up by utilising the osu! tournament listing [linked above](#links).
 2. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments. To be successfully accepted on the list, players are required to be placed #2,500 or higher on the osu! global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 3. All successfully registered players will be published after the registration phase on this page.
 4. Participants will be briefed on further steps via an announcement message on the website.
@@ -113,9 +137,18 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/847
    - Hidden: 2 beatmaps
    - Hard Rock: 2 beatmaps
    - Double Time: 3 beatmaps
-4. Players will be asked to play the mappool twice at a designated time. The best play for each map will be used for seeding.
-5. The mappool is to be played according to the order listed on this page.
-6. Only the top 32 seeded players will advance to the bracket stage.
+4. Players will participate in an osu!(lazer) playlist lobby, which can be completed anywhere from Sunday, July 7 19:00 UTC to Sunday, July 14 19:00 UTC.
+   - *Notice: the playlist **closes** on July 14, 19:00 UTC, at which point no new scores will be allowed. No exceptions will be made.*
+5. Players will have 22 tries to use across the 11 playlist entries, with no restrictions on the order of play or amount of tries per individual item.
+6. To be eligible for seeding, every player must submit *at least* one score for every beatmap listed.
+7. Only the player's best attempt (i.e. highest score) will be used for every beatmap listed.
+8. The lowest score across the 11 beatmaps will be removed from each player's seeding calculations.
+9. The seeding method used for Qualifiers will be %MAX — the highest score for each map will receive 100% of the points, and every other player will be awarded a percentage of that top score.
+The exact formula that will be used for all players (and for each map) is `Final Score = Player Score / MAX Score`, where:
+   - `Final Score` is the percentage awarded to the current player
+   - `Player Score` is the score the current player achieved on the current map
+   - `MAX Score` is the highest score achieved for the current map
+10. The top 32 seeded players will advance to the bracket stage.
 
 ### Bracket stage information
 
@@ -132,7 +165,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/847
      - The draft order will be as follows:
        1. The first player (A) will ban one beatmap, followed by the second player (B) also banning a beatmap: AB
        2. Players will pick two beatmaps respecting the following order: BAAB
-       3. Both players ban will two maps, as such: ABBA
+       3. Both players will ban two maps, as such: ABBA
        4. The last beatmap remaining in the pool will be used as the 5th pick for the match.
    - For the second weekend, The 8 remaining players from the previous phase will then then play another set of matches, after which the remaining 4 players will be placed on a double-elimination bracket.
      - All matches in this phase will utilise the same mappool, except for the Losers' Bracket Finals and Grand Finals, where a new [osu! original](/wiki/osu!_originals) will be introduced into the pool. The player with the highest cumulative score across the 7 picks wins.
