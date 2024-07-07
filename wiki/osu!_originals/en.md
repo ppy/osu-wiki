@@ -1197,7 +1197,7 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | Links | FA | Song | Beatmap |
 | --: | :-: | :-- | :-: |
 |  |  | Down - My Love Remix[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1348553) |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/zero-kelvin-0k/my-love-remix "SoundCloud") |  | Kuba Oms - My Love (0 K Remix) feat. Thievley | [#1](https://osu.ppy.sh/beatmapsets/1389031) |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/zero-kelvin-0k/my-love-remix "SoundCloud") |  | Kuba Oms - My Love (0 K Remix) feat. Thievley[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1389031) |
 |  |  | Kuba Oms - My Love (DestoppeD Remix) | [#1](https://osu.ppy.sh/beatmapsets/1388552) |
 |  |  | Kuba Oms - My Love (Maemi no Yume's Remix) | [#1](https://osu.ppy.sh/beatmapsets/1389127) |
 |  |  | Kuba Oms - My Love (pm04034 Remix) | [#1](https://osu.ppy.sh/beatmapsets/1382737) |
