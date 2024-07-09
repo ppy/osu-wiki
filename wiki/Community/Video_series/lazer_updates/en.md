@@ -8,11 +8,11 @@
 
 Documentation of osu!(lazer) updates started off in the early days as blog posts written in [peppy's personal blog](https://blog.ppy.sh/) and the [osu!next Tumblr page](https://www.tumblr.com/osunext). However, these posts were often overlooked by casual users, and in order to increase public awareness of the ongoing development, consequent updates were later announced in the [osu!(lazer)-specific changelog entries](https://osu.ppy.sh/home/changelog/lazer), [peppy's Twitter account](https://twitter.com/ppy/), and finally the "lazer updates" video series.
 
-Starting from [June 2023](https://osu.ppy.sh/home/news/2023-06-22-osulazer-updates-june-21-2023) onwards, all "lazer updates" videos are released together along with their corresponding "osu!(lazer) updates" newspost for further visibility.
+Starting from [June 2023](https://osu.ppy.sh/home/news/2023-06-22-osulazer-updates-june-21-2023) onwards, all "lazer updates" videos are released together along with their corresponding "osu!(lazer) updates" news post for further visibility.
 
 ## List of episodes
 
-| No. | Title | Topics covered | Newspost |
+| No. | Title | Topics covered | News post |
 | :-: | :-- | :-- | :-: |
 | 1 | [lazer updates - July 23, 2022](https://www.youtube.com/watch?v=67P4LKlAh-0) | The editor, gameplay intricacies, touch control support for osu!taiko, score multiplier for various mods, in-game beatmap updates, menu tooltips | *N/A* |
 | 2 | [lazer updates - July 31, 2022](https://www.youtube.com/watch?v=0V5GwzmMhpU) | Improvements to touch control, score processing, mod presets | *N/A* |
