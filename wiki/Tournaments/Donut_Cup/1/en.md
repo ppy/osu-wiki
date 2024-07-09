@@ -149,7 +149,7 @@ The Donut Cup is run by various osu! community members from all over the world.
 
 - No Mod
   1. [Tokyo.MeltiMelt - I ain't need my heart feat. Hatsuki Yura (SkyFlame) \[heartless\]](https://osu.ppy.sh/beatmapsets/2024032#osu/4215951)
-  2. [Toromaru - Enigma II (KKipalt) \[nerf\]](https://osu.ppy.sh/beatmapsets/1500660#osu/3075142)
+  2. [Toromaru - Enigma II (Chemo) \[nerf\]](https://osu.ppy.sh/beatmapsets/1500660#osu/3075142)
   3. [Boris - Ibitsu (revoh) \[AKUMADEMO AKUMANONAI\]](https://osu.ppy.sh/beatmapsets/2065765#osu/4321432)
   4. [Silentroom - Nhelv (Halgoh) \[Disruption of Ataraxia\]](https://osu.ppy.sh/beatmapsets/2049001#osu/4278109)
   5. [unfeeling - good life pattern (fergas) \[a long way\]](https://osu.ppy.sh/beatmapsets/2029093#osu/4228118)
