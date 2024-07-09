@@ -60,6 +60,7 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 - [Discord server](https://discord.gg/FpeqwhkZwy)
 - [Livestream](https://www.twitch.tv/osumaniamys)
 - [ASC rulebook](https://docs.google.com/document/d/1Idt90NkIMZQHDNJBlDCZ5fcQ6msl3Stt8go_rJe0WAw/edit?usp=sharing)
+- [ASC Youtube channel](https://www.youtube.com/@osumaniamys)
 - [Information spreadsheet](https://docs.google.com/spreadsheets/d/1CiGPgAjVi6gnNVfoXYqWrozM8GBUxHPM1EfCHJbrIMc/edit?usp=sharing)
 
 ## Participants
@@ -104,9 +105,33 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 
 ## Mappools
 
+### Round of 32
+
+**[Download the mappack here (94 MB)](https://cdn.discordapp.com/attachments/1257367722136703087/1259895755179556937/bomb.zip?ex=668e019b&is=668cb01b&hm=0e312cd523c626b8f5c647df75c953dc5eef7f7946e5b8b6d6335b10c3791211&)**
+
+- RC
+  1. [BEMANI Sound Team "DJ TOTTO" feat.rionos - Simurgh no Mezame (komugii) \[sora x1.1\]](https://osu.ppy.sh/beatmapsets/1415406#mania/2917081)
+  2. [Tatsh - IMAGE -MATERIAL- \<REFLEC BEAT Edition\> (Onlinee) \[YuEast's Imagine the Future (edit)\]](https://osu.ppy.sh/beatmapsets/2210493#mania/4682349)
+  3. [Jan Amit - In Torture (feat. Eclise) (Elekton) \[sinking\]](https://osu.ppy.sh/beatmapsets/573842#mania/1215562)
+  4. [MYUKKE. - The 90's Decision (Irone OSU) \[boomer decision\]](https://osu.ppy.sh/beatmapsets/2032272#mania/4590142)
+  5. [BEMANI Sound Team "Nekomata Master" - Life is beautiful (-MysticEyes) [LeiN-'s MASTER]](https://osu.ppy.sh/beatmapsets/860089#mania/1948492)
+- LN
+  1. [Harumaki Gohan feat. Sou - Zero Talking (Cut Ver.) (Lott) \[Dear\]](https://osu.ppy.sh/beatmapsets/2176945#mania/4597084)
+  2. [Protest The Hero - Hair-Trigger (Cut Ver.) (Paturages) \[Bald Decision 1.1x (165bpm)\]](https://osu.ppy.sh/beatmapsets/1919028#mania/3960091)
+  3. [Yano Tatsuya - Cliffhanger (Irone OSU) \[- Synthesis - (Edit)\]](https://osu.ppy.sh/beatmapsets/2032274#mania/4236227)
+- HB
+  1. [cYsmix - Classic Pursuit (BringoBrango) \[mint's Another\]](https://osu.ppy.sh/beatmapsets/730295#mania/2576768)
+  2. [Zekk - Turbulence (TheFunk) \[Insane\]](https://osu.ppy.sh/beatmapsets/1683802#mania/3440474)
+- SV
+  1. [40mP feat. Hatsune Miku - Dandan Hayaku Naru (DraterTD) \[Hard (edit)\]](https://osu.ppy.sh/beatmapsets/2210477#mania/4682297)
+  2. [Slappy - Hanami (RuleBlazing) \[Edit\]](https://osu.ppy.sh/beatmapsets/1101411#mania/2329945)
+- Tiebreaker
+  1. **[Kou! - Sanzui ("Gekiryuu" Long Version) (FlappiBakuse) \[Ripple\]](https://osu.ppy.sh/beatmapsets/1997783#mania/4200434)**
+
 ### Qualifiers
 
-**[Download the mappack here (29 MB)](https://drive.google.com/file/d/1vCR7t66Y7GUvGH1tg60dqtQSdYlH0RyX/view)**
+**[Download the mappack here (29 MB)](https://drive.google.com/file/d/1vCR7t66Y7GUvGH1tg60dqtQSdYlH0RyX/view)**\
+[View the showcase VOD here](https://www.youtube.com/watch?v=D9pbwM-ApbM)
 
 - SV
   1. [litmus\* - Good Life (\[GB\]Mafufu) \[Stage 1: Euphoric\]](https://osu.ppy.sh/beatmapsets/2206998#mania/4673209)
@@ -118,6 +143,12 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
   2. [linear ring - waitingforyou (Cut ver.) (\[HD\]Softer64) \[Stage 4: no\_patience\]](https://osu.ppy.sh/beatmapsets/2207038#mania/4673321)
 - HB
   1. [awfuless meets Zekk - MATOI -phase L- (\[Andre\]) \[Stage 5: Kamui Senketsu\]](https://osu.ppy.sh/beatmapsets/2206995#mania/4673206)
+
+## Match results
+
+### Qualifiers
+
+The final standings for the Qualifiers stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1HFMXH7sGnpz8ArhASpcNVpGtcoyPtF3D4tCPFUNf7Sk/edit?usp=sharing).
 
 ## Ruleset
 
