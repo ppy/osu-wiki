@@ -215,8 +215,8 @@ The exact formula that will be used for all players (and for each map) is `Final
 2. Qualifiers is not eligible for scheduling. Instead, players must take part in an osu!(lazer) playlist, as detailed on the [Qualifier information](#qualifier-information) section.
 3. All bracket stages will be held between Saturday 00:00 and Sunday 19:00 UTC.
    - Exceptions may be made where possible; please consult the tournament managers for more information.
-5. Match scheduling will be handled by the tournament managers. Schedules will be released on the Sunday before the first matches of the stage. The tournament managers will try to create the schedule to respect the participants' time zones.
-6. **Reschedules will only be considered if both players agree to a time and communicate it to the tournament managers, before Wednesday 23:59 UTC of the week when the match is to take place.**
+4. Match scheduling will be handled by the tournament managers. Schedules will be released on the Sunday before the first matches of the stage. The tournament managers will try to create the schedule to respect the participants' time zones.
+5. **Reschedules will only be considered if both players agree to a time and communicate it to the tournament managers, before Wednesday 23:59 UTC of the week when the match is to take place.**
    - Matches may not be scheduled to any time beyond **Sunday, 19:00 UTC** of the week they are to be played at.
    - Times earlier than **Saturday, 0:00 UTC** may be considered under specific circumstances. Please contact the tournament managers for more information. 
    - **Do not ask for a reschedule unless it is absolutely necessary. The tournament managers reserve the right to deny any rescheduling request.**
