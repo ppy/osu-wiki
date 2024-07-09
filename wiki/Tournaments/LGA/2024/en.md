@@ -139,7 +139,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/847
    - Hard Rock: 2 beatmaps
    - Double Time: 3 beatmaps
 4. Players will participate in an osu!(lazer) playlist lobby, which can be completed anywhere from Sunday, July 7 19:00 UTC to Sunday, July 14 19:00 UTC.
-   - The playlist to be played is titled `Lazer Grand Arena - Qualifiers`, hosted by LeoFLT.
+   - The playlist to be played is titled `Lazer Grand Arena - Qualifiers`, hosted by [LeoFLT](https://osu.ppy.sh/users/3668779).
    - *Notice: the playlist **closes** on July 14, 19:00 UTC, at which point no new scores will be allowed. No exceptions will be made.*
 5. Players will have 22 tries to use across the 11 playlist entries, with no restrictions on the order of play or amount of tries per individual item.
 6. To be eligible for seeding, every player must submit *at least* one score for every beatmap listed.
@@ -212,7 +212,7 @@ The exact formula that will be used for all players (and for each map) is `Final
 ### Scheduling information
 
 1. Each stage (as described on the [Tournament schedule](#tournament-schedule) table) will be held on **a single weekend**.
-2. Qualifiers is not eligible for scheduling. Instead, players must take part in an osu!(lazer) playlist, as detailed on the [Qualifier information](#qualifier-information) section.
+2. Qualifiers are not eligible for scheduling. Instead, players must take part in an osu!(lazer) playlist, as detailed on the [Qualifier information](#qualifier-information) section.
 3. All bracket stages will be held between Saturday 00:00 and Sunday 19:00 UTC.
    - Exceptions may be made where possible; please consult the tournament managers for more information.
 4. Match scheduling will be handled by the tournament managers. Schedules will be released on the Sunday before the first matches of the stage. The tournament managers will try to create the schedule to respect the participants' time zones.
