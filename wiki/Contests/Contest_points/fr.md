@@ -42,6 +42,7 @@ Les points de concours ont été utilisés pour les concours suivants :
 | ::{ flag=DE }:: [**Mao**](https://osu.ppy.sh/users/2204515) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=KR }:: [**Acylica**](https://osu.ppy.sh/users/1943309) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=BE }:: [**Sylas**](https://osu.ppy.sh/users/3906405) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=US }:: [fowwo](https://osu.ppy.sh/users/4547551) | 5 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334) | 4 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (2), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (2) |
 | ::{ flag=US }:: [phyr](https://osu.ppy.sh/users/13181574) | 4 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=TH }:: [- Frontier -](https://osu.ppy.sh/users/4314710) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
@@ -53,7 +54,6 @@ Les points de concours ont été utilisés pour les concours suivants :
 | ::{ flag=PL }:: [Kalibe](https://osu.ppy.sh/users/3376777) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=US }:: [UndeadCapulet](https://osu.ppy.sh/users/2523533) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=EE }:: [iljaaz](https://osu.ppy.sh/users/8501291) | 2 | [Twin Trials](/wiki/Contests/Twin_Trials_Contest) |
-| ::{ flag=US }:: [fowwo](https://osu.ppy.sh/users/4547551) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=CN }:: [Moecho](https://osu.ppy.sh/users/5075660) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=GB }:: [Altai](https://osu.ppy.sh/users/5745865) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=CN }:: [fanzhen0019](https://osu.ppy.sh/users/418699) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
@@ -103,7 +103,7 @@ Les points de concours ont été utilisés pour les concours suivants :
 | Utilisateur | Points | Concours |
 | :-- | :-- | :-- |
 | ::{ flag=CN }:: [**tyrcs**](https://osu.ppy.sh/users/13026904) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (4), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (2) |
-| ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222) | 5 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=KR }:: [hemoo](https://osu.ppy.sh/users/4420703) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=CN }:: [richardfeder](https://osu.ppy.sh/users/2446000) | 2 | [Twin Trials](/wiki/Contests/Twin_Trials_Contest) |
 | ::{ flag=KR }:: [Kawawa](https://osu.ppy.sh/users/4647754) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
@@ -113,6 +113,7 @@ Les points de concours ont été utilisés pour les concours suivants :
 | ::{ flag=BR }:: [AutotelicBrown](https://osu.ppy.sh/users/4238941) | 1 | [Twin Trials](/wiki/Contests/Twin_Trials_Contest) |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | 1 | [Twin Trials](/wiki/Contests/Twin_Trials_Contest) |
 | ::{ flag=DE }:: [Leeju](https://osu.ppy.sh/users/18219603) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=PH }:: [Silicosis 2](https://osu.ppy.sh/users/18560307) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 
 ## Histoire
 
