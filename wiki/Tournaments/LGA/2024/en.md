@@ -122,6 +122,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/847
 ### Tournament registration
 
 1. Every user interested in playing will be be required to sign up by utilising the osu! tournament listing [linked above](#links).
+   - Exceptionally, every player placed #2,500 or higher on the osu! global ranking that participates on the osu!(lazer) playlist, as detailed on the [Qualifier information](#qualifier-information) section will be eligible for participation as competitors, provided that they pass our internal checks before playing bracket stage matches (if applicable). Players that meet these criteria and place on the top 32 qualified players will be messaged individually via the website.
 2. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments. To be successfully accepted on the list, players are required to be placed #2,500 or higher on the osu! global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 3. All successfully registered players will be published after the registration phase on this page.
 4. Participants will be briefed on further steps via an announcement message on the website.
@@ -138,6 +139,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/847
    - Hard Rock: 2 beatmaps
    - Double Time: 3 beatmaps
 4. Players will participate in an osu!(lazer) playlist lobby, which can be completed anywhere from Sunday, July 7 19:00 UTC to Sunday, July 14 19:00 UTC.
+   - The playlist to be played is titled `Lazer Grand Arena - Qualifiers`, hosted by [LeoFLT](https://osu.ppy.sh/users/3668779).
    - *Notice: the playlist **closes** on July 14, 19:00 UTC, at which point no new scores will be allowed. No exceptions will be made.*
 5. Players will have 22 tries to use across the 11 playlist entries, with no restrictions on the order of play or amount of tries per individual item.
 6. To be eligible for seeding, every player must submit *at least* one score for every beatmap listed.
@@ -210,9 +212,9 @@ The exact formula that will be used for all players (and for each map) is `Final
 ### Scheduling information
 
 1. Each stage (as described on the [Tournament schedule](#tournament-schedule) table) will be held on **a single weekend**.
-2. Matches in the Qualifiers will be held during specific time slots proposed by the tournament managers. Each player may choose a time slot in which they want to play.
-   - **Players who do not pick a time slot by Thursday, 12 July 2024 (23:59 UTC) will be disqualified from the competition.**
+2. Qualifiers are not eligible for scheduling. Instead, players must take part in an osu!(lazer) playlist, as detailed on the [Qualifier information](#qualifier-information) section.
 3. All bracket stages will be held between Saturday 00:00 and Sunday 19:00 UTC.
+   - Exceptions may be made where possible; please consult the tournament managers for more information.
 4. Match scheduling will be handled by the tournament managers. Schedules will be released on the Sunday before the first matches of the stage. The tournament managers will try to create the schedule to respect the participants' time zones.
 5. **Reschedules will only be considered if both players agree to a time and communicate it to the tournament managers, before Wednesday 23:59 UTC of the week when the match is to take place.**
    - Matches may not be scheduled to any time beyond **Sunday, 19:00 UTC** of the week they are to be played at.
