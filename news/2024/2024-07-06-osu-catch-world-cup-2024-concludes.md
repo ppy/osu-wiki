@@ -166,7 +166,381 @@ If you haven't done so already, please go give them a listen, because among the 
 
 ## Interviews
 
+<style>
+    .news-chat-quote__message-container {
+        display: grid;
+        grid-template-columns: 40px auto;
+    }
 
+    .news-chat-quote__avatar {
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+    }
+
+    .news-chat-quote__message-text-container {
+        margin-left: 15px;
+    }
+
+    .news-chat-quote__message-header {
+        margin-bottom: 2px;
+        white-space: nowrap;
+    }
+
+    .news-chat-quote__message_username {
+        font-weight: 600;
+    }
+
+    .news-chat-quote__message_timestamp {
+        margin-left: 3px;
+        font-size: 11px;
+        color: #80848E;
+    }
+</style>
+
+::{#wwwww-and-yoshi-green}::
+
+![](/wiki/shared/news/2024-07-06-osu-catch-world-cup-2024-concludes/wwwww-and-yoshi_green.png)
+
+[wwwww](https://osu.ppy.sh/users/8434466) and [Yoshi_green](https://osu.ppy.sh/users/1035891) assisted in various tasks as "advisors" for the osu!catch World Cup 2024.
+
+---
+
+<div class="news-chat-quote__message-container">
+    <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/news/2024-07-06-osu-catch-world-cup-2024-concludes/avatar-Walavouchey.jpg')"></a>
+    <div class="news-chat-quote__message-text-container">
+        <p class="news-chat-quote__message-header">
+            <a class="news-chat-quote__message_username" style="color: #DBA1D2" href="https://osu.ppy.sh/users/5773079">Walavouchey</a>
+            <span class="news-chat-quote__message_timestamp">30/06/2024 00:47</span>
+        </p>
+        <p class="osu-md__paragraph">
+            What has the "advisor" role entailed for you in the osu!catch World Cup?
+        </p>
+    </div>
+</div>
+
+<div class="news-chat-quote__message-container">
+    <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8434466" style="background-image: url('/wiki/shared/news/2024-07-06-osu-catch-world-cup-2024-concludes/avatar-wwwww.jpg')"></a>
+    <div class="news-chat-quote__message-text-container">
+        <p class="news-chat-quote__message-header">
+            <a class="news-chat-quote__message_username" style="color: #EB2660" href="https://osu.ppy.sh/users/8434466">wwwww</a>
+            <span class="news-chat-quote__message_timestamp">30/06/2024 00:54</span>
+        </p>
+        <p class="osu-md__paragraph">
+            An advisor role, is one that manages the mappool for a world cup and all of its components. This includes the following
+        </p>
+        <ul class="osu-md__list">
+            <li class="osu-md__list-item">Requesting what osu original artists we would want</li>
+            <li class="osu-md__list-item">Working with mappool selectors to create the mappool</li>
+            <li class="osu-md__list-item">Designing the systems (spreadsheets and signups) that mappers will be using</li>
+            <li class="osu-md__list-item">Modding the maps that mappers create</li>
+            <li class="osu-md__list-item">Creating maps where they are needed</li>
+            <li class="osu-md__list-item">Relaying mappool information to the organizers</li>
+        </ul>
+    </div>
+</div>
+
+<div class="news-chat-quote__message-container">
+    <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/1035891" style="background-image: url('/wiki/shared/news/2024-07-06-osu-catch-world-cup-2024-concludes/avatar-Yoshi_green.jpg')"></a>
+    <div class="news-chat-quote__message-text-container">
+        <p class="news-chat-quote__message-header">
+            <a class="news-chat-quote__message_username" style="color: #EB2660" href="https://osu.ppy.sh/users/1035891">Yoshi_green</a>
+            <span class="news-chat-quote__message_timestamp">30/06/2024 00:56</span>
+        </p>
+        <p class="osu-md__paragraph">
+            Yep, we're pretty much the intermediary party between the organizers, mappoolers, mappers, and players
+        </p>
+    </div>
+</div>
+
+<div class="news-chat-quote__message-container">
+    <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/news/2024-07-06-osu-catch-world-cup-2024-concludes/avatar-Walavouchey.jpg')"></a>
+    <div class="news-chat-quote__message-text-container">
+        <p class="news-chat-quote__message-header">
+            <a class="news-chat-quote__message_username" style="color: #DBA1D2" href="https://osu.ppy.sh/users/5773079">Walavouchey</a>
+            <span class="news-chat-quote__message_timestamp">30/06/2024 00:47</span>
+        </p>
+        <p class="osu-md__paragraph">
+            I heard from sakura that you planned out the artists you were wanting to request very early. What did that process and its timescale look like from your end?
+        </p>
+    </div>
+</div>
+
+<div class="news-chat-quote__message-container">
+    <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/1035891" style="background-image: url('/wiki/shared/news/2024-07-06-osu-catch-world-cup-2024-concludes/avatar-Yoshi_green.jpg')"></a>
+    <div class="news-chat-quote__message-text-container">
+        <p class="news-chat-quote__message-header">
+            <a class="news-chat-quote__message_username" style="color: #EB2660" href="https://osu.ppy.sh/users/1035891">Yoshi_green</a>
+            <span class="news-chat-quote__message_timestamp">01/07/2024 19:11</span>
+        </p>
+        <p class="osu-md__paragraph">
+            The process is as follows:
+        </p>
+        <ul class="osu-md__list">
+            <li class="osu-md__list-item">We write a list of artists based on desired genre and focus on having a wide spread of diverse songs</li>
+            <li class="osu-md__list-item">mangomizer reaches out to artists over the course of several weeks</li>
+            <li class="osu-md__list-item">When artists respond, we send some specifications and suggestions, though the artist has full agency over the song</li>
+            <li class="osu-md__list-item">A Discord channel is created where artists can send works in progress, where organisers and you advisors can send feedback</li>
+            <li class="osu-md__list-item">Production goes on for months until the due date, which is around when the song is expected to be showcased </li>
+            <li class="osu-md__list-item">While the production process is underway, we start thinking of potential rounds and slots to place the map in, once we hear enough of the song.</li>
+        </ul>
+        <p class="osu-md__paragraph">
+            We typically aim for a relatively even spread of originals across all rounds, slightly leaning towards the mid-to-lategame rounds - this is done in an attempt to reward players for reaching so far in the tournament bracket, while also trying to maximize the amount of teams who get to play the map in the tournament.
+        </p>
+        <p class="osu-md__paragraph">
+            Other advisors may have different philosophies for how and where they want to place their originals, however, and it really comes down to the songs we end up receiving.
+        </p>
+    </div>
+</div>
+
+<div class="news-chat-quote__message-container">
+    <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/news/2024-07-06-osu-catch-world-cup-2024-concludes/avatar-Walavouchey.jpg')"></a>
+    <div class="news-chat-quote__message-text-container">
+        <p class="news-chat-quote__message-header">
+            <a class="news-chat-quote__message_username" style="color: #DBA1D2" href="https://osu.ppy.sh/users/5773079">Walavouchey</a>
+            <span class="news-chat-quote__message_timestamp">01/07/2024 23:56</span>
+        </p>
+        <p class="osu-md__paragraph">
+            Moving on to mapping then, I wonder about the intricacies of handling mappools and custom maps. Are there general or distinct examples of the kinds of projects that go smoothly or ones that do not, projects you involve yourself more in, or moments where you've felt you've been able take a more hands-off approach?
+        </p>
+    </div>
+</div>
+
+<div class="news-chat-quote__message-container">
+    <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8434466" style="background-image: url('/wiki/shared/news/2024-07-06-osu-catch-world-cup-2024-concludes/avatar-wwwww.jpg')"></a>
+    <div class="news-chat-quote__message-text-container">
+        <p class="news-chat-quote__message-header">
+            <a class="news-chat-quote__message_username" style="color: #EB2660" href="https://osu.ppy.sh/users/8434466">wwwww</a>
+            <span class="news-chat-quote__message_timestamp">02/07/2024 13:26</span>
+        </p>
+        <p class="osu-md__paragraph">
+            Mapping, requires the most management and can definitely be quite chaotic. Similarly to last year, we went for an entirely custom pool so there were MANY maps to be made.
+        </p>
+        <p class="osu-md__paragraph">
+            Because of this high workload, the biggest issue is essentially getting finished by the deadline. It can lead to a very chaotic experience attempting to mod the maps to the best of your ability before showcase. While some maps may require less attention, its always worth checking every map in order to improve the experience as much as possible. We hope to lower the workload for next year to reduce the chaos though :')
+        </p>
+        <p class="osu-md__paragraph">
+            As for a hands-off approach, for me, my biggest example of that was listening to the songs as much as I possibly could in my spare time. For Psychology of James Berland (Ro16 TB) I bought the album cd "Culprate Number Four" and would listen to it everyday from and to work. Even listening too it on my breaks to generate more patterning ideas.
+        </p>
+        <p class="osu-md__paragraph">
+            While this might seem silly, every map that makes up the tournament has the opportunity to be special and provide players with an unforgettable experience. I feel many mappers (me included) attempt to facilitate that.
+        </p>
+    </div>
+</div>
+
+<div class="news-chat-quote__message-container">
+    <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/1035891" style="background-image: url('/wiki/shared/news/2024-07-06-osu-catch-world-cup-2024-concludes/avatar-Yoshi_green.jpg')"></a>
+    <div class="news-chat-quote__message-text-container">
+        <p class="news-chat-quote__message-header">
+            <a class="news-chat-quote__message_username" style="color: #EB2660" href="https://osu.ppy.sh/users/1035891">Yoshi_green</a>
+            <span class="news-chat-quote__message_timestamp">03/07/2024 05:16</span>
+        </p>
+        <p class="osu-md__paragraph">
+            Two things to add:
+        </p>
+        <p class="osu-md__paragraph">
+            In addition to the high volume of custom maps, another reason why it can become so chaotic is because many mapping signups are done within a narrow timespan. When it comes to signups, mappers can either approach us with a desired slot and/or song in mind, or the mappoolers can reach out to certain mappers to assign them a slot that we think will fit their mapping style.
+        </p>
+        <p class="osu-md__paragraph">
+            We opened signups several months before TWC even started - but a couple of weeks after signups started, over half of all the slots were taken already! It definitely becomes a bit of a juggling act to try and balance mapping styles and map difficulty, especially in the following weeks when the half-completed WIPs come flooding in.
+        </p>
+        <p class="osu-md__paragraph">
+            We also try to encourage mappers to map songs from the Featured Artist listing, in an attempt to further promote the featured artists' works under the official osu! channels. We try to roughly aim for a 50% FA usage rate for each round of the tournament, but this year, almost 70% of all of the songs used came from the listing! We'll do our best to match that next year.
+        </p>
+    </div>
+</div>
+
+---
+
+::{#soooo}::
+
+![](/wiki/shared/news/2024-07-06-osu-catch-world-cup-2024-concludes/soooo.png)
+
+[SOOOO](https://osu.ppy.sh/beatmaps/artists/30) composed the Finals tiebreaker track [illloved](https://osu.ppy.sh/beatmapsets/2195067) (pronounced "ill-loved") for the osu!catch World Cup 2024.
+
+---
+
+<div class="news-chat-quote__message-container">
+    <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/news/2024-07-06-osu-catch-world-cup-2024-concludes/avatar-Walavouchey.jpg')"></a>
+    <div class="news-chat-quote__message-text-container">
+        <p class="news-chat-quote__message-header">
+            <a class="news-chat-quote__message_username" style="color: #DBA1D2" href="https://osu.ppy.sh/users/5773079">Walavouchey</a>
+            <span class="news-chat-quote__message_timestamp">03/07/2024 07:27</span>
+        </p>
+        <p class="osu-md__paragraph">
+            What is the simplest way you would describe your music?
+        </p>
+    </div>
+</div>
+
+<div class="news-chat-quote__message-container">
+    <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/30" style="background-image: url('/wiki/shared/news/2024-07-06-osu-catch-world-cup-2024-concludes/avatar-SOOOO.jpg')"></a>
+    <div class="news-chat-quote__message-text-container">
+        <p class="news-chat-quote__message-header">
+            <a class="news-chat-quote__message_username" style="color: #1ABC9C" href="https://osu.ppy.sh/beatmaps/artists/30">SOOOO</a>
+            <span class="news-chat-quote__message_timestamp">03/07/2024 07:28</span>
+        </p>
+        <p class="osu-md__paragraph">
+            Excretion
+        </p>
+    </div>
+</div>
+
+<div class="news-chat-quote__message-container">
+    <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/news/2024-07-06-osu-catch-world-cup-2024-concludes/avatar-Walavouchey.jpg')"></a>
+    <div class="news-chat-quote__message-text-container">
+        <p class="news-chat-quote__message-header">
+            <a class="news-chat-quote__message_username" style="color: #DBA1D2" href="https://osu.ppy.sh/users/5773079">Walavouchey</a>
+            <span class="news-chat-quote__message_timestamp">03/07/2024 07:45</span>
+        </p>
+        <p class="osu-md__paragraph">
+            The reception of your music across all your songs makes it clear that many people resonate with their lyrics and powerful representation of emotions. What were your thoughts behind the emotions and message that you've imbued into <i>illloved</i>?
+        </p>
+    </div>
+</div>
+
+<div class="news-chat-quote__message-container">
+    <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/30" style="background-image: url('/wiki/shared/news/2024-07-06-osu-catch-world-cup-2024-concludes/avatar-SOOOO.jpg')"></a>
+    <div class="news-chat-quote__message-text-container">
+        <p class="news-chat-quote__message-header">
+            <a class="news-chat-quote__message_username" style="color: #1ABC9C" href="https://osu.ppy.sh/beatmaps/artists/30">SOOOO</a>
+            <span class="news-chat-quote__message_timestamp">03/07/2024 08:56</span>
+        </p>
+        <p class="osu-md__paragraph">
+            I create music primarily for myself, so there is no message intended for anyone else. "illloved" was simply released as a result of negative emotions that had matured within me over many years and couldn't be fully expressed in words. However, there may have been a feeling that I couldn't bear to die holding onto these emotions alone.
+        </p>
+    </div>
+</div>
+
+<div class="news-chat-quote__message-container">
+    <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/news/2024-07-06-osu-catch-world-cup-2024-concludes/avatar-Walavouchey.jpg')"></a>
+    <div class="news-chat-quote__message-text-container">
+        <p class="news-chat-quote__message-header">
+            <a class="news-chat-quote__message_username" style="color: #DBA1D2" href="https://osu.ppy.sh/users/5773079">Walavouchey</a>
+            <span class="news-chat-quote__message_timestamp">03/07/2024 09:10</span>
+        </p>
+        <p class="osu-md__paragraph">
+            Have the ideas you've wanted to convey in music changed over time?
+        </p>
+    </div>
+</div>
+
+<div class="news-chat-quote__message-container">
+    <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/30" style="background-image: url('/wiki/shared/news/2024-07-06-osu-catch-world-cup-2024-concludes/avatar-SOOOO.jpg')"></a>
+    <div class="news-chat-quote__message-text-container">
+        <p class="news-chat-quote__message-header">
+            <a class="news-chat-quote__message_username" style="color: #1ABC9C" href="https://osu.ppy.sh/beatmaps/artists/30">SOOOO</a>
+            <span class="news-chat-quote__message_timestamp">03/07/2024 09:25</span>
+        </p>
+        <p class="osu-md__paragraph">
+            My fundamentals and beliefs have not changed at all, but the commitment I put into the sounds I make has become more complex over the years.
+        </p>
+    </div>
+</div>
+
+<div class="news-chat-quote__message-container">
+    <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/news/2024-07-06-osu-catch-world-cup-2024-concludes/avatar-Walavouchey.jpg')"></a>
+    <div class="news-chat-quote__message-text-container">
+        <p class="news-chat-quote__message-header">
+            <a class="news-chat-quote__message_username" style="color: #DBA1D2" href="https://osu.ppy.sh/users/5773079">Walavouchey</a>
+            <span class="news-chat-quote__message_timestamp">03/07/2024 09:55</span>
+        </p>
+        <p class="osu-md__paragraph">
+            Many people aren't fully aware of the amount of time invested from multiple people into projects like these. Would you mind sharing a brief overview of what the timeline or schedule for <i>illloved</i> looked like from your end?
+        </p>
+    </div>
+</div>
+
+<div class="news-chat-quote__message-container">
+    <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/30" style="background-image: url('/wiki/shared/news/2024-07-06-osu-catch-world-cup-2024-concludes/avatar-SOOOO.jpg')"></a>
+    <div class="news-chat-quote__message-text-container">
+        <p class="news-chat-quote__message-header">
+            <a class="news-chat-quote__message_username" style="color: #1ABC9C" href="https://osu.ppy.sh/beatmaps/artists/30">SOOOO</a>
+            <span class="news-chat-quote__message_timestamp">03/07/2024 10:24</span>
+        </p>
+        <p class="osu-md__paragraph">
+            The song itself took nearly two years to produce. From there, we developed the idea for the music video and commissioned several drawings from an illustrator based on that idea. In between deliveries I was mixing and mastering. This took a total of nearly six months. Finally, the music video was completed after a month and a half of production in After Effects.
+        </p>
+    </div>
+</div>
+
+<div class="news-chat-quote__message-container">
+    <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/news/2024-07-06-osu-catch-world-cup-2024-concludes/avatar-Walavouchey.jpg')"></a>
+    <div class="news-chat-quote__message-text-container">
+        <p class="news-chat-quote__message-header">
+            <a class="news-chat-quote__message_username" style="color: #DBA1D2" href="https://osu.ppy.sh/users/5773079">Walavouchey</a>
+            <span class="news-chat-quote__message_timestamp">03/07/2024 12:45</span>
+        </p>
+        <p class="osu-md__paragraph">
+            Which artists do you listen to often, or perhaps take inspiration from?
+        </p>
+    </div>
+</div>
+
+<div class="news-chat-quote__message-container">
+    <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/30" style="background-image: url('/wiki/shared/news/2024-07-06-osu-catch-world-cup-2024-concludes/avatar-SOOOO.jpg')"></a>
+    <div class="news-chat-quote__message-text-container">
+        <p class="news-chat-quote__message-header">
+            <a class="news-chat-quote__message_username" style="color: #1ABC9C" href="https://osu.ppy.sh/beatmaps/artists/30">SOOOO</a>
+            <span class="news-chat-quote__message_timestamp">03/07/2024 13:03</span>
+        </p>
+        <p class="osu-md__paragraph">
+            I am influenced by many artists, but BUCK-TICK was the one I listened to the most during the production of "illloved".
+        </p>
+    </div>
+</div>
+
+<div class="news-chat-quote__message-container">
+    <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/news/2024-07-06-osu-catch-world-cup-2024-concludes/avatar-Walavouchey.jpg')"></a>
+    <div class="news-chat-quote__message-text-container">
+        <p class="news-chat-quote__message-header">
+            <a class="news-chat-quote__message_username" style="color: #DBA1D2" href="https://osu.ppy.sh/users/5773079">Walavouchey</a>
+            <span class="news-chat-quote__message_timestamp">03/07/2024 13:07</span>
+        </p>
+        <p class="osu-md__paragraph">
+            What drives you to make music?
+        </p>
+    </div>
+</div>
+
+<div class="news-chat-quote__message-container">
+    <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/30" style="background-image: url('/wiki/shared/news/2024-07-06-osu-catch-world-cup-2024-concludes/avatar-SOOOO.jpg')"></a>
+    <div class="news-chat-quote__message-text-container">
+        <p class="news-chat-quote__message-header">
+            <a class="news-chat-quote__message_username" style="color: #1ABC9C" href="https://osu.ppy.sh/beatmaps/artists/30">SOOOO</a>
+            <span class="news-chat-quote__message_timestamp">03/07/2024 13:08</span>
+        </p>
+        <p class="osu-md__paragraph">
+            Self-loathing
+        </p>
+    </div>
+</div>
+
+<div class="news-chat-quote__message-container">
+    <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/news/2024-07-06-osu-catch-world-cup-2024-concludes/avatar-Walavouchey.jpg')"></a>
+    <div class="news-chat-quote__message-text-container">
+        <p class="news-chat-quote__message-header">
+            <a class="news-chat-quote__message_username" style="color: #DBA1D2" href="https://osu.ppy.sh/users/5773079">Walavouchey</a>
+            <span class="news-chat-quote__message_timestamp">03/07/2024 13:13</span>
+        </p>
+        <p class="osu-md__paragraph">
+            Do you have any other reflections about the time you've spent making <i>illloved</i>, or the people you've been working with this time?
+        </p>
+    </div>
+</div>
+
+<div class="news-chat-quote__message-container">
+    <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/30" style="background-image: url('/wiki/shared/news/2024-07-06-osu-catch-world-cup-2024-concludes/avatar-SOOOO.jpg')"></a>
+    <div class="news-chat-quote__message-text-container">
+        <p class="news-chat-quote__message-header">
+            <a class="news-chat-quote__message_username" style="color: #1ABC9C" href="https://osu.ppy.sh/beatmaps/artists/30">SOOOO</a>
+            <span class="news-chat-quote__message_timestamp">03/07/2024 13:37</span>
+        </p>
+        <p class="osu-md__paragraph">
+            I think I am one of those musicians whose production speed is slow. Even among such people, this time was the biggest blank ever. I am truly grateful to my fans who have been waiting for this new song for a long time. I was also happy to collaborate with Kawazu Inoue, who illustrated the music video for "Happppy song" 6 years ago, for the first time in a long time. I would also like to thank the management team of osu! for adopting "illloved" and all the people involved in it.
+        </p>
+    </div>
+</div>
 
 ---
 
