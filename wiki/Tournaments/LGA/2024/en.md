@@ -122,11 +122,11 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/847
 ### Tournament registration
 
 1. Every user interested in playing will be be required to sign up by utilising the osu! tournament listing [linked above](#links).
-   - Exceptionally, every player placed #2,500 or higher on the osu! global ranking that participates on the osu!(lazer) playlist will be eligible for participation, provided that they pass our internal checks before playing the bracket stage matches. Players that meet these criteria and place on the top 32 qualified players will be messaged individually via the website.  
-3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments. To be successfully accepted on the list, players are required to be placed #2,500 or higher on the osu! global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
-4. All successfully registered players will be published after the registration phase on this page.
-5. Participants will be briefed on further steps via an announcement message on the website.
-6. Tournament staff members are **not** allowed to play in the tournament, with the exception of commentators, statisticians, and streamers.
+   - Exceptionally, every player placed #2,500 or higher on the osu! global ranking that participates on the osu!(lazer) playlist, as detailed on the [Qualifier information](#qualifier-information) section will be eligible for participation as competitors, provided that they pass our internal checks before playing bracket stage matches (if applicable). Players that meet these criteria and place on the top 32 qualified players will be messaged individually via the website.
+2. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments. To be successfully accepted on the list, players are required to be placed #2,500 or higher on the osu! global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
+3. All successfully registered players will be published after the registration phase on this page.
+4. Participants will be briefed on further steps via an announcement message on the website.
+5. Tournament staff members are **not** allowed to play in the tournament, with the exception of commentators, statisticians, and streamers.
    - The tournament managers must ensure that such staff members do not have access to priviledged information, e.g. Qualifiers score information, mappool information before the mappool showcase, etc. They are to be treated as regular players whenever possible.
 
 ### Qualifier information
