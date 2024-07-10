@@ -68,7 +68,7 @@ En el centro está el campo de juego real. El campo de juego se compone de dos p
 
 | Color de la nota | Descripción |
 | :-- | :-- |
-| Azul | Selected note(s) |
+| Azul | Notas seleccionadas |
 | Blanca/Rosa/Amarilla | Colores de las notas no seleccionadas |
 
 ## Diseño
