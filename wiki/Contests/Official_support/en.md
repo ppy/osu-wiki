@@ -62,7 +62,11 @@ If your contest satisfies the [eligibility criteria](#eligibility), you can make
   - Previous iterations of the same contest series (if applicable).
   - Your contest on the [Mappers' Guild contest listing](https://mappersguild.com/contests/listing) (if applicable).
 
-Once we receive your request, the osu! team will send an approval or denial of your contest's official support status. Please send any such requests as early as possible before registrations, ideally at least a month in advance, to allow time for consideration.
+Once we receive your request, the osu! team will send an approval or denial of your contest's official support status.
+
+Profile badge prizes must be requested at most two months after the contest's completion. **Badges will never be approved until after the conclusion of the contest.**
+
+For news posts, setting up contest listings, or any other inquiries, please contact us as early as possible before registrations, ideally at least a month in advance, to allow time for consideration.
 
 The osu! team may choose to deny official support to any contest that fits the eligibility criteria at their discretion. This ensures no foul play occurs by contest organisers taking advantage of criteria loopholes, so if you are running a contest without ill intent, you likely do not need to worry about this.
 
