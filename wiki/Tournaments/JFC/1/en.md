@@ -26,9 +26,9 @@ The **Jogja Fun Cup** (***JFC***) is a double-elimination 2v2 osu! tournament ho
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | €150.00 (courtesy of ::{ flag=NL }:: [Miya the turtle](https://osu.ppy.sh/users/13032176)), 1 month of osu!supporter for each team member, exclusive [LUMINOZ](https://luminoz.bandcamp.com/) goodie pack, custom-made profile banner |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Exclusive [LUMINOZ](https://luminoz.bandcamp.com/) goodie pack, custom-made profile banner |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Custom-made profile banner |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | €100.00 (courtesy of ::{ flag=NL }:: [Miya the turtle](https://osu.ppy.sh/users/13032176)), 1 month of osu!supporter for each team member, exclusive [LUMINOZ](https://luminoz.bandcamp.com/) goodie pack, custom-made profile banner |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | €30.00 (courtesy of ::{ flag=NL }:: [Miya the turtle](https://osu.ppy.sh/users/13032176)), exclusive [LUMINOZ](https://luminoz.bandcamp.com/) goodie pack, custom-made profile banner |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | €20.00 (courtesy of ::{ flag=NL }:: [Miya the turtle](https://osu.ppy.sh/users/13032176)). custom-made profile banner |
 
 ## Organisation
 
@@ -40,7 +40,7 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
 | Mappool selector | ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [StayMusical](https://osu.ppy.sh/users/12688176), ::{ flag=US }:: [Lifan Li](https://osu.ppy.sh/users/4050359) |
 | Playtester | *to be announced* |
 | Streamer | ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938) |
-| Commentator | ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938),::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627), ::{ flag=ID }:: [DAMB-](https://osu.ppy.sh/users/14748550), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) |
+| Commentator | ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627), ::{ flag=ID }:: [DAMB-](https://osu.ppy.sh/users/14748550), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) |
 | Referee | ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434), ::{ flag=ID }:: [dhimas arya](https://osu.ppy.sh/users/7108145), ::{ flag=ID }:: [BeefyNoragami](https://osu.ppy.sh/users/11065629), ::{ flag=NL }:: [Miya the turtle](https://osu.ppy.sh/users/13032176) |
 | Graphic designer | ::{ flag=ID }:: [hikimaruy](https://osu.ppy.sh/users/9510067) |
 | Spreadsheet manager | ::{ flag=HK }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866) |
@@ -51,11 +51,9 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
 - **[Master spreadsheet](https://docs.google.com/spreadsheets/d/1hdu0eQKPnA-9y48VV-PWSMDpSDm-Y1e69PoguFraYeE/edit?gid=287204203#gid=287204203)**
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1936900?n=1)
 - [Discord server](https://discord.com/invite/kQuJAEbnXe)
-- [Livestream channel](https://www.twitch.tv/osuindonesia)
+- [Livestream channel](https://www.twitch.tv/jogjafuncup)
 
 ## Participants
-
-*This list is tentative as of June 27, 2024.*
 
 | Team name | Members |
 | :-: | :-- |
@@ -64,6 +62,7 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
 | BAKPIA KUKUS KILLER | ::{ flag=ID }:: **[MejiroMcQueen](https://osu.ppy.sh/users/11320627)**, ::{ flag=ID }:: [FAW](https://osu.ppy.sh/users/11070577), ::{ flag=ID }:: [ThatNOOBGuy](https://osu.ppy.sh/users/11091594) |
 | Ban HR2 | ::{ flag=ID }:: **[ruruichi](https://osu.ppy.sh/users/6717559)**, ::{ flag=ID }:: [moyamoyano\_sa](https://osu.ppy.sh/users/3891439), ::{ flag=ID }:: [Azasapag](https://osu.ppy.sh/users/18347666) |
 | daan mogot | ::{ flag=ID }:: **[Sunohara Kokona](https://osu.ppy.sh/users/11421465)**, ::{ flag=ID }:: [Zavier](https://osu.ppy.sh/users/11379592), ::{ flag=ID }:: [Zankur](https://osu.ppy.sh/users/16249373) |
+| daftar mepet | ::{ flag=ID }:: **[i love wtq](https://osu.ppy.sh/users/12797668)**, ::{ flag=ID }:: [DerpyX\_X](https://osu.ppy.sh/users/14366893), ::{ flag=ID }:: [honeymint](https://osu.ppy.sh/users/4796773) |
 | Duo Ambatron | ::{ flag=ID }:: **[bramasetio](https://osu.ppy.sh/users/34354002)**, ::{ flag=ID }:: [tempegapakenasi](https://osu.ppy.sh/users/34079628) |
 | Hina Dutro | ::{ flag=ID }:: **[Mipol](https://osu.ppy.sh/users/10954080)**, ::{ flag=ID }:: [Zevonik](https://osu.ppy.sh/users/11753540), ::{ flag=ID }:: [RAKAMILKITA](https://osu.ppy.sh/users/18405313) |
 | Kagamarcchino ﾃﾞﾗｸｽ | ::{ flag=ID }:: **[Xicyte](https://osu.ppy.sh/users/10212581)**, ::{ flag=ID }:: [Zoont](https://osu.ppy.sh/users/7109269), ::{ flag=ID }:: [Anphans](https://osu.ppy.sh/users/14231431) |
@@ -75,11 +74,30 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
 | Tahu Sumedang | ::{ flag=ID }:: **[lucidators](https://osu.ppy.sh/users/10154981)**, ::{ flag=ID }:: [controlledHive](https://osu.ppy.sh/users/11182595), ::{ flag=ID }:: [Mank](https://osu.ppy.sh/users/18263974) |
 | YJJA | ::{ flag=ID }:: **[Xenoid](https://osu.ppy.sh/users/26993756)**, ::{ flag=ID }:: [kairazhel](https://osu.ppy.sh/users/32835998), ::{ flag=ID }:: [GranXso](https://osu.ppy.sh/users/32189812) |
 
+## Mappools
+
+### Qualifiers
+
+- No Mod
+  1. [Kito Akari - Desire Again (Amateurre) \[Lust\]](https://osu.ppy.sh/beatmapsets/1368404#osu/2829777)
+  2. [Xi - Youyoumu \~ Run or Dash (OldEclipse) \[Blossom\]](https://osu.ppy.sh/beatmapsets/1918615#osu/3959243)
+  3. [Adust Rain - psychology (h1dron) \[Xevia's Expert\]](https://osu.ppy.sh/beatmapsets/1989122#osu/4168809)
+  4. [BEMANI Sound Team "Sota Fujimori" - OZONE (pip) \[Sunazuka Akira's Extra\]](https://osu.ppy.sh/beatmapsets/1774242#osu/3639372)
+- Hidden
+  1. [rejection - Signal feat. Such (Mameyudoufu Remix) (Samlyi) \[yea\]](https://osu.ppy.sh/beatmapsets/1841868#osu/3783177)
+  2. [SWAN K feat. Asuka M - LOVE B.B.B (Saika0k1) \[YOKES' EXPERT\]](https://osu.ppy.sh/beatmapsets/1100957#osu/2436870)
+- Hard Rock
+  1. [wotoha - O108ROCKET (feat. Neko Hacker) (Garden) \[Yogurtt's Interstellar\]](https://osu.ppy.sh/beatmapsets/1510106#osu/3153827)
+  2. [Reku Mochizuki - Yorixiro (Yugu) \[Extra\]](https://osu.ppy.sh/beatmapsets/1438879#osu/2960558)
+- Double Time
+  1. [felys feat. Natsukawa Yoko - Celsus (LONG VERSION) (Elcheer) \[Insane\]](https://osu.ppy.sh/beatmapsets/1604680#osu/3276823)
+  2. [-45 - Millarca (Stick2Glue) \[Malice\]](https://osu.ppy.sh/beatmapsets/1833512#osu/3764144)
+
 ## Ruleset
 
 ### General rules
 
-1. All match lobbies across the tournament will adhere to the following room settings:
+1. Match lobbies across the tournament will adhere to the following room settings:
    - Team Mode: `Team VS` (2v2)
    - Win Condition: [`ScoreV2`](/wiki/Gameplay/Score#scorev2)
 2. The mappools for each round will be announced by the tournament management in advance before the actual matches take place.
@@ -110,7 +128,7 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
 #### Qualifier rules
 
 1. Each team will have to sign up to one of the Qualifier lobbies that have been scheduled and prepared by the tournament management in advance.
-2. In the lobby, all teams will have to consecutively play all of the eight Qualifier beatmaps in the order of NM1 -> NM2 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
+2. In the lobby, all teams will have to consecutively play all of the ten Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> NM4 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
 3. Teams **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Teams **are not allowed** to join (or register for) more than one Qualifier lobby.
 5. Based on their performance in the Qualifier, teams will be ranked based on their average rank combined from each individual Qualifier beatmaps.
