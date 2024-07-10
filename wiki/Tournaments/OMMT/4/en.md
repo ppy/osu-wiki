@@ -17,7 +17,7 @@ The **osu!mania Malaysia Tournament 4** (***OMMT 4***) is a Malaysian team-based
 | --: | :-- |
 | Registration phase | 2024-05-26/2024-06-17 |
 | Screening phase | 2024-06-18/2024-06-30 |
-| Qualifiers showcase | 2024-07-01 |
+| Qualifier showcase | 2024-07-01 |
 | Qualifiers | 2024-07-06/2024-07-07 |
 | Round of 32 | 2024-07-13/2024-07-14 |
 | Round of 16 | 2024-07-20/2024-07-21 |
@@ -154,89 +154,86 @@ The final standings for the Qualifiers stage can be found in the following [spre
 
 ### General rules
 
-1. This tournament is a is a 1v1, Team Size 2, double-elimination tournament, played with Score V2 & Team VS enforced.
-2. This tournament will use a Ban & Protect system, details regarding this topic is explained further in [Protecting and Banning](#protecting-and-banning) section.
+1. This tournament is a is a 1v1, team size 2, double-elimination tournament, played with Score V2 and Team VS enforced.
+2. This tournament will use a ban and protect system. Details regarding this topic is explained further in the [Protecting and banning](#protecting-and-banning) section.
 3. A pool-based gimmick is implemented, with certain map(s) getting altered every pool.
-4. Teams must be below the average pp cap of 12,000pp in osu!mania 4K after Badged Weighted Seeding (BWS) the moment registration concludes to be allowed to participate in this tournament.
-5. Badged Weighted Seeding (BWS) is in effect for this tournament, and the formula is as following: `pp * (2 - rank ** (0.9937 ** (badges ** 1.75) - 1))`.
-6. First player in the team composition will also be its captain, and it **must have the Malaysian flag on their profile to be able to participate** in the tournament.
-7. Second player in the team composition must be a non-Malaysian player.
-8. Every player **must be present in the Discord server and rename** themselves to their osu! in-game username, to be eligible to participate.
+4. Teams must be below the average performance point cap of 12,000 pp in osu!mania 4K after badge-weighted seeding (BWS) the moment registration concludes to be allowed to participate in this tournament.
+5. Badge-weighted seeding (BWS) is in effect for this tournament, and the formula is as following: `pp * (2 - rank ** (0.9937 ** (badges ** 1.75) - 1))`.
+6. The first player in the team composition will also be its captain, and **they must have the Malaysian flag on their profile to be able to participate in the tournament**.
+7. The second player in the team composition must be a non-Malaysian player.
+8. Every player **must be present in the Discord server and rename themselves to their osu! in-game username**, to be eligible to participate.
 9. Commentators, streamers, and graphic designers are welcome to participate.
-10. Every staff and player must respect each other and follow the [osu! community rules](/wiki/Rules), no discussion about sensitive topics (for example religion, politics), and anything that could be offensive to others.
+10. All staff and players must respect each other and follow the [osu! community rules](/wiki/Rules). No discussion about sensitive topics (for example religion, politics) and anything that could be offensive to others is allowed.
 
 ### Mappool format
 
-*Note: Every pool, certain map bracket(s) will get altered along the way.*
+*Note: In every pool, certain map bracket(s) will be altered along the way.*
 
-| Stage | RC Stage | LN Stage | Hybrid Stage | SV Stage | Tiebreaker Stage | Winning Condition |
+| Stage | RC stage | LN stage | Hybrid stage | SV stage | Tiebreaker stage | Win condition |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| Qualifiers | 2 Maps | 2 Maps | 1 Map | 1 Map | No Tiebreaker | 1-6 Stages |
-| Round of 32 | 5 Maps | 3 Maps | 2 Maps | 2 Maps | 1 Map | BO9 |
-| Round of 16 | 5 Maps | 3 Maps | 2 Maps | 2 Maps | 1 Map | BO9 |
-| Quarterfinals | 6 Maps | 3 Maps | 3 Maps | 2 Maps | 1 Map | BO11 |
-| Semifinals | 6 Maps | 3 Maps | 3 Maps | 2 Maps | 1 Map | BO11 |
-| Finals | 7 Maps | 4 Maps | 3 Maps | 2 Maps | 1 Map | BO13 |
-| Grand Finals | 7 Maps | 4 Maps | 3 Maps | 2 Maps | 1 Map | BO13 |
+| Qualifiers | 2 maps | 2 maps | 1 map | 1 map | - | 1–6 stages |
+| Round of 32 | 5 maps | 3 maps | 2 maps | 2 maps | 1 map | BO9 |
+| Round of 16 | 5 maps | 3 maps | 2 maps | 2 maps | 1 map | BO9 |
+| Quarterfinals | 6 maps | 3 maps | 3 maps | 2 maps | 1 map | BO11 |
+| Semifinals | 6 maps | 3 maps | 3 maps | 2 maps | 1 map | BO11 |
+| Finals | 7 maps | 4 maps | 3 maps | 2 maps | 1 map | BO13 |
+| Grand Finals | 7 maps | 4 maps | 3 maps | 2 maps | 1 map | BO13 |
 
 ### Tournament procedure
 
 #### Qualifiers
 
-1. The referee will notify the player 10-15 minutes before the lobby is scheduled to start. Once all the players are present or another 10 minutes has passed since the scheduled time, the lobby will start.
-2. Each Team must play ALL the maps in the qualifier mappool and be in a multiplayer match with a referee present.
-3. Players will play the mappool in order from Stage 1-6 twice. After the first cycle, players will be given a 5 minute break before continuing with the 2nd cycle which follows the same procedure. Players are allowed to skip this break if all players present in the lobby agree to start the 2nd run right away.
+1. The referee will notify the players 10–15 minutes before the lobby is scheduled to start. Once all players are present or another 10 minutes have passed since the scheduled time, the lobby will start.
+2. Each team must play **all** the maps in the qualifier mappool and be in a multiplayer match with a referee present.
+3. Players will play the mappool in order from stage 1–6 twice. After the first cycle, players will be given a 5-minute break before continuing with the 2nd cycle, which follows the same procedure. Players are allowed to skip this break if all players present in the lobby agree to start the 2nd run right away.
 4. If a player disconnects or encounters any technical issues within the first 30 seconds of a map, they are allowed to replay that particular map after the lobby is done with all the remaining maps.
-5. Both players are required to play each qualifier once, with an opportunity to play all of them twice. However in the event of a no-show, a team will not be disqualified and only the scores from the present teammate will be taken for seeding.
+5. Both players are required to play each qualifier once, with an opportunity to play all of them twice. In the event of a no-show however, a team will not be disqualified, and only the scores from the present teammate will be taken for seeding.
 
 #### Knockout stage
 
-1. A referee will create a multiplayer room 15 minutes in advance. Players must meet during this period. The room configuration is osu!mania, Team-Vs, Win Condition: 'ScoreV2'. The room name must be "(OMMT4): (TeamRed) vs (TeamBlue)".
-2. As soon as both players enter the room, the warm-up beatmaps they communicated to the referee earlier will be played. If a player is late for the match, his warm-up is skipped.
-3. Warmups must not exceed more than 4:00 in length and must be an osu!mania beatmap. Players cannot pick or use a provocative warmup to ensure that the live stream is family friendly to watch.
+1. A referee will create a multiplayer room 15 minutes in advance. Players must meet during this period. The room configuration is osu!mania, Team VS, win condition: ScoreV2. The room name must be `(OMMT4): (Team Red) vs (Team Blue)`.
+2. As soon as both players enter the room, the warm-up beatmaps they communicated to the referee earlier will be played. If a player is late for the match, their warm-up is skipped.
+3. Warmups must not exceed more than 4:00 in length and must be an osu!mania beatmap. Players cannot pick or use a provocative warmup to ensure that the livestream is family friendly to watch.
 4. Players **cannot play more than 3 maps in a row** during a match.
 
-#### Protecting and Banning
+#### Protecting and banning
 
-1. The player will be required to roll for protecting and banning maps for a total of protecting 2 maps and banning 1 map. The player with the highest roll will be allowed to protect a map of their choice first, as well being able to ban first, this is a bit complicated so please don't hesitate to ask in the discord server if you do not understand this explanation.
-2. A player cannot protect 2 maps of the same type (ex: player 1 protects HB1, now player 1 cannot protect any of the remaining hybrids), this rule applies to each person individually. Sequence example are shown in table below:
+1. Players will be required to roll for protecting and banning maps, protecting 2 maps and banning 1 map in total. The player with the highest roll will be allowed to protect a map of their choice first, as well being able to ban first.
+2. A player cannot protect 2 maps of the same type (e.g. if player 1 protects HB1, they cannot protect any of the remaining hybrids), this rule applies to each person individually.
+3. During the protect/ban/pick phases, each player will be given a 2 minute timer to choose their maps. If the player ends up taking too long, the referee will roll a number corresponding to the number of maps in the mappool (minus the tiebreaker), to randomly choose a map for them. This is to ensure that a match doesn't take too long as it does not benefit anyone.
+4. Each player will receive one "timeout" of two minutes per match, to be used as extra time to pick a beatmap or to rest. The timeout is optional, the only exception being during tiebreaker scenarios where both players are given a two minute timeout regardless.
 
-If Player 1 wins the roll:
+Protect/ban/pick order:
 
 | Player | Action |
 | :-- | :-- |
-| Player 1 | Will protect first |
-| Player 2 | Will protect 2 maps |
-| Player 1 | Will protect 1 more map |
-| Player 1 | Will ban first |
-| Player 2 | Will ban 1 map |
-| Player 2 | Will picks the first map |
-
-3. During the protect/ban/pick phases each player will be given a 2 minute time to choose their maps, if players end up taking too long, the referee will roll a number corresponding to the number of maps in the mappool (minus tiebreaker, example: the mappool has 11 maps so the ref will `!roll` 10), to randomly choose a map for them. This is to ensure that a match doesn't take too long as it does not benefit anyone.
-4. Each player will receive one "timeout" of two minutes per match, to be used as extra time to pick a beatmap or to rest. The timeout may , the only exception being during tiebreaker scenarios where both players are given a two minute timeout regardless.
+| Roll winner | Protects first |
+| Roll loser | Protects 2 maps |
+| Roll winner | Protects 1 more map |
+| Roll winner | Bans first |
+| Roll loser | Bans 1 map |
+| Roll loser | Picks the first map |
 
 #### Additional procedures
 
 1. Players can reschedule to a later qualifier lobby if they missed their scheduled lobby.
-2. In case of a situation where the player doesn't show on match time, the match will be delayed by 10 minutes. If the player still does not show up the winner of the match will automatically be the other player present. To avoid this please check schedules properly and do an emergency reschedule beforehand if needed but with a valid reason.
-3. If a disconnection happens within 30 seconds or first 25% after the map starts, the referee has the option to abort and restart the map. Lag isn't a reason to restart the match.
-4. Visual mods such as HD, FL, FI and MR along with NF mod are allowed. Meanwhile EZ and HR mod are not allowed.
-5. If a player is not cooperative with the referee/intentionally stalling the match, they will be warned by the referee. If the problem persists, the host has the power to end the match and decide the winner on the spot.
-6. Other special and unique cases that could happen will be up to the host to decide the next moves.
+2. In case of a situation where the player does not show up on time, the match will be delayed by 10 minutes. If the player still does not show up, the win will automatically be handed to the other player present. To avoid this, please check schedules properly and, provided the reason is valid, do an emergency reschedule beforehand if necessary.
+3. If a disconnection happens within 30 seconds or the first 25% after the map starts, the referee has the option to abort and restart the map. Lag is not a valid reason to restart the match.
+4. Visual mods such as HD, FL, FI, and MR along with NF are allowed. Meanwhile, EZ and HR are not allowed.
+5. If a player is not cooperative with the referee or intentionally stalling the match, they will be warned by the referee. If the problem persists, the host has the power to end the match and decide the winner on the spot.
+6. Other special and unique cases that could happen will be handled at the host's discretion.
 
 ### Scheduling
 
-The Tournament staff will be responsible for scheduling all matches and informing players when they are scheduled to play. If a player is not happy or comfortable with the schedule they will have the option to request for a reschedule, details about this topic will be in the discord server.
+The tournament staff will be responsible for scheduling all matches and informing players when they are scheduled to play. If a player is not happy or comfortable with the schedule, they will have the option to request for a reschedule. Details about this topic will be in the Discord server.
 
-We will do our best to schedule each match according to each player's preferred time to play. There are several some additional conditions that could affect certain match shown below:
+The staff will do their best to schedule each match according to each player's preferred time to play. There are also some additional situations that could affect match schedules:
 
 1. If no referee is available during the match, the match shall be delayed.
 2. If no streamers are available to broadcast the match, the match will still happen without being broadcasted.
 3. If no commentators are available to commentate the match but streamers are available to broadcast the match, the match will still be broadcasted but without commentary.
 
-#### Extras
+Matches will be broadcast on a best-effort basis. If two matches happen at the same time, one will be prioritised:
 
-Please note that we will try our best to broadcast every match. If two matches happen at the same time we will prioritize:
-
-1. The scheduled match over rescheduled matches.
-2. The winner bracket match over the lower bracket match
+1. Scheduled matches over rescheduled matches.
+2. Winners' bracket matches over losers' bracket matches.
