@@ -59,8 +59,8 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1926895)
 - [Discord server](https://discord.gg/FpeqwhkZwy)
 - [Livestream](https://www.twitch.tv/osumaniamys)
-- [ASC rulebook](https://docs.google.com/document/d/1Idt90NkIMZQHDNJBlDCZ5fcQ6msl3Stt8go_rJe0WAw/edit?usp=sharing)
-- [ASC Youtube channel](https://www.youtube.com/@osumaniamys)
+- [OMMT rulebook](https://docs.google.com/document/d/1Idt90NkIMZQHDNJBlDCZ5fcQ6msl3Stt8go_rJe0WAw/edit?usp=sharing)
+- [OMMT Youtube channel](https://www.youtube.com/@osumaniamys)
 - [Information spreadsheet](https://docs.google.com/spreadsheets/d/1CiGPgAjVi6gnNVfoXYqWrozM8GBUxHPM1EfCHJbrIMc/edit?usp=sharing)
 
 ## Participants
@@ -162,7 +162,7 @@ The final standings for the Qualifiers stage can be found in the following [spre
 6. The first player in the team composition will also be its captain, and **they must have the Malaysian flag on their profile to be able to participate in the tournament**.
 7. The second player in the team composition must be a non-Malaysian player.
 8. Every player **must be present in the Discord server and rename themselves to their osu! in-game username**, to be eligible to participate.
-9. Commentators, streamers, and graphic designers are welcome to participate.
+9. Casters, streamers, and graphic designers are welcome to participate.
 10. All staff and players must respect each other and follow the [osu! community rules](/wiki/Rules). No discussion about sensitive topics (for example religion, politics) and anything that could be offensive to others is allowed.
 
 ### Mappool format
@@ -231,7 +231,7 @@ The staff will do their best to schedule each match according to each player's p
 
 1. If no referee is available during the match, the match shall be delayed.
 2. If no streamers are available to broadcast the match, the match will still happen without being broadcasted.
-3. If no commentators are available to commentate the match but streamers are available to broadcast the match, the match will still be broadcasted but without commentary.
+3. If no casters are available to commentate the match but streamers are available to broadcast the match, the match will still be broadcasted but without commentary.
 
 Matches will be broadcast on a best-effort basis. If two matches happen at the same time, one will be prioritised:
 
