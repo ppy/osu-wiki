@@ -27,7 +27,7 @@ Si bien algunos foros, como [Mapping Discussion](https://osu.ppy.sh/community/fo
 
 Algunos usuarios pueden pertenecer a uno o varios grupos personalizados, en función de sus tareas comunitarias, sus permisos de acceso o su actividad anterior. Puedes encontrar una lista completa de los grupos de usuarios en [Grupo de usuarios](/wiki/People/User_group).
 
-Además de las insignias de grupo de usuarios otorgadas por la pertenencia a un grupo, los usuarios pueden tener [títulos de usuario personalizados](/wiki/Community/User_title) mostrados bajo el avatar en cada una de sus publicaciones.
+Además de las insignias de grupo de usuarios otorgadas por la pertenencia a un grupo, los usuarios pueden tener [títulos de usuario personalizados](/wiki/Community/User_title) que se muestran debajo del avatar en cada una de sus publicaciones.
 
 ### Moderación
 
