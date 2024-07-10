@@ -35,7 +35,7 @@ This article is split into sections. Skip around:
 #### Top 10
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/LINK" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/3KhgRmCr-D8" frameborder="0" allowfullscreen></iframe>
 </div>
 
 [Uberzolik](https://osu.ppy.sh/users/1314547), [Shii](https://osu.ppy.sh/users/9186316), [Aeril](https://osu.ppy.sh/users/4334976), [Mattay](https://osu.ppy.sh/users/9748303), [Nachmark](https://osu.ppy.sh/users/17584310), [Ascended](https://osu.ppy.sh/users/4564285), [tokiko](https://osu.ppy.sh/users/2836455), [Bluenation](https://osu.ppy.sh/users/10903500), [MaridiuS](https://osu.ppy.sh/users/4496961), and [mapping](https://osu.ppy.sh/users/30730829) were responsible for screening this month's entries, and [Daycore](https://osu.ppy.sh/users/5596337), [Saki](https://osu.ppy.sh/users/3420746), [Shmiklak](https://osu.ppy.sh/users/5504231), [Bloxi](https://osu.ppy.sh/users/9022451), [KKipalt](https://osu.ppy.sh/users/6889573), [iRedi](https://osu.ppy.sh/users/8005579), and [DeviousPanda](https://osu.ppy.sh/users/4966334) were responsible for judging. Send your thanks to them!
@@ -55,7 +55,7 @@ This article is split into sections. Skip around:
 #### Top 10
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/LINK" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/WQJAW00qViw" frameborder="0" allowfullscreen></iframe>
 </div>
 
 This month's maps were screened by [gzdongsheng](https://osu.ppy.sh/users/8660315), [Maxus](https://osu.ppy.sh/users/4335785), [Evening](https://osu.ppy.sh/users/2193881), [secXcscX](https://osu.ppy.sh/users/13543418), and [chocomilku-](https://osu.ppy.sh/users/16687756), then the top maps were judged by [Unpredictable](https://osu.ppy.sh/users/7560872), [-mint-](https://osu.ppy.sh/users/8976576), [Paraxia](https://osu.ppy.sh/users/14001000), and [[GB]Rick](https://osu.ppy.sh/users/25263357)!
