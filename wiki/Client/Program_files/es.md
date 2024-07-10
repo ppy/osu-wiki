@@ -4,7 +4,7 @@
 
 ![La estructura de archivos de la carpeta de instalación de osu! en Windows y macOS](img/file_structure.jpg "La estructura de archivos de la carpeta de instalación de osu! en Windows y macOS")
 
-Los **archivos de programa osu!** son un conjunto de archivos que ejecutan osu! y realizan un seguimiento de las diferentes actividades a medida que el usuario juega.
+Los **archivos de programa de osu!** son un conjunto de archivos que ejecutan osu! y realizan un seguimiento de las diferentes actividades a medida que el usuario juega.
 
 ## Rutas de instalación
 
