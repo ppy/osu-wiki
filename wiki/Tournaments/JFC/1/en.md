@@ -76,6 +76,30 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
 
 ## Mappools
 
+### Round of 16
+
+- No Mod
+  1. [HIMEHINA - Nagareyuku Inochi (dahkjdas) \[Alive\]](https://osu.ppy.sh/beatmapsets/1696407#osu/3466080)
+  2. [Xi - Densetsu no Sabori Shinigami \~ Make a quick escape (Toumei Dragon) \[Cellina & TD's Collab Extra\]](https://osu.ppy.sh/beatmapsets/1621473#osu/3435049)
+  3. [Tsukuyomi - Necropolis (dkblaze) \[Extra\]](https://osu.ppy.sh/beatmapsets/2057681#osu/4300341)
+  4. [PSYQUI - Still in my heart feat. Punipuni Denki (Kyuuchie) \[i want u so bad.\]](https://osu.ppy.sh/beatmapsets/1698303#osu/3469884)
+  5. [MisoilePunch - Mesheer (Anxient) \[Kirigiri's Extra\]](https://osu.ppy.sh/beatmapsets/1862429#osu/3829636)
+- Hidden
+  1. [sekai - Sensei no Koto Suki ni Nacchau (Petal) \[!~!\]](https://osu.ppy.sh/beatmapsets/1865173#osu/3836427)
+  2. [hiroki. - Menhera Kanjoron feat.KAFU (gazimal) \[Expert\]](https://osu.ppy.sh/beatmapsets/2160151#osu/4555128)
+- Hard Rock
+  1. [yuikonnu & ayaponzu\* - Super Nuko World (Amamya) \[jiwoas & Riene's Extra\]](https://osu.ppy.sh/beatmapsets/2016414#osu/4330315)
+  2. [School Food Punishment - fiction nonfiction (Garden) \[Expert\]](https://osu.ppy.sh/beatmapsets/1829347#osu/3754547)
+- Double Time
+  1. [Ryokuoushoku Shakai - Starry Drama (Ninjaking311) \[Nakazawa's Insane\]](https://osu.ppy.sh/beatmapsets/2029804#osu/4454456)
+  2. [Kijibato - w/WWW feat.Hoshimiya Toto (KingBaxter) \[Candyland\]](https://osu.ppy.sh/beatmapsets/1405390#osu/2898272)
+  3. [Airots - Tougen Roman (Epsilon Remix) (GIDZ) \[Garden's Insane\]](https://osu.ppy.sh/beatmapsets/1321446#osu/2810492)
+- Free Mod
+  1. [Neko Hacker - Pipopipo -People People- feat. Nanahira (Amamya Kokoro) \[Nanahira\]](https://osu.ppy.sh/beatmapsets/1909635#osu/3938692)
+  2. [syatten remixed celas - Bird Sprite -Awakening of Light- (emu1337) \[LMT's Extra\]](https://osu.ppy.sh/beatmapsets/1321314#osu/2741605)
+- Tiebreaker
+  1. **[Asriel - Shikkoku no Taiyou ni Yakarete (Sparhten) \[Illuminate\]](https://osu.ppy.sh/beatmapsets/1262458#osu/2851636)**
+
 ### Qualifiers
 
 - No Mod
@@ -92,6 +116,31 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
 - Double Time
   1. [felys feat. Natsukawa Yoko - Celsus (LONG VERSION) (Elcheer) \[Insane\]](https://osu.ppy.sh/beatmapsets/1604680#osu/3276823)
   2. [-45 - Millarca (Stick2Glue) \[Malice\]](https://osu.ppy.sh/beatmapsets/1833512#osu/3764144)
+
+## Match results
+
+### Qualifiers
+
+Detailed information on the standings of the Qualifier stage can be found in [the following spreadsheet](https://docs.google.com/spreadsheets/d/1hdu0eQKPnA-9y48VV-PWSMDpSDm-Y1e69PoguFraYeE/edit?gid=374070826#gid=374070826).
+
+| Seed | Team name | Z-Sum |
+| :-: | :-- | --: |
+| #1 | BAKPIA KUKUS KILLER | 9.40 |
+| #2 | Bakpia Kukus | 8.18 |
+| #3 | Suikambing | 8.11 |
+| #4 | Nasi Kuning Pake Kecap | 6.84 |
+| #5 | Santoso | 6.49 |
+| #6 | Ban HR2 | 6.06 |
+| #7 | Hina Dutro | 4.92 |
+| #8 | reto pengkhianat | 4.77 |
+| #9 | daftar mepet | 4.75 |
+| #10 | Kagamarcchino ﾃﾞﾗｸｽ | 4.74 |
+| #11 | Mie Ayam Afui | 4.70 |
+| #12 | daan mogot | 4.01 |
+| #13 | Tahu Sumedang | 3.31 |
+| #14 | apa | 1.80 |
+| #15 | YJJA | 0.70 |
+| #16 | Duo Ambatron | 0.49 |
 
 ## Ruleset
 
@@ -131,9 +180,9 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
 2. In the lobby, all teams will have to consecutively play all of the ten Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> NM4 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
 3. Teams **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Teams **are not allowed** to join (or register for) more than one Qualifier lobby.
-5. Based on their performance in the Qualifier, teams will be ranked based on their average rank combined from each individual Qualifier beatmaps.
-6. 16 teams with the **highest average rank** according to the above criteria will advance to the knock-out stages.
-   - If there are two (or more) teams that share the same average rank, the teams will be ordered based on their average score across all eight Qualifier beatmaps.
+5. Based on their performance in the Qualifier, teams will be ranked based on their Z-Sum value (which is the total amount of Z-Score across all ten Qualifier beatmaps). A brief explanation on the concept of Z-Sum and Z-Score can be found [here](http://www.statisticshowto.com/probability-and-statistics/z-score/).
+6. 16 teams with the **highest Z-Sum value** according to the above criteria will advance to the knock-out stages.
+   - If there are two (or more) teams that share the same average rank, the teams will be ordered based on their total score across all ten Qualifier beatmaps.
 7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
 #### Knock-out stage rules
