@@ -40,7 +40,7 @@ They still managed to stay in the match though, also winning their next two pick
 
 The match was starting to slip away from the Argentinians' hands, and they had to do something if they wanted to stay in it. Their choice would end up being [HD3](https://osu.ppy.sh/beatmapsets/2202858#fruits/4662378), on which we saw the first and only FC of the week, with a mind-blowing SS from ::{ flag=AR }:: [-Story-](https://osu.ppy.sh/users/8172283). This would seemingly give them the momentum they needed to keep on going, because they ended up taking a breakpoint away from the United States, being the only team to do so in the tournament, on a very close [HD2](https://osu.ppy.sh/beatmapsets/2202810#fruits/4662280). Unfortunately, having exhausted most of their good options, the match would end on their next pick, [NM1](https://osu.ppy.sh/beatmapsets/2202779#fruits/4662219), on which the United States prevailed once again.
 
-And this is how this *story* (hehe) concludes, with an historic finish for both of these teams. While the United States may have won in the end, what Argentina accomplished this year is also a victory in its own right, and the same can be said for Poland. History has been made for all the podium finishers, making this osu!catch World Cup truly a special one.
+And this is how this *story* concludes, with an historic finish for both of these teams. While the United States may have won in the end, what Argentina accomplished this year is also a victory in its own right, and the same can be said for Poland. History has been made for all the podium finishers, making this osu!catch World Cup truly a special one.
 
 ## Match highlights
 
