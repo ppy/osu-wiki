@@ -30,7 +30,7 @@ El 9 de junio de 2017, [Ephemeral](https://osu.ppy.sh/users/102335) impuso una v
 
 ### Exilio
 
-El **exilio** es un concepto de moderación no oficial introducido por [Ephemeral](https://osu.ppy.sh/users/102335) en [the grand edict thread](https://osu.ppy.sh/community/forums/topics/604424) como respuesta a la gente que repetidamente hacía spam en el subforo y creaba contenido molesto. El sistema de exilio se aplica eliminando los hilos y, a veces, las publicaciones de la persona exiliada. Sirve como indicador de que la persona está a punto de ser fuertemente sancionada por medios más oficiales de moderación.
+El **exilio** es un concepto de moderación no oficial introducido por [Ephemeral](https://osu.ppy.sh/users/102335) en el hilo [the grand edict](https://osu.ppy.sh/community/forums/topics/604424) como respuesta a la gente que repetidamente hacía spam en el subforo y creaba contenido molesto. El sistema de exilio se aplica eliminando los hilos y, a veces, las publicaciones de la persona exiliada. Sirve como indicador de que la persona está a punto de ser fuertemente sancionada por medios más oficiales de moderación.
 
 ### Denizen
 
@@ -38,7 +38,7 @@ Dado que el subforo Off-Topic está compuesto en su mayoría por los mismos usua
 
 ### OT Lore
 
-**OT Lore** es un proyecto iniciado por [abraker](https://osu.ppy.sh/users/4635891) y continuado por otros denizens para crear una narrativa global a partir de los diversos hilos que la gente ha creado en OT. La culminación de este proyecto se recopiló en [OT!Chronicles](https://osu.ppy.sh/community/forums/posts/6230570), que dieron lugar a un periodo de tiempo en OT compuesto por muchos hilos improvisados relacionados con los juegos de rol.
+**OT Lore** es un proyecto iniciado por [abraker](https://osu.ppy.sh/users/4635891) y continuado por otros denizens para crear una narrativa global a partir de los diversos hilos que la gente ha creado en OT. La culminación de este proyecto se recopiló en [OT!Chronicles](https://osu.ppy.sh/community/forums/posts/6230570), que dio lugar a un periodo de tiempo en OT compuesto por muchos hilos improvisados relacionados con los juegos de rol.
 
 ### Descarrilamiento del hilo
 
