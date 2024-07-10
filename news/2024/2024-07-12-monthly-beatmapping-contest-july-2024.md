@@ -30,7 +30,7 @@ This article is split into sections. Skip around:
 | Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
 | Winner + [Screener](/wiki/Contests/Monthly_Beatmapping_Contest#screening)'s pick | [fowwo](https://osu.ppy.sh/users/4547551) | [KOAN Sound & Asa - Fuego](LINK) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | +3 (5 total) |
-| Runner-up | [USER](LINK) | [SONG](LINK) | - | +1 (1 total) |
+| Runner-up | [mintIceCream_](https://osu.ppy.sh/users/13221589) | [Aethoro - Woodfairies](LINK) | - | +1 (1 total) |
 
 #### Top 10
 
