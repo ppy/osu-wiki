@@ -121,7 +121,7 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
 
 ### Qualifiers
 
-Detailed information on the standings of the Qualifier stage can be found in [the following spreadsheet](https://docs.google.com/spreadsheets/d/1hdu0eQKPnA-9y48VV-PWSMDpSDm-Y1e69PoguFraYeE/edit?gid=374070826#gid=374070826).
+Detailed information on the standings of the Qualifier stage can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1hdu0eQKPnA-9y48VV-PWSMDpSDm-Y1e69PoguFraYeE/edit?gid=374070826#gid=374070826).
 
 | Seed | Team name | Z-Sum |
 | :-: | :-- | --: |
