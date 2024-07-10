@@ -53,7 +53,7 @@ Si hay una transformación, esa transformación se ilumina con su color y tendr�
 
 Muestra las **lecturas** y un **interruptor para añadir una imagen/vídeo de fondo.** El interruptor se explica por sí mismo.
 
-Para las lecturas, **x/y** son las *propias* coordenadas de tu ratón en el beatmap y cambiarán frenéticamente a medida que muevas el ratón. **{número}ms** es la marca de tiempo en milisegundos. **SB Load** es la cantidad de potencia de procesamiento necesaria para reproducir *solo* el storyboard. Generalmente, mantén la carga de SB lo más baja posible (1,00~2,00) durante el tiempo de juego y déjala rodar durante el tiempo de descanso/introducción/finalización.
+Para las lecturas, **x/y** son las *propias* coordenadas de tu ratón en el beatmap y cambiarán frenéticamente a medida que muevas el ratón. **{número}ms** es la marca de tiempo en milisegundos. **SB Load** es la cantidad de potencia de procesamiento necesaria para reproducir *solo* el storyboard. Generalmente, mantén la carga SB lo más baja posible (1,00~2,00) durante el tiempo de juego y déjala rodar durante el tiempo de descanso/introducción/finalización.
 
 ### Centro izquierda (utilidades)
 
@@ -148,10 +148,10 @@ Reproduce el beatmap. El final del storyboarding requiere secuencias de comandos
 
 ## Limitaciones
 
-- No hay soporte para efectos de sonido, esto no es un gran problema ya que los efectos de sonido pueden distraer a los jugadores, especialmente si están cerca de [objetos](/wiki/Gameplay/Hit_object). El uso de efectos de sonido debe ser realizado únicamente por mappers avanzados y con la guía de un BAT.
+- No hay soporte para efectos de sonido. Esto no es un gran problema, ya que los efectos de sonido pueden distraer a los jugadores, especialmente si están cerca de [objetos](/wiki/Gameplay/Hit_object). El uso de efectos de sonido debe ser realizado únicamente por mappers avanzados y con la guía de un BAT.
 - No hay soporte para [loop](/wiki/Storyboard/Scripting/Compound_Commands) o [trigger](/wiki/Storyboard/Scripting/Compound_Commands).
 - No hay comandos [Move-X](/wiki/Storyboard/Scripting/Commands)/[Move-Y](/wiki/Storyboard/Scripting/Commands).
-- La coordenada del sprite es *siempre* 320,240. Deberás usar el comando Move una vez para establecer la ubicación (no se requiere punto final).
+- La coordenada del sprite es *siempre* 320,240. Deberás usar el comando Mover una vez para establecer la ubicación (no se requiere punto final).
   - Si *también* estás haciendo [secuencias de comandos](/wiki/Storyboard/Scripting), necesitarás *leer una línea adicional* por cada objeto hecho en la pestaña Design.
 
 ## Fuentes
