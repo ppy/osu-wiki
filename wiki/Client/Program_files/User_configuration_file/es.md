@@ -39,7 +39,7 @@ Esta es una lista de opciones en el archivo `osu!.<nombre de la cuenta de tu PC>
 | `ShowMenuTips` | 0 o 1 | [Mostrar consejos en el menú](/wiki/Client/Menu_tips) |
 | `MenuVoice` | 0 o 1 | Reproducir voces de la interfaz |
 | `MenuMusic` | 0 o 1 | Tema musical de osu! |
-| `SeasonalBackgrounds` | Cadena | Seasonal backgrounds |
+| `SeasonalBackgrounds` | Cadena | Seasonal backgrounds (fondos de temporada) |
 | `SongSelectThumbnails` | 0 o 1 | Ver miniaturas |
 | `DimLevel` | Entero | Oscurecer el fondo |
 | `IHateHavingFun` | 0 o 1 | Don't change dim level during breaks (no cambiar el nivel de oscuridad durante los descansos) |
@@ -122,7 +122,7 @@ Los valores de las opciones para las asignaciones de teclas son los nombres de l
 | `keyFruitsDash` | Dash de osu!catch |
 | `keyIncreaseSpeed` | Aumentar la velocidad de desplazamiento en osu!mania |
 | `keyDecreaseSpeed` | Disminuir la velocidad de desplazamiento en osu!mania |
-| `keyPause` | Pausa el juego |
+| `keyPause` | Pausar el juego |
 | `keySkip` | Saltar escena |
 | `keyToggleScoreboard` | Activar/desactivar la tabla de puntuaciones |
 | `keyIncreaseAudioOffset` | Aumentar la compensación local de la canción |
@@ -199,7 +199,7 @@ Puedes encontrar más opciones de disposición de osu!mania en el archivo [skin.
 | Opción | Tipo de valor | Descripción |
 | :-- | :-- | :-- |
 | `EditorGridSize` | Entero | Tamaño de la rejilla en [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel) |
-| `EditorGridSizeDesign` | Entero | Diseño del tamaño de la rejilla en [osu! píxeles](/wiki/Client/Beatmap_editor/osu!_pixel) |
+| `EditorGridSizeDesign` | Entero | Diseño del tamaño de la rejilla en [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel) |
 | `EditorDim` | 0 o 1 | Si el fondo se oscurecerá o no durante la prueba del beatmap |
 | `EditorGrid` | 0 o 1 | Si se activa o no el anclaje a la rejilla |
 | `EditorBeatDivisor` | Entero | Último divisor de ritmo usado |
