@@ -1,7 +1,7 @@
 ---
 tags:
-  - o!cCO
-  - o!cCO Season 1
+  - CICO
+  - CICO 2024
 ---
 
 # Catch the Beat Indonesia Cup Open 2024
