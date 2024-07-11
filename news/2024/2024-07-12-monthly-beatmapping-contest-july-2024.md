@@ -64,8 +64,8 @@ This month's maps were screened by [gzdongsheng](https://osu.ppy.sh/users/866031
 
 This month's contest is open to **osu!** and **osu!mania** mappers.
 
-- [osu! contest listing](https://osu.ppy.sh/community/contests/209)
-- [osu!mania contest listing](https://osu.ppy.sh/community/contests/210)
+- [osu! contest listing](https://osu.ppy.sh/community/contests/216)
+- [osu!mania contest listing](https://osu.ppy.sh/community/contests/217)
 
 Next month is dedicated to osu!taiko and osu!catch.
 
@@ -98,7 +98,7 @@ That said, if your plan was to submit a map that's not obviously stream-focused,
 
 Little John was given the worst possible keyboard known to mankind. As such, Little John's keyboard only has access to 2-key rollover, and has been having trouble finding beatmaps that he's able to play. This month's restriction aims to give Little John a chance to play some charts! To make things even simpler, he only plays 4 key sets, unfortunately.
 
-This contest's restrictions:
+This contest's limitations:
 - **Maps must not have more than two objects pressed at the same time**
 - **Maps must be 4K only**
 
@@ -127,7 +127,7 @@ Additionally, a [**Mappers' Guild keychain**](/wiki/shared/news/2023-08-29-chang
 
 ## Rules
 
-- **Submissions must follow the month's beatmapping [limitation](#limitation):**
+- **Submissions must follow the month's beatmapping [limitation/theme](#beatmapping):**
   - **osu!:** create a stream-focused map
   - **osu!mania:**
     - Maps must not have more than two objects pressed at the same time
@@ -144,8 +144,8 @@ Note that all submissions will be anonymised before they're reviewed by screener
 
 The legend continues: \[your name here\] will craft the greatest map of all time for this month's contest, and so shall the map be submitted to one of these listings:
 
-- [osu! contest listing](https://osu.ppy.sh/community/contests/209)
-- [osu!mania contest listing](https://osu.ppy.sh/community/contests/210)
+- [osu! contest listing](https://osu.ppy.sh/community/contests/216)
+- [osu!mania contest listing](https://osu.ppy.sh/community/contests/217)
 
 You have until **July 31st** to submit!
 
