@@ -29,8 +29,8 @@ This article is split into sections. Skip around:
 
 | Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| Winner + [Screener](/wiki/Contests/Monthly_Beatmapping_Contest#screening)'s pick | [fowwo](https://osu.ppy.sh/users/4547551) | [KOAN Sound & Asa - Fuego](LINK) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | +3 (5 total) |
-| Runner-up | [mintIceCream_](https://osu.ppy.sh/users/13221589) | [Aethoro - Woodfairies](LINK) | - | +1 (1 total) |
+| Winner + [Screener](/wiki/Contests/Monthly_Beatmapping_Contest#screening)'s pick | [fowwo](https://osu.ppy.sh/users/4547551) | [KOAN Sound & Asa - Fuego](https://osu.ppy.sh/beatmapsets/2211634) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | +3 (5 total) |
+| Runner-up | [mintIceCream_](https://osu.ppy.sh/users/13221589) | [Aethoro - Woodfairies](https://osu.ppy.sh/beatmapsets/2211499) | - | +1 (1 total) |
 
 #### Top 10
 
@@ -48,9 +48,9 @@ This article is split into sections. Skip around:
 
 | Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| Winner | [Lott](https://osu.ppy.sh/users/13821222) | [Masahiro "Godspeed" Aoki - busy come, busy go (instrumental version)](LINK) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | +2 (5 total) |
-| Runner-up | [Silicosis 2](https://osu.ppy.sh/users/18560307) | [Camellia - The Cat Evolved Into The Microwave-proof Cat!](LINK) | - | +1 (1 total) |
-| [Screener](/wiki/Contests/Monthly_Beatmapping_Contest#screening)'s pick | [Disguise](https://osu.ppy.sh/users/10764851) | [False Noise - Shiver](LINK) | - | +1 (3 total) |
+| Winner | [Lott](https://osu.ppy.sh/users/13821222) | [Masahiro "Godspeed" Aoki - busy come, busy go (instrumental version)](https://osu.ppy.sh/beatmapsets/2211699) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | +2 (5 total) |
+| Runner-up | [Silicosis 2](https://osu.ppy.sh/users/18560307) | [Camellia - The Cat Evolved Into The Microwave-proof Cat!](https://osu.ppy.sh/beatmapsets/2211610) | - | +1 (1 total) |
+| [Screener](/wiki/Contests/Monthly_Beatmapping_Contest#screening)'s pick | [Disguise](https://osu.ppy.sh/users/10764851) | [False Noise - Shiver](https://osu.ppy.sh/beatmapsets/2211635) | - | +1 (3 total) |
 
 #### Top 10
 
@@ -78,11 +78,9 @@ Next month is dedicated to osu!taiko and osu!catch.
 
 ## Beatmapping
 
-### Limitation
+There have been over 20 Monthly Beatmapping Contests since 2020. It would be boring if every contest was the same, so we throw **themes** and **limitations** into the mix.
 
-There have been over 20 Monthly Beatmapping Contests since 2020. It would be boring if every contest was the same, so we throw **limitations** into the mix.
-
-These are rules specific to each contest, so you can't re-use the same map each month.
+These are essentially rules specific to each contest, so you can't re-use the same map each month.
 
 If you're confused about how these work, ask for clarification in the comments, or send a message to [pishifat](https://osu.ppy.sh/community/chat?sendto=3178418) (for osu!) or [RandomeLoL](https://osu.ppy.sh/community/chat?sendto=7080063) (for osu!mania).
 
@@ -98,7 +96,13 @@ That said, if your plan was to submit a map that's not obviously stream-focused,
 
 #### osu!mania
 
-SOMETHING
+Little John was given the worst possible keyboard known to mankind. As such, Little John's keyboard only has access to 2-key rollover, and has been having trouble finding beatmaps that he's able to play. This month's restriction aims to give Little John a chance to play some charts! To make things even simpler, he only plays 4 key sets, unfortunately.
+
+This contest's restrictions:
+- **Maps must not have more than two objects pressed at the same time**
+- **Maps must be 4K only**
+
+Thankfully, Little John is not too picky. He's fine with streams, jumpstreams, and any other pattern than he can reliably play in (probably) the world's worst keyboard. Judges will be in charge of evaluating how creative of an approach is taken when tackling down his gauntlet!
 
 ### Songs
 
@@ -124,8 +128,10 @@ Additionally, a [**Mappers' Guild keychain**](/wiki/shared/news/2023-08-29-chang
 ## Rules
 
 - **Submissions must follow the month's beatmapping [limitation](#limitation):**
-  - **osu!:** SOMETHING
-  - **osu!mania:** SOMETHING
+  - **osu!:** create a stream-focused map
+  - **osu!mania:**
+    - Maps must not have more than two objects pressed at the same time
+    - Maps must be 4K only
 - **Submissions must be a single difficulty from one of the month's [selected songs](#songs).**
 - **Submissions must be in `.osz` format.**
 - **Submissions must NOT be uploaded to the osu! website until after the contest's results are finalised.**
