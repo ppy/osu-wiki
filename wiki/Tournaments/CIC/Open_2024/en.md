@@ -32,8 +32,6 @@ The **Catch the Beat Indonesia Cup Open 2024** (***CICO 2024***) is a double-eli
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | *To be announced* |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | *To be announced* |
 
-![](img/badge.jpg "o!cCO 2023 winner badge")
-
 ## Organisation
 
 The Catch the Beat Indonesia Cup Open 2024 is run by various osu! community members from Indonesia and beyond.
