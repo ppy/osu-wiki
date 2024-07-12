@@ -4,7 +4,7 @@ title: osu!catch World Cup 2024 Concludes
 date: 2024-07-12 23:00:00 +0000
 ---
 
-After years of South Korean domination, this year we finally crown a new osu!catch World Cup champion.
+After years of South Korean domination, this year we finally crown a new osu!catch World Cup champion!
 
 ![](/wiki/Tournaments/CWC/2024/img/cwc2024-banner.jpg)
 
@@ -241,7 +241,7 @@ On the other hand, being able to recognize when your teamates are performing wel
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__user-0x84f" href="https://osu.ppy.sh/users/7944724">0x84f</a></p>
 
-Did your past past losses affect your mindset and performance in the CWC this year? Was there a mindset shift that was a contributing factor to your victory?
+Did your past losses affect your mindset and performance in the CWC this year? Was there a mindset shift that was a contributing factor to your victory?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/6926006" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-Dahcreeper.jpg')"></a>
 
