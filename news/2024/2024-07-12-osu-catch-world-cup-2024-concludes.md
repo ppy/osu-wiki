@@ -291,7 +291,7 @@ We also try to encourage mappers to map songs from the Featured Artist listing, 
 
 ![](/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/soooo.png)
 
-[SOOOO](https://osu.ppy.sh/beatmaps/artists/30) composed the Semifinals tiebreaker track [illloved](https://osu.ppy.sh/beatmapsets/2195067) (pronounced "ill-loved") for the osu!catch World Cup 2024.
+[SOOOO](https://osu.ppy.sh/beatmaps/artists/30) composed [illloved](https://osu.ppy.sh/beatmapsets/2195067) (pronounced "ill-loved") for the osu!catch World Cup 2024 Semifinals tiebreaker.
 
 ---
 
