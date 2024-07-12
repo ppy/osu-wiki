@@ -8,7 +8,7 @@ After years of South Korean domination, this year we finally crown a new osu!cat
 
 ![](/wiki/Tournaments/CWC/2024/img/cwc2024-banner.jpg)
 
-The United States, persevering after many podium finishes, manage for the first time in their history to win the osu!catch World Cup. They were the favourites coming into this tournament, and tore through their bracket to reach the Grand Finals with only a single map lost, and in the end, no one could stop them. It's only the fourth different country to win this tournament, after Chile, South Korea, and China, so it is a big day for our game mode.
+The United States, persevering after many podium finishes, manage for the first time in their history to win the osu!catch World Cup. They were the favourites coming into this tournament, and tore through their bracket to reach the Grand Finals with only a single map lost, and in the end, no one could stop them. They're only the fourth unique country to win this tournament, after Chile, South Korea, and China, so it was a big day for our game mode.
 
 ## Summary
 
@@ -16,7 +16,7 @@ The United States, persevering after many podium finishes, manage for the first 
 
 Congratulations to the United States for their historic first osu!catch World Cup victory, and congratulations to Argentina and Poland on their podium finishes.
 
-The United States have been the "challengers" for years at this point, but were never the favourites to win it all against China and South Korea. They were however, always a top 6 contender and more often even 2nd and 3rd. With a lot of their core members remaining the same over the years, it is truly a special moment for them to finally become champions, after so many closes finishes.
+The United States have been the "challengers" for years at this point, but were never the favourites to win it all against China and South Korea. They were, however, always a top 6 contender and more often even 2nd and 3rd. With a lot of their core members remaining the same over the years, it is truly a special moment for them to finally become champions, after so many closes finishes.
 
 We also have an (almost) entirely new podium this year, with Poland making their first appearance up there, along with Argentina which hasn't made top 3 since 2013. Both of these teams have had their best run ever this tournament, and thanks to their hard work and dedication, they finally reached a new peak.
 
@@ -267,7 +267,7 @@ Mapping requires the most management and can definitely be quite chaotic. Simila
 
 Because of this high workload, the biggest issue is essentially getting finished by the deadline. It can lead to a very chaotic experience attempting to mod the maps to the best of your ability before showcase. While some maps may require less attention, its always worth checking every map in order to improve the experience as much as possible. We hope to lower the workload for next year to reduce the chaos though :')
 
-As for a hands-off approach, for me, my biggest example of that was listening to the songs as much as I possibly could in my spare time. For Psychology of James Berland (Ro16 TB) I bought the album cd "Culprate Number Four" and would listen to it everyday from and to work. Even listening too it on my breaks to generate more patterning ideas.
+As for a hands-off approach, for me, my biggest example of that was listening to the songs as much as I possibly could in my spare time. For [Psychology of James Berland](https://osu.ppy.sh/beatmapsets/2187400#fruits/4624835) (Ro16 TB) I bought the album cd "Culprate Number Four" and would listen to it everyday from and to work. Even listening too it on my breaks to generate more patterning ideas.
 
 While this might seem silly, every map that makes up the tournament has the opportunity to be special and provide players with an unforgettable experience. I feel many mappers (me included) attempt to facilitate that.
 
