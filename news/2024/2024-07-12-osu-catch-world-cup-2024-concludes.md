@@ -211,9 +211,9 @@ As usual, we interview people in order to get an insight into the going-ons behi
 
 ::{#secre-and-dahcreeper}::
 
-![](/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/secre-and-dahcreeper.png)
+![](/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/secre-lexii-and-dahcreeper.png)
 
-[Secre](https://osu.ppy.sh/users/2306637) and [Dahcreeper](https://osu.ppy.sh/users/6926006) competed for the winning team of the osu!catch World Cup 2024, the United States.
+[Secre](https://osu.ppy.sh/users/2306637), [Lexii](https://osu.ppy.sh/users/7226149) and [Dahcreeper](https://osu.ppy.sh/users/6926006) competed for the winning team of the osu!catch World Cup 2024, the United States.
 
 ---
 
@@ -274,6 +274,12 @@ We went to the main chat in the USA server that had a massive watch party and ta
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/7944724">0x84f</a></p>
 
 What does the future hold for the US CWC roster?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7226149" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-Lexii.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/7226149">Lexii</a></p>
+
+I'm not exactly sure what the future holds cause I've been playing cwc for a while and all I can say is that I'm burnt out! Hopefully we have other players that can fill in significant roles for the team so that there's more slots to fill. I'm not personally sure if I'll play next year but we'll see!
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2306637" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-Secre.jpg')"></a>
 
