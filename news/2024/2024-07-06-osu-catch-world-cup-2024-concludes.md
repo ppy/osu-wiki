@@ -164,7 +164,17 @@ If you haven't done so already, please go give them a listen, because among the 
     </audio>
 </div>
 
+If you haven't seen the [video for *Frost Walker*](https://www.youtube.com/watch?v=bBPEdmfYPWM), you're in for a surprise.
+
+Alternatively, you can also check out [this video below](https://www.youtube.com/watch?v=2iYtNVtL9ds) for a behind-the-scenes look into how the whole project was made:
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/2iYtNVtL9ds" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## Interviews
+
+As usual, we interview people in order to get an insight into the going-ons behind the curtains that spectators don't usually get a good view of!
 
 <style>
     .news-chat-quote__avatar {
