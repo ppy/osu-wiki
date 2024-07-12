@@ -54,7 +54,6 @@ tags:
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | 인도네시아어 | 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | 프랑스어, 스페인어 | 채팅 관리 |
-| ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | 말레이어, 약간의 중국어 | 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | 광둥어, 중국어, 일본어 | 채팅 관리 |
 | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | 러시아어 | 채팅 관리, 포럼 관리 |
 | ::{ flag=JP }:: [KSHR](https://osu.ppy.sh/users/409957) | 일본어 | 채팅 관리 |
@@ -71,7 +70,6 @@ tags:
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  | 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | 인도네시아어 | 채팅 관리 |
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | 프랑스어 | 채팅 관리 |
-| ::{ flag=BR }:: [Nukrid](https://osu.ppy.sh/users/2307484) | 포르투갈어, 스페인어 | 채팅 관리 |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | 독일어, 세르비아어 | 채팅 관리, 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | 공식 팀 |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | 독일어 | 토너먼트 관리 |
