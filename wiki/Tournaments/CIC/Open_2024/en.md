@@ -105,8 +105,8 @@ The complete sign-up list can be found [here](https://wybin.xyz/tournaments/catc
 ### Tournament registration
 
 1. In order to participate, players are required to register into the tournament through [the tournament's website](https://wybin.xyz/tournaments/catch-indonesia-cup-open-2024/home).
-   - Each player is required to be geographically based in or around the [Asia](https://en.wikipedia.org/wiki/Asia) or [Oceania](https://en.wikipedia.org/wiki/Oceania) region.
-   - For the sake of simplification, regions of certain transcontinental countries such as ::{ flag=AZ }:: Azerbaijan or ::{ flag=RU }:: Russia that extends to the Asian continent are considered as a part of Asia.
+   - Each player is required to be geographically based in or around the regions of [Asia](https://en.wikipedia.org/wiki/Asia) or [Oceania](https://en.wikipedia.org/wiki/Oceania).
+   - For the sake of simplification, regions of certain transcontinental countries such as ::{ flag=AZ }:: Azerbaijan or ::{ flag=RU }:: Russia that extend to the Asian continent are considered as a part of Asia.
 2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
 4. Testplayers, referees, and mappool selectors may not participate as players in this tournament.
@@ -149,10 +149,10 @@ The complete sign-up list can be found [here](https://wybin.xyz/tournaments/catc
 2. Each player has to ban **one beatmap** from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match.
    - Barring the tiebreaker, there are no restrictions as to which maps may and may not be banned in a match.
 3. Each player will be given a chance to pick **one warm-up beatmap** to be played in the lobby.
-   - Playing a warm-up beatmap is not mandatory, and players may elect to skip their warm-up pick should they wish to. 
+   - Playing a warm-up beatmap is not mandatory, and players may elect to skip their warm-up pick should they wish to.
 4. Maps from the same mod pool **may not be picked twice in a row**.
    - For example, following a NM1 pick, the next player picking may not pick another map from the No Mod pool.
-5. When playing a map from the HardRock or DoubleTime pool, the Hidden modification may be optionally used by any player.
+5. When playing a map from the Hard Rock or Double Time pool, the Hidden mod may be optionally used by any player.
 6. In the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled. Players are free to play the tiebreaker map with the Hidden mod should they wish to.
    - Playing the tiebreaker map with a mod is *not* mandatory.
 7. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
