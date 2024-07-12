@@ -2,7 +2,7 @@
 
 La **temporización** es el proceso de determinar la estructura musical de una canción determinando las posiciones de cada [sección de tiempo](/wiki/Client/Beatmap_editor/Timing) junto con sus valores de [BPM](/wiki/Music_theory/Tempo) y [signatura de compás](/wiki/Music_theory/Time_signature).
 
-El [editor de beatmaps](/wiki/Client/Beatmap_editor) proporciona [configuraciones de tiempo](/wiki/Client/Beatmap_editor/Timing) con una [vista de una línea de tiempo similar a una regla](/wiki/Client/Beatmap_editor/Timelines#timing) para la ubicación temporal de [objetos](/wiki/Gameplay/Hit_object). Cuando se colocan los objetos, se [anclan](/wiki/Beatmapping/Snapping) a las marcas de la línea de tiempo, es decir, subdivisiones de un [compás](/wiki/Music_theory/Measure), lo que permite que los objetos se alineen fácilmente con las notas de la canción.
+El [editor de beatmaps](/wiki/Client/Beatmap_editor) proporciona [configuraciones de tiempo](/wiki/Client/Beatmap_editor/Timing) con una [vista de una línea de tiempo similar a una regla](/wiki/Client/Beatmap_editor/Timelines#temporización) para la ubicación temporal de [objetos](/wiki/Gameplay/Hit_object). Cuando se colocan los objetos, se [anclan](/wiki/Beatmapping/Snapping) a las marcas de la línea de tiempo, es decir, subdivisiones de un [compás](/wiki/Music_theory/Measure), lo que permite que los objetos se alineen fácilmente con las notas de la canción.
 
 Además, la temporización de un beatmap controla las siguientes características:
 
