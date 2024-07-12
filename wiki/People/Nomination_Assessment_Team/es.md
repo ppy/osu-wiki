@@ -83,6 +83,8 @@ El NAT vigila a los posibles candidatos del NAT durante largos períodos de tiem
 
 Los miembros actuales o anteriores del NAT que demuestren competencia en las tareas estructurales descritas anteriormente, hasta el punto en que sus contribuciones actuales o planificadas sean indispensables y superen con creces su necesidad como evaluador, pueden optar por unirse a la categoría estructural. Esto es juzgado por los líderes del NAT y manejado caso por caso.
 
+En raras ocasiones, los Beatmap Nominators también pueden ser considerados para dicho puesto dependiendo de sus contribuciones a la comunidad de mapping/modding.
+
 Antes de realizar dicha adición, se comprueba la validez de la misma con el resto del NAT en caso de objeciones. Si no surgen problemas, el miembro en cuestión estará sujeto a diferentes expectativas de actividad según su situación específica. Si su contribución a las tareas estructurales se considera deslucida o innecesaria en algún momento posterior, nuevamente a juicio de los líderes del NAT, se les retirará de esta categoría.
 
 ## Salida del NAT
@@ -96,8 +98,11 @@ Una vez que un miembro del NAT decide dejar el equipo, se le pueden otorgar los 
 Los antiguos miembros del NAT que actualmente tienen acceso interno son:
 
 - ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083)
-- ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342)
+- ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507)
+- ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501)
+- ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882)
 - ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
+- ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 - ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926)
 
 ## Liderazgo del NAT
@@ -110,7 +115,7 @@ El líder actual del NAT es ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/141
 
 El líder del NAT tiene como objetivo cubrir las siguientes tareas:
 
-- **Gestión de actividad:** Monitorear constantemente la actividad de otros miembros del NAT y manejar casos de baja actividad, ya sea a través de controles regulares o mediante entrevistas de salida, en caso de problemas de actividad con respecto a ciertos miembros.
+- **Gestión de actividad:** Monitorear constantemente la actividad de otros miembros del NAT y manejar los casos de baja actividad o de conducta inadecuada, ya sea a través de controles regulares o mediante entrevistas de salida, en caso de problemas relacionados con determinados miembros.
 - **Comunicación:**
   - Actuar como puente entre el osu! team, el NAT y la comunidad de mapping, comunicando constantemente cualquier cambio, inquietud o demanda planteada.
   - Fomentar la participación en discusiones internas y externas involucrando de manera proactiva a todas las partes, manteniendo las discusiones organizadas y facilitando la combinación de diferentes puntos de vista para formar un curso de acción práctico.
@@ -129,17 +134,16 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
-| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | Chino |
-| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Ruso |
+| ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464) | Sueco |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonés, chino |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portugués, español |
-| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Neerlandés |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Alemán |
+| ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Chino |
+| ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) |  |
+| ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | Ruso |
+| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | Francés, español |
 | ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
+| ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Ruso |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Chino, cantonés |
-| ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Chino |
 
 #### osu!taiko
 
@@ -158,7 +162,6 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Español, alemán |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Neerlandés |
 | ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  |
-| ::{ flag=BR }:: [zerokt](https://osu.ppy.sh/users/13776127) | Portugués |
 
 #### osu!mania
 
@@ -178,6 +181,7 @@ Los siguientes miembros del NAT son exclusivamente responsables de las tareas es
 | Usuario | Tarea |
 | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Manejo de discusiones internas, asuntos y documentación |
+| ::{ flag=GB }:: [moonpoint](https://osu.ppy.sh/users/9558549) | Desarrollo de herramientas internas |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Mantenimiento de [Aiess](https://github.com/Naxesss/Aiess) y [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Mantenimiento de los criterios de clasificación |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Desarrollo del [sitio web de gestión de los BN](https://bn.mappersguild.com) |
