@@ -280,7 +280,7 @@ If you haven't done so already, please go give them a listen, because among the 
             <li class="osu-md__list-item">We write a list of artists based on desired genre and focus on having a wide spread of diverse songs</li>
             <li class="osu-md__list-item">mangomizer reaches out to artists over the course of several weeks</li>
             <li class="osu-md__list-item">When artists respond, we send some specifications and suggestions, and generally we are quite happy for artists to take it away from there</li>
-            <li class="osu-md__list-item">A Discord thread is created where artists can send works in progress, where organisers and advisors can send feedback</li>
+            <li class="osu-md__list-item">A Discord thread is created where artists can send works in progress, allowing organisers and advisors to send feedback</li>
             <li class="osu-md__list-item">Production (including work by designers after the song is done) goes on for months until the due date, which is around when the song is expected to be showcased</li>
             <li class="osu-md__list-item">While the production process is underway, we start thinking of potential rounds and slots to place the map in, once we hear enough of the song</li>
         </ul>
