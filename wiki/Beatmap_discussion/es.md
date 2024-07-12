@@ -43,7 +43,7 @@ La selección de modo cambia el [modo de juego](/wiki/Game_mode) que estás mode
 
 ## Encabezado del beatmap
 
-*Para obtener información sobre la configuración de metadatos, véase: [Configuración de la canción § Metadatos de canciones y mapas](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-metadata)*
+*Para obtener información sobre la configuración de metadatos, véase: [Configuración de la canción § General](/wiki/Client/Beatmap_editor/Song_setup#general)*
 
 ![](img/beatmap-header.png "Encabezado del beatmap")
 

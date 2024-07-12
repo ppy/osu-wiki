@@ -14,7 +14,7 @@ tags:
 
 For other contests, email us at [tournaments@ppy.sh](mailto:tournaments@ppy.sh). We'll try to work something out.
 
-This article was last updated on June 2, 2024. For the full changelog, check out the [beatmapping contest support updates thread](https://osu.ppy.sh/community/forums/topics/1907886). For any queries or clarifications, please consult the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+This article was last updated on July 10, 2024. For the full changelog, check out the [beatmapping contest support updates thread](https://osu.ppy.sh/community/forums/topics/1907886). For any queries or clarifications, please consult the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Benefits
 
@@ -62,7 +62,11 @@ If your contest satisfies the [eligibility criteria](#eligibility), you can make
   - Previous iterations of the same contest series (if applicable).
   - Your contest on the [Mappers' Guild contest listing](https://mappersguild.com/contests/listing) (if applicable).
 
-Once we receive your request, the osu! team will send an approval or denial of your contest's official support status. Please send any such requests as early as possible before registrations, ideally at least a month in advance, to allow time for consideration.
+Once we receive your request, the osu! team will send an approval or denial of your contest's official support status.
+
+Profile badge prizes must be requested at most two months after the contest's completion. **Badges will never be approved until after the conclusion of the contest.**
+
+For news posts, setting up contest listings, or any other inquiries, please contact us as early as possible before registrations, ideally at least a month in advance, to allow time for consideration.
 
 The osu! team may choose to deny official support to any contest that fits the eligibility criteria at their discretion. This ensures no foul play occurs by contest organisers taking advantage of criteria loopholes, so if you are running a contest without ill intent, you likely do not need to worry about this.
 
