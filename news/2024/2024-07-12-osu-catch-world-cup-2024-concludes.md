@@ -183,7 +183,79 @@ As usual, we interview people in order to get an insight into the going-ons behi
         font-weight: 600;
         margin-bottom: 2px;
     }
+
+    .news-chat-quote__user-walavouchey {
+        color: #FFD1DC;
+    }
+
+    .news-chat-quote__user-0x84f {
+        color: #99EB47;
+    }
+
+    .news-chat-quote__user-secre {
+        color: #fa3703;
+    }
+
+    .news-chat-quote__user-dahcreeper {
+        color: #FFD1DC;
+    }
+
+    .news-chat-quote__user-wwwww {
+        color: #A347EB;
+    }
+
+    .news-chat-quote__user-yoshi-green {
+        color: #FFFFFF;
+    }
+
+    .news-chat-quote__user-soooo {
+        color: #00FFFF;
+    }
 </style>
+
+::{#secre-and-dahcreeper}::
+
+![](/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/secre-and-dahcreeper.png)
+
+[Secre](https://osu.ppy.sh/users/2306637) and [Dahcreeper](https://osu.ppy.sh/users/6926006) competed for the winning team of the osu!catch World Cup 2024, the United States.
+
+---
+
+<div class="news-chat-quote__text-container">
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7944724" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-0x84f.jpg')"></a>
+
+<p class="news-chat-quote__username news-chat-quote__user-0x84f"><a href="https://osu.ppy.sh/users/7944724">0x84f</a></p>
+
+You took over as captain for the USA in 2019 (with the exception of 2020 with [rostld](https://osu.ppy.sh/users/4365562) leading). Since then your team has amassed an impressive run of 3 straight podium performances ('21–'24) leading up to your win this year. Considering this experience, what traits do you think any successful captain must have?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7944724" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-0x84f.jpg')"></a>
+
+<p class="news-chat-quote__username news-chat-quote__user-0x84f"><a href="https://osu.ppy.sh/users/7944724">0x84f</a></p>
+
+Did your past past losses affect your mindset and performance in the CWC this year? Was there a mindset shift that was a contributing factor to your victory?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7944724" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-0x84f.jpg')"></a>
+
+<p class="news-chat-quote__username news-chat-quote__user-0x84f"><a href="https://osu.ppy.sh/users/7944724">0x84f</a></p>
+
+What were the main focus points for the team this year?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7944724" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-0x84f.jpg')"></a>
+
+<p class="news-chat-quote__username news-chat-quote__user-0x84f"><a href="https://osu.ppy.sh/users/7944724">0x84f</a></p>
+
+Did the team have any special celebration after bringing home the osu!catch champion title for the first time ever? Did you as individual members celebrate in any way?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7944724" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-0x84f.jpg')"></a>
+
+<p class="news-chat-quote__username news-chat-quote__user-0x84f"><a href="https://osu.ppy.sh/users/7944724">0x84f</a></p>
+
+What does the future hold for the US CWC roster?
+
+</div>
+
+---
 
 ::{#wwwww-and-yoshi-green}::
 
@@ -197,13 +269,13 @@ As usual, we interview people in order to get an insight into the going-ons behi
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-Walavouchey.jpg')"></a>
 
-<p class="news-chat-quote__username"><a style="color: #DBA1D2" href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
+<p class="news-chat-quote__username news-chat-quote__user-walavouchey"><a href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
 
 What has the "advisor" role entailed for you in the osu!catch World Cup?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8434466" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-wwwww.jpg')"></a>
 
-<p class="news-chat-quote__username"><a style="color: #EB2660" href="https://osu.ppy.sh/users/8434466">wwwww</a></p>
+<p class="news-chat-quote__username news-chat-quote__user-wwwww"><a href="https://osu.ppy.sh/users/8434466">wwwww</a></p>
 
 An advisor role is one that manages the mappool for a world cup and all of its components. This includes the following:
 
@@ -216,19 +288,19 @@ An advisor role is one that manages the mappool for a world cup and all of its c
 
 <div><a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/1035891" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-Yoshi_green.jpg')"></a></div>
 
-<p class="news-chat-quote__username"><a style="color: #EB2660" href="https://osu.ppy.sh/users/1035891">Yoshi_green</a></p>
+<p class="news-chat-quote__username news-chat-quote__user-yoshi-green"><a/users/1035891">Yoshi_green</a></p>
 
 Yep, we're pretty much the intermediary party between the organizers, mappoolers, mappers, and players
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-Walavouchey.jpg')"></a>
 
-<p class="news-chat-quote__username"><a style="color: #DBA1D2" href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
+<p class="news-chat-quote__username news-chat-quote__user-walavouchey"><a href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
 
 I heard from sakura that you planned out the artists you were wanting to request very early. What did that process and its timescale look like from your end?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/1035891" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-Yoshi_green.jpg')"></a>
 
-<p class="news-chat-quote__username"><a style="color: #EB2660" href="https://osu.ppy.sh/users/1035891">Yoshi_green</a></p>
+<p class="news-chat-quote__username news-chat-quote__user-yoshi-green"><a href="https://osu.ppy.sh/users/1035891">Yoshi_green</a></p>
 
 The process is as follows:
 
@@ -245,13 +317,13 @@ Other advisors may have different philosophies for how and where they want to pl
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-Walavouchey.jpg')"></a>
 
-<p class="news-chat-quote__username"><a style="color: #DBA1D2" href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
+<p class="news-chat-quote__username news-chat-quote__user-walavouchey"><a href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
 
 Moving on to mapping then, I wonder about the intricacies of handling mappools and custom maps. Are there general or distinct examples of the kinds of projects that go smoothly or ones that do not, projects you involve yourself more in, or moments where you've felt you've been able take a more hands-off approach?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8434466" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-wwwww.jpg')"></a>
 
-<p class="news-chat-quote__username"><a style="color: #EB2660" href="https://osu.ppy.sh/users/8434466">wwwww</a></p>
+<p class="news-chat-quote__username news-chat-quote__user-wwwww"><a href="https://osu.ppy.sh/users/8434466">wwwww</a></p>
 
 Mapping requires the most management and can definitely be quite chaotic. Similarly to last year, we went for an entirely custom pool so there were MANY maps to be made.
 
@@ -263,7 +335,7 @@ While this might seem silly, every map that makes up the tournament has the oppo
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/1035891" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-Yoshi_green.jpg')"></a>
 
-<p class="news-chat-quote__username"><a style="color: #EB2660" href="https://osu.ppy.sh/users/1035891">Yoshi_green</a></p>
+<p class="news-chat-quote__username news-chat-quote__user-yoshi-green"><a href="https://osu.ppy.sh/users/1035891">Yoshi_green</a></p>
 
 Two things to add:
 
@@ -289,85 +361,85 @@ We also try to encourage mappers to map songs from the Featured Artist listing, 
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-Walavouchey.jpg')"></a>
 
-<p class="news-chat-quote__username"><a style="color: #DBA1D2" href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
+<p class="news-chat-quote__username news-chat-quote__user-walavouchey"><a href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
 
 What is the simplest way you would describe your music?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/30" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-SOOOO.jpg')"></a>
 
-<p class="news-chat-quote__username"><a style="color: #1ABC9C" href="https://osu.ppy.sh/beatmaps/artists/30">SOOOO</a></p>
+<p class="news-chat-quote__username news-chat-quote__user-soooo"><a href="https://osu.ppy.sh/beatmaps/artists/30">SOOOO</a></p>
 
 Excretion
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-Walavouchey.jpg')"></a>
 
-<p class="news-chat-quote__username"><a style="color: #DBA1D2" href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
+<p class="news-chat-quote__username news-chat-quote__user-walavouchey"><a href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
 
 The reception of your music across all your songs makes it clear that many people resonate with their lyrics and powerful representation of emotions. What were your thoughts behind the emotions and message that you've imbued into *illloved*?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/30" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-SOOOO.jpg')"></a>
 
-<p class="news-chat-quote__username"><a style="color: #1ABC9C" href="https://osu.ppy.sh/beatmaps/artists/30">SOOOO</a></p>
+<p class="news-chat-quote__username news-chat-quote__user-soooo"><a href="https://osu.ppy.sh/beatmaps/artists/30">SOOOO</a></p>
 
 I create music primarily for myself, so there is no message intended for anyone else. "illloved" was simply released as a result of negative emotions that had matured within me over many years and couldn't be fully expressed in words. However, there may have been a feeling that I couldn't bear to die holding onto these emotions alone.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-Walavouchey.jpg')"></a>
 
-<p class="news-chat-quote__username"><a style="color: #DBA1D2" href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
+<p class="news-chat-quote__username news-chat-quote__user-walavouchey"><a href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
 
 Have the ideas you've wanted to convey in music changed over time?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/30" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-SOOOO.jpg')"></a>
 
-<p class="news-chat-quote__username"><a style="color: #1ABC9C" href="https://osu.ppy.sh/beatmaps/artists/30">SOOOO</a></p>
+<p class="news-chat-quote__username news-chat-quote__user-soooo"><a href="https://osu.ppy.sh/beatmaps/artists/30">SOOOO</a></p>
 
 My fundamentals and beliefs have not changed at all, but the commitment I put into the sounds I make has become more complex over the years.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-Walavouchey.jpg')"></a>
 
-<p class="news-chat-quote__username"><a style="color: #DBA1D2" href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
+<p class="news-chat-quote__username news-chat-quote__user-walavouchey"><a href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
 
 Many people aren't fully aware of the amount of time invested from multiple people into projects like these. Would you mind sharing a brief overview of what the timeline or schedule for *illloved* looked like from your end?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/30" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-SOOOO.jpg')"></a>
 
-<p class="news-chat-quote__username"><a style="color: #1ABC9C" href="https://osu.ppy.sh/beatmaps/artists/30">SOOOO</a></p>
+<p class="news-chat-quote__username news-chat-quote__user-soooo"><a href="https://osu.ppy.sh/beatmaps/artists/30">SOOOO</a></p>
 
 The song itself took nearly two years to produce. From there, we developed the idea for the music video and commissioned several drawings from an illustrator based on that idea. In between deliveries I was mixing and mastering. This took a total of nearly six months. Finally, the music video was completed after a month and a half of production in After Effects.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-Walavouchey.jpg')"></a>
 
-<p class="news-chat-quote__username"><a style="color: #DBA1D2" href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
+<p class="news-chat-quote__username news-chat-quote__user-walavouchey"><a href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
 
 Which artists do you listen to often, or perhaps take inspiration from?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/30" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-SOOOO.jpg')"></a>
 
-<p class="news-chat-quote__username"><a style="color: #1ABC9C" href="https://osu.ppy.sh/beatmaps/artists/30">SOOOO</a></p>
+<p class="news-chat-quote__username news-chat-quote__user-soooo"><a href="https://osu.ppy.sh/beatmaps/artists/30">SOOOO</a></p>
 
 I am influenced by many artists, but BUCK-TICK was the one I listened to the most during the production of "illloved".
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-Walavouchey.jpg')"></a>
 
-<p class="news-chat-quote__username"><a style="color: #DBA1D2" href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
+<p class="news-chat-quote__username news-chat-quote__user-walavouchey"><a href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
 
 What drives you to make music?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/30" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-SOOOO.jpg')"></a>
 
-<p class="news-chat-quote__username"><a style="color: #1ABC9C" href="https://osu.ppy.sh/beatmaps/artists/30">SOOOO</a></p>
+<p class="news-chat-quote__username news-chat-quote__user-soooo"><a href="https://osu.ppy.sh/beatmaps/artists/30">SOOOO</a></p>
 
 Self-loathing
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-Walavouchey.jpg')"></a>
 
-<p class="news-chat-quote__username"><a style="color: #DBA1D2" href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
+<p class="news-chat-quote__username news-chat-quote__user-walavouchey"><a href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
 
 Do you have any other reflections about the time you've spent making *illloved*, or the people you've been working with this time?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/30" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-SOOOO.jpg')"></a>
 
-<p class="news-chat-quote__username"><a style="color: #1ABC9C" href="https://osu.ppy.sh/beatmaps/artists/30">SOOOO</a></p>
+<p class="news-chat-quote__username news-chat-quote__user-soooo"><a href="https://osu.ppy.sh/beatmaps/artists/30">SOOOO</a></p>
 
 I think I am one of those musicians whose production speed is slow. Even among such people, this time was the biggest blank ever. I am truly grateful to my fans who have been waiting for this new song for a long time. I was also happy to collaborate with Kawazu Inoue, who illustrated the music video for "Happppy song" 6 years ago, for the first time in a long time. I would also like to thank the management team of osu! for adopting "illloved" and all the people involved in it.
 
