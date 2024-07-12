@@ -377,6 +377,8 @@ I think I am one of those musicians whose production speed is slow. Even among s
 
 This osu!catch World cup was a special one thanks to every one who helped and gave some of their time to make it a memorable experience, without forgetting the players who competed during these couple of weeks.
 
+![](/wiki/Tournaments/CWC/2024/img/cwc2024-credits.png)
+
 This was also a fun event thanks to everyone who tuned in to the streams and followed the matches, whether it was to support your own country or just as an osu!catch enjoyer. And if you're here, thanks as well for reading these weekly recaps!
 
 —Realmaas
