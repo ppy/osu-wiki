@@ -37,7 +37,7 @@ So, let's get right to reading!
 
 *What would you say is the greatest gift that osu! has given you?*
 
->  Probably the witchhunters. Taught me not to care and just pursue my own thing. Especially afterwards, it's interesting how life can present you something seemingly negative, just for it to turn out a stepping stone to something greater.
+> Probably the witchhunters. Taught me not to care and just pursue my own thing. Especially afterwards, it's interesting how life can present you something seemingly negative, just for it to turn out a stepping stone to something greater.
 
 *What kept you playing before getting unrestricted? What was the source of your motivation?*
 
