@@ -39,7 +39,7 @@ Here are all the matches that we wrote about during this World Cup, and all of t
 | Match | Stage | Links |
 | :-- | :-- | :-- |
 | ::{ flag=SE }:: Sweden vs. ::{ flag=AU }:: Australia | Round of 32 | [Text summary](https://osu.ppy.sh/home/news/2024-05-29-osu-catch-world-cup-2024-round-of-32-recap#sweden-vs.--australia), [VOD](https://www.twitch.tv/videos/2154793570) |
-| ::{ flag=TR }:: Turkey vs. ::{ flag=PL }:: Poland | Round of 32 | [Text summary](https://osu.ppy.sh/home/news/2024-05-29-osu-catch-world-cup-2024-round-of-32-recap#china-vs.--the-netherlands), [VOD](https://www.twitch.tv/videos/2154892337) |
+| ::{ flag=CN }:: China vs. ::{ flag=NL }:: Netherlands | Round of 32 | [Text summary](https://osu.ppy.sh/home/news/2024-05-29-osu-catch-world-cup-2024-round-of-32-recap#china-vs.--the-netherlands), [VOD](https://www.twitch.tv/videos/2154892337) |
 | ::{ flag=DE }:: Germany vs. ::{ flag=AR }:: Argentina | Round of 32 | [Text summary](https://osu.ppy.sh/home/news/2024-05-29-osu-catch-world-cup-2024-round-of-32-recap#argentina-vs.--denmark), [VOD](https://www.twitch.tv/videos/2155904903) |
 | ::{ flag=FR }:: France vs. ::{ flag=CN }:: China | Round of 16 | [Text summary](https://osu.ppy.sh/home/news/2024-06-05-osu-catch-world-cup-2024-round-of-16-recap#france-vs.--china), [VOD](https://www.twitch.tv/videos/2160023397) |
 | ::{ flag=CA }:: Canada vs. ::{ flag=ID }:: Indonesia | Round of 16 | [Text summary](https://osu.ppy.sh/home/news/2024-06-05-osu-catch-world-cup-2024-round-of-16-recap#canada-vs.--indonesia), [VOD](https://www.twitch.tv/videos/2160992520) |
