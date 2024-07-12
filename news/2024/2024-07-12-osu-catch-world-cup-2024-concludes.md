@@ -489,4 +489,4 @@ This osu!catch World cup was a special one thanks to every one who helped and ga
 
 This was also a fun event thanks to everyone who tuned in to the streams and followed the matches, whether it was to support your own country or just as an osu!catch enjoyer. And if you're here, thanks as well for reading these weekly recaps!
 
-—Realmaas
+—0x84f, Realmaas & Walavouchey
