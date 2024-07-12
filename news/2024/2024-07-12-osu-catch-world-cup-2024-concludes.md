@@ -18,7 +18,7 @@ Congratulations to the United States for their historic first osu!catch World Cu
 
 The United States have been the "challengers" for years at this point, but were never the favourites to win it all against China and South Korea. They were however, always a top 6 contender and more often even 2nd and 3rd. With a lot of their core members remaining the same over the years, it is truly a special moment for them to finally become champions, after so many closes finishes.
 
-We also have an (almost) entirely new podium this year, with Poland making their first appearance up there, along with Argentina who hadn't made top 3 since 2013. Both of these teams have had their best run ever this tournament, and thanks to their hard work and dedication, they finally reached the p
+We also have an (almost) entirely new podium this year, with Poland making their first appearance up there, along with Argentina which hasn't made top 3 since 2013. Both of these teams have had their best run ever this tournament, and thanks to their hard work and dedication, they finally reached a new peak.
 
 ## Grand Finals recap
 
