@@ -77,7 +77,6 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Moderowanie społeczności twórców i moderów beatmap |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Indonezyjski | Moderowanie społeczności twórców i moderów beatmap |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | Francuski, hiszpański | Moderowanie czatu |
-| ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | Malajski, chiński (częściowo) | Moderowanie społeczności twórców i moderów beatmap |
 | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | Kantoński, chiński, japoński | Moderowanie czatu |
 | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | Rosyjski | Moderowanie czatu, moderowanie forum |
 | ::{ flag=JP }:: [KSHR](https://osu.ppy.sh/users/409957) | Japoński | Moderowanie czatu |
@@ -94,7 +93,6 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  | Moderowanie społeczności twórców i moderów beatmap |
 | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | Indonezyjski | Moderowanie czatu |
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | Francuski | Moderowanie czatu |
-| ::{ flag=BR }:: [Nukrid](https://osu.ppy.sh/users/2307484) | Portugalski, hiszpański | Moderowanie czatu |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Niemiecki, serbski | Moderowanie czatu, moderowanie społeczności twórców i moderów beatmap |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Oficjalny profil zespołu gry |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Niemiecki | Organizowanie turniejów |

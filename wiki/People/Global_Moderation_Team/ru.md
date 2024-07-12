@@ -89,7 +89,6 @@ tags:
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Модерация маппинг-сообщества |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Индонезийский | Модерация маппинг-сообщества |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | Французский, испанский | Модерация чата |
-| ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | Малайский, частично китайский | Модерация маппинг-сообщества |
 | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | Кантонский, китайский, японский | Модерация чата |
 | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | Русский | Модерация чата, модерация форума |
 | ::{ flag=JP }:: [KSHR](https://osu.ppy.sh/users/409957) | Японский | Модерация чата |
@@ -106,7 +105,6 @@ tags:
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  | Модерация маппинг-сообщества |
 | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | Индонезийский | Модерация чата |
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | Французский | Модерация чата |
-| ::{ flag=BR }:: [Nukrid](https://osu.ppy.sh/users/2307484) | Португальский, испанский | Модерация чата |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Немецкий, сербский | Модерация чата, модерация маппинг-сообщества |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Официальное представление команды |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Немецкий | Организация турниров |

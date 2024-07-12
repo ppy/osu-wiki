@@ -84,7 +84,6 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Mapping/modding topluluk moderasyonu |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Endonezce | Mapping/modding topluluk moderasyonu |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | Fransızca, İspanyolca | Sohbet moderasyonu |
-| ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | Malayca, biraz Çince | Mapping/modding topluluk moderasyonu |
 | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | Kantonca, Çince, Japonca | Sohbet moderasyonu |
 | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | Rusça | Sohbet moderasyonu, forum moderasyonu |
 | ::{ flag=JP }:: [KSHR](https://osu.ppy.sh/users/409957) | Japonca | Sohbet moderasyonu |
@@ -101,7 +100,6 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  | Mapping/modding topluluk moderasyonu |
 | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | Endonezce | Sohbet moderasyonu |
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | Fransızca | Sohbet moderasyonu |
-| ::{ flag=BR }:: [Nukrid](https://osu.ppy.sh/users/2307484) | Portekizce, İspanyolca | Sohbet moderasyonu |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Almanca, Sırpça | Sohbet moderasyonu, mapping/modding topluluk moderasyonu |
 | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Resmi takım temsilcisi |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Almanca | Turnuva yönetimi |
