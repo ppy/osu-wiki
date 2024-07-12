@@ -23,7 +23,7 @@ Al entrar, se le presentan al jugador todas las partidas disponibles en ese mome
 
 ### Opciones de filtrado
 
-The listed match lobbies can be filtered using the options at the top left.
+La lista de partidas puede filtrarse usando las opciones de la parte superior izquierda.
 
 | Título | Descripción |
 | :-: | :-- |
@@ -41,7 +41,7 @@ En el centro de la pantalla aparece una lista de partidas disponibles.
 
 La mayoría de las partidas tienen un fondo blanco claro, lo que indica que fueron [creadas normalmente a través de la IU del juego](#cómo-crear-una-nueva-partida). También las hay con fondo morado, que son *partidas de torneos* creadas y gestionadas usando los [comandos de chat para la gestión de las salas](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands) como `!mp make` o `!mp makeprivate`.
 
-Se muestra información variada sobre cada sala. Por ejemplo, los espacios para jugadores de la derecha pueden tener tres colores diferentes: For example, the player slots to the right can have three different colours:
+Se muestra información variada sobre cada sala. Por ejemplo, los espacios para jugadores de la derecha pueden tener tres colores diferentes:
 
 | Color | Descripción |
 | :-: | :-- |
@@ -64,7 +64,7 @@ Los tres botones encima de la [consola del chat](/wiki/Client/Interface/Chat_con
 ## Cómo crear una nueva partida
 
 ::: Infobox
-![](img/multi-room-creation-ES.jpg "Pantalla de configuración para crear una sala para una partida")
+![](img/multi-room-creation-ES.jpg "Pantalla de configuración para crear una sala de una partida")
 :::
 
 | Título | Descripción |
@@ -75,7 +75,7 @@ Los tres botones encima de la [consola del chat](/wiki/Client/Interface/Chat_con
 | `Make match history publicly viewable` | Permite que otros jugadores, además de los participantes en la partida, vean el historial de la partida a través de un enlace directo. Solo aparece si el botón `Require password to join` está activado. |
 | `Max Players` | El número total de jugadores (incluido el anfitrión) que pueden unirse a la partida. Se puede seleccionar un rango de 2 a 16, con un valor predeterminado de 8. Esto se puede ajustar después, bloqueando/desbloqueando los espacios de los jugadores. |
 
-Al pulsar el botón `1. Start Game` creará la partida con la canción que se esté reproduciendo en ese momento como beatmap. El botón `2. Cancel` devuelve al jugador a la sala.
+Al pulsar el botón `1. Start Game` creará la partida con la canción que se esté reproduciendo en ese momento como beatmap. El botón `2. Cancel` devuelve al jugador a la sala principal.
 
 ## Opciones de la partida
 
@@ -120,7 +120,7 @@ Un jugador puede tener cuatro colores diferentes en esta lista, que también sig
 
 #### Nombre de la partida y contraseña
 
-El `Nombre de la partida` es el nombre de la sala que aparece en las listas de partidas del juego y en el sitio web. Tener una contraseña es útil para restringir la sala a solo tus amigos o a los participantes de un torneo, y se puede cambiar con el botón `Cambiar contraseña` situado encima del nombre de la partida.
+El `Nombre de la partida` es el nombre de la sala que aparece en la lista de partidas del juego y en el sitio web. Tener una contraseña es útil para restringir la sala a solo tus amigos o a los participantes de un torneo, y se puede cambiar con el botón `Cambiar contraseña` situado encima del nombre de la partida.
 
 #### Mapa
 
@@ -179,7 +179,7 @@ Hay cuatro formas diferentes de jugar una partida:
 
 | Modo | Descripción |
 | :-- | :-- |
-| `Head-to-head` | Compite contra los demás para alcanzar el primer puesto de la tabla de clasificación de la partida. |
+| `Head-to-head` | Compite contra los demás para alcanzar el primer puesto en la tabla de clasificación de la partida. |
 | `Team VS` | Compite por equipos (rojo y azul) por la supremacía de la partida. |
 | `Tag co-op` (solo en el modo osu!, no clasificado) | Forma un equipo para completar el beatmap, un combo a la vez juntos. |
 | `Tag-team VS` (solo en el modo osu!, no clasificado) | Lo mismo que `Tag co-op`, pero con dos equipos compitiendo entre sí. |
@@ -252,7 +252,7 @@ A pesar de que no hay [pantalla de resultados extendida](/wiki/Client/Interface#
 
 #### Guardar la repetición
 
-La repetición de la puntuación se puede exportar pulsando `F2`, excepto en `Tag co-op` y `Tag-team VS`.
+La repetición de la puntuación se puede exportar presionando `F2`, excepto en `Tag co-op` y `Tag-team VS`.
 
 #### Tabla de clasificación en multijugador
 
@@ -270,9 +270,9 @@ Para `Tag co-op` y `Tag-team VS`:
 
 | Condición de victoria | Estadísticas mostradas |
 | :-- | :-- |
-| `Score` / `Score v2` | Team score, individual score, judgements |
-| `Accuracy` | Team average accuracy, individual score, judgements |
-| `Combo` | Current combo count, individual score, judgements |
+| `Score` / `Score v2` | Puntuación del equipo, puntuación individual, juicios |
+| `Accuracy` | Precisión media del equipo, puntuación individual, juicios |
+| `Combo` | Número actual del combo, puntuación individual, juicios |
 
 Si un jugador muere durante una partida de Tag co-op, la partida termina y los jugadores vuelven a la sala de la partida. En Tag-team VS, el equipo contrario recibe una victoria por defecto. Los jugadores que mueran no contribuirán al equipo, a menos que hayan revivido al final de la partida.
 
@@ -301,7 +301,7 @@ El color de cada jugador en la tabla de clasificación mientras juega indica el 
 ![](img/multi-hth-interface.jpg "Interfaz de Head-to-head")
 :::
 
-Head-to-head es un modo de juego en el que los jugadores se enfrentan entre sí por el primer puesto de la tabla de clasificación. Este es el modo de juego predeterminado y no tiene ninguna característica especial en cuanto a la jugabilidad, aparte de luchar por el primer puesto.
+Head-to-head es un modo de juego en el que los jugadores se enfrentan entre sí por el primer puesto en la tabla de clasificación. Este es el modo de juego predeterminado y no tiene ninguna característica especial en cuanto a la jugabilidad, aparte de luchar por el primer puesto.
 
 ##### Resultados
 
@@ -357,7 +357,7 @@ Los paneles a los lados muestran los resultados de cada jugador en diferentes pe
 
 Tag co-op hace que todos los jugadores de la partida trabajen juntos para pasar el beatmap, un combo a la vez. `Tag-team VS` es igual que `Tag co-op`, pero con dos equipos enfrentándose entre sí.
 
-En este modo, el orden en el que juegan los jugadores depende de la posición de sus posiciones en la sala.
+En este modo, el orden en el que juegan los jugadores depende de la posición que ocupen en la sala de la partida.
 
 Una flecha verde señalará al jugador que está jugando en ese momento, y su nombre aparecerá en la parte inferior derecha. Las flechas de advertencia te indicarán cuando esté a punto de ser tu turno y los objetos se colorearán. Puedes seleccionar un color para el combo en la sección [color del combo](#color-del-combo) en la sala de la partida.
 
@@ -383,7 +383,7 @@ No se otorgará puntuación clasificada ni puntos de rendimiento por partidas de
 
 Para `Tag co-op`, el resultado mostrado es la puntuación total, los [juicios](/wiki/Gameplay/Judgement) y la precisión del equipo. Los resultados individuales no se muestran, y solo pueden verse en el historial de la partida. La pantalla de resultados solo aparece si el beatmap se ha pasado correctamente, a diferencia de los otros modos de multijugador.
 
-La pantalla de resultados `Tag-team VS` es idéntica a la [pantalla de resultados de Team VS](#pantalla-de-resultados-de-Team-VS), excepto en que los resultados individuales se pueden ver en diferentes pestañas para cada equipo.
+La pantalla de resultados de `Tag-team VS` es idéntica a la [pantalla de resultados de Team VS](#pantalla-de-resultados-de-Team-VS), excepto en que los resultados individuales se pueden ver en diferentes pestañas para cada equipo.
 
 ## Curiosidades
 
