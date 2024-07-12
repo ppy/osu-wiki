@@ -215,7 +215,7 @@ What has the "advisor" role entailed for you in the osu!catch World Cup?
 
 <p class="news-chat-quote__username"><a style="color: #EB2660" href="https://osu.ppy.sh/users/8434466">wwwww</a></p>
 
-An advisor role, is one that manages the mappool for a world cup and all of its components. This includes the following
+An advisor role is one that manages the mappool for a world cup and all of its components. This includes the following:
 
 - Requesting what artists we would like to featured music from
 - Working with mappool selectors to create the mappool
@@ -263,7 +263,7 @@ Moving on to mapping then, I wonder about the intricacies of handling mappools a
 
 <p class="news-chat-quote__username"><a style="color: #EB2660" href="https://osu.ppy.sh/users/8434466">wwwww</a></p>
 
-Mapping, requires the most management and can definitely be quite chaotic. Similarly to last year, we went for an entirely custom pool so there were MANY maps to be made.
+Mapping requires the most management and can definitely be quite chaotic. Similarly to last year, we went for an entirely custom pool so there were MANY maps to be made.
 
 Because of this high workload, the biggest issue is essentially getting finished by the deadline. It can lead to a very chaotic experience attempting to mod the maps to the best of your ability before showcase. While some maps may require less attention, its always worth checking every map in order to improve the experience as much as possible. We hope to lower the workload for next year to reduce the chaos though :')
 
