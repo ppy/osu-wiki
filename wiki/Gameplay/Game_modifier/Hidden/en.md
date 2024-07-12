@@ -63,7 +63,7 @@ The effects on difficulty for osu!catch regarding the use of the Hidden mod vary
 
 ### osu!mania
 
-In [osu!mania](/wiki/Game_mode/osu!mania), the Hidden mod functions as the inverse of the Fade In mod as the notes will fade out before you are supposed to hit them.
+In [osu!mania](/wiki/Game_mode/osu!mania), the Hidden mod functions as the inverse of the [Fade In](/wiki/Gameplay/Game_modifier/Fade_In) mod which, contrary to Fade In, notes fade in and fade out as they draw closer to the [judgement](/wiki/Gameplay/Judgement) line.
 
 ![HD gameplay mania](img/HD-combo-comparison-mania.jpg "Gameplay with the Hidden mod at 91x combo (top-left), at 326x combo (top-middle), at 516x combo (top-right/bottom-left), and at 900x combo (bottom-right) in osu!mania")
 

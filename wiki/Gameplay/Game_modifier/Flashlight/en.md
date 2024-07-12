@@ -12,7 +12,7 @@ tags:
 ![FL mod icon](/wiki/shared/mods/FL.png "Flashlight (FL) mod icon")
 
 *For the full list of all mods, see: [Game Modifiers](/wiki/Gameplay/Game_modifier)*\
-*Not to be confused with [Hidden (mod)](/wiki/Gameplay/Game_modifier/Hidden).*
+*Not to be confused with [Hidden (mod)](/wiki/Gameplay/Game_modifier/Hidden) or [Fade In (Mod)](/wiki/Gameplay/Game_modifier/Fade_In).*
 
 ## About
 
@@ -61,7 +61,9 @@ When paired with the Hidden mod, the fruits are momentarily visible if the catch
 
 ### osu!mania
 
-In [osu!mania](/wiki/Game_mode/osu!mania), the visible area is restricted to a relatively thin horizontal bar at the centre of the track whilst everything else is obstructed from view. In that sense, the Flashlight mod could be thought of as the Hidden mod and [Fade In](/wiki/Gameplay/Game_modifier/Fade_In) mod combined. (That is, without the changing sizes of the visible area.)
+In [osu!mania](/wiki/Game_mode/osu!mania), the visible area is restricted to a relatively thin horizontal bar at the centre of the track whilst everything else is obstructed from view. In that sense, the Flashlight mod could be thought of as the Hidden and [Fade In](/wiki/Gameplay/Game_modifier/Fade_In) mod combined. (That is, without the changing sizes of the visible area.)
+
+Akin to the Fade In mod, Flashlight is commonly played in conjunction with low scroll speeds. <!-- todo: will add more info -->
 
 ![FL gameplay mania](img/FL-mania.jpg "Gameplay of osu!mania with the Flashlight mod enabled")
 
