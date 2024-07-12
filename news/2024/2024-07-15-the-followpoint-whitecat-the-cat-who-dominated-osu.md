@@ -17,7 +17,7 @@ So, let's get right to reading!
 
 *Hello, let's start with an introduction, how would you introduce yourself to people who don't know you?*
 
-> Hi, I'm WhiteCat, former nr.1 osu! player, now kinda retired.
+> Hi, I'm WhiteCat, former rank #1 osu! player, now kinda retired.
 
 *How did you get introduced to osu! and what was your first impression of it?*
 
@@ -85,7 +85,7 @@ So, let's get right to reading!
 
 ---
 
-Huge thanks to WhiteCat for joining us for an interview and answering these questions! And ofcourse, I hope you as readers enjoyed reading this interview! Please let us know what you think in the comments.
+Huge thanks to WhiteCat for joining us for an interview and answering these questions! And of course, I hope you as readers enjoyed reading this interview! Please let us know what you think in the comments.
 
 As per usual, we will have a new interview come out in the next two weeks, so keep an eye on the news feed! You may also follow [@The_Followpoint on Twitter](https://twitter.com/The_Followpoint) to see more updates and question submissions for future interviews.
 
