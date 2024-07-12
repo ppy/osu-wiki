@@ -33,7 +33,7 @@ Wait, hold on, we're getting an urgent call from the osu! headquarters...
 
 *unintelligible mumbling*
 
-...oh, one more thing: we're glad to announce that the top 3 finalists will additionally be available for everyone as a limited-time selection fo default profile banners! Now's your chance to rep some osu! fanart swag in your profile page, even if you don't have an active osu!supporter tag!
+...oh, one more thing: we're glad to announce that the top 3 finalists will additionally be available for everyone as a limited-time selection of default profile banners! Now's your chance to rep some osu! fanart swag in your profile page, even if you don't have an active osu!supporter tag!
 
 The profile banners will be available from the results' announcement date until the next fanart contest.
 

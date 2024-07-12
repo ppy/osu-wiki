@@ -1,8 +1,3 @@
----
-outdated_since: 1c91f39ce0abb31f0af8b8dcd7ac2a67896d61bb
-outdated_translation: true
----
-
 # Wie du helfen kannst!
 
 osu! hat eine sehr lebendige Community, die aus Menschen aus der ganzen Welt besteht. Und jeder kann auf seine eigene Weise ein Teil der Community sein!
@@ -17,7 +12,7 @@ Wenn du ein Neueinsteiger im osu!-Wiki bist, dann kannst du mehr darüber im [Be
 
 ## Hilf, damit osu! freundlich und sicher bleibt
 
-Um die offiziellen Community-Hubs zu schützen, hat osu! ein engagiertes Moderationsteam, das die Foren und Online-Chats rund um die Uhr überwacht.
+Um die offiziellen Community-Hubs zu schützen, hat osu! ein engagiertes Moderationsteam (das [Globale Moderationsteam](/wiki/People/Global_Moderation_Team)), das die Foren und Online-Chats rund um die Uhr überwacht.
 
 Zum Glück ist es für dich immer noch einfach, alles sicher zu gestalten. Nachfolgend sind nur einige der vielen Möglichkeiten aufgeführt, wie du helfen kannst:
 
