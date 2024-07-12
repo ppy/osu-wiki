@@ -66,7 +66,7 @@ Tournois officiels organisés par l'équipe d'osu!.
 | [osu!catch World Cup 2021](CWC/2021) | 01/05/2021 | 06/06/2021 | ::{ flag=KR }:: Corée du Sud | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: États-Unis |
 | [osu!catch World Cup 2022](CWC/2022) | 21/05/2022 | 03/07/2021 | ::{ flag=KR }:: Corée du Sud | ::{ flag=US }:: États-Unis | ::{ flag=CN }:: Chine |
 | [osu!catch World Cup 2023](CWC/2023) | 13/05/2023 | 25/06/2023 | ::{ flag=KR }:: Corée du Sud | ::{ flag=US }:: États-Unis | ::{ flag=IT }:: Italie |
-| [osu!catch World Cup 2024](CWC/2024) | 18/05/2024 | 30/06/2024 | *À déterminé* | *À déterminé* | *À déterminé* |
+| [osu!catch World Cup 2024](CWC/2024) | 18/05/2024 | 30/06/2024 | ::{ flag=US }:: États-Unis | ::{ flag=AR }:: Argentine | ::{ flag=PL }:: Pologne |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania World Cup
 
@@ -865,6 +865,7 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Touhou Project Mania Cup 1st](TMC/1st) | 14/09/2020 | 06/12/2020 | MY 2.5 + TH 1.5 | yuyupa | SMOrcat |
 | [Touhou Project Mania Cup 2nd](TMC/2nd) | 20/12/2021 | 20/03/2022 | Black Stick Rot | rice quadruplets | Hourai Elixir |
+| [Touhou Project Mania Cup 3rd](TMC/3rd) | 17/04/2023 | 16/07/2023 | Bloxy cola | Winx Club | Mew's Bodyguards |
 
 ### Multimode
 
