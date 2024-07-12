@@ -24,7 +24,7 @@ As of July 19, 2021, on the [osu! performance rankings](https://osu.ppy.sh/ranki
 
 <!-- TODO: Add ranking history page similar to osu! -->
 
-As of October 9, 2023, on the [osu!taiko performance rankings](https://osu.ppy.sh/rankings/taiko/performance) the rank #1 player is ::{ flag=JP }:: [Majimanjiwwwww](https://osu.ppy.sh/users/12337864/taiko).
+As of June 6, 2024, on the [osu!taiko performance rankings](https://osu.ppy.sh/rankings/taiko/performance) the rank #1 player is ::{ flag=JP }:: [shinchikuhome](https://osu.ppy.sh/users/3174184/taiko).
 
 ## ![][osu!catch] osu!catch
 
