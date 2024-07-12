@@ -1,12 +1,8 @@
 ---
 no_native_review: true
-outdated_translation: true
-outdated_since: 4390338dba70d8ad149f01408d623120cdc6aa96
 ---
 
 # Umstellung auf lazer
-
-*Hinweis: Wir sind noch dabei, die Spielbalance und -mechanik zu verbessern. Für den Moment sollten **Scores, die auf lazer erreicht werden, nicht als dauerhaft angesehen werden**.*
 
 osu!(lazer) ist die nächste große Aktualisierung des Spiels. Es ist der Höhepunkt von mehreren Jahren Arbeit hinter den Kulissen, um das Spiel akribisch neu zu implementieren.
 
@@ -80,7 +76,7 @@ Im Folgenden findest du eine umfassende Liste des **aktuellen Status** von lazer
 | Score-Einreichung | ![Ja][true] | ![Ja][true] |
 | Beatmap-Ranglisten | ![Ja][true] | ![Ja][true] |
 | Profil-Statistiken | ![Ja][true] | ![Ja][true] |
-| Medaillen | ![Ja][true] | ![Nein][false] |
+| Medaillen | ![Ja][true] | ![Teilweise][partial][^medals-lazer] |
 | Performance-Punkte | ![Ja][true] | ![Ja][true] |
 | Chat in Echtzeit | ![Teilweise][partial][^stable-chat] | ![Ja][true] |
 | Wiki / Neuigkeiten / Änderungsprotokoll / Ranglisten | ![Nein][false] | ![Ja][true][^online-content] |
@@ -107,7 +103,7 @@ Im Folgenden findest du eine umfassende Liste des **aktuellen Status** von lazer
 | Anpassen der SV / Lautstärke pro Objekt | ![Nein][false] | ![Ja][true] |
 | Festlegen des Kurventyps von Slidern pro Segment | ![Nein][false] | ![Ja][true] |
 | Aufsplittung und Zusammenführung von Slidern | ![Nein][false] | ![Ja][true] |
-| Pattern-Rotation | ![Ja][true] | ![Teilweise][partial][^editor-precise-rotation] |
+| Pattern-Rotation | ![Ja][true] | ![Ja][true] |
 | Pattern-Skalierung | ![Nein][false] | ![Ja][true] |
 | Beatmap-Einreichung | ![Ja][true] | ![Nein][false] |
 | Storyboard-Editor | ![Ja][true] | ![Nein][false] |
@@ -159,17 +155,17 @@ Davon abgesehen können vorläufig einzelne Scores und Beatmaps aus lazer export
 
 #### Wenn ich einen Score in lazer erreiche, wird er dann in meinem Profil angezeigt?
 
-Scores werden unter "Neuliche Plays" angezeigt, aber noch nicht in "Beste Performance".
+Ja, aber nicht unter "Beste Performance", wenn der "Lazer-Modus" auf der Webseite deaktiviert ist.
 
-#### Wenn ich einen Score in lazer erreiche, wird es dafür dann Performance-Punkte geben?
+Außerdem wird der Score vorerst nicht unter der Übersicht "Erster Platz" erscheinen.
 
-Der Abschnitt der kürzlichen Spiele auf der Profilseite zeigt die in lazer erreichten Scores mit den berechneten Performance-Punkten an. Die Gesamtanzahl wird dargestellt, sobald man mit der Maus über die Gesamtzahl der regulären Performance-Punkte fährt.
+#### Wenn ich einen Score in lazer erreiche, wird es dafür Performance-Punkte geben?
 
-Des Weiteren gibt [lazer.ppy.sh](https://lazer.ppy.sh/home), eine experimentelle Version der osu!-Webseite, alle Punktestände und Ranglisten unter Berücksichtigung von Scores aus lazer an.
+Ja.
 
 #### Verwendet lazer ScoreV2?
 
-Ja, es nutzt ein mit einigen Anpassungen darauf basierendes Punktesystem. Scores aus ScoreV1 werden in naher Zukunft konvertiert.
+Ja, es nutzt ein mit einigen Anpassungen darauf basierendes Punktesystem.
 
 <!-- lint ignore no-heading-punctuation -->
 
@@ -177,17 +173,58 @@ Ja, es nutzt ein mit einigen Anpassungen darauf basierendes Punktesystem. Scores
 
 Du kannst tatsächlich die Einstellung `Spielstandanzeigemodus` auf `Klassisch` stellen, um den explosiven Stil des Punktesystems im Spiel wiederherzustellen! Es wird keine perfekte Übereinstimmung sein, gibt dir aber das gleiche Gefühl wie beim klassischen Scoring und wird überall angewendet, wo du es erwarten würdest.
 
+Globale Score-Ranglisten nutzen ebenfalls das klassische Punktesystem.
+
 #### Wenn ich einen Score auf lazer erreiche, wird dieser für immer bleiben?
 
-Wir versuchen zwar, so viele Scores wie möglich zu erhalten, geben aber **keine Garantie, dass Scores auf unbestimmte Zeit erhalten bleiben**. Wir können uns jederzeit dazu entscheiden, einen Teil oder alle Scores zu vernichten, um das Spiel fair zu halten.
+Wir versuchen zwar, so viele Scores wie möglich zu erhalten, geben aber **keine Garantie, dass Scores dauerhaft erhalten bleiben**. Wir können uns jederzeit dazu entscheiden, einen Teil oder alle Scores zu vernichten, um das Spiel fair zu halten, z. B. wenn Cheats entdeckt werden.
 
-#### Werden auf stable erreichte Scores irgendwann in lazer auftauchen?
+#### Werden in stable erreichte Scores in lazer gezeigt?
 
-Ja. Sobald wir die Kombination von lazer- und stable-Scores ausbalanciert haben, werden beide sichtbar sein.
+Ja.
+
+#### Werden auf lazer erreichte Scores in stable auftauchen?
+
+Vorerst nicht.
 
 #### Werden alle Mods gerankt werden?
 
-Im Moment erscheinen Scores mit allen Mod-Kombinationen in den Ranglisten. Ob Scores mit allen Mods Performance-Punkte geben werden (und wenn sie es tun, ob es einen Bonus oder eine Strafe gibt), steht noch zur Diskussion.
+Auf Ranglisten erscheinen Scores jeglicher Mod-Kombinationen.
+
+Jedoch gibt es aktuell nur für die folgenden Mods Performance-Punkte:
+
+- Verringerung der Schwierigkeit
+  - Easy
+  - No Fail
+  - Half Time (nur 0,75x, `Adjust pitch` anzupassen ist erlaubt)
+  - Daycore (nur 0,75x)
+- Erhöhung der Schwierigkeit
+  - Hard Rock (gilt nicht für osu!mania)
+  - Sudden Death (`Restart on fail` anzupassen ist erlaubt)
+  - Perfect (`Restart on fail` anzupassen ist erlaubt)
+  - Hidden
+  - Nightcore (nur 1,5x)
+  - Double Time (nur 1,5x, `Adjust pitch` anzupassen ist erlaubt)
+  - Flashlight
+  - Blinds
+  - Accuracy Challenge
+- Konvertierung (betrifft nur osu!mania)
+  - Mirror
+  - Four Keys
+  - Five Keys
+  - Six Keys
+  - Seven Keys
+  - Eight Keys
+  - Nine Keys
+- Zum Spaß
+  - Muted
+  - No Scope
+- Automatisierung (betrifft nur osu!)
+  - Spun out
+- System
+  - Touch Device
+
+Sofern oben nicht anders angegeben, werden Performance-Punkte nur für die Standardkonfiguration der Anpassungsoptionen vergeben.
 
 #### Ich mag die neuen Spielmechaniken nicht. Kann ich die alten Spielmechaniken wie auf stable wiederherstellen?
 
@@ -303,13 +340,13 @@ Du denkst wahrscheinlich an ein anderes Spiel.
 [^multi-room-max]: Maximal 16 Spieler.
 [^map-only]: Nur die Beatmap.
 [^all-files]: Alle Dateien.
-[^editor-precise-rotation]: Fehlende präzise Winkeldrehung.
 [^incompatibilities]: Einige Editor-Features führen zu einer inkorrekten Wiedergabe von Beatmaps in stable — wird bald behoben.
 [^stable-chat]: Es kann bis zu 15 Sekunden dauern, bis eine Nachricht ankommt.
 [^countdown-timers-stable]: Stelle einen Countdown mit einem Befehl ein, kein automatischer Start.
 [^countdown-timers-lazer]: Stelle einen Countdown in der Benutzeroberfläche ein, um das Match automatisch zu starten.
 [^queue-modes]: Aktiviere diese Option, damit jeder in einer Lobby neue Beatmaps in die Warteschlange stellen kann, auch bekannt als "host rotate".
 [^difficulty-adjust]: Ändere die Werte CS/AR/OD/HP einer Beatmap direkt in der Songauswahl über die Mod "Difficulty Adjust".
+[^medals-lazer]: Manche [Hush-Hush Medaillen](/wiki/Medals#hush-hush) sind noch nicht verfügbar.
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png

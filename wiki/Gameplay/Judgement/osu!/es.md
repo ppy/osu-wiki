@@ -86,5 +86,5 @@ Las repeticiones establecidas antes del 10 de mayo de 2019 (cuando el cambio se 
 ## Notas
 
 [^half-spins]: Los giros se calculan internamente en términos de medias revoluciones. Las fórmulas que aparecen en esta página están ajustadas en términos de giros completos para simplificar, por lo que este valor se redondea hacia abajo a la mitad más cercana.
-[^spinner-clear]: Como un presumible descuido, el [texto «Clear»](/wiki/Skinning/osu!#spinner) (`spinner-clear.png`) aparece medio giro antes de la cantidad requerida de giros para obtener un juicio GREAT.
+[^spinner-clear]: Como un presumible descuido, el [texto «Clear»](/wiki/Skinning/osu!#spinners) (`spinner-clear.png`) aparece medio giro antes de la cantidad requerida de giros para obtener un juicio GREAT.
 [^minimum-sps]: Debido a la constante +0,5 en la fórmula para el mínimo de giros requeridos, el promedio mínimo real es `0.5 / longitud del spinner en segundos` giros por segundo más rápido.

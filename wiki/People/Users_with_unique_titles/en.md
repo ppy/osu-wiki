@@ -129,9 +129,10 @@ Winners of previous osu!mania World Cups with the **Former osu!mania Champion** 
 
 ## Official mapping contest winners
 
-Most official mapping contests offer the **Elite Mapper** title as a first-place prize.
+Most official mapping contests offer the **Elite Mapper** title through [contest points](/wiki/Contests/Contest_points). Older contests rewarded the title as a first-place prize.
 
 - ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596)
+- ::{ flag=PH }:: [acnozei](https://osu.ppy.sh/users/10141268)
 - ::{ flag=KR }:: [Acylica](https://osu.ppy.sh/users/1943309)
 - ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883)
 - ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114)
@@ -170,6 +171,7 @@ Most official mapping contests offer the **Elite Mapper** title as a first-place
 - ::{ flag=KR }:: [Taeyang](https://osu.ppy.sh/users/2732340)
 - ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811)
 - ::{ flag=CN }:: [TtmnZk](https://osu.ppy.sh/users/2495509)
+- ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904)
 - ::{ flag=CN }:: [yf\_bmp](https://osu.ppy.sh/users/1243669)
 - ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834)
 - ::{ flag=RU }:: [xbopost](https://osu.ppy.sh/users/6842421)
@@ -297,6 +299,7 @@ These users were awarded their respective titles for having significantly contri
 | ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) | osu! Paragon |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | World Cup Organiser |
 | ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) | osu!painter<!-- maria and yuzu and a bunch of artwork for old site --> |
+| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | osu!catch Paragon |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | osu!taiko Paragon |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch Paragon |
 | ::{ flag=DE }:: [LastExceed](https://osu.ppy.sh/users/6232245) | Master of the Fade<!-- implemented fade in and hidden mod in osu!(lazer) and notable Fade In player --> |

@@ -44,7 +44,7 @@ Offizielle Turniere, die vom osu!-Team organisiert werden.
 | [osu!taiko World Cup 2021](TWC/2021) | 06.03.2021 | 11.04.2021 | ::{ flag=JP }:: Japan | ::{ flag=KR }:: Südkorea | ::{ flag=BR }:: Brasilien |
 | [osu!taiko World Cup 2022](TWC/2022) | 12.03.2022 | 24.04.2022 | ::{ flag=JP }:: Japan | ::{ flag=KR }:: Südkorea | ::{ flag=ID }:: Indonesien |
 | [osu!taiko World Cup 2023](TWC/2023) | 18.03.2023 | 30.04.2023 | ::{ flag=JP }:: Japan | ::{ flag=TW }:: Taiwan | ::{ flag=DE }:: Deutschland |
-| [osu!taiko World Cup 2024](TWC/2024) | 16.03.2024 | 28.04.2024 | *TBD* | *TBD* | *TBD* |
+| [osu!taiko World Cup 2024](TWC/2024) | 16.03.2024 | 28.04.2024 | ::{ flag=JP }:: Japan | ::{ flag=GB }:: Vereinigtes Königreich | ::{ flag=US }:: Vereinigte Staaten |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch World Cup
 
@@ -62,6 +62,7 @@ Offizielle Turniere, die vom osu!-Team organisiert werden.
 | [osu!catch World Cup 2021](CWC/2021) | 01.05.2021 | 06.06.2021 | ::{ flag=KR }:: Südkorea | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: Vereinigte Staaten |
 | [osu!catch World Cup 2022](CWC/2022) | 21.05.2022 | 03.07.2022 | ::{ flag=KR }:: Südkorea | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=CN }:: China |
 | [osu!catch World Cup 2023](CWC/2023) | 13.05.2023 | 25.06.2023 | ::{ flag=KR }:: Südkorea | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=IT }:: Italien |
+| [osu!catch World Cup 2024](CWC/2024) | 18.05.2024 | 30.06.2024 | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=AR }:: Argentinien | ::{ flag=PL }:: Polen |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania World Cup
 
@@ -210,7 +211,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Hard Rock Showdown](HRS) | 23.02.2024 | 28.04.2024 | *TBD* | *TBD* | *TBD* |
+| [Hard Rock Showdown](HRS) | 23.02.2024 | 28.04.2024 | ::{ flag=PL }:: [maliszewski](https://osu.ppy.sh/users/12408961) | ::{ flag=HK }:: [mcy4](https://osu.ppy.sh/users/2165650) | ::{ flag=CA }:: [his kitten](https://osu.ppy.sh/users/3717598) |
 
 #### Hidden Only Tournament
 
@@ -559,6 +560,12 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | [North American Taiko Tournament 2018](NSATT/NATT_2018) | 28.07.2018 | 01.09.2018 | ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897) | ::{ flag=CA }:: [vladyushko](https://osu.ppy.sh/users/4908773) | ::{ flag=US }:: [Loopy542](https://osu.ppy.sh/users/5468461) |
 | [North & South American Taiko Tournament 2019](NSATT/NSATT_2019) | 22.06.2019 | 28.07.2019 | ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897) | ::{ flag=CA }:: [vladyushko](https://osu.ppy.sh/users/4908773) | ::{ flag=BR }:: [eae](https://osu.ppy.sh/users/4050738) |
 
+#### Project Prism
+
+| Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Project Prism 2024](Project_Prism/2024) | 11.05.2024 | 30.06.2024 | *TBD* | *TBD* | *TBD* |
+
 #### Taiko Convert Tournament
 
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
@@ -608,7 +615,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [4 Digit Catch World Cup 2021](4CWC/2021) | 02.10.2021 | 14.11.2021 | ::{ flag=ID }:: Indonesien | ::{ flag=DE }:: Deutschland | ::{ flag=SE }:: Schweden |
-| [4 Digit Catch World Cup 2022](4CWC/2022) | 30.07.2022 | 11.09.2022 | ::{ flag=MX }:: Mexico | ::{ flag=US }:: United States | ::{ flag=SG }:: Singapore |
+| [4 Digit Catch World Cup 2022](4CWC/2022) | 30.07.2022 | 11.09.2022 | ::{ flag=MX }:: Mexiko | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=SG }:: Singapur |
 
 #### Catch French Beginner
 
@@ -693,6 +700,8 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | [4 Digit osu!mania World Cup 2](4DM/2) | 15.02.2020 | 28.03.2020 | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=AR }:: Argentinien | ::{ flag=PH }:: Philippinen |
 | [4 Digit osu!mania World Cup 3](4DM/3) | 23.01.2021 | 07.03.2021 | ::{ flag=PH }:: Philippinen | ::{ flag=MY }:: Malaysia | ::{ flag=BR }:: Brasilien |
 | [4 Digit osu!mania World Cup 4](4DM/4) | 08.01.2022 | 20.02.2022 | ::{ flag=FR }:: Frankreich | ::{ flag=TH }:: Thailand | ::{ flag=PE }:: Peru |
+| [4 Digit osu!mania World Cup 2023](4DM/2023) | 14.01.2023 | 04.03.2023 | ::{ flag=CN }:: China | ::{ flag=SG }:: Singapur | ::{ flag=CA }:: Kanada |
+| [4 Digit osu!mania World Cup 2024](4DM/2024) | 13.01.2024 | 25.02.2024 | ::{ flag=VN }:: Vietnam | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=TW }:: Taiwan |
 
 #### :thonking: Mania Tournament
 
@@ -826,7 +835,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Speed of Light Mania Tournament](SOL/2019) | 23.11.2019 | 26.01.2020 | ::{ flag=PH }:: [**bojii**](https://osu.ppy.sh/users/10083439) | ::{ flag=BR }:: [**andreymc**](https://osu.ppy.sh/users/5691061) | ::{ flag=MY }:: [**cheewee10**](https://osu.ppy.sh/users/4477497) |
+| [Speed of Light Mania Tournament](SOL/2019) | 23.11.2019 | 26.01.2020 | ::{ flag=PH }:: [bojii](https://osu.ppy.sh/users/10083439) | ::{ flag=BR }:: [andreymc](https://osu.ppy.sh/users/5691061) | ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497) |
 | [Speed of Light 2: Lucha Libre Edition](SOL/2020) | 14.11.2020 | 24.01.2021 | regular team | World's Fastest Gamers | BOTTOM GEAR |
 
 #### Springtime osu!mania Free-for-all Tournament
@@ -836,6 +845,9 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | Springtime osu!mania Free-for-all Tournament | 19.02.2016 | 01.05.2016 | ::{ flag=KR }:: [Cobo-](https://osu.ppy.sh/users/1482965) | ::{ flag=CL }:: [Urusai](https://osu.ppy.sh/users/469808) | ::{ flag=FR }:: [bumpinho](https://osu.ppy.sh/users/1594604) |
 | Springtime osu!mania Free-for-all Tournament 2 | 18.02.2017 | 30.04.2017 | ::{ flag=KR }:: [cheetose](https://osu.ppy.sh/users/3817144) | ::{ flag=KR }:: [Cobo-](https://osu.ppy.sh/users/1482965) | ::{ flag=VN }:: [Asrielly](https://osu.ppy.sh/users/2656302) |
 | [Springtime osu!mania Free-for-all Tournament 3](SOFT/3) | 17.02.2018 | 29.04.2018 | ::{ flag=BR }:: [Lothus](https://osu.ppy.sh/users/9530019) | ::{ flag=JP }:: [inteliser](https://osu.ppy.sh/users/1824775) | ::{ flag=US }:: [TheToaphster](https://osu.ppy.sh/users/7616811) |
+| [Springtime osu!mania Free-for-all Tournament 4](SOFT/4) | 06.04.2019 | 22.06.2019 | ::{ flag=KR }:: [wonder5193](https://osu.ppy.sh/users/8474029) | ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811) | ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723) |
+| [Springtime osu!mania Free-for-all Tournament 5](SOFT/5) | 27.02.2021 | 09.05.2021 | ::{ flag=CL }:: [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) | ::{ flag=PH }:: [bojii](https://osu.ppy.sh/users/10083439) | ::{ flag=BR }:: [SillyFangirl](https://osu.ppy.sh/users/2288363) |
+| [Springtime osu!mania Free-for-all Tournament 6](SOFT/6) | 05.03.2022 | 15.05.2022 | ::{ flag=CL }:: [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) | ::{ flag=SG }:: [Xvenn](https://osu.ppy.sh/users/13390529) | ::{ flag=BR }:: [SillyFangirl](https://osu.ppy.sh/users/2288363) |
 
 #### The Heptakey osu!mania Cup
 
@@ -849,6 +861,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Touhou Project Mania Cup 1st](TMC/1st) | 14.09.2020 | 06.12.2020 | MY 2.5 + TH 1.5 | yuyupa | SMOrcat |
 | [Touhou Project Mania Cup 2nd](TMC/2nd) | 20.12.2021 | 20.03.2022 | Black Stick Rot | rice quadruplets | Hourai Elixir |
+| [Touhou Project Mania Cup 3rd](TMC/3rd) | 17.04.2023 | 16.07.2023 | Bloxy cola | Winx Club | Mew's Bodyguards |
 
 ### Multimode
 

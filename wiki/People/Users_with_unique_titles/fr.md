@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: f025dffcc9f2f7857bdb1819c90c9cb7376c7b22
+---
+
 # Utilisateurs avec des titres uniques
 
 Les titres des utilisateurs sont généralement associés à des [groupes d'utilisateurs](/wiki/People/User_group), mais les utilisateurs listés ci-dessous ont reçu leur titre pour d'autres raisons. La plupart des titres sont des récompenses pour des contributions ou des réalisations, les autres étant des symboles de l'histoire emblématique ou amusante d'osu!
@@ -292,7 +297,8 @@ Ces utilisateurs ont reçu leur titre respectif pour avoir contribué de manièr
 | ::{ flag=CN }:: [Ballance](https://osu.ppy.sh/users/165946) | osu!painter |
 | ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) | osu! Paragon |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Organisateur de la World Cup |
-| ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) | osu!painter< |
+| ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) | osu!painter |
+| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | osu!catch Paragon |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | osu!taiko Paragon |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch Paragon |
 | ::{ flag=DE }:: [LastExceed](https://osu.ppy.sh/users/6232245) | Master of the Fade |

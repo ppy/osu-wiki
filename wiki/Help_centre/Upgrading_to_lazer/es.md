@@ -72,7 +72,7 @@ La siguiente es una lista detallada del **estado actual** de lazer en comparaci�
 | Envío de puntuaciones | ![Sí][true] | ![Sí][true] |
 | Tablas de clasificación de beatmaps | ![Sí][true] | ![Sí][true] |
 | Estadísticas de perfil | ![Sí][true] | ![Sí][true] |
-| Medallas | ![Sí][true] | ![No][false] |
+| Medallas | ![Sí][true] | ![Parcial][partial][^medals-lazer] |
 | Puntos de rendimiento | ![Sí][true] | ![Sí][true] |
 | Chat en tiempo real | ![Parcial][partial][^stable-chat] | ![Sí][true] |
 | Wiki / noticias / registro de cambios / clasificaciones | ![No][false] | ![Sí][true][^online-content] |
@@ -340,6 +340,7 @@ Probablemente estés pensando en otro juego.
 [^countdown-timers-lazer]: Establece una cuenta regresiva desde la IU del juego para comenzar la partida automáticamente.
 [^queue-modes]: Actívalos para permitir a cualquiera en la sala solicitar nuevos beatmaps, también conocido como «rotación del anfitrión».
 [^difficulty-adjust]: Cambia el CS/AR/OD/HP de un beatmap directamente en el selector de canciones mediante el mod Difficulty Adjust.
+[^medals-lazer]: Algunas [medallas Hush-Hush](/wiki/Medals#hush-hush) aún no se pueden conseguir.
 [^filo]: «Filo» es una de las traducciones de [cutting edge](/wiki/Client/Release_stream).
 
 [true]: /wiki/shared/true.png

@@ -129,9 +129,10 @@ Ganadores de las osu!mania World Cups anteriores con el título de usuario **For
 
 ## Ganadores de los concursos de mapping oficiales
 
-La mayoría de los concursos oficiales de mapping ofrecen el título **Elite Mapper** como primer premio.
+La mayoría de los concursos oficiales de mapping ofrecen el título **Elite Mapper** a través de los [puntos de los concursos](/wiki/Contests/Contest_points). Los concursos antiguos daban el título como premio al ganador.
 
 - ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596)
+- ::{ flag=PH }:: [acnozei](https://osu.ppy.sh/users/10141268)
 - ::{ flag=KR }:: [Acylica](https://osu.ppy.sh/users/1943309)
 - ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883)
 - ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114)
@@ -170,6 +171,7 @@ La mayoría de los concursos oficiales de mapping ofrecen el título **Elite Map
 - ::{ flag=KR }:: [Taeyang](https://osu.ppy.sh/users/2732340)
 - ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811)
 - ::{ flag=CN }:: [TtmnZk](https://osu.ppy.sh/users/2495509)
+- ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904)
 - ::{ flag=CN }:: [yf\_bmp](https://osu.ppy.sh/users/1243669)
 - ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834)
 - ::{ flag=RU }:: [xbopost](https://osu.ppy.sh/users/6842421)
@@ -178,9 +180,9 @@ La mayoría de los concursos oficiales de mapping ofrecen el título **Elite Map
 
 ## Elite Nominators
 
-*Pagina principal: [Elite Nominators](/wiki/People/Elite_Nominators)*
+*Página principal: [Elite Nominators](/wiki/People/Elite_Nominators)*
 
-Desde 2020, los miembros de los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) y [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) con una exhibición excepcional para apoyar el sistema de clasificación en un año determinado son recompensados con el título **Elite Nominator**. Este título se otorga al inicio de cada año por las contribuciones realizadas durante el último, y dura aproximadamente un año o hasta que el usuario deja el equipo.
+Desde 2020, los miembros de los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) y [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) con una exhibición excepcional para apoyar el sistema de clasificación en un año determinado son recompensados con el título **Elite Nominator**. Este título se otorga al inicio de cada año por las contribuciones realizadas durante el último, y dura aproximadamente un año o hasta que el usuario deje el equipo.
 
 - ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306)
 - ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958)
@@ -236,7 +238,7 @@ El título de **osu!musician** se otorgó a los usuarios por sus contribuciones 
 
 El equipo de osu! realizó concursos de arte para que los miembros de la comunidad tuvieran la oportunidad de diseñar o rediseñar algunas de las mascotas del juego. Los ganadores de estos concursos, así como las personas cuyos diseños se usaron finalmente como obras de arte oficiales, recibieron el título de **osu!artist**.
 
-- ::{ flag=US }:: [Crowie](https://osu.ppy.sh/users/6894067) diseñó a **Mocha** y ayudó a producir muchas otras obras de arte de osu!
+- ::{ flag=US }:: [Crowie](https://osu.ppy.sh/users/6894067) diseñó a **Mocha** y ayudó a producir muchas otras obras de arte de osu!.
 - ::{ flag=ID }:: [JMC](https://osu.ppy.sh/users/774010) ganó el concurso [Fan Art 6: osu!taiko mascot](https://osu.ppy.sh/community/contests/2).
 - ::{ flag=US }:: [Thievley](https://osu.ppy.sh/users/4717672) rediseñó a **Yuzu**.
 - ::{ flag=ID }:: [xiemon](https://osu.ppy.sh/users/5203667) diseñó a **Mani y Mari**.
@@ -293,6 +295,7 @@ Estos usuarios recibieron sus respectivos títulos por haber contribuido signifi
 | ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) | osu! Paragon |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | World Cup Organiser |
 | ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) | osu!painter |
+| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | osu!catch Paragon |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | osu!taiko Paragon |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch Paragon |
 | ::{ flag=DE }:: [LastExceed](https://osu.ppy.sh/users/6232245) | Master of the Fade |

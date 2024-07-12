@@ -1,8 +1,3 @@
----
-outdated_since: edef8265df7b8534e60d912986ebae79d3835ae9
-outdated_translation: true
----
-
 # Torneos
 
 Sección dedicada para torneos de osu!. Los torneos tienen su foro dedicado que puede encontrarse [a través de este enlace](https://osu.ppy.sh/community/forums/55).
@@ -49,7 +44,7 @@ Torneos oficiales organizados por el osu! team.
 | [osu!taiko World Cup 2021](TWC/2021) | 6/3/2021 | 11/4/2021 | ::{ flag=JP }:: Japón | ::{ flag=KR }:: Corea del Sur | ::{ flag=BR }:: Brasil |
 | [osu!taiko World Cup 2022](TWC/2022) | 12/3/2022 | 24/4/2022 | ::{ flag=JP }:: Japón | ::{ flag=KR }:: Corea del Sur | ::{ flag=ID }:: Indonesia |
 | [osu!taiko World Cup 2023](TWC/2023) | 18/3/2023 | 30/4/2023 | ::{ flag=JP }:: Japón | ::{ flag=TW }:: Taiwán | ::{ flag=DE }:: Alemania |
-| [osu!taiko World Cup 2024](TWC/2024) | 16/3/2024 | 28/4/2024 | *TBD* | *TBD* | *TBD* |
+| [osu!taiko World Cup 2024](TWC/2024) | 16/3/2024 | 28/4/2024 | ::{ flag=JP }:: Japón | ::{ flag=GB }:: Reino Unido | ::{ flag=US }:: Estados Unidos |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch World Cup
 
@@ -67,6 +62,7 @@ Torneos oficiales organizados por el osu! team.
 | [osu!catch World Cup 2021](CWC/2021) | 1/5/2021 | 6/6/2021 | ::{ flag=KR }:: Corea del Sur | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: Estados Unidos |
 | [osu!catch World Cup 2022](CWC/2022) | 21/5/2022 | 3/7/2022 | ::{ flag=KR }:: Corea del Sur | ::{ flag=US }:: Estados Unidos | ::{ flag=CN }:: China |
 | [osu!catch World Cup 2023](CWC/2023) | 13/5/2023 | 25/6/2023 | ::{ flag=KR }:: Corea del Sur | ::{ flag=US }:: Estados Unidos | ::{ flag=IT }:: Italia |
+| [osu!catch World Cup 2024](CWC/2024) | 18/4/2024 | 30/6/2024 | ::{ flag=US }:: Estados Unidos | ::{ flag=AR }:: Argentina | ::{ flag=PL }:: Polonia |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania World Cup
 
@@ -89,7 +85,7 @@ Torneos oficiales organizados por el osu! team.
 | [osu!mania 4K World Cup 2022](MWC/2022_4K) | 7/7/2022 | 18/9/2022 | ::{ flag=KR }:: Corea del Sur | ::{ flag=BR }:: Brasil | ::{ flag=US }:: Estados Unidos |
 | [osu!mania 7K World Cup 2023](MWC/2023_7K) | 15/12/2022 | 18/2/2023 | ::{ flag=PH }:: Filipinas | ::{ flag=KR }:: Corea del Sur | ::{ flag=MY }:: Malasia |
 | [osu!mania 4K World Cup 2023](MWC/2023_4K) | 13/7/2023 | 24/9/2023 | ::{ flag=US }:: Estados Unidos | ::{ flag=KR }:: Corea del Sur | ::{ flag=ID }:: Indonesia |
-| [osu!mania 7K World Cup 2024](MWC/2024_7K) | 15/12/2023 | 25/2/2024 | *TBD* | *TBD* | *TBD* |
+| [osu!mania 7K World Cup 2024](MWC/2024_7K) | 15/12/2023 | 25/2/2024 | ::{ flag=KR }:: Corea del Sur | ::{ flag=MY }:: Malasia | ::{ flag=PH }:: Filipinas |
 
 ## Comunidad
 
@@ -118,6 +114,17 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | 3 Digit World Cup 2022 | 20/2/2022 | 8/5/2022 | ::{ flag=HK }:: Hong Kong | ::{ flag=CN }:: China | ::{ flag=ID }:: Indonesia |
 | 3 Digit World Cup 2023 | 17/2/2023 | 30/4/2023 | ::{ flag=KR }:: Corea del Sur | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: Estados Unidos |
 | 3 Digit World Cup 2024 | 25/12/2023 | 10/3/2024 | ::{ flag=KR }:: Corea del Sur | ::{ flag=US }:: Estados Unidos | ::{ flag=BR }:: Brasil |
+
+#### 4 Digit World Cup
+
+| Nombre | Inicio | Final | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| 4 Digit World Cup | 26/7/2018 | 21/10/2018 | ::{ flag=NL }:: Países Bajos | ::{ flag=RU }:: Federación de Rusia | ::{ flag=HK }:: Hong Kong |
+| 4 Digit World Cup 2019 | 24/5/2019 | 25/8/2019 | ::{ flag=US }:: Estados Unidos | ::{ flag=GB }:: Reino Unido | ::{ flag=RU }:: Federación de Rusia |
+| 4 Digit World Cup 2020 | 28/6/2020 | 28/9/2020 | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: Estados Unidos | ::{ flag=RU }:: Federación de Rusia |
+| 4 Digit World Cup 2022 | 5/12/2021 | 6/3/2022 | ::{ flag=CN }:: China | ::{ flag=SG }:: Singapur | ::{ flag=CA }:: Canadá |
+| 4 Digit World Cup 2023 | 7/5/2023 | 23/7/2023 | ::{ flag=US }:: Estados Unidos | ::{ flag=CA }:: Canadá | ::{ flag=TH }:: Tailandia |
+| [4 Digit World Cup 2024](4WC/2024) | 4/5/2024 | 16/6/2024 | *Por decidirse* | *Por decidirse* | *Por decidirse* |
 
 #### Aetherian's Summer Singles
 
@@ -199,6 +206,12 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Great Singapore Tournament](GST/1) | 18/6/2019 | 4/8/2019 | Tom and Jerry | Broken Family | Ranked Score |
 | [Great Singapore Tournament 2](GST/2) | 29/11/2019 | 19/1/2020 | tamade | Mahathir bin Moh | Tom and Jerry |
+
+#### Hard Rock Showdown
+
+| Nombre | Inicio | Final | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Hard Rock Showdown](HRS) | 23/2/2024 | 28/4/2024 | ::{ flag=PL }:: [maliszewski](https://osu.ppy.sh/users/12408961) | ::{ flag=HK }:: [mcy4](https://osu.ppy.sh/users/2165650) | ::{ flag=CA }:: [his kitten](https://osu.ppy.sh/users/3717598) |
 
 #### Hidden Only Tournament
 
@@ -441,7 +454,7 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | Ulat Bulu Cup 2019 | 26/7/2019 | 31/8/2019 | Jidank Hamil | Susu Vanilla Cimory | Budak Cygames |
 | [Ulat Bulu Cup 2020](UCUP/2020) | 2/6/2020 | 12/7/2020 | awan fanclub | Press 3 Fs to pay respects | terserah |
 | [Ulat Cup 2021](UCUP/2021) | 13/9/2021 | 31/10/2021 | Rushia | Surtr S3 | L9 Hamster |
-| [Ulat Cup 2022](UCUP/2022) | 13/9/2021 | 31/10/2021 | ::{ flag=TH }:: [chests](https://osu.ppy.sh/users/14806365) | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | [LouisZpro](https://osu.ppy.sh/users/6231292) |
+| [Ulat Cup 2022](UCUP/2022) | 24/10/2022 | 11/12/2022 | ::{ flag=TH }:: [chests](https://osu.ppy.sh/users/14806365) | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | [LouisZpro](https://osu.ppy.sh/users/6231292) |
 
 #### Vin-Tana Solo Showdown
 
@@ -546,6 +559,12 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [North American Taiko Tournament 2018](NSATT/NATT_2018) | 28/7/2018 | 1/9/2018 | ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897) | ::{ flag=CA }:: [vladyushko](https://osu.ppy.sh/users/4908773) | ::{ flag=US }:: [Loopy542](https://osu.ppy.sh/users/5468461) |
 | [North & South American Taiko Tournament 2019](NSATT/NSATT_2019) | 22/6/2019 | 28/7/2019 | ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897) | ::{ flag=CA }:: [vladyushko](https://osu.ppy.sh/users/4908773) | ::{ flag=BR }:: [eae](https://osu.ppy.sh/users/4050738) |
+
+#### Project Prism
+
+| Nombre | Inicio | Final | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Project Prism 2024](Project_Prism/2024) | 11/5/2024 | 30/6/2024 | *Por decidirse* | *Por decidirse* | *Por decidirse* |
 
 #### Taiko Convert Tournament
 
@@ -681,6 +700,8 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | [4 Digit osu!mania World Cup 2](4DM/2) | 15/2/2020 | 28/3/2020 | ::{ flag=US }:: Estados Unidos | ::{ flag=AR }:: Argentina | ::{ flag=PH }:: Filipinas |
 | [4 Digit osu!mania World Cup 3](4DM/3) | 23/1/2021 | 7/3/2021 | ::{ flag=PH }:: Filipinas | ::{ flag=MY }:: Malasia | ::{ flag=BR }:: Brasil |
 | [4 Digit osu!mania World Cup 4](4DM/4) | 8/1/2022 | 20/2/2022 | ::{ flag=FR }:: Francia | ::{ flag=TH }:: Tailandia | ::{ flag=PE }:: Perú |
+| [4 Digit osu!mania World Cup 2023](4DM/2023) | 14/1/2024 | 4/3/2023 | ::{ flag=CN }:: China | ::{ flag=SG }:: Singapur | ::{ flag=CA }:: Canadá |
+| [4 Digit osu!mania World Cup 2024](4DM/2024) | 13/1/2024 | 25/2/2024 | ::{ flag=VN }:: Vietnam | ::{ flag=US }:: Estados Unidos | ::{ flag=TW }:: Taiwán |
 
 #### :thonking: Mania Tournament
 
@@ -814,7 +835,7 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 
 | Nombre | Inicio | Final | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Speed of Light Mania Tournament](SOL/2019) | 23/11/2019 | 26/1/2020 | ::{ flag=PH }:: [**bojii**](https://osu.ppy.sh/users/10083439) | ::{ flag=BR }:: [**andreymc**](https://osu.ppy.sh/users/5691061) | ::{ flag=MY }:: [**cheewee10**](https://osu.ppy.sh/users/4477497) |
+| [Speed of Light Mania Tournament](SOL/2019) | 23/11/2019 | 26/1/2020 | ::{ flag=PH }:: [bojii](https://osu.ppy.sh/users/10083439) | ::{ flag=BR }:: [andreymc](https://osu.ppy.sh/users/5691061) | ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497) |
 | [Speed of Light 2: Lucha Libre Edition](SOL/2020) | 14/11/2020 | 24/1/2021 | regular team | World's Fastest Gamers | BOTTOM GEAR |
 
 #### Springtime osu!mania Free-for-all Tournament
@@ -824,6 +845,9 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | Springtime osu!mania Free-for-all Tournament | 19/2/2016 | 1/5/2016 | ::{ flag=KR }:: [Cobo-](https://osu.ppy.sh/users/1482965) | ::{ flag=CL }:: [Urusai](https://osu.ppy.sh/users/469808) | ::{ flag=FR }:: [bumpinho](https://osu.ppy.sh/users/1594604) |
 | Springtime osu!mania Free-for-all Tournament 2 | 18/2/2017 | 30/4/2017 | ::{ flag=KR }:: [cheetose](https://osu.ppy.sh/users/3817144) | ::{ flag=KR }:: [Cobo-](https://osu.ppy.sh/users/1482965) | ::{ flag=VN }:: [Asrielly](https://osu.ppy.sh/users/2656302) |
 | [Springtime osu!mania Free-for-all Tournament 3](SOFT/3) | 17/2/2018 | 29/4/2018 | ::{ flag=BR }:: [Lothus](https://osu.ppy.sh/users/9530019) | ::{ flag=JP }:: [inteliser](https://osu.ppy.sh/users/1824775) | ::{ flag=US }:: [TheToaphster](https://osu.ppy.sh/users/7616811) |
+| [Springtime osu!mania Free-for-all Tournament 4](SOFT/4) | 6/4/2019 | 22/6/2019 | ::{ flag=KR }:: [wonder5193](https://osu.ppy.sh/users/8474029) | ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811) | ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723) |
+| [Springtime osu!mania Free-for-all Tournament 5](SOFT/5) | 27/2/2021 | 9/5/2021 | ::{ flag=CL }:: [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) | ::{ flag=PH }:: [bojii](https://osu.ppy.sh/users/10083439) | ::{ flag=BR }:: [SillyFangirl](https://osu.ppy.sh/users/2288363) |
+| [Springtime osu!mania Free-for-all Tournament 6](SOFT/6) | 5/3/2022 | 15/5/2022 | ::{ flag=CL }:: [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) | ::{ flag=SG }:: [Xvenn](https://osu.ppy.sh/users/13390529) | ::{ flag=BR }:: [SillyFangirl](https://osu.ppy.sh/users/2288363) |
 
 #### The Heptakey osu!mania Cup
 
@@ -837,6 +861,7 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Touhou Project Mania Cup 1st](TMC/1st) | 14/9/2020 | 6/12/2020 | MY 2.5 + TH 1.5 | yuyupa | SMOrcat |
 | [Touhou Project Mania Cup 2nd](TMC/2nd) | 20/12/2021 | 20/3/2022 | Black Stick Rot | rice quadruplets | Hourai Elixir |
+| [Touhou Project Mania Cup 3rd](TMC/3rd) | 17/4/2023 | 16/7/2023 | Bloxy cola | Winx Club | Mew's Bodyguards |
 
 ### Multimodo
 
