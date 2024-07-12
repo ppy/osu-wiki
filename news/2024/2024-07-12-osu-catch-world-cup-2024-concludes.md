@@ -227,7 +227,15 @@ As usual, we interview people in order to get an insight into the going-ons behi
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__user-0x84f" href="https://osu.ppy.sh/users/7944724">0x84f</a></p>
 
-You took over as captain for the USA in 2019 (with the exception of 2020 with [rostld](https://osu.ppy.sh/users/4365562) leading). Since then your team has amassed an impressive run of 3 straight podium performances ('21–'24) leading up to your win this year. Considering this experience, what traits do you think any successful captain must have?
+Secre, you took over as captain for the USA in 2019 (with the exception of 2020 with [rostld](https://osu.ppy.sh/users/4365562) leading). Since then your team has amassed an impressive run of 3 straight podium performances ('21–'24) leading up to your win this year. Considering this experience, what traits do you think any successful captain must have?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2306637" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-Secre.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__user-secre" href="https://osu.ppy.sh/users/2306637">Secre</a></p>
+
+I think the most important traits for any successful captain to have is being able to be both a rock for the team and being able to have full trust in your teamates' abilities. Being able to play almost anything goes a long way in building your team's trust.
+
+On the other hand, being able to recognize when your teamates are performing well and letting them take over the reigns will elevate your team even further. Reinforcing your belief in your teammates is the most important thing you can do as a captain, as it makes everyone feel better about themselves regardless of their performance.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7944724" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-0x84f.jpg')"></a>
 
@@ -235,11 +243,23 @@ You took over as captain for the USA in 2019 (with the exception of 2020 with [r
 
 Did your past past losses affect your mindset and performance in the CWC this year? Was there a mindset shift that was a contributing factor to your victory?
 
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/6926006" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-Dahcreeper.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__user-dahcreeper" href="https://osu.ppy.sh/users/6926006">Dahcreeper</a></p>
+
+Last year I would say the team wasn't as locked in as we needed to be. Half the team didn't put their heart into practice and our picks going into bracket reset were an absolute mess. Losing that match made everyone lock in way more this year and put their all into practice which I think would be the biggest factor in us winning this year.
+
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7944724" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-0x84f.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__user-0x84f" href="https://osu.ppy.sh/users/7944724">0x84f</a></p>
 
 What were the main focus points for the team this year?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2306637" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-Secre.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__user-secre" href="https://osu.ppy.sh/users/2306637">Secre</a></p>
+
+Our only focus this year was winning. Anything apart from a victory probably would have been considered a failure for the team. After getting 2nd 3 times, it starts to become less about the podium and more about the victory. We knew that if we all kept in peak performance and played at our best we could win it this year, and it worked out in the end.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7944724" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-0x84f.jpg')"></a>
 
@@ -247,11 +267,25 @@ What were the main focus points for the team this year?
 
 Did the team have any special celebration after bringing home the osu!catch champion title for the first time ever? Did you as individual members celebrate in any way?
 
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/6926006" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-Dahcreeper.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__user-dahcreeper" href="https://osu.ppy.sh/users/6926006">Dahcreeper</a></p>
+
+We went to the main chat in the USA server that had a massive watch party and talked about the victory for a little bit and got some nice congratulations from everyone. Shortly after that I went out with one of my friends to get a victory dinner and wound up just talking about the match for a bit over some sushi, it was a good time!
+
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7944724" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-0x84f.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__user-0x84f" href="https://osu.ppy.sh/users/7944724">0x84f</a></p>
 
 What does the future hold for the US CWC roster?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2306637" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-Secre.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__user-secre" href="https://osu.ppy.sh/users/2306637">Secre</a></p>
+
+For the future of the USA CWC roster, it's pretty uncertain right now. I think I can say without a doubt that we will not be running back the same 6 man roster that we did this year. I think [Colin](https://osu.ppy.sh/users/5502521), [Trent](https://osu.ppy.sh/users/3438241), and [rostld](https://osu.ppy.sh/users/4365562) are all going to be taking a step back from world cups.
+
+As for myself, [dahcreeper](https://osu.ppy.sh/users/6926006), and [lexii](https://osu.ppy.sh/users/7226149), there's the potential we will keep playing together as long as the others do. It's been a long time for all of us though, and we are really looking for new players to take the reigns. Consider this part of my plea for new USA players to step up to the task!
 
 </div>
 
