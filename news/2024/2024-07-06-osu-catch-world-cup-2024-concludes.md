@@ -230,7 +230,7 @@ If you haven't done so already, please go give them a listen, because among the 
             An advisor role, is one that manages the mappool for a world cup and all of its components. This includes the following
         </p>
         <ul class="osu-md__list">
-            <li class="osu-md__list-item">Requesting what osu original artists we would want</li>
+            <li class="osu-md__list-item">Requesting what artists we would like to featured music from</li>
             <li class="osu-md__list-item">Working with mappool selectors to create the mappool</li>
             <li class="osu-md__list-item">Designing the systems (spreadsheets and signups) that mappers will be using</li>
             <li class="osu-md__list-item">Modding the maps that mappers create</li>
@@ -279,10 +279,10 @@ If you haven't done so already, please go give them a listen, because among the 
         <ul class="osu-md__list">
             <li class="osu-md__list-item">We write a list of artists based on desired genre and focus on having a wide spread of diverse songs</li>
             <li class="osu-md__list-item">mangomizer reaches out to artists over the course of several weeks</li>
-            <li class="osu-md__list-item">When artists respond, we send some specifications and suggestions, though the artist has full agency over the song</li>
-            <li class="osu-md__list-item">A Discord channel is created where artists can send works in progress, where organisers and you advisors can send feedback</li>
-            <li class="osu-md__list-item">Production goes on for months until the due date, which is around when the song is expected to be showcased </li>
-            <li class="osu-md__list-item">While the production process is underway, we start thinking of potential rounds and slots to place the map in, once we hear enough of the song.</li>
+            <li class="osu-md__list-item">When artists respond, we send some specifications and suggestions, and generally we are quite happy for artists to take it away from there</li>
+            <li class="osu-md__list-item">A Discord thread is created where artists can send works in progress, where organisers and advisors can send feedback</li>
+            <li class="osu-md__list-item">Production (including work by designers after the song is done) goes on for months until the due date, which is around when the song is expected to be showcased</li>
+            <li class="osu-md__list-item">While the production process is underway, we start thinking of potential rounds and slots to place the map in, once we hear enough of the song</li>
         </ul>
         <p class="osu-md__paragraph">
             We typically aim for a relatively even spread of originals across all rounds, slightly leaning towards the mid-to-lategame rounds - this is done in an attempt to reward players for reaching so far in the tournament bracket, while also trying to maximize the amount of teams who get to play the map in the tournament.
