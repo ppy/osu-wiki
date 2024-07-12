@@ -172,11 +172,11 @@ If you haven't done so already, please go give them a listen, because among the 
         width: 40px;
         height: 40px;
         border-radius: 50%;
-        margin-left: -55px;
+        margin-left: -50px;
     }
 
     .news-chat-quote__text-container {
-        margin-left: 55px;
+        margin-left: 50px;
     }
 
     .news-chat-quote__username {
