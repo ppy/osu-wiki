@@ -42,7 +42,6 @@ So, let's get right to reading!
     }
 </style>
 
-
 ![](/wiki/shared/news/2024-07-15-the-followpoint-whitecat-the-cat-who-dominated-osu/whiteCat.png)
 
 <div class="news-chat-quote__text-container">
