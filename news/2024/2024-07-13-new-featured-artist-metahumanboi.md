@@ -38,7 +38,7 @@ We're done with 4K and 7K. Try [this 5K map](https://osu.ppy.sh/beatmapsets/2171
 
 ### MetaHumanBoi - Speed Bomb
 
-Apparently [osu!taiko maps can reach 9.5 stars](https://osu.ppy.sh/beatmapsets/2005930) (that's a discovery made by [youtune3](https://osu.ppy.sh/users/6442010)!)
+Apparently [osu!taiko maps can reach 9.5 stars](https://osu.ppy.sh/beatmapsets/2005930). (That's a discovery made by [youtune3](https://osu.ppy.sh/users/6442010)!)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/430/Songs/MetaHumanBoi%20-%20Speed%20Bomb.mp3">
