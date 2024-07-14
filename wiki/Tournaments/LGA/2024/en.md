@@ -56,6 +56,7 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/45)
 
 ## Participants
+
 |  | Country | Username |
 | :-: | :-: | :-- |
 | ::{ flag_RS }:: | **Serbia** | [-Petar](https://osu.ppy.sh/users/9106690) |
@@ -375,4 +376,3 @@ The exact formula that will be used for all players (and for each map) is `Final
 [^potential-match]: Potential match — final matchup depends on the results of the preceding matches
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two players have the same MAX% sum
-
