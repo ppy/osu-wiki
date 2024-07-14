@@ -5,11 +5,11 @@ date: 2024-07-14 23:00:00 +0000
 series: The Followpoint
 ---
 
-Dive into an interview with WhiteCat, a legendary *cat* and an osu! player!
+Dive into an interview with [WhiteCat](https://osu.ppy.sh/users/4504101), a legendary *cat* and an osu! player!
 
 ![](/wiki/shared/news/2024-07-15-the-followpoint-whitecat-the-cat-who-dominated-osu/banner.jpg)
 
-Hey, did you hear that? That's the sound of a new interview! Today we are joined by WhiteCat, a top player who many remember as someone who was dominating the scene before mrekk's rise as a former rank #1 player!
+Hey, did you hear that? That's the sound of a new interview! Today we are joined by WhiteCat, a top player who many remember as someone who was dominating the scene, before [mrekk](https://osu.ppy.sh/users/7562902)'s rise, as a former rank #1 player!
 
 So, let's get right to reading!
 
