@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Followpoint: WhiteCat, the cat who dominated osu!"
+title: "The Followpoint: WhiteCat, the Cat Who Dominated osu!"
 date: 2024-07-14 23:00:00 +0000
 series: The Followpoint
 ---
