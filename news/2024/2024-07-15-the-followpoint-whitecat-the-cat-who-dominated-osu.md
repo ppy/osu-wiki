@@ -98,18 +98,6 @@ I think there are numerous benefits to the going to the gym. I think this applie
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
-What was the most memorable moment for you in your osu! career?
-
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4504101" style="background-image: url('/wiki/shared/news/2024-07-15-the-followpoint-whitecat-the-cat-who-dominated-osu/avatar-WhiteCat.jpg')"></a>
-
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4504101">WhiteCat</a></p>
-
-Most definitely the unban (WAS?)
-
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-07-15-the-followpoint-whitecat-the-cat-who-dominated-osu/avatar-MegaMix.jpg')"></a>
-
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
-
 What would you say is the greatest gift that osu! has given you?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4504101" style="background-image: url('/wiki/shared/news/2024-07-15-the-followpoint-whitecat-the-cat-who-dominated-osu/avatar-WhiteCat.jpg')"></a>
@@ -117,18 +105,6 @@ What would you say is the greatest gift that osu! has given you?
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4504101">WhiteCat</a></p>
 
 Probably the witchhunters. Taught me not to care and just pursue my own thing. Especially afterwards, it's interesting how life can present you something seemingly negative, just for it to turn out a stepping stone to something greater.
-
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-07-15-the-followpoint-whitecat-the-cat-who-dominated-osu/avatar-MegaMix.jpg')"></a>
-
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
-
-What kept you playing before getting unrestricted? What was the source of your motivation?
-
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4504101" style="background-image: url('/wiki/shared/news/2024-07-15-the-followpoint-whitecat-the-cat-who-dominated-osu/avatar-WhiteCat.jpg')"></a>
-
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4504101">WhiteCat</a></p>
-
-I seriously enjoyed playing the game back in the day, which together with friendly competition was probably the biggest factor for my fast improvement. Still, I didnt play a lot during this time because I was lacking motivation, and also took quite a few breaks the game.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-07-15-the-followpoint-whitecat-the-cat-who-dominated-osu/avatar-MegaMix.jpg')"></a>
 
