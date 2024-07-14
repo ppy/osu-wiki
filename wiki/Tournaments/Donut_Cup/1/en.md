@@ -674,7 +674,7 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 
 ## Notes
 
-[^hr3-note]: ::{ flag=US }:: [hr3](https://osu.ppy.sh/users/11962818) was brought in as a replayer after his team's elimination from the tournament.
+[^hr3-note]: ::{ flag=US }:: [hr3](https://osu.ppy.sh/users/11962818) was brought in as a replayer after their team's elimination from the tournament.
 [^stage-note-1]: Also referred to as the "Friend" stage throughout the tournament.
 [^stage-note-2]: Also referred to as the "Girlfriend" stage throughout the tournament.
 [^qual-note-1]: Average score across all ten Qualifier beatmaps: Square Hector Berlioz 1,655,815, Oregono State University 1,624,806.
