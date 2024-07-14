@@ -66,7 +66,7 @@ IDOLS was run by various osu! community members at UCI or visiting for the event
 | Position | Member(s) |
 | :-- | :-- |
 | Referee | ::{ flag=US }:: [chmpchmp](https://osu.ppy.sh/users/7838099), ::{ flag=US }:: [Drowzy-](https://osu.ppy.sh/users/10970649), ::{ flag=US }:: [Yes1Yes1](https://osu.ppy.sh/users/12430265), ::{ flag=US }:: [blocta](https://osu.ppy.sh/users/31368411), ::{ flag=US }:: [freddiiieeee](https://osu.ppy.sh/users/7112839), ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350), ::{ flag=US }:: [PorkIsGreat](https://osu.ppy.sh/users/10756322), ::{ flag=US }:: [Science](https://osu.ppy.sh/users/5535233), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016) |
-| osu! mappooler | ::{ flag=US }:: [freddiiieeee](https://osu.ppy.sh/users/7112839), ::{ flag=US }:: [chmpchmp](https://osu.ppy.sh/users/7838099) |
+| osu! mappooler | ::{ flag=US }:: [freddiiieeee](https://osu.ppy.sh/users/7112839) |
 | osu!mania mappooler | ::{ flag=US }:: [blocta](https://osu.ppy.sh/users/31368411), ::{ flag=US }:: [PorkIsGreat](https://osu.ppy.sh/users/10756322) |
 | Commentator | ::{ flag=US }:: [freddiiieeee](https://osu.ppy.sh/users/7112839), ::{ flag=US }:: [Kahli](https://osu.ppy.sh/users/8926244), ::{ flag=US }:: [PorkIsGreat](https://osu.ppy.sh/users/10756322), ::{ flag=US }:: [Caboozled\_Pie](https://osu.ppy.sh/users/17652842) |
 | Graphic designer | ::{ flag=XX }:: APOLLY ([Twitter](https://twitter.com/ApollyonicWorks)) |
