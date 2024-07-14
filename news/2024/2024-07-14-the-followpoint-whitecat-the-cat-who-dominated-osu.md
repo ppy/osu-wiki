@@ -198,7 +198,7 @@ What is your favorite score that you’ve ever set and which score would be your
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4504101">WhiteCat</a></p>
 
-It is tough to choose one, yet my all time favorite might just be revolutionary etude, just because I could have never fathomed.
+It is tough to choose one, yet my all time favorite might just be [revolutionary etude](https://osu.ppy.sh/beatmapsets/539300#osu/1142884), just because I could have never fathomed.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-07-15-the-followpoint-whitecat-the-cat-who-dominated-osu/avatar-MegaMix.jpg')"></a>
 
@@ -210,7 +210,7 @@ Who would you want to meet IRL the most if you could meet any osu! player?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4504101">WhiteCat</a></p>
 
-Vaxei, always been pleasant to chat with and turns out we share quite a few interests.
+[Vaxei](https://osu.ppy.sh/users/4787150), always been pleasant to chat with and turns out we share quite a few interests.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-07-15-the-followpoint-whitecat-the-cat-who-dominated-osu/avatar-MegaMix.jpg')"></a>
 
