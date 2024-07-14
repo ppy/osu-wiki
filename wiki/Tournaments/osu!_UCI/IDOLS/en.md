@@ -82,7 +82,11 @@ IDOLS was run by various osu! community members at UCI or visiting for the event
 
 ## Participants
 
-<!-- TODO photos -->
+![Photo of the event's attendees](img/photo-end.jpg "Attendees of IDOLS after the tournaments concluded")
+
+![Photo of the osu!mania players](img/photo-mania.jpg "osu!mania tournament participants earlier in the day")
+
+![Photo of people pointing toward a player's monitor](img/photo-pointing.jpg "\"When you see it.\"")
 
 ### osu!
 
