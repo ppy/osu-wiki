@@ -42,8 +42,6 @@ So, let's get right to reading!
     }
 </style>
 
-![](/wiki/shared/news/2024-07-15-the-followpoint-whitecat-the-cat-who-dominated-osu/whiteCat.png)
-
 <div class="news-chat-quote__text-container">
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-07-15-the-followpoint-whitecat-the-cat-who-dominated-osu/avatar-MegaMix.jpg')"></a>
