@@ -57,7 +57,7 @@ Prizes were/will be awarded to both osu! and osu!mania winners.
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Sanrio keychain |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Sanrio keychain |
 
-![](img/badge.png "IDOLS winner badge")
+![](img/badge.png "IDOLS winner badge (pending approval)")
 
 ## Organisation
 
