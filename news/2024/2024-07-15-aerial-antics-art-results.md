@@ -92,7 +92,7 @@ Following her trip well and beyond the stratosphere at this point, this certainl
 
 ### peppy's Picks
 
-With the staggering amount of mindblowing entries this time, many of you thought that 15 finalists were simply not enough, and luckily for everyone, peppy agrees! For he who hath decided to cast his almighy power of The Pick™, by which blessed us with an additional **20** main menu backgrounds for all our viewing pleasure!
+With the staggering amount of mindblowing entries this time, many of you thought that 15 finalists were simply not enough, and luckily for everyone, peppy agrees! For he who holds it hath decided to cast his almighty power of The Pick™, and by which blessed us with an additional **20** main menu backgrounds for all our viewing pleasure!
 
 [![](https://assets.ppy.sh/contests/215/banners/IVFX.jpg)](https://assets.ppy.sh/contests/215/winners/IVFX.png)
 
