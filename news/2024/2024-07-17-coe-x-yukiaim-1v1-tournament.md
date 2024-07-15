@@ -8,7 +8,7 @@ It has never been a better time to showcase your osu skills on LAN than the annu
 
 ![](/wiki/shared/news/2024-07-17-coe-x-yukiaim-1v1-tournament/banner.jpg)
 
-If you are somehow not familiar COE, or it's 1v1 tournament, [COE](/wiki/Community/cavoe%27s_osu%21_event) is osu!'s largest community-hosted event, hosted by [Meyer](https://osu.ppy.sh/users/5452367) and [cavoeboy](https://osu.ppy.sh/users/7361815) from July 30th up until August 4th. Along with the event itself, for the 3rd year in a row the largest LAN tournament of the year will be held there as well, with hundreds of live viewers and even more online on [Twitch](https://www.twitch.tv/COEvent)!
+If you are somehow not familiar with COE, or it's 1v1 tournament, [COE](/wiki/Community/cavoe's_osu!_event) is osu!'s largest community-hosted event, hosted by [Meyer](https://osu.ppy.sh/users/5452367) and [cavoeboy](https://osu.ppy.sh/users/7361815) from July 30th up until August 4th. Along with the event itself, for the 3rd year in a row the largest LAN tournament of the year will be held there as well, with hundreds of live viewers and even more online on [Twitch](https://www.twitch.tv/COEvent)!
 
 This is a unique experience either as a viewer or a player, and tickets for the event are still [available for purchase](https://cavoeboy.com/tickets/ticket-type) if you wish to attend. If you are unsure of whether you want to attend COE and watch the tournament in-person, or be the one competing on the main stage, here is a small glimpse of the atmosphere and the community:
 
@@ -31,7 +31,7 @@ The registrations for the tournament are live now! As per usual, the COE 1v1 LAN
 
 ### Prizes
 
-The total prize pool of &euro;3000 will be divided among the top 3 players, along with physical prizes also being handed out.
+The total prize pool of €3000 will be divided among the top 3 players, along with physical prizes also being handed out.
 
 ### Other activities at COE
 
