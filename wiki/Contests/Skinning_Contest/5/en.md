@@ -18,7 +18,7 @@ The **Skinning Contest #5: Unchained** is a free-for-all osu! skinning contest h
 | Announcement | 2024-04-09 |
 | Submission phase | 2024-04-09/2024-05-24 |
 | Voting phase | 2024-06-23/2024-07-07 |
-| Results | *TBD* |
+| Results | 2024-07-19 |
 
 ## Prizes
 
@@ -47,6 +47,7 @@ The Skinning Contest #4 is run by various community members.
 - **[Contest page](https://osu.ppy.sh/community/contests/208)**
 - [Announcement news post](https://osu.ppy.sh/home/news/2024-04-09-skinning-contest-unchained)
 - [Voting news post](https://osu.ppy.sh/home/news/2024-06-23-skinning-contest-unchained-voting)
+- [Results news post](https://osu.ppy.sh/home/news/2024-07-19-skinning-contest-unchained-results)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1906590)
 - [Submission thread](https://osu.ppy.sh/community/forums/topics/1906588)
 - [Discord server](https://discord.skinship.xyz)
@@ -63,7 +64,7 @@ The Skinning Contest #4 is run by various community members.
 | ::{ flag=RU }:: [xTerrion](https://osu.ppy.sh/users/15679478) | [TECH](https://osu.ppy.sh/community/forums/topics/1923252) |
 | ::{ flag=TH }:: [atturbo555](https://osu.ppy.sh/users/5730417) | [Cherry Corolla](https://osu.ppy.sh/community/forums/topics/1912102) |
 | ::{ flag=RU }:: [TogiraW](https://osu.ppy.sh/users/20149300) | [Bullet Hell Monday Finale [弾幕月曜日終章]](https://osu.ppy.sh/community/forums/topics/1918059) |
-| ::{ flag=CN }:: [Citrusis](https://osu.ppy.sh/users/30298378) | [Rainbow⁵¹⁴](https://osu.ppy.sh/community/forums/topics/1919980) |
+| ::{ flag=CN }:: [Citrusis](https://osu.ppy.sh/users/30298378) | [Rainbow<sup>5</sup><sup>1</sup><sup>4</sup>](https://osu.ppy.sh/community/forums/topics/1919980) |
 | ::{ flag=MX }:: [ZixStar](https://osu.ppy.sh/users/11844975) | [StickMania](https://osu.ppy.sh/community/forums/topics/1920401) |
 | ::{ flag=US }:: [Miorine](https://osu.ppy.sh/users/12630408) | [Phosphor](https://osu.ppy.sh/community/forums/topics/1920571) |
 | ::{ flag=TW }:: [fred9909](https://osu.ppy.sh/users/502239) | [Murasaki Purple](https://osu.ppy.sh/community/forums/topics/1923479) |
@@ -83,6 +84,12 @@ The Skinning Contest #4 is run by various community members.
 | ::{ flag=DE }:: [janmagtoast](https://osu.ppy.sh/users/16849319) | [osu!checkmate](https://osu.ppy.sh/community/forums/topics/1926184) |
 | ::{ flag=US }:: [Icysandwich](https://osu.ppy.sh/users/10961544) | [Apple Camp](https://osu.ppy.sh/community/forums/topics/1926191) |
 | ::{ flag=US }:: [Syvatzia](https://osu.ppy.sh/users/19082107) | [Reflections Unchained](https://osu.ppy.sh/community/forums/topics/1926206) |
+
+## Podium
+
+*For the full results, see the [contest page](https://osu.ppy.sh/community/contests/208).*
+
+![](/wiki/Contests/Skinning_Contest/5/img/podium.jpg "Skinning Contest #5 podium")
 
 ## Ruleset
 
