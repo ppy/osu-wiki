@@ -29,6 +29,10 @@ Community-run tournaments which abide by the following hard criteria are eligibl
 - The tournament series must run no more than two times per year.
 - The tournament must operate on a Round of 16 double-elimination format at a minimum.
   - Larger formats, such as group stages and Swiss brackets, may also be used so long as they start with at least 16 teams and, if applicable and if starting with only 16 teams, break to a double-elimination bracket afterwards.
+  - Tournaments that feature a draft format may operate on a Round of 8 double-elimination bracket provided the tournament meets the following additional criteria:
+    - The tournament is open rank.
+    - The team size is 8 or more.
+    - Note: In tournaments with multiple divisions, this rule applies to only one open-rank division.
   - Alternative scales and formats may be permitted at the sole discretion of the tournament committee. Hosts should contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh) if they are seeking to receive tournament support for a non-traditional tournament format or size.
 - The forum threads associated with the tournament — this includes forum threads for any preliminary events — **MUST** contain a clearly visible link in a normal-sized font to the [tournament reports form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
   - `https://pif.ephemeral.ink/tournament-reports`
