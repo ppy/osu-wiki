@@ -4,11 +4,11 @@ title: "Skinning Contest: Unchained - Results"
 date: 2024-07-19 12:00:00 +0000
 ---
 
-The time for voting is up, it's time to put the creativity genie back in the box and check out the voting results.
+The voting has concluded, and it's time to put the creativity genie back in the box and check out the voting results.
 
 ![](/wiki/shared/news/2024-07-19-skinning-contest-unchained-results/Results_Out-Newspost.jpg)
 
-The voting ballot box has been chained up, and the results have been tallied up. This edition of the skinning contests has seen **1,839** community members cast a total of **4,637** votes across **28** different entries. It's time to dive in head first, see which entries topped the charts, and most importantly which one secured themselves the #1 spot.
+The ballot box has been chained up, and the results have been tallied up. This edition of the skinning contest has seen **1,839** community members cast a total of **4,637** votes across **28** different entries. It's time to dive in head first, see which entries topped the charts, and most importantly which one secured themselves the #1 spot.
 
 ### 3rd Place - ROSULA
 
@@ -38,7 +38,7 @@ Gacha gamers recognized thetasigma's efforts and gave them good RNG, which they 
 
 [Miorine](https://osu.ppy.sh/users/12630408) has strayed away from the usual anime girl themes, and focused themselves on the topic of nostalgia for their contest entry. After barely losing out 1st place during last year's [Skin of the Year](https://osu.ppy.sh/home/news/2024-02-05-skin-of-the-year-2023-results) contest, they have once again returned with more of a 80s style skin, throwing all of us back to the times of CRT's, floppy disks and beige-painted plastics wherever you look.
 
-Players might even find themselves more immersed into theme in gameplay rather than the song selection screen, with a unique take on the playable border that's completely skinned out to look like you are actually playing on a CRT. We'd also like to shout out the unique play area of mania as well, as it's been completely reskinned to look like a never-ending punch card.
+Players might even find themselves more immersed into the theme in gameplay rather than the song selection screen, with a unique take on the playable border that's completely skinned out to look like you are actually playing on a CRT. We'd also like to shout out the unique play area of mania as well, as it's been completely reskinned to look like a never-ending punch card.
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/sw1nhClFPLg" frameborder="0" allowfullscreen></iframe>
