@@ -180,7 +180,7 @@ Mocha's pouting stare seems to go by unnoticed while pippi is ahead in the race.
 
 You may have heard that the top 3 entries will be featured as limited-time default profile banners. Not only that, we're also introducing a refresh of the default profile covers!
 
-Alongside the 3 slots that will be occupied by every top 3 fanart contest entry moving forward, there's now a colourful selection of **12** new default profile banners (except a few old ones that have been carried over), showcasing a few familiar art styles from different eras of osu!
+Alongside the 3 slots that will be occupied by every top 3 fanart contest entry moving forward, there's now a colourful selection of **14** new default profile banners (except a few old ones that have been carried over), showcasing a few familiar art styles from different eras of osu!
 
 ![](/wiki/shared/news/2024-07-15-aerial-antics-art-results/covers.jpg)
 
