@@ -8,7 +8,7 @@
 
 ![COE logo](img/logo.png)
 
-[Website](https://cavoeboy.com/) • [Twitter](https://twitter.com/CavoesOsuEvent) • [YouTube](https://www.youtube.com/@coevent) • [Twitch](https://www.twitch.tv/coevent) • [Discord](https://discord.com/invite/d6ru6PVcSY)
+[Website](https://cavoeboy.com/) * [Twitter](https://twitter.com/CavoesOsuEvent) * [YouTube](https://www.youtube.com/@coevent) * [Twitch](https://www.twitch.tv/coevent) * [Discord](https://discord.com/invite/d6ru6PVcSY)
 
 :::
 
@@ -21,6 +21,7 @@
 - COE 2019
 - COE 2022
 - [COE 2023](2023)
+- [COE 2024](2024)
 
 ## Links
 

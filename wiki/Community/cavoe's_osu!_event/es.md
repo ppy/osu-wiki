@@ -8,7 +8,7 @@
 
 ![Logo de COE](img/logo.png)
 
-[Sitio web](https://cavoeboy.com/) • [Twitter](https://twitter.com/CavoesOsuEvent) • [YouTube](https://www.youtube.com/@coevent) • [Twitch](https://www.twitch.tv/coevent) • [Discord](https://discord.com/invite/d6ru6PVcSY)
+[Sitio web](https://cavoeboy.com/) * [Twitter](https://twitter.com/CavoesOsuEvent) * [YouTube](https://www.youtube.com/@coevent) * [Twitch](https://www.twitch.tv/coevent) * [Discord](https://discord.com/invite/d6ru6PVcSY)
 
 :::
 
@@ -21,6 +21,7 @@ El **cavoe's osu! event** (***COE***) es una convención anual de osu! organizad
 - COE 2019
 - COE 2022
 - [COE 2023](2023)
+- [COE 2024](2024)
 
 ## Enlaces
 
