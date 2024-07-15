@@ -345,7 +345,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals[^stage-note-2]
 
-Detailed statistics for this round in [the following spreadsheet](https://docs.google.com/spreadsheets/d/1q6CsZ5b3WHUTXUXfCpVdsJxgTDvz_Q2hRPdDbswgJFQ/edit).
+Detailed statistics for this round in [this spreadsheet](https://docs.google.com/spreadsheets/d/1q6CsZ5b3WHUTXUXfCpVdsJxgTDvz_Q2hRPdDbswgJFQ/edit).
 
 Friday, 12 July 2024:
 
@@ -358,11 +358,11 @@ Sunday, 14 July 2024, Grand Final:
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Grand Final | YOSHIMOBIL | 6 | **7** | **crying right now** | [#1](https://osu.ppy.sh/community/matches/114669424) |
-| Grand Final (Bracket reset) | **crying right now** | **7** | 3 | YOSHIMOBIL | [#1](https://osu.ppy.sh/community/matches/114670678) |
+| Grand Final (bracket reset) | **crying right now** | **7** | 3 | YOSHIMOBIL | [#1](https://osu.ppy.sh/community/matches/114670678) |
 
 ### Finals[^stage-note-1]
 
-Detailed statistics for this round in [the following spreadsheet](https://docs.google.com/spreadsheets/d/1ryloSFoN2jOLlYQP9HH5IY5yyhDid9ppPaD3JZ0gWGI/edit?gid=1237373495#gid=1237373495).
+Detailed statistics for this round in [this spreadsheet](https://docs.google.com/spreadsheets/d/1ryloSFoN2jOLlYQP9HH5IY5yyhDid9ppPaD3JZ0gWGI/edit?gid=1237373495#gid=1237373495).
 
 Saturday, 6 July 2024:
 
@@ -380,7 +380,7 @@ Sunday, 7 July 2024:
 
 ### Semifinals
 
-Detailed statistics for this round in [the following spreadsheet](https://docs.google.com/spreadsheets/d/1lmZEZ5WxtXXi3F-cHqmo5wmc0LbbsJVKl7RY0y9HbRs/edit).
+Detailed statistics for this round in [this spreadsheet](https://docs.google.com/spreadsheets/d/1lmZEZ5WxtXXi3F-cHqmo5wmc0LbbsJVKl7RY0y9HbRs/edit).
 
 Friday, 28 June 2024:
 
@@ -407,7 +407,7 @@ Sunday, 30 June 2024:
 
 ### Quarterfinals
 
-Detailed statistics for this round in [the following spreadsheet](https://docs.google.com/spreadsheets/d/1wzJ_7ElO5HUS4dabqdgew8KBVf73teBZ3bUjjHFy14g/edit?usp=sharing).
+Detailed statistics for this round in [this spreadsheet](https://docs.google.com/spreadsheets/d/1wzJ_7ElO5HUS4dabqdgew8KBVf73teBZ3bUjjHFy14g/edit?usp=sharing).
 
 Saturday, 22 June 2024:
 
@@ -437,7 +437,7 @@ Sunday, 23 June 2024:
 
 ### Round of 16
 
-Detailed statistics for this round in [the following spreadsheet](https://docs.google.com/spreadsheets/d/1Akpbk4pf7DSJ9U5k4H1fAxfE7fXg5hY2JTNYSsp8GSI/edit).
+Detailed statistics for this round in [this spreadsheet](https://docs.google.com/spreadsheets/d/1Akpbk4pf7DSJ9U5k4H1fAxfE7fXg5hY2JTNYSsp8GSI/edit).
 
 Friday, 14 June 2024:
 
@@ -471,7 +471,7 @@ Sunday, 16 June 2024:
 
 ### Round of 32
 
-Detailed statistics for this round in [the following spreadsheet](https://docs.google.com/spreadsheets/d/1S-GSpDaCQiITVn0GrU8ygHDmA7YOr8aeIqh-X5xbgDI/edit?gid=1237373495#gid=1237373495).
+Detailed statistics for this round in [this spreadsheet](https://docs.google.com/spreadsheets/d/1S-GSpDaCQiITVn0GrU8ygHDmA7YOr8aeIqh-X5xbgDI/edit?gid=1237373495#gid=1237373495).
 
 Friday, June 7 2024:
 
@@ -506,7 +506,7 @@ Sunday, 9 June 2024:
 
 ### Qualifiers
 
-Detailed information on the standings of the Qualifier stage can be found in [the following spreadsheet](https://docs.google.com/spreadsheets/d/1lNW2V9w0c5-CmmlHpXKMJ7cpGd2A4skHFqIU2D9Ukgk/edit?usp=sharing).
+Detailed information on the standings of the Qualifier stage can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1lNW2V9w0c5-CmmlHpXKMJ7cpGd2A4skHFqIU2D9Ukgk/edit?usp=sharing).
 
 | Seed | Team name | Avg. rank |
 | :-: | :-- | --: |
