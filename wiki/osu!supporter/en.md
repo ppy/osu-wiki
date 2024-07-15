@@ -64,7 +64,7 @@ Akin to profile covers, supporters can alter the colour of their profile:
 - Press the pencil icon in the lower right corner of the profile cover.
 - Adjusting the profile colour alters the colour of almost everything, including the banner, buttons, links, and text.
 
-Once osu!supporter expires, the colour customizations will remain, but may only be changed back to default and cannot be customized any further.
+Once osu!supporter expires, the colour customisations will remain, but may only be changed back to default and cannot be customised any further.
 
 ### One free username change
 
