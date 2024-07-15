@@ -70,8 +70,8 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 | 3 | ::{ flag=TW }:: [Shimoe Koharu](https://osu.ppy.sh/users/2145160) | 8.30 |
 | 4 | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | 9.40 |
 | 5 | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) | 9.50 |
-| 6 | ::{ flag=KR }:: [OYG](https://osu.ppy.sh/users/7547506) | 9.90 |
-| 7 | ::{ flag=TW }:: [Happiness Fish](https://osu.ppy.sh/users/4586766) | 10.00 |
+| 6 | ::{ flag=KR }:: [OYG](https://osu.ppy.sh/users/7547506) | 9.80 |
+| 7 | ::{ flag=TW }:: [Happiness Fish](https://osu.ppy.sh/users/4586766) | 9.90 |
 | 8 | ::{ flag=TW }:: [DoDoEbi](https://osu.ppy.sh/users/1177233) | 10.20 |
 | 9 | ::{ flag=KR }:: [\[Amazing\]](https://osu.ppy.sh/users/1391036) | 11.00 |
 | 10 | ::{ flag=ID }:: [Taskmaster](https://osu.ppy.sh/users/3027065) | 13.00 |
@@ -84,19 +84,19 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 | 17 | ::{ flag=AU }:: [TheTixTop](https://osu.ppy.sh/users/19236870) | 19.90 |
 | 18 | ::{ flag=RU }:: [Rakety](https://osu.ppy.sh/users/11109479) | 21.20 |
 | 19 | ::{ flag=ID }:: [Serestia](https://osu.ppy.sh/users/30511396) | 22.10 |
-| 20 | ::{ flag=TW }:: [Oktavia](https://osu.ppy.sh/users/1952803) | 22.50 |
+| 20 | ::{ flag=TW }:: [Oktavia](https://osu.ppy.sh/users/1952803) | 22.40 |
 | 21 | ::{ flag=AU }:: [KWYJIBO](https://osu.ppy.sh/users/7178386) | 23.80 |
 | 22 | ::{ flag=HK }:: [my angel auto](https://osu.ppy.sh/users/29503627) | 24.40 |
 | 23 | ::{ flag=SA }:: [WOAH0](https://osu.ppy.sh/users/18336339) | 25.00 |
 | 24 | ::{ flag=RU }:: [Nerris](https://osu.ppy.sh/users/11202866) | 25.50 |
 | 25 | ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422) | 26.40 |
-| 26 | ::{ flag=TR }:: [lorem ipsum](https://osu.ppy.sh/users/17130789) | 27.40 |
+| 26 | ::{ flag=TR }:: [lorem ipsum](https://osu.ppy.sh/users/17130789) | 27.20 |
 | 27 | ::{ flag=TW }:: [Flyer](https://osu.ppy.sh/users/9767342) | 28.70 |
 | 28 | ::{ flag=TW }:: [Psc\_IceRain](https://osu.ppy.sh/users/3359485) | 29.00 |
-| 29 | ::{ flag=TW }:: [\_Tsukiko](https://osu.ppy.sh/users/4787989) | 29.40 |
-| 30 | ::{ flag=TW }:: [Nazrin on osu](https://osu.ppy.sh/users/2512267) | 29.70 |
+| 29 | ::{ flag=TW }:: [\_Tsukiko](https://osu.ppy.sh/users/4787989) | 29.30 |
+| 30 | ::{ flag=TW }:: [Nazrin on osu](https://osu.ppy.sh/users/2512267) | 29.60 |
 | 31 | ::{ flag=TW }:: [\_Nanami](https://osu.ppy.sh/users/1929450) | 31.30 |
-| 32 | ::{ flag=AU }:: [pandaBear](https://osu.ppy.sh/users/107553) | 31.50 |
+| 32 | ::{ flag=AU }:: [pandaBear](https://osu.ppy.sh/users/107553) | 31.40 |
 
 ## Mappools
 
@@ -158,7 +158,7 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 4. Players **are not allowed** to join (or register for) more than one Qualifier lobby.
 5. Based on their performance in the Qualifier, players will be ranked based on their their average rank combined from each individual Qualifier beatmap.
 6. 32 players with the **highest average rank** according to the above criteria will advance to the knock-out stages.
-   - If there are two (or more) teams that share the same average rank, the teams will be ordered based on their average score across all eight Qualifier beatmaps.
+   - If there are two (or more) teams that share the same average rank, the teams will be ordered based on their average score across all ten Qualifier beatmaps.
 7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
 #### Knock-out stage rules
