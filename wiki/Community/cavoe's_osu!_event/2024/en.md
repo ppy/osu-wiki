@@ -32,7 +32,7 @@ tags:
 | Bubbleman's PP Farming Race | 2024-08-02 (21:30–23:30) |
 | COE x Yuki Aim 1v1 Tournament SF | 2024-08-03 (12:30–15:00) |
 | COE x Yuki Aim 1v1 Tournament Showmatches | 2024-08-03 (15:30–16:30) |
-| COE x Yuki Aim 1v1 Tournament Match for Place 3 | 2024-08-03 (17:30–18:30) |
+| COE x Yuki Aim 1v1 Tournament Match Finals | 2024-08-03 (17:30–18:30) |
 | COE x Yuki Aim 1v1 Tournament Grand Final | 2024-08-03 (20:00–21:30) |
 | Nyanaro's Mindblock | 2024-08-04 (12:30–13:30) |
 | Bubbleman's Guess the Rank | 2024-08-04 (14:30–15:00) |

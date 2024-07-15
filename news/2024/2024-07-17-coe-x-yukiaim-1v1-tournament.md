@@ -13,21 +13,21 @@ If you are somehow not familiar with COE, or it's 1v1 tournament, [COE](/wiki/Co
 This is a unique experience either as a viewer or a player, and tickets for the event are still [available for purchase](https://cavoeboy.com/tickets/ticket-type) if you wish to attend. If you are unsure of whether you want to attend COE and watch the tournament in-person, or be the one competing on the main stage, here is a small glimpse of the atmosphere and the community:
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/X6S5LuYHywk" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/qhfcdbbXmM8" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
 The registrations for the tournament are live now! As per usual, the COE 1v1 LAN tournament will have 16 best players from the online qualifiers duel it out over the course of 3 days in a single elimination bracket, with all matches being played on the new [osu!(lazer)](/wiki/Client/Release_stream/Lazer) client.
 
 ### Tournament schedule
 
-| Event | Timestamp (UTC) |
+| Event | Timestamp (UTC+2) |
 | --: | :-- |
-| Round of 16 | 2024-08-01 (09:00–21:00) |
-| Quarterfinals | 2024-08-02 (11:30–18:00) |
-| Semifinals | 2024-08-03 (10:30–13:00) |
-| Showmatches | 2024-08-03 (13:30–14:30) |
-| Finals | 2024-08-03 (15:30–16:30) |
-| Grand Finals | 2024-08-03 (18:00–19:30) |
+| Round of 16 | 2024-08-01 (11:00–23:00) |
+| Quarterfinals | 2024-08-02 (13:30–20:00) |
+| Semifinals | 2024-08-03 (12:30–15:00) |
+| Showmatches | 2024-08=03 (15:30–16:30) |
+| Finals | 2024-08-03 (17:30–18:30) |
+| Grand Finals | 2024-08-03 (20:00–21:30) |
 
 ### Prizes
 
