@@ -59,38 +59,38 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 
 |  | Country | Username |
 | :-: | :-: | :-- |
-| ::{ flag_RS }:: | **Serbia** | [-Petar](https://osu.ppy.sh/users/9106690) |
-| ::{ flag_NZ }:: | **New Zealand** | [2oomer](https://osu.ppy.sh/users/11141578) |
-| ::{ flag_ES }:: | **Spain** | [A N T O N I O](https://osu.ppy.sh/users/12760743) |
-| ::{ flag_AU }:: | **Australia** | [aknzx](https://osu.ppy.sh/users/9938943) |
-| ::{ flag_FI }:: | **Finland** | [AllyrD](https://osu.ppy.sh/users/9561644) |
-| ::{ flag_KR }:: | **South Korea** | [Amamya Kokoro](https://osu.ppy.sh/users/2511839) |
-| ::{ flag_FI }:: | **Finland** | [Amasetic](https://osu.ppy.sh/users/11375251) |
-| ::{ flag_US }:: | **United States** | [ampy](https://osu.ppy.sh/users/4458239) |
-| ::{ flag_FR }:: | **France** | [Arakii](https://osu.ppy.sh/users/6133101) |
-| ::{ flag_RU }:: | **Russian Federation** | [arqx](https://osu.ppy.sh/users/2569683) |
-| ::{ flag_PH }:: | **Philippines** | [enri](https://osu.ppy.sh/users/8640970) |
-| ::{ flag_KR }:: | **South Korea** | [FlyingTuna](https://osu.ppy.sh/users/9224078) |
-| ::{ flag_NO }:: | **Norway** | [Hundur](https://osu.ppy.sh/users/3145033) |
-| ::{ flag_CL }:: | **Chile** | [Intercambing](https://osu.ppy.sh/users/2546001) |
-| ::{ flag_PL }:: | **Poland** | [Kosiarek](https://osu.ppy.sh/users/9086565) |
-| ::{ flag_BR }:: | **Brazil** | [Kurumiw](https://osu.ppy.sh/users/11415687) |
-| ::{ flag_FI }:: | **Finland** | [Nev-](https://osu.ppy.sh/users/11836334) |
-| ::{ flag_CA }:: | **Canada** | [nick1324](https://osu.ppy.sh/users/612898) |
-| ::{ flag_KR }:: | **South Korea** | [Nopekjk](https://osu.ppy.sh/users/4585186) |
-| ::{ flag_NO }:: | **Norway** | [Pinguinzi](https://osu.ppy.sh/users/9414229) |
-| ::{ flag_GB }:: | **United Kingdom** | [rudj](https://osu.ppy.sh/users/11592896) |
-| ::{ flag_MN }:: | **Mongolia** | [seegii](https://osu.ppy.sh/users/4659319) |
-| ::{ flag_DK }:: | **Denmark** | [Sobu-](https://osu.ppy.sh/users/13872272) |
-| ::{ flag_PL }:: | **Poland** | [Sowisty](https://osu.ppy.sh/users/6808620) |
-| ::{ flag_SG }:: | **Singapore** | [Tebi](https://osu.ppy.sh/users/5407620) |
-| ::{ flag_US }:: | **United States** | [ThisIsGod](https://osu.ppy.sh/users/6736936) |
-| ::{ flag_US }:: | **United States** | [TrickyPugster](https://osu.ppy.sh/users/8082362) |
-| ::{ flag_SE }:: | **Sweden** | [trumpatino69](https://osu.ppy.sh/users/10903510) |
-| ::{ flag_RU }:: | **Russian Federation** | [Welter](https://osu.ppy.sh/users/11552867) |
-| ::{ flag_CA }:: | **Canada** | [xootynator](https://osu.ppy.sh/users/3717598) |
-| ::{ flag_NO }:: | **Norway** | [YokesPai](https://osu.ppy.sh/users/6399568) |
-| ::{ flag_SA }:: | **Saudi Arabia** | [Zesdash](https://osu.ppy.sh/users/5965797) |
+| ::{ flag=RS }:: | **Serbia** | [-Petar](https://osu.ppy.sh/users/9106690) |
+| ::{ flag=NZ }:: | **New Zealand** | [2oomer](https://osu.ppy.sh/users/11141578) |
+| ::{ flag=ES }:: | **Spain** | [A N T O N I O](https://osu.ppy.sh/users/12760743) |
+| ::{ flag=AU }:: | **Australia** | [aknzx](https://osu.ppy.sh/users/9938943) |
+| ::{ flag=FI }:: | **Finland** | [AllyrD](https://osu.ppy.sh/users/9561644) |
+| ::{ flag=KR }:: | **South Korea** | [Amamya Kokoro](https://osu.ppy.sh/users/2511839) |
+| ::{ flag=FI }:: | **Finland** | [Amasetic](https://osu.ppy.sh/users/11375251) |
+| ::{ flag=US }:: | **United States** | [ampy](https://osu.ppy.sh/users/4458239) |
+| ::{ flag=FR }:: | **France** | [Arakii](https://osu.ppy.sh/users/6133101) |
+| ::{ flag=RU }:: | **Russian Federation** | [arqx](https://osu.ppy.sh/users/2569683) |
+| ::{ flag=PH }:: | **Philippines** | [enri](https://osu.ppy.sh/users/8640970) |
+| ::{ flag=KR }:: | **South Korea** | [FlyingTuna](https://osu.ppy.sh/users/9224078) |
+| ::{ flag=NO }:: | **Norway** | [Hundur](https://osu.ppy.sh/users/3145033) |
+| ::{ flag=CL }:: | **Chile** | [Intercambing](https://osu.ppy.sh/users/2546001) |
+| ::{ flag=PL }:: | **Poland** | [Kosiarek](https://osu.ppy.sh/users/9086565) |
+| ::{ flag=BR }:: | **Brazil** | [Kurumiw](https://osu.ppy.sh/users/11415687) |
+| ::{ flag=FI }:: | **Finland** | [Nev-](https://osu.ppy.sh/users/11836334) |
+| ::{ flag=CA }:: | **Canada** | [nick1324](https://osu.ppy.sh/users/612898) |
+| ::{ flag=KR }:: | **South Korea** | [Nopekjk](https://osu.ppy.sh/users/4585186) |
+| ::{ flag=NO }:: | **Norway** | [Pinguinzi](https://osu.ppy.sh/users/9414229) |
+| ::{ flag=GB }:: | **United Kingdom** | [rudj](https://osu.ppy.sh/users/11592896) |
+| ::{ flag=MN }:: | **Mongolia** | [seegii](https://osu.ppy.sh/users/4659319) |
+| ::{ flag=DK }:: | **Denmark** | [Sobu-](https://osu.ppy.sh/users/13872272) |
+| ::{ flag=PL }:: | **Poland** | [Sowisty](https://osu.ppy.sh/users/6808620) |
+| ::{ flag=SG }:: | **Singapore** | [Tebi](https://osu.ppy.sh/users/5407620) |
+| ::{ flag=US }:: | **United States** | [ThisIsGod](https://osu.ppy.sh/users/6736936) |
+| ::{ flag=US }:: | **United States** | [TrickyPugster](https://osu.ppy.sh/users/8082362) |
+| ::{ flag=SE }:: | **Sweden** | [trumpatino69](https://osu.ppy.sh/users/10903510) |
+| ::{ flag=RU }:: | **Russian Federation** | [Welter](https://osu.ppy.sh/users/11552867) |
+| ::{ flag=CA }:: | **Canada** | [xootynator](https://osu.ppy.sh/users/3717598) |
+| ::{ flag=NO }:: | **Norway** | [YokesPai](https://osu.ppy.sh/users/6399568) |
+| ::{ flag=SA }:: | **Saudi Arabia** | [Zesdash](https://osu.ppy.sh/users/5965797) |
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/8475d0c316b1ea7c1cb66ca93902d810).
 
