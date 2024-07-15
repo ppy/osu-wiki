@@ -94,7 +94,7 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/8475d0c316b1ea7c1cb66ca93902d810).
 
-## Match Schedule: Week 1
+## Match schedule: week 1
 
 ### Saturday, 20 July 2024
 
