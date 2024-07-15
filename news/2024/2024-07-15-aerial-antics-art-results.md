@@ -18,7 +18,7 @@ Enough yapping, let's get to the results!
 
 [**RedcXca**](https://osu.ppy.sh/users/14056601)'s winning rendition of Alisa's stratospheric radiance stole the sights of **1745** stargazers, of which the especially attentive also noticed several of the cameos (aside from Miku).
 
-For perhaps the same reason that may have garnered some portion of the eyes on this entry, the full artwork will not be making it to the main menu. However, that doesn't bar [**RedcXca**](https://osu.ppy.sh/users/14056601) from every other perk of landing all the way at the top, including osu!supporter, a unique profile badge and being featured in [limited-time default profile covers](#new-profile-customisations) (along with the other top 3)!
+For perhaps the same reason that may have garnered some portion of the eyes on this entry, the full artwork along with some others won't be making it to the main menu. However, that doesn't bar [**RedcXca**](https://osu.ppy.sh/users/14056601) from every other perk of landing all the way at the top, including osu!supporter, a unique profile badge and being featured in [limited-time default profile covers](#new-profile-customisations) (along with the other top 3)!
 
 [![](https://assets.ppy.sh/contests/215/banners/mocapixel.jpg)](https://assets.ppy.sh/contests/215/winners/mocapixel.png)
 
