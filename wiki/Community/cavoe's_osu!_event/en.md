@@ -8,7 +8,7 @@
 
 ![COE logo](img/logo.png)
 
-[Website](https://cavoeboy.com/) * [Twitter](https://twitter.com/CavoesOsuEvent) * [YouTube](https://www.youtube.com/@coevent) * [Twitch](https://www.twitch.tv/coevent) * [Discord](https://discord.com/invite/d6ru6PVcSY)
+[Website](https://cavoeboy.com/) • [Twitter](https://twitter.com/CavoesOsuEvent) • [YouTube](https://www.youtube.com/@coevent) • [Twitch](https://www.twitch.tv/coevent) • [Discord](https://discord.com/invite/d6ru6PVcSY)
 
 :::
 
