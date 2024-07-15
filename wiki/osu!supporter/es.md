@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: ea5e0cb4f7ad63118b67ee2e1891e307cf366831
 tags:
   - supporter tag
   - osu!supporter tag
@@ -13,7 +11,7 @@ tags:
 
 ![Imagen promocional de osu!supporter](img/supporter-eyecatch-ES.jpg)
 
-**osu!supporter** (o la ***etiqueta osu!supporter***) es un título temporal dado a los jugadores que apoyan a osu!, de manera voluntaria, con una donación monetaria para ayudarlo a crecer. Los supporters reciben un puñado de beneficios cosméticos y técnicos, la mayoría solo se presentan cuando el título está presente. Las características extras de osu!supporter no dan ningún tipo de ventaja en el juego, rendimiento o puntuación, y nunca lo hará.
+**osu!supporter** (o la ***etiqueta osu!supporter***) es un título temporal dado a los jugadores que apoyan a osu! de manera voluntaria con una donación monetaria para ayudarlo a crecer. Los supporters reciben un puñado de beneficios cosméticos y técnicos, la mayoría solo se presentan cuando el título está presente. Las características extras de osu!supporter no dan ningún tipo de ventaja en el juego, rendimiento o puntuación, y nunca lo hará.
 
 La etiqueta osu!supporter podrá ser obtenida desde la [página de la tienda de osu!supporter](https://osu.ppy.sh/store/products/supporter-tag).
 
@@ -57,10 +55,19 @@ La sección `¡yo!` puede ser un buen lugar para:
 
 Los supporters pueden personalizar aún más su perfil colocando una imagen de portada:
 
-- Haz clic en el icono del lápiz situado en la esquina inferior derecha de la portada.
+- Haz clic en el icono del lápiz en la esquina inferior derecha de la portada del perfil.
 - Selecciona una nueva portada a partir de unas cuantas opciones predefinidas o sube una imagen personalizada (sus dimensiones deberán ser de 2400x640).
 
 Una vez que el osu!supporter expire, la portada se mantendrá, pero no podrá cambiarse.
+
+### Color del perfil
+
+Al igual que las portadas de los perfiles, los supporters pueden modificar el color de su perfil:
+
+- Haz clic en el icono del lápiz en la esquina inferior derecha de la portada del perfil.
+- Al cambiar el color del perfil, se modifica el color de casi todo, incluido el encabezado, los botones, los enlaces y el texto.
+
+Una vez que la etiqueta de osu!supporter caduque, los colores personalizados permanecerán, pero solo se podrán volver a cambiar a los predeterminados.
 
 ### Cambio de nombre gratis
 
