@@ -20,7 +20,7 @@ Inspired by the design of [Navia](https://genshin-impact.fandom.com/wiki/Navia) 
 
 This skin ticks all the aesthetically pleasing boxes, but is also a very functional play skin, which is why Chromasia were able to snag themselves the 3rd place with **401** votes.
 
-![](/wiki/shared/news/2024-07-19-skinning-contest-unchained-results/3rd_badge.png)
+![](/wiki/shared/news/2024-07-19-skinning-contest-unchained-results/3rd_badge@2x.png)
 
 ### 2nd Place - echoing inside.
 
@@ -32,7 +32,7 @@ It's hard to talk about modern skinning without mentioning [thetasigma](https://
 
 Gacha gamers recognized thetasigma's efforts and gave them good RNG, which they used to pull **531** votes, no pity mechanics required.
 
-![](/wiki/shared/news/2024-07-19-skinning-contest-unchained-results/2nd_badge.png)
+![](/wiki/shared/news/2024-07-19-skinning-contest-unchained-results/2nd_badge@2x.png)
 
 ### 1st Place - Phosphor
 
@@ -44,7 +44,7 @@ Gacha gamers recognized thetasigma's efforts and gave them good RNG, which they 
 
 These are only some of the reasons that the community liked this entry so much that they voted **806** times for it, which put it a whopping 275 votes above first place!
 
-![](/wiki/shared/news/2024-07-19-skinning-contest-unchained-results/1st_badge.png)
+![](/wiki/shared/news/2024-07-19-skinning-contest-unchained-results/1st_badge@2x.png)
 
 ---
 
