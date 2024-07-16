@@ -83,7 +83,7 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 | **how to train your dragon** | ::{ flag=MY }:: **[Evirir](https://osu.ppy.sh/users/8126553)**, ::{ flag=BH }:: [Unitori-](https://osu.ppy.sh/users/15772814) |
 | **i like cookie** | ::{ flag=MY }:: **[\[MY\] VASD](https://osu.ppy.sh/users/29929002)**, ::{ flag=ID }:: [Fr05tyGD](https://osu.ppy.sh/users/14230684) |
 | **ImForcedToJoin** | ::{ flag=MY }:: **[Quzzuk](https://osu.ppy.sh/users/34741940)**, ::{ flag=US }:: [StarThe2nd](https://osu.ppy.sh/users/34995091) |
-| **kibitzfanboys** | ::{ flag=MY }:: **[SMALLWAI](https://osu.ppy.sh/users/26804593)**, ::{ flag=VN }:: [Walker37712](https://osu.ppy.sh/users/30644569) |
+| **kibitzfanboys** | ::{ flag=MY }:: **[SMALLWAI](https://osu.ppy.sh/users/26804593)**, ::{ flag=VN }:: [--Glitchy--](https://osu.ppy.sh/users/30644569) |
 | **leon's waifuus!!** | ::{ flag=MY }:: **[JayLye](https://osu.ppy.sh/users/14892447)**, ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805) |
 | **Los Pollos Hermanos** | ::{ flag=MY }:: **[XxTheJKxX](https://osu.ppy.sh/users/9048451)**, ::{ flag=US }:: [Mystifiedl](https://osu.ppy.sh/users/9772339) |
 | **manjimaji** | ::{ flag=MY }:: **[Lau william](https://osu.ppy.sh/users/28861900)**, ::{ flag=US }:: [Pakkoo](https://osu.ppy.sh/users/23361135) |
