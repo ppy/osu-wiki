@@ -98,12 +98,14 @@ That said, if your plan was to submit a map that's not obviously stream-focused,
 
 Little John was given the worst possible keyboard known to mankind. As such, Little John's keyboard only has access to 2-key rollover, and has been having trouble finding beatmaps that he's able to play. This month's restriction aims to give Little John a chance to play some charts! To make things even simpler, he only plays 4-key sets, unfortunately.
 
+His big brother, Maurice, also wanted to give the contest a shot. His case isn't any better however, and Maurice only has 3-key rollover on his keyboard. Moreover, he only likes playing 7-key beatmaps.
+
 This contest's limitations:
 
-- **Maps must not have more than two objects pressed at the same time**
-- **Maps must be 4K only**
+- **4K maps must not have more than two objects pressed at the same time**
+- **7K maps must not have more than three objects pressed at the same time**
 
-Thankfully, Little John is not too picky. He's fine with streams, jumpstreams, and any other pattern than he can reliably play in (probably) the world's worst keyboard. Judges will be in charge of evaluating how creative of an approach is taken when tackling down his gauntlet!
+Thankfully, this pair of brothers isn't too picky. They're fine with streams, jumpstreams, and any other pattern than he can reliably play in (probably) the world's worst keyboards. Judges will be in charge of evaluating how creative of an approach is taken when tackling down his gauntlet!
 
 ### Songs
 
