@@ -105,6 +105,29 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+**[Download the mappack here (70 MB)](https://cdn.discordapp.com/attachments/1257367722136703087/1262440243164876902/bomb16.zip?ex=66974358&is=6695f1d8&hm=a3a1f2b1c9a6c95087a670093e210a5bab23026440ad6196f5df35487281bed1&)**
+
+- RC
+  1. [\[Kyoro\] - Tama Funkot (\[GS\]hina) \[Tamate (OMMT Edit)\]](https://osu.ppy.sh/beatmapsets/2214750#mania/4692734)
+  2. [Silentroom - XHRONOXAPSULE (Onlinee) \[Irone OSU's EXPEED (edit)\]](https://osu.ppy.sh/beatmapsets/2214777#mania/4692779)
+  3. [Camellia - Abyss of Frobenioid (Cut Ver.) (Selitation) \[Deep Sea\]](https://osu.ppy.sh/beatmapsets/2137623#mania/4498631)
+  4. [syatten - aliceblue (Radio Edit) (Mipha-) \[miphather\]](https://osu.ppy.sh/beatmapsets/1461974#mania/3195261)
+  5. [SNKS - Chaotic Code (Onlinee) \[Beatmap's Staring (edit)\]](https://osu.ppy.sh/beatmapsets/2214778#mania/4692780)
+- LN
+  1. [Nanahoshi Kangengakudan - Parasol Cider (fvrex) \[Stage 5: 14th of September 2005\]](https://osu.ppy.sh/beatmapsets/2084407#mania/4366089)
+  2. [Naomi Oozora, Nozomi Yamamoto, Ruriko Aoki - Angel Dream (YuEast 2018) \[Heaven \~ Cute Vocal '23 edit\]](https://osu.ppy.sh/beatmapsets/2105456#mania/4417766)
+  3. [Nhato - Miss You (Abraxos) \[I\]](https://osu.ppy.sh/beatmapsets/1268949#mania/2637067)
+- HB
+  1. [Earth, Wind & Fire - September (yomoha remix) (epic man 2) \[Insane\]](https://osu.ppy.sh/beatmapsets/1838172#mania/3774371)
+  2. [James Landino - Anti Hero (Lott) \[Collab Defiance\]](https://osu.ppy.sh/beatmapsets/1974129#mania/4096930)
+- SV
+  1. [Lapix - Nothing But Theory (H1Pur) \[Edit\]](https://osu.ppy.sh/beatmapsets/1422643#mania/4690519)
+  2. [Borgore & Sikdope - Unicorn Zombie Apocalypse (Xavi Fabregas Remix) (Cut Ver.) (Ainer) \[Invites Sent\]](https://osu.ppy.sh/beatmapsets/2123580#mania/4462867)
+- Tiebreaker
+  1. **[Laur - Chimi Moryo -Bakko- (remity\_) \[Chimera\]](https://osu.ppy.sh/beatmapsets/2214686#mania/4692605)**
+
 ### Round of 32
 
 **[Download the mappack here (94 MB)](https://cdn.discordapp.com/attachments/1257367722136703087/1259895755179556937/bomb.zip?ex=668e019b&is=668cb01b&hm=0e312cd523c626b8f5c647df75c953dc5eef7f7946e5b8b6d6335b10c3791211&)**
