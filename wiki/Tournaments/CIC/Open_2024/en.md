@@ -100,23 +100,47 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 
 ## Mappools
 
+### Round of 32
+
+- No Mod
+  1. [JKT48 - Bersepeda Berdua (Cut Ver.) (Madoka Ayukawa) \[Gowes\]](https://osu.ppy.sh/beatmapsets/2214898#fruits/4692984)
+  2. [ginkiha - EOS (-Miya) \[CICO2024 RO32 NM2\]](https://osu.ppy.sh/beatmapsets/2214813#fruits/4692831)
+  3. [HyuN feat. YURI - Disorder (Verti) \[Jemzuu's Hyper Dysfunction\]](https://osu.ppy.sh/beatmapsets/1636276#fruits/3345954)
+  4. [Linkin Park - Breaking The Habit (Aakki) \[Akayume's Extra\]](https://osu.ppy.sh/beatmapsets/1499705#fruits/3084982)
+- Hidden
+  1. [Another Infinity feat. Mayumi Morinaga - COME BACK TO MY HEART (Ryu\* Remix) (MILK\_16) \[CICO 2K24 RO32 HD 1\]](https://osu.ppy.sh/beatmapsets/2215233#fruits/4693654)
+  2. [capsule - dreamin dreamin (Cowboy) \[CICO2024 RO32 HD2\]](https://osu.ppy.sh/beatmapsets/2215214#fruits/4693614)
+  3. [Miyolophone - Shinigami Line (feat. eris elysia) (DeviousPanda) \[Grand Finale\]](https://osu.ppy.sh/beatmapsets/1930357#fruits/3987557)
+- Hard Rock
+  1. [sasakure.UK - AMARA (The Great Intelligence) (Mniam) \[Sololiquy x Quix's Rain\]](https://osu.ppy.sh/beatmapsets/1998960#fruits/4520337)
+  2. [Mili - Compass (yuinn) \[Rain\]](https://osu.ppy.sh/beatmapsets/2148993#fruits/4586965)
+  3. [A.SAKA - Nanatsu Myoukakitsubata (Houshou Hari) \[sahuang's Insane\]](https://osu.ppy.sh/beatmapsets/1598631#fruits/3292536)
+- Double Time
+  1. [Dormir - Sayonara Trip (Fisicia) \[Let's float to the World of Our Dreams!\]](https://osu.ppy.sh/beatmapsets/2214878#fruits/4692952)
+  2. [UNDEAD CORPORATION - Everything will freeze (NyalettOwO x3) \[HexlettOwO's Platter\]](https://osu.ppy.sh/beatmapsets/1293905#fruits/2685022)
+  3. [Rise Against - Audience Of One (tieff) \[Hard\]](https://osu.ppy.sh/beatmapsets/44743#fruits/140062)  
+- Easy
+  1. [penoreri - Sulfur (Realazy) \[Deca's Expert\]](https://osu.ppy.sh/beatmapsets/1252844#fruits/3106504)
+- Tiebreaker
+  1. **[Kikuo - Hole Dwelling (Malai) \[Void (CICO2K24 Ver.)\]](https://osu.ppy.sh/beatmapsets/2214844#fruits/4692889)**  
+
 ### Qualifiers
 
 - No Mod
-  1. [Yousei Teikoku - Hades: The rise (-Miya) \[CICO2024 QLF NM1\]](https://osu.ppy.sh/beatmapsets/2210040#osu/4681178)
-  2. [Fractal Dreamers - Whispers from a Distant Star (MILK_16) \[CICO NM 2 QL VER\]](https://osu.ppy.sh/beatmapsets/2210045#osu/4681185)
-  3. [USAO - Knight Rider (Nakano Itsuki) \[Expert\]](https://osu.ppy.sh/beatmapsets/1550327#osu/3168036)
+  1. [Yousei Teikoku - Hades: The rise (-Miya) \[CICO2024 QLF NM1\]](https://osu.ppy.sh/beatmapsets/2210040#fruits/4681178)
+  2. [Fractal Dreamers - Whispers from a Distant Star (MILK_16) \[CICO NM 2 QL VER\]](https://osu.ppy.sh/beatmapsets/2210045#fruits/4681185)
+  3. [USAO - Knight Rider (Nakano Itsuki) \[Expert\]](https://osu.ppy.sh/beatmapsets/1550327#fruits/3168036)
 - Hidden
-  1. [la la larks - ego-izm (Zyzyx) \[ego-ism\]](https://osu.ppy.sh/beatmapsets/2210055#osu/4681205)
-  2. [L.E.D. Vs. Yuuhei Satellite - Torikago no Houou (Okoratu) \[EEEEExtra\]](https://osu.ppy.sh/beatmapsets/1764723#osu/3612221)
+  1. [la la larks - ego-izm (Zyzyx) \[ego-ism\]](https://osu.ppy.sh/beatmapsets/2210055#fruits/4681205)
+  2. [L.E.D. Vs. Yuuhei Satellite - Torikago no Houou (Okoratu) \[EEEEExtra\]](https://osu.ppy.sh/beatmapsets/1764723#fruits/3612221)
 - Hard Rock
-  1. [JKT48 - Ponytail dan Shu-Shu (BIG H ZONDA KIT) \[Blue Ponytail\]](https://osu.ppy.sh/beatmapsets/2210062#osu/4681217)
-  2. [Chanel - SloMo (Eurovision's Dancebreak Edit) (Eterdesp) \[Expert\]](https://osu.ppy.sh/beatmapsets/1948241#osu/4036414)
+  1. [JKT48 - Ponytail dan Shu-Shu (BIG H ZONDA KIT) \[Blue Ponytail\]](https://osu.ppy.sh/beatmapsets/2210062#fruits/4681217)
+  2. [Chanel - SloMo (Eurovision's Dancebreak Edit) (Eterdesp) \[Expert\]](https://osu.ppy.sh/beatmapsets/1948241#fruits/4036414)
 - Double Time
-  1. [ONE OK ROCK - Clock Strikes (Sololiquy) \[Rain\]](https://osu.ppy.sh/beatmapsets/2210093#osu/4681306)
-  2. [Red Velvet - Power Up (AJT) \[Another\]](https://osu.ppy.sh/beatmapsets/1997883#osu/4183275)
+  1. [ONE OK ROCK - Clock Strikes (Sololiquy) \[Rain\]](https://osu.ppy.sh/beatmapsets/2210093#fruits/4681306)
+  2. [Red Velvet - Power Up (AJT) \[Another\]](https://osu.ppy.sh/beatmapsets/1997883#fruits/4183275)
 - Easy
-  1. [Hakushi Hasegawa - Doku (zglock) \[Expert\]](https://osu.ppy.sh/beatmapsets/1674871#osu/3539717)
+  1. [Hakushi Hasegawa - Doku (zglock) \[Expert\]](https://osu.ppy.sh/beatmapsets/1674871#fruits/3539717)
 
 ## Ruleset
 
