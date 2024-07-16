@@ -132,7 +132,7 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
 
 The final standings for the Qualifier stage can be found in the following [statistics](https://asia-suiji-cup.vercel.app/stats) from ASC's website.
 
-| Seed | Team	| Average rank | Average score |
+| Seed | Team | Average rank | Average score |
 | :-: | :-- | :-: | :-: |
 | #1 | Yuma fanboys | 2.88 | 2,970,661.88 |
 | #2 | skibidi's hybrid soup | 4.25 | 2,961,508.63 |
@@ -146,7 +146,7 @@ The final standings for the Qualifier stage can be found in the following [stati
 | #10 | team name | 10.00 | 2,942,261.75 |
 | #11 | Undertable sands | 10.13 | 2,948,087.00 |
 | #12 | Mama Mia | 10.75 | 2,944,210.00 |
-| #13 | Furry Femboys | 10.88 |	2,934,540.63 |
+| #13 | Furry Femboys | 10.88 | 2,934,540.63 |
 | #14 | arm water sick ma | 11.38 | 2,900,212.63 |
 | #15 | Rice Farmer | 11.38 | 2,899,531.25 |
 | #16 | SKIBIDI Archive | 14.00 | 2,895,311.75 |
