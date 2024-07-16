@@ -18,7 +18,7 @@ Inspired by the design of [Navia](https://genshin-impact.fandom.com/wiki/Navia) 
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/HpL7rWyVjP4" frameborder="0" allowfullscreen></iframe>
 </div>
 
-This skin ticks all the aesthetically pleasing boxes, but is also a very functional play skin, which is why Chromasia were able to snag themselves the 3rd place with **401** votes.
+This skin ticks all the aesthetically pleasing boxes, but is also a very functional play skin, which is why Chromasia were able to snag themselves 3rd place with **401** votes.
 
 ![](/wiki/shared/news/2024-07-19-skinning-contest-unchained-results/3rd_badge@2x.png)
 
@@ -36,7 +36,7 @@ Gacha gamers recognized thetasigma's efforts and gave them good RNG, which they 
 
 ### 1st Place - Phosphor
 
-[Miorine](https://osu.ppy.sh/users/12630408) has strayed away from the usual anime girl themes, and focused themselves on the topic of nostalgia for their contest entry. After barely losing out 1st place during last year's [Skin of the Year](https://osu.ppy.sh/home/news/2024-02-05-skin-of-the-year-2023-results) contest, they have once again returned with more of a 80s style skin, throwing all of us back to the times of CRT's, floppy disks and beige-painted plastics wherever you look.
+[Miorine](https://osu.ppy.sh/users/12630408) has strayed away from the usual anime girl themes, and focused instead on the topic of nostalgia for their contest entry. After barely losing out on 1st place during last year's [Skin of the Year](https://osu.ppy.sh/home/news/2024-02-05-skin-of-the-year-2023-results) contest, they have once again returned with more of a 80s style skin, throwing all of us back to the times of CRT's, floppy disks and beige-painted plastics wherever you look.
 
 Players might even find themselves more immersed into the theme in gameplay rather than the song selection screen, with a unique take on the playable border that's completely skinned out to look like you are actually playing on a CRT. We'd also like to shout out the unique play area of mania as well, as it's been completely reskinned to look like a never-ending punch card.
 
@@ -44,7 +44,7 @@ Players might even find themselves more immersed into the theme in gameplay rath
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/sw1nhClFPLg" frameborder="0" allowfullscreen></iframe>
 </div>
 
-These are only some of the reasons that the community liked this entry so much that they voted **806** times for it, which put it a whopping 275 votes above first place!
+These are only some of the reasons that the community liked this entry so much that they voted **806** times for it, which put it a whopping 275 votes above second place!
 
 ![](/wiki/shared/news/2024-07-19-skinning-contest-unchained-results/1st_badge@2x.png)
 
