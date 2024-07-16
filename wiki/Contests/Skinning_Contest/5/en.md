@@ -47,7 +47,7 @@ The Skinning Contest #4 is run by various community members.
 - **[Contest page](https://osu.ppy.sh/community/contests/208)**
 - [Announcement news post](https://osu.ppy.sh/home/news/2024-04-09-skinning-contest-unchained)
 - [Voting news post](https://osu.ppy.sh/home/news/2024-06-23-skinning-contest-unchained-voting)
-- [Results news post](https://osu.ppy.sh/home/news/2024-07-19-skinning-contest-unchained-results)
+- [Results news post](https://osu.ppy.sh/home/news/2024-07-17-skinning-contest-unchained-results)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1906590)
 - [Submission thread](https://osu.ppy.sh/community/forums/topics/1906588)
 - [Discord server](https://discord.skinship.xyz)
