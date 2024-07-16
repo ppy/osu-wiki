@@ -91,6 +91,27 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+- RC
+  1. [aran - Gate One (Extended Mix) (Eclipse-) \[Master\]](https://osu.ppy.sh/beatmapsets/2214874#mania/4692947)
+  2. [Aoi - guardina (FerdiXIA-) \[Awakening (Updated)\]](https://osu.ppy.sh/beatmapsets/2143333#mania/4596344)
+  3. [Tobu & Syndec - Dusk (Radio Edit) (Cut Ver.) (Ainer) \[nightfall\]](https://osu.ppy.sh/beatmapsets/2198528#mania/4652614)
+  4. [KARUT - JACKPOT 777 (Revv-) \[Gacor\]](https://osu.ppy.sh/beatmapsets/2214467#mania/4692135)
+  5. [Hino Isuka vs. s-don - Glooorious!! (AutotelicBrown) \[Epic!!\]](https://osu.ppy.sh/beatmapsets/2214836#mania/4692876)
+- LN
+  1. [Wanuka - Zecchou Sanka (anatharax) \[Captivation\]](https://osu.ppy.sh/beatmapsets/2214895#mania/4692980)
+  2. [Gentle stick - Amphitryon (Yana Feiya) \[Torment\]](https://osu.ppy.sh/beatmapsets/2214830#mania/4692868)
+  3. [Zenpaku - Blast+ (feat. DEMONDICE) (\[Crz\]FolAH1217) \[Mixed Thoughts\]](https://osu.ppy.sh/beatmapsets/2214869#mania/4692939)
+- HB
+  1. [Hoshimachi Suisei - BIBBIDIBA (AelSan) \[\~ BIBIDI BOBBIDI BOOWA \~\]](https://osu.ppy.sh/beatmapsets/2214906#mania/4692998)
+  2. [ZeRo-BaSs - RaVe UnLiMiTeD (chxu) \[MaxX 176\]](https://osu.ppy.sh/beatmapsets/2213782#mania/4690363)
+- SV
+  1. [Ardolf - will u (RuleBlazing) \[cat sitting on the sv\]](https://osu.ppy.sh/beatmapsets/2214851#mania/4692902)
+  2. [Syzy - i'm god edit (trying to make dariacore but failing really hard) (H1Pur) \[trying to make a tournament sv map but failing really hard\]](https://osu.ppy.sh/beatmapsets/2214916#mania/4693012)
+- Tiebreaker
+  1. **[Mameyudoufu - Wave feat. Aitsuki Nakuru (ERA Leon) \[kahuna\]](https://osu.ppy.sh/beatmapsets/2214831#mania/4692869)**
+
 ### Qualifiers
 
 - SV
