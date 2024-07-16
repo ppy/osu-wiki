@@ -43,7 +43,7 @@ Usuarios con un osu!supporter activo aparecerán de un amarillo brillante en el 
 
 ### Sección del perfil editable
 
-Los supporters reciben una nueva sección en su perfil llamada `¡yo!`, que a menudo la llaman página de usuario. La página de usuario sirve como un espacio personalizable, donde el formato del texto utiliza [BBCode](/wiki/BBCode). Esta característica es permanente y se mantiene personalizable después que el osu!suporter expire.
+Los supporters reciben una nueva sección en su perfil llamada `¡yo!`, que a menudo la llaman página de usuario. La página de usuario sirve como un espacio personalizable, donde el formato del texto usa [BBCode](/wiki/BBCode). Esta característica es permanente y se mantiene personalizable después que el osu!suporter expire.
 
 La sección `¡yo!` puede ser un buen lugar para:
 
@@ -87,11 +87,11 @@ osu!direct es el motor de búsqueda y descarga de beatmaps disponible para suppo
 
 Los supporters tienen acceso a varias [tablas de clasificación](/wiki/Beatmap#tablas-de-clasificación) específicas por beatmap disponibles en el juego y en el sitio web:
 
-- Clasificación mundial para cada combinación de [modificadores del juego](/wiki/Gameplay/Game_modifier)
+- Clasificación mundial para cada combinación de los [modificadores de juego](/wiki/Gameplay/Game_modifier)
 - Clasificación nacional para jugadores que comparten la misma bandera
 - Clasificación entre amigos que muestra la posición del jugador en cualquier mapa comparado con sus amigos
 
-### Limites incrementados
+### Límites incrementados
 
 osu! ofrece a los supporters límites incrementados en varias funciones en línea:
 
@@ -141,7 +141,7 @@ La duración restante del osu!supporter, así mismo como la cantidad total de co
 
 ## Conseguir osu!supporter
 
-Para conseguir un osu!supporter, visita la [tienda de osu!supporter](https://osu.ppy.sh/store/products/supporter-tag) y ajusta la duración utilizando el control deslizante o con los botones inferiores con el número de meses. Todos los precios están en dólares estadounidenses (USD) y no incluyen posibles cargos del sistema de pago.
+Para conseguir un osu!supporter, visita la [tienda de osu!supporter](https://osu.ppy.sh/store/products/supporter-tag) y ajusta la duración usando el control deslizante o con los botones inferiores con el número de meses. Todos los precios están en dólares estadounidenses (USD) y no incluyen posibles cargos del sistema de pago.
 
 Después, haz clic en `Añadir al carrito` para agregar tu etiqueta osu!supporter al carrito de la osu!store. Para finalizar la compra, ve al [carrito](https://osu.ppy.sh/store/cart) y haz clic en `Pagar`, luego sigue las indicaciones de la pantalla.
 
@@ -161,7 +161,7 @@ Después que la transacción sea completada, habrá un nuevo evento en la secci�
 
 - `{nombre de usuario} ha apoyado a osu! - ¡gracias por tu generosidad!` si es la primera vez que el usuario obtiene osu!supporter o se lo regala a otra persona.
 - `{nombre de usuario} ha elegido apoyar a osu! una vez más - ¡gracias por tu generosidad!` si el usuario ha sido osu!supporter o lo ha regalado antes.
-- `¡{nombre de usuario} ha recibido el regalo de osu!supporter!` en caso de que la etiqueta haya sido regalado.
+- `¡{nombre de usuario} ha recibido el regalo de osu!supporter!` en caso de que la etiqueta haya sido regalada.
 
 El donante también puede ocultar este evento de su propio perfil marcando `Ocultar todas las etiquetas osu!supporter en esta orden de mi actividad` durante el pago. Esto es útil para hacer regalos de forma anónima porque evita que el destinatario verifique la actividad del perfil.
 
