@@ -146,6 +146,39 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 
 ## Match results
 
+### Round of 32
+
+Friday, 12 July 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **i like cookie** | **5** | 0 | Sleepless Duo | [#1](https://osu.ppy.sh/community/matches/114639634) |
+
+Saturday, 13 July 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Upscroll Gang** | **5** | 1 | Tidur | [#1](https://osu.ppy.sh/community/matches/114654706) |
+| **Epic Cat** | **5** | 1 | Anthena | [#1](https://osu.ppy.sh/community/matches/114655309) |
+| Team ferrets | 2 | **5** | **RealNoFake** | [#1](https://osu.ppy.sh/community/matches/114656030) |
+| **leon's waifuus!!** | **0** | -1 | The 5 Digits | *win by default* |
+| **Rice Noodles** | **0** | -1 | how to train your dragon | *win by default* |
+| **we love jacking** | **5** | 0 | kibitzfanboys | [#1](https://osu.ppy.sh/community/matches/114655624) |
+| **Digital Frogs** | **5** | 0 | Sengketa Blok Ambalat Incident \|\| TPT | [#1](https://osu.ppy.sh/community/matches/114657752) |
+
+Sunday, 14 July 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Yo, What Team Name** | **5** | 0 | Tyto | [#1](https://osu.ppy.sh/community/matches/114664151) |
+| **Re:Zuna** | **5** | 0 | Appley Leafy | [#1](https://osu.ppy.sh/community/matches/114665744) |
+| **duck is bird** | **5** | 0 | 3 DollarKeyboard | [#1](https://osu.ppy.sh/community/matches/114667986) |
+| **Canis Majoris: Sirius A and B** | **5** | 1 | F | [#1](https://osu.ppy.sh/community/matches/114667974) |
+| **Dark System** | **5** | 3 | Los Pollos Hermanos | [#1](https://osu.ppy.sh/community/matches/114667969) |
+| **Alpha Dan Virgins** | **5** | 0 | Almost disabled | [#1](https://osu.ppy.sh/community/matches/114668695) |
+| **Gon and LongGone** | **5** | 0 | ImForcedToJoin | [#1](https://osu.ppy.sh/community/matches/114668454) |
+| osake | 4 | **5** | **Overjoyed** | [#1](https://osu.ppy.sh/community/matches/114670140) |
+
 ### Qualifiers
 
 The final standings for the Qualifiers stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1HFMXH7sGnpz8ArhASpcNVpGtcoyPtF3D4tCPFUNf7Sk/edit?usp=sharing).
