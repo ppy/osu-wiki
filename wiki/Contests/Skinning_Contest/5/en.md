@@ -64,7 +64,7 @@ The Skinning Contest #4 is run by various community members.
 | ::{ flag=RU }:: [xTerrion](https://osu.ppy.sh/users/15679478) | [TECH](https://osu.ppy.sh/community/forums/topics/1923252) |
 | ::{ flag=TH }:: [atturbo555](https://osu.ppy.sh/users/5730417) | [Cherry Corolla](https://osu.ppy.sh/community/forums/topics/1912102) |
 | ::{ flag=RU }:: [TogiraW](https://osu.ppy.sh/users/20149300) | [Bullet Hell Monday Finale [弾幕月曜日終章]](https://osu.ppy.sh/community/forums/topics/1918059) |
-| ::{ flag=CN }:: [Citrusis](https://osu.ppy.sh/users/30298378) | [Rainbow<sup>5</sup><sup>1</sup><sup>4</sup>](https://osu.ppy.sh/community/forums/topics/1919980) |
+| ::{ flag=CN }:: [Citrusis](https://osu.ppy.sh/users/30298378) | [Rainbow⁵¹⁴](https://osu.ppy.sh/community/forums/topics/1919980) |
 | ::{ flag=MX }:: [ZixStar](https://osu.ppy.sh/users/11844975) | [StickMania](https://osu.ppy.sh/community/forums/topics/1920401) |
 | ::{ flag=US }:: [Miorine](https://osu.ppy.sh/users/12630408) | [Phosphor](https://osu.ppy.sh/community/forums/topics/1920571) |
 | ::{ flag=TW }:: [fred9909](https://osu.ppy.sh/users/502239) | [Murasaki Purple](https://osu.ppy.sh/community/forums/topics/1923479) |
