@@ -18,7 +18,7 @@ The **Skinning Contest #5: Unchained** is a free-for-all osu! skinning contest h
 | Announcement | 2024-04-09 |
 | Submission phase | 2024-04-09/2024-05-24 |
 | Voting phase | 2024-06-23/2024-07-07 |
-| Results | 2024-07-19 |
+| Results | 2024-07-17 |
 
 ## Prizes
 

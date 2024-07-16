@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Skinning Contest: Unchained - Results"
-date: 2024-07-19 12:00:00 +0000
+date: 2024-07-17 12:00:00 +0000
 ---
 
 The voting has concluded, and it's time to put the creativity genie back in the box and check out the voting results.
 
-![](/wiki/shared/news/2024-07-19-skinning-contest-unchained-results/Results_Out-Newspost.jpg)
+![](/wiki/shared/news/2024-07-17-skinning-contest-unchained-results/Results_Out-Newspost.jpg)
 
 The ballot box has been chained up, and the results have been tallied up. This edition of the skinning contest has seen **1,839** community members cast a total of **4,637** votes across **28** different entries. It's time to dive in head first, see which entries topped the charts, and most importantly which one secured themselves the #1 spot.
 
@@ -20,7 +20,7 @@ Inspired by the design of [Navia](https://genshin-impact.fandom.com/wiki/Navia) 
 
 This skin ticks all the aesthetically pleasing boxes, but is also a very functional play skin, which is why Chromasia were able to snag themselves 3rd place with **401** votes.
 
-![](/wiki/shared/news/2024-07-19-skinning-contest-unchained-results/3rd_badge@2x.png)
+![](/wiki/shared/news/2024-07-17-skinning-contest-unchained-results/3rd_badge@2x.png)
 
 ### 2nd Place - echoing inside
 
@@ -32,7 +32,7 @@ It's hard to talk about modern skinning without mentioning [thetasigma](https://
 
 Gacha gamers recognized thetasigma's efforts and gave them good RNG, which they used to pull **531** votes, no pity mechanics required.
 
-![](/wiki/shared/news/2024-07-19-skinning-contest-unchained-results/2nd_badge@2x.png)
+![](/wiki/shared/news/2024-07-17-skinning-contest-unchained-results/2nd_badge@2x.png)
 
 ### 1st Place - Phosphor
 
@@ -46,7 +46,7 @@ Players might even find themselves more immersed into the theme in gameplay rath
 
 These are only some of the reasons that the community liked this entry so much that they voted **806** times for it, which put it a whopping 275 votes above second place!
 
-![](/wiki/shared/news/2024-07-19-skinning-contest-unchained-results/1st_badge@2x.png)
+![](/wiki/shared/news/2024-07-17-skinning-contest-unchained-results/1st_badge@2x.png)
 
 ---
 
