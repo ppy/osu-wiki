@@ -133,8 +133,8 @@ Additionally, a [**Mappers' Guild keychain**](/wiki/shared/news/2023-08-29-chang
 - **Submissions must follow the month's beatmapping [limitation/theme](#beatmapping):**
   - **osu!:** create a stream-focused map
   - **osu!mania:**
-    - Maps must not have more than two objects pressed at the same time
-    - Maps must be 4K only
+    - **4K maps** must not have more than two objects pressed at the same time
+    - **7K maps** must not have more than three objects pressed at the same time
 - **Submissions must be a single difficulty from one of the month's [selected songs](#songs).**
 - **Submissions must be in `.osz` format.**
 - **Submissions must NOT be uploaded to the osu! website until after the contest's results are finalised.**
