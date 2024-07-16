@@ -84,7 +84,7 @@ These are essentially rules specific to each contest, so you can't re-use the sa
 
 If you're confused about how these work, ask for clarification in the comments, or send a message to [pishifat](https://osu.ppy.sh/community/chat?sendto=3178418) (for osu!) or [RandomeLoL](https://osu.ppy.sh/community/chat?sendto=7080063) (for osu!mania).
 
-#### osu!
+### osu!
 
 Every mapper has heard something along the lines of "stream maps are so lame nowadays" and "every stream map is the same" and "Muya made the best stream map 12 years ago so what's the point".
 
@@ -94,11 +94,12 @@ There's no strict criteria for what classifies a stream map as *a stream map*, s
 
 That said, if your plan was to submit a map that's not obviously stream-focused, you're guaranteed to lose. Make your intention clear!
 
-#### osu!mania
+### osu!mania
 
 Little John was given the worst possible keyboard known to mankind. As such, Little John's keyboard only has access to 2-key rollover, and has been having trouble finding beatmaps that he's able to play. This month's restriction aims to give Little John a chance to play some charts! To make things even simpler, he only plays 4 key sets, unfortunately.
 
 This contest's limitations:
+
 - **Maps must not have more than two objects pressed at the same time**
 - **Maps must be 4K only**
 
