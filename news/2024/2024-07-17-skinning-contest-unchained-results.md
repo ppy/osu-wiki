@@ -22,7 +22,7 @@ This skin ticks all the aesthetically pleasing boxes, but is also a very functio
 
 ![](/wiki/shared/news/2024-07-17-skinning-contest-unchained-results/3rd_badge@2x.png)
 
-### 2nd Place - echoing inside
+### 2nd Place - echoing inside.
 
 It's hard to talk about modern skinning without mentioning [thetasigma](https://osu.ppy.sh/users/6234482) at least once. Consistently ranking in the top 3 of all recent skinning competitions, they have proven themselves as a top tier skinner. Their newest entry, [echoing inside.](https://osu.ppy.sh/community/forums/topics/1925867), is themed around [Robin](https://honkai-star-rail.fandom.com/wiki/Robin), a character from *Honkai: Star Rail*, and thetasigma has used the character's colour palette extensively throughout the skin, with a focus on simplistic gameplay.
 
