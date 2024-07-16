@@ -64,7 +64,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 The complete list of player registrations can be found [here](https://wybin.xyz/tournaments/catch-indonesia-cup-open-2024/players).
 
 | Seed No. | Player | Avg. Rank |
-| :-- | :-- | :- |
+| :-- | :-- | :-- |
 | 1 | ::{ flag=CN }:: [Nene Sakura](https://osu.ppy.sh/users/6701104) | 4.90 |
 | 2 | ::{ flag=ID }:: [Nekuro](https://osu.ppy.sh/users/3222638) | 6.00 |
 | 3 | ::{ flag=TW }:: [Shimoe Koharu](https://osu.ppy.sh/users/2145160) | 8.30 |
