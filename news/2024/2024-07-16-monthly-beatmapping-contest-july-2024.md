@@ -4,7 +4,7 @@ title: "Monthly Beatmapping Contest: July 2024"
 date: 2024-07-16 18:15:00 +0000
 ---
 
-It might be too hot to go outside, but at least you can prove you're a top-tier mapper this Summer!
+It might be too hot to go outside, but at least you can prove you're a top-tier mapper this summer!
 
 ![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
 
@@ -80,7 +80,7 @@ Next month is dedicated to osu!taiko and osu!catch.
 
 There have been over 20 Monthly Beatmapping Contests since 2020. It would be boring if every contest was the same, so we throw **themes** and **limitations** into the mix.
 
-These are essentially rules specific to each contest, so you can't re-use the same map each month.
+These are essentially rules specific to each contest, so you can't reuse the same map each month.
 
 If you're confused about how these work, ask for clarification in the comments, or send a message to [pishifat](https://osu.ppy.sh/community/chat?sendto=3178418) (for osu!) or [RandomeLoL](https://osu.ppy.sh/community/chat?sendto=7080063) (for osu!mania).
 
@@ -90,13 +90,13 @@ Every mapper has heard something along the lines of "stream maps are so lame now
 
 This contest's theme: **create a stream-focused map.**
 
-There's no strict criteria for what classifies a stream map as *a stream map*, so this aspect will be evaluated by our judging panel! More specifically, the "theme" category in judging will encompass how stream-focused your map is and how fun/creative your streams are.
+There are no strict criteria for what classifies a stream map as *a stream map*, so this aspect will be evaluated by our judging panel! More specifically, the "theme" category in judging will encompass how stream-focused your map is and how fun/creative your streams are.
 
 That said, if your plan was to submit a map that's not obviously stream-focused, you're guaranteed to lose. Make your intention clear!
 
 ### osu!mania
 
-Little John was given the worst possible keyboard known to mankind. As such, Little John's keyboard only has access to 2-key rollover, and has been having trouble finding beatmaps that he's able to play. This month's restriction aims to give Little John a chance to play some charts! To make things even simpler, he only plays 4 key sets, unfortunately.
+Little John was given the worst possible keyboard known to mankind. As such, Little John's keyboard only has access to 2-key rollover, and has been having trouble finding beatmaps that he's able to play. This month's restriction aims to give Little John a chance to play some charts! To make things even simpler, he only plays 4-key sets, unfortunately.
 
 This contest's limitations:
 
