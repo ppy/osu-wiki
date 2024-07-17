@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "COE X YUKI AIM 2024 1v1 Tournament: Registrations are live!"
-date: 2024-07-17 20:00:00 +0000
+date: 2024-07-19 20:00:00 +0000
 ---
 
 It has never been a better time to showcase your osu! skills on LAN than the annual COE 1v1 tournament, now with Yuki Aim as a partner!
 
-![](/wiki/shared/news/2024-07-17-coe-x-yukiaim-1v1-tournament/banner.jpg)
+![](/wiki/shared/news/2024-07-19-coe-x-yukiaim-1v1-tournament/banner.jpg)
 
 If you are somehow not familiar with COE, or it's 1v1 tournament, [COE](/wiki/Community/cavoe's_osu!_event) is osu!'s largest community-hosted event, organised by [Meyer](https://osu.ppy.sh/users/5452367) & [cavoeboy](https://osu.ppy.sh/users/7361815) from July 30th up until August 4th. Along with the event itself, for the 3rd year in a row the largest LAN tournament of the year will be held there as well, with hundreds of live viewers and even more online on [Twitch](https://www.twitch.tv/COEvent)!
 
@@ -25,7 +25,7 @@ The registrations for the tournament are live now! As per usual, the COE 1v1 LAN
 | Round of 16 | 2024-08-01 (11:00–23:00) |
 | Quarterfinals | 2024-08-02 (13:30–20:00) |
 | Semifinals | 2024-08-03 (12:30–15:00) |
-| Showmatches | 2024-08=03 (15:30–16:30) |
+| Showmatches | 2024-08-03 (15:30–16:30) |
 | Finals | 2024-08-03 (17:30–18:30) |
 | Grand Finals | 2024-08-03 (20:00–21:30) |
 
