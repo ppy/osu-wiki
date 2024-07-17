@@ -27,3 +27,4 @@ The [Technical Support Team group page](https://osu.ppy.sh/groups/22) lists all 
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Spanish |
+| ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  |
