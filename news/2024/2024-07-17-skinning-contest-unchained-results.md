@@ -12,7 +12,7 @@ The ballot box has been chained up, and the results have been tallied up. This e
 
 ### 3rd place - ROSULA
 
-Inspired by the design of [Navia](https://genshin-impact.fandom.com/wiki/Navia) from *Genshin Impact*, [Chromasia](https://osu.ppy.sh/users/7306251) has once again put themselves near the top of the list. Even though this is their 3rd time entering a skinning contest, they have quickly solidified themselves in the upper echelon of the skinning community. Their newest entry, [ROSULA](https://osu.ppy.sh/community/forums/topics/1925929), basks users with some tastefully placed golden yellow accents across the entire skin, along with Navia as the centre piece on the song selection screen.
+Inspired by the design of [Navia](https://genshin-impact.fandom.com/wiki/Navia) from *Genshin Impact*, [Chromasia](https://osu.ppy.sh/users/7306251) has once again put themselves near the top of the list. Even though this is their 3rd time entering a skinning contest, they have quickly solidified themselves in the upper echelon of the skinning community. Their newest entry, [ROSULA](https://osu.ppy.sh/community/forums/topics/1925929), basks users with tastefully placed golden yellow accents across the entire skin, along with Navia as the centre piece on the song selection screen.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/HpL7rWyVjP4" frameborder="0" allowfullscreen></iframe>
