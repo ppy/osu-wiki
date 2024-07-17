@@ -34,3 +34,4 @@ tags:
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | 菲律宾语 |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | 西班牙语 |
+| ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  |
