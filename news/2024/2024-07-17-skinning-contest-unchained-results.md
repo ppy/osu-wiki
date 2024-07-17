@@ -12,7 +12,7 @@ The ballot box has been chained up, and the results have been tallied up. This e
 
 ### 3rd place - ROSULA
 
-Inspired by the design of [Navia](https://genshin-impact.fandom.com/wiki/Navia) from *Genshin Impact*, [Chromasia](https://osu.ppy.sh/users/7306251) has once again put themselves near the top of the list. Even though this is their 3rd time entering a skinning contest, they have quickly solidified themselves in the upper echelon of the skinning community. Their newest entry does not miss the mark either, basking users with some tastefully placed golden yellow accents across the entire skin, along with Navia as the centre piece on the song selection screen.
+Inspired by the design of [Navia](https://genshin-impact.fandom.com/wiki/Navia) from *Genshin Impact*, [Chromasia](https://osu.ppy.sh/users/7306251) has once again put themselves near the top of the list. Even though this is their 3rd time entering a skinning contest, they have quickly solidified themselves in the upper echelon of the skinning community. Their newest entry, [ROSULA](https://osu.ppy.sh/community/forums/topics/1925929), basks users with some tastefully placed golden yellow accents across the entire skin, along with Navia as the centre piece on the song selection screen.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/HpL7rWyVjP4" frameborder="0" allowfullscreen></iframe>
@@ -38,7 +38,7 @@ Gacha gamers recognised thetasigma's efforts and gave them good RNG, which they 
 
 ### 1st place - Phosphor
 
-[Miorine](https://osu.ppy.sh/users/12630408) has strayed away from the usual anime girl themes and focused instead on the topic of nostalgia for their contest entry. After barely losing out on 1st place during last year's [Skin of the Year](https://osu.ppy.sh/home/news/2024-02-05-skin-of-the-year-2023-results) contest, they have once again returned with more of an 80s-style skin, throwing all of us back to the times of CRTs, floppy disks and beige-painted plastics wherever you look.
+[Miorine](https://osu.ppy.sh/users/12630408) has strayed away from the usual anime girl themes and focused instead on the topic of nostalgia with their entry, [Phosphor](https://osu.ppy.sh/community/forums/topics/1920571). After barely losing out on 1st place during last year's [Skin of the Year](https://osu.ppy.sh/home/news/2024-02-05-skin-of-the-year-2023-results) contest, they have once again returned with more of an 80s-style skin, throwing all of us back to the times of CRTs, floppy disks and beige-painted plastics wherever you look.
 
 Players might even find themselves more immersed into the theme in gameplay rather than the song selection screen, with a unique take on the playable border that's completely skinned out to look like you are actually playing on a CRT. We'd also like to shout out osu!mania's unique playfield as well, as it's been completely reskinned to look like a never-ending punch card.
 
