@@ -88,7 +88,6 @@ Torneos oficiales organizados por el osu! team.
 | [osu!mania 7K World Cup 2024](MWC/2024_7K) | 15/12/2023 | 25/2/2024 | ::{ flag=KR }:: Corea del Sur | ::{ flag=MY }:: Malasia | ::{ flag=PH }:: Filipinas |
 | [osu!mania 4K World Cup 2024](MWC/2024_4K) | 18/7/2024 | 29/9/2024 | *Por decidirse* | *Por decidirse* | *Por decidirse* |
 
-
 ## Comunidad
 
 Torneos/competiciones no oficiales organizados por las comunidades.
