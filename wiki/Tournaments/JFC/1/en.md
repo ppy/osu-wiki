@@ -8,7 +8,7 @@ tags:
 
 ![Jogja Fun Cup banner](img/banner.jpg)
 
-The **Jogja Fun Cup** (***JFC***) is a double-elimination 2v2 osu! tournament hosted by ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434) and ::{ flag=ID }:: [centrux](https://osu.ppy.sh/users/5426769) of the [osu! Region Ngayogyakarta](https://instagram.com/oren_jogja) community in collaboration with the doujin circle [LUMINOZ](https://luminoz.bandcamp.com/). The tournament is open to teams of Indonesian players with a global rank of #1,000 or lower. It is the first instalment of the Jogja Fun Cup.
+The **Jogja Fun Cup** (***JFC***) is a double-elimination 2v2 osu! tournament hosted by ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434) and the [osu! Region Ngayogyakarta](https://instagram.com/oren_jogja) community in collaboration with the doujin circle [LUMiNOZ](https://luminoz.bandcamp.com/). The tournament is open to teams of Indonesian players with a global rank of #1,000 or lower. It is the first instalment of the Jogja Fun Cup.
 
 ## Tournament schedule
 
@@ -26,8 +26,8 @@ The **Jogja Fun Cup** (***JFC***) is a double-elimination 2v2 osu! tournament ho
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | €100.00 (courtesy of ::{ flag=NL }:: [Miya the turtle](https://osu.ppy.sh/users/13032176)), 1 month of osu!supporter for each team member, exclusive [LUMINOZ](https://luminoz.bandcamp.com/) goodie pack, custom-made profile banner |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | €30.00 (courtesy of ::{ flag=NL }:: [Miya the turtle](https://osu.ppy.sh/users/13032176)), exclusive [LUMINOZ](https://luminoz.bandcamp.com/) goodie pack, custom-made profile banner |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | €100.00 (courtesy of ::{ flag=NL }:: [Miya the turtle](https://osu.ppy.sh/users/13032176)), 1 month of osu!supporter for each team member, exclusive [LUMiNOZ](https://luminoz.bandcamp.com/) goodie pack, custom-made profile banner |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | €30.00 (courtesy of ::{ flag=NL }:: [Miya the turtle](https://osu.ppy.sh/users/13032176)), exclusive [LUMiNOZ](https://luminoz.bandcamp.com/) goodie pack, custom-made profile banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | €20.00 (courtesy of ::{ flag=NL }:: [Miya the turtle](https://osu.ppy.sh/users/13032176)). custom-made profile banner |
 
 ## Organisation
@@ -36,12 +36,12 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434), ::{ flag=ID }:: [centrux](https://osu.ppy.sh/users/5426769) |
-| Mappool selector | ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [StayMusical](https://osu.ppy.sh/users/12688176), ::{ flag=US }:: [Lifan Li](https://osu.ppy.sh/users/4050359) |
+| Host | ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434) |
+| Mappool selector | ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [StayMusical](https://osu.ppy.sh/users/12688176), ::{ flag=US }:: [Lifan Li](https://osu.ppy.sh/users/4050359) |
 | Playtester | *to be announced* |
 | Streamer | ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938) |
 | Commentator | ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627), ::{ flag=ID }:: [DAMB-](https://osu.ppy.sh/users/14748550), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) |
-| Referee | ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434), ::{ flag=ID }:: [dhimas arya](https://osu.ppy.sh/users/7108145), ::{ flag=ID }:: [BeefyNoragami](https://osu.ppy.sh/users/11065629), ::{ flag=NL }:: [Miya the turtle](https://osu.ppy.sh/users/13032176) |
+| Referee | ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434), ::{ flag=ID }:: [Splacten](https://osu.ppy.sh/users/10018405), ::{ flag=ID }:: [dhimas arya](https://osu.ppy.sh/users/7108145), ::{ flag=ID }:: [BeefyNoragami](https://osu.ppy.sh/users/11065629), ::{ flag=PH }:: [-PeKoRa-](https://osu.ppy.sh/users/17959882), ::{ flag=NL }:: [Miya the turtle](https://osu.ppy.sh/users/13032176), ::{ flag=HU }:: [Akko The Rock](https://osu.ppy.sh/users/9153879) |
 | Graphic designer | ::{ flag=ID }:: [hikimaruy](https://osu.ppy.sh/users/9510067) |
 | Spreadsheet manager | ::{ flag=HK }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866) |
 | Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
@@ -75,6 +75,32 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
 | YJJA | ::{ flag=ID }:: **[Xenoid](https://osu.ppy.sh/users/26993756)**, ::{ flag=ID }:: [kairazhel](https://osu.ppy.sh/users/32835998), ::{ flag=ID }:: [GranXso](https://osu.ppy.sh/users/32189812) |
 
 ## Mappools
+
+### Quarterfinals
+
+- No Mod
+  1. [DUAL ALTER WORLD - CONSOLE1 (Cut Ver.) (Nao Tomori) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1267302#osu/2633906)
+  2. [UI-70 - Mou Uta Shika Kikoenai (Kurashina Asuka) \[Expert cs4\]](https://osu.ppy.sh/beatmapsets/1537442#osu/3438674)
+  3. [LizNoir - Darkness sympathizer (\_kotachi\_) \[Loveloners\]](https://osu.ppy.sh/beatmapsets/2158224#osu/4549893)
+  4. [lapix - Under Mebius feat. Aitsuki Nakuru (YUKIYANAGI Remix) (Rentai) \[Unwelcome Overdose [remnait]\]](https://osu.ppy.sh/beatmapsets/2187828#osu/4625963)
+  5. [NIWASHI - Model of Earth (Down) \[Kentucky Fried Chicken\]](https://osu.ppy.sh/beatmapsets/1627947#osu/3323488)
+- Hidden
+  1. [sasakure.UK feat. Annabel - SeventH-HeaveN 2020-2021ver (ayudame por fa) \[Rebo & ayudame por fa's DevotioN\]](https://osu.ppy.sh/beatmapsets/2073264#osu/4501103)
+  2. [MIMI feat. wanko - minimum (Delis) \[insane\]](https://osu.ppy.sh/beatmapsets/2007831#osu/4176525)
+  3. [Zenpaku - Blast+ (feat. DEMONDICE) (acnozei) \[escha\]](https://osu.ppy.sh/beatmapsets/1875931#osu/3860509)
+- Hard Rock
+  1. [TrySail - Utsuroi (Mir) \[Vivy's Extra\]](https://osu.ppy.sh/beatmapsets/1433678#osu/3266341)
+  2. [Nekomata Master+ - Rengoku no Elferia (Muya) \[Kloyd's Expert\]](https://osu.ppy.sh/beatmapsets/1489153#osu/3074035)
+  3. [Shiina Ringo feat. Hiroji Miyamoto - The Narrow Way (melwoine) \[Axaptice's Extra\]](https://osu.ppy.sh/beatmapsets/1204921#osu/2508933)
+- Double Time
+  1. [Ceui - Hoshi Ori Yume Mirai (-Nanaka-) \[Narcissu's Insane\]](https://osu.ppy.sh/beatmapsets/268509#osu/823523)
+  2. [ginkiha feat. TEA - Hare (PandaHero) \[Insane\]](https://osu.ppy.sh/beatmapsets/1280205#osu/2701648)
+  3. [IOSYS - Danzai Yamaxanadu! (Annabel) \[Yuuya's Lunatic\]](https://osu.ppy.sh/beatmapsets/1525635#osu/3694825)
+- Free Mod
+  1. [AAAA vs. Morimori Atsushi - Xrocus (-Syncro) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/1508694#osu/3158433)
+  2. [REDALiCE - FLOWER REDALiCE Remix (dasdwqdf) \[Another\]](https://osu.ppy.sh/beatmapsets/1955427#osu/4050011)
+- Tiebreaker
+  1. **[Hakushi Hasegawa - Watashi o Mite (zglock) \[Loogame\]](https://osu.ppy.sh/beatmapsets/1697072#osu/3467317)**  
 
 ### Round of 16
 
@@ -118,6 +144,26 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
   2. [-45 - Millarca (Stick2Glue) \[Malice\]](https://osu.ppy.sh/beatmapsets/1833512#osu/3764144)
 
 ## Match results
+
+### Round of 16
+
+Saturday, 13 July 2024:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | Hina Dutro | 3 | **5** | **Kagamarcchino ﾃﾞﾗｸｽ** | [#1](https://osu.ppy.sh/community/matches/114655953) |
+| Upper | **Ban HR2** | **5** | 1 | Mie Ayam Afui | [#1](https://osu.ppy.sh/community/matches/114655959) |
+| Upper | **Nasi Kuning Pake Kecap** | **5** | 1 | Tahu Sumedang | [#1](https://osu.ppy.sh/community/matches/114655259) |
+| Upper | **Bakpia Kukus** | **5** | 0 | YJJA | *win by default* |
+| Upper | **BAKPIA KUKUS KILLER** | **5** | 0 | Duo Ambatron | *win by default* |
+
+Sunday, 14 July 2024:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **reto pengkhianat** | **5** | 1 | daftar mepet | [#1](https://osu.ppy.sh/community/matches/114668546) |
+| Upper | **Santoso** | **5** | 1 | daan mogot | [#1](https://osu.ppy.sh/community/matches/114669315) |
+| Upper | **Suikambing** | **5** | 0 | apa | *win by default* |
 
 ### Qualifiers
 
