@@ -16,8 +16,6 @@ It looks like you accepted the trade offer. Well here it is, the latest and grea
 
 ## Editor changes
 
-Continuing on from last month's set of updates, the developers put more time and effort into the editor, with many more features implemented from stable, as well as new additions made that aim to make the editor itself easier to use for both experienced and new mappers.
-
 - **The gameplay testing hotkeys were implemented, and new hotkeys were added for slider curve types.** Bookmarks and autoplay speed are still not added as part of the testing hotkeys, but now you can toggle autoplay with `Tab`, pause with `Ctrl` + `P`, exit at initial position with `F1`, and press `F2` to exit the gameplay test at current position. As for the slider curve types, you can toggle different types with `Alt` + `1` through `5`.
 - **You can now jump to specific timestamps by pasting them in the bottom bar in the editor.** This is a very small UI change that will mean a lot to mappers, especially when it comes to modding.
 
