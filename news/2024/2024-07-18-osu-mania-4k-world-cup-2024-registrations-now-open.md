@@ -28,7 +28,7 @@ Refer to the **[osu!mania 4K World Cup 2024 wiki article](/wiki/Tournaments/MWC/
 
 ## Prizes
 
-The osu!catch World Cup 2024 offers a $2,000 prize pool, along with limited-edition merch!
+The osu!mania 4K World Cup 2024 offers a $2,000 prize pool, along with limited-edition merch!
 
 - **1st:** 50% of the prize pool, single-run merch, profile badge, **osu!mania 4K Champion** user title for one year
 - **2nd:** 30% of the prize pool, single-run merch, profile badge
