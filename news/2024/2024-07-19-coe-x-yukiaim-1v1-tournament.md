@@ -4,19 +4,19 @@ title: "COE X YUKI AIM 2024 1v1 Tournament: Registrations are live!"
 date: 2024-07-19 20:00:00 +0000
 ---
 
-It has never been a better time to showcase your osu! skills on LAN than the annual COE 1v1 tournament, now with Yuki Aim as a partner!
+It has never been a better time to showcase your osu! skills on LAN than the annual COE 1v1 tournament!
 
 ![](/wiki/shared/news/2024-07-19-coe-x-yukiaim-1v1-tournament/banner.jpg)
 
-If you are somehow not familiar with COE, or it's 1v1 tournament, [COE](/wiki/Community/cavoe's_osu!_event) is osu!'s largest community-hosted event, organised by [Meyer](https://osu.ppy.sh/users/5452367) & [cavoeboy](https://osu.ppy.sh/users/7361815) from July 30th up until August 4th. Along with the event itself, for the 3rd year in a row the largest LAN tournament of the year will be held there as well, with hundreds of live viewers and even more online on [Twitch](https://www.twitch.tv/COEvent)!
+If you are somehow not familiar with COE or its 1v1 tournament, [COE](/wiki/Community/cavoe's_osu!_event) is osu!'s largest community-hosted event, organised by [Meyer](https://osu.ppy.sh/users/5452367) and [cavoeboy](https://osu.ppy.sh/users/7361815) from July 30th up until August 4th. Along with the event itself, for the 3rd year in a row the largest LAN tournament of the year will be held there as well, with hundreds of live viewers at the event and even more online on [Twitch](https://www.twitch.tv/COEvent)!
 
-This is a unique experience either as a viewer or a player, and tickets for the event are still [available for purchase](https://cavoeboy.com/tickets/ticket-type) if you wish to attend. If you are unsure of whether you want to attend COE and watch the tournament in-person, or be the one competing on the main stage, here is a small glimpse of the atmosphere and the community:
+This is a unique experience both for viewers and players, and tickets for the event are still [available for purchase](https://cavoeboy.com/tickets/ticket-type) if you wish to attend (and can somehow arrange a trip in a week). Here is a small glimpse of what to expect from the atmosphere and the community:
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/qhfcdbbXmM8" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-The registrations for the tournament are live now! As per usual, the COE 1v1 LAN tournament will have 16 best players from the online qualifiers duel it out over the course of 3 days in a single elimination bracket, with all matches being played on the new [osu!(lazer)](/wiki/Client/Release_stream/Lazer) client.
+The registrations for the tournament are live now! As per usual, the COE 1v1 LAN tournament will have 16 best players from the online qualifiers duel it out over the course of 3 days in a single elimination bracket, with all matches played on the new [osu!(lazer)](/wiki/Client/Release_stream/Lazer) client.
 
 ### Tournament schedule
 
@@ -31,15 +31,15 @@ The registrations for the tournament are live now! As per usual, the COE 1v1 LAN
 
 ### Prizes
 
-The total prize pool of €3000 will be divided among the top 3 players, along with physical prizes also being handed out.
+The total prize pool of €3,000 will be divided among the top 3 players along with physical prizes.
 
 ### Other activities at COE
 
-If you still want to compete, but did not make the top 16, you might be interested in the community-hosted [YokesPai's Extravagant Accuracy Sightread Tournament](https://osu.ppy.sh/community/forums/topics/1944735) accuracy battle royale tournament, focusing on reading and reading-related gimmicks!
+If you still want to compete, but did not make the top 16, you might be interested in the community-hosted [YokesPai's Extravagant Accuracy Sightread Tournament](https://osu.ppy.sh/community/forums/topics/1944735), focusing on reading and reading-related gimmicks!
 
-COE is also the perfect time to meet your favourite osu! players and content creators, either at the karaoke night, sushi dinner, or just roaming in and around the venue. With familiar faces such as [Spazza17](https://osu.ppy.sh/users/3516241), [Rafis](https://osu.ppy.sh/users/2558286), [Sytho](https://osu.ppy.sh/users/4175698) and [sst3w](https://osu.ppy.sh/users/13337202) already confirmed as attendees, you are sure to find someone you'd love to have a quick chat and take a picture with!
+COE is a very social event and the perfect time to meet with osu! friends and make new ones, whether it be at the karaoke night, sushi dinner or just around the venue. With the amount of [players, creators and contributors](https://cavoeboy.com/attendees) attending, you're sure to find many familiar faces.
 
-Just want to chill out? There will be plenty of community panels, whether it's [mangomizer](https://osu.ppy.sh/users/1893718)'s pub quiz, [Nytro](https://osu.ppy.sh/users/11327918)'s mapping or storyboarding panel, or challenges such as [Bubbleman](https://osu.ppy.sh/users/5182050)'s pp farming race, along with Yuki Aim, Wooting and [wooz](https://osu.ppy.sh/users/6888206)'s arcade booths that you can leisurely peruse.
+Just want to chill out? There will be plenty of community panels, whether it's [mangomizer](https://osu.ppy.sh/users/1893718)'s pub quiz, [Nytro](https://osu.ppy.sh/users/11327918)'s mapping panel, the storyboarding panel, or challenges such as [Bubbleman](https://osu.ppy.sh/users/5182050)'s pp farming race, along with Yuki Aim, Wooting and [wooz](https://osu.ppy.sh/users/6888206)'s arcade booths that you can leisurely peruse.
 
 ---
 
