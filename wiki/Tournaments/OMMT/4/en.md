@@ -30,7 +30,7 @@ The **osu!mania Malaysia Tournament 4** (***OMMT 4***) is a Malaysian team-based
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 2 months of osu!supporter tag, user profile banner |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 2 months of osu!supporter tag, user profile banner |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag, user profile banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag, user profile banner |
 
