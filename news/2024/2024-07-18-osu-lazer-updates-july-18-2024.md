@@ -23,7 +23,7 @@ Continuing on from last month's set of updates, the developers put more time and
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="https://2127.s-ul.eu/PkuVdl4R.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/editor-timestamp.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -31,7 +31,7 @@ Continuing on from last month's set of updates, the developers put more time and
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="https://2127.s-ul.eu/SREVbauf.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/edit-externally.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -39,13 +39,19 @@ Continuing on from last month's set of updates, the developers put more time and
 - **Hexagonal and circular options have been added to the snap grid.** Expanding on the snap grid editing change made last month, more options have been added which will make the mapping journey easier for both veteran and newbie mappers.
 - **Various improvements have been made to the editor UI.** Long story short, timelines have been slightly reduced, colours for timing points and kiai's have been changed, and tooltips on hover have been added to make it clear to newer players what each marker and highlighted section in the timeline mean.
 
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/media/news/editor-tooltip.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
+
 ## Other changes
 
 - **The ruleset selector has new samples, and some UI samples got refreshed.** See if you can spot the UI samples that got changed!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="https://2127.s-ul.eu/uy75LrFd.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/sound-comparison.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
