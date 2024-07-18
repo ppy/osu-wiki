@@ -55,6 +55,7 @@ It looks like you accepted the trade offer. Well here it is, the latest and grea
 
 - **New "No Release" mod has been added to osu!mania.** This makes osu!mania hold notes work like some other VSRGs, completely removing the accuracy judgement from releases. It's also the same way sliders work in the osu! game mode.
 - **The colour of the mod multiplier has been changed to match the mod icon background.** If a mod is increasing difficulty, the mod multiplier will now be red, and if the mod is decreasing difficulty, the mod multiplier will be green.
+- **The mod customisation menu options have moved.** Previously the customisation menu popped up from below upon pressing the "Mod Customisation" button, and that clashed with the upcoming redesign of the song selection screen. That button has now been replaced with a dropdown menu located on the top right of the mod selection screen.
 - **The beatmap filters overlay has been updated.** Players kept getting confused why the in-game beatmap listing didn't work properly, without realising that the "Featured Artists" filter is selected by default, so now it's been updated to be more visible.
 
 ---
