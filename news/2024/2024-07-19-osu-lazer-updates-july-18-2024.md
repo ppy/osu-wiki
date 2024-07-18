@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "osu!(lazer) Updates: July 18, 2024"
-date: 2024-07-18 20:00:00 +0000
+date: 2024-07-19 12:00:00 +0000
 ---
 
 Trade offer received — you click the banner, we give you the latest osu!(lazer) updates.
 
-![](/wiki/shared/news/2024-07-18-osu-lazer-updates-july-18-2024/banner.jpg)
+![](/wiki/shared/news/2024-07-19-osu-lazer-updates-july-18-2024/banner.jpg)
 
 It looks like you accepted the trade offer. Well here it is, the latest and greatest osu!(lazer) has to offer, available for you to consume both in text by continuing to read below, or if you are more of a video digest person, you can click on the embed below.
 
