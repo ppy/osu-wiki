@@ -94,7 +94,7 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/8475d0c316b1ea7c1cb66ca93902d810).
 
-## Match Schedule: Week 1
+## Match schedule: week 1
 
 ### Saturday, 20 July 2024
 
@@ -145,19 +145,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/847
 | [FlyingTuna](https://osu.ppy.sh/users/9224078) ::{ flag=KR }:: | ::{ flag=US }:: [ampy](https://osu.ppy.sh/users/4458239) | [Jul 21 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240721T170000&p1=1440) | *TBD* | [^potential-match] |
 | [xootynator](https://osu.ppy.sh/users/3717598) ::{ flag=CA }:: | ::{ flag=ES }:: [A N T O N I O](https://osu.ppy.sh/users/12760743) | [Jul 21 (Sun) 18:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240721T183000&p1=1440) | *TBD* | [^potential-match] |
 | [TrickyPugster](https://osu.ppy.sh/users/8082362) ::{ flag=US }:: | ::{ flag=ES }:: [A N T O N I O](https://osu.ppy.sh/users/12760743) | [Jul 21 (Sun) 18:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240721T183000&p1=1440) | *TBD* | [^potential-match] |
-
-### Sunday, 21 July 2024
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| Winner of 9 | Winner of 10 | [Jul 21 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240721T100000&p1=1440) | *TBD* | [^potential-match] |
-| Winner of 13 | Winner of 14 | [Jul 21 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240721T110000&p1=1440) | *TBD* | [^potential-match] |
-| Winner of 3 | Winner of 4 | [Jul 21 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240721T140000&p1=1440) | *TBD* | [^potential-match] |
-| Winner of 5 | Winner of 6 | [Jul 21 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240721T150000&p1=1440) | *TBD* | [^potential-match] |
-| Winner of 15 | Winner of 16 | [Jul 21 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240721T150000&p1=1440) | *TBD* | [^potential-match] |
-| Winner of 1 | Winner of 2 | [Jul 21 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240721T160000&p1=1440) | *TBD* | [^potential-match] |
-| Winner of 7 | Winner of 8 | [Jul 21 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240721T160000&p1=1440) | *TBD* | [^potential-match] |
-| Winner of 11 | Winner of 12 | [Jul 21 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240721T170000&p1=1440) | *TBD* | [^potential-match] |
 
 ## Mappools
 
