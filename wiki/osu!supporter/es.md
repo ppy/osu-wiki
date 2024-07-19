@@ -139,16 +139,16 @@ Los supporters pueden acceder al modo multijugador desde la versión de acceso a
 
 La duración restante del osu!supporter, así mismo como la cantidad total de contribuciones, compras del mismo, y regalos, están disponibles en la parte superior de la [página de osu!supporter](https://osu.ppy.sh/home/support).
 
-## Conseguir un osu!supporter
+## Conseguir osu!supporter
 
 Para conseguir un osu!supporter, visita la [tienda de osu!supporter](https://osu.ppy.sh/store/products/supporter-tag) y ajusta la duración usando el control deslizante o con los botones inferiores con el número de meses. Todos los precios están en dólares estadounidenses (USD) y no incluyen posibles cargos del sistema de pago.
 
 Después, haz clic en `Añadir al carrito` para agregar tu etiqueta de osu!supporter al carrito de la osu!store. Para finalizar la compra, ve al [carrito](https://osu.ppy.sh/store/cart) y haz clic en `Pagar`, luego sigue las indicaciones de la pantalla.
 
-### Regalar un osu!supporter
+### Regalar osu!supporter
 
 ::: Infobox
-![](img/profile-gift-supporter-ES.png "Botón con menú desplegable en una página de perfil para regalarle a alguien un osu!supporter")
+![](img/profile-gift-supporter-ES.png "Botón con menú desplegable en una página de perfil para regalarle osu!supporter a alguien")
 :::
 
 El osu!supporter se puede regalar a otro jugador introduciendo su usuario bajo la tarjeta de usuario o haciendo clic en `Regalar etiqueta de supporter` en su página de perfil. Se podrán añadir más jugadores al regresar a la página de la tienda o yendo al perfil de otro usuario y repetiendo el proceso.
