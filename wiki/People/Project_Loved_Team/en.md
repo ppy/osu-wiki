@@ -26,6 +26,13 @@ Some team additions may be added manually on a case-by-case basis in order to fi
 
 The criteria for joining the team vastly differs from role to role, but proficiency and community presence is always sought after.
 
+## Benefits
+
+Project Loved Team members are granted the following benefits:
+
+- **Tenure badge**: A [profile badge](/wiki/Community/Profile_badge) that displays the number of years they have been in the LVD, ranging from 1 to 6.
+  ![1 year LVD badge](https://assets.ppy.sh/profile-badges/loved1y.png "1 year LVD badge") ![2 year LVD badge](https://assets.ppy.sh/profile-badges/loved2y.png "2 year LVD badge") ![3 year LVD badge](https://assets.ppy.sh/profile-badges/loved3y.png "3 year LVD badge") ![4 year LVD badge](https://assets.ppy.sh/profile-badges/loved4y.png "4 year LVD badge") ![5 year LVD badge](https://assets.ppy.sh/profile-badges/loved5y.png "5 year LVD badge") ![6 year LVD badge](https://assets.ppy.sh/profile-badges/loved6y.png "6 year LVD badge")
+
 ## Trivia
 
 - ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) created the original team of captains in September 2017 along with the [Captain's Pick](/wiki/History_of_osu!/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)) system that was later renamed to Project Loved. Until late 2019, he oversaw and managed the whole project.
