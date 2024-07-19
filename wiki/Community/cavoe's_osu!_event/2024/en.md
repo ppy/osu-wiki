@@ -6,7 +6,7 @@ tags:
 
 # cavoe's osu! event 2024
 
-<!-- banner pending -->
+![COE 2024 banner](img/banner.jpg)
 
 **cavoe's osu! event 2024** (***COE 2024***) is an osu! convention hosted at **Brabanthallen in 's-Hertogenbosch (Den Bosch), Netherlands**. It is the sixth instalment of cavoe's osu! event.
 
