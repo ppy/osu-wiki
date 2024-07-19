@@ -41,6 +41,8 @@ COE is a very social event and the perfect time to meet with osu! friends and ma
 
 Just want to chill out? There will be plenty of community panels, whether it's [mangomizer](https://osu.ppy.sh/users/1893718)'s pub quiz, [Nytro](https://osu.ppy.sh/users/11327918)'s mapping panel, the storyboarding panel, or challenges such as [Bubbleman](https://osu.ppy.sh/users/5182050)'s pp farming race, along with Yuki Aim, Wooting and [wooz](https://osu.ppy.sh/users/6888206)'s arcade booths that you can leisurely peruse.
 
+You can find the schedule of all activities on the [website](https://cavoeboy.com/activities) or the [wiki page](/wiki/Community/cavoe's_osu!_event/2024).
+
 ---
 
 No matter from which side of the community you are, COE has something for everyone. It's a common ground where you can meet up with all of your osu! friends, make new friendships and share your passion for the game in its fullest. Be sure to snag yourself a ticket now and make yourself some lifelong memories.
