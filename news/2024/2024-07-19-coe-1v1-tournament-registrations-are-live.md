@@ -45,6 +45,6 @@ You can find the schedule of all activities on the [website](https://cavoeboy.co
 
 ---
 
-No matter from which side of the community you are, COE has something for everyone. It's a common ground where you can meet up with all of your osu! friends, make new friendships and share your passion for the game in its fullest. Be sure to snag yourself a ticket now and make yourself some lifelong memories.
+No matter which side of the community you are from, COE has something for everyone. It's a common ground where you can meet up with all of your osu! friends, make new friendships and share your passion for the game in its fullest. Be sure to snag yourself a ticket now and make yourself some lifelong memories.
 
 —0x84f
