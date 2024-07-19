@@ -1,4 +1,5 @@
 ---
+outdated_translation: true
 tags:
   - captain
   - captains
