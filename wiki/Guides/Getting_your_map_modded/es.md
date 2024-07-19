@@ -22,7 +22,7 @@ Publicar tu beatmap en las colas de modding es la forma más eficaz y más usada
 6. Escribe en la casilla `Nueva respuesta` el tipo de solicitud que te gustaría realizar, junto con un enlace a tu beatmap y cualquier otra información que el modder te haya pedido.
 7. Haz clic en `Publicar` cuando hayas terminado.
 
-Por lo general, es aceptable publicar en varias colas de modding a la vez, así que no dudes en repetir este proceso si es necesario, o si quieres aumentar tus posibilidades de recibir un mod. Sin embargo, ten en cuenta que el hecho de que hayas publicado en una cola de modding no significa que el modder esté obligado a modear tu beatmap; lo modearán si así lo desean.
+Por lo general, es aceptable publicar en varias colas de modding a la vez, así que no dudes en repetir este proceso si es necesario, o si quieres aumentar tus posibilidades de recibir un mod. Sin embargo, ten en cuenta que el hecho de que hayas publicado en una cola de modding no significa que el modder esté obligado a modear tu beatmap; lo modeará si así lo desea.
 
 Vale la pena señalar que debes evitar publicar en las colas de modding de los Beatmap Nominators hasta que tu mapa esté en un nivel casi clasificable (a menos que hayan especificado que están buscando mappers novatos), ya que de lo contrario lo más probable es que ignoren tus solicitudes. Es mucho mejor que encuentres modders normales para que modeen tus beatmaps cuando todavía estás aprendiendo a crear beatmaps.
 
@@ -36,7 +36,7 @@ Vale la pena señalar que debes evitar publicar en las colas de modding de los B
 
 ## Preguntar directamente a otros usuarios
 
-Preguntar directamente a otros usuarios también es una excelente manera de obtener mods. Generalmente, si un modder no tiene una cola de modding, lo más probable es que tenga su información de modding en la sección «¡yo!» de su perfil. Después de leer la información que tienen allí, puedes enviarles un mensaje en el chat de osu! con tu solicitud. Aunque estos modders son más difíciles de encontrar, todavía hay algunos por ahí, muchos de los cuales tienen colas privadas fuera de la plataforma y tal.
+Preguntar directamente a otros usuarios también es una excelente manera de obtener mods. Generalmente, si un modder no tiene una cola de modding, lo más probable es que tenga su información de modding en la sección «¡yo!» de su perfil. Después de leer la información que tiene allí, puedes enviarle un mensaje en el chat de osu! con tu solicitud. Aunque estos modders son más difíciles de encontrar, todavía hay algunos por ahí, muchos de los cuales tienen colas privadas fuera de la plataforma y tal.
 
 Todos los Beatmap Nominators tienen su información de modding en sus páginas «¡yo!», independientemente de si tienen una cola de modding o no. Es casi necesario pedirle esto directamente a los Beatmap Nominators para conseguir que modeen y/o nominen tu beatmap.
 
