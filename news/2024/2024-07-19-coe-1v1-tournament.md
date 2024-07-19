@@ -6,7 +6,7 @@ date: 2024-07-19 20:00:00 +0000
 
 It has never been a better time to showcase your osu! skills in a LAN than the annual COE 1v1 tournament!
 
-![](/wiki/shared/news/2024-07-19-coe-x-yukiaim-1v1-tournament/banner.jpg)
+![](/wiki/shared/news/2024-07-19-coe-1v1-tournament/banner.jpg)
 
 If you are somehow not familiar with COE or its 1v1 tournament, [COE](/wiki/Community/cavoe's_osu!_event) is osu!'s largest community-hosted event, organised by [Meyer](https://osu.ppy.sh/users/5452367) and [cavoeboy](https://osu.ppy.sh/users/7361815) from July 30th up until August 4th. Along with the event itself, for the 3rd year in a row the largest LAN tournament of the year will be held there as well, with hundreds of live viewers at the event and even more online on [Twitch](https://www.twitch.tv/COEvent)!
 
