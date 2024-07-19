@@ -38,7 +38,7 @@ Klien turnamen osu! dapat disesuaikan dengan cara menempatkan bendera, ikon mod,
 
 ### Bendera
 
-Secara bawaan, klien turnamen osu! menyediakan aset bendera untuk berbagai negara di seluruh dunia secara _built-in_. Aset ini dapat dipanggil dengan memasukkan kode negara [ISO 3166 Alpha-2](https://www.iso.org/iso-3166-country-codes.html) yang sesuai pada Team Editor.
+Secara bawaan, klien turnamen osu! menyediakan aset bendera untuk berbagai negara di seluruh dunia secara *built-in*. Aset ini dapat dipanggil dengan memasukkan kode negara [ISO 3166 Alpha-2](https://www.iso.org/iso-3166-country-codes.html) yang sesuai pada Team Editor.
 
 Untuk menampilkan bendera milik sendiri, gunakan berkas berupa `.jpg` atau `.png`. Gambar bendera disarankan untuk berukuran setidaknya 140x94 dengan aspek rasio yang serupa untuk hasil yang terbaik.
 
@@ -64,13 +64,13 @@ Berkas video yang digunakan harus memenuhi rangkaian spesifikasi berikut:
 
 Berkas video ini harus disimpan pada folder `<your-tournament>/Videos` dan harus dinamai dengan nama yang spesifik agar dapat berfungsi sebagaimana mestinya.
 
-| Adegan    | Berkas                        |
-| :-------- | :---------------------------- |
-| Schedule  | `schedule`                    |
-| TeamIntro | `teamintro`                   |
-| Seeding   | `seeding`                     |
-| MapPool   | `mappool`                     |
-| Gameplay  | `gameplay`                    |
-| Win       | `teamwin-red`, `teamwin-blue` |
-| Drawings  | `main`                        |
-| Showcase  | `showcase`                    |
+| Adegan | Berkas |
+| :-- | :-- |
+| Schedule | `schedule` |
+| TeamIntro | `teamintro` |
+| Seeding | `seeding` |
+| MapPool | `mappool` |
+| Gameplay | `gameplay` |
+| Win | `teamwin-red`, `teamwin-blue` |
+| Drawings | `main` |
+| Showcase | `showcase` |
