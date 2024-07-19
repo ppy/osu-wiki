@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "COE X YUKI AIM 2024 1v1 Tournament: Registrations are live!"
+title: "COE 1v1 Tournament: Registrations Are Live!"
 date: 2024-07-19 20:00:00 +0000
 ---
 
-It has never been a better time to showcase your osu! skills on LAN than the annual COE 1v1 tournament!
+It has never been a better time to showcase your osu! skills in a LAN than the annual COE 1v1 tournament!
 
 ![](/wiki/shared/news/2024-07-19-coe-x-yukiaim-1v1-tournament/banner.jpg)
 
