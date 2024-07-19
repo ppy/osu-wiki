@@ -21,6 +21,7 @@ Les Centurions sont des utilisateurs qui ont atteint la prestigieuse étape de c
 | ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) | [02/11/2015](https://osu.ppy.sh/beatmapsets/329829) | [31/10/2019](https://osu.ppy.sh/beatmapsets/1009824) | [#1](https://osu.ppy.sh/beatmaps/packs/TM14) |
 | ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363) | [25/10/2007](https://osu.ppy.sh/beatmapsets/122) | [04/08/2010](https://osu.ppy.sh/beatmapsets/17885) |  |
 | ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | [23/10/2017](https://osu.ppy.sh/beatmapsets/659371) | [09/07/2022](https://osu.ppy.sh/beatmapsets/1738133) |  |
+| ::{ flag=AR }:: [gaston_2199](https://osu.ppy.sh/users/5938161) | [25/12/2016](https://osu.ppy.sh/beatmapsets/519474) | [17/07/2024](https://osu.ppy.sh/beatmapsets/1667712) | [#1](https://osu.ppy.sh/beatmaps/packs/TM20) |
 | ::{ flag=GR }:: [Genjuro](https://osu.ppy.sh/users/3196091) | [10/04/2019](https://osu.ppy.sh/beatmapsets/921130) | [27/08/2022](https://osu.ppy.sh/beatmapsets/1797642) | [#1](https://osu.ppy.sh/beatmaps/packs/TM1) |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [09/03/2020](https://osu.ppy.sh/beatmapsets/1112834) | [28/08/2023](https://osu.ppy.sh/beatmapsets/2031892) | [#1](https://osu.ppy.sh/beatmaps/packs/TM16) |
 | ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | [13/06/2013](https://osu.ppy.sh/beatmapsets/64564) | [08/02/2024](https://osu.ppy.sh/beatmapsets/2105591#osu/4418008) | [#1](https://osu.ppy.sh/beatmaps/packs/TM19) |
@@ -38,4 +39,4 @@ Les Centurions sont des utilisateurs qui ont atteint la prestigieuse étape de c
 ## Le saviez-vous ?
 
 - Le premier utilisateur à avoir atteint 100 beatmaps classés est ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363), le 4 août 2010.
-- Parmi tous les Centurions, il faut environ **3,9 ans**<!-- use "3 ans et demi" instead of "3,5 ans" --> (environ 1442 jours) pour classer 100 beatmaps en moyenne.
+- Parmi tous les Centurions, il faut environ **4,1 ans**<!-- use "3 ans et demi" instead of "3,5 ans" --> (environ 1508 jours) pour classer 100 beatmaps en moyenne.
