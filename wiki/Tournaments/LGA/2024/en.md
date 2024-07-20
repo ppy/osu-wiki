@@ -30,9 +30,9 @@ The minimum prize pool will be revealed after the Qualifier stage.
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, %50 of the prize pool |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | %30 of the prize pool |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | %20 of the prize pool |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, 50% of the prize pool |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool |
 
 ## Organisation
 
@@ -392,4 +392,4 @@ The exact formula that will be used for all players (and for each map) is `Final
 [^winners-bracket]: Winners bracket match
 [^potential-match]: Potential match — final matchup depends on the results of the preceding matches
 [^qualifiers-seeding]: Used as the main seeding method
-[^qualifiers-tiebreaker]: Used as a tiebreaker when two players have the same MAX% sum
+[^qualifiers-tiebreaker]: Used as a tiebreaker when two players have the same MAX sum
