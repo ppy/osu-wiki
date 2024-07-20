@@ -33,6 +33,12 @@ The registrations for the tournament are live now! As per usual, the COE 1v1 LAN
 
 The total prize pool of €3,000 will be divided among the top 3 players along with physical prizes.
 
+### How do I register?
+
+[Join the tournament's Discord](https://discord.com/invite/zJ7e6cTVFh) and simply schedule a qualifier lobby, following the instructions in the `#announcements` channel. These are entirely automated and anyone is free to participate until **July 28, 23:59 UTC**, even if you're not attending COE. (Entrants without a ticket will be removed when qualifiers end).
+
+The top 16 from qualifiers will be invited to play the bracket stage in-person at COE.
+
 ### Other activities at COE
 
 If you still want to compete, but did not make the top 16, you might be interested in the community-hosted [YokesPai's Extravagant Accuracy Sightread Tournament](https://osu.ppy.sh/community/forums/topics/1944735), focusing on reading and reading-related gimmicks!
