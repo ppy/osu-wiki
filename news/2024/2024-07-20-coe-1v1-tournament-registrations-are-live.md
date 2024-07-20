@@ -35,7 +35,7 @@ The total prize pool of €3,000 will be divided among the top 3 players along w
 
 ### How do I register?
 
-[Join the tournament's Discord](https://discord.com/invite/zJ7e6cTVFh) and simply schedule a qualifier lobby, following the instructions in the `#announcements` channel. These are entirely automated and anyone is free to participate until **July 28, 23:59 UTC**, even if you're not attending COE. (Entrants without a ticket will be removed when qualifiers end).
+[Join the tournament's Discord server](https://discord.com/invite/zJ7e6cTVFh) and simply schedule a qualifier lobby, following the instructions in the `#announcements` channel. These are entirely automated and anyone is free to participate until **July 28, 23:59 UTC**, even if you're not attending COE. (Entrants without a ticket will be removed when qualifiers end).
 
 The top 16 from qualifiers will be invited to play the bracket stage in-person at COE.
 
