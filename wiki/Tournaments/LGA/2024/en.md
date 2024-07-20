@@ -30,9 +30,9 @@ The minimum prize pool will be revealed after the Qualifier stage.
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, %50 of the prize pool |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | %30 of the prize pool |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | %20 of the prize pool |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, 50% of the prize pool |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool |
 
 ## Organisation
 
@@ -332,7 +332,7 @@ The exact formula that will be used for all players (and for each map) is `Final
      - The draft order will be as follows:
        1. The first player (A) will ban one beatmap, followed by the second player (B) also banning a beatmap: AB
        2. Players will pick two beatmaps respecting the following order: BAAB
-       3. Both players will ban two maps, as such: ABBA
+       3. Both players will ban two maps, as such: BAAB
        4. The last beatmap remaining in the pool will be used as the 5th pick for the match.
    - For the second weekend, The 8 remaining players from the previous phase will then then play another set of matches, after which the remaining 4 players will be placed on a double-elimination bracket.
      - All matches in this phase will utilise the same mappool, except for the Losers' Bracket Finals and Grand Finals, where a new [osu! original](/wiki/osu!_originals) will be introduced into the pool. The player with the highest cumulative score across the 7 picks wins.
@@ -392,4 +392,4 @@ The exact formula that will be used for all players (and for each map) is `Final
 [^winners-bracket]: Winners bracket match
 [^potential-match]: Potential match — final matchup depends on the results of the preceding matches
 [^qualifiers-seeding]: Used as the main seeding method
-[^qualifiers-tiebreaker]: Used as a tiebreaker when two players have the same MAX% sum
+[^qualifiers-tiebreaker]: Used as a tiebreaker when two players have the same MAX sum
