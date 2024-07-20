@@ -332,7 +332,7 @@ The exact formula that will be used for all players (and for each map) is `Final
      - The draft order will be as follows:
        1. The first player (A) will ban one beatmap, followed by the second player (B) also banning a beatmap: AB
        2. Players will pick two beatmaps respecting the following order: BAAB
-       3. Both players will ban two maps, as such: ABBA
+       3. Both players will ban two maps, as such: BAAB
        4. The last beatmap remaining in the pool will be used as the 5th pick for the match.
    - For the second weekend, The 8 remaining players from the previous phase will then then play another set of matches, after which the remaining 4 players will be placed on a double-elimination bracket.
      - All matches in this phase will utilise the same mappool, except for the Losers' Bracket Finals and Grand Finals, where a new [osu! original](/wiki/osu!_originals) will be introduced into the pool. The player with the highest cumulative score across the 7 picks wins.
