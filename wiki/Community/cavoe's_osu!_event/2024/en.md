@@ -46,6 +46,10 @@ tags:
 - [YouTube channel](https://www.youtube.com/@coevent)
 - [Twitch channel](https://www.twitch.tv/coevent)
 
+## Venue map
+
+![COE 2024 map](img/map.png)
+
 ## Organisation
 
 COE 2024 is run by various community members and partnered organisations.
