@@ -14,18 +14,17 @@ The Austrian osu! community is excited to announce their presence at two upcomin
 
 ![](/wiki/shared/news/2024-07-23-osu-austria-conventions-2024/aninite.png)
 
-Join us at the biggest Anime and Manga convention in Austria, [Aninite](https://www.aninite.at/en/) has over 25.000 yearly visitors, meet our community on the **9th to 11th of August 2024** at our osu! booth. In coorperation with [Friendly Fire](https://friendlyfireesports.com/), we organized 12 PCs for you to play on and show what you are made of.
-During this time, we will host a tournament, **Battle Royale** style. Register live on the spot and take home the trophy!
+Join us at the biggest Anime and Manga convention in Austria, [AniNite](https://www.aninite.at/en/), which has over 25,000 yearly visitors. Meet our community from **August 9th to 11th, 2024** at our osu! booth. In cooperation with [Friendly Fire](https://friendlyfireesports.com/), we have organized 12 PCs for you to play on and show everyone what you're made of.
+
+During this time, a **battle royale-styled** osu! tournament will be hosted. Make sure to register during the event and take home the trophy!
 
 ## YuniCon 2024
 
 ![](/wiki/shared/news/2024-07-23-osu-austria-conventions-2024/yunicon.png)
 
-Next up, we're setting up an osu! booth at [Yunicon 2024](https://www.yunicon.at/en/).
-On all 4 days of the convention, you'll be able to meet our community, ask questions and play on 10 pre-organized computers.
-Computers are being provided by [Streamhouse](https://streamhouse.at/).
+Next up, we're setting up an osu! booth at [Yunicon 2024](https://www.yunicon.at/en/). During all 4 days of the convention, you'll be able to meet our community, ask questions and play on 10 pre-organized computers provided by [Streamhouse](https://streamhouse.at/)!
 
-On top of that, there will also be the biggest osu! 1v1 LAN tournament Austria has ever seen! The top 2 players will fight it out for real life prizes and a profile badge on the main stage of the event.
+On top of that, you'll also be able to witness the biggest osu! 1v1 LAN tournament Austria has ever seen! The top players of the tournament will ferociously duke it out for some handsome physical prizes and a bespoke profile badge on the main stage of the event.
 Top 16 players won't go home empty-handed as they will receive some nice goodies as well!
 
 Join our [osu! Austrian Tournaments discord server](https://discord.gg/vRbC3bw) to not miss out on any updates regarding this tournament.
@@ -46,6 +45,6 @@ Join our [osu! Austrian Tournaments discord server](https://discord.gg/vRbC3bw) 
 
 For all the latest news on the happenings throughout the event, join the [osu! Austria meetups & events Discord server](https://discord.gg/dNFuHNmZF4) or follow [@osuaustria on Twitter](https://twitter.com/osuaustria)
 
-We can’t wait to see you there!
+We can't wait to see you there!
 
 —Floflorian, std & Yasuho
