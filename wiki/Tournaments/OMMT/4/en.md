@@ -30,7 +30,7 @@ The **osu!mania Malaysia Tournament 4** (***OMMT 4***) is a Malaysian team-based
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 2 months of osu!supporter tag, user profile banner |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 2 months of osu!supporter tag, user profile banner |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag, user profile banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag, user profile banner |
 
@@ -83,7 +83,7 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 | **how to train your dragon** | ::{ flag=MY }:: **[Evirir](https://osu.ppy.sh/users/8126553)**, ::{ flag=BH }:: [Unitori-](https://osu.ppy.sh/users/15772814) |
 | **i like cookie** | ::{ flag=MY }:: **[\[MY\] VASD](https://osu.ppy.sh/users/29929002)**, ::{ flag=ID }:: [Fr05tyGD](https://osu.ppy.sh/users/14230684) |
 | **ImForcedToJoin** | ::{ flag=MY }:: **[Quzzuk](https://osu.ppy.sh/users/34741940)**, ::{ flag=US }:: [StarThe2nd](https://osu.ppy.sh/users/34995091) |
-| **kibitzfanboys** | ::{ flag=MY }:: **[SMALLWAI](https://osu.ppy.sh/users/26804593)**, ::{ flag=VN }:: [Walker37712](https://osu.ppy.sh/users/30644569) |
+| **kibitzfanboys** | ::{ flag=MY }:: **[SMALLWAI](https://osu.ppy.sh/users/26804593)**, ::{ flag=VN }:: [--Glitchy--](https://osu.ppy.sh/users/30644569) |
 | **leon's waifuus!!** | ::{ flag=MY }:: **[JayLye](https://osu.ppy.sh/users/14892447)**, ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805) |
 | **Los Pollos Hermanos** | ::{ flag=MY }:: **[XxTheJKxX](https://osu.ppy.sh/users/9048451)**, ::{ flag=US }:: [Mystifiedl](https://osu.ppy.sh/users/9772339) |
 | **manjimaji** | ::{ flag=MY }:: **[Lau william](https://osu.ppy.sh/users/28861900)**, ::{ flag=US }:: [Pakkoo](https://osu.ppy.sh/users/23361135) |
@@ -104,6 +104,29 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 | **Yo, What Team Name** | ::{ flag=MY }:: **[RhythmBoii](https://osu.ppy.sh/users/18484917)**, ::{ flag=US }:: [ElzeFanBoy](https://osu.ppy.sh/users/15513303) |
 
 ## Mappools
+
+### Round of 16
+
+**[Download the mappack here (70 MB)](https://cdn.discordapp.com/attachments/1257367722136703087/1262440243164876902/bomb16.zip?ex=66974358&is=6695f1d8&hm=a3a1f2b1c9a6c95087a670093e210a5bab23026440ad6196f5df35487281bed1&)**
+
+- RC
+  1. [\[Kyoro\] - Tama Funkot (\[GS\]hina) \[Tamate (OMMT Edit)\]](https://osu.ppy.sh/beatmapsets/2214750#mania/4692734)
+  2. [Silentroom - XHRONOXAPSULE (Onlinee) \[Irone OSU's EXPEED (edit)\]](https://osu.ppy.sh/beatmapsets/2214777#mania/4692779)
+  3. [Camellia - Abyss of Frobenioid (Cut Ver.) (Selitation) \[Deep Sea\]](https://osu.ppy.sh/beatmapsets/2137623#mania/4498631)
+  4. [syatten - aliceblue (Radio Edit) (Mipha-) \[miphather\]](https://osu.ppy.sh/beatmapsets/1461974#mania/3195261)
+  5. [SNKS - Chaotic Code (Onlinee) \[Beatmap's Staring (edit)\]](https://osu.ppy.sh/beatmapsets/2214778#mania/4692780)
+- LN
+  1. [Nanahoshi Kangengakudan - Parasol Cider (fvrex) \[Stage 5: 14th of September 2005\]](https://osu.ppy.sh/beatmapsets/2084407#mania/4366089)
+  2. [Naomi Oozora, Nozomi Yamamoto, Ruriko Aoki - Angel Dream (YuEast 2018) \[Heaven \~ Cute Vocal '23 edit\]](https://osu.ppy.sh/beatmapsets/2105456#mania/4417766)
+  3. [Nhato - Miss You (Abraxos) \[I\]](https://osu.ppy.sh/beatmapsets/1268949#mania/2637067)
+- HB
+  1. [Earth, Wind & Fire - September (yomoha remix) (epic man 2) \[Insane\]](https://osu.ppy.sh/beatmapsets/1838172#mania/3774371)
+  2. [James Landino - Anti Hero (Lott) \[Collab Defiance\]](https://osu.ppy.sh/beatmapsets/1974129#mania/4096930)
+- SV
+  1. [Lapix - Nothing But Theory (H1Pur) \[Edit\]](https://osu.ppy.sh/beatmapsets/1422643#mania/4690519)
+  2. [Borgore & Sikdope - Unicorn Zombie Apocalypse (Xavi Fabregas Remix) (Cut Ver.) (Ainer) \[Invites Sent\]](https://osu.ppy.sh/beatmapsets/2123580#mania/4462867)
+- Tiebreaker
+  1. **[Laur - Chimi Moryo -Bakko- (remity\_) \[Chimera\]](https://osu.ppy.sh/beatmapsets/2214686#mania/4692605)**
 
 ### Round of 32
 
@@ -145,6 +168,39 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
   1. [awfuless meets Zekk - MATOI -phase L- (\[Andre\]) \[Stage 5: Kamui Senketsu\]](https://osu.ppy.sh/beatmapsets/2206995#mania/4673206)
 
 ## Match results
+
+### Round of 32
+
+Friday, 12 July 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **i like cookie** | **5** | 0 | Sleepless Duo | [#1](https://osu.ppy.sh/community/matches/114639634) |
+
+Saturday, 13 July 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Upscroll Gang** | **5** | 1 | Tidur | [#1](https://osu.ppy.sh/community/matches/114654706) |
+| **Epic Cat** | **5** | 1 | Anthena | [#1](https://osu.ppy.sh/community/matches/114655309) |
+| Team ferrets | 2 | **5** | **RealNoFake** | [#1](https://osu.ppy.sh/community/matches/114656030) |
+| **leon's waifuus!!** | **0** | -1 | The 5 Digits | *win by default* |
+| **Rice Noodles** | **0** | -1 | how to train your dragon | *win by default* |
+| **we love jacking** | **5** | 0 | kibitzfanboys | [#1](https://osu.ppy.sh/community/matches/114655624) |
+| **Digital Frogs** | **5** | 0 | Sengketa Blok Ambalat Incident \|\| TPT | [#1](https://osu.ppy.sh/community/matches/114657752) |
+
+Sunday, 14 July 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Yo, What Team Name** | **5** | 0 | Tyto | [#1](https://osu.ppy.sh/community/matches/114664151) |
+| **Re:Zuna** | **5** | 0 | Appley Leafy | [#1](https://osu.ppy.sh/community/matches/114665744) |
+| **duck is bird** | **5** | 0 | 3 DollarKeyboard | [#1](https://osu.ppy.sh/community/matches/114667986) |
+| **Canis Majoris: Sirius A and B** | **5** | 1 | F | [#1](https://osu.ppy.sh/community/matches/114667974) |
+| **Dark System** | **5** | 3 | Los Pollos Hermanos | [#1](https://osu.ppy.sh/community/matches/114667969) |
+| **Alpha Dan Virgins** | **5** | 0 | Almost disabled | [#1](https://osu.ppy.sh/community/matches/114668695) |
+| **Gon and LongGone** | **5** | 0 | ImForcedToJoin | [#1](https://osu.ppy.sh/community/matches/114668454) |
+| osake | 4 | **5** | **Overjoyed** | [#1](https://osu.ppy.sh/community/matches/114670140) |
 
 ### Qualifiers
 
