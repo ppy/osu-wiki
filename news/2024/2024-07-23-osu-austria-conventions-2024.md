@@ -24,10 +24,12 @@ During this time, a **battle royale-styled** osu! tournament will be hosted. Mak
 
 Next up, we're setting up an osu! booth at [Yunicon 2024](https://www.yunicon.at/en/). During all 4 days of the convention, you'll be able to meet our community, ask questions and play on 10 pre-organized computers provided by [Streamhouse](https://streamhouse.at/)!
 
-On top of that, you'll also be able to witness the biggest osu! 1v1 LAN tournament Austria has ever seen! The top players of the tournament will ferociously duke it out for some handsome physical prizes and a bespoke profile badge on the main stage of the event.
-Top 16 players won't go home empty-handed as they will receive some nice goodies as well!
+On top of that, you'll also be able to witness the biggest osu! single elimination bracket based 1v1 LAN tournament Austria has ever seen! 
+You'll be able to sign-up for the tournament online. Please join [our Discord server](https://discord.gg/dNFuHNmZF4), to get notified when sign-ups open.
+Qualifiers will be played out online as well, scheduling your lobby will also be handled over at our **Discord server**. After you qualified for the round of 16, **you're required to show up**. A no-show will automatically **eliminate** you from the tournament and open your spot for the next possible seed that is present at the event. Bring the peripherals you're comfortable with and prepare to bash your opponents! 
 
-Join our [osu! Austrian Tournaments discord server](https://discord.gg/vRbC3bw) to not miss out on any updates regarding this tournament.
+The top 2 players of the tournament will ferociously duke it out for some handsome physical prizes and a bespoke profile badge on the main stage of the event and top 16 players won't go home empty-handed as they will receive some nice goodies as well!
+
 
 ### Tournament schedule
 
@@ -43,7 +45,7 @@ Join our [osu! Austrian Tournaments discord server](https://discord.gg/vRbC3bw) 
 
 ---
 
-For all the latest news on the happenings throughout the event, join the [osu! Austria meetups & events Discord server](https://discord.gg/dNFuHNmZF4) or follow [@osuaustria on Twitter](https://twitter.com/osuaustria)
+For all the latest news on the happenings throughout the event, join the [osu! Austria meetups & events Discord server](https://discord.gg/dNFuHNmZF4) and follow [@osuaustria on Twitter](https://twitter.com/osuaustria)
 
 We can't wait to see you there!
 
