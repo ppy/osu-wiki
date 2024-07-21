@@ -14,7 +14,7 @@ The Austrian osu! community is excited to announce their presence at two upcomin
 
 ![](/wiki/shared/news/2024-07-23-osu-austria-conventions-2024/aninite.png)
 
-Join us at the biggest Anime and Manga convention in Austria, [AniNite](https://www.aninite.at/en/), which has over 25,000 yearly visitors. Meet our community from **August 9th to 11th, 2024** at our osu! booth. In cooperation with [Friendly Fire](https://friendlyfireesports.com/), we have organized 12 PCs for you to play on and show everyone what you're made of.
+Join us at the biggest Anime and Manga convention in Austria, [AniNite](https://www.aninite.at/en/), which has over 25,000 yearly visitors. Meet our community from **August 9th to 11th, 2024** at our osu! booth. In cooperation with [Friendly Fire](https://friendlyfireesports.com/), we have organised 12 PCs for you to play on and show everyone what you're made of.
 
 During this time, a **battle royale-styled** osu! tournament will be hosted. Make sure to register during the event and take home the trophy!
 
@@ -22,7 +22,7 @@ During this time, a **battle royale-styled** osu! tournament will be hosted. Mak
 
 ![](/wiki/shared/news/2024-07-23-osu-austria-conventions-2024/yunicon.png)
 
-Next up, we're setting up an osu! booth at [Yunicon 2024](https://www.yunicon.at/en/). During all 4 days of the convention, you'll be able to meet our community, ask questions and play on 10 pre-organized computers provided by [Streamhouse](https://streamhouse.at/)!
+Next up, we're setting up an osu! booth at [Yunicon 2024](https://www.yunicon.at/en/). During all 4 days of the convention, you'll be able to meet our community, ask questions and play on 10 pre-organised computers provided by [Streamhouse](https://streamhouse.at/)!
 
 On top of that, you'll also be able to witness the biggest osu! single elimination bracket based 1v1 LAN tournament Austria has ever seen! 
 You'll be able to sign-up for the tournament online. Please join [our Discord server](https://discord.gg/dNFuHNmZF4), to get notified when sign-ups open.
