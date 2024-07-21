@@ -1,3 +1,7 @@
+---
+no_native_review_since: 15be762b2670ace44c4fe2804166a095cc984f81 The-Last-Cookie
+---
+
 # Twitter
 
 osu! hat mehrere Twitter-Konten, die alle eine bestimmte Funktion erfüllen. Auf den meisten ist nur wenig los, aber sie helfen dir dabei, über osu! informiert zu bleiben.
