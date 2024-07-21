@@ -18,19 +18,19 @@ Numerous players have held rank #1 in each game mode under different ranking sys
 
 *Main page: [osu!](osu!)*
 
-As of July 19, 2021, on the [osu! performance rankings](https://osu.ppy.sh/rankings/osu/performance) the rank #1 player is ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902/osu).
+As of July 21, 2024, on the [osu! performance rankings](https://osu.ppy.sh/rankings/osu/performance) the rank #1 player is ::{ flag=GB }:: [mrekk](https://osu.ppy.sh/users/9269034/osu).
 
 ## ![][osu!taiko] osu!taiko
 
 <!-- TODO: Add ranking history page similar to osu! -->
 
-As of October 9, 2023, on the [osu!taiko performance rankings](https://osu.ppy.sh/rankings/taiko/performance) the rank #1 player is ::{ flag=JP }:: [Majimanjiwwwww](https://osu.ppy.sh/users/12337864/taiko).
+As of June 19, 2024, on the [osu!taiko performance rankings](https://osu.ppy.sh/rankings/taiko/performance) the rank #1 player is ::{ flag=JP }:: [shinchikuhome](https://osu.ppy.sh/users/3174184/taiko).
 
 ## ![][osu!catch] osu!catch
 
 <!-- TODO: Add ranking history page similar to osu! -->
 
-As of June 7, 2021, on the [osu!catch performance rankings](https://osu.ppy.sh/rankings/fruits/performance) the rank #1 player is ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549/fruits).
+As of July 21, 2021, on the [osu!catch performance rankings](https://osu.ppy.sh/rankings/fruits/performance) the rank #1 player is ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626/fruits).
 
 ## ![][osu!mania] osu!mania
 
