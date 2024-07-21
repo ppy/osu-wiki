@@ -239,7 +239,7 @@ Sprite,Pass,Centre,"Sample.png",320,240
 _C,0,58810,59810,0,0,0,255,255,255
 ```
 
-要让对象显示为黄色 (`#CCCC00`)：
+要让对象显示为黄色 (`#cccc00`)：
 
 ```
 Sprite,Pass,Centre,"Sample.png",320,240
