@@ -1,7 +1,7 @@
 ---
-Layout: post
+layout: post
 title: osu! Austria @ Conventions 2024
-Date: 2024-07-23 12:00:00 +0000
+date: 2024-07-23 12:00:00 +0000
 ---
 
 The osu! Austria community proudly presents its appearance at not one, but two upcoming conventions in 2024!
