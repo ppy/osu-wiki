@@ -287,7 +287,6 @@ While ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) was assumed to be the 
 | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | *2021-04-08* | 2024-07-21 | [\[1\]](https://web.archive.org/web/20210408052501/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mrekk/) [\[3\]](https://old.reddit.com/r/osugame/comments/mmkaag/mrekk_is_now_1_surpassing_whitecat/) [\[4\]](https://osu.ppy.sh/scores/osu/3584256449) [\[5\]](https://www.reddit.com/r/osugame/comments/mmkajm/mrekk_colorsslash_colors_power_ni_omakasero/) [\[6\]](https://www.youtube.com/watch?v=xQLVNqfqaOE) |
 | ::{ flag=GB }:: [9MlCE](https://osu.ppy.sh/users/9269034) | 2024-07-21 | Present | [\[1\]](https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://osu.ppy.sh/users/9269034) [\[3\]](https://ameobea.me/osutrack/user/9MlCE/) [\[4\]](https://old.reddit.com/r/osugame/comments/1e8yf1a/akolibed_is_now_1_passing_mrekk/) [\[5\]](https://osu.ppy.sh/scores/3198116312) [\[6\]](https://old.reddit.com/r/osugame/comments/1e8yf30/9mlce_akolibed_xi_over_the_top_expert_tynamo_1035/) |
 
-
 ## Number of reigns
 
 The following is a list of the total number of times a player has reached the rank #1 spot in their playtime (as of 3 June 2021).
