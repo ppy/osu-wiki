@@ -23,6 +23,7 @@ La [Pagina di Gruppo del Team di Supporto](https://osu.ppy.sh/groups/22) ne elen
 
 | Nome | Lingue |
 | :-- | :-- |
+| ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Filippino |

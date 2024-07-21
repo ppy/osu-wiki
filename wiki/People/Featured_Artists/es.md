@@ -68,7 +68,7 @@ La [página de grupo de los artistas destacados](https://osu.ppy.sh/groups/35) e
 | ::{ flag=DE }:: [Darkney](https://osu.ppy.sh/users/14700596) | [Darkney](https://osu.ppy.sh/beatmaps/artists/290) |
 | ::{ flag=US }:: [debisco](https://osu.ppy.sh/users/34345683) | [DeBisco](https://osu.ppy.sh/beatmaps/artists/422) |
 | ::{ flag=JP }:: [DJ Raisei](https://osu.ppy.sh/users/9892920) | [DJ Raisei](https://osu.ppy.sh/beatmaps/artists/204) |
-| ::{ flag=GB } :: [Doomsday](https://osu.ppy.sh/users/18983) | [Doomsday](https://osu.ppy.sh/beatmaps/artists/425) |
+| ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) | [Doomsday](https://osu.ppy.sh/beatmaps/artists/425) |
 | ::{ flag=KR }:: [Down](https://osu.ppy.sh/users/4694602) | [Down](https://osu.ppy.sh/beatmaps/artists/350) |
 | ::{ flag=US }:: [erikmcclure](https://osu.ppy.sh/users/19898921) | [Erik McClure](https://osu.ppy.sh/beatmaps/artists/125) |
 | ::{ flag=CA }:: [exyl_sounds](https://osu.ppy.sh/users/16759928) | [Exyl](https://osu.ppy.sh/beatmaps/artists/285) |

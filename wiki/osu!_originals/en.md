@@ -506,10 +506,13 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 
 | Links | FA | Song | Beatmap | Notes |
 | --: | :-: | :-- | :-: | :-- |
+|  |  | ANTITY - He asked me if I exercise and I said I play Wii Sports Resort. | [#1](https://osu.ppy.sh/beatmapsets/2214729) | Grand Finals FM1 |
 |  |  | kiyosumi - memories from yesterday | [#1](https://osu.ppy.sh/beatmapsets/2207033) | Semifinals NM7 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/krimek/coeval-era "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=O6bHQmA23v4 "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://krimek.bandcamp.com/track/coeval-era "Bandcamp") |  | Krimek - Coeval Era[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2214965) | Grand Finals tiebreaker |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/lusumimusic/vitiosum-labyrinthum "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=zSJYwxfi0cw "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://lusumimusic.bandcamp.com/track/vitiosum-labyrinthum "Bandcamp") |  | Lusumi - Vitiosum Labyrinthum | [#1](https://osu.ppy.sh/beatmapsets/2196096) | Quarterfinals NM4 (5k division) |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/nagiha/septem-deuce "SoundCloud") |  | nagiha - septem deuce | [#1](https://osu.ppy.sh/beatmapsets/2210658) | Finals NM7 |
 |  |  | onumi - ZERO-SEVEN[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2206892) | Semifinals NM4 |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=AP6Tf-qMkF4 "YouTube") |  | SAMString - Apricity[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2214636) | Grand Finals HR3 |
 
 #### ![](/wiki/shared/mode/osu.png) Duo Cup: Korea 2022
 
@@ -570,6 +573,17 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | Links | FA | Song | Beatmap | Notes |
 | --: | :-: | :-- | :-: | :-- |
 | [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/6e9favyeV6o8wVI72F5yNB "Spotify") |  | Flamme Du Savoir & Rayes Music - Tabula Rasa | [#1](https://osu.ppy.sh/beatmapsets/1994973) | Finals tiebreaker |
+
+#### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/taiko.png) Moscow osu! Event 2024
+
+| Links | FA | Song | Beatmap | Notes |
+| --: | :-: | :-- | :-: | :-- |
+|  |  | cygnus - Moon Atomizer[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2214952) | osu! DT2 |
+|  |  | Kola Kid - twilight[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2214946) | osu! HD2 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/modlessflash/of-sun-and-moon-eternal-dance "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=FYF21hqsI7Y "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://modlessflash.bandcamp.com/track/of-sun-and-moon-eternal-dance "Bandcamp") |  | modlessflash - Of Sun and Moon Eternal Dance | [#1](https://osu.ppy.sh/beatmapsets/2214919) | osu! HR2 |
+| [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://kageminori.bandcamp.com/track/bubble-moe-2024 "Bandcamp") |  | STAYC - Bubble (Kageminori Remix) | [#1](https://osu.ppy.sh/beatmapsets/2214909) | osu!taiko HD1 |
+|  |  | tieff - Celestial Graveyard[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2214953) | osu! tiebreaker |
+|  |  | unfeeling - rebirth from the abyss | [#1](https://osu.ppy.sh/beatmapsets/2214911) | osu! NM5 |
 
 #### ![](/wiki/shared/mode/osu.png) Nordic Summer Showdown
 
@@ -632,17 +646,25 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/user-452089122/mirage "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=gehSVIOFzhY "YouTube") |  | Anfini - Mirage | [#1](https://osu.ppy.sh/beatmapsets/2210921#osu/4683342) | Semifinals FM1 |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=6N1mquCQyLQ "YouTube") |  | Ardolf - Shattered Vows[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2199395) | Round of 32 tiebreaker |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/blobdash/bleed "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=Y6Fi-rLNdBU "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://blobdash.bandcamp.com/track/bleed "Bandcamp") |  | blobdash - BLEED | [#1](https://osu.ppy.sh/beatmapsets/2207093) | Quarterfinals NM2 |
+|  |  | breakchild - E5E4E2 | [#1](https://osu.ppy.sh/beatmapsets/2215068) | Finals HR3 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/rhe4/necrotopia "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=yhg7x2DgtT8 "YouTube") |  | celtix - Necrotopia | [#1](https://osu.ppy.sh/beatmapsets/2207078) | Quarterfinals tiebreaker |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/cexiria/colossalraid "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=0sUGxhkGiT0 "YouTube") |  | cexiria - Colossal Raid | [#1](https://osu.ppy.sh/beatmapsets/2210471) | Semifinals NM4 |
+|  |  | Fu've - Einherjar | [#1](https://osu.ppy.sh/beatmapsets/2214967) | Finals NM4 |
+|  |  | Harada Hitomi - Overdrive (Yuuni's J-Core Bootleg)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2215023) | Finals NM1 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/kagetora0610/shattered-snow "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=Nn8bqiCznIw "YouTube") |  | Kagetora. - Shattered snow | [#1](https://osu.ppy.sh/beatmapsets/2210718) | Semifinals HR1 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/krimek/lunaria "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=dEWzFJ5_JuI "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://krimek.bandcamp.com/track/lunaria "Bandcamp") |  | Krimek feat. michiri9 - Lunaria[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2215066) | Finals HR2 |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=TUkAPCyZP6g "YouTube") |  | l'avenir proche - 100ml of ethylene glycol | [#1](https://osu.ppy.sh/beatmapsets/2203294) | Round of 16 NM4 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/lusumimusic/abyssal-chronosrescup-2024 "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=QAWCxwFROko "YouTube") |  | Lusumi - ABYSSAL CHRONOS | [#1](https://osu.ppy.sh/beatmapsets/2214821) | Finals FM4 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/part-lerts/rescup-2024-a-white-fox-consumes-a-vial-of-cakewater-as-it-obliterates-a-green-racoon "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=cS2lAfmNkm0 "YouTube") |  | ptar124 - A White Fox Consumes a Vial of "Cakewater" as It Obliterates a Green Racoon[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2199371) | Round of 32 HR2 |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=LxXprhxwNIk "YouTube") |  | Raytoly - Luminost | [#1](https://osu.ppy.sh/beatmapsets/2215200) | Finals FM3 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/roerdtm/circles-in-ruin-ft-ethereal_winter "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=yue7ffo8FxE "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://roer.bandcamp.com/track/circles-in-ruin-ft-ethereal-winter "Bandcamp") |  | roer (feat. Ethereal\_Winter) - Circles in Ruin | [#1](https://osu.ppy.sh/beatmapsets/2203288) | Round of 16 tiebreaker |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/ninshoki/eterna "SoundCloud") |  | Shokii - Eterna | [#1](https://osu.ppy.sh/beatmapsets/2215097) | Finals tiebreaker |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/silis/departed "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=Yb5NmFML-lQ "YouTube") |  | SiLiS - departed | [#1](https://osu.ppy.sh/beatmapsets/2210733) | Semifinals HD3 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sugosugiii/saishuusonzai "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=avpWkDnQ0tY "YouTube") |  | sugosugiii feat. Eili - Saishuu Sonzai : Hakai Sekai no Shinsei-Ryoku | [#1](https://osu.ppy.sh/beatmapsets/2210767) | Semifinals HR3 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sydosys/proxima-centauri "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=AyXHODDyiYY "YouTube") |  | Sydosys - Proxima Centauri[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2210588) | Semifinals FM4 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/takehirotei/beyond-the-riemann-sphere "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=UHtFSyECmWE "YouTube") |  | takehirotei - Beyond the Riemann Sphere[^fa] |  | Livestream BGM |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/itsxyris/hiraeth-resurrection-cup-2023-finals-tb "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=BBCK2s97YL0 "YouTube") |  | Xyris - Hiraeth | [#1](https://osu.ppy.sh/beatmapsets/2210796) | Semifinals tiebreaker |
+|  |  | zuya - plemt | [#1](https://osu.ppy.sh/beatmapsets/2215026) | Finals NM3 |
 
 #### ![](/wiki/shared/mode/osu.png) Scarlet's Touhou Tournament 3rd Season
 
@@ -685,7 +707,9 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | --: | :-: | :-- | :-: | :-- |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/blobdash/are-we-floating-in-space "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=7l1YXjKTKLQ "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://blobdash.bandcamp.com/track/are-we-floating-in-space "Bandcamp") |  | blobdash - ARE WE FLOATING IN SPACE | [#1](https://osu.ppy.sh/beatmapsets/2206504) | Semifinals NM2 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/user-598209031/asdfgadfg "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=G3aznM6DwrU "YouTube") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Doomsday&query=%22TGGT%22 "Featured Artist listing") | Doomsday - TGGT | [#1](https://osu.ppy.sh/beatmapsets/2198890) | Group Stage NM3 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/ludicin/echoes-of-memoria "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=IjUqxihQKRI "YouTube") |  | Ludicin - Echoes of Memoria | [#1](https://osu.ppy.sh/beatmapsets/2214238) | Grand Finals tiebreaker |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/normalmusiccc/chromatic-dysfunktion "SoundCloud") |  | NormalM - Chromatical Dysfunktion | [#1](https://osu.ppy.sh/beatmapsets/2209723) | Semifinals NM4 |
+|  |  | seatrus - Metal Globe[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2214194) | Grand Finals NM3 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sydosys/coriolis "SoundCloud") |  | Sydosys - Coriolis[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2202795) | Round of 16 & Quarterfinals FM3 |
 
 #### ![](/wiki/shared/mode/osu.png) The Roundtable II
@@ -933,6 +957,12 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | --: | :-: | :-- | :-: | :-- |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/user-679008856/thmc3-gftb-noma-nadeshiko-sanzu-no-kawa-ninngyou-gekijyou "SoundCloud") |  | Noma Nadeshiko - Sanzu no Kawa Ninngyou Gekijyou | [#1](https://osu.ppy.sh/beatmapsets/2016006) | Grand Finals tiebreaker |
 
+#### ![](/wiki/shared/mode/taiko.png) Vietnam osu!taiko Tournament 3
+
+| Links | FA | Song | Beatmap | Notes |
+| --: | :-: | :-- | :-: | :-- |
+|  |  | VOT Sound Team "SJUNIT" - Novera | [#1](https://osu.ppy.sh/beatmapsets/2040175) | Grand Finals NM5 |
+
 #### ![](/wiki/shared/mode/taiko.png) _gt's Taiko All Rounder Tournament
 
 | Links | FA | Song | Beatmap | Notes |
@@ -1103,6 +1133,12 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | --: | :-: | :-- | :-: | :-- |
 | [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://howtoplayln.bandcamp.com/track/eternal-bliss "Bandcamp") |  | HowToPlayLN - Eternal Bliss | [#1](https://osu.ppy.sh/beatmapsets/1635183) | Finals LN pick |
 
+#### ![](/wiki/shared/mode/mania.png) Gulano Cup #4
+
+| Links | FA | Song | Beatmap | Notes |
+| --: | :-: | :-- | :-: | :-- |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=ARfP1e7TgoQ "YouTube") |  | LUMiNOZ Sound Team - Obscura Nova | [#1](https://osu.ppy.sh/beatmapsets/2149003) | Grand Finals tiebreaker |
+
 #### ![](/wiki/shared/mode/mania.png) Japanese Mania Championship 2: まだ見ぬ新星を探して
 
 | Links | FA | Song | Beatmap | Notes |
@@ -1182,6 +1218,12 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=auxym3cNqFA "YouTube") |  | Laxeno57 - Kaleido | [#1](https://osu.ppy.sh/beatmapsets/2043910) | Grand Finals tiebreaker |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/samstring/celestial-solace "SoundCloud") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=SAMString&query=%22Celestial%20Solace%22 "Featured Artist listing") | SAMString - Celestial Solace | [#1](https://osu.ppy.sh/beatmapsets/2031765) | Quarterfinals HB2 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sydosys/she-grand-on-my-finals-till-i-hb3 "SoundCloud") |  | Sydosys - she grand on my finals till i hb3[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2043993) | Grand Finals HB3 |
+
+#### ![](/wiki/shared/mode/mania.png) osu!mania 4K French Tournament 2024
+
+| Links | FA | Song | Beatmap | Notes |
+| --: | :-: | :-- | :-: | :-- |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/blobdash/absence "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=vHCcVZK4hb0 "YouTube") |  | blobdash - Absence | [#1](https://osu.ppy.sh/beatmapsets/2214326) | Week 2 tiebreaker |
 
 #### ![](/wiki/shared/mode/mania.png) osu!mania 7K Chinese National Cup 2023
 
