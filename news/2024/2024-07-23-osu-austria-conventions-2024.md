@@ -33,12 +33,12 @@ Join our [osu! Austrian Tournaments discord server](https://discord.gg/vRbC3bw) 
 
 | Event | Timestamp (UTC+1) |
 | --: | :-- |
-| Registrations | 2024-10-31 (13:00-23:00) |
-| Qualifiers | 2024-11-01 (10:00-19:00) |
-| Round of 16 | 2024-11-02 (10:00-14:00) |
-| Quarterfinals | 2024-11-02 (14:30-17:00) |
-| Semifinals | 2024-11-02 (17:30-20:00) |
-| Finals | 2024-11-03 (10:00-13:00) |
+| Registrations | 2024-10-31 (13:00–23:00) |
+| Qualifiers | 2024-11-01 (10:00–19:00) |
+| Round of 16 | 2024-11-02 (10:00–14:00) |
+| Quarterfinals | 2024-11-02 (14:30–17:00) |
+| Semifinals | 2024-11-02 (17:30–20:00) |
+| Finals | 2024-11-03 (10:00–13:00) |
 | Grandfinals | 2024-11-03 (13:15) |
 
 ---
