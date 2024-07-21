@@ -574,6 +574,17 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | --: | :-: | :-- | :-: | :-- |
 | [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/6e9favyeV6o8wVI72F5yNB "Spotify") |  | Flamme Du Savoir & Rayes Music - Tabula Rasa | [#1](https://osu.ppy.sh/beatmapsets/1994973) | Finals tiebreaker |
 
+#### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/taiko.png) Moscow osu! Event 2024
+
+| Links | FA | Song | Beatmap | Notes |
+| --: | :-: | :-- | :-: | :-- |
+|  |  | cygnus - Moon Atomizer[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2214952) | osu! DT2 |
+|  |  | Kola Kid - twilight[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2214946) | osu! HD2 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/modlessflash/of-sun-and-moon-eternal-dance "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=FYF21hqsI7Y "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://modlessflash.bandcamp.com/track/of-sun-and-moon-eternal-dance "Bandcamp") |  | modlessflash - Of Sun and Moon Eternal Dance | [#1](https://osu.ppy.sh/beatmapsets/2214919) | osu! HR2 |
+| [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://kageminori.bandcamp.com/track/bubble-moe-2024 "Bandcamp") |  | STAYC - Bubble (Kageminori Remix) | [#1](https://osu.ppy.sh/beatmapsets/2214909) | osu!taiko HD1 |
+|  |  | tieff - Celestial Graveyard[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2214953) | osu! tiebreaker |
+|  |  | unfeeling - rebirth from the abyss | [#1](https://osu.ppy.sh/beatmapsets/2214911) | osu! NM5 |
+
 #### ![](/wiki/shared/mode/osu.png) Nordic Summer Showdown
 
 | Links | FA | Song | Beatmap | Notes |
@@ -645,8 +656,9 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=TUkAPCyZP6g "YouTube") |  | l'avenir proche - 100ml of ethylene glycol | [#1](https://osu.ppy.sh/beatmapsets/2203294) | Round of 16 NM4 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/lusumimusic/abyssal-chronosrescup-2024 "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=QAWCxwFROko "YouTube") |  | Lusumi - ABYSSAL CHRONOS | [#1](https://osu.ppy.sh/beatmapsets/2214821) | Finals FM4 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/part-lerts/rescup-2024-a-white-fox-consumes-a-vial-of-cakewater-as-it-obliterates-a-green-racoon "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=cS2lAfmNkm0 "YouTube") |  | ptar124 - A White Fox Consumes a Vial of "Cakewater" as It Obliterates a Green Racoon[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2199371) | Round of 32 HR2 |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=LxXprhxwNIk "YouTube") |  | Raytoly - Luminost | [#1](https://osu.ppy.sh/beatmapsets/2215200) | Finals FM3 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/roerdtm/circles-in-ruin-ft-ethereal_winter "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=yue7ffo8FxE "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://roer.bandcamp.com/track/circles-in-ruin-ft-ethereal-winter "Bandcamp") |  | roer (feat. Ethereal\_Winter) - Circles in Ruin | [#1](https://osu.ppy.sh/beatmapsets/2203288) | Round of 16 tiebreaker |
-|  |  | Shokii - Eterna | [#1](https://osu.ppy.sh/beatmapsets/2215097) | Finals tiebreaker |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/ninshoki/eterna "SoundCloud") |  | Shokii - Eterna | [#1](https://osu.ppy.sh/beatmapsets/2215097) | Finals tiebreaker |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/silis/departed "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=Yb5NmFML-lQ "YouTube") |  | SiLiS - departed | [#1](https://osu.ppy.sh/beatmapsets/2210733) | Semifinals HD3 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sugosugiii/saishuusonzai "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=avpWkDnQ0tY "YouTube") |  | sugosugiii feat. Eili - Saishuu Sonzai : Hakai Sekai no Shinsei-Ryoku | [#1](https://osu.ppy.sh/beatmapsets/2210767) | Semifinals HR3 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sydosys/proxima-centauri "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=AyXHODDyiYY "YouTube") |  | Sydosys - Proxima Centauri[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2210588) | Semifinals FM4 |
@@ -1120,6 +1132,12 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | Links | FA | Song | Beatmap | Notes |
 | --: | :-: | :-- | :-: | :-- |
 | [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://howtoplayln.bandcamp.com/track/eternal-bliss "Bandcamp") |  | HowToPlayLN - Eternal Bliss | [#1](https://osu.ppy.sh/beatmapsets/1635183) | Finals LN pick |
+
+#### ![](/wiki/shared/mode/mania.png) Gulano Cup #4
+
+| Links | FA | Song | Beatmap | Notes |
+| --: | :-: | :-- | :-: | :-- |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=ARfP1e7TgoQ "YouTube") |  | LUMiNOZ Sound Team - Obscura Nova | [#1](https://osu.ppy.sh/beatmapsets/2149003) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/mania.png) Japanese Mania Championship 2: まだ見ぬ新星を探して
 
