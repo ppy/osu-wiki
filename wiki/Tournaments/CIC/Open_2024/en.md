@@ -59,27 +59,88 @@ The Catch the Beat Indonesia Cup Open 2024 is run by various osu! community memb
 
 ## Participants
 
-The complete sign-up list can be found [here](https://wybin.xyz/tournaments/catch-indonesia-cup-open-2024/players).
+Listed below are the players who managed to qualify into the Round of 32 (along with their respective seed number and average rank across all ten Qualifier beatmaps) out of 71 participating players in total.
+
+The complete list of player registrations can be found [here](https://wybin.xyz/tournaments/catch-indonesia-cup-open-2024/players).
+
+| Seed no. | Player | Avg. rank |
+| :-- | :-- | :-- |
+| 1 | ::{ flag=CN }:: [Nene Sakura](https://osu.ppy.sh/users/6701104) | 4.90 |
+| 2 | ::{ flag=ID }:: [Nekuro](https://osu.ppy.sh/users/3222638) | 6.00 |
+| 3 | ::{ flag=TW }:: [Shimoe Koharu](https://osu.ppy.sh/users/2145160) | 8.30 |
+| 4 | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | 9.40 |
+| 5 | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) | 9.50 |
+| 6 | ::{ flag=KR }:: [OYG](https://osu.ppy.sh/users/7547506) | 9.80 |
+| 7 | ::{ flag=TW }:: [Happiness Fish](https://osu.ppy.sh/users/4586766) | 9.90 |
+| 8 | ::{ flag=TW }:: [DoDoEbi](https://osu.ppy.sh/users/1177233) | 10.20 |
+| 9 | ::{ flag=KR }:: [\[Amazing\]](https://osu.ppy.sh/users/1391036) | 11.00 |
+| 10 | ::{ flag=ID }:: [Taskmaster](https://osu.ppy.sh/users/3027065) | 13.00 |
+| 11 | ::{ flag=HK }:: [littlepiggod](https://osu.ppy.sh/users/12331683) | 13.50 |
+| 12 | ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580) | 13.70 |
+| 13 | ::{ flag=RU }:: [Segmentum](https://osu.ppy.sh/users/15389158) | 15.30 |
+| 14 | ::{ flag=TH }:: [Azuria](https://osu.ppy.sh/users/16102533) | 16.70 |
+| 15 | ::{ flag=TW }:: [Minato Yukina](https://osu.ppy.sh/users/4133477) | 17.20 |
+| 16 | ::{ flag=HK }:: [fua](https://osu.ppy.sh/users/21138904) | 19.80 |
+| 17 | ::{ flag=AU }:: [TheTixTop](https://osu.ppy.sh/users/19236870) | 19.90 |
+| 18 | ::{ flag=RU }:: [Rakety](https://osu.ppy.sh/users/11109479) | 21.20 |
+| 19 | ::{ flag=ID }:: [Serestia](https://osu.ppy.sh/users/30511396) | 22.10 |
+| 20 | ::{ flag=TW }:: [Oktavia](https://osu.ppy.sh/users/1952803) | 22.40 |
+| 21 | ::{ flag=AU }:: [KWYJIBO](https://osu.ppy.sh/users/7178386) | 23.80 |
+| 22 | ::{ flag=HK }:: [my angel auto](https://osu.ppy.sh/users/29503627) | 24.40 |
+| 23 | ::{ flag=SA }:: [WOAH0](https://osu.ppy.sh/users/18336339) | 25.00 |
+| 24 | ::{ flag=RU }:: [Nerris](https://osu.ppy.sh/users/11202866) | 25.50 |
+| 25 | ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422) | 26.40 |
+| 26 | ::{ flag=TR }:: [lorem ipsum](https://osu.ppy.sh/users/17130789) | 27.20 |
+| 27 | ::{ flag=TW }:: [Flyer](https://osu.ppy.sh/users/9767342) | 28.70 |
+| 28 | ::{ flag=TW }:: [Psc\_IceRain](https://osu.ppy.sh/users/3359485) | 29.00 |
+| 29 | ::{ flag=TW }:: [\_Tsukiko](https://osu.ppy.sh/users/4787989) | 29.30 |
+| 30 | ::{ flag=TW }:: [Nazrin on osu](https://osu.ppy.sh/users/2512267) | 29.60 |
+| 31 | ::{ flag=TW }:: [\_Nanami](https://osu.ppy.sh/users/1929450) | 31.30 |
+| 32 | ::{ flag=AU }:: [pandaBear](https://osu.ppy.sh/users/107553) | 31.40 |
 
 ## Mappools
+
+### Round of 32
+
+- No Mod
+  1. [JKT48 - Bersepeda Berdua (Cut Ver.) (Madoka Ayukawa) \[Gowes\]](https://osu.ppy.sh/beatmapsets/2214898#fruits/4692984)
+  2. [ginkiha - EOS (-Miya) \[CICO2024 RO32 NM2\]](https://osu.ppy.sh/beatmapsets/2214813#fruits/4692831)
+  3. [HyuN feat. YURI - Disorder (Verti) \[Jemzuu's Hyper Dysfunction\]](https://osu.ppy.sh/beatmapsets/1636276#fruits/3345954)
+  4. [Linkin Park - Breaking The Habit (Aakki) \[Akayume's Extra\]](https://osu.ppy.sh/beatmapsets/1499705#fruits/3084982)
+- Hidden
+  1. [Another Infinity feat. Mayumi Morinaga - COME BACK TO MY HEART (Ryu\* Remix) (MILK\_16) \[CICO 2K24 RO32 HD 1\]](https://osu.ppy.sh/beatmapsets/2215233#fruits/4693654)
+  2. [capsule - dreamin dreamin (Cowboy) \[CICO2024 RO32 HD2\]](https://osu.ppy.sh/beatmapsets/2215214#fruits/4693614)
+  3. [Miyolophone - Shinigami Line (feat. eris elysia) (DeviousPanda) \[Grand Finale\]](https://osu.ppy.sh/beatmapsets/1930357#fruits/3987557)
+- Hard Rock
+  1. [sasakure.UK - AMARA (The Great Intelligence) (Mniam) \[Sololiquy x Quix's Rain\]](https://osu.ppy.sh/beatmapsets/1998960#fruits/4520337)
+  2. [Mili - Compass (yuinn) \[Rain\]](https://osu.ppy.sh/beatmapsets/2148993#fruits/4586965)
+  3. [A.SAKA - Nanatsu Myoukakitsubata (Houshou Hari) \[sahuang's Insane\]](https://osu.ppy.sh/beatmapsets/1598631#fruits/3292536)
+- Double Time
+  1. [Dormir - Sayonara Trip (Fisicia) \[Let's float to the World of Our Dreams!\]](https://osu.ppy.sh/beatmapsets/2214878#fruits/4692952)
+  2. [UNDEAD CORPORATION - Everything will freeze (NyalettOwO x3) \[HexlettOwO's Platter\]](https://osu.ppy.sh/beatmapsets/1293905#fruits/2685022)
+  3. [Rise Against - Audience Of One (tieff) \[Hard\]](https://osu.ppy.sh/beatmapsets/44743#fruits/140062)  
+- Easy
+  1. [penoreri - Sulfur (Realazy) \[Deca's Expert\]](https://osu.ppy.sh/beatmapsets/1252844#fruits/3106504)
+- Tiebreaker
+  1. **[Kikuo - Hole Dwelling (Malai) \[Void (CICO2K24 Ver.)\]](https://osu.ppy.sh/beatmapsets/2214844#fruits/4692889)**  
 
 ### Qualifiers
 
 - No Mod
-  1. [Yousei Teikoku - Hades: The rise (-Miya) \[CICO2024 QLF NM1\]](https://osu.ppy.sh/beatmapsets/2210040#osu/4681178)
-  2. [Fractal Dreamers - Whispers from a Distant Star (MILK_16) \[CICO NM 2 QL VER\]](https://osu.ppy.sh/beatmapsets/2210045#osu/4681185)
-  3. [USAO - Knight Rider (Nakano Itsuki) \[Expert\]](https://osu.ppy.sh/beatmapsets/1550327#osu/3168036)
+  1. [Yousei Teikoku - Hades: The rise (-Miya) \[CICO2024 QLF NM1\]](https://osu.ppy.sh/beatmapsets/2210040#fruits/4681178)
+  2. [Fractal Dreamers - Whispers from a Distant Star (MILK_16) \[CICO NM 2 QL VER\]](https://osu.ppy.sh/beatmapsets/2210045#fruits/4681185)
+  3. [USAO - Knight Rider (Nakano Itsuki) \[Expert\]](https://osu.ppy.sh/beatmapsets/1550327#fruits/3168036)
 - Hidden
-  1. [la la larks - ego-izm (Zyzyx) \[ego-ism\]](https://osu.ppy.sh/beatmapsets/2210055#osu/4681205)
-  2. [L.E.D. Vs. Yuuhei Satellite - Torikago no Houou (Okoratu) \[EEEEExtra\]](https://osu.ppy.sh/beatmapsets/1764723#osu/3612221)
+  1. [la la larks - ego-izm (Zyzyx) \[ego-ism\]](https://osu.ppy.sh/beatmapsets/2210055#fruits/4681205)
+  2. [L.E.D. Vs. Yuuhei Satellite - Torikago no Houou (Okoratu) \[EEEEExtra\]](https://osu.ppy.sh/beatmapsets/1764723#fruits/3612221)
 - Hard Rock
-  1. [JKT48 - Ponytail dan Shu-Shu (BIG H ZONDA KIT) \[Blue Ponytail\]](https://osu.ppy.sh/beatmapsets/2210062#osu/4681217)
-  2. [Chanel - SloMo (Eurovision's Dancebreak Edit) (Eterdesp) \[Expert\]](https://osu.ppy.sh/beatmapsets/1948241#osu/4036414)
+  1. [JKT48 - Ponytail dan Shu-Shu (BIG H ZONDA KIT) \[Blue Ponytail\]](https://osu.ppy.sh/beatmapsets/2210062#fruits/4681217)
+  2. [Chanel - SloMo (Eurovision's Dancebreak Edit) (Eterdesp) \[Expert\]](https://osu.ppy.sh/beatmapsets/1948241#fruits/4036414)
 - Double Time
-  1. [ONE OK ROCK - Clock Strikes (Sololiquy) \[Rain\]](https://osu.ppy.sh/beatmapsets/2210093#osu/4681306)
-  2. [Red Velvet - Power Up (AJT) \[Another\]](https://osu.ppy.sh/beatmapsets/1997883#osu/4183275)
+  1. [ONE OK ROCK - Clock Strikes (Sololiquy) \[Rain\]](https://osu.ppy.sh/beatmapsets/2210093#fruits/4681306)
+  2. [Red Velvet - Power Up (AJT) \[Another\]](https://osu.ppy.sh/beatmapsets/1997883#fruits/4183275)
 - Easy
-  1. [Hakushi Hasegawa - Doku (zglock) \[Expert\]](https://osu.ppy.sh/beatmapsets/1674871#osu/3539717)
+  1. [Hakushi Hasegawa - Doku (zglock) \[Expert\]](https://osu.ppy.sh/beatmapsets/1674871#fruits/3539717)
 
 ## Ruleset
 
@@ -119,10 +180,9 @@ The complete sign-up list can be found [here](https://wybin.xyz/tournaments/catc
 2. In the lobby, all players will have to consecutively play all of the ten Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2 -> EZ1.
 3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Players **are not allowed** to join (or register for) more than one Qualifier lobby.
-5. Based on their performance in the Qualifier, players will be ranked based on their **total %MAX value** aggregated from each individual Qualifier beatmap.
-   - The %MAX value for a beatmap is calculated according to the following equation: `%MAX = (Player Score / Max. Achievable Score)`
-6. 32 players with the **highest total %MAX value** according to the above criteria will advance to the knock-out stages.
-   - If there are two (or more) players that share the same total %MAX value, the players will be ordered based on their average score across all ten Qualifier beatmaps.
+5. Based on their performance in the Qualifier, players will be ranked based on their average rank combined from each individual Qualifier beatmap.
+6. 32 players with the **highest average rank** according to the above criteria will advance to the knock-out stages.
+   - If there are two (or more) teams that share the same average rank, the teams will be ordered based on their average score across all ten Qualifier beatmaps.
 7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
 #### Knock-out stage rules
