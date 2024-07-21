@@ -30,7 +30,6 @@ Qualifiers will be played out online as well, scheduling your lobby will also be
 
 The top 2 players of the tournament will ferociously duke it out for some handsome physical prizes and a bespoke profile badge on the main stage of the event and top 16 players won't go home empty-handed as they will receive some nice goodies as well!
 
-
 ### Tournament schedule
 
 | Event | Timestamp (UTC+1) |
