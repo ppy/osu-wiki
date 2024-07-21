@@ -1,3 +1,7 @@
+---
+no_native_review_since: 2bc48e82765aafddf3d274766088ef8431520190 Doryan
+---
+
 # Twitter
 
 osu! possède plusieurs comptes Twitter, ayant chacun des objectifs spécifiques. La plupart ont une activité très faible mais permettent de vous tenir informé en dehors de l'écosystème d'osu!.
