@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: a513ebb62df79ae1f9b82d6985d9286df8ac85e7
----
-
 # Secuencias de comandos para un storyboard
 
 Cada [declaración de un objeto](/wiki/Storyboard/Scripting/Objects) va seguido de uno o más **comandos**. Estos le indican al objeto que haga algo, llamado **evento**, como moverse o cambiar de color. Puedes pensar que cada comando afecta a una variable (o conjunto de variables) para ese objeto; una vez finalizado un comando, el objeto mantiene esos valores hasta que otro comando lo cambie. Los objetos que no usan un tipo particular de comando usarán el valor predeterminado para esa variable.
@@ -244,7 +239,7 @@ Sprite,Pass,Centre,"Sample.png",320,240
 _C,0,58810,59810,0,0,0,255,255,255
 ```
 
-Para hacer que algo aparezca en (span style="background:#CCCC00")este color amarillo(/span):
+Para hacer que algo aparezca en amarillo (`#cccc00`):
 
 ```
 Sprite,Pass,Centre,"Sample.png",320,240
