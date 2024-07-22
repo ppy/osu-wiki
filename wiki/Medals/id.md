@@ -1,6 +1,6 @@
 # Medali
 
-**Medali**, atau yang sebelumnya dikenal sebagai *achievement*, merupakan rangkaian lencana pada halaman profil pengguna yang menunjukkan berbagai pencapaian yang telah berhasil diraih oleh pengguna tersebut. Saat ini, terdapat **324** medali yang tersedia untuk dibuka pada delapan lintas kategori yang berbeda: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights), dan [Beatmap Challenge Packs](#beatmap-challenge-packs).
+**Medali**, atau yang sebelumnya dikenal sebagai *achievement*, merupakan rangkaian lencana pada halaman profil pengguna yang menunjukkan berbagai pencapaian yang telah berhasil diraih oleh pengguna tersebut. Saat ini, terdapat **324** medali yang tersedia untuk dibuka pada delapan lintas kategori yang berbeda, yaitu: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights), dan [Beatmap Challenge Packs](#beatmap-challenge-packs).
 
 ## Beatmap Packs
 
@@ -12,7 +12,7 @@ Sebagai catatan, isi dari seluruh paket Video Game Packs, Anime Packs, Internet!
 
 ## Skill
 
-**Medali Skill** merupakan medali yang diberikan pada saat pengguna mencapai berbagai titik tonggak yang berdasar pada keterampilan, seperti memperoleh [kombo](/wiki/Beatmapping/Combo) tertentu, mencapai peringkat tertentu pada [papan peringkat _performance point_ global](https://osu.ppy.sh/rankings/osu/performance), menyelesaikan beatmap, atau meraih [full combo](/wiki/Gameplay/Full_combo) pada beatmap [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), atau [Approved](/wiki/Beatmap/Category#approved) mana pun dalam rentang [star rating](/wiki/Beatmap/Star_rating) tertentu.
+**Medali Skill** merupakan medali yang diberikan pada saat pengguna mencapai berbagai titik tonggak yang berdasar pada keterampilan, seperti memperoleh [kombo](/wiki/Beatmapping/Combo) tertentu, mencapai peringkat tertentu pada [papan peringkat *performance point* global](https://osu.ppy.sh/rankings/osu/performance), menyelesaikan beatmap, atau meraih [full combo](/wiki/Gameplay/Full_combo) pada beatmap [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), atau [Approved](/wiki/Beatmap/Category#approved) mana pun dalam rentang [star rating](/wiki/Beatmap/Star_rating) tertentu.
 
 ## Dedication
 
@@ -20,9 +20,9 @@ Sebagai catatan, isi dari seluruh paket Video Game Packs, Anime Packs, Internet!
 
 ## Mod Introduction
 
-_Lihat juga: [Modifier permainan](/wiki/Gameplay/Game_modifier)_
+*Lihat juga: [Modifier permainan](/wiki/Gameplay/Game_modifier)*
 
-**Medali Mod Introduction** merupakan medali yang diberikan pada saat pengguna menyelesaikan suatu map [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), atau [Approved](/wiki/Beatmap/Category#approved) dengan [mod](/wiki/Gameplay/Game_modifier) tertentu. Medali ini ditujukan untuk mendorong para pemain baru untuk mencoba masing-masing mod yang ada dan menelusuri berbagai aspek permainan yang osu! tawarkan. Sebagai catatan, apabila seorang pemain memasang lebih dari satu mod secara bersamaan, pemain tersebut **tidak** akan memenuhi syarat untuk dapat membuka medali Mod Introduction **mana pun** dari permainan tersebut.
+**Medali Mod Introduction** merupakan medali yang diberikan pada saat pengguna menyelesaikan suatu map [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), atau [Approved](/wiki/Beatmap/Category#approved) dengan [mod](/wiki/Gameplay/Game_modifier) tertentu. Medali ini ditujukan untuk mendorong para pemain baru untuk mencoba aneka mod yang ada dan menelusuri berbagai aspek permainan yang osu! tawarkan. Sebagai catatan, apabila seorang pemain memasang lebih dari satu mod secara bersamaan, pemain tersebut **tidak** akan memenuhi syarat untuk dapat membuka medali Mod Introduction **mana pun** dari permainan tersebut.
 
 Kecuali diterangkan lebih lanjut, seluruh medali Mod Introduction dapat dibuka pada [mode permainan](/wiki/Game_mode) mana pun.
 
@@ -42,8 +42,8 @@ Kategori medali ini juga memiliki sub-kategorinya tersendiri, yaitu "Hush-Hush (
 
 **Medali Beatmap Spotlights** merupakan medali yang diberikan pada saat pengguna menyelesaikan paket beatmap tertentu yang diterbitkan sebagai bagian dari [Monthly Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights). Untuk membuka medali ini, masing-masing pemain harus menyelesaikan seluruh beatmap *pada paket mode permainan mana pun* yang dipertandingkan pada papan peringkat Beatmap Spotlights yang terkait. Kategori medali ini mengizinkan pemakaian berbagai mod berikut:
 
-- [Mod pengurang kesulitan](/wiki/Gameplay/Game_modifier#difficulty-reduction)
-- [Mod peningkat kesulitan](/wiki/Gameplay/Game_modifier#difficulty-increase)
+- [Mod pengurang kesulitan](/wiki/Gameplay/Game_modifier#pengurang-kesulitan)
+- [Mod peningkat kesulitan](/wiki/Gameplay/Game_modifier#peningkat-kesulitan)
 - [xK](/wiki/Gameplay/Game_modifier/xK), [Mirror](/wiki/Gameplay/Game_modifier/Mirror), dan [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out)
 
 Walaupun Monthly Beatmap Spotlights telah digantikan oleh [Seasonal Spotlights](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018) sejak bulan April 2018, seluruh medali yang terhubung dengan Monthly Beatmap Spotlights tetap dapat dibuka hingga saat ini.
@@ -52,11 +52,11 @@ Walaupun Monthly Beatmap Spotlights telah digantikan oleh [Seasonal Spotlights](
 
 **Medali Seasonal Spotlights** merupakan medali yang diberikan pada saat pengguna menyelesaikan paket beatmap tertentu yang diterbitkan sebagai bagian dari [Seasonal Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights). Untuk membuka medali ini, masing-masing pemain harus menyelesaikan seluruh beatmap *pada paket mode permainan mana pun* yang dipertandingkan pada papan peringkat Seasonal Spotlights yang terkait. Kategori medali ini mengizinkan pemakaian berbagai mod berikut:
 
-- [Mod pengurang kesulitan](/wiki/Gameplay/Game_modifier#difficulty-reduction)
-- [Mod peningkat kesulitan](/wiki/Gameplay/Game_modifier#difficulty-increase)
+- [Mod pengurang kesulitan](/wiki/Gameplay/Game_modifier#pengurang-kesulitan)
+- [Mod peningkat kesulitan](/wiki/Gameplay/Game_modifier#peningkat-kesulitan)
 - [xK](/wiki/Gameplay/Game_modifier/xK), [Mirror](/wiki/Gameplay/Game_modifier/Mirror), dan [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out)
 
-Walaupun Seasonal Spotlights telah digantikan oleh [sistem Beatmap Seasonal modern yang sekarang digunakan](/wiki/Beatmap_Spotlights) sejak awal tahun 2020, seluruh medali yang terhubung dengan Seasonal Spotlights tetap dapat dibuka hingga saat ini.
+Walaupun Seasonal Spotlights telah digantikan oleh [sistem Beatmap Spotlights yang sekarang digunakan](/wiki/Beatmap_Spotlights) sejak awal tahun 2020, seluruh medali yang terhubung dengan Seasonal Spotlights tetap dapat dibuka hingga saat ini.
 
 ## Beatmap Challenge Packs
 
