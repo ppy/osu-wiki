@@ -238,7 +238,7 @@ For those looking to practise their stamina or especially their 1/6 skills, *L4.
 200 – 230 BPM, 2:51 | 5.43★, 6.06★\
 *description written by [Gamelan4](https://osu.ppy.sh/users/9856910)*
 
-There are ranked mapsets that barely reach a play count higher than 5K, and yet [MOSAIC.WAV - Chousai Kenbo Sengen](https://osu.ppy.sh/beatmapsets/469296#taiko) by[ Cihyaa ](https://osu.ppy.sh/users/1282954)aka. Coin manages to surpass that amount with aplomb. Featured in countless tournaments, whether big or small, and played hundreds of times in multiplayer lobbies throughout the years, this mapset has survived the test of time and continues to be relevant to this day. A classic stream-heavy map with a rated diff for the more skilled, *Chousai Kenbo Sengen* offers replayability not seen in many maps. And if you haven't tried it out yet, this will most likely become a map you come back often to.
+There are ranked mapsets that barely reach a play count higher than 5K, and yet [MOSAIC.WAV - Chousai Kenbo Sengen](https://osu.ppy.sh/beatmapsets/469296#taiko) by[ Cihyaa ](https://osu.ppy.sh/users/1282954) (a.k.a. Coin) manages to surpass that amount with aplomb. Featured in countless tournaments, whether big or small, and played hundreds of times in multiplayer lobbies throughout the years, this mapset has survived the test of time and continues to be relevant to this day. A classic stream-heavy map with a rated diff for the more skilled, *Chousai Kenbo Sengen* offers replayability not seen in many maps. And if you haven't tried it out yet, this will most likely become a map you come back often to.
 
 We at Taiko Loved HQ are ashamed to have taken this long to feature this map. But as they say, it's better late than never. As always, the community has the last say on these matters. So go ahead, try it out if you haven't, and show your support if you so wish!
 
@@ -248,7 +248,7 @@ We at Taiko Loved HQ are ashamed to have taken this long to feature this map. Bu
 220 BPM, 5:44 | 7.46★\
 *description written by [aceticke](https://osu.ppy.sh/users/8838763)*
 
-[NEUROTYPICAL SYSTEM]( https://osu.ppy.sh/beatmapsets/1734223#taiko) rockets into the Loved voting this month by esteemed mapper [Nwolf]( https://osu.ppy.sh/users/1910766)! You might know of *breakchild* already, but if you haven't, then why not jump into their amazing music with this map from the [osu!taiko World Cup 2022]( https://osu.ppy.sh/wiki/en/Tournaments/TWC/2022)? It's full of tricky fast-paced patterns ready to challenge those who dare to give it a shot. Fefinitely befitting of a Semifinals tiebreaker!
+[NEUROTYPICAL SYSTEM](https://osu.ppy.sh/beatmapsets/1734223#taiko) rockets into the Loved voting this month by esteemed mapper [Nwolf](https://osu.ppy.sh/users/1910766)! You might know of *breakchild* already, but if you haven't, then why not jump into their amazing music with this map from the [osu!taiko World Cup 2022](/wiki/Tournaments/TWC/2022)? It's full of tricky fast-paced patterns ready to challenge those who dare to give it a shot. Definitely befitting of a Semifinals tiebreaker!
 
 Give it a shot and let us know what you think!
 
@@ -410,7 +410,7 @@ Don't hesitate to show your support for this map and cast your vote to bring it 
 
 [Various Artists - xfpsb 6K LN Kaleidoscope Collection](https://osu.ppy.sh/beatmapsets/2204252#mania) by [Hylotl](https://osu.ppy.sh/users/18270260), [\[GS\]hina](https://osu.ppy.sh/users/20040607), [1799019275](https://osu.ppy.sh/users/9468410), [AhoUsagi](https://osu.ppy.sh/users/9784248), [Arkman](https://osu.ppy.sh/users/8814590), [Benson\_](https://osu.ppy.sh/users/18471116), [cherrychou](https://osu.ppy.sh/users/7214023), [Mihyo_San](https://osu.ppy.sh/users/10608702), [Muses](https://osu.ppy.sh/users/9705896), [truEleysia](https://osu.ppy.sh/users/13850593), and [YuzakiTsukasa](https://osu.ppy.sh/users/17158897)\
 95 – 218 BPM, 5:14 | 2.61★ – 8.49★\
-The \[Delete [GLHF's 25\]] difficulty is *not* being nominated for Loved.\
+The \[Delete \[GLHF's 25\]\] difficulty is *not* being nominated for Loved.\
 *description written by [Carpihat](https://osu.ppy.sh/users/10085090)*
 
 It's been a little while since we loved any anti-meta key mode. So, this month, we plan to bring an excellent 6K pack to Loved!
