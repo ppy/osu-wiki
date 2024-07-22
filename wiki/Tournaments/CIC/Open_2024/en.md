@@ -100,6 +100,30 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 
 ## Mappools
 
+### Round of 16
+
+- No Mod
+  1. [Hyadain - Hyadain's Jojo Yujo (-Hex-) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2219094#osu/4703760)
+  2. [DOT96 - MAKE IT FUNKY NOW (Cipse) \[FUNKY jef\]](https://osu.ppy.sh/beatmapsets/2154994#osu/4541955)
+  3. [Pegboard Nerds - Try This (Des9) \[Shocking Wave\]](https://osu.ppy.sh/beatmapsets/2219177#osu/4703906)
+  4. [Reol,nqrse - Ooedo Ranvu (zhu) \[Expert\]](https://osu.ppy.sh/beatmapsets/703580#osu/1572141)
+- Hidden
+  1. [QUEEN BEE - Mephisto (-Miya) \[CICO 2024 RO16 HD1\]](https://osu.ppy.sh/beatmapsets/2219188#osu/4703924)
+  2. [YurryCanon feat. RIME - Despair (Yoshi_green) \[De-De-De-De-De-Despair\]](https://osu.ppy.sh/beatmapsets/1951698#osu/4041414)
+  3. [rei sirose - Lost Umbrella (SMOKELIND) \[FuJu's Insane\]](https://osu.ppy.sh/beatmapsets/1340777#osu/2828726)
+- Hard Rock
+  1. [TAMAONSEN - Saigetsu (Midnight Moon Walker Remix) (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/724793#osu/1530447)
+  2. [Polyphia - Playing God (Mochi -) \[Egg's Rain\]](https://osu.ppy.sh/beatmapsets/2085333#osu/4462907)
+  3. [LV.4 - Burning Star (silly catgirl) \[Another\]](https://osu.ppy.sh/beatmapsets/2141220#osu/4506765)
+- Double Time
+  1. [Rameses B - Mountains (feat. Veela) (Dapulezatos) \[Is It Worth It?\]](https://osu.ppy.sh/beatmapsets/1809578#osu/3711550)
+  2. [IU feat. Seulong - Nagging (Madoka Ayukawa) \[Persistent\]](https://osu.ppy.sh/beatmapsets/2219115#osu/4703806)
+  3. [Demetori - Strawberry Crisis!! (jonathanlfj) \[Halfslashed's Lunatic\]](https://osu.ppy.sh/beatmapsets/1833730#osu/3764531)
+- Easy
+  1. [otetsu - Minamo no Sakura, Yume wa Sakayume (Riven) \[NiNo's Extra\]](https://osu.ppy.sh/beatmapsets/385248#osu/1053233)
+- Tiebreaker
+  1. **[Diao Ye Zong feat. Meramipop - Saifu 'Kamiasobi no Uta' (Morusya) \[Frog\]](https://osu.ppy.sh/beatmapsets/2218881#osu/4703316)**
+
 ### Round of 32
 
 - No Mod
