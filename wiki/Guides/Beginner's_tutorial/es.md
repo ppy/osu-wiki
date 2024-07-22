@@ -58,9 +58,9 @@ Para el ratón y la tableta o cualquier otro dispositivo de entrada, también pu
 
 Uno de los factores más importantes a la hora de jugar a osu! es tu coordinación, ¡al igual que en otros juegos de ritmo! En este sentido, si has escuchado mucha música, debería ser bastante fácil de captar. El objetivo de la precisión y la coordinación es pulsar las notas en el momento correcto con la mayor exactitud posible.
 
-Cada objeto del juego tiene un círculo de aproximación; un anillo grande que se acerca lentamente al círculo. Cuando el anillo llega al círculo, ¡es el momento de pulsarlo! Si les prestas atención con cuidado, te ayudará a reconocer si algunas notas están en medio pulso o en pulso completo, o si tienes que esperar a la siguiente nota.
+Cada objeto del juego tiene un círculo de aproximación; un anillo grande que se acerca lentamente al círculo. Cuando el anillo llega al círculo, ¡es el momento de pulsarlo! Si les prestas atención con cuidado, te ayudarán a reconocer si algunas notas están en medio pulso o en pulso completo, o si tienes que esperar a la siguiente nota.
 
-La música funciona en pulsos y ritmos. Cuando empieces un mapa (o incluso antes de jugar) presta atención a cómo suena la canción, y podrás hacerte una idea bastante aproximada de la melodía a la que le vas a pulsar los círculos. Seguir la música más de cerca te ayudará a conseguir una mejor coordinación y sincronización con ella.
+La música funciona en pulsos y ritmos. Cuando empieces un mapa (o incluso antes de jugar) presta atención a cómo suena la canción, y podrás hacerte una idea bastante aproximada de la melodía a la que vas a pulsar los círculos. Seguir la música más de cerca te ayudará a conseguir una mejor coordinación y sincronización con ella.
 
 ### Puntería
 
@@ -76,7 +76,7 @@ Con el tiempo, cuando llegues a dificultades más difíciles, tendrás que pulsa
 
 Otro tema importante es el hecho de que osu! es un juego con una curva de dificultad que aumenta infinitamente, lo que significa que no se puede «ganar» el juego. En lugar de eso, te centrarás en mejorar constantemente. En lugar de jugar un mapa una y otra vez, eventualmente necesitarás pasar a otros mapas una vez que comiences a superar su dificultad.
 
-La mejor manera de mejorar es desafiarte a ti mismo. La única forma de que te acostumbres a dificultades cada vez más difíciles es explorando más allá de tus límites. Jugar en un mapa que te hace fallar bastantes veces otorga, en definitiva, más experiencia de juego que jugar en muchos en los que puedes conseguir un combo completo o incluso obtener un rango SS. Esto funciona de forma muy parecida a un MMORPG: cuanto más fuerte sea el enemigo, más experiencia obtendrás por él.
+La mejor manera de mejorar es desafiarte a ti mismo. La única forma de que te acostumbres a dificultades cada vez más difíciles es explorando más allá de tus límites. Jugar un mapa que te hace fallar bastantes veces otorga, en definitiva, más experiencia de juego que jugar muchos en los que puedes conseguir un combo completo o incluso obtener un rango SS. Esto funciona de forma muy parecida a un MMORPG: cuanto más fuerte sea el enemigo, más experiencia obtendrás por él.
 
 No tengas miedo de practicar algo que siempre te hace fallar por una razón u otra. Tendrás que encontrar el reto y ver qué tienes que hacer para superarlo. ¿Necesitas presionar los botones más rápido? ¿Necesitas una mejor coordinación? ¿Necesitas ser más preciso al pasar por las notas? Todas estas son preguntas que puedes hacerte. Esto te ayudará a encontrar la respuesta mucho más rápidamente y hará que tu experiencia valga la pena.
 
@@ -86,11 +86,11 @@ No tengas miedo de practicar algo que siempre te hace fallar por una razón u ot
 
 *Página principal: [Cómo usar el asistente de compensación](/wiki/Guides/How_to_use_the_Offset_Wizard)*
 
-Dependiendo de los dispositivos que uses para jugar a osu!, puede que los círculos no sigan el ritmo de la música. Para corregir esto, puede cambiar el valor de la compensación global en las [opciones](/wiki/Client/Options). La compensación global cambiará cuando la primera nota aparezca en los beatmaps (antes o después de lo predeterminado), lo que a su vez retrasará el resto de las notas en la misma cantidad. Un valor negativo en la compensación hará que las notas aparezcan ligeramente más tarde, y un valor positivo hará que aparezcan antes.
+Dependiendo de los dispositivos que uses para jugar a osu!, puede que los círculos no sigan el ritmo de la música. Para corregir esto, puedes cambiar el valor de la compensación global en las [opciones](/wiki/Client/Options). La compensación global cambiará cuando la primera nota aparezca en los beatmaps (antes o después de lo predeterminado), lo que a su vez retrasará el resto de las notas en la misma cantidad. Un valor negativo en la compensación hará que las notas aparezcan ligeramente más tarde, y un valor positivo hará que aparezcan antes.
 
 En el [asistente de compensación](/wiki/Client/Options/Offset_Wizard), al que puedes acceder desde las [opciones](/wiki/Client/Options), se reproducirá una canción de muestra con un ritmo de metrónomo encima. Ajusta la compensación gradualmente usando las teclas de flecha arriba/abajo o la rueda del ratón hasta que los pulsos del metrónomo coincidan cuando las barras crucen la línea central.
 
-Cuando estés jugando un beatmap notarás el gráfico de error de los golpes en la parte inferior de la pantalla. Al pulsar una nota, aparece una línea blanca a lo largo de ella, dependiendo de lo preciso que hayas sido. Si todos tus golpes están a la izquierda del centro, prueba a aumentar ligeramente la compensación global. Si están todos en el lado derecho, prueba a disminuirla.
+Cuando estés jugando un beatmap, notarás el gráfico de error de los golpes en la parte inferior de la pantalla. Al pulsar una nota, aparece una línea blanca a lo largo de ella, dependiendo de lo preciso que hayas sido. Si todos tus golpes están a la izquierda del centro, prueba a aumentar ligeramente la compensación global. Si están todos en el lado derecho, prueba a disminuirla.
 
 Ajusta la compensación global hasta que estés satisfecho. ¡Obtener el valor correcto te ayudará a aumentar tu precisión en general!
 
