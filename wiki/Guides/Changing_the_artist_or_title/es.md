@@ -11,7 +11,7 @@ Para arreglar un mapa duplicado, haz lo siguiente:
 - Método fácil (no hay cambios locales):
   1. Elimina la copia local del mapa.
   2. Descarga una copia del mapa desde el sitio web de osu!.
-  3. Ve al editor. Asegúrate de que el menú «Web» está activado (no en gris).
+  3. Ve al editor. Asegúrate de que el menú «Web» esté activado (no en gris).
   4. Cambia la información del artista/título.
   5. **No salgas del editor.**
   6. Usa `Archivo` > `Abrir dificultad...` para cambiar el artista/título en otras dificultades.
@@ -20,7 +20,7 @@ Para arreglar un mapa duplicado, haz lo siguiente:
   1. Ve a la página de información de tu beatmap en el sitio web de osu!.
   2. Abre la ventana de configuración de las canciones para cada dificultad y establece el artista/título de nuevo a lo que está en el sitio web.
   3. Ve al selector de canciones y presiona `F5`. Espera unos segundos.
-  4. Ve al editor. Asegúrate de que el menú «Web» está activado (no en gris).
+  4. Ve al editor. Asegúrate de que el menú «Web» esté activado (no en gris).
   5. Cambia la información del artista/título.
   6. **No salgas del editor.**
   7. Usa `Archivo` > `Abrir dificultad...` para cambiar el artista/título en otras dificultades.
