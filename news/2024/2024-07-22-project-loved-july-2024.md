@@ -238,7 +238,7 @@ For those looking to practise their stamina or especially their 1/6 skills, *L4.
 200 – 230 BPM, 2:51 | 5.43★, 6.06★\
 *description written by [Gamelan4](https://osu.ppy.sh/users/9856910)*
 
-There are ranked mapsets that barely reach a play count higher than 5K, and yet [MOSAIC.WAV - Chousai Kenbo Sengen](https://osu.ppy.sh/beatmapsets/469296#taiko) by[ Cihyaa ](https://osu.ppy.sh/users/1282954) (a.k.a. Coin) manages to surpass that amount with aplomb. Featured in countless tournaments, whether big or small, and played hundreds of times in multiplayer lobbies throughout the years, this mapset has survived the test of time and continues to be relevant to this day. A classic stream-heavy map with a rated diff for the more skilled, *Chousai Kenbo Sengen* offers replayability not seen in many maps. And if you haven't tried it out yet, this will most likely become a map you come back often to.
+There are ranked mapsets that barely reach a play count higher than 5K, and yet [MOSAIC.WAV - Chousai Kenbo Sengen](https://osu.ppy.sh/beatmapsets/469296#taiko) by [Cihyaa](https://osu.ppy.sh/users/1282954) (a.k.a. Coin) manages to surpass that amount with aplomb. Featured in countless tournaments, whether big or small, and played hundreds of times in multiplayer lobbies throughout the years, this mapset has survived the test of time and continues to be relevant to this day. A classic stream-heavy map with a rated diff for the more skilled, *Chousai Kenbo Sengen* offers replayability not seen in many maps. And if you haven't tried it out yet, this will most likely become a map you come back often to.
 
 We at Taiko Loved HQ are ashamed to have taken this long to feature this map. But as they say, it's better late than never. As always, the community has the last say on these matters. So go ahead, try it out if you haven't, and show your support if you so wish!
 
@@ -439,7 +439,7 @@ Show your support for Evening by giving this map a favorable vote!
 240 BPM, 2:06 | 8.86★\
 *description written by [Maxus](https://osu.ppy.sh/users/4335785)*
 
-It's rare to have parent-child nominations happen at the same time. It also allows us to introduce another casual and fun song for the community to play. On this opportunity, we want to introduce you to this infamous map by [\_Underjoy](https://osu.ppy.sh/users/2235750), which garnered a lot of plays and attention, as an extra pick!
+It's rare to have parent-child nominations happen at the same time. It also allows us to introduce another casual and fun song for the community to play. On this opportunity, we want to introduce you to this infamous map by [\_underjoy](https://osu.ppy.sh/users/2235750), which garnered a lot of plays and attention, as an extra pick!
 
 The map itself features dense chordstream paired with really dense burst alongside several LN density sections that require a specific skillset to pull off properly. Not to mention, you need to prepare for high-speed bump SV that feels like it crashed directly through you! The SV requires some memorization, but since the overall patterns are more straightforward, they accommodate the map suitably.
 
