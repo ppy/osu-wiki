@@ -18,7 +18,7 @@ Over the years, there were three different systems used for ranking players:
 
 - [Ranked Score](/wiki/Gameplay/Score/Ranked_score) (6 October 2007 – 24 July 2012)
 - [ppv1](/wiki/Performance_points/ppv1) (24 July 2012 – 27 January 2014)
-- [ppv2](/wiki/Performance_points) (27 January 2014 – 2024-07-21)
+- [ppv2](/wiki/Performance_points) (27 January 2014 – present)
 
 Because of this, this list only includes players who have reached rank #1 on the main leaderboard that was used at the time. *Italicised* dates and numbers indicate that the corresponding player is continuing their reign as the osu!'s rank #1 holder either from the previous year or into the following year.
 
