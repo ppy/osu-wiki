@@ -16,7 +16,7 @@ Numerous players have held rank #1 in each game mode under different ranking sys
 
 ## ![][osu!] osu!
 
-*Main page: [osu!](osu!)*
+*Main page: [osu! rankings history](osu!)*
 
 As of July 21, 2024, on the [osu! performance rankings](https://osu.ppy.sh/rankings/osu/performance) the rank #1 player is ::{ flag=GB }:: [9MlCE](https://osu.ppy.sh/users/9269034/osu).
 
