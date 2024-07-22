@@ -11,7 +11,7 @@ La siguiente sección describe el nombre de los archivos que se pueden reemplaza
 - `normal-hitfinish`
 - `normal-hitclap`
 
-Las tres muestras siguientes son aditivas, lo que significa que cuando golpees un whistle obtendrás un hitnormal + hitwhistle.
+Las siguientes tres muestras son aditivas, lo que significa que cuando golpees un whistle obtendrás un hitnormal + hitwhistle.
 
 - `normal-sliderslide` (en bucle)
 - `normal-sliderwhistle` (en bucle)
@@ -24,7 +24,7 @@ Las tres muestras siguientes son aditivas, lo que significa que cuando golpees u
 - `soft-hitfinish`
 - `soft-hitclap`
 
-Las tres muestras siguientes son aditivas, lo que significa que cuando golpees un whistle obtendrás un hitnormal + hitwhistle.
+Las siguientes tres muestras son aditivas, lo que significa que cuando golpees un whistle obtendrás un hitnormal + hitwhistle.
 
 - `soft-sliderslide` (en bucle)
 - `soft-sliderwhistle` (en bucle)
@@ -37,7 +37,7 @@ Las tres muestras siguientes son aditivas, lo que significa que cuando golpees u
 - `drum-hitfinish`
 - `drum-hitclap`
 
-Las tres muestras siguientes son aditivas, lo que significa que cuando golpees un whistle obtendrás un hitnormal + hitwhistle.
+Las siguientes tres muestras son aditivas, lo que significa que cuando golpees un whistle obtendrás un hitnormal + hitwhistle.
 
 - `drum-sliderslide` (en bucle)
 - `drum-sliderwhistle` (en bucle)
