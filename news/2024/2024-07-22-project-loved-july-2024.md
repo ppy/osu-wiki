@@ -126,7 +126,7 @@ Scientists have recently discovered that not voting for this in Loved results in
 
 [![](/wiki/shared/news/2024-07-22-project-loved-july-2024/488602.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
-[Loffciamcore - CHUJ KURWA](https://osu.ppy.sh/beatmapsets/488602#osu) by [fartownik](https://osu.ppy.sh/users/56917)\
+[[REDACTED]](https://osu.ppy.sh/beatmapsets/488602#osu) by [fartownik](https://osu.ppy.sh/users/56917)\
 240 BPM, 2:08 | 10.34★\
 *description written by [megumic](https://osu.ppy.sh/users/7537133)*
 
@@ -435,7 +435,7 @@ Show your support for Evening by giving this map a favorable vote!
 
 [![](/wiki/shared/news/2024-07-22-project-loved-july-2024/488602.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
-[Loffciamcore - CHUJ KURWA](https://osu.ppy.sh/beatmapsets/488602#mania) by [\_underjoy](https://osu.ppy.sh/users/2235750)\
+[[REDACTED]](https://osu.ppy.sh/beatmapsets/488602#mania) by [\_underjoy](https://osu.ppy.sh/users/2235750)\
 240 BPM, 2:06 | 8.86★\
 *description written by [Maxus](https://osu.ppy.sh/users/4335785)*
 
