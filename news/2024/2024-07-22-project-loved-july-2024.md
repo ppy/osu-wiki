@@ -21,7 +21,7 @@ Let's check out previous month's results:
 Before we head straight to this month's picks, here are some news from the team:
 
 - [Eriha](https://osu.ppy.sh/users/16320311) will be retiring as an osu!taiko captain, and will be replaced by [-Roxy](https://osu.ppy.sh/users/11931563). Thank you, Eriha, for your contributions, and welcome back to Project Loved -Roxy!
-- Project Loved [beatmap packs are back](https://osu.ppy.sh/beatmaps/packs?type=loved)! Every month going forward you'll be able to find links for beatmap packs on top of all headings for different game modes, or you'll be able to find them in the full listing on the website under `beatmaps` → `beatmap packs` → `project loved`.
+- Project Loved [beatmap packs are back](https://osu.ppy.sh/beatmaps/packs?type=loved)! Every month going forward you'll be able to find links for beatmap packs on top of all headings for different game modes, or you'll be able to find them in the full listing on the website under `beatmaps` -> `beatmap packs` -> `project loved`.
 
 ### Navigation
 
@@ -33,6 +33,8 @@ Before we head straight to this month's picks, here are some news from the team:
 ## osu!
 
 The osu! Loved candidates were chosen by [BATBALL](https://osu.ppy.sh/users/15173952), [chiv](https://osu.ppy.sh/users/6701656), [Librarian](https://osu.ppy.sh/users/10083084), [Lilian](https://osu.ppy.sh/users/8589120), [megumic](https://osu.ppy.sh/users/7537133), [Mismagius](https://osu.ppy.sh/users/19048), and [Skill](https://osu.ppy.sh/users/7802027)!
+
+**[Download the July 2024 Project Loved osu! beatmap pack here! (101 MB)](https://osu.ppy.sh/beatmaps/packs/LR4)**
 
 ---
 
@@ -204,6 +206,8 @@ Wait... [kuyusu](https://osu.ppy.sh/users/11758667) and [Raijodo](https://osu.pp
 
 The osu!taiko Loved candidates were chosen by [aceticke](https://osu.ppy.sh/users/8838763), [Boaz](https://osu.ppy.sh/users/13302996), [Gamelan4](https://osu.ppy.sh/users/9856910), [Horiiizon](https://osu.ppy.sh/users/8071438), and [ler1211](https://osu.ppy.sh/users/19901680)!
 
+**[Download the July 2024 Project Loved osu!taiko beatmap pack here! (48 MB)](https://osu.ppy.sh/beatmaps/packs/LR3)**
+
 ---
 
 [![](/wiki/shared/news/2024-07-22-project-loved-july-2024/1871628.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
@@ -262,6 +266,8 @@ Are you fast enough? Give it a go and see!
 
 The osu!catch Loved candidates were chosen by [Tenshichan](https://osu.ppy.sh/users/1101600), [Wesley](https://osu.ppy.sh/users/2407265), and [wwwww](https://osu.ppy.sh/users/8434466)!
 
+**[Download the July 2024 Project Loved osu!catch beatmap pack here! (40 MB)](https://osu.ppy.sh/beatmaps/packs/LR2)**
+
 ---
 
 [![](/wiki/shared/news/2024-07-22-project-loved-july-2024/667827.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
@@ -293,6 +299,8 @@ Dating back nearly a decade, this spread hosted by [Razor Sharp](https://osu.ppy
 ## osu!mania
 
 The osu!mania Loved candidates were chosen by [Carpihat](https://osu.ppy.sh/users/10085090), [elexire](https://osu.ppy.sh/users/9206093), [Maxus](https://osu.ppy.sh/users/4335785), [Paturages](https://osu.ppy.sh/users/1375479), [SunApple](https://osu.ppy.sh/users/11817622), [taba2](https://osu.ppy.sh/users/7850508), and [YuEast 2018](https://osu.ppy.sh/users/13953619)!
+
+**[Download the July 2024 Project Loved osu!mania beatmap pack here! (214 MB)](https://osu.ppy.sh/beatmaps/packs/LR1)**
 
 ---
 
@@ -431,11 +439,11 @@ Show your support for Evening by giving this map a favorable vote!
 240 BPM, 2:06 | 8.86★\
 *description written by [Maxus](https://osu.ppy.sh/users/4335785)*
 
-It's rare to have parent-child nominations happen at the same time. It also allows us to introduce another casual and fun song for the community to play. On this opportunity, we want to introduce you to the infamous [CHUJ KURWA](https://osu.ppy.sh/beatmapsets/488602#mania/1217637), which garnered a lot of plays and attention, as an extra pick!
+It's rare to have parent-child nominations happen at the same time. It also allows us to introduce another casual and fun song for the community to play. On this opportunity, we want to introduce you to this infamous map by [\_Underjoy](https://osu.ppy.sh/users/2235750), which garnered a lot of plays and attention, as an extra pick!
 
 The map itself features dense chordstream paired with really dense burst alongside several LN density sections that require a specific skillset to pull off properly. Not to mention, you need to prepare for high-speed bump SV that feels like it crashed directly through you! The SV requires some memorization, but since the overall patterns are more straightforward, they accommodate the map suitably.
 
-The patterns of this map are clean and well-planned by none other than the seasoned 7K mapper [\_Underjoy](https://osu.ppy.sh/users/2235750) himself. We certainly do not do this very often, so please show your support by casting a favorable vote for this map!
+The patterns of this map are clean and well-planned by none other than the seasoned 7K mapper \_underjoy himself. We certainly do not do this very often, so please show your support by casting a favorable vote for this map!
 
 ---
 
