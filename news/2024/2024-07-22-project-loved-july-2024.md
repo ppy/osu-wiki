@@ -20,8 +20,8 @@ Let's check out previous month's results:
 
 Before we head straight to this month's picks, here are some news from the team:
 
-- [Eriha](https://osu.ppy.sh/users/16320311) will be retiring as an osu!taiko captain, and will be replaced by [-Roxy](https://osu.ppy.sh/users/11931563). Thank you Eriha for your contributions, and welcome back to Project Loved -Roxy!
-- Project Loved [beatmap packs are back](https://osu.ppy.sh/beatmaps/packs?type=loved)! Every month going forward you'll be able to find links for beatmap packs on top of all headings for different game modes, or you'll be able to find them in the full listing on the website under `beatmaps` -> `beatmap packs` -> `project loved`.
+- [Eriha](https://osu.ppy.sh/users/16320311) will be retiring as an osu!taiko captain, and will be replaced by [-Roxy](https://osu.ppy.sh/users/11931563). Thank you, Eriha, for your contributions, and welcome back to Project Loved -Roxy!
+- Project Loved [beatmap packs are back](https://osu.ppy.sh/beatmaps/packs?type=loved)! Every month going forward you'll be able to find links for beatmap packs on top of all headings for different game modes, or you'll be able to find them in the full listing on the website under `beatmaps` → `beatmap packs` → `project loved`.
 
 ### Navigation
 
@@ -92,7 +92,7 @@ If you want to compete on this monster of a beatmap, you know exactly what to do
 
 The *Daredevil Difficulty* for this month is [BarkingMadDog](https://osu.ppy.sh/users/3475189)'s map of [OSTER Project feat. Nanahira - Napo Napo Ritaan Macchi](https://osu.ppy.sh/beatmapsets/739053#osu).
 
-Ah... The sight of seeing more [BarkingMadDog](https://osu.ppy.sh/users/3475189) (BMD) maps being put up for Loved, so elegant isn't it?
+Ah... The sight of seeing more [BarkingMadDog](https://osu.ppy.sh/users/3475189) (BMD) maps being put up for Loved, so elegant, isn't it?
 
 This might be one of the most "tame" BMD maps you'd ever see, jumps, jumps, and more jumps. The song calls for it. **6.9★**, NM1 style, nearly 4 minutes of a pure raw aim consistency test — if you're able to FC this I consider you to be a strong aim player. 100,000+ playcount and 240+ favorites definitely make this have a place in Loved.
 
@@ -272,7 +272,7 @@ The osu!catch Loved candidates were chosen by [Tenshichan](https://osu.ppy.sh/us
 
 If you are unsure what to play, this mapset will have you covered in all aspects. The [U.N. Owen was her Compilation](https://osu.ppy.sh/beatmapsets/667827) has a wide variety of difficulties ranging from 5 stars all the way up to 7 stars. Whether you are looking for newer style streams or older style streams, jumps or simply just some wiggling, at least one of these difficulties will have something you are looking for.
 
-Give it a whirl, let us know what you think, and enjoy some of the bangers while you're at it!
+Give it a whirl, let us know what you think, and enjoy some bangers while you're at it!
 
 [![](/wiki/shared/news/2024-07-22-project-loved-july-2024/2085333.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
