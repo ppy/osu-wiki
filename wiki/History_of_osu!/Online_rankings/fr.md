@@ -12,7 +12,6 @@ tags:
   - "rang #1"
   - classements
   - meilleur joueur
-outdated: true
 outdated_translation: true
 outdated_since: ac03e7297b7bb9d50a8c4f04f1bed4fa9b0deef8
 ---
