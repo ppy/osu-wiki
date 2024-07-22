@@ -20,7 +20,7 @@ Ahora, continúa hasta que selecciones completamente el contorno de tu personaje
 
 ## Paso 4
 
-Si has terminado tu selección principal, ahora podemos ocuparnos de cualquier fondo que haya sido seleccionado junto con nuestro personaje. Continúa usando la herramienta lazo, pero cambia su modo a «Extraer de la selección actual», es decir, eliminar la selección. Y ahora haz lo mismo que al principio al deseleccionar cualquier fondo que estuviera entre el pelo, piernas etc.
+Si has terminado tu selección principal, ahora podemos ocuparnos de cualquier fondo que haya sido seleccionado junto con nuestro personaje. Continúa usando la herramienta lazo, pero cambia su modo a «Extraer de la selección actual», es decir, eliminar la selección. Y ahora haz lo mismo que al principio al deseleccionar cualquier fondo que estuviera entre el pelo, piernas, etc.
 
 ![Imagen del tutorial 4](img/CCB-4-ES.png "Imagen del tutorial 4")
 
@@ -32,7 +32,7 @@ Solo queda una cosa por hacer, cortar nuestro personaje de la imagen y pegarlo e
 
 ## Resultado
 
-Está terminado. No queda muy bien, sobre todo en las puntas, pero es porque no fui muy preciso al hacerlo.
+Está terminado. No quedó muy bien, sobre todo en las puntas, pero es porque no fui muy preciso al hacerlo.
 
 Puede llevar un poco de tiempo, pero el efecto final es bastante bueno.
 
