@@ -44,9 +44,9 @@ The Catch the Beat Indonesia Cup Open 2024 is run by various osu! community memb
 | Custom map quality assurance | ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [Dedot](https://osu.ppy.sh/users/8805157), ::{ flag=ID }:: [Mochi -](https://osu.ppy.sh/users/20424806), ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788), ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187), ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) |
 | Playtester | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361), ::{ flag=ID }:: [Funtastic](https://osu.ppy.sh/users/3555626), ::{ flag=KR }:: [DreStar](https://osu.ppy.sh/users/1808057), ::{ flag=AU }:: [Beerus](https://osu.ppy.sh/users/5529199), ::{ flag=NO }:: [Yunami](https://osu.ppy.sh/users/12217903), ::{ flag=CL }:: [Thaemine](https://osu.ppy.sh/users/32442896), ::{ flag=PE }:: [Lunati1kid](https://osu.ppy.sh/users/25723773) |
 | Streamer | ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [BitDust](https://osu.ppy.sh/users/9573836), ::{ flag=AU }:: [wangwangg](https://osu.ppy.sh/users/6416920), ::{ flag=PL }:: [LaviSorrow](https://osu.ppy.sh/users/9966768) |
-| Commentator | ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898), ::{ flag=SG }:: [NoBudgetGuy](https://osu.ppy.sh/users/28498328), ::{ flag=PH }:: [-Steven08-](https://osu.ppy.sh/users/13654885), ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=AU }:: [Maitoo](https://osu.ppy.sh/users/16899553), ::{ flag=AU }:: [KWYJIBO](https://osu.ppy.sh/users/7178386), |
+| Commentator | ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898), ::{ flag=SG }:: [NoBudgetGuy](https://osu.ppy.sh/users/28498328), ::{ flag=PH }:: [-Steven08-](https://osu.ppy.sh/users/13654885), ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=AU }:: [Maitoo](https://osu.ppy.sh/users/16899553), ::{ flag=AU }:: [KWYJIBO](https://osu.ppy.sh/users/7178386) |
 | Referee | ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [MushReen](https://osu.ppy.sh/users/10129901), ::{ flag=ID }:: [Juragan_Piscok1](https://osu.ppy.sh/users/15507280), ::{ flag=SG }:: [Quickeryes](https://osu.ppy.sh/users/18227681) |
-| Graphic designer | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) |
+| Graphic designer | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
 | Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
 
 ## Links
@@ -141,6 +141,41 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
   2. [Red Velvet - Power Up (AJT) \[Another\]](https://osu.ppy.sh/beatmapsets/1997883#fruits/4183275)
 - Easy
   1. [Hakushi Hasegawa - Doku (zglock) \[Expert\]](https://osu.ppy.sh/beatmapsets/1674871#fruits/3539717)
+
+## Match results
+
+### Round of 32
+
+Saturday, 20 July 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [fua](https://osu.ppy.sh/users/21138904) ::{ flag=HK }:: | 2 | **5** | ::{ flag=AU }:: **[TheTixTop](https://osu.ppy.sh/users/19236870)** | [#1](https://osu.ppy.sh/community/matches/114740134) |
+| Upper | **[Taskmaster](https://osu.ppy.sh/users/3027065)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=SA }:: [WOAH0](https://osu.ppy.sh/users/18336339) | [#1](https://osu.ppy.sh/community/matches/114741332) |
+| Upper | **[\[Amazing\]](https://osu.ppy.sh/users/1391036)** ::{ flag=KR }:: | **5** | 1 | ::{ flag=RU }:: [Nerris](https://osu.ppy.sh/users/11202866) | [#1](https://osu.ppy.sh/community/matches/114743185) |
+| Upper | **[Segmentum](https://osu.ppy.sh/users/15389158)** ::{ flag=RU }:: | **5** | 3 | ::{ flag=TW }:: [Oktavia](https://osu.ppy.sh/users/1952803) | [#1](https://osu.ppy.sh/community/matches/114742431) |
+| Upper | **[Nene Sakura](https://osu.ppy.sh/users/6701104)** ::{ flag=CN }:: | **5** | 0 | ::{ flag=AU }:: [pandaBear](https://osu.ppy.sh/users/107553) | [#1](https://osu.ppy.sh/community/matches/114740523) |
+| Upper | **[Kimitakari](https://osu.ppy.sh/users/4741164)** ::{ flag=RU }:: | **5** | 1 | ::{ flag=TW }:: [\_Tsukiko](https://osu.ppy.sh/users/4787989) | [#1](https://osu.ppy.sh/community/matches/114742508) |
+| Upper | **[DoDoEbi](https://osu.ppy.sh/users/1177233)** ::{ flag=TW }:: | **5** | 0 | ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422) | [#1](https://osu.ppy.sh/community/matches/114743923) |
+| Upper | [OYG](https://osu.ppy.sh/users/7547506) ::{ flag=KR }:: | 0 | **5** | ::{ flag=TW }:: **[Flyer](https://osu.ppy.sh/users/9767342)** | *win by default* |
+
+Sunday, 21 July 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[Nekuro](https://osu.ppy.sh/users/3222638)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=TW }:: [\_Nanami](https://osu.ppy.sh/users/1929450) | [#1](https://osu.ppy.sh/community/matches/114753974) |
+| Upper | **[Happiness Fish](https://osu.ppy.sh/users/4586766)** ::{ flag=TW }:: | **5** | 0 | ::{ flag=TR }:: [lorem ipsum](https://osu.ppy.sh/users/17130789) | [#1](https://osu.ppy.sh/community/matches/114754879) |
+| Upper | [EpanPan](https://osu.ppy.sh/users/13194580) ::{ flag=ID }:: | 4 | **5** | ::{ flag=AU }:: **[KWYJIBO](https://osu.ppy.sh/users/7178386)** | [#1](https://osu.ppy.sh/community/matches/114753693) |
+| Upper | **[shimoe Koharu](https://osu.ppy.sh/users/2145160)** ::{ flag=TW }:: | **5** | 4 | ::{ flag=TW }:: [Nazrin on osu](https://osu.ppy.sh/users/2512267) | [#1](https://osu.ppy.sh/community/matches/114756009) |
+| Upper | **[Minato Yukina](https://osu.ppy.sh/users/4133477)** ::{ flag=TW }:: | **5** | 2 | ::{ flag=RU }:: [Rakety](https://osu.ppy.sh/users/11109479) | [#1](https://osu.ppy.sh/community/matches/114754454) |
+| Upper | [littlepiggod](https://osu.ppy.sh/users/12331683) ::{ flag=HK }:: | 4 | **5** | ::{ flag=HK }:: **[my angel auto](https://osu.ppy.sh/users/29503627)** | [#1](https://osu.ppy.sh/community/matches/114756048) |
+| Upper | **[Chroneko](https://osu.ppy.sh/users/5472877)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=TW }:: [Psc\_IceRain](https://osu.ppy.sh/users/3359485) | [#1](https://osu.ppy.sh/community/matches/114756671) |
+
+Monday, 22 July 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [Azuria](https://osu.ppy.sh/users/16102533) ::{ flag=TH }:: | 4 | **5** | ::{ flag=ID }:: **[Serestia](https://osu.ppy.sh/users/30511396)** | [#1](https://osu.ppy.sh/community/matches/114767931) |
 
 ## Ruleset
 
