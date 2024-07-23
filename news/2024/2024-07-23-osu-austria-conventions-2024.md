@@ -14,7 +14,7 @@ Next to osu! booths, there will also be LAN tournaments, in which you can show o
 
 ![](/wiki/shared/news/2024-07-23-osu-austria-conventions-2024/aninite.png)
 
-Join us at the biggest anime and manga convention in Austria, [AniNite](https://www.aninite.at/en/), which has over 25,000 yearly visitors. You can find us from **August 9th to 11th** at our osu! booth, where there will be 12 PCs for you to play on and show everyone what you're made of.
+Join us at the biggest anime and manga convention in Austria with over 25,000 visitors each year: **[AniNite](https://www.aninite.at/en/)**! Located near the beautiful danube at Austria Center in Vienna. You can find us from **August 9th to 11th** at our osu! booth, where there will be 12 PCs for you to play on and show everyone what you're made of.
 
 During this time, we'll host a **battle royale–styled** osu! tournament. Make sure to register during the event and take home the trophy!
 
@@ -22,9 +22,11 @@ During this time, we'll host a **battle royale–styled** osu! tournament. Make 
 
 ![](/wiki/shared/news/2024-07-23-osu-austria-conventions-2024/yunicon.png)
 
-Next up, we're setting up an osu! booth at [Yunicon 2024](https://www.yunicon.at/en/). During all 4 days of the convention, you'll be able to meet our community, ask questions and play on 10 pre-organised computers!
+Next up, we're setting up an osu! booth at **[Yunicon 2024](https://www.yunicon.at/en/)**, situated at Mutliversum Schwechat. During all 4 days of the convention, you'll be able to meet our community, ask questions and play on 10 pre-organised computers!
 
 On top of that, you'll also be able to witness the biggest osu! 1v1 LAN tournament with a single-elimination bracket that Austria has ever seen!
+
+![](/wiki/shared/news/2024-07-23-osu-austria-conventions-2024/yunicupbannerfinals.png)
 
 You'll be able to sign up for the tournament online. Please join our [Discord server](https://discord.com/invite/dNFuHNmZF4) to get notified when sign-ups open.
 
