@@ -52,7 +52,7 @@ Let's start with an introduction, how would you introduce yourself to the people
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10323184" style="background-image: url('/wiki/shared/news/2024-07-29-the-followpoint-flaro-the-queen-of-speed/avatar-Flaro.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
 
 My name is Flaro, and I am a former #1 USA osu! player in both the United States as well as the NA region.
 
@@ -66,7 +66,7 @@ How did you get introduced to osu!, and what was your first impression of it?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10323184" style="background-image: url('/wiki/shared/news/2024-07-29-the-followpoint-flaro-the-queen-of-speed/avatar-Flaro.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
 
 Shortly before my 11th birthday, I was introduced to the game by a friend of mine that I met through discord, at the time, the game didn't really captivate me that much and I stopped playing up until I turned 12, which is when I would start to play the game very actively and thought the game was very fun!
 
@@ -80,7 +80,7 @@ What made you come up with the name "Flaro", and is there any special meaning be
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10323184" style="background-image: url('/wiki/shared/news/2024-07-29-the-followpoint-flaro-the-queen-of-speed/avatar-Flaro.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
 
 Although the name commonly gets misconstrued as a spin on the pokemon 'Flareon', the name Flaro actually just came to me while I was laying in bed one night and I liked it more than my previous name.
 
@@ -92,7 +92,7 @@ Out of all of the skillsets in the game, what made you want to prioritize speed?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10323184" style="background-image: url('/wiki/shared/news/2024-07-29-the-followpoint-flaro-the-queen-of-speed/avatar-Flaro.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
 
 Funnily enough, I was exclusively a low bpm flow aim and jump player up until only mid 2022, which is when I would start to grind speed, going for a score on the one and only Lionheart map. It was when I skipped 800 in a Walmart whilst wearing a Megumin cosplay (true story!) that I decided to fully commit to getting better at speed and flow aim.
 
@@ -104,7 +104,7 @@ Do you feel like speed is really overweighted, why or why not?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10323184" style="background-image: url('/wiki/shared/news/2024-07-29-the-followpoint-flaro-the-queen-of-speed/avatar-Flaro.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
 
 Oh yeah definitely. Speed is in a very unbalanced state right now and I'm hopeful for the upcoming reworks that seem to aim to help with that issue, such as Xexxar's rework. I really hope to see a meta that's more focused on high bpm aim than anything as that skillset is very fun to me!
 
@@ -116,7 +116,7 @@ What are some things you could say that are unique to you compared to other top 
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10323184" style="background-image: url('/wiki/shared/news/2024-07-29-the-followpoint-flaro-the-queen-of-speed/avatar-Flaro.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
 
 I would have to go with my 3 mod reading ability and consistency, and also my flow aim capabilities, as I have set many unmatched scores to this day on maps of those categories.
 
@@ -128,7 +128,7 @@ It says in your Discord bio that you are a Python Developer, how did you get int
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10323184" style="background-image: url('/wiki/shared/news/2024-07-29-the-followpoint-flaro-the-queen-of-speed/avatar-Flaro.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
 
 I've had a passion for technology for most of my life, just messing around with computers and stuff. I first started learning Python back in 2022 when I started making my own discord bots, and now I just program things for fun! I love that you can basically do anything you want when it comes to programming your own things. I'm currently in college for CompSci and own a server in my home as well.
 
@@ -140,7 +140,7 @@ What made you change your name to "Leah Kate" for a short period of time?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10323184" style="background-image: url('/wiki/shared/news/2024-07-29-the-followpoint-flaro-the-queen-of-speed/avatar-Flaro.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
 
 There wasn't really a specific reason to it other than that I thought it'd be funny and I was popping off on the notorious Leah Kate farm maps at the time. Well worth the name change as now I have a 'Leah Kate arc' in my history!
 
@@ -152,7 +152,7 @@ In previous months, you've had many pp record chokes such as a [Glory Days 3 mod
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10323184" style="background-image: url('/wiki/shared/news/2024-07-29-the-followpoint-flaro-the-queen-of-speed/avatar-Flaro.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
 
 It can be really demotivating to be so so close to a goal but just one singular mistake costs it from you. Although I will say, the pp record grind had some of the most rewarding feelings I have ever felt while playing this game. Being close to getting a highly contested world record feels amazing, and even though I didn't get it, it was well worth the grind.
 
@@ -164,7 +164,7 @@ Was achieving #1 in USA something you have wanted for a while or did it just com
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10323184" style="background-image: url('/wiki/shared/news/2024-07-29-the-followpoint-flaro-the-queen-of-speed/avatar-Flaro.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
 
 I wasn't even really interested in getting #1 USA until the day that I got it, one of my biggest pop off days to date. It was on that day where the drive to become the best player in the USA really kept me going and pushed me to farm and farm and farm. Even after getting #1 USA I kept pushing, peaking at rank #7.
 
@@ -176,7 +176,7 @@ Is there any specific scores you want to achieve or see others achieve in the fu
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10323184" style="background-image: url('/wiki/shared/news/2024-07-29-the-followpoint-flaro-the-queen-of-speed/avatar-Flaro.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
 
 Scores that are on my to-do list currently are probably [Rat Race](https://osu.ppy.sh/beatmapsets/958005#osu/2069969), [Everything went Numb](https://osu.ppy.sh/beatmapsets/414289#osu/898106), [Happy! Lucky!](https://osu.ppy.sh/beatmapsets/1594964#osu/3257742), and just focusing on more aim oriented scores in general. I don't really pay attention to the scores that others get, but I always get super hyped when I see another high bpm aim score from [mrekk](https://osu.ppy.sh/users/7562902), those are always legendary to watch and I hope to see more.
 
@@ -188,7 +188,7 @@ To finish things up, what does the future hold for you? Do you have any goals or
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10323184" style="background-image: url('/wiki/shared/news/2024-07-29-the-followpoint-flaro-the-queen-of-speed/avatar-Flaro.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
 
 I will continue the osu! grind until my motivation to do so declines, although as of recent my focus has been much less on pp and more on tourney performances and just playing for fun! Although attempting to reclaim #1 USA isn’t completely out of the question, it’s unlikely unless my interest in grinding for pp comes back. In terms of goals, my biggest goal at the moment is definitely getting better at tournaments and winning OWC, and being crowned an osu! champion, along with that, I want to focus more on my growth as a [streamer on Twitch](https://www.twitch.tv/flarosu), and would love to get invited to Roundtable sometime in the future, meeting other streamers like me always makes me happy!
 
