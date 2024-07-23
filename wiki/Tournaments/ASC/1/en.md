@@ -92,6 +92,29 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+- RC
+  1. [beatMARIO - Sissou Ensemble (\[GS\]hina) \[Ancore\]](https://osu.ppy.sh/beatmapsets/2186534#mania/4622947)
+  2. [Rin - Prism Magical (DJ SHARPNEL hardrave remix) (Couil) \[Magical 1.2x\]](https://osu.ppy.sh/beatmapsets/1245301#mania/2588519)
+  3. [E-Type - Set The World On Fire (Sped Up Ver.) (Jole) \[this is fine\]](https://osu.ppy.sh/beatmapsets/1456779#mania/3435284)
+  4. [Karafuru. Saunzu. Po\^to - Colorful Sounds Cutter (\[GS\]hina) \[Fragment (ASC\_Edit)\]](https://osu.ppy.sh/beatmapsets/2145954#mania/4703819)
+  5. [MY FIRST STORY - 2 FACE (Logan636) \[CUT\]](https://osu.ppy.sh/beatmapsets/2182924#mania/4612615)
+  6. [kanone vs. BlackY - Stardust:RAY (Eclipse-) \[MASTER\]](https://osu.ppy.sh/beatmapsets/2219192#mania/4703928)
+- LN
+  1. [Aimer with chelly (EGOIST) - ninelie (REDSHiFT x Vesuvia Remix) (Logan636) \[Don't be afraid, daybreak has come.\]](https://osu.ppy.sh/beatmapsets/2219140#mania/4703847)
+  2. [Eagle - Hypersonik (anatharax) \[Another 1.1x\]](https://osu.ppy.sh/beatmapsets/2219143#mania/4703852)
+  3. [Ado - Buriki no Dance (Muses) \[Delusion\]](https://osu.ppy.sh/beatmapsets/2219141#mania/4703848)
+- HB
+  1. [ZxNX - Fana (TheFunk) \[Penumbra\]](https://osu.ppy.sh/beatmapsets/2219128#mania/4703824)
+  2. [Yak\_Won - Out Of The Blue (Yana Feiya) \[Out Of The BlueSky\]](https://osu.ppy.sh/beatmapsets/2196535#mania/4647926)
+  3. [MEMODEMO X AQUASINE - Point and Click (AlexDunk) \[Confusion and 69.\]](https://osu.ppy.sh/beatmapsets/2219116#mania/4703808)
+- SV
+  1. [Getty - Golyat (Paturages) \[Rolizier\]](https://osu.ppy.sh/beatmapsets/2219142#mania/4703850)
+  2. [Yosk! - Cockroach Cooking (awdse22) \[UGHH EWWW BRWUEEEHGHGH \*cough cough\* \*vomit\*\]](https://osu.ppy.sh/beatmapsets/2219133#mania/4703832)
+- Tiebreaker
+  1. **[Tanger - BS//Recall (Critical\_Star) \[CS and Leon's Golden Age\]](https://osu.ppy.sh/beatmapsets/2219156#mania/4703868)**
+
 ### Round of 16
 
 - RC
