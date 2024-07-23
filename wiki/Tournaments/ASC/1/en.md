@@ -128,6 +128,26 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
 
 ## Match results
 
+### Round of 16
+
+Saturday, 20 July 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Yuma fanboys** | **5** | 0 | SKIBIDI Archive | [#1](https://osu.ppy.sh/community/matches/114740533) |
+| **Play Robeats** | **5** | 0 | Undertable sands | [#1](https://osu.ppy.sh/community/matches/114754174) |
+| **Pixel 7** | **5** | 4 | Kamisato Lemon | [#1](https://osu.ppy.sh/community/matches/114742427) |
+| **LOTT'S TRAGIC HINDILOVE EXTRA** | **5** | 1 | team name | [#1](https://osu.ppy.sh/community/matches/114743041) |
+
+Sunday, 21 July 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Bocchi Soup** | **5** | 1 | Mama Mia | [#1](https://osu.ppy.sh/community/matches/114754855) |
+| **skibidi's hybrid soup** | **5** | 1 | Rice Farmer | [#1](https://osu.ppy.sh/community/matches/114755931) |
+| **83.33% Chinese 16.66% Filipino** | **0** | -1 | Furry Femboys | *win by default* |
+| **Noodle Soup** | **5** | 0 | arm water sick ma | [#1](https://osu.ppy.sh/community/matches/114755923) |
+
 ### Qualifiers
 
 The final standings for the Qualifier stage can be found in the following [statistics](https://asia-suiji-cup.vercel.app/stats) from ASC's website.
