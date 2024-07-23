@@ -63,6 +63,7 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1920758)
 - [Discord server](https://discord.gg/NUd7GyU4Hd)
 - [Livestream](https://www.twitch.tv/asiasuijicup)
+- [ASC Fantasy League](https://docs.google.com/spreadsheets/d/1xdieLs_NASDbeQAl4r_N8jDQn0chVKxP-LtqMnHJ0Os/edit?gid=0#gid=0)
 - [ASC trailer](https://youtu.be/a1fHTbI5erU)
 - [ASC website](https://asia-suiji-cup.vercel.app)
 - [Challonge bracket](https://challonge.com/asiasuijicup)
@@ -116,9 +117,10 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
 
 - SV
   1. [P\*Light - SWAG!! (Orca-) \[Stage 1: WATCH OUT!!\]](https://osu.ppy.sh/beatmapsets/2206316#mania/4671278)
-  2. [daisan - Tenjou no Porisuruin (\[GS\]hina) \[Stage 2: Ascended\]](https://osu.ppy.sh/beatmapsets/2206306#mania/4671254)
-  3. [suisoh - Afterwards (ERA Imperial) \[Stage 3: Mimir\]](https://osu.ppy.sh/beatmapsets/2206334#mania/4671300)
-  4. [REDALiCE - DEAD or DIE (YuEast 2018) \[Stage 4: Dice\]](https://osu.ppy.sh/beatmapsets/2206328#mania/4671294)
+- RC
+  1. [daisan - Tenjou no Porisuruin (\[GS\]hina) \[Stage 2: Ascended\]](https://osu.ppy.sh/beatmapsets/2206306#mania/4671254)
+  2. [suisoh - Afterwards (ERA Imperial) \[Stage 3: Mimir\]](https://osu.ppy.sh/beatmapsets/2206334#mania/4671300)
+  3. [REDALiCE - DEAD or DIE (YuEast 2018) \[Stage 4: Dice\]](https://osu.ppy.sh/beatmapsets/2206328#mania/4671294)
 - LN
   1. [CHON - Splash (anatharax) \[Stage 5: Spritz\]](https://osu.ppy.sh/beatmapsets/2206314#mania/4671275)
   2. [Getty vs. DJ DiA - DropZ-Line- (Toaph Daddy) \[Stage 6: Cataclysm\]](https://osu.ppy.sh/beatmapsets/2206317#mania/4671280)
