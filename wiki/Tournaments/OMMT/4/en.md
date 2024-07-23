@@ -19,8 +19,8 @@ The **osu!mania Malaysia Tournament 4** (***OMMT 4***) is a Malaysian team-based
 | Screening phase | 2024-06-18/2024-06-30 |
 | Qualifier showcase | 2024-07-01 |
 | Qualifiers | 2024-07-06/2024-07-07 |
-| Round of 32 | 2024-07-13/2024-07-14 |
-| Round of 16 | 2024-07-20/2024-07-21 |
+| Round of 32 | 2024-07-12/2024-07-14 |
+| Round of 16 | 2024-07-16/2024-07-21 |
 | Quarterfinals | 2024-07-27/2024-07-28 |
 | Semifinals | 2024-08-03/2024-08-04 |
 | Finals | 2024-08-10/2024-08-11 |
@@ -168,6 +168,39 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
   1. [awfuless meets Zekk - MATOI -phase L- (\[Andre\]) \[Stage 5: Kamui Senketsu\]](https://osu.ppy.sh/beatmapsets/2206995#mania/4673206)
 
 ## Match results
+
+### Round of 16
+
+Tuesday, 16 July 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Upscroll Gang | 1 | **5** | **Yo, What Team Name** | [#1](https://osu.ppy.sh/community/matches/114692677) |
+
+Saturday, 20 July 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Canis Majoris: Sirius A and B | -1 | **0** | **Epic Cat** | *win by default* |
+| **Gon and LongGone** | **0** | -1 | RealNoFake | *win by default* |
+| **Alpha Dan Virgins** | **5** | 3 | duck is bird | [#1](https://osu.ppy.sh/community/matches/114741829) |
+| F | 2 | **5** | **Anthena** | [#1](https://osu.ppy.sh/community/matches/114742423) |
+| **Appley Leafy** | **5** | 3 | kibitzfanboys | [#1](https://osu.ppy.sh/community/matches/114742746) |
+| **Re:Zuna** | **5** | 0 | we love jacking | [#1](https://osu.ppy.sh/community/matches/114743117) |
+| **leon's waifuus!!** | **5** | 0 | Rice Noodles | [#1](https://osu.ppy.sh/community/matches/114743774) |
+| **Digital Frogs** | **5** | 0 | Dark System | [#1](https://osu.ppy.sh/community/matches/114743854) |
+
+Sunday, 21 July 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| i like cookie | 4 | **5** | **Overjoyed** | [#1](https://osu.ppy.sh/community/matches/114755969) |
+| **Tidur** | **5** | 3 | Tyto | [#1](https://osu.ppy.sh/community/matches/114755946) |
+| **Almost disabled** | **5** | 3 | 3 DollarKeyboard | [#1](https://osu.ppy.sh/community/matches/114756690) |
+| ImForcedToJoin | -1 | **0** | **Team ferrets** | *win by default* |
+| Sleepless Duo | -1 | **0** | **osake** | *win by default* |
+| The 5 Digits | -1 | **0** | **how to train your dragon** | *win by default* |
+| Sengketa Blok Ambalat Incident \|\| TPT | 1 | **5** | **Los Pollos Hermanos** | [#1](https://osu.ppy.sh/community/matches/114758898) |
 
 ### Round of 32
 
