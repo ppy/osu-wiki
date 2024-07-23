@@ -10,7 +10,7 @@ Ever aspired to leave your impact on the fabled Ranked section? Today might be y
 
 Yep, you've heard it here first, the BN Mentorship Program is back for its third cycle! For those unaware, this is a mentorship course organised by members of the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) for the formation of new [Beatmap Nominators](/wiki/People/Beatmap_Nominators), with an added bonus of going straight to a stint in [probation](/wiki/People/Beatmap_Nominators#probationary-beatmap-nominators) if you're deemed ready by the end of the cycle.
 
-With each cycle, we try to improve on things by iterating on systematic adjustments based on feedback. This time around, we'd like to announce that we'starting to allow Beatmap Nominators to mentor here! To test the waters, we've hand-picked a few trusted and experienced osu!mania individuals for the task, but we may expand on this in the future!
+With each cycle, we try to improve the program by iterating on systematic adjustments based on feedback. This time around, we'd like to announce that we're starting to allow Beatmap Nominators to mentor here! To test the waters, we've hand-picked a few trusted and experienced osu!mania individuals for the task, but we may expand on this in the future!
 
 ## Mentors
 
