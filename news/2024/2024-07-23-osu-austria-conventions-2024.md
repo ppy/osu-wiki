@@ -14,7 +14,7 @@ Next to osu! booths, there will also be LAN tournaments, in which you can show o
 
 ![](/wiki/shared/news/2024-07-23-osu-austria-conventions-2024/aninite.png)
 
-Join us at the biggest anime and manga convention in Austria with over 25,000 visitors each year: **[AniNite](https://www.aninite.at/en/)**! Located near the beautiful danube at Austria Center in Vienna. You can find us from **August 9th to 11th** at our osu! booth, where there will be 12 PCs for you to play on and show everyone what you're made of.
+Join us at the biggest anime and manga convention in Austria with over 25,000 visitors each year: **[AniNite](https://www.aninite.at/en/)**! Located near the beautiful Danube River at Austria Center in Vienna, you can find us from **August 9th to 11th** at our osu! booth, where there will be 12 PCs for you to play on and show everyone what you're made of.
 
 During this time, we'll host a **battle royale–styled** osu! tournament. Make sure to register during the event and take home the trophy!
 
