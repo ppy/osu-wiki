@@ -19,22 +19,22 @@ The **Asia Suiji Cup: Rhythmus Aquarum** (***ASC***) is a three-on-three asian c
 | Player registration phase | 2024-05-25/2024-06-14 |
 | Screening phase | 2024-06-15/2024-06-29 |
 | Team drawings | 2024-06-30 |
-| Qualifiers | 2024-07-06/2024-07-07 |
-| Round of 16 | 2024-07-13/2024-07-14 |
-| Quarterfinals | 2024-07-20/2024-07-21 |
-| Semifinals | 2024-07-27/2024-07-28 |
-| Finals | 2024-08-03/2024-08-04 |
-| Grand Finals | 2024-08-10/2024-08-11 |
+| Qualifiers | 2024-07-13/2024-07-14 |
+| Round of 16 | 2024-07-20/2024-07-21 |
+| Quarterfinals | 2024-07-27/2024-07-28 |
+| Semifinals | 2024-08-03/2024-08-04 |
+| Finals | 2024-08-10/2024-08-11 |
+| Grand Finals | 2024-08-17/2024-08-18 |
 
 ## Prizes
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter tag, user profile banner |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag, user profile banner |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag, user profile banner |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 6 months of osu!supporter tag, user profile banner |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter tag, user profile banner |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter tag, user profile banner |
 
-First place's osu!supporter tag is provided by ::{ flag=GB }:: [IncognitoMercy](https://osu.ppy.sh/users/12838922). Donations and all supports can be made through [ASC's Ko-fi page](https://ko-fi.com/asiasuijicup).
+Second place's osu!supporter tag is provided by ::{ flag=GB }:: [IncognitoMercy](https://osu.ppy.sh/users/12838922). Donations and all supports can be made through [ASC's Ko-fi page](https://ko-fi.com/asiasuijicup).
 
 ## Organisation
 
@@ -45,15 +45,15 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
 | Organiser | ::{ flag=MY }:: [ERA Leon](https://osu.ppy.sh/users/13382147), ::{ flag=VN }:: [MashedPotato](https://osu.ppy.sh/users/10494860) |
 | Consultant | ::{ flag=CA }:: [Shizunaa](https://osu.ppy.sh/users/7352655) |
 | Head mappooler | ::{ flag=KR }:: [\[GB\]SuddenDeath](https://osu.ppy.sh/users/6699923), ::{ flag=MY }:: [ERA Leon](https://osu.ppy.sh/users/13382147) |
-| Mappool playtester | ::{ flag=ID }:: [-Yubi-](https://osu.ppy.sh/users/17851478), ::{ flag=GB }:: [\[GB\]Envy](https://osu.ppy.sh/users/11817815), ::{ flag=ID }:: [Aikiyo Fuuka](https://osu.ppy.sh/users/5179764), ::{ flag=ES }:: [ERA Guldakh](https://osu.ppy.sh/users/8553078), ::{ flag=CZ }:: [grillroasted](https://osu.ppy.sh/users/18271627), ::{ flag=CA }:: [Robert6400](https://osu.ppy.sh/users/11467559) |
-| RC specialised mapper | ::{ flag=JP }:: [\[GS\]hina](https://osu.ppy.sh/users/20040607), ::{ flag=BR }:: [AutotelicBrown](https://osu.ppy.sh/users/4238941), ::{ flag=MY }:: [Critical\_Star](https://osu.ppy.sh/users/3793196), ::{ flag=PL }:: [Eclipse-](https://osu.ppy.sh/users/8493070), ::{ flag=US }:: [ERA Imperial](https://osu.ppy.sh/users/5066305), ::{ flag=MY }:: [ERA Leon](https://osu.ppy.sh/users/13382147), ::{ flag=ID }:: [FerdiXIA-](https://osu.ppy.sh/users/9030389), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=ID }:: [KinoHimari](https://osu.ppy.sh/users/13371424), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909), ::{ flag=NL }:: [Saemitsu](https://osu.ppy.sh/users/14262789), ::{ flag=ES }:: [Ska](https://osu.ppy.sh/users/10313023), ::{ flag=CN }:: [YuEast2018](https://osu.ppy.sh/users/13953619), ::{ flag=KR }:: [Zia](https://osu.ppy.sh/users/7979303) |
-| LN specialised mapper | ::{ flag=ID }:: [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ::{ flag=TW }:: [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458), ::{ flag=IT }:: [\[GB\]Rick](https://osu.ppy.sh/users/25263357), ::{ flag=CN }:: [\[GB\]V1do](https://osu.ppy.sh/users/17527968), ::{ flag=JP }:: [\[GS\]hina](https://osu.ppy.sh/users/20040607), ::{ flag=PL }:: [Eclipse-](https://osu.ppy.sh/users/8493070), ::{ flag=US }:: [ERA Imperial](https://osu.ppy.sh/users/5066305), ::{ flag=MY }:: [ERA Leon](https://osu.ppy.sh/users/13382147), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=ID }:: [KinoHimari](https://osu.ppy.sh/users/13371424), ::{ flag=CN }:: [Muses](https://osu.ppy.sh/users/9705896), ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909), ::{ flag=NL }:: [Saemitsu](https://osu.ppy.sh/users/14262789), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811), ::{ flag=HK }:: [Yana Feiya](https://osu.ppy.sh/users/7802517), ::{ flag=CN }:: [YuEast2018](https://osu.ppy.sh/users/13953619) |
-| HB specialised mapper | ::{ flag=TW }:: [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458), ::{ flag=IT }:: [\[GB\]Rick](https://osu.ppy.sh/users/25263357), ::{ flag=CN }:: [\[GB\]V1do](https://osu.ppy.sh/users/17527968), ::{ flag=JP }:: [\[GS\]hina](https://osu.ppy.sh/users/20040607), ::{ flag=CN }:: [AelSan](https://osu.ppy.sh/users/14095291), ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799), ::{ flag=CA }:: [arpia97](https://osu.ppy.sh/users/6363008), ::{ flag=MY }:: [Critical\_Star](https://osu.ppy.sh/users/3793196), ::{ flag=PL }:: [Eclipse-](https://osu.ppy.sh/users/8493070), ::{ flag=US }:: [ERA Imperial](https://osu.ppy.sh/users/5066305), ::{ flag=MY }:: [ERA Leon](https://osu.ppy.sh/users/13382147), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=SG }:: [Japeynius](https://osu.ppy.sh/users/13993659), ::{ flag=CN }:: [Muses](https://osu.ppy.sh/users/9705896), ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909), ::{ flag=NL }:: [Saemitsu](https://osu.ppy.sh/users/14262789), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991), ::{ flag=HK }:: [Yana Feiya](https://osu.ppy.sh/users/7802517), ::{ flag=CN }:: [YuEast2018](https://osu.ppy.sh/users/13953619) |
-| SV specialised mapper | ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799), ::{ flag=SG }:: [awdse22](https://osu.ppy.sh/users/8743513), ::{ flag=FR }:: [BlackyDay](https://osu.ppy.sh/users/5724831), ::{ flag=SG }:: [Claren](https://osu.ppy.sh/users/9362562), ::{ flag=GB }:: [H1Pur](https://osu.ppy.sh/users/15756120), ::{ flag=ID }:: [KinoHimari](https://osu.ppy.sh/users/13371424), ::{ flag=US }:: [Orca-](https://osu.ppy.sh/users/7958845), ::{ flag=US }:: [NovaSagittarii](https://osu.ppy.sh/users/11664177), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=NL }:: [Promachos](https://osu.ppy.sh/users/14069486), ::{ flag=TH }:: [RuleBlazing](https://osu.ppy.sh/users/7312402) |
-| Referee | *to be announced* |
-| Streamer | *to be announced* |
-| Commentator | *to be announced* |
-| Designer | ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799), ::{ flag=CN }:: [lovely\_hyahya](https://osu.ppy.sh/users/10318380), ::{ flag=PH }:: [OsuMe65](https://osu.ppy.sh/users/852867), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=NL }:: [Promachos](https://osu.ppy.sh/users/14069486), ::{ flag=CN }:: [RiceSS](https://osu.ppy.sh/users/8271436), ::{ flag=SG }:: [sugosugiii](https://twitter.com/Cascale2) |
+| Mappool playtester | ::{ flag=ID }:: [-Yubi-](https://osu.ppy.sh/users/17851478), ::{ flag=GB }:: [\[Crz\]Envy](https://osu.ppy.sh/users/11817815), ::{ flag=ID }:: [Aikiyo Fuuka](https://osu.ppy.sh/users/5179764), ::{ flag=SG }:: [awdse22](https://osu.ppy.sh/users/8743513), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=ES }:: [ERA Guldakh](https://osu.ppy.sh/users/8553078), ::{ flag=US }:: [ERA Imperial](https://osu.ppy.sh/users/5066305), ::{ flag=DE }:: [ERA medium kek](https://osu.ppy.sh/users/11625617), ::{ flag=CZ }:: [grillroasted](https://osu.ppy.sh/users/18271627), ::{ flag=TH }:: [ItzScep](https://osu.ppy.sh/users/18456257), ::{ flag=CA }:: [Robert6400](https://osu.ppy.sh/users/11467559), ::{ flag=NL }:: [Shoira](https://osu.ppy.sh/users/13377652) |
+| RC specialised mapper | ::{ flag=JP }:: [\[GS\]hina](https://osu.ppy.sh/users/20040607), ::{ flag=ID }:: [Ainer](https://osu.ppy.sh/users/13371424), ::{ flag=BR }:: [AutotelicBrown](https://osu.ppy.sh/users/4238941), ::{ flag=PL }:: [Eclipse-](https://osu.ppy.sh/users/8493070), ::{ flag=US }:: [ERA Imperial](https://osu.ppy.sh/users/5066305), ::{ flag=MY }:: [ERA Leon](https://osu.ppy.sh/users/13382147), ::{ flag=ID }:: [FerdiXIA-](https://osu.ppy.sh/users/9030389), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=TH }:: [ItzScep](https://osu.ppy.sh/users/18456257), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909), ::{ flag=ES }:: [Ska](https://osu.ppy.sh/users/10313023), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991), ::{ flag=CN }:: [YuEast2018](https://osu.ppy.sh/users/13953619), ::{ flag=KR }:: [Zia](https://osu.ppy.sh/users/7979303) |
+| LN specialised mapper | ::{ flag=ID }:: [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ::{ flag=TW }:: [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458), ::{ flag=AU }:: [anatharax](https://osu.ppy.sh/users/14390680), ::{ flag=PL }:: [Eclipse-](https://osu.ppy.sh/users/8493070), ::{ flag=PH }:: [ERA arccat](https://osu.ppy.sh/users/4848294), ::{ flag=US }:: [ERA Imperial](https://osu.ppy.sh/users/5066305), ::{ flag=MY }:: [ERA Leon](https://osu.ppy.sh/users/13382147), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=US }:: [Logan636](https://osu.ppy.sh/users/9423766), ::{ flag=VN }:: [Micleak](https://osu.ppy.sh/users/16140674), ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811), ::{ flag=HK }:: [Yana Feiya](https://osu.ppy.sh/users/7802517), ::{ flag=CN }:: [YuEast2018](https://osu.ppy.sh/users/13953619) |
+| HB specialised mapper | ::{ flag=TW }:: [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458), ::{ flag=IT }:: [\[GB\]Rick](https://osu.ppy.sh/users/25263357), ::{ flag=CN }:: [AelSan](https://osu.ppy.sh/users/14095291), ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799), ::{ flag=CA }:: [arpia97](https://osu.ppy.sh/users/6363008), ::{ flag=CN }:: [Blue\_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=US }:: [chxu](https://osu.ppy.sh/users/13712190), ::{ flag=MY }:: [Critical\_Star](https://osu.ppy.sh/users/3793196), ::{ flag=US }:: [ERA Imperial](https://osu.ppy.sh/users/5066305), ::{ flag=MY }:: [ERA Leon](https://osu.ppy.sh/users/13382147), ::{ flag=SG }:: [Japeynius](https://osu.ppy.sh/users/13993659), ::{ flag=CN }:: [Muses](https://osu.ppy.sh/users/9705896), ::{ flag=NL }:: [Saemitsu](https://osu.ppy.sh/users/14262789), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991), ::{ flag=HK }:: [Yana Feiya](https://osu.ppy.sh/users/7802517) |
+| SV specialised mapper | ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=SG }:: [awdse22](https://osu.ppy.sh/users/8743513), ::{ flag=SG }:: [Claren](https://osu.ppy.sh/users/9362562), ::{ flag=GB }:: [H1Pur](https://osu.ppy.sh/users/15756120), ::{ flag=US }:: [Orca-](https://osu.ppy.sh/users/7958845), ::{ flag=US }:: [NovaSagittarii](https://osu.ppy.sh/users/11664177), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=NL }:: [Promachos](https://osu.ppy.sh/users/14069486), ::{ flag=TH }:: [RuleBlazing](https://osu.ppy.sh/users/7312402) |
+| Referee | ::{ flag=VN }:: [-\[SnowFlakes\]-](https://osu.ppy.sh/users/19207842), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=VN }:: [\[LS\]Sagirium](https://osu.ppy.sh/users/16530364), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=US }:: [cute tomboy](https://osu.ppy.sh/users/27209874), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=CA }:: [ERA Sunny](https://osu.ppy.sh/users/16468962), ::{ flag=US }:: [ERA trooperr](https://osu.ppy.sh/users/32028459), ::{ flag=PE }:: [ERA Xuste](https://osu.ppy.sh/users/17989444), ::{ flag=PH }:: [Gerwin13](https://osu.ppy.sh/users/15776185), ::{ flag=VN }:: [Krystal Quan](https://osu.ppy.sh/users/20569104), ::{ flag=VN }:: [Poity](https://osu.ppy.sh/users/17148657), ::{ flag=CA }:: [Shizunaa](https://osu.ppy.sh/users/7352655) |
+| Streamer | ::{ flag=VN }:: [- Fubukiii](https://osu.ppy.sh/users/9931217), ::{ flag=US }:: [Chupalika](https://osu.ppy.sh/users/1926383), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=CA }:: [ERA Sunny](https://osu.ppy.sh/users/16468962), ::{ flag=MY }:: [Evirir](https://osu.ppy.sh/users/8126553), ::{ flag=VN }:: [Krystal Quan](https://osu.ppy.sh/users/20569104), ::{ flag=CN }:: [Rush\_FTK](https://osu.ppy.sh/users/3046856) |
+| Commentator | ::{ flag=MY }:: [Cryolien](https://osu.ppy.sh/users/1626983), ::{ flag=MY }:: [ERA Leon](https://osu.ppy.sh/users/13382147), ::{ flag=CA }:: [ERA Sunny](https://osu.ppy.sh/users/16468962), ::{ flag=PH }:: [Itawachi](https://osu.ppy.sh/users/12929973), ::{ flag=PH }:: [Lazereed](https://osu.ppy.sh/users/12894120), ::{ flag=VN }:: [MashedPotato](https://osu.ppy.sh/users/10494860), ::{ flag=AU }:: [Orcanos](https://osu.ppy.sh/users/13762441), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=MY }:: [Unicow](https://osu.ppy.sh/users/9444174) |
+| Designer | ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799), ::{ flag=DE }:: [ERA Aracium](https://osu.ppy.sh/users/15882740), ::{ flag=VN }:: [KitHoly](https://osu.ppy.sh/users/14083855), ::{ flag=CN }:: [lovely\_hyahya](https://osu.ppy.sh/users/10318380), ::{ flag=ID }:: [nayuu](https://osu.ppy.sh/users/12561379), ::{ flag=PH }:: [OsuMe65](https://osu.ppy.sh/users/852867), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=NL }:: [Promachos](https://osu.ppy.sh/users/14069486), ::{ flag=CN }:: [RiceSS](https://osu.ppy.sh/users/8271436), ::{ flag=SG }:: [sugosugiii](https://twitter.com/Cascale2) |
 | Website developer | ::{ flag=VN }:: [longnguyen2004](https://osu.ppy.sh/users/3874031), ::{ flag=GB }:: [Pyro](https://github.com/ThevinSilva), ::{ flag=VN }:: [TvS SorAKuN](https://osu.ppy.sh/users/11115041) |
 | Statistician | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=NZ }:: [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ::{ flag=VN }:: [rock-on](https://osu.ppy.sh/users/9676089) |
 | Wiki editor | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
@@ -64,15 +64,92 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
 - [Discord server](https://discord.gg/NUd7GyU4Hd)
 - [Livestream](https://www.twitch.tv/asiasuijicup)
 - [ASC trailer](https://youtu.be/a1fHTbI5erU)
-- [Staff registration form](https://docs.google.com/forms/d/e/1FAIpQLSdBVpVKH9KMxZ4Ql1Apb0fRz0-20DK7meT5wMkZ1h6jZYydpw/viewform)
+- [ASC website](https://asia-suiji-cup.vercel.app)
+- [Challonge bracket](https://challonge.com/asiasuijicup)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/148) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 
 ## Participants
 
-*Participants will be announced soon after the screening phase ends.*
+| Team | Members |
+| :-- | :-- |
+| **83.33% Chinese 16.66% Filipino** | ::{ flag=PH }:: **[Silicosis](https://osu.ppy.sh/users/15548876)**, ::{ flag=CN }:: [9961](https://osu.ppy.sh/users/14609209), ::{ flag=SG }:: [ERA Adam](https://osu.ppy.sh/users/12297375), ::{ flag=TW }:: [fewesf9](https://osu.ppy.sh/users/18927880), ::{ flag=CN }:: [nyasunfanboy](https://osu.ppy.sh/users/14066511), ::{ flag=MO }:: [Randumbs](https://osu.ppy.sh/users/27657112) |
+| **arm water sick ma** | ::{ flag=VN }:: **[Rxizuna](https://osu.ppy.sh/users/16055641)**, ::{ flag=VN }:: [Aquarius\_hps](https://osu.ppy.sh/users/26262309), ::{ flag=MO }:: [Iamkit925](https://osu.ppy.sh/users/19081163), ::{ flag=HK }:: [racksack](https://osu.ppy.sh/users/18111392), ::{ flag=ID }:: [Yangga](https://osu.ppy.sh/users/12143152), ::{ flag=TR }:: [Zanherall](https://osu.ppy.sh/users/22929825) |
+| **Bocchi Soup** | ::{ flag=KR }:: **[gaesol](https://osu.ppy.sh/users/12452131)**, ::{ flag=TH }:: [\[GS\]Thanachot](https://osu.ppy.sh/users/23509758), ::{ flag=VN }:: [\[MBR\]VTSeele](https://osu.ppy.sh/users/17050835), ::{ flag=PH }:: [CertifiedPinoy](https://osu.ppy.sh/users/11183413), ::{ flag=CN }:: [Nyagato Yuki](https://osu.ppy.sh/users/32954144), ::{ flag=MY }:: [Projiensux](https://osu.ppy.sh/users/26882713) |
+| **Furry Femboys** | ::{ flag=TH }:: **[Achino](https://osu.ppy.sh/users/13349388)**, ::{ flag=VN }:: [Kurokami\_Fbk](https://osu.ppy.sh/users/32221678), ::{ flag=KR }:: [Pocafanboyfan](https://osu.ppy.sh/users/10344857), ::{ flag=SG }:: [pwod](https://osu.ppy.sh/users/20846896), ::{ flag=SG }:: [TheOPmeme](https://osu.ppy.sh/users/15763622), ::{ flag=VN }:: [Wolfesch](https://osu.ppy.sh/users/26970862) |
+| **Kamisato Lemon** | ::{ flag=VN }:: **[\[Zekken\]](https://osu.ppy.sh/users/8321730)**, ::{ flag=TW }:: [amano\_hina](https://osu.ppy.sh/users/19882148), ::{ flag=ID }:: [Fr05tyGD](https://osu.ppy.sh/users/14230684), ::{ flag=SA }:: [MrFoap](https://osu.ppy.sh/users/26268474), ::{ flag=JP }:: [Nikorofanboy](https://osu.ppy.sh/users/34344384), ::{ flag=TW }:: [Shice2566](https://osu.ppy.sh/users/16191180) |
+| **LOTT'S TRAGIC HINDILOVE EXTRA** | ::{ flag=VN }:: **[Lott](https://osu.ppy.sh/users/13821222)**, ::{ flag=CN }:: [\[Crz\]Xinyi2016](https://osu.ppy.sh/users/14213841), ::{ flag=MY }:: [Fuuneral](https://osu.ppy.sh/users/31042682), ::{ flag=CN }:: [neeeeeh](https://osu.ppy.sh/users/18586390), ::{ flag=KR }:: [RAIDSICK3](https://osu.ppy.sh/users/31786158), ::{ flag=SA }:: [yui -](https://osu.ppy.sh/users/27404774) |
+| **Mama Mia** | ::{ flag=BH }:: **[Unitori-](https://osu.ppy.sh/users/15772814)**, ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=VN }:: [BC1\_CI9](https://osu.ppy.sh/users/25923595), ::{ flag=CN }:: [Kirchhoff123](https://osu.ppy.sh/users/29546640), ::{ flag=KR }:: [PocaFangirl](https://osu.ppy.sh/users/18278945), ::{ flag=MY }:: [Zilava](https://osu.ppy.sh/users/25750286) |
+| **Noodle Soup** | ::{ flag=SG }:: **[oyama mahiro](https://osu.ppy.sh/users/21207265)**, ::{ flag=TW }:: [-Veloce-](https://osu.ppy.sh/users/23248427), ::{ flag=VN }:: [JustAnYDudEykNw](https://osu.ppy.sh/users/29268726), ::{ flag=ID }:: [Prinow6](https://osu.ppy.sh/users/18658630), ::{ flag=MY }:: [ReJust](https://osu.ppy.sh/users/20670028), ::{ flag=KR }:: [Selitation](https://osu.ppy.sh/users/25311011) |
+| **Pixel 7** | ::{ flag=TH }:: **[konkawe](https://osu.ppy.sh/users/15665805)**, ::{ flag=SG }:: [Big noob lol](https://osu.ppy.sh/users/21591349), ::{ flag=QA }:: [cyna\_](https://osu.ppy.sh/users/15444660), ::{ flag=ID }:: [Heriza-](https://osu.ppy.sh/users/8911771), ::{ flag=TR }:: [hsod](https://osu.ppy.sh/users/15391485), ::{ flag=VN }:: [oofyy](https://osu.ppy.sh/users/25468030) |
+| **Play Robeats** | ::{ flag=TH }:: **[--Pavin--](https://osu.ppy.sh/users/12046267)**, ::{ flag=VN }:: [insss](https://osu.ppy.sh/users/25925475), ::{ flag=ID }:: [lisachandra](https://osu.ppy.sh/users/25925475), ::{ flag=AU }:: [Orcanos](https://osu.ppy.sh/users/13762441), ::{ flag=NZ }:: [Robeats](https://osu.ppy.sh/users/19446399), ::{ flag=VN }:: [yeetboii](https://osu.ppy.sh/users/15508957) |
+| **Rice Farmer** | ::{ flag=CN }:: **[\[GB\]nyasun](https://osu.ppy.sh/users/16277321)**, ::{ flag=CN }:: [\[Crz\]Riko](https://osu.ppy.sh/users/7928981), ::{ flag=VN }:: [CutieVaxie](https://osu.ppy.sh/users/23666217), ::{ flag=TW }:: [eliccc](https://osu.ppy.sh/users/22491203), ::{ flag=CN }:: [ouxig](https://osu.ppy.sh/users/32522677), ::{ flag=KR }:: [rubyy](https://osu.ppy.sh/users/9880422) |
+| **skibidi's hybrid soup** | ::{ flag=TH }:: **[AomDCO](https://osu.ppy.sh/users/21072569)**, ::{ flag=MY }:: [\[LS\]Icetify](https://osu.ppy.sh/users/14931745), ::{ flag=CN }:: [Akermo](https://osu.ppy.sh/users/14934242), ::{ flag=CN }:: [Echo\_XF](https://osu.ppy.sh/users/25630297), ::{ flag=MY }:: [OfficialDuckys](https://osu.ppy.sh/users/28845808), ::{ flag=KR }:: [Pocafanboy](https://osu.ppy.sh/users/6912079) |
+| **SKIBIDI Archive** | ::{ flag=VN }:: **[CPT\_Sivelia](https://osu.ppy.sh/users/12562107)**, ::{ flag=TH }:: [MatchaLatte-](https://osu.ppy.sh/users/15944956), ::{ flag=KR }:: [MER0NI](https://osu.ppy.sh/users/26594580), ::{ flag=AU }:: [Nator1](https://osu.ppy.sh/users/15399445), ::{ flag=HK }:: [neeko the rock](https://osu.ppy.sh/users/13471840), ::{ flag=CN }:: [xc165543337](https://osu.ppy.sh/users/15246697) |
+| **team name** | ::{ flag=KR }:: **[Poca](https://osu.ppy.sh/users/8581031)**, ::{ flag=HK }:: [DC2\_727](https://osu.ppy.sh/users/17483369), ::{ flag=AU }:: [Glenn Quagmiree](https://osu.ppy.sh/users/24931919), ::{ flag=KR }:: [GoldPabilion](https://osu.ppy.sh/users/16898447), ::{ flag=TH }:: [parponger](https://osu.ppy.sh/users/28098890), ::{ flag=ID }:: [Yacchie-](https://osu.ppy.sh/users/13716503) |
+| **Undertable sands** | ::{ flag=KR }:: **[Scitra](https://osu.ppy.sh/users/26140861)**, ::{ flag=KR }:: [-GazingSnow-](https://osu.ppy.sh/users/32408886), ::{ flag=VN }:: [\[LS\]Tokiyume](https://osu.ppy.sh/users/13219309), ::{ flag=PH }:: [Dyei](https://osu.ppy.sh/users/23643731), ::{ flag=CN }:: [\[GB\]GanyuAngel](https://osu.ppy.sh/users/27233308), ::{ flag=AU }:: [Jeroid](https://osu.ppy.sh/users/18481219) |
+| **Yuma fanboys** | ::{ flag=JP }:: **[Nikoro](https://osu.ppy.sh/users/25588443)**, ::{ flag=SG }:: [-Pafe-](https://osu.ppy.sh/users/19834488), ::{ flag=CN }:: [\[GB\]mmttyy233](https://osu.ppy.sh/users/28639641), ::{ flag=ID }:: [iSxga](https://osu.ppy.sh/users/15801261), ::{ flag=AU }:: [oct4](https://osu.ppy.sh/users/10303887), ::{ flag=QA }:: [YumaOs](https://osu.ppy.sh/users/13047982) |
 
 ## Mappools
 
-*Every mappool will be announced 7 days (usually Sunday) before the next stage's match timeline.*
+### Round of 16
+
+- RC
+  1. [aran - Gate One (Extended Mix) (Eclipse-) \[Master\]](https://osu.ppy.sh/beatmapsets/2214874#mania/4692947)
+  2. [Aoi - guardina (FerdiXIA-) \[Awakening (Updated)\]](https://osu.ppy.sh/beatmapsets/2143333#mania/4596344)
+  3. [Tobu & Syndec - Dusk (Radio Edit) (Cut Ver.) (Ainer) \[nightfall\]](https://osu.ppy.sh/beatmapsets/2198528#mania/4652614)
+  4. [KARUT - JACKPOT 777 (Revv-) \[Gacor\]](https://osu.ppy.sh/beatmapsets/2214467#mania/4692135)
+  5. [Hino Isuka vs. s-don - Glooorious!! (AutotelicBrown) \[Epic!!\]](https://osu.ppy.sh/beatmapsets/2214836#mania/4692876)
+- LN
+  1. [Wanuka - Zecchou Sanka (anatharax) \[Captivation\]](https://osu.ppy.sh/beatmapsets/2214895#mania/4692980)
+  2. [Gentle stick - Amphitryon (Yana Feiya) \[Torment\]](https://osu.ppy.sh/beatmapsets/2214830#mania/4692868)
+  3. [Zenpaku - Blast+ (feat. DEMONDICE) (\[Crz\]FolAH1217) \[Mixed Thoughts\]](https://osu.ppy.sh/beatmapsets/2214869#mania/4692939)
+- HB
+  1. [Hoshimachi Suisei - BIBBIDIBA (AelSan) \[\~ BIBIDI BOBBIDI BOOWA \~\]](https://osu.ppy.sh/beatmapsets/2214906#mania/4692998)
+  2. [ZeRo-BaSs - RaVe UnLiMiTeD (chxu) \[MaxX 176\]](https://osu.ppy.sh/beatmapsets/2213782#mania/4690363)
+- SV
+  1. [Ardolf - will u (RuleBlazing) \[cat sitting on the sv\]](https://osu.ppy.sh/beatmapsets/2214851#mania/4692902)
+  2. [Syzy - i'm god edit (trying to make dariacore but failing really hard) (H1Pur) \[trying to make a tournament sv map but failing really hard\]](https://osu.ppy.sh/beatmapsets/2214916#mania/4693012)
+- Tiebreaker
+  1. **[Mameyudoufu - Wave feat. Aitsuki Nakuru (ERA Leon) \[kahuna\]](https://osu.ppy.sh/beatmapsets/2214831#mania/4692869)**
+
+### Qualifiers
+
+- SV
+  1. [P\*Light - SWAG!! (Orca-) \[Stage 1: WATCH OUT!!\]](https://osu.ppy.sh/beatmapsets/2206316#mania/4671278)
+  2. [daisan - Tenjou no Porisuruin (\[GS\]hina) \[Stage 2: Ascended\]](https://osu.ppy.sh/beatmapsets/2206306#mania/4671254)
+  3. [suisoh - Afterwards (ERA Imperial) \[Stage 3: Mimir\]](https://osu.ppy.sh/beatmapsets/2206334#mania/4671300)
+  4. [REDALiCE - DEAD or DIE (YuEast 2018) \[Stage 4: Dice\]](https://osu.ppy.sh/beatmapsets/2206328#mania/4671294)
+- LN
+  1. [CHON - Splash (anatharax) \[Stage 5: Spritz\]](https://osu.ppy.sh/beatmapsets/2206314#mania/4671275)
+  2. [Getty vs. DJ DiA - DropZ-Line- (Toaph Daddy) \[Stage 6: Cataclysm\]](https://osu.ppy.sh/beatmapsets/2206317#mania/4671280)
+- HB
+  1. [MYUKKE. - Inga WooHoo!!! (TheFunk) \[Stage 7: Unga Bunga\]](https://osu.ppy.sh/beatmapsets/2206320#mania/4671283)
+  2. [Zekk - Abrasion (Japeynius) \[Stage 8: Resolution\]](https://osu.ppy.sh/beatmapsets/2206324#mania/4671290)
+
+## Match results
+
+### Qualifiers
+
+The final standings for the Qualifier stage can be found in the following [statistics](https://asia-suiji-cup.vercel.app/stats) from ASC's website.
+
+| Seed | Team | Average rank | Average score |
+| :-: | :-- | :-: | :-: |
+| #1 | Yuma fanboys | 2.88 | 2,970,661.88 |
+| #2 | skibidi's hybrid soup | 4.25 | 2,961,508.63 |
+| #3 | Noodle Soup | 4.63 | 2,962,987.75 |
+| #4 | 83.33% Chinese 16.66% Filipino | 5.25 | 2,964,554.00 |
+| #5 | Bocchi Soup | 5.75 | 2,938,884.50 |
+| #6 | Play Robeats | 7.75 | 2,945,763.50 |
+| #7 | LOTT'S TRAGIC HINDILOVE EXTRA | 8.50 | 2,950,398.88 |
+| #8 | Pixel 7 | 9.13 | 2,930,765.25 |
+| #9 | Kamisato Lemon | 9.38 | 2,946,714.13 |
+| #10 | team name | 10.00 | 2,942,261.75 |
+| #11 | Undertable sands | 10.13 | 2,948,087.00 |
+| #12 | Mama Mia | 10.75 | 2,944,210.00 |
+| #13 | Furry Femboys | 10.88 | 2,934,540.63 |
+| #14 | arm water sick ma | 11.38 | 2,900,212.63 |
+| #15 | Rice Farmer | 11.38 | 2,899,531.25 |
+| #16 | SKIBIDI Archive | 14.00 | 2,895,311.75 |
 
 ## Ruleset
 
@@ -107,14 +184,14 @@ The maps in this tournament will only consist of Long Note (LN) oriented maps, a
 1. One player from each rank must be present in the lobby (One A, One B, One C). "A" seeded players have the ability to substitute with "B" or "C" seeds on their team. "B" seeded players also have the ability to substitute but only with "C" seed on their team.
 2. The referee will notify the captains 10-15 minutes before the lobby is scheduled to start. Captains must ensure players are in the lobby on time.
 3. Players will play the mappool in order from Stage 1-8 twice. There is a maximum 2-minute break in between each map. After the first cycle, players will be given a 5-minute break before continuing with the 2nd cycle which follows the same procedure. Players are allowed to skip this break if all players present in the lobby agree to start the 2nd run right away.
-4. Teams can reschedule to a later qualifier lobby if they missed their scheduled lobby, the latest lobby that can be requested is by 7th June at 16:00 (UTC+0).
+4. Teams can reschedule to a later qualifier lobby if they missed their scheduled lobby, the latest lobby that can be requested is by 13th July at 16:00 (UTC+0).
 
 #### Bracket stage
 
 1. Same as Qualifiers, one player from each rank must be present in the lobby (One A, One B, One C). "A" seeded players have the ability to substitute with "B" or "C" seed on their team. "B" seeded players also have the ability to substitute but only with "C" seed on their team.
 2. The referee will notify the captains 15 minutes before the lobby is scheduled to start. Captains must ensure players are in the lobby on time to avoid delays.
 3. Teams may provide a warmup map to the referee before the match starts, the map must be under 4 minutes and not contain any vulgar or provoking lyrics. Teams have the option to skip the warmup phase.
-4. Captains will be required to !roll, the team with the higher roll will be allowed to ban first while the other team will be allowed to pick the first map. Teams have 2 minutes to choose a ban, otherwise, they will lose their ban.
+4. Captains will be required to `!roll`, the team with the higher roll will be allowed to pick first map while the other team will be allowed to ban the first map. Teams have 2 minutes to choose a ban, otherwise, they will lose their ban.
 5. Teams have 2 minutes to choose their picks, if they fail to pick a map within 2 minutes, the pick will be given to the other team. This will not affect the order of picks afterward.
 6. Once a map has been chosen, teams will have 2 minutes to swap teammates and ready up. If the 2-minute timer ends, the referee will force a !mp start 5 commands, and the match will start with whoever is in the lobby.
 7. Each team will receive one "timeout" of 2 minutes per match, to be used as extra time to pick a beatmap or to rest. The timeout may only be used by the player who is picking the next map, the only exception being during tiebreaker scenarios where both teams are given a two-minute timeout regardless.
