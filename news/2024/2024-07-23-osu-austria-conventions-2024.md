@@ -30,7 +30,7 @@ On top of that, you'll also be able to witness the biggest osu! 1v1 LAN tourname
 
 You'll be able to sign up for the tournament online. Please join our [Discord server](https://discord.com/invite/dNFuHNmZF4) to get notified when sign-ups open.
 
-Qualifiers will be played out online as well and scheduling your lobby will be handled over at our *Discord server*. After you qualified for the Round of 16, **you're required to show up**. A no-show will automatically **eliminate** you from the tournament and open your spot for the next possible seed that is present at the event. Bring the peripherals you're comfortable with and prepare to bash your opponents!
+Qualifiers will be played out online as well and scheduling your lobby will be handled over at our Discord server. After you qualified for the Round of 16, **you're required to show up**. A no-show will automatically **eliminate** you from the tournament and open your spot for the next possible seed that is present at the event. Bring the peripherals you're comfortable with and prepare to bash your opponents!
 
 The top 2 players of the tournament will ferociously duke it out on the main stage of the event, with the winner receiving handsome physical prizes and a bespoke profile badge. The top 16 players won't go home empty-handed either, as they will receive some nice goodies as well!
 
