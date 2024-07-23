@@ -26,7 +26,7 @@ Next up, we're setting up an osu! booth at [Yunicon 2024](https://www.yunicon.at
 
 On top of that, you'll also be able to witness the biggest osu! 1v1 LAN tournament with a single-elimination bracket that Austria has ever seen!
 
-You'll be able to sign-up for the tournament online. Please join our [Discord server](https://discord.com/invite/dNFuHNmZF4) to get notified when sign-ups open.
+You'll be able to sign up for the tournament online. Please join our [Discord server](https://discord.com/invite/dNFuHNmZF4) to get notified when sign-ups open.
 
 Qualifiers will be played out online as well and scheduling your lobby will be handled over at our *Discord server*. After you qualified for the Round of 16, **you're required to show up**. A no-show will automatically **eliminate** you from the tournament and open your spot for the next possible seed that is present at the event. Bring the peripherals you're comfortable with and prepare to bash your opponents!
 
