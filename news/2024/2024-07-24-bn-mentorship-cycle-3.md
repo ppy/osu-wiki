@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BN Mentorship: Cycle 3 Sign-ups Open"
-date: 2024-07-24 12:00:00 +0000
+date: 2024-07-24 08:30:00 +0000
 ---
 
 Ever aspired to leave your impact on the fabled Ranked section? Today might be your lucky day.
@@ -51,8 +51,8 @@ Below you'll find a list of mentors for each game mode, alongside their timezone
 
 ---
 
-[![Application link](/wiki/shared/news/banners/bn-mentorship/apply.png)](LINK)
+[![Application link](/wiki/shared/news/banners/bn-mentorship/apply.png)](https://forms.gle/uHQELoy5jN9a8wqK8)
 
-You may apply by smashing that big ol' button above, but be quick, as sign-ups end on the **DATE**. Good luck!
+You may apply by smashing that big ol' button above, but be quick, as sign-ups end on the **August 2nd**. The cycle itself runs from *August 5th to October 7th*. Good luck!
 
 —Nomination Assessment Team
