@@ -106,7 +106,7 @@ Do you feel like speed is really overweighted, why or why not?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
 
-Oh yeah definitely. Speed is in a very unbalanced state right now and I'm hopeful for the upcoming reworks that seem to aim to help with that issue, such as Xexxar's rework. I really hope to see a meta that's more focused on high bpm aim than anything as that skillset is very fun to me!
+Oh yeah definitely. Speed is in a very unbalanced state right now, and I'm hopeful for the upcoming reworks that seem to aim to help with that issue, such as [Xexxar's rework](https://github.com/ppy/osu/discussions/20210). I really hope to see a meta that's more focused on high bpm aim than anything as that skill set is very fun to me!
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/news/2024-07-29-the-followpoint-flaro-the-queen-of-speed/avatar-Utiba.jpg')"></a>
 
@@ -190,7 +190,7 @@ To finish things up, what does the future hold for you? Do you have any goals or
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
 
-I will continue the osu! grind until my motivation to do so declines, although as of recent my focus has been much less on pp and more on tourney performances and just playing for fun! Although attempting to reclaim #1 USA isn’t completely out of the question, it’s unlikely unless my interest in grinding for pp comes back. In terms of goals, my biggest goal at the moment is definitely getting better at tournaments and winning OWC, and being crowned an osu! champion, along with that, I want to focus more on my growth as a [streamer on Twitch](https://www.twitch.tv/flarosu), and would love to get invited to Roundtable sometime in the future, meeting other streamers like me always makes me happy!
+I will continue the osu! grind until my motivation to do so declines, although as of recent my focus has been much less on pp and more on tourney performances and just playing for fun! Although attempting to reclaim #1 USA isn’t completely out of the question, it’s unlikely unless my interest in grinding for pp comes back. In terms of goals, my biggest goal at the moment is definitely getting better at tournaments and winning OWC, and being crowned an osu! champion, along with that, I want to focus more on my growth as a [streamer on Twitch](https://www.twitch.tv/flarosu), and would love to get invited to The Roundtable sometime in the future, meeting other streamers like me always makes me happy!
 
 </div>
 
