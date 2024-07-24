@@ -24,7 +24,7 @@ These are daily featured beatmaps accessible from the "play" section of the main
 
 ![](/wiki/shared/news/2024-07-25-introducing-daily-challenges/daily-challenge-screen.jpg)
 
-Each day will introduce one new map with increased difficulty, resetting at the end of the week.
+Each day will introduce one new map with increased difficulty, resetting after a week.
 
 ![](/wiki/shared/news/2024-07-25-introducing-daily-challenges/daily-challenge-calendar.png)
 
