@@ -88,7 +88,7 @@ Although the name commonly gets misconstrued as a spin on the Pokémon 'Flareon'
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
 
-Out of all of the skillsets in the game, what made you want to prioritize speed?
+Out of all the skill sets in the game, what made you want to prioritize speed?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10323184" style="background-image: url('/wiki/shared/news/2024-07-29-the-followpoint-flaro-the-queen-of-speed/avatar-Flaro.jpg')"></a>
 
