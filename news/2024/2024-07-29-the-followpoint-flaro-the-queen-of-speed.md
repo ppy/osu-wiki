@@ -9,7 +9,7 @@ Wake up babe, a new interview with [Flaro](https://osu.ppy.sh/users/10323184) ju
 
 ![](/wiki/shared/news/2024-07-29-the-followpoint-flaro-the-queen-of-speed/banner.jpg)
 
-Wake up babe, a new interview just dropped. Today, we are joined by [Flaro](https://osu.ppy.sh/users/10323184), a top speed player who was #1 USA for many months at a time and having numerous pp record chokes that could of changed the game forever!
+Welcome back to The Followpoint! Today, we are joined by [Flaro](https://osu.ppy.sh/users/10323184), a top speed player who was #1 USA for many months at a time and having numerous pp record chokes that could of changed the game forever!
 
 Let's get right into the interview!
 
