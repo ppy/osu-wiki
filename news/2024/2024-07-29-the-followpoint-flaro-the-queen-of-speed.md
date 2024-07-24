@@ -5,7 +5,7 @@ date: 2024-07-29 17:00:00 +0000
 series: The Followpoint
 ---
 
-Read up on the latest interview with [Flaro](https://osu.ppy.sh/users/10323184), a top player who specializes in speed!
+Wake up babe, a new interview with [Flaro](https://osu.ppy.sh/users/10323184) just dropped.
 
 ![](/wiki/shared/news/2024-07-29-the-followpoint-flaro-the-queen-of-speed/banner.jpg)
 
