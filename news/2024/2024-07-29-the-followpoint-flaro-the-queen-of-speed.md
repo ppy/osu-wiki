@@ -56,7 +56,7 @@ Let's start with an introduction, how would you introduce yourself to the people
 
 My name is Flaro, and I am a former #1 USA osu! player in both the United States as well as the NA region.
 
-I specialize in high bpm flow aim as well as 3 mod consistency, while also playing any tournaments that I happen to get invited to, where I specialize in mechanics heavy maps.
+I specialize in high BPM flow aim as well as 3-mod consistency, while also playing any tournaments that I happen to get invited to, where I specialize in mechanics heavy maps.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/news/2024-07-29-the-followpoint-flaro-the-queen-of-speed/avatar-Utiba.jpg')"></a>
 
@@ -68,7 +68,7 @@ How did you get introduced to osu!, and what was your first impression of it?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
 
-Shortly before my 11th birthday, I was introduced to the game by a friend of mine that I met through discord, at the time, the game didn't really captivate me that much and I stopped playing up until I turned 12, which is when I would start to play the game very actively and thought the game was very fun!
+Shortly before my 11th birthday, I was introduced to the game by a friend of mine that I met through Discord, at the time, the game didn't really captivate me that much and I stopped playing up until I turned 12, which is when I would start to play the game very actively and thought the game was very fun!
 
 I actually didn't even know what 'pp' was until I got my first 200, which is when I would start farming for ranks competitively.
 
@@ -82,7 +82,7 @@ What made you come up with the name "Flaro", and is there any special meaning be
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
 
-Although the name commonly gets misconstrued as a spin on the pokemon 'Flareon', the name Flaro actually just came to me while I was laying in bed one night and I liked it more than my previous name.
+Although the name commonly gets misconstrued as a spin on the Pokémon 'Flareon', the name Flaro actually just came to me while I was laying in bed one night and I liked it more than my previous name.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/news/2024-07-29-the-followpoint-flaro-the-queen-of-speed/avatar-Utiba.jpg')"></a>
 
@@ -124,7 +124,7 @@ I would have to go with my 3 mod reading ability and consistency, and also my fl
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
 
-It says in your Discord bio that you are a Python Developer, how did you get into coding in Python and what do you like most about it?
+It says in your Discord bio that you are a Python Developer, how did you get into coding in Python, and what do you like most about it?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10323184" style="background-image: url('/wiki/shared/news/2024-07-29-the-followpoint-flaro-the-queen-of-speed/avatar-Flaro.jpg')"></a>
 
@@ -142,7 +142,7 @@ What made you change your name to "Leah Kate" for a short period of time?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
 
-There wasn't really a specific reason to it other than that I thought it'd be funny and I was popping off on the notorious Leah Kate farm maps at the time. Well worth the name change as now I have a 'Leah Kate arc' in my history!
+There wasn't really a specific reason to it other than that I thought it'd be funny, and I was popping off on the notorious Leah Kate farm maps at the time. Well worth the name change as now I have a 'Leah Kate arc' in my history!
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/news/2024-07-29-the-followpoint-flaro-the-queen-of-speed/avatar-Utiba.jpg')"></a>
 
@@ -154,7 +154,7 @@ In previous months, you've had many pp record chokes such as a [Glory Days 3 mod
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
 
-It can be really demotivating to be so so close to a goal but just one singular mistake costs it from you. Although I will say, the pp record grind had some of the most rewarding feelings I have ever felt while playing this game. Being close to getting a highly contested world record feels amazing, and even though I didn't get it, it was well worth the grind.
+It can be really demotivating to be so, so close to a goal, but just one singular mistake costs it from you. Although I will say, the pp record grind had some of the most rewarding feelings I have ever felt while playing this game. Being close to getting a highly contested world record feels amazing, and even though I didn't get it, it was well worth the grind.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/news/2024-07-29-the-followpoint-flaro-the-queen-of-speed/avatar-Utiba.jpg')"></a>
 
@@ -178,7 +178,7 @@ Is there any specific scores you want to achieve or see others achieve in the fu
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
 
-Scores that are on my to-do list currently are probably [Rat Race](https://osu.ppy.sh/beatmapsets/958005#osu/2069969), [Everything went Numb](https://osu.ppy.sh/beatmapsets/414289#osu/898106), [Happy! Lucky!](https://osu.ppy.sh/beatmapsets/1594964#osu/3257742), and just focusing on more aim oriented scores in general. I don't really pay attention to the scores that others get, but I always get super hyped when I see another high bpm aim score from [mrekk](https://osu.ppy.sh/users/7562902), those are always legendary to watch and I hope to see more.
+Scores that are on my to-do list currently are probably [Rat Race](https://osu.ppy.sh/beatmapsets/958005#osu/2069969), [Everything Went Numb](https://osu.ppy.sh/beatmapsets/414289#osu/898106), [Happy! Lucky!](https://osu.ppy.sh/beatmapsets/1594964#osu/3257742), and just focusing on more aim oriented scores in general. I don't really pay attention to the scores that others get, but I always get super hyped when I see another high bpm aim score from [mrekk](https://osu.ppy.sh/users/7562902), those are always legendary to watch, and I hope to see more.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/news/2024-07-29-the-followpoint-flaro-the-queen-of-speed/avatar-Utiba.jpg')"></a>
 
