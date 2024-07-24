@@ -46,7 +46,7 @@ Below you'll find a list of mentors for each game mode, alongside their timezone
 | :-- | :-- |
 | ::{ flag=MY }:: [Critical_Star](https://osu.ppy.sh/users/3793196) | UTC+8 |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | UTC+7 |
-| ::{ flag=DZ }:: [Scotty](https://osu.ppy.sh/users/11085809) & ::{ flag=IT }:: [\[GB\]Rick](https://osu.ppy.sh/users/3983839) (joint class) | UTC+1 |
+| ::{ flag=DZ }:: [Scotty](https://osu.ppy.sh/users/11085809) & ::{ flag=IT }:: [\[GB\]Rick](https://osu.ppy.sh/users/25263357) (joint class) | UTC+1 |
 | ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | UTC+8 |
 
 ---
