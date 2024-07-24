@@ -196,7 +196,7 @@ I will continue the osu! grind until my motivation to do so declines, although a
 
 ---
 
-Thank you to Flaro for making this interview possible. It wouldn't of been possible without her, and I hope you readers enjoyed reading this interview! Let us know what you think of this interview in the comments below.
+Thank you so much to Flaro for making this interview possible. It wouldn't of been possible without her, and I hope you readers enjoyed reading this interview! Let us know what you think of this interview in the comments below.
 
 As always, we will have a new interview come out in the next two weeks, so make sure to keep an eye on the news feed! You may also follow [@The_Followpoint on Twitter](https://twitter.com/The_Followpoint) to see more updates and question submissions for future interviews.
 
