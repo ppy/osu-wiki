@@ -15,7 +15,7 @@ El siguiente contenido está separado en secciones, indicadas por títulos de se
 | `[Metadata]` | [Información](/wiki/Client/Beatmap_editor/Song_setup#general) usada para identificar el beatmap | `Pares key:value` |
 | `[Difficulty]` | [Configuraciones de dificultad](/wiki/Client/Beatmap_editor/Song_setup#dificultad) | `Pares key:value` |
 | `[Events]` | Beatmap y eventos gráficos del storyboard | Listas separadas por comas |
-| `[TimingPoints]` | Timing y puntos de control | Listas separadas por comas |
+| `[TimingPoints]` | Temporización y puntos de control | Listas separadas por comas |
 | `[Colours]` | Colores del combo y la skin | `Pares key : value` |
 | `[HitObjects]` | Objetos | Listas separadas por comas |
 
@@ -27,9 +27,9 @@ El siguiente contenido está separado en secciones, indicadas por títulos de se
 | `AudioLeadIn` | Entero | Milisegundos de silencio antes de que el audio comience a reproducirse | 0 |
 | `AudioHash` | Cadena | *Obsoleto* |  |
 | `PreviewTime` | Entero | Tiempo en milisegundos en que debe comenzar la vista previa de audio | -1 |
-| `Countdown` | Entero | Velocidad de la cuenta regresiva antes del primer objeto (`0` = sin cuenta atras, `1` = normal, `2` = mitad, `3` = doble) | 1 |
-| `SampleSet` | Cadena | Conjunto de muestra que se usará si los puntos de tiempo no lo anulan (`Normal`, `Soft`, `Drum`) | Normal |
-| `StackLeniency` | Decimal | [Multiplicador](/wiki/Beatmap/Stack_leniency) para el umbral en el tiempo en el que los objetos colocados muy juntos se apilan (0–1) | 0.7 |
+| `Countdown` | Entero | Velocidad de la cuenta regresiva antes del primer objeto (`0` = sin cuenta regresiva, `1` = normal, `2` = mitad, `3` = doble) | 1 |
+| `SampleSet` | Cadena | Conjunto de muestras que se usará si los puntos de tiempo no lo anulan (`Normal`, `Soft`, `Drum`) | Normal |
+| `StackLeniency` | Decimal | [Multiplicador](/wiki/Beatmap/Stack_leniency) para el umbral en el tiempo en el que los objetos colocados muy juntos se apilan (0-1) | 0,7 |
 | `Mode` | Entero | Modo de juego (`0` = osu!, `1` = osu!taiko, `2` = osu!catch, `3` = osu!mania) | 0 |
 | `LetterboxInBreaks` | 0 o 1 | Si los descansos tienen o no un efecto de pantalla ancha | 0 |
 | `StoryFireInFront` | 0 o 1 | *Obsoleto* | 1 |
@@ -49,10 +49,10 @@ Estas opciones solo son relevantes cuando se abren mapas en el [editor de beatma
 
 | Opción | Tipo de valor | Descripción |
 | :-- | :-- | :-- |
-| `Bookmarks` | Lista de enteros separados por comas | Tiempo en milisegundos de [marcadores](/wiki/Client/Beatmap_editor/Compose#línea-de-tiempo-de-la-canción) |
+| `Bookmarks` | Lista de enteros separados por comas | Tiempo en milisegundos de los [marcadores](/wiki/Client/Beatmap_editor/Compose#línea-de-tiempo-de-la-canción) |
 | `DistanceSpacing` | Decimal | Multiplicador del [ajuste de distancia](/wiki/Client/Beatmap_editor/Distance_snap) |
 | `BeatDivisor` | Entero | [Divisor de ritmo](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
-| `GridSize` | Entero | [Tamaño de la cuadrícula](/wiki/Beatmapping/Grid_snapping) |
+| `GridSize` | Entero | [Tamaño de la rejilla](/wiki/Beatmapping/Grid_snapping) |
 | `TimelineZoom` | Decimal | Factor de escala para la [línea de tiempo del objeto](/wiki/Client/Beatmap_editor/Compose#línea-de-tiempo-de-los-objetos) |
 
 ## Metadatos
@@ -79,14 +79,14 @@ Estas opciones solo son relevantes cuando se abren mapas en el [editor de beatma
 | `OverallDifficulty` | Decimal | Configuración de OD (0-10) |
 | `ApproachRate` | Decimal | Configuración de AR (0-10) |
 | `SliderMultiplier` | Decimal | Velocidad base del slider en cientos de [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel) por pulso |
-| `SliderTickRate` | Decimal | Cantidad de ticks del slider por pulso |
+| `SliderTickRate` | Decimal | Cantidad de marcas del slider por pulso |
 
 ## Eventos
 
 *Sintaxis de eventos:* `eventType,startTime,eventParams`
 
 - **`eventType` (Cadena o Entero):** Tipo de evento. Algunos eventos pueden ser referidos por un nombre o un número.
-- **`startTime` (Entero):** Hora de inicio del evento, en milisegundos desde el comienzo del audio del beatmap. Para los eventos que no usan una hora de inicio, el valor predeterminado es `0`.
+- **`startTime` (Entero):** Tiempo de inicio del evento, en milisegundos desde el comienzo del audio del beatmap. Para los eventos que no usan un tiempo de inicio, el valor predeterminado es `0`.
 - **`eventParams` (Lista separada por comas):** Parámetros adicionales específicos del tipo de evento.
 
 ### Fondos
@@ -94,7 +94,7 @@ Estas opciones solo son relevantes cuando se abren mapas en el [editor de beatma
 *Sintaxis del fondo:* `0,0,filename,xOffset,yOffset`
 
 - **`filename` (Cadena):** Ubicación de la imagen de fondo relativa al directorio del beatmap. Las comillas dobles generalmente se incluyen alrededor del nombre del archivo, pero no son obligatorias.
-- **`xOffset` (Entero)** y **`yOffset` (Entero):** Desplazamiento en [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel) del centro de la pantalla. Por ejemplo, un desplazamiento de `50,100` haría que el fondo mostrara 50 osu! pixels a la derecha y 100 osu! pixels hacia abajo desde el centro de la pantalla. Si el desplazamiento es `0,0`, escribirlo es opcional.
+- **`xOffset` (Entero)** e **`yOffset` (Entero):** Desplazamiento en [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel) del centro de la pantalla. Por ejemplo, un desplazamiento de `50,100` haría que el fondo se mostrara 50 osu! pixels a la derecha y 100 osu! pixels hacia abajo desde el centro de la pantalla. Si el desplazamiento es `0,0`, escribirlo es opcional.
 
 ### Vídeos
 
@@ -110,7 +110,7 @@ Estas opciones solo son relevantes cuando se abren mapas en el [editor de beatma
 
 `2` puede reemplazarse por `Break`.
 
-- **`endTime` (Entero):** Hora de finalización del descanso, en milisegundos desde el inicio del audio del beatmap.
+- **`endTime` (Entero):** Tiempo de finalización del descanso, en milisegundos desde el inicio del audio del beatmap.
 
 ### Storyboards
 
@@ -122,16 +122,16 @@ Cada beatmap puede contener su propio storyboard específico de la dificultad, y
 
 ## Puntos de tiempo
 
-Cada punto de tiempo influye en una parte específica del mapa, comúnmente llamada «sección de tiempo». El formato de archivo `.osu` requiere que estos se clasifiquen en orden cronológico.
+Cada punto de tiempo influye en una parte específica del mapa, comúnmente llamada «sección de tiempo». El formato de archivo `.osu` requiere que estén ordenados cronológicamente.
 
 *Sintaxis de los puntos de tiempo:* `time,beatLength,meter,sampleSet,sampleIndex,volume,uninherited,effects`
 
-- **`time` (Entero):** Hora de inicio de la sección de tiempo, en milisegundos desde el comienzo del audio del beatmap. El final de la sección de tiempo es el tiempo del siguiente punto de tiempo (o nunca, si este es el último punto de tiempo).
+- **`time` (Entero):** Tiempo de inicio de la sección de tiempo, en milisegundos desde el comienzo del audio del beatmap. El final de la sección de tiempo es el tiempo del siguiente punto de tiempo (o nunca, si este es el último punto de tiempo).
 - **`beatLength` (Decimal):** Esta propiedad tiene dos significados:
   - Para los puntos de tiempo no heredados, la duración de un pulso, en milisegundos.
   - Para los puntos de tiempo heredados, un multiplicador de velocidad del slider inverso negativo, como porcentaje. Por ejemplo, `-50` haría que todos los sliders en esta sección de tiempo fueran el doble de rápidos que `SliderMultiplier`.
-- **`meter` (Entero):** Cantidad de tiempos en un compás. Los puntos de tiempo heredados ignoran esta propiedad.
-- **`sampleSet` (Entero):** Conjunto de muestra predeterminado para los objetos (0 = predeterminado del beatmap, 1 = normal, 2 = soft, 3 = drum).
+- **`meter` (Entero):** Cantidad de pulsos en un compás. Los puntos de tiempo heredados ignoran esta propiedad.
+- **`sampleSet` (Entero):** Conjunto de muestras predeterminado para los objetos (0 = predeterminado del beatmap, 1 = normal, 2 = soft, 3 = drum).
 - **`sampleIndex` (Entero):** Índice de muestra personalizado para los objetos. `0` indica los sonidos predeterminados de osu!.
 - **`volume` (Entero):** Porcentaje de volumen para los objetos.
 - **`uninherited` (0 o 1):** Si el punto de tiempo se hereda o no.
@@ -157,12 +157,12 @@ El primer punto de tiempo a los 10 segundos no se hereda y establece:
 
 - BPM a 180 (`1 / 333.33 * 1000 * 60`)
 - Compás a 4/4
-- Conjunto de muestra del predeterminado del beatmap
+- Conjunto de muestras predeterminado del beatmap
 - Índice de muestra de los hitsounds predeterminados de osu!
-- Volumen al 100 %
+- Volumen al 100 %
 - Kiai time
 
-Se hereda el segundo punto de tiempo a los 12 segundos, cambiando la velocidad del slider a 4x y la muestra configurada en batería.
+Se hereda el segundo punto de tiempo a los 12 segundos, cambiando la velocidad del slider a 4x y la muestra configurada para la batería.
 
 ## Colores
 
@@ -170,7 +170,7 @@ Todas las opciones en esta sección representan colores. Son tripletes separados
 
 | Opción | Descripción |
 | :-- | :-- |
-| `Combo#`, cuando `#` es un entero | Colores de combo aditivos |
+| `Combo#`, donde `#` es un entero | Colores de combo aditivos |
 | `SliderTrackOverride` | Color de la trayectoria del slider aditiva |
 | `SliderBorder` | Color del borde del slider |
 
@@ -219,16 +219,16 @@ El uso de `hitSample` puede personalizar aún más los sonidos que se reproducen
 
 *Sintaxis de las muestras:* `normalSet:additionSet:index:volume:filename`
 
-- **`normalSet` (Entero):** Conjunto de muestra del sonido normal.
-- **`additionSet` (Entero):** Conjunto de muestra de los sonidos whistle, finish, y clap.
+- **`normalSet` (Entero):** Conjunto de muestras del sonido normal.
+- **`additionSet` (Entero):** Conjunto de muestras de los sonidos whistle, finish, y clap.
 - **`index` (Entero):** Índice de la muestra. Si es `0`, en su lugar se usará el índice de muestra del punto de tiempo.
 - **`volume` (Entero):** Volumen de la muestra de 1 a 100. Si es `0`, se usará el volumen del punto de tiempo en su lugar.
 - **`filename` (Cadena):** Nombre de archivo personalizado del sonido adicional.
 
 `normalSet` y `additionSet` pueden ser cualquiera de los siguientes:
 
-- `0`: Sin conjunto de muestra personalizado
-  - Para sonidos normales, el conjunto está determinado por el conjunto de muestra del punto de tiempo.
+- `0`: Sin conjunto de muestras personalizado
+  - Para sonidos normales, el conjunto está determinado por el conjunto de muestras del punto de tiempo.
   - Para adiciones, el conjunto está determinado por el conjunto de muestras del sonido normal.
 - `1`: Conjunto normal
 - `2`: Conjunto soft
@@ -246,7 +246,7 @@ El archivo de sonido se carga desde el primero de los siguientes directorios que
 - Skin, con el `index` eliminado
 - Recursos por defecto de osu!, con el `index` eliminado
 
-Cuando se proporciona `filename`, no se reproducirán sonidos adicionales y, en su lugar, se reproducirá este archivo en el directorio del beatmap.
+Cuando se proporciona `filename`, no se reproducirán sonidos adicionales, sino que reproducirá este archivo en el directorio del beatmap.
 
 ### Círculos
 
@@ -261,7 +261,7 @@ Los círculos no tienen `objectParams` adicionales.
 - **`slides` (Entero):** Cantidad de veces que el jugador tiene que seguir la curva del slider de un lado a otro antes de que se complete el slider. También se puede interpretar como el recuento de repeticiones más uno.
 - **`lenght` (Decimal):** Longitud visual en [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel) del slider.
 - **`edgeSounds` (Lista de enteros separados):** Hitsounds que se reproducen al golpear los bordes de la curva del slider. El primer sonido es el que se reproduce cuando se hace clic en el slider por primera vez, y el último sonido es el que se reproduce cuando se golpea el extremo del slider.
-- **`edgeSets` (Lista de cadenas separadas):** Conjuntos de muestra usados para `edgeSounds`. Cada conjunto tiene el formato `normalSet:additionSet`, con el mismo significado que en [la sección hitsounds](#hitsounds).
+- **`edgeSets` (Lista de cadenas separadas):** Conjunto de muestras usados para `edgeSounds`. Cada conjunto tiene el formato `normalSet:additionSet`, con el mismo significado que en [la sección hitsounds](#hitsounds).
 
 #### Curvas del slider
 
@@ -270,16 +270,13 @@ Al construir curvas para un slider, `x` e `y` se usan para el primer punto, y `c
 Hay cuatro tipos de curvas de slider en osu!:
 
 - **Bézier (B):** Se pueden hacer [curvas de Bézier](https://es.wikipedia.org/wiki/Curva_de_Bézier) de grado arbitrario. Se pueden unir múltiples curvas bézier en un solo slider repitiendo sus puntos de intersección.
-- **Centripetal catmull-rom (C):** Las [curvas de Catmull](https://en.wikipedia.org/wiki/Centripetal_Catmull–Rom_spline) son una alternativa de interpolación a las curvas bézier. Raramente se usan hoy en día debido a su falta de atractivo visual.
+- **Centripetal catmull-rom (C):** Las [curvas de Catmull](https://es.wikipedia.org/wiki/Spline_centrípeto_de_Catmull-Rom) son una alternativa de interpolación a las curvas bézier. Raramente se usan hoy en día debido a su falta de atractivo visual.
 - **Lineal (L):** Estas curvas forman un camino recto entre todos sus puntos.
 - **Círculo perfecto (P):** Las curvas de círculo perfecto están limitadas a tres puntos (incluida la posición del objeto) que definen el límite de un círculo. El uso de más de tres puntos dará como resultado que el tipo de curva se cambie a bézier.
 
-Si el valor `lenght` de un slider es más largo que la curva definida, el slider se extenderá hasta alcanzar la longitud objetivo:
+Si el valor `lenght` de un slider es mayor que la curva definida, el slider se extenderá en línea recta desde el final de la curva hasta alcanzar la longitud deseada.
 
-- Para curvas bézier, catmull y lineales, continúa en línea recta desde el final de la curva.
-- Para curvas de círculo perfecto, continúa el arco circular.
-
-*Aviso: el valor `lenght` de un slider se puede usar para determinar el tiempo que lleva completar el slider. `length / (SliderMultiplier * 100 * SV) * beatLength` indica cuántos milisegundos se necesitan para completar una diapositiva del slider (donde `SV` es el multiplicador de velocidad del slider dado por el punto de tiempo heredado efectivo, o `1` si no hay ninguno).*
+*Aviso: el valor `lenght` de un slider se puede usar para determinar el tiempo que lleva completar el slider. `length / (SliderMultiplier * 100 * SV) * beatLength` indica cuántos milisegundos se necesitan para completar una deslizamiento del slider (donde `SV` es el multiplicador de velocidad del slider dado por el punto de tiempo heredado efectivo, o `1` si no hay ninguno).*
 
 #### Hitsounds del slider
 
@@ -298,7 +295,7 @@ Este hitsound usa las propiedades `hitSound` y `hitSample` del objeto, pero solo
 
 *Sintaxis de las notas largas:* `x,y,time,type,hitSound,endTime:hitSample`
 
-- **`endTime` (Entero):** Hora de finalización de las notas largas, en milisegundos desde el comienzo del audio del beatmap.
+- **`endTime` (Entero):** Tiempo de finalización de las notas largas, en milisegundos desde el comienzo del audio del beatmap.
 - `x` determina el índice de la columna en la que estará la nota larga. Se calcula mediante `floor(x * columnCount / 512)` y se fija entre `0` y `columnCount - 1`.
 - `y` no afecta a las notas largas. El valor predeterminado es el centro del campo de juego, `192`.
 
@@ -315,14 +312,14 @@ El primer objeto es un círculo:
 - En el centro de la pantalla
 - A los 11 segundos
 - Comienza un nuevo combo y omite un color de combo adicional
-- Con un histsound de whistle.
+- Con un hitsound de whistle.
 
 El segundo objeto es un spinner:
 
 - A los 11,2 segundos
 - Termina a los 12 segundos
-- Con hitsounds de finish y clap, reproduciéndose al 80 % del volumen
-- Con el hitsound de normal con el conjunto de drum, al 80 % del volumen
+- Con hitsounds de finish y clap, reproduciéndose al 80 % de volumen
+- Con el hitsound normal con el conjunto de drum, al 80 % de volumen
 
 El tercer objeto es un slider:
 
@@ -332,13 +329,13 @@ El tercer objeto es un slider:
 - Con un slider de curva bézier compuesto, donde los puntos de control de la primera curva son (100,100), (200,200) y (250,200), y los puntos de control de la segunda curva son (250,200) y (300,150). Los puntos de control duplicados indican un [punto de anclaje rojo](/wiki/Gameplay/Hit_object/Slider/Slider_anchor).
 - Se repite una vez
 - 310,123 osu! pixels de largo
-- Con un hitsound de whistle al principio y un sonido de whistle jugando con el conjunto soft al final
+- Con un hitsound de whistle al principio y un hitsound de whistle reproduciéndose con el conjunto soft al final
 
 ### osu!taiko
 
 Los objetos de osu!taiko solo usan `time` para determinar cómo se colocan en el campo de juego, por lo que `x` e `y` se ignoran. Del mismo modo, la única parte significativa de los sliders curvos es `lenght`; `curveType` y `curvePoints` solo son relevantes cuando se abre el mapa en el editor. Se ignoran los colores de combo y los nuevos combos, y se usan hitsounds específicos del modo.
 
-- Los círculos con whistle o clap se convierten en kats, y otros círculos se convierten en dons. Agregar el sonido final cambia estos a sus grandes variantes.
+- Los círculos con whistle o clap se convierten en kats, y otros círculos se convierten en dons. Si se añade el hitound de finish, se transforman en sus variantes grandes.
 - Los sliders se convierten en redobles de tambor.
 - Los spinners se convierten en notas denden.
 
@@ -348,7 +345,7 @@ El campo de juego de osu!catch solo usa el eje x, por lo que `y` no es relevante
 
 - Los círculos se convierten en frutas.
 - Los sliders se convierten en corrientes de jugo, con frutas en cada borde.
-- Los spinners se convierten en lluvias de plátano
+- Los spinners se convierten en lluvia de plátanos
 
 ### osu!mania
 
