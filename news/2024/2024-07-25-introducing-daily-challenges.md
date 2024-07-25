@@ -22,11 +22,11 @@ With support from almost 3,000 of you in the comments of [a previous YouTube vid
 
 These are daily featured beatmaps accessible from the "play" section of the main menu, where anyone can compete with live updates.
 
-![](/wiki/shared/news/2024-07-25-introducing-daily-challenges/daily-challenge-screen.jpg?1)
+![](/wiki/shared/news/2024-07-25-introducing-daily-challenges/daily-challenge-screen.jpg)
 
 Each day will introduce one new map with increased difficulty, resetting every Monday.
 
-![](/wiki/shared/news/2024-07-25-introducing-daily-challenges/daily-challenge-calendar.png)
+![](/wiki/shared/news/2024-07-25-introducing-daily-challenges/daily-challenge-calendar.png?1)
 
 After passing the beatmap of the day, it will be counted towards "daily challenge" totals on the profile (which are updated once per day).
 
