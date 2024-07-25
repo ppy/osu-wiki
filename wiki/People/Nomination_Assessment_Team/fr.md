@@ -1,9 +1,6 @@
 ---
 tags:
   - NAT
-no_native_review: true
-outdated_translation: true
-outdated_since: 6aa2116c3fcbc6bbfba929cf8006aad03ac32997
 ---
 
 # Nomination Assessment Team
@@ -40,17 +37,17 @@ Les membres de la NAT affectés à la catégorie structurelle ne sont responsabl
 - **Développement** : Développer et maintenir des outils et des sites web pour aider à améliorer le processus de classement (tels que [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) de [Aiess](https://github.com/Naxesss/Aiess), ou [le site web BN Management](https://bn.mappersguild.com)).
 - **Modération**: Traiter les rapports d'utilisateurs et évaluer les comportements inappropriés des Beatmap Nominators, ainsi que traiter les reviews du contenu des beatmaps. Cette tâche est un effort commun entre la NAT et la GMT.
 - **Maintenance diverse** : Il s'agit notamment, mais pas exclusivement, des éléments suivants :
-  - Gestion des [vétos](/wiki/People/Beatmap_Nominators/Beatmap_Veto).
-  - Maintenir le [test des RC](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test).
+  - Traitements des [vétos](/wiki/People/Beatmap_Nominators/Beatmap_Veto).
+  - Maintenance du [sous-forum Beatmap Management](https://osu.ppy.sh/community/forums/115)
   - Juger de l'impact des réinitialisations de nominations.[^note-impact]
 
-Les membres de la NAT qui s'occupent principalement de cette catégorie veillent à ce que les BN et les autres membres de la communauté du mapping/modding restent informés et se sentent écoutés, en plus de maintenir les composants nécessaires pour que tout fonctionne sur la scène du mapping/modding. Les utilisateurs appartenant à cette catégorie sont des évaluateurs expérimentés qui préfèrent se concentrer sur les questions de gestion concernant la scène du mapping/modding.
+Les membres de la NAT qui s'occupent principalement de cette catégorie veillent à ce que les BN et les autres membres de la communauté de mapping/modding restent informés et se sentent écoutés, en plus de maintenir les composants nécessaires pour que tout fonctionne sur la scène du mapping/modding. Les utilisateurs appartenant à cette catégorie sont des membres expérimentés de la NAT qui préfèrent se concentrer sur les questions de gestion concernant la scène du mapping/modding.
 
 ---
 
 La répartition de la charge de travail de la NAT en deux catégories principales est nécessaire pour l'organisation générale et la productivité du groupe, car elle permet de rationaliser l'attribution des responsabilités. La délégation des tâches permet aux membres de la NAT de ne pas être débordés tout en évitant la dispersion des responsabilités.
 
-**Un membre de la NAT peut s'engager dans n'importe quelle tâche de n'importe quelle catégorie qu'il choisit, en dépit de ses responsabilités principales.** Par exemple, un membre de la NAT principalement responsable des évaluations peut également contribuer aux tâches liées à la structure, ou vice versa.
+**Un membre de la NAT peut s'engager dans n'importe quelle tâche de n'importe quelle catégorie qu'il choisit, sans tenir compte de ses responsabilités principales.** Par exemple, un membre de la NAT principalement responsable des évaluations peut également aider à des tâches liées à la structure, ou vice versa.
 
 ## Activité
 
@@ -70,7 +67,7 @@ Les membres de la NAT bénéficient des avantages suivants :
 - **Insigne de titulaire** : Un [badge de profil](/wiki/Community/Profile_badge) qui affiche le nombre d'années passées dans le NAT.
   ![Badge NAT 1 an](https://assets.ppy.sh/profile-badges/NAT1y.png "Badge NAT 1 an") ![Badge NAT 2 ans](https://assets.ppy.sh/profile-badges/NAT2y.png "Badge NAT 2 ans") ![Badge NAT 3 ans](https://assets.ppy.sh/profile-badges/NAT3y.png "Badge NAT 3 ans") ![Badge NAT 4 ans](https://assets.ppy.sh/profile-badges/NAT4y.png "Badge NAT 4 ans") ![Badge NAT 5 ans](https://assets.ppy.sh/profile-badges/NAT5y.png "Badge NAT 5 ans") ![Badge NAT 6 ans](https://assets.ppy.sh/profile-badges/NAT6y.png "Badge NAT 6 ans") ![Badge NAT 7 ans](https://assets.ppy.sh/profile-badges/NAT7y.png "Badge NAT 7 ans") ![Badge NAT 8 ans](https://assets.ppy.sh/profile-badges/NAT8y.png "Badge NAT 8 ans") ![Badge NAT 9 ans](https://assets.ppy.sh/profile-badges/NAT9y.png "Badge NAT 9 ans") ![Badge NAT 10 ans](https://assets.ppy.sh/profile-badges/NAT10y.png "Badge NAT 10 ans")
 - **Badge de compte des [nomination](/wiki/Beatmap_ranking_procedure#nominations)** : Un badge de profil attribué lorsque certaines étapes du nombre de nominations sont franchies.
-  ![Badge de 200 nominations](https://assets.ppy.sh/profile-badges/noms200.png?2023 "Badge de 200 nominations") ![Badge de 400 nominations](https://assets.ppy.sh/profile-badges/noms400.png?2023 "Badge de 400 nominations") ![Badge de 600 nominations](https://assets.ppy.sh/profile-badges/noms600.png?2023 "Badge de 600 nominations") ![Badge de 800 nominations](https://assets.ppy.sh/profile-badges/noms800.png?2023 "Badge de 800 nominations") ![Badge 1000 nominations](https://assets.ppy.sh/profile-badges/noms1000.png?2023 "Badge 1000 nominations")
+  ![Badge de 200 nominations](https://assets.ppy.sh/profile-badges/noms200.png?2023 "Badge de 200 nominations") ![Badge de 400 nominations](https://assets.ppy.sh/profile-badges/noms400.png?2023 "Badge de 400 nominations") ![Badge de 600 nominations](https://assets.ppy.sh/profile-badges/noms600.png?2023 "Badge de 600 nominations") ![Badge de 800 nominations](https://assets.ppy.sh/profile-badges/noms800.png?2024 "Badge de 800 nominations") ![Badge 1000 nominations](https://assets.ppy.sh/profile-badges/noms1000.png?2024 "Badge 1000 nominations") ![Badge 1500 nominations](https://assets.ppy.sh/profile-badges/noms1500.png?2024 "Badge 1500 nominations") ![Badge 2000 nominations](https://assets.ppy.sh/profile-badges/noms2000.png?2024 "Badge 2000 nominations")
 - **Éligibilité au programme [nominateur d'élite](/wiki/People/Elite_Nominators)** : Les membres de la NAT qui se distinguent par leurs performances exceptionnelles en tant que nominateurs peuvent se voir décerner le statut annuel de nominateur d'élite.
 
 ## Promotion à la NAT
@@ -83,9 +80,11 @@ La NAT garde un œil sur les candidats potentiels sur de longues périodes et se
 
 ### Rejoindre la catégorie structurelle
 
-Les membres de la NAT qui font preuve de compétence dans les tâches structurelles décrites ci-dessus, au point que leurs contributions actuelles ou prévues sont indispensables et l'emportent largement sur leur nécessité en tant qu'évaluateur, peuvent choisir de changer de catégorie. Cette décision est prise par les responsables de la NAT et traitée au cas par cas.
+Les membres actuels ou anciens de la NAT qui font preuve de compétences dans les tâches structurelles décrites ci-dessus, au point que leurs contributions actuelles ou prévues sont indispensables et dépassent de loin leur nécessité en tant qu'évaluateur, peuvent choisir de rejoindre la catégorie structurelle. Cette option est jugée par les responsables de la NAT et traitée au cas par cas.
 
-Avant de procéder à un changement de catégorie, l'ajout est vérifié avec le reste de la NAT en cas d'objections. Si aucune objection n'est soulevée, le membre concerné sera alors soumis à des attentes différentes en matière d'activités, en fonction de sa situation spécifique. Si sa contribution aux tâches structurelles est considérée comme terne ou inutile à un moment donné, toujours selon l'avis des responsables de la NAT, il sera réintégré dans la catégorie d'évaluation.
+En de rares occasions, les Beatmap Nominators peuvent également être considérés pour ce poste en fonction de leur contribution à la communauté du mapping/modding.
+
+Avant de procéder à un tel ajout, l'ajout est vérifié avec le reste de la NAT en cas d'objections. Si aucune objection n'est soulevée, le membre concerné sera alors soumis à des attentes différentes en matière d'activités, en fonction de sa situation spécifique. Si sa contribution aux tâches structurelles est considérée comme terne ou inutile à un moment donné, toujours selon l'avis des responsables de la NAT, il sera retiré de cette catégorie.
 
 ## Départ de la NAT
 
@@ -98,17 +97,18 @@ Lorsqu'un membre de la NAT décide de quitter l'équipe, il peut se voir accorde
 Les anciens membres de la NAT qui ont actuellement un accès interne sont les suivants :
 
 - ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083)
-- ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342)
+- ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507)
+- ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501)
+- ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882)
 - ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
+- ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 - ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926)
 
 ## Leadership de la NAT
 
 À partir de mars 2023, la NAT a décidé de réadopter le concept de leadership, qui était [précédemment utilisé](/wiki/People/Quality_Assurance_Team/QAT_Leaders) dans la [QAT](/wiki/People/Quality_Assurance_Team). Les leaders de la NAT ont la responsabilité combinée des catégories d'évaluation et de structure, ce qui leur permet de surveiller et de s'impliquer dans tous les aspects de la NAT.
 
-Le chef actuel de la NAT est :
-
-- ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
+Le chef actuel de la NAT est ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
 
 ### Responsabilités
 
@@ -117,8 +117,8 @@ Le responsable NAT vise à couvrir les tâches suivantes :
 - **Gestion des activités :** Contrôler en permanence l'activité des autres membres de la NAT et traiter les cas de faible activité, soit par des contrôles réguliers, soit par des entretiens de sortie, en cas de problèmes d'activité concernant certains membres.
 - **Communication :**
   - Servir de pont entre l'équipe d'osu!, la NAT et la communauté du mapping, en communiquant constamment les changements, les préoccupations ou les demandes soulevées.
-  - Encourager la participation aux discussions internes et externes en engageant de manière dynamique toutes les parties, en veillant à l'organisation des discussions et en facilitant la combinaison de différents points de vue en vue de l'élaboration d'une ligne de conduite pratique.
-  - Promouvoir des idées nouvelles ou existantes qui peuvent facilement se perdre au milieu des discussions et des propositions des critères de classement.
+  - Encourager la participation aux discussions internes et externes en engageant de manière proactive toutes les parties, en veillant à l'organisation des discussions et en facilitant la combinaison de différents points de vue en vue de l'élaboration d'une ligne de conduite pratique.
+  - Promouvoir des idées nouvelles ou existantes qui peuvent facilement se perdre au milieu des discussions et des propositions.
 - **Résolution des problèmes :** Prendre l'initiative de s'impliquer dans la prise de décisions critiques et de traiter les problèmes délicats soulevés par l'équipe ou la communauté.
 
 ## Membres de l'équipe
@@ -205,4 +205,4 @@ En complément, le [bot Nomination Assessment Team](https://osu.ppy.sh/users/661
 
 ## Notes
 
-[^note-impact]: Ce processus consiste à vérifier chaque proposition d'inscription et à lui attribuer une étiquette "mineure" ou "notable" pour référence future dans les évaluations.
+[^note-impact]: Ce processus consiste à vérifier chaque proposition d'inscription et à lui attribuer une étiquette "mineure", "notable" ou "grave" pour référence future dans les évaluations.
