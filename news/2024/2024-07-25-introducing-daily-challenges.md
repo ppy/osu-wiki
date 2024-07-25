@@ -28,7 +28,7 @@ Each day will introduce one new map with increased difficulty, resetting every M
 
 ![](/wiki/shared/news/2024-07-25-introducing-daily-challenges/daily-challenge-calendar.png?1)
 
-After passing the beatmap of the day, it will be counted towards "daily challenge" totals on the profile (which are updated once per day).
+After passing the beatmap of the day, it will be counted towards "daily challenge" totals on the profile (which are updated at the end of each day).
 
 ![](/wiki/shared/news/2024-07-25-introducing-daily-challenges/daily-challenge-profile-stats.jpg)
 
