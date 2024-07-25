@@ -11,7 +11,7 @@ A new way to play the game!
 By popular demand, osu! will be taking a page from the books of other games. Watch [pishifat](https://osu.ppy.sh/users/3178418) explain what's happening along with [peppy](https://osu.ppy.sh/users/2) in the video below, or read on for the quick summary.
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/e8tKtedQvYc" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ---
