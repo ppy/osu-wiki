@@ -68,4 +68,4 @@ Severe offences that go well beyond the scope of our rules and into the jurisdic
 
 ## Notes
 
-[^macros]: Rebinding keys to K1 or K2 is allowed, as long as key-down on a specific key performs key-down on the bound game key, and key-up on the same key performs key-up on the bound game key. Binding a key-down to a key-up, or having one key perform more than one key-down / key-up pair is not allowed.
+[^macros]: Rebinding keys to K1 or K2 is allowed, as long as pressing a specific key performs a press on the bound game key, and releasing the same key performs a release the bound game key. Binding a press to a release, or having one key perform more than one press/release pair is not allowed.
