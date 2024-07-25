@@ -9,7 +9,7 @@ Wake up babe, a new interview with [Flaro](https://osu.ppy.sh/users/10323184) ju
 
 ![](/wiki/shared/news/2024-07-29-the-followpoint-flaro-the-queen-of-speed/banner.jpg)
 
-Welcome back to The Followpoint! Today, we are joined by [Flaro](https://osu.ppy.sh/users/10323184), a top speed player who was #1 USA for many months at a time and having numerous pp record chokes that could of changed the game forever!
+Welcome back to The Followpoint! Today, we are joined by Flaro, a top speed player who was #1 USA for many months at a time and having numerous pp record chokes that could of changed the game forever!
 
 Let's get right into the interview!
 
@@ -94,7 +94,19 @@ Out of all the skill sets in the game, what made you want to prioritize speed?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
 
-Funnily enough, I was exclusively a low bpm flow aim and jump player up until only mid 2022, which is when I would start to grind speed, going for a score on the one and only Lionheart map. It was when I skipped 800 in a Walmart whilst wearing a Megumin cosplay (true story!) that I decided to fully commit to getting better at speed and flow aim.
+Funnily enough, I was exclusively a low BPM flow aim and jump player up until only mid-2022, which is when I would start to grind speed, going for a score on the one and only [Lionheart](https://osu.ppy.sh/beatmapsets/1390922) map. It was when I skipped 800 in a Walmart whilst wearing a Megumin cosplay (true story!) that I decided to fully commit to getting better at speed and flow aim.
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/news/2024-07-29-the-followpoint-flaro-the-queen-of-speed/avatar-Utiba.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
+
+That's a pretty cool story on why you committed to playing speed more, but why were you wearing a Megumin cosplay at a Walmart in the first place?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10323184" style="background-image: url('/wiki/shared/news/2024-07-29-the-followpoint-flaro-the-queen-of-speed/avatar-Flaro.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
+
+There's not really a specific answer, it was the first meetup I ever went to and thought it'd be funny to buy the cosplay and wear it there.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/news/2024-07-29-the-followpoint-flaro-the-queen-of-speed/avatar-Utiba.jpg')"></a>
 
@@ -106,7 +118,7 @@ Do you feel like speed is really overweighted, why or why not?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
 
-Oh yeah definitely. Speed is in a very unbalanced state right now, and I'm hopeful for the upcoming reworks that seem to aim to help with that issue, such as [Xexxar's rework](https://github.com/ppy/osu/discussions/20210). I really hope to see a meta that's more focused on high bpm aim than anything as that skill set is very fun to me!
+Oh yeah definitely. Speed is in a very unbalanced state right now, and I'm hopeful for the upcoming reworks that seem to aim to help with that issue, such as [Xexxar's rework](https://github.com/ppy/osu/discussions/20210). I really hope to see a meta that's more focused on high BPM aim than anything as that skill set is very fun to me!
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/news/2024-07-29-the-followpoint-flaro-the-queen-of-speed/avatar-Utiba.jpg')"></a>
 
@@ -130,7 +142,19 @@ It says in your Discord bio that you are a Python Developer, how did you get int
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
 
-I've had a passion for technology for most of my life, just messing around with computers and stuff. I first started learning Python back in 2022 when I started making my own discord bots, and now I just program things for fun! I love that you can basically do anything you want when it comes to programming your own things. I'm currently in college for CompSci and own a server in my home as well.
+I've had a passion for technology for most of my life, just messing around with computers and stuff. I first started learning Python back in 2022 when I started making my own Discord bots, and now I just program things for fun! I love that you can basically do anything you want when it comes to programming your own things. I'm currently in college for CompSci and own a server in my home as well.
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/news/2024-07-29-the-followpoint-flaro-the-queen-of-speed/avatar-Utiba.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
+
+It sounds like you have a burning passion for programming. Has that translated into your love for osu! in any way, do you have any osu! related projects you'd like to share?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10323184" style="background-image: url('/wiki/shared/news/2024-07-29-the-followpoint-flaro-the-queen-of-speed/avatar-Flaro.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
+
+I have a few in the works! But like many other programmers with ADHD, I usually start them then never finish or make good progress on them, I will eventually complete one though! I plan on developing a Discord bot similar to [Bathbot](https://discord.com/application-directory/297073686916366336) in the future.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/news/2024-07-29-the-followpoint-flaro-the-queen-of-speed/avatar-Utiba.jpg')"></a>
 
@@ -178,7 +202,7 @@ Is there any specific scores you want to achieve or see others achieve in the fu
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
 
-Scores that are on my to-do list currently are probably [Rat Race](https://osu.ppy.sh/beatmapsets/958005#osu/2069969), [Everything Went Numb](https://osu.ppy.sh/beatmapsets/414289#osu/898106), [Happy! Lucky!](https://osu.ppy.sh/beatmapsets/1594964#osu/3257742), and just focusing on more aim oriented scores in general. I don't really pay attention to the scores that others get, but I always get super hyped when I see another high bpm aim score from [mrekk](https://osu.ppy.sh/users/7562902), those are always legendary to watch, and I hope to see more.
+Scores that are on my to-do list currently are probably [Rat Race](https://osu.ppy.sh/beatmapsets/958005#osu/2069969), [Everything Went Numb](https://osu.ppy.sh/beatmapsets/414289#osu/898106), [Happy! Lucky!](https://osu.ppy.sh/beatmapsets/1594964#osu/3257742), and just focusing on more aim oriented scores in general. I don't really pay attention to the scores that others get, but I always get super hyped when I see another high BPM aim score from [mrekk](https://osu.ppy.sh/users/7562902), those are always legendary to watch, and I hope to see more.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/news/2024-07-29-the-followpoint-flaro-the-queen-of-speed/avatar-Utiba.jpg')"></a>
 
@@ -190,7 +214,9 @@ To finish things up, what does the future hold for you? Do you have any goals or
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
 
-I will continue the osu! grind until my motivation to do so declines, although as of recent my focus has been much less on pp and more on tourney performances and just playing for fun! Although attempting to reclaim #1 USA isn’t completely out of the question, it’s unlikely unless my interest in grinding for pp comes back. In terms of goals, my biggest goal at the moment is definitely getting better at tournaments and winning OWC, and being crowned an osu! champion, along with that, I want to focus more on my growth as a [streamer on Twitch](https://www.twitch.tv/flarosu), and would love to get invited to The Roundtable sometime in the future, meeting other streamers like me always makes me happy!
+I will continue the osu! grind until my motivation to do so declines, although as of recent my focus has been much less on pp and more on tourney performances and just playing for fun! Although attempting to reclaim #1 USA isn’t completely out of the question, it’s unlikely unless my interest in grinding for pp comes back.
+
+In terms of goals, my biggest goal at the moment is definitely getting better at tournaments and winning OWC, and being crowned an osu! champion, along with that, I want to focus more on my growth as a [streamer on Twitch](https://www.twitch.tv/flarosu), and would love to get invited to The Roundtable sometime in the future, meeting other streamers like me always makes me happy!
 
 </div>
 
