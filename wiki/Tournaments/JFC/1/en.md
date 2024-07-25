@@ -76,6 +76,34 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
 
 ## Mappools
 
+### Semifinals
+
+- No Mod
+  1. [AliA - impulse (SkyFlame) \[Emotions\]](https://osu.ppy.sh/beatmapsets/1133470#osu/2367231)
+  2. [Bal-Sagoth - Shackled To The Trilithon Of Kutulu (Mazzerin) \[Awakening\]](https://osu.ppy.sh/beatmapsets/1312054#osu/2719282)
+  3. [Nanahoshi Kangengakudan feat. HARU - Pitohui (dkblaze) \[Toxins\]](https://osu.ppy.sh/beatmapsets/2110496#osu/4430197)
+  4. [Lapix Feat. Nara Hiyori - Siren (Livia) \[Livia x Feiri's Sparkling Noise\]](https://osu.ppy.sh/beatmapsets/2073381#osu/4339847)
+  5. [XXVeil - Midnight Butlers (Ryuusei Aika) \[Witching Hour\]](https://osu.ppy.sh/beatmapsets/1609793#osu/3286929)
+  - Hidden
+  1. [Asaki - Shizuku (seros) \[KALIBEROS' LAMENTO\]](https://osu.ppy.sh/beatmapsets/1975936#osu/4101131)
+  2. [II-L - V804N (BMS Edit) (hehe) \[Callie's Extra\]](https://osu.ppy.sh/beatmapsets/2063899#osu/4327687)
+  3. [awfuless - Temptation (Fursum) \[Desire\]](https://osu.ppy.sh/beatmapsets/1959476#osu/4060312)
+- Hard Rock
+  1. [Yoshida Yasei - Override (feat. Kasane Teto SV) (Djulus) \[Extra\]](https://osu.ppy.sh/beatmapsets/2161045#osu/4557241)
+  2. [ZODIACSYNDICATE - Astraea no Soubei (wring) \[AngelHoney's ExtrA\]](https://osu.ppy.sh/beatmapsets/62788#osu/441920)
+  3. [RuLu feat. Youi - Xylophone (Irin) \[Singing by the Dawn Seaside\]](https://osu.ppy.sh/beatmapsets/1352063#osu/2799098)
+- Double Time
+  1. [Shihori - Day Breaker (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/91606#osu/247999)
+  2. [PinocchioP - Arifureta Sekai Seifuku (BadMapMaker) \[Dorrupi\]](https://osu.ppy.sh/beatmapsets/1784517#osu/3654750)
+  3. [yuikonnu - Gigantic O.T.N (Camo) \[Hyper\]](https://osu.ppy.sh/beatmapsets/1362797#osu/3336914)
+  4. [Rin - Amanojaku set 02 \~ Midnight Spell Card (Aeril) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/974872#osu/2051306)
+- Free Mod
+  1. [t+pazolite - Tempestissimo (Ryuusei Aika) \[Beyond\]](https://osu.ppy.sh/beatmapsets/1291246#osu/2680247)
+  2. [seleP - Scarlet Rose (mmi\_) \[Insane\]](https://osu.ppy.sh/beatmapsets/890001#osu/2791708)
+  3. [Nekomata Gekidan - AsiaN distractive (Kaifin) \[melloe's Extra\]](https://osu.ppy.sh/beatmapsets/667446#osu/1604700)
+- Tiebreaker
+  1. **[CROSS VEIN - Eternal Dream (Kite) \[Alp\]](https://osu.ppy.sh/beatmapsets/1301419#osu/2699308)**  
+
 ### Quarterfinals
 
 - No Mod
