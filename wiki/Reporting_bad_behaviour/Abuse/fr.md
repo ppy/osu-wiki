@@ -34,7 +34,7 @@ Si vous estimez que les remarques/avances étaient très inappropriées ou que v
 
 Signalez le message à un membre de la [Global Moderation Team](/wiki/People/Global_Moderation_Team)  dès que possible.
 
-Pour ce faire, cliquez sur le nom d'utilisateur d'un membre de la GMT dans la liste de cette page. Vous accéderez ainsi à son profil. Si vous ne savez pas sur qui cliquer, utilisez simplement [ce lien à la place](https://osu.ppy.sh/users/102335).
+Pour ce faire, cliquez sur le nom d'utilisateur d'un membre de la GMT dans la liste de cette page. Vous accéderez ainsi à son profil. Si vous ne savez pas sur qui cliquer, utilisez simplement [ce lien à la place](https://osu.ppy.sh/users/5999631).
 
 Cliquez sur le bouton avec une enveloppe juste en dessous du drapeau du pays de l'utilisateur. Vous accéderez ainsi à l'écran de tchat.
 
