@@ -84,7 +84,7 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
   3. [Nanahoshi Kangengakudan feat. HARU - Pitohui (dkblaze) \[Toxins\]](https://osu.ppy.sh/beatmapsets/2110496#osu/4430197)
   4. [Lapix Feat. Nara Hiyori - Siren (Livia) \[Livia x Feiri's Sparkling Noise\]](https://osu.ppy.sh/beatmapsets/2073381#osu/4339847)
   5. [XXVeil - Midnight Butlers (Ryuusei Aika) \[Witching Hour\]](https://osu.ppy.sh/beatmapsets/1609793#osu/3286929)
-  - Hidden
+- Hidden
   1. [Asaki - Shizuku (seros) \[KALIBEROS' LAMENTO\]](https://osu.ppy.sh/beatmapsets/1975936#osu/4101131)
   2. [II-L - V804N (BMS Edit) (hehe) \[Callie's Extra\]](https://osu.ppy.sh/beatmapsets/2063899#osu/4327687)
   3. [awfuless - Temptation (Fursum) \[Desire\]](https://osu.ppy.sh/beatmapsets/1959476#osu/4060312)
@@ -172,6 +172,31 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
   2. [-45 - Millarca (Stick2Glue) \[Malice\]](https://osu.ppy.sh/beatmapsets/1833512#osu/3764144)
 
 ## Match results
+
+### Quarterfinals
+
+Friday, 19 July 2024:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | Tahu Sumedang | 3 | **5** | **daan mogot** | [#1](https://osu.ppy.sh/community/matches/114731998) |
+| Upper | **Nasi Kuning Pake Kecap** | **5** | 1 | santoso | [#1](https://osu.ppy.sh/community/matches/114731434) |
+
+Saturday, 20 July 2024:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **Suikambing** | **5** | 1 | Ban HR2 | [#1](https://osu.ppy.sh/community/matches/114743141) |
+| Upper | **Bakpia Kukus** | **5** | 1 | Kagamarcchino ﾃﾞﾗｸｽ | [#1](https://osu.ppy.sh/community/matches/114743143) |
+| Upper | **BAKPIA KUKUS KILLER** | **5** | 0 | reto pengkhianat | [#1](https://osu.ppy.sh/community/matches/114742979) |
+
+Sunday, 21 July 2024:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | Duo Ambatron | 0 | **5** | **daftar mepet** | *win by default* |
+| Lower | apa | 0 | **5** | **Mie Ayam Afui** | *win by default* |
+| Lower | YJJA | 0 | **5** | **Hina Dutro** | *win by default* |
 
 ### Round of 16
 
