@@ -28,10 +28,9 @@ The criteria for joining the team vastly differs from role to role, but proficie
 
 ## Benefits
 
-Project Loved Team members are granted the following benefits:
+Project Loved Team members are given a tenure [profile badge](/wiki/Community/Profile_badge) that displays the number of years they have been helping run Project Loved.
 
-- **Tenure badge**: A [profile badge](/wiki/Community/Profile_badge) that displays the number of years they have been helping run Project Loved.
-  ![1 year LVD badge](https://assets.ppy.sh/profile-badges/loved1y.png "1 year LVD badge") ![2 year LVD badge](https://assets.ppy.sh/profile-badges/loved2y.png "2 year LVD badge") ![3 year LVD badge](https://assets.ppy.sh/profile-badges/loved3y.png "3 year LVD badge") ![4 year LVD badge](https://assets.ppy.sh/profile-badges/loved4y.png "4 year LVD badge") ![5 year LVD badge](https://assets.ppy.sh/profile-badges/loved5y.png "5 year LVD badge") ![6 year LVD badge](https://assets.ppy.sh/profile-badges/loved6y.png "6 year LVD badge")
+![1 year LVD badge](https://assets.ppy.sh/profile-badges/loved1y.png "1 year LVD badge") ![2 year LVD badge](https://assets.ppy.sh/profile-badges/loved2y.png "2 year LVD badge") ![3 year LVD badge](https://assets.ppy.sh/profile-badges/loved3y.png "3 year LVD badge") ![4 year LVD badge](https://assets.ppy.sh/profile-badges/loved4y.png "4 year LVD badge") ![5 year LVD badge](https://assets.ppy.sh/profile-badges/loved5y.png "5 year LVD badge") ![6 year LVD badge](https://assets.ppy.sh/profile-badges/loved6y.png "6 year LVD badge")
 
 ## Trivia
 
