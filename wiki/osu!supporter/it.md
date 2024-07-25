@@ -55,7 +55,7 @@ I supporter possono personalizzare ulteriormente il loro profilo impostando un'i
 - Premere l'icona a forma di matita nell'angolo in basso a destra del posto riservato alla copertina.
 - Selezionare una nuova copertina tra alcune opzioni predefinite o caricare un'immagine personalizzata (le sue dimensioni dovrebbero essere 2400x640).
 
-Una volta che l'osu!supporter scade, la copertina rimarrà, ma non potrà essere modificata.
+Alla scadenza dell'osu!supporter, la copertina rimarrà, ma non potrà essere modificata.
 
 ### Colore del profilo
 
