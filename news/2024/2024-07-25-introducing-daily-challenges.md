@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducing Daily Challenges
-date: 2024-07-25 00:10:00 +0000
+date: 2024-07-25 01:30:00 +0000
 ---
 
 A new way to play the game!
@@ -24,7 +24,7 @@ These are daily featured beatmaps accessible from the "play" section of the main
 
 ![](/wiki/shared/news/2024-07-25-introducing-daily-challenges/daily-challenge-screen.jpg)
 
-Each day will introduce one new map with increased difficulty, resetting after a week.
+Each day will introduce one new map with increased difficulty, resetting every Monday.
 
 ![](/wiki/shared/news/2024-07-25-introducing-daily-challenges/daily-challenge-calendar.png)
 
