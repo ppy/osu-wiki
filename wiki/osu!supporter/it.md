@@ -57,14 +57,14 @@ I supporter possono personalizzare ulteriormente il loro profilo impostando un'i
 
 Una volta che l'osu!supporter scade, la copertina rimarrà, ma non potrà essere modificata.
 
-### Profile colour
+### Colore del profilo
 
 Come per le copertine, i supporter possono modificare il colore del proprio profilo:
 
-- Premi sull'icona a forma di matita nell'angolo della copertina in basso a destra.
+- Premi sull'icona a matita nell'angolo della copertina in basso a destra.
 - Modificare il colore del profilo altera quello di quasi tutti i componenti della pagina, inclusi il banner, i pulsanti, i collegamenti, e il testo.
 
-Una volta che l'osu!supporter scade, il colore personalizzato rimarrà, ma potrà essere modificato solo ripristinando quello predefinito.
+Alla scadenza dell'osu!supporter, il colore personalizzato rimarrà, ma potrà essere solamente ripristinato a quello predefinito.
 
 ### Un cambio nome utente gratuito
 
