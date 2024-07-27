@@ -6,7 +6,7 @@ Esta guía probablemente sea difícil de entender para las personas con poca exp
 
 ## Cómo hacer spinners simétricos
 
-Cansa ver spinners tambaleantes. Por favor, si quieres hacer un spinner, asegúrate de que está perfectamente centrado.
+Cansa ver spinners tambaleantes. Por favor, si quieres hacer un spinner, asegúrate de que esté perfectamente centrado.
 
 Primero abre tu editor de imágenes, en esta guía se usará [GIMP](https://gimp.org/), ya que es gratuito.
 
@@ -76,7 +76,7 @@ Primero, toma el fondo a 1024x768 y corta los 46 píxeles superiores y los 30 in
 
 ### Usa la pestaña de canales para desactivar la edición del canal alfa
 
-Técnicamente, ya has terminado, pero si quieres hacer que el fondo se «rellene» con un medidor de fondo, entonces puedes usar el de la plantilla de la skin, o hacerlo tú mismo. Trae la plantilla del spinner-meter. Para recolorearlo, desactiva el canal alfa seleccionándolo, de modo que no modifiques en absoluto la transparencia. Luego usa el relleno del cubo y llena toda el área con un color gris o el color que quieras (yo usé negro).
+Técnicamente, ya has terminado, pero si quieres hacer que el fondo se «rellene» con un medidor de fondo, entonces puedes usar el de la plantilla de la skin, o hacerlo tú mismo. Trae la plantilla del spinner-meter. Para recolorearlo, desactiva el canal alfa seleccionándolo, de modo que no modifiques en absoluto la transparencia. Luego usa el relleno de cubeta y llena toda el área con un color gris o el color que quieras.
 
 ![Imagen del tutorial 11](img/MPCS_11-ES.png "Imagen del tutorial 11")
 
