@@ -34,46 +34,26 @@ Each round, from group stage to grand finals, we uploaded highlight videos showc
 
 | Match | Stage | Link |
 | :-- | :-- | :-- |
-| assalamualaikum vs. WELCOME TO TREV CITY | Group Stage | [VOD](https://youtu.be/Pfra41-02_s?si=YNkgiPBf_DZ3wB7Z) |
-| parmesan vs. the freak squad | Group Stage | [VOD](https://youtu.be/Tyhb1SI112o?si=k0vtNcFBUJVBnuAg) |
-| Tea Party vs. european goats | Round of 16 | [VOD](https://youtu.be/l9RhJOnIwJ8?si=0ztZkiWaArwjQv7P) |
-| mom's touch vs. Nipis Madu | Round of 16 | [VOD](https://youtu.be/fFqyEZkjiO4?si=6HuwQc36xJ-SE7rA) |
-| Hatsune Miku vs. EMPICONES | Round of 16 | [VOD](https://youtu.be/Vk5slVJ6CiI?si=Kl5H4y0ofF3TT7GG) |
-| Nipis Madu vs. AHHHHHHHHHHHH | Quarter Finals | [VOD](https://youtu.be/xpR6bljg-i8?si=QR0n2L4C-zE3Eb8h) |
-| Bob vs. european goats | Quarter Finals | [VOD](https://youtu.be/tL1zR-bQqrM?si=FjzRmtxdNRKQwsZe) |
-| the freak squad vs. Hatsune Miku | Quarter Finals | [VOD](https://youtu.be/nQT0GVh9POk?si=g-QIV-WctbhtN0nd) |
-| widepeepoHappy vs. Tea Party | Semi Finals | [VOD](https://youtu.be/zHCkywcpUBs?si=o22FJLSbaf7SMdV9) |
-| together we are terrific vs. Hatsune Miku | Semi Finals | [VOD](https://youtu.be/3JwWWOKOhc8?si=8aSoB71_BGuCDNeN) |
-| mom's touch vs. EMPICONES | Finals | [VOD](https://youtu.be/5HcQRVBM8Iw?si=RGFIwtpbefvu1RU_) |
-| APAC RADIANT vs. together we are terrific | Grand Finals | [VOD](https://youtu.be/XRG7ewQExew?si=axH3ios8RxmJf62l) |
+| assalamualaikum vs. WELCOME TO TREV CITY | Group Stage | [VOD](https://www.youtube.com/watch?v=Pfra41-02_s) |
+| parmesan vs. the freak squad | Group Stage | [VOD](https://www.youtube.com/watch?v=Tyhb1SI112o) |
+| Tea Party vs. european goats | Round of 16 | [VOD](https://www.youtube.com/watch?v=l9RhJOnIwJ8) |
+| mom's touch vs. Nipis Madu | Round of 16 | [VOD](https://www.youtube.com/watch?v=fFqyEZkjiO4) |
+| Hatsune Miku vs. EMPICONES | Round of 16 | [VOD](https://www.youtube.com/watch?v=Vk5slVJ6CiI) |
+| Nipis Madu vs. AHHHHHHHHHHHH | Quarter Finals | [VOD](https://www.youtube.com/watch?v=xpR6bljg-i8) |
+| Bob vs. european goats | Quarter Finals | [VOD](https://www.youtube.com/watch?v=tL1zR-bQqrM) |
+| the freak squad vs. Hatsune Miku | Quarter Finals | [VOD](https://www.youtube.com/watch?v=nQT0GVh9POk) |
+| widepeepoHappy vs. Tea Party | Semi Finals | [VOD](https://www.youtube.com/watch?v=zHCkywcpUBs) |
+| together we are terrific vs. Hatsune Miku | Semi Finals | [VOD](https://www.youtube.com/watch?v=3JwWWOKOhc8) |
+| mom's touch vs. EMPICONES | Finals | [VOD](https://www.youtube.com/watch?v=5HcQRVBM8Iw) |
+| APAC RADIANT vs. together we are terrific | Grand Finals | [VOD](https://www.youtube.com/watch?v=XRG7ewQExew) |
 
 ### Highlight videos
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/AJEq85TldL4?si=3RTM2LkE7U-5Jrcr" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/videoseries?list=PLuEZphzYAlhTPn9S77gfWP1VogSZ7DG1v" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/iNx0xQtboq0?si=WmxSn-rtJcydRiVB" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/eSASm3RZpOk?si=mXioukIsmw-r4kjp" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/GHcFCjpFKlE?si=5mTY5j3Bz2jNN_Et" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/C-8bLhId9yY?si=QRICzvpxF8p_vpi-" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/kx4HYPgFIFs?si=STcQRT5IzooRV4mo" frameborder="0" allowfullscreen></iframe>
-</div>
-
-## Original songs
+## osu! originals
 
 <style>
     .osu-md--news .audio-player {
@@ -85,7 +65,7 @@ The Perennial stepped it up this year with six original songs: one for each roun
 
 ### Group Stage
 
-[![](https://assets.ppy.sh/beatmaps/2198890/covers/raw.jpg)](https://osu.ppy.sh/beatmapsets/2198890#osu/4653331)
+[![](/wiki/shared/news/2024-07-28-the-perennial-concludes/tggt.jpg)](https://osu.ppy.sh/beatmapsets/2198890#osu/4653331)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -95,7 +75,7 @@ The Perennial stepped it up this year with six original songs: one for each roun
 
 ### Round of 16 & Quarter Finals
 
-[![](https://assets.ppy.sh/beatmaps/2202795/covers/raw.jpg)](https://osu.ppy.sh/beatmapsets/2202795#osu/4662244)
+[![](/wiki/shared/news/2024-07-28-the-perennial-concludes/coriolis.jpg)](https://osu.ppy.sh/beatmapsets/2202795#osu/4662244)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -105,7 +85,7 @@ The Perennial stepped it up this year with six original songs: one for each roun
 
 ### Semi Finals
 
-[![](https://assets.ppy.sh/beatmaps/2206504/covers/raw.jpg)](https://osu.ppy.sh/beatmapsets/2206504#osu/4672137)
+[![](/wiki/shared/news/2024-07-28-the-perennial-concludes/are-we-floating-in-space.jpg)](https://osu.ppy.sh/beatmapsets/2206504#osu/4672137)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -115,7 +95,7 @@ The Perennial stepped it up this year with six original songs: one for each roun
 
 ### Finals
 
-[![](https://assets.ppy.sh/beatmaps/2209723/covers/raw.jpg)](https://osu.ppy.sh/beatmapsets/2209723#osu/4680237)
+[![](/wiki/shared/news/2024-07-28-the-perennial-concludes/chromatical-dysfunction.jpg)](https://osu.ppy.sh/beatmapsets/2209723#osu/4680237)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -125,7 +105,7 @@ The Perennial stepped it up this year with six original songs: one for each roun
 
 ### Grand Finals
 
-[![](https://assets.ppy.sh/beatmaps/2214194/covers/raw.jpg)](https://osu.ppy.sh/beatmapsets/2214194#osu/4691331)
+[![](/wiki/shared/news/2024-07-28-the-perennial-concludes/metal-globe.jpg)](https://osu.ppy.sh/beatmapsets/2214194#osu/4691331)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -133,23 +113,13 @@ The Perennial stepped it up this year with six original songs: one for each roun
     </audio>
 </div>
 
-[![](https://assets.ppy.sh/beatmaps/2214238/covers/raw.jpg)](https://osu.ppy.sh/beatmapsets/2214238#osu/4691422)
-
-<div class="osu-md__paragraph">
-    <audio controls>
-        <source src="https://assets.ppy.sh/media/news/2024-07-28-echoes-of-memoria.mp3">
-    </audio>
-</div>
-
-If you haven't seen the [video and storyboard](https://youtu.be/IjUqxihQKRI?si=-IQeBAT5wlf16nhZ) for *Echoes of Memoria* yet, you can check it out here:
-
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/IjUqxihQKRI?si=-IQeBAT5wlf16nhZ" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Interviews
 
-As usual, we interview people in order to get an insight into the going-ons behind the curtains that spectators don't usually get a good view of!
+The Perennial had a wealth of staff and players this year. From the victors to the producers to the most impactful staff, we bring you behind the scenes for a deeper look at how various people navigated the Perennial.
 
 <style>
     .news-chat-quote__avatar {
