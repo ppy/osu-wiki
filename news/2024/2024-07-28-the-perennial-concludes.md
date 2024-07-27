@@ -53,6 +53,26 @@ Each round, from group stage to grand finals, we uploaded highlight videos showc
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/videoseries?list=PLuEZphzYAlhTPn9S77gfWP1VogSZ7DG1v" frameborder="0" allowfullscreen></iframe>
 </div>
 
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/iNx0xQtboq0?si=WmxSn-rtJcydRiVB" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/eSASm3RZpOk?si=mXioukIsmw-r4kjp" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/GHcFCjpFKlE?si=5mTY5j3Bz2jNN_Et" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/C-8bLhId9yY?si=QRICzvpxF8p_vpi-" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/kx4HYPgFIFs?si=STcQRT5IzooRV4mo" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## osu! originals
 
 <style>
