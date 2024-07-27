@@ -32,7 +32,7 @@ Vale la pena señalar que debes evitar publicar en las colas de modding de los B
 
 `#modreqs` es un canal del chat de osu! en el que los jugadores pueden solicitar mods para sus beatmaps enlazándolos con el comando `/np`, junto con el tipo de solicitud del mod. Aunque no es el método más eficaz para encontrar mods, los modders y los Beatmap Nominators suelen estar atentos a los buenos beatmaps que se enlazan en este canal.
 
-`#modreqs` no tiene la misma funcionalidad y base de usuarios que tenía en el pasado, pero sigue siendo un método útil para obtener mods, por lo que vale la pena intentarlo. Si bien en la actualidad se trata sobre todo de solicitudes de mods normales, también se suele usar para los otros tipos de solicitudes mencionadas [más arriba](#tipos-de-mods).
+`#modreqs` no tiene la misma funcionalidad y base de usuarios que tenía en el pasado, pero sigue siendo un método útil para obtener mods, por lo que vale la pena intentarlo. Si bien en la actualidad se trata sobre todo de solicitudes de mods normales, también se suele usar para los otros tipos de solicitudes mencionados [más arriba](#tipos-de-mods).
 
 ## Preguntar directamente a otros usuarios
 
