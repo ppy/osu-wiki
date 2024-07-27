@@ -53,26 +53,6 @@ Each round, from group stage to grand finals, we uploaded highlight videos showc
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/videoseries?list=PLuEZphzYAlhTPn9S77gfWP1VogSZ7DG1v" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/iNx0xQtboq0" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/eSASm3RZpOk" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/GHcFCjpFKlE" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/C-8bLhId9yY" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/kx4HYPgFIFs" frameborder="0" allowfullscreen></iframe>
-</div>
-
 ## osu! originals
 
 <style>
