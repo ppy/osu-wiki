@@ -71,7 +71,7 @@ The Perennial stepped it up this year with six original songs: one for each roun
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="https://assets.ppy.sh/artists/425/Songs/Doomsday_-_TGGT.mp3">
+        <source src="https://assets.ppy.sh/artists/425/Songs/Doomsday%20-%20TGGT.mp3">
     </audio>
 </div>
 
