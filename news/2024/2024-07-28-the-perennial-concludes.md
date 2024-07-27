@@ -365,7 +365,7 @@ That said, I’ve made a few tracks where I limit myself to certain sample sets,
 
 <div class="news-chat-quote__text-container">
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/6701656" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-chiv.png')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/6701656" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-chiv.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/6701656">chiv</a></p>
 
@@ -377,7 +377,7 @@ Hi, I'm chiv. I'm currently part of the OWC mappooling team and I also work on P
 
 Before you were a mappooler, you were a tournament player; what made you decide to start mappooling rather than continuing to push for tournament wins?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/6701656" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-chiv.png')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/6701656" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-chiv.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/6701656">chiv</a></p>
 
@@ -389,7 +389,7 @@ There were a large amount of reasons as to why I primarily focus on mappooling n
 
 You mappool for a huge number of tournaments big and small; what are the major differences between mappooling for the osu! World Cup, large community tournaments, and small community tournaments?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/6701656" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-chiv.png')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/6701656" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-chiv.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/6701656">chiv</a></p>
 
@@ -401,7 +401,7 @@ Expectations are what exponentially scale between a tournament's size, and fulfi
 
 For any tournament players reading this, what sort of feedback helps improve a mappool or a mappooler’s outlook the most?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/6701656" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-chiv.png')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/6701656" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-chiv.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/6701656">chiv</a></p>
 
