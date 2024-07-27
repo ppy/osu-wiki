@@ -23,26 +23,36 @@ The osu! development effort is lead by ::{ flag=AU }:: **[peppy](https://osu.ppy
 
 - ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377)
 - ::{ flag=SK }:: [Domco](https://osu.ppy.sh/users/3562660)
+- ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502)
 - ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)
 - ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328)
+- ::{ flag=PL }:: [spaceman\_atlas](https://osu.ppy.sh/users/3035836)
+
+## Infrastructure developers
+
+- ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)
+- ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)
 
 ### Website developers
 
 - ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883)
 - ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102)
 - ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776)
-- ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)
-- ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)
 
 ### Designers
 
 - ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765)
 
-### Community managers
+### Community maintainers
 
-- ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335)
+- ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
+- ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
+- ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)
 - ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)
+- ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418)
 - ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328)
+- ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631)
+- ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079)
 
 ### Bot accounts
 
@@ -88,6 +98,7 @@ Below listed are users, who have left the ongoing development efforts, and moved
 
 | User | Role |
 | :-- | :-- |
+| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Community manager |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | Game client developer |
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | Designer |
 | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Game client developer |
