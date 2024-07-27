@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: ShibayanRecords"
-date: 2024-07-27 19:00:00 +0000
+date: 2024-07-27 18:30:00 +0000
 ---
 
 According to everyone we've asked, osu! needs more Touhou. **ShibayanRecords** is here to deliver.
