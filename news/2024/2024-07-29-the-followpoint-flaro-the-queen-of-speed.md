@@ -5,7 +5,7 @@ date: 2024-07-29 17:00:00 +0000
 series: The Followpoint
 ---
 
-Wake up babe, a new interview with [Flaro](https://osu.ppy.sh/users/10323184) just dropped.
+A new top player interview just dropped. This time: speed meta opinions and the cosplay buff.
 
 ![](/wiki/shared/news/2024-07-29-the-followpoint-flaro-the-queen-of-speed/banner.jpg)
 
