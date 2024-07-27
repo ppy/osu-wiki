@@ -28,7 +28,7 @@ The osu! development effort is lead by ::{ flag=AU }:: **[peppy](https://osu.ppy
 - ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328)
 - ::{ flag=PL }:: [spaceman\_atlas](https://osu.ppy.sh/users/3035836)
 
-## Infrastructure developers
+### Infrastructure developers
 
 - ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)
 - ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)
