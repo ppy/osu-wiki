@@ -97,7 +97,7 @@ We won't do that again. Here's [a cool map](https://osu.ppy.sh/beatmapsets/15766
 Try [this marathon](https://osu.ppy.sh/beatmapsets/1464714) hosted by [kelinimo](https://osu.ppy.sh/users/12012218) or [this *collab* marathon](https://osu.ppy.sh/beatmapsets/807855) hosted by [MaridiuS](https://osu.ppy.sh/users/4496961)!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/432/Songs/Shibayan%20feat.%203L%20-%20LOVE%20(signumii%20remix).mp3">
+    <source src="https://assets.ppy.sh/artists/432/TOHO%20BOSSA%20NOVA%202/Shibayan%20feat.%203L%20-%20Tiny%20Little%20Adiantum.mp3">
 </audio>
 
 ---
