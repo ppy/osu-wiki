@@ -389,4 +389,4 @@ Massive thanks are due to everyone who helped out with this iteration of the Per
 
 While every tournament has its stress factors for its hosts, this event is always a blast to run thanks to the many people who tune in on the weekends and juice the originals on release. Thank you to everyone who participated and everyone who watched along for making the Perennial as good as it can be. We look forward to seeing you again in 2025!
 
-—D I O
+—ChillierPear & D I O
