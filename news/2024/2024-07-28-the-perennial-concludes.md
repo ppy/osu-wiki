@@ -73,7 +73,7 @@ Each round, from group stage to grand finals, we uploaded highlight videos showc
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/kx4HYPgFIFs?si=STcQRT5IzooRV4mo" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## Original songs
+## osu! originals
 
 <style>
     .osu-md--news .audio-player {
