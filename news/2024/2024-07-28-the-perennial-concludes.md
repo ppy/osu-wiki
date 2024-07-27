@@ -49,6 +49,8 @@ Each round, from group stage to grand finals, we uploaded highlight videos showc
 
 ### Highlight videos
 
+If instead of watching full matches, you prefer a short version of each weekend, check out the full highlight video playlist embedded below.
+
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/videoseries?list=PLuEZphzYAlhTPn9S77gfWP1VogSZ7DG1v" frameborder="0" allowfullscreen></iframe>
 </div>
