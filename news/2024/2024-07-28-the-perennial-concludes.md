@@ -209,19 +209,19 @@ As usual, we interview people in order to get an insight into the going-ons behi
 
 <div class="news-chat-quote__text-container">
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8640970" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-enri.png')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8640970" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-enri.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-bsc" href="https://osu.ppy.sh/users/8640970">enri</a></p>
 
 I'm enri, an osu! tournament player specializing in being all-rounded, but most notably stronger on skillsets like aim control, reading, speed, and tech. I stream frequently on my [Twitch channel](https://www.twitch.tv/enri) - feel free to stop by as I play osu! casually or learn how to speedrun games such as Half-Life or Portal 2!
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-dio.png')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-dio.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
 
 You’ve now won both Corsace Open and Perennial, which are the only two standard community tournaments with top three badge support. What do you think your teams do right that gives you an edge over other superteams competing at the top level?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8640970" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-enri.png')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8640970" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-enri.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-bsc" href="https://osu.ppy.sh/users/8640970">enri</a></p>
 
@@ -229,13 +229,13 @@ Focusing on roster depth was something I believe led to my team's success in Cor
 
 In most superteams I see formed nowadays, they can get away with relying on the carry performances of 1-2 people, with the rest being "fills" - something I tried to avoid when forming this team. You can see that pay off in the Grand Finals, where I wasn't feeling well at all due to a headache - it got to a point where I really couldn't trust myself with certain picks I would usually consider myself comfortable on. As a result, I put [Allegrissimo](https://osu.ppy.sh/users/9052194) back in to replace my role, and that ended up fixing all the errors we had in the first match that were caused by my underperformance - picks that we would've otherwise lost by a small margin.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-dio.png')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-dio.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
 
 No one on your team has made the podium in Perennial before; did that make you nervous going into grand finals or change your mentality at all?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8640970" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-enri.png')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8640970" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-enri.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-bsc" href="https://osu.ppy.sh/users/8640970">enri</a></p>
 
@@ -243,13 +243,13 @@ Winning Perennial was something I've always wanted to do, as its iteration in 20
 
 We cared a lot about winning this tournament and knew that the Grand Finals wouldn't be decisive in the slightest, so I made sure my team was well-practiced and even fixed my sleep schedule just for the match. Amidst several inconveniences, such as my headache (which turned out to be a result of more serious issues), [FlyingTuna](https://osu.ppy.sh/users/9224078)'s tapping fingers being injured, [Kamensh1k](https://osu.ppy.sh/users/16817965) not being able to make it for most of the match, and our team being put into bracket reset, I'm very thankful it ended up working out for us in the end.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-dio.png')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-dio.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
 
 As a player, what were your thoughts on the region-locked team formation rule this year?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8640970" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-enri.png')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8640970" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-enri.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-bsc" href="https://osu.ppy.sh/users/8640970">enri</a></p>
 
@@ -257,13 +257,13 @@ As someone who used to play in some of the biggest 2023 superteams where the Gra
 
 After the successful conclusion of a speed tournament I hosted titled [ENRI'S SHREDDINGTON SHOWDOWN ANNIHILATION](https://osu.ppy.sh/community/forums/topics/1915844), I plan on hosting open-rank tournaments that experiment with various forms of team formation rules for the sake of competition. That being said, from an entirely biased and personal standpoint, I wish it wasn't specifically region-wise, as I wanted to play with friends such as tekkito and [decaten](https://osu.ppy.sh/users/5645231) before finding out about the rule.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-dio.png')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-dio.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
 
 Were there any other teams you were rooting for during the course of the tournament?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8640970" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-enri.png')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8640970" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-enri.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-bsc" href="https://osu.ppy.sh/users/8640970">enri</a></p>
 
@@ -277,25 +277,25 @@ Yes, mom's touch and EMPICONES, who placed 5th and 4th respectively. mom's touch
 
 ![](/wiki/shared/news/2024-07-28-the-perennial-concludes/doomsday.png)
 
-[Doomsday](https://osu.ppy.sh/users/18983) is a former rank 1 player, tournament player, OWC commentator, livestreamer, and now a [featured artist](https://osu.ppy.sh/beatmaps/artists/425). He produced an original track for the Perennial titled *TGGT* and was announced as a featured artist with the release of *TGGT*; this is the first time that a featured artist release has been paired with a community tournament original track release.
+[Doomsday](https://osu.ppy.sh/users/18983) is a former rank #1 player, tournament player, OWC commentator, livestreamer, and now a [featured artist](https://osu.ppy.sh/beatmaps/artists/425). He produced an original track for the Perennial titled *TGGT* and was announced as a featured artist with the release of *TGGT*; this is the first time that a featured artist release has been paired with a community tournament original track release.
 
 ---
 
 <div class="news-chat-quote__text-container">
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-doomsday.png')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-doomsday.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/3958619">Doomsday</a></p>
 
 Hi! I’m Doomsday, and I’ve been around the osu! community since 2008 doing all sorts of things, spending most of that time as a competitive player, streamer, and tournament commentator. I was part of the commentary team for The Perennial this year, and I also produced an original song that was used as part of the Group Stage mappool, called *TGGT*.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-dio.png')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-dio.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
 
 With the release of *TGGT*, you also became a featured artist in osu!; what does it feel like to come full circle, from player to staff to artist?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-doomsday.png')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-doomsday.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/3958619">Doomsday</a></p>
 
@@ -305,13 +305,13 @@ I’ve been playing and staffing for tournaments for a long time, so being a par
 
 At this point I’ve somehow managed to do the full loop of staff roles for tournaments. Now I just need to draw a background for someone and I think I’ve got the full set, haha.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-dio.png')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-dio.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
 
 What made you start making music? Was it always an interest of yours, or was it something you only recently wanted to do?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-doomsday.png')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-doomsday.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/3958619">Doomsday</a></p>
 
@@ -319,13 +319,13 @@ I did a bit of music study during my school days, and I played Trombone in my hi
 
 Thanks to rhythm games, I've absolutely fallen in love with its style of music, especially the “Final Boss” sort of tune. They are such a rush to listen to for me, and even more so when played in a game on the ragged edge of difficulty. One night in late 2019, I was vibing out to some of these songs and I said to myself that I’d love to make music like that one day. Right then, I remembered that I had an old MIDI keyboard, and started searching for piano tutorials. That’s pretty much how it started.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-dio.png')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-dio.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
 
 Who are your biggest inspirations when composing?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-doomsday.png')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-doomsday.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/3958619">Doomsday</a></p>
 
@@ -335,13 +335,13 @@ On the rhythm game side, MASAKI is probably my biggest influence, as his music i
 
 Hardcore is the genre I most often produce in, and JAKAZiD is an artist I’m always referencing. His sound is very nostalgic to me and reminds me a lot of the music of my childhood, which I’m striving to learn to produce myself. *TGGT* was heavily inspired by the music of JAKAZiD specifically.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-dio.png')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-dio.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
 
 The Perennial gave almost full creative freedom to musicians this year; what kind of challenges does that present compared to a more rigid approach where musicians are given song specifications, and which approach do you enjoy more as a musician?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-doomsday.png')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-doomsday.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/3958619">Doomsday</a></p>
 
@@ -371,7 +371,7 @@ That said, I’ve made a few tracks where I limit myself to certain sample sets,
 
 Hi, I'm chiv. I'm currently part of the OWC mappooling team and I also work on Project Loved. During The Perennial, I was part of the mappooling staff, which focuses on creating fun, balanced and engaging mappools for players and viewers to enjoy.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-dio.png')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-dio.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
 
@@ -383,7 +383,7 @@ Before you were a mappooler, you were a tournament player; what made you decide 
 
 There were a large amount of reasons as to why I primarily focus on mappooling now, but the core reason at the time was that I just didn't have much free time left to play the game. I was mainly active in tournaments during 2020-2022, which was almost entirely due to COVID. I also accomplished any tournament player's goal of winning a profile badge and after demolishing osu! Collegiate League and ThePro365 I felt like I had hit the main goals I had for the game. Lastly, I just really enjoy mappooling as a whole; creating and building each mappool for players and viewers to experience and enjoy has been extremely self-fulfilling in that I'm able to make everyone's experience a smidge better.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-dio.png')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-dio.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
 
@@ -395,7 +395,7 @@ You mappool for a huge number of tournaments big and small; what are the major d
 
 Expectations are what exponentially scale between a tournament's size, and fulfilling them is the toughest part. Smaller tournaments like mahloola regional cup and Spring Flower Scramble generally have a much more casual playerbase, where I find I'm much less limited in the types of map archetypes and mappooling styles I can deliver. The sheer gravity of larger tournaments like OWC just have so much more on the line, and with that comes each individual player's perception of what should and shouldn't be pooled. Regardless if it's 10, 100, or 1000 people involved, each opinion matters and that's why it's important to me that I can satisfy the largest amount of people possible.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-dio.png')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-dio.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
 
@@ -405,7 +405,7 @@ For any tournament players reading this, what sort of feedback helps improve a m
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/6701656">chiv</a></p>
 
-Everyone already knows that feedback will always be subjective, and it's natural to have fundamental differences between perspectives. However, it's important to recognize that mappoolers are here to try and give each player the best experience possible. Feedback just goes so much farther if both the player and mappooler are able to treat each other with respect, and keeping things civil is something I hope to see more channels focus on as we continue to develop our tournament community.
+Everyone already knows that feedback will always be subjective, and it's natural to have fundamental differences between perspectives. However, it's important to recognise that mappoolers are here to try and give each player the best experience possible. Feedback just goes so much farther if both the player and mappooler are able to treat each other with respect, and keeping things civil is something I hope to see more channels focus on as we continue to develop our tournament community.
 
 </div>
 
