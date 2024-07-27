@@ -23,7 +23,8 @@ You might've already played iconic maps like [MyonMyonMyonMyonMyonMyon!](https:/
 ### Shibayan feat. 3L - Getsurei 11.3 no Candle Magic
 
 Try one of these:
-- [The map from the video above](https://osu.ppy.sh/beatmapsets/122390) created by [11t]
+
+- [The map from the video above](https://osu.ppy.sh/beatmapsets/122390) created by [11t](https://osu.ppy.sh/users/2112092)
 - [This longer rendition](https://osu.ppy.sh/beatmapsets/795140) by [RLC](https://osu.ppy.sh/users/1047883)
 - [A double osu!taiko marathon](https://osu.ppy.sh/beatmapsets/842395) hosted by [aabc271](https://osu.ppy.sh/users/155707)
 
@@ -42,6 +43,7 @@ Experience [this other Loved map](https://osu.ppy.sh/beatmapsets/985131) hosted 
 ### Shibayan feat. yana - Oznei Haman wa Mou Iranai
 
 Take your pick:
+
 - [A fairly difficult Loved map](https://osu.ppy.sh/beatmapsets/550429) hosted by [Deramok](https://osu.ppy.sh/users/1428455)
 - [A not-so-difficult version](https://osu.ppy.sh/beatmapsets/1778687) hosted by [itay](https://osu.ppy.sh/users/10701418)
 - [An osu!taiko marathon](https://osu.ppy.sh/beatmapsets/1160735) hosted by [Genjuro](https://osu.ppy.sh/users/3196091)
