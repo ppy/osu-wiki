@@ -46,7 +46,7 @@ Después de esto, OBS Studio se configurará automáticamente para encontrar la 
 
 Lo último que necesitarás para iniciar la transmisión es una escena que contenga la ventana de osu!. Para crear una, haz clic con el botón derecho del ratón en el cuadro `Escenas` de la ventana principal de OBS Studio y selecciona `Agregar` para que aparezca una ventana de creación de escenas. Nómbrala «osu!», y pulsa `Aceptar` para continuar.
 
-Ahora, OBS Studio necesita una fuente para capturar osu!. Primero, abre osu!, luego, en OBS Studio, haz clic derecho en el cuadro `Fuentes` y selecciona `Agregar` -> `Captura de juego`. Se abrirá el cuadro de diálogo para la selección de la fuente. Puedes nombrar la fuente como «osu!», pero puede ser lo que quieras, luego haz click en `Aceptar`. Selecciona `Capturar ventana específica` en el desplegable `Modo`, luego `[osu!.exe]: osu!` en la lista `Ventana`.
+Ahora, OBS Studio necesita una fuente para capturar osu!. Primero, abre osu!, luego, en OBS Studio, haz clic derecho en el cuadro `Fuentes` y selecciona `Agregar` -> `Captura de juego`. Se abrirá el cuadro de diálogo para la selección de la fuente. Puedes nombrar la fuente como «osu!», pero puede ser lo que quieras, luego haz click en `Aceptar`. Selecciona `Capturar ventana específica` en el desplegable de `Modo`, luego `[osu!.exe]: osu!` en la lista de `Ventana`.
 
 ![](img/game-capture-ES.png "Capturar la ventana de osu! en OBS Studio")
 
