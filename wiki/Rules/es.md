@@ -9,7 +9,7 @@ Estas reglas son la base sobre la cual ayudamos a mantener la comunidad de osu! 
 3. **Sé bueno con los demás**. El acoso u otros antagonismos no tienen cabida en la comunidad de osu!. Estamos aquí para hacer clic en círculos, golpear tambores, atrapar fruta y pulsar hasta dieciocho teclas a la vez, no para ser idiotas los unos con los otros.
 4. **No seas cretino**. Si en algún momento dudas de si estás incumpliendo esta regla, probablemente lo estés haciendo.
 5. **Somos una comunidad para todas las edades**. Esto significa que el contenido +18/[NSFW](https://es.wikipedia.org/wiki/NSFW) como el uso de drogas o temas de naturaleza sexual no son bienvenidos aquí.
-6. **Mantente en un tono decente**. osu! no es el lugar para tener citas o ligar. Usar lenguaje sexual, imágenes o hacer insinuaciones no deseadas a otros miembros de la comunidad en público o en privado NO está bien. Si alguna vez te sientes incómodo con la forma en la que alguien te habla, [infórmanos confidencialmente](/wiki/Reporting_bad_behaviour/Abuse) para que podamos ayudarte (y potencialmente evitar que otros se vean afectados).
+6. **Mantén un tono decente**. osu! no es el lugar para tener citas o ligar. Usar lenguaje sexual, imágenes o hacer insinuaciones no deseadas a otros miembros de la comunidad en público o en privado NO está bien. Si alguna vez te sientes incómodo con la forma en la que alguien te habla, [infórmanos confidencialmente](/wiki/Reporting_bad_behaviour/Abuse) para que podamos ayudarte (y potencialmente evitar que otros se vean afectados).
 7. **Donde no prevalezcan las reglas, prevalecerá el sentido común**. La administración tiene discreción explícita para aplicar su juicio sobre esto como mejor le parezca.
 
 ## Reglas del chat del juego
