@@ -9,7 +9,7 @@ Wake up babe, a new interview with [Flaro](https://osu.ppy.sh/users/10323184) ju
 
 ![](/wiki/shared/news/2024-07-29-the-followpoint-flaro-the-queen-of-speed/banner.jpg)
 
-Welcome back to The Followpoint! Today, we are joined by Flaro, a top speed player who was #1 USA for many months at a time and having numerous pp record chokes that could of changed the game forever!
+Welcome back to The Followpoint! Today, we are joined by Flaro, a top speed player who has been #1 in USA for many months at a time and *nearly* achieved the performance point record *several times*!
 
 Let's get right into the interview!
 
@@ -68,7 +68,7 @@ How did you get introduced to osu!, and what was your first impression of it?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
 
-Shortly before my 11th birthday, I was introduced to the game by a friend of mine that I met through Discord, at the time, the game didn't really captivate me that much and I stopped playing up until I turned 12, which is when I would start to play the game very actively and thought the game was very fun!
+Shortly before my 11th birthday, I was introduced to the game by a friend of mine that I met through Discord. At the time, the game didn't really captivate me that much and I stopped playing up until I turned 12, which is when I would start to play the game very actively and thought the game was very fun!
 
 I actually didn't even know what 'pp' was until I got my first 200, which is when I would start farming for ranks competitively.
 
@@ -216,7 +216,7 @@ To finish things up, what does the future hold for you? Do you have any goals or
 
 I will continue the osu! grind until my motivation to do so declines, although as of recent my focus has been much less on pp and more on tourney performances and just playing for fun! Although attempting to reclaim #1 USA isn’t completely out of the question, it’s unlikely unless my interest in grinding for pp comes back.
 
-In terms of goals, my biggest goal at the moment is definitely getting better at tournaments and winning OWC, and being crowned an osu! champion, along with that, I want to focus more on my growth as a [streamer on Twitch](https://www.twitch.tv/flarosu), and would love to get invited to The Roundtable sometime in the future, meeting other streamers like me always makes me happy!
+In terms of goals, my biggest goal at the moment is definitely getting better at tournaments and winning OWC, and being crowned an osu! champion. Along with that, I want to focus more on my growth as a [streamer on Twitch](https://www.twitch.tv/flarosu), and would love to get invited to The Roundtable sometime in the future. Meeting other streamers like me always makes me happy!
 
 </div>
 
