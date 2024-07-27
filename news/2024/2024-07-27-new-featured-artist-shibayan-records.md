@@ -62,7 +62,7 @@ Try out [this other map with an 11t storyboard](https://osu.ppy.sh/beatmapsets/4
 
 ### Shibayan feat. 3L - Maigo no Echo
 
-Play through [this map](https://osu.ppy.sh/beatmapsets/1141077) hosted by [kelinimo](https://osu.ppy.sh/users/12012218)
+Play through [this map](https://osu.ppy.sh/beatmapsets/1141077) hosted by [kelinimo](https://osu.ppy.sh/users/12012218)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/432/Dream%20Materialise/Shibayan%20feat.%203L%20-%20MyonMyonMyonMyonMyonMyon!.mp3">
