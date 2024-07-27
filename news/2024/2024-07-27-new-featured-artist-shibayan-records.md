@@ -65,7 +65,7 @@ Try out [this other map with an 11t storyboard](https://osu.ppy.sh/beatmapsets/4
 Play through [this map](https://osu.ppy.sh/beatmapsets/1141077) hosted by [kelinimo](https://osu.ppy.sh/users/12012218)!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/432/Dream%20Materialise/Shibayan%20feat.%203L%20-%20MyonMyonMyonMyonMyonMyon!.mp3">
+    <source src="https://assets.ppy.sh/artists/432/TOHO%20BOSSA%20NOVA/Shibayan%20feat.%203L%20-%20Maigo%20no%20Echo.mp3">
 </audio>
 
 ### Shibayan feat. yana - Fall in the Dark
