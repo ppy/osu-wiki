@@ -6,7 +6,7 @@ date: 2024-07-28 14:00:00 +0000
 
 ![](/wiki/shared/news/2024-05-21-the-perennial-returns/banner.jpg)
 
-With our hiatus gone and the tournament finished, the Perennial has crowned another champion! With 2021 and 2022 having many repeat winners, 2024 breathes fresh air onto the podium. Players who did not participate or podium in 2021 or 2022 abound in the top three this year, and rather than the whopping three repeat winners from 2021 to 2022, 2024 sees eight completely new winners!
+With our hiatus gone and the tournament finished, [the Perennial](https://theperennial.net/) has crowned another champion! With 2021 and 2022 having many repeat winners, 2024 breathes fresh air onto the podium. Players who did not participate or podium in 2021 or 2022 abound in the top three this year, and rather than the whopping three repeat winners from 2021 to 2022, 2024 sees eight completely new winners!
 
 ## Summary
 
@@ -28,7 +28,7 @@ Even more stunning was the first bout of grand finals; together we are terrific 
 
 ## Match highlights
 
-Each round, from group stage to grand finals, we uploaded highlight videos showcasing the best scores of the weekend, the closest matches, and the hypest maps. In addition, we have pulled the closest matches from throughout the tournament and linked all their vods below. Whether you just want the highlights, the abridged version, or the full experience, you can relive the Perennial 2024 on our YouTube where all match vods are uploaded in full.
+Each round, from group stage to grand finals, we uploaded highlight videos showcasing the best scores of the weekend, the closest matches, and the hypest maps. In addition, we have pulled the closest matches from throughout the tournament and linked all their vods below. Whether you just want the highlights, the abridged version, or the full experience, you can relive the Perennial 2024 on our [YouTube](https://youtube.com/c/ThePerennialYT) where all match vods are uploaded in full.
 
 ### Match VODs
 
@@ -81,7 +81,7 @@ Each round, from group stage to grand finals, we uploaded highlight videos showc
     }
 </style>
 
-The Perennial stepped it up this year with six original songs: one for each round of the tournament, plus a second original in grand finals. Each of them had their own original artwork, and the majority had video introductions. Of course, the tournament’s final boss, the grand finals tiebreaker, had all that and a full storyboard. Check out all six songs, as with a variety of genres and styles, there’s sure to be something for everyone. If you are interested in the video intros and the maps for all these originals, those can be found on our YouTube.
+The Perennial stepped it up this year with six original songs: one for each round of the tournament, plus a second original in grand finals. Each of them had their own original artwork, and the majority had video introductions. Of course, the tournament’s final boss, the grand finals tiebreaker, had all that and a full storyboard. Check out all six songs, as with a variety of genres and styles, there’s sure to be something for everyone. If you are interested in the video intros and the maps for all these originals, those can be found on our [YouTube](https://youtube.com/c/ThePerennialYT).
 
 ### Group Stage
 
@@ -89,7 +89,7 @@ The Perennial stepped it up this year with six original songs: one for each roun
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="https://assets.ppy.sh/artists/193/Songs/technoplanet_-_Insomnia.mp3">
+        <source src="https://assets.ppy.sh/artists/425/Songs/Doomsday_-_TGGT.mp3">
     </audio>
 </div>
 
@@ -277,7 +277,7 @@ Yes, mom's touch and EMPICONES, who placed 5th and 4th respectively. mom's touch
 
 ![](/wiki/shared/news/2024-07-28-the-perennial-concludes/doomsday.png)
 
-[Doomsday](https://osu.ppy.sh/users/18983) is a former rank 1 player, tournament player, OWC commentator, livestreamer, and now a featured artist. He produced an original track for the Perennial titled *TGGT* and was announced as a featured artist with the release of *TGGT*; this is the first time that a featured artist release has been paired with a community tournament original track release.
+[Doomsday](https://osu.ppy.sh/users/18983) is a former rank 1 player, tournament player, OWC commentator, livestreamer, and now a [featured artist](https://osu.ppy.sh/beatmaps/artists/425). He produced an original track for the Perennial titled *TGGT* and was announced as a featured artist with the release of *TGGT*; this is the first time that a featured artist release has been paired with a community tournament original track release.
 
 ---
 
@@ -345,7 +345,7 @@ The Perennial gave almost full creative freedom to musicians this year; what kin
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/3958619">Doomsday</a></p>
 
-To be honest, I’ve not had much experience producing music set to rigid expectations for others (Unless using Vocaloid for Battle of the Box counts. I learned how to use it for Luyten’s Star).
+To be honest, I’ve not had much experience producing music set to rigid expectations for others (Unless using Vocaloid for Battle of the Box counts. I learned how to use it for *[Luyten’s Star](https://osu.ppy.sh/beatmapsets/2134395#osu/4490753)*).
 
 I’d imagine that producing to more rigid constraints would be a challenge for me, as my creative process often involves trying lots of different ideas until one sounds good. I would find it tricky to work where I might not be able to settle on an idea that I like.
 
