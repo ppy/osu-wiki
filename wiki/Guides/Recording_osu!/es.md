@@ -38,7 +38,7 @@ Abre osu! mientras Fraps está en ejecución. Si todo va bien (y si no has desac
 
 ![osu! mientras se ejecuta Fraps](img/Recording_2.png "osu! mientras se ejecuta Fraps")
 
-Ahora, ve a lo que quieras grabar. Por ejemplo: ¡una repetición de cómo consigues una puntuación alta! Cuando estés en la parte en la que quieres empezar la grabación, presiona la tecla de acceso rápido de captura de vídeo. El contador de FPS puede bajar y debe ponerse en rojo. Ahora estás grabando. Mira durante un minuto si la tasa de FPS no cambia mucho. Si es así, prueba algunos de los consejos anteriores.
+Ahora, ve a lo que quieras grabar. Por ejemplo: ¡una repetición de cómo consigues una puntuación! Cuando estés en la parte en la que quieres empezar la grabación, presiona la tecla de acceso rápido de captura de vídeo. El contador de FPS puede bajar y debe ponerse en rojo. Ahora estás grabando. Mira durante un minuto si la tasa de FPS no cambia mucho. Si es así, prueba algunos de los consejos anteriores.
 
 ![osu! mientras se graba con Fraps](img/Recording_3-ES.png "osu! mientras se graba con Fraps")
 
