@@ -19,7 +19,7 @@ With the change to the tournament’s ruleset, team formation was limited this y
 ## Grand Finals recap
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/XRG7ewQExew?si=8VzXcl8s1Ilx_8U-" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/XRG7ewQExew" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Grand finals this year was a brand new matchup; APAC RADIANT and together we are terrific had not faced off all tournament long. With Bob losing to APAC RADIANT in the winners’ finals, together we are terrific had a tough opponent awaiting them in the losers’ grand finals. Bob was the second seed out of qualifiers and had made it all the way to winners’ finals, while together we are terrific was the sixth seed out of qualifiers and dropped down to losers’ bracket in the quarter finals. Even still, together we are terrific managed a stunning 7-2 victory over Bob.
@@ -54,23 +54,23 @@ Each round, from group stage to grand finals, we uploaded highlight videos showc
 </div>
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/iNx0xQtboq0?si=WmxSn-rtJcydRiVB" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/iNx0xQtboq0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/eSASm3RZpOk?si=mXioukIsmw-r4kjp" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/eSASm3RZpOk" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/GHcFCjpFKlE?si=5mTY5j3Bz2jNN_Et" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/GHcFCjpFKlE" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/C-8bLhId9yY?si=QRICzvpxF8p_vpi-" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/C-8bLhId9yY" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/kx4HYPgFIFs?si=STcQRT5IzooRV4mo" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/kx4HYPgFIFs" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## osu! originals
