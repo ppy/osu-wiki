@@ -63,6 +63,7 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1920758)
 - [Discord server](https://discord.gg/NUd7GyU4Hd)
 - [Livestream](https://www.twitch.tv/asiasuijicup)
+- [ASC Fantasy League](https://docs.google.com/spreadsheets/d/1xdieLs_NASDbeQAl4r_N8jDQn0chVKxP-LtqMnHJ0Os/edit?gid=0#gid=0)
 - [ASC trailer](https://youtu.be/a1fHTbI5erU)
 - [ASC website](https://asia-suiji-cup.vercel.app)
 - [Challonge bracket](https://challonge.com/asiasuijicup)
@@ -91,6 +92,29 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+- RC
+  1. [beatMARIO - Sissou Ensemble (\[GS\]hina) \[Ancore\]](https://osu.ppy.sh/beatmapsets/2186534#mania/4622947)
+  2. [Rin - Prism Magical (DJ SHARPNEL hardrave remix) (Couil) \[Magical 1.2x\]](https://osu.ppy.sh/beatmapsets/1245301#mania/2588519)
+  3. [E-Type - Set The World On Fire (Sped Up Ver.) (Jole) \[this is fine\]](https://osu.ppy.sh/beatmapsets/1456779#mania/3435284)
+  4. [Karafuru. Saunzu. Po\^to - Colorful Sounds Cutter (\[GS\]hina) \[Fragment (ASC\_Edit)\]](https://osu.ppy.sh/beatmapsets/2145954#mania/4703819)
+  5. [MY FIRST STORY - 2 FACE (Logan636) \[CUT\]](https://osu.ppy.sh/beatmapsets/2182924#mania/4612615)
+  6. [kanone vs. BlackY - Stardust:RAY (Eclipse-) \[MASTER\]](https://osu.ppy.sh/beatmapsets/2219192#mania/4703928)
+- LN
+  1. [Aimer with chelly (EGOIST) - ninelie (REDSHiFT x Vesuvia Remix) (Logan636) \[Don't be afraid, daybreak has come.\]](https://osu.ppy.sh/beatmapsets/2219140#mania/4703847)
+  2. [Eagle - Hypersonik (anatharax) \[Another 1.1x\]](https://osu.ppy.sh/beatmapsets/2219143#mania/4703852)
+  3. [Ado - Buriki no Dance (Muses) \[Delusion\]](https://osu.ppy.sh/beatmapsets/2219141#mania/4703848)
+- HB
+  1. [ZxNX - Fana (TheFunk) \[Penumbra\]](https://osu.ppy.sh/beatmapsets/2219128#mania/4703824)
+  2. [Yak\_Won - Out Of The Blue (Yana Feiya) \[Out Of The BlueSky\]](https://osu.ppy.sh/beatmapsets/2196535#mania/4647926)
+  3. [MEMODEMO X AQUASINE - Point and Click (AlexDunk) \[Confusion and 69.\]](https://osu.ppy.sh/beatmapsets/2219116#mania/4703808)
+- SV
+  1. [Getty - Golyat (Paturages) \[Rolizier\]](https://osu.ppy.sh/beatmapsets/2219142#mania/4703850)
+  2. [Yosk! - Cockroach Cooking (awdse22) \[UGHH EWWW BRWUEEEHGHGH \*cough cough\* \*vomit\*\]](https://osu.ppy.sh/beatmapsets/2219133#mania/4703832)
+- Tiebreaker
+  1. **[Tanger - BS//Recall (Critical\_Star) \[CS and Leon's Golden Age\]](https://osu.ppy.sh/beatmapsets/2219156#mania/4703868)**
+
 ### Round of 16
 
 - RC
@@ -116,9 +140,10 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
 
 - SV
   1. [P\*Light - SWAG!! (Orca-) \[Stage 1: WATCH OUT!!\]](https://osu.ppy.sh/beatmapsets/2206316#mania/4671278)
-  2. [daisan - Tenjou no Porisuruin (\[GS\]hina) \[Stage 2: Ascended\]](https://osu.ppy.sh/beatmapsets/2206306#mania/4671254)
-  3. [suisoh - Afterwards (ERA Imperial) \[Stage 3: Mimir\]](https://osu.ppy.sh/beatmapsets/2206334#mania/4671300)
-  4. [REDALiCE - DEAD or DIE (YuEast 2018) \[Stage 4: Dice\]](https://osu.ppy.sh/beatmapsets/2206328#mania/4671294)
+- RC
+  1. [daisan - Tenjou no Porisuruin (\[GS\]hina) \[Stage 2: Ascended\]](https://osu.ppy.sh/beatmapsets/2206306#mania/4671254)
+  2. [suisoh - Afterwards (ERA Imperial) \[Stage 3: Mimir\]](https://osu.ppy.sh/beatmapsets/2206334#mania/4671300)
+  3. [REDALiCE - DEAD or DIE (YuEast 2018) \[Stage 4: Dice\]](https://osu.ppy.sh/beatmapsets/2206328#mania/4671294)
 - LN
   1. [CHON - Splash (anatharax) \[Stage 5: Spritz\]](https://osu.ppy.sh/beatmapsets/2206314#mania/4671275)
   2. [Getty vs. DJ DiA - DropZ-Line- (Toaph Daddy) \[Stage 6: Cataclysm\]](https://osu.ppy.sh/beatmapsets/2206317#mania/4671280)
@@ -127,6 +152,26 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
   2. [Zekk - Abrasion (Japeynius) \[Stage 8: Resolution\]](https://osu.ppy.sh/beatmapsets/2206324#mania/4671290)
 
 ## Match results
+
+### Round of 16
+
+Saturday, 20 July 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Yuma fanboys** | **5** | 0 | SKIBIDI Archive | [#1](https://osu.ppy.sh/community/matches/114740533) |
+| **Play Robeats** | **5** | 0 | Undertable sands | [#1](https://osu.ppy.sh/community/matches/114754174) |
+| **Pixel 7** | **5** | 4 | Kamisato Lemon | [#1](https://osu.ppy.sh/community/matches/114742427) |
+| **LOTT'S TRAGIC HINDILOVE EXTRA** | **5** | 1 | team name | [#1](https://osu.ppy.sh/community/matches/114743041) |
+
+Sunday, 21 July 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Bocchi Soup** | **5** | 1 | Mama Mia | [#1](https://osu.ppy.sh/community/matches/114754855) |
+| **skibidi's hybrid soup** | **5** | 1 | Rice Farmer | [#1](https://osu.ppy.sh/community/matches/114755931) |
+| **83.33% Chinese 16.66% Filipino** | **0** | -1 | Furry Femboys | *win by default* |
+| **Noodle Soup** | **5** | 0 | arm water sick ma | [#1](https://osu.ppy.sh/community/matches/114755923) |
 
 ### Qualifiers
 
