@@ -99,7 +99,7 @@ The Perennial stepped it up this year with six original songs: one for each roun
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="https://assets.ppy.sh/artists/29/Songs/Culprate_-_Junglist_Acid_osu_Edit.mp3">
+        <source src="https://assets.ppy.sh/media/news/2024-07-28-coriolis.mp3">
     </audio>
 </div>
 
@@ -109,7 +109,7 @@ The Perennial stepped it up this year with six original songs: one for each roun
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="https://assets.ppy.sh/artists/263/Songs/Ardolf_-_SILVER_BULLET.mp3">
+        <source src="https://assets.ppy.sh/media/news/2024-07-28-are-we-floating-in-space.mp3">
     </audio>
 </div>
 
@@ -119,7 +119,7 @@ The Perennial stepped it up this year with six original songs: one for each roun
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="https://assets.ppy.sh/artists/183/Songs/Aoi_-_Neverlast.mp3">
+        <source src="https://assets.ppy.sh/media/news/2024-07-28-chromatical-dysfunktion.mp3">
     </audio>
 </div>
 
@@ -129,7 +129,7 @@ The Perennial stepped it up this year with six original songs: one for each roun
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="https://assets.ppy.sh/artists/427/Songs/WangleLine%20-%20Journey%20to%20the%20Rabbit%20Moon%20Base.mp3">
+        <source src="https://assets.ppy.sh/media/news/2024-07-28-metal-globe.mp3">
     </audio>
 </div>
 
@@ -137,7 +137,7 @@ The Perennial stepped it up this year with six original songs: one for each roun
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="https://assets.ppy.sh/artists/383/Songs/Kou_-_Frost_Walker.mp3">
+        <source src="https://assets.ppy.sh/media/news/2024-07-28-echoes-of-memoria.mp3">
     </audio>
 </div>
 
