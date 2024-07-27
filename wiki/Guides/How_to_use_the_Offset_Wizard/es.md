@@ -20,7 +20,7 @@ A continuación, se abrirá el asistente de compensación, que reproducirá la c
 2. Comienza a ajustar la compensación universal hacia arriba o hacia abajo, usando las teclas de flecha correspondientes, o la rueda de desplazamiento del ratón.
    - Si parece que los hitsounds suenan demasiado pronto en el juego, tendrás que *disminuir* tu compensación universal.
    - Si parece que los hitsounds suenan demasiado tarde en el juego, tendrás que *aumentar* tu compensación universal.
-3. Ajústalo hasta que escuches que el metrónomo se alinea perfectamente con la canción, usando las barras de desplazamiento en la pantalla para ayudarte.
+3. Ajústala hasta que escuches que el metrónomo se alinea perfectamente con la canción, usando las barras de desplazamiento en la pantalla para ayudarte.
 4. Una vez que hayas calibrado correctamente tu compensación universal, pulsa el botón `Atrás` en la parte inferior izquierda de la pantalla para salir del asistente de compensación.
 
 Si el metrónomo te parece demasiado rápido o demasiado lento para la canción, puedes activar `Medio tic` o `Doble tic` en la parte superior izquierda de la pantalla para facilitar las cosas.
