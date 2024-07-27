@@ -93,7 +93,7 @@ Entonces, pon las notas, presiona F5 (modo de prueba) y pulsa dichas notas con l
 
 ![El modo de prueba](img/Editor_TestMode.jpg "El modo de prueba")
 
-Además de conseguir juicios de 300s, tienes que echar un vistazo a la parte izquierda de la ventana del modo de prueba. Hay una línea que se parece a esto en la imagen: **Mistimed Hits: 69% (ave 25ms late).**
+Además de conseguir juicios de 300, tienes que echar un vistazo a la parte izquierda de la ventana del modo de prueba. Hay una línea que se parece a esto en la imagen: **Mistimed Hits: 69% (ave 25ms late).**
 
 - Lo primero es el porcentaje de aciertos inexactos.
   - Debes mantener este valor por debajo, digamos, del 5 %.
@@ -112,7 +112,7 @@ Ahora, un par de cosas para recordar sobre la fase de prueba. Primero, asegúrat
 2. En algún lugar a mitad de la canción (para canciones largas).
 3. Cerca del final, cuando el ritmo aún es audible y se puede reproducir.
 
-Al final del juego de prueba, comprueba los resultados. Si las notas tienen grandes errores de temporización (adelantadas/atrasadas en 25 ms, por ejemplo) y ves que el error sigue creciendo a lo largo de la prueba, aumenta/disminuye el BPM respectivamente. Cambia el valor gradualmente por décimas, centésimas, etc. (no olvides conservar los ajustes originales como reserva). Con el tiempo, después de varias pruebas y errores, el error de acierto será tan pequeño que podrá omitirse de forma segura sin tener un efecto perjudicial. El porcentaje de aciertos fuera de tiempo debe ser inferior al 5 %, la temporización no debería ser superior a 5 ms antes/después.
+Al final del juego de prueba, comprueba los resultados. Si las notas tienen grandes errores de temporización (por ejemplo, adelantadas/atrasadas en 25 ms) y ves que el error sigue creciendo a lo largo de la prueba, aumenta/disminuye el BPM respectivamente. Cambia el valor gradualmente por décimas, centésimas, etc. (no olvides conservar los ajustes originales como reserva). Con el tiempo, después de varias pruebas y errores, el error de acierto será tan pequeño que podrá omitirse de forma segura sin tener un efecto perjudicial. El porcentaje de aciertos fuera de tiempo debe ser inferior al 5 %, la temporización no debería ser superior a 5 ms antes/después.
 
 Si todo se hace correctamente, ahora tendrás un beatmap temporizado correctamente. A veces, es necesario volver a comprobar la temporización con otros usuarios, sobre todo si no estás muy seguro de ella. Aprende de ello y anímate a preguntar.
 
@@ -120,7 +120,7 @@ Si todo se hace correctamente, ahora tendrás un beatmap temporizado correctamen
 
 ### Introducción
 
-Hay situaciones en las que una línea roja no es suficiente (algunos ejemplos serían [Bad Apple](https://osu.ppy.sh/beatmapsets/18260), [DJ Amuro's A](https://osu.ppy.sh/beatmapsets/2997) o [kemu's Ikasama Life Game](https://osu.ppy.sh/beatmapsets/59792)). Admítelo, puede ser desde hard rock, metal, cualquier composición de guitarra, conciertos en vivo, canciones con aceleración/deceleración/pausa audibles ([Black∞Hole's Pluto](https://osu.ppy.sh/beatmapsets/45074)), etc. Incluso usando el metrónomo, ciertas partes de una canción (probablemente en el clímax o en la sección final) ya no encaja con el ritmo anterior. El tempo de la canción sube/baja repentinamente, el cantante empieza a cantar de forma frenética/melódica y se apaga, y los instrumentos musicales suenan mucho/acústicamente. En este caso, desplazar o cambiar la primera línea roja para adaptarla al tempo no servirá de nada.
+Hay situaciones en las que una línea roja no es suficiente (algunos ejemplos serían [Bad Apple](https://osu.ppy.sh/beatmapsets/18260), [DJ Amuro's A](https://osu.ppy.sh/beatmapsets/2997) o [kemu's Ikasama Life Game](https://osu.ppy.sh/beatmapsets/59792)). Admítelo, puede ser desde hard rock, metal, cualquier composición de guitarra, conciertos en vivo, canciones con aceleración/deceleración/pausa audibles ([Black∞Hole's Pluto](https://osu.ppy.sh/beatmapsets/45074)), etc. Incluso usando el metrónomo, ciertas partes de una canción (probablemente en el clímax o en la sección final) ya no encajan con el ritmo anterior. El tempo de la canción sube/baja repentinamente, el cantante empieza a cantar de forma frenética/melódica y se apaga, y los instrumentos musicales suenan mucho/acústicamente. En este caso, desplazar o cambiar la primera línea roja para adaptarla al tempo no servirá de nada.
 
 Puedes pedir ayuda a los demás sobre esto, pero solo hay unas pocas personas que *saben* cómo identificar y trabajar con la temporización múltiple. Además, la gente no te ayudará si no te esfuerzas en tu beatmap o no pareces merecer su tiempo. Puedes hacerlo tú mismo si tienes mucha experiencia y/o bastante precisión, y eres capaz de pulsar las notas correctamente. Esto es vital, porque tendrás que hacer muchos juegos de prueba, y los golpes fuera de tiempo harán que sea frustrante para el jugador.
 
@@ -131,8 +131,8 @@ Para empezar, escucha y encuentra todos los lugares en los que cambia el ritmo (
 1. Asegúrate de que los parámetros (BPM y compensación) del punto actual se muestren en la línea de tiempo.
 2. Durante el juego de prueba, vigila el error de aciertos. Cuando empiece a cambiar, detente.
 3. Prueba tu «mapa» varias veces cerca de ese punto. Si ves la misma imagen del error de aciertos aumentando, entonces prueba un poco más.
-   - Si hay un cambio notable en el tempo y **no** es el resultado de un golpe temprano o tardío, añade una nueva compensación (también conocido como puntero de tiempo para anular la base) y cámbialo por un número apropiado de milisegundos (el error de aciertos lo dirá).
-   - Si no hay ningún cambio, pero ves que el error empieza a aumentar, como si hubieras ajustado mal el BPM (excepto que estaba bien todo el tiempo antes de llegar a ese punto), añade una nueva compensación no heredada y modifica su BPM. Haz esto en la pestaña Timing. (F3) Es decir, usa el metrónomo de osu! y trata de captar un cambio, luego pruébalo como una compensación individual normal. A diferencia de las canciones tradicionales y monótonas, el nuevo valor de BPM puede diferir del promedio. Lo importante es determinarlo con la mayor precisión posible.
+   - Si hay un cambio notable en el tempo y **no** es el resultado de un golpe temprano o tardío, añade una nueva compensación (también conocido como puntero de tiempo para anular la base) y cámbiala por un número apropiado de milisegundos (el error de aciertos lo dirá).
+   - Si no hay ningún cambio, pero ves que el error empieza a aumentar, como si hubieras ajustado mal el BPM (excepto que estaba bien todo el tiempo antes de llegar a ese punto), añade una nueva compensación no heredada y modifica su BPM. Haz esto en la pestaña Timing. (F3) Es decir, usa el metrónomo de osu! y trata de captar un cambio, luego pruébalo como una compensación individual normal. A diferencia de las canciones tradicionales y monótonas, el nuevo valor del BPM puede diferir del promedio. Lo importante es determinarlo con la mayor precisión posible.
 4. Después de hacer algunos cambios en la temporización, es necesario volver a ajustar todas las notas de acuerdo con la nueva temporización para la prueba. Esto se hace a través del menú superior: Timing → Reajustar todas las notas. Luego, tienes que comprobar manualmente todas las notas, y hacer algunos juegos de prueba para ver los errores en la colocación de las notas.
 5. Prueba una vez más para asegurarte de que la temporización suena correctamente. Si surge un problema, sigue los pasos de arriba.
 
