@@ -9,7 +9,7 @@ A new top player interview just dropped. This time: speed meta opinions and the 
 
 ![](/wiki/shared/news/2024-07-29-the-followpoint-flaro-the-queen-of-speed/banner.jpg)
 
-Welcome back to The Followpoint! Today, we are joined by Flaro, a top speed player who has been #1 in USA for many months at a time and *nearly* achieved the performance point record *several times*!
+Welcome back to The Followpoint! Today, we are joined by [Flaro](https://osu.ppy.sh/users/10323184), a top speed player who has been #1 in USA for many months at a time and *nearly* achieved the performance point record *several times*!
 
 Let's get right into the interview!
 
