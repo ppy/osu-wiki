@@ -4,7 +4,7 @@ title: The Perennial Concludes
 date: 2024-07-28 14:00:00 +0000
 ---
 
-With our hiatus gone and the tournament finished, [the Perennial](https://theperennial.net/) has crowned another champion! 
+With our hiatus gone and the tournament finished, [the Perennial](https://theperennial.net/) has crowned another champion!
 
 ![](/wiki/shared/news/2024-05-21-the-perennial-returns/banner.jpg)
 
@@ -263,7 +263,7 @@ EMPICONES, on the other hand, was a team consisting of players I knew from a gro
 
 ![](/wiki/shared/news/2024-07-28-the-perennial-concludes/doomsday.png)
 
-[Doomsday](https://osu.ppy.sh/users/18983) is a former rank #1 player, tournament player, OWC commentator, livestreamer, and now a [Featured Artist](https://osu.ppy.sh/beatmaps/artists/425). He produced an original track for the Perennial titled *TGGT* and was announced as a Featured Artist along with its release, which is the first time that has happened for a community tournament.
+[Doomsday](https://osu.ppy.sh/users/18983) is a former rank #1 player, tournament player, OWC commentator, livestreamer, and now a [Featured Artist](https://osu.ppy.sh/beatmaps/artists/425). He produced an original track for the Perennial titled *TGGT* and was announced as a Featured Artist along with its [release](https://www.youtube.com/watch?v=a43TgyR0384), which is the first time that has happened for a community tournament.
 
 ---
 
@@ -355,7 +355,7 @@ That said, I've made a few tracks where I limit myself to certain sample sets, w
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/6701656">chiv</a></p>
 
-Hi, I'm chiv. I'm currently part of the OWC mappooling team and I also work on Project Loved. During The Perennial, I was part of the mappooling staff, which focuses on creating fun, balanced and engaging mappools for players and viewers to enjoy.
+Hi, I'm chiv. I'm currently part of the OWC mappooling team and I also work on Project Loved. During the Perennial, I was part of the mappooling staff, which focuses on creating fun, balanced and engaging mappools for players and viewers to enjoy.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-dio.jpg')"></a>
 
