@@ -136,7 +136,7 @@ I would have to go with my 3 mod reading ability and consistency, and also my fl
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
 
-It says in your Discord bio that you are a Python Developer, how did you get into coding in Python, and what do you like most about it?
+It says in your Discord bio that you are a Python Developer. How did you get into coding in Python, and what do you like most about it?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10323184" style="background-image: url('/wiki/shared/news/2024-07-29-the-followpoint-flaro-the-queen-of-speed/avatar-Flaro.jpg')"></a>
 
