@@ -14,7 +14,7 @@ With our hiatus gone and the tournament finished, [the Perennial](https://theper
 
 Congratulations to APAC RADIANT for their first ever Perennial victory along with their first ever podium finish in the Perennial! Congratulations as well to together we are terrific and Bob for their second and third place finishes.
 
-With the change to the tournament’s ruleset, team formation was limited this year; teams had to be all from the same region of the world, either the Americas; Europe, the Middle East, and Africa; or Asia, Australia, and Oceania. This made for very many competitive matches throughout the tournament, and some very interesting matchups. For example, the grand finals match between APAC RADIANT and together we are terrific was in many ways reminiscent of South Korea vs USA in the osu! World Cup.
+With the change to the tournament's ruleset, team formation was limited this year; teams had to be all from the same region of the world, either the Americas; Europe, the Middle East, and Africa; or Asia, Australia, and Oceania. This made for very many competitive matches throughout the tournament, and some very interesting matchups. For example, the grand finals match between APAC RADIANT and together we are terrific was in many ways reminiscent of South Korea vs USA in the osu! World Cup.
 
 ## Grand Finals recap
 
@@ -22,7 +22,7 @@ With the change to the tournament’s ruleset, team formation was limited this y
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/XRG7ewQExew" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Grand finals this year was a brand new matchup; APAC RADIANT and together we are terrific had not faced off all tournament long. With Bob losing to APAC RADIANT in the winners’ finals, together we are terrific had a tough opponent awaiting them in the losers’ grand finals. Bob was the second seed out of qualifiers and had made it all the way to winners’ finals, while together we are terrific was the sixth seed out of qualifiers and dropped down to losers’ bracket in the quarter finals. Even still, together we are terrific managed a stunning 7-2 victory over Bob.
+Grand finals this year was a brand new matchup; APAC RADIANT and together we are terrific had not faced off all tournament long. With Bob losing to APAC RADIANT in the winners' finals, together we are terrific had a tough opponent awaiting them in the losers' grand finals. Bob was the second seed out of qualifiers and had made it all the way to winners' finals, while together we are terrific was the sixth seed out of qualifiers and dropped down to losers' bracket in the quarter finals. Even still, together we are terrific managed a stunning 7-2 victory over Bob.
 
 Even more stunning was the first bout of grand finals; together we are terrific managed to force the bracket reset over the yet-undefeated APAC RADIANT with a 7-5 scoreline. For some on together we are terrific, this win was a long time coming; their captain, tekkito, has been third and second place in the Perennial 2021 and 2022, so victory here would finally mean the win after four years of effort. Unfortunately for together we are terrific, the members of APAC RADIANT wanted the win just as much, having never made the podium before 2024. APAC RADIANT took an early break point in the bracket reset and kept up the pressure, ultimately snatching victory with a 7-4 scoreline in the bracket rest.
 
@@ -63,7 +63,7 @@ If instead of watching full matches, you prefer a short version of each weekend,
     }
 </style>
 
-The Perennial stepped it up this year with six original songs: one for each round of the tournament, plus a second original in grand finals. Each of them had their own original artwork, and the majority had video introductions. Of course, the tournament’s final boss, the grand finals tiebreaker, had all that and a full storyboard. Check out all six songs, as with a variety of genres and styles, there’s sure to be something for everyone. If you are interested in the video intros and the maps for all these originals, those can be found on our [YouTube](https://youtube.com/c/ThePerennialYT).
+The Perennial stepped it up this year with six original songs: one for each round of the tournament, plus a second original in grand finals. Each of them had their own original artwork, and the majority had video introductions. Of course, the tournament's final boss, the grand finals tiebreaker, had all that and a full storyboard. Check out all six songs, as with a variety of genres and styles, there's sure to be something for everyone. If you are interested in the video intros and the maps for all these originals, those can be found on our [YouTube](https://youtube.com/c/ThePerennialYT).
 
 ### Group Stage
 
@@ -191,7 +191,7 @@ I'm enri, an osu! tournament player specializing in being all-rounded, but most 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
 
-You’ve now won both Corsace Open and Perennial, which are the only two standard community tournaments with top three badge support. What do you think your teams do right that gives you an edge over other superteams competing at the top level?
+You've now won both Corsace Open and Perennial, which are the only two standard community tournaments with top three badge support. What do you think your teams do right that gives you an edge over other superteams competing at the top level?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8640970" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-enri.jpg')"></a>
 
@@ -259,7 +259,7 @@ Yes, mom's touch and EMPICONES, who placed 5th and 4th respectively. mom's touch
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/3958619">Doomsday</a></p>
 
-Hi! I’m Doomsday, and I’ve been around the osu! community since 2008 doing all sorts of things, spending most of that time as a competitive player, streamer, and tournament commentator. I was part of the commentary team for The Perennial this year, and I also produced an original song that was used as part of the Group Stage mappool, called *TGGT*.
+Hi! I'm Doomsday, and I've been around the osu! community since 2008 doing all sorts of things, spending most of that time as a competitive player, streamer, and tournament commentator. I was part of the commentary team for The Perennial this year, and I also produced an original song that was used as part of the Group Stage mappool, called *TGGT*.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-dio.jpg')"></a>
 
@@ -271,11 +271,11 @@ With the release of *TGGT*, you also became a featured artist in osu!; what does
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/3958619">Doomsday</a></p>
 
-Firstly, thanks to everyone involved with organising that reveal during the showcase, that was so awesome. Being an FA is still an insane idea to me honestly, considering how stacked the FA roster is. I just have fun plonking down notes and making noises, and little old me idolises so many of the artists in there. I’m so proud to be listed alongside them.
+Firstly, thanks to everyone involved with organising that reveal during the showcase, that was so awesome. Being an FA is still an insane idea to me honestly, considering how stacked the FA roster is. I just have fun plonking down notes and making noises, and little old me idolises so many of the artists in there. I'm so proud to be listed alongside them.
 
-I’ve been playing and staffing for tournaments for a long time, so being a part of the process on the creative side was cool since it’s completely new to me. Seeing how the mappers I’ve worked with interpret the songs I’ve made is a blast. I found that the mappers would interpret parts of the song very differently to me as the producer, even mapping to rhythms I may not have planned, which is something I haven’t been able to properly appreciate before. Not to mention that the original art produced for these projects has been so good. It’s great to work with some very talented people.
+I've been playing and staffing for tournaments for a long time, so being a part of the process on the creative side was cool since it's completely new to me. Seeing how the mappers I've worked with interpret the songs I've made is a blast. I found that the mappers would interpret parts of the song very differently to me as the producer, even mapping to rhythms I may not have planned, which is something I haven't been able to properly appreciate before. Not to mention that the original art produced for these projects has been so good. It's great to work with some very talented people.
 
-At this point I’ve somehow managed to do the full loop of staff roles for tournaments. Now I just need to draw a background for someone and I think I’ve got the full set, haha.
+At this point I've somehow managed to do the full loop of staff roles for tournaments. Now I just need to draw a background for someone and I think I've got the full set, haha.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-dio.jpg')"></a>
 
@@ -287,9 +287,9 @@ What made you start making music? Was it always an interest of yours, or was it 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/3958619">Doomsday</a></p>
 
-I did a bit of music study during my school days, and I played Trombone in my high school band, but it wasn’t a major interest of mine until recently, really.
+I did a bit of music study during my school days, and I played Trombone in my high school band, but it wasn't a major interest of mine until recently, really.
 
-Thanks to rhythm games, I've absolutely fallen in love with its style of music, especially the “Final Boss” sort of tune. They are such a rush to listen to for me, and even more so when played in a game on the ragged edge of difficulty. One night in late 2019, I was vibing out to some of these songs and I said to myself that I’d love to make music like that one day. Right then, I remembered that I had an old MIDI keyboard, and started searching for piano tutorials. That’s pretty much how it started.
+Thanks to rhythm games, I've absolutely fallen in love with its style of music, especially the "Final Boss" sort of tune. They are such a rush to listen to for me, and even more so when played in a game on the ragged edge of difficulty. One night in late 2019, I was vibing out to some of these songs and I said to myself that I'd love to make music like that one day. Right then, I remembered that I had an old MIDI keyboard, and started searching for piano tutorials. That's pretty much how it started.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-dio.jpg')"></a>
 
@@ -301,11 +301,11 @@ Who are your biggest inspirations when composing?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/3958619">Doomsday</a></p>
 
-I’m a huge Touhou nerd, and I’m fairly certain every composition I’ve made has been inspired by ZUN, even if it’s a tiny bit. Almost every song I’ve made has a little bit of 2hu in it somewhere.
+I'm a huge Touhou nerd, and I'm fairly certain every composition I've made has been inspired by ZUN, even if it's a tiny bit. Almost every song I've made has a little bit of 2hu in it somewhere.
 
-On the rhythm game side, MASAKI is probably my biggest influence, as his music is what inspired me to get into music production. His boss song charts in Groove Coaster have that vibe that I just adore. His rhythm choices also work very well for osu maps imo, so I’m often inspired by his rhythm choices if I’m producing with games in mind.
+On the rhythm game side, MASAKI is probably my biggest influence, as his music is what inspired me to get into music production. His boss song charts in Groove Coaster have that vibe that I just adore. His rhythm choices also work very well for osu maps imo, so I'm often inspired by his rhythm choices if I'm producing with games in mind.
 
-Hardcore is the genre I most often produce in, and JAKAZiD is an artist I’m always referencing. His sound is very nostalgic to me and reminds me a lot of the music of my childhood, which I’m striving to learn to produce myself. *TGGT* was heavily inspired by the music of JAKAZiD specifically.
+Hardcore is the genre I most often produce in, and JAKAZiD is an artist I'm always referencing. His sound is very nostalgic to me and reminds me a lot of the music of my childhood, which I'm striving to learn to produce myself. *TGGT* was heavily inspired by the music of JAKAZiD specifically.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-dio.jpg')"></a>
 
@@ -317,11 +317,11 @@ The Perennial gave almost full creative freedom to musicians this year; what kin
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/3958619">Doomsday</a></p>
 
-To be honest, I’ve not had much experience producing music set to rigid expectations for others (Unless using Vocaloid for Battle of the Box counts. I learned how to use it for *[Luyten’s Star](https://osu.ppy.sh/beatmapsets/2134395#osu/4490753)*).
+To be honest, I've not had much experience producing music set to rigid expectations for others (Unless using Vocaloid for Battle of the Box counts. I learned how to use it for *[Luyten's Star](https://osu.ppy.sh/beatmapsets/2134395#osu/4490753)*).
 
-I’d imagine that producing to more rigid constraints would be a challenge for me, as my creative process often involves trying lots of different ideas until one sounds good. I would find it tricky to work where I might not be able to settle on an idea that I like.
+I'd imagine that producing to more rigid constraints would be a challenge for me, as my creative process often involves trying lots of different ideas until one sounds good. I would find it tricky to work where I might not be able to settle on an idea that I like.
 
-That said, I’ve made a few tracks where I limit myself to certain sample sets, whether it’s limited to Amiga samples or Touhou style instruments. In those instances, I gotta get creative with the composition side, which is where I have the most fun. Perhaps working within limits would fit me just fine!
+That said, I've made a few tracks where I limit myself to certain sample sets, whether it's limited to Amiga samples or Touhou style instruments. In those instances, I gotta get creative with the composition side, which is where I have the most fun. Perhaps working within limits would fit me just fine!
 
 </div>
 
@@ -371,7 +371,7 @@ Expectations are what exponentially scale between a tournament's size, and fulfi
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
 
-For any tournament players reading this, what sort of feedback helps improve a mappool or a mappooler’s outlook the most?
+For any tournament players reading this, what sort of feedback helps improve a mappool or a mappooler's outlook the most?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/6701656" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-chiv.jpg')"></a>
 
