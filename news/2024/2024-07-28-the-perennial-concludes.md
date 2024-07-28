@@ -10,7 +10,7 @@ With our hiatus gone and the tournament finished, [the Perennial](https://theper
 
 ## Summary
 
-![](/wiki/shared/news/2024-07-28-the-perennial-concludes/podium.png)
+![](/wiki/shared/news/2024-07-28-the-perennial-concludes/podium.jpg)
 
 Congratulations to APAC RADIANT for their first ever Perennial victory along with their first ever podium finish in the Perennial! Congratulations as well to together we are terrific and Bob for their second and third place finishes.
 
