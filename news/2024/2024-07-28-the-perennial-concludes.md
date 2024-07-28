@@ -4,17 +4,19 @@ title: The Perennial Concludes
 date: 2024-07-28 14:00:00 +0000
 ---
 
+With our hiatus gone and the tournament finished, [the Perennial](https://theperennial.net/) has crowned another champion! 
+
 ![](/wiki/shared/news/2024-05-21-the-perennial-returns/banner.jpg)
 
-With our hiatus gone and the tournament finished, [the Perennial](https://theperennial.net/) has crowned another champion! With 2021 and 2022 having many repeat winners, 2024 breathes fresh air onto the podium. Players who did not participate or podium in 2021 or 2022 abound in the top three this year, and rather than the whopping three repeat winners from 2021 to 2022, 2024 sees eight completely new winners!
+With 2021 and 2022 having many repeat winners, 2024 breathes fresh air onto the podium. Players who did not participate or podium in 2021 or 2022 find themselves in the top three this year, and rather than the whopping three repeat winners from 2021 to 2022, 2024 sees eight completely new winners!
 
 ## Summary
 
 ![](/wiki/shared/news/2024-07-28-the-perennial-concludes/podium.jpg)
 
-Congratulations to APAC RADIANT for their first ever Perennial victory along with their first ever podium finish in the Perennial! Congratulations as well to together we are terrific and Bob for their second and third place finishes.
+Congratulations to team *APAC RADIANT* for their first ever Perennial victory along with their first ever podium finish in the Perennial! Congratulations as well to team *together we are terrific* and team *Bob* for their second and third place finishes.
 
-With the change to the tournament's ruleset, team formation was limited this year; teams had to be all from the same region of the world, either the Americas; Europe, the Middle East, and Africa; or Asia, Australia, and Oceania. This made for very many competitive matches throughout the tournament, and some very interesting matchups. For example, the grand finals match between APAC RADIANT and together we are terrific was in many ways reminiscent of South Korea vs USA in the osu! World Cup.
+With the change to the tournament's ruleset, team formation was limited this year. Teams had to be all from the same region of the world, either the Americas; Europe, the Middle East, and Africa; or Asia, Australia, and Oceania. This made for very many competitive matches throughout the tournament, and some very interesting matchups. For example, the Grand Finals match between *APAC RADIANT* and *together we are terrific* was in many ways reminiscent of South Korea vs. USA in the osu! World Cup.
 
 ## Grand Finals recap
 
@@ -22,13 +24,17 @@ With the change to the tournament's ruleset, team formation was limited this yea
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/XRG7ewQExew" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Grand finals this year was a brand new matchup; APAC RADIANT and together we are terrific had not faced off all tournament long. With Bob losing to APAC RADIANT in the winners' finals, together we are terrific had a tough opponent awaiting them in the losers' grand finals. Bob was the second seed out of qualifiers and had made it all the way to winners' finals, while together we are terrific was the sixth seed out of qualifiers and dropped down to losers' bracket in the quarter finals. Even still, together we are terrific managed a stunning 7-2 victory over Bob.
+The Grand Finals this year were a brand-new matchup: *APAC RADIANT* and *together we are terrific* had not faced off all tournament long. With *Bob* losing to *APAC RADIANT* in the winners' Finals, *together we are terrific* had a tough opponent awaiting them in the losers' Grand Finals.
 
-Even more stunning was the first bout of grand finals; together we are terrific managed to force the bracket reset over the yet-undefeated APAC RADIANT with a 7-5 scoreline. For some on together we are terrific, this win was a long time coming; their captain, tekkito, has been third and second place in the Perennial 2021 and 2022, so victory here would finally mean the win after four years of effort. Unfortunately for together we are terrific, the members of APAC RADIANT wanted the win just as much, having never made the podium before 2024. APAC RADIANT took an early break point in the bracket reset and kept up the pressure, ultimately snatching victory with a 7-4 scoreline in the bracket rest.
+*Bob* was the second seed out of Qualifiers and had made it all the way to winners' Finals, while *together we are terrific* was the sixth seed out of Qualifiers and dropped down to losers' bracket in the Quarterfinals. Even still, team *together we are terrific* managed a stunning 7–2 victory over team *Bob*.
+
+Even more stunning was the first bout of Grand Finals. Team *together we are terrific* managed to force the bracket reset over the yet-undefeated *APAC RADIANT* with a 7–5 scoreline. For some on *together we are terrific*, this win was a long time coming; their captain, tekkito, has taken third and second place in the Perennial 2021 and 2022, so victory here would finally mean the win after four years of effort.
+
+Unfortunately for *together we are terrific*, the members of *APAC RADIANT* wanted the win just as much, having never made the podium before 2024. *APAC RADIANT* took an early break point in the bracket reset and kept up the pressure, ultimately snatching victory with a 7–4 scoreline in the bracket reset.
 
 ## Match highlights
 
-Each round, from group stage to grand finals, we uploaded highlight videos showcasing the best scores of the weekend, the closest matches, and the hypest maps. In addition, we have pulled the closest matches from throughout the tournament and linked all their vods below. Whether you just want the highlights, the abridged version, or the full experience, you can relive the Perennial 2024 on our [YouTube](https://youtube.com/c/ThePerennialYT) where all match vods are uploaded in full.
+Each round, from Group Stage to Grand Finals, we uploaded highlight videos showcasing the best scores of the weekend, the closest matches, and the hypest maps. In addition, we have pulled the closest matches from throughout the tournament and linked all their VODs below. Whether you just want the highlights, the abridged version, or the full experience, you can relive the Perennial 2024 on our [YouTube channel](https://youtube.com/c/ThePerennialYT) where all match VODs are uploaded in full.
 
 ### Match VODs
 
@@ -49,7 +55,7 @@ Each round, from group stage to grand finals, we uploaded highlight videos showc
 
 ### Highlight videos
 
-If instead of watching full matches, you prefer a short version of each weekend, check out the full highlight video playlist embedded below.
+If instead of watching full matches, you prefer a short version of each weekend, check out the full highlight video playlist below.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/videoseries?list=PLuEZphzYAlhTPn9S77gfWP1VogSZ7DG1v" frameborder="0" allowfullscreen></iframe>
@@ -63,7 +69,9 @@ If instead of watching full matches, you prefer a short version of each weekend,
     }
 </style>
 
-The Perennial stepped it up this year with six original songs: one for each round of the tournament, plus a second original in grand finals. Each of them had their own original artwork, and the majority had video introductions. Of course, the tournament's final boss, the grand finals tiebreaker, had all that and a full storyboard. Check out all six songs, as with a variety of genres and styles, there's sure to be something for everyone. If you are interested in the video intros and the maps for all these originals, those can be found on our [YouTube](https://youtube.com/c/ThePerennialYT).
+The Perennial stepped it up this year with **six original songs**: one for each round of the tournament, plus a second original in the Grand Finals. Each of them had their own original artwork, and the majority had video introductions. Of course, the tournament's final boss, the Grand Finals tiebreaker, had all that and a full storyboard.
+
+Check out all six songs, as with a variety of genres and styles, there's sure to be something for everyone. If you are interested in the video intros and the maps for all these originals, those can be found on our [YouTube channel](https://youtube.com/c/ThePerennialYT).
 
 ### Group Stage
 
@@ -75,7 +83,7 @@ The Perennial stepped it up this year with six original songs: one for each roun
     </audio>
 </div>
 
-### Round of 16 & Quarter Finals
+### Round of 16 & Quarterfinals
 
 [![](/wiki/shared/news/2024-07-28-the-perennial-concludes/coriolis.jpg)](https://osu.ppy.sh/beatmapsets/2202795#osu/4662244)
 
@@ -85,7 +93,7 @@ The Perennial stepped it up this year with six original songs: one for each roun
     </audio>
 </div>
 
-### Semi Finals
+### Semifinals
 
 [![](/wiki/shared/news/2024-07-28-the-perennial-concludes/are-we-floating-in-space.jpg)](https://osu.ppy.sh/beatmapsets/2206504#osu/4672137)
 
@@ -191,7 +199,7 @@ I'm enri, an osu! tournament player specializing in being all-rounded, but most 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
 
-You've now won both Corsace Open and Perennial, which are the only two standard community tournaments with top three badge support. What do you think your teams do right that gives you an edge over other superteams competing at the top level?
+You've now won both Corsace Open and Perennial, which are the only two community tournaments in the osu! game mode with top three badge support. What do you think your teams do right that gives you an edge over other superteams competing at the top level?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8640970" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-enri.jpg')"></a>
 
@@ -199,7 +207,9 @@ You've now won both Corsace Open and Perennial, which are the only two standard 
 
 Focusing on roster depth was something I believe led to my team's success in Corsace Open 2022 - while forming APAC RADIANT for this year's Perennial, I presented that same mindset. It was my first time captaining a big tournament and inspired by teams like [tekkito](https://osu.ppy.sh/users/7075211)'s United States roster for OWC 2023, my goal was to form an incredibly well-rounded team.
 
-In most superteams I see formed nowadays, they can get away with relying on the carry performances of 1-2 people, with the rest being "fills" - something I tried to avoid when forming this team. You can see that pay off in the Grand Finals, where I wasn't feeling well at all due to a headache - it got to a point where I really couldn't trust myself with certain picks I would usually consider myself comfortable on. As a result, I put [Allegrissimo](https://osu.ppy.sh/users/9052194) back in to replace my role, and that ended up fixing all the errors we had in the first match that were caused by my underperformance - picks that we would've otherwise lost by a small margin.
+In most superteams I see formed nowadays, they can get away with relying on the carry performances of 1-2 people, with the rest being "fills" - something I tried to avoid when forming this team. You can see that pay off in the Grand Finals, where I wasn't feeling well at all due to a headache - it got to a point where I really couldn't trust myself with certain picks I would usually consider myself comfortable on.
+
+As a result, I put [Allegrissimo](https://osu.ppy.sh/users/9052194) back in to replace my role, and that ended up fixing all the errors we had in the first match that were caused by my underperformance - picks that we would've otherwise lost by a small margin.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-dio.jpg')"></a>
 
@@ -225,7 +235,9 @@ As a player, what were your thoughts on the region-locked team formation rule th
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-bsc" href="https://osu.ppy.sh/users/8640970">enri</a></p>
 
-As someone who used to play in some of the biggest 2023 superteams where the Grand Finals would usually be won 7-0 or 7-2, I appreciate that we're enforcing team formation rules that make tournaments a lot more competitive - it's a refreshing spectator/player experience after months of seeing/playing several decisive matches in most big tournaments. I believe tournament wins are so much more worthwhile and meaningful when it's a result of several weeks of hard work and dedication, something that I was pushed to do for both Corsace Open 2022 and this year's Perennial, with both matches being a long, indecisive bracket reset.
+As someone who used to play in some of the biggest 2023 superteams where the Grand Finals would usually be won 7-0 or 7-2, I appreciate that we're enforcing team formation rules that make tournaments a lot more competitive - it's a refreshing spectator/player experience after months of seeing/playing several decisive matches in most big tournaments.
+
+I believe tournament wins are so much more worthwhile and meaningful when it's a result of several weeks of hard work and dedication, something that I was pushed to do for both Corsace Open 2022 and this year's Perennial, with both matches being a long, indecisive bracket reset.
 
 After the successful conclusion of a speed tournament I hosted titled [ENRI'S SHREDDINGTON SHOWDOWN ANNIHILATION](https://osu.ppy.sh/community/forums/topics/1915844), I plan on hosting open-rank tournaments that experiment with various forms of team formation rules for the sake of competition. That being said, from an entirely biased and personal standpoint, I wish it wasn't specifically region-wise, as I wanted to play with friends such as tekkito and [decaten](https://osu.ppy.sh/users/5645231) before finding out about the rule.
 
@@ -239,7 +251,9 @@ Were there any other teams you were rooting for during the course of the tournam
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-bsc" href="https://osu.ppy.sh/users/8640970">enri</a></p>
 
-Yes, mom's touch and EMPICONES, who placed 5th and 4th respectively. mom's touch, which was intended to be the B team for APAC RADIANT, was an all-Asian team I formed with [Milkteaism](https://osu.ppy.sh/users/9642774) in hopes of giving him more experience as both a tournament player and captain in preparation for OWC 2024 due to my absence this year. EMPICONES, on the other hand, was a team consisting of players I knew from a group called [#EMPATHS](https://www.twitch.tv/team/empaths) - specifically, [BATBALL](https://osu.ppy.sh/users/15173952), [Pezz](https://osu.ppy.sh/users/10651106), [suntanCTM](https://osu.ppy.sh/users/19998548), and [Twilight](https://osu.ppy.sh/users/6327638). I was rooting for both teams, so it was heartbreaking not to see either of them make the podium, but I believe their success in this year's Perennial is nothing to scoff at.
+Yes, "mom's touch" and "EMPICONES", which placed 5th and 4th respectively. mom's touch, which was intended to be the B team for APAC RADIANT, was an all-Asian team I formed with [Milkteaism](https://osu.ppy.sh/users/9642774) in hopes of giving him more experience as both a tournament player and captain in preparation for OWC 2024 due to my absence this year.
+
+EMPICONES, on the other hand, was a team consisting of players I knew from a group called [#EMPATHS](https://www.twitch.tv/team/empaths) - specifically, [BATBALL](https://osu.ppy.sh/users/15173952), [Pezz](https://osu.ppy.sh/users/10651106), [suntanCTM](https://osu.ppy.sh/users/19998548), and [Twilight](https://osu.ppy.sh/users/6327638). I was rooting for both teams, so it was heartbreaking not to see either of them make the podium, but I believe their success in this year's Perennial is nothing to scoff at.
 
 </div>
 
@@ -249,7 +263,7 @@ Yes, mom's touch and EMPICONES, who placed 5th and 4th respectively. mom's touch
 
 ![](/wiki/shared/news/2024-07-28-the-perennial-concludes/doomsday.png)
 
-[Doomsday](https://osu.ppy.sh/users/18983) is a former rank #1 player, tournament player, OWC commentator, livestreamer, and now a [featured artist](https://osu.ppy.sh/beatmaps/artists/425). He produced an original track for the Perennial titled *TGGT* and was announced as a featured artist with the release of *TGGT*; this is the first time that a featured artist release has been paired with a community tournament original track release.
+[Doomsday](https://osu.ppy.sh/users/18983) is a former rank #1 player, tournament player, OWC commentator, livestreamer, and now a [Featured Artist](https://osu.ppy.sh/beatmaps/artists/425). He produced an original track for the Perennial titled *TGGT* and was announced as a Featured Artist along with its release, which is the first time that has happened for a community tournament.
 
 ---
 
@@ -265,7 +279,7 @@ Hi! I'm Doomsday, and I've been around the osu! community since 2008 doing all s
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
 
-With the release of *TGGT*, you also became a featured artist in osu!; what does it feel like to come full circle, from player to staff to artist?
+With the release of *TGGT*, you also became a featured artist in osu!. What does it feel like to come full circle, from player to staff to artist?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-doomsday.jpg')"></a>
 
@@ -287,7 +301,7 @@ What made you start making music? Was it always an interest of yours, or was it 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/3958619">Doomsday</a></p>
 
-I did a bit of music study during my school days, and I played Trombone in my high school band, but it wasn't a major interest of mine until recently, really.
+I did a bit of music study during my school days, and I played trombone in my high school band, but it wasn't a major interest of mine until recently, really.
 
 Thanks to rhythm games, I've absolutely fallen in love with its style of music, especially the "Final Boss" sort of tune. They are such a rush to listen to for me, and even more so when played in a game on the ragged edge of difficulty. One night in late 2019, I was vibing out to some of these songs and I said to myself that I'd love to make music like that one day. Right then, I remembered that I had an old MIDI keyboard, and started searching for piano tutorials. That's pretty much how it started.
 
@@ -311,7 +325,7 @@ Hardcore is the genre I most often produce in, and JAKAZiD is an artist I'm alwa
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
 
-The Perennial gave almost full creative freedom to musicians this year; what kind of challenges does that present compared to a more rigid approach where musicians are given song specifications, and which approach do you enjoy more as a musician?
+The Perennial gave almost full creative freedom to musicians this year. What kind of challenges does that present compared to a more rigid approach where musicians are given song specifications, and which approach do you enjoy more as a musician?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-doomsday.jpg')"></a>
 
@@ -331,7 +345,7 @@ That said, I've made a few tracks where I limit myself to certain sample sets, w
 
 ![](/wiki/shared/news/2024-07-28-the-perennial-concludes/chiv.png)
 
-[chiv](https://osu.ppy.sh/users/6701656) is a mappooler in a wide range of community tournaments big and small across multiple rank ranges; he is also one of the mappoolers for the Perennial.
+[chiv](https://osu.ppy.sh/users/6701656) is a mappooler in a wide range of community tournaments big and small across multiple rank ranges. He is also one of the mappoolers for the Perennial.
 
 ---
 
@@ -347,25 +361,31 @@ Hi, I'm chiv. I'm currently part of the OWC mappooling team and I also work on P
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
 
-Before you were a mappooler, you were a tournament player; what made you decide to start mappooling rather than continuing to push for tournament wins?
+Before you were a mappooler, you were a tournament player. What made you decide to start mappooling rather than continuing to push for tournament wins?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/6701656" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-chiv.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/6701656">chiv</a></p>
 
-There were a large amount of reasons as to why I primarily focus on mappooling now, but the core reason at the time was that I just didn't have much free time left to play the game. I was mainly active in tournaments during 2020-2022, which was almost entirely due to COVID. I also accomplished any tournament player's goal of winning a profile badge and after demolishing osu! Collegiate League and ThePro365 I felt like I had hit the main goals I had for the game. Lastly, I just really enjoy mappooling as a whole; creating and building each mappool for players and viewers to experience and enjoy has been extremely self-fulfilling in that I'm able to make everyone's experience a smidge better.
+There were a large amount of reasons as to why I primarily focus on mappooling now, but the core reason at the time was that I just didn't have much free time left to play the game. I was mainly active in tournaments during 2020-2022, which was almost entirely due to COVID. I also accomplished any tournament player's goal of winning a profile badge and after demolishing osu! Collegiate League and ThePro365 I felt like I had hit the main goals I had for the game.
+
+Lastly, I just really enjoy mappooling as a whole; creating and building each mappool for players and viewers to experience and enjoy has been extremely self-fulfilling in that I'm able to make everyone's experience a smidge better.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-dio.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
 
-You mappool for a huge number of tournaments big and small; what are the major differences between mappooling for the osu! World Cup, large community tournaments, and small community tournaments?
+You mappool for a huge number of tournaments big and small. What are the major differences between mappooling for the osu! World Cup, large community tournaments, and small community tournaments?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/6701656" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-chiv.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/6701656">chiv</a></p>
 
-Expectations are what exponentially scale between a tournament's size, and fulfilling them is the toughest part. Smaller tournaments like mahloola regional cup and Spring Flower Scramble generally have a much more casual playerbase, where I find I'm much less limited in the types of map archetypes and mappooling styles I can deliver. The sheer gravity of larger tournaments like OWC just have so much more on the line, and with that comes each individual player's perception of what should and shouldn't be pooled. Regardless if it's 10, 100, or 1000 people involved, each opinion matters and that's why it's important to me that I can satisfy the largest amount of people possible.
+Expectations are what exponentially scale between a tournament's size, and fulfilling them is the toughest part.
+
+Smaller tournaments like mahloola regional cup and Spring Flower Scramble generally have a much more casual playerbase, where I find I'm much less limited in the types of map archetypes and mappooling styles I can deliver. The sheer gravity of larger tournaments like OWC just have so much more on the line, and with that comes each individual player's perception of what should and shouldn't be pooled.
+
+Regardless if it's 10, 100, or 1000 people involved, each opinion matters and that's why it's important to me that I can satisfy the largest amount of people possible.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-dio.jpg')"></a>
 
@@ -377,13 +397,15 @@ For any tournament players reading this, what sort of feedback helps improve a m
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/6701656">chiv</a></p>
 
-Everyone already knows that feedback will always be subjective, and it's natural to have fundamental differences between perspectives. However, it's important to recognise that mappoolers are here to try and give each player the best experience possible. Feedback just goes so much farther if both the player and mappooler are able to treat each other with respect, and keeping things civil is something I hope to see more channels focus on as we continue to develop our tournament community.
+Everyone already knows that feedback will always be subjective, and it's natural to have fundamental differences between perspectives. However, it's important to recognise that mappoolers are here to try and give each player the best experience possible.
+
+Feedback just goes so much farther if both the player and mappooler are able to treat each other with respect, and keeping things civil is something I hope to see more channels focus on as we continue to develop our tournament community.
 
 </div>
 
 ---
 
-Massive thanks are due to everyone who helped out with this iteration of the Perennial. Through many ups and downs, through time constraints weekly, through full time jobs and school, many people put countless hours of effort into the Perennial to make it a success.
+Massive thanks are due for everyone who helped out with this iteration of the Perennial. Through many ups and downs, through weekly time constraints, through full time jobs and school, many people put countless hours of effort into the Perennial to make it a success.
 
 ![](/wiki/shared/news/2024-07-28-the-perennial-concludes/credits.png)
 
