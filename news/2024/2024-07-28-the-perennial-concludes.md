@@ -271,7 +271,7 @@ EMPICONES, on the other hand, was a team consisting of players I knew from a gro
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-doomsday.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/3958619">Doomsday</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/18983">Doomsday</a></p>
 
 Hi! I'm Doomsday, and I've been around the osu! community since 2008 doing all sorts of things, spending most of that time as a competitive player, streamer, and tournament commentator. I was part of the commentary team for The Perennial this year, and I also produced an original song that was used as part of the Group Stage mappool, called *TGGT*.
 
@@ -283,7 +283,7 @@ With the release of *TGGT*, you also became a featured artist in osu!. What does
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-doomsday.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/3958619">Doomsday</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/18983">Doomsday</a></p>
 
 Firstly, thanks to everyone involved with organising that reveal during the showcase, that was so awesome. Being an FA is still an insane idea to me honestly, considering how stacked the FA roster is. I just have fun plonking down notes and making noises, and little old me idolises so many of the artists in there. I'm so proud to be listed alongside them.
 
@@ -299,7 +299,7 @@ What made you start making music? Was it always an interest of yours, or was it 
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-doomsday.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/3958619">Doomsday</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/18983">Doomsday</a></p>
 
 I did a bit of music study during my school days, and I played trombone in my high school band, but it wasn't a major interest of mine until recently, really.
 
@@ -313,7 +313,7 @@ Who are your biggest inspirations when composing?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-doomsday.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/3958619">Doomsday</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/18983">Doomsday</a></p>
 
 I'm a huge Touhou nerd, and I'm fairly certain every composition I've made has been inspired by ZUN, even if it's a tiny bit. Almost every song I've made has a little bit of 2hu in it somewhere.
 
@@ -329,7 +329,7 @@ The Perennial gave almost full creative freedom to musicians this year. What kin
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18983" style="background-image: url('/wiki/shared/news/2024-07-28-the-perennial-concludes/avatar-doomsday.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/3958619">Doomsday</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/18983">Doomsday</a></p>
 
 To be honest, I've not had much experience producing music set to rigid expectations for others (Unless using Vocaloid for Battle of the Box counts. I learned how to use it for *[Luyten's Star](https://osu.ppy.sh/beatmapsets/2134395#osu/4490753)*).
 
