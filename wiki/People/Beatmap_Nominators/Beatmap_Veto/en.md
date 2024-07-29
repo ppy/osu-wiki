@@ -26,9 +26,13 @@ If discussion is no longer progressing in the direction of a compromise, or is o
 
 If the vetoer is no longer a Beatmap Nominator and no mediation has been requested, the veto will be dismissed.
 
-During mediation, the Beatmap Nominators and members of the NAT will vote for whether to uphold or dismiss the veto anonymously. Once initiated, this process can take anywhere from a day up to a week depending on how quickly participants make their decisions.
+### Veto Mediation
+
+During mediation, Beatmap Nominators and members of the NAT for the game mode(s) the veto affects will vote for whether to uphold or dismiss the veto anonymously. Once initiated, this process will take around 7 days depending on how quickly participants make their decisions. The veto may be broken up into smaller points for voting which can be individually upheld or dismissed through the vote's results.
 
 Any decision made by participants must be accompanied by a reason for making the decision. Should a member be unable to participate, their vote will be considered abstained.
+
+For a veto point to be upheld, a 70% majority of votes must agree with what is stated. If this threshold is not reached, the veto point may be dismissed.
 
 ## How to proceed after mediation
 
