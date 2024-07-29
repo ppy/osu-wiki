@@ -19,8 +19,8 @@ The **osu!mania Malaysia Tournament 4** (***OMMT 4***) is a Malaysian team-based
 | Screening phase | 2024-06-18/2024-06-30 |
 | Qualifier showcase | 2024-07-01 |
 | Qualifiers | 2024-07-06/2024-07-07 |
-| Round of 32 | 2024-07-13/2024-07-14 |
-| Round of 16 | 2024-07-20/2024-07-21 |
+| Round of 32 | 2024-07-12/2024-07-14 |
+| Round of 16 | 2024-07-16/2024-07-21 |
 | Quarterfinals | 2024-07-27/2024-07-28 |
 | Semifinals | 2024-08-03/2024-08-04 |
 | Finals | 2024-08-10/2024-08-11 |
@@ -105,7 +105,38 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 
 ## Mappools
 
+*Note: Maps with asterisk in its ordering list is considered to be MAD map. It is a twist from the organiser to make certain map unbannable, and in some occasion will force players to use modifier to play along with it. Each stage may have different kind of MAD twist, details are written for each stage.*
+
+### Quarterfinals
+
+Quarterfinals' MAD map is **RC4**, the twist is it has to be played with **DoubleTime** modifier.
+
+**[Download the mappack here (182 MB)](https://drive.google.com/file/d/1kUicxHDFhed2V-E05QI3Ymx9kJSsJWii/view?usp=sharing)**
+
+- RC
+  1. [t+pazolite - Cheatreal (remity\_) \[Extraneous (230bpm)\]](https://osu.ppy.sh/beatmapsets/2214819#mania/4694245)
+  2. [Sakuzyo - Arkadia \[Illusion\] (\[Crz\]hinako1804) \[Arcadia x1.15\_P\]](https://osu.ppy.sh/beatmapsets/1671858#mania/3433063)
+  3. [Kyutatsuki - Dimension Wars (Cut Ver.) (Polarin) \[Reality Collision\]](https://osu.ppy.sh/beatmapsets/2029816#mania/4263008)
+  4. [DVRST - Close Eyes (Plutes) \[Insane\]](https://osu.ppy.sh/beatmapsets/1603090#mania/3951664)*
+  5. [Tim Legend - Soda City Funk (SureFir3) \[CHECK IT\]](https://osu.ppy.sh/beatmapsets/2219166#mania/4703890)
+  6. [kommisar - Hyper Weaboo Vodka Shots (0DZ0) \[Hyper\]](https://osu.ppy.sh/beatmapsets/1841524#mania/3782337)
+- LN
+  1. [BUTAOTOME - Hakanaki Mono Ningen (YuEast 2018) \[fake x1.15\]](https://osu.ppy.sh/beatmapsets/2003096#mania/4165583)
+  2. [69 de 74 - Overdrive Power (Onlinee) \[Lott's Paroxysm\]](https://osu.ppy.sh/beatmapsets/2219178#mania/4703907)
+  3. [Sheena Ringo - TOKYO (anatharax) \[dislocation\]](https://osu.ppy.sh/beatmapsets/2214119#mania/4691178)
+- HB
+  1. [II-L - THE EARTH (feat. amelie xoxo) (Onlinee) \[Nicknem's Universe\]](https://osu.ppy.sh/beatmapsets/2219113#mania/4703802)
+  2. [Yu-dachi - Shirohana no Tenshi (Hytex) \[Sora\]](https://osu.ppy.sh/beatmapsets/2038105#mania/4250977)
+  3. [Succducc - me & u (Kara Edit) (IvanOfficial) \[always together\]](https://osu.ppy.sh/beatmapsets/2017538#mania/4200462)
+- SV
+  1. [rintaro soma - solips (notapplicable) \[Stage 1: Awakening\]](https://osu.ppy.sh/beatmapsets/1996132#mania/4148531)
+  2. [Tanchiky - Hagoromo no Mai (Lott) \[Dancing (sv. Ciel) (cut)\]](https://osu.ppy.sh/beatmapsets/2214884#mania/4692960)
+- Tiebreaker
+  1. **[Camellia - This Future (we didn't expect) (Onlinee) \[A promise, for: tomorrow's future (NSV)\]](https://osu.ppy.sh/beatmapsets/2219121#mania/4703815)**
+
 ### Round of 16
+
+Round of 16's MAD map is **LN3**, the twist is the map has reverse shield patterns with little to no spacing, to balance it, OD0 was set for the map.
 
 **[Download the mappack here (70 MB)](https://cdn.discordapp.com/attachments/1257367722136703087/1262440243164876902/bomb16.zip?ex=66974358&is=6695f1d8&hm=a3a1f2b1c9a6c95087a670093e210a5bab23026440ad6196f5df35487281bed1&)**
 
@@ -118,7 +149,7 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 - LN
   1. [Nanahoshi Kangengakudan - Parasol Cider (fvrex) \[Stage 5: 14th of September 2005\]](https://osu.ppy.sh/beatmapsets/2084407#mania/4366089)
   2. [Naomi Oozora, Nozomi Yamamoto, Ruriko Aoki - Angel Dream (YuEast 2018) \[Heaven \~ Cute Vocal '23 edit\]](https://osu.ppy.sh/beatmapsets/2105456#mania/4417766)
-  3. [Nhato - Miss You (Abraxos) \[I\]](https://osu.ppy.sh/beatmapsets/1268949#mania/2637067)
+  3. [Nhato - Miss You (Abraxos) \[I\]](https://osu.ppy.sh/beatmapsets/1268949#mania/2637067)*
 - HB
   1. [Earth, Wind & Fire - September (yomoha remix) (epic man 2) \[Insane\]](https://osu.ppy.sh/beatmapsets/1838172#mania/3774371)
   2. [James Landino - Anti Hero (Lott) \[Collab Defiance\]](https://osu.ppy.sh/beatmapsets/1974129#mania/4096930)
@@ -130,12 +161,14 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 
 ### Round of 32
 
+Round of 32's MAD map is **RC3**, the twist is it has to be played with **HardRock** modifier.
+
 **[Download the mappack here (94 MB)](https://cdn.discordapp.com/attachments/1257367722136703087/1259895755179556937/bomb.zip?ex=668e019b&is=668cb01b&hm=0e312cd523c626b8f5c647df75c953dc5eef7f7946e5b8b6d6335b10c3791211&)**
 
 - RC
   1. [BEMANI Sound Team "DJ TOTTO" feat.rionos - Simurgh no Mezame (komugii) \[sora x1.1\]](https://osu.ppy.sh/beatmapsets/1415406#mania/2917081)
   2. [Tatsh - IMAGE -MATERIAL- \<REFLEC BEAT Edition\> (Onlinee) \[YuEast's Imagine the Future (edit)\]](https://osu.ppy.sh/beatmapsets/2210493#mania/4682349)
-  3. [Jan Amit - In Torture (feat. Eclise) (Elekton) \[sinking\]](https://osu.ppy.sh/beatmapsets/573842#mania/1215562)
+  3. [Jan Amit - In Torture (feat. Eclise) (Elekton) \[sinking\]](https://osu.ppy.sh/beatmapsets/573842#mania/1215562)*
   4. [MYUKKE. - The 90's Decision (Irone OSU) \[boomer decision\]](https://osu.ppy.sh/beatmapsets/2032272#mania/4590142)
   5. [BEMANI Sound Team "Nekomata Master" - Life is beautiful (-MysticEyes) [LeiN-'s MASTER]](https://osu.ppy.sh/beatmapsets/860089#mania/1948492)
 - LN
@@ -168,6 +201,39 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
   1. [awfuless meets Zekk - MATOI -phase L- (\[Andre\]) \[Stage 5: Kamui Senketsu\]](https://osu.ppy.sh/beatmapsets/2206995#mania/4673206)
 
 ## Match results
+
+### Round of 16
+
+Tuesday, 16 July 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Upscroll Gang | 1 | **5** | **Yo, What Team Name** | [#1](https://osu.ppy.sh/community/matches/114692677) |
+
+Saturday, 20 July 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Canis Majoris: Sirius A and B | -1 | **0** | **Epic Cat** | *win by default* |
+| **Gon and LongGone** | **0** | -1 | RealNoFake | *win by default* |
+| **Alpha Dan Virgins** | **5** | 3 | duck is bird | [#1](https://osu.ppy.sh/community/matches/114741829) |
+| F | 2 | **5** | **Anthena** | [#1](https://osu.ppy.sh/community/matches/114742423) |
+| **Appley Leafy** | **5** | 3 | kibitzfanboys | [#1](https://osu.ppy.sh/community/matches/114742746) |
+| **Re:Zuna** | **5** | 0 | we love jacking | [#1](https://osu.ppy.sh/community/matches/114743117) |
+| **leon's waifuus!!** | **5** | 0 | Rice Noodles | [#1](https://osu.ppy.sh/community/matches/114743774) |
+| **Digital Frogs** | **5** | 0 | Dark System | [#1](https://osu.ppy.sh/community/matches/114743854) |
+
+Sunday, 21 July 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| i like cookie | 4 | **5** | **Overjoyed** | [#1](https://osu.ppy.sh/community/matches/114755969) |
+| **Tidur** | **5** | 3 | Tyto | [#1](https://osu.ppy.sh/community/matches/114755946) |
+| **Almost disabled** | **5** | 3 | 3 DollarKeyboard | [#1](https://osu.ppy.sh/community/matches/114756690) |
+| ImForcedToJoin | -1 | **0** | **Team ferrets** | *win by default* |
+| Sleepless Duo | -1 | **0** | **osake** | *win by default* |
+| The 5 Digits | -1 | **0** | **how to train your dragon** | *win by default* |
+| Sengketa Blok Ambalat Incident \|\| TPT | 1 | **5** | **Los Pollos Hermanos** | [#1](https://osu.ppy.sh/community/matches/114758898) |
 
 ### Round of 32
 
