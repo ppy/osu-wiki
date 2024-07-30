@@ -177,7 +177,7 @@ Saturday, 27 July 2024:
 | Quarterfinals | **[Amamya Kokoro](https://osu.ppy.sh/users/2511839)** | **5.02 M** | 4.48 M | [enri](https://osu.ppy.sh/users/8640970) | [#1](https://osu.ppy.sh/multiplayer/rooms/799914) | [#1](https://www.twitch.tv/videos/2210815333) |
 | Quarterfinals | [Nopekjk](https://osu.ppy.sh/users/4585186) | 3.58 M | **4.21 M** | **[Tebi](https://osu.ppy.sh/users/5407620)** | [#1](https://osu.ppy.sh/multiplayer/rooms/799656) | [#1](https://www.twitch.tv/videos/2210932598) |
 | Quarterfinals | **[aknzx](https://osu.ppy.sh/users/9938943)** | **5.23 M** | 5.17 M | [xootynator](https://osu.ppy.sh/users/3717598) | [#1](https://osu.ppy.sh/multiplayer/rooms/799918) | [#1](https://www.twitch.tv/videos/2210937061) |
-| Quarterfinals | [Welter](https://osu.ppy.sh/users/11552867) | FF | 0.00 M | [FlyingTuna](https://osu.ppy.sh/users/9224078) |  |  |
+| Quarterfinals | [Welter](https://osu.ppy.sh/users/11552867) | FF | **0.00 M** | **[FlyingTuna](https://osu.ppy.sh/users/9224078)** |  |  |
 | Semifinals | **[Amamya Kokoro](https://osu.ppy.sh/users/2511839)** | **5.05 M** | 4.36 M | [Tebi](https://osu.ppy.sh/users/5407620) | [#1](https://osu.ppy.sh/multiplayer/rooms/800094) | [#1](https://www.twitch.tv/videos/2210939520) |
 
 Sunday, 28 July 2024:
