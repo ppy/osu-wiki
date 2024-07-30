@@ -427,7 +427,5 @@ The exact formula that will be used for all players (and for each map) is `Final
 
 ## Notes
 
-[^winners-bracket]: Winners bracket match
-[^potential-match]: Potential match — final matchup depends on the results of the preceding matches
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two players have the same MAX sum
