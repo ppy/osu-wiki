@@ -153,6 +153,26 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
 
 ## Match results
 
+### Quarterfinals
+
+Saturday, 27 July 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Rice Farmer** | **6** | 4 | team name | [#1](https://osu.ppy.sh/community/matches/114832325) |
+| SKIBIDI Archive | 0 | **6** | **Kamisato Lemon** | [#1](https://osu.ppy.sh/community/matches/114833114) |
+| **83.33% Chinese 16.66% Filipino** | **6** | 1 | Bocchi Soup | [#1](https://osu.ppy.sh/community/matches/114834231) |
+| **Yuma fanboys** | **6** | 0 | Pixel 7 | [#1](https://osu.ppy.sh/community/matches/114834855) |
+| **skibidi's hybrid soup** | **0** | -1 | LOTT'S TRAGIC HINDILOVE EXTRA | *win by default* |
+
+Sunday, 28 July 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Noodle Soup** | **6** | 5 | Play Robeats | [#1](https://osu.ppy.sh/community/matches/114847585) |
+| Furry Femboys | 4 | **6** | **Mama Mia** | [#1](https://osu.ppy.sh/community/matches/114848717) |
+| arm water sick ma | 3 | **6** | **Undertable sands** | [#1](https://osu.ppy.sh/community/matches/114848806) |
+
 ### Round of 16
 
 Saturday, 20 July 2024:
