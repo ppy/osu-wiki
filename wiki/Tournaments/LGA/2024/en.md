@@ -32,7 +32,7 @@ The Lazer Grand Arena offered limited-edition merch (courtesy of [megumic](https
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, single-run merch |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | single-run merch |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") |  single-run merch |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | single-run merch |
 
 ## Organisation
 
