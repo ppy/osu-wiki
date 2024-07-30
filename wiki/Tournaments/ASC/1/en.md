@@ -92,6 +92,29 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
 
 ## Mappools
 
+### Semifinals
+
+- RC
+  1. [YOHEDA - KAERU (CrewK) \[Frog Regrets\]](https://osu.ppy.sh/beatmapsets/1666553#mania/3463278)
+  2. [cosMo@BousouP - Sekai no Owari ni Aimashou (MyZterioN-) \[The Last Hour (1.20x) ASC edit\]](https://osu.ppy.sh/beatmapsets/1493728#mania/4713605)
+  3. [meganeko - nano love (Eclipse-) \[^\_^ \[1,05x Rate\]\]](https://osu.ppy.sh/beatmapsets/1726149#mania/3528255)
+  4. [M2U - Second Choice (Hylotl) \[Next-gen\]](https://osu.ppy.sh/beatmapsets/2216862#mania/4698068)
+  5. [7\_7 feat. kasane vavzed - Yakou (TheFunk) \[Deliverance\]](https://osu.ppy.sh/beatmapsets/2222887#mania/4713590)
+  6. [penoreri - Lancelot Flame of the Rebellion (Eclipse-) \[MAXIMUM \[1,1x Rate\]\]](https://osu.ppy.sh/beatmapsets/2222714#mania/4713216)
+- LN
+  1. [Hatsune Miku&Megurine Luka - Magnet (Yana Feiya) \[Attraction\]](https://osu.ppy.sh/beatmapsets/2222963#mania/4713731)
+  2. [SAMString - Celestial Solace (ERA Leon) \[Tranquility 1.0 (ASC edit)\]](https://osu.ppy.sh/beatmapsets/2067012#mania/4713584)
+  3. [TJ.hangneil - Kamui (MyZterioN-) \[Ituren\]](https://osu.ppy.sh/beatmapsets/2222914#mania/4713634)
+- HB
+  1. [Yuta Imai - NOT YOUR IDOL (Muses) \[:3\]](https://osu.ppy.sh/beatmapsets/2222918#mania/4713640)
+  2. [lunaluxe - Electricity (ERA arccat) \[hidden truths.\]](https://osu.ppy.sh/beatmapsets/2222897#mania/4713606)
+  3. [Ashrount - Animus (\[Crz\]FolAH1217) \[Evil\]](https://osu.ppy.sh/beatmapsets/2222896#mania/4713604)
+- SV
+  1. [F Rabbeat feat. mustard - How To Make Game Song! (Claren) \[How To Make SV Map!\]](https://osu.ppy.sh/beatmapsets/2222922#mania/4713649)
+  2. [A-39 & Suna P - Galaxy (feat. Hatsune Miku) (\[GB\]Mafufu) \[Embrace loneliness... [NSV]\]](https://osu.ppy.sh/beatmapsets/2222713#mania/4713210)
+- Tiebreaker
+  1. **[SiLiS & sugosugiii - Keisuteknon (feat. InabaYap) (\[GB\]Rick) \[Journey Amongst Stars\]](https://osu.ppy.sh/beatmapsets/2222935#mania/4713679)**
+
 ### Quarterfinals
 
 - RC
