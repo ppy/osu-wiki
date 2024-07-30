@@ -258,7 +258,6 @@ Sunday, 28 July 2024:
 | duck is bird | 1 | **6** | **we love jacking** | [#1](https://osu.ppy.sh/community/matches/114848289) |
 | Rice Noodles | 3 | **6** | **osake** | [#1](https://osu.ppy.sh/community/matches/114849581) |
 | **how to train your dragon** | **0** | -1 | Dark System | *win by default* |
-| 
 
 ### Round of 16
 
