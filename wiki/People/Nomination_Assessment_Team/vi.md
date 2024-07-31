@@ -98,8 +98,11 @@ Khi một thành viên NAT quyết định rời đi, họ có thể nhận đư
 Cựu thành viên NAT hiện đang có quyền truy cập nội bộ bao gồm:
 
 - ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083)
-- ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342)
+- ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507)
+- ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501)
+- ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882)
 - ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
+- ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 - ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926)
 
 ## Trưởng nhóm NAT
