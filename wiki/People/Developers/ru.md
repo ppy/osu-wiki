@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: ec944a1ed302c881a69df497670c6163e7fe931e
 tags:
   - devs
   - osu!dev
@@ -29,16 +27,21 @@ tags:
 
 - ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377)
 - ::{ flag=SK }:: [Domco](https://osu.ppy.sh/users/3562660)
+- ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502)
 - ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)
 - ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328)
+- ::{ flag=PL }:: [spaceman\_atlas](https://osu.ppy.sh/users/3035836)
+
+### Разработчики инфраструктуры
+
+- ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)
+- ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)
 
 ### Разработчики веб-сайта
 
 - ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883)
 - ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102)
 - ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776)
-- ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)
-- ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)
 
 ### Дизайнеры
 
@@ -46,9 +49,15 @@ tags:
 
 ### Коммьюнити-менеджеры
 
-- ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335)
+- ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
+- ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
+- ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)
+- ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718)
 - ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)
+- ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418)
 - ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328)
+- ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631)
+- ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079)
 
 ### Боты
 
@@ -94,6 +103,7 @@ tags:
 
 | Пользователь | Роль |
 | :-- | :-- |
+| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Коммьюнити-менеджер |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | Разработчик игры |
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | Дизайнер |
 | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Разработчик игры |
