@@ -100,6 +100,31 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 
 ## Mappools
 
+### Quarterfinals
+
+- No Mod
+  1. [-LostFairy- - Gates of Hades (Zileni) \[Zileni & Zonda's Flames of Judgement\]](https://osu.ppy.sh/beatmapsets/2223446#osu/4714874)
+  2. [Nor - OST Theme 207 (Sololiquy) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2223434#osu/4714814)
+  3. [w\_tre - Shannon's Theorem (Dika312) \[no thoughts, head empty (CICO Edit)\]](https://osu.ppy.sh/beatmapsets/2011536#osu/4713818)
+  4. [Akatsuki Records - S.A.R.I.E.L. (Mirash) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/2091456#osu/4385666)
+- Hidden
+  1. [ginkiha - Anemoi (MILK\_16) \[CICO HD 1 QF\]](https://osu.ppy.sh/beatmapsets/2223533#osu/4715071)
+  2. [HOYO-MiX feat. Robin (VO: Chevy) - Sway to My Beat in Cosmos (Zvenx) \[Kalah 50/50 ya kamu?\]](https://osu.ppy.sh/beatmapsets/2223480#osu/4714974)
+  3. [Hoshimachi Suisei - BIBBIDIBA (Amateurre) \[Shooting Star\]](https://osu.ppy.sh/beatmapsets/2158562#osu/4550807)
+- Hard Rock
+  1. [ichigo from KISIDA KYODAN & THE AKEBOSI ROCKETS - STONE OCEAN / Eurobeat Remix (-Hex-) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1943596#osu/4020448)
+  2. [Dirty Androids - Midnight Lady (Spectator) \[Overdose (Edit ver.)\]](https://osu.ppy.sh/beatmapsets/2223472#osu/4714957)
+  3. [pm04034 - sn4pside (bob) \[4 (nerfed)\]](https://osu.ppy.sh/beatmapsets/1933524#osu/3995628)
+- Double Time
+  1. [JVKE - golden hour (-Rustyy) \[iridescent\]](https://osu.ppy.sh/beatmapsets/2223504#osu/4715022)
+  2. [Akane Fujita, Yume Miyamoto, Ari Ozawa - Precious You\* (-Miya) \[Please be with me forever!\]](https://osu.ppy.sh/beatmapsets/2223461#osu/4714933)
+  3. [Avril Lavigne - Sk8er Boi (mynt) \[Insane\]](https://osu.ppy.sh/beatmapsets/1840198#osu/3779532)
+- Easy
+  1. [Harry Styles - As It Was (BIG H ZONDA KIT) \[Lovesick\]](https://osu.ppy.sh/beatmapsets/2223486#osu/4714984)
+  2. [SEATBELTS - Tank! (Monstrata) \[Bang!\]](https://osu.ppy.sh/beatmapsets/801747#osu/1922693)
+- Tiebreaker
+  1. **[TRakker - Countdown to the Blue (-Miya) \[Fly to the Sky with Zonda\]](https://osu.ppy.sh/beatmapsets/2223475#osu/4714962)**
+
 ### Round of 16
 
 - No Mod
@@ -222,7 +247,7 @@ Sunday, 21 July 2024:
 | Upper | **[Nekuro](https://osu.ppy.sh/users/3222638)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=TW }:: [\_Nanami](https://osu.ppy.sh/users/1929450) | [#1](https://osu.ppy.sh/community/matches/114753974) |
 | Upper | **[Happiness Fish](https://osu.ppy.sh/users/4586766)** ::{ flag=TW }:: | **5** | 0 | ::{ flag=TR }:: [lorem ipsum](https://osu.ppy.sh/users/17130789) | [#1](https://osu.ppy.sh/community/matches/114754879) |
 | Upper | [EpanPan](https://osu.ppy.sh/users/13194580) ::{ flag=ID }:: | 4 | **5** | ::{ flag=AU }:: **[KWYJIBO](https://osu.ppy.sh/users/7178386)** | [#1](https://osu.ppy.sh/community/matches/114753693) |
-| Upper | **[shimoe Koharu](https://osu.ppy.sh/users/2145160)** ::{ flag=TW }:: | **5** | 4 | ::{ flag=TW }:: [Nazrin on osu](https://osu.ppy.sh/users/2512267) | [#1](https://osu.ppy.sh/community/matches/114756009) |
+| Upper | **[Shimoe Koharu](https://osu.ppy.sh/users/2145160)** ::{ flag=TW }:: | **5** | 4 | ::{ flag=TW }:: [Nazrin on osu](https://osu.ppy.sh/users/2512267) | [#1](https://osu.ppy.sh/community/matches/114756009) |
 | Upper | **[Minato Yukina](https://osu.ppy.sh/users/4133477)** ::{ flag=TW }:: | **5** | 2 | ::{ flag=RU }:: [Rakety](https://osu.ppy.sh/users/11109479) | [#1](https://osu.ppy.sh/community/matches/114754454) |
 | Upper | [littlepiggod](https://osu.ppy.sh/users/12331683) ::{ flag=HK }:: | 4 | **5** | ::{ flag=HK }:: **[my angel auto](https://osu.ppy.sh/users/29503627)** | [#1](https://osu.ppy.sh/community/matches/114756048) |
 | Upper | **[Chroneko](https://osu.ppy.sh/users/5472877)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=TW }:: [Psc\_IceRain](https://osu.ppy.sh/users/3359485) | [#1](https://osu.ppy.sh/community/matches/114756671) |
