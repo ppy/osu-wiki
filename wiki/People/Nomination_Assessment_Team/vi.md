@@ -1,4 +1,6 @@
 ---
+outdated_since: c4b50fcfc48b6af263e3dfa8b144c7b7122889f0
+outdated_translation: true
 tags:
   - NAT
 ---
@@ -16,7 +18,7 @@ Thành viên của NAT được nhận diện bởi danh hiệu màu đỏ cam, 
 ***Lưu ý: Để báo cáo bất kì thành viên NAT nào cư xử không đúng mực hay không tuân thủ Bộ quy tắc ứng xử, xin vui lòng liên hệ [đội ngũ hỗ trợ tài khoản](/wiki/People/Account_support_team#support@ppy.sh).***
 
 ## Trách nhiệm chung
-  
+
 NAT chịu trách nhiệm về những công việc liên quan đến mapping, chia thành hai bộ phận phụ trách hai mảng: **đánh giá** và **tổ chức**. Mỗi bộ phận đều thực hiện trách nhiệm của một thành viên NAT cũng như là những yêu cầu và tiêu chuẩn cho mỗi công việc trên.
 
 ### Bộ phận đánh giá
@@ -66,7 +68,7 @@ Thành viên NAT được hưởng những lợi ích sau:
 - **[osu!supporter](/wiki/osu!supporter)**: Một thẻ osu!supporter có hiệu lực trong suốt khoảng thời gian làm thành viên của đội ngũ.
 - **Huy hiệu nhiệm kỳ**: Một [huy hiệu hồ sơ](/wiki/Community/Profile_badge) thể hiện số năm họ làm việc ở NAT.
   ![Huy hiệu 1 năm](https://assets.ppy.sh/profile-badges/NAT1y.png "1 year NAT badge") ![Huy hiệu 2 năm](https://assets.ppy.sh/profile-badges/NAT2y.png "2 year NAT badge") ![Huy hiệu 3 năm](https://assets.ppy.sh/profile-badges/NAT3y.png "3 year NAT badge") ![Huy hiệu 4 năm](https://assets.ppy.sh/profile-badges/NAT4y.png "4 year NAT badge") ![Huy hiệu 5 năm](https://assets.ppy.sh/profile-badges/NAT5y.png "5 year NAT badge") ![Huy hiệu 6 năm](https://assets.ppy.sh/profile-badges/NAT6y.png "6 year NAT badge") ![Huy hiệu 7 năm](https://assets.ppy.sh/profile-badges/NAT7y.png "7 year NAT badge") ![Huy hiệu 8 năm](https://assets.ppy.sh/profile-badges/NAT8y.png "8 year NAT badge") ![Huy hiệu 9 năm](https://assets.ppy.sh/profile-badges/NAT9y.png "9 year NAT badge") ![Huy hiệu 10 năm](https://assets.ppy.sh/profile-badges/NAT10y.png "10 year NAT badge")
-- **Huy hiệu [đề cử](/wiki/Beatmap_ranking_procedure#nominations)**: Một huy hiệu hồ sơ được trao sau khi đạt được số đề cử beatmap nhất định. 
+- **Huy hiệu [đề cử](/wiki/Beatmap_ranking_procedure#nominations)**: Một huy hiệu hồ sơ được trao sau khi đạt được số đề cử beatmap nhất định.
   ![Huy hiệu 200 đề cử](https://assets.ppy.sh/profile-badges/noms200.png?2023 "200 nominations badge") ![Huy hiệu 400 đề cử](https://assets.ppy.sh/profile-badges/noms400.png?2023 "400 nominations badge") ![Huy hiệu 600 đề cử](https://assets.ppy.sh/profile-badges/noms600.png?2023 "600 nominations badge") ![Huy hiệu 800 đề cử](https://assets.ppy.sh/profile-badges/noms800.png?2023 "800 nominations badge") ![Huy hiệu 1000 đề cử](https://assets.ppy.sh/profile-badges/noms1000.png?2023 "1000 nominations badge")
 - **Đủ điều kiện trở thành [Đề cử viên Ưu tú](/wiki/People/Elite_Nominators)**: những thành viên NAT làm tốt vai trò đề cử viên của mình sẽ có đủ điều kiện để được trao danh hiệu Đề cử viên Ưu tú kéo dài 1 năm.
 

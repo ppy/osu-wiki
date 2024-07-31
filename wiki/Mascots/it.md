@@ -10,7 +10,7 @@ Un video di YouTube che mostra le mascotte di osu! può essere visto su: [Mascot
 
 ![pippi](img/pippi.png "pippi")
 
-pippi, stilizzata con una "p" minuscola, è la mascotte della modalità di gioco osu! dal 2008-07. È anche conosciuta come pippidon in osu!taiko e appare in [Yandere Simulator](https://yanderesimulator.com) come un NPC. La concept art iniziale è stata creata da [Sarumaru](https://osu.ppy.sh/users/9427), la grafica è stata creata da [crystalsuicune](https://osu.ppy.sh/users/9974), e il disegno attuale è stato progetto da [Daru](https://osu.ppy.sh/users/32480).
+pippi, stilizzata con una "p" minuscola, è la mascotte della modalità di gioco osu! dal 2008-07. È anche conosciuta come pippidon in osu!taiko e appare in [Yandere Simulator](https://yanderesimulator.com) come un NPC. La concept art iniziale è stata creata da ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427), la grafica è stata creata da ::{ flag=HK }:: [crystalsuicune](https://osu.ppy.sh/users/9974), e il disegno attuale è stato progetto da ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480).
 
 ### ![icona osu!catch](/wiki/shared/mode/catch.png) Yuzu
 
@@ -18,7 +18,7 @@ pippi, stilizzata con una "p" minuscola, è la mascotte della modalità di gioco
 
 ![Yuzu](img/Yuzu.png "Yuzu")
 
-Yuzu è la mascotte di osu!catch che si è unita il 22 Giugno 2014. È nata il 10 Aprile 2000, alta 172cm, e pesa 65kg. Il suo disegno attuale è stato creato da [Thievley](https://osu.ppy.sh/users/4717672). Il suo design originale è stato creato da [ztrot](https://osu.ppy.sh/users/6347) e  Daru ha creato il disegno relativo al comboburst.
+Yuzu è la mascotte di osu!catch che si è unita il 22 Giugno 2014. È nata il 10 Aprile 2000, alta 172cm, e pesa 65kg. Il suo disegno attuale è stato creato da ::{ flag=US }:: [Thievley](https://osu.ppy.sh/users/4717672). Il suo design originale è stato creato da ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) e  Daru ha creato il disegno relativo al comboburst.
 
 ### ![icona osu!mania](/wiki/shared/mode/mania.png) Mani & Mari
 
@@ -26,7 +26,7 @@ Yuzu è la mascotte di osu!catch che si è unita il 22 Giugno 2014. È nata il 1
 
 ![Mani & Mari](https://assets.ppy.sh/media/mari-mani/wiki-key-condensed.png "Mani & Mari")
 
-Disegnati da [xiemon](https://osu.ppy.sh/users/5203667) dopo essere stati selezionati nella [Most Manic Art Contest](https://osu.ppy.sh/community/contests/80) e annunciati come le mascotte ufficiali di osu!mania, Mani e Mari sono gemelli che non riescono a sopportarsi a vicenda, ma sono più simili di quanto vorrebbero ammettere.
+Disegnati da ::{ flag=ID }:: [xiemon](https://osu.ppy.sh/users/5203667) dopo essere stati selezionati nella [Most Manic Art Contest](https://osu.ppy.sh/community/contests/80) e annunciati come le mascotte ufficiali di osu!mania, Mani e Mari sono gemelli che non riescono a sopportarsi a vicenda, ma sono più simili di quanto vorrebbero ammettere.
 
 Mani è un po' un ribelle, sempre alla ricerca di nuovi stili e cose da esplorare, mentre sua sorella Mari (precedentemente conosciuta come Maria) è una classica perfezionista, rigida e le piace stare al centro dell'attenzione. Vanno d'accordo come l'olio e l'acqua.
 
@@ -36,7 +36,7 @@ Mani è un po' un ribelle, sempre alla ricerca di nuovi stili e cose da esplorar
 
 ![Mocha](img/Mocha.png "Mocha")
 
-Mocha è la mascotte di osu!taiko. Inizialmente è stata disegnata durante il [sesto concorso di fantart](https://osu.ppy.sh/community/contests/2) da [Crowie](https://osu.ppy.sh/users/6894067), che si è classificato 21esimo.
+Mocha è la mascotte di osu!taiko. Inizialmente è stata disegnata durante il [sesto concorso di fantart](https://osu.ppy.sh/community/contests/2) da ::{ flag=US }:: [Crowie](https://osu.ppy.sh/users/6894067), che si è classificato 21esimo.
 
 ## Camei
 
@@ -48,7 +48,7 @@ Mocha è la mascotte di osu!taiko. Inizialmente è stata disegnata durante il [s
 
 一本木龍太 (Ryūta Ippongi) ha raccolto frutta in osu!catch dal 2008 fino al 2014, dove poi è stato sostituito da [Yuzu](#yuzu). È stato creato dalla [iNiS Corporation](https://en.wikipedia.org/wiki/INiS) e faceva parte del vecchio sito web. Compare anche in [Yandere Simulator](https://yanderesimulator.com) come un NPC.
 
-Ryuuta fa parte della skin di [LuigiHann](https://osu.ppy.sh/users/1079), [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357).
+Ryuuta fa parte della skin di ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079), [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357).
 
 ### Agente J
 
@@ -58,7 +58,7 @@ Ryuuta fa parte della skin di [LuigiHann](https://osu.ppy.sh/users/1079), [Elite
 
 Agente J, conosciuto anche come BA-2 (Beat Agent-2) o J, è stata una delle mascotte di osu! dal 2008 fino al 2014. È stato creato dalla iNiS Corporation e faceva parte del vecchio sito web.
 
-Agente J fa parte della skin di [LuigiHann](https://osu.ppy.sh/users/1079), [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357).
+Agente J fa parte della skin di ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079), [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357).
 
 ### Don
 
@@ -74,28 +74,28 @@ Agente J fa parte della skin di [LuigiHann](https://osu.ppy.sh/users/1079), [Eli
 
 ![Aiko](img/Aiko.png "Aiko")
 
-Disegnata da [JMC](https://osu.ppy.sh/users/774010), Aiko era una delle partecipanti del design contest delle mascotte di osu!taiko. È una ragazza energica con una passione per osu!taiko, anche se non è la migliore! Indossando un paio di "Tabi" eleganti e una serie di accessori di Pippidon, la mascotte del passato vive in questa ragazza piena d'energia. È piuttosto bassa, con soli 154cm di altezza, ed è nata il 6 aprile 1999.
+Disegnata da ::{ flag=ID }:: [JMC](https://osu.ppy.sh/users/774010), Aiko era una delle partecipanti del design contest delle mascotte di osu!taiko. È una ragazza energica con una passione per osu!taiko, anche se non è la migliore! Indossando un paio di "Tabi" eleganti e una serie di accessori di Pippidon, la mascotte del passato vive in questa ragazza piena d'energia. È piuttosto bassa, con soli 154cm di altezza, ed è nata il 6 aprile 1999.
 
 ### Alisa
 
 ![Alisa](img/Alisa.png "Alisa")
 
-Disegnata da [\[ Glitch \]](https://osu.ppy.sh/users/3781400), Alisa era una delle partecipanti del design contest delle mascotte di osu!taiko. Gioca ad osu!taiko fin da bambina. Adora suonare melodie per gli altri e ama la musica. Quando non sta dormendo o mangiando, gioca ad osu!taiko oppure a qualche videogioco retró per divertimento!
+Disegnata da ::{ flag=AE }:: [\[ Glitch \]](https://osu.ppy.sh/users/3781400), Alisa era una delle partecipanti del design contest delle mascotte di osu!taiko. Gioca ad osu!taiko fin da bambina. Adora suonare melodie per gli altri e ama la musica. Quando non sta dormendo o mangiando, gioca ad osu!taiko oppure a qualche videogioco retró per divertimento!
 
 ### Chirou
 
 ![Chirou](img/Chirou.png "Chirou")
 
-Disegnata da [pyun](https://osu.ppy.sh/users/981534), Chirou era una delle partecipanti del design contest delle mascotte di osu!taiko. È molto severa e esigente, una perfezionista che non ama commettere errori soprattutto mentre gioca ad osu!taiko. Ma al di là del suo aspetto severo, se riesci a raggiungere il suo lato dolce, può essere gentile e premurosa. Ha 14 anni, nata il 25 Ottobre, gruppo sanguigno AB. È alta 150cm e pesa 45Kg. I suoi hobby includono esercitarsi a suonare la batteria, stare al caldo con la sua coperta e collezionare gemme o rocce. Chirou è apparsa in diverse fanart create dagli utenti.
+Disegnata da ::{ flag=US }:: [pyun](https://osu.ppy.sh/users/981534), Chirou era una delle partecipanti del design contest delle mascotte di osu!taiko. È molto severa e esigente, una perfezionista che non ama commettere errori soprattutto mentre gioca ad osu!taiko. Ma al di là del suo aspetto severo, se riesci a raggiungere il suo lato dolce, può essere gentile e premurosa. Ha 14 anni, nata il 25 Ottobre, gruppo sanguigno AB. È alta 150cm e pesa 45Kg. I suoi hobby includono esercitarsi a suonare la batteria, stare al caldo con la sua coperta e collezionare gemme o rocce. Chirou è apparsa in diverse fanart create dagli utenti.
 
 ### Taikonator
 
 ![Taikonator](img/Taikonator.png "Taikonator")
 
-Disegnato da [Lemia-Chan](https://osu.ppy.sh/users/8506749), Taikonator, conosciuto anche come Taikonator 3000, era uno dei partecipanti del design contest delle mascotte di osu!taiko. Ha guadagnato popolaritá tramite uno scherzo senza una ragione precisa. Le sue origini rimangono una mistero; nonostante ció per via del suo design molto particolare ha fatto molte apparizioni in svariate fanart create dagli utenti.
+Disegnato da ::{ flag=PL }:: [Lemia-Chan](https://osu.ppy.sh/users/8506749), Taikonator, conosciuto anche come Taikonator 3000, era uno dei partecipanti del design contest delle mascotte di osu!taiko. Ha guadagnato popolaritá tramite uno scherzo senza una ragione precisa. Le sue origini rimangono una mistero; nonostante ció per via del suo design molto particolare ha fatto molte apparizioni in svariate fanart create dagli utenti.
 
 ### Tama
 
 ![Tama](img/Tama.png "Tama")
 
-Disegnata da [crystalsuicine](https://osu.ppy.sh/users/9974), Tama era una delle partecipanti piú giovani del design contest delle mascotte di osu!taiko, avendo solo 15 anni (forse). Ha una grande passione per il taiko e per i temporali. In particolare adora i festival, dove cerca di accaparrarsi piú takoyaki possibile. Sempre pronta per una sfida, Tama nasconde un passato misterioso dietro la sua giovane personalitá.
+Disegnata da ::{ flag=HK }:: [crystalsuicune](https://osu.ppy.sh/users/9974), Tama era una delle partecipanti piú giovani del design contest delle mascotte di osu!taiko, avendo solo 15 anni (forse). Ha una grande passione per il taiko e per i temporali. In particolare adora i festival, dove cerca di accaparrarsi piú takoyaki possibile. Sempre pronta per una sfida, Tama nasconde un passato misterioso dietro la sua giovane personalitá.
