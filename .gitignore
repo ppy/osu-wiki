@@ -12,3 +12,6 @@ node_modules/
 
 # un-ignore vscode extension recommendations
 !/.vscode/extensions.json
+
+# un-ignore vscode workspace settings
+!/.vscode/settings.json
