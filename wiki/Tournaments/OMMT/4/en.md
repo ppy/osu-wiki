@@ -21,7 +21,7 @@ The **osu!mania Malaysia Tournament 4** (***OMMT 4***) is a Malaysian team-based
 | Qualifiers | 2024-07-06/2024-07-07 |
 | Round of 32 | 2024-07-12/2024-07-14 |
 | Round of 16 | 2024-07-16/2024-07-21 |
-| Quarterfinals | 2024-07-27/2024-07-28 |
+| Quarterfinals | 2024-07-26/2024-07-28 |
 | Semifinals | 2024-08-03/2024-08-04 |
 | Finals | 2024-08-10/2024-08-11 |
 | Grand Finals | 2024-08-17/2024-08-18 |
@@ -106,6 +106,33 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 ## Mappools
 
 *Note: Maps with asterisk in its ordering list is considered to be MAD map. It is a twist from the organiser to make certain map unbannable, and in some occasion will force players to use modifier to play along with it. Each stage may have different kind of MAD twist, details are written for each stage.*
+
+### Semifinals
+
+Semifinals' MAD map is **RC5**, the twist is it has to be played with **Random** modifier.
+
+**[Download the mappack here (145 MB)](https://drive.google.com/file/d/1ThPATohDdVNZvvyqRqwOgEDl1DhlMCbh/view?usp=sharing)**
+
+- RC
+  1. [Himeringo - Yuudachi no Ribbon (MyZterioN-) \[long-standing 1.1x (253bpm)\]](https://osu.ppy.sh/beatmapsets/2221690#mania/4710471)
+  2. [linear ring with RNAcid - Gypsophila (Cut Ver.) (Oceanus) \[Farewell (edit)\]](https://osu.ppy.sh/beatmapsets/2222894#mania/4713602)
+  3. [seatrus - ILLEGAL LEGACY (Merian) \[Forbidden\]](https://osu.ppy.sh/beatmapsets/2023466#mania/4214798)
+  4. [Camellia - Towards The Horizon (Onlinee) \[RyuOn's Fantasia(Edit)\]](https://osu.ppy.sh/beatmapsets/2222899#mania/4713609)
+  5. [Camellia - crystallized (Oceanus) \[listen (cut)\]](https://osu.ppy.sh/beatmapsets/2222893#mania/4713601)*
+  6. [Adust Rain - Seven Style (FelixSpade) \[Nanatsu\]](https://osu.ppy.sh/beatmapsets/1837706#mania/3773440)
+- LN
+  1. [C-CLAYS - Fairy Stage (\[HD\]Softer64) \[The World of The Night Echoes. \| OMMT Edit.\]](https://osu.ppy.sh/beatmapsets/2222933#mania/4713676)
+  2. [Helblinde - Heaven's Fall (Polarin) \[erm\]](https://osu.ppy.sh/beatmapsets/2070275#mania/4331841)
+  3. [Feryquitous - Visterhv (Micleak) \[Sentimental Reminiscence (edit)\]](https://osu.ppy.sh/beatmapsets/2032813#mania/4237471)
+- HB
+  1. [Yuta Imai Vs. BEMANI Sound Team "L.E.D.-G" - THE PEERLESS UNDER HEAVEN (stupud man) \[DIVINE PUNISHMENT\]](https://osu.ppy.sh/beatmapsets/1849062#mania/3798338)
+  2. [Kyuushoku Touban - Deception (YuEast 2018) \[x1.10\]](https://osu.ppy.sh/beatmapsets/1999921#mania/4334982)
+  3. [Camellia - flying in the flow of deep-sea (Onlinee) \[Sm7sh's In search of the light of the deep sea (cut)\]](https://osu.ppy.sh/beatmapsets/2222900#mania/4713610)
+- SV
+  1. [C-CLAYS - Fairy Stage (Orca-) \[The World of The Night Echoes. \| OMMT Edit.\]](https://osu.ppy.sh/beatmapsets/1631662#mania/3330695)
+  2. [guna - Yukidsuki-yashou (\[Crz\]xz1z1z) \[SV\]](https://osu.ppy.sh/beatmapsets/2206241#mania/4671101)
+- Tiebreaker
+  1. **[aa...hisuichazuke... - steganography (Oceanus) \[Stardust\]](https://osu.ppy.sh/beatmapsets/1863297#mania/3831533)**
 
 ### Quarterfinals
 
@@ -201,6 +228,36 @@ Round of 32's MAD map is **RC3**, the twist is it has to be played with **HardRo
   1. [awfuless meets Zekk - MATOI -phase L- (\[Andre\]) \[Stage 5: Kamui Senketsu\]](https://osu.ppy.sh/beatmapsets/2206995#mania/4673206)
 
 ## Match results
+
+### Quarterfinals
+
+Friday, 26 July 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Gon and LongGone** | **6** | 0 | Yo, What Team Name | [#1](https://osu.ppy.sh/community/matches/114821469) |
+
+Saturday, 27 July 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Digital Frogs | 3 | **6** | **Overjoyed** | [#1](https://osu.ppy.sh/community/matches/114829350) |
+| **we love jacking** | **0** | -1 | tidur | *win by default* |
+| Upscroll Gang | -1 | **0** | **Appley Leafy** | *win by default* |
+| **leon's waifuus!!** | **6** | 1 | Epic Cat | [#1](https://osu.ppy.sh/community/matches/114834758) |
+
+Sunday, 28 July 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **duck is bird** | **6** | 1 | Team ferrets | [#1](https://osu.ppy.sh/community/matches/114835483) |
+| i like cookie | 0 | **6** | **how to train your dragon** | [#1](https://osu.ppy.sh/community/matches/114835540) |
+| **RealNoFake** | **6** | 0 | Almost disabled | [#1](https://osu.ppy.sh/community/matches/114835567) |
+| Appley Leafy | -1 | **0** | **RealNoFake** | *win by default* |
+| **Re:Zuna** | **0** | -1 | Alpha Dan Virgins | *win by default* |
+| duck is bird | 1 | **6** | **we love jacking** | [#1](https://osu.ppy.sh/community/matches/114848289) |
+| Rice Noodles | 3 | **6** | **osake** | [#1](https://osu.ppy.sh/community/matches/114849581) |
+| **how to train your dragon** | **0** | -1 | Dark System | *win by default* |
 
 ### Round of 16
 
