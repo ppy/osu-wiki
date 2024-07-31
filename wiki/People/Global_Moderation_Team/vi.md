@@ -75,11 +75,118 @@ Khi một Kiểm duyệt viên quyết định rời khỏi đội ngũ, họ c�
 
 | Tên | Các ngôn ngữ khác | Mảng phụ trách chính |
 | :-- | :-- | :-- |
+| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | Tiếng Trung, Tiếng Mã Lai, Tiếng Quảng Đông, một chút Tiếng Nhật | Kiểm duyệt mảng mapping/modding |
+| ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | Tiếng Đức | Kiểm duyệt chat |
+| ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Tiếng Nga | Kiểm duyệt chat |
+| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Tiếng Serbia | Kiểm duyệt chung |
+| ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Kiểm duyệt diễn đàn |
+| ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | Tiếng Hà Lan, một chút Tiếng Đức | Kiểm duyệt chung |
+| ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Quản lý giải đấu[^task-Azer] |
+| ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | Tiếng Trung, Tiếng Mã Lai | Kiểm duyệt chat |
+| ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  | Kiểm duyệt chat, kiểm duyệt diễn đàn |
+| ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Tiếng Thụy Điển, Tiếng Tây Ban Nha | Kiểm duyệt chat, quản lý giải đấu |
+| ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  | Kiểm duyệt chat |
+| ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | Tiếng Hàn, Tiếng Nhật | Kiểm duyệt chat |
+| ::{ flag=FR }:: [Corne2Plum3](https://osu.ppy.sh/users/15646039) | Tiếng Pháp | Kiểm duyệt diễn đàn |
+| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | Một chút Tiếng Tây Ban Nha | Quản lý giải đấu |
+| ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | Tiếng Tây Ban Nha | Kiểm duyệt chat |
+| ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | Kiểm duyệt diễn đàn, hỗ trợ kỹ thuật |
+| ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Hỗ trợ kỹ thuật |
+| ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | Tiếng Bồ Đào Nha, Tiếng Nhật | Kiểm duyệt chat |
+| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | Hỗ trợ người chơi, quản lý wiki |
+| ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | Tiếng Phần Lan, một chút Tiếng Thụy Điển | Kiểm duyệt chat |
+| ::{ flag=CN }:: [Fycho](https://osu.ppy.sh/users/1876867) | Tiếng Trung | Kiểm duyệt chat, kiểm duyệt mảng mapping/modding |
+| ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | Tiếng Ba Lan | Kiểm duyệt chat |
+| ::{ flag=FR }:: [Ganondorf](https://osu.ppy.sh/users/10660738) | Tiếng Pháp | Kiểm duyệt chat |
+| ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Kiểm duyệt mảng mapping/modding |
+| ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Tiếng Indonesia | Kiểm duyệt mảng mapping/modding |
+| ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | Tiếng Pháp, Tiếng Tây Ban Nha | Kiểm duyệt chat |
+| ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | Tiếng Quảng Đông, Tiếng Trung, Tiếng Nhật | Kiểm duyệt chat |
+| ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | Tiếng Nga | Kiểm duyệt chat, kiểm duyệt diễn đàn |
+| ::{ flag=JP }:: [KSHR](https://osu.ppy.sh/users/409957) | Tiếng Nhật | Kiểm duyệt chat |
+| ::{ flag=RU }:: [Kudou Chitose](https://osu.ppy.sh/users/9936528) | Tiếng Nga | Kiểm duyệt chat |
+| ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) | Tiếng Phần Lan, một chút Tiếng Thụy Điển | Kiểm duyệt chat |
+| ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Tiếng Bồ Đào Nha, Tiếng Tây Ban Nha | Kiểm duyệt chat, quản lý giải đấu |
+| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Tiếng Đức | Kiểm duyệt mảng mapping/modding |
+| ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | Tiếng Đức | Kiểm duyệt chat, kiểm duyệt diễn đàn |
+| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Tiếng Quảng Đông, Tiếng Trung | [^task-mangomizer] |
+| ::{ flag=BR }:: [maot](https://osu.ppy.sh/users/3914271) | Tiếng Bồ Đào Nha | Kiểm duyệt mảng mapping/modding |
+| ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu!dev |
+| ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597) | Tiếng Việt | Kiểm duyệt chat |
+| ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Tiếng Philippines | Kiểm duyệt chat, kiểm duyệt diễn đàn, hỗ trợ kỹ thuật |
+| ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  | Kiểm duyệt mảng mapping/modding |
+| ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | Tiếng Indonesia | Kiểm duyệt chat |
+| ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | Tiếng Pháp | Kiểm duyệt chat |
+| ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Tiếng Đức, Tiếng Serbia | Kiểm duyệt chat, kiểm duyệt mảng mapping/modding |
+| ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Đại diện chính thức |
+| ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Tiếng Đức | Quản lý giải đấu |
+| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Tiếng Quảng Đông, Tiếng Trung | Kiểm duyệt chung |
+| ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | Tiếng Hàn, Tiếng Nhật | Kiểm duyệt chat |
+| ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | Tiếng Mã Lai | Kiểm duyệt chat |
+| ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | Tiếng Ba Lan | Kiểm duyệt mảng skinning |
+| ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | Tiếng Tây Ban Nha | Kiểm duyệt chat |
+| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Tiếng Hà Lan, Tiếng Nhật | Kiểm duyệt mảng skinning |
+| ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Tiếng Đức | Kiểm duyệt mảng skinning, kiểm duyệt diễn đàn |
+| ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069) | Tiếng Hàn | Kiểm duyệt chat |
+| ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772) | Tiếng Nhật | Kiểm duyệt chat |
+| ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | Tiếng Thụy Điển, Tiếng Tây Ban Nha | Kiểm duyệt chat |
+| ::{ flag=CA }:: [Shad0wStar](https://osu.ppy.sh/users/16866460) |  | Kiểm duyệt mảng mapping/modding |
+| ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Tiếng Pháp, Tiếng Tây Ban Nha | Kiểm duyệt chat |
+| ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | Tiếng Indonesia | Kiểm duyệt chat |
+| ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | Tiếng Indonesia, một chút Tiếng Việt | Kiểm duyệt chat, kiểm duyệt diễn đàn |
+| ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | Tiếng Trung | Kiểm duyệt chat |
+| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | Tiếng Hàn | Kiểm duyệt mảng mapping/modding |
+| ::{ flag=HU }:: [Spkz](https://osu.ppy.sh/users/2964029) | Tiếng Hungary | Kiểm duyệt chat |
+| ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | Tiếng Đức, Tiếng Serbia | Kiểm duyệt diễn đàn |
+| ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | Tiếng Phần Lan | Kiểm duyệt chat |
+| ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | Kiểm duyệt diễn đàn, kiểm duyệt chat |
+| ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | Tiếng Nga | Kiểm duyệt chat, quản lý wiki |
+| ::{ flag=JP }:: [TKS](https://osu.ppy.sh/users/940878) | Tiếng Nhật | Kiểm duyệt mảng mapping/modding |
+| ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236) | Tiếng Hàn, Tiếng Nhật, Tiếng Philippines | Kiểm duyệt chat |
+| ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) | Tiếng Philippines | Kiểm duyệt chat |
+| ::{ flag=TH }:: [Trigonoculus](https://osu.ppy.sh/users/7627013) | Tiếng Thái | Kiểm duyệt chat |
+| ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Tiếng Tây Ban Nha | Hỗ trợ kỹ thuật |
+| ::{ flag=NL }:: [Uni](https://osu.ppy.sh/users/617106) | Tiếng Hà Lan | Kiểm duyệt chat |
+| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Tiếng Ba Lan | Trưởng nhóm, kiểm duyệt chat, kiểm duyệt mảng mapping/modding |
+| ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) | Tiếng Indonesia | Kiểm duyệt chat |
+| ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | Tiếng Ba Lan | Kiểm duyệt chat |
+| ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | Kiểm duyệt chat |
+| ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | Tiếng Tây Ban Nha | Kiểm duyệt mảng mapping/modding |
 
 ### Sắp xếp theo ngôn ngữ
 
 | Kênh chat | Diễn đàn | Kiểm duyệt viên |
 | :-- | :-- | :-- |
+| `#arabic` |  |  |
+| `#balkan` | [Balkan](https://osu.ppy.sh/community/forums/topics/83962) | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) |
+| `#bulgarian` |  |  |
+| `#cantonese` |  | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) |
+| `#chinese` | [中文](https://osu.ppy.sh/community/forums/25) | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419), ::{ flag=CN }:: [Fycho](https://osu.ppy.sh/users/1876867), ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) |
+| `#czechoslovak` |  |  |
+| `#dutch` | [Nederlands](https://osu.ppy.sh/community/forums/69) | ::{ flag=NL }:: [Uni](https://osu.ppy.sh/users/617106) |
+| `#english` |  | *Tất cả kiểm duyệt viên* |
+| `#filipino` | [Tagalog](https://osu.ppy.sh/community/forums/76) | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236), ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) |
+| `#finnish` | [Suomi](https://osu.ppy.sh/community/forums/24) | ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507),  ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731),  ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) |
+| `#french` | [Français](https://osu.ppy.sh/community/forums/34) | ::{ flag=FR }:: [Ganondorf](https://osu.ppy.sh/users/10660738), ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837), ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981), ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) |
+| `#german` | [Deutsch](https://osu.ppy.sh/community/forums/37) | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985), ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253), ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) |
+| `#greek` |  |  |
+| `#hebrew` |  |  |
+| `#hungarian` | [Magyar](https://osu.ppy.sh/community/forums/95) | ::{ flag=HU }:: [Spkz](https://osu.ppy.sh/users/2964029) |
+| `#indonesian` | [Indonesian](https://osu.ppy.sh/community/forums/73) | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991), ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) |
+| `#italian` | [Italiano](https://osu.ppy.sh/community/forums/36) |  |
+| `#japanese` | [日本語](https://osu.ppy.sh/community/forums/32) | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107), ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109), ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=JP }:: [KSHR](https://osu.ppy.sh/users/409957), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236) |
+| `#korean` | [한국어](https://osu.ppy.sh/community/forums/58) | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236) |
+| `#malaysian` | [Malaysian](https://osu.ppy.sh/community/forums/94) | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419), ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) |
+| `#polish` | [Polski](https://osu.ppy.sh/community/forums/26) | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570), ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631), ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) |
+| `#portuguese` | [Português](https://osu.ppy.sh/community/forums/74) | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109), ::{ flag=BR }:: [Nukrid](https://osu.ppy.sh/users/2307484) |
+| `#romanian` |  |  |
+| `#russian` | [Русский](https://osu.ppy.sh/community/forums/35) | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467), ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533), ::{ flag=RU }:: [Kudou Chitose](https://osu.ppy.sh/users/9936528), ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) |
+| `#skandinavian` | [Skandinavien](https://osu.ppy.sh/community/forums/77) | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) |
+| `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) |
+| `#thai` | [ภาษาไทย](https://osu.ppy.sh/community/forums/54) | ::{ flag=TH }:: [Trigonoculus](https://osu.ppy.sh/users/7627013) |
+| `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) |  |
+| `#ukrainian` |  |  |
+| `#vietnamese` |  | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) |
 
 ## Ghi chú
 
