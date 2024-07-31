@@ -60,6 +60,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | NAT |
 | ::{ flag=MX }:: [DakeDekaane](https://osu.ppy.sh/users/1425253) | BAT, QAT |
 | ::{ flag=CA }:: [Dakeyrus](https://osu.ppy.sh/users/10441) | GMT |
+| ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377) | osu!dev |
 | ::{ flag=DE }:: [Dangaard](https://osu.ppy.sh/users/19488) | BAT |
 | ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) | osu!dev |
 | ::{ flag=SE }:: [Davvy](https://osu.ppy.sh/users/10047413) | GMT |
@@ -136,7 +137,8 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ::{ flag=FR }:: [Krah](https://osu.ppy.sh/users/1436748) | BAT, GMT, QAT |
 | ::{ flag=CL }:: [Krisom](https://osu.ppy.sh/users/99269) | BAT |
 | ::{ flag=KR }:: [KRZY](https://osu.ppy.sh/users/114017) | Chat Moderator |
-| ::{ flag=FR }:: [Kurai](https://osu.ppy.sh/users/77089) | BAT, Chat Moderator, GMT, QAT |
+| ::{ flag=JP }:: [KSHR](https://osu.ppy.sh/users/409957) | BAT, Chat Moderator, GMT, QAT |
+| ::{ flag=FR }:: [Kurai](https://osu.ppy.sh/users/77089) | BAT, Chat Moderator, GMT, MAT, QAT |
 | ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) | QAT |
 | ::{ flag=CL }:: [Kylecito](https://osu.ppy.sh/users/488) | BAT |
 | ::{ flag=CA }:: [Kytoxid](https://osu.ppy.sh/users/98460) | BAT |
@@ -209,6 +211,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | NAT |
 | ::{ flag=ES }:: [Raiden](https://osu.ppy.sh/users/2239480) | GMT, QAT |
 | ::{ flag=GB }:: [RandomJibberish](https://osu.ppy.sh/users/157879) | BAT |
+| ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu!dev |
 | ::{ flag=US }:: [RemmyX25](https://osu.ppy.sh/users/612) | BAT |
 | ::{ flag=RU }:: [riffy](https://osu.ppy.sh/users/597957) | BAT, GMT, QAT |
 | ::{ flag=US }:: [Roddie](https://osu.ppy.sh/users/121337) | BAT |
