@@ -103,51 +103,51 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 ### Quarterfinals
 
 - No Mod
-  1. [-LostFairy- - Gates of Hades (Zileni) \[Zileni & Zonda's Flames of Judgement\]](https://osu.ppy.sh/beatmapsets/2223446#osu/4714874)
-  2. [Nor - OST Theme 207 (Sololiquy) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2223434#osu/4714814)
-  3. [w\_tre - Shannon's Theorem (Dika312) \[no thoughts, head empty (CICO Edit)\]](https://osu.ppy.sh/beatmapsets/2011536#osu/4713818)
-  4. [Akatsuki Records - S.A.R.I.E.L. (Mirash) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/2091456#osu/4385666)
+  1. [-LostFairy- - Gates of Hades (Zileni) \[Zileni & Zonda's Flames of Judgement\]](https://osu.ppy.sh/beatmapsets/2223446#fruits/4714874)
+  2. [Nor - OST Theme 207 (Sololiquy) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2223434#fruits/4714814)
+  3. [w\_tre - Shannon's Theorem (Dika312) \[no thoughts, head empty (CICO Edit)\]](https://osu.ppy.sh/beatmapsets/2011536#fruits/4713818)
+  4. [Akatsuki Records - S.A.R.I.E.L. (Mirash) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/2091456#fruits/4385666)
 - Hidden
-  1. [ginkiha - Anemoi (MILK\_16) \[CICO HD 1 QF\]](https://osu.ppy.sh/beatmapsets/2223533#osu/4715071)
-  2. [HOYO-MiX feat. Robin (VO: Chevy) - Sway to My Beat in Cosmos (Zvenx) \[Kalah 50/50 ya kamu?\]](https://osu.ppy.sh/beatmapsets/2223480#osu/4714974)
-  3. [Hoshimachi Suisei - BIBBIDIBA (Amateurre) \[Shooting Star\]](https://osu.ppy.sh/beatmapsets/2158562#osu/4550807)
+  1. [ginkiha - Anemoi (MILK\_16) \[CICO HD 1 QF\]](https://osu.ppy.sh/beatmapsets/2223533#fruits/4715071)
+  2. [HOYO-MiX feat. Robin (VO: Chevy) - Sway to My Beat in Cosmos (Zvenx) \[Kalah 50/50 ya kamu?\]](https://osu.ppy.sh/beatmapsets/2223480#fruits/4714974)
+  3. [Hoshimachi Suisei - BIBBIDIBA (Amateurre) \[Shooting Star\]](https://osu.ppy.sh/beatmapsets/2158562#fruits/4550807)
 - Hard Rock
-  1. [ichigo from KISIDA KYODAN & THE AKEBOSI ROCKETS - STONE OCEAN / Eurobeat Remix (-Hex-) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1943596#osu/4020448)
-  2. [Dirty Androids - Midnight Lady (Spectator) \[Overdose (Edit ver.)\]](https://osu.ppy.sh/beatmapsets/2223472#osu/4714957)
-  3. [pm04034 - sn4pside (bob) \[4 (nerfed)\]](https://osu.ppy.sh/beatmapsets/1933524#osu/3995628)
+  1. [ichigo from KISIDA KYODAN & THE AKEBOSI ROCKETS - STONE OCEAN / Eurobeat Remix (-Hex-) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1943596#fruits/4020448)
+  2. [Dirty Androids - Midnight Lady (Spectator) \[Overdose (Edit ver.)\]](https://osu.ppy.sh/beatmapsets/2223472#fruits/4714957)
+  3. [pm04034 - sn4pside (bob) \[4 (nerfed)\]](https://osu.ppy.sh/beatmapsets/1933524#fruits/3995628)
 - Double Time
-  1. [JVKE - golden hour (-Rustyy) \[iridescent\]](https://osu.ppy.sh/beatmapsets/2223504#osu/4715022)
-  2. [Akane Fujita, Yume Miyamoto, Ari Ozawa - Precious You\* (-Miya) \[Please be with me forever!\]](https://osu.ppy.sh/beatmapsets/2223461#osu/4714933)
-  3. [Avril Lavigne - Sk8er Boi (mynt) \[Insane\]](https://osu.ppy.sh/beatmapsets/1840198#osu/3779532)
+  1. [JVKE - golden hour (-Rustyy) \[iridescent\]](https://osu.ppy.sh/beatmapsets/2223504#fruits/4715022)
+  2. [Akane Fujita, Yume Miyamoto, Ari Ozawa - Precious You\* (-Miya) \[Please be with me forever!\]](https://osu.ppy.sh/beatmapsets/2223461#fruits/4714933)
+  3. [Avril Lavigne - Sk8er Boi (mynt) \[Insane\]](https://osu.ppy.sh/beatmapsets/1840198#fruits/3779532)
 - Easy
-  1. [Harry Styles - As It Was (BIG H ZONDA KIT) \[Lovesick\]](https://osu.ppy.sh/beatmapsets/2223486#osu/4714984)
-  2. [SEATBELTS - Tank! (Monstrata) \[Bang!\]](https://osu.ppy.sh/beatmapsets/801747#osu/1922693)
+  1. [Harry Styles - As It Was (BIG H ZONDA KIT) \[Lovesick\]](https://osu.ppy.sh/beatmapsets/2223486#fruits/4714984)
+  2. [SEATBELTS - Tank! (Monstrata) \[Bang!\]](https://osu.ppy.sh/beatmapsets/801747#fruits/1922693)
 - Tiebreaker
-  1. **[TRakker - Countdown to the Blue (-Miya) \[Fly to the Sky with Zonda\]](https://osu.ppy.sh/beatmapsets/2223475#osu/4714962)**
+  1. **[TRakker - Countdown to the Blue (-Miya) \[Fly to the Sky with Zonda\]](https://osu.ppy.sh/beatmapsets/2223475#fruits/4714962)**
 
 ### Round of 16
 
 - No Mod
-  1. [Hyadain - Hyadain's Jojo Yujo (-Hex-) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2219094#osu/4703760)
-  2. [DOT96 - MAKE IT FUNKY NOW (Cipse) \[FUNKY jef\]](https://osu.ppy.sh/beatmapsets/2154994#osu/4541955)
-  3. [Pegboard Nerds - Try This (Des9) \[Shocking Wave\]](https://osu.ppy.sh/beatmapsets/2219177#osu/4703906)
-  4. [Reol,nqrse - Ooedo Ranvu (zhu) \[Expert\]](https://osu.ppy.sh/beatmapsets/703580#osu/1572141)
+  1. [Hyadain - Hyadain's Jojo Yujo (-Hex-) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2219094#fruits/4703760)
+  2. [DOT96 - MAKE IT FUNKY NOW (Cipse) \[FUNKY jef\]](https://osu.ppy.sh/beatmapsets/2154994#fruits/4541955)
+  3. [Pegboard Nerds - Try This (Des9) \[Shocking Wave\]](https://osu.ppy.sh/beatmapsets/2219177#fruits/4703906)
+  4. [Reol,nqrse - Ooedo Ranvu (zhu) \[Expert\]](https://osu.ppy.sh/beatmapsets/703580#fruits/1572141)
 - Hidden
-  1. [QUEEN BEE - Mephisto (-Miya) \[CICO 2024 RO16 HD1\]](https://osu.ppy.sh/beatmapsets/2219188#osu/4703924)
-  2. [YurryCanon feat. RIME - Despair (Yoshi_green) \[De-De-De-De-De-Despair\]](https://osu.ppy.sh/beatmapsets/1951698#osu/4041414)
-  3. [rei sirose - Lost Umbrella (SMOKELIND) \[FuJu's Insane\]](https://osu.ppy.sh/beatmapsets/1340777#osu/2828726)
+  1. [QUEEN BEE - Mephisto (-Miya) \[CICO 2024 RO16 HD1\]](https://osu.ppy.sh/beatmapsets/2219188#fruits/4703924)
+  2. [YurryCanon feat. RIME - Despair (Yoshi_green) \[De-De-De-De-De-Despair\]](https://osu.ppy.sh/beatmapsets/1951698#fruits/4041414)
+  3. [rei sirose - Lost Umbrella (SMOKELIND) \[FuJu's Insane\]](https://osu.ppy.sh/beatmapsets/1340777#fruits/2828726)
 - Hard Rock
-  1. [TAMAONSEN - Saigetsu (Midnight Moon Walker Remix) (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/724793#osu/1530447)
-  2. [Polyphia - Playing God (Mochi -) \[Egg's Rain\]](https://osu.ppy.sh/beatmapsets/2085333#osu/4462907)
-  3. [LV.4 - Burning Star (silly catgirl) \[Another\]](https://osu.ppy.sh/beatmapsets/2141220#osu/4506765)
+  1. [TAMAONSEN - Saigetsu (Midnight Moon Walker Remix) (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/724793#fruits/1530447)
+  2. [Polyphia - Playing God (Mochi -) \[Egg's Rain\]](https://osu.ppy.sh/beatmapsets/2085333#fruits/4462907)
+  3. [LV.4 - Burning Star (silly catgirl) \[Another\]](https://osu.ppy.sh/beatmapsets/2141220#fruits/4506765)
 - Double Time
-  1. [Rameses B - Mountains (feat. Veela) (Dapulezatos) \[Is It Worth It?\]](https://osu.ppy.sh/beatmapsets/1809578#osu/3711550)
-  2. [IU feat. Seulong - Nagging (Madoka Ayukawa) \[Persistent\]](https://osu.ppy.sh/beatmapsets/2219115#osu/4703806)
-  3. [Demetori - Strawberry Crisis!! (jonathanlfj) \[Halfslashed's Lunatic\]](https://osu.ppy.sh/beatmapsets/1833730#osu/3764531)
+  1. [Rameses B - Mountains (feat. Veela) (Dapulezatos) \[Is It Worth It?\]](https://osu.ppy.sh/beatmapsets/1809578#fruits/3711550)
+  2. [IU feat. Seulong - Nagging (Madoka Ayukawa) \[Persistent\]](https://osu.ppy.sh/beatmapsets/2219115#fruits/4703806)
+  3. [Demetori - Strawberry Crisis!! (jonathanlfj) \[Halfslashed's Lunatic\]](https://osu.ppy.sh/beatmapsets/1833730#fruits/3764531)
 - Easy
-  1. [otetsu - Minamo no Sakura, Yume wa Sakayume (Riven) \[NiNo's Extra\]](https://osu.ppy.sh/beatmapsets/385248#osu/1053233)
+  1. [otetsu - Minamo no Sakura, Yume wa Sakayume (Riven) \[NiNo's Extra\]](https://osu.ppy.sh/beatmapsets/385248#fruits/1053233)
 - Tiebreaker
-  1. **[Diao Ye Zong feat. Meramipop - Saifu 'Kamiasobi no Uta' (Morusya) \[Frog\]](https://osu.ppy.sh/beatmapsets/2218881#osu/4703316)**
+  1. **[Diao Ye Zong feat. Meramipop - Saifu 'Kamiasobi no Uta' (Morusya) \[Frog\]](https://osu.ppy.sh/beatmapsets/2218881#fruits/4703316)**
 
 ### Round of 32
 
