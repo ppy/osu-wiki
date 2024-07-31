@@ -1,17 +1,17 @@
 ---
-outdated_translation: true
-outdated_since: ec944a1ed302c881a69df497670c6163e7fe931e
 tags:
   - devs
   - osu!dev
   - osu!devs
   - osu! dev
   - osu! devs
+  - desarrolladores
+  - desarrolladores de osu!
 ---
 
 # Desarrolladores
 
-Los desarrolladores de osu! mantienen el juego y el sitio web funcionando corrigiendo errores y agregando nuevas funcionalidades. La mayoría de ellos son empleados de ppy Pty Ltd, la empresa propietaria de osu!. Forman la mayor parte del [osu! team](/wiki/People/osu!_team).
+Los desarrolladores de osu! mantienen el juego y el sitio web funcionando corrigiendo errores y añadiendo nuevas funcionalidades. La mayoría de ellos son empleados de ppy Pty Ltd, la empresa propietaria de osu!. Forman la mayor parte del [osu! team](/wiki/People/osu!_team).
 
 Los desarrolladores de osu! se pueden reconocer por sus títulos de usuario rosados «osu!dev» u «osu!team», y su insignia de [grupo de usuarios](/wiki/People/User_group) que dice `DEV`.
 
@@ -19,32 +19,43 @@ Los desarrolladores de osu! se pueden reconocer por sus títulos de usuario rosa
 
 La [página del grupo Developers](https://osu.ppy.sh/groups/11) enumera todos los miembros del equipo.
 
-El esfuerzo de desarrollo de osu! está liderado por ::{ flag=AU }:: **[peppy](https://osu.ppy.sh/users/2)**, el creador de osu!.
+El desarrollo de osu! está liderado por ::{ flag=AU }:: **[peppy](https://osu.ppy.sh/users/2)**, el creador de osu!.
 
 ### Desarrolladores del cliente del juego
 
 - ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377)
 - ::{ flag=SK }:: [Domco](https://osu.ppy.sh/users/3562660)
+- ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502)
 - ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)
 - ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328)
+- ::{ flag=PL }:: [spaceman\_atlas](https://osu.ppy.sh/users/3035836)
+
+### Desarrolladores de la infraestructura
+
+- ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)
+- ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)
 
 ### Desarrolladores del sitio web
 
 - ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883)
 - ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102)
 - ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776)
-- ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)
-- ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)
 
 ### Diseñadores
 
 - ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765)
 
-### Gerente de la comunidad
+### Gerentes de la comunidad
 
-- ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335)
+- ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
+- ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
+- ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)
+- ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718)
 - ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)
+- ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418)
 - ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328)
+- ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631)
+- ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079)
 
 ### Cuentas bot
 
@@ -86,10 +97,11 @@ Actualmente, los principales proyectos de osu! están alojados en GitHub y está
 
 ## Contribuidores retirados
 
-A continuación se enumeran los usuarios que abandonaron el esfuerzo de desarrollo en curso y siguieron adelante.
+A continuación se enumeran los usuarios que abandonaron el desarrollo en curso y siguieron adelante.
 
 | Usuario | Rol |
 | :-- | :-- |
+| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Gerente de la comunidad |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | Desarrollador del cliente del juego |
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | Diseñador |
 | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Desarrollador del cliente del juego |
