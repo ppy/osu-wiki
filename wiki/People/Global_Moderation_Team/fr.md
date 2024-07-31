@@ -1,7 +1,5 @@
 ---
-no_native_review: true
-outdated_since: c4b50fcfc48b6af263e3dfa8b144c7b7122889f0
-outdated_translation: true
+no_native_review_since: 8ad5d07abb60afb005417de9dd9ee4653daf6ae0 Doryan
 tags:
   - GMT
   - moderator
@@ -75,6 +73,8 @@ Lorsqu'un Global Moderator décide de quitter l'équipe, il peut se voir accorde
 *Remarque : Tous les membres de la GMT parlent l'anglais en plus des langues énumérées ci-dessous, sauf indication contraire.*
 
 [La page de groupe Global Moderation Team](https://osu.ppy.sh/groups/4) liste tous les membres de l'équipe. En plus des domaines mentionnés ci-dessous, tous les membres de la GMT participent à [l'examen du contenu visuel et sonore inclus dans les beatmaps](/wiki/Rules/Visual_content_considerations#faire-évaluer-votre-image).
+
+**Un membre de la GMT peut s'engager dans n'importe quelle tâche au sein de n'importe quelle catégorie qu'il choisit, indépendamment de son domaine de prédilection** Par exemple, un membre de la GMT principalement responsable de la modération du tchat peut également aider à la modération du forum.
 
 | Nom | Langues additionnelles | Domaine d'intervention |
 | :-- | :-- | :-- |

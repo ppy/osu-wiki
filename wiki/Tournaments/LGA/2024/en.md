@@ -19,7 +19,7 @@ The **Lazer Grand Arena** (***LGA***) is an osu!(lazer) tournament hosted by the
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2024-06-18 (10:00 UTC)/2024-07-01 (23:59 UTC) |
-| Qualifier and tournament format showcase | 2024-07-07 (17:00 UTC) |
+| Qualifier and tournament format showcase | 2024-07-06 (17:00 UTC) |
 | Qualifier stage | 2024-07-13/2024-07-14 |
 | Bracket stage (single elimination) | 2024-07-20/2024-07-21 |
 | Top 8 (single elimination)/top 4 (double elimination) | 2024-07-27/2024-07-28 |
@@ -30,9 +30,9 @@ The minimum prize pool will be revealed after the Qualifier stage.
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, %50 of the prize pool, *more prizes TBA* |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | %30 of the prize pool, *more prizes TBA* |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | %20 of the prize pool, *more prizes TBA* |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, 50% of the prize pool |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool |
 
 ## Organisation
 
@@ -50,13 +50,202 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 
 ## Links
 
+- [Information spreadsheet](https://docs.google.com/spreadsheets/d/1dc3O3hHW-pPBh8j316iUkCjcVLBF-P4rckhsbFu3jmk)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1936749)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/45)
 
 ## Participants
 
+|  | Country | Username |
+| :-: | :-: | :-- |
+| ::{ flag=RS }:: | **Serbia** | [-Petar](https://osu.ppy.sh/users/9106690) |
+| ::{ flag=NZ }:: | **New Zealand** | [2oomer](https://osu.ppy.sh/users/11141578) |
+| ::{ flag=ES }:: | **Spain** | [A N T O N I O](https://osu.ppy.sh/users/12760743) |
+| ::{ flag=AU }:: | **Australia** | [aknzx](https://osu.ppy.sh/users/9938943) |
+| ::{ flag=FI }:: | **Finland** | [AllyrD](https://osu.ppy.sh/users/9561644) |
+| ::{ flag=KR }:: | **South Korea** | [Amamya Kokoro](https://osu.ppy.sh/users/2511839) |
+| ::{ flag=FI }:: | **Finland** | [Amasetic](https://osu.ppy.sh/users/11375251) |
+| ::{ flag=US }:: | **United States** | [ampy](https://osu.ppy.sh/users/4458239) |
+| ::{ flag=FR }:: | **France** | [Arakii](https://osu.ppy.sh/users/6133101) |
+| ::{ flag=RU }:: | **Russian Federation** | [arqx](https://osu.ppy.sh/users/2569683) |
+| ::{ flag=PH }:: | **Philippines** | [enri](https://osu.ppy.sh/users/8640970) |
+| ::{ flag=KR }:: | **South Korea** | [FlyingTuna](https://osu.ppy.sh/users/9224078) |
+| ::{ flag=NO }:: | **Norway** | [Hundur](https://osu.ppy.sh/users/3145033) |
+| ::{ flag=CL }:: | **Chile** | [Intercambing](https://osu.ppy.sh/users/2546001) |
+| ::{ flag=PL }:: | **Poland** | [Kosiarek](https://osu.ppy.sh/users/9086565) |
+| ::{ flag=BR }:: | **Brazil** | [Kurumiw](https://osu.ppy.sh/users/11415687) |
+| ::{ flag=FI }:: | **Finland** | [Nev-](https://osu.ppy.sh/users/11836334) |
+| ::{ flag=CA }:: | **Canada** | [nick1324](https://osu.ppy.sh/users/612898) |
+| ::{ flag=KR }:: | **South Korea** | [Nopekjk](https://osu.ppy.sh/users/4585186) |
+| ::{ flag=NO }:: | **Norway** | [Pinguinzi](https://osu.ppy.sh/users/9414229) |
+| ::{ flag=GB }:: | **United Kingdom** | [rudj](https://osu.ppy.sh/users/11592896) |
+| ::{ flag=MN }:: | **Mongolia** | [seegii](https://osu.ppy.sh/users/4659319) |
+| ::{ flag=DK }:: | **Denmark** | [Sobu-](https://osu.ppy.sh/users/13872272) |
+| ::{ flag=PL }:: | **Poland** | [Sowisty](https://osu.ppy.sh/users/6808620) |
+| ::{ flag=SG }:: | **Singapore** | [Tebi](https://osu.ppy.sh/users/5407620) |
+| ::{ flag=US }:: | **United States** | [ThisIsGod](https://osu.ppy.sh/users/6736936) |
+| ::{ flag=US }:: | **United States** | [TrickyPugster](https://osu.ppy.sh/users/8082362) |
+| ::{ flag=SE }:: | **Sweden** | [trumpatino69](https://osu.ppy.sh/users/10903510) |
+| ::{ flag=RU }:: | **Russian Federation** | [Welter](https://osu.ppy.sh/users/11552867) |
+| ::{ flag=CA }:: | **Canada** | [xootynator](https://osu.ppy.sh/users/3717598) |
+| ::{ flag=NO }:: | **Norway** | [YokesPai](https://osu.ppy.sh/users/6399568) |
+| ::{ flag=SA }:: | **Saudi Arabia** | [Zesdash](https://osu.ppy.sh/users/5965797) |
+
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/8475d0c316b1ea7c1cb66ca93902d810).
+
+## Match schedule: week 1
+
+### Saturday, 20 July 2024
+
+| Team A | Team B | Match time | Twitch stream |  |
+| --: | :-- | :-- | :-: | :-: |
+| [FlyingTuna](https://osu.ppy.sh/users/9224078) ::{ flag=KR }:: | ::{ flag=FI }:: [Nev-](https://osu.ppy.sh/users/11836334) | [Jul 20 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240720T100000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| [Tebi](https://osu.ppy.sh/users/5407620) ::{ flag=SG }:: | ::{ flag=NO }:: [YokesPai](https://osu.ppy.sh/users/6399568) | [Jul 20 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240720T110000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| [2oomer](https://osu.ppy.sh/users/11141578) ::{ flag=NZ }:: | ::{ flag=PL }:: [Kosiarek](https://osu.ppy.sh/users/9086565) | [Jul 20 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240720T110000&p1=1440) | [osulive_2](https://twitch.tv/osulive_2) | [^winners-bracket] |
+| [Nopekjk](https://osu.ppy.sh/users/4585186) ::{ flag=KR }:: | ::{ flag=SA }:: [Zesdash](https://osu.ppy.sh/users/5965797) | [Jul 20 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240720T120000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| [aknzx](https://osu.ppy.sh/users/9938943) ::{ flag=AU }:: | ::{ flag=RU }:: [arqx](https://osu.ppy.sh/users/2569683) | [Jul 20 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240720T120000&p1=1440) | [osulive_2](https://twitch.tv/osulive_2) | [^winners-bracket] |
+| [Sobu-](https://osu.ppy.sh/users/13872272) ::{ flag=DK }:: | ::{ flag=SE }:: [trumpatino69](https://osu.ppy.sh/users/10903510) | [Jul 20 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240720T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| [Amasetic](https://osu.ppy.sh/users/11375251) ::{ flag=FI }:: | ::{ flag=BR }:: [Kurumiw](https://osu.ppy.sh/users/11415687) | [Jul 20 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240720T150000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| [AllyrD](https://osu.ppy.sh/users/9561644) ::{ flag=FI }:: | ::{ flag=MN }:: [seegii](https://osu.ppy.sh/users/4659319) | [Jul 20 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240720T150000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| [Amamya Kokoro](https://osu.ppy.sh/users/2511839) ::{ flag=KR }:: | ::{ flag=US }:: [ThisIsGod](https://osu.ppy.sh/users/6736936) | [Jul 20 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240720T160000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| [nick1324](https://osu.ppy.sh/users/612898) ::{ flag=CA }:: | ::{ flag=PL }:: [Sowisty](https://osu.ppy.sh/users/6808620) | [Jul 20 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240720T170000&p1=1440) | [osulive_2](https://twitch.tv/osulive_2) | [^winners-bracket] |
+| [Welter](https://osu.ppy.sh/users/11552867) ::{ flag=RU }:: | ::{ flag=RS }:: [-Petar](https://osu.ppy.sh/users/9106690) | [Jul 20 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240720T180000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| [Intercambing](https://osu.ppy.sh/users/2546001) ::{ flag=CL }:: | ::{ flag=FR }:: [Arakii](https://osu.ppy.sh/users/6133101) | [Jul 20 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240720T200000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| [xootynator](https://osu.ppy.sh/users/3717598) ::{ flag=CA }:: | ::{ flag=US }:: [TrickyPugster](https://osu.ppy.sh/users/8082362) | [Jul 20 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240720T200000&p1=1440) | [osulive_2](https://twitch.tv/osulive_2) | [^winners-bracket] |
+
+### Sunday, 21 July 2024
+
+| Team A | Team B | Match time | Twitch stream |  |
+| --: | :-- | :-- | :-: | :-: |
+| [aknzx](https://osu.ppy.sh/users/9938943) ::{ flag=AU }:: | ::{ flag=NZ }:: [2oomer](https://osu.ppy.sh/users/11141578) | [Jul 21 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240721T100000&p1=1440) | *TBD* | [^potential-match] |
+| [aknzx](https://osu.ppy.sh/users/9938943) ::{ flag=AU }:: | ::{ flag=PL }:: [Kosiarek](https://osu.ppy.sh/users/9086565) | [Jul 21 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240721T100000&p1=1440) | *TBD* | [^potential-match] |
+| [arqx](https://osu.ppy.sh/users/2569683) ::{ flag=RU }:: | ::{ flag=NZ }:: [2oomer](https://osu.ppy.sh/users/11141578) | [Jul 21 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240721T100000&p1=1440) | *TBD* | [^potential-match] |
+| [arqx](https://osu.ppy.sh/users/2569683) ::{ flag=RU }:: | ::{ flag=PL }:: [Kosiarek](https://osu.ppy.sh/users/9086565) | [Jul 21 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240721T100000&p1=1440) | *TBD* | [^potential-match] |
+| [Welter](https://osu.ppy.sh/users/11552867) ::{ flag=RU }:: | ::{ flag=FI }:: [AllyrD](https://osu.ppy.sh/users/9561644) | [Jul 21 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240721T110000&p1=1440) | *TBD* | [^potential-match] |
+| [Welter](https://osu.ppy.sh/users/11552867) ::{ flag=RU }:: | ::{ flag=MN }:: [seegii](https://osu.ppy.sh/users/4659319) | [Jul 21 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240721T110000&p1=1440) | *TBD* | [^potential-match] |
+| [-Petar](https://osu.ppy.sh/users/9106690) ::{ flag=RS }:: | ::{ flag=FI }:: [AllyrD](https://osu.ppy.sh/users/9561644) | [Jul 21 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240721T110000&p1=1440) | *TBD* | [^potential-match] |
+| [-Petar](https://osu.ppy.sh/users/9106690) ::{ flag=RS }:: | ::{ flag=MN }:: [seegii](https://osu.ppy.sh/users/4659319) | [Jul 21 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240721T110000&p1=1440) | *TBD* | [^potential-match] |
+| [Amasetic](https://osu.ppy.sh/users/11375251) ::{ flag=FI }:: | ::{ flag=NO }:: [Pinguinzi](https://osu.ppy.sh/users/9414229) | [Jul 21 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240721T140000&p1=1440) | *TBD* | [^potential-match] |
+| [Kurumiw](https://osu.ppy.sh/users/11415687) ::{ flag=BR }:: | ::{ flag=NO }:: [Pinguinzi](https://osu.ppy.sh/users/9414229) | [Jul 21 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240721T140000&p1=1440) | *TBD* | [^potential-match] |
+| [Sowisty](https://osu.ppy.sh/users/6808620) ::{ flag=PL }:: | ::{ flag=NO }:: [YokesPai](https://osu.ppy.sh/users/6399568) | [Jul 21 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240721T140000&p1=1440) | *TBD* | [^potential-match] |
+| [Intercambing](https://osu.ppy.sh/users/2546001) ::{ flag=CL }:: | ::{ flag=KR }:: [Nopekjk](https://osu.ppy.sh/users/4585186) | [Jul 21 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240721T150000&p1=1440) | *TBD* | [^potential-match] |
+| [Intercambing](https://osu.ppy.sh/users/2546001) ::{ flag=CL }:: | ::{ flag=SA }:: [Zesdash](https://osu.ppy.sh/users/5965797) | [Jul 21 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240721T150000&p1=1440) | *TBD* | [^potential-match] |
+| [Arakii](https://osu.ppy.sh/users/6133101) ::{ flag=FR }:: | ::{ flag=KR }:: [Nopekjk](https://osu.ppy.sh/users/4585186) | [Jul 21 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240721T150000&p1=1440) | *TBD* | [^potential-match] |
+| [Arakii](https://osu.ppy.sh/users/6133101) ::{ flag=FR }:: | ::{ flag=SA }:: [Zesdash](https://osu.ppy.sh/users/5965797) | [Jul 21 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240721T150000&p1=1440) | *TBD* | [^potential-match] |
+| [Nev-](https://osu.ppy.sh/users/11836334) ::{ flag=FI }:: | ::{ flag=US }:: [ampy](https://osu.ppy.sh/users/4458239) | [Jul 21 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240721T150000&p1=1440) | *TBD* | [^potential-match] |
+| [Amamya Kokoro](https://osu.ppy.sh/users/2511839) ::{ flag=KR }:: | ::{ flag=SE }:: [trumpatino69](https://osu.ppy.sh/users/10903510) | [Jul 21 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240721T160000&p1=1440) | *TBD* | [^potential-match] |
+| [ThisIsGod](https://osu.ppy.sh/users/6736936) ::{ flag=US }:: | ::{ flag=DK }:: [Sobu-](https://osu.ppy.sh/users/13872272) | [Jul 21 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240721T160000&p1=1440) | *TBD* | [^potential-match] |
+| [ThisIsGod](https://osu.ppy.sh/users/6736936) ::{ flag=US }:: | ::{ flag=SE }:: [trumpatino69](https://osu.ppy.sh/users/10903510) | [Jul 21 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240721T160000&p1=1440) | *TBD* | [^potential-match] |
+| [nick1324](https://osu.ppy.sh/users/612898) ::{ flag=CA }:: | ::{ flag=SG }:: [Tebi](https://osu.ppy.sh/users/5407620) | [Jul 21 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240721T160000&p1=1440) | *TBD* | [^potential-match] |
+| [Sowisty](https://osu.ppy.sh/users/6808620) ::{ flag=PL }:: | ::{ flag=SG }:: [Tebi](https://osu.ppy.sh/users/5407620) | [Jul 21 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240721T160000&p1=1440) | *TBD* | [^potential-match] |
+| [nick1324](https://osu.ppy.sh/users/612898) ::{ flag=CA }:: | ::{ flag=NO }:: [YokesPai](https://osu.ppy.sh/users/6399568) | [Jul 21 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240721T170000&p1=1440) | *TBD* | [^potential-match] |
+| [xootynator](https://osu.ppy.sh/users/3717598) ::{ flag=CA }:: | ::{ flag=NO }:: [Hundur](https://osu.ppy.sh/users/3145033) | [Jul 21 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240721T170000&p1=1440) | *TBD* | [^potential-match] |
+| [TrickyPugster](https://osu.ppy.sh/users/8082362) ::{ flag=US }:: | ::{ flag=NO }:: [Hundur](https://osu.ppy.sh/users/3145033) | [Jul 21 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240721T170000&p1=1440) | *TBD* | [^potential-match] |
+| [FlyingTuna](https://osu.ppy.sh/users/9224078) ::{ flag=KR }:: | ::{ flag=US }:: [ampy](https://osu.ppy.sh/users/4458239) | [Jul 21 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240721T170000&p1=1440) | *TBD* | [^potential-match] |
+| [xootynator](https://osu.ppy.sh/users/3717598) ::{ flag=CA }:: | ::{ flag=ES }:: [A N T O N I O](https://osu.ppy.sh/users/12760743) | [Jul 21 (Sun) 18:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240721T183000&p1=1440) | *TBD* | [^potential-match] |
+| [TrickyPugster](https://osu.ppy.sh/users/8082362) ::{ flag=US }:: | ::{ flag=ES }:: [A N T O N I O](https://osu.ppy.sh/users/12760743) | [Jul 21 (Sun) 18:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240721T183000&p1=1440) | *TBD* | [^potential-match] |
+
+## Mappools
+
+### Week 1
+
+**[Download the mappack here (76 MB)](https://packs.ppy.sh/P254%20-%20Lazer%20Grand%20Arena%202024%3A%20Week%201.zip?1720996372)**\
+[View the showcase VOD here](https://www.twitch.tv/videos/2197828415?t=0h47m30s)
+
+- No Mod
+  1. [Alestorm - Keelhauled (Camo) \[GIVE NO QUARTER\]](https://osu.ppy.sh/beatmapsets/1537993#osu/3144568)
+  2. [UNDEAD CORPORATION - Put curse on you (Halfslashed) \[Malediction\]](https://osu.ppy.sh/beatmapsets/1276314#osu/2651771)
+  3. [ALEPH - Delirium (Mir) \[Vexation\]](https://osu.ppy.sh/beatmapsets/1799349#osu/3688631)
+  4. [NIWASHI - Let's quartz (dectopia) \[Lucidity\]](https://osu.ppy.sh/beatmapsets/2151839#osu/4533859)
+- Hidden
+  1. [Marmalade butcher - Amanita (Camo) \[X\]](https://osu.ppy.sh/beatmapsets/1473778#osu/3350946)
+  2. [-45 - Rougoku STRIP (Deramok) \[..!\]](https://osu.ppy.sh/beatmapsets/583171#osu/1234064)
+- Hard Rock
+  1. [Zekk - Kaleidoscope (Heilia) \[Selcouth\]](https://osu.ppy.sh/beatmapsets/1148786#osu/2399834)
+  2. [A.SAKA - Nanatsu Momijiakari (xLolicore-) \[Vert's Extra\]](https://osu.ppy.sh/beatmapsets/768281#osu/1619010)
+- Double Time (variable speed multiplier)
+  1. (1.50x) [Wiklund - Billy Boogie (yeahyeahyeahhh) \[16 bits?!\]](https://osu.ppy.sh/beatmapsets/9040#osu/36547)
+  2. (1.50x) [James Landino - Aresene's Bazaar (Sylas) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/1972749#osu/4093505)
+  3. (1.60x) [Nekrogoblikon - Dragons (Nao Tomori) \[Soaring in the Sky\]](https://osu.ppy.sh/beatmapsets/1083931#osu/2266883)
+
+### Qualifiers
+
+**[Download the mappack here (100 MB)](https://packs.ppy.sh/P253%20-%20Lazer%20Grand%20Arena%202024%3A%20Qualifiers.zip)**\
+[View the showcase VOD here](https://www.twitch.tv/videos/2191069196)
+
+- No Mod
+  1. [ELFENSJoN - STYX (Ryuusei Aika) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1769468#osu/3622209)
+  2. [Kardashev - Lux (kiwies) \[Delicate Abstraction\]](https://osu.ppy.sh/beatmapsets/1839540#osu/3777926)
+  3. [siromaru + cranky - conflict (yf\_bmp) \[Intersection\]](https://osu.ppy.sh/beatmapsets/1212359#osu/3107406)
+  4. [Silentroom - NULCTRL (DeviousPanda) \[MAO'S EXPERIMENT\]](https://osu.ppy.sh/beatmapsets/1969316#osu/4084959)
+- Hidden
+  1. [Tanchiky - Riot (Feiri) \[Expert\]](https://osu.ppy.sh/beatmapsets/1645961#osu/3359700)
+  2. [Hige Driver - ukigumo (Lude) \[..- -.- .. --. ..- -- ---\]](https://osu.ppy.sh/beatmapsets/1827928#osu/3751557)
+- Hard Rock
+  1. [uma vs. Morimori Atsushi - Re:End of a Dream (Battle) \[Re:Vival\]](https://osu.ppy.sh/beatmapsets/557039#osu/1178810)
+  2. [-45 - Midorigo Queen Bee (PandaHero) \[EijiKuinbii's Expert\]](https://osu.ppy.sh/beatmapsets/812792#osu/1791372)
+- Double Time (variable speed multiplier)
+  1. (1.60x) [ginkiha - EOS (alacat) \[RLC's Another\]](https://osu.ppy.sh/beatmapsets/151720#osu/421532) 
+  2. (1.50x) [Yu\_Asahina vs. orangentle - EMOTIONALL BRINGBACKK (Niva) \[METAMORPHOSIS\]](https://osu.ppy.sh/beatmapsets/1799341#osu/3688619)
+  3. (1.40x) [Camellia - Fly to night, tonight (My Angel Watame) \[Heatwave's Insane\]](https://osu.ppy.sh/beatmapsets/1119638#osu/2343884)
+
+## Match results
+
+| Seed | Player | %MAX sum[^qualifiers-seeding] | avg. score[^qualifiers-tiebreaker] |
+| :-: | :-- | --: | --: |
+| #1 | Amamya Kokoro | 9.108 | 848,516 |
+| #2 | aknzx | 8.768 | 845,310 |
+| #3 | Welter | 8.690 | 842,629 |
+| #4 | Intercambing | 8.477 | 815,191 |
+| #5 | nick1324 | 8.431 | 819,364 |
+| #6 | FlyingTuna | 8.336 | 811,354 |
+| #7 | xootynator | 8.324 | 781,736 |
+| #8 | Amasetic | 8.187 | 796,008 |
+| #9 | enri | 8.107 | 787,504 |
+| #10 | A N T O N I O | 7.832 | 738,215 |
+| #11 | ampy | 7.595 | 730,363 |
+| #12 | Tebi | 7.536 | 717,099 |
+| #13 | Nopekjk | 7.448 | 689,419 |
+| #14 | AllyrD | 7.423 | 700,047 |
+| #15 | 2oomer | 7.411 | 713,713 |
+| #16 | Sobu- | 7.282 | 683,338 |
+| #17 | trumpatino69 | 7.268 | 704,637 |
+| #18 | Kosiarek | 7.192 | 666,739 |
+| #19 | seegii | 7.145 | 702,652 |
+| #20 | Zesdash | 6.998 | 656,752 |
+| #21 | YokesPai | 6.848 | 631,424 |
+| #22 | rudj | 6.568 | 629,243 |
+| #23 | Hundur | 6.367 | 626,276 |
+| #24 | Pinguinzi | 6.259 | 615,574 |
+| #25 | Kurumiw | 6.228 | 681,218 |
+| #26 | TrickyPugster | 6.161 | 599,212 |
+| #27 | Nev- | 6.150 | 583,118 |
+| #28 | Sowisty | 6.008 | 577,510 |
+| #29 | Arakii | 5.975 | 584,219 |
+| #30 | -Petar | 5.891 | 549,345 |
+| #31 | arqx | 5.872 | 575,421 |
+| #32 | ThisIsGod | 5.796 | 568,578 |
+| #33 | soft bunny | 5.780 | 544,198 |
+| #34 | Freddie Benson | 5.759 | 628,649 |
+| #35 | nase | 5.756 | 567,035 |
+| #36 | GalaxyGaming | 5.740 | 563,278 |
+| #37 | Alfiu | 5.738 | 564,388 |
+| #38 | fieryrage | 5.699 | 620,237 |
+| #39 | respektive | 5.536 | 517,303 |
+| #40 | Bazingasdead | 5.394 | 497,820 |
+| #41 | Coal | 4.980 | 489,997 |
+| #42 | Doomsday | 4.892 | 457,210 |
+| #43 | HikkaSka | 4.847 | 472,289 |
+| #44 | Mitake | 4.824 | 474,704 |
+| #45 | R2cubika | 4.626 | 455,156 |
+| #46 | PeteX | 4.544 | 494,426 |
+| #47 | Tiller | 4.236 | 512,638 |
+| #48 | polski1 | 4.025 | 562,422 |
+| #49 | Peti | 3.671 | 513,687 |
+| #50 | The Hassle | 3.254 | 352,247 |
+| #51 | KonKonKinakoN | 1.728 | 854,369 |
+| #52 | Kzox | 1.099 | 568,744 |
 
 ## Ruleset
 
@@ -83,7 +272,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/847
     - Forfeiting bracket matches without providing an adequate reasoning, or with the intention of getting a more favourable matchup.
 11. All players and staff must be treated with respect. Instructions from the referees and the tournament managers are to be followed. Decisions labelled as final are not to be objected.
 12. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms where the matches will take place.
-    - Breaking the chat rules may result in a silence. Silenced players cannot participate in multiplayer matches and must be exchanged for the duration of the punishment.
+    - Breaking the chat rules may result in a silence. Silenced players cannot participate in multiplayer matches for the duration of the punishment and, as a result, can have their match forfeited.
 13. Penalties for violating the tournament rules include, but are not limited to:
     - Removal of pick rights for a game or match.
     - Point deductions.
@@ -97,7 +286,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/847
 
 ### Tournament registration
 
-1. Every user interested in will be required to signs up by utilising the osu! tournament listing [linked above](#links).
+1. Every user interested in playing will be be required to sign up by utilising the osu! tournament listing [linked above](#links).
+   - Exceptionally, every player placed #2,500 or higher on the osu! global ranking that participates on the osu!(lazer) playlist, as detailed on the [Qualifier information](#qualifier-information) section will be eligible for participation as competitors, provided that they pass our internal checks before playing bracket stage matches (if applicable). Players that meet these criteria and place on the top 32 qualified players will be messaged individually via the website.
 2. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments. To be successfully accepted on the list, players are required to be placed #2,500 or higher on the osu! global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 3. All successfully registered players will be published after the registration phase on this page.
 4. Participants will be briefed on further steps via an announcement message on the website.
@@ -113,9 +303,19 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/847
    - Hidden: 2 beatmaps
    - Hard Rock: 2 beatmaps
    - Double Time: 3 beatmaps
-4. Players will be asked to play the mappool twice at a designated time. The best play for each map will be used for seeding.
-5. The mappool is to be played according to the order listed on this page.
-6. Only the top 32 seeded players will advance to the bracket stage.
+4. Players will participate in an osu!(lazer) playlist lobby, which can be completed anywhere from Sunday, July 7 19:00 UTC to Sunday, July 14 19:00 UTC.
+   - The playlist to be played is titled `Lazer Grand Arena - Qualifiers`, hosted by [LeoFLT](https://osu.ppy.sh/users/3668779).
+   - *Notice: the playlist **closes** on July 14, 19:00 UTC, at which point no new scores will be allowed. No exceptions will be made.*
+5. Players will have 22 tries to use across the 11 playlist entries, with no restrictions on the order of play or amount of tries per individual item.
+6. To be eligible for seeding, every player must submit *at least* one score for every beatmap listed.
+7. Only the player's best attempt (i.e. highest score) will be used for every beatmap listed.
+8. The lowest score across the 11 beatmaps will be removed from each player's seeding calculations.
+9. The seeding method used for Qualifiers will be %MAX — the highest score for each map will receive 100% of the points, and every other player will be awarded a percentage of that top score.
+The exact formula that will be used for all players (and for each map) is `Final Score = Player Score / MAX Score`, where:
+   - `Final Score` is the percentage awarded to the current player
+   - `Player Score` is the score the current player achieved on the current map
+   - `MAX Score` is the highest score achieved for the current map
+10. The top 32 seeded players will advance to the bracket stage.
 
 ### Bracket stage information
 
@@ -132,7 +332,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/847
      - The draft order will be as follows:
        1. The first player (A) will ban one beatmap, followed by the second player (B) also banning a beatmap: AB
        2. Players will pick two beatmaps respecting the following order: BAAB
-       3. Both players ban will two maps, as such: ABBA
+       3. Both players will ban two maps, as such: BAAB
        4. The last beatmap remaining in the pool will be used as the 5th pick for the match.
    - For the second weekend, The 8 remaining players from the previous phase will then then play another set of matches, after which the remaining 4 players will be placed on a double-elimination bracket.
      - All matches in this phase will utilise the same mappool, except for the Losers' Bracket Finals and Grand Finals, where a new [osu! original](/wiki/osu!_originals) will be introduced into the pool. The player with the highest cumulative score across the 7 picks wins.
@@ -177,12 +377,19 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/847
 ### Scheduling information
 
 1. Each stage (as described on the [Tournament schedule](#tournament-schedule) table) will be held on **a single weekend**.
-2. Matches in the Qualifiers will be held during specific time slots proposed by the tournament managers. Each player may choose a time slot in which they want to play.
-   - **Players who do not pick a time slot by Thursday, 12 July 2024 (23:59 UTC) will be disqualified from the competition.**
+2. Qualifiers are not eligible for scheduling. Instead, players must take part in an osu!(lazer) playlist, as detailed on the [Qualifier information](#qualifier-information) section.
 3. All bracket stages will be held between Saturday 00:00 and Sunday 19:00 UTC.
+   - Exceptions may be made where possible; please consult the tournament managers for more information.
 4. Match scheduling will be handled by the tournament managers. Schedules will be released on the Sunday before the first matches of the stage. The tournament managers will try to create the schedule to respect the participants' time zones.
 5. **Reschedules will only be considered if both players agree to a time and communicate it to the tournament managers, before Wednesday 23:59 UTC of the week when the match is to take place.**
    - Matches may not be scheduled to any time beyond **Sunday, 19:00 UTC** of the week they are to be played at.
    - Times earlier than **Saturday, 0:00 UTC** may be considered under specific circumstances. Please contact the tournament managers for more information. 
    - **Do not ask for a reschedule unless it is absolutely necessary. The tournament managers reserve the right to deny any rescheduling request.**
    - Late reschedule requests will not be accepted under any circumstances.
+
+## Notes
+
+[^winners-bracket]: Winners bracket match
+[^potential-match]: Potential match — final matchup depends on the results of the preceding matches
+[^qualifiers-seeding]: Used as the main seeding method
+[^qualifiers-tiebreaker]: Used as a tiebreaker when two players have the same MAX sum
