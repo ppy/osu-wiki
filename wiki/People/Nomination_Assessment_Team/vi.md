@@ -1,6 +1,5 @@
 ---
-outdated_since: c4b50fcfc48b6af263e3dfa8b144c7b7122889f0
-outdated_translation: true
+no_native_review_since: fa001f3f10bcb5261f1ba2cf35469327f89ddfd6 Avariation
 tags:
   - NAT
 ---
