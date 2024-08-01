@@ -65,4 +65,4 @@ Technology not specifically covered by these rules, but clearly conflicting with
 
 [^RappySnappy]: This disallows features similar to "Rappy Snappy" or "Snap Tap" on Wooting or Razer keyboards.
 
-[^DKS]: This disallows most configurations of features similar to "Dynamic Keystroke" on Wooting keyboards.
+[^DKS]: This disallows most configurations of features similar to "Dynamic Keystroke" or "Dual Actuation" on Wooting or SteelSeries keyboards.
