@@ -1,5 +1,9 @@
 # Macro rules
 
+Besides the rules outlaid here, as a general thumb rule it is generally not recommended to use any hardware or software adding unnecessary complexity or logic to your inputs. If you use a keyboard in the normal, intended way there is nothing to be afraid of.
+
+If you do use special features or anything the-like that you think could possibly be disallowed, it is worth reading the rules below.
+
 ## What is considered a macro?
 
 Macroing is the utilization of automated procedures or specialized behaviour that alters your input from that of a typical, unmodified keyboard.
@@ -62,8 +66,6 @@ This is allowed as the osu! client allows you to do so. The rule does not apply 
 This is **not** allowed as a movement on the 'A' key causes an action on a different key, the 'B' key.[^RappySnappy]
 
 ---
-
-Besides these rules, as a general thumb rule it is generally not recommended to use any hardware or software adding unnecessary complexity or logic to your inputs.
 
 Technology not specifically covered by these rules, but clearly conflicting with the spirit of rhythm games, are prone to be addressed in the future and are not inheritly allowed. If a program is doing something to help you play the game that you should be doing yourself, it isn't okay!
 
