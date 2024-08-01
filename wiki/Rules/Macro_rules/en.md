@@ -18,21 +18,21 @@ Please note that the rules are specifically tailored towards keyboards as input 
 
 **Movement**: A movement is the continuous physical movement of a key in **one direction** (upwards or downwards). A direction change ends the movement and starts the next one. Whenever a key is "moved" in the rules, it refers to this definition.
 
-**Action**: An action is the act of a **game key** (input to the osu! client) changing to pressed or released. If talking about pressing or releasing a key, it refers to this.
+**Game Action**: An action is the act of a **game key** (input to the osu! client) changing to pressed or released. If talking about pressing or releasing a key, it refers to this.
 
 ## Rules
 
-### 1. A singular movement may only cause a singular action
+### 1. A singular movement may only cause a singular game action
 
-Moving a key upwards or downwards should only result in a singular action.
+Moving a key upwards or downwards should only result in a singular game action.
 
-For example, moving your `A`-key down must cause the osu! client to only receive that `A`-key press. Similarly, an action **must** be caused by a movement, and cannot be produced in any non-physical way (eg. software).
+For example, moving your `A`-key down must cause the osu! client to only receive that `A`-key press. Similarly, a game action **must** be caused by a movement, and cannot be produced in any non-physical way (eg. software).
 
 #### Examples
 
 [!Disallowed][false] The `A`-key is moved down. Moving the `B`-key down presses it and additionally releases the `A`-key.[^RappySnappy]
 
-This is **not** allowed as the act of pressing the `B`-key down performs multiple actions, being that the `B`-key is pressed (action 1) and the `A`-key released (action 2).
+This is **not** allowed as the act of pressing the `B`-key down performs multiple game actions, being that the `B`-key is pressed (action 1) and the `A`-key released (action 2).
 
 ![Disallowed][false] The `A`-key is being moved down. Over the span of the downwards movement, the `A`-key is pressed and released.[^DKS]
 
@@ -40,13 +40,13 @@ This is **not** allowed as a singular movement, being moving the `A`-key down, c
 
 ![Disallowed][false] The `A`-key is being moved down. A software sees this press, and simulates a second press for the `B`-key on software-level.
 
-This is not allowed as this causes two actions, as an action is defined by what the osu! client receives, and not what the keyboard sends.
+This is not allowed as this causes two game actions, as an action is defined by what the osu! client receives, and not what the keyboard sends.
 
 ### 2. A movement on a key may not cause an action on any other key
 
-Every key needs to do it's job independently. A movement performed on a key should not perform any actions on a different key.
+Every key needs to do it's job independently. A movement performed on a key should not perform any game actions on a different key.
 
-If the `A`-key is moved down, the osu! client should only receive an action for the `A`-key, and not any other.
+If the `A`-key is moved down, the osu! client should only receive a game action for the `A`-key, and not any other.
 
 #### Examples
 
@@ -56,7 +56,7 @@ This is allowed as the osu! client allows you to do so. The rule only applies to
 
 ![Disallowed][false] The `B`-key is pressed down. Moving the `A`-key down causes the `B`-key to release.[^RappySnappy]
 
-This is **not** allowed as a movement on the `A`-key causes an action on a different key, the `B`-key.
+This is **not** allowed as a movement on the `A`-key causes a game action on a different key, the `B`-key.
 
 ---
 
