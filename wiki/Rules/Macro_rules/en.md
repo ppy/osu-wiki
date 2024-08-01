@@ -5,6 +5,8 @@
 Macroing is the utilization of automated procedures or specialized behaviour that alters your input from that of a typical, unmodified keyboard.
 The rules outlayed below affect both hardware and software-related functionality that alter game inputs in any way.
 
+![Flowchart](flowchart.png)
+
 Please note that the rules are specifically tailored towards keyboards as input devices. If you use anything else, do so at your own risk.
 
 ## Glossary
