@@ -15,7 +15,7 @@ Please note that the rules are specifically tailored towards keyboards as input 
 
 **Key state**: A key state is the current state of a key. A key can be either be considered "pressed" or "released", regardless of the physical situation of the key.
 
-**Movement**: A movement is the continuous movement of a key in one direction (upwards or downwards). A direction change introduces the next movement. Whenever a key is moved, it refers to this definition.
+**Movement**: A movement is the continuous movement of a key in **one direction** (upwards or downwards). A direction change ends the movement and starts the next one. Whenever a key is "moved" in the rules, it refers to this definition.
 
 **Action**: An action is the act of the state of a key changing, regardless of what causes it.
 
