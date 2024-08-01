@@ -47,7 +47,7 @@ Every key needs to do it's job independently. A movement performed on a key shou
 
 [!Yes][true] You bind multiple in-game inputs to the same key.
 
-This is allowed as the osu! client allows you to do so. The rule does not apply here, and only applies to be interaction with other *physical* keys.
+This is allowed as the osu! client allows you to do so. The rule does not apply here, and only applies to interactions with other *physical* keys.
 
 ![No][false] The 'B' key is pressed down. Moving the 'A' key down causes the 'B' key to release.
 
