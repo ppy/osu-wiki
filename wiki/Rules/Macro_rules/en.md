@@ -9,7 +9,7 @@ If you do use special features or anything the-like that you think could possibl
 Macroing is the utilization of automated procedures or specialized behaviour that alters your input from that of a typical, unmodified keyboard.
 The rules outlayed below affect both hardware and software-related functionality that alter game inputs in any way.
 
-![Flowchart](flowchart.png)
+![](flowchart.png)
 
 Please note that the rules are specifically tailored towards keyboards as input devices. If you use anything else, do so at your own risk.
 
@@ -17,11 +17,9 @@ Please note that the rules are specifically tailored towards keyboards as input 
 
 **Key**: A "key" refers to a physical key on your keyboard that can be moved upwards or downwards.
 
-**Key state**: A key state is the current state of a key as the osu! client perceives it. A key can be either be considered "pressed" or "released", regardless of the physical situation of the key.
-
 **Movement**: A movement is the continuous physical movement of a key in **one direction** (upwards or downwards). A direction change ends the movement and starts the next one. Whenever a key is "moved" in the rules, it refers to this definition.
 
-**Action**: An action is the act of the state of a key changing, regardless of what causes it.
+**Action**: An action is the act of a **game key** (input to the osu! client) changing to pressed or released. If talking about pressing or releasing a key, it refers to this.
 
 ## Rules
 
@@ -33,13 +31,11 @@ Similarly, an action **must** be caused by a movement, and cannot be produced in
 
 #### Examples
 
-[!Allowed][true] Moving a key causes that keys' state to change **once**.
-
 [!Disallowed][false] The `A`-key is moved down. Moving the `B`-key down presses it and additionally releases the `A`-key, despite no movement on it being performed.
 
 This is **not** allowed as the act of pressing the `B`-key down performs multiple actions, being that the `B`-key is pressed (action 1) and the `A`-key released (action 2).[^RappySnappy]
 
-![Disallowed][false] The `A`-key is being moved down. Over the span of the downwards movement, the key state of the `A`-key is changed multiple times.
+![Disallowed][false] The `A`-key is being moved down. Over the span of the downwards movement, the `A`-key is pressed and released.
 
 This is **not** allowed as a singular movement, being moving the `A`-key down, causes both a press (action 1) and a release (action 2).[^DKS]
 
@@ -55,15 +51,13 @@ If the `A`-key is moved down, the osu! client should only receive an action for 
 
 #### Examples
 
-[!Allowed][true] Moving a key causes **only that keys' state** to change.
-
 [!Allowed][true] You bind multiple in-game inputs to the same key.
 
-This is allowed as the osu! client allows you to do so. The rule does not apply here since it only applies to interactions with other *physical* keys.
+This is allowed as the osu! client allows you to do so. The rule only applies to the input going from your keyboard into your osu! client, and excludes how the osu! client itself proceeds it. (eg. binding it to multiple keys in gameplay)
 
 ![Disallowed][false] The `B`-key is pressed down. Moving the `A`-key down causes the `B`-key to release.
 
-This is **not** allowed as a movement on the 'A' key causes an action on a different key, the 'B' key.[^RappySnappy]
+This is **not** allowed as a movement on the `A`-key causes an action on a different key, the `B`-key.[^RappySnappy]
 
 ---
 
