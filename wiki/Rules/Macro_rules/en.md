@@ -40,7 +40,7 @@ This is **not** allowed as a singular movement, being moving the `A`-key down, c
 
 ![Disallowed][false] The `A`-key is being moved down. A software sees this press, and simulates a second press for the `B`-key on software-level.
 
-This is not allowed as this also causes two actions. An action is defined by what the osu! client receives, not what the keyboard sends. This disallows any tampering with inputs in-between what the keyboard sends to your computer and what the osu! client receives as input.
+This is not allowed as this causes two actions, as an action is defined by what the osu! client receives, and not what the keyboard sends.
 
 ### 2. A movement on a key may not cause an action on any other key
 
