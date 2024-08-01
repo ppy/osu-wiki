@@ -202,6 +202,25 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
 
 ## Match results
 
+### Semifinals
+
+Saturday, 27 July 2024:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **Bakpia Kukus** | **6** | 0 | suikambing | [#1](https://osu.ppy.sh/community/matches/114834963) |
+| Lower | **Ban HR2** | **6** | 0 | daftar mepet | [#1](https://osu.ppy.sh/community/matches/114834942) |
+| Lower | **reto pengkhianat** | **6** | 2 | Mie Ayam Afui | [#1](https://osu.ppy.sh/community/matches/114835756) |
+| Upper | **BAKPIA KUKUS KILLER** | **6** | 1 | Nasi Kuning Pake Kecap | [#1](https://osu.ppy.sh/community/matches/114835321) |
+| Lower | **Santoso** | **6** | 0 | Hina Dutro | *win by default* |
+| Lower | **Kagamarcchino ﾃﾞﾗｸｽ** | **6** | 0 | daan mogot | *win by default* |
+
+Sunday, 28 July 2024:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **Ban HR2** | **6** | 0 | Kagamarcchino ﾃﾞﾗｸｽ | [#1](https://osu.ppy.sh/community/matches/114848686) |
+
 ### Quarterfinals
 
 Friday, 19 July 2024:
