@@ -3,20 +3,19 @@
 ## What is macroing?
 
 Macroing is the utilization of automated procedures or specialized behaviour that alters your input from that of a typical, unmodified keyboard.
-
 The rules outlayed below affect both hardware and software-related functionality that alter game inputs in any way.
 
 Please note that the rules are specifically tailored towards keyboards as input devices. If you use anything else, do so at your own risk.
 
 ## Glossary
 
-**Key**: A "key" refers to a physical key on your keyboard.
+**Key**: A "key" refers to a physical key on your keyboard that can be moved upwards or downwards.
 
-**Key state**: A key state is the current state of the key. The key can be either be considered "pressed down" or "released", regardless of the physical situation of the key.
+**Key state**: A key state is the current state of a key. A key can be either be considered "pressed" or "released", regardless of the physical situation of the key.
 
-**Movement**: A movement is the continous movement of a key in one direction (upwards or downwards). A direction change introduces the next movement.
+**Movement**: A movement is the continuous movement of a key in one direction (upwards or downwards). A direction change introduces the next movement.
 
-**Action**: An action is the act of the state of a key changing.
+**Action**: An action is the act of the state of a key changing, regardless of what causes it.
 
 ## Rules
 
