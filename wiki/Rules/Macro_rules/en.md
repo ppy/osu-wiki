@@ -37,7 +37,7 @@ This is **not** allowed as the act of pressing the `B`-key down performs multipl
 
 This is **not** allowed as a singular movement, being moving the `A`-key down, causes both a press (action 1) and a release (action 2).[^DKS]
 
-### 2. A key may not cause an action on any other key
+### 2. A movement on a key may not cause an action on any other key
 
 Every key needs to do it's job independently. A movement performed on a key should not perform any actions on a different key.
 
@@ -47,7 +47,7 @@ Every key needs to do it's job independently. A movement performed on a key shou
 
 [!Allowed][true] You bind multiple in-game inputs to the same key.
 
-This is allowed as the osu! client allows you to do so. The rule does not apply here, and only applies to interactions with other *physical* keys.
+This is allowed as the osu! client allows you to do so. The rule does not apply here since it only applies to interactions with other *physical* keys.
 
 ![Disallowed][false] The `B`-key is pressed down. Moving the `A`-key down causes the `B`-key to release.
 
