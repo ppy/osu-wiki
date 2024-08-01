@@ -6,8 +6,7 @@ If you do use special features or anything the-like that you think could possibl
 
 ## What is considered a macro?
 
-Macroing is the utilization of automated procedures or specialized behaviour that alters your input from that of a typical, unmodified keyboard.
-The rules outlayed below affect both hardware and software-related functionality that alter game inputs in any way.
+Macroing is the utilization of automated procedures or specialized behaviour that alters your input from that of a typical, unmodified keyboard. This goes for both hardware- and software-related features or tools.
 
 ![](flowchart.png)
 
@@ -25,19 +24,19 @@ Please note that the rules are specifically tailored towards keyboards as input 
 
 ### 1. A singular movement may only cause a singular action
 
-Moving a key upwards or downwards should only result in a singular action, for example moving your `A`-key down must cause the osu! client to only receive that `A`-key press.
+Moving a key upwards or downwards should only result in a singular action.
 
-Similarly, an action **must** be caused by a movement, and cannot be produced in any non-physical way.
+For example, moving your `A`-key down must cause the osu! client to only receive that `A`-key press. Similarly, an action **must** be caused by a movement, and cannot be produced in any non-physical way (eg. software).
 
 #### Examples
 
-[!Disallowed][false] The `A`-key is moved down. Moving the `B`-key down presses it and additionally releases the `A`-key, despite no movement on it being performed.
+[!Disallowed][false] The `A`-key is moved down. Moving the `B`-key down presses it and additionally releases the `A`-key.[^RappySnappy]
 
-This is **not** allowed as the act of pressing the `B`-key down performs multiple actions, being that the `B`-key is pressed (action 1) and the `A`-key released (action 2).[^RappySnappy]
+This is **not** allowed as the act of pressing the `B`-key down performs multiple actions, being that the `B`-key is pressed (action 1) and the `A`-key released (action 2).
 
-![Disallowed][false] The `A`-key is being moved down. Over the span of the downwards movement, the `A`-key is pressed and released.
+![Disallowed][false] The `A`-key is being moved down. Over the span of the downwards movement, the `A`-key is pressed and released.[^DKS]
 
-This is **not** allowed as a singular movement, being moving the `A`-key down, causes both a press (action 1) and a release (action 2).[^DKS]
+This is **not** allowed as a singular movement, being moving the `A`-key down, causes both a press (action 1) and a release (action 2).
 
 ![Disallowed][false] The `A`-key is being moved down. A software sees this press, and simulates a second press for the `B`-key on software-level.
 
@@ -55,9 +54,9 @@ If the `A`-key is moved down, the osu! client should only receive an action for 
 
 This is allowed as the osu! client allows you to do so. The rule only applies to the input going from your keyboard into your osu! client, and excludes how the osu! client itself proceeds it. (eg. binding it to multiple keys in gameplay)
 
-![Disallowed][false] The `B`-key is pressed down. Moving the `A`-key down causes the `B`-key to release.
+![Disallowed][false] The `B`-key is pressed down. Moving the `A`-key down causes the `B`-key to release.[^RappySnappy]
 
-This is **not** allowed as a movement on the `A`-key causes an action on a different key, the `B`-key.[^RappySnappy]
+This is **not** allowed as a movement on the `A`-key causes an action on a different key, the `B`-key.
 
 ---
 
