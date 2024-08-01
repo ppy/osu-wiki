@@ -5,7 +5,7 @@ These rules are the basis from which we help keep the osu! community a fun and w
 ## Community rules
 
 1. **Each player may only have *ONE* account, ever.** The *first* account you make during account registration is your one and only osu! account, from the moment of its creation and forevermore. This account is YOU. It is not anyone else — not your brother, your mother, your sister, your friend — it is YOU. Don't share your account with anyone else. You don't get to make a new one if you lose access to it. Keep it safe.
-2. **Play fair.** Using third-party utilities of any kind to get any sort of advantage is not okay. This includes things like aim-assist programs, timescale modifications, macros and so on. For the latter, please take a look at the extended [Macro rules](#macro-rules).
+2. **Play fair.** Using third-party utilities of any kind to get any sort of advantage is not okay. This includes things like aim-assist programs, timescale modifications, macros and so on. For the latter, please take a look at the extended [Macro rules](/wiki/Rules/Macro_rules).
 3. **Be good to each other.** Harassment or other antagonism has no place within the osu! community. We're here to click circles, beat drums, catch fruit, and hit up to eighteen keys at once, not to be assholes to each other.
 4. **Don't be a douche.** If at any point you are uncertain as to whether you are breaking this rule, you probably are.
 5. **We are an all-ages community.** This means that 18+/[NSFW](https://en.wikipedia.org/wiki/Not_safe_for_work) content such as drug use or topics of a sexual nature are not welcome here.
