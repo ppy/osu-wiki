@@ -1,20 +1,18 @@
 # Macro rules
 
-Besides the rules outlaid here, as a general thumb rule it is generally not recommended to use any hardware or software adding unnecessary complexity or logic to your inputs. If you use a keyboard in the normal, intended way there is nothing to be afraid of.
+Besides the rules outlaid here, as a general thumb rule it is generally not recommended to use any hardware or software adding unnecessary complexity or logic to your inputs. If you use a mouse and/or keyboard in the normal, intended way there is nothing to be afraid of.
+
+If you use any automation or specialized behavior that alters your input from that of a typical, unmodified mouse or keyboard that is not covered by these rules, but clearly conflicts with the spirit of rhythm games, it is not inheritly allows and prone to be addressed in the future.
 
 If you do use special features or anything the-like that you think could possibly be disallowed, it is worth reading the rules below.
 
-## What is considered a macro?
-
-Macroing is the utilization of automated procedures or specialized behaviour that alters your input from that of a typical, unmodified keyboard. This goes for both hardware- and software-related features or tools.
-
 ![](flowchart.png)
 
-Please note that the rules are specifically tailored towards keyboards as input devices. If you use anything else, do so at your own risk.
+Please note that the rules are specifically tailored towards mices and keyboards as input devices. If you use anything else, do so at your own risk. 
 
 ## Glossary
 
-**Key**: A "key" refers to a physical key on your keyboard that can be moved upwards or downwards.
+**Key**: A "key" refers to a physical key on your mice or keyboard that can be moved upwards or downwards.
 
 **Movement**: A movement is the continuous physical movement of a key in **one direction** (upwards or downwards). A direction change ends the movement and starts the next one. Whenever a key is "moved" in the rules, it refers to this definition.
 
@@ -40,7 +38,7 @@ This is **not** allowed as a singular movement, being moving the `A`-key down, c
 
 ![Disallowed][false] The `A`-key is being moved down. A software sees this press, and simulates a second press for the `B`-key on software-level.
 
-This is not allowed as this causes two game actions, as an action is defined by what the osu! client receives, and not what the keyboard sends.
+This is not allowed as this causes two game actions, as an action is defined by what the osu! client receives, and not what the mice or keyboard sends.
 
 ### 2. A movement on a key may not cause an action on any other key
 
@@ -52,15 +50,11 @@ If the `A`-key is moved down, the osu! client should only receive a game action 
 
 [!Allowed][true] You bind multiple in-game inputs to the same key.
 
-This is allowed as the osu! client allows you to do so. The rule only applies to the input going from your keyboard into your osu! client, and excludes how the osu! client itself proceeds it. (eg. binding it to multiple keys in gameplay)
+This is allowed as the osu! client allows you to do so. The rule only applies to the input going from your mice or keyboard into your osu! client, and excludes how the osu! client itself proceeds it. (eg. binding it to multiple keys in gameplay)
 
 ![Disallowed][false] The `B`-key is pressed down. Moving the `A`-key down causes the `B`-key to release.[^RappySnappy]
 
 This is **not** allowed as a movement on the `A`-key causes a game action on a different key, the `B`-key.
-
----
-
-Technology not specifically covered by these rules, but clearly conflicting with the spirit of rhythm games, are prone to be addressed in the future and are not inheritly allowed. If a program is doing something to help you play the game that you should be doing yourself, it isn't okay!
 
 ## Notes
 
