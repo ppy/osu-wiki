@@ -1,6 +1,6 @@
 # Macro rules
 
-## What is macroing?
+## What is considered a macro?
 
 Macroing is the utilization of automated procedures or specialized behaviour that alters your input from that of a typical, unmodified keyboard.
 The rules outlayed below affect both hardware and software-related functionality that alter game inputs in any way.
@@ -31,7 +31,7 @@ Similarly, an action **must** be caused by a movement, and cannot be produced in
 
 [!Disallowed][false] The `A`-key is moved down. Moving the `B`-key down presses it and additionally releases the `A`-key, despite no movement on it being performed.
 
-This is **not** allowed as the act of pressing the `B`-key down performs multiple actions, being that the 'B' is pressed (action 1) and the `A`-key released (action 2).[^Rappy Snappy]
+This is **not** allowed as the act of pressing the `B`-key down performs multiple actions, being that the 'B' is pressed (action 1) and the `A`-key released (action 2).[^RappySnappy]
 
 ![Disallowed][false] The `A`-key is being moved down. Over the span of the downwards movement, the key state of the `A`-key is changed multiple times.
 
@@ -51,7 +51,7 @@ This is allowed as the osu! client allows you to do so. The rule does not apply 
 
 ![Disallowed][false] The `B`-key is pressed down. Moving the `A`-key down causes the `B`-key to release.
 
-This is **not** allowed as a movement on the 'A' key causes an action on a different key, the 'B' key.[^Rappy Snappy]
+This is **not** allowed as a movement on the 'A' key causes an action on a different key, the 'B' key.[^RappySnappy]
 
 ---
 
@@ -61,6 +61,6 @@ Technology not specifically covered by these rules, but clearly conflicting with
 
 ## Notes
 
-[^Rappy Snappy]: This disallows features similar to "Rappy Snappy" or "Snap Tap" on Wooting or Razer keyboards.
+[^RappySnappy]: This disallows features similar to "Rappy Snappy" or "Snap Tap" on Wooting or Razer keyboards.
 
 [^DKS]: This disallows most configurations of features similar to "Dynamic Keystroke" on Wooting keyboards.
