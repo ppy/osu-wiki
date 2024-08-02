@@ -6,9 +6,9 @@ tags:
   - "rank #1"
   - rankings
   - top player
+outdated_translation: true
+outdated_since: 8de140a6d10df750d648d93ff6490b93135a072b
 ---
-
-<!-- Maintainers Note: Please refer to the original pull request for more info on sources at https://github.com/ppy/osu-wiki/pull/4720 -->
 
 # Storia delle classifiche di osu!
 
