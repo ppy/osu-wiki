@@ -62,7 +62,7 @@ And of course, congrats to [acnozei](https://osu.ppy.sh/users/10141268) for join
 
 Another special thanks to [Maxus](https://osu.ppy.sh/users/4335785), [gzdongsheng](https://osu.ppy.sh/users/8660315), [SilentWuffer](https://osu.ppy.sh/users/11355206), [Protastic101](https://osu.ppy.sh/users/6712747), [Evening](https://osu.ppy.sh/users/2193881), [doctormango](https://osu.ppy.sh/users/13370527), [Monoseul](https://osu.ppy.sh/users/16010604), and [BadDragon](https://osu.ppy.sh/users/6051688) for screening this contest's submissions, along with [-mint-](https://osu.ppy.sh/users/8976576), [Unpredictable](https://osu.ppy.sh/users/7560872), [Paraxia](https://osu.ppy.sh/users/14001000), and [elexire](https://osu.ppy.sh/users/9206093) for judging the rest!
 
-And of course, give a warm welcome to osu!mania's first *Elite Mapper*: [tyrcs](https://osu.ppy.sh/users/13026904)!
+And of course, give a warm welcome to osu!mania's first *Elite Mapper* (through MBC): [tyrcs](https://osu.ppy.sh/users/13026904)!
 
 ## Game modes
 
