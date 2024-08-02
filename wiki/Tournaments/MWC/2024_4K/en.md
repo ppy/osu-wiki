@@ -140,7 +140,7 @@ The osu!mania 4K World Cup 2024 is run by the [osu! team](/wiki/People/osu!_team
 
 ### Win conditions
 
-- In the Qualifiers, teams need to place in the top 24 seeded teams in order to advance to the double-elimination stage.
+- In the Qualifiers, teams need to place in the top 32 seeded teams in order to advance to the double-elimination stage.
 - In the Round of 32, teams need to win 5 maps to win a match (best of 9).
 - In the Round of 16 and Quarterfinals, teams need to win 6 maps to win a match (best of 11).
 - In the Semifinals, Finals and Grand Finals, teams need to win 7 maps to win the match (best of 13).
