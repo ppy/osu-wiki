@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: ea5e0cb4f7ad63118b67ee2e1891e307cf366831
 tags:
   - supporter tag
   - osu!supporter tag
