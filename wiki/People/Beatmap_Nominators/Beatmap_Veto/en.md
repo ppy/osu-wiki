@@ -18,7 +18,7 @@ In all cases, the beatmap veto should be stated as such, and should be accompani
 
 Assuming the issues are satisfactorily resolved or justified with all parties in agreement, the Nominator may lift the beatmap veto and allow Qualification to proceed.
 
-## What happens if no agreement is reached?
+## Veto mediation
 
 Beatmapping is extremely diverse and creative differences are to be expected. This is to be encouraged for the sake of creating a variety of content all players can enjoy! However, such differences can naturally lead to disagreements.
 
@@ -26,9 +26,11 @@ If discussion is no longer progressing in the direction of a compromise, or is o
 
 If the vetoer is no longer a Beatmap Nominator and no mediation has been requested, the veto will be dismissed.
 
-During mediation, the Beatmap Nominators and members of the NAT will vote for whether to uphold or dismiss the veto anonymously. Once initiated, this process can take anywhere from a day up to a week depending on how quickly participants make their decisions.
+During mediation, Beatmap Nominators and members of the NAT for the game mode(s) the veto affects will vote for whether to uphold or dismiss the veto anonymously. Once initiated, this process will take around 7 days depending on how quickly participants make their decisions. The veto may be broken up into smaller points for voting which can be individually upheld or dismissed through the vote's results.
 
 Any decision made by participants must be accompanied by a reason for making the decision. Should a member be unable to participate, their vote will be considered abstained.
+
+For a veto point to be upheld, a 70% majority of votes must agree with what is stated. If this threshold is not reached, the veto point may be dismissed.
 
 ## How to proceed after mediation
 
