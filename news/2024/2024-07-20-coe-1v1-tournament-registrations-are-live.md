@@ -22,12 +22,12 @@ The registrations for the tournament are live now! As per usual, the COE 1v1 LAN
 
 | Event | Timestamp (UTC+2) |
 | --: | :-- |
-| Round of 16 | 2024-08-01 (11:00–23:00) |
-| Quarterfinals | 2024-08-02 (13:30–20:00) |
-| Semifinals | 2024-08-03 (12:30–15:00) |
-| Showmatches | 2024-08-03 (15:30–16:30) |
-| Finals | 2024-08-03 (17:30–18:30) |
-| Grand Finals | 2024-08-03 (20:00–21:30) |
+| Round of 16 | 1 August 2024 (11:00–23:00) |
+| Quarterfinals | 2 August 2024 (13:30–20:00) |
+| Semifinals | 3 August (12:30–15:00) |
+| Showmatches | 3 August (15:30–16:30) |
+| Finals | 3 August (17:30–18:30) |
+| Grand Finals | 3 August (20:00–21:30) |
 
 ### Prizes
 
