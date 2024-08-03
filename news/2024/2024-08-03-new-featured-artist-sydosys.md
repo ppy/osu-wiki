@@ -53,7 +53,7 @@ Everyone's been at [cavoe's osu! event](/wiki/Community/cavoe's_osu!_event) for 
 You might have caught [this map](https://osu.ppy.sh/beatmapsets/2150872) hosted by [Tailsdk](https://osu.ppy.sh/users/6751666) from this year's [MWC 7K 2024](/wiki/Tournaments/MWC/2024_7K). If not, you can play through it now instead!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/392/Songs/Sydosys_-_Lunar_Gateway.mp3">
+    <source src="https://assets.ppy.sh/artists/392/Songs/Sydosys_-_Voyage.mp3">
 </audio>
 
 ### Sydosys as "\[LS\]Ham" - Apollyon
