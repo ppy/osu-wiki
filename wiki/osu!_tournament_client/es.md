@@ -6,7 +6,7 @@ Los usuarios que tengan problemas con el cliente pueden [crear un problema en Gi
 
 ## Configuración
 
-Para iniciar el cliente, necesitas especificar un argumento de lanzamiento al ejecutable de [osu!(lazer)](/wiki/Client/Release_stream/Lazer). Para hacer esto, crea un nuevo acceso directo en el escritorio y establece su ubicación en `%LOCALAPPDATA%/osulazer/osu!.exe --tournament`. Esto hará que ese acceso directo específico inicie osu!(lazer) en el modo del cliente para torneos.
+Para iniciar el cliente, necesitas especificar un argumento de lanzamiento al ejecutable de [osu!(lazer)](/wiki/Client/Release_stream/Lazer). Para hacer esto, crea un nuevo acceso directo en el escritorio y establece su ubicación en `%LOCALAPPDATA%\osulazer\osu!.exe --tournament`. Esto hará que ese acceso directo específico inicie osu!(lazer) en el modo del cliente para torneos.
 
 Dado que el cliente para torneos es solo una superposición para osu!tourney, también habrá que configurarlo. Establece el canal de lanzamiento de osu!tourney en `Cutting Edge (Experimental)` y crea un archivo vacío llamado `ipc.txt` dentro de la carpeta de instalación de osu!tourney. Después de eso, sigue la [guía de configuración de osu!tourney](/wiki/osu!_tournament_client/osu!tourney/Setup).
 
@@ -21,7 +21,7 @@ Abre el cliente para torneos de osu! y verás esta pantalla de configuración:
 
 ## Gestión de torneos
 
-Las configuraciones de torneos para [osu!(lazer)](/wiki/Client/Release_stream/Lazer) se almacenan en `%APPDATA%/osu/tournaments`. Al iniciar el cliente por primera vez, se crea un directorio llamado `default` dentro de esta carpeta. Un usuario puede mantener múltiples configuraciones de torneos y cambiar entre ellas según sea necesario para aplicar las personalizaciones adecuadas.
+Las configuraciones de torneos para [osu!(lazer)](/wiki/Client/Release_stream/Lazer) se almacenan en `%APPDATA%\osu\tournaments`. Al iniciar el cliente por primera vez, se crea un directorio llamado `default` dentro de esta carpeta. Un usuario puede mantener múltiples configuraciones de torneos y cambiar entre ellas según sea necesario para aplicar las personalizaciones adecuadas.
 
 Para crear una nueva configuración para un torneo, crea un nuevo directorio en el directorio `tournaments` con el nombre de tu torneo.
 
@@ -42,13 +42,13 @@ Por defecto, el cliente para torneos de osu! proporciona banderas incorporadas p
 
 Para banderas personalizadas, se aceptan archivos `.jpg` y `.png`. Las imágenes de las banderas deben tener al menos 140x94 y mantener una relación de aspecto cercana a esta especificación para obtener mejores resultados.
 
-Las banderas deben colocarse en `<tu-torneo>/Flags`. Luego, se puede hacer referencia a las banderas en el editor de equipos por sus nombres de archivo sin la extensión del archivo.
+Las banderas deben colocarse en `<tu-torneo>\Flags`. Luego, se puede hacer referencia a las banderas en el editor de equipos por sus nombres de archivo sin la extensión del archivo.
 
 ### Mods
 
 Para iconos de mods personalizados, se aceptan archivos `.jpg` y `.png`. La resolución puede ser cualquier cosa y el cliente la ajustará en el panel del beatmap. Como referencia, un panel de un beatmap a 1920x1080 equivale a 563x60 píxeles.
 
-Los iconos de los mods deben colocarse en `<tu-torneo>/Mods`. Luego, se puede hacer referencia a los mods por sus nombres de archivo sin la extensión del archivo en el editor de rondas y en el editor de resultados de la semilla.
+Los iconos de los mods deben colocarse en `<tu-torneo>\Mods`. Luego, se puede hacer referencia a los mods por sus nombres de archivo sin la extensión del archivo en el editor de rondas y en el editor de resultados de la semilla.
 
 ### Vídeos
 
@@ -63,7 +63,7 @@ Los archivos deben cumplir con las siguientes especificaciones:
 - Códec de vídeo: H.264
 - Códec de audio: ninguno
 
-Los archivos de vídeo deben colocarse en `<tu-torneo>/Videos` y se requieren nombres específicos para la funcionalidad correcta.
+Los archivos de vídeo deben colocarse en `<tu-torneo>\Videos` y se requieren nombres específicos para la funcionalidad correcta.
 
 | Escena | Archivo(s) |
 | :-- | :-- |

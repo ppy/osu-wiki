@@ -10,7 +10,7 @@ Para pengguna yang mengalami masalah dengan klien ini dapat [membuka isu baru di
 
 ## Pengaturan
 
-Untuk menjalankan klien turnamen osu!, kamu perlu untuk menentukan argumen peluncuran (*launch argument*) ke dalam berkas program [osu!(lazer)](/wiki/Client/Release_stream/Lazer). Untuk melakukan hal ini, buat *shortcut* baru pada desktop dan tentukan lokasi *shortcut* ini ke `%LOCALAPPDATA%/osulazer/osu!.exe --tournament`. Hal ini akan memerintahkan *shortcut* tersebut untuk membuka osu(lazer) pada mode klien turnamen ketika dijalankan.
+Untuk menjalankan klien turnamen osu!, kamu perlu untuk menentukan argumen peluncuran (*launch argument*) ke berkas program [osu!(lazer)](/wiki/Client/Release_stream/Lazer). Untuk melakukan hal ini, buat *shortcut* baru pada desktop dan tentukan lokasi *shortcut* ini ke `%LOCALAPPDATA%\osulazer\osu!.exe --tournament`. Hal ini akan memerintahkan *shortcut* tersebut untuk membuka osu(lazer) pada mode klien turnamen ketika dijalankan.
 
 Karena klien turnamen osu! hanya merupakan *overlay* untuk osu!tourney, klien ini juga perlu untuk disiapkan. Atur Versi Rilis osu!tourney ke `Cutting Edge (Experimental)` dan buat berkas kosong bernama `ipc.txt` di dalam folder instalasi osu!tourney. Setelahnya, ikuti [panduan pengaturan osu!tourney](/wiki/osu!_tournament_client/osu!tourney/Setup).
 
@@ -25,7 +25,7 @@ Apabila sudah, kamu akan disambut dengan layar pengaturan berikut pada saat kamu
 
 ## Mengelola Turnamen
 
-Konfigurasi turnamen [osu!(lazer)](/wiki/Client/Release_stream/Lazer) tersimpan di `%APPDATA%/osu/tournaments`. Pada saat klien turnamen osu! pertama kali dijalankan, sebuah direktori dengan nama `default` akan dihasilkan di dalam folder ini. Masing-masing pengguna dapat menyimpan lebih dari satu konfigurasi dan saling berpindah antar konfigurasi ketika dibutuhkan.
+Konfigurasi turnamen [osu!(lazer)](/wiki/Client/Release_stream/Lazer) tersimpan di `%APPDATA%\osu\tournaments`. Pada saat klien turnamen osu! pertama kali dijalankan, sebuah direktori dengan nama `default` akan dihasilkan di dalam folder ini. Masing-masing pengguna dapat menyimpan lebih dari satu konfigurasi dan saling berpindah antar konfigurasi ketika dibutuhkan.
 
 Untuk membuat konfigurasi turnamen baru, buat direktori baru di dalam folder `tournaments` dengan nama yang sesuai dengan nama turnamenmu.
 
@@ -46,13 +46,13 @@ Secara bawaan, klien turnamen osu! menyediakan aset bendera untuk berbagai negar
 
 Untuk menampilkan bendera milik sendiri, gunakan berkas berupa `.jpg` atau `.png`. Gambar bendera disarankan untuk berukuran setidaknya 140x94 dengan aspek rasio yang serupa untuk hasil yang terbaik.
 
-Seluruh gambar bendera harus disimpan pada folder `<your-tournament>/Flags`. Bendera yang telah disimpan akan kemudian dapat dipanggil pada Team Editor dengan nama berkasnya masing-masing tanpa disertai ekstensi berkas.
+Seluruh gambar bendera harus disimpan pada folder `<your-tournament>\Flags`. Bendera yang telah disimpan akan kemudian dapat dipanggil pada Team Editor dengan nama berkasnya masing-masing tanpa disertai ekstensi berkas.
 
 ### Mod
 
 Untuk menampilkan ikon mod milik sendiri, gunakan berkas berupa `.jpg` atau `.png`. Gambar ikon ini dapat berukuran berapa pun, di mana klien turnamen nantinya akan menyesuaikan gambar ini agar masuk ke dalam panel beatmap. Sebagai rujukan, panel beatmap akan berukuran 563x60 pixel pada resolusi layar 1920x1080.
 
-Seluruh ikon mod harus disimpan pada folder `<your-tournament>/Mods`. Mod yang telah disimpan akan kemudian dapat dipanggil pada Rounds Editor dan Seeding Results Editor dengan nama berkasnya masing-masing tanpa disertai ekstensi berkas.
+Seluruh ikon mod harus disimpan pada folder `<your-tournament>\Mods`. Mod yang telah disimpan akan kemudian dapat dipanggil pada Rounds Editor dan Seeding Results Editor dengan nama berkasnya masing-masing tanpa disertai ekstensi berkas.
 
 ### Video
 
@@ -66,7 +66,7 @@ Berkas video yang digunakan harus memenuhi rangkaian spesifikasi berikut:
 - Ekstensi berkas `mp4`, `m4v`, atau `avi`
 - Codec video: H.264, Codec audio: tidak ada
 
-Berkas video ini harus disimpan pada folder `<your-tournament>/Videos` dan harus dinamai dengan nama yang spesifik agar dapat berfungsi sebagaimana mestinya.
+Berkas video ini harus disimpan pada folder `<your-tournament>\Videos` dan harus dinamai dengan nama yang spesifik agar dapat berfungsi sebagaimana mestinya.
 
 | Adegan | Berkas |
 | :-- | :-- |

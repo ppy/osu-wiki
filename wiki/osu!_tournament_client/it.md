@@ -6,7 +6,7 @@ Gli utenti che riscontrano problemi con il client possono [aprire un issue su Gi
 
 ## Setup
 
-Per avviare l'osu! tournament client, è necessario specificare un argomento di lancio all'eseguibile di [osu!(lazer)](/wiki/Client/Release_stream/Lazer). Per fare ciò, crea un nuovo collegamento sul desktop e impostane il percorso su `%LOCALAPPDATA%/osulazer/osu!.exe --tournament`. In questo modo il collegamento specifico avvierà osu!(lazer) in modalità torneo.
+Per avviare l'osu! tournament client, è necessario specificare un argomento di lancio all'eseguibile di [osu!(lazer)](/wiki/Client/Release_stream/Lazer). Per fare ciò, crea un nuovo collegamento sul desktop e impostane il percorso su `%LOCALAPPDATA%\osulazer\osu!.exe --tournament`. In questo modo il collegamento specifico avvierà osu!(lazer) in modalità torneo.
 
 Poiché il client di osu!tournament è solo un overlay per osu!tourney, anche questo dovrà essere configurato. Impostare la versione di rilascio di osu!tourney su `Cutting Edge (Experimental)` e creare un file vuoto chiamato `ipc.txt` nella cartella di installazione di osu!tourney. Dopo questo, segui la [guida per configurare osu!tourney](/wiki/osu!_tournament_client/osu!tourney/Setup).
 
@@ -21,7 +21,7 @@ Aprendo l'osu! tournament client, vedrai questa schermata di configurazione:
 
 ## Gestione dei Tornei
 
-Le configurazioni dei tornei per [osu!(lazer)](/wiki/Client/Release_stream/Lazer) sono memorizzate al percorso `%APPDATA%/osu/tournaments`. Al primo avvio del client una cartella chiamata `default` verrà creata al suo interno. Un utente può mantenere più configurazioni di tornei e passare da una all'altra secondo le necessità per ottenere le personalizzazioni appropriate.
+Le configurazioni dei tornei per [osu!(lazer)](/wiki/Client/Release_stream/Lazer) sono memorizzate al percorso `%APPDATA%\osu\tournaments`. Al primo avvio del client una cartella chiamata `default` verrà creata al suo interno. Un utente può mantenere più configurazioni di tornei e passare da una all'altra secondo le necessità per ottenere le personalizzazioni appropriate.
 
 Per creare una nuova configurazione di torneo, crea una nuova cartella nel percorso `tournaments` con il nome del tuo torneo.
 
@@ -42,13 +42,13 @@ Di default, l'osu! tournament client fornisce le bandiere di tutti i paesi del m
 
 Per le bandiere personalizzate, sono accettati i file `.jpg` e `.png`. Le immagini delle bandiere devono essere almeno 140x94, mantenendo un rapporto d'aspetto simile a questa specifica per ottenere risultati ottimali.
 
-Le bandiere devono essere collocate in `<il tuo torneo>/Flags`. Le bandiere possono poi essere identificate nel Team Editor tramite il nome del file senza l'estensione.
+Le bandiere devono essere collocate in `<il tuo torneo>\Flags`. Le bandiere possono poi essere identificate nel Team Editor tramite il nome del file senza l'estensione.
 
 ### Mods
 
 Per le icone delle mod personalizzate, sono accettati i file `.jpg` e `.png`. La risoluzione può essere una qualsiasi e il client la inserirà nel pannello della beatmap. Per riferimento, un pannello di una beatmap a 1920x1080 è di 563x60 pixel.
 
-Le icone delle mod devono essere collocate in `<il tuo torneo>/Mods`. Le mod possono poi essere identificate nel Rounds Editor e nel Seeding Results Editor tramite il nome del file senza l'estensione.
+Le icone delle mod devono essere collocate in `<il tuo torneo>\Mods`. Le mod possono poi essere identificate nel Rounds Editor e nel Seeding Results Editor tramite il nome del file senza l'estensione.
 
 ### Video
 
@@ -62,7 +62,7 @@ I file devono rispettare le seguenti specifiche:
 - Estensione del file `mp4`, `m4v` o `avi
 - Codec Video: H.264, Codec Audio: nessuno
 
-I file video devono essere collocati in `<il tuo torneo>/Video` e sono necessari nomi specifici per il corretto funzionamento.
+I file video devono essere collocati in `<il tuo torneo>\Videos` e sono necessari nomi specifici per il corretto funzionamento.
 
 | Scena | File |
 | :-- | :-- |
