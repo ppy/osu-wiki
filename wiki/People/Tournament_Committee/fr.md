@@ -85,7 +85,7 @@ La communication publique de le comité des tournois est assurée par plusieurs 
 
 Le comité des tournois dispose d'un [compte sur Twitter](https://twitter.com/osu_tcomm) où il diffuse les changements majeurs et les mises à jour de différents types. Tous les changements ne sont pas communiqués ici, mais la plupart des changements les plus importants sont communiqués et clarifiés par ce biais.
 
-Le [Community Tournament Status Tracker] (https://docs.google.com/spreadsheets/d/1bV5MyrJZI0F52Bx9EcYxdfRu8qGnhWRBKdXHK9uPbO0/edit?usp=sharing) est une feuille de calcul publique détaillant le statut de tous les tournois qui ont demandé un soutien officiel. Cette feuille présente tous les tournois depuis le 20 juin 2023 et affiche leur statut tout au long du processus de soutien officiel, y compris si un badge a été appliqué ou refusé.
+Le [Community Tournament Status Tracker](https://docs.google.com/spreadsheets/d/1bV5MyrJZI0F52Bx9EcYxdfRu8qGnhWRBKdXHK9uPbO0/edit?usp=sharing) est une feuille de calcul publique détaillant le statut de tous les tournois qui ont demandé un soutien officiel. Cette feuille présente tous les tournois depuis le 20 juin 2023 et affiche leur statut tout au long du processus de soutien officiel, y compris si un badge a été appliqué ou refusé.
 
 Le post de discussion [Official Tournament Support Updates thread](https://osu.ppy.sh/community/forums/topics/1715676) est un fil de discussion épinglé dans le forum [Tournaments & Contests forum](https://osu.ppy.sh/community/forums/126) qui contient une liste actualisée des mises à jour de l'article du wiki [Support officielle aux tournois](/wiki/Tournaments/Official_support) datant du 1er février 2023. Il contient également des liens vers toutes les ressources mentionnées ci-dessus.
 
