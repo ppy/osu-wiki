@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: Sydosys"
-date: 2024-08-03 11:30:00 +0000
+date: 2024-08-03 12:30:00 +0000
 ---
 
 If you've played an osu! tournament in the last year, odds are you've heard **Sydosys**'s music.
