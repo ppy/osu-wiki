@@ -23,7 +23,7 @@ Les concours bénéficiant d'un soutien officiel ont accès à certains avantage
 
 - **Des badges de profil seront remis aux gagnants de la première place.** Voir les critères de conception des badges de profil sur [l'article officiel de soutien aux tournois](/wiki/Tournaments/Official_support#badges-de-profil).
 - **Progression vers le titre d'utilisateur *Elite Mapper*.** Voir [points de concours](/wiki/Contests/Contest_points) pour plus de détails.
--  **Prise en compte potentielle des [posts de news](#posts-de-news)**.
+- **Prise en compte potentielle des [posts de news](#posts-de-news)**.
 
 ## Éligibilité
 
