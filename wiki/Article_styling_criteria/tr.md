@@ -19,5 +19,5 @@ Madde stillendirme kriteri hakkında bir değişiklik önermek için, [GitHub ü
 
 Madde şekillendirme kriterleri iki maddeye ayrılmıştır:
 
-- [Biçimlendirme](Biçimlendirme): Markdown ve diğer biçimlendirme kurallarını içerir.
-- [Yazım](Yazım): Yazma uygulamalarını ve diğer dilbilgisi kurallarını içerir.
+- [Biçimlendirme](Formatting): Markdown ve diğer biçimlendirme kurallarını içerir.
+- [Yazım](Writing): Yazma uygulamalarını ve diğer dilbilgisi kurallarını içerir.
