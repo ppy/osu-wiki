@@ -6,8 +6,6 @@ tags:
   - "rank #1"
   - rankings
   - top player
-outdated_translation: true
-outdated_since: 8de140a6d10df750d648d93ff6490b93135a072b
 ---
 
 # Storia delle classifiche di osu!
@@ -266,23 +264,30 @@ Mentre ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) è stato ritenuto il 
 | Giocatore | Da | A | Fonte |
 | --: | :-- | :-- | :-- |
 | ::{ flag=DE }:: [WhiteCat](https://osu.ppy.sh/users/4504101) | *2019-10-06* | 2021-04-08 | [\[1\]](https://web.archive.org/web/20191006200709/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/whitecat/) [\[3\]](https://web.archive.org/web/20210119102542/https://old.reddit.com/r/osugame/comments/de8duf/whitecat_is_now_1_global_on_osustandard/) [\[4\]](https://web.archive.org/web/20210203170702if_/https://www.youtube.com/watch?v=Bx4R7lovF-0) |
-| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 2021-04-08 | *Present* | [\[1\]](https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://osu.ppy.sh/users/7562902) [\[3\]](https://ameobea.me/osutrack/user/mrekk/) [\[4\]](https://old.reddit.com/r/osugame/comments/mmkaag/mrekk_is_now_1_surpassing_whitecat/) [\[5\]](https://osu.ppy.sh/scores/osu/3584256449") [\[6\]](https://www.reddit.com/r/osugame/comments/mmkajm/mrekk_colorsslash_colors_power_ni_omakasero/) [\[7\]](https://www.youtube.com/watch?v=xQLVNqfqaOE) |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 2021-04-08 | *2024-07-21* | [\[1\]](https://web.archive.org/web/20210408052501/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mrekk/) [\[3\]](https://old.reddit.com/r/osugame/comments/mmkaag/mrekk_is_now_1_surpassing_whitecat/) [\[4\]](https://osu.ppy.sh/scores/osu/3584256449) [\[5\]](https://www.reddit.com/r/osugame/comments/mmkajm/mrekk_colorsslash_colors_power_ni_omakasero/) [\[6\]](https://www.youtube.com/watch?v=xQLVNqfqaOE) |
 
 ## 2022
 
 | Giocatore | Da | A | Fonte |
 | --: | :-- | :-- | :-- |
-| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | *2021-04-08* | *Present* | [\[1\]](https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://osu.ppy.sh/users/7562902) [\[3\]](https://ameobea.me/osutrack/user/mrekk/) [\[4\]](https://old.reddit.com/r/osugame/comments/mmkaag/mrekk_is_now_1_surpassing_whitecat/) [\[5\]](https://osu.ppy.sh/scores/osu/3584256449") [\[6\]](https://www.reddit.com/r/osugame/comments/mmkajm/mrekk_colorsslash_colors_power_ni_omakasero/) [\[7\]](https://www.youtube.com/watch?v=xQLVNqfqaOE) |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | *2021-04-08* | *2024-07-21* | [\[1\]](https://web.archive.org/web/20210408052501/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mrekk/) [\[3\]](https://old.reddit.com/r/osugame/comments/mmkaag/mrekk_is_now_1_surpassing_whitecat/) [\[4\]](https://osu.ppy.sh/scores/osu/3584256449) [\[5\]](https://www.reddit.com/r/osugame/comments/mmkajm/mrekk_colorsslash_colors_power_ni_omakasero/) [\[6\]](https://www.youtube.com/watch?v=xQLVNqfqaOE) |
 
 ## 2023
 
 | Giocatore | Da | A | Fonte |
 | --: | :-- | :-- | :-- |
-| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | *2021-04-08* | Present | [\[1\]](https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://osu.ppy.sh/users/7562902) [\[3\]](https://ameobea.me/osutrack/user/mrekk/) [\[4\]](https://old.reddit.com/r/osugame/comments/mmkaag/mrekk_is_now_1_surpassing_whitecat/) [\[5\]](https://osu.ppy.sh/scores/osu/3584256449") [\[6\]](https://www.reddit.com/r/osugame/comments/mmkajm/mrekk_colorsslash_colors_power_ni_omakasero/) [\[7\]](https://www.youtube.com/watch?v=xQLVNqfqaOE) |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | *2021-04-08* | *2024-07-21* | [\[1\]](https://web.archive.org/web/20210408052501/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mrekk/) [\[3\]](https://old.reddit.com/r/osugame/comments/mmkaag/mrekk_is_now_1_surpassing_whitecat/) [\[4\]](https://osu.ppy.sh/scores/osu/3584256449) [\[5\]](https://www.reddit.com/r/osugame/comments/mmkajm/mrekk_colorsslash_colors_power_ni_omakasero/) [\[6\]](https://www.youtube.com/watch?v=xQLVNqfqaOE) |
+
+## 2024
+
+| Giocatore | Da | A | Fonte |
+| --: | :-- | :-- | :-- |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | *2021-04-08* | 2024-07-21 | [\[1\]](https://web.archive.org/web/20210408052501/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mrekk/) [\[3\]](https://old.reddit.com/r/osugame/comments/mmkaag/mrekk_is_now_1_surpassing_whitecat/) [\[4\]](https://osu.ppy.sh/scores/osu/3584256449) [\[5\]](https://www.reddit.com/r/osugame/comments/mmkajm/mrekk_colorsslash_colors_power_ni_omakasero/) [\[6\]](https://www.youtube.com/watch?v=xQLVNqfqaOE) |
+| ::{ flag=GB }:: [9MlCE](https://osu.ppy.sh/users/9269034) | 2024-07-21 | Presente | [\[1\]](https://web.archive.org/web/20240722000045/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://web.archive.org/web/20240721223116/https://osu.ppy.sh/users/9269034) [\[3\]](https://ameobea.me/osutrack/user/9MlCE/) [\[4\]](https://old.reddit.com/r/osugame/comments/1e8yf1a/akolibed_is_now_1_passing_mrekk/) [\[5\]](https://osu.ppy.sh/scores/3198116312) [\[6\]](https://old.reddit.com/r/osugame/comments/1e8yf30/9mlce_akolibed_xi_over_the_top_expert_tynamo_1035/) |
 
 ## Numero di regni
 
-Di seguito è riportato il numero totale di volte in cui un giocatore ha raggiunto la posizione numero 1 nel suo tempo di gioco (al 3 giugno 2021).
+Di seguito è riportato il numero totale di volte in cui un giocatore ha raggiunto la posizione numero 1 nel suo tempo di gioco (al 22 luglio 2024).
 
 | Giocatore | Regni |
 | --: | :-: |
@@ -309,6 +314,7 @@ Di seguito è riportato il numero totale di volte in cui un giocatore ha raggiun
 | ::{ flag=TW }:: [Uan](https://osu.ppy.sh/users/147623) | 2 |
 | ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150) | 2 |
 | ::{ flag=CN }:: [5231_Kinoko](https://osu.ppy.sh/users/181057) | 1 |
+| ::{ flag=GB }:: [9MlCE](https://osu.ppy.sh/users/9269034) | 1 |
 | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | 1 |
 | ::{ flag=TW }:: [f0012979](https://osu.ppy.sh/users/12143) | 1 |
 | ::{ flag=JP }:: [Flute](https://osu.ppy.sh/users/211278) | 1 |
@@ -327,10 +333,11 @@ Di seguito è riportato il numero totale di volte in cui un giocatore ha raggiun
 
 *Nota: il regno attuale del numero 1 è escluso.*
 
-Di seguito è riportato il numero totale di giorni in cui un giocatore ha detenuto il posto numero 1 (al 3 giugno 2021).
+Di seguito è riportato il numero totale di giorni in cui un giocatore ha detenuto il posto numero 1 (al 22 luglio 2024).
 
 | Giocatore | Lunghezza (giorni) |
 | --: | :-: |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 1200 |
 | ::{ flag=KR }:: [chocomint](https://osu.ppy.sh/users/124493) | 967 |
 | ::{ flag=TW }:: [hvick225](https://osu.ppy.sh/users/50265) | 578 |
 | ::{ flag=DE }:: [WhiteCat](https://osu.ppy.sh/users/4504101) | 550 |
@@ -371,10 +378,11 @@ Di seguito è riportato il numero totale di giorni in cui un giocatore ha detenu
 
 *Nota: sono inclusi solo i regni superiori a 100 giorni. L'attuale regno numero 1 è escluso.*
 
-Di seguito è riportato l'elenco dei giorni consecutivi in cui un giocatore ha occupato la posizione numero 1 (al 3 giugno 2021).
+Di seguito è riportato l'elenco dei giorni consecutivi in cui un giocatore ha occupato la posizione numero 1 (al 22 luglio 2024).
 
 | Giocatore | Da | A | Lunghezza del regno (giorni) |
 | --: | :-- | :-- | :-: |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 2021-04-08 | 2024-07-21 | 1200 |
 | ::{ flag=DE }:: [WhiteCat](https://osu.ppy.sh/users/4504101) | 2019-10-06 | 2021-04-08 | 550 |
 | ::{ flag=KR }:: [chocomint](https://osu.ppy.sh/users/124493) | 2016-10-23 | 2018-01-21 | 455 |
 | ::{ flag=US }:: [Saturos](https://osu.ppy.sh/users/3781) | 2007-12-23 | 2008-09-06 | 258 |
