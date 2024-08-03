@@ -11,7 +11,7 @@ tags:
 
 The [osu! team](/wiki/People/osu!_team) runs a program where they may opt to provide community-run tournaments that abide by a certain set of criteria and expectations with extra support, at their discretion.
 
-This article was last updated on June 2, 2024. For the full changelog, check out the [tournament support updates thread](https://osu.ppy.sh/community/forums/topics/1715676). For any queries or clarifications, please consult the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+This article was last updated on July 19, 2024. For the full changelog, check out the [tournament support updates thread](https://osu.ppy.sh/community/forums/topics/1715676). For any queries or clarifications, please consult the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Benefits
 
@@ -29,6 +29,10 @@ Community-run tournaments which abide by the following hard criteria are eligibl
 - The tournament series must run no more than two times per year.
 - The tournament must operate on a Round of 16 double-elimination format at a minimum.
   - Larger formats, such as group stages and Swiss brackets, may also be used so long as they start with at least 16 teams and, if applicable and if starting with only 16 teams, break to a double-elimination bracket afterwards.
+  - Tournaments that feature a draft format may operate on a Round of 8 double-elimination bracket provided the tournament meets the following additional criteria:
+    - The tournament is open rank.
+    - The team size is 8 or more.
+    - Note: In tournaments with multiple divisions, this rule applies to only one open-rank division.
   - Alternative scales and formats may be permitted at the sole discretion of the tournament committee. Hosts should contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh) if they are seeking to receive tournament support for a non-traditional tournament format or size.
 - The forum threads associated with the tournament — this includes forum threads for any preliminary events — **MUST** contain a clearly visible link in a normal-sized font to the [tournament reports form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
   - `https://pif.ephemeral.ink/tournament-reports`
@@ -136,7 +140,7 @@ Users under an active tournament ban are expected to disclose their tournament b
 
 At the support team's discretion, staff members whose conduct directly results in a tournament losing its official support may not fulfil the same roles in, nor be the host or admin of, another badged tournament for at least 4 months. In the event this cooldown is applied to a user, they will be informed directly through the [tournament team](mailto:tournaments@ppy.sh).
 
-A list of all tournament staff must be publicly visible in an easily accessible location. This list may be contained within the tournament's forum post, website, or spreadsheet.
+A list of all tournament staff must be publicly visible in an easily accessible location. This list may be contained within the tournament's forum post, wiki page, website, or spreadsheet.
 
 ### Players
 
