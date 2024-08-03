@@ -32,7 +32,7 @@ Nếu bạn cảm thấy những nhận xét/đề nghị thực sự không ph�
 
 Để báo cáo, hãy nhấp vào nút `Report post` ở góc trên bên phải của bài đăng trên diễn đàn.
 
-Ngoài ra, bạn cũng có thể nhấp vào tên người dùng của bất kỳ thành viên GMT nào trong danh sách trên trang wiki trên để đến hồ sơ của họ. Nếu bạn không biết nên chọn ai để báo cáo, [hãy sử dụng liên kết này](https://osu.ppy.sh/users/102335).
+Ngoài ra, bạn cũng có thể nhấp vào tên người dùng của bất kỳ thành viên GMT nào trong danh sách trên trang wiki trên để đến hồ sơ của họ. Nếu bạn không biết nên chọn ai để báo cáo, [hãy sử dụng liên kết này](https://osu.ppy.sh/users/5999631).
 
 Nhấp vào nút có hình phong bì ngay bên dưới lá cờ quốc gia của người dùng. Thao tác này sẽ đưa bạn đến cuộc trò chuyện.
 
