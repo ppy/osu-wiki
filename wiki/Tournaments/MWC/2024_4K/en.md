@@ -83,7 +83,7 @@ The osu!mania 4K World Cup 2024 is run by the [osu! team](/wiki/People/osu!_team
 | ::{ flag=MY }:: | **Malaysia** | **[ERA Leon](https://osu.ppy.sh/users/13382147)** |
 | ::{ flag=MX }:: | **Mexico** | **[Shadow\_GM](https://osu.ppy.sh/users/19554046)** |
 | ::{ flag=NL }:: | **Netherlands** | **[Shoira](https://osu.ppy.sh/users/13377652)** |
-| ::{ flag=NZ }:: | **New Zealand** | **[Robeats](https://osu.ppy.sh/users/19446399)** |
+| ::{ flag=NZ }:: | **New Zealand** | **[Robeats](https://osu.ppy.sh/users/19446399)**, [Bl1x3r](https://osu.ppy.sh/users/31709045), [ERA Midian](https://osu.ppy.sh/users/25689815), [Koyu\_](https://osu.ppy.sh/users/33328421), [StupidSnake](https://osu.ppy.sh/users/21846136), [Zed0x](https://osu.ppy.sh/users/12136108) |
 | ::{ flag=NO }:: | **Norway** | **[xxxbruhmanxxx](https://osu.ppy.sh/users/23726452)** |
 | ::{ flag=PE }:: | **Peru** | **[yoke mao](https://osu.ppy.sh/users/15098503)** |
 | ::{ flag=PH }:: | **Philippines** | **[Silhoueska Elze](https://osu.ppy.sh/users/11517895)** |
