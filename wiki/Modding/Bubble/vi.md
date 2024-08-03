@@ -23,7 +23,7 @@ Trong [quy trình xếp hạng beatmap](/wiki/Beatmap_ranking_procedure) hiện 
 
 Bubble được giới thiệu bởi ::{ flag=AU }:: [peppy](/wiki/People/peppy) vào ngày 29 tháng 10 năm 2007, dành cho "những beatmap đang xem xét để có thể xếp hạng (trong trạng thái chờ thêm phản hồi từ mod)". Đặt biểu tượng cho thread của beatmap qua bubble là một cách cho thành viên BAT biết rằng beatmap có chất lượng tốt và tuân thủ [tiêu chuẩn xếp hạng](/wiki/Ranking_criteria)<!-- internal reference: https://osu.ppy.sh/community/forums/topics/619 -->.
 
-Vào ngày 3 tháng 10 năm 2010, MAT được sử dụng biểu tượng bubble cùng với BAT. Việc này gần như loại bỏ proto-bubble, và kể từ đó cả hai nhóm chủ yếu sử dụng bubbles.
+Vào ngày 4 tháng 10 năm 2010, MAT được sử dụng biểu tượng bubble cùng với BAT. Việc này gần như loại bỏ proto-bubble, và kể từ đó cả hai nhóm chủ yếu sử dụng bubbles.
 
 Sau khi [hệ thống thảo luận beatmap](/wiki/Beatmap_discussion) được hoàn thiện và trở thành giao diện chính cho việc modding vào tháng 11 năm 2017, quản lý beatmap thông qua diễn đàn đã bị loại bỏ dần, và bubble được thay bằng đề cử.
 
