@@ -120,4 +120,4 @@ Un délai de 60 jours est fixé pour le renouvellement de la demande dans les ca
 
 - Demandes rejetées
 - Renvoi du groupe Beatmap Nominators
-- [Démissions ordinaires](/wiki/People/Nomination_Assessment_Team/Evaluations#standard-terms)
+- [Démissions ordinaires](/wiki/People/Nomination_Assessment_Team/Evaluations#termes-standards)
