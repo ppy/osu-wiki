@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Critères de classement simplifiés
 
 *Pour les critères de classement complets, voir : [Critères de classement](/wiki/Ranking_criteria)*
