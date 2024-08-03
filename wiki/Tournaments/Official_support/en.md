@@ -11,7 +11,7 @@ tags:
 
 The [osu! team](/wiki/People/osu!_team) runs a program where they may opt to provide community-run tournaments that abide by a certain set of criteria and expectations with extra support, at their discretion.
 
-This article was last updated on June 2, 2024. For the full changelog, check out the [tournament support updates thread](https://osu.ppy.sh/community/forums/topics/1715676). For any queries or clarifications, please consult the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+This article was last updated on July 19, 2024. For the full changelog, check out the [tournament support updates thread](https://osu.ppy.sh/community/forums/topics/1715676). For any queries or clarifications, please consult the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Benefits
 
@@ -140,7 +140,7 @@ Users under an active tournament ban are expected to disclose their tournament b
 
 At the support team's discretion, staff members whose conduct directly results in a tournament losing its official support may not fulfil the same roles in, nor be the host or admin of, another badged tournament for at least 4 months. In the event this cooldown is applied to a user, they will be informed directly through the [tournament team](mailto:tournaments@ppy.sh).
 
-A list of all tournament staff must be publicly visible in an easily accessible location. This list may be contained within the tournament's forum post, website, or spreadsheet.
+A list of all tournament staff must be publicly visible in an easily accessible location. This list may be contained within the tournament's forum post, wiki page, website, or spreadsheet.
 
 ### Players
 
