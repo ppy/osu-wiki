@@ -5,7 +5,7 @@ These rules are the basis from which we help keep the osu! community a fun and w
 ## Community rules
 
 1. **Each player may only have *ONE* account, ever.** The *first* account you make during account registration is your one and only osu! account, from the moment of its creation and forevermore. This account is YOU. It is not anyone else — not your brother, your mother, your sister, your friend — it is YOU. Don't share your account with anyone else. You don't get to make a new one if you lose access to it. Keep it safe.
-2. **Play fair.** Using third-party utilities of any kind to get any sort of advantage is not okay. This includes things like macro programs, aim-assist programs, timescale modification, and so on. If a program is doing something to help you play the game that you should be doing yourself, it isn't okay!
+2. **Play fair.** Using third-party utilities of any kind to get any sort of advantage is not okay. This includes things like aim-assist programs, timescale modifications, and so on. Macros, keybinds, or hardware where a physical action (e.g. pressing a key down) does not correspond to the same in-game action are similarly disallowed.[^macros] If a program is doing something to help you play the game that you should be doing yourself, it isn't okay!
 3. **Be good to each other.** Harassment or other antagonism has no place within the osu! community. We're here to click circles, beat drums, catch fruit, and hit up to eighteen keys at once, not to be assholes to each other.
 4. **Don't be a douche.** If at any point you are uncertain as to whether you are breaking this rule, you probably are.
 5. **We are an all-ages community.** This means that 18+/[NSFW](https://en.wikipedia.org/wiki/Not_safe_for_work) content such as drug use or topics of a sexual nature are not welcome here.
@@ -65,3 +65,7 @@ If after several infringements you continue to break the rules, your account may
 Restricted accounts cannot play online, set scores, chat with other users and are for all intents and purposes "banned" from interaction with the community. Restriction for community rule violation can only be removed upon appeal to the support staff after 3 months have passed ([more conditions may apply](/wiki/Help_centre/Account_restrictions#reasons)).
 
 Severe offences that go well beyond the scope of our rules and into the jurisdiction of illegal content as per international common law will result in immediate account termination. This applies nearly exclusively to extremely graphic or otherwise abhorrent offences, such as the distribution of child pornography or other material of abuse.
+
+## Notes
+
+[^macros]: Rebinding keys to K1 or K2 is allowed, as long as pressing a specific key performs a press on the bound game key, and releasing the same key performs a release on the bound game key. Binding a press to a release, or having one key perform more than one press/release pair is not allowed.

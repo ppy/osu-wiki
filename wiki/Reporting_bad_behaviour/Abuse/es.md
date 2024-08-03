@@ -32,7 +32,7 @@ Si sientes que los comentarios/avances fueron altamente inapropiados o si eres u
 
 Para hacerlo, haz clic en el botón `Reportar publicación` en la esquina superior derecha de la publicación del foro.
 
-Alternativamente, haz clic en el nombre de usuario de cualquier miembro del equipo de moderadores en la lista de esa página. Esto te llevará a su perfil. Si no estás seguro de a quién hacer clic, simplemente usa [este enlace](https://osu.ppy.sh/users/102335).
+Alternativamente, haz clic en el nombre de usuario de cualquier miembro del equipo de moderadores en la lista de esa página. Esto te llevará a su perfil. Si no estás seguro de a quién hacer clic, simplemente usa [este enlace](https://osu.ppy.sh/users/5999631).
 
 Haz clic en el botón con una carta justo debajo de la bandera del país del usuario. Esto te llevará a la pantalla del chat.
 
