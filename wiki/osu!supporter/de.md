@@ -1,4 +1,5 @@
 ---
+no_native_review: true
 tags:
   - supporter tag
   - osu!supporter tag
@@ -57,6 +58,15 @@ Unterstützer können des Weiteren ihr Profil durch ein Titelbild anpassen:
 - Wähle ein neues Titelbild aus den vorgegebenen Optionen oder lade ein eigenes Bild hoch (die Dimensionen sollten 2400 x 640 sein).
 
 Sobald osu!supporter ausläuft, wird das Titelbild bestehen bleiben, kann aber nicht mehr geändert werden.
+
+### Profilfarben
+
+Ähnlich zu Profilbannern können osu!supporter die Farbe ihres Profils ändern:
+
+- Drücke auf das Stiftsymbol in der rechten, unteren Ecke des Profilbanners.
+- Die Profilfarbe einzustellen verändert die Farbe von fast allem. Dazu gehört der Banner, Buttons, Links und Text.
+
+Sobald osu!supporter ausläuft, bleibt die Farbwahl erhalten, kann aber nur zum Standard zurückgesetzt werden.
 
 ### Eine kostenlose Änderung des Benutzernamens
 
