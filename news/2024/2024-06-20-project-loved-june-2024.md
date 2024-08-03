@@ -9,7 +9,7 @@ Summer is right around the corner, and these month's Loved picks are just what y
 
 ![](/wiki/shared/news/banners/project-loved-2.jpg)
 
-Unsure what Project Loved is? Project Loved hosts community voting polls each month to determine which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). All of the beatmaps are chosen by the [Loved captains](https://loved.sh/contributors) of their respective game modes. You can click on the banners below for each pick to vote on the poll for that map, and there is a description underneath each banner written by a Loved captain. There is also a [Project Loved forum](https://osu.ppy.sh/community/forums/120) as well if you want to view the polls directly. The voting stage lasts for 10 days, so don't forget to vote!
+Unsure what Project Loved is? Project Loved hosts community voting polls each month to determine which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). All the beatmaps are chosen by the [Loved captains](https://loved.sh/contributors) of their respective game modes. You can click on the banners below for each pick to vote on the poll for that map, and there is a description underneath each banner written by a Loved captain. There is also a [Project Loved forum](https://osu.ppy.sh/community/forums/120) as well if you want to view the polls directly. The voting stage lasts for 10 days, so don't forget to vote!
 
 More info can be found on the [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh).
 
@@ -50,7 +50,7 @@ The osu! Loved candidates were chosen by [BATBALL](https://osu.ppy.sh/users/1517
 160 BPM, 3:11 | 4.09★, 4.37★, 4.65★, 4.83★, 5.14★\
 *description written by [Mismagius](https://osu.ppy.sh/users/19048)*
 
-Millions of you have asked for it... and we listened. For this month's **first** *Popular Playcounts* pick, [TheFatRat, Slaydit, Anjulie - Stronger](https://osu.ppy.sh/beatmapsets/1225170#osu/2548106), mapped by [OverXon](https://osu.ppy.sh/users/13088868). One of the biggest titans of the "5\* Jump Training" mapping genre, which is extremely popular between newer players. With five difficulties ranging between 4 and 5 stars so you can jump around while listening to a certified banger. The playerbase has certainly decided, with over 4 million playcount and over 2,800 favourites, that this needs its time in the spotlight. So, here we are! Do you want to see more of this Loved? Time to vote!
+Millions of you have asked for it... and we listened. For this month's **first** *Popular Playcounts* pick, [TheFatRat, Slaydit, Anjulie - Stronger](https://osu.ppy.sh/beatmapsets/1225170#osu/2548106), mapped by [OverXon](https://osu.ppy.sh/users/13088868). One of the biggest titans of the "5\* Jump Training" mapping genre, which is extremely popular between newer players. With five difficulties ranging between 4 and 5 stars, so you can jump around while listening to a certified banger. The playerbase has certainly decided, with over 4 million playcount and over 2,800 favourites, that this needs its time in the spotlight. So, here we are! Do you want to see more of this Loved? Time to vote!
 
 [![](/wiki/shared/news/2024-06-20-project-loved-june-2024/67243.jpg)](https://osu.ppy.sh/community/forums/topics/1938038)
 
@@ -226,7 +226,7 @@ This map is a good introduction to double BPM maps with 1/6 and 1/8 bursts at 15
 160 BPM, 3:31 | 7.31★\
 *description written by [Gamelan4](https://osu.ppy.sh/users/9856910)*
 
-Maps such as [KawaiiBass](https://osu.ppy.sh/users/11992585) and [KTYN](https://osu.ppy.sh/users/2250574)'s (now Waribashi) [Sasaki Eri - Fuyu Biyori (Polcka Remix)](https://osu.ppy.sh/beatmapsets/1346344#taiko/2788245) have been synonymous to osu!taiko's Loved category for several years. Double BPM mapping with clever improvisations were long given leaderboards and a large following before they made their appearance in the Ranked section. This doesn't mean these kinds of maps are going to disappear from Loved; several popular sets sit patiently for their opportunity to be featured in a Loved monthly votation. This set's overwhelming popularity is the community's way to say they love the intensity and freedom the map transmits, an expected reaction considering the two household names responsible for this amazing collab.
+Maps such as [KawaiiBass](https://osu.ppy.sh/users/11992585) and [KTYN](https://osu.ppy.sh/users/2250574)'s (now Waribashi) [Sasaki Eri - Fuyu Biyori (Polcka Remix)](https://osu.ppy.sh/beatmapsets/1346344#taiko/2788245) have been synonymous to osu!taiko's Loved category for several years. Double BPM mapping with clever improvisations were long given leaderboards and a large following before they made their appearance in the Ranked section. This doesn't mean these kinds of maps are going to disappear from Loved — several popular sets sit patiently for their opportunity to be featured in future Loved rounds. This set's overwhelming popularity is the community's way to say they love the intensity and freedom the map transmits, an expected reaction considering the two household names responsible for this amazing collab.
 
 The next step is up to the players, so as always, it's up to you: go ahead and have some fun bashing some drums!
 
@@ -317,7 +317,7 @@ So last month was a bit of an oopsie wasn't it?
 
 For those who missed it, RuleBlazing's [MAKE IT FUNKY NOW](https://osu.ppy.sh/beatmapsets/2085685#mania/4496289) chart was what we were going to push for last month's SV, but we realized too late that it was going for Ranked... so here's the next best candidate from our beloved, very much edible, SV veteran: *Joker*.
 
-Mapped as an SV qualifier for the [osu!mania Asian's Championship 2020](/wiki/Tournaments/o!mAC/2020), *Joker* has a fairly simplistic yet effective concept, especially for the time. In 2020, RuleBlazing was arguably one of the most pivotal SV mappers in the tournament scene, and they have been continuously contributing and making themselves known across many different tournaments. Even now, RuleBlazing's legacy still extends, sometimes even beyond the SV skillset.
+Mapped as an SV qualifier for the [osu!mania Asian's Championship 2020](/wiki/Tournaments/o!mAC/2020), *Joker* has a fairly simplistic yet effective concept, especially for the time. In 2020, RuleBlazing was arguably one of the most pivotal SV mappers in the tournament scene, and they have been continuously contributing and making themselves known across many tournaments. Even now, RuleBlazing's legacy still extends, sometimes even beyond the SV skillset.
 
 The map itself has also resurfaced in popularity through its inclusion in the [first SV Summer Exhibition](https://osu.ppy.sh/community/forums/topics/1313374). As a whole, it has an early-game, somewhat-memorization-oriented type of vibe; as such, SV learners should find it relatively accessible. As an inclusion in the Loved roster, this is yet another addition to our collection of affordable SVs for everyone to enjoy.
 
@@ -337,7 +337,7 @@ While *Joker* is very friendly in terms of tournament compatibility, *Sugar Rush
 
 It takes a fair amount of practice to get good accuracy on it, and we expect the potential players of this map to fight hard for a spot on the leaderboard. By the laws of diminishing returns, the more you climb in terms of accuracy, the harder it gets to gain more accuracy down the line, so... good luck!
 
-In any case, it's not often that we welcome SV mappers outside of the tournament scene, and we wish for more of them to be included in the Loved roster. You can help us by throwing us more suggestions if you are aware of them on our Discord server! If you like what you see, cast your vote in the thread, or tell us what you didn't like about it!
+In any case, it's not often that we welcome SV mappers outside the tournament scene, and we wish for more of them to be included in the Loved roster. You can help us by throwing us more suggestions if you are aware of them on our Discord server! If you like what you see, cast your vote in the thread, or tell us what you didn't like about it!
 
 [![](/wiki/shared/news/2024-06-20-project-loved-june-2024/984549.jpg)](https://osu.ppy.sh/community/forums/topics/1938018)
 
@@ -363,9 +363,9 @@ What are you waiting for? Come on down and vote yes!
 200 – 280 BPM, 2:03 | 4.30★ – 6.20★\
 *description written by [SunApple](https://osu.ppy.sh/users/11817622)*
 
-Honestly I don't really know where to start with describing how well known [IcyWorld](https://osu.ppy.sh/users/1383951) truly is. Having currently nice maps (not including guest participations) already Loved, its about time to give them the double digit Loved count they deserve with another very well-known map of [M-A](https://osu.ppy.sh/beatmapsets/1520392#mania/3111694)!
+Honestly I don't really know where to start with describing how well known [IcyWorld](https://osu.ppy.sh/users/1383951) truly is. Having currently nine maps (not including guest participations) already Loved, it's about time to give them the double-digit Loved count they deserve with another very well-known map of [M-A](https://osu.ppy.sh/beatmapsets/1520392#mania/3111694)!
 
-For a long time I had always thought that IcyWorld mostly made stamina maps which were very difficult because of their lengths. However, this is the total opposite because its drain time is only 2:03 yet it's still able to completely drain your stamina. Let's get the obvious out the way: this map is full of jumpstreams and rolly stream patterns especially during the chorus. However, what make this map truly unique is the changing between doubles to singles constantly to create diamond-shaped patterns (or as I call them, "double oogle crossovers") which only ramps up as the density of the patterns increase in the last 30 seconds.
+For a long time I had always thought that IcyWorld mostly made stamina maps which were very difficult because of their lengths. However, this is the total opposite because its drain time is only 2:03, yet it's still able to completely drain your stamina. Let's get the obvious out the way: this map is full of jumpstreams and rolly stream patterns especially during the chorus. However, what make this map truly unique is the changing between doubles to singles constantly to create diamond-shaped patterns (or as I call them, "double oogle crossovers") which only ramps up as the density of the patterns increase in the last 30 seconds.
 
 I think we already know that IcyWorld maps are very well liked so why not just vote "yes" already.
 
@@ -375,7 +375,7 @@ I think we already know that IcyWorld maps are very well liked so why not just v
 115 BPM, 2:06 | 5.22★\
 *description written by [SunApple](https://osu.ppy.sh/users/11817622)*
 
-Many people will know [Poca](https://osu.ppy.sh/users/8581031) for many things (mostly their insane acc ability for me), but did you know that they also map? Well if you were like me you would've been a bit curious about how their maps played and maybe have played their first map that is now being nominated for Loved: [Aishite Aishite Aishite](https://osu.ppy.sh/beatmapsets/1808358#mania/3708644).
+Many people will know [Poca](https://osu.ppy.sh/users/8581031) for many things (mostly their insane acc ability for me), but did you know that they also map? Well if you were like me, you would've been a bit curious about how their maps played and maybe have played their first map that is now being nominated for Loved: [Aishite Aishite Aishite](https://osu.ppy.sh/beatmapsets/1808358#mania/3708644).
 
 When first starting out on this map, you may think this is your average dump chart with a lot of awkward patterns, but instead it is something completely different. This map is very heavily focused on challenging streams that almost play like trills, as well as an abundance of staircase patterns that appear all over the place. Another thing that you'll realize immediately is the amount of trills that are present in every section, even if they are the focal point of what's happening.
 
@@ -401,7 +401,7 @@ That said, it's still no joke to play 160 BPM minijacks, especially since the lo
 
 Many are familiar with \[[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871) due to their difficult long note charts, but we've chosen to tone it down a bit this month with [Somewhere I Belong](https://osu.ppy.sh/beatmapsets/928232#mania/1938851).
 
-Being a bit of a step down from last month's long note pick while continuing on the same trend, *Somewhere I Belong* adds unique releases to a song you typically wouldn't see charted, all while keeping the representation at a good level. The gameplay itself has a bit of everything at once, some parts being more heavy on unusual releases with some jack-y motions, while other parts are more heavy on full inverse and coordination. All this combined got it featured in the Quarterfinals pool for [MWC 4K 2021](/wiki/Tournaments/MWC/2021_4K).
+Being a bit of a step-down from last month's long note pick while continuing on the same trend, *Somewhere I Belong* adds unique releases to a song you typically wouldn't see charted, all while keeping the representation at a good level. The gameplay itself has a bit of everything at once, some parts being more heavy on unusual releases with some jack-y motions, while other parts are more heavy on full inverse and coordination. All this combined got it featured in the Quarterfinals pool for [MWC 4K 2021](/wiki/Tournaments/MWC/2021_4K).
 
 It comes as no surprise why this is a fan-favorite among Crysarlene's easier charts. So for those who are looking for even more diverse music choices, more tricky releases, or just more long note charts to set a score on, go cast your vote on this!
 
@@ -415,7 +415,7 @@ There is increasing traction and interest towards K-pop song and culture, so thi
 
 The pack consists of 02Jam-style maps that have a diverse amount of skillsets that will help players learn more advanced LN patterning, from intermediate to upper-level difficulties! It starts out with LN density and increasingly fast and chaotic inverse patterning, but as you go higher in difficulty, you get faster patterns that demand higher amounts of coordination to execute smoothly.
 
-It is a challenging pack, but the amount of favorites and the playcount will surely prove that it deserves its spot as one of this month's 7K picks! Make sure to help vote and support the map so we can finally have this awesome map in the Loved section once and for all!
+It is a challenging pack, but the amount of favorites and the playcount will surely prove that it deserves its spot as one of this month's 7K picks! Make sure to help vote and support the map, so we can finally have this awesome map in the Loved section once and for all!
 
 [![](/wiki/shared/news/2024-06-20-project-loved-june-2024/1674163.jpg)](https://osu.ppy.sh/community/forums/topics/1938012)
 
