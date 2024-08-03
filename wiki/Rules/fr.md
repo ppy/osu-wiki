@@ -1,3 +1,8 @@
+---
+outdated_since: 218cb353a5cb04575555aa5d0c33fd5e5de209d7
+outdated_translation: true
+---
+
 # Règles
 
 Ces règles sont les bases à partir de laquelle nous contribuons à faire de la communauté d'osu! un endroit amusant et accueillant pour tous.
