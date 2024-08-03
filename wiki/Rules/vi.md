@@ -1,3 +1,8 @@
+---
+outdated_since: 218cb353a5cb04575555aa5d0c33fd5e5de209d7
+outdated_translation: true
+---
+
 # Nội quy
 
 Những nội quy dưới đây là nền móng trong việc gìn giữ cộng đồng osu! luôn là một nơi vui vẻ và chào đón mọi người.
