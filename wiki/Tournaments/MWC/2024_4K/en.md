@@ -53,9 +53,62 @@ The osu!mania 4K World Cup 2024 is run by the [osu! team](/wiki/People/osu!_team
 
 ## Links
 
-- **[Sign up here](https://osu.ppy.sh/community/tournaments/46)**
 - [Livestream](https://www.twitch.tv/osulive)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1950284)
+- [Tournament listing](https://osu.ppy.sh/community/tournaments/46)
+
+## Participants
+
+|  | Country | Members |
+| :-: | :-: | :-- |
+| ::{ flag=AR }:: | **Argentina** | **[CatalepsiaX](https://osu.ppy.sh/users/27208738)** |
+| ::{ flag=AU }:: | **Australia** | **[ruka](https://osu.ppy.sh/users/6117525)** |
+| ::{ flag=BR }:: | **Brazil** | **[LeMarcinho](https://osu.ppy.sh/users/13347579)** |
+| ::{ flag=CA }:: | **Canada** | **[ERA Sunny](https://osu.ppy.sh/users/16468962)** |
+| ::{ flag=CL }:: | **Chile** | **[myucchii](https://osu.ppy.sh/users/10072733)** |
+| ::{ flag=CN }:: | **China** | **[\[Crz\]Caicium](https://osu.ppy.sh/users/10702235)** |
+| ::{ flag=CO }:: | **Colombia** | **[AlexxiTo](https://osu.ppy.sh/users/16711124)** |
+| ::{ flag=CZ }:: | **Czechia** | **[grillroasted](https://osu.ppy.sh/users/18271627)** |
+| ::{ flag=DK }:: | **Denmark** | **[Haveaffald](https://osu.ppy.sh/users/12854716)** |
+| ::{ flag=FI }:: | **Finland** | **[Strachy](https://osu.ppy.sh/users/9663200)** |
+| ::{ flag=FR }:: | **France** | **[PatouZ](https://osu.ppy.sh/users/7306522)** |
+| ::{ flag=DE }:: | **Germany** | **[ERA Punish](https://osu.ppy.sh/users/10615367)** |
+| ::{ flag=HK }:: | **Hong Kong** | **[Ricizus](https://osu.ppy.sh/users/10395139)** |
+| ::{ flag=ID }:: | **Indonesia** | **[Onta\_Bekasi](https://osu.ppy.sh/users/8677684)** |
+| ::{ flag=IE }:: | **Ireland** | **[SureFir3](https://osu.ppy.sh/users/24495218)** |
+| ::{ flag=IL }:: | **Israel** | **[\[-Yuuki-\]](https://osu.ppy.sh/users/18782031)** |
+| ::{ flag=IT }:: | **Italy** | **[Kiraz](https://osu.ppy.sh/users/3807675)** |
+| ::{ flag=JP }:: | **Japan** | **[CrewK](https://osu.ppy.sh/users/11488604)** |
+| ::{ flag=LT }:: | **Lithuania** | **[maerD\_Cactuz](https://osu.ppy.sh/users/17147440)** |
+| ::{ flag=MY }:: | **Malaysia** | **[ERA Leon](https://osu.ppy.sh/users/13382147)** |
+| ::{ flag=MX }:: | **Mexico** | **[Shadow\_GM](https://osu.ppy.sh/users/19554046)** |
+| ::{ flag=NL }:: | **Netherlands** | **[Shoira](https://osu.ppy.sh/users/13377652)** |
+| ::{ flag=NZ }:: | **New Zealand** | **[Robeats](https://osu.ppy.sh/users/19446399)** |
+| ::{ flag=NO }:: | **Norway** | **[xxxbruhmanxxx](https://osu.ppy.sh/users/23726452)** |
+| ::{ flag=PE }:: | **Peru** | **[yoke mao](https://osu.ppy.sh/users/15098503)** |
+| ::{ flag=PH }:: | **Philippines** | **[Silhoueska Elze](https://osu.ppy.sh/users/11517895)** |
+| ::{ flag=PL }:: | **Poland** | **[bagjettka](https://osu.ppy.sh/users/18338179)** |
+| ::{ flag=PT }:: | **Portugal** | **[SUNec4\_](https://osu.ppy.sh/users/26228192)** |
+| ::{ flag=PR }:: | **Puerto Rico** | **[\[LS\]Jadix](https://osu.ppy.sh/users/19735496)** |
+| ::{ flag=RO }:: | **Romania** | **[Mich\_](https://osu.ppy.sh/users/11784492)** |
+| ::{ flag=RU }:: | **Russian Federation** | **[\[LN\]Nepko](https://osu.ppy.sh/users/11898245)** |
+| ::{ flag=SA }:: | **Saudi Arabia** | **[yui -](https://osu.ppy.sh/users/27404774)** |
+| ::{ flag=SG }:: | **Singapore** | **[oyama mahiro](https://osu.ppy.sh/users/21207265)** |
+| ::{ flag=KR }:: | **South Korea** | **[VanillaLatte](https://osu.ppy.sh/users/10329095)** |
+| ::{ flag=ES }:: | **Spain** | **[ERA Guldakh](https://osu.ppy.sh/users/8553078)** |
+| ::{ flag=SE }:: | **Sweden** | **[Lemmie](https://osu.ppy.sh/users/11700865)** |
+| ::{ flag=TW }:: | **Taiwan** | **[jackyjacky607](https://osu.ppy.sh/users/16191405)** |
+| ::{ flag=TH }:: | **Thailand** | **[konkawe](https://osu.ppy.sh/users/15665805)** |
+| ::{ flag=TR }:: | **Turkey** | **[hsod](https://osu.ppy.sh/users/15391485)** |
+| ::{ flag=UA }:: | **Ukraine** | **[SpookyKraken](https://osu.ppy.sh/users/13356854)** |
+| ::{ flag=GB }:: | **United Kingdom** | **[Zoobin4](https://osu.ppy.sh/users/10055204)** |
+| ::{ flag=US }:: | **United States** | **[TristanJacob11](https://osu.ppy.sh/users/11817838)** |
+| ::{ flag=VE }:: | **Venezuela** | **[Edvo](https://osu.ppy.sh/users/8301758)** |
+| ::{ flag=VN }:: | **Vietnam** | **[\[LS\]Vixile](https://osu.ppy.sh/users/26233321)** |
+
+Captains are listed in **bold**. Individual team compositions subject to change until **Friday, August 10 23:59 UTC**. This list was last updated on **August 3**.
+
+The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/f3ec88dc91bdbf85429fdeff10ba211f).
 
 ## Ruleset
 
@@ -112,7 +165,7 @@ The osu!mania 4K World Cup 2024 is run by the [osu! team](/wiki/People/osu!_team
    - Captains are allowed to exclude themselves from the team list.
    - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms.
    - Captains are allowed, at any time, to transfer their role to other prospective team members. Once given, only the new captain may assign the captaincy to another player.
-   - **Teams that do not not send their team list by August 15, 23:59 UTC will be disqualified from the competition.**
+   - **Teams that do not not send their team list by August 10, 23:59 UTC will be disqualified from the competition.**
 3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
    - Every registered user will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, players are required to be placed #5000 or higher on the osu!mania 4K global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
