@@ -42,7 +42,7 @@ Experience [this tiebreaker](https://osu.ppy.sh/beatmapsets/2023712) from [The R
 
 ### Sydosys - Lunar Gateway
 
-Everyone's been at [cavoe's osu! event](https://osu.ppy.sh/wiki/Community/cavoe's_osu!_event) for the past week. [This map](https://osu.ppy.sh/beatmapsets/2036508) hosted by [Gamelan4](https://osu.ppy.sh/beatmapsets/2036508) was part of last year's [COEGTS](/wiki/Tournaments/GTS/COEGTS_2023), so now's the (second) best time to try it!
+Everyone's been at [cavoe's osu! event](/wiki/Community/cavoe's_osu!_event) for the past week. [This map](https://osu.ppy.sh/beatmapsets/2036508) hosted by [Gamelan4](https://osu.ppy.sh/beatmapsets/2036508) was part of last year's [COEGTS](/wiki/Tournaments/GTS/COEGTS_2023), so now's the (second) best time to try it!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/392/Songs/Sydosys_-_Lunar_Gateway.mp3">
