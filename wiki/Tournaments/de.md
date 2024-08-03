@@ -856,6 +856,13 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | [Springtime osu!mania Free-for-all Tournament 5](SOFT/5) | 27.02.2021 | 09.05.2021 | ::{ flag=CL }:: [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) | ::{ flag=PH }:: [bojii](https://osu.ppy.sh/users/10083439) | ::{ flag=BR }:: [SillyFangirl](https://osu.ppy.sh/users/2288363) |
 | [Springtime osu!mania Free-for-all Tournament 6](SOFT/6) | 05.03.2022 | 15.05.2022 | ::{ flag=CL }:: [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) | ::{ flag=SG }:: [Xvenn](https://osu.ppy.sh/users/13390529) | ::{ flag=BR }:: [SillyFangirl](https://osu.ppy.sh/users/2288363) |
 
+#### SV: Summer Exhibition
+
+| Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [SV: Summer Exhibition](SVSE/1) | 29.05.2021 | 18.07.2021 | ::{ flag=JP }:: [CrewK](https://osu.ppy.sh/users/11488604) | ::{ flag=KR }:: [Jakads](https://osu.ppy.sh/users/259972) | ::{ flag=US }:: [etterna and osu](https://osu.ppy.sh/users/13712190) |
+| [SV: Summer Exhibition 2](SVSE/2) | 17.06.2023 | 05.08.2023 | gaki wa oshimai! (::{ flag=JP }:: [ICECAKE](https://osu.ppy.sh/users/16100800), ::{ flag=JP }:: [gyoza\_goki](https://osu.ppy.sh/users/18144664)) | no we're not boyfriends (::{ flag=VN }:: [mightyxd](https://osu.ppy.sh/users/12204127), ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222)) | The Hard Balls (::{ flag=CA }:: [walmart5193](https://osu.ppy.sh/users/16468962), ::{ flag=US }:: [ERA Basil](https://osu.ppy.sh/users/7097990)) |
+
 #### The Heptakey osu!mania Cup
 
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
