@@ -36,7 +36,7 @@ Si vous estimez que les remarques/avances étaient très inappropriées ou que v
 
 Pour ce faire, cliquez sur le bouton `Signaler un message` dans le coin supérieur droit du message du forum.
 
-Alternativement, cliquez sur le nom d'utilisateur d'un membre de la GMT dans la liste de cette page. Vous accéderez ainsi à son profil. Si vous ne savez pas sur qui cliquer, utilisez simplement [ce lien à la place](https://osu.ppy.sh/users/102335).
+Alternativement, cliquez sur le nom d'utilisateur d'un membre de la GMT dans la liste de cette page. Vous accéderez ainsi à son profil. Si vous ne savez pas sur qui cliquer, utilisez simplement [ce lien à la place](https://osu.ppy.sh/users/5999631).
 
 Cliquez sur le bouton avec une enveloppe juste en dessous du drapeau du pays de l'utilisateur. Vous accéderez ainsi à l'écran de tchat.
 
