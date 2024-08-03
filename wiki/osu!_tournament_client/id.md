@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Klien turnamen osu!
 
 **Klien turnamen osu!** merupakan klien resmi yang meng-*overlay* [osu!tourney](/wiki/osu!_tournament_client/osu!tourney) dengan berbagai adegan tambahan dan informasi yang berhubungan dengan turnamen dalam tayangan siaran langsung.
