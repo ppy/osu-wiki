@@ -17,6 +17,6 @@ Le distance snap est généralement utilisé pour créer des patterns visuelleme
 
 ## Utilisation
 
-Le distance snap peut être modifié depuis l'onglet [`Compose`](/wiki/Client/Beatmap_editor/Compose) en pressant la touche `Y`, ou - temporairement - en maintenant `Alt` (ce qui peut être préférable, puisque l'outil limite le placement des objets à un cercle d'un certain rayon). Le multiplicateur d'espacement peut être modifié en maintenant la touche `Alt` et en utilisant la molette de la souris, ou en faisant glisser le curseur `Distance Spacing` dans le coin supérieur gauche.
+Le distance snap peut être modifié depuis l'onglet [Compose](/wiki/Client/Beatmap_editor/Compose) en pressant la touche `Y`, ou - temporairement - en maintenant `Alt` (ce qui peut être préférable, puisque l'outil limite le placement des objets à un cercle d'un certain rayon). Le multiplicateur d'espacement peut être modifié en maintenant la touche `Alt` et en utilisant la molette de la souris, ou en faisant glisser le curseur `Distance Spacing` dans le coin supérieur droit. De plus, si vous maintenez la touche `Shift` après `Alt` et que vous faites défiler la roue de la souris ou que vous faites glisser le slider en haut à droite, vous pourrez ajuster le distance snap avec une précision à deux chiffres.
 
 L'icône distance snap devient rouge si la position de l'objet suivant se situe en dehors du terrain de jeu.
