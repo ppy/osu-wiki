@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Configuration d'osu!tourney
 
 *Voir également : [client de tournoi d'osu!](/wiki/osu!_tournament_client)*\
