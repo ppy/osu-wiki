@@ -508,11 +508,11 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
 5. All matches are Best of 7 (first to 4 points).
 6. The beatmaps will be separated through the categories of Reading, Memorization and Hybrid.
 7. Mappools will be released one week in advance, right after the mappool showcase.
-8. All beatmaps will be played under [FreeMod](/wiki/Gameplay/Game_modifier#free-mod) conditions. The only allowed mods are Fade In, Flashlight, Hidden, Mirror, and No Fail.
+8. All beatmaps will be played under [Free Mod](/wiki/Gameplay/Game_modifier#free-mod) conditions. The only allowed mods are Fade In, Flashlight, Hidden, Mirror, and No Fail.
 
 ### Qualifiers
 
-1. The Qualifier pool contains 4 beatmaps, all of which will use [FreeMod](/wiki/Gameplay/Game_modifier#free-mod) rules.
+1. The Qualifier pool contains 4 beatmaps, all of which will use [Free Mod](/wiki/Gameplay/Game_modifier#free-mod) rules.
 2. All players will play the qualifier beatmaps in the designated stage order. Every player needs to play each beatmap fully at least once to be considered a valid participant.
 3. All players will have two chances at each qualifier beatmap, in which the highest of the two runs on each qualifier beatmap will be used to calculate their final score.
 4. The top 64 seeded teams will advance to the bracket stage.
