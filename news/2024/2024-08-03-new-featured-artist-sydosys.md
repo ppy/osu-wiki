@@ -12,11 +12,11 @@ From *5 Digit World Cup*, *Battle of the Box*, *The Roundtable II*, and *COEGTS*
 
 Considering some of **Sydosys**'s biggest inspirations are *OOPARTS* and *XNOR XNOR XNOR*, none of this should come as a surprise. **Sydosys** has a knack for omnigenre full flavour pieces, making each of their distinctly different tunes a perfect fit for rhythm games (including osu!).
 
-Some people may have noticed that **Sydosys** was part of our Featured Artist catalogue earlier than today. [This clip explains the situation](https://youtube.com/clip/UgkxkaBPmIm8hLVeLlZhZg5tDzjtwyhgCx27?feature=shared).
+Some people may have noticed that **Sydosys** was part of our Featured Artist catalogue earlier than today. [This clip explains the situation.](https://youtube.com/clip/UgkxkaBPmIm8hLVeLlZhZg5tDzjtwyhgCx27?feature=shared)
 
 Today, we're making **Sydosys**'s status as a Featured Artist to the forefront! Visit [**Sydosys**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/392) for **12** pre-timed beatmap templates of (mostly) osu! original songs.
 
-The latest addition to **Sydosys**'s discography was his track [HONOR//REPROACH](https://osu.ppy.sh/beatmapsets/2222372) for [LGA](/wiki/Tournaments/LGA/2024), sightread in the grand finals! Here's how that went:
+The latest addition to **Sydosys**'s discography was his track [HONOR//REPROACH](https://osu.ppy.sh/beatmapsets/2222372) for [LGA](/wiki/Tournaments/LGA/2024), sightread in the Grand Finals! Here's how that went:
 
 <div align="center">
     <video width="95%" controls>
