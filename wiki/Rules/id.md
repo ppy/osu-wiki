@@ -1,5 +1,7 @@
 ---
 no_native_review_since: 5e9fdb4c627a3fae13ab9a1e60e70d1e3aabf594
+outdated_since: 218cb353a5cb04575555aa5d0c33fd5e5de209d7
+outdated_translation: true
 ---
 
 # Peraturan
