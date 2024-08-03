@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Utilisateurs avec des titres uniques
 
 Les titres des utilisateurs sont généralement associés à des [groupes d'utilisateurs](/wiki/People/User_group), mais les utilisateurs listés ci-dessous ont reçu leur titre pour d'autres raisons. La plupart des titres sont des récompenses pour des contributions ou des réalisations, les autres étant des symboles de l'histoire emblématique ou amusante d'osu!
