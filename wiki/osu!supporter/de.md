@@ -1,4 +1,5 @@
 ---
+no_native_review: true
 tags:
   - supporter tag
   - osu!supporter tag
