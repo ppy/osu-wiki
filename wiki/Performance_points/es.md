@@ -22,7 +22,7 @@ El 16 de enero de 2021, se realizaron cambios en el sistema ppv2 que tenían com
 - Ajustar la tasa de pérdida de pp de los fallos a ser más indulgente en los mapas más largos con mayor combo
 - Penalizar las jugadas de menor [precisión](/wiki/Gameplay/Accuracy) con menos obtención de pp
 
-ppv2 está actualmente en servicio activo, con actualizaciones en forma de noticias publicadas por el [comité de puntos de rendimiento ](/wiki/People/Performance_Points_Committee) cada vez que se implementan nuevos cambios.
+ppv2 está actualmente en servicio activo, con actualizaciones en forma de noticias publicadas por el [comité de puntos de rendimiento](/wiki/People/Performance_Points_Committee) cada vez que se implementan nuevos cambios.
 
 ## Calculación
 
