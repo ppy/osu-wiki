@@ -1,8 +1,8 @@
 # Solución para los problemas de rendimiento de osu!
 
-osu! hace todo lo que está en su poder para funcionar con una configuración predeterminada adecuada y te avisa de forma proactiva si estás haciendo/ejecutando algo que podría hacer que el rendimiento de tu juego disminuyera.
+osu! hace todo lo que puede para funcionar con una configuración predeterminada adecuada y te avisa de forma proactiva si estás haciendo/ejecutando algo que podría hacer que el rendimiento de tu juego disminuyera.
 
-Lamentablemente, debido a la variedad de hardware que usa osu!, es muy difícil garantizar un rendimiento óptimo para todos los usuarios. Esta página pretende ayudarte a autodiagnosticar los problemas de rendimiento que tengas, pero también proporciona términos específicos que puedes aprender (y comprobaciones que puedes realizar) para ayudarnos a ayudarte cuando solicites ayuda.
+Lamentablemente, debido a la variedad de hardware que ejecuta osu!, es muy difícil garantizar un rendimiento óptimo para todos los usuarios. Esta página pretende ayudarte a autodiagnosticar los problemas de rendimiento que tengas, pero también proporciona términos específicos que puedes aprender (y comprobaciones que puedes realizar) para ayudarnos a ayudarte cuando solicites ayuda.
 
 ## Cosas que debes comprobar
 
@@ -67,7 +67,7 @@ osu! ofrece múltiples opciones para los limitadores de fotogramas. Cada uno de 
 
 ### VSync
 
-Este limitador de fotogramas se basa en un mecanismo de sincronización vertical proporcionado por el controlador. Garantiza que no se produzca ninguna imagen rasgada, pero añade 1-2 fotogramas de latencia debido a la necesidad de almacenar los fotogramas en el búfer antes de mostrarlos.
+Este limitador de fotogramas se basa en un mecanismo de sincronización vertical proporcionado por el controlador. Garantiza que no se produzca ninguna imagen rasgada, pero añade 1 o 2 fotogramas de latencia debido a la necesidad de almacenar los fotogramas en el búfer antes de mostrarlos.
 
 Por lo general, no se recomienda para pantallas de 60 Hz. Puede resultar más útil con frecuencias de refresco superiores a 120 Hz, pero con los monitores GSync y FreeSync desaparece la necesidad de utilizar VSync para evitar el rasgado.
 
