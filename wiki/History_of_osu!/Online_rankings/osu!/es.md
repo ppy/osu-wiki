@@ -10,6 +10,8 @@ tags:
   - tabla de clasificación
   - rango 1
   - clasificaciones
+outdated_translation: true
+outdated_since: 79edb3a3685e1e9f35c34c9733b2cfbff5eb2752
 ---
 
 # Historial de las clasificaciones de osu!
