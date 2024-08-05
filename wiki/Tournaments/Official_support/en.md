@@ -11,7 +11,7 @@ tags:
 
 The [osu! team](/wiki/People/osu!_team) runs a program where they may opt to provide community-run tournaments that abide by a certain set of criteria and expectations with extra support, at their discretion.
 
-This article was last updated on July 19, 2024. For the full changelog, check out the [tournament support updates thread](https://osu.ppy.sh/community/forums/topics/1715676). For any queries or clarifications, please consult the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+This article was last updated on August 5, 2024. For the full changelog, check out the [tournament support updates thread](https://osu.ppy.sh/community/forums/topics/1715676). For any queries or clarifications, please consult the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Benefits
 
@@ -148,7 +148,7 @@ Participants in officially supported tournaments are expected to adhere to the [
 
 Additionally, players are expected to have *reasonably participated* in a given tournament in order to qualify for any prizes it may award — simply qualifying as a member of a winning team is not enough.
 
-At the account support team's discretion, offending players may be issued timed or permanent tournament bans depending on the severity of their behaviour. Repeat offenders may risk incurring a permanent tournament ban or a restriction.
+At the account support team's discretion, offending players may be issued timed or indefinite tournament bans depending on the severity of their behaviour. Repeat offenders may risk incurring an indefinite tournament ban or a restriction.
 
 ## Other procedures
 
@@ -190,7 +190,7 @@ Profile badge images must adhere to the following standards:
 - The submitted file must be a **PNG**.
 - The dimensions must be **172x80px**.
 - It must clearly display the logo, motif, or name of your tournament.
-- It must be cleanly designed and of reasonable visual quality.
+- It must be cleanly designed, follow the [visual content considerations](/wiki/Rules/Visual_content_considerations), and be of reasonable visual quality.
 - It must not include any sort of sponsorship or promote anything besides the tournament.
 - Any assets must be specifically made for the tournament and adhere to the [content usage guidelines](/wiki/Rules/Content_usage_permissions).
   - This does not include assets that are open-source or public-use (i.e. fonts, icons, etc).
@@ -244,6 +244,7 @@ All main-menu banner images must adhere to the following standards:
 - It must clearly display the logo, motif, AND name of your tournament, plus any information about the ongoing stage or section that is being advertised.
 - It must be cleanly designed with an emphasis on being mostly transparent and relatively unobtrusive visually.
 - It must not include any sort of sponsorship or promote anything besides the tournament.
+- It must follow the [visual content considerations](/wiki/Rules/Visual_content_considerations), i.e. be suitable for viewing by all ages.
 
 [Download a template image for main menu banners here.](https://assets.ppy.sh/media/mainmenu_template.png)
 
