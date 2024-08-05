@@ -100,6 +100,31 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 
 ## Mappools
 
+### Semifinals
+
+- No Mod
+  1. [Passcode - It's You (Zvenx) \[Traverse Beyond the Sea\]](https://osu.ppy.sh/beatmapsets/2226730#fruits/4723733)
+  2. [Memme - Pandemonium (GiGas) \[Zileni's Master\]](https://osu.ppy.sh/beatmapsets/2152059#fruits/4538677)
+  3. [Down - ddm (Mochi -) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/2226652#fruits/4723509)
+  4. [Kagetora. - Aspiration (NekoShabeta) \[Cherry Blossom\]](https://osu.ppy.sh/beatmapsets/2112505#fruits/4435065)
+- Hidden
+  1. [U2 - Saigetsu (Koko & Satsuki ga Tenkomori's Sagyou Bougai Remix) (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2226658#fruits/4723516)
+  2. [Aitsuki Nakuru - phony (-Miya) \[CICO 2024 SF HD2\]](https://osu.ppy.sh/beatmapsets/2226661#fruits/4723522)
+  3. [otoe - DOLL (AIR) \[Extra\]](https://osu.ppy.sh/beatmapsets/1816605#fruits/3726767)
+- Hard Rock
+  1. [Kotone - Kagome (Mochi -) \[Mochi & Rustyy's Farewell Ending\]](https://osu.ppy.sh/beatmapsets/2226671#fruits/4723549)
+  2. [Nanatsukaze - Dream Gravity (Sololiquy) \[Overdose (CICO ver.)\]](https://osu.ppy.sh/beatmapsets/2226660#fruits/4723519)
+  3. [Origami Angel - Noah Fence (WashedUp Player) \[squirrelp's Extra\]](https://osu.ppy.sh/beatmapsets/1931702#fruits/3990667)
+- Double Time
+  1. [DIALOGUE+ - Omoide Shiritori (-Luminate) \[Verti's Rain\]](https://osu.ppy.sh/beatmapsets/2092098#fruits/4421064)
+  2. [Ricky Martin - Livin' La Vida Loca (Zvenx) \[get shrekt!!\]](https://osu.ppy.sh/beatmapsets/2226732#fruits/4723735)
+  3. [zts - the executioner (big snag) \[itay's insane\]](https://osu.ppy.sh/beatmapsets/2155765#fruits/4590821)
+- Easy
+  1. [siromaru + cranky - conflict (Bunnrei) \[Conquest of the Damned\]](https://osu.ppy.sh/beatmapsets/981762#fruits/2054777)
+  2. [Rise Against - Injection (pishifat) \[Extreme\]](https://osu.ppy.sh/beatmapsets/214092#fruits/646390)
+- Tiebreaker
+  1. **[polysha - Endverse (MILK_16) \[Des9 & MILK\_16's Final Annihilation\]](https://osu.ppy.sh/beatmapsets/2226698#fruits/4723636)**
+
 ### Quarterfinals
 
 - No Mod
