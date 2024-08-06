@@ -109,7 +109,7 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 
 ### Finals
 
-Finals' MAD map is **SV2**, the twist is it has to be played under storyboard turned on, and 0% background dim.
+The Finals' MAD map is **SV2**. The twist is that it has to be played with storyboard turned on and 0% background dim.
 
 **[Download the mappack here (198 MB)](https://drive.google.com/file/d/1Jo5jqsAtuMiBvzhUsJ0hBj_XZO4Qsryo/view?usp=sharing)**
 
@@ -138,7 +138,7 @@ Finals' MAD map is **SV2**, the twist is it has to be played under storyboard tu
 
 ### Semifinals
 
-Semifinals' MAD map is **RC5**, the twist is it has to be played with **Random** modifier.
+The Semifinals' MAD map is **RC5**. The twist is that it has to be played with the *Random** mod.
 
 **[Download the mappack here (145 MB)](https://drive.google.com/file/d/1ThPATohDdVNZvvyqRqwOgEDl1DhlMCbh/view?usp=sharing)**
 
