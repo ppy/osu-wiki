@@ -229,6 +229,26 @@ Round of 32's MAD map is **RC3**, the twist is it has to be played with **HardRo
 
 ## Match results
 
+### Semifinals
+
+Saturday, 3 August 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Alpha Dan Virgins | 2 | **6** | **how to train your dragon** | [#1](https://osu.ppy.sh/community/matches/114927503) |
+| **Epic Cat** | **6** | 1 | RealNoFake | [#1](https://osu.ppy.sh/community/matches/114927499) |
+| **Yo, What Team Name** | **6** | 4 | osake | [#1](https://osu.ppy.sh/community/matches/114928200) |
+| **Digital Frogs** | **6** | 2 | we love jacking | [#1](https://osu.ppy.sh/community/matches/114929029) |
+| **Digital Frogs** | **6** | 1 | Yo, What Team Name | [#1](https://osu.ppy.sh/community/matches/114930074) |
+
+Sunday, 4 August 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **leon's waifuus!!** | **6** | 1 | Re:Zuna | [#1](https://osu.ppy.sh/community/matches/114941500) |
+| **how to train your dragon** | **6** | 4 | Epic Cat | [#1](https://osu.ppy.sh/community/matches/114941499) |
+| **Gon and LongGone** | **6** | 1 | Overjoyed | [#1](https://osu.ppy.sh/community/matches/114942281) |
+
 ### Quarterfinals
 
 Friday, 26 July 2024:
