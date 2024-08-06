@@ -96,7 +96,7 @@ The osu!mania 4K World Cup 2024 is run by the [osu! team](/wiki/People/osu!_team
 | ::{ flag=SG }:: | **Singapore** | **[oyama mahiro](https://osu.ppy.sh/users/21207265)**, [Neon-Hooray](https://osu.ppy.sh/users/24058560), [TheOPmeme](https://osu.ppy.sh/users/15763622), [-Pafe-](https://osu.ppy.sh/users/19834488), [CertifiedPinoy](https://osu.ppy.sh/users/11183413), [Claren](https://osu.ppy.sh/users/9362562) |
 | ::{ flag=KR }:: | **South Korea** | **[VanillaLatte](https://osu.ppy.sh/users/10329095)** |
 | ::{ flag=ES }:: | **Spain** | **[ERA Guldakh](https://osu.ppy.sh/users/8553078)** |
-| ::{ flag=SE }:: | **Sweden** | **[Lemmie](https://osu.ppy.sh/users/11700865)** |
+| ::{ flag=SE }:: | **Sweden** | **[NeonDrakon](https://osu.ppy.sh/users/6315000)**, [Lemmie](https://osu.ppy.sh/users/11700865), [\[LS\]Trymatic](https://osu.ppy.sh/users/14762260), [Johnney101](https://osu.ppy.sh/users/11928361), [oliverq](https://osu.ppy.sh/users/14888056), [venyez](https://osu.ppy.sh/users/15927535) |
 | ::{ flag=TW }:: | **Taiwan** | **[jackyjacky607](https://osu.ppy.sh/users/16191405)** |
 | ::{ flag=TH }:: | **Thailand** | **[\_Kiruru](https://osu.ppy.sh/users/17699745)**, [konkawe](https://osu.ppy.sh/users/15665805), [--Pavin--](https://osu.ppy.sh/users/12046267), [parponger](https://osu.ppy.sh/users/28098890), [MatchaLatte-](https://osu.ppy.sh/users/15944956), [banan](https://osu.ppy.sh/users/16011592) |
 | ::{ flag=TR }:: | **Turkey** | **[hsod](https://osu.ppy.sh/users/15391485)**, [Heumrage](https://osu.ppy.sh/users/19664675), [Zanherall](https://osu.ppy.sh/users/22929825), [Taksma](https://osu.ppy.sh/users/27480074), [Zmor0133](https://osu.ppy.sh/users/6419257) |
@@ -106,7 +106,7 @@ The osu!mania 4K World Cup 2024 is run by the [osu! team](/wiki/People/osu!_team
 | ::{ flag=VE }:: | **Venezuela** | **[Edvo](https://osu.ppy.sh/users/8301758)** |
 | ::{ flag=VN }:: | **Vietnam** | **[\[LS\]Vixile](https://osu.ppy.sh/users/26233321)** |
 
-Captains are listed in **bold**. Individual team compositions subject to change until **Friday, August 9 23:59 UTC**. This list was last updated on **August 5**.
+Captains are listed in **bold**. Individual team compositions subject to change until **Friday, August 9 23:59 UTC**. This list was last updated on **August 7**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/f3ec88dc91bdbf85429fdeff10ba211f).
 
