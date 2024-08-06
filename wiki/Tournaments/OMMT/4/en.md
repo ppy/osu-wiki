@@ -132,7 +132,7 @@ The Finals' MAD map is **SV2**. The twist is that it has to be played with story
   3. [Sot-C - Extra Stage (TheFunk) \[Bonus Round\]](https://osu.ppy.sh/beatmapsets/2105933#mania/4418876)
 - SV
   1. [shadow\_bling - Crush Alcohol (awdse22) \[DRUNK DRIVING IN POLICE CAR\]](https://osu.ppy.sh/beatmapsets/2226663#mania/4723525)
-  2. [ZxNX - FORTALiCE (Promachos) \[DiSARRAY\]](https://osu.ppy.sh/beatmapsets/2092706#mania/4387297)
+  2. [ZxNX - FORTALiCE (Promachos) \[DiSARRAY\]](https://osu.ppy.sh/beatmapsets/2092706#mania/4387297)*
 - Tiebreaker
   1. **[Sydosys - ArchangeL (ERA Imperial) \[Final Judgment\]](https://osu.ppy.sh/beatmapsets/2185088#mania/461886)**
 
