@@ -158,7 +158,7 @@ Semifinals' MAD map is **RC5**, the twist is it has to be played with **Random**
   2. [Kyuushoku Touban - Deception (YuEast 2018) \[x1.10\]](https://osu.ppy.sh/beatmapsets/1999921#mania/4334982)
   3. [Camellia - flying in the flow of deep-sea (Onlinee) \[Sm7sh's In search of the light of the deep sea (cut)\]](https://osu.ppy.sh/beatmapsets/2222900#mania/4713610)
 - SV
-  1. [C-CLAYS - Fairy Stage (Orca-) \[The World of The Night Echoes. \| OMMT Edit.\]](https://osu.ppy.sh/beatmapsets/1631662#mania/3330695)
+  1. [Camellia - Fly Wit Me (Orca-) \[I'm Done Playin\]](https://osu.ppy.sh/beatmapsets/1631662#mania/3330695)
   2. [guna - Yukidsuki-yashou (\[Crz\]xz1z1z) \[SV\]](https://osu.ppy.sh/beatmapsets/2206241#mania/4671101)
 - Tiebreaker
   1. **[aa...hisuichazuke... - steganography (Oceanus) \[Stardust\]](https://osu.ppy.sh/beatmapsets/1863297#mania/3831533)**
