@@ -18,7 +18,7 @@ Dans tous les cas, le veto sur la beatmap doit être énoncé comme tel et doit 
 
 Si les problèmes sont résolus ou justifiés de manière satisfaisante et que toutes les parties sont d'accord, le nominateur peut lever le veto du Beatmap Nominator et autoriser la qualification.
 
-## Que se passe-t-il si aucun accord n'est conclu ?
+## Médiation sur le veto
 
 Le beatmapping est extrêmement diversifié et il faut s'attendre à des différences créatives. Cela doit être encouragé afin de créer un contenu varié que tous les joueurs peuvent apprécier ! Cependant, de telles différences peuvent naturellement conduire à des désaccords.
 
@@ -26,9 +26,11 @@ Si la discussion ne progresse plus dans le sens d'un compromis, ou si elle ne pe
 
 Si l'auteur du veto n'est plus un Beatmap Nominator et qu'aucune médiation n'a été demandée, le veto sera rejeté.
 
-Au cours de la médiation, les Beatmap Nominators et les membres de la NAT voteront pour confirmer ou rejeter le veto de manière anonyme. Une fois lancé, ce processus peut durer entre un jour et une semaine, en fonction de la rapidité avec laquelle les participants prennent leur décision.
+Lors de la médiation, les Beatmap Nominators et les membres de la NAT pour le ou les modes de jeu concernés par le veto voteront pour le maintien ou le rejet du veto de manière anonyme. Une fois lancé, ce processus dure environ 7 jours, selon la rapidité avec laquelle les participants prennent leur décision. Le veto peut être divisé en plusieurs points de vote, qui peuvent être maintenus ou rejetés individuellement en fonction des résultats du vote.
 
 Toute décision prise par les participants doit être motivée. En cas d'empêchement d'un membre, son vote sera considéré comme une abstention.
+
+Pour qu'un point de veto soit maintenu, une majorité de 70 % des voix doit être d'accord avec ce qui est énoncé. Si ce seuil n'est pas atteint, le point de veto peut être rejeté.
 
 ## Comment procéder après la médiation
 
