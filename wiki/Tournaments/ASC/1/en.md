@@ -22,7 +22,7 @@ The **Asia Suiji Cup: Rhythmus Aquarum** (***ASC***) is a three-on-three asian c
 | Qualifiers | 2024-07-13/2024-07-14 |
 | Round of 16 | 2024-07-20/2024-07-21 |
 | Quarterfinals | 2024-07-27/2024-07-28 |
-| Semifinals | 2024-08-03/2024-08-04 |
+| Semifinals | 2024-08-02/2024-08-04 |
 | Finals | 2024-08-10/2024-08-11 |
 | Grand Finals | 2024-08-17/2024-08-18 |
 
@@ -175,6 +175,31 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
   2. [Zekk - Abrasion (Japeynius) \[Stage 8: Resolution\]](https://osu.ppy.sh/beatmapsets/2206324#mania/4671290)
 
 ## Match results
+
+### Semifinals
+
+Friday, 2 August 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Yuma fanboys** | **6** | 3 | Bocchi Soup | [#1](https://osu.ppy.sh/community/matches/114913530) |
+
+Saturday, 3 August 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **LOTT'S TRAGIC HINDILOVE EXTRA** | **6** | 3 | Mama Mia | [#1](https://osu.ppy.sh/community/matches/114925231) |
+| 83.33% Chinese 16.66% Filipino | 5 | **6** | **Rice Farmer** | [#1](https://osu.ppy.sh/community/matches/114927517) |
+| skibidi's hybrid soup | 1 | **6** | **Noodle Soup** | [#1](https://osu.ppy.sh/community/matches/114928294) |
+
+Sunday, 4 August 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Pixel 7** | **6** | 4 | Undertable sands | [#1](https://osu.ppy.sh/community/matches/114938720) |
+| **Play Robeats** | **6** | 3 | Kamisato Lemon | [#1](https://osu.ppy.sh/community/matches/114939014) |
+| Rice Farmer | 2 | **6** | **Pixel 7** | [#1](https://osu.ppy.sh/community/matches/114939479) |
+| Play Robeats | 5 | **6** | **LOTT'S TRAGIC HINDILOVE EXTRA** | [#1](https://osu.ppy.sh/community/matches/114940342) |
 
 ### Quarterfinals
 
