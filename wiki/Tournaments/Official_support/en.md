@@ -190,7 +190,7 @@ Profile badge images must adhere to the following standards:
 - The submitted file must be a **PNG**.
 - The dimensions must be **172x80px**.
 - It must clearly display the logo, motif, or name of your tournament.
-- It must be cleanly designed, follow the [visual content considerations](/wiki/Rules/Visual_content_considerations), and be of reasonable visual quality.
+- It must be cleanly designed and of reasonable visual quality.
 - It must not include any sort of sponsorship or promote anything besides the tournament.
 - Any assets must be specifically made for the tournament and adhere to the [content usage guidelines](/wiki/Rules/Content_usage_permissions).
   - This does not include assets that are open-source or public-use (i.e. fonts, icons, etc).
@@ -244,7 +244,6 @@ All main-menu banner images must adhere to the following standards:
 - It must clearly display the logo, motif, AND name of your tournament, plus any information about the ongoing stage or section that is being advertised.
 - It must be cleanly designed with an emphasis on being mostly transparent and relatively unobtrusive visually.
 - It must not include any sort of sponsorship or promote anything besides the tournament.
-- It must follow the [visual content considerations](/wiki/Rules/Visual_content_considerations), i.e. be suitable for viewing by all ages.
 
 [Download a template image for main menu banners here.](https://assets.ppy.sh/media/mainmenu_template.png)
 
