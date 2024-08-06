@@ -62,12 +62,11 @@ Certas infrações carregam uma duração mínima (normalmente 42 horas ou mais)
 
 Se depois de muitas infrações continuares a quebrar as regras, a tua conta pode ser [permanentemente e irrevogavelmente restrita](/wiki/Help_centre/Account_restrictions).
 
-Restricted accounts cannot play online, set scores, chat with other users and are for all intents and purposes "banned" from interaction with the community. Restriction for community rule violation can only be removed upon appeal to the support staff after 3 months have passed ([more conditions may apply](/wiki/Help_centre/Account_restrictions#reasons)).
 Contas restritas não podem jogar online, enviar pontuações, conversar com outros utilizadores e são completamente "banidas" de qualquer interação com a comunidade. Restrição por violar uma regra da comunidade pode apenas ser removida por solicitação à equipa de suporte depois de 3 meses terem passado ([mais condições poderão ser aplicadas](/wiki/Help_centre/Account_restrictions#reasons)).
 
 Infrações extremamente graves que vão além das nossas regras da comunidade e que caem em jurisdição de conteúdo ilegal através de leis internacionais imediata da conta. Isto aplica-se quase que exclusivamente a conteúdo extremamente gráfico ou infrações abomináveis, tais como a distribuição de pornografia infantil ou outro material de abuso.
 
-## Notes
+## Notas
 
 [^macros]: Mudar as teclas para K1 ou K2 é permitido, desde que pressionar uma tecla específica faça uma ação na tecla vinculada no jogo, e largar a mesma tecla faça uma ação de largar na tecla vinculada. Vincular uma ação de pressionar a uma ação de largar ou ter uma tecla que clique mais vezes do que um par de pressionar/largar não é permitido.
 
