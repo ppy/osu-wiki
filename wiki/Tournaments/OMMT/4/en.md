@@ -107,6 +107,35 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 
 *Note: Maps with asterisk in its ordering list is considered to be MAD map. It is a twist from the organiser to make certain map unbannable, and in some occasion will force players to use modifier to play along with it. Each stage may have different kind of MAD twist, details are written for each stage.*
 
+### Finals
+
+Finals' MAD map is **SV2**, the twist is it has to be played under storyboard turned on, and 0% background dim.
+
+**[Download the mappack here (198 MB)](https://drive.google.com/file/d/1Jo5jqsAtuMiBvzhUsJ0hBj_XZO4Qsryo/view?usp=sharing)**
+
+- RC
+  1. [chelmico - Easy Breezy (7\_7 bootleg) (IvanOfficial) \[Lemon Squeezy (OMMT4 Edit)\]](https://osu.ppy.sh/beatmapsets/2226675#mania/4723555)
+  2. [samfree feat. Hatsune Miku - Euthanasia (\[GS\]hina) \[Elysian x1.05 (cut)\]](https://osu.ppy.sh/beatmapsets/2226620#mania/4723458)
+  3. [Yooh - Heracles (Onlinee) \[Sherie's Confusion (edit)\]](https://osu.ppy.sh/beatmapsets/2226685#mania/4723580)
+  4. [BlackY - Paradission (Magikarp1234) \[Lynessa's x1.0\]](https://osu.ppy.sh/beatmapsets/2033911#mania/4240299)
+  5. [USAO - Cthugha (Toaph Daddy) \[Solar Flare x1.25\]](https://osu.ppy.sh/beatmapsets/1835426#mania/3773378)
+  6. [HimitsuHiketsu - makkau (Oceanus) \[Firmament\]](https://osu.ppy.sh/beatmapsets/2226712#mania/4723689)
+  7. [Camellia - overcomplexification ("Quaternion" Long ver.) (Evening) \[onslaught\<short\>\]](https://osu.ppy.sh/beatmapsets/1727836#mania/3530855)
+- LN
+  1. [Cilvery - Kamisama Nejimaki (juankristal) \[TIMING HELL\]](https://osu.ppy.sh/beatmapsets/1050794#mania/2196171)
+  2. [tokiwa - Kotodama rifurein (katagiri Bootleg) (YuEast 2018) \[x1.00\]](https://osu.ppy.sh/beatmapsets/2153114#mania/4536751)
+  3. [Sta - Party for Monsters (IvanOfficial) \[gogozzzx' Gosta (edit) 1.05x\]](https://osu.ppy.sh/beatmapsets/2226690#mania/4723590)
+  4. [Ayase Rie - Hijitsuzaikei Joshitachi wa Dou Surya Ii Desu ka? (Ainer) \[LNtopia! (feat. Lott) 1.1x\]](https://osu.ppy.sh/beatmapsets/2217751#mania/4723431)
+- HB
+  1. [SiLiS - Defecta (Critical\_Star) \[Light and Shadow\]](https://osu.ppy.sh/beatmapsets/2226638#mania/4723488)
+  2. [Taiko de Time Travel 2765 / Camellia - The Future of the TAIKO DRUM (mightyxd) \[SiLott's The Future of the IIDX KEYBOARD (edit) 1.05x\]](https://osu.ppy.sh/beatmapsets/2036985#mania/4248252)
+  3. [Sot-C - Extra Stage (TheFunk) \[Bonus Round\]](https://osu.ppy.sh/beatmapsets/2105933#mania/4418876)
+- SV
+  1. [shadow\_bling - Crush Alcohol (awdse22) \[DRUNK DRIVING IN POLICE CAR\]](https://osu.ppy.sh/beatmapsets/2226663#mania/4723525)
+  2. [ZxNX - FORTALiCE (Promachos) \[DiSARRAY\]](https://osu.ppy.sh/beatmapsets/2092706#mania/4387297)
+- Tiebreaker
+  1. **[Sydosys - ArchangeL (ERA Imperial) \[Final Judgment\]](https://osu.ppy.sh/beatmapsets/2185088#mania/461886)**
+
 ### Semifinals
 
 Semifinals' MAD map is **RC5**, the twist is it has to be played with **Random** modifier.
