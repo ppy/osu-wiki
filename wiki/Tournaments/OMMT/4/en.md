@@ -105,13 +105,13 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 
 ## Mappools
 
-*Note: Maps with asterisk in its ordering list is considered to be MAD map. It is a twist from the organiser to make certain map unbannable, and in some occasion will force players to use modifier to play along with it. Each stage may have different kind of MAD twist, details are written for each stage.*
+*Note: Maps marked with an asterisk are considered to be "MAD" maps. It is a twist from the organiser to make certain map unbannable, and on some occasions will force players to use certain mods. Each stage may have different kinds of MAD twists as detailed before the mappools.*
 
 ### Finals
 
-The Finals' MAD map is **SV2**. The twist is that it has to be played with storyboard turned on and 0% background dim.
-
 **[Download the mappack here (198 MB)](https://drive.google.com/file/d/1Jo5jqsAtuMiBvzhUsJ0hBj_XZO4Qsryo/view?usp=sharing)**
+
+\*The Finals' MAD map is **SV2**. The twist is that it has to be played with storyboard turned on and 0% background dim.
 
 - RC
   1. [chelmico - Easy Breezy (7\_7 bootleg) (IvanOfficial) \[Lemon Squeezy (OMMT4 Edit)\]](https://osu.ppy.sh/beatmapsets/2226675#mania/4723555)
@@ -138,9 +138,9 @@ The Finals' MAD map is **SV2**. The twist is that it has to be played with story
 
 ### Semifinals
 
-The Semifinals' MAD map is **RC5**. The twist is that it has to be played with the *Random** mod.
-
 **[Download the mappack here (145 MB)](https://drive.google.com/file/d/1ThPATohDdVNZvvyqRqwOgEDl1DhlMCbh/view?usp=sharing)**
+
+\*The Semifinals' MAD map is **RC5**. The twist is that it has to be played with the *Random** mod.
 
 - RC
   1. [Himeringo - Yuudachi no Ribbon (MyZterioN-) \[long-standing 1.1x (253bpm)\]](https://osu.ppy.sh/beatmapsets/2221690#mania/4710471)
@@ -165,9 +165,9 @@ The Semifinals' MAD map is **RC5**. The twist is that it has to be played with t
 
 ### Quarterfinals
 
-Quarterfinals' MAD map is **RC4**, the twist is it has to be played with **DoubleTime** modifier.
-
 **[Download the mappack here (182 MB)](https://drive.google.com/file/d/1kUicxHDFhed2V-E05QI3Ymx9kJSsJWii/view?usp=sharing)**
+
+\*The Quarterfinals' MAD map is **RC4**. The twist is that it has to be played with the **Double Time** mod.
 
 - RC
   1. [t+pazolite - Cheatreal (remity\_) \[Extraneous (230bpm)\]](https://osu.ppy.sh/beatmapsets/2214819#mania/4694245)
@@ -192,9 +192,9 @@ Quarterfinals' MAD map is **RC4**, the twist is it has to be played with **Doubl
 
 ### Round of 16
 
-Round of 16's MAD map is **LN3**, the twist is the map has reverse shield patterns with little to no spacing, to balance it, OD0 was set for the map.
-
 **[Download the mappack here (70 MB)](https://cdn.discordapp.com/attachments/1257367722136703087/1262440243164876902/bomb16.zip?ex=66974358&is=6695f1d8&hm=a3a1f2b1c9a6c95087a670093e210a5bab23026440ad6196f5df35487281bed1&)**
+
+\*The Round of 16's MAD map is **LN3**. The twist is that the map has reverse shield patterns with little to no spacing. To balance it, OD 0 was set for the map.
 
 - RC
   1. [\[Kyoro\] - Tama Funkot (\[GS\]hina) \[Tamate (OMMT Edit)\]](https://osu.ppy.sh/beatmapsets/2214750#mania/4692734)
@@ -217,9 +217,9 @@ Round of 16's MAD map is **LN3**, the twist is the map has reverse shield patter
 
 ### Round of 32
 
-Round of 32's MAD map is **RC3**, the twist is it has to be played with **HardRock** modifier.
-
 **[Download the mappack here (94 MB)](https://cdn.discordapp.com/attachments/1257367722136703087/1259895755179556937/bomb.zip?ex=668e019b&is=668cb01b&hm=0e312cd523c626b8f5c647df75c953dc5eef7f7946e5b8b6d6335b10c3791211&)**
+
+\*The Round of 32's MAD map is **RC3**. The twist is that it has to be played with the **Hard Rock** mod.
 
 - RC
   1. [BEMANI Sound Team "DJ TOTTO" feat.rionos - Simurgh no Mezame (komugii) \[sora x1.1\]](https://osu.ppy.sh/beatmapsets/1415406#mania/2917081)
