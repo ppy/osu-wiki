@@ -80,8 +80,8 @@ Why did you choose to play osu!catch of all game modes osu! has to offer? And wa
 
 Actually, my first game mode was neither osu!catch nor osu!mania. But one of the main reasons why I tried and eventually fell in love with osu!catch was [ExGon](https://osu.ppy.sh/users/214187) who had been dominating for a long time - who is still the greatest of all time for us.
 
-After watching his plays on both osu! and youtube, I naturally tried that game mode and it ended up being my main game mode.
-As for osu!mania, I will go into detail in a later question, but I was already playing a game called O2jam before I started to play osu!.
+After watching his plays on both osu! and YouTube, I naturally tried that game mode and it ended up being my main game mode.
+As for osu!mania, I will go into detail in a later question, but I was already playing a game called O2Jam before I started to play osu!.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-08-12-the-followpoint-motion-the-ultimate-catcher/avatar-MegaMix.jpg')"></a>
 
@@ -93,7 +93,7 @@ Following up on my previous question, one of community members wants to know wha
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3885626">Motion</a></p>
 
-As I already mentioned in the previous question, I've played O2jam since 2006 so I was already used to playing VSRG-style games like O2jam and osu!mania. As a result I was able to adapt quickly to osu!mania without much playtime.
+As I already mentioned in the previous question, I've played O2Jam since 2006 so I was already used to playing VSRG-style games like O2Jam and osu!mania. As a result I was able to adapt quickly to osu!mania without much playtime.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-08-12-the-followpoint-motion-the-ultimate-catcher/avatar-MegaMix.jpg')"></a>
 
@@ -105,7 +105,7 @@ What other rhythm games do you play (or have played), and do you think playing t
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3885626">Motion</a></p>
 
-I used to play O2jam, DJMAX, EZ2AC, SDVX, and I actually do think playing them helped me a lot in becoming better at speed, precision and stamina for osu!catch.
+I used to play O2Jam, DJMAX, EZ2AC, SDVX, and I actually do think playing them helped me a lot in becoming better at speed, precision and stamina for osu!catch.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-08-12-the-followpoint-motion-the-ultimate-catcher/avatar-MegaMix.jpg')"></a>
 
