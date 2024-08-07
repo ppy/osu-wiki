@@ -22,7 +22,7 @@ El 16 de enero de 2021, se realizaron cambios en el sistema ppv2 que tenían com
 - Ajustar la tasa de pérdida de pp de los fallos a ser más indulgente en los mapas más largos con mayor combo
 - Penalizar las jugadas de menor [precisión](/wiki/Gameplay/Accuracy) con menos obtención de pp
 
-ppv2 está actualmente en servicio activo, con actualizaciones en forma de noticias publicadas por el [comité de puntos de rendimiento](/wiki/People/Performance_Points_Committee) cada vez que se implementan nuevos cambios.
+El ppv2 está actualmente en servicio activo, con actualizaciones en forma de noticias publicadas por el [comité de puntos de rendimiento](/wiki/People/Performance_Points_Committee) cada vez que se implementan nuevos cambios.
 
 ## Calculación
 
@@ -40,7 +40,7 @@ El sistema de ponderación es una fórmula sencilla que se usa después de calcu
 
 `pp total = p * 0,95^(n-1)`
 
-En cuanto a la fórmula anterior, *p* representa el valor pp completo de cada puntuación (antes de la ponderación), y *n* es la posición en la clasificación de `Mejor rendimiento` del jugador. Por ejemplo, si las 5 mejores puntuaciones de un jugador fueran 110pp, 100pp, 100pp, 90pp y 80pp, entonces las puntuaciones ponderadas serían aproximadamente 110pp, 95pp, 90pp, 77pp y 65pp.
+En cuanto a la fórmula anterior, *p* representa el valor de pp completo de cada puntuación (antes de la ponderación), y *n* es la posición en la clasificación de `Mejor rendimiento` del jugador. Por ejemplo, si las 5 mejores puntuaciones de un jugador fueran 110pp, 100pp, 100pp, 90pp y 80pp, entonces las puntuaciones ponderadas serían aproximadamente 110pp, 95pp, 90pp, 77pp y 65pp.
 
 ### Puntería
 
@@ -70,7 +70,7 @@ Las puntuaciones con valores de precisión altos son consideradas por el algorit
 
 La *tensión* es un valor fundamental que tiene en cuenta cuántas veces, y durante cuánto tiempo, se somete a un jugador a secciones de alta intensidad dentro de un beatmap concreto.
 
-Los [patrones](/wiki/Beatmap/Pattern) con secciones de velocidad extremadamente altas o secciones muy difíciles en un beatmap aumentarán significativamente sus valores de tensión considerados. Por ejemplo, los beatmaps con más [streams](/wiki/Beatmap/Pattern/osu!/Stream) o jumps rápidos tendrán valores de tensión altos, y por lo tanto, aumentarán la ganancia de pp para ese beatmap.
+Los [patrones](/wiki/Beatmap/Pattern) con una velocidad extremadamente alta o muy difíciles en un beatmap aumentarán significativamente sus valores de tensión considerados. Por ejemplo, los beatmaps con más [streams](/wiki/Beatmap/Pattern/osu!/Stream) o jumps rápidos tendrán valores de tensión altos, y por lo tanto, aumentarán la ganancia de pp para ese beatmap.
 
 ## Preguntas frecuentes
 
