@@ -22,7 +22,7 @@ Las preguntas de la prueba se extraen de un amplio conjunto de preguntas ordenad
 - [Cómo debe ser el storyboarding según los criterios de clasificación](/wiki/Ranking_criteria#storyboarding)
 - Criterios de clasificación específicos del modo: 4 preguntas específicas del modo de juego al que se aplique (osu!, osu!taiko, osu!catch, osu!mania)
 
-Para las solicitudes de osu!, una puntuación inferior a 12,5 dará lugar a una solicitud fallida. Para los otros modos de juego, no existe un valor mínimo para aprobar o suspender la prueba para convertirse en un BN, pero se acepta generalmente que una puntuación superior a 15 es buena, una puntuación entre 12,5 y 15 es mediocre, y cualquier puntuación inferior es preocupante.
+Para las solicitudes de osu!, una puntuación inferior a 12,5 dará lugar a una solicitud fallida. Para los otros modos de juego, no existe un valor mínimo para aprobar o suspender la prueba, pero se acepta generalmente que una puntuación superior a 15 es buena, una puntuación entre 12,5 y 15 es mediocre, y cualquier puntuación inferior es preocupante.
 
 La prueba no tiene límite de tiempo y se espera que los solicitantes lean las páginas relevantes de la wiki mientras realizan la prueba. (¡No es hacer trampa!)
 
