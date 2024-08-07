@@ -1,6 +1,6 @@
 # Clasificación SEV
 
-El SEV es un sistema de puntuación usado por el [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*) para determinar la relevancia del [restablecimiento de una nominación](/wiki/Beatmap_ranking_procedure#restablecimientos-de-nominaciones) para las evaluaciones de las nominaciones de los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*), proporcionando transparencia y consistencia. Este sistema de puntuación se divide en dos valores y se muestra como *Obviedad/Severidad*. Ambos valores varían entre 0 y 2, lo que lo convierte en un sistema fácil de entender y rápido de usar.
+El SEV es un sistema de puntuación usado por el [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*) para determinar la relevancia del [restablecimiento de una nominación](/wiki/Beatmap_ranking_procedure#restablecimientos-de-nominaciones) para las evaluaciones de las nominaciones de los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*), proporcionando transparencia y consistencia. Este sistema de puntuación se divide en dos valores y se muestra como *obviedad/severidad*. Ambos valores varían entre 0 y 2, lo que lo convierte en un sistema fácil de entender y rápido de usar.
 
 ## Obviedad y severidad
 
@@ -106,7 +106,7 @@ Los restablecimientos debidos a problemas de mapping rara vez tienen 2 de obvied
   - Compás incorrecto
 - **1/1:** (49 %)
   - Compensación incorrecta
-    - Para una temporización simple, alrededor de 6-12 ms
+    - Para una temporización simple, alrededor de 6 a 12 ms
     - Para una temporización compleja, alrededor de 10 ms a más
 
 ### Archivos
@@ -145,7 +145,7 @@ Los restablecimientos relacionados con los archivos de los beatmaps casi nunca t
   - Objetos mal ajustados que afectan notablemente a la jugabilidad
     - Objetos mal ajustados que siempre causan un juicio de 100, a veces 50, o incluso el bloqueo de las notas
     - Objetos mal ajustados que provocan un espaciado anormal entre las notas siguientes/anteriores
-    - Un objetos mal ajustado en una parte de un stream, burst o triple (que no se puede simplificar)
+    - Un objeto mal ajustado en una parte de un stream, burst o triple (que no se puede simplificar)
 
 ### Hitsounds
 
