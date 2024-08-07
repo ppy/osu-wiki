@@ -34,7 +34,7 @@ La fase individual se mostrará en el sitio web de los BN 2 semanas antes de su 
 
 ### Fase grupal
 
-Una vez que tres miembros del NAT hayan presentado sus evaluaciones, la evaluación pasará a la fase grupal. Durante la fase grupal, los miembros del NAT discutirán sus evaluaciones entre sí, llegarán a un acuerdo y redactarán el informe de evaluación. Los resultados e informe pueden variar en función del BN. Si se observa que un BN no está rindiendo a la altura de las expectativas, se le puede imponer una advertencia o un periodo de prueba, dependiendo de la gravedad del problema.
+Una vez que tres miembros del NAT hayan presentado sus evaluaciones, la evaluación pasará a la fase grupal. Durante la fase grupal, los miembros del NAT discutirán sus evaluaciones entre sí, llegarán a un acuerdo y redactarán el informe de la evaluación. Los resultados e informe pueden variar en función del BN. Si se observa que un BN no está rindiendo a la altura de las expectativas, se le puede imponer una advertencia o un periodo de prueba, dependiendo de la gravedad del problema.
 
 Una vez redactado y revisado el informe, se enviará y se realizarán los cambios necesarios en los [grupos de usuarios](/wiki/People/User_group). El [bot del Nomination Assessment Team](https://osu.ppy.sh/users/6616586) enviará el informe en forma de [mensaje de anuncio](/wiki/Announcement_messages).
 
@@ -46,7 +46,7 @@ Las advertencias debidas a un rendimiento insuficiente como Beatmap Nominator co
 
 Los Beatmap Nominators pueden renunciar al grupo en cualquier momento a través del sitio web de los BN. Cuando esto ocurra, se asignará a tres miembros del NAT para que evalúen al nominador por última vez, con el fin de determinar si la renuncia se produce en «buenos» términos o en términos «estándar». Esta evaluación tiene un plazo de 24 horas y se anuncia a los miembros del NAT en su respectivo canal de Discord.
 
-Una vez que se haya llegado a un acuerdo sobre los términos de la renuncia, el NAT enviará al BN un mensaje de anuncio a través del [bot del Nomination Assessment Team](https://osu.ppy.sh/users/6616586) informándole de su situación y de cuándo puede volver a solicitar convertirse en un BN si así lo desea.
+Una vez que se haya llegado a un acuerdo sobre los términos de la renuncia, el NAT le enviará un mensaje de anuncio al BN a través del [bot del Nomination Assessment Team](https://osu.ppy.sh/users/6616586) informándole de su situación y de cuándo puede volver a solicitar convertirse en un BN si así lo desea.
 
 #### Buenos términos
 
@@ -62,6 +62,6 @@ Los nominadores que renuncien en condiciones estándar tendrán que volver a sol
 
 ### Actividad
 
-Cada vez que se crea la evaluación de un Beatmap Nominator, su actividad es revisada automáticamente por el sitio web de los BN. Si no cumple los [requisitos mínimos](/wiki/People/Beatmap_Nominators/Rules#actividad), la evaluación pasará automáticamente a la fase grupal y tendrá como consenso una advertencia de actividad o una eliminación, dependiendo de la actividad. Luego, un miembro del NAT comprobará la validez de dicha evaluación y la enviará si no hay ningún problema.
+Cada vez que se crea la evaluación de un Beatmap Nominator, su actividad es revisada automáticamente por el sitio web de los BN. Si no cumple los [requisitos mínimos](/wiki/People/Beatmap_Nominators/Rules#actividad), la evaluación pasará automáticamente a la fase grupal y tendrá como consenso una advertencia de actividad o una expulsión, dependiendo de la actividad. Luego, un miembro del NAT comprobará la validez de dicha evaluación y la enviará si no hay ningún problema.
 
 Si un Beatmap Nominator regresa de una renuncia en buenos términos y no ha alcanzado su actividad mínima dentro de los primeros 30 días, se creará una nueva evaluación siguiendo el mismo procedimiento anterior, con un consenso de expulsión.
