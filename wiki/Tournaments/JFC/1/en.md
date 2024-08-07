@@ -231,13 +231,34 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
 
 ## Match results
 
+### Finals (week 1)
+
+Saturday, 3 August 2024:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **Suikambing** | **7** | 2 | Santoso | [#1](https://osu.ppy.sh/community/matches/114929885) |
+
+Sunday, 4 August 2024:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | Nasi Kuning Pake Kecap | 3 | **7** | **Ban HR2** | [#1](https://osu.ppy.sh/community/matches/114940640) |
+| Upper | **BAKPIA KUKUS KILLER** | **7** | 2 | Bakpia Kukus | [#1](https://osu.ppy.sh/community/matches/114942476) |
+
+Monday, 5 August 2024:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | Suikambing | 6 | **7** | **Ban HR2** | [#1](https://osu.ppy.sh/community/matches/114943126) |
+
 ### Semifinals
 
 Saturday, 27 July 2024:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **Bakpia Kukus** | **6** | 0 | suikambing | [#1](https://osu.ppy.sh/community/matches/114834963) |
+| Upper | **Bakpia Kukus** | **6** | 0 | Suikambing | [#1](https://osu.ppy.sh/community/matches/114834963) |
 | Lower | **Ban HR2** | **6** | 0 | daftar mepet | [#1](https://osu.ppy.sh/community/matches/114834942) |
 | Lower | **reto pengkhianat** | **6** | 2 | Mie Ayam Afui | [#1](https://osu.ppy.sh/community/matches/114835756) |
 | Upper | **BAKPIA KUKUS KILLER** | **6** | 1 | Nasi Kuning Pake Kecap | [#1](https://osu.ppy.sh/community/matches/114835321) |
