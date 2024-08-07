@@ -41,7 +41,7 @@ Además de poder nominar beatmaps o restablecer sus nominaciones, los BN tambié
 
 ### Mediación de un veto
 
-Cuando se inicia una mediación para un veto, se seleccionará un jurado de BNs al azar. Si eres uno de los miembros seleccionados para una mediación de un veto, el NAT te enviará un mensaje con información adicional sobre cómo votar usando el [sitio web de los BN](http://bn.mappersguild.com). Si no puedes participar, infórmaselo a un miembro del NAT para que se pueda elegir a otro BN para el jurado en tu lugar.
+Cuando se envía un veto a mediación, se pedirá a los BN y a los miembros del NAT del modo del beatmap vetado que presenten votos individuales sobre el asunto. En el caso de los vetos relacionados con problemas que no sean específicos de un modo, se pedirá la participación de todos los miembros del modo. El NAT te enviará un mensaje con información adicional sobre cómo votar a través del [sitio web de los BN](http://bn.mappersguild.com) cuando comience una mediación de un veto. Al final de la mediación, se recopilarán todos los votos presentados para determinar un consenso final de si se mantiene o se retira el veto.
 
 ### Control de calidad
 
