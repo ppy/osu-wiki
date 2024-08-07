@@ -95,13 +95,13 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
   3. [TUYU - Yappari Ame wa Furun da ne (Seros) \[Ame\]](https://osu.ppy.sh/beatmapsets/1217474#osu/2533116)
 - Double Time
   1. [REDALiCE - Kizuato (Natsu) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/108820#osu/346774)
-  2. [fromis_9 - LOVE BOMB (Cellina) \[Heart\]](https://osu.ppy.sh/beatmapsets/1849271#osu/3798824)
+  2. [fromis\_9 - LOVE BOMB (Cellina) \[Heart\]](https://osu.ppy.sh/beatmapsets/1849271#osu/3798824)
   3. [cosMo\@BousouP - Oceanus (Aistre) \[jaistreolv's Insane\]](https://osu.ppy.sh/beatmapsets/1908931#osu/3948730)
   4. [Dio ft. Sef - Tijdmachine (GladiOol) \[Lesjuh! '11\]](https://osu.ppy.sh/beatmapsets/6997#osu/129875)
 - Free Mod
   1. [TJ.hangneil - Kamui (Cellina) \[Nasmoeb's SHD\]](https://osu.ppy.sh/beatmapsets/2008761#osu/4181631)
   2. [Towa Tei with Sheena Ringo - APPLE (fanzhen0019) \[PaRaDogi's Expert\]](https://osu.ppy.sh/beatmapsets/1851719#osu/3941000)
-  3. [tsunamix_underground - Period. ~ Seishin no Kousoku to Jiyuu o Tsukamu Jouka (Cut Ver.) (bob) \[hidden extra.\]](https://osu.ppy.sh/beatmapsets/1594769#osu/3257371)
+  3. [tsunamix_underground - Period. \~ Seishin no Kousoku to Jiyuu o Tsukamu Jouka (Cut Ver.) (bob) \[hidden extra.\]](https://osu.ppy.sh/beatmapsets/1594769#osu/3257371)
 - Tiebreaker
   1. **[Camellia - Tojita Sekai (Sing) \[Forgotten Kingdom\]](https://osu.ppy.sh/beatmapsets/1032718#osu/2159251)**
 
