@@ -148,7 +148,7 @@ Participants in officially supported tournaments are expected to adhere to the [
 
 Additionally, players are expected to have *reasonably participated* in a given tournament in order to qualify for any prizes it may award — simply qualifying as a member of a winning team is not enough.
 
-At the account support team's discretion, offending players may be issued timed or indefinite tournament bans depending on the severity of their behaviour. Repeat offenders may risk incurring an indefinite tournament ban or a restriction.
+At the account support team's discretion, offending players may be issued timed or indefinite [tournament bans](/wiki/Help_centre/Tournament_bans) depending on the severity of their behaviour. Repeat offenders may risk incurring an indefinite tournament ban or a restriction.
 
 ## Other procedures
 
