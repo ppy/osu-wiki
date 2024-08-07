@@ -18,7 +18,7 @@ En todos los casos, el veto de un beatmap debe indicarse como tal, e ir acompañ
 
 Suponiendo que los problemas se resuelvan satisfactoriamente o se justifiquen con el acuerdo de todas las partes, el nominador podrá retirar el veto del beatmap y permitir que se proceda a la calificación.
 
-## ¿Qué pasa si no se llega a un acuerdo?
+## Mediación de un veto
 
 El beatmapping es extremadamente diverso y es de esperar que haya diferencias creativas. ¡Esto se debe fomentar con el fin de crear una variedad de contenido que todos los jugadores puedan disfrutar! Sin embargo, estas diferencias naturalmente pueden conducir a desacuerdos.
 
@@ -26,9 +26,11 @@ Si la discusión ya no avanza en la dirección de un compromiso, o no puede reso
 
 Si el autor del veto ya no es un Beatmap Nominator y no se ha solicitado una mediación, el veto será retirado.
 
-Durante la mediación, los Beatmap Nominators y los miembros del NAT votarán de forma anónima para decidir si se mantiene o se retira el veto. Una vez iniciado, este proceso puede durar desde un día hasta una semana, dependiendo de la rapidez con que los participantes tomen sus decisiones.
+Durante la mediación, los Beatmap Nominators y los miembros del NAT del modo o modos de juego a los que afecte el veto votarán de forma anónima para decidir si se mantiene o se retira el veto. Una vez iniciado, este proceso durará unos 7 días, dependiendo de la rapidez con que los participantes tomen sus decisiones. El veto puede dividirse en puntos más pequeños para su votación, que pueden mantenerse o retirarse individualmente a través de los resultados de la votación.
 
 Cualquier decisión tomada por los participantes debe ir acompañada de una razón para tomar la decisión. Si algún miembro no pudiera participar, su voto se considerará abstenido.
+
+Para que un punto de un veto se mantenga, una mayoría del 70 % de los votos debe estar de acuerdo con lo que se señala. Si no se alcanza este valor mínimo, el punto del veto puede ser retirado.
 
 ## Cómo proceder después de la mediación
 
