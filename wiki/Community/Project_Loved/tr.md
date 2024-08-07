@@ -37,7 +37,7 @@ Birçok [Beklemede ve Yapım aşamasındaki](/wiki/Beatmap/Category#wip-and-pend
 
 Sevilen kategorisine giren beatmapler birtakım ek kuralları takip etmek zorundadır:
 
-- [Derecelendirme Kriterlerinin Metaveri kısmı](/wiki/Ranking_criteria#metadata)
+- [Derecelendirme Kriterlerinin Metaveri kısmı](/wiki/Ranking_criteria/Metadata)
 - [Şarkı İçeriği Kuralları](/wiki/Rules/Song_content_rules)
 - [Görsel İçerik Hususları](/wiki/Rules/Visual_content_considerations)
 

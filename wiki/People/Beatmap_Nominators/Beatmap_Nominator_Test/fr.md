@@ -18,7 +18,7 @@ Les questions du test sont tirées d'un vaste ensemble de questions classées pa
 - [Code de conduite pour le modding et le mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping): 1 question
 - [Critères généraux de classement](/wiki/Ranking_criteria#général) (*RC*): 1 question
 - [Répartition RC](/wiki/Ranking_criteria#beatmap): 1 question
-- [Métadonnées RC](/wiki/Ranking_criteria#métadonnées): 1 question
+- [Métadonnées RC](/wiki/Ranking_criteria/Metadata): 1 question
 - [Timing RC](/wiki/Ranking_criteria#timing): 1 question
 - [Audio RC](/wiki/Ranking_criteria#audio): 1 question
 - [Vidéo et arrière-plan RC](/wiki/Ranking_criteria#vidéo-et-arrière-plan): 1 question

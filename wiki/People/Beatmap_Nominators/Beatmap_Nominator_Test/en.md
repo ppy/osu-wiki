@@ -14,7 +14,7 @@ Test questions are pulled from a large pool of questions sorted by category. The
 - [Mapping and Modding Code of Conduct](/wiki/Rules/Code_of_conduct_for_modding_and_mapping): 1 question
 - [General Ranking Criteria](/wiki/Ranking_criteria#general) (*RC*): 1 question
 - [Spread RC](/wiki/Ranking_criteria#beatmap): 1 question
-- [Metadata RC](/wiki/Ranking_criteria#metadata): 1 question
+- [Metadata RC](/wiki/Ranking_criteria/Metadata): 1 question
 - [Timing RC](/wiki/Ranking_criteria#timing): 1 question
 - [Audio RC](/wiki/Ranking_criteria#audio): 1 question
 - [Video and Background RC](/wiki/Ranking_criteria#video-and-background): 1 question
