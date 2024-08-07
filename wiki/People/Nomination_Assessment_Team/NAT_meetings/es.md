@@ -41,6 +41,6 @@ Estos temas eran demasiado complejos para tratarlos en una reunión por diversas
 | :-- | :-- |
 | El trabajo de los BN y el NAT debe ser menos robótico | Debe dividirse en problemas específicos y sugerencias |
 | Recompensas significativas por el trabajo de los BN y el NAT | Fuera del control del NAT |
-| Dejar que los BN influyan en las solicitudes y/o en las evaluaciones actuales de los BN | El alcance es muy amplio y debería hacerse primero una propuesta por escrito |
+| Dejar que los BN influyan en las solicitudes y/o en las evaluaciones de los BN actuales | El alcance es muy amplio y debería hacerse primero una propuesta por escrito |
 | Liderazgo del NAT, rotación del personal, descenso de categoría | El alcance es muy amplio y debería hacerse primero una propuesta por escrito |
 | Trabajo preliminar para la limpieza/reescritura de los artículos de mapping/modding de la wiki | Muy pocas personas están dispuestas a ayudar |
