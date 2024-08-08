@@ -12,7 +12,7 @@ tags:
 
 [L'équipe d'osu!](/wiki/People/osu!_team) gère un programme dans le cadre duquel elle peut choisir de fournir un support supplémentaire aux tournois organisés par la communauté qui respectent un certain nombre de critères et d'attentes, à sa discrétion.
 
-Cet article a été mis à jour pour la dernière fois le 19 juillet 2024. Pour obtenir la liste complète des modifications, consultez le [fil de discussion sur les mises à jour du support des tournois](https://osu.ppy.sh/community/forums/topics/1715676). Pour toute question ou clarification, veuillez consulter le canal `#tournaments` sur le [serveur Discord d'osu!](https://discord.com/invite/ppy) ou envoyer un e-mail à [l'équipe de support aux comptes](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+Cet article a été mis à jour pour la dernière fois le 5 Août 2024. Pour obtenir la liste complète des modifications, consultez le [fil de discussion sur les mises à jour du support des tournois](https://osu.ppy.sh/community/forums/topics/1715676). Pour toute question ou clarification, veuillez consulter le canal `#tournaments` sur le [serveur Discord d'osu!](https://discord.com/invite/ppy) ou envoyer un e-mail à [l'équipe de support aux comptes](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Avantages
 
@@ -149,7 +149,7 @@ Les participants aux tournois officiellement soutenus sont tenus de respecter le
 
 En outre, les joueurs sont censés avoir *participé raisonnablement* à un tournoi donné afin de se qualifier pour les prix qui peuvent être attribués - le simple fait de se qualifier en tant que membre d'une équipe gagnante ne suffit pas.
 
-À la discrétion de l'équipe d'assistance aux comptes, les joueurs fautifs peuvent se voir imposer des interdictions de tournoi temporaires ou permanentes en fonction de la gravité de leur comportement. Les récidivistes risquent de se voir infliger une interdiction de tournoi permanente ou une restriction.
+À la discrétion de l'équipe d'assistance aux comptes, les joueurs fautifs peuvent se voir imposer des [interdictions de tournoi](/wiki/Help_centre/Tournament_bans) à durée déterminée ou indéterminée, en fonction de la gravité de leur comportement. Les récidivistes risquent de se voir infliger une interdiction de tournoi à durée indéterminée ou une restriction.
 
 ## Autres procédures
 
