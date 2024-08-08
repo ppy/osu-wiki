@@ -22,7 +22,7 @@ The **Asia Suiji Cup: Rhythmus Aquarum** (***ASC***) is a three-on-three asian c
 | Qualifiers | 2024-07-13/2024-07-14 |
 | Round of 16 | 2024-07-20/2024-07-21 |
 | Quarterfinals | 2024-07-27/2024-07-28 |
-| Semifinals | 2024-08-03/2024-08-04 |
+| Semifinals | 2024-08-02/2024-08-04 |
 | Finals | 2024-08-10/2024-08-11 |
 | Grand Finals | 2024-08-17/2024-08-18 |
 
@@ -91,6 +91,29 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
 | **Yuma fanboys** | ::{ flag=JP }:: **[Nikoro](https://osu.ppy.sh/users/25588443)**, ::{ flag=SG }:: [-Pafe-](https://osu.ppy.sh/users/19834488), ::{ flag=CN }:: [\[GB\]mmttyy233](https://osu.ppy.sh/users/28639641), ::{ flag=ID }:: [iSxga](https://osu.ppy.sh/users/15801261), ::{ flag=AU }:: [oct4](https://osu.ppy.sh/users/10303887), ::{ flag=QA }:: [YumaOs](https://osu.ppy.sh/users/13047982) |
 
 ## Mappools
+
+### Finals
+
+- RC
+  1. [katagiri - 1680 Man Shoku ni Hikaru Gaming Kemomimi Loli (\[GS\]hina) \[Iridescent\]](https://osu.ppy.sh/beatmapsets/2226644#mania/4723498)
+  2. [Noah - End to end (Zia) \[Sword\]](https://osu.ppy.sh/beatmapsets/2226643#mania/4723493)
+  3. [SOUND HOLIC Vs. dj TAKA feat. YURiCa (Zia) \[Stealing\]](https://osu.ppy.sh/beatmapsets/2226656#mania/4723513)
+  4. [Anegasaki Nei - ZENITHALIZE (Mipha-) \[MIPHATHER 1.05x (157bpm)\]](https://osu.ppy.sh/beatmapsets/1744633#mania/3676737)
+  5. [False Noise - Space Angel (Disguise) \[im not that amiable\]](https://osu.ppy.sh/beatmapsets/2168810#mania/4576456)
+- LN
+  1. [Jay Chou - Gong Gong with Headache (YuEast 2018) \[Less Pain\]](https://osu.ppy.sh/beatmapsets/2226647#mania/4723503)
+  2. [katagiri - RAINBOW GIRL (katagiri Remix) \[x1.00\]](https://osu.ppy.sh/beatmapsets/2119804#mania/4453271)
+  3. [Frums - 19ZZ (ERA Imperial) \[LN-J03\]](https://osu.ppy.sh/beatmapsets/2226646#mania/4723501)
+  4. [Helblinde - A Reyvateil's Curse (FelixSpade) \[LN Prodigy // Shackles (cut)\]](https://osu.ppy.sh/beatmapsets/2226113#mania/4722254)
+- HB
+  1. [meganeko - Feral (osu! edit) (\[GB\]Mafufu) \[Blue\_Potion's Meditation 1.0x\]](https://osu.ppy.sh/beatmapsets/2226626#mania/4723468)
+  2. [roer & N\_dog - Moving on (TheFunk) \[From the past\]](https://osu.ppy.sh/beatmapsets/2226645#mania/4723500)
+  3. [Rukadesu & SKiLOBYTE - ULTIMATE (TheFunk) \[Brawliseum (Nerf)\]](https://osu.ppy.sh/beatmapsets/2036462#mania/4246955)
+- SV
+  1. [Katali - TeraVolt (awdse22) \[Voltage Overload\]](https://osu.ppy.sh/beatmapsets/2226666#mania/4723535)
+  2. [linear ring - cache (NovaSagittarii) \[compulsory miss\]](https://osu.ppy.sh/beatmapsets/2226670#mania/4723547)
+- Tiebreaker
+  1. **[AWC Sound Team - LABYRNTH (Japeynius) \[Contradictary Complexities\]](https://osu.ppy.sh/beatmapsets/2226715#mania/4723702)**
 
 ### Semifinals
 
@@ -175,6 +198,31 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
   2. [Zekk - Abrasion (Japeynius) \[Stage 8: Resolution\]](https://osu.ppy.sh/beatmapsets/2206324#mania/4671290)
 
 ## Match results
+
+### Semifinals
+
+Friday, 2 August 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Yuma fanboys** | **6** | 3 | Bocchi Soup | [#1](https://osu.ppy.sh/community/matches/114913530) |
+
+Saturday, 3 August 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **LOTT'S TRAGIC HINDILOVE EXTRA** | **6** | 3 | Mama Mia | [#1](https://osu.ppy.sh/community/matches/114925231) |
+| 83.33% Chinese 16.66% Filipino | 5 | **6** | **Rice Farmer** | [#1](https://osu.ppy.sh/community/matches/114927517) |
+| skibidi's hybrid soup | 1 | **6** | **Noodle Soup** | [#1](https://osu.ppy.sh/community/matches/114928294) |
+
+Sunday, 4 August 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Pixel 7** | **6** | 4 | Undertable sands | [#1](https://osu.ppy.sh/community/matches/114938720) |
+| **Play Robeats** | **6** | 3 | Kamisato Lemon | [#1](https://osu.ppy.sh/community/matches/114939014) |
+| Rice Farmer | 2 | **6** | **Pixel 7** | [#1](https://osu.ppy.sh/community/matches/114939479) |
+| Play Robeats | 5 | **6** | **LOTT'S TRAGIC HINDILOVE EXTRA** | [#1](https://osu.ppy.sh/community/matches/114940342) |
 
 ### Quarterfinals
 

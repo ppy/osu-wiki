@@ -100,6 +100,31 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 
 ## Mappools
 
+### Semifinals
+
+- No Mod
+  1. [Passcode - It's You (Zvenx) \[Traverse Beyond the Sea\]](https://osu.ppy.sh/beatmapsets/2226730#fruits/4723733)
+  2. [Memme - Pandemonium (GiGas) \[Zileni's Master\]](https://osu.ppy.sh/beatmapsets/2152059#fruits/4538677)
+  3. [Down - ddm (Mochi -) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/2226652#fruits/4723509)
+  4. [Kagetora. - Aspiration (NekoShabeta) \[Cherry Blossom\]](https://osu.ppy.sh/beatmapsets/2112505#fruits/4435065)
+- Hidden
+  1. [U2 - Saigetsu (Koko & Satsuki ga Tenkomori's Sagyou Bougai Remix) (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2226658#fruits/4723516)
+  2. [Aitsuki Nakuru - phony (-Miya) \[CICO 2024 SF HD2\]](https://osu.ppy.sh/beatmapsets/2226661#fruits/4723522)
+  3. [otoe - DOLL (AIR) \[Extra\]](https://osu.ppy.sh/beatmapsets/1816605#fruits/3726767)
+- Hard Rock
+  1. [Kotone - Kagome (Mochi -) \[Mochi & Rustyy's Farewell Ending\]](https://osu.ppy.sh/beatmapsets/2226671#fruits/4723549)
+  2. [Nanatsukaze - Dream Gravity (Sololiquy) \[Overdose (CICO ver.)\]](https://osu.ppy.sh/beatmapsets/2226660#fruits/4723519)
+  3. [Origami Angel - Noah Fence (WashedUp Player) \[squirrelp's Extra\]](https://osu.ppy.sh/beatmapsets/1931702#fruits/3990667)
+- Double Time
+  1. [DIALOGUE+ - Omoide Shiritori (-Luminate) \[Verti's Rain\]](https://osu.ppy.sh/beatmapsets/2092098#fruits/4421064)
+  2. [Ricky Martin - Livin' La Vida Loca (Zvenx) \[get shrekt!!\]](https://osu.ppy.sh/beatmapsets/2226732#fruits/4723735)
+  3. [zts - the executioner (big snag) \[itay's insane\]](https://osu.ppy.sh/beatmapsets/2155765#fruits/4590821)
+- Easy
+  1. [siromaru + cranky - conflict (Bunnrei) \[Conquest of the Damned\]](https://osu.ppy.sh/beatmapsets/981762#fruits/2054777)
+  2. [Rise Against - Injection (pishifat) \[Extreme\]](https://osu.ppy.sh/beatmapsets/214092#fruits/646390)
+- Tiebreaker
+  1. **[polysha - Endverse (MILK_16) \[Des9 & MILK\_16's Final Annihilation\]](https://osu.ppy.sh/beatmapsets/2226698#fruits/4723636)**
+
 ### Quarterfinals
 
 - No Mod
@@ -193,6 +218,39 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 
 ## Match results
 
+### Quarterfinals
+
+Saturday, 3 August 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[\[Amazing\]](https://osu.ppy.sh/users/1391036)** ::{ flag=KR }:: | **6** | 0 | ::{ flag=TW }:: [Nazrin on osu](https://osu.ppy.sh/users/2512267) | [#1](https://osu.ppy.sh/community/matches/114925296) |
+| Lower | **[Taskmaster](https://osu.ppy.sh/users/3027065)** ::{ flag=ID }:: | **6** | 5 | ::{ flag=TW }:: [Oktavia](https://osu.ppy.sh/users/1952803) | [#1](https://osu.ppy.sh/community/matches/114926967) |
+| Lower | [TheTixTop](https://osu.ppy.sh/users/19236870) ::{ flag=AU }:: | 2 | **6** | ::{ flag=HK }:: **[littlepiggod](https://osu.ppy.sh/users/12331683)** | [#1](https://osu.ppy.sh/community/matches/114926468) |
+| Lower | **[Minato Yukina](https://osu.ppy.sh/users/4133477)** ::{ flag=TW }:: | **6** | 3 | ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580) | [#1](https://osu.ppy.sh/community/matches/114924853) |
+| Lower | **[Flyer](https://osu.ppy.sh/users/9767342)** ::{ flag=TW }:: | **6** | 1 | ::{ flag=HK }:: [fua](https://osu.ppy.sh/users/21138904) | [#1](https://osu.ppy.sh/community/matches/114925281) |
+| Lower | **[Cold Fusion](https://osu.ppy.sh/users/15389158)** ::{ flag=RU }:: | **6** | 3 | ::{ flag=SA }:: [WOAH0](https://osu.ppy.sh/users/18336339) | [#1](https://osu.ppy.sh/community/matches/114928946) |
+| Lower | [Serestia](https://osu.ppy.sh/users/30511396) ::{ flag=ID }:: | 0 | **6** | ::{ flag=SG }:: **[Ekseff](https://osu.ppy.sh/users/13966422)** | *win by default* |
+
+Sunday, 4 August 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[\[Amazing\]](https://osu.ppy.sh/users/1391036)** ::{ flag=KR }:: | **6** | 2 | ::{ flag=HK }:: [littlepiggod](https://osu.ppy.sh/users/12331683) | [#1](https://osu.ppy.sh/community/matches/114938315) |
+| Upper | **[Nekuro](https://osu.ppy.sh/users/3222638)** ::{ flag=ID }:: | **6** | 4 | ::{ flag=TW }:: [Happiness Fish](https://osu.ppy.sh/users/4586766) | [#1](https://osu.ppy.sh/community/matches/114939817) |
+| Upper | [Nene Sakura](https://osu.ppy.sh/users/6701104) ::{ flag=CN }:: | 3 | **6** | ::{ flag=TW }:: **[DoDoEbi](https://osu.ppy.sh/users/1177233)** | [#1](https://osu.ppy.sh/community/matches/114940391) |
+| Lower | **[Taskmaster](https://osu.ppy.sh/users/3027065)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=TW }:: [Minato Yukina](https://osu.ppy.sh/users/4133477) | [#1](https://osu.ppy.sh/community/matches/114941737) |
+| Upper | **[Kimitakari](https://osu.ppy.sh/users/4741164)** ::{ flag=RU }:: | **6** | 3 | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) | [#1](https://osu.ppy.sh/community/matches/114940976) |
+| Upper | **[Shimoe Koharu](https://osu.ppy.sh/users/2145160)** ::{ flag=TW }:: | **6** | 5 | ::{ flag=HK }:: [my angel auto](https://osu.ppy.sh/users/29503627) | [#1](https://osu.ppy.sh/community/matches/114941623) |
+| Lower | **[KWYJIBO](https://osu.ppy.sh/users/7178386)** ::{ flag=AU }:: | **6** | 0 | ::{ flag=RU }:: [Rakety](https://osu.ppy.sh/users/11109479) | *win by default* |
+| Lower | [Flyer](https://osu.ppy.sh/users/9767342) ::{ flag=TW }:: | 0 | **6** | ::{ flag=SG }:: **[Ekseff](https://osu.ppy.sh/users/13966422)** | *win by default* |
+
+Monday, 5 August 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [KWYJIBO](https://osu.ppy.sh/users/7178386) ::{ flag=AU }:: | 2 | **6** | ::{ flag=RU }:: **[Cold Fusion](https://osu.ppy.sh/users/15389158)** | [#1](https://osu.ppy.sh/community/matches/114939539) |
+
 ### Round of 16
 
 Friday, 26 July 2024:
@@ -222,6 +280,7 @@ Sunday, 28 July 2024:
 | Upper | **[Happiness Fish](https://osu.ppy.sh/users/4586766)** ::{ flag=TW }:: | **5** | 0 | ::{ flag=ID }:: [Taskmaster](https://osu.ppy.sh/users/3027065) | [#1](https://osu.ppy.sh/community/matches/114847534) |
 | Upper | **[Kimitakari](https://osu.ppy.sh/users/4741164)** ::{ flag=RU }:: | **5** | 0 | ::{ flag=RU }:: [Cold Fusion](https://osu.ppy.sh/users/15389158) | [#1](https://osu.ppy.sh/community/matches/114848031) |
 | Lower | [\_Tsukiko](https://osu.ppy.sh/users/4787989) ::{ flag=TW }:: | 4 | **5** | ::{ flag=TW }:: **[Oktavia](https://osu.ppy.sh/users/1952803)** | [#1](https://osu.ppy.sh/community/matches/114850301) |
+| Upper | **[Nene Sakura](https://osu.ppy.sh/users/6701104)** ::{ flag=CN }:: | **5** | 2 | ::{ flag=AU }:: [TheTixTop](https://osu.ppy.sh/users/19236870) | [#1](https://osu.ppy.sh/community/matches/114832648) |
 | Lower | [\_Nanami](https://osu.ppy.sh/users/1929450) ::{ flag=TW }:: | 0 | **5** | ::{ flag=RU }:: **[Rakety](https://osu.ppy.sh/users/11109479)** | [#1](https://osu.ppy.sh/community/matches/114847543) |
 | Lower | [OYG](https://osu.ppy.sh/users/7547506) ::{ flag=KR }:: | 0 | **5** | ::{ flag=HK }:: **[littlepiggod](https://osu.ppy.sh/users/12331683)** | *win by default* |
 
