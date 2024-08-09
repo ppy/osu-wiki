@@ -1,4 +1,4 @@
-# Clasificación SEV
+# Puntuación SEV
 
 El SEV es un sistema de puntuación usado por el [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*) para determinar la relevancia del [restablecimiento de una nominación](/wiki/Beatmap_ranking_procedure#restablecimientos-de-nominaciones) para las evaluaciones de las nominaciones de los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*), proporcionando transparencia y consistencia. Este sistema de puntuación se divide en dos valores y se muestra como *obviedad/severidad*. Ambos valores varían entre 0 y 2, lo que lo convierte en un sistema fácil de entender y rápido de usar.
 
@@ -22,7 +22,7 @@ La **severidad** se refiere a la repercusión del problema en el juego.
 | 1 | A tener en cuenta | Tiene un impacto negativo en la jugabilidad, pero no significativo. |
 | 2 | Defecto de diseño moderado | Perjudica a la jugabilidad hasta el punto de que también es perceptible para un usuario común, por ejemplo, un gran jump en una dificultad baja. En la práctica, a menudo se trata de una combinación de múltiples razones notables, como ser demasiado difícil de leer y un pico de dificultad injustificado. |
 
-A continuación, se ofrecen ejemplos de clasificaciones SEV y cómo las interpretan a grandes rasgos los evaluadores:
+A continuación, se ofrecen ejemplos de puntuaciones SEV y cómo las interpretan a grandes rasgos los evaluadores:
 
 | SEV | Descripción |
 | :-- | :-- |
@@ -37,15 +37,15 @@ A continuación, se ofrecen ejemplos de clasificaciones SEV y cómo las interpre
 
 ## Uso
 
-Las clasificaciones SEV se usan en las [evaluaciones de los Beatmap Nominators](/wiki/People/Nomination_Assessment_Team/Evaluations), ponderadas en función del número de nominaciones que han realizado.
+Las puntuaciones SEV se usan en las [evaluaciones de los Beatmap Nominators](/wiki/People/Nomination_Assessment_Team/Evaluations), ponderadas en función del número de nominaciones que han realizado.
 
-Los errores ocurren y una cantidad razonable ayuda a aprender, pero si ocurren con demasiada frecuencia o se repiten los mismos errores, entonces es un problema. Por eso, las evaluaciones no se centran en las clasificaciones SEV individuales, sino que tienen en cuenta todo el contexto caso por caso.
+Los errores ocurren y una cantidad razonable ayuda a aprender, pero si ocurren con demasiada frecuencia o se repiten los mismos errores, entonces es un problema. Por eso, las evaluaciones no se centran en las puntuaciones SEV individuales, sino que tienen en cuenta todo el contexto caso por caso.
 
 ## Motivos comunes de los restablecimientos
 
 *Estos datos comprenden el 90 % de todos los restablecimientos.*
 
-A continuación, se muestra una lista exhaustiva de los motivos por los que se han restablecido las nominaciones con su respectiva clasificación SEV. Estos datos se basan en las estadísticas de todas las clasificaciones SEV establecidas en el modo de juego osu! desde febrero de 2020 hasta abril de 2021, con porcentajes para mostrar lo comunes que son los problemas.
+A continuación, se muestra una lista exhaustiva de los motivos por los que se han restablecido las nominaciones con su respectiva puntuación SEV. Estos datos se basan en las estadísticas de todas las puntuaciones SEV establecidas en el modo de juego osu! desde febrero de 2020 hasta abril de 2021, con porcentajes para mostrar lo comunes que son los problemas.
 
 Esta lista no incluye todos los motivos posibles de un restablecimiento, y el NAT puede valorar de forma diferente los restablecimientos por los mismos motivos mencionados, dependiendo del contexto específico.
 
