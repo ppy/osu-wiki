@@ -13,7 +13,7 @@ tags:
 
 **osu!supporter** (o la ***etiqueta de osu!supporter***) es un título temporal dado a los jugadores que apoyan a osu! de manera voluntaria con una donación monetaria para ayudarlo a crecer. Los supporters reciben un puñado de beneficios cosméticos y técnicos, la mayoría solo se presentan cuando el título está presente. Las características extras de osu!supporter no dan ningún tipo de ventaja en el juego, rendimiento o puntuación, y nunca lo hará.
 
-La etiqueta de osu!supporter podrá ser obtenida desde la [página de la tienda de osu!supporter](https://osu.ppy.sh/store/products/supporter-tag).
+La etiqueta de osu!supporter puede obtenerse en la [página de la tienda de osu!](https://osu.ppy.sh/store/products/supporter-tag).
 
 ## Características
 
@@ -64,7 +64,7 @@ Una vez que la etiqueta de osu!supporter expire, la portada se mantendrá, pero 
 
 Al igual que las portadas de los perfiles, los supporters pueden modificar el color de su perfil:
 
-- Haz clic en el icono del lápiz en la esquina inferior derecha de la portada del perfil.
+- Haz clic en el icono del lápiz situado en la esquina inferior derecha de la portada del perfil.
 - Al cambiar el color del perfil, se modifica el color de casi todo, incluido el encabezado, los botones, los enlaces y el texto.
 
 Una vez que la etiqueta de osu!supporter expire, los colores personalizados permanecerán, pero solo se podrán volver a cambiar a los predeterminados.
@@ -143,12 +143,12 @@ La duración restante del osu!supporter, así mismo como la cantidad total de co
 
 Para conseguir un osu!supporter, visita la [tienda de osu!supporter](https://osu.ppy.sh/store/products/supporter-tag) y ajusta la duración usando el control deslizante o con los botones inferiores con el número de meses. Todos los precios están en dólares estadounidenses (USD) y no incluyen posibles cargos del sistema de pago.
 
-Después, haz clic en `Añadir al carrito` para agregar tu etiqueta de osu!supporter al carrito de la osu!store. Para finalizar la compra, ve al [carrito](https://osu.ppy.sh/store/cart) y haz clic en `Pagar`, luego sigue las indicaciones de la pantalla.
+Después, haz clic en `Añadir al carrito` para añadir tu etiqueta de osu!supporter al carrito de la osu!store. Para finalizar la compra, ve al [carrito](https://osu.ppy.sh/store/cart) y haz clic en `Pagar`, luego sigue las indicaciones de la pantalla.
 
 ### Regalar osu!supporter
 
 ::: Infobox
-![](img/profile-gift-supporter-ES.png "Botón con menú desplegable en una página de perfil para regalarle osu!supporter a alguien")
+![](img/profile-gift-supporter-ES.png "Botón con menú desplegable en una página de perfil para regalarle un osu!supporter a alguien")
 :::
 
 El osu!supporter se puede regalar a otro jugador introduciendo su usuario bajo la tarjeta de usuario o haciendo clic en `Regalar etiqueta de supporter` en su página de perfil. Se podrán añadir más jugadores al regresar a la página de la tienda o yendo al perfil de otro usuario y repetiendo el proceso.
