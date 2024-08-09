@@ -15,8 +15,8 @@ Each server provides a space with a specific purpose in mind, where players get 
 These are servers made by the community, for the community. They do not have a specific purpose. However, they serve as community hubs for users to interact in and be up to date with different aspects of the game.
 
 | Name | Owner | Description |
-| :-- | :-- | --- |
-| [osu!](https://discord.gg/ppy) | [peppy](https://osu.ppy.sh/users/2) | The **osu!** Discord server, previously known as **osu!dev**, is osu!'s official Discord server for development-related purposes. The server functions as a hub for people to discuss and work on osu!'s open source and community projects. This is the main place to contribute to osu!'s development and get in touch with the osu! team.  |
+| :-- | :-- | :-- |
+| [osu!](https://discord.gg/ppy) | [peppy](https://osu.ppy.sh/users/2) | The **osu!** Discord server, previously known as **osu!dev**, is osu!'s official Discord server for development-related purposes. The server functions as a hub for people to discuss and work on osu!'s open source and community projects. This is the main place to contribute to osu!'s development and get in touch with the osu! team. |
 | Aiess Project | - | - |
 
 ### Project Loved
@@ -26,7 +26,7 @@ These are servers made by the community, for the community. They do not have a s
 [Project Loved](/wiki/Community/Project_Loved/) organizes its workflows in different servers, divided by the ruleset which they specialize in. Moreover, the official osu! Discord server provides the `#osu-loved` for the community to discuss about the project as a whole.
 
 | Name | Owner | Description |
-| :-- | :-- | --- |
+| :-- | :-- | :-- |
 | [osu! Project Loved](https://discord.gg/gn58Uk5sTE) | - | - |
 | [osu!catch Project Loved](https://discord.gg/phgtyS4UCh) | - | - |
 | [osu!mania Loved Community](https://discord.gg/Ededv7m) | - | - |
@@ -48,7 +48,7 @@ These servers focus on providing and developing tools and systems for the game. 
 **The following servers are not officially affiliated with the game.** To follow up with official updates, join the [osu!](https://discord.gg/ppy) Discord server instead.
 
 | Name | Owner | Description |
-| :-- | :-- | --- |
+| :-- | :-- | :-- |
 | [Performance Points](https://discord.gg/aqPCnXu) | - | - |
 | [osu!catch dev server](https://discord.gg/YEJBENvFzN) | - | - |
 | [o!m SR/PP Rework Hub](https://discord.gg/GFCNNg8bwk) | - | - |
@@ -58,9 +58,9 @@ These servers focus on providing and developing tools and systems for the game. 
 Quite a self-descriptive category. These servers aim to provide safe places for both mappers and modders alike. Users can expect to find a trove of both mapping and modding knowledge in these for their respective modes!
 
 | Name | Owner | Description |
-| :-- | :-- | --- |
-| [Mapset Management Server](https://discord.gg/8BquKaS) | - | - |  |
-| [Cozy Mappers' Café](https://discord.gg/uDjwjaZ ) | - | - | |
+| :-- | :-- | :-- |
+| [Mapset Management Server](https://discord.gg/8BquKaS) | - | - |
+| [Cozy Mappers' Café](https://discord.gg/uDjwjaZ ) | - | - |
 | [osu!catch Modding and Mapping Hub](https://discord.gg/ZuxFc4q) | - | - |
 | [osu!taiko Mapping and Modding Hub](https://discord.gg/yRjvvyZ) | - | - |
 | [osu!mania Mapping & Modding Hub](https://discord.gg/FqbDdYN) | - | - |
@@ -70,7 +70,7 @@ Quite a self-descriptive category. These servers aim to provide safe places for 
 (Better to ask Rock Roller on this. They'll probably do better than me)
 
 | Name | Owner | Description |
-| :-- | :-- | --- |
+| :-- | :-- | :-- |
 | [skinship](https://discord.gg/AZ79xJb) | - | - |
 
 ## Storyboarding
@@ -78,5 +78,5 @@ Quite a self-descriptive category. These servers aim to provide safe places for 
 (Same as above, but ask Noffy or another known SBer)
 
 | Name | Owner | Description |
-| :-- | :-- | --- |
+| :-- | :-- | :-- |
 | [osu! storyboarder banquet](https://discord.gg/B8NX7YW) | - | - |
