@@ -132,7 +132,7 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
   3. [Sot-C - Extra Stage (TheFunk) \[Bonus Round\]](https://osu.ppy.sh/beatmapsets/2105933#mania/4418876)
 - SV
   1. [shadow\_bling - Crush Alcohol (awdse22) \[DRUNK DRIVING IN POLICE CAR\]](https://osu.ppy.sh/beatmapsets/2226663#mania/4723525)
-  2. [ZxNX - FORTALiCE (Promachos) \[DiSARRAY\]](https://osu.ppy.sh/beatmapsets/2092706#mania/4387297)*
+  2. [ZxNX - FORTALiCE (Promachos) \[DiSARRAY\]](https://osu.ppy.sh/beatmapsets/2092706#mania/4387297)\*
 - Tiebreaker
   1. **[Sydosys - ArchangeL (ERA Imperial) \[Final Judgment\]](https://osu.ppy.sh/beatmapsets/2185088#mania/461886)**
 
@@ -140,14 +140,14 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 
 **[Download the mappack here (145 MB)](https://drive.google.com/file/d/1ThPATohDdVNZvvyqRqwOgEDl1DhlMCbh/view?usp=sharing)**
 
-\*The Semifinals' MAD map is **RC5**. The twist is that it has to be played with the *Random** mod.
+\*The Semifinals' MAD map is **RC5**. The twist is that it has to be played with the **Random** mod.
 
 - RC
   1. [Himeringo - Yuudachi no Ribbon (MyZterioN-) \[long-standing 1.1x (253bpm)\]](https://osu.ppy.sh/beatmapsets/2221690#mania/4710471)
   2. [linear ring with RNAcid - Gypsophila (Cut Ver.) (Oceanus) \[Farewell (edit)\]](https://osu.ppy.sh/beatmapsets/2222894#mania/4713602)
   3. [seatrus - ILLEGAL LEGACY (Merian) \[Forbidden\]](https://osu.ppy.sh/beatmapsets/2023466#mania/4214798)
   4. [Camellia - Towards The Horizon (Onlinee) \[RyuOn's Fantasia(Edit)\]](https://osu.ppy.sh/beatmapsets/2222899#mania/4713609)
-  5. [Camellia - crystallized (Oceanus) \[listen (cut)\]](https://osu.ppy.sh/beatmapsets/2222893#mania/4713601)*
+  5. [Camellia - crystallized (Oceanus) \[listen (cut)\]](https://osu.ppy.sh/beatmapsets/2222893#mania/4713601)\*
   6. [Adust Rain - Seven Style (FelixSpade) \[Nanatsu\]](https://osu.ppy.sh/beatmapsets/1837706#mania/3773440)
 - LN
   1. [C-CLAYS - Fairy Stage (\[HD\]Softer64) \[The World of The Night Echoes. \| OMMT Edit.\]](https://osu.ppy.sh/beatmapsets/2222933#mania/4713676)
@@ -173,7 +173,7 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
   1. [t+pazolite - Cheatreal (remity\_) \[Extraneous (230bpm)\]](https://osu.ppy.sh/beatmapsets/2214819#mania/4694245)
   2. [Sakuzyo - Arkadia \[Illusion\] (\[Crz\]hinako1804) \[Arcadia x1.15\_P\]](https://osu.ppy.sh/beatmapsets/1671858#mania/3433063)
   3. [Kyutatsuki - Dimension Wars (Cut Ver.) (Polarin) \[Reality Collision\]](https://osu.ppy.sh/beatmapsets/2029816#mania/4263008)
-  4. [DVRST - Close Eyes (Plutes) \[Insane\]](https://osu.ppy.sh/beatmapsets/1603090#mania/3951664)*
+  4. [DVRST - Close Eyes (Plutes) \[Insane\]](https://osu.ppy.sh/beatmapsets/1603090#mania/3951664)\*
   5. [Tim Legend - Soda City Funk (SureFir3) \[CHECK IT\]](https://osu.ppy.sh/beatmapsets/2219166#mania/4703890)
   6. [kommisar - Hyper Weaboo Vodka Shots (0DZ0) \[Hyper\]](https://osu.ppy.sh/beatmapsets/1841524#mania/3782337)
 - LN
@@ -205,7 +205,7 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 - LN
   1. [Nanahoshi Kangengakudan - Parasol Cider (fvrex) \[Stage 5: 14th of September 2005\]](https://osu.ppy.sh/beatmapsets/2084407#mania/4366089)
   2. [Naomi Oozora, Nozomi Yamamoto, Ruriko Aoki - Angel Dream (YuEast 2018) \[Heaven \~ Cute Vocal '23 edit\]](https://osu.ppy.sh/beatmapsets/2105456#mania/4417766)
-  3. [Nhato - Miss You (Abraxos) \[I\]](https://osu.ppy.sh/beatmapsets/1268949#mania/2637067)*
+  3. [Nhato - Miss You (Abraxos) \[I\]](https://osu.ppy.sh/beatmapsets/1268949#mania/2637067)\*
 - HB
   1. [Earth, Wind & Fire - September (yomoha remix) (epic man 2) \[Insane\]](https://osu.ppy.sh/beatmapsets/1838172#mania/3774371)
   2. [James Landino - Anti Hero (Lott) \[Collab Defiance\]](https://osu.ppy.sh/beatmapsets/1974129#mania/4096930)
@@ -224,9 +224,9 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 - RC
   1. [BEMANI Sound Team "DJ TOTTO" feat.rionos - Simurgh no Mezame (komugii) \[sora x1.1\]](https://osu.ppy.sh/beatmapsets/1415406#mania/2917081)
   2. [Tatsh - IMAGE -MATERIAL- \<REFLEC BEAT Edition\> (Onlinee) \[YuEast's Imagine the Future (edit)\]](https://osu.ppy.sh/beatmapsets/2210493#mania/4682349)
-  3. [Jan Amit - In Torture (feat. Eclise) (Elekton) \[sinking\]](https://osu.ppy.sh/beatmapsets/573842#mania/1215562)*
+  3. [Jan Amit - In Torture (feat. Eclise) (Elekton) \[sinking\]](https://osu.ppy.sh/beatmapsets/573842#mania/1215562)\*
   4. [MYUKKE. - The 90's Decision (Irone OSU) \[boomer decision\]](https://osu.ppy.sh/beatmapsets/2032272#mania/4590142)
-  5. [BEMANI Sound Team "Nekomata Master" - Life is beautiful (-MysticEyes) [LeiN-'s MASTER]](https://osu.ppy.sh/beatmapsets/860089#mania/1948492)
+  5. [BEMANI Sound Team "Nekomata Master" - Life is beautiful (-MysticEyes) \[LeiN-'s MASTER\]](https://osu.ppy.sh/beatmapsets/860089#mania/1948492)
 - LN
   1. [Harumaki Gohan feat. Sou - Zero Talking (Cut Ver.) (Lott) \[Dear\]](https://osu.ppy.sh/beatmapsets/2176945#mania/4597084)
   2. [Protest The Hero - Hair-Trigger (Cut Ver.) (Paturages) \[Bald Decision 1.1x (165bpm)\]](https://osu.ppy.sh/beatmapsets/1919028#mania/3960091)
