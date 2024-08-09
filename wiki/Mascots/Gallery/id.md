@@ -34,9 +34,9 @@
 
 Untuk fan art pippi, lihat:
 
-- [First Official osu! Fanart Contest Results! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152186520298282)
-- [osu! Fanart Contest 2! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152291754173282)
-- [osu! Fanart Contest 3! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152514671088282)
+- [First Official osu! Fanart Contest Results! (Facebook)](https://www.facebook.com/media/set/?set=a.10152186520298282)
+- [osu! Fanart Contest 2! (Facebook)](https://www.facebook.com/media/set/?set=a.10152291754173282)
+- [osu! Fanart Contest 3! (Facebook)](https://www.facebook.com/media/set/?set=a.10152514671088282)
 - [Fan Art 7: Halloween!](https://osu.ppy.sh/community/contests/5)
 - [Fan Art 8: Christmas](https://osu.ppy.sh/community/contests/36)
 - [Mocha in Summer Fanart Contest](https://osu.ppy.sh/community/contests/48)
@@ -55,7 +55,7 @@ Untuk fan art pippi, lihat:
 
 Untuk fanart Yuzu, lihat:
 
-- [osu! Fanart Contest 3! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152514671088282)
+- [osu! Fanart Contest 3! (Facebook)](https://www.facebook.com/media/set/?set=a.10152514671088282)
 - [Fan Art 7: Halloween!](https://osu.ppy.sh/community/contests/5)
 - [Fan Art 8: Christmas](https://osu.ppy.sh/community/contests/36)
 - [Yuzu's New Look Contest](https://osu.ppy.sh/community/contests/49)
