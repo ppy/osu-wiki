@@ -290,7 +290,7 @@ While ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) was assumed to be the 
 
 ## Number of reigns
 
-The following is a list of the total number of times a player has reached the rank #1 spot in their playtime (as of 4 August 2024).
+The following is a list of the total number of times a player has reached the rank #1 spot in their playtime (as of 8 August 2024).
 
 | Player | Reigns |
 | --: | :-: |
@@ -336,7 +336,7 @@ The following is a list of the total number of times a player has reached the ra
 
 *Note: The current rank #1 reign is excluded.*
 
-The following is a list of the total number of days that a player has held the rank #1 spot (as of 4 August 2024).
+The following is a list of the total number of days that a player has held the rank #1 spot (as of 8 August 2024).
 
 | Player | Length (days) |
 | --: | :-: |
@@ -382,7 +382,7 @@ The following is a list of the total number of days that a player has held the r
 
 *Note: Only reigns over 100 days are included. The current rank #1 reign is excluded.*
 
-The following is a list of the longest consecutive days a player has held the rank #1 spot (as of 22 July 2024).
+The following is a list of the longest consecutive days a player has held the rank #1 spot (as of 8 August 2024).
 
 | Player | From | To | Reign length (days) |
 | --: | :-- | :-- | :-: |
