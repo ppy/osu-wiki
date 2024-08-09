@@ -18,7 +18,7 @@ So we expanded.
 
 ## circle clicker deskmat
 
-This cursor dance through the ~~fool moon~~ night sky is a simple omage to the osu! player's daily routine: clicking circles at mach speed atop a 100% dimmed background.
+This cursor dance through the ~~fool moon~~ night sky is a simple homage to the osu! player's daily routine: clicking circles at mach speed atop a 100% dimmed background.
 
 ![](/wiki/shared/news/2024-08-14-osu-deskmats/splash.jpg)
 
@@ -32,7 +32,7 @@ And most importantly, it looks really cool.
 
 We have to give credit where it's due: renowned mapper [Sing](https://osu.ppy.sh/users/3795679) is the mastermind behind this design! Send your accolades his direction.
 
-If you want to snag one of these for yourself, [**head to the store page!**](LINK)
+If you want to snag one of these for yourself, [**head to the store page**](LINK)!
 
 ## Fanart deskmats
 
@@ -52,7 +52,7 @@ This one is [peppy](https://osu.ppy.sh/users/2)'s personal favorite: In [osu!'s 
 
 ![](/wiki/shared/news/2024-08-14-osu-deskmats/everything.jpg)
 
-In the production process, we worked with YOOKA to update the artwork so it fits our wide deskmats, which led to the inclusion of even more memes that generated throughout the last couple years.
+In the production process, we worked with YOOKA to update the artwork so it fits our wide deskmats, which led to the inclusion of even more memes that were generated throughout the last couple years.
 
 Packed with easily over 100 references, this pad can only be fully understood by those who've been playing osu! for longer than many top players have been alive.
 
