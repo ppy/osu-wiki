@@ -47,7 +47,7 @@ On the user's profile, a `Report` button will appear when you click on the three
 
 ### Beatmap page
 
-This way of reporting is as effective as using the profile page for reporting - the reports go to the same endpoint.
+This way of reporting is as effective as using the profile page for reporting – the reports go to the same endpoint.
 
 In beatmap pages, you can report a user in the top leaderboards by clicking the `Report` button on the far right of their score.
 
