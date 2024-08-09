@@ -86,4 +86,4 @@ Carefully read and follow the [rules](/wiki/Rules). If you're not sure whether s
 
 ## Notes
 
-[^restriction-length]: The length of time you will have to wait before appealing depends on the reason for the restriction. If you're not sure how long your restriction lasts, email [accounts@ppy.sh](mailto:accounts@ppy.sh). For more information, see [Account restrictions](wiki/Help_centre/Account_restrictions).
+[^restriction-length]: The length of time you will have to wait before appealing depends on the reason for the restriction. If you're not sure how long your restriction lasts, email [accounts@ppy.sh](mailto:accounts@ppy.sh). For more information, see [Account restrictions](/wiki/Help_centre/Account_restrictions).
