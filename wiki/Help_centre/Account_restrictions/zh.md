@@ -1,3 +1,8 @@
+---
+outdated_since: f8a6b0b6946216cc07f30ca3fce33ccd63aa1b19
+outdated_translation: true
+---
+
 # 账号限制
 
 *主页面：[帮助中心](/wiki/Help_centre)*

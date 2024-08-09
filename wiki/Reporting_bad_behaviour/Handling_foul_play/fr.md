@@ -1,3 +1,8 @@
+---
+outdated_since: f8a6b0b6946216cc07f30ca3fce33ccd63aa1b19
+outdated_translation: true
+---
+
 # Traitement d'un acte de tricherie
 
 ## Pourquoi suis-je restreint ?
