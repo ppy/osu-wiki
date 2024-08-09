@@ -153,7 +153,7 @@ Después, haz clic en `Añadir al carrito` para añadir tu etiqueta de osu!suppo
 
 El osu!supporter se puede regalar a otro jugador introduciendo su usuario bajo la tarjeta de usuario o haciendo clic en `Regalar etiqueta de supporter` en su página de perfil. Se podrán añadir más jugadores al regresar a la página de la tienda o yendo al perfil de otro usuario y repetiendo el proceso.
 
-No se notifica al destinatario quién le dio la etiqueta, pero al regalar osu!supporter, se puede adjuntar un mensaje opcional para enviarlo junto con el correo electrónico de notificación.
+No se notifica al destinatario quién le dio la etiqueta, pero al regalar un osu!supporter, se puede adjuntar un mensaje opcional para enviarlo junto con el correo electrónico de notificación.
 
 ### Confirmación
 
