@@ -2,10 +2,10 @@
 tags:
   - NAT/BN meetings
   - Nomination Assessment Team meetings
-  - Reuniones del NAT
-  - Reuniones de los BN
-  - Reuniones del Nomination Assessment Team
-  - Reuniones del equipo de evaluación de nominaciones
+  - reuniones del NAT
+  - reuniones de los BN
+  - reuniones del Nomination Assessment Team
+  - reuniones del equipo de evaluación de nominaciones
 ---
 
 # Reuniones del NAT
