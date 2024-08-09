@@ -39,7 +39,7 @@ These servers are focused on giving users a place to discuss osu!'s main attract
 | Name | Owner | Description |
 | :-- | :-- | --- |
 | [osu! University](https://discord.gg/QubdHdnBVg ) | - | - |
-| [osu! Medal Hunters](https://discord.gg/osumedalhunters) | - | - |
+| [osu! Medal Hunters](https://discord.gg/8qpNTs6) | - | - |
 
 ## Development
 
