@@ -18,7 +18,7 @@ Numerosi giocatori hanno raggiunto il primo posto in ogni modalità di gioco con
 
 *Pagina principale: [Cronologia delle classifiche di osu!](osu!)*
 
-Al 21 luglio 2024, nella [classifica delle performance di osu!](https://osu.ppy.sh/rankings/osu/performance) il giocatore numero 1 è ::{ flag=GB }:: [9MlCE](https://osu.ppy.sh/users/9269034/osu).
+Al 3 agosto 2024, nella [classifica delle performance di osu!](https://osu.ppy.sh/rankings/osu/performance) il giocatore numero 1 è ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902/osu).
 
 ## ![][osu!taiko] osu!taiko
 
