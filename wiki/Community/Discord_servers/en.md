@@ -17,7 +17,7 @@ These are servers made by the community, for the community. They do not have a s
 | Name | Owner | Description |
 | :-- | :-- | :-- |
 | [osu!](https://discord.gg/ppy) | [peppy](https://osu.ppy.sh/users/2) | The **osu!** Discord server, previously known as **osu!dev**, is osu!'s official Discord server for development-related purposes. The server functions as a hub for people to discuss and work on osu!'s open source and community projects. This is the main place to contribute to osu!'s development and get in touch with the osu! team. |
-| Aiess Project | - | - |
+| [Aiess Project](https://discord.gg/2XV5dcW) | [Naxess](https://osu.ppy.sh/users/8129817) | The **Aiess Project** is in charge of maintaining and updating several feeds, informing users of the many different events that happen in osu! on a daily basis! Users can keep up with the latest qualified and soon-to-be ranked beatmaps, keep up with usergroup changes, and be up to date with the latest news posts. |
 
 ### Project Loved
 
