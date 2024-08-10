@@ -37,9 +37,9 @@ These are servers made by the community, for the community. They do not have a s
 These servers are focused on giving users a place to discuss osu!'s main attraction — the gameplay! They serve as hubs for players to interact with their daily gaming ventures in osu!.
 
 | Name | Owner | Description |
-| :-- | :-- | --- |
+| :-- | :-- | :-- |
 | [osu! University](https://discord.gg/QubdHdnBVg ) | [DigitalHypno](https://osu.ppy.sh/users/4384207) | **osu! University** is a community Discord server with a focus on discussion about improvement, mainly in the [osu!](/wiki/Game_mode/osu!) game mode. It regularly hosts various events such as top player interviews, [tournaments](/wiki/Tournaments), and improvement-related studies, and is also well known for hosting paid coaching services. |
-| [osu! Medal Hunters](https://discord.gg/osumedalhunters) | [MegaMix_Craft](https://osu.ppy.sh/users/18152711) | **osu! Medal Hunters** is the main Discord server used by the medal hunting community, where people discuss [medals](/wiki/Medals) and [medal solutions](/wiki/Medals/Unlock_requirements). |
+| [osu! Medal Hunters](https://discord.gg/osumedalhunters) | [MegaMix](https://osu.ppy.sh/users/18152711) | **osu! Medal Hunters** is the main Discord server used by the medal hunting community, where people discuss [medals](/wiki/Medals) and [medal solutions](/wiki/Medals/Unlock_requirements). |
 
 ## Development
 
