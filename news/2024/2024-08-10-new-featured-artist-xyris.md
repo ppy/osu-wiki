@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: Xyris"
-date: 2024-08-10 18:00:00 +0000
+date: 2024-08-10 21:00:00 +0000
 ---
 
 Your ears have been desperately begging for one thing: **Xyris**, our newest Featured Artist!
@@ -15,7 +15,7 @@ Drawing inspiration from the likes of *Virtual Riot*, *lapix*, *kamome sano*, an
 While osu! players may know **Xyris** for their expanding catalogue of [osu! originals](/wiki/osu!_originals), osu!mania players associate **Xyris** with one thing: ~~suffering~~ [this insanely difficult mapset of Eviternity](https://osu.ppy.sh/beatmapsets/1961513). See how the UK's #1 osu!mania player [Usie](https://osu.ppy.sh/users/16162078) tackled it from [COE 2024](/wiki/Community/cavoe's_osu!_event/2024):
 
 <div align="center">
-    <video width="95%" controls>
+    <video width="75%" controls>
         <source src="https://assets.ppy.sh/artists/xxx/release_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
@@ -38,7 +38,7 @@ If you're more interested in bashing drums, try out [this marathon](https://osu.
 
 ### Xyris - Nefelibata
 
-Looking for something more... circular? [This map](https://osu.ppy.sh/beatmapsets/2195866) hosted by [Tycani](https://osu.ppy.sh/users/6693266) is for you.
+Looking for something more... circle-filled? [This map](https://osu.ppy.sh/beatmapsets/2195866) hosted by [Tycani](https://osu.ppy.sh/users/6693266) is for you.
 
 <audio controls>
     <source src="LINK">
