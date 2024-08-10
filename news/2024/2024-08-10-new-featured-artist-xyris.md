@@ -25,7 +25,7 @@ While osu! players may know **Xyris** for their expanding catalogue of [osu! ori
 Break your fingers with [the map from the video above](https://osu.ppy.sh/beatmapsets/1961513) hosted by [Critical_Star](https://osu.ppy.sh/users/3793196)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/433/Eviternity/Xyris%20-%20Eviternity.mp3">
 </audio>
 
 ### Xyris - A Cybernetic-Superluminal-Apocalyptic Post-War Divination
@@ -33,7 +33,7 @@ Break your fingers with [the map from the video above](https://osu.ppy.sh/beatma
 If you're more interested in bashing drums, try out [this marathon](https://osu.ppy.sh/beatmapsets/2142052) hosted by [Hana Hayashi](https://osu.ppy.sh/users/4601806)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/433/A%20Cybernetic-Superluminal-Apocalyptic%20Post-War%20Divination/Xyris%20-%20A%20Cybernetic-Superluminal-Apocalyptic%20Post-War%20Divination.mp3">
 </audio>
 
 ### Xyris - Nefelibata
@@ -41,7 +41,7 @@ If you're more interested in bashing drums, try out [this marathon](https://osu.
 Looking for something more... circle-filled? [This map](https://osu.ppy.sh/beatmapsets/2195866) hosted by [Tycani](https://osu.ppy.sh/users/6693266) is for you.
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/433/Nefelibata/Xyris%20-%20Nefelibata.mp3">
 </audio>
 
 ---
