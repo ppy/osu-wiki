@@ -23,14 +23,14 @@ These are servers made by the community, for the community. They do not have a s
 
 <!-- This section as a whole needs to be discussed. Last time someone suggested listing the Loved suite of servers in the Project Loved wiki article, not everyone was on board. Moreover, some of its members and pepy themselves are not really happy on how everything is split apart. Question is whether we want to promote these servers while they exist, or ignore them in favour of the #osu-loved channel in the dev server -->
 
-[Project Loved](/wiki/Community/Project_Loved) organizes its workflows in different servers, divided by the ruleset which they specialize in. Moreover, the official osu! Discord server provides the `#osu-loved` for the community to discuss about the project as a whole.
+[Project Loved](/wiki/Community/Project_Loved) organizes its workflows in different servers, divided by the ruleset which they specialize in. **The official development of the project is done in the osu! Discord server.** These hubs aim to facilitate the discussion of the mode's picks to be added. Non-game mode dependant discussions should always be carried out in `#osu-loved`, in the **osu!** Discord server.
 
-| Name | Owner | Description |
-| :-- | :-- | :-- |
-| [osu! Project Loved](https://discord.gg/gn58Uk5sTE) | - | - |
-| [osu!catch Project Loved](https://discord.gg/phgtyS4UCh) | - | - |
-| [osu!mania Loved Community](https://discord.gg/Ededv7m) | - | - |
-| [Project Loved: Taiko](https://discord.gg/GhfjtZ6) | - | - |
+| Name | Owner |
+| :-- | :-- |
+| [osu! Project Loved](https://discord.gg/gn58Uk5sTE) | [Librarian](https://osu.ppy.sh/users/10083084) |
+| [osu!catch Project Loved](https://discord.gg/phgtyS4UCh) | [Wesley](https://osu.ppy.sh/users/2407265) |
+| [osu!mania Loved Community](https://discord.gg/Ededv7m) | [Paturages](https://osu.ppy.sh/users/1375479) |
+| [Project Loved: Taiko](https://discord.gg/GhfjtZ6) | [Hivie](https://osu.ppy.sh/users/14102976) |
 
 ## Gameplay
 
@@ -61,9 +61,16 @@ Quite a self-descriptive category. These servers aim to provide safe places for 
 | :-- | :-- | :-- |
 | [Mapset Management Server](https://discord.gg/8BquKaS) | - | - |
 | [Cozy Mappers' Café](https://discord.gg/uDjwjaZ ) | - | - |
-| [osu!catch Modding & Mapping Hub](https://discord.gg/ZuxFc4q) | [Ascendance](https://osu.ppy.sh/users/2931883) | **osu!catch Modding & Mapping Hub** is a community Discord server designated for all current and aspiring [osu!catch](/wiki/Game_mode/osu!catch) mappers and modders. Users are able to find many channels that help them grow as a mapper, or interact with the general osu!catch mapping community. |
-| [osu!taiko Modding & Mapping Hub](https://discord.gg/yRjvvyZ) | [Hivie](https://osu.ppy.sh/users/14102976) | **osu!taiko Modding & Mapping Hub** is a community Discord server designated for all current and aspiring [osu!taiko](/wiki/Game_mode/osu!taiko) mappers and modders. Users are able to find many channels that help them grow as a mapper, or interact with the general osu!taiko mapping community. |
-| [osu!mania Modding & Mapping Hub](https://discord.gg/FqbDdYN) | [Maxus](https://osu.ppy.sh/users/4335785) | **osu!mania Modding & Mapping Hub** is a community Discord server designated for all current and aspiring [osu!mania](/wiki/Game_mode/osu!mania) mappers and modders. Users are able to find many channels that help them grow as a mapper, or interact with the general osu!mania mapping community. |
+
+### Hubs
+
+The **Modding & Mapping Hubs** are community Discord servers designated for all current and aspiring mappers and modders. Users are able to find many channels that help them grow as a mapper, or interact with the general mapping community. Each mode boasts of its own hub, and each one is ran by different community members.
+
+| Name | Owner |
+| :-- | :-- |
+| [osu!catch Modding & Mapping Hub](https://discord.gg/ZuxFc4q) | [Ascendance](https://osu.ppy.sh/users/2931883) |
+| [osu!taiko Modding & Mapping Hub](https://discord.gg/yRjvvyZ) | [Hivie](https://osu.ppy.sh/users/14102976) |
+| [osu!mania Modding & Mapping Hub](https://discord.gg/FqbDdYN) | [Maxus](https://osu.ppy.sh/users/4335785) |
 
 ## Skinning
 
