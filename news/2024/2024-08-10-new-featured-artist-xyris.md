@@ -8,7 +8,7 @@ Your ears have been desperately begging for one thing: **Xyris**, our newest Fea
 
 ![](https://assets.ppy.sh/artists/433/header.jpg)
 
-Drawing inspiration from the likes of *Virtual Riot*, *lapix*, *kamome sano*, and of course [Camellia](https://osu.ppy.sh/beatmaps/artists/31), **Xyris** has made a name for themselves as an electronic music designer with features throughout tournaments like *Resurrection Cup* and [Global Taiko Showdown](https://osu.ppy.sh/wiki/Tournaments/GTS)!
+Drawing inspiration from the likes of *Virtual Riot*, *lapix*, *kamome sano*, and of course [Camellia](https://osu.ppy.sh/beatmaps/artists/31), **Xyris** has made a name for themselves as an electronic music designer with features throughout tournaments like *Resurrection Cup* and [Global Taiko Showdown](/wiki/Tournaments/GTS)!
 
 **7** tunes have journeyed to [**Xyris**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/433), where they'll remain as pre-timed beatmap templates until the last osu! server melts away.
 
