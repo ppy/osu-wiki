@@ -6,7 +6,7 @@ date: 2024-08-10 21:00:00 +0000
 
 Your ears have been desperately begging for one thing: **Xyris**, our newest Featured Artist!
 
-![](https://assets.ppy.sh/artists/xxx/header.jpg)
+![](https://assets.ppy.sh/artists/433/header.jpg)
 
 Drawing inspiration from the likes of *Virtual Riot*, *lapix*, *kamome sano*, and of course [Camellia](https://osu.ppy.sh/beatmaps/artists/31), **Xyris** has made a name for themselves as an electronic music designer with features throughout tournaments like *Resurrection Cup* and [Global Taiko Showdown](https://osu.ppy.sh/wiki/Tournaments/GTS)!
 
@@ -16,7 +16,7 @@ While osu! players may know **Xyris** for their expanding catalogue of [osu! ori
 
 <div align="center">
     <video width="75%" controls>
-        <source src="https://assets.ppy.sh/artists/xxx/release_showcase.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/artists/433/release_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
