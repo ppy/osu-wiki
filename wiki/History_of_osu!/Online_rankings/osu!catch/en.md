@@ -31,7 +31,7 @@ Because of this, this list only includes players who have reached rank #1 on the
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
 | ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549) | *2021-06-07* | 2024-07-21 | [\[1\]](https://web.archive.org/web/20230308031543/https://osu.ppy.sh/wiki/en/History_of_osu!/Online_rankings) |
-| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 2024-07-21 | Present | [\[1\]](https://web.archive.org/web/20240725205207/https://osu.ppy.sh/wiki/en/History_of_osu!/Online_rankings) |
+| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 2024-07-21 | Present | [\[1\]](https://web.archive.org/web/20240725205207/https://osu.ppy.sh/wiki/en/History_of_osu!/Online_rankings) [\[2\]](https://www.reddit.com/r/osugame/comments/1e8hne0/motion_is_now_1_in_ctb_passing_yesmydarknesss/) |
 
 ## Number of reigns
 
