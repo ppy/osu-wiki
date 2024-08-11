@@ -59,8 +59,8 @@ These servers aim to provide safe places for both mappers and modders alike. Use
 
 | Name | Owner | Description |
 | :-- | :-- | :-- |
-| [Mapset Management Server](https://discord.gg/8BquKaS) | [Kyuunex](https://osu.ppy.sh/users/9236044) | The **Mapset Management Server** is all about modding and collaboration. Whether you are looking for mods and GDs on your own maps, or other maps to mod and GD or collaborate, you're in the right place! |
-| [Cozy Mappers' Café](https://discord.gg/uDjwjaZ ) | - | - |
+| [Mapset Management Server](https://discord.gg/mapset-management-server-460935664712548366) | [Kyuunex](https://osu.ppy.sh/users/9236044) | The **Mapset Management Server** is all about modding and collaboration. Whether you are looking for mods and GDs on your own maps, or other maps to mod and GD or collaborate, you're in the right place! |
+| [Cozy Mappers' Café](https://discord.gg/uDjwjaZ) | - | - |
 
 ### Hubs
 
