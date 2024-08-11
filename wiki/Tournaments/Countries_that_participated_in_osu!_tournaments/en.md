@@ -2,7 +2,7 @@
 
 This article lists countries that have participated in official [osu!](/wiki/Game_mode/osu!), [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch), and [osu!mania](/wiki/Game_mode/osu!mania) tournaments. It also provides the rankings of teams that have reached the top 3.
 
-The lists include data up to the Qualifier stage of the [osu!mania 7K World Cup 2024](/wiki/Tournaments/MWC/2024_7K).
+The latest tournament included in the data below is the [osu! World Cup 2023](/wiki/Tournaments/OWC/2023).
 
 *Note: Official tournaments which were allowing teams not representing countries are not taken into consideration.*\
 *Note: Mixed-country teams (e.g. Argentina-Colombia) are not taken into consideration.*
