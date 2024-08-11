@@ -102,7 +102,7 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 
 ### ![][osu!] osu! World Cup
 
-| Country | 1 | 2 | 3 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 |
+| Country | [#1](/wiki/Tournaments/OWC/1) | [#2](/wiki/Tournaments/OWC/2) | [#3](/wiki/Tournaments/OWC/3) | [2013](/wiki/Tournaments/OWC/2013) | [2014](/wiki/Tournaments/OWC/2014) | [2015](/wiki/Tournaments/OWC/2015) | [2016](/wiki/Tournaments/OWC/2016) | [2017](/wiki/Tournaments/OWC/2017) | [2018](/wiki/Tournaments/OWC/2018) | [2019](/wiki/Tournaments/OWC/2019) | [2020](/wiki/Tournaments/OWC/2020) | [2021](/wiki/Tournaments/OWC/2021) | [2022](/wiki/Tournaments/OWC/2022) | [2023](/wiki/Tournaments/OWC/2023) |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | ::{ flag=AR }:: Argentina | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=AU }:: Australia | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
@@ -171,7 +171,7 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 
 ### ![][osu!taiko] osu!taiko World Cup
 
-| Country | 2011 | 2012 | 3 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 |
+| Country | [2011](/wiki/Tournaments/TWC/2011) | [2012](/wiki/Tournaments/TWC/2012) | [#3](/wiki/Tournaments/TWC/3) | [2014](/wiki/Tournaments/TWC/2014) | [2015](/wiki/Tournaments/TWC/2015) | [2016](/wiki/Tournaments/TWC/2016) | [2017](/wiki/Tournaments/TWC/2017) | [2018](/wiki/Tournaments/TWC/2018) | [2019](/wiki/Tournaments/TWC/2019) | [2020](/wiki/Tournaments/TWC/2020) | [2021](/wiki/Tournaments/TWC/2021) | [2022](/wiki/Tournaments/TWC/2022) | [2023](/wiki/Tournaments/TWC/2023) |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | ::{ flag=AR }:: Argentina | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=AU }:: Australia | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
@@ -225,7 +225,7 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 
 ### ![][osu!catch] osu!catch World Cup
 
-| Country | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 |
+| Country | [2013](/wiki/Tournaments/CWC/2013) | [2014](/wiki/Tournaments/CWC/2014) | [2015](/wiki/Tournaments/CWC/2015) | [2016](/wiki/Tournaments/CWC/2016) | [2017](/wiki/Tournaments/CWC/2017) | [2018](/wiki/Tournaments/CWC/2018) | [2019](/wiki/Tournaments/CWC/2019) | [2020](/wiki/Tournaments/CWC/2020) | [2021](/wiki/Tournaments/CWC/2021) | [2022](/wiki/Tournaments/CWC/2022) | [2023](/wiki/Tournaments/CWC/2023) |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | ::{ flag=DZ }:: Algeria | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] |
 | ::{ flag=AR }:: Argentina | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
@@ -283,7 +283,7 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 
 ### ![][osu!mania] osu!mania World Cup
 
-| Country | 2014 4K | 2014 7K | 2015 4K | 2016 7K | 2016 4K | 2017 7K | 2017 4K | 2018 7K | 2018 4K | 2019 7K | 2019 4K | 2020 4K | 2021 4K | 2022 7K | 2023 7K | 2023 4K |
+| Country | [2014 4K](/wiki/Tournaments/MWC/2014) | [2014 7K](/wiki/Tournaments/MWC/2014) | [2015 4K](/wiki/Tournaments/MWC/2015) | [2016 7K](/wiki/Tournaments/MWC/2016_7K) | [2016 4K](/wiki/Tournaments/MWC/2016_4K) | [2017 7K](/wiki/Tournaments/MWC/2017_7K) | [2017 4K](/wiki/Tournaments/MWC/2017_4K) | [2018 7K](/wiki/Tournaments/MWC/2018_7K) | [2018 4K](/wiki/Tournaments/MWC/2018_4K) | [2019 7K](/wiki/Tournaments/MWC/2019_7K) | [2019 4K](/wiki/Tournaments/MWC/2019_4K) | [2020 4K](/wiki/Tournaments/MWC/2020_4K) | [2021 4K](/wiki/Tournaments/MWC/2021_4K) | [2022 7K](/wiki/Tournaments/MWC/2022_7K) | [2023 7K](/wiki/Tournaments/MWC/2023_7K) | [2023 4K](/wiki/Tournaments/MWC/2023_4K) |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | ::{ flag=AR }:: Argentina | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=AU }:: Australia | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
