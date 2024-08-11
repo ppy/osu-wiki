@@ -4,7 +4,7 @@ El *veto de un beatmap* le permite a un [Beatmap Nominator](/wiki/People/Beatmap
 
 Cualquier Beatmap Nominator puede vetar un beatmap, siempre que esté formalmente calificado para el modo o modos de juego en cuestión, tal y como se indica en las [reglas para los Beatmap Nominators](/wiki/People/Beatmap_Nominators/Rules). Cada veto de un beatmap debe ser discutido por ambas partes (tanto el mapper como el nominador que vetó el beatmap) para intentar llegar a un acuerdo.
 
-En los casos en que la discusión no tenga lugar o no sea concluyente, y tanto el mapper como el nominador que vetó lo soliciten, los miembros del [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT) iniciarán y supervisarán una mediación para mantener o retirar el veto. La votación de mediación se realiza de forma anónima entre los Beatmap Nominators y los miembros del NAT de un determinado modo de juego. Una vez finalizada la votación, el razonamiento de cada participante se revela junto con el resultado de la mediación en la discusión del beatmap.
+En los casos en que la discusión no tenga lugar o no sea concluyente, y tanto el mapper como el nominador que vetó lo soliciten, los miembros del [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT) iniciarán y supervisarán una mediación para mantener o retirar el veto. La votación de la mediación se realiza de forma anónima entre los Beatmap Nominators y los miembros del NAT de un determinado modo de juego. Una vez finalizada la votación, el razonamiento de cada participante se revela junto con el resultado de la mediación en la discusión del beatmap.
 
 ## Realizar un veto a un beatmap
 
