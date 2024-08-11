@@ -74,11 +74,11 @@ The **Modding & Mapping Hubs** are community Discord servers designated for all 
 
 ## Skinning
 
-(Better to ask Rock Roller on this. They'll probably do better than me)
+These servers aim to provide safe places for skinners, no matter if they are design experts or brand-new to skinning. Users can expect to find a trove of knowledge in these and are able to ask for help here!
 
 | Name | Owner | Description |
 | :-- | :-- | :-- |
-| [skinship](https://discord.gg/AZ79xJb) | - | - |
+| [skinship](https://discord.skinship.xyz/) | [RockRoller](https://osu.ppy.sh/users/8388854) | **skinship** is a place to discuss anything involving skinning, while also hosting projects such as [Skinning Contests](/wiki/en/Contests/Skinning_Contest) and the [Completed Skins Compendium](https://compendium.skinship.xyz/).  |
 
 ## Storyboarding
 
