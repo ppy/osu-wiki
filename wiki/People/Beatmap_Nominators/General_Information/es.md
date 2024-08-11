@@ -24,12 +24,12 @@ Las nominaciones y el restablecimiento de nominaciones son la prueba del trabajo
 
 ![Botones de descalificar y restablecer la nominación](img/reset_dq-ES.png)
 
-**Esto te permite restablecer el progreso de un beatmap en el proceso de clasificación.** Si un beatmap está actualmente nominado o calificado, tú como nominador tienes la posibilidad de restablecer las nominaciones del beatma publicando un problema. Si un beatmap está calificado, solo puede ser descalificado por un BN completo. Estas opciones suelen usarse cuando hay un problema importante o no clasificable en el beatmap, el cual debe solucionarse antes de considerarlo para la clasificación.
+**Esto te permite restablecer el progreso de un beatmap en el proceso de clasificación.** Si un beatmap está actualmente nominado o calificado, tú como nominador tienes la posibilidad de restablecer las nominaciones del beatmap publicando un problema. Si un beatmap está calificado, solo puede ser descalificado por un BN completo. Estas opciones suelen usarse cuando hay un problema importante o no clasificable en el beatmap, el cual debe solucionarse antes de considerarlo para la clasificación.
 
 Pasos para descalificar un beatmap:
 
 - Asegúrate de que estás en la discusión del beatmap correcto.
-- Escribe el motivo de la descalificación en el campo de texto. Asegúrate de que la primera línea resume la descalificación, ya que es lo que aparece en la parte superior de la página de discusión.
+- Escribe el motivo de la descalificación en el campo de texto. Asegúrate de que la primera línea resuma la descalificación, ya que es lo que aparece en la parte superior de la página de discusión.
 - Si la descalificación está relacionada con un reporte, enlaza también la publicación respectiva del reporte.
 - Pulsa el botón `Descalificar` situado debajo del campo de texto (el que sustituye al botón `Problema`).
 
@@ -49,8 +49,8 @@ Los BN completos pueden realizar el control de calidad comprobando en cualquier 
 
 ### Revisión de contenido
 
-Cualquier BN puede contribuir a la moderación de canciones e imágenes enviando contenidos para su revisión o votándolos. El proceso completo de votación y cómo se cuentan sus votos puede leerse en el [artículo sobre el proceso de votación de contenido](/wiki/Rules/Content_voting_process).
+Cualquier BN puede contribuir a la moderación de canciones e imágenes enviando contenidos para su revisión o votándolos. El proceso completo de la votación y cómo se cuentan los votos puede leerse en el [artículo sobre el proceso de votación de contenido](/wiki/Rules/Content_voting_process).
 
 ### Evaluaciones de prueba
 
-Los BN completos pueden ser asignados al azar para realizar evaluaciones de prueba de las solicitudes para convertirse en un BN junto con las pruebas reales del NAT. Pueden optar por no hacerlo en cualquier momento, y no es obligatorio realizar evaluaciones asignadas. Las evaluaciones de prueba se usan principalmente como información para que el NAT evalúe a los futuros candidatos para el NAT, aunque los detalles presentados en las evaluaciones de prueba pueden añadirse a los comentarios de los candidatos en ocasiones o servir como criterios de desempate si el NAT no puede llegar a una conclusión por sí mismo.
+Los BN completos pueden ser asignados al azar para realizar evaluaciones de prueba de las solicitudes para convertirse en un BN junto con las pruebas reales del NAT. Pueden optar por no hacerlo en cualquier momento, y no es obligatorio realizar evaluaciones asignadas. Las evaluaciones de prueba se usan principalmente como información para que el NAT evalúe a los futuros candidatos para el NAT, aunque los detalles presentados en las evaluaciones de prueba pueden añadirse a los informes de los candidatos o servir como criterios de desempate si el NAT no puede llegar a una conclusión por sí mismo.
