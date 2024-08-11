@@ -8,7 +8,7 @@ El SEV es un sistema de calificación usado por el [Nomination Assessment Team](
 
 La **obviedad** se refiere a la facilidad con la que se puede detectar el problema.
 
-| Valoración | Definición | Explicación |
+| Calificación | Definición | Explicación |
 | :-: | :-- | :-- |
 | 0 | No es obvio | Se aplica si el problema es poco claro o demasiado complejo como para detectarlo sistemáticamente. |
 | 1 | Se puede encontrar con experiencia | Requiere conocimiento/experiencia/atención para captarlo. Por lo general, las herramientas o los usuarios comunes no pueden encontrarlos, por ejemplo, problemas de temporización/metadatos. |
@@ -16,7 +16,7 @@ La **obviedad** se refiere a la facilidad con la que se puede detectar el proble
 
 La **severidad** se refiere a la repercusión del problema en el juego.
 
-| Valoración | Definición | Explicación |
+| Calificación | Definición | Explicación |
 | :-: | :-- | :-- |
 | 0 | Insignificante | No afecta o apenas afecta a la jugabilidad. |
 | 1 | A tener en cuenta | Tiene un impacto negativo en la jugabilidad, pero no significativo. |
