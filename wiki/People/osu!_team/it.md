@@ -39,7 +39,7 @@ Le persone elencate qui sotto fanno parte del team cardine di osu! e sono i prin
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [Moderatore](/wiki/People/Global_Moderation_Team), [manutentore della wiki](/wiki/People/osu!_wiki_maintainers) |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Governante Generale |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | Sviluppatore di osu!, amante di osu!mania, insetticida per bug |
-| ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Sviluppatore di osu! |
+| ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Sviluppatore di osu!, supporto tecnico |
 | ::{ flag=FR }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | Designer |
 | ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) | Sviluppatore dell'infrastruttura di osu! |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Governante Generale, supporto dei tornei |
