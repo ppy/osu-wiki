@@ -73,7 +73,7 @@ If we decide to let you return, we will require that you agree to some terms bef
 
 Appeal returnees under the standard terms above are also [banned from official and badged tournaments](/wiki/Help_centre/Tournament_bans), both as a competitor and member of the tournament's team. The duration of this ban is 1 year per offence (if a user is on their second appeal, the ban lasts 2 years). The unrestriction email will clarify the duration of this ban.
 
-**Cheating or account sharing during an official or badged tournament will lead to the user's indefinite ban from any future ones.** This ban can only be appealed after two years, and will only be granted if the user has put significant effort into improving community tournaments. 
+**Cheating or account sharing during an official or badged tournament will lead to the user's indefinite ban from any future ones.** This ban can be appealed after two years, but will be granted only if the user has put significant effort into improving community tournaments.
 
 Some players may become restricted again once they start playing after having their appeal granted. This is an automated process and will generally be removed within 24 hours. Don't hesitate to ask questions on Twitter at [@osusupport](https://twitter.com/osusupport) or by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) if this happens to you!
 
