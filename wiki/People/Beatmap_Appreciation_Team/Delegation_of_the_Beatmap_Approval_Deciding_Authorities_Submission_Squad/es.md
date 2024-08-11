@@ -1,6 +1,6 @@
 # Delegation of the Beatmap Approval Deciding Authorities; Submission Squad
 
-El **Delegation of the Beatmap Approval Deciding Authorities; Submission Squad (*BADASS*)** fue el primer método de selección basado en los foros para los nuevos miembros del [Beatmap Appreciation Team (*BAT*)](/wiki/People/Beatmap_Appreciation_Team). Anteriormente, los nuevos miembros se añadían mediante votaciones informales en el canal `#bat` [IRC](/wiki/Community/Internet_Relay_Chat) del juego, que no recibía suficiente visibilidad.
+El **Delegation of the Beatmap Approval Deciding Authorities; Submission Squad (*BADASS*)** fue el primer método de selección basado en los foros para los nuevos miembros del [Beatmap Appreciation Team (*BAT*)](/wiki/People/Beatmap_Appreciation_Team). Anteriormente, los nuevos miembros se añadían mediante votaciones informales en el canal `#bat` del juego, que no recibía suficiente visibilidad.
 
 Esta iniciativa fue liderada por [Ivalset](https://osu.ppy.sh/users/827), el [gerente del BAT](/wiki/People/Beatmap_Appreciation_Team/BAT_Managers) en ese momento. Estuvo en funcionamiento durante nueve ciclos, del 9 de marzo de 2009 al 14 de octubre de 2009.
 
