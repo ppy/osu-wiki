@@ -51,15 +51,15 @@ These servers focus on providing and developing tools and systems for the game. 
 | :-- | :-- | :-- |
 | [Performance Points](https://discord.gg/aqPCnXu) | - | - |
 | [osu!catch dev server](https://discord.gg/YEJBENvFzN) | - | - |
-| [o!m SR/PP Rework Hub](https://discord.gg/GFCNNg8bwk) | - | - |
+| [o!m SR/PP Rework Hub](https://discord.gg/GFCNNg8bwk) | [Quenlla](https://osu.ppy.sh/users/4725379) | The **osu!mania SR/PP Rework Hub** aims to offer a place to discuss active developments from the community to improve the current difficulty systems used by osu!mania. Users can view and discuss the different ideas developed by their peers before they get officially proposed. |
 
 ## Mapping and Modding
 
-Quite a self-descriptive category. These servers aim to provide safe places for both mappers and modders alike. Users can expect to find a trove of both mapping and modding knowledge in these for their respective modes!
+These servers aim to provide safe places for both mappers and modders alike. Users can expect to find a trove of both mapping and modding knowledge in these for their respective modes!
 
 | Name | Owner | Description |
 | :-- | :-- | :-- |
-| [Mapset Management Server](https://discord.gg/8BquKaS) | - | - |
+| [Mapset Management Server](https://discord.gg/8BquKaS) | [Kyuunex](https://osu.ppy.sh/users/9236044) | The **Mapset Management Server** is all about modding and collaboration. Whether you are looking for mods and GDs on your own maps, or other maps to mod and GD or collaborate, you're in the right place! |
 | [Cozy Mappers' Café](https://discord.gg/uDjwjaZ ) | - | - |
 
 ### Hubs
