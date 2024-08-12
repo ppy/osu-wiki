@@ -1,3 +1,5 @@
+/.github/CODEOWNERS @peppy
+
 # News posts and assets
 /news/             @ppy/news-approval
 /wiki/shared/news/ @ppy/news-approval
