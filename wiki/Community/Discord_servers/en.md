@@ -84,7 +84,7 @@ These servers aim to provide safe places for skinners, no matter if they are des
 
 | Name | Owner | Description |
 | :-- | :-- | :-- |
-| [osu! storyboarder banquet](https://discord.gg/B8NX7YW) | - | - |
+| [osu! storyboarder banquet](https://discord.gg/B8NX7YW) | - | The **osu! storyboarder banquet** serves as a place all about storyboarding. With the help of their [website](https://osb.moe/), this server aims to provide users with multiple learning resources and a regular showcase of community-made storyboards. |
 
 ## Miscellaneous
 
