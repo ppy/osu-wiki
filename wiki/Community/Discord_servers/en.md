@@ -26,7 +26,7 @@ These servers are focused on giving users a place to discuss osu!'s main attract
 
 | Name | Owner | Description |
 | :-- | :-- | :-- |
-| [osu! Game](https://discord.gg/osu) | [oink](https://osu.ppy.sh/users/300173) | **osu! Game** is currently the biggest community driven, multi mode Discord server. By regularly hosting events and encouraging interactions between their users, it's a good place to discuss all things related to gameplay. |
+| [osu! Game](https://discord.gg/osu) | [oink](https://osu.ppy.sh/users/300173) | **osu! Game** is currently the biggest community driven, multi mode Discord server. By hosting events and encouraging interactions between their users, it's a good place to discuss all things related to gameplay. |
 | [osu! University](https://discord.gg/QubdHdnBVg) | [DigitalHypno](https://osu.ppy.sh/users/4384207) | **osu! University** is a community Discord server with a focus on discussion about improvement, mainly in the [osu!](/wiki/Game_mode/osu!) game mode. It regularly hosts various events such as top player interviews, [tournaments](/wiki/Tournaments), and improvement-related studies. |
 | [osu! Medal Hunters](https://discord.gg/osumedalhunters) | [MegaMix](https://osu.ppy.sh/users/18152711) | **osu! Medal Hunters** hosts discussion about [medals](/wiki/Medals) and [medal solutions](/wiki/Medals/Unlock_requirements). |
 
