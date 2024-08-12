@@ -6,7 +6,7 @@ tags:
 
 # Discord servers
 
-As the community grows and expands, several [Discord](https://discord.com/) servers have been made and maintained by the community to specialize in the game's many different facets.
+As the community grows and expands, several [Discord](https://discord.com/) servers have been made and maintained by the community to specialise in the game's many different facets.
 
 Each server provides a space with a specific purpose in mind, where players get together to discuss and work on various different projects. This index aims to serve as an index where users can find a subcommunity they can best fit in.
 
