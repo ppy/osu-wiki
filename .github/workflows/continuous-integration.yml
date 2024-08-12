@@ -66,7 +66,8 @@ jobs:
         run: xargs -0r meta/check-file-sizes.sh <"$CHANGED_FILES"
 
       - name: run remark on changed files
-        if: ${{ !cancelled() && steps.detect-changed-files.outcome == 'success' && !contains(github.event.pull_request.body, 'SKIP_REMARK') }}
+        if: ${{ !cancelled() && steps.detect-changed-files.outcome == 'success' }}
+        continue-on-error: ${{ contains(github.event.pull_request.body, 'SKIP_REMARK') }}
         run: |
           grep -z '\.md$' <"$CHANGED_FILES" | \
           REPORTER=vfile-reporter-github-action xargs -0r meta/remark.sh
@@ -76,9 +77,11 @@ jobs:
         run: osu-wiki-tools check-yaml
 
       - name: find broken wikilinks
-        if: ${{ !cancelled() && steps.detect-changed-files.outcome == 'success' && !contains(github.event.pull_request.body, 'SKIP_WIKILINK_CHECK') }}
+        if: ${{ !cancelled() && steps.detect-changed-files.outcome == 'success' }}
+        continue-on-error: ${{ contains(github.event.pull_request.body, 'SKIP_WIKILINK_CHECK') }}
         run: osu-wiki-tools check-links --all
 
       - name: check if translations are marked as outdated
-        if: ${{ !cancelled() && steps.detect-changed-files.outcome == 'success' && !contains(github.event.pull_request.body, 'SKIP_OUTDATED_CHECK') }}
+        if: ${{ !cancelled() && steps.detect-changed-files.outcome == 'success' }}
+        continue-on-error: ${{ contains(github.event.pull_request.body, 'SKIP_OUTDATED_CHECK') }}
         run: osu-wiki-tools check-outdated-articles --no-recommend-autofix
