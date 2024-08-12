@@ -12,7 +12,7 @@ Each server provides a space with a specific purpose in mind, where players get 
 
 ## osu! Development server
 
-The **osu! Development** server—also known as **osu!dev** or just **osu!**—is the game's official Discord server. It is meant to be the main place to view and discuss osu!'s ongoing developments, a place to contribute to the codebase, and a place where a plethora of community projects are organised in!
+The **osu! Development** server — also known as **osu!dev** or just **osu!** — is the game's official Discord server. It is meant to be the main place to view and discuss osu!'s ongoing developments, a place to contribute to the codebase, and a place where a plethora of community projects are organised in!
 
 **This is the only server officially affiliated with the game.** To keep up with osu!'s active development, it is strongly suggested to join the server.
 
@@ -30,9 +30,9 @@ These servers are focused on giving users a place to discuss osu!'s main attract
 | [osu! University](https://discord.gg/QubdHdnBVg) | [DigitalHypno](https://osu.ppy.sh/users/4384207) | **osu! University** is a community Discord server with a focus on discussion about improvement, mainly in the [osu!](/wiki/Game_mode/osu!) game mode. It regularly hosts various events such as top player interviews, [tournaments](/wiki/Tournaments), and improvement-related studies. |
 | [osu! Medal Hunters](https://discord.gg/osumedalhunters) | [MegaMix](https://osu.ppy.sh/users/18152711) | **osu! Medal Hunters** hosts discussion about [medals](/wiki/Medals) and [medal solutions](/wiki/Medals/Unlock_requirements). |
 
-## Development
+## Community Development
 
-These servers focus on providing and developing tools and systems for the game. While the official development of osu! is done in the official community Discord server, certain projects require their own workspaces before proposing and merging their work in game.
+These servers focus on providing and developing tools and systems for the game. While the official development of osu! is done in the **osu!** Discord server, certain projects require their own workspaces before proposing and merging their work in game.
 
 | Name | Owner |
 | :-- | :-- |
@@ -57,7 +57,7 @@ Besides the game mode hubs, other community servers exist to facilitate communic
 | Name | Owner | Description |
 | :-- | :-- | :-- |
 | [Mapset Management Server](https://discord.gg/TCDSjhb6yS) | [Kyuunex](https://osu.ppy.sh/users/9236044) | The **Mapset Management Server** hosts spaces to create and browse requests for [mods](/wiki/Modding), [guest difficulties](/wiki/Beatmap/Guest_difficulty), and [collaborations](/wiki/Beatmap/Beatmap_collaborations) in a casual environment. |
-| [Cozy Mappers' Café](https://discord.gg/uDjwjaZ) | [Teky](https://osu.ppy.sh/users/10520912) | - |
+| [Cozy Mappers' Café](https://discord.gg/uDjwjaZ) | [Teky](https://osu.ppy.sh/users/10520912) | **Cozy Mappers' Café** aims to be a laid back community, where users can discuss all things mapping and modding related. |
 
 ## Project Loved
 
