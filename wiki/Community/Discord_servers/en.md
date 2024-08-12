@@ -84,7 +84,7 @@ These servers aim to provide users with resources to help them in their [storybo
 
 | Name | Owner | Description |
 | :-- | :-- | :-- |
-| [osu! storyboarder banquet](https://discord.gg/B8NX7YW) | - | The **osu! storyboarder banquet** serves as a place all about storyboarding. With the help of their [website](https://osb.moe/), this server aims to provide users with multiple learning resources and a regular showcase of community-made storyboards. |
+| [osu! storyboarder banquet](https://discord.gg/B8NX7YW) | [Sidetail](https://osu.ppy.sh/users/2036217) | The **osu! storyboarder banquet** serves as a place all about storyboarding. With the help of their [website](https://osb.moe/), this server aims to provide users with multiple learning resources and a regular showcase of community-made storyboards. |
 
 ## Miscellaneous
 
