@@ -238,7 +238,7 @@ Sunday, 11 August 2024:
 
 | Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Bocchi Soup | 4 | **7** | Pixel 7 | [#1](https://osu.ppy.sh/community/matches/115036476) |
+| Bocchi Soup | 4 | **7** | **Pixel 7** | [#1](https://osu.ppy.sh/community/matches/115036476) |
 
 ### Semifinals
 
