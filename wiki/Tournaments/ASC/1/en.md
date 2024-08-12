@@ -199,6 +199,22 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
 
 ## Match results
 
+### Finals
+
+Saturday, 10 August 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Bocchi Soup** | **0** | -1 | LOTT'S TRAGIC HINDILOVE EXTRA | *win by default* |
+| **Yuma fanboys** | **7** | 1 | Noodle Soup | [#1](https://osu.ppy.sh/community/matches/115022632) |
+| skibidi's hybrid soup | 2 | **7** | **Pixel 7** | [#1](https://osu.ppy.sh/community/matches/115022641) |
+
+Sunday, 11 August 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Bocchi Soup | 4 | **7** | Pixel 7 | [#1](https://osu.ppy.sh/community/matches/115036476) |
+
 ### Semifinals
 
 Friday, 2 August 2024:
