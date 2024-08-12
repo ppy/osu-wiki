@@ -43,7 +43,7 @@ Las personas que se enumeran a continuación son el núcleo del **osu! team** y 
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [Moderador](/wiki/People/Global_Moderation_Team), [mantenedor de la wiki](/wiki/People/osu!_wiki_maintainers) |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Encargado general |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | Desarrollador de osu!, amante de osu!mania, destructor de errores |
-| ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Desarrollador de osu! |
+| ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Desarrollador de osu!, soporte técnico |
 | ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | Diseñador |
 | ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) | Desarrollador de la infraestructura de osu! |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Encargado general, asistente de torneos |
