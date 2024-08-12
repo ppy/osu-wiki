@@ -76,7 +76,7 @@ These servers aim to provide safe places for skinners, no matter if they are des
 
 | Name | Owner | Description |
 | :-- | :-- | :-- |
-| [skinship](https://discord.skinship.xyz/) | [RockRoller](https://osu.ppy.sh/users/8388854) | **skinship** is a place to discuss anything involving skinning, while also hosting projects such as [Skinning Contests](/wiki/en/Contests/Skinning_Contest) and the [Completed Skins Compendium](https://compendium.skinship.xyz/). Users can manage their skinning affairs by reaching out the [skinship bot account](https://osu.ppy.sh/users/32231941). |
+| [skinship](https://discord.skinship.xyz/) | [RockRoller](https://osu.ppy.sh/users/8388854) | **skinship** is a place to discuss anything involving skinning, while also hosting projects such as [Skinning Contests](/wiki/Contests/Skinning_Contest) and the [Completed Skins Compendium](https://compendium.skinship.xyz/). Users can manage their skinning affairs by reaching out the [skinship bot account](https://osu.ppy.sh/users/32231941). |
 
 ## Storyboarding
 
