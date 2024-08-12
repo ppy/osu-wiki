@@ -55,27 +55,30 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: detect changed files
+        id: detect-changed-files
         run: |
           changed_files="$(mktemp)"
           git diff --diff-filter=d --name-only --no-renames -z master >"$changed_files"
           printf 'CHANGED_FILES=%s\n' "$changed_files" >>"$GITHUB_ENV"
 
       - name: check file sizes
+        if: ${{ !cancelled() && steps.detect-changed-files.outcome == 'success' }}
         run: xargs -0r meta/check-file-sizes.sh <"$CHANGED_FILES"
 
       - name: run remark on changed files
-        if: ${{ !contains(github.event.pull_request.body, 'SKIP_REMARK') }}
+        if: ${{ !cancelled() && steps.detect-changed-files.outcome == 'success' && !contains(github.event.pull_request.body, 'SKIP_REMARK') }}
         run: |
           grep -z '\.md$' <"$CHANGED_FILES" | \
           REPORTER=vfile-reporter-github-action xargs -0r meta/remark.sh
 
       - name: run yamllint on .yaml and .md files
+        if: ${{ !cancelled() && steps.detect-changed-files.outcome == 'success' }}
         run: osu-wiki-tools check-yaml
 
       - name: find broken wikilinks
-        if: ${{ !contains(github.event.pull_request.body, 'SKIP_WIKILINK_CHECK') }}
+        if: ${{ !cancelled() && steps.detect-changed-files.outcome == 'success' && !contains(github.event.pull_request.body, 'SKIP_WIKILINK_CHECK') }}
         run: osu-wiki-tools check-links --all
 
       - name: check if translations are marked as outdated
-        if: ${{ !contains(github.event.pull_request.body, 'SKIP_OUTDATED_CHECK') }}
+        if: ${{ !cancelled() && steps.detect-changed-files.outcome == 'success' && !contains(github.event.pull_request.body, 'SKIP_OUTDATED_CHECK') }}
         run: osu-wiki-tools check-outdated-articles --no-recommend-autofix
