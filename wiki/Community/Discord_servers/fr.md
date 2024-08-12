@@ -1,3 +1,8 @@
+---
+outdated_since: afa852e7e1ca50c77095d37840d694843135ced7
+outdated_translation: true
+---
+
 # Serveurs Discord
 
 Page d'index pour tous les articles concernant les serveurs communautaires sur [Discord](https://discord.com/).
