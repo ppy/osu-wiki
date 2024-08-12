@@ -1,3 +1,8 @@
+---
+outdated_since: 5c6527674dac18301ca3466a47a3093b33a80d31
+outdated_translation: true
+---
+
 # 参与过 osu! 锦标赛的国家或地区
 
 本文列出了参加过 [osu!](/wiki/Game_mode/osu!)、[osu!taiko](/wiki/Game_mode/osu!taiko)、[osu!catch](/wiki/Game_mode/osu!catch)、[osu!mania](/wiki/Game_mode/osu!mania) 官方锦标赛的国家或地区。这里还列出了进入前三名队伍获奖数量的排名。
