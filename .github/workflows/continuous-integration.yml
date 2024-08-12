@@ -26,15 +26,6 @@ jobs:
       - name: create master branch from remote master
         run: git branch master origin/master
 
-      - name: detect changed files
-        run: |
-          changed_files="$(mktemp)"
-          git diff --diff-filter=d --name-only --no-renames -z master >"$changed_files"
-          printf 'CHANGED_FILES=%s\n' "$changed_files" >>"$GITHUB_ENV"
-
-      - name: check file sizes
-        run: xargs -0r meta/check-file-sizes.sh <"$CHANGED_FILES"
-
       - name: set up Node.js
         id: setup-node
         uses: actions/setup-node@v4
@@ -53,12 +44,6 @@ jobs:
         if: ${{ steps.cache-node-modules.outputs.cache-hit != 'true' }}
         run: npm ci
 
-      - name: run remark on changed files
-        if: ${{ !contains(github.event.pull_request.body, 'SKIP_REMARK') }}
-        run: |
-          grep -z '\.md$' <"$CHANGED_FILES" | \
-          REPORTER=vfile-reporter-github-action xargs -0r meta/remark.sh
-
       - name: set up Python
         uses: actions/setup-python@v5
         with:
@@ -68,6 +53,21 @@ jobs:
 
       - name: set up Python CI dependencies
         run: pip install -r requirements.txt
+
+      - name: detect changed files
+        run: |
+          changed_files="$(mktemp)"
+          git diff --diff-filter=d --name-only --no-renames -z master >"$changed_files"
+          printf 'CHANGED_FILES=%s\n' "$changed_files" >>"$GITHUB_ENV"
+
+      - name: check file sizes
+        run: xargs -0r meta/check-file-sizes.sh <"$CHANGED_FILES"
+
+      - name: run remark on changed files
+        if: ${{ !contains(github.event.pull_request.body, 'SKIP_REMARK') }}
+        run: |
+          grep -z '\.md$' <"$CHANGED_FILES" | \
+          REPORTER=vfile-reporter-github-action xargs -0r meta/remark.sh
 
       - name: run yamllint on .yaml and .md files
         run: osu-wiki-tools check-yaml
