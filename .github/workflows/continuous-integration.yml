@@ -50,7 +50,7 @@ jobs:
           key: node-modules-${{ hashFiles('package-lock.json') }}-${{ steps.setup-node.outputs.node-version }}
 
       - name: "if cache is outdated: install node.js dependencies"
-        if: steps.cache-node-modules.outputs.cache-hit != 'true'
+        if: ${{ steps.cache-node-modules.outputs.cache-hit != 'true' }}
         run: npm ci
 
       - name: run remark on changed files

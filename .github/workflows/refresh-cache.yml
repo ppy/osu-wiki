@@ -35,11 +35,11 @@ jobs:
           key: node-modules-${{ hashFiles('package-lock.json') }}-${{ steps.setup-node.outputs.node-version }}
 
       - name: "if cache is outdated: install node_modules"
-        if: steps.cache-node-modules.outputs.cache-hit != 'true'
+        if: ${{ steps.cache-node-modules.outputs.cache-hit != 'true' }}
         run: npm ci
 
       - name: "if cache is outdated: save cache"
-        if: steps.cache-node-modules.outputs.cache-hit != 'true'
+        if: ${{ steps.cache-node-modules.outputs.cache-hit != 'true' }}
         uses: actions/cache/save@v4
         with:
           path: node_modules
