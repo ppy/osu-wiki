@@ -206,7 +206,7 @@ How do you feel after taking the #1 rank from [YesMyDarknesss](https://osu.ppy.s
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3885626">Motion</a></p>
 
-It felt unreal when I had overtaken him, because when he had been dominating ctb for the last three years, I thought there was no chance for me to take it from him. But eventually I made it happen and I'm really happy for this. Never Give Up!
+It felt unreal when I had overtaken him, because when he had been dominating ctb for the last three years, I thought there was no chance for me to take it from him. But eventually [I made it happen](https://twitter.com/MotionCTB/status/1814940760183349353) and I'm really happy for this. Never Give Up!
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-08-12-the-followpoint-motion-the-ultimate-catcher/avatar-MegaMix.jpg')"></a>
 
