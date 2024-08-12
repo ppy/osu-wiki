@@ -132,7 +132,7 @@ Do you have any advice that you'd like to give players that want to begin or jus
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3885626">Motion</a></p>
 
-I think it would be better to check for [YesMyDarknesss’ interview](https://osu.ppy.sh/home/news/2024-05-28-the-followpoint-yesmydarknesss-the-master-of-osu-catch) because it was such a neat answer that there's not much to say for me. He's definitely a better fruit teacher than I am :)
+I think it would be better to check for [YesMyDarknesss' interview](https://osu.ppy.sh/home/news/2024-05-28-the-followpoint-yesmydarknesss-the-master-of-osu-catch) because it was such a neat answer that there's not much to say for me. He's definitely a better fruit teacher than I am :)
 
 Shout out to my man <3
 
@@ -232,7 +232,7 @@ And before we finish, let me ask you some bonus questions, starting with the cla
 
 If I were to pick the most impressive score, it would be probably ["Oracion(TV-Size) [Crystal's Rain]" +HDDTHR](https://osu.ppy.sh/scores/fruits/173627724) played by [ExGon](https://osu.ppy.sh/users/214187), because high approach rate (mostly AR10.5~11) in osu!catch is really tricky and difficult skillset to master.
 
-Also there are a few candidates that are coming to my mind, but if I have to pick one of them, it will be ["Sendan Life (katagiri Bootleg) [World End.]"](https://osu.ppy.sh/scores/fruits/214502143) without a doubt, because this map literally requires most of skillsets which are "consistency", "speed", "stamina" and also to quote ExGon, [“probably the best nomod score for ctb maps, no one will be able to get close for a while”](https://twitter.com/ExG0n/status/1713871203314868578). So I do believe this is enough to be picked.
+Also there are a few candidates that are coming to my mind, but if I have to pick one of them, it will be ["Sendan Life (katagiri Bootleg) [World End.]"](https://osu.ppy.sh/scores/fruits/214502143) without a doubt, because this map literally requires most of skillsets which are "consistency", "speed", "stamina" and also to quote ExGon, ["probably the best nomod score for ctb maps, no one will be able to get close for a while"](https://twitter.com/ExG0n/status/1713871203314868578). So I do believe this is enough to be picked.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-08-12-the-followpoint-motion-the-ultimate-catcher/avatar-MegaMix.jpg')"></a>
 
