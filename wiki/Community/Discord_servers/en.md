@@ -80,7 +80,7 @@ These servers aim to provide safe places for skinners, no matter if they are des
 
 ## Storyboarding
 
-(Same as above, but ask Noffy or another known SBer)
+These servers aim to provide users with resources to help them in their [storyboarding](/wiki/Storyboard) affairs. They are good starting points for beginners who will have an easier time easing themselves in the world of storyboarding while getting help from experienced users.
 
 | Name | Owner | Description |
 | :-- | :-- | :-- |
