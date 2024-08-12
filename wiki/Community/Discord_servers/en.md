@@ -16,14 +16,14 @@ These are servers made by the community, for the community. They do not have a s
 
 | Name | Owner | Description |
 | :-- | :-- | :-- |
-| [osu!](https://discord.gg/ppy) | [peppy](https://osu.ppy.sh/users/2) | The **osu!** Discord server, previously known as **osu!dev**, is osu!'s official Discord server for development-related purposes. The server functions as a hub for people to discuss and work on osu!'s open source and community projects. This is the main place to contribute to osu!'s development and get in touch with the osu! team. |
-| [Aiess Project](https://discord.gg/2XV5dcW) | [Naxess](https://osu.ppy.sh/users/8129817) | The **Aiess Project** is in charge of maintaining and updating several feeds, informing users of the many different events that happen in osu! on a daily basis! Users can keep up with the latest qualified and soon-to-be ranked beatmaps, keep up with usergroup changes, and be up to date with the latest news posts. |
+| [osu!](https://discord.gg/ppy) | [peppy](https://osu.ppy.sh/users/2) | The **osu!** Discord server, previously known as **osu!dev**, is osu!'s official Discord server for development-related purposes. The server functions as a hub for people to discuss and work on osu!'s open source and community projects. This is the main place to contribute to osu!'s development and get in touch with the [osu! team](/wiki/People/osu!_team). |
+| [Aiess Project](https://discord.gg/2XV5dcW) | [Naxess](https://osu.ppy.sh/users/8129817) | The **Aiess Project** maintains several feeds that inform members of events that happen in osu! on a regular basis, such as [beatmap category](/wiki/Beatmap/Category) changes, [user group](/wiki/People/User_group) updates, and news posts. |
 
 ### Project Loved
 
 <!-- This section as a whole needs to be discussed. Last time someone suggested listing the Loved suite of servers in the Project Loved wiki article, not everyone was on board. Moreover, some of its members and pepy themselves are not really happy on how everything is split apart. Question is whether we want to promote these servers while they exist, or ignore them in favour of the #osu-loved channel in the dev server -->
 
-[Project Loved](/wiki/Community/Project_Loved) organizes its workflows in different servers, divided by the ruleset which they specialize in. **The official development of the project is done in the osu! Discord server.** These hubs aim to facilitate the discussion of the mode's picks to be added. Non-game mode dependant discussions should always be carried out in `#osu-loved`, in the **osu!** Discord server.
+[Project Loved](/wiki/Community/Project_Loved) organizes its workflows in different servers, divided by the [game mode](/wiki/Game_mode) which they specialise in. These servers aim to facilitate the discussion of prospective picks for each mode. **The main development of the project is discussed in the [osu! Discord server](https://discord.gg/ppy).**
 
 | Name | Owner |
 | :-- | :-- |
@@ -38,8 +38,8 @@ These servers are focused on giving users a place to discuss osu!'s main attract
 
 | Name | Owner | Description |
 | :-- | :-- | :-- |
-| [osu! University](https://discord.gg/QubdHdnBVg ) | [DigitalHypno](https://osu.ppy.sh/users/4384207) | **osu! University** is a community Discord server with a focus on discussion about improvement, mainly in the [osu!](/wiki/Game_mode/osu!) game mode. It regularly hosts various events such as top player interviews, [tournaments](/wiki/Tournaments), and improvement-related studies, and is also well known for hosting paid coaching services. |
-| [osu! Medal Hunters](https://discord.gg/osumedalhunters) | [MegaMix](https://osu.ppy.sh/users/18152711) | **osu! Medal Hunters** is the main Discord server used by the medal hunting community, where people discuss [medals](/wiki/Medals) and [medal solutions](/wiki/Medals/Unlock_requirements). |
+| [osu! University](https://discord.gg/QubdHdnBVg) | [DigitalHypno](https://osu.ppy.sh/users/4384207) | **osu! University** is a community Discord server with a focus on discussion about improvement, mainly in the [osu!](/wiki/Game_mode/osu!) game mode. It regularly hosts various events such as top player interviews, [tournaments](/wiki/Tournaments), and improvement-related studies, and is also well known for hosting paid coaching services. |
+| [osu! Medal Hunters](https://discord.gg/osumedalhunters) | [MegaMix](https://osu.ppy.sh/users/18152711) | **osu! Medal Hunters** hosts discussion about [medals](/wiki/Medals) and [medal solutions](/wiki/Medals/Unlock_requirements). |
 
 ## Development
 
@@ -59,12 +59,12 @@ These servers aim to provide safe places for both mappers and modders alike. Use
 
 | Name | Owner | Description |
 | :-- | :-- | :-- |
-| [Mapset Management Server](https://discord.gg/TCDSjhb6yS) | [Kyuunex](https://osu.ppy.sh/users/9236044) | The **Mapset Management Server** is all about modding and collaboration. Whether you are looking for mods and GDs on your own maps, or other maps to mod and GD or collaborate, you're in the right place! |
+| [Mapset Management Server](https://discord.gg/TCDSjhb6yS) | [Kyuunex](https://osu.ppy.sh/users/9236044) | The **Mapset Management Server** hosts spaces to create and browse requests for [mods](/wiki/Modding), [guest difficulties](/wiki/Beatmap/Guest_difficulty), and [collaborations](/wiki/Beatmap/Beatmap_collaborations) in a casual environment. |
 | [Cozy Mappers' Café](https://discord.gg/uDjwjaZ) | [Teky](https://osu.ppy.sh/users/10520912) | - |
 
 ### Hubs
 
-The **Modding & Mapping Hubs** are community Discord servers designated for all current and aspiring mappers and modders. Users are able to find many channels that help them grow as a mapper, or interact with the general mapping community. Each mode boasts of its own hub, and each one is ran by different community members.
+The **Modding & Mapping Hubs** are community Discord servers designed for all current and aspiring mappers and modders. Members are able to interact with the general mapping community and find resources that promote growth as a mapper and modder.
 
 | Name | Owner |
 | :-- | :-- |
