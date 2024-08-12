@@ -20,10 +20,18 @@ Over the years, there were three different systems used for ranking players:
 
 Because of this, this list only includes players who have reached rank #1 on the main leaderboard that was used at the time. *Italicised* dates and numbers indicate that the corresponding player is continuing their reign as the osu!'s rank #1 holder either from the previous year or into the following year.
 
+## 2018
+
+| Player | From | To | Sources |
+| --: | :-- | :-- | :-- |
+| ::{ flag=RU }:: [skvix](https://osu.ppy.sh/users/4447639) | *2018-04-14* | *2019-04-06* | [\[1\]](https://web.archive.org/web/20180414205044/https://osu.ppy.sh/rankings/fruits/performance) |
+
 ## 2019
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
+| ::{ flag=RU }:: [skvix](https://osu.ppy.sh/users/4447639) | *2018-04-14* | 2019-04-06 | [\[1\]](https://web.archive.org/web/20180414205044/https://osu.ppy.sh/rankings/fruits/performance) |
+| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 2019-04-06 | 2019-08-09 | [\[1\]](https://web.archive.org/web/20190406161641/https://osu.ppy.sh/rankings/fruits/performance) |
 | ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549) | 2019-08-09 | 2019-08-18 | [\[1\]](https://www.reddit.com/r/osugame/comments/co0ruo/after_2_years_224hyperw7_has_reclaimed_rank_1_on/) [\[2\]](https://web.archive.org/web/20190810115254/https://osu.ppy.sh/rankings/fruits/performance) |
 | ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | *2019-08-18* | *2020-02-04* | [\[1\]](https://web.archive.org/web/20190818051437/https://osu.ppy.sh/rankings/fruits/performance) |
 
@@ -62,7 +70,8 @@ The following is a list of the total number of times a player has reached the ra
 | --: | :-: |
 | ::{ flag=HK }:: [AutoLs](https://osu.ppy.sh/users/9155988) | 4 |
 | ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549) | 4 |
-| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 3 |
+| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 4 |
+| ::{ flag=RU }:: [skvix](https://osu.ppy.sh/users/4447639) | 1 |
 
 ## Longest combined reigns
 
@@ -73,7 +82,8 @@ The following is a list of the total number of days that a player has held the r
 | Player | Length (days) |
 | --: | :-: |
 | ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549) | 1192 |
-| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 413 |
+| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 538 |
+| ::{ flag=RU }:: [skvix](https://osu.ppy.sh/users/4447639) | 357 |
 | ::{ flag=HK }:: [AutoLs](https://osu.ppy.sh/users/9155988) | 203 |
 
 ## Longest individual reigns
@@ -85,5 +95,6 @@ The following is a list of the longest consecutive days a player has held the ra
 | Player | From | To | Reign length (days) |
 | --: | :-- | :-- | :-: |
 | ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549) | 2021-06-07 | 2024-07-21 | 1173 |
+| ::{ flag=RU }:: [skvix](https://osu.ppy.sh/users/4447639) | 2018-04-14 | 2019-04-06 | 357 |
 | ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 2020-05-14 | 2021-01-12 | 243 |
 | ::{ flag=HK }:: [AutoLs](https://osu.ppy.sh/users/9155988) | 2020-02-04 | 2020-05-14 | 100 |
