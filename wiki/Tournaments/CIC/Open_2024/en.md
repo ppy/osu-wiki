@@ -100,6 +100,33 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 
 ## Mappools
 
+### Finals (week 1)
+
+- No Mod
+  1. [cosMo\@Bousou-P - Hatsune Miku no Shoushitsu -Real And Repeat- (Sololiquy) \[UNINSTALL\]](https://osu.ppy.sh/beatmapsets/2230758#fruits/4734261)
+  2. [TrinaLydia - Bend The Bullet (Jemzuu) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2230740#fruits/4734215)
+  3. [Hino Isuka - ULTRA MEGA HAPPY PARTY!!! (Dika312) \[DELUGE\]](https://osu.ppy.sh/beatmapsets/2230752#fruits/4734249)
+  4. [Frums - 24eeev0-\$ (Bunnrei) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2195835#fruits/4646351)
+  5. [Rahul Sipligunj & Kaala Bhairava - Naatu Naatu (Fsjallink) \[Challenge\]](https://osu.ppy.sh/beatmapsets/2047944#fruits/4275880)
+- Hidden
+  1. [Kikuo - Aishite Aishite Aishite (Mochi -) \[It's painful, it hurts.\]](https://osu.ppy.sh/beatmapsets/2230743#fruits/4734221)
+  2. [-45 - System Zero (fayew) \[The Mysterious Letter (CICO2024 Ver.)\]](https://osu.ppy.sh/beatmapsets/2230783#fruits/4734305)
+  3. [FOLiACETATE - Heterochromia Iridis (Kawaiwkyik) \[Extra\]](https://osu.ppy.sh/beatmapsets/155885#fruits/382239)
+- Hard Rock
+  1. [Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - ito (Spectator) \[Spec Lumi's Overdose\]](https://osu.ppy.sh/beatmapsets/2111859#fruits/4433498)
+  2. [\{ Camellia \} - \{ eXLIPXe \} (Zileni) \[INFINITE (EDIT)\]](https://osu.ppy.sh/beatmapsets/2230748#fruits/4734242)
+  3. [Maya Abe - Magical Parfait (KnightC0re) \[Euphoria\]](https://osu.ppy.sh/beatmapsets/2102128#fruits/4410062)
+- Double Time
+  1. [ShinRa-Bansho - Netaminity Theatre "666" (Spectator) \[Specuu's Rain\]](https://osu.ppy.sh/beatmapsets/1218948#fruits/2608016)
+  2. [Machico - Mystic Light Quest (-Miya) \[Overdose (CICO2024 Edit)\]](https://osu.ppy.sh/beatmapsets/2230760#fruits/4734264)
+  3. [Kalafina - Hikari no Senritsu (Madoka Ayukawa) \[Sky\]](https://osu.ppy.sh/beatmapsets/2230766#fruits/4734276)
+  4. [Hikarisyuyo - Burn Out (feat. Kagamine Rin) (Reiji Maigo) \[Extra\]](https://osu.ppy.sh/beatmapsets/2152709#fruits/4535794)
+- Easy
+  1. [II-L - VANGUARD-1 (Sololiquy) \[1-V\]](https://osu.ppy.sh/beatmapsets/2032087#fruits/4730158)
+  2. [RuLu - Bad End Donuts feat. tug (Nevo) \[Confliction\]](https://osu.ppy.sh/beatmapsets/2110908#fruits/4431252)
+- Tiebreaker
+  1. **[FREEDOM CREATORS - Okurina -Inochi o Aoku Mimamori Nemurina- (Daletto) \[Shidarezakura\]](https://osu.ppy.sh/beatmapsets/2230774#fruits/4734290)**
+
 ### Semifinals
 
 - No Mod
