@@ -710,6 +710,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | [4 Digit osu!mania World Cup 2023](4DM/2023) | 2023-01-14 | 2023-03-04 | ::{ flag=CN }:: China | ::{ flag=SG }:: Singapore | ::{ flag=CA }:: Canada |
 | [4 Digit osu!mania World Cup 2024](4DM/2024) | 2024-01-13 | 2024-02-25 | ::{ flag=VN }:: Vietnam | ::{ flag=US }:: United States | ::{ flag=TW }:: Taiwan |
 
+#### 6K Autumn Showdown Tournament
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [6K Autumn Showdown Tournament](6KAST/1) | 2023-10-14 | 2023-12-03 | ::{ flag=KR }:: [yz1155](https://osu.ppy.sh/users/2071008) | ::{ flag=TH }:: [LostCool](https://osu.ppy.sh/users/766374) | ::{ flag=CN }:: [VanWilder](https://osu.ppy.sh/users/89545) |
+
 #### :thonking: Mania Tournament
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
@@ -754,6 +760,15 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [GB Cup 2022 Spring](GBC/GBC_2022_Spring) | 2022-04-09 | 2022-05-15 | 金戈铁马的鲜丰水果摊 | 太美丽了理塘 | GBC最强阵容9个Miyes |
 | [GB Cup 2022 Autumn](GBC/GBC_2022_Autumn) | 2022-10-15 | 2022-12-18 | 猫猫面馆 | 黎曼猜想 | 均衡教派 |
+
+#### Jaye's One Key Event
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Jaye's One Key Event](JOKE/1) | 2020-07-11 | 2020-08-23 | ::{ flag=KR }:: [Jakads](https://osu.ppy.sh/users/259972) | ::{ flag=SG }:: [Blerargh](https://osu.ppy.sh/users/7609510) | ::{ flag=BR }:: [Brasil](https://osu.ppy.sh/users/3949268) |
+| [Jaye's One Key Event 2: Spacebar Jam](JOKE/2) | 2021-11-06 | 2021-12-19 | ::{ flag=US }:: [[LS]Ham](https://osu.ppy.sh/users/17523947) | ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910) | ::{ flag=BR }:: [Brasil](https://osu.ppy.sh/users/3949268) |
+| [Jaye's One Key Event 3: paradigm//SHIFT](JOKE/3) | 2023-10-28 | 2023-12-17 | ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) | ::{ flag=JP }:: [hz404](https://osu.ppy.sh/users/14947043) | ::{ flag=US }:: [\[LS\]Ham](https://osu.ppy.sh/users/17523947) |
+| [One Key World Cup 2024](JOKE/1KWC_2024) | 2024-05-04 | 2024-06-16 | ::{ flag=JP }:: Japan | ::{ flag=GB }:: United Kingdom | ::{ flag=AU }:: Australia-A |
 
 #### Mania Beginner's Showdown
 
@@ -844,6 +859,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Speed of Light Mania Tournament](SOL/2019) | 2019-11-23 | 2020-01-26 | ::{ flag=PH }:: [bojii](https://osu.ppy.sh/users/10083439) | ::{ flag=BR }:: [andreymc](https://osu.ppy.sh/users/5691061) | ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497) |
 | [Speed of Light 2: Lucha Libre Edition](SOL/2020) | 2020-11-14 | 2021-01-24 | regular team | World's Fastest Gamers | BOTTOM GEAR |
+| [Speed of Light 3](SOL/2023) | 2023-01-13 | 2023-03-12 | irregular team | Nepoca | the ffr d8 team |
 
 #### Springtime osu!mania Free-for-all Tournament
 
@@ -855,6 +871,13 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Springtime osu!mania Free-for-all Tournament 4](SOFT/4) | 2019-04-06 | 2019-06-22 | ::{ flag=KR }:: [wonder5193](https://osu.ppy.sh/users/8474029) | ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811) | ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723) |
 | [Springtime osu!mania Free-for-all Tournament 5](SOFT/5) | 2021-02-27 | 2021-05-09 | ::{ flag=CL }:: [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) | ::{ flag=PH }:: [bojii](https://osu.ppy.sh/users/10083439) | ::{ flag=BR }:: [SillyFangirl](https://osu.ppy.sh/users/2288363) |
 | [Springtime osu!mania Free-for-all Tournament 6](SOFT/6) | 2022-03-05 | 2022-05-15 | ::{ flag=CL }:: [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) | ::{ flag=SG }:: [Xvenn](https://osu.ppy.sh/users/13390529) | ::{ flag=BR }:: [SillyFangirl](https://osu.ppy.sh/users/2288363) |
+
+#### SV: Summer Exhibition
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [SV: Summer Exhibition](SVSE/1) | 2021-05-29 | 2021-07-18 | ::{ flag=JP }:: [CrewK](https://osu.ppy.sh/users/11488604) | ::{ flag=KR }:: [Jakads](https://osu.ppy.sh/users/259972) | ::{ flag=US }:: [etterna and osu](https://osu.ppy.sh/users/13712190) |
+| [SV: Summer Exhibition 2](SVSE/2) | 2023-06-17 | 2023-08-05 | gaki wa oshimai! (::{ flag=JP }:: [ICECAKE](https://osu.ppy.sh/users/16100800), ::{ flag=JP }:: [gyoza\_goki](https://osu.ppy.sh/users/18144664)) | no we're not boyfriends (::{ flag=VN }:: [mightyxd](https://osu.ppy.sh/users/12204127), ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222)) | The Hard Balls (::{ flag=CA }:: [walmart5193](https://osu.ppy.sh/users/16468962), ::{ flag=US }:: [ERA Basil](https://osu.ppy.sh/users/7097990)) |
 
 #### The Heptakey osu!mania Cup
 
