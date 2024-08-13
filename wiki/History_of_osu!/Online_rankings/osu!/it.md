@@ -283,11 +283,12 @@ Mentre ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) è stato ritenuto il 
 | Giocatore | Da | A | Fonte |
 | --: | :-- | :-- | :-- |
 | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | *2021-04-08* | 2024-07-21 | [\[1\]](https://web.archive.org/web/20210408052501/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mrekk/) [\[3\]](https://old.reddit.com/r/osugame/comments/mmkaag/mrekk_is_now_1_surpassing_whitecat/) [\[4\]](https://osu.ppy.sh/scores/osu/3584256449) [\[5\]](https://www.reddit.com/r/osugame/comments/mmkajm/mrekk_colorsslash_colors_power_ni_omakasero/) [\[6\]](https://www.youtube.com/watch?v=xQLVNqfqaOE) |
-| ::{ flag=GB }:: [9MlCE](https://osu.ppy.sh/users/9269034) | 2024-07-21 | Presente | [\[1\]](https://web.archive.org/web/20240722000045/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://web.archive.org/web/20240721223116/https://osu.ppy.sh/users/9269034) [\[3\]](https://ameobea.me/osutrack/user/9MlCE/) [\[4\]](https://old.reddit.com/r/osugame/comments/1e8yf1a/akolibed_is_now_1_passing_mrekk/) [\[5\]](https://osu.ppy.sh/scores/3198116312) [\[6\]](https://old.reddit.com/r/osugame/comments/1e8yf30/9mlce_akolibed_xi_over_the_top_expert_tynamo_1035/) |
+| ::{ flag=GB }:: [9MlCE](https://osu.ppy.sh/users/9269034) | 2024-07-21 | 2024-08-03 | [\[1\]](https://web.archive.org/web/20240722000045/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://web.archive.org/web/20240721223116/https://osu.ppy.sh/users/9269034) [\[3\]](https://ameobea.me/osutrack/user/9MlCE/) [\[4\]](https://old.reddit.com/r/osugame/comments/1e8yf1a/akolibed_is_now_1_passing_mrekk/) [\[5\]](https://osu.ppy.sh/scores/3198116312) [\[6\]](https://old.reddit.com/r/osugame/comments/1e8yf30/9mlce_akolibed_xi_over_the_top_expert_tynamo_1035/) |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 2024-08-03 | Presente | [\[1\]](https://web.archive.org/web/20240803205932/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mrekk/) [\[3\]](https://old.reddit.com/r/osugame/comments/1ej89t6/mrekk_is_now_1_overtaking_akolbed/) [\[4\]](https://osu.ppy.sh/scores/3271280736) [\[5\]](https://old.reddit.com/r/osugame/comments/1ej89wa/mrekk_maximum_the_hormone_chuchu_lovely_munimuni/) [\[6\]](https://www.youtube.com/watch?v=T2pkgNvjAVE) |
 
 ## Numero di regni
 
-Di seguito è riportato il numero totale di volte in cui un giocatore ha raggiunto la posizione numero 1 nel suo tempo di gioco (al 22 luglio 2024).
+Di seguito è riportato il numero totale di volte in cui un giocatore ha raggiunto la posizione numero 1 nel suo tempo di gioco (al 8 agosto 2024).
 
 | Giocatore | Regni |
 | --: | :-: |
@@ -310,6 +311,7 @@ Di seguito è riportato il numero totale di volte in cui un giocatore ha raggiun
 | ::{ flag=PL }:: [Kubu](https://osu.ppy.sh/users/29130) | 4 |
 | ::{ flag=JP }:: [tobebuta](https://osu.ppy.sh/users/14053) | 4 |
 | ::{ flag=US }:: [Saturos](https://osu.ppy.sh/users/3781) | 3 |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 2 |
 | ::{ flag=DE }:: [ShadowSoul](https://osu.ppy.sh/users/494970) | 2 |
 | ::{ flag=TW }:: [Uan](https://osu.ppy.sh/users/147623) | 2 |
 | ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150) | 2 |
@@ -319,7 +321,6 @@ Di seguito è riportato il numero totale di volte in cui un giocatore ha raggiun
 | ::{ flag=TW }:: [f0012979](https://osu.ppy.sh/users/12143) | 1 |
 | ::{ flag=JP }:: [Flute](https://osu.ppy.sh/users/211278) | 1 |
 | ::{ flag=KR }:: [La Valse](https://osu.ppy.sh/users/70863) | 1 |
-| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 1 |
 | ::{ flag=KR }:: [Reimu-Desu](https://osu.ppy.sh/users/948713) | 1 |
 | ::{ flag=US }:: [Rolled](https://osu.ppy.sh/users/5243) | 1 |
 | ::{ flag=JP }:: [rrtyui](https://osu.ppy.sh/users/352328) | 1 |
@@ -333,7 +334,7 @@ Di seguito è riportato il numero totale di volte in cui un giocatore ha raggiun
 
 *Nota: il regno attuale del numero 1 è escluso.*
 
-Di seguito è riportato il numero totale di giorni in cui un giocatore ha detenuto il posto numero 1 (al 22 luglio 2024).
+Di seguito è riportato il numero totale di giorni in cui un giocatore ha detenuto il posto numero 1 (al 8 agosto 2024).
 
 | Giocatore | Lunghezza (giorni) |
 | --: | :-: |
@@ -365,6 +366,7 @@ Di seguito è riportato il numero totale di giorni in cui un giocatore ha detenu
 | ::{ flag=US }:: [Rolled](https://osu.ppy.sh/users/5243) | 27 |
 | ::{ flag=KR }:: [Sure](https://osu.ppy.sh/users/70730) | 26 |
 | ::{ flag=DE }:: [ShadowSoul](https://osu.ppy.sh/users/494970) | 20 |
+| ::{ flag=GB }:: [9MlCE](https://osu.ppy.sh/users/9269034) | 13 |
 | ::{ flag=US }:: [Freddie Benson](https://osu.ppy.sh/users/7342622) | 13 |
 | ::{ flag=JP }:: [tobebuta](https://osu.ppy.sh/users/14053) | 13 |
 | ::{ flag=JP }:: [Flute](https://osu.ppy.sh/users/211278) | 8 |
@@ -378,7 +380,7 @@ Di seguito è riportato il numero totale di giorni in cui un giocatore ha detenu
 
 *Nota: sono inclusi solo i regni superiori a 100 giorni. L'attuale regno numero 1 è escluso.*
 
-Di seguito è riportato l'elenco dei giorni consecutivi in cui un giocatore ha occupato la posizione numero 1 (al 22 luglio 2024).
+Di seguito è riportato l'elenco dei giorni consecutivi in cui un giocatore ha occupato la posizione numero 1 (al 8 agosto 2024).
 
 | Giocatore | Da | A | Lunghezza del regno (giorni) |
 | --: | :-- | :-- | :-: |

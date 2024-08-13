@@ -24,7 +24,7 @@ Al hacer clic en las insignias, se accederá a las listas del grupo respectivo, 
 | 29 | ![BOT](/wiki/shared/group/BOT.png) | [Chat Bots](/wiki/Bot_account)[^private] | Cuentas especiales administradas por servicios automatizados en lugar de personas reales |
 | 31 | [![LVD](/wiki/shared/group/LVD.png)](https://osu.ppy.sh/groups/31) | [Project Loved](/wiki/People/Project_Loved_Team) | Reconocer los beatmaps que más le gustan a la comunidad |
 | 32 | [![BN](/wiki/shared/group/BN-prob.png)](https://osu.ppy.sh/groups/32) | [Beatmap Nominators (Probationary)](/wiki/People/Beatmap_Nominators#beatmap-nominators-provisionales) | BN en prueba que esperan una evaluación positiva para confirmar su presencia en el equipo como miembro completo |
-| 33 | ![PPY](/wiki/shared/group/PPY.png) | ppy | Reservado para [peppy](/wiki/People/peppy), el creador de osu! |
+| 33 | ![PPY](/wiki/shared/group/PPY.png) | ppy[^private] | Reservado para [peppy](/wiki/People/peppy), el creador de osu! |
 | 35 | [![FA](/wiki/shared/group/FA.png)](https://osu.ppy.sh/groups/35) | [Featured Artist](/wiki/People/Featured_Artists) | Creadores musicales que se han asociado con osu! |
 | 47 |  | Announce[^private] | Usuarios con permiso para enviar mensajes en el [chat de anuncios](/wiki/Announcement_messages) |
 | 48 | [![BSC](/wiki/shared/group/BSC.png)](https://osu.ppy.sh/groups/48) | [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators) | Responsables de seleccionar mapas de alta calidad para [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
