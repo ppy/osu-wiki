@@ -29,6 +29,7 @@ These servers are focused on giving users a place to discuss osu!'s main attract
 | [osu! Game](https://discord.gg/osu) | [oink](https://osu.ppy.sh/users/300173) | **osu! Game** is currently the biggest community driven, multi mode Discord server. By hosting events and encouraging interactions between their users, it's a good place to discuss all things related to gameplay. |
 | [osu! University](https://discord.gg/QubdHdnBVg) | [DigitalHypno](https://osu.ppy.sh/users/4384207) | **osu! University** is a community Discord server with a focus on discussion about improvement, mainly in the [osu!](/wiki/Game_mode/osu!) game mode. It regularly hosts various events such as top player interviews, [tournaments](/wiki/Tournaments), and improvement-related studies. |
 | [osu! Medal Hunters](https://discord.gg/osumedalhunters) | [MegaMix](https://osu.ppy.sh/users/18152711) | **osu! Medal Hunters** hosts discussion about [medals](/wiki/Medals) and [medal solutions](/wiki/Medals/Unlock_requirements). |
+| [osu!alternative](https://discord.gg/VZWRZZXcW4) | [billie eilish](https://osu.ppy.sh/users/6245906) | **osu!alternative** offers extra metrics and score trackers not provided by the website. It allows players to rank players and scores in an unofficial manner. |
 
 ## Community development
 
@@ -37,7 +38,7 @@ These servers focus on providing and developing tools and systems for the game. 
 | Name | Owner |
 | :-- | :-- |
 | [Performance Points](https://discord.gg/aqPCnXu) | - |
-| [osu!catch dev server](https://discord.gg/YEJBENvFzN) | - |
+| [osu!catch dev server](https://discord.gg/YEJBENvFzN) | [bastoo0](https://osu.ppy.sh/users/4864877) |
 | [o!m SR/PP Rework Hub](https://discord.gg/GFCNNg8bwk) | [Quenlla](https://osu.ppy.sh/users/4725379) |
 
 ## Mapping and modding
@@ -61,7 +62,7 @@ Besides the game mode hubs, other community servers exist to facilitate communic
 
 ## Tournaments and contests
 
-These servers aim to provide users everything related to [tournaments](/wiki/Tournaments) and [contests](/wiki/Contests/). By providing users with regular notices on upcoming tournaments, users can stay tuned with the latest tournaments they can be a part of. Both players and staff members can benefit from the resources provided by these servers.
+These servers aim to provide users everything related to [tournaments](/wiki/Tournaments) and [contests](/wiki/Contests). By providing users with regular notices on upcoming tournaments, users can stay tuned with the latest tournaments they can be a part of. Both players and staff members can benefit from the resources provided by these servers.
 
 | Name | Owner |
 | :-- | :-- |
