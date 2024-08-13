@@ -60,6 +60,6 @@ It looks like you accepted the trade offer. Well here it is, the latest and grea
 
 ---
 
-Daily challenges should be arriving within the next couple of days, but until then, why not [download osu!(lazer)](https://osu.ppy.sh/home/download) and give it a try? If you are interested in all the minute details that were left out of this news post, check out the changelog [here](https://osu.ppy.sh/home/changelog/lazer/2024.625.0).
+Daily challenges should be arriving within the next couple of days, but until then, why not [download osu!(lazer)](https://osu.ppy.sh/home/download) and give it a try? If you are interested in all the minute details that were left out of this news post, check out the changelog [here](https://osu.ppy.sh/home/changelog/lazer/2024.718.0).
 
 —0x84f

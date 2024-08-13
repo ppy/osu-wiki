@@ -1,3 +1,8 @@
+---
+outdated_since: 218cb353a5cb04575555aa5d0c33fd5e5de209d7
+outdated_translation: true
+---
+
 # Regeln
 
 Diese Regeln bilden die Grundlage, mit der wir dafür sorgen, dass die osu!-Community Spaß haben kann und eine freundliche Umgebung hat.
