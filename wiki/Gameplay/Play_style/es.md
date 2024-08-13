@@ -151,7 +151,7 @@ El teclado fue una vez la *única* manera de jugar osu!mania hasta que se les di
 
 Para jugar con teclado, los jugadores deben presionar las teclas correspondientes a su ubicación en el teclado del juego. Por defecto estas teclas son `D`, `F`, `J`, y `K`. La ventaja de este estilo de juego es que se puede adaptar a básicamente cualquier configuración de teclas.
 
-### Controlador de arcade.
+### Controlador de arcade
 
 Los controladores de arcade de otros juegos rítmicos tales como DJMAX, O2Jam, Beatmania IIDX, etc. son un estilo de juego hecho para veteranos experimentados en juegos rítmicos de tipo transportador.
 
