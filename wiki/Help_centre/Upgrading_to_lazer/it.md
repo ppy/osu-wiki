@@ -1,8 +1,3 @@
----
-outdated_since: 63b48d01b9acbe7defa804decae33ad768a7077f
-outdated_translation: true
----
-
 # Aggiornare a lazer
 
 osu!(lazer) è il prossimo grande aggiornamento al client di osu!. È il frutto di diversi anni di lavoro dietro le quinte per reimplementare osu!.
@@ -77,7 +72,7 @@ Di seguito verrà rappresentata una lista dello **stato attuale** di lazer in co
 | Ricezione del punteggio | ![Sì][true] | ![Sì][true] |
 | Classifiche per beatmap | ![Sì][true] | ![Sì][true] |
 | Statistiche del profilo | ![Sì][true] | ![Sì][true] |
-| Medaglie | ![Sì][true] | ![Parziale][partial] |
+| Medaglie | ![Sì][true] | ![Parziale][partial][^medals-lazer] |
 | Punti performance | ![Sì][true] | ![Sì][true] |
 | Chat in tempo reale | ![Parziale][partial][^stable-chat] | ![Sì][true] |
 | Wiki / news / changelog / classifiche | ![No][false] | ![Sì][true][^online-content] |
@@ -347,6 +342,7 @@ Probabilmente stai pensando ad un altro gioco.
 [^countdown-timers-lazer]: Imposta un conto alla rovescia dall'interfaccia utente del gioco per avviare automaticamente la partita.
 [^queue-modes]: Attiva per consentire a chiunque in una lobby di mettere in coda nuove beatmap, anche detto "host rotate".
 [^difficulty-adjust]: Cambiare CS/AR/OD/HP di una beatmap direttamente dalla song select tramite la mod Difficulty Adjust.
+[^medals-lazer]: Alcune [medaglie Hush-Hush](/wiki/Medals#hush-hush) non sono ancora ottenibili.
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png

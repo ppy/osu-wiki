@@ -118,7 +118,7 @@ Do you feel like speed is really overweighted, why or why not?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
 
-Oh yeah definitely. Speed is in a very unbalanced state right now, and I'm hopeful for the upcoming reworks that seem to aim to help with that issue, such as [Xexxar's rework](https://github.com/ppy/osu/discussions/20210). I really hope to see a meta that's more focused on high BPM aim than anything as that skill set is very fun to me!
+Oh yeah definitely. Speed is in a very unbalanced state right now, and I'm hopeful for the upcoming reworks that seem to aim to help with that issue, such as Xexxar's rework. I really hope to see a meta that's more focused on high BPM aim than anything as that skill set is very fun to me!
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/news/2024-07-29-the-followpoint-flaro-the-queen-of-speed/avatar-Utiba.jpg')"></a>
 

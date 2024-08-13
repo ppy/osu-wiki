@@ -21,7 +21,6 @@ The osu! development effort is lead by ::{ flag=AU }:: **[peppy](https://osu.ppy
 
 ### Game client developers
 
-- ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377)
 - ::{ flag=SK }:: [Domco](https://osu.ppy.sh/users/3562660)
 - ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502)
 - ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)
@@ -45,15 +44,8 @@ The osu! development effort is lead by ::{ flag=AU }:: **[peppy](https://osu.ppy
 
 ### Community managers
 
-- ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
-- ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
-- ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)
-- ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718)
 - ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)
-- ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418)
 - ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328)
-- ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631)
-- ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079)
 
 ### Bot accounts
 
@@ -68,20 +60,20 @@ Currently, the main osu! projects are hosted on GitHub and available for anyone 
 *For detailed insights on contributions to the osu! project, see: [Contributors of the `osu` repository](https://github.com/ppy/osu/graphs/contributors)*
 
 - ::{ flag=CA }:: [DrabWeb](https://osu.ppy.sh/users/6946022)
+- ::{ flag=JP }:: [ekr](https://osu.ppy.sh/users/4497706)
 - ::{ flag=BY }:: [EVAST](https://osu.ppy.sh/users/8195163)
-- ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502)
 - ::{ flag=CN }:: [huoyaoyuan](https://osu.ppy.sh/users/2428732)
-- ::{ flag=PL }:: [spaceman\_atlas](https://osu.ppy.sh/users/3035836)
+- ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835)
 
 #### osu!framework
 
 *For detailed insights on contributions to the osu!framework project, see: [Contributors of the `osu-framework` repository](https://github.com/ppy/osu-framework/graphs/contributors)*
 
-- ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502)
+- ::{ flag=JP }:: [ekr](https://osu.ppy.sh/users/4497706)
 - ::{ flag=CN }:: [huoyaoyuan](https://osu.ppy.sh/users/2428732)
 - ::{ flag=AU }:: [Samah](https://osu.ppy.sh/users/343490)
-- ::{ flag=PL }:: [spaceman\_atlas](https://osu.ppy.sh/users/3035836)
-- ::{ flag=RU }:: [TacoToucan](https://osu.ppy.sh/users/1326350)
+- ::{ flag=HR }:: [Susko3](https://osu.ppy.sh/users/18945305)
+- ::{ flag=RU }:: [TocoToucan](https://osu.ppy.sh/users/1326350)
 
 #### osu!web
 
@@ -89,9 +81,9 @@ Currently, the main osu! projects are hosted on GitHub and available for anyone 
 
 - ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350)
 - ::{ flag=ID }:: [GPR](https://osu.ppy.sh/users/10721349)
-- ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540)
 - ::{ flag=PL }:: [LiquidPL](https://osu.ppy.sh/users/5044384)
 - ::{ flag=PL }:: [TPGPL](https://osu.ppy.sh/users/3944705)
+- ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631)
 
 ## Retired contributors
 
@@ -101,5 +93,4 @@ Below listed are users, who have left the ongoing development efforts, and moved
 | :-- | :-- |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Community manager |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | Game client developer |
-| ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | Designer |
 | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Game client developer |
