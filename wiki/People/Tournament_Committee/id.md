@@ -1,8 +1,8 @@
 ---
 tags:
   - TC
+outdated_since: 79edb3a3685e1e9f35c34c9733b2cfbff5eb2752
 outdated_translation: true
-outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
 ---
 
 # Tournament Committee
