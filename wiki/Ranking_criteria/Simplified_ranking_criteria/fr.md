@@ -1,7 +1,5 @@
 ---
 no_native_review: true
-outdated_translation: true
-outdated_since: 60bb40f512eeb097fe340a905acef102f034e77d
 ---
 
 # Critères de classement simplifiés
@@ -21,6 +19,7 @@ Les **critères de classement simplifiés** visent à donner aux mappeurs une pe
 ![](img/percent.png "Pourcentage de progression de la musique")
 :::
 
+- **Assurez-vous que tout ce qui se trouve dans la map est autorisé en termes de [permissions d'utilisation du contenu](/wiki/Rules/Content_usage_permissions#autorisations-de-l'artiste).**
 - **Les maps doivent durer au moins 30 secondes.**
 - **Les maps doivent se terminer autour de [80%](img/percent.png).** Si vous voulez terminer la map plus tôt, essayez de couper la musique.
 
@@ -110,7 +109,7 @@ Les **critères de classement simplifiés** visent à donner aux mappeurs une pe
 ![](img/delay.png "Fichier hitsound avec délai")
 :::
 
-- **Les fichiers hitsound doivent avoir une longueur de 25 ms et utiliser les formats de fichier `.wav` ou `.ogg`.**
+- **Les fichiers hitsound doivent avoir une longueur d'au moins 25 ms et utiliser les formats de fichier `.wav` ou `.ogg`.**
   - N'utilisez pas le format `.mp3`.
   - **Exception :** Utilisez [ce fichier](https://up.ppy.sh/files/blank.wav) pour les hitsounds silencieux.
 - **Les hitsounds ne doivent pas être [retardés](img/delay.png).**
