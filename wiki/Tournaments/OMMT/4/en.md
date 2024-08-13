@@ -258,6 +258,22 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 
 ## Match results
 
+### Finals
+
+Saturday, 10 August 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Overjoyed | 4 | **7** | **how to train your dragon** | [#1](https://osu.ppy.sh/community/matches/115023302) |
+| **Re:Zuna** | **7** | 0 | Digital Frogs | [#1](https://osu.ppy.sh/community/matches/115023702) |
+
+Sunday, 10 August 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| how to train your dragon | 6 | **7** | **Re:Zuna** | [#1](https://osu.ppy.sh/community/matches/115037106) |
+| **leon's waifuus!!** | **7** | 3 | Gon and LongGone | [#1](https://osu.ppy.sh/community/matches/115037104) |
+
 ### Semifinals
 
 Saturday, 3 August 2024:
