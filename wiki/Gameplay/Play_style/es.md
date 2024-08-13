@@ -6,7 +6,7 @@ En esta página se detallan las distintas formas que los jugadores pueden elegir
 
 ### Solo con el ratón
 
-También conocido como *solo ratón*, los jugadores que emplean este método desplazan el cursor con un ratón mientras pulsan las notas, siguen los sliders y giran los spinners usando solamente los botones izquierdo y derecho del ratón.
+También conocido como *puro ratón*, los jugadores que emplean este método desplazan el cursor con un ratón mientras pulsan las notas, siguen los sliders y giran los spinners usando solamente los botones izquierdo y derecho del ratón.
 
 Usar solo el ratón solía ser la *única* manera de jugar osu! hasta que se les dio soporte a otros métodos con el tiempo.
 
@@ -18,7 +18,7 @@ Jugar solo con el ratón es considerado uno de los estilos más complicados y lo
 
 El ratón doble es un estilo de juego en el cual un jugador tiene un ratón en cada mano, usando uno para pulsar y otro para mover el cursor por la pantalla.
 
-Era considerado un estilo de juego *ridículo* por la mayoría de jugadores hasta que en mayo de 2013, el jugador canadiense ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) empezó a obtener grandes puntuaciones como [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatmapsets/29691) and [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatmapsets/41823) mientras jugaba con dos ratones.
+Era considerado un estilo de juego *ridículo* por la mayoría de jugadores hasta que en mayo de 2013, el jugador canadiense ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) empezó a obtener grandes puntuaciones como [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatmapsets/29691) y [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatmapsets/41823) mientras jugaba con dos ratones.
 
 *Nota: Es común que los jugadores que juegan con ratón doble dejen fijado a la mesa el ratón que van a usar para hacer clic.*
 
