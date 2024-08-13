@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Score total
 
 *Pour d'autres utilisations, voir [Score (désambiguïsation)](/wiki/Disambiguation/Score).*
