@@ -32,7 +32,7 @@ If you feel the remarks/advances were highly inappropriate or you are an underag
 
 To do so, click the `Report post` button in the top right corner of the forum post.
 
-Alternatively, click the username of any GMT member in the list on that page. This will take you to their profile. If you are unsure of who to click, just use [this link instead](https://osu.ppy.sh/users/102335).
+Alternatively, click the username of any GMT member in the list on that page. This will take you to their profile. If you are unsure of who to click, just use [this link instead](https://osu.ppy.sh/users/5999631).
 
 Click the button with an envelope in it just below the user's country flag. This will take you to the chat screen.
 
