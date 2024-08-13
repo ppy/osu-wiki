@@ -97,6 +97,8 @@ New members to the Tournament Committee must meet the following basic criteria b
 
 Whether a prospective member applies via email or is brought forward by an existing member, the process is the same. The Tournament Committee holds an in-depth discussion on the candidate. Special attention is paid towards their activity in the tournament scene, stature, community contributions, and how they would benefit the committee. Following said discussion, an anonymous vote is held to determine whether to add the candidate to the committee.
 
+Users that fail to gather enough positive votes will be denied, and won't be able to apply for a period of 6 months from the moment they receive a response to their application which will be delivered no later than 2 weeks from the day they apply.
+
 ### Votes
 
 The Tournament Committee frequently makes use of anonymous voting when making important decisions. Typical uses are listed above, but those are not fully inclusive. The voting requirements also differ based on the use case. All typical votes also require "strict participation", meaning that if 75% of the Tournament Committee does not participate by the vote deadline, voting is extended by 24 hours. Furthermore, all votes require at least an absolute majority, at least 50%, for action to be taken. Votes on many topics have the same requirements, but there are slight differences on some common topics listed below.
