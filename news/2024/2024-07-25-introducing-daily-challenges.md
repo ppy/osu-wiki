@@ -24,9 +24,9 @@ These are daily featured beatmaps accessible from the "play" section of the main
 
 ![](/wiki/shared/news/2024-07-25-introducing-daily-challenges/daily-challenge-screen.jpg)
 
-Each day will introduce one new map with increased difficulty, resetting every Monday.
+Each day will introduce one new map with increased difficulty, resetting after a week.
 
-![](/wiki/shared/news/2024-07-25-introducing-daily-challenges/daily-challenge-calendar.png?1)
+![](/wiki/shared/news/2024-07-25-introducing-daily-challenges/daily-challenge-calendar.png?2)
 
 After passing the beatmap of the day, it will be counted towards "daily challenge" totals on the profile (which are updated at the end of each day).
 
