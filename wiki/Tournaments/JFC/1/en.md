@@ -76,6 +76,64 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
 
 ## Mappools
 
+### Finals (week 2)
+
+- No Mod
+  1. [ELFENSJoN - Hyousou wa Hakuen wo Matoite (Yusomi) \[Extra\]](https://osu.ppy.sh/beatmapsets/1312064#osu/2719302)
+  2. [Riverside - The Magic Valleys of Dark Wolf (LMT) \[Expert (Corsace)\]](https://osu.ppy.sh/beatmapsets/1267263#osu/2633688)
+  3. [Sleeping Pola - kuuchuubunkai (Raijodo) \[FlyingTuna's Extra\]](https://osu.ppy.sh/beatmapsets/1988616#osu/4375019)
+  4. [Rory in early 20s - Wa Yoderi (Halgoh) \[Apocryphal Metempsychosis\]](https://osu.ppy.sh/beatmapsets/1765605#osu/3614063)
+  5. [cosMo@bousouP feat. Hatsune Miku, GUMI - Monochrome Voice (rollpan) \[Anti the "OJT" HOLIC\]](https://osu.ppy.sh/beatmapsets/1395882#osu/2881155)
+  6. [DJ Yoshitaka vs. DJ Mass MAD Izm\* - Snake Stick (Hollow Wings) \[yf's EX\]](https://osu.ppy.sh/beatmapsets/1643220#osu/3362732)
+- Hidden
+  1. [paraoka feat. haru\*nya - Boot (attendant) \[Jounzan's Expert\]](https://osu.ppy.sh/beatmapsets/1649456#osu/3366726)
+  2. [Shannon feat. RIME - Solitary Industrial Revolution (Ryuusei Aika) \[Reiji Maigo's Extra\]](https://osu.ppy.sh/beatmapsets/2048022#osu/4360848)
+  3. [Yunosuke - Ziqqurat (xLolicore-) \[Ascension\]](https://osu.ppy.sh/beatmapsets/2021535#osu/4210067)
+- Hard Rock
+  1. [Kakka - lonely pirouette (ponbot) \[twilight doll\]](https://osu.ppy.sh/beatmapsets/1495810#osu/3066431)
+  2. [ginkiha, TEA - Haruka (Short Ver.) (Hinsvar) \[Expert\]](https://osu.ppy.sh/beatmapsets/1110461#osu/2320392)
+  3. [TUYU - Yappari Ame wa Furun da ne (Seros) \[Ame\]](https://osu.ppy.sh/beatmapsets/1217474#osu/2533116)
+- Double Time
+  1. [REDALiCE - Kizuato (Natsu) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/108820#osu/346774)
+  2. [fromis\_9 - LOVE BOMB (Cellina) \[Heart\]](https://osu.ppy.sh/beatmapsets/1849271#osu/3798824)
+  3. [cosMo\@BousouP - Oceanus (Aistre) \[jaistreolv's Insane\]](https://osu.ppy.sh/beatmapsets/1908931#osu/3948730)
+  4. [Dio ft. Sef - Tijdmachine (GladiOol) \[Lesjuh! '11\]](https://osu.ppy.sh/beatmapsets/6997#osu/129875)
+- Free Mod
+  1. [TJ.hangneil - Kamui (Cellina) \[Nasmoeb's SHD\]](https://osu.ppy.sh/beatmapsets/2008761#osu/4181631)
+  2. [Towa Tei with Sheena Ringo - APPLE (fanzhen0019) \[PaRaDogi's Expert\]](https://osu.ppy.sh/beatmapsets/1851719#osu/3941000)
+  3. [tsunamix_underground - Period. \~ Seishin no Kousoku to Jiyuu o Tsukamu Jouka (Cut Ver.) (bob) \[hidden extra.\]](https://osu.ppy.sh/beatmapsets/1594769#osu/3257371)
+- Tiebreaker
+  1. **[Camellia - Tojita Sekai (Sing) \[Forgotten Kingdom\]](https://osu.ppy.sh/beatmapsets/1032718#osu/2159251)**
+
+### Finals (week 1)
+
+- No Mod
+  1. [Adust Rain - Eleven Stud (NirtroR) \[Rain\]](https://osu.ppy.sh/beatmapsets/1703188#osu/3479949)
+  2. [Plum - Dustwind (knowledgeking) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1450157#osu/3249380)
+  3. [Nanahoshi Kangengakudan feat.Matsushita - Dance Number o Tomo ni (ajmosca) \[Loveless Dance\]](https://osu.ppy.sh/beatmapsets/2024048#osu/4215985)
+  4. [Camellia - \#1f1e33 (Realazy) \[CrazyRabbit's Amaranthine Extra\]](https://osu.ppy.sh/beatmapsets/1192060#osu/2708961)
+  5. [sHimaU - Noumen Break (katagiri Remix) (fergas) \[External\]](https://osu.ppy.sh/beatmapsets/1964101#osu/4072252)
+  6. [Hagane - Event Horizon (yaspo) \[Beyond Corsace\]](https://osu.ppy.sh/beatmapsets/1276324#osu/2651787)
+- Hidden
+  1. [Matsushita - Sukisuki Zecchou Shou (Settia) \[Affliction\]](https://osu.ppy.sh/beatmapsets/494959#osu/1053810)
+  2. [Caramell - Caramelldansen (Ryu\* Remix) (AJT) \[(\* V\* )\]](https://osu.ppy.sh/beatmapsets/1770758#osu/3624869)
+  3. [Mili - Rightfully (Okoratu) \[Screw the Dice\]](https://osu.ppy.sh/beatmapsets/875117#osu/1828903)
+- Hard Rock
+  1. [a\_hisa - Pastel Subliminal (My Angel Rize) \[Colours\]](https://osu.ppy.sh/beatmapsets/587286#osu/1243602)
+  2. [xi - Garyou Tensei (Leader) \[Sulfur's Extreme\]](https://osu.ppy.sh/beatmapsets/1536540#osu/3141685)
+  3. [Zekk - Feelsleft0ut (Ascended) \[J1's Alone\]](https://osu.ppy.sh/beatmapsets/1811658#osu/3716156)
+- Double Time
+  1. [ClariS - Luminous (rollpan) \[Insane\]](https://osu.ppy.sh/beatmapsets/1814959#osu/3723300)
+  2. [Amon Amarth - Shape Shifter (Orkay) \[Insane\]](https://osu.ppy.sh/beatmapsets/1856637#osu/3815762)
+  3. [Nekomata Master+ - Spiral2005 (Nacrus) \[Insane Socc3r\]](https://osu.ppy.sh/beatmapsets/1280347#osu/2659640)
+  4. [Black Eyed Peas - DOUBLE D'Z (feat. J. Rey Soul) (wafer) \[chaser01's Superb Insane\]](https://osu.ppy.sh/beatmapsets/1918331#osu/3990344)
+- Free Mod
+  1. [Nico Nico Chorus - Leia (tatemae) \[Dasein\]](https://osu.ppy.sh/beatmapsets/1148668#osu/2398163)
+  2. [COOL&CREATE - Cirno to Mario no Perfect Sansuu Kyoushitsu (Reiji Maigo) \[Extra\]](https://osu.ppy.sh/beatmapsets/1563526#osu/3192828)
+  3. [Ado - Domestic De Violence (Asahina Momoko) \[Sadistic De Malevolence\]](https://osu.ppy.sh/beatmapsets/2015258#osu/4254854)
+- Tiebreaker
+  1. **[siraph - Jikan wa Tsugu (Voxnola) \[Chronostasis\]](https://osu.ppy.sh/beatmapsets/1514684#osu/3101133)**
+
 ### Semifinals
 
 - No Mod
@@ -172,6 +230,46 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
   2. [-45 - Millarca (Stick2Glue) \[Malice\]](https://osu.ppy.sh/beatmapsets/1833512#osu/3764144)
 
 ## Match results
+
+### Finals (week 1)
+
+Saturday, 3 August 2024:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **Suikambing** | **7** | 2 | Santoso | [#1](https://osu.ppy.sh/community/matches/114929885) |
+
+Sunday, 4 August 2024:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | Nasi Kuning Pake Kecap | 3 | **7** | **Ban HR2** | [#1](https://osu.ppy.sh/community/matches/114940640) |
+| Upper | **BAKPIA KUKUS KILLER** | **7** | 2 | Bakpia Kukus | [#1](https://osu.ppy.sh/community/matches/114942476) |
+
+Monday, 5 August 2024:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | Suikambing | 6 | **7** | **Ban HR2** | [#1](https://osu.ppy.sh/community/matches/114943126) |
+
+### Semifinals
+
+Saturday, 27 July 2024:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **Bakpia Kukus** | **6** | 0 | Suikambing | [#1](https://osu.ppy.sh/community/matches/114834963) |
+| Lower | **Ban HR2** | **6** | 0 | daftar mepet | [#1](https://osu.ppy.sh/community/matches/114834942) |
+| Lower | **reto pengkhianat** | **6** | 2 | Mie Ayam Afui | [#1](https://osu.ppy.sh/community/matches/114835756) |
+| Upper | **BAKPIA KUKUS KILLER** | **6** | 1 | Nasi Kuning Pake Kecap | [#1](https://osu.ppy.sh/community/matches/114835321) |
+| Lower | **Santoso** | **6** | 0 | Hina Dutro | *win by default* |
+| Lower | **Kagamarcchino ﾃﾞﾗｸｽ** | **6** | 0 | daan mogot | *win by default* |
+
+Sunday, 28 July 2024:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **Ban HR2** | **6** | 0 | Kagamarcchino ﾃﾞﾗｸｽ | [#1](https://osu.ppy.sh/community/matches/114848686) |
 
 ### Quarterfinals
 

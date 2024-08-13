@@ -1,6 +1,5 @@
 ---
-outdated_translation: true
-outdated_since: 3ffaca2ec4ce152fd0ec1f4d7f2dd8fdb99a2d8f
+no_native_review: true
 ---
 
 # Score total
@@ -9,7 +8,7 @@ outdated_since: 3ffaca2ec4ce152fd0ec1f4d7f2dd8fdb99a2d8f
 
 Le **score total** est la somme de tout les scores sur des beatmaps classées et/ou approuvées, réussis ou non.
 
-Si un joueur joue une beatmap classée pour la première fois et qu'il obtient 500k, les deux scores augmentent de 500k. Ensuite, si le joueur rejoue la beatmap et qu'il obtient un score de 400k, seul le score total augmentera de 400k.
+Si un joueur établit un record sur une beatmap classée pour la première fois, son [score classé](/wiki/Gameplay/Score/Ranked_score) et son score total augmentent d'autant. Par la suite, le score total augmente à chaque fois qu'un nouveau résultat est soumis, tandis que le score classé n'augmente que si le joueur a amélioré son record.
 
 ## Niveau
 
