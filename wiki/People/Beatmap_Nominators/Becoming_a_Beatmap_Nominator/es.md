@@ -116,4 +116,4 @@ Hay un tiempo de espera de 60 días para volver a aplicar en las siguientes ocas
 
 - Solicitudes fallidas
 - Ser retirado de los Beatmap Nominators
-- [Renunciar en buenos términos](/wiki/People/Nomination_Assessment_Team/Evaluations#standard-terms)
+- [Renunciar en buenos términos](/wiki/People/Nomination_Assessment_Team/Evaluations#términos-estándar)
