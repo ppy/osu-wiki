@@ -30,7 +30,7 @@ These servers are focused on giving users a place to discuss osu!'s main attract
 | [osu! University](https://discord.gg/QubdHdnBVg) | [DigitalHypno](https://osu.ppy.sh/users/4384207) | **osu! University** is a community Discord server with a focus on discussion about improvement, mainly in the [osu!](/wiki/Game_mode/osu!) game mode. It regularly hosts various events such as top player interviews, [tournaments](/wiki/Tournaments), and improvement-related studies. |
 | [osu! Medal Hunters](https://discord.gg/osumedalhunters) | [MegaMix](https://osu.ppy.sh/users/18152711) | **osu! Medal Hunters** hosts discussion about [medals](/wiki/Medals) and [medal solutions](/wiki/Medals/Unlock_requirements). |
 
-## Community Development
+## Community development
 
 These servers focus on providing and developing tools and systems for the game. While the official development of osu! is done in the **osu!** Discord server, certain projects require their own workspaces before proposing and merging their work in game.
 
@@ -40,7 +40,7 @@ These servers focus on providing and developing tools and systems for the game. 
 | [osu!catch dev server](https://discord.gg/YEJBENvFzN) | - |
 | [o!m SR/PP Rework Hub](https://discord.gg/GFCNNg8bwk) | [Quenlla](https://osu.ppy.sh/users/4725379) |
 
-## Mapping and Modding
+## Mapping and modding
 
 The **Modding & Mapping Hubs** are community Discord servers designed for all current and aspiring mappers and modders. These are places meant to interact between other users interested in mapping for the game mode. They offer a place to organize, discuss, and advertise different mapping projects.
 
@@ -58,6 +58,15 @@ Besides the game mode hubs, other community servers exist to facilitate communic
 | :-- | :-- | :-- |
 | [Mapset Management Server](https://discord.gg/TCDSjhb6yS) | [Kyuunex](https://osu.ppy.sh/users/9236044) | The **Mapset Management Server** hosts spaces to create and browse requests for [mods](/wiki/Modding), [guest difficulties](/wiki/Beatmap/Guest_difficulty), and [collaborations](/wiki/Beatmap/Beatmap_collaborations) in a casual environment. |
 | [Cozy Mappers' Café](https://discord.gg/uDjwjaZ) | [Teky](https://osu.ppy.sh/users/10520912) | **Cozy Mappers' Café** aims to be a laid back community, where users can discuss all things mapping and modding related. |
+
+## Tournaments and contests
+
+These servers aim to provide users everything related to [tournaments](/wiki/Tournaments) and [contests](/wiki/Contests/). By providing users with regular notices on upcoming tournaments, users can stay tuned with the latest tournaments they can be a part of. Both players and staff members can benefit from the resources provided by these servers.
+
+| Name | Owner |
+| :-- | :-- |
+| [osu! Tournament Hub](https://discord.gg/bvhajDC) | [Sikey](https://osu.ppy.sh/users/343057) |
+| [osu!mania Tourney Central](https://discord.gg/WnMcrUnGV5) | [-mint-](https://osu.ppy.sh/users/8976576) |
 
 ## Project Loved
 
