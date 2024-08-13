@@ -138,7 +138,7 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 
 ### Finals
 
-**[Download the mappack here (198 MB)](https://drive.google.com/file/d/1Jo5jqsAtuMiBvzhUsJ0hBj_XZO4Qsryo/view?usp=sharing)**
+**[Download the mappack here (173 MB)](https://drive.google.com/file/d/1ydF2QZ0uv9HB8m_HeT_1HKpccVxeu2oK/view?usp=sharing)**
 
 \*The Finals' MAD map is **SV2**. The twist is that it has to be played with storyboard turned on and 0% background dim.
 
@@ -167,7 +167,7 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 
 ### Semifinals
 
-**[Download the mappack here (145 MB)](https://drive.google.com/file/d/1ThPATohDdVNZvvyqRqwOgEDl1DhlMCbh/view?usp=sharing)**
+**[Download the mappack here (145 MB)](https://drive.google.com/file/d/1GvgEuibPw5LbgpqbwM2yCakRJw4UoM5Z/view?usp=sharing)**
 
 \*The Semifinals' MAD map is **RC5**. The twist is that it has to be played with the **Random** mod.
 
@@ -194,7 +194,7 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 
 ### Quarterfinals
 
-**[Download the mappack here (182 MB)](https://drive.google.com/file/d/1kUicxHDFhed2V-E05QI3Ymx9kJSsJWii/view?usp=sharing)**
+**[Download the mappack here (182 MB)](https://drive.google.com/file/d/1VIi45i1N5ep1sjXn4exnyMpqHfTiqZoz/view?usp=sharing)**
 
 \*The Quarterfinals' MAD map is **RC4**. The twist is that it has to be played with the **Double Time** mod.
 
@@ -221,7 +221,7 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 
 ### Round of 16
 
-**[Download the mappack here (70 MB)](https://cdn.discordapp.com/attachments/1257367722136703087/1262440243164876902/bomb16.zip?ex=66974358&is=6695f1d8&hm=a3a1f2b1c9a6c95087a670093e210a5bab23026440ad6196f5df35487281bed1&)**
+**[Download the mappack here (73 MB)](https://drive.google.com/file/d/1OcY1lH1PVCF5BvhPs7gSKs2SguIAMkPF/view?usp=sharing)**
 
 \*The Round of 16's MAD map is **LN3**. The twist is that the map has reverse shield patterns with little to no spacing. To balance it, OD 0 was set for the map.
 
@@ -246,7 +246,7 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 
 ### Round of 32
 
-**[Download the mappack here (94 MB)](https://cdn.discordapp.com/attachments/1257367722136703087/1259895755179556937/bomb.zip?ex=668e019b&is=668cb01b&hm=0e312cd523c626b8f5c647df75c953dc5eef7f7946e5b8b6d6335b10c3791211&)**
+**[Download the mappack here (93 MB)](https://drive.google.com/file/d/1yGajSj-kXvBso9rl_b4dYwrdxcLmgwQ9/view?usp=sharing)**
 
 \*The Round of 32's MAD map is **RC3**. The twist is that it has to be played with the **Hard Rock** mod.
 
@@ -271,7 +271,7 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 
 ### Qualifiers
 
-**[Download the mappack here (29 MB)](https://drive.google.com/file/d/1vCR7t66Y7GUvGH1tg60dqtQSdYlH0RyX/view)**\
+**[Download the mappack here (29 MB)](https://drive.google.com/file/d/1VO55xlCF26aY_dbFQOLwNBeA5EeyJpDr/view?usp=sharing)**\
 [View the showcase VOD here](https://www.youtube.com/watch?v=D9pbwM-ApbM)
 
 - SV
