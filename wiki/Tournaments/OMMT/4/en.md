@@ -127,9 +127,9 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
   3. [Feryquitous feat. Aitsuki Nakuru - Kairikou (Cut Ver.) (KimMui) \[Ticle's along the loose knots (edit)\]](https://osu.ppy.sh/beatmapsets/2098904#mania/4402737)
   4. [Ribonnu - Hearts (Kruppol) \[Cry+\]](https://osu.ppy.sh/beatmapsets/1815367#mania/3724198)
 - HB
-  1. [sakuraburst - descent (Abraxos) \[nu@^\*ll\_\_\_po?/int-=er\_\_\_exce\*))pti\on.\]](https://osu.ppy.sh/beatmapsets/554516#mania/1173935)*
+  1. [sakuraburst - descent (Abraxos) \[nu@^\*ll\_\_\_po?/int-=er\_\_\_exce\*))pti\on.\]](https://osu.ppy.sh/beatmapsets/554516#mania/1173935)\*
   2. [jizue - rosso (Live at Kyoto Concert Hall 2019.10.19) (\[HD\]Softer64) \[The Dance of Falling Red Petals. // Cut ver.\]](https://osu.ppy.sh/beatmapsets/2230829#mania/4734414)
-  3. [LeaF - I (AstalFanBoy) \[FOR WITHOUT SALVATION, THERE MUST BE NO LIGHT\]](https://osu.ppy.sh/beatmapsets/2224825#mania/4718590)*
+  3. [LeaF - I (AstalFanBoy) \[FOR WITHOUT SALVATION, THERE MUST BE NO LIGHT\]](https://osu.ppy.sh/beatmapsets/2224825#mania/4718590)\*
 - SV
   1. [Kurorak - BREACH PROTOCOL (Daikyi) \[SVooky\]](https://osu.ppy.sh/beatmapsets/1050571#mania/4591863)
   2. [Ardolf - Bloodmoon (awdse22) \[Beneath The Crimson Night\]](https://osu.ppy.sh/beatmapsets/2230750#mania/4734245)
