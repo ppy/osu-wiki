@@ -1,8 +1,6 @@
 # Discord servers
 
-As the community grows and expands, several [Discord](https://discord.com/) servers have been made and maintained by the community to specialise in the game's many different facets.
-
-Each server provides a space with a specific purpose in mind, where players get together to discuss and work on various different projects. This index aims to serve as an index where users can find a subcommunity they can best fit in.
+This article lists various [Discord](https://discord.com/) servers that have been created and maintained by the osu! community to host discussion spaces about the game's many different facets. Some are focused on the management of specific projects, while others are more general, but most of them include casual chat channels regardless.
 
 ## Official osu! server
 
