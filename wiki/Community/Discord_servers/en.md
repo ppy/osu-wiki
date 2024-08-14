@@ -12,7 +12,7 @@ The **osu!** Discord server, previously known as **osu!dev**, is osu!'s official
 
 | Name | Owner |
 | :-- | :-- |
-| [osu!](https://discord.gg/ppy) | [peppy](https://osu.ppy.sh/users/2) |
+| [osu!](https://discord.gg/ppy) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) |
 
 ## Gameplay
 
@@ -20,10 +20,10 @@ These servers are focused on giving users a place to discuss osu!'s main attract
 
 | Name | Owner | Description |
 | :-- | :-- | :-- |
-| [osu! Game](https://discord.gg/osu) | [oink](https://osu.ppy.sh/users/300173) | **osu! Game** is currently the largest community-driven, multi-mode Discord server. It hosts regular events among its members and includes general chat channels for the game's most popular activities. |
-| [osu! University](https://discord.gg/QubdHdnBVg) | [DigitalHypno](https://osu.ppy.sh/users/4384207) | **osu! University** is a community Discord server with a focus on discussion about improvement, mainly in the [osu!](/wiki/Game_mode/osu!) game mode. It regularly hosts various events such as top player interviews, [tournaments](/wiki/Tournaments), and improvement-related studies. |
-| [osu! Medal Hunters](https://discord.gg/osumedalhunters) | [MegaMix](https://osu.ppy.sh/users/18152711) | **osu! Medal Hunters** hosts discussion about [medals](/wiki/Medals) and [medal solutions](/wiki/Medals/Unlock_requirements). |
-| [osu!alternative](https://discord.gg/VZWRZZXcW4) | [billie eilish](https://osu.ppy.sh/users/6245906) | **osu!alternative** offers extra metrics and score trackers not provided by the osu! website. It allows players to rank each other and their scores in an unofficial manner. |
+| [osu! Game](https://discord.gg/osu) | ::{ flag=DE }:: [oink](https://osu.ppy.sh/users/300173) | **osu! Game** is currently the largest community-driven, multi-mode Discord server. It hosts regular events among its members and includes general chat channels for the game's most popular activities. |
+| [osu! University](https://discord.gg/QubdHdnBVg) | ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207) | **osu! University** is a community Discord server with a focus on discussion about improvement, mainly in the [osu!](/wiki/Game_mode/osu!) game mode. It regularly hosts various events such as top player interviews, [tournaments](/wiki/Tournaments), and improvement-related studies. |
+| [osu! Medal Hunters](https://discord.gg/osumedalhunters) | ::{ flag=UA }:: [MegaMix](https://osu.ppy.sh/users/18152711) | **osu! Medal Hunters** hosts discussion about [medals](/wiki/Medals) and [medal solutions](/wiki/Medals/Unlock_requirements). |
+| [osu!alternative](https://discord.gg/VZWRZZXcW4) | ::{ flag=CA }:: [billie eilish](https://osu.ppy.sh/users/6245906) | **osu!alternative** offers extra metrics and score trackers not provided by the osu! website. It allows players to rank each other and their scores in an unofficial manner. |
 
 ## Community development
 
@@ -32,8 +32,8 @@ These servers focus on providing and developing tools and systems for the game. 
 | Name | Owner |
 | :-- | :-- |
 | [Performance Points](https://discord.gg/aqPCnXu) | - |
-| [osu!catch dev server](https://discord.gg/YEJBENvFzN) | [bastoo0](https://osu.ppy.sh/users/4864877) |
-| [o!m SR/PP Rework Hub](https://discord.gg/GFCNNg8bwk) | [Quenlla](https://osu.ppy.sh/users/4725379) |
+| [osu!catch dev server](https://discord.gg/YEJBENvFzN) | ::{ flag=FR }:: [bastoo0](https://osu.ppy.sh/users/4864877) |
+| [o!m SR/PP Rework Hub](https://discord.gg/GFCNNg8bwk) | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) |
 
 ## Mapping and modding
 
@@ -41,16 +41,16 @@ The **Modding & Mapping Hubs** are community Discord servers designed for all cu
 
 | Name | Owner |
 | :-- | :-- |
-| [osu!taiko Modding & Mapping Hub](https://discord.gg/yRjvvyZ) | [Hivie](https://osu.ppy.sh/users/14102976) |
-| [osu!catch Modding and Mapping Hub](https://discord.gg/ZuxFc4q) | [Ascendance](https://osu.ppy.sh/users/2931883) |
-| [osu!mania Mapping & Modding Hub](https://discord.gg/FqbDdYN) | [Maxus](https://osu.ppy.sh/users/4335785) |
+| [osu!taiko Modding & Mapping Hub](https://discord.gg/yRjvvyZ) | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) |
+| [osu!catch Modding and Mapping Hub](https://discord.gg/ZuxFc4q) | ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) |
+| [osu!mania Mapping & Modding Hub](https://discord.gg/FqbDdYN) | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) |
 
 ### Other
 
 | Name | Owner | Description |
 | :-- | :-- | :-- |
-| [Mapset Management Server](https://discord.gg/TCDSjhb6yS) | [Kyuunex](https://osu.ppy.sh/users/9236044) | The **Mapset Management Server** hosts spaces to create and browse requests for [mods](/wiki/Modding), [guest difficulties](/wiki/Beatmap/Guest_difficulty), and [collaborations](/wiki/Beatmap/Beatmap_collaborations) in a casual environment. |
-| [Cozy Mappers' Café](https://discord.gg/uDjwjaZ) | [Teky](https://osu.ppy.sh/users/10520912) | **Cozy Mappers' Café** aims to be a laid back community, where users can discuss all things mapping and modding related. |
+| [Mapset Management Server](https://discord.gg/TCDSjhb6yS) | ::{ flag=GE }:: [Kyuunex](https://osu.ppy.sh/users/9236044) | The **Mapset Management Server** hosts spaces to create and browse requests for [mods](/wiki/Modding), [guest difficulties](/wiki/Beatmap/Guest_difficulty), and [collaborations](/wiki/Beatmap/Beatmap_collaborations) in a casual environment. |
+| [Cozy Mappers' Café](https://discord.gg/uDjwjaZ) | ::{ flag=EG }:: [Teky](https://osu.ppy.sh/users/10520912) | **Cozy Mappers' Café** aims to be a laid back community, where users can discuss all things mapping and modding related. |
 
 ## Tournaments
 
@@ -58,8 +58,8 @@ These servers aim to provide users everything related to [tournaments](/wiki/Tou
 
 | Name | Owner |
 | :-- | :-- |
-| [osu! Tournament Hub](https://discord.gg/bvhajDC) | [Sikey](https://osu.ppy.sh/users/343057) |
-| [osu!mania Tourney Central](https://discord.gg/WnMcrUnGV5) | [-mint-](https://osu.ppy.sh/users/8976576) |
+| [osu! Tournament Hub](https://discord.gg/bvhajDC) | ::{ flag=MY }:: [Sikey](https://osu.ppy.sh/users/343057) |
+| [osu!mania Tourney Central](https://discord.gg/WnMcrUnGV5) | ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) |
 
 ## Project Loved
 
@@ -67,10 +67,10 @@ These servers aim to provide users everything related to [tournaments](/wiki/Tou
 
 | Name | Owner |
 | :-- | :-- |
-| [osu! Project Loved](https://discord.gg/gn58Uk5sTE) | [Librarian](https://osu.ppy.sh/users/10083084) |
-| [Project Loved: Taiko](https://discord.gg/GhfjtZ6) | [Hivie](https://osu.ppy.sh/users/14102976) |
-| [osu!catch Project Loved](https://discord.gg/phgtyS4UCh) | [Wesley](https://osu.ppy.sh/users/2407265) |
-| [osu!mania Loved Community](https://discord.gg/Ededv7m) | [Paturages](https://osu.ppy.sh/users/1375479) |
+| [osu! Project Loved](https://discord.gg/gn58Uk5sTE) | ::{ flag=US }:: [Librarian](https://osu.ppy.sh/users/10083084) |
+| [Project Loved: Taiko](https://discord.gg/GhfjtZ6) | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) |
+| [osu!catch Project Loved](https://discord.gg/phgtyS4UCh) | ::{ flag=NL }:: [Wesley](https://osu.ppy.sh/users/2407265) |
+| [osu!mania Loved Community](https://discord.gg/Ededv7m) | ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479) |
 
 ## Skinning
 
@@ -78,7 +78,7 @@ These servers aim to provide safe places for skinners, no matter if they are des
 
 | Name | Owner | Description |
 | :-- | :-- | :-- |
-| [skinship](https://discord.skinship.xyz/) | [RockRoller](https://osu.ppy.sh/users/8388854) | **skinship** is a place to discuss anything involving skinning, while also hosting projects such as [Skinning Contests](/wiki/Contests/Skinning_Contest) and the [Completed Skins Compendium](https://compendium.skinship.xyz/). Users can manage their skinning affairs by reaching out the [skinship bot account](https://osu.ppy.sh/users/32231941). |
+| [skinship](https://discord.skinship.xyz/) | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | **skinship** is a place to discuss anything involving skinning, while also hosting projects such as [Skinning Contests](/wiki/Contests/Skinning_Contest) and the [Completed Skins Compendium](https://compendium.skinship.xyz/). Users can manage their skinning affairs by reaching out the [skinship bot account](https://osu.ppy.sh/users/32231941). |
 
 ## Storyboarding
 
@@ -86,12 +86,10 @@ These servers aim to provide users with resources to help them in their [storybo
 
 | Name | Owner | Description |
 | :-- | :-- | :-- |
-| [osu! storyboarder banquet](https://discord.gg/B8NX7YW) | [Sidetail](https://osu.ppy.sh/users/2036217) | The **osu! storyboarder banquet** serves as a place all about storyboarding. With the help of their [website](https://osb.moe/), this server aims to provide users with multiple learning resources and a regular showcase of community-made storyboards. |
+| [osu! storyboarder banquet](https://discord.gg/B8NX7YW) | ::{ flag=CA }:: [Sidetail](https://osu.ppy.sh/users/2036217) | The **osu! storyboarder banquet** serves as a place all about storyboarding. With the help of their [website](https://osb.moe/), this server aims to provide users with multiple learning resources and a regular showcase of community-made storyboards. |
 
 ## Miscellaneous
 
-These are servers that do not fit in any specific category.
-
 | Name | Owner | Description |
 | :-- | :-- | :-- |
-| [Aiess Project](https://discord.gg/2XV5dcW) | [Naxess](https://osu.ppy.sh/users/8129817) | The **Aiess Project** maintains several feeds that inform members of events that happen in osu! on a regular basis, such as [beatmap category](/wiki/Beatmap/Category) changes, [user group](/wiki/People/User_group) updates, and news posts. |
+| [Aiess Project](https://discord.gg/2XV5dcW) | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | The **Aiess Project** maintains several feeds that inform members of events that happen in osu! on a regular basis, such as [beatmap category](/wiki/Beatmap/Category) changes, [user group](/wiki/People/User_group) updates, and news posts. |
