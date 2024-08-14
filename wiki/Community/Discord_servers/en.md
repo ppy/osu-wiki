@@ -43,7 +43,7 @@ The **Modding & Mapping Hubs** are community Discord servers designed for all cu
 | [osu!catch Modding and Mapping Hub](https://discord.gg/ZuxFc4q) | ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) |
 | [osu!mania Mapping & Modding Hub](https://discord.gg/FqbDdYN) | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) |
 
-### Other
+Besides the game mode hubs, other community servers exist to facilitate communication between mappers, modders, and other users alike.
 
 | Name | Owner | Description |
 | :-- | :-- | :-- |
