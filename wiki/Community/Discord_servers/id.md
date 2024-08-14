@@ -1,5 +1,7 @@
 ---
 no_native_review_since: 84cba2189e2969e9631ee2efb7f2a0da40b0cba1
+outdated_since: afa852e7e1ca50c77095d37840d694843135ced7
+outdated_translation: true
 ---
 
 # Server Discord

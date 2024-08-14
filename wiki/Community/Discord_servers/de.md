@@ -1,3 +1,8 @@
+---
+outdated_since: afa852e7e1ca50c77095d37840d694843135ced7
+outdated_translation: true
+---
+
 # Discord-Server
 
 Indexseite für alle Artikel über [Discord-Server](https://discord.com/) der Community.

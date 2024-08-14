@@ -1,6 +1,8 @@
 ---
 no_native_review: true
 no_native_review_since: 6edcfd8a2bd64b200e82689d1802704b10bf485c LmanTW
+outdated_since: afa852e7e1ca50c77095d37840d694843135ced7
+outdated_translation: true
 ---
 
 # Discord 伺服器

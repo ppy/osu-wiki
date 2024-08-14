@@ -1,3 +1,8 @@
+---
+outdated_since: afa852e7e1ca50c77095d37840d694843135ced7
+outdated_translation: true
+---
+
 # Servidores de Discord
 
 Página de índice para todos los artículos relacionados con los servidores de [Discord](https://discord.com/) de la comunidad.

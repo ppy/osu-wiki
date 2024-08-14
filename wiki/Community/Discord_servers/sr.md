@@ -1,3 +1,8 @@
+---
+outdated_since: afa852e7e1ca50c77095d37840d694843135ced7
+outdated_translation: true
+---
+
 # Discord сервери
 
 Индексна страница за све артикле у вези са [Discord](https://discord.com/) серверима заједнице.
