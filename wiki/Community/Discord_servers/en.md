@@ -1,9 +1,3 @@
----
-tags:
-  - development
-  - osu!dev
----
-
 # Discord servers
 
 As the community grows and expands, several [Discord](https://discord.com/) servers have been made and maintained by the community to specialise in the game's many different facets.
@@ -12,13 +6,13 @@ Each server provides a space with a specific purpose in mind, where players get 
 
 ## osu! Development server
 
-The **osu! Development** server — also known as **osu!dev** or just **osu!** — is the game's official Discord server. It is meant to be the main place to view and discuss osu!'s ongoing developments, a place to contribute to the codebase, and a place where a plethora of community projects are organised in!
+The **osu!** Discord server, previously known as **osu!dev**, is osu!'s official Discord server for development-related purposes. The server functions as a hub for people to discuss and work on osu!'s open source and community projects. This is the main place to contribute to osu!'s development and get in touch with the [osu! team](/wiki/People/osu!_team).
 
 **This is the only server officially affiliated with the game.** To keep up with osu!'s active development, it is strongly suggested to join the server.
 
-| Name | Owner | Description |
-| :-- | :-- | :-- |
-| [osu!](https://discord.gg/ppy) | [peppy](https://osu.ppy.sh/users/2) | The **osu!** Discord server, previously known as **osu!dev**, is osu!'s official Discord server for development-related purposes. The server functions as a hub for people to discuss and work on osu!'s open source and community projects. This is the main place to contribute to osu!'s development and get in touch with the [osu! team](/wiki/People/osu!_team). |
+| Name | Owner |
+| :-- | :-- |
+| [osu!](https://discord.gg/ppy) | [peppy](https://osu.ppy.sh/users/2) |
 
 ## Gameplay
 
@@ -53,16 +47,14 @@ The **Modding & Mapping Hubs** are community Discord servers designed for all cu
 
 ### Other
 
-Besides the game mode hubs, other community servers exist to facilitate communication between mappers, modders, and other users alike.
-
 | Name | Owner | Description |
 | :-- | :-- | :-- |
 | [Mapset Management Server](https://discord.gg/TCDSjhb6yS) | [Kyuunex](https://osu.ppy.sh/users/9236044) | The **Mapset Management Server** hosts spaces to create and browse requests for [mods](/wiki/Modding), [guest difficulties](/wiki/Beatmap/Guest_difficulty), and [collaborations](/wiki/Beatmap/Beatmap_collaborations) in a casual environment. |
 | [Cozy Mappers' Café](https://discord.gg/uDjwjaZ) | [Teky](https://osu.ppy.sh/users/10520912) | **Cozy Mappers' Café** aims to be a laid back community, where users can discuss all things mapping and modding related. |
 
-## Tournaments and contests
+## Tournaments
 
-These servers aim to provide users everything related to [tournaments](/wiki/Tournaments) and [contests](/wiki/Contests). By providing users with regular notices on upcoming tournaments, users can stay tuned with the latest tournaments they can be a part of. Both players and staff members can benefit from the resources provided by these servers.
+These servers aim to provide users everything related to [tournaments](/wiki/Tournaments). By providing users with regular notices on upcoming tournaments, users can stay tuned with the latest tournaments they can be a part of. Both players and staff members can benefit from the resources provided by these servers.
 
 | Name | Owner |
 | :-- | :-- |
@@ -98,7 +90,7 @@ These servers aim to provide users with resources to help them in their [storybo
 
 ## Miscellaneous
 
-These are servers that do not fit in any specific category. While they may not have a defined category, they still serve a purpose in the community. Either by maintaining community tools, serving multiple purposes at the same time, or simply not focusing on any of the above categories.
+These are servers that do not fit in any specific category.
 
 | Name | Owner | Description |
 | :-- | :-- | :-- |
