@@ -296,7 +296,7 @@ Saturday, 10 August 2024:
 | Overjoyed | 4 | **7** | **how to train your dragon** | [#1](https://osu.ppy.sh/community/matches/115023302) |
 | **Re:Zuna** | **7** | 0 | Digital Frogs | [#1](https://osu.ppy.sh/community/matches/115023702) |
 
-Sunday, 10 August 2024:
+Sunday, 11 August 2024:
 
 | Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
