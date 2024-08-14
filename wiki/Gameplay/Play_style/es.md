@@ -36,7 +36,7 @@ Algunos jugadores usan el teclado solo cuando tienen que hacer un stream (un pat
 
 ![](/wiki/shared/Osu!tablet.jpg "osu!tablet")
 
-*Aviso: Este estilo de juego requiere el uso de una [tableta gráfica(digitalizadora)](/wiki/Gameplay/Input_device/Graphics_tablet).*
+*Aviso: Este estilo de juego requiere el uso de una [tableta gráfica (digitalizadora)](/wiki/Gameplay/Input_device/Graphics_tablet).*
 
 Los jugadores que juegan solo con tableta utilizan el lápiz de la tableta para mover el cursor por la pantalla y solo pulsan las notas presionando el lapiz contra la superficie de la tableta gráfica.
 
@@ -95,7 +95,7 @@ Hay dos estilos principales de juego en función de la asignación de teclas: KD
 
 ### Control de taiko
 
-El control de taiko es el estilo de juego por defecto y el control en la serie de juegos [Taiko no Tatsujin](https://wikipedia.org/wiki/Taiko_no_Tatsujin) ([Taiko Drum Master](https://wikipedia.org/wiki/Taiko:_Drum_Master) en los Estados Unidos).
+El control de taiko es el estilo de juego por defecto y el control en la serie de juegos [Taiko no Tatsujin](https://es.wikipedia.org/wiki/Taiko_no_Tatsujin) ([Taiko Drum Master](https://en.wikipedia.org/wiki/Taiko:_Drum_Master) en los Estados Unidos).
 
 *Nota: Algunos jugadores expertos que juegan usando un control de taiko pueden crear el suyo desde cero mientras que otros los compran al por menor o en tiendas en línea.*
 
@@ -159,7 +159,7 @@ Los controladores de arcade de otros juegos rítmicos tales como DJMAX, O2Jam, B
 
 ### Dance pad
 
-Los dance pads son controladores para juegos como la serie [Dance Dance Revolution](https://wikipedia.org/wiki/Dance_Dance_Revolution) (DDR), y la serie [Pump It Up](https://en.wikipedia.org/wiki/Pump_It_Up_(video_game_series)) (PIU). ([StepMania](https://wikipedia.org/wiki/StepMania) es un clon semi-conocido de estos dos juegos, mantenido por la comunidad).
+Los dance pads son controladores para juegos como la serie [Dance Dance Revolution](https://es.wikipedia.org/wiki/Dance_Dance_Revolution_(serie)) (DDR), y la serie [Pump It Up](https://es.wikipedia.org/wiki/Pump_It_Up_(serie_de_videojuegos)) (PIU). ([StepMania](https://es.wikipedia.org/wiki/StepMania) es un clon semi-conocido de estos dos juegos, mantenido por la comunidad).
 
 Para jugar con un dance pad, los jugadores «bailan» en el dance pad para introducir comandos. Los pads DDR tienen 4 paneles: Arriba, Abajo, Izquierda y Derecha. Los pads DDR Solo añaden paneles Superior Izquierdo y Superior Derecho. Los pads PIU tienen 5 paneles: Superior Izquierdo, Superior Derecho, Inferior Izquierdo, Inferior Derecho y Centro. También existen pads de 9 paneles con el fin de ser compatibles tanto con PIU como con DDR sin tener que cambiar el pad. Los paneles DDR y PIU normales son usados a menudo en modo doble en sus respectivos juegos, donde un jugador usa 2 pads para una canción. Los juegos DDR Solo eran únicamente de un jugador, por lo que no son dobles comúnmente.
 
