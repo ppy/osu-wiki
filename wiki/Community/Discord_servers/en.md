@@ -29,7 +29,7 @@ These servers focus on providing and developing tools and systems for the game. 
 
 | Name | Owner |
 | :-- | :-- |
-| [Performance Points](https://discord.gg/aqPCnXu) | - |
+| [Performance Points](https://discord.gg/aqPCnXu) |  |
 | [osu!catch dev server](https://discord.gg/YEJBENvFzN) | ::{ flag=FR }:: [bastoo0](https://osu.ppy.sh/users/4864877) |
 | [o!m SR/PP Rework Hub](https://discord.gg/GFCNNg8bwk) | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) |
 
