@@ -111,7 +111,7 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 
 **[Download the mappack here (163 MB)](https://drive.google.com/file/d/1YDT14zcsl1VdfRdV6mtKRmR1JPWHzRIq/view?usp=sharing)**
 
-\*The Grand Finals' MAD maps are **HB1** and **HB3**. The gimmick inside HB1 is the map contains reverse Long Notes (LN), making it a visual comprehension challenge. While the HB3 contains Slider Velocity (SV) inside, which usually HB maps tend to not have one.
+\*The Grand Finals' MAD maps are **HB1** and **HB3**. HB1 contains reverse Long Notes (LN), making it a challenge of visual comprehension. HB3 uses Slider Velocity (SV), which HB maps tend to not have.
 
 - RC
   1. [t+pazolite - Call me it. (500 Tortures) (Oceanus) \[Tera x Oceanus' Apocalypse.\]](https://osu.ppy.sh/beatmapsets/2230749#mania/4734244)
