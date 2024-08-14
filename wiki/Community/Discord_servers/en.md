@@ -37,13 +37,13 @@ These servers focus on providing and developing tools and systems for the game. 
 
 ## Mapping and modding
 
-The **Modding & Mapping Hubs** are community Discord servers designed for all current and aspiring mappers and modders. These are places meant to interact between other users interested in mapping for the game mode. They offer a place to organize, discuss, and advertise different mapping projects.
+The **Modding & Mapping Hubs** are community Discord servers designed for all current and aspiring mappers and modders. These are places meant to interact between other users interested in mapping for the game mode. They offer a place to organise, discuss, and advertise different mapping projects.
 
 | Name | Owner |
 | :-- | :-- |
 | [osu!taiko Modding & Mapping Hub](https://discord.gg/yRjvvyZ) | [Hivie](https://osu.ppy.sh/users/14102976) |
-| [osu!catch Modding & Mapping Hub](https://discord.gg/ZuxFc4q) | [Ascendance](https://osu.ppy.sh/users/2931883) |
-| [osu!mania Modding & Mapping Hub](https://discord.gg/FqbDdYN) | [Maxus](https://osu.ppy.sh/users/4335785) |
+| [osu!catch Modding and Mapping Hub](https://discord.gg/ZuxFc4q) | [Ascendance](https://osu.ppy.sh/users/2931883) |
+| [osu!mania Mapping & Modding Hub](https://discord.gg/FqbDdYN) | [Maxus](https://osu.ppy.sh/users/4335785) |
 
 ### Other
 
@@ -63,7 +63,7 @@ These servers aim to provide users everything related to [tournaments](/wiki/Tou
 
 ## Project Loved
 
-[Project Loved](/wiki/Community/Project_Loved) organizes its workflows in different servers, divided by the [game mode](/wiki/Game_mode) which they specialise in. These servers aim to facilitate the discussion of prospective picks for each mode.
+[Project Loved](/wiki/Community/Project_Loved) organises its workflows in different servers, divided by the [game mode](/wiki/Game_mode) which they specialise in. These servers aim to facilitate the discussion of prospective picks for each mode.
 
 | Name | Owner |
 | :-- | :-- |
