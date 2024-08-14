@@ -4,7 +4,7 @@ As the community grows and expands, several [Discord](https://discord.com/) serv
 
 Each server provides a space with a specific purpose in mind, where players get together to discuss and work on various different projects. This index aims to serve as an index where users can find a subcommunity they can best fit in.
 
-## osu! Development server
+## Official osu! server
 
 The **osu!** Discord server, previously known as **osu!dev**, is osu!'s official Discord server for development-related purposes. The server functions as a hub for people to discuss and work on osu!'s open source and community projects. This is the main place to contribute to osu!'s development and get in touch with the [osu! team](/wiki/People/osu!_team).
 
@@ -20,14 +20,14 @@ These servers are focused on giving users a place to discuss osu!'s main attract
 
 | Name | Owner | Description |
 | :-- | :-- | :-- |
-| [osu! Game](https://discord.gg/osu) | [oink](https://osu.ppy.sh/users/300173) | **osu! Game** is currently the biggest community driven, multi mode Discord server. By hosting events and encouraging interactions between their users, it's a good place to discuss all things related to gameplay. |
+| [osu! Game](https://discord.gg/osu) | [oink](https://osu.ppy.sh/users/300173) | **osu! Game** is currently the largest community-driven, multi-mode Discord server. It hosts regular events among its members and includes general chat channels for the game's most popular activities. |
 | [osu! University](https://discord.gg/QubdHdnBVg) | [DigitalHypno](https://osu.ppy.sh/users/4384207) | **osu! University** is a community Discord server with a focus on discussion about improvement, mainly in the [osu!](/wiki/Game_mode/osu!) game mode. It regularly hosts various events such as top player interviews, [tournaments](/wiki/Tournaments), and improvement-related studies. |
 | [osu! Medal Hunters](https://discord.gg/osumedalhunters) | [MegaMix](https://osu.ppy.sh/users/18152711) | **osu! Medal Hunters** hosts discussion about [medals](/wiki/Medals) and [medal solutions](/wiki/Medals/Unlock_requirements). |
-| [osu!alternative](https://discord.gg/VZWRZZXcW4) | [billie eilish](https://osu.ppy.sh/users/6245906) | **osu!alternative** offers extra metrics and score trackers not provided by the website. It allows players to rank players and scores in an unofficial manner. |
+| [osu!alternative](https://discord.gg/VZWRZZXcW4) | [billie eilish](https://osu.ppy.sh/users/6245906) | **osu!alternative** offers extra metrics and score trackers not provided by the osu! website. It allows players to rank each other and their scores in an unofficial manner. |
 
 ## Community development
 
-These servers focus on providing and developing tools and systems for the game. While the official development of osu! is done in the **osu!** Discord server, certain projects require their own workspaces before proposing and merging their work in game.
+These servers focus on providing and developing tools and systems for the game. While the official development of osu! is done in the [**osu!** Discord server](#official-osu!-server), some projects make use of their own work spaces before proposing and merging their work in game.
 
 | Name | Owner |
 | :-- | :-- |
