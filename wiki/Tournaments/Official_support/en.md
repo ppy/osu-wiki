@@ -37,7 +37,12 @@ Community-run tournaments which abide by the following hard criteria are eligibl
 - The forum threads associated with the tournament — this includes forum threads for any preliminary events — **MUST** contain a clearly visible link in a normal-sized font to the [tournament reports form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
   - `https://pif.ephemeral.ink/tournament-reports`
   - This report form is overseen by the [Tournament Committee](/wiki/People/Tournament_Committee). We encourage all users — players and staff alike — to make use of this form where necessary. Any breaches of [expectations](#expectations), [other procedures](#other-procedures), or [eligibility](#eligibility) requirements should prompt a report.
-- The tournament must only use beatmaps of songs that comply with the [content usage permissions](/wiki/Rules/Content_usage_permissions#artist-permissions). However, all **Ranked, Approved, and Loved beatmaps are explicitly allowed** regardless of whether they comply with the content usage permissions, provided there is no DMCA takedown notice on the beatmap. Any use of tracks in other beatmap categories that do not comply with the content usage permissions will revoke a tournament's eligibility for support. See the [ranking criteria](/wiki/Ranking_criteria#rules) for details regarding exceptions for artists or tracks that are listed as disallowed.
+- The tournament must be in compliance with the following **content usage rules**:
+  - Usage of **any** beatmaps which have a **DMCA takedown notice** in any form is **strictly prohibited**.
+  - The following content **must** abide by the **[content usage permissions](/wiki/Rules/Content_usage_permissions#artist-permissions)** rules:
+    - Creation of new content such as beatmaps.
+    - Reusing existing beatmaps which are not **Ranked, Approved, or Loved**.
+    - If permission to use disallowed songs is granted by the artist, the host **must** include proof of permission in their email to tournaments@ppy.sh when requesting badge prizes upon tournament conclusion.
 - The tournament only allows players of exceptional skill to participate, disallowing players lower than the following ranks in each game mode:
   - osu!: 100,000
   - osu!taiko: 10,000
