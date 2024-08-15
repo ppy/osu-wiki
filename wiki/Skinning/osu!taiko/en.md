@@ -448,7 +448,7 @@ Notes:
 
 ![](img/taiko-barline.png "Default taiko-barline@2x.png")
 
-This image is displayed on the playfield at the start of each [measure](/wiki/Music_theory/Measure) in the song (except if it omitted by a [timing point](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)).
+This image is displayed on the playfield at the start of each [measure](/wiki/Music_theory/Measure) in the song (unless omitted by a [timing point](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)).
 
 ## Drumrolls
 
