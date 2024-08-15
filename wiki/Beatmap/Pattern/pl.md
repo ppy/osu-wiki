@@ -8,7 +8,9 @@ tags:
 
 **Wzorami** są małe grupy [hit objects](/wiki/Gameplay/Hit_object) w [beatmapach](/wiki/Beatmap) które są ustawiane w szczególny sposób.
 
-## Podstawowe typy Wzorów
+## Rodzaje Wzorów
+
+### common
 
 - [Double](common/double)
   
