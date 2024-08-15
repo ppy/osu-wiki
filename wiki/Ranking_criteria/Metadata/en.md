@@ -24,7 +24,7 @@
   - `3angle5` should be left as-is
   - `Triangles` can be either `Triangles` or `triangles`
 - **When multiple metadata options are available:**
-  - Aim to match Ranked or Loved beatmaps. Follow what is most recent and common, then verify that metadata is correct and fix as needed.
+  - Aim to match Ranked beatmaps. Follow what is most recent and common, then verify that metadata is correct and fix as needed.
     - Artist names should be consistent as well, as long as they are not intentionally using different aliases. 
   - Official romanisations/translations are preferred for romanised fields, so long as they are easily found and commonly recognised.
   - In case of conflicting options, a discussion should be held to determine what would be the best option.
