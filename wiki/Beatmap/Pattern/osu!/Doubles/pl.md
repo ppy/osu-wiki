@@ -1,0 +1,11 @@
+---
+stub: true
+tags:
+  - doubles
+---
+
+# Doubles
+
+![](img/double.jpg "Wizualny przykład Double.")
+
+Wzór **Double** jest wtedy kiedy 2 [hit circles](/wiki/Gameplay/Hit_object/Hit_circle) są [stakowane](/wiki/Beatmapping/Mapping_techniques/Stack) na sobie w odstępach 1/2 i większych w rytmie.
