@@ -427,6 +427,10 @@ Notes:
   - v1.0–v2.0: (181,216)
   - v2.1+: (0,216)
 
+<!-- don't want this to appear in the sidebar -clayton -->
+
+<!-- lint ignore heading-increment -->
+
 #### `taiko-barline.png`
 
 ::: Infobox
