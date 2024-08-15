@@ -32,7 +32,7 @@ The speed at which the notes fade in is based on the combo, with higher combo ca
 
 The fading size only stops when a 500x combo milestone is reached (at which point it covers about 70% of the playfield). If a combo is broken at any point, the fading size will revert to 0x combo size (which is about 20% of the playfield).
 
-Fade In is commonly played in conjuction with low scroll speeds. <!-- TODO will add more info -->
+Due to the reduced playfield size, the player's focus shifts to the bottom of the playfield and forces the player to adjust their scroll speed accordingly to guarantee readability.
 
 ![FI gameplay comparisons](img/FI-combo-comparison-mania.jpg "Gameplay with the Fade In mod at 89x combo (top-left), at 332x combo (top-middle), at 513x combo (top-right/bottom-left), and at 900x combo (bottom-right) in osu!mania")
 
