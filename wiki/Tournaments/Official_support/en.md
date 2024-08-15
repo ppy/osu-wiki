@@ -37,12 +37,10 @@ Community-run tournaments which abide by the following hard criteria are eligibl
 - The forum threads associated with the tournament — this includes forum threads for any preliminary events — **MUST** contain a clearly visible link in a normal-sized font to the [tournament reports form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
   - `https://pif.ephemeral.ink/tournament-reports`
   - This report form is overseen by the [Tournament Committee](/wiki/People/Tournament_Committee). We encourage all users — players and staff alike — to make use of this form where necessary. Any breaches of [expectations](#expectations), [other procedures](#other-procedures), or [eligibility](#eligibility) requirements should prompt a report.
-- The tournament must be in compliance with the following **content usage rules**:
-  - Usage of **any** beatmaps which have a **DMCA takedown notice** in any form is **strictly prohibited**.
-  - The following content **must** abide by the **[content usage permissions](/wiki/Rules/Content_usage_permissions#artist-permissions)** rules:
-    - Creation of new content such as beatmaps.
-    - Reusing existing beatmaps which are not **Ranked, Approved, or Loved**.
-    - If permission to use disallowed songs is granted by the artist, the host **must** include proof of permission in their email to tournaments@ppy.sh when requesting badge prizes upon tournament conclusion.
+- The tournament must be in compliance with the following content usage rules:
+  - Usage of **any** beatmaps which have a DMCA takedown notice in any form is strictly prohibited.
+  - The creation or reuse of any beatmaps that are not **Ranked, Approved, or Loved** and violate the [content usage permissions](/wiki/Rules/Content_usage_permissions#artist-permissions) page is strictly prohibited.
+    - If permission to use disallowed songs is granted by the artist, the host **must** include proof of permission in their email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) upon tournament conclusion.
 - The tournament only allows players of exceptional skill to participate, disallowing players lower than the following ranks in each game mode:
   - osu!: 100,000
   - osu!taiko: 10,000
@@ -94,7 +92,7 @@ In addition, all promotional material or any services associated with a tourname
 - All multiplayer matches relevant to the tournament must be created with the `!mp make` command, so that they do not expire. The results must be recorded and made publicly available on the original tournament forum post or an outside source linked on the forum post in a clear and accessible format.
 - All rule changes should be communicated clearly to all participants. Those should keep the expectations noted [above](#tournaments).
 
-Once the tournament has concluded, the tournament organisers will need to submit the following to the account support team:
+Once the tournament has concluded, the tournament organisers will need to submit the following to the account support team via [tournaments@ppy.sh](mailto:tournaments@ppy.sh):
 
 - A list of applicable badge recipients (a.k.a. the winners of your tournament).
 - An appropriately designed badge ([see below](#profile-badges)).
