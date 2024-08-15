@@ -10,8 +10,8 @@ tags:
 
 ## Podstawowe typy Wzorów
 
-<!-- TODO: add more -->
-
+- [Double](common/double)
+  
 ### osu!
 
 - [Jump](osu!/Jump)
