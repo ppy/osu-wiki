@@ -444,9 +444,9 @@ Notas:
 
 :::
 
-![](img/taiko-barline.png "Default taiko-barline@2x.png")
+![](img/taiko-barline.png "taiko-barline@2x.png predeterminado")
 
-This image is displayed on the playfield at the start of each [measure](/wiki/Music_theory/Measure) in the song (unless omitted by a [timing point](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)).
+Esta imagen se muestra en el campo de juego al principio de cada [compás](/wiki/Music_theory/Measure) de la canción (a menos que se omita mediante un [punto de tiempo](/wiki/Client/Beatmap_editor/Timing#puntos-de-tiempo-no-heredados)).
 
 ## Redobles de tambores
 
