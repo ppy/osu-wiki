@@ -147,11 +147,13 @@ How many keyboards have you tried in the past and which one did you find the bes
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3885626">Motion</a></p>
 
 I've tried 4 keyboards so far, which are "QSENN DT35", "Deck CBL-108 Red switch", "Corsair K70 RGB PRO OPX" and "Corsair K70 MAX" (my current keyboard).
+
 I found "K70 MAX" the best for me cause it was the first time for me to try rapid trigger, and it was a completely new world for me, felt like it helped me break the limits that I couldn't break before.
 
 ![](/wiki/shared/news/2024-08-12-the-followpoint-motion-the-ultimate-catcher/keyboard.jpg)
 
 When K70 MAX was just launched and I found out it supports rapid trigger, I immediately compared K70 MAX to Wooting.
+
 As far as I can remember, Wooting supported only 60g switches at that time, and I kind of wanted something lighter than that. So I had to choose K70 MAX which has 45g switches. 
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-08-12-the-followpoint-motion-the-ultimate-catcher/avatar-MegaMix.jpg')"></a>
@@ -264,9 +266,13 @@ If you were to start as a new player now, would you play converts as much as you
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3885626">Motion</a></p>
 
-Yes, I think I still would play converts as much as I played them in the earlier days of osu!catch. The main reasoning being that there are many skillsets that converts provide that are essential to becoming a better player in the long run. Not only that though, osu!catch converts as a whole do not suffer from the same issues mania and taiko do, they are more fun, there is more to gain from them and there are even patterns that are so special they wind up being added to specifics as the mapping community has grown. 
+Yes, I think I still would play converts as much as I played them in the earlier days of osu!catch. The main reasoning being that there are many skillsets that converts provide that are essential to becoming a better player in the long run. 
 
-My main doubt although is if I'd enjoy converts now nearly as much as I did in the past. My reasonings for this doubt are that modern converts have become less and less playable due to the fact they feature many impossible to SS patterns or messy patterns that aren't possible to hit (High SV issues, slider spam becoming a mess, etc.). In my opinion, the best converts to look at for catch players are from 2013 - 2020 as they feature the unique patterning still, but overall are more straightforward and aren't as difficult to search through for something "good/fun" to play.
+Not only that though, osu!catch converts as a whole do not suffer from the same issues mania and taiko do, they are more fun, there is more to gain from them and there are even patterns that are so special they wind up being added to specifics as the mapping community has grown. 
+
+My main doubt although is if I'd enjoy converts now nearly as much as I did in the past. My reasonings for this doubt are that modern converts have become less and less playable due to the fact they feature many impossible to SS patterns or messy patterns that aren't possible to hit (High SV issues, slider spam becoming a mess, etc.). 
+
+In my opinion, the best converts to look at for catch players are from 2013 - 2020 as they feature the unique patterning still, but overall are more straightforward and aren't as difficult to search through for something "good/fun" to play.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-08-12-the-followpoint-motion-the-ultimate-catcher/avatar-MegaMix.jpg')"></a>
 
