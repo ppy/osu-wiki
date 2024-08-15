@@ -427,6 +427,25 @@ Notes:
   - v1.0–v2.0: (181,216)
   - v2.1+: (0,216)
 
+#### `taiko-barline.png`
+
+::: Infobox
+
+|  |  |
+| :-- | :-- |
+| Skin versions | All |
+| Animatable | ![No][false] |
+| Beatmap skinnable | ![No][false] |
+| Blend mode | Normal |
+| Origin | Centre |
+| Suggested SD size | 4x175 |
+
+:::
+
+![](img/taiko-barline.png "Default taiko-barline@2x.png")
+
+This image is displayed on the playfield at the start of each [measure](/wiki/Music_theory/Measure) in the song (except if it omitted by a [timing point](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)).
+
 ## Drumrolls
 
 `taiko-roll-middle.png`
