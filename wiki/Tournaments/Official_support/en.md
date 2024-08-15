@@ -39,7 +39,7 @@ Community-run tournaments which abide by the following hard criteria are eligibl
   - This report form is overseen by the [Tournament Committee](/wiki/People/Tournament_Committee). We encourage all users — players and staff alike — to make use of this form where necessary. Any breaches of [expectations](#expectations), [other procedures](#other-procedures), or [eligibility](#eligibility) requirements should prompt a report.
 - The tournament must abide by the following content usage rules:
   - Usage of any beatmaps which have a DMCA takedown notice in any form is strictly prohibited.
-  - The creation or reuse of any beatmaps that are not **Ranked, Approved, or Loved** and violate the [content usage permissions](/wiki/Rules/Content_usage_permissions#artist-permissions) page is strictly prohibited.
+  - The creation or reuse of any beatmaps that violate [content usage permission rules](/wiki/Rules/Content_usage_permissions#artist-permissions) is strictly prohibited, except if they are **Ranked, Approved, or Loved**.
     - If permission to use disallowed songs is granted by the artist, the host **must** include proof of permission in their email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) upon tournament conclusion.
 - The tournament only allows players of exceptional skill to participate, disallowing players lower than the following ranks in each game mode:
   - osu!: 100,000
