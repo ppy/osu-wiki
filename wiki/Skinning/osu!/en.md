@@ -767,7 +767,7 @@ In the [Lazer](/wiki/Client/Release_stream/Lazer) version of the game, new indic
 | :-- | :-- |
 | Skin versions | All |
 | Animatable | ![Yes][true] |
-| Beatmap skinnable | ![Yes][true] <!-- idk if this is actually true right now but they are implemented the same as hit0 so... -clayton --> |
+| Beatmap skinnable | ![Yes][true] |
 | Blend mode | Normal |
 | Origin | Centre |
 | Suggested SD size | 16x16 |
