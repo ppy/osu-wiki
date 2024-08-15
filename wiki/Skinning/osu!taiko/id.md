@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 9813f83f3faf3eff53d59bf14f5b81cc128a345f
+---
+
 # Elemen-elemen skinning osu!taiko
 
 Kamu dapat mengganti elemen-elemen permainan osu!taiko dengan menambahkan folder yang bernama `taiko` di dalam folder skin yang digunakan atau dengan mengaktifkan opsi `Gunakan skin Taiko untuk mode Taiko` yang ada pada menu [Options](/wiki/Client/Options). Apabila tidak, osu! akan secara otomatis memasang skin osu!taiko *default* setiap kali kamu bermain osu!taiko.
