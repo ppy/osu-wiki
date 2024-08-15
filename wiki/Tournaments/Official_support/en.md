@@ -37,7 +37,7 @@ Community-run tournaments which abide by the following hard criteria are eligibl
 - The forum threads associated with the tournament — this includes forum threads for any preliminary events — **MUST** contain a clearly visible link in a normal-sized font to the [tournament reports form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
   - `https://pif.ephemeral.ink/tournament-reports`
   - This report form is overseen by the [Tournament Committee](/wiki/People/Tournament_Committee). We encourage all users — players and staff alike — to make use of this form where necessary. Any breaches of [expectations](#expectations), [other procedures](#other-procedures), or [eligibility](#eligibility) requirements should prompt a report.
-- The tournament must be in compliance with the following content usage rules:
+- The tournament must abide by the following content usage rules:
   - Usage of any beatmaps which have a DMCA takedown notice in any form is strictly prohibited.
   - The creation or reuse of any beatmaps that are not **Ranked, Approved, or Loved** and violate the [content usage permissions](/wiki/Rules/Content_usage_permissions#artist-permissions) page is strictly prohibited.
     - If permission to use disallowed songs is granted by the artist, the host **must** include proof of permission in their email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) upon tournament conclusion.
