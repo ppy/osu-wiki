@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: a5a4d44b66fbe6446aefb341d712d1623b1aac80
----
-
 # Archivo skin.ini
 
 *Véase también: [skin.ini en blanco](/wiki/Skinning/skin.ini/Blank)*
@@ -94,7 +89,7 @@ Si tu `skin.ini` no especifica el comando `Version`, la versión predeterminada 
 **Permitir el skinning de flechas por tipo**
 
 - Añade `arrow-generic.png`, `arrow-warning.png` y `arrow-pause.png`.
-- Elimina `play-warningarrow.png`.
+- Elimina `play-warningarrow.png` en favor de los archivos anteriores.
 
 ### 2.7
 
