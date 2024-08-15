@@ -140,6 +140,24 @@ Shout out to my man <3
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
+How many keyboards have you tried in the past and which one did you find the best for osu!catch? Also, [you've posted about wanting to get Corsair K70 MAX keyboard in the past](https://twitter.com/MotionCTB/status/1690729158731812864), but why specifically this one, and not for example Wooting?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3885626" style="background-image: url('/wiki/shared/news/2024-08-12-the-followpoint-motion-the-ultimate-catcher/avatar-Motion.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3885626">Motion</a></p>
+
+I've tried 4 keyboards so far, which are "QSENN DT35", "Deck CBL-108 Red switch", "Corsair K70 RGB PRO OPX" and "Corsair K70 MAX" (my current keyboard).
+I found "K70 MAX" the best for me cause it was the first time for me to try rapid trigger, and it was a completely new world for me, felt like it helped me break the limits that I couldn't break before.
+
+![](/wiki/shared/news/2024-08-12-the-followpoint-motion-the-ultimate-catcher/keyboard.jpg)
+
+When K70 MAX was just launched and I found out it supports rapid trigger, I immediately compared K70 MAX to Wooting.
+As far as I can remember, Wooting supported only 60g switches at that time, and I kind of wanted something lighter than that. So I had to choose K70 MAX which has 45g switches. 
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-08-12-the-followpoint-motion-the-ultimate-catcher/avatar-MegaMix.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
+
 Is there anything specific that keeps you motivated even after years of playing, and what do you think is most important in order to not lose that motivation, even when you are not improving?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3885626" style="background-image: url('/wiki/shared/news/2024-08-12-the-followpoint-motion-the-ultimate-catcher/avatar-Motion.jpg')"></a>
@@ -212,6 +230,22 @@ It felt unreal when I had overtaken him, because when he had been dominating ctb
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
+What was the first thing you did after achieving rank #1?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3885626" style="background-image: url('/wiki/shared/news/2024-08-12-the-followpoint-motion-the-ultimate-catcher/avatar-Motion.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3885626">Motion</a></p>
+
+Immediately after achieving rank #1, I had a lot of mixed emotions like happiness and being emotional. After that, I just wanted to get drunk with happiness, so I went to the mart to buy a lof of beer. 
+
+![](/wiki/shared/news/2024-08-12-the-followpoint-motion-the-ultimate-catcher/beer.jpg)
+
+I will never forget the moment where I drank cold beer while enjoying my victory after achieving rank #1 in years.
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-08-12-the-followpoint-motion-the-ultimate-catcher/avatar-MegaMix.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
+
 Now that you've reached #1 rank in osu!catch, do you have any other goals in mind? Is there anything else you'd like to achieve now, be that for example an SS on a hard map, or maybe even 2000 pp score?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3885626" style="background-image: url('/wiki/shared/news/2024-08-12-the-followpoint-motion-the-ultimate-catcher/avatar-Motion.jpg')"></a>
@@ -219,6 +253,20 @@ Now that you've reached #1 rank in osu!catch, do you have any other goals in min
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3885626">Motion</a></p>
 
 Unfortunately, any specific goals don't come to my mind right now. but I will keep pushing myself to set any crazy scores!
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-08-12-the-followpoint-motion-the-ultimate-catcher/avatar-MegaMix.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
+
+If you were to start as a new player now, would you play converts as much as you played them when you started osu!catch in its early days? Why/Why not?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3885626" style="background-image: url('/wiki/shared/news/2024-08-12-the-followpoint-motion-the-ultimate-catcher/avatar-Motion.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3885626">Motion</a></p>
+
+Yes, I think I still would play converts as much as I played them in the earlier days of osu!catch. The main reasoning being that there are many skillsets that converts provide that are essential to becoming a better player in the long run. Not only that though, osu!catch converts as a whole do not suffer from the same issues mania and taiko do, they are more fun, there is more to gain from them and there are even patterns that are so special they wind up being added to specifics as the mapping community has grown. 
+
+My main doubt although is if I'd enjoy converts now nearly as much as I did in the past. My reasonings for this doubt are that modern converts have become less and less playable due to the fact they feature many impossible to SS patterns or messy patterns that aren't possible to hit (High SV issues, slider spam becoming a mess, etc.). In my opinion, the best converts to look at for catch players are from 2013 - 2020 as they feature the unique patterning still, but overall are more straightforward and aren't as difficult to search through for something "good/fun" to play.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-08-12-the-followpoint-motion-the-ultimate-catcher/avatar-MegaMix.jpg')"></a>
 
@@ -232,7 +280,13 @@ And before we finish, let me ask you some bonus questions, starting with the cla
 
 If I were to pick the most impressive score, it would be probably ["Oracion(TV-Size) [Crystal's Rain]" +HDDTHR](https://osu.ppy.sh/scores/fruits/173627724) played by [ExGon](https://osu.ppy.sh/users/214187), because high approach rate (mostly AR10.5~11) in osu!catch is really tricky and difficult skillset to master.
 
-Also there are a few candidates that are coming to my mind, but if I have to pick one of them, it will be ["Sendan Life (katagiri Bootleg) [World End.]"](https://osu.ppy.sh/scores/fruits/214502143) without a doubt, because this map literally requires most of skillsets which are "consistency", "speed", "stamina" and also to quote ExGon, ["probably the best nomod score for ctb maps, no one will be able to get close for a while"](https://twitter.com/ExG0n/status/1713871203314868578). So I do believe this is enough to be picked.
+![](/wiki/shared/news/2024-08-12-the-followpoint-motion-the-ultimate-catcher/oracion.jpg)
+
+Also there are a few candidates that are coming to my mind, but if I have to pick one of them, it will be ["Sendan Life (katagiri Bootleg) [World End.]"](https://osu.ppy.sh/scores/fruits/214502143) without a doubt, because this map literally requires most of skillsets which are "consistency", "speed", "stamina" and also to quote ExGon, ["probably the best nomod score for ctb maps, no one will be able to get close for a while"](https://twitter.com/ExG0n/status/1713871203314868578). 
+
+![](/wiki/shared/news/2024-08-12-the-followpoint-motion-the-ultimate-catcher/sendan_life.jpg)
+
+So I do believe this is enough to be picked.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-08-12-the-followpoint-motion-the-ultimate-catcher/avatar-MegaMix.jpg')"></a>
 
