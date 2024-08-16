@@ -11,10 +11,17 @@ Un **patrón** es un pequeño conjunto de [objetos](/wiki/Gameplay/Hit_object) d
 
 ## Tipos de patrones comunes
 
+### todos los modos
+
+- [Double](common/double)
+  
 ### osu!
 
-- [Jump](osu!/Jump)
-- [Stream](osu!/Stream)
+- [Burst](Burst)
+- [Jump](Jump)
+- [Cross Screen Jump](csj)
+- [Stream](Stream)
+- [Death Stream](Death_Stream)
 
 ### osu!mania
 
