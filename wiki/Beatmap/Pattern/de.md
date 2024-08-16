@@ -10,10 +10,17 @@ Ein **Pattern** ist eine kleine Gruppe an [Hit-Objekten](/wiki/Gameplay/Hit_obje
 
 ## Übliche Pattern-Arten
 
+### alle Modi
+
+- [Double](common/double)
+  
 ### osu!
 
-- [Jump](osu!/Jump)
-- [Stream](osu!/Stream)
+- [Burst](Burst)
+- [Jump](Jump)
+- [Cross Screen Jump](csj)
+- [Stream](Stream)
+- [Death Stream](Death_Stream)
 
 ### osu!mania
 
