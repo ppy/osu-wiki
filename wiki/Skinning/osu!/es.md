@@ -756,7 +756,7 @@ Notas:
 - `hit300.png` debe tener un aspecto.
 - Este elemento se usa para `hit300`, `hit300g` y `hit300k`.
 
-## Indicadores de fallo de los sliders (solo en el Lazer)
+## Indicadores de fallo de los sliders (solo en Lazer)
 
 En la versión [Lazer](/wiki/Client/Release_stream/Lazer) del juego, se han añadido nuevos indicadores cuando se fallan partes de los sliders. Los siguientes elementos heredados se pueden usar para personalizar estos indicadores. Estos no tienen ningún efecto en osu!stable.
 
