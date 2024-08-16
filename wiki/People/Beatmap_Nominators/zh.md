@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: 586a7e770846849bece2fb6863cdbb363142ff66
 tags:
   - BN
   - BNG
@@ -25,21 +23,17 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 
 除了平常的摸图和上架谱面之外，正式成员还负责下架某些已发现问题的，处于过审 (Qualified) 状态的谱面。如果他们有意在未来加入审核评估团队 (NAT)，也可临时承担甄选 BN 申请的工作。
 
-大约每三个月（90 天），[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 会[评估](/wiki/People/Nomination_Assessment_Team/Evaluations)正式成员的行为规范、提名活跃度、提名质量。如果他们的提名经常因犯了明显的错误而被重置，亦或是某些行为不可接受，则他们可能会被降级为见习成员。
-
-如果正式成员达不到最低活跃度要求，并在警告后没有采取相应的补救措施，则他们会被直接从 BN 中开除，而不是降级。
+大约每三个月（90 天），[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 会[评估](/wiki/People/Nomination_Assessment_Team/Evaluations)正式成员的行为规范、提名活跃度、提名质量。如果他们的提名经常因犯了明显的错误而被重置，亦或是某些行为不可接受，根据严重程度和发生频次，他们可能被警告，或直接被开除。
 
 ### 见习成员
 
-设立见习期的目的，是用来帮助 NAT 关注新的或者被降职 BN 的行为。见习成员的主要职责是在实际推送谱面上架流程中打好作为 BN 的基本功。谱面若要上架 (Ranked)，则提名者中必须有至少一位正式成员。因此，见习成员不能提名已被其他相同游戏模式的见习成员提名过的谱面。
+设立见习期的目的，是用来帮助 NAT 关注新 BN 的行为。见习成员的主要职责是在实际推送谱面上架流程中打好作为 BN 的基本功。谱面若要上架 (Ranked)，则提名者中必须有至少一位正式成员。因此，见习成员不能提名已被其他相同游戏模式的见习成员提名过的谱面。
 
 当见习成员满足[活跃度要求](/wiki/People/Beatmap_Nominators/Rules#要求)的两倍标准，或是在见习期满一个月后（以最先满足的条件为准），会被[评估](/wiki/People/Nomination_Assessment_Team/Evaluations)。
 
-新加入的见习成员将会分配一个 NAT 导师，导师会鼓励他们，并且他们可以直接联系导师提问或得到指导。在第一次评估后，如果他们的提名顺利，行为合规，并且评估为良好，则他们将在评估结束后晋升为正式成员。反之，他们的见习期会再加一个月，甚至被开除。
+新加入的见习成员将会分配一个 NAT 导师，导师会鼓励他们，并且他们可以直接联系导师提问或得到指导。在第一次评估后，如果他们的提名顺利，行为合规，并且评估为良好，则他们将在评估结束后晋升为正式成员。反之，他们会被开除。
 
-在 BN 因为犯下错误被降级成见习成员后，如果他们在大约一年内再次犯下了类似的错误，则会被开除。比如，某位 BN 因为不良行为而被降级成见习成员，无论他们是否度过见习期而成功返回正式成员小组，只要在一年内再犯，就会被直接开除。
-
-如果没有足够的数据来评估被降级的 BN，或者他们犯下了与最初不同的错误，他们的试用期可能会再延长一个月。
+BN 无法被降职成试用 BN。如果他们的工作表现令人担忧，他们就可能被警告，或直接被开除。
 
 ## 特权
 
@@ -49,7 +43,7 @@ BN 可获得以下特权：
 - **职位奖牌**：获得一个显示任期年份的[主页奖牌](/wiki/Community/Profile_badge)。
   ![1 年 BN 奖牌](https://assets.ppy.sh/profile-badges/BN1y.png?2024 "1 年 BN 奖牌") ![2 年 BN 奖牌](https://assets.ppy.sh/profile-badges/BN2y.png?2024 "2 年 BN 奖牌") ![3 年 BN 奖牌](https://assets.ppy.sh/profile-badges/BN3y.png "3 年 BN 奖牌") ![4 年 BN 奖牌](https://assets.ppy.sh/profile-badges/BN4y.png "4 年 BN 奖牌") ![5 年 BN 奖牌](https://assets.ppy.sh/profile-badges/BN5y.png "5 年 BN 奖牌") ![6 年 BN 奖牌](https://assets.ppy.sh/profile-badges/BN6y.png "6 年 BN 奖牌") ![7 年 BN 奖牌](https://assets.ppy.sh/profile-badges/BN7y.png "7 年 BN 奖牌") ![8 年 BN 奖牌](https://assets.ppy.sh/profile-badges/BN8y.png "8 年 BN 奖牌") ![9 年 BN 奖牌](https://assets.ppy.sh/profile-badges/BN9y.png "9 年 BN 奖牌") ![10 年 BN 奖牌](https://assets.ppy.sh/profile-badges/BN10y.png "10 年 BN 奖牌")
 - **[提名](/wiki/Beatmap_ranking_procedure#nominations)次数奖牌**：当提名次数达到某里程碑后，获得一个显示提名次数的主页奖牌。
-  ![200 提名奖牌](https://assets.ppy.sh/profile-badges/noms200.png?2023 "200 次提名奖牌") ![400 提名奖牌](https://assets.ppy.sh/profile-badges/noms400.png?2023 "400 次提名奖牌") ![600 次提名奖牌](https://assets.ppy.sh/profile-badges/noms600.png?2023 "600 次提名奖牌") ![800 次提名奖牌](https://assets.ppy.sh/profile-badges/noms800.png?2023 "800 次提名奖牌") ![1000 次提名奖牌](https://assets.ppy.sh/profile-badges/noms1000.png?2023 "1000 次提名奖牌")
+  ![200 提名奖牌](https://assets.ppy.sh/profile-badges/noms200.png?2023 "200 次提名奖牌") ![400 提名奖牌](https://assets.ppy.sh/profile-badges/noms400.png?2023 "400 次提名奖牌") ![600 次提名奖牌](https://assets.ppy.sh/profile-badges/noms600.png?2023 "600 次提名奖牌") ![800 次提名奖牌](https://assets.ppy.sh/profile-badges/noms800.png?2024 "800 次提名奖牌") ![1000 次提名奖牌](https://assets.ppy.sh/profile-badges/noms1000.png?2024 "1000 次提名奖牌") ![1500 次提名奖牌](https://assets.ppy.sh/profile-badges/noms1500.png?2024 "1500 次提名奖牌") ![2000 次提名奖牌](https://assets.ppy.sh/profile-badges/noms2000.png?2024 "2000 次提名奖牌")
 - **[优秀提名者](/wiki/People/Elite_Nominators)资格**：如果 BN 在提名谱面方面表现出色，可以获得年度优秀提名者[玩家头衔](/wiki/Community/User_title)。
 
 ## 团队成员
