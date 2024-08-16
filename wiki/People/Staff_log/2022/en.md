@@ -338,7 +338,7 @@ Abbreviations for user groups are used throughout this log:
 - 2022-07-03: Moved [Mocaoctic](https://osu.ppy.sh/users/9487458) from **Probationary BN** to **BN**
 - 2022-07-04: Moved [ZiRoX](https://osu.ppy.sh/users/200768) from **Probationary BN** to **BN**
 - 2022-07-06: Moved [-White](https://osu.ppy.sh/users/16276548) from **Probationary BN** to **BN**
-- 2022-07:08: Moved [KeyWee](https://osu.ppy.sh/users/10476879) from **Probationary BN** to **BN**
+- 2022-07-08: Moved [KeyWee](https://osu.ppy.sh/users/10476879) from **Probationary BN** to **BN**
 - 2022-07-13: Moved [Irone OSU](https://osu.ppy.sh/users/10678230) from **Probationary BN** to **BN**
 - 2022-07-16: Moved [yurishe](https://osu.ppy.sh/users/14890963) from **Probationary BN** to **BN**
 - 2022-07-16: Moved [KuroKuroKuro](https://osu.ppy.sh/users/11931563) from **Probationary BN** to **BN**
