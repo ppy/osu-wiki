@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 69bc3a06fb5f50ceb839fd5a0183f263aa24dd61
----
-
 # 简版上架标准
 
 *对于完整版谱面上架标准 (RC)，请参见：[谱面上架标准](/wiki/Ranking_criteria)*
@@ -20,6 +15,7 @@ outdated_since: 69bc3a06fb5f50ceb839fd5a0183f263aa24dd61
 ![](./img/percent.png "歌曲进度百分比")
 :::
 
+- **保证谱面内的任何东西均遵守[内容使用规范](/wiki/Rules/Content_usage_permissions#艺术家准许)。**
 - **谱面长度至少 30 秒。**
 - **谱面最早只能结束在 [80% 标记](./img/percent.png)处。** 如果你想更早结束谱面，请截短歌曲。
 
