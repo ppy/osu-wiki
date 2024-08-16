@@ -11,10 +11,17 @@ tags:
 
 ## Jenis pattern umum
 
+### common
+
+- [Double](common/double)
+  
 ### osu!
 
+- [Burst](Burst)
 - [Jump](Jump)
+- [Cross Screen Jump](csj)
 - [Stream](Stream)
+- [Death Stream](Death_Stream)
 
 ### osu!mania
 
