@@ -13,7 +13,7 @@ Tutup osu! dan buat berkas `tournament.cfg` pada direktori instalasi. Buka osu! 
 
 Sebelum mulai menggunakan klien, tambahkan lagu dari mappool yang akan digunakan ke dalam folder `Songs`. Seluruh beatmap yang belum dimiliki oleh klien akan diunduh secara otomatis.
 
-Pada saat menutup klien, berkas `tournament.cfg` ini akan terisi sebagai berikut:
+Pada saat klien tertutup, berkas `tournament.cfg` ini akan terisi sebagai berikut:
 
 ```
 TeamSize = 4
@@ -30,11 +30,11 @@ Jangan ubah isi berkas `tournament.cfg` ini pada saat osu! sedang berjalan. Untu
   - Pengaturan ini tidak disarankan untuk diubah.
 - `BufferTotalTime`: Lama waktu keseluruhan bagi klien untuk mengambil gambar, yang berguna untuk mengurangi frekuensi jeda atau waktu tunggu antar *buffer*. Pengaturan ini menghasilkan jeda antara klien dan pemain.
   - Pengaturan ini tidak disarankan untuk diubah.
-- `BufferDangerTime`: Lama waktu yang tersisa bagi klien dalam *buffer* tayangan ulang sebelum klien menjeda permainan untuk mengambil lebih banyak _frame_ tayangan ulang.
+- `BufferDangerTime`: Lama waktu yang tersisa bagi klien dalam *buffer* tayangan ulang sebelum klien menjeda permainan untuk mengambil lebih banyak  *frame* tayangan ulang.
   - Pengaturan ini tidak disarankan untuk diubah.
 - `RankingChatDelay`: Jeda waktu (dalam milidetik) sebelum skor disembunyikan dan kolom *chat* ditampilkan pada layar peringkat.
 - `Height`: Tinggi area pada klien yang dapat disiarkan.
-  - Klien akan menghitung lebar area secara otomatis mengikuti perhitungan aspek rasio 16:9.
+  - Klien akan menghitung lebar area secara otomatis mengikuti aspek rasio 16:9.
   - "Area yang dapat disiarkan" ini tidak meliputi panel kontrol yang tersedia. Pada umumnya, panel kontrol ini berukuran 200px lebih tinggi dari tinggi klien, sehingga (sebagai contoh) monitor dengan resolusi 1440p akan dapat menyiarkan turnamen dalam resolusi 1080p secara aman.
   - Nilai bawaan: 720, rentang nilai yang diperkenankan: 568–2160
 - `Aspect`: Aspek rasio yang ditampilkan oleh layar permainan.
