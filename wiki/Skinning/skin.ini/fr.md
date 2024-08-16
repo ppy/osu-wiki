@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: a5a4d44b66fbe6446aefb341d712d1623b1aac80
 ---
 
 # skin.ini

@@ -11,7 +11,7 @@ Si necesitas ayuda para hacer una contribución o quieres una revisión de tu so
 | Perfil de osu! | Perfil de GitHub | Estado | Idiomas adicionales |
 | :-- | :-- | :-- | :-- |
 | ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) | [cl8n](https://github.com/cl8n) | Inactivo |  |
-| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) | **Activo** |  |
+| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) | Inactivo |  |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [Hiviexd](https://github.com/Hiviexd) | **Activo** | Árabe |
 | ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835) | [Joehuu](https://github.com/Joehuu) | Inactivo |  |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | [juankristal](https://github.com/juankristal) | Inactivo | Español |
