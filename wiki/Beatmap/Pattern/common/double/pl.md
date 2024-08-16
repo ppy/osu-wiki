@@ -16,5 +16,6 @@ W [trybie gry](/wiki/Game_mode) [osu!](/wiki/Game_mode/osu!), Double powstają w
 
 W [trybie gry](/wiki/Game_mode) [osu!mania](/wiki/Game_mode/osu!mania), Doubles są znane jako [Mini jacks](/osu!mania/jack)
 /Jack/
+
 ![](img/taikodouble.png "Wizualny przykład Double w trybie gry osu!taiko.")
 ![](img/catchdouble.png "Wizualny przykład Double w trybie gry osu!catch.")
