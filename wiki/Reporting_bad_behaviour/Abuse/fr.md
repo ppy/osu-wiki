@@ -26,19 +26,21 @@ Bloquez immédiatement l'utilisateur en cliquant avec le bouton droit de la sour
 
 Vous devez également les signaler immédiatement en cliquant sur le bouton `Signaler un utilisateur` et en répondant aux questions.
 
+Vous pouvez également signaler l'utilisateur en tapant `!report <personne> <problème>`, où `<personne>` est le nom d'utilisateur de la personne qui vous pose problème, et `<problème>` est une courte explication du problème. S'il y a des espaces dans le nom d'utilisateur de la personne, veuillez les remplacer par des traits de soulignement (`_`).
+
 Si vous estimez que les remarques/avances étaient très inappropriées ou que vous êtes un utilisateur mineur, veuillez envoyer un courrier électronique à [abuse@ppy.sh](mailto:abuse@ppy.sh) en fournissant le plus d'informations possible.
 
 ### Dans un message public sur les forums d'osu!
 
-Signalez le message à un membre de la [Global Moderation Team](/wiki/People/Global_Moderation_Team)  dès que possible.
+[Signalez le message](/wiki/Reporting_bad_behaviour#forum) à un [Global Moderation Team](/wiki/People/Global_Moderation_Team) dès que possible.
 
-Pour ce faire, cliquez sur le nom d'utilisateur d'un membre de la GMT dans la liste de cette page. Vous accéderez ainsi à son profil. Si vous ne savez pas sur qui cliquer, utilisez simplement [ce lien à la place](https://osu.ppy.sh/users/102335).
+Pour ce faire, cliquez sur le bouton `Signaler un message` dans le coin supérieur droit du message du forum.
+
+Alternativement, cliquez sur le nom d'utilisateur d'un membre de la GMT dans la liste de cette page. Vous accéderez ainsi à son profil. Si vous ne savez pas sur qui cliquer, utilisez simplement [ce lien à la place](https://osu.ppy.sh/users/5999631).
 
 Cliquez sur le bouton avec une enveloppe juste en dessous du drapeau du pays de l'utilisateur. Vous accéderez ainsi à l'écran de tchat.
 
 Collez un lien vers le message du forum qui contient le contenu problématique et expliquez brièvement au GMT ce qui se passe. Ils supprimeront le message pour vous dès qu'ils le pourront.
-
-Vous pouvez également signaler le message en ouvrant votre jeu et en tapant `!report <personne> <problème>`, où `<personne>` est le nom d'utilisateur de la personne qui vous pose problème, et `<problème>` est le lien vers le message suivi d'une courte explication. S'il y a des espaces dans le nom d'utilisateur de la personne, veuillez les remplacer par des underscores (`_`).
 
 Si le post n'a toujours pas disparu dans un délai raisonnable, veuillez envoyer un courriel à [abuse@ppy.sh](mailto:abuse@ppy.sh) en fournissant le plus d'informations possible.
 
@@ -64,9 +66,9 @@ Si le tweet provient d'un compte lié au profil d'un joueur osu! via notre site 
 
 ## Un membre de l'une des équipes de volontaires (NAT, GMT) s'approche de moi, me parle ou agit de manière inappropriée !
 
-Envoyez un courriel à [abuse@ppy.sh](mailto:abuse@ppy.sh) contenant le plus d'informations possible **immédiatement**.
+Envoyez un courriel à [abuse@ppy.sh](mailto:abuse@ppy.sh) contenant le plus d'informations possible **immédiatement**. Cela inclut les captures d'écran, les journaux de discussion, en fait tout ce que vous pouvez joindre à un e-mail.
 
-Si l'un des éléments que vous souhaitez inclure vous gêne, veuillez l'effacer. Cela inclut les captures d'écran, les journaux de discussion, en fait tout ce que vous pouvez joindre à un e-mail.
+Si l'un des éléments que vous souhaitez inclure vous gêne, veuillez l'effacer.
 
 Nous examinerons la question dès que possible.
 
@@ -75,3 +77,9 @@ Nous examinerons la question dès que possible.
 Envoyez un courriel à [abuse@ppy.sh](mailto:abuse@ppy.sh) contenant tout ce que vous savez avec autant de preuves que possible.
 
 Si vous ne disposez d'aucune preuve, mais seulement d'histoires ou de rumeurs que vous jugez suffisamment sérieuses pour y donner suite, n'hésitez pas à nous envoyer un courriel. Nous prenons les plaintes de ce type très au sérieux et nous examinerons chaque rapport en profondeur.
+
+## Mon e-mail a été ignoré !
+
+Si vous n'avez pas reçu de réponse à votre e-mail après quelques semaines, envoyez un e-mail de suivi.
+
+L'e-mail a probablement été perdu en cours de route, mais nous souhaitons tout de même enquêter sur votre signalement.

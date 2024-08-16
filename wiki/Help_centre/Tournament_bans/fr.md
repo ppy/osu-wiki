@@ -54,6 +54,9 @@ Les informations relatives à votre statut de bannissement des tournois peuvent 
 
 | Raison du bannissement des tournois | Durée | Notes |
 | :-- | :-- | :-- |
+| Violation des règles de la communauté dans le cadre d'un tournoi | 1 mois ou plus | La durée peut être plus longue à la discrétion de l'équipe d'assistance au compte. |
+| Manque de respect envers le personnel ou perte de temps | 1 mois ou plus |  |
+| Permettre à un autre joueur d'utiliser des comptes multiples ou de tricher pendant un tournoi | 6 mois ou plus |  |
 | Mauvaise conduite d'un joueur lors d'un tournoi officiel | 1-2 ans |  |
 | Retour dans le cadre des conditions d'appel normales | 1-2 ans | La durée peut être plus longue à la discrétion de l'équipe de support aux comptes. |
 | Multi-compte ou partage de compte lors d'un tournoi officiellement soutenu | Indéfinie | Cela entraînera également une restriction |

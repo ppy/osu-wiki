@@ -68,12 +68,12 @@ Celebrate with [this osu! map](https://osu.ppy.sh/beatmapsets/10906) hosted by [
     <source src="https://assets.ppy.sh/artists/323/Touhou%20Sacred%20Water%20Festival%2FInnocent%20Key%20-%20Touhou%20Holy%20Water%20Festival%20-%20The%20Troubled%20Maidens%20Year%20~Pappa~.mp3" type="audio/mpeg">
 </audio>
 
-### Innocent Key - Touhou Sweets! ~The Brutal Sisters and Suffering Maid~
+### Innocent Key - Touhou Sweets! \~Kichiku Shimai to Junan Maid\~
 
 Play through [the map that introduced **Innocent Key** to osu!](https://osu.ppy.sh/beatmapsets/5255) hosted by [Metroid](https://osu.ppy.sh/users/10542)!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/323/Touhou%20Sweets%2FInnocent%20Key%20-%20Touhou%20Sweets!%20~Devil%20Sisters%20and%20Suffering%20Maids~.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/323/Touhou%20Sweets/Innocent_Key_-_Touhou_Sweets_Kichiku_Shimai_to_Junan_Maid.mp3" type="audio/mpeg">
 </audio>
 
 ### Innocent Key -Shukudai ga Owaranai!

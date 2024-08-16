@@ -72,13 +72,13 @@ Chacun des mods ci-dessous aura l'icône de son mode de jeu compatible (![][osu!
 
 ### Termes connexes
 
-#### NoMod
+#### No Mod
 
-Dans les matchs des [tournois](/wiki/Tournaments), **NoMod** (***NM***) signifie ne pas utiliser de mods. De nombreux tournois exigent que certains mods soient utilisés par défaut dans le cadre de leurs règles ou de leur format, comme [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) ou [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2), qui deviennent des exceptions à cette notion.
+Dans les matchs des [tournois](/wiki/Tournaments), **No Mod** (***NM***) signifie ne pas utiliser de mods. De nombreux tournois exigent que certains mods soient utilisés par défaut dans le cadre de leurs règles ou de leur format, comme [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) ou [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2), qui deviennent des exceptions à cette notion.
 
-#### FreeMod
+#### Free Mod
 
-Dans les matchs des [tournois](/wiki/Tournaments), **FreeMod** (***FM***) signifie que vous êtes libre de choisir n'importe quel mod ou combinaison de mods. Certains tournois prévoient également des règles qui spécifient des critères supplémentaires, tels que les mods autorisés et leurs combinaisons, ou si le fait de ne pas avoir de mods est autorisé lorsque FreeMod est spécifié.
+Dans les matchs des [tournois](/wiki/Tournaments), **Free Mod** (***FM***) signifie que vous êtes libre de choisir n'importe quel mod ou combinaison de mods. Certains tournois prévoient également des règles qui spécifient des critères supplémentaires, tels que les mods autorisés et leurs combinaisons, ou si le fait de ne pas avoir de mods est autorisé lorsque Free Mod est spécifié.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

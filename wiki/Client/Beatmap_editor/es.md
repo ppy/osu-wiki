@@ -2,7 +2,7 @@
 
 ![Una captura de pantalla de la pestaña compose del editor que muestra el beatmap Donor Song de pishifat](img/compose-ES.jpg)
 
-*Para atajos de teclado del editor de beatmaps, véase: [Referencia de atajos de teclado § Editor de beatmaps](/wiki/Client/Keyboard_shortcuts#beatmap-editor)*
+*Para atajos de teclado del editor de beatmaps, véase: [Referencia de atajos de teclado § Editor de beatmaps](/wiki/Client/Keyboard_shortcuts#editor-de-beatmaps)*
 
 El **editor de beatmaps** es la interfaz gráfica del juego de osu! para crear [beatmaps](/wiki/Beatmap). [Beatmapping](/wiki/Beatmapping) es el acto de crear beatmaps para osu!.
 
@@ -27,7 +27,7 @@ El editor de beatmaps está dividido en cuatro secciones principales que se pued
 
 ## Song setup
 
-[Song setup](/wiki/Client/Beatmap_editor/Song_setup) completa los [metadatos](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-metadata) de un beatmap y otras cosas universales para un [beatmap](/wiki/Beatmap). Esto incluye el título de una canción, el artista, el nombre de la dificultad, los colores de combo, etc.
+[Song setup](/wiki/Client/Beatmap_editor/Song_setup) completa los [metadatos](/wiki/Client/Beatmap_editor/Song_setup#general) de un beatmap y otras cosas universales para un [beatmap](/wiki/Beatmap). Esto incluye el título de una canción, el artista, el nombre de la dificultad, los colores de combo, etc.
 
 ## Otros
 

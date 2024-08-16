@@ -26,11 +26,9 @@ Eğer bir kimse bahsi geçen alt forumlarda yardıma ihtiyaç duyarsa, ilk olara
 
 | İsim | Ek diller |
 | :-- | :-- |
+| ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |
-| ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Filipince |
-| ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | İsveççe, İspanyolca |
-| ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) |  |
-| ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Almanca |
+| ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Lehçe |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | İspanyolca |

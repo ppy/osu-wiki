@@ -24,7 +24,7 @@ Los **hitsounds** son los sonidos que osu! reproduce en respuesta a la entrada d
 
 La reproducción del hitsound consiste en una muestra predeterminada llamada *hitnormal*, y cualquier *adición* de una combinación de muestras whistle, finish o clap. Cada muestra es parte de uno de los tres *conjuntos de muestras* que denotan diferentes estilos: `Normal`, `Soft`, o `Drum`.
 
-Los beatmappers pueden reemplazar cualquier muestra de sonido predeterminada con muestras personalizadas usando la carpeta del [beatmap](/wiki/Beatmap). La [skin](/wiki/Skinning) de un jugador también puede reemplazar los hitsounds predeterminados en todos los beatmaps. Los detalles sobre las muestras de los hitsounds se pueden encontrar en el artículo [hitsounds en el skinning](/wiki/Skinning/Sounds#hitsounds).
+Los beatmappers pueden reemplazar cualquier muestra de sonido predeterminada con muestras personalizadas usando la carpeta del [beatmap](/wiki/Beatmap). La [skin](/wiki/Skinning) de un jugador también puede reemplazar los hitsounds predeterminados en todos los beatmaps. Los detalles sobre las muestras de los hitsounds se pueden encontrar en el artículo [hitsounds en el skinning](/wiki/Skinning/Sounds#para-los-hitsounds).
 
 Los [spinners](/wiki/Gameplay/Hit_object/Spinner) y [sliders](/wiki/Gameplay/Hit_object/Slider) tienen hitsounds adicionales de giro, bonificación, deslizamiento y marca del slider.
 
