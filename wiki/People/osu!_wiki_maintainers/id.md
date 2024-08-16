@@ -11,7 +11,7 @@ Jika kamu memerlukan bantuan untuk memberikan kontribusi atau ingin *pull reques
 | Profil osu! | Profil GitHub | Status | Bahasa tambahan |
 | :-- | :-- | :-- | :-- |
 | ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) | [cl8n](https://github.com/cl8n) | Nonaktif |  |
-| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) | **Aktif** |  |
+| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) | Nonaktif |  |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [Hiviexd](https://github.com/Hiviexd) | **Aktif** | Arab |
 | ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835) | [Joehuu](https://github.com/Joehuu) | Nonaktif |  |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | [juankristal](https://github.com/juankristal) | Nonaktif | Spanyol |

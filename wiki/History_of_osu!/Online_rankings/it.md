@@ -6,8 +6,6 @@ tags:
   - "rank #1"
   - rankings
   - top player
-outdated_translation: true
-outdated_since: ac03e7297b7bb9d50a8c4f04f1bed4fa9b0deef8
 ---
 
 # Cronologia delle classifiche online
@@ -18,17 +16,17 @@ Numerosi giocatori hanno raggiunto il primo posto in ogni modalità di gioco con
 
 ## ![][osu!] osu!
 
-*Pagina principale: [osu!](osu!)*
+*Pagina principale: [Cronologia delle classifiche di osu!](osu!)*
 
-Al 19 luglio 2021, nella [classifica delle performance di osu!](https://osu.ppy.sh/rankings/osu/performance) il giocatore numero 1 è ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902/osu).
+Al 3 agosto 2024, nella [classifica delle performance di osu!](https://osu.ppy.sh/rankings/osu/performance) il giocatore numero 1 è ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902/osu).
 
 ## ![][osu!taiko] osu!taiko
 
-Al 9 ottobre 2023, nella [classifica delle performance di osu!taiko](https://osu.ppy.sh/rankings/taiko/performance) il giocatore numero uno è ::{ flag=JP }:: [Majimanjiwwwww](https://osu.ppy.sh/users/12337864/taiko).
+Al 19 giugno 2024, nella [classifica delle performance di osu!taiko](https://osu.ppy.sh/rankings/taiko/performance) il giocatore numero uno è ::{ flag=JP }:: [shinchikuhome](https://osu.ppy.sh/users/3174184/taiko).
 
 ## ![][osu!catch] osu!catch
 
-Al 7 giugno 2021, nella [classifica delle performance di osu!catch](https://osu.ppy.sh/rankings/fruits/performance) il giocatore numero 1 è ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549/fruits).
+Al 21 luglio 2024, nella [classifica delle performance di osu!catch](https://osu.ppy.sh/rankings/fruits/performance) il giocatore numero 1 è ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626/fruits).
 
 ## ![][osu!mania] osu!mania
 

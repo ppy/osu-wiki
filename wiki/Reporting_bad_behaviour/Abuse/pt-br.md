@@ -36,7 +36,7 @@ Se você sentir que os comentários/avanços foram extremamente inapropriados ou
 
 Denuncie o post para qualquer membro da nossa [Equipe de Moderação Global](/wiki/People/Global_Moderation_Team) o mais rápido o possível.
 
-Para fazer isso, clique no nome de usuário de qualquer membro do GMT na lista daquela página. Isso irá fazer que você seja levado ao perfil dele. Se você não tem certeza em quem clicar, apenas use [esse link ao invés disso](https://osu.ppy.sh/users/102335).
+Para fazer isso, clique no nome de usuário de qualquer membro do GMT na lista daquela página. Isso irá fazer que você seja levado ao perfil dele. Se você não tem certeza em quem clicar, apenas use [esse link ao invés disso](https://osu.ppy.sh/users/5999631).
 
 Clique no botão com um ícone de envelope logo abaixo da bandeira da nacionalidade do usuário. Isso irá te levar a janela de chat.
 
