@@ -208,8 +208,8 @@ These sounds are mapped as `S:C1` on beatmap skins:
 These sounds play on top of the song when the [Nightcore mod](/wiki/Gameplay/Game_modifier/Nightcore) is enabled. In 4/4 time:
 
 - `nightcore-kick.wav` is played on [beats](/wiki/Music_theory/Beat) 1 and 3
-- `nightcore-hat.wav` is played on every odd [quaver](https://en.wikipedia.org/wiki/Eighth_note), but only if the [slider tick rate](/wiki/Beatmapping/Slider_tick_rate) of the beatmap is a multiple of 2
 - `nightcore-clap.wav` is played on beats 2 and 4
+- `nightcore-hat.wav` is played on every odd [quaver](https://en.wikipedia.org/wiki/Eighth_note), but only if the [slider tick rate](/wiki/Beatmapping/Slider_tick_rate) of the beatmap is a multiple of 2
 - `nightcore-finish.wav` is played on the first beat of every 4 [measures](/wiki/Music_theory/Measure), unless that barline is omitted by a [timing point](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)
 
 #### osu!taiko specific
