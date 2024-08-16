@@ -60,6 +60,8 @@ Packed with easily over 100 references, [this pad](https://osu.ppy.sh/store/prod
 
 ---
 
+To start, we only have **100 deskmats for each design**! If we run out, we'll prepare another batch. Keep an eye on the [@osugame Twitter](https://twitter.com/osugame) for news on that.
+
 <div align="center" class="osu-md__paragraph">
     <video width="100%" controls>
         <source src="https://assets.ppy.sh/media/news/osu_deskmats_vbr.mp4" type="video/mp4" preload="none">
