@@ -1,6 +1,5 @@
 ---
-outdated_since: 5f603d93877d6b915ce864a793df5f4a7fbc2a33
-outdated_translation: true
+no_native_review_since: 2f6e3d4239952f6ec0084111a5df129ad1840c05 Niva
 ---
 
 # Melaporkan tindak pelecehan
@@ -27,19 +26,21 @@ Segera blokir pengguna tersebut dengan mengklik kanan nama pengguna mereka dan m
 
 Kamu juga disarankan untuk segera melaporkan pengguna tersebut dengan mengklik tombol `Laporkan Pengguna` dan mengisi formulir yang tertera.
 
+Kamu juga dapat melaporkan pengguna tersebut dengan cara mengetik `!report <nama pengguna> <permasalahan>`, di mana `<nama pengguna>` merupakan nama pengguna yang berulah dan `<permasalahan>` merupakan penjelasan singkat seputar masalah yang bersangkutan. Apabila nama pengguna yang akan kamu laporkan mengandung spasi, ganti seluruh spasi ini dengan garis bawah (`_`).
+
 Apabila kamu merasa bahwa komentar/rayuan yang kamu terima sudah sangat tidak pantas atau kamu masih di bawah umur, mohon kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan informasi yang selengkap-lengkapnya.
 
 ### Dalam postingan publik pada forum osu!
 
-Laporkan postingan tersebut kepada para anggota [Global Moderation Team](/wiki/People/Global_Moderation_Team) (GMT) kami sesegera mungkin.
+[Laporkan postingan tersebut](/wiki/Reporting_bad_behaviour#forum) kepada [Global Moderation Team](/wiki/People/Global_Moderation_Team) (GMT) kami sesegera mungkin.
 
-Untuk melapor, klik salah satu nama GMT yang tertera pada halaman tersebut. Hal ini akan membawamu ke profil mereka masing-masing. Apabila kamu tidak yakin kepada siapa kamu harus melapor, kamu dapat [langsung melapor ke Ephemeral](https://osu.ppy.sh/users/102335).
+Untuk melapor, klik tompol `Laporkan postingan` yang terdapat pada pojok kanan atas postingan forum yang bersangkutan.
+
+Sebagai alternatifnya, klik nama pengguna salah satu GMT yang tertera pada halaman di atas. Hal ini akan membawamu ke profil mereka masing-masing. Apabila kamu tidak yakin kepada siapa kamu harus melapor, kamu dapat [langsung menghubungi pengguna ini](https://osu.ppy.sh/users/5999631).
 
 Apabila sudah, klik tombol amplop yang berada tepat di bawah bendera negara mereka. Setelahnya, layar pesan obrolan pribadi (*private message*) akan terbuka.
 
 Salin tautan postingan yang bermasalah tersebut pada kolom *chat* yang muncul dan ceritakan apa yang terjadi kepada anggota GMT yang bersangkutan. Mereka akan menghapus postingan tersebut untukmu sesegera mungkin.
-
-Kamu juga dapat melaporkan postingan tersebut dengan cara mengetik `!report <nama pengguna> <permasalahan>` pada *in-game chat*, di mana `<nama pengguna>` merupakan nama pengguna yang berulah dan `<permasalahan>` merupakan tautan serta penjelasan singkat seputar postingan yang bermasalah tersebut. Apabila nama pengguna yang akan kamu laporkan mengandung spasi, ganti seluruh spasi yang ada pada nama pengguna mereka dengan garis bawah (`_`).
 
 Apabila postingan tersebut masih belum juga dihapus setelah sekian waktu, mohon kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan informasi yang selengkap-lengkapnya.
 
@@ -65,9 +66,9 @@ Apabila tweet tersebut berasal dari akun Twitter yang tertaut pada halaman profi
 
 ## Salah seorang anggota tim sukarelawan (NAT, GMT) mendekati/berbicara/bertindak secara tidak senonoh terhadap saya!
 
-Kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) **sesegera mungkin** dengan menyertakan informasi yang selengkap-lengkapnya.
+Kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) **sesegera mungkin** dengan menyertakan informasi yang selengkap-lengkapnya. Hal ini meliputi tangkapan layar, *chat log*, dan bukti apa pun juga yang dapat kamu lampirkan melalui email.
 
-Apabila kamu ingin melampirkan sesuatu yang dapat membuatmu malu, mohon kosongkan bagian yang mengandung aib dari laporanmu. Hal ini meliputi tangkapan layar, *chat log*, dan apa pun itu yang dapat dilampirkan melalui email.
+Apabila kamu ingin melampirkan sesuatu yang dapat membuatmu malu, mohon kosongkan bagian yang mengandung aib dari laporanmu.
 
 Kami akan menindaklanjuti laporanmu dengan segera.
 
@@ -75,4 +76,10 @@ Kami akan menindaklanjuti laporanmu dengan segera.
 
 Kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan segala informasi dan bukti yang kamu ketahui.
 
-Apabila kamu tidak memiliki bukti apa pun dan informasi yang kamu ketahui hanya berasal dari desas-desus yang beredar, jangan sungkan untuk tetap melapor kepada kami. Kami menanggapi segala keluhan seputar tindak pelecehan yang demikian dengan sungguh-sungguh dan akan memeriksa seluruh laporan yang masuk secara mendalam.
+Apabila kamu tidak memiliki bukti apa pun kecuali desas-desus atau rumor yang kamu rasa perlu untuk ditindak lebih lanjut, jangan sungkan untuk tetap melapor kepada kami. Kami menanggapi segala keluhan seputar tindak pelecehan yang demikian dengan sungguh-sungguh dan akan memeriksa seluruh laporan yang masuk secara mendalam.
+
+## Email saya telah diabaikan!
+
+Apabila kamu belum menerima balasan atas emailmu setelah beberapa minggu, mohon kirim email baru untuk ditindaklanjuti.
+
+Email tersebut kemungkinan hilang di suatu tempat karena satu dan lain hal, namun kami masih tetap ingin menyelidiki laporanmu.
