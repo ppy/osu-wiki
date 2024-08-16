@@ -7,5 +7,8 @@ stub: true
 
 Halaman ini merupakan halaman indeks untuk seluruh jenis [pola](..) yang spesifik untuk mode permainan [osu!](/wiki/Game_mode/osu!).
 
+- [Burst](Burst)
 - [Jump](Jump)
+- [Cross Screen Jump](csj)
 - [Stream](Stream)
+- [Death Stream](Death_Stream)
