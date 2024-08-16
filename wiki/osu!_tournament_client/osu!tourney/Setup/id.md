@@ -3,7 +3,7 @@
 *Lihat juga: [Klien turnamen osu!](/wiki/osu!_tournament_client)_*
 *Catatan: [Tag osu!supporter](/wiki/osu!supporter) yang aktif saat ini dibutuhkan untuk menggunakan klien osu!tourney.*
 
-Kamu disarankan untuk menggunakan **instalasi osu!** yang sepenuhnya baru, karena proses ini dapat merusak basis data `Songs` yang telah ada. Kamu dapat memiliki lebih dari satu instalasi osu! yang terpasang selama kamu meletakkan masing-masing instalasi ini pada folder yang terpisah.
+Kamu disarankan untuk menggunakan **instalasi osu! yang sepenuhnya baru**, karena proses ini dapat merusak basis data `Songs` yang telah ada. Kamu dapat memiliki lebih dari satu instalasi osu! yang terpasang selama kamu meletakkan masing-masing instalasi ini pada folder yang terpisah.
 
 Untuk membuat instalasi baru, salin `osu!.exe` ke dalam folder kosong dan jalankan berkas ini. Proses ini akan menghasilkan instalasi osu! yang sepenuhnya baru. Instalasi ini merupakan satu-satunya instalasi yang akan perlu untuk kamu atur ke depannya.
 
@@ -13,19 +13,19 @@ Tutup osu! dan buat berkas `tournament.cfg` pada direktori instalasi. Buka osu! 
 
 Sebelum mulai menggunakan klien, tambahkan lagu dari mappool yang akan digunakan ke dalam folder `Songs`. Seluruh beatmap yang belum dimiliki oleh klien akan diunduh secara otomatis.
 
-Pada saat klien tertutup, berkas `tournament.cfg` ini akan terisi sebagai berikut:
+Pada saat klien tertutup, berkas `tournament.cfg` ini akan terisi dengan kedua baris berikut:
 
 ```
 TeamSize = 4
 acronym = OWC
 ```
 
-Jangan ubah isi berkas `tournament.cfg` ini pada saat osu! sedang berjalan. Untuk menyunting berkas ini, tutup osu! dan ubah baris di atas atau tambahkan baris baru ke dalam berkas sesuai dengan berbagai parameter pengaturan berikut:
+Jangan ubah isi berkas `tournament.cfg` ini pada saat osu! sedang berjalan. Untuk menyunting berkas ini, tutup osu! dan ubah baris di atas atau tambahkan baris baru ke dalam berkas sesuai dengan berbagai kriteria pengaturan berikut:
 
 - `TeamSize`: Jumlah pemain per tim.
 - `ClientNameSize`: Ukuran tampilan nama pemain.
 - `privateserver`: Biarkan pengaturan ini tidak tersentuh.
-- `acronym`: Singkatan untuk nama turnamen. Pengaturan ini akan berpengaruh terhadap format penamaan ruang multiplayer bagi turnamen yang bersangkutan. Kunjungi [panduan penggunaan multiplayer](/wiki/osu!_tournament_client/osu!tourney/Multiplayer_usage) untuk informasi lebih lanjut.
+- `acronym`: Singkatan untuk turnamen. Pengaturan ini akan berpengaruh terhadap format penamaan ruang multiplayer bagi turnamen yang bersangkutan. Kunjungi [panduan penggunaan multiplayer](/wiki/osu!_tournament_client/osu!tourney/Multiplayer_usage) untuk informasi lebih lanjut.
 - `BufferTimeoutTime`: Lama waktu bagi klien untuk mengambil gambar dari pemain (*buffering*) sebelum klien melanjutkan permainan tanpa pemain yang bersangkutan.
   - Pengaturan ini tidak disarankan untuk diubah.
 - `BufferTotalTime`: Lama waktu keseluruhan bagi klien untuk mengambil gambar, yang berguna untuk mengurangi frekuensi jeda atau waktu tunggu antar *buffer*. Pengaturan ini menghasilkan jeda antara klien dan pemain.
