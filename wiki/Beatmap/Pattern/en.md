@@ -8,14 +8,19 @@ tags:
 
 A **pattern** is a small set of [hit objects](/wiki/Gameplay/Hit_object) within a [beatmap](/wiki/Beatmap) arranged in a meaningful way.
 
-## Common pattern types
+## Pattern types
 
-<!-- TODO: add more -->
+### common
 
+- [Double](common/double)
+  
 ### osu!
 
-- [Jump](osu!/Jump)
-- [Stream](osu!/Stream)
+- [Burst](Burst)
+- [Jump](Jump)
+- [Cross Screen Jump](csj)
+- [Stream](Stream)
+- [Death Stream](Death_Stream)
 
 ### osu!mania
 
