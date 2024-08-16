@@ -1,7 +1,3 @@
----
-no_native_review: true
----
-
 # 皮肤
 
 **皮肤** 指的是一组图像与音频片段，用于替换 osu! 默认使用的文件。许多玩家使用皮肤来进一步定制自己的游玩体验。osu! 中多数重要的界面元素与声音都可以被替换（即[定制](/wiki/Skinning)）。
@@ -19,4 +15,4 @@ no_native_review: true
 - [已完成皮肤论坛](https://compendium.skinship.xyz/)
 - [Circle People Pro Player Skin Collection](https://circle-people.com/skins/)
 
-除了以上集合之外，许多玩家（包括排名高的玩家）会在他们的[用户页](/wiki/osu!supporter#可编辑的个人资料区块)、视频描述中发出自己使用的皮肤，或者使用 Twitch 聊天命令提供皮肤链接。
+除了以上集合之外，许多玩家（包括排名高的玩家）会在他们的[玩家主页](/wiki/osu!supporter#可编辑的个人介绍)、视频描述中发出自己使用的皮肤，或者使用 Twitch 聊天命令提供皮肤链接。

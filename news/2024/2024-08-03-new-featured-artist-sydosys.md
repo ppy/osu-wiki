@@ -8,7 +8,7 @@ If you've played an osu! tournament in the last year, odds are you've heard **Sy
 
 ![](https://assets.ppy.sh/artists/392/header.jpg)
 
-From *5 Digit World Cup*, *Battle of the Box*, *The Roundtable II*, and *COEGTS*, to our very own [world cups](/wiki/Tournaments#official-world-cups) and even [Lazer Grand Arena](/wiki/Tournaments/LGA/2024), our [osu! originals](/wiki/osu!_originals) catalogue is packed with **Sydosys**'s music.
+From *5 Digit World Cup*, *Aim Cup 3*, *Battle of the Box*, *The Roundtable II*, and *COEGTS*, to our very own [world cups](/wiki/Tournaments#official-world-cups) and even [Lazer Grand Arena](/wiki/Tournaments/LGA/2024), our [osu! originals](/wiki/osu!_originals) catalogue is packed with **Sydosys**'s music.
 
 Considering some of **Sydosys**'s biggest inspirations are *OOPARTS* and *XNOR XNOR XNOR*, none of this should come as a surprise. **Sydosys** has a knack for omnigenre full flavour pieces, making each of their distinctly different tunes a perfect fit for rhythm games (including osu!).
 
