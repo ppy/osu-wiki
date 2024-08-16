@@ -15,8 +15,8 @@ Les abréviations des groupes d'utilisateurs utilisées dans ce registre sont le
 #### Ajouts
 
 - 05/01/2021 : Ajout de [Ulqui](https://osu.ppy.sh/users/1263669) : **BN probatoire**
-- 05/01/2021 : Ajout de [Hivie](https://osu.ppy.sh/users/4007649) : **BN probatoire**
-- 13/01/2021 : Ajout de [Dako](https://osu.ppy.sh/users/4007649) : **BN probatoire**
+- 05/01/2021 : Ajout de [Hivie](https://osu.ppy.sh/users/14102976) : **BN probatoire**
+- 13/01/2021 : Ajout de [Dako](https://osu.ppy.sh/users/11081858) : **BN probatoire**
 - 24/01/2021 : Ajout de [guden](https://osu.ppy.sh/users/11626065) : **BN probatoire**
 - 25/01/2021 : Ajout de [rosario wknd](https://osu.ppy.sh/users/6341518) : **BN probatoire**
 - 25/01/2021 : Ajout de [Myxo](https://osu.ppy.sh/users/2202645) : **BN probatoire**

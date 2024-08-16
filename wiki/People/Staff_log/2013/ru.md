@@ -225,7 +225,7 @@
 - Перемещение [Mr Color](https://osu.ppy.sh/users/116078) из Chat Moderators в Global Moderation Team (2013-11-16)
 - Добавление [ZHSteven](https://osu.ppy.sh/users/142413) в Beatmap Appreciation Team (2013-11-17) <!-- https://osu.ppy.sh/community/forums/topics/161395?start=2691021 -->
 - Добавление [PROGUY](https://osu.ppy.sh/users/528181) в Beatmap Appreciation Team (2013-11-17) <!-- https://osu.ppy.sh/community/forums/topics/165008?start=2690769 -->
-- Добавление [Roxas](https://osu.ppy.sh/users/1041833)  в Beatmap Appreciation Team (2013-11-17)
+- Добавление [Roxas](https://osu.ppy.sh/users/1041833) в Beatmap Appreciation Team (2013-11-17)
 - Перемещение [lolcubes](https://osu.ppy.sh/users/578401) из osu! Alumni в Beatmap Appreciation Team (2013-11-18) <!-- https://osu.ppy.sh/community/forums/posts/2693082 -->
 - Перемещение [Dangaard](https://osu.ppy.sh/users/19488) из osu! Alumni в Beatmap Appreciation Team (2013-11-24) <!-- https://osu.ppy.sh/community/forums/posts/2703864 -->
 - Перемещение [blissfulyoshi](https://osu.ppy.sh/users/20865) из osu! Alumni в Beatmap Appreciation Team (2013-11-24) <!-- https://osu.ppy.sh/community/forums/posts/2703982 -->

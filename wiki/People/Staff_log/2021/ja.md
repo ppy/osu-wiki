@@ -20,8 +20,8 @@ outdated_since: 3fe983b3a55970aed91a0bcdca028253d918ae5d
 #### 追加
 
 - 2021-01-05: [Ulqui](https://osu.ppy.sh/users/1263669)を**試用期間中のBN**に追加
-- 2021-01-05: [Hivie](https://osu.ppy.sh/users/4007649)を**試用期間中のBN**に追加
-- 2021-01-13: [Dako](https://osu.ppy.sh/users/4007649)を**試用期間中のBN**に追加
+- 2021-01-05: [Hivie](https://osu.ppy.sh/users/14102976)を**試用期間中のBN**に追加
+- 2021-01-13: [Dako](https://osu.ppy.sh/users/11081858)を**試用期間中のBN**に追加
 - 2021-01-24: [guden](https://osu.ppy.sh/users/11626065)を**試用期間中のBN**に追加
 - 2021-01-25: [rosario wknd](https://osu.ppy.sh/users/6341518)を**試用期間中のBN**に追加
 - 2021-01-25: [Myxo](https://osu.ppy.sh/users/2202645)を**試用期間中のBN**に追加

@@ -226,7 +226,7 @@ Tous les utilisateurs listés ci-dessous ont été ajoutés le 30/08/2014 :
 
 - Transfert de [Gabe](https://osu.ppy.sh/users/654108) : osu! Alumni > Beatmap Appreciation Team (02/09/2014)
 - Transfert de [Frostmourne](https://osu.ppy.sh/users/199669) : osu! Alumni > Quality Assurance Team (05/09/2014)
-- Ajout de [XavierJones](https://osu.ppy.sh/users/495733) Chat Moderators (08/09/2014)
+- Ajout de [XavierJones](https://osu.ppy.sh/users/495733) : Chat Moderators (08/09/2014)
 - Transfert de [Card N'FoRcE](https://osu.ppy.sh/users/3936) : osu! Alumni (11/09/2014)
 - Transfert de [Asphyxia](https://osu.ppy.sh/users/1715720) : Beatmap Appreciation Team > Quality Assurance Team (20/09/2014)
 - Transfert de [captin1](https://osu.ppy.sh/users/689997) : Beatmap Appreciation Team (20/09/2014)
