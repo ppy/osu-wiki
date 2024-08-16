@@ -15,8 +15,8 @@ Abbreviations for user groups are used throughout this log:
 #### Additions
 
 - 2021-01-05: Added [Ulqui](https://osu.ppy.sh/users/1263669) to **Probationary BN**
-- 2021-01-05: Added [Hivie](https://osu.ppy.sh/users/4007649) to **Probationary BN**
-- 2021-01-13: Added [Dako](https://osu.ppy.sh/users/4007649) to **Probationary BN**
+- 2021-01-05: Added [Hivie](https://osu.ppy.sh/users/14102976) to **Probationary BN**
+- 2021-01-13: Added [Dako](https://osu.ppy.sh/users/11081858) to **Probationary BN**
 - 2021-01-24: Added [guden](https://osu.ppy.sh/users/11626065) to **Probationary BN**
 - 2021-01-25: Added [rosario wknd](https://osu.ppy.sh/users/6341518) to **Probationary BN**
 - 2021-01-25: Added [Myxo](https://osu.ppy.sh/users/2202645) to **Probationary BN**
