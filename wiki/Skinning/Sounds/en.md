@@ -201,17 +201,16 @@ These sounds are mapped as `S:C1` on beatmap skins:
 
 - Plays everytime you get 1000 bonus points from spinning.
 
-#### Nightcore Mod specific
+#### Nightcore mod
 
 *Note: The files are sourced from your skin, but not the beatmap skin.*
 
-These sounds are used in gameplays with the [Nightcore game modifier](/wiki/Gameplay/Game_modifier/Nightcore) enabled. For example in 4/4 time:
+These sounds play on top of the song when the [Nightcore mod](/wiki/Gameplay/Game_modifier/Nightcore) is enabled. In 4/4 time:
 
-- `nightcore-kick.wav`: played on [beats](/wiki/Music_theory/Beat) 1 and 3
-- `nightcore-hat.wav`: played only when the [slider tick rate](/wiki/Beatmapping/Slider_tick_rate) is a multiple of 2
-- `nightcore-clap.wav`: played on beats 2 and 4
-- `nightcore-finish.wav`: played on the first beat every 4 [measures](/wiki/Music_theory/Measure)
-  - The sound won't be played on the first beat of a timing point that is omitting first barline.
+- `nightcore-kick.wav` is played on [beats](/wiki/Music_theory/Beat) 1 and 3
+- `nightcore-hat.wav` is played on every odd [quaver](https://en.wikipedia.org/wiki/Eighth_note), but only if the [slider tick rate](/wiki/Beatmapping/Slider_tick_rate) of the beatmap is a multiple of 2
+- `nightcore-clap.wav` is played on beats 2 and 4
+- `nightcore-finish.wav` is played on the first beat of every 4 [measures](/wiki/Music_theory/Measure), unless that barline is omitted by a [timing point](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)
 
 #### osu!taiko specific
 
