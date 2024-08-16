@@ -2,7 +2,7 @@
 
 这里列出了所有包含[奖章](/wiki/Medals)解锁条件的文章。
 
-为了保密，[隐藏 (Hush-Hush) 奖章](/wiki/Medals#hush-hush)的解锁条件是有意隐藏的。
+为了保密，[隐藏 (Hush-Hush) 奖章](/wiki/Medals#隐藏)的解锁条件是有意隐藏的。
 
 - [挑战曲包](Beatmap_challenge_packs)
 - [曲包](Beatmap_packs)
