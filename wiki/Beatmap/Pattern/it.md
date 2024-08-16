@@ -10,10 +10,17 @@ Un **pattern** è un piccolo set di [oggetti](/wiki/Gameplay/Hit_object) in una 
 
 ## Tipi di pattern comuni
 
+### tutte le modalità
+
+- [Double](common/double)
+  
 ### osu!
 
-- [Jump](osu!/Jump)
-- [Stream](osu!/Stream)
+- [Burst](Burst)
+- [Jump](Jump)
+- [Cross Screen Jump](csj)
+- [Stream](Stream)
+- [Death Stream](Death_Stream)
 
 ### osu!mania
 
@@ -22,4 +29,4 @@ Un **pattern** è un piccolo set di [oggetti](/wiki/Gameplay/Hit_object) in una 
 - [Jack](osu!mania/Jack)
 - [Anchor](osu!mania/Anchor)
 - [Trill](osu!mania/Trill)
-- [Nota lunga (Hold)](osu!mania/Hold_note)
+- [Hold note](osu!mania/Hold_note)
