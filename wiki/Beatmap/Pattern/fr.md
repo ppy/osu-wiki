@@ -10,12 +10,17 @@ Un **pattern** est un petit ensemble d'[objets](/wiki/Gameplay/Hit_object) dans 
 
 ## Types de patterns courants
 
-<!-- TODO: add more -->
+### common
 
+- [Double](common/double)
+  
 ### osu!
 
-- [Jump](osu!/Jump)
-- [Stream](osu!/Stream)
+- [Burst](Burst)
+- [Jump](Jump)
+- [Cross Screen Jump](csj)
+- [Stream](Stream)
+- [Death Stream](Death_Stream)
 
 ### osu!mania
 
