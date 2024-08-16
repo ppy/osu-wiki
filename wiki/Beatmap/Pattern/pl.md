@@ -10,15 +10,18 @@ tags:
 
 ## Rodzaje Wzorów
 
-### common
+### Wszystkie tryby gry
 
 - [Double](common/double)
   
 ### osu!
 
-- [Jump](osu!/Jump)
-- [Stream](osu!/Stream)
-
+- [Burst](Burst)
+- [Jump](Jump)
+- [Cross Screen Jump](csj)
+- [Stream](Stream)
+- [Death Stream](Death_Stream)
+- 
 ### osu!mania
 
 - [Chord](osu!mania/Chord)
