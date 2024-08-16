@@ -203,12 +203,15 @@ These sounds are mapped as `S:C1` on beatmap skins:
 
 #### Nightcore Mod specific
 
+*Note: The files are sourced from your skin, but not the beatmap skin.*
+
 These sounds are used in gameplays with the [Nightcore game modifier](/wiki/Gameplay/Game_modifier/Nightcore) enabled. For example in 4/4 time:
 
 - `nightcore-kick.wav`: played on [beats](/wiki/Music_theory/Beat) 1 and 3
-- `nightcore-hat.wav`
+- `nightcore-hat.wav`: played only when the [slider tick rate](/wiki/Beatmapping/Slider_tick_rate) is a multiple of 2
 - `nightcore-clap.wav`: played on beats 2 and 4
 - `nightcore-finish.wav`: played on the first beat every 4 [measures](/wiki/Music_theory/Measure)
+  - The sound won't be played on the first beat of a timing point that is omitting first barline.
 
 #### osu!taiko specific
 
