@@ -201,6 +201,10 @@ These sounds are mapped as `S:C1` on beatmap skins:
 
 - Plays everytime you get 1000 bonus points from spinning.
 
+`spinnerbonus-max.wav`:
+
+- In the [Lazer](/wiki/Client/Release_stream/Lazer) client, this sound plays instead of `spinnerbonus.wav` if the maximum score has already been achieved on the spinner. It has no effect in osu!stable.
+
 #### Nightcore mod
 
 *Note: The files are sourced from your skin, but not the beatmap skin.*
