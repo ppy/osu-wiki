@@ -20,7 +20,7 @@ With [COE](/wiki/Community/cavoe's_osu!_event) being over, it's unfortunately ti
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="https://2127.s-ul.eu/2wIaHQqC.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/2024-08-17-daily-challenge-splash.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -42,7 +42,7 @@ With [COE](/wiki/Community/cavoe's_osu!_event) being over, it's unfortunately ti
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="https://2127.s-ul.eu/x58u7mmJ.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/2024-08-17-middle-click-editor.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -58,9 +58,11 @@ With [COE](/wiki/Community/cavoe's_osu!_event) being over, it's unfortunately ti
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="https://2127.s-ul.eu/KtVr9TSk.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/2024-08-17-legacy-key-counter.mp4" type="video/mp4" preload="none">
     </video>
 </div>
+
+- **Various smaller changes have been made to some skinning elements.** Namely, the time text can be turned off for the argon song progress bar, and the combo element can now be adjusted based on the ruleset, meaning that you can have the combo in the centre of the screen if you are playing osu!mania.
 
 ---
 
