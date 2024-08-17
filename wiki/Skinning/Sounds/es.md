@@ -18,7 +18,7 @@ Notas:
   - Se requiere [osu!supporter](/wiki/osu!supporter) para modificarlo.
   - Este sonido puede desactivarse desmarcando `Tema musical de osu!` en las [opciones](/wiki/Client/Options).
 
-### Sonidos al presionar teclas
+### Sonidos al presionar las teclas
 
 | Nombre del archivo | Uso |
 | :-- | :-- |
@@ -194,7 +194,7 @@ Estos sonidos aparecen como `S:C1` en las skins de los beatmaps:
 `spinnerspin.wav`:
 
 - Este sonido se reproduce en bucle.
-- Este sonido puede modularse de unos 500 hz a 80 000 hz.
+- Este sonido puede modularse de unos 500 hz a 80 000 hz.
   - Para desactivar esto, establece `SpinnerFrequencyModulate` en `0`.
 
 `spinnerbonus.wav`:
