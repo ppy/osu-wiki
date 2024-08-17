@@ -8,7 +8,7 @@ Un usuario puede ser restringido si hace cualquiera de las siguientes cosas:
 - Evadir un castigo haciendose otra cuenta.
 - Compartir su cuenta con otros usuarios.
 - Multicuentas.
-- Hacking o hacer trampas.
+- Hacking o hacer trampa.
 
 ## ¿Qué se considera multicuenta?
 
