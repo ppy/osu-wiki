@@ -24,7 +24,7 @@ Al usar nuestro servicio, confirma que ha leido y comprendido los [Terminos de s
 
 ### Al registrar una cuenta
 
-Mientras que una limitada parte de la funcionalidad se puede disfrutar sin una cuenta, es normalmente necesario que un usuario registre una cuenta para experimentar ciertos servicios. Cuanto registra una cuenta, almacenamos
+Mientras que una limitada parte de la funcionalidad se puede disfrutar sin una cuenta, es normalmente necesario que un usuario registre una cuenta para experimentar ciertos servicios. Cuando registra una cuenta, almacenamos
 
 - Su nombre de usuario
 - Su dirección de correo electrónico
