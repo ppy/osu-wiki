@@ -50,7 +50,7 @@ With [COE](/wiki/Community/cavoe's_osu!_event) being over, it's unfortunately ti
 
 ## Smaller changes
 
-- **The osu!(lazer) BASS audio library has been updated.** Upon first look this might look irrelevant, but the devs suspect that this is the culprit behind the bug where [gameplay would go back a frame](https://github.com/ppy/osu/issues/26879) at random points. Once again, if you experienced this please try again with the latest update and leave feedback in the Discord server!
+- **The osu!(lazer) BASS audio library has been updated.** The outdated library previously used is the suspected culprit behind the bug where [gameplay would go back a frame](https://github.com/ppy/osu/issues/26879) at random points. Once again, if you experienced this please try again with the latest update!
 - **The mod selection screen received some UX updates.** Scrolling outside the mod panels will now go through different panels instead of doing nothing, the mod customise menu button will light up when an applicable mod is selected, and the menu itself will be opened as soon as you hover over it.
 - **The volume mute button has been moved.** Previously in the bottom left corner of the screen, now the volume mute button has been moved inside the master volume wheel, where people can actually see it, and it won't cover the back button any more.
 - **Changes have been made to how players get notified about messages highlighting them.** Players will no longer receive notifications when they are highlighted, instead the chat message will now be coloured pink.
