@@ -92,7 +92,7 @@ Podremos compartir tu información personal con terceros en casos muy específic
 - Para procesar tus tickets de servicio al cliente (usamos [Enchant](https://enchant.com))
 - Para mejorar nuestros servicios, mediante el registro de errores (usamos [Sentry](https://sentry.io))
 
-## Tus derechos y control
+## Sus derechos y control
 
 Como usuario tienes el derecho de migrar, actualizar o eliminar tus datos personales. Esto se puede hacer, principalmente, desde la [configuración de usuario](https://osu.ppy.sh/home/account/edit), o donde no esté disponible desde una función «Editar» localizada en la sección relevante de nuestro sitio web. En casos en los que desees recuperar programáticamente toda los datos de tu cuenta, por favor usa nuestra [API pública](https://github.com/ppy/osu-api/wiki).
 
