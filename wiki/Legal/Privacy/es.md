@@ -6,7 +6,7 @@ legal: true
 
 Actualizado por última vez el 16 de abril de 2021. [Comprueba el historial de cambios aquí](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
 
-En adición a esta política, por favor asegúrate también de visitar y entender nuestros [Términos de servicio](/wiki/Legal/Terms).
+En adición a esta política, por favor asegúrese también de visitar y entender nuestros [Términos de servicio](/wiki/Legal/Terms).
 
 ## Introduction
 
