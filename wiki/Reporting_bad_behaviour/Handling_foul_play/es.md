@@ -63,7 +63,7 @@ Ejemplo: !report este_usuario suspected cheating
 
 Apreciamos mucho tu ayuda para reportar el juego sucio. Revisamos todos los reportes que recibimos, ¡pero eso no significa que todos nos lleven a tomar medidas! También puedes enviar un correo electrónico directamente a [osu@ppy.sh](mailto:osu@ppy.sh) para una respuesta relativamente rápida.
 
-## ¿El uso de hardware especializado se considera como hacer trampa?
+## ¿El uso de periféricos especializados se considera como hacer trampa?
 
 Periféricos como tabletas gráficas o pantallas táctiles están permitidos. Cualquier cosa que disminuya la habilidad necesaria para jugar (por ejemplo, usar fidget spinners en una tableta gráfica) o cancela/anula el efecto de los modificadores del juego no lo están. Esto significa que el uso de varios ordenadores, divisores de entrada, o cualquier otra cosa de ese estilo es considerado un no rotundo.
 
