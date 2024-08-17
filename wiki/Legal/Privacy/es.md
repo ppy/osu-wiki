@@ -33,7 +33,7 @@ Mientras que una limitada parte de la funcionalidad se puede disfrutar sin una c
 
 Esta información personal, con la excepción de su nombre de usuario y país, nunca se comparte públicamente.
 
-### Al actualizar tu perfil
+### Al actualizar su perfil
 
 Cuando construya su perfil de usuario (el cual es publicamente visible para el resto de usuarios), puede proporcionar opcionalmente
 
@@ -41,7 +41,7 @@ Cuando construya su perfil de usuario (el cual es publicamente visible para el r
 - Sus intereses
 - Su ocupación
 - Su presencia en redes sociales (twitter, discord, skype, una página web)
-- La imagen de tu avatar y el encabezado de su perfil
+- La imagen de su avatar y el encabezado de su perfil
 - Su firma
 
 Todos los campos anteriores son visibles públicamente pero se pueden retirar inmediatamente y permanentemente en cualquier momento desde [la página de configuración](https://osu.ppy.sh/home/account/edit).
@@ -54,7 +54,7 @@ Por ejemplo, si sube un beatmap y está «clasificado», este se convierte en el
 
 ### Al iniciar sesión en el cliente de juego
 
-Cuando se conecta a nuestro servicio desde el cliente de juego de osu!, una cadena específica del cliente es subida para ayudarnos a identificar tu entorno de juego actual. Se crea a partir de una combinación de identificadores de la configuración de su hardware y software y se encripta de una manera en la que no contiene información personal identificable, pero puede usarse para rastrear sus inicios de sesión a nuestro servicio.
+Cuando se conecta a nuestro servicio desde el cliente de juego de osu!, una cadena específica del cliente es subida para ayudarnos a identificar su entorno de juego actual. Se crea a partir de una combinación de identificadores de la configuración de su hardware y software y se encripta de una manera en la que no contiene información personal identificable, pero puede usarse para rastrear sus inicios de sesión a nuestro servicio.
 
 El principal objetivo de esto es mantener un sistema de clasificación justo y ayudarnos a imponer seguridad en su cuenta en el caso de que la misma sea accedida desde una ubicación comprometida. Esto es considerado privado y solo se almacena durante el tiempo que se considera relevante. Esto también es no transferible, y no tiene sentido fuera del ecosistema de osu!
 
@@ -84,7 +84,7 @@ Estos datos recolectados son agregados y solo son retenidos mientras son útiles
 
 No hacemos nada de marketing, publicidad ni enviamos ningún correo no solicitado. Los únicos correos que recibirás de nosotros serán el resultado de una cción en nuestro servicio (como la solicitud de verificación en dos pasos, comprar un producto o la activación de notificación para una discusión).
 
-Podremos compartir tu información personal con terceros en casos muy específicos:
+Podremos compartir su información personal con terceros en casos muy específicos:
 
 - Donde ha hecho información pública expresamente
 - Para rellenar sus pedidos de la tienda
@@ -94,7 +94,7 @@ Podremos compartir tu información personal con terceros en casos muy específic
 
 ## Sus derechos y control
 
-Como usuario tiene el derecho de migrar, actualizar o eliminar tus datos personales. Esto se puede hacer, principalmente, desde la [configuración de usuario](https://osu.ppy.sh/home/account/edit), o donde no esté disponible desde una función «Editar» localizada en la sección relevante de nuestro sitio web. En casos en los que desee recuperar programáticamente toda los datos de tu cuenta, por favor use nuestra [API pública](https://github.com/ppy/osu-api/wiki).
+Como usuario tiene el derecho de migrar, actualizar o eliminar tus datos personales. Esto se puede hacer, principalmente, desde la [configuración de usuario](https://osu.ppy.sh/home/account/edit), o donde no esté disponible desde una función «Editar» localizada en la sección relevante de nuestro sitio web. En casos en los que desee recuperar programáticamente toda los datos de su cuenta, por favor use nuestra [API pública](https://github.com/ppy/osu-api/wiki).
 
 En muchos casos, contenido creado por los usuarios como publicaciones del foro y beatmaps pueden ser borrados de forma individual. Encontrará botones de eliminar asociados directamente con los elementos que pueden ser borrados.
 
