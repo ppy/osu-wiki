@@ -35,7 +35,7 @@ Esta información personal, con la excepción de su nombre de usuario y país, n
 
 ### Al actualizar su perfil
 
-Cuando construya su perfil de usuario (el cual es publicamente visible para el resto de usuarios), puede proporcionar opcionalmente
+Cuando complete su perfil de usuario (el cual es publicamente visible para el resto de usuarios), puede proporcionar opcionalmente
 
 - Su ubicación actual
 - Sus intereses
