@@ -8,13 +8,13 @@ The devs have been cooking, and a new batch of osu!(lazer) updates has just exit
 
 ![](/wiki/shared/news/2024-08-17-osu-lazer-updates-august-16-2024/banner.jpg)
 
-With [COE](/wiki/Community/cavoe's_osu!_event) being over, now is the time to get back to our usual schedule. As always, you can check out a video digest of the update below!
+With [COE](/wiki/Community/cavoe's_osu!_event) being over, it's unfortunately time to get back to our usual schedule. As always, you can check out a video digest of the update below!
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/mlVwPrm0t2E" frameborder="0" allowfullscreen></iframe>
 </div>
 
-### Daily challenge changes
+## Daily challenge changes
 
 - **A new splash animation has been added when you enter the daily challenge.** [As suggested by a community member](https://discord.com/channels/188630481301012481/1097318920991559880/1266377968117354536) on the [osu! development Discord](https://discord.com/invite/ppy), a nice new splash screen will greet you whenever you enter the daily challenge!
 
@@ -30,7 +30,7 @@ With [COE](/wiki/Community/cavoe's_osu!_event) being over, now is the time to ge
 - **Notifications for the daily challenge have been tuned.** They will now only show up once per day, if the user logged in within 30 minutes of the map being changed.
 - **Small improvements have been made to the score breakdown graph.** The graph will now highlight the point in the graph aligning with your score, and the graph will only update while you are in the menu.
 
-### Editor changes
+## Editor changes
 
 - **Audio quality at slow playback speeds in the editor has been fixed.** The fix that was ported from osu!(stable) was not properly applied until now, playing back songs at 20%, 50%, and 75% speeds will now be less distorted. There are also suspicions that this caused audio offset issues for some users when playing with DT/HT, give osu!(lazer) another whirl and report your findings on the osu! development Discord!
 - **Object stats are now visible while placing an object.** In-depth statistics about any given object on the playfield are now available before its placed, including object type, timestamp, position and distance between its previous and next objects.
@@ -38,7 +38,7 @@ With [COE](/wiki/Community/cavoe's_osu!_event) being over, now is the time to ge
 - **You can now delete objects quickly with middle-click.** In osu!(stable) this was done with right-click, but due to the fact that this opens a dropdown menu in osu!(lazer), the quick delete has been moved to middle-click.
 - **Various changes to the editor UI have been made.** Smaller things such as breaks automatically ending before any object appears on the screen and not covering objects on the timeline, timing point always showing on the timing tab, highlighting objects via dragging in the timeline being easier, and hitsound changes automatically applying to all objects highlighted in the timeline.
 
-### Smaller changes
+## Smaller changes
 
 - **The osu!(lazer) BASS audio library has been updated.** Upon first look this might look irrelevant, but the devs suspect that this is the culprit behind the bug where [gameplay would go back a frame](https://github.com/ppy/osu/issues/26879) at random points. Once again, if you experienced this please try again with the latest update and leave feedback in the Discord server!
 - **The mod selection screen received some UX updates.** Scrolling outside the mod panels will now go through different panels instead of bringing up the volume wheels, the mod customise menu button will light up when an applicable mod is selected, and the menu itself will be opened as soon as you hover over it.
