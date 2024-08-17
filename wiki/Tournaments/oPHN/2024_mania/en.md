@@ -18,7 +18,7 @@ The **osu! Philippines Nationals 2024 - osu!mania 4K/7K** Tournament (***PHNM202
 | Qualifiers showcase | 2024-05-25 (13:00 UTC) |
 | Qualifiers | 2024-06-01/2024-06-02 |
 | Round of 16 | 2024-06-08/2024-06-09 |
-| Quarterfinals |  2024-06-15/2024-06-16 |
+| Quarterfinals | 2024-06-15/2024-06-16 |
 | Semifinals | 2024-06-22/2024-06-23 |
 | Finals | 2024-06-29/2024-06-30 |
 | Grand Finals | 2024-07-06/2024-07-07 |
@@ -51,8 +51,8 @@ The osu! Philippines Nationals 2024 - osu!mania 4K/7K tournament is ran by vario
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1911836)
 - Livestream
-	- [Twitch](https://www.twitch.tv/osuliveph)
-	- [YouTube](https://www.youtube.com/channel/UCkV4V1OVO6gOGxtH51glH0Q)
+  - [Twitch](https://www.twitch.tv/osuliveph)
+  - [YouTube](https://www.youtube.com/channel/UCkV4V1OVO6gOGxtH51glH0Q)
 - [VOD Archive](https://www.youtube.com/playlist?list=PLiCZoouucYhCuC2wW_bBXoT0pTCC76YN5)
 - [PHNM Discord server](https://discord.gg/KFn8rBxf42)
 - Challonge
@@ -67,8 +67,6 @@ The osu! Philippines Nationals 2024 - osu!mania 4K/7K tournament is ran by vario
 The following players qualified for the tournament:
 
 ### osu!mania 4K
-
-## Participants
 
 | Seed | Users |
 | :-- | :-- |
@@ -90,8 +88,6 @@ The following players qualified for the tournament:
 | 16 | ::{ flag=PH }:: [- Hago -](https://osu.ppy.sh/users/11923046) |
 
 ### osu!mania 7K
-
-## Participants
 
 | Seed | Users |
 | :-- | :-- |
@@ -151,7 +147,7 @@ This competition ended with the following podiums:
 - Long Notes
   1. [Kobaryo - My Music Playlist (Hytotl) \[Track 01 \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/1940386#mania/4011987)
   2. [cosMo@bousou-P - Tachyon (doctormango) \[HTPLN x doctormango's Epsilon-Delta \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/1863010#mania/3830912)
-  3. [Ashrount - AureoLe ~for Triumph~ (Akatsumi Chan) \[Akatsumi x Danny's Ragnarok\]](https://osu.ppy.sh/beatmapsets/1861302#mania/3826914)
+  3. [Ashrount - AureoLe \~for Triumph\~ (Akatsumi Chan) \[Akatsumi x Danny's Ragnarok\]](https://osu.ppy.sh/beatmapsets/1861302#mania/3826914)
   4. [Feryquitous feat. Aitsuki Nakuru - Kairikou (Cut Ver.) (KimMui) \[Ticle's along the loose knots (edit) 1.05x\]](https://osu.ppy.sh/beatmapsets/2098904#mania/4402735)
   5. [LeaF - Kyouki Ranbu (extended ver.) (Cut Ver.) (Polarin) \[1.05x\]](https://osu.ppy.sh/beatmapsets/1993584#mania/4142819)
 - Hybrid
@@ -244,7 +240,7 @@ This competition ended with the following podiums:
   5. [paraoka ft. MIROMU*STARDUST - Rainbow Archiver (0DZ0) \[Miraiya 1.1x (149bpm)\]](https://osu.ppy.sh/beatmapsets/1924559#mania/3973192)
 - Long Notes
   1. [Meddmia - Zettai Tekitai Mecha Kirai yaa (CrewK) \[Hachamecha\]](https://osu.ppy.sh/beatmapsets/1763576#mania/3609717)
-  2. [Plum - Timeline (Usagi_) \[Present\]](https://osu.ppy.sh/beatmapsets/2154032#mania/4538902)
+  2. [Plum - Timeline (Usagi\_) \[Present\]](https://osu.ppy.sh/beatmapsets/2154032#mania/4538902)
   3. [Lite Show Magic - Crack Traxxxx (-mint-) \[Panic\]](https://osu.ppy.sh/beatmapsets/1880339#mania/3871186)
 - Hybrid
   1. [Paul Bazooka - Meteo5cience (GADGET mix) (ph03n1x) \[Rocket Science (NATS 2024 Edit) 1.05x\]](https://osu.ppy.sh/beatmapsets/1843416#mania/4632013)
@@ -405,7 +401,6 @@ Saturday, 6 July 2024:
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Silicosis 2 ::{ flag=PH }:: | 0 | **7** | ::{ flag=PH }:: **Plana_** | [#1](https://osu.ppy.sh/community/matches/114567115) |
-
 
 Sunday, 7 July 2024:
 
@@ -638,6 +633,7 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
 In order to preserve the integrity of the tournament, all players are expected to observe proper conduct befitting a "national championship".
 
 Improper conduct includes, but is not limited to:
+
 - Any form of toxicity towards other players, staff, or spectators.
 - Unsportsmanlike behaviour, such as purposefully throwing matches or match fixing.
 - Deliberate misconduct.
