@@ -2,7 +2,7 @@
 
 *Véase también: [Guía de contribución de la osu! wiki](/wiki/osu!_wiki/Contribution_guide)*
 
-Este artículo describe aspectos técnicos o administrativos de la osu! wiki. También cubre los procedimientos de mantenimiento, que son necesarios para mantenerlo fresco, tal vez puedas ayudar con [uno de ellos](#rutinas). Para todas las discusiones relacionadas con la wiki, usa el canal `#osu-wiki` en el [servidor de Discord osu!](/wiki/Community/osu!_Discord_server).
+Este artículo describe aspectos técnicos o administrativos de la osu! wiki. También cubre los procedimientos de mantenimiento, que son necesarios para mantenerlo fresco, tal vez puedas ayudar con [uno de ellos](#rutinas). Para todas las discusiones relacionadas con la wiki, usa el canal `#osu-wiki` en el [servidor de Discord osu!](/wiki/Community/Discord_servers#servidor-oficial-de-osu!).
 
 ## Administradores
 
@@ -126,7 +126,7 @@ Algunas características no están directamente relacionadas con el sitio web de
 
 *Nota: el sitio web del [estado de la osu-wiki](https://osu.wiki/status/es) muestra una lista de todos los artículos que necesitan mantenimiento, desglosados por categoría.*
 
-La wiki depende del apoyo de la comunidad de osu!. Puedes ayudar a los mantenedores y otros contribuidores haciendo tu parte. Para obtener información sobre cómo hacerlo, lee la [guía de contribución](/wiki/osu!_wiki/Contribution_guide). Si en algún momento te sientes atascado, pide ayuda en el canal `#osu-wiki` del [servidor de Discord osu!](/wiki/Community/osu!_Discord_server).
+La wiki depende del apoyo de la comunidad de osu!. Puedes ayudar a los mantenedores y otros contribuidores haciendo tu parte. Para obtener información sobre cómo hacerlo, lee la [guía de contribución](/wiki/osu!_wiki/Contribution_guide). Si en algún momento te sientes atascado, pide ayuda en el canal `#osu-wiki` del [servidor de Discord osu!](/wiki/Community/Discord_servers#servidor-oficial-de-osu!).
 
 ### Traducciones
 
