@@ -8,7 +8,7 @@ The devs have been cooking, and a new batch of osu!(lazer) updates has just exit
 
 ![](/wiki/shared/news/2024-08-17-osu-lazer-updates-august-16-2024/banner.jpg)
 
-With [COE](/wiki/Community/cavoe's_osu!_event) being over, it's unfortunately time to get back to our usual schedule. As always, you can check out a video digest of the update below!
+With [COE](/wiki/Community/cavoe's_osu!_event) being over, it's unfortunately time to get back to our usual schedule. As always, you can check out a video digest of yesterday's update below!
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/mlVwPrm0t2E" frameborder="0" allowfullscreen></iframe>
