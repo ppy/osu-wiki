@@ -18,7 +18,7 @@ Para poder ofrecerle estos servicios, debemos habitualmente recoger, almacenar y
 
 Este documento busca describir que información recogemos en nuestra red y, en el uso de nuestros productos y servicios, cómo usamos esa información y que opciones le ofrecemos para controlar su información personal.
 
-Al usar nuestro servicio, confirma que ha leido y comprendido los [Terminos de servicio](/wiki/Legal/Terms) y esta política de privacidad, incluyendo cómo y porqué usamos su información y que su uso del servicio está sujeto a los Terminos de Servicio aplicables y esta Política de Privacidad. Si deseas que no recojamos o procesemos su información personal como se describen en este documento, tiene distintas opciones incluyendo la limitación de información que recogemos de Ud., o no usar la red, o nuestros Productos y Servicios.
+Al usar nuestro servicio, confirma que ha leído y comprendido los [Términos de servicio](/wiki/Legal/Terms) y esta política de privacidad, incluyendo cómo y porqué usamos su información y que su uso del servicio está sujeto a los Términos de Servicio aplicables y esta Política de Privacidad. Si deseas que no recojamos o procesemos su información personal como se describe en este documento, tiene distintas opciones, como limitar la información que recogemos de usted, o no usar la red, o nuestros Productos y Servicios.
 
 ## Información que recogemos
 
@@ -50,7 +50,7 @@ Todos los campos anteriores son visibles públicamente, pero pueden retirarse de
 
 Al publicar en los foros, participar en el chat o subir contenido a nuestro servicio, como puede ser un beatmap, estás expresamente publicando todo el contenido subido. En la mayoría de los casos, se puede editar y eliminar después de subirlo bajo su propia discreción, pero en algunas ocasiones, esta funcionalidad puede estar desactivada para mantener la relevancia y la prestación del servicio a nuestra base de usuarios.
 
-Por ejemplo, si sube un beatmap y está «clasificado», este se convierte en el fundamento para la base de usuarios en general en el que conseguir puntuaciones. Llegados a este punto, la posibilidad de eliminar el contenido será revocada.
+Por ejemplo, si sube un beatmap y se «clasifica», este se convierte en una base para que los usuarios en general obtengan puntuaciones. Llegados a este punto, la posibilidad de eliminar el contenido será desactivada.
 
 ### Al iniciar sesión en el cliente del juego
 
