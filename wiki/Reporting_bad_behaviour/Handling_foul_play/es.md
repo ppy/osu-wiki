@@ -16,7 +16,7 @@ Cada usuario solo puede usar **una** cuenta. Crear otras cuentas está estrictam
 
 ## ¿Qué se considera hacer trampa?
 
-Las [reglas](/wiki/Rules) indican que cualquier forma de manipulación del cliente, como el manejo indebido de las puntuaciones, secuencias de full combo habilitadas por macros, autoapuntado y cualquier otra cosa que juegue por el jugador, se considera hacer trampa.
+Las [reglas](/wiki/Rules) indican que cualquier forma de manipulación del cliente, como el manejo indebido de las puntuaciones, secuencias de combo completo habilitadas por macros, autoapuntado y cualquier otra cosa que juegue por el jugador, se considera hacer trampa.
 
 Esta regla se aplica solo con una infracción. Los tramposos serán restringidos en su primera infracción por tiempo indefinido. El [equipo de soporte](/wiki/People/Account_support_team) puede decidir retirar la restricción si su apelación es aceptada.
 
