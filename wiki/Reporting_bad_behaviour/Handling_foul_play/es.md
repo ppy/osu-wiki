@@ -24,7 +24,7 @@ Esta es una regla de una falta. Los tramposos serán restringidos en su primera 
 
 osu! usa métricas automatizadas combinadas con confirmación manual. Si no sabes por qué estás restringido, contacta con [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
-## ¡Prueba que yo/el/ella estaba haciendo trampas! ¡Cuéntanos cómo lo sabes!
+## ¡Prueba que yo/él/ella estaba haciendo trampas! ¡Cuéntanos cómo lo sabes!
 
 El equipo de soporte no te proporcionará «pruebas» sobre restricciones, pero todas se hacen con sospechas con buena base. Los usuarios normales son extremadamente poco suceptibles de ser marcados por dichas acciones.
 
