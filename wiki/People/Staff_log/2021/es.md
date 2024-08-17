@@ -580,7 +580,7 @@ En este registro se usan abreviaturas para los grupos de usuarios:
 - 29/12/2021: [Sanyi](https://osu.ppy.sh/users/7496029) fue movido de los **BN provisionales** a los **BN**
 - 29/12/2021: [Fisky](https://osu.ppy.sh/users/8352623) fue movido de los **BN provisionales** a los **BN**
 - 29/12/2021: [Esutarosa](https://osu.ppy.sh/users/12024753) fue movido de los **BN provisionales** a los **BN**
-- 29/12/2021: [Aakki](https://osu.ppy.sh/users/11077540) form **Probationary BN** to **BN**
+- 29/12/2021: [Aakki](https://osu.ppy.sh/users/11077540) fue movido de los **BN provisionales** a los **BN**
 
 #### Eliminaciones
 

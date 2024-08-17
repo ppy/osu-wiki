@@ -17,7 +17,7 @@
 
 ## Abril
 
-- [Skyripper](https://osu.ppy.sh/users/31803) fue añadido al Beatmap Approval Team (Moderation) (21/4/2009)
+- [Skyripper](https://osu.ppy.sh/users/31803) fue añadido al Beatmap Approval Team (21/4/2009)
 
 ## Mayo
 
@@ -27,7 +27,7 @@
 ## Junio
 
 - [strager](https://osu.ppy.sh/users/64678) fue añadido al Beatmap Approval Team (12/6/2009)
-- [An64fan](https://osu.ppy.sh/users/38836) fue movido del Beatmap Approval Team a osu! Alumni (15/6/2009)
+- [An64fan](https://osu.ppy.sh/users/38836) fue movido del Beatmap Approval Team a los osu! Alumni (15/6/2009)
 - [Saturos-fangirl](https://osu.ppy.sh/users/11874) fue añadido al Beatmap Approval Team (17/6/2009)
 
 ## Julio
@@ -39,11 +39,11 @@
 - [ztrot](https://osu.ppy.sh/users/6347) fue añadido al Beatmap Approval Team (21/8/2009)
 - [mrtn](https://osu.ppy.sh/users/7013) fue añadido al Beatmap Approval Team (21/8/2009)
 - [tieff](https://osu.ppy.sh/users/89619) fue añadido al Beatmap Approval Team (21/8/2009)
-- [buraimaster1234](https://osu.ppy.sh/users/5772) fue movido del Beatmap Approval Team a osu! Alumni (24/8/2009)
+- [buraimaster1234](https://osu.ppy.sh/users/5772) fue movido del Beatmap Approval Team a los osu! Alumni (24/8/2009)
 
 ## Septiembre
 
-- [Mogsworth](https://osu.ppy.sh/users/4018) fue movido del Beatmap Approval Team a osu! Alumni (30/9/2009)
+- [Mogsworth](https://osu.ppy.sh/users/4018) fue movido del Beatmap Approval Team a los osu! Alumni (30/9/2009)
 
 ## Octubre
 
@@ -56,7 +56,7 @@
 
 - [Pasonia](https://osu.ppy.sh/users/43345) fue movido del Beatmap Approval Team a BATmanager (10/11/2009)
 - [Ephemeral](https://osu.ppy.sh/users/102335) fue añadido al Beatmap Approval Team (30/11/2009)
-- [mtmcl](https://osu.ppy.sh/users/5960) fue movido de osu! Alumni al Beatmap Approval Team (30/11/2009)
+- [mtmcl](https://osu.ppy.sh/users/5960) fue movido de los osu! Alumni al Beatmap Approval Team (30/11/2009)
 
 ## Diciembre
 
@@ -85,4 +85,4 @@
 - [Lizbeth](https://osu.ppy.sh/users/21970) fue añadido al Mapping Assistance Team (27/12/2009)
 - [Dangaard](https://osu.ppy.sh/users/19488) fue añadido al Mapping Assistance Team (27/12/2009)
 - [-SiN-](https://osu.ppy.sh/users/10560) fue añadido al Mapping Assistance Team (27/12/2009)
-- [vytalibus](https://osu.ppy.sh/users/10028) fue movido del Beatmap Approval Team a osu! Alumni (31/12/2009)
+- [vytalibus](https://osu.ppy.sh/users/10028) fue movido del Beatmap Approval Team a los osu! Alumni (31/12/2009)

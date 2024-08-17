@@ -18,8 +18,8 @@
 
 ## Mayo
 
-- [Larto](https://osu.ppy.sh/users/12328) fue movido del Beatmap Approval Team a osu! Alumni (6/5/2011)
-- [Mafiamaster](https://osu.ppy.sh/users/17695) fue movido del Beatmap Approval Team a osu! Alumni (14/5/2011)
+- [Larto](https://osu.ppy.sh/users/12328) fue movido del Beatmap Approval Team a los osu! Alumni (6/5/2011)
+- [Mafiamaster](https://osu.ppy.sh/users/17695) fue movido del Beatmap Approval Team a los osu! Alumni (14/5/2011)
 - [Garven](https://osu.ppy.sh/users/244216) fue movido del Mapping Assistance Team al Beatmap Approval Team (20/5/2011)
 - [jericho2442](https://osu.ppy.sh/users/88904) fue movido del Mapping Assistance Team al Beatmap Approval Team (20/5/2011)
 - [Gonzvlo](https://osu.ppy.sh/users/237733) fue añadido al Mapping Assistance Team (20/5/2011)
@@ -30,7 +30,7 @@
 
 ## Septiembre
 
-- [mtmcl](https://osu.ppy.sh/users/5960) fue movido del Beatmap Appreciation Team a osu! Alumni (11/9/2011)
+- [mtmcl](https://osu.ppy.sh/users/5960) fue movido del Beatmap Appreciation Team a los osu! Alumni (11/9/2011)
 - [Krisom](https://osu.ppy.sh/users/99269) fue añadido al Beatmap Appreciation Team (17/9/2011)
 - [RandomJibberish](https://osu.ppy.sh/users/157879) fue añadido al Beatmap Appreciation Team (17/9/2011)
 - [Sakura Hana](https://osu.ppy.sh/users/289422) fue movido del Mapping Assistance Team al Beatmap Appreciation Team (17/9/2011)
@@ -44,8 +44,8 @@
 
 ## Octubre
 
-- [Card N'FoRcE](https://osu.ppy.sh/users/3936) fue movido del Beatmap Appreciation Team a osu! Alumni (3/10/2011)
-- [deepsea](https://osu.ppy.sh/users/7824) fue movido del Global Mod Team a osu! Alumni (10/10/2011)
+- [Card N'FoRcE](https://osu.ppy.sh/users/3936) fue movido del Beatmap Appreciation Team a los osu! Alumni (3/10/2011)
+- [deepsea](https://osu.ppy.sh/users/7824) fue movido del Global Mod Team a los osu! Alumni (10/10/2011)
 
 ## Diciembre
 
@@ -58,4 +58,4 @@
 - [Odaril](https://osu.ppy.sh/users/113005) fue movido del Mapping Assistance Team al Beatmap Appreciation Team (8/12/2011)
 - [Charles445](https://osu.ppy.sh/users/85000) fue añadido al Mapping Assistance Team (8/12/2011)
 - [Agnes](https://osu.ppy.sh/users/136982) volvió a ser añadido al Mapping Assistance Team (8/12/2011)
-- [Mogsy](https://osu.ppy.sh/users/4018) fue movido del Beatmap Appreciation Team a osu! Alumni (15/12/2011)
+- [Mogsy](https://osu.ppy.sh/users/4018) fue movido del Beatmap Appreciation Team a los osu! Alumni (15/12/2011)

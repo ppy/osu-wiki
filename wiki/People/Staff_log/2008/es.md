@@ -12,7 +12,7 @@
 
 ## Febrero
 
-- [MaxwellDemon](https://osu.ppy.sh/users/4254) fue movido del Beatmap Approval Team a osu! Alumni (16/2/2008)
+- [MaxwellDemon](https://osu.ppy.sh/users/4254) fue movido del Beatmap Approval Team a los osu! Alumni (16/2/2008)
 - [James](https://osu.ppy.sh/users/5728) fue añadido al Beatmap Approval Team (21/2/2008)
 - [LuigiHann](https://osu.ppy.sh/users/1079) fue añadido al Beatmap Approval Team (21/2/2008)
 
@@ -60,5 +60,5 @@
 
 ## Diciembre
 
-- [James](https://osu.ppy.sh/users/5728) fue movido del Beatmap Approval Team a osu! Alumni (1/12/2008)
+- [James](https://osu.ppy.sh/users/5728) fue movido del Beatmap Approval Team a los osu! Alumni (1/12/2008)
 - [foulcoon](https://osu.ppy.sh/users/19883) fue añadido al Beatmap Approval Team (19/12/2008)

@@ -612,7 +612,7 @@ En este registro se usan abreviaturas para los grupos de usuarios:
 - 13/12/2022: [Feerum](https://osu.ppy.sh/users/4815717) fue añadido a los **BN provisionales**
 - 14/12/2022: [ArtZone](https://osu.ppy.sh/users/15548034) fue añadido a los **BN provisionales**
 - 19/12/2022: [Smoke](https://osu.ppy.sh/users/10726630) fue añadido a los **BN provisionales**
-- 22/12/2022: [Rocma](https://osu.ppy.sh/users/566276) to **Probationay BN**
+- 22/12/2022: [Rocma](https://osu.ppy.sh/users/566276) fue añadido a los **BN provisionales**
 - 22/12/2022: [browiec](https://osu.ppy.sh/users/9426712) fue añadido a los **BN provisionales**
 - 24/12/2022: [NexusQI](https://osu.ppy.sh/users/13822800) fue añadido a los **BN**
 - 24/12/2022: [-Rei](https://osu.ppy.sh/users/8200707) fue añadido a los **BN provisionales**

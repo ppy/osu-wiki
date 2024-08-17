@@ -14,7 +14,7 @@
 
 ### Nuevas adiciones al BAT
 
-Todos los usuarios listados a continuación fueron añadidos a partir del 3 de enero de 2015.
+Todos los usuarios listados a continuación fueron añadidos el 3 de enero de 2015.
 
 - [[ S a k u r a ]](https://osu.ppy.sh/users/3653042)
 - [Andrea](https://osu.ppy.sh/users/33599)
@@ -70,7 +70,7 @@ Todos los usuarios listados a continuación fueron añadidos a partir del 3 de e
 
 ### Adiciones a los Beatmap Nominators
 
-Todos los usuarios listados a continuación fueron añadidos a partir del 6 de febrero de 2015.
+Todos los usuarios listados a continuación fueron añadidos el 6 de febrero de 2015.
 
 - [Vhy](https://osu.ppy.sh/users/2083612)
 - [tutuhaha](https://osu.ppy.sh/users/546991)
@@ -108,7 +108,7 @@ Todos los usuarios listados a continuación fueron añadidos a partir del 6 de f
 
 ### Adiciones a los Beatmap Nominators
 
-Todos los usuarios listados a continuación fueron añadidos a partir del 3 de marzo de 2015.
+Todos los usuarios listados a continuación fueron añadidos el 3 de marzo de 2015.
 
 - [Static Noise Bird](https://osu.ppy.sh/users/826132)
 - [Lally](https://osu.ppy.sh/users/1262490)
@@ -145,7 +145,7 @@ Todos los usuarios listados a continuación fueron añadidos a partir del 3 de m
 
 ### Adiciones a los Beatmap Nominators
 
-Todos los usuarios listados a continuación fueron añadidos a partir del 6 de abril de 2015.
+Todos los usuarios listados a continuación fueron añadidos el 6 de abril de 2015.
 
 - [ByBy\_ChAn](https://osu.ppy.sh/users/3436326)
 - [Blocko](https://osu.ppy.sh/users/4075092)
@@ -161,7 +161,7 @@ Todos los usuarios listados a continuación fueron añadidos a partir del 6 de a
 
 ### Adiciones a los Beatmap Nominators
 
-Todos los usuarios listados a continuación fueron añadidos a partir del 11 de mayo de 2015.
+Todos los usuarios listados a continuación fueron añadidos el 11 de mayo de 2015.
 
 - [JUDYDANNY](https://osu.ppy.sh/users/1165475)
 - Kagamine Ren
@@ -186,7 +186,7 @@ Todos los usuarios listados a continuación fueron añadidos a partir del 11 de 
 
 ### Adiciones a los Beatmap Nominators
 
-Todos los usuarios listados a continuación fueron añadidos a partir del 15 de junio de 2015.
+Todos los usuarios listados a continuación fueron añadidos el 15 de junio de 2015.
 
 - [- Magic Bomb -](https://osu.ppy.sh/users/3071175)
 - Alex Li
@@ -203,7 +203,7 @@ Todos los usuarios listados a continuación fueron añadidos a partir del 15 de 
 
 ### Adiciones a los Beatmap Nominators
 
-Todos los usuarios listados a continuación fueron añadidos a partir del 19 de julio de 2015.
+Todos los usuarios listados a continuación fueron añadidos el 19 de julio de 2015.
 
 - [Mako Sakata](https://osu.ppy.sh/users/1857063)
 - [OzzyOzrock](https://osu.ppy.sh/users/465153)
@@ -242,7 +242,7 @@ Todos los usuarios listados a continuación fueron añadidos a partir del 19 de 
 
 ### Adiciones a los Beatmap Nominators
 
-Todos los usuarios listados a continuación fueron añadidos a partir del 2 de octubre de 2015.
+Todos los usuarios listados a continuación fueron añadidos el 2 de octubre de 2015.
 
 - [alienflybot](https://osu.ppy.sh/users/636114)
 - [HappyRocket88](https://osu.ppy.sh/users/4442006)

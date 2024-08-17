@@ -21,7 +21,7 @@
 - [Roddie](https://osu.ppy.sh/users/121337) fue añadido al Mapping Assistance Team (6/1/2012)
 - [Shiirn](https://osu.ppy.sh/users/465126) fue añadido al Mapping Assistance Team (6/1/2012)
 - [wmfchris](https://osu.ppy.sh/users/7401) fue añadido al Mapping Assistance Team (6/1/2012)
-- [Loginer](https://osu.ppy.sh/users/819) fue movido del Beatmap Appreciation Team a osu! Alumni (16/1/2012)
+- [Loginer](https://osu.ppy.sh/users/819) fue movido del Beatmap Appreciation Team a los osu! Alumni (16/1/2012)
 
 ## Febrero
 
@@ -38,12 +38,12 @@
 
 ## Abril
 
-- [abalee](https://osu.ppy.sh/users/13103) fue movido del Beatmap Appreciation Team a osu! Alumni (29/4/2012)
+- [abalee](https://osu.ppy.sh/users/13103) fue movido del Beatmap Appreciation Team a los osu! Alumni (29/4/2012)
 
 ## Mayo
 
-- [Andrea](https://osu.ppy.sh/users/33599) fue movido del Beatmap Appreciation Team a osu! Alumni (2/5/2012)
-- [Gonzvlo](https://osu.ppy.sh/users/237733) fue movido del Beatmap Appreciation Team a osu! Alumni (12/5/2012)
+- [Andrea](https://osu.ppy.sh/users/33599) fue movido del Beatmap Appreciation Team a los osu! Alumni (2/5/2012)
+- [Gonzvlo](https://osu.ppy.sh/users/237733) fue movido del Beatmap Appreciation Team a los osu! Alumni (12/5/2012)
 - [Roddie](https://osu.ppy.sh/users/121337) volvió a ser añadido al Mapping Assistance Team (12/5/2012)
 - [Inamaru](https://osu.ppy.sh/users/76382) fue añadido al Global Mod Team (12/5/2012)
 - [Kawayi Rika](https://osu.ppy.sh/users/596298) fue añadido al Mapping Assistance Team (12/5/2012)
@@ -67,33 +67,33 @@
 - [Loctav](https://osu.ppy.sh/users/71366) fue añadido al Global Mod Team (20/5/2012)
 - [Galkan](https://osu.ppy.sh/users/169570) fue añadido al Global Mod Team (20/5/2012)
 - [TicClick](https://osu.ppy.sh/users/672931) fue añadido al Global Mod Team (20/5/2012)
-- [Odaril](https://osu.ppy.sh/users/113005) fue movido del Beatmap Appreciation Team a osu! Alumni (25/5/2012)
+- [Odaril](https://osu.ppy.sh/users/113005) fue movido del Beatmap Appreciation Team a los osu! Alumni (25/5/2012)
 
 ## Junio
 
-- [Skyripper](https://osu.ppy.sh/users/31803) fue movido de osu! Alumni al Global Mod Team (2/6/2012)
+- [Skyripper](https://osu.ppy.sh/users/31803) fue movido de los osu! Alumni al Global Mod Team (2/6/2012)
 - [Saturos-fangirl](https://osu.ppy.sh/users/11874) volvió a ser añadido al Beatmap Appreciation Team (2/6/2012)
-- [Odaril](https://osu.ppy.sh/users/113005) fue movido de osu! Alumni al Beatmap Appreciation Team (26/6/2012)
+- [Odaril](https://osu.ppy.sh/users/113005) fue movido de los osu! Alumni al Beatmap Appreciation Team (26/6/2012)
 
 ## Julio
 
-- [jericho2442](https://osu.ppy.sh/users/88904) fue movido del Beatmap Appreciation Team a osu! Alumni (1/7/2012)
+- [jericho2442](https://osu.ppy.sh/users/88904) fue movido del Beatmap Appreciation Team a los osu! Alumni (1/7/2012)
 - [Rukarioman](https://osu.ppy.sh/users/110372) fue retirado del Mapping Assistance Team (11/7/2012)
-- [Agnes](https://osu.ppy.sh/users/136982) fue movido del Beatmap Appreciation Team a osu! Alumni (15/7/2012)
+- [Agnes](https://osu.ppy.sh/users/136982) fue movido del Beatmap Appreciation Team a los osu! Alumni (15/7/2012)
 - [Roddie](https://osu.ppy.sh/users/121337) fue retirado del Mapping Assistance Team (24/7/2012)
 - [MMzz](https://osu.ppy.sh/users/128993) fue añadido al Mapping Assistance Team (29/7/2012)
 
 ## Agosto
 
-- [Dangaard](https://osu.ppy.sh/users/19488) fue movido del Beatmap Appreciation Team a osu! Alumni (6/8/2012)
+- [Dangaard](https://osu.ppy.sh/users/19488) fue movido del Beatmap Appreciation Team a los osu! Alumni (6/8/2012)
 - [\[Delirium\]](https://osu.ppy.sh/users/519032) fue añadido al Global Mod Team (10/8/2012)
-- [Odaril](https://osu.ppy.sh/users/113005) fue movido del Beatmap Appreciation Team a osu! Alumni (12/8/2012)
+- [Odaril](https://osu.ppy.sh/users/113005) fue movido del Beatmap Appreciation Team a los osu! Alumni (12/8/2012)
 - [Niva](https://osu.ppy.sh/users/197805) fue movido del Mapping Assistance Team al Beatmap Appreciation Team (13/8/2012)
 - [Sync](https://osu.ppy.sh/users/806921) fue movido del Mapping Assistance Team al Beatmap Appreciation Team (13/8/2012)
-- [Beuchi-chan](https://osu.ppy.sh/users/67192) fue movido del Global Mod Team a osu! Alumni (17/8/2012)
+- [Beuchi-chan](https://osu.ppy.sh/users/67192) fue movido del Global Mod Team a los osu! Alumni (17/8/2012)
 - [Lolicore Flandre](https://osu.ppy.sh/users/447818) fue añadido al Global Mod Team (21/8/2012)
 - [Blue Dragon](https://osu.ppy.sh/users/19048) fue retirado del Beatmap Appreciation Team (23/8/2012)
-- [narakucrimson](https://osu.ppy.sh/users/287468) fue movido del Beatmap Appreciation Team a osu! Alumni (24/8/2012)
+- [narakucrimson](https://osu.ppy.sh/users/287468) fue movido del Beatmap Appreciation Team a los osu! Alumni (24/8/2012)
 - [Darksonic](https://osu.ppy.sh/users/570042) fue añadido al Global Mod Team (26/8/2012)
 
 ## Septiembre
@@ -105,7 +105,7 @@
 - [Armin](https://osu.ppy.sh/users/105902) fue movido del Mapping Assistance Team al Beatmap Appreciation Team (1/9/2012)
 - [NatsumeRin](https://osu.ppy.sh/users/151679) fue movido del Mapping Assistance Team al Beatmap Appreciation Team (1/9/2012)
 - [Jarby](https://osu.ppy.sh/users/25615) volvió a ser añadido al Mapping Assistance Team (29/9/2012)
-- [Gens](https://osu.ppy.sh/users/23062) fue movido del Beatmap Appreciation Team a osu! Alumni (29/9/2012)
+- [Gens](https://osu.ppy.sh/users/23062) fue movido del Beatmap Appreciation Team a los osu! Alumni (29/9/2012)
 
 ## Octubre
 
@@ -121,7 +121,7 @@
 
 - [Kurai](https://osu.ppy.sh/users/77089) fue añadido al Global Mod Team (1/11/2012)
 - [TouhouNerd](https://osu.ppy.sh/users/396056) fue añadido al Global Mod Team (9/11/2012)
-- [Doomsday](https://osu.ppy.sh/users/18983) fue movido del Beatmap Appreciation Team a osu! Alumni (12/11/2012)
+- [Doomsday](https://osu.ppy.sh/users/18983) fue movido del Beatmap Appreciation Team a los osu! Alumni (12/11/2012)
 - [theowest](https://osu.ppy.sh/users/60604) fue añadido al Mapping Assistance Team (15/11/2012)
 - [Roddie](https://osu.ppy.sh/users/121337) volvió a ser añadido Mapping Assistance Team (15/11/2012)
 - [kingking9](https://osu.ppy.sh/users/1277097) fue añadido al Chat Moderators (19/11/2012)

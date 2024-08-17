@@ -1,6 +1,6 @@
 # Registro del personal de 2020
 
-En este registro se usan abreviaturas de los grupos de usuarios:
+En este registro se usan abreviaturas para los grupos de usuarios:
 
 - **BN:** [Beatmap Nominators](/wiki/People/Beatmap_Nominators)
 - **GMT:** [Global Moderation Team](/wiki/People/Global_Moderation_Team)

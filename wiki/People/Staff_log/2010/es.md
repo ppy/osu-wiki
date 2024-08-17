@@ -4,14 +4,14 @@
 
 ## Enero
 
-- [James](https://osu.ppy.sh/users/5728) fue movido de osu! Alumni al Beatmap Approval Team (25/1/2010)
-- [DawnII](https://osu.ppy.sh/users/8399) fue movido de osu! Alumni al Beatmap Approval Team (26/1/2010)
-- [kingcobra52](https://osu.ppy.sh/users/9934) fue movido de osu! Alumni al Beatmap Approval Team (27/1/2010)
+- [James](https://osu.ppy.sh/users/5728) fue movido de los osu! Alumni al Beatmap Approval Team (25/1/2010)
+- [DawnII](https://osu.ppy.sh/users/8399) fue movido de los osu! Alumni al Beatmap Approval Team (26/1/2010)
+- [kingcobra52](https://osu.ppy.sh/users/9934) fue movido de los osu! Alumni al Beatmap Approval Team (27/1/2010)
 
 ## Febrero
 
 - [yaya](https://osu.ppy.sh/users/50163) fue añadido al Beatmap Approval Team (1/2/2010)
-- [Sinistro](https://osu.ppy.sh/users/5530) fue movido del Beatmap Approval Team a osu! Alumni (8/2/2010)
+- [Sinistro](https://osu.ppy.sh/users/5530) fue movido del Beatmap Approval Team a los osu! Alumni (8/2/2010)
 - [DJPop](https://osu.ppy.sh/users/2363) fue añadido al Mapping Assistance Team (26/2/2010)
 - [rust45](https://osu.ppy.sh/users/117369) fue añadido al Mapping Assistance Team (26/2/2010)
 - [NoHitter](https://osu.ppy.sh/users/124455) fue añadido al Mapping Assistance Team (26/2/2010)
@@ -35,7 +35,7 @@
 
 ## Mayo
 
-- [awp](https://osu.ppy.sh/users/2650) fue movido del Beatmap Approval Team a osu! Alumni (12/5/2010)
+- [awp](https://osu.ppy.sh/users/2650) fue movido del Beatmap Approval Team a los osu! Alumni (12/5/2010)
 - [Shinxyn](https://osu.ppy.sh/users/13996) fue movido del Mapping Assistance Team al Beatmap Approval Team (23/5/2010)
 - [Gens](https://osu.ppy.sh/users/23062) fue movido del Mapping Assistance Team al Beatmap Approval Team (23/5/2010)
 - [Lybydose](https://osu.ppy.sh/users/64501) fue movido del Mapping Assistance Team al Beatmap Approval Team (23/5/2010)
@@ -44,12 +44,12 @@
 
 ## Junio
 
-- [ztrot](https://osu.ppy.sh/users/6347) fue movido del Beatmap Approval Team a osu! Alumni (19/6/2010)
-- [Takuma](https://osu.ppy.sh/users/43677) fue movido del Beatmap Approval Team a osu! Alumni (24/6/2010)
-- [Rolled](https://osu.ppy.sh/users/5243) fue movido de osu! Alumni al Beatmap Approval Team (25/6/2010)
-- [Alace](https://osu.ppy.sh/users/25993) fue movido de osu! Alumni al Beatmap Approval Team (25/6/2010)
-- [ztrot](https://osu.ppy.sh/users/6347) fue movido de osu! Alumni al Beatmap Approval Team (25/6/2010)
-- [Mogsworth](https://osu.ppy.sh/users/4018) fue movido de osu! Alumni al Beatmap Approval Team (25/6/2010)
+- [ztrot](https://osu.ppy.sh/users/6347) fue movido del Beatmap Approval Team a los osu! Alumni (19/6/2010)
+- [Takuma](https://osu.ppy.sh/users/43677) fue movido del Beatmap Approval Team a los osu! Alumni (24/6/2010)
+- [Rolled](https://osu.ppy.sh/users/5243) fue movido de los osu! Alumni al Beatmap Approval Team (25/6/2010)
+- [Alace](https://osu.ppy.sh/users/25993) fue movido de los osu! Alumni al Beatmap Approval Team (25/6/2010)
+- [ztrot](https://osu.ppy.sh/users/6347) fue movido de los osu! Alumni al Beatmap Approval Team (25/6/2010)
+- [Mogsworth](https://osu.ppy.sh/users/4018) fue movido de los osu! Alumni al Beatmap Approval Team (25/6/2010)
 
 ## Julio
 
@@ -57,7 +57,7 @@
 
 ## Agosto
 
-- [Takuma](https://osu.ppy.sh/users/43677) fue movido de osu! Alumni al Beatmap Approval Team (4/8/2010)
+- [Takuma](https://osu.ppy.sh/users/43677) fue movido de los osu! Alumni al Beatmap Approval Team (4/8/2010)
 
 ## Septiembre
 
@@ -65,12 +65,12 @@
 - [Odaril](https://osu.ppy.sh/users/113005) fue añadido al Mapping Assistance Team (6/9/2010)
 - [Mashley](https://osu.ppy.sh/users/41481) fue añadido al Mapping Assistance Team (14/9/2010)
 - [Jarby](https://osu.ppy.sh/users/25615) fue añadido al Mapping Assistance Team (22/9/2010)
-- [Zerostarry](https://osu.ppy.sh/users/3480) fue movido de osu! Alumni al Beatmap Approval Team (25/9/2010)
+- [Zerostarry](https://osu.ppy.sh/users/3480) fue movido de los osu! Alumni al Beatmap Approval Team (25/9/2010)
 - [Sakura Hana](https://osu.ppy.sh/users/289422) fue añadido al Mapping Assistance Team (29/9/2010)
 
 ## Noviembre
 
-- [Kharl](https://osu.ppy.sh/users/452) fue movido de osu! Alumni al Global Mod Team (23/11/2010)
+- [Kharl](https://osu.ppy.sh/users/452) fue movido de los osu! Alumni al Global Mod Team (23/11/2010)
 
 ## Diciembre
 

@@ -580,7 +580,7 @@ Abbreviations for user groups are used throughout this log:
 - 2021-12-29: Moved [Sanyi](https://osu.ppy.sh/users/7496029) from **Probationary BN** to **BN**
 - 2021-12-29: Moved [Fisky](https://osu.ppy.sh/users/8352623) from **Probationary BN** to **BN**
 - 2021-12-29: Moved [Esutarosa](https://osu.ppy.sh/users/12024753) from **Probationary BN** to **BN**
-- 2021-12-29: Moved [Aakki](https://osu.ppy.sh/users/11077540) form **Probationary BN** to **BN**
+- 2021-12-29: Moved [Aakki](https://osu.ppy.sh/users/11077540) from **Probationary BN** to **BN**
 
 #### Removals
 
