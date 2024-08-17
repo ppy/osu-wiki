@@ -75,7 +75,7 @@ El equipo de soporte espera que los usuarios presenten un historial completo de 
 
 *Nos puede tomar tiempo responder a tu apelación, pero ninguna apelación será ignorada.*
 
-## ¿Qué puedo hacer si he infringido las reglas?
+## ¿Qué puedo hacer si he roto las reglas?
 
 Si has infringido las reglas y quieres confesar, ponte en contacto con [accounts@ppy.sh](mailto:accounts@ppy.sh) y explica lo que has hecho. La honestidad es muy apreciada y es probable que esto no resulte en un castigo permanente.
 
