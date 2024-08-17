@@ -4,7 +4,7 @@ legal: true
 
 # Política de privacidad de osu!
 
-Actualizado por última vez el 16 de abril de 2021. [Comprueba el historial de cambios aquí](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
+Actualizado por última vez el 16 de abril de 2021. [Véase el historial de cambios aquí](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
 
 En adición a esta política, por favor asegúrese también de visitar y entender nuestros [Términos de servicio](/wiki/Legal/Terms).
 
@@ -16,15 +16,15 @@ osu! ofrece una amplia variedad de servicios a usuarios de casi todos los paíse
 
 Para poder ofrecerle estos servicios, debemos habitualmente recoger, almacenar y transferir información personal. Nos esforzamos por ser lo más transparentes posible en todos los aspectos relacionados con la gestión de osu!, y esta política de privacidad nos debería traer aún más cerca a ese objetivo.
 
-Este documento busca describir que información recogemos en nuestra red y, en el uso de nuestros productos y servicios, cómo usamos esa información y que opciones le ofrecemos para controlar su información personal.
+Este documento busca describir que información recogemos en nuestra red y, en el uso de nuestros productos y servicios, cómo usamos esa información y qué opciones le ofrecemos para controlar su información personal.
 
-Al usar nuestro servicio, confirma que ha leído y comprendido los [Términos de servicio](/wiki/Legal/Terms) y esta política de privacidad, incluyendo cómo y porqué usamos su información y que su uso del servicio está sujeto a los Términos de Servicio aplicables y esta Política de Privacidad. Si deseas que no recojamos o procesemos su información personal como se describe en este documento, tiene distintas opciones, como limitar la información que recogemos de usted, o no usar la red, o nuestros Productos y Servicios.
+Al usar nuestro servicio, confirma que ha leído y comprendido los [Términos de servicio](/wiki/Legal/Terms) y esta política de privacidad, incluyendo cómo y por qué usamos su información y que su uso del servicio está sujeto a los Términos de Servicio aplicables y esta Política de Privacidad. Si deseas que no recojamos o procesemos su información personal como se describe en este documento, tiene distintas opciones, como limitar la información que recogemos de usted, o no usar la red, o nuestros Productos y Servicios.
 
 ## Información que recogemos
 
 ### Al registrar una cuenta
 
-Mientras que una limitada parte de la funcionalidad se puede disfrutar sin una cuenta, es normalmente necesario que un usuario registre una cuenta para experimentar ciertos servicios. Cuando registra una cuenta, almacenamos
+Si bien es posible acceder a ciertas funciones sin tener una cuenta, a menudo es necesario que el usuario registre una cuenta poder acceder a ciertos servicios. Al registrar una cuenta, almacenamos
 
 - Su nombre de usuario
 - Su dirección de correo electrónico
@@ -35,7 +35,7 @@ Esta información personal, con la excepción de su nombre de usuario y país, n
 
 ### Al actualizar su perfil
 
-Cuando complete su perfil de usuario (el cual es publicamente visible para el resto de usuarios), puede proporcionar opcionalmente
+Al crear su perfil de usuario (que es visible públicamente para todos los demás usuarios), puede proporcionar opcionalmente
 
 - Su ubicación actual
 - Sus intereses
@@ -48,7 +48,7 @@ Todos los campos anteriores son visibles públicamente, pero pueden retirarse de
 
 ### Al subir contenido enviado por el usuario
 
-Al publicar en los foros, participar en el chat o subir contenido a nuestro servicio, como puede ser un beatmap, estás expresamente publicando todo el contenido subido. En la mayoría de los casos, se puede editar y eliminar después de subirlo bajo su propia discreción, pero en algunas ocasiones, esta funcionalidad puede estar desactivada para mantener la relevancia y la prestación del servicio a nuestra base de usuarios.
+Al publicar en los foros, participar en el chat o subir contenido a nuestro servicio, como un beatmap, usted está haciendo público expresamente todo el contenido subido. En la mayoría de los casos, puede editarse y borrarse a su discreción, pero en algunas ocasiones, esta función puede desactivarse para mantener la relevancia y la prestación del servicio a nuestra base de usuarios.
 
 Por ejemplo, si sube un beatmap y se «clasifica», este se convierte en una base para que los usuarios en general obtengan puntuaciones. Llegados a este punto, la posibilidad de eliminar el contenido será desactivada.
 
@@ -62,27 +62,27 @@ El principal objetivo de esto es mantener un sistema de clasificación justo y a
 
 Al completar una sesión de juego (completar o fallar un mapa), los detalles de su rendimiento se enviarán automaticamente a nuestro servidor. Una parte de la puntuación que se envía incluyen los datos de la repetición del juego y podrán mostrarse públicamente en las clasificaciones globales y en su perfil de usuario, y no podrán eliminarse ni modificarse.
 
-### Anti-cheat
+### Antitrampas
 
-osu! contiene código ejecutable que es usado para detectar el uso de software de trampas. El objetivo del anti-cheat de osu! es mantener un ambiente justo y competitivo de juego para todos los jugadores, sin afectar al rendimiento del juego o a la privacidad del usuario.
+osu! contiene código ejecutable que es usado para detectar el uso de software de trampas. El objetivo del antitrampas de osu! es mantener un ambiente justo y competitivo de juego para todos los jugadores, sin afectar al rendimiento del juego o a la privacidad del usuario.
 
 - La detección de trampas ocurre en su máquina y no se envían datos innecesarios a nuestro servidor durante el proceso de detección.
-- Si el anti-cheat detecta que está haciendo trampa, entonces este hecho además de las pruebas en forma de diagnósticos y metadatos se envían a nuestros servidores para su verificación. Si no está haciendo trampa, no se enviarán datos del anti-cheat.```
-- Incluso en la detección, intentamos con nuestro mejor empeño no enviar nunca información fuera del ecosistema de osu! con la cual se le podría identificar personalmente.
+- Si el antitrampas detecta que estás haciendo trampa, entonces este hecho, además de las pruebas en forma de diagnósticos y metadatos, se envían a nuestros servidores para su verificación. Si no estás haciendo trampa, no se transmitirá ningún dato del antitrampas.
+- Incluso en caso de detección, se hace todo lo posible por no enviar nunca información fuera del ecosistema de osu! que pueda usarse para identificarlo personalmente.
 - Los metadatos transmitidos se retienen en nuestro servidor únicamente durante el tiempo que sean útiles. Esto es generalmente desde horas hasta días mientras analizamos el contenido reportado.
 - El análisis es mayormente automatizado. Los metadatos transmitidos no son accesibles por miembros del equipo de soporte, y deben ser accedidos mediante varias capas de seguridad. Solo los administradores de la base de datos pueden ver los metadatos.
 
-Respetamos y valoramos su privacidad y no deseamos imponer miedo en los usuarios legítimos por tener un anti-cheat presente en el juego.
+Respetamos y valoramos su privacidad y no deseamos imponer miedo en los usuarios legítimos por tener un antitrampas presente en el juego.
 
 ### Registro de eventos
 
-Usamos el registro de errores, el cual recolecta información técnica y de uso mientras usas nuestros servicios. Esto puede incluir su dirección IP, su nombre de usuario, el tipo de navegador y la versión, el huso horario y ubicación, sistema operativo y plataforma y otros datos sobre que dispositivos usa para acceder a nuestros servicios.
+Usamos un sistema de registro de errores que recopila información técnica y de uso cuando usa nuestros servicios. Esto puede incluir su dirección IP, su nombre de usuario, el tipo y la versión del navegador, la zona horaria y la ubicación, el sistema operativo y la plataforma, así como otros detalles sobre los dispositivos que usa para acceder a nuestros servicios.
 
-Estos datos recolectados son agregados y solo son retenidos mientras sean útiles. Generalmente, el periodo de retención de datos no agregados es menos de un mes, con reglas de purga automáticas.
+Estos datos recopilados se agrupan y solo se conservan mientras sean útiles. Por lo general, el periodo de conservación de los datos no agrupados es inferior a un mes, con reglas de depuración automática.
 
 ## Divulgación de sus datos personales
 
-No hacemos nada de marketing, publicidad ni enviamos ningún correo no solicitado. Los únicos correos que recibirás de nosotros serán el resultado de una acción en nuestro servicio (como la solicitud de verificación en dos pasos, comprar un producto o la activación de las notificaciones para una discusión).
+No hacemos nada de marketing, publicidad ni enviamos ningún correo no solicitado. Los únicos correos que recibirá de nosotros serán el resultado de una acción en nuestro servicio (como la solicitud de verificación en dos pasos, comprar un producto o la activación de las notificaciones para una discusión).
 
 Podremos compartir su información personal con terceros en casos muy específicos:
 
@@ -94,13 +94,13 @@ Podremos compartir su información personal con terceros en casos muy específic
 
 ## Sus derechos y control
 
-Como usuario, tiene el derecho de migrar, actualizar o eliminar tus datos personales. Esto se puede hacer, principalmente, desde la [configuración de tu cuenta](https://osu.ppy.sh/home/account/edit), o, si no está disponible, desde una función «Editar» localizada en la sección relevante de nuestro sitio web. En caso de que desee recuperar mediante programación los datos completos de su cuenta, use nuestra [API pública](https://github.com/ppy/osu-api/wiki).
+Como usuario, tiene el derecho de migrar, actualizar o eliminar sus datos personales. Esto se puede hacer, desde la [configuración de su cuenta](https://osu.ppy.sh/home/account/edit), o, si no está disponible, desde una función «Editar» localizada en la sección relevante de nuestro sitio web. En caso de que desee recuperar mediante programación los datos completos de su cuenta, use nuestra [API pública](https://github.com/ppy/osu-api/wiki).
 
-En muchos casos, el contenido creado por los usuarios, como publicaciones del foro y beatmaps, pueden eliminarse de forma individual. Encontrará botones de eliminación asociados directamente con los elementos que pueden ser eliminados.
+En muchos casos, el contenido creado por los usuarios, como publicaciones del foro y beatmaps, pueden eliminarse de forma individual. Encontrará botones de eliminación asociados directamente con los elementos que puedan ser eliminados.
 
-Tiene la opción de eliminar tu cuenta de nuestro servicio. Tenga en cuenta que esto actualmente es un proceso manual y puede tomar varios días para completarse ([contáctenos](mailto:privacy@ppy.sh) para rellenar una solicitud). En el caso de que elimine su cuenta, es posible que parte de sus contribuciones públicas permanezcan intactas, como está detallado en «Información que recogemos».
+Tiene la opción de eliminar su cuenta de nuestro servicio. Tenga en cuenta que esto actualmente es un proceso manual y puede tomar varios días para completarse ([contáctenos](mailto:privacy@ppy.sh) para rellenar una solicitud). En el caso de que elimine su cuenta, es posible que parte de sus contribuciones públicas permanezcan intactas, como está detallado en «Información que recogemos».
 
-Debido a que tenemos una política estricta de una-cuenta-por-usuario para mantener las tablas de clasificación justas, tras eliminar su cuenta no podrá volver a nuestro servicio. Para hacer cumplir esto, también mantendremos la cadena de identificación única mencionada en «Información que recogemos», incluso después de la eliminación de la cuenta. Esto se hace como un [interés legítimo, tal y como se indica en el GDPR](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/when-can-we-rely-on-legitimate-interests/), con el fin de hacer cumplir nuestras reglas. Puede estar seguro de que esta información es unidireccional y no se puede usar para identificarte fuera de osu! o más allá del contexto preciso de la aplicación de esta regla.
+Debido a que tenemos una política estricta de una-cuenta-por-usuario para mantener las tablas de clasificación justas, es posible que después de la eliminación de su cuenta no pueda volver a nuestro servicio. Para hacer cumplir esto, también mantendremos la cadena de identificación única mencionada en «Información que recogemos», incluso después de la eliminación de la cuenta. Esto se hace como un [interés legítimo, tal y como se indica en el GDPR](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/when-can-we-rely-on-legitimate-interests/), con el fin de hacer cumplir nuestras reglas. Puede estar seguro de que esta información es unidireccional y no se puede usar para identificarlo fuera de osu! o más allá del contexto preciso de la aplicación de esta regla.
 
 ## Cookies
 
