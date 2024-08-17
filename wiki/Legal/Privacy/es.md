@@ -48,9 +48,9 @@ Todos los campos anteriores son visibles públicamente pero se pueden retirar in
 
 ### Al subir contenido enviado por el usuario
 
-Al publicar en los foros, participar en el chat, o subir contenido a nuestro servicio como puede ser un beatmap, estás expresamente publicando todo el contenido subido. En la mayor parte de los casos, se puede editar y borrar después de enviarlo a tu propia discreción, pero en casos concretos esta funcionalidad puede ser revocada para mantener la relevancia y la prestación del servicio a nuestra base de usuarios.
+Al publicar en los foros, participar en el chat, o subir contenido a nuestro servicio como puede ser un beatmap, estás expresamente publicando todo el contenido subido. En la mayor parte de los casos, se puede editar y eliminar después de enviarlo a tu propia discreción, pero en casos concretos esta funcionalidad puede ser revocada para mantener la relevancia y la prestación del servicio a nuestra base de usuarios.
 
-Por ejemplo, si subes un beatmap y está "clasificado", se convierte en el fundamento para la base de usuarios en general en el que conseguir puntuaciones. Llegados a este punto, la posibilidad de borrar el contenido será revocada.
+Por ejemplo, si subes un beatmap y está «clasificado», se convierte en el fundamento para la base de usuarios en general en el que conseguir puntuaciones. Llegados a este punto, la posibilidad de eliminar el contenido será revocada.
 
 ### Al iniciar sesión en el cliente de juego
 
@@ -76,53 +76,53 @@ Respetamos y valoramos tu privacidad y no deseamos imponer miedo en usuarios leg
 
 ### Registro de eventos
 
-We utilise error logging which collects technical and usage information as you use our services. This may include IP address, your username, browser type and version, time zone setting and location, operating system and platform and other details on what devices you use to access our services.
+Utilizamos registro de errores el cual recolecta información técnica y de uso mientras usas nuestros servicios. Esto puede incluir tu dirección IP, tu nombre de usuario, el tipo de navegador y la versión, el huso horario y ubicación, sistema operativo y plataforma y otros datos sobre que dispositivos usas para acceder a nuestros servicios.
 
-This collected data is aggregated and only retained as it is useful. Generally the period of retention for non-aggregated data is less than one month, with automatic purge rules.
+Estos datos recolectados son agregados y solo son retenidos mientras son útiles. Generalmente, el periodo de retención de datos no agregados es menos de un mes, con reglas de purga automáticas.
 
-## Disclosures of your personal data
+## Divulgación de tus datos personales
 
-We do not perform any marketing, advertising nor send any unsolicited emails. The only emails you will receive from us are the result of an action on our service (such as requesting two-factor authentication, purchasing a product or enabling notifications for a discussion).
+No hacemos nada de marketing, publicidad ni enviamos ningún correo no solicitado. Los únicos correos que recibirás de nosotros serán el resultado de una cción en nuestro servicio (como la solicitud de verificación en dos pasos, comprar un producto o la activación de notificación para una discusión).
 
-We may share your personal data with third parties in very specific cases:
+Podremos compartir tu información personal con terceros en casos muy específicos:
 
-- Where you have expressly made information public
-- To fulfil your store orders
-- To process payments via payment processing providers like Paypal and Xsolla
-- To process your customer service tickets (we use [Enchant](https://enchant.com))
-- In order to improve our service, via error logging (we use [Sentry](https://sentry.io))
+- Donde has hecho información pública expresamente
+- Para rellenar tus pedidos de la tienda
+- Para procesar pagos mediante proveedores de procesamiento de pagos como Paypal y Xsolla.
+- Para procesar tus tickets de servicio al cliente (usamos [Enchant](https://enchant.com))
+- Para mejorar nuestros servicios, mediante el registro de errores (usamos [Sentry](https://sentry.io))
 
-## Your rights and control
+## Tus derechos y control
 
-As a user you have the right to migrate, update or delete your personal information. This can be done primarily from the [user settings](https://osu.ppy.sh/home/account/edit), or where not available from a localised "Edit" feature on the relevant section of our site. In cases you wish to programmatically retrieve your full account data, please use our [public API](https://github.com/ppy/osu-api/wiki).
+Como usuario tienes el derecho de migrar, actualizar o eliminar tus datos personales. Esto se puede hacer, principalmente, desde la [configuración de usuario](https://osu.ppy.sh/home/account/edit), o donde no esté disponible desde una función «Editar» localizada en la sección relevante de nuestro sitio web. En casos en los que desees recuperar programáticamente toda los datos de tu cuenta, por favor usa nuestra [API pública](https://github.com/ppy/osu-api/wiki).
 
-In many cases, user submissions such as forum posts and beatmaps can be deleted on an individual basis. You will find delete buttons directly associated with the items that can be deleted.
+En muchos casos, contenido creado por los usuarios como publicaciones del foro y beatmaps pueden ser borrados de forma individual. Encontrarás botones de eliminar asociados directamente con los elementos que pueden ser borrados.
 
-You have the option of deleting your account from our service. Please note that this is currently a manual process and may take several days to complete ([contact us](mailto:privacy@ppy.sh) to file a request). In the case of account deletion, portions of your public contributions may remain intact, as detailed in "Information we collect".
+Tienes la opción de eliminar tu cuenta de nuestro servicio. Por favor tenga en cuenta que esto actualmente es un proceso manual y puede tomar varios dias para completarse ([contáctanos](mailto:privacy@ppy.sh) para rellenar una solicitud). En el caso del borrado de cuenta, porciones de tus contribuiciones públicas pueden mantenerse intactas, como está detallado en «Información que recogemos».
 
-As we have a strict one-account-per-user policy to maintain fair leaderboards, after account deletion you may not be able to return to our service. To enforce this, we will also maintain the unique identifying string as mentioned in "Information we collect", even after account deletion. This is done so as a [legitimate interest as outlined in the GDPR](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/when-can-we-rely-on-legitimate-interests/) in order to enforce our rules. Rest assured, this information is one-way hashed and cannot be used to identify you outside of osu!, or beyond the precise context of enforcing this rule.
+Debido a que tenemos una política estricta de una-cuenta-por-usuario para mantener las tablas de clasificación justas, tras eliminar tu cuenta no podrás volver a nuestro servicio. Para imponer esto, mantendremos también la cadena única identificativa como fue mencionada en «Información que recogemos», incluso después de eliminar la cuenta. Esto se hace de manera que sea [interés legítimo tal y como está recogido en el GDPR](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/when-can-we-rely-on-legitimate-interests/) para poder imponer nuestras reglas. Puedes estar tranquilo, pues esta información esta encriptada de manera que no se pueda desencriptar y por tanto no se puede usar para identificarte fuera de osu!, o fuera del preciso contexto de imponer esta regla.
 
 ## Cookies
 
-We use cookies, as does the rest of the internet. We strictly use them to maintain your session state and login credentials across multiple sessions. If you're allergic to cookies, please do not use our services.
+Usamos cookies, tal y como hace el resto de internet. Las usamos estrictamente para mantener el estado de tu sesión y tus credenciales de inicio de sesión entre multiples sesiones. Si eres alérgico a las cookies, no uses nuestros servicios.
 
-## Data security
+## Seguridad de datos
 
-Security is very important to us. osu! follows accepted standards to protect your personal information during processing, transferring, and storage. We employ HSTS to ensure all sites on our domain are encrypted via TLS and maintain high standards in data security for access to our servers, restricting access to your personal data when we do not need to access it.
+La seguridad es muy importante para nosotros. osu! sigue los estándares aceptados para proteger tu información personal durante el procesamiento, transferencia y almacenamiento. Usamos HSTS para asegurar que todos los sitios en nuestro dominio están encriptados mediante TLS y que mantienen unos altos estándares en seguridad de datos para el acceso a nuestros servidores, restringiendo el acceso a tus datos personales cuando no necesitamos acceder a ellos.
 
-We also regularly purge data on an ongoing and automatic basis as to only keep as much historical data as necessary to perform our legitimate business interests.
+También purgamos datos en un proceso continuo y automático para mantener únicamente los suficientes datos históricos como son necesarios para llevar a cabo nuestros intereses legítimos comerciales.
 
-## Children
+## Niños
 
-osu! services are not designed for children under the age of 13. If we discover that a person under the age of 13 has submitted personal information to us without parental permission, we will endeavour to delete the information from our systems.
+Los servicios de osu! no están diseñados para niños por debajo de la edad de 13 años. Si descubrimos que una persona por debajo de dicha edad nos ha proporcionado información personal sin permiso parental, nos comprometemos a eliminar dicha información de nuestros sistemas.
 
-## Data Controller
+## Controlador de datos
 
-Hi, I am Dean (commonly known as peppy) and I am your data controller. If you have any privacy concerns or requests to exercise your legal rights, don't hesitate to contact me directly at the address listed below.
+Hola, soy Dean (usualmente conocido como peppy) y soy el controlador de tus datos. Si tienes cualquier duda o petición sobre los que llevar a cabo tus derechos legales, no dudes en contactarme directamente a la dirección descrita debajo.
 
-**Email**: [privacy@ppy.sh](mailto:privacy@ppy.sh) (24 hour response guaranteed)
+**Correo electrónico**: [privacy@ppy.sh](mailto:privacy@ppy.sh) (Respuesta en 24 horas garantizada)
 
-**Postal Address**:
+**Dirección postal**:
 
 ```
 Dean Herbert
