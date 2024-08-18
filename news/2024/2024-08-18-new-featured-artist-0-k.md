@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: 0 K"
-date: 2024-08-10 21:00:00 +0000
+date: 2024-08-18 17:30:00 +0000
 ---
 
 An osu!catch legend has finally dropped into our Featured Artist library.
