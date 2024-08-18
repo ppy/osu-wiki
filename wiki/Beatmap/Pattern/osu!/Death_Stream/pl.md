@@ -6,6 +6,6 @@ tags:
 
 # Death Stream
 
-**Death Streamy** s� bardziej intensywn� wersj� [Stream�w](/wiki/Beatmap/Pattern/osu!/Stream). Wyst�puj� w poziomach trudno�ci typu Expert i testuj� umiej�tno�ci gracza w klikaniu do rytmu w szybszych pr�dko�ciach ni� zazwychaj przez d�ugi okres czasu.
+**Death Streamy** są bardziej intensywną wersją [Streamów](/wiki/Beatmap/Pattern/osu!/Stream). Występują w poziomach trudności typu Expert i testują umiejętności gracza w klikaniu do rytmu w szybszych prędkościach niż normalnie przez długi okres czasu.
 
-**Death streamy** mog� sk�ada� si� z ponad 30 [Hit Circles](/wiki/Gameplay/Hit_object/Hit_circle)
+**Death streamy** mogą składać się z ponad 30 [Hit Circles](/wiki/Gameplay/Hit_object/Hit_circle)
