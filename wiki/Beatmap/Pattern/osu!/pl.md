@@ -6,7 +6,7 @@ stub: true
 
 Indeks dla [Wzorów](..) wyjątkowych dla trybu gry [osu!](/wiki/Game_mode/osu!)
 
-- [Burst](Burst)
+- [Burst](Bursts)
 - [Jump](Jump)
 - [Cross Screen Jump](csj)
 - [Stream](Stream)
