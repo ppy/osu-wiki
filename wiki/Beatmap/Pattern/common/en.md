@@ -6,4 +6,4 @@ stub: true
 
 Index for [Patterns](..) that you can occur in every [Game mode](/wiki/Game_mode)
 
-- [Double](/double)
+- [Double](/wiki/Beatmap/Pattern/common/double)
