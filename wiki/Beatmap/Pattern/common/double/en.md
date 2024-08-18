@@ -14,7 +14,7 @@ In the [osu!](/wiki/Game_mode/osu!) [gamemode](/wiki/Game_mode), doubles are whe
 
 ![](img/maniadouble.png "Visual representation of a double in the osu!mania gamemode.")
 
-In the [osu!mania](/wiki/Game_mode/osu!mania) [gamemode](/wiki/Game_mode), Doubles are known as [Mini jacks](/wiki/beatmap/pattern/osu!mania/jack)
+In the [osu!mania](/wiki/Game_mode/osu!mania) [gamemode](/wiki/Game_mode), Doubles are known as [Mini jacks](/wiki/Beatmap/Pattern/osu!mania/jack)
 
 ![](img/taikodouble.png "Visual representation of a double in the osu!taiko gamemode.")
 ![](img/catchdouble.png "Visual representation of a double in the osu!catch gamemode.")
