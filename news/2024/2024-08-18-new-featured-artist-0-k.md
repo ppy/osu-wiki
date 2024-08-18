@@ -8,7 +8,7 @@ An osu!catch legend has finally dropped into our Featured Artist library.
 
 ![](https://assets.ppy.sh/artists/424/header.jpg)
 
-Ranging from [a collection of Ranked osu!catch beatmaps](https://osu.ppy.sh/beatmapsets?q=creator%3D%224847256%22) to his tenure as an osu!catch [Beatmap Nominator](https://osu.ppy.sh/groups/28) to his music being featured in the last 3 [osu!catch World Cups](https://osu.ppy.sh/wiki/Tournaments/CWC), it's no surprise that **0 K** would eventually spread osu!catch into our Featured Artist catalogue!
+Ranging from [a collection of Ranked osu!catch beatmaps](https://osu.ppy.sh/beatmapsets?q=creator%3D%224847256%22) to his tenure as an osu!catch [Beatmap Nominator](https://osu.ppy.sh/groups/28) to his music being featured in the last 3 [osu!catch World Cups](/wiki/Tournaments/CWC), it's no surprise that **0 K** would eventually spread osu!catch into our Featured Artist catalogue!
 
 [**0 K**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/424) is home to **11** modern classical and jazz tunes that you probably wouldn't expect to come out of a rhythm game. ~~This has nothing to do with the allegations of osu!catch not being a rhythm game.~~
 
