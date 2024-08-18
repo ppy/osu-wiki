@@ -16,7 +16,7 @@ Missed this year's osu!catch World Cup? That means you also missed the song **0 
 
 <div align="center">
     <video width="95%" controls>
-        <source src="LINK" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/0_K_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -25,7 +25,7 @@ Missed this year's osu!catch World Cup? That means you also missed the song **0 
 Experience [the map from CWC 2024](https://osu.ppy.sh/beatmapsets/2195061) hosted by [JBHyperion](https://osu.ppy.sh/users/4879508)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/424/Songs/0%20K%20-%20Brilliant%20Silver%2C%20Shining%20Blade.mp3">
 </audio>
 
 ### 0 K - Avontuure
@@ -33,15 +33,15 @@ Experience [the map from CWC 2024](https://osu.ppy.sh/beatmapsets/2195061) hoste
 Try out [this other osu!catch map](https://osu.ppy.sh/beatmapsets/1635006) hosted by [Deif](https://osu.ppy.sh/users/318565)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/424/Songs/0_K_-_Avontuure.mp3">
 </audio>
 
 ### 0 K - Panorama (feat. AKA)
 
-And maybe check out [this map](LINK) soon to be created by you!
+And maybe check out [this map](https://assets.ppy.sh/artists/424/Songs/0_K_-_Panorama_feat._AKA.osz) soon to be created by you!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/424/Songs/0_K_-_Panorama_feat._AKA.mp3">
 </audio>
 
 ---
