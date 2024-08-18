@@ -6,7 +6,7 @@ stub: true
 
 Index page for [osu!](/wiki/Game_mode/osu!)-specific [pattern](..) types.
 
-- [Burst](Burst)
+- [Burst](Bursts)
 - [Jump](Jump)
 - [Cross Screen Jump](csj)
 - [Stream](Stream)
