@@ -160,27 +160,27 @@ The complete list of sightread maps can be found in this [Google Sheet](https://
 **[Download the mappack here! (104.5 MB)](https://drive.google.com/file/d/1RR1vp5wwq7Dx4Um748asDcAvOa8FWb-d/view?usp=sharing)**
 
 - NoMod
-1. [Sangatsu no Phantasia - Pink Lemonade (Zvenx) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2155889#fruits/4544588)
-2. [USAO - Dynamite (rinkiha) \[tfc x rinkiha's TNT\]](https://osu.ppy.sh/beatmapsets/2155945#fruits/4544755)
-3. [isui - Suisei ni Nareta nara (pnky) \[Starlight\]](https://osu.ppy.sh/beatmapsets/1819528#fruits/3733497)
-4. [Warak - Un Final Feliz (NeonLights) \[Crissa's Extra\]](https://osu.ppy.sh/beatmapsets/678444#fruits/3033608)
+  1. [Sangatsu no Phantasia - Pink Lemonade (Zvenx) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2155889#fruits/4544588)
+  2. [USAO - Dynamite (rinkiha) \[tfc x rinkiha's TNT\]](https://osu.ppy.sh/beatmapsets/2155945#fruits/4544755)
+  3. [isui - Suisei ni Nareta nara (pnky) \[Starlight\]](https://osu.ppy.sh/beatmapsets/1819528#fruits/3733497)
+  4. [Warak - Un Final Feliz (NeonLights) \[Crissa's Extra\]](https://osu.ppy.sh/beatmapsets/678444#fruits/3033608)
 - Hidden
-1. [Ishihara Kaori - Plastic Smile (Dapulezatos) \[Hexuluous' Fake Smile\]](https://osu.ppy.sh/beatmapsets/2039642#fruits/4254540)
-2. [Sound Souler - Absent Color (Rocma) \[Rain\]](https://osu.ppy.sh/beatmapsets/1583461#fruits/3234073)
-3. [Shoichiro Sakamoto - Eye of Aeon (KanaRin) \[Aeon\]](https://osu.ppy.sh/beatmapsets/26528#fruits/89362)
+  1. [Ishihara Kaori - Plastic Smile (Dapulezatos) \[Hexuluous' Fake Smile\]](https://osu.ppy.sh/beatmapsets/2039642#fruits/4254540)
+  2. [Sound Souler - Absent Color (Rocma) \[Rain\]](https://osu.ppy.sh/beatmapsets/1583461#fruits/3234073)
+  3. [Shoichiro Sakamoto - Eye of Aeon (KanaRin) \[Aeon\]](https://osu.ppy.sh/beatmapsets/26528#fruits/89362)
 - HardRock
-1. [Hollywood Ending - Not Another Song About Love (Nightcore mix) (Oasix) \[She says it won't hurt\]](https://osu.ppy.sh/beatmapsets/2155862#fruits/4544460)
-2. [karoi - Konkon Kitsune (Secre) \[:corn:\]](https://osu.ppy.sh/beatmapsets/2155879#fruits/4544544)
-3. [Junk - Fire Strike (Naidaaka) \[Manu's Insane\]](https://osu.ppy.sh/beatmapsets/684364#fruits/1482677)
+  1. [Hollywood Ending - Not Another Song About Love (Nightcore mix) (Oasix) \[She says it won't hurt\]](https://osu.ppy.sh/beatmapsets/2155862#fruits/4544460)
+  2. [karoi - Konkon Kitsune (Secre) \[:corn:\]](https://osu.ppy.sh/beatmapsets/2155879#fruits/4544544)
+  3. [Junk - Fire Strike (Naidaaka) \[Manu's Insane\]](https://osu.ppy.sh/beatmapsets/684364#fruits/1482677)
 - DoubleTime
-1. [Kano - Hikari no Michishirube (Rubae) \[Farewell 4DPT edit\]](https://osu.ppy.sh/beatmapsets/2155892#fruits/4544593)
-2. [Yorushika - Matasaburo (Crowley) \[Rustyy & Crowley's Platter\]](https://osu.ppy.sh/beatmapsets/1609920#fruits/3287185)
-3. [A-One feat. Shihori - Bamboo Dance (nanoya) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/2075280#fruits/4344475)
+  1. [Kano - Hikari no Michishirube (Rubae) \[Farewell 4DPT edit\]](https://osu.ppy.sh/beatmapsets/2155892#fruits/4544593)
+  2. [Yorushika - Matasaburo (Crowley) \[Rustyy & Crowley's Platter\]](https://osu.ppy.sh/beatmapsets/1609920#fruits/3287185)
+  3. [A-One feat. Shihori - Bamboo Dance (nanoya) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/2075280#fruits/4344475)
 - Mystery
-1. [Caramell - Caramelldansen (Speedycake Remix) (0\_o) \[LESJUH DIFFICULTY!!\]](https://osu.ppy.sh/beatmapsets/7380#fruits/43423) (Flashlight Mod)
-2. [C-Show - DROP THE RAVE (Des9) \[DODGE THE RAVE\]](https://osu.ppy.sh/beatmapsets/2156054#fruits/4544969) (Dodge The Beat)
+  1. [Caramell - Caramelldansen (Speedycake Remix) (0\_o) \[LESJUH DIFFICULTY!!\]](https://osu.ppy.sh/beatmapsets/7380#fruits/43423) (Flashlight Mod)
+  2. [C-Show - DROP THE RAVE (Des9) \[DODGE THE RAVE\]](https://osu.ppy.sh/beatmapsets/2156054#fruits/4544969) (Dodge The Beat)
 - Tiebreaker
-1. **[Zomboy - Nuclear (Hands Up) (Des9) \[Lemme See Your Hands In The Air\]](https://osu.ppy.sh/beatmapsets/2156060#fruits/4544976)**
+  1. **[Zomboy - Nuclear (Hands Up) (Des9) \[Lemme See Your Hands In The Air\]](https://osu.ppy.sh/beatmapsets/2156060#fruits/4544976)**
 
 ### Quarter Finals
 
@@ -204,8 +204,8 @@ The complete list of sightread maps can be found in this [Google Sheet](https://
   2. [Shawn Wasabi + YDG feat. YUNG GEMMY - Burnt Rice (Aiobahn & Jh-Anu Remix) (rinkiha) \[Platter\]](https://osu.ppy.sh/beatmapsets/1466856#fruits/3015858)
   3. [seleP - ELLIE (P\_O) \[chill's Insane\]](https://osu.ppy.sh/beatmapsets/1954509#fruits/4049435)
 - Mystery
-1. [Silver Forest - Tsurupettan (Nharox) \[Insane\]](https://osu.ppy.sh/beatmapsets/1559#fruits/19969) (High Circle Size)
-2. [uselet - idk (Trent) \[does anyone really know?\]](https://osu.ppy.sh/beatmapsets/2146109#fruits/4523730) (Spinner Win Condition)
+  1. [Silver Forest - Tsurupettan (Nharox) \[Insane\]](https://osu.ppy.sh/beatmapsets/1559#fruits/19969) (High Circle Size)
+  2. [uselet - idk (Trent) \[does anyone really know?\]](https://osu.ppy.sh/beatmapsets/2146109#fruits/4523730) (Spinner Win Condition)
 - Tiebreaker
   1. **[UNDERVEIL ALLSTARS - UNDERVEIL IS REAL!!! ...AND WE ARE UNDERVEIL!!! (Chara) \[*Together as one, we stay determined!\]](https://osu.ppy.sh/beatmaps/1351241)**
 
@@ -263,26 +263,26 @@ The complete list of sightread maps can be found in this [Google Sheet](https://
 **[Download the mappack here! (89 MB)](https://drive.google.com/file/d/1dRuraFJ28C4CNEmiF3ZNRkfNYMBHY57a/view?usp=sharing)**
 
 - NoMod
-1. [PAS TASTA - river relief (ft. Sakiyama Soushi) (rinkiha) \[rain\]](https://osu.ppy.sh/beatmapsets/2141834#fruits/4508114)
-2. [Hino Isuka - Moonheart (Nosuri) \[Rain\]](https://osu.ppy.sh/beatmapsets/1774507#fruits/4310423)
-3. [96neko - E? Aa, sou. (newton-) \[Dubturt's Insane\]](https://osu.ppy.sh/beatmapsets/902346#fruits/1887453)
-4. [Tedjimo yomigY - JezoensiS (Orkay) \[Collab Expert\]](https://osu.ppy.sh/beatmapsets/1719651#fruits/3514334)
+  1. [PAS TASTA - river relief (ft. Sakiyama Soushi) (rinkiha) \[rain\]](https://osu.ppy.sh/beatmapsets/2141834#fruits/4508114)
+  2. [Hino Isuka - Moonheart (Nosuri) \[Rain\]](https://osu.ppy.sh/beatmapsets/1774507#fruits/4310423)
+  3. [96neko - E? Aa, sou. (newton-) \[Dubturt's Insane\]](https://osu.ppy.sh/beatmapsets/902346#fruits/1887453)
+  4. [Tedjimo yomigY - JezoensiS (Orkay) \[Collab Expert\]](https://osu.ppy.sh/beatmapsets/1719651#fruits/3514334)
 - Hidden
-1. [Mahiru (CV: Okasaki Miho) - I Love You (rew0825) \[Rain\]](https://osu.ppy.sh/beatmapsets/2001633#fruits/4175017)
-2. [dors k(uro) - dreeeeam (Chara) \[A Platter of Friendship\]](https://osu.ppy.sh/beatmapsets/444696#fruits/955341)
-3. [yu\_tokiwa.djw - rumrum triplets (Fsjallink) \[Ayel's Insane\]](https://osu.ppy.sh/beatmapsets/1757985#fruits/3630244)
+  1. [Mahiru (CV: Okasaki Miho) - I Love You (rew0825) \[Rain\]](https://osu.ppy.sh/beatmapsets/2001633#fruits/4175017)
+  2. [dors k(uro) - dreeeeam (Chara) \[A Platter of Friendship\]](https://osu.ppy.sh/beatmapsets/444696#fruits/955341)
+  3. [yu\_tokiwa.djw - rumrum triplets (Fsjallink) \[Ayel's Insane\]](https://osu.ppy.sh/beatmapsets/1757985#fruits/3630244)
 - HardRock
-1. [Mili - String Theocracy (JierYagtama) \[Phob's Salad (Official Timing)\]](https://osu.ppy.sh/beatmapsets/1287323#fruits/4053990)
-2. [Good Kid - Slingshot (Chatie) \[Salad\]](https://osu.ppy.sh/beatmapsets/1970946#fruits/4091168)
-3. [Amane - Revered Collapse (xierbaliti) \[Hard\]](https://osu.ppy.sh/beatmapsets/10723#fruits/41560)
+  1. [Mili - String Theocracy (JierYagtama) \[Phob's Salad (Official Timing)\]](https://osu.ppy.sh/beatmapsets/1287323#fruits/4053990)
+  2. [Good Kid - Slingshot (Chatie) \[Salad\]](https://osu.ppy.sh/beatmapsets/1970946#fruits/4091168)
+  3. [Amane - Revered Collapse (xierbaliti) \[Hard\]](https://osu.ppy.sh/beatmapsets/10723#fruits/41560)
 - DoubleTime
-1. [Utopia - Hujan (Marfuri) \[Love that flows like water\]](https://osu.ppy.sh/beatmapsets/1599223#fruits/3266188)
-2. [Duck Duck Pony - Shinsetsu (wonjae) \[wonJemZero's Salad\]](https://osu.ppy.sh/beatmapsets/951270#fruits/2009915)
-3. [Primary - Kimi ga Nozomu Sekai (Lasse) \[Hard\]](https://osu.ppy.sh/beatmapsets/485087#fruits/1145141)
+  1. [Utopia - Hujan (Marfuri) \[Love that flows like water\]](https://osu.ppy.sh/beatmapsets/1599223#fruits/3266188)
+  2. [Duck Duck Pony - Shinsetsu (wonjae) \[wonJemZero's Salad\]](https://osu.ppy.sh/beatmapsets/951270#fruits/2009915)
+  3. [Primary - Kimi ga Nozomu Sekai (Lasse) \[Hard\]](https://osu.ppy.sh/beatmapsets/485087#fruits/1145141)
 - Mystery
-1. [yaseta - Labyrinth (AvicharHD) \[Dawning hope\]](https://osu.ppy.sh/beatmapsets/1703166#fruits/3614965) (Convert Tiebreaker Length)
+  1. [yaseta - Labyrinth (AvicharHD) \[Dawning hope\]](https://osu.ppy.sh/beatmapsets/1703166#fruits/3614965) (Convert Tiebreaker Length)
 - Tiebreaker
-1. **[Mili - Vitamins feat. world's end girlfriend (Benita) \[Rain\]](https://osu.ppy.sh/beatmapsets/1716502#fruits/3507726)**
+  1. **[Mili - Vitamins feat. world's end girlfriend (Benita) \[Rain\]](https://osu.ppy.sh/beatmapsets/1716502#fruits/3507726)**
 
 ### Qualifiers
 **[Download the mappack here! (90.6 MB)](https://drive.google.com/file/d/1_2X2GbaZmtLy0fqn0z6yj5BBLEccTXHN/view?usp=sharing)**
