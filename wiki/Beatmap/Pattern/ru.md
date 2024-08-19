@@ -14,7 +14,7 @@ tags:
 ### cвсе режимы
 
 - [Double](common/double)
-  
+
 ### osu!
 
 - [Burst](osu!/Bursts)
