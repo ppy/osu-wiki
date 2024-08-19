@@ -32,7 +32,7 @@ The winners of each division will receive a profile badge.
 
 ## Organization
 
-The osu! Philippines Nationals 2024 - osu!mania 4K/7K tournament is ran by various community members.
+The osu! Philippines Nationals 2024 - osu!mania 4K/7K tournament was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
