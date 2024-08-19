@@ -2,7 +2,7 @@
 
 ***Aviso: Este artículo es una extensión de los [criterios de clasificación generales](/wiki/Ranking_criteria).***
 
-Este conjunto de **criterios de clasificación de osu!mania** establece [reglas y pautas](/wiki/Ranking_criteria#términos-generales) que los [beatmaps](/wiki/Beatmap) específicos de [osu!mania](/wiki/Game_mode/osu!mania) deben seguir para avanzar en el [procedimiento de clasificación de beatmaps](/wiki/Beatmap_ranking_procedure).
+Este conjunto de **criterios de clasificación de osu!mania** establece [reglas y pautas](/wiki/Ranking_criteria#términos-generales) que los [beatmaps](/wiki/Beatmap) específicos de [osu!mania](/wiki/Game_mode/osu!mania) deben seguir para avanzar en el [procedimiento de clasificación](/wiki/Beatmap_ranking_procedure).
 
 ## Glosario
 
@@ -18,7 +18,7 @@ Este conjunto de **criterios de clasificación de osu!mania** establece [reglas 
 
 ### Términos comunes
 
-- **BPM**: Tempo de una canción medido en pulsos por minuto.
+- **BPM**: Tempo de una canción medido en pulsaciones por minuto.
 - **Columna**: Líneas verticales del [campo de juego](/wiki/Game_mode/osu!mania#campo-de-juego) donde se colocan las notas. Ten en cuenta que las [marcas de tiempo del editor](/wiki/Modding/Timestamp) se refieren a las columnas por su posición indexada a cero, comenzando por la izquierda.
 - **Modo de teclas**: El número de columnas presentes en una dificultad.
 - **Estilo de juego**: La [combinación de teclas](/wiki/Game_mode/osu!mania#controles) o posición de manos intencionada por un mapper para jugar una dificultad.
@@ -26,7 +26,7 @@ Este conjunto de **criterios de clasificación de osu!mania** establece [reglas 
   - Ejemplos de estilos de juego estándar: 4K, 7K, 10K
   - Ejemplos de estilos de juego no estándar: 7K+1, 10K2S, 14K DP
 - **Estilo de juego N+1**: Un tipo específico de estilo de juego donde la columna más a la izquierda se asigna independientemente del resto de las columnas, que de otro modo forman un estilo de juego estándar.
-- **Keysounding**: Hitsounding usando muestras extremadamente similares o directamente de la canción en sus respectivos lugares. Este método de hitsounding normalmente proporciona poca retroalimentación al jugador.
+- **Keysounding**: Hitsounding usando muestras extremadamente similares o directamente de la canción en sus respectivos lugares. Este método de hitsounding normalmente proporciona poco apoyo al jugador.
 - **Velocidad del slider**: La velocidad a la que se mueven las notas/líneas del compás en el campo de juego. La velocidad base del slider (1,0x) se basa en la velocidad de desplazamiento del usuario, y cambios adicionales se pueden hacer a través de los puntos de tiempo no heredados (verdes).
 - **Velocidad del slider a largo plazo**: Un cambio de velocidad del slider que dura más de 4 pulsos.
 - **Frase musical**: Unidad independiente de métrica musical que suele tener 4 compases de longitud.
@@ -55,7 +55,7 @@ Consulta la [guía de mapping de osu!mania](/wiki/Guides/osu!mania_mapping_guide
 
 ## General
 
-Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!mania. Las reglas y pautas relacionadas con el ritmo se aplican a beatmaps de aproximadamente 180 BPM con compases de 4/4. Si tu canción es drásticamente más rápida o más lenta, algunas variables pueden ser diferentes, como se detalla en [Escalado de BPM en los criterios de clasificación](/wiki/Ranking_criteria/Scaling_BPM).
+Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!mania. Las reglas y pautas relacionadas con el ritmo se aplican a beatmaps de aproximadamente 180 BPM con compases de 4/4. Si tu canción es drásticamente más rápida o más lenta, algunas variables pueden ser diferentes, como se detalla en [Escalado del BPM según los criterios de clasificación](/wiki/Ranking_criteria/Scaling_BPM).
 
 ### Reglas
 

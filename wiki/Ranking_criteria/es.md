@@ -239,7 +239,7 @@ Esta categoría contiene declaraciones de concesiones explícitas sobre concepto
 - **El vídeo debe estar codificado en H.264.**
 - **El desplazamiento de un vídeo debe ser correcto si se sincroniza con la canción.** Un desplazamiento incorrecto puede dar lugar a una representación visual engañosa de la canción. Si el mismo vídeo aparece en varias dificultades, debe tener siempre el mismo desplazamiento.
 - **La pista de audio de un vídeo debe eliminarse del archivo de vídeo.** La pista de audio de un vídeo no se usa en osu!, y eliminarla reduce el tamaño del archivo del beatmap. Esto incluye los vídeos con pistas de audio silenciadas.
-  - *Véase [Compresión de archivos § Vídeo](/wiki/Guides/Compressing_files#video) como orientación.*
+  - *Véase [Compresión de archivos § Vídeo](/wiki/Guides/Compressing_files#vídeo) como orientación.*
 
 ### Pautas
 

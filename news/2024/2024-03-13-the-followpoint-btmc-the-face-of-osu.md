@@ -2,6 +2,7 @@
 layout: post
 title: "The Followpoint: BTMC, the Face of osu!"
 date: 2024-03-13 15:00:00 +0000
+series: The Followpoint
 ---
 
 Join us for an interview with BTMC, one of osu!'s most iconic content creators!

@@ -15,19 +15,20 @@ This page lists ways for people from all around osu! to get in touch with each o
 *See also: [List of all projects](/wiki/Community/Projects)*
 
 - [Community mentorship program](/wiki/Community/Community_Mentorship_Program)
+- [Manga](/wiki/Community/Manga)
 - [Mappers' Guild](/wiki/Community/Mappers_Guild)
 - [osu! wiki](/wiki/osu!_wiki)
 - [osu!monthly](/wiki/Community/osu!monthly)
 - [Project Loved](/wiki/Community/Project_Loved)
+- [Video series](/wiki/Community/Video_series)
+  - [osu!academy](/wiki/Community/Video_series/osu!academy)
+  - [osu!mapping](/wiki/Community/Video_series/osu!mapping)
+  - [osu!talk](/wiki/Community/Video_series/osu!talk)
 
 ## Initiatives
 
 - [osu! community meetings](/wiki/Community/osu!_community_meetings)
 - [osu! Talk Event](/wiki/Community/osu!_Talk_Event)
-- [Video series](/wiki/Community/Video_series)
-  - [osu!academy](/wiki/Community/Video_series/osu!academy)
-  - [osu!mapping](/wiki/Community/Video_series/osu!mapping)
-  - [osu!talk](/wiki/Community/Video_series/osu!talk)
 
 ## See also
 

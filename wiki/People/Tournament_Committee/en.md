@@ -18,7 +18,7 @@ The Tournament Committee's responsibilities include advising the [account suppor
 
 Additionally, the Tournament Committee performs the following roles independent of the account support team:
 
-- Regularly reviewing the [Official tournament support](/wiki/Tournaments/Official_support) page for revisions when necessary.
+- Regularly reviewing the [Official tournament support](/wiki/Tournaments/Official_support) page for necessary revisions.
 - Investigating reports from the [tournament reports form](https://pif.ephemeral.ink/tournament-reports).
 - Checking whether concluded tournaments requesting official support meet its criteria.
 - Advising the osu! news team on whether to grant [news post support](/wiki/Tournaments/Official_support#requesting-in-game-banner-and-news-post-support) for tournaments.
@@ -31,7 +31,7 @@ The **Contest Committee** is a subgroup directly associated with the **Tournamen
 Their responsibilities include:
 
 - Observing the general contest scene and advising the [account support team](/wiki/People/Account_support_team) on a case-by-case basis
-- Regularly reviewing the [Official beatmapping contest support](/wiki/Contests/Official_support) page for revisions when necessary
+- Regularly reviewing the [Official beatmapping contest support](/wiki/Contests/Official_support) page for necessary revisions.
 
 The panel was first announced to the public on February 28, 2024 through the [Mapping Discussion](https://osu.ppy.sh/community/forums/topics/1890429) forum.
 
@@ -86,7 +86,7 @@ The Tournament Committee maintains an [account on Twitter](https://twitter.com/o
 
 The [Community Tournament Status Tracker](https://docs.google.com/spreadsheets/d/1bV5MyrJZI0F52Bx9EcYxdfRu8qGnhWRBKdXHK9uPbO0/edit?usp=sharing) is a publicly viewable spreadsheet detailing the status of all tournaments that have requested official support. This sheet shows all tournaments dating back to June 20th, 2023 and displays their status through the official support process, including whether a badge was applied or denied.
 
-The [Official Tournament Support Updates thread](https://osu.ppy.sh/community/forums/topics/1715676j) is a pinned thread in the [Tournaments & Contests forum](https://osu.ppy.sh/community/forums/126) which contains an up-to-date list of updates to the [official tournament support wiki article](/wiki/Tournaments/Official_support) dating back to February 1st, 2023. It also links to all the aforementioned resources.
+The [Official Tournament Support Updates thread](https://osu.ppy.sh/community/forums/topics/1715676) is a pinned thread in the [Tournaments & Contests forum](https://osu.ppy.sh/community/forums/126) which contains an up-to-date list of updates to the [official tournament support wiki article](/wiki/Tournaments/Official_support) dating back to February 1st, 2023. It also links to all the aforementioned resources.
 
 ### Adding new members
 

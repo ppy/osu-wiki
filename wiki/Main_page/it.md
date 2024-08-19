@@ -102,7 +102,7 @@ Posti: [Forum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_C
 
 [Tornei](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Concorsi](/wiki/Contests) • [Programma di mentorship della comunità](/wiki/Community/Community_Mentorship_Program)
 
-[Projects](/wiki/Community/Projects) • [Gilda dei Mapper](/wiki/Community/Mappers_Guild) • [Progetto Amata](/wiki/Community/Project_Loved) • [Meeting della community di osu!](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk)
+[Projects](/wiki/Community/Projects) • [Gilda dei Mapper](/wiki/Community/Mappers_Guild) • [Progetto Amata](/wiki/Community/Project_Loved) • [Meeting della community di osu!](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [lazer updates](/wiki/Community/Video_series/lazer_updates)
 
 Organizzazioni: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 

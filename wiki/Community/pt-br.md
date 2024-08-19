@@ -15,19 +15,20 @@ Essa página lista formas de entrar em contato com pessoas de todo osu!. Se voc�
 *Veja também: [Lista de todos os projetos](/wiki/Community/Projects)*
 
 - [Programa de mentoria da comunidade](/wiki/Community/Community_Mentorship_Program)
+- [Manga](/wiki/Community/Manga)
 - [Guilda dos criadores de mapas](/wiki/Community/Mappers_Guild)
 - [osu! wiki](/wiki/osu!_wiki)
 - [osu!monthly](/wiki/Community/osu!monthly)
 - [Project Loved](/wiki/Community/Project_Loved)
+- [Séries de vídeos](/wiki/Community/Video_series)
+  - [osu!academy](/wiki/Community/Video_series/osu!academy)
+  - [osu!mapping](/wiki/Community/Video_series/osu!mapping)
+  - [osu!talk](/wiki/Community/Video_series/osu!talk)
 
 ## Iniciativas
 
 - [Encontros da comunidade osu!](/wiki/Community/osu!_community_meetings)
 - [Palestras do osu!](/wiki/Community/osu!_Talk_Event)
-- [Séries de vídeos](/wiki/Community/Video_series)
-  - [osu!academy](/wiki/Community/Video_series/osu!academy)
-  - [osu!mapping](/wiki/Community/Video_series/osu!mapping)
-  - [osu!talk](/wiki/Community/Video_series/osu!talk)
 
 ## Veja também
 

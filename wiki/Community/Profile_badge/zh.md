@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: a8484b860fb7b94d7a11bc6cbb1924e1cfcd0449
 tags:
   - badges
   - profile badges

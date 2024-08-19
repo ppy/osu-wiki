@@ -28,4 +28,4 @@ La LSD también sirvió como un grupo intermediario para miembros prometedores p
 
 Después de una [reestructuración del personal](https://osu.ppy.sh/community/forums/topics/123510) en 2013, la División de Vigilancia Lingüística pasó a llamarse **Chat Moderators** y recibió su propia lista de miembros.
 
-El [20 de agosto de 2015](/wiki/People/Staff_log/2015#agosto), los equipos de Chat Moderators y Global Moderation [se fusionaron](https://osu.ppy.sh/community/forums/posts/4435972), dando efectivamente a todos los moderadores apodos rojos distintivos en el chat y poder de administración sobre todo el foro.
+El [20 de agosto de 2015](/wiki/People/Staff_log/2015#august), los equipos de Chat Moderators y Global Moderation [se fusionaron](https://osu.ppy.sh/community/forums/posts/4435972), dando efectivamente a todos los moderadores apodos rojos distintivos en el chat y poder de administración sobre todo el foro.

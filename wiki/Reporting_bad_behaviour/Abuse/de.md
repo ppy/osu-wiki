@@ -33,7 +33,7 @@ Wenn du der Meinung bist, dass die Bemerkungen/Annäherungen höchst unangemesse
 
 Melde den Beitrag so schnell wie möglich einem Mitglied des [Globalen Moderationsteams](/wiki/People/Global_Moderation_Team).
 
-Klicke dazu auf den Benutzernamen eines beliebigen GMT-Mitglieds in der Liste auf dieser Seite. Dadurch gelangst du zu dessen Profil. Wenn du unsicher bist, auf wen du klicken sollst, verwende stattdessen einfach [diesen Link](https://osu.ppy.sh/users/102335).
+Klicke dazu auf den Benutzernamen eines beliebigen GMT-Mitglieds in der Liste auf dieser Seite. Dadurch gelangst du zu dessen Profil. Wenn du unsicher bist, auf wen du klicken sollst, verwende stattdessen einfach [diesen Link](https://osu.ppy.sh/users/5999631).
 
 Klicke auf die Schaltfläche mit einem Briefumschlag direkt unter der Landesflagge des Benutzers. Damit gelangst du zum Chat-Fenster.
 

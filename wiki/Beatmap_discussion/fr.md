@@ -45,7 +45,7 @@ La sélection du mode change le [mode de jeu](/wiki/Game_mode) que vous modifiez
 
 ## En-tête de la beatmap
 
-*Pour plus d'informations sur le paramétrage des métadonnées, voir : [Song Setup § Métadonnées des musiques et des beatmaps](/wiki/Client/Beatmap_editor/Song_setup#métadonnées-des-musiques-et-des-beatmaps)*
+*Pour plus d'informations sur le paramétrage des métadonnées, voir : [Song Setup § General](/wiki/Client/Beatmap_editor/Song_setup#general)*
 
 ![](img/beatmap-header.png "En-tête de la beatmap")
 

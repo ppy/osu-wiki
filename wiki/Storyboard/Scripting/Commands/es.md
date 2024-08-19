@@ -239,7 +239,7 @@ Sprite,Pass,Centre,"Sample.png",320,240
 _C,0,58810,59810,0,0,0,255,255,255
 ```
 
-Para hacer que algo aparezca en (span style="background:#CCCC00")este color amarillo(/span):
+Para hacer que algo aparezca en amarillo (`#cccc00`):
 
 ```
 Sprite,Pass,Centre,"Sample.png",320,240
