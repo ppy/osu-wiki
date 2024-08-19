@@ -8,7 +8,7 @@ tags:
 
 ![PHNM2024 logo](img/logo.jpg)
 
-The **osu! Philippines Nationals 2024 - osu!mania 4K/7K** Tournament (***PHNM2024***) was a 1v1 osu!mania 4-key and 7-key tournament. It serves as the National Championships of both osu!mania keymodes for the Philippine community of the game.
+The **osu! Philippines Nationals 2024 - osu!mania 4K/7K** Tournament (***PHNM2024***) was a 1v1 osu!mania 4-key and 7-key tournament. It served as the National Championships of both osu!mania keymodes for the Philippine community of the game.
 
 ## Tournament Schedule
 
@@ -25,7 +25,7 @@ The **osu! Philippines Nationals 2024 - osu!mania 4K/7K** Tournament (***PHNM202
 
 ## Prizes
 
-The winners of each division will receive a profile badge.
+The winners of each division have received a profile badge.
 
 ![](img/phnm-badge_4k.png "PHNM 4K winner badge")
 ![](img/phnm-badge_7k.png "PHNM 7K winner badge")
