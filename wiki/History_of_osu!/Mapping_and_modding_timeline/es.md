@@ -371,7 +371,7 @@ Los sistemas de mapping y modding están mejorando constantemente. La **cronolog
 
 ### Junio
 
-- **21/6/2018:** Se creó la iniciativa del [Quality Assurance Helper](/wiki/People/Beatmap_Nominators/General_Information#quality-assurance).
+- **21/6/2018:** Se creó la iniciativa del [Quality Assurance Helper](/wiki/People/Beatmap_Nominators/General_Information#control-de-calidad).
   - Esto fue diseñado para garantizar que todos los beatmaps calificados fueran revisados por al menos 2 miembros de los BN o el QAT antes de su clasificación.
   - El programa fue administrado a través de Trello y automatizado por ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) a través de Aiess.
   - Este cambio fue una de las razones principales por las que se cambió el nombre del QAT más tarde.
@@ -445,7 +445,7 @@ Los sistemas de mapping y modding están mejorando constantemente. La **cronolog
   - Estas se planearon originalmente en el QAT Upheaval dos años antes.
 - **21/2/2020:** El liderazgo del NAT como concepto se suspendió cuando ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) renunció como líder del NAT.
   - Las tareas específicas de los líderes del NAT se delegaron a todo el equipo.
-- **24/2/2020:** El sistema del [Quality Assurance Helper](/wiki/People/Beatmap_Nominators/General_Information#quality-assurance) se transfirió de Trello al [sitio web de los Beatmap Nominators](https://bn.mappersguild.com/).
+- **24/2/2020:** El sistema del [Quality Assurance Helper](/wiki/People/Beatmap_Nominators/General_Information#control-de-calidad) se transfirió de Trello al [sitio web de los Beatmap Nominators](https://bn.mappersguild.com/).
   - Este cambio se realizó para tener en cuenta la actividad del control de calidad en las evaluaciones para Beatmap Nominator.
 
 ### Abril
@@ -519,7 +519,7 @@ Los sistemas de mapping y modding están mejorando constantemente. La **cronolog
   - Los miembros de la comunidad de mapping no estaban contentos con la falta de discusión pública detrás de este cambio y luego hicieron adaptaciones para cerrar las nuevas lagunas.
 - **18/9/2021:** Después de una pausa de una década, las reuniones de la comunidad de osu! regresaron en forma de chats de voz en vivo en el Discord de osu!. El primer tema principal abordado fue [inquietudes sobre los criterios de clasificación de osu!mania](https://osu.ppy.sh/community/forums/topics/1388182?n=1), junto con otros problemas como la complejidad general de los criterios de clasificación, la participación con mappers más nuevos y más.
   - Los cambios en los criterios de clasificación de osu!mania se pusieron a discusión y, si se acuerdan, podrían entrar en vigor pronto.
-- **24/9/2021:** Los [Quality Assurance checks](/wiki/People/Beatmap_Nominators/General_Information#quality-assurance) ya no cuentan para la actividad de un Beatmap Nominator.
+- **24/9/2021:** Los [Quality Assurance checks](/wiki/People/Beatmap_Nominators/General_Information#control-de-calidad) ya no cuentan para la actividad de un Beatmap Nominator.
   - Esto se implementó porque parecía que algunos usuarios estaban usando esto como una escapatoria para evitar contribuir activamente como Beatmap Nominator.
   - Antes de este cambio, cada verificación de control de calidad se consideraba igual a 1/4 de una nominación.
 

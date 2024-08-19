@@ -25,7 +25,7 @@ Pada daftar ini, kamu dapat mengeklik lencana kelompok yang tertera untuk meliha
 | 29 | ![BOT](/wiki/shared/group/BOT.png) | [Chat Bots](/wiki/Bot_account)[^private] | Rangkaian akun khusus yang dijalankan oleh layanan otomatis alih-alih manusia |
 | 31 | [![LVD](/wiki/shared/group/LVD.png)](https://osu.ppy.sh/groups/31) | [Project Loved](/wiki/People/Project_Loved_Team) | Memberikan apresiasi terhadap berbagai beatmap yang paling dicintai oleh komunitas |
 | 32 | [![BN](/wiki/shared/group/BN-prob.png)](https://osu.ppy.sh/groups/32) | [Beatmap Nominators (Probationary)](/wiki/People/Beatmap_Nominators#probationary-beatmap-nominators) | Para anggota Beatmap Nominator dalam masa uji coba (*probationary*) yang sedang menunggu hasil evaluasi mereka masing-masing untuk diangkat sebagai anggota penuh |
-| 33 | ![PPY](/wiki/shared/group/PPY.png) | ppy | Dikhususkan untuk [peppy](/wiki/People/peppy), sang pencipta osu! |
+| 33 | ![PPY](/wiki/shared/group/PPY.png) | ppy[^private] | Dikhususkan untuk [peppy](/wiki/People/peppy), sang pencipta osu! |
 | 35 | [![FA](/wiki/shared/group/FA.png)](https://osu.ppy.sh/groups/35) | [Featured Artist](/wiki/People/Featured_Artists) | Jajaran musisi yang telah bekerja sama dengan osu! |
 | 47 |  | Announce[^private] | Para pengguna yang memiliki izin untuk mengirimkan [pesan pengumuman melalui *chat*](/wiki/Announcement_messages) |
 | 48 | [![BSC](/wiki/shared/group/BSC.png)](https://osu.ppy.sh/groups/48) | [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators) | Bertanggung jawab memilih berbagai beatmap berkualitas untuk diikutsertakan pada [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
