@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: b0afe186b01a363a31211b349e4d83c15033890e
+---
+
 # Variantes de muestras personalizadas
 
 Por el momento, se pueden implementar conjuntos de muestras por beatmap y por skin.

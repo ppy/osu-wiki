@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 9813f83f3faf3eff53d59bf14f5b81cc128a345f
+---
+
 # Skinning de osu!taiko
 
 Puedes modificar las partes del campo de juego de osu!taiko creando una carpeta llamada `taiko` dentro de la carpeta de tu skin. Si se usa este enfoque, el usuario deberá habilitarlo explícitamente en las [opciones](/wiki/Client/Options) (habilita el botón `Utilizar la skin de Taiko para Taiko`); de lo contrario, se usarán los elementos predeterminados de la skin.

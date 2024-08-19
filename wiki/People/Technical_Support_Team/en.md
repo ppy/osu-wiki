@@ -27,4 +27,5 @@ The [Technical Support Team group page](https://osu.ppy.sh/groups/22) lists all 
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino |
+| ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Polish |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Spanish |

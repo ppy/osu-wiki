@@ -1,3 +1,8 @@
+---
+outdated_since: 3424dde31fb23feefa8ba3a3e967db3f131cb8e3
+outdated_translation: true
+---
+
 # Skinning du mode osu!
 
 ## Comboburst
