@@ -192,20 +192,17 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | :-- | :-- |
 | ::{ flag=FI }:: [-Aku](https://osu.ppy.sh/users/12315824) | Finnish |
 | ::{ flag=HK }:: [4rcheR-](https://osu.ppy.sh/users/8846762) | Cantonese, Chinese |
+| ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) |  |
 | ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) | Cantonese |
 | ::{ flag=CL }:: [Bastian](https://osu.ppy.sh/users/6345176) | Spanish |
-| ::{ flag=GB }:: [BIG H ZONDA KIT](https://osu.ppy.sh/users/16352736) |  |
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Cantonese, Chinese |
+| ::{ flag=CA }:: [coolkid](https://osu.ppy.sh/users/7620002) | German |
 | ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136) | German |
-| ::{ flag=RU }:: [fayew](https://osu.ppy.sh/users/12498861) | Russian |
-| ::{ flag=CA }:: [fuhie](https://osu.ppy.sh/users/7620002) | German |
-| ::{ flag=US }:: [GiGas](https://osu.ppy.sh/users/7300747) | Korean |
 | ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) |  |
-| ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | Russian |
 | ::{ flag=ID }:: [Mochi -](https://osu.ppy.sh/users/20424806) | Indonesian |
-| ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) | Korean |
+| ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164) | Russian |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) |  |
-| ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466) |  |
+| ::{ flag=US }:: [wonjae](https://osu.ppy.sh/users/5032045) |  |
 
 #### osu!mania
 
