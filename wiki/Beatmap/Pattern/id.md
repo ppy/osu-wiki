@@ -14,7 +14,7 @@ tags:
 ### common
 
 - [Double](common/double)
-  
+
 ### osu!
 
 - [Burst](osu!/Bursts)
