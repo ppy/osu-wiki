@@ -86,7 +86,7 @@ tags:
 
 [커뮤니티 토너먼트 상태 트래커](https://docs.google.com/spreadsheets/d/1bV5MyrJZI0F52Bx9EcYxdfRu8qGnhWRBKdXHK9uPbO0/edit?usp=sharing)는 공식 지원을 요청한 모든 토너먼트의 상태를 공개적으로 자세히 볼 수 있는 스프레드시트입니다. 이 시트에는 2023년 6월 20일 이후의 모든 토너먼트가 표시되며, 배지 적용 혹은 거부 여부를 포함하여 공식 지원 프로세스 상황을 표시합니다.
 
-[공식 토너먼트 지원 업데이트 스레드](https://osu.ppy.sh/community/forums/topics/1715676j)는 [Tournaments & Contests 포럼](https://osu.ppy.sh/community/forums/126)에 고정되어 있으며, 2023년 2월 1일 이후의 [공식적인 토너먼트 지원 위키 문서](/wiki/Tournaments/Official_support)에 대한 최신 업데이트 목록이 포함되어 있습니다. 또한, 앞서 언급한 모든 리소스에 대한 링크도 지원합니다.
+[공식 토너먼트 지원 업데이트 스레드](https://osu.ppy.sh/community/forums/topics/1715676)는 [Tournaments & Contests 포럼](https://osu.ppy.sh/community/forums/126)에 고정되어 있으며, 2023년 2월 1일 이후의 [공식적인 토너먼트 지원 위키 문서](/wiki/Tournaments/Official_support)에 대한 최신 업데이트 목록이 포함되어 있습니다. 또한, 앞서 언급한 모든 리소스에 대한 링크도 지원합니다.
 
 ### 새로운 멤버 추가
 
