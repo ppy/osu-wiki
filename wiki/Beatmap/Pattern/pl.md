@@ -13,7 +13,7 @@ tags:
 ### Wszystkie tryby gry
 
 - [Double](common/double)
-  
+
 ### osu!
 
 - [Burst](osu!/Bursts)
