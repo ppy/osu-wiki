@@ -115,7 +115,7 @@ This competition has come to an end and resulted in the following podium:
   1. [Nishino Kana - Aitakute Aitakute (Madoka Ayukawa) \[Memories (4DPT6 Edit)\]](https://osu.ppy.sh/beatmapsets/2126959#fruits/4565932)
   2. [MYUKKE. - FULi AUTO BUSTER (FULi Ver) (Mniam) \[RAiN\]](https://osu.ppy.sh/beatmapsets/2164024#fruits/4564372)
   3. [ChouCho - Authentic symphony (timemon) \[Uberzolik's Insane\]](https://osu.ppy.sh/beatmapsets/754826#fruits/1589413)
-4. [Susumu Hirasawa - BEACON (P\_O) \[Light in the Dark\]](https://osu.ppy.sh/beatmapsets/2063328#fruits/4315459)
+  4. [Susumu Hirasawa - BEACON (P\_O) \[Light in the Dark\]](https://osu.ppy.sh/beatmapsets/2063328#fruits/4315459)
 - Mystery
   1. [BanYa - Beethoven Virus (Des9) \[Rain\]](https://osu.ppy.sh/beatmapsets/2164027#fruits/4564377) (Easy Mod)
   2. [HEALTH - CRACK METAL (ExGon) \[Turn off hit lighting\]](https://osu.ppy.sh/beatmapsets/2164032#fruits/4564382) (Dodge The Beat)
