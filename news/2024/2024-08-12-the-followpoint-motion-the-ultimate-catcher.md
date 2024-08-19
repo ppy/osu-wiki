@@ -238,7 +238,7 @@ What was the first thing you did after achieving rank #1?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3885626">Motion</a></p>
 
-Immediately after achieving rank #1, I had a lot of mixed emotions like happiness and being emotional. After that, I just wanted to get drunk with happiness, so I went to the mart to buy a lof of beer. 
+Immediately after achieving rank #1, I had a lot of mixed emotions like happiness and being emotional. After that, I just wanted to get drunk with happiness, so I went to the mart to buy a lot of beer. 
 
 ![](/wiki/shared/news/2024-08-12-the-followpoint-motion-the-ultimate-catcher/beer.jpg)
 
@@ -260,7 +260,7 @@ Unfortunately, any specific goals don't come to my mind right now. but I will ke
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
-If you were to start as a new player now, would you play converts as much as you played them when you started osu!catch in its early days? Why/Why not?
+If you were to start as a new player now, would you play converts as much as you played them when you started osu!catch in its early days? Why/why not?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3885626" style="background-image: url('/wiki/shared/news/2024-08-12-the-followpoint-motion-the-ultimate-catcher/avatar-Motion.jpg')"></a>
 
@@ -268,9 +268,9 @@ If you were to start as a new player now, would you play converts as much as you
 
 Yes, I think I still would play converts as much as I played them in the earlier days of osu!catch. The main reasoning being that there are many skillsets that converts provide that are essential to becoming a better player in the long run. 
 
-Not only that though, osu!catch converts as a whole do not suffer from the same issues mania and taiko do, they are more fun, there is more to gain from them and there are even patterns that are so special they wind up being added to specifics as the mapping community has grown. 
+Not only that though, osu!catch converts as a whole do not suffer from the same issues mania and taiko do. They are more fun, there is more to gain from them and there are even patterns that are so special they wind up being added to specifics as the mapping community has grown. 
 
-My main doubt although is if I'd enjoy converts now nearly as much as I did in the past. My reasonings for this doubt are that modern converts have become less and less playable due to the fact they feature many impossible to SS patterns or messy patterns that aren't possible to hit (High SV issues, slider spam becoming a mess, etc.). 
+My main doubt although is if I'd enjoy converts now nearly as much as I did in the past. My reasonings for this doubt are that modern converts have become less and less playable due to the fact they feature many impossible to SS patterns or messy patterns that aren't possible to hit (high SV issues, slider spam becoming a mess, etc.). 
 
 In my opinion, the best converts to look at for catch players are from 2013 - 2020 as they feature the unique patterning still, but overall are more straightforward and aren't as difficult to search through for something "good/fun" to play.
 
