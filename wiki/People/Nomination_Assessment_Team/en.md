@@ -163,6 +163,7 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Spanish, German |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Dutch |
 | ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  |
+| ::{ flag=US }:: [wwwww](https://osu.ppy.sh/users/8434466) |  |
 
 #### osu!mania
 
