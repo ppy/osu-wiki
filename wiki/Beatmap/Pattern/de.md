@@ -13,7 +13,7 @@ Ein **Pattern** ist eine kleine Gruppe an [Hit-Objekten](/wiki/Gameplay/Hit_obje
 ### alle Modi
 
 - [Double](common/double)
-  
+
 ### osu!
 
 - [Burst](osu!/Bursts)
