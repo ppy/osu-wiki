@@ -182,7 +182,7 @@ As someone who was playing osu!catch for a long period of time, where do you see
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3885626">Motion</a></p>
 
-In osu!catch, the players in the top 50 hardly change over the years, because more and more people go inactive while there is a small inflow of new papers to form a new generation. This is saddening, but if this continues further, I don't think I see a good future for osu!catch T_T
+In osu!catch, the players in the top 50 hardly change over the years, because more and more people go inactive while there is a small inflow of new players to form a new generation. This is saddening, but if this continues further, I don't think I see a good future for osu!catch T_T
 
 Fortunately there's actually been more and more players from the other game modes trying osu!catch recently and I'm looking forward to this leading to a good outlook and future hopefully.
 
