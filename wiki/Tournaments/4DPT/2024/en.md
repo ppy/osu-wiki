@@ -57,8 +57,8 @@ The 4 Digit Player Tournament Season 6 was run by various community members all 
 
 - **[Main website](https://wybin.xyz/tournaments/4dpt6/home)**
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1871322?n=1)
-- [Discord Server](https://discord.gg/PTB8WuVTfB)
-- [Challonge Bracket](https://challonge.com/4dpt6)
+- [Discord server](https://discord.gg/PTB8WuVTfB)
+- [Challonge bracket](https://challonge.com/4dpt6)
 - [Livestream channel A](https://www.twitch.tv/4dpt)
 - [Livestream channel B](https://www.twitch.tv/4dctournies)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/139) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
