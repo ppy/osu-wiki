@@ -14,7 +14,7 @@ Un **patrón** es un pequeño conjunto de [objetos](/wiki/Gameplay/Hit_object) d
 ### todos los modos
 
 - [Double](common/double)
-  
+
 ### osu!
 
 - [Burst](osu!/Bursts)
