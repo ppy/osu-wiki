@@ -36,4 +36,4 @@
 ## 冷知识
 
 - 第一个上架 100 张谱面的玩家是 ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363)，于 2010 年 8 月 4 日达成。
-- 总体来说，上架 100 张谱面平均需要 **4.6 年**（大约 1668 天）。
+- 总体来说，上架 100 张谱面平均需要 **4.6 年**（大约 1668 天）。<!--Stats from https://docs.google.com/spreadsheets/d/1UK1QdaZawxJ75Q0ZwvSGb4zDcC19RumO7BwV0p9R-jM/edit?usp=sharing-->

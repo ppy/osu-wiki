@@ -36,4 +36,4 @@ I centurioni sono utenti che hanno raggiunto il prestigioso traguardo della crea
 ## Curiosità
 
 - Il primo utente a raggiungere le 100 beatmap classificate è stato ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363), il 4 agosto 2010.
-- Facendo la media tra tutti i centurioni, ci vogliono approssimativamente **4,6 anni** (circa 1668 giorni) per classificare 100 beatmap.
+- Facendo la media tra tutti i centurioni, ci vogliono approssimativamente **4,6 anni** (circa 1668 giorni) per classificare 100 beatmap.<!--Stats from https://docs.google.com/spreadsheets/d/1UK1QdaZawxJ75Q0ZwvSGb4zDcC19RumO7BwV0p9R-jM/edit?usp=sharing-->
