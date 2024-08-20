@@ -30,7 +30,7 @@ El equipo de soporte no te proporcionará ninguna «prueba» sobre las restricci
 
 ## ¡Haré un vídeo para probar mi inocencia!
 
-Lo sentimos, pero si has sido restringido, el equipo de soporte ya está seguro de que estás haciendo trampa. Un vídeo no ayudará, ya que estos también pueden ser manipulados.
+Lo sentimos, pero si has sido restringido, el equipo de soporte ya está seguro de que estás haciendo trampa. Un vídeo no ayudará, ya que estos pueden ser manipulados.
 
 ## He encontrado a alguien que definitivamente está haciendo trampa. ¡Puedo darme cuenta por su repetición/puntuación! ¿Qué debería hacer?
 
@@ -46,7 +46,7 @@ En el perfil del usuario, al hacer clic en los tres puntos que hay junto al bot�
 
 ### Páginas de los beatmaps
 
-Esta manera de reportar es también igual de efectiva que usar la página del perfil, porque los reportes llegan al mismo sitio.
+Esta manera de reportar es igual de efectiva que usar la página del perfil, porque los reportes llegan al mismo sitio.
 
 En las páginas de los beatmaps, puedes reportar a un usuario en las clasificaciones haciendo clic en el botón de `Reportar` a la derecha de su puntuación.
 
@@ -69,7 +69,7 @@ Periféricos como tabletas gráficas o pantallas táctiles están permitidos. Cu
 
 ## ¿Cómo puedo apelar mi restricción?
 
-Espera tres meses después de la última restricción aplicada antes de apelar. Envía tus correos a [accounts@ppy.sh](mailto:accounts@ppy.sh) y usa el asunto de `Restriction Appeal: <nombre de usuario>`
+Espera al menos tres meses después de la última restricción aplicada antes de apelar[^restriction-length]. Envía tus correos a [accounts@ppy.sh](mailto:accounts@ppy.sh) y usa el asunto de `Restriction Appeal: <nombre de usuario>`
 
 El equipo de soporte espera que los usuarios presenten un historial completo de sus acciones y den razones por las que no volverán a infringir las reglas en el futuro.
 
@@ -81,4 +81,9 @@ Si has infringido las reglas y quieres confesar, ponte en contacto con [accounts
 
 ## ¿Cómo puedo evitar ser silenciado o restringido?
 
-Lee atentamente y sigue las [reglas](/wiki/Rules).
+Lee atentamente y sigue las [reglas](/wiki/Rules). Si no estás seguro sobre si lo que quieres hacer sería romper las reglas, pregúntale a un miembro del [Equipo de Moderación Global](/wiki/People/Global_Moderation_Team). Si no sabes a quién preguntarle, [haz clic aquí](https://osu.ppy.sh/users/5999631).
+
+## Notas
+
+[^restriction-length]: El tiempo que has de esperar antes de apelar depende de la razón por la que estás restringido. Si no estás seguro de cuánto dura tu restricción, envia un correo a [accounts@ppy.sh](mailto:accounts@ppy.sh). Para más información, consulta [Restricciones de cuenta](/wiki/Help_centre/Account_restrictions).
+The length of time you will have to wait before appealing depends on the reason for the restriction. If you're not sure how long your restriction lasts, email [accounts@ppy.sh](mailto:accounts@ppy.sh). For more information, see [Account restrictions](/wiki/Help_centre/Account_restrictions).
