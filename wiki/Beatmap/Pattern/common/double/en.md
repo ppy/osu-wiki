@@ -14,7 +14,7 @@ In [osu!](/wiki/Game_mode/osu!), doubles are when two [hit circles](/wiki/Gamepl
 
 ![](img/maniadouble.png "Visual representation of a double in the osu!mania gamemode.")
 
-In the [osu!mania](/wiki/Game_mode/osu!mania), Doubles are known as [jump chords](wiki/Beatmap/Pattern/osu!mania/Chord)
+In the [osu!mania](/wiki/Game_mode/osu!mania), Doubles are known as [jump chords](/wiki/Beatmap/Pattern/osu!mania/Chord)
 
 ![](img/taikodouble.png "Visual representation of a double in the osu!taiko gamemode.")
 ![](img/catchdouble.png "Visual representation of a double in the osu!catch gamemode.")
