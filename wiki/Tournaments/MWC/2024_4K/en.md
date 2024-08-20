@@ -112,9 +112,9 @@ The osu!mania 4K World Cup 2024 is run by the [osu! team](/wiki/People/osu!_team
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/f3ec88dc91bdbf85429fdeff10ba211f).
 
-## Match Schedule: Round of 32
+## Match schedule: Round of 32
 
-*Notice: the following schedule is subject to change.*
+*Notice: The following schedule is subject to change.*
 
 ### Saturday, 24 August 2024
 
