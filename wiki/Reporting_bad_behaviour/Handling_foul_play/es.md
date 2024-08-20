@@ -81,9 +81,8 @@ Si has infringido las reglas y quieres confesar, ponte en contacto con [accounts
 
 ## ¿Cómo puedo evitar ser silenciado o restringido?
 
-Lee atentamente y sigue las [reglas](/wiki/Rules). Si no estás seguro sobre si lo que quieres hacer sería romper las reglas, pregúntale a un miembro del [Equipo de Moderación Global](/wiki/People/Global_Moderation_Team). Si no sabes a quién preguntarle, [haz clic aquí](https://osu.ppy.sh/users/5999631).
+Lee atentamente y sigue las [reglas](/wiki/Rules). Si no estás seguro sobre si lo que quieres hacer sería romper las reglas, pregúntale a un miembro del [Global Moderation Team](/wiki/People/Global_Moderation_Team). Si no sabes a quién preguntarle, [haz clic aquí](https://osu.ppy.sh/users/5999631).
 
 ## Notas
 
-[^restriction-length]: El tiempo que has de esperar antes de apelar depende de la razón por la que estás restringido. Si no estás seguro de cuánto dura tu restricción, envia un correo a [accounts@ppy.sh](mailto:accounts@ppy.sh). Para más información, consulta [Restricciones de cuenta](/wiki/Help_centre/Account_restrictions).
-The length of time you will have to wait before appealing depends on the reason for the restriction. If you're not sure how long your restriction lasts, email [accounts@ppy.sh](mailto:accounts@ppy.sh). For more information, see [Account restrictions](/wiki/Help_centre/Account_restrictions).
+[^restriction-length]: El tiempo que tendrás que esperar antes de apelar dependerá del motivo de la restricción. Si no estás seguro de cuánto dura tu restricción, envia un correo a [accounts@ppy.sh](mailto:accounts@ppy.sh). Para más información, consulta [Restricciones de cuenta](/wiki/Help_centre/Account_restrictions).
