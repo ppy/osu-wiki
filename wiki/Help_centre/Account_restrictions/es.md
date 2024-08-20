@@ -26,7 +26,7 @@ Si tu cuenta ha sido restringida, no entres en pánico. Por favor sigue los sigu
 - **Contacta a nuestro [equipo de soporte de cuentas](/wiki/People/Account_support_team).** Si tu cuenta sigue restringida después de ese tiempo, por favor, envía un correo a [accounts@ppy.sh](mailto:accounts@ppy.sh) **desde el correo electrónico enlazado a tu cuenta** para más detalles de tu restricción. Asegúrate de incluir tu nombre de usuario, junto con cualquier detalle que puedas proporcionar sobre por qué crees que has sido restringido. Cuanto más nos cuentes, más fácil nos resultará resolver el problema.
 - Si crees fuertemente que tu restricción fue errónea, por favor contáctanos inmediatamente para que podamos discutir tu caso.
 
-Si tu cuenta ha sido restringida por romper las [reglas](/wiki/Rules), debes esperar un mínimo de **tres meses** antes de poder enviar una apelación. Nosotros nos referimos a este período de tiempo como *tiempo de espera*, y si has hecho trampa, son seis meses.
+Si tu cuenta ha sido restringida por romper las [reglas](/wiki/Rules), debes esperar un mínimo de **tres meses** antes de poder enviar una apelación. Nosotros nos referimos a este periodo de tiempo como *tiempo de espera*, y si has hecho trampa, son seis meses.
 
 Si tu cuenta original no está restringida, puedes iniciar sesión con ella y seguir jugando normalmente, pero asegúrate de no iniciar sesión con tus multicuentas en adelante, ya que hacerlo puede dar lugar a un castigo mayor.
 
@@ -60,7 +60,7 @@ Mientras apelas, esperamos que cubras los siguientes puntos:
 - **Historial de la cuenta.** No necesitas ser muy detallado. Esto debe incluir todas tus infracciones a las reglas más importantes (multicuentas, compartir tu cuenta, trampas, o silencios importantes). No necesitas recordar cada fecha, cada silencio, o cada cuenta que has creado, mientras seas honesto con lo que hiciste. Esto incluye cualquier regla que hayas roto mientras estabas restringido, si aplica.
 - **Por qué rompiste las reglas.** Una explicación sobre lo que te llevó a decidir crear más cuentas, prestar tu cuenta, hacer trampa, etc. nos ayudará (y a ti) a determinar si estás o no en riesgo de infringir las reglas otra vez. Si continuaste infringiendo las reglas mientras estabas restringido, también nos interesa saber por qué.
 - **Cómo conseguiste los medios para hacerlo.** Esto aplica principalmente al hacer trampa, queremos saber dónde conseguiste la herramienta que usaste, cómo la encontraste, y si sigue o no presente en tu ordenador.
-- **Por qué deberíamos permitirte regresar.** La mayor parte del tiempo, esto se enlaza con el segundo punto. ¡Solo queremos asegurarnos de que no romperás las reglas de nuevo! Por favor, entiende que entre más infracciones haya en el historial de tu cuenta, más esperaremos esta sección de la apelación.
+- **Por qué deberíamos permitirte regresar.** La mayor parte del tiempo, esto se enlaza con el segundo punto. ¡Solo queremos asegurarnos de que no romperás las reglas de nuevo! Por favor, entiende que entre más infracciones haya en el historial de tu cuenta, más esperaremos en esta sección de la apelación.
 
 ## ¿Y si mi apelación es aceptada? {id=appeal-granted}
 
