@@ -24,7 +24,7 @@ Esta regla se aplica solo con una infracción. Los tramposos serán restringidos
 
 osu! usa parámetros automatizados combinados con confirmación manual. Si no sabes por qué estás restringido, ponte en contacto con [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
-## ¡Demuéstrame que estaba haciendo trampa! ¡Quisiera saber cómo lo sabes!
+## ¡Demostradme que estaba haciendo trampa! ¡Me gustaría saber qué pruebas tenéis!
 
 El equipo de soporte no te proporcionará ninguna «prueba» sobre las restricciones, pero todas se realizan con sospechas bien fundamentadas. Es muy poco probable que los usuarios normales sean blanco de este tipo de acciones.
 
