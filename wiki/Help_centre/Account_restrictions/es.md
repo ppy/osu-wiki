@@ -1,8 +1,3 @@
----
-outdated_since: a7829a7972d112aa1bc8799dd865ef3b5e80a630
-outdated_translation: true
----
-
 # Restricciones de cuenta
 
 *Página principal: [Centro de ayuda](/wiki/Help_centre)*
@@ -76,11 +71,11 @@ Si decidimos dejarte regresar, te solicitaremos que aceptes algunos términos an
 - **No deberás asociarte con otras cuentas.** Incluye jugar en ordenadores compartidos.
 - **Cualquier mala conducta mayor resultará en una restricción inmediata.** Esto incluye silenciamientos importantes.
 
-Los participantes que regresan bajo los términos estándar anteriores también están excluidos de los torneos oficiales y con insignia, tanto como competidores como miembros del equipo en el torneo. La duración de este veto es de un año (si es la segunda apelación del usuario, el veto dura 2 años). El correo electrónico de levantamiento aclarará la duración de esta prohibición.
+Los participantes que regresan bajo los términos estándar anteriores también [están excluidos de los torneos oficiales y con insignia](/wiki/Help_centre/Tournament_bans), tanto como competidores como miembros del equipo en el torneo. La duración de este veto es de un año (si es la segunda apelación del usuario, el veto dura 2 años). El correo electrónico de levantamiento aclarará la duración de esta prohibición.
 
-**Hacer trampa o compartir cuenta durante un torneo oficial o torneo con insignia llevará al veto permanente del usuario en futuros torneos.** Este veto no puede ser apelado (tu correo será ignorado si lo intentas) y no se eliminará, reducirá ni renunciará bajo ninguna circunstancia.
+**Hacer trampa o compartir cuenta durante un torneo oficial o torneo con insignia llevará al veto permanente del usuario en futuros torneos.** Este veto podrá ser apelado pasados dos años, pero solo se le otorgará si ha demostrado un esfuerzo significante para mejorar los torneos comunitarios.
 
-Algunos jugadores pueden ser restringidos otra vez una vez que empiezan a jugar después de que su apelación haya sido aceptada. Este es un proceso automático que generalmente es removido dentro de las siguientes 24 horas. ¡No dudes en hacer preguntas en twitter a [@osusupport](https://twitter.com/osusupport) o enviar un correo a [accounts@ppy.sh](mailto:accounts@ppy.sh) si esto te ocurre a ti!
+Algunos jugadores pueden ser restringidos otra vez una vez que empiezan a jugar después de que su apelación haya sido aceptada. Este es un proceso automático que generalmente es removido dentro de las siguientes 24 horas. ¡No dudes en hacer preguntas en Twitter a [@osusupport](https://twitter.com/osusupport) o enviar un correo a [accounts@ppy.sh](mailto:accounts@ppy.sh) si esto te ocurre a ti!
 
 Algunas infracciones pueden llevar a que tu cuenta sea revertida al levantarse la restricción. Esto se hace para eliminar puntuaciones ilegítimas **en todos los modos**, así como medallas desbloqueadas e insignias de perfil. **El número de jugadas y el tiempo de juego no será modificado.**
 
