@@ -58,6 +58,7 @@ The osu!mania 4K World Cup 2024 is run by the [osu! team](/wiki/People/osu!_team
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1950284)
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/46)
 - [Challonge bracket](https://challonge.com/MWC4K2024)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/152) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Support your country with a profile banner](https://osu.ppy.sh/store/products/1350)
 
 ## Participants
@@ -110,6 +111,37 @@ The osu!mania 4K World Cup 2024 is run by the [osu! team](/wiki/People/osu!_team
 | ::{ flag=VN }:: | **Vietnam** | **[\[LS\]Vixile](https://osu.ppy.sh/users/26233321)**, [Joki\_](https://osu.ppy.sh/users/18043326), [TriDoanGaming](https://osu.ppy.sh/users/14009758), [\[LS\]Tokiyume](https://osu.ppy.sh/users/13219309), [Rxizuna](https://osu.ppy.sh/users/16055641), [\[TCD\]thuypb2009](https://osu.ppy.sh/users/24291557) |
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/f3ec88dc91bdbf85429fdeff10ba211f).
+
+## Match Schedule: Round of 32
+
+*Notice: the following schedule is subject to change.*
+
+### Saturday, 24 August 2024
+
+| Team A | Team B | Match time | Twitch stream |
+| --: | :-- | :-- | :-: |
+| South Korea ::{ flag=KR }:: | ::{ flag=PE }:: Peru | [Aug 24 (Sat) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240824T020000&p1=1440&p2=235&p3=131) | [osulive](https://twitch.tv/osulive) |
+| Hong Kong ::{ flag=HK }:: | ::{ flag=ID }:: Indonesia | [Aug 24 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240824T120000&p1=1440&p2=102&p3=108) | [osulive](https://twitch.tv/osulive) |
+| Japan ::{ flag=JP }:: | ::{ flag=FR }:: France | [Aug 24 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240824T130000&p1=1440&p2=248&p3=195) | [osulive](https://twitch.tv/osulive) |
+| Vietnam ::{ flag=VN }:: | ::{ flag=UA }:: Ukraine | [Aug 24 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240824T140000&p1=1440&p2=95&p3=367) | [osulive](https://twitch.tv/osulive) |
+| Malaysia ::{ flag=MY }:: | ::{ flag=SE }:: Sweden | [Aug 24 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240824T150000&p1=1440&p2=122&p3=239) | [osulive](https://twitch.tv/osulive) |
+| United Kingdom ::{ flag=GB }:: | ::{ flag=AR }:: Argentina | [Aug 24 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240824T170000&p1=1440&p2=136&p3=51) | [osulive](https://twitch.tv/osulive) |
+| United States ::{ flag=US }:: | ::{ flag=NL }:: Netherlands | [Aug 24 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240824T180000&p1=1440&p2=263&p3=16) | [osulive](https://twitch.tv/osulive) |
+
+### Sunday, 25 August 2024
+
+| Team A | Team B | Match time | Twitch stream |
+| --: | :-- | :-- | :-: |
+| Canada ::{ flag=CA }:: | ::{ flag=AU }:: Australia | [Aug 25 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240825T030000&p1=1440&p2=188&p3=57) | [osulive](https://twitch.tv/osulive) |
+| Chile ::{ flag=CL }:: | ::{ flag=NZ }:: New Zealand | [Aug 25 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240825T030000&p1=1440&p2=232&p3=264) |  |
+| Taiwan ::{ flag=TW }:: | ::{ flag=MX }:: Mexico | [Aug 25 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240825T030000&p1=1440&p2=241&p3=155) | [osulive_2](https://twitch.tv/osulive_2) |
+| Singapore ::{ flag=SG }:: | ::{ flag=PL }:: Poland | [Aug 25 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240825T120000&p1=1440&p2=236&p3=262) | [osulive](https://twitch.tv/osulive) |
+| Thailand ::{ flag=TH }:: | ::{ flag=RO }:: Romania | [Aug 25 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240825T130000&p1=1440&p2=28&p3=49) | [osulive](https://twitch.tv/osulive) |
+| China ::{ flag=CN }:: | ::{ flag=FI }:: Finland | [Aug 25 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240825T140000&p1=1440&p2=33&p3=101) | [osulive](https://twitch.tv/osulive) |
+| Russian Federation ::{ flag=RU }:: | ::{ flag=ES }:: Spain | [Aug 25 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240825T140000&p1=1440&p2=166&p3=141) | [osulive_2](https://twitch.tv/osulive_2) |
+| Philippines ::{ flag=PH }:: | ::{ flag=CZ }:: Czechia | [Aug 25 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240825T150000&p1=1440&p2=145&p3=204) | [osulive](https://twitch.tv/osulive) |
+| Brazil ::{ flag=BR }:: | ::{ flag=IT }:: Italy | [Aug 25 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240825T150000&p1=1440&p2=45&p3=215) | [osulive_2](https://twitch.tv/osulive_2) |
+| Round of 16 | mappool showcase | [Aug 25 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240825T190000&p1=1440) | [osulive](https://twitch.tv/osulive) |
 
 ## Mappools
 
