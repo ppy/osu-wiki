@@ -80,8 +80,8 @@ The GB Cup 2024 Spring is run by Team GB and various community members.
 
 - [Information spreadsheet](https://docs.qq.com/sheet/DTXVYY2RBa1FyTlp2?tab=BB08J2)
 - [Registration form](https://wj.qq.com/s2/14213350/thxh/)
-- [Forum Link - Chinese](https://osu.ppy.sh/community/forums/topics/1891634?n=1)
-- [Forum Link - English](https://osu.ppy.sh/community/forums/topics/1891653?n=1)
+- [Discussion thread (Chinese)](https://osu.ppy.sh/community/forums/topics/1891634?n=1)
+- [Discussion thread (English)](https://osu.ppy.sh/community/forums/topics/1891653?n=1)
 - Livestream
   - [Bilibili stream](https://live.bilibili.com/22545296) (::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407))
   - [Bilibili stream](https://live.bilibili.com/10183) (::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617))
