@@ -6,7 +6,7 @@ legal: true
 
 Actualizado por última vez el 16 de abril de 2021. [Véase el historial de cambios aquí](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
 
-En adición a esta política, por favor asegúrese también de visitar y entender nuestros [Términos de servicio](/wiki/Legal/Terms).
+En adición a esta política, por favor, asegúrese también de visitar y entender nuestros [Términos de servicio](/wiki/Legal/Terms).
 
 ## Introducción
 
@@ -41,7 +41,7 @@ Al crear su perfil de usuario (que es visible públicamente para todos los demá
 - Sus intereses
 - Su ocupación
 - Su presencia en redes sociales (twitter, discord, skype, una página web)
-- La imagen de su avatar y el encabezado de su perfil
+- La imagen de su avatar y la portada de su perfil
 - Su firma
 
 Todos los campos anteriores son visibles públicamente, pero pueden retirarse de forma inmediata y permanente en cualquier momento desde [la página de configuración](https://osu.ppy.sh/home/account/edit).
@@ -54,13 +54,13 @@ Por ejemplo, si sube un beatmap y se «clasifica», este se convierte en una bas
 
 ### Al iniciar sesión en el cliente del juego
 
-Cuando se conecta a nuestro servicio desde el cliente de juego de osu!, una cadena específica del cliente es subida para ayudarnos a identificar su entorno de juego actual. Se crea a partir de una combinación de identificadores de la configuración de su hardware y software y se encripta de una manera en la que no contiene información personal identificable, pero puede usarse para rastrear sus inicios de sesión a nuestro servicio.
+Cuando se conecta a nuestro servicio desde el cliente de juego de osu!, una cadena específica del cliente es subida para ayudarnos a identificar su entorno de juego actual. Se crea a partir de una combinación de identificadores de la configuración de su hardware y software, y se encripta de una manera en la que no contiene información personal identificable, pero puede usarse para rastrear sus inicios de sesión a nuestro servicio.
 
-El principal objetivo de esto es mantener un sistema de clasificación justo y ayudarnos a imponer seguridad en su cuenta en el caso de que la misma sea accedida desde una ubicación comprometida. Esto es considerado privado y solo se almacena durante el tiempo que se considere relevante. Esto también es no transferible, y no tiene sentido fuera del ecosistema de osu!.
+El principal objetivo de esto es mantener un sistema de clasificación justo y ayudarnos a imponer seguridad en su cuenta en el caso de que la misma sea accedida desde una ubicación comprometida. Esto es considerado privado y solo se almacena durante el tiempo que se considere relevante. Esto también es intransferible, y no tiene significado fuera del ecosistema de osu!.
 
 ### Al jugar al juego y enviar una puntuación
 
-Al completar una sesión de juego (completar o fallar un mapa), los detalles de su rendimiento se enviarán automaticamente a nuestro servidor. Una parte de la puntuación que se envía incluyen los datos de la repetición del juego y podrán mostrarse públicamente en las clasificaciones globales y en su perfil de usuario, y no podrán eliminarse ni modificarse.
+Al completar una sesión de juego (completar o fallar un beatmap), los detalles de su rendimiento se enviarán automaticamente a nuestro servidor. Una parte de la puntuación que se envía incluyen los datos de la repetición del juego y podrán mostrarse públicamente en las clasificaciones globales y en su perfil de usuario, y no podrán eliminarse ni modificarse.
 
 ### Antitrampas
 
@@ -82,19 +82,19 @@ Estos datos recopilados se agrupan y solo se conservan mientras sean útiles. Po
 
 ## Divulgación de sus datos personales
 
-No hacemos nada de marketing, publicidad ni enviamos ningún correo no solicitado. Los únicos correos que recibirá de nosotros serán el resultado de una acción en nuestro servicio (como la solicitud de verificación en dos pasos, comprar un producto o la activación de las notificaciones para una discusión).
+No hacemos nada de mercadotecnia, publicidad ni enviamos ningún correo no solicitado. Los únicos correos que recibirá de nosotros serán el resultado de una acción en nuestro servicio (como la solicitud de verificación en dos pasos, comprar un producto o la activación de las notificaciones para una discusión).
 
 Podremos compartir su información personal con terceros en casos muy específicos:
 
 - Cuando haya hecho pública expresamente la información
 - Para tramitar sus pedidos de la tienda
 - Para procesar pagos mediante proveedores de procesamiento de pagos como Paypal y Xsolla.
-- Para procesar sus tickets de servicio al cliente (usamos [Enchant](https://enchant.com))
+- Para procesar sus solicitudes del servicio al cliente (usamos [Enchant](https://enchant.com))
 - Para mejorar nuestros servicios, mediante el registro de errores (usamos [Sentry](https://sentry.io))
 
 ## Sus derechos y control
 
-Como usuario, tiene el derecho de migrar, actualizar o eliminar sus datos personales. Esto se puede hacer, desde la [configuración de su cuenta](https://osu.ppy.sh/home/account/edit), o, si no está disponible, desde una función «Editar» localizada en la sección relevante de nuestro sitio web. En caso de que desee recuperar mediante programación los datos completos de su cuenta, use nuestra [API pública](https://github.com/ppy/osu-api/wiki).
+Como usuario, tiene el derecho de migrar, actualizar o eliminar sus datos personales. Esto se puede hacer, desde la [configuración de su cuenta](https://osu.ppy.sh/home/account/edit), o, si no está disponible, desde una función «Editar» localizada en la sección relevante de nuestro sitio web. En caso de que desee recuperar programáticamente los datos completos de su cuenta, use nuestra [API pública](https://github.com/ppy/osu-api/wiki).
 
 En muchos casos, el contenido creado por los usuarios, como publicaciones del foro y beatmaps, pueden eliminarse de forma individual. Encontrará botones de eliminación asociados directamente con los elementos que puedan ser eliminados.
 
