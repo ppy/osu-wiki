@@ -18,7 +18,7 @@ Para poder ofrecerle estos servicios, debemos habitualmente recoger, almacenar y
 
 Este documento busca describir que información recogemos en nuestra red y, en el uso de nuestros productos y servicios, cómo usamos esa información y qué opciones le ofrecemos para controlar su información personal.
 
-Al usar nuestro servicio, confirma que ha leído y comprendido los [Términos de servicio](/wiki/Legal/Terms) y esta política de privacidad, incluyendo cómo y por qué usamos su información y que su uso del servicio está sujeto a los Términos de Servicio aplicables y esta Política de Privacidad. Si deseas que no recojamos o procesemos su información personal como se describe en este documento, tiene distintas opciones, como limitar la información que recogemos de usted, o no usar la red, o nuestros Productos y Servicios.
+Al usar nuestro servicio, confirma que ha leído y comprendido los [Términos de servicio](/wiki/Legal/Terms) y esta política de privacidad, incluyendo cómo y por qué usamos su información y que su uso del servicio está sujeto a los Términos de Servicio aplicables y esta Política de Privacidad. Si desea que no recojamos o procesemos su información personal como se describe en este documento, tiene distintas opciones, como limitar la información que recogemos de usted, o no usar la red, o nuestros Productos y Servicios.
 
 ## Información que recogemos
 
@@ -67,7 +67,7 @@ Al completar una sesión de juego (completar o fallar un mapa), los detalles de 
 osu! contiene código ejecutable que es usado para detectar el uso de software de trampas. El objetivo del antitrampas de osu! es mantener un ambiente justo y competitivo de juego para todos los jugadores, sin afectar al rendimiento del juego o a la privacidad del usuario.
 
 - La detección de trampas ocurre en su máquina y no se envían datos innecesarios a nuestro servidor durante el proceso de detección.
-- Si el antitrampas detecta que estás haciendo trampa, entonces este hecho, además de las pruebas en forma de diagnósticos y metadatos, se envían a nuestros servidores para su verificación. Si no estás haciendo trampa, no se transmitirá ningún dato del antitrampas.
+- Si el antitrampas detecta que está haciendo trampa, entonces este hecho, además de las pruebas en forma de diagnósticos y metadatos, se envían a nuestros servidores para su verificación. Si no está haciendo trampa, no se transmitirá ningún dato del antitrampas.
 - Incluso en caso de detección, se hace todo lo posible por no enviar nunca información fuera del ecosistema de osu! que pueda usarse para identificarlo personalmente.
 - Los metadatos transmitidos se retienen en nuestro servidor únicamente durante el tiempo que sean útiles. Esto es generalmente desde horas hasta días mientras analizamos el contenido reportado.
 - El análisis es mayormente automatizado. Los metadatos transmitidos no son accesibles por miembros del equipo de soporte, y deben ser accedidos mediante varias capas de seguridad. Solo los administradores de la base de datos pueden ver los metadatos.
