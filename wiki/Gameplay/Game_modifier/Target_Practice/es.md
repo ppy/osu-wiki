@@ -21,7 +21,7 @@ tags:
 
 - Abreviatura: TP
 - Tipo: Especial
-- Multiplicador de puntuación: 1.00x
+- Multiplicador de puntuación: 1,00x
 - Modos de juego compatibles: ![][osu!]
 
 ## Descripción
