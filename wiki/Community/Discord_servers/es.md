@@ -4,7 +4,7 @@ Este artículo enumera varios servidores de [Discord](https://discord.com/) que 
 
 ## Servidor oficial de osu!
 
-El servidor Discord **osu!**, anteriormente conocido como **osu!dev**, es el servidor de Discord oficial de osu! para fines relacionados con el desarrollo del juego. El servidor funciona como un lugar donde la gente pueda discutir y trabajar en los proyectos de la comunidad y de código abierto de osu!. Este es el lugar principal para contribuir al desarrollo de osu! y ponerse en contacto con el [osu! team](/wiki/People/osu!_team).
+El servidor de Discord **osu!**, anteriormente conocido como **osu!dev**, es el servidor de Discord oficial de osu! para fines relacionados con el desarrollo del juego. El servidor funciona como un lugar donde la gente pueda discutir y trabajar en los proyectos de la comunidad y de código abierto de osu!. Este es el lugar principal para contribuir al desarrollo de osu! y ponerse en contacto con el [osu! team](/wiki/People/osu!_team).
 
 **Este es el único servidor oficialmente afiliado con el juego.** Para seguir el desarrollo activo de osu!, te recomendamos que te unas al servidor.
 
