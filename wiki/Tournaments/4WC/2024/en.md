@@ -8,7 +8,7 @@ tags:
 
 ![4WC banner](img/banner.jpg)
 
-The **4 Digit World Cup 2024** (***4WC2024***) is a 4v4, double-elimination, country-based osu! tournament hosted by ::{ flag=DE }:: [resoa](https://osu.ppy.sh/users/6754508) and ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899). It is the sixth instalment of the 4 Digit World Cup.
+The **4 Digit World Cup 2024** (***4WC2024***) was a 4v4, double-elimination, country-based osu! tournament hosted by ::{ flag=DE }:: [resoa](https://osu.ppy.sh/users/6754508) and ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899). It was the sixth instalment of the 4 Digit World Cup.
 
 ## Tournament schedule
 
@@ -27,7 +27,7 @@ The **4 Digit World Cup 2024** (***4WC2024***) is a 4v4, double-elimination, cou
 
 ## Prizes
 
-The 4 Digit World Cup 2024 awards winners with a [community-funded prize pool on Open Collective](https://opencollective.com/4wc).
+The 4 Digit World Cup 2024 awarded winners with a [community-funded prize pool on Open Collective](https://opencollective.com/4wc).
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -37,16 +37,15 @@ The 4 Digit World Cup 2024 awards winners with a [community-funded prize pool on
 
 ## Organisation
 
-The 4 Digit World Cup 2024 is run by various community members.
+The 4 Digit World Cup 2024 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=DE }:: [resoa](https://osu.ppy.sh/users/6754508), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
 | Designer and developer | ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
-| Mappool selector | ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656), ::{ flag=US }:: [Conyoh](https://osu.ppy.sh/users/4844496), ::{ flag=DE }:: [resoa](https://osu.ppy.sh/users/6754508) |
-| Mappool playtester | ::{ flag=RU }:: [_wonderer](https://osu.ppy.sh/users/8215374), ::{ flag=US }:: [-Arko](https://osu.ppy.sh/users/8802914), ::{ flag=DE }:: [-semi](https://osu.ppy.sh/users/5154946), ::{ flag=SA }:: [3BDOOO](https://osu.ppy.sh/users/22461441), ::{ flag=PL }:: [cezgru](https://osu.ppy.sh/users/2629617), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=US }:: [conradmittn](https://osu.ppy.sh/users/8208289), ::{ flag=CA }:: [El Condor Pasa](https://osu.ppy.sh/users/4415285), ::{ flag=RU }:: [Endura](https://osu.ppy.sh/users/7774197), ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970), ::{ flag=US }:: [EthantrixV2](https://osu.ppy.sh/users/10634348), ::{ flag=CN }:: [FcEazy](https://osu.ppy.sh/users/7825227), ::{ flag=US }:: [Flameztear](https://osu.ppy.sh/users/13207763), ::{ flag=ES }:: [GATmoneyTJ1994](https://osu.ppy.sh/users/6735738), ::{ flag=CA }:: [GENDER BENDER](https://osu.ppy.sh/users/2758279), ::{ flag=US }:: [headstack](https://osu.ppy.sh/users/10322186), ::{ flag=US }:: [Jakson](https://osu.ppy.sh/users/8788058), ::{ flag=PL }:: [kiir0chii](https://osu.ppy.sh/users/9322480), ::{ flag=KR }:: [Lujeol](https://osu.ppy.sh/users/14447878), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=GB }:: [Malteser](https://osu.ppy.sh/users/5218178), ::{ flag=ES }:: [MeiFTW](https://osu.ppy.sh/users/15049805), ::{ flag=US }:: [Mejir0 McQueen](https://osu.ppy.sh/users/12522447), ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071), ::{ flag=FI }:: [Nev-](https://osu.ppy.sh/users/11836334), ::{ flag=NO }:: [ninerik](https://osu.ppy.sh/users/10549880), ::{ flag=MN }:: [seegii](https://osu.ppy.sh/users/4659319), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=CA }:: [Too Slow](https://osu.ppy.sh/users/2944449), ::{ flag=PL }:: [Tutka](https://osu.ppy.sh/users/8170022), ::{ flag=CA }:: [Vespirit](https://osu.ppy.sh/users/5425046), ::{ flag=CA }:: [VineOpoly](https://osu.ppy.sh/users/11684952), ::{ flag=KR }:: [worst hr player](https://osu.ppy.sh/users/14106450), ::{ flag=DE }:: [ZeitFrost](https://osu.ppy.sh/users/11234706) |
+| Mappool Playtester | ::{ flag=RU }:: [_wonderer](https://osu.ppy.sh/users/8215374), ::{ flag=US }:: [-Arko](https://osu.ppy.sh/users/8802914), ::{ flag=DE }:: [-semi](https://osu.ppy.sh/users/5154946), ::{ flag=PL }:: [cezgru](https://osu.ppy.sh/users/2629617), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=US }:: [conradmittn](https://osu.ppy.sh/users/8208289), ::{ flag=CA }:: [El Condor Pasa](https://osu.ppy.sh/users/4415285), ::{ flag=RU }:: [Endura](https://osu.ppy.sh/users/7774197), ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970), ::{ flag=US }:: [EthantrixV2](https://osu.ppy.sh/users/10634348), ::{ flag=DE }:: [Ezius](https://osu.ppy.sh/users/1861823), ::{ flag=CN }:: [FcEazy](https://osu.ppy.sh/users/7825227), ::{ flag=US }:: [Flameztear](https://osu.ppy.sh/users/13207763), ::{ flag=ES }:: [GATmoneyTJ1994](https://osu.ppy.sh/users/6735738), ::{ flag=CA }:: [GENDER BENDER](https://osu.ppy.sh/users/2758279), ::{ flag=US }:: [Jakson](https://osu.ppy.sh/users/8788058), ::{ flag=PL }:: [kiir0chii](https://osu.ppy.sh/users/9322480), ::{ flag=KR }:: [Lujeol](https://osu.ppy.sh/users/14447878), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=GB }:: [Malteser](https://osu.ppy.sh/users/5218178), ::{ flag=ES }:: [MeiFTW](https://osu.ppy.sh/users/15049805), ::{ flag=US }:: [Mejir0 McQueen](https://osu.ppy.sh/users/12522447), ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071), ::{ flag=FI }:: [Nev-](https://osu.ppy.sh/users/11836334), ::{ flag=NO }:: [ninerik](https://osu.ppy.sh/users/10549880), ::{ flag=CA }:: [pretty girl](https://osu.ppy.sh/users/11684952), ::{ flag=MN }:: [seegii](https://osu.ppy.sh/users/4659319), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=US }:: [Sheldon C](https://osu.ppy.sh/users/10322186), ::{ flag=CA }:: [Too Slow](https://osu.ppy.sh/users/2944449), ::{ flag=PL }:: [Tutka](https://osu.ppy.sh/users/8170022), ::{ flag=CA }:: [Vespirit](https://osu.ppy.sh/users/5425046), ::{ flag=KR }:: [worst hr player](https://osu.ppy.sh/users/14106450), ::{ flag=DE }:: [ZeitFrost](https://osu.ppy.sh/users/11234706) |
 | Streamer | ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=VN }:: [Hoaq](https://osu.ppy.sh/users/7696512), ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692), ::{ flag=CA }:: [kymotsujason](https://osu.ppy.sh/users/2541804), ::{ flag=US }:: [ROB_](https://osu.ppy.sh/users/12455868), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=VN }:: [SIay](https://osu.ppy.sh/users/9587896), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189) |
-| Commentator | ::{ flag=BR }:: [-felicia](https://osu.ppy.sh/users/10157694), ::{ flag=DE }:: [-semi](https://osu.ppy.sh/users/5154946), ::{ flag=FI }:: [Amasetic](https://osu.ppy.sh/users/11375251), ::{ flag=US }:: [ampy](https://osu.ppy.sh/users/4458239), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=GB }:: [Damarsh](https://osu.ppy.sh/users/7465147), ::{ flag=AT }:: [extrasensory](https://osu.ppy.sh/users/5841333), ::{ flag=US }:: [Hubert](https://osu.ppy.sh/users/6430626), ::{ flag=CA }:: [I-Flame](https://osu.ppy.sh/users/11257542), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=AU }:: [Mavs](https://osu.ppy.sh/users/11076938), ::{ flag=SE }:: [nautzz](https://osu.ppy.sh/users/2012039), ::{ flag=FI }:: [Nev-](https://osu.ppy.sh/users/11836334), ::{ flag=DE }:: [resoa](https://osu.ppy.sh/users/6754508), ::{ flag=GB }:: [SadShiba](https://osu.ppy.sh/users/10747626), ::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189), ::{ flag=US }:: [Tycani](https://osu.ppy.sh/users/6693266), ::{ flag=AU }:: [Vordi](https://osu.ppy.sh/users/6659116) |
+| Commentator | ::{ flag=BR }:: [-felicia](https://osu.ppy.sh/users/10157694), ::{ flag=DE }:: [-semi](https://osu.ppy.sh/users/5154946), ::{ flag=FI }:: [Amasetic](https://osu.ppy.sh/users/11375251), ::{ flag=US }:: [ampy](https://osu.ppy.sh/users/4458239), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=GB }:: [Damarsh](https://osu.ppy.sh/users/7465147), ::{ flag=AT }:: [extrasensory](https://osu.ppy.sh/users/5841333), ::{ flag=US }:: [hubbawubba](https://osu.ppy.sh/users/15910288), ::{ flag=CA }:: [I-Flame](https://osu.ppy.sh/users/11257542), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=AU }:: [Mavs](https://osu.ppy.sh/users/11076938), ::{ flag=FI }:: [Nev-](https://osu.ppy.sh/users/11836334), ::{ flag=DE }:: [resoa](https://osu.ppy.sh/users/6754508), ::{ flag=GB }:: [SadShiba](https://osu.ppy.sh/users/10747626), ::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189), ::{ flag=US }:: [Tycani](https://osu.ppy.sh/users/6693266), ::{ flag=AU }:: [Vordi](https://osu.ppy.sh/users/6659116) |
 | Referee | ::{ flag=PH }:: [-PeKoRa-](https://osu.ppy.sh/users/17959882), ::{ flag=US }:: [[K]](https://osu.ppy.sh/users/16551387), ::{ flag=FI }:: [Aetherian](https://osu.ppy.sh/users/6263040), ::{ flag=NZ }:: [cyndrean](https://osu.ppy.sh/users/12872893), ::{ flag=KR }:: [Discord](https://osu.ppy.sh/users/16194858), ::{ flag=DE }:: [Dragoncurve](https://osu.ppy.sh/users/6675367), ::{ flag=DE }:: [Elzix](https://osu.ppy.sh/users/4990127), ::{ flag=US }:: [freddiiieeee](https://osu.ppy.sh/users/7112839), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=SK }:: [Mavosiik](https://osu.ppy.sh/users/18927594), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=PL }:: [P a t r i c k](https://osu.ppy.sh/users/6814521), ::{ flag=RU }:: [Rainbowtaves](https://osu.ppy.sh/users/10079847), ::{ flag=DE }:: [resoa](https://osu.ppy.sh/users/6754508), ::{ flag=US }:: [ROB_](https://osu.ppy.sh/users/12455868), ::{ flag=HK }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=IN }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag=GB }:: [SSScotty](https://osu.ppy.sh/users/10319851), ::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187), ::{ flag=US }:: [vleth](https://osu.ppy.sh/users/18556796), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
 
 ## Links
@@ -54,6 +53,7 @@ The 4 Digit World Cup 2024 is run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1898593)
 - [Livestream](https://twitch.tv/4wcb)
 - [Information spreadsheet](https://docs.google.com/spreadsheets/d/1gPRSI1lTW8ZMlu_1mnxpVcZyzO2Atbb_2H5nfDt0CXM)
+- [Weekly statistics spreadsheets](https://drive.google.com/drive/u/0/folders/1dvBabKdU7V1nx1wEMhINi89NSdBvDU5f)
 - [Challonge bracket](https://challonge.com/4wc24)
 - [Discord server](https://discord.com/invite/uQarcRtB3u)
 
@@ -120,22 +120,9 @@ The 4 Digit World Cup 2024 is run by various community members.
 | ::{ flag=UY }:: | **Uruguay** | **[Shikke](https://osu.ppy.sh/users/5382216)**, [El Milanga](https://osu.ppy.sh/users/12264918), [finalevening](https://osu.ppy.sh/users/18983862), [Madozito](https://osu.ppy.sh/users/4054429), [Rami12890](https://osu.ppy.sh/users/23970963), [Hanabi-](https://osu.ppy.sh/users/20459807), [Ryo Mizoguchi](https://osu.ppy.sh/users/27635595), [Haku-](https://osu.ppy.sh/users/24879119) |
 | ::{ flag=VN }:: | **Vietnam** | **[realshin](https://osu.ppy.sh/users/8006029)**, [Another Guy](https://osu.ppy.sh/users/4540667), [t4hN](https://osu.ppy.sh/users/18948749), [hotcat190](https://osu.ppy.sh/users/10143086), [\_Casiofx580vnx](https://osu.ppy.sh/users/848961), [Phoeni\_](https://osu.ppy.sh/users/14953642), [Ayamaki](https://osu.ppy.sh/users/16396650), [updraft](https://osu.ppy.sh/users/11688228) |
 
-## Match Schedule: Grand Finals
+## Podium
 
-### Saturday, 15 June 2024
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| China ::{ flag=CN }:: | ::{ flag=CA }:: Canada | Jun 15 (Sat) 02:00 UTC | [4wcb](https://twitch.tv/4wcb) | [^losers-bracket] |
-
-### Sunday, 16 June 2024
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| United States ::{ flag=US }:: | ::{ flag=CA }:: Canada | Jun 16 (Sun) 01:00 UTC | [4wcb](https://twitch.tv/4wcb) | [^potential-match] |
-| United States ::{ flag=US }:: | ::{ flag=CN }:: China | Jun 16 (Sun) 02:00 UTC | [4wcb](https://twitch.tv/4wcb) | [^potential-match] |
-| Canada ::{ flag=CA }:: | ::{ flag=US }:: United States | Jun 16 (Sun) 02:30 UTC | [4wcb](https://twitch.tv/4wcb) | [^potential-match] |
-| China ::{ flag=CN }:: | ::{ flag=US }:: United States | Jun 16 (Sun) 03:30 UTC | [4wcb](https://twitch.tv/4wcb) | [^potential-match] |
+![4WC podium](img/podium.jpg)
 
 ## Mappools
 
@@ -325,6 +312,22 @@ The 4 Digit World Cup 2024 is run by various community members.
   3. [Utada Hikaru - PINK BLOOD (Agatsu) \[Insane\]](https://osu.ppy.sh/beatmapsets/1891095#osu/3896335)
 
 ## Match Results
+
+### Grand Finals
+
+Detailed statistics for the Grand Finals can be found [here](https://docs.google.com/spreadsheets/d/1wB5J0kZKUL7k4n4yDsFVHwuvU3jE2ZjPW8BXupHZpD0?rm=minimal).
+
+Saturday, 15 June 2024
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| China ::{ flag=CN }:: | 1 | **7** | ::{ flag=CA }:: **Canada** | [#1](https://osu.ppy.sh/community/matches/114296082) |
+
+Sunday, 16 June 2024
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United States** ::{ flag=US }:: | **7** | 3 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/114309712) |
 
 ### Finals
 
@@ -616,6 +619,4 @@ Detailed results and statistics for the Qualifier stage can be found in the foll
 - The top 32 qualifying teams will advance to a double elimination bracket.
   - Cumulative z-score, scaled to 0–100, will be used to seed the teams.
 
-[^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
 [^qualifiers-seeding]: Cumulative z-score, scaled to 0–100

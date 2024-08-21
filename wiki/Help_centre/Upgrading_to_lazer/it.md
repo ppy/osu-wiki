@@ -72,7 +72,7 @@ Di seguito verrà rappresentata una lista dello **stato attuale** di lazer in co
 | Ricezione del punteggio | ![Sì][true] | ![Sì][true] |
 | Classifiche per beatmap | ![Sì][true] | ![Sì][true] |
 | Statistiche del profilo | ![Sì][true] | ![Sì][true] |
-| Medaglie | ![Sì][true] | ![No][false] |
+| Medaglie | ![Sì][true] | ![Parziale][partial][^medals-lazer] |
 | Punti performance | ![Sì][true] | ![Sì][true] |
 | Chat in tempo reale | ![Parziale][partial][^stable-chat] | ![Sì][true] |
 | Wiki / news / changelog / classifiche | ![No][false] | ![Sì][true][^online-content] |
@@ -220,7 +220,7 @@ Però, solo le seguenti mod garantiscono punti performance per ora:
 - Sistema
   - Touch Device
 
-Solo la configurazione di default è idonea ai punti performance, se non diversamente indicato sopra. 
+Solo la configurazione di default è idonea ai punti performance, se non diversamente indicato sopra.
 
 #### Non mi piacciono le nuove meccaniche di gioco. Posso ripristinare le vecchie meccaniche di gioco come su stable?
 
@@ -342,6 +342,7 @@ Probabilmente stai pensando ad un altro gioco.
 [^countdown-timers-lazer]: Imposta un conto alla rovescia dall'interfaccia utente del gioco per avviare automaticamente la partita.
 [^queue-modes]: Attiva per consentire a chiunque in una lobby di mettere in coda nuove beatmap, anche detto "host rotate".
 [^difficulty-adjust]: Cambiare CS/AR/OD/HP di una beatmap direttamente dalla song select tramite la mod Difficulty Adjust.
+[^medals-lazer]: Alcune [medaglie Hush-Hush](/wiki/Medals#hush-hush) non sono ancora ottenibili.
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png

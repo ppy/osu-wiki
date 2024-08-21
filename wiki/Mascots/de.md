@@ -10,7 +10,7 @@ Ein YouTube-Video, in dem die Maskottchen von osu! vorgestellt werden, ist unter
 
 ![pippi](img/pippi.png "pippi")
 
-pippi, stilisiert mit einem kleinen "p", ist das Maskottchen des osu!-Spielmodus, das im Juli 2008 hinzukam. Sie ist auch als pippidon in osu!taiko bekannt und erschien in [Yandere Simulator](https://yanderesimulator.com) als NPC. Das anfängliche Konzeptbild wurde von [Sarumaru](https://osu.ppy.sh/users/9427) erstellt, das pippidon Sprite wurde von [crystalsuicune](https://osu.ppy.sh/users/9974) erstellt und das aktuelle Bild wurde von [Daru](https://osu.ppy.sh/users/32480) entworfen.
+pippi, stilisiert mit einem kleinen "p", ist das Maskottchen des osu!-Spielmodus, das im Juli 2008 hinzukam. Sie ist auch als pippidon in osu!taiko bekannt und erschien in [Yandere Simulator](https://yanderesimulator.com) als NPC. Das anfängliche Konzeptbild wurde von ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427) erstellt, das pippidon Sprite wurde von ::{ flag=HK }:: [crystalsuicune](https://osu.ppy.sh/users/9974) erstellt und das aktuelle Bild wurde von ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) entworfen.
 
 ### ![osu!catch Icon](/wiki/shared/mode/catch.png) Yuzu
 
@@ -18,7 +18,7 @@ pippi, stilisiert mit einem kleinen "p", ist das Maskottchen des osu!-Spielmodus
 
 ![Yuzu](img/Yuzu.png "Yuzu")
 
-Yuzu ist das Maskottchen von osu!catch, das am 22.06.2014 hinzukam. Er wurde am 10.04.2000 geboren, ist 172 Zentimeter groß und wiegt 65 Kilogramm. Sein aktuelles Design wurde von [Thievley](https://osu.ppy.sh/users/4717672) entworfen. Sein ursprüngliches Design und die Catcher-Sprites stammen von [ztrot](https://osu.ppy.sh/users/6347). Daru hat das Comboburst-Design erstellt.
+Yuzu ist das Maskottchen von osu!catch, das am 22.06.2014 hinzukam. Er wurde am 10.04.2000 geboren, ist 172 Zentimeter groß und wiegt 65 Kilogramm. Sein aktuelles Design wurde von ::{ flag=US }:: [Thievley](https://osu.ppy.sh/users/4717672) entworfen. Sein ursprüngliches Design und die Catcher-Sprites stammen von ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347). Daru hat das Comboburst-Design erstellt.
 
 ### ![osu!mania Icon](/wiki/shared/mode/mania.png) Mani & Mari
 
@@ -26,7 +26,7 @@ Yuzu ist das Maskottchen von osu!catch, das am 22.06.2014 hinzukam. Er wurde am 
 
 ![Mani & Mari](https://assets.ppy.sh/media/mari-mani/wiki-key-condensed.png "Mani & Mari")
 
-Mani und Mari wurden von [xiemon](https://osu.ppy.sh/users/5203667) entworfen, nachdem sie beim [Most Manic Art Contest](https://osu.ppy.sh/community/contests/80) gescoutet und am 18.09.2020 als offizielle osu!mania-Maskottchen angekündigt wurden. Sie sind Zwillinge, die sich nicht ausstehen können, sich aber ähnlicher sind, als sie zugeben wollen.
+Mani und Mari wurden von ::{ flag=ID }:: [xiemon](https://osu.ppy.sh/users/5203667) entworfen, nachdem sie beim [Most Manic Art Contest](https://osu.ppy.sh/community/contests/80) gescoutet und am 18.09.2020 als offizielle osu!mania-Maskottchen angekündigt wurden. Sie sind Zwillinge, die sich nicht ausstehen können, sich aber ähnlicher sind, als sie zugeben wollen.
 
 Mani ist so etwas wie ein Außenseiter, der immer auf der Suche nach neuen Stilen und Dingen ist, während seine Schwester Mari (früher bekannt als Maria) eine starre, klassische Perfektionistin mit einer Vorliebe für das Rampenlicht ist. Die beiden verstehen sich wie Öl und Wasser.
 
@@ -36,7 +36,7 @@ Mani ist so etwas wie ein Außenseiter, der immer auf der Suche nach neuen Stile
 
 ![Mocha](img/Mocha.png "Mocha")
 
-Mocha ist das Maskottchen von osu!taiko. Sie wurde ursprünglich während des [sechsten Fanart-Wettbewerbs](https://osu.ppy.sh/community/contests/2) von [Crowie](https://osu.ppy.sh/users/6894067) entworfen, der in den Umfragen auf Platz 21 gelandet ist.
+Mocha ist das Maskottchen von osu!taiko. Sie wurde ursprünglich während des [sechsten Fanart-Wettbewerbs](https://osu.ppy.sh/community/contests/2) von ::{ flag=US }:: [Crowie](https://osu.ppy.sh/users/6894067) entworfen, der in den Umfragen auf Platz 21 gelandet ist.
 
 ## Cameos
 
@@ -48,7 +48,7 @@ Mocha ist das Maskottchen von osu!taiko. Sie wurde ursprünglich während des [s
 
 一本木龍太 (Ryūta Ippongi) war der Chibi-Fruchtfänger von osu!catch, der 2008 dazugekommen war, aber 2014 durch [Yuzu](#yuzu) ersetzt wurde. Er wurde von [iNiS Corporation](https://en.wikipedia.org/wiki/INiS) erstellt und war einst Teil der alten Website. Er erschien auch in [Yandere Simulator](https://yanderesimulator.com) als NPC.
 
-Ryuuta war auch im Skin von [LuigiHann](https://osu.ppy.sh/users/1079), [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357) zu sehen.
+Ryuuta war auch im Skin von ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079), [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357) zu sehen.
 
 ### Agent J
 
@@ -58,7 +58,7 @@ Ryuuta war auch im Skin von [LuigiHann](https://osu.ppy.sh/users/1079), [Elite B
 
 Agent J, auch bekannt als BA-2 (Beat Agent-2) oder J, war eines der osu!-Maskottchen im Jahr 2008, wurde aber 2014 in den Ruhestand versetzt. Er wurde von der iNiS Corporation geschaffen und war einst Teil der alten Website.
 
-Agent J war auch in [LuigiHann](https://osu.ppy.sh/users/1079)'s Skin, [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357) zu sehen.
+Agent J war auch in ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079)'s Skin, [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357) zu sehen.
 
 ### Don
 
@@ -74,28 +74,28 @@ Agent J war auch in [LuigiHann](https://osu.ppy.sh/users/1079)'s Skin, [Elite Be
 
 ![Aiko](img/Aiko.png "Aiko")
 
-Aiko wurde von [JMC](https://osu.ppy.sh/users/774010) entworfen und war eine der Einsendungen am Designwettbewerb für das Maskottchen von osu!taiko. Sie ist ein energiegeladenes Mädchen mit einer Leidenschaft für osu!taiko, auch wenn sie nicht die Beste darin ist! Mit einem Paar modischer "Tabi"-Schuhe und einem Gefolge von pippidon-Accessoires lebt das Maskottchen von einst in diesem temperamentvollen Mädchen weiter. Sie ist mit nur 154 Zentimetern recht klein und wurde am 06.04.1999 geboren.
+Aiko wurde von ::{ flag=ID }:: [JMC](https://osu.ppy.sh/users/774010) entworfen und war eine der Einsendungen am Designwettbewerb für das Maskottchen von osu!taiko. Sie ist ein energiegeladenes Mädchen mit einer Leidenschaft für osu!taiko, auch wenn sie nicht die Beste darin ist! Mit einem Paar modischer "Tabi"-Schuhe und einem Gefolge von pippidon-Accessoires lebt das Maskottchen von einst in diesem temperamentvollen Mädchen weiter. Sie ist mit nur 154 Zentimetern recht klein und wurde am 06.04.1999 geboren.
 
 ### Alisa
 
 ![Alisa](img/Alisa.png "Alisa")
 
-Alisa wurde von [\[ Glitch \]](https://osu.ppy.sh/users/3781400) entworfen und war eine der Einsendungen am Designwettbewerb für das Maskottchen von osu!taiko. Sie spielt osu!taiko schon seit ihrer frühen Kindheit. Wenn sie nicht gerade schläft oder isst, spielt sie osu!taiko oder hat Spaß an Retro-Videospielen!
+Alisa wurde von ::{ flag=AE }:: [\[ Glitch \]](https://osu.ppy.sh/users/3781400) entworfen und war eine der Einsendungen am Designwettbewerb für das Maskottchen von osu!taiko. Sie spielt osu!taiko schon seit ihrer frühen Kindheit. Wenn sie nicht gerade schläft oder isst, spielt sie osu!taiko oder hat Spaß an Retro-Videospielen!
 
 ### Chirou
 
 ![Chirou](img/Chirou.png "Chirou")
 
-Chirou wurde von [pyun](https://osu.ppy.sh/users/981534) entworfen und war eine der Einsendungen am Designwettbewerb für das Maskottchen von osu!taiko. Sie ist sehr streng und anspruchsvoll, eine Perfektionistin und macht nicht gerne Fehler—vor allem nicht bei ihren Beats in osu!taiko. Aber hinter ihrer strengen Fassade kann sie, wenn man an ihren weichen Punkt kommt, auch flauschig und süß sein. Sie ist 14 Jahre alt und wurde am 25. Oktober mit der Blutgruppe AB geboren. Außerdem ist sie 1,80 m groß und wiegt 45 Kilogramm. Zu ihren Hobbys gehören das Trommeln, sich in ihrem Umhang warmzuhalten und Edelsteine oder Steine zu sammeln. Chirou hat einige Auftritte in verschiedenen Fanart-Beiträgen von Benutzern.
+Chirou wurde von ::{ flag=US }:: [pyun](https://osu.ppy.sh/users/981534) entworfen und war eine der Einsendungen am Designwettbewerb für das Maskottchen von osu!taiko. Sie ist sehr streng und anspruchsvoll, eine Perfektionistin und macht nicht gerne Fehler—vor allem nicht bei ihren Beats in osu!taiko. Aber hinter ihrer strengen Fassade kann sie, wenn man an ihren weichen Punkt kommt, auch flauschig und süß sein. Sie ist 14 Jahre alt und wurde am 25. Oktober mit der Blutgruppe AB geboren. Außerdem ist sie 1,80 m groß und wiegt 45 Kilogramm. Zu ihren Hobbys gehören das Trommeln, sich in ihrem Umhang warmzuhalten und Edelsteine oder Steine zu sammeln. Chirou hat einige Auftritte in verschiedenen Fanart-Beiträgen von Benutzern.
 
 ### Taikonator
 
 ![Taikonator](img/Taikonator.png "Taikonator")
 
-Taikonator, auch bekannt als Taikonator 3000, war einer der Einsendungen am Designwettbewerb für das Maskottchen von osu!taiko und wurde von [Lemia-Chan](https://osu.ppy.sh/users/8506749) designt. Taikonator hat aus unbekannten Gründen als Insider-Witz eine gewisse Zugkraft und Popularität erlangt. Seine Herkunft bleibt ein Rätsel; trotzdem ist er weitaus einzigartiger als die anderen Designvorschläge für das osu!taiko-Maskottchen und hat viele Auftritte in verschiedenen Fanart-Beiträgen von Benutzern.
+Taikonator, auch bekannt als Taikonator 3000, war einer der Einsendungen am Designwettbewerb für das Maskottchen von osu!taiko und wurde von ::{ flag=PL }:: [Lemia-Chan](https://osu.ppy.sh/users/8506749) designt. Taikonator hat aus unbekannten Gründen als Insider-Witz eine gewisse Zugkraft und Popularität erlangt. Seine Herkunft bleibt ein Rätsel; trotzdem ist er weitaus einzigartiger als die anderen Designvorschläge für das osu!taiko-Maskottchen und hat viele Auftritte in verschiedenen Fanart-Beiträgen von Benutzern.
 
 ### Tama
 
 ![Tama](img/Tama.png "Tama")
 
-Tama wurde von [crystalsuicine](https://osu.ppy.sh/users/9974) entworfen und war mit nur 15 Jahren eine der jüngeren Einsendungen am Designwettbewerb für das Maskottchen von osu!taiko (oder doch nicht?). Tama hat eine große Leidenschaft für das Taiko-Trommeln. Und Gewitter. Und vor allem Festivals, auf denen sie jedes Takoyaki aufschnappt, das sie finden kann. Tama ist immer für eine Herausforderung zu haben und verbirgt hinter ihrem jugendlichen Auftreten eine besonders mysteriöse Vergangenheit.
+Tama wurde von ::{ flag=HK }:: [crystalsuicune](https://osu.ppy.sh/users/9974) entworfen und war mit nur 15 Jahren eine der jüngeren Einsendungen am Designwettbewerb für das Maskottchen von osu!taiko (oder doch nicht?). Tama hat eine große Leidenschaft für das Taiko-Trommeln. Und Gewitter. Und vor allem Festivals, auf denen sie jedes Takoyaki aufschnappt, das sie finden kann. Tama ist immer für eine Herausforderung zu haben und verbirgt hinter ihrem jugendlichen Auftreten eine besonders mysteriöse Vergangenheit.

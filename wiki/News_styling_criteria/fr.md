@@ -1,6 +1,8 @@
 ---
 no_native_review: true
 no_native_review_since: 1bf5b747eb7cc330b7bed4195c7119e904282211 Doryan
+outdated_translation: true
+outdated_since: 810423a062ae5027a60675da09bb9be132b04229
 ---
 
 # Critères de style des news
@@ -115,7 +117,7 @@ La largeur de tous les cadres de contenu incorporé doit être fixée à 95 %, �
 Vidéo hébergée sur `assets.ppy.sh` :
 
 ```html
-<div align="center">
+<div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
         <source src="https://assets.ppy.sh/artists/172/release_showcase.mp4" type="video/mp4" preload="none">
     </video>
@@ -125,7 +127,7 @@ Vidéo hébergée sur `assets.ppy.sh` :
 Vidéo intégrée dans YouTube :
 
 ```html
-<div align="center">
+<div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/cXkiX7u4a9g" frameborder="0" allowfullscreen></iframe>
 </div>
 ```

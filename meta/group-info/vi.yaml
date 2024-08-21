@@ -16,6 +16,7 @@ gmt:
     beatmap: kiểm duyệt beatmap
     chat: kiểm duyệt chat
     forum: kiểm duyệt diễn đàn
+    general: kiểm duyệt chung
     team: đại diện chính thức
     dev: osu!dev
     player: hỗ trợ người chơi

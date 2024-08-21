@@ -41,7 +41,7 @@
       - changed-files:
           - any-glob-to-any-file:
               - wiki/**/*.md
-              - meta/group-info/*.yml
+              - meta/group-info/*.yaml
           - all-globs-to-all-files:
               - "!wiki/**/en.md"
-              - "!meta/group-info/en.yml"
+              - "!meta/group-info/en.yaml"

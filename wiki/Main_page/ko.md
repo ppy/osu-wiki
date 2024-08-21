@@ -100,7 +100,7 @@ osu!와 커뮤니티가 음악 라이센싱과 미디어 사용 가이드라인�
 
 [토너먼트](/wiki/Tournaments) • [비트맵 스포트라이트](/wiki/Beatmap_Spotlights) • [콘테스트](/wiki/Contests) • [커뮤니티 멘토십 프로그램](/wiki/Community/Community_Mentorship_Program)
 
-[프로젝트](/wiki/Community/Projects) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [osu! 커뮤니티 미팅](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk)
+[프로젝트](/wiki/Community/Projects) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [osu! 커뮤니티 미팅](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [lazer updates](/wiki/Community/Video_series/lazer_updates)
 
 조직: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 

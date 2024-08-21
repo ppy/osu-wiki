@@ -1,7 +1,5 @@
 ---
 no_native_review: true
-outdated_translation: true
-outdated_since: 8aa57cbb842da61dbfc63dad509f4eed34e1066c
 ---
 
 # Schrift
@@ -219,8 +217,8 @@ Manche Wörter haben Varianten. Ihre bevorzugte Schreibweise ist wie folgt:
 
 Diese Worte müssen wie folgt verwendet werden (der Abstand muss übereinstimmen):
 
-- `NoMods`, `NoMod` oder `NM`
-- `FreeMods`, `FreeMod` oder `FM`
+- `No Mod` oder `NM`
+- `Free Mod` oder `FM`
 - `Tiebreaker`
 
 ### Übersetzungen für häufige Begriffe

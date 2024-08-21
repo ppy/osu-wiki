@@ -1,6 +1,4 @@
 ---
-outdated_since: 6d51ac66205d0c4dc0251cd7cc40b07e3f1bb3ae
-outdated_translation: true
 tags:
   - charts
   - Ranking Charts
@@ -132,6 +130,8 @@ Beatmap Spotlights — экспериментальный проект, откр
 ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) ушёл из Beatmap Spotlights в августе 2020 г. В ноябре того же года ушёл и ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366), после чего проект переняли ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) и ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418).
 
 После завершения весеннего сезона 2021 г. проект был заморожен до сентября, когда на смену ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) пришёл ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976). В феврале 2022 г. Beatmap Spotlights продолжил работу после очередных структурных и внутренних изменений.
+
+В октябре 2023 г. менеджером проекта стал ::{ flag=AU }:: [Crumpey](https://osu.ppy.sh/users/3518705), занявшийся разными организационными вопросами. ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) ушёл с поста менеджера в ноябре того же года.
 
 ## Ссылки
 

@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_since: 63b48d01b9acbe7defa804decae33ad768a7077f
+outdated_translation: true
 ---
 
 # Mise à jour vers lazer
@@ -76,7 +78,7 @@ Ce qui suit est une liste complète de **l'état actuel** de lazer par rapport �
 | Soumission du score | ![Oui][vrai] | ![Oui][vrai] |
 | Classements des beatmap | ![Oui][vrai] | ![Oui][vrai] |
 | Statistiques du profil | ![Oui][vrai] | ![Oui][vrai] |
-| Médailles | ![Oui][vrai] | ![Non][faux] |
+| Médailles | ![Oui][vrai] | ![Partiellement][partiel] |
 | Points de performance | ![Oui][vrai] | ![Oui][vrai] |
 | Tchat en temps réel | ![Partiellement][partiel][^tchat-stable] | ![Oui][vrai] |
 | Wiki/news/changelog/classements | ![Non][faux] | ![Oui][vrai][^contenu-en-ligne] |

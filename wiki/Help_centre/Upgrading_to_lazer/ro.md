@@ -79,7 +79,7 @@ Lista de mai jos conține o înșiruire cuprinzătoare asupra **stării actuale*
 | Actualizare scoruri | ![Da][true] | ![Da][true] |
 | Clasament scoruri beatmap | ![Da][true] | ![Da][true] |
 | Statistici profil | ![Da][true] | ![Da][true] |
-| Medalii | ![Da][true] | ![Nu][false] |
+| Medalii | ![Da][true] | ![Parțial][partial] |
 | Puncte de performanță | ![Da][true] | ![Da][true] |
 | Chat în timp real | ![Parțial][partial][^stable-chat] | ![Da][true] |
 | Wiki / noutăți / actualizări / clasamente | ![Nu][false] | ![Da][true][^online-content] |

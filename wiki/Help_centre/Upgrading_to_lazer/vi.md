@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_since: 63b48d01b9acbe7defa804decae33ad768a7077f
+outdated_translation: true
 ---
 
 # Nâng cấp lên lazer
@@ -76,7 +78,7 @@ Sau đây là bảng so sánh **trạng thái hiện tại** của lazer so vớ
 | Ghi lại điểm số | ![Có][true] | ![Có][true] |
 | Bảng xếp hạng trên beatmap | ![Có][true] | ![Có][true] |
 | Các thống kê trên hồ sơ | ![Có][true] | ![Có][true] |
-| Các huy chương | ![Có][true] | ![Không][false] |
+| Các huy chương | ![Có][true] | ![Có một phần][partial] |
 | Điểm hiệu suất | ![Có][true] | ![Có][true] |
 | Trò chuyện thời gian thực | ![Có một phần][partial][^stable-chat] | ![Có][true] |
 | Wiki / tin tức / nhật kí thay đổi / xếp hạng | ![Không][false] | ![Có][true][^online-content] |
@@ -189,7 +191,7 @@ Chưa phải lúc này.
 
 #### Tất cả các mod có được vào bảng xếp hạng vào thời gian tới không?
 
-Điểm số của tất cả các mod đều xuất hiện trên bảng xếp hạng. 
+Điểm số của tất cả các mod đều xuất hiện trên bảng xếp hạng.
 
 Tuy nhiên, hiện tại chỉ những mod sau đây mới cho điểm hiệu suất:
 
