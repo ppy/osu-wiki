@@ -135,32 +135,6 @@ RANKED REJECTS.... your favourite category's favourite category! It's time for a
     </video>
 </div>
 
-look at the time, it's 12:30\
-this is going for loved, and i'm late for it\
-but i'll slow down\
-and talk about it\
-and the notes go round, then they come back down
-
-now i'm slidin' about my unseen off-screen business\
-and i'm ponderin' out about how it's made within\
-and it's easy to feel like you're clueless\
-when your brain doesn't match your hands
-
-so i reloaded my pen drivers with some fresh clean filters\
-so i can slow down and have a slow time playing it out\
-then the combo broke again and it came back down
-
-and the aim clip farms and streams cover the lovedscape\
-and the gimmick maps are running thin and small\
-and the leaderboards are twisting a little bit sideways\
-and the livelihood is all gone
-
-look at the votes, one and all\
-'cause it's going very, very, really slowly now\
-and it's the only thing that anybody ever talks about\
-and the captains are always trying to figure out\
-and the players plead for something that is more profound
-
 [![](/wiki/shared/news/2024-08-21-project-loved-august-2024/865575.jpg)](https://osu.ppy.sh/community/forums/topics/1966737)
 
 [Sheet Music Boss - RUSH E](https://osu.ppy.sh/beatmapsets/865575#osu) by [Fawx](https://osu.ppy.sh/users/7093736)\
