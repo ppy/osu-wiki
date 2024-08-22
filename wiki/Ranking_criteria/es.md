@@ -22,7 +22,7 @@ Algunas partes de los criterios de clasificación tienen sus propios artículos,
 
 ### Resumen
 
-- **[Criterios de clasificación simplificados](Simplified_ranking_criteria):** Este artículo resume el panorama general de los artículos sobre los criterios de clasificación, porque este conjunto de artículos es complicado. Ten en cuenta que este artículo no es completo y que, en caso de duda, debes consultar los artículos correspondientes sobre los criterios de clasificación.
+- **[Criterios de clasificación simplificados](Simplified_ranking_criteria):** Este artículo resume el panorama general de los artículos sobre los criterios de clasificación, porque este conjunto de artículos es complicado. Ten en cuenta que este artículo no cubre todo y que, en caso de duda, debes consultar los artículos correspondientes sobre los criterios de clasificación.
 
 ### Extensiones generales
 
