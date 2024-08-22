@@ -114,6 +114,12 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/f3e
 
 ## Match schedule: Round of 32
 
+### Friday, 23 August 2024
+
+| Team A | Team B | Match time | Twitch stream |
+| --: | :-- | :-- | :-: |
+| Philippines ::{ flag=PH }:: | ::{ flag=CZ }:: Czechia | [Aug 23 (Fri) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240823T120000&p1=1440&p2=145&p3=204) | [osulive](https://twitch.tv/osulive) |
+
 ### Saturday, 24 August 2024
 
 | Team A | Team B | Match time | Twitch stream |
