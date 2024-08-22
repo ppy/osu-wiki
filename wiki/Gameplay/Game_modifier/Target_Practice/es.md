@@ -42,7 +42,7 @@ Una diana puede considerarse un tipo especial de [círculo](/wiki/Gameplay/Hit_o
 
 ## Curiosidades
 
-- El mod Target Practice usará los [colores de combo](/wiki/Beatmapping/Combo_colour) del skin.ini de la skin activa.
+- El mod Target Practice usará los [colores de combo](/wiki/Beatmapping/Combo_colour) del [skin.ini](/wiki/Skinning/skin.ini) de la skin activa.
 - Al fallar una jugada con Target Practice, el jugador será dirigido a la pantalla de resultados en lugar de a la pantalla de fallo.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
