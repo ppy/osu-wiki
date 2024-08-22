@@ -1,4 +1,4 @@
-# Estilo de juego
+# Estilos de juego
 
 En esta página se detallan las distintas formas que los jugadores pueden elegir para jugar en sus respectivos modos de juego.
 
@@ -165,9 +165,9 @@ Para jugar con un pad de baile, los jugadores «bailan» en el pad de baile para
 
 Una gran desventaja de usar un pad de baile es que puede ser difícil presionar varias teclas a la vez. Para pulsar 4 notas en un pad DDR, tendrías que usar tus manos y pies, o posicionar tus pies en 2 paneles a la vez.
 
-Otro inconveniente es que los mapas de osu!mania pueden haberse diseñado sin tener en cuenta el movimiento de las animaciones de los juegos de baile, lo que limita la cantidad de canciones que se pueden bailar (cómodamente). Los juegos de baile a menudo están diseñados con el movimiento de un flujo de animaciones de baile. Una de las reglas más importantes de un juego de baile como DDR es poder alternar de pie en cada nota (con algunas excepciones). Ya que algunos mapas de osu!mania no siguen realmente esas reglas, puede resultar realmente incómodo jugar muchos mapas en un pad de baile.
+Otro inconveniente es que los mapas de osu!mania pueden haberse diseñado sin tener en cuenta los movimientos que se realizan en los juegos de baile, lo que limita la cantidad de canciones que se pueden bailar (cómodamente). Los juegos de baile a menudo están diseñados con los movimientos de un flujo de animaciones de baile. Una de las reglas más importantes de un juego de baile como DDR es poder alternar de pie en cada nota (con algunas excepciones). Ya que algunos mapas de osu!mania no siguen realmente esas reglas, puede resultar realmente incómodo jugar muchos mapas en un pad de baile.
 
 ### Otros estilos
 
-- **Conjunto de guitarra/batería** (5/6K): El mando predeterminado de ([Guitar Hero](https://es.wikipedia.org/wiki/Guitar_Hero_(serie))) o ([Drummania](https://es.wikipedia.org/wiki/GITADORA_(serie))). Los jugadores usan los botones de la guitarra o la batería. Los jugadores que usen la batería tendrán la desventaja de que solo pueden usar dos notas a la vez sin un pedal especial.
+- **Conjunto de guitarra/batería** (5/6K): El mando predeterminado de ([Guitar Hero](https://es.wikipedia.org/wiki/Guitar_Hero_(serie))) o ([Drummania](https://es.wikipedia.org/wiki/GITADORA_(serie))). Los jugadores tocan la guitarra o la batería y los platillos para introducir una serie de comandos. Los que tocan la batería están en desventaja en comparación con los que tocan la guitarra, porque solo pueden introducir dos comandos a la vez sin un pedal especial.
 - **Mando de Para Para** (5K): Este es el mando predeterminado de la serie de juegos [Para Para Paradise](https://es.wikipedia.org/wiki/ParaParaParadise_(serie)). Los jugadores mueven sus brazos, codos y manos frente a los sensores de proximidad para introducir comandos basados en la posición a través de dichos sensores. La desventaja es la sensibilidad del receptor de entrada y la limitación física del jugador.
