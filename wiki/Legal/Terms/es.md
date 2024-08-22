@@ -18,10 +18,10 @@ Si incumple alguno de estos términos de uso, su permiso para usar el sitio web 
 
 ## DESCRIPCIÓN DEL SERVICIO
 
-osu! proporciona servicios de juego en línea gratuitos a los usuarios finales, junto con clasificaciones en línea, listados y medios de comunicación (concretamente foros y salas de chat).
+osu! proporciona servicios de juego en línea gratuitos a los usuarios finales, junto con clasificaciones en línea, listados y medios de comunicación (en concreto, foros y salas de chat).
 osu! también proporciona a los usuarios un medio para alojar el contenido creado por los usuarios, permitiendo a otros usuarios acceder al contenido subido.
 
-La dirección de osu! no garantiza que los contenidos y la información cargados por los usuarios sean precisos, actuales o de calidad.
+La administración de osu! no garantiza que el contenido y la información subida por los usuarios sea correcta, actual o de calidad.
 No asumimos ninguna responsabilidad sobre si se ha subido contenido censurable.
 No asumimos ninguna responsabilidad sobre si los usuarios tienen los derechos para distribuir el contenido subido.
 
@@ -61,8 +61,8 @@ Quienes accedan o usen el Sitio web de osu! desde otras jurisdicciones lo hacen 
 
 ## INDEMNIDAD
 
-Usted se compromete a defender, indemnizar y mantener indemne a osu!, su empresa matriz, funcionarios, directores, empleados y agentes, de y contra cualquier y todo reclamo, daños, obligaciones, pérdidas, responsabilidades, costos o deudas y gastos (incluyendo pero no limitado a honorarios de abogados) que surjan de: (i) su uso y acceso al Sitio web de osu!; (ii) la infracción por su parte de cualquiera de los términos de estas Condiciones del servicio; (iii) la infracción por su parte de cualquier derecho de terceros, incluidos, entre otros, los derechos de autor, propiedad o privacidad; o (iv) cualquier reclamación en la que se alegue que uno de sus Envíos de Usuario ha causado daños a un tercero.
-Esta obligación de defensa e indemnización seguirá vigente tras la expiración de las presentes términos del servicio y tras el uso por su parte del Sitio web de osu!.
+Usted se compromete a defender, indemnizar y mantener indemne a osu!, su empresa matriz, funcionarios, directores, empleados y agentes, de y contra cualquier y todo reclamo, daños, obligaciones, pérdidas, responsabilidades, costos o deudas y gastos (incluyendo pero no limitado a honorarios de abogados) que surjan de: (i) su uso y acceso al Sitio web de osu!; (ii) la infracción por su parte de cualquiera de los términos de estos términos del servicio; (iii) la infracción por su parte de cualquier derecho de terceros, incluidos, entre otros, los derechos de autor, propiedad o privacidad; o (iv) cualquier reclamación en la que se alegue que uno de sus Envíos de Usuario ha causado daños a un tercero.
+Esta obligación de defensa e indemnización seguirá vigente tras la expiración de los presentes términos del servicio y tras el uso por su parte del Sitio web de osu!.
 
 ## SU USO DEL CONTENIDO DEL SITIO
 
