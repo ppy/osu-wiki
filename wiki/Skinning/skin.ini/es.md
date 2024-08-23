@@ -89,7 +89,7 @@ Si tu `skin.ini` no especifica el comando `Version`, la versión predeterminada 
 **Permitir el skinning de flechas por tipo**
 
 - Añade `arrow-generic.png`, `arrow-warning.png` y `arrow-pause.png`.
-- Elimina `play-warningarrow.png`.
+- Elimina `play-warningarrow.png` en favor de los archivos anteriores.
 
 ### 2.7
 

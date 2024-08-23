@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: b0afe186b01a363a31211b349e4d83c15033890e
+---
+
 # Vue d'ensemble des échantillons personnalisées
 
 Pour l'instant, il est possible de mettre en œuvre des ensembles d'échantillons par beatmap et par skin.
