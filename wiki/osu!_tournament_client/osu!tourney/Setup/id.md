@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Pengaturan osu!tourney
 
 *Lihat juga: [Klien turnamen osu!](/wiki/osu!_tournament_client)*
