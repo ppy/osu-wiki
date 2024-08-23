@@ -1,6 +1,6 @@
 # Pengaturan osu!tourney
 
-*Lihat juga: [Klien turnamen osu!](/wiki/osu!_tournament_client)_*
+*Lihat juga: [Klien turnamen osu!](/wiki/osu!_tournament_client)*
 *Catatan: [Tag osu!supporter](/wiki/osu!supporter) yang aktif saat ini dibutuhkan untuk menggunakan klien osu!tourney.*
 
 Kamu disarankan untuk menggunakan **instalasi osu! yang sepenuhnya baru**, karena proses ini dapat merusak basis data `Songs` yang telah ada. Kamu dapat memiliki lebih dari satu instalasi osu! yang terpasang selama kamu meletakkan masing-masing instalasi ini pada folder yang terpisah.
