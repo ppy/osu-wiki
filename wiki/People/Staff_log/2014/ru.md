@@ -226,7 +226,7 @@
 
 - Перемещение [Gabe](https://osu.ppy.sh/users/654108) из osu! Alumni в Beatmap Appreciation Team (2014-09-02)
 - Перемещение [Frostmourne](https://osu.ppy.sh/users/199669) из osu! Alumni в Quality Assurance Team (2014-09-05)
-- Добавление [XavierJones](https://osu.ppy.sh/users/495733) Chat Moderators (2014-09-08)
+- Добавление [XavierJones](https://osu.ppy.sh/users/495733) в Chat Moderators (2014-09-08)
 - Перемещение [Card N'FoRcE](https://osu.ppy.sh/users/3936) в osu! Alumni (2014-09-11)
 - Перемещение [Asphyxia](https://osu.ppy.sh/users/1715720) из Beatmap Appreciation Team в Quality Assurance Team (2014-09-20)
 - Перемещение [captin1](https://osu.ppy.sh/users/689997) в Beatmap Appreciation Team (2014-09-20)
