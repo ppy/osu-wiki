@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_since: a7829a7972d112aa1bc8799dd865ef3b5e80a630
+outdated_translation: true
 ---
 
 # 계정 제한
