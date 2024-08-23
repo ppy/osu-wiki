@@ -17,7 +17,7 @@ tags:
 
 *Aviso: este estilo de juego requiere el uso de una tableta gráfica.*
 
-**Tapx** es un estilo de presionar las notas para los jugadores que [solo usan una tableta](/wiki/Gameplay/Play_style#tablet-only) en [osu!](/wiki/Game_mode/osu!) en el que los jugadores hacen clic en los círculos, deslizan sliders y giran spinners presionando el lápiz de la tableta sobre ella, junto con un teclado secundario y/o una tecla de la tableta que sirve de ayuda para los [streams](/wiki/Beatmap/Pattern/osu!/Stream) y [stacks](/wiki/Beatmapping/Mapping_techniques/Stack). Este método es bastante difícil para la mayoría de los jugadores y no es muy popular entre la mayoría de los jugadores que usan tabletas.
+**Tapx** es un estilo de presionar las notas para los jugadores que [solo usan una tableta](/wiki/Gameplay/Play_style#solo-con-tableta-gráfica) en [osu!](/wiki/Game_mode/osu!) en el que los jugadores hacen clic en los círculos, deslizan sliders y giran spinners presionando el lápiz de la tableta sobre ella, junto con un teclado secundario y/o una tecla de la tableta que sirve de ayuda para los [streams](/wiki/Beatmap/Pattern/osu!/Stream) y [stacks](/wiki/Beatmapping/Mapping_techniques/Stack). Este método es bastante difícil para la mayoría de los jugadores y no es muy popular entre la mayoría de los jugadores que usan tabletas.
 
 ## Streams
 
