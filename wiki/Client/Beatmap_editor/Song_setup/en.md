@@ -6,7 +6,7 @@ The **song setup** window is the fourth section of the [beatmap editor](/wiki/Cl
 
 ![](img/SS_General.jpg "An example of a difficulty with completed metadata")
 
-`General` provides information which helps players not only find the beatmap, but also know a bit more about the song itself. The metadata specified here must be taken from the song's [primary metadata source](/wiki/Beatmap/Primary_metadata_source) and, if a beatmap is going through the [ranking procedure](/wiki/Beatmap_ranking_procedure), follow the [ranking criteria](/wiki/Ranking_criteria#metadata).
+`General` provides information which helps players not only find the beatmap, but also know a bit more about the song itself. The metadata specified here must be taken from the song's [primary metadata source](/wiki/Beatmap/Primary_metadata_source) and, if a beatmap is going through the [ranking procedure](/wiki/Beatmap_ranking_procedure), follow the [ranking criteria](/wiki/Ranking_criteria/Metadata).
 
 | Field | Meaning |
 | :-- | :-- |

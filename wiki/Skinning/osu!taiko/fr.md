@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 9813f83f3faf3eff53d59bf14f5b81cc128a345f
+---
+
 # Skinning du mode osu!taiko
 
 Vous pouvez remplacer les parties du playfield osu!taiko en créant un dossier appelé `taiko` dans votre dossier skin. Si cette approche est utilisée, l'utilisateur devra explicitement l'activer dans les [options](/wiki/Client/Options) (activer le bouton `Utiliser le skin Taiko pour le mode Taiko`), sinon les éléments du skin par défaut seront utilisés.
