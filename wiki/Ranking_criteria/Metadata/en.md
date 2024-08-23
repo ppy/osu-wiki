@@ -121,7 +121,7 @@ When the entire field is uppercase or lowercase, markers may use alternative cas
 ##### Markers you must add when appropriate
 
 - **Songs without a version marker that fit one of the marker categories below must add the corresponding one at the end.**
-- **Songs with version markers must have them fully replaced them with the standard marker from the list below.**
+- **Songs with version markers must have them fully replaced with the standard marker from the list below.**
 - `(TV Size)`
   - Add this marker at the end of the title when the specific version of the song was in a TV program (excluding concerts), web series, or direct-to-video series.
 - `(Cut Ver.)`
