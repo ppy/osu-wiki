@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Règles
 
 Ces règles sont les bases à partir de laquelle nous contribuons à faire de la communauté d'osu! un endroit amusant et accueillant pour tous.
