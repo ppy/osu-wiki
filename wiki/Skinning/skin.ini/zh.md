@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: a5a4d44b66fbe6446aefb341d712d1623b1aac80
+---
+
 # skin.ini
 
 *另见：[skin.ini / 空白 skin.ini 文件](/wiki/Skinning/skin.ini/Blank)*
