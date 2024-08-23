@@ -18,7 +18,7 @@ The **Skinning Contest #5: Unchained** is a free-for-all osu! skinning contest h
 | Announcement | 2024-04-09 |
 | Submission phase | 2024-04-09/2024-05-24 |
 | Voting phase | 2024-06-23/2024-07-07 |
-| Results | *TBD* |
+| Results | 2024-07-17 |
 
 ## Prizes
 
@@ -47,6 +47,7 @@ The Skinning Contest #4 is run by various community members.
 - **[Contest page](https://osu.ppy.sh/community/contests/208)**
 - [Announcement news post](https://osu.ppy.sh/home/news/2024-04-09-skinning-contest-unchained)
 - [Voting news post](https://osu.ppy.sh/home/news/2024-06-23-skinning-contest-unchained-voting)
+- [Results news post](https://osu.ppy.sh/home/news/2024-07-17-skinning-contest-unchained-results)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1906590)
 - [Submission thread](https://osu.ppy.sh/community/forums/topics/1906588)
 - [Discord server](https://discord.skinship.xyz)
@@ -83,6 +84,12 @@ The Skinning Contest #4 is run by various community members.
 | ::{ flag=DE }:: [janmagtoast](https://osu.ppy.sh/users/16849319) | [osu!checkmate](https://osu.ppy.sh/community/forums/topics/1926184) |
 | ::{ flag=US }:: [Icysandwich](https://osu.ppy.sh/users/10961544) | [Apple Camp](https://osu.ppy.sh/community/forums/topics/1926191) |
 | ::{ flag=US }:: [Syvatzia](https://osu.ppy.sh/users/19082107) | [Reflections Unchained](https://osu.ppy.sh/community/forums/topics/1926206) |
+
+## Podium
+
+*For the full results, see the [contest page](https://osu.ppy.sh/community/contests/208).*
+
+![](/wiki/Contests/Skinning_Contest/5/img/podium.jpg "Skinning Contest #5 podium")
 
 ## Ruleset
 

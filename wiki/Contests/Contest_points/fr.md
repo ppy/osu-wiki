@@ -1,16 +1,16 @@
 ---
 no_native_review: true
-outdated_since: bc8e4274a5ffcfa7bc6826484578a797a9c3090d
-outdated_translation: true
 ---
 
 # Points de concours
 
 Les points de concours sont des points utilisés comme récompense dans les concours officiels de mapping. Ils sont principalement utilisés pour déterminer l'éligibilité d'un utilisateur à recevoir le titre de *Elite Mapper*, qui est décerné aux utilisateurs ayant atteint **6 points**.
 
+Les points de concours peuvent également être accordés en tant que bénéfice du [support officiel du concours de beatmap](/wiki/Contests/Official_support) sous [certaines circonstances](/wiki/Contests/Official_support#éligibilité).
+
 ## Points clé
 
-Pour les concours en solo, les points du concours sont basés sur le nombre de propositions valides créées.
+Pour les concours en solo, les points du concours sont basés sur le nombre de propositions valides créées. Il s'agit des directives générales pour la distribution des points, et des exceptions peuvent être accordées au cas par cas à la discrétion du [Comité du concours](/wiki/People/Tournament_Committee#comité-des-concours) lors d'une demande de support officiel pour un concours de beatmap.
 
 | # Nombre de soumissions | Points pour la première place | Points pour la deuxième place | Points pour la troisième place |
 | :-- | :-- | :-- | :-- |
@@ -42,6 +42,7 @@ Les points de concours ont été utilisés pour les concours suivants :
 | ::{ flag=DE }:: [**Mao**](https://osu.ppy.sh/users/2204515) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=KR }:: [**Acylica**](https://osu.ppy.sh/users/1943309) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=BE }:: [**Sylas**](https://osu.ppy.sh/users/3906405) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=US }:: [fowwo](https://osu.ppy.sh/users/4547551) | 5 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334) | 4 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (2), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (2) |
 | ::{ flag=US }:: [phyr](https://osu.ppy.sh/users/13181574) | 4 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=TH }:: [- Frontier -](https://osu.ppy.sh/users/4314710) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
@@ -53,7 +54,6 @@ Les points de concours ont été utilisés pour les concours suivants :
 | ::{ flag=PL }:: [Kalibe](https://osu.ppy.sh/users/3376777) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=US }:: [UndeadCapulet](https://osu.ppy.sh/users/2523533) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=EE }:: [iljaaz](https://osu.ppy.sh/users/8501291) | 2 | [Twin Trials](/wiki/Contests/Twin_Trials_Contest) |
-| ::{ flag=US }:: [fowwo](https://osu.ppy.sh/users/4547551) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=CN }:: [Moecho](https://osu.ppy.sh/users/5075660) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=GB }:: [Altai](https://osu.ppy.sh/users/5745865) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=CN }:: [fanzhen0019](https://osu.ppy.sh/users/418699) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
@@ -64,6 +64,7 @@ Les points de concours ont été utilisés pour les concours suivants :
 | ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=PH }:: [LeCandy](https://osu.ppy.sh/users/6626249) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=US }:: [Nuolong](https://osu.ppy.sh/users/4732455) | 1 | [VMC2](/wiki/Contests/VMC/2) |
+| ::{ flag=US }:: [mintIceCream_](https://osu.ppy.sh/users/13221589) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 
 ### osu!taiko
 
@@ -103,16 +104,17 @@ Les points de concours ont été utilisés pour les concours suivants :
 | Utilisateur | Points | Concours |
 | :-- | :-- | :-- |
 | ::{ flag=CN }:: [**tyrcs**](https://osu.ppy.sh/users/13026904) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (4), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (2) |
-| ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222) | 5 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=KR }:: [hemoo](https://osu.ppy.sh/users/4420703) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=PL }:: [Disguise](https://osu.ppy.sh/users/10764851) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=CN }:: [richardfeder](https://osu.ppy.sh/users/2446000) | 2 | [Twin Trials](/wiki/Contests/Twin_Trials_Contest) |
 | ::{ flag=KR }:: [Kawawa](https://osu.ppy.sh/users/4647754) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=AU }:: [oct4](https://osu.ppy.sh/users/10303887) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
-| ::{ flag=PL }:: [Disguise](https://osu.ppy.sh/users/10764851) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=US }:: [lemonguy](https://osu.ppy.sh/users/4693052) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=BR }:: [AutotelicBrown](https://osu.ppy.sh/users/4238941) | 1 | [Twin Trials](/wiki/Contests/Twin_Trials_Contest) |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | 1 | [Twin Trials](/wiki/Contests/Twin_Trials_Contest) |
 | ::{ flag=DE }:: [Leeju](https://osu.ppy.sh/users/18219603) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=PH }:: [Silicosis 2](https://osu.ppy.sh/users/18560307) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 
 ## Histoire
 

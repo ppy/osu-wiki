@@ -26,7 +26,7 @@ tags:
 
 泡泡最初由 ::{ flag=AU }:: [peppy](/wiki/People/peppy) 在 2007 年 10 月 29 日提出，用于“正在考虑上架游玩（等待摸图员的进一步反馈）”的谱面。他将讨论串的图标设为一个泡泡，并用于 BAT 成员表示谱面质量良好，符合[谱面上架标准 (RC)](/wiki/Ranking_criteria)。<!-- internal reference: https://osu.ppy.sh/community/forums/topics/619 -->
 
-在 2010 年 10 月 3 日，MAT 获得了和 BAT 一样的泡图（给谱面赋予泡泡）权限。<!-- internal reference: https://osu.ppy.sh/community/forums/topics/38403 -->这基本上宣告了[原型泡泡](/wiki/Modding/Proto-bubble)系统的死亡。从那以后，两个团队都主要使用普通泡泡。
+在 2010 年 10 月 4 日，MAT 获得了和 BAT 一样的泡图（给谱面赋予泡泡）权限。<!-- internal reference: https://osu.ppy.sh/community/forums/topics/38403 -->这基本上宣告了[原型泡泡](/wiki/Modding/Proto-bubble)系统的死亡。从那以后，两个团队都主要使用普通泡泡。
 
 在 2017 年 11 月，[谱面讨论系统](/wiki/Beatmap_discussion)全面实装并成为摸图的主要界面后，基于论坛的谱面管理控制被逐步淘汰，泡泡系统也被提名系统所取代。
 

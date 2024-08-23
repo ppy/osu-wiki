@@ -326,7 +326,7 @@ An advisor role is one that manages the mappool for a world cup and all of its c
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/1035891">Yoshi_green</a></p>
 
-Yep, we're pretty much the intermediary party between the organizers, mappoolers, mappers, and players
+Yep, we're pretty much the intermediary party between the organizers, mappoolers, mappers, and players.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-Walavouchey.jpg')"></a>
 

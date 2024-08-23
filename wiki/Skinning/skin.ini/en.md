@@ -89,7 +89,7 @@ If your `skin.ini` does not specify a `Version`, it will default to this version
 **Allow per-type skinning of arrows**
 
 - Adds `arrow-generic.png`, `arrow-warning.png` and `arrow-pause.png`.
-- Removes `play-warningarrow.png`.
+- Deprecates `play-warningarrow.png` in favor of the above.
 
 ### 2.7
 

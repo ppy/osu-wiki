@@ -1,5 +1,4 @@
-outdated_since: a8383bfa1e96690b7f254a39672b15781e148634
-outdated_translation: true
+no_native_review_since: 15be762b2670ace44c4fe2804166a095cc984f81 The-Last-Cookie
 
 separator: ", "
 alumni:
@@ -17,6 +16,7 @@ gmt:
     beatmap: Beatmap-Moderation
     chat: Chat-Moderation
     forum: Forum-Moderation
+    general: Allgemeine Moderation
     team: offizielle Präsenz des Teams
     dev: osu!-Entwicklung
     player: Spieler-Support
