@@ -19,7 +19,7 @@ Pertanyaan tes diambil dari banyak pertanyaan yang diurutkan berdasarkan kategor
 - [Kode Etik Mapping dan Modding](/wiki/Rules/Code_of_conduct_for_modding_and_mapping): 1 pertanyaan
 - [Kriteria Ranking Secara Umum](/wiki/Ranking_criteria#umum): 1 pertanyaan
 - [Kriteria Ranking Tentang Spread](/wiki/Ranking_criteria#beatmap): 1 pertanyaan
-- [Kriteria Ranking Tentang Metadata](/wiki/Ranking_criteria#metadata): 1 pertanyaan
+- [Kriteria Ranking Tentang Metadata](/wiki/Ranking_criteria/Metadata): 1 pertanyaan
 - [Kriteria Ranking Tentang Timing](/wiki/Ranking_criteria#timing): 1 pertanyaan
 - [Kriteria Ranking Tentang Audio](/wiki/Ranking_criteria#audio): 1 pertanyaan
 - [Kriteria Ranking Tentang Video dan Background](/wiki/Ranking_criteria#video-dan-latar-belakang): 1 pertanyaan
