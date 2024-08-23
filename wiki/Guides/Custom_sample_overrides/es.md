@@ -47,6 +47,7 @@ Las siguientes tres muestras son aditivas, lo que significa que cuando golpees u
 
 - `spinnerspin` (este sonido cambia de tono a medida que aumenta el spinner. Va de 500 hz a 80 000 hz cuando la muestra original es de 44 100 hz)
 - `spinnerbonus` (timbre)
+- `spinnerbonus-max` (solo para [Lazer](/wiki/Client/Release_stream/Lazer))
 
 ## Notas
 

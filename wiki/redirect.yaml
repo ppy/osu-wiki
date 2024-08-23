@@ -92,9 +92,9 @@ ot:                           Community/Forum/Off-Topic
 off-topic:                    Community/Forum/Off-Topic
 offtopic:                     Community/Forum/Off-Topic
 osu!_community_meetings:      Community/osu!_community_meetings
-osu!_discord_server:          Community/Discord_servers#official-osu!-server
-osu!dev_discord_server:       Community/Discord_servers#official-osu!-server
-community/osu!dev_discord_server: Community/Discord_servers#official-osu!-server
+osu!_discord_server:          Community/Discord_servers#official
+osu!dev_discord_server:       Community/Discord_servers#official
+community/osu!dev_discord_server: Community/Discord_servers#official
 organisations:                Community/Organisations
 organisations/osu!_uci:       Community/Organisations/osu!_UCI
 project_loved:                Community/Project_Loved
@@ -2141,7 +2141,7 @@ convert:  Beatmap/Converts
 converts: Beatmap/Converts
 
 # Deleted "Community Discord servers" individual articles and moved its contents to "Discord servers" (#11929)
-community/osu!_discord_server: Community/Discord_servers#official-osu!-server
+community/osu!_discord_server: Community/Discord_servers#official
 community/discord_servers/osu!_medal_hunters: Community/Discord_servers#gameplay
 community/discord_servers/osu!_university: Community/Discord_servers#gameplay
 community/discord_servers/osu!taiko_modding_&_mapping_hub: Community/Discord_servers#mapping-and-modding
