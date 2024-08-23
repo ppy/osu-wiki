@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 2e5cd7cbb4e6f9cc07089d481e1b5b8b27d9a842
+---
+
 # .osr（文件格式）
 
 **.osr** 是一种用于存储 osu! 回放信息的文件格式。只有这个回放文件所指定的谱面存在于 "Songs" 文件夹中，才可以正常播放回放。

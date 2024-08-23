@@ -1,16 +1,16 @@
 ---
 no_native_review: true
-outdated_since: bc8e4274a5ffcfa7bc6826484578a797a9c3090d
-outdated_translation: true
 ---
 
 # Points de concours
 
 Les points de concours sont des points utilisés comme récompense dans les concours officiels de mapping. Ils sont principalement utilisés pour déterminer l'éligibilité d'un utilisateur à recevoir le titre de *Elite Mapper*, qui est décerné aux utilisateurs ayant atteint **6 points**.
 
+Les points de concours peuvent également être accordés en tant que bénéfice du [support officiel du concours de beatmap](/wiki/Contests/Official_support) sous [certaines circonstances](/wiki/Contests/Official_support#éligibilité).
+
 ## Points clé
 
-Pour les concours en solo, les points du concours sont basés sur le nombre de propositions valides créées.
+Pour les concours en solo, les points du concours sont basés sur le nombre de propositions valides créées. Il s'agit des directives générales pour la distribution des points, et des exceptions peuvent être accordées au cas par cas à la discrétion du [Comité du concours](/wiki/People/Tournament_Committee#contest-committee) lors d'une demande de support officiel pour un concours de beatmap.
 
 | # Nombre de soumissions | Points pour la première place | Points pour la deuxième place | Points pour la troisième place |
 | :-- | :-- | :-- | :-- |
