@@ -12,4 +12,4 @@ tags:
 
 アーティストのウェブサイト、レーベルのウェブサイト、CDスキャン、Bandcamp、YouTube、SoundCloudなどのウェブサイトへの公式アップロードは、ビートマップメタデータの一次ソースとみなされます。ウィキやデータベース（vndb、vgmdbなど）、音楽サービス（Spotify、iTunes、Amazonなど）などの第三者のウェブサイトは、アーティストの意図を反映しているとは限らず、一次ソースとして扱うべきではありません。
 
-[Ranked](/wiki/Beatmap/Category#ranked)を目指すビートマップは、一次ソースからのメタデータを使用することが求められます。ビートマップのメタデータに関するより多くのルールとガイドラインについては、[ランキング基準](/wiki/Ranking_criteria#metadata)を参照してください。
+[Ranked](/wiki/Beatmap/Category#ranked)を目指すビートマップは、一次ソースからのメタデータを使用することが求められます。ビートマップのメタデータに関するより多くのルールとガイドラインについては、[ランキング基準](/wiki/Ranking_criteria/Metadata)を参照してください。
