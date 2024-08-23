@@ -61,7 +61,7 @@ El [Project Loved](/wiki/Community/Project_Loved) organiza sus operaciones en di
 
 |  | Nombre | Propietario | Descripción |
 | :-: | :-- | :-- | :-- |
-| [![](img/osu!-Project-Loved.png)](https://discord.com/invite/gn58Uk5sTE) | [osu! Project Loved](https://discord.com/invite/gn58Uk5sTE)  | ::{ flag=US }:: [Librarian](https://osu.ppy.sh/users/10083084) | **osu! Project Loved** ofrece un lugar para discutir y hacer anuncios sobre el Project Loved para el modo de juego osu!. |
+| [![](img/osu!-Project-Loved.png)](https://discord.com/invite/gn58Uk5sTE) | [osu! Project Loved](https://discord.com/invite/gn58Uk5sTE) | ::{ flag=US }:: [Librarian](https://osu.ppy.sh/users/10083084) | **osu! Project Loved** ofrece un lugar para discutir y hacer anuncios sobre el Project Loved para el modo de juego osu!. |
 | [![](img/Project-Loved-Taiko.png)](https://discord.com/invite/GhfjtZ6) | [Project Loved: Taiko](https://discord.com/invite/GhfjtZ6) | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | **Project Loved: Taiko** ofrece un lugar para discutir y hacer anuncios sobre el Project Loved de osu!taiko. |
 | [![](img/osu!catch-Project-Loved.png)](https://discord.com/invite/phgtyS4UCh) | [osu!catch Project Loved](https://discord.com/invite/phgtyS4UCh) | ::{ flag=NL }:: [Wesley](https://osu.ppy.sh/users/2407265) | **osu!catch Project Loved** ofrece un lugar para discutir y hacer anuncios sobre el Project Loved de osu!catch. |
 | [![](img/osu!mania-Loved-Community.png)](https://discord.com/invite/Ededv7m) | [osu!mania Loved Community](https://discord.com/invite/Ededv7m) | ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479) | **osu!mania Loved Community** ofrece un lugar para discutir y hacer anuncios sobre el Project Loved de osu!mania. |
