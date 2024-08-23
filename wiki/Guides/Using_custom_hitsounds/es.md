@@ -29,7 +29,7 @@ Una vez colocados los archivos de sonido dentro de la carpeta del beatmap, deben
 
 En osu! existen tres categorías básicas de hitsounds, llamados *conjuntos de muestras*: Normal (N), Soft (S) y Drum (D). Cada conjunto de muestras se puede subdividir en diferentes sonidos. Los más comunes son: «hitnormal», «hitclap», «hitwhistle» y «hitfinish». También existen sonidos más especializados, como los que se reproducen durante un slider («sliderslide», «slidertick») o spinner («spinnerspin»).
 
-*Si quieres consultar la lista completa de los hitsounds que se pueden modificar, consulta la [entrada sobre el skinning de los hitsounds](/wiki/Skinning/Sounds#para-los-hitsounds).*
+*Si quieres consultar la lista completa de los hitsounds que se pueden modificar, consulta el [artículo sobre el skinning de los hitsounds](/wiki/Skinning/Sounds#sonidos-para-los-hitsounds).*
 
 Los archivos de los hitsounds se nombran para reflejar estas dos propiedades del conjunto de muestras y el tipo de sonido de la siguiente manera:
 

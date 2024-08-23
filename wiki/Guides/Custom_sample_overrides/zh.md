@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: b0afe186b01a363a31211b349e4d83c15033890e
+---
+
 # 自定义音效名称
 
 截至目前，可以在谱面中或者在自定义皮肤中使用自定义音效。

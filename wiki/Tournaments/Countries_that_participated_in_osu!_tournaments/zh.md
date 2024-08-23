@@ -1,18 +1,13 @@
----
-outdated_since: 5c6527674dac18301ca3466a47a3093b33a80d31
-outdated_translation: true
----
-
 # 参与过 osu! 锦标赛的国家或地区
 
 本文列出了参加过 [osu!](/wiki/Game_mode/osu!)、[osu!taiko](/wiki/Game_mode/osu!taiko)、[osu!catch](/wiki/Game_mode/osu!catch)、[osu!mania](/wiki/Game_mode/osu!mania) 官方锦标赛的国家或地区。这里还列出了进入前三名队伍获奖数量的排名。
+
+以下数据中包含的最新赛事是 [osu! World Cup 2023](/wiki/Tournaments/OWC/2023)。
 
 *注意：这里不考虑允许队伍不以国家或地区的名义参赛的官方锦标赛。*\
 *注意：这里不考虑国家混编队伍（如阿根廷-哥伦比亚队）。*
 
 ## 排名
-
-<!-- last update: CWC 2022 (Registration phase)-->
 
 ### 总排名
 
