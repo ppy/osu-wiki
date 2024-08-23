@@ -1,3 +1,8 @@
+---
+outdated_since: bcccceb00e25b58f13adc7c085280d16e1f0cdfe
+outdated_translation: true
+---
+
 # Criterios de clasificación de osu!mania
 
 ***Aviso: Este artículo es una extensión de los [criterios de clasificación generales](/wiki/Ranking_criteria).***
