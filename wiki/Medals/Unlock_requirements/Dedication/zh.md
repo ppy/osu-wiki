@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # 毅力奖章解锁条件
 
 ## osu!

@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # 解锁条件
 
 这里列出了所有包含[奖章](/wiki/Medals)解锁条件的文章。
