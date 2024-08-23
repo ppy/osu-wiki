@@ -757,5 +757,27 @@ Notes:
 - `hit300.png` must be skinned.
 - This element is used for `hit300`, `hit300g`, and `hit300k`.
 
+## Slider miss indicators (Lazer only)
+
+In the [Lazer](/wiki/Client/Release_stream/Lazer) version of the game, new indicators were added when missing parts of sliders. The following legacy skin elements can be used to skin these. They have no effect in osu!stable<!-- TODO link somewhere -->.
+
+::: Infobox
+
+|  |  |
+| :-- | :-- |
+| Skin versions | All |
+| Animatable | ![Yes][true] |
+| Beatmap skinnable | ![Yes][true] |
+| Blend mode | Normal |
+| Origin | Centre |
+| Suggested SD size | 16x16 |
+
+:::
+
+|  | Filename | Description |
+| :-: | :-- | :-- |
+| ![](img/sliderendmiss.png "Default sliderendmiss@2x.png") | `sliderendmiss.png` | Displays when missing a [sliderend](/wiki/Gameplay/Hit_object/Slider/Slidertail). |
+| ![](img/slidertickmiss.png "Default slidertickmiss@2x.png") | `slidertickmiss.png` | Displays when missing a [slider tick](/wiki/Gameplay/Hit_object/Slider/Slider_tick). |
+
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png

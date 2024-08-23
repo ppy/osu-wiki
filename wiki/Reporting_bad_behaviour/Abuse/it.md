@@ -30,7 +30,7 @@ Se senti che queste osservazioni/avance erano altamente inappropriate o sei un u
 
 [Segnala il post](/wiki/Reporting_bad_behaviour#forum) al nostro [Team di Moderazione Globale](/wiki/People/Global_Moderation_Team) il prima possibile.
 
-In alternativa, clicca il nome utente di un qualsiasi utente GMT nella lista su quella pagina. Questo ti portera al suo profilo. Se non sei sicuro di chi cliccare, usa [invece questo link](https://osu.ppy.sh/users/102335).
+In alternativa, clicca il nome utente di un qualsiasi utente GMT nella lista su quella pagina. Questo ti portera al suo profilo. Se non sei sicuro di chi cliccare, usa [invece questo link](https://osu.ppy.sh/users/5999631).
 
 Clicca il pulsante con una busta dentro appena sotto la bandiera del paese dell'utente. Questo ti porterà alla schermata della chat.
 

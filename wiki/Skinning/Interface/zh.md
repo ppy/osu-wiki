@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 2164e2139a69d36c0721b179c3d39f85b238c455
----
-
 # 界面自定义皮肤
 
 *参见：[界面](/wiki/Client/Interface)*
@@ -1123,7 +1118,7 @@ outdated_since: 2164e2139a69d36c0721b179c3d39f85b238c455
 注意：
 
 - 此元素没有大小限制。
-- 在 [osu!mania](/wiki/Game_mode/osu!mania) 中使用时，此元素会被逆时针旋转 90 度，放置于游玩区域底部右侧。
+- 在 [osu!mania](/wiki/Game_mode/osu!mania) 中使用时，此元素会被逆时针旋转 90 度、缩小至 0.7 倍，放置于游玩区域底部右侧。
 
 ---
 

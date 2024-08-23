@@ -11,7 +11,7 @@ tags:
 
 The [osu! team](/wiki/People/osu!_team) runs a program where they may opt to provide community-run tournaments that abide by a certain set of criteria and expectations with extra support, at their discretion.
 
-This article was last updated on July 19, 2024. For the full changelog, check out the [tournament support updates thread](https://osu.ppy.sh/community/forums/topics/1715676). For any queries or clarifications, please consult the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+This article was last updated on August 17, 2024. For the full changelog, check out the [tournament support updates thread](https://osu.ppy.sh/community/forums/topics/1715676). For any queries or clarifications, please consult the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Benefits
 
@@ -37,7 +37,10 @@ Community-run tournaments which abide by the following hard criteria are eligibl
 - The forum threads associated with the tournament — this includes forum threads for any preliminary events — **MUST** contain a clearly visible link in a normal-sized font to the [tournament reports form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
   - `https://pif.ephemeral.ink/tournament-reports`
   - This report form is overseen by the [Tournament Committee](/wiki/People/Tournament_Committee). We encourage all users — players and staff alike — to make use of this form where necessary. Any breaches of [expectations](#expectations), [other procedures](#other-procedures), or [eligibility](#eligibility) requirements should prompt a report.
-- The tournament must only use beatmaps of songs which are cleared in terms of [content usage permissions](/wiki/Rules/Content_usage_permissions#artist-permissions). Any usage of tracks which are explicitly disallowed will revoke a tournament's eligibility for support. See the [ranking criteria](/wiki/Ranking_criteria#rules) for details regarding exceptions for artists or tracks which are listed as disallowed.
+- The tournament must abide by the following content usage rules:
+  - Usage of any beatmaps which have a DMCA takedown notice in any form is strictly prohibited.
+  - The creation or reuse of any beatmaps that violate [content usage permission rules](/wiki/Rules/Content_usage_permissions#artist-permissions) is strictly prohibited, except if they are **Ranked, Approved, or Loved**.
+    - If permission to use disallowed songs is granted by the artist, the host **must** include proof of permission in their email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) upon tournament conclusion.
 - The tournament only allows players of exceptional skill to participate, disallowing players lower than the following ranks in each game mode:
   - osu!: 100,000
   - osu!taiko: 10,000
@@ -89,7 +92,7 @@ In addition, all promotional material or any services associated with a tourname
 - All multiplayer matches relevant to the tournament must be created with the `!mp make` command, so that they do not expire. The results must be recorded and made publicly available on the original tournament forum post or an outside source linked on the forum post in a clear and accessible format.
 - All rule changes should be communicated clearly to all participants. Those should keep the expectations noted [above](#tournaments).
 
-Once the tournament has concluded, the tournament organisers will need to submit the following to the account support team:
+Once the tournament has concluded, the tournament organisers will need to submit the following to the account support team via [tournaments@ppy.sh](mailto:tournaments@ppy.sh):
 
 - A list of applicable badge recipients (a.k.a. the winners of your tournament).
 - An appropriately designed badge ([see below](#profile-badges)).
@@ -148,7 +151,7 @@ Participants in officially supported tournaments are expected to adhere to the [
 
 Additionally, players are expected to have *reasonably participated* in a given tournament in order to qualify for any prizes it may award — simply qualifying as a member of a winning team is not enough.
 
-At the account support team's discretion, offending players may be issued timed or permanent tournament bans depending on the severity of their behaviour. Repeat offenders may risk incurring a permanent tournament ban or a restriction.
+At the account support team's discretion, offending players may be issued timed or indefinite [tournament bans](/wiki/Help_centre/Tournament_bans) depending on the severity of their behaviour. Repeat offenders may risk incurring an indefinite tournament ban or a restriction.
 
 ## Other procedures
 

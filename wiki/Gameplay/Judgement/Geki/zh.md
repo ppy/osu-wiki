@@ -46,6 +46,6 @@ osu!catch 中没有“激”判定。
 
 获得“激”时会触发以下事件：
 
-- 取消激活[失败层](/wiki/Storyboard/Scripting/General_Rules#layers)。
-- 激活[通过层](/wiki/Storyboard/Scripting/General_Rules#layers)。
+- 停用[失败层](/wiki/Storyboard/Scripting/General_Rules#图层)。
+- 激活[通过层](/wiki/Storyboard/Scripting/General_Rules#图层)。
 - 当前一状态为“Fail”时，则触发“Passing”事件。
