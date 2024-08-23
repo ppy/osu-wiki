@@ -6,7 +6,7 @@ La ventana de **configuración de las canciones** es la cuarta sección del [edi
 
 ![](img/SS_General.jpg "Un ejemplo de una dificultad con los metadatos completos")
 
-`General` proporciona información que ayuda a los jugadores no solo a encontrar el beatmap, sino también a saber un poco más sobre la canción en sí. Los metadatos especificados aquí deben tomarse de alguna de las [fuentes primarias de metadatos](/wiki/Beatmap/Primary_metadata_source) de la canción y, si un beatmap está pasando por el [procedimiento de clasificación](/wiki/Beatmap_ranking_procedure), seguir los [criterios de clasificación](/wiki/Ranking_criteria#metadatos).
+`General` proporciona información que ayuda a los jugadores no solo a encontrar el beatmap, sino también a saber un poco más sobre la canción en sí. Los metadatos especificados aquí deben tomarse de alguna de las [fuentes primarias de metadatos](/wiki/Beatmap/Primary_metadata_source) de la canción y, si un beatmap está pasando por el [procedimiento de clasificación](/wiki/Beatmap_ranking_procedure), seguir los [criterios de clasificación](/wiki/Ranking_criteria/Metadata).
 
 | Campo | Significado |
 | :-- | :-- |
