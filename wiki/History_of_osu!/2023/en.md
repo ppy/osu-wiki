@@ -38,7 +38,7 @@ As May was coming to an end, [new medals](https://www.reddit.com/r/osugame/comme
 
 ## June
 
-In the second release of the month 2 weeks later, the osu! [game mode](/wiki/Game_mode) in osu!(lazer) received the Synesthesia mod which colours [hit objects](/wiki/Gameplay/Hit_objects) based on timing.[^synesthesia-mod] Furthermore, a search panel was added to the mod select screen to simplify finding certain mods.[^mod-search] The input field could be activated by pressing `Tab` to not collide with normal keyboard shortcuts.
+In the second release of the month 2 weeks later, the osu! [game mode](/wiki/Game_mode) in osu!(lazer) received the Synesthesia mod which colours [hit objects](/wiki/Gameplay/Hit_object) based on timing.[^synesthesia-mod] Furthermore, a search panel was added to the mod select screen to simplify finding certain mods.[^mod-search] The input field could be activated by pressing `Tab` to not collide with normal keyboard shortcuts.
 
 ::: Infobox
 ![](img/osu!monthly-9.jpg "Cover of osu!monthly's 9th edition")
