@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # 设置 osu!tourney
 
 *另见：[osu! 比赛客户端](/wiki/osu!_tournament_client)*\
