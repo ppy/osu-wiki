@@ -67,13 +67,11 @@ The National Dutch Championship 2024 is run by various community members.
 | :-: | :-- |
 | TBD | ::{ flag=NL }:: [LUCIANO](https://osu.ppy.sh/users/11604978) |
 | TBD | ::{ flag=NL }:: [Taylan_](https://osu.ppy.sh/users/16395194) |
-| TBD | ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403) |
 | TBD | ::{ flag=NL }:: [heyronii](https://osu.ppy.sh/users/5642779) |
 | TBD | ::{ flag=NL }:: [Skyrovania](https://osu.ppy.sh/users/4696315) |
 | TBD | ::{ flag=NL }:: [Ohio](https://osu.ppy.sh/users/14919428) |
 | TBD | ::{ flag=NL }:: [Dolter](https://osu.ppy.sh/users/6920104) |
 | TBD | ::{ flag=NL }:: [ahmet](https://osu.ppy.sh/users/16780708) |
-| TBD | ::{ flag=NL }:: [AngelNamirin](https://osu.ppy.sh/users/6145220) |
 | TBD | ::{ flag=NL }:: [Nederland](https://osu.ppy.sh/users/15802126) |
 | TBD | ::{ flag=NL }:: [chillington 15](https://osu.ppy.sh/users/6744123) |
 | TBD | ::{ flag=NL }:: [wessel_osu2](https://osu.ppy.sh/users/4382220) |
@@ -92,7 +90,6 @@ The National Dutch Championship 2024 is run by various community members.
 | TBD | ::{ flag=NL }:: [sofuraabu](https://osu.ppy.sh/users/7639453) |
 | TBD | ::{ flag=NL }:: [Wittepoes](https://osu.ppy.sh/users/12984931) |
 | TBD | ::{ flag=NL }:: [Goose King](https://osu.ppy.sh/users/9387696) |
-| TBD | ::{ flag=NL }:: [ERA Rhythm](https://osu.ppy.sh/users/19161909) |
 | TBD | ::{ flag=NL }:: [kinda sus dude](https://osu.ppy.sh/users/9610588) |
 | TBD | ::{ flag=NL }:: [tortvred](https://osu.ppy.sh/users/21505584) |
 | TBD | ::{ flag=NL }:: [pregnant](https://osu.ppy.sh/users/15413621) |
@@ -106,7 +103,6 @@ The National Dutch Championship 2024 is run by various community members.
 | TBD | ::{ flag=NL }:: [blexdark](https://osu.ppy.sh/users/12832395) |
 | TBD | ::{ flag=NL }:: [TheCoolJfp](https://osu.ppy.sh/users/7041796) |
 | TBD | ::{ flag=NL }:: [Trehaloses](https://osu.ppy.sh/users/5570153) |
-| TBD | ::{ flag=NL }:: [Zysen](https://osu.ppy.sh/users/17159061) |
 | TBD | ::{ flag=NL }:: [Telegy](https://osu.ppy.sh/users/16322001) |
 | TBD | ::{ flag=NL }:: [Pamuwu](https://osu.ppy.sh/users/13032176) |
 | TBD | ::{ flag=NL }:: [GeKa_Z](https://osu.ppy.sh/users/13233381) |
@@ -114,7 +110,6 @@ The National Dutch Championship 2024 is run by various community members.
 | TBD | ::{ flag=NL }:: [DJJDJ516](https://osu.ppy.sh/users/19412255) |
 | TBD | ::{ flag=NL }:: [oetluller](https://osu.ppy.sh/users/15218429) |
 | TBD | ::{ flag=NL }:: [faze-dank](https://osu.ppy.sh/users/13050074) |
-| TBD | ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) |
 | TBD | ::{ flag=NL }:: [draconia](https://osu.ppy.sh/users/20241831) |
 | TBD | ::{ flag=NL }:: [NeonCircles](https://osu.ppy.sh/users/13702202) |
 | TBD | ::{ flag=NL }:: [PotjeNutella](https://osu.ppy.sh/users/10926707) |
@@ -134,9 +129,7 @@ The National Dutch Championship 2024 is run by various community members.
 | TBD | ::{ flag=NL }:: [prins_off_hell](https://osu.ppy.sh/users/30975022) |
 | TBD | ::{ flag=NL }:: [Timmieturnerrr](https://osu.ppy.sh/users/18048714) |
 | TBD | ::{ flag=NL }:: [KawaiiSniperBoy](https://osu.ppy.sh/users/20524617) |
-| TBD | ::{ flag=NL }:: [4ngelheqrtz](https://osu.ppy.sh/users/17229122) |
 | TBD | ::{ flag=NL }:: [Mrvos15](https://osu.ppy.sh/users/31773225) |
-| TBD | ::{ flag=NL }:: [Pilllow](https://osu.ppy.sh/users/26527329) |
 |  |  |
 
 ## Mappools
