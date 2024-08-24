@@ -88,7 +88,7 @@ This year includes two non-FA songs as part of the song list, which also means a
 - **You must not include a video or storyboard in your submission.**
 - **You must not modify the background and metadata of your submission.** Metadata includes titles, artists, and tags.
 - **You are allowed to modify timing (including red lines) based on your needs.** This action is at your own risk.
-- **You are allowed to modify combo colours, bookmarks, and the preview time.** However, bookmarks will be removed during the judging phase.
+- **You are allowed to modify combo colours, bookmarks, and the preview time.**
 - **Submission must not be publicly revealed until after the results are announced.**
 - **The [ranking criteria](https://osu.ppy.sh/wiki/en/Ranking_criteria) must be respected except in cases where they cannot be applied, such as beatmap spread.** While mistakes are tolerated, submissions containing major unrankable issues may result in a deduction of points.
 
