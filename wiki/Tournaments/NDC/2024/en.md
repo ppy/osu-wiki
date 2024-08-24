@@ -130,7 +130,6 @@ The National Dutch Championship 2024 is run by various community members.
 | TBD | ::{ flag=NL }:: [Timmieturnerrr](https://osu.ppy.sh/users/18048714) | #122471 | #1428 |
 | TBD | ::{ flag=NL }:: [KawaiiSniperBoy](https://osu.ppy.sh/users/20524617) | #163763 | #1857 |
 | TBD | ::{ flag=NL }:: [Mrvos15](https://osu.ppy.sh/users/31773225) | #321975 | #3488 |
-|  |  |
 
 ## Mappools
 

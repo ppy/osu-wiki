@@ -108,7 +108,6 @@ The National Dutch Championship 2023 was run by various community members.
 | 45 | ::{ flag=NL }:: [Natan](https://osu.ppy.sh/users/15457513) | #24209 | #287 |
 | 46 | ::{ flag=NL }:: [Maarten](https://osu.ppy.sh/users/24414822) | #90778 | #1097 |
 | 47 | ::{ flag=NL }:: [-Shuba-](https://osu.ppy.sh/users/27275694) | #131313 | #1508 |
-|  |  |
 
 ## Podium
 

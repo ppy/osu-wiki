@@ -103,7 +103,6 @@ The National Dutch Championship 2022 was run by various community members.
 | 39 | ::{ flag=NL }:: [TheMad_N](https://osu.ppy.sh/users/10523988) | #81868 | #1046 |
 | 40 | ::{ flag=NL }:: [Cookie_Tree](https://osu.ppy.sh/users/502722) | #124124 | #1520 |
 | 41 | ::{ flag=NL }:: [Maarten](https://osu.ppy.sh/users/24414822) | #205802 | #2425 |
-|  |  |
 
 ## Podium
 
