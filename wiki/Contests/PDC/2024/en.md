@@ -81,7 +81,7 @@ This year includes two non-FA songs as part of the song list, which also means a
 ### Mapping
 
 - **Submission must include ONE DIFFICULTY ONLY.**
-- **Submission must use one of the provided songs.**
+- **Submission must use one of the provided songs.** You are only allowed to submit **ONE ENTRY** for one of the songs.
 - **Collaborations are not allowed.** Submission must be a solo entry.
 - **Submission must be in `.osz` format.**
 - **Submission must use standard difficulty names:** Easy, Normal, Hard, Insane, and Expert.
