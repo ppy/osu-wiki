@@ -6,33 +6,31 @@ tags:
 
 # Pending Cup 2024
 
-![](/wiki/shared/news/2024-08-25-pending-cup-2024/banner.jpg)
+![](img/banner.jpg)
 
-Pending Cup is originally a Chinese mapping contest, which had its first iteration in 2013 held by [NatsumeRin](https://osu.ppy.sh/users/151679). Through the past years, the Pending Cup has always been a means of encouraging creative mapping and finding new talent across the entire mapping community, and it will always be the core value of the contest.
-
-This year, we are expanding even further with a larger scale and prize pool. We strongly encourage and welcome you to participate in this event!
-
-This year's contest will be hosted by [Chaoslitz](https://osu.ppy.sh/users/3621552), [seros](https://osu.ppy.sh/users/10562853) and [Elayue](https://osu.ppy.sh/users/6400861).
+The **Pending Cup** is originally a Chinese mapping contest, which had its first iteration in 2013 held by [NatsumeRin](https://osu.ppy.sh/users/151679). This year's contest will be hosted by [Chaoslitz](https://osu.ppy.sh/users/3621552), [seros](https://osu.ppy.sh/users/10562853) and [Elayue](https://osu.ppy.sh/users/6400861).
 
 ## Links
 
-- [Newspost](https://osu.ppy.sh/home/news/2024-08-25-pending-cup-2024)
+- [Announcement news post](https://osu.ppy.sh/home/news/2024-08-25-pending-cup-2024)
 - [Contest listing](https://osu.ppy.sh/community/contests/218)
 - [Discord server](https://discord.com/invite/fVgU9pA)
-- [Forum Post EN]()
-- [Forum Post CN]()
+- [Forum post (English)](https://osu.ppy.sh/community/forums/topics/1967987)
+- [Forum post (Chinese)](https://osu.ppy.sh/community/forums/topics/1967986)
 
 ## Schedule
 
+*Notice: Beatmapping and judging phase deadlines are subject to change.*
+
 | Event | Dates |
 | --: | :-- |
-| Beatmapping (1.5 months)[^beatmapping] | 2024-08-25 to 2024-10-10 |
-| Judging (1.5 months)[^judging] | 2024-10-11 to 2024-11-25 |
+| Beatmapping (1.5 months) | 2024-08-25/2024-10-10 (15:59 UTC) |
+| Judging (1.5 months) | 2024-10-11/2024-11-25 |
 | Results (1 week) | 2024-12-02 |
 
 ## Songs
 
-This year we have received permission to use two non-FA songs as part of our songs list. This also means we are revisiting a previous Pending Cup format of having **3** different categories of tracks: **Vocal**, **Instrumental**, and **Featured Artist**.
+This year includes two non-FA songs as part of the song list, which also means a revisit to a previous Pending Cup format of having **3** different categories of tracks: **Vocal**, **Instrumental**, and **Featured Artist**.
 
 | Category | Song | Length | BPM |
 | --: | :-- | :-- | :-- |
@@ -40,11 +38,11 @@ This year we have received permission to use two non-FA songs as part of our son
 | Instrumental | ASA – Assault TAXI | 2:30 | 154 |
 | Featured Artist | Rabbit House – Seculo Seculorum | 2:22 | 210 |
 
-## Prizes 
+## Prizes
 
 ### Track prizes
 
-Our contest will have **3** separate **1st to 3rd rankings** for each track. Since you are only allowed to submit one entry, you may have a higher chance of winning if you pick your song wisely!
+The contest will have **3** separate **1st to 3rd rankings** for each track. Since only one submission is allowed, there may be a higher chance of winning by picking the track carefully.
 
 | Placement | Prizes |
 | :-: | :-- |
@@ -54,7 +52,7 @@ Our contest will have **3** separate **1st to 3rd rankings** for each track. Sin
 
 ### Grand prizes
 
-For the winner with the **highest points** out of the **3** tracks, we have a special **grand prize** section!
+For the winner with the **highest points** out of the **3** tracks, there is a special **grand prize** section.
 
 | Placement | Prizes |
 | :-: | :-- |
@@ -62,7 +60,7 @@ For the winner with the **highest points** out of the **3** tracks, we have a sp
 | 2nd | **[osu! deskmat](https://osu.ppy.sh/store/products/1347) of your choice** (courtesy of [Chaoslitz](https://osu.ppy.sh/users/3621552)), custom Pending Cup 2024 sticker set and keychain |
 | 3rd | Custom Pending Cup 2024 sticker set and keychain |
 
-Besides that, we will also have two lucky draws of 1 month of osu! supporter for anyone who participates (excluding prize winners). Make sure to join our [Discord server](https://discord.com/invite/fVgU9pA) so that you can get involved!
+Besides that, there will be two lucky draws of 1 month of osu! supporter for anyone who participates (excluding prize winners). Make sure to join the [Discord server](https://discord.com/invite/fVgU9pA) to get involved.
 
 ## Rules
 
@@ -86,7 +84,7 @@ Besides that, we will also have two lucky draws of 1 month of osu! supporter for
 
 ### Submission
 
-- Once you are finished, [head over to the contest listing to submit your map](LINK). You are allowed to resubmit your entry anytime before the mapping phase has ended.
+- Once you are finished, [head over to the contest listing to submit your map](https://osu.ppy.sh/community/contests/218). You are allowed to resubmit your entry anytime before the mapping phase has ended.
 
 ### Judging criteria[^criteria]
 
@@ -108,6 +106,4 @@ Besides that, we will also have two lucky draws of 1 month of osu! supporter for
 
 ## Notes
 
-[^beatmapping]: Beatmapping phase deadline is subject to change.
-[^judging]: Judging phase deadline is subject to change.
 [^criteria]: Judges are instructed to be consistent in their judging style across each track when judging.
