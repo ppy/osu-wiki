@@ -6,7 +6,7 @@ tags: # yamllint disable rule:braces rule:osu-wiki-nested-structure
 
 # National Dutch Championship 2024
 
-![NDC banner](img/banner.png)
+![NDC banner](img/banner.jpg)
 
 The **National Dutch Championship 2024** (***NDC 2024***) is a 1v1, double elimination osu!standard tournament hosted by ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403) and ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619). It is the third instalment of the National Dutch Championship.
 
