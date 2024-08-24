@@ -10,14 +10,6 @@ tags:
 
 The **Pending Cup** is originally a Chinese mapping contest, which had its first iteration in 2013 held by [NatsumeRin](https://osu.ppy.sh/users/151679). This year's contest will be hosted by [Chaoslitz](https://osu.ppy.sh/users/3621552), [seros](https://osu.ppy.sh/users/10562853) and [Elayue](https://osu.ppy.sh/users/6400861).
 
-## Links
-
-- [Announcement news post](https://osu.ppy.sh/home/news/2024-08-25-pending-cup-2024)
-- [Contest listing](https://osu.ppy.sh/community/contests/218)
-- [Discord server](https://discord.com/invite/fVgU9pA)
-- [Forum post (English)](https://osu.ppy.sh/community/forums/topics/1967987)
-- [Forum post (Chinese)](https://osu.ppy.sh/community/forums/topics/1967986)
-
 ## Schedule
 
 *Notice: Beatmapping and judging phase deadlines are subject to change.*
@@ -27,16 +19,6 @@ The **Pending Cup** is originally a Chinese mapping contest, which had its first
 | Beatmapping (1.5 months) | 2024-08-25/2024-10-10 (15:59 UTC) |
 | Judging (1.5 months) | 2024-10-11/2024-11-25 |
 | Results (1 week) | 2024-12-02 |
-
-## Songs
-
-This year includes two non-FA songs as part of the song list, which also means a revisit to a previous Pending Cup format of having **3** different categories of tracks: **Vocal**, **Instrumental**, and **Featured Artist**.
-
-| Category | Song | Length | BPM |
-| --: | :-- | :-- | :-- |
-| Vocal | qfeileadh feat. Resonance Moeko - Ars Nova ni Kassai o | 2:47 | 185 |
-| Instrumental | ASA – Assault TAXI | 2:30 | 154 |
-| Featured Artist | Rabbit House – Seculo Seculorum | 2:22 | 210 |
 
 ## Prizes
 
@@ -61,6 +43,34 @@ For the winner with the **highest points** out of the **3** tracks, there is a s
 | 3rd | Custom Pending Cup 2024 sticker set and keychain |
 
 Besides that, there will be two lucky draws of 1 month of osu! supporter for anyone who participates (excluding prize winners). Make sure to join the [Discord server](https://discord.com/invite/fVgU9pA) to get involved.
+
+## Contributors
+
+| Position | Member(s) |
+| --: | :-- |
+| Hosts | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552), ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853), ::{ flag=CN }:: [Elayue](https://osu.ppy.sh/users/6400861) |
+| Judges | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557), ::{ flag=CN }:: [Fycho](https://osu.ppy.sh/users/1876867), ::{ flag=CN }:: [pw384](https://osu.ppy.sh/users/1343783), ::{ flag=US }:: [captin1](https://osu.ppy.sh/users/689997), ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501), ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882), ::{ flag=AU }:: [Gibune](https://osu.ppy.sh/users/5778687), ::{ flag=US }:: [KoldNoodl](https://osu.ppy.sh/users/12572294) |
+| Sponsors | ::{ flag=CN }:: [TtmnZk](https://osu.ppy.sh/users/2495509), ::{ flag=CN }:: [Hollow Wings](https://osu.ppy.sh/users/416662), ::{ flag=HK }:: [Regou](https://osu.ppy.sh/users/419954), ::{ flag=JP }:: [Sphaela](https://osu.ppy.sh/users/7075821), ::{ flag=CN }:: [pw384](https://osu.ppy.sh/users/1343783), ::{ flag=CA }:: [Feiri](https://osu.ppy.sh/users/3214844), ::{ flag=CN }:: [Flower](https://osu.ppy.sh/users/1033017), ::{ flag=HK }:: [Kyle Y](https://osu.ppy.sh/users/3565813), ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229), ::{ flag=CN }:: [Gust](https://osu.ppy.sh/users/1244312), ::{ flag=CN }:: [Edmound](https://osu.ppy.sh/users/10932297), ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552), ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853), ::{ flag=CN }:: [Elayue](https://osu.ppy.sh/users/6400861), ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) |
+| Design | ::{ flag=CA }:: [kaetwo](https://osu.ppy.sh/users/1997719) |
+| Special thanks | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976), ::{ flag=CA }:: [kaetwo](https://osu.ppy.sh/users/1997719), ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785), ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418), ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747), ::{ flag=JP }:: [Satellite](https://osu.ppy.sh/users/1661227), ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) |
+
+## Links
+
+- [Announcement news post](https://osu.ppy.sh/home/news/2024-08-25-pending-cup-2024)
+- [Contest listing](https://osu.ppy.sh/community/contests/218)
+- [Discord server](https://discord.com/invite/fVgU9pA)
+- [Forum post (English)](https://osu.ppy.sh/community/forums/topics/1967987)
+- [Forum post (Chinese)](https://osu.ppy.sh/community/forums/topics/1967986)
+
+## Songs
+
+This year includes two non-FA songs as part of the song list, which also means a revisit to a previous Pending Cup format of having **3** different categories of tracks: **Vocal**, **Instrumental**, and **Featured Artist**.
+
+| Category | Song | Length | BPM |
+| --: | :-- | :-- | :-- |
+| Vocal | qfeileadh feat. Resonance Moeko - Ars Nova ni Kassai o | 2:47 | 185 |
+| Instrumental | ASA – Assault TAXI | 2:30 | 154 |
+| Featured Artist | Rabbit House – Seculo Seculorum | 2:22 | 210 |
 
 ## Rules
 
@@ -93,16 +103,6 @@ Besides that, there will be two lucky draws of 1 month of osu! supporter for any
 | Expertise (40%) | Expertise refers to how well the map executes itself to reflect the elements in the music. This reflects the technical skill of a mapper. However, in the Pending Cup, judging is not modding. Although we promote maps with expertise and professionalism and care about details, judges are discouraged from being nitpicky on small mistakes or minor unrankables, and will instead score in this category while considering an overarching picture of the map. |
 | Creativity (40%) | Creativity refers to how reasonably outstanding the map is compared to the current mapping meta. A generic map in the current mapping meta or copy-pasting concepts from other "famous" maps is discouraged. The Pending Cup promotes creativity, so the winners of PDC should guide the mapping meta instead of following it. |
 | Judge's Impression (20%) | Judges can use this for extra scores or penalties for their specific comments or remarks on something in the entry. The base Judge's Impression score is set to 10, and judges must explicitly mention why they apply any additions or deductions to that score. |
-
-## Contributors
-
-| Position | Member(s) |
-| --: | :-- |
-| Hosts | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552), ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853), ::{ flag=CN }:: [Elayue](https://osu.ppy.sh/users/6400861) |
-| Judges | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557), ::{ flag=CN }:: [Fycho](https://osu.ppy.sh/users/1876867), ::{ flag=CN }:: [pw384](https://osu.ppy.sh/users/1343783), ::{ flag=US }:: [captin1](https://osu.ppy.sh/users/689997), ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501), ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882), ::{ flag=AU }:: [Gibune](https://osu.ppy.sh/users/5778687), ::{ flag=US }:: [KoldNoodl](https://osu.ppy.sh/users/12572294) |
-| Sponsors | ::{ flag=CN }:: [TtmnZk](https://osu.ppy.sh/users/2495509), ::{ flag=CN }:: [Hollow Wings](https://osu.ppy.sh/users/416662), ::{ flag=HK }:: [Regou](https://osu.ppy.sh/users/419954), ::{ flag=JP }:: [Sphaela](https://osu.ppy.sh/users/7075821), ::{ flag=CN }:: [pw384](https://osu.ppy.sh/users/1343783), ::{ flag=CA }:: [Feiri](https://osu.ppy.sh/users/3214844), ::{ flag=CN }:: [Flower](https://osu.ppy.sh/users/1033017), ::{ flag=HK }:: [Kyle Y](https://osu.ppy.sh/users/3565813), ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229), ::{ flag=CN }:: [Gust](https://osu.ppy.sh/users/1244312), ::{ flag=CN }:: [Edmound](https://osu.ppy.sh/users/10932297), ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552), ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853), ::{ flag=CN }:: [Elayue](https://osu.ppy.sh/users/6400861), ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) |
-| Design | ::{ flag=CA }:: [kaetwo](https://osu.ppy.sh/users/1997719) |
-| Special thanks | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976), ::{ flag=CA }:: [kaetwo](https://osu.ppy.sh/users/1997719), ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785), ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418), ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747), ::{ flag=JP }:: [Satellite](https://osu.ppy.sh/users/1661227), ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) |
 
 ## Notes
 
