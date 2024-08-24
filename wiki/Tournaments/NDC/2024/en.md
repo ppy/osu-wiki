@@ -138,19 +138,19 @@ The National Dutch Championship 2024 is run by various community members.
 **[Download the mappack here!](https://tourney.huismetbenen.nl/25/mappools/ql)**
 
 - Nomod
-  1. [HACHI - MATRYOSHKA (Luscent) [Expert]](https://osu.ppy.sh/b/3744361)
-  2. [xi - Blue Zenith (Asphyxia) [ktgster's Extreme]](https://osu.ppy.sh/b/657917)
-  3. [PeriTune - Prairie4 (captin1) [Extra]](https://osu.ppy.sh/b/3154910)
-  4. [Juggernaut. - Rebellion (Wispy) [Extra.]](https://osu.ppy.sh/b/4468368)
+  1. [HACHI - MATRYOSHKA (Luscent) [Expert]](https://osu.ppy.sh/beatmapsets/1824623#osu/3744361/3744361)
+  2. [xi - Blue Zenith (Asphyxia) [ktgster's Extreme]](https://osu.ppy.sh/beatmapsets/292301#osu/657917/657917)
+  3. [PeriTune - Prairie4 (captin1) [Extra]](https://osu.ppy.sh/beatmapsets/1543431#osu/3154910/3154910)
+  4. [Juggernaut. - Rebellion (Wispy) [Extra.]](https://osu.ppy.sh/beatmapsets/2125782#osu/4468368/4468368)
 - Hidden
-  1. [Camellia - Kono Hoshi de.... (Snow Note) [Another]](https://osu.ppy.sh/b/280034)
-  2. [paraoka feat. haru*nya - Manimani (Cut ver.) (Cellina) [Hananoiro]](https://osu.ppy.sh/b/4179280)
+  1. [Camellia - Kono Hoshi de.... (Snow Note) [Another]](https://osu.ppy.sh/beatmapsets/106693#osu/280034/280034)
+  2. [paraoka feat. haru*nya - Manimani (Cut ver.) (Cellina) [Hananoiro]](https://osu.ppy.sh/beatmapsets/2008891#osu/4179280/4179280)
 - Hardrock
-  1. [BUTAOTOME - Yurara Kamishibai (sstari) [Expert]](https://osu.ppy.sh/b/4717103)
-  2. [Warak - REANIMATE (iyasine) [Azer's Extra]](https://osu.ppy.sh/b/459845)
+  1. [BUTAOTOME - Yurara Kamishibai (sstari) [Expert]](https://osu.ppy.sh/beatmapsets/2148067#osu/4717103/4717103)
+  2. [Warak - REANIMATE (iyasine) [Azer's Extra]](https://osu.ppy.sh/beatmapsets/186318#osu/459845/459845)
 - Double Time
-  1. [FELT - Flower Flag (MZC Echoes the Spring Liquid Mix) (Frostmourne) [Lunatic]](https://osu.ppy.sh/b/169450)
-  2. [frederic - Junkie (elicz1) [XLT's Insane]](https://osu.ppy.sh/b/4387718)
+  1. [FELT - Flower Flag (MZC Echoes the Spring Liquid Mix) (Frostmourne) [Lunatic]](https://osu.ppy.sh/beatmapsets/55945#osu/169450/169450)
+  2. [frederic - Junkie (elicz1) [XLT's Insane]](https://osu.ppy.sh/beatmapsets/2078299#osu/4387718/4387718)
 
 ## Ruleset
 
