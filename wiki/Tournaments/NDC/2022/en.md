@@ -60,49 +60,49 @@ The National Dutch Championship 2022 was run by various community members.
 
 ## Participants
 
-| Seed | Player |
-| :-: | :-- |
-| 1 | ::{ flag=NL }:: [Viveliam](3506793) |
-| 2 | ::{ flag=NL }:: [chillington 15](6744123) |
-| 3 | ::{ flag=NL }:: [Skyrovania](4696315) |
-| 4 | ::{ flag=NL }:: [Kushper](4832514) |
-| 5 | ::{ flag=NL }:: [Lilily](6502403) |
-| 6 | ::{ flag=NL }:: [Dolter](6920104) |
-| 7 | ::{ flag=NL }:: [xceller](12265149) |
-| 8 | ::{ flag=NL }:: [heikneuter](6765641) |
-| 9 | ::{ flag=NL }:: [Ohio](14919428) |
-| 10 | ::{ flag=NL }:: [Casalicious](12459807) |
-| 11 | ::{ flag=NL }:: [wooz](6888206) |
-| 12 | ::{ flag=NL }:: [wessel_osu2](4382220) |
-| 13 | ::{ flag=NL }:: [LUCIANO](11604978) |
-| 14 | ::{ flag=NL }:: [niqht](14390731) |
-| 15 | ::{ flag=NL }:: [oetluller](15218429) |
-| 16 | ::{ flag=NL }:: [Synchrostar](419705) |
-| 17 | ::{ flag=NL }:: [sofuraabu](7639453) |
-| 18 | ::{ flag=NL }:: [wessel_osu1](6577301) |
-| 19 | ::{ flag=NL }:: [Dagoth Ur](11638527) |
-| 20 | ::{ flag=NL }:: [TheCoolJfp](7041796) |
-| 21 | ::{ flag=NL }:: [Knakworst](4257559) |
-| 22 | ::{ flag=NL }:: [ysen](13109448) |
-| 23 | ::{ flag=NL }:: [Goose King](9387696) |
-| 24 | ::{ flag=NL }:: [oob](4426099) |
-| 25 | ::{ flag=NL }:: [Apollo685](14080825) |
-| 26 | ::{ flag=NL }:: [Zereliq](4059978) |
-| 27 | ::{ flag=NL }:: [kinda sus dude](9610588) |
-| 28 | ::{ flag=NL }:: [boterham](2844779) |
-| 29 | ::{ flag=NL }:: [Axeanz](14073866) |
-| 30 | ::{ flag=NL }:: [OldEclipse](5174602) |
-| 31 | ::{ flag=NL }:: [TheDurpyOwl](11187258) |
-| 32 | ::{ flag=NL }:: [UnveiledGolem](14090438) |
-| 33 | ::{ flag=NL }:: [Kut](3859899) |
-| 34 | ::{ flag=NL }:: [Finny666](17271135) |
-| 35 | ::{ flag=NL }:: [Woebel](8454542) |
-| 36 | ::{ flag=NL }:: [AintGotNoAim](18998391) |
-| 37 | ::{ flag=NL }:: [przemo52](11170330) |
-| 38 | ::{ flag=NL }:: [Dutchi](15629640) |
-| 39 | ::{ flag=NL }:: [TheMad_N](10523988) |
-| 40 | ::{ flag=NL }:: [Cookie_Tree](502722) |
-| 41 | ::{ flag=NL }:: [Maarten](24414822) |
+| Seed | Player | Global rank | Country rank |
+| :-: | :-- | :-: | :-: |
+| 1 | ::{ flag=NL }:: [Viveliam](https://osu.ppy.sh/users/3506793) | #52 | #1 |
+| 2 | ::{ flag=NL }:: [chillington 15](https://osu.ppy.sh/users/6744123) | #601 | #9 |
+| 3 | ::{ flag=NL }:: [Skyrovania](https://osu.ppy.sh/users/4696315) | #244 | #5 |
+| 4 | ::{ flag=NL }:: [Kushper](https://osu.ppy.sh/users/4832514) | #1591 | #22 |
+| 5 | ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403) | #524 | #7 |
+| 6 | ::{ flag=NL }:: [Dolter](https://osu.ppy.sh/users/6920104) | #702 | #10 |
+| 7 | ::{ flag=NL }:: [xceller](https://osu.ppy.sh/users/12265149) | #752 | #11 |
+| 8 | ::{ flag=NL }:: [heikneuter](https://osu.ppy.sh/users/6765641) | #233 | #4 |
+| 9 | ::{ flag=NL }:: [Ohio](https://osu.ppy.sh/users/14919428) | #1104 | #14 |
+| 10 | ::{ flag=NL }:: [Casalicious](https://osu.ppy.sh/users/12459807) | #4665 | #58 |
+| 11 | ::{ flag=NL }:: [wooz](https://osu.ppy.sh/users/6888206) | #1335 | #18 |
+| 12 | ::{ flag=NL }:: [wessel_osu2](https://osu.ppy.sh/users/4382220) | #2002 | #29 |
+| 13 | ::{ flag=NL }:: [LUCIANO](https://osu.ppy.sh/users/11604978) | #168 | #3 |
+| 14 | ::{ flag=NL }:: [niqht](https://osu.ppy.sh/users/14390731) | #2296 | #33 |
+| 15 | ::{ flag=NL }:: [oetluller](https://osu.ppy.sh/users/15218429) | #13056 | #154 |
+| 16 | ::{ flag=NL }:: [Synchrostar](https://osu.ppy.sh/users/419705) | #5869 | #76 |
+| 17 | ::{ flag=NL }:: [sofuraabu](https://osu.ppy.sh/users/7639453) | #6297 | #81 |
+| 18 | ::{ flag=NL }:: [wessel_osu1](https://osu.ppy.sh/users/6577301) | #4905 | #62 |
+| 19 | ::{ flag=NL }:: [Dagoth Ur](https://osu.ppy.sh/users/11638527) | #1029 | #13 |
+| 20 | ::{ flag=NL }:: [TheCoolJfp](https://osu.ppy.sh/users/7041796) | #7321 | #93 |
+| 21 | ::{ flag=NL }:: [Knakworst](https://osu.ppy.sh/users/4257559) | #4845 | #60 |
+| 22 | ::{ flag=NL }:: [ysen](https://osu.ppy.sh/users/13109448) | #9223 | #118 |
+| 23 | ::{ flag=NL }:: [Goose King](https://osu.ppy.sh/users/9387696) | #7786 | #102 |
+| 24 | ::{ flag=NL }:: [oob](https://osu.ppy.sh/users/4426099) | #18099 | #231 |
+| 25 | ::{ flag=NL }:: [Apollo685](https://osu.ppy.sh/users/14080825) | #7632 | #99 |
+| 26 | ::{ flag=NL }:: [Zereliq](https://osu.ppy.sh/users/4059978) | #3086 | #41 |
+| 27 | ::{ flag=NL }:: [kinda sus dude](https://osu.ppy.sh/users/9610588) | #5388 | #69 |
+| 28 | ::{ flag=NL }:: [boterham](https://osu.ppy.sh/users/2844779) | #10171 | #127 |
+| 29 | ::{ flag=NL }:: [Axeanz](https://osu.ppy.sh/users/14073866) | #22590 | #293 |
+| 30 | ::{ flag=NL }:: [OldEclipse](https://osu.ppy.sh/users/5174602) | #4330 | #54 |
+| 31 | ::{ flag=NL }:: [TheDurpyOwl](https://osu.ppy.sh/users/11187258) | #7518 | #95 |
+| 32 | ::{ flag=NL }:: [UnveiledGolem](https://osu.ppy.sh/users/14090438) | #30867 | #404 |
+| 33 | ::{ flag=NL }:: [Kut](https://osu.ppy.sh/users/3859899) | #14821 | #186 |
+| 34 | ::{ flag=NL }:: [Finny666](https://osu.ppy.sh/users/17271135) | #77607 | #1000 |
+| 35 | ::{ flag=NL }:: [Woebel](https://osu.ppy.sh/users/8454542) | #61120 | #792 |
+| 36 | ::{ flag=NL }:: [AintGotNoAim](https://osu.ppy.sh/users/18998391) | #137452 | #1656 |
+| 37 | ::{ flag=NL }:: [przemo52](https://osu.ppy.sh/users/11170330) | #64337 | #835 |
+| 38 | ::{ flag=NL }:: [Dutchi](https://osu.ppy.sh/users/15629640) | #70267 | #910 |
+| 39 | ::{ flag=NL }:: [TheMad_N](https://osu.ppy.sh/users/10523988) | #81868 | #1046 |
+| 40 | ::{ flag=NL }:: [Cookie_Tree](https://osu.ppy.sh/users/502722) | #124124 | #1520 |
+| 41 | ::{ flag=NL }:: [Maarten](https://osu.ppy.sh/users/24414822) | #205802 | #2425 |
 |  |  |
 
 ## Podium

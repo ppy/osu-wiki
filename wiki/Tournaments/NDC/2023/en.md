@@ -59,55 +59,55 @@ The National Dutch Championship 2023 was run by various community members.
 
 ## Participants
 
-| Seed | Player |
-| :-: | :-- |
-| 1 | ::{ flag=NL }:: [chillington 15](https://osu.ppy.sh/users/6744123) |
-| 2 | ::{ flag=NL }:: [Ohio](https://osu.ppy.sh/users/14919428) |
-| 3 | ::{ flag=NL }:: [Dolter](https://osu.ppy.sh/users/6920104) |
-| 4 | ::{ flag=NL }:: [TurtleSenpaii](https://osu.ppy.sh/users/12241010) |
-| 5 | ::{ flag=NL }:: [jackylam5](https://osu.ppy.sh/users/1540807) |
-| 6 | ::{ flag=NL }:: [Seleen](https://osu.ppy.sh/users/9362168) |
-| 7 | ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403) |
-| 8 | ::{ flag=NL }:: [LUCIANO](https://osu.ppy.sh/users/11604978) |
-| 9 | ::{ flag=NL }:: [niqht](https://osu.ppy.sh/users/14390731) |
-| 10 | ::{ flag=NL }:: [wessel_osu2](https://osu.ppy.sh/users/4382220) |
-| 11 | ::{ flag=NL }:: [heikneuter](https://osu.ppy.sh/users/6765641) |
-| 12 | ::{ flag=NL }:: [xceller](https://osu.ppy.sh/users/12265149) |
-| 13 | ::{ flag=NL }:: [Taylan_](https://osu.ppy.sh/users/16395194) |
-| 14 | ::{ flag=NL }:: [UnveiledGolem](https://osu.ppy.sh/users/14090438) |
-| 15 | ::{ flag=NL }:: [wooz](https://osu.ppy.sh/users/6888206) |
-| 16 | ::{ flag=NL }:: [wessel_osu1](https://osu.ppy.sh/users/6577301) |
-| 17 | ::{ flag=NL }:: [sofuraabu](https://osu.ppy.sh/users/7639453) |
-| 18 | ::{ flag=NL }:: [AngelNamirin](https://osu.ppy.sh/users/6145220) |
-| 19 | ::{ flag=NL }:: [Sroj](https://osu.ppy.sh/users/4783389) |
-| 20 | ::{ flag=NL }:: [oetluller](https://osu.ppy.sh/users/15218429) |
-| 21 | ::{ flag=NL }:: [Lamp](https://osu.ppy.sh/users/15193535) |
-| 22 | ::{ flag=NL }:: [Wittepoes](https://osu.ppy.sh/users/12984931) |
-| 23 | ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264) |
-| 24 | ::{ flag=NL }:: [Kwal1976](https://osu.ppy.sh/users/18659783) |
-| 25 | ::{ flag=NL }:: [Apollo685](https://osu.ppy.sh/users/14080825) |
-| 26 | ::{ flag=NL }:: [Goose King](https://osu.ppy.sh/users/9387696) |
-| 27 | ::{ flag=NL }:: [FietsAapje](https://osu.ppy.sh/users/10053936) |
-| 28 | ::{ flag=NL }:: [ysen](https://osu.ppy.sh/users/13109448) |
-| 29 | ::{ flag=NL }:: [Zereliq](https://osu.ppy.sh/users/4059978) |
-| 30 | ::{ flag=NL }:: [permiss](https://osu.ppy.sh/users/8591929) |
-| 31 | ::{ flag=NL }:: [TheCoolJfp](https://osu.ppy.sh/users/7041796) |
-| 32 | ::{ flag=NL }:: [Axeanz](https://osu.ppy.sh/users/14073866) |
-| 33 | ::{ flag=NL }:: [Synchrostar](https://osu.ppy.sh/users/419705) |
-| 34 | ::{ flag=NL }:: [OldEclipse](https://osu.ppy.sh/users/5174602) |
-| 35 | ::{ flag=NL }:: [MFC200](https://osu.ppy.sh/users/13141753) |
-| 36 | ::{ flag=NL }:: [Sleppie](https://osu.ppy.sh/users/16072104) |
-| 37 | ::{ flag=NL }:: [blexdark](https://osu.ppy.sh/users/12832395) |
-| 38 | ::{ flag=NL }:: [TheDurpyOwl](https://osu.ppy.sh/users/11187258) |
-| 39 | ::{ flag=NL }:: [Bittshrooms](https://osu.ppy.sh/users/9250996) |
-| 40 | ::{ flag=NL }:: [ERA Rhythm](https://osu.ppy.sh/users/19161909) |
-| 41 | ::{ flag=NL }:: [- Ethereal -](https://osu.ppy.sh/users/9357932) |
-| 42 | ::{ flag=NL }:: [Speed Kitty](https://osu.ppy.sh/users/15725070) |
-| 43 | ::{ flag=NL }:: [Syph](https://osu.ppy.sh/users/4858573) |
-| 44 | ::{ flag=NL }:: [TheMad_N](https://osu.ppy.sh/users/10523988) |
-| 45 | ::{ flag=NL }:: [Natan](https://osu.ppy.sh/users/15457513) |
-| 46 | ::{ flag=NL }:: [Maarten](https://osu.ppy.sh/users/24414822) |
-| 47 | ::{ flag=NL }:: [-Shuba-](https://osu.ppy.sh/users/27275694) |
+| Seed | Player | Global rank | Country rank |
+| :-: | :-- | :-: | :-: |
+| 1 | ::{ flag=NL }:: [chillington 15](https://osu.ppy.sh/users/6744123) | #966 | #14 |
+| 2 | ::{ flag=NL }:: [Ohio](https://osu.ppy.sh/users/14919428) | #910 | #13 |
+| 3 | ::{ flag=NL }:: [Dolter](https://osu.ppy.sh/users/6920104) | #577 | #9 |
+| 4 | ::{ flag=NL }:: [TurtleSenpaii](https://osu.ppy.sh/users/12241010) | #225 | #5 |
+| 5 | ::{ flag=NL }:: [jackylam5](https://osu.ppy.sh/users/1540807) | #980 | #15 |
+| 6 | ::{ flag=NL }:: [Seleen](https://osu.ppy.sh/users/9362168) | #39478 | #475 |
+| 7 | ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403) | #427 | #7 |
+| 8 | ::{ flag=NL }:: [LUCIANO](https://osu.ppy.sh/users/11604978) | #61 | #1 |
+| 9 | ::{ flag=NL }:: [niqht](https://osu.ppy.sh/users/14390731) | #886 | #11 |
+| 10 | ::{ flag=NL }:: [wessel_osu2](https://osu.ppy.sh/users/4382220) | #1988 | #31 |
+| 11 | ::{ flag=NL }:: [heikneuter](https://osu.ppy.sh/users/6765641) | #184 | #3 |
+| 12 | ::{ flag=NL }:: [xceller](https://osu.ppy.sh/users/12265149) | #436 | #8 |
+| 13 | ::{ flag=NL }:: [Taylan_](https://osu.ppy.sh/users/16395194) | #658 | #10 |
+| 14 | ::{ flag=NL }:: [UnveiledGolem](https://osu.ppy.sh/users/14090438) | #11069 | #138 |
+| 15 | ::{ flag=NL }:: [wooz](https://osu.ppy.sh/users/6888206) | #1869 | #30 |
+| 16 | ::{ flag=NL }:: [wessel_osu1](https://osu.ppy.sh/users/6577301) | #6594 | #77 |
+| 17 | ::{ flag=NL }:: [sofuraabu](https://osu.ppy.sh/users/7639453) | #7566 | #93 |
+| 18 | ::{ flag=NL }:: [AngelNamirin](https://osu.ppy.sh/users/6145220) | #1254 | #20 |
+| 19 | ::{ flag=NL }:: [Sroj](https://osu.ppy.sh/users/4783389) | #5963 | #69 |
+| 20 | ::{ flag=NL }:: [oetluller](https://osu.ppy.sh/users/15218429) | #10589 | #128 |
+| 21 | ::{ flag=NL }:: [Lamp](https://osu.ppy.sh/users/15193535) | #6486 | #75 |
+| 22 | ::{ flag=NL }:: [Wittepoes](https://osu.ppy.sh/users/12984931) | #10104 | #122 |
+| 23 | ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264) | #7515 | #90 |
+| 24 | ::{ flag=NL }:: [Kwal1976](https://osu.ppy.sh/users/18659783) | #10331 | #124 |
+| 25 | ::{ flag=NL }:: [Apollo685](https://osu.ppy.sh/users/14080825) | #7320 | #86 |
+| 26 | ::{ flag=NL }:: [Goose King](https://osu.ppy.sh/users/9387696) | #6487 | #75 |
+| 27 | ::{ flag=NL }:: [FietsAapje](https://osu.ppy.sh/users/10053936) | #23083 | #275 |
+| 28 | ::{ flag=NL }:: [ysen](https://osu.ppy.sh/users/13109448) | #6371 | #74 |
+| 29 | ::{ flag=NL }:: [Zereliq](https://osu.ppy.sh/users/4059978) | #3785 | #47 |
+| 30 | ::{ flag=NL }:: [permiss](https://osu.ppy.sh/users/8591929) | #3884 | #50 |
+| 31 | ::{ flag=NL }:: [TheCoolJfp](https://osu.ppy.sh/users/7041796) | #8370 | #100 |
+| 32 | ::{ flag=NL }:: [Axeanz](https://osu.ppy.sh/users/14073866) | #23737 | #282 |
+| 33 | ::{ flag=NL }:: [Synchrostar](https://osu.ppy.sh/users/419705) | #9409 | #111 |
+| 34 | ::{ flag=NL }:: [OldEclipse](https://osu.ppy.sh/users/5174602) | #997 | #17 |
+| 35 | ::{ flag=NL }:: [MFC200](https://osu.ppy.sh/users/13141753) | #28649 | #351 |
+| 36 | ::{ flag=NL }:: [Sleppie](https://osu.ppy.sh/users/16072104) | #12756 | #155 |
+| 37 | ::{ flag=NL }:: [blexdark](https://osu.ppy.sh/users/12832395) | #18730 | #216 |
+| 38 | ::{ flag=NL }:: [TheDurpyOwl](https://osu.ppy.sh/users/11187258) | #9527 | #112 |
+| 39 | ::{ flag=NL }:: [Bittshrooms](https://osu.ppy.sh/users/9250996) | #60373 | #739 |
+| 40 | ::{ flag=NL }:: [ERA Rhythm](https://osu.ppy.sh/users/19161909) | #27254 | #337 |
+| 41 | ::{ flag=NL }:: [- Ethereal -](https://osu.ppy.sh/users/9357932) | #35765 | #425 |
+| 42 | ::{ flag=NL }:: [Speed Kitty](https://osu.ppy.sh/users/15725070) | #47276 | #556 |
+| 43 | ::{ flag=NL }:: [Syph](https://osu.ppy.sh/users/4858573) | #2640 | #37 |
+| 44 | ::{ flag=NL }:: [TheMad_N](https://osu.ppy.sh/users/10523988) | #36753 | #442 |
+| 45 | ::{ flag=NL }:: [Natan](https://osu.ppy.sh/users/15457513) | #24209 | #287 |
+| 46 | ::{ flag=NL }:: [Maarten](https://osu.ppy.sh/users/24414822) | #90778 | #1097 |
+| 47 | ::{ flag=NL }:: [-Shuba-](https://osu.ppy.sh/users/27275694) | #131313 | #1508 |
 |  |  |
 
 ## Podium
