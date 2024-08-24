@@ -8,7 +8,7 @@ tags: # yamllint disable rule:braces rule:osu-wiki-nested-structure
 
 ![NDC logo](img/logo.png)
 
-The **National Dutch Championship 2022** (***NDC 2022***) was a 1v1, double elimination, country-based osu!standard tournament hosted by ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) and ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815). It was the first instalment of the National Dutch Championship and succeeded the Dutch osu! Cup series, which lasted from 2017 till 2021.
+The **National Dutch Championship 2022** (***NDC 2022***) was a 1v1, double elimination osu!standard tournament hosted by ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) and ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815). It was the first instalment of the National Dutch Championship and succeeded the Dutch osu! Cup series, which lasted from 2017 till 2021.
 
 ## Tournament schedule
 
@@ -470,7 +470,7 @@ Friday, 21 January 2022:
 
 ### Knockout stage
 1. The knockout stage starts with a round of 32. Players are eliminated after losing two matches.
-2. Schedules for each round are released on the Monday prior to the round's weekend.
+2. Schedules for each round are released on the Monday prior to the match weekend.
 3. Reschedules are permitted at all times. Matches are not allowed to be rescheduled to days other than Friday, Saturday or Sunday. Matches may also not collide with potential loser bracket matches.
 4. If a player is not present at match time, they will automatically forfeit the match.
 5. Players will be pinged in the Discord server and PM'ed in-game 30 and 15 minutes before the match.

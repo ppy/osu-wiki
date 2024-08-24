@@ -8,7 +8,7 @@ tags: # yamllint disable rule:braces rule:osu-wiki-nested-structure
 
 ![NDC banner](img/banner.png)
 
-The **National Dutch Championship 2024** (***NDC 2024***) is a 1v1, double elimination, country-based osu!standard tournament hosted by ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403) and ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619). It is the third instalment of the National Dutch Championship.
+The **National Dutch Championship 2024** (***NDC 2024***) is a 1v1, double elimination osu!standard tournament hosted by ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403) and ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619). It is the third instalment of the National Dutch Championship.
 
 ## Tournament schedule
 
@@ -178,7 +178,7 @@ The National Dutch Championship 2024 is run by various community members.
 
 ### Knockout stage
 1. The knockout stage starts with a round of 32. Players are eliminated after losing two matches.
-2. Schedules for each round are released on the Monday prior to the round's weekend.
+2. Schedules for each round are released on the Monday prior to the match weekend.
 3. Reschedules are permitted at all times. Matches are not allowed to be rescheduled to days other than Friday, Saturday or Sunday. Reschedules must be posted in the appropriate channel in the Discord server **at least 12 hours** before the original match time. Matches may also not collide with potential loser bracket matches.
 4. If a player is not present 5 minutes after their official match time, they will automatically forfeit the match.
 5. Players will be pinged in the Discord server 15 minutes before the match.
