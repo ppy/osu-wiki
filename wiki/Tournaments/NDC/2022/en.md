@@ -388,8 +388,8 @@ Sunday, 30 January 2022:
 | Axeanz ::{ flag=NL }:: | 1 | **5** | ::{ flag=NL }:: **TheCoolJfp** | [#1](https://osu.ppy.sh/community/matches/97199251) |
 | UnveiledGolem ::{ flag=NL }:: | 1 | **5** | ::{ flag=NL }:: **Synchrostar** | [#1](https://osu.ppy.sh/community/matches/97194430) |
 | **Dolter** ::{ flag=NL }:: | **5** | 2 | ::{ flag=NL }:: wooz | [#1](https://osu.ppy.sh/community/matches/97192357) |
-| **chillington 15** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: wessel_osu1 | [#1](https://osu.ppy.sh/mp/97191851) |
-| **xceller** ::{ flag=NL }:: | **5** | 3 | ::{ flag=NL }:: Casalicious | [#1](https://osu.ppy.sh/mp/97188403) |
+| **chillington 15** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: wessel_osu1 | [#1](https://osu.ppy.sh/community/matches/97191851) |
+| **xceller** ::{ flag=NL }:: | **5** | 3 | ::{ flag=NL }:: Casalicious | [#1](https://osu.ppy.sh/community/matches/97188403) |
 | Kushper ::{ flag=NL }:: | 2 | **5** | ::{ flag=NL }:: **LUCIANO** | [#1](https://osu.ppy.sh/community/matches/97187613) |
 | **heikneuter** ::{ flag=NL }:: | **5** | 3 | ::{ flag=NL }:: Ohio | [#1](https://osu.ppy.sh/community/matches/97185359) |
 | **Viveliam** ::{ flag=NL }:: | **5** | 1 | ::{ flag=NL }:: sofuraabu | [#1](https://osu.ppy.sh/community/matches/97185355) |
@@ -399,7 +399,7 @@ Saturday, 29 January 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **kinda sus dude** ::{ flag=NL }:: | **5** | 3 | ::{ flag=NL }:: ysen | [#1](https://osu.ppy.sh/mp/97155071) |
+| **kinda sus dude** ::{ flag=NL }:: | **5** | 3 | ::{ flag=NL }:: ysen | [#1](https://osu.ppy.sh/community/matches/97155071) |
 | OldEclipse ::{ flag=NL }:: | 0 | **5** | ::{ flag=NL }:: **niqht** | [#1](https://osu.ppy.sh/community/matches/97152589) |
 | TheDurpyOwl ::{ flag=NL }:: | 2 | **5** | ::{ flag=NL }:: **oetluller** | [#1](https://osu.ppy.sh/community/matches/97144799) |
 
@@ -418,10 +418,10 @@ Sunday, 23 January 2022:
 | --: | :-: | :-: | :-- | :-- |
 | **Kushper** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: Axeanz | [#1](https://osu.ppy.sh/community/matches/96903495) |
 | niqht ::{ flag=NL }:: | 3 | **5** | ::{ flag=NL }:: **Dagoth Ur** | [#1](https://osu.ppy.sh/community/matches/96901008) |
-| **Skyrovania** ::{ flag=NL }:: | **5** | 2 | ::{ flag=NL }:: OldEclipse | [#1](https://osu.ppy.sh/mp/96900548) |
-| **xceller** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: Zereliq | [#1](https://osu.ppy.sh/mp/96895810) |
-| **Viveliam** ::{ flag=NL }:: | **5** | 1 | ::{ flag=NL }:: UnveiledGolem | [#1](https://osu.ppy.sh/mp/96893602) |
-| **Casalicious** ::{ flag=NL }:: | **5** | 3 | ::{ flag=NL }:: Goose King | [#1](https://osu.ppy.sh/mp/96891055) |
+| **Skyrovania** ::{ flag=NL }:: | **5** | 2 | ::{ flag=NL }:: OldEclipse | [#1](https://osu.ppy.sh/community/matches/96900548) |
+| **xceller** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: Zereliq | [#1](https://osu.ppy.sh/community/matches/96895810) |
+| **Viveliam** ::{ flag=NL }:: | **5** | 1 | ::{ flag=NL }:: UnveiledGolem | [#1](https://osu.ppy.sh/community/matches/96893602) |
+| **Casalicious** ::{ flag=NL }:: | **5** | 3 | ::{ flag=NL }:: Goose King | [#1](https://osu.ppy.sh/community/matches/96891055) |
 | oetluller ::{ flag=NL }:: | 2 | **5** | ::{ flag=NL }:: **wessel_osu1** | [#1](https://osu.ppy.sh/community/matches/96888953) |
 | **wooz** ::{ flag=NL }:: | **5** | 1 | ::{ flag=NL }:: ysen | [#1](https://osu.ppy.sh/community/matches/96889163) |
 | **chillington 15** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: TheDurpyOwl | [#1](https://osu.ppy.sh/community/matches/96887207) |
@@ -446,6 +446,7 @@ Friday, 21 January 2022:
 ## Ruleset
 
 ### Registrations
+
 1. This tournament is a 1v1, double elimination, osu!standard tournament with no rank restriction, only for players from the Netherlands.
 2. Players must have the Dutch flag on their osu! profile.
 3. Registrations are only accepted through our [website](https://tourney.huismetbenen.nl/10/registrations).
@@ -454,6 +455,7 @@ Friday, 21 January 2022:
 6. Players who do not pass the screening phase from the osu! tournament committee are not allowed to participate.
 
 ### Qualifiers stage
+
 1. The tournament starts with a qualifiers stage which is open to all registered players.
 2. Each player can schedule their own, personal qualifiers lobby at any time during the qualifiers weekend.
 3. Sharing a qualifiers lobby with another player is not allowed.
@@ -461,13 +463,14 @@ Friday, 21 January 2022:
 5. A player's final score on a map is the average score of the two attempts.
 6. All maps are played with Scorev2 and Nofail enabled.
 7. After the qualifiers stage is over, seedings are calculated as follows:
-    1. For every map, the median score is calculated
-    2. Each player is then awarded points as follows: **Points** = player score / median score.
-    3. For each player, these points are all added together resulting in a final points total.
-    4. All players are ranked on their final points total in descending order
-    5. The 32 players with the highest final points total move on to the knockout stage. All other players are eliminated.
+   1. For every map, the median score is calculated
+   2. Each player is then awarded points as follows: **Points** = player score / median score.
+   3. For each player, these points are all added together resulting in a final points total.
+   4. All players are ranked on their final points total in descending order
+   5. The 32 players with the highest final points total move on to the knockout stage. All other players are eliminated.
 
 ### Knockout stage
+
 1. The knockout stage starts with a round of 32. Players are eliminated after losing two matches.
 2. Schedules for each round are released on the Monday prior to the match weekend.
 3. Reschedules are permitted at all times. Matches are not allowed to be rescheduled to days other than Friday, Saturday or Sunday. Matches may also not collide with potential loser bracket matches.
@@ -479,6 +482,7 @@ Friday, 21 January 2022:
 9. Use of offensive language is not allowed in either the lobby chat or cursor smoke. This includes supposedly friendly banter between the two players, as there is no way for staff to judge this.
 
 ### Match procedure
+
 1. Both players will start by using the !roll command once.
 2. The high roll may choose between "first ban" and "first pick".
 3. The low roll will receive whatever is left.
@@ -488,12 +492,13 @@ Friday, 21 January 2022:
 7. If a tiebreaker has to be played, there will be a 2-minute break beforehand.
 
 ### Mappools
+
 1. Mappools are released on the Monday night prior to the match weekend.
 2. The mappool structure is as follows:
-    - Qualifiers: 4 NM / 2 HD / 2 HR/ 3 DT
-    - Round of 32: 5 NM / 2 HD / 2 HR / 2 DT / 1 TB | 1 ban | BO9
-    - Round of 16: 5 NM / 2 HD / 2 HR / 2 DT / 1 TB | 1 ban | BO9
-    - Quarterfinals: 6 NM / 3 HD / 3 HR / 3 DT / 1 TB | 2 bans | BO11
-    - Semifinals: 6 NM / 3 HD / 3 HR / 3 DT / 1 TB | 2 bans | BO11
-    - Finals: 7 NM / 4 HD / 4 HR / 4 DT / 1 TB | 3 bans | BO13
-    - Grand Finals: 7 NM / 4 HD / 4 HR / 4 DT / 1 TB | 3 bans | BO13
+   - Qualifiers: 4 NM / 2 HD / 2 HR/ 3 DT
+   - Round of 32: 5 NM / 2 HD / 2 HR / 2 DT / 1 TB | 1 ban | BO9
+   - Round of 16: 5 NM / 2 HD / 2 HR / 2 DT / 1 TB | 1 ban | BO9
+   - Quarterfinals: 6 NM / 3 HD / 3 HR / 3 DT / 1 TB | 2 bans | BO11
+   - Semifinals: 6 NM / 3 HD / 3 HR / 3 DT / 1 TB | 2 bans | BO11
+   - Finals: 7 NM / 4 HD / 4 HR / 4 DT / 1 TB | 3 bans | BO13
+   - Grand Finals: 7 NM / 4 HD / 4 HR / 4 DT / 1 TB | 3 bans | BO13

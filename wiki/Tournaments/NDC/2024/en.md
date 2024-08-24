@@ -35,6 +35,7 @@ The **National Dutch Championship 2024** (***NDC 2024***) is a 1v1, double elimi
 | *7th & 8th place* | €22,- |
 
 *Prizes may be increased if more donations come in*
+
 <!-- ![](img/badge.png "NDC 2024 winner badge") -->
 
 ## Organisation
@@ -53,7 +54,6 @@ The National Dutch Championship 2024 is run by various community members.
 | Designer | ::{ flag=NL }:: [Happy_24](https://osu.ppy.sh/users/12876323) |
 
 *This list may be updated during the tournament*
-
 
 ## Links
 
@@ -155,6 +155,7 @@ The National Dutch Championship 2024 is run by various community members.
 ## Ruleset
 
 ### Registrations
+
 1. This tournament is a 1v1, double elimination, osu!standard tournament with no rank restriction, only for players from the Netherlands.
 2. Players must have the Dutch flag on their osu! profile.
 3. Registrations are only accepted through our [website](https://tourney.huismetbenen.nl/25/registrations).
@@ -163,34 +164,37 @@ The National Dutch Championship 2024 is run by various community members.
 6. Players who do not pass the screening phase from the osu! tournament committee are not allowed to participate.
 
 ### Qualifiers stage
+
 1. The tournament starts with a qualifiers stage which is open to all registered players.
 2. Each player can schedule their own, personal qualifiers lobby at any time during the qualifiers weekend.
 3. Sharing a qualifiers lobby with another player is not allowed.
 4. Players are free to choose the order in which they play the qualifiers maps. The only requirement is that all maps are played once.
 5. All maps are played with Scorev2 and Nofail enabled.
 6. After the qualifiers stage is over, seedings are calculated as follows:
-    1. For every map, the median score is calculated
-    2. Each player is then awarded points as follows: **Points** = player score / median score.
-    3. For each player, these points are all added together resulting in a final points total.
-    4. All players are ranked on their final points total in descending order
-    5. The 32 players with the highest final points total move on to the knockout stage. All other players are eliminated.
+   1. For every map, the median score is calculated
+   2. Each player is then awarded points as follows: **Points** = player score / median score.
+   3. For each player, these points are all added together resulting in a final points total.
+   4. All players are ranked on their final points total in descending order
+   5. The 32 players with the highest final points total move on to the knockout stage. All other players are eliminated.
 
 ### Knockout stage
+
 1. The knockout stage starts with a round of 32. Players are eliminated after losing two matches.
 2. Schedules for each round are released on the Monday prior to the match weekend.
 3. Reschedules are permitted at all times. Matches are not allowed to be rescheduled to days other than Friday, Saturday or Sunday. Reschedules must be posted in the appropriate channel in the Discord server **at least 12 hours** before the original match time. Matches may also not collide with potential loser bracket matches.
 4. If a player is not present 5 minutes after their official match time, they will automatically forfeit the match.
 5. Players will be pinged in the Discord server 15 minutes before the match.
 6. Both players are allowed to choose 1 warmup, but this is not required.
-    1. Each warmup can be at most 3.5 minutes in length.
-    2. If both players agree, a long warmup can be allowed (up to 5 minutes) only if this is discussed with the opponent beforehand. The total warmups length cannot exceed 7 minutes.
-    3. Warmups are to be sent to the referee beforehand, who will select the maps in the lobby. Players who did not send their warmup beforehand are not allowed to pick a warmup.
-    4. Warmups are always played on freemod with possibly DT/NC.
+   1. Each warmup can be at most 3.5 minutes in length.
+   2. If both players agree, a long warmup can be allowed (up to 5 minutes) only if this is discussed with the opponent beforehand. The total warmups length cannot exceed 7 minutes.
+   3. Warmups are to be sent to the referee beforehand, who will select the maps in the lobby. Players who did not send their warmup beforehand are not allowed to pick a warmup.
+   4. Warmups are always played on freemod with possibly DT/NC.
 7. If a player disconnects at most 30 seconds after the map has started, the map will be aborted and replayed. Disconnecting after this time counts as a loss for the disconnecting player. This is only permitted once per player per match.
 8. Upon technical difficulties, a player may choose to use a 5-minute timeout. This is only permitted once per player per match.
 9. Use of offensive language is not allowed in either the lobby chat or cursor smoke. This includes supposedly friendly banter between the two players, as there is no way for staff to judge this.
 
 ### Match procedure
+
 1. Both players will start by using the !roll command once.
 2. The high roll may choose between "first ban" and "second ban".
 3. The low roll will receive whatever is left.
@@ -201,12 +205,13 @@ The National Dutch Championship 2024 is run by various community members.
 8. If a tiebreaker has to be played, there will be a 2-minute break beforehand.
 
 ### Mappools
+
 1. Mappools are released on the Monday night prior to the match weekend.
 2. The mappool structure is as follows:
-    - Qualifiers: 4 NM / 2 HD / 2 HR/ 2 DT
-    - Round of 32: 5 NM / 2 HD / 2 HR / 3 DT / 1 TB | 1 ban | BO9
-    - Round of 16: 5 NM / 2 HD / 2 HR / 3 DT / 1 TB | 1 ban | BO9
-    - Quarterfinals: 6 NM / 3 HD / 3 HR / 4 DT / 1 TB | 2 bans | BO11
-    - Semifinals: 6 NM / 3 HD / 3 HR / 4 DT / 1 TB | 2 bans | BO11
-    - Finals: 7 NM / 4 HD / 4 HR / 4 DT / 1 TB | 3 bans | BO13
-    - Grand Finals: 7 NM / 4 HD / 4 HR / 4 DT / 1 TB | 3 bans | BO13
+   - Qualifiers: 4 NM / 2 HD / 2 HR/ 2 DT
+   - Round of 32: 5 NM / 2 HD / 2 HR / 3 DT / 1 TB | 1 ban | BO9
+   - Round of 16: 5 NM / 2 HD / 2 HR / 3 DT / 1 TB | 1 ban | BO9
+   - Quarterfinals: 6 NM / 3 HD / 3 HR / 4 DT / 1 TB | 2 bans | BO11
+   - Semifinals: 6 NM / 3 HD / 3 HR / 4 DT / 1 TB | 2 bans | BO11
+   - Finals: 7 NM / 4 HD / 4 HR / 4 DT / 1 TB | 3 bans | BO13
+   - Grand Finals: 7 NM / 4 HD / 4 HR / 4 DT / 1 TB | 3 bans | BO13
