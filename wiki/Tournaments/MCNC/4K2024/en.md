@@ -644,7 +644,7 @@ The final standings and detailed statistics for the Qualifiers can be found at t
    - If a rematch happens, the player's mod during that particular beatmap must remain the same.
    - This rule is not to be abused. Referees may veto a rematch request if they find that this is the case.
 9. Beatmaps must not be reused in the same match, except for rematches.
-10. If a player is not present at match time, it can be postponed for up to 10 minutes. If they are still absent after this period, a win by default will be declared for the player present.
+10. If a player is not present at match time, it can be postponed for up to 15 minutes. If they are still absent after this period, a win by default will be declared for the player present.
 11. All players and staff must be treated with respect. Instructions of the referees and the tournament management are to be followed. Decisions labelled as final are not to be objected.
 12. Disrupting the match by foul play, insulting and provoking other players or staff, delaying the match and other deliberate inappropriate misbehaviour are strictly prohibited.
 13. Breaking chat rules results in a silence. Silenced players cannot participate in multiplayer matches.
@@ -666,9 +666,9 @@ The final standings and detailed statistics for the Qualifiers can be found at t
    - Not have been banned/majorly restricted from the MCNC.
    - Pass a background check by osu! staff and the tournament staff.
    - Include the answer "数学150了吗" in the question "Do you have anything else to say?".
-   - To ensure that the game is played normally, every registered user will be manually checked by the tournament management and will give the list to the osu! staff to check.
-4. All successfully formed players will be published after the registration phase.
-5. Organisers, mappoolers and referees must not participate as players in the tournament.
+4. To ensure that the game is played normally, every registered user will be manually checked by the tournament management and will give the list to the osu! staff to check.
+5. All successfully formed players will be published after the registration phase.
+6. Organisers, mappoolers, custom mappers and referees must not participate as players in the tournament.
 
 ### Qualifier instructions
 
@@ -705,7 +705,6 @@ The final standings and detailed statistics for the Qualifiers can be found at t
      - Seeds 17-48: Players in this group will participate in one preseason stage match, facing opponents corresponding to the group's seeds. The winner will advance to the elimination stage.
      - Seeds 49-64: Players in this group will participate in two preseason stage matches. Their first opponent will be corresponding to the group's seeds. If they win the first match, their second opponent will be from seeds 9-16. The winner will advance to the elimination stage.
    - If more than 80 players participate, specific advancement rules will be determined based on the actual number of participants after the qualification results are announced, with a maximum of two matches for all players.
-4. If 48 or more players participate, among the players eliminated in the final round of the preseason stage, the top 16 according to qualification stage rankings will be invited to participate in the secondary league, which follows a format of a 16-player double-elimination. Please note that the secondary league will use the same mappool as the elimination stage but from the previous round, and the secondary league is not part of the complete process of this tournament.
 
 ### Stage instructions
 
@@ -717,10 +716,10 @@ The final standings and detailed statistics for the Qualifiers can be found at t
 ### Win conditions
 
 1. In the Qualifiers, players need to place in the top 16 seeded players in order to advance to the double-elimination stage.
-2. In the Round of 32, players need to win 4 maps to win a match (best of 7).
-3. In the Round of 16, players need to win 5 maps to win a match (best of 9).
-4. In the Quarterfinals and Semifinals, players need to win 6 maps to win a match (best of 11).
-5. In the Finals and Grand Finals, players need to win 7 maps to win a match (best of 13).
+2. In the Preseason 1, players need to win 4 maps to win a match (best of 7).
+3. In the Preseason 2 and Round of 32, players need to win 5 maps to win a match (best of 9).
+4. In the Roudd of 16 and Quarterfinals, players need to win 6 maps to win a match (best of 11).
+5. In the Semifinals, Finals and Grand Finals, players need to win 7 maps to win a match (best of 13).
 
 ### Match instructions
 
@@ -730,8 +729,9 @@ The final standings and detailed statistics for the Qualifiers can be found at t
 2. Each player can ban one beatmap from the mappool. These beatmaps cannot be picked by any player during the entire match.
 3. Beatmap selection will alternate between each player selecting a beatmap in the mappool.
 4. Each player must use `!roll` once in `#multiplayer`.
-   - The winner of the `!roll` starts picking the first beatmap of the match.
-   - The loser of the `!roll` starts banning one beatmap, followed by the winner of the `!roll` to ban a beatmap.
+   1. The loser of the `!roll` starts protecting one beatmap, followed by the winner of the `!roll` to protect a beatmap. They may not protect the same beatmap. Protected beatmaps may not be banned.
+   2. The winner of the `!roll` starts banning one beatmap, followed by the loser of the `!roll` to ban a beatmap.
+   3. The winner of the `!roll` starts picking the first beatmap of the match.
 5. Players will have 2 minutes to pick a beatmap and 2 minutes to get ready. If a player exceeds the allotted time more than once., a random map will be chosen from the mappool using `!roll` with the number of maps that were neither picked nor banned, excluding the tiebreaker. Repeat offenders may receive further sanctions from the tournament management.
 6. Players will be given at most a 3-minute timeout for solving unexpected situations.
 7. Qualifier results will be published via a statistics sheet.
@@ -742,7 +742,8 @@ The final standings and detailed statistics for the Qualifiers can be found at t
 2. Each mappool consists of a fixed amount of maps each stage which will all be played under FreeMod conditions. This means that there is a unique FreeMod bracket.
 3. The mappool sizes are as follows:
    - Qualifiers: 8 beatmaps
-   - Preseason: 11 beatmaps
+   - Preseason 1: 11 beatmaps
+   - Preseason 2: 14 beatmaps
    - Round of 32: 14 beatmaps
    - Round of 16: 16 beatmaps
    - Quarterfinals: 16 beatmaps
