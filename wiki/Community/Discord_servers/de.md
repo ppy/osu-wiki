@@ -6,7 +6,7 @@ Dieser Artikel listet verschiedene [Discord-Server](https://discord.com/) auf, d
 
 |  | Name | Eigentümer | Beschreibung |
 | :-: | :-- | :-- | :-- |
-| [![](img/osu!dev.png)](https://discord.com/invite/ppy) | [osu!](https://discord.com/invite/ppy) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Der **osu!** Discord-Server, vorher auch bekannt als **osu!dev**, ist der offizielle Discord-Server von osu! für entwicklungsrelevante Zwecke. Der Server fungiert als Angelpunkt, um an den quelloffenen Projekten von osu! sowie der Community zu arbeiten und darüber zu diskutieren. Das ist der Hauptort, um an der Entwicklung von osu! teilzunehmen und mit dem [osu!-Team](/wiki/People/osu!_team) in Kontakt zu treten. |
+| [![](img/osu!dev.png)](https://discord.com/invite/ppy) | [osu!](https://discord.com/invite/ppy) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Der **osu!** Discord-Server, vorher auch bekannt als **osu!dev**, ist der offizielle Discord-Server von osu! für entwicklungsrelevante Zwecke. Der Server fungiert als Dreh- und Angelpunkt, um an den quelloffenen Projekten von osu! sowie der Community zu arbeiten und darüber zu diskutieren. Das ist der Hauptort, um an der Entwicklung von osu! teilzunehmen und mit dem [osu!-Team](/wiki/People/osu!_team) in Kontakt zu treten. |
 
 ## Gameplay
 
@@ -48,7 +48,7 @@ Neben den Spielmodiservern existieren andere Communityserver, um die Kommunikati
 
 ## Turniere
 
-Diese Server versuchen, den Nutzern alles rund um [Turniere](/wiki/Tournaments) nahe zu bringen. Nutzern werden regelmäßige Mitteilungen zu anstehenden Turnieren geboten, wodurch Nutzer über aktuelle Turniere, bei denen sie teilnehmen können, auf dem Laufenden bleiben. Sowohl Spieler als auch Organisatoren können von den Hilfsmitteln, die diese Server zur Verfügung stellen, profitieren.
+Diese Server versuchen, den Nutzern alles rund um [Turniere](/wiki/Tournaments) nahe zu bringen. Nutzern werden regelmäßige Mitteilungen zu anstehenden Turnieren geboten, wodurch Nutzer über aktuelle Turniere, an denen sie teilnehmen können, auf dem Laufenden bleiben. Sowohl Spieler als auch Organisatoren können von den Hilfsmitteln, die diese Server zur Verfügung stellen, profitieren.
 
 |  | Name | Eigentümer | Beschreibung |
 | :-: | :-- | :-- | :-- |
@@ -68,7 +68,7 @@ Diese Server versuchen, den Nutzern alles rund um [Turniere](/wiki/Tournaments) 
 
 ## Skinning
 
-Diese Server versuchen, hilfreiche Orte rund um Skinning zu bieten, egal ob die Spieler Designexperten sind oder frisch in das Skinning reinkommen. Nutzer erwarten zahlreiche Lernmaterialien zu [Skinning](/wiki/Skinning) sowie die Hilfe anderer Nutzer, die ebenso an dem Thema interessiert sind.
+Diese Server versuchen, hilfreiche Orte rund um Skinning zu bieten, egal ob die Spieler Designexperten sind oder frisch mit Skinning anfangen. Nutzer erwarten zahlreiche Lernmaterialien zu [Skinning](/wiki/Skinning) sowie die Hilfe anderer Nutzer, die ebenso an dem Thema interessiert sind.
 
 |  | Name | Eigentümer | Beschreibung |
 | :-: | :-- | :-- | :-- |
