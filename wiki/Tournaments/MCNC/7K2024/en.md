@@ -564,26 +564,55 @@ The final standings and detailed statistics for the Qualifiers can be found at t
    - Not have been banned/majorly restricted from the MCNC.
    - Pass a background check by osu! staff and the tournament staff.
    - Include the answer "牛魔王肖战" in the question "Do you have anything else to say?".
-   - To ensure that the game is played normally, every registered user will be manually checked by the tournament management and will give the list to the osu! staff to check.
-4. All successfully formed players will be published after the registration phase.
-5. Organisers, mappoolers and referees must not participate as players in the tournament.
+4. To ensure that the game is played normally, every registered user will be manually checked by the tournament management and will give the list to the osu! staff to check.
+5. All successfully formed players will be published after the registration phase.
+6. Organisers, mappoolers, custom mappers and referees must not participate as players in the tournament.
 
 ### Qualifier instructions
 
 1. There will be no warmups during the Qualifier stage.
+
 2. In the Qualifier stage, all players will play a specific pool designed by the mappool selectors.
-3. The Qualifier pool contains 5 maps, all of which will use FreeMod rules.
-4. Players will have to play the mappool twice at a designated time. Their best combined score will be used for seeding.
+
+3. The Qualifier pool contains 9 maps, all of which will use FreeMod rules.
+
+4. Players will have to play the mappool twice at a designated time. Their best combined score will be used for seeding. If players wish, they can the mappool only once.
+
 5. The mappool will be played in the order the maps are listed.
+
 6. There will be an optional 5-minute break in between the first and second playthrough of the mappool.
+
 7. All players will play their qualifiers in separate rooms. We suggest players not to broadcast or share their results to avoid seed manipulation.
-8. The top 32 seeded players will advance to the Round of 32.
+
+8. All players participating in the tournament are eligible to participate in the qualifying rounds. However, the number of participants who advance to the next round will be reduced to the nearest number, and the criteria used to determine whether a player advances is their performance during the qualifying phase.
+   - If there are 32-48 players participating, 32 players will qualify.
+   - If there are 49-55 players participating, 48 players will qualify.
+   - If there are 56-63 players participating, 56 players will qualify.
+   - If there are 64 or more players participating, 64 players will qualify.
+   - If there are more than 80 players participating, the specific promotion rules will be determined based on the actual number of participants after the results of the qualifying round are announced.
+
+### Preseason stage
+
+1. After the Qualifier stage, the tournament will proceed to the Preseason stage. The Preseason stage is a single-elimination phase with specific rules.
+2. The warm-up map duration in the Preseason stage is capped at 3 minutes.
+3. After the Qualifier stage, advancing players will be grouped based on Qualifier stage seeds, and each group will have a different set of match procedures.
+   - If 32 players advance:
+     - The preseason stage will be canceled.
+   - If 32-48 players advance:
+     - Seeds 1-16: Directly advance to the elimination stage without participating in any preseason stage matches.
+     - Seeds 17-48: Players in this group will participate in one preseason stage match, facing opponents corresponding to the group's seeds. The winner will advance to the elimination stage.
+   - If 56 players advance:
+     - Seeds 1-8: Directly advance to the elimination stage without participating in any preseason stage matches.
+     - Seeds 9-56: Players in this group will participate in one preseason stage match, facing opponents corresponding to the group's seeds. The winner will advance to the elimination stage.
+   - If 64 players advance:
+     - All players will participate in one preseason stage match, facing opponents corresponding to the group's seeds. The winner will advance to the elimination stage.
 
 ### Stage instructions
 
-1. Following the Qualifier stage, a double-elimination stage will be played. This means that the winner continues in the winners' bracket, and the losing player gets moved to the losers' bracket.
-2. Players in the losers' bracket must play 2 matches each weekend starting from the Quarterfinals.
-3. Players who lose a match in the losers' bracket get eliminated from the tournament.
+1. Following the Preseason stage, a Double Elimination stage will be played. This means that the winner continues in the winners' bracket, and the losing player gets moved to the losers' bracket.
+2. Players in the losers’ bracket must play 2 matches each weekend starting from the Quarterfinals.
+3. Players that lose a match in the losers' bracket get eliminated from the tournament.
+4. The warmup maps are allowed up to 5 minutes. In the case you can choose not to play your warmup map. Players need to prepare the link to the warmup map before the match start, and send it to #multiplayer during the match for the referee to select the map.
 
 ### Win conditions
 
@@ -601,8 +630,9 @@ The final standings and detailed statistics for the Qualifiers can be found at t
 2. Each player can ban one beatmap from the mappool. These beatmaps cannot be picked by any player during the entire match.
 3. Beatmap selection will alternate between each player selecting a beatmap in the mappool.
 4. Each player must use `!roll` once in `#multiplayer`.
-   - The winner of the `!roll` starts picking the first beatmap of the match.
-   - The loser of the `!roll` starts banning one beatmap, followed by the winner of the `!roll` to ban a beatmap.
+   1. The loser of the `!roll` starts protecting one beatmap, followed by the winner of the `!roll` to protect a beatmap. They may not protect the same beatmap. Protected beatmaps may not be banned.
+   2. The winner of the `!roll` starts banning one beatmap, followed by the loser of the `!roll` to ban a beatmap.
+   3. The winner of the `!roll` starts picking the first beatmap of the match.
 5. Players will have 2 minutes to pick a beatmap and 2 minutes to get ready. If a player takes more time than allotted more than once, a random map will be chosen from the mappool using `!roll` with the number of maps that were neither picked nor banned, excluding the tiebreaker. Repeat offenders may receive further sanctions from the tournament management.
 6. Players will be given at most a 3-minute timeout for solving unexpected situations.
 7. Qualifier results will be published via a statistics sheet.
@@ -612,7 +642,7 @@ The final standings and detailed statistics for the Qualifiers can be found at t
 1. There will be one mappool for each stage, except for the Finals and Grand Finals, which will share the same mappool.
 2. Each mappool consists of a fixed amount of maps each stage which will all be played under FreeMod conditions. This means that there is a unique FreeMod bracket.
 3. The mappool sizes are as follows:
-   - Qualifiers: 5 beatmaps
+   - Qualifiers: 9 beatmaps
    - Round of 16: 10 beatmaps
    - Quarterfinals: 12 beatmaps
    - Semifinals: 14 beatmaps
