@@ -28,9 +28,9 @@ The contest will have **3** separate **1st to 3rd rankings** for each track. Sin
 
 | Placement | Prizes |
 | :-: | :-- |
-| 1st | $75 USD, 12 months of osu! supporter, [*Elite Mapper* contest points](https://osu.ppy.sh/wiki/en/Contests/Contest_points), *Track Winner* profile badge (pending design) |
-| 2nd | $35 USD, 6 months of osu! supporter, [*Elite Mapper* contest points](https://osu.ppy.sh/wiki/en/Contests/Contest_points) |
-| 3rd | $15 USD, 4 months of osu! supporter, [*Elite Mapper* contest points](https://osu.ppy.sh/wiki/en/Contests/Contest_points) |
+| 1st | $75 USD, 12 months of osu! supporter, [*Elite Mapper* contest points](/wiki/Contests/Contest_points), *Track Winner* profile badge (pending design) |
+| 2nd | $35 USD, 6 months of osu! supporter, [*Elite Mapper* contest points](/wiki/Contests/Contest_points) |
+| 3rd | $15 USD, 4 months of osu! supporter, [*Elite Mapper* contest points](/wiki/Contests/Contest_points) |
 
 ### Grand prizes
 
@@ -90,7 +90,7 @@ This year includes two non-FA songs as part of the song list, which also means a
 - **You are allowed to modify timing (including red lines) based on your needs.** This action is at your own risk.
 - **You are allowed to modify combo colours, bookmarks, and the preview time.**
 - **Submission must not be publicly revealed until after the results are announced.**
-- **The [ranking criteria](https://osu.ppy.sh/wiki/en/Ranking_criteria) must be respected except in cases where they cannot be applied, such as beatmap spread.** While mistakes are tolerated, submissions containing major unrankable issues may result in a deduction of points.
+- **The [ranking criteria](/wiki/Ranking_criteria) must be respected except in cases where they cannot be applied, such as beatmap spread.** While mistakes are tolerated, submissions containing major unrankable issues may result in a deduction of points.
 
 ### Submission
 
