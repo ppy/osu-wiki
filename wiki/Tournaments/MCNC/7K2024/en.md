@@ -38,7 +38,7 @@ The **osu!mania 7K Chinese National Cup 2024** (***MCNC 7K 2024***) was a countr
 | 13th to 32nd | CNY 25 |
 | *All players who passed Qualifiers* | CNY 15 |
 
-![](img/badge.jpg "MCNC 7K 2024 badge")
+![](img/badge.png "MCNC 7K 2024 badge")
 
 ## Organisation
 
