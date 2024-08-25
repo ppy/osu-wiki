@@ -278,7 +278,7 @@ There are four types of slider curves in osu!:
 
 If the slider's `length` is longer than the defined curve, the slider will extend in a straight line from the end of the curve until it reaches the target length.
 
-*Notice: The slider's `length` can be used to determine the time it takes to complete the slider. `length / (SliderMultiplier * 100 * SV) * beatLength` tells how many milliseconds it takes to complete one slide of the slider (where `SV` is the slider velocity multiplier given by the effective inherited timing point, or `1` if there is none).*
+*Notice: The slider's `length` can be used to determine the time it takes to complete the slider. `length / (SliderMultiplier * 100 * SV) * beatLength` tells how many milliseconds it takes to complete one slide of the slider (where `SV` is the slider velocity multiplier given by the effective inherited timing point, or take previous timing point's SV (previous entry from current time) if there is none).*
 
 #### Slider hitsounds
 
