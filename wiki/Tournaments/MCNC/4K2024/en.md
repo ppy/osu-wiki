@@ -577,7 +577,7 @@ Sunday, 30 June 2024:
 
 ### Qualifiers
 
-The final standings and detailed statistics for the Qualifiers can be found at the following [spreadsheet]().
+The final standings and detailed statistics for the Qualifiers can be found at the following [spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSmn_azrhc4rXrGlObNyU-R0Wqu8qpnRamy0ueGuFYLoZuZWdL2NyP7iySnsN4_5HLmr899DTU2iKTM/pubhtml).
 
 ## Ruleset
 
