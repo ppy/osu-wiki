@@ -66,11 +66,11 @@ Besides that, there will be two lucky draws of 1 month of osu! supporter for any
 
 This year includes two non-FA songs as part of the song list, which also means a revisit to a previous Pending Cup format of having **3** different categories of tracks: **Vocal**, **Instrumental**, and **Featured Artist**.
 
-| Category | Song | Length | BPM |
-| --: | :-- | :-- | :-- |
-| Vocal | qfeileadh feat. Resonance Moeko - Ars Nova ni Kassai o | 2:47 | 185 |
-| Instrumental | ASA – Assault TAXI | 2:30 | 154 |
-| Featured Artist | Rabbit House – Seculo Seculorum | 2:22 | 210 |
+| Category | Song | Beatmap template |
+| --: | :-- | :-- |
+| Vocal | qfeileadh feat. Resonance Moeko - Ars Nova ni Kassai o | [2:47 / 185 BPM](https://assets.ppy.sh/media/news/Pending%20Cup%202024%20-%20qfeileadh%20feat.%20Resonance%20Moeko%20-%20Ars%20Nova%20ni%20Kassai%20o.osz) |
+| Instrumental | ASA – Assault TAXI | [2:30 / 154 BPM](https://assets.ppy.sh/media/news/Pending%20Cup%202024%20-%20ASA%20-%20Assault%20TAXI.osz) |
+| Featured Artist | Rabbit House – Seculo Seculorum | [2:22 / 210 BPM](https://assets.ppy.sh/media/news/Pending%20Cup%202024%20-%20Rabbit%20House%20-%20Seculo%20Seculorum.osz) |
 
 ## Rules
 
