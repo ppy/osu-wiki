@@ -571,19 +571,12 @@ The final standings and detailed statistics for the Qualifiers can be found at t
 ### Qualifier instructions
 
 1. There will be no warmups during the Qualifier stage.
-
 2. In the Qualifier stage, all players will play a specific pool designed by the mappool selectors.
-
 3. The Qualifier pool contains 9 maps, all of which will use FreeMod rules.
-
 4. Players will have to play the mappool twice at a designated time. Their best combined score will be used for seeding. If players wish, they can the mappool only once.
-
 5. The mappool will be played in the order the maps are listed.
-
 6. There will be an optional 5-minute break in between the first and second playthrough of the mappool.
-
 7. All players will play their qualifiers in separate rooms. We suggest players not to broadcast or share their results to avoid seed manipulation.
-
 8. All players participating in the tournament are eligible to participate in the qualifying rounds. However, the number of participants who advance to the next round will be reduced to the nearest number, and the criteria used to determine whether a player advances is their performance during the qualifying phase.
    - If there are 32-48 players participating, 32 players will qualify.
    - If there are 49-55 players participating, 48 players will qualify.
