@@ -44,7 +44,6 @@ Neben den Spielmodiservern existieren andere Communityserver, um die Kommunikati
 |  | Name | Eigentümer | Beschreibung |
 | :-: | :-- | :-- | :-- |
 | [![](img/Mapset-Management-Server.png)](https://discord.com/invite/TCDSjhb6yS) | [Mapset Management Server](https://discord.com/invite/TCDSjhb6yS) | ::{ flag=GE }:: [Kyuunex](https://osu.ppy.sh/users/9236044) | Der **Mapset Management Server** stellt Orte zur Verfügung, um Anfragen für [Mods](/wiki/Modding), [Gast-Schwierigkeiten](/wiki/Beatmap/Guest_difficulty) sowie [Kollaborationen](/wiki/Beatmap/Beatmap_collaborations) zu erstellen und zu durchstöbern. |
-| [![](img/Cozy-Mappers-Cafe.png)](https://discord.com/invite/uDjwjaZ) | [Cozy Mappers' Café](https://discord.com/invite/uDjwjaZ) | ::{ flag=EG }:: [Teky](https://osu.ppy.sh/users/10520912) | **Cozy Mappers' Café** versucht eine lockere Atmosphäre herzustellen, in der Nutzer alle mit Mapping und Modding in Verbindung stehenden Dinge besprechen können. |
 
 ## Turniere
 
