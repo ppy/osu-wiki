@@ -508,7 +508,7 @@ Sunday, 7 January 2024:
 
 ### Qualifiers
 
-The final standings for the Qualifier stage can be found at the following [spreadsheet](). Detailed statistics for this round can be found [here]().
+The final standings and detailed statistics for the Qualifiers can be found at the following [spreadsheet](https://docs.google.com/spreadsheets/d/1Jq-Pza4bOpOIaLhvKEPcsCN1CqF2H5KW996TdO98ZGQ/pubhtml).
 
 ## Ruleset
 
