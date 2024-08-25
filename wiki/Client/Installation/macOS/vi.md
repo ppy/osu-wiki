@@ -33,7 +33,7 @@ Nếu bạn gặp khó khăn khi mở osu!, các bước sau đây có thể s�
 
 ## osu!(lazer)
 
-[osu!(lazer)](/wiki/Client/Release_stream/Lazer) là một client game tương lai của osu! hiện tại đang trong quá trình phát triển. Nếu bạn không quan tâm đến [performance points](/wiki/Performance_points), khuyến khích bạn nên thử nó. Để cài đặt, làm theo các bước sau:
+[osu!(lazer)](/wiki/Client/Release_stream/Lazer) là một client game tương lai của osu! hiện tại đang trong quá trình phát triển. Để cài đặt, làm theo các bước sau:
 
 1. Ghé [trang tải osu!(lazer)](https://github.com/ppy/osu/releases/latest), tải `osu!.app.zip` và giải nén nó.
 2. Nhấp đúp chuột vào osu! và nhấn `Open` để mở nó.
