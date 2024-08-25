@@ -38,7 +38,7 @@ The **osu!mania 4K Chinese National Cup 2024** (***MCNC 4K 2024***) was a countr
 | 4th-32nd | CNY 30 |
 | All player who passed Qualifiers | CNY 15 |
 
-![MCNC 4K 2024 badge](img/badge.png)
+![MCNC 4K 2024 badge](img/badge.jpg)
 
 ## Organisation
 
