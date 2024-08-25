@@ -32,7 +32,7 @@ Play through [the brand-new world cup map](https://osu.ppy.sh/beatmapsets/223868
 
 ### Normal1zer vs. Broken Nerdz - Cybernetic Mastermind No.7
 
-Flex your 6K osu!mania prowess with [this unorthodox map](https://osu.ppy.sh/beatmapsets/2184238) hosted by [BKwind](https://osu.ppy.sh/users/8900975) and created for [osu!mania 7K Chinese National Cup 2023](/wiki/Tournaments/MCNC/7K2023)!
+Flex your 6K osu!mania prowess with [this unorthodox map](https://osu.ppy.sh/beatmapsets/2184238) hosted by [BKwind](https://osu.ppy.sh/users/8900975)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/435/Songs/Normal1zer%20vs.%20Broken%20Nerdz%20-%20Cybernetic%20Mastermind%20No.7.mp3">
