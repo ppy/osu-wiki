@@ -24,7 +24,7 @@ Most recently though, just about everyone should know him for his newest [osu! o
 
 ### Supa7onyz feat. 5-let - Les Cadences Magiques
 
-Play through [the brand new world cup map](https://osu.ppy.sh/beatmapsets/2238686) hosted by [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
+Play through [the brand-new world cup map](https://osu.ppy.sh/beatmapsets/2238686) hosted by [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/435/Songs/Supa7onyz%20feat.%205-let%20-%20Les%20Cadences%20Magiques.mp3">
