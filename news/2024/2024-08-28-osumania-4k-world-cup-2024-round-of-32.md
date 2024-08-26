@@ -28,7 +28,7 @@ Even though this is only the first of many rounds to come in this edition of the
 
 As is standard at this point, the Round of 32 mappool focused around consistency and nerve management rather than pure skill, which can be reflected in the scores set by the players this past weekend. Taking that into account, some players went above and beyond by setting ridiculous scores, which we'll be talking about more below.
 
-It's time to take a look at last weekend's new osu! originals.
+You can listen to the new osu! originals below, and check out the beatmaps by clicking on the banners below!
 
 [![](/wiki/shared/news/2024-08-28-osumania-4k-world-cup-2024-round-of-32/hebe.jpg)](https://osu.ppy.sh/beatmapsets/2234586#mania/4746375)
 
