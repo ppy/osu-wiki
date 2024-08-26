@@ -1,0 +1,82 @@
+---
+layout: post
+title: "osu!mania 4K World Cup 2024: Round of 32 Recap"
+date: 2024-08-28 12:00:00 +0000
+---
+
+The key smashing has officially commenced last weekend, and now is the perfect time to pull out the Round of 32 highlight reel.
+
+![](/wiki/Tournaments/MWC/2024_4K/img/mwc4k2024-banner.jpg)
+
+With the first round of the osu!mania 4K World Cup concluding last weekend, it's time to look back at the Round of 32, and spotlight the best moments of the previous weekend. The first round had an explosive start with many new faces showing up, wanting to show off their skills, and make their countrymen proud.
+
+## Mappool showcase
+
+<style>
+    .osu-md--news .audio-player {
+        max-width: inherit;
+    }
+</style>
+
+[**Download the pool here! (98 MB)**](https://osu.ppy.sh/beatmaps/packs/P257)
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&time=0h55m00s&video=2227820014" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+</div>
+
+Even though this is only the first of many rounds to come in this edition of the MWC4K, the Round of 32 selection this year already has 1 great [osu! original](/wiki/osu!_originals)! As is standard at this point, the Round of 32 mappool focused around consistency and nerve management rather than pure skill, which can be reflected in the scores set by the players this past weekend. Taking that into account, some players went above and beyond by setting ridiculous scores, which we'll be talking about more below.
+
+It's time to take a look at last weekend's new osu! original — [Supa7onyz feat. 5-let - Les Cadences Magiques](https://osu.ppy.sh/beatmapsets/2238686#mania/4757070). Mapped by [Toaph Daddy](https://osu.ppy.sh/users/7616811), along with visuals by [Noffy](https://osu.ppy.sh/users/1541323) and [Panthullu](https://osu.ppy.sh/users/12580298), all showcased in a wonderful video by [Sakura006](https://osu.ppy.sh/users/10365024), this one is sure to blow your socks off.
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/FBNuQ30ZH8c" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+</div>
+
+## Round of 32 results
+
+| Team A |  |  | Team B |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Philippines** ::{ flag=PH }:: | **5** | 0 | ::{ flag=CZ }:: Czechia |
+| **Vietnam** ::{ flag=VN }:: | **5** | 1 | ::{ flag=UA }:: Ukraine |
+| **Hong Kong** ::{ flag=HK }:: | **5** | 4 | ::{ flag=ID }:: Indonesia |
+| **Singapore** ::{ flag=SG }:: | **5** | 3 | ::{ flag=PL }:: Poland |
+| **China** ::{ flag=CN }:: | **5** | 0 | ::{ flag=FI }:: Finland |
+| **Japan** ::{ flag=JP }:: | **5** | 1 | ::{ flag=FR }:: France |
+| **South Korea** ::{ flag=KR }:: | **5** | 0 | ::{ flag=PE }:: Peru |
+| **United States** ::{ flag=US }:: | **5** | 0 | ::{ flag=NL }:: Netherlands |
+| **United Kingdom** ::{ flag=GB }:: | **5** | 1 | ::{ flag=AR }:: Argentina |
+| **Canada** ::{ flag=CA }:: | **5** | 2 | ::{ flag=AU }:: Australia |
+| **Chile** ::{ flag=CL }:: | **5** | 0 | ::{ flag=NZ }:: New Zealand |
+| **Taiwan** ::{ flag=TW }:: | **5** | 2 | ::{ flag=MX }:: Mexico |
+| **Thailand** ::{ flag=TH }:: | **5** | 0 | ::{ flag=RO }:: Romania |
+| **Malaysia** ::{ flag=MY }:: | **5** | 1 | ::{ flag=SE }:: Sweden |
+| **Russian Federation** ::{ flag=RU }:: | **5** | 1 | ::{ flag=ES }:: Spain |
+| **Brazil** ::{ flag=BR }:: | **5** | 0 | ::{ flag=IT }:: Italy |
+
+## Match highlights
+
+### Hong Kong ::{ flag=HK }:: vs. ::{ flag=ID }:: Indonesia
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2232644735&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+</div>
+
+text here
+
+### Singapore ::{ flag=SG }:: vs. ::{ flag=PL }:: Poland
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2232647991&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+</div>
+
+text here
+
+## Score highlights
+
+might as well call this a stretch goal
+
+---
+
+Now is the perfect time to start following the MWC4K, choose your favourites and cheer them on! Regardless of whom you'll be cheering on, we hope to see you this weekend for the Round of 16 on [Twitch](https://www.twitch.tv/osulive), and if you are interested in the nitty-gritty of this MWC4K edition, you can find the full details over on the [wiki page](/wiki/Tournaments/MWC/2024_4K)!
+
+—0x84f
