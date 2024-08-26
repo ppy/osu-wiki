@@ -74,8 +74,8 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 | ::{ flag=RU }:: [Astrolis](https://osu.ppy.sh/users/12357714) |  |
 | ::{ flag=PT }:: [Basensorex](https://osu.ppy.sh/users/11655886) | Portugués |
 | ::{ flag=US }:: [Bloxi](https://osu.ppy.sh/users/9022451) |  |
-| ::{ flag=KR }:: [Cellina](https://osu.ppy.sh/users/2490770) |  |
-| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Chino, cantonés |
+| ::{ flag=KR }:: [Cellina](https://osu.ppy.sh/users/2490770) | Coreano |
+| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonés, chino |
 | ::{ flag=CL }:: [Cris-](https://osu.ppy.sh/users/6175280) | Español |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portugués, español |
 | ::{ flag=KR }:: [Dailycare](https://osu.ppy.sh/users/1634445) | Coreano |
@@ -134,7 +134,7 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 | ::{ flag=HK }:: [Saggin](https://osu.ppy.sh/users/12464107) | Ruso |
 | ::{ flag=TW }:: [Sagisawa Arisa](https://osu.ppy.sh/users/7633130) | Chino |
 | ::{ flag=JP }:: [Satellite](https://osu.ppy.sh/users/1661227) | Japonés |
-| ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853) | Chino, cantonés |
+| ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853) | Cantonés, chino |
 | ::{ flag=BR }:: [Shiyun](https://osu.ppy.sh/users/3947634) | Portugués |
 | ::{ flag=UZ }:: [Shmiklak](https://osu.ppy.sh/users/5504231) | Ruso |
 | ::{ flag=US }:: [Smoke](https://osu.ppy.sh/users/10726630) |  |
@@ -150,7 +150,7 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 | ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) | Ruso |
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  |
 | ::{ flag=NL }:: [yukic](https://osu.ppy.sh/users/6977273) |  |
-| ::{ flag=IT }:: [zekk](https://osu.ppy.sh/users/9704802) | Lituano |
+| ::{ flag=IT }:: [zekk](https://osu.ppy.sh/users/9704802) | Italiano |
 | ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Polaco |
 
 #### osu!taiko

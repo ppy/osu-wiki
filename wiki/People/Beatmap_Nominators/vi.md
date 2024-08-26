@@ -75,8 +75,8 @@ Bảng dưới đây liệt kê từng game mode và Đề cử viên thuộc ga
 | ::{ flag=RU }:: [Astrolis](https://osu.ppy.sh/users/12357714) |  |
 | ::{ flag=PT }:: [Basensorex](https://osu.ppy.sh/users/11655886) | Tiếng Bồ Đào Nha |
 | ::{ flag=US }:: [Bloxi](https://osu.ppy.sh/users/9022451) |  |
-| ::{ flag=KR }:: [Cellina](https://osu.ppy.sh/users/2490770) |  |
-| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Tiếng Trung, Tiếng Quảng Đông |
+| ::{ flag=KR }:: [Cellina](https://osu.ppy.sh/users/2490770) | Tiếng Hàn |
+| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Tiếng Quảng Đông, Tiếng Trung |
 | ::{ flag=CL }:: [Cris-](https://osu.ppy.sh/users/6175280) | Tiếng Tây Ban Nha |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Tiếng Bồ Đào Nha, Tiếng Tây Ban Nha |
 | ::{ flag=KR }:: [Dailycare](https://osu.ppy.sh/users/1634445) | Tiếng Hàn |
@@ -135,7 +135,7 @@ Bảng dưới đây liệt kê từng game mode và Đề cử viên thuộc ga
 | ::{ flag=HK }:: [Saggin](https://osu.ppy.sh/users/12464107) | Tiếng Nga |
 | ::{ flag=TW }:: [Sagisawa Arisa](https://osu.ppy.sh/users/7633130) | Tiếng Trung |
 | ::{ flag=JP }:: [Satellite](https://osu.ppy.sh/users/1661227) | Tiếng Nhật |
-| ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853) | Tiếng Trung, Tiếng Quảng Đông |
+| ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853) | Tiếng Quảng Đông, Tiếng Trung |
 | ::{ flag=BR }:: [Shiyun](https://osu.ppy.sh/users/3947634) | Tiếng Bồ Đào Nha |
 | ::{ flag=UZ }:: [Shmiklak](https://osu.ppy.sh/users/5504231) | Tiếng Nga |
 | ::{ flag=US }:: [Smoke](https://osu.ppy.sh/users/10726630) |  |
@@ -151,7 +151,7 @@ Bảng dưới đây liệt kê từng game mode và Đề cử viên thuộc ga
 | ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) | Tiếng Nga |
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  |
 | ::{ flag=NL }:: [yukic](https://osu.ppy.sh/users/6977273) |  |
-| ::{ flag=IT }:: [zekk](https://osu.ppy.sh/users/9704802) | Tiếng Litva |
+| ::{ flag=IT }:: [zekk](https://osu.ppy.sh/users/9704802) | Tiếng Italy |
 | ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Tiếng Ba Lan |
 
 #### osu!taiko

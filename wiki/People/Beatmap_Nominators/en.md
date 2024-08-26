@@ -76,8 +76,8 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=RU }:: [Astrolis](https://osu.ppy.sh/users/12357714) |  |
 | ::{ flag=PT }:: [Basensorex](https://osu.ppy.sh/users/11655886) | Portuguese |
 | ::{ flag=US }:: [Bloxi](https://osu.ppy.sh/users/9022451) |  |
-| ::{ flag=KR }:: [Cellina](https://osu.ppy.sh/users/2490770) |  |
-| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Chinese, Cantonese |
+| ::{ flag=KR }:: [Cellina](https://osu.ppy.sh/users/2490770) | Korean |
+| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonese, Chinese |
 | ::{ flag=CL }:: [Cris-](https://osu.ppy.sh/users/6175280) | Spanish |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portuguese, Spanish |
 | ::{ flag=KR }:: [Dailycare](https://osu.ppy.sh/users/1634445) | Korean |
@@ -136,7 +136,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=HK }:: [Saggin](https://osu.ppy.sh/users/12464107) | Russian |
 | ::{ flag=TW }:: [Sagisawa Arisa](https://osu.ppy.sh/users/7633130) | Chinese |
 | ::{ flag=JP }:: [Satellite](https://osu.ppy.sh/users/1661227) | Japanese |
-| ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853) | Chinese, Cantonese |
+| ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853) | Cantonese, Chinese |
 | ::{ flag=BR }:: [Shiyun](https://osu.ppy.sh/users/3947634) | Portuguese |
 | ::{ flag=UZ }:: [Shmiklak](https://osu.ppy.sh/users/5504231) | Russian |
 | ::{ flag=US }:: [Smoke](https://osu.ppy.sh/users/10726630) |  |
@@ -152,7 +152,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) | Russian |
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  |
 | ::{ flag=NL }:: [yukic](https://osu.ppy.sh/users/6977273) |  |
-| ::{ flag=IT }:: [zekk](https://osu.ppy.sh/users/9704802) | Lithuanian |
+| ::{ flag=IT }:: [zekk](https://osu.ppy.sh/users/9704802) | Italian |
 | ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Polish |
 
 #### osu!taiko
