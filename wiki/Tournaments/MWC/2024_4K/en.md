@@ -215,6 +215,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/f3e
 ### Round of 32
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1TLk_yRDaG5pzQXPmDX7lT2NvNGrX-9aAieYhBqT4bGI?rm=minimal).
+
 Friday, 23 August 2024:
 
 | Team A |  |  | Team B | Match link | VOD link |
