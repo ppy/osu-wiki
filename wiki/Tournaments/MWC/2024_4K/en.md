@@ -54,6 +54,7 @@ The osu!mania 4K World Cup 2024 is run by the [osu! team](/wiki/People/osu!_team
 ## Links
 
 - **[Information spreadsheet](https://docs.google.com/spreadsheets/d/1cu9PgMYb9BNwyLTAWRFAheP15FTIebpSl8CMhgeEcdg)**
+- [Weekly statistics spreadsheets](https://drive.google.com/drive/folders/1EhSltVCdtOWCrNPRUAa1LaCxv35idR_f)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1950284)
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/46)
@@ -212,6 +213,13 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/f3e
 ## Match results
 
 ### Round of 32
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1TLk_yRDaG5pzQXPmDX7lT2NvNGrX-9aAieYhBqT4bGI?rm=minimal).
+Friday, 23 August 2024:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Philippines** ::{ flag=PH }:: | **5** | 0 | ::{ flag=CZ }:: Czechia | [#1](https://osu.ppy.sh/community/matches/115197151) | [#1](https://www.twitch.tv/videos/2233661754) |
 
 Saturday, 24 August 2024:
 
