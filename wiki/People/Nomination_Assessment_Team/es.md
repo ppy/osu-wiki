@@ -100,8 +100,8 @@ Una vez que un miembro del NAT decide dejar el equipo, se le pueden otorgar los 
 Los antiguos miembros del NAT que actualmente tienen acceso interno son:
 
 - ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083)
+- ::{ flag=HK}:: [Chaoslitz](https://osu.ppy.sh/users/3621552)
 - ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507)
-- ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501)
 - ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882)
 - ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
 - ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
@@ -134,36 +134,37 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 
 #### osu!
 
-| Nombre | Idiomas adicionales |
-| :-- | :-- |
-| ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464) | Sueco |
-| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonés, chino |
-| ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Chino |
-| ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) |  |
-| ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | Ruso |
-| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | Francés, español |
-| ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
-| ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Ruso |
-| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
+| Nombre                                                             | Idiomas adicionales |
+| :----------------------------------------------------------------- | :------------------ |
+| ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464) | Sueco               |
+| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501)        | Holandés            |
+| ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958)      |                     |
+| ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547)        |                     |
+| ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009)         | Ruso                |
+| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536)        | Francés, español    |
+| ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763)     |                     |
+| ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071)        | Romano              |
+| ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664)   | Ruso                |
+| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323)          |                     |
 
 #### osu!taiko
 
-| Nombre | Idiomas adicionales |
-| :-- | :-- |
-| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  |
-| ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | Chino |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Árabe, francés |
-| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Portugués |
-| ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | Alemán, algo de francés |
+| Nombre                                                         | Idiomas adicionales     |
+| :------------------------------------------------------------- | :---------------------- |
+| ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | Chino                   |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)     | Árabe, francés          |
+| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519)      | Portugués               |
+| ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402)    | Algo de Alemán          |
+| ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835)     | Alemán, algo de francés |
 
 #### osu!catch
 
-| Nombre | Idiomas adicionales |
-| :-- | :-- |
-| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Español, alemán |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Neerlandés |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  |
+| Nombre                                                      | Idiomas adicionales |
+| :---------------------------------------------------------- | :------------------ |
+| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565)     | Español, alemán     |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Neerlandés          |
+| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637)   |                     |
+| ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466)   |                     |
 
 #### osu!mania
 
@@ -190,14 +191,13 @@ Los siguientes miembros del NAT son exclusivamente responsables de las tareas es
 
 Los siguientes miembros del NAT son principalmente evaluadores, pero también contribuyen a tareas estructurales:
 
-| Usuario | Tarea |
-| :-- | :-- |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Organización del BN Mentorship |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Manejo de reportes de usuarios |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Manejo de reportes de contenido |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Desarrollo de [Nomination Planner](https://bnplanner.greaper.net/beatmaps) y del [plugin de MV de osu!catch](https://github.com/Darius-Wattimena/MapsetChecksCatch) |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Liderazgo del NAT, desarrollo del [sitio web de gestión de los BN](https://bn.mappersguild.com) y del [plugin de MV de osu!taiko](https://github.com/Hiviexd/MVTaikoChecks) |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Desarrollo del [plugin de MV de osu!mania](https://github.com/MChecaH/ManiaCheck) |
+| Usuario                                                        | Tarea                                                                                                                                                                       |
+| :------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776)    | Desarrollo de [Nomination Planner](https://bnplanner.greaper.net/beatmaps) y del [plugin de MV de osu!catch](https://github.com/Darius-Wattimena/MapsetChecksCatch)         |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)     | Liderazgo del NAT, desarrollo del [sitio web de gestión de los BN](https://bn.mappersguild.com) y del [plugin de MV de osu!taiko](https://github.com/Hiviexd/MVTaikoChecks) |
+| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536)    | Procesar calificaciones de impacto[^impact-rating] para los restablecimientos de nominaciones en osu!                                                                          |
+| ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Procesar calificaciones de impacto[^impact-rating] para los restablecimientos de nominaciones en osu!                                                                        |
+| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Desarrollo del [plugin de MV de osu!mania](https://github.com/MChecaH/ManiaCheck)                                                                                           |
 
 ---
 
