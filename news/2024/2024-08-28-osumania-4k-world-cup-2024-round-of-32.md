@@ -24,7 +24,9 @@ With the first round of the osu!mania 4K World Cup concluding last weekend, it's
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&time=0h55m00s&video=2227820014" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-Even though this is only the first of many rounds to come in this edition of the MWC4K, the Round of 32 selection this year already has 1 great [osu! original](/wiki/osu!_originals)! As is standard at this point, the Round of 32 mappool focused around consistency and nerve management rather than pure skill, which can be reflected in the scores set by the players this past weekend. Taking that into account, some players went above and beyond by setting ridiculous scores, which we'll be talking about more below.
+Even though this is only the first of many rounds to come in this edition of the MWC4K, the Round of 32 selection this year already has 1 great [osu! original](/wiki/osu!_originals)!
+
+As is standard at this point, the Round of 32 mappool focused around consistency and nerve management rather than pure skill, which can be reflected in the scores set by the players this past weekend. Taking that into account, some players went above and beyond by setting ridiculous scores, which we'll be talking about more below.
 
 It's time to take a look at last weekend's new osu! original — [Supa7onyz feat. 5-let - Les Cadences Magiques](https://osu.ppy.sh/beatmapsets/2238686#mania/4757070). Mapped by [Toaph Daddy](https://osu.ppy.sh/users/7616811), along with visuals by [Noffy](https://osu.ppy.sh/users/1541323) and [Panthullu](https://osu.ppy.sh/users/12580298), all showcased in a wonderful video by [Sakura006](https://osu.ppy.sh/users/10365024), this one is sure to blow your socks off.
 
