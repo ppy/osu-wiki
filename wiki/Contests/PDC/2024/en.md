@@ -86,7 +86,7 @@ This year includes two non-FA songs as part of the song list, which also means a
 - **Submission must be in `.osz` format.**
 - **Submission must use standard difficulty names:** Easy, Normal, Hard, Insane, and Expert.
 - **You must not include a video or storyboard in your submission.**
-- **You must not modify the background and metadata of your submission.** Metadata includes titles, artists, and tags.
+- **You must not modify the background and metadata of your submission.** Metadata includes the title, artist, beatmap creator, source and tags.
 - **You are allowed to modify timing (including red lines) based on your needs.** This action is at your own risk.
 - **You are allowed to modify combo colours, bookmarks, and the preview time.**
 - **Submission must not be publicly revealed until after the results are announced.**
