@@ -6,13 +6,15 @@ tags:
   - FI
   - mod
   - game modifier
+  - modificador de juego
+  - modificador del juego
 ---
 
 # Fade In (mod)
 
 ![Icono del mod FI](/wiki/shared/mods/FI.png "Icono del mod Fade In (FI)")
 
-*Para una lista completa de mods, véase: [Modificador de juego](/wiki/Gameplay/Game_modifier)*\
+*Para una lista completa de mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*\
 *No debe confundirse con [Hidden (mod)](/wiki/Gameplay/Game_modifier/Hidden) o [Flashlight (mod)](/wiki/Gameplay/Game_modifier/Flashlight).*
 
 ## Acerca de
@@ -26,7 +28,7 @@ tags:
 
 ## Descripción
 
-El mod **Fade In** es un [modificador de juego](/wiki/Gameplay/Game_modifier) para [osu!mania](/wiki/Game_mode/osu!mania) que aumenta la dificultad de los [beatmaps](/wiki/Beatmap) haciendo que las notas desaparezcan y luego aparezcan gradualmente a medida que se acercan a la barra de [juicio](/wiki/Gameplay/Judgement). De ahí el nombre.
+El mod **Fade In** es un [modificador del juego](/wiki/Gameplay/Game_modifier) para [osu!mania](/wiki/Game_mode/osu!mania) que aumenta la dificultad de los [beatmaps](/wiki/Beatmap) haciendo que las notas desaparezcan y luego aparezcan gradualmente a medida que se acercan a la barra de [juicio](/wiki/Gameplay/Judgement). De ahí el nombre.
 
 La velocidad a la que las notas se desvanecen se basa en el combo, con un combo más alto, las notas se desvanecen más tarde y permanecen invisibles por más tiempo. Es decir, las notas se desvanecen más y más tarde cuanto más alto un jugador aumenta su combo.
 

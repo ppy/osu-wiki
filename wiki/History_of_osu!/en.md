@@ -11,8 +11,8 @@ Records of osu!'s history, all in the osu! wiki.
 | :-: | :-- |
 | [2007](2007) | Initial game build |
 | [2008](2008) | osu!taiko, osu!catch, more mods, and major improvements |
-| [2009](2009) | osu! iPhone |
-| 2010 | *Undocumented* |
+| [2009](2009) | osu! iPhone, new multiplayer modes, kudosu system |
+| [2010](2010) | Wai-con 2010 |
 | [2011](2011) | osu! wiki |
 | [2012](2012) | Five years of osu!, osu!mania, widescreen support, and visual settings |
 | [2013](2013) | UI overhaul, HD skins, improved widescreen support, osu!mania editor, in-game collections, introduction of moddingV2, Disqus, osu!api, accuracy overlays, Comic Fiesta 2013, unrestricted downloads, and osu!cuttingedge (osu!supporter-only) |

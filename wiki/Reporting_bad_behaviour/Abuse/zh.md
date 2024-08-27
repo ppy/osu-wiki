@@ -1,24 +1,21 @@
 ---
+outdated_since: 5f603d93877d6b915ce864a793df5f4a7fbc2a33
 outdated_translation: true
-outdated_since: e2b7d14ed888df1d0027f3acec928c9fd55e60a5
 ---
 
 # 举报滥用
 
-## 我不知道我应不应该举报
+## 我不知道我是否应该举报
 
 请举报吧。
 
-如果你已经不舒服到找到这篇文章，请通过 [abuse@ppy.sh](mailto:abuse@ppy.sh) 联系我们，并且尽可能详细地描述你的问题。
+如果你已经感觉很不舒服，甚至找到了这篇文章，请通过 [abuse@ppy.sh](mailto:abuse@ppy.sh) 联系我们，并且尽可能详细地描述你的问题。
 
 我们对这个社区中任何未经同意的性暗示或更进一步的行为都是零容忍的。
 
-这个举报邮箱只有两个人可以看到：
+这个举报邮箱只有 [peppy](https://osu.ppy.sh/users/2)（游戏创始人）可以看到。
 
-- [peppy](https://osu.ppy.sh/users/2)（游戏作者）
-- [Ephemeral](https://osu.ppy.sh/users/102335)（社区管理员）
-
-你发送给 [abuse@ppy.sh](mailto:abuse@ppy.sh) 的一切材料，只有上述两人可以看到，并且永远不会分享给任何人。
+你发送给 [abuse@ppy.sh](mailto:abuse@ppy.sh) 的一切材料，只有他可以看到，并且永远不会分享给任何人。
 
 ## 有人性挑逗或用言语骚扰我！
 
@@ -36,7 +33,7 @@ outdated_since: e2b7d14ed888df1d0027f3acec928c9fd55e60a5
 
 请尽快把贴子举报给我们的[全局管理团队 (GMT)](/wiki/People/Global_Moderation_Team)，步骤如下：
 
-点击 GMT 页面里任何一个玩家的名字，这样你能够访问到他们的个人主页。如果你不知道点谁，点[这里](https://osu.ppy.sh/users/102335)就好。
+点击 GMT 页面里任何一个玩家的名字，这样你能够访问到他们的个人主页。如果你不知道点谁，点[这里](https://osu.ppy.sh/users/5999631)就好。
 
 在那个玩家的国旗标志下面，点击那个长的像信封一样的按钮。这样你就来到了私聊界面。
 

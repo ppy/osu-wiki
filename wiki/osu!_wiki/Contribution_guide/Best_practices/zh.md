@@ -1,9 +1,4 @@
----
-outdated_since: 92f87c21ee0fa098289944375f38d526278d988e
-outdated_translation: true
----
-
-# 最好方法
+# 最佳实践
 
 这篇文章介绍了您在贡献时可能遇到的一些任务。文章中提到的方法可供您简化流程，并可在 GitHub 或在类似的平台上托管的其他项目中应用。
 
@@ -35,27 +30,17 @@ outdated_translation: true
 
 1. 进入**你的分支仓库**，点击 `操作 (Actions)` 标签。
 
-2. 进入 `工作流 (Workflows)`，找到 `同步 osu! 上游仓库 (Sync from osu! upstream)`。
+2. 在左侧栏上，寻找`与 ppy:master 同步 (Sync with ppy:master)`。
 
-3. 点击 `运行工作流 (Run workflow)`，并且勾选以下选项：
+3. 点击`运行工作流 (Run workflow)` 并填写以下选项：
 
-   <!-- when updating this translation, delete img/github-actions-workflow-dialog.png if this translation is the last one to use it. —clayton -->
+   ![GitHub 网站上的表格截图如下所述](img/github-actions-workflow-dispatch.png "GitHub 操作工作流分发菜单")
 
-   ![](img/github-actions-workflow-dialog.png "GitHub 操作 工作流 - 运行工作流")
+   - **需要工作流操作的分支 (Use workflow from)**：你想要与上游仓库同步的分支名称。默认为 `master`。
+   - **创建已选择分支的备份 (Create a backup of the selected branch)**：在你想要更新之前，创建一个名为 `backup-{目标分支名称}` 的分支作为副本。
+   - **覆盖已选择分支上的所有修改 (Overwrite all history of the selected branch)**：使用 `ppy:master` 覆盖你的分支内的所有内容，忽略任何修改。默认会将 `ppy:master` 内的修改合并到已选择分支内。
 
-   - **你想要工作流操作的分支 (Use workflow from)**：你想要与上游仓库同步的分支名称。默认为 `master`。
-   - **是否覆盖目标仓库里的任何更改 (Overwrite any changes in the target repository)**：
-     - `true`：覆盖你的分支内的所有内容，还你一个纯净的  `ppy/osu-wiki` 的 `master` 分支。
-     - `false`（默认）：将你的更改与 `ppy/osu-wiki` 的更改合并。
-   - **是否创建目标分支的副本 (Create a backup of your target branch)**：
-     - `true`：在以上操作进行之前，创建一个名为 `backup-{目标分支名称}` 的分支作为副本。
-     - `false`（默认）：不创建任何副本。
-
-4. 点击 `运行工作流 (Run workflow)` 按钮，并等待工作流完成。如果你好奇这个工具是怎么工作的，点击 `同步 osu! 上游仓库 (Sync from osu! upstream)` 工作流任务 (task)。
-
-   <!-- when updating this translation, delete img/github-actions-workflow-overview.png if this translation is the last one to use it. —clayton -->
-
-   ![](img/github-actions-workflow-overview.png "GitHub 操作 工作流 - 工作流概览")
+4. 点击 `运行工作流 (Run workflow)` 按钮，并等待工作流完成。如果你好奇这个工具是怎么工作的，点击 `同步 ppy:master (Sync with ppy:master)` 的工作流任务 (workflow task)。
 
 ## 做出改动
 

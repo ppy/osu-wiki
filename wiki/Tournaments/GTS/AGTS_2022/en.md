@@ -64,7 +64,7 @@ The Advanced Global Taiko Showdown 2022 was run by various community members.
 
 ## Participants
 
-| | Team | Members |
+|  | Team | Members |
 | --: | :-- | :-- |
 | ::{ flag=AR }:: ::{ flag=CR }:: | **Argentina/Costa Rica** | **[Auredios](https://osu.ppy.sh/users/14697193)**, [Hotman](https://osu.ppy.sh/users/7902082), [Ingrid10](https://osu.ppy.sh/users/9786011), [ZelLink](https://osu.ppy.sh/users/6752242) |
 | ::{ flag=BR }:: | **Brazil** | **[Spicy Onion](https://osu.ppy.sh/users/11799110)**, [-Nozomi Tojo](https://osu.ppy.sh/users/8024582), [Ideal](https://osu.ppy.sh/users/3869519), [roko100789](https://osu.ppy.sh/users/3224958) |

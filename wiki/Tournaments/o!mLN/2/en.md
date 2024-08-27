@@ -273,7 +273,7 @@ Saturday, 18 July 2020:
 | **DaZeRo5** ::{ flag=PE }:: | **6** | 3 | ::{ flag=PH }:: Chuck | [#1](https://osu.ppy.sh/community/matches/64237749) |
 | Onta\_Bekasi ::{ flag=ID }:: | 2 | **6** | ::{ flag=KR }:: **bhop\_fury** | [#1](https://osu.ppy.sh/community/matches/64250336) |
 | **Unholy** ::{ flag=US }:: | **0** | -1 | ::{ flag=GB }:: XxNewson1234xX | *win by default* |
-| andreymc ::{ flag=BR }::  | -1 | **0** | ::{ flag=MX }:: **-Hellscythe-** | *win by default* |
+| andreymc ::{ flag=BR }:: | -1 | **0** | ::{ flag=MX }:: **-Hellscythe-** | *win by default* |
 
 Sunday, 19 July 2020:
 

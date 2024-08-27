@@ -1,28 +1,34 @@
 ---
 outdated: true
-outdated_translation: true
-outdated_since: 45d0ff932649c6f2c7f8c76ce5d616154ca0ecf8
+no_native_review: true
 ---
 
 # Sejarah osu!
 
-Catatan sejarah osu!, dapat diakses semua di osu! wiki.
+Berikut merupakan berbagai rekaman sejarah osu! yang tersedia pada osu! wiki.
 
-- [2007](/wiki/History_of_osu!/2007) - Pembuatan awal game
-- [2008](/wiki/History_of_osu!/2008) - Taiko dan Catch the Beat, lebih banyak mod, dan kemajuan besar
-- [2009](/wiki/History_of_osu!/2009) - osu! iPhone
-- 2010
-- [2011](/wiki/History_of_osu!/2011) - osu! wiki
-- [2012](/wiki/History_of_osu!/2012) - Perayaan lima tahun osu!, osu!mania, dukungan layar lebar, dan pengaturan visual
-- [2013](/wiki/History_of_osu!/2013) - Perombakan Antarmuka, Skin HD, (lebih banyak lagi) dukungan layar lebar, editor osu!mania, koleksi dalam game, moddingV2 diperkenalkan, Disqus, osu!api, hamparan akurasi, Comic Fiesta 2013, unduhan tanpa batas, dan osu!cuttingedge (fitur khusus osu!supporter)
-- [2014](/wiki/History_of_osu!/2014) - Guliran BPM, rangkaian intro/outro dalam game, osu!cuttingedge (untuk publik), dan salju!
-- [2015](/wiki/History_of_osu!/2015) - jizz (perancangan ulang osu!web), osu!weekly, dan osu!coins
-- [2016](/wiki/History_of_osu!/2016) - scorev2, osu! open-source diumumkan (osu!(lazer)), dan osu! wiki (perombakan)
-- [2017](/wiki/History_of_osu!/2017) - versi osu!(lazer) pertama dirilis, dan integrasi Discord
-- [2018](/wiki/History_of_osu!/2018) - ?
+| Tahun | Deskripsi |
+| :-: | :-- |
+| [2007](2007) | Versi rilis awal permainan |
+| [2008](2008) | osu!taiko, osu!catch, berbagai mod baru, rangkaian perbaikan berskala besar |
+| [2009](2009) | osu! iPhone, mode multiplayer baru, sistem kudosu |
+| [2010](2010) | Wai-con 2010 |
+| [2011](2011) | osu! wiki |
+| [2012](2012) | Hari jadi osu! yang ke-5, osu!mania, dukungan layar lebar, menu pengaturan visual |
+| [2013](2013) | Perombakan ulang tampilan antarmuka, skin dengan resolusi HD, dukungan layar lebar yang ditingkatkan, editor osu!mania, fitur koleksi, pengenalan moddingV2, Disqus, osu!api, *overlay* akurasi, Comic Fiesta 2013, unduhan tanpa batas, osu! versi cuttingedge (khusus osu!supporter) |
+| [2014](2014) | Kecepatan gulir not osu!mania yang mengikuti BPM (*BPM scrolling*), rangkaian intro/outro dalam permainan, osu! versi cuttingedge (untuk seluruh pengguna) |
+| [2015](2015) | osu!web yang dirancang ulang, osu!weekly, osu!coin |
+| [2016](2016) | scorev2, pengumuman akan hadirnya osu! versi "lazer" baru yang dikembangkan secara *open-source* (yang sebelumnya dikenal dengan nama "osu!lazer"), perombakan ulang osu! wiki |
+| [2017](2017) | Rilisan pertama osu! versi lazer, integrasi Discord pada klien versi stable |
+| [2018](2018) | osu!next, pemberhentian masa bakti situs web lama, tampilan waktu bermain secara keseluruhan |
+| 2019–2021 | *Tidak terdokumentasikan* |
+| [2022](2022) | Hari jadi osu! yang ke-15, serial berita osu!monthly baru |
+| 2023–present | *Tidak terdokumentasikan* |
 
----
+## Rekaman sejarah lainnya
 
-Perlu dicatat, osu! wiki memiliki sedikit sejarah rincinya tersendiri.
-
-- [osu! wiki](/wiki/History_of_osu!/osu!_wiki)
+- [Sejarah osu! wiki](osu!_wiki)
+- [Sejarah lelucon hari April Fools di osu!](April_Fools)
+- [Sejarah peringkat *online*](Online_rankings)
+- [Log staf](/wiki/People/Staff_log)
+- [Sejarah turnamen osu!](/wiki/Tournaments)

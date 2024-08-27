@@ -13,7 +13,7 @@ tags:
 
 ![Icono del mod DT](/wiki/shared/mods/DT.png "Icono del mod Double Time (DT)")
 
-*Para una lista completa de mods, véase: [Modificador de juego](/wiki/Gameplay/Game_modifier)*\
+*Para una lista completa de mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*\
 *Véase también: [Nightcore (mod)](/wiki/Gameplay/Game_modifier/Nightcore)*
 
 ## Acerca de
@@ -34,7 +34,7 @@ tags:
 
 *Nota: El método utilizado para aumentar la velocidad no aumenta el tono de la canción.*
 
-El mod **Double Time** es un [modificador de juego](/wiki/Gameplay/Game_modifier) que intenta aumentar la dificultad de un [beatmap](/wiki/Beatmap) aumentando su velocidad general (BPM) en un 150 % (1,5x), reduciendo la duración de la canción en un 33 % y aumentando la [tasa de aproximación (AR)](/wiki/Beatmap/Approach_rate), la [dificultad general (OD)](/wiki/Beatmap/Overall_difficulty) y la [salud (HP)](/wiki/Gameplay/Health).
+El mod **Double Time** es un [modificador del juego](/wiki/Gameplay/Game_modifier) que intenta aumentar la dificultad de un [beatmap](/wiki/Beatmap) aumentando su velocidad general (BPM) en un 150 % (1,5x), reduciendo la duración de la canción en un 33 % y aumentando la [tasa de aproximación (AR)](/wiki/Beatmap/Approach_rate), la [dificultad general (OD)](/wiki/Beatmap/Overall_difficulty) y la [salud (HP)](/wiki/Gameplay/Health).
 
 El mod Double Time es ampliamente considerado como uno de los mejores mods utilizados para obtener grandes cantidades de [puntos de rendimiento](/wiki/Performance_points) en las dificultades fáciles en [osu!](/wiki/Game_mode/osu!).
 

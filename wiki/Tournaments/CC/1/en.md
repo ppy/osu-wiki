@@ -178,7 +178,7 @@ This competition has come to an end and resulted in the following podium:
 
 Sunday, 19 June 2016:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **rafalbrew** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: Pelzio | [#1](https://osu.ppy.sh/community/matches/25744050) |
 
@@ -186,7 +186,7 @@ Sunday, 19 June 2016:
 
 Sunday, 19 June 2016:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **zelda101** ::{ flag=US }:: | **4** | 0 | ::{ flag=GB }:: dong | [#1](https://osu.ppy.sh/community/matches/25744734) |
 
@@ -194,7 +194,7 @@ Sunday, 19 June 2016:
 
 Sunday, 19 June 2016:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | zelda101 ::{ flag=US }:: | 2 | **4** | ::{ flag=GB }:: **rafalbrew** | [#1](https://osu.ppy.sh/community/matches/25742222) |
 | **Pelzio** ::{ flag=GB }:: | **4** | 3 | ::{ flag=GB }:: dong | [#1](https://osu.ppy.sh/community/matches/25743314) |
@@ -203,7 +203,7 @@ Sunday, 19 June 2016:
 
 Sunday, 19 June 2016:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Seraxis ::{ flag=GB }:: | 3 | **4** | ::{ flag=US }:: **zelda101** | [#1](https://osu.ppy.sh/community/matches/25737972) |
 | **Pelzio** ::{ flag=GB }:: | **4** | 1 | ::{ flag=US }:: MicMck101 | [#1](https://osu.ppy.sh/community/matches/25739013) |
@@ -214,7 +214,7 @@ Sunday, 19 June 2016:
 
 Saturday, 18 June 2016:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Atrocious ::{ flag=SE }:: | 3 | **4** | ::{ flag=GB }:: **dong** | [#1](https://osu.ppy.sh/community/matches/25710268) |
 | Sopison ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **djsettle** | [#1](https://osu.ppy.sh/community/matches/25711194) |

@@ -106,7 +106,7 @@ The Skinning Contest #1 was run by various community members.
   - textures
   - artworks (e.g. stock images or anime artwork)
   - sounds
-- The majority of the in-game menu interface and at least one game mode have to be skinned. In other words, in addition to the gameplay elements, the following segments shouldn't be left default:
+- The majority of the in-game menu interface and at least one game mode have to be skinned. In other words, in addition to the gameplay elements, the following segments should not be left default:
   - Ranking Panel
   - Song Selection (excluding the mode selection)
   - Mod Icons

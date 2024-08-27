@@ -137,7 +137,7 @@ Es muy importante que incluyas varias capturas de pantalla del gameplay y de la 
 
 ### ¿Que es v1.0 y v2.0+?
 
-Skin v1.0 es el estilo antiguo de skinning que se utilizó en el juego desde el inicio del soporte de skinning hasta Marzo del 2013. Después de esa fecha, skin v2.0 se lanzó junto con a un nuevo conjunto de archivos de skinning con algunos cambios. Para mirar el registro de cambios en las actualizaciones de skinning, véase las [sección de versiones en el artículo skin.ini](/wiki/Skinning/skin.ini#versions).
+Skin v1.0 es el estilo antiguo de skinning que se utilizó en el juego desde el inicio del soporte de skinning hasta Marzo del 2013. Después de esa fecha, skin v2.0 se lanzó junto con a un nuevo conjunto de archivos de skinning con algunos cambios. Para mirar el registro de cambios en las actualizaciones de skinning, véase las [sección de versiones en el artículo skin.ini](/wiki/Skinning/skin.ini#versiones).
 
 Podría no parecer importante determinar que versión utilizar, pero hay que entender que algunas características antiguas no se encuentran disponibles en las versiones más recientes y viceversa.
 

@@ -47,7 +47,7 @@ You can check the finalized leaderboard for the previous season [here](https://d
 ## Rewards
 
 | Badges | Bracket Tier | Placement |
-| :--: | :--: | :--: |
+| :-: | :-: | :-: |
 | ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/ri_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/ri_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/ri_3.png) | Rhythm Incarnate | Top 50 |
 | ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/diamond_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/diamond_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/diamond_3.png) | Diamond | Top 51 - 3% |
 | ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/platinum_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/platinum_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/platinum_3.png) | Platinum | 3% - 10% |

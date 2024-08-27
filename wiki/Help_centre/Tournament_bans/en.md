@@ -50,6 +50,9 @@ Information about your tournament ban status may be provided to tournament organ
 
 | Tournament ban reason | Duration | Notes |
 | :-- | :-- | :-- |
+| Community rules violation within a tournament | 1 month or more | May be longer at the account support team's discretion |
+| Disrespecting staff or wasting time | 1 month or more |  |
+| Enabling another player's multi-accounting or cheating during a tournament | 6 months or more |  |
 | Player misconduct during an officially supported tournament | 1-2 years |  |
 | Returning under standard appeal terms | 1-2 years | May be longer at the account support team's discretion |
 | Multi-accounting or account sharing during an officially supported tournament | Indefinite | Will also cause a restriction |

@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: f474e1bcf073565b3f2ea07581ef55e000b8034f
+---
+
 # Twitter
 
 osu! are mai multe conturi de Twitter, fiecare având scopuri particulare. Majoritatea au un flux redus de postări, dar vă vor ajuta să vă țineți la curent în afara ecosistemului osu!

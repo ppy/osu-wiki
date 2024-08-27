@@ -42,7 +42,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab ma
 | `Esc` | Mengembalikan osu! ke layar sebelumnya atau membatalkan pilihan. |
 | `P`, `E`, atau `O` | Membuka menu Play. |
 | `P` tiga kali | Masuk ke mode Solo. |
-| `P` dua kali, lalu `M` |  Masuk ke mode [Multi](/wiki/Client/Interface/Multiplayer). |
+| `P` dua kali, lalu `M` | Masuk ke mode [Multi](/wiki/Client/Interface/Multiplayer). |
 | `E` dua kali | Masuk ke mode Edit. |
 | `O` | Membuka menu Options. |
 | `Q` | Menampilkan pilihan untuk keluar dari permainan. |

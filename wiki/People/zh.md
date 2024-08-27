@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 24a3e2dd442d541ad1e64134b4ca7243b16fe038
----
-
 # 成员
 
 这里是团队人员及其文章的索引页。
@@ -22,7 +17,7 @@ outdated_since: 24a3e2dd442d541ad1e64134b4ca7243b16fe038
 - [审核评估团队 (NAT)](Nomination_Assessment_Team)
 - [表现分 (PP) 委员会](Performance_Points_Committee)
 - [社区喜爱计划 (Project Loved) 团队](Project_Loved_Team)
-- [支持团队](Support_Team)
+- [技术支持团队](Technical_Support_Team)
 - [赛事委员会](Tournament_Committee)
 - [osu! 名人堂 (Alumni)](osu!_Alumni)
 - [osu! 核心成员](The_Team)

@@ -388,7 +388,7 @@ Sunday, 23 May 2021:
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **大山翔太** | **5** | 0 | Down Bad Gamers | [#1](https://osu.ppy.sh/community/matches/84004099) |
-| **ヴぇ**  | **0** | -1 | pe | *win by default* |
+| **ヴぇ** | **0** | -1 | pe | *win by default* |
 | **Gura is cute** | **5** | 0 | yes we love sucking sausages 🥵💦🌭 | [#1](https://osu.ppy.sh/community/matches/84032763) |
 | **My Angel Rice** | **5** | 3 | the | [#1](https://osu.ppy.sh/community/matches/84035817) |
 

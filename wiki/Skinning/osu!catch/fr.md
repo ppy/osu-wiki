@@ -9,7 +9,7 @@
 ![](img/fruit-catcher-idle.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 2.3+ | ![Oui][true] | ![Oui][true] | Normal | Haut | Largeur minimale : 302px |
 
 Notes:
@@ -27,7 +27,7 @@ Notes:
 ![](img/fruit-catcher-fail.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 2.3+ | ![Oui][true] | ![Oui][true] | Normal | Centre | - |
 
 Notes:
@@ -44,7 +44,7 @@ Notes:
 ![](img/fruit-catcher-kiai.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 2.3+ | ![Oui][true] | ![Oui][true] | Normal | Centre | - |
 
 Notes:
@@ -61,7 +61,7 @@ Notes:
 ![](img/fruit-ryuuta.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 2.2- | ![Oui][true] | ![Oui][true] (voir notes) | Normal | Centre | - |
 
 Notes:
@@ -77,7 +77,7 @@ Notes:
 ![](img/comboburst-fruits.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 2.3+ | ![Non][false] (voir notes) | ![Oui][true] | Normal | En bas à gauche | Hauteur maximale : 768px |
 
 Notes:
@@ -96,7 +96,7 @@ Notes:
 ![](img/lighting.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![Non][false] | ![Oui][true] | Additif | Centre | 100x100 |
 
 Notes:
@@ -113,7 +113,7 @@ Notes:
 ![](img/fruit-pear.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![Non][false] | ![Oui][true] | Multiplicatif | Centre | 128x128 |
 
 Notes:
@@ -129,7 +129,7 @@ Notes:
 ![](img/fruit-pear-overlay.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![Non][false] | ![Oui][true] | Normal | Centre | 128x128 |
 
 Notes:
@@ -143,7 +143,7 @@ Notes:
 ![](img/fruit-grapes.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![Non][false] | ![Oui][true] | Multiplicatif | Centre | 128x128 |
 
 Notes:
@@ -159,7 +159,7 @@ Notes:
 ![](img/fruit-grapes-overlay.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![Non][false] | ![Oui][true] | Normal | Centre | 128x128 |
 
 Notes:
@@ -173,7 +173,7 @@ Notes:
 ![](img/fruit-apple.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![Non][false] | ![Oui][true] | Multiplicatif | Centre | 128x128 |
 
 Notes:
@@ -189,7 +189,7 @@ Notes:
 ![](img/fruit-apple-overlay.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![Non][false] | ![Oui][true] | Normal | Centre | 128x128 |
 
 Notes:
@@ -203,7 +203,7 @@ Notes:
 ![](img/fruit-orange.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![Non][false] (voir notes) | ![Oui][true] | Multiplicatif | Centre | 128x128 |
 
 Notes:
@@ -224,7 +224,7 @@ Notes:
 ![](img/fruit-orange-overlay.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![Non][false] (voir notes) | ![Oui][true] | Normal | Centre | 128x128 |
 
 Notes:
@@ -240,7 +240,7 @@ Notes:
 ![](img/fruit-bananas.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![Non][false] | ![Oui][true] | Multiplicatif | Centre | 128x128 |
 
 Notes:
@@ -256,7 +256,7 @@ Notes:
 ![](img/fruit-bananas-overlay.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![Non][false] | ![Oui][true] | Normal | Centre | 128x128 |
 
 Notes:
@@ -270,7 +270,7 @@ Notes:
 ![](img/fruit-drop.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![Non][false] (voir notes) | ![Oui][true] | Multiplicatif | Centre | 128x128 |
 
 Notes:
@@ -285,7 +285,7 @@ Notes:
 `fruit-drop-overlay.png`
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![Non][false] | ![Oui][true] | Normal | Centre | 128x128 |
 
 Notes:

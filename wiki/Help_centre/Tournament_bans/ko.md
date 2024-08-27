@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 7d5c25409561f95b70f655de670ca1fa015f22fa
+---
+
 # 토너먼트 밴
 
 *메인 페이지: [Help centre](/wiki/Help_centre)*

@@ -225,7 +225,7 @@ This competition has come to an end and resulted in the following podium:
 
 Friday, 1 September 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **Toy** ::{ flag=US }:: | **7** | 1 | ::{ flag=TW }:: Rucker |
 
@@ -233,7 +233,7 @@ Friday, 1 September 2017:
 
 Tuesday, 8 August 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **krom1** ::{ flag=SI }:: | **6** | 3 | ::{ flag=CA }:: - Auto - |
 
@@ -241,7 +241,7 @@ Tuesday, 8 August 2017:
 
 Saturday, 29 July 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **Toy** ::{ flag=US }:: | **5** | 0 | ::{ flag=CA }:: - Auto - |
 | Krom1 ::{ flag=SI }:: | 3 | **5** | ::{ flag=TW }:: **Rucker** |
@@ -250,25 +250,25 @@ Saturday, 29 July 2017:
 
 Thursday, 20 July 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **- Auto -** ::{ flag=CA }:: | **5** | 2 | ::{ flag=GB }:: Jerome |
 
 Friday, 21 July 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | Vaxei ::{ flag=US }:: | 1 | **5** | ::{ flag=TW }:: **Rucker** |
 
 Sunday, 23 July 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | Mr HeliX ::{ flag=NL }:: | 3 | **5** | ::{ flag=SI }:: **Krom1** |
 
 Monday, 24 July 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **Toy** ::{ flag=US }:: | **5** | 1 | ::{ flag=PL }:: fartownik |
 
@@ -276,33 +276,33 @@ Monday, 24 July 2017:
 
 Thursday, 13 July 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | -Lolisim- ::{ flag=US }:: | 3 | **4** | ::{ flag=SI }:: **Krom1** |
 | **fartownik** ::{ flag=PL }:: | **4** | 2 | ::{ flag=GB }:: dong |
 
 Friday, 14 July 2017:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | **Jerome** ::{ flag=GB }:: | **1** | 0 | ::{ flag=FR }:: Zenoha | *forfeit* |
 
 Saturday, 15 July 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **- Auto -** ::{ flag=CA }:: | **4** | 1 | ::{ flag=RU }:: My Angel Eugen |
 | zelda102 ::{ flag=US }:: | 1 | **4** | ::{ flag=NL }:: **Mr HeliX** |
 
 Sunday, 16 July 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **Rucker** ::{ flag=TW }:: | **4** | 2 | ::{ flag=NL }:: Synchrostar |
 
 Monday, 17 July 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | Mara ::{ flag=FI }:: | 2 | **4** | ::{ flag=US }:: **Vaxei** |
 | **Toy** ::{ flag=US }:: | **4** | 0 | ::{ flag=FR }:: akwari |
@@ -311,25 +311,25 @@ Monday, 17 July 2017:
 
 Tuesday, 4 July 2017:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | **My Angel Eugen** ::{ flag=RU }:: | **1** | 0 | ::{ flag=HU }:: scuoa | *forfeit* |
 
 Wednesday, 5 July 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | Jollumi ::{ flag=FI }:: | 2 | **4** | ::{ flag=PL }:: **fartownik** |
 
 Thursday, 6 July 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **Toy** ::{ flag=US }:: | **4** | 0 | ::{ flag=US }:: crippletoytl |
 
 Friday, 7 July 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **Rucker** ::{ flag=TW }:: | **4** | 1 | ::{ flag=ES }:: Betwin |
 | **zelda102** ::{ flag=US }:: | **4** | 2 | ::{ flag=CZ }:: hohol454 |
@@ -338,13 +338,13 @@ Friday, 7 July 2017:
 
 Saturday, 8 July 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **Vaxei** ::{ flag=US }:: | **4** | 0 | ::{ flag=NL }:: jackylam5 |
 
 Sunday, 9 July 2017:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | **Mara** ::{ flag=FI }:: | **1** | 0 | ::{ flag=DE }:: Blegie | *forfeit* |
 | abateur ::{ flag=FR }:: | 0 | **4** | ::{ flag=SI }:: **Krom1** |  |
@@ -354,7 +354,7 @@ Sunday, 9 July 2017:
 
 Monday, 10 July 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **-Lolisim-** ::{ flag=US }:: | **4** | 2 | ::{ flag=US }:: exc |
 | **Jerome** ::{ flag=GB }:: | **4** | 0 | ::{ flag=US }:: [Hope] |
@@ -363,28 +363,28 @@ Monday, 10 July 2017:
 
 Tuesday, 27 June 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | \[ Scarlet Red \] ::{ flag=US }:: | 0 | **4** | ::{ flag=US }:: **Toy** |
 | **zelda102** ::{ flag=US }:: | **4** | 0 | ::{ flag=GB }:: OskaRRRitoS |
 
 Wednesday, 28 June 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **fartownik** ::{ flag=PL }:: | **4** | 0 | ::{ flag=CO }:: xfxsnake |
 | n0ah ::{ flag=NL }:: | 2 | **4** | ::{ flag=CA }:: **- Auto -** |
 
 Thursday, 29 June 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **Betwin** ::{ flag=ES }:: | **4** | 3 | ::{ flag=CZ }:: RiLiD |
 | Doomsday ::{ flag=GB }:: | 1 | **4** | ::{ flag=NL }:: **swerro** |
 
 Friday, 30 June 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | Weed ::{ flag=US }:: | 1 | **4** | ::{ flag=TW }:: **Rucker** |
 | YokesPai ::{ flag=NO }:: | 2 | **4** | ::{ flag=US }:: **crippletoytl** |
@@ -393,7 +393,7 @@ Friday, 30 June 2017:
 
 Saturday, 1 July 2017:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | Kaplan ::{ flag=CZ }:: | 2 | **4** | ::{ flag=US }:: **exc** |  |
 | Hranolka ::{ flag=SI }:: | 3 | **4** | ::{ flag=US }:: **-Lolisim-** |  |
@@ -408,7 +408,7 @@ Saturday, 1 July 2017:
 
 Sunday, 2 July 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | **Jollumi** ::{ flag=FI }:: | **4** | 0 | ::{ flag=SE }:: Nitroz |
 | **-GN** ::{ flag=NO }:: | **4** | 1 | ::{ flag=DE }:: jez from the 6 |
@@ -418,7 +418,7 @@ Sunday, 2 July 2017:
 
 Monday, 3 July 2017:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | **My Angel Eugen** ::{ flag=RU }:: | **4** | 3 | ::{ flag=US }:: crushsquids |  |
 | iok144 ::{ flag=RU }:: | 1 | **4** | ::{ flag=NL }:: **jackylam5** |  |
@@ -427,7 +427,7 @@ Monday, 3 July 2017:
 
 Tuesday, 4 July 2017:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | Ora ::{ flag=US }:: | 0 | 0 | ::{ flag=US }:: Palace | *no-show* |
 
@@ -435,7 +435,7 @@ Tuesday, 4 July 2017:
 
 Wednesday, 21 June 2017:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | **-Lolisim-** ::{ flag=US }:: | **3** | 1 | ::{ flag=HK }:: Coni |  |
 | **abateur** ::{ flag=FR }:: | **3** | 1 | ::{ flag=DK }:: stevenDANK |  |
@@ -453,7 +453,7 @@ Wednesday, 21 June 2017:
 
 Thursday, 22 June 2017:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | **Kaifin** ::{ flag=CA }:: | **3** | 0 | ::{ flag=CA }:: xXD4rk\_Sl4y3rXx |  |
 | **Krom1** ::{ flag=SI }:: | **3** | 2 | ::{ flag=CO }:: crisco13 |  |
@@ -465,7 +465,7 @@ Thursday, 22 June 2017:
 
 Friday, 23 June 2017:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | MomiG ::{ flag=FI }:: | 0 | **1** | ::{ flag=MY }:: **TheRandomBeat** | *forfeit* |
 | Anq ::{ flag=FI }:: | 1 | **3** | ::{ flag=CZ }:: **hohol454** |  |
@@ -481,7 +481,7 @@ Friday, 23 June 2017:
 
 Saturday, 24 June 2017:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | **Pelzio** ::{ flag=GB }:: | **1** | 0 | ::{ flag=NZ }:: -Akito | *forfeit* |
 | **Hranolka** ::{ flag=SI }:: | **3** | 1 | ::{ flag=FR }:: Skyo |  |
@@ -501,7 +501,7 @@ Saturday, 24 June 2017:
 
 Sunday, 25 June 2017:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | **Blegie** ::{ flag=DE }:: | **1** | 0 | ::{ flag=FR }:: Cubensis | *forfeit* |
 | remaglebb ::{ flag=SI }:: | 0 | **3** | ::{ flag=US }:: **\[Hope\]** |  |
@@ -519,7 +519,7 @@ Sunday, 25 June 2017:
 
 Monday, 26 June 2017:
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
 | djsettle ::{ flag=GB }:: | 1 | **3** | ::{ flag=FI }:: **Mara** |
 | ExploXd ::{ flag=CZ }:: | 0 | **3** | ::{ flag=CZ }:: **Kaplan** |
@@ -527,7 +527,7 @@ Monday, 26 June 2017:
 
 Tuesday, 27 June 2017:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | **Joezapy** ::{ flag=US }:: | **3** | 0 | ::{ flag=GB }:: Doomsday Is Bad |  |
 | **Ora** ::{ flag=US }:: | **1** | 0 | ::{ flag=IT }:: Rainfall | *forfeit* |

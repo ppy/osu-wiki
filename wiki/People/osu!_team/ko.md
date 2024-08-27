@@ -39,11 +39,12 @@ tags:
 | ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web 개발자 |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [모더레이터](/wiki/People/Global_Moderation_Team), 모딩 및 매핑 자문가 |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [osu! 유튜브 채널](https://www.youtube.com/@osugame) 호스트, [Mappers' Guild](/wiki/Community/Mappers_Guild) 주최자, [공식 아티스트](/wiki/People/Featured_Artists) 지원 |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | [NAT](/wiki/People/Nomination_Assessment_Team) 리더 |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | 모딩 및 매핑 자문가 |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [모더레이터](/wiki/People/Global_Moderation_Team), [위키 관리자](/wiki/People/osu!_wiki_maintainers) |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | 총괄 관리자 |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | osu! 개발자, osu!mania 애호가, 버그 관련 담당자 |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | osu! 개발자 |
+| ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | 디자이너 |
 | ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) | osu! 인프라 개발자 |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | 총괄 관리자, 토너먼트 보조 |
 | ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | 총괄 관리자, 빗자루 청소부 |

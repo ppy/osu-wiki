@@ -8,19 +8,20 @@ tags:
   - No Mod
   - FreeMod
   - Free Mod
+  - modificador de juego
   - modificador del juego
   - visión general
   - lista de mods
-  - Mods libres
+  - mods libres
 ---
 
-# Modificador de juego
+# Modificador del juego
 
 *Para otros usos, véase [Mod (desambiguación)](/wiki/Disambiguation/Mod).*
 
 ![Pantalla de selección de mods](img/mod-selection-screen.jpg "comparación entre las pantallas de selección de mods de los modos de juego osu! (arriba a la izquierda), osu!taiko (arriba a la derecha), osu!catch (abajo a la izquierda) y osu!mania (abajo a la derecha)")
 
-Los **modificadores de juego** (o «mods» para abreviar) son modificaciones opcionales de los elementos y ajustes de un [beatmap](/wiki/Beatmap) que los jugadores pueden habilitar desde la `Pantalla de selección de mods` (arriba). Los mods pueden hacer los beatmaps más fáciles, más difíciles o simplemente divertidos.
+Los **modificadores del juego** (o «mods» para abreviar) son modificaciones opcionales de los elementos y ajustes de un [beatmap](/wiki/Beatmap) que los jugadores pueden habilitar desde la `Pantalla de selección de mods` (arriba). Los mods pueden hacer los beatmaps más fáciles, más difíciles o simplemente divertidos.
 
 Los jugadores pueden acceder a la `Pantalla de selección de mods` en la pantalla de selección de canciones haciendo clic en el botón `Mods` cerca de la esquina inferior izquierda de la pantalla o presionando `F1` en su teclado. Una vez en la `Pantalla de selección de mods`, también hay atajos de teclado que pueden ser usados para seleccionar mods específicos. Estos atajos pueden ser cambiados en Opciones.
 
@@ -28,7 +29,7 @@ En la pantalla de selección, los mods se separan en tres categorías: `Reducci�
 
 ## Lista de mods
 
-*Véase también: [Resumen (Modificador de Juego)](/wiki/Gameplay/Game_modifier/Summary)*
+*Véase también: [Resumen (Modificador del juego)](/wiki/Gameplay/Game_modifier/Summary)*
 
 Cada uno de los mods enumerados a continuación tendrá el icono de sus modos de juego compatibles (![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]) al lado.
 
@@ -73,13 +74,13 @@ Cada uno de los mods enumerados a continuación tendrá el icono de sus modos de
 
 ### Términos relacionados
 
-#### NoMod
+#### No Mod
 
-En los partidos de [torneos](/wiki/Tournaments), **NoMod** (***NM***) se refiere a no usar ningún mod. Muchos torneos requieren que se usen algunos mods de forma predeterminada como parte de sus reglas o formato, como [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) o [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2), que se convierten en excepciones a esta noción.
+En los partidos de [torneos](/wiki/Tournaments), **No Mod** (***NM***) se refiere a no usar ningún mod. Muchos torneos requieren que se usen algunos mods de forma predeterminada como parte de sus reglas o formato, como [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) o [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2), que se convierten en excepciones a esta noción.
 
-#### FreeMod
+#### Free Mod
 
-En los partidos de [torneos](/wiki/Tournaments), **FreeMod** (***FM***) se refiere a ser libre de elegir cualquier mod o combinación de mods. Algunos torneos también proporcionan reglas que especifican criterios adicionales, como qué mods están permitidos y en qué combinaciones, o si no se permite tener mods cuando se especifica FreeMod.
+En los partidos de [torneos](/wiki/Tournaments), **Free Mod** (***FM***) se refiere a ser libre de elegir cualquier mod o combinación de mods. Algunos torneos también proporcionan reglas que especifican criterios adicionales, como qué mods están permitidos y en qué combinaciones, o si no se permite tener mods cuando se especifica Free Mod.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

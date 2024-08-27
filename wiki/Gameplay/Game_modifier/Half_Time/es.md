@@ -5,13 +5,15 @@ tags:
   - mod
   - game modifier
   - HT
+  - modificador de juego
+  - modificador del juego
 ---
 
 # Half Time (mod)
 
 ![Icono del mod HT](/wiki/shared/mods/HT.png "Icono del mod Half Time (HT)")
 
-*Para una lista completa de mods, véase: [Modificador de juego](/wiki/Gameplay/Game_modifier)*
+*Para una lista completa de mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*
 
 ## Acerca de
 
@@ -28,7 +30,7 @@ tags:
 
 *Nota: El método usado para ralentizar la canción podría causar que el sonido suene raro o robótico.*
 
-El mod **Half Time** es un [modificador de juego](/wiki/Gameplay/Game_modifier) que ralentiza la velocidad general del [beatmap](/wiki/Beatmap) (BPM) a un 75 % del original, incrementa la longitud de la canción en un 33 %, y disminuye la [velocidad de aproximación (AR)](/wiki/Beatmap/Approach_rate), la [dificultad general (OD)](/wiki/Beatmap/Overall_difficulty), y la [vida (HP)](/wiki/Gameplay/Health) por una pequeña cantidad.
+El mod **Half Time** es un [modificador del juego](/wiki/Gameplay/Game_modifier) que ralentiza la velocidad general del [beatmap](/wiki/Beatmap) (BPM) a un 75 % del original, incrementa la longitud de la canción en un 33 %, y disminuye la [velocidad de aproximación (AR)](/wiki/Beatmap/Approach_rate), la [dificultad general (OD)](/wiki/Beatmap/Overall_difficulty), y la [vida (HP)](/wiki/Gameplay/Health) por una pequeña cantidad.
 
 ### osu!taiko
 

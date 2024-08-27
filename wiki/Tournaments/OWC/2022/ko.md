@@ -652,7 +652,7 @@ osu! 월드컵 2022는 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 ### 맵풀 정보
 
 1. 모든 스테이지에는 고유한 맵풀이 있습니다
-2. 각 맵풀은 [No Mod](/wiki/Gameplay/Game_modifier#nomod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), [FreeMod](/wiki/Gameplay/Game_modifier#freemod)로 구성되어 있습니다.
+2. 각 맵풀은 [No Mod](/wiki/Gameplay/Game_modifier#no-mod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), [FreeMod](/wiki/Gameplay/Game_modifier#free-mod)로 구성되어 있습니다.
 3. 맵풀별 비트맵의 개수는 다음과 같습니다:
    - 퀄리파이어: 11개의 비트맵
    - 32강과 16강: 15개의 비트맵

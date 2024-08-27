@@ -1,72 +1,119 @@
----
-outdated_translation: true
-outdated_since: eae3775c73509625064d00690d2fd605d3a8da2f
----
-
 # Convertirse en Beatmap Nominator
 
 Los usuarios interesados en unirse a los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) deben pasar por un proceso de solicitud supervisado por el [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT).
 
-Las solicitudes se realizan a través del [sitio web del NAT](http://bn.mappersguild.com/bnapps).
+Las solicitudes se realizan a través del [sitio web de los BN](https://bn.mappersguild.com/bnapps).
 
-Los solicitantes deben cumplir con un umbral mínimo de [kudosu](/wiki/Modding/Kudosu), enviar al menos dos mapas que hayan moddeado recientemente y completar una [prueba de Beatmap Nominator](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) en los [criterios de clasificación](/wiki/Ranking_criteria) para enviar su solicitud. Se enviará un mensaje del NAT una vez que se haya decidido un veredicto. Puede encontrar más información sobre la aplicación en el sitio web.
+Los solicitantes deben cumplir con una cierta cantidad de [kudosu](/wiki/Modding/Kudosu) y enviar tres [beatmaps](/wiki/Beatmap) que hayan [modeado](/wiki/Modding) recientemente, además de responder a ciertas preguntas sobre ellos. Se enviará un mensaje del NAT una vez que se haya decidido un veredicto. Se puede encontrar más información sobre la solicitud [en el sitio web](https://bn.mappersguild.com/bnapps).
 
 ## Criterios básicos
 
-Los modders que deseen postularse para los Beatmap Nominators deben cumplir con los siguientes criterios:
+Los modders que deseen postularse para los Beatmap Nominators deben:
 
-- Han acumulado al menos 200 [kudosu](/wiki/Modding/Kudosu) para modders de osu!, o 150 [kudosu](/wiki/Modding/Kudosu) para modders de osu!taiko/osu!catch/osu!mania.
-- Proporcionan 3 de sus mods que creen que los calificarían para ser parte de los Beatmap Nominators.
-  - Los miembros anteriores del BN/NAT pueden enviar un mínimo de 2 mods para su solicitud.
+- Tener al menos 150 [kudosu](/wiki/Modding/Kudosu).
+- No haber infringido las [normas de la comunidad de osu!](/wiki/Rules) en los últimos 12 meses.
+- Tener la capacidad de reconocer beatmaps que deberían (y no deberían) ser nominados.
 
-### Expectativas de modding
+## Cualidades a demostrar en el modding
 
-Los mods enviados deben mostrar que un usuario es capaz de analizar y mejorar los mapas a un ajuste estándar para los Beatmap Nominators.
+*Véase también: [Errores de modding comunes](/wiki/Guides/Common_modding_mistakes) y [Guía de modding de osu!mania](/wiki/Guides/osu!mania_modding_guide)*
 
-Los siguientes son los rasgos de modding que se esperan de los Beatmap Nominators. La falta de mostrar cualquiera de estos rasgos puede resultar en una solicitud rechazada.
+Los mods enviados deben mostrar que un usuario es capaz de reconocer los beatmaps que deben y no deben ser nominados, además de analizar y mejorar los beatmaps hasta un nivel adecuado para los Beatmap Nominators.
 
-- **Cobertura de todos los niveles de dificultad**
-- **Identificación de problemas que no se pueden clasificar, incluidos los que las herramientas no pueden detectar, como metadatos o tiempos incorrectos**
-- **Comparación entre partes de un mapa para respaldar problemas o sugerencias**
-- **Comentarios sobre una amplia variedad de elementos del mapa, como ritmo, espaciado, movimiento, intensidad, contraste y consistencia**
+Estas son las cualidades que se esperan de los Beatmap Nominators en el modding:
+
+- **Cobertura de todos los niveles de dificultad comunes.**
+  - La mayoría de los beatmaps tendrán una distribución de [dificultades](/wiki/Beatmap/Difficulty) que van desde Easy hasta Expert, por lo que los Beatmap Nominators deben ser competentes en modding de dichas dificultades. No se requieren habilidades de modding en dificultades de niveles extremadamente altos.
+- **Identificación de problemas no clasificables, incluidos aquellos que las herramientas no pueden detectar, como temporización o metadatos incorrectos.**
+- **Comparación entre partes de un beatmap para respaldar problemas o sugerencias.**
+  - Hacer referencia a otras partes del beatmap es útil para mantener las sugerencias en línea con los estilos e ideas originales que el mapper tiene en su mapa.
+- **Comentarios sobre una amplia variedad de elementos de un beatmap, como el [ritmo](/wiki/Music_theory/Rhythm), espaciado, movimiento, intensidad, contraste y consistencia.**
+  - Si bien se anima a los Beatmap Nominators a pedir ayuda cuando sea necesario, deberían poder juzgar casi todos los aspectos del mapping de forma independiente a un nivel decente.
 - **Identificación de problemas aislados y problemas generales en todo el mapa**
-- **Consideración de las intenciones de los mappers al identificar problemas y dar sugerencias**
+- **Consideración de las intenciones de los mappers al identificar problemas y dar sugerencias.**
+  - Evita sugerir tus propios estilos o preferencias de mapeo si contradicen el estilo previsto por el mapper. Si hay un problema relacionado con el estilo del mapper, intenta enmarcar tus sugerencias en torno a lo que pretendían originalmente.
+- **Capacidad para hacer sugerencias útiles y detectar errores para mappers con distintos niveles de experiencia.**
+  - Los Beatmap Nominators a menudo tratarán con mappers muy experimentados o mapas de alta calidad que pueden no requerir mucha retroalimentación. Por lo tanto, es importante poder detectar errores y sugerir mejoras incluso para los mappers más experimentados.
+  - Para la solicitud, no se recomienda enviar mods en mapas de mappers principiantes que carezcan de los fundamentos. En cambio, los mods enviados deben estar en mapas que estén listos para que un BN los vea.
+- **Comunicación clara con el mapper.**
+  - Las publicaciones de mods deben explicar el problema y la solución de la manera más clara y concisa posible para evitar confundir al mapper, o incluso que tu sugerencia se aplique incorrectamente. En general, también se debe evitar la terminología especializada.
 
-### Cómo se eligen los nuevos potenciales Beatmap Nominators
+## Proceso de solicitud
 
-- Los modders serán evaluados por los miembros del NAT correspondientes al modo de juego que solicitaron, teniendo en cuenta los siguientes criterios:
-  - Actitud general: Tono de entrega de los mods y otras expectativas de comportamiento del [código de conducta](/wiki/Rules/Code_of_conduct_for_modding_and_mapping), así como comportamiento general en chat/foros.
-  - Habilidades de modding: Conocimiento de los criterios generales de clasificación y criterios específicos de cada modo de juego.
-- Después de evaluar a cada modder, se realizará una discusión sobre si el modder se unirá a los Beatmap Nominators.
+![Diagrama del flujo de una solicitud](img/bn-application-flowchart-ES.png "Diagrama del flujo que describe el proceso de una solicitud para Beatmap Nominator")
+
+Los usuarios deben enviar tres beatmaps que hayan modeado en los últimos 6 meses, cada uno con un [anfitrión](/wiki/Beatmap/Beatmap_host) diferente.
+
+- **Un mod en un mapa que está listo para ser nominado (o listo para ser nominado después de que se aplique el mod).**
+  - Esto tiene como objetivo mostrar la capacidad del solicitante para llevar a cabo los pasos finales del proceso de modding y evaluar de forma independiente la preparación de un mapa para la clasificación.
+  - Este mapa debe tener 0 nominaciones cuando se envíe la solicitud.
+  - El solicitante debe describir brevemente por qué el mapa está listo (o casi listo) para ser nominado.
+- **Un mod en un mapa que NO está listo para ser nominado sin mejoras significativas.**
+  - Esto tiene como objetivo mostrar la capacidad del solicitante para identificar problemas, su capacidad de comunicación y su comprensión de los estándares de los mapas clasificados.
+  - Este mapa debe incluir una distribución que tenga al menos las dificultades Normal, Hard e Insane.
+  - El solicitante debe explicar brevemente por qué el mapa NO está listo para ser nominado, mientras usa sus mods para respaldar sus motivos.
+- **Un mod en un mapa que demuestre que el solicitante es capaz de juzgar la calidad del mapa y la preparación para su clasificación.**
+  - Los solicitantes son libres de elegir un mapa que nominarían o no nominarían.
+  - Este mapa debe tener 0 nominaciones cuando se envíe la solicitud.
+  - Esto le da al solicitante la oportunidad de rellenar cualquier hueco que falte en su solicitud, teniendo en cuenta las intenciones expresadas en las descripciones de los envíos anteriores.
+  - El solicitante debe describir brevemente por qué el mapa está (o no) listo para ser nominado.
+
+Es una buena práctica conservar y enviar una copia del mapa antes de aplicar los mods, ya que ello ayudará notablemente a la evaluación de su modding al ofrecer un mejor contexto a los evaluadores.
+
+Además, las solicitudes se pueden marcar como disponibles para el público, lo que hará que aparezcan en el [archivo de evaluaciones públicas](https://bn.mappersguild.com/publicarchive). Los usuarios pueden optar libremente por activar o desactivar esta opción cambiando el estado de visibilidad de cualquier evaluación que tengan en [su página de evaluaciones](https://bn.mappersguild.com/yourevals).
+
+Cuando un usuario solicita convertirse en un BN, el NAT será notificado a través del bot de Discord «bnsite» en su respectivo canal de Discord. La notificación incluirá el nombre del solicitante y el enlace de la evaluación, así como qué evaluadores han sido asignados a la solicitud.
+
+Una barra de progreso en la [página de la solicitud](https://bn.mappersguild.com/bnapps) detalla en qué paso se encuentra actualmente la evaluación.
+
+![barra de progreso de la solicitud](img/app-progress-bar.png "Barra de progreso de la solicitud")
+
+Luego, los evaluadores pueden revisar la solicitud completa en el sitio web de los BN, que incluye cualquier información enviada por el solicitante, así como un registro histórico de evaluaciones pasadas si el usuario ha solicitado o ha sido un BN anteriormente.
+
+La evaluación se divide en dos etapas: *individual* y *grupal*.
+
+### Etapa individual
+
+Durante la *etapa individual*, que dura como máximo 7 días, se asignan aleatoriamente 3 evaluadores a la solicitud. A veces, se invita a los BN a actuar como evaluadores, pero siempre habrá al menos un NAT asignado.
+
+Los evaluadores revisarán la solicitud y evaluarán el desempeño y la conducta en modding del solicitante. Por lo general, anotarán las publicaciones positivas y negativas en los mods. Luego, cada evaluador votará «aprobado», «neutral» o «suspendido» por la solicitud.
+
+Los solicitantes serán evaluados según los siguientes criterios:
+
+- **Modding:**
+  - Conocimiento de los [criterios de clasificación](/wiki/Ranking_criteria) generales y específicos de cada [modo de juego](/wiki/Game_mode).
+  - Presencia de las [cualidades](#cualidades-a-demostrar-en-el-modding) recomendadas en sus mods.
+  - Respuestas a las preguntas sobre cada mod enviado.
+  - Habilidades adicionales relacionadas con los metadatos, temporización y otras áreas diversas.
+- **Actitud general:**
+  - Tono de entrega de los mods y otras expectativas de la conducta según el [código de conducta](/wiki/Rules/Code_of_conduct_for_modding_and_mapping).
+  - Comportamiento general en chat/foros.
+
+Todos los comentarios y votos de los evaluadores en esta etapa están ocultos para los demás evaluadores.
+
+### Etapa grupal
+
+La *etapa grupal* dura como máximo hasta 14 días después de que el solicitante envió su solicitud, la cual avanza a esta etapa cuando:
+
+- Todos los evaluadores asignados han presentado su evaluación individual.
+- La mayoría de los evaluadores han presentado su evaluación individual, donde han suspendido por unanimidad al solicitante.
+
+En esta etapa, los comentarios y votos de cada evaluador se revelan a los demás evaluadores, y en caso de un veredicto ambiguo, discutirán hasta llegar a un consenso.
+
+A continuación, se escriben comentarios adicionales para añadir cualquier información que falte en el informe de los evaluadores y el resultado de la solicitud es enviado de vuelta al solicitante por el [Nomination Assessment Team bot](https://osu.ppy.sh/users/6616586) como un [mensaje de anuncio](/wiki/Announcement_messages), tras lo cual la evaluación será archivada para referencia futura. Los solicitantes seleccionados se añaden como BN de prueba inmediatamente después de que se envía el resultado.
+
+## Comunicación posterior a la solicitud
+
+Una vez completada la solicitud, el solicitante dispone de una interfaz que le permite chatear directamente con los evaluadores a través del sitio web de los BN para hacer preguntas sobre el consenso de su solicitud y los comentarios de los evaluadores.
+
+El chat se bloquea automáticamente después de 7 días de inactividad.
+
+![Chat de comentarios](img/feedback-chat.png "La interfaz del chat de comentarios")
 
 ## Tiempos de espera
 
-Dependiendo de su estado, su tiempo de espera antes de que pueda volver a aplicar puede variar.
+Hay un tiempo de espera de 60 días para volver a aplicar en las siguientes ocasiones:
 
-### Solicitudes fallidas
-
-Tienes estos requisitos si no pasaste una solicitud de Beatmap Nominator y vuelves a presentar la solicitud.
-
-| Tipo | Tiempo de espera |
-| :-- | :-- |
-| Estándar | 90 días |
-| Reducido | 45–60 días |
-| Falló la [prueba de Beatmap Nominator](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) | 30 días |
-
-### Volver a unirse después de haber sido eliminado de los Beatmap Nominators
-
-Los usuarios que abandonaron recientemente los Beatmap Nominators pueden tener diferentes requisitos para volver a unirse en comparación con cuando se unieron por primera vez. Para los usuarios que han tenido un buen desempeño antes de irse, es posible que puedan volver a unirse con requisitos relajados o sin ningún requisito. El NAT informará al usuario si tiene la oportunidad de acelerar su camino de regreso a los Beatmap Nominators.
-
-Si antes era Beatmap Nominator, estos requisitos se aplican a menos que haya fallado una solicitud desde la última vez que fue Beatmap Nominator.
-
-El requisito de 8 mods para aquellos que solicitan después de ser eliminados por actividad se comparte en todos los modos.
-
-| Tipo | Tiempo de espera | Requisitos de actividad |
-| :-- | :-- | :-- |
-| Estándar | 60 days | *n/a* |
-| Actividad | 30 days | 8 mods en 60 días |
-| Buena | 30 days | *n/a* |
-
-Los antiguos Beatmap Nominators que renunciaron en buenos términos en los últimos 6 meses tienen la opción de solicitar instantáneamente volver a unirse como miembros completos, sin tener que realizar la [prueba de Beatmap Nominator](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test), ni proporcionar mods para la evaluación.
-
-Los antiguos Beatmap Nominators que renunciaron en buenos términos durante el año pasado todavía tienen que volver a presentar la solicitud correctamente para volver a unirse, y se convertirán en miembros completos inmediatamente después de ser aceptados.
+- Solicitudes fallidas
+- Ser retirado de los Beatmap Nominators
+- [Renunciar en buenos términos](/wiki/People/Nomination_Assessment_Team/Evaluations#términos-estándar)

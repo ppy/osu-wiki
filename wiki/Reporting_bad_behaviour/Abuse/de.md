@@ -1,6 +1,6 @@
 ---
+outdated_since: 5f603d93877d6b915ce864a793df5f4a7fbc2a33
 outdated_translation: true
-outdated_since: e2b7d14ed888df1d0027f3acec928c9fd55e60a5
 ---
 
 # Missbrauch melden
@@ -13,12 +13,9 @@ Wenn es dir unangenehm genug ist, diese Seite zu lesen, kontaktiere uns bitte so
 
 Wir haben null Toleranz gegenüber jeglicher Art von unerwünschter sexueller Belästigung oder Annäherung in dieser Community.
 
-Die E-Mail-Adresse für Missbrauch wird nur von diesen beiden Benutzern gesehen:
+Die E-Mail-Adresse für Missbrauch wird nur von [peppy](https://osu.ppy.sh/users/2) (dem Erfinder des Spiels) angesehen.
 
-- [peppy](https://osu.ppy.sh/users/2) (der Erfinder des Spiels)
-- [Ephemeral](https://osu.ppy.sh/users/102335) (der Community-Manager)
-
-Nichts, was du an [abuse@ppy.sh](mailto:abuse@ppy.sh) sendest, wird jemals mit jemand anderem als diesen beiden Personen geteilt werden.
+Nichts, was du an [abuse@ppy.sh](mailto:abuse@ppy.sh) sendest, wird jemals mit jemand anderem als ihm geteilt werden.
 
 ## Jemand hat mir gegenüber unangebrachte sexuelle Annäherungen oder Bemerkungen gemacht!
 
@@ -36,7 +33,7 @@ Wenn du der Meinung bist, dass die Bemerkungen/Annäherungen höchst unangemesse
 
 Melde den Beitrag so schnell wie möglich einem Mitglied des [Globalen Moderationsteams](/wiki/People/Global_Moderation_Team).
 
-Klicke dazu auf den Benutzernamen eines beliebigen GMT-Mitglieds in der Liste auf dieser Seite. Dadurch gelangst du zu dessen Profil. Wenn du unsicher bist, auf wen du klicken sollst, verwende stattdessen einfach [diesen Link](https://osu.ppy.sh/users/102335).
+Klicke dazu auf den Benutzernamen eines beliebigen GMT-Mitglieds in der Liste auf dieser Seite. Dadurch gelangst du zu dessen Profil. Wenn du unsicher bist, auf wen du klicken sollst, verwende stattdessen einfach [diesen Link](https://osu.ppy.sh/users/5999631).
 
 Klicke auf die Schaltfläche mit einem Briefumschlag direkt unter der Landesflagge des Benutzers. Damit gelangst du zum Chat-Fenster.
 

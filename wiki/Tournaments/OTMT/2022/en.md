@@ -256,13 +256,13 @@ This competition has come to an end and resulted in the following podium:
 Saturday, 26 November 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | --: | :-: | :--- | :---: |
+| --: | --: | :-: | :-- | :-: |
 | JyaKeii ::{ flag=MY }:: | 1 | **7** | ::{ flag=MY }:: **HHVanilla Ice** | [#1](https://osu.ppy.sh/community/matches/105290868) |
 
 Saturday, 27 November 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | --: | :-: | :--- | :---: |
+| --: | --: | :-: | :-- | :-: |
 | CrabCow ::{ flag=MY }:: | 5 | **7** | ::{ flag=MY }:: **HHVanilla Ice** | [#1](https://osu.ppy.sh/community/matches/105313589) |
 | HHVanilla Ice ::{ flag=MY }:: | 6 | **7** | ::{ flag=MY }:: **CrabCow** | [#1](https://osu.ppy.sh/community/matches/105314827) |
 
@@ -271,13 +271,13 @@ Saturday, 27 November 2022:
 Saturday, 19 November 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | --: | :-: | :--- | :---: |
+| --: | --: | :-: | :-- | :-: |
 | **vernonlim** ::{ flag=MY }:: | **7** | 4 | ::{ flag=MY }:: HenNEET | [#1](https://osu.ppy.sh/community/matches/105157104) |
 
 Sunday, 20 November 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | --: | :-: | :--- | :---: |
+| --: | --: | :-: | :-- | :-: |
 | vun ::{ flag=MY }:: | 3 | **7** | ::{ flag=MY }:: **HHVanilla Ice** | [#1](https://osu.ppy.sh/community/matches/105175090) |
 | vernonlim ::{ flag=MY }:: | 2 | **7** | ::{ flag=MY }:: **HHVanilla Ice** | [#1](https://osu.ppy.sh/community/matches/105175090) |
 | JyaKeii ::{ flag=MY }:: | 6 | **7** | ::{ flag=MY }:: **CrabCow** | [#1](https://osu.ppy.sh/community/matches/105180263) |
@@ -287,7 +287,7 @@ Sunday, 20 November 2022:
 Saturday, 12 November 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | --: | :-: | :--- | :---: |
+| --: | --: | :-: | :-- | :-: |
 | **K0rd31HP** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: DXA FonG | [#1](https://osu.ppy.sh/community/matches/105007846) |
 | **HenNEET** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: Megumin-Sama | [#1](https://osu.ppy.sh/community/matches/105008568) |
 | **Ping7731** ::{ flag=MY }:: | **6** | 2 | ::{ flag=MY }:: Fury Dragon | [#1](https://osu.ppy.sh/community/matches/105009207) |
@@ -297,7 +297,7 @@ Saturday, 12 November 2022:
 Sunday, 13 November 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | --: | :-: | :--- | :---: |
+| --: | --: | :-: | :-- | :-: |
 | K0rd31HP ::{ flag=MY }:: | 5 | **6** | ::{ flag=MY }:: **HHVanilla Ice** | [#1](https://osu.ppy.sh/community/matches/105031748) |
 | Ping7731 ::{ flag=MY }:: | 1 | **6** | ::{ flag=MY }:: **HenNEET** | [#1](https://osu.ppy.sh/community/matches/105034919) |
 | vun ::{ flag=MY }:: | 5 | **6** | ::{ flag=MY }:: **CrabCow** | [#1](https://osu.ppy.sh/community/matches/105035590) |
@@ -307,7 +307,7 @@ Sunday, 13 November 2022:
 Saturday, 5 November 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | --: | :-: | :--- | :---: |
+| --: | --: | :-: | :-- | :-: |
 | **Megumin-Sama** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: PollyDoggo | [#1](https://osu.ppy.sh/community/matches/104867722) |
 | 5oulpoint ::{ flag=MY }:: | -1 | **0** | ::{ flag=MY }:: **Admirable** | *WBD* |
 | HHVanilla Ice ::{ flag=MY }:: | 0 | **6** | ::{ flag=MY }:: **JyaKeii** | [#1](https://osu.ppy.sh/community/matches/104872046) |
@@ -318,7 +318,7 @@ Saturday, 5 November 2022:
 Sunday, 6 November 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | --: | :-: | :--- | :---: |
+| --: | --: | :-: | :-- | :-: |
 | HenNEET ::{ flag=MY }:: | 2 | **6** | ::{ flag=MY }:: **vun** | [#1](https://osu.ppy.sh/community/matches/104895179) |
 | pisu ::{ flag=MY }:: | 2 | **6** | ::{ flag=MY }:: **Fury Dragon** | [#1](https://osu.ppy.sh/community/matches/104899742) |
 
@@ -327,7 +327,7 @@ Sunday, 6 November 2022:
 Saturday, 29 October 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | --: | :-: | :--- | :---: |
+| --: | --: | :-: | :-- | :-: |
 | **HenNEET** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: DXA FonG | [#1](https://osu.ppy.sh/community/matches/104717113) |
 | **HHVanilla Ice** ::{ flag=MY }:: | **5** | 1 | ::{ flag=MY }:: pisu | [#1](https://osu.ppy.sh/community/matches/104717619) |
 | Megumin-Sama ::{ flag=MY }:: | 0 | **5** | ::{ flag=MY }:: **K0rd31HP** | [#1](https://osu.ppy.sh/community/matches/104720469) |
@@ -338,7 +338,7 @@ Saturday, 29 October 2022:
 Sunday, 30 October 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | --: | :-: | :--- | :---: |
+| --: | --: | :-: | :-- | :-: |
 | **vun** ::{ flag=MY }:: | **5** | 4 | ::{ flag=MY }:: Kirowlet | [#1](https://osu.ppy.sh/community/matches/104744976) |
 | PollyDoggo ::{ flag=MY }:: | 0 | **5** | ::{ flag=MY }:: **vernonlim** | [#1](https://osu.ppy.sh/community/matches/104747846) |
 
@@ -347,19 +347,19 @@ Sunday, 30 October 2022:
 Thursday, 20 October 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | --: | :-: | :--- | :---: |
+| --: | --: | :-: | :-- | :-: |
 | **CrabCow** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: Agagak | [#1](https://osu.ppy.sh/community/matches/104538537) |
 
 Friday, 21 October 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | --: | :-: | :--- | :---: |
+| --: | --: | :-: | :-- | :-: |
 | **CrabCow Fanboy** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: Agagak | [#1](https://osu.ppy.sh/community/matches/104556227) |
 
 Saturday, 22 October 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | --: | :-: | :--- | :---: |
+| --: | --: | :-: | :-- | :-: |
 | **Admirable** ::{ flag=MY }:: | **0** | -1 | ::{ flag=MY }:: zhev | *WBD* |
 | K0rd31HP ::{ flag=MY }:: | 2 | **5** | ::{ flag=MY }:: **Kirowlet** | [#1](https://osu.ppy.sh/community/matches/104574010) |
 | **vernonlim** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: DXA FonG | [#1](https://osu.ppy.sh/community/matches/104574603) |
@@ -381,7 +381,7 @@ Saturday, 22 October 2022:
 Sunday, 23 October 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | --: | :-: | :--- | :---: |
+| --: | --: | :-: | :-- | :-: |
 | **K0rd31HP** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: Axorite | [#1](https://osu.ppy.sh/community/matches/104597465) |
 | vun ::{ flag=MY }:: | 1 | **5** | ::{ flag=MY }:: **Megumin-Sama** | [#1](https://osu.ppy.sh/community/matches/104597464) |
 | **Megumin-Sama** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: shaofoong | [#1](https://osu.ppy.sh/community/matches/104598457) |

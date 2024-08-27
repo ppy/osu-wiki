@@ -508,7 +508,7 @@ Monday, 25 May 2020:
 ### Qualifiers rules
 
 1. The match lobby will be created by the referee. Team captains will receive invites; if the team captain is not available, then the referee will invite any player that is online. The invited player has the responsibility to invite their team into the lobby.
-2. Teams have **10 minutes** past the start time to join the lobby. If teams fail to join within the alloted time, the captain is responsible to reschedule their team to another lobby.
+2. Teams have **10 minutes** past the start time to join the lobby. If teams fail to join within the allotted time, the captain is responsible to reschedule their team to another lobby.
 3. The maps will be played in the order as they are listed on the sheet **twice**. The team's best attempt on each map will be taken.
 4. In the event of any disconnection, the player(s) who disconnect will be allowed to replay the map after the lobby by themselves.
 5. 2 players from each team must be present on each map, and teams are free to switch in or out players between maps. Teams may play with different players on the second attempt of the map.
@@ -521,7 +521,7 @@ Monday, 25 May 2020:
 1. The match lobby will be created by the referee. Team captains will receive invites; if the team captain is not available, then the referee will invite any player that is online. The invited player has the responsibility to invite their team into the lobby.
 2. Once all players have joined, captain will be asked to `!roll`. The winner of the `!roll` may elect to pick first of pick second. Warmups are allowed, up to a maximum of **4:30** total time (it can be longer if everyone in the lobby agrees with it). It doesn't really matter who picks the warmups first.
 3. Once warmups are over, the captain on both players' teams will `!roll` for pick and ban order. The higher `!roll` will **ban second and pick first**.
-4. Teams have 90 seconds to select a map; if they fail to choose in the alloted time, the map choice will pass to the other team. This will have no effect on the order of picks afterward. The same condition applies for bans.
+4. Teams have 90 seconds to select a map; if they fail to choose in the allotted time, the map choice will pass to the other team. This will have no effect on the order of picks afterward. The same condition applies for bans.
 5. Once the map choice is locked in, playes will have 90 seconds to ready up. The referee will start the match when all players are ready. If the 90 seconds timer ends, the referee will force an `!mp start 15` command, and the match will start with whoever is in the lobby.
 6. NoFail mod will be enforced on all maps, to prevent teamfails from happening.
 7. In the case of a Tiebreaker, both player will `!roll`. The higher `!roll` will get the first ban, while the lower `!roll` bans the seconds Tiebreaker. The teams will play the last remaining Tiebreaker.

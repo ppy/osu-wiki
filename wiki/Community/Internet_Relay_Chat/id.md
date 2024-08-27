@@ -45,7 +45,7 @@ Pada dasarnya, beberapa klien IRC memberitahumu ketika seorang pengguna bergabun
 
 | IRC client | Deskripsi |
 | :-- | :-- |
-| [HexChat](https://hexchat.github.io/) | Cek "Hide join and part messages" dibawah `Settings` -> `Preferences` -> `Chatting` -> `General` (Advanced pre-2.9.6)  |
+| [HexChat](https://hexchat.github.io/) | Cek "Hide join and part messages" dibawah `Settings` -> `Preferences` -> `Chatting` -> `General` (Advanced pre-2.9.6) |
 | [ircII](http://www.eterna.com.au/ircii/) | Ketik `IGNORE * CRAP` |
 | [Irssi](https://irssi.org) | Ketik `/ignore * JOINS PARTS QUITS` |
 | [Weechat](https://weechat.org/) | Ketik `/filter add joinquit * irc_join,irc_part,irc_quit *` |

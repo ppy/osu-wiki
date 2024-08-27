@@ -27,7 +27,7 @@ The main series of osu!academy serves as a general introduction to the broad wor
 | 7-3 | [Grids](https://www.youtube.com/watch?v=MhIuPvQjLbU) | [ztrot](https://osu.ppy.sh/users/6347) explains how to adjust the size of the grid in the beatmap editor. |
 | 8 | [Hitsounds](https://www.youtube.com/watch?v=PFEYlQfiJHQ) | [ztrot](https://osu.ppy.sh/users/6347) explains what hitsounds are, and goes over the basics of hitsounding. |
 | 9 | [Modding Part 1](https://www.youtube.com/watch?v=bTGBspoMFVA) | [ztrot](https://osu.ppy.sh/users/6347) covers the basics of modding by explaining the beatmap ranking process and how to get your beatmap modded. |
-| 10 | [Modding Part 2](https://www.youtube.com/watch?v=bTGBspoMFVA) | [ztrot](https://osu.ppy.sh/users/6347) reviews the basics of modding once again, and showcases various tools used in the modding process. |
+| 10 | [Modding Part 2](https://www.youtube.com/watch?v=SFSwmRdNbXM) | [ztrot](https://osu.ppy.sh/users/6347) reviews the basics of modding once again, and showcases various tools used in the modding process. |
 | 11 | [Gameplay Mods and Tips to Improve in Standard](https://www.youtube.com/watch?v=j8fpJKCjTvM) | [ztrot](https://osu.ppy.sh/users/6347) covers available game modifiers, and presents tips on how to improve in the osu! mode. |
 | 12 | [Taiko Mapping Basics](https://www.youtube.com/watch?v=8reEFNk5kQY) | [ztrot](https://osu.ppy.sh/users/6347) covers the basics of creating beatmaps for the osu!taiko mode. |
 | 13 | [Customizing the look of osu! skins](https://www.youtube.com/watch?v=oUvCBsGyTtw) | [ztrot](https://osu.ppy.sh/users/6347) goes over the concept of skinning, and explains how to customise the look of osu!. |

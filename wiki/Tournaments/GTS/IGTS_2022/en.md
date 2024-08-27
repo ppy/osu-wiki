@@ -69,7 +69,7 @@ The Intermediate Global Taiko Showdown 2022 was run by various community members
 
 ## Participants
 
-| | Team | Members |
+|  | Team | Members |
 | :-: | :-- | :-- |
 | ::{ flag=AR }:: | **Argentina A** | **[galogk](https://osu.ppy.sh/users/7781648)**, [LemonDust](https://osu.ppy.sh/users/8065042), [Playersesamol](https://osu.ppy.sh/users/9288649) |
 | ::{ flag=AR }:: | **Argentina B** | **[Santi199](https://osu.ppy.sh/users/9346502)**, [Alan Reaven](https://osu.ppy.sh/users/5422789), [hivstex](https://osu.ppy.sh/users/14597896), [VIolE\_](https://osu.ppy.sh/users/19213988) |

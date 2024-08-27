@@ -1,0 +1,35 @@
+no_native_review: true
+
+separator: ", "
+alumni:
+  roles:
+    academy: sáng lập osu!academy
+    admin: quản trị viên
+    chat: quản lý chat
+    dev: osu!dev
+    media: sáng tạo nội dung cho osu!media
+    support: hỗ trợ kỹ thuật
+    tournaments: quản lý giải đấu
+gmt:
+  all_mods: tất cả kiểm duyệt viên
+  areas:
+    beatmap: kiểm duyệt beatmap
+    chat: kiểm duyệt chat
+    forum: kiểm duyệt diễn đàn
+    general: kiểm duyệt chung
+    team: đại diện chính thức
+    dev: osu!dev
+    player: hỗ trợ người chơi
+    support: hỗ trợ kỹ thuật
+    tournaments: quản lý giải đấu
+    wiki: quản lý wiki
+    mapping: kiểm duyệt mảng mapping/modding
+    skinning: kiểm duyệt mảng skinning
+    leadership: trưởng nhóm
+nat:
+  subgroups:
+    structural: bộ phận tổ chức
+    evaluation: bộ phận đánh giá
+    leadership: trưởng nhóm
+languages:
+  partial: một chút <language>

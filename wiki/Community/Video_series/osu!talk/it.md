@@ -18,7 +18,7 @@ La serie di podcast è impostata in modo che chiunque sia libero di partecipare 
 | 6 | [JAKACHAN](https://osu.ppy.sh/users/718696) | Giocatore professionista di osu! | [Link](https://www.youtube.com/watch?v=WXFMggx94e0) |
 | 7 | [Daru](https://osu.ppy.sh/users/32480) | osu!painter | [Link](https://www.youtube.com/watch?v=eBFaLRXmfYc) |
 | 8 | [peppy](https://osu.ppy.sh/users/2) | osu!creator | [Link](https://www.youtube.com/watch?v=x7vdW5uZutU) |
-| 9 | [Cyclone](https://osu.ppy.sh/users/18589) | Giocatore pensionato/membro del team  | [Link](https://www.youtube.com/watch?v=jPUSY0FMw2E) |
+| 9 | [Cyclone](https://osu.ppy.sh/users/18589) | Giocatore pensionato/membro del team | [Link](https://www.youtube.com/watch?v=jPUSY0FMw2E) |
 | 10 | [thelewa](https://osu.ppy.sh/users/475021) | Giocatore professionista di osu! | [Link](https://www.youtube.com/watch?v=N7P-J-5LJzk) |
 | 11 | [WubWoofWolf](https://osu.ppy.sh/users/39828) | Giocatore professionista di osu! | [Link](https://www.youtube.com/watch?v=XYzKlfvQt-w) |
 | 12 | [Ephemeral](https://osu.ppy.sh/users/102335) | Manager del Team pensionato | [Link](https://www.youtube.com/watch?v=eXWmjo0-oyM) |
@@ -28,7 +28,7 @@ La serie di podcast è impostata in modo che chiunque sia libero di partecipare 
 | 16 | [OnosakiHito](https://osu.ppy.sh/users/290128) | QAT | [Link](https://www.youtube.com/watch?v=ZYby7r3YNPg) |
 | 17 | [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter | [Link](https://www.youtube.com/watch?v=kSotXmkCN4I) |
 | 18 | [Andrea](https://osu.ppy.sh/users/33599) | Membro pensionato del GMT/BN | [Link](https://www.youtube.com/watch?v=dKEOVBiljdc) |
-| 19 | [Doomsday](https://osu.ppy.sh/users/18983) | Giocatore professionista di osu!  | [Link](https://www.youtube.com/watch?v=0C74QeEcn_4) |
+| 19 | [Doomsday](https://osu.ppy.sh/users/18983) | Giocatore professionista di osu! | [Link](https://www.youtube.com/watch?v=0C74QeEcn_4) |
 | 20 | [Tom94](https://osu.ppy.sh/users/1857058) | Sviluppatore | [Link](https://www.youtube.com/watch?v=ONnUrG4jrto) |
 | 21 | [Flanster](https://osu.ppy.sh/users/447818) | GMT | [Link](https://www.youtube.com/watch?v=nvGP5x9ZseM) |
 | 21.5 | [Blue Dragon](https://osu.ppy.sh/users/19048) | Mapper | [Link](https://puu.sh/cmOO3/a737a268da.mp3) |

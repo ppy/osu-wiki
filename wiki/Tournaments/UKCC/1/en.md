@@ -21,7 +21,7 @@ The **UK Community Cup** (***UKCC***) was a 1v1 double-elimination British osu! 
 | Round of 16 | 2016-07-09/2016-07-10 |
 | Quarterfinals | 2016-07-16/2016-07-17 |
 | Semifinals | 2016-07-23/2017-07-24 |
-| Finals  | 2016-07-30/2016-07-31 |
+| Finals | 2016-07-30/2016-07-31 |
 | Grand Finals | 2016-08-06/2016-08-07 |
 
 ## Organisation

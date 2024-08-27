@@ -15,7 +15,7 @@ After much testing and discussion by the osu-dev community, the cumulative chang
 ## Deployment schedule
 
 | Task | Estimated Time | Progress |
-|:--|:-:|:-:|
+| :-- | :-: | :-: |
 | Update beatmap star ratings | 30h | Done |
 | Update users' scores performance | 12h | Done |
 | Re-index users' top ranks | 3h | Done |

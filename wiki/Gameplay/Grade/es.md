@@ -17,7 +17,7 @@ tags:
 
 Las **grados** son un conjunto de letras que representan el rendimiento de un jugador en un [beatmap](/wiki/Beatmap) dado. Acompañan a la [puntuación](/wiki/Gameplay/Score) total en la pantalla de resultados y aparecen en todas las listas junto a las puntuaciones.
 
-De menor a mayor, los grados posibles son D, C, B, A, S y SS. Los grados Silver S y SS solo se pueden lograr cuando se usan los modificadores de juego [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) o [Fade In](/wiki/Gameplay/Game_modifier/Fade_In).
+De menor a mayor, los grados posibles son D, C, B, A, S y SS. Los grados Silver S y SS solo se pueden lograr cuando se usan los modificadores del juego [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) o [Fade In](/wiki/Gameplay/Game_modifier/Fade_In).
 
 ## osu!
 

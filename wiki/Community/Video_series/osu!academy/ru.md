@@ -38,7 +38,7 @@ outdated_translation: true
 | [![](img/academy-7-3.png)](https://www.youtube.com/watch?v=MhIuPvQjLbU) | В этом эпизоде мы узнаем о сетке, и как она может помочь в маппинге! |
 | [![](img/academy-8.png)](https://www.youtube.com/watch?v=PFEYlQfiJHQ) | В этом эпизоде мы поймём всю значимость хитсаундов! |
 | [![](img/academy-9.png)](https://www.youtube.com/watch?v=bTGBspoMFVA) | В этом эпизоде мы поговорим о моддинге карт! |
-| [![](img/academy-10.png)](https://www.youtube.com/watch?v=bTGBspoMFVA) | В этом эпизоде мы продолжим говорить о моддинге карт! |
+| [![](img/academy-10.png)](https://www.youtube.com/watch?v=SFSwmRdNbXM) | В этом эпизоде мы продолжим говорить о моддинге карт! |
 | [![](img/academy-11.png)](https://www.youtube.com/watch?v=j8fpJKCjTvM) | В этом эпизоде мы расскажем некоторые советы для игры в стандарт! |
 | [![](img/academy-12.png)](https://www.youtube.com/watch?v=8reEFNk5kQY) | В этом эпизоде мы посмотрим, как делать карты, но уже для тайко! |
 | [![](img/academy-13.png)](https://www.youtube.com/watch?v=oUvCBsGyTtw) | В этом эпизоде мы увидим, как скины могут изменить osu! |

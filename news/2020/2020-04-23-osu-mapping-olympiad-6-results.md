@@ -10,23 +10,23 @@ Apples, oranges, bananas and... waffles? The results for the second osu!catch Ma
 
 In [this installment of the Mapping Olympiad contest](https://osu.ppy.sh/community/contests/90), the community was tasked with creating two osu!catch difficulties for [*MYLK*](https://osu.ppy.sh/beatmaps/artists/62)'s Waffle Wave. One of the two difficulties was required to be of a lower playing skill level (Easy, Normal or Hard), with the other being for players of a higher skill level (Insane or Expert). The results can be seen below:
 
-| Rank | Username      | Entry Name           | Musical Relevance (60) | Creativity (60) | Technique (60) | Impression (30) | Hitsounding (30) | Total Score |
-|------|---------------|----------------------|------------------------|-----------------|----------------|-----------------|------------------|-------------|
-| #1   | alienflybot   | Nippy Opossum        | 47                     | 39.5            | 47             | 23              | 20.5             | **177**     |
-| #2   | Sinnoh        | Clever Heron         | 46                     | 45              | 42.5           | 22.5            | 18               | **174**     |
-| #3   | Yumeno Himiko | Arctic Raccoon       | 42.5                   | 41.5            | 39             | 18.5            | 21               | **162.5**   |
-| #4   | rew0825       | Illegal Bluebird     | 47.5                   | 35.5            | 41.5           | 19.5            | 17.5             | **161.5**   |
-| #5   | Nelly         | Zigzag Sea Lion      | 44.5                   | 37              | 42.5           | 19              | 18               | **161**     |
-| #6   |  Jemzuu       | Gracious Whale       | 43                     | 37              | 40.5           | 20              | 19               | **159.5**   |
-| #7   | -Luminate     | Orderly Gecko        | 41                     | 36.5            | 39.5           | 18.5            | 18               | **153.5**   |
-| #8   | Ilhamuharam   | Diligent Pelican     | 37                     | 34.5            | 35.5           | 17.5            | 17.5             | **142**     |
-| #9   | Xinely        | Naughty Eagle        | 40                     | 32              | 36             | 17.5            | 10               | **135.5**   |
-| #10  | dika312       | Fumbling Turtle      | 34                     | 33              | 34.5           | 16              | 13.5             | **131**     |
-| #11  | Mafumafu      | Snarling Rattlesnake | 36.5                   | 27.5            | 33.5           | 14              | 15               | **126.5**   |
-| #12  | Rocma         | Extra-Large Unicorn  | 31.5                   | 33              | 27.5           | 13              | 14               | **124**     |
-| #13  | Acyl          | Self-Assured Iguana  | 32.5                   | 29              | 24.5           | 13.5            | 16.5             | **116**     |
-| #14  | Absolute Zero | Bitter Pheasant      | 34                     | 26.5            | 24             | 13.5            | 0                | **98**      |
-| #15  | ts8zs         | Hasty Gopher         | 15.5                   | 15              | 12             | 7               | 10.5             | **60**      |
+| Rank | Username | Entry Name | Musical Relevance (60) | Creativity (60) | Technique (60) | Impression (30) | Hitsounding (30) | Total Score |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| #1 | alienflybot | Nippy Opossum | 47 | 39.5 | 47 | 23 | 20.5 | **177** |
+| #2 | Sinnoh | Clever Heron | 46 | 45 | 42.5 | 22.5 | 18 | **174** |
+| #3 | Yumeno Himiko | Arctic Raccoon | 42.5 | 41.5 | 39 | 18.5 | 21 | **162.5** |
+| #4 | rew0825 | Illegal Bluebird | 47.5 | 35.5 | 41.5 | 19.5 | 17.5 | **161.5** |
+| #5 | Nelly | Zigzag Sea Lion | 44.5 | 37 | 42.5 | 19 | 18 | **161** |
+| #6 | Jemzuu | Gracious Whale | 43 | 37 | 40.5 | 20 | 19 | **159.5** |
+| #7 | -Luminate | Orderly Gecko | 41 | 36.5 | 39.5 | 18.5 | 18 | **153.5** |
+| #8 | Ilhamuharam | Diligent Pelican | 37 | 34.5 | 35.5 | 17.5 | 17.5 | **142** |
+| #9 | Xinely | Naughty Eagle | 40 | 32 | 36 | 17.5 | 10 | **135.5** |
+| #10 | dika312 | Fumbling Turtle | 34 | 33 | 34.5 | 16 | 13.5 | **131** |
+| #11 | Mafumafu | Snarling Rattlesnake | 36.5 | 27.5 | 33.5 | 14 | 15 | **126.5** |
+| #12 | Rocma | Extra-Large Unicorn | 31.5 | 33 | 27.5 | 13 | 14 | **124** |
+| #13 | Acyl | Self-Assured Iguana | 32.5 | 29 | 24.5 | 13.5 | 16.5 | **116** |
+| #14 | Absolute Zero | Bitter Pheasant | 34 | 26.5 | 24 | 13.5 | 0 | **98** |
+| #15 | ts8zs | Hasty Gopher | 15.5 | 15 | 12 | 7 | 10.5 | **60** |
 
 Edging past the competition and securing **first place** is [**alienflybot**](https://osu.ppy.sh/users/636114) with a total score of **177**! alienflybot's experience shone through in the execution and enjoyability of their Platter and Rain difficulties, topping the judges scorecards for the Technique and Impression categories. Their entry also came in second by merely a whisker in the Musical Relevance and Hitsounding categories, and was judge Sc4v4nger's favourite pick. Congratulations to a veteran mapper of over five years on joining the ranks of osu!'s Elite Mappers at last!
 

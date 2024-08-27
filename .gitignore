@@ -8,4 +8,10 @@ node_modules/
 /.osu-wiki-bin*
 
 # local vscode config files
-.vscode
+/.vscode/*
+
+# un-ignore vscode extension recommendations
+!/.vscode/extensions.json
+
+# un-ignore vscode workspace settings
+!/.vscode/settings.json

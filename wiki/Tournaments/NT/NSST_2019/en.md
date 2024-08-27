@@ -535,7 +535,7 @@ Sunday, 9 June 2019:
 
 Monday, 10 June 2019:
 
-| |  |  |  |  |
+|  |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Reedkatt ::{ flag=SE }:: | 2 | **6** | ::{ flag=AU }:: **Dumii** | [#1](https://osu.ppy.sh/community/matches/52511821) |
 | Tekkito ::{ flag=US }:: | **6** | 2 | ::{ flag=RO }:: eternum | [#1](https://osu.ppy.sh/community/matches/52520463) |

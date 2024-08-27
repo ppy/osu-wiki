@@ -12,7 +12,7 @@ Si eres nuevo en la osu! wiki, puedes leer más sobre esto en la [guía de contr
 
 ## Ayuda a mantener osu! amigable y seguro
 
-Para mantener la seguridad de los centros oficiales de la comunidad, osu! tiene un equipo de moderación dedicado que supervisa los foros y los chats en línea las 24 horas.
+Para mantener la seguridad de los centros oficiales de la comunidad, osu! tiene un equipo de moderación dedicado, el [Global Moderation Team](/wiki/People/Global_Moderation_Team), que supervisa los foros y los chats en línea las 24 horas del día.
 
 Afortunadamente, todavía es fácil para ti ayudar a mantener todo seguro aquí. Las siguientes son solo algunas de las muchas formas en que puedes ayudar:
 
@@ -21,7 +21,7 @@ Afortunadamente, todavía es fácil para ti ayudar a mantener todo seguro aquí.
 
 ## Ayuda a otros miembros de la comunidad
 
-Si te encuentras con alguien que tiene un problema con el juego, ¡échale una mano! Ya sea que se trate de un problema con el controlador, una pregunta sobre el beatmap o una pregunta sobre el juego, si puedes responderla, puedes ayudar a la persona a resolver su problema.
+Si te encuentras con alguien que tiene un problema con el juego, ¡échale una mano! Ya sea que se trate de un problema con el controlador, una pregunta sobre un beatmap o una pregunta sobre el juego, si puedes responderla, puedes ayudar a la persona a resolver su problema.
 
 A continuación se describe cómo puedes comenzar a ayudar a otros en el foro:
 
@@ -60,7 +60,7 @@ A continuación se presentan algunas de las formas en que puedes contribuir:
 - Ve lo que está pasando en el foro [Development](https://osu.ppy.sh/community/forums/2); allí es donde suceden los proyectos más serios.
   - ¡Únete al [servidor de Discord osu!](https://discord.gg/ppy)! Incluso simplemente siguiendo y manteniéndote actualizado con el desarrollo de osu! y proyectos es una buena manera de mantenerte informado.
 - ¡Únete a un [proyecto de beatmap](https://osu.ppy.sh/community/forums/53) y aprende lo divertido que puede ser colaborar con otros!
-- ¡Comienza tu propio proyecto o únete a alguien más! Ya sea traer de vuelta a pippi bailando, o simplemente hacer algo genial para osu!, ¡cualquier cosa es aceptada!
+- ¡Comienza tu propio proyecto o únete al de otra persona! Ya sea traer de vuelta a pippi bailando, o simplemente hacer algo genial para osu!, ¡cualquier cosa es aceptada!
   - Consulta una [lista de proyectos populares](/wiki/Community/Projects).
 
 ## Contribuye al futuro de osu!

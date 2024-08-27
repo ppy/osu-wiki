@@ -44,15 +44,15 @@ run_test() {
 
 cd -- "$(dirname "$0")/.."
 
-changed_files="$(
-  {
-    git diff --diff-filter=d --name-only --no-renames master
-    git ls-files --exclude-standard --others
-  } | sort -u
-)"
+changed_files="$(mktemp)"
+{
+  git diff --diff-filter=d --name-only --no-renames -z master
+  git ls-files --exclude-standard --others -z
+} | \
+  sort -uz >"$changed_files"
 
-printf '%s\n' "$changed_files" | run_test 'file size' xargs -r meta/check-file-sizes.sh
-printf '%s\n' "$changed_files" | grep '\.md$' | run_test Remark xargs -r meta/remark.sh
+run_test 'file size' xargs -0r meta/check-file-sizes.sh <"$changed_files"
+grep -z '\.md$' <"$changed_files" | run_test Remark xargs -0r meta/remark.sh
 run_test 'YAML style' osu-wiki-tools check-yaml
 run_test link osu-wiki-tools check-links --all
 

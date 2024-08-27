@@ -75,7 +75,7 @@ This competition has come to an end and resulted in the following podium:
 | Placing | Player |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=RO }:: [Rohulk](https://osu.ppy.sh/users/3219026)  |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=RO }:: [Rohulk](https://osu.ppy.sh/users/3219026) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808) |
 
 ## Mappools
@@ -253,7 +253,7 @@ This competition has come to an end and resulted in the following podium:
 
 Sunday, 29 October 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Rohulk ::{ flag=RO }:: | 5 | **7** | ::{ flag=GB }:: **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/37140825) |
 | Rohulk ::{ flag=RO }:: | 3 | **7** | ::{ flag=GB }:: **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/37144171) |
@@ -262,7 +262,7 @@ Sunday, 29 October 2017:
 
 Saturday, 28 October 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Karthy ::{ flag=GB }:: | 1 | **7** | ::{ flag=GB }:: **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/37116996) |
 
@@ -272,7 +272,7 @@ Saturday, 28 October 2017:
 
 Sunday, 22 October 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Karthy ::{ flag=GB }:: | 4 | **6** | ::{ flag=RO }:: **Rohulk** | *N/A* |
 
@@ -280,14 +280,14 @@ Sunday, 22 October 2017:
 
 Saturday, 21 October 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Bubbleman** ::{ flag=GB }:: | **6** | 0 | ::{ flag=US }:: zelda101 | [#1](https://osu.ppy.sh/community/matches/36951319) |
 | Electovoid ::{ flag=GB }:: | 4 | **6** | ::{ flag=GB }:: **helix** | [#1](https://osu.ppy.sh/community/matches/36951279) |
 
 Sunday, 22 October 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Bubbleman** ::{ flag=GB }:: | **6** | 0 | ::{ flag=GB }:: helix | *N/A* |
 
@@ -297,7 +297,7 @@ Sunday, 22 October 2017:
 
 Saturday, 14 October 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Rohulk** ::{ flag=RO }:: | **6** | 2 | ::{ flag=US }:: zelda101 | [#1](https://osu.ppy.sh/community/matches/36790717) |
 | helix ::{ flag=GB }:: | 3 | **6** | ::{ flag=GB }:: **Karthy** | [#1](https://osu.ppy.sh/community/matches/36793534) |
@@ -306,13 +306,13 @@ Saturday, 14 October 2017:
 
 Saturday, 14 October 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Bubbleman** ::{ flag=GB }:: | **6** | 1 | ::{ flag=GB }:: My Angel Tyron | [#1](https://osu.ppy.sh/community/matches/36797611) |
 
 Sunday, 15 October 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | djsettle ::{ flag=GB }:: | 3 | **6** | ::{ flag=GB }:: **Electovoid** | *N/A* |
 | **OPJames** ::{ flag=GB }:: | **6** | 0 | ::{ flag=GB }:: Pelzio | [#1](https://osu.ppy.sh/community/matches/36821319) |
@@ -326,20 +326,20 @@ Sunday, 15 October 2017:
 
 Friday, 6 October 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Rohulk** ::{ flag=RO }:: | **5** | 0 | ::{ flag=GB }:: Jerome | [#1](https://osu.ppy.sh/community/matches/36599938) |
 | djsettle ::{ flag=GB }:: | 2 | **5** | ::{ flag=US }:: **Zelda101** | [#1](https://osu.ppy.sh/community/matches/36600730) |
 
 Saturday, 7 October 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Bubbleman ::{ flag=GB }:: | 3 | **5** | ::{ flag=GB }:: **Helix** | [#1](https://osu.ppy.sh/community/matches/36626262) |
 
 Friday, 13 October 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | OPJames ::{ flag=GB }:: | 0 | **5** | ::{ flag=GB }:: **Karthy** | [#1](https://osu.ppy.sh/community/matches/36763412) |
 
@@ -347,13 +347,13 @@ Friday, 13 October 2017:
 
 Thursday, 5 October 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **gilmat** ::{ flag=NO }:: | **5** | 0 | ::{ flag=GB }:: cfman29 | [#1](https://osu.ppy.sh/community/matches/36574123) |
 
 Saturday, 7 October 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Mara** ::{ flag=FI }:: | **5** | 0 | ::{ flag=GB }:: icecream-chan | [#1](https://osu.ppy.sh/community/matches/36629530) |
 | **My Angel Tyron** ::{ flag=GB }:: | **5** | 0 | ::{ flag=CZ }:: NyarkoO | [#1](https://osu.ppy.sh/community/matches/36635284) |
@@ -363,7 +363,7 @@ Saturday, 7 October 2017:
 
 Sunday, 8 October 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Bae- ::{ flag=GB }:: | 0 | **5** | ::{ flag=NO }:: **gilmat** | [#1](https://osu.ppy.sh/community/matches/36658229) |
 | dong ::{ flag=GB }:: | 2 | **5** | ::{ flag=GB }:: **Electovoid** | [#1](https://osu.ppy.sh/community/matches/36664368) |
@@ -371,19 +371,19 @@ Sunday, 8 October 2017:
 
 Monday, 9 October 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Shaww** ::{ flag=GB }:: | **5** | 3 | ::{ flag=GB }:: feliciaforever | [#1](https://osu.ppy.sh/community/matches/36680508) |
 
 Friday, 13 October 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Pelzio** ::{ flag=GB }:: | **5** | 2 | ::{ flag=GB }:: Doomsday is Bad | [#1](https://osu.ppy.sh/community/matches/36766889) |
 
 Saturday, 14 October 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Shaww ::{ flag=GB }:: | 3 | **5** | ::{ flag=GB }:: **Pelzio** | [#1](https://osu.ppy.sh/community/matches/36795543) |
 
@@ -393,19 +393,19 @@ Saturday, 14 October 2017:
 
 Wednesday, 27 September 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **My Angel Yaz** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: dong | [#1](https://osu.ppy.sh/community/matches/36392589) |
 
 Thursday, 28 September 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Jerome** ::{ flag=GB }:: | **5** | 2 | ::{ flag=GB }:: My Angel Tyron | [#1](https://osu.ppy.sh/community/matches/36409067) |
 
 Saturday, 30 September 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Rohulk** ::{ flag=RO }:: | **5** | 0 | ::{ flag=FI }:: Mara | [#1](https://osu.ppy.sh/community/matches/36459612) |
 | Kardet ::{ flag=GB }:: | 3 | **5** | ::{ flag=GB }:: **Karthy** | [#1](https://osu.ppy.sh/community/matches/36463894) |
@@ -413,14 +413,14 @@ Saturday, 30 September 2017:
 
 Sunday, 1 October 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **djsettle** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: Shaww | [#1](https://osu.ppy.sh/community/matches/36492348) |
 | **Bubbleman** ::{ flag=GB }:: | **5** | 1 | ::{ flag=NO }:: gilmat | [#1](https://osu.ppy.sh/community/matches/36494308) |
 
 Saturday, 7 October 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Helix** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: Bae- | [#1](https://osu.ppy.sh/community/matches/36621352) |
 
@@ -428,14 +428,14 @@ Saturday, 7 October 2017:
 
 Thursday, 28 September 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Penda** ::{ flag=NO }:: | **5** | 2 | ::{ flag=GB }:: Pepsi Max | [#1](https://osu.ppy.sh/community/matches/36404831) |
 | Subject000016 ::{ flag=GB }:: | 3 | **5** | ::{ flag=GB }:: **Electovoid** | [#1](https://osu.ppy.sh/community/matches/36410501) |
 
 Saturday, 30 September 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Astergaster ::{ flag=IN }:: | 0 | **1** | ::{ flag=CZ }:: **NyarkoO** | *forfeit* |
 | Syncro ::{ flag=IL }:: | 4 | **5** | ::{ flag=GB }:: **icecream-chan** | [#1](https://osu.ppy.sh/community/matches/36462042) |
@@ -443,7 +443,7 @@ Saturday, 30 September 2017:
 
 Saturday, 30 September 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Feliciaforever** ::{ flag=GB }:: | **5** | 3 | ::{ flag=US }:: Joezapy | [#1](https://osu.ppy.sh/community/matches/36490851) |
 | lizzy-art ::{ flag=DE }:: | 0 | **5** | ::{ flag=FI }:: **Lefafel** | [#1](https://osu.ppy.sh/community/matches/36494411) |
@@ -453,27 +453,27 @@ Saturday, 30 September 2017:
 
 Wednesday, 20 September 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Kardet** ::{ flag=GB }:: | **4** | 1 | ::{ flag=IL }:: Syncro | [#1](https://osu.ppy.sh/community/matches/36226799) |
 
 Thursday, 21 September 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Shaww** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Pepsi Max | [#1](https://osu.ppy.sh/community/matches/36246080) |
 | **zelda101** ::{ flag=US }:: | **4** | 0 | ::{ flag=GB }:: cfman29 | [#1](https://osu.ppy.sh/community/matches/36247488) |
 
 Friday, 22 September 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Jerome** ::{ flag=GB }:: | **4** | 0 | ::{ flag=DE }:: Lizzy-art | [#1](https://osu.ppy.sh/community/matches/36272729) |
 | **dong** ::{ flag=GB }:: | **4** | 1 | ::{ flag=CZ }:: NyarkoO | [#1](https://osu.ppy.sh/community/matches/36273891) |
 
 Saturday, 23 September 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **My Angel Yaz** ::{ flag=GB }:: | **4** | 0 | ::{ flag=IN }:: Astergaster | [#1](https://osu.ppy.sh/community/matches/36300082) |
 | **Rohulk** ::{ flag=RO }:: | **4** | 0 | ::{ flag=AU }:: subject000016 | [#1](https://osu.ppy.sh/community/matches/36302136) |
@@ -483,7 +483,7 @@ Saturday, 23 September 2017:
 
 Sunday, 24 September 2017:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Pelzio** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: MagicMantwon | *forfeit* |
 | **gilmat** ::{ flag=NO }:: | **4** | 1 | ::{ flag=GB }:: Hydria | [#1](https://osu.ppy.sh/community/matches/36330053) |

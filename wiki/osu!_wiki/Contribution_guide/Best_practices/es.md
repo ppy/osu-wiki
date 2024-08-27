@@ -10,7 +10,7 @@ Esta página cubre algunas de las tareas que puedes enfrentar mientras contribuy
 
 ## Sincronizar la bifurcación
 
-Para realizar cambios en un repositorio ubicado en GitHub, un posible colaborador debe obtener una copia controlada llamada *bifurcación (fork)*. Cuando creas tu bifurcación del repositorio `osu-wiki`, tomas una instantánea de su contenido en ese mismo momento. Para hacer una contribución útil, **siempre sincroniza tu bifurcación** antes de realizar una serie de cambios; esto se puede hacer directamente desde GitHub:
+Para realizar cambios en un repositorio ubicado en GitHub, un posible contribuidor debe obtener una copia controlada llamada *bifurcación (fork)*. Cuando creas tu bifurcación del repositorio `osu-wiki`, tomas una instantánea de su contenido en ese mismo momento. Para hacer una contribución útil, **siempre sincroniza tu bifurcación** antes de realizar una serie de cambios; esto se puede hacer directamente desde GitHub:
 
 1. Ve a tu bifurcación del repositorio `osu-wiki`.
 
@@ -26,7 +26,7 @@ Ahora tu rama está actualizada con el repositorio original.
 
 Esta solución funciona bien en la mayoría de los casos, aunque la función en sí tiene capacidades limitadas. Por ejemplo, no permite sobrescribir ningún cambio no deseado en la rama, ya que solo fusiona la rama `master` anterior.
 
-Si encontraste algún problema al usar la herramienta GitHub o si deseas sobrescribir el contenido de tu rama, puedes usar el flujo de trabajo escrito por los colaboradores de la wiki de osu!.
+Si encontraste algún problema al usar la herramienta GitHub o si deseas sobrescribir el contenido de tu rama, puedes usar el flujo de trabajo escrito por los contribuidores de la wiki de osu!.
 
 1. Abre **tu bifurcación** y ve a la pestaña `Actions`.
 

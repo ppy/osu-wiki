@@ -17,8 +17,10 @@ Centurions are users who have achieved the prestigious milestone of creating **o
 | ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) | [2015-11-02](https://osu.ppy.sh/beatmapsets/329829) | [2019-10-31](https://osu.ppy.sh/beatmapsets/1009824) | [#1](https://osu.ppy.sh/beatmaps/packs/TM14) |
 | ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363) | [2007-10-25](https://osu.ppy.sh/beatmapsets/122) | [2010-08-04](https://osu.ppy.sh/beatmapsets/17885) |  |
 | ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | [2017-10-23](https://osu.ppy.sh/beatmapsets/659371) | [2022-07-09](https://osu.ppy.sh/beatmapsets/1738133) |  |
+| ::{ flag=AR }:: [gaston_2199](https://osu.ppy.sh/users/5938161) | [2016-12-25](https://osu.ppy.sh/beatmapsets/519474) | [2024-07-17](https://osu.ppy.sh/beatmapsets/1667712) | [#1](https://osu.ppy.sh/beatmaps/packs/TM20) |
 | ::{ flag=GR }:: [Genjuro](https://osu.ppy.sh/users/3196091) | [2019-04-10](https://osu.ppy.sh/beatmapsets/921130) | [2022-08-27](https://osu.ppy.sh/beatmapsets/1797642) | [#1](https://osu.ppy.sh/beatmaps/packs/TM1) |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [2020-03-09](https://osu.ppy.sh/beatmapsets/1112834) | [2023-08-28](https://osu.ppy.sh/beatmapsets/2031892) | [#1](https://osu.ppy.sh/beatmaps/packs/TM16) |
+| ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | [2013-06-13](https://osu.ppy.sh/beatmapsets/64564) | [2024-02-08](https://osu.ppy.sh/beatmapsets/2105591#osu/4418008) | [#1](https://osu.ppy.sh/beatmaps/packs/TM19) |
 | ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | [2015-11-12](https://osu.ppy.sh/beatmapsets/335145) | [2019-04-29](https://osu.ppy.sh/beatmapsets/956716) | [#1](https://osu.ppy.sh/beatmaps/packs/TM11), [#2](https://osu.ppy.sh/beatmaps/packs/TM12) |
 | ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812) | [2017-04-14](https://osu.ppy.sh/beatmapsets/540867) | [2023-08-23](https://osu.ppy.sh/beatmapsets/1852680) | [#1](https://osu.ppy.sh/beatmaps/packs/TM17) |
 | ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763) | [2017-03-13](https://osu.ppy.sh/beatmapsets/542755) | [2019-08-31](https://osu.ppy.sh/beatmapsets/894701) | [#1](https://osu.ppy.sh/beatmaps/packs/TM13) |
@@ -27,10 +29,11 @@ Centurions are users who have achieved the prestigious milestone of creating **o
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | [2018-12-11](https://osu.ppy.sh/beatmapsets/879904) | [2023-03-20](https://osu.ppy.sh/beatmapsets/1916502) | [#1](https://osu.ppy.sh/beatmaps/packs/TM2) |
 | ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | [2018-09-16](https://osu.ppy.sh/beatmapsets/826551) | [2022-12-30](https://osu.ppy.sh/beatmapsets/1348272) |  |
 | ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992) | [2015-12-13](https://osu.ppy.sh/beatmapsets/373858) | [2018-08-29](https://osu.ppy.sh/beatmapsets/809788) | [#1](https://osu.ppy.sh/beatmaps/packs/TM5), [#2](https://osu.ppy.sh/beatmaps/packs/TM6), [#3](https://osu.ppy.sh/beatmaps/packs/TM7) |
+| ::{ flag=PL }:: [Suimya](https://osu.ppy.sh/users/700887) | [2011-03-28](https://osu.ppy.sh/beatmapsets/26544) | [2024-08-01](https://osu.ppy.sh/beatmapsets/2106029) | [#1](https://osu.ppy.sh/beatmaps/packs/TM22) |
 | ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) | [2019-07-12](https://osu.ppy.sh/beatmapsets/965596) | [2023-10-07](https://osu.ppy.sh/beatmapsets/2023741) | [#1](https://osu.ppy.sh/beatmaps/packs/TM18) |
-| ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | [2009-03-09](https://osu.ppy.sh/beatmapsets/5417) | [2012-03-08](https://osu.ppy.sh/beatmapsets/44666) |  |
+| ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | [2009-03-09](https://osu.ppy.sh/beatmapsets/5417) | [2012-03-08](https://osu.ppy.sh/beatmapsets/44666) | [#1](https://osu.ppy.sh/beatmaps/packs/TM21) |
 
 ## Trivia
 
 - The first user to reach 100 Ranked beatmaps was ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363), on 4 August 2010.
-- Amongst all Centurions, it takes approximately **3.6 years** (around 1306 days) to rank 100 beatmaps on average.
+- Amongst all Centurions, it takes approximately **4.6 years** (around 1668 days) to rank 100 beatmaps on average.<!--Stats from https://docs.google.com/spreadsheets/d/1UK1QdaZawxJ75Q0ZwvSGb4zDcC19RumO7BwV0p9R-jM/edit?usp=sharing-->

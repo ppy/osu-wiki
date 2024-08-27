@@ -1,8 +1,6 @@
 ---
 no_native_review: true
 layout: main_page
-outdated_translation: true
-outdated_since: 24a3e2dd442d541ad1e64134b4ca7243b16fe038
 ---
 
 <div class="wiki-main-page__blurb">
@@ -103,7 +101,7 @@ Emplacements : [Forum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet
 
 [Tournois](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Concours](/wiki/Contests) • [Community mentorship program](/wiki/Community/Community_Mentorship_Program)
 
-[Projets](/wiki/Community/Projects) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [osu! community meetings](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk)
+[Projets](/wiki/Community/Projects) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [osu! community meetings](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [lazer updates](/wiki/Community/Video_series/lazer_updates)
 
 Organisations : [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -114,7 +112,7 @@ Organisations : [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 osu! n'aurait pas été possible sans la participation de nombreux utilisateurs au développement, à la maintenance et à la gestion de la communauté : leurs efforts, leur temps et leur dévouement permettent au jeu de vivre et de prospérer.
 
-[L'équipe](/wiki/People/osu!_team) • [Développeurs](/wiki/People/Developers) • [Featured Artists](/wiki/People/Featured_Artists) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Support Team](/wiki/People/Support_Team) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Project Loved Team](/wiki/People/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators)
+[L'équipe](/wiki/People/osu!_team) • [Développeurs](/wiki/People/Developers) • [Featured Artists](/wiki/People/Featured_Artists) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Équipe de support technique](/wiki/People/Technical_Support_Team) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Project Loved Team](/wiki/People/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators)
 
 [Contributeurs de la communauté](/wiki/People/Community_Contributors) • [Elite Nominators](/wiki/People/Elite_Nominators) • [Groupe d'utilisateurs](/wiki/People/User_group) • [Utilisateurs avec des titres uniques](/wiki/People/Users_with_unique_titles) • [Centurions](/wiki/People/Centurions) • [Completionists](/wiki/People/Completionists) • [Comité des tournois](/wiki/People/Tournament_Committee) • [Comité des points de performance](/wiki/People/Performance_Points_Committee) • [Maintainers de l'osu! wiki](/wiki/People/osu!_wiki_maintainers)
 
@@ -125,7 +123,7 @@ osu! n'aurait pas été possible sans la participation de nombreux utilisateurs 
 
 Interagissez avec osu! via d'autres applications et médias, ou aidez-la à se développer davantage.
 
-[API](/wiki/osu!api) • [Compte bot](/wiki/Bot_account) • [Directives d'identité de marque](/wiki/Brand_identity_guidelines) • [Serveur Discord osu!](/wiki/Community/osu!_Discord_server)
+[API](/wiki/osu!api) • [Compte bot](/wiki/Bot_account) • [Directives d'identité de marque](/wiki/Brand_identity_guidelines) • [Serveur Discord osu!](/wiki/Community/Discord_servers#official)
 
 </div>
 <div class="wiki-main-page-panel">

@@ -306,7 +306,7 @@ This competition has come to an end and resulted in the following podium:
 
 Sunday, 22 August 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Mathi ::{ flag=CL }:: | 4 | **7** | ::{ flag=AU }:: **mrekk** | [#1](https://osu.ppy.sh/community/matches/89650143) |
 | **mrekk** ::{ flag=AU }:: | **7** | 2 | ::{ flag=CL }:: Mathi | [#1](https://osu.ppy.sh/community/matches/89652797) |
@@ -315,7 +315,7 @@ Sunday, 22 August 2021:
 
 Saturday, 21 August 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **mrekk** ::{ flag=AU }:: | **7** | 5 | ::{ flag=GB }:: Bubbleman | [#1](https://osu.ppy.sh/community/matches/89607856) |
 
@@ -325,7 +325,7 @@ Saturday, 21 August 2021:
 
 Sunday, 8 August 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | mrekk ::{ flag=AU }:: | 6 | **7** | ::{ flag=CL }:: **Mathi** | [#1](https://osu.ppy.sh/community/matches/88861304) |
 
@@ -333,13 +333,13 @@ Sunday, 8 August 2021:
 
 Saturday, 7 August 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | im a fancy lad ::{ flag=US }:: | 4 | **7** | ::{ flag=GB }:: **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/88839759) |
 
 Sunday, 8 August 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Reedkatt** ::{ flag=SE }:: | **7** | 4 | ::{ flag=PL }:: Bartek22830 | [#1](https://osu.ppy.sh/community/matches/88890405) |
 
@@ -347,7 +347,7 @@ Sunday, 8 August 2021:
 
 Sunday, 8 August 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Reedkatt ::{ flag=SE }:: | 0 | **7** | ::{ flag=GB }:: **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/88957057) |
 
@@ -357,13 +357,13 @@ Sunday, 8 August 2021:
 
 Saturday, 31 July 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **mrekk** ::{ flag=AU }:: | **6** | 0 | ::{ flag=SE }:: Reedkatt | [#1](https://osu.ppy.sh/community/matches/88390248) |
 
 Tuesday, 3 August 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | im a fancy lad ::{ flag=US }:: | 2 | **6** | ::{ flag=CL }:: **Mathi** | [#1](https://osu.ppy.sh/community/matches/88605973) |
 
@@ -371,7 +371,7 @@ Tuesday, 3 August 2021:
 
 Saturday, 31 July 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Zylice ::{ flag=CA }:: | 0 | **6** | ::{ flag=US }:: **Exarch** | [#1](https://osu.ppy.sh/community/matches/88405033) |
 | **Bubbleman** ::{ flag=GB }:: | **6** | 1 | ::{ flag=US }:: Utami | [#1](https://osu.ppy.sh/community/matches/88415666) |
@@ -379,7 +379,7 @@ Saturday, 31 July 2021:
 
 Sunday, 1 August 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Arnold24X24** ::{ flag=PE }:: | **6** | 4 | ::{ flag=US }:: Tekkito | [#1](https://osu.ppy.sh/community/matches/88431037) |
 
@@ -387,13 +387,13 @@ Sunday, 1 August 2021:
 
 Saturday, 31 July 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Exarch ::{ flag=US }:: | 5 | **6** | ::{ flag=PL }:: **Bartek22830** | [#1](https://osu.ppy.sh/community/matches/88420359) |
 
 Sunday, 1 August 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Bubbleman** ::{ flag=GB }:: | **6** | 0 | ::{ flag=PE }:: Arnold24x24 | [#1](https://osu.ppy.sh/community/matches/88473281) |
 
@@ -403,14 +403,14 @@ Sunday, 1 August 2021:
 
 Friday, 23 July 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **im a fancy lad** ::{ flag=US }:: | **6** | 2 | ::{ flag=CA }:: Zylice | [#1](https://osu.ppy.sh/community/matches/87895566) |
 | Arnold24x24 ::{ flag=PE }:: | 4 | **6** | ::{ flag=SE }:: **Reedkatt** | [#1](https://osu.ppy.sh/community/matches/87943521) |
 
 Saturday, 24 July 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Bubbleman ::{ flag=GB }:: | 2 | **6** | ::{ flag=AU }:: **mrekk** | [#1](https://osu.ppy.sh/community/matches/87975293) |
 | Bartek22830 ::{ flag=PL }:: | 4 | **6** | ::{ flag=CL }:: **Mathi** | [#1](https://osu.ppy.sh/community/matches/87994910) |
@@ -419,13 +419,13 @@ Saturday, 24 July 2021:
 
 Friday, 23 July 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Rexeez ::{ flag=ID }:: | 1 | **6** | ::{ flag=US }:: **Tekkito** | [#1](https://osu.ppy.sh/community/matches/87903395) |
 
 Saturday, 24 July 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **FlyingTuna** ::{ flag=KR }:: | **1** | 0 | ::{ flag=US }:: headstack | *forfeit* |
 | **Mystia** ::{ flag=BR }:: | **6** | 4 | ::{ flag=TW }:: Rucker | [#1](https://osu.ppy.sh/community/matches/87983575) |
@@ -436,7 +436,7 @@ Saturday, 24 July 2021:
 
 Sunday, 25 July 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | AlmightyDoor ::{ flag=US }:: | 1 | **6** | ::{ flag=RU }:: **Leva\_Russian** | [#1](https://osu.ppy.sh/community/matches/88033813) |
 
@@ -444,7 +444,7 @@ Sunday, 25 July 2021:
 
 Sunday, 25 July 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | FlyingTuna ::{ flag=KR }:: | 1 | **6** | ::{ flag=US }:: **Utami** | [#1](https://osu.ppy.sh/community/matches/88023515) |
 | xootynator ::{ flag=CA }:: | 5 | **6** | ::{ flag=US }:: **Tekkito** | [#1](https://osu.ppy.sh/community/matches/88052533) |
@@ -452,7 +452,7 @@ Sunday, 25 July 2021:
 
 Monday, 26 July 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Pekocambing** ::{ flag=CL }:: | **6** | 2 | ::{ flag=RU }:: Leva\_Russian | [#1](https://osu.ppy.sh/community/matches/88094799) |
 
@@ -462,13 +462,13 @@ Monday, 26 July 2021:
 
 Saturday, 17 July 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Reedkatt** ::{ flag=SE }:: | **6** | 4 | ::{ flag=US }:: Exarch | [#1](https://osu.ppy.sh/community/matches/87562119) |
 
 Sunday, 18 July 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **mrekk** ::{ flag=AU }:: | **6** | 1 | ::{ flag=US }:: theez | [#1](https://osu.ppy.sh/community/matches/87597097) |
 | **im a fancy lad** ::{ flag=US }:: | **6** | 0 | ::{ flag=ID }:: Rexeez | [#1](https://osu.ppy.sh/community/matches/87599493) |
@@ -482,14 +482,14 @@ Sunday, 18 July 2021:
 
 Friday, 16 July 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **badeu** ::{ flag=RO }:: | **6** | 3 | ::{ flag=US }:: DigitalHypno | [#1](https://osu.ppy.sh/community/matches/87514536) |
 | niii\_san ::{ flag=BR }:: | 0 | **1** | ::{ flag=US }:: **Tekkito** | *forfeit* |
 
 Saturday, 17 July 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | jordanlr7 ::{ flag=AU }:: | 0 | **1** | ::{ flag=US }:: **BoshyMan741** | *forfeit* |
 | Tebi ::{ flag=SG }:: | 3 | **6** | ::{ flag=US }:: **fieryrage** | [#1](https://osu.ppy.sh/community/matches/87534225) |
@@ -506,13 +506,13 @@ Saturday, 17 July 2021:
 
 Sunday, 18 July 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Leva\_Russian** ::{ flag=RU }:: | **6** | 2 | ::{ flag=GB }:: Doomsday | [#1](https://osu.ppy.sh/community/matches/87615110) |
 
 Monday, 19 July 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **headstack** ::{ flag=US }:: | **6** | 0 | ::{ flag=PL }:: gogos19 | [#1](https://osu.ppy.sh/community/matches/87692394) |
 
@@ -520,13 +520,13 @@ Monday, 19 July 2021:
 
 Saturday, 17 July 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Utami** ::{ flag=US }:: | **6** | 0 | ::{ flag=US }:: BoshyMan741 | [#1](https://osu.ppy.sh/community/matches/87586737) |
 
 Sunday, 18 July 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Rucker** ::{ flag=TW }:: | **6** | 3 | ::{ flag=BR }:: Astris | [#1](https://osu.ppy.sh/community/matches/87595785) |
 | **Leva\_Russian** ::{ flag=RU }:: | **6** | 0 | ::{ flag=US }:: Tj7223 | [#1](https://osu.ppy.sh/community/matches/87623302) |
@@ -536,7 +536,7 @@ Sunday, 18 July 2021:
 
 Monday, 19 July 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Tekkito** ::{ flag=US }:: | **6** | 0 | ::{ flag=TW }:: Spinesnight | [#1](https://osu.ppy.sh/community/matches/87654533) |
 | **headstack** ::{ flag=US }:: | **6** | 3 | ::{ flag=US }:: fieryrage | [#1](https://osu.ppy.sh/community/matches/87710563) |
@@ -547,19 +547,19 @@ Monday, 19 July 2021:
 
 Thursday, 8 July 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **AlmightyDoor** ::{ flag=US }:: | **5** | 1 | ::{ flag=BR }:: niii\_san | [#1](https://osu.ppy.sh/community/matches/87028263) |
 
 Friday, 9 July 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | badeu ::{ flag=RO }:: | 4 | **5** | ::{ flag=US }:: **theez** | [#1](https://osu.ppy.sh/community/matches/87083818) |
 
 Saturday, 10 July 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Reedkatt** ::{ flag=SE }:: | **5** | 2 | ::{ flag=SG }:: Tebi | [#1](https://osu.ppy.sh/community/matches/87114583) |
 | **Rexeez** ::{ flag=ID }:: | **5** | 4 | ::{ flag=RU }:: Leva\_Russian | [#1](https://osu.ppy.sh/community/matches/87116553) |
@@ -571,7 +571,7 @@ Saturday, 10 July 2021:
 
 Sunday, 11 July 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Arnold24x24** ::{ flag=PE }:: | **5** | 0 | ::{ flag=AU }:: jordanlr7 | [#1](https://osu.ppy.sh/community/matches/87157696) |
 | **mrekk** ::{ flag=AU }:: | **5** | 1 | ::{ flag=LV }:: Akolibed | [#1](https://osu.ppy.sh/community/matches/87170692) |
@@ -585,20 +585,20 @@ Sunday, 11 July 2021:
 
 Thursday, 8 July 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Rebo** ::{ flag=UY }:: | **5** | 4 | ::{ flag=US }:: Venpris | [#1](https://osu.ppy.sh/community/matches/87022879) |
 
 Friday, 9 July 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | haga1115 ::{ flag=JP }:: | 3 | **5** | ::{ flag=GB }:: **Doomsday** | [#1](https://osu.ppy.sh/community/matches/87070005) |
 | **Tekkito** ::{ flag=US }:: | **5** | 1 | ::{ flag=CN }:: -Gynophobia | [#1](https://osu.ppy.sh/community/matches/87070475) |
 
 Saturday, 10 July 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Arbusion ::{ flag=AU }:: | 0 | **5** | ::{ flag=TW }:: **Rucker** | [#1](https://osu.ppy.sh/community/matches/87109841) |
 | **DigitalHypno** ::{ flag=US }:: | **5** | 0 | ::{ flag=BE }:: Hanori | [#1](https://osu.ppy.sh/community/matches/87122948) |
@@ -611,7 +611,7 @@ Saturday, 10 July 2021:
 
 Sunday, 11 July 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Jordan The Bear ::{ flag=AU }:: | 3 | **5** | ::{ flag=US }:: **Spev** | [#1](https://osu.ppy.sh/community/matches/87155446) |
 | **-Arko** ::{ flag=US }:: | **5** | 0 | ::{ flag=ID }:: Vinno | [#1](https://osu.ppy.sh/community/matches/87160333) |
@@ -623,7 +623,7 @@ Sunday, 11 July 2021:
 
 Friday, 2 July 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Bubbleman** ::{ flag=GB }:: | **5** | 1 | ::{ flag=JP }:: \_tottoko\_ | [#1](https://osu.ppy.sh/community/matches/86652370) |
 | fieryrage ::{ flag=US }:: | 3 | **5** | ::{ flag=RU }:: **Leva\_Russia** | [#1](https://osu.ppy.sh/community/matches/86664856) |
@@ -631,7 +631,7 @@ Friday, 2 July 2021:
 
 Saturday, 3 July 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Exarch** ::{ flag=US }:: | **5** | 2 | ::{ flag=AU }:: Jordan The Bear | [#1](https://osu.ppy.sh/community/matches/86691292) |
 | **FlyingTuna** ::{ flag=KR }:: | **5** | 1 | ::{ flag=US }:: Tekkito | [#1](https://osu.ppy.sh/community/matches/86696635) |
@@ -653,7 +653,7 @@ Saturday, 3 July 2021:
 
 Sunday, 4 July 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **mrekk** ::{ flag=AU }:: | **5** | 2 | ::{ flag=AU }:: Arbusion | [#1](https://osu.ppy.sh/community/matches/86756018) |
 | **jordanlr7** ::{ flag=AU }:: | **5** | 1 | ::{ flag=US }:: Venpris | [#1](https://osu.ppy.sh/community/matches/86756115) |
@@ -669,7 +669,7 @@ Sunday, 4 July 2021:
 
 Monday, 5 July 2021:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Tj7223** ::{ flag=US }:: | **5** | 0 | ::{ flag=RU }:: Dizick | [#1](https://osu.ppy.sh/community/matches/86843619) |
 

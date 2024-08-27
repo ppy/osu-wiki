@@ -259,7 +259,7 @@ This competition has come to an end and resulted in the following podium:
 
 Sunday, 26 May 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **-Roxas** ::{ flag=GB }:: | **7** | 5 | ::{ flag=NO }:: YokesPai | [#1](https://osu.ppy.sh/community/matches/52121889) |
 
@@ -267,7 +267,7 @@ Sunday, 26 May 2019:
 
 Saturday, 25 May 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | majoreh ::{ flag=GB }:: | 1 | **7** | ::{ flag=NO }:: **YokesPai** | [#1](https://osu.ppy.sh/community/matches/52089273) |
 
@@ -277,7 +277,7 @@ Saturday, 25 May 2019:
 
 Sunday, 19 May 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | majoreh ::{ flag=GB }:: | 2 | **6** | ::{ flag=GB }:: **-Roxas** | [#1](https://osu.ppy.sh/community/matches/51939290) |
 
@@ -285,13 +285,13 @@ Sunday, 19 May 2019:
 
 Saturday, 18 May 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | jackylam5 ::{ flag=NL }:: | 1 | **6** | ::{ flag=GB }:: **Karthy** | [#1](https://osu.ppy.sh/community/matches/51903473) |
 
 Sunday, 19 May 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **YokesPai** ::{ flag=NO }:: | **6** | 0 | ::{ flag=LV }:: waywern2012 | [#1](https://osu.ppy.sh/community/matches/51928805) |
 | **YokesPai** ::{ flag=NO }:: | **6** | 3 | ::{ flag=GB }:: Karthy | [#1](https://osu.ppy.sh/community/matches/51939290) |
@@ -302,7 +302,7 @@ Sunday, 19 May 2019:
 
 Tuesday, 14 May 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **majoreh** ::{ flag=GB }:: | **6** | 5 | ::{ flag=NL }:: jackylam5 | [#1](https://osu.ppy.sh/community/matches/51793740) |
 | **-Roxas** ::{ flag=GB }:: | **6** | 4 | ::{ flag=NO }:: YokesPai | [#1](https://osu.ppy.sh/community/matches/51797160) |
@@ -311,21 +311,21 @@ Tuesday, 14 May 2019:
 
 Friday, 10 May 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Nitroz** ::{ flag=SE }:: | **6** | 4 | ::{ flag=US }:: Conyoh | [#1](https://osu.ppy.sh/community/matches/51677445) |
 | Kingling ::{ flag=GB }:: | 4 | **6** | ::{ flag=LV }:: **waywern2012** | [#1](https://osu.ppy.sh/community/matches/51679392) |
 
 Saturday, 11 May 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | -GN ::{ flag=NO }:: | 0 | **1** | ::{ flag=GB }:: **OskaRRRitoS** | *forfeit* |
 | **Karthy** ::{ flag=GB }:: | **6** | 1 | ::{ flag=GB }:: TopSp1n | [#1](https://osu.ppy.sh/community/matches/51718152) |
 
 Sunday, 12 May 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **waywern2012** ::{ flag=LV }:: | **6** | 3 | ::{ flag=GB }:: OskaRRRitoS | [#1](https://osu.ppy.sh/community/matches/51746327) |
 | **Karthy** ::{ flag=GB }:: | **1** | 0 | ::{ flag=SE }:: Nitroz | *forfeit* |
@@ -336,13 +336,13 @@ Sunday, 12 May 2019:
 
 Tuesday, 30 April 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **-Roxas** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: TopSp1n | [#1](https://osu.ppy.sh/community/matches/51419771) |
 
 Sunday, 5 May 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | OskaRRRitoS ::{ flag=GB }:: | 3 | **5** | ::{ flag=NL }:: **jackylam5** | [#1](https://osu.ppy.sh/community/matches/51554453) |
 | **YokesPai** ::{ flag=NO }:: | **5** | 3 | ::{ flag=US }:: Conyoh | [#1](https://osu.ppy.sh/community/matches/51558096) |
@@ -352,7 +352,7 @@ Sunday, 5 May 2019:
 
 Saturday, 4 May 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Doomsdaddy ::{ flag=FI }:: | 0 | **5** | ::{ flag=GB }:: **idealnettles** | [#1](https://osu.ppy.sh/community/matches/51518904) |
 | Summer Solstice ::{ flag=GB }:: | 0 | **1** | ::{ flag=FI }:: **Urnukka** | *forfeit* |
@@ -363,7 +363,7 @@ Saturday, 4 May 2019:
 
 Sunday, 5 May 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | idealnettles ::{ flag=GB }:: | 3 | **5** | ::{ flag=LV }:: **waywern2012** | [#1](https://osu.ppy.sh/community/matches/51556340) |
 | **Nitroz** ::{ flag=SE }:: | **1** | 0 | ::{ flag=GB }:: Pelzio | *forfeit* |
@@ -372,7 +372,7 @@ Sunday, 5 May 2019:
 
 Monday, 6 May 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Domblade ::{ flag=GB }:: | 0 | **5** | ::{ flag=NO }:: **-GN** | [#1](https://osu.ppy.sh/community/matches/51584594) |
 | **Karthy** ::{ flag=GB }:: | **5** | 0 | ::{ flag=FI }:: Urnukka | [#1](https://osu.ppy.sh/community/matches/51586105) |
@@ -383,19 +383,19 @@ Monday, 6 May 2019:
 
 Friday, 26 April 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Conyoh** ::{ flag=US }:: | **5** | 1 | ::{ flag=NO }:: -GN | [#1](https://osu.ppy.sh/community/matches/51307895) |
 
 Saturday, 27 April 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **TopSp1n** ::{ flag=GB }:: | **5** | 4 | ::{ flag=LV }:: -waywern2012 | [#1](https://osu.ppy.sh/community/matches/51338567) |
 
 Sunday, 28 April 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **YokesPai** ::{ flag=NO }:: | **5** | 3 | ::{ flag=GB }:: Malteser | [#1](https://osu.ppy.sh/community/matches/51366768) |
 | **-Roxas** ::{ flag=GB }:: | **5** | 1 | ::{ flag=FI }:: Doomsdaddy | [#1](https://osu.ppy.sh/community/matches/51368110) |
@@ -405,7 +405,7 @@ Sunday, 28 April 2019:
 
 Tuesday, 30 April 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **majoreh** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: Summer Solstice | [#1](https://osu.ppy.sh/community/matches/51419843) |
 
@@ -413,13 +413,13 @@ Tuesday, 30 April 2019:
 
 Friday, 26 April 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Bae- ::{ flag=GB }:: | 4 | **5** | ::{ flag=GB }:: Apo11o | [#1](https://osu.ppy.sh/community/matches/51313423) |
 
 Saturday, 27 April 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **KingLizardYT** ::{ flag=PT }:: | **5** | 4 | ::{ flag=DE }:: LwL | [#1](https://osu.ppy.sh/community/matches/51330754) |
 | Lefafel ::{ flag=FI }:: | 3 | **5** | ::{ flag=GB }:: **Pelzio** | [#1](https://osu.ppy.sh/community/matches/51332511) |
@@ -429,7 +429,7 @@ Saturday, 27 April 2019:
 
 Saturday, 27 April 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Kerantina ::{ flag=GB }:: | 4 | **5** | ::{ flag=GB }:: **mmi-** | [#1](https://osu.ppy.sh/community/matches/51371676) |
 | **Domblade** ::{ flag=GB }:: | **5** | 3 | ::{ flag=GB }:: Doomsday is bad | [#1](https://osu.ppy.sh/community/matches/51375858) |
@@ -438,13 +438,13 @@ Saturday, 27 April 2019:
 
 Friday, 19 April 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **TopSp1n** ::{ flag=GB }:: | **4** | 0 | ::{ flag=FI }:: Lefafel | [#1](https://osu.ppy.sh/community/matches/51117617) |
 
 Saturday, 20 April 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Nitroz** ::{ flag=SE }:: | **4** | 1 | ::{ flag=DE }:: LwL | [#1](https://osu.ppy.sh/community/matches/51155997) |
 | **OskaRRRitoS** ::{ flag=GB }:: | **4** | 0 | ::{ flag=PT }:: KingLizardYT | [#1](https://osu.ppy.sh/community/matches/51157356) |
@@ -456,7 +456,7 @@ Saturday, 20 April 2019:
 
 Sunday, 21 April 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Kingling** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: mmi- | [#1](https://osu.ppy.sh/community/matches/51183682) |
 | **majoreh** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Domblade | *forfeit* |
@@ -467,13 +467,13 @@ Sunday, 21 April 2019:
 
 Monday, 22 April 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Summer Solstice** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Doomsday is Bad | [#1](https://osu.ppy.sh/community/matches/51217994) |
 
 Wednesday, 24 April 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **-GN** ::{ flag=NO }:: | **4** | 1 | ::{ flag=GB }:: Electovoid | [#1](https://osu.ppy.sh/community/matches/51261089) |
 

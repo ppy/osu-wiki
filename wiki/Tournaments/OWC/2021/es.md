@@ -324,13 +324,13 @@ Las estadísticas detalladas de esta ronda se pueden encontrar [aquí](https://d
 
 Sábado, 27 de noviembre de 2021
 
-| Equipo A | | | Equipo B | Enlance de la partida |
+| Equipo A |  |  | Equipo B | Enlance de la partida |
 | --: | :-: | :-: | :-- | :-- |
 | **Alemania** ::{ flag=DE }:: | **7** | 6 | ::{ flag=KR }:: Corea del Sur | [#1](https://osu.ppy.sh/community/matches/94510355) |
 
 Domingo, 28 de noviembre de 2021
 
-| Equipo A | | | Equipo B | Enlance de la partida |
+| Equipo A |  |  | Equipo B | Enlance de la partida |
 | --: | :-: | :-: | :-- | :-- |
 | **Estados Unidos** ::{ flag=US }:: | **7** | 5 | ::{ flag=DE }:: Alemania | [#1](https://osu.ppy.sh/community/matches/94572116) |
 
@@ -340,14 +340,14 @@ Las estadísticas detalladas de esta ronda se pueden encontrar [aquí](https://d
 
 Sábado, 20 de noviembre de 2021
 
-| Equipo A | | | Equipo B | Enlance de la partida |
+| Equipo A |  |  | Equipo B | Enlance de la partida |
 | --: | :-: | :-: | :-- | :-- |
 | Hong Kong ::{ flag=HK }:: | 2 | **7** | ::{ flag=KR }:: **Corea del Sur** | [#1](https://osu.ppy.sh/community/matches/94198225) |
 | **Canadá** ::{ flag=CA }:: | **7** | 4 | ::{ flag=GB }:: Reino Unido | [#1](https://osu.ppy.sh/community/matches/94215627) |
 
 Domingo, 21 de noviembre de 2021
 
-| Equipo A | | | Equipo B | Enlance de la partida |
+| Equipo A |  |  | Equipo B | Enlance de la partida |
 | --: | :-: | :-: | :-- | :-- |
 | Canadá ::{ flag=CA }:: | 5 | **7** | ::{ flag=KR }:: **Corea del Sur** | [#1](https://osu.ppy.sh/community/matches/94237395) |
 | **Estados Unidos** ::{ flag=US }:: | **7** | 6 | ::{ flag=DE }:: Alemania | [#1](https://osu.ppy.sh/community/matches/94267511) |
@@ -358,7 +358,7 @@ Las estadísticas detalladas de esta ronda se pueden encontrar [aquí](https://d
 
 Sábado, 13 de noviembre de 2021
 
-| Equipo A | | | Equipo B | Enlance de la partida |
+| Equipo A |  |  | Equipo B | Enlance de la partida |
 | --: | :-: | :-: | :-- | :-- |
 | Japón ::{ flag=JP }:: | 2 | **6** | ::{ flag=KR }:: **Corea del Sur** | [#1](https://osu.ppy.sh/community/matches/93876454) |
 | Polonia ::{ flag=PL }:: | 3 | **6** | ::{ flag=RO }:: **Rumania** | [#1](https://osu.ppy.sh/community/matches/93883809) |
@@ -366,7 +366,7 @@ Sábado, 13 de noviembre de 2021
 
 Domingo, 14 de noviembre de 2021
 
-| Equipo A | | | Equipo B | Enlance de la partida |
+| Equipo A |  |  | Equipo B | Enlance de la partida |
 | --: | :-: | :-: | :-- | :-- |
 | **Reino Unido** ::{ flag=GB }:: | **6** | 3 | ::{ flag=TW }:: Taiwán | [#1](https://osu.ppy.sh/community/matches/93882161) |
 | Rusia ::{ flag=RU }:: | 4 | **6** | ::{ flag=AU }:: **Australia** | [#1](https://osu.ppy.sh/community/matches/93926187) |
@@ -380,7 +380,7 @@ Las estadísticas detalladas de esta ronda se pueden encontrar [aquí](https://d
 
 Sábado, 6 de noviembre de 2021
 
-| Equipo A | | | Equipo B | Enlance de la partida |
+| Equipo A |  |  | Equipo B | Enlance de la partida |
 | --: | :-: | :-: | :-- | :-- |
 | **Australia** ::{ flag=AU }:: | **6** | 3 | ::{ flag=SG }:: Singapur | [#1](https://osu.ppy.sh/community/matches/93548858) |
 | Indonesia ::{ flag=ID }:: | 5 | **6** | ::{ flag=RO }:: **Rumania** | [#1](https://osu.ppy.sh/community/matches/93559497) |
@@ -394,7 +394,7 @@ Sábado, 6 de noviembre de 2021
 
 Domingo, 7 de noviembre de 2021
 
-| Equipo A | | | Equipo B | Enlance de la partida |
+| Equipo A |  |  | Equipo B | Enlance de la partida |
 | --: | :-: | :-: | :-- | :-- |
 | **Canadá** ::{ flag=CA }:: | **6** | 1 | ::{ flag=JP }:: Japón | [#1](https://osu.ppy.sh/community/matches/93568294) |
 | China ::{ flag=CN }:: | 3 | **6** | ::{ flag=TW }:: **Taiwán** | [#1](https://osu.ppy.sh/community/matches/93601469) |
@@ -410,7 +410,7 @@ Las estadísticas detalladas de esta ronda se pueden encontrar [aquí](https://d
 
 Sábado, 30 de octubre de 2021:
 
-| Equipo A | | | Equipo B | Enlance de la partida |
+| Equipo A |  |  | Equipo B | Enlance de la partida |
 | --: | :-: | :-: | :-- | :-- |
 | Argentina ::{ flag=AR }:: | 1 | **5** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/93182775) |
 | Uruguay ::{ flag=UY }:: | 1 | **5** | ::{ flag=PH }:: **Filipinas** | [#1](https://osu.ppy.sh/community/matches/93206388) |
@@ -421,7 +421,7 @@ Sábado, 30 de octubre de 2021:
 
 Domingo, 31 de octubre de 2021:
 
-| Equipo A | | | Equipo B | Enlance de la partida |
+| Equipo A |  |  | Equipo B | Enlance de la partida |
 | --: | :-: | :-: | :-- | :-- |
 | **Alemania** ::{ flag=DE }:: | **5** | 2 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/93197788) |
 | Malasia ::{ flag=MY }:: | 2 | **5** | ::{ flag=FR }:: **Francia** | [#1](https://osu.ppy.sh/community/matches/93206469) |
@@ -440,7 +440,7 @@ Las estadísticas detalladas de esta ronda se pueden encontrar [aquí](https://d
 
 Sábado, 23 de octubre de 2021:
 
-| Equipo A | | | Equipo B | Enlance de la partida |
+| Equipo A |  |  | Equipo B | Enlance de la partida |
 | --: | :-: | :-: | :-- | :-- |
 | **Hong Kong** ::{ flag=HK }:: | **5** | 2 | ::{ flag=TR }:: Turquía | [#1](https://osu.ppy.sh/community/matches/92822602) |
 | **Reino Unido** ::{ flag=GB }:: | **5** | 3 | ::{ flag=SG }:: Singapur | [#1](https://osu.ppy.sh/community/matches/92827398) |
@@ -450,7 +450,7 @@ Sábado, 23 de octubre de 2021:
 
 Domingo, 24 de octubre de 2021:
 
-| Equipo A | | | Equipo B | Enlance de la partida |
+| Equipo A |  |  | Equipo B | Enlance de la partida |
 | --: | :-: | :-: | :-- | :-- |
 | **Corea del Sur** ::{ flag=KR }:: | **5** | 0 | ::{ flag=UA }:: Ucrania | [#1](https://osu.ppy.sh/community/matches/92820657) |
 | **Brasil** ::{ flag=BR }:: | **5** | 1 | ::{ flag=PH }:: Filipinas | [#1](https://osu.ppy.sh/community/matches/92832289) |
@@ -501,7 +501,7 @@ La clasificación final para la fase de clasificación se puede encontrar en la 
 13. Se permite el intercambio de jugadores entre partidas sin limitaciones.
 14. Los mapas no deben reutilizarse en la misma partida, excepto en las revanchas.
 15. **El tamaño mínimo del equipo para un equipo es de 6 jugadores, y el máximo es de 8.**
-16. Se espera que los jugadores mantengan el juego fluido y sin retrasos. Los retrasos excesivos en los partidos por parte de los jugadores pueden dar lugar a la aplicación de sanciones a discreción del árbitro. Interrumpir el partido con juego sucio, insultar o provocar a otros jugadores o al personal, retrasar el partido u otro comportamiento inapropiado deliberado está estrictamente prohibido y será sancionado en consecuencia.
+16. Se espera que los jugadores mantengan el juego fluido y sin retrasos. Los retrasos excesivos en los partidos por parte de los jugadores pueden dar lugar a la aplicación de sanciones a discreción del árbitro. Interrumpir el partido con juego sucio, insultar o provocar a otros jugadores o al personal, retrasar el partido u otra conducta inapropiada deliberada está estrictamente prohibida y se sancionará en consecuencia.
 17. Todos los jugadores y el personal deben ser tratados con respeto. Se deben seguir las instrucciones de los árbitros y del Gerente del torneo. Las decisiones etiquetadas como finales no deben ser objetadas.
 18. Las salas de chat multijugador subyacen a las [reglas de la comunidad de osu!](/wiki/Rules). Todas las reglas del chat también se aplican a las salas de chat multijugador.
     - Romper las reglas del chat puede resultar en un silencio. Los jugadores silenciados no pueden participar en partidas multijugador y deben intercambiarse mientras dure el castigo.

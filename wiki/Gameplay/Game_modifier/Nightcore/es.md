@@ -5,6 +5,8 @@ tags:
   - NC
   - mod
   - game modifier
+  - modificador de juego
+  - modificador del juego
 ---
 
 # Nightcore (mod)
@@ -31,7 +33,7 @@ tags:
 
 ## Descripción
 
-El mod **Nightcore** es un [modificador de juego](/wiki/Gameplay/Game_modifier) que funciona exactamente de la misma manera que su variante, Double Time, pero también aumenta el tono y agrega una pista de batería al fondo que —en compás de 4/4— sigue el orden de un bombo en los tiempos 1 y 3, aplaude en los tiempos 2 y 4, y choca en el tiempo 1 cada 4 compases.
+El mod **Nightcore** es un [modificador del juego](/wiki/Gameplay/Game_modifier) que funciona exactamente de la misma manera que su variante, Double Time, pero también aumenta el tono y agrega una pista de batería al fondo que —en compás de 4/4— sigue el orden de un bombo en los tiempos 1 y 3, aplaude en los tiempos 2 y 4, y choca en el tiempo 1 cada 4 compases.
 
 El [multiplicador de puntuación](/wiki/Gameplay/Game_modifier/Mod_multiplier) permanece igual que lo haría con el mod Double Time activado, y el beatmap en sí no se ve afectado más allá de lo que haría el mod Double Time.
 

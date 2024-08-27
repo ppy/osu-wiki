@@ -12,4 +12,4 @@ Les responsables de la la QAT ont été remplacés par [-Mo-](https://osu.ppy.sh
 
 En 2020, il n'y avait plus besoin d'un poste officiel de responsable des QAT (éventuellement la [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*)), ce qui a conduit à sa suppression.
 
-À partir de mars 2023, la NAT a décidé de réadopter le concept de leadership ; pour plus d'informations, voir [Nomination Assessment Team § NAT Leadership](/wiki/People/Nomination_Assessment_Team#nat-leadership).
+À partir de mars 2023, la NAT a décidé de réadopter le concept de leadership ; pour plus d'informations, voir [Nomination Assessment Team § Leadership de la NAT](/wiki/People/Nomination_Assessment_Team#leadership-de-la-nat).

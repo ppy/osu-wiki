@@ -105,9 +105,9 @@
 
 При упоминании настроек мультиплеерных игр, которые ограничивают применение модов, стоит использовать [CamelCase](https://ru.wikipedia.org/wiki/CamelCase):
 
-- `NoMods`, `NoMod`, или `NM`;
-- `FreeMods`, `FreeMod`, или `FM`;
-- `Tiebreaker`.
+- `No Mod` или `NM`;
+- `Free Mod` или `FM`;
+- `Tiebreaker` (не является именем собственным).
 
 ### Имена собственные
 

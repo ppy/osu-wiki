@@ -25,11 +25,9 @@ A [página de grupo da Equipe de Suporte](https://osu.ppy.sh/groups/22) lista to
 
 | Nome | Línguas adicionais |
 | :-- | :-- |
+| ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |
-| ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino |
-| ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | Sueco, espanhol |
-| ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) |  |
-| ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Alemão |
+| ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Polonês |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Espanhol |

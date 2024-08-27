@@ -1,12 +1,13 @@
 ---
 no_native_review: true
-outdated_since: 19979c9243ed12b55105ba13229f63a23e3e0f70
+outdated_since: bcccceb00e25b58f13adc7c085280d16e1f0cdfe
 outdated_translation: true
 ---
 
 # Critères de classement
 
-*Pour les critères de classement spécifiques aux [modes de jeu](/wiki/Game_mode), voir : [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), et [osu!mania](osu!mania).*
+*Pour les critères de classement spécifiques aux [modes de jeu](/wiki/Game_mode), voir : [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), et [osu!mania](osu!mania).*\
+*Pour une version simplifiée des critères de classement, voir : [Critères de classement simplifiés](Simplified_ranking_criteria)*
 
 Cet ensemble de **critères de classement** définit les [règles et directives](#termes-courants) que les [beatmaps](/wiki/Beatmap) doivent suivre pour progresser dans la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure).
 
@@ -37,6 +38,7 @@ Il est important de prendre en compte cela avant d'utiliser ces logiciels :
 
 - **Il n'est pas possible de placer deux objet sur le même tick.** Cela inclut la durée des cercles, des sliders et des spinners. Les difficultés d'osu!mania ne sont pas concernées de cette règle.
 - **Il doit y avoir au moins 10 millisecondes entre un cercle et l'objet suivant, et au moins 20 millisecondes entre la fin d'un slider et l'objet suivant.** Les difficultés d'osu!mania et d'osu!catch ne sont pas concernées par cette règle.
+- **Tout le contenu des beatmaps doit être autorisé en fonction des [autorisations d'utilisation du contenu](/wiki/Rules/Content_usage_permissions#autorisations-de-l'artiste).** Pour les artistes ou les musiques qui sont listés comme non autorisés sur la page, leurs musiques ne peuvent être classées que si une permission explicite pour la musique est donnée à l'hôte de la beatmap. La preuve de cette autorisation doit être présentée dans la description de la beatmap ou sur la page de discussion.
 - **Il ne doit pas y avoir d'images obscènes dans le contenu de [l'arrière plan](/wiki/Beatmap/Background)/storyboard/vidéo.** Cela inclut la nudité, la quasi-nudité, les références sexuelles, la violence, l'abus de drogues, etc. Voir [Considérations sur le contenu visuel](/wiki/Rules/Visual_content_considerations) pour des règles plus détaillées.
 - **Les difficultés qui contiennent des stroboscopes répétitifs, des images pulsées ou des changements rapides de contraste, de luminosité ou de couleur dans le storyboard ou la vidéo doivent être accompagnées d'un avertissement relatif à l'épilepsie.** Si l'avertissement interfère avec le jeu, l'introduction audio doit être plus longue. Les effets de stroboscopie à 3 Hz (c'est-à-dire 3 éclairs par seconde) ou plus lent ne sont pas susceptibles de poser problème. En cas de doute, ajoutez l'avertissement et confirmez sa nécessité au cours du processus de modding.
 - **Il ne doit pas y avoir de fichiers inutilisés ou de fichiers à 0 octet dans le dossier de la beatmap.** Les fichiers à 0 octet empêchent les autres fichiers du dossier d'une beatmap d'être téléchargés correctement. Les fichiers `thumbs.db` générés automatiquement sont les seules exceptions.
@@ -56,7 +58,7 @@ Il est important de prendre en compte cela avant d'utiliser ces logiciels :
 
 ## Beatmap
 
-*Remarque : dans cette section, les key counts du mode [osu!mania](/wiki/Game_mode/osu!mania) sont considérés comme des modes de jeu individuels.*
+*Remarque : Chaque [key moode](osu!mania#termes-courants) et [style de jeu](osu!mania#termes-courants) [d'osu!mania](/wiki/Game_mode/osu!mania) est considéré comme un mode de jeu distinct dans cette section.*
 
 ### Règles
 
@@ -113,9 +115,11 @@ Il est important de prendre en compte cela avant d'utiliser ces logiciels :
 - **Lorsqu'un personnage fictif est crédité en tant qu'interprète d'une musique, sa mention doit être formatée au format "personnage (CV : acteur de voix)" ou "personnage (VO : acteur de voix)"[^caractère-acteur-de-voix].** Pour les actions en direct, créditez uniquement l'acteur de la voix.
 - **Si une musique est utilisée dans un programme télévisé, une série web ou une série vidéo directe, comme une musique d'ouverture, de fin ou d'insertion, utilisez le marqueur `(TV Size)` à la fin du titre en cours.** S'il existe un tel marqueur dans le titre, remplacez-le par `(TV Size)`.
 - **Si un titre de musique contient des marqueurs de version courte ou de version de jeu, ces marqueurs doivent être normalisés en `(Short Ver.)` et `(Game Ver.)` respectivement.**
-- **Les versions coupées non officielles des musiques doivent ajouter un marqueur `(Cut Ver.)` à la fin du titre actuel.** Si un tel marqueur existe déjà dans le titre du morceau, `(Cut Ver.)` le remplacera. Cela permet de distinguer les versions non officielles d'une musique des versions complètes. Les musiques qui sont raccourcies d'une telle manière qu'il correspond approximativement à leur version officielle, et les musiques qui sont une boucle complète d'une piste en boucle ne seront pas considérées comme coupées.
-  - Remarque : si un montage non officiel contient des sections correspondantes dans le même ordre et a à peu près la même longueur qu'une version officielle pour la télévision, une version courte ou une version pour le jeu, il sera considéré comme un montage officiel et utilisera le marqueur approprié. Les reprises et les remixes ne comptent pas.
-- **Les versions étendues non officielles des musiques doivent ajouter un marqueur `(Extended Edit)` à la fin du titre actuel.** Si un tel marqueur existe déjà dans le titre du morceau, `(Extended Edit)` le remplacera. Cela permet de distinguer les versions étendues non officielles d'une musique des versions étendues officielles.
+- **Les versions coupées non officielles des musiques doivent ajouter un marqueur `(Cut Ver.)` à la fin du titre actuel.** Si un tel marqueur existe déjà dans le titre du morceau, `(Cut Ver.)` doit le remplacera. Cela permet de distinguer les versions non officielles d'une musique des versions complètes.
+  - **Les musiques qui sont intentionnellement raccourcies pour recréer une version officielle ne sont pas considérées comme des versions raccourcies.** Cela ne s'applique que si l'audio est pratiquement impossible à distinguer de la version officielle.
+  - **Les musiques qui sont une boucle complète d'une piste en boucle ne sont pas considérées comme des versions raccourcies.**
+- **Les versions étendues non officielles des musiques doivent ajouter un marqueur `(Extended Edit)` à la fin du titre actuel.** Si un tel marqueur figure déjà dans le titre de la piste, `(Extended Edit)` doit le remplacer. Cela permet de distinguer les versions étendues non officielles d'une musique des versions étendues officielles.
+  - **Les musiques qui sont intentionnellement éditées pour recréer une version officielle ne sont pas considérées comme des éditions étendues.** Cela ne s'applique que si l'audio est pratiquement impossible à distinguer de la version officielle.
 - **Si un morceau a été édité pour avoir un [tempo](/wiki/Music_theory/Tempo) rapide, utilisez un marqueur `(Speed Up Ver.)` à la fin du titre actuel.** S'il existe un tel marqueur dans le titre, remplacez-le par `(Speed Up Ver.)`. Les musiques en version accélérée dans les genres Techno, Trance, Dance ou autres genres similaires doivent utiliser un marqueur `(Nightcore Mix)` à la place.
   - Note : Pour les pistes qui sont à la fois coupées et accélérées, combinez leurs marqueurs en `(Speed Up & Cut Ver.)` ou `(Nightcore & Cut Ver.)`.
 - **Les caractères spéciaux unicode doivent être filtrés vers leur équivalent standard le plus proche ou supprimés des champs romanisés d'un fichier `.osu`.** `★ ☆ ⚝ ✪` et les autres sont remplacés par un astérisque (`*`). Les autres caractères spéciaux doivent être romanisés ou supprimés au cas par cas.

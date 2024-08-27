@@ -310,7 +310,7 @@ This competition has come to an end and resulted in the following podium:
 
 Monday, 2 September 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | thaibuy ::{ flag=US }:: | 6 | **7** | ::{ flag=GB }:: **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/54567825) |
 | thaibuy ::{ flag=US }:: | 6 | **7** | ::{ flag=GB }:: **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/54567825) |
@@ -319,7 +319,7 @@ Monday, 2 September 2019:
 
 Saturday, 31 August 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | DigitalHypno ::{ flag=US }:: | 5 | **7** | ::{ flag=GB }:: **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/54516852) |
 
@@ -329,7 +329,7 @@ Saturday, 31 August 2019:
 
 Saturday, 24 August 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | DigitalHypno ::{ flag=US }:: | 2 | **7** | ::{ flag=US }:: **thaibuy** | [#1](https://osu.ppy.sh/community/matches/54332803) |
 
@@ -337,7 +337,7 @@ Saturday, 24 August 2019:
 
 Saturday, 24 August 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Yaong** ::{ flag=KR }:: | **7** | 5 | ::{ flag=JP }:: Varvalian | [#1](https://osu.ppy.sh/community/matches/54322913) |
 | fieryrage ::{ flag=US }:: | 3 | **7** | ::{ flag=GB }:: **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/54330050) |
@@ -346,7 +346,7 @@ Saturday, 24 August 2019:
 
 Sunday, 25 August 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Bubbleman** ::{ flag=GB }:: | **7** | 2 | ::{ flag=KR }:: Yaong | [#1](https://osu.ppy.sh/community/matches/54348259) |
 
@@ -356,7 +356,7 @@ Sunday, 25 August 2019:
 
 Saturday, 17 August 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Yaong ::{ flag=KR }:: | 5 | **6** | ::{ flag=US }:: **thaibuy** | [#1](https://osu.ppy.sh/community/matches/54150642) |
 | fieryrage ::{ flag=US }:: | 3 | **6** | ::{ flag=US }:: **DigitalHypno** | [#1](https://osu.ppy.sh/community/matches/54157916) |
@@ -365,20 +365,20 @@ Saturday, 17 August 2019:
 
 Friday, 16 August 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Doomsday ::{ flag=GB }:: | 2 | **6** | ::{ flag=GB }:: **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/54120648) |
 
 Saturday, 17 August 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Jordan The Bear ::{ flag=AU }:: | 3 | **6** | ::{ flag=JP }:: **Varvalian** | [#1](https://osu.ppy.sh/community/matches/54144281) |
 | Bartek22830 ::{ flag=PL }:: | 5 | **6** | ::{ flag=RO }:: **badeu** | [#1](https://osu.ppy.sh/community/matches/54151984) |
 
 Sunday, 18 August 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **MrBooM** ::{ flag=PL }:: | **6** | 2 | ::{ flag=GB }:: Nega | [#1](https://osu.ppy.sh/community/matches/54171348) |
 
@@ -386,13 +386,13 @@ Sunday, 18 August 2019:
 
 Sunday, 18 August 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | badeu ::{ flag=RO }:: | 5 | **6** | ::{ flag=JP }:: **Varvalian** | [#1](https://osu.ppy.sh/community/matches/54169856) |
 
 Tuesday, 20 August 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | MrBooM ::{ flag=PL }:: | 2 | **6** | ::{ flag=GB }:: **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/54222091) |
 
@@ -402,14 +402,14 @@ Tuesday, 20 August 2019:
 
 Saturday, 10 August 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **DigitalHypno** ::{ flag=US }:: | **6** | 5 | ::{ flag=AU }:: Jordan The Bear | [#1](https://osu.ppy.sh/community/matches/53975129) |
 | **fieryrage** ::{ flag=US }:: | **6** | 4 | ::{ flag=PL }:: Bartek22830 | [#1](https://osu.ppy.sh/community/matches/53980696) |
 
 Sunday, 11 August 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Yaong** ::{ flag=KR }:: | **6** | 3 | ::{ flag=PL }:: MrBooM | [#1](https://osu.ppy.sh/community/matches/53999915) |
 | Doomsday ::{ flag=GB }:: | 2 | **6** | ::{ flag=US }:: **thaibuy** | [#1](https://osu.ppy.sh/community/matches/54005334) |
@@ -418,13 +418,13 @@ Sunday, 11 August 2019:
 
 Friday, 9 August 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Dada ::{ flag=BR }:: | 1 | **6** | ::{ flag=JP }:: **Varvalian** | [#1](https://osu.ppy.sh/community/matches/53946617) |
 
 Saturday, 10 August 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | YokesPai ::{ flag=NO }:: | 4 | **6** | ::{ flag=RO }:: **badeu** | [#1](https://osu.ppy.sh/community/matches/53970979) |
 | **Bubbleman** ::{ flag=GB }:: | **6** | 3 | ::{ flag=AU }:: Dumii | [#1](https://osu.ppy.sh/community/matches/53973665) |
@@ -435,7 +435,7 @@ Saturday, 10 August 2019:
 
 Sunday, 11 August 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Vento ::{ flag=JP }:: | 3 | **6** | ::{ flag=PL }:: **twoj stary** | [#1](https://osu.ppy.sh/community/matches/53997648) |
 
@@ -443,7 +443,7 @@ Sunday, 11 August 2019:
 
 Sunday, 11 August 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | GunOfGaming ::{ flag=PL }:: | 1 | **6** | ::{ flag=JP }:: **Varvalian** | [#1](https://osu.ppy.sh/community/matches/54002653) |
 | twoj stary ::{ flag=PL }:: | 4 | **6** | ::{ flag=RO }:: **badeu** | [#1](https://osu.ppy.sh/community/matches/54005370) |
@@ -451,7 +451,7 @@ Sunday, 11 August 2019:
 
 Wednesday, 14 August 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Start ::{ flag=CN }:: | 4 | **6** | ::{ flag=GB }:: **Nega** | [#1](https://osu.ppy.sh/community/matches/54002767) |
 
@@ -461,19 +461,19 @@ Wednesday, 14 August 2019:
 
 Wednesday, 24 July 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Dustice ::{ flag=DE }:: | 5 | **6** | ::{ flag=PL }:: **MrBooM** | [#1](https://osu.ppy.sh/community/matches/53576918) |
 
 Friday, 26 July 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Bubbleman ::{ flag=GB }:: | 2 | **6** | ::{ flag=US }:: **fieryrage** | [#1](https://osu.ppy.sh/community/matches/53623303) |
 
 Saturday, 27 July 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | TopSp1n ::{ flag=GB }:: | 4 | **6** | ::{ flag=AU }:: **Jordan The Bear** | [#1](https://osu.ppy.sh/community/matches/53637708) |
 | **thaibuy** ::{ flag=US }:: | **6** | 2 | ::{ flag=JP }:: Vento | [#1](https://osu.ppy.sh/community/matches/53642557) |
@@ -481,19 +481,19 @@ Saturday, 27 July 2019:
 
 Sunday, 28 July 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Yaong** ::{ flag=KR }:: | **6** | 1 | ::{ flag=BR }:: Dada | [#1](https://osu.ppy.sh/community/matches/53654857) |
 
 Monday, 5 August 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **DigitalHypno** ::{ flag=US }:: | **6** | 2 | ::{ flag=GB }:: Nega | [#1](https://osu.ppy.sh/community/matches/53858586) |
 
 Wednesday, 7 August 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | lain ::{ flag=US }:: | 2 | **6** | ::{ flag=PL }:: **Bartek22830** | [#1](https://osu.ppy.sh/community/matches/53905522) |
 
@@ -501,14 +501,14 @@ Wednesday, 7 August 2019:
 
 Wednesday, 24 July 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **hallowatcher** ::{ flag=DE }:: | **6** | 2 | ::{ flag=AU }:: ASecretWaffle | [#1](https://osu.ppy.sh/community/matches/53563561) |
 | Hanori ::{ flag=BE }:: | 2 | **6** | ::{ flag=US }:: **Tekkito** | [#1](https://osu.ppy.sh/community/matches/53573410) |
 
 Saturday, 27 July 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Gomo Pslvarh** ::{ flag=KR }:: | **6** | 2 | ::{ flag=US }:: explosionboom | [#1](https://osu.ppy.sh/community/matches/53629136) |
 | Vivace ::{ flag=AU }:: | 2 | **6** | ::{ flag=US }:: **Woey** | [#1](https://osu.ppy.sh/community/matches/53631416) |
@@ -525,13 +525,13 @@ Saturday, 27 July 2019:
 
 Wednesday, 7 August 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Xilver15** ::{ flag=IL }:: | **6** | 2 | ::{ flag=NL }:: Lilily | [#1](https://osu.ppy.sh/community/matches/53905520) |
 
 Thursday, 8 August 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Dumii** ::{ flag=AU }:: | **6** | 1 | ::{ flag=US }:: BeasttrollMC | [#1](https://osu.ppy.sh/community/matches/53924285) |
 
@@ -539,7 +539,7 @@ Thursday, 8 August 2019:
 
 Sunday, 28 July 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **badeu** ::{ flag=RO }:: | **6** | 2 | ::{ flag=CA }:: Vespirit | [#1](https://osu.ppy.sh/community/matches/53663687) |
 | **Start** ::{ flag=CN }:: | **6** | 5 | ::{ flag=GB }:: Harpy | [#1](https://osu.ppy.sh/community/matches/53667048) |
@@ -548,19 +548,19 @@ Sunday, 28 July 2019:
 
 Friday, 2 August 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Gomo Pslvarh ::{ flag=KR }:: | 1 | **6** | ::{ flag=PL }:: **twoj stary** | [#1](https://osu.ppy.sh/community/matches/53786879) |
 
 Saturday, 3 August 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Varvalian** ::{ flag=JP }:: | **1** | 0 | ::{ flag=DE }:: hallowatcher | *forfeit* |
 
 Friday, 9 August 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Delis ::{ flag=JP }:: | 1 | **6** | ::{ flag=IL }:: **Xilver15** | [#1](https://osu.ppy.sh/community/matches/53948057) |
 | **Dumii** ::{ flag=AU }:: | **1** | 0 | ::{ flag=US }:: Tekkito | *forfeit* |
@@ -571,14 +571,14 @@ Friday, 9 August 2019:
 
 Thursday, 18 July 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Bartek22830** ::{ flag=PL }:: | **5** | 2 | ::{ flag=PL }:: GunOfGaming | [#1](https://osu.ppy.sh/community/matches/53428412) |
 | Delis ::{ flag=JP }:: | 4 | **5** | ::{ flag=PL }:: **MrBooM** | [#1](https://osu.ppy.sh/community/matches/53428641) |
 
 Saturday, 20 July 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Vento** ::{ flag=JP }:: | **5** | 4 | ::{ flag=HK }:: IllyaLover | [#1](https://osu.ppy.sh/community/matches/53471295) |
 | **Dustice** ::{ flag=DE }:: | **5** | 4 | ::{ flag=IL }:: Xilver15 | [#1](https://osu.ppy.sh/community/matches/53474950) |
@@ -593,7 +593,7 @@ Saturday, 20 July 2019:
 
 Sunday, 21 July 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Dumii ::{ flag=AU }:: | 3 | **5** | ::{ flag=BR }:: **Dada** | [#1](https://osu.ppy.sh/community/matches/53491255) |
 | **Yaong** ::{ flag=KR }:: | **5** | 0 | ::{ flag=BE }:: Hanori | [#1](https://osu.ppy.sh/community/matches/53498283) |
@@ -605,14 +605,14 @@ Sunday, 21 July 2019:
 
 Saturday, 20 July 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | waywern2012 ::{ flag=LV }:: | 2 | **5** | ::{ flag=CN }:: **Start** | [#1](https://osu.ppy.sh/community/matches/53476266) |
 | Eta Carinae ::{ flag=AT }:: | 1 | **5** | ::{ flag=AR }:: **-Nanahira-** | [#1](https://osu.ppy.sh/community/matches/53481288) |
 
 Sunday, 21 July 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **explosionboom** ::{ flag=US }:: | **1** | 0 | ::{ flag=MN }:: seegii | *forfeit* |
 | **Ezipie** ::{ flag=AU }:: | **5** | 4 | ::{ flag=GB }:: hlo | [#1](https://osu.ppy.sh/community/matches/53497237) |
@@ -630,7 +630,7 @@ Sunday, 21 July 2019:
 
 Monday, 22 July 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | \_demo ::{ flag=PL }:: | 1 | **5** | ::{ flag=NL }:: **Lilily** | [#1](https://osu.ppy.sh/community/matches/53526410) |
 
@@ -638,13 +638,13 @@ Monday, 22 July 2019:
 
 Friday, 12 July 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Doomsday** ::{ flag=GB }:: | **5** | 2 | ::{ flag=GB }:: helix | [#1](https://osu.ppy.sh/community/matches/53292254) |
 
 Saturday, 13 July 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Xilver15** ::{ flag=IL }:: | **5** | 3 | ::{ flag=GB }:: Best459 | [#1](https://osu.ppy.sh/community/matches/53308915) |
 | katatakatata ::{ flag=JP }:: | 3 | **5** | ::{ flag=PL }:: **GunOfGaming** | [#1](https://osu.ppy.sh/community/matches/53310282) |
@@ -656,7 +656,7 @@ Saturday, 13 July 2019:
 
 Sunday, 14 July 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **DigitalHypno** ::{ flag=US }:: | **5** | 2 | ::{ flag=PE }:: Arnold24x24 | [#1](https://osu.ppy.sh/community/matches/53324830) |
 | **Yaong** ::{ flag=KR }:: | **5** | 1 | ::{ flag=US }:: explosionboom | [#1](https://osu.ppy.sh/community/matches/53325618) |
@@ -682,7 +682,7 @@ Sunday, 14 July 2019:
 
 Tuesday, 16 July 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Bartek22830** ::{ flag=PL }:: | **5** | 2 | ::{ flag=US }:: Woey | [#1](https://osu.ppy.sh/community/matches/53386508) |
 | Vaxei ::{ flag=US }:: | 0 | **1** | ::{ flag=DE }:: **SgtCataclyst** | *forfeit* |

@@ -126,7 +126,7 @@ osu! не існувала би без допомоги великої кіль�
 
 Взаємодійте з osu! через інші застосунки та медіа, або допомжіть їй зростати далі.
 
-[API](/wiki/osu!api) • [Бот акаунт](/wiki/Bot_account) • [Рекомендації щодо ідентичності бренду](/wiki/Brand_identity_guidelines) • [osu! Discord сервер](/wiki/Community/osu!_Discord_server)
+[API](/wiki/osu!api) • [Бот акаунт](/wiki/Bot_account) • [Рекомендації щодо ідентичності бренду](/wiki/Brand_identity_guidelines) • [osu! Discord сервер](/wiki/Community/Discord_servers#official)
 
 </div>
 <div class="wiki-main-page-panel">

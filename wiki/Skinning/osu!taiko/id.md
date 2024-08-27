@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 9813f83f3faf3eff53d59bf14f5b81cc128a345f
+---
+
 # Elemen-elemen skinning osu!taiko
 
 Kamu dapat mengganti elemen-elemen permainan osu!taiko dengan menambahkan folder yang bernama `taiko` di dalam folder skin yang digunakan atau dengan mengaktifkan opsi `Gunakan skin Taiko untuk mode Taiko` yang ada pada menu [Options](/wiki/Client/Options). Apabila tidak, osu! akan secara otomatis memasang skin osu!taiko *default* setiap kali kamu bermain osu!taiko.
@@ -9,7 +14,7 @@ Kamu dapat mengganti elemen-elemen permainan osu!taiko dengan menambahkan folder
 ![](img/pippidonclear.gif)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Ya][true] (lihat catatan) | ![Ya][true] | Normal | Pojok Kiri Bawah | - |
 
 Catatan:
@@ -29,7 +34,7 @@ Catatan:
 ![](img/pippidonfail.gif)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Ya][true] (lihat catatan) | ![Ya][true] | Normal | Pojok Kiri Bawah | - |
 
 Catatan:
@@ -46,7 +51,7 @@ Catatan:
 ![](img/pippidonidle.gif)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Ya][true] (lihat catatan) | ![Ya][true] | Normal | Pojok Kiri Bawah | - |
 
 Catatan:
@@ -62,7 +67,7 @@ Catatan:
 ![](img/pippidonkiai.gif)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Ya][true] (lihat catatan) | ![Ya][true] | Normal | Pojok Kiri Bawah | - |
 
 Catatan:
@@ -79,7 +84,7 @@ Catatan:
 ![](/wiki/shared/judgement/osu!taiko/taiko-hit0.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Ya][true] | ![Ya][true] | Normal | Tengah | - |
 
 Catatan:
@@ -94,7 +99,7 @@ Catatan:
 ![](/wiki/shared/judgement/osu!taiko/taiko-hit100.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Ya][true] | ![Ya][true] | Normal | Tengah | - |
 
 Catatan:
@@ -109,7 +114,7 @@ Catatan:
 ![](/wiki/shared/judgement/osu!taiko/taiko-hit100k.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Ya][true] | ![Ya][true] | Normal | Tengah | - |
 
 Catatan:
@@ -124,7 +129,7 @@ Catatan:
 ![](/wiki/shared/judgement/osu!taiko/taiko-hit300.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Ya][true] | ![Ya][true] | Normal | Tengah | - |
 
 Catatan:
@@ -139,7 +144,7 @@ Catatan:
 ![](/wiki/shared/judgement/osu!taiko/taiko-hit300k.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Ya][true] | ![Ya][true] | Normal | Tengah | - |
 
 Catatan:
@@ -154,7 +159,7 @@ Catatan:
 ![](/wiki/shared/judgement/osu!taiko/taiko-hit300g.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Tidak][false] (lihat catatan) | ![Tidak][false] | Normal | Tengah | - |
 
 Catatan:
@@ -170,7 +175,7 @@ Catatan:
 ![](img/taikobigcircle.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Tidak][false] | ![Ya][true] | Multiplicative | Tengah | 118x118 |
 
 Catatan:
@@ -189,7 +194,7 @@ Catatan:
 ![](img/taikobigcircleoverlay.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Ya][true] | ![Ya][true] | Normal | Tengah | 118x118 |
 
 Catatan:
@@ -208,7 +213,7 @@ Catatan:
 ![](img/taikohitcircle.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Tidak][false] | ![Ya][true] | Multiplicative | Tengah | 118x118 |
 
 Catatan:
@@ -224,7 +229,7 @@ Catatan:
 ![](img/taikohitcircleoverlay.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Ya][true] | ![Ya][true] | Normal | Tengah | 118x118 |
 
 Catatan:
@@ -242,7 +247,7 @@ Catatan:
 ![](img/approachcircle.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Tidak][false] | ![Ya][true] | Normal | Tengah | 126x126 |
 
 Catatan:
@@ -257,7 +262,7 @@ Catatan:
 ![](img/taiko-glow.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Tidak][false] | ![Tidak][false] (lihat catatan) | Multiplicative | Tengah | 232x232 |
 
 Catatan:
@@ -273,7 +278,7 @@ Catatan:
 ![](img/lighting.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Tidak][false] | ![Ya][true] | Additive | Tengah | - |
 
 Catatan:
@@ -290,7 +295,7 @@ Catatan:
 ![](img/taiko-slider.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Tidak][false] | ![Ya][true] (lihat catatan) | Normal | Pojok Kanan Atas | 776x162 |
 
 Catatan:
@@ -307,7 +312,7 @@ Catatan:
 ![](img/taiko-slider-fail.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Tidak][false] | ![Tidak][false] | Normal | Pojok Kanan Atas | 776x162 |
 
 Catatan:
@@ -325,7 +330,7 @@ Catatan:
 ![](img/taiko-flower-group.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Tidak][false] (lihat catatan) | ![Ya][true] | Normal | Bawah | - |
 
 Catatan:
@@ -342,7 +347,7 @@ Catatan:
 ![](img/taiko-bar-left.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Tidak][false] | ![Tidak][false] (lihat catatan) | Normal | Pojok Kanan Atas | 181x200 |
 
 Catatan:
@@ -358,7 +363,7 @@ Catatan:
 ![](img/taiko-drum-inner.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | v1 - v2.0 | ![Tidak][false] | ![Tidak][false] (lihat catatan) | Normal | Pojok Kanan Atas | Lebar maksimal: 56px |
 | v2.1+ | ![Tidak][false] | ![Tidak][false] (lihat catatan) | Normal | Pojok Kanan Atas | 90x200 |
 
@@ -376,7 +381,7 @@ Catatan:
 ![](img/taiko-drum-outer.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | v1 - v2.0 | ![Tidak][false] | ![Tidak][false] (lihat catatan) | Normal | Pojok Kanan Atas | Lebar maksimal: 72px |
 | v2.1+ | ![Tidak][false] | ![Tidak][false] (lihat catatan) | Normal | Pojok Kanan Atas | 90x200 |
 
@@ -394,7 +399,7 @@ Catatan:
 ![](img/taiko-bar-right.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | v1.0 - v2.0 | ![Tidak][false] | ![Tidak][false] (lihat catatan) | Normal | Pojok Kanan Atas | 843x200 |
 | v2.1+ | ![Tidak][false] | ![Tidak][false] (lihat catatan) | Normal | Pojok Kanan Atas | 1024x200 |
 
@@ -414,7 +419,7 @@ Catatan:
 ![](img/taiko-bar-right-glow.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | v1.0 - v2.0 | ![Tidak][false] | ![Tidak][false] (lihat catatan) | Normal | Pojok Kanan Atas | 843x200 |
 | v2.1+ | ![Tidak][false] | ![Tidak][false] (lihat catatan) | Normal | Pojok Kanan Atas | 1024x200 |
 
@@ -435,7 +440,7 @@ Catatan:
 ![](img/taiko-roll-middle.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Tidak][false] | ![Ya][true] | Multiplicative | Pojok Kanan Atas | 1x128 |
 
 Catatan:
@@ -451,7 +456,7 @@ Catatan:
 ![](img/taiko-roll-end.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Tidak][false] | ![Ya][true] | Multiplicative | Pojok Kanan Atas | 64x128 |
 
 Catatan:
@@ -466,7 +471,7 @@ Catatan:
 ![](img/sliderscorepoint.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Tidak][false] | ![Ya][true] | Normal | Tengah | - |
 
 Catatan:
@@ -481,7 +486,7 @@ Catatan:
 ![](img/spinner-warning.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Tidak][false] | ![Ya][true] | Normal | Tengah | - |
 
 Catatan:
@@ -495,7 +500,7 @@ Catatan:
 ![](img/spinner-circle.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Tidak][false] | ![Tidak][false] (lihat catatan) | Normal | Tengah | - |
 
 Catatan:
@@ -511,7 +516,7 @@ Catatan:
 ![](img/spinner-approachcircle.png)
 
 | Versi | Dapat Dianimasikan | Dapat Dibuat Sebagai Skin Beatmap | Mode Blending | Titik Pusat Objek | Ukuran Resolusi SD yang Disarankan |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Semua | ![Tidak][false] | ![Tidak][false] (lihat catatan) | Normal | Tengah | - |
 
 Catatan:

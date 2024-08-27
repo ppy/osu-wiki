@@ -662,7 +662,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 ### Qualifier instructions
 
 1. In the Qualifier stage, all players will play a specific mappool designed by the mappool selectors and mappool helpers.
-2. The Qualifier pool contains 8 maps, all of which will use [FreeMod](/wiki/Gameplay/Game_modifier#freemod) rules, organised as such:
+2. The Qualifier pool contains 8 maps, all of which will use [FreeMod](/wiki/Gameplay/Game_modifier#free-mod) rules, organised as such:
    - Rice: 3 beatmaps
    - LN 2 beatmaps
    - Hybrid: 2 beatmaps
@@ -773,7 +773,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
    - Regular stage Round 3 and Round 4 use mappool \#2.
    - Round of 16 and Quarterfinals use mappool \#3.
    - Semifinals and Finals use mappool \#4.
-2. Each mappool consists of a fixed amount of maps each stage which will all be played under [FreeMod](/wiki/Gameplay/Game_modifier#freemod) conditions. This means that there is a unique FreeMod bracket.
+2. Each mappool consists of a fixed amount of maps each stage which will all be played under [FreeMod](/wiki/Gameplay/Game_modifier#free-mod) conditions. This means that there is a unique FreeMod bracket.
 3. The mappool sizes are as follows:
    - Qualifiers: 8 beatmaps
    - Mappool \#1 & \#2: 15 beatmaps

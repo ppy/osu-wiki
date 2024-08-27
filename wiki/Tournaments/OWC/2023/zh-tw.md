@@ -666,7 +666,7 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
 ### 圖池說明
 
 1. 每一輪都有個別的圖池。
-2. 每個圖池各有五個部分： [No Mod](/wiki/Gameplay/Game_modifier#nomod)、[Hidden](/wiki/Gameplay/Game_modifier/Hidden)、[Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock)、[Double Time](/wiki/Gameplay/Game_modifier/Double_Time)、及 [Free Mod](/wiki/Gameplay/Game_modifier#freemod).
+2. 每個圖池各有五個部分： [No Mod](/wiki/Gameplay/Game_modifier#no-mod)、[Hidden](/wiki/Gameplay/Game_modifier/Hidden)、[Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock)、[Double Time](/wiki/Gameplay/Game_modifier/Double_Time)、及 [Free Mod](/wiki/Gameplay/Game_modifier#free-mod).
 3. 圖池的譜面數量如下：
    - 預選賽： 11 張譜面
    - 32 強及 16 強賽： 15 張譜面

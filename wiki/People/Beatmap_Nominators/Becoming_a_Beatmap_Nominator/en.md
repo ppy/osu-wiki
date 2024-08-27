@@ -4,26 +4,26 @@ Users interested in joining the [Beatmap Nominators](/wiki/People/Beatmap_Nomina
 
 Applications are conducted via the [BN website](https://bn.mappersguild.com/bnapps).
 
-Applicants are required to meet a minimum [kudosu](/wiki/Modding/Kudosu) threshold, submit at least two [beatmaps](/wiki/Beatmap) they have recently [modded](/wiki/Modding), and complete a [Beatmap Nominator Test](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) on the [ranking criteria](/wiki/Ranking_criteria) in order to submit their application. A message from the NAT will be sent once a verdict has been decided. More information on applying can be found [on the website](https://bn.mappersguild.com/bnapps).
+Applicants are required to meet a minimum [kudosu](/wiki/Modding/Kudosu) threshold, and submit three [beatmaps](/wiki/Beatmap) they have recently [modded](/wiki/Modding), alongside answering certain questions regarding them. A message from the NAT will be sent once a verdict has been decided. More information on applying can be found [on the website](https://bn.mappersguild.com/bnapps).
 
 ## Basic criteria
 
-Modders aiming to apply to the Beatmap Nominators must fulfil the following criteria:
+Modders aiming to apply to the Beatmap Nominators must:
 
-- They have accumulated at least 150 [kudosu](/wiki/Modding/Kudosu).
-- They provide 3 of their mods which they think qualify them to be a part of the Beatmap Nominators.
-  - Previous members of BN/NAT are allowed to submit a minimum of 2 mods for their application.
+- Have at least 150 [kudosu](/wiki/Modding/Kudosu).
+- Not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
+- Have the ability to recognise beatmaps that should (and should not) be nominated.
 
-### Modding expectations
+## Traits to demonstrate in modding
 
 *See also: [Common modding mistakes](/wiki/Guides/Common_modding_mistakes) and [osu!mania modding guide](/wiki/Guides/osu!mania_modding_guide)*
 
-Submitted mods should show that a user is capable of analysing and improving beatmaps to a standard fit for the Beatmap Nominators.
+Submitted mods should show that a user is capable of recognising beatmaps that should and should not be nominated, alongside analysing and improving beatmaps to a standard fit for the Beatmap Nominators.
 
-The following are modding traits expected of Beatmap Nominators. Failure to display any of these traits may result in a rejected application.
+The following are modding traits expected of Beatmap Nominators:
 
 - **Coverage of all common difficulty levels.**
-  - Most beatmaps will have a spread of [difficulties](/wiki/Beatmap/Difficulty) ranging from easy up to expert, and so Beatmap Nominators must be proficient in modding such difficulties. Proficiency in modding extremely high level difficulties is not required.
+  - Most beatmaps will have a spread of [difficulties](/wiki/Beatmap/Difficulty) ranging from Easy up to Expert, and so Beatmap Nominators must be proficient in modding such difficulties. Proficiency in modding extremely high level difficulties is not required.
 - **Identification of unrankable issues, including ones tools cannot detect, such as incorrect timing or metadata.**
 - **Comparison between parts of a beatmap to support issues or suggestions.**
   - Referencing other parts of the beatmap is useful for keeping suggestions in line with the original styles and ideas the mapper has in their map.
@@ -40,26 +40,54 @@ The following are modding traits expected of Beatmap Nominators. Failure to disp
 
 ## Application process
 
-![Application flowchart](img/ApplicationFlowchart.png "Flowchart outlining the Beatmap Nominator application process")
+![Application flowchart](img/bn-application-flowchart.png "Flowchart outlining the Beatmap Nominator application process")
 
-Every application submitted to the BN website that passes the [Beatmap Nominator Test](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) will be reviewed by evaluators to determine whether or not the applicant can enter the Beatmap Nominator group.
+Users are required to submit three beatmaps they have modded within the last 6 months, each having a different [host](/wiki/Beatmap/Beatmap_host).
 
-When a user applies to become a BN, the NAT will be notified via the "bnsite" Discord bot in their respective Discord channel. The notification will include the applicant's name and test score, as well as which evaluators have been assigned to the application.
+- **A mod on a map that is ready to be nominated (or ready to be nominated after the mod is applied).**
+  - This intends to show the applicant's ability to conduct the final steps of the modding process and independently evaluate a map's readiness for Ranked.
+  - This map should have 0 nominations when the application is submitted.
+  - The applicant should briefly describe why the map is ready (or nearly ready) to be nominated.
+- **A mod on a map that is NOT ready to be nominated without significant improvements.**
+  - This intends to show the applicant's issue identification skills, communication skills, and understanding of standards for Ranked maps.
+  - This map should include a spread with at least Normal, Hard, and Insane difficulties.
+  - The applicant should briefly explain why the map is NOT ready to be nominated, while using their modding to back up their reasons.
+- **A mod on a map that proves the applicant is able to judge map quality and readiness for Ranked.**
+  - Applicants are free to choose a map they would nominate or would not nominate.
+  - This map should have 0 nominations when the application is submitted.
+  - This gives the applicant an opportunity to fill any missing gaps in their application, keeping in mind the intentions stated in the descriptions of the previous submissions.
+  - The applicant should briefly describe why the map is (or is not) ready to be nominated.
 
-Evaluators can then review the full application on the BN website, which includes any information the applicant submitted, their test results, as well as a historical record of past evaluations if the user has applied to or has been a BN previously.
+It is good practice to preserve and submit a copy of the map before the mods are applied, as that will notably aid with the evaluation of their modding by giving better context to the evaluators.
+
+Additionally, applications can be marked as available for the public, which will make it appear in the [public evaluations archive](https://bn.mappersguild.com/publicarchive). Users can freely opt in and out of this by changing the visibility status of any evaluation they have in [their evaluations page](https://bn.mappersguild.com/yourevals).
+
+When a user applies to become a BN, the NAT will be notified via the "bnsite" Discord bot in their respective Discord channel. The notification will include the applicant's name and evaluation link, as well as which evaluators have been assigned to the application.
+
+A progress bar in the [application page](https://bn.mappersguild.com/bnapps) details what step their evaluation is currently in.
+
+![application progress bar](img/app-progress-bar.png "Application progress bar")
+
+Evaluators can then review the full application on the BN website, which includes any information the applicant submitted, as well as a historical record of past evaluations if the user has applied to or has been a BN previously.
 
 Evaluation is broken into two stages: *individual* and *group*.
 
 ### Individual stage
 
-During the *individual stage*, lasting at most 7 days, 2–3 evaluators are randomly assigned to the application. Sometimes, BNs are invited to act as evaluators, but there will always be at least one NAT assigned.
+During the *individual stage*, lasting at most 7 days, 3 evaluators are randomly assigned to the application. Sometimes, BNs are invited to act as evaluators, but there will always be at least one NAT assigned.
 
 The evaluators will look over the application and evaluate the applicant's modding performance and behaviour. They will typically note down any positive and negative posts in the mods. Each evaluator will then vote "pass", "neutral", or "fail" for the application.
 
 Applicants will be evaluated on the following criteria:
 
-- **Modding:** Knowledge of the general [ranking criteria](/wiki/Ranking_criteria) and specific criteria of each [game mode](/wiki/Game_mode). Adherence to the [modding expectations](#modding-expectations). Additional abilities relating to metadata, timing, and some others will also be taken into consideration.
-- **General attitude:** Tone of delivery of the mods and other behavioural expectations from the [Code of Conduct](/wiki/Rules/Code_of_conduct_for_modding_and_mapping), as well as general behaviour in chat/forums.
+- **Modding:**
+  - Knowledge of the general [ranking criteria](/wiki/Ranking_criteria) and specific criteria of each [game mode](/wiki/Game_mode).
+  - Presence of recommended [traits](#traits-to-demonstrate-in-modding) in their mods.
+  - Answers to the questions regarding each submitted mod.
+  - Additional abilities relating to metadata, timing, and other miscellaneous areas.
+- **General attitude:**
+  - Tone of delivery of the mods and other behavioural expectations from the [Code of Conduct](/wiki/Rules/Code_of_conduct_for_modding_and_mapping).
+  - General behaviour in chat/forums.
 
 Any comments and votes from evaluators at this stage are hidden from other evaluators.
 
@@ -72,37 +100,20 @@ The *group stage* lasts at most until 14 days after the applicant sent in their 
 
 At this stage, the comments and votes from each evaluator are revealed to the other evaluators, and in the case of an ambiguous verdict, they will discuss until a consensus is reached.
 
-Feedback is then written based on the comments of the evaluators and the application result is sent back to the applicant by the [Nomination Assessment Team bot](https://osu.ppy.sh/users/6616586) as an [announcement message](/wiki/Announcement_messages), after which the evaluation will be archived for future reference. Successful applicants are added as a probationary BN immediately after the result is sent.
+Additional feedback is then written to add any missing information from the evaluators' comments and the application result is sent back to the applicant by the [Nomination Assessment Team bot](https://osu.ppy.sh/users/6616586) as an [announcement message](/wiki/Announcement_messages), after which the evaluation will be archived for future reference. Successful applicants are added as a probationary BN immediately after the result is sent.
 
-In the case of [failed applications](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator#failed-applications), the NAT will also determine the length of the user's [cooldown](#failed-applications) before they may apply again. In case it is reduced from the standard cooldown duration, the conditions will be indicated in the feedback sent to the applicant.
+## Communication post-application
+
+When an application is completed, the applicant is provided with an interface that allows them to chat with the evaluators directly through the BN website in order to ask any questions regarding their application consensus and the evaluators' comments.
+
+The chat is automatically locked after 7 days of inactivity.
+
+![Feedback chat](img/feedback-chat.png "The feedback chat interface")
 
 ## Cooldowns
 
-Depending on your status, the cooldown before you can apply again may vary.
+A cooldown for reapplying of 60 days is set on the following occasions:
 
-### Failed applications
-
-If you failed a Beatmap Nominator application, you will be subjected to one of the following cooldowns before you can apply again:
-
-| Type | Cooldown | Usage |
-| :-- | :-- | :-- |
-| Reduced | 30 days | Applications with relatively few issues, or [Beatmap Nominator Test](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) fails |
-| Standard | 60 days | Normal fails |
-| Extended | 120 days | Applicants with major behaviour concerns |
-
-### Rejoining after being removed from the Beatmap Nominators
-
-Users who have recently left the Beatmap Nominators may have different requirements to rejoin compared to when they first joined. For users who have performed well prior to leaving, they may be able to rejoin with no requirements at all for a period of time. The NAT will inform the user if they have the opportunity to fast-track their way back into the Beatmap Nominators.
-
-If you were a Beatmap Nominator before, the following requirements apply unless you have failed an application since last time you were a Beatmap Nominator:
-
-| Type | Cooldown | Application process |
-| :-- | :-- | :-- |
-| Good | *None* | *None*[^good-terms] |
-| Standard | 60 days | Normal |
-| Activity | *None* | Normal[^activity-terms] |
-
-## Notes
-
-[^good-terms]: A Beatmap Nominator who resigned on good terms will be treated with standard terms after 1 year.
-[^activity-terms]: Applicants will have to provide 3 mods in applications, instead of at least 2.
+- Failed applications
+- Removals from the Beatmap Nominators
+- [Standard-term resignations](/wiki/People/Nomination_Assessment_Team/Evaluations#standard-terms)

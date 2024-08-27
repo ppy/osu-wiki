@@ -24,4 +24,4 @@ Les guest difficulties ne doivent pas être confondues avec les difficultés qui
 
 Sur la page de [discussion d'une beatmap](/wiki/Beatmap_discussion), l'hôte de la beatmap peut transférer la propriété des guest difficulties à leurs mappeurs respectifs par le biais du bouton `Difficulty Owner`. Cela permet aux propriétaires des guest difficulties de résoudre eux-mêmes les problèmes en suspens dans leurs difficultés.
 
-Le propriétaire d'une guest difficulty ne peut pas être modifié si la beatmap est [qualifiée](/wiki/Beatmap/Category#qualified), [classée](/wiki/Beatmap/Category#ranked), ou [loved](/wiki/Beatmap/Category#loved).
+Une fois qu'une beatmap est soit [Qualifiée](/wiki/Beatmap/Category#qualified), [Classée](/wiki/Beatmap/Category#ranked), ou [Loved](/wiki/Beatmap/Category#loved), la propriété d'une difficulté invitée ne peut plus être changée sauf par les membres de la [GMT](/wiki/People/Global_Moderation_Team) ou de la [NAT](/wiki/People/Nomination_Assessment_Team).

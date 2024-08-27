@@ -18,7 +18,7 @@ La série de podcasts est conçue de manière à ce que chacun soit libre de par
 | 6 | [JAKACHAN](https://osu.ppy.sh/users/718696) | Joueur osu! pro | [Lien](https://www.youtube.com/watch?v=WXFMggx94e0) |
 | 7 | [Daru](https://osu.ppy.sh/users/32480) | osu!painter | [Lien](https://www.youtube.com/watch?v=eBFaLRXmfYc) |
 | 8 | [peppy](https://osu.ppy.sh/users/2) | osu!creator | [Lien](https://www.youtube.com/watch?v=x7vdW5uZutU) |
-| 9 | [Cyclone](https://osu.ppy.sh/users/18589) | Joueur/membre de l'équipe à la retraite  | [Lien](https://www.youtube.com/watch?v=jPUSY0FMw2E) |
+| 9 | [Cyclone](https://osu.ppy.sh/users/18589) | Joueur/membre de l'équipe à la retraite | [Lien](https://www.youtube.com/watch?v=jPUSY0FMw2E) |
 | 10 | [thelewa](https://osu.ppy.sh/users/475021) | Joueur osu! pro | [Lien](https://www.youtube.com/watch?v=N7P-J-5LJzk) |
 | 11 | [WubWoofWolf](https://osu.ppy.sh/users/39828) | Joueur osu! pro | [Lien](https://www.youtube.com/watch?v=XYzKlfvQt-w) |
 | 12 | [Ephemeral](https://osu.ppy.sh/users/102335) | Responsable d'équipe à la retraite | [Lien](https://www.youtube.com/watch?v=eXWmjo0-oyM) |

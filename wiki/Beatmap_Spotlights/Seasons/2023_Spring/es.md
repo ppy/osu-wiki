@@ -15,28 +15,28 @@ tags:
 | Evento | Fecha |
 | :-- | :-- |
 | Inicio de la temporada | 19 abr. 2023 |
-| Sala de juego: Playlist A | 19 abr. - 3 may. 2023 |
-| Sala de juego: Playlist B | 3 may. - 17 may. 2023 |
-| Sala de juego: Playlist C | 17 may. - 31 may. 2023 |
-| Sala de juego: Playlist A | 31 may. - 7 jun. 2023 |
-| Sala de juego: Playlist B | 7 jun. - 14 jun. 2023 |
-| Sala de juego: Playlist C | 14 jun. - 21 jun. 2023 |
+| Sala de lista de juego: Playlist A | 19 abr. - 3 may. 2023 |
+| Sala de lista de juego: Playlist B | 3 may. - 17 may. 2023 |
+| Sala de lista de juego: Playlist C | 17 may. - 31 may. 2023 |
+| Sala de lista de juego: Playlist A | 31 may. - 7 jun. 2023 |
+| Sala de lista de juego: Playlist B | 7 jun. - 14 jun. 2023 |
+| Sala de lista de juego: Playlist C | 14 jun. - 21 jun. 2023 |
 | Conclusión de la temporada | 21 jun. 2023 |
 
 ## Salas multijugador semanales
 
 A partir de ahora, para unirse a las salas multijugador semanales requiere que los participantes descarguen e instalen [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
-1. Cada 2 semanas de una temporada, se abre una sola sala de juego. Todos pueden participar durante toda la semana.
+1. Cada 2 semanas de una temporada, se abre una sola sala de lista de juego. Todos pueden participar durante toda la semana.
    - Después de la primera ola de salas, las listas de juego se abrirán nuevamente semanalmente.
-2. Cada sala de juego proporciona una lista de juego predefinida de beatmaps.
+2. Cada sala de lista de juego proporciona una lista de juego predefinida de beatmaps.
    - Cada lista de juego contiene una distribución uniforme de beatmaps Hard, Insane y Expert.
    - Cada lista de juego se corresponde con la letra asignada a cada 2 semanas. Por lo tanto, cada lista de juego se repite una vez durante una temporada.
-3. Dentro de una sala de juego, todos compiten en una tabla de clasificación específica de la sala.
-   - Solo los mejores resultados de puntuación en cada beatmap dentro de la sala de juego se resumen para crear una puntuación clasificada semanal para cada jugador.
+3. Dentro de una sala de lista de juego, todos compiten en una tabla de clasificación específica de la sala.
+   - Solo los mejores resultados de puntuación en cada beatmap dentro de la sala de lista de juego se resumen para crear una puntuación clasificada semanal para cada jugador.
    - Cada beatmap de una lista de juego cuenta por igual para la puntuación de la tabla de clasificación.
    - La puntuación del beatmap individual se basa en el sistema de puntuación de osu!(lazer).
-4. Una vez que concluye la sala de juego, la puntuación clasificada semanal de cada participante de la sala se agrega a la tabla de clasificación de la temporada.
+4. Una vez que concluye la sala de lista de juego, la puntuación clasificada semanal de cada participante de la sala se agrega a la tabla de clasificación de la temporada.
 
 ## Listas de juego
 

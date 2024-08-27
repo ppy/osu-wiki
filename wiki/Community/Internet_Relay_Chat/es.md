@@ -39,7 +39,7 @@ De forma predeterminada, muchos clientes de IRC te informan cuando un usuario se
 
 | Cliente de IRC | Descripción |
 | :-- | :-- |
-| [HexChat](https://hexchat.github.io/) | Marca «Hide join and part messages» en `Settings` -> `Preferences` -> `Chatting` -> `General` (Advanced pre-2.9.6)  |
+| [HexChat](https://hexchat.github.io/) | Marca «Hide join and part messages» en `Settings` -> `Preferences` -> `Chatting` -> `General` (Advanced pre-2.9.6) |
 | [ircII](http://www.eterna.com.au/ircii/) | Escribe `IGNORE * CRAP` |
 | [Irssi](https://irssi.org) | Escribe `/ignore * JOINS PARTS QUITS` |
 | [Weechat](https://weechat.org/) | Escribe `/filter add joinquit * irc_join,irc_part,irc_quit *` |

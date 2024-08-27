@@ -27,7 +27,7 @@ La serie principale di osu!academy serve come introduzione generale all'ampio mo
 | 7-3 | [Griglie](https://www.youtube.com/watch?v=MhIuPvQjLbU) | [ztrot](https://osu.ppy.sh/users/6347) spiega come regolare le dimensioni della griglia nell'editor delle beatmap. |
 | 8 | [Hitsounds](https://www.youtube.com/watch?v=PFEYlQfiJHQ) | [ztrot](https://osu.ppy.sh/users/6347) spiega cosa sono gli hitsounds e illustra le basi dell'hitsounding. |
 | 9 | [Modding Parte 1](https://www.youtube.com/watch?v=bTGBspoMFVA) | [ztrot](https://osu.ppy.sh/users/6347) illustra le basi del modding, spiegando il processo di classificazione delle beatmap e come ottenere una beatmap moddata. |
-| 10 | [Modding Parte 2](https://www.youtube.com/watch?v=bTGBspoMFVA) | [ztrot](https://osu.ppy.sh/users/6347) rivede ancora una volta le basi del modding e mostra i vari strumenti utilizzati nel processo di modding. |
+| 10 | [Modding Parte 2](https://www.youtube.com/watch?v=SFSwmRdNbXM) | [ztrot](https://osu.ppy.sh/users/6347) rivede ancora una volta le basi del modding e mostra i vari strumenti utilizzati nel processo di modding. |
 | 11 | [Mod del Gioco e Suggerimenti per Migliorare in Standard](https://www.youtube.com/watch?v=j8fpJKCjTvM) | [ztrot](https://osu.ppy.sh/users/6347) parla delle mod disponibili e presenta suggerimenti su come migliorare su osu! |
 | 12 | [Fondamenti del Mapping di Taiko](https://www.youtube.com/watch?v=8reEFNk5kQY) | [ztrot](https://osu.ppy.sh/users/6347) illustra le basi della creazione di beatmap per la modalità osu!taiko. |
 | 13 | [Personalizzazione dell'aspetto delle skin di osu!](https://www.youtube.com/watch?v=oUvCBsGyTtw) | [ztrot](https://osu.ppy.sh/users/6347) illustra il concetto di skin e spiega come personalizzare l'aspetto di osu! |

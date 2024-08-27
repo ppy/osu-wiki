@@ -72,7 +72,7 @@ This competition has come to an end and resulted in the following podium:
 | Placing | Player |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=NO }:: [-GN](https://osu.ppy.sh/users/895581)  |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=NO }:: [-GN](https://osu.ppy.sh/users/895581) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: [SoraRoxas01](https://osu.ppy.sh/users/1986262) |
 
 ## Mappools
@@ -252,7 +252,7 @@ This competition has come to an end and resulted in the following podium:
 
 Sunday, 13 May 2018:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Karthy** ::{ flag=GB }:: | **7** | 1 | ::{ flag=NO }:: -GN | [#1](https://osu.ppy.sh/community/matches/42447467) |
 
@@ -260,7 +260,7 @@ Sunday, 13 May 2018:
 
 Saturday, 12 May 2018:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | SoraRoxas01 ::{ flag=GB }:: | 6 | **7** | ::{ flag=NO }:: **-GN** | [#1](https://osu.ppy.sh/community/matches/42412036) |
 
@@ -270,7 +270,7 @@ Saturday, 12 May 2018:
 
 Saturday, 5 May 2018:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | -GN ::{ flag=NO }:: | 4 | **6** | ::{ flag=GB }:: **Karthy** | [#1](https://osu.ppy.sh/community/matches/42230326) |
 
@@ -278,19 +278,19 @@ Saturday, 5 May 2018:
 
 Sunday, 6 May 2018:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | YokesPai ::{ flag=NO }:: | 2 | **6** | ::{ flag=GB }:: **SoraRoxas01** | [#1](https://osu.ppy.sh/community/matches/42260927) |
 
 Monday, 7 May 2018:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **OPJames** ::{ flag=GB }:: | **6** | 5 | ::{ flag=FR }:: Flaven | [#1](https://osu.ppy.sh/community/matches/42285115) |
 
 Tuesday, 8 May 2018:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **SoraRoxas01** ::{ flag=GB }:: | **6** | 2 | ::{ flag=GB }:: OPJames | [#1](https://osu.ppy.sh/community/matches/42311651) |
 
@@ -300,13 +300,13 @@ Tuesday, 8 May 2018:
 
 Friday, 27 April 2018:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | YokesPai ::{ flag=NO }:: | 2 | **6** | ::{ flag=GB }:: **Karthy** | [#1](https://osu.ppy.sh/community/matches/42004273) |
 
 Monday, 30 April 2018:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **-GN** ::{ flag=NO }:: | **6** | 4 | ::{ flag=GB }:: OPJames | [#1](https://osu.ppy.sh/community/matches/42102117) |
 
@@ -314,26 +314,26 @@ Monday, 30 April 2018:
 
 Saturday, 28 April 2018:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Jackylam5 ::{ flag=NL }:: | 2 | **6** | ::{ flag=GB }:: **SoraRoxas01** | [#1](https://osu.ppy.sh/community/matches/42042176) |
 
 Monday, 30 April 2018:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Flaven** ::{ flag=FR }:: | **6** | 3 | ::{ flag=US }:: Hot Korean Girl | [#1](https://osu.ppy.sh/community/matches/42099145) |
 | Electovoid ::{ flag=GB }:: | 0 | **1** | ::{ flag=FI }:: **Jerekek** | *forfeit* |
 
 Tuesday, 1 May 2018:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Flaven** ::{ flag=FR }:: | **6** | 1 | ::{ flag=FI }:: Jerekek | [#1](https://osu.ppy.sh/community/matches/42129911) |
 
 Saturday, 5 May 2018:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | helix ::{ flag=GB }:: | 4 | **6** | ::{ flag=GB }:: **Jameslike** | [#1](https://osu.ppy.sh/community/matches/42224901) |
 | Jameslike ::{ flag=GB }:: | 1 | **6** | ::{ flag=GB }:: **SoraRoxas01** | [#1](https://osu.ppy.sh/community/matches/42226994) |
@@ -344,20 +344,20 @@ Saturday, 5 May 2018:
 
 Sunday, 22 April 2018:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Flaven ::{ flag=FR }:: | 2 | **5** | ::{ flag=GB }:: **Karthy** | [#1](https://osu.ppy.sh/community/matches/41870443) |
 | **-GN** ::{ flag=NO }:: | **5** | 3 | ::{ flag=GB }:: helix | [#1](https://osu.ppy.sh/community/matches/41877395) |
 
 Monday, 23 April 2018:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **YokesPai** ::{ flag=NO }:: | **4** | 0 | ::{ flag=GB }:: Electovoid | [#1](https://osu.ppy.sh/community/matches/41903047) *(forfeit)* |
 
 Wednesday, 25 April 2018:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | SoraRoxas01 ::{ flag=GB }:: | 2 | **5** | ::{ flag=GB }:: **OPJames** | [#1](https://osu.ppy.sh/community/matches/41954533) |
 
@@ -365,7 +365,7 @@ Wednesday, 25 April 2018:
 
 Saturday, 21 April 2018:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Rohulk** ::{ flag=RO }:: | **5** | 1 | ::{ flag=GB }:: OskaRRRitoS | [#1](https://osu.ppy.sh/community/matches/41840655) |
 | **Jerekek** ::{ flag=FI }:: | **5** | 4 | ::{ flag=GB }:: SteffoST | [#1](https://osu.ppy.sh/community/matches/41840655) |
@@ -376,7 +376,7 @@ Saturday, 21 April 2018:
 
 Sunday, 22 April 2018:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **jackylam5** ::{ flag=NL }:: | **5** | 2 | ::{ flag=GB }:: spook | [#1](https://osu.ppy.sh/community/matches/41877275) |
 | Bae- ::{ flag=GB }:: | 1 | **5** | ::{ flag=NL }:: **jackylam5** | [#1](https://osu.ppy.sh/community/matches/41879277) |
@@ -385,7 +385,7 @@ Sunday, 22 April 2018:
 
 Monday, 23 April 2018:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Jameslike** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: djsettle | [#1](https://osu.ppy.sh/community/matches/41904734) |
 | Rohulk ::{ flag=RO }:: | 3 | **5** | ::{ flag=GB }:: **Jameslike** | [#1](https://osu.ppy.sh/community/matches/41906482) |
@@ -396,14 +396,14 @@ Monday, 23 April 2018:
 
 Monday, 9 April 2018:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **OskaRRRitoS** ::{ flag=GB }:: | **5** | 2 | ::{ flag=SE }:: Nitroz | [#1](https://osu.ppy.sh/community/matches/41532755) |
 | **spook** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: Doomsday is Bad | [#1](https://osu.ppy.sh/community/matches/41534612) |
 
 Saturday, 14 April 2018:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Rohulk ::{ flag=RO }:: | 2 | **5** | ::{ flag=NO }:: **YokesPai** | [#1](https://osu.ppy.sh/community/matches/41656837) |
 | waywern2012 ::{ flag=LV }:: | 0 | **1** | ::{ flag=GB }:: **helix** | *forfeit* |
@@ -416,13 +416,13 @@ Saturday, 14 April 2018:
 
 Saturday, 14 April 2018:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **SoraRoxas01** ::{ flag=GB }:: | **5** | 2 | ::{ flag=US }:: Hot Korean Girl | [#1](https://osu.ppy.sh/community/matches/41667268) |
 
 Sunday, 15 April 2018:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Joezapy** ::{ flag=US }:: | **5** | 4 | ::{ flag=FI }:: Lefafel | [#1](https://osu.ppy.sh/community/matches/41687649) |
 | Poofie ::{ flag=FI }:: | 2 | **5** | ::{ flag=GB }:: **Summer Solstice** | [#1](https://osu.ppy.sh/community/matches/41689404) |
@@ -433,7 +433,7 @@ Sunday, 15 April 2018:
 
 Tuesday, 17 April 2018:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **-GN** ::{ flag=NO }:: | **5** | 2 | ::{ flag=FI }:: Jerekek | [#1](https://osu.ppy.sh/community/matches/41741168) |
 
@@ -441,13 +441,13 @@ Tuesday, 17 April 2018:
 
 Friday, 30 March 2018:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Jameslike** ::{ flag=GB }:: | **4** | 0 | ::{ flag=FI }:: Poofie | [#1](https://osu.ppy.sh/community/matches/41256556) |
 
 Saturday, 31 March 2018:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **YokesPai** ::{ flag=NO }:: | **4** | 0 | ::{ flag=FI }:: Lefafel | [#1](https://osu.ppy.sh/community/matches/41285050) |
 | **waywern2012** ::{ flag=LV }:: | **4** | 0 | ::{ flag=GB }:: spook | [#1](https://osu.ppy.sh/community/matches/41286834) |
@@ -458,7 +458,7 @@ Saturday, 31 March 2018:
 
 Sunday, 1 April 2018:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Flaven** ::{ flag=FR }:: | **4** | 1 | ::{ flag=GB }:: SteffoST | [#1](https://osu.ppy.sh/community/matches/41315535) |
 | **Jerekek** ::{ flag=FI }:: | **4** | 2 | ::{ flag=GB }:: Bae- | [#1](https://osu.ppy.sh/community/matches/41317056) |
@@ -469,19 +469,19 @@ Sunday, 1 April 2018:
 
 Monday, 2 April 2018:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Doomsday is Bad ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **helix** | *forfeit* |
 
 Wednesday, 4 April 2018:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Summer Solstice ::{ flag=GB }:: | 3 | **4** | ::{ flag=GB }:: **Electovoid** | [#1](https://osu.ppy.sh/community/matches/41394786) |
 
 Thursday, 5 April 2018:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Rohulk** ::{ flag=RO }:: | **4** | 2 | ::{ flag=US }:: Joezapy | [#1](https://osu.ppy.sh/community/matches/41414777) |
 

@@ -6,7 +6,7 @@ La categoría de beatmap [amados](/wiki/Beatmap/Category#loved) actualmente est�
 
 El 2 de febrero de 2015, se publicó la solicitud de función *[New beatmap category for good unrankable mapsets](https://osu.ppy.sh/community/forums/topics/293841)*. Detalló otra forma fuera del [proceso de clasificación](/wiki/Beatmap_ranking_procedure) para que los mapas tuvieran tablas de clasificación, y rápidamente ganó fuerza a medida que los jugadores mostraban su preocupación por el hecho de que el proceso de clasificación se volviera demasiado estricto y no permitiera que algunos mapas albergaran competencia.
 
-Otra razón por la que esta solicitud se hizo popular es que mapas muy poco convencionales o innovadores nunca podrían haber encajado en los [criterios de clasificación](/wiki/Ranking_criteria). Los jugadores estaban interesados en competir en algunos de estos mapas, como los que presentaban estilos «2B», similar a *[Aspire](/wiki/Contests/Aspire)*, o elementos de [TAG co-op](/wiki/Beatmap/TAG).
+Otra razón por la que esta solicitud se hizo popular es que mapas muy poco convencionales o innovadores nunca podrían haber encajado en los [criterios de clasificación](/wiki/Ranking_criteria). Los jugadores estaban interesados en competir en algunos de estos mapas, como los que presentaban estilos «2B», similar a *[Aspire](/wiki/Contests/Aspire)*, o elementos de [TAG co-op](/wiki/Beatmap/TAG_beatmaps).
 
 A fines de 2016, esta solicitud de función tenía la segunda mayor cantidad de estrellas en la historia del foro con casi 13 000 de prioridad.
 
