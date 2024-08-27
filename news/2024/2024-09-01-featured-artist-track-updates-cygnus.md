@@ -4,11 +4,11 @@ title: "Featured Artist Track Updates: cygnus"
 date: 2024-09-01 19:00:00 +0000
 ---
 
-A bit over a year ago, [**cygnus**](https://osu.ppy.sh/beatmaps/artists/359) took the plunge and [became a Featured Artist](https://osu.ppy.sh/home/news/2023-05-13-new-featured-artist-cygnus). Since then, he's released album after album after album, so it's about time we officially bring **40** of those tracks into osu!.
+A bit over a year ago, [**cygnus**](https://osu.ppy.sh/beatmaps/artists/359) took the plunge and [became a Featured Artist](https://osu.ppy.sh/home/news/2023-05-13-new-featured-artist-cygnus). Since then, he's released album after album after album, so it's about time we officially bring **41** of those tracks into osu!.
 
 ![](https://assets.ppy.sh/artists/359/header.jpg)
 
-More specifically, those **40** tracks are now part of [**cygnus**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/359)! Anything labeled as **NEW** (like the image below) is... new. Very complicated, we know.
+More specifically, those **41** tracks are now part of [**cygnus**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/359)! Anything labeled as **NEW** (like the image below) is... new. Very complicated, we know.
 
 ![](LINK)
 
