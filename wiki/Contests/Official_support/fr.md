@@ -94,4 +94,4 @@ Les demandes de soutien au post de news seront examinées par le comité du conc
 
 ## Notes
 
-[^note-d’exception]: Des exceptions peuvent être accordées au cas par cas, à la discrétion du [comité du concours](/wiki/People/Tournament_Committee#contest-committee).
+[^note-d’exception]: Des exceptions peuvent être accordées au cas par cas, à la discrétion du [comité du concours](/wiki/People/Tournament_Committee#comité-des-concours).

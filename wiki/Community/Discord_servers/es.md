@@ -44,7 +44,6 @@ Además de los servidores de los modos de juego, existen otros servidores de la 
 |  | Nombre | Propietario | Descripción |
 | :-: | :-- | :-- | :-- |
 | [![](img/Mapset-Management-Server.png)](https://discord.com/invite/TCDSjhb6yS) | [Mapset Management Server](https://discord.com/invite/TCDSjhb6yS) | ::{ flag=GE }:: [Kyuunex](https://osu.ppy.sh/users/9236044) | El **Mapset Management Server** ofrece un lugar para crear y buscar solicitudes de [mods](/wiki/Modding), [dificultades de invitados](/wiki/Beatmap/Guest_difficulty), y [colaboraciones](/wiki/Beatmap/Beatmap_collaborations) en un entorno casual. |
-| [![](img/Cozy-Mappers-Cafe.png)](https://discord.com/invite/uDjwjaZ) | [Cozy Mappers' Café](https://discord.com/invite/uDjwjaZ) | ::{ flag=EG }:: [Teky](https://osu.ppy.sh/users/10520912) | El **Cozy Mappers' Café** tiene como objetivo ser una comunidad más relajada, donde los usuarios puedan discutir todo lo relacionado con el mapping y el modding. |
 
 ## Servidores relacionados con los torneos
 
