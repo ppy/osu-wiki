@@ -44,7 +44,7 @@
   - [Flechas suplementarias-A](https://en.wikipedia.org/wiki/Supplemental_Arrows-A), [Flechas suplementarias-B](https://en.wikipedia.org/wiki/Supplemental_Arrows-B), [Otros símbolos y flechas](https://en.wikipedia.org/wiki/Miscellaneous_Symbols_and_Arrows)
   - [Dingbats](https://en.wikipedia.org/wiki/Dingbats_(Unicode_block))
   - [Otros símbolos](https://en.wikipedia.org/wiki/Miscellaneous_Symbols)
-
+  
   Esto no se aplica si el artista usa a propósito símbolos de manera que no sugieran espacios. Por ejemplo, `。✰302？ionwan2go✰。` sería `.*302?ionwan2go*.` y no `. * 302 ? ionwan2go * .`. Los demás tipos de caracteres se tratan según el caso.
 - **En los campos romanizados, los símbolos especiales deben cambiarse por su equivalente imprimible ASCII más cercano o eliminarse.** Los caracteres especiales distintos de los indicados a continuación deben modificarse o eliminarse según el caso. Cuando existan varias opciones, la que se use para la romanización dependerá del contexto.
 
@@ -92,7 +92,7 @@ Cuando todo el campo está en mayúsculas o minúsculas, los marcadores pueden u
   - `Nombre del círculo`
   - `Un miembro muy conocido que participa en la canción`
   - `Nombre del círculo feat. Miembro del círculo/Colaborador externo/Cantante`
-
+  
   Los colaboradores externos de las canciones en solitario suelen figurar en los créditos y los demás miembros del círculo que figuran específicamente para la canción deberían seguir incluidos. El hecho de que un miembro sea lo suficientemente conocido como para ser el único artista se determina según el caso.
 
 ### Opciones permitidas
