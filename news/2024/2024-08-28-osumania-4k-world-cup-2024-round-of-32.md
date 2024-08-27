@@ -71,7 +71,7 @@ You can find the full results right here. Yup, go on, take a look.
 
 ## Match highlights
 
-### Hong Kong ::{ flag=HK }:: vs. ::{ flag=ID }:: Indonesia
+### ::{ flag=HK }:: Hong Kong vs. ::{ flag=ID }:: Indonesia
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2232644735&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
@@ -87,7 +87,7 @@ If you are not able to watch the whole match, here are some highlighted picks:
 
 Ultimately, Hong Kong emerged victorious. The higher consistency of [Quotient](https://osu.ppy.sh/users/11313227) & [ATP Koshepen](https://osu.ppy.sh/users/17115114) (who both played every map in the match) lead them to an earned victory. Indonesia, not out yet, will fight on in the loser's bracket...
 
-### Singapore ::{ flag=SG }:: vs. ::{ flag=PL }:: Poland
+### ::{ flag=SG }:: Singapore vs. ::{ flag=PL }:: Poland
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2232647991&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
