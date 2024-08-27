@@ -22,7 +22,7 @@ Numerosos jugadores han ocupado el puesto #1 en cada modo de juego en diferentes
 
 *Página principal: [osu!](osu!)*
 
-A partir del 21 de julio de 2024, en la [clasificación de rendimiento de osu!](https://osu.ppy.sh/rankings/osu/performance) el jugador en el puesto #1 es ::{ flag=GB }:: [9MlCE](https://osu.ppy.sh/users/9269034/osu).
+A partir del 3 de agosto de 2024, en la [clasificación de rendimiento de osu!](https://osu.ppy.sh/rankings/osu/performance) el jugador en el puesto #1 es ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902/osu).
 
 ## ![][osu!taiko] osu!taiko
 

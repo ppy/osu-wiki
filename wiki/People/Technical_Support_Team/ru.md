@@ -30,4 +30,5 @@ outdated_since: 24a3e2dd442d541ad1e64134b4ca7243b16fe038
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Филиппинский |
+| ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Польский |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Испанский |

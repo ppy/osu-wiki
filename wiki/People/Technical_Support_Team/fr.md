@@ -29,4 +29,5 @@ La [page de groupe de l'équipe de support technique](https://osu.ppy.sh/groups/
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino |
+| ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Polonais |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Espagnol |

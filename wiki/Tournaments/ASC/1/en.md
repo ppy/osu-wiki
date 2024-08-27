@@ -92,6 +92,31 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
 
 ## Mappools
 
+### Grand Finals
+
+- RC
+  1. [BLOOD STAIN CHILD - Last Stardust (ItzScep) \[Into The Stardust\]](https://osu.ppy.sh/beatmapsets/2230705#mania/4734143)
+  2. [Smiley - Destiny GAMMA (Mipha-) \[Unravel 1.05x (276bpm\]](https://osu.ppy.sh/beatmapsets/1747908#mania/3575280)
+  3. [Yudare-P feat. Hatsune Miku - Iriya Iriya (\[GS\]hina) \[Liberty 1.15x (173bpm)\]](https://osu.ppy.sh/beatmapsets/2230753#mania/4734254)
+  4. [8284 - Central Nucleus (\[Crz\]Crysarlene) \[crysather \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/1801649#mania/3694006)
+  5. [Sharks - Nereid (Guilhermeziat) \[Stage 7: Tsunami\]](https://osu.ppy.sh/beatmapsets/1788534#mania/3664441)
+  6. [buelow - Revolver (Sped Up Ver.) (Ska) \[hoyden\]](https://osu.ppy.sh/beatmapsets/2230683#mania/4734084)
+  7. [Camellia - Racemization (\[GS\]hina) \[Catalyst (ASC\_Edit\]](https://osu.ppy.sh/beatmapsets/2230761#mania/4734266)
+- LN
+  1. [Miyashita Yuu x Hiiragi Kirai - Grain (ERA Imperial) \[LeoN is cuTE\]](https://osu.ppy.sh/beatmapsets/2230674#mania/4734062)
+  2. [Camellia - TEMPO KATANA (FelixSpade) \[LN Master // Kiku-ichimonji+\]](https://osu.ppy.sh/beatmapsets/2230099#mania/4732428)
+  3. [Getty - Revolt (MyZterioN-) \[tax on the duck\]](https://osu.ppy.sh/beatmapsets/2214321#mania/4691614)
+  4. [Culprate - Beast (Vorso Remix) (\[Crz\]Crysarlene) \[Excelsior \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/2230642#mania/4733958)
+- HB
+  1. [Xyris - Eviternity (ERA Imperial) \[Leischl\]](https://osu.ppy.sh/beatmapsets/2230676#mania/4734064)
+  2. [ChumuNote - BlueSunnyFish (feat. Twinfield) (chxu) \[ABOVE YOU\]](https://osu.ppy.sh/beatmapsets/2230516#mania/4733668)
+  3. [katagiri - Kyuukou (ERA Leon) \[Equilibrium (cut)\]](https://osu.ppy.sh/beatmapsets/2230716#mania/4734157)
+- SV
+  1. [Ardolf - Varcolac (awdse22) \[Nocturnal\]](https://osu.ppy.sh/beatmapsets/2230756#mania/4734257)
+  2. [Chroma - I (Promachos) \[UNEXPECTED LOVE\]](https://osu.ppy.sh/beatmapsets/2230738#mania/4734213)
+- Tiebreaker
+  1. **[Sparxe - Chaos Breaker (Critical\_Star) \[Dark Awake\]](https://osu.ppy.sh/beatmapsets/2230790#mania/4734315)**
+
 ### Finals
 
 - RC
@@ -198,6 +223,22 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
   2. [Zekk - Abrasion (Japeynius) \[Stage 8: Resolution\]](https://osu.ppy.sh/beatmapsets/2206324#mania/4671290)
 
 ## Match results
+
+### Finals
+
+Saturday, 10 August 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Bocchi Soup** | **0** | -1 | LOTT'S TRAGIC HINDILOVE EXTRA | *win by default* |
+| **Yuma fanboys** | **7** | 1 | Noodle Soup | [#1](https://osu.ppy.sh/community/matches/115022632) |
+| skibidi's hybrid soup | 2 | **7** | **Pixel 7** | [#1](https://osu.ppy.sh/community/matches/115022641) |
+
+Sunday, 11 August 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Bocchi Soup | 4 | **7** | **Pixel 7** | [#1](https://osu.ppy.sh/community/matches/115036476) |
 
 ### Semifinals
 
