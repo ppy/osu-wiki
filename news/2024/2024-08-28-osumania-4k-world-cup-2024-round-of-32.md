@@ -73,19 +73,23 @@ You can find the full results right here. Yup, go on, take a look.
 
 ### ::{ flag=HK }:: Hong Kong vs. ::{ flag=ID }:: Indonesia
 
+[*You can view the match information here.*](https://osu.ppy.sh/community/matches/115212102)
+
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2233665337&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
 Indonesia's renewed roster with 6 new faces had an interesting first match against the higher-seeded Hong Kong. If you don't feel like watching the whole match, these highlights should contain the gist:
 
-- [Little Little Princess](https://osu.ppy.sh/beatmapsets/2234579#mania/4746363) (RC3) @ [15:40](https://www.twitch.tv/videos/2233665337?t=00h15m40s)
-- [Brain Rigid Girl](https://osu.ppy.sh/beatmapsets/2234595#mania/4746400) (LN2) @ [41:05](https://www.twitch.tv/videos/2233665337?t=00h41m05s)
-- [Hebe](https://osu.ppy.sh/beatmapsets/2234586#mania/4746375) (HB2) @ [52:18](https://www.twitch.tv/videos/2233665337?t=00h52m18s)
+- [Little Little Princess](https://osu.ppy.sh/beatmapsets/2234579#mania/4746363) (RC3) @ [15:40](https://www.twitch.tv/videos/2233665337?t=00h15m40s) — The first breakpoint of the match, a cohesive triple way FC from Indonesia to take the match lead.
+- [Brain Rigid Girl](https://osu.ppy.sh/beatmapsets/2234595#mania/4746400) (LN2) @ [41:05](https://www.twitch.tv/videos/2233665337?t=00h41m05s) — A clutch save by Hong Kong on match point, and the closest pick in this entire RO32!
+- [Hebe](https://osu.ppy.sh/beatmapsets/2234586#mania/4746375) (HB2) @ [52:18](https://www.twitch.tv/videos/2233665337?t=00h52m18s) — The tiebreaker, the essence of all tournaments, the final consistency test for Hong Kong to secure their victory.
 
 Ultimately, Hong Kong made a comeback against a strong performance and emerged victorious. Whether Indonesia's new roster will match the country's 3rd-place performance last year remains to be seen in the losers' bracket...
 
 ### ::{ flag=SG }:: Singapore vs. ::{ flag=PL }:: Poland
+
+[*You can view the match information here.*](https://osu.ppy.sh/community/matches/115212044)
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2233674722&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
