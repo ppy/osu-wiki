@@ -73,7 +73,7 @@ You can find the full results right here. Yup, go on, take a look.
 
 ### ::{ flag=HK }:: Hong Kong vs. ::{ flag=ID }:: Indonesia
 
-[*You can view the match information here.*](https://osu.ppy.sh/community/matches/115212102)
+[**You can view the match information here!**](https://osu.ppy.sh/community/matches/115212102)
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2233665337&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
