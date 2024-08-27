@@ -225,7 +225,7 @@
 - ย้าย [Mr Color](https://osu.ppy.sh/users/116078) จาก ผู้ดูแลแชท เป็น Global Moderation Team (16-11-2556)
 - เพิ่ม [ZHSteven](https://osu.ppy.sh/users/142413) เป็น Beatmap Appreciation Team (17-11-2556)
 - เพิ่ม [PROGUY](https://osu.ppy.sh/users/528181) เป็น Beatmap Appreciation Team (17-11-2556)
-- เพิ่ม [Roxas](https://osu.ppy.sh/users/1041833)  เป็น Beatmap Appreciation Team (17-11-2556)
+- เพิ่ม [Roxas](https://osu.ppy.sh/users/1041833) เป็น Beatmap Appreciation Team (17-11-2556)
 - ย้าย [lolcubes](https://osu.ppy.sh/users/578401) จาก osu! Alumni เป็น Beatmap Appreciation Team (18-11-2556)
 - ย้าย [Dangaard](https://osu.ppy.sh/users/19488) จาก osu! Alumni เป็น Beatmap Appreciation Team (24-11-2556)
 - ย้าย [blissfulyoshi](https://osu.ppy.sh/users/20865) จาก osu! Alumni เป็น Beatmap Appreciation Team (24-11-2556)

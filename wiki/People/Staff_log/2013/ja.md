@@ -225,7 +225,7 @@
 - [Mr Color](https://osu.ppy.sh/users/116078)をチャットモデレーターからグローバルモデレーションチームへ (2013-11-16)
 - [ZHSteven](https://osu.ppy.sh/users/142413)をビートマップアプリーシエイションチームに追加 (2013-11-17) <!-- https://osu.ppy.sh/community/forums/topics/161395?start=2691021 -->
 - [PROGUY](https://osu.ppy.sh/users/528181)をビートマップアプリーシエイションチームに追加 (2013-11-17) <!-- https://osu.ppy.sh/community/forums/topics/165008?start=2690769 -->
-- Added [Roxas](https://osu.ppy.sh/users/1041833)  to ビートマップアプリーシエイションチーム (2013-11-17)
+- Added [Roxas](https://osu.ppy.sh/users/1041833) to ビートマップアプリーシエイションチーム (2013-11-17)
 - [lolcubes](https://osu.ppy.sh/users/578401)をosu! Alumniからビートマップアプリーシエイションチームへ (2013-11-18) <!-- https://osu.ppy.sh/community/forums/posts/2693082 -->
 - [Dangaard](https://osu.ppy.sh/users/19488)をosu! Alumniからビートマップアプリーシエイションチームへ (2013-11-24) <!-- https://osu.ppy.sh/community/forums/posts/2703864 -->
 - [blissfulyoshi](https://osu.ppy.sh/users/20865)をosu! Alumniからビートマップアプリーシエイションチームへ (2013-11-24) <!-- https://osu.ppy.sh/community/forums/posts/2703982 -->
