@@ -18,7 +18,7 @@
 ### Pautas
 
 - **Los logos no deben usarse como referencia para el uso de mayúsculas.** Dado que los logos suelen estar estilizados, aplica las mayúsculas y minúsculas normales[^title-case] a menos que otros metadatos textuales lo admitan.
-- **Cuando una remezcla o versión parezca tener una errata en el nombre de la canción en comparación con la pista original, usa en su lugar la grafía original, a menos que la errata sea una estilización intencionada.** Si no está claro, debe realizarse una [discusión](/wiki/Beatmap_discussion#discusiones) para llegar a un acuerdo sobre cuál utilizar. A continuación, se muestran ejemplos con una remezcla de una canción titulada `triangles`:
+- **Cuando una remezcla o cover parezca tener una errata en el nombre de la canción en comparación con la pista original, usa en su lugar la grafía original, a menos que la errata sea una estilización intencionada.** Si no está claro, debe realizarse una [discusión](/wiki/Beatmap_discussion#discusiones) para llegar a un acuerdo sobre cuál usar. A continuación, se muestran ejemplos con una remezcla de una canción titulada `triangles`:
   - `triangls` debería ser `triangles`.
   - `triANGELS (angelic remix)` debería dejarse como está
   - `3angle5` debería dejarse como está
@@ -141,9 +141,9 @@ Cuando todo el campo está en mayúsculas o minúsculas, los marcadores pueden u
 - **Si hay marcadores similares en el título de una canción, sustitúyelos por los marcadores correspondientes de la siguiente lista.**
 - **Si no hay marcadores, solo podrás añadirlos cuando haya varias versiones de una canción para indicar la versión correcta.**
 - `(Short Ver.)`
-  - Por lo general, se usa para indicar que existe una versión más larga. Usa este marcador ya exista un marcador de duración como `-Short Ver-`, `Short Ver.`, `~Short Version~`. Esto no se aplica a los marcadores `Movie` o `Game Ver.`.
+  - Por lo general, se usa para indicar que existe una versión más larga. Usa este marcador cuando ya exista un marcador de duración como `-Short Ver-`, `Short Ver.`, `~Short Version~`. Esto no se aplica a los marcadores `Movie` o `Game Ver.`.
 - `(Game Ver.)`
-  - Usa este marcador cuando haya un marcador existente como `~Game Size~`, `(Game Size)`, `game OP edit`, `OP Version` para pistas usadas en juegos.
+  - Usa este marcador cuando ya exista un marcador como `~Game Size~`, `(Game Size)`, `game OP edit`, `OP Version` para pistas usadas en videojuegos.
 - `(Movie Ver.)`
   - Usa este marcador cuando ya exista uno como `Movie EDIT`, `~movie size~`, `Movie Cut`, `(Movie Version)`.
 
@@ -167,7 +167,7 @@ Cuando todo el campo está en mayúsculas o minúsculas, los marcadores pueden u
 
 - **El campo `Source` debe usarse, si la canción...**
   - **procede directamente de un medio (videojuegos, series de televisión, etc.) o está vinculado a él, excepto los álbumes y los sitios web de alojamiento.**
-  - **es una remezcla, arreglo o versión de una canción a partir de un medio o vinculado a él, excepto álbumes y sitios web de alojamiento.**
+  - **es una remezcla, arreglo o cover de una canción a partir de un medio o vinculado a él, excepto álbumes y sitios web de alojamiento.**
   - **fue creada específicamente para osu!, como los [osu! originals](/wiki/osu!_originals).** Cualquier otra canción *no* debe usar `osu!` como fuente.
   - **fue creada para un acontecimiento en concreto, como un torneo como la `osu! World Cup` o conciertos.**
 - **Si una pista contiene o remezcla varias canciones que no proceden todas de una fuente compartida, el campo debe dejarse en blanco y las fuentes deben añadirse a las etiquetas.**
@@ -202,7 +202,7 @@ Cuando todo el campo está en mayúsculas o minúsculas, los marcadores pueden u
 
 - **Las remezclas, arreglos y mashups deben etiquetar sus géneros específicos, así como los géneros de la canción original.** Si una canción de `Anime` se remezcla para convertirla principalmente en `Electrónica`, etiqueta ambas.
 - **Las etiquetas deberían incluir los siguientes elementos cuando sea necesario:**
-  - **Los metadatos del artista, título o fuente no usados en los campos principales cuando existen varias opciones.**
+  - **Los metadatos del artista, título o fuente no usados en los campos principales cuando existan varias opciones.**
   - **Otros artistas relacionados con el tema pero que no figuran en el campo de artista, como compositor, letrista, guitarrista, etc.**
   - **Nombres de álbumes, EP o sencillos.** Si la canción aparece en varios álbumes, basta con etiquetar uno de ellos.
   - **Versiones de búsqueda fácil para las partes de los metadatos difíciles de escribir.**
