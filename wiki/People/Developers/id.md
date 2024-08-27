@@ -1,5 +1,7 @@
 ---
 no_native_review_since: 45ff70447376c9589b5d0cae497e08525b1d36eb
+outdated_translation: true
+outdated_since: ec944a1ed302c881a69df497670c6163e7fe931e
 tags:
   - devs
   - osu!dev

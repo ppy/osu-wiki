@@ -4,7 +4,7 @@
 
 No se espera que los nuevos contribuidores estén familiarizados con GitHub o [git](https://git-scm.com/), ya que son herramientas diseñadas principalmente para desarrolladores. No te preocupes si no haces algo bien la primera vez, un [mantenedor de la wiki](/wiki/People/osu!_wiki_maintainers) te guiará en la dirección correcta o lo arreglará por ti.
 
-En caso de necesitar consejos durante alguna etapa, no dudes en preguntar en el canal `#osu-wiki` del [servidor de Discord osu!](/wiki/Community/osu!_Discord_server).
+En caso de necesitar consejos durante alguna etapa, no dudes en preguntar en el canal `#osu-wiki` del [servidor de Discord osu!](/wiki/Community/Discord_servers#servidor-oficial-de-osu!).
 
 ## Áreas de interés
 
@@ -50,7 +50,7 @@ Todos los cambios en la osu! wiki son moderados. Durante esa etapa, otros colabo
 Si nadie lo ha revisado al cabo de un par de días, intenta lo siguiente:
 
 - Asegúrate de haber resuelto todas las sugerencias, es posible que las personas estén esperando tus respuestas.
-- Pregunta a otros editores de la osu! wiki en el [servidor de Discord osu!](/wiki/Community/osu!_Discord_server) (canal `#osu-wiki`) o en los comentarios de GitHub.
+- Pregunta a otros editores de la osu! wiki en el [servidor de Discord osu!](/wiki/Community/Discord_servers#servidor-oficial-de-osu!) (canal `#osu-wiki`) o en los comentarios de GitHub.
 - Para obtener ayuda con la traducción, consulta un par de solicitudes de cambios fusionadas para tu idioma y ponte en contacto con sus revisores y/o autores ([ejemplo de consulta de GitHub](https://github.com/ppy/osu-wiki/pulls?q=is:pr+is:merged+[ES])).
 - ¡Pídele a tus amigos un vistazo rápido!
 
@@ -58,6 +58,6 @@ Además de un proceso de revisión manual, el repositorio de la osu! wiki tiene 
 
 ## Fusión
 
-Eventualmente, uno de los [mantenedores de la wiki](/wiki/People/osu!_wiki_maintainers) verificará tus cambios, generalmente después de las revisiones de otros colaboradores. Si no sucede nada después de un tiempo razonable, pregunta en los comentarios de la solicitud de cambios o en el canal `#osu-wiki` del [servidor de Discord osu!](/wiki/Community/osu!_Discord_server). Tus cambios aparecerán en la osu! wiki poco después de la fusión (en casos excepcionales, esto puede demorar hasta cinco horas).
+Eventualmente, uno de los [mantenedores de la wiki](/wiki/People/osu!_wiki_maintainers) verificará tus cambios, generalmente después de las revisiones de otros colaboradores. Si no sucede nada después de un tiempo razonable, pregunta en los comentarios de la solicitud de cambios o en el canal `#osu-wiki` del [servidor de Discord osu!](/wiki/Community/Discord_servers#servidor-oficial-de-osu!). Tus cambios aparecerán en la osu! wiki poco después de la fusión (en casos excepcionales, esto puede demorar hasta cinco horas).
 
 [osu_wiki]: https://github.com/ppy/osu-wiki

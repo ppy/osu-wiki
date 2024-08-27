@@ -22,7 +22,7 @@ The **Asia Suiji Cup: Rhythmus Aquarum** (***ASC***) is a three-on-three asian c
 | Qualifiers | 2024-07-13/2024-07-14 |
 | Round of 16 | 2024-07-20/2024-07-21 |
 | Quarterfinals | 2024-07-27/2024-07-28 |
-| Semifinals | 2024-08-03/2024-08-04 |
+| Semifinals | 2024-08-02/2024-08-04 |
 | Finals | 2024-08-10/2024-08-11 |
 | Grand Finals | 2024-08-17/2024-08-18 |
 
@@ -63,6 +63,7 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1920758)
 - [Discord server](https://discord.gg/NUd7GyU4Hd)
 - [Livestream](https://www.twitch.tv/asiasuijicup)
+- [ASC Fantasy League](https://docs.google.com/spreadsheets/d/1xdieLs_NASDbeQAl4r_N8jDQn0chVKxP-LtqMnHJ0Os/edit?gid=0#gid=0)
 - [ASC trailer](https://youtu.be/a1fHTbI5erU)
 - [ASC website](https://asia-suiji-cup.vercel.app)
 - [Challonge bracket](https://challonge.com/asiasuijicup)
@@ -91,6 +92,100 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
 
 ## Mappools
 
+### Grand Finals
+
+- RC
+  1. [BLOOD STAIN CHILD - Last Stardust (ItzScep) \[Into The Stardust\]](https://osu.ppy.sh/beatmapsets/2230705#mania/4734143)
+  2. [Smiley - Destiny GAMMA (Mipha-) \[Unravel 1.05x (276bpm\]](https://osu.ppy.sh/beatmapsets/1747908#mania/3575280)
+  3. [Yudare-P feat. Hatsune Miku - Iriya Iriya (\[GS\]hina) \[Liberty 1.15x (173bpm)\]](https://osu.ppy.sh/beatmapsets/2230753#mania/4734254)
+  4. [8284 - Central Nucleus (\[Crz\]Crysarlene) \[crysather \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/1801649#mania/3694006)
+  5. [Sharks - Nereid (Guilhermeziat) \[Stage 7: Tsunami\]](https://osu.ppy.sh/beatmapsets/1788534#mania/3664441)
+  6. [buelow - Revolver (Sped Up Ver.) (Ska) \[hoyden\]](https://osu.ppy.sh/beatmapsets/2230683#mania/4734084)
+  7. [Camellia - Racemization (\[GS\]hina) \[Catalyst (ASC\_Edit\]](https://osu.ppy.sh/beatmapsets/2230761#mania/4734266)
+- LN
+  1. [Miyashita Yuu x Hiiragi Kirai - Grain (ERA Imperial) \[LeoN is cuTE\]](https://osu.ppy.sh/beatmapsets/2230674#mania/4734062)
+  2. [Camellia - TEMPO KATANA (FelixSpade) \[LN Master // Kiku-ichimonji+\]](https://osu.ppy.sh/beatmapsets/2230099#mania/4732428)
+  3. [Getty - Revolt (MyZterioN-) \[tax on the duck\]](https://osu.ppy.sh/beatmapsets/2214321#mania/4691614)
+  4. [Culprate - Beast (Vorso Remix) (\[Crz\]Crysarlene) \[Excelsior \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/2230642#mania/4733958)
+- HB
+  1. [Xyris - Eviternity (ERA Imperial) \[Leischl\]](https://osu.ppy.sh/beatmapsets/2230676#mania/4734064)
+  2. [ChumuNote - BlueSunnyFish (feat. Twinfield) (chxu) \[ABOVE YOU\]](https://osu.ppy.sh/beatmapsets/2230516#mania/4733668)
+  3. [katagiri - Kyuukou (ERA Leon) \[Equilibrium (cut)\]](https://osu.ppy.sh/beatmapsets/2230716#mania/4734157)
+- SV
+  1. [Ardolf - Varcolac (awdse22) \[Nocturnal\]](https://osu.ppy.sh/beatmapsets/2230756#mania/4734257)
+  2. [Chroma - I (Promachos) \[UNEXPECTED LOVE\]](https://osu.ppy.sh/beatmapsets/2230738#mania/4734213)
+- Tiebreaker
+  1. **[Sparxe - Chaos Breaker (Critical\_Star) \[Dark Awake\]](https://osu.ppy.sh/beatmapsets/2230790#mania/4734315)**
+
+### Finals
+
+- RC
+  1. [katagiri - 1680 Man Shoku ni Hikaru Gaming Kemomimi Loli (\[GS\]hina) \[Iridescent\]](https://osu.ppy.sh/beatmapsets/2226644#mania/4723498)
+  2. [Noah - End to end (Zia) \[Sword\]](https://osu.ppy.sh/beatmapsets/2226643#mania/4723493)
+  3. [SOUND HOLIC Vs. dj TAKA feat. YURiCa (Zia) \[Stealing\]](https://osu.ppy.sh/beatmapsets/2226656#mania/4723513)
+  4. [Anegasaki Nei - ZENITHALIZE (Mipha-) \[MIPHATHER 1.05x (157bpm)\]](https://osu.ppy.sh/beatmapsets/1744633#mania/3676737)
+  5. [False Noise - Space Angel (Disguise) \[im not that amiable\]](https://osu.ppy.sh/beatmapsets/2168810#mania/4576456)
+- LN
+  1. [Jay Chou - Gong Gong with Headache (YuEast 2018) \[Less Pain\]](https://osu.ppy.sh/beatmapsets/2226647#mania/4723503)
+  2. [katagiri - RAINBOW GIRL (katagiri Remix) \[x1.00\]](https://osu.ppy.sh/beatmapsets/2119804#mania/4453271)
+  3. [Frums - 19ZZ (ERA Imperial) \[LN-J03\]](https://osu.ppy.sh/beatmapsets/2226646#mania/4723501)
+  4. [Helblinde - A Reyvateil's Curse (FelixSpade) \[LN Prodigy // Shackles (cut)\]](https://osu.ppy.sh/beatmapsets/2226113#mania/4722254)
+- HB
+  1. [meganeko - Feral (osu! edit) (\[GB\]Mafufu) \[Blue\_Potion's Meditation 1.0x\]](https://osu.ppy.sh/beatmapsets/2226626#mania/4723468)
+  2. [roer & N\_dog - Moving on (TheFunk) \[From the past\]](https://osu.ppy.sh/beatmapsets/2226645#mania/4723500)
+  3. [Rukadesu & SKiLOBYTE - ULTIMATE (TheFunk) \[Brawliseum (Nerf)\]](https://osu.ppy.sh/beatmapsets/2036462#mania/4246955)
+- SV
+  1. [Katali - TeraVolt (awdse22) \[Voltage Overload\]](https://osu.ppy.sh/beatmapsets/2226666#mania/4723535)
+  2. [linear ring - cache (NovaSagittarii) \[compulsory miss\]](https://osu.ppy.sh/beatmapsets/2226670#mania/4723547)
+- Tiebreaker
+  1. **[AWC Sound Team - LABYRNTH (Japeynius) \[Contradictary Complexities\]](https://osu.ppy.sh/beatmapsets/2226715#mania/4723702)**
+
+### Semifinals
+
+- RC
+  1. [YOHEDA - KAERU (CrewK) \[Frog Regrets\]](https://osu.ppy.sh/beatmapsets/1666553#mania/3463278)
+  2. [cosMo@BousouP - Sekai no Owari ni Aimashou (MyZterioN-) \[The Last Hour (1.20x) ASC edit\]](https://osu.ppy.sh/beatmapsets/1493728#mania/4713605)
+  3. [meganeko - nano love (Eclipse-) \[^\_^ \[1,05x Rate\]\]](https://osu.ppy.sh/beatmapsets/1726149#mania/3528255)
+  4. [M2U - Second Choice (Hylotl) \[Next-gen\]](https://osu.ppy.sh/beatmapsets/2216862#mania/4698068)
+  5. [7\_7 feat. kasane vavzed - Yakou (TheFunk) \[Deliverance\]](https://osu.ppy.sh/beatmapsets/2222887#mania/4713590)
+  6. [penoreri - Lancelot Flame of the Rebellion (Eclipse-) \[MAXIMUM \[1,1x Rate\]\]](https://osu.ppy.sh/beatmapsets/2222714#mania/4713216)
+- LN
+  1. [Hatsune Miku&Megurine Luka - Magnet (Yana Feiya) \[Attraction\]](https://osu.ppy.sh/beatmapsets/2222963#mania/4713731)
+  2. [SAMString - Celestial Solace (ERA Leon) \[Tranquility 1.0 (ASC edit)\]](https://osu.ppy.sh/beatmapsets/2067012#mania/4713584)
+  3. [TJ.hangneil - Kamui (MyZterioN-) \[Ituren\]](https://osu.ppy.sh/beatmapsets/2222914#mania/4713634)
+- HB
+  1. [Yuta Imai - NOT YOUR IDOL (Muses) \[:3\]](https://osu.ppy.sh/beatmapsets/2222918#mania/4713640)
+  2. [lunaluxe - Electricity (ERA arccat) \[hidden truths.\]](https://osu.ppy.sh/beatmapsets/2222897#mania/4713606)
+  3. [Ashrount - Animus (\[Crz\]FolAH1217) \[Evil\]](https://osu.ppy.sh/beatmapsets/2222896#mania/4713604)
+- SV
+  1. [F Rabbeat feat. mustard - How To Make Game Song! (Claren) \[How To Make SV Map!\]](https://osu.ppy.sh/beatmapsets/2222922#mania/4713649)
+  2. [A-39 & Suna P - Galaxy (feat. Hatsune Miku) (\[GB\]Mafufu) \[Embrace loneliness... [NSV]\]](https://osu.ppy.sh/beatmapsets/2222713#mania/4713210)
+- Tiebreaker
+  1. **[SiLiS & sugosugiii - Keisuteknon (feat. InabaYap) (\[GB\]Rick) \[Journey Amongst Stars\]](https://osu.ppy.sh/beatmapsets/2222935#mania/4713679)**
+
+### Quarterfinals
+
+- RC
+  1. [beatMARIO - Sissou Ensemble (\[GS\]hina) \[Ancore\]](https://osu.ppy.sh/beatmapsets/2186534#mania/4622947)
+  2. [Rin - Prism Magical (DJ SHARPNEL hardrave remix) (Couil) \[Magical 1.2x\]](https://osu.ppy.sh/beatmapsets/1245301#mania/2588519)
+  3. [E-Type - Set The World On Fire (Sped Up Ver.) (Jole) \[this is fine\]](https://osu.ppy.sh/beatmapsets/1456779#mania/3435284)
+  4. [Karafuru. Saunzu. Po\^to - Colorful Sounds Cutter (\[GS\]hina) \[Fragment (ASC\_Edit)\]](https://osu.ppy.sh/beatmapsets/2145954#mania/4703819)
+  5. [MY FIRST STORY - 2 FACE (Logan636) \[CUT\]](https://osu.ppy.sh/beatmapsets/2182924#mania/4612615)
+  6. [kanone vs. BlackY - Stardust:RAY (Eclipse-) \[MASTER\]](https://osu.ppy.sh/beatmapsets/2219192#mania/4703928)
+- LN
+  1. [Aimer with chelly (EGOIST) - ninelie (REDSHiFT x Vesuvia Remix) (Logan636) \[Don't be afraid, daybreak has come.\]](https://osu.ppy.sh/beatmapsets/2219140#mania/4703847)
+  2. [Eagle - Hypersonik (anatharax) \[Another 1.1x\]](https://osu.ppy.sh/beatmapsets/2219143#mania/4703852)
+  3. [Ado - Buriki no Dance (Muses) \[Delusion\]](https://osu.ppy.sh/beatmapsets/2219141#mania/4703848)
+- HB
+  1. [ZxNX - Fana (TheFunk) \[Penumbra\]](https://osu.ppy.sh/beatmapsets/2219128#mania/4703824)
+  2. [Yak\_Won - Out Of The Blue (Yana Feiya) \[Out Of The BlueSky\]](https://osu.ppy.sh/beatmapsets/2196535#mania/4647926)
+  3. [MEMODEMO X AQUASINE - Point and Click (AlexDunk) \[Confusion and 69.\]](https://osu.ppy.sh/beatmapsets/2219116#mania/4703808)
+- SV
+  1. [Getty - Golyat (Paturages) \[Rolizier\]](https://osu.ppy.sh/beatmapsets/2219142#mania/4703850)
+  2. [Yosk! - Cockroach Cooking (awdse22) \[UGHH EWWW BRWUEEEHGHGH \*cough cough\* \*vomit\*\]](https://osu.ppy.sh/beatmapsets/2219133#mania/4703832)
+- Tiebreaker
+  1. **[Tanger - BS//Recall (Critical\_Star) \[CS and Leon's Golden Age\]](https://osu.ppy.sh/beatmapsets/2219156#mania/4703868)**
+
 ### Round of 16
 
 - RC
@@ -116,9 +211,10 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
 
 - SV
   1. [P\*Light - SWAG!! (Orca-) \[Stage 1: WATCH OUT!!\]](https://osu.ppy.sh/beatmapsets/2206316#mania/4671278)
-  2. [daisan - Tenjou no Porisuruin (\[GS\]hina) \[Stage 2: Ascended\]](https://osu.ppy.sh/beatmapsets/2206306#mania/4671254)
-  3. [suisoh - Afterwards (ERA Imperial) \[Stage 3: Mimir\]](https://osu.ppy.sh/beatmapsets/2206334#mania/4671300)
-  4. [REDALiCE - DEAD or DIE (YuEast 2018) \[Stage 4: Dice\]](https://osu.ppy.sh/beatmapsets/2206328#mania/4671294)
+- RC
+  1. [daisan - Tenjou no Porisuruin (\[GS\]hina) \[Stage 2: Ascended\]](https://osu.ppy.sh/beatmapsets/2206306#mania/4671254)
+  2. [suisoh - Afterwards (ERA Imperial) \[Stage 3: Mimir\]](https://osu.ppy.sh/beatmapsets/2206334#mania/4671300)
+  3. [REDALiCE - DEAD or DIE (YuEast 2018) \[Stage 4: Dice\]](https://osu.ppy.sh/beatmapsets/2206328#mania/4671294)
 - LN
   1. [CHON - Splash (anatharax) \[Stage 5: Spritz\]](https://osu.ppy.sh/beatmapsets/2206314#mania/4671275)
   2. [Getty vs. DJ DiA - DropZ-Line- (Toaph Daddy) \[Stage 6: Cataclysm\]](https://osu.ppy.sh/beatmapsets/2206317#mania/4671280)
@@ -127,6 +223,87 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
   2. [Zekk - Abrasion (Japeynius) \[Stage 8: Resolution\]](https://osu.ppy.sh/beatmapsets/2206324#mania/4671290)
 
 ## Match results
+
+### Finals
+
+Saturday, 10 August 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Bocchi Soup** | **0** | -1 | LOTT'S TRAGIC HINDILOVE EXTRA | *win by default* |
+| **Yuma fanboys** | **7** | 1 | Noodle Soup | [#1](https://osu.ppy.sh/community/matches/115022632) |
+| skibidi's hybrid soup | 2 | **7** | **Pixel 7** | [#1](https://osu.ppy.sh/community/matches/115022641) |
+
+Sunday, 11 August 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Bocchi Soup | 4 | **7** | **Pixel 7** | [#1](https://osu.ppy.sh/community/matches/115036476) |
+
+### Semifinals
+
+Friday, 2 August 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Yuma fanboys** | **6** | 3 | Bocchi Soup | [#1](https://osu.ppy.sh/community/matches/114913530) |
+
+Saturday, 3 August 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **LOTT'S TRAGIC HINDILOVE EXTRA** | **6** | 3 | Mama Mia | [#1](https://osu.ppy.sh/community/matches/114925231) |
+| 83.33% Chinese 16.66% Filipino | 5 | **6** | **Rice Farmer** | [#1](https://osu.ppy.sh/community/matches/114927517) |
+| skibidi's hybrid soup | 1 | **6** | **Noodle Soup** | [#1](https://osu.ppy.sh/community/matches/114928294) |
+
+Sunday, 4 August 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Pixel 7** | **6** | 4 | Undertable sands | [#1](https://osu.ppy.sh/community/matches/114938720) |
+| **Play Robeats** | **6** | 3 | Kamisato Lemon | [#1](https://osu.ppy.sh/community/matches/114939014) |
+| Rice Farmer | 2 | **6** | **Pixel 7** | [#1](https://osu.ppy.sh/community/matches/114939479) |
+| Play Robeats | 5 | **6** | **LOTT'S TRAGIC HINDILOVE EXTRA** | [#1](https://osu.ppy.sh/community/matches/114940342) |
+
+### Quarterfinals
+
+Saturday, 27 July 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Rice Farmer** | **6** | 4 | team name | [#1](https://osu.ppy.sh/community/matches/114832325) |
+| SKIBIDI Archive | 0 | **6** | **Kamisato Lemon** | [#1](https://osu.ppy.sh/community/matches/114833114) |
+| **83.33% Chinese 16.66% Filipino** | **6** | 1 | Bocchi Soup | [#1](https://osu.ppy.sh/community/matches/114834231) |
+| **Yuma fanboys** | **6** | 0 | Pixel 7 | [#1](https://osu.ppy.sh/community/matches/114834855) |
+| **skibidi's hybrid soup** | **0** | -1 | LOTT'S TRAGIC HINDILOVE EXTRA | *win by default* |
+
+Sunday, 28 July 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Noodle Soup** | **6** | 5 | Play Robeats | [#1](https://osu.ppy.sh/community/matches/114847585) |
+| Furry Femboys | 4 | **6** | **Mama Mia** | [#1](https://osu.ppy.sh/community/matches/114848717) |
+| arm water sick ma | 3 | **6** | **Undertable sands** | [#1](https://osu.ppy.sh/community/matches/114848806) |
+
+### Round of 16
+
+Saturday, 20 July 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Yuma fanboys** | **5** | 0 | SKIBIDI Archive | [#1](https://osu.ppy.sh/community/matches/114740533) |
+| **Play Robeats** | **5** | 0 | Undertable sands | [#1](https://osu.ppy.sh/community/matches/114754174) |
+| **Pixel 7** | **5** | 4 | Kamisato Lemon | [#1](https://osu.ppy.sh/community/matches/114742427) |
+| **LOTT'S TRAGIC HINDILOVE EXTRA** | **5** | 1 | team name | [#1](https://osu.ppy.sh/community/matches/114743041) |
+
+Sunday, 21 July 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Bocchi Soup** | **5** | 1 | Mama Mia | [#1](https://osu.ppy.sh/community/matches/114754855) |
+| **skibidi's hybrid soup** | **5** | 1 | Rice Farmer | [#1](https://osu.ppy.sh/community/matches/114755931) |
+| **83.33% Chinese 16.66% Filipino** | **0** | -1 | Furry Femboys | *win by default* |
+| **Noodle Soup** | **5** | 0 | arm water sick ma | [#1](https://osu.ppy.sh/community/matches/114755923) |
 
 ### Qualifiers
 
