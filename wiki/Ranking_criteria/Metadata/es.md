@@ -25,7 +25,7 @@
   - `Triangles` puede ser `Triangles` o `triangles`
 - **Cuando hay varias opciones para los metadatos:**
   - Intenta que coincidan con los de los beatmaps clasificados. Sigue lo más reciente y común, luego verifica que los metadatos sean correctos y corrige lo que sea necesario.
-    - Los nombres de los artistas también deben ser consistentes, siempre que no usen alias diferentes intencionalmente. 
+    - Los nombres de los artistas también deben ser consistentes, siempre que no usen alias diferentes intencionalmente.
   - Se prefieren las romanizaciones/traducciones oficiales para los campos romanizados, siempre que sean fáciles de encontrar y comúnmente reconocidas.
   - En caso de opciones conflictivas, debe realizarse una discusión para determinar cuál sería la mejor opción.
 
@@ -44,7 +44,7 @@
   - [Flechas suplementarias-A](https://en.wikipedia.org/wiki/Supplemental_Arrows-A), [Flechas suplementarias-B](https://en.wikipedia.org/wiki/Supplemental_Arrows-B), [Otros símbolos y flechas](https://en.wikipedia.org/wiki/Miscellaneous_Symbols_and_Arrows)
   - [Dingbats](https://en.wikipedia.org/wiki/Dingbats_(Unicode_block))
   - [Otros símbolos](https://en.wikipedia.org/wiki/Miscellaneous_Symbols)
-  
+
   Esto no se aplica si el artista usa a propósito símbolos de manera que no sugieran espacios. Por ejemplo, `。✰302？ionwan2go✰。` sería `.*302?ionwan2go*.` y no `. * 302 ? ionwan2go * .`. Los demás tipos de caracteres se tratan según el caso.
 - **En los campos romanizados, los símbolos especiales deben cambiarse por su equivalente imprimible ASCII más cercano o eliminarse.** Los caracteres especiales distintos de los indicados a continuación deben modificarse o eliminarse según el caso. Cuando existan varias opciones, la que se use para la romanización dependerá del contexto.
 
@@ -92,7 +92,7 @@ Cuando todo el campo está en mayúsculas o minúsculas, los marcadores pueden u
   - `Nombre del círculo`
   - `Un miembro muy conocido que participa en la canción`
   - `Nombre del círculo feat. Miembro del círculo/Colaborador externo/Cantante`
-  
+
   Los colaboradores externos de las canciones en solitario suelen figurar en los créditos y los demás miembros del círculo que figuran específicamente para la canción deberían seguir incluidos. El hecho de que un miembro sea lo suficientemente conocido como para ser el único artista se determina según el caso.
 
 ### Opciones permitidas
@@ -131,14 +131,14 @@ Cuando todo el campo está en mayúsculas o minúsculas, los marcadores pueden u
   - Usa este marcador cuando la canción sea una versión extendida no oficial.
 - `(Sped Up Ver.)`, `(Nightcore Mix)`
   - Usa este marcador cuando la canción se haya editado a un tempo más alto.
-  - Solo las canciones que también aumentan el tono del audio pueden usar `(Nightcore Mix)`. De lo contrario, usa `(Sped Up Ver.)`. 
+  - Solo las canciones que también aumentan el tono del audio pueden usar `(Nightcore Mix)`. De lo contrario, usa `(Sped Up Ver.)`.
 - **Marcadores combinados**
   - Si la edición es acelerada *y* cortada, usa `(Sped Up & Cut Ver.)` o `(Nightcore & Cut Ver.)`.
   - Pueden usarse otros marcadores combinados después de discutir su necesidad.
 
 ##### Marcadores que debes normalizar, pero no siempre añadir
 
-- **Si hay marcadores similares en el título de una canción, sustitúyelos por los marcadores correspondientes de la siguiente lista.** 
+- **Si hay marcadores similares en el título de una canción, sustitúyelos por los marcadores correspondientes de la siguiente lista.**
 - **Si no hay marcadores, solo podrás añadirlos cuando haya varias versiones de una canción para indicar la versión correcta.**
 - `(Short Ver.)`
   - Por lo general, se usa para indicar que existe una versión más larga. Usa este marcador ya exista un marcador de duración como `-Short Ver-`, `Short Ver.`, `~Short Version~`. Esto no se aplica a los marcadores `Movie` o `Game Ver.`.
@@ -150,7 +150,7 @@ Cuando todo el campo está en mayúsculas o minúsculas, los marcadores pueden u
 #### Pautas
 
 - `(#### Ver.)`
-  - Cuando los títulos de las canciones ya tienen un marcador de duración/versión no incluido en la lista anterior, debería cambiarse por un marcador descriptivo `(#### Ver.)` usando mayúsculas y minúsculas[^title-case]. Por ejemplo: 
+  - Cuando los títulos de las canciones ya tienen un marcador de duración/versión no incluido en la lista anterior, debería cambiarse por un marcador descriptivo `(#### Ver.)` usando mayúsculas y minúsculas[^title-case]. Por ejemplo:
     - `(Extended Version)` -> `(Extended Ver.)`
     - `(Long)` -> `(Long Ver.)`
   - Las excepciones serían cuando el marcador de duración/versión está tan estilizado que se considera parte del título, como `Pippiquest (Pippi x Mocha Romantic Movie Remix Edition)`
@@ -191,7 +191,7 @@ Cuando todo el campo está en mayúsculas o minúsculas, los marcadores pueden u
 - **Las etiquetas deben incluir los siguientes elementos cuando sea necesario:**
   - **Creadores de las [dificultades de invitados](/wiki/Beatmap/Guest_difficulty), storyboarders, skinners y hitsounders.**
   - **`Featured Artist`, si la canción figura en el [catálogo de los artistas destacados](https://osu.ppy.sh/beatmaps/artists).** No debes usar la etiqueta si la canción no está en el catálogo de los artistas destacados.
-  - **Al menos una etiqueta del género de la canción y una etiqueta de idioma.** 
+  - **Al menos una etiqueta del género de la canción y una etiqueta de idioma.**
     - Para las pistas instrumentales, `instrumental` es la etiqueta de idioma.
     - Para las pistas en idiomas creados artificialmente, añade `conlang` a las etiquetas y usa el nombre del conlang como etiqueta de idioma.
     - Si la letra de la canción no tiene ningún significado, la etiqueta de idioma no es necesaria.
@@ -252,7 +252,7 @@ Esta sección explica cómo romanizar los metadatos por tu cuenta. Si estás usa
 - **Finés**
   - `ö` pasa a ser `o`, `ä` pasa a ser `a`
 - **Alemán**
-  - `ü` pasa a ser `ue`, `ö` pasa a ser `oe`, `ä` pasa a ser `ae`, y `ß` pasa a ser `ss`. 
+  - `ü` pasa a ser `ue`, `ö` pasa a ser `oe`, `ä` pasa a ser `ae`, y `ß` pasa a ser `ss`.
 - **Caracteres estilizados**
   - Los caracteres especiales usados como sustituto estilístico de los caracteres romanos deben cambiarse en función del contexto, como por ejemplo, para pronunciar una palabra. La canción `βiοs` se convertiría en `Bios`, aunque la letra griega `β` se lea como `v`.
 - **Otras idiomas o sistemas no cubiertos**
