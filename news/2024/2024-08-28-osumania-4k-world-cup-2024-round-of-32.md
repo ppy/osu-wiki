@@ -74,23 +74,21 @@ You can find the full results right here. Yup, go on, take a look.
 ### ::{ flag=HK }:: Hong Kong vs. ::{ flag=ID }:: Indonesia
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2232644735&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2233665337&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-Last year, Indonesia got their best ever finish with a whopping 3rd place, earning their place on the podium. The players that got there then took a final bow, and this year the country returns with a completely renewed roster, 6 new faces ready to take on the biggest tournament of the year. And their first match looked up to be an interesting one: Hong Kong was higher in seed, with some fearsome players, but not unbeatable.
+Indonesia's renewed roster with 6 new faces had an interesting first match against the higher-seeded Hong Kong. If you don't feel like watching the whole match, these highlights should contain the gist:
 
-If you are not able to watch the whole match, here are some highlighted picks:
+- [Little Little Princess](https://osu.ppy.sh/beatmapsets/2234579#mania/4746363) (RC3) @ [15:40](https://www.twitch.tv/videos/2233665337?t=00h15m40s)
+- [Brain Rigid Girl](https://osu.ppy.sh/beatmapsets/2234595#mania/4746400) (LN2) @ [41:05](https://www.twitch.tv/videos/2233665337?t=00h41m05s)
+- [Hebe](https://osu.ppy.sh/beatmapsets/2234586#mania/4746375) (HB2) @ [52:18](https://www.twitch.tv/videos/2233665337?t=00h52m18s)
 
-- [Little Little Princess](https://osu.ppy.sh/beatmapsets/2234579#mania/4746363) (RC3) @ [21:18](https://www.twitch.tv/videos/2232644735?t=00h21m18s)
-- [Brain Rigid Girl](https://osu.ppy.sh/beatmapsets/2234595#mania/4746400) (LN2) @ [46:57](https://www.twitch.tv/videos/2232644735?t=00h46m57s)
-- [Hebe](https://osu.ppy.sh/beatmapsets/2234586#mania/4746375) (HB2) @ [52:10](https://www.twitch.tv/videos/2232644735?t=00h52m10s)
-
-Ultimately, Hong Kong emerged victorious. The higher consistency of [Quotient](https://osu.ppy.sh/users/11313227) & [ATP Koshepen](https://osu.ppy.sh/users/17115114) (who both played every map in the match) lead them to an earned victory. Indonesia, not out yet, will fight on in the loser's bracket...
+Ultimately, Hong Kong made a comeback against a strong performance and emerged victorious. Whether Indonesia's new roster will match the country's 3rd-place performance last year remains to be seen in the losers' bracket...
 
 ### ::{ flag=SG }:: Singapore vs. ::{ flag=PL }:: Poland
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2232647991&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2233674722&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
 text here
