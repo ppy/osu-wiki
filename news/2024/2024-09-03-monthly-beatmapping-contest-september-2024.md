@@ -32,8 +32,8 @@ Save your precious fingers from scrolling too much by skipping to any section be
 
 | Placement | User | Beatmap | Badge prize | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Winner | [uone](https://osu.ppy.sh/users/5321719) | [Frums - Jam with Pancake](LINK) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | *Elite Mapper* | +2 (6 total) |
-| Runner-up | [-Kazuha](https://osu.ppy.sh/users/29978316) | [BlackY - Swing Edge](https://osu.ppy.sh/beatmapsets/2195740) | - | - | +1 (3 total) |
+| Winner | [uone](https://osu.ppy.sh/users/5321719) | [Frums - Jam with Pancake](https://osu.ppy.sh/beatmapsets/2240031) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | *Elite Mapper* | +2 (6 total) |
+| Runner-up | [-Kazuha](https://osu.ppy.sh/users/29978316) | [BlackY - Swing Edge](https://osu.ppy.sh/beatmapsets/2240072) | - | - | +1 (3 total) |
 
 #### Top 10
 
@@ -53,8 +53,8 @@ Special thanks to [arcpotato](https://osu.ppy.sh/users/12842392), [meiqth](https
 
 | Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| Winner | [USER](LINK) | [SONG](LINK) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (x total) |
-| Runner-up | [USER](LINK) | [SONG](LINK) | - | +1 (x total) |
+| Winner | [Xinnoh](https://osu.ppy.sh/users/4236057) | [Silentroom - NULCTRL EX](https://osu.ppy.sh/beatmapsets/2240189) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (2 total) |
+| Runner-up | [2zz](https://osu.ppy.sh/users/8201267) | [antiPLUR - No One Is Around To Help](https://osu.ppy.sh/beatmapsets/2240425) | - | +1 (1 total) |
 
 #### Top 10
 
