@@ -10,7 +10,7 @@ The key smashing has officially commenced last weekend, and now is the perfect t
 
 We all know qualifiers have never been the deciding factor in a tournament. While they definitely provide an initial edge to those teams who prove to go above and beyond the competition, qualifiers are but the start of the show!
 
-This year we've witnessed everything, with the qualifiers being one of the most competitive to date. From the usual teams getting podium placements, to fan favourites such as Japan losing some of its previous years' lustre, or even seeing new faces in higher seeds such as the United Kingdom!
+This year's qualifiers were one of the most competitive to date. From the usual teams getting podium placements, to fan favourites such as Japan losing some of their previous years' lustre, or even seeing new faces in higher seeds such as the United Kingdom, it seems this year we've witnessed just about everything!
 
 With the first round of the osu!mania 4K World Cup concluding last weekend, it's time to look back at the Round of 32, and spotlight the best moments of the Round of 32.
 
