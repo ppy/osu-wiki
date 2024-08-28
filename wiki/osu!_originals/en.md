@@ -6,6 +6,8 @@ All osu! originals that have been licensed by the game are cleared for use in os
 
 ## Statistics
 
+There is currently a total of **672** documented osu! originals.
+
 ![Graph of osu! originals over time](img/originals-over-time.png?20240828)
 
 ## List of osu! originals
