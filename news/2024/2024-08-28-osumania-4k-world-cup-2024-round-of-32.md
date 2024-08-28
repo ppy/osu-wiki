@@ -87,7 +87,7 @@ Indonesia's renewed roster with 6 new faces had an interesting first match again
 
 - [SHRINE 418 - Little Little Princess](https://osu.ppy.sh/beatmapsets/2234579#mania/4746363) (RC3) @ [15:40](https://www.twitch.tv/videos/2233665337?t=00h15m40s) - The first breakpoint of the match, a cohesive three-way FC from Indonesia to take the match lead.
 - [ShinRa-Bansho - Brain Rigid Girl](https://osu.ppy.sh/beatmapsets/2234595#mania/4746400) (LN2) @ [41:05](https://www.twitch.tv/videos/2233665337?t=00h41m05s) - A clutch save by Hong Kong on match point, and the closest pick in this entire RO32!
-- [SiLiS - Hebe](https://osu.ppy.sh/beatmapsets/2234586#mania/4746375) (HB2) @ [52:18](https://www.twitch.tv/videos/2233665337?t=00h52m18s) - The tiebreaker, the essence of all tournaments, the final consistency test for Hong Kong to secure their victory.
+- [lapix - Flying Castle (Extended Mix)](https://osu.ppy.sh/beatmapsets/2234596#mania/4746402) (TB) @ [52:18](https://www.twitch.tv/videos/2233665337?t=00h52m18s) - The tiebreaker, the essence of all tournaments, the final consistency test for Hong Kong to secure their victory.
 
 Ultimately, Hong Kong made a comeback against a strong performance and emerged victorious. Whether Indonesia's new roster will match the country's 3rd-place performance last year remains to be seen in the losers' bracket...
 
@@ -112,9 +112,9 @@ Unfortunately for Poland, Singapore managed to clutch up and take the match 5–
 
 Earlier rounds are known to be calmer as higher-seeded teams get matched against their lower-seeded peers. Even so, attention should be brought to a couple of note-worthy scores and players to keep track of:
 
-- We all know ::{ flag=CL }:: [myucchi](https://osu.ppy.sh/users/10072733) and their feats. While their performance across the entire mappool [vs. New Zealand](https://osu.ppy.sh/community/matches/115223051) was phenomenal, they crushed it in [Mono. - Tricolor Prizm☆☆☆ミ](https://osu.ppy.sh/beatmapsets/2024637#mania/4217619) with a score of 997,781.
-- Taking everyone by surprise, ::{ flag=VN }:: [Joki_](https://osu.ppy.sh/users/18043326) has let everybody know they're a force to be reckoned with. Their rice performance was second to none, as seen with their play on [SHRINE 418 - Little Little Princess](https://osu.ppy.sh/beatmapsets/2234579#mania/4746363), putting up a score of 997,904 [during their match vs. Ukraine](https://osu.ppy.sh/community/matches/115210872).
-- ::{ flag=JP }:: [CrewK](https://osu.ppy.sh/users/11488604) demonstrated yet again who's king, with an extraterrestrial performance on [Shpongle - Outer Shpongolia](https://osu.ppy.sh/beatmapsets/2234598#mania/4746405) during the [Japan vs. France match](https://osu.ppy.sh/community/matches/115213041), scoring an astonishing 998,578 points.
+- We all know ::{ flag=CL }:: [myucchi](https://osu.ppy.sh/users/10072733) and their feats. While their performance across the entire mappool [vs. New Zealand](https://osu.ppy.sh/community/matches/115223051) was phenomenal, they crushed it in [Mono. - Tricolor Prizm☆☆☆ミ](https://osu.ppy.sh/beatmapsets/2024637#mania/4217619) (HB1) with a score of 997,781.
+- Taking everyone by surprise, ::{ flag=VN }:: [Joki_](https://osu.ppy.sh/users/18043326) has let everybody know they're a force to be reckoned with. Their rice performance was second to none, as seen with their play on [SHRINE 418 - Little Little Princess](https://osu.ppy.sh/beatmapsets/2234579#mania/4746363) (RC3), putting up a score of 997,904 [during their match vs. Ukraine](https://osu.ppy.sh/community/matches/115210872).
+- ::{ flag=JP }:: [CrewK](https://osu.ppy.sh/users/11488604) demonstrated yet again who's king, with an extraterrestrial performance on [Shpongle - Outer Shpongolia](https://osu.ppy.sh/beatmapsets/2234598#mania/4746405) (SV2) during the [Japan vs. France match](https://osu.ppy.sh/community/matches/115213041), scoring an astonishing 998,578 points.
 
 Keep a lookout for these people! Let's see how future rounds fare them, and whether they can keep up the pace.
 
