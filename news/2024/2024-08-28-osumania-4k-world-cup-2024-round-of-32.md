@@ -8,7 +8,11 @@ The key smashing has officially commenced last weekend, and now is the perfect t
 
 ![](/wiki/Tournaments/MWC/2024_4K/img/mwc4k2024-banner.jpg)
 
-With the first round of the osu!mania 4K World Cup concluding last weekend, it's time to look back at the Round of 32, and spotlight the best moments of the previous weekend. The first round had an explosive start with many new faces showing up, wanting to show off their skills, and make their countrymen proud.
+We all know qualifiers have never been the deciding factor in a tournament. While they definitely provide an initial edge to those teams who prove to go above and beyond the competition, qualifiers are but the start of the show!
+
+This year we've witnessed everything, with this year's qualifiers being one of the most competitive to date. From the usual teams getting podium placements, to fan favourites such as Japan losing some of its previous years' lustre, or even seeing new faces in higher seeds such as the United Kingdom!
+
+With the first round of the osu!mania 4K World Cup concluding last weekend, it's time to look back at the Round of 32, and spotlight the best moments of the previous weekend.
 
 ## Mappool showcase
 
@@ -109,10 +113,18 @@ Unfortunately for Poland, Singapore managed to clutch up and take the match 5–
 
 ## Score highlights
 
-might as well call this a stretch goal
+Earlier rounds are known to be calmer as higher seeded teams get matched against their lower seeded peers. Even so, attention should be brought to a couple of note-worthy scores and players to keep track of:
+
+- We all know ::{ flag=CL }:: [myucchi](https://osu.ppy.sh/users/10072733) and their feats. While their performance across the entire mappool [vs. New Zealand](https://osu.ppy.sh/community/matches/115223051) was phenomenal, they crushed it in [Mono. - Tricolor Prizm☆☆☆ミ](https://osu.ppy.sh/beatmapsets/2024637#mania/4217619) with a score of 997,781.
+
+- Taking everyone by surprise, ::{ flag=VN }:: [Joki_](https://osu.ppy.sh/users/18043326) has let everybody know they're a force to be reckoned with. Their rice performance was second to none, as seen with their play on [SHRINE 418 - Little Little Princess](https://osu.ppy.sh/beatmapsets/2234579#mania/4746363), putting up a score of 997,904 [during their match vs. Ukraine](https://osu.ppy.sh/community/matches/115210872).
+
+- ::{ flag=JP }:: [CrewK](https://osu.ppy.sh/users/11488604) demonstrated yet again who's king, with an extraterrestrial performance on [Shpongle - Outer Shpongolia](https://osu.ppy.sh/beatmapsets/2234598#mania/4746405) during the Japan vs. France match, scoring an astonishing 998,578 points.
+
+Keep a look-out for these people! Let's see how future rounds fare them, and whether they can keep up the pace.
 
 ---
 
 Now is the perfect time to start following the MWC4K, choose your favourites and cheer them on! Regardless of whom you'll be cheering on, we hope to see you this weekend for the Round of 16 on [Twitch](https://www.twitch.tv/osulive), and if you are interested in the nitty-gritty of this MWC4K edition, you can find the full details over on the [wiki page](/wiki/Tournaments/MWC/2024_4K)!
 
-—0x84f
+—0x84f, RandomeLoL, Utiba, kadoen
