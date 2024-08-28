@@ -12,7 +12,7 @@ We all know qualifiers have never been the deciding factor in a tournament. Whil
 
 This year's qualifiers were one of the most competitive to date. From the usual teams getting podium placements, to fan favourites such as Japan losing some of their previous years' lustre, or even seeing new faces in higher seeds such as the United Kingdom, it seems this year we've witnessed just about everything!
 
-With the first round of the osu!mania 4K World Cup concluding last weekend, it's time to look back at the Round of 32, and spotlight the best moments of the Round of 32.
+With the first round of the osu!mania 4K World Cup concluding last weekend, it's time to look back and spotlight the best moments of the Round of 32.
 
 ## Mappool showcase
 
