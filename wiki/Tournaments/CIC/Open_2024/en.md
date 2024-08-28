@@ -125,7 +125,7 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
   1. [Rick Astley - Never Gonna Give You Up (Des9) \[Haven't You Heard? I Rickrolled You\]](https://osu.ppy.sh/beatmapsets/2239346#fruits/4758875)
   2. [MisomyL - Amnehilesie (Realazy) \[descente aux enfers\]](https://osu.ppy.sh/beatmapsets/1703921#fruits/3481620)
 - Tiebreaker
-  1. **[Rukadesu & 5KiLOBYTE - Bootes Void (Mochi -) \[MZZR // <Mazzerine Exploration>\]](https://osu.ppy.sh/beatmapsets/2239341#fruits/4758862)**
+  1. **[Rukadesu & 5KiLOBYTE - Bootes Void (Mochi -) \[MZZR // \<Mazzerine Exploration\>\]](https://osu.ppy.sh/beatmapsets/2239341#fruits/4758862)**
 
 ### Finals (week 1)
 
@@ -271,6 +271,27 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
   1. [Hakushi Hasegawa - Doku (zglock) \[Expert\]](https://osu.ppy.sh/beatmapsets/1674871#fruits/3539717)
 
 ## Match results
+
+### Finals (week 1)
+
+Sunday, 18 August 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[Kimitakari](https://osu.ppy.sh/users/4741164)** ::{ flag=RU }:: | **7** | 3 | ::{ flag=KR }:: [\[Amazing\]](https://osu.ppy.sh/users/1391036) | [#1](https://osu.ppy.sh/community/matches/115131157) |
+| Lower | [Shimoe Koharu](https://osu.ppy.sh/users/2145160) ::{ flag=TW }:: | 0 | **7** | ::{ flag=CN }:: **[Nene Sakura](https://osu.ppy.sh/users/6701104)** | *win by default* |
+
+Monday, 19 August 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Nene Sakura](https://osu.ppy.sh/users/6701104) ::{ flag=CN }:: | 4 | **7** | ::{ flag=RU }:: **[Kimitakari](https://osu.ppy.sh/users/4741164)** | [#1](https://osu.ppy.sh/community/matches/115143422) |
+
+Sunday, 25 August 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[DoDoEbi](https://osu.ppy.sh/users/1177233)** ::{ flag=TW }:: | **7** | 0 | ::{ flag=ID }:: [Nekuro](https://osu.ppy.sh/users/3222638) | *win by default* |
 
 ### Semifinals
 
