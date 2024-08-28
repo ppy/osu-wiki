@@ -30,7 +30,7 @@ Save your precious fingers from scrolling too much by skipping to any section be
 
 #### Summary
 
-| Placement | User | Beatmap | Badge prize | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
+| Placement | User | Beatmap | Badge prize | Title prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | Winner | [uone](https://osu.ppy.sh/users/5321719) | [Frums - Jam with Pancake](https://osu.ppy.sh/beatmapsets/2240031) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | *Elite Mapper* | +2 (6 total) |
 | Runner-up | [-Kazuha](https://osu.ppy.sh/users/29978316) | [BlackY - Swing Edge](https://osu.ppy.sh/beatmapsets/2240072) | - | - | +1 (3 total) |
@@ -92,15 +92,15 @@ As a professional mapper, you're familiar with the ins and outs of star rating (
 
 This month's limitation: **create an Inner Oni difficulty that's no more than 4 stars**.
 
-We'll let you figure out how to best accomplish that.
+Creativity will be your best friend here. While it's effortless to make a map under 4 stars, your goal is to make something difficult and interesting while staying under the star rating restriction!
 
 #### osu!catch
 
-osu!catch is leaning on the easier side of difficulty this month too, but with more than just a star rating restriction.
+We're taking the middleground out of osu!catch.
 
-This month's limitation: **hyperdashes are not allowed**.
+This month's limitation: **dashes are not allowed**.
 
-For extra clarity, this means only dashes and walks are allowed. If you see a note with a red outline, chill out with the spacing.
+For extra clarity, this means the distance between each object must be *walkable* or a *hyperdash*. If you need to press the dash button for any objects that aren't outlined in red, you're doing it wrong. 
 
 ### Songs
 
@@ -143,6 +143,6 @@ Why are you still here? Open the editor and do what you've been training your en
 - [osu!taiko contest listing](https://osu.ppy.sh/community/contests/219)
 - [osu!catch contest listing](https://osu.ppy.sh/community/contests/220)
 
-You have until **August 1st** to submit!
+You have until **October 1st** to submit!
 
 —pishifat, Hivie, Nelly
