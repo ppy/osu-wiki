@@ -103,29 +103,29 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 ### Finals (week 2)
 
 - No Mod
-  1. [UNDEAD CORPORATION - The Empress (Daletto) \[Daletto & Rustyy's Ripples of 495 Years\]](https://osu.ppy.sh/beatmapsets/2239310#osu/4758753)
-  2. [USAO - Blows Up Everything (Zyzyx) \[2056\]](https://osu.ppy.sh/beatmapsets/2239584#osu/4759580)
-  3. [MisoilePunch -Forever- - Bloomin' (Secre) \[Massacre\]](https://osu.ppy.sh/beatmapsets/2239435#osu/4759059)
-  4. [Lord Snow - Aranea Ienith (BIG H ZONDA KIT) \[clamamus pro nihilo\]](https://osu.ppy.sh/beatmapsets/2239387#osu/4758973)
-  5. [Iwami Takeshi - anoko dokonoko (melon boy) \[WOAHZA\]](https://osu.ppy.sh/beatmapsets/2051777#osu/4284780)
+  1. [UNDEAD CORPORATION - The Empress (Daletto) \[Daletto & Rustyy's Ripples of 495 Years\]](https://osu.ppy.sh/beatmapsets/2239310#fruits/4758753)
+  2. [USAO - Blows Up Everything (Zyzyx) \[2056\]](https://osu.ppy.sh/beatmapsets/2239584#fruits/4759580)
+  3. [MisoilePunch -Forever- - Bloomin' (Secre) \[Massacre\]](https://osu.ppy.sh/beatmapsets/2239435#fruits/4759059)
+  4. [Lord Snow - Aranea Ienith (BIG H ZONDA KIT) \[clamamus pro nihilo\]](https://osu.ppy.sh/beatmapsets/2239387#fruits/4758973)
+  5. [Iwami Takeshi - anoko dokonoko (melon boy) \[WOAHZA\]](https://osu.ppy.sh/beatmapsets/2051777#fruits/4284780)
 - Hidden
-  1. [Kyutatsuki - \_alc.yone (Zyzyx) \[Zyx vs. Zvenx's \_syn.thesis\]](https://osu.ppy.sh/beatmapsets/2239576#osu/4759557)
-  2. [Coconami - e3\_footkore (Sololiquy) \[Special\]](https://osu.ppy.sh/beatmapsets/2239327#osu/4758798)
-  3. [toby fox - Hopes and Dreams (Lightin) \[But It Refused\]](https://osu.ppy.sh/beatmapsets/2116013#osu/4443679)
+  1. [Kyutatsuki - \_alc.yone (Zyzyx) \[Zyx vs. Zvenx's \_syn.thesis\]](https://osu.ppy.sh/beatmapsets/2239576#fruits/4759557)
+  2. [Coconami - e3\_footkore (Sololiquy) \[Special\]](https://osu.ppy.sh/beatmapsets/2239327#fruits/4758798)
+  3. [toby fox - Hopes and Dreams (Lightin) \[But It Refused\]](https://osu.ppy.sh/beatmapsets/2116013#fruits/4443679)
 - Hard Rock
-  1. [Synestia, Disembodied Tyrant - I, The Devourer (Daletto) \[Gut and Maim\]](https://osu.ppy.sh/beatmapsets/2239329#osu/4758813)
-  2. [Feryquitous - Estahv (BIG H ZONDA KIT) \[Colloquial (CICO edit)\]](https://osu.ppy.sh/beatmapsets/2239386#osu/4758970)
-  3. [Nene Kusanagi & NeneRobo x Mikudayo & Kagamine Len & KAITO - Tokugawa Cup Noodle Kinshirei (Cubby) \[Tonkotsu\]](https://osu.ppy.sh/beatmapsets/1763088#osu/3608681)
+  1. [Synestia, Disembodied Tyrant - I, The Devourer (Daletto) \[Gut and Maim\]](https://osu.ppy.sh/beatmapsets/2239329#fruits/4758813)
+  2. [Feryquitous - Estahv (BIG H ZONDA KIT) \[Colloquial (CICO edit)\]](https://osu.ppy.sh/beatmapsets/2239386#fruits/4758970)
+  3. [Nene Kusanagi & NeneRobo x Mikudayo & Kagamine Len & KAITO - Tokugawa Cup Noodle Kinshirei (Cubby) \[Tonkotsu\]](https://osu.ppy.sh/beatmapsets/1763088#fruits/3608681)
 - Double Time
-  1. [Yosuke\@KG feat. Aitsuki Nakuru - INFINITE DAYS (Dika312) \[SUNSHINE\]](https://osu.ppy.sh/beatmapsets/2239334#osu/4758826)
-  2. [Alistair Lindsay - Galaxy Trooper (ExGon) \[Cosmic Craggs (derandomized)\]](https://osu.ppy.sh/beatmapsets/2239345#osu/4758873)
-  3. [Cita Citata - Goyang Dumang (Speed Up ver.) (Zvenx) \[Goyangan Zvenx & Ayukawa\]](https://osu.ppy.sh/beatmapsets/2239339#osu/4758853)
-  4. [Isekaijoucho - Replica (Live Ver.) (Raijodo) \[tkfkdgo (CICO edit)\]](https://osu.ppy.sh/beatmapsets/2239354#osu/4758884)
+  1. [Yosuke\@KG feat. Aitsuki Nakuru - INFINITE DAYS (Dika312) \[SUNSHINE\]](https://osu.ppy.sh/beatmapsets/2239334#fruits/4758826)
+  2. [Alistair Lindsay - Galaxy Trooper (ExGon) \[Cosmic Craggs (derandomized)\]](https://osu.ppy.sh/beatmapsets/2239345#fruits/4758873)
+  3. [Cita Citata - Goyang Dumang (Nightcore Mix) (Zvenx) \[Goyangan Zvenx & Ayukawa\]](https://osu.ppy.sh/beatmapsets/2239339#fruits/4758853)
+  4. [Isekaijoucho - Replica (Live Ver.) (Raijodo) \[tkfkdgo (CICO edit)\]](https://osu.ppy.sh/beatmapsets/2239354#fruits/4758884)
 - Easy
-  1. [II-L - VANGUARD-1 (Sololiquy) \[1-V\]](https://osu.ppy.sh/beatmapsets/2032087#fruits/4730158)
-  2. [RuLu - Bad End Donuts feat. tug (Nevo) \[Confliction\]](https://osu.ppy.sh/beatmapsets/2110908#fruits/4431252)
+  1. [Rick Astley - Never Gonna Give You Up (Des9) \[Haven't You Heard? I Rickrolled You\]](https://osu.ppy.sh/beatmapsets/2239346#fruits/4758875)
+  2. [MisomyL - Amnehilesie (Realazy) \[descente aux enfers\]](https://osu.ppy.sh/beatmapsets/1703921#fruits/3481620)
 - Tiebreaker
-  1. **[FREEDOM CREATORS - Okurina -Inochi o Aoku Mimamori Nemurina- (Daletto) \[Shidarezakura\]](https://osu.ppy.sh/beatmapsets/2230774#fruits/4734290)**
+  1. **[Rukadesu & 5KiLOBYTE - Bootes Void (Mochi -) \[MZZR // <Mazzerine Exploration>\]](https://osu.ppy.sh/beatmapsets/2239341#fruits/4758862)**
 
 ### Finals (week 1)
 
