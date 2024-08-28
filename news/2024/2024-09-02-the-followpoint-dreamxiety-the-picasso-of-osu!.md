@@ -208,7 +208,7 @@ That was my first time doing a collab project with other artists and designers. 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
 
-Many spheres of the community have people making illustrated art, such as for tournaments, skinning, storyboarding, manga, art contests, music releases and merchandise. What would you like to see more of regarding art in osu!, and are there avenues you would personally be interested in delving into more?
+Many spheres of the community have people making illustrated art, such as for tournaments, skinning, storyboarding, manga, art contests, music releases, and merchandise. What would you like to see more of regarding art in osu!, and are there avenues you would personally be interested in delving into more?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/13103233" style="background-image: url('/wiki/shared/news/2024-09-02-the-followpoint-dreamxiety-the-picasso-of-osu!/avatar-Dreamxiety.jpg')"></a>
 
@@ -248,7 +248,7 @@ My final message would be 1) Play catch, and 2) I like KAITO thighs.
 
 ---
 
-Huge thanks to Dreamxiety for being apart of this interview, and I hope you readers enjoyed reading this interview! We very much appreciate the support!
+Huge thanks to Dreamxiety for being a part of this interview, and I hope you readers enjoyed reading this interview! We very much appreciate the support!
 
 You guys know the drill already, we will have a new interview come out in the next two weeks, so make sure to keep an eye on the news feed! You may also follow [@The_Followpoint on Twitter](https://twitter.com/The_Followpoint) to see more updates and question submissions for future interviews.
 
