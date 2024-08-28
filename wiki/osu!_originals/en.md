@@ -6,7 +6,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 
 ## Statistics
 
-![](img/originals-over-time.png?20240828)
+![Graph of osu! originals over time](img/originals-over-time.png?20240828)
 
 ## List of osu! originals
 
