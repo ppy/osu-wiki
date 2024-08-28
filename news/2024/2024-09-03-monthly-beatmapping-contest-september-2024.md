@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Monthly Beatmapping Contest: August 2024"
-date: 2024-08-12 19:00:00 +0000
+title: "Monthly Beatmapping Contest: September 2024"
+date: 2024-09-03 19:00:00 +0000
 ---
 
 You've been waiting for this day for... approximately a month. Flex your mapping muscles in this month's contest!
@@ -12,8 +12,8 @@ The [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (*
 
 We alternate modes each month. For now, we're focused on **osu!taiko** and **osu!catch**. Stick around 'til next month for osu! and osu!mania.
 
-- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/218)
-- [osu!catch contest listing](https://osu.ppy.sh/community/contests/219)
+- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/219)
+- [osu!catch contest listing](https://osu.ppy.sh/community/contests/220)
 
 Save your precious fingers from scrolling too much by skipping to any section below:
 
@@ -68,8 +68,8 @@ These results were decided by osu!catch's judging panel: [Morusya](https://osu.p
 
 This month's contest is open to **osu!taiko** and **osu!catch** mappers.
 
-- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/218)
-- [osu!catch contest listing](https://osu.ppy.sh/community/contests/219)
+- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/219)
+- [osu!catch contest listing](https://osu.ppy.sh/community/contests/220)
 
 ## Timeline
 
@@ -88,11 +88,19 @@ If you're confused about how these work, ask for clarification in the comments, 
 
 #### osu!taiko
 
-WORDS
+As a professional mapper, you're familiar with the ins and outs of star rating (including how easily manipulated it can be). Now's your chance to put that knowledge to use.
+
+This month's limitation: **create an Inner Oni difficulty that's no more than 4 stars**.
+
+We'll let you figure out how to best accomplish that.
 
 #### osu!catch
 
-WORDS
+osu!catch is leaning on the easier side of difficulty this month too, but with more than just a star rating restriction.
+
+This month's limitation: **hyperdashes are not allowed**.
+
+For extra clarity, this means only dashes and walks are allowed. If you see a note with a red outline, chill out with the spacing.
 
 ### Songs
 
@@ -118,8 +126,8 @@ Additionally, a [**Mappers' Guild keychain**](/wiki/shared/news/2023-08-29-chang
 ## Rules
 
 - **Submissions must follow the month's beatmapping [limitation](#limitation):**
-  - **osu!taiko:** you must map a song with a swing beat
-  - **osu!catch:** circle size must be 2 or lower *and* your song must be 100 BPM or lower
+  - **osu!taiko:** create an Inner Oni difficulty that's no more than 4 stars
+  - **osu!catch:** hyperdashes are not allowed
 - **Submissions must be a single difficulty from one of the month's [selected songs](#songs).**
 - **Submissions must be in `.osz` format.**
 - **Submissions must NOT be uploaded to the osu! website until after the contest's results are finalised.**
@@ -132,9 +140,9 @@ Note that all submissions will be anonymised before they're reviewed by screener
 
 Why are you still here? Open the editor and do what you've been training your entire life for (...which is placing drums and/or fruit).
 
-- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/218)
-- [osu!catch contest listing](https://osu.ppy.sh/community/contests/219)
+- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/219)
+- [osu!catch contest listing](https://osu.ppy.sh/community/contests/220)
 
-You have until **September 4th** to submit!
+You have until **August 1st** to submit!
 
 —pishifat, Hivie, Nelly
