@@ -1,18 +1,13 @@
----
-outdated_since: 5c6527674dac18301ca3466a47a3093b33a80d31
-outdated_translation: true
----
-
 # Pays ayant participé aux tournois d'osu!
 
 Cet article établit une liste de pays ayant déjà participé dans des tournois officiels des modes [osu!](/wiki/Game_mode/osu!), [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch), et [osu!mania](/wiki/Game_mode/osu!mania). Il fournit également le classement des équipes ayant atteint le top 3.
+
+Le dernier tournoi inclus dans les données ci-dessous est [l'osu! World Cup 2023](/wiki/Tournaments/OWC/2023).
 
 *Remarque : Les tournois officiels autorisant les équipes ne représentant pas un pays ne sont pas pris en considération.*\
 *Remarque : les équipes de pays mixés (exemple Argentine-Colombie) ne sont pas pris en considération.*
 
 ## Classements
-
-<!-- last update: CWC 2022 (Registration phase)-->
 
 ### Classement général
 
