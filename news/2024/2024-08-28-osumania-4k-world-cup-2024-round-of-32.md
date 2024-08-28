@@ -10,9 +10,9 @@ The key smashing has officially commenced last weekend, and now is the perfect t
 
 We all know qualifiers have never been the deciding factor in a tournament. While they definitely provide an initial edge to those teams who prove to go above and beyond the competition, qualifiers are but the start of the show!
 
-This year we've witnessed everything, with this year's qualifiers being one of the most competitive to date. From the usual teams getting podium placements, to fan favourites such as Japan losing some of its previous years' lustre, or even seeing new faces in higher seeds such as the United Kingdom!
+This year we've witnessed everything, with the qualifiers being one of the most competitive to date. From the usual teams getting podium placements, to fan favourites such as Japan losing some of its previous years' lustre, or even seeing new faces in higher seeds such as the United Kingdom!
 
-With the first round of the osu!mania 4K World Cup concluding last weekend, it's time to look back at the Round of 32, and spotlight the best moments of the previous weekend.
+With the first round of the osu!mania 4K World Cup concluding last weekend, it's time to look back at the Round of 32, and spotlight the best moments of the Round of 32.
 
 ## Mappool showcase
 
@@ -85,9 +85,9 @@ You can find the full results right here. Yup, go on, take a look.
 
 Indonesia's renewed roster with 6 new faces had an interesting first match against the higher-seeded Hong Kong. If you don't feel like watching the whole match, these highlights should contain the gist:
 
-- [Little Little Princess](https://osu.ppy.sh/beatmapsets/2234579#mania/4746363) (RC3) @ [15:40](https://www.twitch.tv/videos/2233665337?t=00h15m40s) — The first breakpoint of the match, a cohesive three-way FC from Indonesia to take the match lead.
-- [Brain Rigid Girl](https://osu.ppy.sh/beatmapsets/2234595#mania/4746400) (LN2) @ [41:05](https://www.twitch.tv/videos/2233665337?t=00h41m05s) — A clutch save by Hong Kong on match point, and the closest pick in this entire RO32!
-- [Hebe](https://osu.ppy.sh/beatmapsets/2234586#mania/4746375) (HB2) @ [52:18](https://www.twitch.tv/videos/2233665337?t=00h52m18s) — The tiebreaker, the essence of all tournaments, the final consistency test for Hong Kong to secure their victory.
+- [SHRINE 418 - Little Little Princess](https://osu.ppy.sh/beatmapsets/2234579#mania/4746363) (RC3) @ [15:40](https://www.twitch.tv/videos/2233665337?t=00h15m40s) - The first breakpoint of the match, a cohesive three-way FC from Indonesia to take the match lead.
+- [ShinRa-Bansho - Brain Rigid Girl](https://osu.ppy.sh/beatmapsets/2234595#mania/4746400) (LN2) @ [41:05](https://www.twitch.tv/videos/2233665337?t=00h41m05s) - A clutch save by Hong Kong on match point, and the closest pick in this entire RO32!
+- [SiLiS - Hebe](https://osu.ppy.sh/beatmapsets/2234586#mania/4746375) (HB2) @ [52:18](https://www.twitch.tv/videos/2233665337?t=00h52m18s) - The tiebreaker, the essence of all tournaments, the final consistency test for Hong Kong to secure their victory.
 
 Ultimately, Hong Kong made a comeback against a strong performance and emerged victorious. Whether Indonesia's new roster will match the country's 3rd-place performance last year remains to be seen in the losers' bracket...
 
@@ -101,10 +101,10 @@ Ultimately, Hong Kong made a comeback against a strong performance and emerged v
 
 Singapore vs. Poland was a very interesting match to say the least. While most viewers were expecting Singapore to sweep the match, especially with how far both teams' seeding were being #11 and #22 respectively, viewers couldn’t have been more wrong for what they were about to witness on the world cup stage. Again, feel free to check the highlights below (or binge the entire match):
 
-- [Ignite My Heart](https://osu.ppy.sh/beatmapsets/2234600#mania/4746408) (SV1) @ [10:50](https://www.twitch.tv/videos/2233674722?t=00h10m50s) — The first breakpoint of the match. An insane performance from Poland by taking the point of Singapore’s protected pick, winning by 3,480 score.
-- [CODE:0](https://osu.ppy.sh/beatmapsets/1804396#mania/3760851) (RC3) @ [19:05](https://www.twitch.tv/videos/2233674722?t=00h19m05s) — Another breakpoint, this time from Singapore with all team members getting a score v1 SS.
-- [Hallucinate (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2234584#mania/4746373) (RC2) @ [37:22](https://www.twitch.tv/videos/2233674722?t=00h37m22s) — Yet another breakpoint, this time from Poland with a miss from Singapore at the very end, letting them barely get the point.
-- [Senkou no Flare (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2234576#mania/4746352) (RC5) @ [42:28](https://www.twitch.tv/videos/2233674722?t=00h42m28s) — Poland continued their momentum from the last pick and tied the match up 3–3 with each team member putting up insane scores while viewers were blown away.
+- [Adikop (feat. Chris Ponate) - Ignite My Heart](https://osu.ppy.sh/beatmapsets/2234600#mania/4746408) (SV1) @ [10:50](https://www.twitch.tv/videos/2233674722?t=00h10m50s) - The first breakpoint of the match. An insane performance from Poland by taking the point of Singapore’s protected pick, winning by 3,480 score.
+- [BEMANI Sound Team "HEXA" - CODE:0](https://osu.ppy.sh/beatmapsets/1804396#mania/3760851) (RC3) @ [19:05](https://www.twitch.tv/videos/2233674722?t=00h19m05s) - Another breakpoint, this time from Singapore with all team members getting a score v1 SS.
+- [False Noise - Hallucinate (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2234584#mania/4746373) (RC2) @ [37:22](https://www.twitch.tv/videos/2233674722?t=00h37m22s) - Yet another breakpoint, this time from Poland with a miss from Singapore at the very end, letting them barely get the point.
+- [Ariabl'eyeS - Senkou no Flare (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2234576#mania/4746352) (RC5) @ [42:28](https://www.twitch.tv/videos/2233674722?t=00h42m28s) - Poland continued their momentum from the last pick and tied the match up 3–3 with each team member putting up insane scores while viewers were blown away.
 
 Unfortunately for Poland, Singapore managed to clutch up and take the match 5–3. While Singapore took the match this time around, the Polish will not be forgotten with their incredible performance beating everyone’s expectations. We wish Poland the very best going into the losers' bracket of the tournament.
 
@@ -114,7 +114,7 @@ Earlier rounds are known to be calmer as higher-seeded teams get matched against
 
 - We all know ::{ flag=CL }:: [myucchi](https://osu.ppy.sh/users/10072733) and their feats. While their performance across the entire mappool [vs. New Zealand](https://osu.ppy.sh/community/matches/115223051) was phenomenal, they crushed it in [Mono. - Tricolor Prizm☆☆☆ミ](https://osu.ppy.sh/beatmapsets/2024637#mania/4217619) with a score of 997,781.
 - Taking everyone by surprise, ::{ flag=VN }:: [Joki_](https://osu.ppy.sh/users/18043326) has let everybody know they're a force to be reckoned with. Their rice performance was second to none, as seen with their play on [SHRINE 418 - Little Little Princess](https://osu.ppy.sh/beatmapsets/2234579#mania/4746363), putting up a score of 997,904 [during their match vs. Ukraine](https://osu.ppy.sh/community/matches/115210872).
-- ::{ flag=JP }:: [CrewK](https://osu.ppy.sh/users/11488604) demonstrated yet again who's king, with an extraterrestrial performance on [Shpongle - Outer Shpongolia](https://osu.ppy.sh/beatmapsets/2234598#mania/4746405) during the Japan vs. France match, scoring an astonishing 998,578 points.
+- ::{ flag=JP }:: [CrewK](https://osu.ppy.sh/users/11488604) demonstrated yet again who's king, with an extraterrestrial performance on [Shpongle - Outer Shpongolia](https://osu.ppy.sh/beatmapsets/2234598#mania/4746405) during the [Japan vs. France match](https://osu.ppy.sh/community/matches/115213041), scoring an astonishing 998,578 points.
 
 Keep a lookout for these people! Let's see how future rounds fare them, and whether they can keep up the pace.
 
