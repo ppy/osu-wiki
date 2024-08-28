@@ -89,13 +89,23 @@ Ultimately, Hong Kong made a comeback against a strong performance and emerged v
 
 ### ::{ flag=SG }:: Singapore vs. ::{ flag=PL }:: Poland
 
-[*You can view the match information here.*](https://osu.ppy.sh/community/matches/115212044)
+[**You can view the match information here!**](https://osu.ppy.sh/community/matches/115212044)
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2233674722&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-text here
+Singapore vs. Poland was a very interesting match to say nevertheless. While most viewers were expecting Singapore to sweep the match, especially with how far both teams' seeding were being #11 and #22 respectively, viewers couldn’t have been more wrong for what they were about to witness on the world cup stage. If you don't feel like watching the whole match, these highlights should contain the gist:
+
+- [Ignite My Heart](https://osu.ppy.sh/beatmapsets/2234600#mania/4746408) (SV1) @ [10:50](https://www.twitch.tv/videos/2233674722?t=00h10m50s) — The first breakpoint of the match, an insane performance from Poland by taking the point of Singapore’s protected pick, winning by 3,480 score.
+
+- [CODE:0](https://osu.ppy.sh/beatmapsets/1804396#mania/3760851) (RC3) @ [19:05](https://www.twitch.tv/videos/2233674722?t=00h19m05s) — Another breakpoint, this time from Singapore with all team members getting an SS if score v1.
+
+- [Hallucinate (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2234584#mania/4746373) (RC2) @ [37:22](https://www.twitch.tv/videos/2233674722?t=00h37m22s) — Yet another breakpoint, this time from Poland with a miss from Singapore at the very end, letting them barely get the point.
+
+- [Senkou no Flare (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2234576#mania/4746352) (RC5) @ [42:28](https://www.twitch.tv/videos/2233674722?t=00h42m28s) — Poland continued their momentum from the last pick and tied the match up 3–3 with each team member putting up insane scores while viewers were blown away.
+
+Unfortunately for Poland, Singapore managed to clutch up and take the match 5–3. While Singapore took the match this time around, the Polish will not be forgotten with their incredible performance and beating everyone’s expectations. We wish Poland the very best going into the losers' bracket of the tournament.
 
 ## Score highlights
 
