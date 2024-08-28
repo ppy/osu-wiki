@@ -127,7 +127,7 @@ Additionally, a [**Mappers' Guild keychain**](/wiki/shared/news/2023-08-29-chang
 
 - **Submissions must follow the month's beatmapping [limitation](#limitation):**
   - **osu!taiko:** you must create an Inner Oni difficulty that's no more than 4 stars
-  - **osu!catch:** dashes are not allowed
+  - **osu!catch:** only walks and hyperdashes are allowed
 - **Submissions must be a single difficulty from one of the month's [selected songs](#songs).**
 - **Submissions must be in `.osz` format.**
 - **Submissions must NOT be uploaded to the osu! website until after the contest's results are finalised.**
