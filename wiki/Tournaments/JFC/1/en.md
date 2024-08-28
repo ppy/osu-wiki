@@ -249,7 +249,7 @@ Saturday, 10 August 2024:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | **Bakpia Kukus** | **7** | 1 | Ban HR2 | [#1](https://osu.ppy.sh/community/matches/115022242) |
 
-Sunday, 11 August 2024, Grand Final:
+Sunday, 11 August 2024:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
