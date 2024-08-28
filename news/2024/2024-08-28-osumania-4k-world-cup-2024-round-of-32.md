@@ -99,7 +99,7 @@ Singapore vs. Poland was a very interesting match to say nevertheless. While mos
 
 - [Ignite My Heart](https://osu.ppy.sh/beatmapsets/2234600#mania/4746408) (SV1) @ [10:50](https://www.twitch.tv/videos/2233674722?t=00h10m50s) — The first breakpoint of the match, an insane performance from Poland by taking the point of Singapore’s protected pick, winning by 3,480 score.
 
-- [CODE:0](https://osu.ppy.sh/beatmapsets/1804396#mania/3760851) (RC3) @ [19:05](https://www.twitch.tv/videos/2233674722?t=00h19m05s) — Another breakpoint, this time from Singapore with all team members getting an SS if score v1.
+- [CODE:0](https://osu.ppy.sh/beatmapsets/1804396#mania/3760851) (RC3) @ [19:05](https://www.twitch.tv/videos/2233674722?t=00h19m05s) — Another breakpoint, this time from Singapore with all team members getting a score v1 SS.
 
 - [Hallucinate (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2234584#mania/4746373) (RC2) @ [37:22](https://www.twitch.tv/videos/2233674722?t=00h37m22s) — Yet another breakpoint, this time from Poland with a miss from Singapore at the very end, letting them barely get the point.
 
