@@ -9,7 +9,7 @@ The Followpoint has came back with another interview! This time it will be very 
 
 ![](/wiki/shared/news/2024-09-02-the-followpoint-dreamxiety-the-picasso-of-osu!/banner.jpg)
 
-What's this? A new interivew from The Followpoint? That's right, today we are back with [Dreamxiety](https://osu.ppy.sh/users/13103233). You may know her for creating artworks for the seasonal art contests, and you've probably seen them in the main menu whenever you load up osu!, if you even have seasonal backgrounds enabled... why do you guys have them disabled?
+What's this? A new interview from The Followpoint? That's right, today we are back with [Dreamxiety](https://osu.ppy.sh/users/13103233). You may know her for creating artworks for the seasonal art contests, and you've probably seen them in the main menu whenever you load up osu!, if you even have seasonal backgrounds enabled... why do you guys have them disabled?
 
 Let's get right into it!
 
@@ -92,7 +92,7 @@ What is your drawing process like? Is there a certain workflow you follow when w
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/13103233">Dreamxiety</a></p>
 
-If I'm looking for ideas, I'll browse through the internet to find inspirations. For osu contests specifically, I often just search for art that has the theme. It's a pretty good method since what comes at the top of the search are the things people generally find appealing, and what people have in mind when the name of the theme comes up.
+If I'm looking for ideas, I'll browse through the internet to find inspirations. For osu! contests specifically, I often just search for art that has the theme. It's a pretty good method since what comes at the top of the search are the things people generally find appealing, and what people have in mind when the name of the theme comes up.
 
 Then I'll look for references, mainly for the things I'm not sure how to draw. Sometimes I also would use other images as placeholders for the background, like the sky for example. I'll adjust the colors and position, it helps me find what I'm trying to go for.
 
@@ -108,7 +108,7 @@ Let's talk about osu!'s seasonal art contests, what made you interested back whe
 
 I remember that I was opening the osu! homepage and I saw the announcement for [2019 Halloween Contest](https://osu.ppy.sh/community/contests/81). Previously, I had no idea that osu! even hosts that so it was a surprise and I was hyped. I joined not expecting to get in but surprisingly I did and I was really happy.
 
-That was also the first time I got my supporter tag, which I thought was cool. Back then I've never got to enjoy any sort of paid perks in a game because I was just a broke student and my parents aren't a fan of that kinda stuff lol.
+That was also the first time I got my osu!supporter tag, which I thought was cool. Back then I've never got to enjoy any sort of paid perks in a game because I was just a broke student and my parents aren't a fan of that kinda stuff lol.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/news/2024-09-02-the-followpoint-dreamxiety-the-picasso-of-osu!/avatar-Utiba.jpeg')"></a>
 
@@ -240,7 +240,7 @@ To finish things up, what does the future hold for you? Do you have anything els
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/13103233">Dreamxiety</a></p>
 
-I'm hoping I could do more stuff for the game, especially for osu! world cups. Osu is one of the only couple of games I actually stayed playing for a long time. Other games I usually just play maybe for a few months at most then I drop them, but osu actually got me to keep coming back. So I think it's nice to put the stuff I do out there for others to look at and enjoy.
+I'm hoping I could do more stuff for the game, especially for osu! world cups. osu! is one of the only couple of games I actually stayed playing for a long time. Other games I usually just play maybe for a few months at most then I drop them, but osu actually got me to keep coming back. So I think it's nice to put the stuff I do out there for others to look at and enjoy.
 
 My final message would be 1) Play catch, and 2) I like KAITO thighs.
 
