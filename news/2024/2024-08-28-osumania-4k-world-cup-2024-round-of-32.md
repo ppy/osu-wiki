@@ -125,6 +125,8 @@ Keep a look-out for these people! Let's see how future rounds fare them, and whe
 
 ---
 
-Now is the perfect time to start following the MWC4K, choose your favourites and cheer them on! Regardless of whom you'll be cheering on, we hope to see you this weekend for the Round of 16 on [Twitch](https://www.twitch.tv/osulive), and if you are interested in the nitty-gritty of this MWC4K edition, you can find the full details over on the [wiki page](/wiki/Tournaments/MWC/2024_4K)!
+Now is the perfect time to start following the MWC4K, choose your favourites and cheer them on!
+
+Regardless of whom you'll be cheering on, we hope to see you this weekend for the Round of 16 on [Twitch](https://www.twitch.tv/osulive), and if you are interested in the nitty-gritty of this MWC4K edition, you can find the full details over on the [wiki page](/wiki/Tournaments/MWC/2024_4K)!
 
 —0x84f, RandomeLoL, Utiba, kadoen
