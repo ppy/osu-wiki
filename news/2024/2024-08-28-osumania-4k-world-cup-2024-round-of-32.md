@@ -25,7 +25,7 @@ With the first round of the osu!mania 4K World Cup concluding last weekend, it's
 [**Download the pool here! (98 MB)**](https://osu.ppy.sh/beatmaps/packs/P257)
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&time=0h50m23s&video=2227895735" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&time=0h50m27s&video=2227895735" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
 Even though this is only the first of many rounds to come in this edition of the MWC4K, the Round of 32 selection this year already has 2 great [osu! originals](/wiki/osu!_originals)!
