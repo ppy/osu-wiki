@@ -21,7 +21,6 @@ The **Nordic Summer Showdown** (***NSS***) was a 1v1 double-elimination tourname
 | Finals | 2024-06-29/2024-07-01 |
 | Grand Finals | 2024-07-15/2024-07-20 |
 
-
 ## Prizes
 
 | Placing | Prize(s) |
@@ -78,7 +77,6 @@ Listed below are all participants who played Qualifiers. Note that only the best
 | 14 | ::{ flag=DK }:: [gantiawp](https://osu.ppy.sh/users/11670817) | 11.82 | 314,505 |
 | 15 | ::{ flag=DK }:: [Yunozaku61](https://osu.ppy.sh/users/17795665) | 14.36 | 169,855 |
 
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -86,7 +84,7 @@ This competition has come to an end and resulted in the following podium:
 | Placing | Player |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=FI }:: [Giguel69](https://osu.ppy.sh/users/22206304) |
-![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=NO }:: [Haibane](https://osu.ppy.sh/users/11929613) |
+|![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=NO }:: [Haibane](https://osu.ppy.sh/users/11929613) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=SE }:: [Johnney101](https://osu.ppy.sh/users/11928361) |
 
 ## Mappools
@@ -121,7 +119,6 @@ This competition has come to an end and resulted in the following podium:
   1. [IOSYS - Danzai Yamaxanadu! \[StarCastler's Lunatic\]](https://osu.ppy.sh/beatmaps/3694824)
 - Tiebreaker
   1. **[+kin_ - Absolute Frontier \[Cosmos\]](https://osu.ppy.sh/beatmaps/4679315)**
-
 
 ### Finals
 
@@ -246,7 +243,6 @@ This competition has come to an end and resulted in the following podium:
   1. [AKINO with bless4 - EXTRA MAGIC HOUR \[Hard\]](https://osu.ppy.sh/beatmaps/533591)
   2. [Chibanyan vs. Otogibara Era - GOMIKASU -Original Mix- \[Hard\]](https://osu.ppy.sh/beatmaps/2509334)
 
-
 ## Match results
 
 ### Grand Finals
@@ -262,7 +258,7 @@ This competition has come to an end and resulted in the following podium:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | LB | **Johnney101** ::{ flag=SE }:: | **6** | 2 | ::{ flag=DK }:: Rurup | [#1](https://osu.ppy.sh/community/matches/114483058) |
 | LB | **Myztical_** ::{ flag=SE }:: | **6** | 4 | ::{ flag=FI }:: Nikva | [#1](https://osu.ppy.sh/community/matches/114509634) |
-| LB | Myztical_ ::{ flag=SE }:: | 5 | **6** | ::{ flag=SE }:: **Johnney101** | [#1](https://osu.ppy.sh/community/matches/114523104)
+| LB | Myztical_ ::{ flag=SE }:: | 5 | **6** | ::{ flag=SE }:: **Johnney101** | [#1](https://osu.ppy.sh/community/matches/114523104) |
 | UB | **Giguel69** ::{ flag=FI }:: | **6** | 0 | ::{ flag=NO }:: Haibane | [#1](https://osu.ppy.sh/community/matches/114496837) |
 
 ### Semifinals
@@ -321,7 +317,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### General rules
 
-1. The rank range is #100000 - ＊.
+1. The rank range is #100000 - infinity.
 2. The eligible countries are Denmark, Norway, Sweden, Finland, and Iceland.
  - All territories under the jurisdiction of these countries may play, e.g. Faroe Islands and Greenland.
 3. Tournament type: 1 vs. 1.
@@ -344,7 +340,7 @@ This competition has come to an end and resulted in the following podium:
 1. Referees will ping players 15 minutes before the match starts. If there is no ping 5 minutes before the match starts, players should notify the referees or staff/admins immediately.
 2. Invites will be sent to players 5 minutes before the match starts.
 3. Players may pick warmups up to 4:20 in length, and must send it to the referee 30 minutes before the match for approval.
- - Warmups may not contain [explicit content](wiki/Explicit_content) except at the sole discretion of the referee.
+ - Warmups may not contain [explicit content](/wiki/Explicit_content) except at the sole discretion of the referee.
  - Warmups are played only if both players agree to do so.
 4. After warmups, both players must !roll.
 5. The roll winner protects first and may choose either the pick or ban order. The roll loser protects second and may choose the remaining order.
