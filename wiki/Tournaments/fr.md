@@ -201,7 +201,7 @@ Tournois et compétitions non-officiels gérés par la communauté.
 
 | Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne de bronze][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Donut Cup](Donut_Cup/1) | 27/05/2024 | 15/07/2024 | **crying right now** (::{ flag=GB }:: [polski1](https://osu.ppy.sh/users/18131614), ::{ flag=GB }:: [skiatzo](https://osu.ppy.sh/users/16774872), ::{ flag=AU }:: [oslash](https://osu.ppy.sh/users/13228917), ::{ flag=FR }:: [calangi](https://osu.ppy.sh/users/7810180), ::{ flag=UA }:: [EPEMA](https://osu.ppy.sh/users/18781432), ::{ flag=UA }:: [SHADOW FREAK](https://osu.ppy.sh/users/7587763)) | **YOSHIMOBIL** (::{ flag=DE }:: [-semi](https://osu.ppy.sh/users/5154946), ::{ flag=LV }:: [solo drinking](https://osu.ppy.sh/users/21653406), ::{ flag=US }:: [ampy](https://osu.ppy.sh/users/4458239), ::{ flag=US }:: [EthantrixV2](https://osu.ppy.sh/users/10634348), ::{ flag=US }:: [Kahli](https://osu.ppy.sh/users/8926244), ::{ flag=PL }:: [-Sylvari](https://osu.ppy.sh/users/3493804)) | **No title** (::{ flag=KR }:: [Atipir](https://osu.ppy.sh/users/8991722), ::{ flag=PL }:: [szedis](https://osu.ppy.sh/users/14282987), ::{ flag=PL }:: [BMG\_](https://osu.ppy.sh/users/4981809), ::{ flag=PL }:: [hedayo](https://osu.ppy.sh/users/9323821), ::{ flag=UA }:: [KirbyTwister](https://osu.ppy.sh/users/7979597), ::{ flag=KR }:: [Lujeol](https://osu.ppy.sh/users/14447878) |
+| [Donut Cup](Donut_Cup/1) | 27/05/2024 | 15/07/2024 | **crying right now** (::{ flag=GB }:: [polski1](https://osu.ppy.sh/users/18131614), ::{ flag=GB }:: [skiatzo](https://osu.ppy.sh/users/16774872), ::{ flag=AU }:: [oslash](https://osu.ppy.sh/users/13228917), ::{ flag=FR }:: [calangi](https://osu.ppy.sh/users/7810180), ::{ flag=UA }:: [EPEMA](https://osu.ppy.sh/users/18781432), ::{ flag=UA }:: [SHADOW FREAK](https://osu.ppy.sh/users/7587763)) | **YOSHIMOBIL** (::{ flag=DE }:: [-semi](https://osu.ppy.sh/users/5154946), ::{ flag=LV }:: [solo drinking](https://osu.ppy.sh/users/21653406), ::{ flag=US }:: [ampy](https://osu.ppy.sh/users/4458239), ::{ flag=US }:: [EthantrixV2](https://osu.ppy.sh/users/10634348), ::{ flag=US }:: [Kahli](https://osu.ppy.sh/users/8926244), ::{ flag=PL }:: [-Sylvari](https://osu.ppy.sh/users/3493804)) | **No title** (::{ flag=KR }:: [Atipir](https://osu.ppy.sh/users/8991722), ::{ flag=PL }:: [szedis](https://osu.ppy.sh/users/14282987), ::{ flag=PL }:: [BMG\_](https://osu.ppy.sh/users/4981809), ::{ flag=PL }:: [hedayo](https://osu.ppy.sh/users/9323821), ::{ flag=UA }:: [KirbyTwister](https://osu.ppy.sh/users/7979597), ::{ flag=KR }:: [Lujeol](https://osu.ppy.sh/users/14447878)) |
 
 #### Game_Osu Tourney
 
@@ -235,6 +235,12 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne de bronze][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Indonesian Draft Cup 2020](IDC/2020) | 29/08/2020 | 03/10/2020 | Brazil | Pondokers | awan fanclub 2 |
+
+#### Jogja Fun Cup
+
+| Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne de bronze][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Jogja Fun Cup](JFC/1) | 01/07/2024 | 11/08/2024 | **BAKPIA KUKUS KILLER** (::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627), ::{ flag=ID }:: [FAW](https://osu.ppy.sh/users/11070577), ::{ flag=ID }:: [ThatNOOBGuy](https://osu.ppy.sh/users/11091594)) | **Bakpia Kukus** (::{ flag=ID }:: [beabadobee](https://osu.ppy.sh/users/8688737), ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131)) | **Ban HR2** (::{ flag=ID }:: [ruruichi](https://osu.ppy.sh/users/6717559), ::{ flag=ID }:: [moyamoyano\_sa](https://osu.ppy.sh/users/3891439), ::{ flag=ID }:: [Azasapag](https://osu.ppy.sh/users/18347666)) |
 
 #### Mirai. Tournament
 
