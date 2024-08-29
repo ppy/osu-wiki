@@ -18,8 +18,6 @@ So we expanded.
 
 ## [circle clicker deskmat](https://osu.ppy.sh/store/products/1347)
 
-![](/wiki/shared/news/2024-08-17-osu-deskmats/stock.png)
-
 This cursor dance through the ~~fool moon~~ night sky is a simple homage to the osu! player's daily routine: clicking circles at mach speed atop a 100% dimmed background.
 
 [![](/wiki/shared/news/2024-08-17-osu-deskmats/splash.jpg)](https://osu.ppy.sh/store/products/1347)
