@@ -90,6 +90,10 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
 | **Undertable sands** | ::{ flag=KR }:: **[Scitra](https://osu.ppy.sh/users/26140861)**, ::{ flag=KR }:: [-GazingSnow-](https://osu.ppy.sh/users/32408886), ::{ flag=VN }:: [\[LS\]Tokiyume](https://osu.ppy.sh/users/13219309), ::{ flag=PH }:: [Dyei](https://osu.ppy.sh/users/23643731), ::{ flag=CN }:: [\[GB\]GanyuAngel](https://osu.ppy.sh/users/27233308), ::{ flag=AU }:: [Jeroid](https://osu.ppy.sh/users/18481219) |
 | **Yuma fanboys** | ::{ flag=JP }:: **[Nikoro](https://osu.ppy.sh/users/25588443)**, ::{ flag=SG }:: [-Pafe-](https://osu.ppy.sh/users/19834488), ::{ flag=CN }:: [\[GB\]mmttyy233](https://osu.ppy.sh/users/28639641), ::{ flag=ID }:: [iSxga](https://osu.ppy.sh/users/15801261), ::{ flag=AU }:: [oct4](https://osu.ppy.sh/users/10303887), ::{ flag=QA }:: [YumaOs](https://osu.ppy.sh/users/13047982) |
 
+## Podium
+
+![](img/asc-podium.jpg "ASC podium")
+
 ## Mappools
 
 ### Grand Finals
