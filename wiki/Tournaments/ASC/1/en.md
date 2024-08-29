@@ -9,7 +9,7 @@ tags:
 
 > Let the rhythm of the waters decide your fortunes.
 
-The **Asia Suiji Cup: Rhythmus Aquarum** (***ASC***) is a three-on-three asian countries restricted double-elimination osu!mania 4-key tournament hosted by ::{ flag=MY }:: [ERA Leon](https://osu.ppy.sh/users/13382147) and ::{ flag=VN }:: [MashedPotato](https://osu.ppy.sh/users/10494860). Each participant registered individually and was assigned to a random team. It is the first instalment of the Asia Suiji Cup, a successor, and inspired by the [Asian's Campionships](/wiki/Tournaments/o!mAC) and [SEA Champion](/wiki/Tournaments/SEAC) series.
+The **Asia Suiji Cup: Rhythmus Aquarum** (***ASC***) was a three-on-three asian countries restricted double-elimination osu!mania 4-key tournament hosted by ::{ flag=MY }:: [ERA Leon](https://osu.ppy.sh/users/13382147) and ::{ flag=VN }:: [MashedPotato](https://osu.ppy.sh/users/10494860). Each participant registered individually and was assigned to a random team. It was the first instalment of the Asia Suiji Cup, a successor, and inspired by the [Asian's Campionships](/wiki/Tournaments/o!mAC) and [SEA Champion](/wiki/Tournaments/SEAC) series.
 
 ## Tournament schedule
 
@@ -24,7 +24,7 @@ The **Asia Suiji Cup: Rhythmus Aquarum** (***ASC***) is a three-on-three asian c
 | Quarterfinals | 2024-07-27/2024-07-28 |
 | Semifinals | 2024-08-02/2024-08-04 |
 | Finals | 2024-08-10/2024-08-11 |
-| Grand Finals | 2024-08-17/2024-08-18 |
+| Grand Finals | 2024-08-24/2024-08-25 |
 
 ## Prizes
 
@@ -34,11 +34,11 @@ The **Asia Suiji Cup: Rhythmus Aquarum** (***ASC***) is a three-on-three asian c
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter tag, user profile banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter tag, user profile banner |
 
-Second place's osu!supporter tag is provided by ::{ flag=GB }:: [IncognitoMercy](https://osu.ppy.sh/users/12838922). Donations and all supports can be made through [ASC's Ko-fi page](https://ko-fi.com/asiasuijicup).
+Second place's osu!supporter tag was provided by ::{ flag=GB }:: [IncognitoMercy](https://osu.ppy.sh/users/12838922).
 
 ## Organisation
 
-The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
+The Asia Suiji Cup: Rhythmus Aquarum was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
