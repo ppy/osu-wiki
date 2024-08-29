@@ -125,6 +125,8 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
   3. [SOUND HOLIC Vs. dj TAKA feat. YURiCa (Zia) \[Stealing\]](https://osu.ppy.sh/beatmapsets/2226656#mania/4723513)
   4. [Anegasaki Nei - ZENITHALIZE (Mipha-) \[MIPHATHER 1.05x (157bpm)\]](https://osu.ppy.sh/beatmapsets/1744633#mania/3676737)
   5. [False Noise - Space Angel (Disguise) \[im not that amiable\]](https://osu.ppy.sh/beatmapsets/2168810#mania/4576456)
+  6. [Skrillex - RATATA (Double T Bootleg) (CrewK) \[fool\]](https://osu.ppy.sh/beatmapsets/2064463#mania/4318079)
+  7. [The Hair Kid - Pocari Freakz (JAKAZiD's Jet Sweat Radio Remix) (\[GB\]SuddenDeath) \[Celeb's 24 1.1x (ASC edit)\]](https://osu.ppy.sh/beatmapsets/2160691#mania/4723521)
 - LN
   1. [Jay Chou - Gong Gong with Headache (YuEast 2018) \[Less Pain\]](https://osu.ppy.sh/beatmapsets/2226647#mania/4723503)
   2. [katagiri - RAINBOW GIRL (katagiri Remix) \[x1.00\]](https://osu.ppy.sh/beatmapsets/2119804#mania/4453271)
