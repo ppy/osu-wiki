@@ -94,7 +94,7 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
 
 ### Grand Finals
 
-- RC
+- Rice
   1. [BLOOD STAIN CHILD - Last Stardust (ItzScep) \[Into The Stardust\]](https://osu.ppy.sh/beatmapsets/2230705#mania/4734143)
   2. [Smiley - Destiny GAMMA (Mipha-) \[Unravel 1.05x (276bpm\]](https://osu.ppy.sh/beatmapsets/1747908#mania/3575280)
   3. [Yudare-P feat. Hatsune Miku - Iriya Iriya (\[GS\]hina) \[Liberty 1.15x (173bpm)\]](https://osu.ppy.sh/beatmapsets/2230753#mania/4734254)
@@ -102,16 +102,16 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
   5. [Sharks - Nereid (Guilhermeziat) \[Stage 7: Tsunami\]](https://osu.ppy.sh/beatmapsets/1788534#mania/3664441)
   6. [buelow - Revolver (Sped Up Ver.) (Ska) \[hoyden\]](https://osu.ppy.sh/beatmapsets/2230683#mania/4734084)
   7. [Camellia - Racemization (\[GS\]hina) \[Catalyst (ASC\_Edit\]](https://osu.ppy.sh/beatmapsets/2230761#mania/4734266)
-- LN
+- Long Notes
   1. [Miyashita Yuu x Hiiragi Kirai - Grain (ERA Imperial) \[LeoN is cuTE\]](https://osu.ppy.sh/beatmapsets/2230674#mania/4734062)
   2. [Camellia - TEMPO KATANA (FelixSpade) \[LN Master // Kiku-ichimonji+\]](https://osu.ppy.sh/beatmapsets/2230099#mania/4732428)
   3. [Getty - Revolt (MyZterioN-) \[tax on the duck\]](https://osu.ppy.sh/beatmapsets/2214321#mania/4691614)
   4. [Culprate - Beast (Vorso Remix) (\[Crz\]Crysarlene) \[Excelsior \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/2230642#mania/4733958)
-- HB
+- Hybrid
   1. [Xyris - Eviternity (ERA Imperial) \[Leischl\]](https://osu.ppy.sh/beatmapsets/2230676#mania/4734064)
   2. [ChumuNote - BlueSunnyFish (feat. Twinfield) (chxu) \[ABOVE YOU\]](https://osu.ppy.sh/beatmapsets/2230516#mania/4733668)
   3. [katagiri - Kyuukou (ERA Leon) \[Equilibrium (cut)\]](https://osu.ppy.sh/beatmapsets/2230716#mania/4734157)
-- SV
+- Slider Velocity
   1. [Ardolf - Varcolac (awdse22) \[Nocturnal\]](https://osu.ppy.sh/beatmapsets/2230756#mania/4734257)
   2. [Chroma - I (Promachos) \[UNEXPECTED LOVE\]](https://osu.ppy.sh/beatmapsets/2230738#mania/4734213)
 - Tiebreaker
@@ -119,7 +119,7 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
 
 ### Finals
 
-- RC
+- Rice
   1. [katagiri - 1680 Man Shoku ni Hikaru Gaming Kemomimi Loli (\[GS\]hina) \[Iridescent\]](https://osu.ppy.sh/beatmapsets/2226644#mania/4723498)
   2. [Noah - End to end (Zia) \[Sword\]](https://osu.ppy.sh/beatmapsets/2226643#mania/4723493)
   3. [SOUND HOLIC Vs. dj TAKA feat. YURiCa (Zia) \[Stealing\]](https://osu.ppy.sh/beatmapsets/2226656#mania/4723513)
@@ -127,16 +127,16 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
   5. [False Noise - Space Angel (Disguise) \[im not that amiable\]](https://osu.ppy.sh/beatmapsets/2168810#mania/4576456)
   6. [Skrillex - RATATA (Double T Bootleg) (CrewK) \[fool\]](https://osu.ppy.sh/beatmapsets/2064463#mania/4318079)
   7. [The Hair Kid - Pocari Freakz (JAKAZiD's Jet Sweat Radio Remix) (\[GB\]SuddenDeath) \[Celeb's 24 1.1x (ASC edit)\]](https://osu.ppy.sh/beatmapsets/2160691#mania/4723521)
-- LN
+- Long Notes
   1. [Jay Chou - Gong Gong with Headache (YuEast 2018) \[Less Pain\]](https://osu.ppy.sh/beatmapsets/2226647#mania/4723503)
   2. [katagiri - RAINBOW GIRL (katagiri Remix) \[x1.00\]](https://osu.ppy.sh/beatmapsets/2119804#mania/4453271)
   3. [Frums - 19ZZ (ERA Imperial) \[LN-J03\]](https://osu.ppy.sh/beatmapsets/2226646#mania/4723501)
   4. [Helblinde - A Reyvateil's Curse (FelixSpade) \[LN Prodigy // Shackles (cut)\]](https://osu.ppy.sh/beatmapsets/2226113#mania/4722254)
-- HB
+- Hybrid
   1. [meganeko - Feral (osu! edit) (\[GB\]Mafufu) \[Blue\_Potion's Meditation 1.0x\]](https://osu.ppy.sh/beatmapsets/2226626#mania/4723468)
   2. [roer & N\_dog - Moving on (TheFunk) \[From the past\]](https://osu.ppy.sh/beatmapsets/2226645#mania/4723500)
   3. [Rukadesu & SKiLOBYTE - ULTIMATE (TheFunk) \[Brawliseum (Nerf)\]](https://osu.ppy.sh/beatmapsets/2036462#mania/4246955)
-- SV
+- Slider Velocity
   1. [Katali - TeraVolt (awdse22) \[Voltage Overload\]](https://osu.ppy.sh/beatmapsets/2226666#mania/4723535)
   2. [linear ring - cache (NovaSagittarii) \[compulsory miss\]](https://osu.ppy.sh/beatmapsets/2226670#mania/4723547)
 - Tiebreaker
@@ -144,22 +144,22 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
 
 ### Semifinals
 
-- RC
+- Rice
   1. [YOHEDA - KAERU (CrewK) \[Frog Regrets\]](https://osu.ppy.sh/beatmapsets/1666553#mania/3463278)
   2. [cosMo@BousouP - Sekai no Owari ni Aimashou (MyZterioN-) \[The Last Hour (1.20x) ASC edit\]](https://osu.ppy.sh/beatmapsets/1493728#mania/4713605)
   3. [meganeko - nano love (Eclipse-) \[^\_^ \[1,05x Rate\]\]](https://osu.ppy.sh/beatmapsets/1726149#mania/3528255)
   4. [M2U - Second Choice (Hylotl) \[Next-gen\]](https://osu.ppy.sh/beatmapsets/2216862#mania/4698068)
   5. [7\_7 feat. kasane vavzed - Yakou (TheFunk) \[Deliverance\]](https://osu.ppy.sh/beatmapsets/2222887#mania/4713590)
   6. [penoreri - Lancelot Flame of the Rebellion (Eclipse-) \[MAXIMUM \[1,1x Rate\]\]](https://osu.ppy.sh/beatmapsets/2222714#mania/4713216)
-- LN
+- Long Notes
   1. [Hatsune Miku&Megurine Luka - Magnet (Yana Feiya) \[Attraction\]](https://osu.ppy.sh/beatmapsets/2222963#mania/4713731)
   2. [SAMString - Celestial Solace (ERA Leon) \[Tranquility 1.0 (ASC edit)\]](https://osu.ppy.sh/beatmapsets/2067012#mania/4713584)
   3. [TJ.hangneil - Kamui (MyZterioN-) \[Ituren\]](https://osu.ppy.sh/beatmapsets/2222914#mania/4713634)
-- HB
+- Hybrid
   1. [Yuta Imai - NOT YOUR IDOL (Muses) \[:3\]](https://osu.ppy.sh/beatmapsets/2222918#mania/4713640)
   2. [lunaluxe - Electricity (ERA arccat) \[hidden truths.\]](https://osu.ppy.sh/beatmapsets/2222897#mania/4713606)
   3. [Ashrount - Animus (\[Crz\]FolAH1217) \[Evil\]](https://osu.ppy.sh/beatmapsets/2222896#mania/4713604)
-- SV
+- Slider Velocity
   1. [F Rabbeat feat. mustard - How To Make Game Song! (Claren) \[How To Make SV Map!\]](https://osu.ppy.sh/beatmapsets/2222922#mania/4713649)
   2. [A-39 & Suna P - Galaxy (feat. Hatsune Miku) (\[GB\]Mafufu) \[Embrace loneliness... [NSV]\]](https://osu.ppy.sh/beatmapsets/2222713#mania/4713210)
 - Tiebreaker
@@ -167,22 +167,22 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
 
 ### Quarterfinals
 
-- RC
+- Rice
   1. [beatMARIO - Sissou Ensemble (\[GS\]hina) \[Ancore\]](https://osu.ppy.sh/beatmapsets/2186534#mania/4622947)
   2. [Rin - Prism Magical (DJ SHARPNEL hardrave remix) (Couil) \[Magical 1.2x\]](https://osu.ppy.sh/beatmapsets/1245301#mania/2588519)
   3. [E-Type - Set The World On Fire (Sped Up Ver.) (Jole) \[this is fine\]](https://osu.ppy.sh/beatmapsets/1456779#mania/3435284)
   4. [Karafuru. Saunzu. Po\^to - Colorful Sounds Cutter (\[GS\]hina) \[Fragment (ASC\_Edit)\]](https://osu.ppy.sh/beatmapsets/2145954#mania/4703819)
   5. [MY FIRST STORY - 2 FACE (Logan636) \[CUT\]](https://osu.ppy.sh/beatmapsets/2182924#mania/4612615)
   6. [kanone vs. BlackY - Stardust:RAY (Eclipse-) \[MASTER\]](https://osu.ppy.sh/beatmapsets/2219192#mania/4703928)
-- LN
+- Long Notes
   1. [Aimer with chelly (EGOIST) - ninelie (REDSHiFT x Vesuvia Remix) (Logan636) \[Don't be afraid, daybreak has come.\]](https://osu.ppy.sh/beatmapsets/2219140#mania/4703847)
   2. [Eagle - Hypersonik (anatharax) \[Another 1.1x\]](https://osu.ppy.sh/beatmapsets/2219143#mania/4703852)
   3. [Ado - Buriki no Dance (Muses) \[Delusion\]](https://osu.ppy.sh/beatmapsets/2219141#mania/4703848)
-- HB
+- Hybrid
   1. [ZxNX - Fana (TheFunk) \[Penumbra\]](https://osu.ppy.sh/beatmapsets/2219128#mania/4703824)
   2. [Yak\_Won - Out Of The Blue (Yana Feiya) \[Out Of The BlueSky\]](https://osu.ppy.sh/beatmapsets/2196535#mania/4647926)
   3. [MEMODEMO X AQUASINE - Point and Click (AlexDunk) \[Confusion and 69.\]](https://osu.ppy.sh/beatmapsets/2219116#mania/4703808)
-- SV
+- Slider Velocity
   1. [Getty - Golyat (Paturages) \[Rolizier\]](https://osu.ppy.sh/beatmapsets/2219142#mania/4703850)
   2. [Yosk! - Cockroach Cooking (awdse22) \[UGHH EWWW BRWUEEEHGHGH \*cough cough\* \*vomit\*\]](https://osu.ppy.sh/beatmapsets/2219133#mania/4703832)
 - Tiebreaker
@@ -190,20 +190,20 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
 
 ### Round of 16
 
-- RC
+- Rice
   1. [aran - Gate One (Extended Mix) (Eclipse-) \[Master\]](https://osu.ppy.sh/beatmapsets/2214874#mania/4692947)
   2. [Aoi - guardina (FerdiXIA-) \[Awakening (Updated)\]](https://osu.ppy.sh/beatmapsets/2143333#mania/4596344)
   3. [Tobu & Syndec - Dusk (Radio Edit) (Cut Ver.) (Ainer) \[nightfall\]](https://osu.ppy.sh/beatmapsets/2198528#mania/4652614)
   4. [KARUT - JACKPOT 777 (Revv-) \[Gacor\]](https://osu.ppy.sh/beatmapsets/2214467#mania/4692135)
   5. [Hino Isuka vs. s-don - Glooorious!! (AutotelicBrown) \[Epic!!\]](https://osu.ppy.sh/beatmapsets/2214836#mania/4692876)
-- LN
+- Long Notes
   1. [Wanuka - Zecchou Sanka (anatharax) \[Captivation\]](https://osu.ppy.sh/beatmapsets/2214895#mania/4692980)
   2. [Gentle stick - Amphitryon (Yana Feiya) \[Torment\]](https://osu.ppy.sh/beatmapsets/2214830#mania/4692868)
   3. [Zenpaku - Blast+ (feat. DEMONDICE) (\[Crz\]FolAH1217) \[Mixed Thoughts\]](https://osu.ppy.sh/beatmapsets/2214869#mania/4692939)
-- HB
+- Hybrid
   1. [Hoshimachi Suisei - BIBBIDIBA (AelSan) \[\~ BIBIDI BOBBIDI BOOWA \~\]](https://osu.ppy.sh/beatmapsets/2214906#mania/4692998)
   2. [ZeRo-BaSs - RaVe UnLiMiTeD (chxu) \[MaxX 176\]](https://osu.ppy.sh/beatmapsets/2213782#mania/4690363)
-- SV
+- Slider Velocity
   1. [Ardolf - will u (RuleBlazing) \[cat sitting on the sv\]](https://osu.ppy.sh/beatmapsets/2214851#mania/4692902)
   2. [Syzy - i'm god edit (trying to make dariacore but failing really hard) (H1Pur) \[trying to make a tournament sv map but failing really hard\]](https://osu.ppy.sh/beatmapsets/2214916#mania/4693012)
 - Tiebreaker
@@ -211,16 +211,16 @@ The Asia Suiji Cup: Rhythmus Aquarum is run by various community members.
 
 ### Qualifiers
 
-- SV
+- Slider Velocity
   1. [P\*Light - SWAG!! (Orca-) \[Stage 1: WATCH OUT!!\]](https://osu.ppy.sh/beatmapsets/2206316#mania/4671278)
-- RC
+- Rice
   1. [daisan - Tenjou no Porisuruin (\[GS\]hina) \[Stage 2: Ascended\]](https://osu.ppy.sh/beatmapsets/2206306#mania/4671254)
   2. [suisoh - Afterwards (ERA Imperial) \[Stage 3: Mimir\]](https://osu.ppy.sh/beatmapsets/2206334#mania/4671300)
   3. [REDALiCE - DEAD or DIE (YuEast 2018) \[Stage 4: Dice\]](https://osu.ppy.sh/beatmapsets/2206328#mania/4671294)
-- LN
+- Long Notes
   1. [CHON - Splash (anatharax) \[Stage 5: Spritz\]](https://osu.ppy.sh/beatmapsets/2206314#mania/4671275)
   2. [Getty vs. DJ DiA - DropZ-Line- (Toaph Daddy) \[Stage 6: Cataclysm\]](https://osu.ppy.sh/beatmapsets/2206317#mania/4671280)
-- HB
+- Hybrid
   1. [MYUKKE. - Inga WooHoo!!! (TheFunk) \[Stage 7: Unga Bunga\]](https://osu.ppy.sh/beatmapsets/2206320#mania/4671283)
   2. [Zekk - Abrasion (Japeynius) \[Stage 8: Resolution\]](https://osu.ppy.sh/beatmapsets/2206324#mania/4671290)
 
