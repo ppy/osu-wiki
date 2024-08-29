@@ -735,6 +735,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [:thonking: Newbie mania Tournament](TNMT/1) | 2019-07-13 | 2019-09-29 | ::{ flag=US }:: [NestleiFan](https://osu.ppy.sh/users/6833341) | ::{ flag=SE }:: [Davvy](https://osu.ppy.sh/users/10047413) | ::{ flag=TH }:: [palmEuEi](https://osu.ppy.sh/users/13656264) |
 
+#### Asia Suiji Cup
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Asia Suiji Cup: Rhythmus Aquarum](ASC/1) | 2024-07-13 | 2024-08-25 | Yuma fanboys | Pixel 7 | Noodle Soup |
+
 #### Cemara Mania Cup
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
