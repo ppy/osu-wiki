@@ -762,5 +762,23 @@ outdated_translation: true
 - 必须自定义 `hit300.png`。
 - 此元素用于 `hit300`、`hit300g` 和 `hit300k`。
 
+## 滑条失误提示 （仅Lazer）
+
+在 [Lazer](/wiki/Client/Release_stream/Lazer) 版本的游戏中，添加了当滑条部分失误时显示的新提示。下面的传统皮肤元素可被用来制作这些失误提示。它们在 osu!stable 中没有效果<!-- TODO link somewhere -->。
+
+|  |  |
+| :-- | :-- |
+| 版本 | 所有 |
+| 可以使用动画？ | ![是][true] |
+| 可以在谱面中自定义？ | ![是][true] |
+| 混合模式 | 普通模式 |
+| 定位点 | 中心 |
+| 推荐标准大小 | 16x16 |
+
+|  | 文件名 | 描述 |
+| :-: | :-- | :-- |
+| ![](img/sliderendmiss.png "Default sliderendmiss@2x.png") | `sliderendmiss.png` | 当错过 [滑条尾部](/wiki/Gameplay/Hit_object/Slider/Slidertail) 时展示。 |
+| ![](img/slidertickmiss.png "Default slidertickmiss@2x.png") | `slidertickmiss.png` | 当错过 [滑条点](/wiki/Gameplay/Hit_object/Slider/Slider_tick)时展示。 |
+
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
