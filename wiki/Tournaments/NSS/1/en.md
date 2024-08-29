@@ -340,8 +340,8 @@ This competition has come to an end and resulted in the following podium:
 1. Referees will ping players 15 minutes before the match starts. If there is no ping 5 minutes before the match starts, players should notify the referees or staff/admins immediately.
 2. Invites will be sent to players 5 minutes before the match starts.
 3. Players may pick warmups up to 4:20 in length, and must send it to the referee 30 minutes before the match for approval.
- - Warmups may not contain [explicit content](/wiki/Explicit_content) except at the sole discretion of the referee.
- - Warmups are played only if both players agree to do so.
+   - Warmups may not contain [explicit content](/wiki/Rules/Explicit_content) except at the sole discretion of the referee.
+   - Warmups are played only if both players agree to do so.
 4. After warmups, both players must !roll.
 5. The roll winner protects first and may choose either the pick or ban order. The roll loser protects second and may choose the remaining order.
 6. There is one protect in all rounds. Protected maps cannot be banned.
@@ -351,10 +351,10 @@ This competition has come to an end and resulted in the following podium:
 10. At match point (when both players are one point from winning), the Tiebreaker will be played.
 11. Players have 90 seconds to pick maps and 90 seconds to ready up.
 12. Each player has **TWO timeouts** lasting 90 seconds each, which are used to extend timers. These can be taken at any point in the match after the first map is played, and can be taken consecutively.
- - Referees may force timeouts if players do not act in time, even if the first map has not yet been played.
+    - Referees may force timeouts if players do not act in time, even if the first map has not yet been played.
 13. If a player allows a timer to expire and has no timeouts left:
- - Pick, ban, or protect: The referee !rolls the amount of possible maps and uses the result as the player’s choice.
- - Ready-up timer: !mp start 15 is forced.
+    - Pick, ban, or protect: The referee !rolls the amount of possible maps and uses the result as the player’s choice.
+    - Ready-up timer: !mp start 15 is forced.
 14. For FM maps, mods are optional, but NM = 0.8x, EZ, EZHD, or EZFL = 1.7x, and FL = 1.4x.
 15. If both players somehow get *exactly* the same score, the player with better accuracy wins. If there is still a tie, the map is replayed.
  - Mods can be changed if a map is replayed for this reason.
@@ -362,14 +362,14 @@ This competition has come to an end and resulted in the following podium:
  - The first time, the map is replayed if the disconnect happened within the first **30 seconds.**
  - If the same player disconnects again, they lose unless they can prove their score, for example, by Shift+F12 or replay file.
 17. If players do not join the match at the given time, the following penalties apply:
- - 5 minutes: No warmup
- - 8 minutes: No protect
- - 10 minutes: No bans
- - 15 minutes: Forfeit
+    - 5 minutes: No warmup
+    - 8 minutes: No protect
+    - 10 minutes: No bans
+    - 15 minutes: Forfeit
 18. If a player becomes silenced during the match:
- - 5 minutes: Timeouts lost or next pick/ban lost
- - 10 minutes: Timeouts lost **and** next pick/ban lost
- - 20 minutes or more: **Forfeit** unless the opponent wants to reschedule
+    - 5 minutes: Timeouts lost or next pick/ban lost
+    - 10 minutes: Timeouts lost **and** next pick/ban lost
+    - 20 minutes or more: **Forfeit** unless the opponent wants to reschedule
 19. If a player becomes silenced while playing a map, it counts as a disconnect.
 
 ### Schedule Rules
@@ -385,24 +385,24 @@ This competition has come to an end and resulted in the following podium:
 1. During the Group Stage, there are 3 to 5 players in each group, depending on registrations.
 2. These players all play 1 match against each other over two weeks.
 3. The placements are determined by the following criteria, in the order they are applied:
- - Amount of match wins
- - Maps won minus maps lost
- - Direct comparison of a pair's group stage match (e.g. P1 vs P2: 5-1, so P1 gets the better placement)
+   - Amount of match wins
+   - Maps won minus maps lost
+   - Direct comparison of a pair's group stage match (e.g. P1 vs P2: 5-1, so P1 gets the better placement)
 
 ### Screening
 
 1. Players can be screened for having performed **well above** the level of the rank range or for having suspicious profile stats. The following guidelines (not strict criteria, appealable) are used to determine this:
- - osu!standard tournament badge(s)
- - Having a play worth over 300pp
- - Suspiciously low playtime
- - Suspiciously recent account registration date
- - Rank <95k during registration phase
- - Rank <95k after adding tournament top plays (mixed pp) and unranked osu!lazer plays
- - Suspicious profile activity
- - High average scores on pools above 5.5 stars
- - Consistent high performer in major 100k tournaments (e.g. EQX, 6EC24, GC#1, 6WC23)
- - Trying to mislead the screening process (for example, by faking match history)
- - Other tournament overperformance
+   - osu!standard tournament badge(s)
+   - Having a play worth over 300pp
+   - Suspiciously low playtime
+   - Suspiciously recent account registration date
+   - Rank <95k during registration phase
+   - Rank <95k after adding tournament top plays (mixed pp) and unranked osu!lazer plays
+   - Suspicious profile activity
+   - High average scores on pools above 5.5 stars
+   - Consistent high performer in major 100k tournaments (e.g. EQX, 6EC24, GC#1, 6WC23)
+   - Trying to mislead the screening process (for example, by faking match history)
+   - Other tournament overperformance
 2. It is possible to appeal a screening if you think it was unjustified or a mistake. To do this, message either host (preferably through Discord) and explain why you believe your screening was unjustified.
 3. Screenings should be appealed **as soon as possible** to have enough time to play Qualifiers.
 4. Players cannot be screened for bad reputation from before the tournament.
@@ -411,9 +411,9 @@ This competition has come to an end and resulted in the following podium:
 
 1. Players may self-ref their matches if necessary. Permission to self-ref is granted by the administration.
 2. Self-ref requests will be granted only under all of the following conditions:
- - There are no referees available
- - The match is during Group Stage
- - The match is not streamed
+   - There are no referees available
+   - The match is during Group Stage
+   - The match is not streamed
 3. If you self-ref a match, post the MP link on the Discord server at the start of the match.
 4. The tournament administration will inform you if the match was valid or invalid after it completes.
 5. There will only be asyncs if absolutely necessary. Even if permission is granted, taking an async results in you losing your warmups, protects, and bans in your next match.
