@@ -84,7 +84,7 @@ This competition has come to an end and resulted in the following podium:
 | Placing | Player |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=FI }:: [Giguel69](https://osu.ppy.sh/users/22206304) |
-|![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=NO }:: [Haibane](https://osu.ppy.sh/users/11929613) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=NO }:: [Haibane](https://osu.ppy.sh/users/11929613) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=SE }:: [Johnney101](https://osu.ppy.sh/users/11928361) |
 
 ## Mappools
@@ -250,7 +250,7 @@ This competition has come to an end and resulted in the following podium:
 | Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | LB | **Haibane** ::{ flag=NO }:: | **7** | 6 | ::{ flag=SE }:: Johnney101 | [#1](https://osu.ppy.sh/community/matches/114682663) |
-| UB | **Giguel69** ::{ flag=FI }:: | **7** | 1 | ::{ flag=NO }:: Haibane | [#1](https://osu.ppy.sh/community/matches/114745453)|
+| UB | **Giguel69** ::{ flag=FI }:: | **7** | 1 | ::{ flag=NO }:: Haibane | [#1](https://osu.ppy.sh/community/matches/114745453) |
 
 ### Finals
 
