@@ -91,7 +91,8 @@ Beatmap metadata fields can be compared against specific values for more granula
 | `length` | [Play time](/wiki/Beatmap/Play_time) in seconds |
 | `key`, `keys` | Number of keys (osu!mania and converted beatmaps only) |
 | `status` | Beatmap status. Value can be `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, or `loved`, or `r`/`a`/`p`/`n`/`u`/`l` for short. Allows multiple values separated by commas (`,`) |
-| `played`, `lastplayed` | Time since last played. Accepts a format of `#y#M#d#h#m#s`, for years, months, days, hours, minutes, and seconds respectively. For example,`2d5s` means "2 days and 5 seconds". |
+| `lastplayed` | Time since last played. Accepts a format of `#y#M#d#h#m#s`, for years, months, days, hours, minutes, and seconds respectively. For example, `2d5s` means "2 days and 5 seconds". |
+| `played` | Display beatmaps based on their play status. Value can be `true` or `1` for played beatmaps, and `false` or `0` for unplayed beatmaps. |
 | `divisor` | The denominator of the [beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
 
 ## Example queries
@@ -123,7 +124,7 @@ ranked>=2010-08 ranked<2010-11 creator=Natteke
 (Lazer) Find beatmap difficulties that have been played within 2 months and 5 hours ago:
 
 ```
-played<2M5h
+lastplayed<2M5h
 ```
 
 (Lazer) Find beatmap difficulties that have not been played within the past year:
@@ -141,7 +142,7 @@ status=r,l
 ## References
 
 [^website-filters]: [osu!web source code](https://github.com/ppy/osu-web/blob/c1a5dc390634accc87c12cb2cead73c45d8e7ad5/app/Libraries/Search/BeatmapsetQueryParser.php)
-[^lazer-filters]: [osu!(lazer) source code](https://github.com/ppy/osu/blob/ae9a2661ace43a96a4fbf26072ed3efd0dc0ba54/osu.Game/Screens/Select/FilterQueryParser.cs)
+[^lazer-filters]: [osu!(lazer) source code](https://github.com/ppy/osu/blob/fde790c014179ab88a381918dc3b8e5354f8173d/osu.Game/Screens/Select/FilterQueryParser.cs)
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
