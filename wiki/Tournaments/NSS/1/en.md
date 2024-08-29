@@ -321,7 +321,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### General rules
 
-1. The rank range is #100000 - ＊.
+1. The rank range is #100000 - infinity.
 2. The eligible countries are Denmark, Norway, Sweden, Finland, and Iceland.
  - All territories under the jurisdiction of these countries may play, e.g. Faroe Islands and Greenland.
 3. Tournament type: 1 vs. 1.
