@@ -6,7 +6,7 @@ tags:
   - anuncio
   - grupo de usuarios de anuncios
 ---
-# Announcement messages
+# Mensagens de Anúncio
 
 ![Notificação de anúncio](img/notification.png "Uma mensagem de notificação de um anúncio")
 
