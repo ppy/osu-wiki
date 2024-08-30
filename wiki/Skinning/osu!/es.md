@@ -1,8 +1,3 @@
----
-outdated_since: 3424dde31fb23feefa8ba3a3e967db3f131cb8e3
-outdated_translation: true
----
-
 # Skinning de osu!
 
 ## Combo bursts
@@ -760,6 +755,28 @@ Notas:
 
 - `hit300.png` debe tener un aspecto.
 - Este elemento se usa para `hit300`, `hit300g` y `hit300k`.
+
+## Indicadores de fallo de los sliders (solo en Lazer)
+
+En la versión [Lazer](/wiki/Client/Release_stream/Lazer) del juego, se han añadido nuevos indicadores cuando se fallan partes de los sliders. Los siguientes elementos heredados se pueden usar para personalizar estos indicadores. Estos no tienen ningún efecto en osu!stable.
+
+::: Infobox
+
+|  |  |
+| :-- | :-- |
+| Versiones | Todas |
+| Animable | ![Sí][true] |
+| Personalizable para los beatmaps | ![Sí][true] |
+| Modo de mezcla | Normal |
+| Origen | Centro |
+| Tamaño SD sugerido | 16x16 |
+
+:::
+
+|  | Nombre del archivo | Descripción |
+| :-: | :-- | :-- |
+| ![](img/sliderendmiss.png "sliderendmiss@2x.png predeterminado") | `sliderendmiss.png` | Aparece cuando se falla un [sliderend](/wiki/Gameplay/Hit_object/Slider/Slidertail). |
+| ![](img/slidertickmiss.png "slidertickmiss@2x.png predeterminado") | `slidertickmiss.png` | Aparece cuando se falla una [marca](/wiki/Gameplay/Hit_object/Slider/Slider_tick). |
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
