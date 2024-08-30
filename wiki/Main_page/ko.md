@@ -122,7 +122,7 @@ osu!와 커뮤니티가 음악 라이센싱과 미디어 사용 가이드라인�
 
 다른 응용 프로그램과 미디어를 통해 osu!와 상호작용하거나, 성장할 수 있도록 지원해 주세요.
 
-[API](/wiki/osu!api) • [봇 계정](/wiki/Bot_account) • [브랜드 아이덴티티 가이드라인](/wiki/Brand_identity_guidelines) • [osu! 디스코드 서버](/wiki/Community/osu!_Discord_server)
+[API](/wiki/osu!api) • [봇 계정](/wiki/Bot_account) • [브랜드 아이덴티티 가이드라인](/wiki/Brand_identity_guidelines) • [osu! 디스코드 서버](/wiki/Community/Discord_servers#official)
 
 </div>
 <div class="wiki-main-page-panel">

@@ -123,7 +123,7 @@ osu! n'aurait pas été possible sans la participation de nombreux utilisateurs 
 
 Interagissez avec osu! via d'autres applications et médias, ou aidez-la à se développer davantage.
 
-[API](/wiki/osu!api) • [Compte bot](/wiki/Bot_account) • [Directives d'identité de marque](/wiki/Brand_identity_guidelines) • [Serveur Discord osu!](/wiki/Community/osu!_Discord_server)
+[API](/wiki/osu!api) • [Compte bot](/wiki/Bot_account) • [Directives d'identité de marque](/wiki/Brand_identity_guidelines) • [Serveur Discord osu!](/wiki/Community/Discord_servers#official)
 
 </div>
 <div class="wiki-main-page-panel">
