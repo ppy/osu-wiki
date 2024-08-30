@@ -1,10 +1,8 @@
 ---
-outdated_translation: true
-outdated_since: 586a7e770846849bece2fb6863cdbb363142ff66
+no_native_review: true
 tags:
   - BN
   - BNG
-no_native_review: true
 ---
 
 # Beatmap Nominators
@@ -25,21 +23,19 @@ Les membres des Beatmap Nominators sont divisés en deux groupes : les membres t
 
 En plus du modding et du classement réguliers des beatmaps, les membres titulaire des Beatmap Nominators sont responsables de la disqualification des beatmaps de la section qualifiée qui présentent des problèmes. Les membres titulaire des Beatmap Nominators peuvent également participer à l'évaluation occasionnelle de la candidature des Beatmap Nominators s'ils souhaitent rejoindre la Nomination Assessment Team à l'avenir.
 
-Tous les trois mois environ, la [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) [évalue](/wiki/People/Nomination_Assessment_Team/Evaluations) le comportement et l'activité/la qualité des nominations des Beatmap Nominators titulaire. Si leurs nominations sont fréquemment réinitialisées pour des raisons notables ou si leur comportement est inacceptable, ils peuvent être déplacés vers la catégorie probatoire des Beatmap Nominators.
+Environ tous les trois mois, le comportement et l'activité/la qualité des nominations des Beatmap Nominators sont [évalués](/wiki/People/Nomination_Assessment_Team/Evaluations) par la [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team). Si leurs nominations sont fréquemment réinitialisées pour des raisons notables ou si leur comportement est inacceptable, ils peuvent recevoir un avertissement ou être retirés du groupe, en fonction de la gravité et de la fréquence.
 
 Les Beatmap Nominators titulaire dont l'activité de nomination est inférieure au minimum ne seront pas mis en probation, mais ils seront exclus du groupe si leur activité ne s'améliore pas.
 
 ### Beatmap Nominators probatoire
 
-La probation permet de suivre de plus près les nouveaux Beatmap Nominators ou les Beatmap Nominators rétrogradés. Le rôle principal des Beatmap Nominators en probation est d'établir une base en tant que Beatmap Nominators en promouvant exclusivement des beatmaps dans le processus de classement. Au moins un nominateur titulaire doit être impliqué dans le processus de classement pour chaque mode de jeu d'une beatmap, de sorte que les membres probatoires ne peuvent pas donner la nomination finale à une beatmap qui n'a reçu que des nominations d'autres membres probatoires pour leur mode de jeu.
+La probation permet de suivre de plus près les nouveaux Beatmap Nominators. Le rôle principal des Beatmap Nominators en probation est d'établir une base en tant que Beatmap Nominators en promouvant exclusivement des beatmaps dans le processus de classement. Au moins un nominateur titulaire doit être impliqué dans le processus de classement pour chaque mode de jeu d'une beatmap, de sorte que les membres probatoires ne peuvent pas donner la nomination finale à une beatmap qui n'a reçu que des nominations d'autres membres probatoires pour leur mode de jeu.
 
 Les Beatmap Nominators en probation sont [évalués](/wiki/People/Nomination_Assessment_Team/Evaluations) après avoir rempli le double de leurs [conditions d'activité](/wiki/People/Beatmap_Nominators/Rules#exigences), ou au bout d'un mois après avoir été placés, selon ce qui arrive en premier.
 
-Les nouveaux membres des Beatmap Nominators se verront attribuer un buddy NAT qu'ils sont encouragés à contacter directement pour des questions ou des conseils. Après leur première évaluation, si leurs nominations et leur comportement sont satisfaisants, ils seront promus titulaire des Beatmap Nominators suite à une évaluation positive. Dans le cas contraire, ils resteront en probation pendant un mois supplémentaire ou seront exclus de la liste des Beatmap Nominators.
+Les nouveaux membres du Beatmap Nominators se verront attribuer un buddy NAT qu'ils sont encouragés à contacter directement pour des questions ou des conseils. Après leur première évaluation, ils seront soit promus au rang de Beatmap Nominators à part entière à la suite d'une évaluation positive, soit retirés de la liste des Beatmap Nominators.
 
-Lorsqu'un Beatmap Nominator est mis en probation, il ne peut plus être mis en probation pour la même raison pendant environ une année. Par exemple, si un Beatmap Nominator est mis en probation pour mauvais comportement, il sera exclu des Beatmap Nominator s'il fait à nouveau preuve du même mauvais comportement récemment, même s'il est un Beatmap Nominator titulaire lors de la deuxième infraction.
-
-La période de probation d'un Beatmap Nominator rétrogradé peut être prolongée d'un mois supplémentaire s'il n'y a pas suffisamment de données pour l'évaluer ou s'il commence à présenter des problèmes différents de ceux pour lesquels il a été initialement mis en probation.
+Un Beatmap Nominator ne peut pas être rétrogradé en période de probation. En cas d'inquiétude concernant ses performances, il recevra un avertissement ou sera exclu du groupe.
 
 ## Avantages
 
@@ -49,7 +45,7 @@ Les Beatmap Nominators bénéficient des avantages suivants :
 - **Badge d'ancienneté** : Un [badge de profil](/wiki/Community/Profile_badge) qui affiche le nombre d'années d'appartenance au BN.
   ![1 an badge BN](https://assets.ppy.sh/profile-badges/BN1y.png?2024 "1 an badge BN") ![2 ans badge BN](https://assets.ppy.sh/profile-badges/BN2y.png?2024 "2 ans badge BN") ![3 ans badge BN](https://assets.ppy.sh/profile-badges/BN3y.png "3 ans badge BN") ![4 ans badge BN](https://assets.ppy.sh/profile-badges/BN4y.png "4 ans badge BN") ![5 ans badge BN](https://assets.ppy.sh/profile-badges/BN5y.png "5 ans badge BN") ![6 ans badge BN](https://assets.ppy.sh/profile-badges/BN6y.png "6 ans badge BN") ![7 ans badge BN](https://assets.ppy.sh/profile-badges/BN7y.png "7 ans badge BN") ![8 ans badge BN](https://assets.ppy.sh/profile-badges/BN8y.png "8 ans badge BN") ![9 ans badge BN](https://assets.ppy.sh/profile-badges/BN9y.png "9 ans badge BN") ![10 ans badge BN](https://assets.ppy.sh/profile-badges/BN10y.png "10 ans badge BN")
 - **Badge du nombre de [nomination](/wiki/Beatmap_ranking_procedure#nominations)** : Un badge de profil attribué lorsque certaines étapes du nombre de nominations sont franchies.
-  ![Badge pour 200 nominations réalisé](https://assets.ppy.sh/profile-badges/noms200.png?2023 "Badge pour 200 nominations réalisé") ![Badge pour 400 nominations réalisé](https://assets.ppy.sh/profile-badges/noms400.png?2023 "Badge pour 400 nominations réalisé") ![Badge pour 600 nominations réalisé](https://assets.ppy.sh/profile-badges/noms600.png?2023 "Badge pour 600 nominations réalisé") ![Badge pour 800 nominations réalisé](https://assets.ppy.sh/profile-badges/noms800.png?2023 "Badge pour 800 nominations réalisé") ![Badge pour 1000 nominations réalisé](https://assets.ppy.sh/profile-badges/noms1000.png?2023 "Badge pour 1000 nominations réalisé")
+  ![Badge pour 200 nominations réalisé](https://assets.ppy.sh/profile-badges/noms200.png?2023 "Badge pour 200 nominations réalisé") ![Badge pour 400 nominations réalisé](https://assets.ppy.sh/profile-badges/noms400.png?2023 "Badge pour 400 nominations réalisé") ![Badge pour 600 nominations réalisé](https://assets.ppy.sh/profile-badges/noms600.png?2023 "Badge pour 600 nominations réalisé") ![Badge pour 800 nominations réalisé](https://assets.ppy.sh/profile-badges/noms800.png?2024 "Badge pour 800 nominations réalisé") ![Badge pour 1000 nominations réalisé](https://assets.ppy.sh/profile-badges/noms1000.png?2024 "Badge pour 1000 nominations réalisé") ![Badge pour 1500 nominations réalisé](https://assets.ppy.sh/profile-badges/noms1500.png?2024 "Badge pour 1500 nominations réalisé") ![Badge pour 2000 nominations réalisé](https://assets.ppy.sh/profile-badges/noms2000.png?2024 "Badge pour 2000 nominations réalisé")
 - **Éligibilité au rang de [nominateur d'élite](/wiki/People/Elite_Nominators)** : Les Beatmap Nominators qui réalisent des performances exceptionnelles dans leur métier peuvent se voir décerner chaque année le [titre d'utilisateur](/wiki/Community/User_title) Nominateur d'élite.
 
 ## Membres de l'équipe

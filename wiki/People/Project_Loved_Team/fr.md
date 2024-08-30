@@ -1,6 +1,5 @@
 ---
-outdated_translation: true
-outdated_since: acc3d24ac04ce234b66ce8d5280334598895fac7
+no_native_review: true
 tags:
   - captain
   - captains
@@ -30,8 +29,15 @@ Certains membres de l'équipe peuvent être ajoutés manuellement au cas par cas
 
 Les critères pour rejoindre l'équipe varient considérablement d'un poste à l'autre, mais la compétence et la présence au sein de la communauté sont toujours recherchées.
 
+## Avantages
+
+Les membres de l'équipe du Project Loved reçoivent un [badge de profil](/wiki/Community/Profile_badge) qui indique le nombre d'années pendant lesquelles ils ont participé à la gestion du Project Loved.
+
+![Badge 1 an LVD](https://assets.ppy.sh/profile-badges/loved1y.png "Badge 1 an LVD") ![Badge 2 ans LVD](https://assets.ppy.sh/profile-badges/loved2y.png "Badge 2 ans LVD") ![Badge 3 ans LVD](https://assets.ppy.sh/profile-badges/loved3y.png "Badge 3 ans LVD") ![Badge 4 ans LVD](https://assets.ppy.sh/profile-badges/loved4y.png "Badge 4 ans LVD") ![Badge 5 ans LVD](https://assets.ppy.sh/profile-badges/loved5y.png "Badge 5 ans LVD") ![Badge 6 ans LVD](https://assets.ppy.sh/profile-badges/loved6y.png "Badge 6 ans LVD")
+
 ## Le saviez-vous ?
 
 - ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) a créé l'équipe originelle de capitaines en septembre 2017 ainsi que le système [Captain's Pick](/wiki/History_of_osu!/History_of_Loved#captain's-pick-et-project-loved-(septembre-2017---présent)) qui a ensuite été renommé Project Loved. Jusqu'à fin 2019, il a supervisé et géré l'ensemble du projet.
 - Avant le 28 avril 2021, la [page du groupe Project Loved](https://osu.ppy.sh/groups/31) n'était pas publique et n'était utilisée qu'à des fins administratives. Elle est maintenant accessible au public.
 - Jusqu'au 16 avril 2021, les seules personnes qui faisaient partie du groupe étaient ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350), ::{ flag=LT }:: [huu](https://osu.ppy.sh/users/6044237), ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707), et ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689). Maintenant, tous les utilisateurs faisant partie de la Project Loved Team appartiennent au groupe.
+- À partir du 28 avril 2023, les membres de l'équipe se voient attribuer des badges en fonction de leur ancienneté dans l'équipe.

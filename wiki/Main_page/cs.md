@@ -125,7 +125,7 @@ osu! by nebylo možné bez mnoha uživatelů, kteří by pomáhali s vývojem, �
 
 Komunikujte s osu! prostřednictvím jiných aplikací a médií, nebo jí pomocte dále růst.
 
-[API](/wiki/osu!api) • [Bot účet](/wiki/Bot_account) • [Pokyny pro identitu značky](/wiki/Brand_identity_guidelines) • [osu! Discord server](/wiki/Community/osu!_Discord_server)
+[API](/wiki/osu!api) • [Bot účet](/wiki/Bot_account) • [Pokyny pro identitu značky](/wiki/Brand_identity_guidelines) • [osu! Discord server](/wiki/Community/Discord_servers#official)
 
 </div>
 <div class="wiki-main-page-panel">

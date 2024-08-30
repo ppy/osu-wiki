@@ -4,14 +4,14 @@ Los **mantenedores de la osu! wiki** mantienen la [osu! wiki](/wiki/osu!_wiki) a
 
 Los mantenedores se ocupan regularmente del [rastreador de problemas](https://github.com/ppy/osu-wiki/issues) y revisan las solicitudes de cambios de los contribuidores. A diferencia de otros contribuidores, pueden editar solicitudes de cambios y fusionarlas a la rama `master` del repositorio, haciendo públicos los cambios de manera efectiva.
 
-Si necesitas ayuda para hacer una contribución o quieres una revisión de tu solicitud de cambios, envía un mensaje en el canal `#osu-wiki` del [servidor de Discord osu!](/wiki/Community/osu!_Discord_server) y un mantenedor u otro contribuidor te responderá (todos los mantenedores saben inglés).
+Si necesitas ayuda para hacer una contribución o quieres una revisión de tu solicitud de cambios, envía un mensaje en el canal `#osu-wiki` del [servidor de Discord osu!](/wiki/Community/Discord_servers#servidor-oficial-de-osu!) y un mantenedor u otro contribuidor te responderá (todos los mantenedores saben inglés).
 
 ## Mantenedores de la wiki
 
 | Perfil de osu! | Perfil de GitHub | Estado | Idiomas adicionales |
 | :-- | :-- | :-- | :-- |
 | ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) | [cl8n](https://github.com/cl8n) | Inactivo |  |
-| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) | **Activo** |  |
+| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) | Inactivo |  |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [Hiviexd](https://github.com/Hiviexd) | **Activo** | Árabe |
 | ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835) | [Joehuu](https://github.com/Joehuu) | Inactivo |  |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | [juankristal](https://github.com/juankristal) | Inactivo | Español |
