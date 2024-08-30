@@ -15,8 +15,8 @@ Abbreviations for user groups are used throughout this log:
 #### Additions
 
 - 2021-01-05: Added [Ulqui](https://osu.ppy.sh/users/1263669) to **Probationary BN**
-- 2021-01-05: Added [Hivie](https://osu.ppy.sh/users/4007649) to **Probationary BN**
-- 2021-01-13: Added [Dako](https://osu.ppy.sh/users/4007649) to **Probationary BN**
+- 2021-01-05: Added [Hivie](https://osu.ppy.sh/users/14102976) to **Probationary BN**
+- 2021-01-13: Added [Dako](https://osu.ppy.sh/users/11081858) to **Probationary BN**
 - 2021-01-24: Added [guden](https://osu.ppy.sh/users/11626065) to **Probationary BN**
 - 2021-01-25: Added [rosario wknd](https://osu.ppy.sh/users/6341518) to **Probationary BN**
 - 2021-01-25: Added [Myxo](https://osu.ppy.sh/users/2202645) to **Probationary BN**
@@ -580,7 +580,7 @@ Abbreviations for user groups are used throughout this log:
 - 2021-12-29: Moved [Sanyi](https://osu.ppy.sh/users/7496029) from **Probationary BN** to **BN**
 - 2021-12-29: Moved [Fisky](https://osu.ppy.sh/users/8352623) from **Probationary BN** to **BN**
 - 2021-12-29: Moved [Esutarosa](https://osu.ppy.sh/users/12024753) from **Probationary BN** to **BN**
-- 2021-12-29: Moved [Aakki](https://osu.ppy.sh/users/11077540) form **Probationary BN** to **BN**
+- 2021-12-29: Moved [Aakki](https://osu.ppy.sh/users/11077540) from **Probationary BN** to **BN**
 
 #### Removals
 

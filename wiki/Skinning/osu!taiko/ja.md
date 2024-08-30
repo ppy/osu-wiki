@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 9813f83f3faf3eff53d59bf14f5b81cc128a345f
+---
+
 # osu!taikoのスキンの作成
 
 osu!taikoの演奏画面を変えたいときはスキンフォルダ内の`taiko`フォルダを編集します。その後、[オプション](/wiki/Client/Options)を変更すれば(`太鼓プレイ時は太鼓専用のスキンを使用`を有効にする)できます。

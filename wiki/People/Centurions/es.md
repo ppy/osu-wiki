@@ -29,10 +29,11 @@ Los centuriones son usuarios que han alcanzado el prestigioso hito de crear **ci
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | [11/12/2018](https://osu.ppy.sh/beatmapsets/879904) | [20/3/2023](https://osu.ppy.sh/beatmapsets/1916502) | [#1](https://osu.ppy.sh/beatmaps/packs/TM2) |
 | ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | [16/9/2018](https://osu.ppy.sh/beatmapsets/826551) | [30/12/2022](https://osu.ppy.sh/beatmapsets/1348272) |  |
 | ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992) | [13/12/2015](https://osu.ppy.sh/beatmapsets/373858) | [29/8/2018](https://osu.ppy.sh/beatmapsets/809788) | [#1](https://osu.ppy.sh/beatmaps/packs/TM5), [#2](https://osu.ppy.sh/beatmaps/packs/TM6), [#3](https://osu.ppy.sh/beatmaps/packs/TM7) |
+| ::{ flag=PL }:: [Suimya](https://osu.ppy.sh/users/700887) | [28/03/2011](https://osu.ppy.sh/beatmapsets/26544) | [1/08/2024](https://osu.ppy.sh/beatmapsets/2106029) | [#1](https://osu.ppy.sh/beatmaps/packs/TM22) |
 | ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) | [12/7/2019](https://osu.ppy.sh/beatmapsets/965596) | [7/10/2023](https://osu.ppy.sh/beatmapsets/2023741) | [#1](https://osu.ppy.sh/beatmaps/packs/TM18) |
 | ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | [9/3/2009](https://osu.ppy.sh/beatmapsets/5417) | [8/3/2012](https://osu.ppy.sh/beatmapsets/44666) | [#1](https://osu.ppy.sh/beatmaps/packs/TM21) |
 
 ## Curiosidades
 
 - El primer usuario en alcanzar los 100 beatmaps clasificados fue ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363), el 4 de agosto de 2010.
-- Entre todos los centuriones, toma aproximadamente **4,1 años**<!-- use "3 años y medio" instead of "3,5 años" --> (alrededor de 1508 días) clasificar 100 beatmaps en promedio.
+- Entre todos los centuriones, toma aproximadamente **4 años y medio**<!-- use "3 años y medio" instead of "3,5 años" --> (alrededor de 1668 días) clasificar 100 beatmaps en promedio.<!--Stats from https://docs.google.com/spreadsheets/d/1UK1QdaZawxJ75Q0ZwvSGb4zDcC19RumO7BwV0p9R-jM/edit?usp=sharing-->
