@@ -124,7 +124,7 @@ osu! tidak akan dapat berjalan tanpa dukungan dari para pengguna yang membantu d
 
 Ketahui cara untuk berinteraksi dengan osu! melalui aplikasi dan media eksternal, atau bantu osu! untuk dapat berkembang lebih jauh.
 
-[API](/wiki/osu!api) • [Akun bot](/wiki/Bot_account) • [Pedoman identitas merek](/wiki/Brand_identity_guidelines) • [Server Discord osu!](/wiki/Community/osu!_Discord_server)
+[API](/wiki/osu!api) • [Akun bot](/wiki/Bot_account) • [Pedoman identitas merek](/wiki/Brand_identity_guidelines) • [Server Discord osu!](/wiki/Community/Discord_servers#official)
 
 </div>
 <div class="wiki-main-page-panel">

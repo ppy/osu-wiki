@@ -10,7 +10,7 @@ no_native_review: true
 
 # Antrian ranking beatmap
 
-**Antrian ranking beatmap** (*beatmap ranking queue*) merupakan sebuah sistem yang mengatur laju perpindahan beatmap dari [Qualified](/wiki/Beatmap/Category#qualified) menuju ke [Ranked](/wiki/Beatmap/Category#ranked). Setiap harinya, sistem ini akan secara otomatis memindahkan beatmap-beatmap yang telah berstatus Qualified selama setidaknya 7 hari (hingga maks. 10 beatmap per [mode permainan](/wiki/Game_mode) per harinya) menuju ke Ranked. Adapun waktu di mana beatmap-beatmap yang ada berpindah setiap harinya pada umumnya tidak menentu.
+**Antrian ranking beatmap** (*beatmap ranking queue*) merupakan sebuah sistem yang mengatur laju perpindahan beatmap dari [Qualified](/wiki/Beatmap/Category#qualified) menuju ke [Ranked](/wiki/Beatmap/Category#ranked). Setiap harinya, sistem ini akan secara otomatis memindahkan beatmap-beatmap yang telah berstatus Qualified selama setidaknya 7 hari (hingga maks. 16 beatmap per [mode permainan](/wiki/Game_mode) per harinya) menuju ke Ranked. Adapun waktu di mana beatmap-beatmap yang ada berpindah setiap harinya pada umumnya tidak menentu.
 
 ## Proses diskualifikasi dan kualifikasi ulang (re-qualification)
 

@@ -10,7 +10,7 @@ Les points de concours peuvent également être accordés en tant que bénéfice
 
 ## Points clé
 
-Pour les concours en solo, les points du concours sont basés sur le nombre de propositions valides créées. Il s'agit des directives générales pour la distribution des points, et des exceptions peuvent être accordées au cas par cas à la discrétion du [Comité du concours](/wiki/People/Tournament_Committee#contest-committee) lors d'une demande de support officiel pour un concours de beatmap.
+Pour les concours en solo, les points du concours sont basés sur le nombre de propositions valides créées. Il s'agit des directives générales pour la distribution des points, et des exceptions peuvent être accordées au cas par cas à la discrétion du [Comité du concours](/wiki/People/Tournament_Committee#comité-des-concours) lors d'une demande de support officiel pour un concours de beatmap.
 
 | # Nombre de soumissions | Points pour la première place | Points pour la deuxième place | Points pour la troisième place |
 | :-- | :-- | :-- | :-- |
