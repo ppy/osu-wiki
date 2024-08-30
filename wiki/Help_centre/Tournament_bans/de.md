@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Turniersperren
 
 *Hauptseite: [Hilfecenter](/wiki/Help_centre)*

@@ -92,7 +92,7 @@ Metadaten von Beatmaps können für eine genauere Filterung über die folgenden 
 | `bpm` | [Songtempo](/wiki/Music_theory/Tempo) |
 | `length` | [Länge](/wiki/Beatmap/Play_time) in Sekunden |
 | `key`, `keys` | Anzahl der Keys (betrifft nur osu!mania und konvertierte Beatmaps) |
-| `status` | Beatmap-Status. Der Wert kann `ranked`, `approved`, `pending`, `notsubmitted`, `unknown` oder `loved` sein bzw. `r`/`a`/`p`/`n`/`u`/`l` in Kurzform. Mehrere, durch Komma (`,`) getrennte Werte sind möglich. |
+| `status` | Beatmap-Status. Der Wert kann `ranked`, `approved`, `pending`, `notsubmitted`, `unknown` oder `loved` sein bzw. `r`/`a`/`p`/`n`/`u`/`l` in Kurzform. Mehrere, durch Komma (`,`) getrennte Werte sind erlaubt. |
 | `played`, `lastplayed` | Die Zeit, seit der Schwierigkeitsgrad zuletzt gespielt wurde. Das gültige Format ist `#y#M#d#h#m#s`, entsprechend für Jahre, Monate, Tage, Stunden, Minuten und Sekunden. Zum Beispiel bedeutet `2d5s` "2 Tage und 5 Sekunden". |
 | `divisor` | Der Nenner des [Taktteilers](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
 
