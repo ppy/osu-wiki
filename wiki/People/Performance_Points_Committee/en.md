@@ -37,7 +37,7 @@ The osu! panel was first announced to the public through the [November 2021 *Per
 | ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | [stanriders](https://github.com/stanriders) | November 9, 2021 |
 | ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | [tsunyoku](https://github.com/tsunyoku) | April 12, 2024 |
 
-##### Previous members
+#### Previous members
 
 | osu! profile | Join date | Leave date |
 | :-- | :-- | :-- |
@@ -56,7 +56,7 @@ The osu!taiko panel was formed on 1 May 2022 in response to the same survey as a
 | ::{ flag=CA }:: [Natelytle](https://osu.ppy.sh/users/17607667) | [Natelytle](https://github.com/Natelytle) | July 25, 2023 |
 | ::{ flag=DE }:: [ph1](https://osu.ppy.sh/users/22194163) | [sw1tchbl4d3r](https://github.com/sw1tchbl4d3r) | September 17, 2023 |
 
-##### Previous members
+#### Previous members
 
 | osu! profile | Join date | Leave date |
 | :-- | :-- | :-- |
