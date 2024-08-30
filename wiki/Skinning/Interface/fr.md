@@ -1123,7 +1123,7 @@ Notes :
 Notes :
 
 - Cet élément n'a aucune restriction de taille.
-- Lorsqu'il est utilisé dans [osu!mania](/wiki/Game_mode/osu!mania), cet élément est tourné de 90 degrés dans le sens inverse des aiguilles d'une montre et est placé à en bas à droite de la scène.
+- Lorsqu'il est utilisé dans [osu!mania](/wiki/Game_mode/osu!mania), cet élément est tourné de 90 degrés dans le sens inverse des aiguilles d'une montre, mis à l'échelle à 0,7x, et placé à en bas à droite de la scène.
 
 ---
 
@@ -1145,8 +1145,7 @@ Notes :
 - Le positionnement varie :
   - Si un marqueur est utilisé, il est positionné à (12,12).
   - Sinon, positionné à (5,16).
-- Cet élément n'a aucune restriction de taille.
-- Lorsqu'il est utilisé dans [osu!mania](/wiki/Game_mode/osu!mania), cet élément est tourné de 90 degrés dans le sens inverse des aiguilles d'une montre et est placé à en bas à droite de la scène.
+- Lorsqu'il est utilisé dans [osu!mania](/wiki/Game_mode/osu!mania), cet élément est tourné de 90 degrés dans le sens inverse des aiguilles d'une montre, mis à l'échelle à une taille de 0,7x, et placé en bas à droite de la scène.
 
 ---
 

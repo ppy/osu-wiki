@@ -26,7 +26,7 @@ In a surprise to no one, the Round of 16 match-ups went as good as any seasoned 
 
 The Round of 16 pool aimed to level out the playing field when it comes to difficulty while still putting emphasis on consistency, with teams sometimes taking great risks with overmodding in order to grab the slight edge in their picks. The pool itself features 3 osu! originals, and we recommend you take a second to get familiar with them if you haven't already.
 
-[![](/wiki/shared/news/2024-04-03-osutaiko-world-cup-2024-round-of-16-recap/aqua_vitae.jpg)](https://osu.ppy.sh/beatmapsets/2155621#taiko/4543646)
+[![](/wiki/shared/news/2024-04-03-osutaiko-world-cup-2024-round-of-16-recap/aqua_vitae.jpg?1)](https://osu.ppy.sh/beatmapsets/2155621#taiko/4543646)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -34,7 +34,7 @@ The Round of 16 pool aimed to level out the playing field when it comes to diffi
     </audio>
 </div>
 
-[![](/wiki/shared/news/2024-04-03-osutaiko-world-cup-2024-round-of-16-recap/Usuva_Kagerow.jpg)](https://osu.ppy.sh/beatmapsets/2155520#taiko/4543446)
+[![](/wiki/shared/news/2024-04-03-osutaiko-world-cup-2024-round-of-16-recap/Usuva_Kagerow.jpg?1)](https://osu.ppy.sh/beatmapsets/2155520#taiko/4543446)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -42,7 +42,7 @@ The Round of 16 pool aimed to level out the playing field when it comes to diffi
     </audio>
 </div>
 
-[![](/wiki/shared/news/2024-04-03-osutaiko-world-cup-2024-round-of-16-recap/Train_of_Thought.jpg)](https://osu.ppy.sh/beatmapsets/2155531#taiko/4543467)
+[![](/wiki/shared/news/2024-04-03-osutaiko-world-cup-2024-round-of-16-recap/Train_of_Thought.jpg?1)](https://osu.ppy.sh/beatmapsets/2155531#taiko/4543467)
 
 <div class="osu-md__paragraph">
     <audio controls>

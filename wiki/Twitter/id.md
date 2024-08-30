@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: f474e1bcf073565b3f2ea07581ef55e000b8034f
+---
+
 # Twitter
 
 osu! memiliki beberapa akun Twitter, masing-masing akun melayani untuk tujuan tertentu. Sebagian besar akun memiliki lalu lintas yang sangat rendah tetapi akan membantu kamu dalam mendapatkan informasi di luar lingkungan osu!.

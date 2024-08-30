@@ -102,7 +102,7 @@ Ruang publik: [Forum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_
 
 [Turnamen](/wiki/Tournaments) • [Beatmap Spotlight](/wiki/Beatmap_Spotlights) • [Kontes](/wiki/Contests) • [Program Community Mentorship](/wiki/Community/Community_Mentorship_Program)
 
-[Proyek](/wiki/Community/Projects) • [Featured Artist](/wiki/People/Featured_Artists) • [Project Loved](/wiki/Community/Project_Loved) • [Pertemuan komunitas osu!](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk)
+[Proyek](/wiki/Community/Projects) • [Featured Artist](/wiki/People/Featured_Artists) • [Project Loved](/wiki/Community/Project_Loved) • [Pertemuan komunitas osu!](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [lazer updates](/wiki/Community/Video_series/lazer_updates)
 
 Organisasi: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -124,7 +124,7 @@ osu! tidak akan dapat berjalan tanpa dukungan dari para pengguna yang membantu d
 
 Ketahui cara untuk berinteraksi dengan osu! melalui aplikasi dan media eksternal, atau bantu osu! untuk dapat berkembang lebih jauh.
 
-[API](/wiki/osu!api) • [Akun bot](/wiki/Bot_account) • [Pedoman identitas merek](/wiki/Brand_identity_guidelines) • [Server Discord osu!](/wiki/Community/osu!_Discord_server)
+[API](/wiki/osu!api) • [Akun bot](/wiki/Bot_account) • [Pedoman identitas merek](/wiki/Brand_identity_guidelines) • [Server Discord osu!](/wiki/Community/Discord_servers#official)
 
 </div>
 <div class="wiki-main-page-panel">

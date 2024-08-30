@@ -65,7 +65,7 @@ A seguir segue uma lista completa do **estado atual** de lazer em comparação c
 | Envio de pontuações | ![Yes][true] | ![Yes][true] |
 | Placar de Beatmap | ![Yes][true] | ![Yes][true] |
 | Estatísticas de perfil | ![Yes][true] | ![Yes][true] |
-| Medalhas | ![Yes][true] | ![No][false] |
+| Medalhas | ![Yes][true] | ![Partial][partial] |
 | Performance points | ![Yes][true] | ![Yes][true] |
 | Chat em tempo real | ![Partial][partial][^stable-chat] | ![Yes][true] |
 | Wiki / Notícias / Changelog / Colocações | ![No][false] | ![Yes][true][^online-content] |

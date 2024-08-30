@@ -1,3 +1,5 @@
+no_native_review_since: 15be762b2670ace44c4fe2804166a095cc984f81 The-Last-Cookie
+
 separator: ", "
 alumni:
   roles:
@@ -14,6 +16,7 @@ gmt:
     beatmap: Beatmap-Moderation
     chat: Chat-Moderation
     forum: Forum-Moderation
+    general: Allgemeine Moderation
     team: offizielle Präsenz des Teams
     dev: osu!-Entwicklung
     player: Spieler-Support

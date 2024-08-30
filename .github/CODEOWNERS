@@ -1,4 +1,17 @@
-/news/                     @ppy/news-approval
-/wiki/Legal/**/en.md       @peppy @Ephemeralis
-/wiki/Legal/SCTL/          @peppy @Ephemeralis
-/wiki/Help_centre/**/en.md @peppy @Ephemeralis
+/.github/CODEOWNERS @peppy
+
+# News posts and assets
+/news/             @ppy/news-approval
+/wiki/shared/news/ @ppy/news-approval
+
+# Legal
+/wiki/Legal/**/en.md @peppy
+/wiki/Legal/SCTL/    @peppy
+
+# Help and rules
+/wiki/Help_centre/**/en.md @peppy
+/wiki/Rules/**/en.md       @peppy
+
+# Core team and developer info
+/wiki/People/Developers/en.md @peppy
+/wiki/People/osu!_team/en.md  @peppy

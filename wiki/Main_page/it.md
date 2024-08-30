@@ -102,7 +102,7 @@ Posti: [Forum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_C
 
 [Tornei](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Concorsi](/wiki/Contests) • [Programma di mentorship della comunità](/wiki/Community/Community_Mentorship_Program)
 
-[Projects](/wiki/Community/Projects) • [Gilda dei Mapper](/wiki/Community/Mappers_Guild) • [Progetto Amata](/wiki/Community/Project_Loved) • [Meeting della community di osu!](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk)
+[Projects](/wiki/Community/Projects) • [Gilda dei Mapper](/wiki/Community/Mappers_Guild) • [Progetto Amata](/wiki/Community/Project_Loved) • [Meeting della community di osu!](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [lazer updates](/wiki/Community/Video_series/lazer_updates)
 
 Organizzazioni: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -124,7 +124,7 @@ osu! non potrebbe esistere senza i numerosi utenti che aiutano con lo sviluppo, 
 
 Interagisci con osu! tramite altre applicazioni e media, o aiutalo a crescere ulteriormente.
 
-[API](/wiki/osu!api) • [Account bot](/wiki/Bot_account) • [Linee guida d'identità del brand](/wiki/Brand_identity_guidelines) • [Server Discord osu!](/wiki/Community/osu!_Discord_server)
+[API](/wiki/osu!api) • [Account bot](/wiki/Bot_account) • [Linee guida d'identità del brand](/wiki/Brand_identity_guidelines) • [Server Discord osu!](/wiki/Community/Discord_servers#official)
 
 </div>
 <div class="wiki-main-page-panel">

@@ -32,7 +32,7 @@ Si sientes que los comentarios/avances fueron altamente inapropiados o si eres u
 
 Para hacerlo, haz clic en el botón `Reportar publicación` en la esquina superior derecha de la publicación del foro.
 
-Alternativamente, haz clic en el nombre de usuario de cualquier miembro del equipo de moderadores en la lista de esa página. Esto te llevará a su perfil. Si no estás seguro de a quién hacer clic, simplemente usa [este enlace](https://osu.ppy.sh/users/102335).
+Alternativamente, haz clic en el nombre de usuario de cualquier miembro del equipo de moderadores en la lista de esa página. Esto te llevará a su perfil. Si no estás seguro de a quién hacer clic, simplemente usa [este enlace](https://osu.ppy.sh/users/5999631).
 
 Haz clic en el botón con una carta justo debajo de la bandera del país del usuario. Esto te llevará a la pantalla del chat.
 
@@ -44,7 +44,7 @@ Si la publicación sigue sin desaparecer dentro de un periodo de tiempo razonabl
 
 Inmediatamente bloquea al usuario haciendo clic derecho en su nombre de usuario y seleccionando `Bloquear` en la lista desplegable que aparece.
 
-Después, contacta a los administradores del servidor de inmediato, buscando en la parte superior de la lista de usuarios e informales de que ha pasado. Si no puedes averiguar quién es un administrador, busca a alguien que tenga una corona al lado de su nombre – él es el dueño del servidor y es responsable de lo que ocurra dentro de él.
+Después, contacta a los administradores del servidor de inmediato buscando en la parte superior de la lista de usuarios e infórmales de lo sucedido. Si no puedes averiguar quién es un administrador, busca a alguien que tenga una corona al lado de su nombre – él es el dueño del servidor y es responsable de lo que ocurra dentro de él.
 
 Si el abuso continúa y los administradores no hacen nada al respecto, [por favor notifica al equipo de Confianza y seguridad de Discord](https://dis.gd/request).
 

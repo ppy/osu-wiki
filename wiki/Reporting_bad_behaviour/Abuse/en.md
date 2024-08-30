@@ -1,4 +1,4 @@
-# Reporting Abuse
+# Reporting abuse
 
 ## I don't know if I should report this or not
 
@@ -32,7 +32,7 @@ If you feel the remarks/advances were highly inappropriate or you are an underag
 
 To do so, click the `Report post` button in the top right corner of the forum post.
 
-Alternatively, click the username of any GMT member in the list on that page. This will take you to their profile. If you are unsure of who to click, just use [this link instead](https://osu.ppy.sh/users/102335).
+Alternatively, click the username of any GMT member in the list on that page. This will take you to their profile. If you are unsure of who to click, just use [this link instead](https://osu.ppy.sh/users/5999631).
 
 Click the button with an envelope in it just below the user's country flag. This will take you to the chat screen.
 
@@ -44,7 +44,7 @@ If the post still isn't gone within a reasonable timeframe, please send an email
 
 Immediately block the user by right-clicking their username and selecting `Block` in the drop-down list that appears.
 
-Afterwards, contact the administrators of the server at once by looking for someone at the very top of the users list and let them know what's happened. If you can't figure out who is an administrator, look for someone with a crown next to their name — they are the server owner and are responsible for what happens within it.
+Afterwards, contact the administrators of the server at once by looking for someone at the very top of the users list and let them know what happened. If you can't figure out who is an administrator, look for someone with a crown next to their name — they are the server owner and are responsible for what happens within it.
 
 Should this abuse continue and the administrators do nothing about it, [please notify the Discord Trust & Safety team by filing out a report](https://dis.gd/request).
 

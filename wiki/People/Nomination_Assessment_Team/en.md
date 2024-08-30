@@ -37,17 +37,17 @@ NAT members assigned to the structural category are not responsible for any spec
 - **Development**: Developing and maintaining tools and websites to help improve the ranking process (such as [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier), [Aiess](https://github.com/Naxesss/Aiess), or [the BN Management website](https://bn.mappersguild.com)).
 - **Moderation**: Handling user reports and assessing inappropriate behaviour of Beatmap Nominators, as well as processing beatmap content reviews. This task is a joint effort between the NAT and the GMT.
 - **Miscellaneous maintenance**: Included but not limited to:
-  - Handling [vetoes](/wiki/People/Beatmap_Nominators/Beatmap_Veto).
-  - Maintaining the [RC Test](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test).
+  - Processing [vetoes](/wiki/People/Beatmap_Nominators/Beatmap_Veto).
+  - Maintaining the [Beatmap Management subforum](https://osu.ppy.sh/community/forums/115).
   - Judging impact of nomination resets.[^impact-rating]
 
-NAT members who are primarily handling this category make sure that BNs and other members of the mapping/modding community remain informed and feel heard, in addition to maintaining the components required to keep everything running in the mapping/modding scene. Users belonging to this category are made up of experienced evaluators that prefer to focus on managerial matters regarding the mapping/modding scene.
+NAT members who are primarily handling this category make sure that BNs and other members of the mapping/modding community remain informed and feel heard, in addition to maintaining the components required to keep everything running in the mapping/modding scene. Users belonging to this category are made up of experienced NAT members who prefer to focus on managerial matters regarding the mapping/modding scene.
 
 ---
 
 Dividing the NAT workload into two main categories is necessary for the overall organisation and productivity of the group, allowing for a more streamlined assignment of responsibilities. Delegating tasks keeps NAT members from being overwhelmed while simultaneously avoiding a diffusion of responsibility.
 
-**A member of the NAT can engage with any tasks within any category that they choose, despite their listed primary responsibilities.** For example, an NAT member primarily responsible for evaluations may also help with structural-related tasks, or vice versa.
+**A member of the NAT may engage with any task within any category that they choose, regardless of their listed primary responsibilities.** For example, an NAT member primarily responsible for evaluations may also help with structural-related tasks, or vice versa.
 
 ## Activity
 
@@ -67,22 +67,24 @@ NAT members are granted the following benefits:
 - **Tenure badge**: A [profile badge](/wiki/Community/Profile_badge) that displays the number of years they have been in the NAT.
   ![1 year NAT badge](https://assets.ppy.sh/profile-badges/NAT1y.png "1 year NAT badge") ![2 year NAT badge](https://assets.ppy.sh/profile-badges/NAT2y.png "2 year NAT badge") ![3 year NAT badge](https://assets.ppy.sh/profile-badges/NAT3y.png "3 year NAT badge") ![4 year NAT badge](https://assets.ppy.sh/profile-badges/NAT4y.png "4 year NAT badge") ![5 year NAT badge](https://assets.ppy.sh/profile-badges/NAT5y.png "5 year NAT badge") ![6 year NAT badge](https://assets.ppy.sh/profile-badges/NAT6y.png "6 year NAT badge") ![7 year NAT badge](https://assets.ppy.sh/profile-badges/NAT7y.png "7 year NAT badge") ![8 year NAT badge](https://assets.ppy.sh/profile-badges/NAT8y.png "8 year NAT badge") ![9 year NAT badge](https://assets.ppy.sh/profile-badges/NAT9y.png "9 year NAT badge") ![10 year NAT badge](https://assets.ppy.sh/profile-badges/NAT10y.png "10 year NAT badge")
 - **[Nomination](/wiki/Beatmap_ranking_procedure#nominations) count badge**: A profile badge awarded when reaching certain nomination count milestones.
-  ![200 nominations badge](https://assets.ppy.sh/profile-badges/noms200.png?2023 "200 nominations badge") ![400 nominations badge](https://assets.ppy.sh/profile-badges/noms400.png?2023 "400 nominations badge") ![600 nominations badge](https://assets.ppy.sh/profile-badges/noms600.png?2023 "600 nominations badge") ![800 nominations badge](https://assets.ppy.sh/profile-badges/noms800.png?2023 "800 nominations badge") ![1000 nominations badge](https://assets.ppy.sh/profile-badges/noms1000.png?2023 "1000 nominations badge")
+  ![200 nominations badge](https://assets.ppy.sh/profile-badges/noms200.png?2023 "200 nominations badge") ![400 nominations badge](https://assets.ppy.sh/profile-badges/noms400.png?2023 "400 nominations badge") ![600 nominations badge](https://assets.ppy.sh/profile-badges/noms600.png?2023 "600 nominations badge") ![800 nominations badge](https://assets.ppy.sh/profile-badges/noms800.png?2024 "800 nominations badge") ![1000 nominations badge](https://assets.ppy.sh/profile-badges/noms1000.png?2024 "1000 nominations badge") ![1500 nominations badge](https://assets.ppy.sh/profile-badges/noms1500.png?2024 "1500 nominations badge") ![2000 nominations badge](https://assets.ppy.sh/profile-badges/noms2000.png?2024 "2000 nominations badge")
 - **[Elite Nominator](/wiki/People/Elite_Nominators) eligibility**: NAT members who exceptionally perform as nominators are eligible to be awarded the yearly Elite Nominator status.
 
 ## Promotion to the NAT
 
 Before joining the NAT, a user must either be a full member of the Beatmap Nominators, or a former NAT member still involved in the community. Most NAT candidates are initially considered based on their commitment to helping the mapping and modding community, and further demonstration of their ability to contribute to a multitude of NAT responsibilities is usually the basis for being promoted.
 
-Since all new NAT members start off in the evaluation category, it is important that NAT candidates are exceptional in assessing the proficiency of others. Full BNs may be given the opportunity to participate in [mock evaluations](/wiki/People/Nomination_Assessment_Team/Evaluations#mock-evaluations) or temporarily join the evaluation team, giving them an opportunity to practice. NAT candidates have a much better chance of being promoted if their evaluations are thorough and come to similar conclusions as the NAT (or have supportive reasoning otherwise).
+Since all new NAT members start off in the evaluation category, it is important that NAT candidates are exceptional in assessing the proficiency of others. Full BNs are occasionally given the opportunity to temporarily join the evaluation team, giving them an opportunity to practice. NAT candidates have a much better chance of being promoted if their evaluations are thorough and come to similar conclusions as the NAT (or have supportive reasoning otherwise).
 
 The NAT keeps tabs on potential NAT candidates over long periods of time, and occasionally convenes to decide if a candidate should be promoted, similar to how BN evaluations are done. BNs are also allowed to ask about joining the NAT if they want to receive feedback and make sure they are being considered. However, depending on the activity and skill set of current NAT members, there may not be a need for new ones. New NAT members will likely be promoted only when one of the current members is becoming less active, or there are new workloads requiring more members, etc.
 
 ### Joining the structural category
 
-NAT members who show proficiency in the structural tasks outlined above, to the point where their current or planned contributions are indispensable and far outweighs their necessity as an evaluator, can opt in to change their designated category. This is as judged by the NAT leaders and handled on a case-by-case basis.
+Current or former NAT members who show proficiency in the structural tasks outlined above, to the point where their current or planned contributions are indispensable and far outweighs their necessity as an evaluator, can opt in to join the structural category. This is as judged by the NAT leaders and handled on a case-by-case basis.
 
-Before conducting a category change, the addition is sanity checked with the rest of the NAT in case of objections. If no issues arise, the concerned member will then be subject to different activity expectations depending on their specific situation. If their contribution towards structural tasks is considered lacklustre or unnecessary at some later point, again as judged by the NAT leaders, then they will be moved back to the evaluation category.
+In rare occasions, Beatmap Nominators may also be considered for said position depending on their contributions to the mapping/modding community.
+
+Before conducting such addition, the addition is sanity checked with the rest of the NAT in case of objections. If no issues arise, the concerned member will then be subject to different activity expectations depending on their specific situation. If their contribution towards structural tasks is considered lacklustre or unnecessary at some later point, again as judged by the NAT leaders, then they will be moved out of this category.
 
 ## Departure from the NAT
 
@@ -95,27 +97,28 @@ Once an NAT member chooses to depart from the team, they may be granted the foll
 Former NAT members who currently have internal access are:
 
 - ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083)
-- ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342)
+- ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552)
+- ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507)
+- ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882)
 - ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
+- ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 - ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926)
 
 ## NAT Leadership
 
 As of March 2023, the NAT has decided to re-adopt the concept of leadership, which was [previously used](/wiki/People/Quality_Assurance_Team/QAT_Leaders) in the [QAT](/wiki/People/Quality_Assurance_Team). The NAT leader has the combined responsibility of both evaluation and structural categories so they can watch over and stay involved with every aspect of the NAT.
 
-The current NAT leader is:
-
-- ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
+The current NAT leader is ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976).
 
 ### Responsibilities
 
 The NAT leader aims to cover the following tasks:
 
-- **Activity management:** Constantly monitoring the activity of other NAT members and handling cases of low activity, either through regular checkups or through exit interviews, in case of activity issues regarding certain members.
+- **Activity management:** Constantly monitoring the activity of other NAT members and handling cases of low activity or behaviour concerns, either through regular checkups or through exit interviews, in case of issues regarding certain members.
 - **Communication:**
   - Acting as a bridge between the osu! team, the NAT, and the mapping community, constantly communicating any changes, concerns, or demands raised.
-  - Encourage participation in internal and external discussions by proactively engaging all parties, keeping discussions organised, and facilitating the combination of different viewpoints to form a practical course of action.
-  - Promote new or existing ideas that can easily get lost in the midst of discussions/ranking criteria proposals.
+  - Encouraging participation in internal and external discussions by proactively engaging all parties, keeping discussions organised, and facilitating the combination of different viewpoints to form a practical course of action.
+  - Promoting new or existing ideas that can easily get lost in the midst of discussions and proposals.
 - **Problem solving:** Taking initiative to be involved with critical decision making and handling delicate concerns raised by the team or the community.
 
 ## Team members
@@ -132,26 +135,26 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 
 | Name | Additional languages |
 | :-- | :-- |
-| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | Chinese |
-| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Russian |
-| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonese, Chinese |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portuguese, Spanish |
+| ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464) | Swedish |
 | ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Dutch |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | German |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Chinese |
+| ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
+| ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) |  |
+| ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | Chinese |
+| ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | Russian |
+| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | French, Spanish |
 | ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
+| ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | Romanian |
+| ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Russian |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Chinese, Cantonese |
-| ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Chinese |
 
 #### osu!taiko
 
 | Name | Additional languages |
 | :-- | :-- |
-| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  |
 | ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | Chinese |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Arabic, French |
 | ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Portuguese |
+| ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) | Some German |
 | ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | German, some French |
 
 #### osu!catch
@@ -161,7 +164,7 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Spanish, German |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Dutch |
 | ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  |
-| ::{ flag=BR }:: [zerokt](https://osu.ppy.sh/users/13776127) | Portuguese |
+| ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466) |  |
 
 #### osu!mania
 
@@ -181,21 +184,20 @@ The following NAT members are exclusively responsible for structural tasks, and 
 | User | Task |
 | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Handling internal discussions, affairs, and documentation |
+| ::{ flag=GB }:: [moonpoint](https://osu.ppy.sh/users/9558549) | Internal tooling development |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | [Aiess](https://github.com/Naxesss/Aiess) and [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) maintenance |
-| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Ranking Criteria upkeep and Mapping/modding moderation |
+| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Ranking Criteria upkeep |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [BN Management website](https://bn.mappersguild.com) development |
 
 The following NAT members are primarily evaluators, but also contribute to structural tasks:
 
 | User | Task |
 | :-- | :-- |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | BN Mentorship organisation |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Handling user reports |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Handling content reports |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | [Nomination Planner](https://bnplanner.greaper.net/beatmaps) and [osu!catch MV plugin](https://github.com/Darius-Wattimena/MapsetChecksCatch) development |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | NAT Leadership, [BN Management website](https://bn.mappersguild.com) and [osu!taiko MV plugin](https://github.com/Hiviexd/MVTaikoChecks) development |
-| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | BN events organisation |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | [osu!mania MV plugin](https://github.com/MChecaH/ManiaCheck) development |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | NAT leadership, [BN Management website](https://bn.mappersguild.com) and [osu!taiko MV plugin](https://github.com/Hiviexd/MVTaikoChecks) development |
+| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | Processing impact ratings[^impact-rating] for osu! nomination resets |
+| ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Processing impact ratings[^impact-rating] for osu! nomination resets |
+| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Handling content reports, [osu!mania MV plugin](https://github.com/MChecaH/ManiaCheck) development |
 
 ---
 
@@ -203,4 +205,4 @@ In addition, the [Nomination Assessment Team bot](https://osu.ppy.sh/users/66165
 
 ## Notes
 
-[^impact-rating]: This process involves checking each nomination reset and assigning it a "minor" or "notable" label for future reference in evaluations.
+[^impact-rating]: This process involves checking each nomination reset and assigning it a "minor", "notable" or "severe" label for future reference in evaluations.

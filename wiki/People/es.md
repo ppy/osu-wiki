@@ -26,13 +26,13 @@ Página de índice para artículos sobre personas o grupos.
 ## Ex
 
 - [Beatmap Appreciation Team](Beatmap_Appreciation_Team)
-- [Language Surveillance Division](Language_Surveillance_Division)
+- [División de Vigilancia Lingüística](Language_Surveillance_Division)
 - [Mapping Assistance Team](Mapping_Assistance_Team)
 - [Quality Assurance Team](Quality_Assurance_Team)
 
 ## Otro
 
 - [peppy](peppy)
-- [Registro de personal](Staff_log)
+- [Registro del personal](Staff_log)
 - [Grupo de usuarios](User_group)
 - [Usuarios con títulos únicos](Users_with_unique_titles)

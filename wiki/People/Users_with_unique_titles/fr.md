@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Utilisateurs avec des titres uniques
 
 Les titres des utilisateurs sont généralement associés à des [groupes d'utilisateurs](/wiki/People/User_group), mais les utilisateurs listés ci-dessous ont reçu leur titre pour d'autres raisons. La plupart des titres sont des récompenses pour des contributions ou des réalisations, les autres étant des symboles de l'histoire emblématique ou amusante d'osu!
@@ -129,9 +133,10 @@ Les vainqueurs des précédentes World Cups osu!mania avec le titre d'utilisateu
 
 ## Gagnants du concours officiel de mapping
 
-La plupart des concours officiels de mapping offrent le titre de **Elite Mapper** comme premier prix.
+La plupart des concours officiels de mapping offrent le titre de **Elite Mapper** par le biais des [points de concours](/wiki/Contests/Contest_points). Les concours plus anciens récompensaient le titre en tant que premier prix.
 
 - ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596)
+- ::{ flag=PH }:: [acnozei](https://osu.ppy.sh/users/10141268)
 - ::{ flag=KR }:: [Acylica](https://osu.ppy.sh/users/1943309)
 - ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883)
 - ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114)
@@ -170,6 +175,7 @@ La plupart des concours officiels de mapping offrent le titre de **Elite Mapper*
 - ::{ flag=KR }:: [Taeyang](https://osu.ppy.sh/users/2732340)
 - ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811)
 - ::{ flag=CN }:: [TtmnZk](https://osu.ppy.sh/users/2495509)
+- ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904)
 - ::{ flag=CN }:: [yf\_bmp](https://osu.ppy.sh/users/1243669)
 - ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834)
 - ::{ flag=RU }:: [xbopost](https://osu.ppy.sh/users/6842421)
@@ -292,7 +298,8 @@ Ces utilisateurs ont reçu leur titre respectif pour avoir contribué de manièr
 | ::{ flag=CN }:: [Ballance](https://osu.ppy.sh/users/165946) | osu!painter |
 | ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) | osu! Paragon |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Organisateur de la World Cup |
-| ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) | osu!painter< |
+| ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) | osu!painter |
+| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | osu!catch Paragon |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | osu!taiko Paragon |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch Paragon |
 | ::{ flag=DE }:: [LastExceed](https://osu.ppy.sh/users/6232245) | Master of the Fade |

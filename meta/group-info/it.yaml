@@ -1,4 +1,3 @@
-# For help translating this file, see https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-info.
 separator: ", "
 alumni:
   roles:
@@ -15,6 +14,7 @@ gmt:
     beatmap: moderazione delle beatmap
     chat: moderazione della chat
     forum: moderazione del forum
+    general: moderazione generale
     team: presenza ufficiale del team
     dev: sviluppo di osu!
     player: supporto dei player

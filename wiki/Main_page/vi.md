@@ -102,7 +102,7 @@ Các kênh giao tiếp: [Diễn đàn](/wiki/Community/Forum) • [IRC](/wiki/Co
 
 [Giải đấu](/wiki/Tournaments) • [Beatmap Tiêu điểm](/wiki/Beatmap_Spotlights) • [Cuộc thi](/wiki/Contests) • [Chương trình Cố vấn](/wiki/Community/Community_Mentorship_Program)
 
-[Dự án](/wiki/Community/Projects) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [Các buổi họp cộng đồng](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk)
+[Dự án](/wiki/Community/Projects) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [Các buổi họp cộng đồng](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [lazer updates](/wiki/Community/Video_series/lazer_updates)
 
 Các tổ chức: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -124,7 +124,7 @@ osu! có lẽ sẽ không thể trở thành hiện thực nếu không có sự
 
 Tương tác với osu! thông qua các ứng dụng và phương tiện khác, hoặc giúp trò chơi phát triển hơn nữa.
 
-[API](/wiki/osu!api) • [Tài khoản Bot](/wiki/Bot_account) • [Bộ quy chuẩn thương hiệu](/wiki/Brand_identity_guidelines) • [osu!discord](/wiki/Community/osu!_Discord_server)
+[API](/wiki/osu!api) • [Tài khoản Bot](/wiki/Bot_account) • [Bộ quy chuẩn thương hiệu](/wiki/Brand_identity_guidelines) • [osu!discord](/wiki/Community/Discord_servers#official)
 
 </div>
 <div class="wiki-main-page-panel">

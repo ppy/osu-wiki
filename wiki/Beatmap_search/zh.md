@@ -9,8 +9,6 @@ tags:
   - 客户端搜索
   - 网页搜索
   - 筛选谱面
-outdated_translation: true
-outdated_since: b109605a360c0b1751daa1f9fabf8bdbe8c9b6b9
 ---
 
 # 谱面搜索
@@ -51,13 +49,13 @@ outdated_since: b109605a360c0b1751daa1f9fabf8bdbe8c9b6b9
 | `key`, `keys` | 按键数量（osu!mania 以及该模式的转谱特有） |
 | `star`, `stars` | [星数](/wiki/Beatmap/Star_rating) |
 | `bpm` | [歌曲速度](/wiki/Music_theory/Tempo) |
-| `length` | [游玩时间](/wiki/Beatmap/Play_time) （单位为秒） |
-| `drain` | [掉血时间](/wiki/Beatmap/Drain_time) （单位为秒） |
-| `mode` | 游戏模式；值为 `osu`、 `taiko`、 `catch`、  `mania` 其一, 或者简写为 `o`/`t`/`c`/`m` 。 |
-| `status` | 谱面状态；值为 `ranked`、 `approved`、 `pending`、 `notsubmitted`、 `unknown`、 `loved` 其一, 或者简写为 `r`/`a`/`p`/`n`/`u`/`l` 。 |
+| `length` | [游玩时间](/wiki/Beatmap/Play_time)（单位为秒） |
+| `drain` | [掉血时间](/wiki/Beatmap/Drain_time)（单位为秒） |
+| `mode` | 游戏模式；值为 `osu`、`taiko`、`catch`、`mania` 其一，或者简写为 `o`/`t`/`c`/`m` 。 |
+| `status` | 谱面状态；值为 `ranked`、`approved`、`pending`、`notsubmitted`、`unknown`、`loved` 其一，或者简写为 `r`/`a`/`p`/`n`/`u`/`l` 。 |
 | `played` | 距上次游玩的天数 |
-| `unplayed` | 只显示未游玩过的谱面；该项的值必须留空才能生效（ `unplayed=` ），比较符不影响效果（例如， `unplayed=` 、 `unplayed>` 和 `unplayed!=` 是等效的。 |
-| `speed` | 保存的 osu!mania 下落速度； 未游玩的谱面或者 [`记住每张地图的osu!mania下落速度`](/wiki/Client/Options#游戏) 选项关闭时，该值为0。 |
+| `unplayed` | 只显示未游玩过的谱面；该项的值必须留空才能生效（`unplayed=`），比较符不影响效果（例如，`unplayed=`、`unplayed>` 和 `unplayed!=` 是等效的。 |
+| `speed` | 保存的 osu!mania 下落速度；未游玩的谱面或者 [`记住每张地图的osu!mania下落速度`](/wiki/Client/Options#游戏) 选项关闭时，该值为0。 |
 
 ## 官网[^website-filters]
 
@@ -77,7 +75,7 @@ outdated_since: b109605a360c0b1751daa1f9fabf8bdbe8c9b6b9
 | `bpm` | [歌曲速度](/wiki/Music_theory/Tempo) |
 | `length` | [游玩时间](/wiki/Beatmap/Play_time) （单位为秒） |
 | `key`, `keys` | 按键数量（osu!mania 以及该模式的转谱特有） |
-| `status` | 谱面状态；值为 `ranked`、 `approved`、 `pending`、 `notsubmitted`、 `unknown`、 `loved` 其一, 或者简写为 `r`/`a`/`p`/`n`/`u`/`l` 。 |
+| `status` | 谱面状态；值为 `ranked`、`approved`、`pending`、`notsubmitted`、`unknown`、`loved` 其一，或者简写为 `r`/`a`/`p`/`n`/`u`/`l` 。 |
 | `created` | 谱面制作时间 |
 | `updated` | 谱面上次更新时间 |
 | `ranked` | 谱面上架或达标时间 |
@@ -96,10 +94,10 @@ outdated_since: b109605a360c0b1751daa1f9fabf8bdbe8c9b6b9
 | `hp`, `dr` | [掉血速度](/wiki/Beatmap/HP_drain_rate) |
 | `star`, `stars` | [星数](/wiki/Beatmap/Star_rating) |
 | `bpm` | [歌曲速度](/wiki/Music_theory/Tempo) |
-| `length` | [游玩时间](/wiki/Beatmap/Play_time) （单位为秒） |
+| `length` | [游玩时间](/wiki/Beatmap/Play_time)（单位为秒） |
 | `key`, `keys` | 按键数量（osu!mania 以及该模式的转谱特有） |
-| `status` | 谱面状态；值为 `ranked`、 `approved`、 `pending`、 `notsubmitted`、 `unknown`、 `loved` 其一, 或者简写为 `r`/`a`/`p`/`n`/`u`/`l` 。 |
-| `played`, `lastplayed` | 距上次游玩的时间。允许按 `#y#M#d#h#m#s` 格式输入（年月日时分秒）。比如，`2d5s`表示“2天5秒”。 |
+| `status` | 谱面状态；值为 `ranked`、`approved`、`pending`、`notsubmitted`、`unknown`、`loved` 其一，或者简写为 `r`/`a`/`p`/`n`/`u`/`l`。允许用英文逗号分隔的多个值 (`,`) |
+| `played`, `lastplayed` | 距上次游玩的时间。允许按 `#y#M#d#h#m#s` 格式输入（年月日时分秒）。比如，`2d5s` 表示“2天5秒”。 |
 | `divisor` | [音符时值](/wiki/Client/Beatmap_editor/Beat_snap_divisor)的分母。 |
 
 ## 搜索示例
@@ -138,6 +136,12 @@ played<2M5h
 
 ```
 lastplayed>1y
+```
+
+（Lazer）搜索处于已上架 (Ranked) 与社区喜爱 (Loved) 状态的谱面：
+
+```
+status=r,l
 ```
 
 ## 参考

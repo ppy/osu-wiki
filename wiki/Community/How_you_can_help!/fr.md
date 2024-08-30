@@ -1,8 +1,3 @@
----
-outdated_since: 1c91f39ce0abb31f0af8b8dcd7ac2a67896d61bb
-outdated_translation: true
----
-
 # Comment vous pouvez aider !
 
 osu! a une communauté très vivante composée de personnes du monde entier. Et tout le monde peut faire partie de la communauté à sa manière !
@@ -17,7 +12,7 @@ Si vous êtes un nouveau venu sur l'osu! wiki, vous pouvez en savoir plus à ce 
 
 ## Aidez-nous à préserver la convivialité et la sécurité d'osu!
 
-Afin de garantir la sécurité des centres officiels de la communauté, osu! dispose d'une équipe de modération spécialisée qui surveille les forums et les tchats en ligne 24 heures sur 24.
+Afin de garantir la sécurité des centres officiels de la communauté, osu! dispose d'une équipe de modération spécialisée — la [Global Moderation Team](/wiki/People/Global_Moderation_Team) — qui surveille les forums et les tchats en ligne 24 heures sur 24.
 
 Heureusement, il est encore facile pour vous de contribuer à la sécurité du site. Voici quelques-unes des nombreuses façons dont vous pouvez nous aider :
 

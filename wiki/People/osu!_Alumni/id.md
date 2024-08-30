@@ -1,19 +1,26 @@
+---
+no_native_review_since: 68df2a7820396f85d1466c9b3ebcfa812835f122
+---
+
 # osu! Alumni
 
-**osu! Alumni** merupakan para tokoh yang telah banyak berkontribusi kepada osu! pada masanya masing-masing. Seandainya kami memiliki sumber daya yang memadai, kami tidak akan segan mendirikan patung-patung untuk membalas jasa mereka.
+**osu! Alumni** merupakan para tokoh yang dikenal akan kontribusi mereka pada masanya masing-masing. Seandainya kami memiliki sumber daya yang memadai, kami tidak akan segan untuk mendirikan patung bagi masing-masing anggota di alun-alun kota.
 
-Daftar anggota osu! Alumni selengkapnya juga dapat dilihat pada [laman grup osu! Alumni](https://osu.ppy.sh/groups/16).
+Daftar anggota osu! Alumni selengkapnya juga dapat dilihat pada [halaman grup osu! Alumni](https://osu.ppy.sh/groups/16).
 
-| Nama | Posisi |
+| Nama | Jabatan terdahulu |
 | :-- | :-- |
 | ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | NAT |
 | ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | BAT, GMT |
 | ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730) | GMT |
 | ::{ flag=ID }:: [-SiN-](https://osu.ppy.sh/users/10560) | Chat Moderator |
+| ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | GMT |
 | ::{ flag=HK }:: [aabc271](https://osu.ppy.sh/users/155707) | BAT |
 | ::{ flag=CN }:: [abalee](https://osu.ppy.sh/users/13103) | BAT |
+| ::{ flag=JP }:: [achyoo](https://osu.ppy.sh/users/7823498) | NAT |
 | ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) | NAT |
 | ::{ flag=US }:: [Agnes](https://osu.ppy.sh/users/136982) | GMT |
+| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | NAT |
 | ::{ flag=JP }:: [alacat](https://osu.ppy.sh/users/869782) | QAT |
 | ::{ flag=TW }:: [Alace](https://osu.ppy.sh/users/25993) | BAT |
 | ::{ flag=RU }:: [Aleks719](https://osu.ppy.sh/users/360176) | QAT |
@@ -41,6 +48,7 @@ Daftar anggota osu! Alumni selengkapnya juga dapat dilihat pada [laman grup osu!
 | ::{ flag=US }:: [Cecilthemos](https://osu.ppy.sh/users/2233) | BAT |
 | ::{ flag=AU }:: [chan](https://osu.ppy.sh/users/94) | BAT |
 | ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) | GMT |
+| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | NAT |
 | ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) | GMT, QAT |
 | ::{ flag=CA }:: [CheeseWarlock](https://osu.ppy.sh/users/9072) | BAT |
 | ::{ flag=IT }:: [Chewin](https://osu.ppy.sh/users/617323) | BAT |
@@ -51,8 +59,10 @@ Daftar anggota osu! Alumni selengkapnya juga dapat dilihat pada [laman grup osu!
 | ::{ flag=FR }:: [Cyclohexane](https://osu.ppy.sh/users/116078) | GMT |
 | ::{ flag=US }:: [Cyclone](https://osu.ppy.sh/users/18589) | GMT |
 | ::{ flag=TH }:: [Cyril Scarlet](https://osu.ppy.sh/users/108066) | MAT |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | NAT |
 | ::{ flag=MX }:: [DakeDekaane](https://osu.ppy.sh/users/1425253) | BAT, QAT |
 | ::{ flag=CA }:: [Dakeyrus](https://osu.ppy.sh/users/10441) | GMT |
+| ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377) | osu!dev |
 | ::{ flag=DE }:: [Dangaard](https://osu.ppy.sh/users/19488) | BAT |
 | ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) | osu!dev |
 | ::{ flag=SE }:: [Davvy](https://osu.ppy.sh/users/10047413) | GMT |
@@ -69,6 +79,7 @@ Daftar anggota osu! Alumni selengkapnya juga dapat dilihat pada [laman grup osu!
 | ::{ flag=US }:: [drum drum](https://osu.ppy.sh/users/4435526) | GMT |
 | ::{ flag=AU }:: [Duoprism](https://osu.ppy.sh/users/7186) | BAT |
 | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | osu!dev |
+| ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | GMT |
 | ::{ flag=US }:: [EiJi](https://osu.ppy.sh/users/2024) | BAT |
 | ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) | NAT |
 | ::{ flag=CO }:: [ErunamoJAZZ](https://osu.ppy.sh/users/1869764) | Chat Moderator, GMT |
@@ -85,6 +96,7 @@ Daftar anggota osu! Alumni selengkapnya juga dapat dilihat pada [laman grup osu!
 | ::{ flag=US }:: [foulcoon](https://osu.ppy.sh/users/19883) | BAT |
 | ::{ flag=FI }:: [Fraeon](https://osu.ppy.sh/users/2271) | BAT |
 | ::{ flag=TH }:: [Frostmourne](https://osu.ppy.sh/users/199669) | GMT, QAT |
+| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | NAT |
 | ::{ flag=JP }:: [Gamu](https://osu.ppy.sh/users/611174) | QAT |
 | ::{ flag=US }:: [Garven](https://osu.ppy.sh/users/244216) | QAT |
 | ::{ flag=FI }:: [Gemi](https://osu.ppy.sh/users/7365) | BAT |
@@ -109,7 +121,9 @@ Daftar anggota osu! Alumni selengkapnya juga dapat dilihat pada [laman grup osu!
 | ::{ flag=US }:: [Izzywing](https://osu.ppy.sh/users/8157492) | QAT |
 | ::{ flag=PH }:: [James](https://osu.ppy.sh/users/5728) | BAT |
 | ::{ flag=US }:: [James2250](https://osu.ppy.sh/users/16978) | GMT |
+| ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | QAT, GMT |
 | ::{ flag=GB }:: [jericho2442](https://osu.ppy.sh/users/88904) | BAT |
+| ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | GMT |
 | ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) | BAT |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | Manajemen turnamen |
 | ::{ flag=MX }:: [Kai](https://osu.ppy.sh/users/4537) | BAT |
@@ -125,7 +139,8 @@ Daftar anggota osu! Alumni selengkapnya juga dapat dilihat pada [laman grup osu!
 | ::{ flag=FR }:: [Krah](https://osu.ppy.sh/users/1436748) | BAT, GMT, QAT |
 | ::{ flag=CL }:: [Krisom](https://osu.ppy.sh/users/99269) | BAT |
 | ::{ flag=KR }:: [KRZY](https://osu.ppy.sh/users/114017) | Chat Moderator |
-| ::{ flag=FR }:: [Kurai](https://osu.ppy.sh/users/77089) | BAT, Chat Moderator, GMT, QAT |
+| ::{ flag=JP }:: [KSHR](https://osu.ppy.sh/users/409957) | BAT, Chat Moderator, GMT, QAT |
+| ::{ flag=FR }:: [Kurai](https://osu.ppy.sh/users/77089) | BAT, Chat Moderator, GMT, MAT, QAT |
 | ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) | QAT |
 | ::{ flag=CL }:: [Kylecito](https://osu.ppy.sh/users/488) | BAT |
 | ::{ flag=CA }:: [Kytoxid](https://osu.ppy.sh/users/98460) | BAT |
@@ -150,7 +165,6 @@ Daftar anggota osu! Alumni selengkapnya juga dapat dilihat pada [laman grup osu!
 | ::{ flag=AU }:: [m980](https://osu.ppy.sh/users/3288) | BAT |
 | ::{ flag=US }:: [machol30](https://osu.ppy.sh/users/5772) | BAT |
 | ::{ flag=US }:: [Mafiamaster](https://osu.ppy.sh/users/17695) | BAT |
-| ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | QAT |
 | ::{ flag=US }:: [Makar](https://osu.ppy.sh/users/686389) | GMT |
 | ::{ flag=UY }:: [mancuso\_JM\_](https://osu.ppy.sh/users/521568) | GMT |
 | ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) | QAT, NAT |
@@ -199,11 +213,13 @@ Daftar anggota osu! Alumni selengkapnya juga dapat dilihat pada [laman grup osu!
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | NAT |
 | ::{ flag=ES }:: [Raiden](https://osu.ppy.sh/users/2239480) | GMT, QAT |
 | ::{ flag=GB }:: [RandomJibberish](https://osu.ppy.sh/users/157879) | BAT |
+| ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu!dev |
 | ::{ flag=US }:: [RemmyX25](https://osu.ppy.sh/users/612) | BAT |
 | ::{ flag=RU }:: [riffy](https://osu.ppy.sh/users/597957) | BAT, GMT, QAT |
 | ::{ flag=US }:: [Roddie](https://osu.ppy.sh/users/121337) | BAT |
 | ::{ flag=US }:: [Rolled](https://osu.ppy.sh/users/5243) | BAT |
 | ::{ flag=IT }:: [Roxas](https://osu.ppy.sh/users/1041833) | QAT |
+| ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | NAT |
 | ::{ flag=CO }:: [Sakura](https://osu.ppy.sh/users/289422) | BAT, GMT |
 | ::{ flag=US }:: [SapphireGhost](https://osu.ppy.sh/users/388602) | BAT |
 | ::{ flag=US }:: [Saturos](https://osu.ppy.sh/users/3781) | BAT |
@@ -218,8 +234,6 @@ Daftar anggota osu! Alumni selengkapnya juga dapat dilihat pada [laman grup osu!
 | ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707) | GMT |
 | ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | GMT |
 | ::{ flag=US }:: [Skyripper](https://osu.ppy.sh/users/31803) | GMT |
-| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | NAT |
-| ::{ flag=HU }:: [Spkz](https://osu.ppy.sh/users/2964029) | GMT |
 | ::{ flag=BE }:: [Stack](https://osu.ppy.sh/users/6122935) | QAT, NAT |
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) | NAT |
 | ::{ flag=US }:: [Starrodkirby86](https://osu.ppy.sh/users/410) | BAT |
@@ -240,6 +254,7 @@ Daftar anggota osu! Alumni selengkapnya juga dapat dilihat pada [laman grup osu!
 | ::{ flag=SE }:: [theowest](https://osu.ppy.sh/users/60604) | GMT |
 | ::{ flag=US }:: [TheVileOne](https://osu.ppy.sh/users/278862) | osu!dev |
 | ::{ flag=RU }:: [tieff](https://osu.ppy.sh/users/89619) | BAT |
+| ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236) | GMT |
 | ::{ flag=FR }:: [Tommay](https://osu.ppy.sh/users/3132818) | GMT |
 | ::{ flag=AU }:: [tsububu](https://osu.ppy.sh/users/61) | BAT |
 | ::{ flag=TH }:: [Tyistiana](https://osu.ppy.sh/users/1421452) | NAT |
@@ -270,6 +285,5 @@ Daftar anggota osu! Alumni selengkapnya juga dapat dilihat pada [laman grup osu!
 | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | GMT |
 | ::{ flag=TR }:: [Zeus-](https://osu.ppy.sh/users/5464437) | GMT |
 | ::{ flag=SG }:: [ZHSteven](https://osu.ppy.sh/users/142413) | BAT |
-| ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | NAT |
 | ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | Pendiri osu!academy, GMT |
 | ::{ flag=US }:: [Zyid](https://osu.ppy.sh/users/2778) | BAT |
