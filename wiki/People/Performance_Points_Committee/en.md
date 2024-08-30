@@ -9,15 +9,16 @@ The **Performance Points Committee** is a panel of well-versed players and devel
 
 The Performance Points Committee's responsibilities include:
 
-- Reviewing and developing changes in difficulty calculation algorithms
 - Organizing development efforts and helping contributors
+- Reviewing and developing changes in difficulty calculation algorithms
 - Deciding which changes will be deployed and used in the game
+- Assisting with writing news posts for newly deployed changes
 
 ## Workflow
 
 Whenever a new difficulty calculation proposal is created on [GitHub](https://github.com/ppy/osu), the Performance Points Committee relevant to the ruleset it's for will be tagged with a review request. After that members of the committee must review and test the proposal and write a review on its GitHub page. When there are enough committee approvals the change is considered ready for deployment and is passed to osu! developers for final code inspection before merging into the game.
 
-When there are enough merged proposals the osu! developers will start preparing for a performance points deployment which will recalculate all existing scores using the new algorithms. Performance Points Committees are tasked with writing a news post about the upcoming changes.
+When there are enough merged proposals the osu! developers will start preparing for a performance points deployment which will recalculate all existing scores using the new algorithms. Performance Points Committees are tasked with assisting with writing a news post about the upcoming changes.
 
 ## Communication
 
