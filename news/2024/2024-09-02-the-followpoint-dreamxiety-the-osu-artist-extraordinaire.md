@@ -56,7 +56,7 @@ Hey there! Let's start with an introduction, how would you introduce yourself to
 
 Hello, I'm Dreamxiety and I like drawing stuff for osu seasonal backgrounds! I've provided art for quite a long time and you've likely seen my art at this point, but if you're curious feel free to check my profile. My most recent featured art at the time of writing this is the one with balloons from [Aerial Antics Contest](https://osu.ppy.sh/community/contests/215), which you can use as your profile banner for free for a limited time.
 
-![](/wiki/shared/news/2024-09-02-the-followpoint-dreamxiety-the-osu-artist-extraordinaire/banner-video.mp4)
+![](/wiki/shared/news/2024-09-02-the-followpoint-dreamxiety-the-osu-artist-extraordinaire/banner-video.gif)
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/news/2024-09-02-the-followpoint-dreamxiety-the-osu-artist-extraordinaire/avatar-Utiba.jpeg')"></a>
 
