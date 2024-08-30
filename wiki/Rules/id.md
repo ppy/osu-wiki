@@ -68,4 +68,4 @@ Pelanggaran berat yang telah jauh melampaui batas peraturan kami dan telah masuk
 
 ## Catatan
 
-[^macros]: Mengubah kaitan tombol ke K1 dan K2 tidak dilarang selama menekan tombol menghasilkan tindakan penekanan dan melepas tombol menghasilkan tindakan pelepasan pada tombol yang terkait. Sebaliknya, mengaitkan penekanan ke pelepasan atau mengatur agar satu tombol melakukan lebih dari satu pasang penekanan/peleapasan tidak diizinkan.
+[^macros]: Mengubah kaitan tombol ke K1 dan K2 sekaligus tidak dilarang selama menekan tombol menghasilkan tindakan penekanan dan melepas tombol menghasilkan tindakan pelepasan pada tombol yang terkait. Sebaliknya, mengaitkan penekanan ke pelepasan atau mengatur agar satu tombol melakukan lebih dari satu pasang penekanan/pelepasan tidak diizinkan.
