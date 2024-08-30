@@ -15,9 +15,9 @@ The Performance Points Committee's responsibilities include:
 
 ## Workflow
 
-Whenever a new difficulty calculation proposal is created on [GitHub](https://github.com/ppy/osu), the Performance Points Committee relevant to the ruleset it's for will be tagged with a review request. After that members of the committee must review and test the proposal and write a review on its GitHub page. When there are enough committee approvals the change is considered ready for deploy and is passed to osu! developers for final code inspection before merging into the game.
+Whenever a new difficulty calculation proposal is created on [GitHub](https://github.com/ppy/osu), the Performance Points Committee relevant to the ruleset it's for will be tagged with a review request. After that members of the committee must review and test the proposal and write a review on its GitHub page. When there are enough committee approvals the change is considered ready for deployment and is passed to osu! developers for final code inspection before merging into the game.
 
-When there are enough merged proposals the osu! developers will start preparing for a performance points deploy which will recalculate all existing scores using the new algorithms. Performance Points Committees are tasked with writing a news post about the upcoming changes.
+When there are enough merged proposals the osu! developers will start preparing for a performance points deployment which will recalculate all existing scores using the new algorithms. Performance Points Committees are tasked with writing a news post about the upcoming changes.
 
 ## Communication
 
@@ -53,7 +53,7 @@ The osu!taiko panel was formed on 1 May 2022 in response to the same survey as a
 | ::{ flag=AU }:: [-Lawtron-](https://osu.ppy.sh/users/11475208) | [Lawtrohux](https://github.com/Lawtrohux) | May 1, 2022 |
 | ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438) | [Horiiizons](https://github.com/Horiiizons) | May 1, 2022 |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | [mangomizer](https://github.com/mangomizer) | May 1, 2022 |
-| ::{ flag=CA }:: [Natelytle](https://osu.ppy.sh/users/17607667) | [Natelytle](https://github.com/Natelytle) | July 7, 2023 |
+| ::{ flag=CA }:: [Natelytle](https://osu.ppy.sh/users/17607667) | [Natelytle](https://github.com/Natelytle) | July 25, 2023 |
 | ::{ flag=DE }:: [ph1](https://osu.ppy.sh/users/22194163) | [sw1tchbl4d3r](https://github.com/sw1tchbl4d3r) | September 17, 2023 |
 
 ##### Previous members
