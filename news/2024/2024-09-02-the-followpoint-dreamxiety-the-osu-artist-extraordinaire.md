@@ -186,6 +186,8 @@ The world cup originals are nowadays introduced with animations using art assets
 
 I was approached by [mangomizer](https://osu.ppy.sh/users/1893718), asking me if I'm interested in doing world cup assets. I thought it was a pretty crazy thing to even get asked that and I was excited, so I accepted it. It's still crazy how much I've been involved in providing assets for this game, I never would've expected this to happen.
 
+![](/wiki/shared/news/2024-09-02-the-followpoint-dreamxiety-the-osu-artist-extraordinaire/dreamxiety-world-cup.jpg)
+
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/news/2024-09-02-the-followpoint-dreamxiety-the-osu-artist-extraordinaire/avatar-Utiba.jpeg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
