@@ -124,7 +124,7 @@ osu! có lẽ sẽ không thể trở thành hiện thực nếu không có sự
 
 Tương tác với osu! thông qua các ứng dụng và phương tiện khác, hoặc giúp trò chơi phát triển hơn nữa.
 
-[API](/wiki/osu!api) • [Tài khoản Bot](/wiki/Bot_account) • [Bộ quy chuẩn thương hiệu](/wiki/Brand_identity_guidelines) • [osu!discord](/wiki/Community/osu!_Discord_server)
+[API](/wiki/osu!api) • [Tài khoản Bot](/wiki/Bot_account) • [Bộ quy chuẩn thương hiệu](/wiki/Brand_identity_guidelines) • [osu!discord](/wiki/Community/Discord_servers#official)
 
 </div>
 <div class="wiki-main-page-panel">
