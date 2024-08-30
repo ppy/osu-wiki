@@ -56,6 +56,8 @@ Hey there! Let's start with an introduction, how would you introduce yourself to
 
 Hello, I'm Dreamxiety and I like drawing stuff for osu seasonal backgrounds! I've provided art for quite a long time and you've likely seen my art at this point, but if you're curious feel free to check my profile. My most recent featured art at the time of writing this is the one with balloons from [Aerial Antics Contest](https://osu.ppy.sh/community/contests/215), which you can use as your profile banner for free for a limited time.
 
+![](/wiki/shared/news/2024-09-02-the-followpoint-dreamxiety-the-osu-artist-extraordinaire/banner-video.mp4)
+
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/news/2024-09-02-the-followpoint-dreamxiety-the-osu-artist-extraordinaire/avatar-Utiba.jpeg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
@@ -192,7 +194,7 @@ I was approached by [mangomizer](https://osu.ppy.sh/users/1893718), asking me if
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
 
-Frost Walker, the Grand Finals tiebreaker for the osu!catch World Cup 2024, was one of this year's larger projects. Do you have any interesting moments to share or thoughts about your involvement in the process?
+[Frost Walker](https://osu.ppy.sh/beatmapsets/2202823#fruits/4662299), the Grand Finals tiebreaker for the osu!catch World Cup 2024, was one of this year's larger projects. Do you have any interesting moments to share or thoughts about your involvement in the process?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/13103233" style="background-image: url('/wiki/shared/news/2024-09-02-the-followpoint-dreamxiety-the-osu-artist-extraordinaire/avatar-Dreamxiety.jpg')"></a>
 
