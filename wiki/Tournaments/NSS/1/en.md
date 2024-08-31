@@ -319,9 +319,9 @@ This competition has come to an end and resulted in the following podium:
 
 1. The rank range is #100000 - infinity.
 2. The eligible countries are Denmark, Norway, Sweden, Finland, and Iceland.
- - All territories under the jurisdiction of these countries may play, e.g. Faroe Islands and Greenland.
+   - All territories under the jurisdiction of these countries may play, e.g. Faroe Islands and Greenland.
 3. Tournament type: 1 vs. 1.
-4. All maps are played with **Score v2** and **No Fail**.
+4. All maps are played with **[Score v2](/wiki/Gameplay/Game_modifier/ScoreV2/)** and **No Fail**.
 5. The tournament is **unbadged.**
 6. The tournament will start from Qualifiers and continue to Group Stage.
 7. Players must join the tournament Discord server until eliminated.
@@ -357,10 +357,10 @@ This competition has come to an end and resulted in the following podium:
     - Ready-up timer: !mp start 15 is forced.
 14. For FM maps, mods are optional, but NM = 0.8x, EZ, EZHD, or EZFL = 1.7x, and FL = 1.4x.
 15. If both players somehow get *exactly* the same score, the player with better accuracy wins. If there is still a tie, the map is replayed.
- - Mods can be changed if a map is replayed for this reason.
+    - Mods can be changed if a map is replayed for this reason.
 16. In case of a disconnect:
- - The first time, the map is replayed if the disconnect happened within the first **30 seconds.**
- - If the same player disconnects again, they lose unless they can prove their score, for example, by Shift+F12 or replay file.
+    - The first time, the map is replayed if the disconnect happened within the first **30 seconds.**
+    - If the same player disconnects again, they lose unless they can prove their score, for example, by Shift+F12 or replay file.
 17. If players do not join the match at the given time, the following penalties apply:
     - 5 minutes: No warmup
     - 8 minutes: No protect
