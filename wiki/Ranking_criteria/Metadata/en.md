@@ -13,7 +13,7 @@
 - **The `Tags` field must be shortened if it is longer than 1000 characters.** <!-- This needs to be adjusted if this limit changes or is removed. -->
   - Start by dropping optional tags.
   - Keep required tags such as usernames as much as possible.
-  - For the rest, prioritize the tags that are most relevant for search. 
+  - For the rest, prioritize the tags that are most relevant for search.
 
 ### Guidelines
 
@@ -25,7 +25,7 @@
   - `Triangles` can be either `Triangles` or `triangles`
 - **When multiple metadata options are available:**
   - Aim to match Ranked beatmaps. Follow what is most recent and common, then verify that metadata is correct and fix as needed.
-    - Artist names should be consistent as well, as long as they are not intentionally using different aliases. 
+    - Artist names should be consistent as well, as long as they are not intentionally using different aliases.
   - Official romanisations/translations are preferred for romanised fields, so long as they are easily found and commonly recognised.
   - In case of conflicting options, a discussion should be held to determine what would be the best option.
 
@@ -75,7 +75,7 @@ These points also apply for any artist credits present in the title field.
 
 ### Marker rules
 
-When the entire field is uppercase or lowercase, markers may use alternative casing to match the rest of the field. 
+When the entire field is uppercase or lowercase, markers may use alternative casing to match the rest of the field.
 
 - `vs.`
   - Any form of `vs`, `versus`, `Vs`, etc. indicating collaboration between artists must be written as `vs.`.
@@ -131,14 +131,14 @@ When the entire field is uppercase or lowercase, markers may use alternative cas
   - Use when the song is an unofficial extended version.
 - `(Sped Up Ver.)`, `(Nightcore Mix)`
   - Use when the song has been edited to a higher tempo.
-  - Only songs that also increase the pitch of the audio can use `(Nightcore Mix)`. Otherwise, use `(Sped Up Ver.)`. 
+  - Only songs that also increase the pitch of the audio can use `(Nightcore Mix)`. Otherwise, use `(Sped Up Ver.)`.
 - **Combined Markers**
   - If the edit is sped up *and* cut, use `(Sped Up & Cut Ver.)` or `(Nightcore & Cut Ver.)`.
   - Other combined markers can be used after a discussion is held to discuss their necessity.
 
 ##### Markers that you must standardise, but not always add
 
-- **If there are similar markers in a song's title, replace them with the relevant marker from the list below.** 
+- **If there are similar markers in a song's title, replace them with the relevant marker from the list below.**
 - **If there are no markers, you can only add them when there are multiple versions of a song to indicate the correct version.**
 - `(Short Ver.)`
   - Usually used to signal that a longer version actually exists. Use this when there is an existing length marker such as `-Short Ver-`, `Short Ver.`, `~Short Version~`. This does not apply to `Movie` or `Game Ver.` markers.
@@ -150,7 +150,7 @@ When the entire field is uppercase or lowercase, markers may use alternative cas
 #### Guidelines
 
 - `(#### Ver.)`
-  - When song titles already have a length / version marker not covered above, it should be changed to a descriptive `(#### Ver.)` marker using title case[^title-case]. For example: 
+  - When song titles already have a length / version marker not covered above, it should be changed to a descriptive `(#### Ver.)` marker using title case[^title-case]. For example:
     - `(Extended Version)` -> `(Extended Ver.)`
     - `(Long)` -> `(Long Ver.)`
   - Exceptions would be for when the length / version marker is so stylised it is considered part of the title, such as `Pippiquest (Pippi x Mocha Romantic Movie Remix Edition)`
@@ -159,7 +159,7 @@ When the entire field is uppercase or lowercase, markers may use alternative cas
 
 - **Alternative casing for markers may be used if the rest of the song title is stylised to fit the formatting.**
 - **Live performances may add a special marker, such as `(Live Ver.)`.** Descriptive markers like `(2020 Tour Live Ver.)` can also be used.
-- **Marker additions may be ignored or a custom marker may be used on a case-by-case basis if the standard markers are misleading.** Hold a discussion to determine the marker in this case and post the result publicly. 
+- **Marker additions may be ignored or a custom marker may be used on a case-by-case basis if the standard markers are misleading.** Hold a discussion to determine the marker in this case and post the result publicly.
 
 ## Source
 
@@ -191,7 +191,7 @@ When the entire field is uppercase or lowercase, markers may use alternative cas
 - **Tags must include the following items when applicable:**
   - **[Guest difficulty](/wiki/Beatmap/Guest_difficulty) creators, storyboarders, skinners and hitsounders.**
   - **`Featured Artist`, if the track is listed in the [Featured Artist catalogue](https://osu.ppy.sh/beatmaps/artists).** You must not use the tag if the song is not in the featured artist catalogue.
-  - **At least one song genre and one language tag.** 
+  - **At least one song genre and one language tag.**
     - For instrumental tracks, `instrumental` is the language tag.
     - For tracks in artificially created languages add `conlang` to tags and use the conlang's name as the language tag.
     - If the lyrics in the song have no meaning, the language tag is not required.
@@ -252,7 +252,7 @@ This section covers what to do when romanising metadata yourself. If you use an 
 - **Finnish**
   - `ö` to `o`, `ä` to `a`
 - **German**
-  - `ü` to `ue`, `ö` to `oe`, `ä` to `ae`, and `ß` to `ss`. 
+  - `ü` to `ue`, `ö` to `oe`, `ä` to `ae`, and `ß` to `ss`.
 - **Stylised Characters**
   - Special characters used as a stylistic replacement of roman characters should be changed based off of context, such as spelling an intended word. The song `βiοs` would become `Bios`, even though the greek letter `β` is read as `v`.
 - **Other languages or systems not covered**
@@ -261,6 +261,8 @@ This section covers what to do when romanising metadata yourself. If you use an 
 ### Allowances
 
 - **When romanising languages without spaces, a space may be romanised as a comma when the space is used to clearly separate items.**
+
+## Notes
 
 [^title-case]: Capitalise all major words and leave conjunctions such as `and`, `to`, `or` as well as articles like `the`, `a`, `an` lowercase.
 [^character-voice-actor]: `CV (Character Voice)` is used when song is sung in character by the character's voice actor. `VO (Voice Over)` is used when a song is sung in character by someone other than the character's voice actor.
