@@ -96,7 +96,7 @@ Los nuevos miembros del comité de torneos deben cumplir con los siguientes crit
 - Tener al menos 18 años
 - Pasar una revisión de infracciones recientes de la cuenta
 
-Una vez que un posible miembro presente su solicitud mediante un correo electrónico a [tournaments@ppy.sh](mailto:tournaments@ppy.sh), el comité de torneos realizará una discusión en profundidad sobre el candidato. Se presta especial atención a su actividad en la escena de los torneos, su importancia, sus contribuciones a la comunidad y cómo beneficiarían al comité. Luego de dicha discusión, se lleva a cabo una votación anónima para determinar si se añade al candidato al comité.
+Una vez que un miembro potencial presente su solicitud enviando un correo electrónico a [tournaments@ppy.sh](mailto:tournaments@ppy.sh), el comité de torneos realizará una discusión en profundidad sobre el candidato. Se presta especial atención a su actividad en la escena de los torneos, su importancia, sus contribuciones a la comunidad y cómo beneficiarían al comité. Luego de dicha discusión, se lleva a cabo una votación anónima para determinar si se añade al candidato al comité.
 
 Los solicitantes que no consigan reunir suficientes votos positivos serán rechazados y no podrán volver a presentar una solicitud hasta que transcurran 6 meses desde la respuesta a su solicitud. La respuesta se enviará en un plazo máximo de 2 semanas a partir del día del envío de la solicitud.
 
