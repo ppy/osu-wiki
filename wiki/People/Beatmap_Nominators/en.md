@@ -82,7 +82,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portuguese, Spanish |
 | ::{ flag=KR }:: [Dailycare](https://osu.ppy.sh/users/1634445) | Korean |
 | ::{ flag=PE }:: [dakiwii](https://osu.ppy.sh/users/10447058) | Spanish |
-| ::{ flag=BR }:: [dasdwqdf](https://osu.ppy.sh/users/5403374) | Portuguese |
 | ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337) | Russian |
 | ::{ flag=TH }:: [Electoz](https://osu.ppy.sh/users/6485263) | Thai |
 | ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  |
@@ -91,7 +90,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chinese |
 | ::{ flag=TW }:: [Flask](https://osu.ppy.sh/users/959763) | Chinese |
 | ::{ flag=PH }:: [Fu Xuan](https://osu.ppy.sh/users/7150015) | Filipino |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | German |
 | ::{ flag=AU }:: [Gibune](https://osu.ppy.sh/users/5778687) |  |
 | ::{ flag=CA }:: [Gordon](https://osu.ppy.sh/users/7856835) | German, Spanish, French |
 | ::{ flag=US }:: [Gorou](https://osu.ppy.sh/users/12157130) |  |
@@ -122,7 +120,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=HK }:: [Natsume Shizuku](https://osu.ppy.sh/users/9633734) | Chinese |
 | ::{ flag=SG }:: [neonat](https://osu.ppy.sh/users/1561995) | Chinese |
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  |
-| ::{ flag=CA }:: [Nijika Ijichi](https://osu.ppy.sh/users/10964252) |  |
 | ::{ flag=US }:: [No Dap](https://osu.ppy.sh/users/3044645) | Korean |
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | French |
 | ::{ flag=PH }:: [Pile](https://osu.ppy.sh/users/15822813) | Filipino |

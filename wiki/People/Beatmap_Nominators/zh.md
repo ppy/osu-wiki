@@ -81,7 +81,6 @@ BN 可获得以下特权：
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | 葡萄牙语，西班牙语 |
 | ::{ flag=KR }:: [Dailycare](https://osu.ppy.sh/users/1634445) | 韩语 |
 | ::{ flag=PE }:: [dakiwii](https://osu.ppy.sh/users/10447058) | 西班牙语 |
-| ::{ flag=BR }:: [dasdwqdf](https://osu.ppy.sh/users/5403374) | 葡萄牙语 |
 | ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337) | 俄语 |
 | ::{ flag=TH }:: [Electoz](https://osu.ppy.sh/users/6485263) | 泰语 |
 | ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  |
@@ -90,7 +89,6 @@ BN 可获得以下特权：
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | 汉语 |
 | ::{ flag=TW }:: [Flask](https://osu.ppy.sh/users/959763) | 汉语 |
 | ::{ flag=PH }:: [Fu Xuan](https://osu.ppy.sh/users/7150015) | 菲律宾语 |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | 德语 |
 | ::{ flag=AU }:: [Gibune](https://osu.ppy.sh/users/5778687) |  |
 | ::{ flag=CA }:: [Gordon](https://osu.ppy.sh/users/7856835) | 德语，西班牙语，法语 |
 | ::{ flag=US }:: [Gorou](https://osu.ppy.sh/users/12157130) |  |
@@ -121,7 +119,6 @@ BN 可获得以下特权：
 | ::{ flag=HK }:: [Natsume Shizuku](https://osu.ppy.sh/users/9633734) | 汉语 |
 | ::{ flag=SG }:: [neonat](https://osu.ppy.sh/users/1561995) | 汉语 |
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  |
-| ::{ flag=CA }:: [Nijika Ijichi](https://osu.ppy.sh/users/10964252) |  |
 | ::{ flag=US }:: [No Dap](https://osu.ppy.sh/users/3044645) | 韩语 |
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | 法语 |
 | ::{ flag=PH }:: [Pile](https://osu.ppy.sh/users/15822813) | 菲律宾语 |

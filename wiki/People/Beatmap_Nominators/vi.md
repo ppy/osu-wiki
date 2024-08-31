@@ -81,7 +81,6 @@ Bảng dưới đây liệt kê từng game mode và Đề cử viên thuộc ga
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Tiếng Bồ Đào Nha, Tiếng Tây Ban Nha |
 | ::{ flag=KR }:: [Dailycare](https://osu.ppy.sh/users/1634445) | Tiếng Hàn |
 | ::{ flag=PE }:: [dakiwii](https://osu.ppy.sh/users/10447058) | Tiếng Tây Ban Nha |
-| ::{ flag=BR }:: [dasdwqdf](https://osu.ppy.sh/users/5403374) | Tiếng Bồ Đào Nha |
 | ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337) | Tiếng Nga |
 | ::{ flag=TH }:: [Electoz](https://osu.ppy.sh/users/6485263) | Tiếng Thái |
 | ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  |
@@ -90,7 +89,6 @@ Bảng dưới đây liệt kê từng game mode và Đề cử viên thuộc ga
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Tiếng Trung |
 | ::{ flag=TW }:: [Flask](https://osu.ppy.sh/users/959763) | Tiếng Trung |
 | ::{ flag=PH }:: [Fu Xuan](https://osu.ppy.sh/users/7150015) | Tiếng Philippines |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Tiếng Đức |
 | ::{ flag=AU }:: [Gibune](https://osu.ppy.sh/users/5778687) |  |
 | ::{ flag=CA }:: [Gordon](https://osu.ppy.sh/users/7856835) | Tiếng Đức, Tiếng Tây Ban Nha, Tiếng Pháp |
 | ::{ flag=US }:: [Gorou](https://osu.ppy.sh/users/12157130) |  |
@@ -121,7 +119,6 @@ Bảng dưới đây liệt kê từng game mode và Đề cử viên thuộc ga
 | ::{ flag=HK }:: [Natsume Shizuku](https://osu.ppy.sh/users/9633734) | Tiếng Trung |
 | ::{ flag=SG }:: [neonat](https://osu.ppy.sh/users/1561995) | Tiếng Trung |
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  |
-| ::{ flag=CA }:: [Nijika Ijichi](https://osu.ppy.sh/users/10964252) |  |
 | ::{ flag=US }:: [No Dap](https://osu.ppy.sh/users/3044645) | Tiếng Hàn |
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | Tiếng Pháp |
 | ::{ flag=PH }:: [Pile](https://osu.ppy.sh/users/15822813) | Tiếng Philippines |

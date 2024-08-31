@@ -83,7 +83,6 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portugais, espagnol |
 | ::{ flag=KR }:: [Dailycare](https://osu.ppy.sh/users/1634445) | Coréen |
 | ::{ flag=PE }:: [dakiwii](https://osu.ppy.sh/users/10447058) | Espagnol |
-| ::{ flag=BR }:: [dasdwqdf](https://osu.ppy.sh/users/5403374) | Portugais |
 | ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337) | Russe |
 | ::{ flag=TH }:: [Electoz](https://osu.ppy.sh/users/6485263) | Thaï |
 | ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  |
@@ -92,7 +91,6 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chinois |
 | ::{ flag=TW }:: [Flask](https://osu.ppy.sh/users/959763) | Chinois |
 | ::{ flag=PH }:: [Fu Xuan](https://osu.ppy.sh/users/7150015) | Filipino |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Allemand |
 | ::{ flag=AU }:: [Gibune](https://osu.ppy.sh/users/5778687) |  |
 | ::{ flag=CA }:: [Gordon](https://osu.ppy.sh/users/7856835) | Allemand, espagnol, français |
 | ::{ flag=US }:: [Gorou](https://osu.ppy.sh/users/12157130) |  |
@@ -123,7 +121,6 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 | ::{ flag=HK }:: [Natsume Shizuku](https://osu.ppy.sh/users/9633734) | Chinois |
 | ::{ flag=SG }:: [neonat](https://osu.ppy.sh/users/1561995) | Chinois |
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  |
-| ::{ flag=CA }:: [Nijika Ijichi](https://osu.ppy.sh/users/10964252) |  |
 | ::{ flag=US }:: [No Dap](https://osu.ppy.sh/users/3044645) | Coréen |
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | Français |
 | ::{ flag=PH }:: [Pile](https://osu.ppy.sh/users/15822813) | Filipino |
