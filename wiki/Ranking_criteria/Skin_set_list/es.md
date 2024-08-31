@@ -1,31 +1,31 @@
-# Lista de los conjuntos de skins para los criterios de clasificación
+# Lista de los elementos para las skins según los criterios de clasificación
 
-Las siguientes tablas contienen conjuntos de skins que se usan en skins específicas de los usuarios y de los beatmaps. Al crear elementos de juego en skins específicas para los beatmaps, es necesario crear conjuntos completos de elementos para evitar conflictos entre las skins específicas de los usuarios y las skins específicas para los beatmaps.
+Las siguientes tablas contienen elementos para las skins que se usan en skins específicas de los usuarios y de los beatmaps. Al crear elementos de juego en skins específicas para los beatmaps, es necesario crear conjuntos completos de los elementos para evitar conflictos entre las skins específicas de los usuarios y las skins específicas para los beatmaps.
 
 Los nombres de archivos que contienen `{-n}` o `{n}`, excluyendo los combo bursts, se pueden animar. Por ejemplo, hitcircleoverlay{-n}.png puede aparecer como una sola imagen (hitcircleoverlay.png), o como varias imágenes que se animarían en bucle (hitcircleoveray-0.png, hitcircleoverlay-1.png, hitcircleoverlay-2.png, etc.). Las imágenes de combo burst siguen el mismo formato de nombramiento, pero en lugar de ser animadas, se mostrará una imagen a la vez por combo burst.
 
-[Descarga la plantilla del conjunto de skins](https://assets.ppy.sh/media/wiki/BeatmapSkinTemplate.rar) para una vista más sencilla de las tablas.
+[Descarga la plantilla de los elementos para las skins](https://assets.ppy.sh/media/wiki/BeatmapSkinTemplate.rar) para una vista más sencilla de las tablas.
 
 ## osu!
 
-Lista de los elementos para las skins: [Skinning de osu!](/wiki/Skinning/osu!)
+Lista de los elementos para las skins de osu!: [Skinning de osu!](/wiki/Skinning/osu!)
 
-### Conjunto de cursores
+### Cursores
 
 La totalidad de este conjunto es relevante para el juego.
 
-| Nombre del archivo | Notas | Ajuste del conjunto | Tamaño recomendado para las skins SD |
+| Nombre del archivo | Notas | Estado del elemento | Tamaño recomendado para las skins SD |
 | --: | :-: | :-: | :-: |
 | cursor.png | siempre debe incluirse junto con cursortrail.png | requerido | - |
 | cursortrail.png | siempre debe incluirse junto con cursor.png | requerido | - |
 | cursormiddle.png | debería ser opcional dependiendo del diseño del cursor | opcional | - |
 | cursor-smoke.png | - | opcional | - |
 
-### Conjunto de hit bursts
+### Hit bursts
 
 La totalidad de este conjunto es relevante para el juego.
 
-| Nombre del archivo | Notas | Ajuste del conjunto | Tamaño recomendado para las skins SD |
+| Nombre del archivo | Notas | Estado del elemento | Tamaño recomendado para las skins SD |
 | --: | :-: | :-: | :-: |
 | hit0{-n}.png | debería distinguirse claramente de todas los demás hit bursts | requerido | - |
 | hit50{-n}.png | debería distinguirse claramente de todas los demás hit bursts | requerido | - |
@@ -40,19 +40,19 @@ La totalidad de este conjunto es relevante para el juego.
 | sliderpoint10.png | debería incluirse junto con sliderpoint30.png; solo funcionará si una skin específica del usuario es compatible con la versión 1 de las skins | opcional | - |
 | sliderpoint30.png | debería incluirse junto con sliderpoint10.png; solo funcionará si una skin específica del usuario es compatible con la versión 1 de las skins | opcional | - |
 
-### Conjunto de hit lighting
+### Hit lighting
 
 La totalidad de este conjunto es relevante para el juego.
 
-| Nombre del archivo | Notas | Ajuste del conjunto | Tamaño recomendado para las skins SD |
+| Nombre del archivo | Notas | Estado del elemento | Tamaño recomendado para las skins SD |
 | --: | :-: | :-: | :-: |
 | lighting.png | - | - | - |
 
-### Conjunto de círculos
+### Círculos
 
 La totalidad de este conjunto es relevante para el juego.
 
-| Nombre del archivo | Notas | Ajuste del conjunto | Tamaño recomendado para las skins SD |
+| Nombre del archivo | Notas | Estado del elemento | Tamaño recomendado para las skins SD |
 | --: | :-: | :-: | :-: |
 | approachcircle.png | - | requerido | 126x126 píxeles |
 | followpoint.png | - | requerido | - |
@@ -65,11 +65,11 @@ La totalidad de este conjunto es relevante para el juego.
 | sliderstartcircleoverlay{-n}.png | debería incluirse siempre para evitar conflictos con la skin específica del usuario | requerido | 118x118 píxeles (círculo) / 128x128 píxeles (archivo completo) |
 | hitcircleselect.png | solo se ve en el editor | opcional | 118x118 píxeles (círculo) 128x128 píxeles (archivo completo) |
 
-### Conjunto de la trayectoria de los sliders
+### Trayectoria de los sliders
 
 La totalidad de este conjunto es relevante para el juego.
 
-| Nombre del archivo | Notas | Ajuste del conjunto | Tamaño recomendado para las skins SD |
+| Nombre del archivo | Notas | Estado del elemento | Tamaño recomendado para las skins SD |
 | --: | :-: | :-: | :-: |
 | sliderb{n}.png | - | requerido | 118x118 píxeles |
 | sliderb-nd.png | solo debería usarse si se fuerza la skin predeterminada y no se usa un sliderb personalizado | opcional | 118x118 píxeles |
@@ -77,11 +77,11 @@ La totalidad de este conjunto es relevante para el juego.
 | sliderfollowcircle{-n}.png | - | requerido | 256x256 píxeles |
 | sliderscorepoint.png | también usado en osu!taiko | requerido | - |
 
-### Conjunto de los números de los círculos
+### Números de los círculos
 
 La totalidad de este conjunto es relevante para el juego. Las superposiciones o huecos entre los propios números se establecen mediante la skin específica del usuario y no se puede influir en ellas dentro del propio beatmap. Ten en cuenta que los tamaños recomendados para todos los elementos de este conjunto se manejan mediante una pauta en los criterios de clasificación.
 
-| Nombre del archivo | Notas | Ajuste del conjunto | Tamaño recomendado para las skins SD |
+| Nombre del archivo | Notas | Estado del elemento | Tamaño recomendado para las skins SD |
 | --: | :-: | :-: | :-: |
 | default-0.png | - | requerido | - |
 | default-1.png | - | requerido | - |
@@ -94,7 +94,7 @@ La totalidad de este conjunto es relevante para el juego. Las superposiciones o 
 | default-8.png | - | requerido | - |
 | default-9.png | - | requerido | - |
 
-### Conjunto de los spinners
+### Spinners
 
 osu! tiene dos estilos para los spinners, de los cuales solo uno puede usarse en una skin al mismo tiempo. Usar elementos exclusivos de ambos **no está permitido**: si los elementos de ambos están presentes, el estilo antiguo tendrá prioridad.
 
@@ -102,11 +102,11 @@ El estilo nuevo de los spinners solo funcionará si la skin específica del usua
 
 Todos los elementos de cada conjunto, excepto spinner-osu.png y spinner-rpm.png, son relevantes para el juego.
 
-### Conjunto del estilo antiguo de los spinners
+### Estilo antiguo de los spinners
 
-Si se usa el conjunto del estilo antiguo, **no deben** añadirse elementos señalados como «exclusivos del conjunto nuevo».
+Si se usan los elementos del estilo antiguo, **no deben** añadirse elementos señalados como «exclusivos del conjunto nuevo».
 
-| Nombre del archivo | Notas | Ajuste del conjunto | Tamaño recomendado para las skins SD |
+| Nombre del archivo | Notas | Estado del elemento | Tamaño recomendado para las skins SD |
 | --: | :-: | :-: | :-: |
 | spinner-background.png | exclusivo del conjunto antiguo | requerido | - |
 | spinner-circle.png | exclusivo del conjunto antiguo | requerido | 666x666 píxeles |
@@ -115,34 +115,34 @@ Si se usa el conjunto del estilo antiguo, **no deben** añadirse elementos seña
 | spinner-clear.png | - | requerido | - |
 | spinner-spin.png | - | requerido | - |
 | spinner-osu.png | solo funcionará si la skin específica del usuario es compatible con la versión 1 de las skins | opcional | - |
-| spinner-rpm.png | debería incluirse si el conjunto de los números de la puntuación como el conjunto de los spinners tienen un aspecto | opcional | 280x56 píxeles |
+| spinner-rpm.png | debería incluirse si los números de la puntuación como los elementos de los spinners tienen un aspecto | opcional | 280x56 píxeles |
 
-### Conjunto del estilo nuevo de los spinners
+### Estilo nuevo de los spinners
 
-Si se usa el conjunto del estilo nuevo, **no deben** añadirse elementos señalados como «exclusivos del conjunto antiguo».
+Si se usan los elementos del estilo nuevo, **no deben** añadirse elementos señalados como «exclusivos del conjunto antiguo».
 
-| Nombre del archivo | Notas | Ajuste del conjunto | Tamaño recomendado para las skins SD |
+| Nombre del archivo | Notas | Estado del elemento | Tamaño recomendado para las skins SD |
 | --: | :-: | :-: | :-: |
 | spinner-bottom.png | exclusivo del conjunto nuevo | requerido | 667x667 píxeles |
 | spinner-glow.png | exclusivo del conjunto nuevo | requerido | 852x852 píxeles |
 | spinner-middle.png | exclusivo del conjunto nuevo | requerido | 689x689 píxeles |
-| spinner-middle2.png | exclusivo del conjunto nuevo| requerido | 17x17 píxeles |
+| spinner-middle2.png | exclusivo del conjunto nuevo | requerido | 17x17 píxeles |
 | spinner-top.png | exclusivo del conjunto nuevo | requerido | 667x667 píxeles |
 | spinner-approachcircle.png | - | requerido | 384x384 píxeles |
 | spinner-clear.png | - | requerido | - |
 | spinner-spin.png | - | requerido | - |
 | spinner-osu.png | solo funcionará si la skin específica del usuario es compatible con la versión 1 de las skins | opcional | - |
-| spinner-rpm.png | debería incluirse si el conjunto de los números de la puntuación como el conjunto de los spinners tienen un aspecto | opcional | 280x56 píxeles |
+| spinner-rpm.png | debería incluirse si los números de la puntuación como los elementos de los spinners tienen un aspecto | opcional | 280x56 píxeles |
 
 ## osu!taiko
 
-Lista de los elementos para las skins: [Skinning de osu!taiko](/wiki/Skinning/osu!taiko)
+Lista de los elementos para las skins de osu!taiko: [Skinning de osu!taiko](/wiki/Skinning/osu!taiko)
 
-### Conjunto de los objetos
+### Objetos
 
 La totalidad de este conjunto es relevante para el juego.
 
-| Nombre del archivo | Notas | Ajuste del conjunto | Tamaño recomendado para las skins SD |
+| Nombre del archivo | Notas | Estado del elemento | Tamaño recomendado para las skins SD |
 | --: | :-: | :-: | :-: |
 | taikobigcircle.png | - | requerido | 118x118 píxeles |
 | taikobigcircleoverlay{-n}.png | - | requerido | 118x118 píxeles |
@@ -153,11 +153,11 @@ La totalidad de este conjunto es relevante para el juego.
 | taiko-roll-end.png | mitad derecha de un círculo | requerido | 59x118 píxeles (medio círculo) 64x128 píxeles (archivo completo) |
 | spinner-warning.png | - | requerido | - |
 
-### Conjunto de hit bursts
+### Hit bursts
 
 La totalidad de este conjunto es relevante para el juego y todos los hit bursts incluidos deberían distinguirse claramente unos de otros.
 
-| Nombre del archivo | Notas | Ajuste del conjunto | Tamaño recomendado para las skins SD |
+| Nombre del archivo | Notas | Estado del elemento | Tamaño recomendado para las skins SD |
 | --: | :-: | :-: | :-: |
 | taiko-hit0{-n}.png | - | requerido | - |
 | taiko-hit100{-n}.png | - | requerido | - |
@@ -165,11 +165,11 @@ La totalidad de este conjunto es relevante para el juego y todos los hit bursts 
 | taiko-hit300{-n}.png | - | requerido | - |
 | taiko-hit300k{-n}.png | - | requerido | - |
 
-### Conjunto de Pippidon
+### Pippidon
 
-Este conjunto no es relevante para el juego.
+Estos elementos no son relevantes para el juego.
 
-| Nombre del archivo | Notas | Ajuste del conjunto | Tamaño recomendado para las skins SD |
+| Nombre del archivo | Notas | Estado del elemento | Tamaño recomendado para las skins SD |
 | --: | :-: | :-: | :-: |
 | pippidonclear{n}.png | - | requerido | - |
 | pippidonfail{n}.png | - | requerido | - |
@@ -179,13 +179,13 @@ Este conjunto no es relevante para el juego.
 
 ## osu!catch
 
-Lista de los elementos para las skins: [Skinning de osu!catch](/wiki/Skinning/osu!catch)
+Lista de los elementos para las skins de osu!catch: [Skinning de osu!catch](/wiki/Skinning/osu!catch)
 
-### Conjunto de frutas
+### Frutas
 
 La totalidad de este conjunto es relevante para el juego.
 
-| Nombre del archivo | Notas | Ajuste del conjunto | Tamaño recomendado para las skins SD |
+| Nombre del archivo | Notas | Estado del elemento | Tamaño recomendado para las skins SD |
 | --: | :-: | :-: | :-: |
 | fruit-apple.png | - | requerido | 128x128 píxeles |
 | fruit-apple-overlay.png | - | requerido | 128x128 píxeles |
@@ -200,12 +200,12 @@ La totalidad de este conjunto es relevante para el juego.
 | fruit-drop.png | - | requerido | 82x103 píxeles |
 | fruit-drop-overlay.png | debería incluirse para garantizar la correcta visualización cuando una skin específica del usuario disponga de un aspecto, ya que la skin predeterminada usa una imagen transparente para este archivo | requerido | 82x103 píxeles |
 
-### Conjunto del catcher
+### Catcher
 
 Todos los elementos excepto lightning.png son relevantes para el juego.
 Para los catchers, el plato debe estar perfectamente centrado y tener exactamente 302 píxeles de ancho. Si bien el plato de la skin predeterminada no está centrado, puede usarse en skins específicas para los beatmaps.
 
-| Nombre del archivo | Notas | Ajuste del conjunto | Tamaño recomendado para las skins SD |
+| Nombre del archivo | Notas | Estado del elemento | Tamaño recomendado para las skins SD |
 | --: | :-: | :-: | :-: |
 | fruit-catcher-fail{-n}.png | debería mirar hacia la derecha | requerido | mínimo: 302 píxeles de ancho |
 | fruit-catcher-idle{-n}.png | debería mirar hacia la derecha | requerido | mínimo: 302 píxeles de ancho |
@@ -214,26 +214,26 @@ Para los catchers, el plato debe estar perfectamente centrado y tener exactament
 
 ## Interfaz
 
-Lista de los elementos para las skins: [Skinning de la interfaz](/wiki/Skinning/Interface)
+Lista de los elementos para la interfaz de las skins: [Skinning de la interfaz](/wiki/Skinning/Interface)
 
-### Conjunto de la barra de puntuación
+### Barra de puntuación
 
-La totalidad de este conjunto es relevante para el juego. Please note that the sizes of the elements within this skin set are handled via a guideline on the Ranking Criteria.
+La totalidad de este conjunto es relevante para el juego. Ten en cuenta que los tamaños de los elementos de este conjunto se manejan mediante una pauta en los criterios de clasificación.
 
-| Nombre del archivo | Notas | Ajuste del conjunto | Tamaño recomendado para las skins SD |
+| Nombre del archivo | Notas | Estado del elemento | Tamaño recomendado para las skins SD |
 | --: | :-: | :-: | :-: |
-| scorebar-bg.png | should be included together with scorebar-colour{-n}.png | requerido | - |
-| scorebar-colour{-n}.png | should be included together with scorebar-bg.png | requerido | altura máxima: 120 píxeles |
+| scorebar-bg.png | debería incluirse junto con scorebar-colour{-n}.png | requerido | - |
+| scorebar-colour{-n}.png | debería incluirse junto con scorebar-bg.png | requerido | altura máxima: 120 píxeles |
 | scorebar-ki.png | - | requerido | - |
 | scorebar-kidanger.png | - | requerido | - |
 | scorebar-kidanger2.png | - | requerido | - |
-| scorebar-marker.png | must be inlcuded to guarantee correct display of the ki and can be a blank file | requerido | - |
+| scorebar-marker.png | debe incluirse para garantizar la correcta visualización del ki y puede ser un archivo en blanco | requerido | - |
 
-### Conjunto de los números de la puntuación
+### Números de la puntuación
 
-La totalidad de este conjunto es relevante para el juego. Overlaps or gaps between the numbers themselves are set by the user-specific skin and cannot be influenced within the beatmap itself.
+La totalidad de este conjunto es relevante para el juego. Las superposiciones o huecos entre los propios números se establecen mediante la skin específica del usuario y no se puede influir en ellas dentro del propio beatmap.
 
-| Nombre del archivo | Notas | Ajuste del conjunto | Tamaño recomendado para las skins SD |
+| Nombre del archivo | Notas | Estado del elemento | Tamaño recomendado para las skins SD |
 | --: | :-: | :-: | :-: |
 | score-0.png | - | requerido | - |
 | score-1.png | - | requerido | - |
@@ -250,11 +250,11 @@ La totalidad de este conjunto es relevante para el juego. Overlaps or gaps betwe
 | score-percent.png | - | requerido | - |
 | score-x.png | puede quedar fuera en beatmaps sin dificultades de osu! | requerido | - |
 
-### Conjunto de los iconos de los mods
+### Iconos de los mods
 
-Este conjunto no es relevante para el juego. Los iconos respectivos pueden dejarse fuera aunque figuren como requeridos si no están presentes en ninguno de los modos de juego del beatmap.
+Estos elementos no son relevantes para el juego. Los iconos respectivos pueden dejarse fuera aunque figuren como requeridos si no están presentes en ninguno de los modos de juego del beatmap.
 
-| Nombre del archivo | Notas | Ajuste del conjunto | Tamaño recomendado para las skins SD |
+| Nombre del archivo | Notas | Estado del elemento | Tamaño recomendado para las skins SD |
 | --: | :-: | :-: | :-: |
 | selection-mod-autoplay.png | - | requerido | - |
 | selection-mod-doubletime.png | - | requerido | - |
@@ -284,11 +284,11 @@ Este conjunto no es relevante para el juego. Los iconos respectivos pueden dejar
 | selection-mod-spunout.png | - | requerido | - |
 | selection-mod-suddendeath.png | - | requerido | - |
 
-### Conjunto del campo de juego
+### Campo de juego
 
 Los combo bursts y star2.png incluidos en este conjunto son relevantes para el juego y todos los demás elementos no lo son.
 
-| Nombre del archivo | Notas | Ajuste del conjunto | Tamaño recomendado para las skins SD |
+| Nombre del archivo | Notas | Estado del elemento | Tamaño recomendado para las skins SD |
 | --: | :-: | :-: | :-: |
 | comboburst-fruits{-n}.png | debería mirar hacia la derecha, volteado automáticamente si se muestra en el lado derecho | opcional | altura máxima: 768 píxeles |
 | comboburst-mania{-n}.png | debería mirar hacia la derecha, volteado automáticamente si se muestra en el lado derecho | opcional | altura máxima: 768 píxeles |
@@ -299,18 +299,18 @@ Los combo bursts y star2.png incluidos en este conjunto son relevantes para el j
 | play-unranked.png | - | opcional | - |
 | star2.png | - | opcional | - |
 
-### Conjunto de la superposición de teclas
+### Superposición de las teclas
 
-Este conjunto no es relevante para el juego.
+Estos elementos no son relevantes para el juego.
 
-| Nombre del archivo | Notas | Ajuste del conjunto | Tamaño recomendado para las skins SD |
+| Nombre del archivo | Notas | Estado del elemento | Tamaño recomendado para las skins SD |
 | --: | :-: | :-: | :-: |
 | inputoverlay-background.png | no debe tener un aspecto en beatmaps sin dificultades de osu! u osu!catch | requerido | 193x55 píxeles |
 | inputoverlay-key.png | no debe tener un aspecto en beatmaps sin dificultades de osu! u osu!catch | requerido | máximo: 46x46 píxeles |
 
-### Conjunto de los números de la tabla de puntuación dentro de un beatmap
+### Números de la tabla de puntuación dentro de un beatmap
 
-| Nombre del archivo | Notas | Ajuste del conjunto | Tamaño recomendado para las skins SD |
+| Nombre del archivo | Notas | Estado del elemento | Tamaño recomendado para las skins SD |
 | --: | :-: | :-: | :-: |
 | scoreentry-0.png | - | requerido | 11x14 píxeles |
 | scoreentry-1.png | - | requerido | 11x14 píxeles |
@@ -327,11 +327,11 @@ Este conjunto no es relevante para el juego.
 | scoreentry-percent.png | - | requerido | 12x14 píxeles |
 | scoreentry-x.png | - | requerido | 10x14 píxeles |
 
-### Conjunto de la cuenta regresiva
+### Cuenta regresiva
 
 La totalidad de este conjunto es relevante para el juego. Este conjunto no debe usarse si el beatmap no usa cuentas regresivas.
 
-| Nombre del archivo | Notas | Ajuste del conjunto | Tamaño recomendado para las skins SD |
+| Nombre del archivo | Notas | Estado del elemento | Tamaño recomendado para las skins SD |
 | --: | :-: | :-: | :-: |
 | ready.png | - | requerido | máximo: 1366x768 píxeles |
 | count1.png | - | requerido | máximo: 1366x768 píxeles |
@@ -339,20 +339,20 @@ La totalidad de este conjunto es relevante para el juego. Este conjunto no debe 
 | count3.png | - | requerido | máximo: 1366x768 píxeles |
 | go.png | - | requerido | máximo: 1366x768 píxeles |
 
-### Conjunto de los indicadores de las secciones
+### Indicadores de las secciones
 
-Este conjunto no es relevante para el juego. Este conjunto no debe usarse si el beatmap no contiene un descanso lo suficientemente largo como para que se muestren los indicadores de la sección.
+Estos elementos no son relevantes para el juego. Estos elementos no deben usarse si el beatmap no contiene un descanso lo suficientemente largo como para que se muestren los indicadores de la sección.
 
-| Nombre del archivo | Notas | Ajuste del conjunto | Tamaño recomendado para las skins SD |
+| Nombre del archivo | Notas | Estado del elemento | Tamaño recomendado para las skins SD |
 | --: | :-: | :-: | :-: |
 | section-fail.png | - | requerido | altura máxima: 768 píxeles |
 | section-pass.png | - | requerido | altura máxima: 768 píxeles |
 
-### Conjunto de los indicadores de los grados
+### Indicadores de los grados
 
-Este conjunto no es relevante para el juego. Este conjunto no debe usarse si el beatmap no contiene un descanso lo suficientemente largo como para que se muestren los indicadores del grado.
+Estos elementos no son relevantes para el juego. Estos elementos no deben usarse si el beatmap no contiene un descanso lo suficientemente largo como para que se muestren los indicadores del grado.
 
-| Nombre del archivo | Notas | Ajuste del conjunto | Tamaño recomendado para las skins SD |
+| Nombre del archivo | Notas | Estado del elemento | Tamaño recomendado para las skins SD |
 | --: | :-: | :-: | :-: |
 | ranking-a-small.png | - | requerido | 34x40 píxeles |
 | ranking-b-small.png | - | requerido | 34x40 píxeles |
@@ -363,9 +363,9 @@ Este conjunto no es relevante para el juego. Este conjunto no debe usarse si el 
 | ranking-x-small.png | - | requerido | 34x40 píxeles |
 | ranking-xh-small.png | - | requerido | 34x40 píxeles |
 
-### Conjunto de la pantalla de pausa
+### Pantalla de pausa
 
-| Nombre del archivo | Notas | Ajuste del conjunto | Tamaño recomendado para las skins SD |
+| Nombre del archivo | Notas | Estado del elemento | Tamaño recomendado para las skins SD |
 | --: | :-: | :-: | :-: |
 | pause-back.png | - | requerido | - |
 | pause-continue.png | - | requerido | - |
