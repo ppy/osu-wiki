@@ -4,8 +4,6 @@ tags:
   - Contest Committee
   - CC
   - Comité de concursos
-outdated_since: 79edb3a3685e1e9f35c34c9733b2cfbff5eb2752
-outdated_translation: true
 ---
 
 # Comité de torneos
@@ -98,7 +96,9 @@ Los nuevos miembros del comité de torneos deben cumplir con los siguientes crit
 - Tener al menos 18 años
 - Pasar una revisión de infracciones recientes de la cuenta
 
-Ya sea que un miembro potencial presente su solicitud por correo electrónico o sea presentado por un miembro existente, el proceso es el mismo. El comité de torneos mantiene una discusión en profundidad sobre el candidato. Se presta especial atención a su actividad en la escena de los torneos, su importancia, sus contribuciones a la comunidad y cómo beneficiarían al comité. Luego de dicha discusión, se lleva a cabo una votación anónima para determinar si se añade al candidato al comité.
+Una vez que un posible miembro presente su solicitud mediante un correo electrónico a [tournaments@ppy.sh](mailto:tournaments@ppy.sh), el comité de torneos realizará una discusión en profundidad sobre el candidato. Se presta especial atención a su actividad en la escena de los torneos, su importancia, sus contribuciones a la comunidad y cómo beneficiarían al comité. Luego de dicha discusión, se lleva a cabo una votación anónima para determinar si se añade al candidato al comité.
+
+Los solicitantes que no consigan reunir suficientes votos positivos serán rechazados y no podrán volver a presentar una solicitud hasta que transcurran 6 meses desde la respuesta a su solicitud. La respuesta se enviará en un plazo máximo de 2 semanas a partir del día del envío de la solicitud.
 
 ### Votaciones
 
