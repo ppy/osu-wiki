@@ -321,7 +321,7 @@ This competition has come to an end and resulted in the following podium:
 2. The eligible countries are Denmark, Norway, Sweden, Finland, and Iceland.
    - All territories under the jurisdiction of these countries may play, e.g. Faroe Islands and Greenland.
 3. Tournament type: 1 vs. 1.
-4. All maps are played with **[Score v2](/wiki/Gameplay/Game_modifier/ScoreV2/)** and **No Fail**.
+4. All maps are played with **[Score v2](/wiki/Gameplay/Game_modifier/ScoreV2)** and **No Fail**.
 5. The tournament is **unbadged.**
 6. The tournament will start from Qualifiers and continue to Group Stage.
 7. Players must join the tournament Discord server until eliminated.
