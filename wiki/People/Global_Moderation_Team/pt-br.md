@@ -55,7 +55,7 @@ A [página de grupo da Equipe de Moderação Global](https://osu.ppy.sh/groups/4
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Russo | Moderação de chat |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Sérvio | General moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Moderação de fórum |
-| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  | Moderação de chat, moderação da comunidade de mapping/modding, general moderation
+| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  | Moderação de chat, moderação da comunidade de mapping/modding, general moderation |
 | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | Holandês, um pouco de alemão | General moderation |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Administração de torneios |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | Chinês, malaio | Moderação de chat |

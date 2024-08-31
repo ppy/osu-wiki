@@ -81,7 +81,7 @@ La [pagina del gruppo del Team di Moderazione Globale](https://osu.ppy.sh/groups
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Russo | Moderazione della chat |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Serbo | Moderazione generale |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Moderazione del forum |
-| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  | Moderazione della chat, moderazione della community del mapping/modding, moderazione generale
+| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  | Moderazione della chat, moderazione della community del mapping/modding, moderazione generale |
 | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | Olandese, un po' di tedesco | Moderazione generale |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Organizzazione tornei[^task-Azer] |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | Cinese, malese | Moderazione della chat |

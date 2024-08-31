@@ -83,7 +83,7 @@ tags:
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | 俄语 | 聊天管理员 |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | 塞尔维亚语 | 全局管理员 |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | 论坛管理员 |
-| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  | 聊天管理员，作图摸图社群管理员，全局管理员
+| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  | 聊天管理员，作图摸图社群管理员，全局管理员 |
 | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | 荷兰语，一部分德语 | 全局管理员 |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | 锦标赛管理员[^task-Azer] |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | 汉语，马来语 | 聊天管理员 |

@@ -65,7 +65,7 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | ロシア語 | チャットモデレーション |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | セルビア語 | General moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | フォーラムモデレーション |
-| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  | チャットモデレーション、mapping/modding コミュニティ モデレーション、general moderation
+| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  | チャットモデレーション、mapping/modding コミュニティ モデレーション、general moderation |
 | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | オランダ語、部分的なドイツ語 | General moderation |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | トーナメント運営 |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | 中国語、マレー語 | チャットモデレーション |

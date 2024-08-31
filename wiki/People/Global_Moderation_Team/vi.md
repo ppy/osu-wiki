@@ -80,7 +80,7 @@ Khi một Kiểm duyệt viên quyết định rời khỏi đội ngũ, họ c�
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Tiếng Nga | Kiểm duyệt chat |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Tiếng Serbia | Kiểm duyệt chung |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Kiểm duyệt diễn đàn |
-| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  | Kiểm duyệt chat, kiểm duyệt mảng mapping/modding, kiểm duyệt chung
+| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  | Kiểm duyệt chat, kiểm duyệt mảng mapping/modding, kiểm duyệt chung |
 | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | Tiếng Hà Lan, một chút Tiếng Đức | Kiểm duyệt chung |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Quản lý giải đấu[^task-Azer] |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | Tiếng Trung, Tiếng Mã Lai | Kiểm duyệt chat |

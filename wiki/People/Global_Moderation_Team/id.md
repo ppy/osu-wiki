@@ -64,7 +64,7 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Rusia | Moderasi chat |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Serbia | General moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Moderasi forum |
-| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  | Moderasi chat, moderasi komunitas mapping/modding, general moderation
+| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  | Moderasi chat, moderasi komunitas mapping/modding, general moderation |
 | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | Belanda, sedikit Jerman | General moderation |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Manajemen turnamen[^task-Azer] |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | Tionghoa, Melayu | Moderasi chat |

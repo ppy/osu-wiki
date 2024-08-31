@@ -56,7 +56,7 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Rosyjski | Moderowanie czatu |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Serbski | General moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Moderowanie forum |
-| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  | Moderowanie czatu, moderowanie społeczności twórców i moderów beatmap, general moderation
+| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  | Moderowanie czatu, moderowanie społeczności twórców i moderów beatmap, general moderation |
 | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | Niderlandzki, niemiecki (częściowo) | General moderation |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Organizowanie turniejów |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | Chiński, malajski | Moderowanie czatu |

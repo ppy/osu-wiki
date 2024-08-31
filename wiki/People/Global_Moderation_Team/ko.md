@@ -33,7 +33,7 @@ tags:
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | 러시아어 | 채팅 관리 |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | 세르비아어 | General moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | 포럼 관리 |
-| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  | 채팅 관리, 매핑/모딩 커뮤니티 관리, general moderation
+| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  | 채팅 관리, 매핑/모딩 커뮤니티 관리, general moderation |
 | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | 네덜란드어, 약간의 독일어 | General moderation |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | 토너먼트 관리 |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | 중국어, 말레이어 | 채팅 관리 |

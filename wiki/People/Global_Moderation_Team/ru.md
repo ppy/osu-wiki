@@ -83,7 +83,7 @@ tags:
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Русский | Модерация чата |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Сербский | General moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Модерация форума |
-| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  | Модерация чата, модерация маппинг-сообщества, general moderation
+| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  | Модерация чата, модерация маппинг-сообщества, general moderation |
 | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | Нидерландский, частично немецкий | General moderation |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Организация турниров[^task-Azer] |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | Китайский, малайский | Модерация чата |

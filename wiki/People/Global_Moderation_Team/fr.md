@@ -83,7 +83,7 @@ Lorsqu'un Global Moderator décide de quitter l'équipe, il peut se voir accorde
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Russe | Modération du tchat |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Serbe | Modération générale |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Modération du forum |
-| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  | Modération du tchat, modération de la communauté modding/mapping, modération générale
+| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  | Modération du tchat, modération de la communauté modding/mapping, modération générale |
 | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | Néerlandais, un peu de allemand | Modération générale |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Manager des tournois[^task-Azer] |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | Chinois, malais | Modération du tchat |

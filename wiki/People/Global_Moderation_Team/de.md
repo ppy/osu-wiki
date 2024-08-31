@@ -82,7 +82,7 @@ Die [Gruppenseite des GMTs](https://osu.ppy.sh/groups/4) listet alle Teammitglie
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Russisch | Chat-Moderation |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Serbisch | Allgemeine Moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Forum-Moderation |
-| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  | Chat-Moderation, Moderation der Mapping-/Modding-Community, Allgemeine Moderation
+| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  | Chat-Moderation, Moderation der Mapping-/Modding-Community, Allgemeine Moderation |
 | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | Niederländisch, etwas Deutsch | Allgemeine Moderation |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Verwaltung von Turnieren[^task-Azer] |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | Chinesisch, Malaiisch | Chat-Moderation |

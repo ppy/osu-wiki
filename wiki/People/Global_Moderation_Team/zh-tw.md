@@ -65,7 +65,7 @@ GMT 負責聊天頻道和論壇的安危，和處理社群間的交流。可以�
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | 俄文 | 聊天室管理員 |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | 塞爾維亞文 | General moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | 論壇管理員 |
-| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  | 聊天室管理員、製圖/Mod 圖社群管理員、general moderation
+| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  | 聊天室管理員、製圖/Mod 圖社群管理員、general moderation |
 | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | 荷蘭文、部分德文 | General moderation |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | 錦標賽管理員 |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | 中文、馬來文 | 聊天室管理員 |

@@ -63,7 +63,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Rusça | Sohbet moderasyonu |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Sırpça | General moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Forum moderasyonu |
-| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  | Sohbet moderasyonu, mapping/modding topluluk moderasyonu, general moderation
+| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  | Sohbet moderasyonu, mapping/modding topluluk moderasyonu, general moderation |
 | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | Felemenkçe, biraz Almanca | General moderation |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Turnuva yönetimi |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | Çince, Malayca | Sohbet moderasyonu |
