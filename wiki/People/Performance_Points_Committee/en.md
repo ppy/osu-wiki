@@ -85,4 +85,3 @@ The osu!mania panel was formed 22 April 2022 in response to [a community survey 
 | ::{ flag=SG }:: [Evening](https://osu.ppy.sh/users/2193881) | [Eve-ning](https://github.com/Eve-ning) | 22 April 2022 |
 | ::{ flag=AU }:: [molneya](https://osu.ppy.sh/users/8945180) | [molneya](https://github.com/molneya) | 22 April 2022 |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | [Kominaru](https://github.com/Kominaru) | 22 April 2022 |
-
