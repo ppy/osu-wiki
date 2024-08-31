@@ -120,12 +120,12 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/f3e
 | Team A | Team B | Match time | Twitch stream |
 | --: | :-- | :-- | :-: |
 | New Zealand ::{ flag=NZ }:: | ::{ flag=IT }:: Italy | [Aug 31 (Sat) 08:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240831T083000&p1=1440&p2=264&p3=215) | [osulive](https://twitch.tv/osulive) |
-| Vietnam ::{ flag=VN }:: | ::{ flag=RU }:: Russian Federation | [Aug 31 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240831T100000&p1=1440&p2=95&p3=166) | [osulive_2](https://twitch.tv/osulive_2) |
+| Vietnam ::{ flag=VN }:: | ::{ flag=RU }:: Russian Federation | [Aug 31 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240831T100000&p1=1440&p2=95&p3=166) | [osulive](https://twitch.tv/osulive) |
 | Netherlands ::{ flag=NL }:: | ::{ flag=AU }:: Australia | [Aug 31 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240831T110000&p1=1440&p2=16&p3=57) | [osulive](https://twitch.tv/osulive) |
 | Romania ::{ flag=RO }:: | ::{ flag=ID }:: Indonesia | [Aug 31 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240831T120000&p1=1440&p2=49&p3=108) | [osulive](https://twitch.tv/osulive) |
 | Finland ::{ flag=FI }:: | ::{ flag=SE }:: Sweden | [Aug 31 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240831T130000&p1=1440&p2=101&p3=239) | [osulive](https://twitch.tv/osulive) |
 | United Kingdom ::{ flag=GB }:: | ::{ flag=SG }:: Singapore | [Aug 31 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240831T130000&p1=1440&p2=136&p3=236) | [osulive_2](https://twitch.tv/osulive_2) |
-| China ::{ flag=CN }:: | ::{ flag=MY }:: Malaysia | [Aug 31 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240831T140000&p1=1440&p2=33&p3=122) | [osulive_2](https://twitch.tv/osulive_2) |
+| China ::{ flag=CN }:: | ::{ flag=MY }:: Malaysia | [Aug 31 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240831T140000&p1=1440&p2=33&p3=122) | [osulive](https://twitch.tv/osulive) |
 | Argentina ::{ flag=AR }:: | ::{ flag=PL }:: Poland | [Aug 31 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240831T180000&p1=1440&p2=51&p3=262) | [osulive](https://twitch.tv/osulive) |
 
 ### Sunday, 1 September 2024
