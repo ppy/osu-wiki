@@ -16,17 +16,17 @@ The Performance Points Committee's responsibilities include:
 
 ## Workflow
 
-Whenever a new difficulty calculation proposal is created on [GitHub](https://github.com/ppy/osu), the Performance Points Committee relevant to the ruleset it's for will be tagged with a review request. After that members of the committee must review and test the proposal and write a review on its GitHub page. When there are enough committee approvals the change is considered ready for deployment and is passed to osu! developers for final code inspection before merging into the game.
+When a new difficulty calculation change is proposed on [GitHub](https://github.com/ppy/osu), the Performance Points Committee members responsible for the relevant [game mode](/wiki/Game_mode) are requested to review it. Those committee members then review and test the proposal and write feedback on its GitHub page. If the committee ultimately approves of the changes, the proposal will be passed on to [osu! developers](/wiki/People/Developers) for final code inspection before it is merged into the game.
 
-When there are enough merged proposals the osu! developers will start preparing for a performance points deployment which will recalculate all existing scores using the new algorithms. Performance Points Committees are tasked with assisting with writing a news post about the upcoming changes.
+The osu! developers prepare merged proposals to be deployed in batches. A deployment recalculates star ratings for all beatmaps and performance points for all scores and users. The Performance Points Committee helps write the news post that accompanies each deployment.
 
 ## Communication
 
-Performance Points Committees mainly operate on the [Performance Points Discord server](https://discord.gg/aqPCnXu) with some committees having separate servers for their respective ruleset. Committees also maintain a [Twitter account](https://x.com/pp_committee) that is being used for official announcements and difficulty calculation related news. You can also contact any of the members of the committees privately through osu! private messages.
+The Performance Points Committee mainly operates in the [Performance Points Discord server](https://discord.gg/aqPCnXu), with some game modes also having [separate servers](/wiki/Community/Discord_servers#community-development). The committee also maintains a [Twitter account](https://x.com/pp_committee) used for official announcements and difficulty calculation related news.
 
 ## Members
 
-Members of the committees are hand-picked by osu! developers and/or other committee members and consist of people with a lot of experience working on the difficulty calculation system.
+Members of the committee are hand-picked by osu! developers and/or other committee members and consist of people with a lot of experience working on the difficulty calculation system.
 
 ### osu!
 
