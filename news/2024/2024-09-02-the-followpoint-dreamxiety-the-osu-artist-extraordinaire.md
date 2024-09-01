@@ -9,7 +9,7 @@ The Followpoint has came back with another interview! This time it will be very 
 
 ![](/wiki/shared/news/2024-09-02-the-followpoint-dreamxiety-the-osu-artist-extraordinaire/banner.jpg)
 
-What's this? A new interview from The Followpoint? That's right, today we are back with [Dreamxiety](https://osu.ppy.sh/users/13103233). You may know her for creating artworks for the seasonal art contests, and you've probably seen them in the main menu whenever you load up osu!, if you even have seasonal backgrounds enabled... why do you guys have them disabled?
+What's this? A new interview from The Followpoint? That's right, today we are back with [Dreamxiety](https://osu.ppy.sh/users/13103233). You may know her for creating artworks for the seasonal art contests, and you've probably seen them in the main menu whenever you load up osu!, if you have them enabled that is...
 
 Anyway, let's get right into it!
 
