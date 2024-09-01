@@ -12,7 +12,9 @@ More specifically, those **41** tracks are now part of [**cygnus**'s Featured Ar
 
 ![](/wiki/shared/news/2024-09-01-featured-artist-track-updates-cygnus/new.png)
 
-Historically, we've announced updates to our current artist catalogue with [big batch updates](https://osu.ppy.sh/home/news/2024-01-07-featured-artist-track-updates-winter-2024), simultaneously covering a bunch of artists. That format makes it pretty easy to overlook some of the awesome music being added to osu!, so we're hoping to change that with a focus on individual artist additions!
+Historically, we've announced updates to our current artist catalogue with [big batch updates](https://osu.ppy.sh/home/news/2024-01-07-featured-artist-track-updates-winter-2024), simultaneously covering a bunch of artists. That format makes it pretty easy to overlook some of the awesome music being added to osu!, so going forward, we're hoping to change that with a focus on "smaller" additions like what you're seeing here!
+
+Anyway, let's get into the music already:
 
 ## osu! original
 
