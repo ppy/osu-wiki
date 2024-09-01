@@ -28,11 +28,11 @@ If you missed it on the mappool showcase today, you're in luck — it's also rig
 
 ## Other tracks
 
-There's a lot more music than just that, though. **cygnus** released his newest album *Sorrow Mania* today too (every track of which is here on osu! now).
+There's a lot more music than just that, though. **cygnus** released his newest album *Sorrow Mania* today too (every track of which is now here on osu!).
 
-Below are previews for a bunch of the tracks, plus some maps you can try out for each. Of course, all of these songs (and many, many more) can be found on [**cygnus**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/359) with the **NEW** tag, all available as timed `.osz` files and prepared for mapping.
+Of course, all of these songs can be found on [**cygnus**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/359) with the **NEW** tag, all downloadable as timed `.osz` files.
 
-Enjoy a barrage of tracks:
+If you're not in the mapping mood quite yet, play through any of these to get some inspiration:
 
 ### cygnus - Bernkastel's Sanctuary
 
