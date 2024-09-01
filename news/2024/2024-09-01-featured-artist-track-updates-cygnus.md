@@ -70,7 +70,7 @@ Experience a bit of **cygnus**'s new album through [this brand new beatmap](http
 
 ### cygnus - magic rock "Moola"
 
-Take your pick of [any of these 10 difficulties](https://osu.ppy.sh/beatmapsets/2105573) hosted by [Matrix](https://osu.ppy.sh/users/5052899)!
+Take your pick of [any of these 10 difficulties](https://osu.ppy.sh/beatmapsets/2105573) hosted by [Matrix (a.k.a. **cygnus**)](https://osu.ppy.sh/users/5052899)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/359/Midnight%20Sacrifice/cygnus%20-%20magic%20rock%20Moola.mp3">
