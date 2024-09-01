@@ -224,7 +224,7 @@ When the entire field is uppercase or lowercase, markers may use alternative cas
 - **Loan words must use the source language's spelling when romanised.**
 - **When the song uses repeat words in the title or artist where one is unicode, and the other is a romanisation, the romanised field must use the romanisation only and remove the duplicate word.** `ソレイユ -Soleil-` would become just `Soleil` and `ピポピポ -People People-` would become `People People`.
 
-### Rules: Language and Writing-system Romanisation Rules
+### Rules: Language and writing system romanisation
 
 - **Japanese**
   - Use the [Modified Hepburn system](https://en.wikipedia.org/wiki/Hepburn_romanization#Features)
