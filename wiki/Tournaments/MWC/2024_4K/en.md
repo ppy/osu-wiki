@@ -215,7 +215,7 @@ Sunday, 1 September 2024:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| **United States** ::{ flag=US }:: | **6** | 0 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/mp/115318604) | [#1](https://www.twitch.tv/videos/2239366528) |
+| **United States** ::{ flag=US }:: | **6** | 0 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/115318604) | [#1](https://www.twitch.tv/videos/2239366528) |
 
 ### Round of 32
 
