@@ -6,7 +6,7 @@
 
 - **[Primary metadata sources](/wiki/Beatmap/Primary_metadata_source) must be used as reference.** You may modify metadata from primary sources only in ways allowed or required by the Ranking Criteria. If no primary sources are available, use what is most recognisable.
 - **All difficulties in a beatmap set must have identical `Title`, `Artist`, `Tag`, `Source`, and `BeatmapSetID` fields.**
-- **`Artist` or `Title` fields over 81 characters must be shortened.**  <!-- this rule matches a technical limitation of BSS and can be removed if the issue is fixed -->
+- **`Artist` or `Title` fields over 81 characters must be shortened.** <!-- this rule matches a technical limitation of BSS and can be removed if the issue is fixed -->
   - Start by dropping additional markers.
     - When a long artist field uses `CV` formatting[^character-voice-actor], shorten it by dropping character names and listing out only the `Voice Actor` names.
   - If not sufficient, truncate the field and indicate this by using `...` in a sensible place.
@@ -45,7 +45,7 @@
   - [Supplemental Arrows-A](https://en.wikipedia.org/wiki/Supplemental_Arrows-A), [Supplemental Arrows-B](https://en.wikipedia.org/wiki/Supplemental_Arrows-B), [Miscellaneous Symbols and Arrows](https://en.wikipedia.org/wiki/Miscellaneous_Symbols_and_Arrows)
   - [Dingbats](https://en.wikipedia.org/wiki/Dingbats_(Unicode_block))
   - [Miscellaneous Symbols](https://en.wikipedia.org/wiki/Miscellaneous_Symbols)
-  
+
   This does not apply if the artist purposefully uses symbols in ways that do not suggest spaces. For example, `。✰302？ionwan2go✰。` would be `.*302?ionwan2go*.` and not `. * 302 ? ionwan2go * .`. Other character sets are handled on a case-by-case basis.
 - **In romanised fields, special symbols must be changed to their nearest ASCII printable equivalent or removed.** Special characters other than the ones below are to be changed or dropped on a case-by-case basis. When multiple options exist, the one used for romanisation depends on context.
 
@@ -93,7 +93,7 @@ When the entire field is uppercase or lowercase, markers may use alternative cas
   - `Circle Name`
   - `Well-known Member involved in the song`
   - `Circle Name feat. Circle Member/External Contributor/Singer`
-  
+
   External contributors to single songs are usually listed in the credits and other circle members that are specifically listed for the song should remain included. Whether or not a member is well-known enough to be the sole artist is determined on a case-by-case basis.
 
 ### Allowances
