@@ -41,28 +41,30 @@
 ### Rules
 
 - **Symbols used to group part of a title or artist must include surrounding spaces.** For example, `Song★Title★` becomes `Song ★Title★`.
+
 - **The following Unicode Symbol subsets should have leading and trailing spaces when they can be romanised:**
   - [Supplemental Arrows-A](https://en.wikipedia.org/wiki/Supplemental_Arrows-A), [Supplemental Arrows-B](https://en.wikipedia.org/wiki/Supplemental_Arrows-B), [Miscellaneous Symbols and Arrows](https://en.wikipedia.org/wiki/Miscellaneous_Symbols_and_Arrows)
   - [Dingbats](https://en.wikipedia.org/wiki/Dingbats_(Unicode_block))
   - [Miscellaneous Symbols](https://en.wikipedia.org/wiki/Miscellaneous_Symbols)
 
   This does not apply if the artist purposefully uses symbols in ways that do not suggest spaces. For example, `。✰302？ionwan2go✰。` would be `.*302?ionwan2go*.` and not `. * 302 ? ionwan2go * .`. Other character sets are handled on a case-by-case basis.
+
 - **In romanised fields, special symbols must be changed to their nearest ASCII printable equivalent or removed.** Special characters other than the ones below are to be changed or dropped on a case-by-case basis. When multiple options exist, the one used for romanisation depends on context.
 
-| Symbol | Recommended Romanisation |
-| :-- | :-- |
-| `★ ☆ ⚝ ✪ ✻`, and similar shapes | `*` |
-| `♥ ♡` and similar hearts | `<3` |
-| `「 」『 』` | `""` |
-| `…` | `...` |
-| `。` | `.` |
-| `→` and similar arrows | `->` or `-->` |
-| `←` and similar arrows | `<-` or `<--` |
-| `《》` | `< >`, `<< >>`, or `""` |
-| `【】` | `""`, `()` or `[]` |
-| `≠` | `=/=` or `!=` |
-| `・` | `.`, `,` or ` ` |
-| `×` | `x` |
+  | Symbol | Recommended Romanisation |
+  | :-- | :-- |
+  | `★ ☆ ⚝ ✪ ✻`, and similar shapes | `*` |
+  | `♥ ♡` and similar hearts | `<3` |
+  | `「 」『 』` | `""` |
+  | `…` | `...` |
+  | `。` | `.` |
+  | `→` and similar arrows | `->` or `-->` |
+  | `←` and similar arrows | `<-` or `<--` |
+  | `《》` | `< >`, `<< >>`, or `""` |
+  | `【】` | `""`, `()` or `[]` |
+  | `≠` | `=/=` or `!=` |
+  | `・` | `.`, `,` or ` ` |
+  | `×` | `x` |
 
 ## Artist
 
