@@ -10,19 +10,19 @@ A bit over a year ago, [**cygnus**](https://osu.ppy.sh/beatmaps/artists/359) too
 
 More specifically, those **41** tracks are now part of [**cygnus**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/359)! Anything labeled as **NEW** (like the image below) is... new. Very complicated, we know.
 
-![](LINK)
+![](/wiki/shared/news/2024-09-01-featured-artist-track-updates-cygnus/new.png)
 
 Historically, we've announced updates to our current artist catalogue with [big batch updates](https://osu.ppy.sh/home/news/2024-01-07-featured-artist-track-updates-winter-2024), simultaneously covering a bunch of artists. That format makes it pretty easy to overlook some of the awesome music being added to osu!, so we're hoping to change that with a focus on individual artist additions!
 
 ## osu! original
 
-First off, we need to highlight the newest addition to **cygnus**'s discography: [Tree of Misery](LINK), produced specifically for this year's [osu!mania 4K World Cup 2024](/wiki/Tournaments/MWC/2024_4K)!
+First off, we need to highlight the newest addition to **cygnus**'s discography: [Tree of Misery](https://osu.ppy.sh/beatmapsets/2242640), produced specifically for this year's [osu!mania 4K World Cup 2024](/wiki/Tournaments/MWC/2024_4K)!
 
 If you missed it on the mappool showcase today, you're in luck — it's also right here:
 
 <div align="center">
     <video width="95%" controls>
-        <source src="LINK" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/cygnus_original_tree_of_misery.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -39,7 +39,7 @@ Enjoy a barrage of tracks:
 [Here's another map](https://osu.ppy.sh/beatmapsets/2134400) hosted by [the artist himself](https://osu.ppy.sh/users/5052899)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/359/Midnight%20Sacrifice/cygnus%20-%20Bernkastel%27s%20Sanctuary.mp3">
 </audio>
 
 ### cygnus - M U T A T i O N (((((9^9)^9)^9)^9)^9)
@@ -47,7 +47,7 @@ Enjoy a barrage of tracks:
 Play through [this recently Ranked map](https://osu.ppy.sh/beatmapsets/2235017) hosted by [dopaminos](https://osu.ppy.sh/users/6570161)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/359/Sorrow%20Mania/cygnus%20-%20M%20U%20T%20A%20T%20i%20O%20N%20(((((9%5E9)%5E9)%5E9)%5E9)%5E9).mp3">
 </audio>
 
 ### cygnus - Bloody Mary
@@ -55,7 +55,7 @@ Play through [this recently Ranked map](https://osu.ppy.sh/beatmapsets/2235017) 
 Today is a good day for osu!. [fanzhen0019](https://osu.ppy.sh/users/418699) uploaded [a new map](https://osu.ppy.sh/beatmapsets/2242344).
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/359/Sorrow%20Mania/cygnus%20-%20Bloody%20Mary.mp3">
 </audio>
 
 ### cygnus - loppi_complex
@@ -63,7 +63,7 @@ Today is a good day for osu!. [fanzhen0019](https://osu.ppy.sh/users/418699) upl
 Experience a bit of **cygnus**'s new album through [this brand new beatmap](https://osu.ppy.sh/beatmapsets/2242440) hosted by the one and only [mithew](https://osu.ppy.sh/users/2571893)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/359/Sorrow%20Mania/cygnus%20-%20loppi%27complex.mp3">
 </audio>
 
 ### cygnus - magic rock "Moola"
@@ -71,7 +71,7 @@ Experience a bit of **cygnus**'s new album through [this brand new beatmap](http
 Take your pick of [any of these 10 difficulties](https://osu.ppy.sh/beatmapsets/2105573) hosted by [Matrix](https://osu.ppy.sh/users/5052899)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/359/Midnight%20Sacrifice/cygnus%20-%20magic%20rock%20Moola.mp3">
 </audio>
 
 ### cygnus - Book of Dark Magic
@@ -79,7 +79,7 @@ Take your pick of [any of these 10 difficulties](https://osu.ppy.sh/beatmapsets/
 Try out [this osu! map](https://osu.ppy.sh/beatmapsets/2127556) hosted by [Matrix](https://osu.ppy.sh/users/5052899) or [this osu!taiko rendition](https://osu.ppy.sh/beatmapsets/2233292) hosted by [Antti](https://osu.ppy.sh/users/13281473)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/359/Midnight%20Sacrifice/cygnus%20-%20Book%20of%20Dark%20Magic.mp3">
 </audio>
 
 ### cygnus - Moon Atomizer
@@ -87,7 +87,7 @@ Try out [this osu! map](https://osu.ppy.sh/beatmapsets/2127556) hosted by [Matri
 Experience [this map made for an IRL tournament](https://osu.ppy.sh/beatmapsets/2214952) hosted by [Sanch-KK](https://osu.ppy.sh/users/9131844)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/359/Sorrow%20Mania/cygnus%20-%20Moon%20Atomizer.mp3">
 </audio>
 
 ---
