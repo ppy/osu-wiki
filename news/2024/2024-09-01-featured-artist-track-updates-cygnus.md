@@ -62,7 +62,7 @@ Today is a good day for osu!. [fanzhen0019](https://osu.ppy.sh/users/418699) upl
 
 ### cygnus - loppi_complex
 
-Experience a bit of **cygnus**'s new album through [this brand new beatmap](https://osu.ppy.sh/beatmapsets/2242440) hosted by the one and only [mithew](https://osu.ppy.sh/users/2571893)!
+Experience a bit of **cygnus**'s new album through [this brand-new beatmap](https://osu.ppy.sh/beatmapsets/2242440) hosted by the one and only [mithew](https://osu.ppy.sh/users/2571893)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/359/Sorrow%20Mania/cygnus%20-%20loppi%27complex.mp3">
