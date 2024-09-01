@@ -24,7 +24,7 @@ Die unten aufgeführten Personen bilden den Kern des **osu!-Teams** und sind hau
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Projekt- und Community-Betreuer, [Featured Artist](/wiki/People/Featured_Artists) Kontaktaufnahme |
 | ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765) | Leitung für Design, ständiger Beobachter der Creative Cloud |
 | ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | osu!-Entwickler |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Leiter des [NATs](/wiki/People/Nomination_Assessment_Team), [Project Loved](/wiki/Community/Project_Loved) Manager |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Allgemeiner Hausmeister, Leiter des [NATs](/wiki/People/Nomination_Assessment_Team), [Project Loved](/wiki/Community/Project_Loved) Manager |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Organisator und Verwalter des [World Cups](/wiki/Tournaments#offizielle-world-cups) |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | [Featured Artist](/wiki/People/Featured_Artists) Kontaktaufnahme, Sekretär beim [World Cup](/wiki/Tournaments#offizielle-world-cups) |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | osu!-Entwickler, technische Unterstützung |

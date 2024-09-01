@@ -28,7 +28,7 @@ Nama-nama di bawah ini merupakan anggota inti **tim osu!** yang secara utama ber
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Pengelola proyek dan komunitas, pembina hubungan dengan [Featured Artist](/wiki/People/Featured_Artists) |
 | ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765) | Pemimpin tim desain, pemerhati Creative Cloud |
 | ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | Pengembang osu! |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Ketua [NAT](/wiki/People/Nomination_Assessment_Team), manajer [Project Loved](/wiki/Community/Project_Loved) |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Pengasuh umum, ketua [NAT](/wiki/People/Nomination_Assessment_Team), manajer [Project Loved](/wiki/Community/Project_Loved) |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Penyelenggara dan pengelola [World Cup](/wiki/Tournaments#official-world-cups) |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Pembina hubungan dengan [Featured Artist](/wiki/People/Featured_Artists), sekretaris [World Cup](/wiki/Tournaments#official-world-cups) |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | Pengembang osu!, dukungan teknis |

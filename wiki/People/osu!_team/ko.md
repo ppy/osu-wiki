@@ -28,7 +28,7 @@ tags:
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | 프로젝트 및 커뮤니티 유지 관리자, [공식 아티스트](/wiki/People/Featured_Artists) 지원 |
 | ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765) | 디자인 책임자, Creative Cloud 상시 감시자 |
 | ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | osu! 개발자 |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [노미네이션 어세스먼트 팀](/wiki/People/Nomination_Assessment_Team) 리더, [Project Loved](/wiki/Community/Project_Loved) 매니저 |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 총괄 관리자, [노미네이션 어세스먼트 팀](/wiki/People/Nomination_Assessment_Team) 리더, [Project Loved](/wiki/Community/Project_Loved) 매니저 |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | [월드컵](/wiki/Tournaments#official-world-cups) 주최자 및 관리자 |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | [공식 아티스트](/wiki/People/Featured_Artists) 지원, [월드컵](/wiki/Tournaments#official-world-cups) 비서 |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | osu! 개발자, 기술적 지원 |
