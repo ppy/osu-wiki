@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured Artist Track Updates: cygnus"
-date: 2024-09-01 21:30:00 +0000
+date: 2024-09-01 22:30:00 +0000
 ---
 
 A bit over a year ago, [**cygnus**](https://osu.ppy.sh/beatmaps/artists/359) took the plunge and [became a Featured Artist](https://osu.ppy.sh/home/news/2023-05-13-new-featured-artist-cygnus). Since then, he's released album after album after album, so it's about time we officially bring **41** of those tracks into osu!.
