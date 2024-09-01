@@ -5,7 +5,7 @@ date: 2024-09-02 12:00:00 +0000
 series: The Followpoint
 ---
 
-The Followpoint has came back with another interview! This time it will be very artistic you could say.
+The Followpoint has came back with another interview! This time it will be very artistic so to say.
 
 ![](/wiki/shared/news/2024-09-02-the-followpoint-dreamxiety-the-osu-artist-extraordinaire/banner.jpg)
 
@@ -102,7 +102,7 @@ Then I'll look for references, mainly for the things I'm not sure how to draw. S
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
 
-Let's talk about osu!'s seasonal art contests, what made you interested back when you participated for the first time?
+Let's talk about osu!'s seasonal art contests. What made you interested back when you participated for the first time?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/13103233" style="background-image: url('/wiki/shared/news/2024-09-02-the-followpoint-dreamxiety-the-osu-artist-extraordinaire/avatar-Dreamxiety.jpg')"></a>
 
@@ -137,6 +137,8 @@ Out of all of the osu! seasonal art contests, what is your favorite art piece yo
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/13103233">Dreamxiety</a></p>
 
 Possibly the New Beginnings entry. Many people liked it and I like it too.
+
+[![](https://assets.ppy.sh/contests/160/banners/Dreamxiety.jpg)](https://assets.ppy.sh/contests/160/winners/Dreamxiety.png)
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/news/2024-09-02-the-followpoint-dreamxiety-the-osu-artist-extraordinaire/avatar-Utiba.jpeg')"></a>
 
@@ -254,9 +256,9 @@ My final message would be 1) Play catch, and 2) I like KAITO thighs.
 
 ---
 
-Huge thanks to Dreamxiety for being a part of this interview, and I hope you readers enjoyed reading this interview! We very much appreciate the support!
+Huge thanks to Dreamxiety for being a part of this interview, and I hope you readers enjoyed reading! We very much appreciate the support!
 
-You guys know the drill already, we will have a new interview come out in the next two weeks, so make sure to keep an eye on the news feed! You may also follow [@The_Followpoint on Twitter](https://twitter.com/The_Followpoint) to see more updates and question submissions for future interviews.
+You know the drill already. A new interview will come out in the next two weeks, so make sure to keep an eye on the news feed! You may also follow [@The_Followpoint on Twitter](https://twitter.com/The_Followpoint) to see more updates and question submissions for future interviews.
 
 See you next time! <3
 
