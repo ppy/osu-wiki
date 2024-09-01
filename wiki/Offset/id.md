@@ -20,7 +20,7 @@ Tergantung dari jenisnya, suatu offset dapat diatur oleh pembuat beatmap, disesu
 
 ## Pengaturan beatmap
 
-_Catatan: Offset lead-in dan video hanya dapat diubah dengan [menyunting berkas beatmap](/wiki/Client/File_formats/osu_\(file_format\))._
+*Catatan: Offset lead-in dan video hanya dapat diubah dengan [menyunting berkas beatmap](/wiki/Client/File_formats/osu_\(file_format\)).*
 
 - Offset hitungan mundur, pengaturan yang memengaruhi waktu kemunculan [hitungan mundur](/wiki/Beatmap/Countdown) sebelum objek permainan pertama dalam satuan [beat](/wiki/Music_theory/Beat).
 - [Lead-in](/wiki/Beatmap/Lead-in_time), waktu jeda tambahan sebelum beatmap dimulai.
