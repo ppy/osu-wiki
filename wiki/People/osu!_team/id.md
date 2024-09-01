@@ -26,9 +26,9 @@ Nama-nama di bawah ini merupakan anggota inti **tim osu!** yang secara utama ber
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | [Moderator](/wiki/People/Global_Moderation_Team), dukungan teknis |
 | ::{ flag=SK }:: [Domco](https://osu.ppy.sh/users/3562660) | Pengembang osu! |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Pengelola proyek dan komunitas, pembina hubungan dengan [Featured Artist](/wiki/People/Featured_Artists) |
-| ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765) | Pemimpin tim desain, pemerhati Creative Cloud |
+| ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765) | Pemimpin tim desain, pemerhati Creative Cloud |
 | ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | Pengembang osu! |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Ketua [NAT](/wiki/People/Nomination_Assessment_Team), manajer [Project Loved](/wiki/Community/Project_Loved), sekretaris Venix |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Ketua [NAT](/wiki/People/Nomination_Assessment_Team), manajer [Project Loved](/wiki/Community/Project_Loved) |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Penyelenggara dan pengelola [World Cup](/wiki/Tournaments#official-world-cups) |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Pembina hubungan dengan [Featured Artist](/wiki/People/Featured_Artists), sekretaris [World Cup](/wiki/Tournaments#official-world-cups) |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | Pengembang osu!, dukungan teknis |
@@ -44,11 +44,11 @@ Nama-nama di bawah ini merupakan anggota inti **tim osu!** yang secara utama ber
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Pengasuh umum |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | Pengembang osu!, pecinta osu!mania, penumpas *bug* |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Pengembang osu! |
-| ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | Desainer grafis |
+| ::{ flag=GB }:: [Tanza](https://osu.ppy.sh/users/10379965) | Desainer grafis |
 | ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) | Pengembang infrastruktur osu! |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Pengasuh umum, dukungan turnamen |
 | ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | Pengasuh umum, penjaga kebersihan komunitas |
-| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Ketua [GMT](/wiki/People/Global_Moderation_Team), manajer [Beatmap Spotlights](/wiki/Beatmap_Spotlights), sekretaris Hivie |
+| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Ketua [GMT](/wiki/People/Global_Moderation_Team), manajer [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
 | ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | [Pembina wiki](/wiki/People/osu!_wiki_maintainers), penyunting berita |
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | Spesies yang terancam punah |
 
