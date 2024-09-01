@@ -24,7 +24,7 @@ Esta regla se aplica solo con una infracción. Los tramposos serán restringidos
 
 osu! usa parámetros automatizados combinados con confirmación manual. Si no sabes por qué estás restringido, ponte en contacto con [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
-## ¡Demostradme que estaba haciendo trampa! ¡Me gustaría saber qué pruebas tenéis!
+## ¡Demuéstrenme que estaba haciendo trampa! ¡Me gustaría saber qué pruebas tienen!
 
 El equipo de soporte no te proporcionará ninguna «prueba» sobre las restricciones, pero todas se realizan con sospechas bien fundamentadas. Es muy poco probable que los usuarios normales sean blanco de este tipo de acciones.
 
@@ -69,7 +69,7 @@ Periféricos como tabletas gráficas o pantallas táctiles están permitidos. Cu
 
 ## ¿Cómo puedo apelar mi restricción?
 
-Espera al menos tres meses después de la última restricción aplicada antes de apelar[^restriction-length]. Envía tus correos a [accounts@ppy.sh](mailto:accounts@ppy.sh) y usa el asunto de `Restriction Appeal: <nombre de usuario>`
+Espera al menos tres meses después de la última restricción aplicada antes de apelar[^restriction-length]. Envía tus correos a [accounts@ppy.sh](mailto:accounts@ppy.sh) y usa el asunto `Restriction Appeal: <nombre de usuario>`
 
 El equipo de soporte espera que los usuarios presenten un historial completo de sus acciones y den razones por las que no volverán a infringir las reglas en el futuro.
 
