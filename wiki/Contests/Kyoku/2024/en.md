@@ -202,4 +202,3 @@ Only one team member needs to submit, and you can reupload your submission as ma
 - [9ami](https://osu.ppy.sh/users/1499997)
 - [funny](https://osu.ppy.sh/users/8473573)
 - [Lotragon](https://osu.ppy.sh/users/6063342)
-- [nooj](https://osu.ppy.sh/users/8271086)
