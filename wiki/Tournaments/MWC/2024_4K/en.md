@@ -205,7 +205,7 @@ Saturday, 31 August 2024:
 | **New Zealand** ::{ flag=NZ }:: | **6** | 2 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/115306909) | [#1](https://www.twitch.tv/videos/2238782160) |
 | **Vietnam** ::{ flag=VN }:: | **6** | 2 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/115307563) | [#1](https://www.twitch.tv/videos/2238782159) |
 | Netherlands ::{ flag=NL }:: | 2 | **6** | ::{ flag=AU }:: **Australia** | [#1](https://osu.ppy.sh/community/matches/115308131) | [#1](https://www.twitch.tv/videos/2238850733) |
-| Romania ::{ flag=RO }:: | FF | 0 | ::{ flag=ID }:: Indonesia | [#1](N/A) |  |
+| Romania ::{ flag=RO }:: | -1 | **0** | ::{ flag=ID }:: Indonesia | *win by default* |  |
 | Finland ::{ flag=FI }:: | 3 | **6** | ::{ flag=SE }:: **Sweden** | [#1](https://osu.ppy.sh/community/matches/115309473) | [#1](https://www.twitch.tv/videos/2238945468) |
 | United Kingdom ::{ flag=GB }:: | 5 | **6** | ::{ flag=SG }:: **Singapore** | [#1](https://osu.ppy.sh/community/matches/115309466) | [#1](https://www.twitch.tv/videos/2238887961) |
 | China ::{ flag=CN }:: | 4 | **6** | ::{ flag=MY }:: **Malaysia** | [#1](https://osu.ppy.sh/community/matches/115310225) | [#1](https://www.twitch.tv/videos/2238945469) |
