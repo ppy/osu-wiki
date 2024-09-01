@@ -242,7 +242,7 @@ Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registri
 | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | Herausragende Beiträge zur osu!taiko-Community und Turnierszene |
 | ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Herausragende Beiträge zur Skinning-Community |
 | ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | Herausragende Beiträge zur Community-Moderation |
-| ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | Herausragende Beiträge zum Grafikdesign in unzähligen Community-Projekten |
+| ::{ flag=GB }:: [Tanza](https://osu.ppy.sh/users/10379965) | Herausragende Beiträge zum Grafikdesign in unzähligen Community-Projekten |
 | ::{ flag=US }:: [vrnl](https://osu.ppy.sh/users/4799788) | Herausragende Beiträge zur Qualitätssicherung von Beatmaps |
 | ::{ flag=DE }:: [Meyer](https://osu.ppy.sh/users/5452367) | Herausragende Beiträge zu osu! IRL-Events |
 | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Herausragende Beiträge zur [Mappers' Guild](/wiki/Community/Mappers_Guild) und zu Vorstellungsvideos von Featured Artists |
