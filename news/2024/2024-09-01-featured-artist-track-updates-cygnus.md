@@ -54,7 +54,7 @@ Play through [this recently Ranked map](https://osu.ppy.sh/beatmapsets/2235017) 
 
 ### cygnus - Bloody Mary
 
-Today is a good day for osu!. [fanzhen0019](https://osu.ppy.sh/users/418699) uploaded [a new map](https://osu.ppy.sh/beatmapsets/2242344).
+Today is a good day for osu!. [fanzhen0019](https://osu.ppy.sh/users/418699) uploaded [a new map](https://osu.ppy.sh/beatmapsets/2242344) for the [Kyoku contest](https://osu.ppy.sh/home/news/2024-05-10-kyoku-original-song-and-beatmapping-contest)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/359/Sorrow%20Mania/cygnus%20-%20Bloody%20Mary.mp3">
