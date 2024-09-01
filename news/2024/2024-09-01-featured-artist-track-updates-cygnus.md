@@ -32,7 +32,7 @@ There's a lot more music than just that, though. **cygnus** released his newest 
 
 Below are previews for a bunch of the tracks, plus some maps you can try out for each. Of course, all of these songs (and many, many more) can be found on [**cygnus**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/359) with the **NEW** tag, all available as timed `.osz` files and prepared for mapping.
 
-Enjoy a barrage of music:
+Enjoy a barrage of tracks:
 
 ### cygnus - Bernkastel's Sanctuary
 
@@ -45,6 +45,22 @@ Enjoy a barrage of music:
 ### cygnus - M U T A T i O N (((((9^9)^9)^9)^9)^9)
 
 Play through [this recently Ranked map](https://osu.ppy.sh/beatmapsets/2235017) hosted by [dopaminos](https://osu.ppy.sh/users/6570161)!
+
+<audio controls>
+    <source src="LINK">
+</audio>
+
+### cygnus - Bloody Mary
+
+Today is a good day for osu!. [fanzhen0019](https://osu.ppy.sh/users/418699) uploaded [a new map](https://osu.ppy.sh/beatmapsets/2242344).
+
+<audio controls>
+    <source src="LINK">
+</audio>
+
+### cygnus - loppi_complex
+
+Experience a bit of **cygnus**'s new album through [this brand new beatmap](https://osu.ppy.sh/beatmapsets/2242440) hosted by the one and only [mithew](https://osu.ppy.sh/users/2571893)!
 
 <audio controls>
     <source src="LINK">
