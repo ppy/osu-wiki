@@ -6,7 +6,7 @@
 
 - **[Primary metadata sources](/wiki/Beatmap/Primary_metadata_source) must be used as reference.** You may modify metadata from primary sources only in ways allowed or required by the Ranking Criteria. If no primary sources are available, use what is most recognisable.
 - **All difficulties in a beatmap set must have identical `Title`, `Artist`, `Tag`, `Source`, and `BeatmapSetID` fields.**
-- **`Artist` or `Title` fields over 81 characters must be shortened.**  <!-- Note: this rule can be dropped with no replacement if lazer allows for more flexible metadata uploads -->
+- **`Artist` or `Title` fields over 81 characters must be shortened.**  <!-- this rule matches a technical limitation of BSS and can be removed if the issue is fixed -->
   - Start by dropping additional markers.
     - When a long artist field uses `CV` formatting[^character-voice-actor], shorten it by dropping character names and listing out only the `Voice Actor` names.
   - If not sufficient, truncate the field and indicate this by using `...` in a sensible place.
@@ -98,7 +98,7 @@ When the entire field is uppercase or lowercase, markers may use alternative cas
 
 ### Allowances
 
-- **When multiple artists are involved in a track without clear formatting, you can use an allowance below to combine them into one artist field:**
+- **When multiple artists are involved in a track without clear formatting, you may use an allowance below to combine them into one artist field:**
   - `Composer(s) feat. Singer(s)`
   - **Artists may be simply listed with `,`, `&`, `x`, `/`, etc. in between each artist.**
   - **If the combined artist is too long and no official group name is available, a descriptive artist label may be used in the artist fields instead.** For example, `pippi, Mocha, Yuzu, Mani & Mari, Aiko, Alisa, Chirou, Taikonator, HitCircle, Fruit, Tama`  would be changed to `osu! cast`. If nothing fits, use `Various Artists` instead.
@@ -219,12 +219,12 @@ When the entire field is uppercase or lowercase, markers may use alternative cas
 
 ### Rules
 
-- **Romanisation rules only apply when you romanise the metadata yourself. If you use an official translation or romanisation, you must use it as-is in the romanised fields instead.**
+- **Any romanisation rules, guidelines and allowances only apply when you romanise metadata yourself. If you use an official translation or romanisation, you must use it as-is in the romanised fields instead.**
 - **Artist names must be romanised in the order they are printed in the unicode field.**
 - **Loan words must use the source language's spelling when romanised.**
 - **When the song uses repeat words in the title or artist where one is unicode, and the other is a romanisation, the romanised field must use the romanisation only and remove the duplicate word.** `ソレイユ -Soleil-` would become just `Soleil` and `ピポピポ -People People-` would become `People People`.
 
-### Language and Writing-system Romanisation Rules
+### Rules: Language and Writing-system Romanisation Rules
 
 - **Japanese**
   - Use the [Modified Hepburn system](https://en.wikipedia.org/wiki/Hepburn_romanization#Features)
@@ -265,5 +265,5 @@ When the entire field is uppercase or lowercase, markers may use alternative cas
 ## Notes
 
 [^title-case]: Capitalise all major words and leave conjunctions such as `and`, `to`, `or` as well as articles like `the`, `a`, `an` lowercase.
-[^character-voice-actor]: `Character Voice (CV)` is used when song is sung in character by the character's voice actor. `Voice Over (VO)` is used when a song is sung in character by someone other than the character's voice actor.
+[^character-voice-actor]: `CV` (*character voice*) is used when song is sung in character by the character's voice actor. `VO` (*voice over*) is used when a song is sung in character by someone other than the character's voice actor.
 [^audio-rc-note]: When dealing with user-made extended edits and song compilations, the [general audio ranking criteria](/wiki/Ranking_criteria#guidelines.2) applies.
