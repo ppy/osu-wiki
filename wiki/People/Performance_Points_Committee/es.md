@@ -11,15 +11,15 @@ El **comité de puntos de rendimiento** es un panel de jugadores y desarrollador
 Las responsabilidades del comité de puntos de rendimiento incluyen:
 
 - Organizar el desarrollo y ayudar a los contribuidores
-- Revisar y desarrollar cambios en los algoritmos de cálculo de la dificultad
+- Revisar y desarrollar cambios en los algoritmos de cálculo de las dificultades
 - Decidir qué cambios se implementarán y se usarán en el juego
-- Ayudar a redactar las noticias sobre los cambios recién implementados.
+- Ayudar a redactar las noticias sobre los cambios recién implementados
 
 ## Flujo de trabajo
 
-Cuando se propone un nuevo cambio en el cálculo de la dificultad en [GitHub](https://github.com/ppy/osu), se solicita a los miembros del comité de puntos de rendimiento responsables del [modo de juego](/wiki/Game_mode) correspondiente que lo revisen. Luego, esos miembros del comité revisan y prueban la propuesta y escriben sus comentarios en dicha página de GitHub. Si el comité decide aprobar los cambios, la propuesta pasará a los [desarrolladores de osu!](/wiki/People/Developers) para la revisión final del código antes de que se fusione en el juego.
+Cuando se propone un nuevo cambio en el cálculo de las dificultades en [GitHub](https://github.com/ppy/osu), se solicita a los miembros del comité de puntos de rendimiento responsables del [modo de juego](/wiki/Game_mode) correspondiente que lo revisen. Luego, esos miembros del comité revisan y prueban la propuesta y escriben sus comentarios en dicha página de GitHub. Si el comité decide aprobar los cambios, la propuesta pasará a los [desarrolladores de osu!](/wiki/People/Developers) para la revisión final del código antes de que se fusione en el juego.
 
-Los desarrolladores de osu! se encargan de preparar las propuestas fusionadas para que se implementen por lotes. Una implementación recalcula las calificaciones por estrellas de todos los beatmaps y los puntos de rendimiento de todas las puntuaciones de los usuarios. El comité de puntos de rendimiento ayuda a redactar la noticia que acompaña a cada implementación.
+Los desarrolladores de osu! se encargarán de preparar las propuestas fusionadas para que se implementen por lotes. Una implementación recalcula las calificaciones por estrellas de todos los beatmaps y los puntos de rendimiento de todas las puntuaciones de los usuarios. El comité de puntos de rendimiento ayuda a redactar la noticia que acompaña a cada implementación.
 
 ## Comunicación
 
@@ -31,7 +31,7 @@ Los miembros del comité son elegidos cuidadosamente por los desarrolladores de 
 
 ### osu!
 
-El comité de osu! se anunció por primera vez al público en la [noticia de noviembre de 2021 *Performance Points & Star Rating Updates*](https://osu.ppy.sh/home/news/2021-11-09-performance-points-star-rating-updates) en respuesta a una [encuesta realizada a la comunidad](https://osu.ppy.sh/home/news/2021-08-17-pp-sr-survey) realizada a principios de ese año.
+El comité de osu! se anunció por primera vez al público en la [noticia de noviembre de 2021 *Performance Points & Star Rating Updates*](https://osu.ppy.sh/home/news/2021-11-09-performance-points-star-rating-updates) en respuesta a una [encuesta realizada a la comunidad](https://osu.ppy.sh/home/news/2021-08-17-pp-sr-survey) a principios de ese año.
 
 | Perfil de osu! | Perfil de GitHub | Fecha de ingreso |
 | :-- | :-- | :-- |
@@ -48,7 +48,7 @@ El comité de osu! se anunció por primera vez al público en la [noticia de nov
 
 ### osu!taiko
 
-El comité de osu!taiko se formó el 1 de mayo de 2022 en respuesta a [una encuesta realizada a la comunidad sobre los puntos de rendimiento y la clasificación por estrellas en osu!taiko y osu!mania](https://osu.ppy.sh/home/news/2022-01-14-taiko-mania-pp-sr-survey) realizada a principios de ese año, así como [cambios importantes en el algoritmo de la calificación por estrellas](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit).
+El comité de osu!taiko se formó el 1 de mayo de 2022 en respuesta a [una encuesta realizada a la comunidad sobre los puntos de rendimiento y la calificación por estrellas en osu!taiko y osu!mania](https://osu.ppy.sh/home/news/2022-01-14-taiko-mania-pp-sr-survey) a principios de ese año, así como [cambios importantes en el algoritmo de la calificación por estrellas](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit).
 
 | Perfil de osu! | Perfil de GitHub | Fecha de ingreso |
 | :-- | :-- | :-- |
@@ -78,7 +78,7 @@ El comité de osu!catch se formó el 14 de octubre de 2023.
 
 ### osu!mania
 
-El comité de osu!mania se formó el 22 de abril de 2022 en respuesta a [una encuesta realizada a la comunidad sobre los puntos de rendimiento y la clasificación por estrellas en osu!taiko y osu!mania](https://osu.ppy.sh/home/news/2022-01-14-taiko-mania-pp-sr-survey) a principios de ese año, así como la anticipación de un aumento en el desarrollo activo, comenzando con [un cambio en el cálculo de las dificultades para la liberación de las notas largas en osu!mania](https://github.com/ppy/osu/pull/17913).
+El comité de osu!mania se formó el 22 de abril de 2022 en respuesta a [una encuesta realizada a la comunidad sobre los puntos de rendimiento y la calificación por estrellas en osu!taiko y osu!mania](https://osu.ppy.sh/home/news/2022-01-14-taiko-mania-pp-sr-survey) a principios de ese año, así como la anticipación de un aumento en el desarrollo activo, comenzando con [un cambio en el cálculo de las dificultades para la liberación de las notas largas en osu!mania](https://github.com/ppy/osu/pull/17913).
 
 | Perfil de osu! | Perfil de GitHub | Fecha de ingreso |
 | :-- | :-- | :-- |
