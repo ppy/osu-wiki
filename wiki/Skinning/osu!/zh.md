@@ -772,8 +772,8 @@
 
 |  | 文件名 | 描述 |
 | :-: | :-- | :-- |
-| ![](img/sliderendmiss.png "Default sliderendmiss@2x.png") | `sliderendmiss.png` | 当错过 [滑条尾部](/wiki/Gameplay/Hit_object/Slider/Slidertail) 时展示。 |
-| ![](img/slidertickmiss.png "Default slidertickmiss@2x.png") | `slidertickmiss.png` | 当错过 [滑条点](/wiki/Gameplay/Hit_object/Slider/Slider_tick)时展示。 |
+| ![](img/sliderendmiss.png "默认的 sliderendmiss@2x.png") | `sliderendmiss.png` | 当漏掉[滑条尾部](/wiki/Gameplay/Hit_object/Slider/Slidertail)时显示。 |
+| ![](img/slidertickmiss.png "默认的 slidertickmiss@2x.png") | `slidertickmiss.png` | 当漏掉[滑条点](/wiki/Gameplay/Hit_object/Slider/Slider_tick)时显示。 |
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
