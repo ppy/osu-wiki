@@ -27,13 +27,13 @@ La totalidad de este conjunto es relevante para el juego.
 
 | Nombre del archivo | Notas | Estado del elemento | Tamaño recomendado para las skins SD |
 | --: | :-: | :-: | :-: |
-| hit0{-n}.png | debería distinguirse claramente de todas los demás hit bursts | requerido | - |
-| hit50{-n}.png | debería distinguirse claramente de todas los demás hit bursts | requerido | - |
-| hit100{-n}.png | debería distinguirse claramente de todas los demás hit bursts | requerido | - |
-| hit100k{-n}.png | debería distinguirse claramente de todas los demás hit bursts | requerido | - |
-| hit300{-n}.png | debería distinguirse claramente de todas los demás hit bursts | requerido | - |
-| hit300g{-n}.png | debería distinguirse claramente de todas los demás hit bursts | requerido | - |
-| hit300k{-n}.png | debería distinguirse claramente de todas los demás hit bursts | requerido | - |
+| hit0{-n}.png | debería distinguirse claramente de todos los demás hit bursts | requerido | - |
+| hit50{-n}.png | debería distinguirse claramente de todos los demás hit bursts | requerido | - |
+| hit100{-n}.png | debería distinguirse claramente de todos los demás hit bursts | requerido | - |
+| hit100k{-n}.png | debería distinguirse claramente de todos los demás hit bursts | requerido | - |
+| hit300{-n}.png | debería distinguirse claramente de todos los demás hit bursts | requerido | - |
+| hit300g{-n}.png | debería distinguirse claramente de todos los demás hit bursts | requerido | - |
+| hit300k{-n}.png | debería distinguirse claramente de todos los demás hit bursts | requerido | - |
 | particle50.png | debería incluirse junto con todas las demás partículas; solo funcionará si se incluyen hit bursts personalizados | opcional | 7x7 píxeles |
 | particle100.png | debería incluirse junto con todas las demás partículas; solo funcionará si se incluyen hit bursts personalizados | opcional | 7x7 píxeles |
 | particle300.png | debería incluirse junto con todas las demás partículas; solo funcionará si se incluyen hit bursts personalizados | opcional | 7x7 píxeles |
@@ -98,7 +98,7 @@ La totalidad de este conjunto es relevante para el juego. Las superposiciones o 
 
 osu! tiene dos estilos para los spinners, de los cuales solo uno puede usarse en una skin al mismo tiempo. Usar elementos exclusivos de ambos **no está permitido**: si los elementos de ambos están presentes, el estilo antiguo tendrá prioridad.
 
-El estilo nuevo de los spinners solo funcionará si la skin específica del usuario no usa el antiguo y es compatible con la versión 2 o posteriores de las skin, o si la skin predeterminada está forzada en el beatmap.
+El estilo nuevo de los spinners solo funcionará si la skin específica del usuario no usa el antiguo y es compatible con la versión 2 o posteriores de las skins, o si la skin predeterminada está forzada en el beatmap.
 
 Todos los elementos de cada conjunto, excepto spinner-osu.png y spinner-rpm.png, son relevantes para el juego.
 
@@ -329,7 +329,7 @@ Estos elementos no son relevantes para el juego.
 
 ### Cuenta regresiva
 
-La totalidad de este conjunto es relevante para el juego. Este conjunto no debe usarse si el beatmap no usa cuentas regresivas.
+La totalidad de este conjunto es relevante para el juego. Estos elementos no deben usarse si el beatmap no usa cuentas regresivas.
 
 | Nombre del archivo | Notas | Estado del elemento | Tamaño recomendado para las skins SD |
 | --: | :-: | :-: | :-: |
