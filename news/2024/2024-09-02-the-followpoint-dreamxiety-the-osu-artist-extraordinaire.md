@@ -124,6 +124,8 @@ In 2022, you won every single seasonal osu! art contest with no other submission
 
 I guess anything is possible, although I wouldn't recommend trying to stay at the top for too long. Ever since I achieved that I've been staying lowkey in art contests for that reason. I just join more casually and don't even tell people that I joined.
 
+![](/wiki/shared/news/2024-09-02-the-followpoint-dreamxiety-the-osu-artist-extraordinaire/dreamxiety-contest-votes.jpg)
+
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/news/2024-09-02-the-followpoint-dreamxiety-the-osu-artist-extraordinaire/avatar-Utiba.jpeg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
