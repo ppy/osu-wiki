@@ -70,7 +70,7 @@ How did you get introduced to osu!, and what was your first impression of it?
 
 Maybe tmi but completely honest answer; my crush on 9th grade played it so I downloaded it too so I could play with him. Back then I knew nothing about anime or things like that, so it was kinda weird seeing most songs in the game be Japanese songs.
 
-I also thought it was really weird that even English songs have completely unrelated anime girl background. Obviously I'm now used to it and osu! was actually the main thing that exposed me to more anime and overall Japanese related things, although I'm still not an anime watcher type of person to this day.
+I also thought it was really weird that even English songs have completely unrelated anime girl backgrounds. Obviously I'm now used to it and osu! was actually the main thing that exposed me to more anime and overall Japanese related things, although I'm still not an anime watcher type of person to this day.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/news/2024-09-02-the-followpoint-dreamxiety-the-osu-artist-extraordinaire/avatar-Utiba.jpeg')"></a>
 
