@@ -46,7 +46,7 @@ Les personnes listées ci-dessous constituent le cœur de **l'osu! team** et son
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Intendant général |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | Développeur d'osu!, amoureux d'osu!mania, chasseur de bugs |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Développeur d'osu! |
-| ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | Designer |
+| ::{ flag=GB }:: [Tanza](https://osu.ppy.sh/users/10379965) | Designer |
 | ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) | développeur d'infrastructure d'osu! |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Intendant général, support aux tournois |
 | ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | Intendant général, balai-brosse |
