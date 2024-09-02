@@ -44,7 +44,7 @@ tags:
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | 총괄 관리자 |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | osu! 개발자, osu!mania 애호가, 버그 관련 담당자 |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | osu! 개발자 |
-| ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | 디자이너 |
+| ::{ flag=GB }:: [Tanza](https://osu.ppy.sh/users/10379965) | 디자이너 |
 | ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) | osu! 인프라 개발자 |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | 총괄 관리자, 토너먼트 보조 |
 | ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | 총괄 관리자, 빗자루 청소부 |
