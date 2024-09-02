@@ -40,7 +40,7 @@ Die unten aufgeführten Personen bilden den Kern des **osu!-Teams** und sind hau
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Allgemeiner Hausmeister |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | osu!-Entwickler, osu!mania-Liebhaber, Fehlerbeseitiger |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | osu!-Entwickler |
-| ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | Designer |
+| ::{ flag=GB }:: [Tanza](https://osu.ppy.sh/users/10379965) | Designer |
 | ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) | osu!-Entwickler für die Infrastruktur |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Allgemeiner Hausmeister, Turnierassistent |
 | ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | Allgemeiner Hausmeister, Besenfeger |
