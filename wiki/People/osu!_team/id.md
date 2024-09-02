@@ -44,7 +44,7 @@ Nama-nama di bawah ini merupakan anggota inti **tim osu!** yang secara utama ber
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Pengasuh umum |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | Pengembang osu!, pecinta osu!mania, penumpas *bug* |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Pengembang osu! |
-| ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | Desainer grafis |
+| ::{ flag=GB }:: [Tanza](https://osu.ppy.sh/users/10379965) | Desainer grafis |
 | ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) | Pengembang infrastruktur osu! |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Pengasuh umum, dukungan turnamen |
 | ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | Pengasuh umum, penjaga kebersihan komunitas |
