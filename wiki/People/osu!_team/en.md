@@ -40,7 +40,7 @@ The people listed below are the core of the **osu! team** and are chiefly respon
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | General housekeeper |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | osu! developer, osu!mania lover, bug buster |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | osu! developer |
-| ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | Designer |
+| ::{ flag=GB }:: [Tanza](https://osu.ppy.sh/users/10379965) | Designer |
 | ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) | osu! infrastructure developer |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | General housekeeper, tournament support |
 | ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | General housekeeper, broom sweeper |
