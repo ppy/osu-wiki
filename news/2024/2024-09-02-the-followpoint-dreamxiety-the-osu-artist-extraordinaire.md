@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Followpoint: Dreamxiety, the osu! Artist Extraordinaire"
-date: 2024-09-02 12:00:00 +0000
+date: 2024-09-02 13:00:00 +0000
 series: The Followpoint
 ---
 
