@@ -63,8 +63,6 @@ Behold, the full Round of 16 results, neatly arranged just for you!
 
 ## Match highlights
 
-text
-
 ### ::{ flag=SG }:: Singapore vs. ::{ flag=GB }:: United Kingdom
 
 [**You can view the match information here!**](https://osu.ppy.sh/community/matches/115309466)
