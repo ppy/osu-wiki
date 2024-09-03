@@ -26,11 +26,11 @@ Don't be fooled by the fact that the tournament is still in its early stages, th
 
 text relating to the map pool, "check out the new original"
 
-[![](/wiki/shared/news/2024-09-04-osumania-4k-world-cup-2024-round-of-16/tree_of_misery.jpg)](https://osu.ppy.sh/beatmapsets/2242640#mania/4766759)
+[![](/wiki/shared/news/2024-09-04-osumania-4k-world-cup-2024-round-of-16/les_cadences_magiques.jpg)](https://osu.ppy.sh/beatmapsets/2238686#mania/4757070)
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="https://assets.ppy.sh/artists/359/Sorrow%20Mania/cygnus%20-%20Tree%20of%20Misery.mp3">
+        <source src="https://assets.ppy.sh/artists/435/Songs/Supa7onyz%20feat.%205-let%20-%20Les%20Cadences%20Magiques.mp3">
     </audio>
 </div>
 
