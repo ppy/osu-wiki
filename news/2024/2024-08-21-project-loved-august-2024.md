@@ -41,6 +41,8 @@ As always, if you're interested in participating in Project Loved discussions fo
 
 The osu! Loved candidates were chosen by [Aistre](https://osu.ppy.sh/users/4879380), [chiv](https://osu.ppy.sh/users/6701656), [Lilian](https://osu.ppy.sh/users/8589120), [megumic](https://osu.ppy.sh/users/7537133), [Mismagius](https://osu.ppy.sh/users/19048), and [Skill](https://osu.ppy.sh/users/7802027)!
 
+**[Download the August 2024 Project Loved osu! beatmap pack here! (89 MB)](https://osu.ppy.sh/beatmaps/packs/LR8)**
+
 <div align="center">
   <video width="95%" controls>
     <source src="https://assets.ppy.sh/project-loved/2024/aug24-osu.mp4" type="video/mp4" preload="none">
@@ -199,6 +201,8 @@ Amassing nearly 100,000 playcount and 380+ favorites, there's no doubt that this
 
 The osu!taiko Loved candidates were chosen by [Boaz](https://osu.ppy.sh/users/13302996), [Eriha](https://osu.ppy.sh/users/16320311), and [Roxy-](https://osu.ppy.sh/users/11931563)!
 
+**[Download the August 2024 Project Loved osu!taiko beatmap pack here! (13 MB)](https://osu.ppy.sh/beatmaps/packs/LR7)**
+
 <div align="center">
   <video width="95%" controls>
     <source src="https://assets.ppy.sh/project-loved/2024/aug24-taiko.mp4" type="video/mp4" preload="none">
@@ -249,6 +253,8 @@ Are you ready to take these finishers head on? Make sure to cast your vote in th
 
 The osu!catch Loved candidates were chosen by [coolkid](https://osu.ppy.sh/users/7620002) and [wwwww](https://osu.ppy.sh/users/8434466)!
 
+**[Download the August 2024 Project Loved osu!catch beatmap pack here! (13 MB)](https://osu.ppy.sh/beatmaps/packs/LR6)**
+
 <div align="center">
   <video width="95%" controls>
     <source src="https://assets.ppy.sh/project-loved/2024/aug24-catch.mp4" type="video/mp4" preload="none">
@@ -286,6 +292,8 @@ Yep. You can't have a Project Loved without a zoomer hyperwalk map waltzing its 
 ## osu!mania
 
 The osu!mania Loved candidates were chosen by [Carpihat](https://osu.ppy.sh/users/10085090), [elexire](https://osu.ppy.sh/users/9206093), [Maxus](https://osu.ppy.sh/users/4335785), [Paturages](https://osu.ppy.sh/users/1375479), [Silhoueska Elze](https://osu.ppy.sh/users/11517895), [SunApple](https://osu.ppy.sh/users/11817622), [taba2](https://osu.ppy.sh/users/7850508), and [YuEast 2018](https://osu.ppy.sh/users/13953619)!
+
+**[Download the August 2024 Project Loved osu!mania beatmap pack here! (175 MB)](https://osu.ppy.sh/beatmaps/packs/LR5)**
 
 <div align="center">
   <video width="95%" controls>
