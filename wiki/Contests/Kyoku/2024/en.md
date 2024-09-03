@@ -146,7 +146,7 @@ Teams in **bold** successfully created and submitted an entry.
 | 31 | 10.50 | Endlessly Small Bombs |  | treegas500 - Prelude To An Agitated Spring |
 | 32 | 4.00 | Spojený Sekoitus | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/totalnormalfry/kyoku-2024stalled-superiority "SoundCloud") | TotalNormalFry & HappyAdam - Stalled Superiority (PuffballYT) |
 | 33 | 3.25 | :sob: |  | V3ARI - Light In The Dark |
-| *DNS* | Team Blue but Red | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/redside100/ultraviolet "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=FwgTUyMrxko "YouTube") | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/redside100/ultraviolet "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=FwgTUyMrxko "YouTube") | Redside - Ultraviolet |
+| *DNS* |  | Team Blue but Red | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/redside100/ultraviolet "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=FwgTUyMrxko "YouTube") | Redside - Ultraviolet |
 
 ## Rules
 
