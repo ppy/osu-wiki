@@ -28,9 +28,9 @@ Les personnes listées ci-dessous constituent le cœur de **l'osu! team** et son
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | [Modérateur](/wiki/People/Global_Moderation_Team), support technique |
 | ::{ flag=SK }:: [Domco](https://osu.ppy.sh/users/3562660) | Développeur d'osu! |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Mainteneur du projet et de la communauté, soutien au projet [Featured Artist](/wiki/People/Featured_Artists) |
-| ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765) | Responsable du design, observateur résident du Creative Cloud |
+| ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765) | Responsable du design, observateur résident du Creative Cloud |
 | ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | Développeur d'osu! |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Leader des [NAT](/wiki/People/Nomination_Assessment_Team), responsable du [Projet Loved](/wiki/Community/Project_Loved), secrétaire de Venix |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Intendant général, leader des [NAT](/wiki/People/Nomination_Assessment_Team), responsable du [Projet Loved](/wiki/Community/Project_Loved) |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Organisateur et administrateur de la [World Cup](/wiki/Tournaments#world-cups-officielles) |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Soutien au projet [Featured Artist](/wiki/People/Featured_Artists), secrétaire de la [World Cup](/wiki/Tournaments#world-cups-officielles) |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | Développeur d'osu!, support technique |
@@ -46,11 +46,11 @@ Les personnes listées ci-dessous constituent le cœur de **l'osu! team** et son
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Intendant général |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | Développeur d'osu!, amoureux d'osu!mania, chasseur de bugs |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Développeur d'osu! |
-| ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | Designer |
+| ::{ flag=GB }:: [Tanza](https://osu.ppy.sh/users/10379965) | Designer |
 | ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) | développeur d'infrastructure d'osu! |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Intendant général, support aux tournois |
 | ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | Intendant général, balai-brosse |
-| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Leader de la [GMT](/wiki/People/Global_Moderation_Team), Gestionnaire de la [Beatmap Spotlights](/wiki/Beatmap_Spotlights), Secrétaire de Hivie |
+| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Leader de la [GMT](/wiki/People/Global_Moderation_Team), Gestionnaire de la [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
 | ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | [Mainteneur du wiki](/wiki/People/osu!_wiki_maintainers), rédacteur en chef |
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | Espèces menacées |
 
