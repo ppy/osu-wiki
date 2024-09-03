@@ -85,4 +85,4 @@ Lee atentamente y sigue las [reglas](/wiki/Rules). Si no estás seguro sobre si 
 
 ## Notas
 
-[^restriction-length]: El tiempo que tendrás que esperar antes de apelar dependerá del motivo de la restricción. Si no estás seguro de cuánto dura tu restricción, envia un correo a [accounts@ppy.sh](mailto:accounts@ppy.sh). Para más información, consulta [Restricciones de cuenta](/wiki/Help_centre/Account_restrictions).
+[^restriction-length]: El tiempo que tendrás que esperar antes de apelar dependerá del motivo de la restricción. Si no estás seguro de cuánto dura tu restricción, envía un correo a [accounts@ppy.sh](mailto:accounts@ppy.sh). Para más información, consulta [Restricciones de cuenta](/wiki/Help_centre/Account_restrictions).
