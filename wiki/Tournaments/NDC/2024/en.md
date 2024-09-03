@@ -65,92 +65,100 @@ The National Dutch Championship 2024 is run by various community members.
 
 | Seed | Player | Global rank | Country rank |
 | :-: | :-- | :-: | :-: |
-| TBD | ::{ flag=NL }:: [LUCIANO](https://osu.ppy.sh/users/11604978) | #52 | #1 |
-| TBD | ::{ flag=NL }:: [Taylan_](https://osu.ppy.sh/users/16395194) | #294 | #5 |
-| TBD | ::{ flag=NL }:: [heyronii](https://osu.ppy.sh/users/5642779) | #749 | #9 |
-| TBD | ::{ flag=NL }:: [Skyrovania](https://osu.ppy.sh/users/4696315) | #765 | #11 |
-| TBD | ::{ flag=NL }:: [Ohio](https://osu.ppy.sh/users/14919428) | #770 | #11 |
-| TBD | ::{ flag=NL }:: [Dolter](https://osu.ppy.sh/users/6920104) | #936 | #13 |
-| TBD | ::{ flag=NL }:: [ahmet](https://osu.ppy.sh/users/16780708) | #988 | #14 |
-| TBD | ::{ flag=NL }:: [Nederland](https://osu.ppy.sh/users/15802126) | #1082 | #16 |
-| TBD | ::{ flag=NL }:: [chillington 15](https://osu.ppy.sh/users/6744123) | #1277 | #17 |
-| TBD | ::{ flag=NL }:: [wessel_osu2](https://osu.ppy.sh/users/4382220) | #2093 | #27 |
-| TBD | ::{ flag=NL }:: [WeederBoss0](https://osu.ppy.sh/users/21574224) | #2586 | #31 |
-| TBD | ::{ flag=NL }:: [permiss](https://osu.ppy.sh/users/8591929) | #2735 | #33 |
-| TBD | ::{ flag=NL }:: [Nihilet](https://osu.ppy.sh/users/641155) | #3273 | #35 |
-| TBD | ::{ flag=NL }:: [wooz](https://osu.ppy.sh/users/6888206) | #3365 | #37 |
-| TBD | ::{ flag=NL }:: [Stogdy](https://osu.ppy.sh/users/15120705) | #4218 | #44 |
-| TBD | ::{ flag=NL }:: [FietsAapje](https://osu.ppy.sh/users/10053936) | #4280 | #47 |
-| TBD | ::{ flag=NL }:: [darknessofUwU](https://osu.ppy.sh/users/23635008) | #4374 | #49 |
-| TBD | ::{ flag=NL }:: [Damnjelly](https://osu.ppy.sh/users/1666355) | #4883 | #59 |
-| TBD | ::{ flag=NL }:: [Kwal1976](https://osu.ppy.sh/users/18659783) | #5207 | #61 |
-| TBD | ::{ flag=NL }:: [SpaghetCat](https://osu.ppy.sh/users/16575519) | #5264 | #62 |
-| TBD | ::{ flag=NL }:: [Sleppie](https://osu.ppy.sh/users/16072104) | #5335 | #65 |
-| TBD | ::{ flag=NL }:: [AlphanTex](https://osu.ppy.sh/users/13298387) | #5589 | #68 |
-| TBD | ::{ flag=NL }:: [sofuraabu](https://osu.ppy.sh/users/7639453) | #5939 | #71 |
-| TBD | ::{ flag=NL }:: [Wittepoes](https://osu.ppy.sh/users/12984931) | #7068 | #79 |
-| TBD | ::{ flag=NL }:: [Goose King](https://osu.ppy.sh/users/9387696) | #7374 | #82 |
-| TBD | ::{ flag=NL }:: [kinda sus dude](https://osu.ppy.sh/users/9610588) | #7688 | #89 |
-| TBD | ::{ flag=NL }:: [tortvred](https://osu.ppy.sh/users/21505584) | #7990 | #91 |
-| TBD | ::{ flag=NL }:: [pregnant](https://osu.ppy.sh/users/15413621) | #8154 | #95 |
-| TBD | ::{ flag=NL }:: [bakastarz](https://osu.ppy.sh/users/17526675) | #8156 | #94 |
-| TBD | ::{ flag=NL }:: [cozyin](https://osu.ppy.sh/users/12200180) | #8616 | #98 |
-| TBD | ::{ flag=NL }:: [UnveiledGolem](https://osu.ppy.sh/users/14090438) | #8747 | #100 |
-| TBD | ::{ flag=NL }:: [wessel_osu1](https://osu.ppy.sh/users/6577301) | #9435 | #110 |
-| TBD | ::{ flag=NL }:: [Kyqn](https://osu.ppy.sh/users/15202512) | #9985 | #116 |
-| TBD | ::{ flag=NL }:: [SecretlyShiro](https://osu.ppy.sh/users/7498203) | #10458 | #119 |
-| TBD | ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264) | #10524 | #117 |
-| TBD | ::{ flag=NL }:: [blexdark](https://osu.ppy.sh/users/12832395) | #11068 | #126 |
-| TBD | ::{ flag=NL }:: [TheCoolJfp](https://osu.ppy.sh/users/7041796) | #11116 | #127 |
-| TBD | ::{ flag=NL }:: [Trehaloses](https://osu.ppy.sh/users/5570153) | #11517 | #133 |
-| TBD | ::{ flag=NL }:: [Telegy](https://osu.ppy.sh/users/16322001) | #13064 | #156 |
-| TBD | ::{ flag=NL }:: [Pamuwu](https://osu.ppy.sh/users/13032176) | #13282 | #155 |
-| TBD | ::{ flag=NL }:: [GeKa_Z](https://osu.ppy.sh/users/13233381) | #13443 | #163 |
-| TBD | ::{ flag=NL }:: [Devrimon](https://osu.ppy.sh/users/9425864) | #13565 | #162 |
-| TBD | ::{ flag=NL }:: [DJJDJ516](https://osu.ppy.sh/users/19412255) | #14040 | #167 |
-| TBD | ::{ flag=NL }:: [oetluller](https://osu.ppy.sh/users/15218429) | #14356 | #169 |
-| TBD | ::{ flag=NL }:: [faze-dank](https://osu.ppy.sh/users/13050074) | #15504 | #187 |
-| TBD | ::{ flag=NL }:: [draconia](https://osu.ppy.sh/users/20241831) | #16116 | #192 |
-| TBD | ::{ flag=NL }:: [NeonCircles](https://osu.ppy.sh/users/13702202) | #19586 | #226 |
-| TBD | ::{ flag=NL }:: [PotjeNutella](https://osu.ppy.sh/users/10926707) | #21201 | #244 |
-| TBD | ::{ flag=NL }:: [Heavymetal4life](https://osu.ppy.sh/users/21586994) | #22405 | #255 |
-| TBD | ::{ flag=NL }:: [Fubu](https://osu.ppy.sh/users/12719649) | #25022 | #286 |
-| TBD | ::{ flag=NL }:: [Gincli](https://osu.ppy.sh/users/11587229) | #29715 | #342 |
-| TBD | ::{ flag=NL }:: [Speed Kitty](https://osu.ppy.sh/users/15725070) | #30015 | #344 |
-| TBD | ::{ flag=NL }:: [Axeanz](https://osu.ppy.sh/users/14073866) | #32889 | #383 |
-| TBD | ::{ flag=NL }:: [Piglin](https://osu.ppy.sh/users/26139689) | #36593 | #432 |
-| TBD | ::{ flag=NL }:: [Bittshrooms](https://osu.ppy.sh/users/9250996) | #48175 | #563 |
-| TBD | ::{ flag=NL }:: [Kuuyomi](https://osu.ppy.sh/users/8607615) | #49042 | #571 |
-| TBD | ::{ flag=NL }:: [speedbeats24](https://osu.ppy.sh/users/15191079) | #52825 | #620 |
-| TBD | ::{ flag=NL }:: [matthijs661](https://osu.ppy.sh/users/17384912) | #62449 | #725 |
-| TBD | ::{ flag=NL }:: [-SanaBanana-](https://osu.ppy.sh/users/5371593) | #73109 | #866 |
-| TBD | ::{ flag=NL }:: [niles](https://osu.ppy.sh/users/11267587) | #92588 | #1101 |
-| TBD | ::{ flag=NL }:: [Aimy](https://osu.ppy.sh/users/20348925) | #94742 | #1125 |
-| TBD | ::{ flag=NL }:: [prins_off_hell](https://osu.ppy.sh/users/30975022) | #96685 | #1152 |
-| TBD | ::{ flag=NL }:: [Timmieturnerrr](https://osu.ppy.sh/users/18048714) | #122471 | #1428 |
-| TBD | ::{ flag=NL }:: [KawaiiSniperBoy](https://osu.ppy.sh/users/20524617) | #163763 | #1857 |
-| TBD | ::{ flag=NL }:: [Mrvos15](https://osu.ppy.sh/users/31773225) | #321975 | #3488 |
+| 1 | ::{ flag=NL }:: [Ohio](https://osu.ppy.sh/users/14919428) | #748 | #10 |
+| 2 | ::{ flag=NL }:: [draconia](https://osu.ppy.sh/users/20241831) | #15964 | #194 |
+| 3 | ::{ flag=NL }:: [LUCIANO](https://osu.ppy.sh/users/11604978) | #53 | #1 |
+| 4 | ::{ flag=NL }:: [wessel_osu2](https://osu.ppy.sh/users/4382220) | #2143 | #28 |
+| 5 | ::{ flag=NL }:: [Dolter](https://osu.ppy.sh/users/6920104) | #964 | #14 |
+| 6 | ::{ flag=NL }:: [Nederland](https://osu.ppy.sh/users/15802126) | #392 | #7 |
+| 7 | ::{ flag=NL }:: [heyronii](https://osu.ppy.sh/users/5642779) | #783 | #11 |
+| 8 | ::{ flag=NL }:: [Katie Djeestar](https://osu.ppy.sh/users/641155) | #3061 | #35 |
+| 9 | ::{ flag=NL }:: [PotjeNutella](https://osu.ppy.sh/users/10926707) | #21355 | #247 |
+| 10 | ::{ flag=NL }:: [chillington 15](https://osu.ppy.sh/users/6744123) | #1319 | #18 |
+| 11 | ::{ flag=NL }:: [Heavymetal4life](https://osu.ppy.sh/users/21586994) | #22648 | #258 |
+| 12 | ::{ flag=NL }:: [WeederBoss0](https://osu.ppy.sh/users/21574224) | #2434 | #31 |
+| 13 | ::{ flag=NL }:: [faze-dank](https://osu.ppy.sh/users/13050074) | #15615 | #188 |
+| 14 | ::{ flag=NL }:: [pregnant](https://osu.ppy.sh/users/15413621) | #8220 | #96 |
+| 15 | ::{ flag=NL }:: [FietsAapje](https://osu.ppy.sh/users/10053936) | #3499 | #38 |
+| 16 | ::{ flag=NL }:: [SecretlyShiro](https://osu.ppy.sh/users/7498203) | #10603 | #124 |
+| 17 | ::{ flag=NL }:: [wooz](https://osu.ppy.sh/users/6888206) | #3460 | #37 |
+| 18 | ::{ flag=NL }:: [sofuraabu](https://osu.ppy.sh/users/7639453) | #6093 | #73 |
+| 19 | ::{ flag=NL }:: [Goose King](https://osu.ppy.sh/users/9387696) | #7433 | #83 |
+| 20 | ::{ flag=NL }:: [Alphan](https://osu.ppy.sh/users/13298387) | #5588 | #69 |
+| 21 | ::{ flag=NL }:: [Wittepoes](https://osu.ppy.sh/users/12984931) | #7174 | #80 |
+| 22 | ::{ flag=NL }:: [permiss](https://osu.ppy.sh/users/8591929) | #2789 | #33 |
+| 23 | ::{ flag=NL }:: [cozyin](https://osu.ppy.sh/users/12200180) | #8422 | #99 |
+| 24 | ::{ flag=NL }:: [darknessofUwU](https://osu.ppy.sh/users/23635008) | #4373 | #48 |
+| 25 | ::{ flag=NL }:: [Damnjelly](https://osu.ppy.sh/users/1666355) | #5011 | #61 |
+| 26 | ::{ flag=NL }:: [Stogdy](https://osu.ppy.sh/users/15120705) | #4139 | #46 |
+| 27 | ::{ flag=NL }:: [UnveiledGolem](https://osu.ppy.sh/users/14090438) | #8972 | #107 |
+| 28 | ::{ flag=NL }:: [DJJDJ516](https://osu.ppy.sh/users/19412255) | #14060 | #169 |
+| 29 | ::{ flag=NL }:: [Trehaloses](https://osu.ppy.sh/users/5570153) | #11469 | #136 |
+| 30 | ::{ flag=NL }:: [TheCoolJfp](https://osu.ppy.sh/users/7041796) | #11354 | #134 |
+| 31 | ::{ flag=NL }:: [oetluller](https://osu.ppy.sh/users/15218429) | #14553 | #172 |
+| 32 | ::{ flag=NL }:: [GeKa_Z](https://osu.ppy.sh/users/13233381) | #12862 | #153 |
+| 33 | ::{ flag=NL }:: [wessel osu1](https://osu.ppy.sh/users/6577301) | #9667 | #114 |
+| 34 | ::{ flag=NL }:: [NeonCircles](https://osu.ppy.sh/users/13702202) | #19920 | #231 |
+| 35 | ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264) | #10753 | #127 |
+| 36 | ::{ flag=NL }:: [kinda sus dude](https://osu.ppy.sh/users/9610588) | #7865 | #90 |
+| 37 | ::{ flag=NL }:: [Axeanz](https://osu.ppy.sh/users/14073866) | #33341 | #385 |
+| 38 | ::{ flag=NL }:: [Speed Kitty](https://osu.ppy.sh/users/15725070) | #30435 | #351 |
+| 39 | ::{ flag=NL }:: [SpaghetCat](https://osu.ppy.sh/users/16575519) | #5139 | #63 |
+| 40 | ::{ flag=NL }:: [Pamuwu](https://osu.ppy.sh/users/13032176) | #13531 | #161 |
+| 41 | ::{ flag=NL }:: [Bittshrooms](https://osu.ppy.sh/users/9250996) | #48449 | #557 |
+| 42 | ::{ flag=NL }:: [matthijs661](https://osu.ppy.sh/users/17384912) | #62953 | #730 |
+| 43 | ::{ flag=NL }:: [tortvred](https://osu.ppy.sh/users/21505584) | #7681 | #88 |
+| 44 | ::{ flag=NL }:: [Fubu](https://osu.ppy.sh/users/12719649) | #25307 | #290 |
+| 45 | ::{ flag=NL }:: [prins_off_hell](https://osu.ppy.sh/users/30975022) | #87987 | #1047 |
+| 46 | ::{ flag=NL }:: [-SanaBanana-](https://osu.ppy.sh/users/5371593) | #65375 | #774 |
+| 47 | ::{ flag=NL }:: [speedbeats24](https://osu.ppy.sh/users/15191079) | #53486 | #625 |
+| 48 | ::{ flag=NL }:: [Piglin](https://osu.ppy.sh/users/26139689) | #36038 | #424 |
+| 49 | ::{ flag=NL }:: [KawaiiSniperBoy](https://osu.ppy.sh/users/20524617) | #143847 | #1647 |
+| 50 | ::{ flag=NL }:: [Aimy](https://osu.ppy.sh/users/20348925) | #95883 | #1139 |
 
 ## Mappools
+
+### Round of 32
+
+**[Download the mappack here!](https://tourney.huismetbenen.nl/25/mappools/ro32)**
+
+- Nomod
+  1. [Naoki Miki (CV: Takahashi Rie) & Ebisuzawa Kurumi (CV: Ozawa Ari) - Unhappy End World (Yasaija 714) [kotachi's Happiness]](https://osu.ppy.sh/beatmapsets/823259#osu/1725346)
+  2. [69 de 74 - Grievous Fate (LeCandy) [candy]](https://osu.ppy.sh/beatmapsets/1948450#osu/4032765)
+  3. [Rita, Asari*, Tezuka Ryouko - Hajimari no Toki (Moete) [Expert]](https://osu.ppy.sh/beatmapsets/1693856#osu/3461177)
+  4. [Krewella x Diskord - Beggars (Consouls Remix) (NeilPerry) [Neil x Ameth's Conflux]](https://osu.ppy.sh/beatmapsets/881753#osu/1843575)
+  5. [Shiina Ringo - Jinsei wa Yume Darake (melloe) [Life is Full of Dreams]](https://osu.ppy.sh/beatmapsets/934179#osu/1950368)
+- Hidden
+  1. [:) feat. KAFU - Alma (Ducky-) [:\]]](https://osu.ppy.sh/beatmapsets/1677752#osu/3457205)
+  2. [capitaro - Tenshinranman High Collar Hime (dakiwii) [Ix's Inner Oni]](https://osu.ppy.sh/beatmapsets/2160056#osu/4554728)
+- Hardrock
+  1. [siinamota - Uta o Utau Hito (Renumi) [toybot's Extra]](https://osu.ppy.sh/beatmapsets/759268#osu/2101658)
+  2. [Porter Robinson - Flicker (AJT) [Prototype]](https://osu.ppy.sh/beatmapsets/1235663#osu/2568606)
+- Double Time
+  1. [Chata - anesthesia (vikala) [Empty]](https://osu.ppy.sh/beatmapsets/1148598#osu/2398024)
+  2. [Zeami feat. Tenshi - Tenyou no Mai (dasdwqdf) [Lasse's Insane]](https://osu.ppy.sh/beatmapsets/2040861#osu/4258599)
+  3. [Yasutaka Nakata - Crazy Crazy (feat. Charli XCX & Kyary Pamyu Pamyu) (VINXIS) [DW's Another]](https://osu.ppy.sh/beatmapsets/972538#osu/2036204)
+- Tiebreaker
+  1. **[BABYMETAL - Tales of The Destinies (MashaSG) [Now and Forever]](https://osu.ppy.sh/beatmapsets/625702#osu/1414400)**
 
 ### Qualifiers
 
 **[Download the mappack here!](https://tourney.huismetbenen.nl/25/mappools/ql)**
 
 - Nomod
-  1. [HACHI - MATRYOSHKA (Luscent) [Expert]](https://osu.ppy.sh/beatmapsets/1824623#osu/3744361/3744361)
-  2. [xi - Blue Zenith (Asphyxia) [ktgster's Extreme]](https://osu.ppy.sh/beatmapsets/292301#osu/657917/657917)
-  3. [PeriTune - Prairie4 (captin1) [Extra]](https://osu.ppy.sh/beatmapsets/1543431#osu/3154910/3154910)
-  4. [Juggernaut. - Rebellion (Wispy) [Extra.]](https://osu.ppy.sh/beatmapsets/2125782#osu/4468368/4468368)
+  1. [HACHI - MATRYOSHKA (Luscent) [Expert]](https://osu.ppy.sh/beatmapsets/1824623#osu/3744361)
+  2. [xi - Blue Zenith (Asphyxia) [ktgster's Extreme]](https://osu.ppy.sh/beatmapsets/292301#osu/657917)
+  3. [PeriTune - Prairie4 (captin1) [Extra]](https://osu.ppy.sh/beatmapsets/1543431#osu/3154910)
+  4. [Juggernaut. - Rebellion (Wispy) [Extra.]](https://osu.ppy.sh/beatmapsets/2125782#osu/4468368)
 - Hidden
-  1. [Camellia - Kono Hoshi de.... (Snow Note) [Another]](https://osu.ppy.sh/beatmapsets/106693#osu/280034/280034)
-  2. [paraoka feat. haru*nya - Manimani (Cut ver.) (Cellina) [Hananoiro]](https://osu.ppy.sh/beatmapsets/2008891#osu/4179280/4179280)
+  1. [Camellia - Kono Hoshi de.... (Snow Note) [Another]](https://osu.ppy.sh/beatmapsets/106693#osu/280034)
+  2. [paraoka feat. haru*nya - Manimani (Cut ver.) (Cellina) [Hananoiro]](https://osu.ppy.sh/beatmapsets/2008891#osu/4179280)
 - Hardrock
-  1. [BUTAOTOME - Yurara Kamishibai (sstari) [Expert]](https://osu.ppy.sh/beatmapsets/2148067#osu/4717103/4717103)
-  2. [Warak - REANIMATE (iyasine) [Azer's Extra]](https://osu.ppy.sh/beatmapsets/186318#osu/459845/459845)
+  1. [BUTAOTOME - Yurara Kamishibai (sstari) [Expert]](https://osu.ppy.sh/beatmapsets/2148067#osu/4717103)
+  2. [Warak - REANIMATE (iyasine) [Azer's Extra]](https://osu.ppy.sh/beatmapsets/186318#osu/459845)
 - Double Time
-  1. [FELT - Flower Flag (MZC Echoes the Spring Liquid Mix) (Frostmourne) [Lunatic]](https://osu.ppy.sh/beatmapsets/55945#osu/169450/169450)
-  2. [frederic - Junkie (elicz1) [XLT's Insane]](https://osu.ppy.sh/beatmapsets/2078299#osu/4387718/4387718)
+  1. [FELT - Flower Flag (MZC Echoes the Spring Liquid Mix) (Frostmourne) [Lunatic]](https://osu.ppy.sh/beatmapsets/55945#osu/169450)
+  2. [frederic - Junkie (elicz1) [XLT's Insane]](https://osu.ppy.sh/beatmapsets/2078299#osu/4387718)
 
 ## Ruleset
 
