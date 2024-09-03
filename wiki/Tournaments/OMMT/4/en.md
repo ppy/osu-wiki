@@ -107,9 +107,38 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 
 *Note: Maps marked with an asterisk are considered to be "MAD" maps. It is a twist from the organiser to make certain map unbannable, and on some occasions will force players to use certain mods. Each stage may have different kinds of MAD twists as detailed before the mappools.*
 
+### Grand Finals
+
+**[Download the mappack here (163 MB)](https://drive.google.com/file/d/1YDT14zcsl1VdfRdV6mtKRmR1JPWHzRIq/view?usp=sharing)**
+
+\*The Grand Finals' MAD maps are **HB1** and **HB3**. HB1 contains reverse Long Notes (LN), making it a challenge of visual comprehension. HB3 uses Slider Velocity (SV), which HB maps tend to not have.
+
+- RC
+  1. [t+pazolite - Call me it. (500 Tortures) (Oceanus) \[Tera x Oceanus' Apocalypse.\]](https://osu.ppy.sh/beatmapsets/2230749#mania/4734244)
+  2. [SHIKI - Pure Ruby (Hylotl) \[Red\]](https://osu.ppy.sh/beatmapsets/1668295#mania/3455501)
+  3. [Midian - This Is OMMT4 (remity\_) \[midian: "bro who hurt u"\]](https://osu.ppy.sh/beatmapsets/2231018#mania/4735025)
+  4. [-Ryo- - Sky is the Limit (Oceanus) \[Flight\]](https://osu.ppy.sh/beatmapsets/2230751#mania/4734247)
+  5. [Noah - World's end - Millefolium (Cut Ver.) (Onlinee) \[11Bit's End of the World\]](https://osu.ppy.sh/beatmapsets/2230842#mania/4734487)
+  6. [MisoilePunch - Overrrload!! (\[GS\]hina) \[Full\_F14v@r!! 1.1x (244bpm)\]](https://osu.ppy.sh/beatmapsets/2230745#mania/4734233)
+  7. [KikuoHana - Desert Theater (\[GS\]hina) \[Indefinite Mirage\]](https://osu.ppy.sh/beatmapsets/2230744#mania/4734228)
+- LN
+  1. [Midian - Spiked Circuit (MyZterioN-) \[MyZ x Lott // Energy Overload\]](https://osu.ppy.sh/beatmapsets/2230775#mania/4734291)
+  2. [USAO - Cthugha (YuEast 2018) \[1.05 2.1 3.15 Fire\]](https://osu.ppy.sh/beatmapsets/1976044#mania/4101374)
+  3. [Feryquitous feat. Aitsuki Nakuru - Kairikou (Cut Ver.) (KimMui) \[Ticle's along the loose knots (edit)\]](https://osu.ppy.sh/beatmapsets/2098904#mania/4402737)
+  4. [Ribonnu - Hearts (Kruppol) \[Cry+\]](https://osu.ppy.sh/beatmapsets/1815367#mania/3724198)
+- HB
+  1. [sakuraburst - descent (Abraxos) \[nu@^\*ll\_\_\_po?/int-=er\_\_\_exce\*))pti\on.\]](https://osu.ppy.sh/beatmapsets/554516#mania/1173935)\*
+  2. [jizue - rosso (Live at Kyoto Concert Hall 2019.10.19) (\[HD\]Softer64) \[The Dance of Falling Red Petals. // Cut ver.\]](https://osu.ppy.sh/beatmapsets/2230829#mania/4734414)
+  3. [LeaF - I (AstalFanBoy) \[FOR WITHOUT SALVATION, THERE MUST BE NO LIGHT\]](https://osu.ppy.sh/beatmapsets/2224825#mania/4718590)\*
+- SV
+  1. [Kurorak - BREACH PROTOCOL (Daikyi) \[SVooky\]](https://osu.ppy.sh/beatmapsets/1050571#mania/4591863)
+  2. [Ardolf - Bloodmoon (awdse22) \[Beneath The Crimson Night\]](https://osu.ppy.sh/beatmapsets/2230750#mania/4734245)
+- Tiebreaker
+  1. **[takehirotei - Sincerely, Maya (IvanOfficial) \[To, All of You\]](https://osu.ppy.sh/beatmapsets/2230825#mania/4734401)**
+
 ### Finals
 
-**[Download the mappack here (198 MB)](https://drive.google.com/file/d/1Jo5jqsAtuMiBvzhUsJ0hBj_XZO4Qsryo/view?usp=sharing)**
+**[Download the mappack here (173 MB)](https://drive.google.com/file/d/1ydF2QZ0uv9HB8m_HeT_1HKpccVxeu2oK/view?usp=sharing)**
 
 \*The Finals' MAD map is **SV2**. The twist is that it has to be played with storyboard turned on and 0% background dim.
 
@@ -138,7 +167,7 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 
 ### Semifinals
 
-**[Download the mappack here (145 MB)](https://drive.google.com/file/d/1ThPATohDdVNZvvyqRqwOgEDl1DhlMCbh/view?usp=sharing)**
+**[Download the mappack here (145 MB)](https://drive.google.com/file/d/1GvgEuibPw5LbgpqbwM2yCakRJw4UoM5Z/view?usp=sharing)**
 
 \*The Semifinals' MAD map is **RC5**. The twist is that it has to be played with the **Random** mod.
 
@@ -165,7 +194,7 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 
 ### Quarterfinals
 
-**[Download the mappack here (182 MB)](https://drive.google.com/file/d/1kUicxHDFhed2V-E05QI3Ymx9kJSsJWii/view?usp=sharing)**
+**[Download the mappack here (182 MB)](https://drive.google.com/file/d/1VIi45i1N5ep1sjXn4exnyMpqHfTiqZoz/view?usp=sharing)**
 
 \*The Quarterfinals' MAD map is **RC4**. The twist is that it has to be played with the **Double Time** mod.
 
@@ -192,7 +221,7 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 
 ### Round of 16
 
-**[Download the mappack here (70 MB)](https://cdn.discordapp.com/attachments/1257367722136703087/1262440243164876902/bomb16.zip?ex=66974358&is=6695f1d8&hm=a3a1f2b1c9a6c95087a670093e210a5bab23026440ad6196f5df35487281bed1&)**
+**[Download the mappack here (73 MB)](https://drive.google.com/file/d/1OcY1lH1PVCF5BvhPs7gSKs2SguIAMkPF/view?usp=sharing)**
 
 \*The Round of 16's MAD map is **LN3**. The twist is that the map has reverse shield patterns with little to no spacing. To balance it, OD 0 was set for the map.
 
@@ -217,7 +246,7 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 
 ### Round of 32
 
-**[Download the mappack here (94 MB)](https://cdn.discordapp.com/attachments/1257367722136703087/1259895755179556937/bomb.zip?ex=668e019b&is=668cb01b&hm=0e312cd523c626b8f5c647df75c953dc5eef7f7946e5b8b6d6335b10c3791211&)**
+**[Download the mappack here (93 MB)](https://drive.google.com/file/d/1yGajSj-kXvBso9rl_b4dYwrdxcLmgwQ9/view?usp=sharing)**
 
 \*The Round of 32's MAD map is **RC3**. The twist is that it has to be played with the **Hard Rock** mod.
 
@@ -242,7 +271,7 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 
 ### Qualifiers
 
-**[Download the mappack here (29 MB)](https://drive.google.com/file/d/1vCR7t66Y7GUvGH1tg60dqtQSdYlH0RyX/view)**\
+**[Download the mappack here (29 MB)](https://drive.google.com/file/d/1VO55xlCF26aY_dbFQOLwNBeA5EeyJpDr/view?usp=sharing)**\
 [View the showcase VOD here](https://www.youtube.com/watch?v=D9pbwM-ApbM)
 
 - SV
@@ -257,6 +286,22 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
   1. [awfuless meets Zekk - MATOI -phase L- (\[Andre\]) \[Stage 5: Kamui Senketsu\]](https://osu.ppy.sh/beatmapsets/2206995#mania/4673206)
 
 ## Match results
+
+### Finals
+
+Saturday, 10 August 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Overjoyed | 4 | **7** | **how to train your dragon** | [#1](https://osu.ppy.sh/community/matches/115023302) |
+| **Re:Zuna** | **7** | 0 | Digital Frogs | [#1](https://osu.ppy.sh/community/matches/115023702) |
+
+Sunday, 11 August 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| how to train your dragon | 6 | **7** | **Re:Zuna** | [#1](https://osu.ppy.sh/community/matches/115037106) |
+| **leon's waifuus!!** | **7** | 3 | Gon and LongGone | [#1](https://osu.ppy.sh/community/matches/115037104) |
 
 ### Semifinals
 
