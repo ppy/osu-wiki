@@ -42,7 +42,7 @@ El desarrollo de osu! está liderado por ::{ flag=AU }:: **[peppy](https://osu.p
 
 ### Diseñadores
 
-- ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765)
+- ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765)
 
 ### Gerentes de la comunidad
 
