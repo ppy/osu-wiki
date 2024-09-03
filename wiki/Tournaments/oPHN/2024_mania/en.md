@@ -72,7 +72,7 @@ The following players qualified for the tournament:
 | :-- | :-- |
 | 1 | ::{ flag=PH }:: [Plana\_](https://osu.ppy.sh/users/24776314) |
 | 2 | ::{ flag=PH }:: [Silicosis 2](https://osu.ppy.sh/users/18560307) |
-| 3 | ::{ flag=PH }:: [Unitori-](https://osu.ppy.sh/users/15772814) |
+| 3 | ::{ flag=BH }:: [Unitori-](https://osu.ppy.sh/users/15772814) |
 | 4 | ::{ flag=PH }:: [lyvet](https://osu.ppy.sh/users/18121419) |
 | 5 | ::{ flag=PH }:: [Soir0116](https://osu.ppy.sh/users/13193798) |
 | 6 | ::{ flag=PH }:: [Silicosis](https://osu.ppy.sh/users/15548876) |
@@ -253,7 +253,7 @@ This competition ended with the following podiums:
 
 **[You may download the mappack here](https://drive.google.com/file/d/1LLqdWfaQi-Dly-gqhOIgaPFjuViP1MHD/view?usp=sharing)**
 
-1. [The Contortionist - Reimagined (epic man 2) \[Breathe again. \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/2186777#mania/4623484)
+1. [The Contortionist - Reimagined (epic man 2) \[Stage 1: Breathe again.\]](https://osu.ppy.sh/beatmapsets/2186777#mania/4634855)
 2. [LeaF - Monkey Business -Satire mix- (ElzeFanBoy) \[Stage 2: Banana Split\]](https://osu.ppy.sh/beatmapsets/2186685#mania/4623265)
 3. [AAAA - Hoshi o Meguru Tabi (Gerwin13) \[Stage 3: Reliving Memories\]](https://osu.ppy.sh/beatmapsets/2186681#mania/4623259)
 4. [femtanyl - LOVESICK, CANNIBAL! (feat  takihasdied) (\[GS\]Rose) \[Stage 4: Yearning Torment\]](https://osu.ppy.sh/beatmapsets/2186666#mania/4623230)
