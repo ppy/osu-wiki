@@ -2,7 +2,7 @@
 
 ![Kyoku 2024 banner](https://assets.ppy.sh/contests/211/banner.jpg)
 
-**Kyoku 2024** is a beatmapping and original song contest, where mappers team up with music producers to compete in fully original submissions, hosted by [bokeru](https://osu.ppy.sh/users/11308433), [chidodou](https://osu.ppy.sh/users/13868581), [Supportive](https://osu.ppy.sh/users/21482068), and [Whithard](https://osu.ppy.sh/users/24552396).
+**Kyoku 2024** was a beatmapping and original song contest, where mappers teamed up with music producers to compete in fully original submissions, hosted by [bokeru](https://osu.ppy.sh/users/11308433), [chidodou](https://osu.ppy.sh/users/13868581), [Supportive](https://osu.ppy.sh/users/21482068), and [Whithard](https://osu.ppy.sh/users/24552396).
 
 ## Schedule
 
