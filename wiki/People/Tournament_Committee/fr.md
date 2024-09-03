@@ -1,4 +1,6 @@
 ---
+outdated_since: b37ff19ef3e17565b07306a78c9aef1029181f71
+outdated_translation: true
 no_native_review: true
 tags:
   - TC
