@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Discord-Server
 
 Dieser Artikel listet verschiedene [Discord-Server](https://discord.com/) auf, die von der osu!-Community aufgebaut und gepflegt werden, um Diskussionsräume für die vielen Facetten des Spiels zu schaffen. Einige fokussieren sich auf die Verwaltung bestimmter Projekte, während andere allgemein gehalten werden. Die meisten davon haben gemeinsam, dass sie Kanäle für Smalltalk bereitstellen.
