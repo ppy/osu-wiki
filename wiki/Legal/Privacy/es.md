@@ -18,7 +18,7 @@ Para poder ofrecerle estos servicios, debemos habitualmente recoger, almacenar y
 
 Este documento busca describir que información recogemos en nuestra red y, en el uso de nuestros productos y servicios, cómo usamos esa información y qué opciones le ofrecemos para controlar su información personal.
 
-Al usar nuestro servicio, confirma que ha leído y comprendido los [Términos de servicio](/wiki/Legal/Terms) y esta política de privacidad, incluyendo cómo y por qué usamos su información y que su uso del servicio está sujeto a los Términos de Servicio aplicables y esta Política de Privacidad. Si desea que no recojamos o procesemos su información personal como se describe en este documento, tiene distintas opciones, como limitar la información que recogemos de usted, o no usar la red, o nuestros Productos y Servicios.
+Al usar nuestro servicio, confirma que ha leído y comprendido los [términos del servicio](/wiki/Legal/Terms) y esta política de privacidad, incluyendo cómo y por qué usamos su información y que su uso del servicio está sujeto a los términos del servicio aplicables y esta política de privacidad. Si desea que no recojamos o procesemos su información personal como se describe en este documento, tiene distintas opciones, como limitar la información que recogemos de usted, o no usar la red, o nuestros Productos y Servicios.
 
 ## Información que recogemos
 
