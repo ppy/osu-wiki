@@ -24,7 +24,7 @@ Don't be fooled by the fact that the tournament is still in its early stages, th
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2233735176&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-The map pool size has increased for this week by introducing two new slots — chordjack ([RC3](https://osu.ppy.sh/beatmapsets/2238657#mania/4757017)) and hybrid 3 ([HB3](https://osu.ppy.sh/beatmapsets/2238644#mania/4756987)). Chordjack is straightforward in the same sense as jumpstream, but challenges a completely different skill set which players are absurdly good at, which can lead to a single 200 causing a team to lose a point they would've won otherwise. You can be sure to look forward to some extremely high scores for this pick in future rounds.
+The mappool size has increased for this week by introducing two new slots — chordjack ([RC3](https://osu.ppy.sh/beatmapsets/2238657#mania/4757017)) and hybrid 3 ([HB3](https://osu.ppy.sh/beatmapsets/2238644#mania/4756987)). Chordjack is straightforward in the same sense as jumpstream, but challenges a completely different skill set which players are absurdly good at, which can lead to a single 200 causing a team to lose a point they would've won otherwise. You can be sure to look forward to some extremely high scores for this pick in future rounds.
 
 On the other hand, hybrid 3 is the last slot for the category, with it typically being much more technical and harder than the other two, leading it to pose more of a raw skill over accuracy approach for players.
 
@@ -40,7 +40,9 @@ With that said and done, this round also brought us one new osu! original and fe
     </audio>
 </div>
 
-[Toaph Daddy](https://osu.ppy.sh/users/7616811) brings us MWC4K's very first SV original! The amount of people who wanted one has grown from last year, and we can finally present you with [Les Cadences Magiques](https://osu.ppy.sh/beatmapsets/2238686#mania/4757071), brought to you by our newest Featured Artist and fellow mania player, [Supa7onyz](https://osu.ppy.sh/users/5378805)! You may find yourself learning this quite fast, but the real challenge lies within how deceptively tricky it is to get good accuracy on, as the amount of polyrhythms and 1/5 snaps have a large play into the charts gimmick. Click the banner to give it a go for yourself!
+[Toaph Daddy](https://osu.ppy.sh/users/7616811) brings us MWC4K's very first SV original! The amount of people who wanted one has grown from last year, and we can finally present you with [Les Cadences Magiques](https://osu.ppy.sh/beatmapsets/2238686#mania/4757071), brought to you by our newest Featured Artist and fellow mania player, [Supa7onyz](https://osu.ppy.sh/users/5378805)!
+
+You may find yourself learning this quite fast, but the real challenge lies within how deceptively tricky it is to get good accuracy on, as the amount of polyrhythms and 1/5 snaps have a large play into the charts gimmick. Click the banner to give it a go for yourself!
 
 ## Round of 16 results
 
