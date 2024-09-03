@@ -41,7 +41,7 @@ Save your precious fingers from scrolling too much by skipping to any section be
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Ew8lA40LtH8" frameborder="0" allowfullscreen></iframe>
 </div>
 
-[uone](https://osu.ppy.sh/users/5321719) has been a [contest points](/wiki/Contests/Contest_points) collector recently. After winning [Twin Trials](/wiki/Contests/Twin_Trials_Contest), [Vocaloid Mapping Contest 2](/wiki/Contests/VMC/2), and June's MBC, he's earned his well-deserved status in the halls of our *Elite Mapper*s!
+[uone](https://osu.ppy.sh/users/5321719) has been a [contest point](/wiki/Contests/Contest_points) collector recently. After winning [Twin Trials](/wiki/Contests/Twin_Trials_Contest), [Vocaloid Mapping Contest 2](/wiki/Contests/VMC/2), and June's MBC, he's earned his well-deserved status in the halls of our *Elite Mappers*!
 
 Special thanks to [arcpotato](https://osu.ppy.sh/users/12842392), [meiqth](https://osu.ppy.sh/users/12565402), [Yasuho](https://osu.ppy.sh/users/8458835), and [SimplySynthy](https://osu.ppy.sh/users/15272997) for judging!
 
@@ -100,7 +100,7 @@ We're taking the middleground out of osu!catch.
 
 This month's limitation: **dashes are not allowed**.
 
-For extra clarity, this means the distance between each object must be *walkable* or a *hyperdash*. If you need to press the dash button for any objects that aren't outlined in red, you're doing it wrong. 
+For extra clarity, this means the distance between each object must be *walkable* or a *hyperdash*. If you need to press the dash button for any objects that aren't outlined in red, you're doing it wrong.
 
 ### Songs
 
