@@ -24,15 +24,17 @@ Don't be fooled by the fact that the tournament is still in its early stages, th
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2233735176&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-text
+text relating to the map pool, "check out the new original"
 
 [![](/wiki/shared/news/2024-09-04-osumania-4k-world-cup-2024-round-of-16/tree_of_misery.jpg)](https://osu.ppy.sh/beatmapsets/2242640#mania/4766759)
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="potentially useful https://assets.ppy.sh/artists/359/Sorrow%20Mania/cygnus%20-%20Tree%20of%20Misery.mp3">
+        <source src="https://assets.ppy.sh/artists/359/Sorrow%20Mania/cygnus%20-%20Tree%20of%20Misery.mp3">
     </audio>
 </div>
+
+go into map detail for the original
 
 ## Round of 16 results
 
