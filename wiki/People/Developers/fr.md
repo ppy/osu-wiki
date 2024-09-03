@@ -40,7 +40,7 @@ L'effort de développement d'osu! est dirigé par ::{ flag=AU }:: **[peppy](http
 
 ### Designers
 
-- ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765)
+- ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765)
 
 ### Responsables de la communauté
 
