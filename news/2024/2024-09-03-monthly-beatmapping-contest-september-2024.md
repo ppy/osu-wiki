@@ -26,7 +26,7 @@ Save your precious fingers from scrolling too much by skipping to any section be
 
 ### osu!taiko results
 
-[See the full results here.](https://mappersguild.com/contests/listing?contest=66849f42dc1247de2c30ea9a)
+[See the full results here.](https://mappersguild.com/contests/results?contest=66849f42dc1247de2c30ea9a)
 
 #### Summary
 
@@ -47,7 +47,7 @@ Special thanks to [arcpotato](https://osu.ppy.sh/users/12842392), [meiqth](https
 
 ### osu!catch results
 
-[See the full results here.](https://mappersguild.com/contests/listing?contest=6684a3dcdc1247de2c30ec4c)
+[See the full results here.](https://mappersguild.com/contests/results?contest=6684a3dcdc1247de2c30ec4c)
 
 #### Summary
 
