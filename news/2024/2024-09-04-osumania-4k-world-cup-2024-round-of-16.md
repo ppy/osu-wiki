@@ -24,7 +24,7 @@ Don't be fooled by the fact that the tournament is still in its early stages —
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2233735176&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-The mappool size has increased for this week by introducing two new slots: chordjack ([RC3](https://osu.ppy.sh/beatmapsets/2238657#mania/4757017)) and Hybrid 3 ([HB3](https://osu.ppy.sh/beatmapsets/2238644#mania/4756987)). Chordjack is straightforward in the same sense as jumpstream, but challenges a completely different skill set which players are absurdly good at, which can lead to a single 200 causing a team to lose a point they would've won otherwise. You can be sure to look forward to some extremely high scores for this pick in future rounds.
+The mappool size has increased for this week by introducing two new slots: Chordjack 3 ([RC3](https://osu.ppy.sh/beatmapsets/2238657#mania/4757017)) and Hybrid 3 ([HB3](https://osu.ppy.sh/beatmapsets/2238644#mania/4756987)). Chordjack is straightforward in the same sense as jumpstream, but challenges a completely different skill set which players are absurdly good at, which can lead to a single 200 causing a team to lose a point they would've won otherwise. You can be sure to look forward to some extremely high scores for this pick in future rounds.
 
 On the other hand, Hybrid 3 is the last slot for the category, with it typically being much more technical and harder than the other two, demanding more raw skill than accuracy from players.
 
