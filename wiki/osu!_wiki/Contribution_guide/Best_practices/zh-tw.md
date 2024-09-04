@@ -37,9 +37,7 @@
    ![GitHub 網站上的表格截圖如下述](img/github-actions-workflow-dispatch.png "GitHub操作workflow目錄")
 
    - **Use workflow from**: 從...使用workflow，選擇你想要同步的分支的名稱。預設為`master`。
-
    - **Create a backup of the selected branch**: 創建已選分支的備份，在嘗試更新前，創建一個叫`{分支名稱}-backup`的複本。
-
    - **Overwrite all history of the selected branch**: 覆寫已選分支的所有修改，用`ppy:master`覆寫你分支內的所有內容，忽略所有不同的修改。預設會將`ppy:master`合併到已選分支內。
 
 4. 按`Run workflow`(執行workflow)並等待它運行完畢。如果你好奇它的運作，可以按`Sync with ppy:master` workflow 工作。
