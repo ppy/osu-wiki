@@ -118,4 +118,4 @@ Quarterfinals are up next, and with the way these matches have already been play
 
 As always, check out the match schedule (and all other minute MWC4K details) on the [official wiki page](/wiki/Tournaments/MWC/2024_4K), and once you've selected the matches you can't afford to miss, come watch it live with the community on the [osu!live Twitch channel](https://www.twitch.tv/osulive).
 
-—0x84f, elexire, RandomeLoL, Utiba, [GB]yobrevelc
+—0x84f, elexire, RandomeLoL, Utiba, \[GB\]yobrevelc
