@@ -108,7 +108,7 @@ Both teams performed quite well, and there were many maps where all 6 players FC
 Players are beginning to pick up some steam as new rounds go by. To say we have had some standouts would be far from the truth — in fact we've got plenty of them! Not all heroes wear capes; some just want to smash keys.
 
 - ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610)'s performance thus far has been exceptional. Having the best score on **5 picks** this round makes it really hard to pick one to highlight. But their performance in [NU-KO - Pochiko no Shiawase na Nichijou](https://osu.ppy.sh/beatmapsets/2238649#mania/4757002) (LN2) with a 998,545 score [against Canada](https://www.twitch.tv/videos/2239366528) shouldn't be overlooked!
-- In a tournament full of prodigies, it is hard to make oneself stand out amongst them. And yet, that's exactly what ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805) has accomplished, with their astonishing score of 997,947 in [Reizoko Cj - /a/](https://osu.ppy.sh/beatmapsets/2238283#mania/4755965) in their match [vs. Hong Kong](https://www.twitch.tv/videos/2239818596).
+- In a tournament full of prodigies, it is hard to make oneself stand out amongst them. And yet, that's exactly what ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805) has accomplished, with their astonishing score of 997,947 in [Reizoko Cj - /a/](https://osu.ppy.sh/beatmapsets/2238283#mania/4755965) in their [match vs. Hong Kong](https://www.twitch.tv/videos/2239818596).
 
 We've really only just begun, however. What matters most is who's left standing at the end of the weeks to come.
 
