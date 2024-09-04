@@ -92,9 +92,9 @@ If you're confused about how these work, ask for clarification in the comments, 
 
 As a professional mapper, you're familiar with the ins and outs of star rating (including how easily manipulated it can be). Now's your chance to put that knowledge to use.
 
-This month's limitation: **create an Inner Oni difficulty that's no more than 4 stars**.
+This month's limitation: **create an Inner Oni difficulty that's no more than 4.0 stars**.
 
-Creativity will be your best friend here. While it's effortless to make a map under 4 stars, your goal is to make something difficult and interesting while staying under the star rating restriction!
+Creativity will be your best friend here. While it's effortless to make a map under 4.0 stars, your goal is to make something difficult and interesting while staying under the star rating restriction!
 
 #### osu!catch
 
