@@ -6,7 +6,7 @@ date: 2024-09-06 20:00:00 +0000
 
 Finally, osu!(lazer) updates.
 
-![](/wiki/shared/news/2024-08-17-osu-lazer-updates-august-16-2024/banner.jpg)
+![](/wiki/shared/news/2024-09-06-osu-lazer-updates-september-06-2024/banner.jpg)
 
 The developers put great effort into polishing various aspects of the game for the past month, and you can read all about it below, or check out the video digest below.
 
