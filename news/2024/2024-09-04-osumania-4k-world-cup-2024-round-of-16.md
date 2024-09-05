@@ -4,7 +4,7 @@ title: "osu!mania 4K World Cup 2024: Round of 16 Recap"
 date: 2024-09-04 21:00:00 +0000
 ---
 
-The best moments of MWC4K's Round of 16 have been packaged and delivered straight to your front page.
+The best moments of MWC 4K's Round of 16 have been packaged and delivered straight to your front page.
 
 ![](/wiki/Tournaments/MWC/2024_4K/img/mwc4k2024-banner.jpg)
 
@@ -40,7 +40,7 @@ With that said and done, this round also brought us one new [osu! original](/wik
     </audio>
 </div>
 
-[Toaph Daddy](https://osu.ppy.sh/users/7616811) brings us MWC4K's very first SV original! The amount of people who wanted one has grown from last year, and we can finally present you with [Les Cadences Magiques](https://osu.ppy.sh/beatmapsets/2238686#mania/4757071), brought to you by our newest Featured Artist and fellow mania player, [Supa7onyz](https://osu.ppy.sh/users/5378805)!
+[Toaph Daddy](https://osu.ppy.sh/users/7616811) brings us MWC 4K's very first SV original! The amount of people who wanted one has grown from last year, and we can finally present you with [Les Cadences Magiques](https://osu.ppy.sh/beatmapsets/2238686#mania/4757071), brought to you by our newest Featured Artist and fellow mania player, [Supa7onyz](https://osu.ppy.sh/users/5378805)!
 
 You may find yourself learning this quite fast, but the real challenge lies within how deceptively tricky it is to get good accuracy on this chart, as the amount of polyrhythms and 1/5 snaps have a large play into the main gimmick. Click the banner to give it a go for yourself!
 
@@ -108,7 +108,7 @@ Both teams performed quite well, and there were many maps where all 6 players FC
 Players are beginning to pick up some steam as new rounds go by. To say we have had some standouts would be far from the truth — in fact we've got plenty of them! Not all heroes wear capes; some just want to smash keys.
 
 - ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610)'s performance thus far has been exceptional. Having the best score on **5 picks** this round makes it really hard to pick one to highlight. But their performance in [NU-KO - Pochiko no Shiawase na Nichijou](https://osu.ppy.sh/beatmapsets/2238649#mania/4757002) (LN2) with a 998,545 score [against Canada](https://www.twitch.tv/videos/2239366528) shouldn't be overlooked!
-- In a tournament full of prodigies, it is hard to make oneself stand out. And yet, that's exactly what ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805) has accomplished, with their astonishing score of 997,947 in [Reizoko Cj - /a/](https://osu.ppy.sh/beatmapsets/2238283#mania/4755965) in their [match vs. Hong Kong](https://www.twitch.tv/videos/2239818596).
+- In a tournament full of prodigies, it is hard to make oneself stand out. And yet, that's exactly what ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805) has accomplished, with their astonishing score of 997,947 in [Reizoko Cj - /a/](https://osu.ppy.sh/beatmapsets/2238283#mania/4755965) (RC6) in their [match vs. Hong Kong](https://www.twitch.tv/videos/2239818596).
 
 We've really only just begun, however. What matters most is who's left standing at the end of the weeks to come.
 
