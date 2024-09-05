@@ -45,7 +45,7 @@ osu! 的开发工作由 osu! 的创始人 ::{ flag=AU }:: **[peppy](https://osu.
 
 ### 设计
 
-- ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765)
+- ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765)
 
 ### 社区管理
 
