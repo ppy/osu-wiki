@@ -1,4 +1,4 @@
-# osu! (disambiguation)
+# osu! (disambiguazione)
 
 **osu!** può avere molteplici significati:
 
