@@ -268,4 +268,4 @@ Cuando todo el campo está en mayúsculas o minúsculas, los marcadores pueden u
 
 [^title-case]: Escribe en mayúsculas todas las palabras importantes y deja en minúsculas conjunciones como `and`, `to`, `or` y artículos como `the`, `a`, `an`.
 [^character-voice-actor]: `CV` (*character voice*) es usado cuando la canción es cantada como el personaje por el actor de voz del personaje. `VO` (*voice over*) es usado cuando una canción es cantada como el personaje por alguien que no es el actor de voz del personaje.
-[^audio-rc-note]: Cuando se trabaje con ediciones extendidas y compilaciones de canciones hechas por los usuarios, se aplican los [criterios de clasificación generales para el audio](/wiki/Ranking_criteria#pautas.2).
+[^audio-rc-note]: Cuando se trabaje con ediciones extendidas y compilaciones de canciones hechas por los usuarios, se aplican los [criterios de clasificación generales de audio](/wiki/Ranking_criteria#pautas.2).
