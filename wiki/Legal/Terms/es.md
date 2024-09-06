@@ -114,5 +114,5 @@ El Usuario no podrá copiar, reproducir, distribuir o crear trabajos derivados d
 ## ENLACES
 
 osu! puede proporcionar, o los Usuarios pueden incluir en el correo electrónico, enlaces a otros sitios web o recursos.
-El usuario reconoce y acepta que osu! no es responsable de la disponibilidad de dichos sitios o recursos externos, y no respalda ni es responsable de ningún contenido, publicidad, productos u otros materiales en dichos sitios o recursos o disponibles a través de ellos.
-El usuario acepta que osu! no será responsable, directa o indirectamente, de ningún daño o pérdida causados o supuestamente causados por o en conexión con el uso o la confianza depositada en cualquier contenido, bien o servicio disponible en dichos sitios o recursos externos.
+El Usuario reconoce y acepta que osu! no es responsable de la disponibilidad de dichos sitios o recursos externos, y no respalda ni es responsable de ningún contenido, publicidad, productos u otros materiales en dichos sitios o recursos o disponibles a través de ellos.
+El Usuario acepta que osu! no será responsable, directa o indirectamente, de ningún daño o pérdida causados o supuestamente causados por o en conexión con el uso o la confianza depositada en cualquier contenido, bien o servicio disponible en dichos sitios o recursos externos.
