@@ -33,8 +33,8 @@ Each of the mods below listed will have their compatible game modes' icon (![][o
 
 ### Fun
 
+- [Floating Fruits (FF)](/wiki/Gameplay/Game_modifier/Lazer/Floating_Fruits)‎ ![][osu!catch]
 - [No Scope (NS)](/wiki/Gameplay/Game_modifier/Lazer/No_Scope) ‎‎![][osu!] ![][osu!catch]
-- [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Lazer/Freeze_Frame) ‎‎‎![][osu!]
 
 #### Personal Presets
 
