@@ -21,7 +21,7 @@ tags:
 - Score Multiplier: 0.96x
 - Caption: `Feeling nostalgic?`
 - Compatible game modes: ![][osu!] ![][osu!taiko]
-- Incompatible mods: Strict Tracking (ST)
+- Incompatible mods: [Strict Tracking (ST)](/wiki/Gameplay/Game_modifier/Lazer/Strict_Tracking)
 - Status: **UNRANKED**
 
 ## Additional Information
