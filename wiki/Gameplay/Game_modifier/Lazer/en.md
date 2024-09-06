@@ -23,9 +23,9 @@ Mods are separated into five categories: `Difficulty Reduction`, `Difficulty Inc
 
 Each of the mods below listed will have their compatible game modes' icon (![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]) next to it.
 
-### Difficulty Increase
+### Difficulty Reduction
 
-- [Hidden (HD)](/wiki/Gameplay/Game_modifier/Lazer/Hidden) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Easy (EZ)](/wiki/Gameplay/Game_modifier/Lazer/Easy) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ### Conversion
 
