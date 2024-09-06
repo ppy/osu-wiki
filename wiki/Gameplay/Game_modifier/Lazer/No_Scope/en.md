@@ -35,5 +35,9 @@ Comparison between a regular play (right) vs a play with the No Scope mod enable
 
 *Beatmap: [DECO 27 - Rabbit Hole feat. Hatsune Miku (Cut Ver.) [Hard]](https://osu.ppy.sh/beatmapsets/2160279#osu/4582639)*
 
+## Additional Information
+
+The **No Scope** mod progressively hides the cursor between the first and tenth combo. Beyond that number, the cursor will remain invisible. If you miss an object, everything will be back to normal.
+
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
