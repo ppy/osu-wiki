@@ -1,5 +1,5 @@
 ---
-outdated_since: 6d86d4792b0dc7ba98a33c8311254839229b3b10
+outdated_since: 11c4512d55442e331bd499af2d409c808ac482f1
 outdated_translation: true
 tags:
   - mapping contest
@@ -8,8 +8,6 @@ tags:
   - badged
   - 비트맵
   - 배지
-outdated_since: 11c4512d55442e331bd499af2d409c808ac482f1
-outdated_translation: true
 ---
 
 # 공식적인 비트매핑 콘테스트 지원
