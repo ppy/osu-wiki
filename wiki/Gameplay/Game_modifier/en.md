@@ -18,6 +18,8 @@ tags:
 
 *For other uses, see [Mod (disambiguation)](/wiki/Disambiguation/Mod).*
 
+*For the lazer mods, see [Game Modifier (lazer)](/wiki/Gameplay/Game_modifier/Lazer)*
+
 ![Mod selection screen](img/mod-selection-screen.jpg "comparison between the mod selection screens of osu!(top-left), osu!taiko (top-right), osu!catch (bottom-left), and osu!mania (bottom-right) game modes")
 
 **Game modifiers** (or "mod" for short) are optional modifications to a [beatmap](/wiki/Beatmap)'s elements and settings that players can enable from the `Mod Selection Screen` (above). Mods can make beatmaps easier, harder, or just plain fun.
