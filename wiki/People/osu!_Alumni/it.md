@@ -96,6 +96,7 @@ La [Pagina di Gruppo degli osu!Alumni](https://osu.ppy.sh/groups/16) ne elenca t
 | ::{ flag=TH }:: [Frostmourne](https://osu.ppy.sh/users/199669) | GMT, QAT |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | NAT |
 | ::{ flag=JP }:: [Gamu](https://osu.ppy.sh/users/611174) | QAT |
+| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | GMT, NAT |
 | ::{ flag=US }:: [Garven](https://osu.ppy.sh/users/244216) | QAT |
 | ::{ flag=FI }:: [Gemi](https://osu.ppy.sh/users/7365) | BAT |
 | ::{ flag=MX }:: [Gens](https://osu.ppy.sh/users/23062) | BAT |
@@ -263,7 +264,6 @@ La [Pagina di Gruppo degli osu!Alumni](https://osu.ppy.sh/groups/16) ne elenca t
 | ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) | NAT |
 | ::{ flag=BE }:: [VeilStar](https://osu.ppy.sh/users/4255720) | GMT, Team di Supporto |
 | ::{ flag=PH }:: [vytalibus](https://osu.ppy.sh/users/10028) | BAT |
-| ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | GMT, organizzazione tornei |
 | ::{ flag=KR }:: [Where](https://osu.ppy.sh/users/549172) | GMT |
 | ::{ flag=US }:: [whymeman](https://osu.ppy.sh/users/51994) | GMT |
 | ::{ flag=ID }:: [Winshley](https://osu.ppy.sh/users/864895) | Moderatore della Chat |
