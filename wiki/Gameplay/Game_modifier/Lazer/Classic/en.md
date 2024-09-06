@@ -1,0 +1,32 @@
+---
+stub: true
+tags:
+  - classic
+  - CL
+  - mod
+  - game modifier
+  - lazer
+---
+
+# Classic (lazer mod)
+
+![CL mod icon](/wiki/Gameplay/Game_modifier/Lazer/img/CL.png "Classic (CL) mod icon")
+
+*For the full list of all lazer mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier/Lazer)*
+
+## About
+
+- Abbreviation: CL
+- Type: Conversion
+- Score Multiplier: 0.96x
+- Caption: `Feeling nostalgic?`
+- Compatible game modes: ![][osu!] ![][osu!taiko]
+- Incompatible mods: Strict Tracking (ST)
+- Status: **UNRANKED**
+
+## Additional Information
+
+The **Classic** mod simply brings back the mechanics from stable in osu! Lazer. All scores set on stable will have the mod enable on them, which means that all stable scores have a score multiplier of 0.96x.
+
+[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
