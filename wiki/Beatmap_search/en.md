@@ -92,7 +92,7 @@ Beatmap metadata fields can be compared against specific values for more granula
 | `key`, `keys` | Number of keys (osu!mania and converted beatmaps only) |
 | `status` | Beatmap status. Value can be `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, or `loved`, or `r`/`a`/`p`/`n`/`u`/`l` for short. Allows multiple values separated by commas (`,`) |
 | `lastplayed` | Time since last played. Accepts a format of `#y#M#d#h#m#s`, for years, months, days, hours, minutes, and seconds respectively. For example, `2d5s` means "2 days and 5 seconds". |
-| `played` | Display beatmaps based on their play status. Value can be `true` or `1` for played beatmaps, and `false` or `0` for unplayed beatmaps. |
+| `played` | Display beatmaps based on their play status. Value can be `yes`, `true` or `1` for played beatmaps, and `no`, `false` or `0` for unplayed beatmaps. |
 | `divisor` | The denominator of the [beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
 
 ## Example queries
@@ -142,7 +142,7 @@ status=r,l
 ## References
 
 [^website-filters]: [osu!web source code](https://github.com/ppy/osu-web/blob/c1a5dc390634accc87c12cb2cead73c45d8e7ad5/app/Libraries/Search/BeatmapsetQueryParser.php)
-[^lazer-filters]: [osu!(lazer) source code](https://github.com/ppy/osu/blob/fde790c014179ab88a381918dc3b8e5354f8173d/osu.Game/Screens/Select/FilterQueryParser.cs)
+[^lazer-filters]: [osu!(lazer) source code](https://github.com/ppy/osu/blob/6913d75792585bab7f0c649dd6b5687e05753d33/osu.Game/Screens/Select/FilterQueryParser.cs)
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
