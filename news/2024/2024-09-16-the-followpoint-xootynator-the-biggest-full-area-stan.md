@@ -54,7 +54,7 @@ Hi xooty, thanks for agreeing to our interview! Let's start with the classic, co
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3717598">xootynator</a></p>
 
-Of course! I'm xooty or Lily, a competitive osu! player and streamer! I've been playing osu for almost 11 years now and streaming for 6 years... I think I'm most known for playing with a very large tablet or for being one of the core players of OWC Canada, or because I'm a silly girl with two even sillier pet birds.
+Of course! I'm xooty or Lily, a competitive osu! player and streamer! I've been playing osu! for almost 11 years now and streaming for 6 years... I think I'm most known for playing with a very large tablet or for being one of the core players of OWC Canada, or because I'm a silly girl with two even sillier pet birds.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-09-16-the-followpoint-xootynator-the-biggest-full-area-stan/avatar-MegaMix.jpg')"></a>
 
@@ -104,7 +104,7 @@ How did you get introduced to osu! and what was your first impression of it?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3717598">xootynator</a></p>
 
-My first introduction to osu was actually in grade 4. I have a vivid memory of someone playing [Osu! Tatakae! Ouendan](/wiki/FAQ#i've-never-played-this-"ouendan"-thing-—-what-is-it) on their DS outside the gym, and I think there were some visuals of a guy trying to impress a girl on a date, and if you missed any notes then the guy would turn into a werewolf...
+My first introduction to osu! was actually in grade 4. I have a vivid memory of someone playing [Osu! Tatakae! Ouendan](/wiki/FAQ#i've-never-played-this-"ouendan"-thing-—-what-is-it) on their DS outside the gym, and I think there were some visuals of a guy trying to impress a girl on a date, and if you missed any notes then the guy would turn into a werewolf...
 
 Eventually when I started highschool, I saw people playing osu! on the school computers. It felt like some spiritual sign that I should play it since I always had that fond memory of that time by the gym. So at some point I tried it at home and the rest is prety much history. I don't remember much of my first days of the game but I knew I was hooked right away. I still play it to this day after all!
 
@@ -204,7 +204,7 @@ How different do LAN tourneys feel from regular tourneys played at home?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3717598">xootynator</a></p>
 
-Totally a night and day difference. I've always loved the pro player community since everyone is super friendly even competitively. I feel like everyone can recognize a good match and not be too sour if things don't go their way, so overall a really great experience. Playing at a LAN is a totally different story though! I can just go right up and hug my opponent after a good match! During my time at [The Roundtable](/wiki/Tournaments/The_Roundtable) LAN in LA, I even got to rub elbows with Rafis while playing against him during the 1v1's. Looking over at each other, commenting on our scores, and even having people walk around and see the matches happening at real time feels so surreal. I'm for sure saying yes to any LAN I get invited to if I can go!
+Totally a night and day difference. I've always loved the pro player community since everyone is super friendly even competitively. I feel like everyone can recognize a good match and not be too sour if things don't go their way, so overall a really great experience. Playing at a LAN is a totally different story though! I can just go right up and hug my opponent after a good match! During my time at [The Roundtable](/wiki/Tournaments/The_Roundtable) LAN in LA, I even got to rub elbows with [Rafis](https://osu.ppy.sh/users/2558286) while playing against him during the 1v1's. Looking over at each other, commenting on our scores, and even having people walk around and see the matches happening at real time feels so surreal. I'm for sure saying yes to any LAN I get invited to if I can go!
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-09-16-the-followpoint-xootynator-the-biggest-full-area-stan/avatar-MegaMix.jpg')"></a>
 
