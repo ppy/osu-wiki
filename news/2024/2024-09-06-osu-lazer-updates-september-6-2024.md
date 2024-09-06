@@ -41,7 +41,7 @@ The below video shows a few of the above changes in the context of mapping one p
 - **Fixed osu!catch's catcher trail during a dash/hyperdash not being consistently spaced.** The spacing was much higher on osu!(lazer), which did not sit well with osu!catch players, so it has been aligned with how osu!(stable) works.
 - **Removed mouse input from osu!mania's touch controls.** For some reason using a mouse during gameplay would show the on-screen touch controls, which bothered players on laptops. This has now been fixed.
 
-Here's what the Rewind-inspired replay analysis feature looks like:
+Here's what the [Rewind](https://osu.ppy.sh/community/forums/topics/1451845)-inspired replay analysis feature looks like:
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
