@@ -14,6 +14,8 @@ tags:
 *For other uses, see [Easy (disambiguation)](/wiki/Disambiguation/Easy).*\
 *For the full list of all mods, see: [Game modifier](/wiki/Gameplay/Game_modifier)*
 
+*For the lazer wiki, see: [Easy (lazer)](/wiki/Gameplay/Game_modifier/Lazer/Easy)*
+
 ## About
 
 - Abbreviation: EZ
