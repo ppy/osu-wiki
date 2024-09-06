@@ -38,6 +38,7 @@ Contests which abide by the following criteria are eligible for official support
 - **For team contests, participation will be evaluated on a case-by-case basis depending on team sizes, creative requirements, and total valid submissions.** As a rule of thumb, aim for at least 20 participants and 10 valid submissions.
 - **The contest must have a clearly defined judging criteria based on mapping merit.** These ensure a contest follows an understandable quality standard in line with other mapping contests.
 - **The contest's results must be determined by valuing scores from all judges equally.** Using standard deviation to determine final scores is required.[^exception-note]
+  - The final score must be calculated as follows: `judge X's final score = (judge X's raw score - judge X's average raw score) / judge X's standard deviation`.
 - **The contest's results must be publicly displayed with judge scores/comments visible.** The judges may be anonymised publicly, but the osu! team may ask for un-anonymised judge details if necessary.
 - **The contest must have at least 4 judges.** Contests with fewer judges allow each judge too much influence on overall results.
 - **A user cannot participate in more than one submission to the contest.**
