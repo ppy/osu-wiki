@@ -266,6 +266,8 @@ What is the most memorable/impressive score in osu! to you?
 
 I still think my most impressive score is [Euphoria](https://osu.ppy.sh/scores/1320470143). I feel like that score was pretty ahead of my time, and also the first 1000PP hidden score, which was a huge achievement! I still have the same shorts I wore that day, now dubbed the "euphoria shorts".
 
+![](/wiki/shared/news/2024-09-16-the-followpoint-xootynator-the-biggest-full-area-stan/euphoria.jpg)
+
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-09-16-the-followpoint-xootynator-the-biggest-full-area-stan/avatar-MegaMix.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
