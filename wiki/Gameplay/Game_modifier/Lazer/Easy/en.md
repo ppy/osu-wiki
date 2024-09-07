@@ -14,7 +14,7 @@ tags:
 
 *For the full list of all lazer mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier/Lazer)*
 
-*For the stable wiki, see: [Easy (stable)](/wiki/Gameplay/Game_modifier/Easy)*
+*For the osu!(stable) wiki, see: [Easy (stable)](/wiki/Gameplay/Game_modifier/Easy)*
 
 ## About
 
