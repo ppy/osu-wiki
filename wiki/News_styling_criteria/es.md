@@ -6,7 +6,7 @@ Las **noticias**, existen en un sistema ligeramente diferente al de la wiki prin
 
 Al igual que los artículos de la wiki, todas las noticias deben tener un mínimo de ortografía y gramática correctas, así como información correcta y actualizada.
 
-Cualquiera que esté interesado en contribuir o escribir noticias puede enviar un mensaje al canal `#osu-news` del [servidor de Discord osu!](https://discord.com/invite/ppy). También pueden ponerse en contacto con ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079), ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724), o cualquier [mantenedor de la wiki o de las noticias](/wiki/People/osu!_wiki_maintainers) activo.
+Cualquiera que esté interesado en contribuir o escribir noticias puede enviar un mensaje en el canal `#osu-news` del [servidor de Discord osu!](https://discord.com/invite/ppy). También pueden ponerse en contacto con ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079), ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724), o cualquier [mantenedor de la wiki o de las noticias](/wiki/People/osu!_wiki_maintainers) activo.
 
 ## Configuraciones regionales
 
@@ -136,7 +136,7 @@ Lo siguiente se aplica a todos los medios que aparecen en las noticias e incluye
   - Es aceptable el uso de «osu!», «taiko», «catch», «mania»
   - Es aceptable el uso de «OSU!», «OSU!TAIKO», «OSU!CATCH», «OSU!MANIA», «TAIKO», «CATCH», «MANIA» (en contextos en los que el texto se escriba en mayúsculas)
   - No es aceptable el uso de «osu!standard», «standard», «osu», «Osu!», «ctb»
-- **La altura mínima para el texto es la altura del texto del párrafo en las relaciones de aspecto de escritorio.** Todo lo que sea más pequeño no es legible en dispositivos móviles. Ve esta página en un dispositivo móvil o cambia el tamaño de la ventana del navegador como referencia.
+- **La altura mínima para el texto es la altura del texto del párrafo en las relaciones de aspecto de escritorio.** Todo lo que sea más pequeño no es legible en dispositivos móviles. Puedes ver este mismo artículo en un dispositivo móvil o cambiar el tamaño de la ventana del navegador como referencia.
 
 ![Referencia del tamaño del texto](img/text-size-ES.png "Referencia del tamaño mínimo del texto para las imágenes.")
 
