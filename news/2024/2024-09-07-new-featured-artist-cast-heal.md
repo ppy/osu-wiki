@@ -41,7 +41,7 @@ Or try [the first ranked **cast heal** map](https://osu.ppy.sh/beatmapsets/21348
 If neither of those work for you, try [this one](https://osu.ppy.sh/beatmapsets/2183856) hosted by [you-know-who](https://osu.ppy.sh/users/1623405).
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/436/run%20to%20her/cast%20heal%20-%20run%20to%20her.mp3">
+    <source src="https://assets.ppy.sh/artists/436/fragments/cast%20heal%20-%20fragments.mp3">
 </audio>
 
 ---
