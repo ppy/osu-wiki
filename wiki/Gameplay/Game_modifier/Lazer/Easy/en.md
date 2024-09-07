@@ -12,7 +12,7 @@ tags:
 
 ![EZ mod icon](/wiki/Gameplay/Game_modifier/Lazer/img/EZ.png "Easy (EZ) mod icon")
 
-*For the full list of all lazer mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier/Lazer)*
+*For the full list of all osu!(lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier/Lazer)*
 
 *For the osu!(stable) wiki, see: [Easy (stable)](/wiki/Gameplay/Game_modifier/Easy)*
 
