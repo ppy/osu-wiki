@@ -95,7 +95,7 @@ Las noticias deben tener una imagen después del párrafo de avance para su uso 
 
 Estos banners aparecen en muchas relaciones de aspecto diferentes en distintos lugares del sitio web y en distintos dispositivos, por lo que deben diseñarse teniendo en cuenta cualquier recorte debido a esto.
 
-![Referencia de la relación de aspecto del banner de una noticia](img/banner-sizes.png "Referencia de la relación de aspecto del banner de una noticia. Ten en cuenta que los dispositivos móviles pueden situarse en cualquier lugar dentro o incluso ligeramente fuera de los rangos comunes aquí especificados.")
+![Referencia de la relación de aspecto del banner de una noticia](img/banner-sizes-ES.png "Referencia de la relación de aspecto del banner de una noticia. Ten en cuenta que los dispositivos móviles pueden situarse en cualquier lugar dentro o incluso ligeramente fuera de los rangos comunes aquí especificados.")
 
 Usa [esta herramienta de visualización](https://tanza.me/tools/osu-vis/) para comprobar cómo aparecerá el banner en diferentes partes del sitio web.
 
@@ -138,6 +138,6 @@ Lo siguiente se aplica a todos los medios que aparecen en las noticias e incluye
   - No es aceptable el uso de «osu!standard», «standard», «osu», «Osu!», «ctb»
 - **La altura mínima para el texto es la altura del texto del párrafo en las relaciones de aspecto de escritorio.** Todo lo que sea más pequeño no es legible en dispositivos móviles. Ve esta página en un dispositivo móvil o cambia el tamaño de la ventana del navegador como referencia.
 
-![Referencia del tamaño del texto](img/text-size.png "Referencia del tamaño mínimo del texto para las imágenes.")
+![Referencia del tamaño del texto](img/text-size-ES.png "Referencia del tamaño mínimo del texto para las imágenes.")
 
 Algunos miembros de la comunidad crean gráficos de calidad o incluso vídeos animados para incluirlos en las noticias. Sin embargo, siempre que sea posible, ponte en contacto con el equipo de noticias con antelación sobre los diseños y los recursos, ya que cualquier cambio necesario puede provocar retrasos inesperados u omisiones en las noticias.
