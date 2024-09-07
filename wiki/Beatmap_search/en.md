@@ -16,7 +16,7 @@ By default, any text entered at the [song select screen](/wiki/Client/Interface#
 Beatmap metadata fields can be compared against specific values for more granular filtering, using the following operators:
 
 | Comparison | osu!web | osu!(stable) | osu!(lazer) | Description |
-| :-: | :-- | :-- | :-- | :-- |
+| :-: | :-: | :-: | :-: | :-- |
 | `=` | ![Yes][true] | ![Yes][true] | ![Yes][true] | Equal to |
 | `==` | ![No][false] | ![Yes][true] | ![No][false] | Equal to |
 | `:` | ![Yes][true] | ![No][false] | ![Yes][true] | Equal to |
@@ -31,7 +31,7 @@ Beatmap metadata fields can be compared against specific values for more granula
 *Note: The filters only work at the song selection screen, while [osu!direct](/wiki/osu!supporter#osu!direct) only supports regular full-text search.*
 
 | Filter | Description |
-| :-: | :-- |
+| :-- | :-- |
 | `artist` | Name of the artist |
 | `creator` | Name of the difficulty creator |
 | `title` | Name of the song |
@@ -54,7 +54,7 @@ Beatmap metadata fields can be compared against specific values for more granula
 ## Website[^website-filters]
 
 | Filter | Description |
-| :-: | :-- |
+| :-- | :-- |
 | `artist` | Name of the artist |
 | `title` | Name of the song |
 | `source` | The medium, such as a video game, movie, series, or event, where the song originated from or which it is best associated with |
@@ -77,7 +77,7 @@ Beatmap metadata fields can be compared against specific values for more granula
 ## Client (lazer)[^lazer-filters]
 
 | Filter | Description |
-| :-: | :-- |
+| :-- | :-- |
 | `artist` | Name of the artist |
 | `title` | Name of the song |
 | `creator` | Name of the difficulty creator |
