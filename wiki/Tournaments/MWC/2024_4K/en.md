@@ -241,7 +241,7 @@ Saturday, 7 September 2024:
 
 ### Round of 16
 
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1Bt-boYNgz2ue3kLa4bzg1PJefo30GSIa0SRvJLUGEIE?rm=minimal)
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1Bt-boYNgz2ue3kLa4bzg1PJefo30GSIa0SRvJLUGEIE?rm=minimal).
 
 Saturday, 31 August 2024:
 
