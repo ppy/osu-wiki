@@ -26,7 +26,7 @@ Proporciona enlaces a recursos más detallados en lugar de referenciarlos direct
 
 ### Audiencia
 
-El público principal de osu! son principalmente adolescentes y jóvenes adultos, aunque somos una comunidad para todas las edades. Considera la capacidad de atención de dicho grupo demográfico; la concisión está estrechamente relacionada con esto.
+El público principal de osu!, en su mayoría, son adolescentes y jóvenes adultos, aunque somos una comunidad para todas las edades. Considera la capacidad de atención de dicho grupo demográfico; la concisión está estrechamente relacionada con esto.
 
 Analiza bien lo que escribes en tu artículo y piensa si le interesaría a la comunidad en general lo suficiente como para justificar su inclusión.
 
