@@ -6,7 +6,7 @@ date: 2024-09-07 19:00:00 +0000
 
 Is **cast heal** our newest Featured Artist? We'll let you figure it out.
 
-![](https://assets.ppy.sh/artists/435/header.jpg)
+![](https://assets.ppy.sh/artists/436/header.jpg)
 
 When we asked **cast heal** for some of their achievements and milestones for this article, they responded with "filthy runoff", so that should give you a solid idea of what you're getting into.
 
@@ -16,7 +16,7 @@ Some mappers never quit, and [Okoratu](https://osu.ppy.sh/users/1623405) is the 
 
 <div align="center">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/artists/436/release_showcase.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/artists/436/release_showcase.mp4?1" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -25,7 +25,7 @@ Some mappers never quit, and [Okoratu](https://osu.ppy.sh/users/1623405) is the 
 Experience [the map from the video above](https://osu.ppy.sh/beatmapsets/2217395) hosted by [Okoratu](https://osu.ppy.sh/users/1623405)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/436/run%20to%20her/cast%20heal%20-%20run%20to%20her.mp3">
 </audio>
 
 ### cast heal - lasting entropy
@@ -33,15 +33,15 @@ Experience [the map from the video above](https://osu.ppy.sh/beatmapsets/2217395
 Or try [the first ranked **cast heal** map](https://osu.ppy.sh/beatmapsets/2134803) also hosted by [Okoratu](https://osu.ppy.sh/users/1623405)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/436/lasting%20entropy/cast%20heal%20-%20lasting%20entropy.mp3">
 </audio>
 
-### Noma Nadeshiko - Sanzu no Kawa Ninngyou Gekijyou
+### cast heal - fragments
 
 If neither of those work for you, try [this one](https://osu.ppy.sh/beatmapsets/2183856) hosted by [you-know-who](https://osu.ppy.sh/users/1623405).
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/436/run%20to%20her/cast%20heal%20-%20run%20to%20her.mp3">
 </audio>
 
 ---
