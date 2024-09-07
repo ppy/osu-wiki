@@ -13,7 +13,7 @@ tags:
 
 ![FF mod icon](/wiki/Gameplay/Game_modifier/Lazer/img/FF.png "Floating Fruits (FF) mod icon")
 
-*For the full list of all lazer mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier/Lazer)*
+*For the full list of all osu!(lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier/Lazer)*
 
 ## About
 
