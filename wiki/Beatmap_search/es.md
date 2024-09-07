@@ -18,7 +18,7 @@ tags:
 
 De forma predeterminada, cualquier texto ingresado en el [selector de canciones](/wiki/Client/Interface#selector-de-canciones) o en el campo de búsqueda del sitio web se compara con el artista de la canción, el título, el creador de la dificultad y su nombre, la fuente y las etiquetas de los beatmaps. Al ingresar un solo número, se buscarán beatmaps y dificultades con un [identificador](/wiki/Beatmap#identificación) específico. Todas las búsquedas no distinguen entre mayúsculas y minúsculas.
 
-El campo de los metadatos de los beatmaps se pueden comparar con valores específicos para un filtrado más granular, usando los siguientes operadores:
+El campo de metadatos de los beatmaps se pueden comparar con valores específicos para un filtrado más granular, usando los siguientes operadores:
 
 | Comparación | osu!web | osu!(stable) | osu!(lazer) | Descripción |
 | :-: | :-: | :-: | :-: | :-- |
