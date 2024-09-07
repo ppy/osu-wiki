@@ -10,7 +10,7 @@ Is **cast heal** our newest Featured Artist? We'll let you figure it out.
 
 When we asked **cast heal** for some of their achievements and milestones for this article, they responded with "filthy runoff", so that should give you a solid idea of what you're getting into.
 
-**x** melancholic drum and bass tracks are officially part of [**cast heal**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/436), all of which are pre-timed so your impulsive mapping decisions won't be blocked by anything.
+**10** melancholic drum and bass tracks are officially part of [**cast heal**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/436), all of which are pre-timed so your impulsive mapping decisions won't be blocked by anything.
 
 Some mappers never quit, and [Okoratu](https://osu.ppy.sh/users/1623405) is the best example. He's already ranked 3 maps of **cast heal**'s songs, including this one played at [COE](/wiki/Community/cavoe's_osu!_event/2024) earlier this year:
 
@@ -30,7 +30,7 @@ Experience [the map from the video above](https://osu.ppy.sh/beatmapsets/2217395
 
 ### cast heal - lasting entropy
 
-Or try [the first ranked **cast heal** map](https://osu.ppy.sh/beatmapsets/2134803) also hosted by [Okoratu](https://osu.ppy.sh/users/1623405)!
+Or try [the first Ranked **cast heal** map](https://osu.ppy.sh/beatmapsets/2134803) also hosted by [Okoratu](https://osu.ppy.sh/users/1623405)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/436/lasting%20entropy/cast%20heal%20-%20lasting%20entropy.mp3">
