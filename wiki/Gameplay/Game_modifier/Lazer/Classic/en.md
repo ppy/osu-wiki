@@ -12,7 +12,7 @@ tags:
 
 ![CL mod icon](/wiki/Gameplay/Game_modifier/Lazer/img/CL.png "Classic (CL) mod icon")
 
-*For the full list of all lazer mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier/Lazer)*
+*For the full list of all osu!(lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier/Lazer)*
 
 ## About
 
