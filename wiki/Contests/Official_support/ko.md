@@ -1,5 +1,5 @@
 ---
-outdated_since: 11c4512d55442e331bd499af2d409c808ac482f1
+outdated_since: 6d86d4792b0dc7ba98a33c8311254839229b3b10
 outdated_translation: true
 tags:
   - mapping contest
