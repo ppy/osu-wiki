@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: cast heal"
-date: 2024-09-07 19:00:00 +0000
+date: 2024-09-07 20:00:00 +0000
 ---
 
 Is **cast heal** our newest Featured Artist? We'll let you figure it out.
