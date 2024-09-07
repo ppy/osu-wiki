@@ -8,7 +8,7 @@ tags:
 
 ![Catch the Beat Indonesia Cup Open 2024 logo](img/logo.png)
 
-The **Catch the Beat Indonesia Cup Open 2024** (***CICO 2024***) is a double-elimination 1v1 osu!catch tournament hosted by ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898), and ::{ flag=ID }:: [Dedot](https://osu.ppy.sh/users/8805157). Despite its name, the tournament is open to all players from Asia and Oceania with a global rank of #100,000 or higher in the osu!catch game mode. It is the twelfth iteration of the Catch the Beat Indonesia Cup, as well as the second one to be held under the "Open" format.
+The **Catch the Beat Indonesia Cup Open 2024** (***CICO 2024***) was a double-elimination 1v1 osu!catch tournament hosted by ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898), and ::{ flag=ID }:: [Dedot](https://osu.ppy.sh/users/8805157). Despite its name, the tournament was open to all players from Asia and Oceania with a global rank of #100,000 or higher in the osu!catch game mode. It was the twelfth iteration of the Catch the Beat Indonesia Cup, as well as the second one to be held under the "Open" format.
 
 ## Tournament schedule
 
@@ -28,13 +28,15 @@ The **Catch the Beat Indonesia Cup Open 2024** (***CICO 2024***) is a double-eli
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, *more to be announced* |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | *To be announced* |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | *To be announced* |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | $40 USD or 18 months of osu! supporter, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $20 USD or 8 months of osu! supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $10 USD or 2 months of osu! supporter |
+
+![](img/badge.png "CICO 2024 winner badge")
 
 ## Organisation
 
-The Catch the Beat Indonesia Cup Open 2024 is run by various osu! community members from Indonesia and beyond.
+The Catch the Beat Indonesia Cup Open 2024 was run by various osu! community members from Indonesia and beyond.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -97,6 +99,16 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 | 30 | ::{ flag=TW }:: [Nazrin on osu](https://osu.ppy.sh/users/2512267) | 29.60 |
 | 31 | ::{ flag=TW }:: [\_Nanami](https://osu.ppy.sh/users/1929450) | 31.30 |
 | 32 | ::{ flag=AU }:: [pandaBear](https://osu.ppy.sh/users/107553) | 31.40 |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: **[Nekuro](https://osu.ppy.sh/users/3222638)** |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=TW }:: **[DoDoEbi](https://osu.ppy.sh/users/1177233)** |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=RU }:: **[Kimitakari](https://osu.ppy.sh/users/4741164)** |
 
 ## Mappools
 
@@ -271,6 +283,21 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
   1. [Hakushi Hasegawa - Doku (zglock) \[Expert\]](https://osu.ppy.sh/beatmapsets/1674871#fruits/3539717)
 
 ## Match results
+
+### Finals (week 2)
+
+Saturday, 31 August 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[Nekuro](https://osu.ppy.sh/users/3222638)** ::{ flag=ID }:: | **7** | 3 | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | [#1](https://osu.ppy.sh/community/matches/115309494) |
+
+Sunday, 1 September 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Grand Final | [DoDoEbi](https://osu.ppy.sh/users/1177233) ::{ flag=TW }:: | 4 | **7** | ::{ flag=ID }:: **[Nekuro](https://osu.ppy.sh/users/3222638)** | [#1](https://osu.ppy.sh/community/matches/115324254) |
+| Grand Final (bracket reset) | **[Nekuro](https://osu.ppy.sh/users/4741164)** ::{ flag=ID }:: | **7** | 1 | ::{ flag=TW }:: [DoDoEbi](https://osu.ppy.sh/users/1391036) | [#1](https://osu.ppy.sh/community/matches/115325088) |
 
 ### Finals (week 1)
 
