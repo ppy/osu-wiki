@@ -115,43 +115,20 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/f3e
 
 ## Match schedule: Quarterfinals
 
-### Saturday, 7 September 2024
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| China ::{ flag=CN }:: | ::{ flag=ID }:: Indonesia | [Sep 07 (Sat) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240907T080000&p1=1440&p2=33&p3=108) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Japan ::{ flag=JP }:: | ::{ flag=ES }:: Spain | [Sep 07 (Sat) 10:45 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240907T104500&p1=1440&p2=248&p3=141) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=AU }:: Australia | [Sep 07 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240907T120000&p1=1440&p2=136&p3=57) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Hong Kong ::{ flag=HK }:: | ::{ flag=SE }:: Sweden | [Sep 07 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240907T140000&p1=1440&p2=102&p3=239) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=FR }:: France | [Sep 07 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240907T150000&p1=1440&p2=166&p3=195) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
-| Canada ::{ flag=CA }:: | ::{ flag=AR }:: Argentina | [Sep 07 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240907T180000&p1=1440&p2=188&p3=51) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Brazil ::{ flag=BR }:: | ::{ flag=MX }:: Mexico | [Sep 07 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240907T200000&p1=1440&p2=45&p3=155) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-
 ### Sunday, 8 September 2024
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Philippines ::{ flag=PH }:: | ::{ flag=CL }:: Chile | [Sep 08 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T020000&p1=1440&p2=145&p3=232) | *TBD* | [^winners-bracket] |
-| China ::{ flag=CN }:: | ::{ flag=AR }:: Argentina | [Sep 08 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T030000&p1=1440&p2=33&p3=51) | *TBD* | [^potential-match] |
-| Indonesia ::{ flag=ID }:: | ::{ flag=CA }:: Canada | [Sep 08 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T030000&p1=1440&p2=108&p3=188) | *TBD* | [^potential-match] |
-| Indonesia ::{ flag=ID }:: | ::{ flag=AR }:: Argentina | [Sep 08 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T030000&p1=1440&p2=108&p3=51) | *TBD* | [^potential-match] |
-| United States ::{ flag=US }:: | ::{ flag=MY }:: Malaysia | [Sep 08 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T040000&p1=1440&p2=263&p3=122) | *TBD* | [^winners-bracket] |
-| Taiwan ::{ flag=TW }:: | ::{ flag=NZ }:: New Zealand | [Sep 08 (Sun) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T050000&p1=1440&p2=241&p3=264) | *TBD* | [^losers-bracket] |
-| South Korea ::{ flag=KR }:: | ::{ flag=VN }:: Vietnam | [Sep 08 (Sun) 08:50 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T085000&p1=1440&p2=235&p3=95) | *TBD* | [^winners-bracket] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=NZ }:: New Zealand | [Sep 08 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T090000&p1=1440&p2=166&p3=264) | *TBD* | [^potential-match] |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=SE }:: Sweden | [Sep 08 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T100000&p1=1440&p2=136&p3=239) | *TBD* | [^potential-match] |
-| Australia ::{ flag=AU }:: | ::{ flag=SE }:: Sweden | [Sep 08 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T100000&p1=1440&p2=57&p3=239) | *TBD* | [^potential-match] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=TW }:: Taiwan | [Sep 08 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T120000&p1=1440&p2=166&p3=241) | *TBD* | [^potential-match] |
-| France ::{ flag=FR }:: | ::{ flag=TW }:: Taiwan | [Sep 08 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T120000&p1=1440&p2=195&p3=241) | *TBD* | [^potential-match] |
-| France ::{ flag=FR }:: | ::{ flag=NZ }:: New Zealand | [Sep 08 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T120000&p1=1440&p2=195&p3=264) | *TBD* | [^potential-match] |
-| Australia ::{ flag=AU }:: | ::{ flag=HK }:: Hong Kong | [Sep 08 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T120000&p1=1440&p2=57&p3=102) | *TBD* | [^potential-match] |
-| Thailand ::{ flag=TH }:: | ::{ flag=SG }:: Singapore | [Sep 08 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T130000&p1=1440&p2=28&p3=236) | *TBD* | [^winners-bracket] |
-| Brazil ::{ flag=BR }:: | ::{ flag=JP }:: Japan | [Sep 08 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T140000&p1=1440&p2=45&p3=248) | *TBD* | [^potential-match] |
-| Brazil ::{ flag=BR }:: | ::{ flag=ES }:: Spain | [Sep 08 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T140000&p1=1440&p2=45&p3=141) | *TBD* | [^potential-match] |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=HK }:: Hong Kong | [Sep 08 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T140000&p1=1440&p2=136&p3=102) | *TBD* | [^potential-match] |
-| China ::{ flag=CN }:: | ::{ flag=CA }:: Canada | [Sep 08 (Sun) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T143000&p1=1440&p2=33&p3=188) | *TBD* | [^potential-match] |
-| Mexico ::{ flag=MX }:: | ::{ flag=JP }:: Japan | [Sep 08 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T150000&p1=1440&p2=155&p3=248) | *TBD* | [^potential-match] |
-| Mexico ::{ flag=MX }:: | ::{ flag=ES }:: Spain | [Sep 08 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T170000&p1=1440&p2=155&p3=141) | *TBD* | [^potential-match] |
+| Philippines ::{ flag=PH }:: | ::{ flag=CL }:: Chile | [Sep 08 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T020000&p1=1440&p2=145&p3=232) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| United States ::{ flag=US }:: | ::{ flag=MY }:: Malaysia | [Sep 08 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T040000&p1=1440&p2=263&p3=122) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| Taiwan ::{ flag=TW }:: | ::{ flag=NZ }:: New Zealand | [Sep 08 (Sun) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T050000&p1=1440&p2=241&p3=264) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| South Korea ::{ flag=KR }:: | ::{ flag=VN }:: Vietnam | [Sep 08 (Sun) 08:50 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T085000&p1=1440&p2=235&p3=95) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| Russian Federation ::{ flag=RU }:: | ::{ flag=NZ }:: New Zealand | [Sep 08 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T090000&p1=1440&p2=166&p3=264) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
+| Russian Federation ::{ flag=RU }:: | ::{ flag=TW }:: Taiwan | [Sep 08 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T120000&p1=1440&p2=166&p3=241) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Thailand ::{ flag=TH }:: | ::{ flag=SG }:: Singapore | [Sep 08 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T130000&p1=1440&p2=28&p3=236) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| Brazil ::{ flag=BR }:: | ::{ flag=JP }:: Japan | [Sep 08 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T140000&p1=1440&p2=45&p3=248) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| United Kingdom ::{ flag=GB }:: | ::{ flag=HK }:: Hong Kong | [Sep 08 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T140000&p1=1440&p2=136&p3=102) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
+| China ::{ flag=CN }:: | ::{ flag=CA }:: Canada | [Sep 08 (Sun) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T143000&p1=1440&p2=33&p3=188) | [osulive](https://twitch.tv/osulive) or [osulive_2](https://twitch.tv/osulive_2)[^stream-pending] | [^potential-match] |
 | Semifinals | mappool showcase | [Sep 08 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T180000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Mappools
@@ -248,7 +225,23 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/f3e
 
 ## Match results
 
+### Quarterfinals
+
+Saturday, 7 September 2024:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **China** ::{ flag=CN }:: | **6** | 1 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/115396824) | [#1](https://www.twitch.tv/videos/2244882240) |
+| **Japan** ::{ flag=JP }:: | **6** | 1 | ::{ flag=ES }:: Spain | [#1](https://osu.ppy.sh/community/matches/115398314) | [#1](https://www.twitch.tv/videos/2244890379) |
+| **United Kingdom** ::{ flag=GB }:: | **6** | 2 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/115399099) | [#1](https://www.twitch.tv/videos/2244913334) |
+| **Hong Kong** ::{ flag=HK }:: | **6** | 2 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/115400661) | [#1](https://www.twitch.tv/videos/2244996774) |
+| **Russian Federation** ::{ flag=RU }:: | **6** | 0 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/115401635) | [#1](https://www.twitch.tv/videos/2245026935) |
+| **Canada** ::{ flag=CA }:: | **6** | 2 | ::{ flag=AR }:: Argentina | [#1](https://osu.ppy.sh/community/matches/115404448) | [#1](https://www.twitch.tv/videos/2245195726) |
+| **Brazil** ::{ flag=BR }:: | **6** | 5 | ::{ flag=MX }:: Mexico | [#1](https://osu.ppy.sh/community/matches/115406325) | [#1](https://www.twitch.tv/videos/2245307636) |
+
 ### Round of 16
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1Bt-boYNgz2ue3kLa4bzg1PJefo30GSIa0SRvJLUGEIE?rm=minimal).
 
 Saturday, 31 August 2024:
 
