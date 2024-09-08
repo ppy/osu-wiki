@@ -504,8 +504,6 @@ The final standings for the Qualifier stage can be found in the following [sprea
 6. Captains are responsible for their team's availability.
 
 ## Notes
-
-## Notes
 [^winners-bracket]: Winners bracket match
 [^losers-bracket]: Losers bracket match
 [^stream-pending]: Final channel to be decided at match time, depending on stream availability 
