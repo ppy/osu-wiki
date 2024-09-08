@@ -113,24 +113,62 @@ The osu!mania 4K World Cup 2024 is run by the [osu! team](/wiki/People/osu!_team
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/f3ec88dc91bdbf85429fdeff10ba211f).
 
-## Match schedule: Quarterfinals
+## Match schedule: Semifinals
 
-### Sunday, 8 September 2024
+### Saturday, 14 September 2024
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Philippines ::{ flag=PH }:: | ::{ flag=CL }:: Chile | [Sep 08 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T020000&p1=1440&p2=145&p3=232) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| United States ::{ flag=US }:: | ::{ flag=MY }:: Malaysia | [Sep 08 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T040000&p1=1440&p2=263&p3=122) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Taiwan ::{ flag=TW }:: | ::{ flag=NZ }:: New Zealand | [Sep 08 (Sun) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T050000&p1=1440&p2=241&p3=264) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| South Korea ::{ flag=KR }:: | ::{ flag=VN }:: Vietnam | [Sep 08 (Sun) 08:50 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T085000&p1=1440&p2=235&p3=95) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=TW }:: Taiwan | [Sep 08 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T120000&p1=1440&p2=166&p3=241) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Thailand ::{ flag=TH }:: | ::{ flag=SG }:: Singapore | [Sep 08 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T130000&p1=1440&p2=28&p3=236) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Brazil ::{ flag=BR }:: | ::{ flag=JP }:: Japan | [Sep 08 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T140000&p1=1440&p2=45&p3=248) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=HK }:: Hong Kong | [Sep 08 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T140000&p1=1440&p2=136&p3=102) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
-| China ::{ flag=CN }:: | ::{ flag=CA }:: Canada | [Sep 08 (Sun) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T143000&p1=1440&p2=33&p3=188) | [osulive](https://twitch.tv/osulive) or [osulive_2](https://twitch.tv/osulive_2)[^stream-pending] | [^losers-bracket] |
-| Semifinals | mappool showcase | [Sep 08 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240908T180000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| Singapore ::{ flag=SG }:: | ::{ flag=JP }:: Japan | [Sep 14 (Sat) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240914T080000&p1=1440&p2=236&p3=248) |  | [^losers-bracket] |
+| Philippines ::{ flag=PH }:: | ::{ flag=HK }:: Hong Kong | [Sep 14 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240914T100000&p1=1440&p2=145&p3=102) |  | [^losers-bracket] |
+| Malaysia ::{ flag=MY }:: | ::{ flag=RU }:: Russian Federation | [Sep 14 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240914T120000&p1=1440&p2=122&p3=166) |  | [^losers-bracket] |
+| Vietnam ::{ flag=VN }:: | ::{ flag=CN }:: China | [Sep 14 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240914T140000&p1=1440&p2=95&p3=33) |  | [^losers-bracket] |
+
+### Sunday, 15 September 2024
+
+| Team A | Team B | Match time | Twitch stream |  |
+| --: | :-- | :-- | :-: | :-: |
+| Singapore ::{ flag=SG }:: | ::{ flag=VN }:: Vietnam | [Sep 15 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240915T080000&p1=1440&p2=236&p3=95) |  | [^potential-match] |
+| Singapore ::{ flag=SG }:: | ::{ flag=CN }:: China | [Sep 15 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240915T080000&p1=1440&p2=236&p3=33) |  | [^potential-match] |
+| Japan ::{ flag=JP }:: | ::{ flag=VN }:: Vietnam | [Sep 15 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240915T080000&p1=1440&p2=248&p3=95) |  | [^potential-match] |
+| Japan ::{ flag=JP }:: | ::{ flag=CN }:: China | [Sep 15 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240915T080000&p1=1440&p2=248&p3=33) |  | [^potential-match] |
+| Philippines ::{ flag=PH }:: | ::{ flag=MY }:: Malaysia | [Sep 15 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240915T100000&p1=1440&p2=145&p3=122) |  | [^potential-match] |
+| Philippines ::{ flag=PH }:: | ::{ flag=RU }:: Russian Federation | [Sep 15 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240915T100000&p1=1440&p2=145&p3=166) |  | [^potential-match] |
+| Hong Kong ::{ flag=HK }:: | ::{ flag=MY }:: Malaysia | [Sep 15 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240915T100000&p1=1440&p2=102&p3=122) |  | [^potential-match] |
+| Hong Kong ::{ flag=HK }:: | ::{ flag=RU }:: Russian Federation | [Sep 15 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240915T100000&p1=1440&p2=102&p3=166) |  | [^potential-match] |
+| South Korea ::{ flag=KR }:: | ::{ flag=TH }:: Thailand | [Sep 15 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240915T120000&p1=1440&p2=235&p3=28) |  | [^winners-bracket] |
+| United States ::{ flag=US }:: | ::{ flag=CL }:: Chile | [Sep 15 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240915T180000&p1=1440&p2=263&p3=232) |  | [^winners-bracket] |
+| Finals | mappool showcase | [Sep 15 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240915T190000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Mappools
+
+### Semifinals
+
+**[Download the mappack here (212 MB)](https://packs.ppy.sh/P260%20-%20osu!mania%204K%20World%20Cup%202024%3A%20Semifinals.zip)**\
+[View the showcase VOD here](https://www.twitch.tv/videos/2246114290)
+
+- Rice
+  1. [Tatsh - Joker -Vocaloid ver.- (Valedict) \[Mercy upon the fool 1.05x (edit) (361bpm)\]](https://osu.ppy.sh/beatmapsets/2246033#mania/4775287)
+  2. [yuikonnu - Uchouten Vivace (Cut Ver.) (Miaurichesu) \[Presto\]](https://osu.ppy.sh/beatmapsets/2246331#mania/4775902)
+  3. [DJ SHARPNEL - Black Chocolates (Shoegazer) \[Collapse 1.2x (254bpm)\]](https://osu.ppy.sh/beatmapsets/1433708#mania/3401103)
+  4. [trapman - minefield outlaw (guden) \[unbounded 1.05x (152bpm)\]](https://osu.ppy.sh/beatmapsets/2246339#mania/4775913)
+  5. [Terminal 11 - Cold Heart Remix (Pizza69) \[Cold Pizza 1.05x (170bpm)\]](https://osu.ppy.sh/beatmapsets/2246337#mania/4775909)
+  6. [YOASOBI - Idol (0DZ0) \[Rising Star! 1.05x (174bpm)\]](https://osu.ppy.sh/beatmapsets/2246343#mania/4775926)
+  7. [kaitendaentai - Hubris (Vortex-) \[Demise\]](https://osu.ppy.sh/beatmapsets/2246389#mania/4776009)
+- Hybrid
+  1. [MAX MAXIMIZER vs. DJ TOTTO - Rebellio (\[GB\]V1do) \[Apocalypse 1.1x\]](https://osu.ppy.sh/beatmapsets/2246346#mania/4775930)
+  2. [Akiri - Void Of Altair (gzdongsheng) \[Alpha Aquilae\]](https://osu.ppy.sh/beatmapsets/2246375#mania/4775984)
+  3. [Ruby My Dear - Gaviscon (\[Crz\]FolAH1217) \[Elixir (cut)\]](https://osu.ppy.sh/beatmapsets/2246357#mania/4775946)
+- Long Note
+  1. [AZKi - Fake.Fake.Fake (Cut Ver.) (\[Crz\]Crysarlene) \[Dissimulate\]](https://osu.ppy.sh/beatmapsets/2246297#mania/4775830)
+  2. [Hino Isuka - Dreamin' attraction!! (Toaph Daddy) \[Moe Factor \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/2246225#mania/4775650)
+  3. [Camellia vs. Expander - AZISAI (lemonguy) \[LN Master\]](https://osu.ppy.sh/beatmapsets/2246365#mania/4775956)
+  4. [Kabocha feat. Aitsuki Nakuru - Dear The Night I Loved (-mint-) \[A Painting Forever Unfinished\]](https://osu.ppy.sh/beatmapsets/2246380#mania/4775997)
+- SV
+  1. [Zexnum - You Ling Wu Chi (RuleBlazing) \[CORRUPTED SV FILE\]](https://osu.ppy.sh/beatmapsets/2246319#mania/4775879)
+  2. [t+pazolite - Beatboxer VS Trackmaker feat. KAJI & Kohey (AlexDunk) \[:Final-Showdown:\]](https://osu.ppy.sh/beatmapsets/2246368#mania/4775966)
+- Tiebreaker
+  1. **[Ludicin - Echoes of Memoria (-mint-) \[Solace of Oblivion\]](https://osu.ppy.sh/beatmapsets/2246382#mania/4775999)**
 
 ### Quarterfinals
 
@@ -226,6 +264,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/f3e
 
 ### Quarterfinals
 
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1DHwWUdw3XSelzH-HclGyQ1IBB5EzxBPjCv6noSM16Hg?rm=minimal).
+
 Saturday, 7 September 2024:
 
 | Team A |  |  | Team B | Match link | VOD link |
@@ -245,6 +285,12 @@ Sunday, 8 September 2024:
 | Philippines ::{ flag=PH }:: | 2 | **6** | ::{ flag=CL }:: **Chile** | [#1](https://osu.ppy.sh/community/matches/115410350) | [#1](https://www.twitch.tv/videos/2245549816) |
 | **United States** ::{ flag=US }:: | **6** | 0 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/115411317) | [#1](https://www.twitch.tv/videos/2245620314) |
 | **Taiwan** ::{ flag=TW }:: | **6** | 2 | ::{ flag=NZ }:: New Zealand | [#1](https://osu.ppy.sh/community/matches/115411783) | [#1](https://www.twitch.tv/videos/2245655669) |
+| **South Korea** ::{ flag=KR }:: | **6** | 1 | ::{ flag=VN }:: Vietnam | [#1](https://osu.ppy.sh/community/matches/115413528) | [#1](https://www.twitch.tv/videos/2245929835) |
+| **Russian Federation** ::{ flag=RU }:: | **6** | 2 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/115415293) | [#1](https://www.twitch.tv/videos/2245937605) |
+| **Thailand** ::{ flag=TH }:: | **6** | 1 | ::{ flag=SG }:: Singapore | [#1](https://osu.ppy.sh/community/matches/115416098) | [#1](https://www.twitch.tv/videos/2245937606) |
+| Brazil ::{ flag=BR }:: | 0 | **6** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/115416832) | [#1](https://www.twitch.tv/videos/2245937607) |
+| United Kingdom ::{ flag=GB }:: | 5 | **6** | ::{ flag=HK }:: **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/115416860) | [#1](https://www.twitch.tv/videos/2245925227) |
+| **China** ::{ flag=CN }:: | **6** | 1 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/115417286) | [#1](https://www.twitch.tv/videos/2245937608) |
 
 ### Round of 16
 
@@ -507,7 +553,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 [^winners-bracket]: Winners bracket match
 [^losers-bracket]: Losers bracket match
-[^stream-pending]: Final channel to be decided at match time, depending on stream availability 
+[^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
 [^mappool-showcase]: Mappool showcase — schedule subject to rescheduling without prior notice, depending on preceding matches
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rating sum
