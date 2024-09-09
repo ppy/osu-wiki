@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Offset
 
 **Offset** merupakan pengaturan yang mengubah dan menyesuaikan berbagai elemen pada [beatmap](/wiki/Beatmap) seperti berkas audio, [hitsound](/wiki/Beatmapping/Hitsound), [objek permainan](/wiki/Gameplay/Hit_object), atau video latar secara sementara. Dalam permainan osu!, terdapat berbagai jenis offset yang masing-masingnya memengaruhi elemen yang berbeda.
