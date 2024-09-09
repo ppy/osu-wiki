@@ -62,7 +62,7 @@ Special thanks to [arcpotato](https://osu.ppy.sh/users/12842392), [meiqth](https
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/nJ_2RZN3Whc" frameborder="0" allowfullscreen></iframe>
 </div>
 
-[Xinnoh](https://osu.ppy.sh/users/4236057) received the *Elite Mapper* title long ago through another mapping contest, but he's back again to continue proving is osu!catch competence. Congrats on yet another success!
+[Xinnoh](https://osu.ppy.sh/users/4236057) received the *Elite Mapper* title long ago through another mapping contest, but he's back again to continue proving his osu!catch competence. Congrats on yet another success!
 
 These results were determined by osu!catch's judging panel: [Morusya](https://osu.ppy.sh/users/13681464), [Unlucky_w](https://osu.ppy.sh/users/4820793), [Greaper](https://osu.ppy.sh/users/2369776), and [Chatie](https://osu.ppy.sh/users/6524765)!
 
