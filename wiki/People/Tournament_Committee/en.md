@@ -95,7 +95,9 @@ New members to the Tournament Committee must meet the following basic criteria b
 - Be at least 18 years old
 - Pass a check for recent account infringements
 
-Whether a prospective member applies via email or is brought forward by an existing member, the process is the same. The Tournament Committee holds an in-depth discussion on the candidate. Special attention is paid towards their activity in the tournament scene, stature, community contributions, and how they would benefit the committee. Following said discussion, an anonymous vote is held to determine whether to add the candidate to the committee.
+Once a prospective member applies by sending an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh), the Tournament Committee holds an in-depth discussion on the candidate. Special attention is paid towards their activity in the tournament scene, stature, community contributions, and how they would benefit the committee. Following said discussion, an anonymous vote is held to determine whether to add the candidate to the committee.
+
+Applicants that fail to gather enough positive votes will be denied, and won't be able to apply again for 6 months from the time of response to their application. The response will be sent no later than 2 weeks from the day the application was submitted.
 
 ### Votes
 

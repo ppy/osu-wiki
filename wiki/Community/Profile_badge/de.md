@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: a8484b860fb7b94d7a11bc6cbb1924e1cfcd0449
 tags:
   - badges
   - profile badges
@@ -41,3 +39,4 @@ Ein Nebeneffekt dieses Layout-Schemas war, dass die standardmäßige, nicht erwe
 
 - Die ersten beiden Profilabzeichen wurden am 6. September 2009 an ::{ flag=PL }:: [niedzwiedz1124](https://osu.ppy.sh/users/9610) und ::{ flag=PL }:: [White Wolf](https://osu.ppy.sh/users/39828) für den Gewinn des [*Tag Tournament*](https://osu.ppy.sh/community/forums/topics/17169) verliehen.
 - Abzeichen können für weitere Inhalte auf andere Webseiten verweisen, wie zum Beispiel einen Eintrag im Wiki oder die Forenseite eines Turniers.
+- Abzeichen hindern andere davor, [den aktuellen oder die vergangenen Namen des Spielers zu übernehmen](/wiki/Help_centre/Account#take-existing-username).
