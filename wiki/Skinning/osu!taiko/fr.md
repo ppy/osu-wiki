@@ -1,6 +1,5 @@
 ---
-outdated_translation: true
-outdated_since: 9813f83f3faf3eff53d59bf14f5b81cc128a345f
+no_native_review: true
 ---
 
 # Skinning du mode osu!taiko
@@ -431,6 +430,27 @@ Notes :
 - La position varie selon la version du skin :
   - v1.0 - v2.0 : (181,216)
   - v2.1+ : (0,216)
+
+<!-- lint ignore heading-increment -->
+
+#### `taiko-barline.png`
+
+::: Infobox
+
+|  |  |
+| :-- | :-- |
+| Versions | Toutes |
+| Peut être animé | ![Non][false] |
+| Modifiable sur une beatmap | ![Non][false] |
+| Blend mode | Normal |
+| Origine | Centre |
+| Taille de SD suggérée | 4x175 |
+
+:::
+
+![](img/taiko-barline.png "Défaut taiko-barline@2x.png")
+
+Cette image est affichée sur le terrain de jeu au début de chaque [mesure](/wiki/Music_theory/Measure) de la musique (sauf si elle est omise par un [point de synchronisation](/wiki/Client/Beatmap_editor/Timing#point-de-timing-non-hérité)).
 
 ## Drumrolls
 
