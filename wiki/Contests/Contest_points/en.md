@@ -67,15 +67,15 @@ Contest points have been used in the following contests:
 | User | Points | Contests |
 | :-- | :-- | :-- |
 | ::{ flag=TH }:: [**Ph0eNiiXZ**](https://osu.ppy.sh/users/9463721) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (3), [o!tFAC](/wiki/Contests/o!tFAC) (3) |
+| ::{ flag=JP }:: [**uone**](https://osu.ppy.sh/users/5321719) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (3), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (2), [VMC2](/wiki/Contests/VMC/2) (1) |
 | ::{ flag=TH }:: [Kusuhara Yui](https://osu.ppy.sh/users/9582525) | 5 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (2), [o!tFAC](/wiki/Contests/o!tFAC) (3) |
 | ::{ flag=SG }:: [_gt](https://osu.ppy.sh/users/8301957) | 5 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (3), [o!tFAC](/wiki/Contests/o!tFAC) (2) |
-| ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719) | 4 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (1), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (2), [VMC2](/wiki/Contests/VMC/2) (1) |
+| ::{ flag=JP }:: [-Kazuha](https://osu.ppy.sh/users/29978316) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=FI }:: [Jaltzu](https://osu.ppy.sh/users/2597417) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | 2 | [o!tFAC](/wiki/Contests/o!tFAC) |
 | ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438) | 2 | [o!tFAC](/wiki/Contests/o!tFAC) (1), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (1) |
 | ::{ flag=JP }:: [IceOC](https://osu.ppy.sh/users/5482401) | 2 | [Twin Trials](/wiki/Contests/Twin_Trials_Contest) |
 | ::{ flag=KR }:: [ZTH](https://osu.ppy.sh/users/5258461) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
-| ::{ flag=JP }:: [-Kazuha](https://osu.ppy.sh/users/29978316) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=US }:: [Alchyr](https://osu.ppy.sh/users/4993032) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157) | 1 | [o!tFAC](/wiki/Contests/o!tFAC) |
@@ -89,11 +89,13 @@ Contest points have been used in the following contests:
 | ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) | 4 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (2), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (2) |
 | ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (2), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (1) |
 | ::{ flag=PH }:: [-Rusty](https://osu.ppy.sh/users/16355636) | 2 | [Twin Trials](/wiki/Contests/Twin_Trials_Contest) |
+| ::{ flag=SG }:: [Xinnoh](https://osu.ppy.sh/users/4236057) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=TH }:: [rew0825](https://osu.ppy.sh/users/2488026) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | 1 | [Twin Trials](/wiki/Contests/Twin_Trials_Contest) |
 | ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=ID }:: [Ilhamuharam](https://osu.ppy.sh/users/7657968) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=RU }:: [2zz](https://osu.ppy.sh/users/8201267) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 
 ### osu!mania
 
