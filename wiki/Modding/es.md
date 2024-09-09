@@ -2,7 +2,7 @@
 
 *Para otros usos, véase [Mod (desambiguación)](/wiki/Disambiguation/Mod).*
 
-El **modding** es el acto de hacer comentarios sobre el [beatmap](/wiki/Beatmap) de otro usuario. Un usuario que modea es conocido como un *modder*, y sus mensajes colectivos en la discusión de un beatmap son conocidos como *mods*.
+El **modding** es el acto de dar comentarios sobre el [beatmap](/wiki/Beatmap) de otro usuario. Un usuario que modea es conocido como un *modder*, y sus mensajes colectivos en la discusión de un beatmap son conocidos como *mods*.
 
 Los mods se usan principalmente para mejorar los beatmaps que buscan ser [clasificados](/wiki/Beatmap/Category#ranked). Como se trata de un proceso detallado y analítico, el modding de los beatmaps también es una forma popular de que los usuarios mejoren su comprensión del beatmapping.
 
@@ -27,11 +27,11 @@ Para modear un beatmap, empieza descargando la versión más reciente y abriendo
 
 Cuando te encuentres con un problema, selecciona todos los objetos relevantes, luego usa el atajo de copiar (`Ctrl` + `C`) para copiar la información de la línea de tiempo como texto. En la discusión del beatmap, pega (`Ctrl` + `V`) la información de la línea de tiempo y tus comentarios. La pestaña `Línea de tiempo` se usa para problemas relacionados con partes específicas de un beatmap, la pestaña `General (nombre de la dificultad)` se usa para comentarios sobre secciones más grandes de un beatmap, y la pestaña `General (Todas las dificultades)` se usa para problemas aplicables a todas las dificultades de un beatmap.
 
-Todos las publicaciones de los mods deben indicar cuál es el problema, por qué es un problema y cómo solucionarlo. Consulta el [código de conducta para el modding y el mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping#cómo-hacer-una-publicación-de-un-mod) para obtener más información sobre el formato de las publicaciones de los mods.
+Todos las publicaciones de mods deben indicar cuál es el problema, por qué es un problema y cómo solucionarlo. Consulta el [código de conducta para el modding y el mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping#cómo-hacer-una-publicación-de-un-mod) para obtener más información sobre el formato de las publicaciones de mods.
 
 Los mappers suelen dar [kudosu](/wiki/Modding/Kudosu) a los mods que consideren útiles haciendo clic en el icono de *pulgar hacia arriba*. Esta estadística se rastrea en el perfil del usuario y se usa como referencia al solicitar el ingreso a los [Beatmap Nominators](/wiki/People/Beatmap_Nominators).
 
-## Tipos de las publicaciones de mods
+## Tipos de publicaciones de mods
 
 El objetivo de cada publicación de un `Problema` o `Sugerencia` en la página de discusión de un beatmap es explicar todo lo relativo a un beatmap en el contexto de su diseño.
 
