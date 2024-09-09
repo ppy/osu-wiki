@@ -40,7 +40,7 @@ Die Entwicklung von osu! wird von ::{ flag=AU }:: **[peppy](https://osu.ppy.sh/u
 
 ### Designer
 
-- ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765)
+- ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765)
 
 ### Community-Manager
 
