@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: d9f9d3a504cf88a88685b9a8008a91c83aa1b79b
 tags:
   - GMT
   - moderator
@@ -55,11 +53,28 @@ tags:
 3. Не отвечайте на чужие вопросы и не давайте советы, если не уверены в правильности своих ответов (особенно на форуме). Одно дело — предполагать что-то, другое — уверенно давать неправильные рекомендации. Изучайте правильные ответы модераторов и других пользователей и учитесь на них.
 4. Не переусердствуйте с помощью. Лучше регулярно помогать по чуть-чуть, а не заниматься этим делом всё своё время. От чрезмерных усилий можно выгореть и потерять мотивацию. Относитесь ко всему проще!
 
+## Бонусы
+
+Модераторы получают следующие бонусы:
+
+- **[osu!supporter](/wiki/osu!supporter)**: статус osu!supporter, который выдаётся на время пребывания в команде.
+- **Значок стажа**: [значок в профиле](/wiki/Community/Profile_badge), отражающий срок пребывания в команде в годах, от 1 до 10.
+  ![Значок GMT за 1 год](https://assets.ppy.sh/profile-badges/GMT1y.png "Значок GMT за 1 год") ![Значок GMT за 2 года](https://assets.ppy.sh/profile-badges/GMT2y.png "Значок GMT за 2 года") ![Значок GMT за 3 года](https://assets.ppy.sh/profile-badges/GMT3y.png?2024 "Значок GMT за 3 года") ![Значок GMT за 4 года](https://assets.ppy.sh/profile-badges/GMT4y.png?2024 "Значок GMT за 4 года") ![Значок GMT за 5 лет](https://assets.ppy.sh/profile-badges/GMT5y.png?2024 "Значок GMT за 5 лет") ![Значок GMT за 6 лет](https://assets.ppy.sh/profile-badges/GMT6y.png "Значок GMT за 6 лет") ![Значок GMT за 7 лет](https://assets.ppy.sh/profile-badges/GMT7y.png "Значок GMT за 7 лет") ![Значок GMT за 8 лет](https://assets.ppy.sh/profile-badges/GMT8y.png "Значок GMT за 8 лет") ![Значок GMT за 9 лет](https://assets.ppy.sh/profile-badges/GMT9y.png "Значок GMT за 9 лет") ![Значок GMT за 10 лет](https://assets.ppy.sh/profile-badges/GMT10y.png "Значок GMT за 10 лет")
+
+## Уход из команды
+
+Бывшие модераторы после покидания команды обычно получают следующие бонусы:
+
+- **Титул [osu! Alumni](/wiki/People/osu!_Alumni)**: выдаётся пользователям, бывшим на посте модератора в течение 1 года, либо внёсшим большой вклад в жизнь команды за более короткий срок.
+- **osu!supporter**: тег osu!support продлевается на удвоенное время пребывания в команде на тех же условиях, что и титул osu! Alumni.
+
 ## Состав команды
 
 *Примечание: помимо перечисленных языков, каждый модератор знает английский, если не указано обратное.*
 
 Актуальный список — всегда на странице группы: [команда глобальной модерации](https://osu.ppy.sh/groups/4). В дополнение к перечисленным обязанностям, все модераторы участвуют в [проверке аудио- и визуального содержимого карт](/wiki/Rules/Visual_content_considerations#оценка-изображения).
+
+**Помимо указанных категорий, модераторы могут по своему усмотрению заниматься и задачами из других областей.** Например, модераторы чатов могут помогать поддерживать порядок и на форуме.
 
 | Имя | Языки | Сферы деятельности |
 | :-- | :-- | :-- |
@@ -68,6 +83,7 @@ tags:
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Русский | Модерация чата |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Сербский | General moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Модерация форума |
+| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  | Модерация чата, модерация маппинг-сообщества, general moderation |
 | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | Нидерландский, частично немецкий | General moderation |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Организация турниров[^task-Azer] |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | Китайский, малайский | Модерация чата |
@@ -132,6 +148,7 @@ tags:
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Испанский | Техподдержка |
 | ::{ flag=NL }:: [Uni](https://osu.ppy.sh/users/617106) | Нидерландский | Модерация чата |
 | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Польский | Лидерство, модерация чата, модерация маппинг-сообщества |
+| ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | Испанский | Модерация чата |
 | ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) | Индонезийский | Модерация чата |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | Польский | Модерация чата |
 | ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | Модерация чата |
@@ -166,7 +183,7 @@ tags:
 | `#romanian` |  |  |
 | `#russian` | [Русский](https://osu.ppy.sh/community/forums/35) | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467), ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533), ::{ flag=RU }:: [Kudou Chitose](https://osu.ppy.sh/users/9936528), ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) |
 | `#skandinavian` | [Skandinavien](https://osu.ppy.sh/community/forums/77) | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) |
-| `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) |
+| `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392), ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) |
 | `#thai` | [ภาษาไทย](https://osu.ppy.sh/community/forums/54) | ::{ flag=TH }:: [Trigonoculus](https://osu.ppy.sh/users/7627013) |
 | `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) |  |
 | `#ukrainian` |  |  |

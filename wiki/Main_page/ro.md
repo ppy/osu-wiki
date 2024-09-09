@@ -124,7 +124,7 @@ osu! nu ar fi fost posibil fără ajutorul multor utilizatori care au ajutat cu 
 
 Interacționează cu osu! prin alte aplicații și medii sau ajută-l să se extindă.
 
-[API](/wiki/osu!api) • [Cont bot](/wiki/Bot_account) • [Ghid identitate brand](/wiki/Brand_identity_guidelines) • [Server Discord osu!](/wiki/Community/osu!_Discord_server)
+[API](/wiki/osu!api) • [Cont bot](/wiki/Bot_account) • [Ghid identitate brand](/wiki/Brand_identity_guidelines) • [Server Discord osu!](/wiki/Community/Discord_servers#official)
 
 </div>
 <div class="wiki-main-page-panel">

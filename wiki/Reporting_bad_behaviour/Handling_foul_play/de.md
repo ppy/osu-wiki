@@ -1,3 +1,8 @@
+---
+outdated_since: a7829a7972d112aa1bc8799dd865ef3b5e80a630
+outdated_translation: true
+---
+
 # Umgang mit Betrug
 
 ## Warum ist mein Account eingeschränkt?

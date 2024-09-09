@@ -37,7 +37,7 @@ Aunque muchos beatmaps no clasificados cumplen con estos criterios, pocos son vo
 
 En algunos casos, los beatmaps pueden nominarse a pesar de incumplir algunos de los criterios, siempre y cuando el mapper pueda actualizarlos para cumplir con los criterios antes de ser amado. Por ejemplo, un beatmap con un fondo inapropiado puede ser nominado siempre que el fondo se elimine o reemplace posteriormente. Un colaborador activo del Project Loved normalmente publicará en la [discusión](/wiki/Beatmap_discussion) del beatmap si es necesario algún cambio.
 
-Además, los colaboradores del Project Loved suelen hacer sugerencias técnicas, como mejoras en la calidad del audio, la precisión de la [temporización](/wiki/Beatmapping/Timing) o la [estandarización de metadatos recomendada por los criterios de clasificación](/wiki/Ranking_criteria#metadatos). Se recomienda encarecidamente al mapper que aplique estas sugerencias, pero no es obligatorio que lo haga.
+Además, los colaboradores del Project Loved suelen hacer sugerencias técnicas, como mejoras en la calidad del audio, la precisión de la [temporización](/wiki/Beatmapping/Timing) o la [estandarización de metadatos recomendada por los criterios de clasificación](/wiki/Ranking_criteria/Metadata). Se recomienda encarecidamente al mapper que aplique estas sugerencias, pero no es obligatorio que lo haga.
 
 ### Criterios específicos de osu!
 

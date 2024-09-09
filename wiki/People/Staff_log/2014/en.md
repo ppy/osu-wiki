@@ -226,7 +226,7 @@ All users listed below were added on 2014-08-30.
 
 - Moved [Gabe](https://osu.ppy.sh/users/654108) from osu! Alumni to Beatmap Appreciation Team (2014-09-02)
 - Moved [Frostmourne](https://osu.ppy.sh/users/199669) from osu! Alumni to Quality Assurance Team (2014-09-05)
-- Added [XavierJones](https://osu.ppy.sh/users/495733) Chat Moderators (2014-09-08)
+- Added [XavierJones](https://osu.ppy.sh/users/495733) to Chat Moderators (2014-09-08)
 - Moved [Card N'FoRcE](https://osu.ppy.sh/users/3936) to osu! Alumni (2014-09-11)
 - Moved [Asphyxia](https://osu.ppy.sh/users/1715720) from Beatmap Appreciation Team to Quality Assurance Team (2014-09-20)
 - Moved [captin1](https://osu.ppy.sh/users/689997) to Beatmap Appreciation Team (2014-09-20)
