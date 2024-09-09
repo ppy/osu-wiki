@@ -40,7 +40,7 @@ The osu! development effort is lead by ::{ flag=AU }:: **[peppy](https://osu.ppy
 
 ### Designers
 
-- ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765)
+- ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765)
 
 ### Community managers
 
