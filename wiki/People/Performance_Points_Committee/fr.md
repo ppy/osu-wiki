@@ -52,7 +52,7 @@ Le panel osu!taiko a été créé le 1er mai 2022 en réponse à [une enquête c
 
 | Profil osu! | Profil GitHub | Date d'adhésion |
 | :-- | :-- | :-- |
-| ::{ flag=AU }:: [-Lawtron-](https://osu.ppy.sh/users/11475208) | [Lawtrohux](https://github.com/Lawtrohux) | 1er mai 2022|
+| ::{ flag=AU }:: [-Lawtron-](https://osu.ppy.sh/users/11475208) | [Lawtrohux](https://github.com/Lawtrohux) | 1er mai 2022 |
 | ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438) | [Horiiizons](https://github.com/Horiiizons) | 1er mai 2022 |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | [mangomizer](https://github.com/mangomizer) | 1er mai 2022 |
 | ::{ flag=CA }:: [Natelytle](https://osu.ppy.sh/users/17607667) | [Natelytle](https://github.com/Natelytle) | 25 juillet 2023 |
