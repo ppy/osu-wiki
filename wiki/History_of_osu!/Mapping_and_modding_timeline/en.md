@@ -355,7 +355,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 - **2018-03-01:** QAT separated its tasks into branches: BN evaluation, disqualifications, metadata, spotlights, blog, Ranking Criteria, and general leadership.
   - QAT members could be involved in multiple branches.
   - This aimed to give purpose to some QAT members who felt that they had no specific roles in the mapping/modding community. This feeling was largely relevant because the QAT had little involvement with Quality Assurance anymore. <!-- source is discord logs -->
-- **2018-03-03:** `#modding` channel was created in the [osu! Discord server](/wiki/Community/osu!_Discord_server).
+- **2018-03-03:** `#modding` channel was created in the [osu! Discord server](/wiki/Community/Discord_servers#official).
   - While its goal was to shift mapping discussion away from the BN Discord server, this discussion centre was rarely used apart from scheduled QAT meetings. <!-- source is discord logs -->
 - **2018-03-24:** Ranking Criteria subforum was re-opened for public proposal discussions and the UBKRC was discontinued.
   - The UBKRC was discontinued at this time because all subsections of the general and game mode Ranking Criteria were finalised. <!-- https://osu.ppy.sh/community/forums/topics/720532 -->
@@ -412,7 +412,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 - **2019-03-01:** The [Mappers' Guild](/wiki/Community/Mappers_Guild) transitioned from application-based entry to automatic entry for anyone with 3 ranked maps.
   - [Featured Artist](/wiki/People/Featured_Artists) beatmaps became more frequently created and ranked.
-  - `#mappers-guild` channel was created in the [osu! Discord server](/wiki/Community/osu!_Discord_server).
+  - `#mappers-guild` channel was created in the [osu! Discord server](/wiki/Community/Discord_servers#official).
 - **2019-03-13:** Rule requiring consecutive nominations to be set at least 24 hours apart from each other was removed.
   - This rule was a major complaint from mappers and Beatmap Nominators because it felt like it was unnecessarily wasting everyone's time. If an issue was found after the first nomination, the second nominator would often avoid pointing it out to avoid an extra 24 hour wait.
   - Along with this change, Beatmap Nominators could veto qualified beatmaps. The rule originally existed because Beatmap Nominators needed 24 hours to potentially apply vetoes to maps with one nomination.<!-- https://osu.ppy.sh/community/forums/posts/6885033 -->
