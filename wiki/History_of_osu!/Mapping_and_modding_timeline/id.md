@@ -359,7 +359,7 @@ Secara keseluruhan, terdapat **1847 beatmap** yang di-rank sepanjang tahun 2017.
 - **2018-03-01:** QAT memperkenalkan sistem divisi tugas bagi para anggotanya: evaluasi BN, diskualifikasi, metadata, spotlights, blog, Ranking Criteria, dan kepemimpinan umum.
   - Anggota QAT dapat menjabat pada lebih dari satu divisi tugas.
   - Perubahan ini diberlakukan agar QAT lebih memiliki tujuan dan alur kerja yang nyata. Sebelumnya, banyak anggota QAT yang mengeluhkan kurang jelasnya arahan yang mereka terima. <!-- source is discord logs -->
-- **2018-03-03:** Kanal `#modding` pada [server Discord osu!](/wiki/Community/osu!_Discord_server) dibuka.
+- **2018-03-03:** Kanal `#modding` pada [server Discord osu!](/wiki/Community/Discord_servers#official) dibuka.
   - Kanal ini dibentuk sebagai ruang diskusi yang terbuka bagi seluruh kalangan untuk membahas berbagai hal yang berkaitan dengan mapping dan modding serta sebagai tempat untuk menggelar rapat publik QAT. <!-- source is discord logs -->
 - **2018-03-24:** Sub-forum Ranking Criteria kembali dibuka untuk umum setelah UBKRC dibubarkan.
   - Pembubaran UBKRC berkaitan dengan telah disahkannya Ranking Criteria versi baru yang diusung oleh UBKRC. <!-- https://osu.ppy.sh/community/forums/topics/720532 -->
@@ -416,7 +416,7 @@ Secara keseluruhan, terdapat **2749 beatmap** yang di-rank sepanjang tahun 2018.
 
 - **2019-03-01:** [Mappers' Guild](/wiki/Community/Mappers_Guild) mulai menerima siapapun yang memiliki setidaknya 3 beatmap Ranked untuk dapat menjadi anggota tanpa terkecuali.
   - Sistem penerimaan anggota Mappers' Guild yang lebih terbuka ini mengakibatkan jumlah beatmap dari lagu [Featured Artist](/wiki/People/Featured_Artists) yang ada meningkat tajam.
-  - Kanal `#mappers-guild` dibuat secara khusus pada [server Discord osu!](/wiki/Community/osu!_Discord_server) untuk mendukung perubahan ini.
+  - Kanal `#mappers-guild` dibuat secara khusus pada [server Discord osu!](/wiki/Community/Discord_servers#official) untuk mendukung perubahan ini.
 - **2019-03-13:** Peraturan yang mempersyaratkan selang waktu antar nominasi pertama dan nominasi kedua pada suatu beatmap harus lebih dari 24 jam dihapus.
   - Peraturan tersebut dihapus karena para mapper merasa bahwa peraturan ini tidak efektif dan hanya membuang-buang waktu.
   - Anggota Beatmap Nominator diberikan kuasa untuk menempatkan veto pada beatmap yang berstatus Qualified. Sebelumnya, veto hanya bisa ditempatkan pada beatmap yang telah dinominasikan namun belum mencapai status Qualified.<!-- https://osu.ppy.sh/community/forums/posts/6885033 -->
