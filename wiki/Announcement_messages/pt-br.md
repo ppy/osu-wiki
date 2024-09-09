@@ -5,7 +5,9 @@ tags:
   - announce user group
   - anuncio
   - grupo de usuarios de anuncios
+no_native_review: true
 ---
+
 # Mensagens de Anúncio
 
 ![Notificação de anúncio](img/notification.png "Uma mensagem de notificação de um anúncio")
