@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Mises à jour de lazer
 
 ![](img/banner.png "Bannière du post de news osu!(lazer) updates")

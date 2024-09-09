@@ -2,6 +2,7 @@
 tags:
   - COE
   - COE2024
+no_native_review: true
 ---
 
 # cavoe's osu! event 2024
