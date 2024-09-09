@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Skinning du mode osu!
 
 ## Comboburst
