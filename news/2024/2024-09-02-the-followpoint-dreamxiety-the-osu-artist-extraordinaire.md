@@ -5,7 +5,7 @@ date: 2024-09-02 13:00:00 +0000
 series: The Followpoint
 ---
 
-The Followpoint has came back with another interview! This time it will be very artistic so to say.
+The Followpoint is back with another interview! This time it will be very artistic so to say.
 
 ![](/wiki/shared/news/2024-09-02-the-followpoint-dreamxiety-the-osu-artist-extraordinaire/banner.jpg)
 
