@@ -38,6 +38,8 @@ osu original text
 
 ## Quarterfinals results
 
+text
+
 | Team A |  |  | Team B |
 | --: | :-: | :-: | :-- |
 | **China** ::{ flag=CN }:: | **6** | 1 | ::{ flag=ID }:: Indonesia |
