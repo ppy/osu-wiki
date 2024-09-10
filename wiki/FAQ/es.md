@@ -309,7 +309,6 @@ Soltaste un slider demasiado pronto. También es posible perder el combo si lo e
 - Wikipedia [2](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [3](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)
 - Reddit's /r/osugame/wiki [4](http://www.reddit.com/r/osugame/wiki/index)
 
-
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
