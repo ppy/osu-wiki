@@ -33,7 +33,7 @@ Los mappers suelen dar [kudosu](/wiki/Modding/Kudosu) a los mods que consideren 
 
 ## Tipos de publicaciones de mods
 
-El objetivo de cada publicación de un `Problema` o `Sugerencia` en la página de discusión de un beatmap es explicar todo lo relativo a un beatmap en el contexto de su diseño.
+El objetivo de cada publicación de un `Problema` o `Sugerencia` en la página de discusión de un beatmap es explicar todo lo relacionado con un beatmap en el contexto de su diseño.
 
 Muchas publicaciones de mods se refieren a errores en un beatmap. Por ejemplo, si falta un hitsound de un clap que se esperaría según el patrón de hitsounding del beatmap, es probable que se trate de un error.
 
