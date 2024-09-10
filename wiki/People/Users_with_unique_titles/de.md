@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: f025dffcc9f2f7857bdb1819c90c9cb7376c7b22
----
-
 # Benutzer mit einzigartigen Titeln
 
 Nutzertitel sind in der Regel mit [Benutzergruppen](/wiki/People/User_group) verbunden, aber die unten aufgelisteten Benutzer haben ihre Titel aus anderen Gründen erhalten. Die meisten Titel waren Auszeichnungen für Beiträge oder Errungenschaften, wobei die übrigen Titel Symbole der kultigen oder lustigen osu!-Geschichte sind.
@@ -134,9 +129,10 @@ Gewinner der vorherigen osu!mania World Cups mit dem Nutzertitel **Former osu!ma
 
 ## Gewinner von offiziellen Mapping-Wettbewerben
 
-Die meisten offiziellen Mapping-Wettbewerbe bieten den Titel **Elite Mapper** als ersten Preis an.
+Die meisten offiziellen Mapping-Wettbewerbe bieten den Titel **Elite Mapper** durch [Wettbewerbspunkte](/wiki/Contests/Contest_points) an. Ältere Wettbewerbe verliehen den Titel als Preis für den ersten Platz.
 
 - ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596)
+- ::{ flag=PH }:: [acnozei](https://osu.ppy.sh/users/10141268)
 - ::{ flag=KR }:: [Acylica](https://osu.ppy.sh/users/1943309)
 - ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883)
 - ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114)
@@ -175,6 +171,7 @@ Die meisten offiziellen Mapping-Wettbewerbe bieten den Titel **Elite Mapper** al
 - ::{ flag=KR }:: [Taeyang](https://osu.ppy.sh/users/2732340)
 - ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811)
 - ::{ flag=CN }:: [TtmnZk](https://osu.ppy.sh/users/2495509)
+- ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904)
 - ::{ flag=CN }:: [yf\_bmp](https://osu.ppy.sh/users/1243669)
 - ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834)
 - ::{ flag=RU }:: [xbopost](https://osu.ppy.sh/users/6842421)
