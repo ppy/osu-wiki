@@ -13,6 +13,8 @@ tags:
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### Floating Fruits
 
 ![Floating Fruits mod icon](/wiki/Gameplay/Game_modifier/Lazer/img/mods/FF.png)

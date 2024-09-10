@@ -12,6 +12,8 @@ tags:
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### Classic
 
 ![Classic mod icon](/wiki/Gameplay/Game_modifier/Lazer/img/mods/CL.png)
