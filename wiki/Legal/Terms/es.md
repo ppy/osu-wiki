@@ -103,7 +103,7 @@ Cuando dicha acción sea necesaria para proteger y defender los derechos o la pr
 
 Cuando dicha acción sea necesaria para hacer cumplir los términos y condiciones del servicio de osu!.
 
-osu! puede usar cookies como parte del proceso de seguimiento, pero las cookies no se usarán para identificarle personalmente sin su consentimiento previo.
+osu! puede usar cookies como parte del proceso de seguimiento, pero las cookies no se usarán para identificarlo personalmente sin su consentimiento previo.
 Si el usuario decide participar en el foro, con su consentimiento, se emitirá una cookie para realizar un seguimiento del nombre de usuario y la contraseña durante el periodo de 1 año.
 
 ## DERECHOS DE PROPIEDAD DEL CONTENIDO
