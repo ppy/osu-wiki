@@ -113,7 +113,7 @@ Si se está usando el modificador [Auto Pilot](/wiki/es/Gameplay/Game_modifier/A
 
 ![Mode change interface](/wiki/shared/Interface_mode.png "Mode toolbox in Song Selection (Solo)")
 
-Cliquea en el boton de `Modo` para **abrir una lista con los modos de juego disponibles en Osu!**. Cliquea en el modo de juego deseado y Osu! cambiará al estilo del modo de juego deseado. Tambien puedes presionar las teclas `Ctrl` y `1` (![][osu! icon] *[osu!](/wiki/es/Game_mode/osu!))* / `2` ( ![][osu!taiko icon] *[osu!taiko](/wiki/es/Game_mode/osu!taiko)*) / `3` (![][osu!catch icon] *[osu!catch](/wiki/es/Game_mode/osu!catch)*) / `4` (![][osu!mania icon] *[osu!mania](/wiki/es/Game_mode/osu!mania)*) para cambiar rapidamente entre los modos de juego
+Cliquea en el boton de `Modo` para **abrir una lista con los modos de juego disponibles en Osu!**. Cliquea en el modo de juego deseado y Osu! cambiará al estilo del modo de juego deseado. Tambien puedes presionar las teclas `Ctrl` y `1` (![][osu!] *[osu!](/wiki/es/Game_mode/osu!))* / `2` ( ![][osu!taiko] *[osu!taiko](/wiki/es/Game_mode/osu!taiko)*) / `3` (![][osu!catch] *[osu!catch](/wiki/es/Game_mode/osu!catch)*) / `4` (![][osu!mania] *[osu!mania](/wiki/es/Game_mode/osu!mania)*) para cambiar rapidamente entre los modos de juego
 
 ### ¿Qué es "Taiko"?
 
