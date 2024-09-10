@@ -759,7 +759,7 @@
 
 ## 滑条失误提示 （仅Lazer）
 
-在 [Lazer](/wiki/Client/Release_stream/Lazer) 版本的游戏中，添加了当滑条部分失误时显示的新提示。下面的传统皮肤元素可被用来制作这些失误提示。它们在 osu!stable 中没有效果<!-- TODO link somewhere -->。
+在 [Lazer](/wiki/Client/Release_stream/Lazer) 版本的游戏中，新增了漏掉滑条部分时的提示。可以使用下面的传统皮肤元素自定义这些提示。osu!stable 不使用它们<!-- TODO link somewhere -->。
 
 |  |  |
 | :-- | :-- |
