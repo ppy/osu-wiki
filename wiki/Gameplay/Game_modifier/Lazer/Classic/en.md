@@ -27,7 +27,7 @@ tags:
 | Game modes | ![][osu!] ![][osu!taiko] |
 | Score multiplier | 0.96x |
 | Status | Unranked |
-| Incompatible mods (osu!) | [Strict Tracking](/wiki/Gameplay/Game_modifier/Lazer/Strict_Tracking) |
+| Incompatible mods (osu!) | Strict Tracking |
 
 :::
 
