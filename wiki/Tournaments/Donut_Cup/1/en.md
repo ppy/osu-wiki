@@ -28,9 +28,11 @@ The **Donut Cup** was a double-elimination 3v3 osu! tournament hosted by ::{ fla
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1 month of osu!supporter for each team member, custom-made profile banner, a batch of freshly baked donuts (conditional according to feasibility of the delivery) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1 month of osu!supporter for each team member, custom-made profile banner, a batch of freshly baked donuts (conditional according to feasibility of the delivery), unique profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Custom-made profile banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Custom-made profile banner |
+
+![](img/badge.png "Donut Cup winner badge")
 
 ## Organisation
 
