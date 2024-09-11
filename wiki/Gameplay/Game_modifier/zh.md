@@ -77,13 +77,13 @@ tags:
 
 ### 相关术语
 
-#### 无模组 (NoMod)
+#### 无模组 (No Mod)
 
-在[比赛](/wiki/Tournaments)对局内，**无模组 (NoMod)** (***NM***) 指游玩谱面时不开启任何游戏模组。许多比赛需要在游玩时默认开启部分模组以符合比赛规定，如 [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) 或者 [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) 模组。因此，这些模组通常不包括在“无模组”限制内。
+在[比赛](/wiki/Tournaments)对局内，**无模组 (No Mod)** (***NM***) 指游玩谱面时不开启任何游戏模组。许多比赛需要在游玩时默认开启部分模组以符合比赛规定，如 [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) 或者 [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) 模组。因此，这些模组通常不包括在“无模组”限制内。
 
-#### 自由选择模组 (FreeMod)
+#### 自由选择模组 (Free Mod)
 
-在[比赛](/wiki/Tournaments)对局内，**自由选择模组 (FreeMod)** (***FM***) 指游玩谱面时可选择开启部分指定的游戏模组。部分比赛也会提供具体的选择规则，确定了哪些模组可供自由选择，哪些模组应被选择，或者是否能在 FM 规则下的谱面内无模组 (NM) 游玩。
+在[比赛](/wiki/Tournaments)对局内，**自由选择模组 (Free Mod)** (***FM***) 指游玩谱面时可选择开启部分指定的游戏模组。部分比赛也会提供具体的选择规则，确定了哪些模组可供自由选择，哪些模组应被选择，或者是否能在 FM 规则下的谱面内无模组 (NM) 游玩。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

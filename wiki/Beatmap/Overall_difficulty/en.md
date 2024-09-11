@@ -52,7 +52,7 @@ the same formula is used in stable -->
 | 300 | `64 - 3 × OD` |
 | 200 | `97 - 3 × OD` |
 | 100 | `127 - 3 × OD` |
-| 50 | `188 - 3 × OD` |
+| 50 | `151 - 3 × OD` |
 
 If the player hits outside of the 50's hit window, it will count as a miss. In case the hit windows of two objects overlap, the second object will be inaccessible until the first object disappears due to [notelock](/wiki/Gameplay/Judgement/Notelock).
 

@@ -1,13 +1,8 @@
----
-outdated_since: a0e4364edc5b689e3699ec76cbaa28f81a4597c9
-outdated_translation: true
----
-
 # Verwaltung des osu!-Wikis
 
 *Siehe auch: [Beitragsleitfaden des osu!-Wikis](/wiki/osu!_wiki/Contribution_guide)*
 
-Dieser Artikel beschreibt technische oder administrative Aspekte des osu!-Wikis. Hier werden auch Instandhaltungsmaßnahmen behandelt, die erforderlich sind, damit ständig frischer Wind vorherrscht — vielleicht möchtest du [bei einer davon helfen](#abläufe). Benutze für alle Diskussionen, die sich auf das Wiki beziehen, den Kanal `#osu-wiki` des [osu! Discord-Servers](/wiki/Community/osu!_Discord_server).
+Dieser Artikel beschreibt technische oder administrative Aspekte des osu!-Wikis. Hier werden auch Instandhaltungsmaßnahmen behandelt, die erforderlich sind, damit ständig frischer Wind vorherrscht — vielleicht möchtest du [bei einer davon helfen](#abläufe). Benutze für alle Diskussionen, die sich auf das Wiki beziehen, den Kanal `#osu-wiki` des [osu! Discord-Servers](/wiki/Community/Discord_servers#offiziell).
 
 ## Administratoren
 
@@ -68,8 +63,8 @@ Nachstehend findest du eine Tabelle mit allen CI-Kontrollen in der richtigen Rei
 
 | # | Prüfung | Tool | Erklärung | Umgehung |
 | :-: | :-- | :-- | :-- | :-- |
-| 1 | Dateigrößen | [`meta/check-file-sizes.sh`](https://github.com/ppy/osu-wiki/blob/master/meta/check-file-sizes.sh) | Ob eine Bilddatei unter dem [Dateigrößenlimit für Newsbeiträge und Wikiartikel](/wiki/Article_styling_criteria/Formatting#dateigröße) ist (1 MB). Gibt eine Warnung für Dateien über 0,5 MB. | Keine. |
-| 2 | Markdown | [remark](https://github.com/remarkjs/remark) mit [`meta/remark.sh`](https://github.com/ppy/osu-wiki/blob/master/meta/remark.sh) | Ob die Markdown-Syntax in Wikiartikeln und Newsbeiträgen korrekt und einheitlich ist. | Füge `<!-- lint ignore Regel -->` über der beanstandeten Zeile ein, wobei `Regel` die Regel ist, die ignoriert werden soll. |
+| 1 | Dateigrößen | [`meta/check-file-sizes.sh`](https://github.com/ppy/osu-wiki/blob/master/meta/check-file-sizes.sh) | Ob eine Bilddatei unter dem [Dateigrößenlimit für Newsbeiträge und Wikiartikel](/wiki/Article_styling_criteria/Formatting#dateigröße) ist (1 MB). Gibt eine Warnung für Dateien über 0,5 MB aus. | Keine. |
+| 2 | Markdown | [remark](https://github.com/remarkjs/remark) mit [`meta/remark.sh`](https://github.com/ppy/osu-wiki/blob/master/meta/remark.sh) | Ob die Markdown-Syntax in Wikiartikeln und Newsbeiträgen korrekt und einheitlich ist. | Füge `SKIP_REMARK` irgendwo zur Beschreibung des Änderungsvorschlags hinzu. Füge `<!-- lint ignore Regel -->` über der beanstandeten Zeile ein, um einen spezifischen Fehler dauerhaft zu unterdrücken. `Regel` ist dabei die Regel, die ignoriert werden soll. |
 | 3 | YAML | Befehl `check-yaml` aus [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Ob die YAML-Syntax in der Datei [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml) und in der [Titelsektion](/wiki/Article_styling_criteria/Formatting#titelsektion) korrekt und einheitlich ist. | Keine. |
 | 4 | Kaputte Wiki-Links | Befehl `check-links` aus [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Ob interne [Wiki-Links](/wiki/Article_styling_criteria/Formatting#wiki-links) auf einen tatsächlichen Artikel, Newsbeitrag (für Newsbeitrag-Links) oder einen Abschnitt davon zeigen. | Füge `SKIP_WIKILINK_CHECK` irgendwo zur Beschreibung des Änderungsvorschlags hinzu. |
 | 5 | Nicht mehr aktuelle Übersetzungen | Befehl `check-outdated-articles` aus [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Ob Übersetzungen korrekt als [nicht mehr aktuell gekennzeichnet](/wiki/Article_styling_criteria/Formatting#nicht-mehr-aktuelle-übersetzungen) werden, wenn ein englischer Artikel aktualisiert wird. | Füge `SKIP_OUTDATED_CHECK` irgendwo zur Beschreibung des Änderungsvorschlags hinzu. |
@@ -133,7 +128,7 @@ Einige Features sind nicht direkt mit der osu!-Webseite verwandt, können aber n
 
 *Anmerkung: Die Webseite [osu-wiki status](https://osu.wiki/status/de) zeigt eine Liste aller Artikel an, die überarbeitet werden müssen, sortiert nach Kategorie.*
 
-Das Wiki ist auf Anregungen aus der osu!-Community angewiesen. Du kannst den Betreuern und anderen Mitwirkenden helfen, indem du dich einbringst. Für Informationen darüber, wie man das macht, lies den [Beitragsleitfaden](/wiki/osu!_wiki/Contribution_guide). Solltest du an einem Punkt nicht weiterkommen, frage im Kanal `#osu-wiki` des [osu! Discord-Servers](/wiki/Community/osu!_Discord_server) nach Hilfe.
+Das Wiki ist auf Anregungen aus der osu!-Community angewiesen. Du kannst den Betreuern und anderen Mitwirkenden helfen, indem du dich einbringst. Für Informationen darüber, wie man das macht, lies den [Beitragsleitfaden](/wiki/osu!_wiki/Contribution_guide). Solltest du an einem Punkt nicht weiterkommen, frage im Kanal `#osu-wiki` des [osu! Discord-Servers](/wiki/Community/Discord_servers#offiziell) nach Hilfe.
 
 ### Übersetzungen
 

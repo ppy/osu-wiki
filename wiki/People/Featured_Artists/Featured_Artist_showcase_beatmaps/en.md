@@ -651,7 +651,7 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!]) [kakichoco - Zan'ei](https://osu.ppy.sh/beatmapsets/1888928) hosted by ::{ flag=RU }:: [PandaHero](https://osu.ppy.sh/users/1233255)
   - (![][osu!]) [kakichoco - Reirou no Hibiki](https://osu.ppy.sh/beatmapsets/1853651) hosted by ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302)
 
-### Febraury
+### February
 
 - **[FRASER EDWARDS](https://osu.ppy.sh/home/news/2023-02-04-new-featured-artist-fraser-edwards)** (2023-02-04)
   - (![][osu!]) [FRASER EDWARDS - Ruination](https://osu.ppy.sh/beatmapsets/1848184) hosted by ::{ flag=GB }:: [Shii](https://osu.ppy.sh/users/9186316)
@@ -753,6 +753,35 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!]) [ColBreakz & Vizzen - Remember](https://osu.ppy.sh/beatmapsets/2052201) hosted by ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
 - **[Dustvoxx](https://osu.ppy.sh/home/news/2023-10-28-new-featured-artist-dustvoxx)** (2023-10-28)
   - (![][osu!]) [Dustvoxx, Laur - FireLight](https://osu.ppy.sh/beatmapsets/2064173) hosted by ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
+
+### November
+
+- **[PHAZE](https://osu.ppy.sh/home/news/2023-11-04-new-featured-artist-phaze)** (2023-11-04)
+  - (![][osu!]) [PHAZE - Mirai Isho](https://osu.ppy.sh/beatmapsets/1989072#osu/4132104) hosted by ::{ flag=DE }:: [KaedeharaKazuha](https://osu.ppy.sh/users/6300910)
+  - (![][osu!]) [PHAZE - abyss](https://osu.ppy.sh/beatmapsets/2047330#osu/4274291) hosted by ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539)
+- **[you](https://osu.ppy.sh/home/news/2023-11-18-new-featured-artist-you)** (2023-11-18)
+  - (![][osu!mania]) [you - Wake Up](https://osu.ppy.sh/beatmapsets/2090600#mania/4383318) hosted by ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604)
+  - (![][osu!]) [you feat. nayuta - Color (2019 Reworks)](https://osu.ppy.sh/beatmapsets/2089375#osu/4378527) hosted by ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
+
+### December
+
+- **[Knife](https://osu.ppy.sh/home/news/2023-12-02-new-featured-artist-knife)** (2023-12-02)
+  - (![][osu!]) [Knife - Negaigoto Liner 2020](https://osu.ppy.sh/beatmapsets/2049932#osu/4280355) hosted by ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
+  - (![][osu!catch]) [Knife - Story](https://osu.ppy.sh/beatmapsets/2096026#fruits/4395020) hosted by ::{ flag=NL }:: [Chatie](https://osu.ppy.sh/users/6524765)
+- **[Asa](https://osu.ppy.sh/home/news/2023-12-10-new-featured-artist-asa)** (2023-12-10)
+  - (![][osu!catch]) [Koan Sound x Culprate x Reso x Asa - Cascade](https://osu.ppy.sh/beatmapsets/2046177#fruits/4271123) hosted by ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466)
+
+## 2024
+
+### February
+
+- **[Rocket Start](https://osu.ppy.sh/home/news/2024-02-03-new-featured-artist-rocket-start)** (2024-02-03)
+  - (![][osu!]) [Rocket Start - Sushi Blast](https://osu.ppy.sh/beatmapsets/2069690#osu/4330639) hosted by ::{ flag=UZ }:: [Shmiklak](https://osu.ppy.sh/users/5504231)
+
+### April
+
+- **[PaceMKR](https://osu.ppy.sh/home/news/2024-04-13-new-featured-artist-pacemkr)** (2024-04-13)
+  - (![][osu!]) [PaceMKR - Break It Down (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2051128#osu/4283294) hosted by ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337)
 
 ## History
 

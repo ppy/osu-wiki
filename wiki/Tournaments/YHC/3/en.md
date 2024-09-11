@@ -285,7 +285,7 @@ This competition has come to an end and resulted in the following podium:
    - Teams may "double pick" (i.e. pick two or more maps from the same mod pool in sequence) without limitations.
    - The loser of the `!roll` 's ban/pick depends on the winner of the `!roll`.
 4. After bans are decided, both teams will take turns in picking a beatmap from the mappool.
-5. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than alloted for either action, the procedures adopted will be as follows:
+5. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than allotted for either action, the procedures adopted will be as follows:
    - For the first occurrence:
      - The team will receive a verbal warning from the referee.
    - On subsequent occurrences:
@@ -298,7 +298,7 @@ This competition has come to an end and resulted in the following podium:
 ### Mappool information
 
 1. Every stage will have its own mappool.
-2. Each mappool will consist of 4 brackets: [No Mod](/wiki/Gameplay/Game_modifier#nomod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), and [FreeMod](/wiki/Gameplay/Game_modifier#freemod).
+2. Each mappool will consist of 4 brackets: [No Mod](/wiki/Gameplay/Game_modifier#no-mod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), and [FreeMod](/wiki/Gameplay/Game_modifier#free-mod).
 3. The mappool sizes are as follows:
    - Elimination Stage 1 and Elimination Stage 2: 14 beatmaps: 6 HD, 2 NM, 2 DT, 3 FM, 1 TB
    - Elimination Stage 3: 16 beatmaps: 7 HD, 2 NM, 3 DT, 3 FM, 1 TB

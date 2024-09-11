@@ -569,7 +569,7 @@ The final standings for the Qualifier stage can be found at the following [sprea
    - The captain with the higher roll decides which team **picks** first.
    - The captain with the lower roll decides which team **bans** first.
    - **From Quarterfinals onwards, the team that bans first will ban one map, then the other team will ban two maps, then finally the first team will make their final ban.**
-5. Teams will have 2 minutes to pick a beatmap and 2 minutes to get ready. If a team takes more time than alloted, the procedures adopted will be as follows:
+5. Teams will have 2 minutes to pick a beatmap and 2 minutes to get ready. If a team takes more time than allotted, the procedures adopted will be as follows:
    - For the first occurrence:
      - The team will receive a verbal warning from the referee
    - On subsequent occurrences:

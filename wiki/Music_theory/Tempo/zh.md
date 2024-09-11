@@ -25,7 +25,7 @@ tags:
 - 因为曲速更快，[节拍](/wiki/Music_theory/Beat)间隔会更短，从而会影响到游玩速度
 - [osu!](/wiki/Game_mode/osu!) 的[滑条速度 (SV)](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) 和 [osu!mania](/wiki/Game_mode/osu!mania) 的默认下落速度所参考的基准
 - [Kiai 时间](/wiki/Gameplay/Kiai_time)内，闪光的频次
-- [主菜单](/wiki/Client/Interface#main-menu)闪光、[osu! 粉饼](/wiki/Client/Interface/Cookie)的搏动效果、[选歌界面](/wiki/Client/Interface#song-select)的喷星效果
+- [主菜单](/wiki/Client/Interface#主菜单)闪光、[osu! 粉饼](/wiki/Client/Interface/Cookie)的搏动效果、[选歌界面](/wiki/Client/Interface#选歌界面)的喷星效果
 - [倒计时](/wiki/Beatmap/Countdown)速度
 
 ## 作图

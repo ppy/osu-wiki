@@ -49,7 +49,7 @@ Nilai hit window untuk berbagai waktu penilaian yang ada dapat dilihat dengan me
 | 300 | `64 - 3 * OD` |
 | 200 | `97 - 3 * OD` |
 | 100 | `127 - 3 * OD` |
-| 50 | `188 - 3 * OD` |
+| 50 | `151 - 3 * OD` |
 
 Jika pemain menekan hit object di luar dari hit window 50, pemain akan mendapatkan miss. Apabila terdapat dua objek yang hit window-nya saling bertumpuk, objek kedua tidak akan dapat ditekan hingga objek pertama hilang akibat mekanika [notelock](/wiki/Gameplay/Judgement/Notelock).
 

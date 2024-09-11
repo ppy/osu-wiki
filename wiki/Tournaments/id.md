@@ -111,11 +111,12 @@ Berikut merupakan berbagai turnamen/kompetisi tidak resmi yang diselenggarakan o
 
 | Nama | Mulai | Selesai | ![Mahkota Emas][GCrown] | ![Mahkota Perak][SCrown] | ![Mahkota Perunggu][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| 3 Digit World Cup | 2019-03-15 | 2019-05-26 | ::{ flag=KR }:: Korea Selatan | ::{ flag=RU }:: Rusia | ::{ flag=US }:: Amerika Serikat |
+| 3 Digit World Cup | 2019-03-15 | 2019-05-26 | ::{ flag=KR }:: Korea Selatan | ::{ flag=US }:: Amerika Serikat | ::{ flag=RU }:: Rusia |
 | 3 Digit World Cup 2020 | 2020-03-16 | 2020-05-31 | ::{ flag=US }:: Amerika Serikat | ::{ flag=BR }:: Brazil | ::{ flag=TW }:: Taiwan |
 | [3 Digit World Cup 2021](3WC/2021) | 2021-02-24 | 2021-05-09 | ::{ flag=TW }:: Taiwan | ::{ flag=PL }:: Polandia | ::{ flag=US }:: Amerika Serikat |
 | 3 Digit World Cup 2022 | 2022-02-20 | 2022-05-08 | ::{ flag=HK }:: Hong Kong | ::{ flag=CN }:: Tiongkok | ::{ flag=ID }:: Indonesia |
 | 3 Digit World Cup 2023 | 2023-02-17 | 2023-04-30 | ::{ flag=KR }:: Korea Selatan | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: Amerika Serikat |
+| 3 Digit World Cup 2024 | 2023-12-25 | 2024-03-10 | ::{ flag=KR }:: Korea Selatan | ::{ flag=US }:: Amerika Serikat | ::{ flag=BR }:: Brazil |
 
 #### Aetherian's Summer Singles
 

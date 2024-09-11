@@ -4,13 +4,13 @@ no_native_review: true
 
 # Pedoman identitas merek
 
-Pedoman identitas merek (*brand identity guidelines*) merupakan serangkaian ketentuan yang mengatur tata cara penggunaan merek dagang osu! untuk berbagai keperluan. Selama pedoman ini dipatuhi, merek dagang osu! dapat digunakan secara bebas tanpa persetujuan apa pun.
+Pedoman identitas merek (*brand identity guidelines*) merupakan serangkaian ketentuan yang mengatur tata cara penggunaan merek osu!. Selama pedoman ini dipatuhi, merek osu! dapat digunakan secara bebas tanpa persetujuan hukum apa pun.
 
-[Perangkat desain osu! dapat diunduh melalui tautan berikut](https://drive.google.com/file/d/1TmUot5nu49p71icz4u3G68njLAQOeQrG/view?usp=sharing). Harap diperhatikan bahwa perangkat desain ini mengandung aset lama yang sudah tidak lagi digunakan. Di samping itu, berhubung PDF yang disertakan pada perangkat juga telah usang, mohon gunakan laman ini sebagai referensi utama.
+[Perangkat desain osu! dapat diunduh melalui tautan berikut](https://drive.google.com/file/d/1TmUot5nu49p71icz4u3G68njLAQOeQrG/view?usp=sharing). Mohon diperhatikan bahwa perangkat desain ini mengandung aset lama yang sudah tidak lagi digunakan. Di samping itu, berhubung PDF yang disertakan pada perangkat juga telah usang, mohon gunakan halaman ini sebagai referensi utama.
 
 ## osu!
 
-"osu!" selaku nama permainan tidak boleh ditulis dengan huruf besar atau huruf yang dicetak miring. Penggunaan kata "osu!" sebagai merek dagang harus ditulis tanpa spasi, sebagaimana pada contoh-contoh berikut:
+"osu!" selaku nama permainan tidak boleh ditulis dengan huruf besar atau huruf yang dicetak miring. Penggunaan kata "osu!" sebagai merek resmi harus ditulis tanpa spasi, sebagaimana pada contoh-contoh berikut:
 
 - Pada nama mode permainan: `osu!`, `osu!catch`, `osu!taiko`, `osu!mania`
 - Pada nama proyek: `osu!academy`, `osu!talk`
@@ -53,12 +53,12 @@ Mohon beri cookie jarak yang memadai dengan elemen desain lainnya. Gunakan huruf
 
 ### Batasan penggunaan cookie warna tunggal
 
-Berhubung osu! merupakan permainan yang berorientasi pada komunitas, logo osu! cookie dirancang sedemikian rupa agar sederhana, serbaguna, dan dapat diterapkan ke dalam berbagai gaya desain dengan mudah. osu! tidak membatasi warna yang dapat digunakan untuk cookie.
+Berhubung osu! merupakan permainan yang didorong oleh komunitas, logo osu! cookie telah dirancang sedemikian rupa agar sederhana, serbaguna, dan dapat diterapkan ke dalam berbagai gaya desain dengan mudah. osu! tidak membatasi warna yang dapat digunakan untuk cookie.
 
 ![](img/restrictions-good-single.png "Berbagai contoh hasil modifikasi logo osu! warna tunggal yang diperkenankan")
 
-- Gambar cookie harus tetap terlihat tajam dalam situasi apapun.
-- Kamu dapat menggunakan warna apapun sebagai warna dasar cookie.
+- Gambar cookie harus terlihat tajam dalam situasi apa pun.
+- Kamu dapat menggunakan warna apa pun sebagai warna dasar cookie.
 - Kamu dapat menambahkan gradasi linier pada cookie. Gradasi radial tidak disarankan karena lingkaran luar dan bagian tengah cookie dapat terlihat seolah-olah tidak menyatu.
 - Kamu dapat menempatkan gambar lain sebagai tekstur pada cookie melalui teknik *masking*. Meskipun demikian, kontras antara cookie dan latar belakang harus tetap terjaga.
 
@@ -66,28 +66,28 @@ Berhubung osu! merupakan permainan yang berorientasi pada komunitas, logo osu! c
 
 ![](img/restrictions-bad-single.png "Berbagai contoh hasil modifikasi logo osu! warna tunggal yang tidak diperkenankan")
 
-- **Jangan** mengubah rasio aspek cookie.
-- **Jangan** memutar cookie. Orientasi cookie harus sejajar dengan mata pembaca.
-- **Jangan** mengubah elemen cookie mana pun menjadi sesuatu yang lain.
-- **Jangan** menghapus elemen mana pun yang terdapat pada cookie.
-- **Jangan** mengubah ukuran elemen cookie mana pun secara terpisah.
-- **Jangan** memodifikasi elemen cookie mana pun.
-- **Jangan** mengatur ulang tata letak elemen cookie mana pun.
-- Gambar cookie harus terlihat tajam setiap saat. Apabila kamu menempatkan cookie osu! sebagai bagian dari material promosi yang kamu buat, harap sertakan logo lain dengan kontras yang memadai.
-- **Jangan** menambahkan efek yang terlalu mewah atau berlebihan pada cookie.
-- **Jangan** menambahkan elemen tambahan di dalam cookie.
-- **Jangan** menambahkan garis luar (*outline*) pada cookie. Gunakan warna cookie yang berbeda.
+- **Jangan** ubah rasio aspek cookie.
+- **Jangan** putar cookie. Orientasi cookie harus sejajar dengan mata pembaca.
+- **Jangan** ubah elemen cookie mana pun menjadi sesuatu yang lain.
+- **Jangan** hapus elemen mana pun yang terdapat pada cookie.
+- **Jangan** ubah ukuran elemen cookie mana pun secara terpisah.
+- **Jangan** modifikasi elemen cookie mana pun.
+- **Jangan** atur ulang tata letak elemen cookie mana pun.
+- Gambar cookie harus terlihat tajam setiap saat. Apabila kamu menempatkan cookie osu! sebagai bagian dari material promosi yang kamu buat, mohon sertakan logo lain dengan kontras yang memadai.
+- **Jangan** tambahkan efek yang terlalu mewah atau berlebihan pada cookie.
+- **Jangan** tambahkan elemen ekstra pada cookie.
+- **Jangan** tambahkan garis luar (*outline*) pada cookie. Gunakan warna cookie yang berbeda.
 - **Jangan** pernah berpikir untuk mengubah elemen cookie mana pun. Ayolah. Logo resmi kami bahkan sama sekali tidak terlihat seperti itu. Alih-alih membuat cookie baru, kamu hanya menempatkan teks di dalam lingkaran.
 
 ### Batasan penggunaan cookie warna penuh
 
-Berhubung osu! merupakan permainan yang berorientasi pada komunitas, logo osu! cookie telah dirancang sedemikian rupa agar sederhana, serbaguna, dan raman untuk berbagai gaya desain. Mohon gunakan logo yang kami sediakan apa adanya tanpa modifikasi apa pun. Seluruh batasan yang berlaku pada versi warna tunggal juga berlaku pada versi warna penuh.
+Berhubung osu! merupakan permainan yang didorong oleh komunitas, logo osu! cookie telah dirancang sedemikian rupa agar sederhana, serbaguna, dan ramah untuk berbagai gaya desain. Mohon gunakan logo yang kami sediakan sebagaimana adanya tanpa modifikasi apa pun. Seluruh batasan yang berlaku pada cookie warna tunggal juga berlaku bagi cookie warna penuh.
 
 ![](img/restrictions-bad-full.png "Berbagai contoh hasil modifikasi logo osu! warna penuh yang tidak diperkenankan")
 
 - **Jangan** gunakan cookie versi lama.
-- **Jangan** gunakan warna pink yang berbeda pada cookie.
-- **Jangan** menambahkan gradasi apa pun pada cookie.
+- **Jangan** terapkan warna merah jambu yang berbeda pada cookie.
+- **Jangan** tambahkan gradasi apa pun pada cookie.
 - **Jangan** ubah warna cookie menjadi warna lain.
-- **Jangan** menambahkan apa pun ke dalam cookie.
-- **Jangan** mengubah elemen cookie mana pun menjadi sesuatu yang lain.
+- **Jangan** tambahkan apa pun ke dalam cookie.
+- **Jangan** ubah elemen cookie mana pun menjadi sesuatu yang lain.

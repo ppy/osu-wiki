@@ -135,7 +135,8 @@ outdated_translation: true
 - ![](/wiki/shared/diff/normal-o.png?20211215) Past
 - ![](/wiki/shared/diff/hard-o.png?20211215) Present
 - ![](/wiki/shared/diff/insane-o.png?20211215) Future
-- ![](/wiki/shared/diff/expert-o.png?20211215) Beyond
+- ![](/wiki/shared/diff/expert-o.png?20211215) Eternal
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Beyond
 
 ### Lanota
 

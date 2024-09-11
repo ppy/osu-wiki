@@ -1,0 +1,47 @@
+"area:help centre":
+  - changed-files:
+      - any-glob-to-any-file:
+          - wiki/Help_centre/**
+
+"area:legal":
+  - changed-files:
+      - any-glob-to-any-file:
+          - wiki/Legal/**
+
+"area:meta":
+  - changed-files:
+      - any-glob-to-any-file:
+          - "*"
+          - .github/**
+          - meta/**
+          - news/.markdownlint.json
+          - news/.remarkrc.js
+          - wiki/Tournaments/README.md
+          - wiki/Tournaments/TEMPLATE.md
+          - wiki/Tournaments/TEMPLATE-SERIES.md
+
+"area:news":
+  - changed-files:
+      - any-glob-to-any-file:
+          - news/**/*.md
+          - wiki/shared/news/**
+
+"area:ranking criteria":
+  - changed-files:
+      - any-glob-to-any-file:
+          - wiki/Ranking_criteria/**
+
+"area:tournaments":
+  - changed-files:
+      - any-glob-to-any-file:
+          - wiki/Tournaments/**
+
+"area:translations":
+  - all:
+      - changed-files:
+          - any-glob-to-any-file:
+              - wiki/**/*.md
+              - meta/group-info/*.yaml
+          - all-globs-to-all-files:
+              - "!wiki/**/en.md"
+              - "!meta/group-info/en.yaml"

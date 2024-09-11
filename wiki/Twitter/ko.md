@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: f474e1bcf073565b3f2ea07581ef55e000b8034f
+---
+
 # 트위터
 
 osu!에는 특정 목적을 가지는 여러 개의 트위터 계정이 있습니다. 대부분의 계정이 활동이 매우 적지만, osu! 생태계 외부에 지속적으로 정보를 제공하는 데 도움을 주고 있습니다.

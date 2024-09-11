@@ -60,6 +60,15 @@ Les supporters peuvent personnaliser leur profil en choisissant une image de cou
 
 Une fois que osu!supporter aura expiré, la couverture sera conservée, mais ne pourra pas être modifiée.
 
+### Couleur de profil
+
+À l'instar des couvertures de profil, les supporters peuvent modifier la couleur de leur profil :
+
+- Appuyez sur l'icône du crayon dans le coin inférieur droit de la couverture du profil.
+- L'ajustement de la couleur du profil modifie la couleur de presque tous les éléments, y compris la bannière, les boutons, les liens et le texte.
+
+Une fois qu'osu!supporter a expiré, les personnalisations de couleurs sont conservées, mais ne peuvent être ramenées qu'à leur valeur par défaut.
+
 ### Un changement de nom d'utilisateur gratuit
 
 *Remarque : des changements mineurs de nom peuvent être demandés gratuitement à l'équipe de support aux comptes - voir [Centre d'aide/Compte § Puis-je changer le nom d'utilisateur de mon compte ?](/wiki/Help_centre/Account#changement-nom-d'utilisateur).*

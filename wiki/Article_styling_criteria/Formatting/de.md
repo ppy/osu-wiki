@@ -1,8 +1,3 @@
----
-outdated_since: 16a9623dd2a25dc38ae8879ad2c924f8b7c74a3e
-outdated_translation: true
----
-
 # Formatierung
 
 *Für die Schriftstandards, siehe: [Artikelgestaltungskriterien/Schrift](../Writing)*
@@ -111,12 +106,18 @@ tags:
 
 ### Übersetzungen ohne Überprüfungen
 
-*Anmerkung: Wiki-Verwalter werden diese Markierung vor dem Mergen setzen, falls notwendig.*
+*Anmerkung: Wiki-Verwalter werden dieses Tag vor dem Mergen setzen, falls notwendig.*
 
-Manchmal werden Artikel ohne eine Überprüfung eines Muttersprachlers dem Wiki hinzugefügt. In diesem Fall muss die Markierung `no_native_review` gesetzt werden, damit zukünftige Übersetzer wissen, dass der Artikel gegebenenfalls nochmals überprüft werden muss. Dieses Tag muss folgendermaßen geschrieben werden:
+Manchmal werden Artikel ohne eine Überprüfung eines Muttersprachlers dem Wiki hinzugefügt. In diesem Fall muss das Tag `no_native_review` gesetzt werden, damit zukünftige Übersetzer wissen, dass der Artikel gegebenenfalls nochmals überprüft werden muss:
 
 ```yaml
 no_native_review: true
+```
+
+Alternativ kann das Tag `no_native_review_since` verwendet werden, um anzugeben, bei welchem Commit die erste unüberprüfte Bearbeitung stattfand und wer seitdem an der Übersetzung beteiligt war:
+
+```yaml
+no_native_review_since: 5539d9e8c943605a7be186dc3f5ab10569275b05 Doryan
 ```
 
 ## Artikelbenennung

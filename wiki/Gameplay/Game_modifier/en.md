@@ -73,13 +73,13 @@ Each of the mods below listed will have their compatible game modes' icon (![][o
 
 ### Related terms
 
-#### NoMod
+#### No Mod
 
-In [tournament](/wiki/Tournaments) matches, **NoMod** (***NM***) refers to not using any mods. Many tournaments require some mods to be used by default as part of their rules or format, such as [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) or [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2), which become exceptions to this notion.
+In [tournament](/wiki/Tournaments) matches, **No Mod** (***NM***) refers to not using any mods. Many tournaments require some mods to be used by default as part of their rules or format, such as [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) or [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2), which become exceptions to this notion.
 
-#### FreeMod
+#### Free Mod
 
-In [tournament](/wiki/Tournaments) matches, **FreeMod** (***FM***) refers to being free to choose any mod or mod combination. Some tournaments also provide rules that specify additional criteria such as what mods are allowed and in what combinations, or whether having no mods is allowed when FreeMod is specified.
+In [tournament](/wiki/Tournaments) matches, **Free Mod** (***FM***) refers to being free to choose any mod or mod combination. Some tournaments also provide rules that specify additional criteria such as what mods are allowed and in what combinations, or whether having no mods is allowed when Free Mod is specified.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

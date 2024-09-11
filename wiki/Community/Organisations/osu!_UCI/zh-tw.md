@@ -1,5 +1,6 @@
 ---
 no_native_review: true
+outdated: true
 tags:
   - California
   - club

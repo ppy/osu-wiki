@@ -55,7 +55,7 @@ the same formula is used in stable -->
 | 300 | `64 - 3 × OD` |
 | 200 | `97 - 3 × OD` |
 | 100 | `127 - 3 × OD` |
-| 50 | `188 - 3 × OD` |
+| 50 | `151 - 3 × OD` |
 
 如果玩家在 50 的打击窗口外点击物件，会将其记作 miss。由于[物件锁](/wiki/Gameplay/Judgement/Notelock)，如果两个物件的打击窗口有所重叠，在前一个物件消失前，无法点击后一个物件。
 

@@ -19,20 +19,20 @@ This second iteration of the VMC featured a new VOCALOID Featured Artist, suppor
 | Announcement | 2024-01-28 |
 | Submission | 2024-01-28 to 2024-03-01 |
 | Screening[^screening] | 2024-03-01 to 2024-03-08 |
-| Judging | 2024-03-08 to 2024-03-29 |
-| Results livestream | 2024-03-31 @ 18:00 UTC (tentative) |
+| Judging | 2024-03-08 to 2024-04-05 |
+| Results livestream | 2024-04-07 @ 18:00 UTC |
 
-The results are streamed live on the [*Vocaloid Appreciation Team* Twitch account](https://www.twitch.tv/vocaloidappreciationteam) with commentary. Further details regarding the stream will be provided in this article, the news post, and in the Discord server.
+The results were streamed live on the [*Vocaloid Appreciation Team* Twitch account](https://www.twitch.tv/vocaloidappreciationteam) with commentary. Recordings for all of the contests are available on the [*Vocaloid Appreciation Team* YouTube channel](https://www.youtube.com/@VocaloidAppreciationTeam).
 
 ## Prizes
 
 | Placing | Prize(s) |  |
 | :-: | :-- | :-- |
-| 1st place | Custom *VMC 2 Winner* VOCALOID plushie[^plushie] (made by [Noffy](https://osu.ppy.sh/users/1541323)), 6 months of osu!supporter, [*Elite Mapper* contest points](/wiki/Contests/Contest_points), *VMC 2 Winner* profile badge | ![](img/vmcwinnerbadge.png) |
+| 1st place | Custom *VMC 2 Winner* VOCALOID plushie[^plushie] (made by [Noffy](https://osu.ppy.sh/users/1541323)), 6 months of osu!supporter, [*Elite Mapper* contest points](/wiki/Contests/Contest_points), *VMC 2 Winner* profile badge | ![](img/winnerbadge.png) |
 | 2nd place | 2 months of osu!supporter, [*Elite Mapper* contest points](/wiki/Contests/Contest_points) |  |
 | 3rd place | 1 month of osu!supporter, [*Elite Mapper* contest points](/wiki/Contests/Contest_points) |  |
 
-All participating mappers receive constructive feedback from experienced mappers in the community.
+All participating mappers receive constructive feedback from experienced mappers in the community. 
 
 ## Links
 
@@ -87,6 +87,50 @@ Please be sure to support [iroha(sasaki)](https://osu.ppy.sh/beatmaps/artists/39
 | Devolution | Kagamine Rin | kuma(alfred) | 4:26 | 190 | [.osz](https://assets.ppy.sh/artists/399/Songs/iroha(sasaki)%20-%20Devolution.osz) |
 | 14 (Miku ver.) | Hatsune Miku | π | 4:55 | 128 | [.osz](https://assets.ppy.sh/artists/399/Songs/iroha(sasaki)%20-%2014.osz) |
 | sigh | Kagamine Rin | iroha(sasaki) | 4:08 | 148 | [.osz](https://assets.ppy.sh/artists/399/Songs/iroha(sasaki)%20-%20sigh.osz) |
+
+## Results 
+
+### osu!
+
+Detailed scores, judge comments, and final placements are [available on the Mappers' Guild website](https://mappersguild.com/contests/results?contest=65d91885b2923e167f79fd44).
+
+| Placement | User | Song (map link) | Badge prize |
+| :-: | :-- | :-- | :-- |
+| 1st | [Nuolong](https://osu.ppy.sh/users/4732455) | [14](https://osu.ppy.sh/beatmapsets/2163174#osu/4561966) | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
+| 2nd | [yaspo](https://osu.ppy.sh/users/4945926) | [14](https://osu.ppy.sh/beatmapsets/2163127#osu/4561861) | - |
+| 3rd | [Meijiro McQueen](https://osu.ppy.sh/users/11555612) | [Devolution](https://osu.ppy.sh/beatmapsets/2163129#osu/4561870) | - |
+| 4th | [celerih](https://osu.ppy.sh/users/4696296) | [Devolution](https://osu.ppy.sh/beatmapsets/2163113#osu/4561840) | - |
+| 5th | [Nijika Ijichi](https://osu.ppy.sh/users/10964252) | [The Cuckoo Bird's Beautiful Youth](https://osu.ppy.sh/beatmapsets/2163129#osu/4561870) | - |
+
+### osu!taiko
+
+Detailed scores, judge comments, and final placements are available [available on the Mappers' Guild website](https://mappersguild.com/contests/results?contest=65d91aedb2923e167f79fe92).
+
+| Placement | User | Song (map link) | Badge prize |
+| :-: | :-- | :-- | :-- |
+| 1st | [uone](https://osu.ppy.sh/users/5321719) | [Devolution](https://osu.ppy.sh/beatmapsets/2163119#taiko/4561851) | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
+| 2nd | [Nifty](https://osu.ppy.sh/users/4956097) | [Devolution](https://osu.ppy.sh/beatmapsets/2163121#taiko/4561854) | - |
+| 3rd | [-Kazuha](https://osu.ppy.sh/users/29978316) | [Shirley!!](https://osu.ppy.sh/beatmapsets/2163126#taiko/4561860) | - |
+
+### osu!catch
+
+Detailed scores, judge comments, and final placements are available [available on the Mappers' Guild website](https://mappersguild.com/contests/results?contest=65d91b13b2923e167f79feec).
+
+| Placement | User | Song (map link) | Badge prize |
+| :-: | :-- | :-- | :-- |
+| 1st | [Dika312](https://osu.ppy.sh/users/741613) | [Shirley!!](https://osu.ppy.sh/beatmapsets/2163162#fruits/4561933) | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
+| 2nd | [Unlucky_w](https://osu.ppy.sh/users/4820793) | [Shirley!!](https://drive.google.com/file/d/1QFKSVUhBl48_uURI95ZfgQj8_5qtETDt/view?usp=sharing) | - |
+| 3rd | [Cipse](https://osu.ppy.sh/users/7928880) | [The Cuckoo Bird's Beautiful Youth](https://drive.google.com/file/d/10zF8TYbqrbKRM1X_7K-ZaySIBAFulK2i/view?usp=sharing) | - |
+
+### osu!mania
+
+Detailed scores, judge comments, and final placements are available [available on the Mappers' Guild website](https://mappersguild.com/contests/results?contest=65d91a82b2923e167f79fe20).
+
+| Placement | User | Song (map link) | Badge prize |
+| :-: | :-- | :-- | :-- |
+| 1st | [Micleak](https://osu.ppy.sh/users/16140674) | [Devolution](https://drive.google.com/file/d/19OKPV4Ahy3J96o66XZxczUw1XrC4x4uX/view?usp=drive_link) | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
+| 2nd | [Vincy_02](https://osu.ppy.sh/users/13574613) | [Devolution](https://drive.google.com/file/d/1b1XBvoA8goqC1g6Xdj-B_7jDEdnTmJDP/view?usp=drive_link) | - |
+| 3rd | [TheMoonLoop](https://osu.ppy.sh/users/15628036) | [Devolution](https://drive.google.com/file/d/1b1XBvoA8goqC1g6Xdj-B_7jDEdnTmJDP/view?usp=drive_link) | - |
 
 ## Notes
 

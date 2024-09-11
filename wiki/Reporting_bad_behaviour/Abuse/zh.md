@@ -1,3 +1,8 @@
+---
+outdated_since: 5f603d93877d6b915ce864a793df5f4a7fbc2a33
+outdated_translation: true
+---
+
 # 举报滥用
 
 ## 我不知道我是否应该举报
@@ -28,7 +33,7 @@
 
 请尽快把贴子举报给我们的[全局管理团队 (GMT)](/wiki/People/Global_Moderation_Team)，步骤如下：
 
-点击 GMT 页面里任何一个玩家的名字，这样你能够访问到他们的个人主页。如果你不知道点谁，点[这里](https://osu.ppy.sh/users/102335)就好。
+点击 GMT 页面里任何一个玩家的名字，这样你能够访问到他们的个人主页。如果你不知道点谁，点[这里](https://osu.ppy.sh/users/5999631)就好。
 
 在那个玩家的国旗标志下面，点击那个长的像信封一样的按钮。这样你就来到了私聊界面。
 

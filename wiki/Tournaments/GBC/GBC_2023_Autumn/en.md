@@ -641,7 +641,7 @@ Due to the large number of players and matches, the match results will be displa
 
 1. In the Qualifier stage, all players will play a specific mappool designed by the mappool selectors and mappool helpers.
    - All players will be ranked in the Qualifier together. Based on the total number of applicants, the organiser will allow a number of top players from the Qualifiers to enter the drafting phase, and the other players will be eliminated. If a qualified player quits, they may be replaced by someone else.
-2. The Qualifier pool contains 8 maps, all of which will use [FreeMod](/wiki/Gameplay/Game_modifier#freemod) rules, organised as such:
+2. The Qualifier pool contains 8 maps, all of which will use [FreeMod](/wiki/Gameplay/Game_modifier#free-mod) rules, organised as such:
    - Rice: 3 beatmaps
    - LN 2 beatmaps
    - Hybrid: 2 beatmaps
@@ -754,7 +754,7 @@ Due to the large number of players and matches, the match results will be displa
    - SV maps also follow the same rule: mappool #2 will change SV1, mappool #3 will change SV2, and so on until the last mappool.
    - TB maps will always be changed in each mappool.
    - The mappool size expands by 1 slot in the Quarterfinals, adding one extra RC map to the pool. For this round, the rest of the RC maps are kept from the previous round, while the HB + LN maps are switched to new ones.
-2. Each mappool consists of a fixed amount of maps each stage which will all be played under [FreeMod](/wiki/Gameplay/Game_modifier#freemod) conditions. This means that there is a unique FreeMod bracket.
+2. Each mappool consists of a fixed amount of maps each stage which will all be played under [FreeMod](/wiki/Gameplay/Game_modifier#free-mod) conditions. This means that there is a unique FreeMod bracket.
 3. The mappool sizes are as follows:
    - Qualifiers: 8 beatmaps
    - Mappool in the regular phase: 15 beatmaps

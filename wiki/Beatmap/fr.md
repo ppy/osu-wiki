@@ -89,7 +89,7 @@ Les joueurs d'osu! de tous les modes utilisent les beatmaps pour [gagner des pla
 - Le classement national composé des joueurs du même pays;
 - Le classement des amis qui montre le classement du joueur sur une beatmap comparé à celui de ses amis.
 
-Les 500 meilleures scores sur chaque difficulté d'une beatmap fourni des [replays](/wiki/Gameplay/Replay), qui peuvent être regardés en ligne ou téléchargés dans le classement local pour être visionnés à l'avenir.
+Les 1000 meilleures scores sur chaque difficulté d'une beatmap fourni des [replays](/wiki/Gameplay/Replay), qui peuvent être regardés en ligne ou téléchargés dans le classement local pour être visionnés à l'avenir.
 
 ### Charts et Spotlights
 

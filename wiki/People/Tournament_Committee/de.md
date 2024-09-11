@@ -1,3 +1,10 @@
+---
+tags:
+  - TC
+outdated_since: 9661014ab900317b13040f5f3a2d36ce6b154b07
+outdated_translation: true
+---
+
 # Turnierkomitee
 
 Das **Turnierkomitee** ist ein Gremium an erfahrenen sowie etablierten Organisatoren und Helfern in der Turnierszene.
@@ -25,6 +32,7 @@ Diejenigen, die an einer Mitarbeit im Turnierkomitee interessiert sind, können 
 - ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)
 - ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650)
 - ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227)
+- ::{ flag=US }:: [Stage](https://osu.ppy.sh/users/8191845)
 - ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)
 - ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189)
 - ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416)

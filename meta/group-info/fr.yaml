@@ -16,6 +16,7 @@ gmt:
     beatmap: modération des beatmaps
     chat: modération du tchat
     forum: modération du forum
+    general: modération générale
     team: présence officielle de l'équipe
     dev: développement d'osu!
     player: support aux joueurs

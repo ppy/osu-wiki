@@ -88,7 +88,7 @@ osu!(lazer) a reçu une fonctionnalité supplémentaire, permettant de créer de
 
 Depuis ses 15 ans d'existence, osu! a développé une communauté vivante avec de nombreux contributeurs bénévoles. Dans le sillage de cet événement, un concours artistique anniversaire a été organisé par l'équipe d'osu!. Le défi consistait à créer des dessins représentant les mascottes d'osu! dans des moments historiques. Les première, deuxième et troisième places ont été attribuées respectivement à [Dreamxiety](https://osu.ppy.sh/users/13103233), [illuminae2005](https://osu.ppy.sh/users/29866964) et [urgutz](https://osu.ppy.sh/users/11731553). Parmi les résultats, peppy a également fait part de ses favoris[^15eme-anniversaire-favoris].
 
-Après le concours, il y a eu une célébration sur le [osu! Discord Server](/wiki/Community/osu!_Discord_server), où l'équipe d'osu! a joué à des jeux avec les membres de la communauté et a discuté de sujets aléatoires.[^15-célébration]
+Après le concours, il y a eu une célébration sur le [osu! Discord Server](/wiki/Community/Discord_servers#officielle), où l'équipe d'osu! a joué à des jeux avec les membres de la communauté et a discuté de sujets aléatoires.[^15-célébration]
 
 Un nouveau design proposé par [flyte](https://osu.ppy.sh/users/3103765) a été mis en place sous la forme du skin "argon" pour remplacer l'ancien skin "triangles" de 2017.[^argon] L'apparence visuelle de chaque mode de jeu a reçu une refonte majeure, améliorant la clarté et la lisibilité.
 

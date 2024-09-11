@@ -2,17 +2,16 @@
 stub: true
 tags:
   - train
-no_native_review: true
 ---
 
 # Hype
 
-Tất cả mọi [beatmap](/wiki/Beatmap) [đang chờ](/wiki/Beatmap/Category#wip-and-pending) đều có một **chuỗi hype** mà đại khái đại diện cho số người quan tâm đến việc beatmap [được xếp hạng](/wiki/Beatmap/Category#ranked). Người dùng có thể đăng những [thảo luận đặc biệt về beatmap](/wiki/Beatmap_discussion) trong phần `Chung (Tất cả độ khó)` với lực chọn `Hype!` để đóng góp cho chuỗi hype của một map.
+Tất cả các [beatmap](/wiki/Beatmap) trong trạng thái [đang chờ](/wiki/Beatmap/Category#wip-and-pending) đều có một **chuỗi hype** đại khái đại diện cho số người quan tâm đến việc beatmap đó [được xếp hạng](/wiki/Beatmap/Category#ranked). Người dùng có thể đăng [thảo luận đặc biệt về beatmap](/wiki/Beatmap_discussion) trong phần `Chung (Tất cả màn chơi)` với `Hype!` để góp vào chuỗi hype của một map.
 
 ## Điều kiện xếp hạng
 
-Các beatmap cần ít nhất 5 hype (một chuỗi hype hoàn thiện) đề có đủ điều kiện cho [sự đề cử](/wiki/Beatmap_ranking_procedure#nominations), một bước đến gần hơn trong việc xếp hạng beatmap.
+Beatmap cần ít nhất 5 lượt hype (một chuỗi hype hoàn thiện) để có đủ điều kiện được [đề cử](/wiki/Beatmap_ranking_procedure#nominations), một bước gần hơn đến mục tiêu xếp hạng beatmap.
 
 ## Giới hạn
 
-Người dùng có 10 hype, và chúng được tiêu thụ khi được sử dụng với beatmap. Mỗi tuần lại có thêm 1 hype cho người dùng.
+Mỗi người dùng có 10 lượt hype và chúng sẽ được sử dụng khi hype beatmap. Mỗi lượt hype sẽ mất một tuần để hồi lại.

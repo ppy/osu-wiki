@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 tags:
   - bancho
   - server bot
@@ -11,21 +10,21 @@ tags:
 
 # BanchoBot
 
-*Với cách dùng khác, xem [Bancho (phân biệt)](/wiki/Disambiguation/Bancho).*
+*Với định nghĩa khác, xem [Bancho (định hướng)](/wiki/Disambiguation/Bancho).*
 
 ![Thẻ thông tin của BanchoBot](img/BanchoBot.jpg "Thẻ thông tin của BanchoBot")
 
-**BanchoBot** (đôi khi được gọi là *Bancho*) là một chat bot trực tuyến làm riêng cho osu!, hỗ trợ người chơi trong chat game bằng cách thông báo tin nhắn liên quan đến game (v.d. tất cả lần chơi, số lần thử lại, v.v), và phản hồi lại những lệnh cụ thể. ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) là người lập trình nó và cũng là người cung cấp [Bancho IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat).
+**BanchoBot** (đôi khi được gọi là *Bancho*) là một chat bot trực tuyến dành riêng cho osu!, dùng để hỗ trợ người chơi trong game bằng cách thông báo tin nhắn liên quan đến game (v.d. tổng số lần chơi, số lần thử lại, v.v) và phản hồi lại một số lệnh cụ thể. ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) là người lập trình BanchoBot và cũng là người cung cấp [Bancho IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat).
 
-BanchoBot cũng có [Hồ sơ osu!](https://osu.ppy.sh/users/3) và [Tài khoản Twitter](https://twitter.com/banchoboat) riêng.
+BanchoBot cũng có [hồ sơ osu!](https://osu.ppy.sh/users/3) và [tài khoản Twitter](https://twitter.com/banchoboat) riêng.
 
 ## Lệnh
 
-*Về danh sách các lệnh client trong game, xem [Chat Console](/wiki/Client/Interface/Chat_console#commands-list)*
+*Về danh sách các lệnh client trong game, xem [Bảng điều khiển trò chuyện](/wiki/Client/Interface/Chat_console#commands-list)*
 
-BanchoBot có thể phản hồi lại lệnh người chơi thông qua những tin nhắn cụ thể được gõ trong chat. Tất cả các lệnh của BanchoBot bắt đầu bằng dấu chấm than (`!`) kèm theo là lệnh không phân biệt chữ hoa và thường (không có dấu cách ở giữa). Các lệnh này có thể sử dụng trong các kênh chat và thông qua tin nhắn riêng tư với BanchoBot.
+BanchoBot có thể phản hồi lại lệnh từ người chơi thông qua những tin nhắn cụ thể được gõ trong chat. Tất cả các lệnh của BanchoBot bắt đầu bằng dấu chấm than (`!`) kèm theo lệnh (không phân biệt chữ hoa/thường và không có dấu cách ở giữa). Các lệnh này có thể sử dụng trong các kênh chat và thông qua tin nhắn riêng với BanchoBot.
 
-Nếu một người dùng thường gửi lệnh đến kênh chat công khai, những người dùng khác sẽ không thấy nó, và phản hồi sẽ được hiển thị trong tin nhắn riêng tư với BanchoBot. Người dùng cũng có thể dùng lệnh client `/bb` trong game để mở một kênh chat với BanchoBot và gửi lệnh ngay lập tức.
+Nếu một người dùng thông thường gửi lệnh đến kênh chat công khai, những người dùng khác sẽ không thấy nó, và phản hồi sẽ được hiển thị trong tin nhắn riêng tư với BanchoBot. Người dùng cũng có thể dùng lệnh `/bb` trong game để mở một kênh chat với BanchoBot và gửi lệnh ngay lập tức.
 
 Danh sách các lệnh của BanchoBot có thể tìm thấy bên dưới:
 
@@ -42,7 +41,7 @@ Danh sách các lệnh của BanchoBot có thể tìm thấy bên dưới:
 !help
 ```
 
-`!help` hiển thị danh sách các lệnh có sẵn của BanchoBot. Dưới đây là ví dụ khi gửi lệnh này:
+`!help` hiển thị danh sách các lệnh có sẵn của BanchoBot. Dưới đây là ví dụ khi gửi lệnh:
 
 ```
 13:00 pippi: !help
@@ -57,7 +56,7 @@ Danh sách các lệnh của BanchoBot có thể tìm thấy bên dưới:
 
 <!--note for editors: the code block above reflects the exact response from banchobot -->
 
-*Lưu ý: Lệnh `!request` không còn được hỗ trợ bởi BanchoBot.*
+*Lưu ý: Lệnh `!request` không còn được BanchoBot hỗ trợ.*
 
 ### Roll
 
@@ -65,7 +64,7 @@ Danh sách các lệnh của BanchoBot có thể tìm thấy bên dưới:
 !roll <câu nói gì đó>/<số>
 ```
 
-`!roll` rút một con số ngẫu nhiên từ 1 đến số được chọn. Nếu không xác định một con số chính xác hay một câu nói gì đó được đưa ra, con số tối đa sẽ được đặt là 100. Dưới đây là ví dụ khi gửi lệnh này:
+`!roll` rút một con số ngẫu nhiên từ 1 đến số được chọn. Nếu không xác định một con số chính xác hay một câu nói gì đó được đưa ra, con số tối đa sẽ được đặt là 100. Dưới đây là ví dụ khi gửi lệnh:
 
 ```
 13:00 pippi: !roll 1000
@@ -83,7 +82,7 @@ Danh sách các lệnh của BanchoBot có thể tìm thấy bên dưới:
 !stats <tên người dùng>
 ```
 
-`!stats` hiển thị số liệu thống kê game của người dùng được nhập và trạng thái hiện tại. Kết quả xuất ra phụ thuộc vào [chế độ game](/wiki/Game_mode) mà người dùng đó chơi lần cuối, mặc dù BanchoBot sẽ không hiển thị chế độ game nào mà số liệu đó được trích xuất. Nếu được hỏi hiển thị số liệu từ một người dùng mà chưa bao giờ chơi osu!, BanchoBot sẽ phản hồi `User not found`, cho dù người dùng có tồn tại. Dưới đây là ví dụ khi gửi lệnh này:
+`!stats` hiển thị số liệu trong game và trạng thái hiện tại của người dùng được nhập tên. Kết quả xuất ra phụ thuộc vào [chế độ game](/wiki/Game_mode) mà người dùng đó chơi lần cuối dù BanchoBot sẽ không hiển thị số liệu đó được trích xuất từ chế độ chơi nào. Nếu được hỏi hiển thị số liệu từ một người dùng chưa bao giờ chơi osu!, BanchoBot sẽ phản hồi `User not found` dù người dùng có tồn tại. Dưới đây là ví dụ khi gửi lệnh:
 
 ```
 13:01 pippi: !stats peppy
@@ -93,7 +92,7 @@ Danh sách các lệnh của BanchoBot có thể tìm thấy bên dưới:
 13:01 BanchoBot: Accuracy: 87.13%
 ```
 
-Có tất cả 7 trạng thái mà lệnh `!stats` có thể hiển thị: Editing, Idle, Lobby, Modding, Multiplayer, Multiplaying và Playing. Dưới đây là ví dụ khi gửi lệnh này cho một người dùng với trạng thái khả dụng:
+Có tất cả 7 trạng thái mà lệnh `!stats` có thể hiển thị: Editing, Idle, Lobby, Modding, Multiplayer, Multiplaying và Playing. Dưới đây là ví dụ khi gửi lệnh này cho một người dùng đang trong trạng thái khả dụng:
 
 ```
 13:01 pippi: !stats peppy
@@ -109,7 +108,7 @@ Có tất cả 7 trạng thái mà lệnh `!stats` có thể hiển thị: Editi
 !where <tên người dùng>
 ```
 
-`!where` hiển thị vị trí của người dùng đã nhập. Mặc định lệnh này chỉ hiển thị quốc gia của người dùng. Nếu người dùng bật `Share your city location with others`, nó cũng sẽ hiển thị thành phố của họ. Dưới đây là ví dụ khi gửi lệnh này:
+`!where` hiển thị vị trí của người dùng đã nhập. Theo mặc định, lệnh này chỉ hiển thị quốc gia của người dùng. Nếu người dùng bật `Chia sẻ vị trí thành phố của bạn với người khác`, lệnh này cũng sẽ hiển thị thành phố của họ. Dưới đây là ví dụ khi gửi lệnh:
 
 ```
 13:02 pippi: !where Ephemeral
@@ -126,7 +125,7 @@ Có tất cả 7 trạng thái mà lệnh `!stats` có thể hiển thị: Editi
 !faq list
 ```
 
-`!faq` hiển thị nội dung của mục từ. Ngoài ra, đối số `list` có thể được dùng để liệt kê tất cả các mục từ khả dụng. Mặc định, BanchoBot sẽ phản hồi bằng Tiếng Anh, nhưng nó cũng có thể phản hồi bằng ngôn ngữ khác bằng cách thêm tiền tố vào mục từ với [mã hai chữ](/wiki/Article_styling_criteria/Formatting#locales) của ngôn ngữ đó. Dưới đây là ví dụ khi gửi lệnh này:
+`!faq` hiển thị nội dung của một mục từ. Ngoài ra, `list` có thể được dùng để liệt kê tất cả các mục từ khả dụng. Theo mặc định, BanchoBot sẽ phản hồi bằng Tiếng Anh nhưng cũng có thể phản hồi bằng ngôn ngữ khác bằng cách thêm [mã hai chữ](/wiki/Article_styling_criteria/Formatting#locales) của ngôn ngữ đó vào phía trước mục từ. Dưới đây là ví dụ khi gửi lệnh:
 
 ```
 13:03 pippi: !faq peppy
@@ -140,13 +139,13 @@ Có tất cả 7 trạng thái mà lệnh `!stats` có thể hiển thị: Editi
 
 ### Report
 
-*Để biết thêm thông tin về những việc đáng để báo cáo, xem [Báo cáo hành vi xấu](/wiki/Reporting_bad_behaviour).*
+*Để biết thêm thông tin về những gì đáng để báo cáo, xem [Báo cáo hành vi xấu](/wiki/Reporting_bad_behaviour).*
 
 ```
 !report <người dùng> <lý do>
 ```
 
-`!report` thông báo cho [Đội ngũ kiểm duyệt (GMT)](/wiki/People/Global_Moderation_Team) về một hành vi không phù hợp của một người dùng. Nếu người dùng có dấu cách trong tên, thay thế dấu cách đó với dấu gạch dưới (v.d. `ten sieu ngau` là `ten_sieu_ngau`). Để báo cáo một mod, vui lòng liên hệ [đội ngũ hỗ trợ tài khoản](/wiki/People/Account_support_team#support@ppy.sh). Dưới đây là ví dụ khi gửi lệnh báo cáo một người dùng thông qua BanchoBot:
+`!report` thông báo cho [Đội ngũ Kiểm duyệt (GMT)](/wiki/People/Global_Moderation_Team) về hành vi không phù hợp của một người dùng. Nếu người dùng có dấu cách trong tên, thay thế dấu cách bằng dấu gạch dưới (ví dụ, `ten sieu ngau` sẽ trở thành `ten_sieu_ngau`). Để báo cáo một kiểm duyệt viên bất kì, vui lòng liên hệ [đội ngũ hỗ trợ tài khoản](/wiki/People/Account_support_team#support@ppy.sh). Dưới đây là ví dụ khi gửi lệnh báo cáo một người dùng thông qua BanchoBot:
 
 ```
 13:10 pippi: !report flyte spamming in #japanese
@@ -155,5 +154,5 @@ Có tất cả 7 trạng thái mà lệnh `!stats` có thể hiển thị: Editi
 
 ## Có thể bạn chưa biết
 
-- Hồ sơ người dùng của BanchoBot ở phần ngày tham gia ghi "Ở đây kể từ khi bắt đầu"
-  - Ngày tham gia chính thức của BanchoBot là 22:09:14 UTC-5, 27 Tháng 8 2007
+- Ngày tham gia trên trang cá nhân của BanchoBot có ghi "Ở đây từ đầu"
+  - Ngày tham gia chính thức của BanchoBot là 22:09:14 UTC-5, 27 tháng 8 năm 2007

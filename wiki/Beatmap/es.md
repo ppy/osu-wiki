@@ -20,7 +20,7 @@ Un **beatmap** (a veces llamado *beatmapset*) es un conjunto de niveles de juego
 
 *Artículo principal: [Dificultad](/wiki/Beatmap/Difficulty)*
 
-Una dificultad es un archivo con [la extensión .osu](/wiki/Client/File_formats/osu_(file_format)) que describe la ubicación de los objetos, hitsounds y efectos especiales como el [kiai time](/wiki/Gameplay/Kiai_time). También contiene [configuraciones de dificultad](/wiki/Client/Beatmap_editor/Song_setup#difficulty) y otros parámetros que afectan directamente el juego. Las dificultades de un beatmap tienen una estructura diferente y, a veces, se pueden jugar en un solo [modo de juego](/wiki/Game_mode). El sistema de [clasificación por estrellas](/wiki/Beatmap/Star_rating) se utiliza para visualizar el requisito de habilidad de una dificultad.
+Una dificultad es un archivo con [la extensión .osu](/wiki/Client/File_formats/osu_(file_format)) que describe la ubicación de los objetos, hitsounds y efectos especiales como el [kiai time](/wiki/Gameplay/Kiai_time). También contiene [configuraciones de dificultad](/wiki/Client/Beatmap_editor/Song_setup#dificultad) y otros parámetros que afectan directamente el juego. Las dificultades de un beatmap tienen una estructura diferente y, a veces, se pueden jugar en un solo [modo de juego](/wiki/Game_mode). El sistema de [clasificación por estrellas](/wiki/Beatmap/Star_rating) se utiliza para visualizar el requisito de habilidad de una dificultad.
 
 ## Envío
 
@@ -89,7 +89,7 @@ Los jugadores de osu! de todos los modos de juego usan beatmaps para [subir de r
 - Clasificación específica del país hecha de jugadores que llevan la misma bandera;
 - Clasificación de amigos que muestra la posición de un jugador en el mapa en comparación con sus amigos.
 
-Las 500 mejores puntuaciones en cada dificultad de un beatmap proporcionan [repeticiones](/wiki/Gameplay/Replay), que se pueden ver en línea o guardar para mostrarlas en una tabla de clasificación local.
+Las 1000 mejores puntuaciones en cada dificultad de un beatmap proporcionan [repeticiones](/wiki/Gameplay/Replay), que se pueden ver en línea o guardar para mostrarlas en una tabla de clasificación local.
 
 ### Tablas y destacados
 

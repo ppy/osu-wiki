@@ -4,14 +4,14 @@ Die **Leiter des osu!-Wikis** pflegen das [osu!-Wiki](/wiki/osu!_wiki) über sei
 
 Die Betreuer schauen regelmäßig in den [Issue-Tracker](https://github.com/ppy/osu-wiki/issues) und überprüfen Änderungsvorschläge (Pull-Requests) von Mitwirkenden. Im Gegensatz zu anderen Beteiligten können sie Vorschläge bearbeiten und diese mit dem `master`-Branch des Repositorys zusammenführen, wodurch die Änderungen veröffentlicht werden.
 
-Wenn du Hilfe bei der Erstellung eines Beitrags benötigst oder möchtest, dass dein Antrag überprüft wird, dann sende eine Nachricht im Kanal `#osu-wiki` des [osu! Discord-Servers](/wiki/Community/osu!_Discord_server) und ein Verantwortlicher oder ein anderer Beteiligter wird dir antworten. Es wird empfohlen, auf Englisch zu schreiben, da alle Betreuer Englisch können.
+Wenn du Hilfe bei der Erstellung eines Beitrags benötigst oder möchtest, dass dein Antrag überprüft wird, dann sende eine Nachricht im Kanal `#osu-wiki` des [osu! Discord-Servers](/wiki/Community/Discord_servers#offiziell) und ein Verantwortlicher oder ein anderer Beteiligter wird dir antworten. Es wird empfohlen, auf Englisch zu schreiben, da alle Betreuer Englisch können.
 
 ## Wiki-Betreuer
 
 | osu!-Profil | GitHub-Profil | Status | Zusätzliche Sprachen |
 | :-- | :-- | :-- | :-- |
 | ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) | [cl8n](https://github.com/cl8n) | Inaktiv |  |
-| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) | **Aktiv** |  |
+| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) | Inaktiv |  |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [Hiviexd](https://github.com/Hiviexd) | **Aktiv** | Arabisch |
 | ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835) | [Joehuu](https://github.com/Joehuu) | Inaktiv |  |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | [juankristal](https://github.com/juankristal) | Inaktiv | Spanisch |

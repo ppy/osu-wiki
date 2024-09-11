@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: c77da74a8b247bb81d6642c7ecb008b9f06e65c9
+---
+
 # osu! originals
 
 Les **osu! originals** sont des musiques spécifiquement faites pour (ou ont fait leur première apparition sur) osu! ou d'autres événements en rapport avec osu! tels que les tournois, les concours, et les annonces de [Featured Artists](/wiki/People/Featured_Artists). Bien que les osu! originals ne soient pas toutes sous licence officielle et dans la [liste des Featured Artists](https://osu.ppy.sh/beatmaps/artists), les musiques qui le sont sont généralement distinguées par le label `ORIGINAL` sur les pages de leurs artistes respectifs.
@@ -5,6 +10,8 @@ Les **osu! originals** sont des musiques spécifiquement faites pour (ou ont fai
 Toutes les osu! originals sous licence officielle peuvent être utilisées sur osu! à des conditions non exclusives conformément à la [politique de licence musicale d'osu!](/wiki/Legal/Music_licensing). À l'inverse, les osu! originals qui ne sont pas sous licence officielle peuvent nécessiter une autorisation d'utilisation. Voir les [Directives d'utilisation du contenu](/wiki/Rules/Content_usage_guidelines) pour plus d'informations.
 
 ## Liste des osu! originals
+
+<!-- FOR TRANSLATORS: this section is automated and is not to be translated manually, even though this automation doesn't handle translations just yet. - Walavouchey -->
 
 ### Musiques originales d'osu!
 

@@ -6,8 +6,6 @@ tags:
   - hints
   - Tipps
   - Hinweise
-outdated_since: 82d449645b79b94a44e46e5ab2862236a48a80ac
-outdated_translation: true
 ---
 
 <!-- For translators: to translate this page, select the corresponding language in stable and open `Localisation/XX.txt` in your osu! installation folder. Translation keys starting with MenuTip_ and EditorTip_ contain the respective translated tips. The lazer tips aren't localised yet, but it's ok to translate them here while noting that they don't have translations in-game. -->
@@ -92,24 +90,36 @@ Diese Tipps erscheinen im [Beatmap-Editor](/wiki/Client/Beatmap_editor) unter de
 
 ## osu!(lazer)
 
-Diese Tipps erscheinen beim Start von [osu!(lazer)](/wiki/Client/Release_stream/Lazer), vor der Intro-Sequenz. Für diesen Artikel wurden die Tipps übersetzt, da sie im Spiel nur auf Englisch verfügbar sind.
+Diese Tipps erscheinen unten im Hauptmenü von [osu!(lazer)](/wiki/Client/Release_stream/Lazer). Für diesen Artikel wurden die Tipps übersetzt, da sie im Spiel nur auf Englisch verfügbar sind.
 
-- Du kannst überall `Strg` + `T` drücken, um die Toolbar zu aktivieren oder zu deaktivieren!
+- Du kannst überall `Strg` + `T` drücken, um die Symbolleiste zu aktivieren oder zu deaktivieren!
 - Du kannst überall `Strg` + `O` drücken, um auf die Optionen zuzugreifen!
-- Alle Einstellungen sind dynamisch und werden in Echtzeit wirksam. Probiere, das Spiel zu pausieren und den Skin zu ändern!
+- Alle Einstellungen sind dynamisch und werden in Echtzeit wirksam. Probiere, den Skin zu ändern während die Mod [Autoplay](/wiki/Gameplay/Game_modifier/Auto) aktiv ist!
 - Mit jedem Update kommen neue Features hinzu. Bleibe immer auf dem Laufenden!
 - Wenn dir die Bedienelemente zu groß oder zu klein sind, versuche, die UI-Skalierung in den Einstellungen anzupassen!
 - Versuche, die `Bildschirmskalierung` anzupassen, um den Bereich der Benutzeroberfläche oder des Gameplays zu ändern, sogar im Vollbildmodus!
-- Was früher "[osu!direct](/wiki/osu!supporter#osu!direct)" war, ist nun wie auf der Webseite für alle Nutzer verfügbar. Du kannst es überall mit `Strg` + `D` aufrufen!
-- In Replays kann durch das Ziehen des Cursors auf der Schwierigkeitsleiste am unteren Rand des Bildschirms gesprungen werden!
+- Was früher "[osu!direct](/wiki/osu!supporter#osu!direct)" war, ist nun wie auf der Webseite für alle Nutzer verfügbar. Du kannst es überall mit `Strg` + `B` aufrufen!
+- Du kannst durch Replays springen, indem du die linke oder rechte Pfeiltaste drückst oder den Cursor über die Fortschrittsleiste am unteren Bildschirmrand ziehst!
 - Unterstützung für Multithreading bedeutet, dass selbst bei geringen "FPS" deine Eingaben und Beurteilungen präzise sein werden!
-- Probiere, in der Modauswahl herunterzuscrollen, um einen Haufen neuer spaßiger Mods zu entdecken!
+- Probiere, in der Modauswahl nach rechts zu scrollen, um einen Haufen neuer spaßiger Mods zu entdecken!
 - Die meisten Webinhalte (Profile, Ranglisten etc.) sind über die Symbole in der Symbolleiste direkt im Spiel verfügbar!
 - Erhalte mehr Details, verstecke oder lösche eine Beatmap, indem du mit der rechten Maustaste auf ihr Dialogfeld in der Songauswahl klickst!
 - Alle Löschoperationen sind bis zum Verlassen des Spiels nur vorübergehend. Stelle versehentlich gelöschte Inhalte in den Wartungseinstellungen wieder her!
 - Probiere das "Playlists"-System aus, das Nutzer ihre eigenen, bleibenden Bestenlisten kreieren lässt!
 - Mit `Strg` + `F11` kannst du Statistiken über Frames und Threads erhalten!
 - Werfe einen Blick unter die Haube der Leistungsindikatoren und aktiviere die ausführliche Leistungsprotokollierung mit `Strg` + `F2`!
+- Während eines Replays kannst du mit `Leertaste` pausieren!
+- Die meisten der Tastenkürzel im Spiel sind konfigurierbar und auf die eigenen Bedürfnisse anpassbar. Schlage die Tastenbelegungen in den Eingabeeinstellungen nach!
+- Wenn das HUD im Spiel verborgen ist, kannst du `Strg` halten, um es vorübergehend zu sehen!
+- Das Gameplay-HUD kann mit dem Skin-Editor angepasst werden. Öffne ihn jederzeit mit `Strg` + `Shift` + `S`!
+- Ziehe Bilder in den Skin-Editor, um sie schnell zu laden!
+- Durch Mod-Voreinstellungen gelangst du einfacher zu deinen bevorzugten Mod-Kombinationen!
+- Viele Mods haben Konfigurationseinstellungen, die ihre Funktionsweise drastisch ändern. Klicke in der Modauswahl auf den Button `Mod Customisation`, um die Einstellungen zu sehen!
+- Drücke `Strg` + `Shift` + `R`, um einen zufälligen Skin auszuwählen!
+- Drücke `Strg` + `Shift` + `F` für die FPS-Anzeige. Aber lass dich nicht davon ablenken!
+- Drücke beim Ansehen eines Replays `Strg` + `H` für die Replay-Einstellungen!
+- Klicke mit der rechten Maustaste auf einen Score in der Rangliste, um dieselben Mods zu aktivieren!
+- `Strg` + `Eingabe` in der Songauswahl startet eine Beatmap im automatischen Modus!
 
 ## Siehe auch
 

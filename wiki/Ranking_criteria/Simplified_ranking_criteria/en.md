@@ -15,6 +15,7 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 ![](img/percent.png "Song progress percentage")
 :::
 
+- **Make sure everything in the map is cleared in terms of [content usage permissions](/wiki/Rules/Content_usage_permissions#artist-permissions).**
 - **Maps must be at least 30 seconds long.**
 - **Maps should end around the [80% mark](img/percent.png).** If you want to end the map earlier, try cutting the song.
 
@@ -104,7 +105,7 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 ![](img/delay.png "Hitsound file with delay")
 :::
 
-- **Hitsound files must be 25 ms long and use `.wav` or `.ogg` file formats.**
+- **Hitsound files must be at least 25 ms long and use `.wav` or `.ogg` file formats.**
   - Do not use `.mp3`.
   - **Exception:** Use [this file](https://up.ppy.sh/files/blank.wav) for silent hitsounds.
 - **Hitsounds must not be [delayed](img/delay.png).**

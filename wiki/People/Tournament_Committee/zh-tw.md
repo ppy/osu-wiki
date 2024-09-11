@@ -1,4 +1,6 @@
 ---
+tags:
+  - TC
 no_native_review: true
 outdated_translation: true
 outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
@@ -31,6 +33,7 @@ outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
 - ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)
 - ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650)
 - ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227)
+- ::{ flag=US }:: [Stage](https://osu.ppy.sh/users/8191845)
 - ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)
 - ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189)
 - ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416)
