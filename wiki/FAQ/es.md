@@ -97,7 +97,7 @@ Los controles predeterminados para osu! son:
 
 | Ratón | Teclado | Tableta |
 | :-- | :-- | :-- |
-| Clic izquierdo(M1) / Clic derecho(M2) | `Z`(K1) / `X`(K2) | Tocar la pantalla/tableta(M1) |
+| Clic izquierdo (M1) / Clic derecho (M2) | `Z` (K1) / `X` (K2) | Tocar la pantalla/tableta (M1) |
 
 Los objetos en osu! aceptarán cualquier entrada proveniente del dispositivo de entrada, siempre que los objetos sean presionados en el momento correcto.
 
@@ -111,7 +111,7 @@ Si se está usando el modificador del juego [Auto Pilot](/wiki/es/Gameplay/Game_
 
 ### Cómo cambiar el modo de juego
 
-![Interfaz para cambiar el modo de juego](/wiki/shared/Interface_mode.png "Menú desplegable para la selección de los modos de juego en el selector de canciones (Solo)")
+![Menú de cambio de modo en el selector de canciones (Solo)](/wiki/shared/Interface_mode.png "Menú de cambio de modo en el selector de canciones (Solo)")
 
 Haz clic en el botón `Mode` para **abrir una lista con los modos de juego disponibles en osu!**. Haz clic en el modo de juego deseado y osu! cambiará al modo de juego deseado. También puedes presionar las teclas `Ctrl` y `1` (![][osu!] *[osu!](/wiki/Game_mode/osu!))* / `2` ( ![][osu!taiko] *[osu!taiko](/wiki/Game_mode/osu!taiko)*) / `3` (![][osu!catch] *[osu!catch](/wiki/Game_mode/osu!catch)*) / `4` (![][osu!mania] *[osu!mania](/wiki/Game_mode/osu!mania)*) para cambiar rápidamente entre los modos de juego
 
