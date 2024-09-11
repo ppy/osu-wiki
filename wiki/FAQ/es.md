@@ -93,27 +93,27 @@ Esta es la interfaz del estilo de juego osu! Standard.
 
 ### Controles
 
-Los controles predeterminados para Osu! son:
+Los controles predeterminados para osu! son:
 
-| Mouse | Teclado | Tableta |
+| Ratón | Teclado | Tableta |
 | :-- | :-- | :-- |
-| Click izquierdo(M1) / Click derecho(M2) | `Z`(K1) / `X`(K2) | Tocar la pantalla/tableta(M1) |
+| Clic izquierdo(M1) / Clic derecho(M2) | `Z`(K1) / `X`(K2) | Tocar la pantalla/tableta(M1) |
 
-Los Hit Objects en Osu! aceptarán cualquier entrada proveniente de cualquier dispositivo siempre y cuando los Hit Objects sean presionados en el momento correcto
+Los objetos en osu! aceptarán cualquier entrada proveniente del dispositivo de entrada, siempre que los objetos sean presionados en el momento correcto.
 
-Si se está usando el modificador [Relax](/wiki/es/Gameplay/Game_modifier/Relax), solo funcionará el cursor y se deshabilitarán los botones del teclado/mouse/lapiz. Usa el cursor para seguir a los Hit Objects mientras estos se presionan automaticamente. Sin embargo, los Spinners deberan ser completados normalmente.
+Si se está usando el modificador del juego [Relax](/wiki/Gameplay/Game_modifier/Relax), solo funcionará el cursor y se deshabilitarán los botones del teclado/ratón/lápiz. Usa el cursor para seguir a los objetos mientras estos se presionan automaticamente. Sin embargo, los spinners deberán ser completados normalmente.
 
-Si se está usando el modificador [Auto Pilot](/wiki/es/Gameplay/Game_modifier/Autopilot), solo funcionará la entrada de teclado/mouse/lapiz pero se deshabilitará el movimiento del cursor. Usa los botones para presionar a tiempo los Hit Objects mientras el cursor los sigue automaticamente. Los Spinners seguirán la velocidad del mod [Spun Out](/wiki/es/Gameplay/Game_modifier/Spun_Out)
+Si se está usando el modificador del juego [Auto Pilot](/wiki/es/Gameplay/Game_modifier/Autopilot), solo funcionará la entrada del teclado/ratón/lápiz pero se deshabilitará el movimiento del cursor. Usa los botones para presionar a tiempo los objetos mientras el cursor los sigue automaticamente. Los spinners seguirán la velocidad del mod [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out)
 
 ---
 
-## Otros Modos de Juego
+## Otros modos de juego
 
-### Cambiando el Modo de Juego
+### Cambiando el modo de juego
 
-![Mode change interface](/wiki/shared/Interface_mode.png "Mode toolbox in Song Selection (Solo)")
+![Interfaz del cambio de modo](/wiki/shared/Interface_mode.png "Cambio de modo en el selector de canciones (Solo)")
 
-Cliquea en el boton de `Modo` para **abrir una lista con los modos de juego disponibles en Osu!**. Cliquea en el modo de juego deseado y Osu! cambiará al estilo del modo de juego deseado. Tambien puedes presionar las teclas `Ctrl` y `1` (![][osu!] *[osu!](/wiki/es/Game_mode/osu!))* / `2` ( ![][osu!taiko] *[osu!taiko](/wiki/es/Game_mode/osu!taiko)*) / `3` (![][osu!catch] *[osu!catch](/wiki/es/Game_mode/osu!catch)*) / `4` (![][osu!mania] *[osu!mania](/wiki/es/Game_mode/osu!mania)*) para cambiar rapidamente entre los modos de juego
+Haz clic en el botón de `Mode` para **abrir una lista con los modos de juego disponibles en osu!**. Haz clic en el modo de juego deseado y osu! cambiará al modo de juego deseado. También puedes presionar las teclas `Ctrl` y `1` (![][osu!] *[osu!](/wiki/Game_mode/osu!))* / `2` ( ![][osu!taiko] *[osu!taiko](/wiki/Game_mode/osu!taiko)*) / `3` (![][osu!catch] *[osu!catch](/wiki/Game_mode/osu!catch)*) / `4` (![][osu!mania] *[osu!mania](/wiki/Game_mode/osu!mania)*) para cambiar rápidamente entre los modos de juego
 
 ### ¿Qué es "Taiko"?
 
