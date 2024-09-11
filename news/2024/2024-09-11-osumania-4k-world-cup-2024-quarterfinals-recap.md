@@ -107,6 +107,6 @@ text
 
 ---
 
-Tune in next week for the Semifinals recap, or even better, watch the matches live on the [osu!live Twitch channel](https://www.twitch.tv/osulive)! As always, you can browse the [official wiki page](/wiki/Tournaments/MWC/2024_4K), check out the schedule along with the full tournament details, and pick which teams you want to support in their quest to claim the championship.
+Tune in next week for the Semifinals recap, or even better, watch the matches live on the [osu!live Twitch channel](https://www.twitch.tv/osulive)! As always, you can browse the [official wiki page](/wiki/Tournaments/MWC/2024_4K), check out the schedule along with the full tournament details, and pick which teams you want to support in their quest to become champions.
 
 —0x84f, elexire, RandomeLoL, Utiba, kadoen
