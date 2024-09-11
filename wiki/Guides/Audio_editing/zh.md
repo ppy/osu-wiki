@@ -8,6 +8,8 @@
 
 ## Audacity
 
+*备注：本文使用的是 Audacity 3.4.2。*
+
 [Audacity](https://www.audacityteam.org/download) 是一款免费、开源的音频编辑与录制软件。它使用 [LAME](https://lame.sourceforge.io) 编码库导出 MP3 格式的音频文件，此编码库在 Windows 与 macOS 平台的 Audacity 是内置的。
 
 大多数 Linux 发行版会提供安装 Audacity 所需的 LAME，但某些版本也可能不会提供。因此 Linux 用户应当阅读 [Audacity 参考手册](https://manual.audacityteam.org/man/installing_and_updating_audacity_on_linux.html#linlame)获取更多信息。
@@ -59,6 +61,8 @@
 6. [导出](#降低比特率)音频文件。
 
 ## mp3DirectCut
+
+*备注：本文使用的是 mp3DirectCut 2.36。*
 
 [mp3DirectCut](https://mpesch3.de) 是一款免费使用的音频编辑软件，可以在不重新编码的情况下直接编辑 MP3 文件，通常会避免音频质量损失。推荐在需要调整音频音量或剪裁音频时使用。
 
