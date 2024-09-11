@@ -97,13 +97,14 @@ text
 
 text
 
-## Individual score highlights
+## Score highlights
 
-text
+There's no denying that all teams thus far have given their all, especially as we draw ever so closer to the lattermost rounds of the tournament. But this round's standout amongst all teams must've been Japan!
 
-- highlight score 1
-- highlight score 2
-- highlight score 3
+- ::{ flag=JP }:: [[Crz]yomogi237](https://osu.ppy.sh/users/28571440) took everyone by surprise with their crazy ratio in [cygnus - Tree of Misery](https://osu.ppy.sh/beatmapsets/2242640#mania/4766759) by [Miaurichesu](https://osu.ppy.sh/users/10055648) (RC3), achieving a score of 999,792 with only **10 perfects** in their match [against Spain](https://www.twitch.tv/videos/2244890379).
+- ::{ flag=JP }:: [CrewK](https://osu.ppy.sh/users/11488604) covered Japan's SV needs with their astonishing 997,856 score on [Tanger - BREAKME](https://osu.ppy.sh/beatmapsets/2242663#mania/4766804) by [Promachos](https://osu.ppy.sh/users/14069486) (SV1) in their match [versus Brazil](https://www.twitch.tv/videos/2245937607).
+
+Will they be able to hold up next week? Will the other teams keep their edge? Whatever the case may be, Japan has proved that they are a force to be reckoned with.
 
 ---
 
