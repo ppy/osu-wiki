@@ -36,9 +36,9 @@ To round up the mappool, we've also got one new [osu! original](/wiki/osu!_origi
     </audio>
 </div>
 
-Many players across all game modes are familiar with the player, mapper, and artist [cygnus](https://osu.ppy.sh/beatmaps/artists/359), who goes by the name [Matrix](https://osu.ppy.sh/users/5052899) on osu!, and this time around they're debuting in MWC 4K with [Tree of Misery](https://osu.ppy.sh/beatmapsets/2242640#mania/4766759) charted by [Miaurichesu](https://osu.ppy.sh/users/10055648)!
+Many players across all game modes are familiar with the player, mapper, and artist [cygnus](https://osu.ppy.sh/beatmaps/artists/359), who goes by [Matrix](https://osu.ppy.sh/users/5052899) on osu!, and this time around they're debuting in MWC 4K with [Tree of Misery](https://osu.ppy.sh/beatmapsets/2242640#mania/4766759) charted by [Miaurichesu](https://osu.ppy.sh/users/10055648)!
 
-With it taking up the chordjack slot (RC3) for the round, you can be sure to expect it to ask nothing more than for you to simply be accurate due to how it being arguably the most accuracy intensive pick out of all pools, thanks to the straightforward nature behind them. You definitely shouldn't underestimate the contents of the chart however, as the chart has ZERO breaks, and it only gets heavier in patterning the further you go. This, along with added stamina management makes it so the slightest dent in your score can cause a chain reaction of misses or other judgements that would take away a large lead in score.
+With it taking up the chordjack slot (RC3) for the round, you can be sure to expect it to ask nothing more than for you to simply be accurate due to it being arguably the most accuracy intensive pick out of all pools, thanks to the straightforward nature behind them. You definitely shouldn't underestimate the contents of the chart however, as the chart has ZERO breaks, and it only gets heavier in patterning the further you go. This, along with added stamina management makes it so the slightest dent in your score can cause a chain reaction of misses or other judgements that would take away a large lead in score.
 
 ## Quarterfinals results
 
@@ -89,13 +89,19 @@ Both teams played amazing this match, with each pick being so close. While Brazi
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2245925227&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-text
+After a nail-biting match against Singapore last week, the UK once again has had a phenomenally close match against an oddly similar foe: Hong Kong. On paper, they had the advantage, with a 76/24 odds split on pick'em — but as we saw in the Round of 16, odds can be overturned and flipped in an instant.
 
-- highlight point 1
-- highlight points 2
-- highlight point 3
+This match might've had something never done before, inside it there was a hidden 1v1 — ::{ flag=GB }:: [Eliminate](https://osu.ppy.sh/users/9169747) and ::{ flag=HK }:: [ATP Koshepen](https://osu.ppy.sh/users/17115114) (who both played all the maps) were actually playing from the same physical room, with an elaborate streaming setup showing both of their perspectives. Very cool to see!
 
-text
+Again, the UK was advantaged in the rice skill set with the strong trio of ::{ flag=GB }:: [Eliminate](https://osu.ppy.sh/users/9169747), ::{ flag=GB }:: [Zoobin4](https://osu.ppy.sh/users/10055204) and ::{ flag=GB }:: [XxNewson1234xX](https://osu.ppy.sh/users/9895650) — but Hong Kong was no slouch either. With their strong core of ::{ flag=HK }:: [Quotient](https://osu.ppy.sh/users/11313227) and ::{ flag=HK }:: [ATP Koshepen](https://osu.ppy.sh/users/17115114), they had a definite edge on the LNs, and put up a hell of a fight on rice. Let's review some of the craziest moments of this intense match:
+
+- [Frums - gur yvsr](https://osu.ppy.sh/beatmapsets/2242442#mania/4766318) ([Vortex-](https://osu.ppy.sh/users/4999669), RC6) @ [20:00](https://www.twitch.tv/videos/2245925227?t=00h20m00s) - This was the UK's second pick, but far from a sure one. The polyrhythms and technical pattern barrages in this map are nothing to scoff at, and comboing through them is quite a feat, let alone getting high accuracy! Things came to a very tense finish, with a Hong Kong advantage through the map being wildly swung in the last few seconds, and ending with a narrow British loss by a mere 2400 points.
+
+- [Ushirokara Haiyoritai G - Koi wa Chaos no Shimobenari](https://osu.ppy.sh/beatmapsets/2242646#mania/4766766) ([0DZ0](https://osu.ppy.sh/users/28156707), RC5) @ [30:33](https://www.twitch.tv/videos/2245925227?t=00h30m33s) - This point was a masterclass, and the UK was the teacher. A short and sweet technical map, as seen towards the weekend a single miss here means so much. Hong Kong misses. The UK doesn't. They played this map 2 times in this weekend. Those are the top 2 team scores out of every team in the tournament. Enough said.
+
+- [Kou! - Frost Walker](https://osu.ppy.sh/beatmapsets/2242668#mania/4766814) ([guden](https://osu.ppy.sh/users/11626065), TB) @ [62:40](https://www.twitch.tv/videos/2245925227?t=01h02m40s) - From a 5–2 lead, and after a tragic breakpoint in the chordjack pick, the UK finds themselves on 5–5. The devastating array of patterns laid out in this collab ensues, and after the dust settles, some of the LN patterns proved to be too much for the Brits, leading to a pretty narrow 7900 points loss. Actually, this is the second tiebreaker each of these teams play in the tournament — and their positions seem clear. 2 wins for Hong Kong. 2 losses for the United Kingdom.
+
+Commiserations to the British team for their run this year, unfortunately ended by 2 insanely close matches. Congratulations to Hong Kong for fighting on against all odds, next weekend they will face the Philippines in hopes of keeping it alive once more.
 
 ## Score highlights
 
