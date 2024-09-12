@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: a5a4d44b66fbe6446aefb341d712d1623b1aac80
----
-
 # skin.ini
 
 *另见：[skin.ini / 空白 skin.ini 文件](/wiki/Skinning/skin.ini/Blank)*
@@ -94,7 +89,7 @@ outdated_since: a5a4d44b66fbe6446aefb341d712d1623b1aac80
 **允许按类别自定义箭头的皮肤**
 
 - 添加了 `arrow-generic.png`、`arrow-warning.png` 和 `arrow-pause.png`。
-- 删除了 `play-warningarrow.png`。
+- 弃用了 `play-warningarrow.png` 而使用上述元素。
 
 ### 2.7
 

@@ -1,6 +1,4 @@
 ---
-outdated_since: c4b50fcfc48b6af263e3dfa8b144c7b7122889f0
-outdated_translation: true
 tags:
   - GMT
   - moderator
@@ -72,6 +70,8 @@ Entscheidet sich ein globaler Moderator dazu, das Team zu verlassen, kann er je 
 *Anmerkung: Alle Mitglieder des GMTs sprechen Englisch, außer es wurde zusätzlich vermerkt.*
 
 Die [Gruppenseite des GMTs](https://osu.ppy.sh/groups/4) listet alle Teammitglieder auf. Zusätzlich zu den unten genannten Bereichen nehmen alle globalen Moderatoren an der [Bewertung von visuellen und auditiven Inhalten in Beatmaps](/wiki/Rules/Visual_content_considerations#dein-bild-bewerten-lassen) teil.
+
+**Ein Mitglied des GMTs darf sich Aufgaben aus allen Kategorien aussuchen und damit beschäftigen, unabhängig von den aufgelisteten Schwerpunkten.** Als Beispiel kann ein GMT-Mitglied hauptsächlich für die Chatmoderation verantwortlich sein und nebenbei bei der Forum-Moderation aushelfen.
 
 <!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
 
