@@ -121,7 +121,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/f3e
 | --: | :-- | :-- | :-: | :-: |
 | Philippines ::{ flag=PH }:: | ::{ flag=HK }:: Hong Kong | [Sep 14 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240914T100000&p1=1440&p2=145&p3=102) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Malaysia ::{ flag=MY }:: | ::{ flag=RU }:: Russian Federation | [Sep 14 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240914T120000&p1=1440&p2=122&p3=166) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Singapore ::{ flag=SG }:: | ::{ flag=JP }:: Japan | [Sep 14 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240914T130000&p1=1440&p2=236&p3=248) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| Singapore ::{ flag=SG }:: | ::{ flag=JP }:: Japan | [Sep 14 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240914T130000&p1=1440&p2=236&p3=248) | [osulive](https://twitch.tv/osulive) or [osulive_2](https://twitch.tv/osulive_2)[^stream-pending] | [^losers-bracket] |
 | Vietnam ::{ flag=VN }:: | ::{ flag=CN }:: China | [Sep 14 (Sat) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240914T143000&p1=1440&p2=95&p3=33) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 
 ### Sunday, 15 September 2024
