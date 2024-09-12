@@ -129,7 +129,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/f3e
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
 | United States ::{ flag=US }:: | ::{ flag=CL }:: Chile | [Sep 15 (Sun) 01:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240915T010000&p1=1440&p2=263&p3=232) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| Singapore ::{ flag=SG }:: | ::{ flag=VN }:: Vietnam | [Sep 15 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240915T080000&p1=1440&p2=236&p3=95) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Singapore ::{ flag=SG }:: | ::{ flag=VN }:: Vietnam | [Sep 15 (Sun) 02:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240915T023000&p1=1440&p2=236&p3=95) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | Japan ::{ flag=JP }:: | ::{ flag=VN }:: Vietnam | [Sep 15 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240915T090000&p1=1440&p2=248&p3=95) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | South Korea ::{ flag=KR }:: | ::{ flag=TH }:: Thailand | [Sep 15 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240915T120000&p1=1440&p2=235&p3=28) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | Philippines ::{ flag=PH }:: | ::{ flag=MY }:: Malaysia | [Sep 15 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240915T130000&p1=1440&p2=145&p3=122) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
@@ -284,7 +284,7 @@ Sunday, 8 September 2024:
 | --: | :-: | :-: | :-- | :-- | :-- |
 | Philippines ::{ flag=PH }:: | 2 | **6** | ::{ flag=CL }:: **Chile** | [#1](https://osu.ppy.sh/community/matches/115410350) | [#1](https://www.twitch.tv/videos/2245549816) |
 | **United States** ::{ flag=US }:: | **6** | 0 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/115411317) | [#1](https://www.twitch.tv/videos/2245620314) |
-| **Taiwan** ::{ flag=TW }:: | **6** | 2 | ::{ flag=NZ }:: New Zealand | [#1](https://osu.ppy.sh/community/matches/115411783) | [#1](https://www.twitch.tv/videos/2245655669) |
+| **Taiwan** ::{ flag=TW }:: | **6** | 1 | ::{ flag=NZ }:: New Zealand | [#1](https://osu.ppy.sh/community/matches/115411783) | [#1](https://www.twitch.tv/videos/2245655669) |
 | **South Korea** ::{ flag=KR }:: | **6** | 1 | ::{ flag=VN }:: Vietnam | [#1](https://osu.ppy.sh/community/matches/115413528) | [#1](https://www.twitch.tv/videos/2245929835) |
 | **Russian Federation** ::{ flag=RU }:: | **6** | 2 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/115415293) | [#1](https://www.twitch.tv/videos/2245937605) |
 | **Thailand** ::{ flag=TH }:: | **6** | 1 | ::{ flag=SG }:: Singapore | [#1](https://osu.ppy.sh/community/matches/115416098) | [#1](https://www.twitch.tv/videos/2245937606) |
