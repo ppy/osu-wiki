@@ -71,11 +71,11 @@ Each of the mods below listed will have their compatible game modes' icon (![][o
 
 ### Fun
 
-- Transform (TR) ![][osu!]
-- Wiggle (WG) ![][osu!]
-- Spin In (SI) ![][osu!]
-- Grow (GR) ![][osu!]
-- Deflate (DF) ![][osu!]
+- [Transform (TR)](/wiki/Gameplay/Game_modifier/Lazer/Transform) ![][osu!]
+- [Wiggle (WG)](/wiki/Gameplay/Game_modifier/Lazer/Wiggle) ![][osu!]
+- [Spin In (SI)](/wiki/Gameplay/Game_modifier/Lazer/Spin_In) ![][osu!]
+- [Grow (GR)](/wiki/Gameplay/Game_modifier/Lazer/Grow) ![][osu!]
+- [Deflate (DF)](/wiki/Gameplay/Game_modifier/Lazer/Deflate) ![][osu!]
 - Wind Up (WU) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - Wind Down (WD) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - Traceable (TC) ![][osu!]
