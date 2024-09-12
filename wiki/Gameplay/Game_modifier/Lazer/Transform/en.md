@@ -16,7 +16,7 @@ tags:
 
 #### Transform
 
-![Transformy mod icon](/wiki/Gameplay/Game_modifier/Lazer/img/mods/TR.png)
+![Transform mod icon](/wiki/Gameplay/Game_modifier/Lazer/img/mods/TR.png)
 
 *Everything rotates. EVERYTHING.*
 
