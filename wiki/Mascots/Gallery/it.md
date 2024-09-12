@@ -38,9 +38,9 @@ needs_cleanup: true
 
 Per le fan art di pippi, consulta:
 
-- [Risultati del primo concorso ufficiale di fanart di osu! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152186520298282)
-- [Secondo concorso di fanart di osu! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152291754173282)
-- [Terzo concorso di fanart di osu! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152514671088282)
+- [Risultati del primo concorso ufficiale di fanart di osu! (Facebook)](https://www.facebook.com/media/set/?set=a.10152186520298282)
+- [Secondo concorso di fanart di osu! (Facebook)](https://www.facebook.com/media/set/?set=a.10152291754173282)
+- [Terzo concorso di fanart di osu! (Facebook)](https://www.facebook.com/media/set/?set=a.10152514671088282)
 - [Fan Art 7: Halloween!](https://osu.ppy.sh/community/contests/5)
 - [Fan Art 8: Natale](https://osu.ppy.sh/community/contests/36)
 - [Mocha nel concorso di fanart estivo di osu!](https://osu.ppy.sh/community/contests/48)
@@ -59,7 +59,7 @@ Per le fan art di pippi, consulta:
 
 Per le fanart di Yuzu, consulta:
 
-- [Terzo concorso di fanart di osu! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152514671088282)
+- [Terzo concorso di fanart di osu! (Facebook)](https://www.facebook.com/media/set/?set=a.10152514671088282)
 - [Fan Art 7: Halloween!](https://osu.ppy.sh/community/contests/5)
 - [Fan Art 8: Natale](https://osu.ppy.sh/community/contests/36)
 - [Concorso: Il nuovo look di Yuzu](https://osu.ppy.sh/community/contests/49)

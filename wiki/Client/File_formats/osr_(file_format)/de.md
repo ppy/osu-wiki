@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 2e5cd7cbb4e6f9cc07089d481e1b5b8b27d9a842
+---
+
 # .osr (Dateiformat)
 
 **.osr** ist ein Dateiformat mit Informationen über ein osu!-Replay. Für die Verwendung muss sich die zum Replay gehörende Beatmap im Ordner "Songs" befinden.

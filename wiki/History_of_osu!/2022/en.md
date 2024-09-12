@@ -84,7 +84,7 @@ osu!(lazer) received an additional feature, making it possible to create mod pre
 
 Since its 15 years of existence, osu! had grown a lively community with many voluntary contributors. In the wake of this event, an anniversary art contest was organised by the osu! team. The challenge was to create drawings of osu!'s mascots in historic moments. The first, second, and third place went to [Dreamxiety](https://osu.ppy.sh/users/13103233), [illuminae2005](https://osu.ppy.sh/users/29866964), and [urgutz](https://osu.ppy.sh/users/11731553) respectively. Among the results, peppy also shared some of his personal favourites.[^15-anniversary-results]
 
-Following the contest, there was a celebration event on the [osu! Discord Server](/wiki/Community/osu!_Discord_server), where the osu! team played games together with community members and talked about random topics.[^15-celebration]
+Following the contest, there was a celebration event on the [osu! Discord Server](/wiki/Community/Discord_servers#official), where the osu! team played games together with community members and talked about random topics.[^15-celebration]
 
 A new design proposed by [flyte](https://osu.ppy.sh/users/3103765) was implemented in the form of the "argon" skin to replace the old "triangles" skin from 2017.[^argon] The visual appearance of each game mode received a major overhaul, improving clarity and readability.
 
