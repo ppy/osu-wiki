@@ -102,7 +102,6 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 
 ## Podium
 
-
 ![](img/podium.png "CICO 2024 podium")
 
 ## Mappools
