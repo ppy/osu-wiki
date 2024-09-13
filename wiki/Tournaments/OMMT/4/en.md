@@ -9,7 +9,7 @@ tags:
 
 ![OMMT 4 banner](img/ommt4-banner.jpeg)
 
-The **osu!mania Malaysia Tournament 4** (***OMMT 4***) is a Malaysian team-based double-elimination 1v1 osu!mania 4-key tournament hosted by ::{ flag=MY }:: [Onlinee](https://osu.ppy.sh/users/13630137), ::{ flag=VN }:: [ARL](https://osu.ppy.sh/users/15778330), and ::{ flag=MY }:: [Kibitz](https://osu.ppy.sh/users/7418493). It is the fourth instalment of the osu!mania Malaysia Tournament.
+The **osu!mania Malaysia Tournament 4** (***OMMT 4***) was a Malaysian team-based double-elimination 1v1 osu!mania 4-key tournament hosted by ::{ flag=MY }:: [Onlinee](https://osu.ppy.sh/users/13630137), ::{ flag=VN }:: [ARL](https://osu.ppy.sh/users/15778330), and ::{ flag=MY }:: [Kibitz](https://osu.ppy.sh/users/7418493). It was the fourth instalment of the osu!mania Malaysia Tournament.
 
 ## Tournament schedule
 
@@ -38,7 +38,7 @@ Donations and all supports can be made through [OMMT's Ko-fi page](https://ko-fi
 
 ## Organisation
 
-The osu!mania Malaysia Tournament 4 is run by various community members.
+The osu!mania Malaysia Tournament 4 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -106,13 +106,13 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 
 ## Mappools
 
-*Note: Maps marked with an asterisk are considered to be "MAD" maps. It is a twist from the organiser to make certain map unbannable, and on some occasions will force players to use certain mods. Each stage may have different kinds of MAD twists as detailed before the mappools.*
+*Note: Maps marked with an asterisk were considered to be "MAD" maps. It was a twist from the organiser to make certain map unbannable, and on some occasions will force players to use certain mods. Each stage may have different kinds of MAD twists as detailed before the mappools.*
 
 ### Grand Finals
 
 **[Download the mappack here (163 MB)](https://drive.google.com/file/d/1YDT14zcsl1VdfRdV6mtKRmR1JPWHzRIq/view?usp=sharing)**
 
-\*The Grand Finals' MAD maps are **HB1** and **HB3**. HB1 contains reverse Long Notes (LN), making it a challenge of visual comprehension. HB3 uses Slider Velocity (SV), which HB maps tend to not have.
+\*The Grand Finals' MAD maps were **HB1** and **HB3**. HB1 contained reverse Long Notes (LN), making it a challenge of visual comprehension. HB3 used Slider Velocity (SV), which HB maps tend to not have.
 
 - RC
   1. [t+pazolite - Call me it. (500 Tortures) (Oceanus) \[Tera x Oceanus' Apocalypse.\]](https://osu.ppy.sh/beatmapsets/2230749#mania/4734244)
@@ -141,7 +141,7 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 
 **[Download the mappack here (173 MB)](https://drive.google.com/file/d/1ydF2QZ0uv9HB8m_HeT_1HKpccVxeu2oK/view?usp=sharing)**
 
-\*The Finals' MAD map is **SV2**. The twist is that it has to be played with storyboard turned on and 0% background dim.
+\*The Finals' MAD map was **SV2**. The twist was that it had to be played with storyboard turned on and 0% background dim.
 
 - RC
   1. [chelmico - Easy Breezy (7\_7 bootleg) (IvanOfficial) \[Lemon Squeezy (OMMT4 Edit)\]](https://osu.ppy.sh/beatmapsets/2226675#mania/4723555)
@@ -170,7 +170,7 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 
 **[Download the mappack here (145 MB)](https://drive.google.com/file/d/1GvgEuibPw5LbgpqbwM2yCakRJw4UoM5Z/view?usp=sharing)**
 
-\*The Semifinals' MAD map is **RC5**. The twist is that it has to be played with the **Random** mod.
+\*The Semifinals' MAD map was **RC5**. The twist was that it had to be played with the **Random** mod.
 
 - RC
   1. [Himeringo - Yuudachi no Ribbon (MyZterioN-) \[long-standing 1.1x (253bpm)\]](https://osu.ppy.sh/beatmapsets/2221690#mania/4710471)
@@ -197,7 +197,7 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 
 **[Download the mappack here (182 MB)](https://drive.google.com/file/d/1VIi45i1N5ep1sjXn4exnyMpqHfTiqZoz/view?usp=sharing)**
 
-\*The Quarterfinals' MAD map is **RC4**. The twist is that it has to be played with the **Double Time** mod.
+\*The Quarterfinals' MAD map was **RC4**. The twist was that it had to be played with the **Double Time** mod.
 
 - RC
   1. [t+pazolite - Cheatreal (remity\_) \[Extraneous (230bpm)\]](https://osu.ppy.sh/beatmapsets/2214819#mania/4694245)
@@ -224,7 +224,7 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 
 **[Download the mappack here (73 MB)](https://drive.google.com/file/d/1OcY1lH1PVCF5BvhPs7gSKs2SguIAMkPF/view?usp=sharing)**
 
-\*The Round of 16's MAD map is **LN3**. The twist is that the map has reverse shield patterns with little to no spacing. To balance it, OD 0 was set for the map.
+\*The Round of 16's MAD map was **LN3**. The twist was that the map had reverse shield patterns with little to no spacing. To balance it, OD 0 was set for the map.
 
 - RC
   1. [\[Kyoro\] - Tama Funkot (\[GS\]hina) \[Tamate (OMMT Edit)\]](https://osu.ppy.sh/beatmapsets/2214750#mania/4692734)
@@ -249,7 +249,7 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 
 **[Download the mappack here (93 MB)](https://drive.google.com/file/d/1yGajSj-kXvBso9rl_b4dYwrdxcLmgwQ9/view?usp=sharing)**
 
-\*The Round of 32's MAD map is **RC3**. The twist is that it has to be played with the **Hard Rock** mod.
+\*The Round of 32's MAD map was **RC3**. The twist was that it had to be played with the **Hard Rock** mod.
 
 - RC
   1. [BEMANI Sound Team "DJ TOTTO" feat.rionos - Simurgh no Mezame (komugii) \[sora x1.1\]](https://osu.ppy.sh/beatmapsets/1415406#mania/2917081)
