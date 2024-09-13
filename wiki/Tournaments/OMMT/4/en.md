@@ -288,6 +288,20 @@ The osu!mania Malaysia Tournament 4 was run by various community members.
 
 ## Match results
 
+### Grand Finals
+
+Saturday, 17 August 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Gon and LongGone** | **7** | 0 | Re:Zuna | [#1](https://osu.ppy.sh/matches/115118911) |
+
+Sunday, 18 August 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **leon's waifuus!!** | **7** | 2 | Gon and LongGone | [#1](https://osu.ppy.sh/community/matches/115131174) |
+
 ### Finals
 
 Saturday, 10 August 2024:
