@@ -104,6 +104,10 @@ The osu!mania Malaysia Tournament 4 was run by various community members.
 | **we love jacking** | ::{ flag=MY }:: **[\[LS\]qwk](https://osu.ppy.sh/users/25660423)**, ::{ flag=GB }:: [AGuyCalledJeff](https://osu.ppy.sh/users/18750025) |
 | **Yo, What Team Name** | ::{ flag=MY }:: **[RhythmBoii](https://osu.ppy.sh/users/18484917)**, ::{ flag=US }:: [ElzeFanBoy](https://osu.ppy.sh/users/15513303) |
 
+## Podium
+
+![](img/ommt4-podium.jpg "OMMT 4 podium")
+
 ## Mappools
 
 *Note: Maps marked with an asterisk were considered to be "MAD" maps. It was a twist from the organiser to make certain map unbannable, and on some occasions will force players to use certain mods. Each stage may have different kinds of MAD twists as detailed before the mappools.*
