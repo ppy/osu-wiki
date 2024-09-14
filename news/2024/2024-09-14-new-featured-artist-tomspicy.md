@@ -38,7 +38,7 @@ Take your pick:
 ### tomspicy - dysthymia
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/437/tomspicy%20osu!%20collection%2001/tomspicy%20-%20dsythymia.mp3">
+    <source src="https://assets.ppy.sh/artists/437/tomspicy%20osu!%20collection%2001/tomspicy_-_dysthymia.mp3">
 </audio>
 
 ### tomspicy - lullaby
