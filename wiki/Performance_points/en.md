@@ -105,9 +105,9 @@ You can learn more about the weightage system [above](#weightage-system).
 
 ### How much bonus pp is awarded for having scores on ranked maps?
 
-**Up to 416.6667 bonus pp is given for setting scores. This is attained at approximately 3858 scores, but 416 out of them can be attained by having only 1285 scores.**
+**Up to 416.6667 bonus pp is given for setting scores. This is attained at approximately 3640 scores, but 416 out of them can be attained by having only 1285 scores.**
 
-You can calculate the exact amount of this bonus by following [this formula](https://www.desmos.com/calculator/2wk3yvlvhs), where `N` is the number of ranked maps with a score set:
+You can calculate the exact amount of this bonus by following [this formula](https://www.desmos.com/calculator/y5vy4vmxng), where `N` is the number of ranked maps with a score set:
 
 `416.6667 * (1 - 0.995 ^ N)`
 
