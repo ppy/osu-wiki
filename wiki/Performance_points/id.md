@@ -1,3 +1,8 @@
+---
+outdated_since: afae0bf730ed465b67163533b3ab560174b44c1d
+outdated_translation: true
+---
+
 <!-- Pennek also wrote a similar sub-article that may have small bits of extra info. If needed, find it here: https://github.com/ppy/osu-wiki/blob/be1fec96041971d2bace05eb216952a58b7cabbc/wiki/Performance_points/Performance_point_systems/en.md we should probably figure what to do with these two at some point-->
 
 # Performance points
