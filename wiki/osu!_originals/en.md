@@ -6,7 +6,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 
 ## Statistics
 
-There is currently a total of **712** documented osu! originals.
+There is currently a total of **716** documented osu! originals.
 
 ![Graph of osu! originals over time](img/originals-over-time.png?20240914)
 
@@ -99,6 +99,18 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | Links | FA | Song |
 | --: | :-: | :-- |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/dksslqj/gehenna "SoundCloud") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Rabbit%20House&query=%22Gehenna%22 "Featured Artist listing") | Rabbit House - Gehenna |
+
+#### [tomspicy](https://osu.ppy.sh/beatmaps/artists/437)
+
+*For the announcement news post, see: [New Featured Artist: tomspicy](https://osu.ppy.sh/home/news/2024-09-14-new-featured-artist-tomspicy)*
+
+These songs are part of the [tomspicy osu! collection 01 EP](https://osu.ppy.sh/beatmaps/artists/437#album-2135)
+
+| Links | FA | Song |
+| --: | :-: | :-- |
+| [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/6lcJmyBvhuc1o4SlMOkVPk "Spotify") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=tomspicy&query=%22dysthymia%22 "Featured Artist listing") | tomspicy - dysthymia |
+| [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/0xDSJwOArsJSXMvPxJtCZG "Spotify") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=tomspicy&query=%22lullaby%22 "Featured Artist listing") | tomspicy - lullaby |
+| [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/4FYQa9D9s3l7V3IbVGD2gO "Spotify") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=tomspicy&query=%22petal%20blizzard%22 "Featured Artist listing") | tomspicy - petal blizzard |
 
 <!-- lint ignore no-heading-punctuation -->
 
@@ -1602,6 +1614,7 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 |  |  | Syrsa - Desolated | [#1](https://osu.ppy.sh/beatmapsets/6615) |
 |  |  | Syrsa - Mad Machine | [#1](https://osu.ppy.sh/beatmapsets/6610) |
 |  |  | tieff - Sound of Night[^fa] | [#1](https://osu.ppy.sh/beatmapsets/15952) |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=c0qXmNryG7Y "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/4FmxRFOvtc15wEROCUGqmc "Spotify") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=tomspicy&query=%22fieryrage%20accordion%20%28hardcore%20remix%29%22 "Featured Artist listing") | tomspicy - fieryrage accordion (hardcore remix) | [#1](https://osu.ppy.sh/beatmapsets/1516867), [#2](https://osu.ppy.sh/beatmapsets/1516860) |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/trainer-lolxd/tetratone-altissimo "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=lGoWLWbLBfk "YouTube") |  | Trina Lydia - TETRATONE ALTiSSiMO | [#1](https://osu.ppy.sh/beatmapsets/2234187#mania/4745284) |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/veetacrush/alcyonelegy "SoundCloud") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/2Y0LKYvTfT4SnoXIMYTCOt "Spotify") |  | VeetaCrush - Alcyonelegy | [#1](https://osu.ppy.sh/beatmapsets/2234187#mania/4745287) |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/velamy/ineedayellowbebber "SoundCloud") |  | velamy - bebbercore | [#1](https://osu.ppy.sh/beatmapsets/2232144) |
