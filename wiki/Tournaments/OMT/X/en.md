@@ -230,7 +230,7 @@ Sunday, 8 September 2024:
      - Be ranked #99,999 or higher in the osu! game mode at the time of registration.
 2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
-6. Testplayers, referees, custom mappers, and mappool selectors may not participate as players in this tournament.
+4. Testplayers, referees, custom mappers, and mappool selectors may not participate as players in this tournament.
    - Eliminated players are free to enlist as replay providers for the later stages of the tournament in accordance to the [official tournament support guidelines](/wiki/Tournaments/Official_support#staff). 
 
 ### Round-specific rules
@@ -241,7 +241,7 @@ Sunday, 8 September 2024:
 2. In the lobby, all players will have to consecutively play all of the eleven Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> NM4 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2 -> DT3.
 3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Players **are not allowed** to join (or register for) more than one Qualifier lobby.
-5. Based on their performance in the Qualifier, players will be ranked based on their Z-score value across all eleven Qualifier beatmaps. A brief explanation on the concept of Z-score can be found [here](www.statisticshowto.com/probability-and-statistics/z-score/).
+5. Based on their performance in the Qualifier, players will be ranked based on their Z-score value across all eleven Qualifier beatmaps. A brief explanation on the concept of Z-score can be found [here](https://www.statisticshowto.com/probability-and-statistics/z-score/).
 6. The 24 players with the **highest Z-score value** according to the above criteria will advance to the tournament proper as follows:
    - Players in seeds #1 - #8 will be given an **automatic bye to the Round of 16**.
    - Players in seeds #9 - #24 will **participate in the runoff brackets**.
@@ -252,10 +252,10 @@ Sunday, 8 September 2024:
 ![](img/runoff-scheme.jpg "Runoff brackets diagram")
 
 1. Based on their Qualifier seeding, players in seeds #9 - #24 will be placed in the runoff brackets according to the above scheme.
-2. Matches in the runoff brackets will be classified into **R1**, **R2**, and **R3** that goes as follows:
-   - **R1**: Winners will advance to the Round of 16, while losers will move on to R3.
-   - **R2**: Winners will advance to R3, while losers will be eliminated from the tournament.
-   - **R3**: Winners will advance to the Round of 16, while losers will be eliminated from the tournament.
+2. Matches in the runoff brackets will be classified into **R1**, **R2**, and **R3** that go as follows:
+   - **R1**: Match winners will advance to the Round of 16, while their opponents will move on to R3.
+   - **R2**: Match winners will advance to R3, while their opponents will be eliminated from the tournament.
+   - **R3**: Match winners will advance to the Round of 16, while their opponents will be eliminated from the tournament.
 
 #### Knock-out stage rules
 
