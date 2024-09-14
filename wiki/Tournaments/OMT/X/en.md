@@ -8,7 +8,7 @@ tags:
 
 ![osu! Malaysia Tournament X banner](img/banner.jpg)
 
-The **osu! Malaysia Tournament X** (OMT X) is a double-elimination 1v1 osu! tournament hosted by ::{ flag=MY }:: [Sagisawa Arisu](https://osu.ppy.sh/users/9364594). The tournament was open to all players from Malaysia with a global rank of #99,999 or higher in the osu! game mode. It is the tenth iteration of the osu! Malaysia Tournament..
+The **osu! Malaysia Tournament X** (OMT X) is a double-elimination 1v1 osu! tournament hosted by ::{ flag=MY }:: [Sagisawa Arisu](https://osu.ppy.sh/users/9364594). The tournament was open to all players from Malaysia with a global rank of #99,999 or higher in the osu! game mode. It is the tenth iteration of the osu! Malaysia Tournament.
 
 ## Tournament schedule
 
@@ -252,10 +252,10 @@ Sunday, 8 September 2024:
 ![](img/runoff-scheme.jpg "Runoff brackets diagram")
 
 1. Based on their Qualifier seeding, players in seeds #9 - #24 will be placed in the runoff brackets according to the above scheme.
-2. Matches in the runoff brackets will be classified into **R1**, **R2**, and **R3** as follows:
-   - **R1**: Winning players will advance to the Round of 16, while losing players will move on to R3.
-   - **R2**: Winning players will advance to R3, while losing players will be eliminated from the tournament.
-   - **R3**: Winning players will advance to the Round of 16, while losing players will be eliminated from the tournament.
+2. Matches in the runoff brackets will be classified into **R1**, **R2**, and **R3** that goes as follows:
+   - **R1**: Winners will advance to the Round of 16, while losers will move on to R3.
+   - **R2**: Winners will advance to R3, while losers will be eliminated from the tournament.
+   - **R3**: Winners will advance to the Round of 16, while losers will be eliminated from the tournament.
 
 #### Knock-out stage rules
 
@@ -286,7 +286,7 @@ Sunday, 8 September 2024:
    - Playing a warm-up beatmap is not mandatory, and teams may elect to skip their warm-up pick should they wish to.
 4. Players are expected to exercise common sense in pick time windows.
    - If a player is unable to come up with a pick within a 90-second time window of their picking turn, the pick will be given to the other player.
-5. Unlike in other tournaments, OMT X will feature a dedicated pick slot for off-beat maps termed as the **EX/Special** pick. Maps in this pick slot will have a special playing condition attached to them (e.g. "The map has to be played with Easy") or be outright unconventional.
+5. Unlike in other tournaments, OMT X will feature a dedicated pick for off-beat maps termed as the **EX/Special** pick. Maps in this pick will have a special playing condition attached to them (e.g. "The map has to be played with Easy") or be outright unconventional.
 6. In a Free Mod pick, each player has to apply at least one mod to play the beatmap with. Allowed mods are Easy, Hard Rock, Hidden, or any possible combinations of the three mods. 
    - Playing a FreeMod pick without any mods applied is not allowed.
 7. In the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled.
