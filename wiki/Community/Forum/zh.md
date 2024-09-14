@@ -11,13 +11,13 @@ tags:
 
 [osu! **论坛**](https://osu.ppy.sh/community/forums)是一个讨论的地方。消息通过主题分类，并且不追求即时回应。讨论内容被永久保留，它们可以被搜索，并且任何时候都能再次访问。这与[osu! 聊天](/wiki/Community/Internet_Relay_Chat)中的即时消息不同。论坛消息更长，包含更多信息，并且通常比聊天信息会提供更多的细节。
 
-osu! 论坛提供了一些与大多数网络论坛相似的功能：[BBCode](/wiki/BBCode) 标记语言，投票，固定、订阅消息，私信，以及[管理](#管理).
+osu! 论坛提供了一些与大多数网络论坛相似的功能：[BBCode](/wiki/BBCode) 标记语言，投票，固定、订阅消息，私信，以及[管理](#管理)。
 
 ## 结构
 
 每个 osu! 论坛都包含一系列的**主题**，有时叫做帖子。它们也有更细的分类，叫做**子论坛**。在大部分论坛中，你只能说英语。但也有一些[特定语言](https://osu.ppy.sh/community/forums/23)的论坛，它们是为了足够大的语言社群所准备的。
 
-尽管某些论坛，例如[作图讨论](https://osu.ppy.sh/community/forums/56)，有特殊的要求，所有的论坛都必须遵守 have specific requirements or guidelines, all of them follow [社区规定](/wiki/Rules).
+尽管某些论坛，例如[作图讨论](https://osu.ppy.sh/community/forums/56)，有特殊的要求，所有的论坛都必须遵守[社区规定](/wiki/Rules)。
 
 ## 角色和用户组
 
@@ -45,7 +45,7 @@ osu! 论坛提供了一些与大多数网络论坛相似的功能：[BBCode](/wi
 
 ## 历史
 
-[第一个论坛帖子](https://osu.ppy.sh/community/forums/topics/2)可以追溯到2007年8月28日，由 ::{ flag=AU }:: [peppy](/wiki/People/peppy) 发出。 那时，osu! 网站使用 [phpBB](https://en.wikipedia.org/wiki/PhpBB) 作为论坛引擎。随着时间的发展，该引擎已经被很大程度地扩展，以适应游戏和社区的需求。其中的一些改造内容包括：
+[第一个论坛帖子](https://osu.ppy.sh/community/forums/topics/2)可以追溯到2007年8月28日，由 ::{ flag=AU }:: [peppy](/wiki/People/peppy) 发出。 那时，osu! 网站使用 [phpBB](https://zh.wikipedia.org/wiki/PhpBB) 作为论坛引擎。随着时间的发展，该引擎已经被很大程度地扩展，以适应游戏和社区的需求。其中的一些改造内容包括：
 
 - 与[谱面提交系统](/wiki/Beatmapping/Beatmap_submission)的集成
 - [kudosu](/wiki/Modding/Kudosu) 和[谱面上架](/wiki/Beatmap_ranking_procedure)系统
