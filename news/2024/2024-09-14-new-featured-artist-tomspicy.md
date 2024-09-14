@@ -8,9 +8,9 @@ Send only your warmest welcomes to **tomspicy**, our latest Featured Artist!
 
 ![](https://assets.ppy.sh/artists/437/header.jpg?1)
 
-**tomspicy** is an electronic artist whose music career was kickstarted by passionate public reception to a meme track: the [fieryrage accordion](https://www.youtube.com/watch?v=yoV794KYq48) [hardcore remix](https://osu.ppy.sh/beatmapsets?q=%22fieryrage%20accordion%22)".
+**tomspicy** is an electronic artist whose music career was kickstarted by passionate public reception to a meme track: the "[fieryrage accordion](https://www.youtube.com/watch?v=yoV794KYq48) [hardcore remix](https://osu.ppy.sh/beatmapsets?q=%22fieryrage%20accordion%22)".
 
-Ever since the short tune's release in 2021, **tomspicy** has been dedicated to electronic music, primarily outputting drum and bass with occassionally dips into other electronic subgenres like hardcore and old school jungle. As of today, **tomspicy** is also dipping into our Featured Artist library!
+Ever since the short tune's release in 2021, **tomspicy** has been dedicated to electronic music, primarily outputting drum and bass with occasional dips into other electronic subgenres like hardcore and old school jungle. As of today, **tomspicy** is also dipping into our Featured Artist library!
 
 **16** tunes available on [**tomspicy**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/437), including an extended version of the fieryrage accordion hardcore remix and three new [original songs](/wiki/osu!_originals) produced specifically for this Featured Artist reveal!
 
@@ -52,6 +52,8 @@ Take your pick:
 <audio controls>
     <source src="https://assets.ppy.sh/artists/437/tomspicy%20osu!%20collection%2001/tomspicy%20-%20petal%20blizzard.mp3">
 </audio>
+
+<!-- lint ignore no-heading-punctuation -->
 
 ### tomspicy - i love you.
 
