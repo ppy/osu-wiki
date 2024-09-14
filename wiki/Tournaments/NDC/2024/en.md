@@ -118,6 +118,29 @@ The National Dutch Championship 2024 is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+**[Download the mappack here!](https://tourney.huismetbenen.nl/25/mappools/ro16)**
+
+- Nomod
+  1. [Feryquitous feat. Itsuki Natsume - Happy Enforcer (bongo) [illusion]](https://osu.ppy.sh/beatmapsets/1901658#osu/3920454)
+  2. [Nanahoshi Kangengakudan - Rubik's Cube (Ryuusei Aika) [Satellite's Expert]](https://osu.ppy.sh/beatmapsets/1324798#osu/2744036)
+  3. [Nekomata Master - The Sky of Sadness (seros) [world/contemporary]](https://osu.ppy.sh/beatmapsets/1983503#osu/4119358)
+  4. [YUC'e - Night Club Junkie (Nathan) [YTE]](https://osu.ppy.sh/beatmapsets/756066#osu/1591138)
+  5. [CLOCKWORKS TRACER - Behind The Wall Of Apathy (kerupt) [pov u have genetics]](https://osu.ppy.sh/beatmapsets/1833720#osu/3764516)
+- Hidden
+  1. [kanone - The Sea of Memory (rrtyui) [sentiments]](https://osu.ppy.sh/beatmapsets/395278#osu/860311)
+  2. [Shubh Saran - Slip (defiance) [4/20]](https://osu.ppy.sh/beatmapsets/1543028#osu/3154009)
+- Hardrock
+  1. [Rohi - Kakuzetsu Thanatos (NatsumeRin) [Rin]](https://osu.ppy.sh/beatmapsets/76396#osu/215238)
+  2. [Sasuke Haraguchi feat. Kasane Teto - Igaku (CMeFly) [Antidote]](https://osu.ppy.sh/beatmapsets/2246908#osu/4777433)
+- Double Time
+  1. [Fujijo Seitokai Shikkou-bu - Best FriendS (No Dap) [Insane]](https://osu.ppy.sh/beatmapsets/249939#osu/574471)
+  2. [Kroi - Hyper (Kine) [Insane]](https://osu.ppy.sh/beatmapsets/2094148#osu/4406121)
+  3. [Thousand Leaves - Darkest night (Halfslashed) [woonm's Insane]](https://osu.ppy.sh/beatmapsets/2048017#osu/4568465)
+- Tiebreaker
+  1. **[Avenged Sevenfold - Blinded in Chains (Shurelia) [Blacklist (feat. piroshki)]](https://osu.ppy.sh/beatmapsets/2030573#osu/4231693)**
+
 ### Round of 32
 
 **[Download the mappack here!](https://tourney.huismetbenen.nl/25/mappools/ro32)**
@@ -159,6 +182,41 @@ The National Dutch Championship 2024 is run by various community members.
 - Double Time
   1. [FELT - Flower Flag (MZC Echoes the Spring Liquid Mix) (Frostmourne) [Lunatic]](https://osu.ppy.sh/beatmapsets/55945#osu/169450)
   2. [frederic - Junkie (elicz1) [XLT's Insane]](https://osu.ppy.sh/beatmapsets/2078299#osu/4387718)
+
+## Match results
+
+### Round of 32
+
+Sunday, 8 September 2024:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Heavymetal4life** ::{ flag=NL }:: | **5** | 1 | ::{ flag=NL }:: permiss | [#1](https://osu.ppy.sh/community/matches/115422970) |
+| **Katie Djeestar** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: Damnjelly | [#1](https://osu.ppy.sh/community/matches/115422319) |
+| **chillington 15** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: cozyin | [#1](https://osu.ppy.sh/community/matches/115420394) |
+| **Nederland** ::{ flag=NL }:: | **5** | 3 | ::{ flag=NL }:: UnveiledGolem | [#1](https://osu.ppy.sh/community/matches/115420493) |
+| **draconia** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: oetluller | [#1](https://osu.ppy.sh/community/matches/115417668) |
+| pregnant ::{ flag=NL }:: | 3 | **5** | ::{ flag=NL }:: **Goose King** | [#1](https://osu.ppy.sh/community/matches/115416111) |
+| **FietsAapje** ::{ flag=NL }:: | **5** | 1 | ::{ flag=NL }:: sofuraabu | [#1](https://osu.ppy.sh/community/matches/115415987) |
+
+Saturday, 7 September 2024:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **PotjeNutella** ::{ flag=NL }:: | **5** | 2 | ::{ flag=NL }:: darknessofUwU | [#1](https://osu.ppy.sh/community/matches/115416045) |
+| **SecretlyShiro** ::{ flag=NL }:: | **5** | 3 | ::{ flag=NL }:: wooz | [#1](https://osu.ppy.sh/community/matches/115407287) |
+| WeederBoss0 ::{ flag=NL }:: | 3 | **5** | ::{ flag=NL }:: **Wittepoes** | [#1](https://osu.ppy.sh/community/matches/115405344) |
+| **Dolter** ::{ flag=NL }:: | **5** | 2 | ::{ flag=NL }:: DJJDJ516 | [#1](https://osu.ppy.sh/community/matches/115404561) |
+| **Ohio** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: GeKa_Z | [#1](https://osu.ppy.sh/community/matches/115403567) |
+| faze-dank ::{ flag=NL }:: | -1 | **0** | ::{ flag=NL }:: **Alphan** | *win by default* |
+| **LUCIANO** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: TheCoolJfp | [#1](https://osu.ppy.sh/community/matches/115399006) |
+| **wessel_osu2** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: Trehaloses | [#1](https://osu.ppy.sh/community/matches/115398291) |
+
+Friday, 6 September 2024:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **heyronii** ::{ flag=NL }:: | **5** | 1 | ::{ flag=NL }:: Stogdy | [#1](https://osu.ppy.sh/community/matches/115389018) |
 
 ## Ruleset
 
