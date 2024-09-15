@@ -356,7 +356,7 @@ This competition has come to an end and resulted in the following podium:
     - Pick, ban, or protect: The referee `!roll`s the amount of possible maps and uses the result as the player's choice.
     - Ready-up timer: `!mp start 15` is forced.
 14. For FM maps, mods are optional, but NM = 0.8x, EZ, EZHD, or EZFL = 1.7x, and FL = 1.4x.
-15. If both players somehow get *exactly* the same score, the player with better accuracy wins. If there is still a tie, the map is replayed.
+15. In the rare case both players get *exactly* the same score, the player with better accuracy wins. If there is still a tie, the map is replayed.
     - Mods can be changed if a map is replayed for this reason.
 16. In case of a disconnect:
     - The first time, the map is replayed if the disconnect happened within the first **30 seconds**.
@@ -400,7 +400,7 @@ This competition has come to an end and resulted in the following podium:
    - Rank <95k after adding tournament top plays (mixed pp) and unranked osu!(lazer) plays
    - Suspicious profile activity
    - High average scores on pools above 5.5 stars
-   - Consistent high performer in major 100k tournaments (e.g. EQX, 6EC24, GC#1, 6WC23)
+   - Consistent high performer in major 100k tournaments (e.g. [EQX](https://osu.ppy.sh/community/forums/topics/1897443), [6EC24](https://osu.ppy.sh/community/forums/topics/1854686), or [6WC23](https://osu.ppy.sh/community/forums/topics/1774937))
    - Trying to mislead the screening process (for example, by faking match history)
    - Other tournament overperformance
 2. It is possible to appeal a screening if you think it was unjustified or a mistake. To do this, message either host (preferably through Discord) and explain why you believe your screening was unjustified.
