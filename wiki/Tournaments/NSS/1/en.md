@@ -317,50 +317,50 @@ This competition has come to an end and resulted in the following podium:
 
 ### General rules
 
-1. The rank range is #100000 - infinity.
+1. The rank range is #100,000 – infinity.
 2. The eligible countries are Denmark, Norway, Sweden, Finland, and Iceland.
    - All territories under the jurisdiction of these countries may play, e.g. Faroe Islands and Greenland.
 3. Tournament type: 1 vs. 1.
 4. All maps are played with **[Score v2](/wiki/Gameplay/Game_modifier/ScoreV2)** and **No Fail**.
-5. The tournament is **unbadged.**
+5. The tournament is **unbadged**.
 6. The tournament will start from Qualifiers and continue to Group Stage.
 7. Players must join the tournament Discord server until eliminated.
 8. Staff are **not allowed** to participate in the tournament as players. However, eliminated players **may register** as staff.
 
-### Qualifiers Procedure
+### Qualifier procedure
 
-1. Qualifiers lobbies must be manually scheduled.
-2. All maps are played through in the order they appear on the Main Sheet, from NM1 to DT2. Players **must** play all the maps.
-3. The pool is played through **twice.** The best score counts. The second playthrough is optional.
-4. Maps have a two minute break in between. There are no timeouts in Qualifiers.
+1. Qualifier lobbies must be manually scheduled.
+2. All maps are played through in the order they appear on the main sheet, from NM1 to DT2. Players **must** play all the maps.
+3. The pool is played through **twice**. The best score counts. The second playthrough is optional.
+4. Maps have a two-minute break in between. There are no timeouts in Qualifiers.
 5. A player's seed is based on **average rank** on the maps.
 
-### Match Procedure
+### Match procedure
 
 1. Referees will ping players 15 minutes before the match starts. If there is no ping 5 minutes before the match starts, players should notify the referees or staff/admins immediately.
 2. Invites will be sent to players 5 minutes before the match starts.
 3. Players may pick warmups up to 4:20 in length, and must send it to the referee 30 minutes before the match for approval.
    - Warmups may not contain [explicit content](/wiki/Rules/Explicit_content) except at the sole discretion of the referee.
    - Warmups are played only if both players agree to do so.
-4. After warmups, both players must !roll.
+4. After warmups, both players must `!roll`.
 5. The roll winner protects first and may choose either the pick or ban order. The roll loser protects second and may choose the remaining order.
 6. There is one protect in all rounds. Protected maps cannot be banned.
 7. There are no restrictions on picks and bans (double banning and triple/double picking are allowed).
 8. If there are multiple bans, they are in ABAB order, A being the "first ban".
 9. After bans, maps are picked in alternating order starting with the first picker.
-10. At match point (when both players are one point from winning), the Tiebreaker will be played.
+10. At match point (when both players are one point from winning), the tiebreaker will be played.
 11. Players have 90 seconds to pick maps and 90 seconds to ready up.
 12. Each player has **TWO timeouts** lasting 90 seconds each, which are used to extend timers. These can be taken at any point in the match after the first map is played, and can be taken consecutively.
     - Referees may force timeouts if players do not act in time, even if the first map has not yet been played.
 13. If a player allows a timer to expire and has no timeouts left:
-    - Pick, ban, or protect: The referee !rolls the amount of possible maps and uses the result as the player’s choice.
-    - Ready-up timer: !mp start 15 is forced.
+    - Pick, ban, or protect: The referee `!roll`s the amount of possible maps and uses the result as the player's choice.
+    - Ready-up timer: `!mp start 15` is forced.
 14. For FM maps, mods are optional, but NM = 0.8x, EZ, EZHD, or EZFL = 1.7x, and FL = 1.4x.
 15. If both players somehow get *exactly* the same score, the player with better accuracy wins. If there is still a tie, the map is replayed.
     - Mods can be changed if a map is replayed for this reason.
 16. In case of a disconnect:
-    - The first time, the map is replayed if the disconnect happened within the first **30 seconds.**
-    - If the same player disconnects again, they lose unless they can prove their score, for example, by Shift+F12 or replay file.
+    - The first time, the map is replayed if the disconnect happened within the first **30 seconds**.
+    - If the same player disconnects again, they lose unless they can prove their score, for example, by `Shift` + `F12` or replay file.
 17. If players do not join the match at the given time, the following penalties apply:
     - 5 minutes: No warmup
     - 8 minutes: No protect
@@ -372,10 +372,10 @@ This competition has come to an end and resulted in the following podium:
     - 20 minutes or more: **Forfeit** unless the opponent wants to reschedule
 19. If a player becomes silenced while playing a map, it counts as a disconnect.
 
-### Schedule Rules
+### Schedule rules
 
-1. Qualifiers lobbies should be scheduled at least **6 hours** in advance.
-2. In qualifiers, players may schedule an EX lobby at any time. Depending on referee availability, this may not be granted.
+1. Qualifier lobbies should be scheduled at least **6 hours** in advance.
+2. In Qualifiers, players may schedule an EX lobby at any time. Depending on referee availability, this might not be granted.
 3. Matches should be scheduled at least **24 hours** in advance.
 4. Reschedule requests should be considered reasonably by the receiving player. If a player appears to be denying reschedule requests unfairly, the administration will intervene.
 5. Reschedule requests with faked confirmation from the other player will result in a forfeit.
@@ -383,21 +383,21 @@ This competition has come to an end and resulted in the following podium:
 ### Group Stage
 
 1. During the Group Stage, there are 3 to 5 players in each group, depending on registrations.
-2. These players all play 1 match against each other over two weeks.
+2. These players all play one match against each other over two weeks.
 3. The placements are determined by the following criteria, in the order they are applied:
    - Amount of match wins
    - Maps won minus maps lost
-   - Direct comparison of a pair's group stage match (e.g. P1 vs P2: 5-1, so P1 gets the better placement)
+   - Direct comparison of a pair's Group Stage match (e.g. if player 1 wins 5–1 against player 2, player 1 gets the better placement)
 
 ### Screening
 
 1. Players can be screened for having performed **well above** the level of the rank range or for having suspicious profile stats. The following guidelines (not strict criteria, appealable) are used to determine this:
-   - osu!standard tournament badge(s)
-   - Having a play worth over 300pp
+   - Tournament badges in the osu! game mode
+   - Having a play worth over 300 pp
    - Suspiciously low playtime
    - Suspiciously recent account registration date
    - Rank <95k during registration phase
-   - Rank <95k after adding tournament top plays (mixed pp) and unranked osu!lazer plays
+   - Rank <95k after adding tournament top plays (mixed pp) and unranked osu!(lazer) plays
    - Suspicious profile activity
    - High average scores on pools above 5.5 stars
    - Consistent high performer in major 100k tournaments (e.g. EQX, 6EC24, GC#1, 6WC23)
@@ -407,13 +407,13 @@ This competition has come to an end and resulted in the following podium:
 3. Screenings should be appealed **as soon as possible** to have enough time to play Qualifiers.
 4. Players cannot be screened for bad reputation from before the tournament.
 
-### Self-ref
+### Self-refereeing
 
-1. Players may self-ref their matches if necessary. Permission to self-ref is granted by the administration.
+1. Players may referee their own matches, or "self-ref", if necessary. Permission to self-ref is granted by the administration.
 2. Self-ref requests will be granted only under all of the following conditions:
    - There are no referees available
    - The match is during Group Stage
    - The match is not streamed
-3. If you self-ref a match, post the MP link on the Discord server at the start of the match.
+3. If you self-ref a match, post the match history link in the Discord server at the start of the match.
 4. The tournament administration will inform you if the match was valid or invalid after it completes.
-5. There will only be asyncs if absolutely necessary. Even if permission is granted, taking an async results in you losing your warmups, protects, and bans in your next match.
+5. Asynchronous matches are only allowed if absolutely necessary. Even if permission is granted, playing a match asynchronously results in you losing your warmups, protects, and bans in your next match.
