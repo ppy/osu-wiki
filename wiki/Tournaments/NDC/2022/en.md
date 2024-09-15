@@ -1,5 +1,5 @@
 ---
-tags: # yamllint disable rule:braces rule:osu-wiki-nested-structure
+tags:
   - NDC2022
   - NDC
 ---
@@ -120,7 +120,7 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here!](https://tourney.huismetbenen.nl/10/mappools/gf)**
 
-- Nomod
+- No Mod
   1. [Fuki Commune - Kurui Zake Setsugekka (-Kirigiri) [Destiny]](https://osu.ppy.sh/beatmapsets/1457529#osu/2995484)
   2. [pm04034 - Sugary Mocaccino (Astronic) [Caffinated Adrenaline]](https://osu.ppy.sh/beatmapsets/1592198#osu/3251854)
   3. [Yousei Teikoku - Autoscopy (moph) [Extreme]](https://osu.ppy.sh/beatmapsets/1633220#osu/3333699)
@@ -133,7 +133,7 @@ This competition has come to an end and resulted in the following podium:
   2. [Yasui Yousuke - YO-KAI Disco [MEIKAI ARRANGE VERSION] ([Keqing]) [aww shidd]](https://osu.ppy.sh/beatmapsets/1485831#osu/3046747)
   3. [Chroma - Sudden Visitor (Fisky) [MAXIMUM]](https://osu.ppy.sh/beatmapsets/1251674#osu/2601556)
   4. [REDALiCE - DEAD or DIE (Cyberia950) [Extra]](https://osu.ppy.sh/beatmapsets/1570534#osu/3207055)
-- Hardrock
+- Hard Rock
   1. [Nanahoshi Kangengakudan - IMAGINARY LIKE THE JUSTICE (SkyFlame) [TOURNEY EDIT]](https://osu.ppy.sh/beatmapsets/1416170#osu/3123711)
   2. [ESTi - HELIX (Edit Ver.) (FreeSongs) [Helix]](https://osu.ppy.sh/beatmapsets/331732#osu/734769)
   3. [Denkishiki Karen Ongaku Shuudan - C.M.S. (LMT) [Tainted Heart]](https://osu.ppy.sh/beatmapsets/1568763#osu/3203707)
@@ -150,21 +150,21 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here!](https://tourney.huismetbenen.nl/10/mappools/f)**
 
-- Nomod
+- No Mod
   1. [AliA - joker (Kujinn) [NM1]](https://osu.ppy.sh/beatmapsets/1556595#osu/3179908)
   2. [Plum - Dustwind (knowledgeking) [Hikuptah 200bpm]](https://osu.ppy.sh/beatmapsets/1480431#osu/3036867)
   3. [The Fearless Flyers - Assassin (olc) [lets go]](https://osu.ppy.sh/beatmapsets/1580627#osu/3227488)
   4. [Culprate - Beast (Vorso Remix) (Mir) [Hunted]](https://osu.ppy.sh/beatmapsets/1552826#osu/3172759)
   5. [Imperial Circus Dead Decadence - Shinbatsu o Tadori Kyoukotsu ni Itaru (Kite) [Extreme]](https://osu.ppy.sh/beatmapsets/482382#osu/2039543)
   6. [Polyphia - O.D. (Melwoine) [Overly Difficult]](https://osu.ppy.sh/beatmapsets/1276327#osu/2651794)
-  7. [jun with Alison - SUNKiSS DROP ~jun side~ ([Keqing]) [please donate for my gacha addiction]](https://osu.ppy.sh/beatmapsets/1498309#osu/3070802)
+  7. [jun with Alison - SUNKiSS DROP \~jun side\~ ([Keqing]) [please donate for my gacha addiction]](https://osu.ppy.sh/beatmapsets/1498309#osu/3070802)
 - Hidden
   1. [Hisui - Gashadokuro (KnightC0re) [Folklore]](https://osu.ppy.sh/beatmapsets/1699193#osu/3471944)
   2. [brave elements - Massarani (Delis) [Insane]](https://osu.ppy.sh/beatmapsets/1008196#osu/2110050)
   3. [sky_delta - Precursor (Ekoxier) [Ultimate Flow Style]](https://osu.ppy.sh/beatmapsets/747886#osu/1575750)
   4. [cYsmix - Eden (Luminiscental) [Dark Rush]](https://osu.ppy.sh/beatmapsets/1273651#osu/2646589)
-- Hardrock
-  1. [AU - Infinite of nuclear fusion ~Mugen no Taiyou Shinkou~ (Luscent) [Extra Stage]](https://osu.ppy.sh/beatmapsets/1380266#osu/2852070)
+- Hard Rock
+  1. [AU - Infinite of nuclear fusion \~Mugen no Taiyou Shinkou\~ (Luscent) [Extra Stage]](https://osu.ppy.sh/beatmapsets/1380266#osu/2852070)
   2. [void - Dedication (Hikan) [LMT's Extra]](https://osu.ppy.sh/beatmapsets/610819#osu/1290572)
   3. [Henry Salvia, Kathleen Enright - Brick by Brick (Apo11o) [Tock by Tick]](https://osu.ppy.sh/beatmapsets/1576337#osu/3218312)
   4. [P*Light - SAY BAY (yf_bmp) [Firika's Expert (Winner!)]](https://osu.ppy.sh/beatmapsets/750316#osu/1588845)
@@ -180,7 +180,7 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here!](https://tourney.huismetbenen.nl/10/mappools/sf)**
 
-- Nomod
+- No Mod
   1. [SALTY DOG - Screams Within (Yumerios) [Moonlight]](https://osu.ppy.sh/beatmapsets/1545554#osu/3159026)
   2. [Adust rain - Nevxxxxerland feat. Michizane (gazimal) [Nightmare Essence]](https://osu.ppy.sh/beatmapsets/1551223#osu/3169925)
   3. [Drop no Koya - Kaguyahime (Yakumo Rei) [Princess From The Moon]](https://osu.ppy.sh/beatmapsets/928019#osu/1938335)
@@ -191,7 +191,7 @@ This competition has come to an end and resulted in the following podium:
   1. [Rohi - LvC3 (VINXIS) [Chaos]](https://osu.ppy.sh/beatmapsets/1231655#osu/2560355)
   2. [I love you orchestra - Coconut Love (funny) [Nucifera]](https://osu.ppy.sh/beatmapsets/1665501#osu/3400091)
   3. [Alkome - Mind Disorder (Altai) [Internal Chaos]](https://osu.ppy.sh/beatmapsets/1301375#osu/2699222)
-- Hardrock
+- Hard Rock
   1. [Yorushika - Replicant (Meg) [Extra]](https://osu.ppy.sh/beatmapsets/1516043#osu/3103748)
   2. [KanoeRana - 1/2 (Airiesu) [me/you]](https://osu.ppy.sh/beatmapsets/1347840#osu/2791200)
   3. [Dollscythe - Flashes (Cellina) [Black Another]](https://osu.ppy.sh/beatmapsets/797401#osu/1674644)
@@ -206,7 +206,7 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here!](https://tourney.huismetbenen.nl/10/mappools/qf)**
 
-- Nomod
+- No Mod
   1. [LiSA - Tsumibito (vergil chair) [Agony]](https://osu.ppy.sh/beatmapsets/1555613#osu/3177993)
   2. [Silver Forest feat.Aki - Yami no Mahou Shoujo (rollpan) [Extreme]](https://osu.ppy.sh/beatmapsets/1436075#osu/2954864)
   3. [Yonekura Chihiro - DEAR MY WAKER (Skystar) [Overdrive]](https://osu.ppy.sh/beatmapsets/1579180#osu/3224533)
@@ -217,7 +217,7 @@ This competition has come to an end and resulted in the following podium:
   1. [Kanon - Hoshizora Travel (Battle) [Celestial]](https://osu.ppy.sh/beatmapsets/749591#osu/1578864)
   2. [PinocchioP - Ghosts Play to the Audience (Hatiso) [Boo]](https://osu.ppy.sh/beatmapsets/823149#osu/1725155)
   3. [Mili - String Theocracy (arronchu1207) [Cubby x Chu]](https://osu.ppy.sh/beatmapsets/1483633#osu/3042835)
-- Hardrock
+- Hard Rock
   1. [mafumafu - Rinne Tensei (AirinCat) [Reincarnation]](https://osu.ppy.sh/beatmapsets/1083811#osu/2266659)
   2. [Qrispy Joybox - licca (Minakami Yuki) [Special]](https://osu.ppy.sh/beatmapsets/287052#osu/647844)
   3. [Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - kagura (lazysloth900) [buenos dias]](https://osu.ppy.sh/beatmapsets/1688190#osu/3450111)
@@ -232,7 +232,7 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here!](https://tourney.huismetbenen.nl/10/mappools/ro16)**
 
-- Nomod
+- No Mod
   1. [yama - Mahi (Yogurtt) [kotachi's Atrophy]](https://osu.ppy.sh/beatmapsets/1625890#osu/3368030)
   2. [cosMo@bousou-P - Oceanus (BadMapMaker) [fhsai]](https://osu.ppy.sh/beatmapsets/1622733#osu/3313229)
   3. [Michiru Kagemori - Ready to (trevrasher) [ALDEN'S DOMESTICATED EXTRA]](https://osu.ppy.sh/beatmapsets/1252068#osu/2675215)
@@ -241,7 +241,7 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Dirty Androids - Egret and Willow (X Light) [Crow and Pine Extra]](https://osu.ppy.sh/beatmapsets/1159124#osu/2418757)
   2. [Daniel & Cherry - Bach Is Back (Castagne) [d]](https://osu.ppy.sh/beatmapsets/1682545#osu/3437664)
-- Hardrock
+- Hard Rock
   1. [canoue - Koori no Shiro (Lasse) [Petal]](https://osu.ppy.sh/beatmapsets/1037604#osu/2169240)
   2. [naotyu- - Velaciela (Jacob) [Heaven]](https://osu.ppy.sh/beatmapsets/80414#osu/230467)
 - Double Time
@@ -254,7 +254,7 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here!](https://tourney.huismetbenen.nl/10/mappools/ro32)**
 
-- Nomod
+- No Mod
   1. [Yorushika - Hole In The Heart (alevi) [Autumn Wind]](https://osu.ppy.sh/beatmapsets/1631189#osu/3329838)
   2. [murmur - murmur twins (B2007) [Deezy lox nm2 for ORMST2]](https://osu.ppy.sh/beatmapsets/1518146#osu/3107770)
   3. [Given - Fuyu no Hanashi (Yudragen) [Elcheer's Extra]](https://osu.ppy.sh/beatmapsets/1401056#osu/3316856)
@@ -263,7 +263,7 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [ClariS - Ai o Utae (iljaaz) [Love Phrase]](https://osu.ppy.sh/beatmapsets/1012760#osu/2119836)
   2. [M2U - Masquerade (ktgster) [Insane]](https://osu.ppy.sh/beatmapsets/185645#osu/443713)
-- Hardrock
+- Hard Rock
   1. [Yuuka - Girls' Carnival (Dored) [Eir's Carnival]](https://osu.ppy.sh/beatmapsets/827286#osu/1733571)
   2. [Omoinotake - One Day (hypercyte) [Today]](https://osu.ppy.sh/beatmapsets/1195193#osu/2489781)
 - Double Time
@@ -276,7 +276,7 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here!](https://tourney.huismetbenen.nl/10/mappools/ql)**
 
-- Nomod
+- No Mod
   1. [Baru - ResoAlive (Down) [reMASTER]](https://osu.ppy.sh/beatmapsets/1551133#osu/3169762)
   2. [MisomyL - Ring ! Run ! Nyan!! (Fisky) [Genetically ! Engineered ! Catgirls!!]](https://osu.ppy.sh/beatmapsets/1536674#osu/3141960)
   3. [Nanahoshi Kangengakudan - MAKE A LOSER (inst) (Keqing) [Yudragen's Expert]](https://osu.ppy.sh/beatmapsets/1504828#osu/3359370)
@@ -284,7 +284,7 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [lapix - Horizon Blue feat. Kanata.N (Mir) [Endless Expanse]](https://osu.ppy.sh/beatmapsets/974832#osu/2040486)
   2. [*Luna feat. IA - Start Line (Cut Ver.) (Niva) [Niva x Kuro Fuyusaki's Sea Food Extra]](https://osu.ppy.sh/beatmapsets/1395285#osu/2880033)
-- Hardrock
+- Hard Rock
   1. [Poppin'Party - Cherry Bomb ([Karcher]) [Love]](https://osu.ppy.sh/beatmapsets/1397392#osu/2883760)
   2. [M2U - A Bella! (feat. Lucy) (rollpan) [ExtrA]](https://osu.ppy.sh/beatmapsets/1517567#osu/3106686)
 - Double Time
@@ -461,7 +461,7 @@ Friday, 21 January 2022:
 3. Sharing a qualifiers lobby with another player is not allowed.
 4. Players are free to choose the order in which they play the qualifiers maps. The only requirement is that all maps are played twice.
 5. A player's final score on a map is the average score of the two attempts.
-6. All maps are played with Scorev2 and Nofail enabled.
+6. All maps are played with ScoreV2 and No Fail enabled.
 7. After the qualifiers stage is over, seedings are calculated as follows:
    1. For every map, the median score is calculated
    2. Each player is then awarded points as follows: **Points** = player score / median score.

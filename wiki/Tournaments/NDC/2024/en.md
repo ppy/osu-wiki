@@ -1,5 +1,5 @@
 ---
-tags: # yamllint disable rule:braces rule:osu-wiki-nested-structure
+tags:
   - NDC2024
   - NDC
 ---
@@ -122,7 +122,7 @@ The National Dutch Championship 2024 is run by various community members.
 
 **[Download the mappack here!](https://tourney.huismetbenen.nl/25/mappools/ro16)**
 
-- Nomod
+- No Mod
   1. [Feryquitous feat. Itsuki Natsume - Happy Enforcer (bongo) [illusion]](https://osu.ppy.sh/beatmapsets/1901658#osu/3920454)
   2. [Nanahoshi Kangengakudan - Rubik's Cube (Ryuusei Aika) [Satellite's Expert]](https://osu.ppy.sh/beatmapsets/1324798#osu/2744036)
   3. [Nekomata Master - The Sky of Sadness (seros) [world/contemporary]](https://osu.ppy.sh/beatmapsets/1983503#osu/4119358)
@@ -131,7 +131,7 @@ The National Dutch Championship 2024 is run by various community members.
 - Hidden
   1. [kanone - The Sea of Memory (rrtyui) [sentiments]](https://osu.ppy.sh/beatmapsets/395278#osu/860311)
   2. [Shubh Saran - Slip (defiance) [4/20]](https://osu.ppy.sh/beatmapsets/1543028#osu/3154009)
-- Hardrock
+- Hard Rock
   1. [Rohi - Kakuzetsu Thanatos (NatsumeRin) [Rin]](https://osu.ppy.sh/beatmapsets/76396#osu/215238)
   2. [Sasuke Haraguchi feat. Kasane Teto - Igaku (CMeFly) [Antidote]](https://osu.ppy.sh/beatmapsets/2246908#osu/4777433)
 - Double Time
@@ -145,7 +145,7 @@ The National Dutch Championship 2024 is run by various community members.
 
 **[Download the mappack here!](https://tourney.huismetbenen.nl/25/mappools/ro32)**
 
-- Nomod
+- No Mod
   1. [Naoki Miki (CV: Takahashi Rie) & Ebisuzawa Kurumi (CV: Ozawa Ari) - Unhappy End World (Yasaija 714) [kotachi's Happiness]](https://osu.ppy.sh/beatmapsets/823259#osu/1725346)
   2. [69 de 74 - Grievous Fate (LeCandy) [candy]](https://osu.ppy.sh/beatmapsets/1948450#osu/4032765)
   3. [Rita, Asari*, Tezuka Ryouko - Hajimari no Toki (Moete) [Expert]](https://osu.ppy.sh/beatmapsets/1693856#osu/3461177)
@@ -154,7 +154,7 @@ The National Dutch Championship 2024 is run by various community members.
 - Hidden
   1. [:) feat. KAFU - Alma (Ducky-) [:\]]](https://osu.ppy.sh/beatmapsets/1677752#osu/3457205)
   2. [capitaro - Tenshinranman High Collar Hime (dakiwii) [Ix's Inner Oni]](https://osu.ppy.sh/beatmapsets/2160056#osu/4554728)
-- Hardrock
+- Hard Rock
   1. [siinamota - Uta o Utau Hito (Renumi) [toybot's Extra]](https://osu.ppy.sh/beatmapsets/759268#osu/2101658)
   2. [Porter Robinson - Flicker (AJT) [Prototype]](https://osu.ppy.sh/beatmapsets/1235663#osu/2568606)
 - Double Time
@@ -168,7 +168,7 @@ The National Dutch Championship 2024 is run by various community members.
 
 **[Download the mappack here!](https://tourney.huismetbenen.nl/25/mappools/ql)**
 
-- Nomod
+- No Mod
   1. [HACHI - MATRYOSHKA (Luscent) [Expert]](https://osu.ppy.sh/beatmapsets/1824623#osu/3744361)
   2. [xi - Blue Zenith (Asphyxia) [ktgster's Extreme]](https://osu.ppy.sh/beatmapsets/292301#osu/657917)
   3. [PeriTune - Prairie4 (captin1) [Extra]](https://osu.ppy.sh/beatmapsets/1543431#osu/3154910)
@@ -176,7 +176,7 @@ The National Dutch Championship 2024 is run by various community members.
 - Hidden
   1. [Camellia - Kono Hoshi de.... (Snow Note) [Another]](https://osu.ppy.sh/beatmapsets/106693#osu/280034)
   2. [paraoka feat. haru*nya - Manimani (Cut ver.) (Cellina) [Hananoiro]](https://osu.ppy.sh/beatmapsets/2008891#osu/4179280)
-- Hardrock
+- Hard Rock
   1. [BUTAOTOME - Yurara Kamishibai (sstari) [Expert]](https://osu.ppy.sh/beatmapsets/2148067#osu/4717103)
   2. [Warak - REANIMATE (iyasine) [Azer's Extra]](https://osu.ppy.sh/beatmapsets/186318#osu/459845)
 - Double Time
@@ -235,7 +235,7 @@ Friday, 6 September 2024:
 2. Each player can schedule their own, personal qualifiers lobby at any time during the qualifiers weekend.
 3. Sharing a qualifiers lobby with another player is not allowed.
 4. Players are free to choose the order in which they play the qualifiers maps. The only requirement is that all maps are played once.
-5. All maps are played with Scorev2 and Nofail enabled.
+5. All maps are played with ScoreV2 and No Fail enabled.
 6. After the qualifiers stage is over, seedings are calculated as follows:
    1. For every map, the median score is calculated
    2. Each player is then awarded points as follows: **Points** = player score / median score.
