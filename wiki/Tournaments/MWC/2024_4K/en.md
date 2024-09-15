@@ -283,8 +283,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/f3e
 
 ## Match results
 
-## Match results
-
 ### Semifinals
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1wTj34gWwU-u5Jpax5h-e8B4lYtYu-Nx0LNN5M8yLW-I?rm=minimal).
