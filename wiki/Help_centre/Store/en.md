@@ -28,7 +28,7 @@ If your order has arrived in your country, but hasn't been delivered yet, it may
 
 Sometimes orders can get stuck in the postal system. If your order is stuck somewhere in the United States, it may be possible to track down through the [USPS](https://faq.usps.com/s/article/USPS-Tracking-The-Basics), usually by contacting the relevant location on your tracking info. If your order is stuck outside of the United States, contact your country's postal service for help.
 
-Feel free to contact [merch@ppy.sh](mailto:merch@ppy.sh) if you're still confused, but note that after a product leaves our hands, we knows as much about the status of the delivery as you do.
+Feel free to contact [merch@ppy.sh](mailto:merch@ppy.sh) if you're still confused, but note that after a product leaves our hands, we know as much about the status of the delivery as you do.
 
 ## I need help with a specific product!
 
