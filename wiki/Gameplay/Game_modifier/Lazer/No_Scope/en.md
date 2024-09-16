@@ -34,7 +34,7 @@ tags:
 
 :::
 
-*For the full list of all osu!(lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier/Lazer)*
+*For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier/Lazer)*
 
 The **No Scope** mod progressively hides the cursor between the first and tenth combo. Beyond that number, the cursor will remain invisible. If you miss an object, everything will be back to normal.
 

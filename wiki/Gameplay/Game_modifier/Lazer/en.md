@@ -11,9 +11,8 @@ tags:
 
 # Game modifier (lazer)
 
-*For other uses, see [Mod (disambiguation)](/wiki/Disambiguation/Mod).*
-
-*For the stable mods, see [Game Modifier (stable)](/wiki/Gameplay/Game_modifier)*
+*For the osu!stable version of this article, see: [Game modifier](/wiki/Gameplay/Game_modifier)*\
+*For other uses of "mod", see: [Mod (disambiguation)](/wiki/Disambiguation/Mod)*
 
 ![Mod selection screen](/wiki/Gameplay/Game_modifier/Lazer/img/Mod_Selection_Screen.png "Comparison between the mod selection screens of osu! (top-left), osu!taiko (top-right), osu!catch (bottom-left), and osu!mania (bottom-right) game modes")
 
