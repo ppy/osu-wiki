@@ -29,7 +29,7 @@ Ces serveurs se concentrent sur la fourniture et le développement d'outils et d
 
 |  | Nom | Propriétaire | Description |
 | :-: | :-- | :-- | :-- |
-| [![](img/Performance-Points.png)](https://discord.com/invite/aqPCnXu) | [Performance Points](https://discord.com/invite/aqPCnXu) |  | Le serveur **Performance Points** facilite le développement par la communauté des systèmes de [points de performance](/wiki/Performance_points) et de [notation par étoiles](/wiki/Beatmap/Star_rating). |
+| [![](img/Performance-Points.png)](https://discord.com/invite/aqPCnXu) | [Performance Points](https://discord.com/invite/aqPCnXu) | ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | Le serveur **Performance Points** facilite le développement par la communauté des systèmes de [points de performance](/wiki/Performance_points) et de [notation par étoiles](/wiki/Beatmap/Star_rating). |
 | [![](img/osu!catch-dev.png)](https://discord.com/invite/YEJBENvFzN) | [osu!catch dev](https://discord.com/invite/YEJBENvFzN) | ::{ flag=FR }:: [bastoo0](https://osu.ppy.sh/users/4864877) | **osu!catch dev** facilite le développement par la communauté des systèmes de [points de performance](/wiki/Performance_points) et de [notation par étoiles](/wiki/Beatmap/Star_rating) d'osu!catch. |
 | [![](img/o!m-SR-PP-Rework-Hub.png)](https://discord.com/invite/GFCNNg8bwk) | [o!m SR/PP Rework Hub](https://discord.com/invite/GFCNNg8bwk) | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | Le **o!m SR/PP Rework Hub** facilite le développement communautaire des systèmes de [points de performance](/wiki/Performance_points) et de [notation par étoiles](/wiki/Beatmap/Star_rating) d'osu!mania. |
 
