@@ -49,7 +49,7 @@ Please do **not** file a report using either [the in-game `!report` command](/wi
 
 ## How can I delete my beatmap? {id=delete-beatmap}
 
-**The [support team](/wiki/People/The_Team/Account_support_team) does not take requests to manually delete uploaded beatmaps.**
+**The [support team](/wiki/People/Account_support_team) does not take requests to manually delete uploaded beatmaps.**
 
 You can delete your beatmap yourself by waiting for it to decay to the beatmap Graveyard, which it will do so after a month (28 days) without updates.
 
