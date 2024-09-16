@@ -9,7 +9,7 @@ Get ready for an artistic spin with xootynator, the sorceress of full area!
 
 ![](/wiki/shared/news/2024-09-16-the-followpoint-xootynator-the-ceo-of-full-area/banner.jpg)
 
-Guess what? The Followpoint is back to bring you another banger, an interview with [xootynator](https://osu.ppy.sh/users/3717598)! You likely heard of her at least once because of her community contributions (such as tournament staffing or content making), tournament participation, arts or her unique playstyle. And today we have a chance to learn more about her and her osu! journey.
+Guess what? The Followpoint is back to bring you another banger, an interview with [xootynator](https://osu.ppy.sh/users/3717598)! You likely heard of her at least once because of her community contributions such as tournament staffing, content making, tournament participation, arts or her unique play style. Today we have a chance to learn more about her and her osu! journey.
 
 So, let's get into this interview!
 
@@ -80,7 +80,7 @@ How did you get into drawing? Was there anything that motivated you to learn it?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3717598">xootynator</a></p>
 
-I got into art when I was very young, always doodling on my homework and such. I first got a tablet when I was 12 years old and was pretty into my DeviantArt and Instagram phase doing a lot of My Little Pony stuff... but I think what inspired me the most as a child was looking at old concept art for games that me and my cousins would play. I have a soft spot in my heart for the concept work of the game Scaler, which featured fantasy landscapes and creatures!
+I got into art when I was very young, always doodling on my homework and such. I first got a tablet when I was 12 years old and was pretty into my DeviantArt and Instagram phase doing a lot of My Little Pony stuff... but I think what inspired me the most as a child was looking at old concept art for games that my cousins and I would play. I have a soft spot in my heart for the concept work of the game Scaler, which featured fantasy landscapes and creatures!
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-09-16-the-followpoint-xootynator-the-ceo-of-full-area/avatar-MegaMix.jpg')"></a>
 
@@ -106,7 +106,7 @@ How did you get introduced to osu! and what was your first impression of it?
 
 My first introduction to osu! was actually in grade 4. I have a vivid memory of someone playing [Osu! Tatakae! Ouendan](/wiki/FAQ#i've-never-played-this-"ouendan"-thing-—-what-is-it) on their DS outside the gym, and I think there were some visuals of a guy trying to impress a girl on a date, and if you missed any notes then the guy would turn into a werewolf...
 
-Eventually when I started highschool, I saw people playing osu! on the school computers. It felt like some spiritual sign that I should play it since I always had that fond memory of that time by the gym. So at some point I tried it at home and the rest is prety much history. I don't remember much of my first days of the game but I knew I was hooked right away. I still play it to this day after all!
+Eventually when I started highschool, I saw people playing osu! on the school computers. It felt like some spiritual sign that I should play it since I always had that fond memory of that time by the gym. So at some point I tried it at home and the rest is pretty much history. I don't remember much of my first days of the game but I knew I was hooked right away. I still play it to this day after all!
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-09-16-the-followpoint-xootynator-the-ceo-of-full-area/avatar-MegaMix.jpg')"></a>
 
@@ -130,7 +130,7 @@ Speaking of nicknames, what made you change your username to "his kitten" for so
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3717598">xootynator</a></p>
 
-That was from my first subathon in 2023! I had a subscriber goal to change my name to anything chat chose, and they ended up choosing "his kitten". Everyone wanted me to change it back to xootynator after a while but I maybe got a little attached to the name... meow :3
+That was from my first subathon in 2023! I had a subscriber goal to change my name to anything chat chose, and they ended up choosing "his kitten". Everyone wanted me to change it back to xootynator after a while, but I maybe got a little attached to the name... meow :3
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-09-16-the-followpoint-xootynator-the-ceo-of-full-area/avatar-MegaMix.jpg')"></a>
 
@@ -142,7 +142,7 @@ I remember you mentioning it in one of your previous interviews, but can you tel
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3717598">xootynator</a></p>
 
-Stan Full Area has a pretty funny origin, since it was actually out team name for the 2020 iteration of [MRC (Mahloola Regional Cup)](https://osu.ppy.sh/community/forums/topics/1136787). The team was me, [Rupertion](https://osu.ppy.sh/users/5774823) and [Eddie-](https://osu.ppy.sh/users/3898396), three players who played with the entire area of our tablets. No changes to the size of the active area at all. Eddie is a big kpop fan, so gave us the name Stan Full Area. Since then it's sort of just stuck as a tag to recognize other people with the same playstyle!
+Stan Full Area has a pretty funny origin, since it was actually out team name for the 2020 iteration of [MRC (Mahloola Regional Cup)](https://osu.ppy.sh/community/forums/topics/1136787). The team was me, [Rupertion](https://osu.ppy.sh/users/5774823) and [Eddie-](https://osu.ppy.sh/users/3898396), three players who played with the entire area of our tablets. No changes to the size of the active area at all. Eddie is a big k-pop fan, so gave us the name Stan Full Area. Since then, it's sort of just stuck as a tag to recognize other people with the same play style!
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-09-16-the-followpoint-xootynator-the-ceo-of-full-area/avatar-MegaMix.jpg')"></a>
 
@@ -154,9 +154,9 @@ What would you call the greatest gift that osu! has given you?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3717598">xootynator</a></p>
 
-osu! has given me so many opportunities in my life that it's crazy when I look back on it. Not only do I have the opportunity to travel and meet people around the world, have fun and make a career out of something I love AND feel like I have the drive to better my content and my skills, osu! also gave me the greatest gift of being able to connect with people. 
+osu! has given me so many opportunities in my life that it's crazy when I look back on it. Not only do I have the opportunity to travel and meet people around the world, have fun and make a career out of something I love AND feel like I have the drive to better my content and my skills, osu! also gave me the greatest gift of being able to connect with people.
 
-I'm not very social and I keep to myself most of the time, but I've made long lasting friendships during my entire time on osu!. I feel like I've gained a family. The community can seem toxic at times online, but from my experience, it's never the reality when you get to know people. Not only that, but building my own little community has also allowed people I know to make great connections and friendships with other people. When I take a step back, I feel like a little spider that's woven a big web of connections to all different kinds of aspects of my life. Without osu! I would be very different!
+I'm not very social, and I keep to myself most of the time, but I've made long-lasting friendships during my entire time on osu!. I feel like I've gained a family. The community can seem toxic at times online, but from my experience, it's never the reality when you get to know people. Not only that, but building my own little community has also allowed people I know to make great connections and friendships with other people. When I take a step back, I feel like a little spider that's woven a big web of connections to all different kinds of aspects of my life. Without osu! I would be very different!
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-09-16-the-followpoint-xootynator-the-ceo-of-full-area/avatar-MegaMix.jpg')"></a>
 
@@ -192,7 +192,7 @@ Who would you want to meet IRL the most if you could choose any player, and why?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3717598">xootynator</a></p>
 
-The first person that comes to mind is probably [val0108](https://osu.ppy.sh/users/243917). I love pretty much all of their maps, and I used to always love the little Twitter updates they'd post about their life! At one point val0108 came in to my Twitch chat and I was star struck. I remember them saying something about my scores being cool with full area and it was inspiring, and I just think that val has a silly personality!
+The first person that comes to mind is probably [val0108](https://osu.ppy.sh/users/243917). I love pretty much all of their maps, and I used to always love the little Twitter updates they'd post about their life! At one point val0108 came in to my Twitch chat, and I was star struck. I remember them saying something about my scores being cool with full area, it was inspiring, and I just think that val has a silly personality!
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-09-16-the-followpoint-xootynator-the-ceo-of-full-area/avatar-MegaMix.jpg')"></a>
 
@@ -216,7 +216,7 @@ How do you manage nerves/shake when setting leaderboard scores?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3717598">xootynator</a></p>
 
-My best piece of advice for nerves is always this: everyone gets nerves, but what makes you into a really good player is knowing how to play through those nerves. I personally don't shake much but my breathing gets shallow and I notice my mind starts to wander and worry about missing. What keeps me grounded is repeating thoughts like "I could miss, or I could also just FC" or to remind myself to stay focused on the main mechanics of my body. Don't lose your reading and listening, and keep your hands as loose as possible.
+My best piece of advice for nerves is always this: everyone gets nerves, but what makes you into a really good player is knowing how to play through those nerves. I personally don't shake much, but my breathing gets shallow, and I notice my mind starts to wander and worry about missing. What keeps me grounded is repeating thoughts like "I could miss, or I could also just FC" or to remind myself to stay focused on the main mechanics of my body. Don't lose your reading and listening, and keep your hands as loose as possible.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-09-16-the-followpoint-xootynator-the-ceo-of-full-area/avatar-MegaMix.jpg')"></a>
 
@@ -228,7 +228,9 @@ What are your thoughts on lazer?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3717598">xootynator</a></p>
 
-At first I was really apprehensive, but I've gotten a little more comfortable with osu!lazer now. I still think there are a lot of pros and cons, and the general opinion is pretty mixed. As a competitive player, I think gameplay on Lazer is starting to feel much smoother and more comfortable... only after I spent a couple days shuffling through the frame settings and the different render settings. There's also a lot of missing features, like not being able to know what skin I'm using until I'm in a map, MP links being really weird for tournaments, and not being able to hide the scoreboard when playing multiplayer, which is pretty distracting. I also think Lazer has awesome features and they're always adding cool things, however the UI feels very crowded and I'd have to often ask where things are and how to find certain settings. Totally something you can get used to as a new player fresh in to lazer, but it can be pretty overwhelming for someone like me.
+At first, I was really apprehensive, but I've gotten a little more comfortable with osu!lazer now. I still think there are a lot of pros and cons, and the general opinion is pretty mixed. As a competitive player, I think gameplay on lazer is starting to feel much smoother and more comfortable... only after I spent a couple days shuffling through the frame settings and the different render settings.
+
+There's also a lot of missing features, like not being able to know what skin I'm using until I'm in a map, MP links being really weird for tournaments, and not being able to hide the scoreboard when playing multiplayer, which is pretty distracting. I also think lazer has awesome features and they're always adding cool things, however the UI feels very crowded, and I'd have to often ask where things are and how to find certain settings. Totally something you can get used to as a new player fresh in to lazer, but it can be pretty overwhelming for someone like me.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-09-16-the-followpoint-xootynator-the-ceo-of-full-area/avatar-MegaMix.jpg')"></a>
 
@@ -252,7 +254,9 @@ What other games besides osu! have you played the most?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3717598">xootynator</a></p>
 
-I think the games I have with the most hours are Archeage and Smite (unfortunately). I used to be a pretty big MMO player when I was younger, starting with Maplestory. Not really grinding or anything but just chill progression and exploring. That's also why one of my favourite games of all time has been Skyrim, which I've been playing since its release! I think I played Smite heavily for about two years, again not really competitively but I liked the gameplay a lot. I have pretty much never been competitive in a game besides osu!, probably because I can't stand random people yelling at me U_U
+I think the games I have with the most hours are Archeage and Smite (unfortunately). I used to be a pretty big MMO player when I was younger, starting with Maplestory. Not really grinding or anything but just chill progression and exploring. That's also why one of my favourite games of all time has been Skyrim, which I've been playing since its release!
+
+I think I played Smite heavily for about two years, again not really competitively, but I liked the gameplay a lot. I have pretty much never been competitive in a game besides osu!, probably because I can't stand random people yelling at me U_U
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-09-16-the-followpoint-xootynator-the-ceo-of-full-area/avatar-MegaMix.jpg')"></a>
 
@@ -290,7 +294,7 @@ And as a finishing touch, do you have anything else that you'd like to mention?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3717598">xootynator</a></p>
 
-I hope to continue doing my best with osu! and with content creation, and I hope I can contribute more to the game as time goes on. One of my favourite contributions has been the tournament I co-host with Fulserish, dubbed "Battle of the Box", which encouraged a lot of artists in the community to contribute to tournaments, which I think had a domino effect where many more tournaments are featuring custom artwork for custom maps! If you would like to get involved in that, please consider joining the [osu! Artist Hub](https://discord.gg/KVPDmKAkjV) Discord, where there are a lot of like-minded individuals who want to be better artists and continue contributing to the game.
+I hope to continue doing my best with osu! and with content creation, and I hope I can contribute more to the game as time goes on. One of my favourite contributions has been the tournament I co-host with [Fulserish](https://osu.ppy.sh/users/14252162), dubbed "Battle of the Box", which encouraged a lot of artists in the community to contribute to tournaments, which I think had a domino effect where many more tournaments are featuring custom artwork for custom maps! If you would like to get involved in that, please consider joining the [osu! Artist Hub](https://discord.gg/KVPDmKAkjV) Discord, where there are a lot of like-minded individuals who want to be better artists and continue contributing to the game.
 
 Besides that, I'm very grateful to be interviewed by The Followpoint, and thank you MegaMix for all your hard work, and to the other staff of osu! that keep the game running smoothly!
 
