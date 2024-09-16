@@ -17,7 +17,7 @@ tags:
 
 #### Spin In
 
-![Spin In mod icon](/wiki/Gameplay/Game_modifier/Lazer/img/mods/SI.png)
+![Spin In mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SI.png)
 
 *Circles spin in. No approach circles.*
 
@@ -32,6 +32,6 @@ tags:
 
 :::
 
-*For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier/Lazer)*
+*For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

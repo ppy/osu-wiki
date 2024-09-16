@@ -16,7 +16,7 @@ tags:
 
 #### Easy
 
-![Easy mod icon](/wiki/Gameplay/Game_modifier/Lazer/img/mods/EZ.png)
+![Easy mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/EZ.png)
 
 *![][osu!]: Larger circles, more forgiving HP drain, less accuracy required, and three lives!*\
 *![][osu!taiko]: Beats move slower, and less accuracy required!*\
@@ -36,7 +36,7 @@ tags:
 :::
 
 *For the osu!stable version of this article, see: [Easy (mod)](/wiki/Gameplay/Game_modifier/Easy)*\
-*For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier/Lazer)*
+*For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

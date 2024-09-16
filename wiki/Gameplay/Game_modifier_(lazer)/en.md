@@ -14,7 +14,7 @@ tags:
 *For the osu!stable version of this article, see: [Game modifier](/wiki/Gameplay/Game_modifier)*\
 *For other uses of "mod", see: [Mod (disambiguation)](/wiki/Disambiguation/Mod)*
 
-![Mod selection screen](/wiki/Gameplay/Game_modifier/Lazer/img/Mod_Selection_Screen.png "Comparison between the mod selection screens of osu! (top-left), osu!taiko (top-right), osu!catch (bottom-left), and osu!mania (bottom-right) game modes")
+![Mod selection screen](img/Mod_Selection_Screen.png "Comparison between the mod selection screens of osu! (top-left), osu!taiko (top-right), osu!catch (bottom-left), and osu!mania (bottom-right) game modes")
 
 Mods are separated into five categories: `Difficulty Reduction`, `Difficulty Increase`, `Automation`, `Conversion` and `Fun`. They can either reduce or increase the Score Multiplier. When two mods are being used simultaneously, the mods' respective multiplier will be multiplied together (e.g., 1.06x * 1.12x = 1.1872x).
 
@@ -24,7 +24,7 @@ Each of the mods below listed will have their compatible game modes' icon (![][o
 
 ### Difficulty Reduction
 
-- [Easy (EZ)](/wiki/Gameplay/Game_modifier/Lazer/Easy) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - No Fail (NF) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - Half Time (HT) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - Daycore (DC) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
@@ -57,7 +57,7 @@ Each of the mods below listed will have their compatible game modes' icon (![][o
 
 - Target Practice (TP) ![][osu!]
 - Difficulty Adjust (DA) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- [Classic (CL)](/wiki/Gameplay/Game_modifier/Lazer/Classic) !![][osu!] ![][osu!taiko]
+- [Classic (CL)](/wiki/Gameplay/Game_modifier/Classic) !![][osu!] ![][osu!taiko]
 - Random (RD) ![][osu!] ![][osu!taiko] ![][osu!mania]
 - Mirror (MR) ![][osu!] ![][osu!catch] ![][osu!mania]
 - Alternate (AL) ![][osu!]
@@ -70,19 +70,19 @@ Each of the mods below listed will have their compatible game modes' icon (![][o
 
 ### Fun
 
-- [Transform (TR)](/wiki/Gameplay/Game_modifier/Lazer/Transform) ![][osu!]
-- [Wiggle (WG)](/wiki/Gameplay/Game_modifier/Lazer/Wiggle) ![][osu!]
-- [Spin In (SI)](/wiki/Gameplay/Game_modifier/Lazer/Spin_In) ![][osu!]
-- [Grow (GR)](/wiki/Gameplay/Game_modifier/Lazer/Grow) ![][osu!]
-- [Deflate (DF)](/wiki/Gameplay/Game_modifier/Lazer/Deflate) ![][osu!]
+- [Transform (TR)](/wiki/Gameplay/Game_modifier/Transform) ![][osu!]
+- [Wiggle (WG)](/wiki/Gameplay/Game_modifier/Wiggle) ![][osu!]
+- [Spin In (SI)](/wiki/Gameplay/Game_modifier/Spin_In) ![][osu!]
+- [Grow (GR)](/wiki/Gameplay/Game_modifier/Grow) ![][osu!]
+- [Deflate (DF)](/wiki/Gameplay/Game_modifier/Deflate) ![][osu!]
 - Wind Up (WU) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - Wind Down (WD) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - Traceable (TC) ![][osu!]
 - Barrel Roll (BR) ![][osu!]
 - Approach Different (AD) ![][osu!]
-- [Floating Fruits (FF)](/wiki/Gameplay/Game_modifier/Lazer/Floating_Fruits) ![][osu!catch]
+- [Floating Fruits (FF)](/wiki/Gameplay/Game_modifier/Floating_Fruits) ![][osu!catch]
 - Muted (MU) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- [No Scope (NS)](/wiki/Gameplay/Game_modifier/Lazer/No_Scope) ![][osu!] ![][osu!catch]
+- [No Scope (NS)](/wiki/Gameplay/Game_modifier/No_Scope) ![][osu!] ![][osu!catch]
 - Magnetised (MG) ![][osu!]
 - Repel (RP) ![][osu!]
 - Adaptive Speed (AS) ![][osu!] ![][osu!taiko] ![][osu!mania]

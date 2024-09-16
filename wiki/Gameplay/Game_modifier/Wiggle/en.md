@@ -16,7 +16,7 @@ tags:
 
 #### Wiggle
 
-![Wiggle mod icon](/wiki/Gameplay/Game_modifier/Lazer/img/mods/WG.png)
+![Wiggle mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/WG.png)
 
 *They just won't stay still...*
 
@@ -31,6 +31,6 @@ tags:
 
 :::
 
-*For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier/Lazer)*
+*For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

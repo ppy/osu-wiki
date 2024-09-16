@@ -16,7 +16,7 @@ tags:
 
 #### Grow
 
-![Grow mod icon](/wiki/Gameplay/Game_modifier/Lazer/img/mods/GR.png)
+![Grow mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/GR.png)
 
 *Hit them at the right size!*
 
@@ -31,6 +31,6 @@ tags:
 
 :::
 
-*For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier/Lazer)*
+*For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
