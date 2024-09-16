@@ -136,7 +136,7 @@ That was from my first subathon in 2023! I had a subscriber goal to change my na
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
-I remember you mentioning it in one of your previous interviews, but can you tell us what are SFA (Stan Full Area) origins? And how did that become your thing?
+I remember you mentioning it in one of your previous interviews, but can you tell us what's the origin of SFA (Stan Full Area)? And how did that become your thing?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3717598" style="background-image: url('/wiki/shared/news/2024-09-16-the-followpoint-xootynator-the-ceo-of-full-area/avatar-xootynator.jpg')"></a>
 
@@ -222,7 +222,7 @@ My best piece of advice for nerves is always this: everyone gets nerves, but wha
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
-What are your thoughts on osu!lazer?
+What are your thoughts on lazer?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3717598" style="background-image: url('/wiki/shared/news/2024-09-16-the-followpoint-xootynator-the-ceo-of-full-area/avatar-xootynator.jpg')"></a>
 
