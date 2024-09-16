@@ -104,7 +104,7 @@ How did you get introduced to osu! and what was your first impression of it?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3717598">xootynator</a></p>
 
-My first introduction to osu! was actually in grade 4. I have a vivid memory of someone playing [Osu! Tatakae! Ouendan](/wiki/FAQ#i've-never-played-this-"ouendan"-thing-—-what-is-it) on their DS outside the gym, and I think there were some visuals of a guy trying to impress a girl on a date, and if you missed any notes then [the guy would turn into a werewolf](https://youtu.be/wQ23nUvSDOQ?t=1085)...
+My first introduction to osu! was actually in grade 4. I have a vivid memory of someone playing [Osu! Tatakae! Ouendan](/wiki/FAQ#i've-never-played-this-"ouendan"-thing-—-what-is-it) on their DS outside the gym, and I think there were some visuals of a guy trying to impress a girl on a date, and if you missed any notes then [the guy would turn into a werewolf](https://www.youtube.com/watch?v=wQ23nUvSDOQ&t=1085s)...
 
 Eventually when I started highschool, I saw people playing osu! on the school computers. It felt like some spiritual sign that I should play it since I always had that fond memory of that time by the gym. So at some point I tried it at home and the rest is pretty much history. I don't remember much of my first days of the game but I knew I was hooked right away. I still play it to this day after all!
 
