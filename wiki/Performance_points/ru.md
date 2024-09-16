@@ -6,6 +6,8 @@ tags:
   - система ранкинга
   - ранкинг
   - производительность
+outdated_since: afae0bf730ed465b67163533b3ab560174b44c1d
+outdated_translation: true
 ---
 
 # Очки производительности

@@ -25,7 +25,7 @@ These servers focus on providing and developing tools and systems for the game. 
 
 |  | Name | Owner | Description |
 | :-: | :-- | :-- | :-- |
-| [![](img/Performance-Points.png)](https://discord.com/invite/aqPCnXu) | [Performance Points](https://discord.com/invite/aqPCnXu) |  | The **Performance Points** server facilitates community development of [performance points](/wiki/Performance_points) and [star rating](/wiki/Beatmap/Star_rating) systems. |
+| [![](img/Performance-Points.png)](https://discord.com/invite/aqPCnXu) | [Performance Points](https://discord.com/invite/aqPCnXu) | ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | The **Performance Points** server facilitates community development of [performance points](/wiki/Performance_points) and [star rating](/wiki/Beatmap/Star_rating) systems. |
 | [![](img/osu!catch-dev.png)](https://discord.com/invite/YEJBENvFzN) | [osu!catch dev](https://discord.com/invite/YEJBENvFzN) | ::{ flag=FR }:: [bastoo0](https://osu.ppy.sh/users/4864877) | **osu!catch dev** facilitates community development of osu!catch [performance points](/wiki/Performance_points) and [star rating](/wiki/Beatmap/Star_rating) systems. |
 | [![](img/o!m-SR-PP-Rework-Hub.png)](https://discord.com/invite/GFCNNg8bwk) | [o!m SR/PP Rework Hub](https://discord.com/invite/GFCNNg8bwk) | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | The **o!m SR/PP Rework Hub** facilitates community development of osu!mania [performance points](/wiki/Performance_points) and [star rating](/wiki/Beatmap/Star_rating) systems. |
 

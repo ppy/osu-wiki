@@ -847,6 +847,7 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | osu!mania Malaysia Tournament | 14/5/2021 | 27/6/2021 | ::{ flag=MY }:: [Neokje](https://osu.ppy.sh/users/7727987) | ::{ flag=MY }:: [\[MY\]xRay](https://osu.ppy.sh/users/8287005) | ::{ flag=MY }:: [\[MY\]Kibitz](https://osu.ppy.sh/users/7418493) |
 | osu!mania Malaysia Tournament 2 | 27/5/2022 | 10/7/2022 | ::{ flag=MY }:: [\[MY\]Sol](https://osu.ppy.sh/users/12054898) | ::{ flag=MY }:: [Neokje](https://osu.ppy.sh/users/7727987) | ::{ flag=MY }:: [Kibitz](https://osu.ppy.sh/users/7418493) |
 | [osu!mania Malaysia Tournament 3](OMMT/3) | 1/7/2023 | 13/8/2023 | ::{ flag=MY }:: [xxxxxx2800](https://osu.ppy.sh/users/4084853) | ::{ flag=MY }:: [JayLye](https://osu.ppy.sh/users/14892447) | ::{ flag=MY }:: [Tosai\_](https://osu.ppy.sh/users/3760209) |
+| [osu!mania Malaysia Tournament 4](OMMT/4) | 6/7/2024 | 18/8/2024 | leon's waifuus!! (::{ flag=MY }:: [JayLye](https://osu.ppy.sh/users/14892447), ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805)) | Gon and LongGone (::{ flag=MY }:: [Tosai\_](https://osu.ppy.sh/users/3760209), ::{ flag=KR }:: [yz1155](https://osu.ppy.sh/users/2071008)) | Re:Zuna (::{ flag=MY }:: [ReJust](https://osu.ppy.sh/users/20670028), ::{ flag=VN }:: [Rxizuna](https://osu.ppy.sh/users/16055641)) |
 
 #### osu!mania South East Asia Champion 2020
 
