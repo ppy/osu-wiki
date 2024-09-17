@@ -74,8 +74,8 @@ Tekan tombol angka yang sesuai pada keyboard atau klik pada bilah pilihan yang b
 
 ### /help
 
-| Perintah  | Efek       | Contoh             | Respon BanchoBot     |
-| :-- | :-- |
+| Perintah  | Efek | Contoh | Respon BanchoBot |
+| :-- | :-- | :-- | :-- |
 | `/addfriend [nama pengguna]` | Menambahkan `[nama pengguna]` ke dalam daftar temanmu. | `/addfriend Amigo` | Kamu kini berteman dengan Amigo. |
 | `/delfriend [nama pengguna]` | Menghapus `[user]` dari daftar temanmu. | `/delfriend Amigo` | Kamu kini tidak lagi berteman dengan Amigo. |
 | `/away [pesan]` | Mengatur pesan away (yang akan dikirim kepada pengguna yang mengirimkan PM kepadamu). Kosongkan isi pesan untuk membatalkan perintah ini. | `/away Saya adalah John Smith.` | Kamu telah ditandai sebagai sedang pergi: Saya adalah John Smith. Pada saat Amigo mengirimkan pesan (/msg) kepadamu "John, di manakah dirimu?~" BanchoBot akan membalas dengan: Saya adalah John Smith. |
