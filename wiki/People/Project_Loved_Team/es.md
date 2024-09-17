@@ -30,7 +30,7 @@ Los criterios para unirse al equipo difieren enormemente de un rol a otro, pero 
 
 ## Beneficios
 
-Los miembros del equipo del Project Loved reciben una [insignia de perfil](/wiki/Community/Profile_badge) que muestra el número de años que llevan ayudando a dirigir el Project Loved.
+Los miembros del Project Loved Team reciben una [insignia de perfil](/wiki/Community/Profile_badge) que muestra el número de años que llevan ayudando a dirigir el Project Loved.
 
 ![Insignia de 1 año en el LVD](https://assets.ppy.sh/profile-badges/loved1y.png "Insignia de 1 año en el LVD") ![Insignia de 2 años en el LVD](https://assets.ppy.sh/profile-badges/loved2y.png "Insignia de 2 años en el LVD") ![Insignia de 3 años en el LVD](https://assets.ppy.sh/profile-badges/loved3y.png "Insignia de 3 años en el LVD") ![Insignia de 4 años en el LVD](https://assets.ppy.sh/profile-badges/loved4y.png "Insignia de 4 años en el LVD") ![Insignia de 5 años en el LVD](https://assets.ppy.sh/profile-badges/loved5y.png "Insignia de 5 años en el LVD") ![Insignia de 6 años en el LVD](https://assets.ppy.sh/profile-badges/loved6y.png "Insignia de 6 años en el LVD")
 
