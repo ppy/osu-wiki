@@ -51,7 +51,7 @@ The 4 Digit Player Tournament Season 6 was run by various community members all 
 | Referee | ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=ID }:: [Kenneth Alfredo](https://osu.ppy.sh/users/829469), ::{ flag=MY }:: [Zakrusta](https://osu.ppy.sh/users/5034270), ::{ flag=PE }:: [Boltico](https://osu.ppy.sh/users/5297904), ::{ flag=VN }:: [-[SnowFlakes]-](https://osu.ppy.sh/users/19207842), ::{ flag=BR }:: [Konohana Lucia](https://osu.ppy.sh/users/8642224), ::{ flag=ID }:: [Pischok](https://osu.ppy.sh/users/15507280), ::{ flag=ID }:: [MushReen](https://osu.ppy.sh/users/10129901), ::{ flag=AU }:: [TheTixTop](https://osu.ppy.sh/users/19236870), ::{ flag=TH }:: [-TANAKITO-](https://osu.ppy.sh/users/6037121), ::{ flag=DE }:: [Gomen Yuuka](https://osu.ppy.sh/users/14050018) |
 | Graphic designer | ::{ flag=SG }:: [[Eun]](https://osu.ppy.sh/users/3788536), ::{ flag=PH }:: [OsuMe65](https://osu.ppy.sh/users/852867), ::{ flag=IN }:: [Raybean](https://osu.ppy.sh/users/16676388), ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613) |
 | Custom artist | ::{ flag=AU }:: [apexlr8](https://osu.ppy.sh/users/16810724), ::{ flag=AU }:: [Scutoid_621](https://osu.ppy.sh/users/32727820), ::{ flag=FL }:: [naikou_i_guess](https://osu.ppy.sh/users/29139453), ::{ flag=PH }:: [THE BEAT WIZARD](https://osu.ppy.sh/users/17529207), ::{ flag=HK }:: [ShakerSnail](https://osu.ppy.sh/users/14406508) |
-| Wiki editor | ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=SG }:: [lovemathboy](https://osu.ppy.sh/users/4220829)  |
+| Wiki editor | ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=SG }:: [lovemathboy](https://osu.ppy.sh/users/4220829) |
 
 ## Links
 
@@ -189,7 +189,7 @@ The complete list of sightread maps can be found in this [Google Sheet](https://
 - NoMod
   1. [U149 - Yorimichi Little Star (Sololiquy) \[Shining Stars\]](https://osu.ppy.sh/beatmapsets/2152352#fruits/4534938)
   2. [Hoshino Ongaku Koubou - pique (Syamu) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1608056#fruits/3283704)
-  3. [Creepy Nuts - Daten (AirinCat) \[Extra\]](https://osu.ppy.sh/beatmaps/3696815)
+  3. [Creepy Nuts - Daten (AirinCat) \[Extra\]](https://osu.ppy.sh/beatmapsets/1802803#fruits/3696815)
   4. [void - Valedict (Low) \[Irre's Insane\]](https://osu.ppy.sh/beatmapsets/207883#fruits/521401)
 - Hidden
   1. [Caravan Palace - Dragons (Spectator) \[Deif's Rain\]](https://osu.ppy.sh/beatmapsets/1464027#fruits/4441503)
@@ -207,7 +207,7 @@ The complete list of sightread maps can be found in this [Google Sheet](https://
   1. [Silver Forest - Tsurupettan (Nharox) \[Insane\]](https://osu.ppy.sh/beatmapsets/1559#fruits/19969) (High Circle Size)[^cs]
   2. [uselet - idk (Trent) \[does anyone really know?\]](https://osu.ppy.sh/beatmapsets/2146109#fruits/4523730) (Spinner Win Condition)[^spinner]
 - Tiebreaker
-  1. **[UNDERVEIL ALLSTARS - UNDERVEIL IS REAL!!! ...AND WE ARE UNDERVEIL!!! (Chara) \[*Together as one, we stay determined!\]](https://osu.ppy.sh/beatmaps/1351241)**
+  1. **[UNDERVEIL ALLSTARS - UNDERVEIL IS REAL!!! ...AND WE ARE UNDERVEIL!!! (Chara) \[*Together as one, we stay determined!\]](https://osu.ppy.sh/beatmapsets/636920#fruits/1351241)**
 
 ### Round of 16
 
@@ -419,7 +419,7 @@ Saturday, 16 March 2024:
 | Lower | **[Neko\_Cafe](https://osu.ppy.sh/users/6688277)** ::{ flag=CA }:: | **5** | 0 | ::{ flag=FR }:: [Pizou](https://osu.ppy.sh/users/9475990) | [#1](https://osu.ppy.sh/community/matches/113102506) |
 | Lower | [floflim](https://osu.ppy.sh/users/5954015) ::{ flag=FR }:: | 2 | **5** | ::{ flag=RU }:: **[2zz](https://osu.ppy.sh/users/8201267)** | [#1](https://osu.ppy.sh/community/matches/113103478) |
 | Lower | [aabii](https://osu.ppy.sh/users/17808018) ::{ flag=RU }:: | 0 | **1** | ::{ flag=FR }:: **[\[RUE\]Ludboy](https://osu.ppy.sh/users/5051425)** | *win by default* |
-| Lower | **[David Podsiadlo](https://osu.ppy.sh/users/34040054)** ::{ flag=PL }::  | **1** | 0 | ::{ flag=ME }:: [MyLovelyRealite](https://osu.ppy.sh/users/33526381) | *win by default* |
+| Lower | **[David Podsiadlo](https://osu.ppy.sh/users/34040054)** ::{ flag=PL }:: | **1** | 0 | ::{ flag=ME }:: [MyLovelyRealite](https://osu.ppy.sh/users/33526381) | *win by default* |
 
 Sunday, 17 March 2024:
 
@@ -433,7 +433,7 @@ Sunday, 17 March 2024:
 | Upper | [Fuka Pura](https://osu.ppy.sh/users/2326688) ::{ flag=FR }:: | 1 | **5** | ::{ flag=JP }:: **[Touca](https://osu.ppy.sh/users/32920228)** | [#1](https://osu.ppy.sh/community/matches/113114906) |
 | Upper | **[MauriciOSU](https://osu.ppy.sh/users/8199435)** ::{ flag=PE }:: | **5** | 1 | ::{ flag=DE }:: [SchmutzZz](https://osu.ppy.sh/users/28021579) | [#1](https://osu.ppy.sh/community/matches/113119938) |
 | Lower | **[\[Yuria\]](https://osu.ppy.sh/users/4763555)** ::{ flag=KR }:: | **1** | 0 | ::{ flag=US }:: [Dilly\_P](https://osu.ppy.sh/users/12907431) | *win by default* |
-| Lower | **[-Enias-](https://osu.ppy.sh/users/8384680)** ::{ flag=FR }::  | **5** | 1 | ::{ flag=BR }:: [JESP2310](https://osu.ppy.sh/users/14729191) | [#1](https://osu.ppy.sh/community/matches/113117259) |
+| Lower | **[-Enias-](https://osu.ppy.sh/users/8384680)** ::{ flag=FR }:: | **5** | 1 | ::{ flag=BR }:: [JESP2310](https://osu.ppy.sh/users/14729191) | [#1](https://osu.ppy.sh/community/matches/113117259) |
 | Lower | **[MusicDropZ](https://osu.ppy.sh/users/12759554)** ::{ flag=ES }:: | **5** | 1 | ::{ flag=TR }:: [Yasi6n](https://osu.ppy.sh/users/17482520) | [#1](https://osu.ppy.sh/community/matches/113119133) |
 | Lower | **[ZeroKungz](https://osu.ppy.sh/users/23155757)** ::{ flag=TH }:: | **5** | 3 | ::{ flag=CA }:: [Neko\_Cafe](https://osu.ppy.sh/users/6688277) | [#1](https://osu.ppy.sh/community/matches/113112128) |
 | Lower | **[David Podsiadlo](https://osu.ppy.sh/users/34040054)** ::{ flag=PL }:: | **5** | 1 | ::{ flag=KR }:: [\[Yuria\]](https://osu.ppy.sh/users/4763555) | [#1](https://osu.ppy.sh/community/matches/113113525) |
@@ -462,7 +462,7 @@ Saturday, 9 March 2024:
 | Upper | [dalyz](https://osu.ppy.sh/users/3951909) ::{ flag=ID }:: | 4 | **5** | ::{ flag=JP }:: **[Touca](https://osu.ppy.sh/users/32920228)** | [#1](https://osu.ppy.sh/community/matches/112999425) |
 | Upper | **[my angel auto](https://osu.ppy.sh/users/29503627)** ::{ flag=HK }:: | **5** | 2 | ::{ flag=KR }:: [\[Yuria\]](https://osu.ppy.sh/users/4763555) | [#1](https://osu.ppy.sh/community/matches/113000863) |
 | Upper | **[Fuka Pura](https://osu.ppy.sh/users/2326688)** ::{ flag=FR }:: | **5** | 0 | ::{ flag=RU }:: [aabii](https://osu.ppy.sh/users/17808018) | [#1](https://osu.ppy.sh/community/matches/113002746) |
-| Lower | [Azakriel](https://osu.ppy.sh/users/30653081) ::{ flag=BG }::  | 4 | **5** | ::{ flag=FR }:: [\[RUE\]Ludboy](https://osu.ppy.sh/users/5051425) | [#1](https://osu.ppy.sh/community/matches/112999475) |
+| Lower | [Azakriel](https://osu.ppy.sh/users/30653081) ::{ flag=BG }:: | 4 | **5** | ::{ flag=FR }:: [\[RUE\]Ludboy](https://osu.ppy.sh/users/5051425) | [#1](https://osu.ppy.sh/community/matches/112999475) |
 | Lower | [nurjavier](https://osu.ppy.sh/users/8535534) ::{ flag=ID }:: | 3 | **5** | ::{ flag=BR }:: [JESP2310](https://osu.ppy.sh/users/14729191) | [#1](https://osu.ppy.sh/community/matches/113001771) |
 | Lower | [U4Dead](https://osu.ppy.sh/users/21695850) ::{ flag=CN }:: | 3 | **5** | ::{ flag=ME }:: **[MyLovelyRealite](https://osu.ppy.sh/users/33526381)** | [#1](https://osu.ppy.sh/community/matches/113001803) |
 | Lower | [Nyarlath0tep](https://osu.ppy.sh/users/22221875) ::{ flag=JP }:: | 1 | **5** | ::{ flag=SG }:: **[Geekoruto](https://osu.ppy.sh/users/16634503)** | [#1](https://osu.ppy.sh/community/matches/113002742) |
@@ -470,7 +470,7 @@ Saturday, 9 March 2024:
 | Lower | [Strict\_Lane](https://osu.ppy.sh/users/24810703) ::{ flag=ID }:: | 1 | **5** | **::{ flag=CA }:: [D o k a](https://osu.ppy.sh/users/19019806)** | [#1](https://osu.ppy.sh/community/matches/113002800) |
 | Lower | **[Pizou](https://osu.ppy.sh/users/9475990)** ::{ flag=FR }:: | **5** | 4 | ::{ flag=SG }:: [uniqly](https://osu.ppy.sh/users/8876527) | [#1](https://osu.ppy.sh/community/matches/113002804) |
 | Lower | [multimode freak](https://osu.ppy.sh/users/6093582) ::{ flag=BR }:: | 2 | **5** | ::{ flag=PL }:: **[Szczyr](https://osu.ppy.sh/users/17329923)** | [#1](https://osu.ppy.sh/community/matches/113006687) |
-| Lower | [Knight--](https://osu.ppy.sh/users/13072326) ::{ flag=US }::  | 0 | **1** | ::{ flag=NZ }:: **[Wettham77](https://osu.ppy.sh/users/14476098)** | *win by default* |
+| Lower | [Knight--](https://osu.ppy.sh/users/13072326) ::{ flag=US }:: | 0 | **1** | ::{ flag=NZ }:: **[Wettham77](https://osu.ppy.sh/users/14476098)** | *win by default* |
 | Lower | **[GuitarHero\_King](https://osu.ppy.sh/users/6013277)** ::{ flag=US }:: | **1** | 0 | ::{ flag=RU }:: [1k1](https://osu.ppy.sh/users/10119963) | *win by default* |
 | Lower | [sukidayo-](https://osu.ppy.sh/users/16870002) ::{ flag=SG }:: | 0 | **1** | ::{ flag=CL }:: **[MankekeOpeh](https://osu.ppy.sh/users/8112589)** | *win by default* |
 
@@ -562,7 +562,7 @@ Sunday, 3 March 2024:
 1. In order to participate, players are required to register for the tournament through [the tournament's website](https://wybin.xyz/tournaments/4dpt6/home).
 2. Each player must be in between the rank range of #1,000 to #5,000 at the end of the registration period. After the registration has ended, players are allowed to rank up or down out of the rank range.
 3. Each player must not have any related 4-digit player tournament badges from past iterations. This rule is in place to ensure fairness and provide equal opportunities.
-4. Staff members are allowed to play with the exception of Admins, Mappoolers and Custom Mappers. Eliminated players are eligible to be enlisted as Playtesters, Replay Creators and Referees as per the [Official Tourament Support](https://osu.ppy.sh/wiki/en/Tournaments/Official_support) page.
+4. Staff members are allowed to play with the exception of Admins, Mappoolers and Custom Mappers. Eliminated players are eligible to be enlisted as Playtesters, Replay Creators and Referees as per the [Official Tourament Support](/wiki/Tournaments/Official_support) page.
 
 ### Mappool format
 
