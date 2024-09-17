@@ -33,6 +33,7 @@ tags:
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | 러시아어 | 채팅 관리 |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | 세르비아어 | General moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | 포럼 관리 |
+| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  | 채팅 관리, 매핑/모딩 커뮤니티 관리, general moderation |
 | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | 네덜란드어, 약간의 독일어 | General moderation |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | 토너먼트 관리 |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | 중국어, 말레이어 | 채팅 관리 |
@@ -97,6 +98,7 @@ tags:
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | 스페인어 | 기술 지원 |
 | ::{ flag=NL }:: [Uni](https://osu.ppy.sh/users/617106) | 네덜란드어 | 채팅 관리 |
 | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | 폴란드어 | 팀 리더, 채팅 관리, 매핑/모딩 커뮤니티 관리 |
+| ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | 스페인어 | 채팅 관리 |
 | ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) | 인도네시아어 | 채팅 관리 |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | 폴란드어 | 채팅 관리 |
 | ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | 채팅 관리 |
@@ -131,7 +133,7 @@ tags:
 | `#romanian` |  |  |
 | `#russian` | [Русский](https://osu.ppy.sh/community/forums/35) | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467), ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533), ::{ flag=RU }:: [Kudou Chitose](https://osu.ppy.sh/users/9936528), ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) |
 | `#skandinavian` | [Skandinavien](https://osu.ppy.sh/community/forums/77) | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) |
-| `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) |
+| `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392), ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) |
 | `#thai` | [ภาษาไทย](https://osu.ppy.sh/community/forums/54) | ::{ flag=TH }:: [Trigonoculus](https://osu.ppy.sh/users/7627013) |
 | `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) |  |
 | `#ukrainian` |  |  |

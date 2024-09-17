@@ -44,7 +44,7 @@ tags:
 
 ### Дизайнеры
 
-- ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765)
+- ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765)
 
 ### Коммьюнити-менеджеры
 

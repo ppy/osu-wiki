@@ -98,8 +98,8 @@ Lorsqu'un membre de la NAT décide de quitter l'équipe, il peut se voir accorde
 Les anciens membres de la NAT qui ont actuellement un accès interne sont les suivants :
 
 - ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083)
+- ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552)
 - ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507)
-- ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501)
 - ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882)
 - ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
 - ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
@@ -135,13 +135,14 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 | Nom | Langues additionnelles |
 | :-- | :-- |
 | ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464) | Swedish |
-| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonese, Chinese |
+| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Dutch |
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Chinese |
 | ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) |  |
+| ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | Chinese |
 | ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | Russian |
 | ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | French, Spanish |
 | ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
+| ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | Romanian |
 | ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Russian |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
 
@@ -149,10 +150,10 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 
 | Nom | Langues additionnelles |
 | :-- | :-- |
-| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  |
 | ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | Chinese |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Arabic, French |
 | ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Portuguese |
+| ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) | Some German |
 | ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | German, some French |
 
 #### osu!catch
@@ -162,6 +163,7 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Spanish, German |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Dutch |
 | ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  |
+| ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466) |  |
 
 #### osu!mania
 
@@ -190,10 +192,11 @@ Les membres suivants de la NAT sont principalement des évaluateurs, mais ils co
 
 | Utilisateur | Tâche |
 | :-- | :-- |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Handling content reports |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | [Nomination Planner](https://bnplanner.greaper.net/beatmaps) and [osu!catch MV plugin](https://github.com/Darius-Wattimena/MapsetChecksCatch) development |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | NAT Leadership, [BN Management website](https://bn.mappersguild.com) and [osu!taiko MV plugin](https://github.com/Hiviexd/MVTaikoChecks) development |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | [osu!mania MV plugin](https://github.com/MChecaH/ManiaCheck) development |
+| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | Processing impact ratings[^impact-rating] for osu! nomination resets |
+| ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Processing impact ratings[^impact-rating] for osu! nomination resets |
+| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Handling content reports, [osu!mania MV plugin](https://github.com/MChecaH/ManiaCheck) development |
 
 ---
 

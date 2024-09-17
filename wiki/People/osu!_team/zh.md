@@ -26,9 +26,9 @@ tags:
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | [管理员](/wiki/People/Global_Moderation_Team)，技术支持 |
 | ::{ flag=SK }:: [Domco](https://osu.ppy.sh/users/3562660) | osu! 开发者 |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | 项目和社区维护，[精选艺术家](/wiki/People/Featured_Artists)募集者 |
-| ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765) | 设计负责人，常驻创意云监视者 |
+| ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765) | 设计负责人，常驻创意云监视者 |
 | ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | osu! 开发者 |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 领导，[喜爱计划](/wiki/Community/Project_Loved) 领导，Venix 的秘书 |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 秩序维护员，[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 领导，[喜爱计划](/wiki/Community/Project_Loved) 领导 |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | [世界杯](/wiki/Tournaments#官方世界杯)比赛组织者与管理员 |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | [精选艺术家](/wiki/People/Featured_Artists)募集者，[世界杯](/wiki/Tournaments#官方世界杯)秘书 |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | osu! 开发者，技术支持 |
@@ -44,11 +44,11 @@ tags:
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | 秩序维护员 |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | osu! 开发者，osu!mania 社区喜爱评估者，bug 杀手（测试工程师） |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | osu! 开发者 |
-| ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | 设计者 |
+| ::{ flag=GB }:: [Tanza](https://osu.ppy.sh/users/10379965) | 设计者 |
 | ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) | osu! 底层开发者 |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | 秩序维护员，锦标赛援助 |
 | ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | 秩序维护员，清扫者 |
-| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | [全局审核团队 (GMT)](/wiki/People/Global_Moderation_Team) 领导，[谱面聚光灯](/wiki/Beatmap_Spotlights)策展人，Hivie 的秘书 |
+| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | [全局审核团队 (GMT)](/wiki/People/Global_Moderation_Team) 领导，[谱面聚光灯](/wiki/Beatmap_Spotlights)策展人 |
 | ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | [Wiki 维护员](/wiki/People/osu!_wiki_maintainers)，新闻编辑 |
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | 濒危物种（团队吉祥物） |
 
