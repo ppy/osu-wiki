@@ -41,7 +41,7 @@ tags:
 
 所有公开发布的[作图竞赛](https://osu.ppy.sh/community/contests)，比如[月度作图竞赛 (MBC)](/wiki/Contests/Monthly_Beatmapping_Contest)、[奥林谱克 (Mapping Olympiad)](/wiki/Contests/Mapping_Olympiad)，都会要求参赛者使用精选艺术家的歌曲来作图。有些社区自发的竞赛也会使用这一规定。
 
-为了促进更多人使用精选艺术家提供的内容，社区成立了谱师工会 (Mappers' Guild)，以 MMO 风格的任务体系让谱师同他人合作作图。上架的谱面能获得奖项，包括有三个等级的资料勋章 <!--计划：个人资料勋章--> 。对谱师工会感兴趣的，可访问[谱师工会的官网](https://mappersguild.com/)了解详情。从[2023年4月](https://osu.ppy.sh/home/news/2023-04-09-new-featured-artist-chon)起，谱师们能在 [osu! Discord 服务器](/wiki/Community/osu!_Discord_server) 的 `#featured-artists` 频道讨论所有精选艺术家作图相关的话题。 
+为了促进更多人使用精选艺术家提供的内容，社区成立了谱师工会 (Mappers' Guild)，以 MMO 风格的任务体系让谱师同他人合作作图。上架的谱面能获得奖项，包括有三个等级的资料勋章 <!--计划：个人资料勋章--> 。对谱师工会感兴趣的，可访问[谱师工会的官网](https://mappersguild.com/)了解详情。从[2023年4月](https://osu.ppy.sh/home/news/2023-04-09-new-featured-artist-chon)起，谱师们能在 [osu! Discord 服务器](/wiki/Community/Discord_servers#official) 的 `#featured-artists` 频道讨论所有精选艺术家作图相关的话题。 
 
 如果精选艺术家里提供的 `.osz` 文件有任何问题，可以在[这个论坛帖](https://osu.ppy.sh/community/forums/topics/783985)中提交反馈。
 
@@ -114,6 +114,7 @@ tags:
 | ::{ flag=US }:: [Sydosys](https://osu.ppy.sh/users/17523947) | [Sydosys](https://osu.ppy.sh/beatmaps/artists/392) |
 | ::{ flag=MY }:: [takehirotei](https://osu.ppy.sh/users/11793794) | [takehirotei](https://osu.ppy.sh/beatmaps/artists/428) |
 | ::{ flag=US }:: [tephe](https://osu.ppy.sh/users/32666295) | [tephe](https://osu.ppy.sh/beatmaps/artists/361) |
+| ::{ flag=AU }:: [tomspicy](https://osu.ppy.sh/users/13210748) | [tomspicy](https://osu.ppy.sh/beatmaps/artists/437) |
 | ::{ flag=KR }:: [thenewlimee](https://osu.ppy.sh/users/7802935) | [Raimukun](https://osu.ppy.sh/beatmaps/artists/247) |
 | ::{ flag=RU }:: [tieff](https://osu.ppy.sh/users/89619) | [tieff](https://osu.ppy.sh/beatmaps/artists/34) |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) |

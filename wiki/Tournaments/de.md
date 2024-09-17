@@ -197,7 +197,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Donut Cup](Donut_Cup/1) | 27.05.2024 | 15.07.2024 | **crying right now** (::{ flag=GB }:: [polski1](https://osu.ppy.sh/users/18131614), ::{ flag=GB }:: [skiatzo](https://osu.ppy.sh/users/16774872), ::{ flag=AU }:: [oslash](https://osu.ppy.sh/users/13228917), ::{ flag=FR }:: [calangi](https://osu.ppy.sh/users/7810180), ::{ flag=UA }:: [EPEMA](https://osu.ppy.sh/users/18781432), ::{ flag=UA }:: [SHADOW FREAK](https://osu.ppy.sh/users/7587763)) | **YOSHIMOBIL** (::{ flag=DE }:: [-semi](https://osu.ppy.sh/users/5154946), ::{ flag=LV }:: [solo drinking](https://osu.ppy.sh/users/21653406), ::{ flag=US }:: [ampy](https://osu.ppy.sh/users/4458239), ::{ flag=US }:: [EthantrixV2](https://osu.ppy.sh/users/10634348), ::{ flag=US }:: [Kahli](https://osu.ppy.sh/users/8926244), ::{ flag=PL }:: [-Sylvari](https://osu.ppy.sh/users/3493804)) | **No title** (::{ flag=KR }:: [Atipir](https://osu.ppy.sh/users/8991722), ::{ flag=PL }:: [szedis](https://osu.ppy.sh/users/14282987), ::{ flag=PL }:: [BMG\_](https://osu.ppy.sh/users/4981809), ::{ flag=PL }:: [hedayo](https://osu.ppy.sh/users/9323821), ::{ flag=UA }:: [KirbyTwister](https://osu.ppy.sh/users/7979597), ::{ flag=KR }:: [Lujeol](https://osu.ppy.sh/users/14447878) |
+| [Donut Cup](Donut_Cup/1) | 27.05.2024 | 15.07.2024 | **crying right now** (::{ flag=GB }:: [polski1](https://osu.ppy.sh/users/18131614), ::{ flag=GB }:: [skiatzo](https://osu.ppy.sh/users/16774872), ::{ flag=AU }:: [oslash](https://osu.ppy.sh/users/13228917), ::{ flag=FR }:: [calangi](https://osu.ppy.sh/users/7810180), ::{ flag=UA }:: [EPEMA](https://osu.ppy.sh/users/18781432), ::{ flag=UA }:: [SHADOW FREAK](https://osu.ppy.sh/users/7587763)) | **YOSHIMOBIL** (::{ flag=DE }:: [-semi](https://osu.ppy.sh/users/5154946), ::{ flag=LV }:: [solo drinking](https://osu.ppy.sh/users/21653406), ::{ flag=US }:: [ampy](https://osu.ppy.sh/users/4458239), ::{ flag=US }:: [EthantrixV2](https://osu.ppy.sh/users/10634348), ::{ flag=US }:: [Kahli](https://osu.ppy.sh/users/8926244), ::{ flag=PL }:: [-Sylvari](https://osu.ppy.sh/users/3493804)) | **No title** (::{ flag=KR }:: [Atipir](https://osu.ppy.sh/users/8991722), ::{ flag=PL }:: [szedis](https://osu.ppy.sh/users/14282987), ::{ flag=PL }:: [BMG\_](https://osu.ppy.sh/users/4981809), ::{ flag=PL }:: [hedayo](https://osu.ppy.sh/users/9323821), ::{ flag=UA }:: [KirbyTwister](https://osu.ppy.sh/users/7979597), ::{ flag=KR }:: [Lujeol](https://osu.ppy.sh/users/14447878)) |
 
 #### Game_Osu Tourney
 
@@ -231,6 +231,12 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Indonesian Draft Cup 2020](IDC/2020) | 29.08.2020 | 03.10.2020 | Brazil | Pondokers | awan fanclub 2 |
+
+#### Jogja Fun Cup
+
+| Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Jogja Fun Cup](JFC/1) | 01.07.2024 | 11.08.2024 | **BAKPIA KUKUS KILLER** (::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627), ::{ flag=ID }:: [FAW](https://osu.ppy.sh/users/11070577), ::{ flag=ID }:: [ThatNOOBGuy](https://osu.ppy.sh/users/11091594)) | **Bakpia Kukus** (::{ flag=ID }:: [beabadobee](https://osu.ppy.sh/users/8688737), ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131)) | **Ban HR2** (::{ flag=ID }:: [ruruichi](https://osu.ppy.sh/users/6717559), ::{ flag=ID }:: [moyamoyano\_sa](https://osu.ppy.sh/users/3891439), ::{ flag=ID }:: [Azasapag](https://osu.ppy.sh/users/18347666)) |
 
 #### Mirai. Tournament
 
@@ -664,6 +670,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | [Catch the Beat Indonesia Cup 2021](CIC/2021) | 01.06.2021 | 01.08.2021 | ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613) | ::{ flag=ID }:: [CamXDanna](https://osu.ppy.sh/users/3243148) | ::{ flag=ID }:: [Nekuro](https://osu.ppy.sh/users/3222638) |
 | [Catch the Beat Indonesia Cup 2022](CIC/2022) | 04.03.2022 | 10.04.2022 | ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613) | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361) | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) |
 | [Catch the Beat Indonesia Cup 2023](CIC/2023) | 15.07.2023 | 27.08.2023 | ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580) | ::{ flag=TH }:: [EzyS](https://osu.ppy.sh/users/EzyS) | ::{ flag=ID }:: [Keita](https://osu.ppy.sh/users/3355617) |
+| [Catch the Beat Indonesia Cup Open 2024](CIC/Open_2024) | 08.07.2024 | 01.09.2024 | ::{ flag=ID }:: [Nekuro](https://osu.ppy.sh/users/3222638) | ::{ flag=TW }:: [DoDoEbi](https://osu.ppy.sh/users/1177233) | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) |
 
 #### Indonesia Convert Cup
 
@@ -728,6 +735,12 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [:thonking: Newbie mania Tournament](TNMT/1) | 13.07.2019 | 29.09.2019 | ::{ flag=US }:: [NestleiFan](https://osu.ppy.sh/users/6833341) | ::{ flag=SE }:: [Davvy](https://osu.ppy.sh/users/10047413) | ::{ flag=TH }:: [palmEuEi](https://osu.ppy.sh/users/13656264) |
+
+#### Asia Suiji Cup
+
+| Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Asia Suiji Cup: Rhythmus Aquarum](ASC/1) | 13.07.2024 | 25.08.2024 | Yuma fanboys | Pixel 7 | Noodle Soup |
 
 #### Cemara Mania Cup
 
@@ -834,6 +847,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | osu!mania Malaysia Tournament | 14.05.2021 | 27.06.2021 | ::{ flag=MY }:: [Neokje](https://osu.ppy.sh/users/7727987) | ::{ flag=MY }:: [\[MY\]xRay](https://osu.ppy.sh/users/8287005) | ::{ flag=MY }:: [\[MY\]Kibitz](https://osu.ppy.sh/users/7418493) |
 | osu!mania Malaysia Tournament 2 | 27.05.2022 | 10.07.2022 | ::{ flag=MY }:: [\[MY\]Sol](https://osu.ppy.sh/users/12054898) | ::{ flag=MY }:: [Neokje](https://osu.ppy.sh/users/7727987) | ::{ flag=MY }:: [Kibitz](https://osu.ppy.sh/users/7418493) |
 | [osu!mania Malaysia Tournament 3](OMMT/3) | 01.07.2023 | 13.08.2023 | ::{ flag=MY }:: [xxxxxx2800](https://osu.ppy.sh/users/4084853) | ::{ flag=MY }:: [JayLye](https://osu.ppy.sh/users/14892447) | ::{ flag=MY }:: [Tosai\_](https://osu.ppy.sh/users/3760209) |
+| [osu!mania Malaysia Tournament 4](OMMT/4) | 06.07.2024 | 18.08.2024 | leon's waifuus!! (::{ flag=MY }:: [JayLye](https://osu.ppy.sh/users/14892447), ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805)) | Gon and LongGone (::{ flag=MY }:: [Tosai\_](https://osu.ppy.sh/users/3760209), ::{ flag=KR }:: [yz1155](https://osu.ppy.sh/users/2071008)) | Re:Zuna (::{ flag=MY }:: [ReJust](https://osu.ppy.sh/users/20670028), ::{ flag=VN }:: [Rxizuna](https://osu.ppy.sh/users/16055641)) |
 
 #### osu!mania South East Asia Champion 2020
 
