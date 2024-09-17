@@ -104,8 +104,8 @@ On a side note, the osu!taiko performance points committee is aware of the feedb
 
 All the way back in 2021 the osu! mode received no fail changes to scale the no fail pp multiplier based on the number of misses. As suggested by [Givikap120](https://osu.ppy.sh/users/10560705), these changes [were brought into osu!catch too](https://github.com/ppy/osu/pull/28353):
 
-- New value: 1.0x base with -0.02x applied for each miss to a maximum reduction of 0.9x
 - Old value: 0.9x (always)
+- New value: 1.0x base with -0.02x applied for each miss to a maximum reduction of 0.9x
 
 This prevents FC plays with the No Fail mod from being punished and reduces the ability for No Fail to be used in order to "sandbag" or derank.
 
