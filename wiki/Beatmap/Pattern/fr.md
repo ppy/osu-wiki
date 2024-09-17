@@ -2,6 +2,7 @@
 stub: true
 tags:
   - patterns
+  - outdated
 ---
 
 # Pattern
@@ -10,17 +11,11 @@ Un **pattern** est un petit ensemble d'[objets](/wiki/Gameplay/Hit_object) dans 
 
 ## Types de patterns courants
 
-### common
-
-- [Double](common/double)
-
 ### osu!
 
 - [Burst](osu!/Bursts)
 - [Jump](osu!/Jump)
-- [Cross Screen Jump](osu!/csj)
 - [Stream](osu!/Stream)
-- [Death Stream](osu!/Death_Stream)
 
 ### osu!mania
 

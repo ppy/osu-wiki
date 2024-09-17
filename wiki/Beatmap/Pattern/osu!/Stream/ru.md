@@ -2,8 +2,7 @@
 stub: true
 tags:
   - streams
-  - стрим
-  - поток
+  - outdated
 ---
 
 # Стрим

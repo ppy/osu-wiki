@@ -2,6 +2,7 @@
 stub: true
 tags:
   - jumps
+  - outdated
 ---
 
 # Jump

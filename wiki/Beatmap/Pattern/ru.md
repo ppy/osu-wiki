@@ -11,17 +11,11 @@ tags:
 
 ## Основные виды паттернов
 
-### cвсе режимы
-
-- [Double](common/double)
-
 ### osu!
 
 - [Burst](osu!/Bursts)
 - [Джамп](osu!/Jump)
-- [Cross Screen Jump](osu!/csj)
 - [Стрим](osu!/Stream)
-- [Death Stream](osu!/Death_Stream)
 
 ### osu!mania
 
