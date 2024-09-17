@@ -47,4 +47,4 @@ If your product has a problem of any sort, contact us at [merch@ppy.sh](mailto:m
 
 ## None of this applies to what I need help with! {id=none}
 
-That sucks. Contact [merch@ppy.sh](mailto:merch@ppy.sh) and we'll try to figure it out.
+Contact [merch@ppy.sh](mailto:merch@ppy.sh) and we'll try to figure it out.
