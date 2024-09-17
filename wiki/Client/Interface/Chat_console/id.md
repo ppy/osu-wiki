@@ -15,18 +15,18 @@ Dari hampir seluruh jendela yang ada di osu!, kamu dapat menekan `F8` atau menge
 | **Kuning pucat** | Pengguna tanpa osu!supporter |
 | **Kuning cerah** | Pengguna dengan [osu!supporter](/wiki/osu!supporter) |
 | **Merah** | Anggota [Global Moderation Team](/wiki/People/Global_Moderation_Team) atau [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) |
-| **Hijau** | Baris percakapan yang mengandung kata kunci tertentu yang telah kamu tambahkan untuk meng-*[highlight](Highlight)* dirimu. Salinan dari pesan ini akan turut muncul pada kanal `#highlight`, yang khusus ditujukan untuk menampung seluruh _highlight_ yang masuk. |
+| **Hijau** | Baris percakapan yang mengandung kata kunci tertentu yang telah kamu tambahkan untuk meng-*[highlight](Highlight)* dirimu. Salinan dari pesan ini akan turut muncul pada kanal `#highlight`, yang khusus ditujukan untuk menampung seluruh *highlight* yang masuk. |
 | **Biru** | Pesan pribadi |
 | **Biru muda** | [peppy](https://osu.ppy.sh/users/2), pencipta osu! |
 | **Merah jambu** | [BanchoBot](/wiki/BanchoBot) |
 
 - Klik boks `Show Ticker` untuk menampilkan pesan chat terbaru di bagian bawah layar pada saat konsol chat sedang tidak aktif.
-- Klik boks `Auto-Hide` untuk menyembunyikan konsol chat secara otomatis di dalam permainan (kecuali pada saat intro, outro, dan jeda rehat/_break_ pada beatmap)
+- Klik boks `Auto-Hide` untuk menyembunyikan konsol chat secara otomatis di dalam permainan (kecuali pada saat intro, outro, dan jeda rehat/*break* pada beatmap)
 - Klik boks `HIde Chat` atau tekan `F8` sekali lagi untuk kembali menyembunyikan konsol chat.
 
 ## Konsol chat yang diperluas
 
-_Topik berikut ini telah diliput oleh [osu!academy](/wiki/Community/Video_series/osu!academy) pada [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) bersama dengan [Multiplayer](/wiki/Client/Interface/Multiplayer)._
+*Topik berikut ini telah diliput oleh [osu!academy](/wiki/Community/Video_series/osu!academy) pada [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) bersama dengan [Multiplayer](/wiki/Client/Interface/Multiplayer).*
 
 Dari hampir seluruh layar yang ada di osu!, kamu dapat menekan `F9` atau mengeklik tombol `Online Users` yang terdapat pada pojok kanan bawah menu intro untuk menampilkan konsol chat yang diperluas. Di samping konsol chat utama, konsol chat yang diperluas juga menampilkan berbagai panel yang berisi informasi seputar pengguna yang sedang terhubung masuk ke osu!.
 
@@ -74,7 +74,7 @@ Tekan tombol angka yang sesuai pada keyboard atau klik pada bilah pilihan yang b
 
 ### /help
 
-| Perintah  | Efek | Contoh | Respon BanchoBot |
+| Perintah | Efek | Contoh | Respon BanchoBot |
 | :-- | :-- | :-- | :-- |
 | `/addfriend [nama pengguna]` | Menambahkan `[nama pengguna]` ke dalam daftar temanmu. | `/addfriend Amigo` | Kamu kini berteman dengan Amigo. |
 | `/delfriend [nama pengguna]` | Menghapus `[user]` dari daftar temanmu. | `/delfriend Amigo` | Kamu kini tidak lagi berteman dengan Amigo. |
@@ -85,9 +85,9 @@ Tekan tombol angka yang sesuai pada keyboard atau klik pada bilah pilihan yang b
 | `/ignore [nama pengguna][@chp]` | Mengabaikan seluruh pesan dari pengguna yang ditentukan untuk sesi saat ini. Dengan menambahkan karakter "@" yang disertai dengan huruf "c", "h", dan/atau "p", kamu dapat mengabaikan pengguna ini di chat, [highlight](Highlight), atau PM. | `/ignore Amigo@chp` | BanchoBot: Kamu tidak lagi akan mendengar percakapan dari Amigo {chat} {highlights} {PM} (Konsol chat kamu akan dikondisikan untuk: mengabaikan teks apa pun yang dikirim oleh Amigo \[c\], teks apa pun yang meng-highlight dirimu oleh Amigo \[h\], serta pesan pribadi mana pun yang berasal dari Amigo \[p\]) |
 | `/j [kanal percakapan]` or `/join [kanal percakapan]` | Bergabung ke kanal percakapan yang ditentukan. | `/join #lobby` | (tab #lobby akan terbuka) |
 | `/p` or `/part` | Meninggalkan kanal percakapan saat ini. | `/part` | n/a |
-| `/unignore [nama pengguna]` | Menghentikan pengabaian pesan dari pengguna yang ditentukan untuk sesi saat ini. | `/unignore Amigo`  | Kamu kini akan dapat mendengar percakapan dari Amigo. (Konsol chat milikmu akan mengizinkan segala baris percakapan yang ditulis oleh Amigo untuk kembali muncul) |
+| `/unignore [nama pengguna]` | Menghentikan pengabaian pesan dari pengguna yang ditentukan untuk sesi saat ini. | `/unignore Amigo` | Kamu kini akan dapat mendengar percakapan dari Amigo. (Konsol chat milikmu akan mengizinkan segala baris percakapan yang ditulis oleh Amigo untuk kembali muncul) |
 | `/me [tindakan]` | Melangsungkan tindakan dari sudut pandang orang ketiga. | `/me sedang berada di rumah` | - John sedang berada di rumah |
-| `/np` | Menulis judul lagu yang sedang kamu dengarkan atau mainkan ke kolom chat. | `/np` | (apabila sedang bermain) \* John sedang memainkan [Peter Lambert - osu! tutorial \[Gameplay Basics\]](https://osu.ppy.sh/beatmapsets/3756#osu/22538)   |
+| `/np` | Menulis judul lagu yang sedang kamu dengarkan atau mainkan ke kolom chat. | `/np` | (apabila sedang bermain) \* John sedang memainkan [Peter Lambert - osu! tutorial \[Gameplay Basics\]](https://osu.ppy.sh/beatmapsets/3756#osu/22538) |
 | `/reply` atau `/r` | Membalas pesan pribadi yang terakhir diterima. | `/r: Apakah kamu tahu dokter yang bagus?` | (Pada tab Amigo) \[Kiriman sebelumnya\] John: Saya sedang sakit di rumah. Amigo: Benarkah? John: Apakah kamu tahu dokter yang bagus? |
 | `/savelog` | Menyimpan isi tab chat saat ini ke dalam berkas teks. | `/savelog` | (Folder dengan nama "Chat" akan dibuat pada direktori osu!, di mana folder ini ke depannya akan berisikan seluruh tab chat yang disimpan) |
 | `/watch [user]` | Mulai menonton `[user]`. | `/watch Amigo` | * Kamu mulai menonton Amigo. (Pada saat Amigo memainkan beatmap yang kamu miliki, kamu akan menonton permainan Amigo dengan namamu yang terpajang di sisi kiri layar dan \[jeda buffer selama beberapa detik\]) |
