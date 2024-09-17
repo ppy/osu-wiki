@@ -12,11 +12,11 @@ There are changes to all game modes this time around in an effort to improve the
 
 If you find yourself scratching your head when reading, consider consulting the [performance points](/wiki/Performance_points) and [star rating](/wiki/Beatmapping/Star_rating) wiki articles to gain a greater understanding of the topics.
 
-## Release Schedule
+## Release schedule
 
 <!-- todo -->
 
-## osu!catch Performance Points Committee
+## osu!catch performance points committee
 
 Since the last performance points post, osu!catch has now formed its own Performance Points Committee to help out with osu!catch related changes. You can find out more about the various committees on their [wiki page](/wiki/People/Performance_Points_Committee).
 
@@ -31,7 +31,7 @@ As a reminder of the various core values in the difficulty calculation algorithm
 - **Accuracy**: how difficult it is to stay rhythmically on time (affected by Hidden, Hard Rock, Flashlight and more)
 - **Strain**: the difficulty of enduring intense or technically demanding patterns often and for a long time (affected by streams, fast jumps and more)
 
-### Combo Scaling Removal
+### Combo scaling removal
 
 A [change](https://github.com/ppy/osu/pull/16280) submitted by [moonpoint](https://osu.ppy.sh/users/9558549) with improvements made by [KermitNuggies](https://osu.ppy.sh/users/33452559) has been created in order to remove the combo scaling factor of a score on *both* aim and speed.
 
@@ -51,7 +51,7 @@ This change may not affect all scores set with slider head accuracy, as accuracy
 
 This is one change related to slider head accuracy with more to be expected in the future.
 
-### Minor Changes
+### Minor changes
 
 - A [slider mechanic change](https://github.com/ppy/osu/pull/24966) was made to adjust slider ends to be more lenient during fast sliders which has resulted in buffs on some maps with very fast sliders such as [KAEDE](https://osu.ppy.sh/beatmapsets/660630#osu/1398809). You can find more about this change in the related [osu!(lazer) updates video](https://www.youtube.com/watch?v=SlWKKA-ltZY).
 - Some various refactorings across difficulty calculation and performance calculation submitted by [Givikap120](https://osu.ppy.sh/users/10560705) to reduce duplication. [#1](https://github.com/ppy/osu/pull/29293) [#2](https://github.com/ppy/osu/pull/29294) [#3](https://github.com/ppy/osu/pull/29292) [#4](https://github.com/ppy/osu/pull/29291)
@@ -100,7 +100,7 @@ On a side note, the osu!taiko performance points committee is aware of the feedb
 
 ## osu!catch changes
 
-### No Fail Changes
+### No fail changes
 
 All the way back in 2021 the osu! mode received no fail changes to scale the no fail pp multiplier based on the number of misses. As suggested by [Givikap120](https://osu.ppy.sh/users/10560705), these changes [were brought into osu!catch too](https://github.com/ppy/osu/pull/28353):
 
@@ -109,7 +109,7 @@ All the way back in 2021 the osu! mode received no fail changes to scale the no 
 
 This prevents FC plays with the No Fail mod from being punished and reduces the ability for No Fail to be used in order to "sandbag" or derank.
 
-### Minor Changes
+### Minor changes
 
 - A [fix](https://github.com/ppy/osu/pull/28337) submitted by [spaceman_atlas](https://osu.ppy.sh/users/3035836) to remove rounding of the slider velocity multiplier on juice streams which resulted in some shifting of difficulty & performance values.
 
