@@ -1,4 +1,4 @@
-# 4 Digit Player Tournament 
+# 4 Digit Player Tournament
 
 Index page for all of the 4 Digit Player Tournament series.
 
