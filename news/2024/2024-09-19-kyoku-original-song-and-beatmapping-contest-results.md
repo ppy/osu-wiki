@@ -19,7 +19,7 @@ With 76 total entries (resulting in 33 submitted entries) the competition was fi
 Drum and bass enjoyers can rejoice as Team RGB harnessed the full power of neurofunk. Featuring music by [Artackni](https://artackni.newgrounds.com/) and craftsmanship of [Amon-](https://osu.ppy.sh/users/18161041) and ballsmaster69, [*Encaged*](https://osu.ppy.sh/beatmapsets/2242804#osu/4767104) is a slider-heavy tech map that is bound to get the adrenaline pumping and keep your attention throughout its course.
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://assets.ppy.sh/media/news/kyoku-2024-1st-place.mp4" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://assets.ppy.sh/media/news/kyoku-2024-3rd-place.mp4" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Congratulations to Team RGB as they scored themselves 3rd place with a final score of **84.50**!
