@@ -70,7 +70,7 @@ With the recent update to osu!taiko's difficulty calculation, an issue has arise
 
 A recent [change](https://github.com/ppy/osu/pull/20558) by [vun](https://osu.ppy.sh/users/6932501) addresses these issues within the stamina system.  When the new stamina system for osu!taiko was introduced in 2022, it assumed that players used two fingers per colour, leading to some impressive plays by players like [Ney](https://osu.ppy.sh/users/5991961) on [Alive](https://osu.ppy.sh/scores/1873110816) and others on [StrangeProgram](https://osu.ppy.sh/beatmapsets/5774#taiko/28065), which became notorious for yielding some speedy high PP scores.
 
-The new system, while simple in its implementation, introduces variable finger counts for stamina. Mono-colour patterns that last more than 300ms without a colour change are now considered to have a four fingers avaiable. This adjustment significantly nerfs certain maps and converts.  Additionally, convert-specific nerfs have been removed from difficulty calculations to ensure that converts are weighted fairly against mode-specific maps. The changes to finger count availability also ensure that more *niche* skill sets are fairly represented.
+The new system, while simple in its implementation, introduces variable finger counts for stamina. Mono-colour patterns that last more than 300ms without a colour change are now considered to have four fingers available. This adjustment significantly nerfs certain maps and converts. Additionally, convert-specific nerfs have been removed from difficulty calculations to ensure that converts are weighted fairly against mode-specific maps. The changes to finger count availability also ensure that more *niche* skill sets are fairly represented.
 
 ### Changes to the HDFL bonus in the accuracy component of performance calculation
 
@@ -82,13 +82,13 @@ Previously, a map with just one object could receive the same bonus as a map wit
 
 A [change](https://github.com/ppy/osu/pull/20963) submitted by [Natelytle](https://osu.ppy.sh/users/17607667) has been made to the way osu!taiko calculates accuracy difficulty, to keep accuracy and difficulty scaling values more in line for the same score as you change the overall difficulty of the map.
 
-The current way accuracy scaling works in osu!taiko is very simple. It take the decimal accuracy of the score, raises it to the power of 15, and multiplies the result by a constant determined by the overall difficulty. The problem with this is that if you keep the spread of your hit timings (also known as UR) the same, your accuracy does not decrease at a constant rate as you increase the overall difficulty.
+The current way accuracy scaling works in osu!taiko is very simple. It takes the decimal accuracy of the score, raises it to the power of 15, and multiplies the result by a constant determined by the overall difficulty. The problem with this is that if you keep the spread of your hit timings (also known as UR) the same, your accuracy does not decrease at a constant rate as you increase the overall difficulty.
 
 The consequence of this is that if you take the same score and increase the overall difficulty on it, eventually you will reach a point where the accuracy drops off faster than the constant bonus for OD increases. This means the exact same score can *lose* pp if the overall difficulty is too high.
 
 ![](/wiki/shared/news/2024-09-17-performance-points-star-rating-updates/old-taiko-accuracy-curve.png)
 
-To solve this, we can leverage the fact that tapping error is almost always normally distributed. To do this, we use a formula that takes the proportion of hits outside of a boundary, like the 300 hit window, and returns the width of a normal distribution that would result in that proportion. This is used to solve for the unstable rate of the score using the 100 and miss counts, and use that to scale a single maximum accuracy value of the score instead, doing away with the constant bonuses for overall difficulty entirely.
+To solve this, we can leverage the fact that tapping error is almost always normally distributed. To do this, we use a formula that takes the proportion of hits outside a boundary, like the 300 hit window, and returns the width of a normal distribution that would result in that proportion. This is used to solve for the unstable rate of the score using the 100 and miss counts, and use that to scale a single maximum accuracy value of the score instead, doing away with the constant bonuses for overall difficulty entirely.
 
 ![](/wiki/shared/news/2024-09-17-performance-points-star-rating-updates/new-taiko-accuracy-curve.png)
 
@@ -121,7 +121,7 @@ A [slight adjustment](https://github.com/ppy/osu/pull/24109) to LN values submit
 
 There are 2 particular changes to LN-specific bonuses that have resulted in this nerf:
 
-- There is an overlap bonus which awards a bonus if 2 LNs overlap eachother - the larger the overlap, the larger the bonus. This has been adjusted to require larger overlaps for the equivalent bonuses.
+- There is an overlap bonus which awards a bonus if 2 LNs overlap each other — the larger the overlap, the larger the bonus. This has been adjusted to require larger overlaps for the equivalent bonuses.
 - Cases where 2 LNs start together (for example, in a chord) are no longer buffed.
 
 Here is a graph to help visualise the LN overlap bonus change:
