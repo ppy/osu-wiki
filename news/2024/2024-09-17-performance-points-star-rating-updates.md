@@ -45,7 +45,7 @@ There were concerns raised about consistency being less important with these cha
 
 A [change](https://github.com/ppy/osu/pull/27063) submitted by [tsunyoku](https://osu.ppy.sh/users/11315329) has been created to include the slider count in accuracy pp if a score was set using slider head accuracy.
 
-Accuracy pp uses its own formula to create a separate object count that has always excluded sliders as traditionally, osu! never had accuracy on slider heads. Slider head accuracy is now a possibility in lazer, so accuracy pp has been adjusted to include sliders.
+Accuracy pp uses its own formula to create a separate object count that has always excluded sliders as traditionally, osu! never had accuracy on slider heads. Slider head accuracy is now a possibility in osu!(lazer), so accuracy pp has been adjusted to include sliders.
 
 This change may not affect all scores set with slider head accuracy, as accuracy pp also has an object count cap meaning accuracy pp will go unchanged if the hit circle object count was already hitting this cap. Additionally, very low accuracy scores may not be boosted enough by the added object counts to result in any extra reward.
 
@@ -53,7 +53,7 @@ This is one change related to slider head accuracy with more to be expected in t
 
 ### Minor Changes
 
-- A [slider mechanic change](https://github.com/ppy/osu/pull/24966) was made to adjust slider ends to be more lenient during fast sliders which has resulted in buffs on some maps with very fast sliders such as [KAEDE](https://osu.ppy.sh/beatmapsets/660630#osu/1398809). You can find more about this change in the related [lazer updates video](https://www.youtube.com/watch?v=SlWKKA-ltZY).
+- A [slider mechanic change](https://github.com/ppy/osu/pull/24966) was made to adjust slider ends to be more lenient during fast sliders which has resulted in buffs on some maps with very fast sliders such as [KAEDE](https://osu.ppy.sh/beatmapsets/660630#osu/1398809). You can find more about this change in the related [osu!(lazer) updates video](https://www.youtube.com/watch?v=SlWKKA-ltZY).
 - Some various refactorings across difficulty calculation and performance calculation submitted by [Givikap120](https://osu.ppy.sh/users/10560705) to reduce duplication. [#1](https://github.com/ppy/osu/pull/29293) [#2](https://github.com/ppy/osu/pull/29294) [#3](https://github.com/ppy/osu/pull/29292) [#4](https://github.com/ppy/osu/pull/29291)
 
 ## osu!taiko changes
