@@ -16,13 +16,13 @@ The **4 Digit Player Tournament Season 6** (***4DPT6***) was a double-eliminatio
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2024-02-01/2024-02-15 |
-| Screening Phase | 2024-02-16/2024-02-22 |
+| Screening phase | 2024-02-16/2024-02-22 |
 | Qualifiers | 2024-02-23/2024-02-25 |
 | Round of 64 | 2024-03-01/2024-03-03 |
 | Round of 32 | 2024-03-08/2024-03-10 |
 | Round of 16 | 2024-03-15/2024-03-17 |
-| Quarter Finals | 2024-03-22/2024-03-24 |
-| Semi Finals | 2024-03-29/2024-03-31 |
+| Quarterfinals | 2024-03-22/2024-03-24 |
+| Semifinals | 2024-03-29/2024-03-31 |
 | Finals | 2024-04-05/2024-04-07 |
 | Grand Finals | 2024-04-12/2024-04-14 |
 
@@ -34,7 +34,7 @@ The **4 Digit Player Tournament Season 6** (***4DPT6***) was a double-eliminatio
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter, custom tournament banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter, custom tournament banner |
 
-![](img/badge.jpg "4DPT6 winner badge") 
+![](img/badge.png "4DPT6 winner badge") 
 
 ## Organisation
 
@@ -67,12 +67,12 @@ The 4 Digit Player Tournament Season 6 was run by various community members all 
 
 Listed below are the players who have qualified into the Round of 64 (grouped in batches of eight seeds) out of 85 participating players in total.
 
-The full final standings for the Qualifier stage can be found on the following [website](https://wybin.xyz/tournaments/4dpt6/stats#qualifiers).
+The full final standings for the Qualifier stage can be found on [this website](https://wybin.xyz/tournaments/4dpt6/stats#qualifiers).
 
 | Seed | Players |
 | :-- | :-- |
 | #1-8 | ::{ flag=CA }:: [SadEgg](https://osu.ppy.sh/users/10278243), ::{ flag=TH }:: [EzyS](https://osu.ppy.sh/users/16271283), ::{ flag=KR }:: [log out side](https://osu.ppy.sh/users/11535744), ::{ flag=HK }:: [my angel auto](https://osu.ppy.sh/users/29503627), ::{ flag=FR }:: [Fuka Pura](https://osu.ppy.sh/users/2326688), ::{ flag=ID }:: [Mixuri](https://osu.ppy.sh/users/9153772), ::{ flag=PE }:: [MauriciOSU](https://osu.ppy.sh/users/8199435), ::{ flag=CN }:: [Nagato](https://osu.ppy.sh/users/260373) |
-| #9-16 | ::{ flag=CN }:: [Murasaki Shion](https://osu.ppy.sh/users/568950), ::{ flag=ES }:: [MusicDropZ](https://osu.ppy.sh/users/12759554), ::{ flag=FR }:: [Pizou](https://osu.ppy.sh/users/9475990), ::{ flag=ID }:: [dalyz](https://osu.ppy.sh/users/3951909), ::{ flag=PL }:: [David Podsiadlo](https://osu.ppy.sh/users/34040054), ::{ flag=FR }:: [floflim](https://osu.ppy.sh/users/5954015), ::{ flag=RU }:: [Sorryc](https://osu.ppy.sh/users/11931621), ::{ flag=TH }:: [Zerokungz](https://osu.ppy.sh/users/23155757) |
+| #9-16 | ::{ flag=CN }:: [Murasaki Shion](https://osu.ppy.sh/users/568950), ::{ flag=ES }:: [MusicDropZ](https://osu.ppy.sh/users/12759554), ::{ flag=FR }:: [Pizou](https://osu.ppy.sh/users/9475990), ::{ flag=ID }:: [dalyz](https://osu.ppy.sh/users/3951909), ::{ flag=PL }:: [David Podsiadlo](https://osu.ppy.sh/users/34040054), ::{ flag=FR }:: [floflim](https://osu.ppy.sh/users/5954015), ::{ flag=RU }:: [Sorryc](https://osu.ppy.sh/users/11931621), ::{ flag=TH }:: [ZeroKungz](https://osu.ppy.sh/users/23155757) |
 | #17-#24 | ::{ flag=ID }:: [BitDust](https://osu.ppy.sh/users/9573836), ::{ flag=FR }:: [Shamookie](https://osu.ppy.sh/users/12441210), ::{ flag=GB }:: [kev aha x](https://osu.ppy.sh/users/19294472), ::{ flag=JP }:: [giru HD](https://osu.ppy.sh/users/19294472), ::{ flag=MY }:: [davidbeh\_97](https://osu.ppy.sh/users/4101818), ::{ flag=SG }:: [uniqly](https://osu.ppy.sh/users/8876527), ::{ flag=DE }:: [SchmutzZz](https://osu.ppy.sh/users/28021579), ::{ flag=DE }:: [13187Berlin](https://osu.ppy.sh/users/4035950)[^tester] |
 | #25-#32 | ::{ flag=RU }:: [Morusya](https://osu.ppy.sh/users/13681464), ::{ flag=FR }:: [-Enias-](https://osu.ppy.sh/users/8384680), ::{ flag=NZ }:: [Wettham77](https://osu.ppy.sh/users/14476098), ::{ flag=RU }:: [aabii](https://osu.ppy.sh/users/17808018), ::{ flag=TR }:: [Yasi6n](https://osu.ppy.sh/users/17482520), ::{ flag=RU }:: [1k1](https://osu.ppy.sh/users/10119963), ::{ flag=MY }:: [leaf89](https://osu.ppy.sh/users/19346652), ::{ flag=SG }:: [Geekoruto](https://osu.ppy.sh/users/16634503) |
 | #33-40 | ::{ flag=CA }:: [Neko\_Cafe](https://osu.ppy.sh/users/6688277), ::{ flag=CA }:: [D o k a](https://osu.ppy.sh/users/19019806), ::{ flag=NL }:: [Fyunix](https://osu.ppy.sh/users/2503365), ::{ flag=KR }:: [\[Yuria\]](https://osu.ppy.sh/users/4763555), ::{ flag=KZ }:: [Imanari](https://osu.ppy.sh/users/24032082), ::{ flag=JP }:: [uni\_PF](https://osu.ppy.sh/users/11034769), ::{ flag=ME }:: [MyLovelyRealite](https://osu.ppy.sh/users/33526381), ::{ flag=RU }:: [2zz](https://osu.ppy.sh/users/8201267) |
@@ -107,7 +107,7 @@ This competition has come to an end and resulted in the following podium:
   3. [My Chemical Romance - You Know What They Do To Guys Like Us In Prison (Birdsuit) \[Birdmark's Expert\]](https://osu.ppy.sh/beatmapsets/1875471#fruits/4086865)
   4. [Hisui & GIW feat. Yua Miyuki x Erika Koyama - Megamina Sekai III (KnightC0re) \[Mythos\]](https://osu.ppy.sh/beatmapsets/2039781#fruits/4254873)
 - HardRock
-  1. [Rise Against - Prayer of the Refugee (Mrbinking) \[Pray\]](https://osu.ppy.sh/beatmapsets/2164020#fruits/4564363>)
+  1. [Rise Against - Prayer of the Refugee (Mrbinking) \[Pray\]](https://osu.ppy.sh/beatmapsets/2164020#fruits/4564363)
   2. [Bullet For My Valentine - Hit The Floor (Secre) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2164013#fruits/4564340)
   3. [MARUV - Siren Song (shmiklak) \[Bang\]](https://osu.ppy.sh/beatmapsets/1085819#fruits/2574624) 
   4. [Zektbach - Kagachi (09kami) \[Extra Ouroboros\]](https://osu.ppy.sh/beatmapsets/894104#fruits/1868437)
@@ -117,8 +117,8 @@ This competition has come to an end and resulted in the following podium:
   3. [ChouCho - Authentic symphony (timemon) \[Uberzolik's Insane\]](https://osu.ppy.sh/beatmapsets/754826#fruits/1589413)
   4. [Susumu Hirasawa - BEACON (P\_O) \[Light in the Dark\]](https://osu.ppy.sh/beatmapsets/2063328#fruits/4315459)
 - Mystery
-  1. [BanYa - Beethoven Virus (Des9) \[Rain\]](https://osu.ppy.sh/beatmapsets/2164027#fruits/4564377) (Easy Mod)
-  2. [HEALTH - CRACK METAL (ExGon) \[Turn off hit lighting\]](https://osu.ppy.sh/beatmapsets/2164032#fruits/4564382) (Dodge The Beat)
+  1. [BanYa - Beethoven Virus (Des9) \[Rain\]](https://osu.ppy.sh/beatmapsets/2164027#fruits/4564377) (Easy Mod)[^easy]
+  2. [HEALTH - CRACK METAL (ExGon) \[Turn off hit lighting\]](https://osu.ppy.sh/beatmapsets/2164032#fruits/4564382) (Dodge The Beat)[^dtb]
 - Tiebreaker
   1. **[Toneix x Scutoid - Foolish Ambition (fayew) \[Phantasmagorical Collab: Jemzuu x fayew x -Ken x Zyzyx\]](https://osu.ppy.sh/beatmapsets/2164046#fruits/4564404)**
 
@@ -150,12 +150,12 @@ The complete list of sightread maps can be found in this [Google Sheet](https://
   3. [ChouCho - Kuusou Triangle (CelsiusLK) \[Insane\]](https://osu.ppy.sh/beatmapsets/470971#fruits/1006811)
   4. [zts - worldenddominator (ktgster) \[End\]](https://osu.ppy.sh/beatmapsets/331034#fruits/733444)
 - Mystery
-  1. [general_r6 - Cupid x Angle Grinder  (e wong) \[cupid if it was a good song\]](https://osu.ppy.sh/beatmapsets/2022815#fruits/4213160) (Sightread)[^sightreading]
-  2. [Tee Lopes - Blossom Haze (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2160457#fruits/4555846) (Accuracy Win Condition)
+  1. *(various maps)* (Sightread)[^sightreading]
+  2. [Tee Lopes - Blossom Haze (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2160457#fruits/4555846) (Accuracy Win Condition)[^accuracy]
 - Tiebreaker
   1. **[USAO - Extra Mode (Deif) \[Greaper & Deif's Another Episode\]](https://osu.ppy.sh/beatmapsets/1774332#fruits/3632973)**
 
-### Semi Finals
+### Semifinals
 
 **[Download the mappack here! (104.5 MB)](https://drive.google.com/file/d/1RR1vp5wwq7Dx4Um748asDcAvOa8FWb-d/view?usp=sharing)**
 
@@ -177,12 +177,12 @@ The complete list of sightread maps can be found in this [Google Sheet](https://
   2. [Yorushika - Matasaburo (Crowley) \[Rustyy & Crowley's Platter\]](https://osu.ppy.sh/beatmapsets/1609920#fruits/3287185)
   3. [A-One feat. Shihori - Bamboo Dance (nanoya) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/2075280#fruits/4344475)
 - Mystery
-  1. [Caramell - Caramelldansen (Speedycake Remix) (0\_o) \[LESJUH DIFFICULTY!!\]](https://osu.ppy.sh/beatmapsets/7380#fruits/43423) (Flashlight Mod)
-  2. [C-Show - DROP THE RAVE (Des9) \[DODGE THE RAVE\]](https://osu.ppy.sh/beatmapsets/2156054#fruits/4544969) (Dodge The Beat)
+  1. [Caramell - Caramelldansen (Speedycake Remix) (0\_o) \[LESJUH DIFFICULTY!!\]](https://osu.ppy.sh/beatmapsets/7380#fruits/43423) (Flashlight Mod)[^flashlight]
+  2. [C-Show - DROP THE RAVE (Des9) \[DODGE THE RAVE\]](https://osu.ppy.sh/beatmapsets/2156054#fruits/4544969) (Dodge The Beat)[^dtb]
 - Tiebreaker
   1. **[Zomboy - Nuclear (Hands Up) (Des9) \[Lemme See Your Hands In The Air\]](https://osu.ppy.sh/beatmapsets/2156060#fruits/4544976)**
 
-### Quarter Finals
+### Quarterfinals
 
 **[Download the mappack here! (140.5 MB)](https://drive.google.com/file/d/19V_ldZwDBj1KvKDXcaq0sgNI-muTcEn_/view?usp=sharing)**
 
@@ -204,12 +204,13 @@ The complete list of sightread maps can be found in this [Google Sheet](https://
   2. [Shawn Wasabi + YDG feat. YUNG GEMMY - Burnt Rice (Aiobahn & Jh-Anu Remix) (rinkiha) \[Platter\]](https://osu.ppy.sh/beatmapsets/1466856#fruits/3015858)
   3. [seleP - ELLIE (P\_O) \[chill's Insane\]](https://osu.ppy.sh/beatmapsets/1954509#fruits/4049435)
 - Mystery
-  1. [Silver Forest - Tsurupettan (Nharox) \[Insane\]](https://osu.ppy.sh/beatmapsets/1559#fruits/19969) (High Circle Size)
-  2. [uselet - idk (Trent) \[does anyone really know?\]](https://osu.ppy.sh/beatmapsets/2146109#fruits/4523730) (Spinner Win Condition)
+  1. [Silver Forest - Tsurupettan (Nharox) \[Insane\]](https://osu.ppy.sh/beatmapsets/1559#fruits/19969) (High Circle Size)[^cs]
+  2. [uselet - idk (Trent) \[does anyone really know?\]](https://osu.ppy.sh/beatmapsets/2146109#fruits/4523730) (Spinner Win Condition)[^spinner]
 - Tiebreaker
   1. **[UNDERVEIL ALLSTARS - UNDERVEIL IS REAL!!! ...AND WE ARE UNDERVEIL!!! (Chara) \[*Together as one, we stay determined!\]](https://osu.ppy.sh/beatmaps/1351241)**
 
 ### Round of 16
+
 **[Download the mappack here! (101 MB)](https://drive.google.com/file/d/1P1697dU5qtVVBBlZebmRiwXcGR3AecYL/view?usp=sharing)**
 
 - NoMod
@@ -230,11 +231,12 @@ The complete list of sightread maps can be found in this [Google Sheet](https://
   2. [sana - Sunset March (Benita) \[Platter\]](https://osu.ppy.sh/beatmapsets/959995#fruits/2010866)
   3. [FELT - Sky Gate (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/129534#fruits/327256)
 - Mystery
-  1. [uma vs. Morimori Atsushi - Re:End of a Dream (GIGACHAD) \[HYPERION'S ADVANCED\]](https://osu.ppy.sh/beatmapsets/1338796#fruits/2836370) (Easy Mod)
+  1. [uma vs. Morimori Atsushi - Re:End of a Dream (GIGACHAD) \[HYPERION'S ADVANCED\]](https://osu.ppy.sh/beatmapsets/1338796#fruits/2836370) (Easy Mod)[^easy]
 - Tiebreaker
   1. **[yuikonnu - Tsumi no Namae (Ascendance) \[Nameless\]](https://osu.ppy.sh/beatmapsets/570922#fruits/1210060)**
 
 ### Round of 32
+
 **[Download the mappack here! (97.6 MB)](https://drive.google.com/file/d/1nzI3vk0dcpjEuPcytl1cx0etH3ucTTcP/view?usp=sharing)**
 
 - NoMod
@@ -255,11 +257,12 @@ The complete list of sightread maps can be found in this [Google Sheet](https://
   2. [URBANGARDE - KIMI WA OKUMAGASO (JBHyperion) \[Platter\]](https://osu.ppy.sh/beatmapsets/1779476#fruits/3710668)
   3. [Ryokuoushoku Shakai - Zutto Zutto Zutto (mnyui) \[Hard\]](https://osu.ppy.sh/beatmapsets/1838113#fruits/3775972)
 - Mystery
-  1. [Rita - Little Busters! ~TV animation ver.~ (pkhg) \[Dekaane's Normal\]](https://osu.ppy.sh/beatmapsets/200500#fruits/2358589) (High Circle Size)
+  1. [Rita - Little Busters! ~TV animation ver.~ (pkhg) \[Dekaane's Normal\]](https://osu.ppy.sh/beatmapsets/200500#fruits/2358589) (HardRock & DoubleTime)[^hrdt]
 - Tiebreaker
   1. **[Minase Mashiro - runaway (Halozy Mix) (Ascendance) \[Hyperion's Lunatic\]](https://osu.ppy.sh/beatmapsets/785837#fruits/1649785)**
 
 ### Round of 64
+
 **[Download the mappack here! (89 MB)](https://drive.google.com/file/d/1dRuraFJ28C4CNEmiF3ZNRkfNYMBHY57a/view?usp=sharing)**
 
 - NoMod
@@ -280,11 +283,12 @@ The complete list of sightread maps can be found in this [Google Sheet](https://
   2. [Duck Duck Pony - Shinsetsu (wonjae) \[wonJemZero's Salad\]](https://osu.ppy.sh/beatmapsets/951270#fruits/2009915)
   3. [Primary - Kimi ga Nozomu Sekai (Lasse) \[Hard\]](https://osu.ppy.sh/beatmapsets/485087#fruits/1145141)
 - Mystery
-  1. [yaseta - Labyrinth (AvicharHD) \[Dawning hope\]](https://osu.ppy.sh/beatmapsets/1703166#fruits/3614965) (Convert Tiebreaker Length)
+  1. [yaseta - Labyrinth (AvicharHD) \[Dawning hope\]](https://osu.ppy.sh/beatmapsets/1703166#fruits/3614965) (Convert Tiebreaker Length)[^contb]
 - Tiebreaker
   1. **[Mili - Vitamins feat. world's end girlfriend (Benita) \[Rain\]](https://osu.ppy.sh/beatmapsets/1716502#fruits/3507726)**
 
 ### Qualifiers
+
 **[Download the mappack here! (90.6 MB)](https://drive.google.com/file/d/1_2X2GbaZmtLy0fqn0z6yj5BBLEccTXHN/view?usp=sharing)**
 
 - NoMod
@@ -320,12 +324,14 @@ Sunday, 14 April 2024:
 ### Finals
 
 Saturday, 6 April 2024:
+
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | [Touca](https://osu.ppy.sh/users/32920228) ::{ flag=JP }:: | 1 | **7** | ::{ flag=PE }:: **[MauriciOSU](https://osu.ppy.sh/users/8199435)** | [#1](https://osu.ppy.sh/community/matches/113379100) |
 | Lower | **[log out side](https://osu.ppy.sh/users/11535744)** ::{ flag=KR }:: | **7** | 5 | ::{ flag=TH }:: [ZeroKungz](https://osu.ppy.sh/users/23155757) | [#1](https://osu.ppy.sh/community/matches/113385831) |
 
 Sunday, 7 April 2024:
+
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | [MauriciOSU](https://osu.ppy.sh/users/8199435) ::{ flag=PE }:: | 2 | **7** | ::{ flag=KR }:: **[log out side](https://osu.ppy.sh/users/11535744)** | [#1](https://osu.ppy.sh/community/matches/113394209) |
@@ -334,11 +340,13 @@ Sunday, 7 April 2024:
 ### Semifinals
 
 Friday, 29 March 2024:
+
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **[EzyS](https://osu.ppy.sh/users/16271283)** ::{ flag=TH }:: | **6** | 4 | ::{ flag=KR }:: [log out side](https://osu.ppy.sh/users/11535744) | [#1](https://osu.ppy.sh/community/matches/113277727) |
 
 Saturday, 30 March 2024:
+
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | **[MauriciOSU](https://osu.ppy.sh/users/8199435)** ::{ flag=PE }:: | **6** | 5 | ::{ flag=HK }:: [my angel auto](https://osu.ppy.sh/users/29503627) | [#1](https://osu.ppy.sh/community/matches/113287612) |
@@ -347,6 +355,7 @@ Saturday, 30 March 2024:
 | Lower | [Mixuri](https://osu.ppy.sh/users/9153772) ::{ flag=ID }:: | 3 | **6** | ::{ flag=DE }:: **[13187berlin](https://osu.ppy.sh/users/4035950)** | [#1](https://osu.ppy.sh/community/matches/113294193) |
 
 Sunday, 31 March 2024:
+
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **[SadEgg](https://osu.ppy.sh/users/10278243)** ::{ flag=CA }:: | **6** | 0 | ::{ flag=JP }:: [Touca](https://osu.ppy.sh/users/32920228) | [#1](https://osu.ppy.sh/community/matches/113305815) |
@@ -356,11 +365,13 @@ Sunday, 31 March 2024:
 ### Quarterfinals
 
 Friday, 22 March 2024:
+
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | [kev aha x](https://osu.ppy.sh/users/19294472) ::{ flag=GB }:: | 1 | **6** | ::{ flag=PL }:: **[David Podsiadlo](https://osu.ppy.sh/users/34040054)** | [#1](https://osu.ppy.sh/community/matches/113181149) |
 
 Saturday, 23 March 2024:
+
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **[SadEgg](https://osu.ppy.sh/users/10278243)** ::{ flag=CA }:: | **6** | 1 | ::{ flag=CN }:: [Nagato](https://osu.ppy.sh/users/260373) | [#1](https://osu.ppy.sh/community/matches/113188002) |
@@ -374,6 +385,7 @@ Saturday, 23 March 2024:
 | Lower | [BitDust](https://osu.ppy.sh/users/9573836) ::{ flag=ID }:: | 0 | **1** | ::{ flag=FR }:: **[Shamookie](https://osu.ppy.sh/users/12441210)** | *win by default* |
 
 Sunday, 24 March 2024:
+
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **[EzyS](https://osu.ppy.sh/users/16271283)** ::{ flag=TH }:: | **6** | 1 | ::{ flag=PE }:: [MauriciOSU](https://osu.ppy.sh/users/8199435) | [#1](https://osu.ppy.sh/community/matches/113206051) |
@@ -386,11 +398,13 @@ Sunday, 24 March 2024:
 ### Round of 16
 
 Friday, 15 March 2024:
+
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | **[Morusya](https://osu.ppy.sh/users/13681464)** ::{ flag=RU }:: | **5** | 1 | ::{ flag=PL }:: [Szczyr](https://osu.ppy.sh/users/17329923) | [#1](https://osu.ppy.sh/community/matches/113085077) |
 
 Saturday, 16 March 2024:
+
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **[EzyS](https://osu.ppy.sh/users/16271283)** ::{ flag=TH }:: | **5** | 1 | ::{ flag=RU }:: [Sorryc](https://osu.ppy.sh/users/11931621) | [#1](https://osu.ppy.sh/community/matches/113098851) |
@@ -408,6 +422,7 @@ Saturday, 16 March 2024:
 | Lower | **[David Podsiadlo](https://osu.ppy.sh/users/34040054)** ::{ flag=PL }::  | **1** | 0 | ::{ flag=ME }:: [MyLovelyRealite](https://osu.ppy.sh/users/33526381) | *win by default* |
 
 Sunday, 17 March 2024:
+
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **[SadEgg](https://osu.ppy.sh/users/10278243)** ::{ flag=CA }:: | **5** | 0 | ::{ flag=ID }:: [BitDust](https://osu.ppy.sh/users/9573836) | [#1](https://osu.ppy.sh/community/matches/113110295) |
@@ -432,12 +447,14 @@ Sunday, 17 March 2024:
 ### Round of 32
 
 Friday, 8 March 2024:
+
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | [floflim](https://osu.ppy.sh/users/5954015) ::{ flag=FR }:: | 3 | **5** | ::{ flag=GB }:: **[kev aha x](https://osu.ppy.sh/users/19294472)** | [#1](https://osu.ppy.sh/community/matches/112990459) |
 | Lower | [TrussingOrca330](https://osu.ppy.sh/users/24449428) ::{ flag=NL }:: | 2 | **5** | ::{ flag=RU }:: **[2zz](https://osu.ppy.sh/users/8201267)** | [#1](https://osu.ppy.sh/community/matches/112986047) |
 
 Saturday, 9 March 2024:
+
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **[Mixuri](https://osu.ppy.sh/users/9153772)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=JP }:: [uni\_PF](https://osu.ppy.sh/users/11034769) | [#1](https://osu.ppy.sh/community/matches/112995764)() |
@@ -458,6 +475,7 @@ Saturday, 9 March 2024:
 | Lower | [sukidayo-](https://osu.ppy.sh/users/16870002) ::{ flag=SG }:: | 0 | **1** | ::{ flag=CL }:: **[MankekeOpeh](https://osu.ppy.sh/users/8112589)** | *win by default* |
 
 Sunday, 10 March 2024:
+
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | [David Podsiadlo](https://osu.ppy.sh/users/34040054) ::{ flag=PL }:: | 3 | **5** | ::{ flag=JP }:: **[giru HD](https://osu.ppy.sh/users/19294472)** | [#1](https://osu.ppy.sh/community/matches/113016352) |
@@ -475,6 +493,7 @@ Sunday, 10 March 2024:
 | Lower | [Underscorebaka](https://osu.ppy.sh/users/15295154) ::{ flag=GB }:: | 1 | **5** | ::{ flag=US }:: **[Dilly\_P](https://osu.ppy.sh/users/12907431)** | [#1](https://osu.ppy.sh/community/matches/113024653) |
 
 Monday, 11 March 2024:
+
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | [AlexFenom](https://osu.ppy.sh/users/20942650) ::{ flag=PT }:: | 0 | **5** | ::{ flag=DE }:: **[LwL](https://osu.ppy.sh/users/3556856)** | [#1](https://osu.ppy.sh/community/matches/113037623) |
@@ -482,6 +501,7 @@ Monday, 11 March 2024:
 ### Round of 64
 
 Friday, 1 March 2024:
+
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **[SadEgg](https://osu.ppy.sh/users/10278243)** ::{ flag=CA }:: | **5** | 0 | ::{ flag=JP }:: [Nyarlath0tep](https://osu.ppy.sh/users/22221875) | [#1](https://osu.ppy.sh/community/matches/112881786) |
@@ -489,6 +509,7 @@ Friday, 1 March 2024:
 | Upper | [1k1](https://osu.ppy.sh/users/10119963) ::{ flag=RU }:: | 1 | **5** | ::{ flag=NL }:: **[Fyunix](https://osu.ppy.sh/users/2503365)** | [#1](https://osu.ppy.sh/community/matches/112888291) |
 
 Saturday, 2 March 2024:
+
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **[Mixuri](https://osu.ppy.sh/users/9153772)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=US }:: [Knight--](https://osu.ppy.sh/users/13072326) | [#1](https://osu.ppy.sh/community/matches/112897354) |
@@ -510,6 +531,7 @@ Saturday, 2 March 2024:
 | Upper | **[giru HD](https://osu.ppy.sh/users/19294472)**  ::{ flag=JP }:: | **5** | 0 | ::{ flag=BR }:: [JESP2310](https://osu.ppy.sh/users/14729191) | [#1](https://osu.ppy.sh/community/matches/112912214) |
 
 Sunday, 3 March 2024:
+
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **[leaf89](https://osu.ppy.sh/users/19346652)** ::{ flag=MY }:: | **5** | 2 | ::{ flag=CA }:: [D o k a](https://osu.ppy.sh/users/19019806) | [#1](https://osu.ppy.sh/community/matches/112913744) |
@@ -531,49 +553,49 @@ Sunday, 3 March 2024:
 
 1. Matches are played in a 1v1 format.
 2. Map scoring is based on **[ScoreV2](/wiki/Gameplay/Score#scorev2).**
-3. Nofail will be enforced during matches and on every map.
-4. For the duration of the tournament, players must be in the discord server at all times.
+3. NoFail will be enforced during matches and on every map.
+4. For the duration of the tournament, players are required to be present in the Discord server at all times.
 5. The 64 players who have qualified from the qualifiers will compete against each other using the double-elimination bracket system.
 
 ### Tournament registration
 
 1. In order to participate, players are required to register for the tournament through [the tournament's website](https://wybin.xyz/tournaments/4dpt6/home).
-2. The player must be between the rank range of #1000 to #5000 until the end of registration. After the registration phase has ended, players are allowed to rank up out of the rank range.
-3. The player registering should not have any related 4 digit player touranemnt badges from past iterations. This rule is in place to ensure fairness and provide equal opportunities.
-4. Staff are allowed to play with the exception of Admins, Mappoolers and Custom Mappers. Eliminated players are eligible to be enlisted as Playtesters, Replay Creators and Referees as per the [Official Tourament Support](https://osu.ppy.sh/wiki/en/Tournaments/Official_support) page.
+2. Each player must be in between the rank range of #1,000 to #5,000 at the end of the registration period. After the registration has ended, players are allowed to rank up or down out of the rank range.
+3. Each player must not have any related 4-digit player tournament badges from past iterations. This rule is in place to ensure fairness and provide equal opportunities.
+4. Staff members are allowed to play with the exception of Admins, Mappoolers and Custom Mappers. Eliminated players are eligible to be enlisted as Playtesters, Replay Creators and Referees as per the [Official Tourament Support](https://osu.ppy.sh/wiki/en/Tournaments/Official_support) page.
 
-### Mappool Format
+### Mappool format
 
 1. This iteration features a Mystery Mod, which will be testing on niche skillsets that are not commonly seen in standardised mappools of Catch the Beat. Some examples of these skillsets could include EZ mod, Flashlight, Dodge the beat (DTB), sightreads and so on. It will be up to the creativity of the hosts, mappoolers, custom mappers to curate these skillsets for this particular mod.
-2. Mystery Mod will not be from another gamemode.
-3. The mappool format for each of the following rounds are as follows:
-- Qualifiers
-  - 3 NM, 2 HD, 2 HR, 2 DT
-- Round of 64, Round of 32 & Round of 16
-  - Best of 9, 1 Ban
-  - 4 NM, 3 HD, 3 HR, 3 DT, 1 Mystery, 1 TB
-- Quarter Finals
-  - Best of 11, 1 Ban
-  - 4 NM, 3 HD, 3 HR, 3 DT, 2 Mystery, 1 TB
-- Semi Finals
-  - Best of 11, 2 Bans
-  - 4 NM, 3 HD, 3 HR, 3 DT, 2 Mystery, 1 TB
-- Finals
-  - Best of 13, 2 Bans
-  - 4 NM, 4 HD, 4 HR, 4 DT, 2 Mystery, 1 TB
-- Grand Finals
-  - Best of 13, 2 Bans
-  - 4 NM, 4 HD, 4 HR, 4 DT, 2 Mystery, 1 TB
+2. The Mystery Mod pool will not feature maps that are from another osu! game mode.
+3. The mappool format and win condition for each of the following rounds are as follows:
+   - Qualifiers
+     - 3 NM, 2 HD, 2 HR, 2 DT
+   - Round of 64, Round of 32 & Round of 16
+     - Best of 9, 1 Ban
+     - 4 NM, 3 HD, 3 HR, 3 DT, 1 Mystery, 1 TB
+   - Quarterfinals
+   - Best of 11, 1 Ban
+   - 4 NM, 3 HD, 3 HR, 3 DT, 2 Mystery, 1 TB
+   - Semifinals
+     - Best of 11, 2 Bans
+     - 4 NM, 3 HD, 3 HR, 3 DT, 2 Mystery, 1 TB
+   - Finals
+     - Best of 13, 2 Bans
+     - 4 NM, 4 HD, 4 HR, 4 DT, 2 Mystery, 1 TB
+   - Grand Finals
+     - Best of 13, 2 Bans
+     - 4 NM, 4 HD, 4 HR, 4 DT, 2 Mystery, 1 TB
 
 ### Qualifiers
 
-1. Players will have to sign up for a Qualifier lobby that has been prepared by the tournament hosts listed on the [website](https://wybin.xyz/tournaments/4dpt6/schedule#qualifiers).
+1. Each player will have to sign up for a Qualifier lobby that has been prepared by the tournament management as listed on the [tournament's website](https://wybin.xyz/tournaments/4dpt6/schedule#qualifiers).
 2. Each Qualifier lobby can have a maximum of 16 partipants.
 3. Players are not allowed to ban any beatmaps in the Qualifiers.
 4. In the lobby, players will play through nine Qualifier beatmaps in the mod order of NM, HD, HR and DT.
 5. Players are to join their selected qualifiers lobby on time. In the event you are late to the lobby, you are allowed to reschedule to a later lobby.
 6. If said player joins their selected qualifiers lobby within the first run, they are allowed to play the remaining maps in the first run and the missed out maps as the second run.
-7. Between each map, all players have **120 seconds** to ready up.
+7. Between each map, players have **120 seconds** to ready up.
 8. An optional **120 seconds** break will be offered between the first and second run of the mappool.
 9. The second run is optional to all players.
 10. Players will be seeded based on the sum max system, with the top 64 players advancing to the knock-out stages.
@@ -605,12 +627,29 @@ Sunday, 3 March 2024:
 9. In the event of a tiebreaker, **the tiebreaker beatmap will be played using Hidden or NoMod depending on the player's choice**.
 
 ### Scheduling Rules
-1. The hosts will schedule a time for the match. It will take place on a Friday/Weekend unless a special request is to be played Midweek.
-2. In the event that you are unable to make it for your scheduled time, contact your opponent andd apply for a reschedule at the `#reschedule` channel in the tournament's Discord server. Screenshot is required for valid reschedule proof.
-3. Maximum Reschedule time is **6 hours** before your match. For an emergency reschedule or late schedule, it may not be accepted depending on host and referee availability and discretion.
+
+1. The hosts will pre-determine a scheduled time for the matches, which will all take place on a Friday or a weekend day unless a special request is placed in advance for a match to be played mid-week.
+2. In the event that a player is unable to make it for your scheduled time, said player is advised to contact their opponent and apply for a reschedule at the `#reschedule` channel in the tournament's Discord server. Screenshot is required for valid reschedule proof.
+3. Reschedules have to be agreed on at most **6 hours** before the commenced match time. Emergency and late reschedules may or may not be accepted depending on the hosts' and the referee's availability and discretion.
 
 ## Notes
 
-[^sightreading] Placeholder map for sightread during the stream and showcase.
+[^easy]: This map is played with the [Easy](/wiki/Gameplay/Game_modifier/Easy) mod enabled.
 
-[^tester] Enlisted as map tester after being knocked out in Semifinals.
+[^dtb]: This map is played under a specific win condition in which the player with the lowest score wins.
+
+[^accuracy]: This map is played under the [Accuracy win condition](/wiki/Client/Interface/Multiplayer#match-settings).
+
+[^flashlight]: This map is played with the [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) mod enabled.
+
+[^sightreading]: Maps for this slot were revealed upon being picked at the match.
+
+[^cs]: This map is played under a specific condition in which the [circle size](/wiki/Client/Interface/Multiplayer#match-settings) exceeds the usual number in standard mappools.
+
+[^spinner]: This map features a heavy focus on spinners.
+
+[^hrdt]: This map is played with both [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) and [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) mods enabled.
+
+[^contb]: This map features a convert(/wiki/Beatmap/Converts) in which its length is similar to a tiebreaker.
+
+[^tester]: This player was brought in as a map tester after being knocked out in the bracket stage.
