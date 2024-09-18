@@ -125,15 +125,15 @@ As seed #13, it was already a good result for Japan to arrive to the top 8. Now 
 
 ## Score highlights
 
-The third to last round ended a few days ago, and with that, the finals grow ever so closer. To the layman, the maps are starting to become nigh unreadable. Yet that's not stopping our players from pulling up Herculean stunts such as their scores suggest!
+The third to last round ended a few days ago, and with that, the finals grow ever closer. To the layman, the maps are starting to become nigh unreadable, but that has yet to stop our players from pulling up Herculean scores!
 
-- It's no surprise to see ::{ flag=CL }:: [myucchi](https://osu.ppy.sh/users/10072733) being highlighted again. Their performance throughout the tournament has simply been stellar. Their play on [yuikonnu - Uchouten Vivace (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2246331#mania/4775902) by [Miaurichesu](https://osu.ppy.sh/users/10055648) (RC2) isn't any different however, achieving a score of 999,649 [against the United States](https://www.twitch.tv/videos/2251402252).
-- ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267) may be a new name being highlighted, but the community already knows what they're capable of. They managed to score one of the highest combined total scores from three separate LN picks. Their peak performance was seen with their score of 995,993 in [Hino Isuka - Dreamin' attraction!!](https://osu.ppy.sh/beatmapsets/2246225#mania/4775650) (LN2) by [Toaph Daddy](https://osu.ppy.sh/users/7616811) [versus South Korea](https://www.twitch.tv/videos/2251727183).
-
-We're nearing the very last stretch of the tournament. As both Finals and Grand Finals loom by, we're reaching the apex difficulty of this year's tournament. But will the scores of a few be able to turn the tides in favour of their team? We'll know the answer this week!
+- It's no surprise to see ::{ flag=CL }:: [myucchi](https://osu.ppy.sh/users/10072733) highlighted again. Their performance throughout the tournament has simply been stellar. Their play on [yuikonnu - Uchouten Vivace (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2246331#mania/4775902) by [Miaurichesu](https://osu.ppy.sh/users/10055648) (RC2) isn't any different however, achieving a score of 999,649 [against the United States](https://www.twitch.tv/videos/2251402252).
+- ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267) may be a new name in the spotlight, but the community already knows what they're capable of. They managed to score one of the highest combined total scores from three separate LN picks. Their peak performance was seen with their score of 995,993 in [Hino Isuka - Dreamin' attraction!!](https://osu.ppy.sh/beatmapsets/2246225#mania/4775650) (LN2) by [Toaph Daddy](https://osu.ppy.sh/users/7616811) [versus South Korea](https://www.twitch.tv/videos/2251727183).
 
 ---
 
-The tournament is slowly coming to a close, but that doesn't mean it's too late to join the community on the [osu!live Twitch channel](https://www.twitch.tv/osulive) and cheer on your favourite teams live! If you need help choosing which match to watch, the [wiki page](/wiki/Tournaments/MWC/2024_4K) contains the full schedule, along with any other details you might require to fully immerse yourself in the key smashing showdown.
+We're nearing the very last stretch of the tournament. As both Finals and Grand Finals loom by, we're reaching the apex difficulty of this year's tournament. Will the scores of a few be able to turn the tides in favour of their team? We'll know the answer this weekend!
+
+And even though the tournament is slowly coming to a close, that doesn't mean it's too late to join the community on the [osu!live Twitch channel](https://www.twitch.tv/osulive) and cheer on your favourite teams live! If you need help choosing which matches to watch, the [wiki page](/wiki/Tournaments/MWC/2024_4K) contains the full schedule, along with any other details you might require to fully immerse yourself in the key smashing showdown.
 
 —0x84f, elexire, RandomeLoL, Utiba, \[GB\]yobrevelc
