@@ -8,7 +8,7 @@ While the seasons drifted over our heads, mappers and musicians were busy compet
 
 ![](https://assets.ppy.sh/contests/211/banner.jpg)
 
-If you don't recall, in [Kyoku](/wiki/Contests/Kyoku/2024) was a contest where teams of mappers and music producers needed to work together and collaborate on creating both a brand-new original song, *and* a beatmap to go along with it. Inspired by [BMS OF FIGHTERS](https://www.bmsoffighters.net/), the contest [kicked off starting with registrations in April](https://osu.ppy.sh/home/news/2024-05-10-kyoku-original-song-and-beatmapping-contest) and teams have spent the last **3 months** crafting their own works of art, all for a chance for become the top team and win both a prestigious badge, along with highly sought-after [contest points](/wiki/Contests/Contest_points).
+If you don't recall, [Kyoku](/wiki/Contests/Kyoku/2024) was a contest where teams of mappers and music producers needed to work together and collaborate on creating both a brand-new original song, *and* a beatmap to go along with it. Inspired by [BMS OF FIGHTERS](https://www.bmsoffighters.net/), the contest [kicked off starting with registrations in April](https://osu.ppy.sh/home/news/2024-05-10-kyoku-original-song-and-beatmapping-contest) and teams have spent the last **3 months** crafting their own works of art, all for a chance for become the top team and win both a prestigious badge, along with highly sought-after [contest points](/wiki/Contests/Contest_points).
 
 With 33 total entries the competition was fierce, and the judges had a lot of work ahead of them. After much deliberation, the dust has settled, and we are proud to present the top 3 entries.
 
