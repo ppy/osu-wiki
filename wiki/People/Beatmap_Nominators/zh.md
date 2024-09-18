@@ -229,7 +229,6 @@ BN 可获得以下特权：
 | ::{ flag=KR }:: [Murumoo](https://osu.ppy.sh/users/8001433) | 韩语 |
 | ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | 荷兰语 |
 | ::{ flag=KR }:: [Niks](https://osu.ppy.sh/users/3037469) | 韩语 |
-| ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) | 西班牙语 |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | 加利西亚语，意大利语，日语，西班牙语，葡萄牙语 |
 | ::{ flag=IT }:: [Relae](https://osu.ppy.sh/users/14455536) | 印度尼西亚语 |
 | ::{ flag=ID }:: [Rivals\_7](https://osu.ppy.sh/users/4610379) | 印度尼西亚语 |

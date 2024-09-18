@@ -229,7 +229,6 @@ Bảng dưới đây liệt kê từng game mode và Đề cử viên thuộc ga
 | ::{ flag=KR }:: [Murumoo](https://osu.ppy.sh/users/8001433) | Tiếng Hàn |
 | ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | Tiếng Hà Lan |
 | ::{ flag=KR }:: [Niks](https://osu.ppy.sh/users/3037469) | Tiếng Hàn |
-| ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) | Tiếng Tây Ban Nha |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | Tiếng Galician, Tiếng Italy, Tiếng Nhật, Tiếng Tây Ban Nha, Tiếng Bồ Đào Nha |
 | ::{ flag=IT }:: [Relae](https://osu.ppy.sh/users/14455536) | Tiếng Indonesia |
 | ::{ flag=ID }:: [Rivals\_7](https://osu.ppy.sh/users/4610379) | Tiếng Indonesia |

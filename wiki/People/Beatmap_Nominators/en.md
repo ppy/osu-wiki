@@ -230,7 +230,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=KR }:: [Murumoo](https://osu.ppy.sh/users/8001433) | Korean |
 | ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | Dutch |
 | ::{ flag=KR }:: [Niks](https://osu.ppy.sh/users/3037469) | Korean |
-| ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) | Spanish |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | Galician, Italian, Japanese, Spanish, Portuguese |
 | ::{ flag=IT }:: [Relae](https://osu.ppy.sh/users/14455536) | Indonesian |
 | ::{ flag=ID }:: [Rivals\_7](https://osu.ppy.sh/users/4610379) | Indonesian |

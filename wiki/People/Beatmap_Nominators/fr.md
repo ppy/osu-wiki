@@ -231,7 +231,6 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 | ::{ flag=KR }:: [Murumoo](https://osu.ppy.sh/users/8001433) | Coréen |
 | ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | Néerlandais |
 | ::{ flag=KR }:: [Niks](https://osu.ppy.sh/users/3037469) | Coréen |
-| ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) | Espagnol |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | Galicien, italien, japonais, espagnol, portugais |
 | ::{ flag=IT }:: [Relae](https://osu.ppy.sh/users/14455536) | Indonésien |
 | ::{ flag=ID }:: [Rivals\_7](https://osu.ppy.sh/users/4610379) | Indonésien |
