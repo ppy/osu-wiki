@@ -54,6 +54,9 @@ Les points de concours ont été utilisés pour les concours suivants :
 | ::{ flag=PL }:: [Kalibe](https://osu.ppy.sh/users/3376777) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=US }:: [UndeadCapulet](https://osu.ppy.sh/users/2523533) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=EE }:: [iljaaz](https://osu.ppy.sh/users/8501291) | 2 | [Twin Trials](/wiki/Contests/Twin_Trials_Contest) |
+| ::{ flag=DE }:: [Lulu-](https://osu.ppy.sh/users/4201715) | 2 | [Kyoku 2024](/wiki/Contests/Kyoku/2024) |
+| ::{ flag=DE }:: [Slifer](https://osu.ppy.sh/users/15084122) | 2 | [Kyoku 2024](/wiki/Contests/Kyoku/2024) |
+| ::{ flag=FR }:: [Halgoh](https://osu.ppy.sh/users/4109923) | 2 | [Kyoku 2024](/wiki/Contests/Kyoku/2024) |
 | ::{ flag=CN }:: [Moecho](https://osu.ppy.sh/users/5075660) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=GB }:: [Altai](https://osu.ppy.sh/users/5745865) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=CN }:: [fanzhen0019](https://osu.ppy.sh/users/418699) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
@@ -65,6 +68,12 @@ Les points de concours ont été utilisés pour les concours suivants :
 | ::{ flag=PH }:: [LeCandy](https://osu.ppy.sh/users/6626249) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=US }:: [Nuolong](https://osu.ppy.sh/users/4732455) | 1 | [VMC2](/wiki/Contests/VMC/2) |
 | ::{ flag=US }:: [mintIceCream_](https://osu.ppy.sh/users/13221589) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=CL }:: [\[-Evil-\]](https://osu.ppy.sh/users/10234313) | 1 | [Kyoku 2024](/wiki/Contests/Kyoku/2024) |
+| ::{ flag=CL }:: [Mysty](https://osu.ppy.sh/users/10210657) | 1 | [Kyoku 2024](/wiki/Contests/Kyoku/2024) |
+| ::{ flag=DE }:: [Le Mirai](https://osu.ppy.sh/users/13646997) | 1 | [Kyoku 2024](/wiki/Contests/Kyoku/2024) |
+| ::{ flag=DE }:: [Omekyu](https://osu.ppy.sh/users/14348073) | 1 | [Kyoku 2024](/wiki/Contests/Kyoku/2024) |
+| ::{ flag=AT }:: [hakashii](https://osu.ppy.sh/users/11688893) | 1 | [Kyoku 2024](/wiki/Contests/Kyoku/2024) |
+| ::{ flag=FI }:: [Nihkee](https://osu.ppy.sh/users/14244740) | 1 | [Kyoku 2024](/wiki/Contests/Kyoku/2024) |
 
 ### osu!taiko
 
