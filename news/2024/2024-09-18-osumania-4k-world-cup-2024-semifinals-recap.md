@@ -40,6 +40,10 @@ To explain the pool difficulty (and what exactly LN4 is), it's best to let the T
     </audio>
 </div>
 
+[Vortex-](https://osu.ppy.sh/users/4999669) has had a following for a long time, and after going over a year without any new uploads, he makes a return with [Hubris](https://osu.ppy.sh/beatmapsets/2246389#mania/4776009) by [kaitendaentai](https://osu.ppy.sh/beatmaps/artists/364)!
+
+Taking up the final rice slot, it takes on a similar approach for what we've seen in previous rounds, where it's heavy on 1/4 jumpstream and has scary bursts. The bursts are all over the place, ranging from short 1/6 streams or 1/3 jack-heavy sections. Anyone whose enjoyed a Vortex- chart in the past will be sure to enjoy this one.
+
 [![](/wiki/shared/news/2024-09-18-osumania-4k-world-cup-2024-semifinals-recap/void_of_altair.jpg)](https://osu.ppy.sh/beatmapsets/2246375#mania/4775984)
 
 <div class="osu-md__paragraph">
@@ -48,6 +52,10 @@ To explain the pool difficulty (and what exactly LN4 is), it's best to let the T
     </audio>
 </div>
 
+Our second original lands in the hybrid category. Charted by [gzdongsheng](https://osu.ppy.sh/users/8660315), we're brought [Void Of Altair](https://osu.ppy.sh/beatmapsets/2246375#mania/4775984) by our own mania player, [Akiri](https://osu.ppy.sh/users/19587411)!
+
+With Akiri already having a large amount of originals in their catalogue, you can expect no less from this one. Being very minijack and jack heavy overall, you're thrown a heavy amount of shields, calling for a great challenge to those with good finger control, especially when having to balance out the 1/8 snaps between some long notes.
+
 [![](/wiki/shared/news/2024-09-18-osumania-4k-world-cup-2024-semifinals-recap/dear_the_night_i_loved.jpg)](https://osu.ppy.sh/beatmapsets/2246380#mania/4775997)
 
 <div class="osu-md__paragraph">
@@ -55,14 +63,6 @@ To explain the pool difficulty (and what exactly LN4 is), it's best to let the T
         <source src="https://assets.ppy.sh/artists/345/Songs/Kabocha_feat._Aitsuki_Nakuru_-_Dear_The_Night_I_Loved.mp3">
     </audio>
 </div>
-
-[Vortex-](https://osu.ppy.sh/users/4999669) has had a following for a long time, and after going over a year without any new uploads, he makes a return with [Hubris](https://osu.ppy.sh/beatmapsets/2246389#mania/4776009) by [kaitendaentai](https://osu.ppy.sh/beatmaps/artists/364)!
-
-Taking up the final rice slot, it takes on a similar approach for what we've seen in previous rounds, where it's heavy on 1/4 jumpstream and has scary bursts. The bursts are all over the place, ranging from short 1/6 streams or 1/3 jack-heavy sections. Anyone whose enjoyed a Vortex- chart in the past will be sure to enjoy this one.
-
-Our second original lands in the hybrid category. Charted by [gzdongsheng](https://osu.ppy.sh/users/8660315), we're brought [Void Of Altair](https://osu.ppy.sh/beatmapsets/2246375#mania/4775984) by our own mania player, [Akiri](https://osu.ppy.sh/users/19587411)!
-
-With Akiri already having a large amount of originals in their catalogue, you can expect no less from this one. Being very minijack and jack heavy overall, you're thrown a heavy amount of shields, calling for a great challenge to those with good finger control, especially when having to balance out the 1/8 snaps between some long notes.
 
 Last, but CERTAINLY not least, [Kabocha](https://osu.ppy.sh/beatmaps/artists/345) and incredible vocalist [Aitsuki Nakuru](https://osu.ppy.sh/beatmaps/artists/127) bring [Dear The Night I Loved](https://osu.ppy.sh/beatmapsets/2246380#mania/4775997) charted by [-mint-](https://osu.ppy.sh/users/8976576) and [MyZterioN-](https://osu.ppy.sh/users/8976576)!
 
