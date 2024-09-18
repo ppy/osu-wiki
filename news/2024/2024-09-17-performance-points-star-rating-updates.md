@@ -16,10 +16,6 @@ If you find yourself scratching your head when reading, consider consulting the 
 
 <!-- todo -->
 
-## osu!catch performance points committee
-
-Since the last performance points post, osu!catch has now formed its own Performance Points Committee to help out with osu!catch related changes. You can find out more about the various committees on their [wiki page](/wiki/People/Performance_Points_Committee).
-
 ---
 
 ## osu! changes
@@ -99,6 +95,10 @@ To solve this, we can leverage the fact that tapping error is almost always norm
 On a side note, the osu!taiko performance points committee is aware of the feedback, both positive and negative, surrounding the new system over the past couple of years. We value the community's input and are continuously working to improve. There are significant changes on the horizon, such as the introduction of the pattern skill (rhythm within colour, and colour within rhythm) as well as performance-related changes. If you’d like to contribute to future changes, feel free to join the discussion on our [Performance Points Discord server](https://discord.gg/aqPCnXu).
 
 ## osu!catch changes
+
+### osu!catch performance points committee
+
+Since the last performance points post, osu!catch has now formed its own Performance Points Committee to help out with osu!catch related changes. You can find out more about the various committees on their [wiki page](/wiki/People/Performance_Points_Committee).
 
 ### No fail changes
 
