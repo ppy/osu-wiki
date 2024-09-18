@@ -8,9 +8,9 @@ While the seasons drifted over our heads, mappers and musicians were busy compet
 
 ![](https://assets.ppy.sh/contests/211/banner.jpg)
 
-If you don't recall, [Kyoku](/wiki/Contests/Kyoku/2024) was a contest where teams of mappers and music producers needed to work together and collaborate on creating both a brand-new original song, *and* a beatmap to go along with it. Inspired by [BMS OF FIGHTERS](https://www.bmsoffighters.net/), teams have spent the last **3 months** crafting their own works of art, all for a chance for become the top team and win both a prestigious badge, along with highly sought-after [contest points](/wiki/Contests/Contest_points).
+If you don't recall, in [Kyoku](/wiki/Contests/Kyoku/2024) was a contest where teams of mappers and music producers needed to work together and collaborate on creating both a brand-new original song, *and* a beatmap to go along with it. Inspired by [BMS OF FIGHTERS](https://www.bmsoffighters.net/), the contest [kicked off starting with registrations in April](https://osu.ppy.sh/home/news/2024-05-10-kyoku-original-song-and-beatmapping-contest) and teams have spent the last **3 months** crafting their own works of art, all for a chance for become the top team and win both a prestigious badge, along with highly sought-after [contest points](/wiki/Contests/Contest_points).
 
-With 76 total entries (resulting in 33 submitted entries) the competition was fierce, and the judges had a lot of work ahead of them. After much deliberation, the dust has settled, and we are proud to present the top 3 entries.
+With 33 total entries the competition was fierce, and the judges had a lot of work ahead of them. After much deliberation, the dust has settled, and we are proud to present the top 3 entries.
 
 ## Winners
 
@@ -36,7 +36,7 @@ Congratulations to Zero Blunders for managing to lock in a total score of **86.0
 
 ### 1st place - cosmo/LOGIΛ
 
-Team cosmo/LOGIΛ have managed to concoct what can best be described as a Grand Finals Tiebreaker map on steroids. [Stellar Evolution](https://osu.ppy.sh/beatmapsets/2242303) from [airlemoneX](https://soundcloud.com/airlemonex) has hints of [Camellia](https://osu.ppy.sh/beatmaps/artists/31) as the inspiration behind the track, with expert mappers [Lulu-](https://osu.ppy.sh/users/4201715), [Slifer](https://osu.ppy.sh/users/15084122) and [Halgoh](https://osu.ppy.sh/users/4109923) fully playing into it with a focus on visuals that do not compromise gameplay.
+Team cosmo/LOGIΛ have managed to concoct what can best be described as a Grand Finals Tiebreaker map on steroids. [Stellar Evolution](https://osu.ppy.sh/beatmapsets/2242303) from [airlemoneX](https://soundcloud.com/airlemonex) has hints of [Camellia](https://osu.ppy.sh/beatmaps/artists/31) as the inspiration behind the track, with expert mappers [Lulu-](https://osu.ppy.sh/users/4201715), [Slifer](https://osu.ppy.sh/users/15084122) and [Halgoh](https://osu.ppy.sh/users/4109923) fully playing into it with a focus on visuals that complement gameplay.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://assets.ppy.sh/media/news/kyoku-2024-1st-place.mp4" frameborder="0" allowfullscreen></iframe>
