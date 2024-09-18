@@ -165,14 +165,14 @@ osu! organises the commands with a heading command. Which may look like this `[G
     - After exporting the skin, the filename is `<Name>.osk`.
       - In [osu!(lazer)](/wiki/Client/Release_stream/Lazer), the filename is `<Name> (<Author>).osk`.
     - The skin selector uses folder names, not the names given by this option.
-      - In [osu!(lazer)](/wiki/Client/Release_stream/Lazer), the skin selector uses the name and author from `skin.ini`, as well as the folder name if it differs from the skin's name.
+      - In [osu!(lazer)](/wiki/Client/Release_stream/Lazer), the skin selector options are in the format `<Name> (<Author>)`, or `<Name> [<.osk filename>] (<Author>)` if the name in `skin.ini` differs from the name of the `.osk` file.
 - `Author:`
   - Question: Who is the author of this skin?
   - Value: text *(skin creator)*
   - Default: *(empty)*
   - Notes:
     - In [osu!(lazer)](/wiki/Client/Release_stream/Lazer), after exporting the skin, the filename is `<Name> (<Author>).osk`.
-    - In [osu!(lazer)](/wiki/Client/Release_stream/Lazer), the skin selector uses the name and author from `skin.ini`, as well as the folder name if it differs from the skin's name.
+    - In [osu!(lazer)](/wiki/Client/Release_stream/Lazer), the skin selector options are in the format `<Name> (<Author>)`, or `<Name> [<.osk filename>] (<Author>)` if the name in `skin.ini` differs from the name of the `.osk` file.
 - `Version:`
   - Question: How should the skin behave?
   - Value: A [version number](/wiki/Skinning/skin.ini#versions) or `latest`
