@@ -26,7 +26,7 @@ Congratulations to Team RGB as they scored themselves 3rd place with a final sco
 
 ### 2nd place - Zero Blunders
 
-Team Zero Blunders has put their best foot forward in this contest with a genre mash-up song featuring many osu! references. [*who's afraid?*](https://osu.ppy.sh/beatmapsets/2242420#osu/4766280) by fur:trash (a.k.a. [Nihkee](https://osu.ppy.sh/users/14244740) on osu!) offers many chances for [Mysty](https://osu.ppy.sh/users/10210657), [Le Mirai](https://osu.ppy.sh/users/13646997), [hakashii](https://osu.ppy.sh/users/11688893) and [[-Evil-]](https://osu.ppy.sh/users/10234313) to express their mapping ideas via music genres such as dariacore, dubstep and hyperpop, creating a balanced map that is both fun to look at and play.
+Team Zero Blunders has put their best foot forward in this contest with a genre mash-up song featuring many osu! references. [*who's afraid?*](https://osu.ppy.sh/beatmapsets/2242420#osu/4766280) by fur:trash (a.k.a. [Nihkee](https://osu.ppy.sh/users/14244740) on osu!) offers many chances for [Mysty](https://osu.ppy.sh/users/10210657), [Le Mirai](https://osu.ppy.sh/users/13646997), [hakashii](https://osu.ppy.sh/users/11688893), [Omekyu](https://osu.ppy.sh/users/14348073s) and [[-Evil-]](https://osu.ppy.sh/users/10234313) to express their mapping ideas via music genres such as dariacore, dubstep and hyperpop, creating a balanced map that is both fun to look at and play.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://assets.ppy.sh/media/news/kyoku-2024-2nd-place.mp4" frameborder="0" allowfullscreen></iframe>
