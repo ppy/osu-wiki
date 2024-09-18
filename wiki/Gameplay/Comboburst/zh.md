@@ -9,7 +9,7 @@ tags:
 
 # 连击提示图
 
-**连击提示图** (**Combo bursts**) 会在达成[连击里程碑](/wiki/Gameplay/Combo_milestone)时闪动。不同游戏模式使用的连击提示图也不同。
+当玩家的连击数到达一定数量（又称[连击里程碑](/wiki/Gameplay/Combo_milestone)）时，**连击提示图** (**Combo bursts**) 会闪烁。不同游戏模式使用的连击提示图也不同。
 
 - 在 [osu!](/wiki/Game_mode/osu!) 与 [osu!catch](/wiki/Game_mode/osu!catch) 模式中，一个动画人物会从屏幕左右两侧中的一侧跳出，默认情况下分别是 [pippi](/wiki/Mascots#pippi) 与 [Yuzu](/wiki/Mascots#yuzu)。
 - 在 [osu!taiko](/wiki/Game_mode/osu!taiko) 模式中，[pippidon](/wiki/Mascots#don) 身后会爆出一堆花朵。
