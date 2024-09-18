@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Kyoku: Original Song & Beatmapping Contest - Results"
+title: "Kyoku 2024 Results"
 date: 2024-09-19 19:30:00 +0000
 ---
 
-Kyoku has concluded, so it's time to look at the final results, and check out all the amazing work by both musicians and mappers alike.
+While the seasons drifted over our heads, mappers and musicians were busy competing to create the greatest beatmaps of their own creation.
 
 ![](https://assets.ppy.sh/contests/211/banner.jpg)
 
@@ -26,7 +26,7 @@ Congratulations to Team RGB as they scored themselves 3rd place with a final sco
 
 ### 2nd place - Zero Blunders
 
-Team Zero Blunders has put their best foot forward in this contest with a genre mash-up song featuring many osu! references. [*who's afraid?*](https://osu.ppy.sh/beatmapsets/2242420#osu/4766280) by fur:trash (also known as [Nihkee](https://osu.ppy.sh/beatmapsets/2242420#osu/4766280)) offers many chances for [Mysty](https://osu.ppy.sh/users/10210657), [Le Mirai](https://osu.ppy.sh/users/13646997), [hakashii](https://osu.ppy.sh/users/11688893) & [[-Evil-]](https://osu.ppy.sh/users/10234313) to express their mapping ideas through music genres such as dariacore, dubstep & hyperpop, creating a balanced map that is both fun to look at and play.
+Team Zero Blunders has put their best foot forward in this contest with a genre mash-up song featuring many osu! references. [*who's afraid?*](https://osu.ppy.sh/beatmapsets/2242420#osu/4766280) by fur:trash (a.k.a. [Nihkee](https://osu.ppy.sh/users/14244740) on osu!) offers many chances for [Mysty](https://osu.ppy.sh/users/10210657), [Le Mirai](https://osu.ppy.sh/users/13646997), [hakashii](https://osu.ppy.sh/users/11688893) and [[-Evil-]](https://osu.ppy.sh/users/10234313) to express their mapping ideas via music genres such as dariacore, dubstep and hyperpop, creating a balanced map that is both fun to look at and play.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://assets.ppy.sh/media/news/kyoku-2024-2nd-place.mp4" frameborder="0" allowfullscreen></iframe>
@@ -48,10 +48,10 @@ With a final score of **88.25**, cosmo/LOGIΛ have managed to achieve first plac
 
 ## Submissions
 
-It is highly recommended that you check out all the entries as every single team put blood, sweat and tears into their submissions. You can either check out the full VOD from the results reveal below, or check out and download individual submissions and give them a rating yourself.
+Every entry deserves your attention for the monumental amount of effort and late nights put into each and every song and map. You can either check out the full VOD from the results reveal below, or download the individual submissions and give them a rating yourself.
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/kzsxu8254u4" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/kzsxu8254u4?start=56" frameborder="0" allowfullscreen></iframe>
 </div>
 
 | # | Score | Team name | Song | Beatmap |
@@ -93,6 +93,6 @@ It is highly recommended that you check out all the entries as every single team
 
 ---
 
-Thank you to all the organizers, helpers, and participants for taking part of this one-of-a-kind event and creating a huge amount of original, high quality content for the community to enjoy.
+Thank you to all the organisers, helpers, and participants for taking part of this one-of-a-kind event and creating a huge amount of original, high-quality content for the community to enjoy.
 
 —0x84f
