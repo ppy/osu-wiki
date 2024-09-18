@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kyoku 2024 Results"
+title: Kyoku 2024 Results
 date: 2024-09-19 19:30:00 +0000
 ---
 
