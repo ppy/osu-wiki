@@ -17,12 +17,18 @@
 
 | Ranking | Prizes |
 | :-- | :-- |
-| Winning team | $100 USD + profile badge (pending) + [contest points](/wiki/Contests/Contest_points) |
+| Winning team | $100 USD + profile badge + 2 [contest points](/wiki/Contests/Contest_points) |
+| 2nd place | 1 contest point |
+
+![Kyoku 2024 winner's badge](img/badge.png)
 
 ## Links
 
 - [Contest listing](https://osu.ppy.sh/community/contests/211)
 - [Contest announcement](https://osu.ppy.sh/home/news/2024-05-10-kyoku-original-song-and-beatmapping-contest)
+- Results announcement
+  - [News post](https://osu.ppy.sh/home/news/2024-09-19-kyoku-2024-results)
+  - [YouTube video](https://www.youtube.com/watch?v=kzsxu8254u4)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1906442)
 - [Information document](https://docs.google.com/document/d/1DjLQN0wWzT25un9fUei9jmZqZdJ8Euvelf6Hgk0R4A0/view)
 - [Discord server](https://discord.com/invite/XPUPjFamuU)
