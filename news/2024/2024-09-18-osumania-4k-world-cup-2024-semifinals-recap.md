@@ -4,13 +4,15 @@ title: "osu!mania 4K World Cup 2024: Semifinals Recap"
 date: 2024-09-18 21:30:00 +0000
 ---
 
-The walls are slowly closing in for the remainder teams, and only the top 6 are making it to the Finals. It's time to lock in, review the previous week, and prepare thy selves for the upcoming showdown of epic proportions.
+The walls are slowly closing in for the remaining teams, and only the top 6 are making it to the Finals. It's time to lock in, review the previous week, and prepare ourselves for the upcoming showdown of epic proportions.
 
 ![](/wiki/Tournaments/MWC/2024_4K/img/mwc4k2024-banner.jpg)
 
-At this point in the tournament, teams cannot get away with just raw skill, they must watch and analyse their opponents, and make sure they make all the right moves at any given point. Matches slowly turn into masterful showcases of not just skill, but the team's knowledge of the opposing team and their strengths and weaknesses. Each match is played like a delicate dance of tango, where nothing but perfect strategy and execution leads to a victory, with teams constantly looking for any smallest missteps by their opponents.
+At this point in the tournament, teams cannot get away with just raw skill. They must watch and analyse their opponents and make sure they make all the right moves at any given point.
 
-Let us ponder no more and take a look at the best matches of this week, and see whether teams were doing the tango, or stumbled throughout their matches.
+Matches slowly turn into masterful showcases of not just skill, but the team's knowledge of the opposing team and their strengths and weaknesses. Each match is played like a delicate dance of tango, where nothing but perfect strategy and execution leads to victory, with teams constantly looking for any smallest missteps by their opponents.
+
+Let us ponder no more and take a look at the best matches of this week, where we'll see which teams stepped best to the beat, and which teams stumbled to their feet.
 
 ## Mappool showcase
 
@@ -26,11 +28,11 @@ Let us ponder no more and take a look at the best matches of this week, and see 
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2246114290&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-With Semifinals comes the second and last time we see two new slots put into the mix, first being Stamina (RC3), with [Black Chocolates](https://osu.ppy.sh/beatmapsets/1433708#mania/3401103) By [Shoegazer](https://osu.ppy.sh/users/2520707). The stamina pick is usually similar to the Jumpstream pick, with the big difference being that it plays differently and goes on for much longer, which is a large reason why it's named Stamina in the first place.
+With Semifinals comes the second and last time we see two new slots put into the mix, first being stamina (RC3), with [Black Chocolates](https://osu.ppy.sh/beatmapsets/1433708#mania/3401103) by [Shoegazer](https://osu.ppy.sh/users/2520707). The stamina pick is usually similar to the jumpstream pick, with the big difference being that it plays differently and goes on for much longer, which is a large reason why it's named stamina in the first place.
 
-The final new slot is LN4, which is made to contrast LN3, which in this case was [AZISAI](https://osu.ppy.sh/beatmapsets/2246365#mania/4775956) by [lemonguy](https://osu.ppy.sh/users/4693052), being very shield-heavy for this specific round.
+The final new slot is LN4, which is made to contrast [lemonguy](https://osu.ppy.sh/users/4693052)'s chart of [AZISAI](https://osu.ppy.sh/beatmapsets/2246365#mania/4775956) for LN3, which itself is very shield-heavy for this specific round.
 
-To explain the pool difficulty (and what exactly LN4 is), it's best to let the THREE new originals from this round do the talking!
+To explain the pool difficulty (and what exactly LN4 is), it's best to let the **3 new [originals](/wiki/osu!_originals)** from this round do the talking!
 
 [![](/wiki/shared/news/2024-09-18-osumania-4k-world-cup-2024-semifinals-recap/hubris.jpg)](https://osu.ppy.sh/beatmapsets/2246389#mania/4776009)
 
@@ -42,7 +44,7 @@ To explain the pool difficulty (and what exactly LN4 is), it's best to let the T
 
 [Vortex-](https://osu.ppy.sh/users/4999669) has had a following for a long time, and after going over a year without any new uploads, he makes a return with [Hubris](https://osu.ppy.sh/beatmapsets/2246389#mania/4776009) by [kaitendaentai](https://osu.ppy.sh/beatmaps/artists/364)!
 
-Taking up the final rice slot, it takes on a similar approach for what we've seen in previous rounds, where it's heavy on 1/4 jumpstream and has scary bursts. The bursts are all over the place, ranging from short 1/6 streams or 1/3 jack-heavy sections. Anyone whose enjoyed a Vortex- chart in the past will be sure to enjoy this one.
+Taking up the final rice slot, it takes on a similar approach for what we've seen in previous rounds, where it's heavy on 1/4 jumpstream and has scary bursts. The bursts are all over the place, ranging from short 1/6 streams or 1/3 jack-heavy sections. Anyone who's enjoyed a Vortex- chart in the past will be sure to enjoy this one.
 
 [![](/wiki/shared/news/2024-09-18-osumania-4k-world-cup-2024-semifinals-recap/void_of_altair.jpg)](https://osu.ppy.sh/beatmapsets/2246375#mania/4775984)
 
@@ -52,9 +54,9 @@ Taking up the final rice slot, it takes on a similar approach for what we've see
     </audio>
 </div>
 
-Our second original lands in the hybrid category. Charted by [gzdongsheng](https://osu.ppy.sh/users/8660315), we're brought [Void Of Altair](https://osu.ppy.sh/beatmapsets/2246375#mania/4775984) by our own mania player, [Akiri](https://osu.ppy.sh/users/19587411)!
+Our second original lands in the hybrid category. Charted by [gzdongsheng](https://osu.ppy.sh/users/8660315), we're brought [Void Of Altair](https://osu.ppy.sh/beatmapsets/2246375#mania/4775984) by resident osu!mania player [Akiri](https://osu.ppy.sh/users/19587411)!
 
-With Akiri already having a large amount of originals in their catalogue, you can expect no less from this one. Being very minijack and jack heavy overall, you're thrown a heavy amount of shields, calling for a great challenge to those with good finger control, especially when having to balance out the 1/8 snaps between some long notes.
+With Akiri already having a large amount of originals in their catalogue, you can expect no less from this one. Leaning heavily on minijacks and jacks, with a copious amount of shields thrown your way for good measure and some 1/8 snaps between LNs to throw you off, this chart challenges those with good finger control.
 
 [![](/wiki/shared/news/2024-09-18-osumania-4k-world-cup-2024-semifinals-recap/dear_the_night_i_loved.jpg)](https://osu.ppy.sh/beatmapsets/2246380#mania/4775997)
 
@@ -66,11 +68,13 @@ With Akiri already having a large amount of originals in their catalogue, you ca
 
 Last, but CERTAINLY not least, [Kabocha](https://osu.ppy.sh/beatmaps/artists/345) and incredible vocalist [Aitsuki Nakuru](https://osu.ppy.sh/beatmaps/artists/127) bring [Dear The Night I Loved](https://osu.ppy.sh/beatmapsets/2246380#mania/4775997) charted by [-mint-](https://osu.ppy.sh/users/8976576) and [MyZterioN-](https://osu.ppy.sh/users/8976576)!
 
-If you're at all familiar with their song Lilith, you're familiar with this. As described earlier with this being LN4, it's much more stream/snap focused, leading to smooth patterns that can have a heavy toll on your accuracy due to the nature of how staggered (just about) every release is. All long note players are sure to enjoy this one.
+If you're at all familiar with their song *Lilith*, you're familiar with this one. This is the aforementioned LN4, and it's much more stream/snap focused, leading to smooth patterns that can have a heavy toll on your accuracy due to the nature of how staggered (just about) every release is. All long note players are sure to enjoy this one.
 
 ## Quarterfinals results
 
-The table keeps getting smaller, but the matches contained within keep getting spicier and spicier.
+The table keeps getting smaller, but the matches keep getting spicier.
+
+In these tables, Team A is the higher seed, or in other words performed better in the Qualifiers, yet at this level, such orderings determine less of the outcome.
 
 | Team A |  |  | Team B |
 | --: | :-: | :-: | :-- |
