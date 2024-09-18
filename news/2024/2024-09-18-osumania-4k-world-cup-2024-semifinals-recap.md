@@ -123,7 +123,12 @@ As seed #13, it was already a good result for Japan to arrive to the top 8. Now 
 
 ## Score highlights
 
-text
+The third to last round ended a few days ago, and with that, the finals grow ever so closer. To the layman, the maps are starting to become nigh unreadable. Yet that's not stopping our players from pulling up Herculean stunts such as their scores suggest!
+
+- It's no surprise to see ::{ flag=CL }:: [myucchi](https://osu.ppy.sh/users/10072733) being highlighted again. Their performance throughout the tournament has simply been stellar. Their play on [yuikonnu - Uchouten Vivace (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2246331#mania/4775902) by [Miaurichesu](https://osu.ppy.sh/users/10055648) (RC2) isn't any different however, achieving a score of 999,649 [against the United States](https://www.twitch.tv/videos/2251402252).
+- ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267) may be a new name being highlighted, but the community already knows what they're capable of. They managed to score one of the highest combined total scores from three separate LN picks. Their peak performance was seen with their score of 995,993 in [Hino Isuka - Dreamin' attraction!!](https://osu.ppy.sh/beatmapsets/2246225#mania/4775650) (LN2) by [Toaph Daddy](https://osu.ppy.sh/users/7616811) [versus South Korea](https://www.twitch.tv/videos/2251727183).
+
+We're nearing the very last stretch of the tournament. As both Finals and Grand Finals loom by, we're reaching the apex difficulty of this year's tournament. But will the scores of a few be able to turn the tides in favour of their team? We'll know the answer this week!
 
 ---
 
