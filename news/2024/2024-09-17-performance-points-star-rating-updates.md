@@ -37,7 +37,7 @@ The miss penalty scaling is now based on the amount of difficult strains instead
 
 There were concerns raised about consistency being less important with these changes, however this isn't an issue. Using combo as a metric doesn't make much sense as the performance calculator does not know what sections of a beatmap that a score got misses on - as a result, we model any misses as being on the most difficult part.
 
-### Sliders in accuracy pp
+### Sliders now contribute to accuracy pp
 
 A [change](https://github.com/ppy/osu/pull/27063) submitted by [tsunyoku](https://osu.ppy.sh/users/11315329) has been created to include the slider count in accuracy pp if a score was set using slider head accuracy.
 
