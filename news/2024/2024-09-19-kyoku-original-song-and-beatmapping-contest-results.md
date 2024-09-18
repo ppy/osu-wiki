@@ -42,7 +42,7 @@ Team cosmo/LOGIΛ have managed to concoct what can best be described as a Grand 
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://assets.ppy.sh/media/news/kyoku-2024-1st-place.mp4" frameborder="0" allowfullscreen></iframe>
 </div>
 
-With a final score of **88.25**, cosmo/LOGIΛ have managed to achieve first place, earning badges along with 2 contest points. Congratulations!
+With a final score of **88.25**, cosmo/LOGIΛ have managed to achieve first place, earning badges, $100 to distribute and 2 contest points per person. Congratulations!
 
 ![](/wiki/Contests/Kyoku/2024/img/badge.png)
 
