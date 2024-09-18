@@ -18,7 +18,7 @@ If you find yourself scratching your head when reading, consider consulting the 
 
 ---
 
-## osu! changes
+## osu!
 
 As a reminder of the various core values in the difficulty calculation algorithm:
 
@@ -52,7 +52,7 @@ This is one change related to slider head accuracy with more to be expected in t
 - A [slider mechanic change](https://github.com/ppy/osu/pull/24966) was made to adjust slider ends to be more lenient during fast sliders which has resulted in buffs on some maps with very fast sliders such as [KAEDE](https://osu.ppy.sh/beatmapsets/660630#osu/1398809). You can find more about this change in the related [osu!(lazer) updates video](https://www.youtube.com/watch?v=SlWKKA-ltZY).
 - Some various refactorings across difficulty calculation and performance calculation submitted by [Givikap120](https://osu.ppy.sh/users/10560705) to reduce duplication. [#1](https://github.com/ppy/osu/pull/29293) [#2](https://github.com/ppy/osu/pull/29294) [#3](https://github.com/ppy/osu/pull/29292) [#4](https://github.com/ppy/osu/pull/29291)
 
-## osu!taiko changes
+## osu!taiko
 
 In order to aid understanding of the changes to osu!taiko, these are the skills in difficulty calculation which will be referenced throughout:
 
@@ -94,7 +94,7 @@ To solve this, we can leverage the fact that tapping error is almost always norm
 
 On a side note, the osu!taiko performance points committee is aware of the feedback, both positive and negative, surrounding the new system over the past couple of years. We value the community's input and are continuously working to improve. There are significant changes on the horizon, such as the introduction of the pattern skill (rhythm within colour, and colour within rhythm) as well as performance-related changes. If you’d like to contribute to future changes, feel free to join the discussion on our [Performance Points Discord server](https://discord.gg/aqPCnXu).
 
-## osu!catch changes
+## osu!catch
 
 ### osu!catch performance points committee
 
@@ -113,7 +113,7 @@ This prevents FC plays with the No Fail mod from being punished and reduces the 
 
 - A [fix](https://github.com/ppy/osu/pull/28337) submitted by [spaceman_atlas](https://osu.ppy.sh/users/3035836) to remove rounding of the slider velocity multiplier on juice streams which resulted in some shifting of difficulty & performance values.
 
-## osu!mania changes
+## osu!mania
 
 ### Adjusted LN value scaling to address overweighted LN maps
 
