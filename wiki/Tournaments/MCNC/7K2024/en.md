@@ -610,8 +610,8 @@ The final standings and detailed statistics for the Qualifiers can be found at t
 ### Win conditions
 
 1. In the Qualifiers, players need to place in the top 16 seeded players in order to advance to the double-elimination stage.
-2. In the Round of 32, players need to win 4 maps to win a match (best of 7).
-3. In the Round of 16, players need to win 5 maps to win a match (best of 9).
+2. In the Play-off, players need to win 4 maps to win a match (best of 7).
+3. In the Round of 32 and Round of 16, players need to win 5 maps to win a match (best of 9).
 4. In the Quarterfinals and Semifinals, players need to win 6 maps to win a match (best of 11).
 5. In the Finals and Grand Finals, players need to win 7 maps to win a match (best of 13).
 
@@ -635,11 +635,15 @@ The final standings and detailed statistics for the Qualifiers can be found at t
 1. There will be one mappool for each stage, except for the Finals and Grand Finals, which will share the same mappool.
 2. Each mappool consists of a fixed amount of maps each stage which will all be played under FreeMod conditions. This means that there is a unique FreeMod bracket.
 3. The mappool sizes are as follows:
-   - Qualifiers: 9 beatmaps
-   - Round of 16: 10 beatmaps
-   - Quarterfinals: 12 beatmaps
-   - Semifinals: 14 beatmaps
-   - Finals: 16 beatmaps
+   - Qualifiers: 8 beatmaps
+   - Play-off 1: 11 beatmaps
+   - Play-off 2: 14 beatmaps
+   - Round of 32: 14 beatmaps
+   - Round of 16: 16 beatmaps
+   - Quarterfinals: 16 beatmaps
+   - Semifinals: 18 beatmaps
+   - Finals: 18 beatmaps
+   - Grand Finals: 18 beatmaps
 4. Each mappool has one tiebreaker, except for the Qualifiers.
 5. Possible mod choices for all maps are Hidden, Fade In, Flashlight, and Mirror.
 6. The tiebreaker will be played under FreeMod conditions.
