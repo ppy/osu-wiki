@@ -19,8 +19,8 @@ The **osu!mania 4K Chinese National Cup 2024** (***MCNC 4K 2024***) was a countr
 | Registration phase | 2024-05-17/2024-06-10 |
 | Qualifier mappool showcase | 2024-06-15 |
 | Qualifiers | 2024-06-22/2024-06-23 |
-| Play-Off 1 | 2024-06-29/2024-07-30 |
-| Play-Off 2 | 2024-07-06/2024-07-07 |
+| Play-off 1 | 2024-06-29/2024-07-30 |
+| Play-off 2 | 2024-07-06/2024-07-07 |
 | Round of 32 | 2024-07-13/2024-07-14 |
 | Round of 16 | 2024-07-20/2024-07-21 |
 | Quarterfinals | 2024-07-27/2024-07-28 |
@@ -686,29 +686,29 @@ The final standings and detailed statistics for the Qualifiers can be found at t
    - If there are 64 or more players participating, 64 players will qualify.
    - If there are more than 80 players participating, the specific promotion rules will be determined based on the actual number of participants after the results of the qualifying round are announced.
 
-### Preseason stage
+### Play-off stage
 
-1. After the Qualifier stage, the tournament will proceed to the Preseason stage. The Preseason stage is a single-elimination phase with specific rules.
-2. The warm-up map duration in the Preseason stage is capped at 3 minutes.
+1. After the Qualifier stage, the tournament will proceed to the Play-off stage. The Play-off stage is a single-elimination phase with specific rules.
+2. The warm-up map duration in the Play-off stage is capped at 3 minutes.
 3. After the Qualifier stage, advancing players will be grouped based on Qualifier stage seeds, and each group will have a different set of match procedures.
    - If 32 players advance:
-     - The preseason stage will be canceled.
+     - The Play-off stage will be canceled.
    - If 48 players advance:
-     - Seeds 1-16: Directly advance to the elimination stage without participating in any preseason stage matches.
-     - Seeds 17-48: Players in this group will participate in one preseason stage match, facing opponents corresponding to the group's seeds. The winner will advance to the elimination stage.
+     - Seeds 1-16: Directly advance to the elimination stage without participating in any Play-off stage matches.
+     - Seeds 17-48: Players in this group will participate in one Play-off stage match, facing opponents corresponding to the group's seeds. The winner will advance to the elimination stage.
    - If 56 players advance:
-     - Seeds 1-8: Directly advance to the elimination stage without participating in any preseason stage matches.
-     - Seeds 9-56: Players in this group will participate in one preseason stage match, facing opponents corresponding to the group's seeds. The winner will advance to the elimination stage.
+     - Seeds 1-8: Directly advance to the elimination stage without participating in any Play-off stage matches.
+     - Seeds 9-56: Players in this group will participate in one Play-off stage match, facing opponents corresponding to the group's seeds. The winner will advance to the elimination stage.
    - If 64 players advance:
-     - Seeds 1-8: Directly advance to the elimination stage without participating in any preseason stage matches.
-     - Seeds 9-16: Players in this group will participate in one preseason stage match, facing opponents from seeds 49-64. The winner will advance to the elimination stage.
-     - Seeds 17-48: Players in this group will participate in one preseason stage match, facing opponents corresponding to the group's seeds. The winner will advance to the elimination stage.
-     - Seeds 49-64: Players in this group will participate in two preseason stage matches. Their first opponent will be corresponding to the group's seeds. If they win the first match, their second opponent will be from seeds 9-16. The winner will advance to the elimination stage.
+     - Seeds 1-8: Directly advance to the elimination stage without participating in any Play-off stage matches.
+     - Seeds 9-16: Players in this group will participate in one Play-off stage match, facing opponents from seeds 49-64. The winner will advance to the elimination stage.
+     - Seeds 17-48: Players in this group will participate in one Play-off stage match, facing opponents corresponding to the group's seeds. The winner will advance to the elimination stage.
+     - Seeds 49-64: Players in this group will participate in two Play-off stage matches. Their first opponent will be corresponding to the group's seeds. If they win the first match, their second opponent will be from seeds 9-16. The winner will advance to the elimination stage.
    - If more than 80 players participate, specific advancement rules will be determined based on the actual number of participants after the qualification results are announced, with a maximum of two matches for all players.
 
 ### Stage instructions
 
-1. Following the Preseason stage, a Double Elimination stage will be played. This means that the winner continues in the winners' bracket, and the losing player gets moved to the losers' bracket.
+1. Following the Play-off stage, a Double Elimination stage will be played. This means that the winner continues in the winners' bracket, and the losing player gets moved to the losers' bracket.
 2. Players in the losers’ bracket must play 2 matches each weekend starting from the Quarterfinals.
 3. Players that lose a match in the losers' bracket get eliminated from the tournament.
 4. The warmup maps are allowed up to 5 minutes. In the case you can choose not to play your warmup map. Players need to prepare the link to the warmup map before the match start, and send it to #multiplayer during the match for the referee to select the map.
@@ -716,8 +716,8 @@ The final standings and detailed statistics for the Qualifiers can be found at t
 ### Win conditions
 
 1. In the Qualifiers, players need to place in the top 16 seeded players in order to advance to the double-elimination stage.
-2. In the Preseason 1, players need to win 4 maps to win a match (best of 7).
-3. In the Preseason 2 and Round of 32, players need to win 5 maps to win a match (best of 9).
+2. In the Play-off 1, players need to win 4 maps to win a match (best of 7).
+3. In the Play-off 2 and Round of 32, players need to win 5 maps to win a match (best of 9).
 4. In the Roudd of 16 and Quarterfinals, players need to win 6 maps to win a match (best of 11).
 5. In the Semifinals, Finals and Grand Finals, players need to win 7 maps to win a match (best of 13).
 
@@ -742,8 +742,8 @@ The final standings and detailed statistics for the Qualifiers can be found at t
 2. Each mappool consists of a fixed amount of maps each stage which will all be played under FreeMod conditions. This means that there is a unique FreeMod bracket.
 3. The mappool sizes are as follows:
    - Qualifiers: 8 beatmaps
-   - Preseason 1: 11 beatmaps
-   - Preseason 2: 14 beatmaps
+   - Play-off 1: 11 beatmaps
+   - Play-off 2: 14 beatmaps
    - Round of 32: 14 beatmaps
    - Round of 16: 16 beatmaps
    - Quarterfinals: 16 beatmaps
