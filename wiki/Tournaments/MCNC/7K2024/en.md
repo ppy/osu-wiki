@@ -159,7 +159,7 @@ This competition has come to an end and resulted in the following podium:
   2. [Snail's House - Mahou no Kakurenbo (_Stan) \[House Adventure (OD5)\]](https://osu.ppy.sh/beatmapsets/2133212#mania/4487453)
   3. [Gram - Lachryma \<Ragnarok The Requiem\> (Wonki) \[Extra\]](https://osu.ppy.sh/beatmapsets/2133216#mania/4487457)
 - Tiebreaker
-  1. [DeformedEutopia (Nirotiy + AiSS) - Chong Xiao - The Multitude of Empyrean - (tyrcs) \[Majestic Firmament\]](https://osu.ppy.sh/beatmapsets/2133204#mania/4487439)
+  1. **[DeformedEutopia (Nirotiy + AiSS) - Chong Xiao - The Multitude of Empyrean - (tyrcs) \[Majestic Firmament\]](https://osu.ppy.sh/beatmapsets/2133204#mania/4487439)**
 
 ### Finals
 
@@ -184,7 +184,7 @@ This competition has come to an end and resulted in the following podium:
   2. [Ik4sumi - Prediction (tyrcs) \[Crystallized (edit)\]](https://osu.ppy.sh/beatmapsets/2129942#mania/4478874)
   3. [kurenaissance - LivedaM (ExNeko) \[DreaM\]](https://osu.ppy.sh/beatmapsets/2129948#mania/4478883)
 - Tiebreaker
-  1. [Ludicin - Clinozoisite (ruka) \[Intangible (MCNC Edit)\]](https://osu.ppy.sh/beatmapsets/2129939#mania/4478868)
+  1. **[Ludicin - Clinozoisite (ruka) \[Intangible (MCNC Edit)\]](https://osu.ppy.sh/beatmapsets/2129939#mania/4478868)**
 
 ### Semifinals
 
@@ -207,7 +207,7 @@ This competition has come to an end and resulted in the following podium:
   2. [II-L - Asteroid Field of DECAPLETS (Cut Ver.) (tyrcs) \[.... . .....\]](https://osu.ppy.sh/beatmapsets/2126996#mania/4471371)
   3. [DJ Myosuke & tug - MAGGOD (U1d) \[Perish\]](https://osu.ppy.sh/beatmapsets/2127519#mania/4472500)
 - Tiebreaker
-  1. [Asatsumei - Tenshi no Kikyou (feat. L4hee) (U1d) \[Eternal Angels\]](https://osu.ppy.sh/beatmapsets/2126998#mania/4471374)
+  1. **[Asatsumei - Tenshi no Kikyou (feat. L4hee) (U1d) \[Eternal Angels\]](https://osu.ppy.sh/beatmapsets/2126998#mania/4471374)**
 
 ### Quarterfinals
 
@@ -230,7 +230,7 @@ This competition has come to an end and resulted in the following podium:
   2. [Toromaru - Deorbit (tyrcs) \[Roaming\]](https://osu.ppy.sh/beatmapsets/2123161#mania/4461813)
   3. [street - Theoi (_Stan) \[Targon // co. ExNeko\]](https://osu.ppy.sh/beatmapsets/2123159#mania/4461811)
 - Tiebreaker
-  1. [xi - Double Helix (tyrcs) \[Vibrant Plus\]](https://osu.ppy.sh/beatmapsets/2123162#mania/4461814)
+  1. **[xi - Double Helix (tyrcs) \[Vibrant Plus\]](https://osu.ppy.sh/beatmapsets/2123162#mania/4461814)**
 
 ### Round of 16
 
@@ -251,7 +251,7 @@ This competition has come to an end and resulted in the following podium:
   2. [Cuvelia - Tenkuu no Yoake (AncuL) \[Imaginary\]](https://osu.ppy.sh/beatmapsets/630583#mania/1331170)
   3. [Rory in early 20s - Wa Yoderi (Garalulu) \[[-o-]\]](https://osu.ppy.sh/beatmapsets/2119414#mania/4452115)
 - Tiebreaker
-  1. [seatrus - discipline 01-INSOMNIA- (_Stan) \[sleeplessness -COLLAB-\]](https://osu.ppy.sh/beatmapsets/2119346#mania/4451921)
+  1. **[seatrus - discipline 01-INSOMNIA- (_Stan) \[sleeplessness -COLLAB-\]](https://osu.ppy.sh/beatmapsets/2119346#mania/4451921)**
 
 ### Round of 32
 
@@ -272,7 +272,7 @@ This competition has come to an end and resulted in the following podium:
   2. [Polyphia - Playing God (tyrcs) \[Polyemote (nerf)\]](https://osu.ppy.sh/beatmapsets/2115923#mania/4443521)
   3. [Rche - entelecheia (Reba) \[Another\]](https://osu.ppy.sh/beatmapsets/1164312#mania/2428767)
 - Tiebreaker
-  1. [Endorfin. - Fatalism (U1d) \[Lachesis // U1d vs. _Stan\]](https://osu.ppy.sh/beatmapsets/2115926#mania/4443526)
+  1. **[Endorfin. - Fatalism (U1d) \[Lachesis // U1d vs. _Stan\]](https://osu.ppy.sh/beatmapsets/2115926#mania/4443526)**
 
 ### Play-off
 
@@ -291,7 +291,7 @@ This competition has come to an end and resulted in the following podium:
   1. [Nekomata Gekidan - AsiaN distractive (_Stan) \[Hikari's Hyper\]](https://osu.ppy.sh/beatmapsets/1070605#mania/2245487)
   2. [Neko Hacker - People People feat. Nanahira (Critical_Star) \[7K Another\]](https://osu.ppy.sh/beatmapsets/1765222#mania/3613253)
 - Tiebreaker
-  1. [Junk - Life is Journey (tyrcs) \[Collab Joy\]](https://osu.ppy.sh/beatmapsets/2112934#mania/4436311)
+  1. **[Junk - Life is Journey (tyrcs) \[Collab Joy\]](https://osu.ppy.sh/beatmapsets/2112934#mania/4436311)**
 
 ### Qualifiers
 
