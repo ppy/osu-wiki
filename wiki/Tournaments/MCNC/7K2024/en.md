@@ -140,7 +140,7 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here! (129 MB)](https://drive.google.com/file/d/1bgbxAZ6-PtOFKxypPhslFAluASg6ILL0/view?usp=sharing)**
 
-- RC
+- Rice
   1. [ZUN/arr.Myon - Plastic Mind (_Stan) \[DERAY (edit)\]](https://osu.ppy.sh/beatmapsets/2133203#mania/4487438)
   2. [Wolpis Carter - Oxalis (Cut Ver.) (ExNeko) \[Ruine Le.\]](https://osu.ppy.sh/beatmapsets/2132924#mania/4486863)
   3. [Raimukun - Myths Orbis (ExNeko) \[Edit\]](https://osu.ppy.sh/beatmapsets/2132922#mania/4486861)
@@ -148,13 +148,13 @@ This competition has come to an end and resulted in the following podium:
   5. [Ado - Odo (Remuring) \[delay x1.2\]](https://osu.ppy.sh/beatmapsets/1748395#mania/3576327)
   6. [Honda Mio (CV: Sayuri Hara) - Step! (_Stan) \[March On Forward!! (191bpm) (Edit)\]](https://osu.ppy.sh/beatmapsets/2133208#mania/4487448)
   7. [Yaezou - The Sundering (tyrcs) \[Penetration\]](https://osu.ppy.sh/beatmapsets/2133202#mania/4487437)
-- LN
+- Long Note
   1. [lapix - Born 2 Lose (- Minato Aqua -) \[--------------\]](https://osu.ppy.sh/beatmapsets/2132946#mania/4486937)
   2. [Iyowa feat. KAFU - Kyu-kurarin (Cut ver.) (MapleSyrup-) \[Enjoy Stay\]](https://osu.ppy.sh/beatmapsets/2012981#mania/4189070)
   3. [Rabbit House - Ad astra per aspera (ExNeko) \[LN deluge 1.05x\]](https://osu.ppy.sh/beatmapsets/2132920#mania/4486856)
   4. [Toromaru - Erinyes (tyrcs) \[Elegant (205bpm)\]](https://osu.ppy.sh/beatmapsets/2133201#mania/4487435)
   5. [Yuhei Catharsis - shonenyo, tokko no sakigake to nare (Kim_GodSSI) \[Lvl 95\]](https://osu.ppy.sh/beatmapsets/578396#mania/1224638)
-- HB
+- Hybrid
   1. [DJ Myosuke & Gram - The Rebellion of Phantom (feat. Valkyria) (U1d) \[The Valkyrie's Monologue (edit)\]](https://osu.ppy.sh/beatmapsets/2132925#mania/4486864)
   2. [Snail's House - Mahou no Kakurenbo (_Stan) \[House Adventure (OD5)\]](https://osu.ppy.sh/beatmapsets/2133212#mania/4487453)
   3. [Gram - Lachryma \<Ragnarok The Requiem\> (Wonki) \[Extra\]](https://osu.ppy.sh/beatmapsets/2133216#mania/4487457)
@@ -165,7 +165,7 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here! (106 MB)](https://drive.google.com/file/d/1kTzyRAnJjwHQ9yJtjjPqAP7zYvxjkMSM/view?usp=sharing)**
 
-- RC
+- Rice
   1. [F-777 - Ludicrous Speed (Fvrwvrd's Deathcore Remix) \[Ft. Infant Annihilator\] (_Stan) \[Nimble As Lightning (378bpm) (mapped by critical_star)\]](https://osu.ppy.sh/beatmapsets/2129952#mania/4478890)
   2. [USAO & Camellia - Moebius (_Stan) \[U1d's No Escapes\]](https://osu.ppy.sh/beatmapsets/2129949#mania/4478885)
   3. [nora2r - B.B.K.K.B.K.K. (USAO Remix) (ExNeko) \[ULTIMATE\]](https://osu.ppy.sh/beatmapsets/2129946#mania/4478881)
@@ -173,13 +173,13 @@ This competition has come to an end and resulted in the following podium:
   5. [MisoilePunch - Overrrload!! (Evening) \[macaron st4\]](https://osu.ppy.sh/beatmapsets/1715197#mania/3504627)
   6. [Dustvoxx, Loctek - Labyrinth of Mind (tyrcs) \[Diffusion\]](https://osu.ppy.sh/beatmapsets/2129944#mania/4478878)
   7. [Shoebill - Amen-Kun (lenpai) \[anime background\]](https://osu.ppy.sh/beatmapsets/1669602#mania/3409802)
-- LN
+- Long Note
   1. [Ado - unravel (- Minato Aqua -) \[painful\]](https://osu.ppy.sh/beatmapsets/2129940#mania/4478870)
   2. [xi + Sta - Northward (ccouy123) \[66.5°N (MCNC Edit)\]](https://osu.ppy.sh/beatmapsets/1167488#mania/4478648)
   3. [orangentle - VeRForTe aRtEVEiN (_Stan) \[U1d's AscensioN\]](https://osu.ppy.sh/beatmapsets/2129959#mania/4478902)
   4. [DAZBEE - Mikazuki Step (ruka) \[(((((()))))))\]](https://osu.ppy.sh/beatmapsets/2076977#mania/4348721)
   5. [PinocchioP - Reincarnation Apple (tyrcs) \[xwx\]](https://osu.ppy.sh/beatmapsets/2129941#mania/4478873)
-- HB
+- Hybrid
   1. [KoronePochi - papparappa-piyoyo~~n TEA (_Stan) \[U1d's papapapapapa \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/2129958#mania/4478901)
   2. [Ik4sumi - Prediction (tyrcs) \[Crystallized (edit)\]](https://osu.ppy.sh/beatmapsets/2129942#mania/4478874)
   3. [kurenaissance - LivedaM (ExNeko) \[DreaM\]](https://osu.ppy.sh/beatmapsets/2129948#mania/4478883)
@@ -190,19 +190,19 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here! (91 MB)](https://drive.google.com/file/d/1U4fAXyfQgnWptx9ZLyJmeiL6ivte1lmt/view?usp=sharing)**
 
-- RC
+- Rice
   1. [Jackal Queenston - Cursed (tyrcs) \[Miracle (edit)\]](https://osu.ppy.sh/beatmapsets/2126993#mania/4471366)
   2. [Yorushika - Deep Indigo (Cut Ver.) (ExNeko) \[Farther than the sky\]](https://osu.ppy.sh/beatmapsets/2126988#mania/4471360)
   3. [sakuzyo - Toy's 3 minutes war (Kawawa) \[LF> Ludibrium PQ @180\]](https://osu.ppy.sh/beatmapsets/1692913#mania/3459365)
   4. [P.T. Adamczyk - Gate K9 (ExNeko) \[Jailbreak\]](https://osu.ppy.sh/beatmapsets/2126989#mania/4471361)
   5. [BewhY - GOTTASADAE (Remuring) \[HONORIFIC\]](https://osu.ppy.sh/beatmapsets/1851385#mania/3804081)
   6. [ABE3 - ENTANGLEMENT (tyrcs) \[karma\]](https://osu.ppy.sh/beatmapsets/2126994#mania/4471368)
-- LN
+- Long Note
   1. [In Love With A Ghost - I Was Feeling Down, I Found a Nice Witch and We're Friends (- Minato Aqua -) \[XAX\]](https://osu.ppy.sh/beatmapsets/2126970#mania/4471300)
   2. [Feryquitous - Eltina (ruka) \[Nobleness\]](https://osu.ppy.sh/beatmapsets/1986486#mania/4126411)
   3. [Yooh - Decoy (ExNeko) \[Exclusion Zone /Edit/\]](https://osu.ppy.sh/beatmapsets/2126991#mania/4471363)
   4. [HoneyWorks feat.Narumi SenaxNarumi Mona(CV.Natsukawa Shiina) - Sis x Love (LostCool) \[MCNC Edit\]](https://osu.ppy.sh/beatmapsets/1744523#mania/4470996)
-- HB
+- Hybrid
   1. [BlackY feat. Risa Yuzuki - Akasha (Wonki) \[Extra\]](https://osu.ppy.sh/beatmapsets/2126967#mania/4471295)
   2. [II-L - Asteroid Field of DECAPLETS (Cut Ver.) (tyrcs) \[.... . .....\]](https://osu.ppy.sh/beatmapsets/2126996#mania/4471371)
   3. [DJ Myosuke & tug - MAGGOD (U1d) \[Perish\]](https://osu.ppy.sh/beatmapsets/2127519#mania/4472500)
@@ -213,19 +213,19 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here! (69 MB)](https://drive.google.com/file/d/15Gata891nTA3nQu2bXQJZ7OUDdVziw7W/view?usp=sharing)**
 
-- RC
+- Rice
   1. [Smiley - Destiny (Sped Up Ver.) (ExNeko) \[Expert\]](https://osu.ppy.sh/beatmapsets/2123156#mania/4461808)
   2. [cosMo@bousouP - Oceanus (Faputa) \[Reba's Extra\]](https://osu.ppy.sh/beatmapsets/1047505#mania/2204991)
   3. [HiTECH NINJA - Technicians High ([Crz]Alleyne) \[Landepen\]](https://osu.ppy.sh/beatmapsets/2123135#mania/4461771)
   4. [naotyu- - Her Majesty (Maxus) \[Universe Obscurity\]](https://osu.ppy.sh/beatmapsets/2012456#mania/4187626)
   5. [Tsubaki. - Myosotis (tyrcs) \[Reminiscence\]](https://osu.ppy.sh/beatmapsets/2123158#mania/4461810)
   6. [Reizoko Cj - CirnoRHTL (Nivrad00) \[Extra\]](https://osu.ppy.sh/beatmapsets/400818#mania/872039)
-- LN
+- Long Note
   1. [cubesato - My First Phone (U1d) \[redial\]](https://osu.ppy.sh/beatmapsets/2123176#mania/4461833)
   2. [Jay Chou - Chapter VII of the Night (ExNeko) \[orphic\]](https://osu.ppy.sh/beatmapsets/2123151#mania/4461803)
   3. [Coward Dream - Aibu Youhatsusei Kougeki Koudou (feat. KAFU) (ExNeko) \[Don't touch!\]](https://osu.ppy.sh/beatmapsets/2123148#mania/4461800)
   4. [Hatsuki Yura - Koisuru Marionette (Cut Ver.) (- Minato Aqua -) \[I don't know what difficulty name to choose\]](https://osu.ppy.sh/beatmapsets/2123160#mania/4461812)
-- HB
+- Hybrid
   1. [Tsukino - Mahou Shoujo to Chocolate (U1d) \[Chocolust\]](https://osu.ppy.sh/beatmapsets/2123164#mania/4461817)
   2. [Toromaru - Deorbit (tyrcs) \[Roaming\]](https://osu.ppy.sh/beatmapsets/2123161#mania/4461813)
   3. [street - Theoi (_Stan) \[Targon // co. ExNeko\]](https://osu.ppy.sh/beatmapsets/2123159#mania/4461811)
@@ -236,17 +236,17 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here! (60 MB)](https://drive.google.com/file/d/1HaqGRK-Z005rtgCuCiAVDD9dF9FYW8JZ/view?usp=sharing)**
 
-- RC
+- Rice
   1. [Wu Lan Tuo Ya - Tao Ma Gan (ExNeko) \[Grassland\]](https://osu.ppy.sh/beatmapsets/2119352#mania/4451936)
   2. [-45 - Sanka Debonair (ExNeko) \[suave /-\]](https://osu.ppy.sh/beatmapsets/2119349#mania/4451932)
   3. [Yu^ta - CLOUDY PARK (tyrcs) \[hi\]](https://osu.ppy.sh/beatmapsets/2119348#mania/4451927)
   4. [TJ.hangneil - Apollo (tyrcs) \[Extra\]](https://osu.ppy.sh/beatmapsets/2119345#mania/4451920)
   5. [Sobrem - Wit's biz (_Stan) \[Get 'em\]](https://osu.ppy.sh/beatmapsets/2119350#mania/4451933)
-- LN
+- Long Note
   1. [Tu zao zao - Jiu Wan Zi (ExNeko) \[wish\]](https://osu.ppy.sh/beatmapsets/2119353#mania/4451937)
   2. [dj TAKA feat. Erika Mochizuki - MOON (paulkappa) \[Slave of Sadness\]](https://osu.ppy.sh/beatmapsets/1666530#mania/3402422)
   3. [C-Show - N3V3R G3T OV3R (U1d) \[G1V3 T0 M3\]](https://osu.ppy.sh/beatmapsets/2119354#mania/4451939)
-- HB
+- Hybrid
   1. [Hiro - In Chaos (tyrcs) \[Ecstasy (edit)\]](https://osu.ppy.sh/beatmapsets/2119351#mania/4451934)
   2. [Cuvelia - Tenkuu no Yoake (AncuL) \[Imaginary\]](https://osu.ppy.sh/beatmapsets/630583#mania/1331170)
   3. [Rory in early 20s - Wa Yoderi (Garalulu) \[[-o-]\]](https://osu.ppy.sh/beatmapsets/2119414#mania/4452115)
@@ -257,17 +257,17 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here! (66 MB)](https://drive.google.com/file/d/1PomUMQT7Vjgras6YQDQhEY9TRl6eTpn8/view?usp=sharing)**
 
-- RC
+- Rice
   1. [Dempagumi.inc - Back! to the Future (ExNeko) \[Insane\]](https://osu.ppy.sh/beatmapsets/2115925#mania/4443524)
   2. [Perfume - Laser Beam (tyrcs) \[Lv.03 (cut edit)\]](https://osu.ppy.sh/beatmapsets/2115928#mania/4443528)
   3. [yomoha - Haru no Hime (ExNeko) \[Haru no Jack\]](https://osu.ppy.sh/beatmapsets/2115927#mania/4443527)
   4. [O Hu w - Guo Feng Ji Ni Tai Mei (O Hu w remix) (ExNeko) \[Just Because You're So Beautiful\]](https://osu.ppy.sh/beatmapsets/2115929#mania/4443531)
   5. [BlackY - Swing Edge (Game ver.) (U1d) \[slyser\]](https://osu.ppy.sh/beatmapsets/2115924#mania/4443523)
-- LN
+- Long Note
   1. [Phyrnna - A Joyful Snowfall (SurfChu85) \[An Invigorating Flurry\]](https://osu.ppy.sh/beatmapsets/1879772#mania/3869814)
   2. [Magnus Palsson - Potential for Anything (Cut Ver.) (lenpai) \[turkey \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1495430#mania/3067466)
   3. [Hiro - Crush On You (tyrcs) \[Enthusiasm (edit)\]](https://osu.ppy.sh/beatmapsets/2115931#mania/4443534)
-- HB
+- Hybrid
   1. [Memme - Acid Burst ([Crz]xz1z1z) \[Leeju's Contamination (OD7.2)\]](https://osu.ppy.sh/beatmapsets/2115933#mania/4443538)
   2. [Polyphia - Playing God (tyrcs) \[Polyemote (nerf)\]](https://osu.ppy.sh/beatmapsets/2115923#mania/4443521)
   3. [Rche - entelecheia (Reba) \[Another\]](https://osu.ppy.sh/beatmapsets/1164312#mania/2428767)
@@ -278,16 +278,16 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here! (65 MB)](https://drive.google.com/file/d/1-S8BBdsrAmT-N0P4dYI0pyvMu46FkM9b/view?usp=sharing)**
 
-- RC
+- Rice
   1. [*namirin - Amatsu Kitsune (Sped Up Ver.) (ExNeko) \[Hard\]](https://osu.ppy.sh/beatmapsets/2112931#mania/4436303)
   2. [Skytree feat. Shiro - Duet (ExNeko) \[Insane\]](https://osu.ppy.sh/beatmapsets/1352676#mania/4436318)
   3. [Flower - Akikaze no Answer (Cut Ver.) (U1d) \[yakusoku\]](https://osu.ppy.sh/beatmapsets/2112939#mania/4436323)
   4. [Chilldive - Oekaki (pwhk) \[Another\]](https://osu.ppy.sh/beatmapsets/2059288#mania/4304100)
-- LN
+- Long Note
   1. [Ju Mao Shao Diao Yu - Shan Cha Hua Du Bu Dong Bai Mei Gui (ExNeko) \[LN\]](https://osu.ppy.sh/beatmapsets/2112937#mania/4436321)
   2. [PinocchioP - Kusare-gedou and Chocolate (tyrcs) \[Insane\]](https://osu.ppy.sh/beatmapsets/2112930#mania/4436302)
   3. [ONGEKI Shooters - Transcend Lights (tyrcs) \[Eternity\]](https://osu.ppy.sh/beatmapsets/2112932#mania/4436304)
-- HB
+- Hybrid
   1. [Nekomata Gekidan - AsiaN distractive (_Stan) \[Hikari's Hyper\]](https://osu.ppy.sh/beatmapsets/1070605#mania/2245487)
   2. [Neko Hacker - People People feat. Nanahira (Critical_Star) \[7K Another\]](https://osu.ppy.sh/beatmapsets/1765222#mania/3613253)
 - Tiebreaker
