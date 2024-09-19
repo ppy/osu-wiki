@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: b75cab0564e5b20a69771d98bbd25edc426b3dad
+---
+
 # Torneos
 
 Sección dedicada para torneos de osu!. Los torneos tienen su foro dedicado que puede encontrarse [a través de este enlace](https://osu.ppy.sh/community/forums/55).
