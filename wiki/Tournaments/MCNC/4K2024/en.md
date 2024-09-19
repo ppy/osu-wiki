@@ -180,7 +180,7 @@ This competition has come to an end and resulted in the following podium:
 - Difficulty
   1. [The Ghost of 3.13 - Forgotten (\[Crz\]Flandre) \[Shoegazer & Zyph's Collab 1.4x (350bpm)\]](https://osu.ppy.sh/beatmaps/4732745)
 - Tiebreaker
-  **1. [SAMString - ChroNaXiE ([Crz]xz1z1z) \[Singularity\]](https://osu.ppy.sh/beatmapsets/2230263#mania/4732863)**
+  1. **[SAMString - ChroNaXiE ([Crz]xz1z1z) \[Singularity\]](https://osu.ppy.sh/beatmapsets/2230263#mania/4732863)**
 
 ### Finals
 
@@ -199,17 +199,17 @@ This competition has come to an end and resulted in the following podium:
   2. [lapix - Captain Cowbell (YuEast 2018) \[Yet Another Restep.\]](https://osu.ppy.sh/beatmapsets/2226157#mania/4722370)
   3. [Ik4sumi - Amorphous (Micleak) \[Indeterminate 1.2x\]](https://osu.ppy.sh/beatmapsets/1890122#mania/4027875)
 - Long Note
-  4. [YOASOBI - UNDEAD ([GB]sherweifa) \[sdbl \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/2226160#mania/4722373)
-  5. [seatrus - Stargaze Station (gzdongsheng) \[Cosmo 1.05x (236bpm)\]](https://osu.ppy.sh/beatmapsets/2226146#mania/4722334)
-  6. [Shiron - GEOMETRIA (Hylotl) \[Riemannian (Edit) 1.05x (267bpm) OD7\]](https://osu.ppy.sh/beatmapsets/2102909#mania/4412131)
-  7. [Supa7onyz pers. 5-let - Unsynchronized Rhythms (Polytetral) \[Chaotically Unsynced\]](https://osu.ppy.sh/beatmapsets/1893947#mania/3902894)
+  1. [YOASOBI - UNDEAD ([GB]sherweifa) \[sdbl \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/2226160#mania/4722373)
+  2. [seatrus - Stargaze Station (gzdongsheng) \[Cosmo 1.05x (236bpm)\]](https://osu.ppy.sh/beatmapsets/2226146#mania/4722334)
+  3. [Shiron - GEOMETRIA (Hylotl) \[Riemannian (Edit) 1.05x (267bpm) OD7\]](https://osu.ppy.sh/beatmapsets/2102909#mania/4412131)
+  4. [Supa7onyz pers. 5-let - Unsynchronized Rhythms (Polytetral) \[Chaotically Unsynced\]](https://osu.ppy.sh/beatmapsets/1893947#mania/3902894)
 - SV
   1. [Akira Complex - MANTIS (Arcaea Ultra-Bloodrush VIP) feat. kiraku (Orca-) \[tomorrow comes from the ashes of yesterday\]](https://osu.ppy.sh/beatmaps/4250275)
   2. [xarva - easymotion (mightyxd) \[zero2snow's Estimate (edit) 1.1x\]](https://osu.ppy.sh/beatmaps/4235788)
 - Difficulty
   1. [StudioEIM - Crescent Moon Island (Shoegazer) \[Kuro 1.1x (189bpm)\]](https://osu.ppy.sh/beatmaps/3090570)
 - Tiebreaker
-  **1. [Kou! - Frost Walker ([Crz]xz1z1z) \[Kaleido\]](https://osu.ppy.sh/beatmapsets/2226164#mania/4722381)**
+  1. **[Kou! - Frost Walker ([Crz]xz1z1z) \[Kaleido\]](https://osu.ppy.sh/beatmapsets/2226164#mania/4722381)**
 
 ### Semifinals
 
