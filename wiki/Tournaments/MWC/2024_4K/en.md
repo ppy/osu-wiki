@@ -127,11 +127,11 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/f3e
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
 | South Korea ::{ flag=KR }:: | ::{ flag=CL }:: Chile | [Sep 22 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240922T020000&p1=1440&p2=235&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Philippines ::{ flag=PH }:: | ::{ flag=CL }:: Chile | [Sep 22 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240922T020000&p1=1440&p2=145&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Philippines ::{ flag=PH }:: | ::{ flag=CL }:: Chile | [Sep 22 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240922T030000&p1=1440&p2=145&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | United States ::{ flag=US }:: | ::{ flag=TH }:: Thailand | [Sep 22 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240922T040000&p1=1440&p2=263&p3=28) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| South Korea ::{ flag=KR }:: | ::{ flag=CN }:: China | [Sep 22 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240922T100000&p1=1440&p2=235&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Philippines ::{ flag=PH }:: | ::{ flag=CN }:: China | [Sep 22 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240922T100000&p1=1440&p2=145&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Grand Finals | mappool showcase | [Sep 22 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240922T180000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| South Korea ::{ flag=KR }:: | ::{ flag=CN }:: China | [Sep 22 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240922T130000&p1=1440&p2=235&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Philippines ::{ flag=PH }:: | ::{ flag=CN }:: China | [Sep 22 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240922T130000&p1=1440&p2=145&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| Grand Finals | mappool showcase | [Sep 22 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240922T150000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Mappools
 
