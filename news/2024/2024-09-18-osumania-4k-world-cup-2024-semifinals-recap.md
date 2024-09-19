@@ -70,7 +70,7 @@ Last, but CERTAINLY not least, [Kabocha](https://osu.ppy.sh/beatmaps/artists/345
 
 If you're at all familiar with their song *Lilith*, you're familiar with this one. This is the aforementioned LN4, and it's much more stream/snap focused, leading to smooth patterns that can have a heavy toll on your accuracy due to the nature of how staggered (just about) every release is. All long note players are sure to enjoy this one.
 
-## Quarterfinals results
+## Semifinals results
 
 The table keeps getting smaller, but the matches keep getting spicier.
 
