@@ -1,6 +1,6 @@
 # osu! 在2007年的历史
 
-本篇文章的内容是osu! 从其诞生以来的大事记。感谢[Sinistro](https://osu.ppy.sh/users/5530)对于2007年至2008年之间发生的事件的补充。
+本文记载了 osu! 自其诞生以来的重大事件。感谢 [Sinistro](https://osu.ppy.sh/users/5530) 编写 2007 年至 2008 年部分的内容。
 ![](img\2007.jpg)
 
 ## 六月
