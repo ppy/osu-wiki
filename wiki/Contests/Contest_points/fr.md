@@ -28,6 +28,7 @@ Les points de concours ont été utilisés pour les concours suivants :
 - [osu!taiko Featured Artist Cup](/wiki/Contests/o!tFAC) (o!tFAC)
 - [Twin Trials](/wiki/Contests/Twin_Trials_Contest)
 - [Vocaloid Mapping Contest 2](/wiki/Contests/VMC/2) (VMC2)
+- [Kyoku 2024](/wiki/Contests/Kyoku/2024)
 
 ## Classement
 
