@@ -11,10 +11,10 @@ The top 16 of osu!'s top tournament players will be battling it out in the FIRST
 SSLR takes the concept behind BTMC's Roundtable series of tournaments and raises the bar massively by letting the top 16 qualify and then are flown into Scotland, Dundee to play on the big stage, this means no invitational slots, qualifiers rule all and you could be there, signups are now open and will run until the 30th of Septemeber.
 
 Qualifiers will take place between 21st-27th October (tbd with screening period) and will put players to their very limits so only the best make it to Scotland in January.
-##[Forum post](https://osu.ppy.sh/community/forums/topics/1969738?n=1)##
-##[Signups](https://docs.google.com/forms/d/e/1FAIpQLSeIHwf4xEAifG2lCzWUu72w83F_PMsY0KNeZAGDzaJdq8PG_Q/viewform)##
+**[Forum post](https://osu.ppy.sh/community/forums/topics/1969738?n=1)**
+**[Signups](https://docs.google.com/forms/d/e/1FAIpQLSeIHwf4xEAifG2lCzWUu72w83F_PMsY0KNeZAGDzaJdq8PG_Q/viewform)**
 
-##If participating you need to join the discord so after qualifiers we can make sure that we get your details to fly you out for the tournament of a lifetime. Server invite is on the Signup form.##
+**If participating you need to join the discord so after qualifiers we can make sure that we get your details to fly you out for the tournament of a lifetime. Server invite is on the Signup form.**
 
 This 2-day event from January 25-26 features a major tournaments and a bundle of side events, all streamed from the SSLR and Syndi's Twitch channels!
 
