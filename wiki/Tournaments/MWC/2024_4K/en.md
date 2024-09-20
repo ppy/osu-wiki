@@ -119,7 +119,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/f3e
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=PH }:: Philippines | [Sep 21 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240921T130000&p1=1440&p2=235&p3=145) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| South Korea ::{ flag=KR }:: | ::{ flag=PH }:: Philippines | [Sep 21 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240921T120000&p1=1440&p2=235&p3=145) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Chile ::{ flag=CL }:: | ::{ flag=CN }:: China | [Sep 21 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240921T150000&p1=1440&p2=232&p3=33) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 
 ### Sunday, 22 September 2024
@@ -137,12 +137,12 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/f3e
 
 ### Finals
 
-**[Download the mappack here (111 MB, *temporary link*)](https://leoflt.com/s/S5js)**\
+**[Download the mappack here (111 MB)](https://packs.ppy.sh/P261%20-%20osu!mania%204K%20World%20Cup%202024%3A%20Finals.zip)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2251865372)
 
 - Rice
   1. [Ariabl'eyeS - Raison d'etre (Cut Ver.) (Miaurichesu) \[Reason\]](https://osu.ppy.sh/beatmapsets/2250109#mania/4785192)
-  2. [Aquellex - Zygourous Distribution (hi19hi19) \[Challenge (edit)\] *(temporary link)*](https://leoflt.com/s/5xbD)
+  2. [Aquellex - Zygourous Distribution (hi19hi19) \[Challenge (edit)\]](https://osu.ppy.sh/beatmapsets/2250337#mania/4785725)
   3. [S.S.H. - Holy Orders (Be Just or Be Dead) (Valedict, lemonguy) \[The Roar of the Spark\]](https://osu.ppy.sh/beatmapsets/2250132#mania/4785237)
   4. [STARSTREAK CHAOS-TL12 - VENUS INVADER (Hylotl) \[VERITAS 1.05x\]](https://osu.ppy.sh/beatmapsets/2250119#mania/4785209)
   5. [tarolabo - Fireball (Pizza69) \[Wood Fired Pizza 1.2x\]](https://osu.ppy.sh/beatmapsets/2250163#mania/4785290)
