@@ -257,7 +257,7 @@ The complete list of sightread maps can be found in this [Google Sheet](https://
   2. [URBANGARDE - KIMI WA OKUMAGASO (JBHyperion) \[Platter\]](https://osu.ppy.sh/beatmapsets/1779476#fruits/3710668)
   3. [Ryokuoushoku Shakai - Zutto Zutto Zutto (mnyui) \[Hard\]](https://osu.ppy.sh/beatmapsets/1838113#fruits/3775972)
 - Mystery
-  1. [Rita - Little Busters! ~TV animation ver.~ (pkhg) \[Dekaane's Normal\]](https://osu.ppy.sh/beatmapsets/200500#fruits/2358589) (HardRock & DoubleTime)[^hrdt]
+  1. [Rita - Little Busters! \~TV animation ver.\~ (pkhg) \[Dekaane's Normal\]](https://osu.ppy.sh/beatmapsets/200500#fruits/2358589) (HardRock & DoubleTime)[^hrdt]
 - Tiebreaker
   1. **[Minase Mashiro - runaway (Halozy Mix) (Ascendance) \[Hyperion's Lunatic\]](https://osu.ppy.sh/beatmapsets/785837#fruits/1649785)**
 
@@ -570,22 +570,22 @@ Sunday, 3 March 2024:
 2. The Mystery Mod pool will not feature maps that are from another osu! game mode.
 3. The mappool format and win condition for each of the following rounds are as follows:
    - Qualifiers
-     - 3 NM, 2 HD, 2 HR, 2 DT
+     - 3 NoMod, 2 Hidden, 2 HardRock, 2 DoubleTime
    - Round of 64, Round of 32 & Round of 16
      - Best of 9, 1 Ban
-     - 4 NM, 3 HD, 3 HR, 3 DT, 1 Mystery, 1 TB
+     - 4 NoMod, 3 Hidden, 3 HardRock, 3 DoubleTime, 1 Mystery, 1 Tiebreaker
    - Quarterfinals
-   - Best of 11, 1 Ban
-   - 4 NM, 3 HD, 3 HR, 3 DT, 2 Mystery, 1 TB
+     - Best of 11, 1 Ban
+     - 4 NoMod, 3 Hidden, 3 HardRock, 3 DoubleTime, 2 Mystery, 1 Tiebreaker
    - Semifinals
      - Best of 11, 2 Bans
-     - 4 NM, 3 HD, 3 HR, 3 DT, 2 Mystery, 1 TB
+     - 4 NoMod, 3 Hidden, 3 HardRock, 3 DoubleTime, 2 Mystery, 1 Tiebreaker
    - Finals
      - Best of 13, 2 Bans
-     - 4 NM, 4 HD, 4 HR, 4 DT, 2 Mystery, 1 TB
+     - 4 NoMod, 4 Hidden, 4 HardRock, 4 DoubleTime, 2 Mystery, 1 Tiebreaker
    - Grand Finals
      - Best of 13, 2 Bans
-     - 4 NM, 4 HD, 4 HR, 4 DT, 2 Mystery, 1 TB
+     - 4 NoMod, 4 Hidden, 4 HardRock, 4 DoubleTime, 2 Mystery, 1 Tiebreaker
 
 ### Qualifiers
 
@@ -648,8 +648,8 @@ Sunday, 3 March 2024:
 
 [^spinner]: This map features a heavy focus on spinners.
 
-[^hrdt]: This map is played with both [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) and [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) mods enabled.
+[^hrdt]: This map is played with both [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) mods enabled.
 
-[^contb]: This map features a convert(/wiki/Beatmap/Converts) in which its length is similar to a tiebreaker.
+[^contb]: This map features a [convert](/wiki/Beatmap/Converts) in which its length is similar to a tiebreaker.
 
 [^tester]: This player was brought in as a map tester after being knocked out in the bracket stage.
