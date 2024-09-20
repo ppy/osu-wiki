@@ -55,7 +55,7 @@ osu!在最开始其实是一个叫做"ouentest"[^1]的概念验证产品。它�
 
 ![](img/2007-09_05.jpg "在一个游戏网站上发布的新闻")
 
-在公众版本发布之后，最初的[游戏模组](/wiki/Gameplay/Game_modifier/) [Eazy](/wiki/Gameplay/Game_modifier/Easy) 和 [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) 迅速加入。与其一同加入的还有休息时间（这一功能的编辑至今仍被忽略、并且缺失）不少改进立马使得osu!成为了一个独立音游（而不是应援团的仿制品）。
+在公众版本发布之后，最初的[游戏模组](/wiki/Gameplay/Game_modifier) [Eazy](/wiki/Gameplay/Game_modifier/Easy) 和 [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) 迅速加入。与其一同加入的还有休息时间（这一功能的编辑至今仍被忽略、并且缺失）不少改进立马使得osu!成为了一个独立音游（而不是应援团的仿制品）。
 
 ![](img/easy.png)![](img/no_fail.png)
 
