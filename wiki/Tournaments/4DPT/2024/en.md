@@ -127,6 +127,7 @@ This competition has come to an end and resulted in the following podium:
 The complete list of sightread maps can be found in this [Google Sheet](https://docs.google.com/spreadsheets/d/1b0iijOrgSIBZCdXlDguB796INXL_Jj8D8LnBtDmtH6E/edit?usp=sharing).
 
 **[Download the mappack here! (116 MB)](https://drive.google.com/file/d/1W7MtuSJgq5ODLQHt94_tw8bSmc-nSf5O/view?usp=sharing)**
+
 **[Download the sightread mappack here! (270 MB)](https://drive.google.com/file/d/1fIP9F3WdfVNuh-3pgCW_LtauYq8fl55I/view?usp=sharing)**
 
 - NoMod
@@ -359,7 +360,7 @@ Sunday, 31 March 2024:
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **[SadEgg](https://osu.ppy.sh/users/10278243)** ::{ flag=CA }:: | **6** | 0 | ::{ flag=JP }:: [Touca](https://osu.ppy.sh/users/32920228) | [#1](https://osu.ppy.sh/community/matches/113305815) |
-| Lower | [David Podsiadlo](https://osu.ppy.sh/users/34040054) ::{ flag=PL }:: | 5 | **6** | ::{ flag=TH }:: **[ZeroKungz](https://osu.ppy.sh/users/23155757)** | [#1](ttps://osu.ppy.sh/community/matches/113307743) |
+| Lower | [David Podsiadlo](https://osu.ppy.sh/users/34040054) ::{ flag=PL }:: | 5 | **6** | ::{ flag=TH }:: **[ZeroKungz](https://osu.ppy.sh/users/23155757)** | [#1](https://osu.ppy.sh/community/matches/113307743) |
 | Lower | **[MauriciOSU](https://osu.ppy.sh/users/8199435)** ::{ flag=PE }:: | **6** | 2 | ::{ flag=DE }:: [13187berlin](https://osu.ppy.sh/users/4035950) | [#1](https://osu.ppy.sh/community/matches/113309055) |
 
 ### Quarterfinals
