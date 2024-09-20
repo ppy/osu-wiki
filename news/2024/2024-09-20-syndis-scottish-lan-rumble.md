@@ -52,7 +52,7 @@ This could be YOU it's an open rank extravaganza where you can be flown into sco
 
 ---
 
-Experience the most highly Skilled in-person osu! tournament of the year through the livestream on the SSLR and the Syndi_UK Twitch channel!
+Experience the most highly Skilled in-person osu! tournament of the year through the livestream on the [SSLR](https://www.twitch.tv/sslrtourneys) and the [Syndi_UK](https://www.twitch.tv/syndi_uk) Twitch channel!
 
 We'll see you there.
 
