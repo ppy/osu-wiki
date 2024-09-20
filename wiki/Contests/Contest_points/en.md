@@ -20,11 +20,11 @@ For team contests, elite mapper points will be evaluated on a case-by-case basis
 
 Contest points have been used in the following contests:
 
+- [Kyoku 2024](/wiki/Contests/Kyoku/2024)
 - [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (MBC)
 - [osu!taiko Featured Artist Cup](/wiki/Contests/o!tFAC) (o!tFAC)
 - [Twin Trials](/wiki/Contests/Twin_Trials_Contest)
 - [Vocaloid Mapping Contest 2](/wiki/Contests/VMC/2) (VMC2)
-- [Kyoku 2024](/wiki/Contests/Kyoku/2024)
 
 ## Leaderboard
 

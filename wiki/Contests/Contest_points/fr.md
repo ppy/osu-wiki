@@ -24,11 +24,11 @@ Pour les concours par équipe, les points des elite mapper seront évalués au c
 
 Les points de concours ont été utilisés pour les concours suivants :
 
+- [Kyoku 2024](/wiki/Contests/Kyoku/2024)
 - [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (MBC)
 - [osu!taiko Featured Artist Cup](/wiki/Contests/o!tFAC) (o!tFAC)
 - [Twin Trials](/wiki/Contests/Twin_Trials_Contest)
 - [Vocaloid Mapping Contest 2](/wiki/Contests/VMC/2) (VMC2)
-- [Kyoku 2024](/wiki/Contests/Kyoku/2024)
 
 ## Classement
 
