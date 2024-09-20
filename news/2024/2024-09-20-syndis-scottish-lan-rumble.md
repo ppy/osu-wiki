@@ -8,7 +8,10 @@ The top 16 of osu!'s top tournament players will be battling it out in the FIRST
 
 ![](/wiki/shared/news/2024-09-20-syndis-scottish-lan-rumble/banner.jpg)
 
-SSLR takes the concept behind BTMC's Roundtable series of tournaments and raises the bar massively by letting the top 16 qualify and then are flown into Scotland to play on the big stage, this means no invitational slots, qualifiers rule all.
+SSLR takes the concept behind BTMC's Roundtable series of tournaments and raises the bar massively by letting the top 16 qualify and then are flown into Scotland to play on the big stage, this means no invitational slots, qualifiers rule all and you could be there, signups are now open and will run until the 30th of Septemeber.
+
+Qualifiers will take place between 21st-27th October (tbd with screening period) and will put players to their very limits so only the best make it to Scotland in January
+[Forum post](https://osu.ppy.sh/community/forums/topics/1969738?n=1)
 
 This 2-day event from January 25-26 features a major tournaments and a bundle of side events, all streamed from the SSLR and Syndi's Twitch channels!
 
@@ -24,7 +27,7 @@ This 2-day event from January 25-26 features a major tournaments and a bundle of
 ## Crowd battle royale
 
 Before diving into the main event, players will be warming up their competitive drives while a crowd battle royale will take place!
-The LAN setup has 16 computers, so players will play all at once. Each player will play 7 maps in a multiplayer lobby, and whoever scores the lowest on each map will be eliminated.
+Each player will play 7 maps in a multiplayer lobby, and whoever scores the lowest on each map will be eliminated.
 
 ## 1v1 double-elimination tournament
 
@@ -49,7 +52,7 @@ This could be YOU it's an open rank extravaganza where you can be flown into sco
 
 ---
 
-Experience the most highly Skilled in-person osu! tournament of the year through the livestream on the SSLR and Syndi's Twitch channel!
+Experience the most highly Skilled in-person osu! tournament of the year through the livestream on the SSLR and the Syndi_UK Twitch channel!
 
 We'll see you there.
 
