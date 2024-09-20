@@ -458,13 +458,13 @@ Saturday, 9 March 2024:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Mixuri](https://osu.ppy.sh/users/9153772)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=JP }:: [uni\_PF](https://osu.ppy.sh/users/11034769) | [#1](https://osu.ppy.sh/community/matches/112995764)() |
+| Upper | **[Mixuri](https://osu.ppy.sh/users/9153772)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=JP }:: [uni\_PF](https://osu.ppy.sh/users/11034769) | [#1](https://osu.ppy.sh/community/matches/112995764) |
 | Upper | **[SadEgg](https://osu.ppy.sh/users/10278243)** ::{ flag=CA }:: | **5** | 3 | ::{ flag=CA }:: [Neko\_Cafe](https://osu.ppy.sh/users/6688277) | [#1](https://osu.ppy.sh/community/matches/112996305) |
 | Upper | [dalyz](https://osu.ppy.sh/users/3951909) ::{ flag=ID }:: | 4 | **5** | ::{ flag=JP }:: **[Touca](https://osu.ppy.sh/users/32920228)** | [#1](https://osu.ppy.sh/community/matches/112999425) |
 | Upper | **[my angel auto](https://osu.ppy.sh/users/29503627)** ::{ flag=HK }:: | **5** | 2 | ::{ flag=KR }:: [\[Yuria\]](https://osu.ppy.sh/users/4763555) | [#1](https://osu.ppy.sh/community/matches/113000863) |
 | Upper | **[Fuka Pura](https://osu.ppy.sh/users/2326688)** ::{ flag=FR }:: | **5** | 0 | ::{ flag=RU }:: [aabii](https://osu.ppy.sh/users/17808018) | [#1](https://osu.ppy.sh/community/matches/113002746) |
-| Lower | [Azakriel](https://osu.ppy.sh/users/30653081) ::{ flag=BG }:: | 4 | **5** | ::{ flag=FR }:: [\[RUE\]Ludboy](https://osu.ppy.sh/users/5051425) | [#1](https://osu.ppy.sh/community/matches/112999475) |
-| Lower | [nurjavier](https://osu.ppy.sh/users/8535534) ::{ flag=ID }:: | 3 | **5** | ::{ flag=BR }:: [JESP2310](https://osu.ppy.sh/users/14729191) | [#1](https://osu.ppy.sh/community/matches/113001771) |
+| Lower | [Azakriel](https://osu.ppy.sh/users/30653081) ::{ flag=BG }:: | 4 | **5** | ::{ flag=FR }:: **[\[RUE\]Ludboy](https://osu.ppy.sh/users/5051425)** | [#1](https://osu.ppy.sh/community/matches/112999475) |
+| Lower | [nurjavier](https://osu.ppy.sh/users/8535534) ::{ flag=ID }:: | 3 | **5** | ::{ flag=BR }:: **[JESP2310](https://osu.ppy.sh/users/14729191)** | [#1](https://osu.ppy.sh/community/matches/113001771) |
 | Lower | [U4Dead](https://osu.ppy.sh/users/21695850) ::{ flag=CN }:: | 3 | **5** | ::{ flag=ME }:: **[MyLovelyRealite](https://osu.ppy.sh/users/33526381)** | [#1](https://osu.ppy.sh/community/matches/113001803) |
 | Lower | [Nyarlath0tep](https://osu.ppy.sh/users/22221875) ::{ flag=JP }:: | 1 | **5** | ::{ flag=SG }:: **[Geekoruto](https://osu.ppy.sh/users/16634503)** | [#1](https://osu.ppy.sh/community/matches/113002742) |
 | Lower | [ManuAoK](https://osu.ppy.sh/users/11385094) ::{ flag=CL }:: | 0 | **5** | ::{ flag=MY }:: **[davidbeh\_97](https://osu.ppy.sh/users/4101818)** | [#1](https://osu.ppy.sh/community/matches/113002748) |
@@ -539,7 +539,7 @@ Sunday, 3 March 2024:
 | Upper | **[MauriciOSU](https://osu.ppy.sh/users/8199435)** ::{ flag=PE }:: | **5** | 2 | ::{ flag=CN }:: [U4Dead](https://osu.ppy.sh/users/21695850) | [#1](https://osu.ppy.sh/community/matches/112914221) |
 | Upper | **[log out side](https://osu.ppy.sh/users/11535744)** ::{ flag=KR }:: | **5** | 0 | ::{ flag=US }:: [GuitarHero\_King](https://osu.ppy.sh/users/6013277) | [#1](https://osu.ppy.sh/community/matches/112915124) |
 | Upper | [davidbeh\_97](https://osu.ppy.sh/users/4101818) ::{ flag=MY }:: | 2 | **5** | ::{ flag=JP }:: **[Touca](https://osu.ppy.sh/users/32920228)** | [#1](https://osu.ppy.sh/community/matches/112917375) |
-| Upper | [Pizou](https://osu.ppy.sh/users/9475990) ::{ flag=FR }:: | 0 | **5** | ::{ flag=MY }:: [Green Ghost](https://osu.ppy.sh/users/10826368) | [#1](https://osu.ppy.sh/community/matches/112917755) |
+| Upper | [Pizou](https://osu.ppy.sh/users/9475990) ::{ flag=FR }:: | 0 | **5** | ::{ flag=MY }:: **[Green Ghost](https://osu.ppy.sh/users/10826368)** | [#1](https://osu.ppy.sh/community/matches/112917755) |
 | Upper | **[Nagato](https://osu.ppy.sh/users/260373)** ::{ flag=CN }:: | **5** | 0 | ::{ flag=NL }:: [TrussingOrca330](https://osu.ppy.sh/users/24449428) | [#1](https://osu.ppy.sh/community/matches/112918304) |
 | Upper | **[-Enias-](https://osu.ppy.sh/users/8384680)** ::{ flag=FR }:: | **5** | 0 | ::{ flag=ME }:: [MyLovelyRealite](https://osu.ppy.sh/users/33526381) | [#1](https://osu.ppy.sh/community/matches/112921341) |
 | Upper | **[floflim](https://osu.ppy.sh/users/5954015)** ::{ flag=FR }:: | **5** | 3 | ::{ flag=BR }:: [multimode freak](https://osu.ppy.sh/users/6093582) | [#1](https://osu.ppy.sh/community/matches/112921341) |
