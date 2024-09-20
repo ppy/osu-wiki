@@ -4,7 +4,7 @@ stub: true
 
 # 帮助区
 
-*参见: [帮助中心](/wiki/Help_centre)*
+*另见: [帮助中心](/wiki/Help_centre)*
 
 <!-- TODO: mention issue labels? -->
 
