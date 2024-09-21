@@ -8,15 +8,15 @@ The top 16 of osu!'s top tournament players will be battling it out in the first
 
 ![](/wiki/shared/news/2024-09-20-syndis-scottish-lan-rumble/banner.jpg)
 
-SSLR takes the concept behind BTMC's Roundtable series of tournaments and raises the bar massively by letting the top 16 qualify and be flown to play on the big stage in **Dundee, Scotland**.
+SSLR takes the concept behind BTMC's [Roundtable](/wiki/Tournaments/The_Roundtable) series of tournaments and raises the bar massively by letting the top 16 qualify and be flown to play on the big stage in **Dundee, Scotland**.
 
-This means no invitational slots, Qualifiers rule all and you could be there. [Signups](https://docs.google.com/forms/d/e/1FAIpQLSeIHwf4xEAifG2lCzWUu72w83F_PMsY0KNeZAGDzaJdq8PG_Q/viewform) are now open and will run until the **30th of September**.
+This means no invitational slots, Qualifiers rule all, and you could be there. [Signups](https://docs.google.com/forms/d/e/1FAIpQLSeIHwf4xEAifG2lCzWUu72w83F_PMsY0KNeZAGDzaJdq8PG_Q/viewform) are now open and will run until the **30th of September**.
 
-Qualifiers will take place between 21st–27th October (may change depending on screening) and will put players to their very limits so only the best make it to Scotland in January.
+Qualifiers will take place between 21st–27th October (may change depending on screening) and will put players to their very limits, so only the best make it to Scotland in January.
 
 **If you're participating, you need to join the [Discord](https://discord.com/invite/NVXTyYgm7W) so we may contact you on the details to fly you out for the tournament.**
 
-This 2-day event during January 25–26 features a major tournaments and a bundle of side events, all streamed from the [SSLR](https://www.twitch.tv/sslrtourneys) and [Syndi_UK](https://www.twitch.tv/syndi_uk) Twitch channels!
+This 2-day event during January 25–26 features a major tournament alongside bundle of side events, all streamed from the [SSLR](https://www.twitch.tv/sslrtourneys) and [Syndi_UK](https://www.twitch.tv/syndi_uk) Twitch channels!
 
 ## Schedule
 
@@ -28,7 +28,7 @@ This 2-day event during January 25–26 features a major tournaments and a bundl
 
 ## 1v1 double-elimination tournament
 
-The main event where legacy is cemented and players rise to the top. Will we see an underdog run or will it be a established player sweep? Find out in our double-elimination 1v1 tournament!
+The main event where legacy is cemented and players rise to the top. Will we see an underdog run, or will it be an established player sweep? Find out in our double-elimination 1v1 tournament!
 
 Witness osu!'s top players battle it out in person for their name to be remembered forever as the first to win SSLR. (And cool prizes, of course.)
 
@@ -38,8 +38,7 @@ While tournaments are the big attractions for this weekend's event, there's more
 
 ## Participants
 
-This could be *you*. It's an open rank extravaganza where you can be flown into Scotland to compete on the biggest stage osu! has cultivated. [Sign-ups are still open, so get yourself ready to become a legend
-](https://docs.google.com/forms/d/e/1FAIpQLSeIHwf4xEAifG2lCzWUu72w83F_PMsY0KNeZAGDzaJdq8PG_Q/viewform).
+This could be *you*. It's an open rank extravaganza where you can be flown into Scotland to compete on the biggest stage osu! has cultivated. [Sign-ups are still open, so get yourself ready to become a legend](https://docs.google.com/forms/d/e/1FAIpQLSeIHwf4xEAifG2lCzWUu72w83F_PMsY0KNeZAGDzaJdq8PG_Q/viewform).
 
 ---
 
