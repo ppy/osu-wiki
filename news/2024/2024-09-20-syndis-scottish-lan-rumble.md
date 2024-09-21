@@ -16,7 +16,7 @@ Qualifiers will take place between 21st–27th October (may change depending on 
 
 **If you're participating, you need to join the [Discord](https://discord.com/invite/NVXTyYgm7W) so we may contact you on the details to fly you out for the tournament.**
 
-This 2-day event during January 25–26 features a major tournament alongside bundle of side events, all streamed from the [SSLR](https://www.twitch.tv/sslrtourneys) and [Syndi_UK](https://www.twitch.tv/syndi_uk) Twitch channels!
+This 2-day event during January 25–26 features a major tournament alongside a bundle of side events, all streamed from the [SSLR](https://www.twitch.tv/sslrtourneys) and [Syndi_UK](https://www.twitch.tv/syndi_uk) Twitch channels!
 
 ## Schedule
 
