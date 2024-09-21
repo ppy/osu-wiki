@@ -115,22 +115,12 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/f3e
 
 ## Match schedule: Finals
 
-### Saturday, 21 September 2024
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=PH }:: Philippines | [Sep 21 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240921T120000&p1=1440&p2=235&p3=145) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| Chile ::{ flag=CL }:: | ::{ flag=CN }:: China | [Sep 21 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240921T150000&p1=1440&p2=232&p3=33) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-
 ### Sunday, 22 September 2024
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=CL }:: Chile | [Sep 22 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240922T020000&p1=1440&p2=235&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Philippines ::{ flag=PH }:: | ::{ flag=CL }:: Chile | [Sep 22 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240922T030000&p1=1440&p2=145&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | United States ::{ flag=US }:: | ::{ flag=TH }:: Thailand | [Sep 22 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240922T040000&p1=1440&p2=263&p3=28) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| South Korea ::{ flag=KR }:: | ::{ flag=CN }:: China | [Sep 22 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240922T130000&p1=1440&p2=235&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| Philippines ::{ flag=PH }:: | ::{ flag=CN }:: China | [Sep 22 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240922T130000&p1=1440&p2=145&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| South Korea ::{ flag=KR }:: | ::{ flag=CN }:: China | [Sep 22 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240922T130000&p1=1440&p2=235&p3=33) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | Grand Finals | mappool showcase | [Sep 22 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240922T150000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Mappools
@@ -282,6 +272,15 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/f3e
 8. [HIMEHINA - Hitogata (6TAN BOOTLEG) (Cut Ver.) (0DZ0) \[Stage 8: Virtualization\]](https://osu.ppy.sh/beatmapsets/2230145#mania/4732521)
 
 ## Match results
+
+### Finals
+
+Saturday, 21 September 2024:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **South Korea** ::{ flag=KR }:: | **7** | 0 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/115575753) | [#1](https://www.twitch.tv/videos/2256743528) |
+| Chile ::{ flag=CL }:: | 1 | **7** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/115578099) | [#1](https://www.twitch.tv/videos/2256782624) |
 
 ### Semifinals
 
@@ -596,7 +595,6 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 [^winners-bracket]: Winners bracket match
 [^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
-[^mappool-showcase]: Mappool showcase — schedule subject to rescheduling without prior notice, depending on preceding matches
+[^mappool-showcase]: Mappool showcase
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rating sum
