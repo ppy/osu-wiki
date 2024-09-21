@@ -20,11 +20,12 @@ tags:
 
 | 事项 | 时间 |
 | --: | :-- |
-| 报名时间 | 2024-08-10/2024-08-30 |
-| 四分之一决赛轮 | 2024-09-15/2024-09-17 |
-| 半决赛轮 |  |
-| 决赛轮 |  |
-| 总决赛轮 |  |
+| 报名 | 2024-08-10/2024-08-30 |
+| 组队 | 2024-08-20/2024-09-06 |
+| 四分之一决赛轮 | 2024-09-09/2024-09-17 |
+| 半决赛轮 | 2024-09-18/2024-09-30 |
+| 决赛轮 | 2024-10-01/2024-10-07 |
+| 总决赛轮 | 2024-10-08/2024-10-20 |
 
 ## 奖励
 
@@ -65,12 +66,22 @@ osu! FumoFumo Cup：琪露诺杯由众多的社区成员举办。
 - [OFFC 官网](https://offfc.github.io)
 - [参赛手册（腾讯文档）](https://docs.qq.com/doc/DV2VOWlZJdFZWZUpB)
 - [赛事讨论贴](https://osu.ppy.sh/community/forums/topics/1961114)
+- [对阵图](https://docs.google.com/spreadsheets/d/14ZFqYajLDRjr863hDo5n5xvGQMoDZPmNwJycgQXr3YQ/edit?gid=868349196#gid=868349196)
 - **[OFFC: cirno 主表 (Google Docs)](https://docs.google.com/spreadsheets/d/14ZFqYajLDRjr863hDo5n5xvGQMoDZPmNwJycgQXr3YQ)**
 - **[比赛信息表](https://docs.google.com/spreadsheets/d/14ZFqYajLDRjr863hDo5n5xvGQMoDZPmNwJycgQXr3YQ/edit?gid=1807200006)**
 
 ## 选手
 
-<!-- TODO -->
+| 队伍代号 | 队名 | 成员 |
+| :-: | :-: | :-- |
+| **#1** | 沟槽的烤翅还在开战舰追我 | [**Dura**](https://osu.ppy.sh/users/5185609), [ayaponzu](https://osu.ppy.sh/users/13291701), [suzuka1](https://osu.ppy.sh/users/29785618), [bad kitten](https://osu.ppy.sh/users/13875116), [NaimuTongzi](https://osu.ppy.sh/users/8883892), [chanliuko](https://osu.ppy.sh/users/32289237), [Fyu_Neru](https://osu.ppy.sh/users/6699436), [MyAngelMizuki_](https://osu.ppy.sh/users/15154497) |
+| **#2** | 身为pp刷子因没练图而成了传说 | [**WuYilcft**](https://osu.ppy.sh/users/4524794), [\[SomaRia\]](https://osu.ppy.sh/users/33249948), [SpaceSkyNet](https://osu.ppy.sh/users/19543134), [Sy_Abyss](https://osu.ppy.sh/users/24285249), [itsushini](https://osu.ppy.sh/users/17074316), [Mars New](https://osu.ppy.sh/users/8926316), [Citrusis](https://osu.ppy.sh/users/30298378), [Mobile storm](https://osu.ppy.sh/users/859785) |
+| **3** | Bingo! | [**Pouxba**](https://osu.ppy.sh/users/16378561), [AstonFrenchWine](https://osu.ppy.sh/users/12567023), [miltonfs](https://osu.ppy.sh/users/32610281), [JunMoyan](https://osu.ppy.sh/users/8368247), [Kuronami](https://osu.ppy.sh/users/29306402), [Tokai-Teio](https://osu.ppy.sh/users/311610), [KneeLowMan](https://osu.ppy.sh/users/22791494), [a_huang1](https://osu.ppy.sh/users/13864821) |
+| **4** | 这是什么 | [**Lifcoach**](https://osu.ppy.sh/users/9218431), [- Q](https://osu.ppy.sh/users/9164371), [Snte4es](https://osu.ppy.sh/users/24013879), [Pata-Mon](https://osu.ppy.sh/users/6149313), [yaddrx2](https://osu.ppy.sh/users/19285677), [LukeWarmSuiPiss](https://osu.ppy.sh/users/32605070), [zhuiyi_crane](https://osu.ppy.sh/users/24365691), [\[W\]hiteRBQ 033](https://osu.ppy.sh/users/8678443) |
+| **#5** | 内有小南梁 | [**qazoop**](https://osu.ppy.sh/users/16833395), [zzxLLL](https://osu.ppy.sh/users/28393465), [Flyingtuna3](https://osu.ppy.sh/users/34035726), [X Light](https://osu.ppy.sh/users/1814662), [Innocence_](https://osu.ppy.sh/users/17945067), [Pain boy](https://osu.ppy.sh/users/24579916), [Gensokyo_Ori](https://osu.ppy.sh/users/29314927), [The Origin](https://osu.ppy.sh/users/10225377) |
+| **#6** | Pingu\~Pingu\~ | [**phyllis_uwu**](https://osu.ppy.sh/users/17293204), [\[-Snow KaZe-\]](https://osu.ppy.sh/users/3309066), [bruh_shen](https://osu.ppy.sh/users/20581305), [MoneyBlue](https://osu.ppy.sh/users/810331), [A n g e l s](https://osu.ppy.sh/users/1595414), [- Ayaka -](https://osu.ppy.sh/users/27492576), [weiweiday](https://osu.ppy.sh/users/7565704), [kkk85027](https://osu.ppy.sh/users/5278462) |
+| **#7** | 诟撡𤷙𣧏𡣀𠔑𡉄𫟺㻵𧂂𨾻𠪧 | [**doulikeplayosu**](https://osu.ppy.sh/users/25785799), [l2883119](https://osu.ppy.sh/users/8844222), [6dl_](https://osu.ppy.sh/users/30894174), [rabbit emperor](https://osu.ppy.sh/users/18753676), [madlife_AA](https://osu.ppy.sh/users/32901756), [alkali_earth](https://osu.ppy.sh/users/32858645), [hiesimo](https://osu.ppy.sh/users/31443365), [Cibo](https://osu.ppy.sh/users/9484743) |
+| **8** | Helicopter | [**BocchiRocket**](https://osu.ppy.sh/users/20699990), [what th fxxl](https://osu.ppy.sh/users/25452354), [berrylove](https://osu.ppy.sh/users/16115679), [Explosion_MEOW](https://osu.ppy.sh/users/12806924), [yusen0806](https://osu.ppy.sh/users/33635384), [MyAngelNazuna](https://osu.ppy.sh/users/27141411), [\[mogezi\]](https://osu.ppy.sh/users/10483107), [puipui940515](https://osu.ppy.sh/users/20777456) |
 
 ## 图池
 
