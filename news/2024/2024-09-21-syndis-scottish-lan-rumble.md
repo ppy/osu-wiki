@@ -4,7 +4,7 @@ title: Syndi's Scottish LAN Rumble
 date: 2024-09-21 15:00:00 +0000
 ---
 
-The top 16 of osu!'s top tournament players will be battling it out in the first edition of **SSLR**, a major in-person Qualifiable tournament!
+The top 16 of osu!'s top tournament players will be battling it out in the first edition of **SSLR**, a major in-person qualifiable tournament!
 
 ![](/wiki/shared/news/2024-09-21-syndis-scottish-lan-rumble/banner.jpg)
 
@@ -12,9 +12,9 @@ SSLR takes the concept behind BTMC's [Roundtable](/wiki/Tournaments/The_Roundtab
 
 This means no invitational slots, Qualifiers rule all, and you could be there. [Signups](https://docs.google.com/forms/d/e/1FAIpQLSeIHwf4xEAifG2lCzWUu72w83F_PMsY0KNeZAGDzaJdq8PG_Q/viewform) are now open and will run until the **30th of September**.
 
-Qualifiers will take place between 21st–27th October (may change depending on screening) and will put players to their very limits, so only the best make it to Scotland in January.
+Qualifiers will take place between 21st–27th October (may change depending on screening) and will put players to their very limits, so only the best make it to Scotland in January. On that note:
 
-**If you're participating, you need to join the [Discord](https://discord.com/invite/NVXTyYgm7W) so we may contact you on the details to fly you out for the tournament.**
+**All players that qualify will have travel and accommodation paid for. If you're participating, you need to join the [Discord server](https://discord.com/invite/NVXTyYgm7W) so we may contact you on the details to fly you out for the tournament.**
 
 This 2-day event during January 25–26 features a major tournament alongside a bundle of side events, all streamed from the [SSLR](https://www.twitch.tv/sslrtourneys) and [Syndi_UK](https://www.twitch.tv/syndi_uk) Twitch channels!
 
@@ -38,7 +38,7 @@ While tournaments are the big attractions for this weekend's event, there's more
 
 ## Participants
 
-This could be *you*. It's an open rank extravaganza where you can be flown into Scotland to compete on the biggest stage osu! has cultivated. [Sign-ups are still open, so get yourself ready to become a legend](https://docs.google.com/forms/d/e/1FAIpQLSeIHwf4xEAifG2lCzWUu72w83F_PMsY0KNeZAGDzaJdq8PG_Q/viewform).
+This could be *you*. It's an international open rank extravaganza where you can be flown to Scotland to compete on the biggest stage osu! has cultivated. [Signups are still open, so get yourself ready to become a legend](https://docs.google.com/forms/d/e/1FAIpQLSeIHwf4xEAifG2lCzWUu72w83F_PMsY0KNeZAGDzaJdq8PG_Q/viewform).
 
 ---
 
