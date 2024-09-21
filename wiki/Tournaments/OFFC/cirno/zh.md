@@ -76,18 +76,52 @@ osu! FumoFumo Cup：琪露诺杯由众多的社区成员举办。
 | :-: | :-: | :-- |
 | **#1** | 沟槽的烤翅还在开战舰追我 | [**Dura**](https://osu.ppy.sh/users/5185609), [ayaponzu](https://osu.ppy.sh/users/13291701), [suzuka1](https://osu.ppy.sh/users/29785618), [bad kitten](https://osu.ppy.sh/users/13875116), [NaimuTongzi](https://osu.ppy.sh/users/8883892), [chanliuko](https://osu.ppy.sh/users/32289237), [Fyu_Neru](https://osu.ppy.sh/users/6699436), [MyAngelMizuki_](https://osu.ppy.sh/users/15154497) |
 | **#2** | 身为pp刷子因没练图而成了传说 | [**WuYilcft**](https://osu.ppy.sh/users/4524794), [\[SomaRia\]](https://osu.ppy.sh/users/33249948), [SpaceSkyNet](https://osu.ppy.sh/users/19543134), [Sy_Abyss](https://osu.ppy.sh/users/24285249), [itsushini](https://osu.ppy.sh/users/17074316), [Mars New](https://osu.ppy.sh/users/8926316), [Citrusis](https://osu.ppy.sh/users/30298378), [Mobile storm](https://osu.ppy.sh/users/859785) |
-| **3** | Bingo! | [**Pouxba**](https://osu.ppy.sh/users/16378561), [AstonFrenchWine](https://osu.ppy.sh/users/12567023), [miltonfs](https://osu.ppy.sh/users/32610281), [JunMoyan](https://osu.ppy.sh/users/8368247), [Kuronami](https://osu.ppy.sh/users/29306402), [Tokai-Teio](https://osu.ppy.sh/users/311610), [KneeLowMan](https://osu.ppy.sh/users/22791494), [a_huang1](https://osu.ppy.sh/users/13864821) |
-| **4** | 这是什么 | [**Lifcoach**](https://osu.ppy.sh/users/9218431), [- Q](https://osu.ppy.sh/users/9164371), [Snte4es](https://osu.ppy.sh/users/24013879), [Pata-Mon](https://osu.ppy.sh/users/6149313), [yaddrx2](https://osu.ppy.sh/users/19285677), [LukeWarmSuiPiss](https://osu.ppy.sh/users/32605070), [zhuiyi_crane](https://osu.ppy.sh/users/24365691), [\[W\]hiteRBQ 033](https://osu.ppy.sh/users/8678443) |
+| **#3** | Bingo! | [**Pouxba**](https://osu.ppy.sh/users/16378561), [AstonFrenchWine](https://osu.ppy.sh/users/12567023), [miltonfs](https://osu.ppy.sh/users/32610281), [JunMoyan](https://osu.ppy.sh/users/8368247), [Kuronami](https://osu.ppy.sh/users/29306402), [Tokai-Teio](https://osu.ppy.sh/users/311610), [KneeLowMan](https://osu.ppy.sh/users/22791494), [a_huang1](https://osu.ppy.sh/users/13864821) |
+| **#4** | 这是什么 | [**Lifcoach**](https://osu.ppy.sh/users/9218431), [- Q](https://osu.ppy.sh/users/9164371), [Snte4es](https://osu.ppy.sh/users/24013879), [Pata-Mon](https://osu.ppy.sh/users/6149313), [yaddrx2](https://osu.ppy.sh/users/19285677), [LukeWarmSuiPiss](https://osu.ppy.sh/users/32605070), [zhuiyi_crane](https://osu.ppy.sh/users/24365691), [\[W\]hiteRBQ 033](https://osu.ppy.sh/users/8678443) |
 | **#5** | 内有小南梁 | [**qazoop**](https://osu.ppy.sh/users/16833395), [zzxLLL](https://osu.ppy.sh/users/28393465), [Flyingtuna3](https://osu.ppy.sh/users/34035726), [X Light](https://osu.ppy.sh/users/1814662), [Innocence_](https://osu.ppy.sh/users/17945067), [Pain boy](https://osu.ppy.sh/users/24579916), [Gensokyo_Ori](https://osu.ppy.sh/users/29314927), [The Origin](https://osu.ppy.sh/users/10225377) |
 | **#6** | Pingu\~Pingu\~ | [**phyllis_uwu**](https://osu.ppy.sh/users/17293204), [\[-Snow KaZe-\]](https://osu.ppy.sh/users/3309066), [bruh_shen](https://osu.ppy.sh/users/20581305), [MoneyBlue](https://osu.ppy.sh/users/810331), [A n g e l s](https://osu.ppy.sh/users/1595414), [- Ayaka -](https://osu.ppy.sh/users/27492576), [weiweiday](https://osu.ppy.sh/users/7565704), [kkk85027](https://osu.ppy.sh/users/5278462) |
 | **#7** | 诟撡𤷙𣧏𡣀𠔑𡉄𫟺㻵𧂂𨾻𠪧 | [**doulikeplayosu**](https://osu.ppy.sh/users/25785799), [l2883119](https://osu.ppy.sh/users/8844222), [6dl_](https://osu.ppy.sh/users/30894174), [rabbit emperor](https://osu.ppy.sh/users/18753676), [madlife_AA](https://osu.ppy.sh/users/32901756), [alkali_earth](https://osu.ppy.sh/users/32858645), [hiesimo](https://osu.ppy.sh/users/31443365), [Cibo](https://osu.ppy.sh/users/9484743) |
-| **8** | Helicopter | [**BocchiRocket**](https://osu.ppy.sh/users/20699990), [what th fxxl](https://osu.ppy.sh/users/25452354), [berrylove](https://osu.ppy.sh/users/16115679), [Explosion_MEOW](https://osu.ppy.sh/users/12806924), [yusen0806](https://osu.ppy.sh/users/33635384), [MyAngelNazuna](https://osu.ppy.sh/users/27141411), [\[mogezi\]](https://osu.ppy.sh/users/10483107), [puipui940515](https://osu.ppy.sh/users/20777456) |
+| **#8** | Helicopter | [**BocchiRocket**](https://osu.ppy.sh/users/20699990), [what th fxxl](https://osu.ppy.sh/users/25452354), [berrylove](https://osu.ppy.sh/users/16115679), [Explosion_MEOW](https://osu.ppy.sh/users/12806924), [yusen0806](https://osu.ppy.sh/users/33635384), [MyAngelNazuna](https://osu.ppy.sh/users/27141411), [\[mogezi\]](https://osu.ppy.sh/users/10483107), [puipui940515](https://osu.ppy.sh/users/20777456) |
 
-## 图池
+## 棋盘与图池
 
 ### 四分之一决赛轮 (QF)
 
-<!-- TODO -->
+**[在这里下载谱面包！（大小：165 MB）](https://drive.google.com/file/d/1NNIv0-WKktl0xQ6IBeRbtheh-mNprD5N/view)**
+
+| 列/行 | 1 | 2 | 3 | 4 |
+| :-: | :-: | :-: | :-: | :-: |
+| 1 | FM1 | HR1 | DT2 | NM3 |
+| 2 | FM3 | HD2 | NM2 | FM4 |
+| 3 | DT4 | FM2 | DT1 | NM1 |
+| 4 | HR2 | NM4 | HD1 | DT3 |
+
+- NoMod
+  1. [Kushper - Versailles [Kushper's Extra]](https://osu.ppy.sh/beatmapsets/2008600#osu/4233618)
+  2. [Demetori - Hartmann no Youkai Shoujo ~ Todestrieb und Lebenstrieb [Daycore's Skibidi Koishi Expert]](https://osu.ppy.sh/beatmapsets/1783400#osu/4643905)
+  3. [Synthion - Aurora [Extra]](https://osu.ppy.sh/beatmapsets/2007718#osu/4194938)
+  4. [Tsukuyomi - Tsuki ga Michiru [Collab Expert]](https://osu.ppy.sh/beatmapsets/1843924#osu/3822394)
+- Hidden
+  1. [sana - Sayonara, Teddy bear [Farewell, My beloved]](https://osu.ppy.sh/beatmapsets/2191905#osu/4636550)
+  2. [-45 - Kurenaikakei [allein's Insane]](https://osu.ppy.sh/beatmapsets/1893565#osu/3982739)
+- HardRock
+  1. [Rib - Tsukiakari [Chu's Another]](https://osu.ppy.sh/beatmapsets/1688783#osu/3661191)
+  2. [inabakumori x Neru - Roleless Weapon [Wither's Useless Insane]](https://osu.ppy.sh/beatmapsets/1949918#osu/4118560)
+- DoubleTime
+  1. [Huey Lewis and the News - Hip to Be Square [Hey Paul]](https://osu.ppy.sh/beatmapsets/2114775#osu/4440743)
+  2. [dieswyx - Do I deserve this [siiyu's hyper]](https://osu.ppy.sh/beatmapsets/2062869#osu/4314230)
+  3. [harmoe - VOICE [Hyper]](https://osu.ppy.sh/beatmapsets/1965103#osu/4662409)
+  4. [Otoda Masanori - fake face dance music [chu's insane]](https://osu.ppy.sh/beatmapsets/2056969#osu/4626185)
+- FreeMod
+  1. [TAG underground - POSSESSION [Ex]](https://osu.ppy.sh/beatmapsets/2244350#osu/4771156)
+  2. [Feryquitous - Qavsell [Otosaka's Insane]](https://osu.ppy.sh/beatmapsets/794102#osu/3987302)
+  3. [goreshit - Satori De Pon! [Kiarah's Extra]](https://osu.ppy.sh/beatmapsets/1550807#osu/4683469)
+  4. [Pa's Lam System - Like A Lady [AncuL's Insane]](https://osu.ppy.sh/beatmapsets/675600#osu/1706356)
+- Extra
+  1. [Magnetude - I'm For You [Extra: Steklovata]](https://osu.ppy.sh/beatmapsets/1133651#osu/3886335)
+  2. [Ogura Yui - Clear Morning [Daybreak]](https://osu.ppy.sh/beatmapsets/1644119#osu/3355984)
+  3. [VeetaCrush - Dandelion's Daydream (Extended Mix) [384's "Void" Another]](https://osu.ppy.sh/beatmapsets/1342167#osu/3214255)
+  4. [Halozy - Kanshou no Matenrou [Eternal]](https://osu.ppy.sh/beatmapsets/179699#osu/431957)
 
 ## 比赛结果
 
