@@ -32,7 +32,7 @@ Try your luck on [this 9.63-star Loved map](https://osu.ppy.sh/beatmapsets/12327
 
 ### SHIKI - Lapis (Kagetora. remix)
 
-Experience [this 7K osu!mania marathon](https://osu.ppy.sh/beatmapsets/1510347) hosted by [Kawawa](https://osu.ppy.sh/users/4647754)!
+Experience [this 7K osu!mania marathon](https://osu.ppy.sh/beatmapsets/1510347)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/438/Songs/SHIKI%20-%20Lapis%20(Kagetora.%20remix).mp3">
