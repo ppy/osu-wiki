@@ -6,7 +6,7 @@ date: 2024-09-21 17:00:00 +0000
 
 A legend joins the ranks: welcome **Kagetora.** to our Featured Artists!
 
-![](https://assets.ppy.sh/artists/xxx/header.jpg)
+![](https://assets.ppy.sh/artists/438/header.jpg)
 
 From full flavour marathon tracks to oriental tunes under his alias *Eisyo-Kobu*, **Kagetora.** has become well-established in the rhythm game scene through features in games like *Arcaea*, *SOUND VOLTEX*, *Cytus II*, *Muse Dash*, and (of course) osu!.
 
@@ -18,7 +18,7 @@ If you're a tournament player, you're already *very* familiar with **Kagetora.**
 
 <div align="center">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/artists/xxx/release_showcase.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/artists/438/release_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -27,7 +27,7 @@ If you're a tournament player, you're already *very* familiar with **Kagetora.**
 Try your luck on [this 9.63-star Loved map](https://osu.ppy.sh/beatmapsets/1232750) hosted by [waywern2012](https://osu.ppy.sh/users/5870453)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/438/Songs/Kagetora.%20-%20Crazy%20banger.mp3">
 </audio>
 
 ### SHIKI - Lapis (Kagetora. remix)
@@ -35,7 +35,7 @@ Try your luck on [this 9.63-star Loved map](https://osu.ppy.sh/beatmapsets/12327
 Experience [this 7K osu!mania marathon](https://osu.ppy.sh/beatmapsets/1510347) hosted by [Kawawa](https://osu.ppy.sh/users/4647754)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/438/Songs/SHIKI%20-%20Lapis%20(Kagetora.%20remix).mp3">
 </audio>
 
 ### Eisyo-kobu - Faithtival
@@ -43,7 +43,7 @@ Experience [this 7K osu!mania marathon](https://osu.ppy.sh/beatmapsets/1510347) 
 Play through [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1813733) hosted by [Nao Tomori](https://osu.ppy.sh/users/5364763)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/438/Songs/Eisyo-kobu%20-%20Faithtival.mp3">
 </audio>
 
 ---
