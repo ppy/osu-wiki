@@ -38,7 +38,7 @@ While tournaments are the big attractions for this weekend's event, there's more
 
 ## Participants
 
-This could be *you*. It's an international open rank extravaganza where you can be flown into Scotland to compete on the biggest stage osu! has cultivated. [Sign-ups are still open, so get yourself ready to become a legend](https://docs.google.com/forms/d/e/1FAIpQLSeIHwf4xEAifG2lCzWUu72w83F_PMsY0KNeZAGDzaJdq8PG_Q/viewform).
+This could be *you*. It's an international open rank extravaganza where you can be flown to Scotland to compete on the biggest stage osu! has cultivated. [Signups are still open, so get yourself ready to become a legend](https://docs.google.com/forms/d/e/1FAIpQLSeIHwf4xEAifG2lCzWUu72w83F_PMsY0KNeZAGDzaJdq8PG_Q/viewform).
 
 ---
 
