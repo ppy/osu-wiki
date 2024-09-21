@@ -8,7 +8,7 @@ A legend joins the ranks: welcome **Kagetora.** to our Featured Artists!
 
 ![](https://assets.ppy.sh/artists/438/header.jpg)
 
-From full flavour marathon tracks to oriental tunes under his alias *Eisyo-Kobu*, **Kagetora.** has become well-established in the rhythm game scene through features in games like *Arcaea*, *SOUND VOLTEX*, *Cytus II*, *Muse Dash*, and (of course) osu!.
+From full flavour marathon tracks to oriental tunes under his alias *Eisyo-Kobu*, **Kagetora.** has become well established in the rhythm game scene through features in games like *Arcaea*, *SOUND VOLTEX*, *Cytus II*, *Muse Dash*, and (of course) osu!.
 
 If you're a tournament player, you're already *very* familiar with **Kagetora.**'s sound. Series like [EGTS](/wiki/Tournaments/GTS), [Resurrection Cup](https://osu.ppy.sh/home/news/2024-05-12-resurrection-cup-2024-registration-now-open), and [Badly Wood Cup](https://osu.ppy.sh/community/forums/topics/1921523) have highlighted **Kagetora.** with new original tracks that are specifically designed for osu! (a.k.a. [osu! originals](/wiki/osu!_originals)).
 
