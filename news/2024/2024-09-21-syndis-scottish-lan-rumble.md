@@ -6,7 +6,7 @@ date: 2024-09-21 14:00:00 +0000
 
 The top 16 of osu!'s top tournament players will be battling it out in the first edition of **SSLR**, a major in-person Qualifiable tournament!
 
-![](/wiki/shared/news/2024-09-20-syndis-scottish-lan-rumble/banner.jpg)
+![](/wiki/shared/news/2024-09-21-syndis-scottish-lan-rumble/banner.jpg)
 
 SSLR takes the concept behind BTMC's [Roundtable](/wiki/Tournaments/The_Roundtable) series of tournaments and raises the bar massively by letting the top 16 qualify and be flown to play on the big stage in **Dundee, Scotland**.
 
