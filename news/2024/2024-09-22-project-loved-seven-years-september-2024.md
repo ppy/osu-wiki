@@ -43,18 +43,20 @@ Lastly, we have some team updates incoming! This is what's hot off the press:
 - [aceticke](https://osu.ppy.sh/users/8838763) (that's me!) has resigned from osu!taiko captain and metadata reviewer duties. I'll be focusing on coordination going forward!
 - [Jerry](https://osu.ppy.sh/users/605973) has resigned as a metadata reviewer, bid him farewell and a good luck on his other ventures!
 
-<div align="center">
-  <video width="95%" controls>
-    <source src="https://assets.ppy.sh/project-loved/2024/sep24-intro.mp4" type="video/mp4" preload="none">
-  </video>
-</div>
-
 ### Navigation
 
 - **[osu!](#osu!)** ([Download pack](https://packs.ppy.sh/LR12%20-%20Project%20Loved:%20September%202024%20(osu!).zip))
 - **[osu!taiko](#osu!taiko)** ([Download pack](https://packs.ppy.sh/LR11%20-%20Project%20Loved:%20September%202024%20(osu!taiko).zip))
 - **[osu!catch](#osu!catch)** ([Download pack](https://packs.ppy.sh/LR10%20-%20Project%20Loved:%20September%202024%20(osu!catch).zip))
 - **[osu!mania](#osu!mania)** ([Download pack](https://packs.ppy.sh/LR9%20-%20Project%20Loved:%20September%202024%20(osu!mania).zip))
+
+## Summary
+
+<div align="center">
+  <video width="95%" controls>
+    <source src="https://assets.ppy.sh/project-loved/2024/sep24-intro.mp4" type="video/mp4" preload="none">
+  </video>
+</div>
 
 ## osu!
 
