@@ -18,11 +18,11 @@
 
 ![](img/relax.png "Relax \(v1\)") ![](img/half_time.png "Half Time \(v1\)")
 
-为了维护游戏平衡， [Relax](/wiki/Gameplay/Game_modifier/Relax) (RX) 和 [Half Time](/wiki/Gameplay/Game_modifier/Half_Time) (HT) 两个新的 MOD 加入游戏，使得玩家能够更轻松的活着。现在，用户们可以截图，也可以导入或导出[回放](/wiki/Gameplay/Replay)。动画首次可以被[故事板化](/wiki/Storyboard)，并且[皮肤](/wiki/Skinning)选择界面被加入。通过对于选歌界面的性能优化（也就是在本地谱面数据库中采用了一种新格式），载入时间减少了 82%。同时， 还进行了其他各种性能调整，包括引入 帧率限制的不同选项和其他一些图形选项。[Bancho](/wiki/Banchoo_(server)) 项目始于 2008 年 3 月 24 日。 其目的是为 osu! 家族创建一个用于处理用户之间的通信的服务器组件，并消除对于 [IRC](/wiki/Community/Internet_Relay_Chat)（互联网中继聊天）的依赖性。
+为了维护游戏平衡， [Relax](/wiki/Gameplay/Game_modifier/Relax) (RX) 和 [Half Time](/wiki/Gameplay/Game_modifier/Half_Time) (HT) 两个新的 MOD 加入游戏，使得玩家能够更轻松的活着。现在，用户们可以截图，也可以导入或导出[回放](/wiki/Gameplay/Replay)。动画首次可以被[故事板化](/wiki/Storyboard)，并且[皮肤](/wiki/Skinning)选择界面被加入。通过对于选歌界面的性能优化（也就是在本地谱面数据库中采用了一种新格式），载入时间减少了 82%。同时， 还进行了其他各种性能调整，包括引入 帧率限制的不同选项和其他一些图形选项。[Bancho](/wiki/Bancho_\(server\)) 项目始于 2008 年 3 月 24 日。 其目的是为 osu! 家族创建一个用于处理用户之间的通信的服务器组件，并消除对于 [IRC](/wiki/Community/Internet_Relay_Chat)（互联网中继聊天）的依赖性。
 
 ## 四月
 
-这绝对不是一个玩笑，但是 Bancho 和 [扩展聊天](/wiki/Client/Interface/Chat_console#extended-chat-console) 却同时在四月份上线。用户现在可以在自己的用户面板上看到其他用户在做什么，也可以通过点击旁观按钮与他们互动。 自动错误提交系统首次亮相， xfire 兼容性得以实现，主菜单和编辑器界面也由 [LuigiHann](https://osu.ppy.sh/users/1079) 制作的新图标焕然一新。 聊天界面新增了 "显示聊天 "按钮、标签自动补全和[昵称高亮](/wiki/Client/Interface/Chat_console/Highlight)提示。 等级界面现在会显示达到下一等级所需的分数。
+这绝对不是一个玩笑，但是 Bancho 和 [扩展聊天](/wiki/Client/Interface/Chat_console#扩展聊天面板) 却同时在四月份上线。用户现在可以在自己的用户面板上看到其他用户在做什么，也可以通过点击旁观按钮与他们互动。 自动错误提交系统首次亮相， xfire 兼容性得以实现，主菜单和编辑器界面也由 [LuigiHann](https://osu.ppy.sh/users/1079) 制作的新图标焕然一新。 聊天界面新增了 "显示聊天 "按钮、标签自动补全和[昵称高亮](/wiki/Client/Interface/Chat_console/Highlight)提示。 等级界面现在会显示达到下一等级所需的分数。
 
 ## 五月
 
@@ -42,3 +42,32 @@
 
 像七月份一样，本月很难找到 osu! 没有改进或优化的方面。 在全新添加的内容方面，节拍图中添加了标签，并试验性地实现了多显示器支持。 一种新的取消暂停的方法，也就是要求玩家将光标对齐在暂停时光标的位置，被加入到游戏中。而其目的就是防止玩家滥用暂停功能。
 
+尽管这需要对数据库进行相当大的优化，但选歌界面中终于加入了个人最佳成绩的显示，也满足了玩家们长期以来的要求。 排名屏幕和默认皮肤的各种元素进行了图形改进，使其感觉比以前更加简洁明快。 滑块得分精灵（10/30）的显示得以实现。多人游戏功能的设置得到了提升，并且允许转移房主。为了提升玩家们的便利性，许多新的[聊天命令](/wiki/Client/Interface/Chat_console#命令列表)被加入。
+
+新增了一种新的排名状态"![](img/fire.gif) [达标](/wiki/Beatmap/Category#approved)"，用于标识那些质量上乘但超出最大谱面长度、难度或其他限制的地图。 处于这种状态的地图不会增加玩家的分数，但会有排行榜，其他方面与 ![](img/heart.gif) [上架](/wiki/Beatmap/Category#ranked) 地图类似。
+
+## 九月
+
+![](img/flashlight.png "Flashlight \(v1\)") ![](img/spun_out.png "Spun Out \(v1\)") ![](img/auto.png "Auto \(v1\)")
+
+本月推出了一系列新的修改器： [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight)、[Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out) 和 [Auto](/wiki/Gameplay/Game_modifier/Auto) 。 “Auto” 是一个人机，能以完美的[准确率](/wiki/Gameplay/Accuracy)完成（几乎）所有谱面，也可以通过编辑器测试模式进入。 通过添加更多可更换皮肤的元素（包括[连击爆破图像](/wiki/Gameplay/Comboburst)、声音样本、为单个滑块端点分配声音样本的功能以及继承定时部分），节拍图设计的边界被推得更远。 选歌界面也进行了全面修改。
+
+## 十月
+
+在私人测试环境中，OpenGL 实现和即将登场的游戏模式（ [Catch the Beat](/wiki/Game_mode/osu!catch) ）取得了进展。 为了使游戏模式更加模块化，以便更方便地添加新的游戏模式，osu! 的许多内部功能都进行了重写。这总共修改了 4000 多行代码。由于改动较大，十月份并没有公布更新。
+
+## 十一月
+
+![](img/fruit_ryuuta.png "Catch the Beat的接水果小人")
+
+十一月份推出了全新的游戏模式 "Catch the Beat"。 osu! 在这个月添加了 OpenGL 支持，使得它可以在大多数系统上运行。 本次更新的其他新特性包括游戏内好友列表支持、私聊选项卡、新教程/[偏移向导](/wiki/Client/Options/Offset_Wizard) 以及 osu!direct（为赞助者提供的游戏内谱面下载功能）。
+
+由于下载了大量谱面的用户抱怨 osu！的加载时间太长，peppy 花了不少时间进行了极限的优化，从而提高了令人难以想象的性能（大约提升了9000倍）。 加载界面所需时间从原来的一分钟以上缩短到了现在的几毫秒以内。
+
+## 十二月
+
+2008 年的最后一个月， osu! 的开发有了不少的成果。 在 osu！的第二个圣诞节，故事板编辑器的第一个版本得以实施，使得用户更容易使用故事板功能。 第二个多人游戏模式被添加进来："标签游戏"。 这是一种合作模式，玩家轮流玩谱面。 而多人游戏的另一个新增功能是 "以准确率作为胜利条件"。 现在，游戏集成了 MSN 和雅虎状态，用户可以完全自主地自定义按键绑定和聊天高亮触发词。
+
+在线谱面列表中增加了谱面缩略图和歌曲预览，使找到您想玩的谱面变得更加容易。
+
+另一个值得注意的事件是，在这个月里，[Catch the Beat得分进行了重置](https://osu.ppy.sh/community/forums/topics/7996) 。 此后，"Catch the Beat" 模式中 mod 的得分倍率也发生了变化。
