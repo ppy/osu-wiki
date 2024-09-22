@@ -1,0 +1,44 @@
+# osu! 2008大事记
+
+![](img/2008.jpg)
+
+## 一月
+
+在2007年12月17日至2008年1月20日之间， peppy 在日本失踪了。他以某种方式离开了 osu! 的开发工作整整一个月，这也导致了这段时间内没有任何大更新。（当然，osu! 社区的发展在这段时间内也相当停滞）。
+
+![](img/2008-01_01.jpg)
+
+## 二月
+
+![](img/hard_rock.png "Hard Rock \(v1\)") ![](img/sudden_death.png "Sudden Death \(v1\)") ![](img/double_time.png "Double Time \(v1\)")
+
+[Hard rock](/wiki/Gameplay/Game_modifier/Hard_Rock)、[Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_Death) 和 [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) 这三个[模组](/wiki/Gameplay/Game_modifier)给了玩家们更多的挑战。游戏体验通过倒计时图像和声音、自定义连击数字和颜色、O/X（通过/失败）段排名，每个计时段的独立音量控制，以及（恐怕是最重要的）对于[使用脚本制作故事板](/wiki/Storyboard/Scripting)的支持得到了极大的加强。曾有人试图将 osu！转移到 XNAv2 框架上，但 peppy 认为这个新版本毫无用处，而且降低了整体性能。但是，从这时起，osu！开始使用根据 osu! 的需求进行了数千行重写和 "修改"的 XNA1.1 框架。这个框架使得 osu！成为了现在的样子。 此外 osu! 还采用了新的文本渲染引擎，可以在任何字体大小的情况下显示非常清晰的字体。这样[作图器](/wiki/Client/Beatmap_editor)就可以现实更多信息；同时这个字体渲染引擎也使得游戏整体看起来更好。
+
+## 三月
+
+![](img/relax.png "Relax \(v1\)") ![](img/half_time.png "Half Time \(v1\)")
+
+为了维护游戏平衡， [Relax](/wiki/Gameplay/Game_modifier/Relax) (RX) 和 [Half Time](/wiki/Gameplay/Game_modifier/Half_Time) (HT) 两个新的 MOD 加入游戏，使得玩家能够更轻松的活着。现在，用户们可以截图，也可以导入或导出[回放](/wiki/Gameplay/Replay)。动画首次可以被[故事板化](/wiki/Storyboard)，并且[皮肤](/wiki/Skinning)选择界面被加入。通过对于选歌界面的性能优化（也就是在本地谱面数据库中采用了一种新格式），载入时间减少了 82%。同时， 还进行了其他各种性能调整，包括引入 帧率限制的不同选项和其他一些图形选项。[Bancho](/wiki/Banchoo_(server)) 项目始于 2008 年 3 月 24 日。 其目的是为 osu! 家族创建一个用于处理用户之间的通信的服务器组件，并消除对于 [IRC](/wiki/Community/Internet_Relay_Chat)（互联网中继聊天）的依赖性。
+
+## 四月
+
+这绝对不是一个玩笑，但是 Bancho 和 [扩展聊天](/wiki/Client/Interface/Chat_console#extended-chat-console) 却同时在四月份上线。用户现在可以在自己的用户面板上看到其他用户在做什么，也可以通过点击旁观按钮与他们互动。 自动错误提交系统首次亮相， xfire 兼容性得以实现，主菜单和编辑器界面也由 [LuigiHann](https://osu.ppy.sh/users/1079) 制作的新图标焕然一新。 聊天界面新增了 "显示聊天 "按钮、标签自动补全和[昵称高亮](/wiki/Client/Interface/Chat_console/Highlight)提示。 等级界面现在会显示达到下一等级所需的分数。
+
+## 五月
+
+![](img/taiko.png "Taiko Mod")
+
+本月，[Taiko](/wiki/Game_mode/osu!taiko) 模式首次亮相，同时还新增了另一项重要功能—— ".osb " 故事板脚本支持。 多部分滑块和私聊功能也已加入。
+
+## 六月
+
+随着[多人游戏](/wiki/Client/Interface/Multiplayer)模式的加入，osu! 达到了一个重要的里程碑。 皮肤选项在图形和声音方面都得到了进一步扩展。 最后，多频道聊天首次成为可能。
+
+## 七月
+
+本月，编辑器、多人游戏、故事板、图形和聊天控制台都得到了大量改进。 设置界面采用了新的布局，并引入了[自定义按键绑定](/wiki/Client/Options/Keyboard_bindings)功能。
+
+## 八月
+
+像七月份一样，本月很难找到 osu! 没有改进或优化的方面。 在全新添加的内容方面，节拍图中添加了标签，并试验性地实现了多显示器支持。 一种新的取消暂停的方法，也就是要求玩家将光标对齐在暂停时光标的位置，被加入到游戏中。而其目的就是防止玩家滥用暂停功能。
+
