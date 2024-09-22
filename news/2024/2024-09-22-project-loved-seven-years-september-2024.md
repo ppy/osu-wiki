@@ -9,7 +9,7 @@ Another year passes, Happy 7th Birthday to Project Loved!
 
 ![](/wiki/shared/news/banners/project-loved-2.jpg)
 
-Welcome to this month's Project Loved post! Unsure what we do? Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). All of the maps are chosen by the [Loved captains](https://loved.sh/team) of their respective game modes. Each beatmap banner in this news post will redirect you to the respective poll, or you can view them all directly on the [Project Loved forum](https://osu.ppy.sh/community/forums/120). The voting process lasts for 10 days, so don't forget to vote! More info can be found on the [wiki page](https://osu.ppy.sh/wiki/Community/Project_Loved) and [website](https://loved.sh/).
+Welcome to this month's Project Loved post! Unsure what we do? Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). All of the maps are chosen by the [Loved captains](https://loved.sh/team) of their respective game modes. Each beatmap banner in this news post will redirect you to the respective poll, or you can view them all directly on the [Project Loved forum](https://osu.ppy.sh/community/forums/120). The voting process lasts for 10 days, so don't forget to vote! More info can be found on the [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/).
 
 Speaking of the website, did you know you can directly contribute to Project Loved? It is a little known fact that the underground moles of the Project Loved team peruse user-submitted contributions through the Project Loved website! The community (that's you!) have a voice where you can shout as passionately as you can about your favorite maps. Check it out by clicking the banner below!
 
@@ -17,10 +17,10 @@ Speaking of the website, did you know you can directly contribute to Project Lov
 
 Thank you for voting on the August round everyone! To view the results, click one of the following links:
 
-* [Results for osu!](https://osu.ppy.sh/community/forums/topics/1966748)
-* [Results for osu!taiko](https://osu.ppy.sh/community/forums/topics/1966747)
-* [Results for osu!catch](https://osu.ppy.sh/community/forums/topics/1966746)
-* [Results for osu!mania](https://osu.ppy.sh/community/forums/topics/1966745)
+- [Results for osu!](https://osu.ppy.sh/community/forums/topics/1966748)
+- [Results for osu!taiko](https://osu.ppy.sh/community/forums/topics/1966747)
+- [Results for osu!catch](https://osu.ppy.sh/community/forums/topics/1966746)
+- [Results for osu!mania](https://osu.ppy.sh/community/forums/topics/1966745)
 
 Did you know we have dedicated Project Loved community servers for each game mode? Check them out here!
 
@@ -40,8 +40,8 @@ To mark this momentus occassion why not celebrate by showing some extra love to 
 
 We have some team updates incoming! This is what's hot off the press:
 
-* [aceticke](https://osu.ppy.sh/users/8838763) (that's me!) has resigned from osu!taiko captain and metadata reviewer duties. I'll be focusing on coordination going forward!
-* [Jerry](https://osu.ppy.sh/users/605973) has resigned as a metadata reviewer, bid him farewell and a good luck on his other ventures!
+- [aceticke](https://osu.ppy.sh/users/8838763) (that's me!) has resigned from osu!taiko captain and metadata reviewer duties. I'll be focusing on coordination going forward!
+- [Jerry](https://osu.ppy.sh/users/605973) has resigned as a metadata reviewer, bid him farewell and a good luck on his other ventures!
 
 <div align="center">
   <video width="95%" controls>
@@ -468,7 +468,7 @@ We are happy to say that the 10K community is the most active part of the mania 
 
 From [all of us working on Project Loved](https://loved.sh/contributors), we hope you enjoyed this month's selection and stay tuned for the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end. So, don't forget to stay hydrated and vote on your favourite beatmaps in order for that to happen!
 
-More info about Project Loved can be found on its [wiki page](https://osu.ppy.sh/wiki/Community/Project_Loved) and [website](https://loved.sh/). Stop by the `#osu-loved` channel of the [osu! Discord server](https://discord.com/invite/ppy) if you have any questions, concerns, or are interested in helping out.
+More info about Project Loved can be found on its [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/). Stop by the `#osu-loved` channel of the [osu! Discord server](https://discord.com/invite/ppy) if you have any questions, concerns, or are interested in helping out.
 
 Don't forget to also check out the dedicated [Project Loved beatmap packs](https://osu.ppy.sh/beatmaps/packs?type=loved) and acquire yourself some exquisite Project Loved medals!
 
