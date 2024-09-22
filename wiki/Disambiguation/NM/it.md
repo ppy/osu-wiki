@@ -8,3 +8,4 @@
   - ![](/wiki/shared/diff/normal-o.png?20211215) Normal, per osu!.
   - ![](/wiki/shared/diff/normal-t.png?20211215) Muzukashii, per osu!taiko.
   - ![](/wiki/shared/diff/normal-c.png?20211215) Salad, per osu!catch.
+  
