@@ -18,7 +18,7 @@
 
 ![](img/relax.png "Relax \(v1\)") ![](img/half_time.png "Half Time \(v1\)")
 
-为了维护游戏平衡， [Relax](/wiki/Gameplay/Game_modifier/Relax) (RX) 和 [Half Time](/wiki/Gameplay/Game_modifier/Half_Time) (HT) 两个新的 MOD 加入游戏，使得玩家能够更轻松的活着。现在，用户们可以截图，也可以导入或导出[回放](/wiki/Gameplay/Replay)。动画首次可以被[故事板化](/wiki/Storyboard)，并且[皮肤](/wiki/Skinning)选择界面被加入。通过对于选歌界面的性能优化（也就是在本地谱面数据库中采用了一种新格式），载入时间减少了 82%。同时， 还进行了其他各种性能调整，包括引入 帧率限制的不同选项和其他一些图形选项。[Bancho](/wiki/Bancho_\(server\)) 项目始于 2008 年 3 月 24 日。 其目的是为 osu! 家族创建一个用于处理用户之间的通信的服务器组件，并消除对于 [IRC](/wiki/Community/Internet_Relay_Chat)（互联网中继聊天）的依赖性。
+为了维护游戏平衡， [Relax](/wiki/Gameplay/Game_modifier/Relax) (RX) 和 [Half Time](/wiki/Gameplay/Game_modifier/Half_Time) (HT) 两个新的 MOD 加入游戏，使得玩家能够更轻松的活着。现在，用户们可以截图，也可以导入或导出[回放](/wiki/Gameplay/Replay)。动画首次可以被[故事板化](/wiki/Storyboard)，并且[皮肤](/wiki/Skinning)选择界面被加入。通过对于选歌界面的性能优化（也就是在本地谱面数据库中采用了一种新格式），载入时间减少了 82%。同时， 还进行了其他各种性能调整，包括引入 帧率限制的不同选项和其他一些图形选项。[Bancho](/wiki/Bancho_(server)) 项目始于 2008 年 3 月 24 日。 其目的是为 osu! 家族创建一个用于处理用户之间的通信的服务器组件，并消除对于 [IRC](/wiki/Community/Internet_Relay_Chat)（互联网中继聊天）的依赖性。
 
 ## 四月
 
