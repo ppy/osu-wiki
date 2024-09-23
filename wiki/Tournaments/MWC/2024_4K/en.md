@@ -207,12 +207,12 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/f3e
   1. [AZKi - Fake.Fake.Fake (Cut Ver.) (\[Crz\]Crysarlene) \[Dissimulate\]](https://osu.ppy.sh/beatmapsets/2246297#mania/4775830)
   2. [Hino Isuka - Dreamin' attraction!! (Toaph Daddy) \[Moe Factor \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/2246225#mania/4775650)
   3. [Camellia vs. Expander - AZISAI (lemonguy) \[LN Master\]](https://osu.ppy.sh/beatmapsets/2246365#mania/4775956)
-  4. [Kabocha feat. Aitsuki Nakuru - Dear The Night I Loved (-mint-) \[A Painting Forever Unfinished\]](https://osu.ppy.sh/beatmapsets/2246380#mania/4775997)
+  4. [Kabocha feat. Aitsuki Nakuru - Dear The Night I Loved (-mint-, MyZterioN-) \[A Painting Forever Unfinished\]](https://osu.ppy.sh/beatmapsets/2246380#mania/4775997)
 - SV
   1. [Zexnum - You Ling Wu Chi (RuleBlazing) \[CORRUPTED SV FILE\]](https://osu.ppy.sh/beatmapsets/2246319#mania/4775879)
   2. [t+pazolite - Beatboxer VS Trackmaker feat. KAJI & Kohey (AlexDunk) \[:Final-Showdown:\]](https://osu.ppy.sh/beatmapsets/2246368#mania/4775966)
 - Tiebreaker
-  1. **[Ludicin - Echoes of Memoria (-mint-) \[Solace of Oblivion\]](https://osu.ppy.sh/beatmapsets/2246382#mania/4775999)**
+  1. **[Ludicin - Echoes of Memoria (-mint-, elexire) \[Solace of Oblivion\]](https://osu.ppy.sh/beatmapsets/2246382#mania/4775999)**
 
 ### Quarterfinals
 
@@ -223,22 +223,22 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/f3e
   1. [petit milady - Himawari no Sakamichi (Cut Ver.) (Miaurichesu) \[Sunflower Sanctuary\]](https://osu.ppy.sh/beatmapsets/2242635#mania/4766752)
   2. [katagiri - Various Artists (Cut Ver.) (-mint-) \[Delete Upon Download\]](https://osu.ppy.sh/beatmapsets/2242643#mania/4766763)
   3. [cygnus - Tree of Misery (Miaurichesu) \[Agony\]](https://osu.ppy.sh/beatmapsets/2242640#mania/4766759)
-  4. [The Flashbulb - A Raw Understanding (Pizza69) \[Collab Extra (cut) 1.15x (190bpm)\]](https://osu.ppy.sh/beatmapsets/1632098#mania/4766799)
+  4. [The Flashbulb - A Raw Understanding (Pizza69, M0nkeyz) \[Collab Extra (cut) 1.15x (190bpm)\]](https://osu.ppy.sh/beatmapsets/1632098#mania/4766799)
   5. [Ushirokara Haiyoritai G - Koi wa Chaos no Shimobenari (TV Size) (0DZ0) \[Pandemonium\]](https://osu.ppy.sh/beatmapsets/2242646#mania/4766766)
   6. [Frums - gur yvsr (kari) (Vortex-) \[(^^)\]](https://osu.ppy.sh/beatmapsets/2242442#mania/4766318)
 - Hybrid
   1. [sasakure.UK x TJ.hangneil - raputa (\[GB\]V1do) \[Hollow 1.05x (242bpm)\]](https://osu.ppy.sh/beatmapsets/2242647#mania/4766767)
   2. [lapix - Carry Me Away (-mint-) \[Into The Light\]](https://osu.ppy.sh/beatmapsets/2226931#mania/4724223)
-  3. [sakuraburst - dragonlands (Cut Ver.) (Alptraum) \[/ wyrm\]](https://osu.ppy.sh/beatmapsets/2242653#mania/4766775)
+  3. [sakuraburst - dragonlands (Cut Ver.) (Alptraum, guden) \[/ wyrm\]](https://osu.ppy.sh/beatmapsets/2242653#mania/4766775)
 - Long Note
-  1. [sana - Packet Hero (Cut Ver.) (Hytex) \[Obsession\]](https://osu.ppy.sh/beatmapsets/2242422#mania/4766282)
+  1. [sana - Packet Hero (Cut Ver.) (Hytex, MyZterioN-) \[Obsession\]](https://osu.ppy.sh/beatmapsets/2242422#mania/4766282)
   2. [DJ SHARPNEL - KLASSIKER EINHEIT (Cut Ver.) (YuEast 2018) \[Yasashii / 1.10\]](https://osu.ppy.sh/beatmapsets/2242540#mania/4766576)
-  3. [Kaminose Tsukasa - ivy of rutiles (elexire) \[restored\]](https://osu.ppy.sh/beatmapsets/2242656#mania/4766780)
+  3. [Kaminose Tsukasa - ivy of rutiles (elexire, -mint-) \[restored\]](https://osu.ppy.sh/beatmapsets/2242656#mania/4766780)
 - SV
   1. [Tanger - BREAKME (Promachos) \[FRACTURED\]](https://osu.ppy.sh/beatmapsets/2242663#mania/4766804)
   2. [The Most - First Frost (Pope Gadget) \[Born Slippy (MWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2242658#mania/4766786)
 - Tiebreaker
-  1. **[Kou! - Frost Walker (guden) \[Glaciality\]](https://osu.ppy.sh/beatmapsets/2242668#mania/4766814)**
+  1. **[Kou! - Frost Walker (guden, \[Crz\]Crysarlene, Alptraum, hi19hi19) \[Glaciality\]](https://osu.ppy.sh/beatmapsets/2242668#mania/4766814)**
 
 ### Round of 16
 
@@ -257,14 +257,14 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/f3e
   2. [Hino Isuka - Mechanical Jaeger (\[GB\]V1do) \[Euphoria\]](https://osu.ppy.sh/beatmapsets/2238673#mania/4757040)
   3. [Taishi - Introduction (Bygone) (Cut Ver.) (Alptraum) \[Epilogue (Future)\]](https://osu.ppy.sh/beatmapsets/2238644#mania/4756987)
 - Long Note
-  1. [KANKAN - Boost Anima (fvrex) \[Overdrive\]](https://osu.ppy.sh/beatmapsets/2238606#mania/4756867)
-  2. [NU-KO - Pochiko no Shiawase na Nichijou (YuEast 2018) \[wanwan\]](https://osu.ppy.sh/beatmapsets/2238649#mania/4757002)
+  1. [KANKAN - Boost Anima (fvrex, Hytex) \[Overdrive\]](https://osu.ppy.sh/beatmapsets/2238606#mania/4756867)
+  2. [NU-KO - Pochiko no Shiawase na Nichijou (YuEast 2018, -mint-) \[wanwan\]](https://osu.ppy.sh/beatmapsets/2238649#mania/4757002)
   3. [IOSYS TRAX with Chiyoko - DX Choyasei! Survival Zundoko Chan (ERA arccat) \[mint's DX Temple Run!\]](https://osu.ppy.sh/beatmapsets/2177636#mania/4598929)
 - SV
   1. [lapix - Horizon Blue feat. Kanata.N (Couil) \[Towards the horizon\]](https://osu.ppy.sh/beatmapsets/2238679#mania/4757050)
   2. [Supa7onyz feat. 5-let - Les Cadences Magiques (Toaph Daddy) \[Mirage\]](https://osu.ppy.sh/beatmapsets/2238686#mania/4757071)
 - Tiebreaker
-  1. **[Camellia - Antineutrino Witchcraft (-mint-) \[The Devil's Particle Collider\]](https://osu.ppy.sh/beatmapsets/2238682#mania/4757059)**
+  1. **[Camellia - Antineutrino Witchcraft (-mint-, \[GB\]V1do) \[The Devil's Particle Collider\]](https://osu.ppy.sh/beatmapsets/2238682#mania/4757059)**
 
 ### Round of 32
 
@@ -288,7 +288,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/f3e
   1. [Adikop (feat. Chris Ponate) - Ignite My Heart (BlackyDay) \[SaVe My Eyes\]](https://osu.ppy.sh/beatmapsets/2234600#mania/4746408)
   2. [Shpongle - Outer Shpongolia (Pope Gadget) \[Journey's Start\]](https://osu.ppy.sh/beatmapsets/2234598#mania/4746405)
 - Tiebreaker
-  1. **[lapix - Flying Castle (Extended Mix) (lemonguy) \[Chaos Breaker\]](https://osu.ppy.sh/beatmapsets/2234596#mania/4746402)**
+  1. **[lapix - Flying Castle (Extended Mix) (lemonguy, Toaph Daddy, Ballistic) \[Chaos Breaker\]](https://osu.ppy.sh/beatmapsets/2234596#mania/4746402)**
 
 ### Qualifiers
 
@@ -296,11 +296,11 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/f3e
 [View the showcase VOD here](https://www.twitch.tv/videos/2221643866)
 
 1. [Lundy - FREAK\*TEK (Orca-) \[Stage 1: Exegesis\]](https://osu.ppy.sh/beatmapsets/2230116#mania/4732473)
-2. [Mr. Bill - Pastel (voljum Remix) (Cut Ver.) (-MysticEyes) \[Stage 2: Abstraction\]](https://osu.ppy.sh/beatmapsets/2230124#mania/4732488)
+2. [Mr. Bill - Pastel (voljum Remix) (Cut Ver.) (-MysticEyes, elexire) \[Stage 2: Abstraction\]](https://osu.ppy.sh/beatmapsets/2230124#mania/4732488)
 3. [Camellia - Routing (-mint-) \[Stage 3: Shinkansen\]](https://osu.ppy.sh/beatmapsets/2230148#mania/4732525)
 4. [sasakure.UK - Decadence feat. mami (\[Crz\]Crysarlene) \[Stage 4: Terminus\]](https://osu.ppy.sh/beatmapsets/2230138#mania/4732513)
 5. [Hexacube - SUPER-ENTHUSIASTIC!! (Toaph Daddy) \[Stage 5: Fervor\]](https://osu.ppy.sh/beatmapsets/2230135#mania/4732510)
-6. [Kagetora. - Higitsune no Mai (guden) \[Stage 6: Elegance\]](https://osu.ppy.sh/beatmapsets/2230203#mania/4732624)
+6. [Kagetora. - Higitsune no Mai (guden, gzdongsheng) \[Stage 6: Elegance\]](https://osu.ppy.sh/beatmapsets/2230203#mania/4732624)
 7. [ELFENSJoN - UNDEAD SIN (Miaurichesu) \[Stage 7: Inferno\]](https://osu.ppy.sh/beatmapsets/2230143#mania/4732519)
 8. [HIMEHINA - Hitogata (6TAN BOOTLEG) (Cut Ver.) (0DZ0) \[Stage 8: Virtualization\]](https://osu.ppy.sh/beatmapsets/2230145#mania/4732521)
 
