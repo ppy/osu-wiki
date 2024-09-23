@@ -17,9 +17,9 @@ tags:
   - configuration
 ---
 
-# osu!store et marchandises
+# Store archive
 
-*Page principale : [Centre d'aide](/wiki/Help_centre)*\
+*Page principale : [osu!store et marchandises](/wiki/Help_centre/Store)*\
 *Note : Ces produits ne sont plus disponibles à la vente dans la boutique osu!store.*
 
 Vous avez un problème avec un produit de l'osu!store ? Vérifiez s'il existe une solution à votre problème !
