@@ -11,7 +11,7 @@ tags:
 # osu!store and merchandise
 
 *Main page: [Help centre](/wiki/Help_centre)*\
-*See [store archive](/wiki/Help_centre/Store/Store_archive) for older product troubleshooting*
+*For older product troubleshooting, see: [Store archive](/wiki/Help_centre/Store/Store_archive)*
 
 This article only applies to products purchased from the [osu!store](https://osu.ppy.sh/store/listing).
 
