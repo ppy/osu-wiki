@@ -10,9 +10,9 @@ tags:
   - pendrive
 ---
 
-# osu!store and merchandise
+# Store archive
 
-*Main page: [Help centre](/wiki/Help_centre)*\
+*Main page: [osu!store and merchandise](/wiki/Help_centre/Store)*\
 *Note: These products are no longer available for purchase from the osu!store.*
 
 Having trouble with a product from the osu!store? Check if there's an available solution to your problem!
