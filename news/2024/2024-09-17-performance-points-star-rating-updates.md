@@ -37,6 +37,22 @@ The miss penalty scaling is now based on the amount of difficult strains instead
 
 There were concerns raised about consistency being less important with these changes as combo is no longer a factor, however this isn't an issue - using combo as a metric doesn't make much sense as the performance calculator does not know what sections of a beatmap that a score got misses on. As a result, we model any misses as being on the most difficult part.
 
+### Rhythm complexity improvements
+
+A [change](https://github.com/ppy/osu/pull/28871) proposed by [StanR](https://osu.ppy.sh/users/7217455) fixes some flaws in the rhythm complexity calculations.
+
+As a reminder of how rhythm works, notes are grouped into 'islands'  (for example, a triple pattern is described as a 3 note island) and complexity is assessed using these islands.
+
+The first improvement in this change is removing a size bonus on island length and uncapping the island size. Previously, there was a bonus applied based on island length sizes that would cause long bursts to gain a lot of rhythm complexity even if they were not complex.
+
+The second improvement in this change heavily nerfs repeated islands. This causes maps which abuse the spamming of triples to increase pp (one example is [SLoWMoTIoN](https://osu.ppy.sh/beatmapsets/295848#osu/988793)) to have a considerable nerf:
+
+![](/wiki/shared/news/2024-09-17-performance-points-star-rating-updates/island-repetition-nerf.png)
+
+The third improvement in this change is a general buff to the initial rhythm bonus. This helps maps with high rhythm complexity such as [Asteroid Field of DECAPLETS](https://osu.ppy.sh/beatmapsets/1666685#osu/3403124) to gain a small bonus.
+
+The final improvement in this change is a nerf to rhythm complexity based on how "doubletappable" an island is. "doubletapness" is assessed by comparing the 300 hit window size to the time between the current and previous object and deciding if the player has enough time to comfortably double-tap. This doubletap nerf already existed in speed, with this change now bringing it over to rhythm complexity too.
+
 ### Sliders now contribute to accuracy pp
 
 A [change](https://github.com/ppy/osu/pull/27063) submitted by [tsunyoku](https://osu.ppy.sh/users/11315329) has been created to include the slider count in accuracy pp if a score was set using slider head accuracy.
