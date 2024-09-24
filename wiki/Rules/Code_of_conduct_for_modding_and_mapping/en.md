@@ -13,13 +13,9 @@ The **code of conduct for modding and mapping** is a set of rules and guidelines
 
 ## Responding to a mod
 
-It's necessary to give a proper response to a mod post. Not only will it make it easier for future mods to be tailored to your concept or style, but it will also help the modder improve their modding ability.
-
-In order for this exchange to be productive, it is important to consider the following:
-
 - **Treat all suggestions as valid and equally important.** Don't draw hasty conclusions about the validity of a suggestion without properly assessing it.
-- **Explain yourself as much as possible.** State what you changed, and if you didn't accept the suggestion for some reason, explain why and what you did instead.
-- **Remain calm and professional.** Say what needs to be said in order to explain yourself and leave it at that. No matter how unhelpful the suggestion was, responding with hostility, sarcasm, etc. will not help the situation.
+- **Explain yourself as much as possible.** State what you changed, and if you didn't accept the suggestion for some reason, explain why and what you did instead. This will not only help the modder to learn, but also allow future mods to be tailored to your concept or style.
+- **Remain calm.** Say what needs to be said in order to explain yourself and leave it at that. No matter how unhelpful the suggestion was, responding with hostility, sarcasm, etc. will not help the situation.
 - **Provide context.** By providing concise explanations on the mods you responded to, you make it easier for future modders, [Beatmap Nominators](/wiki/People/Beatmap_Nominators), and [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) to revisit discussions during their checks.
 
 ## Further exchange and discussion
@@ -30,7 +26,7 @@ Consider exploring the following solutions when an agreement cannot be reached:
 
 - **Ask if you're unsure about something.** Ask the person in question to explain what they meant. They should be more than willing to explain things to you in more detail.
 - **Ask someone with more experience, such as a member of [BN](/wiki/People/Beatmap_Nominators) or [NAT](/wiki/People/Nomination_Assessment_Team).** While they are busy people, they should be able to help you reach an agreement.
-- **Being wrong can be far more valuable than being right.** If you realise there's a more suitable alternative to something you originally suggested, don't be afraid to put your pride aside.
+- **Be open minded.** If you realise there's a more suitable alternative to something you originally suggested, don't be afraid to put your pride aside.
 - **There are no wrong opinions** — it's up to the mapper and modders to come to an agreement in a civil manner. Try to understand alternative points of view rather than attack them, as you never know when it might be useful in the future.
 - **Take a break.** It is important to be at a right state of mind when discussing something. If you can't explain something through logic, you will not be able to explain it to them through violence either.
 - **Report bad behaviour.** When things look to be getting out of hand, or if the discussion is struggling to stay on topic, [call a moderator](/wiki/Reporting_bad_behaviour). Don't contribute to the problem by continuing to post.
