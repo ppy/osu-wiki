@@ -1671,7 +1671,7 @@ These songs are part of the [tomspicy osu! collection 01 EP](https://osu.ppy.sh/
 
 ### Other osu!-related releases
 
-#### [cavoe's osu! event 2024](/wiki/Community/cavoe's_osu'_event/2024)
+#### [cavoe's osu! event 2024](/wiki/Community/cavoe's_osu!_event/2024)
 
 | Links | FA | Song |
 | --: | :-: | :-- |
