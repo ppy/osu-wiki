@@ -651,7 +651,7 @@ These songs are part of the [tomspicy osu! collection 01 EP](https://osu.ppy.sh/
 |  |  | tieff - Celestial Graveyard[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2214953) | osu! tiebreaker |
 |  |  | unfeeling - rebirth from the abyss | [#1](https://osu.ppy.sh/beatmapsets/2214911) | osu! NM5 |
 
-#### ![](/wiki/shared/mode/osu.png) Nordic Summer Showdown
+#### ![](/wiki/shared/mode/osu.png) [Nordic Summer Showdown](/wiki/Tournaments/NSS/1)
 
 | Links | FA | Song | Beatmap | Notes |
 | --: | :-: | :-- | :-: | :-- |
