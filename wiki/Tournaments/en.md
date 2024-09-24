@@ -670,6 +670,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Catch the Beat Indonesia Cup 2021](CIC/2021) | 2021-06-01 | 2021-08-01 | ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613) | ::{ flag=ID }:: [CamXDanna](https://osu.ppy.sh/users/3243148) | ::{ flag=ID }:: [Nekuro](https://osu.ppy.sh/users/3222638) |
 | [Catch the Beat Indonesia Cup 2022](CIC/2022) | 2022-03-04 | 2022-04-10 | ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613) | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361) | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) |
 | [Catch the Beat Indonesia Cup 2023](CIC/2023) | 2023-07-15 | 2023-08-27 | ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580) | ::{ flag=TH }:: [EzyS](https://osu.ppy.sh/users/EzyS) | ::{ flag=ID }:: [Keita](https://osu.ppy.sh/users/3355617) |
+| [Catch the Beat Indonesia Cup Open 2024](CIC/Open_2024) | 2024-07-08 | 2024-09-01 | ::{ flag=ID }:: [Nekuro](https://osu.ppy.sh/users/3222638) | ::{ flag=TW }:: [DoDoEbi](https://osu.ppy.sh/users/1177233) | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) |
 
 #### Indonesia Convert Cup
 
@@ -734,6 +735,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [:thonking: Newbie mania Tournament](TNMT/1) | 2019-07-13 | 2019-09-29 | ::{ flag=US }:: [NestleiFan](https://osu.ppy.sh/users/6833341) | ::{ flag=SE }:: [Davvy](https://osu.ppy.sh/users/10047413) | ::{ flag=TH }:: [palmEuEi](https://osu.ppy.sh/users/13656264) |
+
+#### Asia Suiji Cup
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Asia Suiji Cup: Rhythmus Aquarum](ASC/1) | 2024-07-13 | 2024-08-25 | Yuma fanboys | Pixel 7 | Noodle Soup |
 
 #### Cemara Mania Cup
 
@@ -840,6 +847,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | osu!mania Malaysia Tournament | 2021-05-14 | 2021-06-27 | ::{ flag=MY }:: [Neokje](https://osu.ppy.sh/users/7727987) | ::{ flag=MY }:: [\[MY\]xRay](https://osu.ppy.sh/users/8287005) | ::{ flag=MY }:: [\[MY\]Kibitz](https://osu.ppy.sh/users/7418493) |
 | osu!mania Malaysia Tournament 2 | 2022-05-27 | 2022-07-10 | ::{ flag=MY }:: [\[MY\]Sol](https://osu.ppy.sh/users/12054898) | ::{ flag=MY }:: [Neokje](https://osu.ppy.sh/users/7727987) | ::{ flag=MY }:: [Kibitz](https://osu.ppy.sh/users/7418493) |
 | [osu!mania Malaysia Tournament 3](OMMT/3) | 2023-07-01 | 2023-08-13 | ::{ flag=MY }:: [xxxxxx2800](https://osu.ppy.sh/users/4084853) | ::{ flag=MY }:: [JayLye](https://osu.ppy.sh/users/14892447) | ::{ flag=MY }:: [Tosai\_](https://osu.ppy.sh/users/3760209) |
+| [osu!mania Malaysia Tournament 4](OMMT/4) | 2024-07-06 | 2024-08-18 | leon's waifuus!! (::{ flag=MY }:: [JayLye](https://osu.ppy.sh/users/14892447), ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805)) | Gon and LongGone (::{ flag=MY }:: [Tosai\_](https://osu.ppy.sh/users/3760209), ::{ flag=KR }:: [yz1155](https://osu.ppy.sh/users/2071008)) | Re:Zuna (::{ flag=MY }:: [ReJust](https://osu.ppy.sh/users/20670028), ::{ flag=VN }:: [Rxizuna](https://osu.ppy.sh/users/16055641)) |
 
 #### osu!mania South East Asia Champion 2020
 

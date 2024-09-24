@@ -6,6 +6,8 @@ tags:
   - osu! team
   - staff
   - team osu!
+outdated_translation: true
+outdated_since: 39bfc3b2e62b776a1cc99976f72bd0ffcf6f773e
 ---
 
 # osu!-Team
@@ -22,9 +24,9 @@ Die unten aufgeführten Personen bilden den Kern des **osu!-Teams** und sind hau
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | [Moderator](/wiki/People/Global_Moderation_Team), technische Unterstützung |
 | ::{ flag=SK }:: [Domco](https://osu.ppy.sh/users/3562660) | osu!-Entwickler |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Projekt- und Community-Betreuer, [Featured Artist](/wiki/People/Featured_Artists) Kontaktaufnahme |
-| ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765) | Leitung für Design, ständiger Beobachter der Creative Cloud |
+| ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765) | Leitung für Design, ständiger Beobachter der Creative Cloud |
 | ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | osu!-Entwickler |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Leiter des [NATs](/wiki/People/Nomination_Assessment_Team), [Project Loved](/wiki/Community/Project_Loved) Manager, Sekretär von Venix |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Allgemeiner Hausmeister, Leiter des [NATs](/wiki/People/Nomination_Assessment_Team), [Project Loved](/wiki/Community/Project_Loved) Manager |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Organisator und Verwalter des [World Cups](/wiki/Tournaments#offizielle-world-cups) |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | [Featured Artist](/wiki/People/Featured_Artists) Kontaktaufnahme, Sekretär beim [World Cup](/wiki/Tournaments#offizielle-world-cups) |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | osu!-Entwickler, technische Unterstützung |
@@ -40,11 +42,11 @@ Die unten aufgeführten Personen bilden den Kern des **osu!-Teams** und sind hau
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Allgemeiner Hausmeister |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | osu!-Entwickler, osu!mania-Liebhaber, Fehlerbeseitiger |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | osu!-Entwickler |
-| ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | Designer |
+| ::{ flag=GB }:: [Tanza](https://osu.ppy.sh/users/10379965) | Designer |
 | ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) | osu!-Entwickler für die Infrastruktur |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Allgemeiner Hausmeister, Turnierassistent |
 | ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | Allgemeiner Hausmeister, Besenfeger |
-| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Leiter des [GMTs](/wiki/People/Global_Moderation_Team), [Beatmap Spotlights](/wiki/Beatmap_Spotlights) Manager, Sekretär von Hivie |
+| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Leiter des [GMTs](/wiki/People/Global_Moderation_Team), [Beatmap Spotlights](/wiki/Beatmap_Spotlights) Manager |
 | ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | [Wiki-Betreuer](/wiki/People/osu!_wiki_maintainers), Redakteur für Neuigkeiten |
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | Gefährdete Art |
 

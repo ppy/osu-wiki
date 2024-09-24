@@ -1,4 +1,6 @@
 ---
+outdated_since: b37ff19ef3e17565b07306a78c9aef1029181f71
+outdated_translation: true
 no_native_review: true
 tags:
   - TC
@@ -72,7 +74,7 @@ Les tournois peuvent être signalés pour des violations des critères officiels
 
 ### Posts de news
 
-*Voir aussi : [Support officielle aux tournois § Article de news](/wiki/Tournaments/Official_support#news-posts) et [Critères de style des news](/wiki/News_styling_criteria)*
+*Voir aussi : [Support officielle aux tournois § Article de news](/wiki/Tournaments/Official_support#article-de-news) et [Critères de style des news](/wiki/News_styling_criteria)*
 
 Lorsqu'un e-mail demandant un post de news pour un tournoi est reçu, le comité des tournois en est informée. Si le tournoi répond à tous les critères d'éligibilité pour les news et que le consensus dans la discussion est positif après 48 heures, le comité des tournois transmettra la demande à l'équipe chargée des news pour approbation.
 
