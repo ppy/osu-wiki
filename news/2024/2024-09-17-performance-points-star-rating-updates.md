@@ -67,7 +67,7 @@ Finally, a new multiplier was added to the final result of the distance bonus to
 
 ### Sliders now contribute to accuracy pp
 
-A [change](https://github.com/ppy/osu/pull/27063) submitted by [tsunyoku](https://osu.ppy.sh/users/11315329) has been created to include the slider count in accuracy pp if a score was set using slider head accuracy.
+A [change](https://github.com/ppy/osu/pull/27063) proposed by [tsunyoku](https://osu.ppy.sh/users/11315329) has been created to include the slider count in accuracy pp if a score was set using slider head accuracy.
 
 Accuracy pp uses its own formula to create a separate object count that has always excluded sliders as traditionally, osu! never had accuracy on slider heads. Slider head accuracy is now a possibility in osu!(lazer), so accuracy pp has been adjusted to include sliders.
 
@@ -78,8 +78,8 @@ We expect more pp changes related to slider head accuracy in the future!
 ### Minor changes
 
 - A [slider mechanic change](https://github.com/ppy/osu/pull/24966) was made to adjust slider ends to be more lenient during fast sliders which has resulted in buffs on some maps with very fast sliders such as [KAEDE](https://osu.ppy.sh/beatmapsets/660630#osu/1398809). You can find more about this change in the related [osu!(lazer) updates video](https://www.youtube.com/watch?v=SlWKKA-ltZY).
-- Some various refactorings across difficulty calculation and performance calculation submitted by [Givikap120](https://osu.ppy.sh/users/10560705) to reduce duplication. [#1](https://github.com/ppy/osu/pull/29293) [#2](https://github.com/ppy/osu/pull/29294) [#3](https://github.com/ppy/osu/pull/29292) [#4](https://github.com/ppy/osu/pull/29291)
-- An [aim skill multiplier rebalance](https://github.com/ppy/osu/pull/29998) submitted by [tsunyoku](https://osu.ppy.sh/users/11315329) was made in order to ensure the final results of all major changes are in line with expectations.
+- Some various refactorings across difficulty calculation and performance calculation proposed by [Givikap120](https://osu.ppy.sh/users/10560705) to reduce duplication. [#1](https://github.com/ppy/osu/pull/29293) [#2](https://github.com/ppy/osu/pull/29294) [#3](https://github.com/ppy/osu/pull/29292) [#4](https://github.com/ppy/osu/pull/29291)
+- An [aim skill multiplier rebalance](https://github.com/ppy/osu/pull/29998) proposed by [tsunyoku](https://osu.ppy.sh/users/11315329) was made in order to ensure the final results of all major changes are in line with expectations.
 
 ## osu!taiko
 
@@ -105,7 +105,7 @@ Previously, a map with just one object could receive the same bonus as a map wit
 
 ### Adjusted accuracy scaling
 
-A [change](https://github.com/ppy/osu/pull/20963) submitted by [Natelytle](https://osu.ppy.sh/users/17607667) has been made to the way osu!taiko calculates accuracy difficulty, to keep accuracy and difficulty scaling values more in line for the same score as you change the overall difficulty of the map.
+A [change](https://github.com/ppy/osu/pull/20963) proposed by [Natelytle](https://osu.ppy.sh/users/17607667) has been made to the way osu!taiko calculates accuracy difficulty, to keep accuracy and difficulty scaling values more in line for the same score as you change the overall difficulty of the map.
 
 The current way accuracy scaling works in osu!taiko is very simple. It takes the decimal accuracy of the score, raises it to the power of 15, and multiplies the result by a constant determined by the overall difficulty. The problem with this is that if you keep the spread of your hit timings (also known as UR) the same, your accuracy does not decrease at a constant rate as you increase the overall difficulty.
 
@@ -140,13 +140,13 @@ This prevents FC plays with the No Fail mod from being punished and reduces the 
 
 ### Minor changes
 
-- A [fix](https://github.com/ppy/osu/pull/28337) submitted by [spaceman_atlas](https://osu.ppy.sh/users/3035836) to remove rounding of the slider velocity multiplier on juice streams which resulted in some shifting of difficulty & performance values.
+- A [fix](https://github.com/ppy/osu/pull/28337) proposed by [spaceman_atlas](https://osu.ppy.sh/users/3035836) to remove rounding of the slider velocity multiplier on juice streams which resulted in some shifting of difficulty & performance values.
 
 ## osu!mania
 
 ### Adjusted LN value scaling to address overweighted LN maps
 
-A [slight adjustment](https://github.com/ppy/osu/pull/24109) to LN values submitted by [Hydria](https://osu.ppy.sh/users/808176) has been made to difficulty calculation in an effort to bring overweighted LN maps to more acceptable values. Most LN patterns are nerfed as a result of this change.
+A [slight adjustment](https://github.com/ppy/osu/pull/24109) to LN values proposed by [Hydria](https://osu.ppy.sh/users/808176) has been made to difficulty calculation in an effort to bring overweighted LN maps to more acceptable values. Most LN patterns are nerfed as a result of this change.
 
 There are 2 particular changes to LN-specific bonuses that have resulted in this nerf:
 
