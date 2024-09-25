@@ -89,6 +89,8 @@ Your goal is to create and rank a map for it to be showcased in the artist's upc
 
 This quest requires some confidentiality, so it's only available to those who have a history of contributions to the Mappers' Guild. More specifically, this includes anyone who's rank 1 or higher in the guild.
 
+(If you participated in the first or second iterations of this quest, you might be happy to know that this iteration reduces the cost of re-rolling your song!)
+
 ### [The Hurdle v3](LINK) ![platinum icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/platinum-small.png)
 
 By popular demand, this quest is back for its third iteration!
