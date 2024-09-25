@@ -73,7 +73,7 @@ Accuracy pp uses its own formula to create a separate object count that has alwa
 
 This change may not affect all scores set with slider head accuracy, as accuracy pp also has an object count cap meaning accuracy pp will go unchanged if the hit circle object count was already hitting this cap. Additionally, very low accuracy scores may not be boosted enough by the added object counts to result in any extra reward.
 
-This is one change related to slider head accuracy with more to be expected in the future.
+We expect more pp changes related to slider head accuracy in the future!
 
 ### Minor changes
 
