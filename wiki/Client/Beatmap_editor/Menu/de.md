@@ -142,7 +142,7 @@
 
 [^osz2-note]: Normale Beatmaps im Format `.osz` unterstützen das nicht.
 [^exit-note]: Im `Design`-Tab gemachte Änderungen werden manchmal *ignoriert*.
-[^stacking-note]: Das Stapelverhalten ist abhängig von der Einstellung [Stack Leniency](/wiki/Beatmap/Stack_leniency) der Schwierigkeitsstufe.
+[^stacking-note]: Das Stapelverhalten ist abhängig von der [Stackzuordnung](/wiki/Beatmap/Stack_leniency) der Schwierigkeitsstufe.
 [^live-mapping-note]: osu!, osu!taiko, und osu!catch verwenden die Tastenbelegungen von osu!taiko.
 [^recalculate-lengths-note]: Nützlich, wenn sich die BPM oder die [Slidergeschwindigkeit](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) verändert haben.
 [^help-note]: Diese Funktion wurde entfernt.
