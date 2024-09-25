@@ -49,9 +49,9 @@ The osu! Malaysia Tournament X is run by various osu! community members from Mal
 | Streamer | ::{ flag=MY }:: [Sagisawa Arisu](https://osu.ppy.sh/users/9364594), ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=NZ }:: [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ::{ flag=AU }:: [dGeist](https://osu.ppy.sh/users/7262064) |
 | Commentator | ::{ flag=MY }:: [Tzero](https://osu.ppy.sh/users/6088976), ::{ flag=MY }:: [Racers03](https://osu.ppy.sh/users/11621976), ::{ flag=MY }:: [Fancyyy](https://osu.ppy.sh/users/12616268), ::{ flag=MY }:: [VenDService](https://osu.ppy.sh/users/15107940), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) |
 | Referee | ::{ flag=MY }:: [Rumah](https://osu.ppy.sh/users/12086495), ::{ flag=MY }:: [dragonlemmy](https://osu.ppy.sh/users/14053835), ::{ flag=SG }:: [Quickeryes](https://osu.ppy.sh/users/18227681), ::{ flag=NZ }:: [Hand Sanitiser](https://osu.ppy.sh/users/5091293) |
-| Graphic designer | ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499) |
+| Graphic designer | ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=SG }:: polychromatic [(↗)](https://twitter.com/polyeverything) |
 | Spreadsheet manager | ::{ flag=HK }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866) |
-| Character illustrator | ::{ flag=MY }:: th_nore [(↗)](https://twitter.com/th_nore) |
+| Character illustrator | ::{ flag=MY }:: th_nore [(↗)](https://twitter.com/th_nore), ::{ flag=MY }:: guwichiee [(↗)](https://twitter.com/guwichiee) |
 | Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
 
 ## Links
