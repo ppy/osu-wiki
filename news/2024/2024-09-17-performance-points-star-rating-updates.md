@@ -57,7 +57,7 @@ The final improvement in this change is a nerf to rhythm complexity based on how
 
 A [change](https://github.com/ppy/osu/pull/29980) proposed by [tsunyoku](https://osu.ppy.sh/users/11315329) hotfixes the speed distance bonus.
 
-The distance bonus exists to reward flow aim by multiplying it onto the speed difficulty. In this hotfix, rather than the bonuses being multiplicative they have been changed to be additive to overall decrease the effect the distance bonus has on the speed value.
+The distance bonus exists to reward flow aim by multiplying it with the speed difficulty. In this hotfix, rather than the bonuses being multiplicative, they have been changed to be additive to decrease the effect the distance bonus has on the speed value.
 
 Alongside this, the distance bonus has a change in scaling that results in lower spacing flow aim to be less rewarded.
 
