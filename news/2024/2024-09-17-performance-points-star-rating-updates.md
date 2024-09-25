@@ -59,7 +59,7 @@ A [change](https://github.com/ppy/osu/pull/29980) proposed by [tsunyoku](https:/
 
 The distance bonus exists to reward flow aim by multiplying it with the speed difficulty. In this hotfix, rather than the bonuses being multiplicative, they have been changed to be additive to decrease the effect the distance bonus has on the speed value.
 
-Alongside this, the distance bonus has a change in scaling that results in lower spacing flow aim to be less rewarded.
+In addition, the distance bonus scaling has been changed to decrease the reward for lower spacing flow aim.
 
 ![](/wiki/shared/news/2024-09-17-performance-points-star-rating-updates/distance-bonus.png)
 
