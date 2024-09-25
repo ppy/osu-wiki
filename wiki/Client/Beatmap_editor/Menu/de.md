@@ -32,8 +32,8 @@
 | Rückgängig (`Strg` + `Z`) | Vorherige Bearbeitung rückgängig machen. |
 | Wiederherstellen (`Strg` + `Y`) | Vorherige Bearbeitung wiederherstellen. |
 | Ausschneiden (`Strg` + `X`) | Ausgewählte Objekte ausschneiden. |
-| Kopieren (`Strg` + `C`) | Ausgewählte Objekte kopieren. |
-| Einfügen (`Strg` + `V`) | Ausgewählte Objekte einfügen. |
+| Kopieren (`Strg` + `C`) | Ausgewählte Objekte in die Zwischenablage kopieren. |
+| Einfügen (`Strg` + `V`) | Objekte aus der Zwischenablage einfügen. |
 | Löschen (`Entfernen`) | Ausgewählte Objekte löschen. |
 | Alles auswählen (`Strg` + `A`) | Alle Hit-Objekte markieren. |
 | Klonen (`Strg` + `D`) | Ausgewählte Objekte kopieren und sie einen [Beat](/wiki/Music_theory/Beat) nach der Auswahl einfügen. |
