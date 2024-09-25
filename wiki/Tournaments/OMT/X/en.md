@@ -398,7 +398,7 @@ Sunday, 8 September 2024:
 
 ## Notes
 
-[^ex-sf-1]: This map features an exceptionally low [Approach Rate](/wiki/Beatmap/Approach_rate). 
+[^ex-sf-1]: This map features an exceptionally low [approach rate](/wiki/Beatmap/Approach_rate). 
 [^ex-sf-2]: This map features a special win condition where the player with the highest accuracy wins the map.
 [^ex-qf-1]: This map has to be played with the Easy and Double Time mod enabled.
 [^ex-qf-2]: This map features a special win condition where the player with the lowest miss count wins the map. Additionally, a `!roll 50` command will be used to determine which version of the map is going to be played.
