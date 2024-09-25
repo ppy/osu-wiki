@@ -42,7 +42,7 @@ That's enough info dumping. This is what you're here for.
 
 Below is an overview of each quest. If any are confusing, feel free to ask questions in the comments!
 
-### [A year of osu! originals](LINK) ![bronze icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/bronze-small.png)
+### [A year of osu! originals](https://mappersguild.com/missions?id=66f4886756f3f894641d4ac2) ![bronze icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/bronze-small.png)
 
 Every year, osu! coordinates a bunch of new songs for its [annual world cups](/wiki/Tournaments#official-world-cups). Many of 2024's tracks haven't made it to the Ranked section yet, so it's time to change that.
 
@@ -50,7 +50,7 @@ Your goal: create and rank a map of any song from 2024's osu! original world cup
 
 Use [this page](/wiki/osu!_originals#official-tournament-releases) to see which songs were created for 2024's world cups!
 
-### [Coincidence](LINK) ![bronze icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/bronze-small.png)
+### [Coincidence](https://mappersguild.com/missions?id=66f4887f56f3f894641d4ac6) ![bronze icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/bronze-small.png)
 
 There's a chance you were ahead of the crowd. You might have been an early adopter — so early that you didn't even know what you were early to.
 
@@ -61,7 +61,7 @@ Think of a case like this:
 
 If this happened to you, and your map is still in the graveyard, pull it out already. Your goal for this quest is to rank any map whose song was licensed *after* you uploaded it.
 
-### [Storyboard showcase](LINK) ![silver icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/silver-small.png)
+### [Storyboard showcase](https://mappersguild.com/missions?id=66f488b156f3f894641d4aca) ![silver icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/silver-small.png)
 
 osu! mapping has strayed from its Nintendo DS game origins. Return to an age of visual creativity by creating a map with a storyboard!
 
@@ -69,7 +69,7 @@ There's no strict requirements for what counts as "high enough effort" for this 
 
 Some of these storyboarded maps may or may not find their way into osu!(lazer)'s daily challenge at some point...
 
-### [Spread coordinators](LINK) ![gold icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/gold-small.png)
+### [Spread coordinators](https://mappersguild.com/missions?id=66f488cc56f3f894641d4ace) ![gold icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/gold-small.png)
 
 The Mappers' Guild began as a way for mappers to collaborate, and we're still sticking to that all these years later.
 
@@ -81,17 +81,17 @@ Work with **one other mapper** to create a difficulty spread meeting these requi
 
 Given usual spread requirements, you won't often find Easy or Normal difficulties for longer songs, so you and a friend will be filling that niche!
 
-### [Classified v3](LINK) ![platinum icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/platinum-small.png)
+### [Classified v3](https://mappersguild.com/missions?id=66f488f856f3f894641d4ad6) ![platinum icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/platinum-small.png)
 
 This quest goes back to the roots of the Mappers' Guild: **making maps for upcoming Featured Artists**.
 
-Your goal is to create and rank a map for it to be showcased in the artist's upcoming announcement! To participate in this quest, the first step is to select a song from the [quest page](LINK).
+Your goal is to create and rank a map for it to be showcased in the artist's upcoming announcement! To participate in this quest, the first step is to select a song from the [quest page](https://mappersguild.com/missions?id=66f488f856f3f894641d4ad6).
 
 This quest requires some confidentiality, so it's only available to those who have a history of contributions to the Mappers' Guild. More specifically, this includes anyone who's rank 1 or higher in the guild.
 
 (If you participated in the first or second iterations of this quest, you might be happy to know that this iteration reduces the cost of re-rolling your song!)
 
-### [The Hurdle v3](LINK) ![platinum icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/platinum-small.png)
+### [The Hurdle v3](https://mappersguild.com/missions?id=66f488e156f3f894641d4ad2) ![platinum icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/platinum-small.png)
 
 By popular demand, this quest is back for its third iteration!
 
