@@ -97,6 +97,64 @@ The complete list of player registrations can be found [here](https://docs.googl
 
 ## Mappools
 
+### Semifinals
+
+- No Mod
+  1. [AliA - impulse (SkyFlame) \[Emotions\]](https://osu.ppy.sh/beatmapsets/1133470#osu/2367231)
+  2. [Aether Realm - Swampwitch (iamtickrate) \[Blood9's Extreme\]](https://osu.ppy.sh/beatmapsets/1556131#osu/3412256)
+  3. [PHOENIX Project - Mayonaka no Fairy Dance - Reflect The Reques (Settia) \[luna child is moe\]](https://osu.ppy.sh/beatmapsets/1809371#osu/3711134)
+  4. [PSYQUI feat. mikanzil - Bye or not (Typ4) \[Typ4 x Aqua-FISH's Final Farewell\]](https://osu.ppy.sh/beatmapsets/1013719#osu/2133938)
+  5. [Sorry about my face - Call me with you (fergas) \[[ya otpravlus' za toboi]\]](https://osu.ppy.sh/beatmapsets/1621877#osu/3311312)
+- Hidden
+  1. [Rita - dorchadas (Raijodo) \[htonrahS\]](https://osu.ppy.sh/beatmapsets/2119488#osu/4470172)
+  2. [paraoka feat. haru*nya - Manimani (Cut ver.) (Cellina) \[Hananoiro\]](https://osu.ppy.sh/beatmapsets/2008891#osu/4179280)
+  3. [takehirotei - Finale Battle of the Requiem \~incandescent\~ (Banner) \[\~alea jacta est\~\]](https://osu.ppy.sh/beatmapsets/2254601#osu/4795986)
+- Hard Rock
+  1. [Ouse Akira - Sacrifice (Poyoyo) \[bongo's Milking Extra\]](https://osu.ppy.sh/beatmapsets/1877093#osu/3977159)
+  2. [MYUKKE. - AI[UE]OON (Lavender) \[wyrio's FUTURE\]](https://osu.ppy.sh/beatmapsets/1029473#osu/2936229)
+  3. [Mitsukiyo - Summer Bounce (Ayesha Altugle) \[Summer Vacation\]](https://osu.ppy.sh/beatmapsets/2214677#osu/4692588)
+- Double Time
+  1. [Sasaki Sayaka - Sakura, Reincarnation (Kowari) \[Insane\]](https://osu.ppy.sh/beatmapsets/1022979#osu/2139973)
+  2. [TERRASPEX - AMAZING BREAK (Orkay) \[INSANE\]](https://osu.ppy.sh/beatmapsets/2128375#osu/4474828)
+  3. [Wednesday Campanella - Ikkyu-san (Striderin) \[Insane\]](https://osu.ppy.sh/beatmapsets/1108064#osu/2315806)
+- Free Mod
+  1. [Denkishiki Karen Ongaku Shuudan - Gareki no Yume (Dored) \[LMT's Expert\]](https://osu.ppy.sh/beatmapsets/1037741#osu/2180986)
+  2. [Hoskey - The Purified (dectopia) \[Extra\]](https://osu.ppy.sh/beatmapsets/1809432#osu/3711270)
+- EX/Special
+  1. [Rokudenashi - As you don't know (Stick2Glue) \[Memory Loss\]](https://osu.ppy.sh/beatmapsets/2254978#osu/4796876)[^ex-sf-1]
+  2. [Wobbly - Yo Yo Yo Yoyo Yo, Hey... / Uhh, Hey Eh. Check It Check It (dsco) \[Insane\]](https://osu.ppy.sh/beatmapsets/1689255#osu/3452047)[^ex-sf-2]
+- Tiebreaker
+  1. **[Down - Chosun (Down) \[Dragon\]](https://osu.ppy.sh/beatmapsets/1833547#osu/3764203)**
+
+### Quarterfinals
+
+- No Mod
+  1. [KISIDA KYODAN & THE AKEBOSI ROCKETS - EGOISTIC HERO (DMK7) \[EGOIST\]](https://osu.ppy.sh/beatmapsets/2118474#osu/4449471)
+  2. [BABYMETAL - Arkadia (ItsWinter) \[kerupt's Extreme\]](https://osu.ppy.sh/beatmapsets/1695872#osu/3616426)
+  3. [Matsushita - Hey Darling! (cocona) \[Contrary Love\]](https://osu.ppy.sh/beatmapsets/1517986#osu/3107475)
+  4. [lapix - Outer Space (lcfc) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1544179#osu/3156268)
+  5. [69 de 74 - DESPERATE DEATHPARADE (rollpan) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/1939881#osu/4010877)
+- Hidden
+  1. [DUSTCELL - Kako no Shinkirou (Banner) \[Mirage\]](https://osu.ppy.sh/beatmapsets/2250667#osu/4786529)
+  2. [beignet - Maple Trick (Agagak) \[extrA\]](https://osu.ppy.sh/beatmapsets/2250698#osu/4786597)
+  3. [Polyphia - The Audacity (feat. Anomalie) (Mir) \[Outrageous\]](https://osu.ppy.sh/beatmapsets/1995091#osu/4146216)
+- Hard Rock
+  1. [fulusu - Lachrymal Gland (Heroine) \[Expert\]](https://osu.ppy.sh/beatmapsets/1824223#osu/3743174)
+  2. [Slime Girls - Underwater Prom Queens (Magirhythm) \[Fury\]](https://osu.ppy.sh/beatmapsets/1455879#osu/3004117)
+  3. [Lanndo feat. Eve, suis (from Yorushika) - Uchuu no Kisetsu (Akito) \[bike 2\]](https://osu.ppy.sh/beatmapsets/1531445#osu/3132160)
+- Double Time
+  1. [Mitsuki Kotono - Fuyu ni Saku Hana (mnyui) \[Suou's Insane\]](https://osu.ppy.sh/beatmapsets/1297024#osu/2696241)
+  2. [-45 - Millarca (Stick2Glue) \[Malice\]](https://osu.ppy.sh/beatmapsets/1833512#osu/3764144)
+  3. [Noisestorm - Crab Rave (GreenHue) \[SOTARKS IS GONE\]](https://osu.ppy.sh/beatmapsets/891596#osu/1906336)
+- Free Mod
+  1. [M2U & NICODE - Myosotis (feat. Guriri & Lucy) (rollpan) \[Himei\]](https://osu.ppy.sh/beatmapsets/1861030#osu/3826131)
+  2. [Hyadain - CRASH!! (Let's Do It) (Aranel) \[CRASH!!\]](https://osu.ppy.sh/beatmapsets/1626624#osu/3322444)
+- EX/Special
+  1. [tohko - Hatsukoi (Deppyforce) \[Destiny?\]](https://osu.ppy.sh/beatmapsets/1993734#osu/4143140)[^ex-qf-1]
+  2. [KillerBlood - Run Lads Run (Mr HeliX) \[Math Test\]](https://osu.ppy.sh/beatmapsets/1492125#osu/3058683)[^ex-qf-2]
+- Tiebreaker
+  1. **[Receptor - Redstar (Raikozen) \[REALITY ECLIPSE\]](https://osu.ppy.sh/beatmapsets/996649#osu/2084661)**
+
 ### Round of 16
 
 - No Mod
@@ -167,6 +225,51 @@ The complete list of player registrations can be found [here](https://docs.googl
   3. [Tsukuyomi - Moonlight at midday (Seros) \[Setu's Insane\]](https://osu.ppy.sh/beatmapsets/1537310#osu/3185210)
 
 ## Match results
+
+### Quarterfinals
+
+Thursday, 19 September 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Axorite](https://osu.ppy.sh/users/9124278) ::{ flag=MY }:: | 4 | **6** | ::{ flag=MY }:: **[Jolene](https://osu.ppy.sh/users/13626098)** | [#1](https://osu.ppy.sh/community/matches/115551388) |
+
+Saturday, 21 September 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[wuhua](https://osu.ppy.sh/users/2932510)** ::{ flag=MY }:: | **6** | 1 | ::{ flag=MY }:: [ohshitweeb](https://osu.ppy.sh/users/12999285) | [#1](https://osu.ppy.sh/community/matches/115577375) |
+| Lower | [Racers03](https://osu.ppy.sh/users/11621976) ::{ flag=MY }:: | 2 | **6** | ::{ flag=MY }:: **[Snowy5441](https://osu.ppy.sh/users/13865320)** | [#1](https://osu.ppy.sh/community/matches/115573793) |
+| Upper | **[Rampax](https://osu.ppy.sh/users/3995630)** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: [Auxuelus](https://osu.ppy.sh/users/5414124) | [#1](https://osu.ppy.sh/community/matches/115578132) |
+| Upper | **[Lunasa](https://osu.ppy.sh/users/16436446)** ::{ flag=MY }:: | **6** | 3 | ::{ flag=MY }:: [Chibi Maruko](https://osu.ppy.sh/users/5585377) | [#1](https://osu.ppy.sh/community/matches/115579100) |
+| Lower | **[Chiyuu](https://osu.ppy.sh/users/8226107)** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: [DuoX](https://osu.ppy.sh/users/9560694) | *win by default* |
+| Lower | [Addam](https://osu.ppy.sh/users/11716599) ::{ flag=MY }:: | 0 | **6** | ::{ flag=MY }:: **[stumphole145](https://osu.ppy.sh/users/1462315214623152)** | *win by default* |
+
+Sunday, 22 September 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [AHotDawg](https://osu.ppy.sh/users/15271985) ::{ flag=MY }:: | 2 | **6** | ::{ flag=MY }:: **[Breast](https://osu.ppy.sh/users/11918602)** | [#1](https://osu.ppy.sh/community/matches/115589176) |
+
+### Round of 16
+
+Saturday, 14 September 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[ohshitweeb](https://osu.ppy.sh/users/12999285)** ::{ flag=MY }:: | **5** | 4 | ::{ flag=MY }:: [DuoX](https://osu.ppy.sh/users/9560694) | [#1](https://osu.ppy.sh/community/matches/115490279) |
+| Upper | **[Breast](https://osu.ppy.sh/users/11918602)** ::{ flag=MY }:: | **5** | 1 | ::{ flag=MY }:: [Snowy5441](https://osu.ppy.sh/users/13865320) | [#1](https://osu.ppy.sh/community/matches/115490326) |
+| Upper | **[Rampax](https://osu.ppy.sh/users/3995630)** ::{ flag=MY }:: | **5** | 2 | ::{ flag=MY }:: [Axorite](https://osu.ppy.sh/users/9124278) | [#1](https://osu.ppy.sh/community/matches/115489335) |
+| Upper | **[AHotDawg](https://osu.ppy.sh/users/15271985)** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: [Racers03](https://osu.ppy.sh/users/11621976) | [#1](https://osu.ppy.sh/community/matches/115488463) |
+| Upper | **[Auxuelus](https://osu.ppy.sh/users/5414124)** ::{ flag=MY }:: | **5** | 3 | ::{ flag=MY }:: [Jolene](https://osu.ppy.sh/users/13626098) | [#1](https://osu.ppy.sh/community/matches/115489315) |
+
+Sunday, 15 September 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[Chibi Maruko](https://osu.ppy.sh/users/5585377)** ::{ flag=MY }:: | **5** | 3 | ::{ flag=MY }:: [stumphole145](https://osu.ppy.sh/users/14623152) | [#1](https://osu.ppy.sh/community/matches/115504467) |
+| Upper | **[wuhua](https://osu.ppy.sh/users/2932510)** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: [Chiyuu](https://osu.ppy.sh/users/8226107) | [#1](https://osu.ppy.sh/community/matches/115506210) |
+| Upper | **[Lunasa](https://osu.ppy.sh/users/16436446)** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: [Addam](https://osu.ppy.sh/users/11716599) | *win by default* |
 
 ### Runoff brackets
 
@@ -295,6 +398,10 @@ Sunday, 8 September 2024:
 
 ## Notes
 
+[^ex-sf-1]: This map features an exceptionally low [Approach Rate](/wiki/Beatmap/Approach_rate). 
+[^ex-sf-2]: This map features a special win condition where the player with the highest accuracy wins the map.
+[^ex-qf-1]: This map has to be played with the Easy and Double Time mod enabled.
+[^ex-qf-2]: This map features a special win condition where the player with the lowest miss count wins the map. Additionally, a `!roll 50` command will be used to determine which version of the map is going to be played.
 [^ex-ro16-1]: This map is an [Aspire](/wiki/Contests/Aspire)-styled [2B map](https://www.youtube.com/watch?v=8teIBNQfr7Q).
 [^ex-ro16-2]: This map has to be played with the Flashlight mod enabled.
 [^ex-runoff]: This map has to be played with either No Mod or Hidden.
