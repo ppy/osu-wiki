@@ -53,6 +53,18 @@ The third improvement in this change is a general buff to the initial rhythm bon
 
 The final improvement in this change is a nerf to rhythm complexity based on how "doubletappable" an island is. "doubletapness" is assessed by comparing the 300 hit window size to the time between the current and previous object and deciding if the player has enough time to comfortably double-tap. This doubletap nerf already existed in speed, with this change now bringing it over to rhythm complexity too.
 
+### Speed distance hotfix
+
+A [change](https://github.com/ppy/osu/pull/29980) proposed by [tsunyoku](https://osu.ppy.sh/users/11315329) was created to hotfix the speed distance bonus.
+
+The distance bonus exists to reward flow aim by multiplying it onto the speed difficulty. In this hotfix, rather than the bonuses being multiplicative they have been changed to be additive to overall decrease the effect the distance bonus has on the speed value.
+
+Alongside this, the distance bonus has a change in scaling that results in lower spacing flow aim to be less rewarded.
+
+![](/wiki/shared/news/2024-09-17-performance-points-star-rating-updates/distance-bonus.png)
+
+Finally, a new multiplier was added to the final result of the distance bonus to decrease it overall.
+
 ### Sliders now contribute to accuracy pp
 
 A [change](https://github.com/ppy/osu/pull/27063) submitted by [tsunyoku](https://osu.ppy.sh/users/11315329) has been created to include the slider count in accuracy pp if a score was set using slider head accuracy.
@@ -67,6 +79,7 @@ This is one change related to slider head accuracy with more to be expected in t
 
 - A [slider mechanic change](https://github.com/ppy/osu/pull/24966) was made to adjust slider ends to be more lenient during fast sliders which has resulted in buffs on some maps with very fast sliders such as [KAEDE](https://osu.ppy.sh/beatmapsets/660630#osu/1398809). You can find more about this change in the related [osu!(lazer) updates video](https://www.youtube.com/watch?v=SlWKKA-ltZY).
 - Some various refactorings across difficulty calculation and performance calculation submitted by [Givikap120](https://osu.ppy.sh/users/10560705) to reduce duplication. [#1](https://github.com/ppy/osu/pull/29293) [#2](https://github.com/ppy/osu/pull/29294) [#3](https://github.com/ppy/osu/pull/29292) [#4](https://github.com/ppy/osu/pull/29291)
+- An [aim skill multiplier rebalance](https://github.com/ppy/osu/pull/29998) submitted by [tsunyoku](https://osu.ppy.sh/users/11315329) was made in order to ensure the final results of all major changes are in line with expectations.
 
 ## osu!taiko
 
