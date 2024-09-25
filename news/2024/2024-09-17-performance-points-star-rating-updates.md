@@ -49,7 +49,7 @@ The second improvement in this change heavily nerfs repeated islands. This cause
 
 ![](/wiki/shared/news/2024-09-17-performance-points-star-rating-updates/island-repetition-nerf.png)
 
-The third improvement in this change is a general buff to the initial rhythm bonus. This helps maps with high rhythm complexity such as [Asteroid Field of DECAPLETS](https://osu.ppy.sh/beatmapsets/1666685#osu/3403124) to gain a small bonus.
+The third improvement in this change is a general buff to the initial rhythm bonus. This helps maps with high rhythm complexity such as [Asteroid Field of DECAPLETS](https://osu.ppy.sh/beatmapsets/1666685#osu/3403124).
 
 The final improvement in this change is a nerf to rhythm complexity based on how "doubletappable" an island is. "doubletapness" is assessed by comparing the 300 hit window size to the time between the current and previous object and deciding if the player has enough time to comfortably double-tap. This doubletap nerf already existed in speed, with this change now bringing it over to rhythm complexity too.
 
