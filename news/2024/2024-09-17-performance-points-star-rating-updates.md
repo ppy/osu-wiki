@@ -8,7 +8,7 @@ The time for change is finally here!
 
 ![](/wiki/shared/news/banners/pp-sr-osu.jpg)
 
-There are changes to all game modes this time around in an effort to improve the difficulty and performance calculations. This news post will display what has changed in a format that should be understandable to you, the player!
+There are changes to all game modes this time around in an effort to improve the difficulty and performance calculations. This news post will discuss what has changed in a format that should be understandable to you, the player!
 
 If you find yourself scratching your head when reading, consider consulting the [performance points](/wiki/Performance_points) and [star rating](/wiki/Beatmapping/Star_rating) wiki articles to gain a greater understanding of the topics.
 
