@@ -20,7 +20,7 @@
 - [Mind block](/wiki/Gameplay/Mind_block)
 - [Notelock](/wiki/Gameplay/Judgement/Notelock)
 - [Pass](/wiki/Gameplay/Pass)
-- [Play Style](/wiki/Gameplay/Play_style/)    
+- [Play Style](/wiki/Gameplay/Play_style)    
 - [Play Time](/wiki/Beatmap/Play_time)
 - [Replay](/wiki/Gameplay/Replay)
 - [Score](/wiki/Gameplay/Score)
