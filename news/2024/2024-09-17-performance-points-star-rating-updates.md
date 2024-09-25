@@ -41,7 +41,7 @@ There were concerns raised about consistency being less important with these cha
 
 A [change](https://github.com/ppy/osu/pull/28871) proposed by [StanR](https://osu.ppy.sh/users/7217455) fixes some flaws in the rhythm complexity calculations.
 
-As a reminder of how rhythm works, notes are grouped into 'islands'  (for example, a triple pattern is described as a 3 note island) and complexity is assessed using these islands.
+As a reminder of how rhythm works, notes are grouped into 'islands' (for example, a triple pattern is described as a 3 note island) and complexity is assessed using these islands.
 
 The first improvement in this change is removing a size bonus on island length and uncapping the island size. Previously, there was a bonus applied based on island length sizes that would cause long bursts to gain a lot of rhythm complexity even if they were not complex.
 
@@ -80,7 +80,7 @@ In order to aid understanding of the changes to osu!taiko, these are the skills 
 
 With the recent update to osu!taiko's difficulty calculation, an issue has arisen concerning a unique playstyle known as TL-tapping. [Maxie's video](https://www.youtube.com/watch?v=WM7gkFBDl9s) provides a more in-depth explanation of this playstyle.
 
-A recent [change](https://github.com/ppy/osu/pull/20558) by [vun](https://osu.ppy.sh/users/6932501) addresses these issues within the stamina system.  When the new stamina system for osu!taiko was introduced in 2022, it assumed that players used two fingers per colour, leading to some impressive plays by players like [Ney](https://osu.ppy.sh/users/5991961) on [Alive](https://osu.ppy.sh/scores/1873110816) and others on [StrangeProgram](https://osu.ppy.sh/beatmapsets/5774#taiko/28065), which became notorious for yielding some speedy high PP scores.
+A recent [change](https://github.com/ppy/osu/pull/20558) by [vun](https://osu.ppy.sh/users/6932501) addresses these issues within the stamina system. When the new stamina system for osu!taiko was introduced in 2022, it assumed that players used two fingers per colour, leading to some impressive plays by players like [Ney](https://osu.ppy.sh/users/5991961) on [Alive](https://osu.ppy.sh/scores/1873110816) and others on [StrangeProgram](https://osu.ppy.sh/beatmapsets/5774#taiko/28065), which became notorious for yielding some speedy high PP scores.
 
 The new system, while simple in its implementation, introduces variable finger counts for stamina. Mono-colour patterns that last more than 300ms without a colour change are now considered to have four fingers available. This adjustment significantly nerfs certain maps and converts. Additionally, convert-specific nerfs have been removed from difficulty calculations to ensure that converts are weighted fairly against mode-specific maps. The changes to finger count availability also ensure that more *niche* skill sets are fairly represented.
 
