@@ -91,6 +91,12 @@ Join the community on the [osu!live Twitch channel](https://www.twitch.tv/osuliv
 
 After that, the Grand Finale spectacle begins Sunday at 14:00 UTC, tune in and see whether the United States will get their consecutive win for the first time ever, or will one of the new podium finishers conclude their dream run by swooping in and running away with the crown.
 
-You can check out the full match details, along with the map pool and many more details on [the wiki page](/wiki/Tournaments/MWC/2024_4K).
+If all of this wasn't enough to get you excited about this weekend, the [Grand Finals tiebreaker](https://osu.ppy.sh/beatmapsets/2253784#mania/4793996) is sure to get the job done.
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/iTY7lcYZRVQ" frameborder="0" allowfullscreen></iframe>
+</div>
+
+As always, you can check out the full match details, along with the Grand Finals map pool and many more details on [the wiki page](/wiki/Tournaments/MWC/2024_4K).
 
 —0x84f, elexire, RandomeLoL, \[GB\]yobrevelc
