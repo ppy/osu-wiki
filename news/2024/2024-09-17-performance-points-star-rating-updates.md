@@ -69,7 +69,7 @@ Finally, a new multiplier was added to the final result of the distance bonus to
 
 A [change](https://github.com/ppy/osu/pull/27063) proposed by [tsunyoku](https://osu.ppy.sh/users/11315329) has been created to include the slider count in accuracy pp if a score was set using slider head accuracy.
 
-Accuracy pp uses its own formula to create a separate object count that has always excluded sliders as traditionally, osu! never had accuracy on slider heads. Slider head accuracy is now a possibility in osu!(lazer), so accuracy pp has been adjusted to include sliders.
+Traditionally, osu! has not had accuracy on slider heads, and so Accuracy pp traditionally excludes sliders in its calculation. However, osu!(lazer) has slider head accuracy, and so Accuracy pp now includes sliders.
 
 This change may not affect all scores set with slider head accuracy, as accuracy pp also has an object count cap meaning accuracy pp will go unchanged if the hit circle object count was already hitting this cap. Additionally, very low accuracy scores may not be boosted enough by the added object counts to result in any extra reward.
 
