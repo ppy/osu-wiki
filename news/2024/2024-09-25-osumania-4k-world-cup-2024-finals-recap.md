@@ -81,10 +81,10 @@ This match was a perfect showcase of a match where the outcome was not affected 
 
 The end of the tournament draws ever so closer. While the Grand Finals are still a few days away, we still have a couple scores worth highlighting. With that said, let's see how players fared in the last stretch of the tournament!
 
-- ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805) surprised us all with their **absolute bonkers** score of 996,402 in [daiki kasho - Place In This World](https://osu.ppy.sh/beatmapsets/2236927#mania/4752380) (RC6) by [Valedict](https://osu.ppy.sh/users/2537082) in their [match against the United States](https://www.twitch.tv/videos/2257605526). A commendable performance despite clashing against other rice titans.
+- ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805) surprised us all with their **absolutely bonkers** score of 996,402 in [daiki kasho - Place In This World](https://osu.ppy.sh/beatmapsets/2236927#mania/4752380) (RC6) by [Valedict](https://osu.ppy.sh/users/2537082) in their [match against the United States](https://www.twitch.tv/videos/2257605526). A commendable performance despite clashing against other rice titans.
 - Another player worth highlighting is ::{ flag=KR }:: [Naaaad](https://osu.ppy.sh/users/10344857), who **dominated** all the rice picks they participated in. Just to name one instance, in the aforementioned [match versus China](https://www.twitch.tv/videos/2257606852), they managed to score 995,194 points in [S.S.H. - Holy Orders (Be Just or Be Dead)](https://osu.ppy.sh/beatmapsets/2250132#mania/4785237) (RC4), also made by [Valedict](https://osu.ppy.sh/users/2537082).
 
-We've had a blast highlighting the best of scores up until now! Nerves are sky-high and adrenaline is pumping through the players' veins. The teams last standing are well aware of the challenge ahead of them. To them, what matters most are the scores they're going to pull up next round, so lets all hope for an exciting climax! Who knows, maybe we'll get to see them perform in the new custom Tiebreaker for Grand Finals.
+We've had a blast highlighting the best of scores up until now! Nerves are sky-high and adrenaline is pumping through the players' veins. The teams last standing are well aware of the challenge ahead of them. To them, what matters most are the scores they're going to pull up next round, so lets all hope for an exciting climax!
 
 ---
 
