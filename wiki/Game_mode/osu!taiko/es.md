@@ -40,7 +40,7 @@ Ten en cuenta que el drenaje de salud está desactivado en osu!taiko, por lo que
 
 Las notas de taiko aparecerán como un círculo rojo o azul. Estos círculos se llaman Don (para las notas rojas) y Katsu o Kat (para las notas azules), respectivamente.
 
-Si es una nota roja pequeña, pulsa el botón unido a la parte interior del tambor de taiko o golpea la zona plana grande (centro) del *TaTaCon*. Si se trata de una nota azul pequeña, pulsa el botón unido al aro exterior del tambor de taiko o golpea los laterales de la *TaTaCon*. Si la nota es un círculo **GRANDE**, pulsa o golpea ambos tambores, el interior o el exterior, según el color de la nota, para obtener el doble de puntos (un solo golpe correcto dará un solo punto).
+Si es una nota roja pequeña, pulsa el botón unido a la parte interior del tambor de taiko o golpea la zona plana grande (centro) del *TaTaCon*. Si se trata de una nota azul pequeña, pulsa el botón unido al aro exterior del tambor de taiko o golpea los laterales del *TaTaCon*. Si la nota es un círculo **GRANDE**, pulsa o golpea ambos tambores, el interior o el exterior, según el color de la nota, para obtener el doble de puntos (un solo golpe correcto dará un solo punto).
 
 Las notas deben pulsarse o golpearse en el pequeño círculo blanco situado junto al tambor. Si se toca el color equivocado, o los colores rojo y azul al mismo tiempo, se considerará que se ha fallado.
 
