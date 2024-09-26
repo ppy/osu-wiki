@@ -14,7 +14,7 @@ Cualquier infracción grave de las [reglas de la comunidad](/wiki/Rules) que ten
 
 Como ejemplo del mundo real, dicho comportamiento incluiría dibujar o escribir símbolos/insultos de odio (esvástica, etc.) usando el humo del cursor en partidos siendo transmitidos en vivo.
 
-Todos los usuarios que vuelvan al juego después de una restricción bajo los términos de apelación estándar también están sujetos a un [veto de los torneos temporal mínimo de 1 año](/wiki/Help_centre/Account_restrictions#reasons), que puede alargarse a discreción del [equipo de soporte de cuentas](/wiki/People/Account_support_team).
+Todos los usuarios que vuelvan al juego después de una restricción bajo los términos de apelación estándar también están sujetos a un [veto temporal de los torneos mínimo de 1 año](/wiki/Help_centre/Account_restrictions#reasons), que puede alargarse a discreción del [equipo de soporte de cuentas](/wiki/People/Account_support_team).
 
 ## ¿Cuál es la causa de que alguien reciba un veto indefinido de los torneos? {id=why-permanent}
 
