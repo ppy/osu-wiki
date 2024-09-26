@@ -142,7 +142,7 @@ I remember you mentioning it in one of your previous interviews, but can you tel
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3717598">xootynator</a></p>
 
-Stan Full Area has a pretty funny origin, since it was actually out team name for the 2020 iteration of [MRC (Mahloola Regional Cup)](https://osu.ppy.sh/community/forums/topics/1136787). The team was me, [Rupertion](https://osu.ppy.sh/users/5774823) and [Eddie-](https://osu.ppy.sh/users/3898396), three players who played with the entire area of our tablets. No changes to the size of the active area at all. Eddie is a big k-pop fan, so gave us the name Stan Full Area. Since then, it's sort of just stuck as a tag to recognize other people with the same play style!
+Stan Full Area has a pretty funny origin, since it was actually our team name for the 2020 iteration of [MRC (Mahloola Regional Cup)](https://osu.ppy.sh/community/forums/topics/1136787). The team was me, [Rupertion](https://osu.ppy.sh/users/5774823) and [Eddie-](https://osu.ppy.sh/users/3898396), three players who played with the entire area of our tablets. No changes to the size of the active area at all. Eddie is a big k-pop fan, so gave us the name Stan Full Area. Since then, it's sort of just stuck as a tag to recognize other people with the same play style!
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-09-16-the-followpoint-xootynator-the-biggest-full-area-stan/avatar-MegaMix.jpg')"></a>
 
