@@ -12,11 +12,11 @@ Hot on the heels of our very own [osu!mania 4K World Cup Finals week](https://os
 
 For this year's edition, the tournament structure remains largely the same, from the seeding, to the bracket format and even mappool. We do, however, have two major changes, the first of which has to do with the rank range. For the 2024 osu! World Cup, we have raised the minimum rank required to sign up to **#10,000 in the osu! global ranking**.
 
-We believe that the average skill on the this new rank range has risen considerably over the last few years, and we're excited to see the new team building possibilities this brings, especially for players focusing on more niche skill sets. **There are no plans to apply this new rank range to other modes currently.**
+We believe that the average skill on this new rank range has risen considerably over the last few years, and we're excited to see the new team building possibilities this brings, especially for players focusing on more niche skill sets. **There are no plans to apply this new rank range to other modes currently.**
 
-The second change has all to do with how our mappools are structured, and how the pick and ban system interacts with it. We've opted to lift the restrictions on double banning beatmaps from the Hidden, Hard Rock, Double time, and Free Mod pool slots. In the words of our ever reliable mappooler and `#mappool-feedback` PR specialist [chiv](https://osu.ppy.sh/users/6701656):
+The second change has all to do with how our mappools are structured, and how the pick and ban system interacts with it. We've opted to lift the restrictions on double banning beatmaps from the Hidden, Hard Rock, Double Time, and Free Mod pool slots. In the words of our ever reliable mappooler and `#mappool-feedback` PR specialist [chiv](https://osu.ppy.sh/users/6701656):
 
-> The current restriction on banning two maps of the same category is not compatible with modern mappools, which often have considerable fluctuations in skill set distribution across the different slots.
+> The current restriction on banning two maps of the same category is not compatible with modern mappools, which often feature considerable fluctuations in skill set distribution across the different slots.
 
 In short: **slot pooling is no more.**
 
