@@ -7,7 +7,7 @@ tags:
 
 ![](img/beat_snap_divisor-DE.png "Taktteiler im Editor")
 
-Der **Taktteiler** (auch *Beat Snap Divisor* genannt) ist eine Einstellung, die angibt, wie der Editor [Beats](/wiki/Music_theory/Beat) darstellt. Der dazu gehörige Prozess nennt sich [beat snapping](/wiki/Beatmapping/Beat_snapping) <!--Beat-Platzierung?-->. Der Taktteiler ist in der oberen, rechten Ecke des Editors zu finden.
+Der **Taktteiler** (auch *Beat Snap Divisor* genannt) ist eine Einstellung, die bestimmt, wie der Editor [Beats](/wiki/Music_theory/Beat) darstellt. Dieser Prozess nennt sich [beat snapping](/wiki/Beatmapping/Beat_snapping) <!--Beat-Platzierung?-->. Der Taktteiler befindet sich in der rechten oberen Ecke des Editors.
 
 Der Taktteiler bestimmt die Feinheit der [Hit-Objekte](/wiki/Gameplay/Hit_object) auf der [Zeitleiste](/wiki/Client/Beatmap_editor/Timelines). Der Teiler drückt in Form eines Bruchs aus, in wie viele Teile ein Beat aufgeteilt werden soll. Ein höherer Notenwert bedeutet, dass mehr Noten im selben Takt platziert werden können, und umgekehrt.
 
