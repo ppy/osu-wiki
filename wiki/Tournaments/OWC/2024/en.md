@@ -14,7 +14,7 @@ The **osu! World Cup 2024** (***OWC 2024***) is a country-based osu! tournament 
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2024-09-26/2024-10-10 (23:59 UTC) |
+| Registration phase | 2024-09-26 (13:00 UTC)/2024-10-10 (23:59 UTC) |
 | Qualifier showcase | 2024-10-20 (14:00 UTC) |
 | Qualifier stage | 2024-10-26/2024-10-27 |
 | Round of 32 | 2024-11-02/2024-11-03 |
