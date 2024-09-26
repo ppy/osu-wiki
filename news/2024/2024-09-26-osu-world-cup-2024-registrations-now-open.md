@@ -4,7 +4,7 @@ title: "osu! World Cup 2024: Registrations Now Open!"
 date: 2024-09-26 13:00:00 +0000
 ---
 
-The osu! World Cup is back for its 15th edition, but now with a slight twist our beloved country-based circle clicking festival. Read on to find out why!
+The osu! World Cup is back for its 15th edition, but now with a slight twist on our beloved country-based circle clicking festival. Read on to find out why!
 
 ![](/wiki/Tournaments/OWC/2024/img/owc2024-banner.jpg)
 
