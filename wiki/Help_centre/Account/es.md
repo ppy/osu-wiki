@@ -184,7 +184,7 @@ Las reversiones de los nombres de usuario están limitadas a una por año, por l
 
 Si descubres que tu cambio de nombre reciente se ha revertido, puede deberse a que el nombre de usuario al que cambiaste era abusivo, inapropiado o se consideraba ofensivo. No volveremos a realizar el cambio aunque lo solicites, pero si lo compraste en la osu!store, te ofreceremos un cambio gratuito para reemplazarlo.
 
-Si el cambio se hizo con el cambio gratuito que viene con la etiqueta de supporter, no podemos ofrecer cambiarlo de nuevo.
+Si el cambio se hizo con el cambio gratuito que viene con la etiqueta de supporter, no podemos ofrecerte cambiarlo de nuevo.
 
 ### ¿Puedo eliminar mis nombres de usuario anteriores o borrar el historial de los nombres de usuario? {id=hide-username-history}
 
@@ -216,14 +216,14 @@ Si actualmente tiene más de una cuenta, ponte en contacto con [accounts@ppy.sh]
 
 **Por el momento, no.**
 
-Estamos considerando la posibilidad de añadir compras de para el «restablecimiento de las puntuaciones» en la osu!store para los jugadores más exigentes que solo desean la perfección en sus estadísticas, pero actualmente no podemos eliminar las estadísticas de una cuenta por ti.
+Estamos considerando la posibilidad de añadir compras para el «restablecimiento de las puntuaciones» en la osu!store para los jugadores más exigentes que solo desean la perfección en sus estadísticas, pero actualmente no podemos eliminar las estadísticas de una cuenta por ti.
 
 ¡Esto tampoco significa que puedas crear una nueva cuenta para hacer lo mismo! Tener varias cuentas va en contra de las [reglas](/wiki/Rules#reglas-de-la-comunidad), y desactivaremos cualquier cuenta de este tipo que se nos comunique.
 
 ### ¿Puedo eliminar mi cuenta? {id=account-deletion}
 
-*Para más información sobre la eliminación de cuentas, véase: [Política de privacidad de osu! § Sus derechos y control](/wiki/Legal/Privacy#sus-derechos-y-control).*\
-*Advertencia: La eliminación de la cuenta es permanente y, por lo tanto, no se puede deshacer.*
+*Para más información sobre la eliminación de las cuentas, véase: [Política de privacidad de osu! § Sus derechos y control](/wiki/Legal/Privacy#sus-derechos-y-control).*\
+*Advertencia: La eliminación de una cuenta es permanente y, por lo tanto, no se puede deshacer.*
 
 Sí, cualquier usuario puede solicitar la eliminación de su cuenta enviando un correo electrónico a [privacy@ppy.sh](mailto:privacy@ppy.sh). Ten en cuenta que la eliminación de tu cuenta es **definitiva**, lo que significa que no se puede revertir ni deshacer. Eliminar tu cuenta no significa que puedas crear una nueva, ya que tener varias cuentas va en contra de las [reglas](/wiki/Rules#reglas-de-la-comunidad). Esto significa que ya no podrás usar ninguna de las funciones en línea de osu!.
 
@@ -251,6 +251,6 @@ Si juegas desde un lugar público, asegúrate de vigilar la seguridad de tu cuen
 
 **Puedes ver todos los mapas que has jugado en el sitio web.**
 
-**Si tienes una etiqueta de supporter activa**, puedes ver todos los mapas en los que has enviado una puntuación accediendo al [listado de beatmaps](https://osu.ppy.sh/beatmapsets), haciendo clic en `Más opciones de búsqueda` y seleccionando el filtro `Ya jugado`. Como alternativa, puede acceder directamente a [la lista filtrada de beatmaps](https://osu.ppy.sh/beatmapsets?played=played).
+**Si tienes una etiqueta de supporter activa**, puedes ver todos los mapas en los que has enviado una puntuación accediendo al [listado de beatmaps](https://osu.ppy.sh/beatmapsets), haciendo clic en `Más opciones de búsqueda` y seleccionando el filtro `Ya jugado`. Como alternativa, puedes acceder directamente a [la lista filtrada de beatmaps](https://osu.ppy.sh/beatmapsets?played=played).
 
 Desafortunadamente, no llevamos un registro de todos los mapas que ha descargado un usuario, por lo que es imposible obtener una lista de ellos. Lo más parecido sería usar el mencionado filtro para recuperar al menos los mapas que hayas jugado antes.
