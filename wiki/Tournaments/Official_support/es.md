@@ -33,7 +33,7 @@ Los torneos organizados por la comunidad que cumplan con los siguientes criterio
 - La serie de torneos no debe realizarse más de dos veces al año.
 - El torneo debe funcionar como mínimo con un formato de octavos de final con doble eliminación.
   - También pueden usarse formatos más grandes, como las fases de grupos y los brackets suizos, siempre y cuando empiecen con al menos 16 equipos y, si se da el caso y se empieza con solo 16 equipos, que después se pase a un bracket de doble eliminación.
-  - Los torneos que tengan un formato draft podrán funcionar con un bracket de doble eliminación de octavos de final siempre y cuando el torneo cumpla los siguientes criterios adicionales:
+  - Los torneos que tengan un formato draft podrán funcionar con un bracket de doble eliminación de octavos de final, siempre y cuando el torneo cumpla los siguientes criterios adicionales:
     - El torneo es de rango abierto.
     - El tamaño de los equipos es de 8 o más jugadores.
     - Nota: En los torneos con múltiples divisiones, esta regla se aplica solo a una división de rango abierto.
@@ -58,7 +58,7 @@ Los torneos organizados por la comunidad que cumplan con los siguientes criterio
 
 Para empezar, la solicitud **debe hacerse mucho antes de que el torneo empiece a jugarse.** No hay fechas específicas para esto, pero recomendamos al menos dos o tres semanas antes de que empiecen los partidos para tener en cuenta los retrasos en el proceso de selección.
 
-Si su torneo cumple los [criterios de elegibilidad](#eligibilidad), puedes hacer una solicitud de soporte enviando un correo electrónico al equipo de soporte de cuentas a través de [tournaments@ppy.sh](mailto:tournaments@ppy.sh) con la siguiente información:
+Si tu torneo cumple los [criterios de elegibilidad](#eligibilidad), puedes hacer una solicitud de soporte enviando un correo electrónico al equipo de soporte de cuentas a través de [tournaments@ppy.sh](mailto:tournaments@ppy.sh) con la siguiente información:
 
 - Una breve descripción de tu torneo, incluidas las fechas correspondientes, los modos de juego y cualquier otra característica apropiada
 - Cualquier enlace a:
@@ -68,11 +68,11 @@ Si su torneo cumple los [criterios de elegibilidad](#eligibilidad), puedes hacer
   - Ediciones anteriores de la misma serie de torneos (solo cuando sea el caso).
 - Una lista de los usuarios que se han inscrito para participar en el torneo (véase el [proceso de selección](#proceso-de-selección)), como archivo adjunto independiente.
 
-Una vez que recibamos su solicitud, el equipo de soporte de cuentas le devolverá una lista de los usuarios que no pueden participar en torneos. Por favor, espera un tiempo suficiente para recibir una respuesta. Haremos todo lo posible por atender todas las solicitudes en el plazo de una semana, pero de vez en cuando tenemos grandes picos de trabajo que pueden hacerlo imposible.
+Una vez que recibamos tu solicitud, el equipo de soporte de cuentas te enviará una lista de los usuarios que no pueden participar en torneos. Por favor, espera un tiempo suficiente para recibir una respuesta. Haremos todo lo posible por atender todas las solicitudes en el plazo de una semana, pero de vez en cuando tenemos grandes picos de trabajo que pueden hacerlo imposible.
 
 ## Expectativas
 
-Se espera que los organizadores de los torneos supervisen su torneo para detectar cualquier cosa que vaya en contra de las expectativas descritas a continuación, y son los únicos responsables de reportar tales incidentes al equipo de soporte de cuentas a través de [tournaments@ppy.sh](mailto:tournaments@ppy.sh). En caso contrario, se le podrá retirar el soporte oficial.
+Se espera que los organizadores de los torneos supervisen su torneo para detectar cualquier cosa que vaya en contra de las expectativas descritas a continuación, y son los únicos responsables de reportar tales incidentes al equipo de soporte de cuentas a través de [tournaments@ppy.sh](mailto:tournaments@ppy.sh). En caso contrario, se les podrá retirar el soporte oficial.
 
 ### Torneos
 
@@ -88,10 +88,10 @@ Además, todo el material promocional o cualquier servicio asociado a un torneo 
 **El torneo también deberá cumplir las siguientes prácticas en todo momento:**
 
 - Todos los participantes deberán ser examinados por el equipo de soporte de cuentas antes de que comiencen los partidos.[^play-commence] Consulta el [proceso de selección](#proceso-de-selección) para más detalles.
-- Si un usuario cumple los criterios de inscripción (si los hay) y no es [filtrado](#filtrado-y-agrupación-de-jugadores-registrados) por otros procedimientos, el torneo no deberá impedir la participación de aquellos que pasen la selección sin que se presenten públicamente amplias pruebas en su contra y sin la aprobación del equipo de soporte de cuentas.
+- Si un usuario cumple los criterios de inscripción (si los hay) y no es [filtrado](#filtrado-y-agrupación-de-los-jugadores-registrados) por otros procedimientos, el torneo no deberá impedir la participación de aquellos que pasen la selección sin que se presenten públicamente amplias pruebas en su contra y sin la aprobación del equipo de soporte de cuentas.
   - Esto incluye impedir que jueguen los usuarios a los que se percibe como «sandbagging». Si a un organizador le preocupa que la presencia de dichos jugadores afecte a la integridad competitiva de su torneo, puede plantear el problema al [comité de torneos](/wiki/People/Tournament_Committee) usando el [formulario de reportes](https://pif.ephemeral.ink/tournament-reports) para que lo revisen individualmente.
 - Un árbitro especializado deberá estar presente durante cada partido, o estar disponible para ser convocado con un retraso mínimo (2-5 minutos) si se ha concedido el permiso correspondiente para el uso de software automatizado y se está usando como asistencia. Los jugadores no pueden ser los árbitros.
-  - El uso de bots está permitido en los partidos de la fase de clasificación, siempre y cuando esté supervisado por un miembro del personal.
+  - El uso de bots está permitido en los partidos de la fase de clasificación, siempre y cuando estén supervisado por un miembro del personal.
 - Todos los partidos de un mismo grupo o fase de clasificación deben tener un formato igual. Por ejemplo, en un torneo con una fase de clasificación y un bracket de doble eliminación, todos los partidos del bracket deben jugarse de forma sincrónica o asincrónica, pero no ambas.
 - Todas las partidas multijugador relevantes para el torneo deben crearse con el comando `!mp make`, para que no caduquen. Los resultados deben registrarse y ponerse a disposición del público en la publicación original del foro del torneo o en una fuente externa enlazada en la publicación del foro en un formato claro y accesible.
 - Todos los cambios en las reglas deben comunicarse claramente a todos los participantes. Estos deberán cumplir las expectativas indicadas [más arriba](#torneos).
@@ -109,11 +109,11 @@ Los programas de terceros diseñados para filtrar las inscripciones, agrupar a l
 - Estar disponible pública y funcionalmente como repositorio de código abierto.
 - Estar completamente documentado en un formato fácilmente legible y digerible.
 
-Por el momento, la aprobación para el uso de cualquier herramienta de este tipo debe ser **explícitamente concedida** por el equipo de soporte de osu!. Además, esta aprobación debe concederse para **todos los torneos en los que se usen programas de filtrado para las inscripciones, seeding o arbitraje automatizado**. Esperamos poder flexibilizar algunos de estos requisitos en el futuro, a medida que se desarrolle la tecnología que rodea a estos programas y aumente la experiencia con su uso.
+Por el momento, la aprobación para el uso de cualquier herramienta de este tipo debe ser **explícitamente concedida** por el equipo de soporte de osu!. Además, esta aprobación debe concederse para **todos los torneos en los que se usen programas para el filtrado de las inscripciones, seeding o arbitraje automatizado**. Esperamos poder flexibilizar algunos de estos requisitos en el futuro, a medida que se desarrolle la tecnología que rodea a estos programas y aumente la experiencia con su uso.
 
-### Filtrado y agrupación de jugadores registrados
+### Filtrado y agrupación de los jugadores registrados
 
-El filtrado de jugadores registrados, que no debe confundirse con el [proceso de selección](#proceso-de-selección), es el proceso de usar cualquier programa, algoritmo, fórmula matemática u otro medio objetivo para eliminar de un torneo a jugadores que de otro modo serían aptos. Esto se usa comúnmente para reducir la varianza en la habilidad dentro de un torneo, por ejemplo, con el [BWS](/wiki/Tournaments/Badge-weighted_seeding).
+El filtrado de los jugadores registrados, que no debe confundirse con el [proceso de selección](#proceso-de-selección), es el proceso de usar cualquier programa, algoritmo, fórmula matemática u otro medio objetivo para eliminar de un torneo a los jugadores que de otro modo serían aptos. Esto se usa comúnmente para reducir la varianza en la habilidad dentro de un torneo, por ejemplo, con el [BWS](/wiki/Tournaments/Badge-weighted_seeding).
 
 Además de las expectativas para los programas mencionados anteriormente, las herramientas o sistemas usados para filtrar las inscripciones o agrupar a los jugadores también deben cumplir las siguientes prácticas:
 
@@ -227,7 +227,7 @@ Los requisitos mínimos para solicitar soporte publicitario en el juego o en el 
 
 - Tu torneo cumple los [criterios de elegibilidad](#elegibilidad).
 - El torneo se ha desarrollado sin problemas durante *al menos* dos ediciones con insignias en el pasado.
-  - Se podrán hacer excepciones a discreción del equipo de osu! y del comité de torneos dependiendo de varios factores, como el tamaño, el propósito, el alcance y el tamaño de los equipos de apoyo de un torneo determinado. Un buen ejemplo de este tipo de excepción sería un evento como The Roundtable.
+  - Se podrán hacer excepciones a discreción del osu! team y del comité de torneos dependiendo de varios factores, como el tamaño, el propósito, el alcance y el tamaño de los equipos de apoyo de un torneo determinado. Un buen ejemplo de este tipo de excepción sería un evento como The Roundtable.
 - El torneo transmite o comparte sus resultados en un inglés claro y legible.
 
 Si cumples los criterios anteriores, puedes solicitar este soporte enviando un correo electrónico a [tournaments@ppy.sh](mailto:tournaments@ppy.sh). Esta solicitud debe incluir una historia básica de tu torneo y su impacto en la comunidad si no has recibido este tipo de soporte anteriormente. Ten en cuenta también que este soporte adicional no está garantizado bajo ninguna circunstancia y se concede a discreción del osu! team.
