@@ -129,7 +129,7 @@ The osu! World Cup 2024 is run by the [osu! team](/wiki/People/osu!_team) and va
    - Hidden: 2 beatmaps
    - Hard Rock: 2 beatmaps
    - Double Time: 3 beatmaps
-4. Teams will be asked to play the mappool twice at a time of their choosing, considering timeslot availability and any applicable deadlines. **Only the team's best playthrough for each beatmap, that is, the team score grouped per beatmap as seen on the multiplayer lobby link, will be used for seeding**.
+4. Teams will be asked to play the mappool twice at a time of their choosing, considering time slot availability and any applicable deadlines. **Only the team's best playthrough for each beatmap, that is, the team score grouped per beatmap as seen on the multiplayer lobby link, will be used for seeding**.
 5. The mappool is to be played according to the order listed on this page.
    - Teams may skip playing any beatmap on their second run.
 6. Each team must have 4 members play each map. They may be exchanged freely after a map is concluded.
