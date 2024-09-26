@@ -39,7 +39,7 @@ Beatmappers are encouraged to create maps for Featured Artist tracks. These trac
 
 All mapping contests published on the [community contest listing](https://osu.ppy.sh/community/contests), such as the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) and the [Mapping Olympiad](/wiki/Contests/Mapping_Olympiad), require participants to map Featured Artist songs. Some community-run contests utilise these songs as well.
 
-To promote mapping Featured Artist content, members of the community created the [Mappers' Guild](/wiki/Community/Mappers_Guild), giving mappers an MMO-style quest system that they can participate in with other mappers. Prizes are rewarded for creating and ranking beatmaps, including three tiers of profile badges<!-- TODO: profile badges article -->. Mappers can join the guild by visiting the [Mappers' Guild website](https://mappersguild.com/). As of [April 2023](https://osu.ppy.sh/home/news/2023-04-09-new-featured-artist-chon), mappers can also discuss all things related to Featured Artist beatmap creation at the `#featured-artists` channel in the [osu! Discord server](/wiki/Community/osu!_Discord_server).
+To promote mapping Featured Artist content, members of the community created the [Mappers' Guild](/wiki/Community/Mappers_Guild), giving mappers an MMO-style quest system that they can participate in with other mappers. Prizes are rewarded for creating and ranking beatmaps, including three tiers of profile badges<!-- TODO: profile badges article -->. Mappers can join the guild by visiting the [Mappers' Guild website](https://mappersguild.com/). As of [April 2023](https://osu.ppy.sh/home/news/2023-04-09-new-featured-artist-chon), mappers can also discuss all things related to Featured Artist beatmap creation at the `#featured-artists` channel in the [osu! Discord server](/wiki/Community/Discord_servers#official).
 
 If a pre-timed `.osz` from the Featured Artist listing has errors of any kind, they can be reported on [this forum thread](https://osu.ppy.sh/community/forums/topics/783985).
 
@@ -51,6 +51,7 @@ The [Featured Artist group page](https://osu.ppy.sh/groups/35) lists all such ac
 
 | User | Artist |
 | :-- | :-- |
+| ::{ flag=US }:: [\_Xyris\_](https://osu.ppy.sh/users/11246193) | [Xyris](https://osu.ppy.sh/beatmaps/artists/433) |
 | ::{ flag=GB }:: [633397](https://osu.ppy.sh/users/11392390) | [633397](https://osu.ppy.sh/beatmaps/artists/419) |
 | ::{ flag=JP }:: [69\_de\_74](https://osu.ppy.sh/users/28700783) | [69 de 74](https://osu.ppy.sh/beatmaps/artists/268) |
 | ::{ flag=JP }:: [7\_7](https://osu.ppy.sh/users/7491106) | [7\_7](https://osu.ppy.sh/beatmaps/artists/356) |
@@ -113,6 +114,7 @@ The [Featured Artist group page](https://osu.ppy.sh/groups/35) lists all such ac
 | ::{ flag=US }:: [tephe](https://osu.ppy.sh/users/32666295) | [tephe](https://osu.ppy.sh/beatmaps/artists/361) |
 | ::{ flag=KR }:: [thenewlimee](https://osu.ppy.sh/users/7802935) | [Raimukun](https://osu.ppy.sh/beatmaps/artists/247) |
 | ::{ flag=RU }:: [tieff](https://osu.ppy.sh/users/89619) | [tieff](https://osu.ppy.sh/beatmaps/artists/34) |
+| ::{ flag=AU }:: [tomspicy](https://osu.ppy.sh/users/13210748) | [tomspicy](https://osu.ppy.sh/beatmaps/artists/437) |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) |
 | ::{ flag=DE }:: [WangleLine](https://osu.ppy.sh/users/7994819) | [WangleLine](https://osu.ppy.sh/beatmaps/artists/427) |
 | ::{ flag=DK }:: [water](https://osu.ppy.sh/users/11671515) | [watering](https://osu.ppy.sh/beatmaps/artists/416) |

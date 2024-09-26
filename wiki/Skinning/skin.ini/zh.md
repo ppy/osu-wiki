@@ -89,7 +89,7 @@
 **允许按类别自定义箭头的皮肤**
 
 - 添加了 `arrow-generic.png`、`arrow-warning.png` 和 `arrow-pause.png`。
-- 删除了 `play-warningarrow.png`。
+- 弃用了 `play-warningarrow.png` 而使用上述元素。
 
 ### 2.7
 

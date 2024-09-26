@@ -12,7 +12,7 @@ tags:
   - client de recherche
   - recherche sur le web
 outdated_translation: true
-outdated_since: b109605a360c0b1751daa1f9fabf8bdbe8c9b6b9
+outdated_since: 2524e524a0eac80212c345f45d4cd96ee3a06f5c
 ---
 
 # Recherche des beatmaps
@@ -77,7 +77,7 @@ Les champs de métadonnées des beatmap peuvent être comparés à des valeurs s
 | `bpm` | [Le tempo de la musique](/wiki/Music_theory/Tempo) |
 | `length` | [La longueur](/wiki/Beatmap/Play_time) en secondes |
 | `key`, `keys` | Nombre de touches (osu!mania et beatmaps convertis uniquement) |
-| `status` | Statut de la beatmap. La valeur peut être `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, ou `loved`, ou `r`/`a`/`p`/`n`/`u`/`l` en abrégé. |
+| `status` | Statut de la beatmap. La valeur peut être `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, ou `loved`, ou `r`/`a`/`p`/`n`/`u`/`l` en abrégé. Permet des valeurs multiples séparées par des virgules (`,`) |
 | `created` | Date de création de la beatmap |
 | `updated` | Date de la dernière mise à jour de la beatmap |
 | `ranked` | Date de classement/approbation de la beatmap |
@@ -138,6 +138,12 @@ played<2M5h
 
 ```
 lastplayed>1y
+```
+
+(Lazer) Trouver des beatmaps classées et Loved :
+
+```
+status=r,l
 ```
 
 ## Références

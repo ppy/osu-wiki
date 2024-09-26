@@ -27,4 +27,5 @@ La [Pagina di Gruppo del Team di Supporto](https://osu.ppy.sh/groups/22) ne elen
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Filippino |
+| ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Polacco |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Spagnolo |

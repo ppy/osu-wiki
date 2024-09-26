@@ -7,7 +7,7 @@ Halaman ini menerakan berbagai cara bagi orang-orang dari seluruh penjuru komuni
 - [Server Discord komunitas](/wiki/Community/Discord_servers)
 - [Forum](/wiki/Community/Forum)
 - [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat) (IRC)
-- [Server Discord osu!](/wiki/Community/osu!_Discord_server)
+- [Server Discord osu!](/wiki/Community/Discord_servers#official)
 - [Organisasi](/wiki/Community/Organisations)
 
 ## Proyek

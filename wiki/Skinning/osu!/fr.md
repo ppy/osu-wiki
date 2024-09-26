@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Skinning du mode osu!
 
 ## Comboburst
@@ -756,6 +760,28 @@ Notes :
 
 - `hit300.png` doit être skinné.
 - Cet élément est utilisé pour `hit300`, `hit300g`, et `hit300k`.
+
+## Indicateurs d'échec du slider (Lazer uniquement)
+
+Dans la version [Lazer](/wiki/Client/Release_stream/Lazer) du jeu, de nouveaux indicateurs ont été ajoutés lorsqu'il manquait des parties de sliders. Les anciens skins suivants peuvent être utilisés pour les modifier. Ils n'ont aucun effet dans osu!stable.
+
+::: Infobox
+
+|  |  |
+| :-- | :-- |
+| Versions | Toutes |
+| Peut être animé | ![Oui][true] |
+| Modifiable sur une beatmap | ![Oui][true] |
+| Blend mode | Normal |
+| Origine | Centre |
+| Taille de SD suggérée | 16x16 |
+
+:::
+
+|  | Nom du fichier | Description |
+| :-: | :-- | :-- |
+| ![](img/sliderendmiss.png "Défaut sliderendmiss@2x.png") | `sliderendmiss.png` | S'affiche lorsqu'il manque un [sliderend](/wiki/Gameplay/Hit_object/Slider/Slidertail). |
+| ![](img/slidertickmiss.png "Défaut slidertickmiss@2x.png") | `slidertickmiss.png` | S'affiche lorsqu'il manque un [slider tick](/wiki/Gameplay/Hit_object/Slider/Slider_tick). |
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png

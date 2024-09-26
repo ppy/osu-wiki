@@ -1,4 +1,6 @@
 ---
+outdated_since: b3cddefc3471a00ccbf55838d26bd1a28d6b3509
+outdated_translation: true
 tags:
   - pp committee
   - комитет по пп
