@@ -124,7 +124,7 @@ Herramientas y/o servicios creados por la comunidad de osu!. No dudes en añadir
 - [lua-mania](https://osu.ppy.sh/community/forums/topics/465914) — Convierte beatmaps de osu!, osu!taiko y osu!catch a osu!mania.
   - [GitHub](https://github.com/semyon422/lua-mania)
 - [Mania Hit Sounding Tools](https://osu.ppy.sh/community/forums/topics/488175) — Múltiples herramientas para añadir hitsounds a las dificultades de un beatmap de osu!mania:
- 1. Magic Copy — Una herramienta que copia hitsounds de una dificultad a otra y funciona con hitsounds predeterminados y personalizados. Concepto original de [osu!HitsoundManager](https://osu.ppy.sh/community/forums/topics/385832).
+  1. Magic Copy — Una herramienta que copia hitsounds de una dificultad a otra y funciona con hitsounds predeterminados y personalizados. Concepto original de [osu!HitsoundManager](https://osu.ppy.sh/community/forums/topics/385832).
   2. Hit Object to Storyboard — Permite copiar los hitsounds y pegarlos en el storyboard.
   3. Note Density calculator — Enumera la distribución de las teclas en las dificultades de osu!mania.
   4. Hitsound Detective — Comprueba si hay hitsounds no usados en otras dificultades (según la dificultad seleccionada).
