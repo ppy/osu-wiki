@@ -47,7 +47,7 @@ The osu! World Cup 2024 is run by the [osu! team](/wiki/People/osu!_team) and va
 | Mapper | *TBA* |
 | Commentator | *TBA* |
 | Referee | *TBA* |
-| Statistician | :{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
+| Statistician | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
 | Design coordinator | ::{ flag=CN }:: **[Sakura006](https://osu.ppy.sh/users/10365024)**, ::{ flag=CA }:: [kaetwo](https://osu.ppy.sh/users/1997719) |
 
 ## Links
