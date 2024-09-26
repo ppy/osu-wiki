@@ -1,14 +1,12 @@
 ---
 no_native_review: true
-outdated_since: bcccceb00e25b58f13adc7c085280d16e1f0cdfe
-outdated_translation: true
 ---
 
 # Critères de classement d'osu!taiko
 
 ***Note : Cet article est une extension des [critères de classement généraux](/wiki/Ranking_criteria).***
 
-Cet ensemble de **critères de classement d'osu!taiko** définit les [règles et directives](/wiki/Ranking_criteria#termes-courants) que les [beatmaps](/wiki/Beatmap) spécifiques à [osu!taiko](/wiki/Game_mode/osu!taiko) doivent suivre afin de progresser dans la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure).
+Cet ensemble de **critères de classement d'osu!taiko** définit les [règles et directives](/wiki/Ranking_criteria) que les [beatmaps](/wiki/Beatmap) spécifiques à [osu!taiko](/wiki/Game_mode/osu!taiko) doivent suivre afin de progresser dans la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure).
 
 ## Glossaire
 

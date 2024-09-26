@@ -102,17 +102,13 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 
 ## Podium
 
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Player |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: **[Nekuro](https://osu.ppy.sh/users/3222638)** |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=TW }:: **[DoDoEbi](https://osu.ppy.sh/users/1177233)** |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=RU }:: **[Kimitakari](https://osu.ppy.sh/users/4741164)** |
+![](img/podium.png "CICO 2024 podium")
 
 ## Mappools
 
 ### Finals (week 2)
+
+**[Download the mappack here! (173 MB)](https://discord.com/channels/612285397875032094/1259518312778305687/1277692769711947807)**
 
 - No Mod
   1. [UNDEAD CORPORATION - The Empress (Daletto) \[Daletto & Rustyy's Ripples of 495 Years\]](https://osu.ppy.sh/beatmapsets/2239310#fruits/4758753)
@@ -141,6 +137,8 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals (week 1)
 
+**[Download the mappack here! (164 MB)](https://discord.com/channels/612285397875032094/1259518312778305687/1272568440510484520)**
+
 - No Mod
   1. [cosMo\@Bousou-P - Hatsune Miku no Shoushitsu -Real And Repeat- (Sololiquy) \[UNINSTALL\]](https://osu.ppy.sh/beatmapsets/2230758#fruits/4734261)
   2. [TrinaLydia - Bend The Bullet (Jemzuu) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2230740#fruits/4734215)
@@ -168,6 +166,8 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
+**[Download the mappack here! (207 MB)](https://discord.com/channels/612285397875032094/1259518312778305687/1270027457084391505)**
+
 - No Mod
   1. [Passcode - It's You (Zvenx) \[Traverse Beyond the Sea\]](https://osu.ppy.sh/beatmapsets/2226730#fruits/4723733)
   2. [Memme - Pandemonium (GiGas) \[Zileni's Master\]](https://osu.ppy.sh/beatmapsets/2152059#fruits/4538677)
@@ -192,6 +192,8 @@ This competition has come to an end and resulted in the following podium:
   1. **[polysha - Endverse (MILK_16) \[Des9 & MILK\_16's Final Annihilation\]](https://osu.ppy.sh/beatmapsets/2226698#fruits/4723636)**
 
 ### Quarterfinals
+
+**[Download the mappack here! (146 MB)](https://discord.com/channels/612285397875032094/1259518312778305687/1268193477435592821)**
 
 - No Mod
   1. [-LostFairy- - Gates of Hades (Zileni) \[Zileni & Zonda's Flames of Judgement\]](https://osu.ppy.sh/beatmapsets/2223446#fruits/4714874)
@@ -218,10 +220,12 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
+**[Download the mappack here! (114 MB)](https://discord.com/channels/612285397875032094/1259518312778305687/1264944048628826112)**
+
 - No Mod
   1. [Hyadain - Hyadain's Jojo Yujo (-Hex-) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2219094#fruits/4703760)
-  2. [DOT96 - MAKE IT FUNKY NOW (Cipse) \[FUNKY jef\]](https://osu.ppy.sh/beatmapsets/2154994#fruits/4541955)
-  3. [Pegboard Nerds - Try This (Des9) \[Shocking Wave\]](https://osu.ppy.sh/beatmapsets/2219177#fruits/4703906)
+  2. [Pegboard Nerds - Try This (Des9) \[Shocking Wave\]](https://osu.ppy.sh/beatmapsets/2219177#fruits/4703906)  
+  3. [DOT96 - MAKE IT FUNKY NOW (Cipse) \[FUNKY jef\]](https://osu.ppy.sh/beatmapsets/2154994#fruits/4541955)
   4. [Reol,nqrse - Ooedo Ranvu (zhu) \[Expert\]](https://osu.ppy.sh/beatmapsets/703580#fruits/1572141)
 - Hidden
   1. [QUEEN BEE - Mephisto (-Miya) \[CICO 2024 RO16 HD1\]](https://osu.ppy.sh/beatmapsets/2219188#fruits/4703924)
@@ -241,6 +245,8 @@ This competition has come to an end and resulted in the following podium:
   1. **[Diao Ye Zong feat. Meramipop - Saifu 'Kamiasobi no Uta' (Morusya) \[Frog\]](https://osu.ppy.sh/beatmapsets/2218881#fruits/4703316)**
 
 ### Round of 32
+
+**[Download the mappack here! (98 MB)](https://discord.com/channels/612285397875032094/1259518312778305687/1262423028445220977)**
 
 - No Mod
   1. [JKT48 - Bersepeda Berdua (Cut Ver.) (Madoka Ayukawa) \[Gowes\]](https://osu.ppy.sh/beatmapsets/2214898#fruits/4692984)
@@ -266,6 +272,8 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
+**[Download the mappack here! (59 MB)](https://discord.com/channels/612285397875032094/1259518312778305687/1259536166164893816)**
+
 - No Mod
   1. [Yousei Teikoku - Hades: The rise (-Miya) \[CICO2024 QLF NM1\]](https://osu.ppy.sh/beatmapsets/2210040#fruits/4681178)
   2. [Fractal Dreamers - Whispers from a Distant Star (MILK_16) \[CICO NM 2 QL VER\]](https://osu.ppy.sh/beatmapsets/2210045#fruits/4681185)
@@ -290,7 +298,7 @@ Saturday, 31 August 2024:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[Nekuro](https://osu.ppy.sh/users/3222638)** ::{ flag=ID }:: | **7** | 3 | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | [#1](https://osu.ppy.sh/community/matches/115309494) |
+| Lower | **[Nekuro](https://osu.ppy.sh/users/3222638)** ::{ flag=ID }:: | **7** | 0 | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | [#1](https://osu.ppy.sh/community/matches/115309494) |
 
 Sunday, 1 September 2024:
 
