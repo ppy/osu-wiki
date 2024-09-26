@@ -58,7 +58,7 @@ Los torneos organizados por la comunidad que cumplan con los siguientes criterio
 
 Para empezar, la solicitud **debe hacerse mucho antes de que el torneo empiece a jugarse.** No hay fechas específicas para esto, pero recomendamos al menos dos o tres semanas antes de que empiecen los partidos para tener en cuenta los retrasos en el proceso de selección.
 
-Si tu torneo cumple los [criterios de elegibilidad](#eligibilidad), puedes hacer una solicitud de soporte enviando un correo electrónico al equipo de soporte de cuentas a través de [tournaments@ppy.sh](mailto:tournaments@ppy.sh) con la siguiente información:
+Si tu torneo cumple los [criterios de elegibilidad](#elegibilidad), puedes hacer una solicitud de soporte enviando un correo electrónico al equipo de soporte de cuentas a través de [tournaments@ppy.sh](mailto:tournaments@ppy.sh) con la siguiente información:
 
 - Una breve descripción de tu torneo, incluidas las fechas correspondientes, los modos de juego y cualquier otra característica apropiada
 - Cualquier enlace a:
