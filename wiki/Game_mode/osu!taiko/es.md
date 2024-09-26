@@ -58,7 +58,7 @@ Los redobles se pueden ignorar sin penalización de salud, ya que no recuperan l
 
 Haz clic en el tambor interior y exterior **en orden** (como rojo, azul, rojo, azul, rojo, azul...) hasta que el contador de denden alcance 0. El color de inicio no importa (se puede empezar con azul o rojo), y no completarlo tendrá una penalización de salud pero no se romperá el combo. Tocar el mismo color no disminuirá el contador de denden, hasta que se golpee un color diferente en su lugar.
 
-No incrementan el contador de combo, ni recupera la barra de salud de ninguna manera. Cada golpe de denden exitoso solo otorga una puntuación estática de 300, y la finalización del denden dará una nota perfecta (GREAT).
+No incrementan el contador del combo, ni recupera la barra de salud de ninguna manera. Cada golpe de denden exitoso solo otorga una puntuación estática de 300, y la finalización del denden dará una nota perfecta (GREAT).
 
 ## Estilos de juego
 
@@ -77,7 +77,7 @@ La ubicación del cursor en el juego no importa cuando se está jugando.
 
 Si se usa el mod [Relax](/wiki/Gameplay/Game_modifier/Relax), la valoración de la puntuación solo tiene en cuenta la sincronización de los golpes (el mod golpea automáticamente el color correcto).
 
-El mando de tambor *TaTaCon* se creó principalmente para las versiones caseras de *Taiko no Tatsujin* y *Taiko: Drum Master*, pero no es tan común en osu!taiko.
+El mando *TaTaCon* se creó principalmente para las versiones caseras de *Taiko no Tatsujin* y *Taiko: Drum Master*, pero no es tan común en osu!taiko.
 
 ## Puntuación
 
