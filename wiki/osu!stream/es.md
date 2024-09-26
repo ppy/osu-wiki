@@ -6,13 +6,13 @@
 
 **osu!stream** es una versión especial de osu! hecha para dispositivos móviles con [iOS](https://es.wikipedia.org/wiki/IOS) y [Android](https://es.wikipedia.org/wiki/Android). Puede descargarse gratuitamente desde la [App Store](https://apps.apple.com/us/app/osu-stream/id436952197) (iOS) y la [Play Store](https://play.google.com/store/apps/details?id=sh.ppy.osustream&pli=1) (Android).
 
-A diferencia del osu! normal, osu!stream presenta un sistema de juego completamente nuevo con elementos únicos como los círculos para mantener pulsados y los ritmos conectados. No es compatible con los beatmaps clásicos de osu! sin conversión manual. En su lugar, los mapas son creados por un equipo especial de mappers para aprovechar los nuevos elementos y adherirse a un [nivel más estricto de estándares](https://docs.google.com/document/d/1FYmHhRX-onR-osgTS6uHSOZuu_0JEbfRZePVySvvr9g).
+A diferencia del osu! normal, osu!stream presenta un sistema de juego completamente nuevo con elementos únicos como los círculos mantenidos y los objetos conectados. No es compatible con los beatmaps clásicos de osu! sin conversión manual. En su lugar, los mapas son creados por un equipo especial de mappers para aprovechar los nuevos elementos y adherirse a un [nivel más estricto de estándares](https://docs.google.com/document/d/1FYmHhRX-onR-osgTS6uHSOZuu_0JEbfRZePVySvvr9g).
 
 ## Historia
 
 El desarrollo de osu! stream comenzó en 2011 como un intento de introducir una versión de osu! que pudiera jugarse en cualquier lugar como continuación del proyecto [osu! iPhone](https://github.com/ppy/osu-iPhone), abandonado anteriormente. En un principio se pensó como una aplicación exclusiva para iOS, ya que la infraestructura de Android en ese momento significaba que los problemas de latencia de audio en la plataforma eran inevitables.
 
-El juego se presentó por primera vez a través de [un críptico vídeo de YouTube](https://www.youtube.com/watch?v=6Jyzgm_-joM) en junio de 2011. Tras su lanzamiento público un par de meses después, se detallaron los pormenores del juego en [osu!monthly \#5](https://osu.ppy.sh/community/forums/topics/59924) junto con una entrevista a peppy.
+El juego se presentó por primera vez a través de [un críptico vídeo de YouTube](https://www.youtube.com/watch?v=6Jyzgm_-joM) en junio de 2011. Tras su lanzamiento público un par de meses después, se detallaron los pormenores del juego en el [osu!monthly \#5](https://osu.ppy.sh/community/forums/topics/59924) junto con una entrevista a peppy.
 
 El desarrollo de osu!stream se detuvo en 2020. Para más información, lee la [publicación](https://blog.ppy.sh/osu-stream-2020-release/) relacionada con su última versión. El código fuente, junto con las herramientas de conversión y prueba de beatmaps, se puso a disposición de los usuarios ese mismo año bajo una licencia permisiva en [GitHub](https://github.com/ppy/osu-stream), y todos los mapas que antes eran de pago están ahora disponibles gratuitamente en la «tienda» del juego.
 
@@ -70,24 +70,24 @@ En 2023, doce años después de su lanzamiento inicial, osu!stream fue finalment
 
 **Nota:** Prueba los nuevos elementos de juego en la pantalla «Tutorial».
 
-#### Indicadores de dedos en pantalla
+#### Indicadores de dedos en la pantalla
 
-![](img/Os-FG.jpg "Indicadores de dedos en pantalla")
+![](img/Os-FG.jpg "Indicadores de dedos en la pantalla")
 
 - Los dos círculos transparentes que aparecen en el juego se crearon para ayudar a los principiantes a saber cuándo pulsar los objetos.
   - Mostrará el método sugerido para poder jugar el mapa a la perfección.
 - El color verde es para la mano izquierda y el rojo para la derecha.
 - Esta función puede desactivarse desde el menú de opciones o tras completar el tutorial.
 
-#### Ritmos conectados
+#### Objetos conectados
 
-![](img/Os-CB.png "Ritmos conectados")
+![](img/Os-CB.png "Objetos conectados")
 
-- Los ritmos conectados, como sugiere el título, requieren que el jugador pulse los dos objetos al mismo tiempo.
-  - Los ritmos conectados no se limitan a «círculo-círculo», sino que pueden ser «círculo-slider», «círculo mantenido-slider», etc.
-- Los ritmos conectados pueden identificarse por tener una línea blanca recta que conecta con otro objeto.
+- Los objetos conectados, como sugiere el título, requieren que el jugador pulse los dos objetos al mismo tiempo.
+  - Los objetos conectados no se limitan a «círculo-círculo», sino que pueden ser «círculo-slider», «círculo mantenido-slider», etc.
+- Los objetos conectados pueden identificarse por tener una línea blanca recta que conecta con otro objeto.
 
-#### Círculo mantenido
+#### Círculos mantenidos
 
 ![](img/Os-HC.jpg "Círculo mantenido 1")
 
@@ -136,11 +136,11 @@ El color del fondo es verde.
 
 **Dificultad: Easy («Stream Down!» desde Normal) ~ Normal (punto de inicio) ~ Hard («Stream Up!» desde Normal)**
 
-El modo Stream es un modo exclusivo de osu!stream. En este modo, los jugadores empiezan con una «segunda» barra de vida llena hasta la mitad y con un nivel de dificultad normal. A continuación, el jugador debe llenarla para activar el modo «Stream Up!», que básicamente aumenta la dificultad (añadiendo objetos y cambiando a la dificultad Hard del mapa), pero sigue siendo bastante menos difícil que el modo Expert. Cuando los jugadores entran en el modo «Stream Up!», aparece una nueva barra de vida y «Stream Down!» se activará si esa barra de vida se agota, volviendo a la dificultad Normal o Easy y a la barra de vida anterior.
+El modo Stream es un modo exclusivo de osu!stream. En este modo, los jugadores empiezan con una «segunda» barra de vida llena hasta la mitad y con un nivel de dificultad normal. Luego, el jugador debe llenarla para activar el modo «Stream Up!», que básicamente aumenta la dificultad (añadiendo objetos y cambiando a la dificultad Hard del mapa), pero sigue siendo bastante menos difícil que el modo Expert. Cuando los jugadores entran en el modo «Stream Up!», aparece una nueva barra de vida y «Stream Down!» se activará si esa barra de vida se agota, volviendo a la dificultad Normal o Easy y a la barra de vida anterior.
 
 En resumen, el jugador empieza entre los niveles Easy y Hard.
 
-Ten en cuenta que el jugador **debe conseguir al menos un grado A (>80 % de precisión) en este modo para desbloquear el modo experto de la canción**. Una precisión inferior al 80 % aunque sea combo completo no cuenta como A (se contará como B como de costumbre).
+Ten en cuenta que el jugador **debe conseguir al menos un grado A (>80 % de precisión) en este modo para desbloquear el modo Expert de la canción**. Una precisión inferior al 80 % aunque sea combo completo no cuenta como A (se contará como B como de costumbre).
 
 El color del fondo es verde (Easy), azul (Normal) y rosa (Hard).
 
@@ -298,7 +298,7 @@ Lo siguiente restablecerá el multiplicador de la puntuación a cero:
 
 - Fallar un círculo.
 - Soltar un círculo mantenido cuando aún no ha explotado.
-- No poder pulsar simultáneamente los ritmos conectados. (Pulsar uno y fallar el otro)
+- No poder pulsar simultáneamente los objetos conectados. (Pulsar uno y fallar el otro)
 - Hacer clic en el inicio de un slider demasiado pronto.
 - Fallar el inicio de un slider o la marca de un slider.
 - No poder llenar el medidor de un spinner.
