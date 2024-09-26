@@ -20,6 +20,7 @@ For team contests, elite mapper points will be evaluated on a case-by-case basis
 
 Contest points have been used in the following contests:
 
+- [Kyoku 2024](/wiki/Contests/Kyoku/2024)
 - [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (MBC)
 - [osu!taiko Featured Artist Cup](/wiki/Contests/o!tFAC) (o!tFAC)
 - [Twin Trials](/wiki/Contests/Twin_Trials_Contest)
@@ -45,15 +46,17 @@ Contest points have been used in the following contests:
 | ::{ flag=GB }:: [Aistre](https://osu.ppy.sh/users/4879380) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=KR }:: [bIG data](https://osu.ppy.sh/users/17744610) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=DE }:: [0ppInOsu](https://osu.ppy.sh/users/12551840) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=FR }:: [Halgoh](https://osu.ppy.sh/users/4109923) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (1), [Kyoku 2024](/wiki/Contests/Kyoku/2024) (2) |
 | ::{ flag=DK }:: [melon boy](https://osu.ppy.sh/users/3053382) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=RU }:: [Aphestra](https://osu.ppy.sh/users/11949191) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=PL }:: [Kalibe](https://osu.ppy.sh/users/3376777) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=US }:: [UndeadCapulet](https://osu.ppy.sh/users/2523533) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=EE }:: [iljaaz](https://osu.ppy.sh/users/8501291) | 2 | [Twin Trials](/wiki/Contests/Twin_Trials_Contest) |
+| ::{ flag=DE }:: [Lulu-](https://osu.ppy.sh/users/4201715) | 2 | [Kyoku 2024](/wiki/Contests/Kyoku/2024) |
+| ::{ flag=DE }:: [Slifer](https://osu.ppy.sh/users/15084122) | 2 | [Kyoku 2024](/wiki/Contests/Kyoku/2024) |
 | ::{ flag=CN }:: [Moecho](https://osu.ppy.sh/users/5075660) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=GB }:: [Altai](https://osu.ppy.sh/users/5745865) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=CN }:: [fanzhen0019](https://osu.ppy.sh/users/418699) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
-| ::{ flag=FR }:: [Halgoh](https://osu.ppy.sh/users/4109923) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=KR }:: [Oriental](https://osu.ppy.sh/users/16142512) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=ID }:: [ScubDomino](https://osu.ppy.sh/users/8972308) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=PH }:: [flake](https://osu.ppy.sh/users/7627157) | 1 | [Twin Trials](/wiki/Contests/Twin_Trials_Contest) |
@@ -61,6 +64,12 @@ Contest points have been used in the following contests:
 | ::{ flag=PH }:: [LeCandy](https://osu.ppy.sh/users/6626249) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=US }:: [Nuolong](https://osu.ppy.sh/users/4732455) | 1 | [VMC2](/wiki/Contests/VMC/2) |
 | ::{ flag=US }:: [mintIceCream_](https://osu.ppy.sh/users/13221589) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=CL }:: [\[-Evil-\]](https://osu.ppy.sh/users/10234313) | 1 | [Kyoku 2024](/wiki/Contests/Kyoku/2024) |
+| ::{ flag=CL }:: [Mysty](https://osu.ppy.sh/users/10210657) | 1 | [Kyoku 2024](/wiki/Contests/Kyoku/2024) |
+| ::{ flag=DE }:: [Le Mirai](https://osu.ppy.sh/users/13646997) | 1 | [Kyoku 2024](/wiki/Contests/Kyoku/2024) |
+| ::{ flag=DE }:: [Omekyu](https://osu.ppy.sh/users/14348073) | 1 | [Kyoku 2024](/wiki/Contests/Kyoku/2024) |
+| ::{ flag=AT }:: [hakashii](https://osu.ppy.sh/users/11688893) | 1 | [Kyoku 2024](/wiki/Contests/Kyoku/2024) |
+| ::{ flag=FI }:: [Nihkee](https://osu.ppy.sh/users/14244740) | 1 | [Kyoku 2024](/wiki/Contests/Kyoku/2024) |
 
 ### osu!taiko
 
