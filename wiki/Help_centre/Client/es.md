@@ -43,12 +43,12 @@ tags:
 
 ### ¡He cambiado la configuración y ahora no puedo iniciar osu! o se congela! {id=incorrect-settings}
 
-**En la mayoría de los casos, si se restablece la configuración predeterminada de osu! se solucionará el problema.**
+**En la mayoría de los casos, si se restablece a la configuración predeterminada de osu! se solucionará el problema.**
 
 Sigue estos pasos para restaurar osu! a su configuración predeterminada:
 
-1. Inicia osu! mientras mantienes pulsada la tecla `Mayús` de tu teclado.
-2. Mantén pulsada la tecla `Mayús` hasta que aparezca el cuadro de diálogo de reparación de osu!.
+1. Inicia osu! mientras mantienes presionada la tecla `Mayús` de tu teclado.
+2. Mantén presionada la tecla `Mayús` hasta que aparezca el cuadro de diálogo de reparación de osu!.
 3. Cuando se abra el cuadro de diálogo `osu! configuration`, haz clic en el botón `reset settings`.
 4. Si sigues sin tener suerte, abre de nuevo el cuadro de diálogo y haz clic en `repair osu!`.
 
@@ -66,7 +66,7 @@ Para verificar o cambiar si tu juego se está ejecutando en modo de compatibilid
 2. Haz clic con el botón derecho del ratón en `osu!.exe` y selecciona `Propiedades` en el menú desplegable.
 3. Ve a la pestaña `Compatibilidad`.
 4. Busca una casilla de verificación llamada `Ejecutar este programa en modo de compatibilidad` dentro de una sección llamada `Modo de compatibilidad`.
-5. Si esta casilla está marcada, vuelva a pulsarla para desactivar la funcionalidad.
+5. Si esta casilla está marcada, vuelve a pulsarla para desactivar la funcionalidad.
 6. Si el juego está abierto, cierra el cliente y vuelve a abrirlo.
 
 #### ¿Tienes establecido un navegador web predeterminado? {id=default-browser}
@@ -97,7 +97,7 @@ También puedes intentar forzar la actualización del juego.
 
 1. Abre osu!.
 2. Haz clic en el botón `Options` del menú principal o presiona `Ctrl` + `O`.
-3. Escribe `release` en la búsqueda rápida para ir directamente a la opción.
+3. Escribe `versión` en la búsqueda rápida para ir directamente a la opción.
 4. Asegúrate de que el menú desplegable dice `Estable` para recibir la última versión estable del juego.
 
 #### ¡Forzar la actualización de osu! {id=force-update}
@@ -106,7 +106,7 @@ También puedes intentar forzar la actualización del juego.
 
 1. Abre osu!.
 2. Haz clic en el botón `Options` del menú principal o presiona `Ctrl` + `O`.
-3. Escribe `update` en la búsqueda rápida para ir directamente a la opción.
+3. Escribe `actualizar` en la búsqueda rápida para ir directamente a la opción.
 4. Haz clic en el botón `Actualizar osu!`.
 
 También puedes forzar la actualización del juego creando un archivo `help.txt` en el directorio de instalación de osu!. Este archivo no necesita contener nada; solo necesita existir, y el juego forzará automáticamente una actualización la próxima vez que se ejecute.
@@ -130,22 +130,22 @@ Para más información y otras opciones para recuperarlas, consulta [este tema](
 
 **Asegúrate de que no estás agrupando tus beatmaps por nada en la parte superior derecha de la pantalla (es decir, «Agrupar» debería estar en «Sin ordenar»).**
 
-Si acabas de descargar un mapa, puedes intentar refrescar tu lista de beatmaps pulsando `F5` en el selector de canciones.
+Si acabas de descargar un mapa, puedes intentar refrescar tu lista de beatmaps presionando `F5` en el selector de canciones.
 
 Asegúrate de que no estás limitando los mapas que se muestran en las opciones del juego.
 
-Para verificar o cambiar los beatmaps que se muestran en el selector de canción, sigue estos pasos:
+Para verificar o cambiar los beatmaps que se muestran en el selector de canciones, sigue estos pasos:
 
 1. Abre osu!.
 2. Haz clic en el botón `Options` del menú principal o presiona `Ctrl` + `O`.
 3. Escribe `selector de canciones` en la búsqueda rápida para ir directamente a la opción.
-4. Asegúrate de que `Mostrar mapas desde` está establecido en 0 estrellas, y que `hasta` está establecido en 10+ estrellas.
+4. Asegúrate de que `Mostrar mapas desde` esté establecido en 0 estrellas, y que `hasta` esté establecido en 10+ estrellas.
 
 ![](img/difficulty-display-ES.png "Valores correctos de la opción Mostrar mapas desde")
 
 Si ninguno de estos métodos funciona, como último recurso puedes intentar forzar la recreación de tu base de datos de los beatmaps. **Ten en cuenta que esto marcará todos tus mapas como «no jugados», por lo que la búsqueda y agrupación de mapas por campos que dependen de la fecha de juego ya no funcionarán.**
 
-Para forzar de forma segura la recreación de tu base de datos de beatmaps, sigue estos pasos:
+Para forzar de forma segura la recreación de tu base de datos de los beatmaps, sigue estos pasos:
 
 1. Abre osu!.
 2. Haz clic en el botón `Options` del menú principal o presiona `Ctrl` + `O`.
@@ -182,7 +182,7 @@ Una vez que todos los archivos `.osz` estén en el directorio `Songs`, presiona 
 
 **Si presionas `Mayús` + `Tabulador` mientras juegas, activarás el HUD del juego y podrás volver a ver estos elementos.**
 
-Si has cambiado la asignación de las teclas que activan la tabla de puntuaciones, esto no funcionará. Puedes revisar cuáles son las teclas asignadas en `Options` -> `Atajos del teclado` -> `In-Game` -> `Toggle Scoreboard`. Luego puedes reemplazar la tecla `Tab` por otra (por ejemplo, para hacer `Shift` + `V`).
+Si has cambiado la asignación de las teclas que activan la tabla de puntuaciones, esto no funcionará. Puedes revisar cuáles son las teclas asignadas en `Options` -> `Atajos del teclado` -> `In-Game` -> `Toggle Scoreboard`. Luego puedes reemplazar la tecla `Tabulador` por otra (por ejemplo, para hacer `Mayús` + `V`).
 
 ### ¡Mis puntuaciones locales han desaparecido! {id=no-scores}
 
@@ -204,7 +204,7 @@ Consejo práctico: si eres un osu!supporter, puedes usar el filtro `Ranked (Play
 
 Una causa común de este problema surge al jugar mapas de otro modo de juego, que luego automáticamente establece el selector de canciones para usar las puntuaciones de ese modo hasta que el modo se establezca de nuevo.
 
-Puedes cambiar el modo de juego haciendo clic en el botón `Mode` situado en la parte inferior izquierda del selector de canción y eligiendo el modo adecuado en el que buscas tus puntuaciones.
+Puedes cambiar el modo de juego haciendo clic en el botón `Mode` situado en la parte inferior izquierda del selector de canciones y eligiendo el modo adecuado en el que buscas tus puntuaciones.
 
 #### ¿Has descargado recientemente un gran número de mapas? (es decir, un lote o paquete de beatmaps) {id=no-scores-many-maps}
 
@@ -230,7 +230,7 @@ Ten en cuenta que si no se ha guardado ninguna repetición de la puntuación, no
 
 ### ¡osu! me dice que mi cliente del juego es demasiado antiguo! {id=old-client}
 
-**¡Es hora de actualizar! ¡Las versiones muy antiguas del juego no pueden enviar nuevas puntuaciones, así que tendrás que forzar una actualización entrando en `Options` -> `General` -> `Actualizar osu!`.**
+**¡Es hora de actualizar! Las versiones muy antiguas del juego no pueden enviar nuevas puntuaciones, así que tendrás que forzar una actualización entrando en `Options` -> `General` -> `Actualizar osu!`.**
 
 Si esto no funciona, puedes cerrar osu! y reiniciar osu!.exe mientras mantienes presionada la tecla `Mayús`. Esto te proporcionará unas cuantas opciones de actualización y reparación, siendo una de ellas actualizar tu juego a la última versión.
 
@@ -327,7 +327,7 @@ Para asegurarnos de que osu! pueda acceder a internet, tendremos que permitir qu
 4. Se abrirá un panel con una gran lista de aplicaciones con dos casillas de verificación al lado. Haz clic en cualquier aplicación, luego presiona la tecla `o`. La lista se desplazará hacia abajo hasta todas las aplicaciones que empiecen por `o`.
 5. Busca `osu!` u `osu!.exe`.
 6. Si no aparecen ninguno de los dos, haz clic en `Permitir otra aplicación` en la parte inferior del panel, busca el directorio de instalación de osu! y selecciona `osu!.exe`.
-7. Asegúrate de que las casillas `Privada` y `Pública` están marcadas. Haz clic en Aceptar para guardar la configuración y vuelve a intentarlo.
+7. Asegúrate de que las casillas `Privada` y `Pública` estén marcadas. Haz clic en Aceptar para guardar la configuración y vuelve a intentarlo.
 
 #### Permitir un programa a través del cortafuegos de AVG {id=firewall-whitelist-avg}
 
@@ -394,7 +394,7 @@ Para verificar a qué valor está configurado tu limitador de fotogramas, sigue 
 
 1. Abre osu!.
 2. Haz clic en el botón `Options` del menú principal o presiona `Ctrl` + `O`.
-3. Escribe `frame` en la búsqueda rápida para que aparezcan las opciones del limitador de fotogramas.
+3. Escribe `límite` en la búsqueda rápida para que aparezcan las opciones del limitador de fotogramas.
 
 Si tu limitador de fotogramas está establecido en `Ilimitado`, puedes notar una mejora significativa cambiándolo a una de las otras tres opciones.
 
@@ -485,7 +485,7 @@ Prueba a cerrar algunos programas que no necesites tener abiertos mientras juega
 
 #### ¿Tu ordenador es seguro? {id=lag-infected-pc}
 
-**Los virus, spyware, malware u otro software no deseado pueden causar graves problemas de rendimiento incluso en ordenadores de gama alta.**
+**Los virus, spyware, malware u otro software no deseado pueden causar graves problemas de rendimiento, incluso en ordenadores de gama alta.**
 
 Mantén tu ordenador limpio y seguro y puede que notes una mejora. Prueba a realizar un análisis de virus en tu ordenador para encontrar y eliminar este tipo de problemas.
 
@@ -521,7 +521,7 @@ Esto suele desaparecer después de cerrar todo lo no esencial antes de jugar a o
 
 **A veces, después de una actualización del juego, el cliente puede tener problemas sin motivo aparente.**
 
-Si tienes muchos beatmaps, espera al menos 10 a 15 minutos antes de echarle la culpa del retraso a la actualización. El cliente de osu! puede estar reprocesando tus mapas para calcular su dificultad.
+Si tienes muchos beatmaps, espera al menos 10 o 15 minutos antes de echarle la culpa del retraso a la actualización. El cliente de osu! puede estar reprocesando tus mapas para calcular su dificultad.
 
 Si no se resuelve, un reinicio a veces puede ayudar.
 
