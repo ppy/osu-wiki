@@ -12,9 +12,9 @@ Se añadieron nuevas funciones al sitio web de osu!, incluidos los filtros para 
 
 Para recibir opiniones más rápidas y útiles, se pusieron a disposición de los supporters [versiones de prueba](https://osu.ppy.sh/community/forums/topics/48054?n=1).
 
-Una actualización de osu! el 28 de marzo incorporó mejoras a los diálogos del [editor de beatmaps](/wiki/Client/Beatmap_editor) y aumentó el rendimiento de [Bancho](/wiki/Bancho_(server)).[^stable-b1800][^bancho]
+El 28 de marzo, una actualización de osu! incorporó mejoras a los diálogos del [editor de beatmaps](/wiki/Client/Beatmap_editor) y aumentó el rendimiento de [Bancho](/wiki/Bancho_(server)).[^stable-b1800][^bancho]
 
-La primera edición del [osu!monthly](/wiki/Community/osu!monthly) fue publicada por ::{ flag=US }:: [jjrocks](https://osu.ppy.sh/users/30985) y ::{ flag=GB }:: [Corin](https://osu.ppy.sh/users/639270), presentando una variedad de contenido que abarca desde estadísticas de usuarios hasta promociones en el [Beatmap Appreciation Team (BAT)](/wiki/People/Beatmap_Appreciation_Team) y el [Mapping Assistance Team (MAT)](/wiki/People/Mapping_Assistance_Team).[^monthly-1]
+La primera edición del [osu!monthly](/wiki/Community/osu!monthly) fue publicada por ::{ flag=US }:: [jjrocks](https://osu.ppy.sh/users/30985) y ::{ flag=GB }:: [Corin](https://osu.ppy.sh/users/639270), presentando una variedad de contenido que abarcaba desde estadísticas de los usuarios hasta promociones en el [Beatmap Appreciation Team (BAT)](/wiki/People/Beatmap_Appreciation_Team) y el [Mapping Assistance Team (MAT)](/wiki/People/Mapping_Assistance_Team).[^monthly-1]
 
 ## Agosto
 
