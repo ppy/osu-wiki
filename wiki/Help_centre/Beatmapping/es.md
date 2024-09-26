@@ -24,7 +24,7 @@ Esta sección está dedicada a problemas con el editor de beatmaps y el beatmapp
 
 **Puedes hacerlo a través del editor del juego.**
 
-Para subir tu beatmap, entra en el editor y pulsa `Archivo` > `Subir mapa`.
+Para subir tu beatmap, entra en el editor y haz clic en `Archivo` > `Subir mapa`.
 
 De este modo, tu beatmap estará disponible para que otros lo descarguen en el sitio web. Actualizar un mapa es el mismo proceso para un mapa que ya se ha subido.
 
