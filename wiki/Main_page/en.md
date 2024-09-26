@@ -22,7 +22,7 @@ Important articles and guides that will help you dive into osu!. In case anythin
 </div>
 <div class="wiki-main-page-panel">
 
-# Game client
+# [Game client](/wiki/Client)
 
 Being the guide to the world of rhythm, beats, and flashes, osu! has a lot to present. Get to know the game better from its various settings and customisation capabilities to technical details and the file formats it uses.
 
