@@ -36,7 +36,7 @@ Esta sección está dedicada a los problemas con el sitio web de osu!.
 
 Siempre puedes enviar una única respuesta a tu tiquete actualmente abierto preguntando por el estado de tu caso, pero asegúrate de no hacerlo más de una o dos veces por semana. También puedes ponerte en contacto con nosotros a través de Twitter en [@osusupport](https://twitter.com/osusupport) para preguntarnos por tu tiquete.
 
-En raras circunstancias, los tiquetes de soporte al usuario crónicamente ofensivos pueden ser ignorados a propósito, aunque el [equipo de soporte](/wiki/People/The_Team/Account_support_team) **siempre** te dirá primero que ya no te responderá. Si no has recibido una notificación de este tipo, no tienes por qué preocuparte.
+En raras circunstancias, los tiquetes de soporte al usuario crónicamente ofensivos pueden ser ignorados a propósito, aunque el [equipo de soporte](/wiki/People/Account_support_team) **siempre** te dirá primero que ya no te responderá. Si no has recibido una notificación de este tipo, no tienes por qué preocuparte.
 
 ### ¿Puedo bloquear completamente a otro usuario para que no se ponga en contacto conmigo? {id=ignore-user}
 
@@ -44,7 +44,7 @@ En raras circunstancias, los tiquetes de soporte al usuario crónicamente ofensi
 
 En caso de que otro usuario te acose a través de mensajes privados, ya sea en los foros o a través del propio cliente del juego, hay algunas medidas que puedes tomar tú mismo para filtrar sus mensajes.
 
-#### Bloquear a un usuario para que no se ponga en contacto contigo en el juego {id=ignore-user-in-game}
+#### Cómo bloquear a un usuario para que no se ponga en contacto contigo en el juego {id=ignore-user-in-game}
 
 **Para impedir que un usuario te envíe mensajes en el juego, solo tienes que añadirlo a tu lista de ignorados.**
 
@@ -52,21 +52,21 @@ En caso de que otro usuario te acose a través de mensajes privados, ya sea en l
 2. Escribe `ignore` para filtrar el listado de opciones a la sección `Usuarios ignorados`.
 3. Añade el nombre de usuario del ofensor a la lista, separando cada nuevo usuario con un espacio, y reemplazando cualquier espacio en su nombre por guiones bajos (por ejemplo, un usuario llamado *The Gatekeeper* se convierte en *The\_Gatekeeper*).
 
-Ya no verás los mensajes de chat públicos de ningún usuario de esa lista, ni recibirás mensajes privados de ellos.
+Ya no verás los mensajes públicos de los usuarios incluidos en esa lista ni recibirás mensajes privados de ellos.
 
 Si deseas ignorar los mensajes destacados, privados o públicos, solo tienes que añadir respectivamente `@h`, `@p`, `@c` a su nombre de usuario. `The_Gatekeeper@c` ignorará los mensajes del usuario en los canales públicos. Es posible combinarlos: `The_Gatekeeper@ph` ignorará los mensajes destacados y privados, pero dejará visibles los mensajes públicos.
 
-#### Bloquear el envío de mensajes privados en el juego a quienes no sean amigos {id=ignore-strangers-in-game}
+#### Cómo bloquear el envío de mensajes privados en el juego a quienes no sean amigos {id=ignore-strangers-in-game}
 
 Si quieres impedir que alguien que no esté en tu lista de amigos te envíe mensajes privados, sigue estos pasos. **Ten en cuenta que esta función no afecta a los moderadores, los cuales siempre podrán enviarte un mensaje privado. Si crees que un moderador te está acosando debido a esto, debes ponerte en contacto con [nuestro equipo de soporte](mailto:support@ppy.sh).**
 
-1. Haz clic en el botón `Options` del menú principal o pulsa `Ctrl` + `O`.
-2. Escribe `block` para filtrar el listado de opciones a la sección `Chat en juego`.
+1. Haz clic en el botón `Options` del menú principal o presiona `Ctrl` + `O`.
+2. Escribe `bloquear` para filtrar el listado de opciones a la sección `Chat en juego`.
 3. Haz clic en la opción que aparece para activarla.
 
 Los usuarios que no estén en tu lista de amigos ya no podrán ponerse en contacto contigo.
 
-#### Evitar que te lleguen nuevos mensajes privados desde el sitio web {id=ignore-strangers-website}
+#### Cómo evitar que te lleguen nuevos mensajes privados desde el sitio web {id=ignore-strangers-website}
 
 Ve a la [configuración de tu cuenta](https://osu.ppy.sh/home/account/edit) y haz clic en `bloquear los mensajes privados de personas que no están en tu lista de amigos` en la sección Privacidad. Los mensajes privados de los usuarios de tu lista de amigos te seguirán llegando.
 
