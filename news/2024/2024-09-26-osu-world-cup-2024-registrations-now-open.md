@@ -14,7 +14,7 @@ For this year's edition, the tournament structure remains largely the same, from
 
 The second change has all to do with how our mappools are structured, and how the pick and ban system interacts with it. We've opted to lift the restrictions on double banning beatmaps from the Hidden, Hard Rock, Double time, and Free Mod pool slots. In the words of our ever reliable mappooler and #mappool-feedback PR specialist [chiv](https://osu.ppy.sh/users/6701656):
 
->"The current restriction on banning two maps of the same category is not compatible with modern mappools, which often have considerable fluctuations in skill set distribution across the different slots."
+> "The current restriction on banning two maps of the same category is not compatible with modern mappools, which often have considerable fluctuations in skill set distribution across the different slots."
 
 In short: **slot pooling is no more.**
 

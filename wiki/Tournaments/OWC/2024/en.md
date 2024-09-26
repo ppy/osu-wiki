@@ -184,7 +184,7 @@ The osu! World Cup 2024 is run by the [osu! team](/wiki/People/osu!_team) and va
    - Round of 32 and Round of 16: 15 beatmaps
    - Quarterfinals, Semifinals, Finals, and Grand Finals: 20 beatmaps
 4. The Hidden, Hard Rock, and Double Time brackets will be played with the respective mods enabled for all players.
-6. Failed scores will be counted in their integrity. To that end, the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod will be enforced on every beatmap.
+5. Failed scores will be counted in their integrity. To that end, the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod will be enforced on every beatmap.
    - Teams that disregard this instruction by choosing to play without at least one No Fail and fail as a result will lose said game.
 6. The FreeMod bracket will have "Free Mods" enabled, that is, players will be able to select what mods they use.
    - Possible mod choices are Hidden, Hard Rock, and Hidden + Hard Rock.
