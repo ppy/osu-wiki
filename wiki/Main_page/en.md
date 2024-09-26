@@ -33,7 +33,7 @@ Being the guide to the world of rhythm, beats, and flashes, osu! has a lot to pr
 </div>
 <div class="wiki-main-page-panel">
 
-# Gameplay
+# [Gameplay](/wiki/Gameplay)
 
 Everything about clicking circles, striking drums, catching fruits, and playing the synthesiser: key elements, concepts, mechanics, and competitive play.
 
