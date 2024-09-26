@@ -59,7 +59,7 @@ Activities: [Beatmapping](/wiki/Beatmapping) • [Mapping techniques](/wiki/Beat
 
 # Beatmap submission and ranking
 
-Ranking is the process of obtaining a leaderboard for a beatmap, which makes it more popular and well-recognised. Discover what it takes to walk this path and how to increase your chances to succeed through beatmap reviews, the procedures for quality control and the ranking process and even about the Loved status.
+Ranking is the process of obtaining a leaderboard for a beatmap, which makes it more popular and well-recognised. Discover what it takes to walk this path and how to increase your chances to succeed through beatmap reviews, as well as the procedures for quality control and the ranking process.
 
 [Submission](/wiki/Beatmapping/Beatmap_submission) • [Modding](/wiki/Modding) • [Ranking procedure](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
