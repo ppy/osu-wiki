@@ -17,7 +17,7 @@ Important articles and guides that will help you dive into osu!. In case anythin
 
 [Rules](/wiki/Rules) • [Installation](/wiki/Client/Installation) • [Registration](/wiki/Registration) • [Help Centre](/wiki/Help_centre)
 
-[Chat console](/wiki/Client/Interface/Chat_console) • [BanchoBot](/wiki/BanchoBot) • [FAQ](/wiki/FAQ) • [Guides](/wiki/Guides) • [Glossary](/wiki/Sitemap)
+[BanchoBot](/wiki/BanchoBot) • [FAQ](/wiki/FAQ) • [Guides](/wiki/Guides) • [Sitemap](/wiki/Sitemap)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -26,7 +26,7 @@ Important articles and guides that will help you dive into osu!. In case anythin
 
 Being the guide to the world of rhythm, beats, and flashes, osu! has a lot to present. Get to know the game better from its various settings and customisation capabilities to technical details and the file formats it uses.
 
-[Interface](/wiki/Client/Interface) • [Options](/wiki/Client/Options) • [Visual settings](/wiki/Client/Interface/Visual_settings) • [Shortcut key reference](/wiki/Client/Keyboard_shortcuts) • [Configuration file](/wiki/Client/Program_files/User_configuration_file) • [Program files](/wiki/Client/Program_files)
+[Interface](/wiki/Client/Interface) • [Options](/wiki/Client/Options) • [Visual settings](/wiki/Client/Interface/Visual_settings) • [Chat console](/wiki/Client/Interface/Chat_console) • [Shortcut key reference](/wiki/Client/Keyboard_shortcuts) • [Configuration file](/wiki/Client/Program_files/User_configuration_file) • [Program files](/wiki/Client/Program_files)
 
 [File formats](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/osz_(file_format)) • [.osk](/wiki/Client/File_formats/osk_(file_format)) • [.osr](/wiki/Client/File_formats/osr_(file_format)) • [.osu](/wiki/Client/File_formats/osu_(file_format)) • [.osb](/wiki/Client/File_formats/osb_(file_format))
 
