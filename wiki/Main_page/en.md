@@ -104,7 +104,7 @@ Places: [Forum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_
 
 [Projects](/wiki/Community/Projects) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [osu! community meetings](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [lazer updates](/wiki/Community/Video_series/lazer_updates)
 
-Organisations: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
+[Organisations](/wiki/Community/Organisations): [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 </div>
 <div class="wiki-main-page-panel">
