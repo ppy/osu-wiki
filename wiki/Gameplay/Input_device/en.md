@@ -16,6 +16,7 @@ The following is a list of the most common input devices used for osu!:
 Uncommon input devices mostly used for fun:
 
 - [Beatmania controller](/wiki/Gameplay/Input_device/Beatmania_controller)
-- [Drum controller](/wiki/Gameplay/Input_device/Drum_controller)
 - [Dance pad](/wiki/Gameplay/Input_device/Dance_pad)
+- [Drum controller](/wiki/Gameplay/Input_device/Drum_controller)
 - [Wiimote](/wiki/Gameplay/Input_device/Wiimote)
+
