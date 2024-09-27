@@ -1,35 +1,36 @@
 ---
 layout: post
 title: "Autumn 2024 Fanart Contest: Voting Open"
-date: 2024-09-27 05:00:00 +0000
+date: 2024-09-27 17:00:00 +0000
 ---
 
-**180** entries yearn for the blessing of your own **15** votes!
+Autumn is here, and with it **182** appropriately themed artworks to celebrate the occasion!
 
 ![](https://assets.ppy.sh/contests/221/banner.jpg)
 
-Alright, you may already know the drill for this. If not, each and every one of you (the reader) is equipped with **15** votes ready to be bestowed on your favourite selection of this iteration's **180** stellar fanart entries.
+Now, with a mere 15 votes to choose your favourites among such a staggering selection, we'd normally shiver in terror, but the theme has [switched up a bit](https://osu.ppy.sh/home/news/2024-09-06-autumn-fanart-contest), hasn't it?
 
-To ease off the selection process for you, we've compiled all of the entries in a sleek slideshow that's backed with banger tunes from *insert song credits*:
+To ease the selection process, we've compiled all of the entries in a sleek slideshow that's backed with calming, yet cheerful tunes from *Eientewi set 02 ~ Stirring an Autumn Moon* by Rin / Function Phantom:
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="LINK" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/contests/221/autumn2024-voting.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
 [![Click here to start voting in the Autumn 2024 Fanart Contest!](/wiki/shared/news/2024-09-27-autumn-2024-fanart-voting/vote.png)](https://osu.ppy.sh/community/contests/221)
 
-In case you need a reminder, a selection of the top-voted finalists will be **featured on the main menu** and receive **3 months of osu!supporter**, plus the top 3 will also receive fancy bespoke **profile badges** made from their own creations.
+In case you need a reminder, rewards for this contest as follows:
 
-Let's not also forget about the top 3 finalists being available for everyone as a [**limited-time selection of default profile banners**](https://osu.ppy.sh/home/news/2024-07-15-aerial-antics-art-results#new-profile-customisations)! You might want to take one last look at the current selection of banners before they disappear forever...
+- A selection of the top-voted finalists will be **featured on the main menu**.
+- Top-voted entries will receive **3 months of osu!supporter**.
+- The top 3 will receive bespoke **profile badges** made from their own creations.
+- The top 3 will also be featured as [**limited-time default profile banners**](https://osu.ppy.sh/home/news/2024-07-15-aerial-antics-art-results#new-profile-customisations), with the ones from last round rotating out.
 
 ---
 
 Eternal thanks to all participants who dedicated their time and efforts into conjuring up and submitting an entry — you're the lifeblood of this contest, and all art enjoyers in our community are eternally grateful!
 
 Okay, what are you waiting for? Vote, vote, vote!
-
-Alright, no time to waste now, go lock in your votes. Go, go, go!
 
 —Hivie & Walavouchey
