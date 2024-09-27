@@ -7,9 +7,9 @@ tags:
 
 ![](img/beat_snap_divisor-DE.png "Taktteiler im Editor")
 
-Der **Taktteiler** (auch *Beat Snap Divisor* genannt) ist eine Einstellung, die bestimmt, wie der Editor [Beats](/wiki/Music_theory/Beat) darstellt. Dieser Prozess nennt sich [beat snapping](/wiki/Beatmapping/Beat_snapping) <!--Beat-Platzierung?-->. Der Taktteiler befindet sich in der rechten oberen Ecke des Editors.
+Der **Taktteiler** (auch *Beat Snap Divisor* genannt) ist eine Einstellung, die bestimmt, wie der Editor [Beats](/wiki/Music_theory/Beat) darstellt. Dieser Prozess nennt sich [Beat-Positionierung](/wiki/Beatmapping/Beat_snapping). Der Taktteiler befindet sich in der rechten oberen Ecke des Editors.
 
-Der Taktteiler bestimmt die Feinheit der [Hit-Objekte](/wiki/Gameplay/Hit_object) auf der [Zeitleiste](/wiki/Client/Beatmap_editor/Timelines). Der Teiler drückt in Form eines Bruchs aus, in wie viele Teile ein Beat aufgeteilt werden soll. Ein höherer Notenwert bedeutet, dass mehr Noten im selben Takt platziert werden können, und umgekehrt.
+Durch den Taktteiler wird die Feinheit der [Hit-Objekte](/wiki/Gameplay/Hit_object) auf der [Zeitleiste](/wiki/Client/Beatmap_editor/Timelines) bestimmt. Der Teiler drückt in Form eines Bruchs aus, in wie viele Teile ein Beat aufgeteilt werden soll. Ein höherer Notenwert bedeutet, dass mehr Noten im selben Takt platziert werden können, und umgekehrt.
 
 ## Unterstützte Notenwerte
 
@@ -29,6 +29,6 @@ Der Beatmap-Editor unterstützt für den Taktteiler 11 verschiedene Einstellunge
 | 1/12 | Grau | ![](img/1_12_snap_divisor.png "1/12-Takt in der Objektleiste") |
 | 1/16 | Grau | ![](img/1_16_snap_divisor.png "1/16-Takt in der Objektleiste") |
 
-1/1 (ein ganzer Takt), 1/2 (ein halber Takt) und 1/4 (ein Vierteltakt) sind die verbreitetsten Notenwerte, da viele Songs mit schnelleren Rhythmen komponiert werden. Taktarten wie 1/3 (ein Tripeltakt) und 1/6 werden oft im Walzer verwenden, wobei ein Takt in 3 oder 6 gleiche Teile aufgeteilt wird.
+1/1 (ein ganzer Takt), 1/2 (ein halber Takt) und 1/4 (ein Vierteltakt) sind die am häufigsten verwendeten Notenwerte, da viele Songs mit Rhythmen höherer Intensität komponiert werden. Taktarten wie 1/3 (ein Tripeltakt) und 1/6 werden oft im Walzer verwendet, wobei ein Takt in 3 oder 6 gleiche Teile aufgeteilt wird.
 
 Die anderen Einstellungen des Taktteilers sind ungewöhnlich und sollten mit Bedacht eingesetzt werden: Solange ein Song oder ein Abschnitt darin nicht speziell mit ungewöhnlichen Notenlängen komponiert wurde, sind seltene Taktarten wie 1/5 or 1/16 normalerweise ein Hinweis darauf, dass die Beatmap falsch [getimt](/wiki/Beatmapping/Timing) wurde. 1/16 im Einzelnen wird jedoch für Buzz-Slider (kurze, sich viele Male wiederholende Slider) verwendet.
