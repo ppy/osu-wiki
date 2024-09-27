@@ -8,7 +8,7 @@ Autumn is here, and with it **182** appropriately themed artworks to celebrate t
 
 ![](https://assets.ppy.sh/contests/221/banner.jpg)
 
-Now, with a mere 15 votes to choose your favourites among such a staggering selection, we'd normally shiver in terror, but the theme has [switched up a bit](https://osu.ppy.sh/home/news/2024-09-06-autumn-fanart-contest), hasn't it?
+Now, with a mere 20 votes to choose your favourites among such a staggering selection, we'd normally shiver in terror, but the theme has [switched up a bit](https://osu.ppy.sh/home/news/2024-09-06-autumn-fanart-contest), hasn't it?
 
 To ease the selection process, we've compiled all of the entries in a sleek slideshow that's backed with calming, yet cheerful tunes from *Eientewi set 02 ~ Stirring an Autumn Moon* by Rin / Function Phantom:
 
