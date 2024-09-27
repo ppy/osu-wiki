@@ -10,10 +10,14 @@ The following is a list of the most common input devices used for osu!:
 
 - [Graphics tablet](/wiki/Gameplay/Input_device/Graphics_tablet)
 - [Keyboard](/wiki/Gameplay/Input_device/Keyboard)
+- [Keypad](/wiki/Gameplay/Input_device/Keypad)
 - [Mouse](/wiki/Gameplay/Input_device/Mouse)
+
+Uncommon input devices used by a minority of players:
+
 - [Touch device](/wiki/Gameplay/Input_device/Touch_device)
 
-Uncommon input devices mostly used for fun:
+Input devices mostly used for fun:
 
 - [Beatmania controller](/wiki/Gameplay/Input_device/Beatmania_controller)
 - [Dance pad](/wiki/Gameplay/Input_device/Dance_pad)
