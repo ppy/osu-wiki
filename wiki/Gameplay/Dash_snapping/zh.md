@@ -4,7 +4,7 @@
 
 ## 基本对齐
 
-**基本对齐**这个词用来形容[活动物件](/wiki/Beatmapping/Active_object)间间隔时间不小于允许做出相应跳动作时间的两倍的[白果跳](/wiki/Gameplay/Dash)或[红果跳](/wiki/Gameplay/Hyperdash)。例如在 Platter 难度中，物件间间隔 250 毫秒的红果跳可被定为基本对齐的红果跳。
+**基本对齐**这个词用来形容[活动物件](/wiki/Beatmapping/Active_object)间，间隔时间不小于做出相应跳动作所需时间的两倍的[白果跳](/wiki/Gameplay/Dash)或[红果跳](/wiki/Gameplay/Hyperdash)。例如在 Platter 难度中，物件间间隔 250 毫秒的红果跳可被定为基本对齐的红果跳。
 
 ## 高度对齐
 

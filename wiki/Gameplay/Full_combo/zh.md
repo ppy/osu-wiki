@@ -12,4 +12,4 @@ osu! 社区公认的是，仅因漏掉滑条尾而失去连击的成绩也属于
 
 ![全连与有断连成绩的截图](img/combo-comparison.png "上面的成绩是全连的，下面的成绩有断连。")
 
-由于在 [osu!](/wiki/Game_mode/osu!) 与 [osu!catch](/wiki/Game_mode/osu!catch) 游戏模式中，单个物件的[分数](/wiki/Gameplay/Score)与连击因数紧密相关，并且几乎是无限的，全连成绩在这些模式中取得的分数一般是最高的。
+由于在 [osu!](/wiki/Game_mode/osu!) 与 [osu!catch](/wiki/Game_mode/osu!catch) 游戏模式中，单个物件的[分数](/wiki/Gameplay/Score)与连击乘数紧密相关，并且几乎是无限的，全连成绩在这些模式中取得的分数一般是最高的。

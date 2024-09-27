@@ -8,7 +8,7 @@ tags:
 needs_cleanup: true  # https://github.com/ppy/osu-wiki/issues/9919
 ---
 
-# 连击（得分因数）
+# 连击（得分乘数）
 
 *对于更多义项，参见 [Combo（消歧义）](/wiki/Disambiguation/Combo)。*
 

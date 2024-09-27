@@ -3,6 +3,7 @@ tags:
   - 转换不稳定率
   - 偏差
   - 打击偏差
+  - 计时
   - converted unstable rate
   - converted UR
   - cv UR
@@ -15,13 +16,13 @@ tags:
 
 # 不稳定率
 
-**不稳定率** (**Unstable rate**, ***UR***) 是用来衡量一次游玩中打击偏差<!-- TODO: link -->变化程度的数值。这个值等于打击偏差的[标准差](https://zh.wikipedia.org/wiki/Standard_deviation)，单位为十分之一毫秒。UR 值越低，则玩家打击的偏差值越集中，反之则越分散。
+**不稳定率** (**Unstable rate**, ***UR***) 是用来衡量一次游玩中打击偏差<!-- TODO: link -->变化程度的数值。这个值等于打击偏差的[标准差](https://zh.wikipedia.org/wiki/%E6%A8%99%E6%BA%96%E5%B7%AE)，单位为十分之一毫秒。UR 值越低，则玩家打击的偏差值越集中，反之则越分散。
 
 对于那些专攻高[准确率](/wiki/Gameplay/Accuracy)的玩家来说，他们打出的不稳定率通常会比获得 [SS](/wiki/Gameplay/Grade) 所需的低得多。与常规的[判定](/wiki/Gameplay/Judgement)相比，不稳定率在评判这些的分数的细节方面是尤其有用的。
 
-请注意，UR 度量的是打击偏差之间的一致程度，而不是偏差值。尽管低 UR 通常来自于高准确率的游玩，但准确率非常低时也有可能获得低 UR。举个例子，玩家可以在足够晚的时间，在偏差保持一定的情况下点击每个[物件](/wiki/Gameplay/Hit_object)来获得 [50](/wiki/Gameplay/Judgement/osu!) 判定。
+请注意，UR 度量的是打击偏差之间的一致程度，而不是偏差值。尽管低 UR 通常来自于高准确率的游玩，但准确率非常低时也有可能获得低 UR。举个例子，玩家可以在足够晚的时间点击每个[物件](/wiki/Gameplay/Hit_object)来获得 [50](/wiki/Gameplay/Judgement/osu!) 判定，而保持打击偏差一致。
 
-## 结算屏幕显示
+## 结算屏幕上的不稳定率
 
 ![结算屏幕的“表现”图表截图，其中有提示框显示了“Unstable Rate: 124.50”](img/performance-graph.png)
 
