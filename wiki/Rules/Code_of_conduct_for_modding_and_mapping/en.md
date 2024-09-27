@@ -21,7 +21,7 @@ The **code of conduct for modding and mapping** is a set of rules and guidelines
 
 Sometimes, discussions will be drawn-out, and a single mod and response isn't enough to bring all parties to agreement. Perhaps the mapper doesn't agree with a suggestion, and the modder isn't satisfied with their response. Ideally, all discussions should find closure.
 
-Consider exploring the following solutions when an agreement cannot be reached:
+Consider the following guidelines when an agreement cannot be reached:
 
 - **Ask if you're unsure about something.** Ask the person in question to explain what they meant. They should be more than willing to explain things to you in more detail.
 - **Ask someone with more experience, such as a member of [BN](/wiki/People/Beatmap_Nominators) or [NAT](/wiki/People/Nomination_Assessment_Team).** While they are busy people, they should be able to help you reach an agreement.
