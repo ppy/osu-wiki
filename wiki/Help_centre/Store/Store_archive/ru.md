@@ -17,13 +17,11 @@ tags:
   - товар
   - товары
   - символика
-outdated_translation: true
-outdated_since: bcf19a2e1abb302c68a5e6f554cd4f1ec5336a19
 ---
 
-# Магазин osu!store
+# Store archive
 
-*Основная статья: [Справочный центр](/wiki/Help_centre)*\
+*Основная статья: [Магазин osu!store](/wiki/Help_centre/Store)*\
 *Примечание: эти продукты больше нельзя приобрести в osu!store.*
 
 Что-то купили в официальном онлайн-магазине osu!, а оно не работает? Эта статья может вам помочь.
