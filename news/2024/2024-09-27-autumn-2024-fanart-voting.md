@@ -10,7 +10,7 @@ Autumn is here, and with it **182** appropriately themed artworks to celebrate t
 
 Now, with a mere 20 votes to choose your favourites among such a staggering selection, we'd normally shiver in terror, but the theme has [switched up a bit](https://osu.ppy.sh/home/news/2024-09-06-autumn-fanart-contest), hasn't it?
 
-To ease the selection process, we've compiled all of the entries in a sleek slideshow that's backed with calming, yet cheerful tunes from *Eientewi set 02 ~ Stirring an Autumn Moon* by Rin / Function Phantom:
+To ease the selection process, we've compiled all of the entries in a sleek slideshow that's backed with calming, yet cheerful tunes from *Eientewi set 02 ~ Stirring an Autumn Moon* by [Rin / Function Phantom](https://osu.ppy.sh/beatmaps/artists/14):
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -20,7 +20,7 @@ To ease the selection process, we've compiled all of the entries in a sleek slid
 
 [![Click here to start voting in the Autumn 2024 Fanart Contest!](/wiki/shared/news/2024-09-27-autumn-2024-fanart-voting/vote.png)](https://osu.ppy.sh/community/contests/221)
 
-In case you need a reminder, rewards for this contest as follows:
+In case you need a reminder, the rewards for this contest are as follows:
 
 - A selection of the top-voted finalists will be **featured on the main menu**.
 - Top-voted entries will receive **3 months of osu!supporter**.
