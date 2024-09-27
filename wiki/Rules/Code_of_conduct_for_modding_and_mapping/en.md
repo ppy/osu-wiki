@@ -16,7 +16,7 @@ The **code of conduct for modding and mapping** is a set of rules and guidelines
 - **Treat all suggestions as valid and equally important.** Don't draw hasty conclusions about the validity of a suggestion without properly assessing it.
 - **Explain yourself as much as possible.** State what you changed, and if you didn't accept the suggestion for some reason, explain why and what you did instead. This will not only help the modder to learn, but also allow future mods to be tailored to your concept or style.
 - **Remain calm.** Say what needs to be said in order to explain yourself and leave it at that. No matter how unhelpful the suggestion was, responding with hostility, sarcasm, etc. will not help the situation.
-- **Provide context.** By providing concise explanations on the mods you responded to, you make it easier for future modders, [Beatmap Nominators](/wiki/People/Beatmap_Nominators), and [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) to revisit discussions during their checks.
+- **Provide context.** By providing concise explanations on the mods you responded to, you make it easier for future modders, [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (BN), and [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT) to revisit discussions during their checks.
 
 ## Further exchange and discussion
 
