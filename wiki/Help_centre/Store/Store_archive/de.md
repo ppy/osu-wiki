@@ -10,13 +10,11 @@ tags:
   - pendrive
   - Gerät
   - Tastatur
-outdated_translation: true
-outdated_since: bcf19a2e1abb302c68a5e6f554cd4f1ec5336a19
 ---
 
-# osu!store und Merchandise
+# Store archive
 
-*Hauptseite: [Hilfecenter](/wiki/Help_centre)*\
+*Hauptseite: [osu!store und Merchandise](/wiki/Help_centre/Store)*\
 *Anmerkung: Diese Produkte werden nicht mehr länger zum Verkauf im osu!store angeboten.*
 
 Hast du Schwierigkeiten mit einem Produkt aus dem osu!store? Prüfe, ob es eine Lösung für dein Problem gibt!
