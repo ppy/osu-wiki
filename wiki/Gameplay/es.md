@@ -6,6 +6,7 @@
 - [Combo fire](/wiki/Gameplay/Combo_fire)
 - [Hito de combo](/wiki/Gameplay/Combo_milestone)
 - [Efecto del multiplicador de combo](/wiki/Gameplay/Combo_multiplier_effect)
+- [Estilos de juego](/wiki/Gameplay/Play_style)
 - [Comboburst](/wiki/Gameplay/Comboburst)
 - [Dash](/wiki/Gameplay/Dash)
 - [Dash snapping](/wiki/Gameplay/Dash_snapping)
