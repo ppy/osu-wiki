@@ -19,4 +19,3 @@ Uncommon input devices mostly used for fun:
 - [Dance pad](/wiki/Gameplay/Input_device/Dance_pad)
 - [Drum controller](/wiki/Gameplay/Input_device/Drum_controller)
 - [Wiimote](/wiki/Gameplay/Input_device/Wiimote)
-
