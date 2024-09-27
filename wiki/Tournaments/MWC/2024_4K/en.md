@@ -119,14 +119,14 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/f3e
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| Thailand ::{ flag=TH }:: | ::{ flag=CN }:: China | [Sep 28 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240928T130000&p1=1440&p2=28&p3=33) |  | [^lb-finals] |
+| Thailand ::{ flag=TH }:: | ::{ flag=CN }:: China | [Sep 28 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240928T130000&p1=1440&p2=28&p3=33) | [osulive](https://twitch.tv/osulive) | [^lb-finals] |
 
 ### Sunday, 29 September 2024
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| United States ::{ flag=US }:: | ::{ flag=TH }:: Thailand | [Sep 29 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240929T140000&p1=1440&p2=263&p3=28) |  | [^grand-finals] |
-| United States ::{ flag=US }:: | ::{ flag=CN }:: China | [Sep 29 (Sun) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240929T143000&p1=1440&p2=263&p3=33) |  | [^grand-finals] |
+| United States ::{ flag=US }:: | ::{ flag=TH }:: Thailand | [Sep 29 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240929T140000&p1=1440&p2=263&p3=28) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
+| United States ::{ flag=US }:: | ::{ flag=CN }:: China | [Sep 29 (Sun) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240929T143000&p1=1440&p2=263&p3=33) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
 
 ## Mappools
 
@@ -307,6 +307,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/f3e
 ## Match results
 
 ### Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1H8RL932QX1W3ciBkvlz6UFmFFRz4SHzPtYg38MxTLts?rm=minimal).
 
 Saturday, 21 September 2024:
 
