@@ -12,7 +12,7 @@ tags:
   - Tastatur
 ---
 
-# Store archive
+# Shoparchiv
 
 *Hauptseite: [osu!store und Merchandise](/wiki/Help_centre/Store)*\
 *Anmerkung: Diese Produkte werden nicht mehr länger zum Verkauf im osu!store angeboten.*
