@@ -2,132 +2,55 @@
 tags:
   - store
   - product
-  - keyboard
-  - tablet
-  - area
-  - device
-  - setup
-  - pendrive
+  - keycap
+  - keycaps
+  - deskmat
+  - deskmats
   - tienda
   - producto
-  - teclado
-  - tableta
-  - área
-  - dispositivo
-  - configuración
-  - memoria USB
+  - tecla
+  - teclas
+  - alfombrilla
+  - alfombrillas
 ---
 
 # osu!store y mercancía
 
 *Página principal: [Centro de ayuda](/wiki/Help_centre)*\
-*Nota: Estos productos ya no están disponibles para su compra en la osu!store.*
+*Para solucionar algún problema con los productos más antiguos, véase: [Archivo de la osu!store](/wiki/Help_centre/Store/Store_archive)*
 
-¿Tienes problemas con un producto de la osu!store? ¡Revisa si hay una solución disponible para tu problema!
+Este artículo solo se refiere a los productos comprados desde la [osu!store](https://osu.ppy.sh/store/listing).
 
-## osu!keyboard {id=osu!keyboard}
+## ¡Quiero cambiar mi dirección de envío! {id=address}
 
-### ¿Cómo se configura el osu!keyboard? {id=osu!keyboard-setup}
+Envía un correo electrónico a [merch@ppy.sh](mailto:merch@ppy.sh) con tu número de pedido y la dirección correcta.
 
-**Puede usar la herramienta de configuración del osu!keyboard, disponible en [puush](https://puu.sh/l6urN/4b6bc800f2.zip).**
+Si tu pedido aún no se ha enviado, actualizaremos la dirección y lo enviaremos al lugar correcto. Si ya se ha enviado, lamentablemente no hay mucho que podamos hacer.
 
-Solo tienes que extraerlo en cualquier lugar de tu ordenador y ejecutar el archivo ejecutable.
+## ¡Todavía no me ha llegado el producto! {id=status}
 
-El resto debería entenderse sin problemas.
+Al comprar un producto en la osu!store, recibirás un correo electrónico con un número de seguimiento en cuanto se envíe el producto.
 
-Si tiene algún otro problema, no dudes en enviar un tiquete a [support@ppy.sh](mailto:support@ppy.sh) detallando tu problema.
+Si tu pedido ha llegado a tu país, pero aún no ha sido entregado, es posible que esté retenido en tu oficina de correos local. Ponte en contacto con ellos y menciona tu número de seguimiento para obtener más información. En algunos casos, esto es necesario en compras internacionales en las que intervienen aduanas u otros impuestos o aranceles.
 
-### ¡Las luces LED de mi teclado osu! nono no funcionan! {id=osu!keyboard-leds}
+Algunas veces los pedidos pueden quedar atascados en el sistema postal. Si tu pedido se queda atascado en algún lugar de Estados Unidos, es posible que puedas localizarlo a través de [USPS](https://faq.usps.com/s/article/USPS-Tracking-The-Basics), normalmente poniéndote en contacto con el lugar correspondiente en la información de seguimiento. Si tu pedido se queda atascado fuera de Estados Unidos, ponte en contacto con el servicio postal de tu país para que te ayuden.
 
-**Esto puede deberse a varias razones: corrosión entre las luces LED y la placa base o, en algunos casos de modelos anteriores, luces LED defectuosas.**
+No dudes en ponerte en contacto con [merch@ppy.sh](mailto:merch@ppy.sh) si sigues teniendo dudas, pero ten en cuenta que, una vez que el producto sale de nuestras manos, sabemos tanto como tú sobre el estado de la entrega.
 
-Para cualquier consulta, ponte en contacto con [store@ppy.sh](mailto:store@ppy.sh).
+## ¡Necesito ayuda con un producto específico!
 
-#### Comprobar la corrosión de las luces LED {id=osu!keyboard-corrosion}
+### osu! keycaps {id=osu!-keycaps}
 
-**Frotar la base de los conectores LED con un pequeño cuadrado de papel de aluminio eliminará la mayor parte de los residuos causados por la corrosión.**
+Las [osu! keycaps](https://www.thekapco.com/products/osu-pippi-keycap-set) son producidas y enviadas por The KapCo, por lo que recomendamos [hablar con su servicio de atención al cliente](https://www.thekapco.com/pages/faqs) para cualquier problema específico de las teclas.
 
-Los residuos corrosivos suelen tener un aspecto gris oscuro, o pueden aparecer como manchas extrañas en el metal.
+Si no obtienes una respuesta adecuada, envía un correo electrónico a [merch@ppy.sh](mailto:merch@ppy.sh) y veremos qué podemos hacer.
 
-Quitar estos residuos puede hacer que sus luces LED vuelvan a funcionar. Si es así, ¡ya sabes cómo solucionarlo la próxima vez!
+### osu! deskmat {id=osu!-deskmat}
 
-## osu!tablet {id=osu-tablet}
+Si bien la mayoría de los productos de osu! se envían desde nuestro almacén en Estados Unidos, los [osu! deskmats](https://osu.ppy.sh/store/products/1347) se envían desde diferentes centros en el Reino Unido, Estados Unidos y Australia, por lo que no tenemos visibilidad directa sobre cada artículo que se entrega.
 
-### ¡Mi osu!tablet ha dejado de funcionar o no funciona en absoluto! {id=osu-tablet-not-working}
+Si tu producto tiene algún tipo de problema, ponte en contacto con nosotros en [merch@ppy.sh](mailto:merch@ppy.sh) con tu número de pedido y una explicación del problema.
 
-**Esto puede ser difícil de solucionar, ya que la osu!tablet es una solución de dos unidades (la tableta y el lápiz).**
+## ¡Nada de esto se relaciona con lo que necesito ayuda! {id=none}
 
-Dado que la osu!tablet es una solución de dos unidades (por ejemplo, tableta y lápiz), puede ser difícil saber qué unidad está experimentando problemas cuando las cosas van mal.
-
-Para averiguarlo, realiza los siguientes pasos:
-
-#### Comprobar si hay problemas con la tableta {id=osu-tablet-checkup}
-
-**Sigue estos pasos para comprobar si tu tableta funciona con normalidad:**
-
-1. Retira de forma segura la tableta del sistema y desenchufa el cable.
-2. Vuelve a enchufar el cable con cuidado en una ranura USB de tu sistema.
-3. Si la tableta está funcionando, la ranura luminosa de la cara de la tableta parpadeará momentáneamente en verde y luego se apagará. Este es un comportamiento normal.
-
-Si la luz de la tableta no parpadea, prueba a usar un cable USB diferente; los que se incluyen con la tableta pueden dañarse a veces durante el transporte o tras un uso prolongado.
-
-Para cualquier consulta, ponte en contacto con [store@ppy.sh](mailto:store@ppy.sh).
-
-#### Comprobar si hay problemas con el lápiz {id=osu-tablet-pen-checkup}
-
-**Sigue estos pasos para comprobar si tu lápiz funciona con normalidad:**
-
-- Desenrosca la parte superior del cuerpo del lápiz, dejando al descubierto la pila en el interior.
-- Retira la pila AAA del lápiz.
-- Cambia la pila por una pila AAA nueva. **Asegúrate primero de que la nueva pila funciona en otro aparato.**
-- Asegúrate de que los extremos positivo y negativo de la pila son los adecuados en el lápiz. Hay marcadores en el dispositivo que muestran marcas que te indican qué extremo es cada uno.
-- Vuelve a enroscar la parte superior del cuerpo del lápiz.
-- Aprieta el botón del extremo posterior (extremo de la goma de borrar) del lápiz hasta que haga clic.
-
-Si tu tableta funciona correctamente, al acercar el lápiz a la tableta, el cursor de la pantalla se moverá.
-
-Para cualquier consulta, ponte en contacto con [store@ppy.sh](mailto:store@ppy.sh).
-
-## osu!go {id=osu!go}
-
-### ¡Mi ordenador no reconoce el osu!go cuando lo conecto! {id=osu!go-not-recognised}
-
-**Se trata de un problema conocido con uno de los primeros lotes de memorias USB osu!go, y se debe a que el dispositivo no está formateado de manera que funcione con todos los ordenadores.**
-
-A pesar de lo complejo que pueda parecer, en realidad es muy fácil de solucionar.
-
-En primer lugar, [descarga el paquete que contiene los archivos predeterminados de osu!go](https://assets.ppy.sh/store/utilities/osu!go.zip) y guárdalo en algún lugar de tu ordenador.
-
-#### Formateo del osu!go en Windows {id=osu!go-format}
-
-**Sigue estos pasos para preparar tu dispositivo osu!go en Windows:**
-
-1. Haz clic con el botón derecho del ratón en el botón de menú `Inicio` y selecciona `Administración de discos`.
-2. **Cuando estés en la administración de discos, asegúrate de seguir estas instrucciones *MUY* de cerca y SOLO aplícalas al dispositivo osu!go.** Puedes llegar a perder datos si manipulas este menú.
-3. Revisa en qué estado reconoce tu ordenador el dispositivo.
-
-### El dispositivo osu!go está presente, pero en estado «RAW» {id=osu!go-raw}
-
-**Aparecerá así en el menú de la administración de discos:**
-
-![](img/raw-status-osu-go.png)
-
-Para solucionarlo, asegúrate de tener seleccionado el dispositivo osu!go, haz clic con el botón derecho en la partición RAW y selecciona la opción `Formatear`. Selecciona `NTFS` o `exFAT` en el menú desplegable `Sistema de archivos`.
-
-`exFAT` funciona con más dispositivos, pero es ligeramente más lento.
-
-### El dispositivo osu!go no aparece en la administración de discos {id=osu!go-partition}
-
-**Tendrás que particionar el dispositivo desde cero.**
-
-Sigue [esta guía](https://tails.net/doc/reset/windows/index.es.html) para saber cómo hacerlo.
-
-### He reformateado el dispositivo osu!go y ahora aparece en la administración de discos {id=osu!go-clean}
-
-**¡Ya casi has terminado!**
-
-Descomprime el archivo que te pedimos que descargaras antes (osu!go.zip) en la unidad osu!go y ¡listo!
-
-### ¡Nada de esto ha funcionado! {id=osu!go-unknown-cause}
-
-Si tienes algún problema con este proceso, envíanos un correo electrónico a [store@ppy.sh](mailto:store@ppy.sh) y estaremos encantados de ayudarte.
+Ponte en contacto con [merch@ppy.sh](mailto:merch@ppy.sh) e intentaremos solucionarlo.
