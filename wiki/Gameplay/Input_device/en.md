@@ -8,11 +8,14 @@ An **input device** is a device that is used to control input on a computer or s
 
 The following is a list of the most common input devices used for osu!:
 
-- [Mouse](/wiki/Gameplay/Input_device/Mouse)
-- [Keyboard](/wiki/Gameplay/Input_device/Keyboard)
-- [Touch device](/wiki/Gameplay/Input_device/Touch_device)
 - [Graphics tablet](/wiki/Gameplay/Input_device/Graphics_tablet)
-- [Wiimote](/wiki/Gameplay/Input_device/Wiimote)
+- [Keyboard](/wiki/Gameplay/Input_device/Keyboard)
+- [Mouse](/wiki/Gameplay/Input_device/Mouse)
+- [Touch device](/wiki/Gameplay/Input_device/Touch_device)
+
+Uncommon input devices mostly used for fun:
+
+- [Beatmania controller](/wiki/Gameplay/Input_device/Beatmania_controller)
 - [Drum controller](/wiki/Gameplay/Input_device/Drum_controller)
 - [Dance pad](/wiki/Gameplay/Input_device/Dance_pad)
-- [Beatmania controller](/wiki/Gameplay/Input_device/Beatmania_controller)
+- [Wiimote](/wiki/Gameplay/Input_device/Wiimote)
