@@ -1,7 +1,3 @@
----
-stub: true
----
-
 # Keypad
 
 ![](img/Keypad.jpg "Keypad")
