@@ -25,7 +25,7 @@ Consider the following guidelines when an agreement cannot be reached:
 
 - **Ask if you're unsure about something.** Ask the person in question to explain what they meant. They should be more than willing to explain things to you in more detail.
 - **Ask someone with more experience, such as a member of [BN](/wiki/People/Beatmap_Nominators) or [NAT](/wiki/People/Nomination_Assessment_Team).** While they are busy people, they should be able to help you reach an agreement.
-- **Be open minded.** If you realise there's a more suitable alternative to something you originally suggested, don't be afraid to put your pride aside.
+- **Be open minded.** If you realise there's a more suitable alternative to something you originally suggested, don't be afraid of putting your pride aside.
 - **There are no wrong opinions** — it's up to the mapper and modders to come to an agreement in a civil manner. Try to understand alternative points of view rather than attack them, as you never know when it might be useful in the future.
 - **Take a break.** It is important to be at a right state of mind when discussing something. If you can't explain something through logic, you will not be able to explain it to them through violence either.
 - **Report bad behaviour.** When things look to be getting out of hand, or if the discussion is struggling to stay on topic, [call a moderator](/wiki/Reporting_bad_behaviour). Don't contribute to the problem by continuing to post.
