@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New Featured Artist: Raytrax Music Collective"
-date: 2024-09-28 17:00:00 +0000
+date: 2024-09-28 21:30:00 +0000
 ---
 
-The only thing better than a new Featured Artist is a bundle of new artists.
+The only thing better than a new Featured Artist is a handful of songs from a bunch of artists.
 
 ![](https://assets.ppy.sh/artists/xxx/header.jpg)
 
