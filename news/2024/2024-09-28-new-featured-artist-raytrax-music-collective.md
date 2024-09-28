@@ -49,7 +49,7 @@ In case you need a taste of what they have to offer, sample *Nstryder*'s [A Mise
 ### somanylynx - Icons
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/439/Songs/somanylynx%20-%20Icons.osz">
+    <source src="https://assets.ppy.sh/artists/439/Songs/somanylynx%20-%20Icons.mp3">
 </audio>
 
 ---
