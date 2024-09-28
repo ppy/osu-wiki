@@ -67,7 +67,7 @@ Somehow [gzdongsheng](https://osu.ppy.sh/users/8660315), [Monoseul](https://osu.
 
 ## Game modes
 
-This month's contest is open to **osu!** and **osu!mappers** mappers.
+This month's contest is open to **osu!** and **osu!mania** mappers.
 
 - [osu! contest listing](https://osu.ppy.sh/community/contests/xxx)
 - [osu!mania contest listing](https://osu.ppy.sh/community/contests/xxx)
@@ -90,7 +90,7 @@ This time, both osu! and osu!mania limitations are the same: **find one other ma
 ...with a few more restrictions to ensure this runs smoothly:
 
 - **Both mappers should contribute equally to the map.**
-- **There must be at least 2 minutes of mapping.**
+- **The [drain time](/wiki/Beatmap/Drain_time) must be at least of 2 minutes, not accounting for break times.**
 - **Include each mapper's username in the beatmap's tags.**
 
 Unlike most limitations, this one lets you make pretty much any kind of map you'd like. Enjoy the freedom while it lasts!
@@ -122,11 +122,12 @@ Additionally, a [**Mappers' Guild keychain**](/wiki/shared/news/2023-08-29-chang
 
 - **Submissions must follow the month's beatmapping [limitation](#limitation): find one other mapper and make a map together.**
   - Both mappers should contribute equally to the map.
-  - There must be at least 2 minutes of mapping.
+  - The [drain time](/wiki/Beatmap/Drain_time) must be at least of 2 minutes, not accounting for break times.
 - **Submissions must be a single difficulty from one of the month's [selected songs](#songs).**
 - **Submissions must be in `.osz` format.**
 - **Submissions must NOT be uploaded to the osu! website until after the contest's results are finalised.**
 - **Submissions must abide by the [ranking criteria](/wiki/Ranking_criteria).**
+- **osu!mania submissions must be 4K or 7K.**
 
 Note that all submissions will be anonymised before they're reviewed by screeners/judges to avoid bias.
 
