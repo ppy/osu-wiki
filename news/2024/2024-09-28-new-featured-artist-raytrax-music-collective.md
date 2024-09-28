@@ -6,7 +6,7 @@ date: 2024-09-28 21:30:00 +0000
 
 The only thing better than a new Featured Artist is a handful of songs from a bunch of artists.
 
-![](https://assets.ppy.sh/artists/xxx/header.jpg)
+![](https://assets.ppy.sh/artists/439/header.jpg)
 
 **Raytrax Music Collective** is a group of musicians creating their own spin on Japanese style EDM (a.k.a. the kind of thing you'll find any arcade rhythm game).
 
@@ -18,7 +18,7 @@ In case you need a taste of what they have to offer, sample *Nstryder*'s [A Mise
 
 <div align="center">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/artists/xxx/release_showcase.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/artists/439/release_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
