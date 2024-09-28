@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Community Mentorship Program Winter 2024 Signups Now Open
-date: 2024-09-30 10:00:00 +0000
+date: 2024-09-29 10:00:00 +0000
 ---
 
 The 28th cycle of the Community Mentorship program is upon us! Get ready to delve deep into the world of mapping, modding, or storyboarding.
@@ -18,9 +18,9 @@ If you're experienced in mapping, modding, or storyboarding, and have a desire t
 
 For this following cycle, the timeline is as follows (all opening and closing dates start and end at midnight UTC+0):
 
-- Mentor signups will open on **September 30th** and close on **October 7th**.
-- Mentee signups will open on **October 21st** and close on **October 28th**.
-- The 2024 Summer cycle will run from **October 28th** to **February 10th**.
+- Mentor signups will open on **September 29th** and close on **October 6th**.
+- Mentee signups will open on **October 20th** and close on **October 27th**.
+- The 2024 Winter cycle will run from **October 27th** to **February 9th**.
 
 Throughout the cycle, the organization team will host a speed-mapping contest for mentees to participate in. In the past, we've also ran feedback lobbies and other types of mapping contests, created [mapping puzzles](https://osu.ppy.sh/community/forums/topics/565382), and hosted [mapping discussion panels](https://osu.ppy.sh/community/forums/topics/514122). If you are a mentor or outside party interested in running or trialing a new event on the server, feel free to reach out to us!
 
