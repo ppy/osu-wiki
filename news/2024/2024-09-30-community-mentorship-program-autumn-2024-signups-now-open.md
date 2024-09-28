@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Community Mentorship Program Summer 2024 Signups Now Open
+title: Community Mentorship Program Winter 2024 Signups Now Open
 date: 2024-09-30 10:00:00 +0000
 ---
 
