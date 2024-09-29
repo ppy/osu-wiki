@@ -10,7 +10,7 @@ tags:
 
 ![MWC 4K 2024 banner](img/mwc4k2024-banner.jpg)
 
-The **osu!mania 4K World Cup 2024** (***MWC 4K 2024***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the eleventh instalment of the osu!mania 4K World Cup.
+The **osu!mania 4K World Cup 2024** (***MWC 4K 2024***) was a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the eleventh instalment of the osu!mania 4K World Cup.
 
 ## Tournament schedule
 
@@ -28,7 +28,7 @@ The **osu!mania 4K World Cup 2024** (***MWC 4K 2024***) is a country-based osu!m
 
 ## Prizes
 
-The osu!mania 4K World Cup 2024 offers a $2,000 cash prize pool and limited-edition merch.
+The osu!mania 4K World Cup 2024 offered a $2,000 cash prize pool and limited-edition merch.
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -36,9 +36,11 @@ The osu!mania 4K World Cup 2024 offers a $2,000 cash prize pool and limited-edit
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool, single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
+![](img/mwc4k2024-badge-1st.png "MWC 4K 2024 winner badge") ![](img/mwc4k2024-badge-2nd.png "MWC 4K 2024 2nd-place badge") ![](img/mwc4k2024-badge-3rd.png "MWC 4K 2024 3rd-place badge")
+
 ## Organisation
 
-The osu!mania 4K World Cup 2024 is run by the [osu! team](/wiki/People/osu!_team) and various community members.
+The osu!mania 4K World Cup 2024 was run by the [osu! team](/wiki/People/osu!_team) and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -60,7 +62,6 @@ The osu!mania 4K World Cup 2024 is run by the [osu! team](/wiki/People/osu!_team
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/46)
 - [Challonge bracket](https://challonge.com/MWC4K2024)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/152) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
-- [Support your country with a profile banner](https://osu.ppy.sh/store/products/1350)
 
 ## Participants
 
@@ -113,13 +114,9 @@ The osu!mania 4K World Cup 2024 is run by the [osu! team](/wiki/People/osu!_team
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/f3ec88dc91bdbf85429fdeff10ba211f).
 
-## Match schedule: Grand Finals
+# Podium
 
-### Sunday, 29 September 2024
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| United States ::{ flag=US }:: | ::{ flag=CN }:: China | [Sep 29 (Sun) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240929T143000&p1=1440&p2=263&p3=33) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
+![](img/mwc4k2024-podium.jpg "MWC 4K 2024 podium")
 
 ## Mappools
 
@@ -306,6 +303,12 @@ Saturday, 28 September 2024:
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | Thailand ::{ flag=TH }:: | 1 | **7** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/115661307) | [#1](https://www.twitch.tv/videos/2262881690) |
+
+Sunday, 29 September 2024:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **United States** ::{ flag=US }:: | **7** | 1 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/115677433) | [#1](https://www.twitch.tv/videos/2263460006) |
 
 ### Finals
 
@@ -636,6 +639,5 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ## Notes
 
-[^grand-finals]: Grand Finals match – final matchup depends on the losers bracket Grand Finals match
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rating sum
