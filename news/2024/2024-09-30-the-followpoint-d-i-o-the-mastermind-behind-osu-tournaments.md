@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Followpoint: D I O, the Mastermind Behind osu! Tournaments"
-date: 2024-09-02 17:00:00 +0000
+date: 2024-09-30 17:00:00 +0000
 series: The Followpoint
 ---
 
