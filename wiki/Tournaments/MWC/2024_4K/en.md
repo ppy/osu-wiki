@@ -115,17 +115,10 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/f3e
 
 ## Match schedule: Grand Finals
 
-### Saturday, 28 September 2024
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| Thailand ::{ flag=TH }:: | ::{ flag=CN }:: China | [Sep 28 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240928T130000&p1=1440&p2=28&p3=33) | [osulive](https://twitch.tv/osulive) | [^lb-finals] |
-
 ### Sunday, 29 September 2024
 
 | Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
-| United States ::{ flag=US }:: | ::{ flag=TH }:: Thailand | [Sep 29 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240929T140000&p1=1440&p2=263&p3=28) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
 | United States ::{ flag=US }:: | ::{ flag=CN }:: China | [Sep 29 (Sun) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20240929T143000&p1=1440&p2=263&p3=33) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
 
 ## Mappools
@@ -306,6 +299,14 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/f3e
 
 ## Match results
 
+### Grand Finals
+
+Saturday, 28 September 2024:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| Thailand ::{ flag=TH }:: | 1 | **7** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/115661307) | [#1](https://www.twitch.tv/videos/2262881690) |
+
 ### Finals
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1H8RL932QX1W3ciBkvlz6UFmFFRz4SHzPtYg38MxTLts?rm=minimal).
@@ -443,7 +444,7 @@ Sunday, 25 August 2024:
 
 ### Qualifiers
 
-The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1Al5x3RJQfKD9FiEV9lJAmX0S_ajMdndogNM7_quP3PM/edit?gid=754304763#gid=754304763).
+The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1Al5x3RJQfKD9FiEV9lJAmX0S_ajMdndogNM7_quP3PM/edit?gid=754304763#gid=754304763).\
 [View the Qualifier seed reveal VOD here](https://www.twitch.tv/videos/2227895735).
 
 | Seed | Country | %MAX sum[^qualifiers-seeding] | avg. score[^qualifiers-tiebreaker] |
@@ -636,6 +637,5 @@ The final standings for the Qualifier stage can be found in the following [sprea
 ## Notes
 
 [^grand-finals]: Grand Finals match – final matchup depends on the losers bracket Grand Finals match
-[^lb-finals]: Losers bracket Grand Finals match
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rating sum
