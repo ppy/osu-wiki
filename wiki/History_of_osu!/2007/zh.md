@@ -45,7 +45,7 @@ osu!在最开始其实是一个叫做"ouentest"[^1]的概念验证产品。它�
 
 2007年9月17日是osu!被大众所公认的"生日"。我们今日所熟知的论坛在此日开通，并且托管于peppy的主域名( `ppy.sh` )。[这条新闻](https://web.archive.org/web/20071221020801/http://www.bemanistyle.com/index.php?news_id=483)被一家叫做[bemanstyle](http://bemanistyle.com/)的媒体发现并且发布了出来，而它则吸引了一些些对它有兴趣的音游人的注意力。
 
-![](img/2007-09_01.jpg "作图器中的滑块创建器")
+![](img/2007-09_01.jpg "谱面编辑器中的滑条创建器")
 
 ![](img/2007-09_02.jpg "游戏此时的主菜单")
 
@@ -90,11 +90,11 @@ osu!在最开始其实是一个叫做"ouentest"[^1]的概念验证产品。它�
 
 ## 十二月
 
-将音乐拖入osu!的窗口可以编辑它；主界面和制谱器中的每个按钮加入了对应的提示；一些新的优质皮肤由一些早期的[皮肤制作者](/wiki/Skinning/Skinner)([Holiday by LgigiHann](https://osu.ppy.sh/community/forums/topics/1139), [WindWaker by awp](https://osu.ppy.sh/community/forums/topics/761))；选曲界面有了新的排序方式；peppy可以给所有osu!的玩家发公告；游玩模式做出了一些小更改（比如未激活的音符的暗化）.
+将音乐拖入osu!的窗口可以编辑它；主界面和制谱器中的每个按钮加入了对应的提示；一些早期的[皮肤制作者](/wiki/Skinning/Skinner)([Holiday by LgigiHann](https://osu.ppy.sh/community/forums/topics/1139), [WindWaker by awp](https://osu.ppy.sh/community/forums/topics/761))；制作了一些新的优质皮肤；选曲界面有了新的排序方式；peppy 可以给所有 osu! 的玩家发公告；游玩模式做出了一些小更改（比如暗化未点击的音符）.
 
 ![](img/2007-12_01.jpg)
 
 ## 引用
 
-[^1]: [@ppy发的推特（2019年6月19日）](https://twitter.com/ppy/status/1141394137637249025?s=20)
-[^2]:[论坛中peppy发的帖子（2007年8月28日）"pUpdater（又名osume）"](https://osu.ppy.sh/community/forums/topics/4?n=1)
+[^1]: [@ppy 发的推特（2019年6月19日）](https://twitter.com/ppy/status/1141394137637249025?s=20)
+[^2]:[论坛中 peppy 发的帖子（2007年8月28日）"pUpdater（又名osume）"](https://osu.ppy.sh/community/forums/topics/4?n=1)
