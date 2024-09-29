@@ -39,7 +39,7 @@ Apabila kamu tidak dapat memperoleh balasan yang memadai dari The KapCo, kirimka
 
 ### Deskmat osu! {id=deskmat-osu!}
 
-Tidak seperti sebagian besar produk osu! lainnya yang dikirimkan dari gudang kami di Amerika Serikat, [deskmat osu! ](https://osu.ppy.sh/store/products/1347) dikirimkan dari sentra pengiriman berbeda yang terletak di Inggris Raya, Amerika Serikat, dan Australia. Maka dari itu, kami tidak memiliki kendali langsung terhadap setiap item yang dikirim.
+Tidak seperti sebagian besar produk osu! lainnya yang dikirimkan dari gudang kami di Amerika Serikat, [deskmat osu!](https://osu.ppy.sh/store/products/1347) dikirimkan dari sentra pengiriman berbeda yang terletak di Inggris Raya, Amerika Serikat, dan Australia. Maka dari itu, kami tidak memiliki kendali langsung terhadap setiap item yang dikirim.
 
 Apabila produkmu memiliki masalah dalam bentuk apa pun, hubungi kami pada alamat email [merch@ppy.sh](mailto:merch@ppy.sh) dengan menyertakan nomor pesananmu dan penjelasan seputar masalahmu.
 
