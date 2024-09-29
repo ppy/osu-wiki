@@ -10,7 +10,7 @@ tags:
 
 ![OFFC: cirno logo](img/logo.png)
 
-The **osu! FumoFumo Cup: cirno** (***OFFC: cirno***) is a 4v4 double-elimination osu!standard tournament hosted by ::{ flag=CN }:: [kitakore](https://osu.ppy.sh/users/33887163), which is also the first instalment of OFFC.
+The **osu! FumoFumo Cup: cirno** (***OFFC: cirno***) is a 4v4 double-elimination osu!standard tournament hosted by ::{ flag=CN }:: [kitakore](https://osu.ppy.sh/users/33887163), which is also the inaugural season of OFFC.
 
 ## Tournament schedule
 
