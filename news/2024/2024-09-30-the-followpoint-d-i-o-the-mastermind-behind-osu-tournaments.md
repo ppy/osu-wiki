@@ -48,7 +48,7 @@ Let's not waste any time and get on with the interview!
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
 
-Hello D I O, thanks for coming on! As we always do let's start with an introduction, how would you introduce yourself to the people who don't know you?
+Hello D I O, thanks for coming on! As we always do, let's start with an introduction. How would you introduce yourself to the people who don't know you?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/news/2024-09-30-the-followpoint-d-i-o-the-mastermind-behind-osu-tournaments/avatar-D I O.jpg')"></a>
 
