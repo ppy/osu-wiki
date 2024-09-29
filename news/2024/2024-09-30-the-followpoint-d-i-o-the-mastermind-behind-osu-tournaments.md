@@ -180,10 +180,10 @@ Who, in your opinion, has had the worst caster curse ever?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
 
-There are a lot that come to mind, but one that is often overshadowed by its surroundings is Dohland’s caster curse on he rack during the 2018 OWC grand finals. he rack was holding an FC on NO, Thank You! when Vaxei disconnected, and could have potentially carried the USA to a 3v4 victory if not for the caster curse. This ended up forcing a bracket reset as the match went to tiebreaker and the UK won tiebreaker. (https://www.youtube.com/watch?v=7YCNtnQNbD4&t=4710s here for now to make sure embed works)
+There are a lot that come to mind, but one that is often overshadowed by its surroundings is Dohland’s caster curse on he rack during the 2018 OWC grand finals. he rack was holding an FC on NO, Thank You! when Vaxei disconnected, and could have potentially carried the USA to a 3v4 victory if not for the caster curse. This ended up forcing a bracket reset as the match went to tiebreaker and the UK won tiebreaker.
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/7YCNtnQNbD4&t=4710s" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/7YCNtnQNbD4?start=4710" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/news/2024-09-30-the-followpoint-d-i-o-the-mastermind-behind-osu-tournaments/avatar-Utiba.jpg')"></a>
@@ -196,10 +196,10 @@ What’s the most ridiculous or bizarre thing you’ve said while casting that s
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
 
-I memorized a Chinese copypasta and said it live during Corsace Closed grand finals in 2021. (https://www.youtube.com/watch?v=8y6-bRIKzic&t=1993s here for now to make sure embed works)
+I memorized a Chinese copypasta and said it live during Corsace Closed grand finals in 2021.
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/8y6-bRIKzic&t=1993s" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/8y6-bRIKzic?start=1993" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/news/2024-09-30-the-followpoint-d-i-o-the-mastermind-behind-osu-tournaments/avatar-Utiba.jpg')"></a>
