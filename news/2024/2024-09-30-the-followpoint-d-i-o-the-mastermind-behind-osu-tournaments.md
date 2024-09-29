@@ -54,7 +54,7 @@ Hello D I O, thanks for coming on! As we always do let's start with an introduct
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
 
-Hi Utiba, thanks for having me. For those who don’t know me, I am D I O, a GMT, member of Tournament Committee, OWC Caster and Playtester, host of the Perennial, head of tournament operations for the Roundtable, and community tournament staff since 2018. I have played osu! since 2014.
+Hi Utiba, thanks for having me. For those who don’t know me, I am D I O, a GMT, member of Tournament Committee, OWC Caster and Playtester, host of the Perennial, head of tournament operations for the Roundtable, and community tournament staff since 2018. I joined osu! back in 2014.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/news/2024-09-30-the-followpoint-d-i-o-the-mastermind-behind-osu-tournaments/avatar-Utiba.jpg')"></a>
 
@@ -68,9 +68,9 @@ What made you want to get into the tournament scene?
 
 It was a mixed bag for me, as I actually played tournaments well before I staffed in any. I have always been a competitive person from a young age, playing lots of different sports and competing with friends. That transitioned to competitive gaming as I got older and into Speech and Debate in high school and eventually university.
 
-I played my first tournament in 2015; it was some 5 digit tournament that I don’t even remember the name of. At one point, I also played in an iteration of SMT, which was a large monthly tournament series back in the day, co-hosted by Halfslashed, who some people reading might still be familiar with. From there I played tournaments off and on, mostly focusing on grinding in solo. I was unable to really focus on tournaments due to my commitment to debate in university; we would travel every 2 – 3 weeks on the weekend, which made committing to a long, multi-week tournament virtually impossible.
+I played my first tournament in 2015; it was some 5 digit tournament that I don’t even remember the name of. At one point, I also played in an iteration of SMT, which was a large monthly tournament series back in the day, co-hosted by [Halfslashed](https://osu.ppy.sh/users/4598899), who some people reading might still be familiar with. From there I played tournaments off and on, mostly focusing on grinding in solo. I was unable to really focus on tournaments due to my commitment to debate in university; we would travel every 2 – 3 weeks on the weekend, which made committing to a long, multi-week tournament virtually impossible.
 
-Fast forward to the end of university, and I was still craving the same sort of public speaking outlet as debate, but with very few competitions left and a lot of upheaval in the staff team at the time. I decided to try out commentating osu! tournaments, and instantly took to it. The first three tournaments I signed up to staff for were all very good experiences for a first timer, so I was very motivated to continue. Shout out to nik, Tuco, and deflateddolphin for those first three tournaments, as had they been poorly run or overall poor experiences, I almost certainly would not have stuck with it.
+Fast forward to the end of university, and I was still craving the same sort of public speaking outlet as debate, but with very few competitions left and a lot of upheaval in the staff team at the time. I decided to try out commentating osu! tournaments, and instantly took to it. The first three tournaments I signed up to staff for were all very good experiences for a first timer, so I was very motivated to continue. Shout out to nik, Tuco, and deflateddolphin for those first three tournaments, as had they been poorly run or overall been a poor experience, I almost certainly would not have stuck with it.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/news/2024-09-30-the-followpoint-d-i-o-the-mastermind-behind-osu-tournaments/avatar-Utiba.jpg')"></a>
 
@@ -84,7 +84,7 @@ As a host of The Perennial tournament series, what makes it stand out to you tha
 
 When I first started it, the Perennial was one of two well-regarded large community 4v4 tournaments in osu! standard. At the start, I focused on a large prize pool and community hype to draw in as many people as possible. Now, several years later, my focus has shifted more to uniqueness in prizing and format while still preserving a similar level of production as previous iterations.
  
-The Perennial has never been completely unique, so it instead stands out with the competitiveness of its matches, especially in late stages. In 2021, this was not so much the case, but in 2022 and 2024, we had very competitive grand finals matches between the top teams, with both those grand finals going to bracket reset. In 2024, this was partially due to the format change. Watching these competitive, high-level matches in a tournament you host, on a pool you made, is always very rewarding.
+The Perennial has never been completely unique, so it instead stands out with the competitiveness of its matches, especially in late stages. In 2021, this was not so much the case, but in 2022 and 2024, we had very competitive grand finals matches between the top teams, with both those grand finals going to bracket reset. This was partially due to the format change in 2024. Watching these competitive, high-level matches in a tournament you host, on a pool you made, is always very rewarding.
 
 With that in mind, the Perennial has become an opportunity for me to attempt to influence the tournament meta on a larger scale. I often use smaller tournaments to test run ideas I have for the Perennial before implementing them there, which was a big success this year with regional team restrictions. My hope is that these modifications keep the tournament as competitive as possible and continue to keep it at the forefront of people’s minds when thinking about tournament formats.
 
@@ -112,7 +112,7 @@ Do you ever think osu! tournaments could become a major esport event in the futu
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
 
-A lot of people will probably be disappointed with this answer. While there are major roadblocks to this, events like the Roundtable serve as a proof of concept, and official tournaments like Lazer Grand Arena, the recent official 1v1 tournament, show that there is the ability for official tournaments to be run with only Featured Artist songs. I do not think this is something that will happen soon, nor is it particularly likely given the official stance on in-game advertisements and sponsorships, but it is possible in the far future.
+A lot of people will probably be disappointed with this answer. While there are major roadblocks to this, events like the Roundtable serve as a proof of concept, and official tournaments like [Lazer Grand Arena](/wiki/Tournaments/LGA/2024), the recent official 1v1 tournament, show that there is the ability for official tournaments to be run with only Featured Artist songs. I do not think this is something that will happen soon, nor is it particularly likely given the official stance on in-game advertisements and sponsorships, but it is possible in the far future.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/news/2024-09-30-the-followpoint-d-i-o-the-mastermind-behind-osu-tournaments/avatar-Utiba.jpg')"></a>
 
@@ -124,9 +124,9 @@ What are some key moments in your career (both as a player and staff) that have 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
 
-Within six months of staffing my first tournament, I was asked by tigereyes144 to be an admin for his four-division 1v1 tournament, Dynamic Spring Solos. This was my first introduction to admin work and to mappooling, and it changed a lot of my perspective from one of self-doubt to one of self-confidence about hosting my own tournament. I got into contact with people like LeoFLT and ill onion (now Fairy Bread) who helped immensely with making sure I had a good idea of what I was doing in my first hosted tournament, and later ChillierPear for graphics and co-hosting. These early experiences gave me perspective on simple community tournaments and how challenging even just running a badged tournament can be.
+Within six months of staffing my first tournament, I was asked by [tigereyes144](https://osu.ppy.sh/users/6499811) to be an admin for his four-division 1v1 tournament, Dynamic Spring Solos. This was my first introduction to admin work and to mappooling, and it changed a lot of my perspective from one of self-doubt to one of self-confidence about hosting my own tournament. I got into contact with people like [LeoFLT](https://osu.ppy.sh/users/3668779) and [ill onion](https://osu.ppy.sh/users/8306102) (now Fairy Bread) who helped immensely with making sure I had a good idea of what I was doing in my first hosted tournament, and later [ChillierPear](https://osu.ppy.sh/users/9501251) for graphics and co-hosting. These early experiences gave me perspective on simple community tournaments and how challenging even just running a badged tournament can be.
 
-From there, I started to branch out into hosting, into sheeting, into mappooling, and into casting open rank. In 2020, Corsace Open made a comeback, and for the first time, I saw what a truly well-run tournament looked like. It motivated me to take on the challenge of making my own. This gave me perspective on how far the envelope could be pushed for community tournaments.
+From there, I started to branch out into hosting, sheeting, mappooling, and casting open rank. In 2020, Corsace Open made a comeback, and for the first time, I saw what a truly well-run tournament looked like. It motivated me to take on the challenge of making my own. This gave me perspective on how far the envelope could be pushed for community tournaments.
 
 Having run the Perennial for three iterations now, having cast the osu! World Cup for three years, having cast for live events across multiple continents, I cannot say that my perspective of admiration for those pushing the envelope has changed much. Even the biggest tournaments are still community projects run strictly at a loss by people with unending passion for the game, and I have nothing but respect for those who continue to put time, money, and effort into creating fun, memorable, competitive experiences for players and viewers alike.
 
@@ -180,7 +180,7 @@ Who, in your opinion, has had the worst caster curse ever?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
 
-There are a lot that come to mind, but one that is often overshadowed by its surroundings is Dohland’s caster curse on he rack during the 2018 OWC grand finals. he rack was holding an FC on NO, Thank You! when Vaxei disconnected, and could have potentially carried the USA to a 3v4 victory if not for the caster curse. This ended up forcing a bracket reset as the match went to tiebreaker and the UK won tiebreaker.
+There are a lot that come to mind, but one that is often overshadowed by its surroundings is [Dohland](https://osu.ppy.sh/users/5220511)’s caster curse on he rack during the 2018 OWC Grand Finals. he rack was holding an FC on NO, Thank You! when [Vaxei](https://osu.ppy.sh/users/4787150) disconnected, and could have potentially carried the USA to a 3v4 victory if not for the caster curse. This ended up forcing a bracket reset as the match went to tiebreaker and the UK won tiebreaker.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/7YCNtnQNbD4?start=4710" frameborder="0" allowfullscreen></iframe>
@@ -196,7 +196,7 @@ What’s the most ridiculous or bizarre thing you’ve said while casting that s
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
 
-I memorized a Chinese copypasta and said it live during Corsace Closed grand finals in 2021.
+I memorized a Chinese copypasta and said it live during Corsace Closed Grand Finals in 2021.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/8y6-bRIKzic?start=1993" frameborder="0" allowfullscreen></iframe>
