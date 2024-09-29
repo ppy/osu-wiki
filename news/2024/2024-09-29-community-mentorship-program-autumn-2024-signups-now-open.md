@@ -26,7 +26,7 @@ Throughout the cycle, the organisation team will host a speed-mapping contest fo
 
 If you or a friend are curious about the rules and which mentors you can apply for, please go to our [forum announcement and rules thread](https://osu.ppy.sh/community/forums/topics/1983459?n=1) for more information.
 
-Otherwise: [join our Discord server!](https://discord.gg/Ft2FtXmBgx)
+Otherwise: [join our Discord server!](https://discord.com/invite/Ft2FtXmBgx)
 
 We're looking forward to the mappers, modders and storyboarders of tomorrow!
 
