@@ -8,8 +8,8 @@ tags:
 
 # osu!store dan cendera mata
 
-_Halaman utama: [Pusat bantuan](/wiki/Help_centre)_\
-_Untuk penyelesaian masalah seputar berbagai produk lawas, kunjungi: [Arsip toko](/wiki/Help_centre/Store/Store_archive)_
+*Halaman utama: [Pusat bantuan](/wiki/Help_centre)*\
+*Untuk penyelesaian masalah seputar berbagai produk lawas, kunjungi: [Arsip toko](/wiki/Help_centre/Store/Store_archive)*
 
 Informasi pada artikel ini hanya berlaku bagi produk yang dibeli dari [osu!store](https://osu.ppy.sh/store/listing).
 
