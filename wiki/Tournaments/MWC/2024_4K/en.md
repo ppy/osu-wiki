@@ -114,7 +114,7 @@ The osu!mania 4K World Cup 2024 was run by the [osu! team](/wiki/People/osu!_tea
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/f3ec88dc91bdbf85429fdeff10ba211f).
 
-# Podium
+## Podium
 
 ![](img/mwc4k2024-podium.jpg "MWC 4K 2024 podium")
 
