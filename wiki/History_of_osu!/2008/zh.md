@@ -22,7 +22,7 @@
 
 ## 四月
 
-这绝对不是一个玩笑，但是 Bancho 和 [扩展聊天](/wiki/Client/Interface/Chat_console#扩展聊天面板) 却同时在四月份上线。用户现在可以在自己的用户面板上看到其他用户在做什么，也可以通过点击旁观按钮与他们互动。自动错误提交系统首次亮相， xfire 兼容性得以实现，主菜单和编辑器界面也由 [LuigiHann](https://osu.ppy.sh/users/1079) 制作的新图标焕然一新。聊天界面新增了 "显示聊天 "按钮、标签自动补全和[昵称高亮](/wiki/Client/Interface/Chat_console/Highlight)提示。等级界面现在会显示达到下一等级所需的分数。
+Bancho 和[扩展聊天](/wiki/Client/Interface/Chat_console#扩展聊天面板)同时在四月份上线并不是一个愚人节玩笑。用户现在可以在自己的用户面板上看到其他用户在做什么，也可以通过点击旁观按钮与他们互动。自动错误提交系统首次亮相， xfire 兼容性得以实现，主菜单和编辑器界面也由 [LuigiHann](https://osu.ppy.sh/users/1079) 制作的新图标焕然一新。聊天界面新增了 "显示聊天 "按钮、标签自动补全和[昵称高亮](/wiki/Client/Interface/Chat_console/Highlight)提示。等级界面现在会显示达到下一等级所需的分数。
 
 ## 五月
 
@@ -58,7 +58,7 @@
 
 ## 十一月
 
-![](img/fruit_ryuuta.png "Catch the Beat的接水果小人")
+![](img/fruit_ryuuta.png "Catch the Beat 的接水果小人")
 
 十一月份推出了全新的游戏模式 "Catch the Beat"。osu! 在这个月添加了 OpenGL 支持，使得它可以在大多数系统上运行。本次更新的其他新特性包括游戏内好友列表支持、私聊选项卡、新教程/[偏移向导](/wiki/Client/Options/Offset_Wizard) 以及 osu!direct（为赞助者提供的游戏内谱面下载功能）。
 
@@ -70,4 +70,4 @@
 
 在线谱面列表中增加了谱面缩略图和歌曲预览，使找到您想玩的谱面变得更加容易。
 
-另一个值得注意的事件是，在这个月里，[Catch the Beat得分进行了重置](https://osu.ppy.sh/community/forums/topics/7996) 。此后，"Catch the Beat" 模式中 mod 的得分倍率也发生了变化。
+另一个值得注意的事件是，在这个月里，[ Catch the Beat 得分进行了重置](https://osu.ppy.sh/community/forums/topics/7996) 。此后，"Catch the Beat" 模式中 mod 的得分倍率也发生了变化。
