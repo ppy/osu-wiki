@@ -68,7 +68,7 @@ The collection featured a range of products such as:
 ![osu! tablet](img/osu-tablet.jpg)
 
 *See also: [osu!tablet official thread](https://osu.ppy.sh/community/forums/topics/169139)*
-*For troubleshooting steps related to the product, see: [Store archive § osu!tablet](/wiki/Help_centre/Store/Store_archive#osu!tablet)*
+*For troubleshooting steps related to the product, see: [Store archive § osu!tablet](/wiki/Help_centre/Store/Store_archive#osu-tablet)*
 
 The **osu!tablet** was an official osu!-branded graphic tablet made in partnership with the electronics company [HUION](https://www.huion.com/). It was designed by ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765) and was released as an affordable alternative for those who simply wanted to buy a graphic tablet to play osu!.
 
@@ -80,7 +80,7 @@ The product ran for two versions: the original "[osu!tablet v1](https://www.yout
 
 *For the news post, see: [osu! Beatmap Blueprints Available & Contest Details](https://osu.ppy.sh/home/news/2015-03-20-osu-beatmap-blueprints-available-contest)*
 
-The **osu! beatmap blueprints** were a reusable sticker sets featuring various elements of the game such as hitcircles, sliders, approach circles, [hit judgements](https://osu.ppy.sh/wiki/en/Gameplay/Judgement/osu%21), and the osu! logo itself. The product was sold in 2015 as a mean for users to create "life-sized beatmaps in real life".
+The **osu! beatmap blueprints** were a reusable sticker sets featuring various elements of the game such as hitcircles, sliders, approach circles, [hit judgements](/wiki/Gameplay/Judgement/osu!), and the osu! logo itself. The product was sold in 2015 as a mean for users to create "life-sized beatmaps in real life".
 
 Alongside its release, a special [Beatmap Blueprint Contest](https://osu.ppy.sh/community/forums/topics/312138?n=1) was briefly held before later abandoned due to the low number of entries.
 
@@ -120,4 +120,4 @@ The **osu!mug** was a special edition multi-purpose drinkware adorned by illustr
 
 *For the news post, see: [Makeship x osu!: Limited Edition Plushies](https://osu.ppy.sh/home/news/2022-12-10-makeship-x-osu-plushies)*
 
-The **limited edition osu! plushies** were a trio of plush dolls each featuring [pippi](/wiki/Mascots#pippi), [Taikonator](https://osu.ppy.sh/wiki/en/Mascots#taikonator), and the [osu! cookie](/wiki/Client/Interface/Cookie). The product was sold in early 2023 through pre-orders and was made in partnership with the crowdfunding platform [Makeship](https://www.makeship.com/).
+The **limited edition osu! plushies** were a trio of plush dolls each featuring [pippi](/wiki/Mascots#pippi), [Taikonator](/wiki/Mascots#taikonator), and the [osu! cookie](/wiki/Client/Interface/Cookie). The product was sold in early 2023 through pre-orders and was made in partnership with the crowdfunding platform [Makeship](https://www.makeship.com/).
