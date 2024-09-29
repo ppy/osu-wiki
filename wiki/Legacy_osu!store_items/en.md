@@ -4,7 +4,7 @@ tags:
   - merchandise
 ---
 
-# Legacy osu!store items
+# Past osu!store items
 
 This article lists various items that were once available at the [osu!store](https://osu.ppy.sh/store/listing) but are no longer in production or for sale.
 
