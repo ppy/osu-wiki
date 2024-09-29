@@ -70,4 +70,4 @@ Bancho 和[扩展聊天](/wiki/Client/Interface/Chat_console#扩展聊天面板)
 
 在线谱面列表中增加了谱面缩略图和歌曲预览，使找到您想玩的谱面变得更加容易。
 
-另一个值得注意的事件是，在这个月里，[ Catch the Beat 得分进行了重置](https://osu.ppy.sh/community/forums/topics/7996) 。此后，"Catch the Beat" 模式中 mod 的得分倍率也发生了变化。
+另一个值得注意的事件是，在这个月里，[Catch the Beat 得分进行了重置](https://osu.ppy.sh/community/forums/topics/7996) 。此后，"Catch the Beat" 模式中 mod 的得分倍率也发生了变化。
