@@ -5,7 +5,7 @@ outdated: true
 # Cómo hacer buenos sliders
 
 Este artículo es un manual sobre cómo hacer buenos sliders.
-En su forma más básica, todo lo que necesita es una [curva de Bézier](https://es.wikipedia.org/wiki/Curva_de_Bézier).
+En su forma más básica, todo lo que necesitas es una [curva de Bézier](https://es.wikipedia.org/wiki/Curva_de_Bézier).
 
 Mensaje de [Ephemeral](https://osu.ppy.sh/users/102335) traducido al español:
 
@@ -31,9 +31,9 @@ Para hacer que el slider end y el punto final se alineen, mantén presionada la 
 Cuando creas que está perfecto, selecciona y presiona `Ctrl` + `H` unas cuantas veces y comprueba si el punto final se mueve.
 Si no es así, felicidades, tienes un slider precioso.
 Enséñaselo a tus amigos.
-Si se mueve así, desplaza el punto superior hasta que funcione.
+Si se mueve, desplaza el punto superior hasta que funcione.
 
-Si quieres un arco en un ángulo, normalmente es más fácil hacerlo vertical como en el ejemplo de arriba, haz clic `Editar`, luego en `Rotar` para hacerlo en el ángulo que quieras.
+Si quieres un arco en un ángulo, normalmente es más fácil hacerlo vertical como en el ejemplo de arriba, haz clic en `Editar`, luego en `Rotar` para que tenga el ángulo que quieras.
 
 ## Ondas
 
@@ -88,7 +88,7 @@ Asegúrate de que la primera y la última línea de control apuntan en la direcc
 Las otras, ajústalas a ojo hasta que estén casi redondas.
 Usar un círculo de aproximación como guía puede ayudar en este sentido.
 
-Al igual que con la mayoría de las formas, mantén un punto de control (dos si el número de puntos es par) para sacarlo del ajuste de la rejilla y poder alinear el punto final.
+Al igual que con la mayoría de las formas, mantén un punto de control (dos si el número de puntos es par) para sacarlo del anclaje de la rejilla y poder alinear el punto final.
 
 ## Doblados
 
