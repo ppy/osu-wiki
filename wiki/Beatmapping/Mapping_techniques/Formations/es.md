@@ -8,7 +8,7 @@ outdated: true
 
 ### Combos blanket
 
-*También conocido como: **Formación blanket***
+*También conocidos como: **Formación blanket***
 
 Nominador: [m980](https://osu.ppy.sh/users/3288)
 
@@ -26,7 +26,7 @@ El último objeto siempre debería ser un slider.
 
 ### Combos en forma de flor
 
-*También conocido como: **Formación con estilo de flor***
+*También conocidos como: **Formación con estilo de flor***
 
 Nominador: [0_o](https://osu.ppy.sh/users/56708)
 
@@ -150,7 +150,7 @@ La **formación cuadrada v2** es prácticamente lo mismo que la [formación cuad
 
 ### Ritmos triangulares
 
-*También conocido como: **Formación triangular***
+*También conocidos como: **Formación triangular***
 
 Nominador: [kingcobra52](https://osu.ppy.sh/users/9934)
 
@@ -159,7 +159,7 @@ No importa el orden de los 3 círculos ni el tamaño del triángulo.
 
 ### Sliders en zigzag
 
-*También conocido como: **Formación zigzag***
+*También conocidos como: **Formación en zigzag***
 
 Nominador: [0_o](https://osu.ppy.sh/users/56708)
 
