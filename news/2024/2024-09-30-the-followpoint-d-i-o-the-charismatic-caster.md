@@ -54,7 +54,7 @@ Hello D I O, thanks for coming on! As we always do, let's start with an introduc
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
 
-Hi Utiba, thanks for having me. For those who don't know me, I am D I O, a [GMT](/wiki/People/Global_Moderation_Team), member of [Tournament Committee](/wiki/People/Tournament_Committee), OWC caster and playtester, host of the [Perennial](https://theperennial.net/), head of tournament operations for the [Roundtable](/wiki/Tournaments/The_Roundtable), and community tournament staff since 2018. I joined osu! back in 2014.
+Hi Utiba, thanks for having me. For those who don't know me, I am D I O, a [GMT](/wiki/People/Global_Moderation_Team), member of [Tournament Committee](/wiki/People/Tournament_Committee), OWC caster and playtester, host of [the Perennial](https://theperennial.net/), head of tournament operations for the [Roundtable](/wiki/Tournaments/The_Roundtable), and community tournament staff since 2018. I joined osu! back in 2014.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/news/2024-09-30-the-followpoint-d-i-o-the-charismatic-caster/avatar-Utiba.jpg')"></a>
 
