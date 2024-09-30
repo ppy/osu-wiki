@@ -76,7 +76,7 @@ Fast forward to the end of university, and I was still craving the same sort of 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
 
-As a host of the Perennial tournament series, what makes it stand out to you that makes you want to continue hosting the tournament each year?
+As a host of [the Perennial](https://osu.ppy.sh/home/news/2024-07-28-the-perennial-concludes) tournament series, what makes it stand out to you that makes you want to continue hosting the tournament each year?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/news/2024-09-30-the-followpoint-d-i-o-the-charismatic-caster/avatar-D I O.jpg')"></a>
 
