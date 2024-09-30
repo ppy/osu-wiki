@@ -47,13 +47,13 @@ Los **sliders paralelos** usan un grupo de sliders que son todos paralelos entre
 Nominador: [Xgor](https://osu.ppy.sh/users/98661)
 
 Los **sliders segmentados** se componen de un número de sliders que comienzan en el punto final del slider anterior.
-Suelen hacerse con [sliders de Etna](#sliders-de-etna), pero también pueden usarse con sliders de 3 a 4 o más pulsos de duración.
+Suelen hacerse con [sliders de Etna](#sliders-de-etna), pero también pueden usarse con sliders de 3, 4 o más pulsos de duración.
 
 ### Sliders con repeticiones cortas
 
 *También conocidos como: **Kick sliders***
 
-*No debe confundirse con los [sliders mantenidos](/wiki/Beatmapping/Mapping_techniques/Unrankable#sliders-mantenidos).*
+*No deben confundirse con los [sliders mantenidos](/wiki/Beatmapping/Mapping_techniques/Unrankable#sliders-mantenidos).*
 
 Nominador: [kingcobra52](https://osu.ppy.sh/users/9934)
 
@@ -89,7 +89,7 @@ Nominador: [Mashley](https://osu.ppy.sh/users/41481)
 Los **sliders cortantes** consisten en 2 sliders, normalmente de 1 pulso de duración y 1/2 pulso de separación, que se superponen entre sí.
 El segundo slider parece que está *cortando* el otro slider, de ahí el nombre.
 
-### Crumpled Sliders
+### Sliders arrugados
 
 Nominador: [Lilac](https://osu.ppy.sh/users/58197)
 
@@ -149,11 +149,11 @@ Los **sliders en forma de ola** son sliders en forma de «S».
 Se curva en una dirección y luego en la contraria.
 Se usan para ser un poco más interesantes que un slider recto normal.
 
-### Sliders con forma de molino de viento
+### Sliders en forma de molino de viento
 
 Nominador: [Lybydose](https://osu.ppy.sh/users/64501)
 
-Un **slider con forma de molino de viento** es una serie de cuatro sliders que parten de un punto central común.
+Los **slider en forma de molino de viento** son una serie de cuatro sliders que parten de un punto central común.
 Esto hará que parezca un molino de viento.
 Los sliders no tienen por qué ser curvos, sino que puedan formar una cruz o una «x».
 
@@ -163,7 +163,7 @@ Los sliders no tienen por qué ser curvos, sino que puedan formar una cruz o una
 
 Nominador: [GladiOol](https://osu.ppy.sh/users/23326)
 
-Los sliders **switch-back** están formados por un slider curvo de medio pulso.
+Los **sliders switch-back** están formados por un slider curvo de medio pulso.
 Luego, se copia y pega, se gira 180 grados y se coloca de modo que se curve en el slider anterior (similar a los [sliders de Etna](#sliders-de-etna)).
 Después, se coloca un círculo donde estaba la cabeza del slider anterior.
 
