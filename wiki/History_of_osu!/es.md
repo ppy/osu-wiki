@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Historia de osu!
 
 Registros de la historia de osu!, todo en la osu! wiki.
