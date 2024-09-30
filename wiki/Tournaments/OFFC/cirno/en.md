@@ -124,7 +124,7 @@ The osu! FumoFumo Cup: cirno is run by various community members.
 
 **[Download the mappack here! (Size: 142 MB)](https://drive.google.com/file/d/1YsNGC8y2GK0DX9Pv0yvBLe55dG4TFXMd/view)**
 
-| 列/行 | 1 | 2 | 3 | 4 |
+| Column / Row | 1 | 2 | 3 | 4 |
 | :-: | :-: | :-: | :-: | :-: |
 | 1 | DT3 | FM3 | HD1 | DT2 |
 | 2 | DT1 | NM4 | FM1 | HR1 |
@@ -157,6 +157,44 @@ The osu! FumoFumo Cup: cirno is run by various community members.
   2. [Natsume Itsuki - Oracion [Prayer]](https://osu.ppy.sh/beatmapsets/2077457#osu/4349931)
   3. [Chroma - Destroy, Destroy, Destroy The Happy End (Cut Ver.) [Ralkinson's Extra]](https://osu.ppy.sh/beatmapsets/1160351#osu/3364545)
   4. [Ayane - Azurite no Hitsugi (Artethia Remix) [Sorrow]](https://osu.ppy.sh/beatmapsets/2129263#osu/4477289)
+
+### Finals
+
+**[Download the mappack here! (Size: 224 MB)](https://drive.google.com/file/d/1OaNOmswyyX7fP30lyggkQo6-ZAyVTMMC/view)**
+
+| Column / Row | 1 | 2 | 3 | 4 |
+| :-: | :-: | :-: | :-: | :-: |
+| 1 | NM2 | DT2 | NM4 | DT3 |
+| 2 | FM1 | FM4 | HR2 | DT4 |
+| 3 | HR1 | HD2 | DT1 | NM1 |
+| 4 | FM2 | HD1 | NM3 | FM3 |
+
+- NoMod
+  1. [Omnis - Gensoukyoku Dai Ichiban - Furie - [Extra]](https://osu.ppy.sh/beatmapsets/719588#osu/1519543)
+  2. [Gram - Nibelungen [lungaspeeding]](https://osu.ppy.sh/beatmapsets/1783116#osu/3651733)
+  3. [Getty - B WiZ U [0pp x ohm's extra]](https://osu.ppy.sh/beatmapsets/2054627#osu/4540987)
+  4. [ShinRa-Bansho - Itazura Sensation [Extra Stage]](https://osu.ppy.sh/beatmapsets/1276485#osu/2680824)
+- Hidden
+  1. [senya - Iro wa Jou e to Izanau [Extra Stage]](https://osu.ppy.sh/beatmapsets/1579161#osu/3224505)
+  2. [AC/DC - Dirty Deeds Done Dirt Cheap [36-24-36]](https://osu.ppy.sh/beatmapsets/1155076#osu/2410569)
+- HardRock
+  1. [Chino (CV: Inori Minase) - Shinsaku no Shiawase wa Kochira! [Cappuccino]](https://osu.ppy.sh/beatmapsets/1677520#osu/3427312)
+  2. [IOSYS - Koi no Hyouketsu Otenba Yukemuri Chiruno Onsen [P_O's Lunatic]](https://osu.ppy.sh/beatmapsets/1948138#osu/4031791)
+- DoubleTime
+  1. [Miku Sawai - Gomen ne, Iiko ja Irarenai. [Immature]](https://osu.ppy.sh/beatmapsets/1670488#osu/3411862)
+  2. [Mili - Ga1ahad and Scientific Witchery [maple]](https://osu.ppy.sh/beatmapsets/2218844#osu/4703239)
+  3. [petit milady - Ma Cherie [Lovers]](https://osu.ppy.sh/beatmapsets/255481#osu/585605)
+  4. [Akatsuki Records - Adieu, to this Lively Graveyard [Unburied Lady]](https://osu.ppy.sh/beatmapsets/1994582#osu/4145128)
+- FreeMod
+  1. [nao feat. isui - Summer Lights [litoluna's Extra]](https://osu.ppy.sh/beatmapsets/1928441#osu/4501896)
+  2. [inabakumori - Tokoshizume [Kard's Insane]](https://osu.ppy.sh/beatmapsets/1777533#osu/3657734)
+  3. [monaca:factory feat. GEM - Mermaid [honne's Another]](https://osu.ppy.sh/beatmapsets/1429665#osu/3432438)
+  4. [Will Stetson - Live in Life [Hu Tao Fansong] [Memento Mori]](https://osu.ppy.sh/beatmapsets/1977547#osu/4105230)
+- Extra
+  1. [t+pazolite - Twisted Twit [Storm]](https://osu.ppy.sh/beatmapsets/498466#osu/1061134)
+  2. [Shijin no Chi - BEATIN' LOVE [M i X & flake's Unrequited Love Expert]](https://osu.ppy.sh/beatmapsets/1680535#osu/3579127)
+  3. [EastNewSound feat. nayuta - Hiiro Gekka, Kyoushou no Zetsu -1st Anniversary Remix- [Extra Stage]](https://osu.ppy.sh/beatmapsets/1483410#osu/3042458)
+  4. [Masayoshi Soken - In The Balance [Aglaia]](https://osu.ppy.sh/beatmapsets/1880199#osu/3870876)
 
 ## Match results
 
