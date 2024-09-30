@@ -35,7 +35,7 @@ Solo tienes que extraerlo en cualquier lugar de tu ordenador y ejecutar el archi
 
 El resto debería entenderse sin problemas.
 
-Si tiene algún otro problema, no dudes en enviar un tiquete a [support@ppy.sh](mailto:support@ppy.sh) detallando tu problema.
+Si tienes algún otro problema, no dudes en enviar un tiquete a [support@ppy.sh](mailto:support@ppy.sh) detallando tu problema.
 
 ### ¡Las luces LED de mi teclado osu! nono no funcionan! {id=osu!keyboard-leds}
 
@@ -126,7 +126,7 @@ Sigue [esta guía](https://tails.net/doc/reset/windows/index.es.html) para saber
 
 **¡Ya casi has terminado!**
 
-Descomprime el archivo que te pedimos que descargaras antes (osu!go.zip) en la unidad osu!go y ¡listo!
+Descomprime el archivo que te pedimos que descargaras antes (osu!go.zip) en la unidad osu!go y ya habrás terminado.
 
 ### ¡Nada de esto ha funcionado! {id=osu!go-unknown-cause}
 
