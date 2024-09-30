@@ -126,6 +126,44 @@ osu! FumoFumo Cup：琪露诺杯由众多的社区成员举办。
   3. [VeetaCrush - Dandelion's Daydream (Extended Mix) [384's "Void" Another]](https://osu.ppy.sh/beatmapsets/1342167#osu/3214255)
   4. [Halozy - Kanshou no Matenrou [Eternal]](https://osu.ppy.sh/beatmapsets/179699#osu/431957)
 
+### 半决赛轮 (SF)
+
+**[在这里下载谱面包！（大小：142 MB）](https://drive.google.com/file/d/1YsNGC8y2GK0DX9Pv0yvBLe55dG4TFXMd/view)**
+
+| 列/行 | 1 | 2 | 3 | 4 |
+| :-: | :-: | :-: | :-: | :-: |
+| 1 | DT3 | FM3 | HD1 | DT2 |
+| 2 | DT1 | NM4 | FM1 | HR1 |
+| 3 | HR2 | HD2 | NM2 | FM2 |
+| 4 | NM3 | FM4 | DT4 | NM1 |
+
+- NoMod
+  1. [Zektbach - Apocalypse ~dirge of swans~ [Apocalypse of the Mind]](https://osu.ppy.sh/beatmapsets/1936602#osu/4002902)
+  2. [Gram - GuNGNiR [gungaspeeding (kip edit)]](https://osu.ppy.sh/beatmapsets/1744804#osu/3568595)
+  3. [ginkiha - EOS [Phten02's End of the Universe Expert]](https://osu.ppy.sh/beatmapsets/2151567#osu/4644280)
+  4. [Fujikawa Chiai - Yubisaki kara [gazimal's Extra]](https://osu.ppy.sh/beatmapsets/2042295#osu/4541384)
+- Hidden
+  1. [YOASOBI - Yuusha [Hinae's Extra]](https://osu.ppy.sh/beatmapsets/2067581#osu/4407291)
+  2. [Mai Kuraki - key to my heart [Insane]](https://osu.ppy.sh/beatmapsets/2112715#osu/4435675)
+- HardRock
+  1. [Sota Fujimori - Move That Body -Extended Mix- [RLC's Extra]](https://osu.ppy.sh/beatmapsets/220220#osu/542336)
+  2. [SawanoHiroyuki[nZk]:mica - Summer Tears [Tears]](https://osu.ppy.sh/beatmapsets/734227#osu/1549252)
+- DoubleTime
+  1. [Wang Yi Tao - Zi You Sheng Guang [Present's Insane]](https://osu.ppy.sh/beatmapsets/830266#osu/1821817)
+  2. [MiddleIsland - Piano Kyousoukyoku Ni-ban "Nageki no Mai" [Collab Insane]](https://osu.ppy.sh/beatmapsets/1520799#osu/3112504)
+  3. [TK from Ling tosite sigure - first death [honne & annabel's hard]](https://osu.ppy.sh/beatmapsets/2033133#osu/4411596)
+  4. [Rina Sawayama - XS [Seolvjan's Insane (ar8)]](https://osu.ppy.sh/beatmapsets/1904266#osu/3926326)
+- FreeMod
+  1. [Sound Horizon - Raijin no Hidariude [Insane (OFFC ver.)]](https://osu.ppy.sh/beatmapsets/2250607#osu/4786377)
+  2. [LiSA - Mitsu [Irohas' Extra]](https://osu.ppy.sh/beatmapsets/1799512#osu/3881365)
+  3. [Schwank & Tanger - deathwish [Kyudou's Insane]](https://osu.ppy.sh/beatmapsets/1859838#osu/4075870)
+  4. [HIMEHINA - Hitogata Rock [Asa's Insane]](https://osu.ppy.sh/beatmapsets/1361614#osu/2817423)
+- Extra
+  1. [Metomate - Negai [seros x yf's Extra]](https://osu.ppy.sh/beatmapsets/1818721#osu/3795374)
+  2. [Natsume Itsuki - Oracion [Prayer]](https://osu.ppy.sh/beatmapsets/2077457#osu/4349931)
+  3. [Chroma - Destroy, Destroy, Destroy The Happy End (Cut Ver.) [Ralkinson's Extra]](https://osu.ppy.sh/beatmapsets/1160351#osu/3364545)
+  4. [Ayane - Azurite no Hitsugi (Artethia Remix) [Sorrow]](https://osu.ppy.sh/beatmapsets/2129263#osu/4477289)
+
 ## 比赛结果
 
 ### 四分之一决赛轮 (QF Round)
@@ -138,6 +176,17 @@ osu! FumoFumo Cup：琪露诺杯由众多的社区成员举办。
 | **Pingu\~Pingu\~** | Helicopter | [#2](https://osu.ppy.sh/community/matches/115504458) |
 | 身为pp刷子因没练图而成了传说 | **这是什么** | [#3](https://osu.ppy.sh/community/matches/115518198) |
 | **Bingo!** | 诟撡𤷙𣧏𡣀𠔑𡉄𫟺㻵𧂂𨾻𠪧 | [#4](https://osu.ppy.sh/community/matches/115528531) |
+
+### 半决赛轮 (SF Round)
+
+比赛时间：2024 年 9 月 21 日 ~ 2024 年 9 月 29 日
+
+| 队伍 1 | 队伍 2 | 比赛链接 |
+| --: | :-- | :-- |
+| **这是什么** | Bingo! | [#5](https://osu.ppy.sh/community/matches/115660580) |
+| Pingu~Pingu~ | **沟槽的烤翅还在开战舰追我** | [#6](https://osu.ppy.sh/community/matches/115676257) |
+| 身为pp刷子因没练图而成了传说 | **诟撡𤷙𣧏𡣀𠔑𡉄𫟺㻵𧂂𨾻𠪧** | [#7](https://osu.ppy.sh/community/matches/115662073) |
+| **Helicopter** | 内有小南梁 | [#8](https://osu.ppy.sh/community/matches/115576295) |
 
 ## 规则
 
