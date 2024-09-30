@@ -75,9 +75,9 @@ The Mappers' Guild began as a way for mappers to collaborate, and we're still st
 
 Work with **one other mapper** to create a difficulty spread meeting these requirements:
 
-- at least Easy, Normal, Hard, and Insane difficulties
-- all difficulties are collaborations between the two mappers
-- total length of each difficulty is at least 3:30
+- At least Easy, Normal, Hard, and Insane difficulties are included
+- All difficulties are collaborations between the two mappers
+- Total length of each difficulty is at least 3:30
 
 Given usual spread requirements, you won't often find Easy or Normal difficulties for longer songs, so you and a friend will be filling that niche!
 
@@ -103,6 +103,6 @@ If you made it this far, you're obligated to [scroll through the new priority qu
 
 Starting a new map with 0 experience is obviously overwhelming. The best advice we can give is to just open the editor and make *something*, even if it's not good. You'll learn a lot more with just that experience than you might from watching tutorials alone.
 
-And if you need help with any of your Mappers' Guild related maps, feel free to reach out in the `#mappers-guild` channel in the [osu! Discord server](https://discord.com/invite/ppy)!
+And if you need help with any of your Mappers' Guild–related maps, feel free to reach out in the `#mappers-guild` channel in the [osu! Discord server](https://discord.com/invite/ppy)!
 
 —pishifat
