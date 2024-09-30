@@ -5,7 +5,7 @@ date: 2024-09-30 17:00:00 +0000
 series: The Followpoint
 ---
 
-...You expected a tournament player, but it was me, D I O!
+Hey there, do you like osu! tournaments? Then this interview might just be for you!
 
 ![](/wiki/shared/news/2024-09-30-the-followpoint-d-i-o-the-charismatic-caster/banner.jpg)
 
