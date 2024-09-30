@@ -175,16 +175,6 @@ The complete list of player registrations can be found [here](https://docs.googl
    - If there are two (or more) players who share the same Z-sum value, the player that holds the higher total raw score will be placed in the higher seed.
 7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
-#### Runoff bracket rules
-
-![](img/runoff-scheme.jpg "Runoff brackets diagram")
-
-1. Based on their Qualifier seeding, players in seeds #9 – #24 will be placed in the runoff brackets according to the above scheme.
-2. Matches in the runoff brackets will be classified into **R1**, **R2**, and **R3** that go as follows:
-   - **R1**: Match winners will advance to the Round of 16, while their opponents will move on to R3.
-   - **R2**: Match winners will advance to R3, while their opponents will be eliminated from the tournament.
-   - **R3**: Match winners will advance to the Round of 16, while their opponents will be eliminated from the tournament.
-
 #### Knock-out stage rules
 
 1. The 16 remaining players will be matched against each other based on their seeding (e.g. Seed #1 vs. Seed #16, Seed #2 vs. Seed #15, and so on).
