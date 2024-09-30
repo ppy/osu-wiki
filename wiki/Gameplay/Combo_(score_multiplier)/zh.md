@@ -2,7 +2,7 @@
 stub: true
 tags:
   - 最大连击
-  - 连击因数效应
+  - 连击乘数效应
   - max combo
   - combo multiplier effect
 needs_cleanup: true  # https://github.com/ppy/osu-wiki/issues/9919
@@ -25,7 +25,7 @@ needs_cleanup: true  # https://github.com/ppy/osu-wiki/issues/9919
 
 ### osu!
 
-**下列情况会将得分/连击因数加一：**
+**下列情况会将得分/连击乘数加一：**
 
 - 成功点击圆圈。
 - 成功点击滑条头。
@@ -48,7 +48,7 @@ needs_cleanup: true  # https://github.com/ppy/osu-wiki/issues/9919
 
 ### osu!taiko
 
-**下列情况会将得分/连击因数加一：**
+**下列情况会将得分/连击乘数加一：**
 
 - 小/大音符获得 *GREAT* 或 *GOOD* 判定。
 
@@ -65,7 +65,7 @@ needs_cleanup: true  # https://github.com/ppy/osu-wiki/issues/9919
 
 ### osu!catch
 
-**下列情况会将得分/连击因数加一：**
+**下列情况会将得分/连击乘数加一：**
 
 - 接到大果。
 - 接到中果。
@@ -82,7 +82,7 @@ needs_cleanup: true  # https://github.com/ppy/osu-wiki/issues/9919
 
 ## osu!mania
 
-**下列情况会将得分/连击因数加一：**
+**下列情况会将得分/连击乘数加一：**
 
 - 用正确按键打击音符。
 - 用正确按键按住长按音符。
