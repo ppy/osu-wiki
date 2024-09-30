@@ -54,7 +54,7 @@ Hello D I O, thanks for coming on! As we always do, let's start with an introduc
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
 
-Hi Utiba, thanks for having me. For those who don’t know me, I am D I O, a GMT, member of Tournament Committee, OWC Caster and Playtester, host of the Perennial, head of tournament operations for the Roundtable, and community tournament staff since 2018. I joined osu! back in 2014.
+Hi Utiba, thanks for having me. For those who don't know me, I am D I O, a GMT, member of Tournament Committee, OWC Caster and Playtester, host of the Perennial, head of tournament operations for the Roundtable, and community tournament staff since 2018. I joined osu! back in 2014.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/news/2024-09-30-the-followpoint-d-i-o-the-mastermind-behind-osu-tournaments/avatar-Utiba.jpg')"></a>
 
@@ -68,7 +68,7 @@ What made you want to get into the tournament scene?
 
 It was a mixed bag for me, as I actually played tournaments well before I staffed in any. I have always been a competitive person from a young age, playing lots of different sports and competing with friends. That transitioned to competitive gaming as I got older and into Speech and Debate in high school and eventually university.
 
-I played my first tournament in 2015; it was some 5 digit tournament that I don’t even remember the name of. At one point, I also played in an iteration of SMT, which was a large monthly tournament series back in the day, co-hosted by [Halfslashed](https://osu.ppy.sh/users/4598899), who some people reading might still be familiar with. From there I played tournaments off and on, mostly focusing on grinding in solo. I was unable to really focus on tournaments due to my commitment to debate in university; we would travel every 2 – 3 weeks on the weekend, which made committing to a long, multi-week tournament virtually impossible.
+I played my first tournament in 2015; it was some 5 digit tournament that I don't even remember the name of. At one point, I also played in an iteration of SMT, which was a large monthly tournament series back in the day, co-hosted by [Halfslashed](https://osu.ppy.sh/users/4598899), who some people reading might still be familiar with. From there I played tournaments off and on, mostly focusing on grinding in solo. I was unable to really focus on tournaments due to my commitment to debate in university; we would travel every 2 – 3 weeks on the weekend, which made committing to a long, multi-week tournament virtually impossible.
 
 Fast forward to the end of university, and I was still craving the same sort of public speaking outlet as debate, but with very few competitions left and a lot of upheaval in the staff team at the time. I decided to try out commentating osu! tournaments, and instantly took to it. The first three tournaments I signed up to staff for were all very good experiences for a first timer, so I was very motivated to continue. Shout out to nik, Tuco, and deflateddolphin for those first three tournaments, as had they been poorly run or overall been a poor experience, I almost certainly would not have stuck with it.
 
@@ -86,7 +86,7 @@ When I first started it, the Perennial was one of two well-regarded large commun
  
 The Perennial has never been completely unique, so it instead stands out with the competitiveness of its matches, especially in late stages. In 2021, this was not so much the case, but in 2022 and 2024, we had very competitive grand finals matches between the top teams, with both those grand finals going to bracket reset. This was partially due to the format change in 2024. Watching these competitive, high-level matches in a tournament you host, on a pool you made, is always very rewarding.
 
-With that in mind, the Perennial has become an opportunity for me to attempt to influence the tournament meta on a larger scale. I often use smaller tournaments to test run ideas I have for the Perennial before implementing them there, which was a big success this year with regional team restrictions. My hope is that these modifications keep the tournament as competitive as possible and continue to keep it at the forefront of people’s minds when thinking about tournament formats.
+With that in mind, the Perennial has become an opportunity for me to attempt to influence the tournament meta on a larger scale. I often use smaller tournaments to test run ideas I have for the Perennial before implementing them there, which was a big success this year with regional team restrictions. My hope is that these modifications keep the tournament as competitive as possible and continue to keep it at the forefront of people's minds when thinking about tournament formats.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/news/2024-09-30-the-followpoint-d-i-o-the-mastermind-behind-osu-tournaments/avatar-Utiba.jpg')"></a>
 
@@ -98,7 +98,7 @@ You have casted for some of the biggest tournaments in osu!. Did you ever forese
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
 
-At the start, of course not. I initially started casting just for fun and because I was missing the public speaking events I had participated in for the better part of 7 years. Again, as a competitive person, I just kept pushing myself to be better and better, and the rest is history. I still am in disbelief every time I get to cast with older players I used to look up to when I first started playing, but as with anyone in osu!, they’re just people, same as me, so I try to not let that show.
+At the start, of course not. I initially started casting just for fun and because I was missing the public speaking events I had participated in for the better part of 7 years. Again, as a competitive person, I just kept pushing myself to be better and better, and the rest is history. I still am in disbelief every time I get to cast with older players I used to look up to when I first started playing, but as with anyone in osu!, they're just people, same as me, so I try to not let that show.
 
 I have spent way more time than I would like to admit watching professional League of Legends, specifically LCS as someone from North America. A lot of the casters I take inspiration from come from that league, like Kobe and CaptainFlowers. While casting lots of smaller tournaments, including my own when starting out, you end up casting a lot of matches by yourself. With that in mind, trying to find a balance of analysis and play-by-play was a motivating factor early on for me, and that influenced a lot of my style to this day.
 
@@ -168,7 +168,7 @@ What's the best advice you could give to someone wanting to enter the tournament
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
 
-Just start. Find a tournament that’s in a rank range you’re familiar with and either use a staff form if they have it or contact the host to see if they are looking for staff. This staffing thing isn’t rocket science, there’s just a bit of a learning curve while you get the hang of things. If you are unfamiliar with tournaments at all, I would say play some tournaments first, then move into reffing, streaming, and/or casting. If you are a very experienced tournament player, you might be pretty good at mappooling. Regardless, the only way to start staffing is to just do it. Put yourself out there and start.
+Just start. Find a tournament that's in a rank range you're familiar with and either use a staff form if they have it or contact the host to see if they are looking for staff. This staffing thing isn't rocket science, there's just a bit of a learning curve while you get the hang of things. If you are unfamiliar with tournaments at all, I would say play some tournaments first, then move into reffing, streaming, and/or casting. If you are a very experienced tournament player, you might be pretty good at mappooling. Regardless, the only way to start staffing is to just do it. Put yourself out there and start.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/news/2024-09-30-the-followpoint-d-i-o-the-mastermind-behind-osu-tournaments/avatar-Utiba.jpg')"></a>
 
@@ -180,7 +180,7 @@ Who, in your opinion, has had the worst caster curse ever?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
 
-There are a lot that come to mind, but one that is often overshadowed by its surroundings is [Dohland](https://osu.ppy.sh/users/5220511)’s caster curse on he rack during the 2018 OWC Grand Finals. he rack was holding an FC on NO, Thank You! when [Vaxei](https://osu.ppy.sh/users/4787150) disconnected, and could have potentially carried the USA to a 3v4 victory if not for the caster curse. This ended up forcing a bracket reset as the match went to tiebreaker and the UK won tiebreaker.
+There are a lot that come to mind, but one that is often overshadowed by its surroundings is [Dohland](https://osu.ppy.sh/users/5220511)'s caster curse on he rack during the 2018 OWC Grand Finals. he rack was holding an FC on NO, Thank You! when [Vaxei](https://osu.ppy.sh/users/4787150) disconnected, and could have potentially carried the USA to a 3v4 victory if not for the caster curse. This ended up forcing a bracket reset as the match went to tiebreaker and the UK won tiebreaker.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/7YCNtnQNbD4?start=4710" frameborder="0" allowfullscreen></iframe>
@@ -190,7 +190,7 @@ There are a lot that come to mind, but one that is often overshadowed by its sur
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
 
-What’s the most ridiculous or bizarre thing you’ve said while casting that still makes you laugh today?
+What's the most ridiculous or bizarre thing you've said while casting that still makes you laugh today?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/news/2024-09-30-the-followpoint-d-i-o-the-mastermind-behind-osu-tournaments/avatar-D I O.jpg')"></a>
 
@@ -212,7 +212,7 @@ One final question before we go, do you still see yourself in the tournament sce
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
 
-Who knows? If I still enjoy the game and the tournament scene at that point, then maybe. I’m in my late 20’s now and not sure where life is going to take me, so your guess is as good as mine.
+Who knows? If I still enjoy the game and the tournament scene at that point, then maybe. I'm in my late 20's now and not sure where life is going to take me, so your guess is as good as mine.
 
 </div>
 
