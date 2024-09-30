@@ -6,7 +6,7 @@ tags:
 
 # osu! Indonesia Tournament #14 (2024)
 
-![osu! Indonesia Tournament #14 (2024) banner](img/banner.jpg)
+![osu! Indonesia Tournament #14 (2024) banner](img/banner.png)
 
 The **osu! Indonesia Tournament #14 (2024)** (OIT 2024) is a double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [Chokecomint](https://osu.ppy.sh/users/20308933). The tournament is open to all osu! players from Indonesia without an active [tournament ban](/wiki/Help_centre/Tournament_bans) regardless of rank. It is the fourteenth iteration of the osu! Indonesia Tournament.
 
