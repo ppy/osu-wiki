@@ -9,7 +9,7 @@ Hey there, do you like osu! tournaments? Then this interview read might just be 
 
 ![](/wiki/shared/news/2024-09-30-the-followpoint-d-i-o-the-charismatic-caster/banner.jpg)
 
-Welcome back to The Followpoint where we are back in business with another interview for you to enjoy! This time it's with [D I O](https://osu.ppy.sh/users/3958619), you've probably heard of him because of his outstanding contributions to many tournaments around the osu! tournament scene, so much in fact that it would probably take forever to list how many tournaments he's contributed to!
+Welcome back to The Followpoint where we are back in business with another interview for you to enjoy! This time it's with [D I O](https://osu.ppy.sh/users/3958619). You've probably heard of him because of his outstanding contributions to many tournaments around the osu! tournament scene. So much in fact, that it would probably take forever to list how many tournaments he's contributed to!
 
 Let's not waste any time and get on with the interview!
 
@@ -54,7 +54,7 @@ Hello D I O, thanks for coming on! As we always do, let's start with an introduc
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
 
-Hi Utiba, thanks for having me. For those who don't know me, I am D I O, a GMT, member of Tournament Committee, OWC Caster and Playtester, host of the Perennial, head of tournament operations for the Roundtable, and community tournament staff since 2018. I joined osu! back in 2014.
+Hi Utiba, thanks for having me. For those who don't know me, I am D I O, a [GMT](/wiki/People/Global_Moderation_Team), member of [Tournament Committee](/wiki/People/Tournament_Committee), OWC caster and playtester, host of the [Perennial](https://theperennial.net/), head of tournament operations for the [Roundtable](/wiki/Tournaments/The_Roundtable), and community tournament staff since 2018. I joined osu! back in 2014.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/news/2024-09-30-the-followpoint-d-i-o-the-charismatic-caster/avatar-Utiba.jpg')"></a>
 
@@ -66,7 +66,7 @@ What made you want to get into the tournament scene?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
 
-It was a mixed bag for me, as I actually played tournaments well before I staffed in any. I have always been a competitive person from a young age, playing lots of different sports and competing with friends. That transitioned to competitive gaming as I got older and into Speech and Debate in high school and eventually university.
+It was a mixed bag for me, as I actually played tournaments well before I staffed in any. I have always been a competitive person from a young age, playing lots of different sports and competing with friends. That transitioned to competitive gaming as I got older and into speech and debate in high school and eventually university.
 
 I played my first tournament in 2015; it was some 5 digit tournament that I don't even remember the name of. At one point, I also played in an iteration of SMT, which was a large monthly tournament series back in the day, co-hosted by [Halfslashed](https://osu.ppy.sh/users/4598899), who some people reading might still be familiar with. From there I played tournaments off and on, mostly focusing on grinding in solo. I was unable to really focus on tournaments due to my commitment to debate in university; we would travel every 2 – 3 weeks on the weekend, which made committing to a long, multi-week tournament virtually impossible.
 
@@ -76,7 +76,7 @@ Fast forward to the end of university, and I was still craving the same sort of 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
 
-As a host of The Perennial tournament series, what makes it stand out to you that makes you want to continue hosting the tournament each year?
+As a host of the Perennial tournament series, what makes it stand out to you that makes you want to continue hosting the tournament each year?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/news/2024-09-30-the-followpoint-d-i-o-the-charismatic-caster/avatar-D I O.jpg')"></a>
 
@@ -92,7 +92,7 @@ With that in mind, the Perennial has become an opportunity for me to attempt to 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
 
-You have casted for some of the biggest tournaments in osu!. Did you ever foresee yourself becoming such a well known and respected figure in the community because of this? Are there any professional casters you looked up to during this journey who helped you find your style?
+You have casted for some of the biggest tournaments in osu!. Did you ever foresee yourself becoming such a well-known and respected figure in the community because of this? Are there any professional casters you looked up to during this journey who helped you find your style?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/news/2024-09-30-the-followpoint-d-i-o-the-charismatic-caster/avatar-D I O.jpg')"></a>
 
@@ -118,15 +118,15 @@ A lot of people will probably be disappointed with this answer. While there are 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
 
-What are some key moments in your career (both as a player and staff) that have molded your perspective on the tournament scene?
+What are some key moments in your career (both as a player and staff) that have moulded your perspective on the tournament scene?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/news/2024-09-30-the-followpoint-d-i-o-the-charismatic-caster/avatar-D I O.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
 
-Within six months of staffing my first tournament, I was asked by [tigereyes144](https://osu.ppy.sh/users/6499811) to be an admin for his four-division 1v1 tournament, Dynamic Spring Solos. This was my first introduction to admin work and to mappooling, and it changed a lot of my perspective from one of self-doubt to one of self-confidence about hosting my own tournament. I got into contact with people like [LeoFLT](https://osu.ppy.sh/users/3668779) and [ill onion](https://osu.ppy.sh/users/8306102) (now Fairy Bread) who helped immensely with making sure I had a good idea of what I was doing in my first hosted tournament, and later [ChillierPear](https://osu.ppy.sh/users/9501251) for graphics and co-hosting. These early experiences gave me perspective on simple community tournaments and how challenging even just running a badged tournament can be.
+Within six months of staffing my first tournament, I was asked by [tigereyes144](https://osu.ppy.sh/users/6499811) to be an admin for his four-division 1v1 tournament, [Dynamic Spring Solos](https://osu.ppy.sh/community/forums/topics/876893). This was my first introduction to admin work and to mappooling, and it changed a lot of my perspective from one of self-doubt to one of self-confidence about hosting my own tournament. I got into contact with people like [LeoFLT](https://osu.ppy.sh/users/3668779) and [ill onion](https://osu.ppy.sh/users/8306102) (now Fairy Bread) who helped immensely with making sure I had a good idea of what I was doing in my first hosted tournament, and later [ChillierPear](https://osu.ppy.sh/users/9501251) for graphics and co-hosting. These early experiences gave me perspective on simple community tournaments and how challenging even just running a badged tournament can be.
 
-From there, I started to branch out into hosting, sheeting, mappooling, and casting open rank. In 2020, Corsace Open made a comeback, and for the first time, I saw what a truly well-run tournament looked like. It motivated me to take on the challenge of making my own. This gave me perspective on how far the envelope could be pushed for community tournaments.
+From there, I started to branch out into hosting, sheeting, mappooling, and casting open rank. [In 2020, Corsace Open made a comeback](https://osu.ppy.sh/community/forums/topics/1607468), and for the first time, I saw what a truly well-run tournament looked like. It motivated me to take on the challenge of making my own. This gave me perspective on how far the envelope could be pushed for community tournaments.
 
 Having run the Perennial for three iterations now, having cast the osu! World Cup for three years, having cast for live events across multiple continents, I cannot say that my perspective of admiration for those pushing the envelope has changed much. Even the biggest tournaments are still community projects run strictly at a loss by people with unending passion for the game, and I have nothing but respect for those who continue to put time, money, and effort into creating fun, memorable, competitive experiences for players and viewers alike.
 
@@ -136,7 +136,7 @@ This community is not necessarily unique in that regard, but the scale on which 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
 
-You recently received a contributor badge for your outstanding contributions to the osu! tournament scene and the World Cups, what does this badge mean to you?
+You recently [received a contributor badge](https://osu.ppy.sh/home/news/2023-11-19-community-contributors-2022-2023) for your outstanding contributions to the osu! tournament scene and the World Cups. What does this badge mean to you?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/news/2024-09-30-the-followpoint-d-i-o-the-charismatic-caster/avatar-D I O.jpg')"></a>
 
@@ -168,7 +168,7 @@ What's the best advice you could give to someone wanting to enter the tournament
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
 
-Just start. Find a tournament that's in a rank range you're familiar with and either use a staff form if they have it or contact the host to see if they are looking for staff. This staffing thing isn't rocket science, there's just a bit of a learning curve while you get the hang of things. If you are unfamiliar with tournaments at all, I would say play some tournaments first, then move into reffing, streaming, and/or casting. If you are a very experienced tournament player, you might be pretty good at mappooling. Regardless, the only way to start staffing is to just do it. Put yourself out there and start.
+Just start. Find a tournament that's in a rank range you're familiar with and either use a staff form if they have it or contact the host to see if they are looking for staff. This staffing thing isn't rocket science, there's just a bit of a learning curve while you get the hang of things. If you aren't familiar with tournaments at all, I would say play some tournaments first, then move into reffing, streaming, and/or casting. If you are a very experienced tournament player, you might be pretty good at mappooling. Regardless, the only way to start staffing is to just do it. Put yourself out there and start.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/news/2024-09-30-the-followpoint-d-i-o-the-charismatic-caster/avatar-Utiba.jpg')"></a>
 
@@ -180,7 +180,7 @@ Who, in your opinion, has had the worst caster curse ever?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/3958619">D I O</a></p>
 
-There are a lot that come to mind, but one that is often overshadowed by its surroundings is [Dohland](https://osu.ppy.sh/users/5220511)'s caster curse on he rack during the 2018 OWC Grand Finals. he rack was holding an FC on NO, Thank You! when [Vaxei](https://osu.ppy.sh/users/4787150) disconnected, and could have potentially carried the USA to a 3v4 victory if not for the caster curse. This ended up forcing a bracket reset as the match went to tiebreaker and the UK won tiebreaker.
+There are a lot that come to mind, but one that is often overshadowed by its surroundings is [Dohland](https://osu.ppy.sh/users/5220511)'s caster curse on [he rack](https://osu.ppy.sh/users/2644828) during the 2018 OWC Grand Finals. he rack was holding an FC on [NO, Thank You!](https://osu.ppy.sh/beatmapsets/19532#osu/68624) when [Vaxei](https://osu.ppy.sh/users/4787150) disconnected, and could have potentially carried the USA to a 3v4 victory if not for the caster curse. This ended up forcing a bracket reset as the match went to tiebreaker, where the UK won.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/7YCNtnQNbD4?start=4710" frameborder="0" allowfullscreen></iframe>
@@ -206,7 +206,7 @@ I memorized a Chinese copypasta and said it live during Corsace Closed Grand Fin
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
 
-One final question before we go, do you still see yourself in the tournament scene in 5 years?
+One final question before we go: do you still see yourself in the tournament scene in 5 years?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/news/2024-09-30-the-followpoint-d-i-o-the-charismatic-caster/avatar-D I O.jpg')"></a>
 
