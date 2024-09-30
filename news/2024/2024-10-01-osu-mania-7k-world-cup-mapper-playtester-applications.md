@@ -1,6 +1,6 @@
 ---
 layout: post
-title: osu! World Cup 2024 and osu! mania 7K 2025 Staff Applications
+title: osu! World Cup 2024 and osu! mania 7K World Cup 2025 Staff Applications
 date: 2024-10-01 10:00:00 +0000
 ---
 
