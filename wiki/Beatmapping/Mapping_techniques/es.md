@@ -131,10 +131,10 @@ Si quieres saber cómo hacer buenos sliders, échale un vistazo al artículo [C�
 - [Cruces de Krisom](Sliders#cruces-de-krisom)
 - [Sliders arcoíris](Sliders#sliders-arcoíris)
 - [Slider Art](Sliders#slider-art)
-- [Spider Sliders](Sliders#spider-sliders)
 - [Sliders en forma de araña](Sliders#sliders-en-forma-de-araña)
+- [Sliders en espiral](Sliders#sliders-en-espiral)
 - [Sliders en forma de ola](Sliders#sliders-en-forma-de-ola)
-- [Sliders con forma de molino de viento](Sliders#sliders-con-forma-de-molino-de-viento)
+- [Sliders en forma de molino de viento](Sliders#sliders-en-forma-de-molino-de-viento)
 
 #### Otros
 
