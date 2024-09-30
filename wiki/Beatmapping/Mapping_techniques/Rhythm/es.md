@@ -79,7 +79,7 @@ Esto creará una línea recta.
 
 Nominador: [Beuchi](https://osu.ppy.sh/users/67192)
 
-La formación **centro con extremos** es literalmente un centro con extremos que sobresalen.
+La formación de un **centro con extremos** es literalmente un centro con extremos que sobresalen.
 Esta técnica requiere al menos 8 o 9 objetos que estén a medio pulso uno de otro.
 Esto obligará al jugador no solo a moverse en sentido circular, sino también a volver al centro tras golpear un objeto.
 En general, se trata básicamente de la técnica [diamantes QQ](/wiki/Beatmapping/Mapping_techniques/Formations#diamantes-qq) con un centro para cada dos objetos.
@@ -108,7 +108,7 @@ Nominador: [Pasonia](https://osu.ppy.sh/users/43345)
 
 El **espaciado hacia afuera** se refiere a los objetos en los que están colocados en distancia, no en tiempo.
 Esta técnica tiene la ventaja de mantener el ritmo de una melodía durante esa sección del mapa.
-Sin embargo, un mapeo de los patrones incorrecto puede dar lugar a un mapa casi injugable.
+Sin embargo, un mapeo incorrecto de los patrones puede dar lugar a un mapa casi injugable.
 
 Básicamente, forma un cuadrado alrededor del centro con 4 círculos.
 Los 4 círculos siguientes se colocan un espacio hacia fuera en la rejilla y así sucesivamente.
