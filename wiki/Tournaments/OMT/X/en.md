@@ -97,6 +97,8 @@ The complete list of player registrations can be found [here](https://docs.googl
 
 ## Mappools
 
+### Finals (week 1)
+
 ### Semifinals
 
 - No Mod
@@ -423,6 +425,8 @@ Sunday, 8 September 2024:
 
 ## Notes
 
+[^ex-fw1-1]: This map has to be played with the Easy mod enabled.
+[^ex-fw1-2]: This map has to be played with the [ScoreV1](/wiki/Gameplay/Score/ScoreV1) win condition.
 [^ex-sf-1]: This map features an exceptionally low [approach rate](/wiki/Beatmap/Approach_rate). 
 [^ex-sf-2]: This map features a special win condition where the player with the highest accuracy wins the map.
 [^ex-qf-1]: This map has to be played with the Easy and Double Time mods enabled.
