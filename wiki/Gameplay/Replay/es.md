@@ -11,7 +11,7 @@ Siempre y cuando el archivo de emulación de la repetición local con una extens
 
 ![](img/Replay_Auto.jpg "Una repetición con Auto, una jugada sin conexión y una jugada en línea con la cuenta del usuario, respectivamente")
 
-Para volver a ver una repetición, mantén presionada la tecla predeterminada grave/tilde (`` ` ``/`~`) (que puede cambiarse en la [barra lateral de opciones en la sección de teclado](/wiki/Client/Options#teclado); dentro del botón `Atajos del teclado`, aparece como **Quick Retry (hold briefly)**) o `Ctrl` + `R` durante un rato.
+Para volver a ver una repetición, mantén presionada la tecla predeterminada grave/tilde (`` ` ``/`~`) (que puede cambiarse en la [barra lateral de opciones en la sección de teclado](/wiki/Client/Options#teclado); dentro del botón `Atajos del teclado`, aparece como **Quick Retry (hold briefly)**) o presiona `Ctrl` + `R` durante unos segundos.
 La pantalla debería oscurecerse y se reproducirá un sonido cuando el reinicio rápido se haya realizado correctamente.
 Si sueltas la tecla antes de tiempo, no podrás realizar el reintento rápido.
 
@@ -33,7 +33,7 @@ Para saltarse el punto inicial/final de la jugada, presiona la tecla `Barra espa
 
 ### Botón de discusión
 
-El botón **solo aparece cuando se ha conectado una cuenta de osu! dentro del juego a Bancho y se puede encontrar la dificultad/beatmap en la lista de beatmaps de osu! (clasificado o no)**.
+El botón **solo aparecerá si se ha conectado una cuenta de osu! dentro del juego a Bancho y se puede encontrar la dificultad/beatmap en la lista de beatmaps de osu! (clasificado o no)**.
 Muestra los comentarios en movimiento de derecha a izquierda dejados por la comunidad en el beatmap.
 
 Haz clic en el botón `Discussion` para ver las opciones disponibles.
@@ -41,7 +41,7 @@ Haz clic en el botón `Discussion` para ver las opciones disponibles.
 ![](img/Replay_discussion.jpg "Opciones del botón de discusión durante una repetición")
 
 Haz clic en `Show Comments` para activar los comentarios sobre el beatmap en el centro de la pantalla.
-Una cuenta con un osu!supporter activo tendrá un botón `Colour` adicional, el cual permite colorear los nuevos comentarios.
+Una cuenta con un osu!supporter activo tendrá un botón `Colour` adicional, el cual permitirá colorear los nuevos comentarios.
 
 ![](img/Replay_discussion_comment.jpg "Haciendo un comentario")
 
@@ -52,7 +52,7 @@ La repetición quedará en pausa, oscurecida y con el logo de osu! en primer pla
 
 Para filtrar los comentarios por dificultad, activa `Difficulty (#)`.
 Para filtrar los comentarios del beatmap en general, activa `Song (#)`.
-Cuando estés viendo la jugada de un top en la tabla de `Clasificación global`, activa la opción `Player (#)` para que se muestren los comentarios del propio jugador.
+Cuando estés viendo la jugada de algún jugador en la tabla de `Clasificación global`, activa la opción `Player (#)` para que se muestren los comentarios del propio jugador.
 
 Los comentarios del mapper se colocarán encima de los comentarios en movimiento con un texto en azul claro y una animación de salto hacia fuera/salto hacia dentro.
 Dependiendo de la resolución, puede estar obstruido por un aviso de **UNRANKED** al ver una repetición de Auto.
@@ -135,7 +135,7 @@ Vuelve al *selector de canciones* y se actualizarán los cambios para esta repet
 
 Para acceder a esta pantalla, muere en el mapa agotando la barra de salud por completo, o no consigas llenar el 50 % o más de la barra de salud antes del final de la dificultad en osu!taiko.
 
-En la pantalla de fin del juego, presiona la tecla `F1` para repetir la jugada fallida.
+En la pantalla de fin del juego, presiona la tecla `F1` para ver la repetición de la jugada fallida.
 La repetición finaliza cuando la pantalla se oscurece, con el logo de osu! en el centro, en lugar de la pantalla de fin del juego.
 
 Para guardar tu jugada fallida como una repetición, presiona `F2` en la pantalla de fin del juego.
@@ -163,7 +163,7 @@ Los elementos del modo multijugador no se guardarán como se muestra en la compa
 Como el modo espectador requiere acceso a la [consola extendida del chat](/wiki/Client/Interface/Chat_console#consola-de-chat-ampliada), inicia sesión con una cuenta activa en el juego y conéctate a Bancho.
 
 Después de eso, presiona `F9` para acceder a la consola extendida del chat y elige a un jugador para verlo jugar.
-Asegúrate de tener la **misma** dificultad/beatmap que el jugador, o aparecerá un pequeño recuadro rojo de advertencia en la parte inferior derecha por no tener la dificultad/beatmap especificado, por lo que no habrá repetición para el espectador.
+Asegúrate de tener la **misma** dificultad/beatmap que el jugador, o aparecerá un pequeño recuadro rojo de advertencia en la parte inferior derecha por no tener la dificultad/beatmap especificado, por lo que no habrá una repetición para el espectador.
 Al salir de la consola extendida del chat se iniciará la repetición para el espectador si ambos, espectador y jugador, tienen la misma dificultad/beatmap.
 
 Se abrirá una pestaña `#spectator` en la consola del chat (tanto para el espectador como para el jugador) para hablar sobre la jugada del jugador.
@@ -215,12 +215,12 @@ La barra lateral de opciones no se puede volver a abrir mientras se juega o en l
 
 ![](img/Replay_server.jpg "A la izquierda, se está descargando la repetición desde el servidor; a la derecha, la repetición en cuestión")
 
-Las repeticiones en el servidor están reservadas para las 50 mejores puntuaciones en la tabla de clasificación global de una dificultad/beatmap.
+Las repeticiones en el servidor están reservadas para las 1000 mejores puntuaciones en la tabla de clasificación global de una dificultad/beatmap.
 La repetición se guardará en el servidor.
 Se puede exportar o descargar y ver inmediatamente si se solicita.
 
 Al ver una repetición del servidor (excluidas las repeticiones exportadas), el perfil del jugador de la repetición recibirá un incremento de uno (1) en el contador de «Repeticiones vistas por otros».
-Si se añade una nueva puntuación en el top 50 global, se eliminará la repetición del servidor del anterior poseedor de la posición \#50.
+Si se añade una nueva puntuación en el puesto 1000 global, se eliminará la repetición del servidor del anterior poseedor de la posición \#1000.
 
 Para ver una repetición del servidor, es necesario iniciar sesión con una cuenta de osu! y estar conectado a Bancho.
 En el *selector de canciones* de `Solo`, cambia la tabla de clasificación a `Ranking mundial` y haz clic en el jugador que prefieras de la tabla para ver la repetición.
