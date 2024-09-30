@@ -26,6 +26,7 @@ Torneos oficiales organizados por el osu! team.
 | [osu! World Cup 2021](OWC/2021) | 9/10/2021 | 28/11/2021 | ::{ flag=US }:: Estados Unidos | ::{ flag=DE }:: Alemania | ::{ flag=KR }:: Corea del Sur |
 | [osu! World Cup 2022](OWC/2022) | 15/10/2022 | 27/11/2022 | ::{ flag=US }:: Estados Unidos | ::{ flag=KR }:: Corea del Sur | ::{ flag=DE }:: Alemania |
 | [osu! World Cup 2023](OWC/2023) | 21/10/2023 | 3/12/2023 | ::{ flag=US }:: Estados Unidos | ::{ flag=KR }:: Corea del Sur | ::{ flag=AU }:: Australia |
+| [osu! World Cup 2024](OWC/2024) | 26/10/2024 | 08/12/2024 | *Por decidirse* | *Por decidirse* | *Por decidirse* |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko World Cup
 
@@ -86,7 +87,7 @@ Torneos oficiales organizados por el osu! team.
 | [osu!mania 7K World Cup 2023](MWC/2023_7K) | 15/12/2022 | 18/2/2023 | ::{ flag=PH }:: Filipinas | ::{ flag=KR }:: Corea del Sur | ::{ flag=MY }:: Malasia |
 | [osu!mania 4K World Cup 2023](MWC/2023_4K) | 13/7/2023 | 24/9/2023 | ::{ flag=US }:: Estados Unidos | ::{ flag=KR }:: Corea del Sur | ::{ flag=ID }:: Indonesia |
 | [osu!mania 7K World Cup 2024](MWC/2024_7K) | 15/12/2023 | 25/2/2024 | ::{ flag=KR }:: Corea del Sur | ::{ flag=MY }:: Malasia | ::{ flag=PH }:: Filipinas |
-| [osu!mania 4K World Cup 2024](MWC/2024_4K) | 18/7/2024 | 29/9/2024 | *Por decidirse* | *Por decidirse* | *Por decidirse* |
+| [osu!mania 4K World Cup 2024](MWC/2024_4K) | 18/7/2024 | 29/9/2024 | ::{ flag=US }:: Estados Unidos | ::{ flag=CN }:: China | ::{ flag=TH }:: Tailandia |
 
 ## Comunidad
 
