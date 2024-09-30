@@ -68,7 +68,7 @@ The collection featured a range of products such as:
 
 ![osu! tablet](img/osu-tablet.jpg)
 
-*See also: [osu!tablet official thread](https://osu.ppy.sh/community/forums/topics/169139)*
+*See also: [osu!tablet official thread](https://osu.ppy.sh/community/forums/topics/169139)*\
 *For troubleshooting steps related to the product, see: [Store archive § osu!tablet](/wiki/Help_centre/Store/Store_archive#osu-tablet)*
 
 The **osu!tablet** was an official osu!-branded graphic tablet made in partnership with the electronics company [HUION](https://www.huion.com/). It was designed by ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765) and was released as an affordable alternative for those who simply wanted to buy a graphic tablet to play osu!.
@@ -81,7 +81,7 @@ The product ran for two versions: the original "[osu!tablet v1](https://www.yout
 
 *For the news post, see: [osu! Beatmap Blueprints Available & Contest Details](https://osu.ppy.sh/home/news/2015-03-20-osu-beatmap-blueprints-available-contest)*
 
-The **osu! beatmap blueprints** were a reusable sticker sets featuring various elements of the game such as hitcircles, sliders, approach circles, [hit judgements](/wiki/Gameplay/Judgement/osu!), and the osu! logo itself. The product was sold in 2015 as a mean for users to create "life-sized beatmaps in real life".
+The **osu! beatmap blueprints** were a reusable sticker sets featuring various elements of the game such as hitcircles, sliders, approach circles, [hit judgements](/wiki/Gameplay/Judgement/osu!), and the osu! logo itself. The product was sold in 2015 as a means for users to create "life-sized beatmaps in real life".
 
 Alongside its release, a special [Beatmap Blueprint Contest](https://osu.ppy.sh/community/forums/topics/312138?n=1) was briefly held before later abandoned due to the low number of entries.
 
@@ -89,7 +89,7 @@ Alongside its release, a special [Beatmap Blueprint Contest](https://osu.ppy.sh/
 
 ![osu!keyboard](img/osu-keyboard.jpg)
 
-*For the news post, see: [osu!weekly #12](https://osu.ppy.sh/home/news/2015-05-30-osuweekly-12)*
+*For the news post, see: [osu!weekly #12](https://osu.ppy.sh/home/news/2015-05-30-osuweekly-12)*\
 *For troubleshooting steps related to the product, see: [Store archive § osu!keyboard](/wiki/Help_centre/Store/Store_archive#osu!keyboard)*
 
 The **osu!keyboard**, also known as the **osu!nono**, was a two-buttoned mechanical keyboard specifically designed for osu! play. Each purchase of the osu!keyboard came along with [a pair of osu!-branded keycaps](http://puu.sh/jnEsK/1153c92c10.png).
@@ -100,10 +100,10 @@ The product was first sold in 2015 before it was discontinued in 2017 citing [a 
 
 ![osu!go](img/osu-go.jpg)
 
-*For the news post, see: [osu!weekly #48](https://osu.ppy.sh/home/news/2016-02-16-osuweekly-48)*
+*For the news post, see: [osu!weekly #48](https://osu.ppy.sh/home/news/2016-02-16-osuweekly-48)*\
 *For troubleshooting steps related to the product, see: [Store archive § osu!go](/wiki/Help_centre/Store/Store_archive#osu!go)*
 
-The **osu!go** was a robust USB stick pre-loaded with the osu! client within. It boasted a transfer speed that were close to that of SSDs and was designed for players who wanted to play osu! on-the-go (hence its name).
+The **osu!go** was a robust USB stick pre-loaded with the osu! client within. It boasted a transfer speed that was close to that of SSDs and was designed for players who wanted to play osu! on-the-go (hence its name).
 
 The product was sold in 2016 along with the osu!mug.
 
