@@ -226,6 +226,31 @@ The complete list of player registrations can be found [here](https://docs.googl
 
 ## Match results
 
+### Semifinals
+
+Friday, 27 September 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [ohshitweeb](https://osu.ppy.sh/users/12999285) ::{ flag=MY }:: | 2 | **6** | ::{ flag=MY }:: **[Jolene](https://osu.ppy.sh/users/13626098)** | [#1](https://osu.ppy.sh/community/matches/115647570) |
+| Lower | **[Chibi Maruko](https://osu.ppy.sh/users/5585377)** ::{ flag=MY }:: | **6** | 2 | ::{ flag=MY }:: [Snowy5441](https://osu.ppy.sh/users/13865320) | [#1](https://osu.ppy.sh/community/matches/115648452) |
+
+Saturday, 28 September 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [Lunasa](https://osu.ppy.sh/users/12999285) ::{ flag=MY }:: | 5 | **6** | ::{ flag=MY }:: **[Rampax](https://osu.ppy.sh/users/13626098)** | [#1](https://osu.ppy.sh/community/matches/115663965) |
+| Lower | **[AHotDawg](https://osu.ppy.sh/users/15271985)** ::{ flag=MY }:: | **6** | 1 | ::{ flag=MY }:: [stumphole145](https://osu.ppy.sh/users/14623152) | [#1](https://osu.ppy.sh/community/matches/115662145) |
+| Lower | [Auxuelus](https://osu.ppy.sh/users/5414124) ::{ flag=MY }:: | 5 | **6** | ::{ flag=MY }:: **[Chiyuu](https://osu.ppy.sh/users/8226107)** | [#1](https://osu.ppy.sh/community/matches/115663054) |
+| Upper | **[wuhua](https://osu.ppy.sh/users/2932510)** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: [Breast](https://osu.ppy.sh/users/11918602) | [#1](https://osu.ppy.sh/community/matches/115662104) |
+
+Sunday, 29 September 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Chiyuu](https://osu.ppy.sh/users/8226107) ::{ flag=MY }:: | 2 | **6** | ::{ flag=MY }:: **[Chibi Maruko](https://osu.ppy.sh/users/5585377)** | [#1](https://osu.ppy.sh/community/matches/115677859) |
+| Lower | **[AHotDawg](https://osu.ppy.sh/users/15271985)** ::{ flag=MY }:: | **6** | 4 | ::{ flag=MY }:: [Jolene](https://osu.ppy.sh/users/13626098) | [#1](https://osu.ppy.sh/community/matches/115673985) |
+
 ### Quarterfinals
 
 Thursday, 19 September 2024:
@@ -306,7 +331,7 @@ Sunday, 8 September 2024:
 
 1. Match lobbies across the tournament will adhere to the following room settings:
    - Team Mode: `Head-to-head`
-   - Win Condition: [`ScoreV2`](/wiki/Gameplay/Score#scorev2)
+   - Win Condition: [`ScoreV2`](/wiki/Gameplay/Score#scorev2) (unless specified otherwise)
 2. The mappools for each round will be announced by the tournament management in advance before the actual matches take place.
 3. Match schedules will be predetermined by the tournament management. If there are any teams who are unable to attend the current schedule for any reason, all other affected teams may apply and settle for a reschedule at the `#scheduling` channel in the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
