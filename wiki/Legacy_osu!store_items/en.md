@@ -2,6 +2,7 @@
 tags:
   - store
   - merchandise
+  - legacy
 ---
 
 # Past osu!store items
