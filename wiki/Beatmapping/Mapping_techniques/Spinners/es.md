@@ -4,7 +4,7 @@ outdated: true
 
 # Técnicas de mapping para los spinners
 
-## Additional Effects
+## Efectos adicionales
 
 ### Nota después de un spinner
 
@@ -34,7 +34,7 @@ Los **spinners dobles** se explican por sí solos.
 Se colocan dos spinners uno detrás del otro, normalmente para crear un hitsound para el siguiente spinner sin usar un círculo o una [nota antes del spinner](#nota-antes-de-un-spinner).
 
 Hay mapas clasificados que usan 3 spinners seguidos pero son muy raros.
-El uso habitual de esta técnica es antes de una pausa o cerca del final de una canción.
+El uso habitual de esta técnica es antes de un descanso o cerca del final de una canción.
 
 ### Spinner final
 
@@ -45,6 +45,6 @@ Se trata de un spinner que es el último objeto del beatmap.
 
 ### Spinners cortos
 
-*No debe confundirse con los [ninja spinners](/wiki/Beatmapping/Mapping_techniques/Unrankable#ninja-spinners).*
+*No deben confundirse con los [ninja spinners](/wiki/Beatmapping/Mapping_techniques/Unrankable#ninja-spinners).*
 
 ¯\\\_(ツ)\_/¯
