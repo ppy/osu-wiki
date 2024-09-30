@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Followpoint: D I O, the Charismatic Caster"
-date: 2024-09-30 17:00:00 +0000
+date: 2024-09-30 22:00:00 +0000
 series: The Followpoint
 ---
 
