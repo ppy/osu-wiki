@@ -9,7 +9,7 @@ outdated: true
 - [Graveyarded Beatmap Archiving](https://osu.ppy.sh/community/forums/topics/49310) — Un hilo en el foro para solicitar beatmaps del cementerio eliminados.
 - [Live Event Feed](https://osu.ppy.sh/community/forums/topics/9015) — Información en tiempo real sobre las actividades de los jugadores.
   - [Sitio web](https://osu.ppy.sh/p/events)
-- [osu! (OS X)](https://osu.ppy.sh/community/forums/topics/56460) — osu! on OS X (results will vary).
+- [osu! (OS X)](https://osu.ppy.sh/community/forums/topics/56460) — osu! en OS X (los resultados pueden variar).
   - [GitHub](https://github.com/ppy/osu-wine) | [Sitio web](http://osuosx.tumblr.com)
 - [osu! Community Localisation Project](https://osu.ppy.sh/community/forums/topics/104342) — El proyecto de localización de osu!, localiza tu idioma en osu!.
 - [osu! Public Release (2007-09)](https://osu.ppy.sh/community/forums/topics/130144) — Una versión inicial del cliente del juego.
@@ -89,7 +89,7 @@ Herramientas y/o servicios creados por la comunidad de osu!. No dudes en añadir
   - [Sitio web](https://mikuia.tv/)
 - [osu!RequestBot](https://osu.ppy.sh/community/forums/topics/175723) — Realiza un seguimiento de las solicitudes de canciones mientras transmites.
   - [GitHub](https://github.com/RedbackThomson/OsuRequestBot)
-- [osu!StreamCompanion](https://osu.ppy.sh/community/forums/topics/209616) — extractor de información de osu! para streamers en vivo.
+- [osu!StreamCompanion](https://osu.ppy.sh/community/forums/topics/209616) — Extractor de información de osu! para streamers en vivo.
   - [GitHub](https://github.com/Piotrekol/StreamCompanion)
 - Ronnia — Una alternativa para Mikuia con características similares.
   - [GitHub](https://github.com/aticie/ronnia) | [Sitio web](https://ronnia.me/)
@@ -132,11 +132,11 @@ Herramientas y/o servicios creados por la comunidad de osu!. No dudes en añadir
   5. Keysound Maker — Crea keysounds para osu!mania.
      - [GitHub](https://github.com/dudehacker/Osu-Keysound-Maker)
 - [o2jam to osu!mania converter](https://osu.ppy.sh/community/forums/topics/121149) — Un conversor de o2jam a osu!mania.
-- [OMISM](https://osu.ppy.sh/community/forums/topics/664319) — Un conversor de beatmaps de osu!mania a Stepmania (y un copiador de keysound de osu!mania).
+- [OMISM](https://osu.ppy.sh/community/forums/topics/664319) — Un conversor de beatmaps de osu!mania a Stepmania (y un copiador de keysounds de osu!mania).
   - [GitHub](https://github.com/BilliumMoto/OMiSM)
 - [omtrc - osu!mania timerate changer](https://osu.ppy.sh/community/forums/topics/618646) — Un cambio de ritmo para osu!mania.
   - [GitHub](https://github.com/semyon422/omtrc)
-- [osu!HitsoundManager](https://osu.ppy.sh/community/forums/topics/385832) — Una herramienta de hitsounding para osu!mania que copia archivos de hitsound y volumen de los objetos a los objetos y storyboards. Originalmente llamado osu!MagiCopy.
+- [osu!HitsoundManager](https://osu.ppy.sh/community/forums/topics/385832) — Una herramienta de hitsounding para osu!mania que copia archivos de hitsounds y volumen de los objetos a los objetos y storyboards. Originalmente llamado osu!MagiCopy.
 
 ### Proyectos relacionados con la creación de storyboards
 
@@ -152,7 +152,7 @@ Herramientas y/o servicios creados por la comunidad de osu!. No dudes en añadir
 
 - [AIBat](https://osu.ppy.sh/community/forums/topics/55305) — Un intento de facilitar el trabajo de los modders.
   - [GitHub](https://github.com/akrolsmir/AIBat)
-- [Mapset Verifier](https://osu.ppy.sh/community/forums/topics/943895) — Automatizar la detección de problemas según los [criterios de clasificación](/wiki/Ranking_criteria).
+- [Mapset Verifier](https://osu.ppy.sh/community/forums/topics/943895) — Automatiza la detección de problemas según los [criterios de clasificación](/wiki/Ranking_criteria).
   - [GitHub](https://github.com/Naxesss/MapsetVerifier)
 - [Mod Helper](https://osu.ppy.sh/community/forums/topics/527602) — Una sencilla herramienta que te ayudará a manejar BBCode cuando estés modeando.
 - [Osu Distance Checker](https://osu.ppy.sh/community/forums/topics/55305) — Enumera las distintas distancias de los objetos para permitir analizar los posibles errores de espaciado.
