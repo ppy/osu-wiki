@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Sorteos de los torneos
 
 La pantalla de sorteos de los torneos se usa para transmitir en vivo la agrupación de los equipos que competirán en la fase de grupos de un torneo. Solo está disponible en [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
