@@ -79,7 +79,7 @@ Sin embargo, para tu primer mapa suele ser una buena idea simplificarlo y trabaj
 
 Un **stream** es una sucesión de objetos (normalmente círculos) a un ritmo rápido y consistente unos de otros.
 Cuando alguien habla de un «stream», suele referirse a un stream de círculos a un cuarto de pulso el uno del otro.
-Si un jugador quiere referirse a un stream de objetos con una separación de medio pulso entre sí, lo suele llamar «1/2 stream».
+Si un jugador quiere referirse a un stream de objetos con una separación de medio pulso entre sí, lo suele llamar «stream de 1/2».
 Los streams se hicieron populares gracias a la música de beatmania IIDX, Eurobeat, (o música de ritmo rápido/BPM) y remezclas que contienen patrones de batería densos para que un stream encaje bien con la música.
 
 ### Cuándo usarlos
@@ -88,7 +88,7 @@ Los streams se usan mejor en dificultades altas cuando el stream corresponde a s
 En la mayoría de las canciones, esto solo ocurre en ciertas partes de la música, pero ciertos géneros como el Eurobeat tienen muchos lugares donde se pueden poner streams.
 Algunos streams contienen solo círculos, pero otros están mezclados con sliders.
 
-Deberías notar que los instrumentos frecuentemente tienen 3 notas separadas 1/4 una de la otra.
+Deberías notar que los instrumentos frecuentemente tienen 3 notas separadas a 1/4 una de la otra.
 Podrías mapear un stream a cada una de esas instancias, haciendo un mapa con streams frecuentes y cortos.
 
 ### Cuándo no usarlos
