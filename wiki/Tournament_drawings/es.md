@@ -32,11 +32,11 @@ Esta pantalla tiene dos secciones: la principal, a la izquierda, con el mapamund
 Hay 4 botones en el panel de control, vamos a revisarlos:
 
 - **Begin random**
-  - Esto iniciará el proceso de aleatorización, haciendo que las banderas de la pantalla se desplacen.
+  - Este iniciará el proceso de aleatorización, haciendo que las banderas de la pantalla se desplacen.
 - **Stop random**
-  - Esto detendrá el proceso de aleatorización, haciendo que el desplazamiento se ralentice hasta que finalmente se detenga y se centre en una bandera en el centro de la pantalla.
+  - Este detendrá el proceso de aleatorización, haciendo que el desplazamiento se ralentice hasta que finalmente se detenga y se centre en una bandera en el centro de la pantalla.
 - **Reload**
-  - Esto recargará el archivo `drawings.txt`.
+  - Este recargará el archivo `drawings.txt`.
 - **Reset**
   - Este botón debe usarse en raras ocasiones. Es destructivo y borrará los resultados del proceso de los sorteos.
 
