@@ -72,7 +72,7 @@ En la versión [lazer](/wiki/Client/Release_stream/Lazer) de osu!, se implement�
 
 En la osu!web, se añadieron los gráficos del historial de jugadas y del historial de repeticiones vistas por otros (el diseño era temporal) y el recuento de publicaciones en los perfiles de los usuarios. La vista móvil del sitio web tendría ahora un cuadro de búsqueda específico. Los títulos de las páginas se reorganizaron para dar prioridad al nombre de la página (en lugar del nombre del juego) y facilitar la navegación entre pestañas. Los resultados de la búsqueda en el foro estarían ordenados por temas. Gracias a nanaya, las insignias de usuario se mostrarían en las páginas de los usuarios.
 
-El 13 de marzo de 2018, peppy abrió el canal `#ranking-procedures` (ahora llamado `#modding`) en el Discord osu!dev para dar a los BN y miembros del QAT un área para discutir temas sobre los que quieren que se actúe. Esto se hizo para permitir discusiones más transparentes y abiertas, pero también para evitar que personas ajenas asumieran que el «osu! staff» era el que tomaba las decisiones de los BN y los miembros QAT.
+El 13 de marzo de 2018, peppy abrió el canal `#ranking-procedures` (ahora llamado `#modding`) en el Discord osu!dev para dar a los BN y miembros del QAT un área para discutir temas sobre los que quieren que se actúe. Esto se hizo para permitir discusiones más transparentes y abiertas, pero también para evitar que personas ajenas asumieran que el «osu! staff» era el que tomaba las decisiones de los BN y los miembros del QAT.
 
 La MWC 7K 2018 concluyó con Corea del Sur, Malasia y China ocupando el primer, segundo y tercer puesto, respectivamente.
 
