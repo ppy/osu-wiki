@@ -31,6 +31,8 @@ There are some criteria that need to be met for beatmaps to be nominated for Lov
 - At least one difficulty can be passed
 - Every nominated difficulty has a [drain time](/wiki/Beatmap/Drain_time) of at least 20 seconds
 
+Although many unranked beatmaps meet these criteria, few are voted into the Loved category due to the selective nature of the captains' picks, and the high community approval requirement by voting.
+
 ### Updates prior to Loved
 
 In some cases, beatmaps may be nominated despite breaking some of the criteria, as long as the mapper can update it to abide by the criteria prior to Loved. For example, a beatmap with an inappropriate background may be nominated as long as the background is later removed or replaced. An active contributor to Project Loved will usually post on the beatmap's [discussion](/wiki/Beatmap_discussion) if any changes are required.
@@ -87,7 +89,7 @@ There are no strict rules governing which maps a captain must nominate for Loved
 
 ## Website
 
-All of the submitted beatmaps can be seen at the [Loved website](https://loved.sh). 
+The [Loved website](https://loved.sh) serves as the hub for everything related to Project Loved. Here, you can view submitted beatmaps, submit your own, browse past votings, and much more.
 
 The Rating of each beatmap is a score resulting in the reviews of the community.
 Priority however is solely based on the captains' reviews.
