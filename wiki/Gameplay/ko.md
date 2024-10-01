@@ -15,5 +15,3 @@ outdated_since: 8b4224f1287d609d0b6b564055ef2cbca4a694e5
 - [슬라이더 브레이크](/wiki/Gameplay/Judgement/Slider_break)
 - [관전](/wiki/Gameplay/Spectating)
 - [타블렛](/wiki/Gameplay/Tablet_cover)
-
-<!-- TODO: category needs some fleshing out and this index probably shouldn't be empty -->

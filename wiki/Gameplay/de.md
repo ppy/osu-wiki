@@ -33,5 +33,3 @@ outdated_since: c1d5cd789af311f22298f85306f46780d685ff21
 - [Tablet-Abdeckung](/wiki/Gameplay/Tablet_cover)
 - [Walk](/wiki/Gameplay/Walk)
 - [Zuschauen](/wiki/Gameplay/Spectating)
-
-<!-- TODO: category needs some fleshing out and this index probably shouldn't be empty -->
