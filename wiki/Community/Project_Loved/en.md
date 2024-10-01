@@ -108,5 +108,5 @@ In addition to the discussion channels mentioned above, there are dedicated hubs
 
 - [osu! Project Loved Discord server](https://discord.gg/gn58Uk5sTE)
 - [osu!taiko Project Loved Discord server](https://discord.com/invite/GhfjtZ6)
-- [osu!catch Project Loved Discord server](https://discord.gg/Ededv7m)
-- [osu!mania Project Loved Discord server](https://discord.gg/phgtyS4UCh)
+- [osu!catch Project Loved Discord server](https://discord.gg/phgtyS4UCh)
+- [osu!mania Project Loved Discord server](https://discord.gg/Ededv7m)
