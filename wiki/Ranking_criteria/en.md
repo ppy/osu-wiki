@@ -129,7 +129,7 @@ Important to understand before using:
 ### Rules
 
 - **The audio file of a beatmap must...**
-  - **...be encoded in MP3 (`.mp3`) or Ogg Vorbis (`.ogg`)**
+  - **...be encoded in MP3 (`.mp3`) or Ogg Vorbis (`.ogg`).**
   - **...have an average bit rate no greater than 192 kbps for `.mp3` files, or 208 kbps for `.ogg` files.**
   - **...have an average bit rate no lower than 128 kbps**, if such a source exists. Otherwise, use the highest quality available.
   - **...not be encoded upwards from a lower bitrate.**
