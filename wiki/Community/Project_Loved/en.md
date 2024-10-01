@@ -94,10 +94,10 @@ Priority however is solely based on the captains' reviews.
 Reviews can be seen and added by clicking on the arrow on the left of the beatmaps name.
 ![Review](img/Review.png)
 
-Upon receiving a recent review, a beatmap will be highlighted in white.
+Upon receiving a review, a beatmap will be highlighted in white for a while.
 ![Recent Review](img/Recent%20Review.png)
 
-Beatmaps that are in the voting will be moved to the top of the page in each gamemode and highlighted in green.
+Beatmaps that are in the voting process will be moved to the top of the page in each gamemode and highlighted in green.
 ![Voting](img/Voting.png)
 
 ## Further information
