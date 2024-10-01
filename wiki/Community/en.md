@@ -4,10 +4,11 @@ This page lists ways for people from all around osu! to get in touch with each o
 
 ## Places
 
+- [cavoe's osu! event](/wiki/Community/cavoe's_osu!_event)
 - [Community Discord servers](/wiki/Community/Discord_servers)
 - [Forum](/wiki/Community/Forum)
 - [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat) (IRC)
-- [osu! Discord server](/wiki/Community/Discord_servers#official)
+- [Discord servers](/wiki/Community/Discord_servers#official)
 - [Offline organisations](/wiki/Community/Organisations)
 
 ## Projects
@@ -21,6 +22,7 @@ This page lists ways for people from all around osu! to get in touch with each o
 - [osu!monthly](/wiki/Community/osu!monthly)
 - [Project Loved](/wiki/Community/Project_Loved)
 - [Video series](/wiki/Community/Video_series)
+  - [lazer updates](/wiki/Community/Video_series/lazer_updates)
   - [osu!academy](/wiki/Community/Video_series/osu!academy)
   - [osu!mapping](/wiki/Community/Video_series/osu!mapping)
   - [osu!talk](/wiki/Community/Video_series/osu!talk)
