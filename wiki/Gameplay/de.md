@@ -5,19 +5,19 @@ outdated_since: c1d5cd789af311f22298f85306f46780d685ff21
 
 # Gameplay
 
-- [Genauigkeit](/wiki/Gameplay/Accuracy)
+- [Beurteilung](/wiki/Gameplay/Judgement)
 - [Choke](/wiki/Gameplay/Choke)
 - [Combo (Punktemultiplikator)](/wiki/Gameplay/Combo_(score_multiplier))
 - [Combo-Feuer](/wiki/Gameplay/Combo_fire)
 - [Combo-Meilensteine](/wiki/Gameplay/Combo_milestone)
 - [Combo-Multiplikatoreffekt](/wiki/Gameplay/Combo_multiplier_effect)
-- [Comboburst](/wiki/Gameplay/Comboburst)
+- [Combo-Bilder](/wiki/Gameplay/Comboburst)
 - [Dash](/wiki/Gameplay/Dash)
 - [Dash-Snapping](/wiki/Gameplay/Dash_snapping)
 - [Drain-Zeit](/wiki/Beatmap/Drain_time)
 - [Edge-Dash](/wiki/Gameplay/Edge_dash)
 - [Fingerlock](/wiki/Gameplay/Fingerlock)
-- [Note](/wiki/Gameplay/Grade)
+- [Genauigkeit](/wiki/Gameplay/Accuracy)
 - [Hyperdash](/wiki/Gameplay/Hyperdash)
 - [Eingabegerät](/wiki/Gameplay/Input_device)
 - [Beurteilung](/wiki/Gameplay/Judgement)
@@ -29,8 +29,9 @@ outdated_since: c1d5cd789af311f22298f85306f46780d685ff21
 - [Replay](/wiki/Gameplay/Replay)
 - [Score](/wiki/Gameplay/Score)
 - [Sliderbreak](/wiki/Gameplay/Judgement/Slider_break)
-- [Zuschauen](/wiki/Gameplay/Spectating)
+- [Spielzeit](/wiki/Beatmap/Play_time)
 - [Tablet-Abdeckung](/wiki/Gameplay/Tablet_cover)
 - [Walk](/wiki/Gameplay/Walk)
+- [Zuschauen](/wiki/Gameplay/Spectating)
 
 <!-- TODO: category needs some fleshing out and this index probably shouldn't be empty -->

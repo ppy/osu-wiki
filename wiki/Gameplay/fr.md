@@ -30,6 +30,7 @@ no_native_review: true
 - [Slider break](/wiki/Gameplay/Judgement/Slider_break)
 - [Spectateur](/wiki/Gameplay/Spectating)
 - [Spinner trap](/wiki/Gameplay/Spinner_trap)
+- [Style de jeu](/wiki/Gameplay/Play_style)
 - [Temps de jeu](/wiki/Beatmap/Play_time)
 - [Unstable rate](Unstable_rate)
 - [Walk](/wiki/Gameplay/Walk)
