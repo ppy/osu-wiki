@@ -9,7 +9,7 @@
 - [Comboburst](/wiki/Gameplay/Comboburst)
 - [Dash](/wiki/Gameplay/Dash)
 - [Dash snapping](/wiki/Gameplay/Dash_snapping)
-- [Drain Time](/wiki/Beatmap/Drain_time)
+- [Drain time](/wiki/Beatmap/Drain_time)
 - [Edge dash](/wiki/Gameplay/Edge_dash)
 - [Fingerlock](/wiki/Gameplay/Fingerlock)
 - [Grade](/wiki/Gameplay/Grade)
