@@ -8,15 +8,15 @@ Looking for osu!mania 7K playtesters, as well as referees for the current osu! W
 
 ![](/wiki/shared/news/banners/OWC_Master_Logo.png)
 
-As with every year, we are looking to recruit talented individuals from the community to help us make the osu! World Cup project a success. This time around, we are looking for both playtersters and referees.
+As with every year, we are looking to recruit talented individuals from the community to help us make the osu! World Cup project a success. This time around, we are looking for both playtesters and referees.
 
-### osu!mania 7K World Cup 2025 Playtester
+### osu!mania 7K World Cup 2025 playtester
 
 Playtesters will be responsible for playing and giving feedback for a plethora of beatmaps (as requested by the mappooling team) to gauge aspects such as difficulty, suitability for a certain slot, and/or skill representativity among others (specific workflows vary for each team). Playtesters are generally expected to have considerable skill on their respective game mode.
 
 [osu!mania 7K 2025 playtester application form](https://forms.gle/RVH9DcKMg1RFNAXNA)
 
-### osu! World Cup 2024 Referee
+### osu! World Cup 2024 referee
 
 Referees will be in charge of coordinating both qualifier and bracket stage matches, keeping track of picks and bans, and ensuring teams are respecting the rules. Referees are expected to have experience across many tournaments, irrespective of game mode. Availability to help in other osu! World Cups is a definite plus.
 
