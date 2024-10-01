@@ -89,7 +89,7 @@ There are no strict rules governing which maps a captain must nominate for Loved
 
 ## Website
 
-The [Loved website](https://loved.sh) serves as the hub for everything related to Project Loved. Here, you can view submitted beatmaps, submit your own, browse past votings, and much more.
+The [Loved website](https://loved.sh) serves as the hub for everything related to Project Loved. Here, you can view submitted beatmaps, submit your own, browse past votings, and much more.It is also used by the [Project Loved Team](/wiki/People/Project_Loved_Team) to handle several miscellaneous tasks when nominating maps.
 
 The Rating of each beatmap is a score resulting in the reviews of the community.
 Priority however is solely based on the captains' reviews.
