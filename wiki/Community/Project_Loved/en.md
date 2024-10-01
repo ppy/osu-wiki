@@ -37,7 +37,7 @@ In some cases, beatmaps may be nominated despite breaking some of the criteria, 
 
 Additionally, contributors to Project Loved often make technical suggestions, such as improvements to audio quality, [timing](/wiki/Beatmapping/Timing) accuracy, or [metadata standardisation as recommended by the ranking criteria](/wiki/Ranking_criteria/Metadata). The mapper is strongly encouraged to apply these suggestions, but they are not required to.
 
-### osu!standard-specific criteria
+### osu!-specific criteria
 
 Beatmaps of the osu! game mode considered for Loved follow the following categories as well as the rules and guidelines below, which are similar to the [ranking criteria](/wiki/Ranking_criteria), but adapted for the more lenient process Project Loved is known for.
 
@@ -95,7 +95,7 @@ Reviews can be seen and added by clicking on the arrow on the left of the beatma
 ![Review](img/Review.png)
 
 Upon receiving a review, a beatmap will be highlighted in white for a while.
-![Recent Review](img/Recent%20Review.png)
+![Recent Review](img/Recent_Review.png)
 
 Beatmaps that are in the voting process will be moved to the top of the page in each gamemode and highlighted in green.
 ![Voting](img/Voting.png)
