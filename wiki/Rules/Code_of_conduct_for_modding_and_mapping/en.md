@@ -19,7 +19,7 @@ The **code of conduct for modding and mapping** is a set of rules and guidelines
 
 ## Further exchange and discussion
 
-Sometimes, discussions will be drawn-out, and a single mod and response isn't enough to bring all parties to agreement. Perhaps the mapper doesn't agree with a suggestion, and the modder isn't satisfied with their response. Ideally, all discussions should find closure.
+Sometimes, discussions will be drawn-out, and a single mod and response isn't enough to bring all parties to agreement. Perhaps the mapper doesn't agree with a suggestion, and the modder isn't satisfied with their response. Ideally, all discussions should find closure within a reasonable timeframe.
 
 Consider the following guidelines when an agreement cannot be reached:
 
