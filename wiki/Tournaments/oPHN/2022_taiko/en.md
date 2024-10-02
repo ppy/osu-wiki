@@ -283,17 +283,18 @@ This competition has come to an end and resulted in the following podium:
 
 ### General rules
 
-1. This is an osu!taiko, double-elimination, IVI tournament, which is open for players globally ranked from #1000 to #10000 (inclusive) with the Philippine flag on their profile. Filipino players without the Philippine flag on their profile may present a proof of their Philippine citizenship in order to join. Hosts, poolers (custom mappers and playtesters included), and referees are strictly not allowed to play.
-2. Matches will use ScoreV2 and NoFaiI in Head-to-Head mode.
+1. This is an osu!taiko, double-elimination, 1v1 tournament open to players globally ranked #1000 to #10000 with the Philippine flag on their profile. Filipino players without the Philippine flag on their profile may present a proof of their Philippine citizenship in order to join. Hosts, poolers (custom mappers and playtesters included), and referees are strictly not allowed to play.
+2. Matches will use ScoreV2 and No Fail in Head-to-head mode.
 3. Players and staff must be treated with respect. Instructions from the hosts and referees are to be followed. Abusing the rules and poor sportsmanship may result in disqualification from the entire tournament.
 4. Any modification from the ruleset will be announced. Players must be active on the tournament's discord server in the case of these modifications.
 
 ### Mappool structure
 
-- There will be separate mappools for each stage. Each mappool contains the following mod brackets: NoMod, Hidden, HardRock, DoubleTime, ForceMod, and Tiebreaker. There will be no Tiebreaker for Qualifiers.
-  - DoubleTime can be played as Nightcore if all players in the lobby agree to it.
-  - ForceMod will be played either with Hidden, HardRock, or Hidden + HardRock.
-  - Tiebreaker will be played with NoMod and will be only played in case of a tie.
+- There will be separate mappools for each stage. Each mappool contains the following mod brackets: No Mod, Hidden, Hard Rock, Double Time, Force Mod, and Tiebreaker. There will be no Tiebreaker for Qualifiers.
+  - Double Time can be played as Nightcore if all players in the lobby agree to it.
+  - Force Mod will be played either with Hidden, Hard Rock, or Hidden + Hard Rock.
+  - Tiebreaker will be played with No Mod and will be only played in case of a tie.
+
 - The win condition and mappool size per stage are as follows:
 
 | Round stage | Best of | NM | HD | HR | DT | FM | TB |
@@ -304,12 +305,12 @@ This competition has come to an end and resulted in the following podium:
 | Quarterfinals | 11 | 5 | 2 | 2 | 2 | 3 | 1 |
 | Semifinals | 13 | 6 | 2 | 2 | 2 | 3 | 1 |
 | Finals | 13 | 6 | 2 | 2 | 2 | 3 | 1 |
-| Grand finals | 13 | 6 | 2 | 2 | 2 | 3 | 1 |
+| Grand Finals | 13 | 6 | 2 | 2 | 2 | 3 | 1 |
 
 ### Qualifiers regulations
 
 1. Players must sign up to one of the qualifier lobbies provided by the hosts. Instructions will be announced after the Qualifiers mappool showcase. Players may request a special lobby if needed, as long as a referee is available at the requested time. A player that doesn't pick a time slot before Thursday 23:59 will be disqualified.
-2. There will be no warmups for all qualifiers lobbies. The mappool will be played twice during a lobby, and will be played in the following order: NMI, NM2, HDI, HRI ,DTI, FMI. A 5-minute break will be offered between the first and second run of the mappool, which can be skipped if all players in the lobby are ready. A player may skip certain maps during their second run if they so desire.
+2. There will be no warmups for the qualifiers lobbies. The mappool will be played twice during a lobby, and will be played in the following order: NM1, NM2, HD1, HR1 ,DT1, FM1. A 5-minute break will be offered between the first and second run of the mappool, which can be skipped if all players in the lobby are ready. A player may skip certain maps during their second run if they so desire.
 3. The player's highest score for each map will be used for seeding. Players will be ordered by overall rank, which is computed by taking the average of their rankings on each map. In case of a tie, the sum of the top scores of the tied players are taken into account instead. Sharing of scores before the results showcase is discouraged.
 4. The number of players that will advance to the next stage will depend on the total number of participants. The Group Stage will be anticipated if there are at least 24 registered players.
 
@@ -324,7 +325,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Match regulations
 
-1. Each player is allowed (but not required) to have a warm-up with length below 2:50. Players may request to use DoubleTime if the map length is slightly above the restriction. The players must give the map link to their referee 30 minutes before their match. Otherwise, the player's warm-up is skipped.
+1. Each player is allowed (but not required) to have a warm-up with length below 2:50. Players may request to use Double Time if the map length is slightly above the restriction. The players must give the map link to their referee 30 minutes before their match. Otherwise, the player's warm-up is skipped.
 2. A referee will create a private multiplayer lobby 15 minutes in advance. They will be notifying and sending invites to players near match time. The match can be postponed up to 10 minutes.
 3. Win by default, or WBD, is considered a win without losses (5:0) in favor of the present player. If a player is absent, the other player may either reschedule the match or take the WBD. If both players are absent, both players may either reschedule the match or agree for the higher-seeded player to take the WBD.
 4. Rolls will decide the ban and pick order for each player. The player with the highest roll bans second and picks first while the player with the lowest roll bans first and picks second. Each player must name their bans and picks within 2 minutes. Otherwise, their bans and picks will be decided by a roll.

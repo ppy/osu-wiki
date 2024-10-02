@@ -135,7 +135,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### 4K
 
-#### Grand Finals
+#### Grand finals
 
 - Rice
   1. [Luze - Love Song [Black Dorna] (Valedict) [Heartfelt 1.05x (365bpm)]](https://osu.ppy.sh/beatmapsets/1796541#mania/3682631)
@@ -268,7 +268,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### 7K
 
-#### Grand Finals
+#### Grand finals
 
 - Rice
   1. [ZUN - Phantasm Machine ~ Phantom Factory (spoonguy) [1.1x]](https://osu.ppy.sh/beatmapsets/1280519#mania/2659951)
@@ -379,19 +379,18 @@ This competition has come to an end and resulted in the following podium:
 
 #### Qualifiers
 
-- Stage
-  1. (RC1) [The Flashbulb - Warm Hands In Cold Fog (tyrcs) [Stage 1: Warm Up]](https://osu.ppy.sh/beatmapsets/1996198#mania/4148671)
-  2. (LN1) [ARForest - Clock Atelier (SurfChu85) [Stage 2: Chronosphere]](https://osu.ppy.sh/beatmapsets/1996130#mania/4148528)
-  3. (RC2) [Alestorm - P.A.R.T.Y. (Cut Ver.) (MadBricktree) [Stage 3: Chantey]](https://osu.ppy.sh/beatmapsets/1996212#mania/4148696)
-  4. (LN2) [seatrus - Raindrop (Maxus) [Stage 4 : Precipitation]](https://osu.ppy.sh/beatmapsets/1996154#mania/4148579)
-  5. (RC3) [Mayuri Shiina - Stardust Apoptosis (Makiba) [Stage 5: Interstellar]](https://osu.ppy.sh/beatmapsets/1996274#mania/4148886)
-  6. (HB1) [satie - Skovla (paulkappa) [Stage 6: Forest]](https://osu.ppy.sh/beatmapsets/1996156#mania/4148581)
+1. (RC1) [The Flashbulb - Warm Hands In Cold Fog (tyrcs) [Stage 1: Warm Up]](https://osu.ppy.sh/beatmapsets/1996198#mania/4148671)
+2. (LN1) [ARForest - Clock Atelier (SurfChu85) [Stage 2: Chronosphere]](https://osu.ppy.sh/beatmapsets/1996130#mania/4148528)
+3. (RC2) [Alestorm - P.A.R.T.Y. (Cut Ver.) (MadBricktree) [Stage 3: Chantey]](https://osu.ppy.sh/beatmapsets/1996212#mania/4148696)
+4. (LN2) [seatrus - Raindrop (Maxus) [Stage 4 : Precipitation]](https://osu.ppy.sh/beatmapsets/1996154#mania/4148579)
+5. (RC3) [Mayuri Shiina - Stardust Apoptosis (Makiba) [Stage 5: Interstellar]](https://osu.ppy.sh/beatmapsets/1996274#mania/4148886)
+6. (HB1) [satie - Skovla (paulkappa) [Stage 6: Forest]](https://osu.ppy.sh/beatmapsets/1996156#mania/4148581)
 
 ## Match results
 
 ### 4K
 
-#### Grand Finals
+#### Grand finals
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -449,7 +448,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### 7K
 
-#### Grand Finals
+#### Grand finals
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -507,34 +506,36 @@ This competition has come to an end and resulted in the following podium:
 
 ## Ruleset
 
-### Tournament Organization
+### Tournament organization
 
-#### Gamemode and Introduction
+#### Gamemode and introduction
 
-As the tournament name implies, this is an osu!mania tournament set up as a national championships for the Philippine osu!mania community. This tournament accommodates both 4K and 7K as separate tournaments.
+As the tournament name implies, this is an osu!mania tournament set up as a national championship for the Philippine osu!mania community. This tournament accommodates both 4K and 7K as separate tournaments.
 
-#### General Eligibility Rules
+#### General eligibility rules
 
-Players who currently have (or had at some point since Account Creation) the Philippine Flag on their profile or players who do not have the Philippine Flag on their profiles but **can present a proof of their Philippine Citizenship** to the staff are the only ones allowed to join the tournament.
+Players who currently have (or had at some point since account creation) the Philippine flag on their profile or players who do not have the Philippine flag on their profiles but **can present a proof of their Philippine citizenship** to the staff are the only ones allowed to join the tournament.
 
-Staff Members who are **[NOT Referees, Mappool Selectors, Hosts, nor are part of any managing role](/wiki/Tournaments/Official_support#staff)** are permitted to join the tournament.
+Staff members who are **[not referees, mappool selectors, hosts, nor are part of any managing role](/wiki/Tournaments/Official_support#staff)** are permitted to join the tournament.
 
-#### Round Overview
+#### Round overview
 
 With the exception of the qualification stage (which does not have a winning condition), each tournament round will have a selectable mappool of a certain size, a tiebreaker song, and a winning condition. The format is as follows:
 
-- Qualification Stage: 6 song mappool, no winning condition, no tiebreaker song
-- Round of 32, Round of 16: 12 song mappool, best of 9 (first to 5), one tiebreaker song
-- Quarterfinals: 14 song mappool, best of 11 (first to 6), one tiebreaker song
-- Semifinals, Finals Weeks 1 and 2: 16 song mappool, best of 13 (first to 7), one tiebreaker song
+| Stage | Format | Mappool size |
+| :-- | :-- | :-- |
+| Round of 32 | Best of 9 | 12 FM, 1 TB |
+| Round of 16 | Best of 9 | 12 FM, 1 TB |
+| Quarterfinals | Best of 11 | 14 FM, 1 TB |
+| Semifinals | Best of 11 | 14 FM, 1 TB |
+| Finals | Best of 13 | 16 FM, 1 TB |
+| Grand Finals | Best of 13 | 16 FM, 1 TB |
 
-The tournament is played 1 player versus 1 player
+Mods that are allowed to be used in matches, if the player opts to use them, are Hidden, Flashlight, Fade In, Mirror, and No Fail. In addition, all maps will be played with ScoreV2.
 
-Mods that are allowed to be used in matches, if the player opts to use them, are, Hidden, Flashlight, Fade In, Mirror, and No Fail. In addition, Score v2 is implemented.
+#### Qualification process
 
-#### Qualification Process
-
-All players that enter the tournament will be eligible to play in the qualification round. However, the number of participants who will advance to the next round will be cut down to the nearest power of 2. The maximum number of players who can advance to the subsequent round is 32. The criterion used to determine whether a player will progress to the next round is their performance in the qualification stage.
+All players that enter the tournament will be eligible to play in the qualification round. However, the number of participants who will advance to the next round will be cut down to the nearest power of 2. The maximum number of players who can advance to the bracket stage is 32. The criterion used to determine whether a player will progress to the next round is their performance in the qualification stage.
 
 The qualification round will have a 6-song mappool that widely varies in skillsets tested. These tested skillsets will correspond to skillsets commonly seen in mappools throughout the tournament.
 
@@ -546,19 +547,20 @@ Players will be organized into groups based on their availability. Because quali
 
 Regardless of the number of entrants and eliminations, the qualification process will also be done to seed players. Players will be ordered based on their average score rating on all four songs, with the best average score rating being seed #1, and the worst average score rating being seed n; n being the number of players in the qualification stage.
 
-**Players are discouraged from disclosing, streaming, or discussing their qualifier round scores in public until after the results are finalized. This is to make sure that all of the players will give it their all and avoid seed manipulation.**
+**Players are discouraged from disclosing, streaming, or discussing their qualifier round scores in public until after the results are finalised. This is to make sure that all of the players will give it their all and avoid seed manipulation.**
 
-- Bracket Stage
-- The bracket stage is a double elimination stage. This means that a player who is participating in this stage must lose two matches in this stage to be eliminated from the tournament.
-- The qualifier stage shall determine the seeding, and in consequence, the placements of the players in the bracket. In particular, their opponent for the bracket stage will be (33 - player's GS seed).
-- In a winners bracket match, the player who meets the winning condition in a match will be declared the winner of the match and will move further into the bracket. The loser of the match will fall into the losers bracket.
-- In a losers bracket match, the player who meets the winning condition in a match will be declared the winner of the match and will move further into the bracket. The loser of the match will be eliminated from the tournament.
+#### Bracket stage
+
+- The bracket stage is a double-elimination stage. This means that a player who is participating in this stage must lose two matches in this stage to be eliminated from the tournament.
+- The Qualifier stage shall determine the seeding, and in consequence, the placements of the players in the bracket. In particular, their opponent for the bracket stage will be (33 - player's seed).
+- In a winners-bracket match, the player who meets the winning condition in a match will be declared the winner of the match and will move further in the bracket. The loser of the match will fall into the losers bracket.
+- In a losers-bracket match, the player who meets the winning condition in a match will be declared the winner of the match and will move further in the bracket. The loser of the match will be eliminated from the tournament.
 - Players who are in the winners bracket are required to play in one match in each stage. The only exception to this is if the player is the sole player in winner bracket in the Grand Finals stage, where the player is required to play in up to two matches if the player were to lose his first match in the Grand Finals stage.
 - Players who are in the losers bracket at the start of Quarterfinals week or further are required to play in two matches in a single stage. However, players who lose their first match in the losers bracket in those stages will no longer need to play in any further matches in the tournament, for they are eliminated from the tournament.
 
-### Tournament Play
+### Tournament play
 
-#### Match Protocol
+#### Match protocol
 
 Your matches will be listed in schedules. **It is your duty as a player to properly identify your timeslot and reschedule your match with your opponent as soon as possible if a reschedule is necessary.**
 
@@ -570,24 +572,24 @@ Reschedules will only be considered if both players agree to a time, this needs 
 - For maximal accountability on the PHNM2023 staff, each match will have a primary referee and a backup referee. That way, we will assure you that there will be someone present to handle your tournament match.
 - If both players arrive on time, tournament proceedings will begin promptly at the start time of the match, no earlier and no later.
 - Take care of any responsibilities you may have immediately before and/or after the match, for we will be running on a fixed schedule.
-- If your match starts in less than 5 minutes and you have not been invited to your corresponding multiplayer room, notify any Tournament Staff member who is online on Discord or in-game that you are a player in PHNM2023 and you currently do not have an invitation to your match. They will ameliorate the situation by notifying the designated referees for your match to give you an invitation to your corresponding multiplayer room.
+- If your match starts in less than 5 minutes and you have not been invited to your corresponding multiplayer room, notify any tournament staff member who is online on Discord or in-game that you are a player in PHNM2023 and you currently do not have an invitation to your match. They will ameliorate the situation by notifying the designated referees for your match to give you an invitation to your corresponding multiplayer room.
 
 **It is our right as tournament staff to expect that you will arrive for your matches before your expected time.**
 
 - Players will be given a ten (10) minute grace period after the match start time to enter their room; if they have not entered by this point. The match will be forfeited and the player that has arrived will win by default. However, exceptions will be given to players who were late due to the negligence of the PHNM2023 staff.
-- In the extreme circumstance where both players did not show up, the player with the higher group stage seed in the match-up will advance automatically. In the Post-Qualification stage the player with the higher qualifier seed in the match-up will advance automatically
+- In the extreme circumstance where both players did not show up, the player with the higher seed in the match-up will advance automatically.
 
 **It is your privilege as a player and tournament entrant to have an opinion about the content/structure used in the tournament.**
 
 - You are experiencing this event as a competitor, and every choice made in the process directly affects how you will progress in the tournament.
-- If you dislike something, you are allowed to state your concerns -- however, do so reasonably. Speaking in absolutes or a matter-of-fact tone is the fastest way for an argument to start, especially over an opinionated statement. Keep in mind that some of your fellow competitors and other users on this website will have content that will inevitably be used in the tournament, and it is best advised that you make it clear that it is your opinion so as to not be hurtful.
+- If you dislike something, you are allowed to state your concerns, however, do so reasonably. Speaking in absolutes or a matter-of-fact tone is the fastest way for an argument to start, especially over an opinionated statement. Keep in mind that some of your fellow competitors and other users on this website will have content that will inevitably be used in the tournament, and it is best advised that you make it clear that it is your opinion so as to not be hurtful.
 
 **It is our right as the PHNM2023 staff to reprimand users for intolerable behavior.**
 
 - PHNM2023 staff will have sole discretion over decisions that affect a player's standing in the tournament; however, other members of the tournament may forward any information to staff members that in any way represents uncalled for behavior towards other users or staff in this tournament. Staff members will attempt to escalate serious situations beyond the scope of this event if need be, so be respectful
 - Minor instances will receive warnings, and continued instances will result in forceful removal from the tournament.
 
-#### Warm-up Songs
+#### Warm-up songs
 
 Each player in the match will be allowed one (1) warm-up song to be played, making for two (2) warm-ups in total between both players, although a player may also skip their warm-up upon notification to the referee. All warm-up songs must be osu!mania 4K or 7K specific notecharts, depending on the division, and must be no longer than 3 minutes.
 
@@ -597,11 +599,11 @@ Maps that have a beatmap listing but cannot be downloaded are not allowed for th
 
 Players are advised to avoid using beatmap packs [similar to this](https://osu.ppy.sh/beatmapsets/435387).
 
-Warm-up songs will be on FreeMod, which allows for any special modifications that players see fit for the purpose of warming up properly. Addition of mods like Double Time or Nightcore may be requested to the referee for the warm-up phase only.
+Warm-up songs will be on Free Mod, which allows for any special modifications that players see fit for the purpose of warming up properly. Addition of mods like Double Time or Nightcore may be requested to the referee for the warm-up phase only.
 
-Players who opt to play a warm-up chart before the match proper must submit their warm-up links no longer than 15 minutes before the scheduled start of the match. Players who fail to do so will not be allowed to set a warm-up chart.
+Players who opt to play a warm-up chart before the match proper must submit their warm-up links no more than 15 minutes before the scheduled start of the match. Players who fail to do so will not be allowed to set a warm-up chart.
 
-#### Bans, Protects, Rolls, and Song Selections
+#### Bans, protects, rolls, and song selections
 
 With the exception of warm-ups, all songs played in a given round must match those that are selectable in the corresponding mappool. Similar to the qualification stage, mods that are allowed to be used in matches, if the player opts to use them, are Hidden, Flashlight, Fade In, Mirror, and No Fail.
 
@@ -609,11 +611,11 @@ Players are to ban one (1) map within the map pool that they are playing for the
 
 Players are to protect one (1) map from being banned within the map pool that they are playing for the given round.
 
-Players will be instructed to do a !roll command by the referee that is overseeing the match; the winning (higher) roll picks the first protected map, the losing (lower) roll picks the second protected map and the first ban, finally the winning roll picks the second ban and the first song of the match. In the event that both players get the same roll, they will have to continue doing the !roll command until the tie is broken.
+Players will be instructed to do a `!roll` command by the referee that is overseeing the match. First, the winning (higher) roll picks the first protected map. After that, the losing (lower) roll picks the second protected map and the first ban. Finally the winning roll picks the second ban and the first song of the match. In the event that both players get the same roll, they will have to continue doing the `!roll` command until the tie is broken.
 
-After the bans and rolls have concluded, the player with the winning roll instructs the referee of their song selection, and the referee will switch to that song. After that song concludes, the other player will pick a song, and this process will continue until one of the two conditions is satisfied:
+After the bans and rolls have concluded, the player with the winning roll instructs the referee of their song selection, and the referee will switch to that song. After that song concludes, the other player will pick a song, and this process will continue until one of the following two conditions is satisfied:
 
-- One player has achieved enough wins in such a way that the other player cannot successfully win the round.
+- One player has achieved enough points to win the match. See the above mentioned [win conditions](#round-overview).
   - The winning player moves onto the next match.
   - If the match was in the winner's bracket or during the first round, the losing player falls to the losers bracket. If a player loses in the loser’s bracket, they are eliminated from the tournament.
 - Both players are at match point at the same time.
@@ -622,8 +624,8 @@ After the bans and rolls have concluded, the player with the winning roll instru
 
 Players will have 2 minutes to pick a map and 2 minutes to get ready. Players also allowed to pick their opponent's protect.
 
-- In case a player takes more than 2 minutes to pick a map, they will receive a warning from the referee, on subsequent occurrences the referee will pick a random map available to pick from the mappool using !roll X, where X is the number of available maps to pick in the mappool.
-- Each player is entitled to an optional (not required to be used) time out of two minutes when its their turn to pick. This time out period will only be allowed once per player per match.
+- In case a player takes more than 2 minutes to pick a map, they will receive a warning from the referee, on subsequent occurrences the referee will pick a random map available to pick from the mappool using `!roll X`, where X is the number of available maps to pick in the mappool.
+- Each player is entitled to an optional (not required to be used) timeout of two minutes when its their turn to pick. This timeout period will only be allowed once per player per match.
 
 #### Disconnections
 
@@ -631,7 +633,7 @@ Maps with a player disconnection that occurs within the first 30 seconds, or 25%
 
 Matches will have a two disconnection limit - upon the third disconnection, a point will be handed immediately to the player still active in the multiplayer room.
 
-A two minute timer will be placed on a disconnected player when the song played has concluded. When this timer hits 0, the 10 minute grace period mentioned in Section 2.1 (Protocol) will be (re)activated. If the grace period timer hits 0, the match is forfeited, and the other remaining player will be declared the winner.
+A two minute timer will be placed on a disconnected player when the song played has concluded. When this timer hits 0, the 10 minute grace period mentioned in the [match protocol](#match-protocol) section will be (re)activated. If the grace period timer hits 0, the match is forfeited, and the other remaining player will be declared the winner.
 
 Situations with two player disconnections will be executed similarly to two missing players for a given match: the higher seed will be declared the winner if both players have no time left in their grace period.
 

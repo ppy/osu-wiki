@@ -634,7 +634,7 @@ As the tournament name implies, this is an osu!mania tournament set up as a nati
 
 #### General eligibility rules
 
-Players who currently have (or had at some point since account creation) the Philippines' flag on their profile or players who do not have the Philippines' flag on their profiles but can present a proof of their Philippine citizenship to the staff are the only ones allowed to join the tournament. Staff members who are **not** referees, mappool selectors, hosts, nor part of any management role are permitted to join the tournament.
+Players who currently have (or had at some point since account creation) the Philippine flag on their profile or players who do not have the Philippine flag on their profiles but can present a proof of their Philippine citizenship to the staff are the only ones allowed to join the tournament. Staff members who are **not** referees, mappool selectors, hosts, nor part of any management role are permitted to join the tournament.
 
 #### Round overview
 
@@ -677,19 +677,19 @@ The number of players in each pot are as follows:
 
 The players will then be subject to two rounds of matches. In the first round, the group stage will have 2 matches per group:
 
-- The first match is a match between the Top Seed and High Seed. The winner of this match will advance to the Bracket Stage as the Group Winner. The loser of this match will play in the second round of Group Stage.
+- The first match is a match between the Top Seed and High Seed. The winner of this match will advance to the Bracket Stage as the group winner. The loser of this match will play in the second round of Group Stage.
 - The second match is a match between the Bottom seed and Low seed. The winner of this match will get to play in the second round of Group Stage. The loser of this match will be eliminated from the tournament.
 
-In the second round of Group Stage, the loser of the first match and the winner of the second match will face each other. The winner of this match will advance to the Bracket Stage as the Group Runner-up. The loser will face either of the following:
+In the second round of Group Stage, the loser of the first match and the winner of the second match will face each other. The winner of this match will advance to the Bracket Stage as the group runner-up. The loser will face either of the following:
 
-- If the match is in the 4K Division, the player is eliminated.
-- If the match is in the 7K Division, the player is counted as the 3rd placer of the group.
+- If the match is in the 4K division, the player is eliminated.
+- If the match is in the 7K division, the player is counted as the 3rd placer of the group.
 
 In the osu!mania 7K Division, the best four 3rd placers will be advancing to the Bracket Stage in addition to the slots as explained earlier.
 
 #### Bracket stage
 
-The bracket stage is a double elimination stage. This means that a player who is participating in this stage must lose two matches in this stage to be eliminated from the tournament.
+The bracket stage is a double-elimination stage. This means that a player who is participating in this stage must lose two matches in this stage to be eliminated from the tournament.
 
 After the Group Stage, the remaining players will be seeded based on their performance in the Qualfiers and the Group Stage. We will be using a modified Elo rating system to seed the players. This will be used to determine the remaining players' opponents for the bracket stage. In particular, their opponent for the bracket stage will be (17 - player's GS seed).
 
@@ -715,22 +715,22 @@ It is your right as a player and tournament entrant to expect that staff will pe
 - For maximal accountability on the PHNM2022 staff, each match will have a primary referee and a backup referee. That way, we will assure you that there will be someone present to handle your tournament match.
 - If both players arrive on time, tournament proceedings will begin promptly at the start time of the match, no earlier and no later.
 - Take care of any responsibilities you may have immediately before and/or after the match, for we will be running on a fixed schedule.
-- If your match starts in less than 5 minutes and you have not been invited to your corresponding multiplayer room, notify any Tournament Staff member who is online on Discord or in-game that you are a player in PHNM2022 and you currently do not have an invitation to your match. They will ameliorate the situation by notifying the designated referees for your match to give you an invitation to your corresponding multiplayer room.
+- If your match starts in less than 5 minutes and you have not been invited to your corresponding multiplayer room, notify any tournament staff member who is online on Discord or in-game that you are a player in PHNM2022 and you currently do not have an invitation to your match. They will ameliorate the situation by notifying the designated referees for your match to give you an invitation to your corresponding multiplayer room.
 
 It is our right as tournament staff to expect that you will arrive for your matches before your expected time.
 
 - Players will be given a ten (10) minute grace period after the match start time to enter their room; if they have not entered by this point. The match will be forfeited and the player that has arrived will win by default. However, exceptions will be given to players who were late due to the negligence of the PHNM2022 staff.
 - In the extreme circumstance where both players did not show up, the player with the higher group stage seed in the match-up will advance automatically. In the Group Stage, the player with the higher qualifier seed in the match-up will advance automatically
-- This clause also includes ensuring that the players are using an optimal set up for play, or at least is prepared to play out the entire match without issues. Issues not covered by this ruleset will be treated on a case-by-case basis by the Hosts. Actions taken include but are not limited to: nullification of a pick should an issue arise within the first 25% of the chart's drain time or first 30 seconds, whichever comes first, emergency reschedule approval, player disqualification, and the like. As a general rule-of-thumb: lag and/or hardware issues are not an excuse for a match to be nullified.
+- This clause also includes ensuring that the players are using an optimal set up for play, or at least is prepared to play out the entire match without issues. Issues not covered by this ruleset will be treated on a case-by-case basis by the hosts. Actions taken include but are not limited to: nullification of a pick should an issue arise within the first 25% of the chart's drain time or first 30 seconds, whichever comes first, emergency reschedule approval, player disqualification, and the like. As a general rule-of-thumb: lag and/or hardware issues are not an excuse for a match to be nullified.
 
 It is your privilege as a player and tournament entrant to have an opinion about the content/structure used in the tournament.
 
 - You are experiencing this event as a competitor, and every choice made in the process directly affects how you will progress in the tournament.
-- If you dislike something, you are allowed to state your concerns-- however, do so reasonably. Speaking in absolutes or a matter-of-fact tone is the fastest way for an argument to start, especially over an opinionated statement. Keep in mind that some of your fellow competitors and other users on this website will have content that will inevitably be used in the tournament, and it is best advised that you make it clear that it is your opinion so as to not be hurtful.
+- If you dislike something, you are allowed to state your concerns, however, do so reasonably. Speaking in absolutes or a matter-of-fact tone is the fastest way for an argument to start, especially over an opinionated statement. Keep in mind that some of your fellow competitors and other users on this website will have content that will inevitably be used in the tournament, and it is best advised that you make it clear that it is your opinion so as to not be hurtful.
 
-It is our right as the PHNM2022 staff to reprimand users for intolerable behavior.
+It is our right as the PHNM2022 staff to reprimand users for intolerable behaviour.
 
-- PHNM2022 staff will have sole discretion over decisions that affect a player's standing in the tournament; however, other members of the tournament may forward any information to staff members that in any way represents uncalled for behavior towards other users or staff in this tournament. Staff members will attempt to escalate serious situations beyond the scope of this event if need be, so be respectful
+- PHNM2022 staff will have sole discretion over decisions that affect a player's standing in the tournament; however, other members of the tournament may forward any information to staff members that in any way represents uncalled for behaviour towards other users or staff in this tournament. Staff members will attempt to escalate serious situations beyond the scope of this event if need be, so be respectful.
 - Minor instances will receive warnings, and continued instances will result in forceful removal from the tournament.
 
 #### Warm-up songs
@@ -743,7 +743,7 @@ Maps that have a beatmap listing but cannot be downloaded are not allowed for th
 
 Players are advised to avoid using beatmap packs [similar to this](https://osu.ppy.sh/beatmapsets/435387).
 
-Warm-up songs will be on FreeMod, which allows for any special modifications that players see fit for the purpose of warming up properly. Addition of mods like Double Time or Nightcore may be requested to the referee for the warm-up phase only.
+Warm-up songs will be under Free Mod conditions, which allows for any special modifications that players see fit for the purpose of warming up properly. Additions of mods like Double Time or Nightcore may be requested to the referee for the warm-up phase only.
 
 Players who opt to play a warm-up chart before the match proper must submit their warm-up links no longer than 15 minutes before the scheduled start of the match. Players who fail to do so will not be allowed to set a warm-up chart.
 
@@ -751,32 +751,32 @@ Players who opt to play a warm-up chart before the match proper must submit thei
 
 With the exception of warm-ups, all songs played in a given round must match those that are selectable in the corresponding mappool. Similar to the qualification stage, mods that are allowed to be used in matches, if the player opts to use them, are Hidden, Flashlight, Fade In, Mirror, and No Fail.
 
-Players are to ban one (1) map within the map pool that they are playing for the given round.
+Players are to ban one (1) map within the mappool that they are playing for the given round.
 
-Players are to protect one (1) map from being banned within the map pool that they are playing for the given round.
+Players are to protect one (1) map from being banned within the mappool that they are playing for the given round.
 
 Players will be instructed to do a !roll command by the referee that is overseeing the match; the winning (higher) roll picks the first protected map, the losing (lower) roll picks the second protected map and the first ban, finally the winning roll picks the second ban and the first song of the match. In the event that both players get the same roll, they will have to continue doing the !roll command until the tie is broken.
 
-After the bans and rolls have concluded, the player with the winning roll instructs the referee of their song selection, and the referee will switch to that song. After that song concludes, the other player will pick a song, and this process will continue until one of the two conditions is satisfied:
+After the bans and rolls have concluded, the player with the winning roll instructs the referee of their song selection, and the referee will switch to that song. After that song concludes, the other player will pick a song, and this process will continue until one of two conditions is satisfied:
 
 - One player has achieved enough wins in such a way that the other player cannot successfully win the round.
   - The winning player moves onto the next match.
   - During the Group Stage, the losing player will be directed by the stipulations outlined in Section 1.5 of this ruleset.
 - Both players are at match point at the same time.
   - Both players will play the song designated as the tiebreaker.
-  - The winner of the tiebreaker will progress to the next match of the tournament, while the loser will be eliminated or sent to the losers bracket, depending on the position of the tournament.
+  - The winner of the tiebreaker will progress to the next match of the tournament, while the loser will be eliminated or sent to the losers bracket, depending on the position of the player in the tournament.
 
-Players will have 2 minutes to pick a map and 2 minutes to get ready. Players also allowed to pick their opponent's protect.
+Players will have 2 minutes to pick a map and 2 minutes to get ready. Players are allowed to pick their opponent's protect.
 
 - In case a player takes more than 2 minutes to pick a map, they will receive a warning from the referee, on subsequent occurrences the referee will pick a random map available to pick from the mappool using !roll X, where X is the number of available maps to pick in the mappool.
-- Each player is entitled to an optional (not required to be used) time out of two minutes when its their turn to pick. This time out period will only be allowed once per player per match.
-- In case the scores are tied on a pick, the pick is considered nullified and must be played again until a scores are not tied at the end of the chart.
+- Each player is entitled to an optional (not required to be used) timeout of two minutes when it's their turn to pick. This timeout period will only be allowed once per player per match.
+- In case the scores are tied on a pick, the pick is considered nullified and must be replayed until the scores are not tied at the end of the chart.
 
 #### Disconnections
 
-Maps with a player disconnection that occurs within the first 30 seconds, or 25% of the song (whichever comes first) will be nullified and re-attempted.
+Maps with a player disconnection that occurs within the first 30 seconds, or 25% of the song (whichever comes first) will be nullified and replayed.
 
-Matches will have a two disconnection limit -- upon the third disconnection, a point will be handed immediately to the player still active in the multiplayer room.
+Matches will have a two disconnection limit; on the third disconnection, a point will be handed immediately to the player still active in the multiplayer room.
 
 A two minute timer will be placed on a disconnected player when the song played has concluded. When this timer hits 0, the 10 minute grace period mentioned in Section 2.1 (Protocol) will be (re)activated. If the grace period timer hits 0, the match is forfeited, and the other remaining player will be declared the winner.
 
@@ -784,6 +784,6 @@ Situations with two player disconnections will be executed similarly to two miss
 
 #### Player abuse
 
-Players that are caught abusing and/or bending the rules to their advantage is tantamount to disqualification from the tournament without appeal. More grave cases may also mean disqualification from participation from further osu! Philippines Tournaments.
+Players that are caught abusing and/or bending the rules to their advantage are tantamount to disqualification from the tournament without appeal. More grave cases may also mean disqualification from participation from further osu! Philippines tournaments.
 
 *Ruleset is adapted from [SOFT 6](/wiki/Tournaments/SOFT/6) and previous osu! PH tournaments.*
