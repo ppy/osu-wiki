@@ -127,6 +127,7 @@ The complete list of player registrations can be found [here](https://docs.googl
   2. [TSUNKU - Rhythm Heaven Fever Remix 10 Perfect Version (Sinnoh) \[Rhythm Hell\]](https://osu.ppy.sh/beatmapsets/1503327#osu/3079907)[^ex-fw1-2]
 - Tiebreaker
   1. **[LeaF - Calamity Fortune (extended ver.) (Guchiry) \[Deconstruction\]](https://osu.ppy.sh/beatmapsets/1626172#osu/3320026)**
+
 ### Semifinals
 
 - No Mod
