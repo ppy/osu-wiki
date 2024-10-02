@@ -13,9 +13,9 @@ Welcome to the osu! wiki, the open-source knowledge base containing a wide range
 
 # Getting started
 
-Important articles and guides that will help you dive into osu!. In case anything goes wrong or appears uncertain, make sure to visit the [Help forum](https://osu.ppy.sh/forum/5).
+Important articles and guides to help you get into osu!. In case anything goes wrong or appears uncertain, make sure to visit the [Help forum](https://osu.ppy.sh/forum/5).
 
-[Rules](/wiki/Rules) • [Installation](/wiki/Client/Installation) • [Registration](/wiki/Registration) • [Help Centre](/wiki/Help_centre)
+[Installation](/wiki/Client/Installation) • [Registration](/wiki/Registration) • [Rules](/wiki/Rules) • [Help Centre](/wiki/Help_centre)
 
 [FAQ](/wiki/FAQ) • [Guides](/wiki/Guides)
 
@@ -24,9 +24,9 @@ Important articles and guides that will help you dive into osu!. In case anythin
 
 # [Game client](/wiki/Client)
 
-Being the guide to the world of rhythm, beats, and flashes, osu! has a lot to present. Get to know the game better, from its various settings and customisation capabilities, to the technical details and file formats it uses.
+Get to know the game better, from it's various settings and customisation capabilities, to the technical details and file formats.
 
-[Interface](/wiki/Client/Interface) • [BanchoBot](/wiki/BanchoBot) • [Options](/wiki/Client/Options) • [Visual settings](/wiki/Client/Interface/Visual_settings) • [Chat console](/wiki/Client/Interface/Chat_console) • [Shortcut key reference](/wiki/Client/Keyboard_shortcuts) 
+[Interface](/wiki/Client/Interface) • [BanchoBot](/wiki/BanchoBot) • [Options](/wiki/Client/Options) • [Visual settings](/wiki/Client/Interface/Visual_settings) • [Multiplayer](/wiki/Client/Interface/Multiplayer) • [Chat console](/wiki/Client/Interface/Chat_console) • [Shortcut key reference](/wiki/Client/Keyboard_shortcuts) 
 
 [Configuration file](/wiki/Client/Program_files/User_configuration_file) • [Program files](/wiki/Client/Program_files)
 
@@ -37,18 +37,18 @@ Being the guide to the world of rhythm, beats, and flashes, osu! has a lot to pr
 
 # [Gameplay](/wiki/Gameplay)
 
-Everything about clicking circles, striking drums, catching fruits, and playing the synthesiser: key elements, concepts, mechanics, and competitive play.
+Everything about game modes and their key elements, concepts and mechanics.
 
 [Game modes](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Difficulty](/wiki/Beatmap/Difficulty) • [Hit object](/wiki/Gameplay/Hit_object) • [Mods](/wiki/Gameplay/Game_modifier) • [Score](/wiki/Gameplay/Score) • [Replay](/wiki/Gameplay/Replay) • [Medals](/wiki/Medals) • [Multiplayer](/wiki/Client/Interface/Multiplayer)
+[Beatmap](/wiki/Beatmap) • [Difficulty](/wiki/Beatmap/Difficulty) • [Hit object](/wiki/Gameplay/Hit_object) • [Mods](/wiki/Gameplay/Game_modifier) • [Score](/wiki/Gameplay/Score) • [Replay](/wiki/Gameplay/Replay) • [Medals](/wiki/Medals)
 
 </div>
 <div class="wiki-main-page-panel">
 
 # [Beatmap editor](/wiki/Client/Beatmap_editor)
 
-All osu! beatmaps are created by the blooming imagination of its dynamic community. Always wanted to share your favourite music with others, but never knew how? Familiarise yourself with the built-in editor and the opportunities it has to offer.
+All osu! beatmaps are created our community. Want to share your favorite songs as well? Familiarise yourself with the built-in editor and turn your ideas into reality.
 
 Sections: [Compose](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client/Beatmap_editor/Design) • [Timing](/wiki/Client/Beatmap_editor/Timing) • [Song setup](/wiki/Client/Beatmap_editor/Song_setup)
 
@@ -61,7 +61,7 @@ Activities: [Beatmapping](/wiki/Beatmapping) • [Mapping techniques](/wiki/Beat
 
 # Beatmap [submission](/wiki/Beatmapping/Beatmap_submission) and [ranking](/wiki/Beatmap_ranking_procedure)
 
-Ranking is the process of obtaining a leaderboard for a beatmap, which makes it more popular and well-recognised. Discover what it takes to walk this path and how to increase your chances to succeed through beatmap reviews, as well as the procedures for quality control and the ranking process.
+Ranking is the process of obtaining a leaderboard for a beatmap, which makes it more popular and well-recognised. Discover what it takes to walk this path and how to increase your chances to succeed through beatmap reviews, the procedures for quality control and the ranking process.
 
 [Modding](/wiki/Modding) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
@@ -72,7 +72,7 @@ Ranking is the process of obtaining a leaderboard for a beatmap, which makes it 
 
 # [Rules](/wiki/Rules) and legalese
 
-Read about procedures and regulations that keep osu! and its community safe, from music licensing and media guidelines to chat and forum rules.
+Read about procedures and regulations that keep osu! and its community safe, as well as music licensing and media guidelines.
 
 [Contributor Code of Conduct](/wiki/Rules/Contributor_code_of_conduct) • [Code of Conduct for modding and mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
@@ -85,7 +85,7 @@ Media regulations: [Content usage guidelines](/wiki/Rules/Content_usage_guidelin
 
 # Help
 
-Answers to frequent questions and solutions to common issues live here.
+Answers to frequent questions and solutions to common issues can be found here.
 
 [Help centre](/wiki/Help_centre) • [Performance troubleshooting](/wiki/Performance_troubleshooting) • [Account support team](/wiki/People/Account_support_team) • [Help forum](https://osu.ppy.sh/forum/5)
 
@@ -98,7 +98,7 @@ Do your part: [How and what to help with](/wiki/Community/How_you_can_help!) •
 
 # [Community](/wiki/Community) and [projects](/wiki/Community/Projects)
 
-Social interaction is one of main things that fuel osu! players all around the world. Explore the activities and contests, get in touch with others, or help organise the next big event!
+Social interaction is one of main things that fuel osu! players all around the world. Explore activities and contests, get in touch with others, or help organise the next big event!
 
 Places: [Forum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat) • [Discord servers](/wiki/Community/Discord_servers)
 
