@@ -44,4 +44,4 @@ Mouse drift describes the unwanted movement of the mouse cursor caused by the mo
 
 ![alt text](img/mouse_drift_animated.gif)
 
-This is also why most players use a [tablet](/wiki/Gameplay/Input_device/Graphics_tablet) since a tablet has absolute positioning which does not have any form of drift.
+This is why most players use a [tablet](/wiki/Gameplay/Input_device/Graphics_tablet) since tablets use absolute positioning which does not have any form of drift.
