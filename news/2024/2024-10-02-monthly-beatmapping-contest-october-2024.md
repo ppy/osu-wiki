@@ -53,14 +53,15 @@ Because this contest had so many submissions (**51** to be specific), we're rewa
 
 | Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| Winner | [Micleak](https://osu.ppy.sh/users/16140674) | [sakuraburst - descent](https://drive.google.com/file/d/1zYVUN2aUPZ4lwk4v22ggM7gFiu1W9YSF/view?usp=sharing) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +3 (3 total) |
-| 2nd | [wolfyou](https://osu.ppy.sh/users/12565254) | [Culprate & Signal - Hydraulic](https://osu.ppy.sh/beatmapsets/2255700) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (2 total) |
-| 3rd | [elexire](https://osu.ppy.sh/users/9206093) | [Mili - String Theocracy](https://osu.ppy.sh/beatmapsets/2255626) | - | +1 (1 total) |
+| Winner | [wolfyou](https://osu.ppy.sh/users/12565254) | [Culprate & Signal - Hydraulic](https://osu.ppy.sh/beatmapsets/2255700) | - | +2 (2 total) |
+| 2nd | [elexire](https://osu.ppy.sh/users/9206093) | [Mili - String Theocracy](https://osu.ppy.sh/beatmapsets/2255626) | - | +2 (2 total) |
+| 3rd | [Alptraum](https://osu.ppy.sh/users/26496648) | [kaitendaentai - Toki no Ryousen (Supire Remix)](https://osu.ppy.sh/beatmapsets/2255748) | - | +1 (1 total) |
+
 
 #### Top maps
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/kk3JLLAHMV4" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/75hyWfFW_7Y" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Somehow [gzdongsheng](https://osu.ppy.sh/users/8660315), [Monoseul](https://osu.ppy.sh/users/16010604), [Unpredictable](https://osu.ppy.sh/users/7560872), [Maxus](https://osu.ppy.sh/users/4335785), and [Hydria](https://osu.ppy.sh/users/808176) judged every single entry. We don't know how it was possible, but we appreciate it.
