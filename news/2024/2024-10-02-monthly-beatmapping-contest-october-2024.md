@@ -57,7 +57,6 @@ Because this contest had so many submissions (**51** to be specific), we're rewa
 | 2nd | [elexire](https://osu.ppy.sh/users/9206093) | [Mili - String Theocracy](https://osu.ppy.sh/beatmapsets/2255626) | - | +2 (2 total) |
 | 3rd | [Alptraum](https://osu.ppy.sh/users/26496648) | [kaitendaentai - Toki no Ryousen (Supire Remix)](https://osu.ppy.sh/beatmapsets/2255748) | - | +1 (1 total) |
 
-
 #### Top maps
 
 <div align="center" class="osu-md__paragraph">
