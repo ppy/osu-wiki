@@ -35,3 +35,13 @@ This option will disable all mouse buttons during gameplay, which may be useful 
 ### Cursor ripples
 
 The cursor will ripple outwards on clicking.
+
+## Mouse drift
+
+Mouse drift describes the unwanted movement of the mouse cursor caused by the mouse using relative positioning. 
+
+![mouse drift](img/mouse_drift.png)
+
+<video controls src="img/mouse_drift_animated.mp4" title="Title"></video>
+
+This is also why most players use a [tablet](/wiki/Gameplay/Input_device/Graphics_tablet) since a tablet has absolute positioning which does not have any form of drift.
