@@ -27,14 +27,20 @@ The **National Dutch Championship 2024** (***NDC 2024***) is a 1v1, double elimi
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | €550,- |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | €275,- |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | €110,- |
-| *4th place* | €55,- |
-| *5th & 6th place* | €33,- |
-| *7th & 8th place* | €22,- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | €800,- |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | €400,- |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | €160,- |
+| *4th place* | €80,- |
+| *5th & 6th place* | €48,- |
+| *7th & 8th place* | €32,- |
 
 *Prizes may be increased if more donations come in*
+
+The prizepool was sponsored by both the organisation and community members:
+* ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403): €750,-
+* ::{ flag=NL }:: [heyronii](https://osu.ppy.sh/users/5642779): €500,-
+* ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619): €250,-
+* ::{ flag=NL }:: [Katie Djeestar](https://osu.ppy.sh/users/641155): €100,-
 
 <!-- ![](img/badge.png "NDC 2024 winner badge") -->
 
