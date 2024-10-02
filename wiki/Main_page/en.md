@@ -59,22 +59,22 @@ Activities: [Beatmapping](/wiki/Beatmapping) • [Mapping techniques](/wiki/Beat
 </div>
 <div class="wiki-main-page-panel">
 
-# Beatmap submission and ranking
+# Beatmap [submission](/wiki/Beatmapping/Beatmap_submission) and [ranking](/wiki/Beatmap_ranking_procedure)
 
 Ranking is the process of obtaining a leaderboard for a beatmap, which makes it more popular and well-recognised. Discover what it takes to walk this path and how to increase your chances to succeed through beatmap reviews, as well as the procedures for quality control and the ranking process.
 
-[Submission](/wiki/Beatmapping/Beatmap_submission) • [Modding](/wiki/Modding) • [Ranking procedure](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
+[Modding](/wiki/Modding) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
 [Ranking criteria](/wiki/Ranking_criteria): [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
 
-# Rules and legalese
+# [Rules](/wiki/Rules) and legalese
 
 Read about procedures and regulations that keep osu! and its community safe, from music licensing and media guidelines to chat and forum rules.
 
-[Rules](/wiki/Rules) • [Contributor Code of Conduct](/wiki/Rules/Contributor_code_of_conduct) • [Code of Conduct for modding and mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
+[Contributor Code of Conduct](/wiki/Rules/Contributor_code_of_conduct) • [Code of Conduct for modding and mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
 Media regulations: [Content usage guidelines](/wiki/Rules/Content_usage_guidelines) • [Content voting process](/wiki/Rules/Content_voting_process) • [Explicit content](/wiki/Rules/Explicit_content) • [Song content rules](/wiki/Rules/Song_content_rules) • [Visual content considerations](/wiki/Rules/Visual_content_considerations)
 
@@ -96,7 +96,7 @@ Do your part: [How and what to help with](/wiki/Community/How_you_can_help!) •
 </div>
 <div class="wiki-main-page-panel">
 
-# Community and projects
+# [Community](/wiki/Community) and [projects](/wiki/Community/Projects)
 
 Social interaction is one of main things that fuel osu! players all around the world. Explore the activities and contests, get in touch with others, or help organise the next big event!
 
@@ -104,9 +104,9 @@ Places: [Forum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_
 
 [Tournaments](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Contests](/wiki/Contests) • [Community mentorship program](/wiki/Community/Community_Mentorship_Program)
 
-[Projects](/wiki/Community/Projects) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [osu! community meetings](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [lazer updates](/wiki/Community/Video_series/lazer_updates)
+[Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [osu! community meetings](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [lazer updates](/wiki/Community/Video_series/lazer_updates)
 
-[Organisations](/wiki/Community/Organisations): [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
+[Organisations](/wiki/Community/Organisations): [osu! UCI](/wiki/Community/Organisations/osu!_UCI) • [osu! at UCSD](/wiki/Community/Organisations/osu!_at_UCSD)
 
 </div>
 <div class="wiki-main-page-panel">
