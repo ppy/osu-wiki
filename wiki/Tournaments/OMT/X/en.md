@@ -99,6 +99,34 @@ The complete list of player registrations can be found [here](https://docs.googl
 
 ### Finals (week 1)
 
+- No Mod
+  1. [Aitsuki Nakuru & A than\_Lily - Watashi ga Watashi ni Itatta 10 no Riyuu (defiance) \[brain damage\]](https://osu.ppy.sh/beatmapsets/1490689#osu/3055643)
+  2. [Camellia feat. Aitsuki Nakuru - Oborozuki Oou Kumo wo mo Sakinu (\[ -Elaina- \]) \[Moonlight\]](https://osu.ppy.sh/beatmapsets/2257870#osu/4804348)
+  3. [Mio Yamazaki - Byoushin Zenkai Girl (Sparhten) \[Keep Going Forward\]](https://osu.ppy.sh/beatmapsets/1402550#osu/2893305)
+  4. [Tsukidono & Takana - Extraordinary Future (Arushii09) \[Extraordinary nm4\]](https://osu.ppy.sh/beatmapsets/2055744#osu/4295723)
+  5. [Inferi - Onslaught of the Covenant (revoh) \[Expert\]](https://osu.ppy.sh/beatmapsets/1764590#osu/3611958)
+- Hidden
+  1. [Sayuri - Heikousen (Meg) \[taboo\]](https://osu.ppy.sh/beatmapsets/661458#osu/1400367)
+  2. [inabakumori - Float Play (-Stocking) \[Drifting\]](https://osu.ppy.sh/beatmapsets/1921679#osu/3966597)
+  3. [32ki feat. Hatsune Miku & Kasane Teto - Mesmerizer (Nathan) \[hypnosis\]](https://osu.ppy.sh/beatmapsets/2215986#osu/4695360)
+- Hard Rock
+  1. [the peggies - Highlight Highlight (Vanya2) \[Bloom\]](https://osu.ppy.sh/beatmapsets/1789615#osu/3666952)
+  2. [IOSYS - Utage wa Eien ni (Bloxi) \[The Feast Never Ends\]](https://osu.ppy.sh/beatmapsets/1876060#osu/3860777)
+  3. [lapix - Tribal Frontier (fooders) \[Prey of Cat\]](https://osu.ppy.sh/beatmapsets/2049028#osu/4278153)
+- Double Time
+  1. [Petit Rabbit's - Tenkuu Cafeteria (LeQuack) \[Rabbit House\]](https://osu.ppy.sh/beatmapsets/1321688#osu/2737694)
+  2. [yuikonnu & ayaponzu\* - Super Nuko World (AllStar12) \[Insane\]](https://osu.ppy.sh/beatmapsets/153776#osu/476149)
+  3. [ABBA - Dancing Queen (Nijika Ijichi) \[Insane\]](https://osu.ppy.sh/beatmapsets/2039555#osu/4254363)
+  4. [Complexive - Paft Dunk (thiev) \[Collab\]](https://osu.ppy.sh/beatmapsets/2091688#osu/4384362)
+- Free Mod
+  1. [UNDEAD CORPORATION - Everything Will Freeze II (Camo) \[LMT's Extra\]](https://osu.ppy.sh/beatmapsets/1512410#osu/3276914)
+  2. [NayutalieN - Ray Tuning (hifu) \[cs5\]](https://osu.ppy.sh/beatmapsets/1814354#osu/3724231)
+  3. [DeadballP - Xepher Light and Darkness Dragon REMIX (hammyMyRammy) \[Expert\]](https://osu.ppy.sh/beatmapsets/1518281#osu/3108004)
+- EX/Special
+  1. [IOSYS - Cirno's Perfect Math Class (Louis Cyphre) \[TAG4\]](https://osu.ppy.sh/beatmapsets/25739#osu/87570)[^ex-fw1-1]
+  2. [TSUNKU - Rhythm Heaven Fever Remix 10 Perfect Version (Sinnoh) \[Rhythm Hell\]](https://osu.ppy.sh/beatmapsets/1503327#osu/3079907)[^ex-fw1-2]
+- Tiebreaker
+  1. **[LeaF - Calamity Fortune (extended ver.) (Guchiry) \[Deconstruction\]](https://osu.ppy.sh/beatmapsets/1626172#osu/3320026)**
 ### Semifinals
 
 - No Mod
