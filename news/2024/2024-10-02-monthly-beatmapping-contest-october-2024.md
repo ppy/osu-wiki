@@ -53,7 +53,7 @@ Because this contest had so many submissions (**51** to be specific), we're rewa
 
 | Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| Winner | [wolfyou](https://osu.ppy.sh/users/12565254) | [Culprate & Signal - Hydraulic](https://osu.ppy.sh/beatmapsets/2255700) | - | +2 (2 total) |
+| Winner | [wolfyou](https://osu.ppy.sh/users/12565254) | [Culprate & Signal - Hydraulic](https://osu.ppy.sh/beatmapsets/2255700) | - | +3 (3 total) |
 | 2nd | [elexire](https://osu.ppy.sh/users/9206093) | [Mili - String Theocracy](https://osu.ppy.sh/beatmapsets/2255626) | - | +2 (2 total) |
 | 3rd | [Alptraum](https://osu.ppy.sh/users/26496648) | [kaitendaentai - Toki no Ryousen (Supire Remix)](https://osu.ppy.sh/beatmapsets/2255748) | - | +1 (1 total) |
 
