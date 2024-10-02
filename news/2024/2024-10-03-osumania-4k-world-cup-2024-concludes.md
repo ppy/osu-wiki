@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!mania 4K World Cup 2024: Finals Recap"
+title: "osu!mania 4K World Cup 2024 Concludes"
 date: 2024-10-03 22:00:00 +0000
 ---
 
