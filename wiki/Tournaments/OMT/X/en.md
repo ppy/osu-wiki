@@ -97,6 +97,37 @@ The complete list of player registrations can be found [here](https://docs.googl
 
 ## Mappools
 
+### Finals (week 1)
+
+- No Mod
+  1. [Aitsuki Nakuru & A than\_Lily - Watashi ga Watashi ni Itatta 10 no Riyuu (defiance) \[brain damage\]](https://osu.ppy.sh/beatmapsets/1490689#osu/3055643)
+  2. [Camellia feat. Aitsuki Nakuru - Oborozuki Oou Kumo wo mo Sakinu (\[ -Elaina- \]) \[Moonlight\]](https://osu.ppy.sh/beatmapsets/2257870#osu/4804348)
+  3. [Mio Yamazaki - Byoushin Zenkai Girl (Sparhten) \[Keep Going Forward\]](https://osu.ppy.sh/beatmapsets/1402550#osu/2893305)
+  4. [Tsukidono & Takana - Extraordinary Future (Arushii09) \[Extraordinary nm4\]](https://osu.ppy.sh/beatmapsets/2055744#osu/4295723)
+  5. [Inferi - Onslaught of the Covenant (revoh) \[Expert\]](https://osu.ppy.sh/beatmapsets/1764590#osu/3611958)
+- Hidden
+  1. [Sayuri - Heikousen (Meg) \[taboo\]](https://osu.ppy.sh/beatmapsets/661458#osu/1400367)
+  2. [inabakumori - Float Play (-Stocking) \[Drifting\]](https://osu.ppy.sh/beatmapsets/1921679#osu/3966597)
+  3. [32ki feat. Hatsune Miku & Kasane Teto - Mesmerizer (Nathan) \[hypnosis\]](https://osu.ppy.sh/beatmapsets/2215986#osu/4695360)
+- Hard Rock
+  1. [the peggies - Highlight Highlight (Vanya2) \[Bloom\]](https://osu.ppy.sh/beatmapsets/1789615#osu/3666952)
+  2. [IOSYS - Utage wa Eien ni (Bloxi) \[The Feast Never Ends\]](https://osu.ppy.sh/beatmapsets/1876060#osu/3860777)
+  3. [lapix - Tribal Frontier (fooders) \[Prey of Cat\]](https://osu.ppy.sh/beatmapsets/2049028#osu/4278153)
+- Double Time
+  1. [Petit Rabbit's - Tenkuu Cafeteria (LeQuack) \[Rabbit House\]](https://osu.ppy.sh/beatmapsets/1321688#osu/2737694)
+  2. [yuikonnu & ayaponzu\* - Super Nuko World (AllStar12) \[Insane\]](https://osu.ppy.sh/beatmapsets/153776#osu/476149)
+  3. [ABBA - Dancing Queen (Nijika Ijichi) \[Insane\]](https://osu.ppy.sh/beatmapsets/2039555#osu/4254363)
+  4. [Complexive - Paft Dunk (thiev) \[Collab\]](https://osu.ppy.sh/beatmapsets/2091688#osu/4384362)
+- Free Mod
+  1. [UNDEAD CORPORATION - Everything Will Freeze II (Camo) \[LMT's Extra\]](https://osu.ppy.sh/beatmapsets/1512410#osu/3276914)
+  2. [NayutalieN - Ray Tuning (hifu) \[cs5\]](https://osu.ppy.sh/beatmapsets/1814354#osu/3724231)
+  3. [DeadballP - Xepher Light and Darkness Dragon REMIX (hammyMyRammy) \[Expert\]](https://osu.ppy.sh/beatmapsets/1518281#osu/3108004)
+- EX/Special
+  1. [IOSYS - Cirno's Perfect Math Class (Louis Cyphre) \[TAG4\]](https://osu.ppy.sh/beatmapsets/25739#osu/87570)[^ex-fw1-1]
+  2. [TSUNKU - Rhythm Heaven Fever Remix 10 Perfect Version (Sinnoh) \[Rhythm Hell\]](https://osu.ppy.sh/beatmapsets/1503327#osu/3079907)[^ex-fw1-2]
+- Tiebreaker
+  1. **[LeaF - Calamity Fortune (extended ver.) (Guchiry) \[Deconstruction\]](https://osu.ppy.sh/beatmapsets/1626172#osu/3320026)**
+
 ### Semifinals
 
 - No Mod
@@ -226,6 +257,31 @@ The complete list of player registrations can be found [here](https://docs.googl
 
 ## Match results
 
+### Semifinals
+
+Friday, 27 September 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [ohshitweeb](https://osu.ppy.sh/users/12999285) ::{ flag=MY }:: | 2 | **6** | ::{ flag=MY }:: **[Jolene](https://osu.ppy.sh/users/13626098)** | [#1](https://osu.ppy.sh/community/matches/115647570) |
+| Lower | **[Chibi Maruko](https://osu.ppy.sh/users/5585377)** ::{ flag=MY }:: | **6** | 2 | ::{ flag=MY }:: [Snowy5441](https://osu.ppy.sh/users/13865320) | [#1](https://osu.ppy.sh/community/matches/115648452) |
+
+Saturday, 28 September 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [Lunasa](https://osu.ppy.sh/users/12999285) ::{ flag=MY }:: | 5 | **6** | ::{ flag=MY }:: **[Rampax](https://osu.ppy.sh/users/13626098)** | [#1](https://osu.ppy.sh/community/matches/115663965) |
+| Lower | **[AHotDawg](https://osu.ppy.sh/users/15271985)** ::{ flag=MY }:: | **6** | 1 | ::{ flag=MY }:: [stumphole145](https://osu.ppy.sh/users/14623152) | [#1](https://osu.ppy.sh/community/matches/115662145) |
+| Lower | [Auxuelus](https://osu.ppy.sh/users/5414124) ::{ flag=MY }:: | 5 | **6** | ::{ flag=MY }:: **[Chiyuu](https://osu.ppy.sh/users/8226107)** | [#1](https://osu.ppy.sh/community/matches/115663054) |
+| Upper | **[wuhua](https://osu.ppy.sh/users/2932510)** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: [Breast](https://osu.ppy.sh/users/11918602) | [#1](https://osu.ppy.sh/community/matches/115662104) |
+
+Sunday, 29 September 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Chiyuu](https://osu.ppy.sh/users/8226107) ::{ flag=MY }:: | 2 | **6** | ::{ flag=MY }:: **[Chibi Maruko](https://osu.ppy.sh/users/5585377)** | [#1](https://osu.ppy.sh/community/matches/115677859) |
+| Lower | **[AHotDawg](https://osu.ppy.sh/users/15271985)** ::{ flag=MY }:: | **6** | 4 | ::{ flag=MY }:: [Jolene](https://osu.ppy.sh/users/13626098) | [#1](https://osu.ppy.sh/community/matches/115673985) |
+
 ### Quarterfinals
 
 Thursday, 19 September 2024:
@@ -306,7 +362,7 @@ Sunday, 8 September 2024:
 
 1. Match lobbies across the tournament will adhere to the following room settings:
    - Team Mode: `Head-to-head`
-   - Win Condition: [`ScoreV2`](/wiki/Gameplay/Score#scorev2)
+   - Win Condition: [`ScoreV2`](/wiki/Gameplay/Score#scorev2) (unless specified otherwise)
 2. The mappools for each round will be announced by the tournament management in advance before the actual matches take place.
 3. Match schedules will be predetermined by the tournament management. If there are any teams who are unable to attend the current schedule for any reason, all other affected teams may apply and settle for a reschedule at the `#scheduling` channel in the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
@@ -398,6 +454,8 @@ Sunday, 8 September 2024:
 
 ## Notes
 
+[^ex-fw1-1]: This map has to be played with the Easy mod enabled.
+[^ex-fw1-2]: This map has to be played with the [ScoreV1](/wiki/Gameplay/Score/ScoreV1) win condition.
 [^ex-sf-1]: This map features an exceptionally low [approach rate](/wiki/Beatmap/Approach_rate). 
 [^ex-sf-2]: This map features a special win condition where the player with the highest accuracy wins the map.
 [^ex-qf-1]: This map has to be played with the Easy and Double Time mods enabled.
