@@ -12,8 +12,8 @@ If you had any doubts, the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_
 
 Each month focuses on different game modes. The current ones are **osu!** and **osu!mania**:
 
-- [osu! contest listing](https://osu.ppy.sh/community/contests/xxx)
-- [osu!mania contest listing](https://osu.ppy.sh/community/contests/xxx)
+- [osu! contest listing](https://osu.ppy.sh/community/contests/222)
+- [osu!mania contest listing](https://osu.ppy.sh/community/contests/223)
 
 We start these articles with results from the last contest, then we cover details of this month's contest. Skip to wherever you'd like:
 
@@ -53,7 +53,7 @@ Because this contest had so many submissions (**51** to be specific), we're rewa
 
 | Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| Winner | [Micleak](https://osu.ppy.sh/users/16140674) | [SONG](LINK) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +3 (3 total) |
+| Winner | [Micleak](https://osu.ppy.sh/users/16140674) | [sakuraburst - descent](https://drive.google.com/file/d/1zYVUN2aUPZ4lwk4v22ggM7gFiu1W9YSF/view?usp=sharing) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +3 (3 total) |
 | 2nd | [wolfyou](https://osu.ppy.sh/users/12565254) | [Culprate & Signal - Hydraulic](https://osu.ppy.sh/beatmapsets/2255700) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (2 total) |
 | 3rd | [elexire](https://osu.ppy.sh/users/9206093) | [Mili - String Theocracy](https://osu.ppy.sh/beatmapsets/2255626) | - | +1 (1 total) |
 
@@ -69,8 +69,8 @@ Somehow [gzdongsheng](https://osu.ppy.sh/users/8660315), [Monoseul](https://osu.
 
 This month's contest is open to **osu!** and **osu!mania** mappers.
 
-- [osu! contest listing](https://osu.ppy.sh/community/contests/xxx)
-- [osu!mania contest listing](https://osu.ppy.sh/community/contests/xxx)
+- [osu! contest listing](https://osu.ppy.sh/community/contests/222)
+- [osu!mania contest listing](https://osu.ppy.sh/community/contests/223)
 
 ## Timeline
 
@@ -135,8 +135,8 @@ Note that all submissions will be anonymised before they're reviewed by screener
 
 In case you somehow skipped the two other times we linked the contest listings, here they are again. Submit your map here whenever you're ready:
 
-- [osu! contest listing](https://osu.ppy.sh/community/contests/xxx)
-- [osu!mania contest listing](https://osu.ppy.sh/community/contests/xxx)
+- [osu! contest listing](https://osu.ppy.sh/community/contests/222)
+- [osu!mania contest listing](https://osu.ppy.sh/community/contests/223)
 
 You have until **November 1st** to submit!
 
