@@ -138,6 +138,6 @@ In case you somehow skipped the two other times we linked the contest listings, 
 - [osu! contest listing](https://osu.ppy.sh/community/contests/222)
 - [osu!mania contest listing](https://osu.ppy.sh/community/contests/223)
 
-You have until **November 1st** to submit!
+You have until **October 24th** to submit!
 
 —pishifat, RandomeLoL
