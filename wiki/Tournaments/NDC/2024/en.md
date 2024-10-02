@@ -120,6 +120,36 @@ The National Dutch Championship 2024 is run by various community members.
 
 ## Mappools
 
+### Finals
+
+**[Download the mappack here!](https://tourney.huismetbenen.nl/25/mappools/f)**
+
+- Nomod
+  1. [t+pazolite - Elder Dragon Legend (PaRaDogi) [Dogistyle]](https://osu.ppy.sh/beatmaps/2257935#osu/4804514)
+  2. [Brymir - Pantheon of Forsaken Gods (LMT) [Hideous Divinity]](https://osu.ppy.sh/beatmaps/1633210#osu/3333669)
+  3. [Machine Girl - Infinite Potentiality (Cut Ver.) (rnuxk) [extraordinaire]](https://osu.ppy.sh/beatmaps/1719598#osu/3514241)
+  4. [tn-shi - Synthesis. (iljaaz) [Synthesis.impetus(Corsace)]](https://osu.ppy.sh/beatmaps/2238746#osu/4757386)
+  5. [goreshit - slavik goblins (xidorn) [THE LAST]](https://osu.ppy.sh/beatmaps/1550497#osu/3168378)
+  6. [tsunamix_underground - Period. ~ Seishin no Kousoku to Jiyuu o Tsukamu Jouka (Cut Ver.) (bob) [hidden extra.]](https://osu.ppy.sh/beatmaps/1594769#osu/3257371)
+  7. [aran - Graces of Heaven (Mattay) [Biblically Accurate Beatmap]](https://osu.ppy.sh/beatmaps/2063140#osu/4314996)
+- Hidden
+  1. [Nanawo Akari - Higher's High (Garden) [Counterattack]](https://osu.ppy.sh/beatmaps/1846714#osu/3793495)
+  2. [KOTOKO - Princess Bride! -Redecorate version- (happy30) [HD2]](https://osu.ppy.sh/beatmaps/2257946#osu/4804555)
+  3. [Ali B vs Tatsh & NAOKI - Rampeneren in de Rooie Streek (Castagne) [Waar is Ali?]](https://osu.ppy.sh/beatmaps/2257931#osu/4804492)
+  4. [USAO - Dynamite (Camellia's MACHO TNT REMIX) (Slaked) [KABOOM]](https://osu.ppy.sh/beatmaps/836053#osu/1762037)
+- Hard Rock
+  1. [Zips - Heisei Sayonara Bye Bye (Dailycare) [Implacable]](https://osu.ppy.sh/beatmaps/1957026#osu/4054802)
+  2. [Magnetude - Signals (Firebool) [1 GHz]](https://osu.ppy.sh/beatmaps/850972#osu/1891907)
+  3. [factal - Flux (Sharu) [liquid]](https://osu.ppy.sh/beatmaps/1190470#osu/2480417)
+  4. [Toromaru - Wasteland (bob) [Fallout]](https://osu.ppy.sh/beatmaps/2191802#osu/4636252)
+- Double Time
+  1. [Denzel Curry, Gizzle, Bren Joy - Dynasties & Dystopia (Mir) [Sin]](https://osu.ppy.sh/beatmaps/1852680#osu/3806796)
+  2. [Dimrain47 - Operation: Evolution (Dada) [Salvation: Solution]](https://osu.ppy.sh/beatmaps/1581301#osu/3228972)
+  3. [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru (Smoothie) [Lunatic]](https://osu.ppy.sh/beatmaps/58951#osu/176960)
+  4. [Sangatsu no Phantasia - Pastel Rain (deetz) [Extra]](https://osu.ppy.sh/beatmaps/1060431#osu/2220287)
+- Tiebreaker
+  1. **[FELT - Lost / Lies in Reality (Mir) [Forsaken]](https://osu.ppy.sh/beatmaps/2258024#osu/4804751)**
+
 ### Semifinals
 
 **[Download the mappack here!](https://tourney.huismetbenen.nl/25/mappools/sf)**
@@ -240,6 +270,26 @@ The National Dutch Championship 2024 is run by various community members.
   2. [frederic - Junkie (elicz1) [XLT's Insane]](https://osu.ppy.sh/beatmapsets/2078299#osu/4387718)
 
 ## Match results
+
+### Semifinals
+
+Sunday, 29 September 2024:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Heavymetal4life ::{ flag=NL }:: | 1 | **6** | ::{ flag=NL }:: **PotjeNutella** | [#1](https://osu.ppy.sh/community/matches/115681046) |
+| chillington 15 ::{ flag=NL }:: | 3 | **6** | ::{ flag=NL }:: **LUCIANO** | [#1](https://osu.ppy.sh/community/matches/115680265) |
+
+Saturday, 28 September 2024:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| FietsAapje ::{ flag=NL }:: | 1 | **6** | ::{ flag=NL }:: **PotjeNutella** | [#1](https://osu.ppy.sh/community/matches/115666614) |
+| **Aheo** ::{ flag=NL }:: | **6** | 0 | ::{ flag=NL }:: Dolter | [#1](https://osu.ppy.sh/community/matches/115665742) |
+| wessel_osu2 ::{ flag=NL }:: | 1 | **6** | ::{ flag=NL }:: **Katie Djeestar** | [#1](https://osu.ppy.sh/community/matches/115665065) |
+| **wessel_osu2** ::{ flag=NL }:: | **6** | 1 | ::{ flag=NL }:: Nederland | [#1](https://osu.ppy.sh/community/matches/115663974) |
+| **Heavymetal4life** ::{ flag=NL }:: | **0** | -1 | ::{ flag=NL }:: Alphan | *win by default* |
+| **Katie Djeestar** ::{ flag=NL }:: | **6** | 1 | ::{ flag=NL }:: heyronii | [#1](https://osu.ppy.sh/community/matches/115660606) |
 
 ### Quarterfinals
 
