@@ -229,6 +229,8 @@ Lastly, I would like to thank the MWC2024 Thailand team for practising and makin
 
 questions soon
 
+</div>
+
 ---
 
 The osu!mania 4K World Cup would not have been possible without amazing work done by many people to make sure this year's tournament was an amazing experience for both players and spectators. Thank you very much to everyone who took time to contribute to the World Cup.
