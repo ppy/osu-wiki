@@ -193,7 +193,7 @@ Hello there, congrats on achieving the first ever top 3 placement for Thailand! 
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/17699745" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/_Kiruru-avatar.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-on-group" href="https://osu.ppy.sh/users/17699745">_Kiruru</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/17699745">_Kiruru</a></p>
 
 I don't think we had any special strategy because the Thailand team heavily relies on our main players such as [konkawe](https://osu.ppy.sh/users/15665805) and [--Pavin--](https://osu.ppy.sh/users/12046267), but if I have to say what made us come this far, it would have to be how much effort we put into practising to keep improving throughout the entire tournament.
 
@@ -205,7 +205,7 @@ Your match against South Korea was completely unexpected with your team winning 
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/17699745" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/_Kiruru-avatar.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-on-group" href="https://osu.ppy.sh/users/17699745">_Kiruru</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/17699745">_Kiruru</a></p>
 
 Honestly, the result is really unexpected for us as South Korea is a team that is favoured to get top 3, and if we won we would get a guaranteed top 3 finish for the first time. So the amount of pressure we had before the match was really high, but when we played in the match, everyone was popping off, and we were able to go through the match like it was nothing. It was so much more unexpected than the result we've shown in many maps beforehand, but after we won I felt relieved and happy as it felt like all the pressure we had gone away.
 
@@ -217,7 +217,7 @@ If there's one memorable moment throughout the tournament that you feel is worth
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/17699745" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/_Kiruru-avatar.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-on-group" href="https://osu.ppy.sh/users/17699745">_Kiruru</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/17699745">_Kiruru</a></p>
 
 It was definitely the moment we won against South Korea, because when I started playing osu! in 2020, I watched MWC and saw Thailand getting crushed by South Korea and getting 4th place. So top 3 was like my dream for a long time, and I'm very happy that we finally were able to get it. It's like making history for our country, and I hope it will motivate both new and old Thailand players to come to MWC more in the future.
 
