@@ -76,9 +76,7 @@ Read about procedures and regulations that keep osu! and its community safe, fro
 
 [Rules](/wiki/Rules) • [Contributor Code of Conduct](/wiki/Rules/Contributor_code_of_conduct) • [Code of Conduct for modding and mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
-Media regulations: [Content usage guidelines](/wiki/Rules/Content_usage_guidelines) • [Content voting process](/wiki/Rules/Content_voting_process) • [Explicit content](/wiki/Rules/Explicit_content)
-
-[Song content rules](/wiki/Rules/Song_content_rules) • [Visual content considerations](/wiki/Rules/Visual_content_considerations)
+Media regulations: [Content usage guidelines](/wiki/Rules/Content_usage_guidelines) • [Content voting process](/wiki/Rules/Content_voting_process) • [Explicit content](/wiki/Rules/Explicit_content) • [Song content rules](/wiki/Rules/Song_content_rules) • [Visual content considerations](/wiki/Rules/Visual_content_considerations)
 
 [Legal pages](/wiki/Legal): [Terms of Service](/wiki/Legal/Terms) • [Privacy](/wiki/Legal/Privacy) • [Copyright (DMCA)](/wiki/Legal/Copyright) • [Music licensing](/wiki/Legal/Music_licensing)
 
@@ -106,8 +104,7 @@ Places: [Forum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_
 
 [Tournaments](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Contests](/wiki/Contests) • [Community mentorship program](/wiki/Community/Community_Mentorship_Program)
 
-[Projects](/wiki/Community/Projects) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [osu! community meetings](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) 
-[osu!talk](/wiki/Community/Video_series/osu!talk) • [lazer updates](/wiki/Community/Video_series/lazer_updates)
+[Projects](/wiki/Community/Projects) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [osu! community meetings](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [lazer updates](/wiki/Community/Video_series/lazer_updates)
 
 [Organisations](/wiki/Community/Organisations): [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
