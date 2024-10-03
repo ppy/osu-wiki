@@ -24,11 +24,11 @@ Pour les concours par équipe, les points des elite mapper seront évalués au c
 
 Les points de concours ont été utilisés pour les concours suivants :
 
-- [Kyoku 2024](/wiki/Contests/Kyoku/2024)
 - [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (MBC)
 - [osu!taiko Featured Artist Cup](/wiki/Contests/o!tFAC) (o!tFAC)
 - [Twin Trials](/wiki/Contests/Twin_Trials_Contest)
 - [Vocaloid Mapping Contest 2](/wiki/Contests/VMC/2) (VMC2)
+- [Kyoku 2024](/wiki/Contests/Kyoku/2024)
 
 ## Classement
 
@@ -51,6 +51,7 @@ Les points de concours ont été utilisés pour les concours suivants :
 | ::{ flag=KR }:: [bIG data](https://osu.ppy.sh/users/17744610) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=DE }:: [0ppInOsu](https://osu.ppy.sh/users/12551840) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=FR }:: [Halgoh](https://osu.ppy.sh/users/4109923) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (1), [Kyoku 2024](/wiki/Contests/Kyoku/2024) (2) |
+| ::{ flag=CN }:: [iBell](https://osu.ppy.sh/users/4298072) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=DK }:: [melon boy](https://osu.ppy.sh/users/3053382) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=RU }:: [Aphestra](https://osu.ppy.sh/users/11949191) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=PL }:: [Kalibe](https://osu.ppy.sh/users/3376777) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
