@@ -1,20 +1,22 @@
 # Game mode
 
-osu! has four **game modes** with different mechanics, originally inspired by other rhythm games:
+osu! has four built-in **game modes** with different mechanics, originally inspired by other rhythm games:
 
 - ![][osu!] [osu!](#osu!)
 - ![][osu!taiko] [osu!taiko](#osu!taiko)
 - ![][osu!catch] [osu!catch](#osu!catch)
 - ![][osu!mania] [osu!mania](#osu!mania)
 
-To switch between modes, click the `Mode` button at the bottom of the Song Selection screen, or use these key combinations:
+To switch between modes, click the `Mode` button at the bottom of the Song Selection screen for osu!(Stable), use the buttons on the top of the screen for osu!(Lazer), or use these key combinations:
 
 - `Ctrl` + `1` for osu!
 - `Ctrl` + `2` for osu!taiko
 - `Ctrl` + `3` for osu!catch
 - `Ctrl` + `4` for osu!mania
 
-![Mode selection interface](/wiki/shared/Interface_mode.png "Mode selection interface")
+![Mode selection interface](/wiki/shared/Interface_mode.png "Mode selection interface in osu!(Stable)")
+
+![Mode selection interface](/wiki/shared/Interface_mode_lazer.png "Mode selection interface in osu!(Lazer)")
 
 ## ![][osu!] osu!
 
@@ -52,3 +54,9 @@ In *osu!catch*, fruits of differing varieties fall from the top of the screen, a
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
+
+## Custom Game modes
+
+In osu!(Lazer), you can use custom game modes (also called Custom Rulesets) that introduce a new way to play the game using the Beatmap Library that osu! offers. Custom game modes, like the main modes, are often inspired by other rhythm games.
+
+The full list of playable Custom Game modes can be found [here](https://github.com/ppy/osu/discussions/13096).
