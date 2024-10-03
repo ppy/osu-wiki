@@ -116,17 +116,17 @@ Contest points have been used in the following contests:
 | ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222) | 5 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=KR }:: [hemoo](https://osu.ppy.sh/users/4420703) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=PL }:: [Disguise](https://osu.ppy.sh/users/10764851) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
-| ::{ flag=VN }:: [Micleak](https://osu.ppy.sh/users/16140674) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=US }:: [wolfyou](https://osu.ppy.sh/users/12565254) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=CN }:: [richardfeder](https://osu.ppy.sh/users/2446000) | 2 | [Twin Trials](/wiki/Contests/Twin_Trials_Contest) |
 | ::{ flag=KR }:: [Kawawa](https://osu.ppy.sh/users/4647754) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=AU }:: [oct4](https://osu.ppy.sh/users/10303887) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
-| ::{ flag=US }:: [wolfyou](https://osu.ppy.sh/users/12565254) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=US }:: [elexire](https://osu.ppy.sh/users/9206093) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=US }:: [lemonguy](https://osu.ppy.sh/users/4693052) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=BR }:: [AutotelicBrown](https://osu.ppy.sh/users/4238941) | 1 | [Twin Trials](/wiki/Contests/Twin_Trials_Contest) |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | 1 | [Twin Trials](/wiki/Contests/Twin_Trials_Contest) |
 | ::{ flag=DE }:: [Leeju](https://osu.ppy.sh/users/18219603) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=PH }:: [Silicosis 2](https://osu.ppy.sh/users/18560307) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
-| ::{ flag=US }:: [elexire](https://osu.ppy.sh/users/9206093) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=CN }:: [Alptraum](https://osu.ppy.sh/users/26496648) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 
 ## History
 
