@@ -1,3 +1,9 @@
+---
+stub: true
+tags:
+  - outdated
+---
+
 # Spielmodi
 
 osu! hat vier **Spielmodi** mit verschiedenen Mechaniken, die ursprünglich von anderen Rhythmusspielen inspiriert sind:

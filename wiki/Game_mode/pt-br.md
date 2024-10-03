@@ -1,3 +1,9 @@
+---
+stub: true
+tags:
+  - outdated
+---
+
 # Modo de Jogo
 
 Osu! tem quatro **modos de jogo** com jogabilidades diferentes, originalmente inspirado por outros jogos de ritmo.

@@ -1,3 +1,9 @@
+---
+stub: true
+tags:
+  - outdated
+---
+
 # Game mode
 
 osu! ha quattro **Modalità** con meccaniche differenti, originalmente ispirate da altri giochi ritmici:
