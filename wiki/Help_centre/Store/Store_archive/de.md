@@ -15,7 +15,7 @@ tags:
 # Shoparchiv
 
 *Hauptseite: [osu!store und Merchandise](/wiki/Help_centre/Store)*\
-*Anmerkung: Diese Produkte werden nicht mehr länger zum Verkauf im osu!store angeboten.*
+*Anmerkung: Diese Produkte werden nicht mehr zum Verkauf im osu!store angeboten.*
 
 Hast du Schwierigkeiten mit einem Produkt aus dem osu!store? Prüfe, ob es eine Lösung für dein Problem gibt!
 
