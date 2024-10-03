@@ -8,20 +8,20 @@
 | :-- | :-- |
 | Alle Noten löschen (`Strg` + `N`) | Entfernt alle Hit-Objekte der Schwierigkeitsstufe. |
 | Schwierigkeitsstufe öffnen ... | **Zum Editieren:** Wechsle schnell zwischen den Schwierigkeitsstufen. **Zur Referenz:** Lege die gewählte Schwierigkeitsstufe über die (aktuell) geöffnete (nur [osu!mania](/wiki/Game_mode/osu!mania)). |
-| Speichern (`Strg` + `S`) | Speichert alle Änderungen (Dateiformate [`.osu`](/wiki/Client/File_formats/osu_(file_format)) und [`.osb`](/wiki/Client/File_formats/osb_(file_format))). |
-| Neue Schwierigkeitsstufe erstellen ... | Speichere die aktuellen Änderungen dieser Schwierigkeitsstufe als eine neue Stufe. Die alte Schwierigkeitsstufe bleibt beim erneuten Laden in ihrem zuletzt gespeicherten Zustand erhalten. |
+| Speichern (`Strg` + `S`) | Speichert die aktuellen Änderungen (Dateiformate [`.osu`](/wiki/Client/File_formats/osu_(file_format)) und [`.osb`](/wiki/Client/File_formats/osb_(file_format))). |
+| Neue Schwierigkeitsstufe erstellen ... | Speichere die aktuellen Änderungen als neue Schwierigkeitsstufe. Die alte Schwierigkeitsstufe bleibt beim erneuten Laden in ihrem zuletzt gespeicherten Zustand erhalten. |
 | Zum Gespeicherten zurücksetzen (`Strg` + `L`) | Hebt alle Änderungen der Schwierigkeitsstufe und des Storyboards bis zum letzten Speicherpunkt auf. |
 | Zum Gespeicherten zurücksetzen (Komplett) (`Strg` + `Shift` + `L`) | Hebt alle Änderungen der Schwierigkeitsstufe und des Storyboards bis zum letzten Speicherpunkt auf und lädt alle Dateien neu (Sprites, Soundsamples etc.). |
 | Beatmap testen (`F5`) | [Teste](/wiki/Client/Beatmap_editor/Test_mode) die Beatmap. Aktuelle Änderungen werden für den Test gespeichert. |
 | AiMod öffnen (`Strg` + `Shift` + `A`) | [AiMod](/wiki/Client/Beatmap_editor/AiMod) öffnen. |
 | Beatmap hochladen ... (`Strg` + `Shift` + `U`) | [Lade](/wiki/Beatmapping/Beatmap_submission) die Beatmap in das Forum [Work In Progress](https://osu.ppy.sh/community/forums/10) hoch. |
 | Paket exportieren ... | Exportiert die Beatmap als [`.osz`-Archiv](/wiki/Client/File_formats/osz_(file_format)) zur manuellen Weitergabe. Der Ordner `Exports` wird geöffnet, in dem die Datei abgelegt wird. |
-| Map-Paket entpacken | Extrahiert eine Beatmap im Format `.osz2` in einen temporären Ordner, um die darin enthaltenen Daten während des Moddings zu überschreiben.[^osz2-note] |
+| Map-Paket entpacken | Entpackt eine Beatmap im Format `.osz2` in einen temporären Ordner, um die darin enthaltenen Daten während des Moddings zu überschreiben.[^osz2-note] |
 | Importieren von ... | **bms/bme:** Öffnet Dateien im Format `.bms`/`.bme`, um sie als osu!mania-Schwierigkeitsstufe zu importieren. |
 | Songs-Ordner öffnen | Öffnet den Ordner der Beatmap, welcher essentielle Spieldateien enthält. |
 | `.osu` im Editor öffnen | Öffnet die Datei der aktuellen Schwierigkeitsstufe im Texteditor. |
 | `.osb` im Editor öffnen | Öffnet die [Storyboard-Datei](/wiki/Storyboard) der Beatmap im Texteditor. |
-| Beenden ... (`Esc`) | Verlässt den Beatmap-Editor, wobei gefragt wird, ob kürzliche Änderungen gespeichert werden sollen.[^exit-note] |
+| Beenden ... (`Esc`) | Verlässt den Beatmap-Editor und fragt, ob kürzliche Änderungen gespeichert werden sollen.[^exit-note] |
 
 ## Bearbeiten
 
@@ -37,13 +37,13 @@
 | Löschen (`Entfernen`) | Ausgewählte Objekte löschen. |
 | Alles auswählen (`Strg` + `A`) | Alle Hit-Objekte markieren. |
 | Klonen (`Strg` + `D`) | Ausgewählte Objekte kopieren und sie einen [Beat](/wiki/Music_theory/Beat) nach der Auswahl einfügen. |
-| Auswahl umkehren (`Strg` + `G`) | Kehrt die Richtung von Slidern um und ordnet Hit-Objekte in der Zeit neu an, sodass das Letzte zum Ersten wird usw. |
+| Auswahl umkehren (`Strg` + `G`) | Kehrt die Richtung von Slidern um und ordnet Hit-Objekte zeitlich so neu an, dass das letzte zum ersten wird usw. |
 | Horizontal spiegeln (`Strg` + `H`) | Auswahl an der Y-Achse des Spielfelds spiegeln (links und rechts). |
 | Vertikal spiegeln (`Strg` + `J`) | Auswahl an der X-Achse des Spielfelds spiegeln (oben und unten). |
 | 90° im Uhrzeigersinn drehen (`Strg` + `>`) | Auswahl um 90° nach rechts um die Spielfeldmitte drehen. |
 | 90° gegen den Uhrzeigersinn drehen (`Strg` + `<`) | Auswahl um 90° nach links um die Spielfeldmitte drehen. |
 | Rotieren ... (`Strg` + `Shift` + `R`) | Auswahl um einen festgelegten Winkel um die Spielfeldmitte oder die Mitte der Auswahl rotieren. |
-| Skalieren... (`Strg` + `Shift` + `S`) | Verändere die Größe der ausgewählten Objekte, indem die Auswahl weiter vom Spielfeld oder der Mitte der Auswahl weg bzw. über eine oder mehrere Achsen bewegt wird. |
+| Skalieren ... (`Strg` + `Shift` + `S`) | Verändere die Größe der ausgewählten Objekte, indem die Auswahl weiter vom Spielfeld oder der Mitte der Auswahl weg bzw. über eine oder mehrere Achsen bewegt wird. |
 | Samples des ausgewählten Objekts zurücksetzen | Entfernt den [Hitsound](/wiki/Beatmapping/Hitsound) vom ausgewählten Hit-Objekt. |
 | Alle Samples zurücksetzen | Entfernt alle festgelegten Hitsounds von den Hit-Objekten in dieser Schwierigkeitsstufe. |
 | Combo-Farben zurücksetzen | Setzt alle [Combo-Farben](/wiki/Beatmapping/Colourhaxing) in der aktuellen Schwierigkeitsstufe zurück. |
@@ -106,7 +106,7 @@
 
 | Name | Beschreibung |
 | :-- | :-- |
-| Rhythmus | Wähle zwischen den [Taktarten](/wiki/Music_theory/Time_signature) Walzer (3/4) oder Standard (4/4) für den aktuellen Timing-Punkt. Benutze das [`Timing Setup`](/wiki/Client/Beatmap_editor/Timing) für exotisches Timing. |
+| Rhythmus | Wähle zwischen den [Taktarten](/wiki/Music_theory/Time_signature) Walzer (3/4) oder Standard (4/4) für den aktuellen Timing-Punkt. Benutze das [`Timing Setup`](/wiki/Client/Beatmap_editor/Timing) für andere Taktarten. |
 | Metronom | Aktiviere oder deaktiviere die Tickgeräusche des [Metronoms](/wiki/Client/Beatmap_editor/Timing#metronome) im Tab `Timing`. |
 | Sektion hinzufügen (`Strg` + `P`) | Erstellt eine neue [nicht vererbte (rote) Timing-Sektion](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point). |
 | Erbende Sektion hinzufügen (`Strg` + `Shift` + `P`) | Erstellt eine neue [vererbte (grüne) Timing-Sektion](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point). |
