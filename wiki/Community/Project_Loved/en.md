@@ -15,13 +15,13 @@ To submit a beatmap for Loved, please visit the [beatmap submission page](https:
 - [osu!catch submissions](https://loved.sh/submissions/fruits)
 - [osu!mania submissions](https://loved.sh/submissions/mania)
 
-Nominated beatmaps are then posted to the [Project Loved forum](https://osu.ppy.sh/community/forums/120), where community members may vote whether they want the beatmap to be Loved or not. Maps reaching 80% "Yes" votes at their polls' end time will be moved to the Loved category.
+Nominated beatmaps are then posted to the [Project Loved forum](https://osu.ppy.sh/community/forums/120), where community members may vote whether they want the beatmap to be Loved or not. Maps reaching 80% "Yes" votes at their polls' end time will be moved to the Loved category. If a beatmap fails the voting they are eligible for a second shot at Loved.
 
 Creators of said beatmaps are also able to request them to be removed from the Loved category by reaching out to a [Project Loved Team](https://osu.ppy.sh/groups/31) member or by posting in `#osu-loved` channel of the [osu! Discord server](https://discord.gg/ppy). The removal process will take a minimum of 1 week and creator will receive a follow-up when it is finished.
 
 ## Eligibility
 
-There are some very minimal criteria that need to be met for beatmaps to be nominated for Loved. Each game mode has its own specific criteria for Loved beatmap nomination and priority, but all modes follow these rules:
+There are some criteria that need to be met for beatmaps to be nominated for Loved. Each game mode has its own specific criteria for Loved beatmap nomination and priority, but all modes follow these rules:
 
 - It abides by the [beatmap submission rules](/wiki/Rules#beatmap-submission-rules)
 - It is not in the [Ranked](/wiki/Beatmap/Category#ranked), [Approved](/wiki/Beatmap/Category#approved), or [Qualified](/wiki/Beatmap/Category#qualified) categories
@@ -49,7 +49,8 @@ Every month, beatmaps are chosen according to 9 categories, with the goal of ens
 
 | Category | Explanation |
 | :-: | :-- |
-| Popular Playcounts | Popular beatmaps in the community, with at least 100,000 playcount. |
+| Popular Playcounts 1 | Popular beatmaps in the community, with at least 100,000 playcount. |
+| Popular Playcounts 2 | Popular beatmaps in the community, with at least 100,000 playcount. |
 | Outstanding Oldies | Beatmaps submitted more than six years ago. |
 | Small Spectacles | Outstanding beatmaps as determined by the captains, with less than 5,000 playcount. |
 | Daredevil Difficulties | Beatmaps known for extreme difficulty, nominated with the goal of fostering competition among top players. |
@@ -67,7 +68,6 @@ For any questions regarding what goes in each category, contact the [osu! Loved 
 
 **All rules are exactly that: rules.** They are not guidelines and may not be broken under any circumstance.
 
-- **The beatmap must be submitted at least 1 year before Loved nomination, except for beatmaps that break ranking criteria due to their concept.** Submitting a beatmap solely for Loved is discouraged when Ranked might be a better option. Exceptions include sliderator usage, Aspire maps, storyboard gameplay gimmicks, etc.
 - **The beatmap must have at least 30 favourites.** This is a minimum threshold to indicate a positive and existing community reaction to the beatmap. Brigading for favourites is discouraged, although captains cannot verify whether that happens in most cases.
 - **A beatmap must have at least some form of mapping contribution from the person submitting it.** This specifically avoids "beatmap compilations" which, even with the original mappers' permissions, do not represent the kind of original work showcased in Loved.
 - **Beatmap timing must not negatively impact gameplay.** Unlike the ranking criteria, which requires near-millisecond-accurate timing for all beatmaps, there is some leeway for complex songs. If unsure whether the timing for a beatmap is appropriate, contact one of the osu! Loved captains.
@@ -77,6 +77,7 @@ For any questions regarding what goes in each category, contact the [osu! Loved 
 
 **Guidelines may be ignored under exceptional circumstances.** These exceptional circumstances can be justified by an explanation as of why the guideline has been ignored and why not ignoring it will interfere with the overall quality of the creation.
 
+- **The beatmap should be submitted at least 1 year before Loved nomination, except for beatmaps that break ranking criteria due to their concept.** Submitting a beatmap solely for Loved is discouraged when Ranked might be a better option. Exceptions include sliderator usage, Aspire maps, storyboard gameplay gimmicks, etc.
 - **All ranking criteria rules and guidelines not explicitly mentioned as rules here still apply as guidelines.** Enforcement happens on a case-by-case basis during the Loved nomination process, and the mapper will be contacted about any required changes. Note, however, that full spreads are not required except for the *Ranked Rejects* category.
 - **Beatmap metadata should be as accurate as possible.** Beatmaps that are nominated for Loved voting go through a final metadata check by specialised members of the community. Correct metadata makes searching beatmaps easier when looking for a song. When in doubt, contact a Loved captain.
 - **Uninherited timing points should be the same in every difficulty of a beatmap.** This may be ignored for certain gimmicks involving changing BPM, slider velocity, or other factors that are not relevant in every difficulty.
@@ -85,6 +86,21 @@ For any questions regarding what goes in each category, contact the [osu! Loved 
 #### Nomination priority
 
 There are no strict rules governing which maps a captain must nominate for Loved, but generally the nominated maps are very well known and appreciated by the community (as the title "Loved" implies). Sometimes a beatmap will also be preferred if it is significantly older than others or contains beatmaps with unique and high-quality mapping styles.
+
+## Website
+
+The [Loved website](https://loved.sh) serves as the hub for everything related to Project Loved. Here, you can view submitted beatmaps, submit your own, browse past votings, and much more.It is also used by the [Project Loved Team](/wiki/People/Project_Loved_Team) to handle several miscellaneous tasks when nominating maps.
+
+The Rating of each beatmap is a score resulting in the reviews of the community.
+Priority however is solely based on the captains' reviews.
+Reviews can be seen and added by clicking on the arrow on the left of the beatmaps name.
+![Review](img/Review.png)
+
+Upon receiving a review, a beatmap will be highlighted in white for a while.
+![Recent Review](img/Recent_Review.png)
+
+Beatmaps that are in the voting process will be moved to the top of the page in each gamemode and highlighted in green.
+![Voting](img/Voting.png)
 
 ## Further information
 
