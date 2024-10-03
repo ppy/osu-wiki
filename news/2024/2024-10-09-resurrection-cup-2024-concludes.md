@@ -218,10 +218,10 @@ Resurrection Cup has grown significantly in terms of team size and staff members
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-bsc" href="https://osu.ppy.sh/users/11246193">_Xyris_</a></p>
 From what I've seen both composers and illustrators had a strong work ethic; I was able to see the passion they put into their work. Composers were punctual, on time, and the illustrators accommodated for their songs with great quality. At the end, I was able to form many connections with the composers and illustrators alike with the friendly atmosphere at ResCup.
 
-Phreel to <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2345078" style="background-image: url('https://a.ppy.sh/users/2345078')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/12840110" style="background-image: url('https://a.ppy.sh/users/12840110')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-bsc" href="https://osu.ppy.sh/users/2345078">Krimek</a></p>
-What inspired you to create "Lunaria" for this year's tournament, and how was your experience incorporating vocals for the first time?
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-bsc" href="https://osu.ppy.sh/users/12840110">Phreel</a></p>
+(to Krimek) What inspired you to create "Lunaria" for this year's tournament, and how was your experience incorporating vocals for the first time?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2345078" style="background-image: url('https://a.ppy.sh/users/2345078')"></a>
 
@@ -313,3 +313,4 @@ Despite being a 4 years overlay developer as I am, I am pretty sure that the com
 ## Closing Words
 
 In the tournament history of osu!, many people have hosted successful tournaments, whether it be for player enjoyment or viewer enjoyment. Regardless of the goal, the pressure stays the same. In our case, the tiny community that developed itself over the past 4 ResCup tournaments certainly elevated vast majority of this pressure and made even the preparations not only stress free, but a joy. Thank you to each and every single person who worked on Resurrection Cup 2024, and thank you to everyone who supports us! See you all next year, in **Resurrection Cup 2025: Regulus Revolution**.
+—Hoaq & Phreel
