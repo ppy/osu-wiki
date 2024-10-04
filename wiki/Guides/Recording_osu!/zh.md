@@ -60,6 +60,6 @@
 
 ![渲染视频切片](img/Recording_6.png "渲染视频切片")
 
-点击保存，然后你的视频就会在几分钟内生成。现在就可以上传至 YouTube了！请注意，在 YouTube 上出现高清晰度的视频前，可能需要等待几分钟。请耐心等待！
+点击保存，然后你的视频就会在几分钟内生成。现在就可以上传至 YouTube 了！请注意，在 YouTube 上出现高清晰度的视频前，可能需要等待几分钟。请耐心等待！
 
 **现在，去制作视频并宣传 osu! 吧。** 本教程由 [Remco32](https://osu.ppy.sh/users/9199) 撰写。原文[链接](https://osu.ppy.sh/community/forums/topics/18112)
