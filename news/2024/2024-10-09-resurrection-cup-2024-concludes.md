@@ -181,7 +181,7 @@ Was it difficult managing all those custom maps and songs?
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/6248691" style="background-image: url('https://a.ppy.sh/users/6248691')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-bsc" href="https://osu.ppy.sh/users/6248691">Alvearia</a></p>
-Managing around 90 original custom maps sounds like a really tough task to accomplish – but thanks to main host’s/Phreel’s organization plans, selecting small group of knowledgeable people to be a part of [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) and dividing all mappers by divisions was a really smart move to do, and mostly by that, we finished this job successfully. But, nonetheless, there's plenty of room for improvement, overall quality of pools, which our team, of course, will try absolute best to achieve in the next iteration.
+Managing around 90 original custom maps sounds like a really tough task to accomplish – but thanks to main host's/Phreel's organization plans, selecting small group of knowledgeable people to be a part of [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) and dividing all mappers by divisions was a really smart move to do, and mostly by that, we finished this job successfully. But, nonetheless, there's plenty of room for improvement, overall quality of pools, which our team, of course, will try absolute best to achieve in the next iteration.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4429612" style="background-image: url('https://a.ppy.sh/users/4429612')"></a>
 
