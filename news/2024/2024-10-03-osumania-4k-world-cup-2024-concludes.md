@@ -14,7 +14,15 @@ Taking into consideration that this is the United States second world cup victor
 
 ## Mappool showcase
 
-text + original (it will be embed as part of osu! originals)
+At last, we've reached the end. This is the hardest the pools will get, and it clearly shows, with a great example being [Mare Nectaris (Camellia's "Ingenii" Remix)](https://osu.ppy.sh/beatmapsets/2253779#mania/4793983) by [0DZ0](https://osu.ppy.sh/users/28156707) (RC7). Containing over four whole minutes of pure rice, it has just about all patterns you could imagine seeing in a chart of this length. In other words, it's a rice tiebreaker.
+
+The remaining two examples can be shown by the [osu! originals](/wiki/osu!_originals) this pool gave us, which you can listen to in the osu! originals recap, or by clicking this link **(will add hyperlink that leads directly to grand finals originals)**.
+
+[Ashrount](https://osu.ppy.sh/beatmaps/artists/352) has been known for their tracks in other rhythm games, and this time they're bringing us an incredible track for the HB1 slot, [GALVANIZER](https://osu.ppy.sh/beatmapsets/2253764#mania/4793954) mapped by [guden](https://osu.ppy.sh/users/11626065)! As expected of the slot, it's fairly straightforward with 1/4 snaps, but that's not to say it's straightforward to play, as 288BPM is really pushing the limits for what's doable. Doubt it? Give it a try yourself!
+
+To wrap up all mappools, where would we be without the Grand Finals tiebreaker? [kanemiko](https://osu.ppy.sh/beatmaps/artists/367), [Kyutatsuki](https://twitter.com/Kyutatsuki) and [Aoi](https://osu.ppy.sh/beatmaps/artists/183) bring us our final chart, [Fractal Vertex](https://osu.ppy.sh/beatmapsets/2253784#mania/4793996), mapped by [-mint-](https://osu.ppy.sh/users/8976576), [Toaph Daddy](https://osu.ppy.sh/users/7616811), [elexire](https://osu.ppy.sh/users/9206093), [guden](https://osu.ppy.sh/users/11626065), and [MyZterioN-](https://osu.ppy.sh/users/8521723)!
+
+While it might be slightly easier than last year's tiebreaker, that's not to say it is without a doubt the hardest thing in the pool. In typical tiebreaker fashion, it goes through a ton of patterns, relentlessly throwing more and more at you despite how much you'd want a short break. Even if this is out of your skill range, it's heavily recommended to at least give it a look and appreciate the design team that worked hard to make this happen.
 
 ## Grand Finals recap
 
@@ -94,6 +102,22 @@ Amongst all the new music you will also find tons of custom-made artwork in the 
 
 ### Semifinals
 
+[![](/wiki/shared/news/2024-09-18-osumania-4k-world-cup-2024-semifinals-recap/hubris.jpg)](https://osu.ppy.sh/beatmapsets/2246389#mania/4776009)
+
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/artists/364/Songs/kaitendaentai_-_Hubris.mp3">
+    </audio>
+</div>
+
+[![](/wiki/shared/news/2024-09-18-osumania-4k-world-cup-2024-semifinals-recap/void_of_altair.jpg)](https://osu.ppy.sh/beatmapsets/2246375#mania/4775984)
+
+<div class="osu-md__paragraph">
+    <audio controls>
+        <source src="https://assets.ppy.sh/artists/401/Songs/Akiri_-_Void_Of_Altair.mp3">
+    </audio>
+</div>
+
 [![](/wiki/shared/news/2024-09-18-osumania-4k-world-cup-2024-semifinals-recap/dear_the_night_i_loved.jpg)](https://osu.ppy.sh/beatmapsets/2246380#mania/4775997)
 
 <div class="osu-md__paragraph">
@@ -134,7 +158,7 @@ Amongst all the new music you will also find tons of custom-made artwork in the 
 
 As per tradition, this part of the news post is reserved to talk to one of the top placing teams, and shine a light behind the scenes, where a lot of community members put in their time and effort to make sure MWC 4K is an unforgettable experience.
 
-![](/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/_Kiruru.png)
+![](/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/_Kiruru-banner.png)
 
 [_Kiruru](https://osu.ppy.sh/users/17699745) is team Thailand's captain, and has successfully led the team to their first ever podium finish, achieving 2nd place in the osu!mania 4K World Cup 2024.
 
@@ -223,13 +247,69 @@ It was definitely the moment we won against South Korea, because when I started 
 
 Lastly, I would like to thank the MWC2024 Thailand team for practising and making sure our top 3 placement goal came true, and thank you to everyone who supported and kept cheering us on.
 
+</div>
+
 ---
 
-![](/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/Paturages.png)
+![](/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/Paturages-banner.png)
 
-questions soon
+<div class="news-chat-quote__text-container">
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/RandomeLoL-avatar.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/7080063">RandomeLoL</a></p>
+
+We're glad to see the tournament coming to an end! How well do you think this year's picks have been received, both by players and by the community?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/1375479" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/Paturages-avatar.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/1375479">Paturages</a></p>
+
+While SV picks have been received well, some of the risks and bets we've taken this year may have been a bit brazen. Going from the opinions I could gather and evaluate, I believe it comes down to a few key items:
+
+- Picks are too hard and/or intimidating to learn.
+- Flashy and unintuitive picks with an easier learning curve were the best received.
+- Teams going against strong SV teams were discouraged to learn SVs.
+
+Over the years, there has been a lot of progress in making gimmicks more telegraphed, polished, and accessible. Despite the different landscape, I do believe we've come back to a point where SVs are too hard for team tournament usage. We've learned a lot, but there's still room for improvement.
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/RandomeLoL-avatar.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/7080063">RandomeLoL</a></p>
+
+Tell us a bit about yourself. What does being the head SV mappooler entail? What considerations does it come with as opposed to pooling for other skillsets?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/1375479" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/Paturages-avatar.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/1375479">Paturages</a></p>
+
+SV pooling is completely different from the rest of picks. It is nigh impossible to balance the difficulty between one and the other. Moreover, SV as a skill set requires a level of knowledge not found in other picks. Therefore, it usually ends up being an insular task confined to those with the experience to handle it.
+
+There is so much more than meets the eye, and two categories alone do not encompass the nuances of the skill set. More importantly, each SV pick should feel unique. Each pick is heavily nuanced by the mappers, and their outputs can wildly be different. And while this makes it harder to balance, it also makes it fun and interesting!
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/RandomeLoL-avatar.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/7080063">RandomeLoL</a></p>
+
+Despite being considered a niche skill by many players, SV still gets to shine as a category in MWC. From a pooler's perspective, what are the primary reasons for the decision to include SV in the world cups?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/1375479" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/Paturages-avatar.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/1375479">Paturages</a></p>
+
+SV has historically always been talked about in world cups, whether in good or in bad light. Regardless how they're perceived, these picks offer unique experiences to players, mappers, and spectators alike. Players can spotlight their SV skills, mappers can showcase themselves and their work, and spectators get to see the flashiness of the picks.
+
+Even users from other modes can appreciate the uniqueness of SVs! From a pooler's perspective, this enables all the aforementioned groups to enjoy SV picks at their own pace. Players should have fun on our pools, and SV is one of the tools available to us to enable that.
 
 </div>
+
+---
+
+![](/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/Supa7onyz-banner.png)
+
+Supa7onyz (also known as [[GB]Azukisan](https://osu.ppy.sh/users/5378805)) is both a featured artist *and* a fellow community member. They debuted on the world cup stage this year with their brand new osu! original, [*Les Cadences Magiques*](https://osu.ppy.sh/beatmapsets/2238686#mania/4757070).
+
+hiiii :D
 
 ---
 
