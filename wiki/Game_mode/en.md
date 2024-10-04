@@ -52,9 +52,9 @@ In *osu!catch*, fruits of differing varieties fall from the top of the screen, a
 
 ## Custom game modes
 
-In osu!(lazer), you can use custom game modes (also called custom rulesets) that introduce a new way to play the game using the Beatmap Library that osu! offers. Custom game modes, like the main modes, are often inspired by other rhythm games.
+In osu!(lazer), you can use custom game modes (also called custom rulesets) that introduce a new way to play the game using the beatmap library that osu! offers. Custom game modes, like the main modes, are often inspired by other rhythm games.
 
-The full list of playable Custom Game modes can be found in [this GitHub discussion](https://github.com/ppy/osu/discussions/13096).
+The full list of playable Custom game modes can be found in [this GitHub discussion](https://github.com/ppy/osu/discussions/13096).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
