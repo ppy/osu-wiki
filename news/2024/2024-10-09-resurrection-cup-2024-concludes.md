@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Perennial Concludes
+title: Resurrection Cup 2024 Concludes
 date: 2024-10-09 19:00:00 +0000
 ---
 This year's Resurrection Cup has come to an end… but fret not, people are already hard at work preparing for an even better next iteration in 2025!
