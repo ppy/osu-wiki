@@ -12,7 +12,7 @@ The **COE x Yuki Aim 2024 1v1 Tournament** was a 1v1 single-elimination osu! LAN
 
 ## Prizes
 
-The COE x Yuki Aim 2024 1v1 Tournament offered a total cash prize pool of 3350€, keyboards provided by [Wooting](https://wooting.io/) and several merch from Yuki Aim, including stickers, posters, glasspad / clothpad
+The COE x Yuki Aim 2024 1v1 Tournament offered a total cash prize pool of 3350€, keyboards provided by [Wooting](https://wooting.io/) and several merch from [Yuki Aim](https://yuki.gg), including stickers, posters, glasspad / clothpad
 
 | Placing | Prize(s) |
 | :-: | :-- |
