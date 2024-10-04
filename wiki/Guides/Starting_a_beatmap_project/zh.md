@@ -1,6 +1,6 @@
 # 如何发起一个谱面项目
 
-*注意：本文介绍的是[谱面项目（Beatmap Projects）](https://osu.ppy.sh/community/forums/53)论坛区域，以及如何参与它。在发帖前，确保阅读它的[论坛规则](https://osu.ppy.sh/community/forums/topics/453937)。*
+*注意：本文介绍的是[谱面项目（Beatmap Projects）](https://osu.ppy.sh/community/forums/53)论坛区域，以及参与其中的方式。在发帖前，请确保阅读它的[论坛规则](https://osu.ppy.sh/community/forums/topics/453937)。*
 
 ## 取一个能传达足够信息的帖子标题
 
@@ -34,7 +34,7 @@
 - [\[Album\] Anamanaguchi - Scott Pilgrim vs The World (the game)](https://osu.ppy.sh/community/forums/topics/37908)
 - [\[Album\] Daft Punk - Random Access Memories](https://osu.ppy.sh/community/forums/topics/132592)
 
-**协作（Collab）**：为一首歌创建一个[谱面合作项目](/wiki/Beatmap/Beatmap_collaborations)。可能包含[故事板](/wiki/Storyboard)请求，或为[马拉松图](/wiki/Beatmap/Marathon)创作其中一部分。这可能包含[故事板](/wiki/Storyboard)请求，或为[马拉松图](/wiki/Beatmap/Marathon)创作其中一部分。
+**协作（Collab）**：为一首歌创建一个[谱面合作项目](/wiki/Beatmap/Beatmap_collaborations)。这可能包含[故事板](/wiki/Storyboard)请求，或为[马拉松图](/wiki/Beatmap/Marathon)创作其中一部分。
 
 例子：
 
