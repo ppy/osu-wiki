@@ -38,7 +38,7 @@ Los torneos organizados por la comunidad que cumplan con los siguientes criterio
     - El tamaño de los equipos es de 8 o más jugadores.
     - Nota: En los torneos con múltiples divisiones, esta regla se aplica solo a una división de rango abierto.
   - Podrán permitirse escalas y formatos alternativos a discreción del comité del torneo. Los organizadores deben ponerse en contacto a través del correo electrónico [tournaments@ppy.sh](mailto:tournaments@ppy.sh) si desean recibir soporte para un formato o tamaño no tradicional para los torneos.
-- Los hilos del foro asociados con el torneo (incluidos los hilos de cualquier evento preliminar) **DEBEN** contener un enlace claramente visible en un tipo de letra de tamaño normal al [formulario de reportes de torneos](https://pif.ephemeral.ink/tournament-reports) como último contenido del mensaje original.
+- Los hilos del foro asociados con el torneo (incluidos los hilos de cualquier evento preliminar) **DEBEN** contener un enlace claramente visible en un tamaño de letra normal al [formulario de reportes de torneos](https://pif.ephemeral.ink/tournament-reports) como último contenido del mensaje original.
   - `https://pif.ephemeral.ink/tournament-reports`
   - Este formulario de reportes es supervisado por el [comité de torneos](/wiki/People/Tournament_Committee). Animamos a todos los usuarios, tanto jugadores como personal, a usar este formulario cuando sea necesario. Cualquier incumplimiento de las [expectativas](#expectativas), [otros procedimientos](#otros-procedimientos) o los requisitos de [elegibilidad](#elegibilidad) debe dar lugar a un reporte.
 - El torneo debe respetar las siguientes reglas de uso de contenido:
@@ -62,7 +62,7 @@ Si tu torneo cumple los [criterios de elegibilidad](#elegibilidad), puedes hacer
 
 - Una breve descripción de tu torneo, incluidas las fechas correspondientes, los modos de juego y cualquier otra característica apropiada
 - Cualquier enlace a:
-  - El hilo del foro situado en el [foro Tournaments](https://osu.ppy.sh/community/forums/55) que anuncia/detalla tu torneo.
+  - El hilo situado en el [foro Tournaments](https://osu.ppy.sh/community/forums/55) que anuncia/detalla tu torneo.
     - Para los torneos regionales, el hilo puede crearse en el subforo del idioma correspondiente.
   - Servidores de Discord públicos o cualquier otra sala de chat externa usada para el evento.
   - Ediciones anteriores de la misma serie de torneos (solo cuando sea el caso).
@@ -83,7 +83,7 @@ Los torneos organizados por la comunidad que reciban este soporte deberán respe
 - Preservar la integridad competitiva.
 - Fomentar la buena deportividad.
 
-Además, todo el material promocional o cualquier servicio asociado a un torneo que reciba soporte oficial deberá cumplir las [reglas de la comunidad de osu!](/wiki/Rules). Esto incluye cosas como cuentas de Twitter, servidores Discord, etc.
+Además, todo el material promocional o cualquier servicio asociado a un torneo que reciba soporte oficial deberá cumplir las [reglas de la comunidad de osu!](/wiki/Rules). Esto incluye cosas como cuentas de Twitter, servidores de Discord, etc.
 
 **El torneo también deberá cumplir las siguientes prácticas en todo momento:**
 
@@ -92,7 +92,7 @@ Además, todo el material promocional o cualquier servicio asociado a un torneo 
   - Esto incluye impedir que jueguen los usuarios a los que se percibe como «sandbagging». Si a un organizador le preocupa que la presencia de dichos jugadores afecte a la integridad competitiva de su torneo, puede plantear el problema al [comité de torneos](/wiki/People/Tournament_Committee) usando el [formulario de reportes](https://pif.ephemeral.ink/tournament-reports) para que lo revisen individualmente.
 - Un árbitro especializado deberá estar presente durante cada partido, o estar disponible para ser convocado con un retraso mínimo (2-5 minutos) si se ha concedido el permiso correspondiente para el uso de software automatizado y se está usando como asistencia. Los jugadores no pueden ser los árbitros.
   - El uso de bots está permitido en los partidos de la fase de clasificación, siempre y cuando estén supervisado por un miembro del personal.
-- Todos los partidos de un mismo grupo o fase de clasificación deben tener un formato igual. Por ejemplo, en un torneo con una fase de clasificación y un bracket de doble eliminación, todos los partidos del bracket deben jugarse de forma sincrónica o asincrónica, pero no ambas.
+- Todos los partidos de un mismo grupo o fase de clasificación deben tener un formato uniforme. Por ejemplo, en un torneo con una fase de clasificación y un bracket de doble eliminación, todos los partidos del bracket deben jugarse de forma sincrónica o asincrónica, pero no ambas.
 - Todas las partidas multijugador relevantes para el torneo deben crearse con el comando `!mp make`, para que no caduquen. Los resultados deben registrarse y ponerse a disposición del público en la publicación original del foro del torneo o en una fuente externa enlazada en la publicación del foro en un formato claro y accesible.
 - Todos los cambios en las reglas deben comunicarse claramente a todos los participantes. Estos deberán cumplir las expectativas indicadas [más arriba](#torneos).
 
