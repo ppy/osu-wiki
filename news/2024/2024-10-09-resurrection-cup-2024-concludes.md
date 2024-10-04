@@ -15,7 +15,7 @@ swaglords vs. Germany owc B
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://youtu.be/2l4KS5feTA8" frameborder="0" allowfullscreen></iframe>
 </div>
 
-First time Seed #1 and Seed #2 clashed in Finals immediately going to a Tiebreaker where FlyingTuna S ranked Shokiii's Finals Tiebreaker original song!
+First time Seed #1 and Seed #2 clashed in Finals immediately going to a Tiebreaker where [FlyingTuna](https://osu.ppy.sh/users/9224078) S-ranked Shokiii's Finals Tiebreaker original song!
 kotomiler vs. fresh off the boat
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://youtu.be/R0FSFEV_uLA" frameborder="0" allowfullscreen></iframe>
