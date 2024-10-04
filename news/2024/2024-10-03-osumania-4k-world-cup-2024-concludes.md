@@ -14,6 +14,18 @@ Taking into consideration that this is the United States second world cup victor
 
 ## Mappool showcase
 
+<style>
+    .osu-md--news .audio-player {
+        max-width: inherit;
+    }
+</style>
+
+[**Download the pool here! (199 MB)**](https://osu.ppy.sh/beatmaps/packs/P262)
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2257700954&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+</div>
+
 At last, we've reached the end. This is the hardest the pools will get, and it clearly shows, with a great example being [Mare Nectaris (Camellia's "Ingenii" Remix)](https://osu.ppy.sh/beatmapsets/2253779#mania/4793983) by [0DZ0](https://osu.ppy.sh/users/28156707) (RC7). Containing over four whole minutes of pure rice, it has just about all patterns you could imagine seeing in a chart of this length. In other words, it's a rice tiebreaker.
 
 The remaining two examples can be shown by the [osu! originals](/wiki/osu!_originals) this pool gave us, which you can listen to in the osu! originals recap, or by clicking this link **(will add hyperlink that leads directly to grand finals originals)**.
@@ -52,13 +64,7 @@ text
 
 ## osu! originals
 
-<style>
-    .osu-md--news .audio-player {
-        max-width: inherit;
-    }
-</style>
-
-For this year's tournament, the World Cup team has blessed us with **8** brand new [osu! originals](/wiki/osu!_originals), all of which have been neatly arranged, ready for you to peruse and maybe even find a new artist to obsess over.
+For this year's tournament, the World Cup team has blessed us with **10** brand new [osu! originals](/wiki/osu!_originals), all of which have been neatly arranged, ready for you to peruse and maybe even find a new artist to obsess over.
 
 Amongst all the new music you will also find tons of custom-made artwork in the form of backgrounds, assets, videos and storyboards, so it is highly encouraged that you take a peek and send some appreciation to everyone who put their time and effort into bringing original content for the whole community (osu! mania or not) to enjoy.
 
