@@ -1,5 +1,7 @@
 # COE x Yuki Aim 2024 1v1 Tournament
 
+![](img/banner.jpg)
+
 The **COE x Yuki Aim 2024 1v1 Tournament** was a 1v1 single-elimination osu! LAN tournament run entirely in the [osu!(lazer)](/wiki/Client/Release_stream/Lazer) client, and hosted during [cavoe's osu! event 2024 (COE 2024)](/wiki/Community/cavoe's_osu!_event/2024) at Brabanthallen in 's-Hertogenbosch, Netherlands. It was the fourth instalment of the COE tournament series.
 
 ## Tournament schedule
