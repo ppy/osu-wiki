@@ -6,7 +6,7 @@ Halaman ini akan menjelaskan cara untuk memasang osu! pada perangkat macOS milik
 
 - Komputer yang memadai dengan sistem operasi macOS.
 
-## Instalasi osu!
+## Memasang osu!
 
 osu! versi macOS diketahui memiliki beberapa *bug* visual minor dan performa permainan yang tidak seoptimal osu! pada umumnya. Permainan kamu mungkin tidak akan berjalan secara sempurna pada awalnya, dan kamu mungkin akan memerlukan beberapa penyesuaian agar kamu dapat terbiasa. Untuk memasang osu! pada perangkat macOS, ikuti langkah-langkah berikut:
 
