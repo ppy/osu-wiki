@@ -5,7 +5,7 @@ date: 2024-10-09 19:00:00 +0000
 ---
 This year's Resurrection Cup has come to an end… but fret not, people are already hard at work preparing for an even better next iteration in 2025!
 
-A total of 26 originals made specifically for this year’s iteration, making Resurrection Cup 2024 the tournament with the highest amount of custom songs on osu!standard, and 2nd only behind COEGTS 2023 across the 4 gamemodes.
+A total of 26 originals made specifically for this year's iteration, making Resurrection Cup 2024 the tournament with the highest amount of custom songs on osu!standard, and 2nd only behind [COEGTS 2023](/wiki/Tournaments/GTS/COEGTS_2023) across the 4 gamemodes.
 ## Tournament result & highlights
 ![](https://phreel.s-ul.eu/CGdg0BaG)
 
