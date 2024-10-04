@@ -50,7 +50,7 @@ In *osu!catch*, fruits of differing varieties fall from the top of the screen, a
 
 ![Gameplay of osu!mania](/wiki/shared/mania-gameplay.jpg "osu!mania gameplay")
 
-## Custom Game modes
+## Custom game modes
 
 In osu!(lazer), you can use custom game modes (also called custom rulesets) that introduce a new way to play the game using the Beatmap Library that osu! offers. Custom game modes, like the main modes, are often inspired by other rhythm games.
 
