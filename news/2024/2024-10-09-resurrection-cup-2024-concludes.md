@@ -28,7 +28,7 @@ Commentated by [D I O](https://osu.ppy.sh/users/3958619) and [Tycani](https://os
 </div>
 
 ## Resurrection Cup originals
-This year, we’ve managed to release 26 songs, alongside all of them over 30 original illustrations ranging from beatmap backgrounds, PV animations, album covers and other necessary assets for announcements and banners.
+This year, we've managed to release 26 songs, alongside all of them over 30 original illustrations ranging from beatmap backgrounds, PV animations, album covers and other necessary assets for announcements and banners.
 
 Here is a crossfade showcasing them all!
 <div align="center" class="osu-md__paragraph">
