@@ -241,7 +241,7 @@ I would describe my style as diverse, heavily influenced by rhythm game songs, E
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/12840110" style="background-image: url('https://a.ppy.sh/users/12840110')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-bsc" href="https://osu.ppy.sh/users/12840110">Phreel</a></p>
-Which artists or composers do you draw inspiration from, and how have they influenced your approach to creating custom songs for osu! Tournaments?
+Which artists or composers do you draw inspiration from, and how have they influenced your approach to creating custom songs for osu! tournaments?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2345078" style="background-image: url('https://a.ppy.sh/users/2345078')"></a>
 
