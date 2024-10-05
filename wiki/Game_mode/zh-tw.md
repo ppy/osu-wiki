@@ -1,3 +1,9 @@
+---
+stub: true
+outdated_translation: true
+outdated_since: 5830d6cc5e93d6b10ff5c953761854889b85b0df
+---
+
 # 遊戲模式
 
 osu! 擁有四種包含不同玩法的**遊戲模式**，這些遊戲模式都受到了其他節奏遊戲的啟發：
