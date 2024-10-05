@@ -35,7 +35,7 @@ tags:
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235), ::{ flag=US }:: [Sydosys](https://osu.ppy.sh/users/17523947) |
-| Mappers | ::{ flag=AU }:: [\[Iron\]](https://osu.ppy.sh/users/13171482), ::{ flag=NO }:: [roufou](https://osu.ppy.sh/users/1109122), ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723), :{ flag=US }:: [Nivrad00](https://osu.ppy.sh/users/1984634), ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235), ::{ flag=US }:: [Sydosys](https://osu.ppy.sh/users/17523947) |
+| Mapper | ::{ flag=AU }:: [\[Iron\]](https://osu.ppy.sh/users/13171482), ::{ flag=NO }:: [roufou](https://osu.ppy.sh/users/1109122), ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723), :{ flag=US }:: [Nivrad00](https://osu.ppy.sh/users/1984634), ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235), ::{ flag=US }:: [Sydosys](https://osu.ppy.sh/users/17523947) |
 | Streamer | TBA |
 | Commentator | TBA |
 | Referee | TBA |
