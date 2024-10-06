@@ -7,14 +7,14 @@
 | Name | Beschreibung |
 | :-- | :-- |
 | Alle Noten löschen (`Strg` + `N`) | Entfernt alle Hit-Objekte der Schwierigkeitsstufe. |
-| Schwierigkeitsstufe öffnen ... | **Zum Editieren:** Wechsle schnell zwischen den Schwierigkeitsstufen. **Zur Referenz:** Lege die gewählte Schwierigkeitsstufe über die (aktuell) geöffnete (nur [osu!mania](/wiki/Game_mode/osu!mania)). |
+| Schwierigkeitsstufe öffnen ... | **Beim Editieren:** Schneller Wechsel zwischen den Schwierigkeitsstufen. **Zur Referenz:** Legt die gewählte Schwierigkeitsstufe über die (aktuell) geöffnete (nur [osu!mania](/wiki/Game_mode/osu!mania)). |
 | Speichern (`Strg` + `S`) | Speichert die aktuellen Änderungen (Dateiformate [`.osu`](/wiki/Client/File_formats/osu_(file_format)) und [`.osb`](/wiki/Client/File_formats/osb_(file_format))). |
-| Neue Schwierigkeitsstufe erstellen ... | Speichere die aktuellen Änderungen als neue Schwierigkeitsstufe. Die alte Schwierigkeitsstufe bleibt beim erneuten Laden in ihrem zuletzt gespeicherten Zustand erhalten. |
+| Neue Schwierigkeitsstufe erstellen ... | Speichert die aktuellen Änderungen als neue Schwierigkeitsstufe. Die alte Schwierigkeitsstufe bleibt beim erneuten Laden in ihrem zuletzt gespeicherten Zustand erhalten. |
 | Zum Gespeicherten zurücksetzen (`Strg` + `L`) | Hebt alle Änderungen der Schwierigkeitsstufe und des Storyboards bis zum letzten Speicherpunkt auf. |
 | Zum Gespeicherten zurücksetzen (Komplett) (`Strg` + `Shift` + `L`) | Hebt alle Änderungen der Schwierigkeitsstufe und des Storyboards bis zum letzten Speicherpunkt auf und lädt alle Dateien neu (Sprites, Soundsamples etc.). |
-| Beatmap testen (`F5`) | [Teste](/wiki/Client/Beatmap_editor/Test_mode) die Beatmap. Aktuelle Änderungen werden für den Test gespeichert. |
+| Beatmap testen (`F5`) | Startet den [Testmodus](/wiki/Client/Beatmap_editor/Test_mode). Aktuelle Änderungen werden für den Test gespeichert. |
 | AiMod öffnen (`Strg` + `Shift` + `A`) | [AiMod](/wiki/Client/Beatmap_editor/AiMod) öffnen. |
-| Beatmap hochladen ... (`Strg` + `Shift` + `U`) | [Lade](/wiki/Beatmapping/Beatmap_submission) die Beatmap in das Forum [Work In Progress](https://osu.ppy.sh/community/forums/10) hoch. |
+| Beatmap hochladen ... (`Strg` + `Shift` + `U`) | [Lädt](/wiki/Beatmapping/Beatmap_submission) die Beatmap in das Forum [Work In Progress](https://osu.ppy.sh/community/forums/10) hoch. |
 | Paket exportieren ... | Exportiert die Beatmap als [`.osz`-Archiv](/wiki/Client/File_formats/osz_(file_format)) zur manuellen Weitergabe. Der Ordner `Exports` wird geöffnet, in dem die Datei abgelegt wird. |
 | Map-Paket entpacken | Entpackt eine Beatmap im Format `.osz2` in einen temporären Ordner, um die darin enthaltenen Daten während des Moddings zu überschreiben.[^osz2-note] |
 | Importiere von ... | **bms/bme:** Öffnet Dateien im Format `.bms`/`.bme`, um sie als osu!mania-Schwierigkeitsstufe zu importieren. |
@@ -47,7 +47,7 @@
 | Samples des ausgewählten Objekts zurücksetzen | Entfernt den [Hitsound](/wiki/Beatmapping/Hitsound) vom ausgewählten Hit-Objekt. |
 | Alle Samples zurücksetzen | Entfernt alle festgelegten Hitsounds von den Hit-Objekten in dieser Schwierigkeitsstufe. |
 | Combo-Farben zurücksetzen | Setzt alle [Combo-Farben](/wiki/Beatmapping/Colourhaxing) in der aktuellen Schwierigkeitsstufe zurück. |
-| Pausen zurücksetzen | Setzt alle [Pausen](/wiki/Beatmap/Break) zurück und platziert diese neben umliegende Hit-Objekte. |
+| Pausen zurücksetzen | Setzt alle [Pausen](/wiki/Beatmap/Break) zurück und platziert diese neben umliegenden Hit-Objekten. |
 | Stups zurück (`J`) | Bewegt die Auswahl abhängig vom [Taktteiler](/wiki/Client/Beatmap_editor/Beat_snap_divisor) um einen Beat zurück. |
 | Stups vorwärts (`K`) | Bewegt die Auswahl abhängig vom Taktteiler um einen Beat nach vorne. |
 
@@ -80,12 +80,12 @@
 
 | Name | Beschreibung |
 | :-- | :-- |
-| Taktteiler | Passe die Feinheit des [Taktteilers](/wiki/Client/Beatmap_editor/Beat_snap_divisor) an, wobei mehr oder weniger Striche auf der [Zeitleiste](/wiki/Client/Beatmap_editor/Timelines) angezeigt werden. |
+| Taktteiler | Passt die Feinheit des [Taktteilers](/wiki/Client/Beatmap_editor/Beat_snap_divisor) an, wobei mehr oder weniger Striche auf der [Zeitleiste](/wiki/Client/Beatmap_editor/Timelines) angezeigt werden. |
 | Abspieltempo | Gibt an, wie schnell das Lied abgespielt wird. |
 | Gitter-Ausrichtung (`T`) | Ein- und ausschalten, dass Hit-Objekte am [Raster](/wiki/Beatmapping/Grid_snapping) des Spielfelds ausgerichtet werden. |
 | Polygon-Noten erstellen ... (`Strg` + `Shift` + `D`) | Erstellt anhand des aktiven Taktteilers einen kreisförmigen Fluss aus Hit-Circles. |
-| Slider zu Stream konvertieren ... | Ändere den [Körper](/wiki/Gameplay/Hit_object/Slider/Sliderbody) eines ausgewählten Sliders zu einem Stream aus Hit-Circles. **Nach Objektanzahl:** Verwendung einer bestimmten Anzahl von Hit-Circles. **Nach Abstandsraster:** Platziere Objekte nach einem [festgelegtem Abstand](/wiki/Client/Beatmap_editor/Distance_snap). |
-| Live-Mapping-Modus aktivieren (`Strg` + `Tab`) | Platziere [Hit-Circles](/wiki/Gameplay/Hit_object/Hit_circle) in osu! und osu!taiko, [Fruits](/wiki/Gameplay/Hit_object/Fruit) in osu!catch bzw. Noten in osu!mania mit den Tastenbelegungen während der Song im Editor spielt.[^live-mapping-note] |
+| Slider zu Stream konvertieren ... | Ändert den [Körper](/wiki/Gameplay/Hit_object/Slider/Sliderbody) eines ausgewählten Sliders zu einem Stream aus Hit-Circles. **Nach Objektanzahl:** Verwendung einer bestimmten Anzahl von Hit-Circles. **Nach Distance Snap:** Platziert Objekte nach einem [festgelegtem Abstand](/wiki/Client/Beatmap_editor/Distance_snap). |
+| Live-Mapping-Modus aktivieren (`Strg` + `Tab`) | Platziert [Hit-Circles](/wiki/Gameplay/Hit_object/Hit_circle) in osu! und osu!taiko, [Fruits](/wiki/Gameplay/Hit_object/Fruit) in osu!catch bzw. Noten in osu!mania mit den Tastenbelegungen während der Song im Editor spielt.[^live-mapping-note] |
 | Sample importieren | Öffnet den Dialog [`Sample importieren`](/wiki/Client/Beatmap_editor/Compose#sample-import) für osu!mania-Schwierigkeitsstufen. |
 
 ## Design
@@ -106,16 +106,16 @@
 
 | Name | Beschreibung |
 | :-- | :-- |
-| Rhythmus | Wähle zwischen den [Taktarten](/wiki/Music_theory/Time_signature) Walzer (3/4) oder Standard (4/4) für den aktuellen Timing-Punkt. Benutze das [`Timing Setup`](/wiki/Client/Beatmap_editor/Timing) für andere Taktarten. |
-| Metronom | Aktiviere oder deaktiviere die Tickgeräusche des [Metronoms](/wiki/Client/Beatmap_editor/Timing#metronome) im Tab `Timing`. |
+| Rhythmus | Wahl zwischen den [Taktarten](/wiki/Music_theory/Time_signature) Walzer (3/4) oder Standard (4/4) für den aktuellen Timing-Punkt. Für andere Taktarten muss das [`Timing Setup`](/wiki/Client/Beatmap_editor/Timing) verwendet werden. |
+| Metronom | Aktiviert oder deaktiviert die Tickgeräusche des [Metronoms](/wiki/Client/Beatmap_editor/Timing#metronome) im Tab `Timing`. |
 | Sektion hinzufügen (`Strg` + `P`) | Erstellt eine neue [nicht vererbte (rote) Timing-Sektion](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point). |
 | Erbende Sektion hinzufügen (`Strg` + `Shift` + `P`) | Erstellt eine neue [vererbte (grüne) Timing-Sektion](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point). |
-| Aktuelle Sektion zurücksetzen | Setze die [BPM](/wiki/Music_theory/Tempo) und das [Offset](/wiki/Offset) der aktuellen nicht vererbten Timing-Sektion zurück, [um diese neu zu timen](/wiki/Beatmapping/Timing). Wird die Schwierigkeitsstufe gespeichert, gehen die damit zusammenhängenden Sektionen ohne Bearbeitung verloren. |
+| Aktuelle Sektion zurücksetzen | Setzt die [BPM](/wiki/Music_theory/Tempo) und das [Offset](/wiki/Offset) der aktuellen nicht vererbten Timing-Sektion zurück, [damit diese neu getimt werden kann](/wiki/Beatmapping/Timing). Wird die Schwierigkeitsstufe gespeichert, gehen die damit zusammenhängenden Sektionen ohne Bearbeitung verloren. |
 | Sektion entfernen (`Strg` + `I`) | Entfernt die Timing-Sektion, in der man sich gerade befindet (sowohl vererbte als auch nicht vererbte). |
 | Sektion neu ausrichten | [Richtet](/wiki/Beatmapping/Snapping) alle Hit-Objekte in der aktuellen Timing-Sektion anhand des aktiven Taktteilers neu aus. |
 | Timing-Einstellungen... (`F6`) | Öffnet den Dialog [`Timing and Control Points`](/wiki/Client/Beatmap_editor/Timing). |
 | Alle Noten neu ausrichten | Richtet alle Hit-Objekte in der aktuellen Schwierigkeitsstufe nach dem aktiven Taktteiler aus. |
-| Alle Noten verschieben ... | Bewege alle Hit-Objekte um einen Zeitwert in Millisekunden. |
+| Alle Noten verschieben ... | Bewegt alle Hit-Objekte um einen Zeitwert in Millisekunden. |
 | Sliderlängen neu berechnen | Setzt die [Sliderenden](/wiki/Gameplay/Hit_object/Slider/Slidertail) automatisch zum nächstgelegenen Strich auf der Zeitleiste,[^recalculate-lengths-note] wobei **die Slider möglicherweise gekürzt werden** und deshalb manuell überprüft werden müssen. |
 | Alle Sektionen löschen | Löscht alle vererbten und nicht vererbten Timing-Sektionen aus der aktuellen Schwierigkeitsstufe. |
 | Aktuelle Position als Vorschaupunkt festlegen | Den aktuellen Zeitstempel als Vorschaupunkt für die Webseite und die [Songauswahl](/wiki/Client/Interface#songauswahl) verwenden. |
