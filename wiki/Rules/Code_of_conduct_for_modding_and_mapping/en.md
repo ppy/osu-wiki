@@ -12,6 +12,10 @@ The **code of conduct for modding and mapping** is a set of rules and guidelines
 
 ## Responding to a mod
 
+It is a mapper's responsibility to keep up with the latest discussions in their beatmaps. Ignoring suggestions or not responding to them in a timely manner can discourage other modders from participating in the discussion.
+
+When responding to someone's suggestions, it is important to consider the following:
+
 - **Treat all suggestions as valid and equally important.** Don't draw hasty conclusions about the validity of a suggestion without properly assessing it.
 - **Explain yourself as much as possible.** State what you changed, and if you didn't accept the suggestion for some reason, explain why and what you did instead. This will not only help the modder to learn, but also allow future mods to be tailored to your concept or style.
 - **Remain calm.** Say what needs to be said in order to explain yourself and leave it at that. No matter how unhelpful the suggestion was, responding with hostility, sarcasm, etc. will not help the situation.
