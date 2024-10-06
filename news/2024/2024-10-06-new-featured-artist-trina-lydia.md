@@ -6,7 +6,7 @@ date: 2024-10-06 18:00:00 +0000
 
 You don't need synesthesia to see why **Trina Lydia**'s music is worth mapping.
 
-![](https://assets.ppy.sh/artists/xxx/header.jpg)
+![](https://assets.ppy.sh/artists/440/header.jpg)
 
 While **Trina Lydia**'s style is clearly reminiscent of authentic rhythm game tunes, they refuse to stick to a single genre.
 
@@ -18,7 +18,7 @@ Experience what **Trina Lydia** has to offer through a flashback to [COE 2024](/
 
 <div align="center">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/artists/xxx/release_showcase.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/artists/440/release_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -27,7 +27,7 @@ Experience what **Trina Lydia** has to offer through a flashback to [COE 2024](/
 Play through [the map from the video above](https://osu.ppy.sh/beatmapsets/2197796) hosted by [Wispy](https://osu.ppy.sh/users/11106929)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/440/Stellar%20Immortality/Trina%20Lydia%20-%20Stellar%20Immortality.mp3">
 </audio>
 
 ### Trina Lydia - TETRATONE ALTiSSiMO
@@ -35,7 +35,7 @@ Play through [the map from the video above](https://osu.ppy.sh/beatmapsets/21977
 Is 1-key osu!mania possible? [This map](https://osu.ppy.sh/beatmapsets/2249563) hosted by [Sparxe](https://osu.ppy.sh/users/5750235) has the answer.
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/440/TETRATONE%20ALTiSSiMO/Trina%20Lydia%20-%20TETRATONE%20ALTiSSiMO.mp3">
 </audio>
 
 ### Trina Lydia - The Blank Canvas
@@ -43,7 +43,7 @@ Is 1-key osu!mania possible? [This map](https://osu.ppy.sh/beatmapsets/2249563) 
 Or flex your 4 favourite fingers on [this osu!mania 4K map](https://osu.ppy.sh/beatmapsets/2243563) hosted by [Usagi_](https://osu.ppy.sh/users/16046205)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/440/The%20Blank%20Canvas/Trina%20Lydia%20-%20The%20Blank%20Canvas.mp3">
 </audio>
 
 ---
