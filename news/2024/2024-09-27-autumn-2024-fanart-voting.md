@@ -4,7 +4,7 @@ title: "Autumn 2024 Fanart Contest: Voting Open"
 date: 2024-09-27 17:00:00 +0000
 ---
 
-Autumn is here, and with it **182** appropriately themed artworks to celebrate the occasion!
+Autumn is here, and with it **181** appropriately themed artworks to celebrate the occasion!
 
 ![](https://assets.ppy.sh/contests/221/banner.jpg)
 
