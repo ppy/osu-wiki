@@ -31,7 +31,7 @@ tags:
 
 | 名次 | 奖励 |
 | :-: | :-- |
-| ![金皇冠](/wiki/shared/crown-gold.png "冠军队") | 队内所有成员获得一个猫盘（由 *DESU.Life* 提供） |
+| ![金皇冠](/wiki/shared/crown-gold.png "冠军队") | 队内所有成员获得一个[猫盘](https://desu.life#device)（由 *DESU.Life* 提供） |
 | 排名前三队伍 | 队内所有成员获得名次相应的 KanonBot 奖牌 |
 | 所有参赛选手 | OFFC 官方 QQ 群头衔，队伍定制首页动态横幅 |
 

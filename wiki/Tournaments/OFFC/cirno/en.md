@@ -27,7 +27,7 @@ The **osu! FumoFumo Cup: cirno** (***OFFC: cirno***) is a 4v4 double-elimination
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | One MeowPad for each team member (provided by *DESU.Life*) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | One [MeowPad](https://desu.life#device) for each team member (provided by *DESU.Life*) |
 | Top three teams | Corresponding KanonBot badge for each team member |
 | All players | Title in OFFC official QQ group, animated profile banners (team customized) |
 
