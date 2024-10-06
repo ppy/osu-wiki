@@ -12,7 +12,7 @@ While **Trina Lydia**'s style is clearly reminiscent of authentic rhythm game tu
 
 Each track that **Trina Lydia** creates is fresh, accompanied by sprinkles of references to other iconic tracks and explorations into new production techniques. It doesn't matter how different each song genre is though — all of **Trina Lydia**'s songs are worth bringing into osu!.
 
-[**Trina Lydia**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/440) is officially home to **8** new songs, including two [originals](/wiki/osu!_originals) produced specifically for community tournaments!
+[**Trina Lydia**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/440) is officially home to **8** new songs, including two [originals](/wiki/osu!_originals) produced specifically for community events!
 
 Experience what **Trina Lydia** has to offer through a flashback to [COE 2024](/wiki/Community/cavoe's_osu!_event/2024), where circle clicker [zts](https://osu.ppy.sh/users/4675441) played [Stellar Immortality](https://osu.ppy.sh/beatmapsets/2197796) with an unreasonably massive tablet (using full area, of course):
 
