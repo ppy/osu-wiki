@@ -17,7 +17,7 @@
 | Beatmap hochladen ... (`Strg` + `Shift` + `U`) | [Lade](/wiki/Beatmapping/Beatmap_submission) die Beatmap in das Forum [Work In Progress](https://osu.ppy.sh/community/forums/10) hoch. |
 | Paket exportieren ... | Exportiert die Beatmap als [`.osz`-Archiv](/wiki/Client/File_formats/osz_(file_format)) zur manuellen Weitergabe. Der Ordner `Exports` wird geöffnet, in dem die Datei abgelegt wird. |
 | Map-Paket entpacken | Entpackt eine Beatmap im Format `.osz2` in einen temporären Ordner, um die darin enthaltenen Daten während des Moddings zu überschreiben.[^osz2-note] |
-| Importieren von ... | **bms/bme:** Öffnet Dateien im Format `.bms`/`.bme`, um sie als osu!mania-Schwierigkeitsstufe zu importieren. |
+| Importiere von ... | **bms/bme:** Öffnet Dateien im Format `.bms`/`.bme`, um sie als osu!mania-Schwierigkeitsstufe zu importieren. |
 | Songs-Ordner öffnen | Öffnet den Beatmap-Ordner, der die zugehörigen Spieldateien enthält. |
 | `.osu` im Editor öffnen | Öffnet die Datei der aktuellen Schwierigkeitsstufe im Texteditor. |
 | `.osb` im Editor öffnen | Öffnet die [Storyboard-Datei](/wiki/Storyboard) der Beatmap im Texteditor. |
