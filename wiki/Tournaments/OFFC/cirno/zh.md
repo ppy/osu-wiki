@@ -267,7 +267,7 @@ osu! FumoFumo Cup：琪露诺杯由众多的社区成员举办。
 
 3. 每支队伍必须满足一定的 cost 限制，公式如下：
 
-   ![组队 Cost 公式](img/teamup_formula.png)
+   ![组队 Cost 公式](img/teamup-formula.png)
 
 4. 每队前四 **cost 之和≤24.6**。
 
