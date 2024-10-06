@@ -1,7 +1,5 @@
 ---
 no_native_review: true
-outdated_translation: true
-outdated_since: b75cab0564e5b20a69771d98bbd25edc426b3dad
 ---
 
 # Tournois
@@ -300,6 +298,12 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | [osu! European Tournament 2](o!ET/2) | 10/02/2019 | 30/03/2019 | Sruba (Top), Makeshift Winners (Mid), not even european (Low) | Almost Allies (Top), singletap is braindead (Mid), Yes (Yes) (Low) | nh9mju0 (Top), Phoenix Emperors (Mid), Polish Musketeers (Low) |
 | osu! European Tournament 3 | 08/02/2019 | 23/03/2020 | Woopak :CRAB: | Fondermanp2p | Käptn Mein Käptn |
 | [osu! European Tournament 2021](o!ET/2021) | 15/05/2021 | 11/07/2021 | opa pizdec | The Cow Fields | Team Papayapa |
+
+#### osu! FumoFumo Cup
+
+| Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne de bronze][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu! FumoFumo Cup: cirno](OFFC/cirno) | 15/09/2024 | - | - | - | - |
 
 #### osu! Indonesia Tournament
 
