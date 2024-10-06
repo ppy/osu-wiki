@@ -99,7 +99,7 @@ osu! FumoFumo Cup：琪露诺杯由众多的社区成员举办。
 | 3 | DT4 | FM2 | DT1 | NM1 |
 | 4 | HR2 | NM4 | HD1 | DT3 |
 
-- NoMod
+- No Mod
   1. [Kushper - Versailles [Kushper's Extra]](https://osu.ppy.sh/beatmapsets/2008600#osu/4233618)
   2. [Demetori - Hartmann no Youkai Shoujo ~ Todestrieb und Lebenstrieb [Daycore's Skibidi Koishi Expert]](https://osu.ppy.sh/beatmapsets/1783400#osu/4643905)
   3. [Synthion - Aurora [Extra]](https://osu.ppy.sh/beatmapsets/2007718#osu/4194938)
@@ -107,15 +107,15 @@ osu! FumoFumo Cup：琪露诺杯由众多的社区成员举办。
 - Hidden
   1. [sana - Sayonara, Teddy bear [Farewell, My beloved]](https://osu.ppy.sh/beatmapsets/2191905#osu/4636550)
   2. [-45 - Kurenaikakei [allein's Insane]](https://osu.ppy.sh/beatmapsets/1893565#osu/3982739)
-- HardRock
+- Hard Rock
   1. [Rib - Tsukiakari [Chu's Another]](https://osu.ppy.sh/beatmapsets/1688783#osu/3661191)
   2. [inabakumori x Neru - Roleless Weapon [Wither's Useless Insane]](https://osu.ppy.sh/beatmapsets/1949918#osu/4118560)
-- DoubleTime
+- Double Time
   1. [Huey Lewis and the News - Hip to Be Square [Hey Paul]](https://osu.ppy.sh/beatmapsets/2114775#osu/4440743)
   2. [dieswyx - Do I deserve this [siiyu's hyper]](https://osu.ppy.sh/beatmapsets/2062869#osu/4314230)
   3. [harmoe - VOICE [Hyper]](https://osu.ppy.sh/beatmapsets/1965103#osu/4662409)
   4. [Otoda Masanori - fake face dance music [chu's insane]](https://osu.ppy.sh/beatmapsets/2056969#osu/4626185)
-- FreeMod
+- Free Mod
   1. [TAG underground - POSSESSION [Ex]](https://osu.ppy.sh/beatmapsets/2244350#osu/4771156)
   2. [Feryquitous - Qavsell [Otosaka's Insane]](https://osu.ppy.sh/beatmapsets/794102#osu/3987302)
   3. [goreshit - Satori De Pon! [Kiarah's Extra]](https://osu.ppy.sh/beatmapsets/1550807#osu/4683469)
@@ -137,7 +137,7 @@ osu! FumoFumo Cup：琪露诺杯由众多的社区成员举办。
 | 3 | HR2 | HD2 | NM2 | FM2 |
 | 4 | NM3 | FM4 | DT4 | NM1 |
 
-- NoMod
+- No Mod
   1. [Zektbach - Apocalypse \~dirge of swans\~ [Apocalypse of the Mind]](https://osu.ppy.sh/beatmapsets/1936602#osu/4002902)
   2. [Gram - GuNGNiR [gungaspeeding (kip edit)]](https://osu.ppy.sh/beatmapsets/1744804#osu/3568595)
   3. [ginkiha - EOS [Phten02's End of the Universe Expert]](https://osu.ppy.sh/beatmapsets/2151567#osu/4644280)
@@ -145,15 +145,15 @@ osu! FumoFumo Cup：琪露诺杯由众多的社区成员举办。
 - Hidden
   1. [YOASOBI - Yuusha [Hinae's Extra]](https://osu.ppy.sh/beatmapsets/2067581#osu/4407291)
   2. [Mai Kuraki - key to my heart [Insane]](https://osu.ppy.sh/beatmapsets/2112715#osu/4435675)
-- HardRock
+- Hard Rock
   1. [Sota Fujimori - Move That Body -Extended Mix- [RLC's Extra]](https://osu.ppy.sh/beatmapsets/220220#osu/542336)
   2. [SawanoHiroyuki[nZk]:mica - Summer Tears [Tears]](https://osu.ppy.sh/beatmapsets/734227#osu/1549252)
-- DoubleTime
+- Double Time
   1. [Wang Yi Tao - Zi You Sheng Guang [Present's Insane]](https://osu.ppy.sh/beatmapsets/830266#osu/1821817)
   2. [MiddleIsland - Piano Kyousoukyoku Ni-ban "Nageki no Mai" [Collab Insane]](https://osu.ppy.sh/beatmapsets/1520799#osu/3112504)
   3. [TK from Ling tosite sigure - first death [honne & annabel's hard]](https://osu.ppy.sh/beatmapsets/2033133#osu/4411596)
   4. [Rina Sawayama - XS [Seolvjan's Insane (ar8)]](https://osu.ppy.sh/beatmapsets/1904266#osu/3926326)
-- FreeMod
+- Free Mod
   1. [Sound Horizon - Raijin no Hidariude [Insane (OFFC ver.)]](https://osu.ppy.sh/beatmapsets/2250607#osu/4786377)
   2. [LiSA - Mitsu [Irohas' Extra]](https://osu.ppy.sh/beatmapsets/1799512#osu/3881365)
   3. [Schwank & Tanger - deathwish [Kyudou's Insane]](https://osu.ppy.sh/beatmapsets/1859838#osu/4075870)
@@ -175,7 +175,7 @@ osu! FumoFumo Cup：琪露诺杯由众多的社区成员举办。
 | 3 | HR1 | HD2 | DT1 | NM1 |
 | 4 | FM2 | HD1 | NM3 | FM3 |
 
-- NoMod
+- No Mod
   1. [Omnis - Gensoukyoku Dai Ichiban - Furie - [Extra]](https://osu.ppy.sh/beatmapsets/719588#osu/1519543)
   2. [Gram - Nibelungen [lungaspeeding]](https://osu.ppy.sh/beatmapsets/1783116#osu/3651733)
   3. [Getty - B WiZ U [0pp x ohm's extra]](https://osu.ppy.sh/beatmapsets/2054627#osu/4540987)
@@ -183,15 +183,15 @@ osu! FumoFumo Cup：琪露诺杯由众多的社区成员举办。
 - Hidden
   1. [senya - Iro wa Jou e to Izanau [Extra Stage]](https://osu.ppy.sh/beatmapsets/1579161#osu/3224505)
   2. [AC/DC - Dirty Deeds Done Dirt Cheap [36-24-36]](https://osu.ppy.sh/beatmapsets/1155076#osu/2410569)
-- HardRock
+- Hard Rock
   1. [Chino (CV: Inori Minase) - Shinsaku no Shiawase wa Kochira! [Cappuccino]](https://osu.ppy.sh/beatmapsets/1677520#osu/3427312)
   2. [IOSYS - Koi no Hyouketsu Otenba Yukemuri Chiruno Onsen [P_O's Lunatic]](https://osu.ppy.sh/beatmapsets/1948138#osu/4031791)
-- DoubleTime
+- Double Time
   1. [Miku Sawai - Gomen ne, Iiko ja Irarenai. [Immature]](https://osu.ppy.sh/beatmapsets/1670488#osu/3411862)
   2. [Mili - Ga1ahad and Scientific Witchery [maple]](https://osu.ppy.sh/beatmapsets/2218844#osu/4703239)
   3. [petit milady - Ma Cherie [Lovers]](https://osu.ppy.sh/beatmapsets/255481#osu/585605)
   4. [Akatsuki Records - Adieu, to this Lively Graveyard [Unburied Lady]](https://osu.ppy.sh/beatmapsets/1994582#osu/4145128)
-- FreeMod
+- Free Mod
   1. [nao feat. isui - Summer Lights [litoluna's Extra]](https://osu.ppy.sh/beatmapsets/1928441#osu/4501896)
   2. [inabakumori - Tokoshizume [Kard's Insane]](https://osu.ppy.sh/beatmapsets/1777533#osu/3657734)
   3. [monaca:factory feat. GEM - Mermaid [honne's Another]](https://osu.ppy.sh/beatmapsets/1429665#osu/3432438)
