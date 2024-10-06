@@ -17,7 +17,7 @@ Each track that **Trina Lydia** creates is fresh, accompanied by sprinkles of re
 Experience what **Trina Lydia** has to offer through a flashback to [COE 2024](/wiki/Community/cavoe's_osu!_event/2024), where circle clicker [zts](https://osu.ppy.sh/users/4675441) played [Stellar Immortality](https://osu.ppy.sh/beatmapsets/2197796) with an unreasonably massive tablet (using full area, of course):
 
 <div align="center">
-    <video width="95%" controls>
+    <video width="85%" controls>
         <source src="https://assets.ppy.sh/artists/440/release_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
