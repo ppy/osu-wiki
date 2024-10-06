@@ -132,7 +132,7 @@ The osu! FumoFumo Cup: cirno is run by various community members.
 | 4 | NM3 | FM4 | DT4 | NM1 |
 
 - NoMod
-  1. [Zektbach - Apocalypse ~dirge of swans~ [Apocalypse of the Mind]](https://osu.ppy.sh/beatmapsets/1936602#osu/4002902)
+  1. [Zektbach - Apocalypse \~dirge of swans\~ [Apocalypse of the Mind]](https://osu.ppy.sh/beatmapsets/1936602#osu/4002902)
   2. [Gram - GuNGNiR [gungaspeeding (kip edit)]](https://osu.ppy.sh/beatmapsets/1744804#osu/3568595)
   3. [ginkiha - EOS [Phten02's End of the Universe Expert]](https://osu.ppy.sh/beatmapsets/2151567#osu/4644280)
   4. [Fujikawa Chiai - Yubisaki kara [gazimal's Extra]](https://osu.ppy.sh/beatmapsets/2042295#osu/4541384)
@@ -216,7 +216,7 @@ Match time: 21 September 2024 ~ 29 September 2024
 | Team 1 | Team 2 | Match link |
 | --: | :-- | :-- |
 | **这是什么** | Bingo! | [#5](https://osu.ppy.sh/community/matches/115660580) |
-| Pingu~Pingu~ | **沟槽的烤翅还在开战舰追我** | [#6](https://osu.ppy.sh/community/matches/115676257) |
+| Pingu\~Pingu\~ | **沟槽的烤翅还在开战舰追我** | [#6](https://osu.ppy.sh/community/matches/115676257) |
 | 身为pp刷子因没练图而成了传说 | **诟撡𤷙𣧏𡣀𠔑𡉄𫟺㻵𧂂𨾻𠪧** | [#7](https://osu.ppy.sh/community/matches/115662073) |
 | **Helicopter** | 内有小南梁 | [#8](https://osu.ppy.sh/community/matches/115576295) |
 
