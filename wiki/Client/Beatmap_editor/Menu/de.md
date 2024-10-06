@@ -18,7 +18,7 @@
 | Paket exportieren ... | Exportiert die Beatmap als [`.osz`-Archiv](/wiki/Client/File_formats/osz_(file_format)) zur manuellen Weitergabe. Der Ordner `Exports` wird geöffnet, in dem die Datei abgelegt wird. |
 | Map-Paket entpacken | Entpackt eine Beatmap im Format `.osz2` in einen temporären Ordner, um die darin enthaltenen Daten während des Moddings zu überschreiben.[^osz2-note] |
 | Importieren von ... | **bms/bme:** Öffnet Dateien im Format `.bms`/`.bme`, um sie als osu!mania-Schwierigkeitsstufe zu importieren. |
-| Songs-Ordner öffnen | Öffnet den Ordner der Beatmap, welcher essentielle Spieldateien enthält. |
+| Songs-Ordner öffnen | Öffnet den Beatmap-Ordner, der die zugehörigen Spieldateien enthält. |
 | `.osu` im Editor öffnen | Öffnet die Datei der aktuellen Schwierigkeitsstufe im Texteditor. |
 | `.osb` im Editor öffnen | Öffnet die [Storyboard-Datei](/wiki/Storyboard) der Beatmap im Texteditor. |
 | Beenden ... (`Esc`) | Verlässt den Beatmap-Editor und fragt, ob kürzliche Änderungen gespeichert werden sollen.[^exit-note] |
@@ -82,7 +82,7 @@
 | :-- | :-- |
 | Taktteiler | Passe die Feinheit des [Taktteilers](/wiki/Client/Beatmap_editor/Beat_snap_divisor) an, wobei mehr oder weniger Striche auf der [Zeitleiste](/wiki/Client/Beatmap_editor/Timelines) angezeigt werden. |
 | Abspieltempo | Gibt an, wie schnell das Lied abgespielt wird. |
-| Gitter-Ausrichtung (`T`) | Erlaubt das [Einrasten](/wiki/Beatmapping/Grid_snapping) der Hit-Objekte in Bezug auf die jeweilige Gitterlinie des Spielfelds. |
+| Gitter-Ausrichtung (`T`) | Ein- und ausschalten, dass Hit-Objekte am [Raster](/wiki/Beatmapping/Grid_snapping) des Spielfelds ausgerichtet werden. |
 | Polygon-Noten erstellen ... (`Strg` + `Shift` + `D`) | Erstellt anhand des aktiven Taktteilers einen kreisförmigen Fluss aus Hit-Circles. |
 | Slider zu Stream konvertieren ... | Ändere den [Körper](/wiki/Gameplay/Hit_object/Slider/Sliderbody) eines ausgewählten Sliders zu einem Stream aus Hit-Circles. **Nach Objektanzahl:** Verwendung einer bestimmten Anzahl von Hit-Circles. **Nach Abstandsraster:** Platziere Objekte nach einem [festgelegtem Abstand](/wiki/Client/Beatmap_editor/Distance_snap). |
 | Live-Mapping-Modus aktivieren (`Strg` + `Tab`) | Platziere [Hit-Circles](/wiki/Gameplay/Hit_object/Hit_circle) in osu! und osu!taiko, [Fruits](/wiki/Gameplay/Hit_object/Fruit) in osu!catch bzw. Noten in osu!mania mit den Tastenbelegungen während der Song im Editor spielt.[^live-mapping-note] |
@@ -135,7 +135,7 @@
 
 | Name | Beschreibung |
 | :-- | :-- |
-| Ingame-Hilfe anzeigen (`H`) | Öffnet ein Fenster mit Tastenbelegungen und hilfreichen Informationen.[^help-note] |
+| Ingame-Hilfe anzeigen | Öffnet ein Fenster mit Tastenbelegungen und hilfreichen Informationen.[^help-note] |
 | FAQ anzeigen | Öffnet den Artikel [Beatmapping](/wiki/Beatmapping). |
 
 ## Anmerkungen
