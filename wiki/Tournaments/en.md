@@ -299,7 +299,7 @@ Unofficial tournaments/competitions hosted by the communities.
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [osu! FumoFumo Cup cirno](OFFC/cirno) | 2024-09-15 | - | - | - | - |
+| [osu! FumoFumo Cup: cirno](OFFC/cirno) | 2024-09-15 | - | - | - | - |
 
 #### osu! Indonesia Tournament
 
