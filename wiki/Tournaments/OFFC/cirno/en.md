@@ -10,7 +10,7 @@ tags:
 
 ![OFFC: cirno logo](img/logo.png)
 
-The **osu! FumoFumo Cup: cirno** (***OFFC: cirno***) is a 4v4 double-elimination osu!standard tournament hosted by ::{ flag=CN }:: [kitakore](https://osu.ppy.sh/users/33887163), which is also the inaugural season of OFFC.
+The **osu! FumoFumo Cup: cirno** (***OFFC: cirno***) is a 4v4 double-elimination osu!standard tournament hosted by ::{ flag=CN }:: [kitakore](https://osu.ppy.sh/users/33887163). It is the inaugural season of the osu! FumoFumo Cup tournament series.
 
 ## Tournament schedule
 
@@ -31,7 +31,7 @@ The **osu! FumoFumo Cup: cirno** (***OFFC: cirno***) is a 4v4 double-elimination
 | Top three teams | Corresponding KanonBot badge for each team member |
 | All players | Title in OFFC official QQ group, animated profile banners (team customized) |
 
-Apart from prizes above, the following players chosen by members in the OFFC official QQ group would also be awarded with:
+Apart from the prizes above, the following players as chosen by the members of the official OFFC QQ group will also be awarded with:
 
 | Player | Prize |
 | :-: | :-- |
@@ -55,7 +55,7 @@ The osu! FumoFumo Cup: cirno is run by various community members.
 | Referee | ::{ flag=CN }:: [[GB]ChickenGold](https://osu.ppy.sh/users/16586663), ::{ flag=CN }:: [_eilphy](https://osu.ppy.sh/users/15175276), ::{ flag=CN }:: [Dr_Shindo](https://osu.ppy.sh/users/30895664), ::{ flag=US }:: [dynamix player](https://osu.ppy.sh/users/12438405), ::{ flag=CN }:: [eric1388](https://osu.ppy.sh/users/20384257), ::{ flag=CN }:: [FroZZZZZen](https://osu.ppy.sh/users/29235972), ::{ flag=CN }:: [Koishi Komeiji](https://osu.ppy.sh/users/33295812), ::{ flag=CN }:: [kitakore](https://osu.ppy.sh/users/33887163), ::{ flag=HK }:: [lelxdme](https://osu.ppy.sh/users/13795588), ::{ flag=CN }:: [Naughty_chas](https://osu.ppy.sh/users/15349720), ::{ flag=HK }:: [[SHK] Arcadia](https://osu.ppy.sh/users/13888511), ::{ flag=HK }:: [stllok](https://osu.ppy.sh/users/14817468) |
 | Streamer | ::{ flag=CN }:: [[GB]ChickenGold](https://osu.ppy.sh/users/16586663), ::{ flag=CN }:: [Dr_Shindo](https://osu.ppy.sh/users/30895664), ::{ flag=CN }:: [kitakore](https://osu.ppy.sh/users/33887163), ::{ flag=CN }:: [Naughty_chas](https://osu.ppy.sh/users/15349720), ::{ flag=HK }:: [[SHK] Arcadia](https://osu.ppy.sh/users/13888511) |
 | Commentator | ::{ flag=CN }:: [_eilphy](https://osu.ppy.sh/users/15175276), ::{ flag=CN }:: [5atori Komeiji](https://osu.ppy.sh/users/34282059), ::{ flag=CN }:: [Akari Date](https://osu.ppy.sh/users/32701801), ::{ flag=CN }:: [Amrzs0971](https://osu.ppy.sh/users/30973609), ::{ flag=CN }:: [Dr_Shindo](https://osu.ppy.sh/users/30895664), ::{ flag=CN }:: [eric1388](https://osu.ppy.sh/users/20384257), ::{ flag=CN }:: [FroZZZZZen](https://osu.ppy.sh/users/29235972), ::{ flag=CN }:: [kitakore](https://osu.ppy.sh/users/33887163), ::{ flag=HK }:: [lelxdme](https://osu.ppy.sh/users/13795588), ::{ flag=CN }:: [My Angel Kuroe](https://osu.ppy.sh/users/13217389), ::{ flag=CN }:: [Naughty_chas](https://osu.ppy.sh/users/15349720), ::{ flag=CN }:: [Nosenso](https://osu.ppy.sh/users/30329943), ::{ flag=HK }:: [[SHK] Arcadia](https://osu.ppy.sh/users/13888511), ::{ flag=HK }:: [stllok](https://osu.ppy.sh/users/14817468) |
-| Showcase Replay Provider | ::{ flag=CN }:: [Ledeau_Fox](https://osu.ppy.sh/users/15816872) |
+| Showcase replay provider | ::{ flag=CN }:: [Ledeau_Fox](https://osu.ppy.sh/users/15816872) |
 
 ## Links
 
@@ -222,4 +222,4 @@ Match time: 21 September 2024 ~ 29 September 2024
 
 ## Ruleset
 
-For more information about the rules of **OFFC: cirno**, please turn to our Simplified Chinese wiki page.
+For more information about the rules of **OFFC: cirno**, please refer to our Simplified Chinese wiki page.
