@@ -84,7 +84,7 @@ The osu! FumoFumo Cup: cirno is run by various community members.
 
 ### Quarterfinals
 
-**[Download the mappack here! (Size: 165 MB)](https://drive.google.com/file/d/1NNIv0-WKktl0xQ6IBeRbtheh-mNprD5N/view)**
+**[Download the mappack here! (165 MB)](https://drive.google.com/file/d/1NNIv0-WKktl0xQ6IBeRbtheh-mNprD5N/view)**
 
 | Column / Row | 1 | 2 | 3 | 4 |
 | :-: | :-: | :-: | :-: | :-: |
@@ -122,7 +122,7 @@ The osu! FumoFumo Cup: cirno is run by various community members.
 
 ### Semifinals
 
-**[Download the mappack here! (Size: 142 MB)](https://drive.google.com/file/d/1YsNGC8y2GK0DX9Pv0yvBLe55dG4TFXMd/view)**
+**[Download the mappack here! (142 MB)](https://drive.google.com/file/d/1YsNGC8y2GK0DX9Pv0yvBLe55dG4TFXMd/view)**
 
 | Column / Row | 1 | 2 | 3 | 4 |
 | :-: | :-: | :-: | :-: | :-: |
@@ -160,7 +160,7 @@ The osu! FumoFumo Cup: cirno is run by various community members.
 
 ### Finals
 
-**[Download the mappack here! (Size: 224 MB)](https://drive.google.com/file/d/1OaNOmswyyX7fP30lyggkQo6-ZAyVTMMC/view)**
+**[Download the mappack here! (224 MB)](https://drive.google.com/file/d/1OaNOmswyyX7fP30lyggkQo6-ZAyVTMMC/view)**
 
 | Column / Row | 1 | 2 | 3 | 4 |
 | :-: | :-: | :-: | :-: | :-: |
