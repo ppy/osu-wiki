@@ -21,7 +21,7 @@ The **osu! FumoFumo Cup: cirno** (***OFFC: cirno***) is a 4v4 double-elimination
 | Quarterfinals | 2024-09-09/2024-09-17 |
 | Semifinals | 2024-09-18/2024-09-30 |
 | Finals | 2024-10-01/2024-10-07 |
-| Grand finals | 2024-10-08/2024-10-20 |
+| Grand Finals | 2024-10-08/2024-10-20 |
 
 ## Prizes
 
