@@ -8,6 +8,8 @@ As the last keys are pressed and the winning team is crowned Champions, the curt
 
 ![](/wiki/Tournaments/MWC/2024_4K/img/mwc4k2024-banner.jpg)
 
+Let's get straight to it.
+
 ## Summary
 
 ![](/wiki/Tournaments/MWC/2024_4K/img/mwc4k2024-podium.jpg)
