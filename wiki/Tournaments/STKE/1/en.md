@@ -28,7 +28,7 @@ tags:
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | profile badge (pending) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge (pending approval) |
 
 ## Organisation
 
@@ -36,9 +36,9 @@ tags:
 | :-- | :-- |
 | Host | ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235), ::{ flag=US }:: [Sydosys](https://osu.ppy.sh/users/17523947) |
 | Mapper | ::{ flag=AU }:: [\[Iron\]](https://osu.ppy.sh/users/13171482), ::{ flag=NO }:: [roufou](https://osu.ppy.sh/users/1109122), ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723), :{ flag=US }:: [Nivrad00](https://osu.ppy.sh/users/1984634), ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235), ::{ flag=US }:: [Sydosys](https://osu.ppy.sh/users/17523947) |
-| Streamer | TBA |
-| Commentator | TBA |
-| Referee | TBA |
+| Streamer | *TBA* |
+| Commentator | *TBA* |
+| Referee | *TBA* |
 | Designer | ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991) |
 | Statistician | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) |
 
@@ -47,12 +47,12 @@ tags:
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1986221)
 - [Discord server](https://discord.gg/35kN3dF)
 - [Livestream](https://www.twitch.tv/jokeOfficial)
-- Spreadsheets
+- Spreadsheets:
   - **[Master](https://docs.google.com/spreadsheets/d/1CJKQTg7HdMJ0M6SU0ve0WPENOchuPhaSDJPeUqCnxIw)**
 
 ## Ruleset
 
-### Tournament Information
+### Tournament information
 
 1. Sparxe's Two Key Event (STKE) is a 1v1 tournament.
 2. Beatmap scoring is based on **ScoreV2**.
@@ -71,14 +71,14 @@ tags:
 2. Participants are required to both complete the form and be a member of our Discord server. This is for identification/legitimacy of registration purposes and for convenience in posting updates about the tournament. If the registration form is filled out and the user is not present in the server when the Registration Phase concludes they will automatically be withdrawn from the registrant list.
 3. There are no restrictions for signing up: any rank, any mode, any region is allowed. Please note that osu! tournament staff hold the right to screen you out of the tournament.
 
-### Stage Instructions
+### Stage instructions
 
 1. The first weekend will be the Qualifiers. All players will nominate a day/time for them to participate. All players will then play through the Qualifiers mappool, followed by a 5 minute break (players may opt to skip this), and then through the Qualifiers mappool for a second time (players may opt to skip playing certain maps again, or the whole pool).
 2. The Bracket Stage (following Qualifiers) is double-elimination.
 3. The winning condition for each stage is as follows:
 
 | Round | Format |
-| --: | :-- |
+| :-- | :-- |
 | Round of 32 | Best of 7 |
 | Round of 16 | Best of 9 |
 | Quarterfinals | Best of 9 |
@@ -86,7 +86,7 @@ tags:
 | Finals | Best of 11 |
 | Grand Finals | Best of 13 |
 
-### Match Instructions
+### Match instructions
 
 1. A referee will create a multiplayer room approx 10 minutes in advance. Players must gather during this period.
 2. Room settings are `Game mode: "osu!mania"`, `Team mode: "Head-to-head"`, `Score mode: "ScoreV2"`. Room name must be `STKE: lobby #` for Qualifiers, and `STKE: ({Player 1}) vs ({Player 2})` for every other round.
@@ -98,13 +98,13 @@ tags:
    - The winner of the `!roll` will then nominate the second ban, and then the first pick of the pool.
 7. In case of a tie, the tiebreaker map will be played.
 
-### Mappool Instructions
+### Mappool instructions
 
 1. There will be one mappool per week.
 2. Mappools do not contain mod categories, but are instead aimed at meeting certain mapping-styled criteria. These include: Rice, LN, Hybrid, Speed, and SV.
 3. The size of the mappool will increase by 2 when the win condition calls for it (see Stage Instructions).
 
-### Scheduling Instructions
+### Scheduling instructions
 
 1. Each stage will be held on a single weekend.
 2. Scheduling will be handled by the staff team; match times will be based on the local times of the participating players.
