@@ -8,9 +8,13 @@ As the last keys are pressed and the winning team is crowned Champions, the curt
 
 ![](/wiki/Tournaments/MWC/2024_4K/img/mwc4k2024-banner.jpg)
 
+## Summary
+
 After 8 years of podium finishes (excluding 2020), the United States were finally able to secure themselves 1st place! That however could not have happened without much heartbreak for China and Thailand, who both had never-before-seen team performances, shattering previous standing records and managing to secure their first-ever podium finishes with 2nd and 3rd place respectively.
 
 Taking into consideration that this is the United States' second world cup victory in a row this year (winning the [osu!catch World Cup](https://osu.ppy.sh/home/news/2024-07-12-osu-catch-world-cup-2024-concludes) in June), and that the osu! mode team is notoriously strong with 6 consecutive titles under their belt, it begs the question: will the community bear witness to a World Cup Championship hat-trick?
+
+![](/wiki/Tournaments/MWC/2024_4K/img/mwc4k2024-podium.jpg)
 
 ## Mappool showcase
 
@@ -56,8 +60,6 @@ China on the other hand has had an incredible losers' bracket run after getting 
 - [sakuraburst - Glacierfall (Park Remix)](https://osu.ppy.sh/beatmapsets/2253778#mania/4793979) ([awdse22](https://osu.ppy.sh/users/8743513), SV1) @ [45:17](https://www.twitch.tv/videos/2263460006?t=00h45m17s) - With the score at 6–1, the United States held match point and chose to close out in style on SV1, a memorisation-heavy map where sight-readers would are hit with vicious speed variations controlled by BPM changes. ::{ flag=US }:: [Reshiram](https://osu.ppy.sh/users/7794488) took the spotlight, delivering a near-flawless performance with only one 200 hit. And soon then, the tournament was officially over.
 
 With that match, the United States has won the world cup again making it their first-ever back-to-back win in osu!mania 4K World Cup history. While China played incredibly this year with an insane losers' bracket run that any team would dream about, sadly they were unable to take down the United States' insane super team. Now that is a legendary World Cup ending if we've ever seen one.
-
-![](/wiki/Tournaments/MWC/2024_4K/img/mwc4k2024-podium.jpg)
 
 ## Match highlights
 
