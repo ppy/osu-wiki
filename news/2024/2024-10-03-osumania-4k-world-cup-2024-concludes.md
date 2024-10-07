@@ -315,7 +315,86 @@ Even users from other modes can appreciate the uniqueness of SVs! From a pooler'
 
 Supa7onyz (also known as [[GB]Azukisan](https://osu.ppy.sh/users/5378805)) is both a featured artist *and* a fellow community member. They debuted on the world cup stage this year with their brand new osu! original, [*Les Cadences Magiques*](https://osu.ppy.sh/beatmapsets/2238686#mania/4757070).
 
-hiiii :D
+---
+
+<div class="news-chat-quote__text-container">
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-Walavouchey.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
+
+How would you describe yourself and your music?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/435" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/avatar-Supa7onyz.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/beatmaps/artists/435">Supa7onyz</a></p>
+
+Variety in styles, always trying new stuffs, always seeking for "*interestingness*" in music, as I always wrote in my personal descriptions: "I never *create* music, I just *play* with them".
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-Walavouchey.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
+
+*Les Cadences Magiques* is the first time an osu! original has been placed in the SV slot upon request. What concept did you have for the track, and how did it come about?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/435" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/avatar-Supa7onyz.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/beatmaps/artists/435">Supa7onyz</a></p>
+
+I was rather obssessed in the concept of "rhythms" and "grooves" recently. During this period of time, I digested a lot of house, disco and dubstep-related dance music tracks. The title, *Les Cadences Magiques*, meaning "The Magical Grooves" or "The Magical Rhythms", is all what I wanted to convey to listeners and players: just vibe with the rhythms, because that's essential for dance music.
+
+~~(Also thanks Paturages for helping me translating the title into French lol)~~
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-Walavouchey.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
+
+As an active rhythm game player, has your playing experience influenced your approach to composing music for them?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/435" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/avatar-Supa7onyz.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/beatmaps/artists/435">Supa7onyz</a></p>
+
+Playing rhythm games and listening to their music not only brought me into the world of DTM (desktop music), but also influenced my composition style until now. I still play various rhythm games now, and I still finding the interesting new stuffs that I can use in my future compositions.
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-Walavouchey.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
+
+Do you remember a specific moment or game that inspired you to start composing music for rhythm games?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/435" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/avatar-Supa7onyz.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/beatmaps/artists/435">Supa7onyz</a></p>
+
+I can't really tell which particular game that led me into making music, but games like Rhythm Master (节奏大师), Rayark games (Deemo & Cytus) and Dynamix are like the pioneers which shaped my initial taste of rhythm game music, or rather, a wider range of music.
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-Walavouchey.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
+
+
+Since you're known by several names, would you mind explaining why an artist might release songs under different aliases? In your case, are there any special meanings to the pseudonyms you use?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/435" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/avatar-Supa7onyz.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/beatmaps/artists/435">Supa7onyz</a></p>
+
+Sometimes for hiding identity, sometimes for trying out new genre(s), but for most of the time using different aliases is just for fun. In my case, I use different aliases when trying to make music in different genres and styles, e.g. *Normal1zer* in HDM (Hardstyle/Hardcore) only, *Supa7onyz* in most non-HDM genres, or *5-let* when massive amount of weird rhythm changes are involved.
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-Walavouchey.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
+
+Do you have any artists that you often take inspiration from?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/435" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/avatar-Supa7onyz.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/beatmaps/artists/435">Supa7onyz</a></p>
+
+Again, I'm always trying out new stuff while making music, so any artist I listened to could be my next inspiration. As an example, I'm trying to make some super ravey, club/event banger dubstep music, so artists like Ray Volpe and Bandlez immediately became my inspirations, simply because they make such banger music. I can name tons and tons of artist in different styles of music, but I'll leave them for the viewers to guess them. lol
+
+</div>
 
 ---
 
