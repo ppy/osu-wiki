@@ -28,7 +28,7 @@ Taking into consideration that this is the United States second world cup victor
 
 At last, we've reached the end. This is the hardest the pools will get, and it clearly shows, with a great example being [Mare Nectaris (Camellia's "Ingenii" Remix)](https://osu.ppy.sh/beatmapsets/2253779#mania/4793983) by [0DZ0](https://osu.ppy.sh/users/28156707) (RC7). Containing over four whole minutes of pure rice, it has just about all patterns you could imagine seeing in a chart of this length. In other words, it's a rice tiebreaker.
 
-The remaining two examples can be shown by the [osu! originals](/wiki/osu!_originals) this pool gave us, which you can listen to in the osu! originals recap, or by [clicking this link](https://osu.ppy.sh/home/news/2024-10-09-osumania-4k-world-cup-2024-concludes#grand-finals) to direct you to that portion of the news post.
+The remaining two examples can be shown by the [osu! originals](/wiki/osu!_originals) this pool gave us, which you can listen to in the osu! originals recap, or by [clicking this link](#grand-finals) to direct you to that portion of the news post.
 
 [Ashrount](https://osu.ppy.sh/beatmaps/artists/352) has been known for their tracks in other rhythm games, and this time they're bringing us an incredible track for the HB1 slot, [GALVANIZER](https://osu.ppy.sh/beatmapsets/2253764#mania/4793954) mapped by [guden](https://osu.ppy.sh/users/11626065)! As expected of the slot, it's fairly straightforward with 1/4 snaps, but that's not to say it's straightforward to play, as 288BPM is really pushing the limits for what's doable. Doubt it? Give it a try yourself!
 
