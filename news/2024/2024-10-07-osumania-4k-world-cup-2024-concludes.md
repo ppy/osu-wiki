@@ -179,10 +179,6 @@ Amongst all the new music you will also find tons of custom-made artwork in the 
 
 As per tradition, this part of the news post is reserved for a few questions for some of the people who are able to shine a light behind the scenes, where a lot more people put in their time and effort to make MWC 4K an unforgettable experience.
 
-![](/wiki/shared/news/2024-10-09-osumania-4k-world-cup-2024-concludes/_Kiruru-banner.png)
-
-[_Kiruru](https://osu.ppy.sh/users/17699745) is team Thailand's captain, and has successfully led the team to their first-ever podium finish, achieving 2nd place in the osu!mania 4K World Cup 2024.
-
 <style>
     .news-chat-quote__avatar {
         float: left;
@@ -225,6 +221,12 @@ As per tradition, this part of the news post is reserved for a few questions for
         color: #00FFFF;
     }
 </style>
+
+::{#kiruru}::
+
+![](/wiki/shared/news/2024-10-09-osumania-4k-world-cup-2024-concludes/_Kiruru-banner.png)
+
+[\_Kiruru](https://osu.ppy.sh/users/17699745) is team Thailand's captain, and has successfully led the team to their first-ever podium finish, achieving 2nd place in the osu!mania 4K World Cup 2024.
 
 <div class="news-chat-quote__text-container">
 
@@ -271,6 +273,8 @@ Lastly, I would like to thank the MWC2024 Thailand team for practising and makin
 </div>
 
 ---
+
+::{#paturages}::
 
 ![](/wiki/shared/news/2024-10-09-osumania-4k-world-cup-2024-concludes/Paturages-banner.png)
 
@@ -325,6 +329,8 @@ Even users from other modes can appreciate the uniqueness of SVs! From a pooler'
 </div>
 
 ---
+
+::{#supa7onyz}::
 
 ![](/wiki/shared/news/2024-10-09-osumania-4k-world-cup-2024-concludes/Supa7onyz-banner.png)
 
