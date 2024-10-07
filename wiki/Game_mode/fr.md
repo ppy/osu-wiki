@@ -1,8 +1,6 @@
 ---
-stub: true
-tags:
-  - outdated_translation: true
-  - outdated_since: 5830d6cc5e93d6b10ff5c953761854889b85b0df
+outdated_translation: true
+outdated_since: 422698dbf36efb2be8537ab4d319428032966405
 ---
 
 # Modes de jeu
