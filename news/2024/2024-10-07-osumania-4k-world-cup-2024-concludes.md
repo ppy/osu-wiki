@@ -10,11 +10,11 @@ As the last keys are pressed and the winning team is crowned Champions, the curt
 
 ## Summary
 
+![](/wiki/Tournaments/MWC/2024_4K/img/mwc4k2024-podium.jpg)
+
 After 8 years of podium finishes (excluding 2020), the United States were finally able to secure themselves 1st place! That however could not have happened without much heartbreak for China and Thailand, who both had never-before-seen team performances, shattering previous standing records and managing to secure their first-ever podium finishes with 2nd and 3rd place respectively.
 
 Taking into consideration that this is the United States' second world cup victory in a row this year (winning the [osu!catch World Cup](https://osu.ppy.sh/home/news/2024-07-12-osu-catch-world-cup-2024-concludes) in June), and that the osu! mode team is notoriously strong with 6 consecutive titles under their belt, it begs the question: will the community bear witness to a World Cup Championship hat-trick?
-
-![](/wiki/Tournaments/MWC/2024_4K/img/mwc4k2024-podium.jpg)
 
 ## Mappool showcase
 
