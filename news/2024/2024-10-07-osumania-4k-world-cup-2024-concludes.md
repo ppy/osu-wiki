@@ -1,7 +1,7 @@
 ---
 layout: post
 title: osu!mania 4K World Cup 2024 Concludes
-date: 2024-10-09 12:00:00 +0000
+date: 2024-10-07 23:00:00 +0000
 ---
 
 As the last keys are pressed and the winning team is crowned Champions, the curtains slowly close, marking the end of another amazing World Cup series.
