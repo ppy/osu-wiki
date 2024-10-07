@@ -355,7 +355,7 @@ As an active rhythm game player, has your playing experience influenced your app
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/beatmaps/artists/435">Supa7onyz</a></p>
 
-Playing rhythm games and listening to their music not only brought me into the world of DTM (desktop music), but also influenced my composition style until now. I still play various rhythm games now, and I still finding the interesting new stuffs that I can use in my future compositions.
+Playing rhythm games and listening to their music not only brought me into the world of DTM (desktop music), but also influenced my composition style until now. I still play various rhythm games now, and I still keep finding interesting new stuffs that I can use in my future compositions.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-Walavouchey.jpg')"></a>
 
@@ -380,7 +380,7 @@ Since you're known by several names, would you mind explaining why an artist mig
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/beatmaps/artists/435">Supa7onyz</a></p>
 
-Sometimes for hiding identity, sometimes for trying out new genre(s), but for most of the time using different aliases is just for fun. In my case, I use different aliases when trying to make music in different genres and styles, e.g. *Normal1zer* in HDM (Hardstyle/Hardcore) only, *Supa7onyz* in most non-HDM genres, or *5-let* when massive amount of weird rhythm changes are involved.
+Sometimes for hiding identity, sometimes for trying out new genre(s), but for most of the time using different aliases is just for fun. In my case, I use different aliases when trying to make music in different genres and styles, e.g. *Normal1zer* in HDM (Hardstyle/Hardcore) only, *Supa7onyz* in most non-HDM genres, or *5-let* when a massive amount of weird rhythm changes are involved.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-Walavouchey.jpg')"></a>
 
@@ -392,7 +392,7 @@ Do you have any artists that you often take inspiration from?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/beatmaps/artists/435">Supa7onyz</a></p>
 
-Again, I'm always trying out new stuff while making music, so any artist I listened to could be my next inspiration. As an example, I'm trying to make some super ravey, club/event banger dubstep music, so artists like Ray Volpe and Bandlez immediately became my inspirations, simply because they make such banger music. I can name tons and tons of artist in different styles of music, but I'll leave them for the viewers to guess them. lol
+Again, I'm always trying out new stuff while making music, so any artist I listened to could be my next inspiration. As an example, I'm trying to make some super ravey, club/event banger dubstep music, so artists like Ray Volpe and Bandlez immediately became my inspirations, simply because they make such banger music. I can name tons and tons of artists in different styles of music, but I'll leave them for the viewers to guess. lol
 
 </div>
 
