@@ -221,7 +221,7 @@ As per tradition, this part of the news post is reserved to talk to one of the t
 
 Hello there, congrats on achieving the first ever top 3 placement for Thailand! Did you have any strategies this year in particular that you think contributed to this achievement?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/17699745" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/_Kiruru-avatar.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/17699745" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/avatar-_Kiruru.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/17699745">_Kiruru</a></p>
 
@@ -233,7 +233,7 @@ I don't think we had any special strategy because the Thailand team heavily reli
 
 Your match against South Korea was completely unexpected with your team winning 7–1. What were your thoughts going through the match and coming out on top?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/17699745" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/_Kiruru-avatar.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/17699745" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/avatar-_Kiruru.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/17699745">_Kiruru</a></p>
 
@@ -245,7 +245,7 @@ Honestly, the result is really unexpected for us as South Korea is a team that i
 
 If there's one memorable moment throughout the tournament that you feel is worth sharing, what would it be and why?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/17699745" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/_Kiruru-avatar.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/17699745" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/avatar-_Kiruru.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/17699745">_Kiruru</a></p>
 
@@ -261,13 +261,13 @@ Lastly, I would like to thank the MWC2024 Thailand team for practising and makin
 
 <div class="news-chat-quote__text-container">
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/RandomeLoL-avatar.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/avatar-RandomeLoL.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/7080063">RandomeLoL</a></p>
 
 We're glad to see the tournament coming to an end! How well do you think this year's picks have been received, both by players and by the community?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/1375479" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/Paturages-avatar.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/1375479" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/avatar-Paturages.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/1375479">Paturages</a></p>
 
@@ -279,13 +279,13 @@ While SV picks have been received well, some of the risks and bets we've taken t
 
 Over the years, there has been a lot of progress in making gimmicks more telegraphed, polished, and accessible. Despite the different landscape, I do believe we've come back to a point where SVs are too hard for team tournament usage. We've learned a lot, but there's still room for improvement.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/RandomeLoL-avatar.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/avatar-RandomeLoL.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/7080063">RandomeLoL</a></p>
 
 Tell us a bit about yourself. What does being the head SV mappooler entail? What considerations does it come with as opposed to pooling for other skillsets?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/1375479" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/Paturages-avatar.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/1375479" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/avatar-Paturages.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/1375479">Paturages</a></p>
 
@@ -293,13 +293,13 @@ SV pooling is completely different from the rest of picks. It is nigh impossible
 
 There is so much more than meets the eye, and two categories alone do not encompass the nuances of the skill set. More importantly, each SV pick should feel unique. Each pick is heavily nuanced by the mappers, and their outputs can wildly be different. And while this makes it harder to balance, it also makes it fun and interesting!
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/RandomeLoL-avatar.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/avatar-RandomeLoL.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/7080063">RandomeLoL</a></p>
 
 Despite being considered a niche skill by many players, SV still gets to shine as a category in MWC. From a pooler's perspective, what are the primary reasons for the decision to include SV in the world cups?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/1375479" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/Paturages-avatar.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/1375479" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/avatar-Paturages.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/1375479">Paturages</a></p>
 
