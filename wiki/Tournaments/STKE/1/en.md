@@ -46,7 +46,7 @@ tags:
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1986221)
 - [Discord server](https://discord.gg/35kN3dF)
-- [Livestream](https://www.twitch.tv/Sparxenic)
+- [Livestream](https://www.twitch.tv/jokeOfficial)
 - Spreadsheets
   - **[Master](https://docs.google.com/spreadsheets/d/1CJKQTg7HdMJ0M6SU0ve0WPENOchuPhaSDJPeUqCnxIw)**
 
