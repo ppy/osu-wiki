@@ -55,7 +55,7 @@ China on the other hand has had an incredible losers' bracket run after getting 
 - [Ashrount - GALVANIZER](https://osu.ppy.sh/beatmapsets/2253764#mania/4793954) ([guden](https://osu.ppy.sh/users/11626065), HB1) @ [33:42](https://www.twitch.tv/videos/2263460006?t=00h33m42s) - Riding their momentum, the United States opted for HB1, a brutal *7.27*\* 288 BPM hybrid map that has technical stream sections with jacks sprinkled in the mix in an attempt to break combos. Players on both sides fought hard, but none more so than ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610), who delivered a spectacular near-perfect score with only a single 200 hit.
 - [sakuraburst - Glacierfall (Park Remix)](https://osu.ppy.sh/beatmapsets/2253778#mania/4793979) ([awdse22](https://osu.ppy.sh/users/8743513), SV1) @ [45:17](https://www.twitch.tv/videos/2263460006?t=00h45m17s) - With the score at 6–1, the United States held match point and chose to close out in style on SV1, a memorisation-heavy map where sight-readers would are hit with vicious speed variations controlled by BPM changes. ::{ flag=US }:: [Reshiram](https://osu.ppy.sh/users/7794488) took the spotlight, delivering a near-flawless performance with only one 200 hit. And soon then, the tournament was officially over.
 
-With that match, the United States has won the World Cup again making it their first ever back to back win in osu!mania 4K World Cup history. While China played incredible this year with an insane losers bracket run that any team would dream about, sadly they were unable to take down the United States' insane super team. Now that is a legendary World Cup ending if we've ever seen one.
+With that match, the United States has won the world cup again making it their first-ever back-to-back win in osu!mania 4K World Cup history. While China played incredibly this year with an insane losers' bracket run that any team would dream about, sadly they were unable to take down the United States' insane super team. Now that is a legendary World Cup ending if we've ever seen one.
 
 ![](/wiki/Tournaments/MWC/2024_4K/img/mwc4k2024-podium.jpg)
 
@@ -77,9 +77,9 @@ If you've just awakened from a 3-month-long coma and missed the entire osu!mania
 
 ## osu! originals
 
-For this year's tournament, the World Cup team has blessed us with **10** brand new [osu! originals](/wiki/osu!_originals), all of which have been neatly arranged, ready for you to peruse and maybe even find a new artist to obsess over.
+For this year's tournament, the World Cup team has blessed us with **10** brand-new [osu! originals](/wiki/osu!_originals), all of which have been neatly arranged, ready for you to peruse and maybe even find a new artist to obsess over.
 
-Amongst all the new music you will also find tons of custom-made artwork in the form of backgrounds, assets, videos and storyboards, so it is highly encouraged that you take a peek and send some appreciation to everyone who put their time and effort into bringing original content for the whole community (osu! mania or not) to enjoy.
+Amongst all the new music you will also find tons of custom-made artwork in the form of backgrounds, assets, videos and storyboards, so definitely take a peek and send some appreciation to everyone who put their time and effort into bringing in original content for the whole community (osu!mania or not) to enjoy.
 
 ### Round of 32
 
@@ -175,13 +175,11 @@ Amongst all the new music you will also find tons of custom-made artwork in the 
 
 ## Interviews
 
-As per tradition, this part of the news post is reserved to talk to one of the top placing teams, and shine a light behind the scenes, where a lot of community members put in their time and effort to make sure MWC 4K is an unforgettable experience.
-
-If you are interested in an extra interview, you can check out the team China interview by [Sakura006](https://osu.ppy.sh/users/10365024) and [[GB]yobrevelc](https://osu.ppy.sh/users/14128407) [right here](https://www.bilibili.com/read/cv39275743/), with both English translated and original interviews available at your disposal.
+As per tradition, this part of the news post is reserved for a few questions for some of the people who are able to shine a light behind the scenes, where a lot more people put in their time and effort to make MWC 4K an unforgettable experience.
 
 ![](/wiki/shared/news/2024-10-09-osumania-4k-world-cup-2024-concludes/_Kiruru-banner.png)
 
-[_Kiruru](https://osu.ppy.sh/users/17699745) is team Thailand's captain, and has successfully led the team to their first ever podium finish, achieving 2nd place in the osu!mania 4K World Cup 2024.
+[_Kiruru](https://osu.ppy.sh/users/17699745) is team Thailand's captain, and has successfully led the team to their first-ever podium finish, achieving 2nd place in the osu!mania 4K World Cup 2024.
 
 <style>
     .news-chat-quote__avatar {
@@ -234,7 +232,7 @@ If you are interested in an extra interview, you can check out the team China in
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
 
-Hello there, congrats on achieving the first ever top 3 placement for Thailand! Did you have any strategies this year in particular that you think contributed to this achievement?
+Hello there, congrats on achieving the first-ever top 3 placement for Thailand! Did you have any strategies this year in particular that you think contributed to this achievement?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/17699745" style="background-image: url('/wiki/shared/news/2024-10-09-osumania-4k-world-cup-2024-concludes/avatar-_Kiruru.jpg')"></a>
 
@@ -246,7 +244,7 @@ I don't think we had any special strategy because the Thailand team heavily reli
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/11354436">Utiba</a></p>
 
-Your match against South Korea was completely unexpected with your team winning 7–1. What were your thoughts going through the match and coming out on top?
+Your [match against South Korea](https://www.twitch.tv/videos/2251727183) was completely unexpected with your team winning 7–1. What were your thoughts going through the match and coming out on top?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/17699745" style="background-image: url('/wiki/shared/news/2024-10-09-osumania-4k-world-cup-2024-concludes/avatar-_Kiruru.jpg')"></a>
 
@@ -306,7 +304,7 @@ Tell us a bit about yourself. What does being the head SV mappooler entail? What
 
 SV pooling is completely different from the rest of picks. It is nigh impossible to balance the difficulty between one and the other. Moreover, SV as a skill set requires a level of knowledge not found in other picks. Therefore, it usually ends up being an insular task confined to those with the experience to handle it.
 
-There is so much more than meets the eye, and two categories alone do not encompass the nuances of the skill set. More importantly, each SV pick should feel unique. Each pick is heavily nuanced by the mappers, and their outputs can wildly be different. And while this makes it harder to balance, it also makes it fun and interesting!
+There is so much more than meets the eye, and two categories alone do not encompass the nuances of the skill set. More importantly, each SV pick should feel unique. Each pick is heavily nuanced by the mappers, and their outputs can be wildly different. And while this makes it harder to balance, it also makes it fun and interesting!
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/news/2024-10-09-osumania-4k-world-cup-2024-concludes/avatar-RandomeLoL.jpg')"></a>
 
@@ -318,7 +316,7 @@ Despite being considered a niche skill by many players, SV still gets to shine a
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/1375479">Paturages</a></p>
 
-SV has historically always been talked about in world cups, whether in good or in bad light. Regardless how they're perceived, these picks offer unique experiences to players, mappers, and spectators alike. Players can spotlight their SV skills, mappers can showcase themselves and their work, and spectators get to see the flashiness of the picks.
+SV has historically always been talked about in world cups, whether in good or in bad light. Regardless of how they're perceived, these picks offer unique experiences to players, mappers, and spectators alike. Players can spotlight their SV skills, mappers can showcase themselves and their work, and spectators get to see the flashiness of the picks.
 
 Even users from other modes can appreciate the uniqueness of SVs! From a pooler's perspective, this enables all the aforementioned groups to enjoy SV picks at their own pace. Players should have fun on our pools, and SV is one of the tools available to us to enable that.
 
@@ -328,7 +326,7 @@ Even users from other modes can appreciate the uniqueness of SVs! From a pooler'
 
 ![](/wiki/shared/news/2024-10-09-osumania-4k-world-cup-2024-concludes/Supa7onyz-banner.png)
 
-Supa7onyz (also known as [[GB]Azukisan](https://osu.ppy.sh/users/5378805)) is both a featured artist *and* a fellow community member. They debuted on the world cup stage this year with their brand new osu! original, [*Les Cadences Magiques*](https://osu.ppy.sh/beatmapsets/2238686#mania/4757070).
+Supa7onyz (also known as [[GB]Azukisan](https://osu.ppy.sh/users/5378805) here on osu!) is both a Featured Artist *and* a fellow community member. They debuted on the world cup stage this year with their brand-new osu! original, [Les Cadences Magiques](https://osu.ppy.sh/beatmapsets/2238686#mania/4757070).
 
 ---
 
