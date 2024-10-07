@@ -52,7 +52,7 @@ tags:
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1086975)
 - [JOKE Discord server](https://discord.gg/35kN3dF)
-- [Livestream](https://www.twitch.tv/DrumDecimator)
+- [Livestream](https://www.twitch.tv/jokeOfficial)
 - [Tournament bracket](https://challonge.com/Jaye1K2020)
 - Spreadsheets
   - **[Master](https://docs.google.com/spreadsheets/d/1CvgDlkzm4IVEDulw9IMVOnFMfD6PELoUB50k1AkOO_Y)**
