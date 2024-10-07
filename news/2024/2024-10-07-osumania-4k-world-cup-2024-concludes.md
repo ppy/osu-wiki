@@ -228,9 +228,9 @@ As per tradition, this part of the news post is reserved for a few questions for
 
 [\_Kiruru](https://osu.ppy.sh/users/17699745) is team Thailand's captain, and has successfully led the team to their first-ever podium finish, achieving 2nd place in the osu!mania 4K World Cup 2024.
 
-<div class="news-chat-quote__text-container">
-
 ---
+
+<div class="news-chat-quote__text-container">
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/news/2024-09-30-the-followpoint-d-i-o-the-charismatic-caster/avatar-Utiba.jpg')"></a>
 
@@ -277,6 +277,10 @@ Lastly, I would like to thank the MWC2024 Thailand team for practising and makin
 ::{#paturages}::
 
 ![](/wiki/shared/news/2024-10-07-osumania-4k-world-cup-2024-concludes/Paturages-banner.png)
+
+[Paturages](https://osu.ppy.sh/users/1375479) is a long-time community member and an all-rounder when it comes to their contributions. This year they coordinated all SV parts of the world cup mappool, in order to ensure players are both challenged and having fun while playing.
+
+---
 
 <div class="news-chat-quote__text-container">
 
@@ -418,10 +422,10 @@ Again, I'm always trying out new stuff while making music, so any artist I liste
 
 ---
 
-The osu!mania 4K World Cup would not have been possible without amazing work done by many people to make sure this year's tournament was an amazing experience for both players and spectators. Thank you very much to everyone who took time to contribute to the World Cup.
+Thank you very much to all **250** participants for making this world cup a spectacle, and **108** contributors who worked behind the scenes to deliver the best experience possible to the community.
 
 ![](/wiki/shared/news/2024-10-07-osumania-4k-world-cup-2024-concludes/mwc4k2024-credits.png)
 
-Once again thank you to everyone who tuned into the streams and these weekly recaps, supporting your favourite teams and players, sharing your thoughts, and being part of something very special. The osu! World Cup is next up, see ya there!
+And thank you to everyone who tuned into the streams and these weekly recaps, supporting your favourite teams and players, sharing your thoughts, and being part of something very special. The osu! World Cup is next up, see ya there!
 
 —0x84f, elexire, RandomeLoL, Utiba, Walavouchey
