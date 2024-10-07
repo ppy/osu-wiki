@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!mania 4K World Cup 2024 Concludes"
-date: 2024-10-03 22:00:00 +0000
+date: 2024-10-09 12:00:00 +0000
 ---
 
 As the last keys are pressed and the winning team is crowned Champions, the curtains slowly close, marking the end of another amazing World Cup series.
@@ -38,11 +38,25 @@ While it might be slightly easier than last year's tiebreaker, that's not to say
 
 ## Grand Finals recap
 
-text
+### ::{ flag=US }:: United States vs. ::{ flag=CN }:: China
 
-- point 1
-- point 2
-- point 3
+[**You can view the match information here!**](https://osu.ppy.sh/community/matches/115677433)
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2263460006&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+</div>
+
+After **61** matches and **30** eliminated teams, we have finally reached the final match of the tournament, United States vs China. The United States has had an insane run in the tournament, only losing one point out of the entire tournament before this match, and they are currently defending their osu!mania 4K Champion title after winning last year’s World Cup.
+
+China on the other hand has had an incredible losers bracket run with getting knocked into the losers bracket in the Round of 16, and winning every single match until this point. They are currently the lowest seeded (#8) teams we’ve ever seen enter the grand finals match out of any World Cup.
+
+- [Gram - Nibelungen](https://osu.ppy.sh/beatmapsets/2253774#mania/4793971) ([MyZterioN-](https://osu.ppy.sh/users/8521723) and [Hylotl](https://osu.ppy.sh/users/18270260), LN2) @ [5:02](https://www.twitch.tv/videos/2263460006?t=00h05m02s) - China opens the match by picking their protect, LN2, a dense 8.2* monster of a chart, the highest star rated map in the pool. A relentless barrage of dense long notes demands perfection, and China’s LN expertise is nearly unmatched. However, they underestimated the raw power of the United States. With ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610)’s jaw-dropping 992k FC and ::{ flag=US }:: [Hello_Son](https://osu.ppy.sh/users/17308009) following closely with a 987k score, the United States defied all expectations. This impressive display led to a stunning breakpoint for the United States, setting the stage for the rest of the match.
+- [DJ TECHNORCH - Digital Kecak No.5 (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2253780#mania/4793984) ([-mint-](https://osu.ppy.sh/users/8976576), LN4) @ [16:24](https://www.twitch.tv/videos/2263460006?t=00h16m24s) - China, down 2–0, turned to LN4, a map that forces you to triumph over mountainous difficulties with its relentless awkward and high BPM shields, as well as demanding consistency in all skills with its release intensive section. It looked like the United States was about to take another point, but the tides turned in a flash. A devastating series of combo breaks swept through the United States side, giving China the break they needed to stay alive. With ::{ flag=CN }:: [\[GB\]ParasolTree](https://osu.ppy.sh/users/27552902) delivering a flawless 977k FC, China clawed their way back, reigniting hope and keeping their dreams alive.
+- [Billain feat. Malux - Extraction (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2253769#mania/4793962) ([\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458), [Alptraum](https://osu.ppy.sh/users/26496648), [Abraxos](https://osu.ppy.sh/users/5025064), HB3) @ [27:39](https://www.twitch.tv/videos/2263460006?t=00h27m39s) - Looking to catch the United States off guard, China picked HB3, a technical challenge with brutal staircase sections and extreme amounts of LN. The United States responded with shocking precision, ::{ flag=US }:: [Hello_Son](https://osu.ppy.sh/users/17308009)’s monstrous 991k FC with only 3x200s alongside ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610)’s solid 981k left team China stunned. The momentum had shifted once more, as the United States held a commanding 4–1 lead.
+- [Ashrount - GALVANIZER](https://osu.ppy.sh/beatmapsets/2253764#mania/4793954) ([guden](https://osu.ppy.sh/users/11626065), HB1) @ [33:42](https://www.twitch.tv/videos/2263460006?t=00h33m42s) - Riding their momentum, the United States opted for HB1, a brutal *7.27*\* 288 BPM hybrid map that has technical stream sections with jacks sprinkled in the mix in an attempt to break combos. Players on both sides fought hard, but none more so than ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610), who delivered a spectacular near-perfect score with only a single 200 hit. The rest of the competition couldn't keep up, and the United States moved closer to securing the victory.
+- [sakuraburst - Glacierfall (Park Remix)](https://osu.ppy.sh/beatmapsets/2253778#mania/4793979) ([awdse22](https://osu.ppy.sh/users/8743513), SV1) @ [45:17](https://www.twitch.tv/videos/2263460006?t=00h45m17s) - With the score at 6–1, the United States held match point and chose to close out in style on SV1, a memorization-heavy map that can’t be conquered with sight-reading as it contains vicious speed variations controlled by BPM changes. ::{ flag=US }:: [Reshiram](https://osu.ppy.sh/users/7794488) took the spotlight, delivering a near-flawless performance with only one 200 hit. And soon then, the tournament was officially over.
+
+With that match, the United States has won the World Cup again making it their first ever back to back win in osu!mania 4K World Cup history. While China played incredible this year with an insane losers bracket run that any team would dream about, sadly they were unable to take down the United States’ insane super team. Now that is a legendary World Cup ending if we’ve ever seen one.
 
 ![](/wiki/Tournaments/MWC/2024_4K/img/mwc4k2024-podium.jpg)
 
@@ -144,7 +158,7 @@ Amongst all the new music you will also find tons of custom-made artwork in the 
 
 ### Grand Finals
 
-[![](/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/GLVNIZER.jpg)](https://osu.ppy.sh/beatmapsets/2253764#mania/4793954)
+[![](/wiki/shared/news/2024-10-09-osumania-4k-world-cup-2024-concludes/GLVNIZER.jpg)](https://osu.ppy.sh/beatmapsets/2253764#mania/4793954)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -152,7 +166,7 @@ Amongst all the new music you will also find tons of custom-made artwork in the 
     </audio>
 </div>
 
-[![](/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/Fractal_Vertex.jpg)](https://osu.ppy.sh/beatmapsets/2253784#mania/4793996)
+[![](/wiki/shared/news/2024-10-09-osumania-4k-world-cup-2024-concludes/Fractal_Vertex.jpg)](https://osu.ppy.sh/beatmapsets/2253784#mania/4793996)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -164,7 +178,9 @@ Amongst all the new music you will also find tons of custom-made artwork in the 
 
 As per tradition, this part of the news post is reserved to talk to one of the top placing teams, and shine a light behind the scenes, where a lot of community members put in their time and effort to make sure MWC 4K is an unforgettable experience.
 
-![](/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/_Kiruru-banner.png)
+If you are interested in an extra interview, you can check out the team China interview by [Sakura006](https://osu.ppy.sh/users/10365024) and \[GB\][yobrevelc](https://osu.ppy.sh/users/14128407) [right here](https://www.bilibili.com/read/cv39275743/), with both English translated and original interviews available at your disposal.
+
+![](/wiki/shared/news/2024-10-09-osumania-4k-world-cup-2024-concludes/_Kiruru-banner.png)
 
 [_Kiruru](https://osu.ppy.sh/users/17699745) is team Thailand's captain, and has successfully led the team to their first ever podium finish, achieving 2nd place in the osu!mania 4K World Cup 2024.
 
@@ -221,7 +237,7 @@ As per tradition, this part of the news post is reserved to talk to one of the t
 
 Hello there, congrats on achieving the first ever top 3 placement for Thailand! Did you have any strategies this year in particular that you think contributed to this achievement?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/17699745" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/avatar-_Kiruru.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/17699745" style="background-image: url('/wiki/shared/news/2024-10-09-osumania-4k-world-cup-2024-concludes/avatar-_Kiruru.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/17699745">_Kiruru</a></p>
 
@@ -233,7 +249,7 @@ I don't think we had any special strategy because the Thailand team heavily reli
 
 Your match against South Korea was completely unexpected with your team winning 7–1. What were your thoughts going through the match and coming out on top?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/17699745" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/avatar-_Kiruru.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/17699745" style="background-image: url('/wiki/shared/news/2024-10-09-osumania-4k-world-cup-2024-concludes/avatar-_Kiruru.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/17699745">_Kiruru</a></p>
 
@@ -245,7 +261,7 @@ Honestly, the result is really unexpected for us as South Korea is a team that i
 
 If there's one memorable moment throughout the tournament that you feel is worth sharing, what would it be and why?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/17699745" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/avatar-_Kiruru.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/17699745" style="background-image: url('/wiki/shared/news/2024-10-09-osumania-4k-world-cup-2024-concludes/avatar-_Kiruru.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/17699745">_Kiruru</a></p>
 
@@ -257,17 +273,17 @@ Lastly, I would like to thank the MWC2024 Thailand team for practising and makin
 
 ---
 
-![](/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/Paturages-banner.png)
+![](/wiki/shared/news/2024-10-09-osumania-4k-world-cup-2024-concludes/Paturages-banner.png)
 
 <div class="news-chat-quote__text-container">
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/avatar-RandomeLoL.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/news/2024-10-09-osumania-4k-world-cup-2024-concludes/avatar-RandomeLoL.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/7080063">RandomeLoL</a></p>
 
 We're glad to see the tournament coming to an end! How well do you think this year's picks have been received, both by players and by the community?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/1375479" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/avatar-Paturages.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/1375479" style="background-image: url('/wiki/shared/news/2024-10-09-osumania-4k-world-cup-2024-concludes/avatar-Paturages.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/1375479">Paturages</a></p>
 
@@ -279,13 +295,13 @@ While SV picks have been received well, some of the risks and bets we've taken t
 
 Over the years, there has been a lot of progress in making gimmicks more telegraphed, polished, and accessible. Despite the different landscape, I do believe we've come back to a point where SVs are too hard for team tournament usage. We've learned a lot, but there's still room for improvement.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/avatar-RandomeLoL.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/news/2024-10-09-osumania-4k-world-cup-2024-concludes/avatar-RandomeLoL.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/7080063">RandomeLoL</a></p>
 
 Tell us a bit about yourself. What does being the head SV mappooler entail? What considerations does it come with as opposed to pooling for other skillsets?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/1375479" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/avatar-Paturages.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/1375479" style="background-image: url('/wiki/shared/news/2024-10-09-osumania-4k-world-cup-2024-concludes/avatar-Paturages.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/1375479">Paturages</a></p>
 
@@ -293,13 +309,13 @@ SV pooling is completely different from the rest of picks. It is nigh impossible
 
 There is so much more than meets the eye, and two categories alone do not encompass the nuances of the skill set. More importantly, each SV pick should feel unique. Each pick is heavily nuanced by the mappers, and their outputs can wildly be different. And while this makes it harder to balance, it also makes it fun and interesting!
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/avatar-RandomeLoL.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7080063" style="background-image: url('/wiki/shared/news/2024-10-09-osumania-4k-world-cup-2024-concludes/avatar-RandomeLoL.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/7080063">RandomeLoL</a></p>
 
 Despite being considered a niche skill by many players, SV still gets to shine as a category in MWC. From a pooler's perspective, what are the primary reasons for the decision to include SV in the world cups?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/1375479" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/avatar-Paturages.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/1375479" style="background-image: url('/wiki/shared/news/2024-10-09-osumania-4k-world-cup-2024-concludes/avatar-Paturages.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/1375479">Paturages</a></p>
 
@@ -311,7 +327,7 @@ Even users from other modes can appreciate the uniqueness of SVs! From a pooler'
 
 ---
 
-![](/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/Supa7onyz-banner.png)
+![](/wiki/shared/news/2024-10-09-osumania-4k-world-cup-2024-concludes/Supa7onyz-banner.png)
 
 Supa7onyz (also known as [[GB]Azukisan](https://osu.ppy.sh/users/5378805)) is both a featured artist *and* a fellow community member. They debuted on the world cup stage this year with their brand new osu! original, [*Les Cadences Magiques*](https://osu.ppy.sh/beatmapsets/2238686#mania/4757070).
 
@@ -325,11 +341,11 @@ Supa7onyz (also known as [[GB]Azukisan](https://osu.ppy.sh/users/5378805)) is bo
 
 How would you describe yourself and your music?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/435" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/avatar-Supa7onyz.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/435" style="background-image: url('/wiki/shared/news/2024-10-09-osumania-4k-world-cup-2024-concludes/avatar-Supa7onyz.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/beatmaps/artists/435">Supa7onyz</a></p>
 
-Variety in styles, always trying new stuffs, always seeking for "*interestingness*" in music, as I always wrote in my personal descriptions: "I never *create* music, I just *play* with them".
+Variety in styles, always trying new stuff, always seeking for "*interestingness*" in music, as I always wrote in my personal descriptions: "I never *create* music, I just *play* with them".
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-Walavouchey.jpg')"></a>
 
@@ -337,13 +353,13 @@ Variety in styles, always trying new stuffs, always seeking for "*interestingnes
 
 *Les Cadences Magiques* is the first time an osu! original has been placed in the SV slot upon request. What concept did you have for the track, and how did it come about?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/435" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/avatar-Supa7onyz.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/435" style="background-image: url('/wiki/shared/news/2024-10-09-osumania-4k-world-cup-2024-concludes/avatar-Supa7onyz.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/beatmaps/artists/435">Supa7onyz</a></p>
 
-I was rather obssessed in the concept of "rhythms" and "grooves" recently. During this period of time, I digested a lot of house, disco and dubstep-related dance music tracks. The title, *Les Cadences Magiques*, meaning "The Magical Grooves" or "The Magical Rhythms", is all what I wanted to convey to listeners and players: just vibe with the rhythms, because that's essential for dance music.
+I was rather obsessed in the concept of "rhythms" and "grooves" recently. During this period of time, I digested a lot of house, disco and dubstep-related dance music tracks. The title, *Les Cadences Magiques*, meaning "The Magical Grooves" or "The Magical Rhythms", is all what I wanted to convey to listeners and players: just vibe with the rhythms, because that's essential for dance music.
 
-~~(Also thanks Paturages for helping me translating the title into French lol)~~
+~~(Also thanks Paturages for helping me translate the title into French lol)~~
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5773079" style="background-image: url('/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/avatar-Walavouchey.jpg')"></a>
 
@@ -351,7 +367,7 @@ I was rather obssessed in the concept of "rhythms" and "grooves" recently. Durin
 
 As an active rhythm game player, has your playing experience influenced your approach to composing music for them?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/435" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/avatar-Supa7onyz.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/435" style="background-image: url('/wiki/shared/news/2024-10-09-osumania-4k-world-cup-2024-concludes/avatar-Supa7onyz.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/beatmaps/artists/435">Supa7onyz</a></p>
 
@@ -363,7 +379,7 @@ Playing rhythm games and listening to their music not only brought me into the w
 
 Do you remember a specific moment or game that inspired you to start composing music for rhythm games?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/435" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/avatar-Supa7onyz.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/435" style="background-image: url('/wiki/shared/news/2024-10-09-osumania-4k-world-cup-2024-concludes/avatar-Supa7onyz.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/beatmaps/artists/435">Supa7onyz</a></p>
 
@@ -373,10 +389,9 @@ I can't really tell which particular game that led me into making music, but gam
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/5773079">Walavouchey</a></p>
 
-
 Since you're known by several names, would you mind explaining why an artist might release songs under different aliases? In your case, are there any special meanings to the pseudonyms you use?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/435" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/avatar-Supa7onyz.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/435" style="background-image: url('/wiki/shared/news/2024-10-09-osumania-4k-world-cup-2024-concludes/avatar-Supa7onyz.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/beatmaps/artists/435">Supa7onyz</a></p>
 
@@ -388,7 +403,7 @@ Sometimes for hiding identity, sometimes for trying out new genre(s), but for mo
 
 Do you have any artists that you often take inspiration from?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/435" style="background-image: url('/wiki/shared/news/2024-10-03-osumania-4k-world-cup-2024-concludes/avatar-Supa7onyz.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/beatmaps/artists/435" style="background-image: url('/wiki/shared/news/2024-10-09-osumania-4k-world-cup-2024-concludes/avatar-Supa7onyz.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/beatmaps/artists/435">Supa7onyz</a></p>
 
@@ -400,8 +415,8 @@ Again, I'm always trying out new stuff while making music, so any artist I liste
 
 The osu!mania 4K World Cup would not have been possible without amazing work done by many people to make sure this year's tournament was an amazing experience for both players and spectators. Thank you very much to everyone who took time to contribute to the World Cup.
 
-![]()
+![](/wiki/shared/news/2024-10-09-osumania-4k-world-cup-2024-concludes/mwc4k2024-credits.png)
 
 Once again thank you to everyone who tuned into the streams and these weekly recaps, supporting your favourite teams and players, sharing your thoughts, and being part of something very special. The osu! World Cup is next up, see ya there!
 
-—0x84f
+—0x84f, elexire, RandomeLoL, Utiba, Walavouchey
