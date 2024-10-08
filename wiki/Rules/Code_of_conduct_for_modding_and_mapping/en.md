@@ -17,7 +17,7 @@ It is a mapper's responsibility to keep up with the latest discussions in their 
 When responding to someone's suggestions, it is important to consider the following:
 
 - **Treat all suggestions as valid and equally important.** Don't draw hasty conclusions about the validity of a suggestion without properly assessing it.
-- **Explain yourself clearly.** State what you changed, and if you didn't accept the suggestion for some reason, explain why and what you did instead. This will not only help the modder to learn, but also allow future mods to be tailored to your concept or style.
+- **Explain yourself clearly.** State what you changed, and if you disagree with a suggestion, explain why and what you did instead. This will not only help the modder to learn, but also allow future mods to be tailored to your concept or style.
 - **Remain calm.** Say what needs to be said in order to explain yourself and leave it at that. No matter how unhelpful the suggestion was, responding with hostility, sarcasm, etc. will not help the situation.
 - **Provide context.** By providing all relevant information in your responses to mods, you make it easier for future modders to understand the discussion.
 
