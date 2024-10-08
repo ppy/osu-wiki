@@ -14,7 +14,7 @@ Let's get straight to it.
 
 ![](/wiki/Tournaments/MWC/2024_4K/img/mwc4k2024-podium.jpg)
 
-After 8 years of podium finishes (excluding 2020), the United States were finally able to secure themselves 1st place! That however could not have happened without much heartbreak for China and Thailand, who both had never-before-seen team performances, shattering previous standing records and managing to secure their first-ever podium finishes with 2nd and 3rd place respectively.
+Congratulations to the United States for securing their 2nd championship in a row! That however could not have happened without much heartbreak for China and Thailand, who both had never-before-seen team performances, shattering previous standing records and managing to secure their first-ever podium finishes with 2nd and 3rd place respectively.
 
 Taking into consideration that this is the United States' second world cup victory in a row this year (winning the [osu!catch World Cup](https://osu.ppy.sh/home/news/2024-07-12-osu-catch-world-cup-2024-concludes) in June), and that the osu! mode team is notoriously strong with 6 consecutive titles under their belt, it begs the question: will the community bear witness to a World Cup Championship hat-trick?
 
@@ -61,7 +61,7 @@ China on the other hand has had an incredible losers' bracket run after getting 
 - [Ashrount - GALVANIZER](https://osu.ppy.sh/beatmapsets/2253764#mania/4793954) ([guden](https://osu.ppy.sh/users/11626065), HB1) @ [33:42](https://www.twitch.tv/videos/2263460006?t=00h33m42s) - Riding their momentum, the United States opted for HB1, a brutal *7.27*\* 288 BPM hybrid map that has technical stream sections with jacks sprinkled in the mix in an attempt to break combos. Players on both sides fought hard, but none more so than ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610), who delivered a spectacular near-perfect score with only a single 200 hit.
 - [sakuraburst - Glacierfall (Park Remix)](https://osu.ppy.sh/beatmapsets/2253778#mania/4793979) ([awdse22](https://osu.ppy.sh/users/8743513), SV1) @ [45:17](https://www.twitch.tv/videos/2263460006?t=00h45m17s) - With the score at 6–1, the United States held match point and chose to close out in style on SV1, a memorisation-heavy map where sight-readers would are hit with vicious speed variations controlled by BPM changes. ::{ flag=US }:: [Reshiram](https://osu.ppy.sh/users/7794488) took the spotlight, delivering a near-flawless performance with only one 200 hit. And soon then, the tournament was officially over.
 
-With that match, the United States has won the world cup again making it their first-ever back-to-back win in osu!mania 4K World Cup history. While China played incredibly this year with an insane losers' bracket run that any team would dream about, sadly they were unable to take down the United States' insane super team. Now that is a legendary World Cup ending if we've ever seen one.
+With that match, the United States has won the world cup again, making it their first-ever back-to-back win in osu!mania 4K World Cup history. While China played incredibly this year with an insane losers' bracket run that any team would dream about, sadly they were unable to overturn USA in the last showdown. Nevertheless, it's a legendary World Cup ending if we've ever seen one.
 
 ## Match highlights
 
