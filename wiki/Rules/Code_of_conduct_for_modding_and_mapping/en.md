@@ -4,7 +4,7 @@ The **code of conduct for modding and mapping** is a set of rules and guidelines
 
 ## Behaviour and conduct
 
-- **The goal of modding is to help a mapper improve their work.** If you're not interested in helping people, steer clear of the discussion.
+- **The goal of modding is to help a mapper improve their work.** If you're not interested in helping people or fostering a healthy discourse, steer clear of the discussion.
 - **Consider what you're posting, why you're posting it, and who you're posting it to.** This will ensure your best intentions are conveyed and your post is easy to understand.
 - **Be approchable.** Discussions are open to all users. Everyone is welcome to participate, including those who are new to the community. Be patient, understanding, and provide as much explanation as necessary so that everyone can learn and improve more quickly.
 - **Treat others as you wish to be treated.** People are more receptive to kind, helpful suggestions than hostile ones. Stay on topic and keep away from personal attacks, hateful comments, and misplaced jokes to avoid derailing the thread.
