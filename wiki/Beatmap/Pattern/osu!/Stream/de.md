@@ -2,6 +2,7 @@
 stub: true
 tags:
   - streams
+  - outdated
 ---
 
 # Stream

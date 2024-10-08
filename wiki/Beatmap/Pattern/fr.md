@@ -2,6 +2,7 @@
 stub: true
 tags:
   - patterns
+  - outdated
 ---
 
 # Pattern
@@ -10,10 +11,9 @@ Un **pattern** est un petit ensemble d'[objets](/wiki/Gameplay/Hit_object) dans 
 
 ## Types de patterns courants
 
-<!-- TODO: add more -->
-
 ### osu!
 
+- [Burst](osu!/Bursts)
 - [Jump](osu!/Jump)
 - [Stream](osu!/Stream)
 

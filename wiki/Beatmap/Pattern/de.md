@@ -2,6 +2,7 @@
 stub: true
 tags:
   - patterns
+  - outdated
 ---
 
 # Pattern
@@ -12,6 +13,7 @@ Ein **Pattern** ist eine kleine Gruppe an [Hit-Objekten](/wiki/Gameplay/Hit_obje
 
 ### osu!
 
+- [Burst](osu!/Bursts)
 - [Jump](osu!/Jump)
 - [Stream](osu!/Stream)
 

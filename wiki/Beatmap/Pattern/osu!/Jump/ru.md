@@ -3,7 +3,7 @@ stub: true
 tags:
   - jumps
   - джамп
-  - прыжок
+  - outdated
 ---
 
 # Джамп

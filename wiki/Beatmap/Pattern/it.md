@@ -2,6 +2,7 @@
 stub: true
 tags:
   - patterns
+  - outdated
 ---
 
 # Pattern
@@ -12,6 +13,7 @@ Un **pattern** è un piccolo set di [oggetti](/wiki/Gameplay/Hit_object) in una 
 
 ### osu!
 
+- [Burst](osu!/Bursts)
 - [Jump](osu!/Jump)
 - [Stream](osu!/Stream)
 
@@ -22,4 +24,4 @@ Un **pattern** è un piccolo set di [oggetti](/wiki/Gameplay/Hit_object) in una 
 - [Jack](osu!mania/Jack)
 - [Anchor](osu!mania/Anchor)
 - [Trill](osu!mania/Trill)
-- [Nota lunga (Hold)](osu!mania/Hold_note)
+- [Hold note](osu!mania/Hold_note)

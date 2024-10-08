@@ -3,6 +3,7 @@ stub: true
 tags:
   - patterns
   - patrones
+  - outdated
 ---
 
 # Patrón
@@ -13,6 +14,7 @@ Un **patrón** es un pequeño conjunto de [objetos](/wiki/Gameplay/Hit_object) d
 
 ### osu!
 
+- [Burst](osu!/Bursts)
 - [Jump](osu!/Jump)
 - [Stream](osu!/Stream)
 
