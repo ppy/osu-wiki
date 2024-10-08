@@ -91,7 +91,7 @@ Tournois officiels organisés par l'équipe d'osu!.
 | [osu!mania 7K World Cup 2023](MWC/2023_7K) | 15/12/2022 | 18/02/2023 | ::{ flag=PH }:: Philippines | ::{ flag=KR }:: Corée du Sud | ::{ flag=MY }:: Malaisie |
 | [osu!mania 4K World Cup 2023](MWC/2023_4K) | 13/07/2023 | 24/09/2023 | ::{ flag=US }:: États-Unis | ::{ flag=KR }:: Corée du Sud | ::{ flag=ID }:: Indonésie |
 | [osu!mania 7K World Cup 2024](MWC/2024_7K) | 15/12/2023 | 25/02/2024 | ::{ flag=KR }:: Corée du Sud | ::{ flag=MY }:: Malaisie | ::{ flag=PH }:: Philippines |
-| [osu!mania 4K World Cup 2024](MWC/2024_4K) | 18/07/2024 | 29/09/2024 | *À déterminé* | *À déterminé* | *À déterminé* |
+| [osu!mania 4K World Cup 2024](MWC/2024_4K) | 18/07/2024 | 29/09/2024 | ::{ flag=US }:: États-Unis | ::{ flag=CN }:: Chine | ::{ flag=TH }:: Thaïlande |
 
 ## Tournois communautaires
 
@@ -871,6 +871,12 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne de bronze][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Score Attack Showdown](SAS/1) | 26/10/2020 | 28/11/2020 | ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497) | ::{ flag=CL }:: [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) | ::{ flag=BR }:: [Lothus](https://osu.ppy.sh/users/9530019) |
+
+#### Sparxe's Two Key Event
+
+| Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne de bronze][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Sparxe's Two Key Event](STKE/1) | 26/10/2024 | 15/12/2024 | *TBD* | *TBD* | *TBD* |
 
 #### Speed of Light
 
