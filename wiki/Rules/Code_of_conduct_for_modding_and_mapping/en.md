@@ -1,6 +1,6 @@
 # Code of conduct for modding and mapping
 
-The **code of conduct for modding and mapping** is a set of rules and guidelines that apply to the entirety of the osu! [modding](/wiki/Modding) and [mapping](/wiki/Beatmapping) ecosystem and an extension to the [osu! community rules](/wiki/Rules) and [general ranking criteria](/wiki/Ranking_criteria). In order to ensure that mapping and modding discussions in threads take place in a constructive, positive and productive environment, a code of conduct is crucial to get everyone on the same page. When participating in the modding and mapping ecosystem, it is mandatory to follow this code of conduct. Misconduct that violates these rules might lead to [penalties issued to your account](/wiki/Silence).
+The **code of conduct for modding and mapping** is a set of rules and guidelines that apply to the entirety of the osu! [modding](/wiki/Modding) and [mapping](/wiki/Beatmapping) ecosystem and an extension to the [osu! community rules](/wiki/Rules). In order to ensure that mapping and modding discussions in threads take place in a constructive, positive and productive environment, a code of conduct is crucial to get everyone on the same page. When participating in the modding and mapping ecosystem, it is mandatory to follow this code of conduct. Misconduct that violates these rules might lead to [penalties issued to your account](/wiki/Silence).
 
 ## Behaviour and conduct
 
@@ -29,7 +29,6 @@ Consider the following guidelines when an agreement cannot be reached:
 
 - **Ask if you're unsure about something.** Ask the person in question to explain what they meant. They should be more than willing to explain things to you in more detail.
 - **Ask someone with more experience, such as a member of the [BN](/wiki/People/Beatmap_Nominators) or [NAT](/wiki/People/Nomination_Assessment_Team).** While they are busy people, they should be able to help you reach an agreement.
-- **Be open minded.** If you realise there's a more suitable alternative to something you originally suggested, don't be afraid of putting your pride aside.
-- **There are no wrong opinions.** It's up to the mapper and modders to come to an agreement in a civil manner. Try to understand alternative points of view rather than attack them.
-- **Take a break.** It is important to be at a right state of mind when discussing something. If you can't explain something through logic, you will not be able to explain it to them through violence either.
+- **Be open minded.** If you realise there's a more suitable alternative to something you originally suggested, don't be afraid of putting your pride aside. There are no wrong opinions, so try to understand alternative points of view rather than attack them.
+- **If things are getting heated, take a break.** It is important to be at a right state of mind when discussing something. If you can't explain something through logic, you will not be able to explain it to them through violence either.
 - **Report bad behaviour.** When things look to be getting out of hand, or if the discussion is struggling to stay on topic, [call a moderator](/wiki/Reporting_bad_behaviour). Don't contribute to the problem by continuing to post.
