@@ -826,6 +826,12 @@ These songs are part of the [tomspicy osu! collection 01 EP](https://osu.ppy.sh/
 | --: | :-: | :-- | :-: | :-- |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/samstring/numa "SoundCloud") | [![FA](/wiki/shared/link/FA.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=SAMString&query=%22NUMA%22 "Featured Artist listing") | SAMString - NUMA | [#1](https://osu.ppy.sh/beatmapsets/1570528) | Grand Finals tiebreaker |
 
+#### ![](/wiki/shared/mode/osu.png) osu! French Tournament 2024
+
+| Links | FA | Song | Beatmap | Notes |
+| --: | :-: | :-- | :-: | :-- |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/silyn-music/reconsiliation "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=YmCqVsP-NjU "YouTube") |  | Silyn - Reconciliation | [#1](https://osu.ppy.sh/beatmapsets/2260927) | Finals tiebreaker |
+
 #### ![](/wiki/shared/mode/osu.png) [osu! Indonesia Tournament #13 (2023)](/wiki/Tournaments/OIT/2023)
 
 | Links | FA | Song | Beatmap | Notes |
