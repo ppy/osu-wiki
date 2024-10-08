@@ -42,8 +42,6 @@ Het hoofdmenu werd geüpdatet met een nieuwe look, en de editor kreeg veel nieuw
 
 De gameplay werd verbeterd met het debuut van [combo fire](/wiki/Gameplay/Combo_fire), de HP-balk, muissporen en beter uitziende sliders. Op dit punt had osu! een bescheiden verzameling van ongeveer 10 beatmaps gemaakt door het testteam van ongeveer 5 mensen.
 
-![](img/2007-08_03.jpg "Muziekselectie voor de Edit-modus")
-
 ![](img/2007-08_04.jpg "Gameplay")
 
 ## September
