@@ -124,4 +124,4 @@ La **osu!mug** era un vaso multiusos de edición especial adornado con ilustraci
 
 *Para leer la noticia, véase: [Makeship x osu!: Limited Edition Plushies](https://osu.ppy.sh/home/news/2022-12-10-makeship-x-osu-plushies)*
 
-Los **peluches de edición limitada de osu!** eran un trío de muñecos de peluche con [pippi](/wiki/Mascotas#pippi), [Taikonator](/wiki/Mascotas#taikonator) y la [osu! cookie](/wiki/Client/Interface/Cookie). El producto se vendió a principios de 2023 a través de pedidos anticipados y se realizó en colaboración con la plataforma de financiación colectiva [Makeship](https://www.makeship.com/).
+Los **peluches de edición limitada de osu!** eran un trío de muñecos de peluche con [pippi](/wiki/Mascots#pippi), [Taikonator](/wiki/Mascots#taikonator) y la [osu! cookie](/wiki/Client/Interface/Cookie). El producto se vendió a principios de 2023 a través de pedidos anticipados y se realizó en colaboración con la plataforma de financiación colectiva [Makeship](https://www.makeship.com/).
