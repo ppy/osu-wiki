@@ -49,9 +49,9 @@ The osu! Malaysia Tournament X is run by various osu! community members from Mal
 | Streamer | ::{ flag=MY }:: [Sagisawa Arisu](https://osu.ppy.sh/users/9364594), ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=NZ }:: [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ::{ flag=AU }:: [dGeist](https://osu.ppy.sh/users/7262064) |
 | Commentator | ::{ flag=MY }:: [Tzero](https://osu.ppy.sh/users/6088976), ::{ flag=MY }:: [Racers03](https://osu.ppy.sh/users/11621976), ::{ flag=MY }:: [Fancyyy](https://osu.ppy.sh/users/12616268), ::{ flag=MY }:: [VenDService](https://osu.ppy.sh/users/15107940), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) |
 | Referee | ::{ flag=MY }:: [Rumah](https://osu.ppy.sh/users/12086495), ::{ flag=MY }:: [dragonlemmy](https://osu.ppy.sh/users/14053835), ::{ flag=SG }:: [Quickeryes](https://osu.ppy.sh/users/18227681), ::{ flag=NZ }:: [Hand Sanitiser](https://osu.ppy.sh/users/5091293) |
-| Graphic designer | ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=SG }:: polychromatic [(↗)](https://twitter.com/polyeverything) |
+| Graphic designer | ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=MY }:: [R3aCt10n](https://osu.ppy.sh/users/17020051), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=AU }:: [Merami Kitten](https://osu.ppy.sh/users/11523326) |
 | Spreadsheet manager | ::{ flag=HK }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866) |
-| Character illustrator | ::{ flag=MY }:: th_nore [(↗)](https://twitter.com/th_nore), ::{ flag=MY }:: guwichiee [(↗)](https://twitter.com/guwichiee) |
+| Character illustrator | ::{ flag=MY }:: [guwichiee](https://osu.ppy.sh/users/12170475), ::{ flag=MY }:: th_nore [(↗)](https://twitter.com/th_nore) |
 | Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
 
 ## Links
@@ -256,6 +256,22 @@ The complete list of player registrations can be found [here](https://docs.googl
   3. [Tsukuyomi - Moonlight at midday (Seros) \[Setu's Insane\]](https://osu.ppy.sh/beatmapsets/1537310#osu/3185210)
 
 ## Match results
+
+### Finals (week 1)
+
+Saturday, 5 October 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Breast](https://osu.ppy.sh/users/11918602) ::{ flag=MY }:: | 2 | **7** | ::{ flag=MY }:: **[Chibi Maruko](https://osu.ppy.sh/users/5585377)** | [#1](https://osu.ppy.sh/community/matches/115745125) |
+| Lower | **[Lunasa](https://osu.ppy.sh/users/12999285)** ::{ flag=MY }:: | **7** | 1 | ::{ flag=MY }:: [AHotDawg](https://osu.ppy.sh/users/15271985) | [#1](https://osu.ppy.sh/community/matches/115743535) |
+
+Sunday, 6 October 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[wuhua](https://osu.ppy.sh/users/2932510)** ::{ flag=MY }:: | **7** | 4 | ::{ flag=MY }:: [Rampax](https://osu.ppy.sh/users/13626098) | [#1](https://osu.ppy.sh/community/matches/115745112) |
+| Lower | [Chibi Maruko](https://osu.ppy.sh/users/5585377) ::{ flag=MY }:: | 6 | **7** | ::{ flag=MY }:: **[Lunasa](https://osu.ppy.sh/users/12999285)** | [#1](https://osu.ppy.sh/community/matches/115759255) |
 
 ### Semifinals
 
