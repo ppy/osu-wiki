@@ -1416,7 +1416,7 @@ These songs are part of the [tomspicy osu! collection 01 EP](https://osu.ppy.sh/
 
 | Links | FA | Song | Beatmap | Notes |
 | --: | :-: | :-- | :-: | :-- |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/blobdash/absence "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=vHCcVZK4hb0 "YouTube") |  | blobdash - Absence | [#1](https://osu.ppy.sh/beatmapsets/2214326) | Week 2 tiebreaker |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/blobdash/absence "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=vHCcVZK4hb0 "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/3Ie5pOKAYga0OCeK4W2Nfc "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://blobdash.bandcamp.com/track/absence "Bandcamp") |  | blobdash - Absence | [#1](https://osu.ppy.sh/beatmapsets/2214326) | Week 2 tiebreaker |
 
 #### ![](/wiki/shared/mode/mania.png) osu!mania 7K Chinese National Cup 2023
 
