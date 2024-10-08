@@ -228,7 +228,7 @@ As per tradition, this part of the news post is reserved for a few questions for
 
 ![](/wiki/shared/news/2024-10-07-osumania-4k-world-cup-2024-concludes/_Kiruru-banner.png)
 
-[\_Kiruru](https://osu.ppy.sh/users/17699745) is team Thailand's captain, and has successfully led the team to their first-ever podium finish, achieving 2nd place in the osu!mania 4K World Cup 2024.
+[\_Kiruru](https://osu.ppy.sh/users/17699745) is team Thailand's captain, and has successfully led the team to their first-ever podium finish, achieving 3rd place in the osu!mania 4K World Cup 2024.
 
 ---
 
