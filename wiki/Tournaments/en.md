@@ -297,6 +297,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | osu! European Tournament 3 | 2019-02-08 | 2020-03-23 | Woopak :CRAB: | Fondermanp2p | Käptn Mein Käptn |
 | [osu! European Tournament 2021](o!ET/2021) | 2021-05-15 | 2021-07-11 | opa pizdec | The Cow Fields | Team Papayapa |
 
+#### osu! FumoFumo Cup
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu! FumoFumo Cup: cirno](OFFC/cirno) | 2024-09-15 | - | - | - | - |
+
 #### osu! Indonesia Tournament
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
@@ -868,6 +874,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Score Attack Showdown](SAS/1) | 2020-10-26 | 2020-11-28 | ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497) | ::{ flag=CL }:: [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) | ::{ flag=BR }:: [Lothus](https://osu.ppy.sh/users/9530019) |
+
+#### Sparxe's Two Key Event
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Sparxe's Two Key Event](STKE/1) | 2024-10-26 | 2024-12-15 | *TBD* | *TBD* | *TBD* |
 
 #### Speed of Light
 
