@@ -97,6 +97,37 @@ The complete list of player registrations can be found [here](https://docs.googl
 
 ## Mappools
 
+### Finals (week 2)
+
+- No Mod
+  1. [Nishizawa Shiena - Brand-new World (Azunyan-) \[Keep-my Faith TURBO\]](https://osu.ppy.sh/beatmapsets/1375480#osu/2843144)
+  2. [Fleshgod Apocalypse - The Fool (Camo) \[morphne's Extreme\]](https://osu.ppy.sh/beatmapsets/2027968#osu/4316417)
+  3. [Fujikawa Chiai - Watashi ni nite inai Kanojo (Mirash) \[nikita govnof\]](https://osu.ppy.sh/beatmapsets/1923720#osu/3971313)
+  4. [HAKUSHI HASEGAWA - Desert (Halgoh) \[Mirage\]](https://osu.ppy.sh/beatmapsets/1417973#osu/2921554)
+  5. [ARM - Rhododendron (yaspo) \[wacky\]](https://osu.ppy.sh/beatmapsets/1633222#osu/3333701)
+- Hidden
+  1. [inabakumori - Tsukuri Kake no Shinshou (0ugi) \[\| \|\]](https://osu.ppy.sh/beatmapsets/1248914#osu/2595770)
+  2. [ZUN - Eiya no Mukui ~ Imperishable Night (Halfslashed) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/1850928#osu/3802323)
+  3. [BEXEY & GHOSTEMANE - SHIBARI (Prod. Mikey The Magician) (KPMY) \[OMTX HD3\]](https://osu.ppy.sh/beatmapsets/2261768#osu/4814105)
+- Hard Rock
+  1. [Kotone - Kagome (\[ -Elaina- \]) \[Rhyme\]](https://osu.ppy.sh/beatmapsets/2261770#osu/4814112)
+  2. [Casandra - Junpaku\*study time (Xexxar) \[Semi Little Girl!\]](https://osu.ppy.sh/beatmapsets/637224#osu/1351956)
+  3. [MYUKKE. - Anti Safety Zone (xLolicore-) \[Loli & Ducky's Hell Extra\]](https://osu.ppy.sh/beatmapsets/2041230#osu/4258540)
+- Double Time
+  1. [Masayoshi Minoshima - Highly Responsive to Prayer feat. Mei Ayakura (Sanch-KK) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/2017861#osu/4371128)
+  2. [Denkishiki Karen Ongaku Shuudan - Distorted Pain (Kurashina Asuka) \[Ruination\]](https://osu.ppy.sh/beatmapsets/1764045#osu/3610653)
+  3. [Unlucky Morpheus - FAITH (Kyubey) \[Kite's Lunatic\]](https://osu.ppy.sh/beatmapsets/418441#osu/1043089)
+  4. [Lia - Tori no Uta (Luscent) \[Air\]](https://osu.ppy.sh/beatmapsets/1836970#osu/3771851)
+- Free Mod
+  1. [xi - FREEDOM DiVE (Aistre) \[DeviousPanda's MAXiMUM\]](https://osu.ppy.sh/beatmapsets/1667560#osu/3503023)
+  2. [Konosuke Enosuke - Tenkaranbu (Chizu-Kun) \[Celestial\]](https://osu.ppy.sh/beatmapsets/1625132#osu/3317900)
+  3. [Falcom Sound Team jdk - RELEASE OF THE FAR WEST OCEAN (CSY the corrupt) \[Corruption\]](https://osu.ppy.sh/beatmapsets/77504#osu/217493)
+- EX/Special
+  1. [Yuta Imai vs. Qlarabelle - ALTER EGO (Kardshark) \[\~\]](https://osu.ppy.sh/beatmapsets/2261771#osu/4814113)[^ex-fw2-1]
+  2. [Maeda Jun - Sea,You Next (kodama) \[Umi\]](https://osu.ppy.sh/beatmapsets/1719266#osu/3513478)[^ex-fw2-2]
+- Tiebreaker
+  1. **[Altermis - \<O.M.T\> // ABSOLUTE-MEGAREMIX // (Banner) \[\< X \>\]](https://osu.ppy.sh/beatmapsets/2261761#osu/4814087)**
+
 ### Finals (week 1)
 
 - No Mod
@@ -470,6 +501,8 @@ Sunday, 8 September 2024:
 
 ## Notes
 
+[^ex-fw2-1]: This map features a special win condition where the player with the highest accuracy wins the map.
+[^ex-fw2-2]: This map has to be played with the Hidden, Hard Rock, and Double Time mods enabled.
 [^ex-fw1-1]: This map has to be played with the Easy mod enabled.
 [^ex-fw1-2]: This map has to be played with the [ScoreV1](/wiki/Gameplay/Score/ScoreV1) win condition.
 [^ex-sf-1]: This map features an exceptionally low [approach rate](/wiki/Beatmap/Approach_rate). 
