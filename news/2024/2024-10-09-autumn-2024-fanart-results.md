@@ -97,7 +97,7 @@ When the sky and ground are occluded by autumn-coloured canopy and fallen leaves
 
 [**fishstew**](https://osu.ppy.sh/users/23083177)'s art piece told of an autumn crescent and its accompanying stars illuminating Alisa and Mocha's moment of vague emotion, swaying **600** voters on the spot.
 
-### peppy's Picks
+### peppy's picks
 
 Think that 20 main menu backgrounds is not enough? Then fear not! Behold, for [peppy](https://osu.ppy.sh/users/2) is once again presenting **15** additional picks for the main menu background roster!
 
