@@ -1,3 +1,8 @@
+---
+outdated_since: 3b36d38ae903933c6efab9e00637c7c3d3f6fe8a
+outdated_translation: true
+---
+
 # Código de conducta para el modding y el mapping
 
 El **código de conducta para el modding y el mapping** es un conjunto de reglas y pautas que se aplican a todo el ecosistema del [modding](/wiki/Modding) y el [mapping](/wiki/Beatmapping) de osu! y a una extensión de las [reglas de la comunidad de osu!](/wiki/Rules) y los [criterios de clasificación generales](/wiki/Ranking_criteria). Para garantizar que las discusiones sobre el mapping y el modding en los hilos se lleven a cabo en un entorno constructivo, positivo y productivo, un código de conducta es crucial para que todos estén en sintonía. Al participar en el ecosistema del modding y el mapping, es obligatorio seguir este código de conducta. La mala conducta que viole estas reglas podría dar lugar a [sanciones impuestas a tu cuenta](/wiki/Silence).

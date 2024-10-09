@@ -99,7 +99,7 @@ In the forum-based modding system, a lot of actions were manual, which often led
 
 The changes required to address most common issues were initiated on [April 26, 2013](https://osu.ppy.sh/community/forums/topics/129625), when [peppy](/wiki/People/peppy) presented the idea of the [new modding system](/wiki/Beatmap_discussion) (later known as *Modding v2*). On [August 21, 2014](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat), a new category, [Qualified](/wiki/Beatmap/Category#qualified), was added. Qualified would serve as a buffer between pending and ranked beatmaps and allow for more smooth unranks. In addition to that, a new team, [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) (*QAT*), was assembled to check qualified beatmaps and control the ranking process.
 
-Afterwards, the beatmap discussion system and the [code of conduct for modding and mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping#making-a-mod-post) were developed and made available to restructure modding and make it a more enjoyable experience for everyone involved:
+Afterwards, the beatmap discussion system and the [code of conduct for modding and mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) were developed and made available to restructure modding and make it a more enjoyable experience for everyone involved:
 
 - [April 11, 2016](https://osu.ppy.sh/community/forums/topics/442285): Beatmap discussions were enabled for two beatmaps and made available for public testing.
 - [February 1, 2017](https://osu.ppy.sh/community/forums/topics/552250): After several more months of development based on collected feedback, the next version of the discussion system was enabled for another, larger set of beatmaps.

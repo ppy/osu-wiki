@@ -27,7 +27,7 @@ Bir beatmap setini modlamak için, en güncel sürümü indirerek ve onun [tart�
 
 Bir sorun ile karşı karşıya geldiğinizde, ilgili vuruş objelerini seçin, ardından zaman damgası bilgisini metin olarak kopyalamak için kopyalama kısayolunu (`Ctrl` + `C`) kullanın. Beatmapin tartışma kısmında, mevcut zaman damgalarını yapıştırın (`Ctrl` + `V`) ve geri bildirimlerinizi ekleyin. `Zaman Çizgisi` sekmesi beatmapin spesifik kısımlarını ile ilgili sorunlar için kullanılır, `Genel (Bu zorluk)` sekmesi beatmapin daha geniş kısımlarına geri bildirim bırakmak için kullanılır, ve `Genel (Tüm zorluklar)` ise beatmap setinin tüm zorluklarını ilgilendiren sorunlar için kullanılır.
 
-Tüm mod gönderileri sorunun ne olduğunu, bunun neden bir sorun yarattığını, ve nasıl çözülmesi gerektiğini ele almalıdır. Mod gönderilerinin nasıl düzenlendiği hakkında daha fazla detay için [Modlama ve Mapleme Etik Çalışma Kurallarına](/wiki/Rules/Code_of_conduct_for_modding_and_mapping#making-a-mod-post) bakınız.
+Tüm mod gönderileri sorunun ne olduğunu, bunun neden bir sorun yarattığını, ve nasıl çözülmesi gerektiğini ele almalıdır. Mod gönderilerinin nasıl düzenlendiği hakkında daha fazla detay için [Modlama ve Mapleme Etik Çalışma Kurallarına](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) bakınız.
 
 Beatmapperlar yardımcı olduğunu düşündükleri mod gönderilerine *yukarı baş parmak* oy butonuna tıklayarak sık sık [kudosu](/wiki/Modding/Kudosu) sağlarlar. Bu istatistik her bir bireyin profilinde tutulur ve [Beatmap Aday Göstericilere](/wiki/People/Beatmap_Nominators) katılmak için başvururken referans alınır.
 
