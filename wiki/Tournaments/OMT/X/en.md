@@ -49,9 +49,9 @@ The osu! Malaysia Tournament X is run by various osu! community members from Mal
 | Streamer | ::{ flag=MY }:: [Sagisawa Arisu](https://osu.ppy.sh/users/9364594), ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=NZ }:: [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ::{ flag=AU }:: [dGeist](https://osu.ppy.sh/users/7262064) |
 | Commentator | ::{ flag=MY }:: [Tzero](https://osu.ppy.sh/users/6088976), ::{ flag=MY }:: [Racers03](https://osu.ppy.sh/users/11621976), ::{ flag=MY }:: [Fancyyy](https://osu.ppy.sh/users/12616268), ::{ flag=MY }:: [VenDService](https://osu.ppy.sh/users/15107940), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) |
 | Referee | ::{ flag=MY }:: [Rumah](https://osu.ppy.sh/users/12086495), ::{ flag=MY }:: [dragonlemmy](https://osu.ppy.sh/users/14053835), ::{ flag=SG }:: [Quickeryes](https://osu.ppy.sh/users/18227681), ::{ flag=NZ }:: [Hand Sanitiser](https://osu.ppy.sh/users/5091293) |
-| Graphic designer | ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=SG }:: polychromatic [(↗)](https://twitter.com/polyeverything) |
+| Graphic designer | ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=MY }:: [R3aCt10n](https://osu.ppy.sh/users/17020051), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=AU }:: [Merami Kitten](https://osu.ppy.sh/users/11523326) |
 | Spreadsheet manager | ::{ flag=HK }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866) |
-| Character illustrator | ::{ flag=MY }:: th_nore [(↗)](https://twitter.com/th_nore), ::{ flag=MY }:: guwichiee [(↗)](https://twitter.com/guwichiee) |
+| Character illustrator | ::{ flag=MY }:: [guwichiee](https://osu.ppy.sh/users/12170475), ::{ flag=MY }:: th_nore [(↗)](https://twitter.com/th_nore) |
 | Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
 
 ## Links
@@ -96,6 +96,37 @@ The complete list of player registrations can be found [here](https://docs.googl
 | 24 | ::{ flag=MY }:: [VenDService](https://osu.ppy.sh/users/15107940) | -4.84 |
 
 ## Mappools
+
+### Finals (week 2)
+
+- No Mod
+  1. [Nishizawa Shiena - Brand-new World (Azunyan-) \[Keep-my Faith TURBO\]](https://osu.ppy.sh/beatmapsets/1375480#osu/2843144)
+  2. [Fleshgod Apocalypse - The Fool (Camo) \[morphne's Extreme\]](https://osu.ppy.sh/beatmapsets/2027968#osu/4316417)
+  3. [Fujikawa Chiai - Watashi ni nite inai Kanojo (Mirash) \[nikita govnof\]](https://osu.ppy.sh/beatmapsets/1923720#osu/3971313)
+  4. [HAKUSHI HASEGAWA - Desert (Halgoh) \[Mirage\]](https://osu.ppy.sh/beatmapsets/1417973#osu/2921554)
+  5. [ARM - Rhododendron (yaspo) \[wacky\]](https://osu.ppy.sh/beatmapsets/1633222#osu/3333701)
+- Hidden
+  1. [inabakumori - Tsukuri Kake no Shinshou (0ugi) \[\| \|\]](https://osu.ppy.sh/beatmapsets/1248914#osu/2595770)
+  2. [ZUN - Eiya no Mukui ~ Imperishable Night (Halfslashed) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/1850928#osu/3802323)
+  3. [BEXEY & GHOSTEMANE - SHIBARI (Prod. Mikey The Magician) (KPMY) \[OMTX HD3\]](https://osu.ppy.sh/beatmapsets/2261768#osu/4814105)
+- Hard Rock
+  1. [Kotone - Kagome (\[ -Elaina- \]) \[Rhyme\]](https://osu.ppy.sh/beatmapsets/2261770#osu/4814112)
+  2. [Casandra - Junpaku\*study time (Xexxar) \[Semi Little Girl!\]](https://osu.ppy.sh/beatmapsets/637224#osu/1351956)
+  3. [MYUKKE. - Anti Safety Zone (xLolicore-) \[Loli & Ducky's Hell Extra\]](https://osu.ppy.sh/beatmapsets/2041230#osu/4258540)
+- Double Time
+  1. [Masayoshi Minoshima - Highly Responsive to Prayer feat. Mei Ayakura (Sanch-KK) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/2017861#osu/4371128)
+  2. [Denkishiki Karen Ongaku Shuudan - Distorted Pain (Kurashina Asuka) \[Ruination\]](https://osu.ppy.sh/beatmapsets/1764045#osu/3610653)
+  3. [Unlucky Morpheus - FAITH (Kyubey) \[Kite's Lunatic\]](https://osu.ppy.sh/beatmapsets/418441#osu/1043089)
+  4. [Lia - Tori no Uta (Luscent) \[Air\]](https://osu.ppy.sh/beatmapsets/1836970#osu/3771851)
+- Free Mod
+  1. [xi - FREEDOM DiVE (Aistre) \[DeviousPanda's MAXiMUM\]](https://osu.ppy.sh/beatmapsets/1667560#osu/3503023)
+  2. [Konosuke Enosuke - Tenkaranbu (Chizu-Kun) \[Celestial\]](https://osu.ppy.sh/beatmapsets/1625132#osu/3317900)
+  3. [Falcom Sound Team jdk - RELEASE OF THE FAR WEST OCEAN (CSY the corrupt) \[Corruption\]](https://osu.ppy.sh/beatmapsets/77504#osu/217493)
+- EX/Special
+  1. [Yuta Imai vs. Qlarabelle - ALTER EGO (Kardshark) \[\~\]](https://osu.ppy.sh/beatmapsets/2261771#osu/4814113)[^ex-fw2-1]
+  2. [Maeda Jun - Sea,You Next (kodama) \[Umi\]](https://osu.ppy.sh/beatmapsets/1719266#osu/3513478)[^ex-fw2-2]
+- Tiebreaker
+  1. **[Altermis - \<O.M.T\> // ABSOLUTE-MEGAREMIX // (Banner) \[\< X \>\]](https://osu.ppy.sh/beatmapsets/2261761#osu/4814087)**
 
 ### Finals (week 1)
 
@@ -256,6 +287,22 @@ The complete list of player registrations can be found [here](https://docs.googl
   3. [Tsukuyomi - Moonlight at midday (Seros) \[Setu's Insane\]](https://osu.ppy.sh/beatmapsets/1537310#osu/3185210)
 
 ## Match results
+
+### Finals (week 1)
+
+Saturday, 5 October 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Breast](https://osu.ppy.sh/users/11918602) ::{ flag=MY }:: | 2 | **7** | ::{ flag=MY }:: **[Chibi Maruko](https://osu.ppy.sh/users/5585377)** | [#1](https://osu.ppy.sh/community/matches/115745125) |
+| Lower | **[Lunasa](https://osu.ppy.sh/users/12999285)** ::{ flag=MY }:: | **7** | 1 | ::{ flag=MY }:: [AHotDawg](https://osu.ppy.sh/users/15271985) | [#1](https://osu.ppy.sh/community/matches/115743535) |
+
+Sunday, 6 October 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[wuhua](https://osu.ppy.sh/users/2932510)** ::{ flag=MY }:: | **7** | 4 | ::{ flag=MY }:: [Rampax](https://osu.ppy.sh/users/13626098) | [#1](https://osu.ppy.sh/community/matches/115745112) |
+| Lower | [Chibi Maruko](https://osu.ppy.sh/users/5585377) ::{ flag=MY }:: | 6 | **7** | ::{ flag=MY }:: **[Lunasa](https://osu.ppy.sh/users/12999285)** | [#1](https://osu.ppy.sh/community/matches/115759255) |
 
 ### Semifinals
 
@@ -454,6 +501,8 @@ Sunday, 8 September 2024:
 
 ## Notes
 
+[^ex-fw2-1]: This map features a special win condition where the player with the highest accuracy wins the map.
+[^ex-fw2-2]: This map has to be played with the Hidden, Hard Rock, and Double Time mods enabled.
 [^ex-fw1-1]: This map has to be played with the Easy mod enabled.
 [^ex-fw1-2]: This map has to be played with the [ScoreV1](/wiki/Gameplay/Score/ScoreV1) win condition.
 [^ex-sf-1]: This map features an exceptionally low [approach rate](/wiki/Beatmap/Approach_rate). 
