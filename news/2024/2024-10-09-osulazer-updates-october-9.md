@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!(lazer) Updates: October 9, 2024"
-date: 2024-10-09 15:30:00 +0000
+date: 2024-10-09 11:30:00 +0000
 ---
 
 Tune in for your latest non-pp-related osu!(lazer) updates!
@@ -60,8 +60,8 @@ However, while the developers are working out the kinks and preparing for a serv
 
 ---
 
-You probably already know [where to download osu!(lazer)](https://osu.ppy.sh/home/download), and as always, all the minute details along with what's been highlighted can be viewed in the [full changelog](https://osu.ppy.sh/home/changelog/lazer/2024.1009.0).
+You probably already know [where to download osu!(lazer)](https://osu.ppy.sh/home/download), and as always, all the minute details along with what's been highlighted can be viewed in the [full changelog](https://osu.ppy.sh/home/changelog/lazer/2024.1009.1).
 
 See ya next time!
 
-—0x84f & Walavouchey
+—0x84f
