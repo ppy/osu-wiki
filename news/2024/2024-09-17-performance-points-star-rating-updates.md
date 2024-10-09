@@ -20,6 +20,12 @@ If you find yourself scratching your head when reading, consider consulting the 
 
 ## osu!
 
+All changes for osu! are covered in the osu!(lazer) update video, which you may be interested in watching:
+
+<div align="center">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Kqu4TUOO5IY" frameborder="0" allowfullscreen></iframe>
+</div>
+
 As a reminder of the various core values in the difficulty calculation algorithm:
 
 - **Aim**: how difficult it is to consistently hit notes back-to-back (affected by approach rate, jumps, Hidden, Hard Rock and more)
