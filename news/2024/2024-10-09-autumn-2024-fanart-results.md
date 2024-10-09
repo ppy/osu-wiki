@@ -43,7 +43,7 @@ Securing a 6th victory (and an 8th podium finish) for this contest, [**KAITO thi
 
 [![](https://assets.ppy.sh/contests/221/banners/-northern-.jpg)](https://assets.ppy.sh/contests/221/winners/-northern-.png)
 
-Many of the **926** supporters of [**-northern-**](https://osu.ppy.sh/users/16247587)'s art style must've recognised it from their debut entry in the [last contest](https://osu.ppy.sh/home/news/2024-07-15-aerial-antics-art-results). This time we were treated to pippi, Mocha and Yuzu (and Don if you can find him) surrounded by an incredible amount of detail.
+Many of the **926** supporters of [**-northern-**](https://osu.ppy.sh/users/16247587)'s art style must've recognised it from their debut entry in the [last contest](https://osu.ppy.sh/home/news/2024-07-15-aerial-antics-art-results). This time we were treated to pippi, Mocha and Yuzu (plus Don and co. if you can find them) surrounded by an incredible amount of detail.
 
 [![](https://assets.ppy.sh/contests/221/banners/Kwms024.jpg)](https://assets.ppy.sh/contests/221/winners/Kwms024.png)
 
