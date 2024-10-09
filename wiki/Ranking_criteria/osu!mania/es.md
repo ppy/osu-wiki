@@ -6,9 +6,9 @@ Este conjunto de **criterios de clasificación de osu!mania** establece [reglas 
 
 ## Glosario
 
-### Nombre de las dificultades
+### Nombres de las dificultades
 
-*Artículo principal: [Nombramiento de dificultades](/wiki/Ranking_criteria/Difficulty_naming)*
+*Artículo principal: [Nombramiento de las dificultades](/wiki/Ranking_criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-m.png?20211215) Normal
