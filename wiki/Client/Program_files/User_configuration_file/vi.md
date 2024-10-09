@@ -98,7 +98,7 @@
 | `AutomaticDownload` | 0 hoặc 1 | Tự động bắt đầu tải osu!direct |
 | `AutomaticDownloadNoVideo` | 0 hoặc 1 | Ưu tiên tải không có video |
 | `ChatFilter` | 0 hoặc 1 | Lọc từ ngữ xúc phạm |
-| `ChatRemoveForeign` | 0 hoặc 1 | Lọc ký tự nước ngoài|
+| `ChatRemoveForeign` | 0 hoặc 1 | Lọc ký tự nước ngoài |
 | `LogPrivateMessages` | 0 hoặc 1 | Lưu tin nhắn riêng |
 | `BlockNonFriendPM` | 0 hoặc 1 | Chặn tin nhắn riêng từ người không phải bạn bè |
 | `IgnoreList` | Danh sách các chuỗi cách nhau bởi dấu cách | Danh sách phớt lờ |
@@ -111,12 +111,12 @@ Giá trị của các tùy chọn phím tắt là tên của các phím.
 | Tùy chọn | Hành động |
 | :-- | :-- |
 | `keyOsuLeft` | phím chuột trái |
-| `keyOsuRight` | phím chuột phải|
+| `keyOsuRight` | phím chuột phải |
 | `keyOsuSmoke` | smoke |
-| `keyTaikoInnerLeft` | đánh trống giữa bên trái trong osu!taiko|
+| `keyTaikoInnerLeft` | đánh trống giữa bên trái trong osu!taiko |
 | `keyTaikoInnerRight` | đánh trống giữa bên phải trong osu!taiko |
 | `keyTaikoOuterLeft` | đánh rìa trống bên trái trong osu!taiko |
-| `keyTaikoOuterRight` |  đánh rìa trống bên phải trong osu!taiko |
+| `keyTaikoOuterRight` | đánh rìa trống bên phải trong osu!taiko |
 | `keyFruitsLeft` | di chuyển sang trái trong osu!catch |
 | `keyFruitsRight` | di chuyển sang phải trong osu!catch |
 | `keyFruitsDash` | tăng tốc trong osu!catch |
@@ -200,7 +200,7 @@ Nhiều tùy chọn bố cục osu!mania hơn có thể được tìm thấy tro
 | :-- | :-- | :-- |
 | `EditorGridSize` | Số nguyên | Kích thước lưới tính bằng [osu! pixel](/wiki/Client/Beatmap_editor/osu!_pixel) |
 | `EditorGridSizeDesign` | Số nguyên | Kích thước lưới thiết kế tính bằng [osu! pixel](/wiki/Client/Beatmap_editor/osu!_pixel) |
-| `EditorDim` | 0 hoặc 1 | Làm tối hình nền trong khi chơi thử|
+| `EditorDim` | 0 hoặc 1 | Làm tối hình nền trong khi chơi thử |
 | `EditorGrid` | 0 hoặc 1 | Bật/tắt snap lưới |
 | `EditorBeatDivisor` | Số nguyên | Phân chia snap nhịp cuối cùng được sử dụng |
 | `DistanceSpacing` | Số thập phân | Hệ số Distance Snapping cuối cùng được sử dụng |

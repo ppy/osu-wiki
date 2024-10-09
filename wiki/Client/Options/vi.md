@@ -428,4 +428,3 @@ b{YYYY}{MM}{DD}.{revision}{type}
 - Màn hình cài đặt cũ cũng có một màn hình chọn skin cho phép bạn xem trước trực tiếp khi chơi một beatmap trong osu!.
   - Sau khi màn hình cài đặt được chuyển sang thanh bên, màn hình này vẫn có thể truy cập bằng cách mở một file skin.
   - Quyền truy cập vào điều này sau đó đã bị loại bỏ sau khi các chức năng xem trước skin và xem trước trực tiếp được tạo ra.
-  
