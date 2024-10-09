@@ -14,9 +14,9 @@ tags:
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2024-10-05/2024-10-18 |
-| Screening phase | 2024-10-19/2024-10-25 |
-| Qualifiers showcase | 2024-10-20 |
-| Qualifiers | 2024-10-26/2024-10-27 |
+| Screening phase | 2024-10-19/2024-11-01 |
+| Qualifiers showcase | 2024-10-27 |
+| Qualifiers | 2024-11-02/2024-11-03 |
 | Round of 32 | 2024-11-09/2024-11-10 |
 | Round of 16 | 2024-11-16/2024-11-17 |
 | Quarterfinals | 2024-11-23/2024-11-24 |
@@ -35,10 +35,10 @@ tags:
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235), ::{ flag=US }:: [Sydosys](https://osu.ppy.sh/users/17523947) |
-| Mapper | ::{ flag=AU }:: [\[Iron\]](https://osu.ppy.sh/users/13171482), ::{ flag=NO }:: [roufou](https://osu.ppy.sh/users/1109122), ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723), :{ flag=US }:: [Nivrad00](https://osu.ppy.sh/users/1984634), ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235), ::{ flag=US }:: [Sydosys](https://osu.ppy.sh/users/17523947) |
-| Streamer | *TBA* |
-| Commentator | *TBA* |
-| Referee | *TBA* |
+| Mapper | ::{ flag=AU }:: [\[Iron\]](https://osu.ppy.sh/users/13171482), ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723), ::{ flag=US }:: [Nivrad00](https://osu.ppy.sh/users/1984634), ::{ flag=NO }:: [roufou](https://osu.ppy.sh/users/1109122), ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235), ::{ flag=US }:: [Sydosys](https://osu.ppy.sh/users/17523947) |
+| Streamer | ::{ flag=US }:: [ethfan922](https://osu.ppy.sh/users/10402769), ::{ flag=VN }:: [rock-on](https://osu.ppy.sh/users/9676089) |
+| Commentator | ::{ flag=AU }:: [\[Iron\]](https://osu.ppy.sh/users/13171482), ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=CA }:: [ERA Sunny](https://osu.ppy.sh/users/16468962), ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352), ::{ flag=US }:: [Sparky](https://osu.ppy.sh/users/3187959), ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235), ::{ flag=GB }:: [Teezel](https://osu.ppy.sh/users/7528639) |
+| Referee | ::{ flag=VN }:: [\[LS\]Sagirium](https://osu.ppy.sh/users/16530364), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=CA }:: [ERA Sunny](https://osu.ppy.sh/users/16468962), ::{ flag=PE }:: [ERA Xuste](https://osu.ppy.sh/users/17989444), ::{ flag=US }:: [ethfan922](https://osu.ppy.sh/users/10402769), ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731), ::{ flag=AU }:: [shnacc](https://osu.ppy.sh/users/11373924), ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235) |
 | Designer | ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991) |
 | Statistician | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) |
 
