@@ -48,7 +48,7 @@ Các phím tắt này hoạt động ở mọi nơi trong trò chơi:
 | `Esc` | Hiển thị hộp thoại thoát, khi menu tùy chọn và menu chơi đã đóng. |
 | `F` | Bật/tắt bộ đếm FPS. |
 
-### Hộp nhạc
+### Máy phát nhạc
 
 | Phím tắt | Hành động |
 | :-- | :-- |

@@ -76,7 +76,7 @@ Nhấn số hoặc nhấp vào thanh để kích hoạt:
 | :-- | :-- | :-- | :-- |
 | `/addfriend [user]` | Thêm `[user]` vào danh sách bạn bè của bạn. | `/addfriend Amigo` | You are now friends with Amigo. |
 | `/delfriend [user]` | Xóa `[user]` khỏi danh sách bạn bè của bạn. | `/delfriend Amigo` | You are no longer friends with Amigo. |
-| `/away [message]` | Đặt tin nhắn vắng mặt (gửi đến người dùng nhắn tin riêng cho bạn). Để trống tin nhắn để hủy bỏ. | `/away I am John Smith.` |You have been marked as being away: I am John Smith. When Amigo /msg John Where are you~? BanchoBot: I am John Smith. |
+| `/away [message]` | Đặt tin nhắn vắng mặt (gửi đến người dùng nhắn tin riêng cho bạn). Để trống tin nhắn để hủy bỏ. | `/away I am John Smith.` | You have been marked as being away: I am John Smith. When Amigo /msg John Where are you~? BanchoBot: I am John Smith. |
 | `/bb` | Gửi tin nhắn đến Bancho để thực thi một lệnh như `!stats [user]` | `/bb !stats Uan` | \[15/11/12\] Stats for Uan: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
 | `/chat [user]`, `/msg [user]`, hoặc `/query [user]` | Mở tab chat mới với người dùng được chỉ định. | `/chat Amigo` | (Tab Amigo được mở) |
 | `/clear` | Xóa bộ đệm chat hiện tại. | `/clear` | (Xóa gần như tất cả mọi thứ trong tab hiện tại) |
@@ -84,7 +84,7 @@ Nhấn số hoặc nhấp vào thanh để kích hoạt:
 | `/j [channel]` hoặc `/join [channel]` | Tham gia kênh được chỉ định | `/join #lobby` | (Tab #lobby được mở) |
 | `/p` hoặc `/part` | Rời khỏi kênh hiện tại bạn đang tham gia. | `/part` | n/a |
 | `/unignore [user]` | Ngừng bỏ qua người dùng được chỉ định trong phiên này. | `/unignore Amigo` | You may now hear Amigo. (Bảng chat của bạn sẽ cho phép mọi bình luận do Amigo thực hiện có sẵn trong bảng điều khiển chat của bạn) |
-| `/me [action]` | Thực hiện hành động ở ngôi thứ ba. | `/me is at home` |	* John is at home |
+| `/me [action]` | Thực hiện hành động ở ngôi thứ ba. | `/me is at home` | * John is at home |
 | `/np` | In ra chat bài hát hiện tại bạn đang nghe hoặc chơi. | `/np` | (Nếu đang chơi) * John is playing [Peter Lambert - osu! tutorial \[Gameplay Basics\]](https://osu.ppy.sh/beatmapsets/3756#osu/22538) |
 | `/reply` hoặc `/r` | Trả lời tin nhắn riêng gần nhất. | `/r Do you know any good doctor?` | (Tại tab Amigo) \[Bình luận trước\] John: I am sick at home. Amigo: Really? John: Do you know any good doctor? |
 | `/savelog` | Lưu tab chat hiện tại vào tệp văn bản. | `/savelog` | (Một thư mục có tên "Chat" sẽ được tạo tại thư mục osu! chứa tất cả các bản lưu tab chat trong tương lai) |
