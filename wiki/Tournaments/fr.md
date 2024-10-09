@@ -176,9 +176,9 @@ Tournois et compétitions non-officiels gérés par la communauté.
 
 | Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne de bronze][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [COE 1v1 Tournament 2022](COE/COE_2022) | 17/01/2022 | 17/02/2022 | ::{ flag=DE }:: okinamo | ::{ flag=GB }:: Malteser | ::{ flag=DK }:: cat burger |
+| [COE 1v1 Tournament 2022](COE/COE_2022) | 22/07/2022 | 06/08/2022 | ::{ flag=DE }:: okinamo | ::{ flag=GB }:: Malteser | ::{ flag=DK }:: cat burger |
 | [COE 1v1 Tournament 2023](COE/COE_2023) | 14/07/2023 | 05/08/2023 | ::{ flag=DE }:: criller | ::{ flag=KR }:: FlyingTuna | ::{ flag=DK }:: cat burger |
-| [COE x Yuki Aim 1v1 Tournament 2024](COE/COE_2024) | 16/07/2024 | 03/08/2024 | ::{ flag=PL }:: MALISZEWSKI | ::{ flag=DE }:: criller | ::{ flag=GB }:: Bubbleman |
+| [COE x Yuki Aim 2024 1v1 Tournament](COE/COE_2024) | 16/07/2024 | 03/08/2024 | ::{ flag=PL }:: MALISZEWSKI | ::{ flag=DE }:: criller | ::{ flag=GB }:: Bubbleman |
 
 #### Coffee Hispanic
 

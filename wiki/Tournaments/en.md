@@ -174,7 +174,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [COE 1v1 Tournament 2022](COE/COE_2022) | 2022-07-22 | 2022-08-06 | ::{ flag=DE }:: okinamo | ::{ flag=GB }:: Malteser | ::{ flag=DK }:: cat burger |
 | [COE 1v1 Tournament 2023](COE/COE_2023) | 2023-07-14 | 2023-08-05 | ::{ flag=DE }:: criller | ::{ flag=KR }:: FlyingTuna | ::{ flag=DK }:: cat burger |
-| [COE x Yuki Aim 1v1 Tournament 2024](COE/COE_2024) | 2024-07-16 | 2024-08-03 | ::{ flag=PL }:: MALISZEWSKI | ::{ flag=DE }:: criller | ::{ flag=GB }:: Bubbleman |
+| [COE x Yuki Aim 2024 1v1 Tournament](COE/COE_2024) | 2024-07-16 | 2024-08-03 | ::{ flag=PL }:: MALISZEWSKI | ::{ flag=DE }:: criller | ::{ flag=GB }:: Bubbleman |
 
 #### Coffee Hispanic
 
