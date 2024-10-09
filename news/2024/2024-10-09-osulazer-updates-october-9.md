@@ -13,7 +13,7 @@ If you were waiting for news regarding performance points (pp), there is one thi
 However, while the developers are working out the kinks and preparing for a server-side release of the new pp rework (which you can learn about in the video below), they've also been busy with other aspects of osu!(lazer) (which you can also learn about in the video below):
 
 <div align="center">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Kqu4TUOO5IY?si=QC-NhQ_Kv99IMZW9&amp;start=333" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Kqu4TUOO5IY" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Editor changes
