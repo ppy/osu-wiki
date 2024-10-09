@@ -8,22 +8,35 @@ Tune in for your latest non-pp related osu!(lazer) updates!
 
 ![](/wiki/shared/news/2024-10-09-osulazer-updates-october-9/banner.jpg)
 
-The developers are working out the kinks and preparing for the new pp rework release, but they've also been busy with other aspect of osu!(lazer), which will be covered shortly, or check out the latter portion of the video digest below:
+The developers are working out the kinks and preparing for server-side release of new pp rework, but they've also been busy with other aspect of osu!(lazer), which you can learn all about either in text form, or by checking out the latter portion of the video digest below:
 
 <div align="center">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Kqu4TUOO5IY?si=QC-NhQ_Kv99IMZW9&amp;start=333" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Editor changes
 
 - **The edit setup screen has been completely redesigned.** The setup screen has been rebuilt from the ground up with a more stylish look, and a lot more options that mappers will find very convenient.
-![add the before and after]()
-- **Objects can now be added to an existing selection when control clicking them.** Very small, but also very intuitive and helpful.
-- **You can now centre the grid to the current hit object and scale selected objects around the centre with the select box.** Continuing the trend of smaller, but useful changes, there have been two more changes made that improve the quality of life for mappers.
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/media/news/video.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/2024-10-09-editor-design-comparison.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
+
+- **Objects can now be added to an existing selection when control clicking them, and the selected hit objects can be scaled around the select box centre.** Another set of smaller, intuitive updates that will make mappers' lives easier.
+
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/media/news/2024-10-09-editor-selection.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
+
+- **The grid placement tool has been added.** Next to that, the rotate and flip commands will take into account the centre of the newly placed grid, and grids can be centred around specific hit objects.
+
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/media/news/2024-10-09-grid-placement-tool.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -39,14 +52,11 @@ The developers are working out the kinks and preparing for the new pp rework rel
 ## Other changes
 
 - **It's now easier to differentiate osu!(lazer) from osu!(stable) in Windows.** Going forward it'll be clearer to players which version of the games they should use to open osu! related files.
-![]()
-- **The chat font size has increased again.** After community feedback noting that the font size is still too small in screens like the daily challenge, the font size has been increased once more.
-![]()**(add comparison image)**
-- **The shuffle button has been added to the new playing overlay, and is enabled by default.** This is great news for everyone who loves leaving osu!(lazer) in the background and listening to the various tunes from their library.
+- **The shuffle button has been added to the new playing overlay, and is enabled by default.** This is great news for everyone who loves leaving osu!(lazer) in the background and listening to the various tunes from their libraries.
 
 ---
 
-osu!(lazer) is getting better with every update, so why [not give it a try](https://osu.ppy.sh/home/download) and see how it fares compared to osu!(standard)? As always, all the minute details along with what's been highlighted can be viewed in the [full changelog](https://osu.ppy.sh/home/changelog/lazer/).
+osu!(lazer) is getting better with every update, so why [not give it a try](https://osu.ppy.sh/home/download) and see how it fares compared to osu!(stable)? As always, all the minute details along with what's been highlighted can be viewed in the [full changelog](https://osu.ppy.sh/home/changelog/lazer/2024.1009.0).
 
 See ya next time!
 
