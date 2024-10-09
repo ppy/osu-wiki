@@ -8,7 +8,7 @@ Tune in for your latest non-pp related osu!(lazer) updates!
 
 ![](/wiki/shared/news/2024-10-09-osulazer-updates-october-9/banner.jpg)
 
-The developers are working out the kinks and preparing for server-side release of new pp rework, but they've also been busy with other aspect of osu!(lazer), which you can learn all about either in text form, or by checking out the latter portion of the video digest below:
+The developers are working out the kinks and preparing for server-side release of new pp rework, but they've also been busy with other aspects of osu!(lazer), which you can learn all about either in text form, or by checking out the latter portion of the video digest below:
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Kqu4TUOO5IY?si=QC-NhQ_Kv99IMZW9&amp;start=333" frameborder="0" allowfullscreen></iframe>
@@ -41,12 +41,14 @@ The developers are working out the kinks and preparing for server-side release o
 </div>
 
 - **Hotkey hints have been added across editor menus.** Very helpful for aspiring mappers.
+
 ![](/wiki/shared/news/2024-10-09-osulazer-updates-october-9/hotkeys.png)
 
 ## Skinning changes
 
 - **The flexibility of the skin layout editor player avatar has been improved.** Next to being able to round the edges, you can now change the aspect ratio of the element, and the avatar will automatically adapt to the new ratio.
 - **Certain elements can now have their colour customised.** The default and argon song progress bar, font adjustable components, argon wedge piece and the box element all now have adjustable colours, hopefully this is just a start of the editor elements receiving more customisation features.
+
 ![image](/wiki/shared/news/2024-10-09-osulazer-updates-october-9/skin-element-colour-picker.jpg)
 
 ## Other changes
