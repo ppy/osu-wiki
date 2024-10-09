@@ -48,7 +48,7 @@ Wacom 还有其它产品线，例如 Graphire 或 Volito 数位板，但它们�
 
 ![](img/gen2.jpg "第二代的 Bamboo（包含 Pen and Touch，Pen，Touch，Fun 和 Craft - 此处展示的是 Bamboo Pen and Touch）")
 
-![](img/gen3.jpg "第三代的 Bamboo （包含 Connect，Capture 和 Create - 此处展示的是 Connect）")
+![](img/gen3.jpg "第三代的 Bamboo（包含 Connect，Capture 和 Create - 此处展示的是 Connect）")
 
 请不要选择 Bamboo Touch 系列的数位板，因为它们并没有用笔输入的功能，它们只是为电脑设计的多点触控触控板。坦诚地说，[苹果做的更好](https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad)。
 
