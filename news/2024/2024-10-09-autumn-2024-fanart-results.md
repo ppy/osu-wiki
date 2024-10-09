@@ -161,15 +161,13 @@ An elegant, pensive pippi stares right into a maroon maple allée in an artwork 
 
 [**Meiju**](https://osu.ppy.sh/users/5527957)'s entry introduces a unique Sherlock-esque pippi enjoying a freshly-made cup of pumpkin spice Puffbucks latté. Never tried Puffbucks before? You must be living under a rock.
 
-## Rewards
-
-> severely mindblocked on this, namely mentioning the default banner stuff, would appreciate help here (maybe not have a section for it at all? mention in the outro?)
-
 ---
 
 As always, none of this would've been possible without all of you passionate individuals who took precious time to participate in this contest, alongside everyone who subsequently participated in the voting process. You're the lifeblood of this contest.
 
-If any of these mesmerising pieces have piqued your interest, [you can download a zip file containing all entries of the Autumn 2024 Fanart Contest here](https://assets.ppy.sh/contests/221/Autumn2024FanartSubmissions.zip)! For supporters of the game, you can use this opportunity to drag your favourite artwork right into the game window, making it the main menu background even if it wasn't featured in the seasonal batch.
+If any of these mesmerising pieces have piqued your interest, [you can download a zip file containing all entries of the Autumn 2024 Fanart Contest here](https://assets.ppy.sh/contests/221/Autumn2024FanartSubmissions.zip)!
+
+If you're an [osu!supporter](/wiki/osu!supporter), take this opportunity to drag your favourite artwork right into the game window, making it the main menu background even if it wasn't featured in the seasonal batch. Else, you'll instead get to enjoy the top 3 entries as [**limited-time default profile banners**](https://osu.ppy.sh/home/news/2024-07-15-aerial-antics-art-results#new-profile-customisations), which will be available to use until the next fanart contest's results.
 
 You'll also find the full list of entries in the [contest listing](https://osu.ppy.sh/community/contests/221) if that's more your thing.
 
