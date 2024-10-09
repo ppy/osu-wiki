@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!(lazer) Updates: October 9, 2024"
-date: 2024-10-09 11:30:00 +0000
+date: 2024-10-09 12:00:00 +0000
 ---
 
 Tune in for your latest non-pp-related osu!(lazer) updates!
@@ -26,7 +26,7 @@ However, while the developers are working out the kinks and preparing for a serv
     </video>
 </div>
 
-- **Objects can now be added to an existing selection when control-clicking them, and the selected hit objects can be scaled around the select box centre.** Another set of smaller, intuitive updates that will make mappers' lives easier.
+- **Objects can now be added to an existing selection when control-clicking them, and the selected hit objects can be scaled around the selection box centre.** Another set of smaller, intuitive updates that will make mappers' lives easier.
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
