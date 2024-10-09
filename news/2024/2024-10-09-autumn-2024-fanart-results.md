@@ -8,9 +8,9 @@ Falling leaves and crisp cool air, make way for autumn's golden flare...
 
 ![](/wiki/shared/news/2024-10-09-autumn-2024-fanart-results/banner.jpg)
 
-A staggering **2840** of you have distributed a grand total of **42737** votes across **181** stellar entries! We've tallied up the votes and are now ready to unveil what **you've** chosen as the finalists that will grace the main menu background of osu! for the next few months.
+A staggering **2840** of you have distributed a grand total of **42737** votes across **181** entries! We've tallied up the votes and are now ready to unveil what **you've** chosen as the finalists that will grace osu!'s main menu for the next few months.
 
-## Finalists
+### Finalists
 
 [![](https://assets.ppy.sh/contests/221/banners/KAITO%20thighs.jpg)](https://assets.ppy.sh/contests/221/winners/KAITO%20thighs.png)
 
@@ -99,7 +99,7 @@ When the sky and ground are occluded by autumn-coloured canopy and fallen leaves
 
 ## peppy's Picks
 
-Think that 20 main menu backgrounds is not enough for your viewing pleasure? Then fear not! [peppy](https://osu.ppy.sh/users/2) is here to save us all with the power endowed by the gods, and known to mere mortals as *The Pick™*. Behold, the **15** additional picks for the main menu background roster!
+Think that 20 main menu backgrounds is not enough? Then fear not! Behold, for [peppy](https://osu.ppy.sh/users/2) is once again presenting **15** additional picks for the main menu background roster!
 
 [![](https://assets.ppy.sh/contests/221/banners/saraelk.jpg)](https://assets.ppy.sh/contests/221/winners/saraelk.png)
 
