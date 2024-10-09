@@ -20,7 +20,7 @@ Securing a 6th victory (and an 8th podium finish) for this contest, [**KAITO thi
 
 **1419** art connoisseurs felt the autumn breeze in [**leeian**](https://osu.ppy.sh/users/12595640)'s painting of pippi engrossed in observation.
 
-[![](https://assets.ppy.sh/contests/221/banners/Type.jpg)](https://assets.ppy.sh/contests/221/winners/Type.png)
+[![](https://assets.ppy.sh/contests/221/banners/Type.jpg)](https://assets.ppy.sh/contests/221/winners/Type.jpg)
 
 [**Type**](https://osu.ppy.sh/users/7520534)'s elegantly stellar Alisa commanded the attention of **1309** onlookers over the cloudy cityscape.
 
@@ -53,7 +53,7 @@ Many of the **926** supporters of [**-northern-**](https://osu.ppy.sh/users/1624
 
 [**rosmala**](https://osu.ppy.sh/users/5340516) let us catch a glimpse into pippi's bakery of delectable treats. **851** sweet-toothed voters were left no choice but to appreciate the perfect resting spot for the osu! cookie when this appetising work appears on the menu.
 
-[![](https://assets.ppy.sh/contests/221/banners/LeeNarie.jpg)](https://assets.ppy.sh/contests/221/winners/LeeNarie.png)
+[![](https://assets.ppy.sh/contests/221/banners/LeeNarie.jpg)](https://assets.ppy.sh/contests/221/winners/LeeNarie.jpg)
 
 [**LeeNarie**](https://osu.ppy.sh/users/2667849)'s striking rendition of Mocha visiting a storied neighbourhood stole the gazes of **808** star-struck viewers.
 
@@ -63,7 +63,7 @@ Many of the **926** supporters of [**-northern-**](https://osu.ppy.sh/users/1624
 
 Astute appreciators of detail also noticed bird Mari and Yuzu accompanying her.
 
-[![](https://assets.ppy.sh/contests/221/banners/AnoMaxo.jpg)](https://assets.ppy.sh/contests/221/winners/AnoMaxo.png)
+[![](https://assets.ppy.sh/contests/221/banners/AnoMaxo.jpg)](https://assets.ppy.sh/contests/221/winners/AnoMaxo.jpg)
 
 [**AnoMaxo**](https://osu.ppy.sh/users/12320713) and their resplendent pippi proudly proclaim victory as they take their finalist spot with **756** votes.
 
@@ -79,7 +79,7 @@ Astute appreciators of detail also noticed bird Mari and Yuzu accompanying her.
 
 **716** leaf appreciators were enamoured by [**Arutea25**](https://osu.ppy.sh/users/16865298)'s radiant display of pippi enveloped in a gradient of autumn shades.
 
-[![](https://assets.ppy.sh/contests/221/banners/Treamudomshabu.jpg)](https://assets.ppy.sh/contests/221/winners/Treamudomshabu.png)
+[![](https://assets.ppy.sh/contests/221/banners/Treamudomshabu.jpg)](https://assets.ppy.sh/contests/221/winners/Treamudomshabu.jpeg)
 
 **655** of you were captivated by [**Treamudomshabu**](https://osu.ppy.sh/users/23463636)'s demonstration of excellent composition with a fallen pippi and a worried Mocha.
 
@@ -93,7 +93,7 @@ When the sky and ground are occluded by autumn-coloured canopy and fallen leaves
 
 [**Kloster**](https://osu.ppy.sh/users/15766964) surprised **645** American television fans with a crossover no one expected, garnering reactions ranging anywhere from “BANGER” to “good for all the wrong reasons”.
 
-[![](https://assets.ppy.sh/contests/221/banners/fishstew.jpg)](https://assets.ppy.sh/contests/221/winners/fishstew.png)
+[![](https://assets.ppy.sh/contests/221/banners/fishstew.jpg)](https://assets.ppy.sh/contests/221/winners/fishstew.jpg)
 
 [**fishstew**](https://osu.ppy.sh/users/23083177)'s art piece told of an autumn crescent and its accompanying stars illuminating Alisa and Mocha's moment of vague emotion, swaying **600** voters on the spot.
 
@@ -105,7 +105,7 @@ Think that 20 main menu backgrounds is not enough? Then fear not! Behold, for [p
 
 [**saraelk**](https://osu.ppy.sh/users/35851874) put together a creative photo album of our mascot friend's dearest memories!
 
-[![](https://assets.ppy.sh/contests/221/banners/fartfartfart.jpg)](https://assets.ppy.sh/contests/221/winners/fartfartfart.png)
+[![](https://assets.ppy.sh/contests/221/banners/fartfartfart.jpg)](https://assets.ppy.sh/contests/221/winners/fartfartfart.jpg)
 
 A curious individual known as [**fartfartfart**](https://osu.ppy.sh/users/15892637) did not hold back in painting pippi in a beautiful autumn forest, frogs, flowers and waterfall included.
 
@@ -133,7 +133,7 @@ An elegant, pensive pippi stares right into a maroon maple allée in an artwork 
 
 [**JaoVeneno**](https://osu.ppy.sh/users/15296900) takes us to a simple, yet serene forest to the sight of pippi, Mani, and Mari basking in the soothing glory of a beautiful evening.
 
-[![](https://assets.ppy.sh/contests/221/banners/[jak].jpg)](https://assets.ppy.sh/contests/221/winners/[jak].png)
+[![](https://assets.ppy.sh/contests/221/banners/[jak].jpg)](https://assets.ppy.sh/contests/221/winners/[jak].PNG)
 
 [**[jak]**](https://osu.ppy.sh/users/11912649) brings us an endearing scene of pippi passing by Yuzu and Mocha on the way to school.
 
@@ -141,7 +141,7 @@ An elegant, pensive pippi stares right into a maroon maple allée in an artwork 
 
 [**Christi_Anna**](https://osu.ppy.sh/users/11016739) showed us an enviable scene of pippi, Don and cat Chirou having an incredibly comfortable day, be it studying, taking a nap, or sending hearts across to Mani and Mari in the neighbourhood.
 
-[![](https://assets.ppy.sh/contests/221/banners/moonla33.jpg)](https://assets.ppy.sh/contests/221/winners/moonla33.png)
+[![](https://assets.ppy.sh/contests/221/banners/moonla33.jpg)](https://assets.ppy.sh/contests/221/winners/moonla33.JPG)
 
 [**moonla33**](https://osu.ppy.sh/users/32737118) portrayed a view of a cheerful pippi on a cycling trip, passing by and noticing Don by pure happenstance.
 
