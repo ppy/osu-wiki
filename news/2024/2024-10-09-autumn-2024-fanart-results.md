@@ -90,7 +90,7 @@ When the sky and ground are occluded by autumn-coloured canopy and fallen leaves
 
 [![](https://assets.ppy.sh/contests/221/banners/Kloster.png)](https://assets.ppy.sh/contests/221/winners/Kloster.png)
 
-[**Kloster**](https://osu.ppy.sh/users/15766964) surprised **645** American television fans with a crossover no one expected, garnering reactions ranging anywhere from "BANGER" to “good for all the wrong reasons”.
+[**Kloster**](https://osu.ppy.sh/users/15766964) surprised **645** American television fans with a crossover no one expected, garnering reactions ranging anywhere from "BANGER" to "good for all the wrong reasons".
 
 [![](https://assets.ppy.sh/contests/221/banners/fishstew.png)](https://assets.ppy.sh/contests/221/winners/fishstew.jpg)
 
