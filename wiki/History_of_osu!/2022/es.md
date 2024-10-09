@@ -1,4 +1,4 @@
-# Historia de osu! 2022
+# Historia de osu! de 2022
 
 ## Enero
 

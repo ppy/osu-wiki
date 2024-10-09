@@ -7,7 +7,7 @@ tags:
   - legado
 ---
 
-# Historia de osu! 2015
+# Historia de osu! de 2015
 
 ## Febrero
 

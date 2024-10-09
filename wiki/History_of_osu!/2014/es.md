@@ -1,4 +1,4 @@
-# Historia de osu! 2014
+# Historia de osu! de 2014
 
 ## Enero
 

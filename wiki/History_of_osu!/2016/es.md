@@ -1,4 +1,4 @@
-# Historia de osu! 2016
+# Historia de osu! de 2016
 
 ## Enero
 

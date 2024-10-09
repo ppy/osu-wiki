@@ -1,4 +1,4 @@
-# Historia de osu! 2017
+# Historia de osu! de 2017
 
 ## Enero
 
