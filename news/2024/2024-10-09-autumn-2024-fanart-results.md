@@ -47,7 +47,7 @@ Many of the **926** supporters of [**-northern-**](https://osu.ppy.sh/users/1624
 
 [![](https://assets.ppy.sh/contests/221/banners/Kwms024.jpg)](https://assets.ppy.sh/contests/221/winners/Kwms024.png)
 
-[**Kwms024**](https://osu.ppy.sh/users/11516014) delivered the best of regards from a rabbit pippi and Kat-masked Mocha (along with Don and a trendy Taikonator keychain), reaching **924** recipients who resonated with the relaxing atmosphere.
+[**Kwms024**](https://osu.ppy.sh/users/11516014) delivered the best of regards from a rabbit pippi and Katsu-masked Mocha (along with Don and a trendy Taikonator keychain), reaching **924** recipients who resonated with the relaxing atmosphere.
 
 [![](https://assets.ppy.sh/contests/221/banners/rosmala.jpg)](https://assets.ppy.sh/contests/221/winners/rosmala.png)
 
