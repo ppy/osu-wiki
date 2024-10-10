@@ -8,7 +8,7 @@ tags:
 
 ![](img/logo.png)
 
-The **osu! Philippines Fanart Contest 2024 — "Kasiyahan sa Kapaskohan"** (***PHFC2024***) is a fanart contest for the Philippine osu! community featuring its four mascots. It is themed after the Christmas season.
+The **osu! Philippines Fanart Contest 2024 — "Kasiyahan sa Kapaskohan"** (***PHFC2024***) is a fanart contest for the Philippine osu! community. The contest features the four osu! Philippines mascots and is themed after the Christmas season.
 
 ## Schedule
 
