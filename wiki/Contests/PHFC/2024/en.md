@@ -24,9 +24,9 @@ The contest offers a minimum prize pool worth PHP 2,500.00. (*Amount is currentl
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](crown-gold.png "1st place") | 50% of the prize pool, unique profile badge (*proposed*) |
-| ![Silver crown](crown-silver.png "2nd place") | 35% of the prize pool |
-| ![Bronze crown](crown-bronze.png "3rd place") | 15% of the prize pool |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 50% of the prize pool, unique profile badge (*proposed*) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 35% of the prize pool |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 15% of the prize pool |
 
 ## Organisation
 
