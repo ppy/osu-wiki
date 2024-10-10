@@ -54,7 +54,7 @@ The osu! Philippines Mascots Fanart Contest 2024 is run by the following staff:
   - Primrea, the osu! Philippines/`#filipino` mascot
   - Primreadon, the osu!taiko PH mascot
   - Punica, the osu!catch PH mascot
-  - [Krysta, the osu!mania PH mascot](https://up.topecnz.net/maniaph_krysta_presskitv5.pdf)
+  - [Krysta, the osu!mania PH mascot](img/template.png)
 - All entries MUST be suitable for viewing by all ages.
 - Your submission must be your own original work. Redrawing and composite works are not allowed.
 - You can only submit ONE entry. You may reupload your entry for adjustments as many times as you want, but once the submission deadline has passed, only your latest submission will be considered.
