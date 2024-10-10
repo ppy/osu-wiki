@@ -8,7 +8,7 @@ tags:
 
 ![](img/logo.png)
 
-The **osu! Philippines Fanart Contest 2024 — "Kasiyahan sa Kapaskohan"** (***PHFC2024***) is a fanart contest made for the Philippine osu! community featuring its four mascots. It is themed after the Christmas season.
+The **osu! Philippines Fanart Contest 2024 — "Kasiyahan sa Kapaskohan"** (***PHFC2024***) is a fanart contest for the Philippine osu! community featuring its four mascots. It is themed after the Christmas season.
 
 ## Schedule
 
@@ -20,7 +20,7 @@ The **osu! Philippines Fanart Contest 2024 — "Kasiyahan sa Kapaskohan"** (***P
 
 ## Prizes
 
-The contest offers a minimum prize pool worth PHP 2,500.00. (*Amount is currently tentative.*)
+The contest offers an initial prize pool of 2,500.00 PHP that is subject to increase via donations.
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -60,8 +60,8 @@ The osu! Philippines Mascots Fanart Contest 2024 is run by the following staff:
 - You can only submit ONE entry. You may reupload your entry for adjustments as many times as you want, but once the submission deadline has passed, only your latest submission will be considered.
 - Generative art programs or methods (like AI) are not permitted.
 - Participants must keep a full file containing all of their entry's layers available. The staff will only ask you for this if they think it is needed to ascertain any claims regarding plagiarism or the use of generative art tools. If you do not/cannot provide this within a timely manner when asked, your entry will be disqualified.
-- Artist attribution (names, social media handles, etc.) must be limited to no more than three lines total and confined to any corner of your entry.
-- Entries MUST meet the resolution requirements for social media banners, specifically Facebook and Discord's. You may check [this template](https://up.topecnz.net/fanart-sample-template.png) as reference.
+- Artist attribution (names, social media handles, etc.) must be limited to no more than three lines total and be confined to any corner of the entry.
+- Entries MUST meet the resolution requirements for social media banners, specifically those of Facebook and Discord. You may use [this template](https://up.topecnz.net/fanart-sample-template.png) as a reference.
   - The main subjects of your artwork must appear within the Facebook group page banner's dimensions.
   - *It is recommended that you submit your entries with as high of a resolution that you can provide. This is limited to a 4K resolution (3840x2160).*
 - Please refrain from using characters from other intellectual properties, if possible. Official osu! mascots are fair game. If you are using other characters or OCs from other community members, please remember to treat them with respect.
