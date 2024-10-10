@@ -27,7 +27,7 @@ tags:
 | Game modes | ![][osu!] |
 | Score multiplier | 1.00x |
 | Status | Unranked |
-| Incompatible mods (osu!) | Spin In (SPI), Grow (GR), Traceable (TC), Approach Different (AD), Depth (DP) |
+| Incompatible mods (osu!) | Spin In (SI), Grow (GR), Traceable (TC), Approach Different (AD), Depth (DP) |
 
 :::
 

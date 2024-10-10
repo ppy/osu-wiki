@@ -57,7 +57,7 @@ Each of the mods below listed will have their compatible game modes' icon (![][o
 
 - Target Practice (TP) ![][osu!]
 - Difficulty Adjust (DA) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- [Classic (CL)](/wiki/Gameplay/Game_modifier/Classic) !![][osu!] ![][osu!taiko]
+- [Classic (CL)](/wiki/Gameplay/Game_modifier/Classic) ![][osu!] ![][osu!taiko]
 - Random (RD) ![][osu!] ![][osu!taiko] ![][osu!mania]
 - Mirror (MR) ![][osu!] ![][osu!catch] ![][osu!mania]
 - Alternate (AL) ![][osu!]

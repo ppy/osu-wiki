@@ -27,7 +27,7 @@ tags:
 | Game modes | ![][osu!] |
 | Score multiplier | 1.00x |
 | Status | Unranked |
-| Incompatible mods (osu!) | Incompatible mods: Spin In (SI), Deflate (DF), Traceable (TC), Approach Different (AD), Depth (DP) |
+| Incompatible mods (osu!) | Spin In (SI), Deflate (DF), Traceable (TC), Approach Different (AD), Depth (DP) |
 
 :::
 
