@@ -12,6 +12,8 @@ tags:
   - personnel
   - team d'osu!
   - équipe d'osu!
+outdated_translation: true
+outdated_since: 39bfc3b2e62b776a1cc99976f72bd0ffcf6f773e
 ---
 
 # osu! team

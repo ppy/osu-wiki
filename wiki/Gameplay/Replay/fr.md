@@ -215,12 +215,12 @@ Les `Options` ne peuvent pas être rouvertes pendant la partie ou sur l'écran d
 
 ![](img/Replay_server.jpg "A gauche se trouve le téléchargement d'un replay sur le serveur, à droite se trouve le replay en question.")
 
-Les replays sur le serveur sont réservés au top 50 sur le `Classement général` d'une difficulté/beatmap.
+Les replays sur le serveur sont réservés au top 1000 sur le `Classement général` d'une difficulté/beatmap.
 Ce replay sera sauvegardé sur le serveur.
 Il peut être exporté, téléchargé ou regardé directement sur demande.
 
 Lorsque vous regardez un replay depuis le classement (excluant les replays exportés), le nombre affiché à côté dans le compteur de "Replays regardés par les autres" sur le profil du joueur du replay augmentera de 1.
-Si un nouveau record global du top 50 a été ajouté, le replay du précédent détenteur de la position \#50 sera supprimé côté serveur.
+Si un nouveau record global du top 1000 a été ajouté, le replay du précédent détenteur de la position \#1000 sera supprimé côté serveur.
 
 Pour regarder un replay serveur, un compte osu! doit être connecté à Bancho.
 Sur *l'écran de sélection des beatmaps* en `Solo`, allez sur le `Classement général` et cliquez sur le joueur que vous souhaitez pour regarder le replay.

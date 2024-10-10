@@ -62,12 +62,10 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 | ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548) |  |
 | ::{ flag=FI }:: [Aakki](https://osu.ppy.sh/users/11077540) | Finés |
 | ::{ flag=US }:: [Aeril](https://osu.ppy.sh/users/4334976) |  |
-| ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  |
 | ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Ruso |
 | ::{ flag=UA }:: [allein](https://osu.ppy.sh/users/6221637) | Ucraniano |
 | ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | Italiano |
 | ::{ flag=US }:: [Annabel](https://osu.ppy.sh/users/3388410) | Español |
-| ::{ flag=TR }:: [Aranel](https://osu.ppy.sh/users/9562117) | Turco |
 | ::{ flag=CN }:: [Arsalan](https://osu.ppy.sh/users/7660383) | Cantonés, chino, japonés |
 | ::{ flag=US }:: [Ascended](https://osu.ppy.sh/users/4564285) |  |
 | ::{ flag=FI }:: [Asphyxia](https://osu.ppy.sh/users/1715720) | Finés |
@@ -96,11 +94,9 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 | ::{ flag=US }:: [Howard W](https://osu.ppy.sh/users/8165181) |  |
 | ::{ flag=BR }:: [HowRengar](https://osu.ppy.sh/users/6064571) | Portugués |
 | ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) | Chino, algo de francés |
-| ::{ flag=CA }:: [JoshywaBoo](https://osu.ppy.sh/users/19656568) |  |
 | ::{ flag=DE }:: [KaedeharaKazuha](https://osu.ppy.sh/users/6300910) | Alemán |
 | ::{ flag=HK }:: [KennethBBG](https://osu.ppy.sh/users/13032817) | Cantonés, chino |
 | ::{ flag=KR }:: [KeyWee](https://osu.ppy.sh/users/10476879) |  |
-| ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | Alemán |
 | ::{ flag=KR }:: [Len](https://osu.ppy.sh/users/1686145) | Coreano, japonés, chino |
 | ::{ flag=US }:: [Local Hero](https://osu.ppy.sh/users/16134122) |  |
 | ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581) | Coreano |
@@ -111,15 +107,17 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 | ::{ flag=CL }:: [melleganol](https://osu.ppy.sh/users/16452371) | Español |
 | ::{ flag=TW }:: [MianYa](https://osu.ppy.sh/users/1844862) | Chino |
 | ::{ flag=ID }:: [Mocaotic](https://osu.ppy.sh/users/9487458) | Indonesio, chino |
-| ::{ flag=CA }:: [Mochi-](https://osu.ppy.sh/users/9312734) | Chino |
+| ::{ flag=CA }:: [MochiA](https://osu.ppy.sh/users/9312734) | Chino |
 | ::{ flag=TW }:: [Muchin](https://osu.ppy.sh/users/9834516) | Chino |
 | ::{ flag=AU }:: [Nadeshiko](https://osu.ppy.sh/users/3558897) |  |
 | ::{ flag=US }:: [Nathan](https://osu.ppy.sh/users/4785223) |  |
 | ::{ flag=HK }:: [Natsume Shizuku](https://osu.ppy.sh/users/9633734) | Chino |
 | ::{ flag=SG }:: [neonat](https://osu.ppy.sh/users/1561995) | Chino |
+| ::{ flag=BR }:: [Net0](https://osu.ppy.sh/users/5099768) | Portugués |
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  |
 | ::{ flag=US }:: [No Dap](https://osu.ppy.sh/users/3044645) | Coreano |
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | Francés |
+| ::{ flag=CA }:: [OxT](https://osu.ppy.sh/users/19656568) |  |
 | ::{ flag=PH }:: [Pile](https://osu.ppy.sh/users/15822813) | Filipino |
 | ::{ flag=TW }:: [Plus4j](https://osu.ppy.sh/users/4086497) | Chino |
 | ::{ flag=JP }:: [Reioli](https://osu.ppy.sh/users/8200707) | Japonés |
@@ -137,7 +135,6 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 | ::{ flag=US }:: [Smoke](https://osu.ppy.sh/users/10726630) |  |
 | ::{ flag=CA }:: [Sparhten](https://osu.ppy.sh/users/7601720) |  |
 | ::{ flag=BA }:: [Stompy_](https://osu.ppy.sh/users/16429579) | Serbio |
-| ::{ flag=CA }:: [superstore](https://osu.ppy.sh/users/16755693) |  |
 | ::{ flag=NL }:: [Syph](https://osu.ppy.sh/users/4858573) | Neerlandés |
 | ::{ flag=US }:: [tilda](https://osu.ppy.sh/users/6233296) |  |
 | ::{ flag=TH }:: [timemon](https://osu.ppy.sh/users/2072005) | Tailandés |
@@ -145,7 +142,6 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 | ::{ flag=JP }:: [too](https://osu.ppy.sh/users/12196931) | Japonés |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) | Japonés |
 | ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) | Ruso |
-| ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  |
 | ::{ flag=NL }:: [yukic](https://osu.ppy.sh/users/6977273) |  |
 | ::{ flag=IT }:: [zekk](https://osu.ppy.sh/users/9704802) | Italiano |
 | ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Polaco |
@@ -164,11 +160,9 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Cantonés, chino |
 | ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996) | Neerlandés |
 | ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnamita |
-| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Neerlandés |
 | ::{ flag=PH }:: [Eyenine](https://osu.ppy.sh/users/1259391) |  |
 | ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851) | Alemán |
 | ::{ flag=IE }:: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) |  |
-| ::{ flag=SE }:: [Invisible O](https://osu.ppy.sh/users/22907037) | Sueco |
 | ::{ flag=HK }:: [iRedi](https://osu.ppy.sh/users/8005579) | Chino, cantonés |
 | ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | Cantonés, chino |
 | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | Chino, cantonés, japonés |
@@ -177,7 +171,6 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 | ::{ flag=RS }:: [Ognjen3800](https://osu.ppy.sh/users/14706521) | Serbio |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Alemán, serbio, japonés |
 | ::{ flag=US }:: [op45667](https://osu.ppy.sh/users/21973491) | Francés, chino |
-| ::{ flag=JP }:: [Roxy-](https://osu.ppy.sh/users/11931563) | Japonés |
 | ::{ flag=RU }:: [Ryxliee](https://osu.ppy.sh/users/15823344) | Ruso |
 | ::{ flag=CA }:: [SN707](https://osu.ppy.sh/users/31404061) | Coreano |
 | ::{ flag=CL }:: [Ulqui](https://osu.ppy.sh/users/1263669) | Español |
@@ -193,9 +186,9 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 | ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) | Cantonés |
 | ::{ flag=CL }:: [Bastian](https://osu.ppy.sh/users/6345176) | Español |
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Cantonés, chino |
-| ::{ flag=CA }:: [coolkid](https://osu.ppy.sh/users/7620002) | Alemán |
 | ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136) | Alemán |
 | ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) |  |
+| ::{ flag=CO }:: [Juansy-](https://osu.ppy.sh/users/12588215) | Español |
 | ::{ flag=ID }:: [Mochi -](https://osu.ppy.sh/users/20424806) | Indonesio |
 | ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164) | Ruso |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) |  |
@@ -235,10 +228,8 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 | ::{ flag=KR }:: [Murumoo](https://osu.ppy.sh/users/8001433) | Coreano |
 | ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | Neerlandés |
 | ::{ flag=KR }:: [Niks](https://osu.ppy.sh/users/3037469) | Coreano |
-| ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) | Español |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | Gallego, italiano, japonés, español, portugués |
 | ::{ flag=IT }:: [Relae](https://osu.ppy.sh/users/14455536) | Indonesio |
-| ::{ flag=ID }:: [RiP46](https://osu.ppy.sh/users/5222596) |  |
 | ::{ flag=ID }:: [Rivals\_7](https://osu.ppy.sh/users/4610379) | Indonesio |
 | ::{ flag=CA }:: [Ryax](https://osu.ppy.sh/users/8949769) |  |
 | ::{ flag=KR }:: [secXcscX](https://osu.ppy.sh/users/13543418) | Coreano |
@@ -260,7 +251,8 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
 | ::{ flag=IT }:: [-Syncro](https://osu.ppy.sh/users/4338923) | Italiano |
-| ::{ flag=BR }:: [Net0](https://osu.ppy.sh/users/5099768) | Portugués |
+| ::{ flag=KR }:: [Beomsan](https://osu.ppy.sh/users/3626063) | Coreano |
+| ::{ flag=PH }:: [newton-](https://osu.ppy.sh/users/5875419) |  |
 
 #### osu!taiko
 
@@ -273,6 +265,8 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
+| ::{ flag=CA }:: [SadEgg](https://osu.ppy.sh/users/10278243) |  |
+| ::{ flag=PL }:: [Verti](https://osu.ppy.sh/users/10674528) |  |
 
 #### osu!mania
 

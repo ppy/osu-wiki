@@ -1,6 +1,8 @@
 ---
 no_native_review: true
 needs_cleanup: true  # https://github.com/ppy/osu-wiki/issues/9918, also, check grammar/style
+outdated_translation: true
+outdated_since: 94f6bdffe71a688a51fee5cc0ddc3a7528fedc58
 ---
 
 # osu!taiko (mode de jeu)

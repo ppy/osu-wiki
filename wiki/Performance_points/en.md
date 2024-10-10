@@ -103,15 +103,15 @@ Consider the following tips:
 
 You can learn more about the weightage system [above](#weightage-system).
 
-### How much bonus pp is awarded for having lots of scores on ranked maps?
+### How much bonus pp is awarded for having scores on ranked maps?
 
-**Up to 416.6667 bonus pp is given for setting large numbers of scores. This is attained at approximately 25397 scores.**
+**Up to 416.6667 bonus pp is given for setting scores. This is attained at approximately 3640 scores, but 416 out of them can be attained by having only 1285 scores.**
 
-You can calculate the exact amount of this bonus by following this formula, where `N` is the number of ranked maps with a score set:
+You can calculate the exact amount of this bonus by following [this formula](https://www.desmos.com/calculator/y5vy4vmxng), where `N` is the number of ranked maps with a score set:
 
-`416.6667 * (1 - 0.9994 ^ N)`
+`416.6667 * (1 - 0.995 ^ N)`
 
-The median number of scores required to reach half of this bonus is roughly 1,155 scores. As you can see, the amount of scores required spikes sharply towards the upper end of the spectrum.
+The median number of scores required to reach half of this bonus is roughly 209 scores. As you can see, the amount of scores required spikes sharply towards the upper end of the spectrum.
 
 #### Is weighting the reason behind why I don't get any pp from playing easy maps any more?
 

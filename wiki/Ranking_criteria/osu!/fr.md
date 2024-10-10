@@ -1,5 +1,7 @@
 ---
 no_native_review_since: ae41434f319c2db2e6b33ddffa0419b663ff039e Doryan
+outdated_translation: true
+outdated_since: 25e83fbe85484e8e4a461e1e5f862e876479eb0b
 ---
 
 # Critères de classement d'osu!

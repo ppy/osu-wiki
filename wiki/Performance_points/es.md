@@ -99,15 +99,15 @@ Ten en cuenta los siguientes consejos:
 
 Puedes obtener más información sobre el sistema de ponderación [arriba](#sistema-de-ponderación).
 
-### ¿Cuánta bonificación de pp recibiré por tener muchas puntuaciones en los mapas clasificados?
+### ¿Cuánta bonificación de pp recibiré por tener puntuaciones en mapas clasificados?
 
-**Se otorga una bonificación de hasta 416,6667 pp por establecer un gran número de puntuaciones. Esto se consigue aproximadamente con 25 397 puntuaciones.**
+**Se otorga una bonificación de hasta 416,6667 pp por establecer puntuaciones. Esto se consigue con aproximadamente 3640 puntuaciones, pero se puede conseguir 416 de esta bonificación teniendo solo 1285 puntuaciones.**
 
-Puedes calcular el valor exacto de esta bonificación siguiendo esta fórmula, donde `N` es el número de mapas clasificados con una puntuación establecida:
+Puedes calcular el valor exacto de esta bonificación siguiendo [esta fórmula](https://www.desmos.com/calculator/y5vy4vmxng), donde `N` es el número de mapas clasificados con una puntuación establecida:
 
-`416,6667 * (1 - 0,9994 ^ N)`
+`416,6667 * (1 - 0,995 ^ N)`
 
-El número promedio de resultados necesarios para alcanzar la mitad de esta bonificación es de aproximadamente 1155 puntuaciones. Como puedes ver, la cantidad de puntuaciones requeridas se dispara hacia el extremo superior del espectro.
+El número promedio de resultados necesarios para alcanzar la mitad de esta bonificación es de aproximadamente 209 puntuaciones. Como puedes ver, la cantidad de puntuaciones requeridas se dispara hacia el extremo superior del espectro.
 
 #### ¿La ponderación es la razón por la que ya no recibo pp al jugar mapas fáciles?
 

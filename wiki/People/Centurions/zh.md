@@ -11,6 +11,7 @@
 
 | 名称 | 第一次上架谱面 | 第一百次上架谱面 | 百夫长谱面包 |
 | :-- | :-- | :-- | :-- |
+| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | [2018-10-20](https://osu.ppy.sh/beatmapsets/833454) | [2024-10-02](https://osu.ppy.sh/beatmapsets/2215696) | [#1](https://osu.ppy.sh/beatmaps/packs/TM23) |
 | ::{ flag=PH }:: [Amateurre](https://osu.ppy.sh/users/7326908) | [2019-11-06](https://osu.ppy.sh/beatmapsets/1057765) | [2023-08-23](https://osu.ppy.sh/beatmapsets/2025917) | [#1](https://osu.ppy.sh/beatmaps/packs/TM15) |
 | ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | [2009-02-27](https://osu.ppy.sh/beatmapsets/5396) | [2010-12-10](https://osu.ppy.sh/beatmapsets/23100) | [#1](https://osu.ppy.sh/beatmaps/packs/TM8)、[#2](https://osu.ppy.sh/beatmaps/packs/TM9)、[#3](https://osu.ppy.sh/beatmaps/packs/TM10) |
 | ::{ flag=US }:: [Annabel](https://osu.ppy.sh/users/3388410) | [2018-05-06](https://osu.ppy.sh/beatmapsets/757813) | [2019-09-27](https://osu.ppy.sh/beatmapsets/935244) |  |
@@ -28,6 +29,7 @@
 | ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | [2017-06-10](https://osu.ppy.sh/beatmapsets/598791) | [2022-10-02](https://osu.ppy.sh/beatmapsets/1802635) | [#1](https://osu.ppy.sh/beatmaps/packs/TM4) |
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | [2018-12-11](https://osu.ppy.sh/beatmapsets/879904) | [2023-03-20](https://osu.ppy.sh/beatmapsets/1916502) | [#1](https://osu.ppy.sh/beatmaps/packs/TM2) |
 | ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | [2018-09-16](https://osu.ppy.sh/beatmapsets/826551) | [2022-12-30](https://osu.ppy.sh/beatmapsets/1348272) |  |
+| ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | [2016-05-21](https://osu.ppy.sh/beatmapsets/169622) | [2024-10-04](https://osu.ppy.sh/beatmapsets/2250094) | [#1](https://osu.ppy.sh/beatmaps/packs/TM24) |
 | ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992) | [2015-12-13](https://osu.ppy.sh/beatmapsets/373858) | [2018-08-29](https://osu.ppy.sh/beatmapsets/809788) | [#1](https://osu.ppy.sh/beatmaps/packs/TM5)、[#2](https://osu.ppy.sh/beatmaps/packs/TM6)、[#3](https://osu.ppy.sh/beatmaps/packs/TM7) |
 | ::{ flag=PL }:: [Suimya](https://osu.ppy.sh/users/700887) | [2011-03-28](https://osu.ppy.sh/beatmapsets/26544) | [2024-08-01](https://osu.ppy.sh/beatmapsets/2106029) | [#1](https://osu.ppy.sh/beatmaps/packs/TM22) |
 | ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) | [2019-07-12](https://osu.ppy.sh/beatmapsets/965596) | [2023-10-07](https://osu.ppy.sh/beatmapsets/2023741) | [#1](https://osu.ppy.sh/beatmaps/packs/TM18) |
@@ -36,4 +38,4 @@
 ## 冷知识
 
 - 第一个上架 100 张谱面的玩家是 ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363)，于 2010 年 8 月 4 日达成。
-- 总体来说，上架 100 张谱面平均需要 **4.6 年**（大约 1668 天）。<!--Stats from https://docs.google.com/spreadsheets/d/1UK1QdaZawxJ75Q0ZwvSGb4zDcC19RumO7BwV0p9R-jM/edit?usp=sharing-->
+- 总体来说，上架 100 张谱面平均需要 **4.8 年**（大约 1751 天）。<!--Stats from https://docs.google.com/spreadsheets/d/1UK1QdaZawxJ75Q0ZwvSGb4zDcC19RumO7BwV0p9R-jM/edit?usp=sharing-->

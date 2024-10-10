@@ -10,6 +10,8 @@ tags:
   - pendrive
   - Gerät
   - Tastatur
+outdated_translation: true
+outdated_since: bcf19a2e1abb302c68a5e6f554cd4f1ec5336a19
 ---
 
 # osu!store und Merchandise

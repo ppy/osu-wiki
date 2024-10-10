@@ -1,3 +1,8 @@
+---
+outdated_since: afae0bf730ed465b67163533b3ab560174b44c1d
+outdated_translation: true
+---
+
 # Points de performance
 
 Les **points de performance** (abrégé en **pp**) sont une mesure de classement qui vise à être plus contextuellement pertinente pour la progression d'un joueur sur osu!.

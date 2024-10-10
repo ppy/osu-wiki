@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 3c04037e7e68ad747d967bcd85ce219c65b2a4a7
+---
+
 # Metadatos
 
 ## General

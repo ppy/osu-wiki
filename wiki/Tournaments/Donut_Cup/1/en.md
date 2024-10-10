@@ -28,9 +28,11 @@ The **Donut Cup** was a double-elimination 3v3 osu! tournament hosted by ::{ fla
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1 month of osu!supporter for each team member, custom-made profile banner, a batch of freshly baked donuts (conditional according to feasibility of the delivery) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1 month of osu!supporter for each team member, custom-made profile banner, a batch of freshly baked donuts (conditional according to feasibility of the delivery), unique profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Custom-made profile banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Custom-made profile banner |
+
+![](img/badge.png "Donut Cup winner badge")
 
 ## Organisation
 
@@ -39,7 +41,7 @@ The Donut Cup was run by various osu! community members from all over the world.
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=CA }:: [KKipalt](https://osu.ppy.sh/users/6889573), ::{ flag=US }:: [Rentai](https://osu.ppy.sh/users/11033243) |
-| Mappool selector | ::{ flag=CA }:: [KKipalt](https://osu.ppy.sh/users/6889573), ::{ flag=US }:: [\_kola](https://osu.ppy.sh/users/12606578), ::{flag=AU}:: [Secured](https://osu.ppy.sh/users/14648196), ::{flag=US}:: [-Arko](https://osu.ppy.sh/users/8802914) |
+| Mappool selector | ::{ flag=CA }:: [KKipalt](https://osu.ppy.sh/users/6889573), ::{ flag=US }:: [\_kola](https://osu.ppy.sh/users/12606578), ::{ flag=AU }:: [Secured](https://osu.ppy.sh/users/14648196), ::{ flag=US }:: [-Arko](https://osu.ppy.sh/users/8802914) |
 | Custom mapper | ::{ flag=US }:: [Rentai](https://osu.ppy.sh/users/11033243), ::{ flag=US }:: [mintIceCream\_](https://osu.ppy.sh/users/13221589), ::{ flag=AU }:: [itstaipeople](https://osu.ppy.sh/users/8395155), ::{ flag=US }:: [nooj](https://osu.ppy.sh/users/8271086), ::{ flag=AU }:: [-Kirigiri](https://osu.ppy.sh/users/10816653), ::{ flag=PH }:: [Raburauza](https://osu.ppy.sh/users/8648178), ::{ flag=US }:: [IOException](https://osu.ppy.sh/users/2688103), ::{ flag=DK }:: [Pennek](https://osu.ppy.sh/users/3723742) |
 | Playtester and replayer | ::{ flag=US }:: [Emerald Ages](https://osu.ppy.sh/users/10224047), ::{ flag=TW }:: [Shiina Noriko](https://osu.ppy.sh/users/1285637), ::{ flag=US }:: [sleeping\_24-7](https://osu.ppy.sh/users/8112433), ::{ flag=TH }:: [namirin1](https://osu.ppy.sh/users/10249166), ::{ flag=AU }:: [cyo](https://osu.ppy.sh/users/8195473), ::{ flag=US }:: [Twilight](https://osu.ppy.sh/users/6327638), ::{ flag=US }:: [modeo](https://osu.ppy.sh/users/4580287), ::{ flag=CL }:: [Siiphs](https://osu.ppy.sh/users/11786864), ::{ flag=DE }:: [mihari](https://osu.ppy.sh/users/5442251), ::{ flag=NL }:: [niqht](https://osu.ppy.sh/users/14390731), ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071), ::{ flag=US }:: [NoWifi](https://osu.ppy.sh/users/17841979), ::{ flag=US }:: [hr3](https://osu.ppy.sh/users/11962818)[^hr3-note] |
 | Streamer | ::{ flag=US }:: [Rentai](https://osu.ppy.sh/users/11033243), ::{ flag=AR }:: [Keyz](https://osu.ppy.sh/users/10408325), ::{ flag=AU }:: [TheTopaz](https://osu.ppy.sh/users/7588992), ::{ flag=US }:: [rety](https://osu.ppy.sh/users/12201636), ::{ flag=US }:: [BlueCrystal004](https://osu.ppy.sh/users/4349974), ::{ flag=US }:: [Kahli](https://osu.ppy.sh/users/10408325) |

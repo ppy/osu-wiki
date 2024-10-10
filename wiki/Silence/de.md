@@ -1,6 +1,6 @@
 # Stummschaltung
 
-**Stummschaltung** (auch *Silence* genannt) ist ein Begriff, um die Bestrafung zu beschreiben, bei der einem Spieler die Kommunikation innerhalb der osu!-Community verwehrt wird. Stummschaltungen können durch Mitglieder des [Globalen Moderationsteams](/wiki/People/Global_Moderation_Team) und des [Nomination Assessment Teams](/wiki/People/Nomination_Assessment_Team) festgelegt werden und werden nur für Spieler aufgestellt, die gegen die [Community-Regeln](/wiki/Rules) verstoßen haben.
+Eine **Stummschaltung** (auch *Silence* genannt) ist eine Strafe, bei der einem Spieler die Kommunikation innerhalb der osu!-Community verwehrt wird. Stummschaltungen können durch Mitglieder des [Globalen Moderationsteams](/wiki/People/Global_Moderation_Team) und des [Nomination Assessment Teams](/wiki/People/Nomination_Assessment_Team) festgelegt werden und werden nur gegen Spieler verhängt, die gegen die [Community-Regeln](/wiki/Rules) verstoßen haben.
 
 ## Beschränkungen
 
@@ -18,7 +18,7 @@ Nutzer, die von Moderatoren stumm geschaltet werden, können folgende Dinge nich
 - Beatmaps einreichen und aktualisieren
 - An [Mehrspieler](/wiki/Client/Interface/Multiplayer)-Spielen teilnehmen
 
-Zusätzlich zu dem werden alle Nachrichten eines stumm geschalteten Spielers aus allen Chat-Kanälen und privaten Konversationen entfernt.[^chat-cleanup]
+Des Weiteren werden alle Nachrichten eines stumm geschalteten Spielers aus allen Chat-Kanälen und privaten Konversationen entfernt.[^chat-cleanup]
 
 ::: Infobox
 ![](img/silence-ingame.png "Warnung der Stummschaltung im Chat")

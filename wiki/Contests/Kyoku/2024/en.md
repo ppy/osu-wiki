@@ -17,12 +17,18 @@
 
 | Ranking | Prizes |
 | :-- | :-- |
-| Winning team | $100 USD + profile badge (pending) + [contest points](/wiki/Contests/Contest_points) |
+| Winning team | $100 USD + profile badge + 2 [contest points](/wiki/Contests/Contest_points) |
+| 2nd place | 1 contest point |
+
+![Kyoku 2024 winner's badge](img/badge.png)
 
 ## Links
 
 - [Contest listing](https://osu.ppy.sh/community/contests/211)
 - [Contest announcement](https://osu.ppy.sh/home/news/2024-05-10-kyoku-original-song-and-beatmapping-contest)
+- Results announcement
+  - [News post](https://osu.ppy.sh/home/news/2024-09-19-kyoku-2024-results)
+  - [YouTube video](https://www.youtube.com/watch?v=kzsxu8254u4)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1906442)
 - [Information document](https://docs.google.com/document/d/1DjLQN0wWzT25un9fUei9jmZqZdJ8Euvelf6Hgk0R4A0/view)
 - [Discord server](https://discord.com/invite/XPUPjFamuU)
@@ -65,7 +71,7 @@ Teams in **bold** successfully created and submitted an entry.
 | **Team RGB** | [Amon-](https://osu.ppy.sh/users/18161041), ballsmaster69 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/actiol "SoundCloud") Actiol, [![Newgrounds](/wiki/shared/link/Link.png)](https://artackni.newgrounds.com "Newgrounds") Artackni, [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/artrix-gaming "SoundCloud") Artrix |
 | **TOPAZ++** | [Pho](https://osu.ppy.sh/users/3624692) | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/@MetaHumanBoi "YouTube") MetaHumanBoi |
 | **totally not rescup internal** | [Alvearia](https://osu.ppy.sh/users/6248691), [Astrolis](https://osu.ppy.sh/users/12357714), [Nytrocide\_](https://osu.ppy.sh/users/11327918), [Yumerios](https://osu.ppy.sh/users/11681430), [Vermasium](https://osu.ppy.sh/users/11106442) | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/itsxyris "SoundCloud") Xyris, [![Twitter](/wiki/shared/link/Twitter.png)](https://twitter.com/EtherealWinter_ "Twitter") ethereal\_winter, [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/roerdtm "SoundCloud") roer |
-| **Zero Blunders** | [[-Evil-]](https://osu.ppy.sh/users/10234313), [Mysty](https://osu.ppy.sh/users/10210657), [Le Mirai](https://osu.ppy.sh/users/13646997), [Omekyu](https://osu.ppy.sh/users/14348073), [hakashii](https://osu.ppy.sh/users/11688893) | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/furtrash "SoundCloud") [fur:trash](https://osu.ppy.sh/users/14244740), [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sonny_shimoda "SoundCloud") Sonny Shimoda, [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/kgb_official "SoundCloud") KGB Official |
+| **Zero Blunders** | [[-Evil-]](https://osu.ppy.sh/users/10234313), [Mysty](https://osu.ppy.sh/users/10210657), [Le Mirai](https://osu.ppy.sh/users/13646997), [Omekyu](https://osu.ppy.sh/users/14348073), [hakashii](https://osu.ppy.sh/users/11688893) | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/furtrash "SoundCloud") [fur:trash](https://osu.ppy.sh/users/14244740) |
 | "khz gang" | [Sprixx](https://osu.ppy.sh/users/17076146), [Take](https://osu.ppy.sh/users/19322780) | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/@Fennral "YouTube") Fennral, [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/@ModernizedAndroidGyaru "YouTube") M.A.G |
 | Axyldo | [Kodo Iwaza](https://osu.ppy.sh/users/24474819) | Axylus |
 | BIKERBOYS | [chill guy](https://osu.ppy.sh/users/10571200), [scylla](https://osu.ppy.sh/users/9405745), [urdu](https://osu.ppy.sh/users/11389321), [melwem](https://osu.ppy.sh/users/10349559), [play melty](https://osu.ppy.sh/users/10079138) | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/Bnrxb "SoundCloud") pawna, [![Twitter](/wiki/shared/link/Twitter.png)](https://twitter.com/Kaofie "Twitter") Kaofie, [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/@melwem "YouTube") melwem |
@@ -113,40 +119,40 @@ Teams in **bold** successfully created and submitted an entry.
 
 | # | Score | Team name | Song | Beatmap |
 | :-: | --: | :-: | --: | :-- |
-| 1 | 88.25 | cosmo/LOGIΛ |  | [air reXistance (airlemoneX) - Stellar Evolution](https://osu.ppy.sh/beatmapsets/2242303) |
-| 2 | 86.00 | Zero Blunders | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/furtrash/whos-afraid "SoundCloud") | [fur:trash - who's afraid?](https://osu.ppy.sh/beatmapsets/2242420) |
+| 1 | 88.25 | cosmo/LOGIΛ | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/airlemonex/stellar-evolution "SoundCloud") | [air reXistance (airlemoneX) - Stellar Evolution](https://osu.ppy.sh/beatmapsets/2242303) |
+| 2 | 86.00 | Zero Blunders | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/furtrash/whos-afraid "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=TJYaek9e9OU "YouTube") | [fur:trash - who's afraid?](https://osu.ppy.sh/beatmapsets/2242420) |
 | 3 | 84.50 | Team RGB |  | [Artackni - Encaged](https://osu.ppy.sh/beatmapsets/2242804) |
 | 4 | 82.00 | Keyoku |  | [WujuBlade, Astralink, Lamura - Chronomancy](https://osu.ppy.sh/beatmapsets/2242702) |
 | 5 | 78.25 | moonleaf++++++++++ |  | [Tufani - Encounter\!](https://osu.ppy.sh/beatmapsets/2242670) |
-| 6 | 77.25 | takeshi's traphouse |  | [$khwa$ vs. nominomu - .hereafter](https://osu.ppy.sh/beatmapsets/2242883) |
+| 6 | 77.25 | takeshi's traphouse | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/khwahi/k_vs-nominomu-hereafter "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=Wg8jVLlwWQI "YouTube") | [$k\_Hwa$ vs. nominomu - .hereafter](https://osu.ppy.sh/beatmapsets/2242883) |
 | 7 | 77.00 | dragonlady |  | [Axya - Jindan \~ Golden Core](https://osu.ppy.sh/beatmapsets/2242262) |
 | 8 | 76.75 | Oort Cloud | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/silyn-music/silyn-x-hykarvs-jp-fait-la-course "SoundCloud") | [Silyn vs HYKARVS - JP fait la course](https://osu.ppy.sh/beatmapsets/2242688) |
-| 9 | 75.75 | 2006 honda civic |  | [Velamy & Turq - Sudden Death](https://osu.ppy.sh/beatmapsets/2242578) |
-| 10 | 74.75 | GOFROG | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/pckv/alien-friend-request "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=lGVwt3QWjSE "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://entireearth.bandcamp.com/track/alien-friend-request "Bandcamp") | [alien3 - alien friend request](https://osu.ppy.sh/beatmapsets/2242333) |
+| 9 | 75.75 | 2006 honda civic | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/velamy/sudden-death "SoundCloud") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/4BoQlKrVTCR9PJseu0EhrK "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://velamy.bandcamp.com/album/sudden-death "Bandcamp") | [velamy & Turq - Sudden Death](https://osu.ppy.sh/beatmapsets/2242578) |
+| 10 | 74.75 | GOFROG | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/pckv/alien-friend-request "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=lGVwt3QWjSE "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/5UtjMMdehxxdwpEzSiSplf "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://entireearth.bandcamp.com/track/alien-friend-request "Bandcamp") | [alien3 - alien friend request](https://osu.ppy.sh/beatmapsets/2242333) |
 | 11 | 72.50 | BOF:NT Moth Eaters | [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/5o96KzbggeYZbAYJqwX8jI "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://cygnus7.bandcamp.com/track/bloody-mary "Bandcamp") | [cygnus - Bloody Mary](https://osu.ppy.sh/beatmapsets/2242344) |
 | 12 | 71.00 | Last Minute | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/last-minute-238972658/convalescence-1 "SoundCloud") | [Last Minute - Convalescence](https://osu.ppy.sh/beatmapsets/2242286) |
-| 13 | 68.50 | totally not rescup internal |  | [Xyris, roer - Frostbit Thorns](https://osu.ppy.sh/beatmapsets/2242616) |
+| 13 | 68.50 | totally not rescup internal |  | [Xyris, roer - Frostbit Thorns (Instrumental Ver.)](https://osu.ppy.sh/beatmapsets/2242616) |
 | 14 | 64.50 | ඞඞඞඞඞඞ |  | legless - Status Migrainosus |
-| 15 | 60.75 | Collective Dreamers Unchained | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/krimek/michi-no-zankyou "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=DMEl4gCECPE "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://krimek.bandcamp.com/track/michi-no-zankyou "Bandcamp") | [Krimek feat. eili & Rafterz - Michi no Zankyou](https://osu.ppy.sh/beatmapsets/2242273) |
-| 15 | 60.75 | TOPAZ++ | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/metahumanboi/maximum-fluff-kyoku-2024 "SoundCloud") | MetaHumanBoi - MAXIMUM FLUFF |
+| 15 | 60.75 | Collective Dreamers Unchained | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/krimek/michi-no-zankyou "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=DMEl4gCECPE "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/7yqUpviBpcBiqr3jEYWvV6 "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://krimek.bandcamp.com/track/michi-no-zankyou "Bandcamp") | [Krimek feat. eili & Rafterz - Michi no Zankyou](https://osu.ppy.sh/beatmapsets/2242273) |
+| 15 | 60.75 | TOPAZ++ | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/metahumanboi/maximum-fluff-kyoku-2024 "SoundCloud") | [MetaHumanBoi - MAXIMUM FLUFF](https://osu.ppy.sh/beatmapsets/2243522) |
 | 17 | 56.50 | Eudaimonia | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/polarin0/eudaimonia-retunsus-kyoku-2024 "SoundCloud") | [Eudaimonia - RETUNSUS](https://osu.ppy.sh/beatmapsets/2242208) |
-| 18 | 54.75 | GNoKKi124 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/part-lerts/kyoku-2024flower-a-waltz-for-two-under-the-gaze-of-redacted "SoundCloud") | [ptar124 - A Waltz for Two, Under the Gaze of [REDACTED] (feat. flower SEKAI)](https://osu.ppy.sh/beatmapsets/2242585) |
-| 19 | 50.75 | Skizoids | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/rrolandd-834889584/kyoku-2024rrolandd-adhd "SoundCloud") | [RRolanDD - A.D.H.D](https://osu.ppy.sh/beatmapsets/2242657) |
-| 20 | 50.00 | Heavenstance | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/jemmycore/kyoku-2024-starshower "SoundCloud") | [jemmy - STARSHOWER](https://osu.ppy.sh/beatmapsets/2242538) |
-| 21 | 49.75 | Rho Ophiuchi | [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://rhophiuchi.bandcamp.com/album/depths-of-darkness "Bandcamp") | [Rho Ophiuchi - Depths of Darkness (Kyoku 2024 Version)](https://osu.ppy.sh/beatmapsets/2242780) |
+| 18 | 54.75 | GNoKKi124 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/part-lerts/kyoku-2024flower-a-waltz-for-two-under-the-gaze-of-redacted "SoundCloud") | [ptar124 - A Waltz for Two, Under the Gaze of [REDACTED] (feat. flower & SEKAI)](https://osu.ppy.sh/beatmapsets/2242585) |
+| 19 | 50.75 | Skizoids | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/rrolandd-834889584/kyoku-2024rrolandd-adhd "SoundCloud") | [RRolanDD - A.D.H.D.](https://osu.ppy.sh/beatmapsets/2242657) |
+| 20 | 50.00 | Heavenstance | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/jemmycore/kyoku-2024-starshower "SoundCloud") | [jemmy! - STARSHOWER!!\!](https://osu.ppy.sh/beatmapsets/2242538) |
+| 21 | 49.75 | Rho Ophiuchi | [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://true-rhophiuchi.bandcamp.com/track/depths-of-darkness-kyoku-2024-version "Bandcamp") | [Rho Ophiuchi - Depths of Darkness (Kyoku 2024 Version)](https://osu.ppy.sh/beatmapsets/2242780) |
 | 22 | 43.75 | pr0fffremont | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/pr0xladno/kyoku-2024-camel-crusher "SoundCloud") | [coldgiha - Camel Crusher](https://osu.ppy.sh/beatmapsets/2243178) |
 | 23 | 43.50 | mo.n.o | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/vexieeeee/blossom-kyoku-2024 "SoundCloud") | [etomi - blossom](https://osu.ppy.sh/beatmapsets/2242376) |
 | 24 | 40.50 | 12 YO |  | [Cityyy - Misunderstood](https://osu.ppy.sh/beatmapsets/2242233) |
 | 25 | 40.25 | Beyond 10+ | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/dr-screamroom-392628814/caliberkat-seiiyummi-kongehund "SoundCloud") | [CaliberKat, SeiiYuumi, kongehund - Lightspeed Confetti Cannons](https://osu.ppy.sh/beatmapsets/2242586) |
 | 26 | 38.75 | Camel audio |  | [Camel Audio - Seasons](https://osu.ppy.sh/beatmapsets/2242372) |
-| 27 | 34.25 | llama go bottom text |  | Ziondiac - Unfettered (VIP) |
-| 28 | 23.75 | Over Heaven |  | [Over Heaven - CUBE](https://osu.ppy.sh/beatmapsets/2242330) |
+| 27 | 34.25 | llama go bottom text |  | [Ziondiac - Unfettered (VIP)](https://osu.ppy.sh/beatmapsets/2251522) |
+| 28 | 23.75 | Over Heaven | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/realoverheaven/cube-kyoku-2024-version "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=tIG08wSr_rM "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/5u0lryzexeULBHI4GNrx0f "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://overheaven.bandcamp.com/track/cube-kyoku-2024-version "Bandcamp") | [Over Heaven - CUBE](https://osu.ppy.sh/beatmapsets/2242330) |
 | 29 | 17.75 | Team boss baby | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/resolve1k/evo "SoundCloud") | inno & tekea - evo |
-| 30 | 13.75 | nou |  | JMicc - Vicious Onslaught (Zuure) (2) |
-| 31 | 10.50 | Endlessly Small Bombs |  | treegas500 - Prelude To An Agitated Spring |
-| 32 | 4.00 | Spojený Sekoitus | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/totalnormalfry/kyoku-2024stalled-superiority "SoundCloud") | TotalNormalFry & HappyAdam - Stalled Superiority (PuffballYT) |
+| 30 | 13.75 | nou |  | [JMicc - Vicious Onslaught](https://osu.ppy.sh/beatmapsets/2244951) |
+| 31 | 10.50 | Endlessly Small Bombs |  | [treegas500 - Prelude To An Agitated Spring](https://osu.ppy.sh/beatmapsets/2251327) |
+| 32 | 4.00 | Spojený Sekoitus | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/totalnormalfry/kyoku-2024stalled-superiority "SoundCloud") | TotalNormalFry & HappyAdam - Stalled Superiority |
 | 33 | 3.25 | :sob: |  | V3ARI - Light In The Dark |
-| *DNS* |  | Team Blue but Red | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/redside100/ultraviolet "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=FwgTUyMrxko "YouTube") | Redside - Ultraviolet |
+| *DNS* |  | Team Blue but Red | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/redside100/ultraviolet "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=FwgTUyMrxko "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/4cVJGZzGJFcs7EbHB0w2EE "Spotify") | Redside - Ultraviolet |
 
 ## Rules
 

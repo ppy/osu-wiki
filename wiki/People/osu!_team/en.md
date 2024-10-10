@@ -37,6 +37,7 @@ The people listed below are the core of the **osu! team** and are chiefly respon
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [osu! YouTube channel](https://www.youtube.com/@osugame) host, [Mappers' Guild](/wiki/Community/Mappers_Guild) organiser, [Featured Artist](/wiki/People/Featured_Artists) outreach |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Modding and mapping scene advisor |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [Moderator](/wiki/People/Global_Moderation_Team), [wiki maintainer](/wiki/People/osu!_wiki_maintainers) |
+| ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) | World Cup design coordinator |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | General housekeeper |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | osu! developer, osu!mania lover, bug buster |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | osu! developer |
