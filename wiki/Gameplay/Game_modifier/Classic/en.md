@@ -1,11 +1,7 @@
 ---
 stub: true
 tags:
-  - classic
   - CL
-  - mod
-  - game modifier
-  - lazer
 ---
 
 # Classic (lazer mod)

@@ -1,11 +1,7 @@
 ---
 stub: true
 tags:
-  - transform
-  - TR
-  - mod
-  - game modifier
-  - lazer
+  - WG
 ---
 
 # Wiggle (lazer mod)
@@ -27,7 +23,7 @@ tags:
 | Game modes | ![][osu!] |
 | Score multiplier | 1.00x |
 | Status | Unranked |
-| Incompatible mods (osu!) | Depth (DP), Magnetised (MG), Repel (RP), Transform (TR) |
+| Incompatible mods | [Transform (TR)](/wiki/Gameplay/Game_modifier/Transform), Magnetised (MG), Repel (RP), Depth (DP) |
 
 :::
 

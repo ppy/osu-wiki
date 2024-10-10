@@ -1,12 +1,8 @@
 ---
 stub: true
 tags:
-  - no scope
-  - no-scope
+  - noscope
   - NS
-  - mod
-  - game modifier
-  - lazer
 ---
 
 # No Scope (lazer mod)
@@ -29,7 +25,7 @@ tags:
 | Game modes | ![][osu!] ![][osu!catch] |
 | Score multiplier | 1.00x |
 | Status | Ranked |
-| Incompatible mods (osu!) | None |
+| Incompatible mods | None |
 
 :::
 

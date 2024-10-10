@@ -1,12 +1,7 @@
 ---
 stub: true
 tags:
-  - spin in
-  - spin-in
   - SI
-  - mod
-  - game modifier
-  - lazer
 ---
 
 # Spin In (lazer mod)
@@ -28,7 +23,7 @@ tags:
 | Game modes | ![][osu!] |
 | Score multiplier | 1.00x |
 | Status | Unranked |
-| Incompatible mods (osu!) | Hidden (HD), Grow (GR), Deflate (DF), Traceable (TC), Approach Different (AD), Depth (DP) |
+| Incompatible mods | Hidden (HD), [Grow (GR)](/wiki/Gameplay/Game_modifier/Grow), [Deflate (DF)](/wiki/Gameplay/Game_modifier/Deflate), Traceable (TC), Approach Different (AD), Depth (DP) |
 
 :::
 

@@ -1,12 +1,7 @@
 ---
 stub: true
 tags:
-  - floating fruits
-  - floating-fruits
   - FF
-  - mod
-  - game modifier
-  - lazer
 ---
 
 # Floating Fruits (lazer mod)
@@ -28,7 +23,7 @@ tags:
 | Game modes | ![][osu!catch] |
 | Score multiplier | 1.00x |
 | Status | Unranked |
-| Incompatible mods (osu!) | None |
+| Incompatible mods | None |
 
 :::
 

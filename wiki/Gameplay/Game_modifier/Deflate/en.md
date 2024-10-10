@@ -1,11 +1,7 @@
 ---
 stub: true
 tags:
-  - deflate
   - DF
-  - mod
-  - game modifier
-  - lazer
 ---
 
 # Deflate (lazer mod)
@@ -27,7 +23,7 @@ tags:
 | Game modes | ![][osu!] |
 | Score multiplier | 1.00x |
 | Status | Unranked |
-| Incompatible mods (osu!) | Spin In (SI), Grow (GR), Traceable (TC), Approach Different (AD), Depth (DP) |
+| Incompatible mods | [Spin In (SI)](/wiki/Gameplay/Game_modifier/Spin_In), [Grow (GR)](/wiki/Gameplay/Game_modifier/Grow), Traceable (TC), Approach Different (AD), Depth (DP) |
 
 :::
 
