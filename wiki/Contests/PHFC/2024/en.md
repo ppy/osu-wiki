@@ -14,7 +14,7 @@ The **osu! Philippines Fanart Contest 2024 — "Kasiyahan sa Kapaskohan"** (***P
 
 | Event | Timestamp |
 | --: | :-- |
-| Submission period | 2024-10-11/2024-11-08 (15:59 UTC) |
+| Submission period | 2024-10-12/2024-11-09 |
 | Entry screening | 2024-11-08/2025-11-15 |
 | Public voting | 2024-11-15/2024-11-29 |
 
