@@ -1,7 +1,7 @@
 ---
 layout: post
 title: osu! originals - Badly Wood Cup 2024
-date: 2024-10-12 18:00:00 +0000
+date: 2024-10-12 20:00:00 +0000
 ---
 
 This year's iteration of **Badly Wood Cup** came packed with **8** original tracks, which are now part of our Featured Artist library!
