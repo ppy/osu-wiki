@@ -48,7 +48,7 @@ The osu! Philippines Mascots Fanart Contest 2024 is run by the following staff:
 
 ## Rulesets
 
-- By submitting your artwork to this contest, you give osu! Philppines the permission to use it for any promotional material for its activities, including (but not limited to) events, promotions, and the like. You will retain all of the rights to your work and you are permitted to sell or distribute it.
+- By submitting your artwork to this contest, you give osu! Philppines the permission to use it for any promotional material for its activities, including (but not limited to) events, promotions, and the like. You will retain all of the rights to your work, and you will be permitted to sell or distribute it.
 - Participants must have the Philippine flag on their profiles.
 - All entries MUST follow the contest theme and contain AT LEAST two of osu! Philippines' community mascots, one of which must be Primrea. You may look at these links for your reference:
   - [Primrea, the osu! Philippines/`#filipino` mascot](https://up.topecnz.net/primrea_designv2.pdf)
