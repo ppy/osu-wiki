@@ -4,9 +4,9 @@ Los puntos de los concursos son puntos que se usan como recompensa en los concur
 
 Los puntos de los concursos también pueden concederse como beneficio del [soporte oficial para concursos de beatmapping](/wiki/Contests/Official_support) bajo [ciertas circunstancias](/wiki/Contests/Official_support#elegibilidad).
 
-## Puntos clave
+## Distribución de los puntos
 
-Para los concursos individuales, los puntos se basan en el número de envíos válidos creados. Estas son las pautas generales para la distribución de puntos, y se pueden hacer excepciones dependiendo de cada caso y a discreción del [comité de concursos](/wiki/People/Tournament_Committee#comité-de-concursos) cuando se solicite soporte oficial para concursos de beatmapping.
+Para los concursos individuales, los puntos se basan en el número de envíos válidos creados. Estas son las pautas generales para la distribución de los puntos, y se pueden hacer excepciones dependiendo de cada caso y a discreción del [comité de concursos](/wiki/People/Tournament_Committee#comité-de-concursos) cuando se solicite soporte oficial para concursos de beatmapping.
 
 | Número de envíos | Puntos del 1er lugar | Puntos del 2do lugar | Puntos del 3er lugar |
 | :-- | :-- | :-- | :-- |
@@ -132,4 +132,4 @@ Los puntos de los concursos se han usado en los siguientes concursos:
 
 Antes de octubre de 2022, los puntos de los concursos eran exclusivos del [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) y se les llamaba *puntos MBC*. Con la introducción de la [osu!taiko Featured Artist Cup #3](https://osu.ppy.sh/home/news/2022-10-23-osutaiko-featured-artist-cup-3), los puntos pasaron a llamarse *puntos de los concursos* y se han readaptado para ser usados en otros concursos oficiales de mapping con el fin de proporcionar un camino simplificado hacia el título de *Elite Mapper*.
 
-A partir de enero de 2023, la elegibilidad para los puntos de los concursos se ha perfilado en base a los [puntos clave](#puntos-clave). Los puntos obtenidos antes de este cambio no se ajustarán.
+A partir de enero de 2023, la elegibilidad para los puntos de los concursos se ha perfilado en base a la [distribución de los puntos](#distribución-de-los-puntos). Los puntos obtenidos antes de este cambio no se ajustarán.
