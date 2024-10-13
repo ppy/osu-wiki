@@ -1596,7 +1596,7 @@ Estas canciones forman parte del [EP tomspicy osu! collection 01](https://osu.pp
 
 ### Lanzamientos específicos para beatmaps
 
-*Natteke ft. tieff - Endless Tower* y *Natteke ft. tieff - The Dream* aparecieron también más tarde en [osu!stream](/wiki/osu!stream).
+*Natteke ft. tieff - Endless Tower* y *Natteke ft. tieff - The Dream* también se publicaron en [osu!stream](/wiki/osu!stream).
 
 | Enlances | FA | Canción | Beatmap |
 | --: | :-: | :-- | :-: |
