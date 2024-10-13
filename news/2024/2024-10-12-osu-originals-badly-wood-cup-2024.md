@@ -8,7 +8,7 @@ This year's iteration of **Badly Wood Cup** came packed with **8** original trac
 
 ![](https://assets.ppy.sh/artists/441/header.jpg)
 
-For those out of the loop, [**Badly Wood Cup**](https://www.bwc2024.com/) is a 4v4 open rank tournament series with special rules that let players stragetise around varying win conditions each map. For example, a team can select a map as an "accuracy" pick, then win based on average team accuracy.
+For those out of the loop, [**Badly Wood Cup**](https://www.bwc2024.com/) is a 4v4 open rank tournament series with special rules that let players strategise around varying win conditions each map. For example, a team can select a map as an "accuracy" pick, then win based on average team accuracy.
 
 [osu! originals](/wiki/osu!_originals) have been popping up in tournaments throughout the community, and **Badly Wood Cup** is no exception: all **8** original tunes from the tournament are now part of [**Badly Wood Cup**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/441)!
 
