@@ -20,7 +20,7 @@ Los [concursos de beatmapping](/wiki/Contests) pueden recibir soporte del [osu! 
 
 Para otros concursos, envíanos un correo electrónico a [tournaments@ppy.sh](mailto:tournaments@ppy.sh). Intentaremos llegar a un acuerdo.
 
-Este artículo se actualizó por última vez el 30 de septiembre de 2024. Para ver la lista completa de cambios, consulta el hilo de [actualizaciones sobre el soporte para concursos de beatmapping](https://osu.ppy.sh/community/forums/topics/1907886). Para cualquier duda o aclaración, consulta el canal `#tournaments` en el [servidor de Discord osu!](https://discord.com/invite/ppy) o envía un correo electrónico al [equipo de soporte de cuentas](/wiki/People/Account_support_team) a través de [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+Este artículo se actualizó por última vez el 30 de septiembre de 2024. Para ver la lista completa de cambios, consulta el hilo de [actualizaciones sobre el soporte oficial para concursos de beatmapping](https://osu.ppy.sh/community/forums/topics/1907886). Para cualquier duda o aclaración, consulta el canal `#tournaments` en el [servidor de Discord osu!](https://discord.com/invite/ppy) o envía un correo electrónico al [equipo de soporte de cuentas](/wiki/People/Account_support_team) a través de [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Beneficios
 
@@ -72,9 +72,9 @@ Si tu concurso cumple los [criterios de elegibilidad](#elegibilidad), puedes hac
 
 Una vez que recibamos tu solicitud, el osu! team enviará una aprobación o denegación del estado del soporte oficial para tu concurso.
 
-Los premios en forma de insignia de perfil deben solicitarse como máximo dos meses después de la finalización del concurso. **Las insignias no se aprobarán hasta después de la finalización del concurso.**
+Los premios en forma de insignia de perfil deben solicitarse como máximo dos meses después de la finalización del concurso. **Las insignias no se aprobarán hasta después de la conclusión del concurso.**
 
-Para las noticias, la creación de listas para los concursos o cualquier otra consulta, ponte en contacto con nosotros lo antes posible antes de las inscripciones, idealmente con al menos un mes de antelación, para que tengamos tiempo de considerarlo.
+Para las noticias, la creación de las listas para los concursos o cualquier otra consulta, ponte en contacto con nosotros lo antes posible antes de las inscripciones, idealmente con al menos un mes de antelación, para que tengamos tiempo de considerarlo.
 
 El osu! team puede decidir denegar el soporte oficial a cualquier concurso que cumpla los criterios de elegibilidad, según su propia discreción. Esto garantiza que no haya juego sucio por parte de los organizadores de los concursos que se aprovechan de los vacíos de los criterios, por lo que si estás organizando un concurso sin mala intención, es probable que no tengas que preocuparte por esto.
 
