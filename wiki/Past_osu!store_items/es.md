@@ -72,7 +72,7 @@ La colección presentaba una variedad de productos como:
 ![osu! tablet](img/osu-tablet.jpg)
 
 *Véase también: [osu!tablet official thread](https://osu.ppy.sh/community/forums/topics/169139)*\
-*Para conocer los pasos de solución de los problemas relacionados con el producto, véase: [Archivo de la osu!store § osu!tablet](/wiki/Help_centre/Store/Store_archive#osu-tablet)*
+*Para conocer los pasos a seguir para solucionar los problemas relacionados con el producto, véase: [Archivo de la osu!store § osu!tablet](/wiki/Help_centre/Store/Store_archive#osu-tablet)*
 
 La **osu!tablet** era una tableta gráfica oficial de la marca osu! fabricada en colaboración con la empresa de electrónica [HUION](https://www.huion.com/). Fue diseñada por ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765) y se lanzó como una alternativa económica para aquellos que simplemente querían comprar una tableta gráfica para jugar a osu!.
 
@@ -84,7 +84,7 @@ El producto tuvo dos versiones: la original «[osu!tablet v1](https://www.youtub
 
 *Para leer la noticia, véase: [osu! Beatmap Blueprints Available & Contest Details](https://osu.ppy.sh/home/news/2015-03-20-osu-beatmap-blueprints-available-contest)*
 
-Los **planos para crear beatmaps de osu!** eran un conjunto de pegatinas reutilizables con varios elementos del juego, como círculos, sliders, círculos de aproximación, [juicios](/wiki/Gameplay/Judgement/osu!) y el propio logotipo de osu!. El producto se vendió en 2015 como un medio para que los usuarios crearan «beatmaps a tamaño real en la vida real».
+Los **planos para crear beatmaps de osu!** eran un conjunto de pegatinas reutilizables con varios elementos del juego, como círculos, sliders, círculos de aproximación, [juicios](/wiki/Gameplay/Judgement/osu!) y el propio logo de osu!. El producto se vendió en 2015 como un medio para que los usuarios crearan «beatmaps a tamaño real en la vida real».
 
 Al mismo tiempo que su lanzamiento, se organizó el [Beatmap Blueprint Contest](https://osu.ppy.sh/community/forums/topics/312138?n=1), que luego se abandonó debido al escaso número de participantes.
 
@@ -93,7 +93,7 @@ Al mismo tiempo que su lanzamiento, se organizó el [Beatmap Blueprint Contest](
 ![osu!keyboard](img/osu-keyboard.jpg)
 
 *Para leer la noticia, véase: [osu!weekly #12](https://osu.ppy.sh/home/news/2015-05-30-osuweekly-12)*\
-*Para conocer los pasos de solución de los problemas relacionados con el producto, véase: [Archivo de la osu!store § osu!keyboard](/wiki/Help_centre/Store/Store_archive#osu!keyboard)*
+*Para conocer los pasos a seguir para solucionar los problemas relacionados con el producto, véase: [Archivo de la osu!store § osu!keyboard](/wiki/Help_centre/Store/Store_archive#osu!keyboard)*
 
 El **osu!keyboard**, también conocido como **osu!nono**, era un teclado mecánico de dos botones diseñado específicamente para jugar a osu!. Cada compra del osu!keyboard venía acompañada de [un par de teclas de osu!](http://puu.sh/jnEsK/1153c92c10.png).
 
@@ -104,7 +104,7 @@ El producto se vendió por primera vez en 2015 antes de dejar de comercializarse
 ![osu!go](img/osu-go.jpg)
 
 *Para leer la noticia, véase: [osu!weekly #48](https://osu.ppy.sh/home/news/2016-02-16-osuweekly-48)*\
-*Para conocer los pasos de solución de los problemas relacionados con el producto, véase [Archivo de la osu!store § osu!go](/wiki/Help_centre/Store/Store_archive#osu!go)*
+*Para conocer los pasos a seguir para solucionar los problemas relacionados con el producto, véase: [Archivo de la osu!store § osu!go](/wiki/Help_centre/Store/Store_archive#osu!go)*
 
 El **osu!go** era una robusta memoria USB precargada con el cliente de osu! en su interior. Presumía de una velocidad de transferencia cercana a la de las SSD y se diseñó para los jugadores que querían jugar a osu! en cualquier lugar (de ahí su nombre).
 
