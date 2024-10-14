@@ -52,7 +52,7 @@ Wacom 还有其它产品线，例如 Graphire 或 Volito 数位板，但它们�
 
 请不要选择 Bamboo Touch 系列的数位板，因为它们并没有用笔输入的功能，它们只是为电脑设计的多点触控触控板。坦诚地说，[苹果做的更好](https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad)。
 
-Bamboo 产品有两种规格，通常是小和大。对于第二代，Bamboo Touch，Pen 和 Pen and Touch 是“小”的产品，而  Fun 和 Craft 是“大”的产品。对于第三代，Connect 和 Capture 是“小”的产品，而 Create 是“大”的产品。
+Bamboo 产品有两种规格，通常是小和大。对于第二代，Bamboo Touch，Pen 和 Pen and Touch 是“小”的产品，而 Fun 和 Craft 是“大”的产品。对于第三代，Connect 和 Capture 是“小”的产品，而 Create 是“大”的产品。
 
 对于 osu!，你很可能需要寻找“小”号的数位板，因为这样可以减小游玩区域，让你在游玩时不需要移动手臂。但是，选择数位板区域的大小取决于个人偏好，而如果你有数字艺术需求，最好考虑“大”的规格。这是因为在更大的数位板上作画舒适得多。
 
