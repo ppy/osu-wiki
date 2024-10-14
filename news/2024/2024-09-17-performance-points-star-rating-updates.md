@@ -37,7 +37,7 @@ As a reminder of the various core values in the difficulty calculation algorithm
 
 The most monumental [change](https://github.com/ppy/osu/pull/16280) proposed by [moonpoint](https://osu.ppy.sh/users/9558549) – with improvements made by [KermitNuggies](https://osu.ppy.sh/users/33452559) – removes the "combo scaling factor" applied to the aim and speed portions of a score's pp.
 
-This change means a 1 miss score with a max combo of 500 compared to a 1 miss score with a max combo of 700 on the same beatmap will be punished equally. The miss penalty was also rewritten in order to accommodate these changes - misses have generally been made harsher, with the initial miss having a harsher penalty in order to differentiate between FCs and non-FCs.
+This change means a 1 miss score with a max combo of 500 compared to a 1 miss score with a max combo of 700 on the same beatmap will be punished equally. The miss penalty was also rewritten in order to accommodate these changes — misses have generally been made harsher, with the initial miss having a harsher penalty in order to differentiate between FCs and non-FCs.
 
 The miss penalty scaling is now based on the amount of difficult strains instead of object count. As the penalty is based upon the amount of difficult strains, this means longer maps with a lot of "filler" sections will be punished harder than longer beatmaps which are consistently difficult even if both beatmaps have similar object counts.
 
@@ -167,7 +167,7 @@ Here is a graph to help visualise the LN overlap bonus change:
 
 To add context to the graph, 30ms corresponds to 250bpm 1/8th patterns.
 
-In the [previous osu!mania changes](https://osu.ppy.sh/home/news/2022-10-09-changes-to-osu-mania-sr-and-pp), there was a fix for the ends of LNs and note chords awarding varying amounts of difficulty depending on their placement order. These changes have improved on that once again, and the order of LN chord starts no longer vary difficulty either - this means that the placement order of chords should no longer matter at all.
+In the [previous osu!mania changes](https://osu.ppy.sh/home/news/2022-10-09-changes-to-osu-mania-sr-and-pp), there was a fix for the ends of LNs and note chords awarding varying amounts of difficulty depending on their placement order. These changes have improved on that once again, and the order of LN chord starts no longer vary difficulty either — this means that the placement order of chords should no longer matter at all.
 
 ---
 
