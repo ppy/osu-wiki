@@ -35,7 +35,7 @@ As a reminder of the various core values in the difficulty calculation algorithm
 
 ### Combo scaling removal
 
-The most monumental [change](https://github.com/ppy/osu/pull/16280) proposed by [moonpoint](https://osu.ppy.sh/users/9558549) – with improvements made by [KermitNuggies](https://osu.ppy.sh/users/33452559) – removes the "combo scaling factor" applied to the aim and speed portions of a score's PP.
+The most monumental [change](https://github.com/ppy/osu/pull/16280) proposed by [moonpoint](https://osu.ppy.sh/users/9558549) – with improvements made by [KermitNuggies](https://osu.ppy.sh/users/33452559) – removes the "combo scaling factor" applied to the aim and speed portions of a score's pp.
 
 This change means a 1 miss score with a max combo of 500 compared to a 1 miss score with a max combo of 700 on the same beatmap will be punished equally. The miss penalty was also rewritten in order to accommodate these changes - misses have generally been made harsher, with the initial miss having a harsher penalty in order to differentiate between FCs and non-FCs.
 
