@@ -184,6 +184,8 @@ For me, she is meant to represent how individuals come together to create someth
 
 ## Staff interviews
 
+### Alvearia & Luminous Sky
+
 <div class="news-chat-quote__text-container">
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/12840110" style="background-image: url('/wiki/shared/news/2024-10-09-resurrection-cup-2024-results/avatar-Phreel.png')"></a>
@@ -234,7 +236,11 @@ How would you describe your experience with the custom mappers of the tournament
 
 From my side I would not say there were any issues, at least in my division – all mappers delivered really high-quality maps within the given deadlines, and even if there was need to apply some mods or generally buff/nerf sections, they tried their best to make it done as fast as possible while keeping the quality level. If you ask my view on all 90 customs, I think every map found their fans, as for players that will replay them from time to time and wish to see them in ranked section, and as for other poolers in the community that would like to use ResCup customs in their tournaments.
 
+</div>
+
 ### Krimek & Xyris
+
+<div class="news-chat-quote__text-container">
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/12840110" style="background-image: url('/wiki/shared/news/2024-10-09-resurrection-cup-2024-results/avatar-Phreel.png')"></a>
 
