@@ -47,7 +47,7 @@ There were concerns raised about consistency being less important with these cha
 
 A [change](https://github.com/ppy/osu/pull/28871) proposed by [StanR](https://osu.ppy.sh/users/7217455) fixes some flaws in the rhythm complexity calculations.
 
-As a reminder of how rhythm works, notes are grouped into 'islands' (for example, a triple pattern is described as a 3 note island) and complexity is assessed using these islands.
+If you don't know how rhythm works inside of the pp formula, notes are grouped into "islands" (for example, a triple pattern is described as a 3 note island) and complexity is assessed using these islands.
 
 The first improvement in this change is removing a size bonus on island length and uncapping the island size. Previously, there was a bonus applied based on island length sizes that would cause long bursts to gain a lot of rhythm complexity even if they were not complex.
 
