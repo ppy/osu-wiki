@@ -127,7 +127,7 @@ To solve this, we can leverage the fact that tapping error is almost always norm
 
 ### Minor changes
 
-- [Refactor](https://github.com/ppy/osu/pull/28596) of Taiko's skill code by [StanR](https://osu.ppy.sh/users/7217455) to make calculations more maintainable.
+- [Refactor](https://github.com/ppy/osu/pull/28596) of osu!taiko's skill code by [StanR](https://osu.ppy.sh/users/7217455) to make calculations more maintainable.
 
 On a side note, the osu!taiko performance points committee is aware of the feedback, both positive and negative, surrounding the new system over the past couple of years. We value the community's input and are continuously working to improve. There are significant changes on the horizon, such as the introduction of the pattern skill (rhythm within colour, and colour within rhythm) as well as performance-related changes. If you’d like to contribute to future changes, feel free to join the discussion on our [Performance Points Discord server](https://discord.gg/aqPCnXu).
 
