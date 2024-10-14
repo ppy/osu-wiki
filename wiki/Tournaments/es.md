@@ -312,6 +312,12 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | [osu! Indonesia Tournament #12 (2022)](OIT/2022) | 15/2/2022 | 3/4/2022 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [deeto](https://osu.ppy.sh/users/10069909) | ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594) |
 | [osu! Indonesia Tournament #13 (2023)](OIT/2023) | 19/6/2023 | 30/7/2023 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) |
 
+#### osu! Malaysia Tournament
+
+| Nombre | Inicio | Final | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu! Malaysia Tournament X](OMT/X) | 26/8/2024 | 13/10/2024 | ::{ flag=MY }:: [wuhua](https://osu.ppy.sh/users/2932510) | ::{ flag=MY }:: [Rampax](https://osu.ppy.sh/users/3995630) | ::{ flag=MY }:: [Lunasa](https://osu.ppy.sh/users/16436446) |
+
 #### osu! Romania Tournament
 
 | Nombre | Inicio | Final | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] |
