@@ -41,7 +41,7 @@ This change means a 1 miss score with a max combo of 500 compared to a 1 miss sc
 
 The miss penalty scaling is now based on the amount of difficult strains instead of object count. As the penalty is based upon the amount of difficult strains, this means longer maps with a lot of "filler" sections will be punished harder than longer beatmaps which are consistently difficult even if both beatmaps have similar object counts.
 
-There were concerns raised about consistency being less important with these changes as combo is no longer a factor, however this isn't an issue - using combo as a metric doesn't make much sense as the performance calculator does not know what sections of a beatmap that a score got misses on. As a result, we model any misses as being on the most difficult part.
+There were concerns raised about consistency being less important with these changes as combo is no longer a factor, however this isn't an issue — using combo as a metric doesn't make much sense as the performance calculator does not know where the misses occurred on any given beatmap. As a result, we model any misses as being on the most difficult part.
 
 ### Rhythm complexity improvements
 
