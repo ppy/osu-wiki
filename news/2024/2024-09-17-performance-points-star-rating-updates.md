@@ -77,7 +77,7 @@ A [change](https://github.com/ppy/osu/pull/27063) proposed by [tsunyoku](https:/
 
 Traditionally, osu! has not had accuracy on slider heads, and so accuracy pp traditionally excludes sliders in its calculation. However, osu!(lazer) has slider head accuracy, and so accuracy pp now includes sliders on scores played with slider head accuracy.
 
-This change may not affect all scores set with slider head accuracy, as accuracy pp also has an object count cap meaning accuracy pp will go unchanged if the hit circle object count was already hitting this cap. Additionally, very low accuracy scores may not be boosted enough by the added object counts to result in any extra reward.
+This change may not affect all scores set with slider head accuracy, as accuracy pp also has an object count cap, meaning accuracy pp will go unchanged if the cap was already reached. Additionally, very low accuracy scores may not be boosted enough by the added object counts to result in any extra reward.
 
 We expect more pp changes related to slider head accuracy in the future!
 
