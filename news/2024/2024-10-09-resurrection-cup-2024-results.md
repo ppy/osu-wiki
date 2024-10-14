@@ -38,9 +38,11 @@ Commentated by [D I O](https://osu.ppy.sh/users/3958619) and [Tycani](https://os
 </div>
 
 ## Resurrection Cup originals
+
 This year, we've managed to release 26 songs, alongside all of them over 30 original illustrations ranging from beatmap backgrounds, PV animations, album covers and other necessary assets for announcements and banners.
 
 Here is a crossfade showcasing them all!
+
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/uA8mW0SXhxg" frameborder="0" allowfullscreen></iframe>
 </div>
@@ -121,6 +123,7 @@ If I remember correctly it was your idea that a mascot would be good to have for
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/12840110" style="background-image: url('https://a.ppy.sh/users/12840110')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-bsc" href="https://osu.ppy.sh/users/12840110">Phreel</a></p>
+
 What was your main inspiration for her?
 
 <a class="avatar news-chat-quote__avatar" href="https://twitter.com/Yumeyo_art" style="background-image: url('https://hoaq.s-ul.eu/5HjrsVZW')"></a>
@@ -286,6 +289,12 @@ Which artists or composers do you draw inspiration from, and how have they influ
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-bsc" href="https://osu.ppy.sh/users/2345078">Krimek</a></p>
 
 There are many artists who inspire me, even if they're not my favorites. Their work still offers new perspectives, which is crucial for broadening your horizons. My major idols are definitely Taishi, [Supire](https://osu.ppy.sh/beatmaps/artists/373) and [Camellia](https://osu.ppy.sh/beatmaps/artists/31). Taishi is a master of atmosphere and storytelling, Supire is a rhythm and sound design genius, and Camellia... well, you already know why. I draw inspiration from these three and try to incorporate their strengths into my songs. In other words: I try to learn from them and improve those areas in my songs. They've also become part of the osu! community, and their music is well-loved. How it influences my approach to creating custom song for osu! tournaments? If you create innovative music with exciting rhythms, you already have a great foundation for a custom tournament song.
+
+</div>
+
+### [Boy]DaLa & Hoaq
+
+<div class="news-chat-quote__text-container">
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/12840110" style="background-image: url('https://a.ppy.sh/users/12840110')"></a>
 
