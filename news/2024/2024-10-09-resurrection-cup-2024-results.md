@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Resurrection Cup 2024 Concludes
+title: Resurrection Cup 2024 Results
 date: 2024-10-09 19:00:00 +0000
 ---
 
@@ -12,7 +12,7 @@ A total of 26 originals made specifically for this year's iteration, making Resu
 
 ## Results
 
-![](wiki/shared/news/2024-10-09-resurrection-cup-2024-concludes/podium.jpg)
+![](wiki/shared/news/2024-10-09-resurrection-cup-2024-results/podium.jpg)
 
 ## Highlights
 
