@@ -49,6 +49,8 @@ Here is a crossfade showcasing them all!
 
 ## Serenity, the face of Resurrection Cup
 
+![](/wiki/shared/news/2024-10-09-resurrection-cup-2024-results/serenity.jpg)
+
 Resurrection Cup’s themes have never been the same throughout the 3 iterations.
 In 2022, the theme was about humanity still being alive and thriving even after a devastating apocalypse where afterwards the metropolitan areas of the planet are reclaimed by nature.
 
