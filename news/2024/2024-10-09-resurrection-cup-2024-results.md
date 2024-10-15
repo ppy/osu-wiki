@@ -4,11 +4,13 @@ title: Resurrection Cup 2024 Results
 date: 2024-10-09 19:00:00 +0000
 ---
 
-This year's Resurrection Cup has come to an end… but fret not, people are already hard at work preparing for an even better next iteration in 2025!
+This year's Resurrection Cup has come to an end... read on for the results and reflections from the people who made it happen!
 
 ![](/wiki/shared/news/2024-05-12-resurrection-cup-2024-registrations-now-open/banner.jpg)
 
-A total of 26 originals made specifically for this year's iteration, making Resurrection Cup 2024 the tournament with the highest amount of custom songs on osu!standard, and 2nd only behind [COEGTS 2023](/wiki/Tournaments/GTS/COEGTS_2023) across the 4 gamemodes.
+Starting with [registrations back in May 11](https://osu.ppy.sh/home/news/2024-05-12-resurrection-cup-2024-registration-now-open) and ending with a grand final showdown on July 28, the Resurrection Cup ends another year with a bang.
+
+A total of 26 [originals](/wiki/osu!_originals) were made specifically for this year's iteration, making Resurrection Cup 2024 the tournament with the highest amount of custom songs in the osu! game mode.
 
 ## Results
 
@@ -16,21 +18,21 @@ A total of 26 originals made specifically for this year's iteration, making Resu
 
 ## Highlights
 
-In Quarterfinals, the one and only legendary [verto](https://osu.ppy.sh/users/2015300) commentated alongside [SadShiba](https://osu.ppy.sh/users/10747626) which surprised a lot of people in the match
+In the Quarterfinals, the one and only [verto](https://osu.ppy.sh/users/2015300) commentated alongside [SadShiba](https://osu.ppy.sh/users/10747626) which surprised a lot of people in the match
 swaglords vs. Germany owc B
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/2l4KS5feTA8" frameborder="0" allowfullscreen></iframe>
 </div>
 
-First time Seed #1 and Seed #2 clashed in Finals immediately going to a Tiebreaker where [FlyingTuna](https://osu.ppy.sh/users/9224078) S-ranked Shokiii's Finals Tiebreaker original song!
+First time seed #1 and seed #2 clashed in Finals immediately going to a tiebreaker where [FlyingTuna](https://osu.ppy.sh/users/9224078) S-ranked Shokiii's Finals tiebreaker original song!
 kotomiler vs. fresh off the boat
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/R0FSFEV_uLA" frameborder="0" allowfullscreen></iframe>
 </div>
 
-And at last, the rematch and the summit of the tournament this year, the Grand Finals match between Seed #1 and Seed #2 once again
+And at last, the rematch and the summit of the tournament this year, the Grand Finals match between seed #1 and seed #2 once again
 Commentated by [D I O](https://osu.ppy.sh/users/3958619) and [Tycani](https://osu.ppy.sh/users/6693266), letting us all witness a comeback from losers bracket, taking fresh off the boat to Bracket Reset and winning the tournament.
 
 <div align="center" class="osu-md__paragraph">
