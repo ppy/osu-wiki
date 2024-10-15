@@ -8,7 +8,7 @@ tags:
 
 ![NDC banner](img/banner.jpg)
 
-The **National Dutch Championship 2024** (***NDC 2024***) is a 1v1, double elimination osu!standard tournament hosted by ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403) and ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619). It is the third instalment of the National Dutch Championship.
+The **National Dutch Championship 2024** (***NDC 2024***) was a 1v1, double elimination osu!standard tournament hosted by ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403) and ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619). It was the third instalment of the National Dutch Championship.
 
 ## Tournament schedule
 
@@ -34,19 +34,17 @@ The **National Dutch Championship 2024** (***NDC 2024***) is a 1v1, double elimi
 | *5th & 6th place* | €48,- |
 | *7th & 8th place* | €32,- |
 
-*Prizes may be increased if more donations come in*
-
 The prizepool was sponsored by both the organisation and community members:
 * ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403): €750,-
 * ::{ flag=NL }:: [heyronii](https://osu.ppy.sh/users/5642779): €500,-
 * ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619): €250,-
 * ::{ flag=NL }:: [Katie Djeestar](https://osu.ppy.sh/users/641155): €100,-
 
-<!-- ![](img/badge.png "NDC 2024 winner badge") -->
+![](img/badge.jpg "NDC 2024 winner badge")
 
 ## Organisation
 
-The National Dutch Championship 2024 is run by various community members.
+The National Dutch Championship 2024 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -58,8 +56,6 @@ The National Dutch Championship 2024 is run by various community members.
 | Streamer | ::{ flag=NL }:: [- Ethereal -](https://osu.ppy.sh/users/9357932), ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403), ::{ flag=NL }:: [DeathByDarwin](https://osu.ppy.sh/users/9087777), ::{ flag=NL }:: [Amarillo](https://osu.ppy.sh/users/6632587), ::{ flag=NL }:: [UnveiledGolem](https://osu.ppy.sh/users/14090438), ::{ flag=NL }:: [Fubu](https://osu.ppy.sh/users/12719649), ::{ flag=NL }:: [Happy_24](https://osu.ppy.sh/users/12876323), ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) |
 | Commentator | ::{ flag=NL }:: [Kut](https://osu.ppy.sh/users/3859899), ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403), ::{ flag=NL }:: [Sroj](https://osu.ppy.sh/users/4783389), ::{ flag=NL }:: [UnveiledGolem](https://osu.ppy.sh/users/14090438), ::{ flag=NL }:: [Bart](https://osu.ppy.sh/users/15961009), ::{ flag=NL }:: [Telegy](https://osu.ppy.sh/users/16322001), ::{ flag=NL }:: [Fubu](https://osu.ppy.sh/users/12719649), ::{ flag=NL }:: [pregnant](https://osu.ppy.sh/users/15413621), ::{ flag=NL }:: [OldEclipse](https://osu.ppy.sh/users/5174602), ::{ flag=NL }:: [AngelNamirin](https://osu.ppy.sh/users/6145220), ::{ flag=BE }:: [5joshi](https://osu.ppy.sh/users/4279650), ::{ flag=NL }:: [Swerro](https://osu.ppy.sh/users/4507667), ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) |
 | Designer | ::{ flag=NL }:: [Happy_24](https://osu.ppy.sh/users/12876323) |
-
-*This list may be updated during the tournament*
 
 ## Links
 
@@ -73,7 +69,7 @@ The National Dutch Championship 2024 is run by various community members.
 
 | Seed | Player | Global rank | Country rank |
 | :-: | :-- | :-: | :-: |
-| 1 | ::{ flag=NL }:: [Ohio](https://osu.ppy.sh/users/14919428) | #748 | #10 |
+| 1 | ::{ flag=NL }:: [Aheo](https://osu.ppy.sh/users/14919428) | #748 | #10 |
 | 2 | ::{ flag=NL }:: [draconia](https://osu.ppy.sh/users/20241831) | #15964 | #194 |
 | 3 | ::{ flag=NL }:: [LUCIANO](https://osu.ppy.sh/users/11604978) | #53 | #1 |
 | 4 | ::{ flag=NL }:: [wessel_osu2](https://osu.ppy.sh/users/4382220) | #2143 | #28 |
@@ -123,6 +119,18 @@ The National Dutch Championship 2024 is run by various community members.
 | 48 | ::{ flag=NL }:: [Piglin](https://osu.ppy.sh/users/26139689) | #36038 | #424 |
 | 49 | ::{ flag=NL }:: [KawaiiSniperBoy](https://osu.ppy.sh/users/20524617) | #143847 | #1647 |
 | 50 | ::{ flag=NL }:: [Aimy](https://osu.ppy.sh/users/20348925) | #95883 | #1139 |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=NL }:: [Aheo](https://osu.ppy.sh/users/14919428) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=NL }:: [chillington 15](https://osu.ppy.sh/users/6744123) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=NL }:: [LUCIANO](https://osu.ppy.sh/users/11604978) |
+
+![](img/podium.png "NDC 2024 podium")
 
 ## Mappools
 
