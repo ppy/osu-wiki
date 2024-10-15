@@ -71,15 +71,15 @@ The osu! World Cup 2024 is run by the [osu! team](/wiki/People/osu!_team) and va
 | ::{ flag=BG }:: | **Bulgaria** | **[hlanden](https://osu.ppy.sh/users/4934554)** |
 | ::{ flag=KH }:: | **Cambodia** | **[Sambath](https://osu.ppy.sh/users/6511038)** |
 | ::{ flag=CA }:: | **Canada** | **[Zylice](https://osu.ppy.sh/users/5033077)** |
-| ::{ flag=CL }:: | **Chile** | **[suntanCTM](https://osu.ppy.sh/users/19998548)** |
+| ::{ flag=CL }:: | **Chile** | **[suntanCTM](https://osu.ppy.sh/users/19998548)**, [Mathi](https://osu.ppy.sh/users/5339515), [Intercambing](https://osu.ppy.sh/users/2546001), [NO37](https://osu.ppy.sh/users/4653583), [tfge](https://osu.ppy.sh/users/11207004), [Gonzah](https://osu.ppy.sh/users/12434652), [Nekore](https://osu.ppy.sh/users/18946207), [xXChokgamerXx](https://osu.ppy.sh/users/7748891) |
 | ::{ flag=CN }:: | **China** | **[lolol235](https://osu.ppy.sh/users/6090175)** |
 | ::{ flag=CO }:: | **Colombia** | **[Carlosflow](https://osu.ppy.sh/users/11940767)** |
 | ::{ flag=HR }:: | **Croatia** | **[KarliXon](https://osu.ppy.sh/users/9283403)** |
 | ::{ flag=CZ }:: | **Czechia** | **[Sigmund Fraud](https://osu.ppy.sh/users/3198446)** |
 | ::{ flag=DK }:: | **Denmark** | **[Polle](https://osu.ppy.sh/users/13218204)** |
-| ::{ flag=DO }:: | **Dominican Republic** | **[Gorrino](https://osu.ppy.sh/users/22782807)** |
+| ::{ flag=DO }:: | **Dominican Republic** | **[Skill](https://osu.ppy.sh/users/7802027)** |
 | ::{ flag=EE }:: | **Estonia** | **[Ancenthe](https://osu.ppy.sh/users/4479041)** |
-| ::{ flag=FI }:: | **Finland** | **[shdewz](https://osu.ppy.sh/users/10000899)** |
+| ::{ flag=FI }:: | **Finland** | **[shdewz](https://osu.ppy.sh/users/10000899)**, [Amasetic](https://osu.ppy.sh/users/11375251), [Xepei](https://osu.ppy.sh/users/11479551), [Dezku](https://osu.ppy.sh/users/9505131), [Nev-](https://osu.ppy.sh/users/11836334), [A\]\]](https://osu.ppy.sh/users/4959454), [Mayuri](https://osu.ppy.sh/users/18688473), [Tabletti](https://osu.ppy.sh/users/9523661) |
 | ::{ flag=FR }:: | **France** | **[Musty](https://osu.ppy.sh/users/251683)** |
 | ::{ flag=GE }:: | **Georgia** | **[DarkFTW](https://osu.ppy.sh/users/14350221)** |
 | ::{ flag=DE }:: | **Germany** | **[criller](https://osu.ppy.sh/users/8116659)** |
@@ -94,7 +94,7 @@ The osu! World Cup 2024 is run by the [osu! team](/wiki/People/osu!_team) and va
 | ::{ flag=JP }:: | **Japan** | **[Sabakan-](https://osu.ppy.sh/users/12941954)** |
 | ::{ flag=KZ }:: | **Kazakhstan** | **[Kamensh1k](https://osu.ppy.sh/users/16817965)** |
 | ::{ flag=LV }:: | **Latvia** | **[waywern2012](https://osu.ppy.sh/users/5870453)** |
-| ::{ flag=LT }:: | **Lithuania** | **[fybeth](https://osu.ppy.sh/users/7225339)** |
+| ::{ flag=LT }:: | **Lithuania** | **[fybeth](https://osu.ppy.sh/users/7225339)**, [Furudo Erika](https://osu.ppy.sh/users/16329318), [ganjanov](https://osu.ppy.sh/users/11584075), [Hera\_](https://osu.ppy.sh/users/8766780), [Nitram](https://osu.ppy.sh/users/10569535), [Simaskrc](https://osu.ppy.sh/users/10290012), [Edviskrc](https://osu.ppy.sh/users/4460587), [CamperLt](https://osu.ppy.sh/users/4582149) |
 | ::{ flag=MO }:: | **Macau** | **[Chino-](https://osu.ppy.sh/users/16117538)** |
 | ::{ flag=MY }:: | **Malaysia** | **[Chiyuu](https://osu.ppy.sh/users/8226107)** |
 | ::{ flag=MX }:: | **Mexico** | **[-Wolfy-](https://osu.ppy.sh/users/4497582)** |
@@ -102,7 +102,7 @@ The osu! World Cup 2024 is run by the [osu! team](/wiki/People/osu!_team) and va
 | ::{ flag=NL }:: | **Netherlands** | **[Lilily](https://osu.ppy.sh/users/6502403)** |
 | ::{ flag=NZ }:: | **New Zealand** | **[2oomer](https://osu.ppy.sh/users/11141578)** |
 | ::{ flag=NO }:: | **Norway** | **[YokesPai](https://osu.ppy.sh/users/6399568)** |
-| ::{ flag=PA }:: | **Panama** | **[AR9](https://osu.ppy.sh/users/5136821)** |
+| ::{ flag=PA }:: | **Panama** | **[AR9](https://osu.ppy.sh/users/5136821)**, [Leonard H](https://osu.ppy.sh/users/11562243), [Sirny](https://osu.ppy.sh/users/18962732), [ne0craft](https://osu.ppy.sh/users/17545095), [Reflectioned](https://osu.ppy.sh/users/18847055), [FRX](https://osu.ppy.sh/users/13305560) |
 | ::{ flag=PE }:: | **Peru** | **[\[MG\]Arnold24x24](https://osu.ppy.sh/users/2291265)** |
 | ::{ flag=PH }:: | **Philippines** | **[zonelouise](https://osu.ppy.sh/users/1492995)** |
 | ::{ flag=PL }:: | **Poland** | **[Rafis](https://osu.ppy.sh/users/2558286)** |
@@ -120,14 +120,14 @@ The osu! World Cup 2024 is run by the [osu! team](/wiki/People/osu!_team) and va
 | ::{ flag=TW }:: | **Taiwan** | **[willy0214](https://osu.ppy.sh/users/8660293)** |
 | ::{ flag=TH }:: | **Thailand** | **[Lesperry](https://osu.ppy.sh/users/18092331)** |
 | ::{ flag=TR }:: | **Turkey** | **[Raikouhou](https://osu.ppy.sh/users/8007528)** |
-| ::{ flag=UA }:: | **Ukraine** | **[SHADOW FREAK](https://osu.ppy.sh/users/7587763)** |
+| ::{ flag=UA }:: | **Ukraine** | **[SHADOW FREAK](https://osu.ppy.sh/users/7587763)**, [HP DeskJet 3835](https://osu.ppy.sh/users/16139008), [POMAH](https://osu.ppy.sh/users/11794209), [RafGPio](https://osu.ppy.sh/users/13705417), [Kryterion](https://osu.ppy.sh/users/9920144), [KING GG](https://osu.ppy.sh/users/9820878), [CRIMEA](https://osu.ppy.sh/users/11078815), [KirbyTwister](https://osu.ppy.sh/users/7979597) |
 | ::{ flag=AE }:: | **United Arab Emirates** | **[Ailes Grises](https://osu.ppy.sh/users/10916561)** |
 | ::{ flag=GB }:: | **United Kingdom** | **[Bubbleman](https://osu.ppy.sh/users/5182050)** |
 | ::{ flag=US }:: | **United States** | **[tekkito](https://osu.ppy.sh/users/7075211)** |
 | ::{ flag=UY }:: | **Uruguay** | **[Rebo](https://osu.ppy.sh/users/6942259)** |
 | ::{ flag=VN }:: | **Vietnam** | **[realshin](https://osu.ppy.sh/users/8006029)** |
 
-Captains are listed in **bold**. Individual team compositions subject to change until **Sunday, October 20 10:00 UTC**. This list was last updated on **October 10**.
+Captains are listed in **bold**. Individual team compositions subject to change until **Sunday, October 20 10:00 UTC**. This list was last updated on **October 15**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/8384063b39b9991421fec24df0e04ceb).
 
