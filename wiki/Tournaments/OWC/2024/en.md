@@ -15,7 +15,7 @@ The **osu! World Cup 2024** (***OWC 2024***) is a country-based osu! tournament 
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2024-09-26 (13:00 UTC)/2024-10-10 (23:59 UTC) |
-| Qualifier showcase | 2024-10-20 (14:00 UTC) |
+| Qualifier showcase | 2024-10-20 (18:00 UTC) |
 | Qualifier stage | 2024-10-26/2024-10-27 |
 | Round of 32 | 2024-11-02/2024-11-03 |
 | Round of 16 | 2024-11-09/2024-11-10 |
@@ -52,9 +52,83 @@ The osu! World Cup 2024 is run by the [osu! team](/wiki/People/osu!_team) and va
 
 ## Links
 
-- **[Sign up here](https://osu.ppy.sh/community/tournaments/47)**
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1982268)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1982268)
+- [Tournament listing](https://osu.ppy.sh/community/tournaments/47)
+
+## Participants
+
+|  | Country | Members |
+| :-: | :-: | :-- |
+| ::{ flag=AR }:: | **Argentina** | **[Bomilk](https://osu.ppy.sh/users/7081596)** |
+| ::{ flag=AU }:: | **Australia** | **[ASecretBox](https://osu.ppy.sh/users/7341183)** |
+| ::{ flag=AT }:: | **Austria** | **[fedoragoose](https://osu.ppy.sh/users/2323131)** |
+| ::{ flag=BY }:: | **Belarus** | **[KortezR](https://osu.ppy.sh/users/6433474)** |
+| ::{ flag=BE }:: | **Belgium** | **[Hanori](https://osu.ppy.sh/users/7078544)** |
+| ::{ flag=BA }:: | **Bosnia and Herzegovina** | **[dax420](https://osu.ppy.sh/users/14658906)** |
+| ::{ flag=BR }:: | **Brazil** | **[Coreanmaluco](https://osu.ppy.sh/users/3149577)** |
+| ::{ flag=BG }:: | **Bulgaria** | **[hlanden](https://osu.ppy.sh/users/4934554)** |
+| ::{ flag=KH }:: | **Cambodia** | **[Sambath](https://osu.ppy.sh/users/6511038)** |
+| ::{ flag=CA }:: | **Canada** | **[Zylice](https://osu.ppy.sh/users/5033077)** |
+| ::{ flag=CL }:: | **Chile** | **[suntanCTM](https://osu.ppy.sh/users/19998548)** |
+| ::{ flag=CN }:: | **China** | **[lolol235](https://osu.ppy.sh/users/6090175)** |
+| ::{ flag=CO }:: | **Colombia** | **[Carlosflow](https://osu.ppy.sh/users/11940767)** |
+| ::{ flag=HR }:: | **Croatia** | **[KarliXon](https://osu.ppy.sh/users/9283403)** |
+| ::{ flag=CZ }:: | **Czechia** | **[Sigmund Fraud](https://osu.ppy.sh/users/3198446)** |
+| ::{ flag=DK }:: | **Denmark** | **[Polle](https://osu.ppy.sh/users/13218204)** |
+| ::{ flag=DO }:: | **Dominican Republic** | **[Gorrino](https://osu.ppy.sh/users/22782807)** |
+| ::{ flag=EE }:: | **Estonia** | **[Ancenthe](https://osu.ppy.sh/users/4479041)** |
+| ::{ flag=FI }:: | **Finland** | **[shdewz](https://osu.ppy.sh/users/10000899)** |
+| ::{ flag=FR }:: | **France** | **[Musty](https://osu.ppy.sh/users/251683)** |
+| ::{ flag=GE }:: | **Georgia** | **[DarkFTW](https://osu.ppy.sh/users/14350221)** |
+| ::{ flag=DE }:: | **Germany** | **[criller](https://osu.ppy.sh/users/8116659)** |
+| ::{ flag=GR }:: | **Greece** | **[JackPaX](https://osu.ppy.sh/users/11226645)** |
+| ::{ flag=HK }:: | **Hong Kong** | **[shion](https://osu.ppy.sh/users/10829419)** |
+| ::{ flag=HU }:: | **Hungary** | **[defii](https://osu.ppy.sh/users/8698024)** |
+| ::{ flag=IN }:: | **India** | **[\_Cyan](https://osu.ppy.sh/users/10250612)** |
+| ::{ flag=ID }:: | **Indonesia** | **[Skydiver](https://osu.ppy.sh/users/4750008)** |
+| ::{ flag=IE }:: | **Ireland** | **[M a t t y](https://osu.ppy.sh/users/3737136)** |
+| ::{ flag=IL }:: | **Israel** | **[MrPotato](https://osu.ppy.sh/users/2787415)** |
+| ::{ flag=IT }:: | **Italy** | **[Arge](https://osu.ppy.sh/users/11215030)** |
+| ::{ flag=JP }:: | **Japan** | **[Sabakan-](https://osu.ppy.sh/users/12941954)** |
+| ::{ flag=KZ }:: | **Kazakhstan** | **[Kamensh1k](https://osu.ppy.sh/users/16817965)** |
+| ::{ flag=LV }:: | **Latvia** | **[waywern2012](https://osu.ppy.sh/users/5870453)** |
+| ::{ flag=LT }:: | **Lithuania** | **[fybeth](https://osu.ppy.sh/users/7225339)** |
+| ::{ flag=MO }:: | **Macau** | **[Chino-](https://osu.ppy.sh/users/16117538)** |
+| ::{ flag=MY }:: | **Malaysia** | **[Chiyuu](https://osu.ppy.sh/users/8226107)** |
+| ::{ flag=MX }:: | **Mexico** | **[-Wolfy-](https://osu.ppy.sh/users/4497582)** |
+| ::{ flag=MN }:: | **Mongolia** | **[seegii](https://osu.ppy.sh/users/4659319)** |
+| ::{ flag=NL }:: | **Netherlands** | **[Lilily](https://osu.ppy.sh/users/6502403)** |
+| ::{ flag=NZ }:: | **New Zealand** | **[2oomer](https://osu.ppy.sh/users/11141578)** |
+| ::{ flag=NO }:: | **Norway** | **[YokesPai](https://osu.ppy.sh/users/6399568)** |
+| ::{ flag=PA }:: | **Panama** | **[AR9](https://osu.ppy.sh/users/5136821)** |
+| ::{ flag=PE }:: | **Peru** | **[\[MG\]Arnold24x24](https://osu.ppy.sh/users/2291265)** |
+| ::{ flag=PH }:: | **Philippines** | **[zonelouise](https://osu.ppy.sh/users/1492995)** |
+| ::{ flag=PL }:: | **Poland** | **[Rafis](https://osu.ppy.sh/users/2558286)** |
+| ::{ flag=PT }:: | **Portugal** | **[Just2Gud](https://osu.ppy.sh/users/4430263)** |
+| ::{ flag=RO }:: | **Romania** | **[roliy](https://osu.ppy.sh/users/9578404)** |
+| ::{ flag=RU }:: | **Russian Federation** | **[gamer228666](https://osu.ppy.sh/users/5981005)** |
+| ::{ flag=RS }:: | **Serbia** | **[-Petar](https://osu.ppy.sh/users/9106690)** |
+| ::{ flag=SG }:: | **Singapore** | **[Tebi](https://osu.ppy.sh/users/5407620)** |
+| ::{ flag=SK }:: | **Slovakia** | **[-YoYo-](https://osu.ppy.sh/users/6158076)** |
+| ::{ flag=SI }:: | **Slovenia** | **[Sirek](https://osu.ppy.sh/users/14666725)** |
+| ::{ flag=KR }:: | **South Korea** | **[FlyingTuna](https://osu.ppy.sh/users/9224078)** |
+| ::{ flag=ES }:: | **Spain** | **[M A N O L O](https://osu.ppy.sh/users/12296128)** |
+| ::{ flag=SE }:: | **Sweden** | **[scylla](https://osu.ppy.sh/users/9405745)** |
+| ::{ flag=CH }:: | **Switzerland** | **[-Spartan](https://osu.ppy.sh/users/5783061)** |
+| ::{ flag=TW }:: | **Taiwan** | **[willy0214](https://osu.ppy.sh/users/8660293)** |
+| ::{ flag=TH }:: | **Thailand** | **[Lesperry](https://osu.ppy.sh/users/18092331)** |
+| ::{ flag=TR }:: | **Turkey** | **[Raikouhou](https://osu.ppy.sh/users/8007528)** |
+| ::{ flag=UA }:: | **Ukraine** | **[SHADOW FREAK](https://osu.ppy.sh/users/7587763)** |
+| ::{ flag=AE }:: | **United Arab Emirates** | **[Ailes Grises](https://osu.ppy.sh/users/10916561)** |
+| ::{ flag=GB }:: | **United Kingdom** | **[Bubbleman](https://osu.ppy.sh/users/5182050)** |
+| ::{ flag=US }:: | **United States** | **[tekkito](https://osu.ppy.sh/users/7075211)** |
+| ::{ flag=UY }:: | **Uruguay** | **[Rebo](https://osu.ppy.sh/users/6942259)** |
+| ::{ flag=VN }:: | **Vietnam** | **[realshin](https://osu.ppy.sh/users/8006029)** |
+
+Captains are listed in **bold**. Individual team compositions subject to change until **Sunday, October 20 10:00 UTC**. This list was last updated on **October 10**.
+
+The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/8384063b39b9991421fec24df0e04ceb).
 
 ## Ruleset
 
@@ -112,7 +186,7 @@ The osu! World Cup 2024 is run by the [osu! team](/wiki/People/osu!_team) and va
    - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms.
    - Captains are allowed, at any time, to transfer their role to other prospective team members. Once given, only the new captain may assign the captaincy to another player.
    - Users responsible for organising their country's tryouts are encouraged to contact [LeoFLT](https://osu.ppy.sh/users/3668779) to be elected as provisional captains for their team. 
-   - **Teams that do not not send their team list by October 18, 23:59 UTC will be disqualified from the competition.**
+   - **Teams that do not not send their team list by October 20, 10:00 UTC will be disqualified from the competition.**
 3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
    - Every registered user will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, players are required to be placed #10,000 or higher on the osu! global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
