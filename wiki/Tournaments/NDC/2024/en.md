@@ -126,6 +126,36 @@ The National Dutch Championship 2024 is run by various community members.
 
 ## Mappools
 
+### Grand Finals
+
+**[Download the mappack here!](https://tourney.huismetbenen.nl/25/mappools/gf)**
+
+- Nomod
+  1. [t+pazolite - Bad Boy's missa (DoKito) [DoKo]](https://osu.ppy.sh/beatmaps/408820#osu/887621)
+  2. [Bal-Sagoth - Shackled To The Trilithon Of Kutulu (Mazzerin) [Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn - Original]](https://osu.ppy.sh/beatmaps/1312054#osu/2719283)
+  3. [Seastar - Made out of Fire (Mijn Aim Zuigt) [The flame that burns]](https://osu.ppy.sh/beatmaps/2261386#osu/4813193)
+  4. [Silentroom - Nhelv (Halgoh) [Disruption of Ataraxia]](https://osu.ppy.sh/beatmaps/2049001#osu/4278109)
+  5. [Vaenus - Lazorbeamz (fnql) [Beamed]](https://osu.ppy.sh/beatmaps/1973894#osu/4096455)
+  6. [Cansol - Train of Thought (Mouse_) [Derailment]](https://osu.ppy.sh/beatmaps/2171475#osu/4586623)
+  7. [METAROOM - SPIKEY BOI (JeZag) [MUSH (THE FINALE)]](https://osu.ppy.sh/beatmaps/1888434#osu/3889200)
+- Hidden
+  1. [paraoka feat. haru*nya - Tyranny (melon boy) [KACHOW]](https://osu.ppy.sh/beatmaps/1976812#osu/4103526)
+  2. [Dark PHOENiX - Shoujo ga Mita Nihon no Genfuukei (iljaaz) [Phantasm]](https://osu.ppy.sh/beatmaps/1889104#osu/3890682)
+  3. [Takahashi Yoko - Zankoku na Tenshi no These (aishiteiru-) [EvilNekit's climbed into a fucking robot]](https://osu.ppy.sh/beatmaps/2196064#osu/4646927)
+  4. [seatrus - Querasis (Realazy) [Polaris]](https://osu.ppy.sh/beatmaps/1850936#osu/3802335)
+- Hard Rock
+  1. [bbno$ & Rich Brian - edamame (Nijika Ijichi) [low-hanging fruit]](https://osu.ppy.sh/beatmaps/1589180#osu/4009923)
+  2. [Michael Jackson - Smooth Criminal (ConsumerOfLean) [Crescendo]](https://osu.ppy.sh/beatmaps/1297771#osu/2692157)
+  3. [BilliumMoto - Stained Satin (CMeFly) [Heart of the Cards]](https://osu.ppy.sh/beatmaps/2261255#osu/4812849)
+  4. [Halozy - Genryuu Kaiko (Hollow Wings) [Higan Torrent]](https://osu.ppy.sh/beatmaps/180138#osu/433005)
+- Double Time
+  1. [YUKIYANAGI - Thousand Lights (ZcortezZ) [Forgive me]](https://osu.ppy.sh/beatmaps/1107784#osu/2315263)
+  2. [dj TAKA - True Blue (Monstrata) [Halcyon]](https://osu.ppy.sh/beatmaps/418922#osu/907479)
+  3. [goreshit - o'er the flood (grumd) [The Flood Beneath]](https://osu.ppy.sh/beatmaps/51972#osu/181253)
+  4. [Warak - Slow Motion (feat. DongGeyoung) (NeonLights) [DeviousPanda's Expert]](https://osu.ppy.sh/beatmaps/1014716#osu/2155904)
+- Tiebreaker
+  1. **[Kou! - ZiWEiYUAN (taku) [The Majestic Celestial Formation of the Emperor's Realm]](https://osu.ppy.sh/beatmaps/2258496#osu/4805902)**
+
 ### Finals
 
 **[Download the mappack here!](https://tourney.huismetbenen.nl/25/mappools/f)**
@@ -276,6 +306,36 @@ The National Dutch Championship 2024 is run by various community members.
   2. [frederic - Junkie (elicz1) [XLT's Insane]](https://osu.ppy.sh/beatmapsets/2078299#osu/4387718)
 
 ## Match results
+
+### Grand Finals
+
+Sunday, 13 October 2024:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Aheo** ::{ flag=NL }:: | **7** | 2 | ::{ flag=NL }:: chillington 15 | [#1](https://osu.ppy.sh/community/matches/115841978) |
+
+Saturday, 12 October 2024:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| LUCIANO ::{ flag=NL }:: | 5 | **7** | ::{ flag=NL }:: **chillington 15** | [#1](https://osu.ppy.sh/community/matches/115823278) |
+
+### Finals
+
+Sunday, 6 October 2024:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **chillington 15** ::{ flag=NL }:: | **7** | 1 | ::{ flag=NL }:: Dolter | [#1](https://osu.ppy.sh/community/matches/115759887) |
+| **Dolter** ::{ flag=NL }:: | **7** | 3 | ::{ flag=NL }:: PotjeNutella | [#1](https://osu.ppy.sh/community/matches/115758897) |
+| **chillington 15** ::{ flag=NL }:: | **7** | 1 | ::{ flag=NL }:: Katie Djeestar | [#1](https://osu.ppy.sh/community/matches/115757960) |
+
+Saturday, 5 October 2024:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Aheo** ::{ flag=NL }:: | **7** | 1 | ::{ flag=NL }:: LUCIANO | [#1](https://osu.ppy.sh/community/matches/115745022) |
 
 ### Semifinals
 
