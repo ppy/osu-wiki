@@ -130,7 +130,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=NL }:: [chillington 15](https://osu.ppy.sh/users/6744123) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=NL }:: [LUCIANO](https://osu.ppy.sh/users/11604978) |
 
-![](img/podium.png "NDC 2024 podium")
+![](img/podium.jpg "NDC 2024 podium")
 
 ## Mappools
 
