@@ -34,7 +34,7 @@ Securing a 6th victory (and an 8th podium finish) for this contest, [**KAITO thi
 
 [![](https://assets.ppy.sh/contests/221/banners/tehfire.png)](https://assets.ppy.sh/contests/221/winners/tehfire.png)
 
-[**tehfire**](https://osu.ppy.sh/users/7082924) took the entire osu! cast are on a picnic. **987** observers were left wondering what kind of music was worth the shared experience between pippi and Mocha.
+[**tehfire**](https://osu.ppy.sh/users/7082924) took the entire osu! cast on a picnic. **987** observers were left wondering what kind of music was worth the shared experience between pippi and Mocha.
 
 [![](https://assets.ppy.sh/contests/221/banners/Triantafyllia.png)](https://assets.ppy.sh/contests/221/winners/Triantafyllia.png)
 
