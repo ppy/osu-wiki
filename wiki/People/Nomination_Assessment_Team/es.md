@@ -185,7 +185,7 @@ Los siguientes miembros del NAT son exclusivamente responsables de las tareas es
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Manejo de discusiones internas, asuntos y documentación |
 | ::{ flag=GB }:: [moonpoint](https://osu.ppy.sh/users/9558549) | Desarrollo de herramientas internas |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Mantenimiento de [Aiess](https://github.com/Naxesss/Aiess) y [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) |
-| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Mantenimiento de los criterios de clasificación |
+| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | Mantenimiento de los criterios de clasificación |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Desarrollo del [sitio web de gestión de los BN](https://bn.mappersguild.com) |
 
 Los siguientes miembros del NAT son principalmente evaluadores, pero también contribuyen a tareas estructurales:
