@@ -35,10 +35,11 @@ The **National Dutch Championship 2024** (***NDC 2024***) was a 1v1, double elim
 | *7th & 8th place* | €32,- |
 
 The prizepool was sponsored by both the organisation and community members:
-* ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403): €750,-
-* ::{ flag=NL }:: [heyronii](https://osu.ppy.sh/users/5642779): €500,-
-* ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619): €250,-
-* ::{ flag=NL }:: [Katie Djeestar](https://osu.ppy.sh/users/641155): €100,-
+
+- ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403): €750,-
+- ::{ flag=NL }:: [heyronii](https://osu.ppy.sh/users/5642779): €500,-
+- ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619): €250,-
+- ::{ flag=NL }:: [Katie Djeestar](https://osu.ppy.sh/users/641155): €100,-
 
 ![](img/badge.jpg "NDC 2024 winner badge")
 
@@ -375,9 +376,9 @@ Sunday, 22 September 2024:
 | **LUCIANO** ::{ flag=NL }:: | **6** | 0 | ::{ flag=NL }:: Heavymetal4life | [#1](https://osu.ppy.sh/community/matches/115597178) |
 | wessel_osu2 ::{ flag=NL }:: | 3 | **6** | ::{ flag=NL }:: **Dolter** | [#1](https://osu.ppy.sh/community/matches/115595419) |
 | FietsAapje ::{ flag=NL }:: | 1 | **6** | ::{ flag=NL }:: **chillington 15** | [#1](https://osu.ppy.sh/community/matches/115595425) |
-| **Nederland** ::{ flag=NL }:: | **6** | 1 | ::{ flag=NL }:: Goose King | [#1](https://osu.ppy.sh/mp/115593764) |
-| **PotjeNutella** ::{ flag=NL }:: | **6** | 4 | ::{ flag=NL }:: TheCoolJfp | [#1](https://osu.ppy.sh/mp/115592067) |
-| **Aheo** ::{ flag=NL }:: | **6** | 0 | ::{ flag=NL }:: Katie Djeestar | [#1](https://osu.ppy.sh/mp/115591193) |
+| **Nederland** ::{ flag=NL }:: | **6** | 1 | ::{ flag=NL }:: Goose King | [#1](https://osu.ppy.sh/community/matches/115593764) |
+| **PotjeNutella** ::{ flag=NL }:: | **6** | 4 | ::{ flag=NL }:: TheCoolJfp | [#1](https://osu.ppy.sh/community/matches/115592067) |
+| **Aheo** ::{ flag=NL }:: | **6** | 0 | ::{ flag=NL }:: Katie Djeestar | [#1](https://osu.ppy.sh/community/matches/115591193) |
 
 Saturday, 21 September 2024:
 
