@@ -85,7 +85,7 @@ tags:
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | 论坛管理员 |
 | ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  | 聊天管理员，作图摸图社群管理员，全局管理员 |
 | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | 荷兰语，一部分德语 | 全局管理员 |
-| ::{ flag=CA }:: [Aurele](https://osu.ppy.sh/users/654108) | 法语 | 聊天管理员, 论坛管理员, 作图摸图社群管理员 |
+| ::{ flag=CA }:: [Aurele](https://osu.ppy.sh/users/654108) | 法语 | 聊天管理员，论坛管理员，作图摸图社群管理员 |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | 锦标赛管理员[^task-Azer] |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | 汉语，马来语 | 聊天管理员 |
 | ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  | 聊天管理员，论坛管理员 |
@@ -167,7 +167,7 @@ tags:
 | `#english` |  | *全局管理员* |
 | `#filipino` | [Tagalog](https://osu.ppy.sh/community/forums/76) | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078), ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) |
 | `#finnish` | [Suomi](https://osu.ppy.sh/community/forums/24) | ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507),  ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731),  ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) |
-| `#french` | [Français](https://osu.ppy.sh/community/forums/34) | ::{ flag=CA }:: [Aurele](https://osu.ppy.sh/users/654108), { flag=FR }:: [Ganondorf](https://osu.ppy.sh/users/10660738), ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837), ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981), ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) |
+| `#french` | [Français](https://osu.ppy.sh/community/forums/34) | ::{ flag=CA }:: [Aurele](https://osu.ppy.sh/users/654108), ::{ flag=FR }:: [Ganondorf](https://osu.ppy.sh/users/10660738), ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837), ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981), ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) |
 | `#german` | [Deutsch](https://osu.ppy.sh/community/forums/37) | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985), ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253), ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) |
 | `#greek` |  |  |
 | `#hebrew` |  |  |
