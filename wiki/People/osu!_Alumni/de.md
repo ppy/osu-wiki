@@ -106,6 +106,7 @@ Die [osu! Alumni Gruppenseite](https://osu.ppy.sh/groups/16) listet alle Mitglie
 | ::{ flag=MY }:: [HeatKai](https://osu.ppy.sh/users/332555) | BAT, Chat-Moderator |
 | ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | GMT |
 | ::{ flag=US }:: [Hitoshirenu Shourai](https://osu.ppy.sh/users/602) | BAT |
+| ::{ flag=US }:: [Hugged](https://osu.ppy.sh/users/12589220) | NAT |
 | ::{ flag=GB }:: [hypercyte](https://osu.ppy.sh/users/9155377) | NAT |
 | ::{ flag=HK }:: [IamKwaN](https://osu.ppy.sh/users/1856463) | BAT, Chat-Moderator, GMT, QAT |
 | ::{ flag=RU }:: [IceBeam](https://osu.ppy.sh/users/208440) | BAT |
@@ -203,7 +204,6 @@ Die [osu! Alumni Gruppenseite](https://osu.ppy.sh/groups/16) listet alle Mitglie
 | ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341) | GMT |
 | ::{ flag=CN }:: [popner](https://osu.ppy.sh/users/759860) | BAT |
 | ::{ flag=MY }:: [PROGUY](https://osu.ppy.sh/users/528181) | QAT |
-| ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) | QAT, GMT |
 | ::{ flag=SE }:: [PuffBuck](https://osu.ppy.sh/users/4234525) | Verwaltung von Turnieren |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | NAT |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | NAT |
