@@ -52,7 +52,7 @@ osu! 월드컵 2024는 [osu! 팀](/wiki/People/osu!_team)과 여러 명의 커�
 
 ## 링크
 
-- **[Information spreadsheet](https://docs.google.com/spreadsheets/d/1r6atZf2Qbeg8s0Uq_K3z5MNBM-BMMC7hYYJ0cz065Ng)**
+- **[정보 스프레드시트](https://docs.google.com/spreadsheets/d/1r6atZf2Qbeg8s0Uq_K3z5MNBM-BMMC7hYYJ0cz065Ng)**
 - [실시간 방송](https://www.twitch.tv/osulive)
 - [논의 스레드](https://osu.ppy.sh/community/forums/topics/1982268)
 - [토너먼트 목록](https://osu.ppy.sh/community/tournaments/47)
