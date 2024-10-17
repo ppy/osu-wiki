@@ -45,7 +45,7 @@ Put another way, missing in long beatmaps with a single "difficulty spike" will 
 
 ### Rhythm complexity improvements
 
-Rhythm complexity can be expressed as "changes in pattern lengths and timings" — quintuplets changing into triples, even bursts into odd bursts, 1/4 streams into 1/3 streams, etc. More erratic changes imply a more complex rhythm, making it harder for players to adapt and recognise the rhythm they should tap to.
+Rhythm complexity can be expressed as "changes in pattern lengths and timings" — quintuples changing into triples, even bursts into odd bursts, 1/4 streams into 1/3 streams, etc. More erratic changes imply a more complex rhythm, making it harder for players to adapt and recognise the rhythm they should tap to.
 
 A [change](https://github.com/ppy/osu/pull/28871) proposed by [StanR](https://osu.ppy.sh/users/7217455) fixes some flaws in osu!'s rhythm complexity calculations:
 
