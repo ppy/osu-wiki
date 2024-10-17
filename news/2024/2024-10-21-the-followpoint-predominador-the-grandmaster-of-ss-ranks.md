@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Followpoint: Predominador, the Grandmaster of SS-ranks"
+title: "The Followpoint: Predominador, the Grandmaster of SS ranks"
 date: 2024-10-21 19:00:00 +0000
 series: The Followpoint
 ---
@@ -165,9 +165,9 @@ Is there any advice that you would give to other players who want to reach some 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4568537">Predominador</a></p>
 
-First of all, taking SS-ranks as an example, I strongly recommend for you to set your goal, but only think about your next 1000, at most (as I mentioned I did before). Why is this important? Personally I think it's important for you to divide your big goal into small sections. That will make it look much more realistic, while focusing in what's your next steps. Also, constantly thinking about your final goal will only make you think how much you still have to do, and that can potentially more make you unmotivated than anything else. So, avoid it and focus in what's coming next.
+First of all, taking SS ranks as an example, I strongly recommend for you to set your goal, but only think about your next 1000, at most (as I mentioned I did before). Why is this important? Personally I think it's important for you to divide your big goal into small sections. That will make it look much more realistic, while focusing in what's your next steps. Also, constantly thinking about your final goal will only make you think how much you still have to do, and that can potentially more make you unmotivated than anything else. So, avoid it and focus in what's coming next.
 
-Still taking SS-ranks as an example again, the main thing to remember is that if you're going to high quantities like 50k or 100k SS, you will need to play A LOT of long maps. It's better to have that in mind since beginning, because if you only keep playing short maps, later you'll end up having only long maps, and just having long maps to play is quite overwhelming, especially because you'll see your progress going slow. It'd say the same for easy and hard maps, for sure it's much better if you have skill enough to play the hard ones, too.
+Still taking SS ranks as an example again, the main thing to remember is that if you're going to high quantities like 50k or 100k SS, you will need to play A LOT of long maps. It's better to have that in mind since beginning, because if you only keep playing short maps, later you'll end up having only long maps, and just having long maps to play is quite overwhelming, especially because you'll see your progress going slow. It'd say the same for easy and hard maps, for sure it's much better if you have skill enough to play the hard ones, too.
 
 If you're going for "lower quantities" (but that's still a lot) like classic 10,000 SS, you can forget anything I said in the paragraph above, and just play as short/easy maps as you can find. There is enough maps to do it, even though it will still take time.
 
