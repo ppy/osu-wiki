@@ -5,11 +5,11 @@ date: 2024-10-21 19:00:00 +0000
 series: The Followpoint
 ---
 
-Have you ever wondered what is going on inside a score farmer's head? Well, today is your chance to find out in our latest interview!
+Have you ever wondered what's going on inside a score farmer's head? Today's your chance to find out in our latest interview!
 
 ![](/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/banner.jpg)
 
-osu!catch players, rejoice, as we are releasing an interview with a figure many of you may know, [Predominador](https://osu.ppy.sh/users/4568537)! There are quite a few reasons you may have heard of them, from their [Beatmap Spotlights](/wiki/Beatmap_Spotlights) participation to reaching insane milestones, one of such being 100,000 SS ranks, which they achieved recently! And in this interview we can learn more about Predominador and their thoughts on some aspects of the game. 👀
+osu!catch players, rejoice, as we are releasing an interview with a figure you may know, [Predominador](https://osu.ppy.sh/users/4568537)! There are quite a few reasons you may have heard of them, from their [Beatmap Spotlights](/wiki/Beatmap_Spotlights) participation to reaching insane milestones, such as attaining 100,000 SS ranks, which they've achieved recently! Follow on to learn more about Predominador and their thoughts on some aspects of the game. 👀
 
 Now, let's get to reading!
 
@@ -83,7 +83,7 @@ Out of all game modes osu! has to offer, why did you choose osu!catch?
 
 I ended up getting closer to osu!catch than other modes because I started to have more contact with osu!catch players in the past than other game modes. Another reason might be because it felt more interesting to me to see myself (don't take it literal, it's the catcher, actually) "moving" in the screen and not clicking the notes in timing, or trying to aim (skill issue). It's a different feeling I have compared to other modes. I guess it feels like dancing to the beat XD. By the way, I don't dance IRL, I am SUPER shy...
 
-Anyways, even though I am playing mostly osu!catch currently, I already played quite a lot all other gamemodes too! Now I am playing them from time to time, but eventually I want to start playing them more often again. I'm interested in improving more in each one, not just as a general challenge, but also to have skill enough to try to get some mode-exclusive medals, hehe :p
+Anyways, even though I am playing mostly osu!catch currently, I already played quite a lot all other game modes too! Now I am playing them from time to time, but eventually I want to start playing them more often again. I'm interested in improving more in each one, not just as a general challenge, but also to have skill enough to try to get some mode-exclusive medals, hehe :p
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-MegaMix.jpg')"></a>
 
@@ -198,7 +198,7 @@ Following up on the previous question, what are your thoughts on the current sta
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4568537">Predominador</a></p>
 
 I think that the badges are really cool, it needs to be updated more frequently, though... but PERSONALLY, I feel titles are more cool in completionist cases. It's very very unique thing to do, and it just keeps getting harder and harder to complete the game, since there are maps getting ranked everyday!
-But related to that, same as what to happens in [this page](/wiki/People/Completionists), I feel it would be cool to have some page in the wiki that register players that grind other things and reach specific marks too, and when. As for example SS and Ranked Score, which are some of other things that many usually grind nowadays. Who already reached 50k SS in osu!catch and WHEN did they reach it? and in osu!? Taiko? osu!mania? I feel those things are important not only to keep history registered, but to all players that grinds other things also get recognized by their efforts too, which is usually understimated and underappreciated.
+But related to that, same as what to happens in [this page](/wiki/People/Completionists), I feel it would be cool to have some page in the wiki that register players that grind other things and reach specific marks too, and when. As for example SS and Ranked Score, which are some of other things that many usually grind nowadays. Who already reached 50k SS in osu!catch and WHEN did they reach it? and in osu!? osu!taiko? osu!mania? I feel those things are important not only to keep history registered, but to all players who grind other things also get recognized by their efforts too, which is usually underestimated and underappreciated.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-MegaMix.jpg')"></a>
 
@@ -242,12 +242,12 @@ What plays, be they yours or someone else's, do you find the most impressive? If
 
 ![](/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/oracion.jpg)
 
-Talking about Motion, amongst many of his recent scores, I'd like to mention [VINXIS - Sidetracked Day \[Deviated\] +HDDT](https://osu.ppy.sh/scores/fruits/218403624), and [Halozy - Genryuu Kaiko \[Distorted Scythe\] +HDDT](https://osu.ppy.sh/scores/3543844864). His catch control and reading skill is AMAZING. The fact he only did 1 droplet miss in both is really insane! I have no idea how this is even possible. He is for sure one of the greatest players of all time!
+Talking about Motion, amongst many of his recent scores, I'd like to mention [VINXIS - Sidetracked Day \[Deviated\] with HDDT](https://osu.ppy.sh/scores/fruits/218403624), and [Halozy - Genryuu Kaiko \[Distorted Scythe\] with HDDT](https://osu.ppy.sh/scores/3543844864). His catch control and reading skill is AMAZING. The fact he only did 1 droplet miss in both is really insane! I have no idea how this is even possible. He is for sure one of the greatest players of all time!
 
 ![](/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/sidetracked_day.jpg)
 ![](/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/genryuu_kaiko.jpg)
 
-I also want to mention a score from osu!std, which is [Within Temptation - The Unforgiving \[Marathon\] with FL](https://osu.ppy.sh/scores/osu/3549163348), done by [-GN](https://osu.ppy.sh/users/895581). A 53 minutes map with FL, in a map that is already challenging by itself without any mods. I even have no words to say how impressive this is! Dedication and patience are the words. Never ever give up.
+I also want to mention a score from the osu! game mode, which is [Within Temptation - The Unforgiving \[Marathon\] with FL](https://osu.ppy.sh/scores/osu/3549163348), done by [-GN](https://osu.ppy.sh/users/895581). A 53-minute map that is already challenging by itself without any mods, let alone with FL. I even have no words to say how impressive this is! Dedication and patience are the words. Never ever give up.
 
 ![](/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/the_unforgiving.jpg)
 
@@ -275,7 +275,7 @@ If you could choose any osu! player, who would you want to meet IRL the most, an
 
 Wow, I'll be honest that this question is the hardest one for me! I am very shy, so I never thought so much about this. I could mention any of the close friends I have, but that would be way too easy (or too hard, because other friends not mentioned could get sad '-'). 
 
-Anyways, I feel there are many players that would be interesting to meet IRL, I think it one obvious one would be ExGon, because I really admire him and is by far my biggest inspiration to this day! A less obvious one that I'd like to meet one day (and maybe a unexpected one, since he's not from osu!catch world) is [BTMC](https://osu.ppy.sh/users/3171691), since from time to time I enjoy watching his livestreams and YouTube videos and he's a great std player. He seems to be really fun! But in both cases, I would barely have the courage to even ask for a photo...
+Anyways, I feel there are many players that would be interesting to meet IRL, I think it one obvious one would be ExGon, because I really admire him and is by far my biggest inspiration to this day! A less obvious one that I'd like to meet one day (and maybe a unexpected one, since he's not from osu!catch world) is [BTMC](https://osu.ppy.sh/users/3171691), since from time to time I enjoy watching his livestreams and YouTube videos and he's a great osu! player. He seems to be really fun! But in both cases, I would barely have the courage to even ask for a photo...
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-MegaMix.jpg')"></a>
 
@@ -288,7 +288,7 @@ Are you planning on setting new achievements in the future, and if so, what woul
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4568537">Predominador</a></p>
 
 For now, I have 2 concrete plans: to reach 101k SS, because it means reach 100k SS Silver; and to reach 1 Trillion ranked score, which is actually something I never did grind directly, it just happened to me gaining a lot due consequences of SS farming... but I think it'd be cool to reach 1 trillion (for now just syu did it), and I am already close to do both, actually. However, for now, I am prioritizing rest.
-After that, I will probably return to try to get some medals I still don't have, osu!catch exclusive maps completionist, and also improve my skill not only in osu!catch, but other gamemodes too. Other specific goals I will think more about in the future!
+After that, I will probably return to try to get some medals I still don't have, osu!catch exclusive maps completionist, and also improve my skill not only in osu!catch, but other game modes too. Other specific goals I will think more about in the future!
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-MegaMix.jpg')"></a>
 
@@ -312,7 +312,7 @@ And thanks for the opportunity to be interviewed on The Followpoint, it was real
 
 ---
 
-I would like to say thanks to Predominador for agreeing to this interview and their thoughtful answers! And of course thank you so much to every one of you who support this series, it means the world to us!
+Many thanks to Predominador for agreeing to this interview and their thoughtful answers! And of course, thank you so much to every one of you who support this series, it means the world to us!
 
 Please look forward to a new, ***very special interview*** coming out in the next three weeks, and make sure to keep an eye on the news feed! You may also follow [@The_Followpoint on Twitter](https://twitter.com/The_Followpoint) to see more updates and question submissions for future interviews.
 
