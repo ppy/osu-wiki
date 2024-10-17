@@ -60,18 +60,6 @@ Hello! I am Predominador, from Brazil. I am a SS farmer in osu!catch, who recent
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
-How did you come up with your username, is there any story or meaning behind it?
-
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-Predominador.jpg')"></a>
-
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4568537">Predominador</a></p>
-
-This username kinda came up randomly in childhood when trying to think about usernames to use in games I used to play! There's actually no special meaning behind it (even though it's literally a word in Portuguese). I even tried to think in a more "original" name before, but no success. But, at least in osu!, I don't really think in changing my username anymore, because I get used to people calling me by Predominador, or shorter versions like Predo, or even Pedro, which is not even my real name (secret)!
-
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-MegaMix.jpg')"></a>
-
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
-
 How did you learn about osu! and was your first impression of it?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-Predominador.jpg')"></a>
@@ -133,6 +121,30 @@ To not make it too long, I basically tried to prioritize longer and harder maps 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
+While grinding for SS ranks, did you have any struggles, and how did you manage overcome them?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-Predominador.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4568537">Predominador</a></p>
+
+For sure yeah. There were many days that I was either not really motivated, or feeling tired. As I mentioned before, one main thing I did was to save those easier/shorter maps to days I feel not grinding much. There were many days that was really tough, even doing this little "strategy". So, in this case, I just tried to stick to some minimum quantity I should get in the day, to guarantee some progress. In the past, it used to be 25 SS, but at some point in this year I increased it to 50 SS or even higher when I was reaching the goal. Of course, there were days that I couldn't even get the minimum, but I just accepted that and tried to compensate in some other day I was feeling stronger to grind!
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-MegaMix.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
+
+Ok, and what about highlights? Did this journey have any standout moments that you'll always remember?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-Predominador.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4568537">Predominador</a></p>
+
+Hmm I feel there are many moments I could say, but let me think... when I reached 25,000, it's exactly when I started to REALLY believe I could reach 50k, since I was halfway through, so it's very memorable for me. And of course, when I was reaching 50,000 and 100,000 SS. When I was going for 50k, it was very tough, because I didn't really planned very well the final maps, and was needing to search for anything I could SS more easily. This made me get very exhausted in that day. Due that, for 100k SS I prepared much better, saving many short Normal diffs to play in the final 1000 SS, and that made the final section much faster and less exhaustive!
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-MegaMix.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
+
 How did you feel after finally reaching this goal? Did you maybe celebrate it in any particular way?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-Predominador.jpg')"></a>
@@ -142,6 +154,24 @@ How did you feel after finally reaching this goal? Did you maybe celebrate it in
 It was a mix of emotions, but I felt specially really relieved, because at that point I was postponing every other thing I wanted to do to avoid making it longer than it was already being (I also procrastinated a lot). Now I can continue watching Frieren \õ/ (for example)!
 
 About celebration, kinda. It didn't happen the way I planned, though. I was planning to reach it while livestreaming in a Discord call with some friends (and listening to them and chatting by text), which is something I even started to do, but the grind took longer than I expected. When I was getting closer, it was very late night already. And I didn't want to let it to the "next day" (it was already September 25th) because, fun fact, it was also my birthday (and this really wasn't planned, in my expectations I was supposed to reach it at most around day 10 of September)! So, even my friends said to finish it, then when I wake up again I could just rest and celebrate! They followed me in the most part of the journey, though. Not just in that day, some of them follow my progress since years, and I am very grateful for that :D
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-MegaMix.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
+
+Is there any advice that you would give to other players who want to reach some long-term goal, for example specific number of SS ranks, just like you?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/4568537" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-Predominador.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4568537">Predominador</a></p>
+
+First of all, taking SS-ranks as an example, I strongly recommend for you to set your goal, but only think about your next 1000, at most (as I mentioned I did before). Why is this important? Personally I think it's important for you to divide your big goal into small sections. That will make it look much more realistic, while focusing in what's your next steps. Also, constantly thinking about your final goal will only make you think how much you still have to do, and that can potentially more make you unmotivated than anything else. So, avoid it and focus in what's coming next.
+
+Still taking SS-ranks as an example again, the main thing to remember is that if you're going to high quantities like 50k or 100k SS, you will need to play A LOT of long maps. It's better to have that in mind since beginning, because if you only keep playing short maps, later you'll end up having only long maps, and just having long maps to play is quite overwhelming, especially because you'll see your progress going slow. It'd say the same for easy and hard maps, for sure it's much better if you have skill enough to play the hard ones, too.
+
+If you're going for "lower quantities" (but that's still a lot) like classic 10,000 SS, you can forget anything I said in the paragraph above, and just play as short/easy maps as you can find. There is enough maps to do it, even though it will still take time.
+
+But in any case, keep in mind that your "journey" through a long-term goal is really important, and will also take long time anyways. So make sure to avoid stressing too often over it and, in case of osu!, to have as much fun as possible. I think the most important in long-term goals is to at least have a minimum discipline to keep making progress. Don't even need to set something to do literally everyday, it can be every 3 days, or every week. And, I am not gonna lie, I procrastinated A LOT, but I kept trying to do the minimum everyday, and still reached where I am. Constancy is the word.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-MegaMix.jpg')"></a>
 
