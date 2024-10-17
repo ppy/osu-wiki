@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Performance Points & Star Rating Updates
-date: 2024-09-17 12:00 +0000
+date: 2024-09-17 12:00:00 +0000
 ---
 
 The time for change is finally here!
@@ -10,20 +10,18 @@ The time for change is finally here!
 
 There are changes to all game modes this time around in an effort to improve the difficulty and performance calculations. This news post will discuss what has changed in a format that should be understandable to you, the player!
 
-If you find yourself scratching your head when reading, consider consulting the [performance points](/wiki/Performance_points) and [star rating](/wiki/Beatmapping/Star_rating) wiki articles to gain a greater understanding of the topics.
+If you find yourself scratching your head when reading, consider consulting the [performance points (pp)](/wiki/Performance_points) and [star rating (SR)](/wiki/Beatmapping/Star_rating) wiki articles to gain a greater understanding of the topics.
 
 ## Release schedule
 
 <!-- todo -->
 
----
-
 ## osu!
 
-All changes for osu! are covered in the osu!(lazer) update video, which you may be interested in watching:
+All changes for osu! are covered in the latest osu!(lazer) update video, which you may be interested in watching:
 
 <div align="center">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Kqu4TUOO5IY" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Kqu4TUOO5IY?end=333" frameborder="0" allowfullscreen></iframe>
 </div>
 
 As a reminder of the various core values in the difficulty calculation algorithm:
@@ -35,41 +33,36 @@ As a reminder of the various core values in the difficulty calculation algorithm
 
 ### Combo scaling removal
 
-The most monumental [change](https://github.com/ppy/osu/pull/16280) proposed by [moonpoint](https://osu.ppy.sh/users/9558549) – with improvements made by [KermitNuggies](https://osu.ppy.sh/users/33452559) – removes the "combo scaling factor" applied to the aim and speed portions of a score's pp.
+This is the change you're most likely already familiar with, due to the extensive public discourse on various social media. It's [moonpoint](https://osu.ppy.sh/users/9558549) and [KermitNuggies](https://osu.ppy.sh/users/33452559)'s [performance algorithm change](https://github.com/ppy/osu/pull/16280) to remove the "combo scaling factor" applied to the aim and speed portions of performance points.
 
-This change means a 1 miss score with a max combo of 500 compared to a 1 miss score with a max combo of 700 on the same beatmap will be punished equally. The miss penalty was also rewritten in order to accommodate these changes — misses have generally been made harsher, with the initial miss having a harsher penalty in order to differentiate between FCs and non-FCs.
+In short, missing used to be more punishing when missing in the middle of a map compared to the beginning or end, since in the latter case you'd get more combo. Now, plays with the same amount of misses will give about the same amount of pp, no matter where the misses occur.
 
-The miss penalty scaling is now based on the amount of difficult strains instead of object count. As the penalty is based upon the amount of difficult strains, this means longer maps with a lot of "filler" sections will be punished harder than longer beatmaps which are consistently difficult even if both beatmaps have similar object counts.
+Accompanying this, misses will incur a higher performance penalty in general, with special emphasis on the first miss that differentiates an FC (full combo) from a non-FC.
 
-There were concerns raised about consistency being less important with these changes as combo is no longer a factor, however this isn't an issue — using combo as a metric doesn't make much sense as the performance calculator does not know where the misses occurred on any given beatmap. As a result, we model any misses as being on the most difficult part.
+The way this miss penalty is applied is also slightly different: longer maps (based on object count) would make any individual miss more lenient, but now it's based on the amount of difficult sections regardless of map length.
+
+Put another way, missing in long beatmaps with a single "difficulty spike" will be punished harder than in long maps that are consistently difficult. The algorithm essentially assumes that misses happen on the most difficult parts.
 
 ### Rhythm complexity improvements
 
-A [change](https://github.com/ppy/osu/pull/28871) proposed by [StanR](https://osu.ppy.sh/users/7217455) fixes some flaws in the rhythm complexity calculations.
+Rhythm complexity can be expressed as "changes in pattern lengths and timings" — quintuplets changing into triples, even bursts into odd bursts, 1/4 streams into 1/3 streams, etc. More erratic changes imply a more complex rhythm, making it harder for players to adapt and recognise the rhythm they should tap to.
 
-To summarise how rhythm complexity works, notes are grouped up into 'islands', with a triple expressed as a size 3 'island'. Each island is then grouped by the algorithm and considered in a variety of ways, such as:
+A [change](https://github.com/ppy/osu/pull/28871) proposed by [StanR](https://osu.ppy.sh/users/7217455) fixes some flaws in osu!'s rhythm complexity calculations:
 
-- islands becoming smaller or larger (size 5 to size 3, for example)
-- islands which change from even to odd sizes
-- the ratio of time elapsed between islands (changes like 1/4 streams into 1/3 streams)
-
-The first improvement in this change is removing a size bonus on island length and uncapping the island size. Previously, there was a bonus applied based on island length sizes that would cause long bursts to gain a lot of rhythm complexity even if they were not complex.
-
-The second improvement in this change heavily nerfs repeated islands. This causes maps which abuse the spamming of triples to increase pp (one example is [SLoWMoTIoN](https://osu.ppy.sh/beatmapsets/295848#osu/988793)) to have a considerable nerf:
+- Highly complex rhythm has received a general buff, affecting maps such as [II-L - Asteroid Field of DECAPLETS](https://osu.ppy.sh/beatmapsets/1666685#osu/3403124).
+- A bonus was previously applied based on pattern length, which caused long bursts to be assessed as rhythmically complex even if they were not. This has been removed.
+- "Double-tappable" patterns have been nerfed, i.e. overlapping notes where the time between objects is low enough to comfortably double-tap and still receive 300s. This double-tap nerf already existed in the speed portion of pp, and this change now brings it over to rhythm complexity calculations too.
+- Repeated note groups have been heavily nerfed. This practically means that patterns such as repeated triple spam (like in [nameless - SLoWMoTIoN](https://osu.ppy.sh/beatmapsets/295848#osu/988793)) are nerfed significantly:
 
 ![](/wiki/shared/news/2024-09-17-performance-points-star-rating-updates/island-repetition-nerf.png)
 
-The third improvement in this change is a general buff to the initial rhythm bonus. This helps maps with high rhythm complexity such as [Asteroid Field of DECAPLETS](https://osu.ppy.sh/beatmapsets/1666685#osu/3403124).
-
-The final improvement in this change is a nerf to rhythm complexity based on how "double-tappable" an island is. "Double-tapness" is assessed by comparing the 300 hit window size to the time between the current and previous object and deciding if the player has enough time to comfortably double-tap. This double-tap nerf already existed in speed, and this change now brings it over to rhythm complexity too.
-
 ### Speed distance hotfix
 
-A [change](https://github.com/ppy/osu/pull/29980) proposed by [tsunyoku](https://osu.ppy.sh/users/11315329) hotfixes the speed distance bonus.
+A [change](https://github.com/ppy/osu/pull/29980) proposed by [tsunyoku](https://osu.ppy.sh/users/11315329) brings a minor change to a bonus applied for speed distance bonus.
 
 The distance bonus exists to reward flow aim by multiplying it with the speed difficulty. In this hotfix, rather than the bonuses being multiplicative, they have been changed to be additive to decrease the effect the distance bonus has on the speed value.
 
-In addition, the distance bonus scaling has been changed to decrease the reward for lower spacing flow aim. Finally, a new multiplier was added to the final result of the distance bonus to decrease it overall.
+In addition, the distance bonus scaling has been changed to decrease the reward for lower-spacing flow aim. Finally, a new multiplier was added to the final result of the distance bonus to decrease it overall.
 
 ![](/wiki/shared/news/2024-09-17-performance-points-star-rating-updates/distance-bonus.png)
 
@@ -77,15 +70,15 @@ In addition, the distance bonus scaling has been changed to decrease the reward 
 
 A [change](https://github.com/ppy/osu/pull/27063) proposed by [tsunyoku](https://osu.ppy.sh/users/11315329) has been created to include the slider count in accuracy pp if a score was set using slider head accuracy.
 
-Traditionally, osu! has not had accuracy on slider heads, and so accuracy pp traditionally excludes sliders in its calculation. However, osu!(lazer) has slider head accuracy, and so accuracy pp now includes sliders on scores played with slider head accuracy.
+Traditionally, osu! has not had accuracy on slider heads, and so accuracy pp have excluded sliders in calculations. However, the lazer client has slider head accuracy, and so accuracy pp now includes sliders on scores played with slider head accuracy.
 
-This change may not affect all scores set with slider head accuracy, as accuracy pp also has an object count cap, meaning accuracy pp will go unchanged if the cap was already reached. Additionally, very low accuracy scores may not be boosted enough by the added object counts to result in any extra reward.
+This change may not affect all scores set with slider head accuracy, as accuracy pp also has an object count cap, meaning accuracy pp will go unchanged if the cap was already reached. Additionally, very low-accuracy scores may not be boosted enough by the added object counts to result in any extra reward.
 
 We expect more pp changes related to slider head accuracy in the future!
 
 ### Minor changes
 
-- A [slider mechanic change](https://github.com/ppy/osu/pull/24966) was made to adjust slider ends to be more lenient during fast sliders which has resulted in buffs on some maps with very fast sliders such as [KAEDE](https://osu.ppy.sh/beatmapsets/660630#osu/1398809). You can find more about this change in the related [osu!(lazer) updates video](https://www.youtube.com/watch?v=SlWKKA-ltZY).
+- A [slider mechanics change](https://github.com/ppy/osu/pull/24966) was made to adjust slider ends to be more lenient during fast sliders which has resulted in buffs on some maps with very fast sliders such as [ocelot - KAEDE](https://osu.ppy.sh/beatmapsets/660630#osu/1398809). You can find more about this change in the related [osu!(lazer) updates video](https://www.youtube.com/watch?v=SlWKKA-ltZY).
 - Some various refactorings across difficulty calculation and performance calculation proposed by [Givikap120](https://osu.ppy.sh/users/10560705) to reduce duplication. [#1](https://github.com/ppy/osu/pull/29293) [#2](https://github.com/ppy/osu/pull/29294) [#3](https://github.com/ppy/osu/pull/29292) [#4](https://github.com/ppy/osu/pull/29291)
 - An [aim skill multiplier rebalance](https://github.com/ppy/osu/pull/29998) proposed by [tsunyoku](https://osu.ppy.sh/users/11315329) was made in order to ensure the final results of all major changes are in line with expectations.
 - A [speed accuracy scaling change](https://github.com/ppy/osu/pull/30088) proposed by [StanR](https://osu.ppy.sh/users/7217455) was made to uncap OD scaling on speed as it would never account for ODs lower than 8 when punishing low accuracy.
@@ -139,7 +132,7 @@ On a side note, the osu!taiko performance points committee is aware of the feedb
 
 Since the last performance points post, osu!catch has now formed its own Performance Points Committee to help out with osu!catch related changes. You can find out more about the various committees on their [wiki page](/wiki/People/Performance_Points_Committee).
 
-### No fail changes
+### No Fail changes
 
 All the way back in 2021 the osu! mode received no fail changes to scale the no fail pp multiplier based on the number of misses. As suggested by [Givikap120](https://osu.ppy.sh/users/10560705), these changes [were brought into osu!catch too](https://github.com/ppy/osu/pull/28353):
 
@@ -167,7 +160,7 @@ Here is a graph to help visualise the LN overlap bonus change:
 
 ![](/wiki/shared/news/2024-09-17-performance-points-star-rating-updates/hold-overlap-bonuses.png)
 
-To add context to the graph, 30ms corresponds to 250bpm 1/8th patterns.
+To add context to the graph, 30 ms corresponds to 250 BPM 1/8 patterns.
 
 In the [previous osu!mania changes](https://osu.ppy.sh/home/news/2022-10-09-changes-to-osu-mania-sr-and-pp), there was a fix for the ends of LNs and note chords awarding varying amounts of difficulty depending on their placement order. These changes have improved on that once again, and the order of LN chord starts no longer vary difficulty either — this means that the placement order of chords should no longer matter at all.
 
