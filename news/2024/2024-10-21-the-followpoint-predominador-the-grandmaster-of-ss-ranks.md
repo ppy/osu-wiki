@@ -242,26 +242,13 @@ What plays, be they yours or someone else's, do you find the most impressive? If
 
 ![](/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/oracion.jpg)
 
-Talking about Motion, amongst many of his recent scores, I'd like to mention [VINXIS - Sidetracked Day \[Deviated\] with HDDT](https://osu.ppy.sh/scores/fruits/218403624), and [Halozy - Genryuu Kaiko \[Distorted Scythe\] with HDDT](https://osu.ppy.sh/scores/3543844864). His catch control and reading skill is AMAZING. The fact he only did 1 droplet miss in both is really insane! I have no idea how this is even possible. He is for sure one of the greatest players of all time!
-
-![](/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/sidetracked_day.jpg)
-![](/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/genryuu_kaiko.jpg)
-
 I also want to mention a score from the osu! game mode, which is [Within Temptation - The Unforgiving \[Marathon\] with FL](https://osu.ppy.sh/scores/osu/3549163348), done by [-GN](https://osu.ppy.sh/users/895581). A 53-minute map that is already challenging by itself without any mods, let alone with FL. I even have no words to say how impressive this is! Dedication and patience are the words. Never ever give up.
 
 ![](/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/the_unforgiving.jpg)
 
-Now, about scores I am really proud that I did, I will for sure mention [Yousei Teikoku - Kyouki Chinden (TV Size) \[Hard\] with HRFL](https://osu.ppy.sh/scores/1930699948). The score is quite old (already from 6 years ago), but it was a challenge I did to myself, and tryhard something harder with FL. It took around 5 days and 651 attempts (not counting attempts done in practice diffs). I really really want to do some other score like this, much more challenging and unique, but still looking for something I feel having motivation to tryhard!
+Now, about the score I am really proud I did, I will for sure mention [Yousei Teikoku - Kyouki Chinden (TV Size) \[Hard\] with HRFL](https://osu.ppy.sh/scores/1930699948). The score is quite old (already from 6 years ago), but it was a challenge I did to myself, and tryhard something harder with FL. It took around 5 days and 651 attempts (not counting attempts done in practice diffs). I really really want to do some other score like this, much more challenging and unique, but still looking for something I feel having motivation to tryhard!
 
 ![](/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/kyouki_chinden.jpg)
-
-I also think that my score in [amazarashi - Sayonara Gokko (TV Size) \[_Epreus' Light Insane\]](https://osu.ppy.sh/scores/1948389545) is worth mentioning, because I remember very well that in that day it was very cold, and I was very sleepy already (it was very late night), but I really wanted to set this FC. My hands were freezing, but after about 40 minutes, I did it!
-
-![](/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/sayonara_gokko.jpg)
-
-I was undecided in what else to mention, but I think I will go with [Frums (unknown "lambda") - 19ZZ \[wispy's Insane\] with HDHR](https://osu.ppy.sh/scores/1962037812), from almost 1 year ago. This map is a very hard one to FC and especially to SS, due some weird sliders. As far as I remember, I checked how the map was before it was even ranked and practiced a bit, and I didn't have hope to even being able to FC this at all, but ended up making the FC and SS after about 23 minutes after ranked! I was really impressed by myself, and I think my HR skill peaked there, because since then my HR performance started to drop month by month... (possibly because I started to grind SS harder, so I was overall more tired etc.).
-
-![](/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/19ZZ.jpg)
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/avatar-MegaMix.jpg')"></a>
 
