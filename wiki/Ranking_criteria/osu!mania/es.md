@@ -2,13 +2,13 @@
 
 ***Aviso: Este artículo es una extensión de los [criterios de clasificación generales](/wiki/Ranking_criteria).***
 
-Este conjunto de **criterios de clasificación de osu!mania** establece [reglas y pautas](/wiki/Ranking_criteria#términos-generales) que los [beatmaps](/wiki/Beatmap) específicos de [osu!mania](/wiki/Game_mode/osu!mania) deben seguir para avanzar en el [procedimiento de clasificación](/wiki/Beatmap_ranking_procedure).
+Este conjunto de **criterios de clasificación de osu!mania** establece [reglas y pautas](/wiki/Ranking_criteria) que los [beatmaps](/wiki/Beatmap) específicos de [osu!mania](/wiki/Game_mode/osu!mania) deben seguir para avanzar en el [procedimiento de clasificación](/wiki/Beatmap_ranking_procedure).
 
 ## Glosario
 
-### Nombre de las dificultades
+### Nombres de las dificultades
 
-*Artículo principal: [Nombramiento de dificultades](/wiki/Ranking_criteria/Difficulty_naming)*
+*Artículo principal: [Nombramiento de las dificultades](/wiki/Ranking_criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-m.png?20211215) Normal

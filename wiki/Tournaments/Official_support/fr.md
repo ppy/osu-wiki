@@ -13,7 +13,7 @@ tags:
 
 [L'équipe d'osu!](/wiki/People/osu!_team) gère un programme dans le cadre duquel elle peut choisir de fournir un support supplémentaire aux tournois organisés par la communauté qui respectent un certain nombre de critères et d'attentes, à sa discrétion.
 
-Cet article a été mis à jour pour la dernière fois le 5 Août 2024. Pour obtenir la liste complète des modifications, consultez le [fil de discussion sur les mises à jour du support des tournois](https://osu.ppy.sh/community/forums/topics/1715676). Pour toute question ou clarification, veuillez consulter le canal `#tournaments` sur le [serveur Discord d'osu!](https://discord.com/invite/ppy) ou envoyer un e-mail à [l'équipe de support aux comptes](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+Cet article a été mis à jour pour la dernière fois le 17 Août 2024. Pour obtenir la liste complète des modifications, consultez le [fil de discussion sur les mises à jour du support des tournois](https://osu.ppy.sh/community/forums/topics/1715676). Pour toute question ou clarification, veuillez consulter le canal `#tournaments` sur le [serveur Discord d'osu!](https://discord.com/invite/ppy) ou envoyer un e-mail à [l'équipe de support aux comptes](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Avantages
 
@@ -39,7 +39,10 @@ Les tournois organisés par la communauté qui respectent les critères stricts 
 - Les fils de discussion associés au tournoi - y compris les fils de discussion relatifs aux événements préliminaires - **DOIVENT** contenir un lien clairement visible, dans une police de taille normale, vers le [formulaire de rapport de tournoi](https://pif.ephemeral.ink/tournament-reports) en tant que tout dernier contenu du message d'origine.
   - `https://pif.ephemeral.ink/tournament-reports`
   - Ce formulaire de signalement est supervisé par le [comité des tournois](/wiki/People/Tournament_Committee). Nous encourageons tous les utilisateurs - joueurs et personnels - à utiliser ce formulaire si nécessaire. Tout manquement aux [attentes](#attentes), aux [autres procédures](#autres-procédures), ou aux conditions [d'éligibilité](#éligibilité) doit faire l'objet d'un rapport.
-- Le tournoi ne doit utiliser que des beatmaps de musiques qui sont autorisées en termes de [permissions d'utilisation du contenu](/wiki/Rules/Content_usage_permissions#autorisations-de-l'artiste). Toute utilisation de musique explicitement interdite annulera l'éligibilité d'un tournoi à l'aide. Voir les [critères de classement](/wiki/Ranking_criteria#règles) pour les détails concernant les exceptions pour les artistes ou les musiques qui sont listés comme non autorisés.
+- Le tournoi doit respecter les règles suivantes en matière d'utilisation du contenu :
+  - L'utilisation de toute beatmap faisant l'objet d'un avertissement DMCA, sous quelque forme que ce soit, est strictement interdite.
+  - La création ou la réutilisation de toute beatmap qui viole les [règles de permission d'utilisation du contenu](/wiki/Rules/Content_usage_permissions#autorisations-de-l'artiste) est strictement interdite, sauf si elle est **Ranked, Approved, ou Loved**.
+    - Si l'artiste autorise l'utilisation de musiques non autorisées, l'organisateur **doit** inclure la preuve de l'autorisation dans son courrier électronique à [tournaments@ppy.sh](mailto:tournaments@ppy.sh) à la fin du tournoi.
 - Le tournoi ne permet qu'aux joueurs d'un niveau exceptionnel de participer, en interdisant les joueurs dont le rang est inférieur aux rangs suivants dans chaque mode de jeu :
   - osu! : 100,000
   - osu!taiko : 10,000
@@ -91,7 +94,7 @@ En outre, tout matériel promotionnel ou service associé à un tournoi bénéfi
 - Tous les matchs multijoueurs pertinents pour le tournoi doivent être créés avec la commande `!mp make`, afin qu'ils n'expirent pas. Les résultats doivent être enregistrés et rendus publics dans le message original du forum du tournoi ou dans une source extérieure liée au message du forum, dans un format clair et accessible.
 - Tous les changements de règles doivent être communiqués clairement à tous les participants. Ceux-ci doivent conserver les attentes mentionnées [ci-dessus](#tournois).
 
-Une fois le tournoi terminé, les organisateurs du tournoi devront soumettre les éléments suivants à l'équipe d'assistance aux comptes :
+Une fois le tournoi terminé, les organisateurs du tournoi devront soumettre les éléments suivants à l'équipe d'assistance aux comptes via [tournaments@ppy.sh](mailto:tournaments@ppy.sh) :
 
 - Une liste des bénéficiaires des badges (c'est-à-dire les vainqueurs de votre tournoi).
 - Un badge conçu de manière appropriée ([voir ci-dessous](#badges-de-profil)).

@@ -59,7 +59,7 @@ Kısımlar: [Oluştur](/wiki/Client/Beatmap_editor/Compose) • [Dizayn](/wiki/C
 
 # Topluluk
 
-[Turnuvalar](/wiki/Tournaments) • [Tema oluşturma](/wiki/Skinning) • [Projeler](/wiki/Community/Projects) • [Rehberler](/wiki/Guides) • [osu! Discord sunucusu](/wiki/Community/osu!_Discord_server) • [Nasıl yardım edebilirsiniz](/wiki/Community/How_you_can_help!) • [Sözlük](/wiki/Sitemap)
+[Turnuvalar](/wiki/Tournaments) • [Tema oluşturma](/wiki/Skinning) • [Projeler](/wiki/Community/Projects) • [Rehberler](/wiki/Guides) • [osu! Discord sunucusu](/wiki/Community/Discord_servers#official) • [Nasıl yardım edebilirsiniz](/wiki/Community/How_you_can_help!) • [Sözlük](/wiki/Sitemap)
 
 Organizasyonlar: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 

@@ -15,6 +15,7 @@ Les Centurions sont des utilisateurs qui ont atteint la prestigieuse étape de c
 
 | Nom | Première beatmap classé | 100e beatmap classé | Packs Centurion |
 | :-- | :-- | :-- | :-- |
+| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | [20/10/2018](https://osu.ppy.sh/beatmapsets/833454) | [2/10/2024](https://osu.ppy.sh/beatmapsets/2215696) | [#1](https://osu.ppy.sh/beatmaps/packs/TM23) |
 | ::{ flag=PH }:: [Amateurre](https://osu.ppy.sh/users/7326908) | [06/11/2019](https://osu.ppy.sh/beatmapsets/1057765) | [23/08/2023](https://osu.ppy.sh/beatmapsets/2025917) | [#1](https://osu.ppy.sh/beatmaps/packs/TM15) |
 | ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | [27/02/2009](https://osu.ppy.sh/beatmapsets/5396) | [10/12/2010](https://osu.ppy.sh/beatmapsets/23100) | [#1](https://osu.ppy.sh/beatmaps/packs/TM8), [#2](https://osu.ppy.sh/beatmaps/packs/TM9), [#3](https://osu.ppy.sh/beatmaps/packs/TM10) |
 | ::{ flag=US }:: [Annabel](https://osu.ppy.sh/users/3388410) | [06/05/2010](https://osu.ppy.sh/beatmapsets/757813) | [27/09/2019](https://osu.ppy.sh/beatmapsets/935244) |  |
@@ -32,11 +33,13 @@ Les Centurions sont des utilisateurs qui ont atteint la prestigieuse étape de c
 | ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | [10/06/2017](https://osu.ppy.sh/beatmapsets/598791) | [02/10/2022](https://osu.ppy.sh/beatmapsets/1802635) | [#1](https://osu.ppy.sh/beatmaps/packs/TM4) |
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | [11/12/2018](https://osu.ppy.sh/beatmapsets/879904) | [20/03/2023](https://osu.ppy.sh/beatmapsets/1916502) | [#1](https://osu.ppy.sh/beatmaps/packs/TM2) |
 | ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | [16/09/2018](https://osu.ppy.sh/beatmapsets/826551) | [30/12/2022](https://osu.ppy.sh/beatmapsets/1348272) |  |
+| ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | [21/5/2016](https://osu.ppy.sh/beatmapsets/169622) | [4/10/2024](https://osu.ppy.sh/beatmapsets/2250094) | [#1](https://osu.ppy.sh/beatmaps/packs/TM24) |
 | ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992) | [13/12/2015](https://osu.ppy.sh/beatmapsets/373858) | [29/08/2018](https://osu.ppy.sh/beatmapsets/809788) | [#1](https://osu.ppy.sh/beatmaps/packs/TM5), [#2](https://osu.ppy.sh/beatmaps/packs/TM6), [#3](https://osu.ppy.sh/beatmaps/packs/TM7) |
+| ::{ flag=PL }:: [Suimya](https://osu.ppy.sh/users/700887) | [28/03/2011](https://osu.ppy.sh/beatmapsets/26544) | [01/08/2024](https://osu.ppy.sh/beatmapsets/2106029) | [#1](https://osu.ppy.sh/beatmaps/packs/TM22) |
 | ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) | [12/07/2019](https://osu.ppy.sh/beatmapsets/965596) | [07/10/2023](https://osu.ppy.sh/beatmapsets/2023741) | [#1](https://osu.ppy.sh/beatmaps/packs/TM18) |
 | ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | [09/03/2009](https://osu.ppy.sh/beatmapsets/5417) | [08/03/2012](https://osu.ppy.sh/beatmapsets/44666) | [#1](https://osu.ppy.sh/beatmaps/packs/TM21) |
 
 ## Le saviez-vous ?
 
 - Le premier utilisateur à avoir atteint 100 beatmaps classés est ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363), le 4 août 2010.
-- Parmi tous les Centurions, il faut environ **4,1 ans**<!-- use "3 ans et demi" instead of "3,5 ans" --> (environ 1508 jours) pour classer 100 beatmaps en moyenne.
+- Parmi tous les Centurions, il faut environ **4,8 ans**<!-- use "3 ans et demi" instead of "3,5 ans" --> (environ 1751 jours) pour classer 100 beatmaps en moyenne.<!--Stats from https://docs.google.com/spreadsheets/d/1UK1QdaZawxJ75Q0ZwvSGb4zDcC19RumO7BwV0p9R-jM/edit?usp=sharing-->

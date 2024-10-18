@@ -9,7 +9,7 @@ tags:
 
 ![OMMT 4 banner](img/ommt4-banner.jpeg)
 
-The **osu!mania Malaysia Tournament 4** (***OMMT 4***) is a Malaysian team-based double-elimination 1v1 osu!mania 4-key tournament hosted by ::{ flag=MY }:: [Onlinee](https://osu.ppy.sh/users/13630137), ::{ flag=VN }:: [ARL](https://osu.ppy.sh/users/15778330), and ::{ flag=MY }:: [Kibitz](https://osu.ppy.sh/users/7418493). It is the fourth instalment of the osu!mania Malaysia Tournament.
+The **osu!mania Malaysia Tournament 4** (***OMMT 4***) was a Malaysian team-based double-elimination 1v1 osu!mania 4-key tournament hosted by ::{ flag=MY }:: [Onlinee](https://osu.ppy.sh/users/13630137), ::{ flag=VN }:: [ARL](https://osu.ppy.sh/users/15778330), and ::{ flag=MY }:: [Kibitz](https://osu.ppy.sh/users/7418493). It was the fourth instalment of the osu!mania Malaysia Tournament.
 
 ## Tournament schedule
 
@@ -38,19 +38,20 @@ Donations and all supports can be made through [OMMT's Ko-fi page](https://ko-fi
 
 ## Organisation
 
-The osu!mania Malaysia Tournament 4 is run by various community members.
+The osu!mania Malaysia Tournament 4 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ::{ flag=VN }:: [ARL](https://osu.ppy.sh/users/15778330), ::{ flag=MY }:: [Kibitz](https://osu.ppy.sh/users/7418493), ::{ flag=MY }:: [Onlinee](https://osu.ppy.sh/users/13630137) |
 | Consultant | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=MY }:: [Cryolien](https://osu.ppy.sh/users/1626983), ::{ flag=MY }:: [ERA Leon](https://osu.ppy.sh/users/13382147), ::{ flag=MY }:: [Unicow](https://osu.ppy.sh/users/9444174) |
-| Head mappooler | ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222), ::{ flag=KR }:: [Oceanus](https://osu.ppy.sh/users/9164100) |
-| Mappool playtester | ::{ flag=PA }:: [\[HD\]Softer64](https://osu.ppy.sh/users/8704966), ::{ flag=VN }:: [\[LS\]Sagirium](https://osu.ppy.sh/users/16530364), ::{ flag=MY }:: [\[MY\]Sol](https://osu.ppy.sh/users/12054898), ::{ flag=SG }:: [awdse22](https://osu.ppy.sh/users/8743513), ::{ flag=PL }:: [Bexi](https://osu.ppy.sh/users/11548612), ::{ flag=FR }:: [DarkMew2](https://osu.ppy.sh/users/13921965), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=MY }:: [IvanOfficial](https://osu.ppy.sh/users/12818249), ::{ flag=ID }:: [Oofyxl](https://osu.ppy.sh/users/20599160), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=KR }:: [Situroen](https://osu.ppy.sh/users/7272956) |
-| Mapper | ::{ flag=MY }:: [\[Andre\]](https://osu.ppy.sh/users/12955520), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=KR }:: [\[GB\]SuddenDeath](https://osu.ppy.sh/users/6699923), ::{ flag=JP }:: [\[GS\]hina](https://osu.ppy.sh/users/20040607), ::{ flag=PA }:: [\[HD\]Softer64](https://osu.ppy.sh/users/8704966), ::{ flag=TH }:: [\[Ping\]](https://osu.ppy.sh/users/6291395), ::{ flag=SG }:: [awdse22](https://osu.ppy.sh/users/8743513), ::{ flag=SG }:: [Claren](https://osu.ppy.sh/users/9362562), ::{ flag=JP }:: [CrewK](https://osu.ppy.sh/users/11488604), ::{ flag=MY }:: [Critical\_Star](https://osu.ppy.sh/users/3793196), ::{ flag=DE }:: [ERA Aracium](https://osu.ppy.sh/users/15882740), ::{ flag=ID }:: [eZmmR](https://osu.ppy.sh/users/8647138), ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230), ::{ flag=MY }:: [IvanOfficial](https://osu.ppy.sh/users/12818249), ::{ flag=RU }:: [Lerck](https://osu.ppy.sh/users/10450696), ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723), ::{ flag=TH }:: [RuleBlazing](https://osu.ppy.sh/users/7312402), ::{ flag=ID }:: [Sarahkuai](https://osu.ppy.sh/users/5246861), ::{ flag=IE }:: [SureFir3](https://osu.ppy.sh/users/24495218), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619) |
-| Referee | ::{ flag=VN }:: [\[LS\]Sagirium](https://osu.ppy.sh/users/16530364), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=VN }:: [Cessna](https://osu.ppy.sh/users/16868806), ::{ flag=MY }:: [DXA FonG](https://osu.ppy.sh/users/15019527), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=DE }:: [Jason X](https://osu.ppy.sh/users/2904140), ::{ flag=SG }:: [Quickeryes](https://osu.ppy.sh/users/18227681), ::{ flag=MY }:: [Racers03](https://osu.ppy.sh/users/11621976), ::{ flag=CA }:: [Shizunaa](https://osu.ppy.sh/users/7352655), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016) |
-| Streamer | ::{ flag=VN }:: [Cessna](https://osu.ppy.sh/users/16868806), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=CA }:: [ERA Sunny](https://osu.ppy.sh/users/16468962), ::{ flag=MY }:: [Evirir](https://osu.ppy.sh/users/8126553), ::{ flag=NZ }:: [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ::{ flag=MY }:: [Kzon](https://osu.ppy.sh/users/2007579), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895) |
-| Caster | ::{ flag=MY }:: [\[MY\]NoLimit](https://osu.ppy.sh/users/11787977), ::{ flag=MY }:: [\[MY\]Sol](https://osu.ppy.sh/users/12054898), ::{ flag=CA }:: [ERA Sunny](https://osu.ppy.sh/users/16468962), ::{ flag=MY }:: [IvanOfficial](https://osu.ppy.sh/users/12818249), ::{ flag=ID }:: [Oofyxl](https://osu.ppy.sh/users/20599160), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=MY }:: [Racers03](https://osu.ppy.sh/users/11621976), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=MY }:: [stonks](https://osu.ppy.sh/users/18974256), ::{ flag=MY }:: [Unicow](https://osu.ppy.sh/users/9444174) |
-| Designer | ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966), ::{ flag=DE }:: [ERA Aracium](https://osu.ppy.sh/users/15882740), ::{ flag=MY }:: [lous](https://osu.ppy.sh/users/6231292), ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=MY }:: [NyuPenyu](https://osu.ppy.sh/users/12233680), ::{ flag=PH }:: [OsuMe65](https://osu.ppy.sh/users/852867), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024), ::{ flag=MY }:: [xxxxxx2800](https://osu.ppy.sh/users/4084853) |
+| Head mappooler | ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222), ::{ flag=KR }:: [Oceanus](https://osu.ppy.sh/users/9164100), ::{ flag=KR }:: [PocaFanboy](https://osu.ppy.sh/users/6912079) |
+| Mappool playtester | ::{ flag=PA }:: [\[HD\]Softer64](https://osu.ppy.sh/users/8704966), ::{ flag=VN }:: [\[LS\]Sagirium](https://osu.ppy.sh/users/16530364), ::{ flag=MY }:: [\[MY\]Sol](https://osu.ppy.sh/users/12054898), ::{ flag=SG }:: [awdse22](https://osu.ppy.sh/users/8743513), ::{ flag=PL }:: [Bexi](https://osu.ppy.sh/users/11548612), ::{ flag=FR }:: [DarkMew2](https://osu.ppy.sh/users/13921965), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=MY }:: [IvanOfficial](https://osu.ppy.sh/users/12818249), ::{ flag=KR }:: [Nicknem\_](https://osu.ppy.sh/users/16615040), ::{ flag=ID }:: [Oofyxl](https://osu.ppy.sh/users/20599160), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=KR }:: [Situroen](https://osu.ppy.sh/users/7272956) |
+| Mapper | ::{ flag=MY }:: [\[Andre\]](https://osu.ppy.sh/users/12955520), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=JP }:: [\[GS\]hina](https://osu.ppy.sh/users/20040607), ::{ flag=PA }:: [\[HD\]Softer64](https://osu.ppy.sh/users/8704966), ::{ flag=SG }:: [awdse22](https://osu.ppy.sh/users/8743513), ::{ flag=MY }:: [Critical\_Star](https://osu.ppy.sh/users/3793196), ::{ flag=ID }:: [eZmmR](https://osu.ppy.sh/users/8647138), ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230), ::{ flag=MY }:: [IvanOfficial](https://osu.ppy.sh/users/12818249), ::{ flag=RU }:: [Lerck](https://osu.ppy.sh/users/10450696), ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723), ::{ flag=US }:: [remity\_](https://osu.ppy.sh/users/15181375), ::{ flag=ID }:: [Sarahkuai](https://osu.ppy.sh/users/5246861), ::{ flag=IE }:: [SureFir3](https://osu.ppy.sh/users/24495218), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619) |
+| Music producer | ::{ flag=NZ }:: [ERA Midian](https://osu.ppy.sh/users/25689815), ::{ flag=MY }:: [HimitsuHiketsu](https://osu.ppy.sh/users/12920708), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=MY }:: [takehirotei](https://osu.ppy.sh/users/11793794) |
+| Referee | ::{ flag=VN }:: [\[LS\]Sagirium](https://osu.ppy.sh/users/16530364), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=VN }:: [Cessna](https://osu.ppy.sh/users/16868806), ::{ flag=MY }:: [DXA FonG](https://osu.ppy.sh/users/15019527), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=DE }:: [Jason X](https://osu.ppy.sh/users/2904140), ::{ flag=MY }:: [Jugemu-Jugemu](https://osu.ppy.sh/users/10874775), ::{ flag=SG }:: [Quickeryes](https://osu.ppy.sh/users/18227681), ::{ flag=MY }:: [Racers03](https://osu.ppy.sh/users/11621976), ::{ flag=CA }:: [Shizunaa](https://osu.ppy.sh/users/7352655), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=US }:: [ZnowFanGirl](https://osu.ppy.sh/users/32151196) |
+| Streamer | ::{ flag=CN }:: [\[GB\]Rush\_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=VN }:: [Cessna](https://osu.ppy.sh/users/16868806), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=MY }:: [Evirir](https://osu.ppy.sh/users/8126553), ::{ flag=NZ }:: [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ::{ flag=MY }:: [Kzon](https://osu.ppy.sh/users/2007579), ::{ flag=DE }:: [QEpicAce](https://osu.ppy.sh/users/9489153), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=TW }:: [SugiuraAyano](https://osu.ppy.sh/users/2529213) |
+| Caster | ::{ flag=MY }:: [\[MY\]Sol](https://osu.ppy.sh/users/12054898), ::{ flag=GB }:: [epic man 2](https://osu.ppy.sh/users/14566000), ::{ flag=MY }:: [IvanOfficial](https://osu.ppy.sh/users/12818249), ::{ flag=PH }:: [Lazereed](https://osu.ppy.sh/users/12894120), ::{ flag=ID }:: [Oofyxl](https://osu.ppy.sh/users/20599160), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=MY }:: [Racers03](https://osu.ppy.sh/users/11621976), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=MY }:: [Unicow](https://osu.ppy.sh/users/9444174) |
+| Designer | ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966), ::{ flag=DE }:: [ERA Aracium](https://osu.ppy.sh/users/15882740), ::{ flag=MY }:: [lous](https://osu.ppy.sh/users/6231292), ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=ID }:: [LenLitchu](https://osu.ppy.sh/users/34098325), ::{ flag=MY }:: [NyuPenyu](https://osu.ppy.sh/users/12233680), ::{ flag=PH }:: [OsuMe65](https://osu.ppy.sh/users/852867), ::{ flag=CN }:: [RiceSS](https://osu.ppy.sh/users/8271436), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024), ::{ flag=SG }:: [sugosugiii](https://osu.ppy.sh/users/15118952), ::{ flag=MY }:: [xxxxxx2800](https://osu.ppy.sh/users/4084853) |
 | Statistician | ::{ flag=NL }:: [2fast](https://osu.ppy.sh/users/5183940), ::{ flag=MY }:: [Amamiya Kokoro](https://osu.ppy.sh/users/9534110), ::{ flag=GB }:: [pericrayola](https://osu.ppy.sh/users/31184671), ::{ flag=VN }:: [rock-on](https://osu.ppy.sh/users/9676089) |
 | Wiki editor | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
 
@@ -103,15 +104,19 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 | **we love jacking** | ::{ flag=MY }:: **[\[LS\]qwk](https://osu.ppy.sh/users/25660423)**, ::{ flag=GB }:: [AGuyCalledJeff](https://osu.ppy.sh/users/18750025) |
 | **Yo, What Team Name** | ::{ flag=MY }:: **[RhythmBoii](https://osu.ppy.sh/users/18484917)**, ::{ flag=US }:: [ElzeFanBoy](https://osu.ppy.sh/users/15513303) |
 
+## Podium
+
+![](img/ommt4-podium.jpg "OMMT 4 podium")
+
 ## Mappools
 
-*Note: Maps marked with an asterisk are considered to be "MAD" maps. It is a twist from the organiser to make certain map unbannable, and on some occasions will force players to use certain mods. Each stage may have different kinds of MAD twists as detailed before the mappools.*
+*Note: Maps marked with an asterisk were considered to be "MAD" maps. It was a twist from the organiser to make certain map unbannable, and on some occasions will force players to use certain mods. Each stage may have different kinds of MAD twists as detailed before the mappools.*
 
 ### Grand Finals
 
 **[Download the mappack here (163 MB)](https://drive.google.com/file/d/1YDT14zcsl1VdfRdV6mtKRmR1JPWHzRIq/view?usp=sharing)**
 
-\*The Grand Finals' MAD maps are **HB1** and **HB3**. HB1 contains reverse Long Notes (LN), making it a challenge of visual comprehension. HB3 uses Slider Velocity (SV), which HB maps tend to not have.
+\*The Grand Finals' MAD maps were **HB1** and **HB3**. HB1 contained reverse Long Notes (LN), making it a challenge of visual comprehension. HB3 used Slider Velocity (SV), which HB maps tend to not have.
 
 - RC
   1. [t+pazolite - Call me it. (500 Tortures) (Oceanus) \[Tera x Oceanus' Apocalypse.\]](https://osu.ppy.sh/beatmapsets/2230749#mania/4734244)
@@ -140,7 +145,7 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 
 **[Download the mappack here (173 MB)](https://drive.google.com/file/d/1ydF2QZ0uv9HB8m_HeT_1HKpccVxeu2oK/view?usp=sharing)**
 
-\*The Finals' MAD map is **SV2**. The twist is that it has to be played with storyboard turned on and 0% background dim.
+\*The Finals' MAD map was **SV2**. The twist was that it had to be played with storyboard turned on and 0% background dim.
 
 - RC
   1. [chelmico - Easy Breezy (7\_7 bootleg) (IvanOfficial) \[Lemon Squeezy (OMMT4 Edit)\]](https://osu.ppy.sh/beatmapsets/2226675#mania/4723555)
@@ -169,7 +174,7 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 
 **[Download the mappack here (145 MB)](https://drive.google.com/file/d/1GvgEuibPw5LbgpqbwM2yCakRJw4UoM5Z/view?usp=sharing)**
 
-\*The Semifinals' MAD map is **RC5**. The twist is that it has to be played with the **Random** mod.
+\*The Semifinals' MAD map was **RC5**. The twist was that it had to be played with the **Random** mod.
 
 - RC
   1. [Himeringo - Yuudachi no Ribbon (MyZterioN-) \[long-standing 1.1x (253bpm)\]](https://osu.ppy.sh/beatmapsets/2221690#mania/4710471)
@@ -196,7 +201,7 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 
 **[Download the mappack here (182 MB)](https://drive.google.com/file/d/1VIi45i1N5ep1sjXn4exnyMpqHfTiqZoz/view?usp=sharing)**
 
-\*The Quarterfinals' MAD map is **RC4**. The twist is that it has to be played with the **Double Time** mod.
+\*The Quarterfinals' MAD map was **RC4**. The twist was that it had to be played with the **Double Time** mod.
 
 - RC
   1. [t+pazolite - Cheatreal (remity\_) \[Extraneous (230bpm)\]](https://osu.ppy.sh/beatmapsets/2214819#mania/4694245)
@@ -223,7 +228,7 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 
 **[Download the mappack here (73 MB)](https://drive.google.com/file/d/1OcY1lH1PVCF5BvhPs7gSKs2SguIAMkPF/view?usp=sharing)**
 
-\*The Round of 16's MAD map is **LN3**. The twist is that the map has reverse shield patterns with little to no spacing. To balance it, OD 0 was set for the map.
+\*The Round of 16's MAD map was **LN3**. The twist was that the map had reverse shield patterns with little to no spacing. To balance it, OD 0 was set for the map.
 
 - RC
   1. [\[Kyoro\] - Tama Funkot (\[GS\]hina) \[Tamate (OMMT Edit)\]](https://osu.ppy.sh/beatmapsets/2214750#mania/4692734)
@@ -248,7 +253,7 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
 
 **[Download the mappack here (93 MB)](https://drive.google.com/file/d/1yGajSj-kXvBso9rl_b4dYwrdxcLmgwQ9/view?usp=sharing)**
 
-\*The Round of 32's MAD map is **RC3**. The twist is that it has to be played with the **Hard Rock** mod.
+\*The Round of 32's MAD map was **RC3**. The twist was that it had to be played with the **Hard Rock** mod.
 
 - RC
   1. [BEMANI Sound Team "DJ TOTTO" feat.rionos - Simurgh no Mezame (komugii) \[sora x1.1\]](https://osu.ppy.sh/beatmapsets/1415406#mania/2917081)
@@ -286,6 +291,20 @@ The osu!mania Malaysia Tournament 4 is run by various community members.
   1. [awfuless meets Zekk - MATOI -phase L- (\[Andre\]) \[Stage 5: Kamui Senketsu\]](https://osu.ppy.sh/beatmapsets/2206995#mania/4673206)
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 17 August 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Gon and LongGone** | **7** | 0 | Re:Zuna | [#1](https://osu.ppy.sh/matches/115118911) |
+
+Sunday, 18 August 2024:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **leon's waifuus!!** | **7** | 2 | Gon and LongGone | [#1](https://osu.ppy.sh/community/matches/115131174) |
 
 ### Finals
 
