@@ -172,8 +172,9 @@ Unofficial tournaments/competitions hosted by the communities.
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [COE 1v1 Tournament 2022](COE/COE_2022) | 2022-01-17 | 2022-02-17 | ::{ flag=DE }:: okinamo | ::{ flag=GB }:: Malteser | ::{ flag=DK }:: cat burger |
+| [COE 1v1 Tournament 2022](COE/COE_2022) | 2022-07-22 | 2022-08-06 | ::{ flag=DE }:: okinamo | ::{ flag=GB }:: Malteser | ::{ flag=DK }:: cat burger |
 | [COE 1v1 Tournament 2023](COE/COE_2023) | 2023-07-14 | 2023-08-05 | ::{ flag=DE }:: criller | ::{ flag=KR }:: FlyingTuna | ::{ flag=DK }:: cat burger |
+| [COE x Yuki Aim 2024 1v1 Tournament](COE/COE_2024) | 2024-07-16 | 2024-08-03 | ::{ flag=PL }:: MALISZEWSKI | ::{ flag=DE }:: criller | ::{ flag=GB }:: Bubbleman |
 
 #### Coffee Hispanic
 
@@ -310,6 +311,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | [osu! Indonesia Tournament #11 (2021)](OIT/2021) | 2021-01-04 | 2021-03-28 | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) |
 | [osu! Indonesia Tournament #12 (2022)](OIT/2022) | 2022-02-15 | 2022-04-03 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [deeto](https://osu.ppy.sh/users/10069909) | ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594) |
 | [osu! Indonesia Tournament #13 (2023)](OIT/2023) | 2023-06-19 | 2023-07-30 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) |
+
+#### osu! Malaysia Tournament
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu! Malaysia Tournament X](OMT/X) | 2024-08-26 | 2024-10-13 | ::{ flag=MY }:: [wuhua](https://osu.ppy.sh/users/2932510) | ::{ flag=MY }:: [Rampax](https://osu.ppy.sh/users/3995630) | ::{ flag=MY }:: [Lunasa](https://osu.ppy.sh/users/16436446) |
 
 #### osu! Romania Tournament
 
