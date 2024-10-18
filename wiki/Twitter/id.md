@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Twitter
 
 osu! memiliki beberapa akun Twitter yang masing-masingnya memiliki tujuan tertentu. Walaupun sebagian besar akun ini memiliki frekuensi cuitan yang sangat rendah, akun-akun ini akan membantu kamu untuk tetap terkini dengan berbagai informasi di luar lingkungan osu!.
