@@ -45,6 +45,8 @@ The way this miss penalty is applied is also slightly different: longer maps (ba
 
 Put another way, missing in long beatmaps with a single "difficulty spike" will be punished harder than in long maps that are consistently difficult. The algorithm essentially assumes that misses happen on the most difficult parts.
 
+As touched on earlier, big jumps in total pp are expected in this round. The removal of combo scaling will result in large increases for users who have many scores with lower combos that are considered difficult. It may also result in decreases for users who have many scores with higher combos but saturated a lot of misses towards the end of a beatmap.
+
 ### Rhythm complexity improvements
 
 Rhythm complexity can be expressed as "changes in pattern lengths and timings" — quintuples changing into triples, even bursts into odd bursts, 1/4 streams into 1/3 streams, etc. More erratic changes imply a more complex rhythm, making it harder for players to adapt and recognise the rhythm they should tap to.
