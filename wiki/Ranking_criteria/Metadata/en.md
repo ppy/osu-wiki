@@ -142,13 +142,14 @@ When the entire field is uppercase or lowercase, markers may use alternative cas
 ##### Rules: Markers that you must standardise, but not always add
 
 - **If there are similar markers in a song's title, replace them with the relevant marker from the list below.**
-- **If there are no markers, you can only add them when there are multiple versions of a song to indicate the correct version.**
+- **If there are no markers, add one to the shorter version when there are multiple versions of a song with identical original metadata. Use the most appropriate option from the list below.** This is to help indicate the correct version.
+- **Do not add these markers if a track is the only known version of a song.**
 - `(Short Ver.)`
-  - Usually used to signal that a longer version actually exists. Use this when there is an existing length marker such as `-Short Ver-`, `Short Ver.`, `~Short Version~`. This does not apply to `Movie` or `Game Ver.` markers.
+  - Used to mark the shorter version when both long and short versions of a song exist. Examples to replace include: `-Short Ver-`, `Short`, `~Short Version~`.
 - `(Game Ver.)`
-  - Use this marker when there is an existing marker such as `~Game Size~`, `(Game Size)`, `game OP edit`, `OP Version` for tracks used in games.
+  - Used to mark game versions of songs. Examples to replace include: `~Game Size~`, `(Game Size)`, `game OP edit`, `OP Version` for tracks used in games.
 - `(Movie Ver.)`
-  - Use this when there's an existing marker like `Movie EDIT`, `~movie size~`, `Movie Cut`, `(Movie Version)`.
+  - Used to mark movie versions of songs. Examples to replace include: `Movie EDIT`, `~movie size~`, `Movie Cut`, `(Movie Version)`.
 
 #### Guidelines
 
