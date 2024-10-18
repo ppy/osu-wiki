@@ -17,6 +17,8 @@ tags:
   - товар
   - товары
   - символика
+outdated_translation: true
+outdated_since: bcf19a2e1abb302c68a5e6f554cd4f1ec5336a19
 ---
 
 # Магазин osu!store

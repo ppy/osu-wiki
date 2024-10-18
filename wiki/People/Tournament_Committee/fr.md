@@ -1,6 +1,4 @@
 ---
-outdated_since: b37ff19ef3e17565b07306a78c9aef1029181f71
-outdated_translation: true
 no_native_review: true
 tags:
   - TC
@@ -99,7 +97,9 @@ Les nouveaux membres du comité des tournois doivent répondre aux critères de 
 - Être âgé d'au moins 18 ans
 - Vérification de l'existence d'infractions récentes sur les comptes
 
-Qu'un candidat se présente par e-mail ou qu'il soit proposé par un membre existant, la procédure est la même. Le comité des tournois mène une discussion approfondie sur le candidat. Une attention particulière est accordée à son activité sur les tournois, à sa stature, à ses contributions à la communauté et à la manière dont il pourrait être utile à la commission. À l'issue de cette discussion, un vote anonyme est organisé pour déterminer si le candidat est admis au sein de la commission.
+Une fois qu'un membre potentiel a posé sa candidature en envoyant un courriel à [tournaments@ppy.sh](mailto:tournaments@ppy.sh), le comité des tournois organise une discussion approfondie sur le candidat. Une attention particulière est portée à son activité sur les tournois, à sa stature, à ses contributions à la communauté et à la façon dont il pourrait être utile au comité. À l'issue de cette discussion, un vote anonyme est organisé pour déterminer si le candidat est admis au sein de la commission.
+
+Les candidats qui n'obtiennent pas suffisamment de votes positifs verront leur candidature rejetée et ne pourront pas se représenter pendant une période de 6 mois à compter de la réponse à leur candidature. La réponse sera envoyée au plus tard deux semaines après la date d'introduction de la demande.
 
 ### Votes
 
