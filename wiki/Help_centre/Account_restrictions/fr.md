@@ -13,7 +13,7 @@ Lorsqu'un compte est soumis à des restrictions, il ne peut pas interagir avec l
 Les fonctions suivantes sont désactivées pour les comptes soumis à des restrictions :
 
 - La possibilité de participer à des concours officiels
-- La possibilité de participer à des tournois bénéficiant d'un soutien officiel et d'être membre du personnel de ces tournois
+- La possibilité de participer à des tournois et des concours bénéficiant d'un soutien officiel et d'être membre du personnel de ces tournois
 - La possibilité de participer à des salons multijoueurs
 - La possibilité de discuter dans le tchat en jeu
 - La possibilité d''envoyer des messages privé
