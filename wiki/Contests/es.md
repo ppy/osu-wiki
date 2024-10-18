@@ -4,7 +4,7 @@ Esta sección está dedicada a los concursos que se llevan a cabo en toda la com
 
 ## Concursos oficiales
 
-*Véase también: [Puntos de concurso](Contest_points), [Soporte oficial del concurso de mapping](Official_support)*
+*Véase también: [Puntos de los concursos](Contest_points), [Soporte oficial para concursos de beatmapping](Official_support)*
 
 Los concursos oficiales son organizados (o reconocidos como oficiales) por el [osu! team](/wiki/People/osu!_team). La mayoría de los concursos oficiales tienen sus propias páginas en la [lista de concursos](https://osu.ppy.sh/community/contests).
 
