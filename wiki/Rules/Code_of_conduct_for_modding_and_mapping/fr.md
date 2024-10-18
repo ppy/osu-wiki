@@ -1,3 +1,8 @@
+---
+outdated_since: 3b36d38ae903933c6efab9e00637c7c3d3f6fe8a
+outdated_translation: true
+---
+
 # Code de conduite pour le modding et le mapping
 
 Le **code de conduite pour le modding et le mapping** est un ensemble de règles et de lignes directrices qui s'appliquent à l'ensemble d'osu! concernant le [modding](/wiki/Modding) et le [mapping](/wiki/Beatmapping), et constitue une extension des [règles de la communauté d'osu!](/wiki/Rules). Afin de garantir que les discussions sur le mapping et le modding dans les discussions se déroulent dans un environnement constructif, positif et productif, un code de conduite est essentiel pour que tout le monde soit sur la même longueur d'onde. Lorsque vous participez au modding et au mapping, il est obligatoire de suivre ce code de conduite. Tout comportement contraire à ces règles peut entraîner des [sanctions sur votre compte](/wiki/Silence).
