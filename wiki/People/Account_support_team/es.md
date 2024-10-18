@@ -25,8 +25,8 @@ Tienes que comunicarte con este equipo con respecto a temas relacionados con la 
   - eliminaciones de beatmaps;
   - eliminación de comentarios y publicaciones en el foro.
 - Instancias de mala conducta que [deseas admitir](/wiki/Reporting_bad_behaviour/Handling_foul_play#¿qué-puedo-hacer-si-he-roto-las-reglas?).
-- [Pérdida de acceso al correo electrónico](/wiki/Help_centre/Account#inicio-de-sesión) vinculado a tu cuenta de osu!, o cuando tu cuenta es robada.
-- [Cambios en el nombre de usuario y correcciones ortográficas menores](/wiki/Help_centre/Account#cambios-de-nombre).
+- [Pérdida de acceso al correo electrónico](/wiki/Help_centre/Account#sign-in) vinculado a tu cuenta de osu!, o cuando tu cuenta es robada.
+- [Cambios en el nombre de usuario y correcciones ortográficas menores](/wiki/Help_centre/Account#name-changes).
 - [Registros de cuentas bot](/wiki/Bot_account).
 - Solicitudes para acceder a la [función de mensajes de anuncio](/wiki/Announcement_messages).
 
