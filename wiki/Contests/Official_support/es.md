@@ -81,7 +81,7 @@ El osu! team puede decidir denegar el soporte oficial a cualquier concurso que c
 Si se aprueba, tendrás que presentar lo siguiente:
 
 - Una lista de los premiados con las insignias (es decir, los ganadores del concurso).
-- Una insignia con el diseño adecuado (consulta los criterios de diseño de las insignias de perfil en el [artículo de soporte oficial para torneos](/wiki/Tournaments/Official_support#insignias_de_perfil)).
+- Una insignia con el diseño adecuado (consulta los criterios de diseño de las insignias de perfil en el [artículo de soporte oficial para torneos](/wiki/Tournaments/Official_support#insignias-de-perfil)).
 
 En casos excepcionales, se le podrá conceder a un concurso el privilegio de otorgar insignias a sus tres primeros finalistas. Un concurso que ha recibido esta distinción es reconocido por alcanzar el nivel más alto posible de calidad de producción y organización. Esta distinción se concede exclusivamente a discreción del osu! team. Nos pondremos en contacto directamente con los organizadores si fuera el caso.
 
