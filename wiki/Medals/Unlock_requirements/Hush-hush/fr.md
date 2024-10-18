@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Conditions de déverrouillage des médailles : Hush-Hush
 
 Les solutions des médailles [Hush-Hush](/wiki/Medals#hush-hush) sont intentionnellement omises de ce wiki afin de préserver leur caractère secret. La communauté est encouragée à travailler ensemble pour les trouver.
