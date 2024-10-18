@@ -114,9 +114,10 @@ tags:
 | ::{ flag=US }:: [Sydosys](https://osu.ppy.sh/users/17523947) | [Sydosys](https://osu.ppy.sh/beatmaps/artists/392) |
 | ::{ flag=MY }:: [takehirotei](https://osu.ppy.sh/users/11793794) | [takehirotei](https://osu.ppy.sh/beatmaps/artists/428) |
 | ::{ flag=US }:: [tephe](https://osu.ppy.sh/users/32666295) | [tephe](https://osu.ppy.sh/beatmaps/artists/361) |
-| ::{ flag=AU }:: [tomspicy](https://osu.ppy.sh/users/13210748) | [tomspicy](https://osu.ppy.sh/beatmaps/artists/437) |
 | ::{ flag=KR }:: [thenewlimee](https://osu.ppy.sh/users/7802935) | [Raimukun](https://osu.ppy.sh/beatmaps/artists/247) |
 | ::{ flag=RU }:: [tieff](https://osu.ppy.sh/users/89619) | [tieff](https://osu.ppy.sh/beatmaps/artists/34) |
+| ::{ flag=AU }:: [tomspicy](https://osu.ppy.sh/users/13210748) | [tomspicy](https://osu.ppy.sh/beatmaps/artists/437) |
+| ::{ flag=HK }:: [Trainer LOLXD](https://osu.ppy.sh/users/14817071) | [Trina Lydia](https://osu.ppy.sh/beatmaps/artists/440) |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) |
 | ::{ flag=DE }:: [WangleLine](https://osu.ppy.sh/users/7994819) | [WangleLine](https://osu.ppy.sh/beatmaps/artists/427) |
 | ::{ flag=DK }:: [water](https://osu.ppy.sh/users/11671515) | [watering](https://osu.ppy.sh/beatmaps/artists/416) |
