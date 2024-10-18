@@ -13,6 +13,7 @@ tags:
 
 ### osu!
 
+- [Burst](osu!/Bursts)
 - [Джамп](osu!/Jump)
 - [Стрим](osu!/Stream)
 
