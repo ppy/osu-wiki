@@ -14,7 +14,7 @@ Any severe violation of the [community rules](/wiki/Rules) that takes place duri
 
 As a real-world example, such behaviour would include drawing or writing hate symbols/slurs (swastika, etc.) using cursor smoke in streamed matches.
 
-All users returning to the game after a restriction under the standard appeal terms are also subject to a [minimum temporary tournament ban of 1 year](/wiki/Help_centre/Account_restrictions#reasons), which may be lengthened at the discretion of the [account support team](/wiki/People/Account_support_team).
+All users returning to the game after a restriction under the standard appeal terms are also subject to a [minimum temporary tournament ban of 1 year](/wiki/Help_centre/Account_restrictions#reasons), which may be lengthened at the discretion of the [account support team](/wiki/People/The_Team/Account_support_team).
 
 ## What causes someone to receive an indefinite tournament ban? {id=why-permanent}
 
@@ -38,7 +38,7 @@ Indefinite tournament bans may be appealed after at least **two years** (24 mont
 
 Though it is possible to appeal indefinite tournament bans as above, it should be stressed that significant effort in the greater community outside writing an appeal should be expected for any earnest chance of success.
 
-In rare situations, the [account support team](/wiki/People/Account_support_team) may review individual cases at their discretion and remove or reapply appropriate punishments to ensure they remain consistent with similar instances in the past.
+In rare situations, the [account support team](/wiki/People/The_Team/Account_support_team) may review individual cases at their discretion and remove or reapply appropriate punishments to ensure they remain consistent with similar instances in the past.
 
 ## What can I do while tournament-banned? {id=while-banned}
 
