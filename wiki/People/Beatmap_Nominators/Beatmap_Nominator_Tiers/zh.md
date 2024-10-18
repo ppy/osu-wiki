@@ -27,4 +27,4 @@
 
 ![](img/commentary.png "对 BN 等级的评价")
 
-谱面审核者等级是[正式谱面审核成员](/wiki/People/Beatmap_Nominators#full-beatmap-nominators)和[见习谱面审核成员](/wiki/People/Beatmap_Nominators#probationary-beatmap-nominators)分类的前身（新的分类在 2017 年九月提出）。 他们的权限几乎相同，但见习成员不能在见习等级中停留超过两个月。如果他们两个月还没有成为正式成员，那么会被彻底开除。
+谱面审核者等级是[正式谱面审核成员](/wiki/People/Beatmap_Nominators#正式成员)和[见习谱面审核成员](/wiki/People/Beatmap_Nominators#见习成员)分类的前身（新的分类在 2017 年九月提出）。 他们的权限几乎相同，但见习成员不能在见习等级中停留超过两个月。如果他们两个月还没有成为正式成员，那么会被彻底开除。

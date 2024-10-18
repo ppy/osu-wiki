@@ -17,7 +17,7 @@ tags:
 
 ## 任务
 
-LSD 成员是 osu! 团队从社区中手动挑选出来的，他们是流量较小的社区和子论坛的管理员。与全局管理员不同，他们并没有像彩色用户名或自定义论坛标题这样的功能。但是，在 [IRC](/wiki/Community/Internet_Relay_Chat) 中他们是[管理员](/wiki/Community/Internet_Relay_Chat#why-are-some-usernames-prefixed-with-different-signs?)，并且可以执行[禁言](/wiki/Silence)。
+LSD 成员是 osu! 团队从社区中手动挑选出来的，他们是流量较小的社区和子论坛的管理员。与全局管理员不同，他们并没有像彩色用户名或自定义论坛标题这样的功能。但是，在 [IRC](/wiki/Community/Internet_Relay_Chat) 中他们是[管理员](/wiki/Community/Internet_Relay_Chat#为什么有些人的用户名前缀不同？)，并且可以执行[禁言](/wiki/Silence)。
 
 LSD 也是为那些有前途加入[全局管理团队](/wiki/People/Global_Moderation_Team)的成员所准备的中介。这是因为，这两个团队总体上的目标和技能要求是相似的。<!-- internal reference: https://osu.ppy.sh/community/forums/topics/123465 -->
 
