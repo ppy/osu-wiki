@@ -22,7 +22,7 @@ Además, el comité de torneos desempeña las siguientes funciones independiente
 - Revisar regularmente la página de [soporte oficial para torneos](/wiki/Tournaments/Official_support) para realizar alguna modificación necesaria.
 - Investigar los reportes del [formulario de reportes de torneos](https://pif.ephemeral.ink/tournament-reports).
 - Comprobar si los torneos finalizados que hayan solicitado soporte oficial cumplen sus criterios.
-- Asesorar al equipo de noticias de osu! sobre si se debe hacer una [noticia](/wiki/Tournaments/Official_support#requesting-in-game-banner-and-news-post-support) para el torneo.
+- Asesorar al equipo de noticias de osu! sobre si se debe hacer una [noticia](/wiki/Tournaments/Official_support#solicitar-soporte-para-banners-dentro-del-juego-y-noticias) para el torneo.
 - Mantener la comunicación con la base de jugadores en general sobre los cambios en los criterios de soporte oficial y el estado de todos los torneos que hayan solicitado soporte oficial.
 
 ## Comité de concursos
@@ -58,7 +58,7 @@ Una vez que un torneo ha finalizado y ha solicitado un premio en forma de insign
 - Cualquier restricción de registro regional es consistente desde el punto de vista geográfico y/o cultural.
 - La existencia de un catálogo públicamente visible del historial de los partidos del torneo.
 - Todas las listas de personal y jugadores están a disposición del público y la lista del personal está actualizada.
-- La insignia cumple con los [criterios de diseño](/wiki/Tournaments/Official_support#profile-badges) correspondientes.
+- La insignia cumple con los [criterios de diseño](/wiki/Tournaments/Official_support#insignias-de-perfil) correspondientes.
 
 Los miembros asignados indicarán los torneos que superen el proceso de revisión como aptos para recibir insignias. El equipo de soporte de cuentas aplicará las insignias más adelante a los perfiles de los ganadores. Si un torneo no pasa el proceso de revisión, los miembros revisores podrán informar al equipo de soporte de cuentas sobre los cambios que deben comunicarse a los organizadores del torneo. Si estos cambios no son posibles una vez finalizado el torneo, el comité de torneos realizará una votación anónima para decidir si retira el soporte oficial.
 
@@ -71,7 +71,7 @@ Los torneos pueden ser reportados por violación de los criterios oficiales de s
 
 ### Publicaciones de noticias
 
-*Véase también: [Soporte oficial para torneos § Publicaciones de noticias](/wiki/Tournaments/Official_support#news-posts) y [Criterios de estilo de las noticias](/wiki/News_styling_criteria)*
+*Véase también: [Soporte oficial para torneos § Noticias](/wiki/Tournaments/Official_support#noticias) y [Criterios de estilo para las noticias](/wiki/News_styling_criteria)*
 
 Cuando se reciba un correo electrónico solicitando una noticia para un torneo, se notificará al comité de torneos. Si el torneo cumple todos los criterios de elegibilidad para la publicación de una noticia y el consenso en la discusión es positivo después de 48 horas, el comité de torneos reenviará la solicitud al equipo de noticias para su aprobación.
 

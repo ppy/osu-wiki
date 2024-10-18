@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 422698dbf36efb2be8537ab4d319428032966405
+---
+
 # Modes de jeu
 
 osu! propose quatre **modes de jeu** aux mécaniques différentes, inspirés à l'origine d'autres jeux de rythme :
