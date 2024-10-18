@@ -1,3 +1,8 @@
+---
+outdated_since: 3b36d38ae903933c6efab9e00637c7c3d3f6fe8a
+outdated_translation: true
+---
+
 # Kode etik dalam modding dan mapping
 
 **Kode Etik dalam Modding dan Mapping** adalah kumpulan dari beberapa aturan dan pedoman yang berlaku untuk seluruh aktivitas [modding](/wiki/Modding) dan [mapping](/wiki/Beatmapping) di dalam osu!, pedoman ini juga merupakan tambahan untuk [aturan komunitas osu!](/wiki/Rules) dan [Ranking Criteria](/wiki/Ranking_criteria). Kode etik memiliki peran penting untuk membuat semua orang tetap berada dalam topik pembahasan, memastikan diskusi modding dan mapping tetap berlangsung terkendali, konstruktif, positif dan produktif, kode etik perannya sangat penting untuk membuat semua orang tetap berada dalam topik pembahasan. Saat berpartisipasi dalam aktivitas modding dan mapping, kamu wajib mengikuti kode etik ini. [Sanksi akan dijatuhkan pada akunmu jika terbukti melakukan pelanggaran terhadap pedoman ini](/wiki/Silence).
