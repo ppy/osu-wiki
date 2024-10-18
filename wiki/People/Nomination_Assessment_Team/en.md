@@ -172,7 +172,6 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | :-- | :-- |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamese |
 | ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | Chinese |
-| ::{ flag=US }:: [Hugged](https://osu.ppy.sh/users/12589220) | Turkish |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesian |
 | ::{ flag=DZ }:: [Scotty](https://osu.ppy.sh/users/11085809) | Arabic, French |
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Catalan, Spanish |
@@ -186,7 +185,7 @@ The following NAT members are exclusively responsible for structural tasks, and 
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Handling internal discussions, affairs, and documentation |
 | ::{ flag=GB }:: [moonpoint](https://osu.ppy.sh/users/9558549) | Internal tooling development |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | [Aiess](https://github.com/Naxesss/Aiess) and [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) maintenance |
-| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Ranking Criteria upkeep |
+| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | Ranking Criteria upkeep |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [BN Management website](https://bn.mappersguild.com) development |
 
 The following NAT members are primarily evaluators, but also contribute to structural tasks:
