@@ -24,7 +24,7 @@ Les développeurs d'osu! préparent des propositions fusionnées qui seront dép
 
 ## Communication
 
-Le comité des points de performance opère principalement sur le [serveur Discord des points de performance](https://discord.gg/aqPCnXu), certains modes de jeu ayant également des [serveurs séparés](/wiki/Community/Discord_servers#community-development). Le comité dispose également d'un [compte Twitter](https://x.com/pp_committee) utilisé pour les annonces officielles et les nouvelles relatives au calcul de la difficulté.
+Le comité des points de performance opère principalement sur le [serveur Discord des points de performance](https://discord.gg/aqPCnXu), certains modes de jeu ayant également des [serveurs séparés](/wiki/Community/Discord_servers#développement-communautaire). Le comité dispose également d'un [compte Twitter](https://x.com/pp_committee) utilisé pour les annonces officielles et les nouvelles relatives au calcul de la difficulté.
 
 ## Membres
 
