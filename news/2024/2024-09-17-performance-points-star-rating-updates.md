@@ -82,11 +82,11 @@ We expect more pp changes related to slider head accuracy in the future!
 
 ### Minor changes
 
-- A [slider mechanics change](https://github.com/ppy/osu/pull/24966) was made to adjust slider ends to be more lenient during fast sliders which has resulted in buffs on some maps with very fast sliders such as [ocelot - KAEDE](https://osu.ppy.sh/beatmapsets/660630#osu/1398809). You can find more about this change in the related [osu!(lazer) updates video](https://www.youtube.com/watch?v=SlWKKA-ltZY).
-- Some various refactorings across difficulty calculation and performance calculation proposed by [Givikap120](https://osu.ppy.sh/users/10560705) to reduce duplication. [#1](https://github.com/ppy/osu/pull/29293) [#2](https://github.com/ppy/osu/pull/29294) [#3](https://github.com/ppy/osu/pull/29292) [#4](https://github.com/ppy/osu/pull/29291)
+- A [slider mechanics change](https://github.com/ppy/osu/pull/24966) was made to adjust slider ends to be more lenient during fast sliders, which has resulted in buffs on some maps with very fast sliders such as [ocelot - KAEDE](https://osu.ppy.sh/beatmapsets/660630#osu/1398809). You can find more about this change in the related [osu!(lazer) updates video](https://www.youtube.com/watch?v=SlWKKA-ltZY).
+- [Givikap120](https://osu.ppy.sh/users/10560705) refactored and cleaned up [various](https://github.com/ppy/osu/pull/29293) [areas](https://github.com/ppy/osu/pull/29294) [of](https://github.com/ppy/osu/pull/29292) [performance calculation code](https://github.com/ppy/osu/pull/29291) to make them easier to understand and maintain.
 - An [aim skill multiplier rebalance](https://github.com/ppy/osu/pull/29998) proposed by [tsunyoku](https://osu.ppy.sh/users/11315329) was made in order to ensure the final results of all major changes are in line with expectations.
-- A [speed accuracy scaling change](https://github.com/ppy/osu/pull/30088) proposed by [StanR](https://osu.ppy.sh/users/7217455) was made to uncap OD scaling on speed as it would never account for ODs lower than 8 when punishing low accuracy.
-- [Finadoggie](https://osu.ppy.sh/users/14182048)'s proposed [score statistics estimation change](https://github.com/ppy/osu/pull/27691) was made to ensure that slider breaks and dropped slider ends are correctly accounted for on osu!(lazer) scores.
+- A [speed accuracy scaling change](https://github.com/ppy/osu/pull/30088) proposed by [StanR](https://osu.ppy.sh/users/7217455) was made to punish lower accuracies below OD 8 more harshly.
+- [Finadoggie](https://osu.ppy.sh/users/14182048)'s proposed [score statistics estimation change](https://github.com/ppy/osu/pull/27691) was made to ensure that slider breaks and dropped slider ends are correctly accounted for in osu!(lazer) scores.
 
 ## osu!taiko
 
