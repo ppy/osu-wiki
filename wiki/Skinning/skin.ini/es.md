@@ -1,3 +1,8 @@
+---
+outdated_since: dcec646e6b02b2ecbfddc15077ee9c6ed142fbd0
+outdated_translation: true
+---
+
 # Archivo skin.ini
 
 *Véase también: [skin.ini en blanco](/wiki/Skinning/skin.ini/Blank)*
@@ -789,5 +794,5 @@ Keys: 5
   - Pregunta: ¿Cuál será el nombre de la imagen de hit300?
   - Valor: texto *(ruta de la imagen)*
 - `Hit300g:`
-  - Pregunta: ¿Cuál será el nombre de la imagen de hit300g? 
+  - Pregunta: ¿Cuál será el nombre de la imagen de hit300g?
   - Valor: texto *(ruta de la imagen)*
