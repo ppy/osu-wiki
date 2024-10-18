@@ -32,7 +32,7 @@ Această secțiune este dedicată problemelor cu site-ul osu!
 
 Poți să trimiți oricând un răspuns tichetului tău de asistență deschis pentru a cere starea cazului tău dar asigură-te că nu faci asta mai mult de o dată sau de două ori pe săptămână. Poți să ne contactezi și pe Twitter la [@osusupport](https://twitter.com/osusupport) pentru a întreba despre tichetul tău.
 
-În cazuri rare, tichetele de asistență de la utilizatorii care realizează abateri în mod repetat pot fi ignorate, deși [echipa de asistență](/wiki/People/The_Team/Account_support_team) te va anunța **garantat** prima dată când nu îți va mai răspunde. Dacă nu ai primit o notificare de genul, nu trebuie să te îngrijorezi!
+În cazuri rare, tichetele de asistență de la utilizatorii care realizează abateri în mod repetat pot fi ignorate, deși [echipa de asistență](/wiki/People/Account_support_team) te va anunța **garantat** prima dată când nu îți va mai răspunde. Dacă nu ai primit o notificare de genul, nu trebuie să te îngrijorezi!
 
 ### Pot să blochez complet un alt utilizator din a mă contacta? {id=ignore-user}
 
