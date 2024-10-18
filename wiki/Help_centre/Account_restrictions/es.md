@@ -9,7 +9,7 @@ Cuando una cuenta es restringida, es incapaz de interactuar con la comunidad has
 Las siguientes funciones están desactivadas para las cuentas restringidas:
 
 - posibilidad de participar en concursos oficiales
-- posibilidad de participar y ser parte del personal en torneos patrocinados oficialmente
+- posibilidad de participar y ser parte del personal en torneos y concursos patrocinados oficialmente
 - posibilidad de participar en salas multijugador
 - chat dentro del juego
 - mensajes privados
