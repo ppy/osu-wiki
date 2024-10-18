@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Tryby gry
 
 osu! ma cztery wbudowane **tryby gry** z innnymi mechanikami, orginalnie zainsiprowane przez inne gry rytmiczne:
