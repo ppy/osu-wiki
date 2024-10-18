@@ -261,6 +261,12 @@ Berikut merupakan berbagai turnamen/kompetisi tidak resmi yang diselenggarakan o
 | osu! European Tournament 3 | 2019-02-08 | 2020-03-23 | Woopak :CRAB: | Fondermanp2p | Käptn Mein Käptn |
 | [osu! European Tournament 2021](o!ET/2021) | 2021-05-15 | 2021-07-11 | opa pizdec | The Cow Fields | Team Papayapa |
 
+#### osu! FumoFumo Cup
+
+| Nama | Mulai | Selesai | ![Mahkota Emas][GCrown] | ![Mahkota Perak][SCrown] | ![Mahkota Perunggu][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu! FumoFumo Cup: cirno](OFFC/cirno) | 2024-09-15 | - | - | - | - |
+
 #### osu! Indonesia Tournament
 
 | Nama | Mulai | Selesai | ![Mahkota Emas][GCrown] | ![Mahkota Perak][SCrown] | ![Mahkota Perunggu][BCrown] |

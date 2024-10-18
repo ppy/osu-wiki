@@ -17,7 +17,6 @@
 - [Пользовательская библиотека хитсаундов](Custom_hitsound_library)
 - [Руководство по редактированию аудио](Audio_editing)
 - [Сжатие файлов](Compressing_files)
-- [Скачивание видео с YouTube](Videos_from_YouTube)
 - [Нестандартные хитсаунды](Custom_sample_overrides)
 - [Тайминг песен с размером такта #/8](Timing_songs_with_8-signatures)
 - [Теория музыки](/wiki/Music_theory)
