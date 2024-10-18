@@ -6,7 +6,7 @@ date: 2024-10-06 18:00:00 +0000
 
 You don't need synesthesia to see why **Trina Lydia**'s music is worth mapping.
 
-![](https://assets.ppy.sh/artists/440/header.jpg)
+![](/wiki/shared/news/2024-10-06-new-featured-artist-trina-lydia/trina_lydia_banner.png)
 
 While **Trina Lydia**'s style is clearly reminiscent of authentic rhythm game tunes, they refuse to stick to a single genre.
 
