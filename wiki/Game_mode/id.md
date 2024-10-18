@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 422698dbf36efb2be8537ab4d319428032966405
+---
+
 # Mode permainan
 
 osu! memiliki empat **mode permainan** yang dapat kamu mainkan. Keempat mode permainan tersebut secara garis besar terinspirasi dari berbagai *rhythm game* lain yang ada di luar sana dengan mekanisme permainan yang saling berbeda antar satu sama lain sebagai berikut :

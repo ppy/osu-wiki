@@ -19,7 +19,6 @@
 - [osu!mania 作图指南](osu!mania_mapping_guide)
 - [调整偏移值来对齐节拍](Setting_the_offset_on_the_correct_beat)
 - [使用自定义打击音效](Using_custom_hitsounds)
-- [YouTube 上的视频](Videos_from_YouTube)
 - [测定 #/8 拍歌曲的时间轴](Timing_songs_with_8-signatures)
 
 ## 摸图
