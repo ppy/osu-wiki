@@ -30,7 +30,6 @@ La [Pagina di Gruppo degli osu!Alumni](https://osu.ppy.sh/groups/16) ne elenca t
 | ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) | QAT, NAT |
 | ::{ flag=FI }:: [Asphyxia](https://osu.ppy.sh/users/1715720) | BAT, GMT, QAT |
 | ::{ flag=CN }:: [Atrue](https://osu.ppy.sh/users/1758523) | GMT |
-| ::{ flag=CA }:: [Aurele](https://osu.ppy.sh/users/654108) | BAT, GMT, QAT |
 | ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | GMT |
 | ::{ flag=AU }:: [Azure_Kite](https://osu.ppy.sh/users/66296) | MAT |
 | ::{ flag=CN }:: [Ballance](https://osu.ppy.sh/users/165946) | Moderatore della Chat |
@@ -109,6 +108,7 @@ La [Pagina di Gruppo degli osu!Alumni](https://osu.ppy.sh/groups/16) ne elenca t
 | ::{ flag=MY }:: [HeatKai](https://osu.ppy.sh/users/332555) | BAT, Moderatore della Chat |
 | ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | GMT |
 | ::{ flag=US }:: [Hitoshirenu Shourai](https://osu.ppy.sh/users/602) | BAT |
+| ::{ flag=US }:: [Hugged](https://osu.ppy.sh/users/12589220) | NAT |
 | ::{ flag=GB }:: [hypercyte](https://osu.ppy.sh/users/9155377) | NAT |
 | ::{ flag=HK }:: [IamKwaN](https://osu.ppy.sh/users/1856463) | BAT, Moderatore della Chat, GMT, QAT |
 | ::{ flag=RU }:: [IceBeam](https://osu.ppy.sh/users/208440) | BAT |
@@ -206,7 +206,6 @@ La [Pagina di Gruppo degli osu!Alumni](https://osu.ppy.sh/groups/16) ne elenca t
 | ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341) | GMT |
 | ::{ flag=CN }:: [popner](https://osu.ppy.sh/users/759860) | BAT |
 | ::{ flag=MY }:: [PROGUY](https://osu.ppy.sh/users/528181) | QAT |
-| ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) | QAT, GMT |
 | ::{ flag=SE }:: [PuffBuck](https://osu.ppy.sh/users/4234525) | Organizzazione tornei |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | NAT |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | NAT |
@@ -218,6 +217,7 @@ La [Pagina di Gruppo degli osu!Alumni](https://osu.ppy.sh/groups/16) ne elenca t
 | ::{ flag=US }:: [Roddie](https://osu.ppy.sh/users/121337) | BAT |
 | ::{ flag=US }:: [Rolled](https://osu.ppy.sh/users/5243) | BAT |
 | ::{ flag=IT }:: [Roxas](https://osu.ppy.sh/users/1041833) | QAT |
+| ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069) | GMT |
 | ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | NAT |
 | ::{ flag=CO }:: [Sakura](https://osu.ppy.sh/users/289422) | BAT, GMT |
 | ::{ flag=US }:: [SapphireGhost](https://osu.ppy.sh/users/388602) | BAT |
@@ -253,6 +253,7 @@ La [Pagina di Gruppo degli osu!Alumni](https://osu.ppy.sh/groups/16) ne elenca t
 | ::{ flag=SE }:: [theowest](https://osu.ppy.sh/users/60604) | GMT |
 | ::{ flag=US }:: [TheVileOne](https://osu.ppy.sh/users/278862) | osu!dev |
 | ::{ flag=RU }:: [tieff](https://osu.ppy.sh/users/89619) | BAT |
+| ::{ flag=JP }:: [TKS](https://osu.ppy.sh/users/940878) | GMT |
 | ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236) | GMT |
 | ::{ flag=FR }:: [Tommay](https://osu.ppy.sh/users/3132818) | GMT |
 | ::{ flag=AU }:: [tsububu](https://osu.ppy.sh/users/61) | BAT |
