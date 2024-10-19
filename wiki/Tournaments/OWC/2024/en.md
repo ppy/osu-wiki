@@ -129,7 +129,7 @@ The osu! World Cup 2024 is run by the [osu! team](/wiki/People/osu!_team) and va
 | ::{ flag=UY }:: | **Uruguay** | **[Rebo](https://osu.ppy.sh/users/6942259)**, [-PloX](https://osu.ppy.sh/users/6404583), [El Milanga](https://osu.ppy.sh/users/12264918), [etterna in osu](https://osu.ppy.sh/users/5243536), [FDX](https://osu.ppy.sh/users/8987016), [Kazuki K](https://osu.ppy.sh/users/6407282), [Madozito](https://osu.ppy.sh/users/4054429), [Shikkesora](https://osu.ppy.sh/users/5382216) |
 | ::{ flag=VN }:: | **Vietnam** | **[def](https://osu.ppy.sh/users/21619075)**, [\_ Freedom \_](https://osu.ppy.sh/users/3999831), [\_Casiofx580vnx](https://osu.ppy.sh/users/848961), [Another Guy](https://osu.ppy.sh/users/4540667), [Ayamaki](https://osu.ppy.sh/users/16396650), [baoo](https://osu.ppy.sh/users/11021073), [t4hN](https://osu.ppy.sh/users/18948749), [walle](https://osu.ppy.sh/users/8431549) |
 
-Captains are listed in **bold**. Individual team compositions subject to change until **Sunday, October 20 10:00 UTC**. This list was last updated on **October 1 **.
+Captains are listed in **bold**. Individual team compositions subject to change until **Sunday, October 20 10:00 UTC**. This list was last updated on **October 19**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/8384063b39b9991421fec24df0e04ceb).
 
