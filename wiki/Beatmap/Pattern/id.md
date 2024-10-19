@@ -13,8 +13,9 @@ tags:
 
 ### osu!
 
-- [Jump](Jump)
-- [Stream](Stream)
+- [Burst](osu!/Bursts)
+- [Jump](osu!/Jump)
+- [Stream](osu!/Stream)
 
 ### osu!mania
 

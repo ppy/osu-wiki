@@ -2,20 +2,20 @@
 stub: true
 tags:
   - patterns
+
 ---
 
 # Pattern
 
 A **pattern** is a small set of [hit objects](/wiki/Gameplay/Hit_object) within a [beatmap](/wiki/Beatmap) arranged in a meaningful way.
 
-## Common pattern types
-
-<!-- TODO: add more -->
+## Pattern types
 
 ### osu!
 
-- [Jump](osu!/Jump)
-- [Stream](osu!/Stream)
+- [Burst](osu!/Bursts)
+- [Jumps](osu!/Jump), and their types
+- [Streams](osu!/Stream), and their types
 
 ### osu!mania
 
