@@ -901,7 +901,7 @@ These songs are part of the [tomspicy osu! collection 01 EP](https://osu.ppy.sh/
 
 | Links | FA | Song | Beatmap | Notes |
 | --: | :-: | :-- | :-: | :-- |
-|  |  | Altermis - \<O.M.T\> // ABSOLUTE-MEGAREMIX // | [#1](https://osu.ppy.sh/beatmapsets/2261761) | Grand Finals tiebreaker |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/altermisdesu/omt-absolute-megaremix-omtx-grandfinals-tiebreaker "SoundCloud") |  | Altermis - \<O.M.T\> // ABSOLUTE-MEGAREMIX // | [#1](https://osu.ppy.sh/beatmapsets/2261761) | Grand Finals tiebreaker |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/takehirotei/finale-battle-of-the-requiem-incandescent "SoundCloud") |  | takehirotei - Finale Battle of the Requiem \~incandescent\~[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2254601) | Semifinals HD3 |
 
 #### ![](/wiki/shared/mode/osu.png) osu! Nepal Cup 2024
