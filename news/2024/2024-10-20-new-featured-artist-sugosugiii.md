@@ -10,7 +10,7 @@ At long last, osu!'s Featured Artist library is finally home to **sugosugiii**!
 
 Since starting to produce music in 2015, **sugosugiii** has made a name for themselves through *BMS OF FIGHTERS* events, winning 2nd place in HoYoLAB's "Season of Creativity" competition, and events like our own community's *4K Korean Mania Tournament 2*. Now, **sugosugiii**'s legacy is part of osu!'s [official music library](https://osu.ppy.sh/beatmaps/artists) too.
 
-What can you do with this info? [**sugosugiii**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/442) has  **7** songs pre-timed and ready for mapping. So you should do that.
+What can you do with this info? [**sugosugiii**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/442) has  **8** songs pre-timed and ready for mapping. So you should do that.
 
 Anyone who played today's [daily challenge](https://osu.ppy.sh/home/news/2024-07-25-introducing-daily-challenges) should know **sugosugiii** by now:
 
