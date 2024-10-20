@@ -1,9 +1,11 @@
 ---
 tags:
   - bancho
-  - bot
+  - server bot
+  - commands
+  - announcements
+  - 服务器机器人
   - 指令
-  - 命令
   - 公告
 ---
 
