@@ -6,7 +6,7 @@ tags:
 
 # Beatmap Nominators events
 
-This article lists the events that the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) have hosted in the past within the peers in their usergroup. These events were meant to gameify the Beatmap Nominators' tasks and provide a fun way to interact with their work while actively offering incentives for their efforts.
+This article lists the events hosted by the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) for the [Beatmap Nominators](/wiki/People/Beatmap_Nominators). These events aimed to provide fun challenges for Beatmap Nominators to participate in, while also offering incentives for their efforts.
 
 ## New Mapper Nomination Event
 
