@@ -56,6 +56,10 @@ Serving as a memorial to the first two seasons that were published in a PDF form
 
 From May through August, the [Icons of an Era](https://osu.ppy.sh/home/news/2023-05-10-skinning-contest-icons-of-an-era) skinning contest was organised to celebrate 15 years of osu! in the form of [skins](/wiki/Skin) representing popular beatmaps or mascots. [Spoo](https://osu.ppy.sh/users/11805037), [Chromasia](https://osu.ppy.sh/users/7306251), and [thetasigma](https://osu.ppy.sh/users/6234482) won first, second, and third place in the contest respectively. The prize included a custom badge and varying amounts of osu!supporter.[^icons-of-an-era]
 
+::: Infobox
+![](img/place-profile.png "Screenshot of the canvas on 20 October 2024")
+:::
+
 [Dynam1cNET](https://osu.ppy.sh/users/12540789) implemented a custom [r/place](https://en.wikipedia.org/wiki/R/place)-like canvas on their profile page, allowing any user to *place* coloured pixels on it.[^me-page-place]
 
 ## November
